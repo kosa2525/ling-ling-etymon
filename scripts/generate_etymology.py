@@ -103,11 +103,16 @@ def get_existing_data() -> List[Dict]:
     if not os.path.exists(DATA_JS_PATH): return []
     try:
         with open(DATA_JS_PATH, 'r', encoding='utf-8') as f:
-            content = f.read()
-        array_match = re.search(r'const\s+WORDS\s*=\s*(\[.*?\])\s*;?\s*$', content, re.DOTALL)
-        if array_match:
-            return json.loads(array_match.group(1))
-    except: pass
+            content = f.read().strip()
+        
+        if "const WORDS =" in content:
+            # "const WORDS =" の後から最後までを取得し、末尾のセミコロンを除去
+            json_part = content.split("const WORDS =", 1)[1].strip()
+            if json_part.endswith(";"):
+                json_part = json_part[:-1].strip()
+            return json.loads(json_part)
+    except Exception as e:
+        print(f"Loading error in get_existing_data: {e}")
     return []
 
 def suggest_batch_words(existing_ids, count=10):

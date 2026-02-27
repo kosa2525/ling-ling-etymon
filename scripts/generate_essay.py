@@ -30,19 +30,25 @@ PROMPT_TEMPLATE = f"""
 """
 
 def extract_valid_essays(text):
-    """強力なJSON抽出ロジック"""
+    """堅牢な読み込みロジック"""
+    text = text.strip()
+    if not text:
+        return []
+        
+    try:
+        if "const ESSAYS =" in text:
+            json_part = text.split("const ESSAYS =", 1)[1].strip()
+            if json_part.endswith(";"):
+                json_part = json_part[:-1].strip()
+            return json.loads(json_part)
+    except Exception as e:
+        print(f"Loading error in extract_valid_essays: {e}")
+
+    # 上記が失敗し、かつ断片的なエッセイを探す必要がある場合のみバックアップロジック
     essays = []
-    # 単純な全体パースを試みる
-    match = re.search(r'const\s+ESSAYS\s*=\s*(\[.*\])\s*;?\s*$', text, re.DOTALL)
-    if match:
-        try:
-            return json.loads(match.group(1))
-        except:
-            pass
-    
-    # 失敗した場合は個別のオブジェクトを抽出
     starts = [m.start() for m in re.finditer(r'\{\s*"id":\s*"essay_', text)]
     for start in starts:
+        # (以前のフォールバック処理を維持、ただし基本は上のjson.loadsで通るはず)
         brace_count = 0
         in_string = False
         escape = False

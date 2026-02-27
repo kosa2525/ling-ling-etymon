@@ -8166,5 +8166,91 @@ const WORDS = [
                 },
                 "source": "Oxford English Dictionary",
                 "date": "2026-02-28"
+        },
+        {
+                "id": "electric",
+                "word": "Electric",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "elektron-",
+                                        "type": "root",
+                                        "meaning": "琥珀",
+                                        "lang": "Greek"
+                                }
+                        ],
+                        "original_statement": "The word 'electric' originates from the Greek word 'elektron,' meaning 'amber,' reflecting the static electric phenomena observed when amber was rubbed."
+                },
+                "core_concept": {
+                        "en": "A dance of invisible forces, sparked from the touch of amber.",
+                        "ja": "琥珀の触れ合いから始まる見えざる力の舞踏"
+                },
+                "thinking_layer": "電気とは、我々の世界を編む目に見えない糸。電流はひとつの生命のリズム、物質とエネルギーがどのように調和し、無限の可能性の中で形を取るかを示すものである。人類が初めて琥珀を擦り、その不思議な輝きと力の放電を見たとき、それは神秘的な力の扉を開く瞬間であった。電気という存在は、一瞬の閃きが宇宙規模の現象を呼び覚ます、自然界の詩そのものである。不確かであると同時に確かな概念として、人間の理性と直感のはざまに立ち、それは常に我々に挑戦状を叩きつける。電気とは、物理的制約を超えた可能性のメタファーである。そして、その奥深くに潜むテクノロジーと自然の融合は、新たな創造の源となり得る。電気の哲学は、見えないからこそその存在を意識せざるを得ない、我々に問いかける力である。",
+                "synonyms": [
+                        "Dynamic",
+                        "Energetic"
+                ],
+                "antonyms": [
+                        "Static",
+                        "Inactive"
+                ],
+                "aftertaste": "Electricity is the unseen architect of motion and change.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "elektron",
+                                        "meaning": "amber"
+                                }
+                        ],
+                        "points": [
+                                "電気の語源は、琥珀の擦過現象に端を発し、目に見えない力による作用と物理的現象の調和を表している。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-02-28"
+        },
+        {
+                "id": "dessert",
+                "word": "Dessert",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "des-servir",
+                                        "type": "root",
+                                        "meaning": "解除する",
+                                        "lang": "フランス語"
+                                }
+                        ],
+                        "original_statement": "The English word 'dessert' derives from the French 'desservir', meaning 'to clear the table'. It comes from the behavior of clearing the table after the main courses, dating back to the mid-16th century."
+                },
+                "core_concept": {
+                        "en": "A sweet close to a savory symphony.",
+                        "ja": "芳醇な食卓を締めくくる甘美な結び"
+                },
+                "thinking_layer": "デザートという概念は、単なる食事の終わりを告げるものではなく、人間の喜びと魂の奥深くに触れる特別な時間の象徴でもあります。この小さな甘い一品を楽しむ瞬間、人間はその日一日の疲れを癒やし、未来への期待を新たにします。デザートは過去と未来、甘美と現実、時間という概念をも超越し、瞬間の永遠を宿すものです。人生のスイートスポットとも言えるこのひとときには、無数の文化と嗜好が交差し、デザートを取り巻くすべての形と色が、無言の対話を繰り広げています。それはまた、時間と空間という限界を超えて、私たちが誰であるか、そしてどのように存在するかを映し出す鏡としての役割を果たしています。デザートの甘みは、単なる砂糖の結晶以上のものであり、私たちの心の深奥に響く音楽であると言えるでしょう。これを噛み締めることで、人間は短い瞬間ではありますが、無限の広がりを持ち、そこに込められた物語と夢を味わうのです。",
+                "synonyms": [
+                        "Confection",
+                        "Sweet"
+                ],
+                "antonyms": [
+                        "Entrée",
+                        "Main course"
+                ],
+                "aftertaste": "In the final indulgence, sweetness whispers the last note of culinary satisfaction.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "servir",
+                                        "meaning": "to serve"
+                                }
+                        ],
+                        "points": [
+                                "『デザート』の概念は歴史を通じてさまざまな文化の影響を受け、各国の食文化特有の形として進化してきました。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-02-28"
         }
 ];
