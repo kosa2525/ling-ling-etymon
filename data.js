@@ -4967,5 +4967,379 @@ const WORDS = [
                 },
                 "source": "Oxford English Dictionary",
                 "date": "2026-02-27"
+        },
+        {
+                "id": "sandwich.",
+                "word": "Sandwich.",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "sand",
+                                        "type": "prefix/root",
+                                        "meaning": "砂",
+                                        "lang": "English"
+                                },
+                                {
+                                        "text": "wich",
+                                        "type": "suffix",
+                                        "meaning": "接尾辞で地名にも使用",
+                                        "lang": "Old English"
+                                }
+                        ],
+                        "original_statement": "The word 'sandwich' originated from John Montagu, the 4th Earl of Sandwich, a title derived from the town of Sandwich in Kent, England."
+                },
+                "core_concept": {
+                        "en": "An elegant fusion of simplicity and sustenance, held together by the bonds of bread.",
+                        "ja": "簡素と滋養を優美に融合し、パンに包まれる一体感。"
+                },
+                "thinking_layer": "サンドイッチを考えるとき、私たちは単なる食糧以上の何かを捉えています。それはまた、二つの異なる存在が一瞬にして一体となる芸術でもあります。パンの間に挟まれた具材には、多様性の象徴が詰まっており、それぞれの素材が個性を発揮しつつも調和を奏でます。かようなシンプルでありながら奥深い形態は、ある意味で私たちの生活そのものを体現しています。それは私たちが異なる意見や体験をどのように自分自身に取り入れていくか、そしてそれらがどのようにして調和しあうかという問いを提起します。サンドイッチは、一瞬一瞬の選択とその選択がもたらす結果の象徴であり、現実と未知の接点を象徴するものと考えられます。",
+                "synonyms": [
+                        "Sub",
+                        "Hoagie"
+                ],
+                "antonyms": [
+                        "Full meal",
+                        "Single item"
+                ],
+                "aftertaste": "In the layers of a sandwich, the universe finds a microcosm.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "wich",
+                                        "meaning": "a place associated with a specific activity or function"
+                                }
+                        ],
+                        "points": [
+                                "サンドイッチの語源は、サンドイッチ伯爵に由来し、18世紀のイギリスにおける食文化の進化を象徴している。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-02-27"
+        },
+        {
+                "id": "absquatulate",
+                "word": "Absquatulate",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "absquatulate",
+                                        "type": "blend",
+                                        "meaning": "Latin ab- (away) + squat + -ulate",
+                                        "lang": "English"
+                                }
+                        ],
+                        "original_statement": "Absquatulate is a humorous coinage from 19th-century American English, presumably invented as a playful blend mimicking the sounds of erudition while simultaneously leaning towards the colloquial. Its structure suggests roots in Latin and Old English, symbolizing a satirical departure from the norm."
+                },
+                "core_concept": {
+                        "en": "To absquatulate is to leave abruptly, to vanish with the swiftness of a thought unspoken.",
+                        "ja": "急に立ち去り、言葉に出されない思考のように忽然と消えること。"
+                },
+                "thinking_layer": "本質的に、原因や結果を問うことなく、無の中に立ち去ることを想像してみてください。蘭の花びらが風に乗ってどこかへ消え去るように、その動作は何の前触れもなく、しかも余韻を持って姿を消す。人間の存在はその一瞬、その状況、その重力場によって彩られているが、常にそこから微笑みながら離れてしまう可能性もまた孕んでいる。この行動は逃避でも正当化でもない。それはただの本能的な反射としての動きであり、その瞬間、過去と未来の全潰えが無限の可能性を秘めた一つの点として交錯するのです。そして、消失の舞台は、唯一無二の静けさと永遠に解けない謎の中に、私たち自身を問い続けることを求める。この過程は人間の探求と同義であり、未知なることへの強烈な渇望と信念の結果として生まれる。",
+                "synonyms": [
+                        "Depart",
+                        "Vanish"
+                ],
+                "antonyms": [
+                        "Arrive",
+                        "Stay"
+                ],
+                "aftertaste": "Absquatulation whispers the transient beauty of movement and stillness combined.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "ab-",
+                                        "meaning": "away"
+                                },
+                                {
+                                        "term": "squat",
+                                        "meaning": "to sit on one's haunches"
+                                },
+                                {
+                                        "term": "-ulate",
+                                        "meaning": "a frequentative or diminutive suffix"
+                                }
+                        ],
+                        "points": [
+                                "この語の形成には、規則の枠を超えた創造的な遊び心が反映されており、言葉それ自体が文化の進化と革新の象徴です。"
+                        ]
+                },
+                "source": "American Heritage Dictionary of the English Language, Fifth Edition",
+                "date": "2026-02-28"
+        },
+        {
+                "id": "sibilance",
+                "word": "Sibilance",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "sibilant",
+                                        "type": "root",
+                                        "meaning": "音を立てること、しゅうしゅうという音",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "-ance",
+                                        "type": "suffix",
+                                        "meaning": "その状態や特性",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'sibilance' originates from the Latin word 'sibilant-', meaning 'hissing', combined with the suffix '-ance', denoting a state or quality, first used in the early 19th century."
+                },
+                "core_concept": {
+                        "en": "A whisper of the wind through leaves, an ethereal hiss.",
+                        "ja": "葉を通り抜ける風の囁き、幽玄なるシューという響き"
+                },
+                "thinking_layer": "シビランス、その言葉は風の囁きにも似た微かな響きを指し示す。私たちがそれを聞くとき、そこにはただの音以上のものがある。言語という構造の中で、しゅうしゅうという音は一種のリズムを司り、我々の意識の深奥に響く。シビランスは耳を通して、心に影響を及ぼす音の流れであり、言葉と音の相互作用の象徴である。この音は、沈黙の中に現れ、瞬間のうちに消えるが、しかしその一瞬の存在が深い印象を残す。ひとたびその響きを感じ取ると、我々はそのシンプルさに隠された複雑さを理解し、音の流れが時間と空間の織物の中でどのように織り込まれていくのかを知る。そして、シビランスはまた、自然界におけるささやかな妙のメタファーとも言える。その音が伝えるのは、ただの物理的現象ではなく、存在するものが持つ隠れた力の発露であり、言語と自然が調和する美しき瞬間である。私たちはその響きを感じ、視覚を超えた世界の一端に触れる。",
+                "synonyms": [
+                        "Hiss",
+                        "Whisper"
+                ],
+                "antonyms": [
+                        "Silence",
+                        "Quiet"
+                ],
+                "aftertaste": "The whisper of nature resonates within us all.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "sibilare",
+                                        "meaning": "to hiss"
+                                }
+                        ],
+                        "points": [
+                                "シビランスは、通常の調和を乱さずに響き渡る音の一形態であり、その音はあたかも自然の声であるかのように耳に心地よく響く。この音は言語の微細な要素の一部でありながら、その背後には深遠な歴史と文化が秘められている。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-02-28"
+        },
+        {
+                "id": "fermata",
+                "word": "Fermata",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "fermare",
+                                        "type": "root",
+                                        "meaning": "止める",
+                                        "lang": "Italian"
+                                }
+                        ],
+                        "original_statement": "The term 'fermata' originates from the Italian word 'fermare', meaning 'to stop' or 'to stay'. It was incorporated into musical terminology to denote a pause or hold on a note or rest."
+                },
+                "core_concept": {
+                        "en": "A momentary pause in the rhythm of time, capturing eternity within a single breath.",
+                        "ja": "一瞬の時間のリズムを止め、一つの息に永遠を宿す。"
+                },
+                "thinking_layer": "音楽におけるフェルマータは、音符を振り返り、お互いの無言の合意によって時間を止める。無限の海の中でしばしの漂流、音の流れから解放され、全てが可能性となる瞬間。この非線形の瞬間は、音楽だけでなく、人生の隠れた意味をも指し示す。フェルマータとはただの音楽記号ではなく、生命の中の一時停止、観察、そして内省の招待でもある。例えば、我々の日常に忙殺された時間の中で、突然目の前に広がる無数の選択肢と共に立ち止まる瞬間は、フェルマータの精神を体現している。音符に対する一瞬の停止は、長い旅路の合間の休息のようであり、音楽家と聴衆の間に微妙な共鳴をもたらす。フェルマータは互いの共感や理解を無言のうちに促す。それは、世界と音の狭間で、私たち全員が一瞬にして同じ場所に存在することを許す存在の謎。フェルマータは、音楽の中で時間を解き放ち、限りない可能性を抱かせる。しかし、それは決して終わりではなく、新たな始まりへの架け橋なのだ。この一瞬を生きる智恵を音の中に見出すこと、それは哲学の探求そのものでもある。フェルマータは、瞬間の理解を通じて深層に潜む真実を探る旅への招待状である。",
+                "synonyms": [
+                        "Pause",
+                        "Hold"
+                ],
+                "antonyms": [
+                        "Continuation",
+                        "Flow"
+                ],
+                "aftertaste": "Within a fermata, time both lingers and flies, awaiting rebirth.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "fermare",
+                                        "meaning": "to stop or stay"
+                                }
+                        ],
+                        "points": [
+                                "フェルマータは、音を止める手段としてイタリア語から借用された概念であり、その文化的背景にはある種の哲学的観点がある。音楽のフレーズが停止することで、リスナーは音の背後にある真実に触れる。"
+                        ]
+                },
+                "source": "Harvard Dictionary of Music",
+                "date": "2026-02-28"
+        },
+        {
+                "id": "vicariousness",
+                "word": "Vicariousness",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "vicarious-",
+                                        "type": "root",
+                                        "meaning": "代理として行うこと",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "Derived from the Latin 'vicarius', which means 'substitute'."
+                },
+                "core_concept": {
+                        "en": "The ethereal experience of living through another's journey.",
+                        "ja": "他者の旅路を通じて体験する幽玄な感覚"
+                },
+                "thinking_layer": "ヴィカリアスネスとは、私たちの意識の中で他者の生命を共に歩む瞬間。人生の別の視点を享受し、心を他者の息吹に同調させる贅沢な行為である。人間は、限られた時間と限られた視野に囚われがちであるが、他者の経験をもって現実を多角的に眺めることで、自らの限界をも軽やかに飛び越えることができる。実体験を持たないながらも他者の感情に寄り添うことで、自らを広げ、深め、さらに理解を増進する探求となる。この代理的な存在を通じて、私たちは内的な世界を豊かにし、無形の繋がりを構築する。ヴィカリアスネスは、自己を他者と混ざり合うモザイクのような宇宙とし、存在の意義を再定義する機会を与えてくれるものである。この深遠な概念は、文学、芸術、そして哲学の核心に恋を呼び、時空を超えた人間の絆を育むのである。",
+                "synonyms": [
+                        "Substitution",
+                        "Proxy"
+                ],
+                "antonyms": [
+                        "Direct",
+                        "Personal"
+                ],
+                "aftertaste": "Vicariousness allows us to transcend the boundaries of personal existence.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "vicarius",
+                                        "meaning": "substitute"
+                                }
+                        ],
+                        "points": [
+                                "ヴィカリアスという概念の奥深さは、他者の視点を共有する行為にある。それは一種の精神的解放を促し、知覚の壁を打ち破る力を持つ。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-02-28"
+        },
+        {
+                "id": "mellifluous.",
+                "word": "Mellifluous.",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "melli-",
+                                        "type": "prefix/root",
+                                        "meaning": "蜜",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "-fluous",
+                                        "type": "suffix",
+                                        "meaning": "流れる",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "From Latin 'mellifluus', meaning 'flowing with honey', composed of 'mel' (honey) and 'fluere' (to flow)."
+                },
+                "core_concept": {
+                        "en": "The melodious flow of sweetness.",
+                        "ja": "甘美で滑らかな流れ"
+                },
+                "thinking_layer": "メリアフルオウスという言葉の魅力は、その語源が教えてくれるように、蜜のように甘やかな美しさの中にあります。蜜とは自然が紡ぎ出す甘味の真髄であり、それは生命に歓喜と滋養をもたらすものである。そして「流れる」こと、それは絶え間ない変化と計り知れない可能性を秘めた動きです。この二つの要素が一体となったとき、我々は妙なる調和の中に立ち現れる、新たな発見と喜びを迎えることになるでしょう。メリアフルオウスは、自然と人間社会における一瞬の美しさを享受すると同時に、それがつかの間のものであることを教えてくれます。言葉が生まれる背景には、その音が聴く者の心に流れ込み、何かしら感じさせる力が宿っている。蜜の流れのように、我々の思考も時に甘美で、時に情感豊かに流れていくものであり、それこそが人生の無限の革命であると言えましょう。",
+                "synonyms": [
+                        "Harmonious",
+                        "Melodic"
+                ],
+                "antonyms": [
+                        "Harsh",
+                        "Dissonant"
+                ],
+                "aftertaste": "An auditory delight that caresses the soul.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "mel",
+                                        "meaning": "honey"
+                                },
+                                {
+                                        "term": "fluere",
+                                        "meaning": "to flow"
+                                }
+                        ],
+                        "points": [
+                                "メリアフルオウスは、甘く美しい音や言葉に関連する取り組みや所作が、常に人々に振り返られる価値を持つことを暗示しています。"
+                        ]
+                },
+                "source": "The Oxford English Dictionary",
+                "date": "2026-02-28"
+        },
+        {
+                "id": "quiz",
+                "word": "Quiz",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "quiz",
+                                        "type": "noun",
+                                        "meaning": "クイズ",
+                                        "lang": "English"
+                                }
+                        ],
+                        "original_statement": "The origin of the word 'quiz' is obscure, with a popular but apocryphal story claiming that it was coined in the 18th century by a Dublin theater manager during a bet. However, reliable etymological sources trace its first use to descriptions in 1790s England involving long, puzzled looks or questions."
+                },
+                "core_concept": {
+                        "en": "A dance of intellect and inquiry in playful disguise.",
+                        "ja": "智と問いの舞踏、遊遊たる仮面にて"
+                },
+                "thinking_layer": "問いの深淵へと踏み込む時、我々は自らの認識の限界を試される。クイズとは単なる知識の測りではなく、意識内の旅路を暗示する。様々な知識の欠片を立体的に結集させ、新しい意味を創出する。この行為は知性の遊びであり、また人生そのものの反映とも言える。我々がクイズに挑むとき、それは自己啓発のためのひとつの手段であり、無限の知への探求でもある。クイズは自己認識の旅路でもあり、人間の知の果てしない可能性を暗示している。問いを受けた瞬間、それはもう意識の深層で答えを探るプロセスの始まりなのだ。クイズを通じて一瞬の疑問が、未来へと続く深い洞察へと変わる。",
+                "synonyms": [
+                        "Test",
+                        "Examination"
+                ],
+                "antonyms": [
+                        "Answer",
+                        "Solution"
+                ],
+                "aftertaste": "A quiz is a fleeting test, yet an eternal exploration.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "quiz",
+                                        "meaning": "A playful question or a test of knowledge"
+                                }
+                        ],
+                        "points": [
+                                "クイズは18世紀のアイルランドで生まれたとされる逸話もあるが、実際の由来は不明確である。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-02-28"
+        },
+        {
+                "id": "cardigan",
+                "word": "Cardigan",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "Cardigan-",
+                                        "type": "proper noun",
+                                        "meaning": "カーディガン伯爵",
+                                        "lang": "English"
+                                }
+                        ],
+                        "original_statement": "The word 'cardigan' originates from James Brudenell, 7th Earl of Cardigan, who was known for his role in the Crimean War."
+                },
+                "core_concept": {
+                        "en": "A garment of warmth woven with tradition and history.",
+                        "ja": "伝統と歴史で織られた暖かい衣服"
+                },
+                "thinking_layer": "カーディガンという言葉には、人間の歴史と文化が秘められている。この言葉の起源は、19世紀のクリミア戦争にまでさかのぼる。カーディガン伯爵として知られるジェームズ・ブルーデネルが、寒さから兵士を守るために着用していた衣服にその名が由来する。この衣服は、人類の戦いと寒さへの適応という普遍的なテーマを語っている。それは単なる防寒具ではなく、繊維と時代の交錯が生む生命の象徴だ。このように、単語一つ一つが私たちの文化的遺産を表現し、我々の心を暖かく包み込むことができる。したがって、カーディガンという言葉は、一枚の布が持つ物語の奥深さと、人間が編み出した解決策の知恵を思い起こさせる。その肌触りは、人間精神の柔らかさと強さの証であり、歴史を超えて、未来へと続くものなのである。",
+                "synonyms": [
+                        "Sweater",
+                        "Pullover"
+                ],
+                "antonyms": [
+                        "T-shirt",
+                        "Tank top"
+                ],
+                "aftertaste": "In the weave of a cardigan, find the fabric of history itself.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "Brudenell",
+                                        "meaning": "The family name of the Earl of Cardigan"
+                                }
+                        ],
+                        "points": [
+                                "カーディガンが象徴する文化的意義は、歴史的な背景を伴い、単なる衣服以上の存在として認識される。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-02-28"
         }
 ];
