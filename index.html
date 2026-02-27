@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ling-ling-etymon | 語源を思考の構造として</title>
+    <meta name="description" content="語源を「暗記」ではなく「概念理解」のツールとして提示する、知的で静かなデザインの語源学習アプリ。">
+    <!-- Google Fonts: Inter & Noto Sans JP -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&family=Noto+Sans+JP:wght@300;400;700&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+    <!-- PWA Support -->
+    <link rel="manifest" href="manifest.json">
+    <meta name="theme-color" content="#0A192F">
+    <link rel="icon" href="icon.png">
+</head>
+
+<body class="theme-dark">
+    <div id="app">
+        <!-- Navigation Bar -->
+        <nav class="nav-bar">
+            <div class="nav-content">
+                <div class="nav-top">
+                    <h1 class="logo">ling-ling-etymon</h1>
+                    <div class="global-search-container">
+                        <input type="text" id="global-search-input" placeholder="Search etymology..."
+                            autocomplete="off">
+                    </div>
+                </div>
+                <div class="nav-links">
+                    <button id="nav-today" class="nav-item active" title="今日の一語">Today</button>
+                    <button id="nav-archive" class="nav-item" title="アーカイブ">Archive</button>
+                    <button id="nav-saved" class="nav-item" title="保存済み">Saved</button>
+                    <button id="nav-contribute" class="nav-item" title="投稿する">Contribute</button>
+                    <button id="nav-essays" class="nav-item premium-btn" title="エッセイ">Essays</button>
+                    <button id="nav-settings" class="nav-item" title="設定">Settings</button>
+                    <button id="nav-premium" class="nav-item premium-btn" title="プレミアム">Deep Dive</button>
+                </div>
+            </div>
+        </nav>
+
+        <!-- Main Content Area -->
+        <main id="main-content">
+            <!-- Content will be injected here by app.js -->
+            <div id="view-container"></div>
+        </main>
+
+        <!-- Notification Toast -->
+        <div id="toast-container"></div>
+    </div>
+
+    <!-- Scripts -->
+    <script src="https://js.stripe.com/v3/"></script>
+    <script src="/data.js"></script>
+    <script src="/essays.js" onerror="window.ESSAYS=[]"></script>
+    <script src="app.js" defer></script>
+</body>
+
+</html>

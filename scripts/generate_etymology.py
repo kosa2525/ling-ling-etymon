@@ -1,0 +1,218 @@
+import os
+import json
+import sys
+import re
+import tempfile
+import time
+from typing import Dict, Any, List
+from datetime import datetime
+
+try:
+    import openai
+except ImportError:
+    print("Error: 'openai' library not found. Please run 'pip install openai' to use this script.")
+    sys.exit(1)
+
+# --- Configuration ---
+api_key = os.environ.get("OPENAI_API_KEY", "")
+client = openai.OpenAI(api_key=api_key)
+
+# データの保存先 (プロジェクトルート)
+DATA_JS_PATH = os.path.join(os.path.dirname(__file__), "..", "data.js")
+
+# 単語プールを分離
+INTELLECTUAL_POOL = [
+    "Ethereal", "Epiphany", "Aesthetic", "Synthesis", "Logos", 
+    "Archetype", "Dialectic", "Labyrinth", "Metamorphosis", "Nostalgia",
+    "Melancholy", "Quintessence", "Sublime", "Transcendence", "Ineffable",
+    "Solitude", "Resilience", "Serendipity", "Paradigm", "Catharsis"
+]
+
+EVERYDAY_POOL = [
+    "Company", "Education", "Breakfast", "Window", "Salary",
+    "Companion", "Muscle", "Pantry", "Camera", "Galaxy",
+    "Alphabet", "Prestige", "Disaster", "Candid", "Trivia",
+    "Whisky", "Vaccine", "Sincere", "Digital", "Curiosity"
+]
+
+PROMPT_TEMPLATE = """
+Generate a JSON object for the etymology of the word '{word}', following the exact structure below. 
+
+REQUIREMENTS:
+1. You MUST provide at least one reliable etymological source.
+2. The 'thinking_layer' MUST be a deep, philosophical, and poetic explanation in Japanese (minimum 250 words).
+3. The 'core_concept' in 'ja' should be a concise but beautiful essence of the word.
+4. Tone: Intellectual, scholarly, and premium.
+
+Structure:
+{{
+    "id": "{word_lower}",
+    "word": "{word_cap}",
+    "author": "etymon_official",
+    "etymology": {{
+        "breakdown": [
+            {{ "text": "prefix/root-", "type": "prefix/root", "meaning": "Japanese", "lang": "Origin" }}
+        ],
+        "original_statement": "Short historical snippet."
+    }},
+    "core_concept": {{
+        "en": "Poetic English core essence.",
+        "ja": "核となる概念の日本語訳"
+    }},
+    "thinking_layer": "思索の層（日本語、250文字以上の深く哲学的な論考）...",
+    "synonyms": ["Word 1", "Word 2"],
+    "antonyms": ["Word 1", "Word 2"],
+    "aftertaste": "A single, powerful English sentence.",
+    "deep_dive": {{
+        "roots": [
+            {{ "term": "root", "meaning": "meaning" }}
+        ],
+        "points": [
+            "高度な語源学的知見（日本語）"
+        ]
+    }},
+    "source": "Specific source",
+    "date": "{date}"
+}}
+"""
+
+def extract_valid_json_objects(text: str) -> List[Dict]:
+    objects = []
+    starts = [m.start() for m in re.finditer(r'\{\s*"id":', text)]
+    for start in starts:
+        brace_count = 0
+        in_string = False
+        escape = False
+        for i in range(start, len(text)):
+            c = text[i]
+            if not escape and c == '"': in_string = not in_string
+            if not in_string and c == '{': brace_count += 1
+            if not in_string and c == '}':
+                brace_count -= 1
+                if brace_count == 0:
+                    obj_str = text[start:i+1]
+                    try:
+                        obj = json.loads(obj_str)
+                        if "id" in obj: objects.append(obj)
+                    except: pass
+                    break
+            escape = (c == '\\' and not escape)
+    return objects
+
+def get_existing_data() -> List[Dict]:
+    if not os.path.exists(DATA_JS_PATH): return []
+    try:
+        with open(DATA_JS_PATH, 'r', encoding='utf-8') as f:
+            content = f.read()
+        array_match = re.search(r'const\s+WORDS\s*=\s*(\[.*?\])\s*;?\s*$', content, re.DOTALL)
+        if array_match:
+            return json.loads(array_match.group(1))
+    except: pass
+    return []
+
+def suggest_batch_words(existing_ids, count=10):
+    """
+    知的単語と日常単語を混ぜて提案します。
+    """
+    suggestions = []
+    half = count // 2
+    
+    # 1. 知的単語の選定
+    int_count = 0
+    for word in INTELLECTUAL_POOL:
+        if word.lower() not in existing_ids:
+            suggestions.append(word)
+            int_count += 1
+            if int_count >= half: break
+
+    if int_count < half:
+        needed = half - int_count
+        response = client.chat.completions.create(
+            model="gpt-4o",
+            messages=[
+                {"role": "system", "content": "Suggest deep, philosophical, or rare academic English words. Output ONLY comma-separated words."},
+                {"role": "user", "content": f"Exclude: {', '.join(existing_ids)}. Need {needed} words."}
+            ]
+        )
+        suggestions.extend([w.strip() for w in response.choices[0].message.content.split(',') if w.strip()])
+
+    # 2. 日常単語の選定
+    day_count = 0
+    for word in EVERYDAY_POOL:
+        if word.lower() not in existing_ids and word.lower() not in [s.lower() for s in suggestions]:
+            suggestions.append(word)
+            day_count += 1
+            if day_count >= (count - len(suggestions) + day_count): break
+
+    if len(suggestions) < count:
+        needed = count - len(suggestions)
+        response = client.chat.completions.create(
+            model="gpt-4o",
+            messages=[
+                {"role": "system", "content": "Suggest common everyday English words that have surprising or interesting etymologies. Output ONLY comma-separated words."},
+                {"role": "user", "content": f"Exclude: {', '.join(existing_ids)}. Need {needed} words."}
+            ]
+        )
+        suggestions.extend([w.strip() for w in response.choices[0].message.content.split(',') if w.strip()])
+
+    return suggestions[:count]
+
+def generate_word_data(word: str) -> Dict[str, Any]:
+    print(f"Investigating: {word}...")
+    response = client.chat.completions.create(
+        model="gpt-4o",
+        messages=[
+            {"role": "system", "content": "You are a multilingual etymologist and philosopher."},
+            {"role": "user", "content": PROMPT_TEMPLATE.format(
+                word=word, 
+                word_lower=word.lower().replace(" ", "_"), 
+                word_cap=word.capitalize(),
+                date=datetime.now().strftime("%Y-%m-%d")
+            )}
+        ],
+        response_format={ "type": "json_object" }
+    )
+    return json.loads(response.choices[0].message.content)
+
+def main():
+    batch_count = 10
+    if len(sys.argv) > 1 and sys.argv[1].isdigit():
+        batch_count = int(sys.argv[1])
+
+    print(f"--- Task Scheduler Insight Mode: {batch_count} words (5 Deep, 5 Everyday) ---")
+    
+    existing_data = get_existing_data()
+    existing_ids = [item.get("id").lower() for item in existing_data if item.get("id")]
+    
+    words_to_process = suggest_batch_words(existing_ids, batch_count)
+    print(f"Target Words: {', '.join(words_to_process)}")
+
+    success_count = 0
+    for word in words_to_process:
+        try:
+            current_data = get_existing_data()
+            if word.lower() in [item.get("id", "").lower() for item in current_data]:
+                print(f"Skipping {word}, already exists.")
+                continue
+
+            data = generate_word_data(word)
+            updated_list = [w for w in current_data if w.get("id") != data.get("id")]
+            updated_list.append(data)
+            
+            json_str = json.dumps(updated_list, indent=8, ensure_ascii=False)
+            with open(DATA_JS_PATH, 'w', encoding='utf-8') as f:
+                f.write(f"const WORDS = {json_str};\n")
+            
+            print(f"Successfully added '{word}' to Archive.")
+            success_count += 1
+            time.sleep(1)
+            
+        except Exception as e:
+            print(f"Failed '{word}': {e}")
+
+    print(f"\n--- Batch Process Finished ---")
+    print(f"Processed: {success_count} words")
+    print(f"Total in Archive: {len(get_existing_data())}")
+
+if __name__ == "__main__":
+    main()

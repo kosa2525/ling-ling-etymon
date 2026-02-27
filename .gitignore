@@ -1,0 +1,6 @@
+scripts/users.db
+users.db
+secrets.txt
+.vscode/
+__pycache__/
+*.pyc
