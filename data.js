@@ -7764,5 +7764,407 @@ const WORDS = [
                 },
                 "source": "Oxford English Dictionary",
                 "date": "2026-02-28"
+        },
+        {
+                "id": "hypnopaedia",
+                "word": "Hypnopaedia",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "hypno-",
+                                        "type": "prefix",
+                                        "meaning": "眠り",
+                                        "lang": "Greek"
+                                },
+                                {
+                                        "text": "paedia",
+                                        "type": "root",
+                                        "meaning": "教育",
+                                        "lang": "Greek"
+                                }
+                        ],
+                        "original_statement": "The term originates from Aldous Huxley's dystopian novel 'Brave New World', combining Greek elements to denote the concept of sleep-learning."
+                },
+                "core_concept": {
+                        "en": "The poetic symphony of slumber and knowledge intertwined.",
+                        "ja": "夢と知識が交錯する詩的な交響曲"
+                },
+                "thinking_layer": "夢の中での教育、それは一見幻想のようにも見える。しかし、古代ギリシャの神話では、夢は現実の延長としての役割を果たすことがあった。眠りの中で、意識は外の世界から切り離され、内面的な旅を始める。そこで遭遇する知識は、寝ている間に脳に刻み込まれる。これこそが、真の意味での無意識の教育、すなわち「ハイプノペディア」の本質である。これは現代における教育の限界を超越し、心の深淵を通じて新しい学びをもたらす可能性を秘めている。人は眠りながら、一定の条件下で大いなる知識を吸収することができる。しかし、この方法には倫理的な疑問が付きまとう。意識のない状態で受け取る知識は果たして本物なのか、想像の産物なのか。内側から生まれる声に耳を傾け、それを教育の新しい指針として、未来の扉を開く鍵とするべきなのかもしれない。ハイプノペディア、それは心と意識の交差点であり、無限の可能性をもたらす教育の新たな地平線である。",
+                "synonyms": [
+                        "Sleep-learning",
+                        "Subliminal education"
+                ],
+                "antonyms": [
+                        "Conscious learning",
+                        "Active study"
+                ],
+                "aftertaste": "In the shadows of slumber, the seeds of knowledge quietly germinate.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "hypnos",
+                                        "meaning": "sleep"
+                                },
+                                {
+                                        "term": "paideia",
+                                        "meaning": "education"
+                                }
+                        ],
+                        "points": [
+                                "「ハイプノペディア」という言葉は、ギリシャ神話の眠りと教育に由来する。この独特な組み合わせが、現実世界と空想世界の境界を曖昧にし、意識の奥深くで得られる学びの可能性を示唆している。"
+                        ]
+                },
+                "source": "The New Oxford American Dictionary",
+                "date": "2026-02-28"
+        },
+        {
+                "id": "apotropaic",
+                "word": "Apotropaic",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "apo-",
+                                        "type": "prefix",
+                                        "meaning": "離れて",
+                                        "lang": "Greek"
+                                },
+                                {
+                                        "text": "trepein",
+                                        "type": "root",
+                                        "meaning": "転じる",
+                                        "lang": "Greek"
+                                }
+                        ],
+                        "original_statement": "The term 'apotropaic' is derived from the Greek 'apotropaios', meaning to avert or prevent, particularly in the context of averting evil influences or bad luck."
+                },
+                "core_concept": {
+                        "en": "An ancient whisper against the woes of fate, turning away the unseen.",
+                        "ja": "運命の苦難に対する古の囁き、見えないものを転ずる力"
+                },
+                "thinking_layer": "アポトロパイックとは、人間の根源的な恐怖と無力感に対する、本能的で原始的な抵抗の象徴である。古代より、人々は未知なるもの、避けられぬ運命、そして悪霊の存在に恐れを抱いてきた。それらを退けようとする行為は、宗教や儀式を通して表現されることもあれば、単に日々の習慣として受け継がれてきた。アポトロパイックな力は、内なる静寂と平静をもたらし、心の平穏を守るための秘儀であったかもしれない。それはまた、自己と世界との関係性を問い直す哲学的な探求でもある。目に見えない力に対する畏敬と恐怖、そしてそれを制御したいという願望は、人類の永遠のテーマである。無限に続く闇夜に対する、かすかな希望の光、心の中で湧き上がる歓喜と恐れ、それらを乗り越えるための精神的な努力の集合体と言えるだろう。このアポトロパイックの力は、単なる迷信ではなく、存在への深い洞察から生まれた知恵なのだ。目に見えないものの力を理解し、それを友と思うか敵と思うか、その選択もまた、個々の人生哲学が反映される鏡である。",
+                "synonyms": [
+                        "Talismans",
+                        "Amulets"
+                ],
+                "antonyms": [
+                        "Attraction",
+                        "Invitation"
+                ],
+                "aftertaste": "A touch of mystery always lingers beyond the veil of certainty.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "apo-",
+                                        "meaning": "away, off"
+                                },
+                                {
+                                        "term": "trepein",
+                                        "meaning": "to turn"
+                                }
+                        ],
+                        "points": [
+                                "アポトロパイックとは、古代ギリシャ語の語根に由来し、その語源には『離れる』という意味が込められている。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-02-28"
+        },
+        {
+                "id": "enantiodromia",
+                "word": "Enantiodromia",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "enantio",
+                                        "type": "prefix",
+                                        "meaning": "反対の",
+                                        "lang": "Greek"
+                                },
+                                {
+                                        "text": "dromia",
+                                        "type": "root",
+                                        "meaning": "走る",
+                                        "lang": "Greek"
+                                }
+                        ],
+                        "original_statement": "The term 'enantiodromia' derives from the Greek roots 'enantios', meaning 'opposite', and 'dromos', meaning 'running'. It was popularized by Carl Jung to describe the phenomenon where extreme opposites transform into each other."
+                },
+                "core_concept": {
+                        "en": "The poetic dance of opposites turning into one another.",
+                        "ja": "反対のものが互いに変容する詩的な舞踊"
+                },
+                "thinking_layer": "エナンティオドロミアという言葉の背景には、深遠な哲学的観念が潜んでいる。それはまるで、陰と陽の精妙なバランスを表わす古代の知恵の囁きのようである。この概念は、対立が強化され続けると、ついに反対へと転じる力学であり、宇宙の不可避な法則を示唆している。カール・ユングによって心理学に取り入れられたこの用語は、内面的な葛藤と調和の過程を理解する鍵となる。物事がその極に達すると、その反対が現れ出る。この現象は、自然界にも見出すことができ、昼が夜に、夏が冬に変わるように、すべては流動的であり、変化は不可避である。自己の深奥に潜む対立する力の対話を知覚し、調和を見出す瞬間こそ、人間の本質の一部である。何よりも、この原理は自己理解を追求する神秘的な旅の一部であり、対立が統合され、新たな全体性へと昇華される過程を象徴していると言える。まさに、この人間的な経験の核心は、永遠なる変化の循環にあるのだ。",
+                "synonyms": [
+                        "Transformation",
+                        "Reversal"
+                ],
+                "antonyms": [
+                        "Stagnation",
+                        "Stability"
+                ],
+                "aftertaste": "In the dance of the cosmos, opposites embrace to create harmony.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "enantios",
+                                        "meaning": "opposite"
+                                },
+                                {
+                                        "term": "dromos",
+                                        "meaning": "running"
+                                }
+                        ],
+                        "points": [
+                                "この用語はカール・ユングが人間心理の変容を説明するために使用したもので、特に対立する要素がいかに互いに影響を及ぼし、最終的に調和していくかを探求することに焦点を当てています。エナンティオドロミアは、単なる言語的装置を超えて、人間存在の進化を示す概念を提供しています。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-02-28"
+        },
+        {
+                "id": "infrangible",
+                "word": "Infrangible",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "in-",
+                                        "type": "prefix",
+                                        "meaning": "否定",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "frangible",
+                                        "type": "root",
+                                        "meaning": "壊す",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "Derived from the Latin 'infrangibilis', which means not able to be broken, comprising 'in-' (not) and 'frangere' (to break)."
+                },
+                "core_concept": {
+                        "en": "Beyond the grasp of fragmentation, a testament to unyielding wholeness.",
+                        "ja": "破れないものの硬さと完全性"
+                },
+                "thinking_layer": "『infrangible』という言葉は、物理的な壊れにくさを超え、人間の精神の不屈さをも象徴している。その概念は、私たちの内なる意志が困難な状況でも強度を保つことを表している。物質界では壊れやすいものは多く存在するが、『infrangible』は心の強さ、価値観の一貫性、そして他者と繋がる絆の無欠さを指している。社会の風に吹かれても、己の信念を貫くその姿はまるで岩に安らう古木のようであり、時に孤独であろうとも、内なる信条に忠実でいるその佇まいには一種の美しさが息づいている。『infrangible』とは、変わらぬものの持つ時間を超越した力、その力が放つ静寂のオーラを独自に感じ取ることであり、存在の底流に流れる普遍的な真理に心を静かに開くことを求める合言葉でもある。",
+                "synonyms": [
+                        "Unbreakable",
+                        "Indestructible"
+                ],
+                "antonyms": [
+                        "Fragile",
+                        "Breakable"
+                ],
+                "aftertaste": "Infrangible is the silent roar of indivisible strength.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "in-",
+                                        "meaning": "not"
+                                },
+                                {
+                                        "term": "frangible",
+                                        "meaning": "breakable"
+                                }
+                        ],
+                        "points": [
+                                "『infrangible』の語源はラテン語に由来しており、その核心は物理的形状だけでなく、精神的な構造の不変性を深く考察している。その存在は、崩壊しない価値や信念の象徴であり、それが個々のアイデンティティの不可分性をも示唆している。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-02-28"
+        },
+        {
+                "id": "quixotry",
+                "word": "Quixotry",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "Quixote-",
+                                        "type": "root",
+                                        "meaning": " 堂々たる夢見心地の勇敢さ",
+                                        "lang": "Spanish"
+                                },
+                                {
+                                        "text": "-ry",
+                                        "type": "suffix",
+                                        "meaning": "行動や状態",
+                                        "lang": "English"
+                                }
+                        ],
+                        "original_statement": "The word 'quixotry' is derived from the character Don Quixote of Cervantes' novel, symbolizing unrealistic idealism and chivalric foolishness."
+                },
+                "core_concept": {
+                        "en": "The elegance of noble folly.",
+                        "ja": "高貴な愚行の優雅さ"
+                },
+                "thinking_layer": "『ドン・キホーテ』は16世紀の偉大な文学作品の中で、意図しない哲学的洞察をもたらします。この物語を通じて、揺るぎない理想主義と絶対的献身は、我々の心に根ざした美徳とともに、時にこのような美徳が現実と折り合わず、多くの矛盾を生むことを示しています。「キホートリー」とは、その矛盾と美しさが交錯する場所、社会的期待を超えて自らの夢に導かれる者の姿を表す言葉です。私たちは今も、キホートリーの中で無謀さと高貴な理想主義を追い求めるのかもしれません。それは、時に無駄と見なされる行為の中にも、一筋の真実と価値が潜んでいることを思い起こさせてくれます。そして、本物の高潔さと愚かさの中にある、名付け難き美と人間性を称えるものです。日常の中で、人が真の勇気と自制心を持って理想を追求し、無謀さゆえに叱責されつつも、究極的には人々の共感を集める姿は、まさにキホートリーの極地と言えるでしょう。こうして、この概念は、私たちが何を高潔で愚かと定義するのかを問い直す手助けをします。高度な理想を持ちながらも、どこか愚かしいと感じられるその姿は、何よりもまず人間の存在そのものを反映しているのです。",
+                "synonyms": [
+                        "Idealism",
+                        "Romanticism"
+                ],
+                "antonyms": [
+                        "Pragmatism",
+                        "Realism"
+                ],
+                "aftertaste": "Only those who wander in folly can truly touch the stars.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "Quixote",
+                                        "meaning": "'Don Quixote' symbolizes chivalric foolishness."
+                                }
+                        ],
+                        "points": [
+                                "『ドン・キホーテ』の文学作品により由来する語源的深層は、個人の理想と欲望の釣り合いの葛藤を映し出す。"
+                        ]
+                },
+                "source": "The Oxford English Dictionary",
+                "date": "2026-02-28"
+        },
+        {
+                "id": "nightmare",
+                "word": "Nightmare",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "night",
+                                        "type": "root",
+                                        "meaning": "夜",
+                                        "lang": "Old English"
+                                },
+                                {
+                                        "text": "mare",
+                                        "type": "root",
+                                        "meaning": "悪霊",
+                                        "lang": "Old English"
+                                }
+                        ],
+                        "original_statement": "The term 'nightmare' originates from the Old English 'nacht' (night) and 'mara' (an incubus or goblin believed to cause nightmares by sitting on the chest of a sleeper)."
+                },
+                "core_concept": {
+                        "en": "A haunting journey through the shadowy corridors of our minds, where fears animate the darkness.",
+                        "ja": "心の陰影をさまよう恐怖の旅。"
+                },
+                "thinking_layer": "人間の心が作り出す夢は、時に我々を驚かせ、戦慄させる。その一方で、悪夢とは単なる畏怖を超えた存在である。夜の帳が降りるとき、現実から解き放たれた意識は、潜在意識の深遠な領域に入り込む。この領域は、無意識の欲望や恐れが顕現する舞台である。悪霊が胸に乗ったかのように、我々は動くことも声を出すこともできず、ただその恐ろしい幻影に呑まれるしかない。悪夢には、自己反省や人間の弱さ、あるいは社会の不安が映し出される可能性がある。これらの夜の影は、一日の思念や疑念が織りなすタペストリーであり、しばしば我々に未知との対話を促す。だからこそ、悪夢は単なる恐怖の具現化ではなく、我々が人生で直面する不可避の課題と克服すべき課程を象徴しているのである。",
+                "synonyms": [
+                        "dream",
+                        "phantasm"
+                ],
+                "antonyms": [
+                        "daydream",
+                        "reverie"
+                ],
+                "aftertaste": "An ethereal dance of darkness and psyche echoing through the chambers of sleep.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "mara",
+                                        "meaning": "A specter suffocating sleepers."
+                                }
+                        ],
+                        "points": [
+                                "全ての悪夢は、歴史における集団無意識の記憶と個人の深層心理の交差点としての役割を果たしている。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-02-28"
+        },
+        {
+                "id": "sirloin",
+                "word": "Sirloin",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "sir-",
+                                        "type": "prefix",
+                                        "meaning": "尊敬",
+                                        "lang": "Middle English"
+                                },
+                                {
+                                        "text": "loin",
+                                        "type": "root",
+                                        "meaning": "腰肉",
+                                        "lang": "Old French"
+                                }
+                        ],
+                        "original_statement": "The word 'sirloin' comes from the Old French 'surlonge', which means 'above the loin'."
+                },
+                "core_concept": {
+                        "en": "A noble cut that speaks of the regal bounty of culinary history.",
+                        "ja": "食の歴史における王者の恵みにまつわる高貴な一切れ"
+                },
+                "thinking_layer": "『サーロイン』という言葉は、肉の部位に対する敬意を表しています。それは中世の貴族たちの食卓にふさわしいものであり、日常から離れた特別なひとときをもたらすものでした。その響きの中には贅沢があり、食の美学が込められています。この尊敬という要素は、ただ単に食べ物を指すだけではなく、それを囲む人々や文化への憧れと敬意をも表しています。肉が持つ豊かさ、その柔らかさとジューシーさは、生命の儚さと同時にその力強さを象徴しています。この熟成された言葉から私たちは、宿命づけられた自然の力と、肉体の内に秘められたエネルギーについて静かに考えることができます。味わうことの背後にある深い敬愛は、永続的な喜びと瞬間の豊かさを両立させるものとして、現在もそして未来も語り継がれるのです。生きること、食べること、それはすなわち一種のアートと言えるでしょう。サーロインを口にした時、我々は時を超えた他のどこかへと旅立つことができるのです。",
+                "synonyms": [
+                        "Steak",
+                        "Entrecote"
+                ],
+                "antonyms": [
+                        "Vegetarian",
+                        "Vegan"
+                ],
+                "aftertaste": "A sirloin is an edible bridge to the history of human indulgence.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "loin",
+                                        "meaning": "腰肉"
+                                }
+                        ],
+                        "points": [
+                                "サーロインという語は、中世における食材の階級制度を示している。このような名称は、肉を食する行為がどれほどの贅沢であるかを物語るものである。"
+                        ]
+                },
+                "source": "Oxford English Dictionary, etymonline.com",
+                "date": "2026-02-28"
+        },
+        {
+                "id": "juggernaut",
+                "word": "Juggernaut",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "Jagannātha",
+                                        "type": "root",
+                                        "meaning": "ジャガンナート（ヒンドゥー教の神）",
+                                        "lang": "Sanskrit"
+                                }
+                        ],
+                        "original_statement": "The word 'juggernaut' originates from the early 19th-century representation of the Hindi word 'Jagannāth', the title used for the Hindu deity Vishnu Krishna, famously associated with the massive annual chariot processions in Puri, India, where the sheer momentum and size of the deity's procession inspired the metaphorical extension."
+                },
+                "core_concept": {
+                        "en": "A relentless, overwhelming force that's unstoppable.",
+                        "ja": "圧倒的で止められない力の化身"
+                },
+                "thinking_layer": "人間の歴史と彼らの無尽蔵の創造力の中で、ジャガンナートという言葉は、言語を超え、遍在する神の象徴として現れました。それは、神聖なチャリオットで行われる壮大な祭典であり、人々の心を捉え、その存在感の圧倒的な力を象徴しています。ジャガンナートは、言語や文化を超え、単なる言葉以上の存在となり、人々の想像力と社会的意識を刺激し続ける存在です。それは、盲目的な衝動と止められない動きという、すべてを覆すものとしての象徴的存在であり、人間の生活における変容と進化を象徴します。一方で、この言葉は、無尽蔵の力の持つ危険性も示唆しています。制御を失った力は、破壊という形で現実を変革することができ、平和と調和にとって不可欠な要素であることを思い起こさせます。ジャガンナートという言葉は、我々が抱くすべての理想と恐怖、希望と絶望を映し出す、深遠なる人間の存在そのものを映し出す鏡なのです。こうした哲学的思索を通じて、我々は文字や音声に込められた数千年の人類の知恵を理解し、その強大な流れの中で、己の立ち位置を見出すことができるのです。",
+                "synonyms": [
+                        "colossus",
+                        "behemoth"
+                ],
+                "antonyms": [
+                        "weakling",
+                        "pushover"
+                ],
+                "aftertaste": "A juggernaut embodies the might of momentum and the irresistible march of progress.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "Jagannātha",
+                                        "meaning": "Lord of the Universe"
+                                }
+                        ],
+                        "points": [
+                                "ジャガンナートという語の起源は、古代インドの大規模で華麗な祭典に関連し、その語感と文化的文脈により、西洋へと広まった。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-02-28"
         }
 ];
