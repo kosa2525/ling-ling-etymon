@@ -6537,5 +6537,262 @@ const WORDS = [
                 },
                 "source": "Oxford English Dictionary",
                 "date": "2026-02-28"
+        },
+        {
+                "id": "ontogenesis",
+                "word": "Ontogenesis",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "onto-",
+                                        "type": "prefix",
+                                        "meaning": "存在または存在の状態",
+                                        "lang": "ギリシャ語"
+                                },
+                                {
+                                        "text": "genesis",
+                                        "type": "root",
+                                        "meaning": "生まれること、形成",
+                                        "lang": "ギリシャ語"
+                                }
+                        ],
+                        "original_statement": "Ontogenesis derives from the Greek words 'onto', meaning being, and 'genesis', meaning creation or birth, reflecting the process of development of an individual organism."
+                },
+                "core_concept": {
+                        "en": "The poetic unfolding of an organism's existence, from inception to its fullest realization.",
+                        "ja": "存在の詩的な展開をもつ生命体の受胎から完全な具現化までの過程。"
+                },
+                "thinking_layer": "生成のプロセスは、まるで宇宙が自己を知ろうとするかのように繊細で壮大である。すべての生命は、存在という深淵から立ち上がる光の一筋に過ぎず、それは個々の歴史の貝殻に詰め込まれた無限の可能性の象徴である。オンジェネシスは生物の発展を単なる科学的事象として捉えるだけでなく、より大きな存在論的な視野の中で、精神的または心霊的な要素までも含む複雑なダンスとして見出される。個体が自己を認識する旅は、時には過去の記憶を振り返り、時には未来の夢を描く。無形の命が形を得ていくその様は、見る者の心を捉え、感覚を研ぎ澄ませる。生成の過程は単なる物理的な発展ではなく、精神と物質、知識と未知の間での絶え間ない交流の中で生まれ育っていく。世代を重ねて継承されるこの叙事詩は、まさに我々の存在そのものの詩的探求とも言えよう。個体の発展は、一つの小宇宙が織りなすドラマであり、それは生命の力強さと脆さの両面を我々に想起させるものである。",
+                "synonyms": [
+                        "Development",
+                        "Formation"
+                ],
+                "antonyms": [
+                        "Stagnation",
+                        "Regression"
+                ],
+                "aftertaste": "Ontogenesis is the quiet symphony of life playing the melody of existence.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "onto",
+                                        "meaning": "being, existence"
+                                },
+                                {
+                                        "term": "genesis",
+                                        "meaning": "origin, creation"
+                                }
+                        ],
+                        "points": [
+                                "「オンジェネシス」という言葉の深層には存在の神秘が潜んでいる。その語源は、古代ギリシャ語にまで遡り、存在者が世界で如何に形作られるか、一歩一歩を描き出します。"
+                        ]
+                },
+                "source": "The Oxford English Dictionary",
+                "date": "2026-02-28"
+        },
+        {
+                "id": "afflatus",
+                "word": "Afflatus",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "ad-",
+                                        "type": "prefix",
+                                        "meaning": "方向",
+                                        "lang": "ラテン語"
+                                },
+                                {
+                                        "text": "flare",
+                                        "type": "root",
+                                        "meaning": "吹く",
+                                        "lang": "ラテン語"
+                                }
+                        ],
+                        "original_statement": "The term 'afflatus' originates from the Latin 'adflatus', a form of 'adflare', meaning 'to blow upon'. It was later adopted into English to describe divine inspiration or creative impulse."
+                },
+                "core_concept": {
+                        "en": "The ethereal breath of inspiration, a divine wind imparting creative brilliance.",
+                        "ja": "創造力をもたらす神秘的な風、霊感の息吹。"
+                },
+                "thinking_layer": "「アフラーツ」という言葉は、創造性と霊感の微妙で神秘的な領域への旅へと私たちを誘います。この言葉は単なる言葉以上のものであり、私たちの内なる深淵に吹き込まれる神聖な呼吸を示唆しています。この呼吸は形を持たず、色もないが、それでも確かに存在し、私たちの思考や感情、そして創造の瞬間に影響を与えるのです。アーティスト、詩人、哲学者たちは、しばしば「アフラーツ」と呼ばれるこの現象に触れることで、通常の思考を越えた新たな知見や表現の領域に到達します。一瞬一瞬に吹き込まれるこの神秘的な力は、時には災難の前兆であり、時には希望の灯であり、そして常に人生の奥深い意味との対話です。「アフラーツ」はまた、風のように捉えどころのないものでありながら、心の中に強く根ざす何かでもあります。艺术家の不可視のガイドとして、それは目に見えないが確かに感じられる力量、創造の微細な火花なのです。",
+                "synonyms": [
+                        "Inspiration",
+                        "Muse"
+                ],
+                "antonyms": [
+                        "Despair",
+                        "Doldrums"
+                ],
+                "aftertaste": "Afflatus is the unseen muse that whispers the soul's deepest art.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "flatus",
+                                        "meaning": "blowing, breathing"
+                                }
+                        ],
+                        "points": [
+                                "「アフラーツ」は、ラテン語の「ad-」（方向）と「flare」（吹く）の結合から成り、古代には人間の努力を超越する力として認識されていました。これにより、創造的な行為や精神的な啓示はしばしば神聖な力や存在によるものと見做されました。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary - afflatus",
+                "date": "2026-02-28"
+        },
+        {
+                "id": "hypostasis",
+                "word": "Hypostasis",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "hypo-",
+                                        "type": "prefix",
+                                        "meaning": "下に",
+                                        "lang": "Greek"
+                                },
+                                {
+                                        "text": "stasis",
+                                        "type": "root",
+                                        "meaning": "立る",
+                                        "lang": "Greek"
+                                }
+                        ],
+                        "original_statement": "The word 'hypostasis' derives from the Greek 'hypo-' meaning 'under' and 'stasis' meaning 'standing' or 'state', historically used within philosophical, theological, and medical contexts."
+                },
+                "core_concept": {
+                        "en": "A mystical underpinning of existence, subtly nuanced yet profoundly existent.",
+                        "ja": "存在の基盤となる神秘、微細でありながら深遠に息づく。"
+                },
+                "thinking_layer": "「ヒポスタシス」という言葉は、古代ギリシャ語の「hypo」（下）と「stasis」（立つ・状態）に由来しますが、その奥深い意味を探ると、単なる語源を超えた深遠な考察へと誘われます。人間の心は、常に自己の存在意義を問い、答えを求め続けます。「ヒポスタシス」はこの探索の中で、我々の存在の根源的な秩序を示す概念として、現れました。それは、現実の背後に潜む「真の姿」や「実体」を示すものであり、一瞬の儚さを超越して永遠を垣間見るようなものです。一粒の砂を手にしたとき、その物質が何千年もかけて海岸の形を変えたことを思い描くような、壮大なスケールです。この概念は個人の内面的な旅の指南役となり、表面的な現象を超越し、より深い意味への到達を導く灯火です。ヒポスタシスは、静けさの中に響く永遠の声、目に見えないが確かにそこにある「存在の実体」なのです。",
+                "synonyms": [
+                        "Essence",
+                        "Substance"
+                ],
+                "antonyms": [
+                        "Phenomenon",
+                        "Surface"
+                ],
+                "aftertaste": "It hints at the unspeakable depths of what truly 'is'.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "stasis",
+                                        "meaning": "standing or state"
+                                }
+                        ],
+                        "points": [
+                                "「ヒポスタシス」はギリシャ哲学においてしばしば「実体」や「存在そのもの」を指し、プラトンやアリストテレスの哲学体系においても中心となる概念として論じられてきた。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-02-28"
+        },
+        {
+                "id": "noosphere",
+                "word": "Noosphere",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "noos-",
+                                        "type": "root",
+                                        "meaning": "知識",
+                                        "lang": "Greek"
+                                },
+                                {
+                                        "text": "-sphere",
+                                        "type": "suffix",
+                                        "meaning": "球体",
+                                        "lang": "Greek"
+                                }
+                        ],
+                        "original_statement": "The term 'noosphere' was coined by the French philosopher and Jesuit priest Pierre Teilhard de Chardin in the early 20th century, referring to the sphere of human thought."
+                },
+                "core_concept": {
+                        "en": "The ethereal tapestry of collective human thought envelops our existence, weaving realities from the intangible fabric of ideas.",
+                        "ja": "人間の思考の集合体が、無形のアイデアを織り成して現実を包み込むエーテル的なタペストリー。"
+                },
+                "thinking_layer": "私たちの存在を包む『ノオスフィア』の考え方は、単なる物理的な世界を超え、思考が意識と集合的経験を通じてどのように相互作用するかを探求する哲学的な概念です。私たちの思考は無限に広がり、未知の未来を形作る種となるのです。この層は、個々の知性が合わさることで形成され、透過的でありながら深遠な布のように、自然と人間が相互に関与する領域を象徴します。魂の追求は一個人の心を超え、時間を超越し、人類全体の経験が結晶化する地点を目指します。ここでは、マクロからミクロへの移行が絶え間なく起こり、感情と理性、直感と科学が一つに融合する場として、内なる宇宙を探索し続ける我々の存在が永遠不変のものとなります。まるで無数の色糸が一本の絨毯を織りなすように、ノオスフィアは知識と知恵を時間の流れの中にシームレスに組み込んでいきます。この深遠な層は、私たちにとって永続的な探求と創造の場であり、新しい可能性を開く鍵なのです。",
+                "synonyms": [
+                        "Mindscapes",
+                        "Thoughtosphere"
+                ],
+                "antonyms": [
+                        "Void",
+                        "Tabula Rasa"
+                ],
+                "aftertaste": "In the noosphere, the unity of human consciousness shapes an ever-evolving universe.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "noos",
+                                        "meaning": "mind, intellect"
+                                },
+                                {
+                                        "term": "sphaira",
+                                        "meaning": "sphere, globe"
+                                }
+                        ],
+                        "points": [
+                                "『ノオスフィア』は、テイヤール・ド・シャルダンによって提唱され、思考と知識が具現化する空間として、自然界と精神界を結ぶ橋である。"
+                        ]
+                },
+                "source": "Teilhard de Chardin's 'The Phenomenon of Man'",
+                "date": "2026-02-28"
+        },
+        {
+                "id": "zeitgeist.",
+                "word": "Zeitgeist.",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "zeit-",
+                                        "type": "root",
+                                        "meaning": "時間、時代",
+                                        "lang": "German"
+                                },
+                                {
+                                        "text": "geist",
+                                        "type": "root",
+                                        "meaning": "精神、霊",
+                                        "lang": "German"
+                                }
+                        ],
+                        "original_statement": "The term 'Zeitgeist' is a compound word from German, combining 'zeit' meaning 'time' or 'era' and 'geist' meaning 'spirit' or 'mind,' and was popularized in the 18th and 19th centuries to signify the spirit of the age."
+                },
+                "core_concept": {
+                        "en": "The whisper of time's spirit echoing through the collective consciousness.",
+                        "ja": "時代の精神が共鳴するささやき"
+                },
+                "thinking_layer": "『時代の精神』とは、一瞬にして世界のすべてを包み込むような概念です。この言葉は、時間の無情な流れを背景に、その時々の社会が持つ価値観や思想、感情、先端技術、そして未来への期待と不安を映し出す鏡のようなものです。歴史の川が流れる中、時代の精神はその流れに不安と希望という二つの翼を与え、神秘的な詩が交錯する綾取りのように世界を織り成していきます。『Zeitgeist』という言葉が語りかけるのは、その瞬間に刻み込まれた無数の人々の夢と挫折、そしてそれを超越しようとする魂の叫びです。それは目に見えない光の粒子が人々の心に触れ、永遠の領域に引き込むようなもの。言葉を超えた所で、新たな感性を探し続ける私たちを導いているのかもしれません。この精神が形となり昇華される時、我々は革新と共鳴し、更なる文明の進化を遂げるのでしょう。",
+                "synonyms": [
+                        "Spirit of the age",
+                        "Contemporary ethos"
+                ],
+                "antonyms": [
+                        "Anachronism",
+                        "Timelessness"
+                ],
+                "aftertaste": "The essence of now, gently whispered by the ether of history.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "zeit",
+                                        "meaning": "time or era"
+                                },
+                                {
+                                        "term": "geist",
+                                        "meaning": "spirit or mind"
+                                }
+                        ],
+                        "points": [
+                                "『zeitgeist』は、その時代の人々の意識や文化的な流れを象徴する言葉です。現代の出来事や流行は、歴史の慣性を打破し、小さな変化が大きな影響を及ぼすという原理を体現しています。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-02-28"
         }
 ];

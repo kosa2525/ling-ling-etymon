@@ -1,8 +1,8 @@
 {
   "name": "ling-ling-etymon",
-  "short_name": "ling-ling",
+  "short_name": "Ling-Ling",
   "description": "語源を思考の構造として捉える知的学習アプリ",
-  "start_url": "./index.html",
+  "start_url": "/",
   "display": "standalone",
   "background_color": "#0A192F",
   "theme_color": "#0A192F",
@@ -10,7 +10,14 @@
     {
       "src": "icon.png",
       "sizes": "192x192",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
     }
   ]
 }

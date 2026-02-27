@@ -75,7 +75,7 @@ h3 {
     background-color: rgba(var(--color-bg), 0.8);
     backdrop-filter: blur(12px);
     border-bottom: 1px solid var(--color-border);
-    padding: var(--spacing-md) 0;
+    padding: calc(var(--spacing-md) + env(safe-area-inset-top)) 0 var(--spacing-md) 0;
 }
 
 .nav-content {
