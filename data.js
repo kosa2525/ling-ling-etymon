@@ -6794,5 +6794,371 @@ const WORDS = [
                 },
                 "source": "Online Etymology Dictionary",
                 "date": "2026-02-28"
+        },
+        {
+                "id": "hodiernal",
+                "word": "Hodiernal",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "hodiern-",
+                                        "type": "root",
+                                        "meaning": "今日",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'hodiernal' descends from the Latin word 'hodiernus', which means 'of today', derived from 'hodie' (today)."
+                },
+                "core_concept": {
+                        "en": "A fleeting moment in the eternal dance of today.",
+                        "ja": "今日という時の儚くも美しいひととき。"
+                },
+                "thinking_layer": "「今日」という言葉には、時間の無限の流れの中で現れ、そして消えていく一瞬の煌めきが隠されています。人間の存在は、過去の記憶と未来への希望に絡みつきながらも、結局はこの「今日」にしがみつく他ありません。「今日」は決して昨日の影ではなく、ましてや明日へのプレリュードでもない。それはただ一度限りの、繰り返されることのない瞬間です。「今日」とは、永遠に変わらぬ「今」と、絶えず生成し続ける「未来」が交わる地点なのです。この概念を追求することは、無限の現在を実感することであり、瞬間の美を味わうことに他なりません。「ホディエナル」という言葉は、まさにその一瞬の中での存在を表現し、人が時間に縛られながらも、常に「今」という瞬間に生きていることを思い起こさせます。この時空の中で、私たちは何を選び取り、どのように命を刻んでいくのでしょうか。それを考えると、「今日」という言葉のもつ深遠な意味に畏敬の念を抱かざるを得ません。",
+                "synonyms": [
+                        "Contemporary",
+                        "Present-day"
+                ],
+                "antonyms": [
+                        "Historical",
+                        "Futuristic"
+                ],
+                "aftertaste": "Today is an eternal bloom amidst the fleeting parade of time.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "hodie",
+                                        "meaning": "today"
+                                }
+                        ],
+                        "points": [
+                                "「ホディエルナル」は、ラテン語由来の言葉で、「今日」を意味する「hodie」から派生しています。この語源は、現代の時間への限定的かつ詩的な視点を提供します。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-02-28"
+        },
+        {
+                "id": "oneiric",
+                "word": "Oneiric",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "oneir-",
+                                        "type": "root",
+                                        "meaning": "夢",
+                                        "lang": "Greek"
+                                },
+                                {
+                                        "text": "-ic",
+                                        "type": "suffix",
+                                        "meaning": "〜に関する",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word originates from the Greek 'oneiros', meaning dream, combined with the suffix '-ic', indicating a relationship or pertaining to."
+                },
+                "core_concept": {
+                        "en": "Dreamlike, ephemeral visions that dance on the fringes of consciousness.",
+                        "ja": "意識の縁に踊る夢のような儚い幻影。"
+                },
+                "thinking_layer": "夢とは、現実という枠を超えた存在の探求であり、我々の心の奥深くで織り成す物語の舞台である。夢の領域においては時間も空間も解き放たれ、意味の境界を超えて無限の可能性が広がる。この夢の世界はまた、日常との差異を示し、我々が通常の論理の限界を越えて問うことを可能にする。まるで虹のように儚く美しい一時の邂逅が、心の中に消え去ることなく残り、人生の道標となることがある。この考察は夢の持つ力とその不可知性を浮き彫りにし、真に私たちの意識の深層を照らし出す。夢は単なる幻想ではなく、我々の内面世界への窓であり、そこで目覚めた思索が生み出す啓示は、我々の存在における新たな真実を提示する。",
+                "synonyms": [
+                        "Dreamy",
+                        "Visionary"
+                ],
+                "antonyms": [
+                        "Realistic",
+                        "Practical"
+                ],
+                "aftertaste": "In the quietude of night, the oneiric whispers unravel the mysteries of the soul.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "oneiros",
+                                        "meaning": "dream"
+                                }
+                        ],
+                        "points": [
+                                "夢という言葉の語源は、ギリシャ語の『oneiros』に由来し、それが『oneiric』の中核を成している。言語の流れを辿ると、夢が持つ象徴性とその神秘の意味が明らかになる。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-02-28"
+        },
+        {
+                "id": "palimpsest",
+                "word": "Palimpsest",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "palin-",
+                                        "type": "prefix",
+                                        "meaning": "再び",
+                                        "lang": "Greek"
+                                },
+                                {
+                                        "text": "psēstos",
+                                        "type": "root",
+                                        "meaning": "擦る",
+                                        "lang": "Greek"
+                                }
+                        ],
+                        "original_statement": "The word 'palimpsest' originates from the Greek 'palinpsēstos', which means 'scraped again'. Historically, it refers to a manuscript or piece of writing material on which later writing has been superimposed on effaced earlier writing."
+                },
+                "core_concept": {
+                        "en": "A tapestry of histories, rewriting itself upon the sands of time.",
+                        "ja": "時の砂に繰り返し書き直される歴史の織物。"
+                },
+                "thinking_layer": "パリンプセストは、消され再び書き込まれる文字の層が重なり合うことを指します。これは時間の流れと人間の記憶が作り出す有機的なプロセスと言えるでしょう。かつての記録は、新たな情報や未来へと向かう希望のために一度は消されますが、その下には常に過去の痕跡が隠れています。この重層的な記録は、私たちが生きるこの世界そのものに似ており、忘却と記憶の境界線が曖昧になった存在です。人間は常に過去を振り返り、そこから何かを学び、新しい考えや理想を描き出そうとします。こうした思考のプロセスもまた、一種のパリンプセストと言えるでしょう。私たちの心というキャンバスには、思想や感情が塗り重ねられ、その過程で古い考えが消えていきます。しかし、完全に消えることはなく、深層に静かに横たわり続け、現在に影響を与え続けます。パリンプセストは、その意味の層を剥がしながら新たな価値を創造する試みの象徴と言えます。",
+                "synonyms": [
+                        "Palinode",
+                        "Scroll"
+                ],
+                "antonyms": [
+                        "Original",
+                        "Tabula Rasa"
+                ],
+                "aftertaste": "Endlessly rewriting, the palimpsest of existence weaves stories upon stories.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "psēstos",
+                                        "meaning": "to scrape"
+                                }
+                        ],
+                        "points": [
+                                "パリンプセストは、初期ギリシャの再利用された羊皮紙に由来します。それは、記録が消去され、新たに情報が書き加えられる一種の文化的な再生の象徴であり、社会の進化を物語ります。"
+                        ]
+                },
+                "source": "The Online Etymology Dictionary",
+                "date": "2026-02-28"
+        },
+        {
+                "id": "uchronia",
+                "word": "Uchronia",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "u-chronos",
+                                        "type": "prefix/root",
+                                        "meaning": "時間",
+                                        "lang": "ギリシャ語"
+                                }
+                        ],
+                        "original_statement": "The term 'uchronia' is derived from the Greek prefix 'u-' (meaning 'not') and 'khronos' (meaning 'time'), implying a non-existent or imaginary time."
+                },
+                "core_concept": {
+                        "en": "An ethereal conception of time unbound by reality.",
+                        "ja": "現実に縛られない、幻想的な時間の概念"
+                },
+                "thinking_layer": "ウクロー二アは、想像力の広がる無限の時間のうねりを表す。この言葉は、我々が歴史の枠を越えた想像の旅をする際に、その手綱を握らせる。人間社会は、時につれられ、過去から未来へ流れる儚い水の中で断片を刻む。しかし、ウクロー二アの概念は、その流れの外に立ち、我々に時間の中の時間—存在しないが、可能性が膨らむ‘もしも’の世界—を歩かせる。この概念は、過去から学び未来へと邁進する我々に、異なる軌跡を提供し、制約のない思考と観念の舞台を示す。哲学的には、ウクロー二アは人間の宿命である時の制限を打ち破り、未知の時間風景を描くことを可能にする。ここに、私たちの内なる冒険心は解き放たれ、束縛のない時空における意識の旅が始まるのだ。‘もしも’という問いを重ね、我々の見えない時間の渦の中に新たな意味を見いだす、その詩的な空白に出会えるとき、それがウクロー二アの真髄である。想像の羽ばたきを支え、無限の可能性の視野を開く時、我々は真の自由を手にするのである。",
+                "synonyms": [
+                        "Utopian chronicle",
+                        "Imaginary time"
+                ],
+                "antonyms": [
+                        "Reality",
+                        "History"
+                ],
+                "aftertaste": "Uchronia is a gentle whisper in the winds of time, beckoning us to explore the unknown.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "chronos",
+                                        "meaning": "time"
+                                }
+                        ],
+                        "points": [
+                                "ウクロー二アは哲学的には、時間の束縛を越える思考の一形態として捉えられる。この言葉は、現実の歴史や時間の制約から離れ、‘もしも’という想像が翼を持つ場である。"
+                        ]
+                },
+                "source": "Harper, Douglas. Online Etymology Dictionary (etymonline.com)",
+                "date": "2026-02-28"
+        },
+        {
+                "id": "witch",
+                "word": "Witch",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "wicca",
+                                        "type": "root",
+                                        "meaning": "魔術師",
+                                        "lang": "Old English"
+                                },
+                                {
+                                        "text": "-",
+                                        "type": "root",
+                                        "meaning": "術",
+                                        "lang": "Proto-Germanic"
+                                }
+                        ],
+                        "original_statement": "The word 'witch' originates from the Old English 'wicce', which referred to a female magician or sorceress, and traces back to the Proto-Germanic 'wikkô', implying one connected to magic."
+                },
+                "core_concept": {
+                        "en": "A being who dances on the delicate line between mysticism and reality, embodying the ethereal allure of the unknown.",
+                        "ja": "未踏の領域への誘い、神秘と現実の狭間を踊る存在。"
+                },
+                "thinking_layer": "魔女という言葉は単なる超自然的な存在を示すにとどまらず、時を超えた人間の恐れと憧れを映し出す鏡とも言えるでしょう。歴史の中で魔女は、異端とされた者、権力に逆らう者、あるいは知識を持つゆえに恐れ・弾圧された女性を象徴してきました。魔女は異界の力を呼び起こすことのできる存在として、人々の想像力をかき立ててきました。ここには支配構造や性別役割が絡まり合い、未知なるものに対する根強い好奇心と、同時にその不確実性から来る恐怖が潜んでいます。魔女は私たちに、自らの内面を見つめなおし、見えない力との関わり方を考えさせる機会を提供します。それは知識と恐れ、崇拝と憎しみが交錯する神秘的な存在であり、私たちの精神的探求の旅を象徴するものでもあります。",
+                "synonyms": [
+                        "Sorceress",
+                        "Enchanter"
+                ],
+                "antonyms": [
+                        "Muggle",
+                        "Non-magical"
+                ],
+                "aftertaste": "The witch embodies both the fascination and dread of what lies beyond the mortal veil.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "wicca",
+                                        "meaning": "sorcerer"
+                                },
+                                {
+                                        "term": "wicce",
+                                        "meaning": "witch"
+                                }
+                        ],
+                        "points": [
+                                "『魔女』の語源は古代英語の『wicce』にあり、これは主に女性の魔法使いを指しました。さらに遡ると、古代ゲルマン語の『wikkô』に由来し、魔術と関連する存在を意味していました。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-02-28"
+        },
+        {
+                "id": "gossip",
+                "word": "Gossip",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "god-sibb",
+                                        "type": "prefix/root",
+                                        "meaning": "神の親しい友",
+                                        "lang": "Old English"
+                                }
+                        ],
+                        "original_statement": "The word 'gossip' originates from the Old English term 'godsibb', meaning 'a godparent' or 'sponsor at baptism', which evolved to describe a close friend, and eventually someone who engages in idle talk and rumor."
+                },
+                "core_concept": {
+                        "en": "Whispered tales weaving the fabric of human social tapestry.",
+                        "ja": "人間関係の織物を紡ぐささやきの物語。"
+                },
+                "thinking_layer": "ゴシップという言葉の奥深さを探求する時、我々は言葉が持つ連携とつながりの力に出会う。元々は「神の親友」を意味し、人と人の心を繋ぐ役割を持っていたものが、いつしか無駄話や噂話へと変じたこの言葉。その変容の背後には、人間が社会の中で果たす役割、孤独からの安息、興味や好奇心という普遍的な欲求が潜んでいる。ゴシップは、単に他者の事情を語るだけでなく、物語を紡ぎ、コミュニティに溶け込み、時に他者との境界をぼやかす存在である。噂が持つ影響力は、時に善なる調和を生み出し、他時には危険な軋轢を招く。この言葉は、人間の内面的な矛盾や張力を映し出し、社会的繋がりの中で言葉が如何に生きているかを教えてくれる。",
+                "synonyms": [
+                        "Rumor",
+                        "Hearsay"
+                ],
+                "antonyms": [
+                        "Silence",
+                        "Secrecy"
+                ],
+                "aftertaste": "Gossip is the social spell that binds or unravels the soul of a community.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "godsibb",
+                                        "meaning": "a godparent or a sponsor"
+                                }
+                        ],
+                        "points": [
+                                "言葉の起源が示すのは、人間関係の深いつながり。元は神と人を結ぶ関係を指していたが、社会の中での人間関係の変化を通じて、親密な友人関係から公共の会話へと発展していった。言葉の変遷は、人間が他者とどのように関わり合い、どのように情報を扱うかを示している。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-02-28"
+        },
+        {
+                "id": "travel",
+                "word": "Travel",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "travail-",
+                                        "type": "root",
+                                        "meaning": "苦労",
+                                        "lang": "Old French"
+                                }
+                        ],
+                        "original_statement": "Derived from the Old French 'travail', meaning 'to work' or 'physical labor', indicating a journeying borne out of hardship or exertion."
+                },
+                "core_concept": {
+                        "en": "The transformative journey through realms of the unknown, where hardship paves the path to enlightenment.",
+                        "ja": "未知の領域を通り抜ける変容の旅、困難が悟りへの道を切り拓く。"
+                },
+                "thinking_layer": "旅とは、単なる移動ではなく、魂を揺さぶる内なる冒険である。古代から人々は探索と発見の衝動に駆られ、新たな地平を求めて大海原を超え、険しい山脈を越えた。旅路の道中で直面する困難や未知なるものこそが、私たちを一層の成長と自己発見へと導く。旅をすることで私たちは、自らの限界を試され、また新たなる可能性を見出す。自己の内面を見つめ直すきっかけとなり、他者との邂逅を通じて、世界の多様性を肌で感じることができる瞬間である。旅の起源は古代の『悩み』にまで遡るが、それこそが豊かさをもたらす重要な要素であり、人生をより深く味わい、思索の層を重ねていくことに繋がるのである。旅は、地理的な移動を超えて、心の地図を描き直す行為であり、そして道中で拾い集めた多くの経験は、帰路の灯火となるのだ。",
+                "synonyms": [
+                        "Journey",
+                        "Voyage"
+                ],
+                "antonyms": [
+                        "Stagnation",
+                        "Stillness"
+                ],
+                "aftertaste": "In traveling, the soul discovers its uncharted territories.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "travail",
+                                        "meaning": "labor, toil"
+                                }
+                        ],
+                        "points": [
+                                "旅という言葉は、古フランス語の『travail（労働、苦労）』に由来し、その過程の厳しさを想起させる。しかしこの苦労こそ、人間の成長と悟りに至る不可欠な要素なのだ。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-02-28"
+        },
+        {
+                "id": "peculiar",
+                "word": "Peculiar",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "pecul-",
+                                        "type": "root",
+                                        "meaning": "私有の、個人的な",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'peculiar' originates from the Latin 'peculiaris', meaning 'of one’s own', which comes from 'peculium', referring to private property or stock."
+                },
+                "core_concept": {
+                        "en": "A distinguishing grace, unique and intimate, stands apart in its luminous singularity.",
+                        "ja": "独特の輝きを放ち、唯一無二の親密さを持つ特異な優美さ。"
+                },
+                "thinking_layer": "『特異』という言葉の背後には、唯一無二の存在を求める深遠な人間の欲望が潜んでいる。私たちは、群衆に埋もれたくない、個としての自分を認識し、他者との差異を際立たせたいという衝動を持って生きている。この言葉は、単なる違い以上のものであり、自己を超越する進化の証でもある。我々は個々の特異性を通じて、自らの存在意義を再確認し、宇宙の広大さの中での微細な振動を感じるのだ。たとえ、孤立や誤解を生むことがあったとしても、それこそが真の自己を表現する道であり、寂寥の中で光を見いだすための瞑想的過程である。心に秘めた個々のユニークさが、人類全体の調和を彩り豊かにすると信じて、私たちは特異性の本質に思いを巡らせる。",
+                "synonyms": [
+                        "Unique",
+                        "Distinctive"
+                ],
+                "antonyms": [
+                        "Common",
+                        "Ordinary"
+                ],
+                "aftertaste": "Peculiar dances on the edges of familiarity and strangeness, whispering tales of the singular soul.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "peculium",
+                                        "meaning": "private property, personal wealth"
+                                }
+                        ],
+                        "points": [
+                                "『peculium』はラテン語で個人的な財産を意味する。これが転じて、他者と切り離された、私有の、特別な性質を示す文脈で使われるようになった。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-02-28"
         }
 ];
