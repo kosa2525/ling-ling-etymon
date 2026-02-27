@@ -6149,5 +6149,393 @@ const WORDS = [
                 },
                 "source": "Oxford English Dictionary",
                 "date": "2026-02-28"
+        },
+        {
+                "id": "liminal",
+                "word": "Liminal",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "limin-",
+                                        "type": "root",
+                                        "meaning": "閾（いき）",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The term 'liminal' originates from the Latin 'limen', meaning threshold, and refers to a transitional or initial stage of a process."
+                },
+                "core_concept": {
+                        "en": "The poetic moment of existence between the mundane and the profound.",
+                        "ja": "俗世と深遠の狭間における詩的な瞬間。"
+                },
+                "thinking_layer": "リミナルという言葉は閾に立つ者たちのための語であり、その存在の合間において儚さと永遠の間を漂う。閾とは、日常と神秘の狭間で生命が揺れ動く場所であり、それは新しい可能性が芽生える異次元の境界線である。この空間は、一歩を踏み出す勇気と、見えないものに心を開く準備ができている精神に対して開かれる。時に、真実とは静寂の中にあるとされ、表面的なものを越え、本質に触れようとする者のための道筋なのだ。リミナルの瞬間に目覚めることで、我々は自己の再定義を行う。内なる小さな声に耳を傾け、無常の中に美を見出す能力を身につける。この瞬間は、無限のシナリオと選択肢が広がるステージであり、新たな始まりの前触れを鋭く感じ取れる者に与えられた預言である。この哲学的舞台は、過去を乗り越え未来を迎え入れる魂の準備のための空白であり、心と精神の深遠なる旅への誘いである。",
+                "synonyms": [
+                        "Transitional",
+                        "Threshold"
+                ],
+                "antonyms": [
+                        "Fixed",
+                        "Stable"
+                ],
+                "aftertaste": "Liminal moments are both a whisper of potential and a shadow of transformation.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "limen",
+                                        "meaning": "threshold, entrance"
+                                }
+                        ],
+                        "points": [
+                                "リミナルは人間の経験における移行状態を示す概念であり、この言葉は内なる変容を表す。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-02-28"
+        },
+        {
+                "id": "abstemious",
+                "word": "Abstemious",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "ab-",
+                                        "type": "prefix",
+                                        "meaning": "体験や快楽から離れること",
+                                        "lang": "ラテン語"
+                                },
+                                {
+                                        "text": "temetum",
+                                        "type": "root",
+                                        "meaning": "強い飲み物または酩酊",
+                                        "lang": "ラテン語"
+                                },
+                                {
+                                        "text": "-ious",
+                                        "type": "suffix",
+                                        "meaning": "性質を表す",
+                                        "lang": "英語"
+                                }
+                        ],
+                        "original_statement": "The word 'abstemious' comes from the Latin 'abstemius', formed from 'ab-' (away from) and 'temetum' (strong drink), indicating a lifestyle avoiding excess, especially in eating and drinking."
+                },
+                "core_concept": {
+                        "en": "A quiet restraint, binding the soul with threads of temperance.",
+                        "ja": "節度をもって自らの魂を静かに縛ること。"
+                },
+                "thinking_layer": "控えめであること、それは物質的な世俗の欲望と内なる精神性との調和を追い求める人類の永遠の葛藤を象徴しています。物欲や感覚の快楽に溺れることなく、内なる静寂を追い求める姿勢は、個人の真の自由を解き放つ鍵です。古代の哲学者が説いたように、己を制することは宇宙を制することに等しい。内なる静けさを追求する過程で、魂は自己を超えた深遠な理解と結びつきます。私たちの現代社会において、過剰消費と一瞬の喜びが美徳として称賛される中、控えめであることは逆の道を選ぶ勇気を持つ行為であり、真の英知の探求へと導く道です。アリストテレスの中庸の徳、あるいは仏教の八正道における正しい行動として、控えめであることは個人の心の平和と内なる調和を目指すものです。自己をこころの秤にかけて調整する行為は、真の幸福を感じるための不可欠なプロセスであり、それは物的な繁栄に対する内なる抵抗の表れです。控えめさが生む効果は、心の安らぎを導く静かなる力です。",
+                "synonyms": [
+                        "Temperate",
+                        "Moderate"
+                ],
+                "antonyms": [
+                        "Gluttonous",
+                        "Indulgent"
+                ],
+                "aftertaste": "In restraint lies the essence of true freedom.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "temetum",
+                                        "meaning": "intoxicating drink"
+                                }
+                        ],
+                        "points": [
+                                "ラテン語では、'temetum'が指すものは単なるアルコール飲料だけでなく、精神を酩酊させ、自我を超える状態をもたらすものとされました。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-02-28"
+        },
+        {
+                "id": "petrichor",
+                "word": "Petrichor",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "petri-",
+                                        "type": "prefix",
+                                        "meaning": "岩石",
+                                        "lang": "Greek"
+                                },
+                                {
+                                        "text": "-ichor",
+                                        "type": "root",
+                                        "meaning": "神々の血液",
+                                        "lang": "Greek"
+                                }
+                        ],
+                        "original_statement": "The term 'petrichor' was coined in the 1960s by two Australian researchers, Isabel Joy Bear and R.G. Thomas, to describe the distinct scent of rain in the air after a dry spell. It combines Greek 'petros' (stone) and 'ichor' (the fluid that flows in the veins of the gods in Greek mythology)."
+                },
+                "core_concept": {
+                        "en": "The poetic scent of earth meeting the sky's tears.",
+                        "ja": "大地と空の涙が出会う詩的な香り。"
+                },
+                "thinking_layer": "ペトリコールという言葉は、人間の感覚と自然の調和の記録です。雨が降った瞬間、地面が息を吹き返し、鮮明な香りが空気中に漂います。この香りは、単に水と土の化学反応ではなく、もっと深い存在論的な意味を持っています。この香りは、生命そのものの蘇生を象徴し、自然のサイクルの永遠性と密接に結びついています。私たちは雨上がりに立ち止まり、鼻腔に広がる香りを感じることで、宇宙と自分自身の繋がりを思い出します。それは、日常の喧騒から引き離され、生命の基本的な美しさを再確認する瞬間であり、人間の魂が自然のリズムに共鳴する瞬間でもあります。雨の後の香りは、曖昧でありながらも具体的で、過去と未来を繋ぐ架け橋として機能し、私たちの記憶と希望を喚起します。ペトリコールは、存在の本質に触れるための賛歌であり、私たちがより大きな宇宙の一部であることを教えてくれます。",
+                "synonyms": [
+                        "Geosmin",
+                        "Earth's perfume"
+                ],
+                "antonyms": [
+                        "Acrid scent",
+                        "Odorless"
+                ],
+                "aftertaste": "Petrichor is the earth's soft whisper to the soul, a fragrant reminder of nature's embrace.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "petros",
+                                        "meaning": "stone"
+                                },
+                                {
+                                        "term": "ichor",
+                                        "meaning": "divine fluid"
+                                }
+                        ],
+                        "points": [
+                                "ペトリコールは、自然と人間の関係性を象徴する言葉であり、その香りは古代から持続してきた自然のサイクルの記憶を呼び覚ます。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-02-28"
+        },
+        {
+                "id": "clinamen",
+                "word": "Clinamen",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "clinare-",
+                                        "type": "root",
+                                        "meaning": "傾く",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "men-",
+                                        "type": "root",
+                                        "meaning": "行動",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The term 'clinamen' originates from the Latin word 'clinare', meaning 'to lean or to incline'. It was used by the Roman poet Lucretius in his philosophical poem 'De Rerum Natura' to describe the unpredictable swerve of atoms."
+                },
+                "core_concept": {
+                        "en": "The poetic dance of unpredictable deviation.",
+                        "ja": "予測不可能な偏向の詩的な舞"
+                },
+                "thinking_layer": "クリナーメンという概念は、古代ローマの詩人ルクレティウスがその哲学的詩『物の本質について』で述べた原子的な逸脱を描写しています。この逸脱は、まさに宇宙の物質的な事象や存在の予測不可能性を象徴するものです。私たちの人生もまたクリナーメンのように、ある一定の法則に基づいて秩序だてられていながらも、時折予期せぬ方向へと逸れていくことがあります。その微かな偏向が人生を豊かにし、限りない可能性をもたらすのです。クリナーメンは偶然性を認めることへの誘いであり、秩序と混沌の間に広がる世界の美しさを感じ取るための手がかりです。古代の哲学者たちが考えたように、私たちもまた、日常の中に潜む微細な揺らぎに耳を傾け、自分自身の可能性を広げる道を見出すことができるのです。",
+                "synonyms": [
+                        "Swerve",
+                        "Deviation"
+                ],
+                "antonyms": [
+                        "Regularity",
+                        "Predictability"
+                ],
+                "aftertaste": "In the subtleties of deviation lies the essence of creation.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "clinare",
+                                        "meaning": "to lean, to incline"
+                                },
+                                {
+                                        "term": "men",
+                                        "meaning": "action"
+                                }
+                        ],
+                        "points": [
+                                "クリナーメンは、古代哲学の重要な概念として、決定論とは対照的な視点を提供し、物理学的現象の確率的側面を強調する語源を持つと言える。"
+                        ]
+                },
+                "source": "Lucretius, 'De Rerum Natura'",
+                "date": "2026-02-28"
+        },
+        {
+                "id": "ataraxia",
+                "word": "Ataraxia",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "A-",
+                                        "type": "prefix",
+                                        "meaning": "不",
+                                        "lang": "Greek"
+                                },
+                                {
+                                        "text": "taraxia",
+                                        "type": "root",
+                                        "meaning": "乱れ",
+                                        "lang": "Greek"
+                                }
+                        ],
+                        "original_statement": "The term 'ataraxia' originates from ancient Greek, used by Epicureans and Stoics to describe a lucid state of robust equanimity, characterized by ongoing freedom from distress and worry."
+                },
+                "core_concept": {
+                        "en": "Serene tranquility amidst the chaos of life.",
+                        "ja": "人生の混乱の中での静謐な平穏"
+                },
+                "thinking_layer": "古代ギリシャの哲学者たちが探求した「アタラクシア」は、無限の動揺からの解放としての内面的な平穏の理想を意味した。時間の流れから解放され、静寂と平和が心に満ちるこの境地は、現代人にとっても希求されるべき状態である。騒々しい現代社会は、欲望と焦燥感に満ち溢れ、精神的安らぎを脅かしている。アタラクシアはこれらの外的要因に左右されることなく、内なる調和を実現する術を教えてくれる。いかなる時も心の平衡を保つことは、絶えず揺れ動く世界の中で我々が目指すべきものである。瞑想的な静けさの中で、真の自由は生まれ、心は羽根のような軽やかさを携えて天空を舞う。たとえ外界がどれほど荒れ狂おうとも、アタラクシアの状態にある者は、波立つ海面にただ一つ漂う小舟のごとく、不動の心を抱く。",
+                "synonyms": [
+                        "Equanimity",
+                        "Composure"
+                ],
+                "antonyms": [
+                        "Anxiety",
+                        "Agitation"
+                ],
+                "aftertaste": "True tranquility is a deep-rooted harmony within the soul.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "tarassein",
+                                        "meaning": "to disturb or agitate"
+                                }
+                        ],
+                        "points": [
+                                "ギリシャ語「ataraktos」から派生した「ataraxia」は、直観と理性の調和を探求するストア派とエピクロス主義の哲学において中心的な概念であった。"
+                        ]
+                },
+                "source": "Harper, Douglas. “Online Etymology Dictionary.”",
+                "date": "2026-02-28"
+        },
+        {
+                "id": "clock",
+                "word": "Clock",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "clocca",
+                                        "type": "root",
+                                        "meaning": "鐘",
+                                        "lang": "ラテン語"
+                                }
+                        ],
+                        "original_statement": "The word 'clock' comes from the Middle English 'clokke', which was borrowed from the Old Northern French 'cloke', stemming from the Medieval Latin 'clocca', meaning 'bell'."
+                },
+                "core_concept": {
+                        "en": "A tangible witness to the passage of time, silently orchestrating life’s rhythms.",
+                        "ja": "時の流れを見守り続ける、人生の拍子を静かに指揮する有形の証人。"
+                },
+                "thinking_layer": "時計は、人が時間を計測する最も古典的な道具であり、時を刻む存在でありながら、静かにその瞬間を記録している。その針が動くたびに、私たちは過ぎ去った一瞬の儚さと未来への期待を感じる。それは単なる機械ではなく、時を超越し、無形の概念を有形にする方法である。歴史に渡って、時計は人間の意識の永遠の証しとなってきた。時が人間にとって何を意味するのかを考えたとき、それは生と死、過去と未来、瞬間と永遠という哲学的二元性を孕んでいる。時計の針が刻む音は、内なる静けさと永遠のリズムを聞かせてくれる。人間の有限な人生に無限のかけがえのなさを与える、そうした役割を果たす時計は、物理的現象と心の探求を結びつける橋である。",
+                "synonyms": [
+                        "Timepiece",
+                        "Chronometer"
+                ],
+                "antonyms": [
+                        "Timelessness",
+                        "Eternity"
+                ],
+                "aftertaste": "The clock’s tick-tock whispers the ephemeral essence of our existence.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "clocca",
+                                        "meaning": "bell"
+                                }
+                        ],
+                        "points": [
+                                "時計という言葉は「鐘」に由来し、中世には鐘が時間の経過を告げる重要な役割を果たしていた。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-02-28"
+        },
+        {
+                "id": "odd",
+                "word": "Odd",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "od-",
+                                        "type": "root",
+                                        "meaning": "異なる, 奇数",
+                                        "lang": "Old Norse"
+                                },
+                                {
+                                        "text": "-de",
+                                        "type": "suffix",
+                                        "meaning": "状態を示す",
+                                        "lang": "Old Norse"
+                                }
+                        ],
+                        "original_statement": "The word 'odd' stems from the Old Norse 'oddi', meaning a point or an angle, later evolving to signify 'odd' or 'strange'."
+                },
+                "core_concept": {
+                        "en": "A whisper of dissonance amidst harmony.",
+                        "ja": "調和の中の不協和音のささやき"
+                },
+                "thinking_layer": "『奇妙』という言葉は、何かから異なる状態を表す。調和の海に一点だけ浮かぶ孤独な島、あるいは群れを外れる単独の存在である。奇数は、2で割れない孤独な数。そのような奇妙さは、全体の静寂を破る微かなさざめきのようなものであり、無音の中に生まれる音のようだ。この微細なずれが、時に私たちに深い思索を促す。斜に構えた視点から世界を見直すことで、新たな美しさを発見することができる。奇妙さの中には、隠れた秩序と暗黙の対話が埋め込まれている。『奇妙』という感覚は、既存の世界観を揺るがす力を持ち、新たなものの見方を提示する。日常に潜む非日常を浮き彫りにすることで、私たちは新たな感受性を育むことができる。この一見矛盾した状態こそが、人間の内なる真実を開示する鍵となるかもしれない。奇妙さが示すものは、単なる違和感ではなく、調和と対話を生む生命の律動であるのだ。奇数の数列のように、予測不可能で、それゆえに美しい軌跡を描くのだろうか。奇妙さを真理への道標として使うことで、新たな知識と理解を培うことが可能となる。そして、最終的には、調和と対立の絶妙なバランスを感じ取ることができるのである。",
+                "synonyms": [
+                        "Strange",
+                        "Unusual"
+                ],
+                "antonyms": [
+                        "Even",
+                        "Common"
+                ],
+                "aftertaste": "Oddness dances at the fringes of reality, a beacon of inquiry.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "oddni",
+                                        "meaning": "point, angle"
+                                }
+                        ],
+                        "points": [
+                                "『odd』という言葉は、北ゲルマン語派である古ノルド語の「oddi」に由来し、最初は物理的な地点や角度を意味していた。この言葉は時間を経て、物事の逸脱状態を示すものとして進化した。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-02-28"
+        },
+        {
+                "id": "ketchup.",
+                "word": "Ketchup.",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "kê-tsiap",
+                                        "type": "root",
+                                        "meaning": "魚醤",
+                                        "lang": "福建語"
+                                }
+                        ],
+                        "original_statement": "The English word 'ketchup' is derived from the Hokkien Chinese word 'kê-tsiap', which referred to a fermented fish sauce."
+                },
+                "core_concept": {
+                        "en": "A bottle encapsulating the primordial umami of the sea, translated through time.",
+                        "ja": "時を超えて翻訳された海の原初的な旨味を閉じ込めた瓶"
+                },
+                "thinking_layer": "ケチャップという言葉を考察するにあたって、その語源からはるか昔の海に思いを馳せる。福建語の『kê-tsiap』に由来し、魚醤を意味するこの単語は、遠い国々が織りなす文化の交流と変遷を物語る。かつて海辺で静かに発酵され、やがて貿易路を渡った魚醤は、異国の地において姿を変え続けた。赤く染まり、甘く酸っぱく、現代の食卓に並ぶケチャップは、一見現代的でありながら、その中に古代の呪文のような調和を秘めている。味覚を越えて文化が交わり、言葉が持つ真実と想像の狭間に、古代より受け継がれた人間の独創性とそれを形作る情熱が存在する。ふと赤いソースを目にする度に、どれほど多くの時と想像の航海を経て私たちの前に辿り着いたか、その旅路を感じることができる。語源という深き海原を渡り行くこの小さなスパイス瓶は、過去と未来を繋ぐ命の味である。",
+                "synonyms": [
+                        "Sauce",
+                        "Condiment"
+                ],
+                "antonyms": [
+                        "Ingredient",
+                        "Solid food"
+                ],
+                "aftertaste": "Ketchup is a journey of flavor across time and cultures.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "kê-tsiap",
+                                        "meaning": "Fish sauce"
+                                }
+                        ],
+                        "points": [
+                                "福建語の『kê-tsiap』に由来し、魚醤を意味した。これが英語を通じて『ketchup』へと変化し、トマトベースのソースとして新たな位置を占めた。言語と味の変遷は、文化が交錯する舞台裏で続く創造の道を示している。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-02-28"
         }
 ];
