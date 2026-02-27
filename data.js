@@ -5664,5 +5664,490 @@ const WORDS = [
                 },
                 "source": "Online Etymology Dictionary",
                 "date": "2026-02-28"
+        },
+        {
+                "id": "samurai",
+                "word": "Samurai",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "侍",
+                                        "type": "Chinese character",
+                                        "meaning": "to serve, to guard",
+                                        "lang": "Japanese"
+                                },
+                                {
+                                        "text": "samurau",
+                                        "type": "verb",
+                                        "meaning": "to serve",
+                                        "lang": "Classical Japanese"
+                                }
+                        ],
+                        "original_statement": "The word 'samurai' originates from the verb 'saburau', meaning 'to serve', with the deeper connotation evolving into a class of military nobility in medieval and early modern Japan."
+                },
+                "core_concept": {
+                        "en": "A noble warrior serving with unwavering loyalty and honor.",
+                        "ja": "忠誠と名誉をもって仕える高潔な武人"
+                },
+                "thinking_layer": "『侍』という言葉に込められた概念は、単なる戦闘技能を超えた精神的な美しさを象徴するものである。古来より、日本の文化において『侍』は、武の道を進む者としてだけでなく、強い責任感と道徳心を備えた人物とみなされてきた。戦国の世において、彼らは主君への忠誠を第一とし、時にはその命をも投げ打ってでも義務を果たすことを厭わなかった。それは、単に己の名を高めるためではなく、より高次の価値体系である“義”を守るためである。義は、自己を超えた奉仕の精神を伴いながら、彼らの内面を強固に支える柱であった。侍にとって、刀は単なる武器ではなく、心の鏡として研がれ続けたものである。彼らの生き方を紐解くと、一人ひとりが創り上げた美学への挑戦が見える。それは一瞬にして消え去るものでありながら、時を越えて伝わる真実の心の反映であるかもしれない。現代においても、侍の精神は多くの人々に影響を与え続け、その見えない鎧は日本の歴史と文化の深層に刻み込まれている。",
+                "synonyms": [
+                        "Warrior",
+                        "Bushido"
+                ],
+                "antonyms": [
+                        "Civilian",
+                        "Bureaucrat"
+                ],
+                "aftertaste": "A spirit forged in the crucible of duty and honor.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "侍",
+                                        "meaning": "to serve, attendant"
+                                },
+                                {
+                                        "term": "saburau",
+                                        "meaning": "to serve faithfully"
+                                }
+                        ],
+                        "points": [
+                                "侍の語源は、武士の倫理観と倫理が日本の文化と歴史に深く埋め込まれていることを示している。"
+                        ]
+                },
+                "source": "Kōjien Japanese Dictionary",
+                "date": "2026-02-28"
+        },
+        {
+                "id": "groggy",
+                "word": "Groggy",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "grog",
+                                        "type": "root",
+                                        "meaning": "グロッグ酒",
+                                        "lang": "English"
+                                }
+                        ],
+                        "original_statement": "The word 'groggy' originates from the British slang 'grog', which referred to a mixture of rum and water introduced by Admiral Vernon. It later came to describe a state of drunkenness or weakness, akin to the state induced by consuming grog."
+                },
+                "core_concept": {
+                        "en": "A staggering dance of the soul lightly kissed by the haze of vulnerability.",
+                        "ja": "曖昧さと弱さにそっと触れられた魂のよろめく踊り"
+                },
+                "thinking_layer": "『グロッギー』という言葉は、単なる酩酊の状態を超えて、存在そのものの揺らぎや人間の本質的な脆弱さを映し出す鏡である。私たちの身体がバランスを失い、意識が朦朧とする時、それは単なるアルコールに起因するものではなく、心の奥深くに潜む不安や恐れの反映であると言えよう。グロッギーな状態において、人は自身の脆さと出会い、日々の喧騒の中で忘れ去られた内なる声を聞くことができる。まるで人生の大海原で舵を失った船のように、私たちは本能に従いながらも、不確実な未来に向かって進んでいかなければならない。グロッギーな状態は、現代社会に生きる私たちが抱える不確定性や混乱を象徴し、またそれを超えて一つの詩的な境地に到達するための扉を示唆しているのかもしれない。この揺らぎの中で、新たな真実と出会う可能性が秘められているのである。",
+                "synonyms": [
+                        "Stupefied",
+                        "Dazed"
+                ],
+                "antonyms": [
+                        "Alert",
+                        "Vigorous"
+                ],
+                "aftertaste": "A sentiment of gentle imbalance echoes through one's soul.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "grog",
+                                        "meaning": "a diluted alcoholic drink"
+                                }
+                        ],
+                        "points": [
+                                "「グロッギー」は、海での体験から生まれた慣習的な飲料「グロッグ」から派生した言葉であり、そこには歴史的背景と人間の弱さを取り巻く文化の深層が滲み出ている。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-02-28"
+        },
+        {
+                "id": "weltschmerz",
+                "word": "Weltschmerz",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "welt/",
+                                        "type": "prefix/root",
+                                        "meaning": "世界",
+                                        "lang": "German"
+                                },
+                                {
+                                        "text": "schmerz",
+                                        "type": "root",
+                                        "meaning": "苦",
+                                        "lang": "German"
+                                }
+                        ],
+                        "original_statement": "Weltschmerz originates from the German words 'Welt' meaning 'world' and 'Schmerz', meaning 'pain'. It was coined in the 19th century.",
+                        "source": "Online Etymology Dictionary"
+                },
+                "core_concept": {
+                        "en": "A poetic melancholy for the world's imperfections and the pain of finding it wanting.",
+                        "ja": "世界の不完全さと満たされない悲しみの詩的なメランコリー"
+                },
+                "thinking_layer": "『世界』と『痛み』という二つの言葉が組み合わされ、より大きな概念を生み出します。「世の中の痛み」、この言葉はしばしば我々の心の深層にひそむ悲しみや不安を表現するために用いられます。世界が示すすべての可能性の中で、どうしても手の届かないものの存在を認識した瞬間に生じる無力感、これが「Weltschmerz」の本質です。それは、我々が追い求める理想と現実とのギャップが見せる哀愁のドラマとでも言えるでしょう。心の奥底では誰もが理解し、時に共感する感情であり、詩や芸術を通じて、古今東西を問わず多くの文化で表現され続けています。この言葉が訴えかけるのは、私たち人間が抱える普遍的な旅路であり、理想の世界を夢見つつも、その実現には遠く及ばないということの承認でもあるのです。やはりこの感情は、世界への愛と失望が混ざり合い、自己理解を深めるための契機ともなり得えます。",
+                "synonyms": [
+                        "Melancholy",
+                        "World-weariness"
+                ],
+                "antonyms": [
+                        "Joy",
+                        "Contentment"
+                ],
+                "aftertaste": "An exploration of dissatisfaction woven into the fabric of human consciousness.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "welt",
+                                        "meaning": "world"
+                                },
+                                {
+                                        "term": "schmerz",
+                                        "meaning": "pain"
+                                }
+                        ],
+                        "points": [
+                                "「Weltschmerz」は、世界の不完全さを深く感じる感情を描写する言葉であり、その哲学的意義は、人間が抱える無力感と世界への失望を明らかにするという点にあります。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-02-28"
+        },
+        {
+                "id": "anhedonia",
+                "word": "Anhedonia",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "an-",
+                                        "type": "prefix",
+                                        "meaning": "不",
+                                        "lang": "Greek"
+                                },
+                                {
+                                        "text": "hedonē",
+                                        "type": "root",
+                                        "meaning": "快楽",
+                                        "lang": "Greek"
+                                }
+                        ],
+                        "original_statement": "The term 'anhedonia' originated from the Greek words 'an' meaning 'without' and 'hēdonē' meaning 'pleasure'."
+                },
+                "core_concept": {
+                        "en": "A void where joy once thrived, a desolate heart longing for its lost euphoria.",
+                        "ja": "失われた歓喜を求める荒涼とした心、かつて喜びが満ちていた空虚。"
+                },
+                "thinking_layer": "人生の多様な喜びの光が失われた時、心はどのように応答するのでしょうか。悲しみや憂鬱とは異なり、無味乾燥な平坦さの中に生きることは、まるで音楽のない世界にいることのようです。人間存在の中で快楽を求めることは普遍的な欲求ですが、それが見失われたときの苦悩は、精神の死とすら呼ぶべきものかもしれません。何かを感じることができないという状態は、外界と自身の隔たりを深め、自己存在の意義そのものに問いを投げかけます。『無』に溶け込んでいく感覚の中で、人は再び意識と感情を取り戻し、かつての悦びを蘇らせる術を見つけることを渇望します。この欠乏感は、自己探求の旅における沈潜の始まりであり、再生への超越的な道を見出す鍵となるでしょう。心は再び色を取り戻す日を夢見ずにいられないのです。",
+                "synonyms": [
+                        "Apathy",
+                        "Indifference"
+                ],
+                "antonyms": [
+                        "Joy",
+                        "Euphoria"
+                ],
+                "aftertaste": "Anhedonia is the silent scream of a soul yearning for forgotten joy.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "an-",
+                                        "meaning": "without"
+                                },
+                                {
+                                        "term": "hedonē",
+                                        "meaning": "pleasure"
+                                }
+                        ],
+                        "points": [
+                                "「アンヘドニア」は、快楽自体が遠のく掻き消えた感覚を表す。"
+                        ]
+                },
+                "source": "Harper, Douglas. 'Online Etymology Dictionary,' 2023.",
+                "date": "2026-02-28"
+        },
+        {
+                "id": "phylogeny",
+                "word": "Phylogeny",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "phylon",
+                                        "type": "root",
+                                        "meaning": "種族",
+                                        "lang": "ギリシャ語"
+                                },
+                                {
+                                        "text": "geneia",
+                                        "type": "suffix",
+                                        "meaning": "生成",
+                                        "lang": "ギリシャ語"
+                                }
+                        ],
+                        "original_statement": "The term 'phylogeny' comes from the Greek words 'phylon', meaning 'race' or 'tribe', and 'geneia', meaning 'origin' or 'birth'. It was coined in the late 19th century to describe the evolutionary history and relationships among species."
+                },
+                "core_concept": {
+                        "en": "The poetic unfolding of life’s lineage through time.",
+                        "ja": "時を超えて紡がれる生命の系譜"
+                },
+                "thinking_layer": "フィロジェニー、すなわち形態の変遷を説く言葉は、生命の歴史の中に織り込まれた詩である。生命は時間という無形の川を渡り、無数の形に姿を変えていく。個々の生命体は、その生涯を全うする間に、遺伝子レベルでの変化を受け継ぎ、そして次世代にそれを伝えていく。生命の根源から今この瞬間に至るまでの繋がりを理解することは、深遠でありながらある種の神秘を包含する行為である。進化の木は一本の根から多数の枝へと繁茂するが、その根は深く、一つの点から無限の可能性が広がる様を暗示している。そしてその枝先、葉の一枚一枚に至るまでのすべてが、宇宙の壮大な交響詩の一部である。ある意味でフィロジェニーとは、自然に潜む崇高な物語を読み解く行為とも言えよう。変わりゆく風景の中で不変なるものへの探求、これが根本にある人類の永遠の問いへの答えではないだろうか。",
+                "synonyms": [
+                        "Phylogenesis",
+                        "Evolutionary history"
+                ],
+                "antonyms": [
+                        "Stasis",
+                        "Anachronism"
+                ],
+                "aftertaste": "Phylogeny is the lyrical blueprint of life’s timeless dance.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "phylon",
+                                        "meaning": "race, tribe"
+                                },
+                                {
+                                        "term": "geneia",
+                                        "meaning": "origin, birth"
+                                }
+                        ],
+                        "points": [
+                                "フィロジェニーは、進化による生物種の歴史的関係性を示す科学用語であり、生命の系統的つながりを意味する。"
+                        ]
+                },
+                "source": "Harper, Douglas. \"Online Etymology Dictionary.\" 2023.",
+                "date": "2026-02-28"
+        },
+        {
+                "id": "metanoia",
+                "word": "Metanoia",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "meta-",
+                                        "type": "prefix",
+                                        "meaning": "超越",
+                                        "lang": "Greek"
+                                },
+                                {
+                                        "text": "noia",
+                                        "type": "root",
+                                        "meaning": "考え, 心",
+                                        "lang": "Greek"
+                                }
+                        ],
+                        "original_statement": "The word 'metanoia' finds its origins in the Greek 'metanoia', a transformative change of heart or a spiritual conversion. It is a composite of 'meta', meaning 'beyond' or 'after', and 'noia' derived from 'nous', meaning 'mind'."
+                },
+                "core_concept": {
+                        "en": "A profound journey of the soul, transcending one's current consciousness.",
+                        "ja": "心と魂が再び輝きを誘う、越境の精神変革。"
+                },
+                "thinking_layer": "思索の層（日本語、250文字以上の深く哲学的な論考）：メタノイアとは、私たちの内面における最も深い変容を表す言葉である。その言葉の響きは、私たちを静かに放浪させながらも、心の奥底に隠された真実へと誘う。メタ-、それは本質を越えた次元へ進む勇気。そしてノイア-、それは心の奥に眠る知性を呼び覚ます促しである。メタノイアの旅は、直線的な時間の枠を超えるため、過去の執着から解放され、新たな視野を与えてくれる。その中で我々は、自己超越を見つけると同時に、私たちの存在が宇宙と深く繋がっていることを再認識する。心の中の抑圧されていた声を聞き、この深い変容のプロセスを通じて、自己の限界を超越する。静かなる内側の革命、それがメタノイアである。メタノイアは、心の中で再び光を灯す新たな始まりとも言えるだろう。",
+                "synonyms": [
+                        "Transformation",
+                        "Renewal"
+                ],
+                "antonyms": [
+                        "Stagnation",
+                        "Regression"
+                ],
+                "aftertaste": "Metanoia whispers to the soul, beckoning it toward transcendence and self-discovery.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "meta",
+                                        "meaning": "beyond"
+                                },
+                                {
+                                        "term": "nous",
+                                        "meaning": "mind"
+                                }
+                        ],
+                        "points": [
+                                "メタ-は、単に空間的または時間的な越境を意味するだけでなく、自己自身の限界を克服する内面的プロセスの象徴である。ノイア-部分は、思考の転換を指し、知性の新しい側面を引き出す。"
+                        ]
+                },
+                "source": "Harper, Douglas. “Metanoia.” Online Etymology Dictionary, 2023.",
+                "date": "2026-02-28"
+        },
+        {
+                "id": "gossamer",
+                "word": "Gossamer",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "gossamer",
+                                        "type": "root",
+                                        "meaning": "非常に薄い、軽い布のようなもの",
+                                        "lang": "Middle English"
+                                }
+                        ],
+                        "original_statement": "Derived from Middle English 'gossomer', a combination of 'gos' (goose) and 'somer' (summer), originally referring to the time of late autumn when geese were eaten and the fine cobwebs of spiders floated through the air."
+                },
+                "core_concept": {
+                        "en": "A delicate, ethereal fabric of dreams and whispers, such as cobwebs floating in the autumn breeze.",
+                        "ja": "夢やささやきのように繊細で空想的な布地、秋の風に舞う蜘蛛の糸のような存在"
+                },
+                "thinking_layer": "人生には時折、儚げで美しい瞬間が訪れる。それはまるで、朝の光を受けてひらひらと舞う蜘蛛の糸のようである。この薄く透き通った糸は、時を超えて我々に物語を語ろうとしているのだろうか。ゴザマーとは、そのような瞬間や記憶、思考の糸である。それは見るからに頼りないが、心のどこか奥深くに触れる強靭なものとも言えるだろう。ゴザマーは、日常の忙しさに飲まれた心の中に、ふと現れる静寂の光景を示している。それはまるで、我々が忘れかけていた何か大切な真実に気づかせるためにその場に存在しているかのようだ。その美しさは瞬間的であり、捕まえようとすると消えてしまうが、それでも我々はその存在を認識し続けることで、心が軽くなり、この世界の繊細さを再確認することができる。ゴザマーは、人生に投げかけられた素朴な問いに対する答えであるかもしれない。そしてそれを見過ごさず理解することができるならば、それはまさにこの上ない喜びであり祝福である。世界を織り成すのは、我々がしばしば見過ごすほど小さな美しさであり、それを感じ取ることが、存在することの本質なのだ。ゴザマーが示すものは、我々もまた、その繊細な糸の一部であるということを忘れさせないための、永遠に続くメッセージとも言えるだろう。",
+                "synonyms": [
+                        "Diaphanous",
+                        "Airy"
+                ],
+                "antonyms": [
+                        "Opaque",
+                        "Heavy"
+                ],
+                "aftertaste": "Gossamer whispers to the soul, a gentle reminder of life’s delicate intricacies.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "gos",
+                                        "meaning": "goose"
+                                },
+                                {
+                                        "term": "somer",
+                                        "meaning": "summer"
+                                }
+                        ],
+                        "points": [
+                                "ゴザマーは、中世英語の 'gos'（ガチョウ）と 'somer'（夏）が合わさった言葉で、秋の穏やかな時期に漂う蜘蛛の糸に関連しています。これは、転瞬的でありながら心に残る印象を与えるという語の持つイメージと重なります。"
+                        ]
+                },
+                "source": "etymonline.com",
+                "date": "2026-02-28"
+        },
+        {
+                "id": "flirt",
+                "word": "Flirt",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "flirtare",
+                                        "type": "root",
+                                        "meaning": "打算的な仕草",
+                                        "lang": "イタリア語"
+                                }
+                        ],
+                        "original_statement": "The word 'flirt' is believed to originate from the Old French word 'fleureter,' which means to touch lightly or to move with quick contact, often used to describe the actions of bees among flowers."
+                },
+                "core_concept": {
+                        "en": "A delicate dance of subtle intentions and transient connections.",
+                        "ja": "微妙な意図と儚い繋がりの優雅な舞"
+                },
+                "thinking_layer": "フリートという言葉は、一見すると軽やかに響くが、その背後には人間の複雑な感情と関係の微妙な糸が織りなす繊細な世界が滲み出ている。心は常に言葉と行動の境界を行き交う。永遠に続くわけではない短命な繋がりが、熱烈な情熱と留まらない好奇心の芽を育て、無意識のうちに我々を惹きつける。フリートの背後には人間の本質的な孤独と、他者との繋がりを求める深い願望が潜んでいる。それは、自然界における花と蜜を求める蜂の関係にも似ている。互いに触れ合うことで成り立つこの一瞬の探求心が、我々に豊かな経験をもたらし、生命の中に潜む儚さと美しさを教えてくれるのだ。フリートには、すべての出会いが何らかの形で私たち自身を映し出すという、普遍的な真理がある。この相互作用が、我々の存在に何をもたらし、何を奪い去るのか。それを考える時、我々はこの現代社会における人間関係の儚さと、そこから生まれる美の真髄を垣間見ることができるのである。",
+                "synonyms": [
+                        "Play",
+                        "Tease"
+                ],
+                "antonyms": [
+                        "Commit",
+                        "Engage"
+                ],
+                "aftertaste": "Flirt is a transient dance of human connection woven with threads of whimsical intent.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "fleureter",
+                                        "meaning": "to move swiftly"
+                                }
+                        ],
+                        "points": [
+                                "フリートの語源は、自己表現と他者との微妙な関係によって形作られる人間性の一側面を表している。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-02-28"
+        },
+        {
+                "id": "gourmet",
+                "word": "Gourmet",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "gourmet-",
+                                        "type": "French",
+                                        "meaning": "グルメ（美食家）",
+                                        "lang": "French"
+                                }
+                        ],
+                        "original_statement": "The term 'gourmet' originated from the French word for a wine broker or taste-vin, emphasizing the refined appreciation of fine food and drink."
+                },
+                "core_concept": {
+                        "en": "A lover of exquisite delicacies, both in taste and experience, elevated by the subtleties of art and culture.",
+                        "ja": "味覚と感覚の精妙な妙技、芸術と文化の洗練によって高められた美食の愛好者。"
+                },
+                "thinking_layer": "美食家という言葉は、単なる食の愛好を超えた哲学的境地である。味わうこととは、五感と感受性の統一による経験であり、単なる栄養摂取を超えた美的探求である。この世の完璧は存在しないが、瞬間の美しさを捕まえる術を心得ている者、すなわち美食家こそがその一瞬を楽しむ術を知っている。彼らにとって、食事は単なる生存活動ではなく、心と魂を優雅に満たすための一大イベントなのである。そして、その背後には、食材を育む自然の恵みや、生産者の情熱、料理を創造する料理人の技といった人類と自然の深い相互作用が広がる。美食とは、世界を舌先で感じ取り、その背景に潜む壮大な詩的調和を謳歌することである。料理とは、文化の集大成であり、その一口一口に、時代と歴史を超えた哲学が凝縮されている。美食の探求は、自己の限界を超え、世界の広がりを味わう旅であり、人間の創造的欲求における慰撫である。",
+                "synonyms": [
+                        "Epicure",
+                        "Connoisseur"
+                ],
+                "antonyms": [
+                        "Glutton",
+                        "Abstainer"
+                ],
+                "aftertaste": "The quintessence of dining, where culture and passion convene on a plate.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "gourmet",
+                                        "meaning": "a connoisseur of good food"
+                                }
+                        ],
+                        "points": [
+                                "フランス語から来たこの言葉は、食と飲み物の洗練された感覚を強調している。また、美食家の概念は、個人の味覚を超え、社会的文化的レンジを持つ。世界を味することは、単なる個人的行為でなく、人類共通の文化的探究でもある。"
+                        ]
+                },
+                "source": "Oxford English Dictionary; Merriam-Webster",
+                "date": "2026-02-28"
+        },
+        {
+                "id": "jeans",
+                "word": "Jeans",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "Gêne",
+                                        "type": "root",
+                                        "meaning": "ジェノヴァ",
+                                        "lang": "French"
+                                }
+                        ],
+                        "original_statement": "The word \"jeans\" comes from the French term Gêne, for Genoa, Italy, where the fabric was first made for sailors."
+                },
+                "core_concept": {
+                        "en": "The essence of timeless ruggedness and democratic style.",
+                        "ja": "永遠の頑丈さと民主的なスタイルのエッセンス"
+                },
+                "thinking_layer": "ジーンズという名の着衣は、時代を超えて人々の心に刻まれる象徴です。それは職人の手によって生み出され、闘いの時代も平和の時代も共に歩んできた、信頼のおける友のような存在です。ジーンズは、私たちの行動をそのまま映し出し、摩耗し、色あせながらも、その人となりに寄り添い続けるものです。ジーンズの色合いと質感は、まるで歴史を語るキャンバスのように、一つひとつの傷が語りかけてくる物語を携えています。ジーンズは、単なる衣服以上の、個々の生き様を織り成す象徴としての衣です。その起源はジェノヴァに遡りますが、その存在は世界中で普遍的に愛され、文化を乗り越えてのびやかに広がり続けています。ジーンズの本質は、時代を超え、縛りのない自由の中にあります。瞬間的な流行の枠を超え、人々の生活に溶け込み、生きる証しとしてのしなやかさを秘める、そんな存在です。",
+                "synonyms": [
+                        "Denim",
+                        "Blue jeans"
+                ],
+                "antonyms": [
+                        "Formal wear",
+                        "Dress pants"
+                ],
+                "aftertaste": "Jeans weave the fabric of our everyday tales.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "Gêne",
+                                        "meaning": "Genoa, Italy"
+                                }
+                        ],
+                        "points": [
+                                "ジーンズの歴史的背景は、17世紀に遡り、ジェノヴァで生まれた「ジェン」の衣料をルーツとしています。航海士たちの実用的な選択として人気を集め、フランス語の「ブルージーンズ」から派生したこの単語は、ファッションの固定概念を破壊しながらも、主流を成していくプロセスを辿りました。その素材であるデニムは、過酷な使用にも耐えうる強靱さを誇り、それゆえに様々な歴史的出来事から伝説的な人物まで、多くの物語を紡いできたのです。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-02-28"
         }
 ];
