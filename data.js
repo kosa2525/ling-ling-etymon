@@ -8252,5 +8252,854 @@ const WORDS = [
                 },
                 "source": "Online Etymology Dictionary",
                 "date": "2026-02-28"
+        },
+        {
+                "id": "bathos",
+                "word": "Bathos",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "βαθός",
+                                        "type": "root",
+                                        "meaning": "深い",
+                                        "lang": "Greek"
+                                }
+                        ],
+                        "original_statement": "The word 'bathos' traces back to the Greek word 'βαθός' (bathos), meaning 'depth'. It was popularized in English by Alexander Pope in the 18th century to describe an abrupt transition from the sublime to the ridiculous or trivial."
+                },
+                "core_concept": {
+                        "en": "The sudden shift from profound to trivial.",
+                        "ja": "深遠から些細への突然の転換"
+                },
+                "thinking_layer": "バトスとは、深い思索から不意に表れる浅薄への変容を指す。この概念は、我々の人生そのものに根ざした姿である。何故なら、日常の中に潜む深淵と、偶然交錯する儚き事件が発する美しさは、哀しくも尊い。それはまるで、湖面を切り裂く一滴の音―静寂が広がる中で唯一際立つ音色の如く、我々の存在もまた、予期せぬ瞬間に無心の淵から引き出されるのである。その時、私たちは自身の有限性と直面し、偉大なる思惟から瑣末なる現実への計り知れぬ軌跡を辿るのだ。この詩的現象は、無意識のうちに己の行いを照らす灯火となり、連続する魅惑と諦念の物語を織り成す。我々は深みから地上へと引き戻され、また同時に、その逆も然りである。このようにして、人間の体験は、概して多様にして一元的であり、バトスはその象徴として現れる。意図せぬ展開の中に隠された真実を見出すことこそが、バトスに秘められた哲学的な問いかけである。これを理解することは、真に人間的であることの祝祭に至る一歩となる。バトスにおける深度とは、我々の魂が命じるところの深さに由来するのである。",
+                "synonyms": [
+                        "Anticlimax",
+                        "Bathos"
+                ],
+                "antonyms": [
+                        "Climax",
+                        "Crescendo"
+                ],
+                "aftertaste": "In the depths of triviality, we often find profound revelations.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "βαθός",
+                                        "meaning": "depth"
+                                }
+                        ],
+                        "points": [
+                                "バトスの概念は、ギリシャ語の「βαθός」から派生し、文学においては滑稽でありながらもセンシティブな場面の意図せぬ力を表現する。文化的コンテクストでは、犠牲となる崇高さが日常の中でいかなる衝撃をもたらすのかを問うものである。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-02-28"
+        },
+        {
+                "id": "kenosis",
+                "word": "Kenosis",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "kenōsis",
+                                        "type": "root",
+                                        "meaning": "空(くう)",
+                                        "lang": "Greek"
+                                }
+                        ],
+                        "original_statement": "The word 'kenosis' is derived from the Greek κένωσις, meaning 'emptying.' It is associated with the Christian theological concept of Christ renouncing his divine nature to become human."
+                },
+                "core_concept": {
+                        "en": "A serene and profound self-emptying, where the divine becomes humble.",
+                        "ja": "神聖が謙虚に変わる静かで深遠な自己放棄"
+                },
+                "thinking_layer": "ケノシスとは、内なる空虚化を通じて神聖が人間としての存在を完全に受け入れるプロセスを指す。その本質は、自己の否定ではなく、自己の開放と神聖の受容にある。この状態において、人は自己の内なる無限の可能性を見出し、限りある存在が無限のものと交わる瞬間を経験する。キリスト教の教義において、ケノシスは神が人間となることで現れるとされ、その意義の深遠さは私たちにとって永遠のテーマである。真のケノシスは、執着や欲望からの解放を意味し、自己満足や偽りの自尊心を超え、純粋な自己認識へと至る道である。この意味でケノシスは、現代の私たちにとっても重要な示唆を与える。物質的豊かさや権力を追い求める時代において、ケノシスは内なる静寂を呼び覚ます鍵であり、内面的でありながら普遍的な真実を照らし出す光である。この静謐さの中で、真の意味での自律を再発見し、自身と他者との関係もまた深まるのである。",
+                "synonyms": [
+                        "Self-emptying",
+                        "Abnegation"
+                ],
+                "antonyms": [
+                        "Self-aggrandizement",
+                        "Self-assertion"
+                ],
+                "aftertaste": "Kenosis beckons us to embrace the humble beauty of being through self-emptying.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "kenō",
+                                        "meaning": "to empty"
+                                }
+                        ],
+                        "points": [
+                                "ケノーシスは自己の内的充満を超え、他者との関係を再構築する過程を象徴する概念である。"
+                        ]
+                },
+                "source": "The Oxford English Dictionary",
+                "date": "2026-02-28"
+        },
+        {
+                "id": "numinosity",
+                "word": "Numinosity",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "numen-",
+                                        "type": "root",
+                                        "meaning": "神性",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "-osity",
+                                        "type": "suffix",
+                                        "meaning": "性質",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'numinosity' derives from the Latin 'numen', meaning divine power, and the suffix '-osity', indicating a state or condition."
+                },
+                "core_concept": {
+                        "en": "A profound sense of the mysterious and the divine, evoking awe and reverence.",
+                        "ja": "神秘と崇高を感じさせる深遠な感覚。"
+                },
+                "thinking_layer": "人間の心の奥底にある、見えざる神秘の力、それを我々は「ヌーミノシティ」と呼ぶ。これは単なる現象ではなく、時空の彼方から我々を包み込み、畏敬の念とともに魂を震わす何かである。存在そのものが放つ光、そしてその光が生む影、その狭間で揺れる人間の感情が、この言葉に秘められた意味を顕著に映し出す。自然の中に潜む神聖なる声、その声を聞くことは、世界の本質に触れることであり、それは少数の感受性豊かな心にのみ許される旅である。この世界の構造は、一見混沌としているが、実際には深遠な秩序を持ち、その秩序の中にヌーミノスな存在が脈々と流れていると言えよう。自己を越えた存在への想いは、我々を感動させ、時に正義を求め、時に運命を変える力を与える。この目に見えない力に導かれ歩むとき、人は初めて真の自己を知り、宇宙の一部としての自分を発見するのだ。ヌーミノシティ、それは古の哲学者たちが語った壮大なる謎、その答えかもしれない。感覚と思考の狭間で輝く、純粋なる存在、それが即ちヌーミノシティである。",
+                "synonyms": [
+                        "Spirituality",
+                        "Sacredness"
+                ],
+                "antonyms": [
+                        "Mundanity",
+                        "Secularity"
+                ],
+                "aftertaste": "The essence of numinosity is a shimmering echo of the universe's divine breath.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "numen",
+                                        "meaning": "divine power or influence"
+                                }
+                        ],
+                        "points": [
+                                "『ヌーミノシティ』という言葉は、神秘的かつ霊的な力が意識や存在にどのように影響を与えるかを示す重要な概念である。その語源はラテン語に遡り、神聖なる力を指す『numen』と結びついている。この概念は、人間の認識する力を超えた領域に触れる手段として、宗教や哲学において古より用いられている。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-02-28"
+        },
+        {
+                "id": "thanatopsis",
+                "word": "Thanatopsis",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "thanatos",
+                                        "type": "root",
+                                        "meaning": "死",
+                                        "lang": "Greek"
+                                },
+                                {
+                                        "text": "opsis",
+                                        "type": "root",
+                                        "meaning": "見ること",
+                                        "lang": "Greek"
+                                }
+                        ],
+                        "original_statement": "The word 'thanatopsis' originated in the early 19th century, coined by combining Greek roots denoting death and sight, popularized by the poem of the same name by William Cullen Bryant."
+                },
+                "core_concept": {
+                        "en": "A contemplation upon death through poetic reflection.",
+                        "ja": "詩的な死の瞑想"
+                },
+                "thinking_layer": "死を見つめる行為は、人間存在の儚さを意識する哲学的な営みです。死という終着点は、私たちの日常に埋もれている現実性を呼び覚まします。人生の無常さを強調することで、死は生きることの意味を問いかけます。先行きの見えない未来へ思いを馳せることにより、私たちは生をどう生きるべきかという根源的な問いに挑みます。自然界の中で、死は循環する生命の一部として存在し、文明や科学を超えた普遍的真理を示します。『タナトープシス』は、見えざるものを見る鋭い目を持つ者の探求です。それは、自己洞察の深淵に足を踏み入れ、個と宇宙との接点を模索する詩的な旅路にほかなりません。死の黙示録的な視座を受け入れることで、生きることの一瞬一瞬が永遠に価値を持つことを私たちに教えてくれるのです。",
+                "synonyms": [
+                        "Meditation on Death",
+                        "Reflection on Mortality"
+                ],
+                "antonyms": [
+                        "Vitality",
+                        "Life Celebration"
+                ],
+                "aftertaste": "In contemplating death, we discover the poignant elegance of life itself.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "thanatos",
+                                        "meaning": "death"
+                                },
+                                {
+                                        "term": "opsis",
+                                        "meaning": "sight"
+                                }
+                        ],
+                        "points": [
+                                "ギリシャ語の「タナトス」は、死神または死を指す言葉であり、単なる肉体の終焉以上の意味を持ちます。",
+                                "「オプシス（視覚）」は、物事の本質を見極めることへの示唆に満ち、哲学的思索へと誘います。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-02-28"
+        },
+        {
+                "id": "sardonic",
+                "word": "Sardonic",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "sardonikós-",
+                                        "type": "root",
+                                        "meaning": "サルデーニャ的な、皮肉",
+                                        "lang": "Greek"
+                                }
+                        ],
+                        "original_statement": "The term 'sardonic' is derived from the Greek 'sardonios' or 'sardanios,' which referred to the grim laughter induced by eating a certain plant from Sardinia, known to cause a convulsive laughter leading to death."
+                },
+                "core_concept": {
+                        "en": "A laughter shrouded in the veils of bitterness and irony.",
+                        "ja": "苦味と皮肉に包まれた笑いの精髄。"
+                },
+                "thinking_layer": "人間の笑いと苦しみの狭間には、しばしばサルドニックと呼ばれる瞬間が存在する。それは単なる皮肉以上のものであり、無情な現実に対する深い理解と共鳴を表現している。サルデーニャ島に自生する特定の植物のように、外見上の楽しさの中に死を孕むこの笑いは、人生の不条理を映し出す鏡である。我々は時と共に笑い、そしてそれによって時を乗り越える。それは、心の闇が垣間見える瞬間に、微笑みと共に現れる。人間の心の中に住むこの複雑な情念が、何世代にもわたって形而上学的思索の対象となってきた。そして、その笑いの陰に潜むものは、内面的な真実、時に現実を心で乗り越えようとする人間の努力の反映である。サルドニックな笑いは、単なる言葉の枠を超えて、永遠に続く人生の難問への熟考を鋳造し、時に酷薄な運命の絡繰りに挑む勇気を引き出すのだ。",
+                "synonyms": [
+                        "Mocking",
+                        "Caustic"
+                ],
+                "antonyms": [
+                        "Earnest",
+                        "Sincere"
+                ],
+                "aftertaste": "Sardonic laughter lingers like the bittersweet echo of life's eternal irony.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "sardonikós",
+                                        "meaning": "grimly or scornfully mocking"
+                                }
+                        ],
+                        "points": [
+                                "「サルドニック」という言葉は、しばしば現実を超えた深い意味を帯び、単なる風刺や皮肉を超越する巧妙さを示す。"
+                        ]
+                },
+                "source": "Harper, Douglas. \"Sardonic.\" Online Etymology Dictionary. Available at: https://www.etymonline.com/word/sardonic",
+                "date": "2026-02-28"
+        },
+        {
+                "id": "epistemology",
+                "word": "Epistemology",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "episteme-",
+                                        "type": "root",
+                                        "meaning": "知識",
+                                        "lang": "Greek"
+                                },
+                                {
+                                        "text": "logos",
+                                        "type": "root",
+                                        "meaning": "論理",
+                                        "lang": "Greek"
+                                }
+                        ],
+                        "original_statement": "Derived from the Greek words 'episteme' meaning knowledge, and 'logos' meaning study or discourse, epistemology emerged as a distinct branch of philosophy in the early modern period."
+                },
+                "core_concept": {
+                        "en": "The poetic dance of knowledge and inquiry, forever unfolding within the realm of understanding.",
+                        "ja": "知識と探求の詩的な舞踏、それは理解の領域で永遠に展開している。"
+                },
+                "thinking_layer": "知識とその限界に対する探求は、内なる光と影の自己との対話に似ている。エピステモロジーは無限の未知に直面し、自己認識の静かなる河を航海する者の糧である。世界は私たちの認識のキャンバスであり、私たちは知覚という絵筆でその上に描く。だが、真理という名の虹は、決して全貌を見せない。その一部分を掴むたびに別の角度で新たな影が生まれる。これが人間の限界であり、また我々の永遠なる探求を駆り立てるものである。エピステモロジーは、知と無知の間に架かる橋であり、至る所で未知の地平を照らす星のようなものである。哲学者たちが言うように、知覚の窓から覗く景色は個の認識を通してしか描写されない。真理への旅路は一人一人異なり、そこには個々の魂の足跡がある。それでもなお、共通の道を探すことは可能であり、エピステモロジーはその道の明かりとして機能する。探求する勇気があれば、知識の森の中でも道を見つけることができるのだ。時にその森は奇妙な音で満たされるかもしれないが、内なる声が案内してくれる。",
+                "synonyms": [
+                        "Theory of Knowledge",
+                        "Cognitivism"
+                ],
+                "antonyms": [
+                        "Ignorance",
+                        "Naivety"
+                ],
+                "aftertaste": "In the grand mosaic of knowledge, epistemology is the artist's finest brushstroke.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "episteme",
+                                        "meaning": "knowledge"
+                                },
+                                {
+                                        "term": "logos",
+                                        "meaning": "study, discourse"
+                                }
+                        ],
+                        "points": [
+                                "エピステモロジーという言葉は、ギリシャ語の「エピステーメー（知識）」と「ロゴス（論理）」に由来し、知識の性質や起源に関する探求を表しています。哲学者たちはこの学問を通して、人間の認識の限界や真理の探求を深く考察してきました。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-02-28"
+        },
+        {
+                "id": "numen",
+                "word": "Numen",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "numen-",
+                                        "type": "root",
+                                        "meaning": "神聖",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The term originates from Latin 'numen', meaning a divine power or a deity's nod of assent, hinting at an unseen spiritual presence."
+                },
+                "core_concept": {
+                        "en": "An ethereal whisper of the divine, barely felt but profoundly moving.",
+                        "ja": "神聖な囁き、かすかに感じるが心を深く動かす。"
+                },
+                "thinking_layer": "数多の瞬間の日常に神聖さが染み込んでいることを感じるとき、存在そのものが広大な宇宙の中での儚くも美しい舞に参加していることを承認するだろう。時を超え、空間を超えた神秘的な力が、私たちの心の奥深く、無音の音楽を響かせる。それを感じるたびに人間の限界を越え、神と触れ合う特権を授けられていると気付く。神秘の息吹は、生命の終焉をもって確かにその存在を示すのではなく、日常の中に隠れたいくつもの小さな奇跡を通じて、われわれに静かなる無限の師として働きかける。それは存在の中で繰り返される、知られざる叙事詩のよう。numenは古代より感じられ、語られ続けてきた心の詩であり、人間の神秘の扉を開く鍵である。",
+                "synonyms": [
+                        "Spirit",
+                        "Deity"
+                ],
+                "antonyms": [
+                        "Mundanity",
+                        "Profanity"
+                ],
+                "aftertaste": "Numen is the silent force that ignites the spark of reverence in the soul.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "numen",
+                                        "meaning": "divine will or presence"
+                                }
+                        ],
+                        "points": [
+                                "numenという言葉は、ラテン語で「神の意志」や「頷き」を示すものであり、人間の意識を超えた力として深く古の時代から根づいている。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-02-28"
+        },
+        {
+                "id": "ichthyology",
+                "word": "Ichthyology",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "ichthyo-",
+                                        "type": "prefix",
+                                        "meaning": "魚",
+                                        "lang": "Greek"
+                                },
+                                {
+                                        "text": "-logy",
+                                        "type": "suffix",
+                                        "meaning": "学",
+                                        "lang": "Greek"
+                                }
+                        ],
+                        "original_statement": "The term 'ichthyology' derives from the Greek words 'ichthys' meaning 'fish' and 'logos' meaning 'study'."
+                },
+                "core_concept": {
+                        "en": "The poetic dance of scales and water under the scientific gaze.",
+                        "ja": "科学的視点のもとで、鱗と水が織り成す詩的な舞い"
+                },
+                "thinking_layer": "魚類学とは、単に生き物としての魚を研究するだけではなく、水という生命の源における存在意義を見つめる行為である。魚の形態や生理は、水がもたらす流動的な美を体現している。それはあたかも水の流れに対する深遠な哲学の探求であり、生命の起源を紐解く鍵となりえる。水中での魚の動きを見つめることは、宇宙のリズムを感じることであり、魚の鮮やかな鱗が反射する光は、我々の心の深淵にある謎を解き明かす道を示す。魚類学は、科学の一端でありながら、生命そのものに対する詩的な反省であり、自然の一部である我々にとって、より深い理解を促す。海や川は時に沈黙し、時に生命の声をささやく。魚類学はその声に耳を傾ける学問であり、水の透明さは我々の精神の透明さを象徴する。さて、その水の中で泳ぐ魚たちは、我々にどのような真理を語りかけているのだろう。それは各々の想像力に託されている。",
+                "synonyms": [
+                        "Fisheries science",
+                        "Aquatic biology"
+                ],
+                "antonyms": [
+                        "Geology",
+                        "Botany"
+                ],
+                "aftertaste": "In the currents of academia, ichthyology is the silent echo of aquatic mysteries.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "ichthys",
+                                        "meaning": "fish"
+                                },
+                                {
+                                        "term": "logos",
+                                        "meaning": "study"
+                                }
+                        ],
+                        "points": [
+                                "ギリシャ語の「ichthys」は「魚」を意味し、「logos」は「学」を意味する。この二つが結びつくことで魚類を科学的に探求する学問が形成される。魚類学は単なる分類学を超え、魚の生態系や進化を解明する知識の探究である。それはまた、自然界における生物多様性を理解する鍵となり、地球という水に満ちた星における生命のダイナミズムを示す。魚類学を通して水中の生命の神秘を解き明かすことで、人類は自然理解の新たな地平を探求できる。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-02-28"
+        },
+        {
+                "id": "callipygian",
+                "word": "Callipygian",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "kallos-",
+                                        "type": "root",
+                                        "meaning": "美",
+                                        "lang": "Greek"
+                                },
+                                {
+                                        "text": "pygē-",
+                                        "type": "root",
+                                        "meaning": "臀部",
+                                        "lang": "Greek"
+                                }
+                        ],
+                        "original_statement": "The word 'callipygian' originates from the Ancient Greek 'kallipygos,' which means 'having beautiful buttocks.' It combines 'kallos' meaning 'beauty' and 'pygē' meaning 'buttocks.' This term was famously used in reference to a statue of Aphrodite seen in Syracusan culture."
+                },
+                "core_concept": {
+                        "en": "The transcendent beauty found in the form of the human body, celebrated with grace and elegance.",
+                        "ja": "人間の身体の形に見出される、美と優雅さによって称賛される超越的な美。"
+                },
+                "thinking_layer": "美とは何か、それはしばしば視覚的な喜びとして表現されますが、美には多くの層があり、それは単に目に見えるものを超えている。カリピュジアンという言葉は、身体の特定の部分に対する美の概念を表していますが、この概念は古代から現代に至るまでの文化的な移り変わりを映し出しています。ギリシャ神話のカリプリゴスに由来するこの言葉は、美しさの定義が時を超えて変化してきたことを示しています。それぞれの文化や時代が、何を美しいとするかの基準を示しながら、それでもなお普遍的な美の概念に憧れ続ける。そしてその中で、人は自らの存在を見つめ、自身の美意識を深めていく。美とは見る者の目に宿るだけでなく、その目が映すもの、またその中に隠された無数の物語が織りなす繊細なタペストリーでもある。美は変わりゆくものであると同時に、永遠に残るものであり、それは時を越えて人々の心に響く。不滅の美を求めるその旅の中で、カリピュジアンは、肉体を通じ空間を越えて奏でられる詩的な調和の息吹となる。現代においても、その響きが示す価値は、内面と外面の美の調和を追求する人の心に共鳴する。美とは内面的要素と結びつき、単なる外見以上の深い精神的な体験を示唆するものである。カリピュジアンという言葉に詰め込まれた美意識は、単なる視覚の楽しみを超え、哲学的な美の探究への入り口となる。美とは何か、その問いに対する答えは永遠に変わることなく、しかしその問いかけ自体が時を超える命題であり続ける。",
+                "synonyms": [
+                        "Comely",
+                        "Shapely"
+                ],
+                "antonyms": [
+                        "Homely",
+                        "Unattractive"
+                ],
+                "aftertaste": "Aesthetic allure transcends mere physicality, unveiling the harmonious whispers of timeless beauty.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "kallos",
+                                        "meaning": "beauty"
+                                },
+                                {
+                                        "term": "pygē",
+                                        "meaning": "buttocks"
+                                }
+                        ],
+                        "points": [
+                                "カリピュギアンとは、肉体の美しさとその詩的性格を表す言葉であり、それは古代ギリシャ文化から現代に至るまでの美的価値の進化を象徴しています。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-02-28"
+        },
+        {
+                "id": "candidate.",
+                "word": "Candidate.",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "candidatus",
+                                        "type": "root",
+                                        "meaning": "白い、純粋な",
+                                        "lang": "ラテン語"
+                                }
+                        ],
+                        "original_statement": "The word 'candidate' originates from the Latin term 'candidatus,' meaning 'white-robed.' In Ancient Rome, it referred to those aspiring for public office, who wore white togas to symbolize their purity and honesty."
+                },
+                "core_concept": {
+                        "en": "A soul cloaked in aspirations, pure and unadulterated, striding toward transformation.",
+                        "ja": "変革を目指し歩む、純粋で未加工の志を纏った魂。"
+                },
+                "thinking_layer": "候補者という概念は、その言葉の起源において白い衣装を纏う人々に始まりました。白とは、単なる色以上のものであり、清らかさや誠実さを象徴するものでした。この象徴的な白衣は、私たちが日常に纏う仮面や装いを超え、内なる真実を解き放つ勇気を意味しました。現代においても、候補者は人々の期待と批判の間を渡る橋としての役割を果たします。その歩みは、自己を浄化し、秘められた可能性を探る旅路でもあります。候補者は、自らの立場を理解し、他者との対話を通じて、社会が望む未来像を描こうとします。彼らの道のりは、個々の価値観と社会的な責任との間での葛藤を乗り越えることに他なりません。それは、白衣の輝きが決して汚れることのないように、自らを磨き続けるという精神の証であり、真の誠実さを追求する人間の姿であるのです。このようにして候補者とは、目に見えない理想を実現するために日々奮闘する存在であると言えるでしょう。",
+                "synonyms": [
+                        "Applicant",
+                        "Nominee"
+                ],
+                "antonyms": [
+                        "Incumbent",
+                        "Officeholder"
+                ],
+                "aftertaste": "In pursuit of ideals, the candidate embodies the infinite potential for renewal and growth.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "candidus",
+                                        "meaning": "white, shining"
+                                }
+                        ],
+                        "points": [
+                                "候補者は、象徴的な白衣を纏い、社会が求める理想を追求する者である。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-02-28"
+        },
+        {
+                "id": "apocryphal",
+                "word": "Apocryphal",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "apokruphos",
+                                        "type": "root",
+                                        "meaning": "hidden",
+                                        "lang": "Greek"
+                                }
+                        ],
+                        "original_statement": "The word 'apocryphal' originates from the late Latin 'apocryphus', which itself is derived from the Greek 'apokruphos' meaning 'hidden' or 'obscure'. Initially, it referred to texts of doubtful authenticity that were not included in the canon."
+                },
+                "core_concept": {
+                        "en": "A tapestry woven from veils of mystery and shadows of truth.",
+                        "ja": "神秘のヴェールと真実の影から織り成すタペストリー。"
+                },
+                "thinking_layer": "『アポクリファル』という言葉は、日本の文化や哲学における「隠す」という概念に深く根ざすものです。古代の文献や伝承において、神聖あるいは禁断の知識は次なる啓示の一歩手前でその姿を隠しているとされています。この「隠された知識」というテーマは、時に強烈な知的好奇心を引き起こし、それに伴う探究の旅は、しばしば人々の知覚と解釈の境界を越えるものとなります。物事の真相が時に意図的に隠されることで生まれる神秘性は、美の中に真実を感じる瞬間—つまり「無知に響く知識」とも表現すべきでしょう。この隠匿された真実の探求は、人生そのもののように常に揺らぎ続け、変化し続けるものでもあります。形あるものと無形なもの、その間に漂う曖昧さの中で、我々は光を求めつつ、影の中にある価値を見いだす努力を重ねているのです。この意味において、『アポクリファル』は人間存在の多層性と深遠さを象徴する言葉であり、それは謎を解く探求の旅であると同時に、生きることの意味を深める経験でもあります。",
+                "synonyms": [
+                        "dubious",
+                        "mythical"
+                ],
+                "antonyms": [
+                        "genuine",
+                        "authentic"
+                ],
+                "aftertaste": "In the shadows of doubt, truth wears its most intriguing mask.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "apokruphos",
+                                        "meaning": "hidden"
+                                }
+                        ],
+                        "points": [
+                                "『アポクリファル』の語源は、古典ギリシャ語の「アポクリュフォス」からきていますが、この言葉が持つ本質的意味は正典に含まれない疑わしい文書たちを示すものでした。それは、未解決の謎や世界の理解を超えた物事への人間の永遠の探究心を呼び起こします。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-02-28"
+        },
+        {
+                "id": "exegesis",
+                "word": "Exegesis",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "ex-",
+                                        "type": "prefix",
+                                        "meaning": "外へ",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "hēgeisthai",
+                                        "type": "root",
+                                        "meaning": "導く",
+                                        "lang": "Greek"
+                                }
+                        ],
+                        "original_statement": "Derived from the Greek word 'exēgēsis', meaning 'interpretation' or 'explanation'."
+                },
+                "core_concept": {
+                        "en": "The dance of understanding within the realm of sacred texts.",
+                        "ja": "聖なる文章の中で展開される理解の舞踊。"
+                },
+                "thinking_layer": "『解釈』とは、文字の海に漂う旅人が、隠された真理を求める航海である。この航海は、単なる表面的な理解を超えて、文字の背後に潜む意味の深淵にまで及び、言葉なき声を聞くことを可能にする。言葉の構造を解きほぐす中で、解釈者は一種の畏敬の念に満ちた探究を行う。形而下的な現実を超えて、言葉の姿に真実を見出すことを目指し、解釈者は言葉の連なりの中に隠された世界のシンフォニーを奏でる。しかし、それは単なる聖典の解読に留まるものではなく、人類の知識と内なる光を巡る永遠の旅の一幕である。その心の旅路は、常に新たな視点を獲得し続けることであり、言葉の彼方に広がる可能性の宇宙を探ることでもある。旅の終点はないが、その過程で得た理解のかけらは、知識の大河に流れ込み、次なる求道者の灯火となる。",
+                "synonyms": [
+                        "Interpretation",
+                        "Explanation"
+                ],
+                "antonyms": [
+                        "Confusion",
+                        "Obfuscation"
+                ],
+                "aftertaste": "To interpret is to uncover the whisper of the ancient within the modern.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "ex-",
+                                        "meaning": "out"
+                                },
+                                {
+                                        "term": "hēgeisthai",
+                                        "meaning": "to lead"
+                                }
+                        ],
+                        "points": [
+                                "解釈とは単なる説明を超え、言葉を超越する光を見出す行為である。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-02-28"
+        },
+        {
+                "id": "alembic",
+                "word": "Alembic",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "al-anbic",
+                                        "type": "prefix/root",
+                                        "meaning": "蒸溜器",
+                                        "lang": "Arabic"
+                                }
+                        ],
+                        "original_statement": "The term 'alembic' descends from the Arabic 'al-anbīq', which in turn comes from the Greek word 'ambix', meaning 'cup' or 'beaker'. This reflects its function as a device used in distillation practices."
+                },
+                "core_concept": {
+                        "en": "The alembic, a crucible of transformation, where elements merge and transmute, embodies the age-old quest for enlightenment and the alchemy of wisdom.",
+                        "ja": "アレンビックは変容のるつぼであり、元素が融合し変容する場であり、啓蒙の古代からの探求と知恵の錬金術を体現している。"
+                },
+                "thinking_layer": "アレンビックという言葉の背後に潜むその香気は、哲学的な探求の大河を思い起こさせる。それは、さながら人間の魂の奥深くで行われる錬金術に似ている。アレンビックはただの蒸溜器ではなく、想いを形にした象徴でもある。世界のあらゆる知識と経験をじっくりと蒸留し、純粋なエッセンスを抽出するための比類なき道具である。アラビア語が響くその音は、時空を超えて古代の知恵を運び、現代に伝えるもの。アレンビックは変遷と変容の象徴であり、形と概念の融合、そして精神と物質の交わりを具体化する。変化とは、外見を変えることで内面が洗練される過程であるが、アレンビックはその過程の完全なメタファーである。過去から未来へと巡る一個のノベラizedhaftを経て、私たちの内なる旅路の象徴であり光である。錬金術が貴金属を求めたように、アレンビックは我々に精神の貴金属、すなわち知識と理解を求め続けさせる。さあ、アレンビックの内に潜む未知の領域を探求しよう。",
+                "synonyms": [
+                        "Crucible",
+                        "Retort"
+                ],
+                "antonyms": [
+                        "Inaction",
+                        "Stagnation"
+                ],
+                "aftertaste": "The alembic infuses the world with distillations of truth and enlightenment.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "ambix",
+                                        "meaning": "cup or beaker"
+                                }
+                        ],
+                        "points": [
+                                "アレンビックは、物質を超え魂の成熟を導く変容の具現化である。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary, Middle English Compendium",
+                "date": "2026-02-28"
+        },
+        {
+                "id": "mnemosyne",
+                "word": "Mnemosyne",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "mnemo-",
+                                        "type": "root",
+                                        "meaning": "記憶",
+                                        "lang": "Greek"
+                                }
+                        ],
+                        "original_statement": "The word 'Mnemosyne' originates from the ancient Greek Μνημοσύνη, the personification of memory and mother of the Muses."
+                },
+                "core_concept": {
+                        "en": "Mnemosyne captures the eternal dance of recollection, a muse of memory weaving the fabric of history.",
+                        "ja": "記憶の女神、ムネーモシュネーは歴史を織りなす記憶の詩的な舞踏を象徴する。"
+                },
+                "thinking_layer": "ムネーモシュネーは、記憶の深淵を具現化した存在であり、時間を超えた知識の守り手でもある。記憶とは過去と現在を繋ぐ見えない糸であり、未来を形作るパズルの一部である。この神秘的な力は、私たちの意識の中に息づき、無限の可能性を秘めた智慧を持つ。ムネーモシュネーを呼び覚ますことで、我々は個人の記憶を超えた普遍的な真理に触れることができる。彼女が奏でる旋律は、忘却に飲み込まれた瞬間を取り戻し、人生の意味を再定義する鍵となる。記憶の神が持つ力は、単なる知識の蓄積に留まらず、それは心の奥底にある理解と共鳴する。ムネーモシュネーは、私たちの心に内在する永遠の探求を反映し、過去の経験を未来への贈り物として変容させる。彼女は忘却と記憶の狭間に住まう詩人のように、我々に問いかける、忘れることが許された先に何があるのかと。",
+                "synonyms": [
+                        "Memory",
+                        "Remembrance"
+                ],
+                "antonyms": [
+                        "Oblivion",
+                        "Forgetfulness"
+                ],
+                "aftertaste": "Mnemosyne invites us to dance with the past, weaving stories with the threads of time.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "mnemo",
+                                        "meaning": "pertaining to memory"
+                                }
+                        ],
+                        "points": [
+                                "ムネーモシュネーという語源には、単なる記録の意識を超え、記憶が持つ普遍的かつ永遠の感覚が内包されている。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-02-28"
+        },
+        {
+                "id": "agape",
+                "word": "Agape",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "ἀγάπη",
+                                        "type": "root",
+                                        "meaning": "無償の愛",
+                                        "lang": "古代ギリシャ語"
+                                }
+                        ],
+                        "original_statement": "Agape originates from the ancient Greek word ἀγάπη, which is often used in ancient texts to denote a profound, selfless, and unconditional love."
+                },
+                "core_concept": {
+                        "en": "A profound and universal love, transcending the self.",
+                        "ja": "自己を超えた深く普遍的な愛"
+                },
+                "thinking_layer": "「アガペ」とは、自己を超越し、人類全体に注がれる無条件の愛を指す概念である。人間が持つ欲望や感情を超越し、純粋な心で他者を思いやる無償の愛がここにはある。それは、何かを求めることなく他者へ尽くす行為の中に姿を現す。愛とは必ずしも感情に束縛されるものではなく、むしろ意識の深化、そして人間としての精神的成熟の証でもある。アガペの愛は、人生の試練や苦難にも揺るがぬものであり、常に静かに、しかし確実に、心の内を満たす。古代ギリシャの哲学者たちが論じたように、愛は神の賜物とも言える最も高貴な感情であり、個別の関係性を超えて、宇宙的な団結をもたらす存在である。愛という行為そのものが、我々の人生に新たな意義と希望を与え、すべての枠組みを超えて人間の本質に迫る。この愛の本質を理解することは、究極の精神的開放を導く鍵であるとも言えるだろう。",
+                "synonyms": [
+                        "Charity",
+                        "Unconditional love"
+                ],
+                "antonyms": [
+                        "Egoism",
+                        "Indifference"
+                ],
+                "aftertaste": "Agape is the silent, unwavering heart of humanity's most profound relationship with the world.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "ἀγάπη",
+                                        "meaning": "Divine, selfless love"
+                                }
+                        ],
+                        "points": [
+                                "アガペの起源は神聖かつ無私の愛を指し、これが人間関係と精神的覚醒の核心を成している。"
+                        ]
+                },
+                "source": "The Online Etymology Dictionary",
+                "date": "2026-02-28"
+        },
+        {
+                "id": "ketchup",
+                "word": "Ketchup",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "kê-tsiap",
+                                        "type": "Noun",
+                                        "meaning": "魚の漬け汁",
+                                        "lang": "福建語"
+                                }
+                        ],
+                        "original_statement": "The word 'ketchup' is believed to have originated from the Hokkien Chinese word 'kê-tsiap', referring to a fermented fish sauce."
+                },
+                "core_concept": {
+                        "en": "Ketchup, a fusion of flavors dancing through time, morphing from its Asian origins to a staple of Western cuisine.",
+                        "ja": "ケチャップは、時の踊りを通して味の融合であり、アジアの起源から西洋料理の定番へと形を変えてきたものです。"
+                },
+                "thinking_layer": "ケチャップという言葉の背後には、単なるソースの存在以上に、異なる文化が交わり、共鳴した叙事詩が隠されています。福建省の漁村で生まれた「kê-tsiap」は、海の恵みを保存し、味わうための知恵であり、人々の生活を支える必需品としての役割を果たしました。しかし、海の彼方に広がる旅路の中で、それは形を変え、別の文化に溶け込みました。まるで新たな器に注がれた液体のように、ケチャップはその形を変え、トマト、砂糖、酢などが加わり、アメリカの文化に吸収されました。この移行は、ただの調味料の変換にとどまらず、異文化間の対話を象徴しています。物質の境界を超え、時間の流れを超越して訪れるこの調和は、ただ味を楽しむだけでなく、心に深遠な思索をもたらします。味覚を通じて、歴史と文化がどのように織り成すかを知ることは、料理が単なる生存の手段以上であり、人々を結びつける力であることを私たちに教えてくれます。ケチャップは、人間の創造性と交わりの物語を語る、静かで力強い文化の語り部なのです。",
+                "synonyms": [
+                        "Sauce",
+                        "Condiment"
+                ],
+                "antonyms": [
+                        "Plain",
+                        "Unseasoned"
+                ],
+                "aftertaste": "Ketchup is a testament to the fluidity and resilience of culture through flavors.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "kê-tsiap",
+                                        "meaning": "fermented fish sauce"
+                                }
+                        ],
+                        "points": [
+                                "ケチャップの語源は、異文化間の融合と適応の物語を示し、日本の醤油やフランスのオリーブオイルと同様に、歴史における文化交流の象徴と言える。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-02-28"
+        },
+        {
+                "id": "aleatoric",
+                "word": "Aleatoric",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "alea-",
+                                        "type": "root",
+                                        "meaning": "運",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "-tor",
+                                        "type": "suffix",
+                                        "meaning": "する者",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "-ic",
+                                        "type": "suffix",
+                                        "meaning": "形容詞化",
+                                        "lang": "English"
+                                }
+                        ],
+                        "original_statement": "The term 'aleatoric' derives from the Latin word 'alea', meaning 'dice or chance', combined with the suffix '-ic', forming an adjective that refers to processes that rely on randomness and unpredictability."
+                },
+                "core_concept": {
+                        "en": "A dance with the unpredictable flow of chance.",
+                        "ja": "偶然の流れと舞う舞踊"
+                },
+                "thinking_layer": "偶然性とは、秩序と無秩序の間で揺れ動く運命の舞台である。人間はしばしば、確実性を求めているが、人生はその本質において常に確固たるものではなく、予測不能な変数に満ち溢れている。アレアトリックは、その不安定さを芸術として捉え、偶然の美しさを称賛する。人生における一瞬一瞬は、新しい展開や予期せぬ結末をもたらす可能性を秘めており、その瞬間の中にこそ本当の知恵が潜んでいる。アレアトリックは、計画的な意図を超えたところに創造の真髄があることを示しており、それは人生そのものが設計されたものではなく、動いている音楽、生きたアートであることを覚らせてくれる。自然の法則に従いながらも、予期せぬ出会いや奇跡を受け入れる態度を奨励する。そして、その偶然が織りなす交響曲に耳を傾ける時、我々は最も深い真実に触れることができるのだ。",
+                "synonyms": [
+                        "Random",
+                        "Unpredictable"
+                ],
+                "antonyms": [
+                        "Planned",
+                        "Predictable"
+                ],
+                "aftertaste": "Embrace the chaos of chance, for therein lies true creation.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "alea",
+                                        "meaning": "dice, chance"
+                                }
+                        ],
+                        "points": [
+                                "アレアトリックという言葉は、音楽や美術において偶然性を取り入れることで、意図しない新しい表現を生み出す可能性を示唆しています。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-02-28"
+        },
+        {
+                "id": "anfractuous",
+                "word": "Anfractuous",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "anfract(us)-",
+                                        "type": "root",
+                                        "meaning": "湾曲した、曲がりくねった",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "-uous",
+                                        "type": "suffix",
+                                        "meaning": "性質のある",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The term \"anfractuous\" originates from the Latin word 'anfractuosus', meaning full of windings and turnings, used to describe complex pathways both literal and metaphorical."
+                },
+                "core_concept": {
+                        "en": "A labyrinthine expedition through the meanderings of existence.",
+                        "ja": "存在の曲がりくねった道を通る迷宮的な旅"
+                },
+                "thinking_layer": "人間の経験とは時に『回り道』を象徴するようなものである。事実、私たちの生きる道は常に直進とは限らない。むしろ、私たちの旅路は困難や予期せぬ出来事によって彩られた、その「曲がりくねった」の特性を持つ。それは私たちの内なる魂に彫り込まれた地図のようであり、そこには内観と学びの時々の曲折が描かれている。この変わりゆく道を行くことは、すなわち未知への冒険であり、自己探求の機会でもある。急がば回れと言うが、これもまた人生が与える暗喩の一つであろう。曲がりくねった道には、直進にはない風景が広がる。それは新たな視点、出会い、そして気づきの宝庫である。そんな複雑な道程を踏むことでこそ、私たちは本当の自分を見つけ出すことができる。こうした「曲がりくねり」が、人生の奥深さを一層引き立たせ、その存在を詩的に彩るのである。",
+                "synonyms": [
+                        "Winding",
+                        "Tortuous"
+                ],
+                "antonyms": [
+                        "Straight",
+                        "Direct"
+                ],
+                "aftertaste": "The complexity of life's path is a testament to the beauty of its winding nature.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "anfractus",
+                                        "meaning": "a bending"
+                                }
+                        ],
+                        "points": [
+                                "『anfractuous』という言葉は、形而上学的な次元及び物理的な構造において、複雑性と多様性の象徴である。私たちの知覚や感情は、多くの経験や教訓を通して曲がりくねる。言葉そのものが、継続的な変容過程を物語る。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-02-28"
         }
 ];
