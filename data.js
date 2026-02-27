@@ -7160,5 +7160,609 @@ const WORDS = [
                 },
                 "source": "Online Etymology Dictionary",
                 "date": "2026-02-28"
+        },
+        {
+                "id": "pneumonite",
+                "word": "Pneumonite",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "pneumo-",
+                                        "type": "prefix",
+                                        "meaning": "肺",
+                                        "lang": "Greek"
+                                },
+                                {
+                                        "text": "ite",
+                                        "type": "suffix",
+                                        "meaning": "炎症",
+                                        "lang": "English"
+                                }
+                        ],
+                        "original_statement": "The term 'pneumonite' stems from the Greek 'pneumo-' meaning lung, combined with the suffix '-ite' denoting inflammation, widely used in medical terminology."
+                },
+                "core_concept": {
+                        "en": "The whisper of lungs under siege, aflame with the breath of unyielding life.",
+                        "ja": "生命の息吹に燃える肺の囁き"
+                },
+                "thinking_layer": "人間が長い歴史を通じて宇宙と呼吸をしてきたように、「肺炎」という言葉は人間の内なる宇宙を探索する旅への招待状である。肺とは、地球が生命と呼ぶ詩の中で、人がその身に受け止めている自然の風であり、それが炎として心に広がっていく。炎症という現象は、単なる医学的状態を超え、生命の根源的な力によって引き起こされる内なる融解のプロセスを意味する。それはまた、生命がどれほど脆く、同時にどれほど強固であるかを示す証である。肺は空気を取り込み、酸素を心に送ることで、生活のリズムと調和を保つ。一度その調和が乱れると、内部の炎は自己を守るための戦いを始める。しかし、その戦いはまた、新たな再生への道をも開く。肺の炎症は、内なる世界が外界の変化にどう応答するかを考えさせる、深遠なる問いを投げかける機会になる。この思索が提起する命題は、高度に組織化された生命の持続可能性と、そこに潜む無常を認識することにある。",
+                "synonyms": [
+                        "Lung inflammation",
+                        "Pulmonitis"
+                ],
+                "antonyms": [
+                        "Lung health",
+                        "Respiratory ease"
+                ],
+                "aftertaste": "In every breath, there is a story of vigor and vulnerability, written in the silent lexicon of the lungs.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "pneumo",
+                                        "meaning": "lung"
+                                },
+                                {
+                                        "term": "ite",
+                                        "meaning": "inflammation"
+                                }
+                        ],
+                        "points": [
+                                "「肺炎」という単語は、古代ギリシャ語の「pneuma（呼吸/生命）」から派生し、その文字通りの意味は生命の根源を象徴する。それはまた、病という混沌に対する秩序を取り戻すために生命の予測不可能性を受け入れ、その変化に適応する能力を示す合図でもある。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-02-28"
+        },
+        {
+                "id": "chthonic",
+                "word": "Chthonic",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "chthon-",
+                                        "type": "root",
+                                        "meaning": "地",
+                                        "lang": "Greek"
+                                }
+                        ],
+                        "original_statement": "The word 'chthonic' originates from the Greek 'khthonios', pertaining to the earth or the underworld."
+                },
+                "core_concept": {
+                        "en": "Spirit of the earth, whispering in the underworld's shadows.",
+                        "ja": "大地の精霊、地下世界の影で囁くもの"
+                },
+                "thinking_layer": "地下世界の概念は、私たちの心の内なる深層に触れるものである。『クトゥルフ神話』や古代ギリシャの神話において、地下の領域は単に物理的な存在にとどまらず、精神的な象徴として現れる。地下とは、意識の潜在的な領域であり、私たちの知覚を超えた未知の世界である。そこは暗黒と恐怖の中にありながら、生の本質が露呈する場所でもある。人間の心は、地上と地下の間を行き来しながら、自らの存在意義を模索する。地下の神々や精霊たちへの信仰は、現世と来世を繋ぐ橋梁としての役割を果たす。『クトゥルフ神話』においても、古の地から呼び起こされる存在たちは、私たちに恐怖だけでなく、包摂性と変容の可能性をもたらす。チトニックなものは、私たちを深い哲学的思索へと誘い、生と死、夢と現実を結びつける。内密でありながら無限の可能性を秘めた地下の領域は、永遠に人間の心理に刻まれる恐れと敬意に満ちている。私たちは恐れつつもその神秘に引き寄せられる。",
+                "synonyms": [
+                        "Subterranean",
+                        "Infernal"
+                ],
+                "antonyms": [
+                        "Celestial",
+                        "Heavenly"
+                ],
+                "aftertaste": "In chthonic realms, the profound mysteries of existence intertwine with the soil of being.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "khthon",
+                                        "meaning": "earth"
+                                }
+                        ],
+                        "points": [
+                                "チトニックは地球の内なる奥深くに根ざす概念であり、我々の心理的背景を色濃く映し出す。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-02-28"
+        },
+        {
+                "id": "anamnesis",
+                "word": "Anamnesis",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "an-",
+                                        "type": "prefix",
+                                        "meaning": "再び、逆に",
+                                        "lang": "Greek"
+                                },
+                                {
+                                        "text": "mna-",
+                                        "type": "root",
+                                        "meaning": "思い出す",
+                                        "lang": "Greek"
+                                },
+                                {
+                                        "text": "-esis",
+                                        "type": "suffix",
+                                        "meaning": "行為、状態",
+                                        "lang": "Greek"
+                                }
+                        ],
+                        "original_statement": "Derived from the Greek word 'ἀνάμνησις,' meaning recollection or remembrance, the term was often used in philosophical and medical contexts."
+                },
+                "core_concept": {
+                        "en": "An elegant dance with memories, a journey through the echoes of the soul.",
+                        "ja": "記憶の中で優雅に舞う、魂の響きへの旅路。"
+                },
+                "thinking_layer": "アナムネーシスという言葉は、記憶と再帰の美しい融合である。それは、魂の深淵から浮かび上がる記憶の片鱗を愛おしみながら辿る旅である。この言葉が持つ詩的な響きは、我々の中の普遍的な真実を呼び覚まし、時間と空間を越えて存在と無の境界を探求する。記憶は単なる過去の断片ではない。それは私たちの存在の根幹を形作り、未来への指針を提示する。アナムネーシスの哲学は、私たちが過去の経験をどのように物語り、自己理解をどのように深めるかという探求を含むものであり、そこには自分自身を再発見するという神秘的な要素が孕まれている。記憶はしばしば曖昧で不確かだが、その中に潜む真実を見つけることは、まるで霧の中に隠された宝石を探すようなものだ。アナムネーシスは、我々の人生の旅路における重要な灯火となるだろう。それは、過去への愛惜と今この瞬間の理解を融合させ、永遠の存在への門を開く鍵である。",
+                "synonyms": [
+                        "Recollection",
+                        "Reminiscence"
+                ],
+                "antonyms": [
+                        "Forgetfulness",
+                        "Amnesia"
+                ],
+                "aftertaste": "Anamnesis gently whispers the forgotten secrets of the soul.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "ana",
+                                        "meaning": "up, backwards"
+                                },
+                                {
+                                        "term": "mnasthai",
+                                        "meaning": "to remember"
+                                }
+                        ],
+                        "points": [
+                                "アナムネーシスはプラトン哲学における重要な概念であり、知識はすべて生得的であると考えられ、それを再発見する行為が学びであるとする。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-02-28"
+        },
+        {
+                "id": "tenebrous",
+                "word": "Tenebrous",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "tenebrae-",
+                                        "type": "root",
+                                        "meaning": "暗闇",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The term 'tenebrous' originates from the Latin word 'tenebrae', meaning darkness or shadows, and has carried this sense of mysterious obscurity and gloom into the English language since the late Middle Ages."
+                },
+                "core_concept": {
+                        "en": "A mysterious veil of shadow and obscurity.",
+                        "ja": "神秘的な暗闇のヴェール"
+                },
+                "thinking_layer": "『闇』という概念は、人類の歴史を通じて、恐れと魅力を同時に引き起こしてきました。闇はしばしば未知なるものの象徴であり、視覚的な不在を通して人の心の深層に触れる力を持っています。『テンブラス』はその影の奥に潜む未解明の秘密を表す語です。闇が持つ安心感、夜にすべてが沈むその瞬間、静寂が広がるその瞬間には、内面の考察を促す空間があり、心は普段見過ごしがちな思索へと開かれます。暗がりにおいて輪郭の曖昧さが強調される中で、物事の本質により近づけるのです。テンブラスが示すのは、光が欠けた状態そのものの美しさ、そしてその中で見出すべき深遠な洞察です。我々が日常の忙しさの中で見失いがちな自分自身への理解を深め、その影を抱擁することで初めて得られる知恵があるのです。闇の中からこそ、明るみに出るものが存在するという逆説的な真実があるのだから。そう、テンブラスは、物理的な現象を超えた、心理的かつ哲学的な旅へと私たちを誘う言葉なのです。",
+                "synonyms": [
+                        "Gloomy",
+                        "Shadowy"
+                ],
+                "antonyms": [
+                        "Luminous",
+                        "Radiant"
+                ],
+                "aftertaste": "Embrace the shadows to find the light within.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "tenebrae",
+                                        "meaning": "Shadows, darkness"
+                                }
+                        ],
+                        "points": [
+                                "『テンブラス』の語源を知ることで、闇が持つ豊かな示唆を再認識し、異なる文化圏での『暗』の解釈を比較することができます。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-02-28"
+        },
+        {
+                "id": "apophenic",
+                "word": "Apophenic",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "apo-",
+                                        "type": "prefix",
+                                        "meaning": "away from, apart",
+                                        "lang": "Greek"
+                                },
+                                {
+                                        "text": "phainein",
+                                        "type": "root",
+                                        "meaning": "to show",
+                                        "lang": "Greek"
+                                }
+                        ],
+                        "original_statement": "The term 'apophenic' is derived from the Greek roots 'apo-' meaning 'away from' or 'apart,' and 'phainein,' meaning 'to show.' It has been used in the context of psychology to describe the tendency to perceive meaningful connections among unrelated phenomena."
+                },
+                "core_concept": {
+                        "en": "The tender dance of the mind linking the unrelated in its search for meaning.",
+                        "ja": "無関係なものに意味を見出そうとする心の繊細な舞"
+                },
+                "thinking_layer": "アポフェニアは、無関係な事象の中に関係を見出す心の振る舞いとして理解される。この現象は、私たちの存在の奥底にある探求の欲望を示しており、意味や秩序を覆す孤独の中に潜む美しき混沌を表している。心とは終わりなき意味探しの旅路であり、人間の精神は虚無や不確実性の中に意味や関連性を夢見る。そこで私たちは、無限の連想を紡ぎ出し、無から有を創造する奇跡を体現する。心には宇宙の奥深くに響き渡る静かなる問いがあり、それは時間を超越し、人々を無垢の世界へと誘う。この知覚は、我々の存在の深淵にある神秘的なエネルギーを解き放ち、新たな視野を照らす。アポフェニアは、心が生み出す豊かな空想、あるいは幻想の糧であり、それによって生命そのもののつながりを紐解くことを可能にする。人間の精神は、それによって自身を確認し、孤独の中に共鳴を見出すのである。",
+                "synonyms": [
+                        "Illusory correlation",
+                        "Perceptual ambiguity"
+                ],
+                "antonyms": [
+                        "Analytical reasoning",
+                        "Objective perception"
+                ],
+                "aftertaste": "In its beautiful chaos, the mind finds solace in imagined connections.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "apo-",
+                                        "meaning": "away from, apart"
+                                },
+                                {
+                                        "term": "phainein",
+                                        "meaning": "to show"
+                                }
+                        ],
+                        "points": [
+                                "アポフェニアの語源は、無と有を繋ぐ心の遊泳を示唆している。これは、私たちが無秩序の中に美を認識し、それを解釈するという存在の本質である。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-02-28"
+        },
+        {
+                "id": "goodbye",
+                "word": "Goodbye",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "god be with ye",
+                                        "type": "phrase",
+                                        "meaning": "神があなたと共に",
+                                        "lang": "Old English"
+                                }
+                        ],
+                        "original_statement": "The word 'goodbye' originated as a contraction of the phrase 'God be with ye,' which was used to express a wish for divine protection to someone who is departing."
+                },
+                "core_concept": {
+                        "en": "An elegant farewell blessing, a wish for divine company as one parts.",
+                        "ja": "別れ際に神の加護を願う優美な言葉"
+                },
+                "thinking_layer": "『さよなら』という言葉の根底にある「グッドバイ」は、ただの別れの挨拶ではありません。古代に遡ると、それは「神があなたと共に」という祈りとしての意味を持ちます。この言葉は、別れ際に交わされる儀式のような瞬間に、深い人間の想いと歴史を内包しています。人生の旅に出る際に、私たちは友人や愛する人にこの言葉を送り出しますが、そこには単なる役割以上のものがあります。それは、無尽の空の下で、それぞれが描く運命の航路において、神秘的な力がその人を包み込むことを願う行為です。このような背景には、人間が未知の時間と空間に立ち向かうときに感じる、孤独や勇気、祈りが凝縮されています。「グッドバイ」とは、無数の心を繋ぐ言葉であり、その響きの中で私たちは永遠の旅路を再確認します。このように考えると、新たな視点から自分の過去を見つめ直し、未来へ進む力を与えてくれる言葉なのです。",
+                "synonyms": [
+                        "Farewell",
+                        "Adieu"
+                ],
+                "antonyms": [
+                        "Hello",
+                        "Greeting"
+                ],
+                "aftertaste": "Every parting ups the ante of life's mysterious, continuous odyssey.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "god",
+                                        "meaning": "Divine"
+                                },
+                                {
+                                        "term": "be",
+                                        "meaning": "Existence"
+                                },
+                                {
+                                        "term": "with",
+                                        "meaning": "Togetherness"
+                                },
+                                {
+                                        "term": "ye",
+                                        "meaning": "You"
+                                }
+                        ],
+                        "points": [
+                                "『別れ』というテーマは人類の歴史を通じて常に文学や哲学の大きな題材であり、時代を超えて様々な文化の中で異なる形態をとって表現されてきました。"
+                        ]
+                },
+                "source": "Oxford English Dictionary, etymonline.com",
+                "date": "2026-02-28"
+        },
+        {
+                "id": "mortgage.",
+                "word": "Mortgage.",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "mort-",
+                                        "type": "prefix/root",
+                                        "meaning": "死",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "gage-",
+                                        "type": "root",
+                                        "meaning": "抵当物",
+                                        "lang": "Anglo-Norman"
+                                }
+                        ],
+                        "original_statement": "The term 'mortgage' originates from late Middle English, derived from the Old French word 'mort gage', meaning 'dead pledge'. The term illustrates the risk of losing the property held as security."
+                },
+                "core_concept": {
+                        "en": "A dance between life and death, a promise sculpted in shadows of hope and despair.",
+                        "ja": "命と死の踊り、希望と絶望の影に彫刻された約束"
+                },
+                "thinking_layer": "住宅ローンという概念は、経済的な必要と安心を求める人間の本質に深く根ざしています。それは現代社会において時間と空間を借りる行為の一形態とも言えます。人生の目的地を探し求める旅の途中で、一つの屋根の下に安心を求めるのは、人間の根源的な欲求です。しかし、この安定を手に入れるための代償は、しばしば未来の自由をも制限しうる活動の鎖に縛られることを意味します。契約書に刻まれた数字は単なる計算ではなく、未来の姿を映す鏡でもあります。それは、終わりの見えない旅に踏み出すための最初の一歩であり、同時に得られるものを守るための誓いでもあります。社会との有機的なつながりを持ち、それによって形作られる経済という広大な舞台で、住宅ローンは人間存在の形而上的意味の縮図であるとも言えます。これまでの人生の全てを捧げると決めた瞬間に、私たちは死後の世界をも暗示するこの不思議な言葉と向き合うことになります。未来に対する約束は、過去と現在を超えて、新たな視点を提供してくれます。",
+                "synonyms": [
+                        "Loan",
+                        "Lien"
+                ],
+                "antonyms": [
+                        "Equity",
+                        "Ownership"
+                ],
+                "aftertaste": "'Mortgage' binds the dreams of tomorrow to the chains of today.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "mort",
+                                        "meaning": "death"
+                                },
+                                {
+                                        "term": "gage",
+                                        "meaning": "pledge"
+                                }
+                        ],
+                        "points": [
+                                "住宅ローンは、しばしば生命の全てと引き換えに社会的安心を得るための不可欠なツールとして考えられ、それゆえに不動産や土地など、永続性を伴う対象物との結びつきを象徴しています。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-02-28"
+        },
+        {
+                "id": "iatrogenic",
+                "word": "Iatrogenic",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "iatro-",
+                                        "type": "prefix/root",
+                                        "meaning": "医者",
+                                        "lang": "Greek"
+                                },
+                                {
+                                        "text": "-genic",
+                                        "type": "prefix/root",
+                                        "meaning": "生成する",
+                                        "lang": "Greek"
+                                }
+                        ],
+                        "original_statement": "The word 'iatrogenic' originates from the Greek words 'iatros' meaning 'physician' and 'genēs' meaning 'produced by' or 'producing'."
+                },
+                "core_concept": {
+                        "en": "Born from the hands intended to heal, an unintended effect emerges.",
+                        "ja": "治癒しようとする手から生まれる、意図しない影響。"
+                },
+                "thinking_layer": "生命の織物の中で、医者の手は奇跡を生み出し、そして時にはその意図した効果の裏に意図しない事象を引き起こすことがある。医療は人間の科学的志向との絶え間ないダンスであり、人間の身体という謎に挑む努力である。医者の手によってもたらされる影響は、ケアの光と、時にはそれ自体がもたらす影の深みを生み出すこともある。治療行為の中に隠されたこの反発作用の存在は、不可避的な相互連結として、我々が抱える命の深遠さを示している。全ての行動には別の側面が存在し、優しさの中にも無意識の痛みが存在しうる。このような皮肉は人間の有限性を象徴し、また、境界を越えて理解しようという我々の探求の無限性を思い起こさせる。こうした思索は、意図せぬ結果の深淵を見つめる洞察であり、命の神秘を理解しようとする試みの一環である。我々自身の手によって、そして医療者の手によって紡がれる運命の糸は、無数の可能性と意図せぬ交差を孕んでいるのだ。",
+                "synonyms": [
+                        "Medically induced",
+                        "Treatment-related"
+                ],
+                "antonyms": [
+                        "Natural",
+                        "Spontaneous"
+                ],
+                "aftertaste": "The miracles of healing sometimes carry unanticipated shadows.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "iatro",
+                                        "meaning": "physician"
+                                },
+                                {
+                                        "term": "genic",
+                                        "meaning": "produced by"
+                                }
+                        ],
+                        "points": [
+                                "この言葉は、人間の意図と行動の複雑さを反映しており、医療行為における意図せぬ結果を洞察する視点を提供する。"
+                        ]
+                },
+                "source": "Harper, Online Etymology Dictionary",
+                "date": "2026-02-28"
+        },
+        {
+                "id": "anacoluthon",
+                "word": "Anacoluthon",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "ἀνά",
+                                        "type": "prefix",
+                                        "meaning": "上に",
+                                        "lang": "Greek"
+                                },
+                                {
+                                        "text": "καλύπτειν",
+                                        "type": "root",
+                                        "meaning": "覆う",
+                                        "lang": "Greek"
+                                }
+                        ],
+                        "original_statement": "The word 'anacoluthon' is derived from Late Latin 'anacoluthon', borrowed from Greek 'anakolouthon', a neuter of 'anakolouthos' meaning 'inconsistent', from 'ana-' meaning 'not' and 'akolouthos' meaning 'following'."
+                },
+                "core_concept": {
+                        "en": "A dance of words escaping the expected path.",
+                        "ja": "予期される道を逃れる言葉の舞踏"
+                },
+                "thinking_layer": "言葉は哲学にとって偉大なる脈動、その中でアナコルートンは規則への微細な反逆を意味する。これは我々の思考の隙間に漂う無数の可能性が、論理を乗り越え、新しい次元へと誘う散策の過程である。詩人や作家は、この断裂と流れが生み出す美しい不完全さに魅了され、言語の壁を超えて新しい形式を築く。すべての生命が有する不完全と不連続が具現化された形態であり、その不連続はまた、新たな理解の突破口を提供する。対話において、一見不協和な旋律が新しい調和を生むことがあるように、アナコルートンは予測不可能な道筋を通して我々を魅了する。それは、独自性と革新的なアイデアの源泉としての役割を果たし、我々の内なる対話者の声を引き出す、知覚を紡ぐ不可欠な要素となる。文法上の非連続は時に、現実に対する新しい視点を提供し、既存の枠組みを打ち破る力を持つ。不連続の中に埋め込まれた新たな調和の生成、それこそがアナコルートンの本質である。",
+                "synonyms": [
+                        "Non sequitur",
+                        "Irregularity"
+                ],
+                "antonyms": [
+                        "Consistency",
+                        "Continuity"
+                ],
+                "aftertaste": "Anacoluthon lures us into the labyrinth of language's untamed beauty.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "ana-",
+                                        "meaning": "not"
+                                },
+                                {
+                                        "term": "akolouthos",
+                                        "meaning": "following"
+                                }
+                        ],
+                        "points": [
+                                "アナコルートンは、表現の線形的進行を超越し、文法の規則性に囚われない自由な思案の具現である。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-02-28"
+        },
+        {
+                "id": "tesseract",
+                "word": "Tesseract",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "τεσσαρες",
+                                        "type": "prefix",
+                                        "meaning": "four",
+                                        "lang": "Greek"
+                                },
+                                {
+                                        "text": "ἀκτίνες",
+                                        "type": "root",
+                                        "meaning": "rays",
+                                        "lang": "Greek"
+                                }
+                        ],
+                        "original_statement": "The term 'tesseract' is derived from the Greek words 'τέσσαρες' (four) and 'ἀκτίνες' (rays), denoting a four-dimensional analog of the cube."
+                },
+                "core_concept": {
+                        "en": "A whispered echo from the geometrical heart of dimensions, where the unseen reveals itself through the language of shadows.",
+                        "ja": "次元の幾何学的中心からのささやく響き、それが影の言語を通して見えざるものを明らかにする。"
+                },
+                "thinking_layer": "テッセラクトとは、人間の知覚の限界を超えた次元を示し、存在するすべての可能性が共鳴する場所です。幾何学における神聖なるシンフォニーは、目に見えない第四次元で響き渡ります。これは我々の空間的理解の限界を試し、心の深奥で響く不思議なメロディーのようです。テッセラクトは、可視化できない多次元空間の一部でありながら、心の内に描かれる想像の幾何学でもあります。我々の内なる宇宙に存在する無限の数の可能性と選択肢を象徴し、これらの選択が交差する空間ともなるのです。それは我々の認知のバリアの向こう側にある無数の世界を思わせ、一貫性のない無限の中に調和と秩序を発見する旅ともいえます。この深遠な幾何学は、時間と空間を超える存在を考察するための哲学的手がかりとしても機能し、私たちが立ち向かう未踏の知識の空間で道しるべとなるのです。",
+                "synonyms": [
+                        "Hypercube",
+                        "4-Cube"
+                ],
+                "antonyms": [
+                        "Cube",
+                        "Square"
+                ],
+                "aftertaste": "The tesseract beckons beyond the visible, urging us to contemplate the infinite canvas of existence.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "τεσσαρες",
+                                        "meaning": "four"
+                                },
+                                {
+                                        "term": "ἀκτίνες",
+                                        "meaning": "rays"
+                                }
+                        ],
+                        "points": [
+                                "テッセラクトは、現実の多層的な側面を知覚するための窓口であり、私たちの認知を超越した存在の一部を垣間見ることができる。数学と哲学を融合し、見えざる次元を視覚化する試みとして重要である。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-02-28"
+        },
+        {
+                "id": "hermetic",
+                "word": "Hermetic",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "hermeneut-",
+                                        "type": "root",
+                                        "meaning": "解釈の科学や術を指す。",
+                                        "lang": "Greek"
+                                }
+                        ],
+                        "original_statement": "The term 'hermetic' derives from the Greek god Hermes Trismegistus, attributed with mystical and alchemical knowledge, thus symbolizing sealed or secretive wisdom."
+                },
+                "core_concept": {
+                        "en": "A seal against time, preserving the mysteries within.",
+                        "ja": "時を超えて神秘を閉じ込める封印。"
+                },
+                "thinking_layer": "私たちが求める知識の多くは未知なる空間の中に潜んでいる。それは、到達の困難な場所でありながら、私たちを引き寄せる磁石のようでもある。『ヘルメティック』という言葉は、その感じられつつも掴み取れない神秘の力を象徴している。この言葉の起源であるギリシャ神話のヘルメス・トリスメギストスは、錬金術や神秘的な知識を持つ存在として崇められた。そしてこの存在が持つ封印された知識こそが、私たちにとっての『ヘルメティック』な魅力となる。現代においても、密閉された精神の箱の中には無限の可能性が眠っている。それは一つの一直線を描くことなく交わり、また広がり続ける。時間が立ち去っても変わらない、この永続性の象徴である。私たちがどれだけ科学や技術を駆使して真実に近づこうとも、まだ理解されていない領域に惹かれ続ける。このような神秘に満ちた世界観において、私たちは新たな発見を望みながらも、その封印を開くことが許されない。『ヘルメティック』とは、かくも深奥なる宇宙の呼び声でもあるのだ。封印され、韻律を守りながら静かに響くその言葉の本質、それは開かれることなく、無限の知識への飽くなき挑戦である。",
+                "synonyms": [
+                        "Sealed",
+                        "Mystical"
+                ],
+                "antonyms": [
+                        "Open",
+                        "Transparent"
+                ],
+                "aftertaste": "In the silence of the seal lies an ocean of unspoken dreams.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "hermeneutics",
+                                        "meaning": "The art or science of interpretation."
+                                }
+                        ],
+                        "points": [
+                                "『ヘルメティック』の語源は、知識が時空間を超えた存在であることを示唆している。私たちの知覚の外側にある真実の奥行き、そしてそれがもたらす永遠の探求を雄弁に物語っている。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-02-28"
+        },
+        {
+                "id": "noumenon.",
+                "word": "Noumenon.",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "nous-",
+                                        "type": "root",
+                                        "meaning": "知性",
+                                        "lang": "Greek"
+                                }
+                        ],
+                        "original_statement": "The term 'noumenon' is derived from the Greek 'nous,' meaning 'mind' or 'intellect.' Kant introduced it to describe the reality that exists independently of sensory perception."
+                },
+                "core_concept": {
+                        "en": "The silent canvas upon which the mind sketches the unseen.",
+                        "ja": "意識の影に潜む、知覚を超えた実在"
+                },
+                "thinking_layer": "思索の層（日本語、250文字以上の深く哲学的な論考）: 現象の背後に隠れた「ヌーメノン」は、人間の知覚の限界を超えた存在として、哲学的な挑戦を提供する。感覚を超え、知性の深淵へと向かう探求は、絶え間ない心の活動として、その実体を明かすことなく、常に人間の探究心を刺激する。物理的な制約を超越し、精神の次元においてのみ存在するこの概念は、我々の現実認識を揺さぶり、多様な可能性を秘めている。感覚を閉ざし、内なる思考の海に潜る時、我々は「ヌーメノン」の微かな輪郭を捉えることに挑戦する。これは知識の枠を超え、自己の限界を試す冒険であり、その過程において新たな理解の扉を開く。",
+                "synonyms": [
+                        "Essence",
+                        "Reality"
+                ],
+                "antonyms": [
+                        "Phenomenon",
+                        "Perception"
+                ],
+                "aftertaste": "Noumenon challenges the very limits of human understanding.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "nous",
+                                        "meaning": "mind or intellect"
+                                }
+                        ],
+                        "points": [
+                                "『ヌーメノン』という言葉はイマヌエル・カントの哲学において用いられ、知覚を超えた実在を指し示す。これは、感性的な体験を超えて、理性によって認識される存在として捉えられる。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-02-28"
         }
 ];
