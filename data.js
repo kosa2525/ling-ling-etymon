@@ -5341,5 +5341,328 @@ const WORDS = [
                 },
                 "source": "Oxford English Dictionary",
                 "date": "2026-02-28"
+        },
+        {
+                "id": "peregrinate",
+                "word": "Peregrinate",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "peregrin-",
+                                        "type": "root",
+                                        "meaning": "旅行する、生きる",
+                                        "lang": "ラテン語"
+                                }
+                        ],
+                        "original_statement": "The word 'peregrinate' originates from the Latin 'peregrinari', meaning 'to travel abroad'."
+                },
+                "core_concept": {
+                        "en": "A journey that transcends mere movement, inviting the traveler to become one with the world.",
+                        "ja": "単なる移動を超え、旅人が世界と一体化する旅路"
+                },
+                "thinking_layer": "旅するという行為は、物理的な移動を超えた深いメタファーであり、人間の精神的成長や自己発見を促すものです。古代の哲学者たちは、旅を人生そのものと見なしました。異なる文化や風景との邂逅は、自己の境界を拡張し、未知との出会いを通じて、魂に新しい光をもたらします。旅は過去と未来の間に架かる橋となり、現在の瞬間に響く豊かなオーケストラを奏でるのです。旅に出ることで、私たちは異なる視点を得て、新しい価値観を形成します。そして、その道中で感じる喜びや試練は、私たちをより奥深く、理解をもたらす存在へと育むのです。旅の終わりは始まりを意味し、帰還後の私たちは、何らかの形で変容を遂げています。旅とは自己への問いかけであり、他者への理解であり、時間と空間を超越する、無限の可能性を探求する冒険です。",
+                "synonyms": [
+                        "Travel",
+                        "Journey"
+                ],
+                "antonyms": [
+                        "Stay",
+                        "Remain"
+                ],
+                "aftertaste": "To peregrinate is to embrace the universe in its full, unfurling glory.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "peregrinus",
+                                        "meaning": "foreigner, traveler"
+                                }
+                        ],
+                        "points": [
+                                "『旅』という概念は常に変化と発展を伴う疾風のようなものであり、その本質は、自己だけでなく、世界の理解を深める不断の探求にある。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-02-28"
+        },
+        {
+                "id": "acatalepsy",
+                "word": "Acatalepsy",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "a-",
+                                        "type": "prefix",
+                                        "meaning": "否定",
+                                        "lang": "Greek"
+                                },
+                                {
+                                        "text": "cata-",
+                                        "type": "root",
+                                        "meaning": "完全な",
+                                        "lang": "Greek"
+                                },
+                                {
+                                        "text": "-lepsy",
+                                        "type": "root",
+                                        "meaning": "理解",
+                                        "lang": "Greek"
+                                }
+                        ],
+                        "original_statement": "Derived from Greek, the term 'acatalepsy' signifies the impossibility of comprehending the universe fully."
+                },
+                "core_concept": {
+                        "en": "An ode to the eternal mystery of existence, beyond the grasp of finite understanding.",
+                        "ja": "人智を超えた存在の永遠の神秘への賛歌。"
+                },
+                "thinking_layer": "『アカタレプシー』という言葉は、我々の知識の限界と、その限界ゆえの美しさを象徴しています。人間は理解し得ないものと対峙することで、新たな認識の地平を探求し続けます。その探求は、現在の我々の精神的な領域を超えるかもしれないが、それでもなお、理解する努力が重要であることを教えてくれます。「アカタレプシー」は単なる無知の認識ではなく、不確実性の中に見える真実の断片を探し続ける姿勢とも言えます。この言葉に立ち止まることで、われわれは無理解がもたらす謙虚さを学び、その謙虚さが新たな学びへの扉を開く契機となるのです。人類の学問、哲学、科学の歴史を振り返ると、理解し得るものの境界線をほんの少しでも超えるために、挑み続けた偉大な努力の歴史が見えてきます。それゆえに、『アカタレプシー』は人間の本質的探求心の象徴であり、彼らの精神の無限性を示しています。理解の限界は挑戦の始まりであり、その一歩が次の壮大な発見へとつながっているのです。",
+                "synonyms": [
+                        "Incomprehensibility",
+                        "Unknowability"
+                ],
+                "antonyms": [
+                        "Comprehension",
+                        "Understanding"
+                ],
+                "aftertaste": "Acatalepsy reminds us of the sublime possibilities nestled within the unknown.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "cata",
+                                        "meaning": "complete"
+                                },
+                                {
+                                        "term": "lepsy",
+                                        "meaning": "seizure, grasp"
+                                }
+                        ],
+                        "points": [
+                                "『アカタレプシー』は、深遠な無知の中で、それでもなお光を見つけようとする人間の知的な奮闘を表しています。"
+                        ]
+                },
+                "source": "The Oxford Dictionary of English Etymology",
+                "date": "2026-02-28"
+        },
+        {
+                "id": "crepuscular",
+                "word": "Crepuscular",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "crepuscul-",
+                                        "type": "root",
+                                        "meaning": "薄明かり、夕暮れ",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "-ar",
+                                        "type": "suffix",
+                                        "meaning": "〜に関する",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The term 'crepuscular' is derived from the Latin 'crepusculum', meaning 'twilight'."
+                },
+                "core_concept": {
+                        "en": "The gentle dance of light and shadow at the edge of day.",
+                        "ja": "日の境にて光と影が交わる優雅な舞"
+                },
+                "thinking_layer": "『薄明り』という言葉は、視覚的な現象を超えた哲学的な次元を含んでいます。昼と夜、その狭間にある一瞬の不確かさがもたらす、静寂と変わる瞬間は、人生そのもののメタファーといえるでしょう。日没や日の出の狭間に立つとき、我々は過去と未来、夢と現実、希望と恐怖が織りなす曖昧な時間に身を置いています。それは、絶えず変わる我々の意識の状態を映し出す鏡のようなものです。人間の存在が、昼の明るさと夜の暗さを超えて、それ自体が一つの薄明かりであるという考え方もまた、深く根源的な感覚を呼び起こします。薄明かりの世界では、物事ははっきりと見えるわけではありませんが、逆にその曖昧さが我々に思索の自由を与えてくれます。それは、ひとときの静寂の中で自身の内側と向き合う時間。物事の本質が、必ずしも明るく定義された光の中だけでなく、静寂で謎めいた影の中にも存在することを教えてくれるのです。",
+                "synonyms": [
+                        "Twilight",
+                        "Dusk"
+                ],
+                "antonyms": [
+                        "Daylight",
+                        "Noon"
+                ],
+                "aftertaste": "In the crepuscular hours, the veil between reality and dream thins.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "crepusculum",
+                                        "meaning": "twilight"
+                                }
+                        ],
+                        "points": [
+                                "『crepuscular』は時間の流動性を象徴しており、細かいことを気にせずにメタフォリカルに考えることで、もっとも複雑な概念を理解するための道を切り開くことができます。それは光と影の転換点、変化と持続の調和を表す、言語を超えた共通の人間経験をも意味します。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-02-28"
+        },
+        {
+                "id": "aleatory",
+                "word": "Aleatory",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "aleatorius",
+                                        "type": "root",
+                                        "meaning": "賭け事に関連する",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'aleatory' derives from the Latin 'aleatorius', meaning 'pertaining to dice or gambling', reflecting the element of chance inherent in its usage since the late 17th century."
+                },
+                "core_concept": {
+                        "en": "A dance with chance, where unpredictability is the choreographer.",
+                        "ja": "偶然性が振付師の運命の舞踏"
+                },
+                "thinking_layer": "『アレアトリー』という言葉が私たちに示すのは、人生そのものが一大賭けであるという事実です。無数の要素が絡み合い、幾重にも重なった偶然の積み重ねの中で、私たちは次に何が起こるかを知ることができません。運命を決定づけるのは、時には人間の意図や努力を超えた場所にあるのです。アレアトリーの美しさは、その予測不可能性にあります。多様な可能性が広がっていることから、人は希望を持つことができる一方で、不安や恐れが芽生えます。それはまるで生命の糸を紡ぐ神々の遊戯のようであり、我々人間はその中で試される存在であるとも言えます。偶然というものは、制御不能でありながら、それによってこそ創造性や革新が生まれます。会うは別れの始めというように、すべてを予測し制御することは不可能ですが、だからこそ瞬間に集中し、その中で生きることの意味があるのです。アレアトリーは、生命の不確かさとその美しさを抱擁し、新しい可能性の地平を切り開くための鍵です。",
+                "synonyms": [
+                        "Random",
+                        "Casual"
+                ],
+                "antonyms": [
+                        "Planned",
+                        "Intentional"
+                ],
+                "aftertaste": "In every roll of life's dice, new horizons emerge.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "aleatorius",
+                                        "meaning": "pertaining to gambling"
+                                }
+                        ],
+                        "points": [
+                                "アレアトリーという概念は、古代から人間が直面してきた不確実性を象徴している。この言葉は、確実性を求める世界における人間の挑戦と、その背後に潜む運命の神秘を言語化するものである。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary, etymonline.com",
+                "date": "2026-02-28"
+        },
+        {
+                "id": "ichor",
+                "word": "Ichor",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "ichor-",
+                                        "type": "root",
+                                        "meaning": "神々の血",
+                                        "lang": "Greek"
+                                }
+                        ],
+                        "original_statement": "The term 'ichor' is derived from the Ancient Greek 'ikhōr', which referred to the ethereal fluid that flowed in the veins of the gods, distinct from mortal blood."
+                },
+                "core_concept": {
+                        "en": "The divine essence flowing beyond mortal blood.",
+                        "ja": "神聖なる本質、凡人の血を越えて流れるもの"
+                },
+                "thinking_layer": "イコルは人間の血を超えた、神々の静脈に流れる禁じられたエッセンスです。それは、人間と神の境界を超えた神秘的な存在であり、物質の世界では手の届かない場所に位置します。イコルは私たちに、存在の不朽と、物質を超越する本質についての考えを巡らせます。この神々の生命の液体は、直観と想像力を象徴し、そして現実を再び夢に変える能力を秘めています。それは時間と空間の制約を超え、純粋な形で普遍の秘密を運び、全ての生命の奥に潜む真理を明らかにします。イコルは分離された宇宙の中で、調和と完全性の予感をもたらします。神々の世界から流出するこの流体は、美と永遠の証です。イコルの起源について考えることは、存在することの意味を問うことに他なりません。それは私たち自身の限界を認識し、内なる神性を再発見する旅の始まりを示します。イコルは私たちに、永遠に響き続ける魂の詩を思い起こさせ、現世の束縛を超えた世界を夢見させます。",
+                "synonyms": [
+                        "Essence",
+                        "Elixir"
+                ],
+                "antonyms": [
+                        "Mortal blood",
+                        "Earthly fluid"
+                ],
+                "aftertaste": "Ichor whispers of divine realms within us all.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "ikhōr",
+                                        "meaning": "Ethereal fluid in gods' veins"
+                                }
+                        ],
+                        "points": [
+                                "語源はギリシャ語の「イホル」、神性の象徴。この概念は、神的なものと凡俗の違いを表し、神話における特別な地位を示す。"
+                        ]
+                },
+                "source": "The Oxford English Dictionary",
+                "date": "2026-02-28"
+        },
+        {
+                "id": "girl",
+                "word": "Girl",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "girl",
+                                        "type": "root",
+                                        "meaning": "少年・少女",
+                                        "lang": "Middle English"
+                                }
+                        ],
+                        "original_statement": "The word 'girl' originated from the Middle English term 'girle,' which was used to describe a young person of either sex, and later evolved to specifically denote a female child."
+                },
+                "core_concept": {
+                        "en": "The ephemeral dance of youthful innocence and burgeoning identity.",
+                        "ja": "幼さと育つ自我が織り成す儚き舞"
+                },
+                "thinking_layer": "『少女』という言葉の深層には、時間の流れに逆らえない人間の儚さが込められています。古来より、『少女』は純粋さと変遷の象徴として存在し、その両面性は人生の寓意を伴います。少女期とは、無邪気さと成長という対極の力が一瞬に交差する、流動的な存在。彼女たちの瞳には、純白の夢と現実の複雑さが同時に宿り、心の中では未来への架け橋が構築されつつあります。『少女』という語は、静寂とともに時間を刻む人生の旋律を想起させ、その響きには多層的な智慧が宿ります。人類の歴史と共に形を変えるこの存在は、根源的に人間の美を顕にし、知られざる可能性の扉を静かに開きます。少女という存在には、夢見る感情と、不可避な大人への移行を織り交ぜた豊かな物語が秘められているのです。認識や判断を通り越えて、少女とはその見えざる境界を象徴し、存在そのものに疑問を投げかけ、人間の内なる哲学を深める言葉なのです。",
+                "synonyms": [
+                        "maiden",
+                        "lass"
+                ],
+                "antonyms": [
+                        "boy",
+                        "man"
+                ],
+                "aftertaste": "In the innocence of a girl lies the genesis of the world's purest aspirations.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "girle",
+                                        "meaning": "young person"
+                                }
+                        ],
+                        "points": [
+                                "『少女』という言葉の語源的背景には、時代を超えて変化する性別と年齢の境界を示す重要な役割があった。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-02-28"
+        },
+        {
+                "id": "mascot",
+                "word": "Mascot",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "mascotte-",
+                                        "type": "root",
+                                        "meaning": "呪物",
+                                        "lang": "French"
+                                }
+                        ],
+                        "original_statement": "The term 'mascot' originated from the French word 'mascotte', used in the 19th century to denote a charm or talisman thought to bring good luck."
+                },
+                "core_concept": {
+                        "en": "An embodiment of spirit and fortune, bridging the tangible with the aspirational.",
+                        "ja": "幸運と精神を具現化し、具象と理想をつなぐ存在。"
+                },
+                "thinking_layer": "「マスコット」とは、ただの象徴ではなく、ある種の存在の凝縮といえる。それは、幸運や成功の象徴として人々に受け入れられ、しばしばだれもが持つ願望や夢を具現化する。その役目は、単なる外見や飾りではなく、人とその集団の心の奥底にある望みや無意識な期待を形にし、かつまた、人間の存在のかけがえのなさと微妙な心理を表す。この意味深い象徴としての役割は、目に見えぬ力を体現し、感情の表出を強化し、社会の結束を促進する力がある。従来から、無形の希望や文化的価値を具現化し、懸け橋の役割を果たしてきた。これにより、「マスコット」はただの符号や象徴を超えて、より深い人間の思索における精神的な装置となる。この深い影響力を持つ存在は、ただの物理的な実体以上のものとして意識され、個人と共同体の心の内面で共鳴を引き起こし、かつて体験されなかった形での連帯感を育む。",
+                "synonyms": [
+                        "Emblem",
+                        "Charm"
+                ],
+                "antonyms": [
+                        "Curse",
+                        "Jinx"
+                ],
+                "aftertaste": "In the silent presence of a mascot lies the echo of countless unspoken dreams.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "mascotte",
+                                        "meaning": "talisman or charm thought to bring good luck"
+                                }
+                        ],
+                        "points": [
+                                "フランス語の「mascotte」に由来し、19世紀に使われ始めた。象徴としての役割を超え、深層心理に影響を与える存在として解釈される。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-02-28"
         }
 ];

@@ -2,11 +2,15 @@ from flask import Flask, jsonify, request, redirect, url_for, send_from_director
 from flask_cors import CORS
 from werkzeug.security import generate_password_hash, check_password_hash
 import stripe
-import sqlite3
 import os
 import json
 import re
 from datetime import datetime
+try:
+    import psycopg2
+    from psycopg2.extras import DictCursor
+except ImportError:
+    psycopg2 = None
 
 # アプリケーションの初期化
 app = Flask(__name__, static_folder='../')
@@ -17,19 +21,49 @@ CORS(app)
 stripe.api_key = os.environ.get("STRIPE_API_KEY", "")
 PRICE_ID = os.environ.get("STRIPE_PRICE_ID", "")
 DOMAIN = os.environ.get("DOMAIN", "http://localhost:5000")
-DATABASE = os.path.join(os.path.dirname(__file__), 'users.db')
+# DATABASE_URL があれば PostgreSQL (Supabase等) を使用、なければ SQLite
+DATABASE_URL = os.environ.get("DATABASE_URL")
+DATABASE_SQLITE = os.path.join(os.path.dirname(__file__), 'users.db')
 DATA_JS_PATH = os.path.join(os.path.dirname(__file__), '..', 'data.js')
 ESSAYS_JS_PATH = os.path.join(os.path.dirname(__file__), '..', 'essays.js')
 
+def get_db_connection():
+    if DATABASE_URL:
+        # PostgreSQL
+        conn = psycopg2.connect(DATABASE_URL)
+        return conn
+    else:
+        # SQLite
+        import sqlite3
+        conn = sqlite3.connect(DATABASE_SQLITE)
+        return conn
+
+def get_placeholder():
+    return "%s" if DATABASE_URL else "?"
+
 # --- データベース初期化 ---
 def init_db():
-    with sqlite3.connect(DATABASE) as conn:
-        conn.execute('''CREATE TABLE IF NOT EXISTS users 
-                        (username TEXT PRIMARY KEY, password TEXT, is_premium BOOLEAN)''')
-        conn.execute('''CREATE TABLE IF NOT EXISTS reflections 
-                        (id INTEGER PRIMARY KEY AUTOINCREMENT, word_id TEXT, username TEXT, content TEXT, date TEXT)''')
-        conn.execute('''CREATE TABLE IF NOT EXISTS replies 
-                        (id INTEGER PRIMARY KEY AUTOINCREMENT, reflection_id INTEGER, username TEXT, content TEXT, date TEXT)''')
+    conn = get_db_connection()
+    try:
+        with conn:
+            with conn.cursor() as cur:
+                # PostgreSQLとSQLiteで微妙に型や構文が違う場合があるため調整
+                if DATABASE_URL:
+                    cur.execute('''CREATE TABLE IF NOT EXISTS users 
+                                    (username TEXT PRIMARY KEY, password TEXT, is_premium BOOLEAN DEFAULT FALSE)''')
+                    cur.execute('''CREATE TABLE IF NOT EXISTS reflections 
+                                    (id SERIAL PRIMARY KEY, word_id TEXT, username TEXT, content TEXT, date TEXT)''')
+                    cur.execute('''CREATE TABLE IF NOT EXISTS replies 
+                                    (id SERIAL PRIMARY KEY, reflection_id INTEGER, username TEXT, content TEXT, date TEXT)''')
+                else:
+                    cur.execute('''CREATE TABLE IF NOT EXISTS users 
+                                    (username TEXT PRIMARY KEY, password TEXT, is_premium BOOLEAN)''')
+                    cur.execute('''CREATE TABLE IF NOT EXISTS reflections 
+                                    (id INTEGER PRIMARY KEY AUTOINCREMENT, word_id TEXT, username TEXT, content TEXT, date TEXT)''')
+                    cur.execute('''CREATE TABLE IF NOT EXISTS replies 
+                                    (id INTEGER PRIMARY KEY AUTOINCREMENT, reflection_id INTEGER, username TEXT, content TEXT, date TEXT)''')
+    finally:
+        conn.close()
 init_db()
 
 # --- アプリ（フロントエンド）の配信 ---
@@ -63,10 +97,15 @@ def register():
     hashed_password = generate_password_hash(password)
     
     try:
-        with sqlite3.connect(DATABASE) as conn:
-            conn.execute("INSERT INTO users VALUES (?, ?, ?)", (username, hashed_password, False))
+        conn = get_db_connection()
+        p = get_placeholder()
+        with conn:
+            with conn.cursor() as cur:
+                cur.execute(f"INSERT INTO users VALUES ({p}, {p}, {p})", (username, hashed_password, False))
+        conn.close()
         return jsonify(status="success")
     except Exception as e:
+        print(f"Register error: {e}")
         return jsonify(status="error", message="そのユーザー名は既に使われています。"), 400
 
 @app.route('/api/login', methods=['POST'])
@@ -75,9 +114,13 @@ def login():
     username = data.get('username')
     password = data.get('password')
     
-    with sqlite3.connect(DATABASE) as conn:
-        user = conn.execute("SELECT password, is_premium FROM users WHERE username=?", 
-                            (username,)).fetchone()
+    conn = get_db_connection()
+    p = get_placeholder()
+    with conn:
+        with conn.cursor() as cur:
+            cur.execute(f"SELECT password, is_premium FROM users WHERE username={p}", (username,))
+            user = cur.fetchone()
+    conn.close()
     
     if user:
         stored_hash = user[0]
@@ -117,8 +160,12 @@ def check_subscription():
     try:
         session = stripe.checkout.Session.retrieve(session_id)
         if session.payment_status == 'paid':
-            with sqlite3.connect(DATABASE) as conn:
-                conn.execute("UPDATE users SET is_premium=? WHERE username=?", (True, username))
+            conn = get_db_connection()
+            p = get_placeholder()
+            with conn:
+                with conn.cursor() as cur:
+                    cur.execute(f"UPDATE users SET is_premium={p} WHERE username={p}", (True, username))
+            conn.close()
             return jsonify(status='paid')
     except Exception as e:
         print(f"Checkout check failed: {e}")
@@ -160,34 +207,48 @@ def submit_word():
 
 @app.route('/api/reflections/<word_id>', methods=['GET'])
 def get_reflections(word_id):
-    with sqlite3.connect(DATABASE) as conn:
-        reflections = conn.execute("SELECT id, username, content, date FROM reflections WHERE word_id=?", (word_id,)).fetchall()
-        result = []
-        for r in reflections:
-            replies = conn.execute("SELECT username, content, date FROM replies WHERE reflection_id=?", (r[0],)).fetchall()
-            result.append({
-                "id": r[0],
-                "username": r[1],
-                "content": r[2],
-                "date": r[3],
-                "replies": [{"username": rep[0], "content": rep[1], "date": rep[2]} for rep in replies]
-            })
+    conn = get_db_connection()
+    p = get_placeholder()
+    with conn:
+        with conn.cursor() as cur:
+            cur.execute(f"SELECT id, username, content, date FROM reflections WHERE word_id={p}", (word_id,))
+            reflections = cur.fetchall()
+            result = []
+            for r in reflections:
+                cur.execute(f"SELECT username, content, date FROM replies WHERE reflection_id={p}", (r[0],))
+                replies = cur.fetchall()
+                result.append({
+                    "id": r[0],
+                    "username": r[1],
+                    "content": r[2],
+                    "date": r[3],
+                    "replies": [{"username": rep[0], "content": rep[1], "date": rep[2]} for rep in replies]
+                })
+    conn.close()
     return jsonify(result)
 
 @app.route('/api/reflections', methods=['POST'])
 def post_reflection():
     data = request.json
-    with sqlite3.connect(DATABASE) as conn:
-        conn.execute("INSERT INTO reflections (word_id, username, content, date) VALUES (?, ?, ?, ?)",
-                     (data['word_id'], data['username'], data['content'], datetime.now().strftime("%Y-%m-%d %H:%M")))
+    conn = get_db_connection()
+    p = get_placeholder()
+    with conn:
+        with conn.cursor() as cur:
+            cur.execute(f"INSERT INTO reflections (word_id, username, content, date) VALUES ({p}, {p}, {p}, {p})",
+                         (data['word_id'], data['username'], data['content'], datetime.now().strftime("%Y-%m-%d %H:%M")))
+    conn.close()
     return jsonify(status="success")
 
 @app.route('/api/replies', methods=['POST'])
 def post_reply():
     data = request.json
-    with sqlite3.connect(DATABASE) as conn:
-        conn.execute("INSERT INTO replies (reflection_id, username, content, date) VALUES (?, ?, ?, ?)",
-                     (data['reflection_id'], data['username'], data['content'], datetime.now().strftime("%Y-%m-%d %H:%M")))
+    conn = get_db_connection()
+    p = get_placeholder()
+    with conn:
+        with conn.cursor() as cur:
+            cur.execute(f"INSERT INTO replies (reflection_id, username, content, date) VALUES ({p}, {p}, {p}, {p})",
+                         (data['reflection_id'], data['username'], data['content'], datetime.now().strftime("%Y-%m-%d %H:%M")))
+    conn.close()
     return jsonify(status="success")
 
 if __name__ == '__main__':
