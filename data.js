@@ -27168,5 +27168,63 @@ const WORDS = [
                 "source": "Online Etymology Dictionary",
                 "date": "2026-03-01",
                 "era": "Middle Ages (Middle Low German)"
+        },
+        {
+                "id": "embargo",
+                "word": "Embargo",
+                "part_of_speech": "noun",
+                "meaning": "貿易や交流の一時停止",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "embargar-",
+                                        "type": "root",
+                                        "meaning": "妨げる、制限する",
+                                        "lang": "Spanish"
+                                },
+                                {
+                                        "text": "em-",
+                                        "type": "prefix",
+                                        "meaning": "内に、上に",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "-bar-",
+                                        "type": "root",
+                                        "meaning": "障害、障壁",
+                                        "lang": "Spanish"
+                                }
+                        ],
+                        "original_statement": "The word 'embargo' originated from Spanish 'embargar', which means 'to impede or to seize'. It entered the English language in the late 16th century."
+                },
+                "core_concept": {
+                        "en": "A blockade of intention; a pause woven into the fabric of international discourse.",
+                        "ja": "意図の封鎖; 国際的な対話の布に織り込まれた中断。"
+                },
+                "thinking_layer": "ある国の政策が他国に影響を及ぼし、貿易や情報の流れが断ち切られる様は、時として目に見える壁よりも強固である。物理的な障害物が存在しなくとも、無形の意図や決定が人々の心に影を落とす。思わず立ち止まり、静寂が支配する中で深く考えると、封鎖の本質は人と人の間に形成される無言の協定のようなものである。それは国益や倫理が複雑に絡み合い、究極的には平和と混乱との狭間で築かれる微妙なバランスともなりうる。無形の手が、触れずして影響を与え、取引や交渉の場を変えていく。それはまるで時間を凍らせ、歴史の流れを一点で絡め取るように、全ての関係性を再定義し、飛鳥の如く一瞬の出来事として心に刻まれるのだ。実体の無い存在が、人々の行動を制限し、沈黙のうちにその力を示す。",
+                "synonyms": [
+                        "Blockade",
+                        "Sanction"
+                ],
+                "antonyms": [
+                        "Allowance",
+                        "Permission"
+                ],
+                "aftertaste": "An embargo suspends time within a boundless silence.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "embargar",
+                                        "meaning": "to impede, to block"
+                                }
+                        ],
+                        "points": [
+                                "『エンバーゴ』という言葉は、古スペイン語に由来し、制限や抑制の概念を内包している。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "16th Century"
         }
 ];
