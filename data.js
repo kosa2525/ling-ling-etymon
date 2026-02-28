@@ -26440,5 +26440,51 @@ const WORDS = [
                 "source": "Online Etymology Dictionary",
                 "date": "2026-03-01",
                 "era": "Late Middle Ages"
+        },
+        {
+                "id": "curdle",
+                "word": "Curdle",
+                "part_of_speech": "verb",
+                "meaning": "凝固する、固まる",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "curdel",
+                                        "type": "root",
+                                        "meaning": "凝固する",
+                                        "lang": "中英語"
+                                }
+                        ],
+                        "original_statement": "The word 'curdle' originates from the Middle English 'curdelen', meaning to coagulate, derived from the Old English 'crudan' which signifies to press or to drive."
+                },
+                "core_concept": {
+                        "en": "A dance of molecules transforming from liquid chaos to solid peace.",
+                        "ja": "液体の混沌から固体の平和へと変わる分子の舞"
+                },
+                "thinking_layer": "凝固とは、物質の心が静かに固まる瞬間である。それはまるで人生の重要な決断のようで、流動的な感情が沈殿し、明晰さを得る。映画の一瞬がフィルムに焼き付くように、言葉では表現できない物語が物質の核に刻まれる。哲学的に考えると、凝固は時間と空間の交差点で起こる奇跡である。何もかもが乱れていた液体の中で、安定性を求める小さな粒子たちが集まり、互いに手を取り合って秩序を生み出す。これこそが自然の力であり、私たちの内面における自己発見のプロセスと繋がっている。凝固は、自然の秩序が混沌の中で再確立される瞬間、その一瞬に過ぎないとしても、それは私たちに安らぎをもたらす。",
+                "synonyms": [
+                        "Coagulate",
+                        "Solidify"
+                ],
+                "antonyms": [
+                        "Liquefy",
+                        "Dissolve"
+                ],
+                "aftertaste": "Curdling captures the silent poetry of solidifying chaos.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "curdel",
+                                        "meaning": "to coagulate"
+                                }
+                        ],
+                        "points": [
+                                "『curdle』の語源は、中英語の『curdel』に遡ります。これは古英語の『crudan』から派生したもので、圧力をかける、または推進するという意味を持ちます。"
+                        ]
+                },
+                "source": "The Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Middle English"
         }
 ];
