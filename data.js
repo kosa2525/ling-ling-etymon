@@ -22380,5 +22380,50 @@ const WORDS = [
                 },
                 "source": "Oxford English Dictionary",
                 "date": "2026-02-28"
+        },
+        {
+                "id": "culture",
+                "word": "Culture",
+                "part_of_speech": "noun",
+                "meaning": "文化",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "cultura-",
+                                        "type": "root",
+                                        "meaning": "耕作する",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'culture' comes from the Latin term 'cultura,' which means 'cultivation, tilling' and figuratively 'care, honor,' and has evolved through the French word 'culture,' ultimately adopting various figurative meanings relating to the arts, education, and civilization."
+                },
+                "core_concept": {
+                        "en": "The poetic flourishing of human spirit and intellect through art, tradition, and learning.",
+                        "ja": "人間の精神と知識が芸術、伝統、学びを通じて花開く詩情的な営み"
+                },
+                "thinking_layer": "文化とは、相互に織りなす人類の営みの珠玉である。この織物は、時代を超えた糸で織られ、集団の記憶と個の工夫で染まる。創造と保存は対話し、真実と美に問いを投げかける。活気に満ちた都市や静寂の農村を問わず、文化はあらゆる瞬間と交差し、見えざる手で宇宙のパターンを編み続ける。時には先人の知恵から新たな声を見出し、また時には無言の行に未来が垣間見える。美は一時的ではなく、文化の中で永続し、変化を恐れぬ信頼と共に歩まれる。人間という名の惑星がその軌道を描く中で、文化はその生命の輝きを魅せ、無限の空へと広がり続ける。文化は人間存在を照らす灯火であり、未知への航海に出る羅針盤である。",
+                "synonyms": [
+                        "Civilization",
+                        "Refinement"
+                ],
+                "antonyms": [
+                        "Barbarism",
+                        "Ignorance"
+                ],
+                "aftertaste": "Culture is the silent, relentless pulse of humanity's heartbeat.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "colere",
+                                        "meaning": "to till, cultivate"
+                                }
+                        ],
+                        "points": [
+                                "文化は土を耕すことに始まり、それが転じて精神の耕作となる。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-02-28"
         }
 ];
