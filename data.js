@@ -21260,5 +21260,54 @@ const WORDS = [
                 },
                 "source": "Online Etymology Dictionary, Douglas Harper",
                 "date": "2026-02-28"
+        },
+        {
+                "id": "ceiling",
+                "word": "Ceiling",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "ciel",
+                                        "type": "root",
+                                        "meaning": "空",
+                                        "lang": "French"
+                                },
+                                {
+                                        "text": "-ing",
+                                        "type": "suffix",
+                                        "meaning": "名詞形を作る",
+                                        "lang": "English"
+                                }
+                        ],
+                        "original_statement": "The word 'ceiling' originated from the Middle English 'celyng', which referred to the act of lining the top of a room, and evolved from the Old French 'ciel', meaning 'sky' or 'heaven'."
+                },
+                "core_concept": {
+                        "en": "The silent sentinel that watches over the human world, defining spaces yet yearning for the infinite sky.",
+                        "ja": "空間を定義しつつも無限の空を憧れる静かな番人。"
+                },
+                "thinking_layer": "天井という言葉自体は、単に建築の一部を指すものに過ぎないかもしれませんが、哲学的に考えると、その役割は非常に奥深いものです。天井とは、地上から見上げる限界であり、空間の境界を示します。そして、その限界を突破しようとする我々の内なる欲求を象徴しています。それは、空に手を伸ばそうとする思い、人間の可能性の追求とも重なります。天井が示すのは物理的な制約に過ぎないが、その上に広がる空の無限性を思い起こさせる刻印であり、地上の我々に超越を促します。建物の中にいる時は空へ至る道を閉ざしているようで、心の深奥ではむしろ上へと進む力を与えてくれる存在とも言えるでしょう。天井の上には何があるのかという問いは、宇宙や存在そのものへの思索へと我々を誘い、それが我々の知性と想像力を刺激します。",
+                "synonyms": [
+                        "Roof",
+                        "Canopy"
+                ],
+                "antonyms": [
+                        "Floor",
+                        "Ground"
+                ],
+                "aftertaste": "A room's guardian, holding dreams within and suspiring towards freedom.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "ciel",
+                                        "meaning": "sky"
+                                }
+                        ],
+                        "points": [
+                                "天井は空に由来するという語源的な背景があり、その意味では建築的な限界を越えた高次の存在への希望をも象徴します。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-02-28"
         }
 ];
