@@ -24059,5 +24059,60 @@ const WORDS = [
                 },
                 "source": "Oxford English Dictionary",
                 "date": "2026-02-28"
+        },
+        {
+                "id": "philosophy",
+                "word": "Philosophy",
+                "part_of_speech": "noun",
+                "meaning": "哲学の簡潔な定義",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "philo-",
+                                        "type": "prefix",
+                                        "meaning": "愛",
+                                        "lang": "ギリシャ語"
+                                },
+                                {
+                                        "text": "sophia",
+                                        "type": "root",
+                                        "meaning": "知恵",
+                                        "lang": "ギリシャ語"
+                                }
+                        ],
+                        "original_statement": "The word 'philosophy' originates from the Greek 'philosophia', combining 'philo-' (love) and 'sophia' (wisdom), denoting a love for wisdom."
+                },
+                "core_concept": {
+                        "en": "A profound love for wisdom that guides human inquiry through the ages.",
+                        "ja": "知恵を愛し、人類の探求の光として導く深遠な心"
+                },
+                "thinking_layer": "哲学とは、宇宙の奥深くに眠る真理を求めてやまない魂の旅である。それは時に現実を越え、理想という名の星に手を伸ばす試みでもある。哲学することは、人間が内なる問いを胸に秘め、それに対する答えを探し続けることで、多様な視点を受け入れ、共存させる精神の技である。哲学の道を歩む者は、孤独と対話の揺らぎの中で、自らの存在を掘り下げつつも、その先の未来に立ち向かう勇気を養う。過去、現在、未来をつなぐ知恵の旅の中で、哲学は人類の心の地図を描き続ける。そしてその地図は、常に我々に新たな可能性を見出させ、無限の探求を促してくれる。哲学の深淵を覗くことは、物質世界を超え、形而上学的世界を探訪する行為そのものだ。魂の静謐と宇宙の轟音が交錯する場所、そこに哲学の真髄が息づく。",
+                "synonyms": [
+                        "Metaphysics",
+                        "Epistemology"
+                ],
+                "antonyms": [
+                        "Ignorance",
+                        "Superficiality"
+                ],
+                "aftertaste": "Philosophy is the eternal compass pointing toward wisdom's horizon.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "philo",
+                                        "meaning": "love"
+                                },
+                                {
+                                        "term": "sophia",
+                                        "meaning": "wisdom"
+                                }
+                        ],
+                        "points": [
+                                "哲学という語の語源は、ギリシャ語の 'philos'（愛）と 'sophia'（知恵）に遡る。これは単なる知識の習得ではなく、知恵を追求する情熱を表している。"
+                        ]
+                },
+                "source": "The Oxford English Dictionary",
+                "date": "2026-02-28"
         }
 ];
