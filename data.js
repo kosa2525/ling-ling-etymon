@@ -20878,5 +20878,48 @@ const WORDS = [
                 },
                 "source": "Oxford English Dictionary",
                 "date": "2026-02-28"
+        },
+        {
+                "id": "guy",
+                "word": "Guy",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "Guy Fawkes",
+                                        "type": "name",
+                                        "meaning": "ガイ・フォークス",
+                                        "lang": "English"
+                                }
+                        ],
+                        "original_statement": "The word 'guy' originates from Guy Fawkes, associated with the Gunpowder Plot of 1605. Over time, it evolved from denoting a grotesque effigy to referring colloquially to a man or person."
+                },
+                "core_concept": {
+                        "en": "A solitary figure born from rebellion, now a comrade in everyday moments.",
+                        "ja": "反逆から生まれ、日常の瞬間に寄り添う仲間。"
+                },
+                "thinking_layer": "“ガイ”という言葉は、史実と時間を紡いだ美しい物語を秘めています。1605年に起きた火薬陰謀事件の首謀者ガイ・フォークスの名に由来し、当初は奇妙で不気味な人形への侮蔑として使われました。しかし、年月と共に、その意義は大衆の口から親しまれる『人』への一般的な言葉として変わりました。その変遷には人間の本質的な意味変化を見出すことができます。我々はしばしば、過去を否定的な文脈で捉えがちですが、時の流れはそれを超越し、秩序だった柔軟な解釈を提供します。この過程はガイが人から人へ、という具象から抽象への進化を象徴します。私たちの言葉は常に時代と共に流れ、やがて新たな意義を持つ存在へ変容していくのです。『ガイ』には、ひっそりとした革命の精神と、日常的な絆の両面が刻まれており、その表現は過去と現代の架け橋とも言えるでしょう。",
+                "synonyms": [
+                        "Man",
+                        "Fellow"
+                ],
+                "antonyms": [
+                        "Woman",
+                        "Lady"
+                ],
+                "aftertaste": "A legacy of rebellion maturing into companionship.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "Guy Fawkes",
+                                        "meaning": "A historical figure associated with a failed explosion of the British Parliament."
+                                }
+                        ],
+                        "points": [
+                                "この語はガイ・フォークスという歴史的人物から来ており、初期の侮蔑から現代の親しみへと語の意味が変遷したことは、言葉の柔軟性と文化的影響力を示しています。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-02-28"
         }
 ];
