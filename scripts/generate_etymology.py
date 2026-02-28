@@ -20,19 +20,20 @@ client = openai.OpenAI(api_key=api_key)
 # データの保存先 (プロジェクトルート)
 DATA_JS_PATH = os.path.join(os.path.dirname(__file__), "..", "data.js")
 
-# 単語プールを分離
+# 単語プールを分離（現在は日常的な単語を優先）
 INTELLECTUAL_POOL = [
-    "Ethereal", "Epiphany", "Aesthetic", "Synthesis", "Logos", 
-    "Archetype", "Dialectic", "Labyrinth", "Metamorphosis", "Nostalgia",
-    "Melancholy", "Quintessence", "Sublime", "Transcendence", "Ineffable",
-    "Solitude", "Resilience", "Serendipity", "Paradigm", "Catharsis"
+    "Culture", "Nature", "Future", "Planet", "Universe",
+    "History", "Memory", "Energy", "Music", "Coffee",
+    "Tea", "Paper", "Bread", "Street", "Travel",
+    "Heart", "Dream", "Light", "Smile", "World"
 ]
 
 EVERYDAY_POOL = [
     "Company", "Education", "Breakfast", "Window", "Salary",
     "Companion", "Muscle", "Pantry", "Camera", "Galaxy",
     "Alphabet", "Prestige", "Disaster", "Candid", "Trivia",
-    "Whisky", "Vaccine", "Sincere", "Digital", "Curiosity"
+    "Whisky", "Vaccine", "Sincere", "Digital", "Curiosity",
+    "Window", "Library", "Pencil", "Coffee", "Season"
 ]
 
 PROMPT_TEMPLATE = """
@@ -42,12 +43,16 @@ REQUIREMENTS:
 1. You MUST provide at least one reliable etymological source.
 2. The 'thinking_layer' MUST be a deep, philosophical, and poetic explanation in Japanese (minimum 250 words).
 3. The 'core_concept' in 'ja' should be a concise but beautiful essence of the word.
-4. Tone: Intellectual, scholarly, and premium.
+4. Provide the 'meaning' in Japanese (concise definition).
+5. Provide the 'part_of_speech' (noun, verb, adjective, etc.).
+6. Tone: Intellectual, scholarly, and premium.
 
 Structure:
 {{
     "id": "{word_lower}",
     "word": "{word_cap}",
+    "part_of_speech": "noun/verb/adjective",
+    "meaning": "日本語での簡潔な意味",
     "author": "etymon_official",
     "etymology": {{
         "breakdown": [
@@ -117,37 +122,16 @@ def get_existing_data() -> List[Dict]:
 
 def suggest_batch_words(existing_ids, count=10):
     """
-    知的単語と日常単語を混ぜて提案します。
+    日常的で語源が面白い単語を提案します。
     """
     suggestions = []
-    half = count // 2
     
-    # 1. 知的単語の選定
-    int_count = 0
-    for word in INTELLECTUAL_POOL:
-        if word.lower() not in existing_ids:
-            suggestions.append(word)
-            int_count += 1
-            if int_count >= half: break
-
-    if int_count < half:
-        needed = half - int_count
-        response = client.chat.completions.create(
-            model="gpt-4o",
-            messages=[
-                {"role": "system", "content": "Suggest deep, philosophical, or rare academic English words. Output ONLY comma-separated words."},
-                {"role": "user", "content": f"Exclude: {', '.join(existing_ids)}. Need {needed} words."}
-            ]
-        )
-        suggestions.extend([w.strip() for w in response.choices[0].message.content.split(',') if w.strip()])
-
-    # 2. 日常単語の選定
-    day_count = 0
-    for word in EVERYDAY_POOL:
+    # 既存のプールから日常単語を優先的に抽出
+    pool = EVERYDAY_POOL + INTELLECTUAL_POOL
+    for word in pool:
         if word.lower() not in existing_ids and word.lower() not in [s.lower() for s in suggestions]:
             suggestions.append(word)
-            day_count += 1
-            if day_count >= (count - len(suggestions) + day_count): break
+            if len(suggestions) >= count: break
 
     if len(suggestions) < count:
         needed = count - len(suggestions)
@@ -184,7 +168,7 @@ def main():
     if len(sys.argv) > 1 and sys.argv[1].isdigit():
         batch_count = int(sys.argv[1])
 
-    print(f"--- Task Scheduler Insight Mode: {batch_count} words (5 Deep, 5 Everyday) ---")
+    print(f"--- Task Scheduler Insight Mode: {batch_count} Everyday Words ---")
     
     existing_data = get_existing_data()
     existing_ids = [item.get("id").lower() for item in existing_data if item.get("id")]

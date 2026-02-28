@@ -83,6 +83,10 @@ async function renderToday() {
             <header class="word-header" style="position: relative;">
                 <span class="section-label">Word</span>
                 <h2 class="word-title" style="font-size: 3rem; margin: 0.5rem 0;">${word.word}</h2>
+                <div style="margin-bottom: 2rem; display: flex; gap: 1rem; align-items: center; opacity: 0.8;">
+                    ${word.part_of_speech ? `<span class="chip" style="font-style: italic; background: rgba(255,255,255,0.1); border: 1px solid var(--color-border); font-size: 0.8rem; padding: 0.3rem 0.8rem;">${word.part_of_speech}</span>` : ''}
+                    ${word.meaning ? `<span style="font-size: 1.1rem; color: var(--color-accent); font-weight: 500;">${word.meaning}</span>` : ''}
+                </div>
                 <div class="etymology-box">
                     <span class="section-label">Structure ${!State.isPremium ? '🔒' : ''}</span>
                     <div class="etymology-breakdown" style="font-size: 1.1rem; margin-top:0.5rem;">
