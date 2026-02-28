@@ -24210,5 +24210,50 @@ const WORDS = [
                 },
                 "source": "Online Etymology Dictionary",
                 "date": "2026-02-28"
+        },
+        {
+                "id": "pretty",
+                "word": "Pretty",
+                "part_of_speech": "adjective",
+                "meaning": "魅力的で美しい様子",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "pret-",
+                                        "type": "root",
+                                        "meaning": "精巧な",
+                                        "lang": "Old English"
+                                }
+                        ],
+                        "original_statement": "Derived from Middle English 'praty', itself from Old English 'prættig', meaning cunning or skillful."
+                },
+                "core_concept": {
+                        "en": "Aesthetic grace woven with gentle allure.",
+                        "ja": "優雅さと柔らかい魅力が織り交ぜられた美"
+                },
+                "thinking_layer": "『美しさとは何か』という問いは常に変化する。我々の目が捉えるものは時の流れと共に移り変わるが、その中で「美しい」という感覚は恐らく恒久的なものだろう。美とは視覚を超え、心の深淵に影を落とすものであり、時にそれは単なる外面的な魅力を超えた、心に響く音楽のようだ。「pretty」という言葉はその歴史的な起源においても、表面的な美にとどまらず、技術や才知を兼ね備えた存在を指していた。このことから、私たちが美と感じるものには、単なる見た目以上の意味があるかもしれない。野に咲く一輪の花が風に揺れる様子、それこそが「pretty」の真髄といえるだろう。それは、時代を超え、万国共通で崇められる美の一端であり、人の心の奥底に響く、自然の中に見出される美学だ。美とは、視覚的な喜びであると同時に、心を揺さぶる感情の旅なのだ。",
+                "synonyms": [
+                        "Beautiful",
+                        "Lovely"
+                ],
+                "antonyms": [
+                        "Ugly",
+                        "Unattractive"
+                ],
+                "aftertaste": "Beauty transcends mere appearance to touch the soul.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "prættig",
+                                        "meaning": "cunning, skillful"
+                                }
+                        ],
+                        "points": [
+                                "『pretty』の語源は、単なる視覚的な美を超えて、技巧や巧妙さを含んだ存在を表現していた点が興味深い。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-02-28"
         }
 ];
