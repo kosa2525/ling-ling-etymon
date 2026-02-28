@@ -26296,5 +26296,51 @@ const WORDS = [
                 "source": "The Oxford English Dictionary",
                 "date": "2026-03-01",
                 "era": "14th Century"
+        },
+        {
+                "id": "punch",
+                "word": "Punch",
+                "part_of_speech": "noun/verb",
+                "meaning": "パンチ、強く打つこと",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "pungere-",
+                                        "type": "root",
+                                        "meaning": "刺す",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'punch' likely originates from the Old French 'ponchier' or directly from the Latin 'pungere', meaning to prick or pierce, which evolved to imply a more forceful striking motion."
+                },
+                "core_concept": {
+                        "en": "The force in a moment, power crystallized in motion.",
+                        "ja": "一瞬の力、運動に結晶化された力。"
+                },
+                "thinking_layer": "パンチという言葉には、単なる物理的な打撃以上の意味がある。形而上的には、意志とエネルギーの集中がその一撃に表現されている。打撃を放つことは、内なる力が外界と交錯し、新たな現実を創造する行為である。静寂の中に潜む可能性が、力強く解き放たれるその瞬間こそが、パンチの本質である。その一撃は、時には境界を打ち破り、自我と他者との相互作用を生む。パンチは、自己の存在を他者に知らせる手段であると同時に、世界との対話を開始する合図でもある。パンチをすることは、宇宙の中で自身を証明する行為であり、内面の情熱が爆発的に外化する美しい瞬間である。実用性と美学を兼ね備えたこの動作は、時間と空間を超え、人類の歴史に刻まれる無数の一撃を通して、永遠に語り継がれるだろう。",
+                "synonyms": [
+                        "Strike",
+                        "Blow"
+                ],
+                "antonyms": [
+                        "Caress",
+                        "Soothe"
+                ],
+                "aftertaste": "In every punch lies the testament of unyielding presence.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "pungere",
+                                        "meaning": "to pierce"
+                                }
+                        ],
+                        "points": [
+                                "語源的に、パンチはラテン語の『pungere』から派生し、元来は刺すことを意味していた。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "Late Middle English"
         }
 ];
