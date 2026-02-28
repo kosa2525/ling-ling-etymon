@@ -156,7 +156,7 @@ async function renderToday() {
         </article>
     `;
 
-    if (State.isPremium) loadReflections(word.id);
+    loadReflections(word.id);
     document.querySelectorAll('.morpheme-link').forEach(l => l.onclick = () => { if (!State.isPremium) return navigate('premium'); State.searchFilter = l.dataset.term; navigate('archive'); });
 
     const trigger = document.getElementById('word-options-trigger');
@@ -196,57 +196,80 @@ function renderReflectionSection(targetId) {
 async function loadReflections(targetId) {
     const listEl = document.getElementById('reflection-list');
     if (!listEl) return;
-    const data = await apiGet(`/api/reflections/${targetId}?username=${State.currentUser || ''}`);
-    listEl.innerHTML = data.map(r => `
-        <div style="border-bottom: 1px solid rgba(255,255,255,0.05); padding: 2rem 0;">
-            <div style="display:flex; justify-content:space-between; font-size:0.9rem; margin-bottom:1rem; opacity:0.8;">
-                <div><b>${r.username}</b> <span class="dimmed">${r.date}</span></div>
-                <div class="ugc-actions" style="display:flex; gap:10px;">
-                    <button onclick="reportItem('reflection', ${r.id}, '${r.username}')" title="通報" style="background:none; border:none; cursor:pointer; opacity:0.5;">🚩</button>
-                    ${r.username !== State.currentUser ? `
-                        <button onclick="blockUser('${r.username}')" title="ブロック" style="background:none; border:none; cursor:pointer; opacity:0.5;">🚫</button>
-                    ` : ''}
-                    <button onclick="hideItem('reflection', ${r.id})" title="非表示" style="background:none; border:none; cursor:pointer; opacity:0.5;">👁️‍🗨️</button>
-                    ${State.isOperator ? `
-                        <button onclick="adminDeleteContent('reflection', ${r.id})" title="削除 (Admin)" style="background:none; border:none; cursor:pointer; opacity:0.5; color:red;">🗑️</button>
-                    ` : ''}
-                </div>
-            </div>
-            <p style="font-size:1.1rem; line-height: 1.7; margin-bottom: 1.5rem;">${r.content}</p>
-            <div style="margin-left: 2rem; border-left: 2px solid var(--color-accent); padding-left: 1.5rem;">
-                ${r.replies.map(rep => `
-                    <div style="font-size:0.95rem; margin-bottom:0.8rem; display:flex; justify-content:space-between;">
-                        <div><b style="opacity:0.6;">${rep.username}:</b> ${rep.content}</div>
-                        <div class="ugc-actions">
-                            <button onclick="reportItem('reply', ${rep.id}, '${rep.username}')" style="background:none; border:none; font-size:0.75rem; opacity:0.3; cursor:pointer;">🚩</button>
-                            <button onclick="hideItem('reply', ${rep.id})" style="background:none; border:none; font-size:0.75rem; opacity:0.3; cursor:pointer;">👁️‍🗨️</button>
-                            ${State.isOperator ? `<button onclick="adminDeleteContent('reply', ${rep.id})" style="background:none; border:none; font-size:0.75rem; opacity:0.3; cursor:pointer; color:red;">🗑️</button>` : ''}
+
+    // プレミアムならリストを読み込む
+    if (State.isPremium) {
+        try {
+            const data = await apiGet(`/api/reflections/${targetId}?username=${State.currentUser || ''}`);
+            listEl.innerHTML = data.map(r => `
+                <div style="border-bottom: 1px solid rgba(255,255,255,0.05); padding: 2rem 0;">
+                    <div style="display:flex; justify-content:space-between; font-size:0.9rem; margin-bottom:1rem; opacity:0.8;">
+                        <div><b>${r.username}</b> <span class="dimmed">${r.date}</span></div>
+                        <div class="ugc-actions" style="display:flex; gap:10px;">
+                            <button onclick="reportItem('reflection', ${r.id}, '${r.username}')" title="通報" style="background:none; border:none; cursor:pointer; opacity:0.5;">🚩</button>
+                            ${r.username !== State.currentUser ? `<button onclick="blockUser('${r.username}')" title="ブロック" style="background:none; border:none; cursor:pointer; opacity:0.5;">🚫</button>` : ''}
+                            <button onclick="hideItem('reflection', ${r.id})" title="非表示" style="background:none; border:none; cursor:pointer; opacity:0.5;">👁️‍🗨️</button>
+                            ${State.isOperator ? `<button onclick="adminDeleteContent('reflection', ${r.id})" title="削除 (Admin)" style="background:none; border:none; cursor:pointer; opacity:0.5; color:red;">🗑️</button>` : ''}
                         </div>
                     </div>
-                `).join('')}
-                <input type="text" placeholder="Add a Layer..." class="layer-input" data-rid="${r.id}" style="background:none; border:none; border-bottom: 1px solid var(--color-border); color:white; font-size:0.9rem; width:100%; outline:none; padding:8px 0; margin-top:0.5rem;">
-            </div>
-        </div>
-    `).join('') || '<p class="dimmed" style="text-align:center;">No reflections yet.</p>';
+                    <p style="font-size:1.1rem; line-height: 1.7; margin-bottom: 1.5rem;">${r.content}</p>
+                    <div style="margin-left: 2rem; border-left: 2px solid var(--color-accent); padding-left: 1.5rem;">
+                        ${r.replies.map(rep => `
+                            <div style="font-size:0.95rem; margin-bottom:0.8rem; display:flex; justify-content:space-between;">
+                                <div><b style="opacity:0.6;">${rep.username}:</b> ${rep.content}</div>
+                                <div class="ugc-actions">
+                                    <button onclick="reportItem('reply', ${rep.id}, '${rep.username}')" style="background:none; border:none; font-size:0.75rem; opacity:0.3; cursor:pointer;">🚩</button>
+                                    <button onclick="hideItem('reply', ${rep.id})" style="background:none; border:none; font-size:0.75rem; opacity:0.3; cursor:pointer;">👁️‍🗨️</button>
+                                    ${State.isOperator ? `<button onclick="adminDeleteContent('reply', ${rep.id})" style="background:none; border:none; font-size:0.75rem; opacity:0.3; cursor:pointer; color:red;">🗑️</button>` : ''}
+                                </div>
+                            </div>
+                        `).join('')}
+                        <input type="text" placeholder="Add a Layer..." class="layer-input" data-rid="${r.id}" style="background:none; border:none; border-bottom: 1px solid var(--color-border); color:white; font-size:0.9rem; width:100%; outline:none; padding:8px 0; margin-top:0.5rem;">
+                    </div>
+                </div>
+            `).join('') || '<p class="dimmed" style="text-align:center;">No reflections yet.</p>';
 
+            listEl.querySelectorAll('.layer-input').forEach(i => i.onkeypress = async (e) => {
+                if (e.key === 'Enter' && i.value.trim()) {
+                    if (!State.currentUser) return navigate('premium');
+                    await apiPost('/api/replies', { reflection_id: i.dataset.rid, username: State.currentUser, content: i.value });
+                    i.value = ''; loadReflections(targetId);
+                }
+            });
+        } catch (e) {
+            console.error("Failed to load reflections", e);
+        }
+    }
+
+    // フォームのセットアップ（プレミアムに関わらず常に行う）
+    setupReflectionForm(targetId);
+}
+
+function setupReflectionForm(targetId) {
     const refInput = document.getElementById('ref-input');
     const refSubmit = document.getElementById('ref-submit');
     const charCount = document.getElementById('char-count');
 
     if (refInput && refSubmit) {
+        // カウンターの初期化と入力イベント
         refInput.oninput = () => {
             const count = refInput.value.length;
-            charCount.textContent = `${count} / 300 characters`;
-            charCount.style.color = count >= 200 ? 'var(--color-accent)' : 'inherit';
-            charCount.style.opacity = count >= 200 ? '1' : '0.5';
+            if (charCount) {
+                charCount.textContent = `${count} / 300 characters`;
+                charCount.style.color = count >= 200 ? 'var(--color-accent)' : 'inherit';
+                charCount.style.opacity = count >= 200 ? '1' : '0.5';
+            }
         };
 
         refSubmit.onclick = async () => {
-            if (!State.currentUser) return navigate('premium');
+            if (!State.currentUser) {
+                showToast('ログインが必要です');
+                navigate('premium');
+                return;
+            }
             const content = refInput.value.trim();
-
             if (content.length < 200) {
-                showToast(`あと ${200 - content.length} 文字必要です（思考を深めるため200字以上推奨）`);
+                showToast(`あと ${200 - content.length} 文字必要です（200〜300字を推奨）`);
                 return;
             }
 
@@ -261,28 +284,26 @@ async function loadReflections(targetId) {
                 });
 
                 if (res.status === 'success') {
-                    showToast('思索がアーカイブに記録されました');
+                    showToast('思索が投稿されました。反映を確認しています...');
                     refInput.value = '';
-                    charCount.textContent = '0 / 300 characters';
-                    await loadReflections(targetId);
+                    if (charCount) charCount.textContent = '0 / 300 characters';
+                    // 再読み込み
+                    if (State.isPremium) {
+                        await loadReflections(targetId);
+                    } else {
+                        showToast('投稿完了。プレミアム登録すると他者の思索も閲覧できます。');
+                    }
                 } else {
-                    showToast('エラーが発生しました');
+                    showToast('投稿エラーが発生しました');
                 }
-            } catch (e) {
-                showToast('送信に失敗しました');
+            } catch (err) {
+                showToast('通信エラーが発生しました');
             } finally {
                 refSubmit.innerText = 'Publish Reflection';
                 refSubmit.disabled = false;
             }
         };
     }
-    listEl.querySelectorAll('.layer-input').forEach(i => i.onkeypress = async (e) => {
-        if (e.key === 'Enter' && i.value.trim()) {
-            if (!State.currentUser) return navigate('premium');
-            await apiPost('/api/replies', { reflection_id: i.dataset.rid, username: State.currentUser, content: i.value });
-            i.value = ''; loadReflections(targetId);
-        }
-    });
 }
 
 async function renderNotifications() {
