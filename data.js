@@ -24351,5 +24351,56 @@ const WORDS = [
                 },
                 "source": "Online Etymology Dictionary",
                 "date": "2026-02-28"
+        },
+        {
+                "id": "embarrass",
+                "word": "Embarrass",
+                "part_of_speech": "verb",
+                "meaning": "恥ずかしい思いをさせる",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "em-",
+                                        "type": "prefix",
+                                        "meaning": "巻き込む",
+                                        "lang": "Old French"
+                                },
+                                {
+                                        "text": "barra",
+                                        "type": "root",
+                                        "meaning": "障害、障壁",
+                                        "lang": "Spanish"
+                                }
+                        ],
+                        "original_statement": "Derived from the French 'embarrasser', ultimately tracing back to Vulgar Latin '*imbarrare', meaning to block or obstruct."
+                },
+                "core_concept": {
+                        "en": "To envelop one’s ease with chains of discomfort.",
+                        "ja": "人の安らぎを不快の鎖で巻き込むこと"
+                },
+                "thinking_layer": "人が恥ずかしいと感じるとき、それは自己と世界との間に見えない壁が立ちはだかる瞬間である。人類の存在の中で、恥という感情は、自らを鏡に映し出すように他者の目を通して自分自身を見る時に生まれる。この現象はまるで、心の中に潜む複雑な迷路の中で迷子になるようなものだ。恥ずかしさは単なる心理的な反応ではなく、思索者にとって、自由と抑制の微細なバランスに触れる経験である。自己の脆弱性と向き合う瞬間は、光と影の絶妙な踊りであり、内なる真実により近づくための通過儀礼とも言えよう。忘却の中に消え去ることなく、心の奥底に存在し続けるこの感情は、我々に人間の本質を問いかける鍵である。",
+                "synonyms": [
+                        "humiliate",
+                        "shame"
+                ],
+                "antonyms": [
+                        "praise",
+                        "commend"
+                ],
+                "aftertaste": "Embarrassment chains the soul with threads of one's own humanity.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "imbarrare",
+                                        "meaning": "to block, to impede"
+                                }
+                        ],
+                        "points": [
+                                "「印象を抑制する」や「心を閉じ込める」といった概念から派生している。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-02-28"
         }
 ];
