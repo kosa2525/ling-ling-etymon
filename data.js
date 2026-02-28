@@ -27576,5 +27576,57 @@ const WORDS = [
                 "source": "Etymology Online, Oxford English Dictionary",
                 "date": "2026-03-01",
                 "era": "Late Middle English"
+        },
+        {
+                "id": "loan",
+                "word": "Loan",
+                "part_of_speech": "noun/verb",
+                "meaning": "貸し付ける行為やそのもの",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "hlēn-",
+                                        "type": "root",
+                                        "meaning": "貸す",
+                                        "lang": "古英語"
+                                },
+                                {
+                                        "text": "hlǣn",
+                                        "type": "root",
+                                        "meaning": "借りる",
+                                        "lang": "古ノルド語"
+                                }
+                        ],
+                        "original_statement": "The word 'loan' traces back to Old English 'hlǣn' and related forms in Old Norse 'hlǣn', both implying the act of lending or borrowing."
+                },
+                "core_concept": {
+                        "en": "A trusted transference of hope and fulfillment.",
+                        "ja": "信頼に基づく希望と充足の受け渡し"
+                },
+                "thinking_layer": "借用とは、時間と空間を超えた信頼の交わりである。そして、その交わりは、人間社会の根幹を成す相互扶助の象徴的な顕れである。借り手と貸し手の間には見えない絆が生まれ、一方は助け合いの絆を築き、他方は未来への期待を託すのである。これはまた、文化的、歴史的に多様な形をとり、古今を問わず人間のコミュニケーションの一環として繰り返される永遠の儀式である。貸し借りは経済的な作用にとどまらず、人間同士の精神的な結びつき、社会的な安定を促す。私たちの身の回りの世界は、これらの目に見えない借用によって豊かになり、その恩恵を享受するために心を開く必要がある。信頼の中に芽生える、新たなる可能性をたたえた物語—それが『貸借』の本質である。",
+                "synonyms": [
+                        "lend",
+                        "advance"
+                ],
+                "antonyms": [
+                        "repay",
+                        "collect"
+                ],
+                "aftertaste": "Loan is the promise of today's trust fostered by tomorrow's potential.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "hlēn-",
+                                        "meaning": "to lend, borrow"
+                                }
+                        ],
+                        "points": [
+                                "言語学的にはインド・ヨーロッパ祖語に遡る語幹に関連があり、「貸与」と「信頼」の思想的な基盤を共有する。"
+                        ]
+                },
+                "source": "Oxford English Dictionary, etymonline.com",
+                "date": "2026-03-01",
+                "era": "Old English and Old Norse, circa 9th century"
         }
 ];
