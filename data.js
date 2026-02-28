@@ -27420,5 +27420,57 @@ const WORDS = [
                 "source": "Oxford English Dictionary",
                 "date": "2026-03-01",
                 "era": "15th Century"
+        },
+        {
+                "id": "bewilder",
+                "word": "Bewilder",
+                "part_of_speech": "verb",
+                "meaning": "混乱させる、迷わせる",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "be-",
+                                        "type": "prefix",
+                                        "meaning": "～にする",
+                                        "lang": "Old English"
+                                },
+                                {
+                                        "text": "wilder",
+                                        "type": "root",
+                                        "meaning": "迷う",
+                                        "lang": "Middle English"
+                                }
+                        ],
+                        "original_statement": "The word 'bewilder' originates from the prefix 'be-' meaning 'to affect completely,' paired with the Middle English 'wilder', from Old English 'wild', reflecting the sense of losing oneself in the wild."
+                },
+                "core_concept": {
+                        "en": "Lost in a labyrinth of emotions and thoughts.",
+                        "ja": "感情と思考の迷宮に迷うこと。"
+                },
+                "thinking_layer": "『迷う』という言葉は、単なる行動や思考の喪失ではない。それは心の奥深くで起こる共鳴のことだ。人生という広大な森の中で、自らの存在意義や進むべき方向を見失い、無限に広がる選択肢と可能性に囲まれたとき、人は『迷う』のである。しかし、この迷いは決して否定的なものであるとは限らない。混乱の中でこそ、人は自分自身の本質を見つける場合がある。茫然と立ち尽くすことで、普段は聞き逃す囁き声を聞くことができる。それは、無意識が知覚する真実の声。迷いの中で、新たな気づきや創造性が芽生え、これまでになかった視点や解決策が浮かび上がるのだ。こうして『迷う』ことは思索の海を旅することであり、最終的には自己発見の旅へと誘う行為である。無限の可能性の中に埋もれた宝を探し出すのが、我々の果たすべき使命なのかもしれない。この視点に立てば、迷うことは新たな世界を開く扉になるのだろう。",
+                "synonyms": [
+                        "Confuse",
+                        "Perplex"
+                ],
+                "antonyms": [
+                        "Clarify",
+                        "Illuminate"
+                ],
+                "aftertaste": "In the dance of confusion, one finds clarity.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "wild",
+                                        "meaning": "to be lost or untamed"
+                                }
+                        ],
+                        "points": [
+                                "『Bewilder』は、感情や思考の原野で道を見失うことによって自己探求の旅路を切り開く語である。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary and Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "17th Century"
         }
 ];
