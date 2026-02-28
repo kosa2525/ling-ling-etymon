@@ -26928,5 +26928,55 @@ const WORDS = [
                 "source": "Online Etymology Dictionary",
                 "date": "2026-03-01",
                 "era": "Late Latin, 14th Century"
+        },
+        {
+                "id": "lethargy",
+                "word": "Lethargy",
+                "part_of_speech": "noun",
+                "meaning": "怠さや無気力状態のこと",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "lēthargia",
+                                        "type": "root",
+                                        "meaning": "忘却、忘れっぽさ",
+                                        "lang": "古代ギリシャ語"
+                                }
+                        ],
+                        "original_statement": "The word 'lethargy' originated from the Greek 'lēthargia', a combination of 'lēthē', meaning forgetfulness, and 'argia', implying inactivity or idleness."
+                },
+                "core_concept": {
+                        "en": "A tranquil descent into the abyss of forgotten energies.",
+                        "ja": "忘れ去られたエネルギーの深淵への穏やかな下降"
+                },
+                "thinking_layer": "レタルギーとは、時間と記憶の背後に潜む穏やかな無の状態である。古代ギリシャにおいて、忘却を象徴するレテ川は、この感覚の源泉とされてきた。われわれは日々、過去の記憶に束縛され、未来への希望に縛られているが、レタルギーはその束縛からの解放を象徴する。そしてそれは、忍耐と無関心の微妙な交錯の上で、魂を解き放ち、熟考と冥想の時間を与える契機となる。何事にも関心が失われる時、古代の哲学者たちはレタルギーの美しさを見いだした。そのため、レタルギーは単なる無力感にとどまらず、存在の真髄に触れる扉を開くものである。この状態においては、心は静まり、思索の深層へと誘うのだ。忘却の中で再び出会う自己の片鱗は、生命を新たな視点から見つめ直すための宝物であると言えるだろう。",
+                "synonyms": [
+                        "Lassitude",
+                        "Inertia"
+                ],
+                "antonyms": [
+                        "Vigor",
+                        "Energy"
+                ],
+                "aftertaste": "Lethargy whispers the silent tunes of forgotten realms.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "lēthē",
+                                        "meaning": "forgetfulness"
+                                },
+                                {
+                                        "term": "argia",
+                                        "meaning": "idleness"
+                                }
+                        ],
+                        "points": [
+                                "レタルギーの語源は、古代ギリシャ語の忘却と怠惰の概念から成り立っている。これにより、動かぬ思考や行動としての象徴が生まれる。"
+                        ]
+                },
+                "source": "The Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Ancient Greek"
         }
 ];
