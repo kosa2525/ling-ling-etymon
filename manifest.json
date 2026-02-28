@@ -2,8 +2,10 @@
   "name": "ling-ling-etymon",
   "short_name": "Ling-Ling",
   "description": "語源を思考の構造として捉える知的学習アプリ",
-  "start_url": "/",
+  "start_url": "./index.html",
+  "scope": "/",
   "display": "standalone",
+  "orientation": "portrait",
   "background_color": "#0A192F",
   "theme_color": "#0A192F",
   "icons": [
