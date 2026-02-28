@@ -20792,5 +20792,48 @@ const WORDS = [
                 },
                 "source": "Oxford English Dictionary",
                 "date": "2026-02-28"
+        },
+        {
+                "id": "scapegoat",
+                "word": "Scapegoat",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "scapegoat",
+                                        "type": "prefix/root",
+                                        "meaning": "罪を負うヤギ",
+                                        "lang": "英語"
+                                }
+                        ],
+                        "original_statement": "The term 'scapegoat' originated from the Bible, wherein a goat was symbolically burdened with the sins of the people and driven into the wilderness."
+                },
+                "core_concept": {
+                        "en": "A symbolic bearer of unwarranted blame, wandering lonely to cleanse the sins of others.",
+                        "ja": "他者の罪を清めるために、望まずして非難を受ける象徴的な存在、孤独に彷徨う。"
+                },
+                "thinking_layer": "人類の歴史を見つめると、しばしば不当な責任を背負わされ、犠牲の羊として扱われる存在が浮かび上がる。それは罪や失敗、人々の不和の荷を背中に背負い、荒野の中へと放逐されるヤギの姿に重なる。我々の社会においても、個人や集団が不条理な形で非難され、その存在が心理的、社会的な役割を担っていることに気づく。 'scapegoat' という言葉は詩情豊かで、表面には見えない更なる真実を探る誘導となる。罪無き者が罰せられるという構図は、人間の深層心理を揺さぶり、その倫理観と共鳴する。何故、我々は scapegoat を必要とするのか？自己保存の本能がそれを語っているのかもしれない。人々が自身の心を浄化するために、他者を荒涼とした地へ追いやる。しかし、このような行為はその存在をより孤独にし、互いへの理解を遠ざけることになる。全体として、犠牲を払うことで一見無傷に見える社会の影には、犠牲者としての真実が潜んでいることも少なくない。この背後にある倫理的な問いと矛盾は、我々の生存が自然や他者との関係によって成り立っていることを再認識させる。同時に、自分以外の存在が我々にとっても、どれだけ大切なのかを感じさせる。こうした思考を巡らす時、我々は単なる観察者ではなく、scapegoat たちの一部でもあるのだ。現代においては scapegoat を単なる過去の概念として捉えるのではなく、今日の問題を読み解くための軸として捉えたい。",
+                "synonyms": [
+                        "Fall guy",
+                        "Victim"
+                ],
+                "antonyms": [
+                        "Beneficiary",
+                        "Accuser"
+                ],
+                "aftertaste": "In the relentless search for culprits, let us not overlook our own shared humanity.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "scapegoat",
+                                        "meaning": "罪を負うヤギ"
+                                }
+                        ],
+                        "points": [
+                                "scapegoat の概念は、人間の集団心理と常に絡み合う歴史を持つ。それは不当な扱いや犠牲の具現化であり、故に象徴的な意義を持つ。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-02-28"
         }
 ];
