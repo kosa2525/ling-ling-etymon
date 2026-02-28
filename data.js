@@ -27628,5 +27628,51 @@ const WORDS = [
                 "source": "Oxford English Dictionary, etymonline.com",
                 "date": "2026-03-01",
                 "era": "Old English and Old Norse, circa 9th century"
+        },
+        {
+                "id": "surf",
+                "word": "Surf",
+                "part_of_speech": "noun/verb",
+                "meaning": "波に乗る行為、波打ち際",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "surf-",
+                                        "type": "root",
+                                        "meaning": "波、海岸",
+                                        "lang": "English"
+                                }
+                        ],
+                        "original_statement": "The word 'surf' originated in the late 17th century, possibly derived from the obsolete 'suff', meaning 'the shoreward surge of the sea'."
+                },
+                "core_concept": {
+                        "en": "The eternal dance between sea and land, where human spirit meets nature's rhythm.",
+                        "ja": "海と陸の永遠の舞踏、人の精神が自然のリズムと出会う場"
+                },
+                "thinking_layer": "サーフという語は、海と人間の歴史に刻まれた一瞬の飛翔を象徴しています。その音韻の響きには、波のもたらす自然のリズムと、命の躍動が隠されています。海を滑ることは、単なるスポーツを超え、宇宙の一部としての自分自身を再認識する行為です。波の頂点は、時間の止まった瞬間、私たちが永遠の真理に触れる場所であり、そのような瞬間において、私たちは生命の大海原と一体化します。そして、サーファーとしての旅路は、内なる探求と一致し、自己の境界を超え、無限の可能性を求める精神の旅でもあります。海の無限の変化に順応し、一瞬一瞬を捉える行為は、我々の存在の儚さを映し出し、同時に、その過程を通じて感じる無限の可能性に満ちた開放感をも提供します。それは、自然と調和した生命の舞台であり、すべての波が語る物語なのです。",
+                "synonyms": [
+                        "ride",
+                        "tide"
+                ],
+                "antonyms": [
+                        "sink",
+                        "land"
+                ],
+                "aftertaste": "Surfing is the poetry of the ocean written upon waves.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "suffr",
+                                        "meaning": "the shoreward surge"
+                                }
+                        ],
+                        "points": [
+                                "波乗りという行為の伝統的背景は、古代の浜辺と人々の暮らしに深く結びついています。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "17th Century"
         }
 ];
