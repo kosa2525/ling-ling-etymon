@@ -27674,5 +27674,61 @@ const WORDS = [
                 "source": "Online Etymology Dictionary",
                 "date": "2026-03-01",
                 "era": "17th Century"
+        },
+        {
+                "id": "butter",
+                "word": "Butter",
+                "part_of_speech": "noun",
+                "meaning": "バターとして知られる乳製品",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "βούτυρον",
+                                        "type": "root",
+                                        "meaning": "牛",
+                                        "lang": "Ancient Greek"
+                                },
+                                {
+                                        "text": "butere",
+                                        "type": "root",
+                                        "meaning": "バター",
+                                        "lang": "Old English"
+                                }
+                        ],
+                        "original_statement": "The word 'butter' traces back to the ancient Greek word 'βούτυρον' (bouturon), which may have originally meant 'cow cheese' (from 'bous' meaning 'cow' and 'tyros' meaning 'cheese')."
+                },
+                "core_concept": {
+                        "en": "The essence of purity and transformation through churned cream.",
+                        "ja": "純粋さと攪乳による変容の本質"
+                },
+                "thinking_layer": "バターは、ただの食品ではなく、自然と時間の交錯から生まれる詩的な存在である。牛乳が豊かなクリームへと凝縮し、それがさらに攪乳機により丹念に練り上げられるとき、それは生命のサイクルを象徴している。バターが口の中で溶ける瞬間、我々は人間としての存在を超越し、過去と現在が一体となる。過去に牛が緑の草を噛みしめたその時間が、今、我々の舌に届くのである。このような食材は、食材以上の何かを喚起する力を持っている。それは時間を超えた物語の断片であり、また生命が続いてきた証でもある。この視点から見れば、バターは単なる食品ではなく、過去の記憶と現在の生活を結びつける媒介となり得る。",
+                "synonyms": [
+                        "margarine",
+                        "ghee"
+                ],
+                "antonyms": [
+                        "oil",
+                        "cream"
+                ],
+                "aftertaste": "Butter is the alchemy of simplicity and enrichment distilled through dairy magic.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "bous",
+                                        "meaning": "cow"
+                                },
+                                {
+                                        "term": "tyros",
+                                        "meaning": "cheese"
+                                }
+                        ],
+                        "points": [
+                                "バターの語源は古代ギリシャ語から由来し、牛とチーズの結合を意味し、農耕社会における重要性の象徴であるとも考えられる。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "Ancient Greek"
         }
 ];
