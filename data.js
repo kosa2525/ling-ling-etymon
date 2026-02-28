@@ -24300,5 +24300,56 @@ const WORDS = [
                 },
                 "source": "Online Etymology Dictionary",
                 "date": "2026-02-28"
+        },
+        {
+                "id": "adore",
+                "word": "Adore",
+                "part_of_speech": "verb",
+                "meaning": "崇拝する、愛慕する",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "ad-",
+                                        "type": "prefix",
+                                        "meaning": "方向・接近",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "orare",
+                                        "type": "root",
+                                        "meaning": "話す、祈る",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'adore' originates from Latin 'adorare', which combines 'ad' (to) and 'orare' (to speak, pray)."
+                },
+                "core_concept": {
+                        "en": "A profound reverence intertwined with affectionate devotion.",
+                        "ja": "深遠なる畏敬と愛情に結びついた献身"
+                },
+                "thinking_layer": "『崇拝』という言葉の裏には、人間の心の深淵な部分が存在する。それは単なる表面的な尊敬を超え、人の心に深く根付く無限の愛と尊敬の化身である。アドルの中には、自己を超えた存在や理想への無条件の愛が潜んでいる。人は、手の届かぬものに憧れ、自らの限界を超えようとするその瞬間に、崇拝の火花を心に灯す。それはまた、この世の不可思議を理解し、より大きな存在に身を委ねる人間の意識の表現でもある。崇拝とは、単に物理的な存在に向けられるものではなく、我々の中にある神聖なる何かと触れ合う行為であり、その心の振動が人の生を豊かに織り成す。崇拝の本質は、自己を超越し、愛と感謝の念で心を満たすことであり、自己の最奥の深遠さに触れることである。そしてその瞬間にこそ、言葉では表現できない感覚が我々を包み込むのである。",
+                "synonyms": [
+                        "Worship",
+                        "Revere"
+                ],
+                "antonyms": [
+                        "Despise",
+                        "Detest"
+                ],
+                "aftertaste": "To adore is to caress the divine with the fingertips of the heart.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "adorare",
+                                        "meaning": "to pray, to adore"
+                                }
+                        ],
+                        "points": [
+                                "『adore』はラテン語の『adorare』に起源を持ち、特に宗教的または精神的な文脈での使用が顕著である。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-02-28"
         }
 ];
