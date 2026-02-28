@@ -6,6 +6,7 @@ import os
 import json
 import re
 from datetime import datetime
+import random
 try:
     import psycopg2
     from psycopg2.extras import DictCursor
@@ -679,31 +680,42 @@ def get_word_network():
         with open(DATA_JS_PATH, 'r', encoding='utf-8') as f:
             content = f.read()
             match = re.search(r'const\s+WORDS\s*=\s*(\[.*?\])\s*;?\s*$', content, re.DOTALL)
-            words = json.loads(match.group(1)) if match else []
+            all_words = json.loads(match.group(1)) if match else []
 
-        # 語根(root)ごとに単語をグループ化
+        # 語根(root)や接頭辞(prefix)ごとに単語をグループ化
         root_map = {}
-        for w in words:
+        for w in all_words:
             for b in w.get('etymology', {}).get('breakdown', []):
-                if b.get('type') == 'root' or 'root' in b.get('type', ''):
-                    root_text = b.get('text', '').lower().replace('-', '')
+                b_type = b.get('type', '').lower()
+                if 'root' in b_type or 'prefix' in b_type:
+                    root_text = b.get('text', '').lower().replace('-', '').strip()
+                    if not root_text: continue
                     if root_text not in root_map: root_map[root_text] = []
                     root_map[root_text].append(w['word'])
+        
+        # 繋がり（2つ以上登録されているもの）がある語根だけを抽出
+        valid_roots = {r: words for r, words in root_map.items() if len(words) >= 2}
+        
+        # 該当する語根が多すぎる場合はランダムに選ぶ（上限200クラスタ）
+        root_keys = list(valid_roots.keys())
+        if len(root_keys) > 200:
+            root_keys = random.sample(root_keys, 200)
         
         # ネットワーク用データ（ノードとエッジ）
         nodes = []
         edges = []
         seen_words = set()
         
-        for root, related_words in root_map.items():
-            if len(related_words) > 1: # 繋がりがあるものだけ
-                root_id = f"root_{root}"
-                nodes.append({"id": root_id, "label": root, "group": "root"})
-                for rw in related_words:
-                    if rw not in seen_words:
-                        nodes.append({"id": rw, "label": rw, "group": "word"})
-                        seen_words.add(rw)
-                    edges.append({"from": root_id, "to": rw})
+        for root in root_keys:
+            related_words = valid_roots[root]
+            root_id = f"root_{root}"
+            nodes.append({"id": root_id, "label": root, "group": "root"})
+            
+            for rw in related_words:
+                if rw not in seen_words:
+                    nodes.append({"id": rw, "label": rw, "group": "word"})
+                    seen_words.add(rw)
+                edges.append({"from": root_id, "to": rw})
                     
         return jsonify(nodes=nodes, edges=edges)
     except Exception as e:
