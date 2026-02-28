@@ -22980,5 +22980,50 @@ const WORDS = [
                 },
                 "source": "Oxford English Dictionary",
                 "date": "2026-02-28"
+        },
+        {
+                "id": "street",
+                "word": "Street",
+                "part_of_speech": "noun",
+                "meaning": "通り、道路",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "strāt-",
+                                        "type": "root",
+                                        "meaning": "舗装された",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'street' originates from the Latin 'strāta', meaning 'paved way'. It entered Old English as 'stræt'."
+                },
+                "core_concept": {
+                        "en": "A channel carved through the earth for human passage.",
+                        "ja": "人々の通行のために大地に刻まれた道"
+                },
+                "thinking_layer": "街路とは、都市の身体に縫われた傷跡であり、そこを行き交う人々の無数の物語が染み込んでいる。人々が行き交うこの通りは、時間と記憶を運ぶ輸送帯であり、我々はしばしばその道の先に何があるのかを思い描く。しかし、通りとは単なる物理的な道ではなく、社会的な交差点であり、文化がぶつかり合い融合する場でもある。それは孤独と連帯が共存する空間であり、個々の歩みが集団の動きと調和しながら進化する。舗装された地面の下には、かつての時代の記憶が眠っており、表面上の忙しさとは対照的に、歴史の静寂が横たわっている。私たちの日常の一部であるこの道は、何気ない瞬間に詩的な深みを持たせ、未知なるものへの道を指し示す。人生は道を通りながら形成され、その道筋は我々の心の中に静かに刻まれている。この通りの本質を知ることで、我々は新たな観点から文明の営みを見つめ直すのである。",
+                "synonyms": [
+                        "Road",
+                        "Avenue"
+                ],
+                "antonyms": [
+                        "Path",
+                        "Trail"
+                ],
+                "aftertaste": "Through the streets, history whispers in silent echoes.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "strāt",
+                                        "meaning": "paved way"
+                                }
+                        ],
+                        "points": [
+                                "ストリートという言葉は、ラテン語の「strāta」から来ており、古英語では「stræt」として登場しました。それは、舗装された道を意味し、献身的な手作業によって石が丁寧に敷き詰められたことを想起させます。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-02-28"
         }
 ];
