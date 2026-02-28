@@ -20621,5 +20621,176 @@ const WORDS = [
                 },
                 "source": "Online Etymology Dictionary",
                 "date": "2026-02-28"
+        },
+        {
+                "id": "existentialism",
+                "word": "Existentialism",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "exist-",
+                                        "type": "root",
+                                        "meaning": "存在",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "-ential",
+                                        "type": "suffix",
+                                        "meaning": "に関する",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "-ism",
+                                        "type": "suffix",
+                                        "meaning": "主義",
+                                        "lang": "Greek"
+                                }
+                        ],
+                        "original_statement": "The term 'existentialism' emerged in the mid-20th century, primarily through the works of philosophers such as Jean-Paul Sartre and Simone de Beauvoir, encapsulating themes of human freedom, choice, and the search for meaning."
+                },
+                "core_concept": {
+                        "en": "Existentialism dances in the delicate balance between anguish and liberation, where freedom whispers to the soul's deepest yearning for meaning.",
+                        "ja": "存在主義は、苦悩と解放の狭間で踊り、自由が魂の奥底にある意味を求める切なる渇望に囁きかける。"
+                },
+                "thinking_layer": "存在主義、それは自由の鋭い刃の上で生を舞うこと。人間はこの広大な宇宙の中で、何者でもなく、何かであることを選択する自由を持つ。暗示的な無限の空間の中で、行動、決定、時間の限りない連鎖が続く中、人は自己を形成し、発見する。存在すること、それは物理的な現象ではなく、瞬間瞬間に方向を指し示す生活の選択の積み重ねである。何も確実でないが、何も無意味でないこの世界で、存在主義は、人間の内的な解放と心の中の孤独の改革の道へと誘う。これが人生の舞台であり、己の指針を灯す火を見つける旅路である。無限の星空に漂う存在、その息吹一つ一つが世界に新たな光を放つ芸術作品と化す。そこに深い自己発見の道、魂の探求が広がる。",
+                "synonyms": [
+                        "Phenomenology",
+                        "Nihilism"
+                ],
+                "antonyms": [
+                        "Essentialism",
+                        "Determinism"
+                ],
+                "aftertaste": "In the vast theater of the cosmos, existentialism whispers the chorus of freedom to the seeking heart.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "existere",
+                                        "meaning": "to emerge, to stand out"
+                                }
+                        ],
+                        "points": [
+                                "この言葉は苦難と自由、個人の経験に関する深い哲学的探求から生まれる。存在することは、他者との関係性の中でしか見出せない自己の成り行きである。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-02-28"
+        },
+        {
+                "id": "panopticism",
+                "word": "Panopticism",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "pan-",
+                                        "type": "prefix",
+                                        "meaning": "すべて",
+                                        "lang": "ギリシャ語"
+                                },
+                                {
+                                        "text": "optic-",
+                                        "type": "root",
+                                        "meaning": "見ること",
+                                        "lang": "ギリシャ語"
+                                },
+                                {
+                                        "text": "-ism",
+                                        "type": "suffix",
+                                        "meaning": "-主義",
+                                        "lang": "英語"
+                                }
+                        ],
+                        "original_statement": "The term originates from the concept of the Panopticon, an architectural design by Jeremy Bentham, which was later expanded upon by Michel Foucault to describe a disciplinary mechanism of surveillance."
+                },
+                "core_concept": {
+                        "en": "The omnipresent gaze that subtly governs, a light unseen yet profoundly felt.",
+                        "ja": "遍在する視線の中で、世の隅々を見渡す目のない光、そして深く感じ取られる影響。"
+                },
+                "thinking_layer": "『パノプティシズム』とは、現代社会における監視のメタファーとして理解することができます。フーコーにより提示されたこの概念は、権力の行使が見えない形で、しかし確実に日常の隅々にまで及ぶ様を詩的に示唆しています。まるで神話のパノプテスの如く、権力は観察のための目をどこにでも置き、一つの閉鎖された空間に潜むかのようです。この全能の視線は、見られる者の心に無言の影響を落とし、自由意志をゆっくりと包み込む。しかも、その意図は声に出すことなく、日常を操作する優雅な手段として、暗黙の了解として受け入れられています。見えない光のもとで自己を形成する現代の個人は、その中で自己の存在意義をも探るのです。結局、見られることの恐れと、その全体像が見えない不安の中で、真の自己理解が浮かび上がる。その儚さの中で、人々は自分の中の闇を見つめ、新たな自由の形を模索します。",
+                "synonyms": [
+                        "Surveillance",
+                        "Observation"
+                ],
+                "antonyms": [
+                        "Freedom",
+                        "Privacy"
+                ],
+                "aftertaste": "An unseen presence governs with silent omnipotence.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "pan",
+                                        "meaning": "all"
+                                },
+                                {
+                                        "term": "optic",
+                                        "meaning": "seeing"
+                                },
+                                {
+                                        "term": "ism",
+                                        "meaning": "belief or system"
+                                }
+                        ],
+                        "points": [
+                                "『パノプティシズム』は、光と影のバランスを象徴し、己の姿を他者に投影する行為を通じて封じ込められた自由を探る。"
+                        ]
+                },
+                "source": "Foucault, Michel. 'Discipline and Punish: The Birth of the Prison'.",
+                "date": "2026-02-28"
+        },
+        {
+                "id": "ichthyosaur.",
+                "word": "Ichthyosaur.",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "ichthyos-",
+                                        "type": "prefix",
+                                        "meaning": "魚",
+                                        "lang": "ギリシャ語"
+                                },
+                                {
+                                        "text": "saur-",
+                                        "type": "root",
+                                        "meaning": "トカゲ",
+                                        "lang": "ギリシャ語"
+                                }
+                        ],
+                        "original_statement": "Ichthyosaur originates from the Greek words 'ichthys', meaning 'fish', and 'sauros', meaning 'lizard'."
+                },
+                "core_concept": {
+                        "en": "A graceful relic swimming through time, bridging the depths of prehistoric seas and modern discovery.",
+                        "ja": "悠久の海を泳ぎ続ける優雅な遺物、古代と現代の発見を繋ぐ紐帯。"
+                },
+                "thinking_layer": "イチチオサウルス—その名は魚とトカゲの融合であり、両者が時空を超越して出会う神秘性を備えている。それは進化の壮大な物語の一部であり、生と死の狭間を泳ぐ存在の象徴である。かつて海の覇者として君臨した彼らは、今や石化した記憶となり、我々の好奇心を刺激する。彼らはただ過去の化石というだけでなく、生物多様性と適応の力強さを物語る、生態系の消えざる声となっている。深い海で出会う静かな瞬間、その眼を通して見えるのは、宇宙の創造の揺りかごに帰るという意識であり、時間の無限の流れを感じ取ることだ。イチチオサウルスは忘却の岩石の中、何百万年もの歴史の潮流を超え、我々へと語りかける。自然の不変の法則に則って、再び姿を現す時を待ちながら、永遠の眠りにつく。それは海に留まらず、我々の内なる未知の海をも揺るがす。",
+                "synonyms": [
+                        "Ichthyopterygia",
+                        "Marine reptile"
+                ],
+                "antonyms": [
+                        "Terrestrial",
+                        "Avian"
+                ],
+                "aftertaste": "The ichthyosaur echoes the whispered mysteries of ancient waters.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "ichthys",
+                                        "meaning": "fish"
+                                },
+                                {
+                                        "term": "sauros",
+                                        "meaning": "lizard"
+                                }
+                        ],
+                        "points": [
+                                "イチチオサウルスは、ギリシャ語の語根を軸に進化の軌跡を示す単語で、海洋生物としての特性を反映している。彼らの名前には、恐竜の消失とは異なる独自の進化の物語が刻まれている。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-02-28"
         }
 ];
