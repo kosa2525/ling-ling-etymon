@@ -26194,5 +26194,55 @@ const WORDS = [
                 "source": "Oxford English Dictionary",
                 "date": "2026-03-01",
                 "era": "14th Century"
+        },
+        {
+                "id": "pedigree",
+                "word": "Pedigree",
+                "part_of_speech": "noun",
+                "meaning": "血統書、系統",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "pied de grue",
+                                        "type": "root",
+                                        "meaning": "鶴の足",
+                                        "lang": "Middle French"
+                                }
+                        ],
+                        "original_statement": "Originates from Middle English 'pedegru' meaning 'genealogical chart', tracing back to Middle French 'pied de grue', literally 'foot of a crane', from the resemblance of the forked lines of a genealogical chart to the branching of a crane's foot."
+                },
+                "core_concept": {
+                        "en": "A web of lineage spanning the tapestry of ancestry and time.",
+                        "ja": "血統と時間の織物に渡る系譜の網"
+                },
+                "thinking_layer": "『血統』という言葉は、先祖から未来へと続く不可視の糸によって編まれた壮大な物語を私たちに思い起こさせます。この概念は、時間と空間を超えて存在し、私たちの存在が無数の出会いや別れ、思考や感情によって形作られていることを象徴しています。宇宙の中で私たちが置かれた位置を理解しようとする試みとして、血統は私たちのアイデンティティの深層に潜む問いへの旅へと導いてくれます。血統とは単なる遺伝の系譜ではなく、私たちが今までに繋がり、今後も繋がっていくであろう生命の流動的な連鎖を映し出す鏡です。血統は私たちを過去や未来のことだけでなく、現在においても意味づける要素であり、私たちの生の航海に新たな視座を与えるのです。私たちが互いに紡ぐ物語の響きが、それぞれの人生にどのように影響を及ぼすかを深く感じ取りながら、血統の概念は、普遍的な人間の旅の核心を成しています。",
+                "synonyms": [
+                        "lineage",
+                        "ancestry"
+                ],
+                "antonyms": [
+                        "disconnection",
+                        "separation"
+                ],
+                "aftertaste": "Pedigree is the whisper of history echoing through our veins.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "pied",
+                                        "meaning": "foot"
+                                },
+                                {
+                                        "term": "grue",
+                                        "meaning": "crane"
+                                }
+                        ],
+                        "points": [
+                                "語源的には、系図の分岐が鶴の足のように見えることから「鶴の足」となりました。この比喩は、中世フランス語の詩的な感性をもたらし、視覚的なイメージで家系図を表現しています。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "Middle Ages, 15th Century"
         }
 ];
