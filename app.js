@@ -905,9 +905,11 @@ async function renderWordNetwork() {
         <div class="network-view fade-in" style="height: calc(100vh - 200px); position:relative;">
             <h3 class="section-label" style="text-align:center; padding-top:2rem;">Etymological Network</h3>
             <div id="network-graph" style="height:100%; width:100%;"></div>
-            <div style="position:absolute; bottom:20px; left:20px; background:var(--color-surface); padding:1rem; border-radius:12px; border:1px solid var(--color-border); font-size:0.8rem; opacity:0.9; line-height:1.6; z-index:10;">
-                <div style="display:flex; align-items:center; gap:8px;"><span style="width:12px; height:12px; background:#3b82f6; border-radius:50%; display:inline-block;"></span> 🔵 Word</div>
-                <div style="display:flex; align-items:center; gap:8px;"><span style="width:12px; height:12px; background:#f59e0b; border-radius:50%; display:inline-block;"></span> 🟡 Root / Prefix</div>
+            <div style="position:absolute; bottom:20px; left:20px; background:var(--color-surface); padding:1.2rem; border-radius:16px; border:1px solid var(--color-border); font-size:0.8rem; opacity:0.95; line-height:1.7; z-index:10; box-shadow: 0 4px 20px rgba(0,0,0,0.3);">
+                <div style="font-weight:bold; margin-bottom:0.5rem; border-bottom:1px solid var(--color-border); padding-bottom:0.3rem;">Legend</div>
+                <div style="display:flex; align-items:center; gap:8px;"><span style="width:12px; height:12px; background:#3b82f6; border-radius:50%; display:inline-block;"></span> 🔵 Word (Click to view)</div>
+                <div style="display:flex; align-items:center; gap:8px;"><span style="width:12px; height:12px; background:#f59e0b; border-radius:50%; display:inline-block;"></span> 🟡 Root (Click to search)</div>
+                <div style="display:flex; align-items:center; gap:8px;"><span style="width:12px; height:12px; background:#10b981; border-radius:50%; display:inline-block;"></span> 🟢 Prefix (Click to search)</div>
             </div>
         </div>
     `;
@@ -915,10 +917,10 @@ async function renderWordNetwork() {
     const container = document.getElementById('network-graph');
     const nodes = new vis.DataSet(data.nodes.map(n => ({
         ...n,
-        color: n.group === 'root' ? '#f59e0b' : '#3b82f6',
-        font: { color: '#ffffff' },
+        color: n.group === 'root' ? '#f59e0b' : (n.group === 'prefix' ? '#10b981' : '#3b82f6'),
+        font: { color: '#ffffff', size: 14, strokeWidth: 2, strokeColor: '#000000' },
         shape: 'dot',
-        size: n.group === 'root' ? 25 : 15
+        size: n.group === 'word' ? 15 : 25
     })));
     const edges = new vis.DataSet(data.edges);
     const options = {
@@ -930,7 +932,7 @@ async function renderWordNetwork() {
         if (params.nodes.length > 0) {
             const nodeId = params.nodes[0];
             const nodeData = nodes.get(nodeId);
-            if (nodeData && nodeData.group === 'root') {
+            if (nodeData && (nodeData.group === 'root' || nodeData.group === 'prefix')) {
                 searchToArchive(nodeData.label);
             } else {
                 const word = (typeof WORDS !== 'undefined') ? WORDS.find(w => w.word === nodeId) : null;

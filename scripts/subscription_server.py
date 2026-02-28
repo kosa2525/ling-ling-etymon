@@ -700,6 +700,7 @@ def get_word_network():
 
         # 語根(root)や接頭辞(prefix)ごとに単語をグループ化
         root_map = {}
+        type_map = {} # パーツがrootかprefixか保持
         for w in all_words:
             for b in w.get('etymology', {}).get('breakdown', []):
                 b_type = b.get('type', '').lower()
@@ -708,6 +709,10 @@ def get_word_network():
                     if not root_text: continue
                     if root_text not in root_map: root_map[root_text] = []
                     root_map[root_text].append(w['word'])
+                    # 優先順位: rootを優先（一つの節が複数タイプを持つ場合）
+                    current_type = type_map.get(root_text, 'prefix')
+                    if 'root' in b_type: type_map[root_text] = 'root'
+                    else: type_map[root_text] = current_type
         
         # 繋がり（2つ以上登録されているもの）がある語根だけを抽出
         valid_roots = {r: words for r, words in root_map.items() if len(words) >= 2}
@@ -725,14 +730,23 @@ def get_word_network():
         for root in root_keys:
             related_words = valid_roots[root]
             root_id = f"root_{root}"
-            # 語根か接頭辞か判定（簡易的に元データから判別するか、ここでは一括で管理しているがラベルで分ける）
-            # root_map作成時にb_typeを保持するように修正が必要だが、一旦シンプルにrootとして出すか、
-            # 汎用的にパーツとして出す。
-            nodes.append({"id": root_id, "label": root, "group": "root"})
+            r_type = type_map.get(root, 'root')
+            
+            nodes.append({
+                "id": root_id, 
+                "label": root, 
+                "group": r_type, 
+                "title": f"{r_type.capitalize()}: {root} (Connected to {len(related_words)} words)"
+            })
             
             for rw in related_words:
                 if rw not in seen_words:
-                    nodes.append({"id": rw, "label": rw, "group": "word"})
+                    nodes.append({
+                        "id": rw, 
+                        "label": rw, 
+                        "group": "word",
+                        "title": f"Word: {rw}"
+                    })
                     seen_words.add(rw)
                 edges.append({"from": root_id, "to": rw})
                     
