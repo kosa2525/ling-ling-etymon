@@ -26722,5 +26722,51 @@ const WORDS = [
                 "source": "Oxford English Dictionary",
                 "date": "2026-03-01",
                 "era": "19th Century"
+        },
+        {
+                "id": "bedlam",
+                "word": "Bedlam",
+                "part_of_speech": "noun",
+                "meaning": "混乱した状況や騒がしい場所",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "Bethlehem-",
+                                        "type": "root",
+                                        "meaning": "ベツレヘム（聖なる家）",
+                                        "lang": "Middle English"
+                                }
+                        ],
+                        "original_statement": "The term 'bedlam' originates from the Hospital of St. Mary of Bethlehem in London, which became known for housing the insane. It evolved into a word meaning chaos or uproar."
+                },
+                "core_concept": {
+                        "en": "A cacophony of chaos born from the whispers of ancient walls.",
+                        "ja": "古の壁の囁きから生まれた混沌のカコフォニー"
+                },
+                "thinking_layer": "ベツレヘム病院という名は、歴史の影の中で精神の混乱と抱擁されし場所として知られた。この心の揺れ動きは、病と精神の境界にある患者の叫びに耳を傾けるための場所を提供した。しかし、そこでのつらい時間や体験を超えて、ベツレヘムの名前は変容を遂げ、精神の奥深くに潜むカオスを表す言葉『bedlam』として広く知られていく。心の中にある秩序と混乱の永遠の闘争が、この単語に象徴されていると言えるだろう。それは、静寂を求めながらも心の奥底で静かに叫ぶ魂の声である。私たちの存在自体が調和とカオスの絶え間ないダンスであることを教えてくれる。このようにして、この言葉は個の内面と社会の両面における絶え間ない激動と静寂のクロスロードで輝く不滅の息吹を体現している。心のシナプスを織り成す混乱の中に、静寂の一片を見出すことができる。",
+                "synonyms": [
+                        "mayhem",
+                        "chaos"
+                ],
+                "antonyms": [
+                        "order",
+                        "calm"
+                ],
+                "aftertaste": "From order emerges chaos, and bedlam reigns supreme.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "bedlam",
+                                        "meaning": "chaos, uproar"
+                                }
+                        ],
+                        "points": [
+                                "ベツレヘム病院は、もともと精神病院として悪名を馳せ、社会的な混乱と対比されるようになった。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "14th Century"
         }
 ];
