@@ -25546,5 +25546,51 @@ const WORDS = [
                 "source": "Oxford English Dictionary",
                 "date": "2026-02-28",
                 "era": "Old English"
+        },
+        {
+                "id": "genuine",
+                "word": "Genuine",
+                "part_of_speech": "adjective",
+                "meaning": "本物の、偽りのない",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "genu-",
+                                        "type": "root",
+                                        "meaning": "生まれによる、本当の",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "Derived from the Latin word 'genuinus', meaning 'natural' or 'properly so-called', it carries the connotation of being from birth or authentic."
+                },
+                "core_concept": {
+                        "en": "The essence of truth without guise, unmasked and pure.",
+                        "ja": "真実の本質、隠されず、純粋なまま。"
+                },
+                "thinking_layer": "「本物」という言葉は、私たちの存在の根底を探求するための哲学的な旅に誘います。この言葉は、まるで魂の静けさと静寂の中で響く真実の音楽のように、私たちを包み込みます。『本物』であることは、仮面を外し、自分自身の核心に立ち返ること。偽りや装飾を排し、自分の中に眠る純粋な輝きを認め、受け入れること。それはまた、他者との関係においても重要な役割を果たします。真実をもって他者と関わることで、深く、意味のある絆が育まれるのです。そして、この『本物』という概念は、時に痛みを伴うかもしれません。なぜなら、私たちの中にある真実は、常に美しいとは限らず、時に不格好で、直視しづらいものだからです。しかし、その真実と向き合うことでのみ、私たちは本当に自由になれるのです。この世には多くの幻影や仮面がありますが、その中で輝く『本物』の光は我々を導き、心に平和と満足をもたらすものです。",
+                "synonyms": [
+                        "Authentic",
+                        "Real"
+                ],
+                "antonyms": [
+                        "False",
+                        "Fake"
+                ],
+                "aftertaste": "Authenticity illuminates the path to inner peace.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "genu-",
+                                        "meaning": "born, natural"
+                                }
+                        ],
+                        "points": [
+                                "この語のラテン語起源は、『出生』や『生まれつき』という意味を持つが、時を経て『偽りのない』『真実』という概念に発展した。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-02-28",
+                "era": "16th Century"
         }
 ];
