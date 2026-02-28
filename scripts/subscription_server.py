@@ -7,6 +7,7 @@ import json
 import re
 from datetime import datetime
 import random
+import hashlib
 try:
     import psycopg2
     from psycopg2.extras import DictCursor
@@ -662,6 +663,16 @@ def get_tts():
         return jsonify(status="error", message="No text provided"), 400
 
     try:
+        # キャッシュの確認
+        text_hash = hashlib.md5(text.encode('utf-8')).hexdigest()
+        cache_dir = os.path.join(os.path.dirname(__file__), 'tts_cache')
+        os.makedirs(cache_dir, exist_ok=True)
+        cache_path = os.path.join(cache_dir, f"{text_hash}.mp3")
+
+        if os.path.exists(cache_path):
+            with open(cache_path, 'rb') as f:
+                return f.read(), 200, {'Content-Type': 'audio/mpeg'}
+
         from openai import OpenAI
         client = OpenAI(api_key=os.environ.get("OPENAI_API_KEY"))
         # 'echo' voice is a deep, calm male voice
@@ -670,6 +681,11 @@ def get_tts():
             voice="echo", 
             input=text[:4000] # Limit length
         )
+        
+        # 結果をキャッシュに保存
+        with open(cache_path, 'wb') as f:
+            f.write(response.content)
+            
         return response.content, 200, {'Content-Type': 'audio/mpeg'}
     except Exception as e:
         return jsonify(status="error", message=str(e)), 500
