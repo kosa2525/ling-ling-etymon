@@ -24604,5 +24604,51 @@ const WORDS = [
                 },
                 "source": "Online Etymology Dictionary",
                 "date": "2026-02-28"
+        },
+        {
+                "id": "jump",
+                "word": "Jump",
+                "part_of_speech": "noun/verb",
+                "meaning": "跳ぶ、飛び跳ねること",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "ジャムプ-（強い動作や移動）",
+                                        "type": "root",
+                                        "meaning": "勢いのある行動",
+                                        "lang": "Middle English"
+                                }
+                        ],
+                        "original_statement": "The word 'jump' likely originated from the Middle English 'jumpe', a variant form related to 'jumpen', signifying a sudden movement or a leap."
+                },
+                "core_concept": {
+                        "en": "A sudden ascent between the ordinary and the extraordinary.",
+                        "ja": "通常と非凡の間の突然の飛躍"
+                },
+                "thinking_layer": "跳ぶという行為は、ただの物理的な移動を超えて、人間の願望や可能性を象徴する。跳び上がる時、人は重力の束縛を一瞬忘れ、無限の天空に思いを馳せることができる。空を見上げ、足元を離れ、心は自由を感じる。その刹那の感覚は、時に恐れを伴いつつも、希望と喜びの瞬間でもある。跳ぶことで、新たな視点を得たり、未知の世界へ足を踏み入れることができるかもしれない。身体が空中にあるとき、自分の中の何かが解放され、限界を超えられるという感覚が芽生える。それゆえに、跳ぶことはただの身体的な行動ではなく、心の冒険でもある。静から動へ、地から天へ、現実から夢へと、跳ぶことによって人生の一部が再解釈される。それはまた、挑戦と冒険のメタファーでもあり、多くの文化において、この行為は歓喜と儀式とに満ちたものとして語られている。",
+                "synonyms": [
+                        "Leap",
+                        "Bound"
+                ],
+                "antonyms": [
+                        "Fall",
+                        "Land"
+                ],
+                "aftertaste": "A leap is a movement both inward and outward.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "jumpe",
+                                        "meaning": "a sudden, vigorous movement"
+                                }
+                        ],
+                        "points": [
+                                "跳ぶという行為の語源は、動的で力強い移動を示す中英語に由来しているとも言われており、その背景には好奇心の象徴としての物理的な動きが見え隠れしている。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-02-28",
+                "era": "Middle English"
         }
 ];
