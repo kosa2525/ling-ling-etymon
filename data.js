@@ -26870,5 +26870,63 @@ const WORDS = [
                 "source": "Oxford English Dictionary",
                 "date": "2026-03-01",
                 "era": "19th Century"
+        },
+        {
+                "id": "infuriate",
+                "word": "Infuriate",
+                "part_of_speech": "verb",
+                "meaning": "激怒させる",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "in-",
+                                        "type": "prefix",
+                                        "meaning": "中に",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "furia",
+                                        "type": "root",
+                                        "meaning": "激怒",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "-ate",
+                                        "type": "suffix",
+                                        "meaning": "〜にする",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "Derived from Latin 'infuriāre', meaning to enrage, from 'furia'."
+                },
+                "core_concept": {
+                        "en": "A flame igniting the soul to a blaze of wrath.",
+                        "ja": "魂を怒りの炎で燃え立たせる"
+                },
+                "thinking_layer": "怒りとは、人間の心と魂の深層に潜むエネルギーの爆発である。それは感情の火山であり、その伏流は静かながらも力強く、時に必然的に噴火する。この瞬間、一瞬の熱が理性の冷静さを覆い隠し、制御不可能な力となって噴出する。怒りの持つ激しさはしばしば破壊的だが、同時にその背後には深い悲しみや恐れがあることも多い。怒りに駆られた心は往々にしてその内なる不安を癒し、自己の存在を確認したいという切実な欲求の表れである。怒りの先には解放が待ち受けるが、その過程は自己理解を伴わなければ真の解放とはなり得ない。この意味で、怒りはただの感情ではなく、自己探求のための試金石ともなり得るのである。再び静寂に戻るその時、私たちはより深い理解と静安を得ることができる。故に、怒りを知ることはまた、自己を知ることにも繋がるのだ。",
+                "synonyms": [
+                        "Enrage",
+                        "Exasperate"
+                ],
+                "antonyms": [
+                        "Pacify",
+                        "Calm"
+                ],
+                "aftertaste": "Infuriation is the tempestuous dance of fury within the heart.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "furia",
+                                        "meaning": "fury, rage"
+                                }
+                        ],
+                        "points": [
+                                "ラテン語の『furia』に由来し、古代ローマでは怒りの女神として恐れられた。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "Late Latin, 14th Century"
         }
 ];
