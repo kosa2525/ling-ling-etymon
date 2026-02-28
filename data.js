@@ -27730,5 +27730,51 @@ const WORDS = [
                 "source": "Online Etymology Dictionary",
                 "date": "2026-03-01",
                 "era": "Ancient Greek"
+        },
+        {
+                "id": "chew",
+                "word": "Chew",
+                "part_of_speech": "verb",
+                "meaning": "かむこと",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "cewen",
+                                        "type": "root",
+                                        "meaning": "かむ",
+                                        "lang": "Old English"
+                                }
+                        ],
+                        "original_statement": "The word 'chew' originates from the Old English term 'cewen', which means 'to bite or masticate'. It has roots tracing back to Germanic languages."
+                },
+                "core_concept": {
+                        "en": "A gentle dance of mandibles communing with sustenance.",
+                        "ja": "生命の糧と静かに共鳴する顎の舞踊"
+                },
+                "thinking_layer": "私たちが物をかむという行為には、単純に食物を消化するという以上の意味がある。古から続くこの基本的な行為は、物質世界と精神世界を結ぶ橋であり、生命の始まりと終わりを象徴する。かみ砕くことは、物質を細分化し、内部へと取り込む第一歩であり、その過程で私たちは自身の内省を求められる。食物の独特な味や食感を感じとることで、私たちは自然との深い結びつきを再確認する。かむことで得られる安堵と安心感は、単なる生存の手段を超え、それ自体が一種の冥想ともいえる。顎がリズミカルに動くたびに、私たちは内なる声に耳を傾け、存在の意味を問いかけるようになる。したがって、かむという行為は私たちの肉体的欲求と精神的探究の交差点である。かむ行為が象徴する宇宙のリズムに耳を澄まし、人生の一口一口を大切に味わうことが、現代における貴重な教訓となるだろう。",
+                "synonyms": [
+                        "masticate",
+                        "gnaw"
+                ],
+                "antonyms": [
+                        "swallow",
+                        "ingest"
+                ],
+                "aftertaste": "Chewing transforms sustenance into a harmonious union with self and nature.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "cewen",
+                                        "meaning": "to bite, gnaw"
+                                }
+                        ],
+                        "points": [
+                                "古英語「cewen」は、噛む行為そのものを表し、物質的世界と精神的経験を繋ぐ役割を担っていた。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Old English, Proto-Germanic origins"
         }
 ];
