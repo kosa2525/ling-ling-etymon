@@ -25392,5 +25392,61 @@ const WORDS = [
                 "source": "Online Etymology Dictionary",
                 "date": "2026-02-28",
                 "era": "11th Century"
+        },
+        {
+                "id": "amuse",
+                "word": "Amuse",
+                "part_of_speech": "verb",
+                "meaning": "楽しませる",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "Old French- amuser",
+                                        "type": "root",
+                                        "meaning": "夢中にさせる",
+                                        "lang": "Old French"
+                                },
+                                {
+                                        "text": "Latin- a(r) + mus(a)",
+                                        "type": "prefix/root",
+                                        "meaning": "気をそらす + ミューズ",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The English word 'amuse' comes from the Old French 'amuser', which means to divert or to cause to muse."
+                },
+                "core_concept": {
+                        "en": "To dance with the muses.",
+                        "ja": "ミューズと共に舞う"
+                },
+                "thinking_layer": "『楽しませる』という行為は、単に人の気を散らすだけの行動ではなく、魂を別世界へと誘う優美な昇華とも言えるでしょう。現代の喧騒の中で、私たちはしばしばその意義を見失いがちですが、真の「楽しみ」とは、自分自身を投影することなく、深い静けさの中で他者と共に感じ、呼吸し、再び自己へと戻ることを許す行為です。それは過ぎ去る瞬間を永遠とし、心に刻まれるフラグメントのようなものでもあります。私たちの人生は短く、時に誤り、迷うこともありますが、『楽しませる』ことにより再生される瞬間には、全ての心配や不安が消え去り、ただ純粋な奉仕と相互理解が静かに浮かび上がるのです。現実は幾重もの幻影や物語で編まれていますが、その中で私たちが享受できる最高のものは、他者に喜びを与え、また受け取るという過程そのものかもしれません。これが私たちの真の姿を映し出す芸術であると言っても過言ではないでしょう。",
+                "synonyms": [
+                        "Entertain",
+                        "Delight"
+                ],
+                "antonyms": [
+                        "Bore",
+                        "Annoy"
+                ],
+                "aftertaste": "In the dance of distraction, we find our fleeting muse.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "muse",
+                                        "meaning": "ミューズ"
+                                },
+                                {
+                                        "term": "a(r)",
+                                        "meaning": "〜でない"
+                                }
+                        ],
+                        "points": [
+                                "「アミューズ」は、二つの根に基づく複合語である。古フランス語の「a(r)」は『〜でない』を意味し、ラテン語の「mus(a)」は『ミューズ』を指す。したがって、『アミューズ』は『ミューズによって気をそらされる』という意味を持つ。これが転じて、人を楽しませるという概念に変化した。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-02-28",
+                "era": "13th Century"
         }
 ];
