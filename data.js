@@ -23166,5 +23166,56 @@ const WORDS = [
                 },
                 "source": "Online Etymology Dictionary",
                 "date": "2026-02-28"
+        },
+        {
+                "id": "smile",
+                "word": "Smile",
+                "part_of_speech": "noun/verb",
+                "meaning": "微笑む、微笑み",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "smilegian",
+                                        "type": "root",
+                                        "meaning": "微笑む",
+                                        "lang": "Old English"
+                                },
+                                {
+                                        "text": "smayle",
+                                        "type": "root",
+                                        "meaning": "微笑む",
+                                        "lang": "Middle English"
+                                }
+                        ],
+                        "original_statement": "The English word 'smile' originates from the Middle English 'smilen', largely influenced by Old English 'smilag' and Proto-Germanic 'smugon', denoting a gentle, friendly laugh."
+                },
+                "core_concept": {
+                        "en": "A gentle curve of the lips, a silent whisper of joy.",
+                        "ja": "唇の穏やかな曲線、喜びの静かなささやき。"
+                },
+                "thinking_layer": "笑顔は心と言葉の交わる場所であり、音のない調べに心を乗せ、言葉なき詩として世界に語りかける。眼差しと言葉の外にある真実を映し出し、一瞬の輝きとして記憶と共に存在する。笑顔は、喜びと悲しみが交錯する微妙な瞬間に浮かび上がり、人間の深層的な感情の表現である。それは目に見えぬ風の如く、触れることのない、しかし強く人の心を動かし、日常の中で心の穏やかな流れとなる。笑顔は鏡のように、その瞬間における真実を映し、空気の中に永劫に揺らめく。微笑むことで織り成される世界は、目には見えない関係の網を結びつけ、人々を優しく繋ぎ合わせる。眼差しの背後に隠された真実をしばし映し出し、魂の鏡となる。",
+                "synonyms": [
+                        "Grin",
+                        "Beam"
+                ],
+                "antonyms": [
+                        "Frown",
+                        "Scowl"
+                ],
+                "aftertaste": "A smile is the silent melody of the heart.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "smilaz",
+                                        "meaning": "to laugh"
+                                }
+                        ],
+                        "points": [
+                                "『笑顔』は個々の感情と他者への感覚的接続を表す、古代北欧文化における心奥の表現。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-02-28"
         }
 ];
