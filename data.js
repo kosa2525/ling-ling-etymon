@@ -24502,5 +24502,56 @@ const WORDS = [
                 },
                 "source": "Oxford English Dictionary",
                 "date": "2026-02-28"
+        },
+        {
+                "id": "exercise",
+                "word": "Exercise",
+                "part_of_speech": "noun/verb",
+                "meaning": "運動または行使",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "ex-",
+                                        "type": "prefix",
+                                        "meaning": "外へ",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "arcere",
+                                        "type": "root",
+                                        "meaning": "抑える",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'exercise' originated from the Latin verb 'exercere,' meaning 'to keep busy' or 'to train,' which is a combination of 'ex-' (out) and 'arcere' (to restrain)."
+                },
+                "core_concept": {
+                        "en": "A rhythmic engagement with both the elements of vigor and restraint.",
+                        "ja": "活力と抑制の調和ある関与"
+                },
+                "thinking_layer": "運動という行為は、体と心の対話である。人間の本質において、動くことは生きることを意味し、静止とは死に近づくことを暗示する。運動は生命のリズムの中で奏でられる一つの楽章であり、私たちの存在の証左である。この儀式的な行為は、内なる力を呼び覚まし、未知の領域への扉を開く。運動の繰り返しの中で、我々は自らの限界を再定義し、新たな高みに到達することを模索する。時に息苦しく、時に解放となる運動は、我々の内なる渇望と外界との調和を求める試みに他ならない。このようにして、運動は単なる物理的な活動を超え、精神的な次元における探求の一部となる。永遠の彼岸へと至る道を探るための不朽の道具、その象徴的な存在と言えるだろう。",
+                "synonyms": [
+                        "activity",
+                        "workout"
+                ],
+                "antonyms": [
+                        "rest",
+                        "inactivity"
+                ],
+                "aftertaste": "Exercise is the pilgrimage of the body to the temple of vitality.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "exercere",
+                                        "meaning": "to keep busy, to train"
+                                }
+                        ],
+                        "points": [
+                                "運動は日常的な義務以上のものであり、自己発見と自己超越のための手段である。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-02-28"
         }
 ];
