@@ -22833,5 +22833,56 @@ const WORDS = [
                 },
                 "source": "Online Etymology Dictionary",
                 "date": "2026-02-28"
+        },
+        {
+                "id": "tea",
+                "word": "Tea",
+                "part_of_speech": "noun",
+                "meaning": "茶、温かい飲み物",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "te-",
+                                        "type": "root",
+                                        "meaning": "茶",
+                                        "lang": "Min Nan Chinese"
+                                },
+                                {
+                                        "text": "cha-",
+                                        "type": "root",
+                                        "meaning": "茶",
+                                        "lang": "Mandarin and Cantonese"
+                                }
+                        ],
+                        "original_statement": "The word 'tea' comes from the Amoy Min Nan Chinese word 'te' and the Mandarin and Cantonese 'cha'."
+                },
+                "core_concept": {
+                        "en": "A delicate brew that transcends culture and time, uniting in quietude and reflection.",
+                        "ja": "文化と時を超えて繋がり、静けさと熟考を共にする繊細な淹れ物。"
+                },
+                "thinking_layer": "茶は人類の深層に根ざすものだ。彼の古代からの歴史は、異なる文明を結びつける無言の会話と言える。静けさの中で湯気が漂う一瞬、時間は停止し、個々の知覚が開かれる。茶の香りは過去の記憶を呼び起こし、未来の心象を描き出す。不確かさで満たされた世界において、茶は確実性をもたらす静かな影である。茶を飲むことは、人間の精神と感情、そして宇宙との新しい絆を築く儀式とも言える。日本の茶道の文化の中で、茶は一つの形を超えた無限の形態を成し、常に流動する本質を探求することさえある。この一杯の茶は、通常視覚されない哲学的な対話を私たちに与え、自らを振り返るための鏡となる。味覚を通して感じられる茶の言語は、単純に味わう以上のもので、感覚を超えた深遠な存在そのものであり、それが私たちの物語の一部となる。",
+                "synonyms": [
+                        "Infusion",
+                        "Brew"
+                ],
+                "antonyms": [
+                        "Coffee",
+                        "Soda"
+                ],
+                "aftertaste": "Tea whispers the secrets of the earth in every sip.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "cha",
+                                        "meaning": "tea"
+                                }
+                        ],
+                        "points": [
+                                "「チャ」という語のルーツは、アジアの多くの言語で共通して茶を意味する言葉として使用されていることに由来し、それが世界的に広まる過程で形を変えた。"
+                        ]
+                },
+                "source": "Harvard Etymological Dictionary",
+                "date": "2026-02-28"
         }
 ];
