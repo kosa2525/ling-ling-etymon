@@ -94,6 +94,18 @@ def init_db():
                         cur.execute("ALTER TABLE users ADD COLUMN is_operator BOOLEAN DEFAULT FALSE")
                     if 'is_premium' not in columns:
                         cur.execute("ALTER TABLE users ADD COLUMN is_premium BOOLEAN DEFAULT FALSE")
+                    
+                    # Reflections migration
+                    cur.execute("SELECT column_name FROM information_schema.columns WHERE table_name='reflections'")
+                    cols_ref = [row[0] for row in cur.fetchall()]
+                    if 'is_deleted' not in cols_ref:
+                        cur.execute("ALTER TABLE reflections ADD COLUMN is_deleted BOOLEAN DEFAULT FALSE")
+                        
+                    # Replies migration
+                    cur.execute("SELECT column_name FROM information_schema.columns WHERE table_name='replies'")
+                    cols_rep = [row[0] for row in cur.fetchall()]
+                    if 'is_deleted' not in cols_rep:
+                        cur.execute("ALTER TABLE replies ADD COLUMN is_deleted BOOLEAN DEFAULT FALSE")
                 else:
                     cur.execute("PRAGMA table_info(users)")
                     columns = [row[1] for row in cur.fetchall()]
@@ -101,6 +113,17 @@ def init_db():
                         cur.execute("ALTER TABLE users ADD COLUMN is_operator INTEGER DEFAULT 0")
                     if 'is_premium' not in columns:
                         cur.execute("ALTER TABLE users ADD COLUMN is_premium INTEGER DEFAULT 0")
+                    
+                    # SQLite migration
+                    cur.execute("PRAGMA table_info(reflections)")
+                    cols_ref = [row[1] for row in cur.fetchall()]
+                    if 'is_deleted' not in cols_ref:
+                        cur.execute("ALTER TABLE reflections ADD COLUMN is_deleted INTEGER DEFAULT 0")
+                    
+                    cur.execute("PRAGMA table_info(replies)")
+                    cols_rep = [row[1] for row in cur.fetchall()]
+                    if 'is_deleted' not in cols_rep:
+                        cur.execute("ALTER TABLE replies ADD COLUMN is_deleted INTEGER DEFAULT 0")
 
     finally:
         conn.close()
