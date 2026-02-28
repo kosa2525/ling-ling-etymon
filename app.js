@@ -121,8 +121,8 @@ async function renderToday() {
             </section>
             
             <div style="display:grid; grid-template-columns: 1fr 1fr; gap:1.2rem; margin-bottom: 2.5rem;">
-                <section class="section" style="background:rgba(255,255,255,0.03); padding:1.2rem; border-radius:16px;"><span class="section-label">Synonyms</span><div style="display:flex; flex-wrap:wrap; gap:0.5rem; margin-top:0.5rem;">${(word.synonyms || []).map(s => `<span class="chip">${s}</span>`).join('') || '--'}</div></section>
-                <section class="section" style="background:rgba(255,255,255,0.03); padding:1.2rem; border-radius:16px;"><span class="section-label">Antonyms</span><div style="display:flex; flex-wrap:wrap; gap:0.5rem; margin-top:0.5rem;">${(word.antonyms || []).map(a => `<span class="chip">${a}</span>`).join('') || '--'}</div></section>
+                <section class="section" style="background:rgba(255,255,255,0.03); padding:1.2rem; border-radius:16px;"><span class="section-label">Synonyms</span><div style="display:flex; flex-wrap:wrap; gap:0.5rem; margin-top:0.5rem;">${(word.synonyms || []).map(s => `<span class="chip" onclick="searchToArchive('${s}')" style="cursor:pointer; border:1px solid var(--color-accent);">${s}</span>`).join('') || '--'}</div></section>
+                <section class="section" style="background:rgba(255,255,255,0.03); padding:1.2rem; border-radius:16px;"><span class="section-label">Antonyms</span><div style="display:flex; flex-wrap:wrap; gap:0.5rem; margin-top:0.5rem;">${(word.antonyms || []).map(a => `<span class="chip" onclick="searchToArchive('${a}')" style="cursor:pointer; border:1px solid var(--color-border);">${a}</span>`).join('') || '--'}</div></section>
             </div>
 
             <section class="section aftertaste-section" style="border-left: 2px solid var(--color-accent); padding-left: 1.5rem;"><span class="section-label">Resonance</span><p class="aftertaste-text" style="font-family: 'Times New Roman', serif; font-style: italic; font-size: 1.3rem;">${word.aftertaste}</p></section>
@@ -385,18 +385,28 @@ function renderArchive() {
 
     viewContainer.innerHTML = `
         <div class="archive-container fade-in">
+            <div style="max-width:600px; margin: 0 auto 3rem auto; position:relative;">
+                <input type="text" id="archive-search" placeholder="Search by word or meaning..." value="${State.searchFilter || ''}" style="width:100%; padding:1.2rem 3rem; background:var(--color-surface); border:1px solid var(--color-border); border-radius:100px; color:white; font-size:1.1rem;">
+                <span style="position:absolute; left:1.2rem; top:50%; transform:translateY(-50%); opacity:0.5;">🔍</span>
+            </div>
             <div class="alphabet-bar" style="display:flex; flex-wrap:wrap; gap:6px; margin-bottom: 3rem; justify-content:center;">
-                ${'ABCDEFGHIJKLMNOPQRSTUVWXYZ'.split('').map(l => `<button class="index-letter ${State.letterFilter === l ? 'active' : ''}" onclick="State.letterFilter='${l}';State.searchFilter=null;renderArchive()">${l}</button>`).join('')}
+                ${'ABCDEFGHIJKLMNOPQRSTUVWXYZ'.split('').map(l => `
+                    <button class="index-letter ${State.letterFilter === l ? 'active' : ''}" onclick="State.letterFilter='${l}';State.searchFilter=null;renderArchive()">${l}</button>
+                `).join('')}
                 <button class="index-letter" style="width:auto; padding:0 12px;" onclick="State.letterFilter=null;State.searchFilter=null;renderArchive()">ALL</button>
             </div>
             <div class="archive-grid" style="display:grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap:2rem;">
                 ${list.map(w => `
-                    <div class="archive-item" onclick="State.todayWord=WORDS.find(x=>x.id==='${w.id}');navigate('today')" style="position:relative; padding:1.8rem; border:1px solid var(--color-border); border-radius:20px; background:var(--color-surface); height:160px; display:flex; flex-direction:column; justify-content:space-between; transition:all 0.3s ease;">
-                        <div style="flex-grow:1; text-align: left;">
-                            <span style="font-weight:700; font-size:1.5rem; color:var(--color-accent); letter-spacing:-0.02em; display:block;">${w.word}</span>
-                            <div style="font-size:0.95rem; opacity:0.75; margin-top:0.8rem; line-height:1.5; display:-webkit-box; -webkit-line-clamp:2; -webkit-box-orient:vertical; overflow:hidden;">${w.core_concept.ja}</div>
+                    <div class="archive-item" onclick="State.todayWord=WORDS.find(x=>x.id==='${w.id}');navigate('today')" style="position:relative; padding:1.8rem; border:1px solid var(--color-border); border-radius:20px; background:var(--color-surface); min-height:180px; display:flex; flex-direction:column; justify-content:space-between; transition:all 0.3s ease; cursor:pointer;">
+                        <div style="text-align: left;">
+                            <div style="display:flex; justify-content:space-between; align-items:flex-start; margin-bottom:0.5rem;">
+                                <span style="font-weight:700; font-size:1.5rem; color:var(--color-accent); letter-spacing:-0.02em;">${w.word}</span>
+                                ${w.part_of_speech ? `<span style="font-size:0.7rem; font-style:italic; opacity:0.5; border:1px solid rgba(255,255,255,0.1); padding:2px 6px; border-radius:4px;">${w.part_of_speech}</span>` : ''}
+                            </div>
+                            <div style="font-size:0.9rem; color:var(--color-text); font-weight:500; margin-bottom:0.8rem;">${w.meaning || ''}</div>
+                            <div style="font-size:0.85rem; opacity:0.6; line-height:1.4; display:-webkit-box; -webkit-line-clamp:2; -webkit-box-orient:vertical; overflow:hidden;">${w.core_concept.ja}</div>
                         </div>
-                        <div style="font-size:0.75rem; opacity:0.4; text-align:right; border-top: 1px solid rgba(255,255,255,0.05); padding-top:0.8rem;">
+                        <div style="font-size:0.75rem; opacity:0.4; text-align:right; border-top: 1px solid rgba(255,255,255,0.05); padding-top:0.8rem; margin-top:auto;">
                             by <b style="opacity:1;">${w.author || 'etymon_official'}</b>
                         </div>
                     </div>
@@ -404,6 +414,14 @@ function renderArchive() {
             </div>
         </div>
     `;
+    const searchInput = document.getElementById('archive-search');
+    if (searchInput) {
+        searchInput.oninput = (e) => {
+            State.searchFilter = e.target.value.toLowerCase();
+            State.letterFilter = null;
+            renderArchive();
+        };
+    }
 }
 
 async function renderEssays() {
@@ -744,6 +762,12 @@ function showToast(msg) {
     t.className = 'toast'; t.textContent = msg; container.appendChild(t);
     setTimeout(() => { t.style.opacity = '1'; t.style.transform = 'translateY(0)'; }, 10);
     setTimeout(() => { t.style.opacity = '0'; setTimeout(() => t.remove(), 300); }, 3000);
+}
+
+function searchToArchive(term) {
+    State.searchFilter = term.toLowerCase();
+    State.letterFilter = null;
+    navigate('archive');
 }
 
 function renderContribute() {
