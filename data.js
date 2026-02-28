@@ -20835,5 +20835,48 @@ const WORDS = [
                 },
                 "source": "Online Etymology Dictionary",
                 "date": "2026-02-28"
+        },
+        {
+                "id": "left",
+                "word": "Left",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "lyft-",
+                                        "type": "prefix/root",
+                                        "meaning": "weak, foolish",
+                                        "lang": "Old English"
+                                }
+                        ],
+                        "original_statement": "The word 'left' originates from the Old English 'lyft', meaning weak or foolish, reflecting historical bias and superstition."
+                },
+                "core_concept": {
+                        "en": "The silent path often unexplored, symbolizing divergence and new horizons.",
+                        "ja": "未踏の道、分岐と新たな地平を象徴する静かなる旅。"
+                },
+                "thinking_layer": "『左』という言葉は、古来より様々な文化で異なる視点を持たれるものだった。しばしば不吉とされ、右の対比としての意義が強調される中で、左はまた個々の認識と深い内面的探求の象徴でもある。我々が左を選ぶということは、既存の流れを拒みより複雑な思考を探る旅であり、これは宇宙の隅々に存在する未解の謎を受け入れる行為とも言える。知識が右側に集約され、未来への道が左に展開される様は、哲学的に見れば常に新たな発見につながる可能性を孕んでいる。左は、静けさの中に潜む強さ、未知へ伸びる手、人間が持つ本能的な挑戦心の表現である。左とはすなわち、新しい視点を育む思考の糧であり、紛れもなく我々が未知を生きる証である。",
+                "synonyms": [
+                        "Sinistral",
+                        "Port"
+                ],
+                "antonyms": [
+                        "Right",
+                        "Dextral"
+                ],
+                "aftertaste": "To journey left is to embrace the uncharted mysteries of existence.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "lyft",
+                                        "meaning": "weak, foolish"
+                                }
+                        ],
+                        "points": [
+                                "古英語の『lyft』として表現されるこの語は、左翼信仰と社会的通念との深いつながりを示し、文化の変遷を通じて左が持つ哲学的および象徴的意義を十全に描写する。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-02-28"
         }
 ];
