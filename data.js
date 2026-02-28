@@ -21060,5 +21060,58 @@ const WORDS = [
                 },
                 "source": "The Oxford Dictionary of English Etymology",
                 "date": "2026-02-28"
+        },
+        {
+                "id": "message",
+                "word": "Message",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "messa-",
+                                        "type": "root",
+                                        "meaning": "使い",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "-age",
+                                        "type": "suffix",
+                                        "meaning": "恩恵",
+                                        "lang": "French"
+                                }
+                        ],
+                        "original_statement": "The word 'message' finds its roots in the Latin 'missus,' meaning 'something sent,' and was further evolved in Old French as 'message' to indicate 'a communication or communication task.'"
+                },
+                "core_concept": {
+                        "en": "A delicate whisper between souls and minds, traversing time and distance.",
+                        "ja": "時と距離を超え、魂と心の間で囁かれる繊細なメッセージ。"
+                },
+                "thinking_layer": "メッセージは、一見単なる情報の伝達手段のように思えるかもしれませんが、その背後には深い存在的意義が潜んでいます。言葉もしくは音を通じて人から人へと渡るメッセージは、人間の精神と意識が出会う舞台なのです。それは、瞬間から永遠へと続く瞬間の架け橋であり、ある時は無言の愛情や心の絆を意味し、またある時は戦争の宣言を伴う響きを持つものです。メッセージは、人間が織り成す無限の物語の中で、存在と自己を見つめ直す窓です。一度発せられた声は、その時々の文化や社会、個々の経験に形作られ、意味を持たせられます。こうした交流の中で、私たちは自らが生きる豊かな宇宙を発見し、他者との理解を深め合うのです。メッセージとは、単なる物理的なものを超えた、生命の深淵で脈打つ心の叫びと響き合うものなのです。",
+                "synonyms": [
+                        "Communication",
+                        "Dispatch"
+                ],
+                "antonyms": [
+                        "Silence",
+                        "Ignorance"
+                ],
+                "aftertaste": "A message is the heart’s letter, carefully penned, to the universe.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "missus",
+                                        "meaning": "something sent"
+                                },
+                                {
+                                        "term": "messager",
+                                        "meaning": "to send"
+                                }
+                        ],
+                        "points": [
+                                "メッセージの語源は、物理的送達を超え、むしろ心の深部に根ざした表現として理解されるべきである。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-02-28"
         }
 ];
