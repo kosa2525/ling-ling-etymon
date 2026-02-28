@@ -76,7 +76,8 @@ Structure:
         ]
     }},
     "source": "Specific source",
-    "date": "{date}"
+    "date": "{date}",
+    "era": "Origin era (e.g. 14th Century, Ancient Greek, PIE origin)"
 }}
 """
 

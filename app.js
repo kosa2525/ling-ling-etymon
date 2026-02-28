@@ -32,6 +32,7 @@ const navItems = {
     premium: document.getElementById('nav-premium'),
     notifications: document.getElementById('nav-notifications'),
     network: document.getElementById('nav-network'),
+    timeline: document.getElementById('nav-timeline'),
     search: document.getElementById('global-search-input')
 };
 
@@ -900,11 +901,15 @@ async function toggleTTS(base64Text) {
     }
 }
 
-async function renderWordNetwork() {
+async function renderWordNetwork(mode = 'global') {
+    const ids = State.savedWordIds.join(',');
     viewContainer.innerHTML = `
         <div class="network-view fade-in" style="height: calc(100vh - 200px); position:relative;">
-            <h3 class="section-label" style="text-align:center; padding-top:2rem;">Etymological Network</h3>
-            <div id="network-graph" style="height:100%; width:100%;"></div>
+            <div style="display:flex; justify-content:center; gap:1rem; padding-top:1.5rem;">
+                <button id="net-global" class="chip ${mode === 'global' ? 'followed' : ''}">Global Universe</button>
+                <button id="net-personal" class="chip ${mode === 'personal' ? 'followed' : ''}">My Mind Garden</button>
+            </div>
+            <div id="network-graph" style="height:calc(100% - 60px); width:100%;"></div>
             <div style="position:absolute; bottom:20px; left:20px; background:var(--color-surface); padding:1.2rem; border-radius:16px; border:1px solid var(--color-border); font-size:0.8rem; opacity:0.95; line-height:1.7; z-index:10; box-shadow: 0 4px 20px rgba(0,0,0,0.3);">
                 <div style="font-weight:bold; margin-bottom:0.5rem; border-bottom:1px solid var(--color-border); padding-bottom:0.3rem;">Legend</div>
                 <div style="display:flex; align-items:center; gap:8px;"><span style="width:12px; height:12px; background:#3b82f6; border-radius:50%; display:inline-block;"></span> 🔵 Word (Click to view)</div>
@@ -913,7 +918,11 @@ async function renderWordNetwork() {
             </div>
         </div>
     `;
-    const data = await apiGet('/api/word-network');
+
+    document.getElementById('net-global').onclick = () => renderWordNetwork('global');
+    document.getElementById('net-personal').onclick = () => renderWordNetwork('personal');
+
+    const data = await apiGet(`/api/word-network?mode=${mode}&username=${State.currentUser || ''}&ids=${ids}`);
     const container = document.getElementById('network-graph');
     const nodes = new vis.DataSet(data.nodes.map(n => ({
         ...n,
@@ -943,6 +952,27 @@ async function renderWordNetwork() {
             }
         }
     });
+}
+
+function renderTimeline() {
+    const list = (typeof WORDS !== 'undefined') ? [...WORDS] : [];
+    // era情報があるものを優先し、年代順にソートしたいが、テキストなので一旦新着順の逆か、名前順
+    // 将来的には era フィールドをパースしてソートする
+    viewContainer.innerHTML = `
+        <div class="timeline-view fade-in" style="max-width:800px; margin: 0 auto; padding: 4rem 2rem 120px;">
+            <h3 class="section-label" style="text-align:center; margin-bottom:4rem;">River of Etymon (Timeline)</h3>
+            <div class="timeline-thread" style="position:relative; border-left: 2px solid var(--color-border); padding-left: 3rem; margin-left: 2rem;">
+                ${list.reverse().map(w => `
+                    <div class="timeline-entry" onclick="State.todayWord=WORDS.find(x=>x.id==='${w.id}');navigate('today')" style="position:relative; margin-bottom:4rem; cursor:pointer;">
+                        <div style="position:absolute; left: calc(-3rem - 9px); top: 8px; width:16px; height:16px; background:var(--color-accent); border-radius:50%; border:4px solid var(--color-bg);"></div>
+                        <div class="dimmed" style="font-size:0.85rem; letter-spacing:0.1em; margin-bottom:0.5rem;">${w.era || 'Archaic Era'}</div>
+                        <h2 style="font-size:2rem; color:var(--color-accent);">${w.word}</h2>
+                        <p style="margin-top:0.5rem; opacity:0.8;">${w.meaning}</p>
+                    </div>
+                `).join('')}
+            </div>
+        </div>
+    `;
 }
 function showToast(msg) {
     const container = document.getElementById('toast-container');
@@ -1055,6 +1085,7 @@ document.addEventListener('DOMContentLoaded', async () => {
     if (navItems.premium) navItems.premium.onclick = () => navigate('premium');
     if (navItems.notifications) navItems.notifications.onclick = () => navigate('notifications');
     if (navItems.network) navItems.network.onclick = () => navigate('network');
+    if (navItems.timeline) navItems.timeline.onclick = () => navigate('timeline');
 
     if (navItems.search) {
         navItems.search.onkeypress = (e) => {

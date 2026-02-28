@@ -692,16 +692,26 @@ def get_tts():
 
 @app.route('/api/word-network', methods=['GET'])
 def get_word_network():
+    mode = request.args.get('mode', 'global') # 'global' or 'personal'
+    username = request.args.get('username')
+    
     try:
         with open(DATA_JS_PATH, 'r', encoding='utf-8') as f:
             content = f.read()
             match = re.search(r'const\s+WORDS\s*=\s*(\[.*?\])\s*;?\s*$', content, re.DOTALL)
             all_words = json.loads(match.group(1)) if match else []
 
+        if mode == 'personal' and username:
+            saved_ids = request.args.get('ids', '').split(',')
+            words = [w for w in all_words if w['id'] in saved_ids]
+        else:
+            # パフォーマンスと「新しさ」のため最新を優先
+            words = all_words[-300:]
+        
         # 語根(root)や接頭辞(prefix)ごとに単語をグループ化
         root_map = {}
         type_map = {} # パーツがrootかprefixか保持
-        for w in all_words:
+        for w in words:
             for b in w.get('etymology', {}).get('breakdown', []):
                 b_type = b.get('type', '').lower()
                 if 'root' in b_type or 'prefix' in b_type:
@@ -709,19 +719,19 @@ def get_word_network():
                     if not root_text: continue
                     if root_text not in root_map: root_map[root_text] = []
                     root_map[root_text].append(w['word'])
-                    # 優先順位: rootを優先（一つの節が複数タイプを持つ場合）
+                    
                     current_type = type_map.get(root_text, 'prefix')
                     if 'root' in b_type: type_map[root_text] = 'root'
                     else: type_map[root_text] = current_type
         
         # 繋がり（2つ以上登録されているもの）がある語根だけを抽出
-        valid_roots = {r: words for r, words in root_map.items() if len(words) >= 2}
+        valid_roots = {r: words_list for r, words_list in root_map.items() if len(words_list) >= 2}
         
-        # 該当する語根が多すぎる場合はランダムに選ぶ（上限500クラスタ）
+        # 該当する語根が多すぎる場合はランダムに選ぶ
         root_keys = list(valid_roots.keys())
-        if len(root_keys) > 500:
-            root_keys = random.sample(root_keys, 500)
-        
+        limit = 200 if mode == 'personal' else 500
+        if len(root_keys) > limit:
+            root_keys = random.sample(root_keys, limit)
         # ネットワーク用データ（ノードとエッジ）
         nodes = []
         edges = []
