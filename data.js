@@ -24114,5 +24114,56 @@ const WORDS = [
                 },
                 "source": "The Oxford English Dictionary",
                 "date": "2026-02-28"
+        },
+        {
+                "id": "sustain",
+                "word": "Sustain",
+                "part_of_speech": "verb",
+                "meaning": "維持する、支える",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "sus-",
+                                        "type": "prefix",
+                                        "meaning": "下に",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "tenere",
+                                        "type": "root",
+                                        "meaning": "保持する",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "Derived from Latin 'sustinere', which combines 'sus-' (under) and 'tenere' (to hold)."
+                },
+                "core_concept": {
+                        "en": "A delicate balance held beneath the vast heaviness of existence.",
+                        "ja": "存在の重みを支える微妙なバランス"
+                },
+                "thinking_layer": "『持続』とは、時間の流れに身を委ねるような行為であり、常に変化し続ける世界の中で不変を求める努力である。人生の目的は時として流転する波にひっそりと立ち向かい、周囲の喧騒に耳を貸さずに自らの内なる声に耳を傾けることだ。持続の語源が示すとおり、私たちは何かを“下”から“保持”する、つまり目に見えない支えを提供する。これは単なる肉体的な行為ではなく、精神と魂が強さと柔軟さを兼ね備えるために自己を深く探求する哲学的な旅でもある。持続の本質は、瞬間の儚さを超えて、時間を越えた価値と意味を創造することにある。持続するとは、自己の限界を受け入れつつ、その限界を超えていく意志の表出でもある。これを理解することが、私たちがいかにして自らを形作るか、そして最終的にどのように時間の中で生きていくかの鍵となる。",
+                "synonyms": [
+                        "Maintain",
+                        "Endure"
+                ],
+                "antonyms": [
+                        "Neglect",
+                        "Abandon"
+                ],
+                "aftertaste": "To sustain is to hold both weight and time gracefully in a single stroke.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "tenere",
+                                        "meaning": "to hold"
+                                }
+                        ],
+                        "points": [
+                                "『持続』の語源は、物理的支えのみならず、精神的な力の表現としても重要である。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-02-28"
         }
 ];
