@@ -23912,5 +23912,56 @@ const WORDS = [
                 },
                 "source": "Online Etymology Dictionary",
                 "date": "2026-02-28"
+        },
+        {
+                "id": "achieve",
+                "word": "Achieve",
+                "part_of_speech": "verb",
+                "meaning": "成し遂げる、達成する",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "ac-",
+                                        "type": "prefix",
+                                        "meaning": "...に向かって",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "-chief",
+                                        "type": "root",
+                                        "meaning": "頭、先",
+                                        "lang": "Old French"
+                                }
+                        ],
+                        "original_statement": "The word 'achieve' comes from the Old French 'achever', which means 'to bring to a head' or 'to complete'. It was derived from the Vulgar Latin '*accapare', a combination of Latin 'ad-' meaning 'to' and 'caput' meaning 'head'."
+                },
+                "core_concept": {
+                        "en": "To reach the pinnacle, where dreams meet reality.",
+                        "ja": "夢と現実が交差する頂点に達すること。"
+                },
+                "thinking_layer": "「成し遂げる」という行為には、人間の内なる可能性を認識し、それを現実のものとする深远なプロセスが含まれています。それは、心の中に灯る希望の炎を絶やすことなく、困難や試練を乗り越える力と意志を持つことです。この道は平坦ではないが、志を抱くことで見えない道が明らかになることもあります。人はしばしば、何かを成し遂げるためには他者との協力や社会の存在が不可欠であることを悟ります。互いに影響を与え合い、支え合うことにより、本物の成功が実現されるのです。成し遂げるためには、単なる肉体の労働を超えて、精神的な鍛錬と継続的な努力が求められます。そしてその過程は、人生という長い旅の一部であり、成長と発展の証となります。達成の瞬間には、全ての努力が報われると同時に、新たな挑戦への扉が開かれます。こうした無限のサイクルの中で、人々は自己を研鑽し、真の幸福を見出すのです。",
+                "synonyms": [
+                        "Accomplish",
+                        "Succeed"
+                ],
+                "antonyms": [
+                        "Fail",
+                        "Abandon"
+                ],
+                "aftertaste": "The summit of achievement is not the end, but a new beginning.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "chief",
+                                        "meaning": "head"
+                                }
+                        ],
+                        "points": [
+                                "言葉の根源的な意味を辿ると、人間の行動が如何にして理念と共鳴し、歴史を通じて変化してきたかを理解できる。成し遂げることは、もともと「頭に達する」という意味を持ち、その語源は、意志の力が形を成すことを象徴しています。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-02-28"
         }
 ];
