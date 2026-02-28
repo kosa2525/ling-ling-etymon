@@ -20,20 +20,19 @@ client = openai.OpenAI(api_key=api_key)
 # データの保存先 (プロジェクトルート)
 DATA_JS_PATH = os.path.join(os.path.dirname(__file__), "..", "data.js")
 
-# 単語プールを分離（現在は日常的な単語を優先）
+# 単語プールを分離（現在は日常的な単語を優先、動詞も積極的に採用）
 INTELLECTUAL_POOL = [
-    "Culture", "Nature", "Future", "Planet", "Universe",
-    "History", "Memory", "Energy", "Music", "Coffee",
-    "Tea", "Paper", "Bread", "Street", "Travel",
-    "Heart", "Dream", "Light", "Smile", "World"
+    "Imagine", "Create", "Evolve", "Discover", "Understand",
+    "Believe", "Transform", "Achieve", "Listen", "Wander",
+    "History", "Memory", "Energy", "Music", "Philosophy",
+    "Universe", "Future", "Planet", "Culture", "Sustain"
 ]
 
 EVERYDAY_POOL = [
-    "Company", "Education", "Breakfast", "Window", "Salary",
-    "Companion", "Muscle", "Pantry", "Camera", "Galaxy",
-    "Alphabet", "Prestige", "Disaster", "Candid", "Trivia",
-    "Whisky", "Vaccine", "Sincere", "Digital", "Curiosity",
-    "Window", "Library", "Pencil", "Coffee", "Season"
+    "Breakfast", "Window", "Salary", "Company", "Education",
+    "Travel", "Celebrate", "Experience", "Connect", "Explore",
+    "Pantry", "Muscle", "Camera", "Galaxy", "Alphabet",
+    "Digital", "Sincere", "Disaster", "Candid", "Trivia"
 ]
 
 PROMPT_TEMPLATE = """
@@ -138,8 +137,8 @@ def suggest_batch_words(existing_ids, count=10):
         response = client.chat.completions.create(
             model="gpt-4o",
             messages=[
-                {"role": "system", "content": "Suggest common everyday English words that have surprising or interesting etymologies. Output ONLY comma-separated words."},
-                {"role": "user", "content": f"Exclude: {', '.join(existing_ids)}. Need {needed} words."}
+                {"role": "system", "content": "Suggest common everyday English words with surprising etymologies. Mix nouns and interesting VERBS (actions/states). Output ONLY comma-separated words."},
+                {"role": "user", "content": f"Exclude: {', '.join(existing_ids)}. Need {needed} words (at least 50% verbs)."}
             ]
         )
         suggestions.extend([w.strip() for w in response.choices[0].message.content.split(',') if w.strip()])
