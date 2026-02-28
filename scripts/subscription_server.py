@@ -336,36 +336,7 @@ def mark_read():
     conn.close()
     return jsonify(status="success")
 
-@app.route('/api/submit-essay', methods=['POST'])
-def submit_essay():
-    data = request.json
-    username = data.get('username')
-    
-    # 有料会員チェック
-    conn = get_db_connection()
-    p = get_placeholder()
-    with conn:
-        with conn.cursor() as cur:
-            cur.execute(f"SELECT is_premium FROM users WHERE username={p}", (username,))
-            user = cur.fetchone()
-            if not user or not user[0]:
-                return jsonify(status="error", message="エッセイ投稿にはPremium会員である必要があります。"), 403
-            
-            cur.execute(f"INSERT INTO user_essays (title, content, author, date) VALUES ({p}, {p}, {p}, {p})",
-                         (data['title'], data['content'], username, datetime.now().strftime("%Y-%m-%d")))
-    conn.close()
-    
-    notify_followers(username, f"{username} さんが新しいエッセイを投稿しました：{data['title']}", "essays")
-    return jsonify(status="success")
-
-@app.route('/api/user-essays', methods=['GET'])
-def get_user_essays():
-    conn = get_db_connection()
-    with conn:
-        with conn.cursor() as cur:
-            cur.execute("SELECT id, title, content, author, date FROM user_essays WHERE is_deleted IS NOT TRUE ORDER BY date DESC")
-            res = cur.fetchall()
-            return jsonify([{"id":f"u_{r[0]}", "title":r[1], "content":r[2], "author":r[3], "date":r[4]} for r in res])
+# (Redundant endpoints removed and consolidated below)
 
 # --- オペレーター向け管理 API ---
 
@@ -639,13 +610,19 @@ def submit_essay():
     if not username or not title or not content:
         return jsonify(status="error", message="Missing fields")
     
-    date_str = datetime.now().strftime("%Y-%m-%d")
-    
     conn = get_db_connection()
     p = get_placeholder()
+    
+    # 有料会員チェック
     try:
         with conn:
             with conn.cursor() as cur:
+                cur.execute(f"SELECT is_premium FROM users WHERE username={p}", (username,))
+                user = cur.fetchone()
+                if not user or not user[0]:
+                    return jsonify(status="error", message="エッセイ投稿にはPremium会員である必要があります。"), 403
+                
+                date_str = datetime.now().strftime("%Y-%m-%d")
                 if DATABASE_URL:
                     cur.execute(f"INSERT INTO user_essays (title, content, author, date) VALUES ({p}, {p}, {p}, {p}) RETURNING id",
                                  (title, content, username, date_str))
@@ -654,6 +631,8 @@ def submit_essay():
                     cur.execute(f"INSERT INTO user_essays (title, content, author, date) VALUES ({p}, {p}, {p}, {p})",
                                  (title, content, username, date_str))
                     new_id = cur.lastrowid
+        
+        notify_followers(username, f"{username} さんが新しいエッセイを投稿しました：{title}", "essays")
         return jsonify(status="success", id=f"essay_user_{new_id}")
     except Exception as e:
         return jsonify(status="error", message=str(e))
