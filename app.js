@@ -182,11 +182,11 @@ function renderReflectionSection(targetId) {
             <div id="reflection-list" style="margin: 2rem 0;">
                 ${State.isPremium ? '<p class="dimmed">Gathering thoughts...</p>' : '<div class="lock-container" onclick="navigate(\'premium\')" style="padding:1.5rem; border-radius:12px; cursor:pointer;">🔒 Premiumメンバーのみ他の思索を閲覧できます</div>'}
             </div>
-            <div class="reflection-form" style="background:var(--color-surface); padding:2rem; border-radius:20px;">
-                <textarea id="ref-input" maxlength="300" placeholder="この言葉へのリフレクションを記す（200〜300字）" style="width:100%; min-height:120px; background:transparent; color:white; border:1px solid var(--color-border); border-radius:12px; padding:1.2rem; font-size: 1rem; line-height:1.6;"></textarea>
-                <div style="display:flex; justify-content:space-between; align-items:center; margin-top:1rem;">
-                    <span id="char-count" style="font-size:0.8rem; opacity:0.5;">0 / 300</span>
-                    <button id="ref-submit" class="primary-btn" style="min-width:150px;">Contribute Thought</button>
+            <div class="reflection-form" style="background:var(--color-surface); padding:2.5rem; border-radius:32px; border: 1px solid var(--color-border); margin-top:2rem;">
+                <textarea id="ref-input" maxlength="300" placeholder="この言葉へのリフレクションを記す（思索を深めるため200〜300字程度を推奨）" style="width:100%; min-height:160px; background:transparent; color:white; border:none; border-radius:12px; font-size: 1.1rem; line-height:1.8; outline:none; resize:none;"></textarea>
+                <div style="display:flex; justify-content:space-between; align-items:center; margin-top:1.5rem; padding-top:1.5rem; border-top:1px solid rgba(255,255,255,0.05);">
+                    <div id="char-count" style="font-size:0.9rem; opacity:0.5; font-family: 'Inter', sans-serif;">0 / 300 characters</div>
+                    <button id="ref-submit" class="primary-btn" style="padding: 0.8rem 2.5rem; border-radius: 100px; font-weight: 600;">Publish Reflection</button>
                 </div>
             </div>
         </section>
@@ -230,13 +230,50 @@ async function loadReflections(targetId) {
     `).join('') || '<p class="dimmed" style="text-align:center;">No reflections yet.</p>';
 
     const refInput = document.getElementById('ref-input');
-    if (refInput) {
-        refInput.oninput = () => { document.getElementById('char-count').textContent = `${refInput.value.length} / 300`; };
-        document.getElementById('ref-submit').onclick = async () => {
+    const refSubmit = document.getElementById('ref-submit');
+    const charCount = document.getElementById('char-count');
+
+    if (refInput && refSubmit) {
+        refInput.oninput = () => {
+            const count = refInput.value.length;
+            charCount.textContent = `${count} / 300 characters`;
+            charCount.style.color = count >= 200 ? 'var(--color-accent)' : 'inherit';
+            charCount.style.opacity = count >= 200 ? '1' : '0.5';
+        };
+
+        refSubmit.onclick = async () => {
             if (!State.currentUser) return navigate('premium');
-            if (refInput.value.length < 200) return showToast('200文字以上必要です');
-            await apiPost('/api/reflections', { word_id: targetId, username: State.currentUser, content: refInput.value });
-            refInput.value = ''; loadReflections(targetId); showToast('Reflected.');
+            const content = refInput.value.trim();
+
+            if (content.length < 200) {
+                showToast(`あと ${200 - content.length} 文字必要です（思考を深めるため200字以上推奨）`);
+                return;
+            }
+
+            refSubmit.innerText = 'Publishing...';
+            refSubmit.disabled = true;
+
+            try {
+                const res = await apiPost('/api/reflections', {
+                    word_id: targetId,
+                    username: State.currentUser,
+                    content: content
+                });
+
+                if (res.status === 'success') {
+                    showToast('思索がアーカイブに記録されました');
+                    refInput.value = '';
+                    charCount.textContent = '0 / 300 characters';
+                    await loadReflections(targetId);
+                } else {
+                    showToast('エラーが発生しました');
+                }
+            } catch (e) {
+                showToast('送信に失敗しました');
+            } finally {
+                refSubmit.innerText = 'Publish Reflection';
+                refSubmit.disabled = false;
+            }
         };
     }
     listEl.querySelectorAll('.layer-input').forEach(i => i.onkeypress = async (e) => {
