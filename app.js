@@ -6,6 +6,7 @@
 const State = {
     currentUser: localStorage.getItem('currentUser') || null,
     isPremium: localStorage.getItem('isPremium') === 'true',
+    isOperator: localStorage.getItem('isOperator') === 'true',
     currentView: 'today',
     savedWordIds: JSON.parse(localStorage.getItem('savedWords') || '[]'),
     savedEssayIds: JSON.parse(localStorage.getItem('savedEssays') || '[]'),
@@ -134,13 +135,34 @@ function renderReflectionSection(targetId) {
 async function loadReflections(targetId) {
     const listEl = document.getElementById('reflection-list');
     if (!listEl) return;
-    const data = await apiGet(`/api/reflections/${targetId}`);
+    const data = await apiGet(`/api/reflections/${targetId}?username=${State.currentUser || ''}`);
     listEl.innerHTML = data.map(r => `
         <div style="border-bottom: 1px solid rgba(255,255,255,0.05); padding: 2rem 0;">
-            <div style="display:flex; justify-content:space-between; font-size:0.9rem; margin-bottom:1rem; opacity:0.8;"><b>${r.username}</b> <span class="dimmed">${r.date}</span></div>
+            <div style="display:flex; justify-content:space-between; font-size:0.9rem; margin-bottom:1rem; opacity:0.8;">
+                <div><b>${r.username}</b> <span class="dimmed">${r.date}</span></div>
+                <div class="ugc-actions" style="display:flex; gap:10px;">
+                    <button onclick="reportItem('reflection', ${r.id}, '${r.username}')" title="通報" style="background:none; border:none; cursor:pointer; opacity:0.5;">🚩</button>
+                    ${r.username !== State.currentUser ? `
+                        <button onclick="blockUser('${r.username}')" title="ブロック" style="background:none; border:none; cursor:pointer; opacity:0.5;">🚫</button>
+                    ` : ''}
+                    <button onclick="hideItem('reflection', ${r.id})" title="非表示" style="background:none; border:none; cursor:pointer; opacity:0.5;">👁️‍🗨️</button>
+                    ${State.isOperator ? `
+                        <button onclick="adminDeleteContent('reflection', ${r.id})" title="削除 (Admin)" style="background:none; border:none; cursor:pointer; opacity:0.5; color:red;">🗑️</button>
+                    ` : ''}
+                </div>
+            </div>
             <p style="font-size:1.1rem; line-height: 1.7; margin-bottom: 1.5rem;">${r.content}</p>
             <div style="margin-left: 2rem; border-left: 2px solid var(--color-accent); padding-left: 1.5rem;">
-                ${r.replies.map(rep => `<div style="font-size:0.95rem; margin-bottom:0.8rem;"><b style="opacity:0.6;">${rep.username}:</b> ${rep.content}</div>`).join('')}
+                ${r.replies.map(rep => `
+                    <div style="font-size:0.95rem; margin-bottom:0.8rem; display:flex; justify-content:space-between;">
+                        <div><b style="opacity:0.6;">${rep.username}:</b> ${rep.content}</div>
+                        <div class="ugc-actions">
+                            <button onclick="reportItem('reply', ${rep.id}, '${rep.username}')" style="background:none; border:none; font-size:0.75rem; opacity:0.3; cursor:pointer;">🚩</button>
+                            <button onclick="hideItem('reply', ${rep.id})" style="background:none; border:none; font-size:0.75rem; opacity:0.3; cursor:pointer;">👁️‍🗨️</button>
+                            ${State.isOperator ? `<button onclick="adminDeleteContent('reply', ${rep.id})" style="background:none; border:none; font-size:0.75rem; opacity:0.3; cursor:pointer; color:red;">🗑️</button>` : ''}
+                        </div>
+                    </div>
+                `).join('')}
                 <input type="text" placeholder="Add a Layer..." class="layer-input" data-rid="${r.id}" style="background:none; border:none; border-bottom: 1px solid var(--color-border); color:white; font-size:0.9rem; width:100%; outline:none; padding:8px 0; margin-top:0.5rem;">
             </div>
         </div>
@@ -163,6 +185,36 @@ async function loadReflections(targetId) {
             i.value = ''; loadReflections(targetId);
         }
     });
+}
+
+// --- UGC Actions ---
+async function reportItem(type, id, targetUser) {
+    const reason = prompt('通報理由を入力してください（不適切な投稿、誹謗中傷など）:');
+    if (!reason) return;
+    await apiPost('/api/report', { reporter: State.currentUser || 'anonymous', target_username: targetUser, target_type: type, target_id: id, reason: reason });
+    showToast('通報を受け付けました。ご協力ありがとうございます。');
+}
+
+async function blockUser(targetUser) {
+    if (!State.currentUser) return navigate('premium');
+    if (!confirm(`${targetUser} さんをブロックしますか？このユーザーの投稿が表示されなくなります。`)) return;
+    await apiPost('/api/block', { blocker: State.currentUser, blocked: targetUser });
+    showToast('ユーザーをブロックしました。');
+    location.reload();
+}
+
+async function hideItem(type, id) {
+    if (!State.currentUser) { showToast('非表示機能にはログインが必要です'); return; }
+    await apiPost('/api/hide', { username: State.currentUser, target_type: type, target_id: id });
+    showToast('この投稿を非表示にしました。');
+    location.reload();
+}
+
+async function adminDeleteContent(type, id) {
+    if (!confirm('【管理者権限】この投稿を完全に削除しますか？')) return;
+    await apiPost('/api/admin/delete-content', { admin_username: State.currentUser, target_type: type, target_id: id });
+    showToast('コンテンツを削除しました。');
+    location.reload();
 }
 
 function renderArchive() {
@@ -300,6 +352,16 @@ function renderSettings() {
                     <button onclick="logout()" class="primary-btn" style="width:100%; padding:1rem; border-radius:12px; background:transparent; border:1px solid var(--color-border); color:var(--color-text-dim); transition:all 0.3s; cursor:pointer;" onmouseover="this.style.borderColor='var(--color-accent)';this.style.color='var(--color-text)'" onmouseout="this.style.borderColor='var(--color-border)';this.style.color='var(--color-text-dim)'">
                         Logout (Leave Identity)
                     </button>
+                    ${State.currentUser ? `
+                    <button onclick="requestDeleteAccount()" class="primary-btn" style="width:100%; padding:1rem; border-radius:12px; background:transparent; border:1px solid #721c24; color:#f8d7da; margin-top:1rem; font-size:0.8rem;">
+                        Delete Account (Identity Erasure)
+                    </button>
+                    ` : ''}
+                    ${State.isOperator ? `
+                    <button onclick="navigate('admin')" class="primary-btn" style="width:100%; padding:1rem; border-radius:12px; background:var(--color-premium); color:white; margin-top:1rem;">
+                        Admin Dashboard
+                    </button>
+                    ` : ''}
                 </div>
             </div>
         </div>
@@ -324,6 +386,45 @@ function renderPremium() {
     document.getElementById('buy-premium-btn').onclick = async () => { const res = await apiPost('/create-checkout-session?username=' + State.currentUser, {}); const stripe = Stripe('pk_test_51T5KW45XPK1iD6ycU5CgxWXqSgxgKUDSNWImeARHpDFXHrfBC1y8BI4w4tr2cvftIb9uiSickAv3PoGIM5i2SX5F00W2Uz21M8'); await stripe.redirectToCheckout({ sessionId: res.id }); };
 }
 
+async function renderAdmin() {
+    if (!State.isOperator) return navigate('today');
+    const reports = await apiGet(`/api/admin/reports?username=${State.currentUser}`);
+    viewContainer.innerHTML = `
+        <div class="admin-view fade-in" style="max-width:800px; margin: 0 auto; padding: 3rem;">
+            <h2 class="section-label">Operator Dashboard</h2>
+            <div class="report-list" style="margin-top:2rem;">
+                ${reports.map(r => `
+                    <div style="background:var(--color-surface); padding:2rem; border-radius:16px; margin-bottom:1.5rem; border:1px solid var(--color-border);">
+                        <div style="display:flex; justify-content:space-between; margin-bottom:1rem;">
+                            <span><b>Reporter:</b> ${r.reporter}</span>
+                            <span class="dimmed">${r.date}</span>
+                        </div>
+                        <p><b>Target:</b> ${r.target_username} (${r.target_type} ID: ${r.target_id})</p>
+                        <p style="background:rgba(255,0,0,0.1); padding:1rem; border-radius:8px; margin:1rem 0;"><b>Reason:</b> ${r.reason}</p>
+                        <div style="display:flex; gap:10px;">
+                            <button onclick="adminDeleteContent('${r.target_type}', ${r.target_id})" class="chip" style="background:red; color:white;">Delete Content</button>
+                            <button onclick="showToast('無視しました')" class="chip">Dismiss</button>
+                        </div>
+                    </div>
+                `).join('') || '<p class="dimmed">No pending reports.</p>'}
+            </div>
+        </div>
+    `;
+}
+
+async function requestDeleteAccount() {
+    const password = prompt('アカウントを完全に削除します。確認のためにパスワードを入力してください：');
+    if (!password) return;
+    if (!confirm('本当に削除しますか？この操作は取り消せません。')) return;
+    const res = await apiPost('/api/delete-account', { username: State.currentUser, password: password });
+    if (res.status === 'success') {
+        showToast('アカウントを消去しました。');
+        logout();
+    } else {
+        showToast(res.message);
+    }
+}
+
 function setupAuthListeners() {
     let mode = 'login';
     const title = document.getElementById('auth-title'), submit = document.getElementById('auth-submit'), toggle = document.getElementById('auth-toggle');
@@ -331,7 +432,7 @@ function setupAuthListeners() {
     submit.onclick = async () => {
         const username = document.getElementById('auth-username').value, password = document.getElementById('auth-password').value;
         const res = await apiPost('/api/' + mode, { username, password });
-        if (res.status === 'success') { if (mode === 'register') { showToast('Success. Please login.'); mode = 'login'; setupAuthListeners(); } else { State.currentUser = username; State.isPremium = res.is_premium; localStorage.setItem('currentUser', username); localStorage.setItem('isPremium', res.is_premium); applySettings(); navigate('today'); } }
+        if (res.status === 'success') { if (mode === 'register') { showToast('Success. Please login.'); mode = 'login'; setupAuthListeners(); } else { State.currentUser = username; State.isPremium = res.is_premium; State.isOperator = res.is_operator; localStorage.setItem('currentUser', username); localStorage.setItem('isPremium', res.is_premium); localStorage.setItem('isOperator', res.is_operator); applySettings(); navigate('today'); } }
         else showToast(res.message);
     };
 }
@@ -351,6 +452,7 @@ function navigate(view) {
             case 'essays': renderEssays(); break;
             case 'settings': renderSettings(); break;
             case 'premium': renderPremium(); break;
+            case 'admin': renderAdmin(); break;
         }
         viewContainer.classList.add('fade-in');
         window.scrollTo({ top: 0, behavior: 'smooth' });

@@ -47,24 +47,163 @@ def init_db():
     try:
         with conn:
             with conn.cursor() as cur:
-                # PostgreSQLとSQLiteで微妙に型や構文が違う場合があるため調整
                 if DATABASE_URL:
                     cur.execute('''CREATE TABLE IF NOT EXISTS users 
-                                    (username TEXT PRIMARY KEY, password TEXT, is_premium BOOLEAN DEFAULT FALSE)''')
+                                    (username TEXT PRIMARY KEY, password TEXT, is_premium BOOLEAN DEFAULT FALSE, is_operator BOOLEAN DEFAULT FALSE)''')
                     cur.execute('''CREATE TABLE IF NOT EXISTS reflections 
-                                    (id SERIAL PRIMARY KEY, word_id TEXT, username TEXT, content TEXT, date TEXT)''')
+                                    (id SERIAL PRIMARY KEY, word_id TEXT, username TEXT, content TEXT, date TEXT, is_deleted BOOLEAN DEFAULT FALSE)''')
                     cur.execute('''CREATE TABLE IF NOT EXISTS replies 
-                                    (id SERIAL PRIMARY KEY, reflection_id INTEGER, username TEXT, content TEXT, date TEXT)''')
+                                    (id SERIAL PRIMARY KEY, reflection_id INTEGER, username TEXT, content TEXT, date TEXT, is_deleted BOOLEAN DEFAULT FALSE)''')
+                    cur.execute('''CREATE TABLE IF NOT EXISTS reports 
+                                    (id SERIAL PRIMARY KEY, reporter TEXT, target_username TEXT, target_type TEXT, target_id INTEGER, reason TEXT, date TEXT, status TEXT DEFAULT 'pending')''')
+                    cur.execute('''CREATE TABLE IF NOT EXISTS blocks 
+                                    (blocker TEXT, blocked TEXT, PRIMARY KEY (blocker, blocked))''')
+                    cur.execute('''CREATE TABLE IF NOT EXISTS hidden_items 
+                                    (username TEXT, target_type TEXT, target_id INTEGER, PRIMARY KEY (username, target_type, target_id))''')
                 else:
                     cur.execute('''CREATE TABLE IF NOT EXISTS users 
-                                    (username TEXT PRIMARY KEY, password TEXT, is_premium BOOLEAN)''')
+                                    (username TEXT PRIMARY KEY, password TEXT, is_premium BOOLEAN, is_operator BOOLEAN DEFAULT 0)''')
                     cur.execute('''CREATE TABLE IF NOT EXISTS reflections 
-                                    (id INTEGER PRIMARY KEY AUTOINCREMENT, word_id TEXT, username TEXT, content TEXT, date TEXT)''')
+                                    (id INTEGER PRIMARY KEY AUTOINCREMENT, word_id TEXT, username TEXT, content TEXT, date TEXT, is_deleted INTEGER DEFAULT 0)''')
                     cur.execute('''CREATE TABLE IF NOT EXISTS replies 
-                                    (id INTEGER PRIMARY KEY AUTOINCREMENT, reflection_id INTEGER, username TEXT, content TEXT, date TEXT)''')
+                                    (id INTEGER PRIMARY KEY AUTOINCREMENT, reflection_id INTEGER, username TEXT, content TEXT, date TEXT, is_deleted INTEGER DEFAULT 0)''')
+                    cur.execute('''CREATE TABLE IF NOT EXISTS reports 
+                                    (id INTEGER PRIMARY KEY AUTOINCREMENT, reporter TEXT, target_username TEXT, target_type TEXT, target_id INTEGER, reason TEXT, date TEXT, status TEXT)''')
+                    cur.execute('''CREATE TABLE IF NOT EXISTS blocks 
+                                    (blocker TEXT, blocked TEXT, PRIMARY KEY (blocker, blocked))''')
+                    cur.execute('''CREATE TABLE IF NOT EXISTS hidden_items 
+                                    (username TEXT, target_type TEXT, target_id INTEGER, PRIMARY KEY (username, target_type, target_id))''')
     finally:
         conn.close()
 init_db()
+
+# --- ユーティリティ ---
+def is_operator(username):
+    # 環境変数のOPERATORS（カンマ区切り）に含まれているか、DBのフラグを確認
+    operators_env = os.environ.get("OPERATORS", "").split(",")
+    if username in operators_env:
+        return True
+    
+    conn = get_db_connection()
+    p = get_placeholder()
+    with conn:
+        with conn.cursor() as cur:
+            cur.execute(f"SELECT is_operator FROM users WHERE username={p}", (username,))
+            res = cur.fetchone()
+    conn.close()
+    return bool(res[0]) if res else False
+
+# --- アカウント・UGC管理機能 ---
+
+@app.route('/api/delete-account', methods=['POST'])
+def delete_account():
+    data = request.json
+    username = data.get('username')
+    password = data.get('password')
+    
+    conn = get_db_connection()
+    p = get_placeholder()
+    try:
+        with conn:
+            with conn.cursor() as cur:
+                cur.execute(f"SELECT password FROM users WHERE username={p}", (username,))
+                user = cur.fetchone()
+                if user and check_password_hash(user[0], password):
+                    cur.execute(f"DELETE FROM users WHERE username={p}", (username,))
+                    # 関連データも消す場合はここで追加
+                    return jsonify(status="success")
+    finally:
+        conn.close()
+    return jsonify(status="error", message="認証に失敗しました"), 401
+
+@app.route('/api/report', methods=['POST'])
+def report_item():
+    data = request.json
+    conn = get_db_connection()
+    p = get_placeholder()
+    with conn:
+        with conn.cursor() as cur:
+            cur.execute(f"INSERT INTO reports (reporter, target_username, target_type, target_id, reason, date, status) VALUES ({p}, {p}, {p}, {p}, {p}, {p}, {p})",
+                         (data['reporter'], data['target_username'], data['target_type'], data['target_id'], data['reason'], datetime.now().strftime("%Y-%m-%d %H:%M"), 'pending'))
+    conn.close()
+    return jsonify(status="success")
+
+@app.route('/api/block', methods=['POST'])
+def block_user():
+    data = request.json
+    conn = get_db_connection()
+    p = get_placeholder()
+    try:
+        with conn:
+            with conn.cursor() as cur:
+                cur.execute(f"INSERT INTO blocks (blocker, blocked) VALUES ({p}, {p})",
+                             (data['blocker'], data['blocked']))
+    except:
+        pass # 既にブロック済み
+    finally:
+        conn.close()
+    return jsonify(status="success")
+
+@app.route('/api/hide', methods=['POST'])
+def hide_item():
+    data = request.json
+    conn = get_db_connection()
+    p = get_placeholder()
+    try:
+        with conn:
+            with conn.cursor() as cur:
+                cur.execute(f"INSERT INTO hidden_items (username, target_type, target_id) VALUES ({p}, {p}, {p})",
+                             (data['username'], data['target_type'], data['target_id']))
+    except:
+        pass
+    finally:
+        conn.close()
+    return jsonify(status="success")
+
+# --- オペレーター向け管理 API ---
+
+@app.route('/api/admin/reports', methods=['GET'])
+def get_reports():
+    admin_user = request.args.get('username')
+    if not is_operator(admin_user):
+        return jsonify(status="error", message="Unauthorized"), 403
+    
+    conn = get_db_connection()
+    with conn:
+        with conn.cursor() as cur:
+            cur.execute("SELECT * FROM reports WHERE status='pending' ORDER BY date DESC")
+            reports = cur.fetchall()
+            result = []
+            for r in reports:
+                # DBのカラムに合わせてマッピング
+                result.append({
+                    "id": r[0], "reporter": r[1], "target_username": r[2],
+                    "target_type": r[3], "target_id": r[4], "reason": r[5], "date": r[6]
+                })
+    conn.close()
+    return jsonify(result)
+
+@app.route('/api/admin/delete-content', methods=['POST'])
+def admin_delete_content():
+    data = request.json
+    admin_user = data.get('admin_username')
+    if not is_operator(admin_user):
+        return jsonify(status="error", message="Unauthorized"), 403
+    
+    target_type = data.get('target_type') # 'reflection' or 'reply'
+    target_id = data.get('target_id')
+    report_id = data.get('report_id')
+
+    conn = get_db_connection()
+    p = get_placeholder()
+    with conn:
+        with conn.cursor() as cur:
+            table = "reflections" if target_type == "reflection" else "replies"
+            cur.execute(f"UPDATE {table} SET is_deleted={p} WHERE id={p}", (True, target_id))
+            if report_id:
+                cur.execute(f"UPDATE reports SET status={p} WHERE id={p}", ('resolved', report_id))
+    conn.close()
+    return jsonify(status="success")
 
 # --- アプリ（フロントエンド）の配信 ---
 @app.route('/')
@@ -126,7 +265,15 @@ def login():
         stored_hash = user[0]
         # 保存されているハッシュと入力されたパスワードを比較
         if check_password_hash(stored_hash, password):
-            return jsonify(status="success", is_premium=bool(user[1]))
+            # オペレーターかどうかも取得
+            conn = get_db_connection()
+            p = get_placeholder()
+            with conn:
+                with conn.cursor() as cur:
+                    cur.execute(f"SELECT is_operator FROM users WHERE username={p}", (username,))
+                    res = cur.fetchone()
+            conn.close()
+            return jsonify(status="success", is_premium=bool(user[1]), is_operator=bool(res[0]) if res else False)
     
     return jsonify(status="error", message="ユーザー名またはパスワードが違います。"), 401
 
@@ -207,22 +354,47 @@ def submit_word():
 
 @app.route('/api/reflections/<word_id>', methods=['GET'])
 def get_reflections(word_id):
+    current_user = request.args.get('username')
     conn = get_db_connection()
     p = get_placeholder()
+    
+    # ブロックしているユーザーと非表示アイテムのリストを取得
+    blocked_users = []
+    hidden_refs = []
+    hidden_reps = []
+    if current_user:
+        with conn:
+            with conn.cursor() as cur:
+                cur.execute(f"SELECT blocked FROM blocks WHERE blocker={p}", (current_user,))
+                blocked_users = [row[0] for row in cur.fetchall()]
+                cur.execute(f"SELECT target_id, target_type FROM hidden_items WHERE username={p}", (current_user,))
+                for row in cur.fetchall():
+                    if row[1] == 'reflection': hidden_refs.append(row[0])
+                    else: hidden_reps.append(row[0])
+
     with conn:
         with conn.cursor() as cur:
-            cur.execute(f"SELECT id, username, content, date FROM reflections WHERE word_id={p}", (word_id,))
+            # is_deleted が False(0) のものだけ取得
+            cur.execute(f"SELECT id, username, content, date FROM reflections WHERE word_id={p} AND (is_deleted IS NULL OR is_deleted = {p})", (word_id, False if DATABASE_URL else 0))
             reflections = cur.fetchall()
             result = []
             for r in reflections:
-                cur.execute(f"SELECT username, content, date FROM replies WHERE reflection_id={p}", (r[0],))
+                # ブロックしているユーザーや非表示にした投稿を除外
+                if r[1] in blocked_users or r[0] in hidden_refs: continue
+                
+                cur.execute(f"SELECT id, username, content, date FROM replies WHERE reflection_id={p} AND (is_deleted IS NULL OR is_deleted = {p})", (r[0], False if DATABASE_URL else 0))
                 replies = cur.fetchall()
+                filtered_replies = []
+                for rep in replies:
+                    if rep[1] in blocked_users or rep[0] in hidden_reps: continue
+                    filtered_replies.append({"id": rep[0], "username": rep[1], "content": rep[2], "date": rep[3]})
+
                 result.append({
                     "id": r[0],
                     "username": r[1],
                     "content": r[2],
                     "date": r[3],
-                    "replies": [{"username": rep[0], "content": rep[1], "date": rep[2]} for rep in replies]
+                    "replies": filtered_replies
                 })
     conn.close()
     return jsonify(result)
