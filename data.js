@@ -25592,5 +25592,57 @@ const WORDS = [
                 "source": "Online Etymology Dictionary",
                 "date": "2026-02-28",
                 "era": "16th Century"
+        },
+        {
+                "id": "beguile",
+                "word": "Beguile",
+                "part_of_speech": "verb",
+                "meaning": "惑わすこと、欺くこと",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "be-",
+                                        "type": "prefix",
+                                        "meaning": "目的を強調する",
+                                        "lang": "Old English"
+                                },
+                                {
+                                        "text": "guile",
+                                        "type": "root",
+                                        "meaning": "欺き",
+                                        "lang": "Old French"
+                                }
+                        ],
+                        "original_statement": "The word 'beguile' originates from Middle English 'beguile', meaning to deceive or to charm, influenced by Old French 'guile'."
+                },
+                "core_concept": {
+                        "en": "A dance between deception and charm, artfully entwined.",
+                        "ja": "欺きと魅了の舞、巧みに交織されるもの。"
+                },
+                "thinking_layer": "「欺く」は単に相手を騙すという表面的な行為を超えて、その根底に潜む心理の微妙な動きを表す。まるで絵画における陰影のように、感情や状況を彩り、意識の奥で幽玄な風景と化していく。欺くことによって生じる関係性は、信頼と不信、真実と虚構の境界を曖昧にし、それ自体がまた新たな物語を紡ぐ。人間の本質は、その多層的な心理において、自己と他者との間にある見えない糸を手繰り寄せ、丁寧に編み込む。その意味で「惑わす」という行為は、究極の創造的行為であり、人生の複雑さを反映する究極の表現でもある。欺きつつ魅了するこの行為は、私たちが他者に投影するイメージを変化させ、そしてその過程で私たち自身の捉え方もまた変わっていく。結果として、欺くことがもたらす影響は、単なる一瞬の出来事を越えて、その後の出来事や関係性を静かに揺るがす、永続的な影を落とす。だからこそ、その行為は同時に警戒すべきであり、芸術的でもあるのだ。欺きの中に潜む繊細で複雑な美を理解することは、人間の心理を深く探る営みでもある。 ",
+                "synonyms": [
+                        "entice",
+                        "charm"
+                ],
+                "antonyms": [
+                        "repulse",
+                        "disenchant"
+                ],
+                "aftertaste": "Beguile is where spellbinding charm meets the art of subtle deceit.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "guile",
+                                        "meaning": "deceit"
+                                }
+                        ],
+                        "points": [
+                                "「beguile」という語は、その古英語の接頭辞「be-」と古フランス語の「guile」に由来し、目的を強化しつつ欺きの意味を持つ。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-02-28",
+                "era": "Middle English, influenced by Old French"
         }
 ];
