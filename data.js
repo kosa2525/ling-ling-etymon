@@ -23751,5 +23751,60 @@ const WORDS = [
                 },
                 "source": "Online Etymology Dictionary",
                 "date": "2026-02-28"
+        },
+        {
+                "id": "understand",
+                "word": "Understand",
+                "part_of_speech": "verb",
+                "meaning": "認識する、理解すること。",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "under",
+                                        "type": "prefix",
+                                        "meaning": "下に",
+                                        "lang": "Old English"
+                                },
+                                {
+                                        "text": "standan",
+                                        "type": "root",
+                                        "meaning": "立つ",
+                                        "lang": "Old English"
+                                }
+                        ],
+                        "original_statement": "The word 'understand' derives from Old English 'understandan,' meaning to stand in the midst of."
+                },
+                "core_concept": {
+                        "en": "To grasp without disturbance the nature of things.",
+                        "ja": "物事の本質を静かに捉えること。"
+                },
+                "thinking_layer": "理解とは、ただ知識を蓄積することではなく、心と精神を通じて深く共鳴するための行為です。例えば、花を見てその色や形を知るだけでなく、その美しさや儚さに触れることが理解の始まりかもしれません。その奥深い世界において、心は音叉のように共鳴しながら、真の理解に近づいていきます。人々は言葉を超えて、透明な心の内なる声に耳を傾け、この異なる次元に浸ることで、未知を知る歓びを味わいます。理解とは、言語を超えた心と心の対話であり、ただ目に見えるものの奥に潜む真実を解き明かすこと。この深淵な旅を通して私たちは、自らの限界を知りつつも、未知なる次元への興味を抱き続けるのです。そうして人は、外界と内界の交わるところに立ち、今この瞬間を生き生きと感じることができるのです。",
+                "synonyms": [
+                        "Comprehend",
+                        "Grasp"
+                ],
+                "antonyms": [
+                        "Misunderstand",
+                        "Ignore"
+                ],
+                "aftertaste": "To truly understand is to open the heart's silent conversations.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "under",
+                                        "meaning": "below, under"
+                                },
+                                {
+                                        "term": "standan",
+                                        "meaning": "stand, be firm"
+                                }
+                        ],
+                        "points": [
+                                "理解という行為は、単なる機械的な知識の吸収を超えたもので、精神の奥底に届く深い共鳴である。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-02-28"
         }
 ];
