@@ -22570,5 +22570,60 @@ const WORDS = [
                 },
                 "source": "Online Etymology Dictionary",
                 "date": "2026-02-28"
+        },
+        {
+                "id": "universe",
+                "word": "Universe",
+                "part_of_speech": "noun",
+                "meaning": "全ての存在や事象を含む広大な空間。",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "uni-",
+                                        "type": "prefix",
+                                        "meaning": "一",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "versum",
+                                        "type": "root",
+                                        "meaning": "回る",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The term 'universe' comes from the Latin 'universus', a combination of 'uni-' meaning 'one' and 'versus', the past participle of 'vertere' meaning 'to turn'."
+                },
+                "core_concept": {
+                        "en": "The cosmos in a harmonious dance of singular existence.",
+                        "ja": "一つの存在が調和の中で舞う宇宙。"
+                },
+                "thinking_layer": "宇宙とは、無限と有限の狭間にある未知の海である。その始まりも終わりも知れず、我々の小さな存在を超越する広大なキャンバスだ。すべての星、銀河、そして我々自身の生命は、この無限の背景に描かれた一瞬の絵画である。宇宙は単なる物理的存在ではなく、我々の知識の端で踊る神秘のジャンルであり、存在の探求の源泉である。私たちが生きる瞬間、夢見、考えるすべてはこの広がりに埋め込まれており、その中で我々は自分自身を見つめ直す。宇宙は、生命の謎を解き明かし、未知を知る探求の旅人たちに永遠のインスピレーションを供給する。過去、現在、そして未来が交錯するこの大いなる物語の一節である。普遍性がそこにある。すべては一つ、されどその一はすべてを包む。",
+                "synonyms": [
+                        "Cosmos",
+                        "Creation"
+                ],
+                "antonyms": [
+                        "Nothingness",
+                        "Void"
+                ],
+                "aftertaste": "The universe is serenity wrapped in the chaos of endless existence.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "uni-",
+                                        "meaning": "one"
+                                },
+                                {
+                                        "term": "versum",
+                                        "meaning": "to turn"
+                                }
+                        ],
+                        "points": [
+                                "『Universe』は、ラテン語の『uni-』と『versum』からなり、「一なるものが回転する」という意味を持つ。このことから、全体を包括し回帰する普遍的なイメージを想起させる。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-02-28"
         }
 ];
