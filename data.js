@@ -27868,5 +27868,51 @@ const WORDS = [
                 "source": "Online Etymology Dictionary",
                 "date": "2026-03-01",
                 "era": "15th Century, Middle English"
+        },
+        {
+                "id": "hurdle",
+                "word": "Hurdle",
+                "part_of_speech": "noun/verb",
+                "meaning": "障害物または困難",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "hurdler",
+                                        "type": "root",
+                                        "meaning": "フェンス、囲い",
+                                        "lang": "古英語"
+                                }
+                        ],
+                        "original_statement": "The word 'hurdle' originates from the Old English 'hurdler', meaning a portable fence or barrier, derived from Proto-Germanic roots."
+                },
+                "core_concept": {
+                        "en": "A barrier to be overcome, both physically and metaphorically.",
+                        "ja": "克服すべき物理的および比喩的な障害。"
+                },
+                "thinking_layer": "『ハードル』という言葉は、物理的、精神的な両面から探究する価値を持っています。日常生活や心理的な旅において、ハードルは私たちの成長を妨げたり、逆にそれを刺激するきっかけとなることがあります。それは克服すべき課題であり、成長の一里塚でもあるのです。これらのハードルを乗り越える過程で、人は自己の限界を知り、未知の領域へと足を踏み入れる勇気を得ます。時にその試練は人を諦めさせ、時に心の強さを育みます。そして我々は旅の果てに、自分が何を成し遂げ、何を乗り越えてきたのかを振り返るでしょう。ハードルは単なる障害に留まらず、人間性深くに根ざした哲学的な概念なのです。それは、私たちがどのように自分自身と向き合い、周囲の世界と調和して生きるかを問う根源的な問いなのです。克服すべき何かがあるということは、その先に広がる新しい可能性への扉を開く鍵でもあるのです。",
+                "synonyms": [
+                        "obstacle",
+                        "barrier"
+                ],
+                "antonyms": [
+                        "aid",
+                        "facilitation"
+                ],
+                "aftertaste": "Crossing a hurdle refines both strength and spirit.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "hurdler",
+                                        "meaning": "フェンス、囲い"
+                                }
+                        ],
+                        "points": [
+                                "『ハードル』という語は、物理的および象徴的な障害の概念を持ち、成長と挑戦の機会を象徴しています。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Old English, Proto-Germanic origin"
         }
 ];
