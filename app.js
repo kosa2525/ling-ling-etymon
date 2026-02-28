@@ -539,6 +539,11 @@ function updateArchiveGrid() {
 }
 
 async function renderEssays() {
+    viewContainer.innerHTML = `
+        <div class="essays-view fade-in" style="text-align:center; padding: 5rem;">
+            <p class="dimmed">Gathering thoughts from the deep sea...</p>
+        </div>`;
+
     const officialEssays = (typeof ESSAYS !== 'undefined') ? [...ESSAYS] : [];
     let userEssays = [];
     try {
@@ -547,11 +552,12 @@ async function renderEssays() {
     } catch (e) {
         console.error("Failed to fetch user essays:", e);
     }
-    const allEssays = [...officialEssays, ...userEssays];
-    allEssays.sort((a, b) => b.date.localeCompare(a.date));
-    window.ESSAY_CACHE = allEssays; // キャッシュに保存
 
-    // 非表示フィルタの適用
+    const allEssays = [...officialEssays, ...userEssays];
+    // 日付順にソート（日付がない場合は古いものとして扱う）
+    allEssays.sort((a, b) => (b.date || '').localeCompare(a.date || ''));
+    window.ESSAY_CACHE = allEssays;
+
     let list = allEssays;
     if (localStorage.getItem('hiddenEssays')) {
         const hiddenIds = JSON.parse(localStorage.getItem('hiddenEssays'));
@@ -571,7 +577,7 @@ async function renderEssays() {
             <div class="essay-list">${list.map(e => `
                 <div class="essay-card" onclick="openEssay('${e.id}')" style="background:var(--color-surface); padding:3rem; border-radius:24px; margin-bottom:2rem; border:1px solid var(--color-border); cursor:pointer; position:relative;">
                     <div style="display:flex; justify-content:space-between; align-items:center;">
-                        <span class="dimmed" style="font-size:0.9rem;">${e.date}</span>
+                        <span class="dimmed" style="font-size:0.9rem;">${e.date || 'Unknown Date'}</span>
                         <span class="dimmed" style="font-size:0.8rem;">by <b>${e.author || 'etymon_official'}</b></span>
                     </div>
                     <h2 style="margin: 1rem 0; font-size:2rem; line-height:1.2;">${e.title} ${!State.isPremium ? '🔒' : ''}</h2>
@@ -854,25 +860,34 @@ function setupAuthListeners() {
 
 function logout() { localStorage.clear(); location.reload(); }
 
-function navigate(view) {
+async function navigate(view) {
     State.currentView = view;
     Object.keys(navItems).forEach(k => { if (navItems[k]) navItems[k].classList.toggle('active', k === view); });
-    viewContainer.classList.remove('fade-in');
-    setTimeout(() => {
-        switch (view) {
-            case 'today': renderToday(); break;
-            case 'archive': renderArchive(); break;
-            case 'saved': renderSaved(); break;
-            case 'contribute': renderContribute(); break;
-            case 'essays': renderEssays(); break;
-            case 'settings': renderSettings(); break;
-            case 'premium': renderPremium(); break;
-            case 'admin': renderAdmin(); break;
-            case 'connections': renderConnections(); break;
-            case 'notifications': renderNotifications(); break;
-            case 'network': renderWordNetwork(); break;
-            case 'timeline': renderTimeline(); break;
+
+    // 切り替え時に一旦非表示にする、またはローディング表示を検討
+    viewContainer.style.opacity = '0';
+
+    setTimeout(async () => {
+        try {
+            switch (view) {
+                case 'today': renderToday(); break;
+                case 'archive': renderArchive(); break;
+                case 'saved': renderSaved(); break;
+                case 'contribute': renderContribute(); break;
+                case 'essays': await renderEssays(); break;
+                case 'settings': renderSettings(); break;
+                case 'premium': renderPremium(); break;
+                case 'admin': await renderAdmin(); break;
+                case 'connections': await renderConnections(); break;
+                case 'notifications': await renderNotifications(); break;
+                case 'network': await renderWordNetwork(); break;
+                case 'timeline': renderTimeline(); break;
+            }
+        } catch (err) {
+            console.error("Navigation error:", err);
+            viewContainer.innerHTML = `<div style="padding:5rem; text-align:center;">Error loading view. <button onclick="location.reload()" class="chip">Reload</button></div>`;
         }
+        viewContainer.style.opacity = '1';
         viewContainer.classList.add('fade-in');
         window.scrollTo({ top: 0, behavior: 'smooth' });
     }, 50);
