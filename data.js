@@ -20921,5 +20921,48 @@ const WORDS = [
                 },
                 "source": "Oxford English Dictionary",
                 "date": "2026-02-28"
+        },
+        {
+                "id": "hello",
+                "word": "Hello",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "hola-/hal-",
+                                        "type": "root",
+                                        "meaning": "呼びかけの語",
+                                        "lang": "Germanic"
+                                }
+                        ],
+                        "original_statement": "The word 'hello' derived from the Old High German word 'hallo', which was used as a call of attention or greeting."
+                },
+                "core_concept": {
+                        "en": "An echo across the corridors of human connection.",
+                        "ja": "人間のつながりの回廊に響くこだま"
+                },
+                "thinking_layer": "『こんにちは』とは、日常生活の一瞬を捉える言葉であり、心と心を結ぶ架け橋としての機能を果たしている。この言葉の発音は、時には無意識に、時には意識的に発せられ、互いに存在を認識し、理解しようとする人々の間の無形の絆を象徴している。『こんにちは』は、瞬間を共有し、対話を始めるための扉である。それは無を意味する端緒にも似て、一つの始まりとしての存在感を持つ。この単純な挨拶は、距離と沈黙の壁を打ち破り、共鳴し合う心の波を誘う魔法の言葉である。人間のコミュニケーションは、この『こんにちは』に内在する可能性と共鳴に支えられ、より深い関係性へと昇華されていく。果たして、この一言には、どれほどの重みを持つ思いが込められているのだろうか。それは、毎日の生命の軽やかな脈動であり、静寂の帷幕を通じて差し伸べられる友愛の証である。この言葉は、孤独を癒やし、共にいることの高貴な価値を教えてくれる見えない手のような存在であると言えるだろう。",
+                "synonyms": [
+                        "Hi",
+                        "Greetings"
+                ],
+                "antonyms": [
+                        "Farewell",
+                        "Goodbye"
+                ],
+                "aftertaste": "A greeting woven with the threads of humanity.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "hallo-",
+                                        "meaning": "a shout to attract attention"
+                                }
+                        ],
+                        "points": [
+                                "『こんにちは』という言葉はその発音により、発話者の気持ちや相手に対する敬意を柔らかく伝える役割を果たします。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-02-28"
         }
 ];
