@@ -23806,5 +23806,56 @@ const WORDS = [
                 },
                 "source": "Online Etymology Dictionary",
                 "date": "2026-02-28"
+        },
+        {
+                "id": "believe",
+                "word": "Believe",
+                "part_of_speech": "verb",
+                "meaning": "信じるという行為や状態",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "be-",
+                                        "type": "prefix",
+                                        "meaning": "強調",
+                                        "lang": "Old English"
+                                },
+                                {
+                                        "text": "lief",
+                                        "type": "root",
+                                        "meaning": "愛する、信頼する",
+                                        "lang": "Proto-Germanic"
+                                }
+                        ],
+                        "original_statement": "The word derives from the Old English 'belȳfan', which combines 'be-' (intensive prefix) with 'gelēfan' (to believe), rooted in the Proto-Germanic '*ga-laubjan' meaning 'to hold dear, to love'."
+                },
+                "core_concept": {
+                        "en": "To hold truth and trust in the unseen, a faithful embrace of the intangible.",
+                        "ja": "目に見えないものへの信頼と真実の保持"
+                },
+                "thinking_layer": "信じることは、視覚や知覚ではなく魂の深みから昇る光のようなものと言えます。それは、一度も触れたことのない存在を心で掴む旅でもあります。目に見えるものが全てではないと悟るとき、その心の裏付けを必要とする思いが信じる行為の中に息づいています。信じるという行為は、自分自身や他者、あるいは見えない未来に対する寄りかかるような、柔らかさと強さを兼ね備えた言葉です。まるで目を閉じていても、日差しが肌に当たって温かさを感じるように、信じるという行為も理論や証拠を超えた場所で生まれます。命という川が流れるならば、信じるとはその流れの音楽に身を任せることとも言えるでしょう。私たちが何かを真摯に信じるとき、そこには恐れも不確定も越えた静かな確信と愛情があります。信じることの中に潜む静けさは、人生の旋律を紡ぐ不可欠の音です。",
+                "synonyms": [
+                        "trust",
+                        "rely"
+                ],
+                "antonyms": [
+                        "doubt",
+                        "mistrust"
+                ],
+                "aftertaste": "True belief is the silent strength that supports the fragile bridge between reality and dreams.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "believe",
+                                        "meaning": "To hold dear, to love"
+                                }
+                        ],
+                        "points": [
+                                "信仰や信条の根源には、時代を超えた人間の本質的な特性が凝縮されています。言葉の歴史を辿ることにより、信じる行為が如何に自己と他者を結ぶための橋として機能してきたかが明らかになります。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-02-28"
         }
 ];
