@@ -857,10 +857,15 @@ async function renderWordNetwork() {
     network.on("click", function (params) {
         if (params.nodes.length > 0) {
             const nodeId = params.nodes[0];
-            const word = (typeof WORDS !== 'undefined') ? WORDS.find(w => w.word === nodeId) : null;
-            if (word) {
-                State.todayWord = word;
-                navigate('today');
+            const nodeData = nodes.get(nodeId);
+            if (nodeData && nodeData.group === 'root') {
+                searchToArchive(nodeData.label);
+            } else {
+                const word = (typeof WORDS !== 'undefined') ? WORDS.find(w => w.word === nodeId) : null;
+                if (word) {
+                    State.todayWord = word;
+                    navigate('today');
+                }
             }
         }
     });
