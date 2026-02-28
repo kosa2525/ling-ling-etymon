@@ -24008,5 +24008,56 @@ const WORDS = [
                 },
                 "source": "Oxford English Dictionary",
                 "date": "2026-02-28"
+        },
+        {
+                "id": "wander",
+                "word": "Wander",
+                "part_of_speech": "verb",
+                "meaning": "彷徨う、放浪する",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "wand-",
+                                        "type": "root",
+                                        "meaning": "さまよう",
+                                        "lang": "Old High German"
+                                },
+                                {
+                                        "text": "-er",
+                                        "type": "suffix",
+                                        "meaning": "～する人/動作",
+                                        "lang": "Old High German"
+                                }
+                        ],
+                        "original_statement": "From Middle High German 'wandern', from Old High German 'wandern', meaning 'to roam, wander.'"
+                },
+                "core_concept": {
+                        "en": "A soulful journey without a destination.",
+                        "ja": "目的地のない魂の旅"
+                },
+                "thinking_layer": "『彷徨う』という言葉は、ある意味で人間の宿命を映し出す鏡である。生命そのものが不断の探求と漂流であるように、われわれはしばしば確かな目的地を持たずに旅を続ける。古くから旅人は道中で自然の不確かさと出会い、未知を旅し、内なる世界を発見する。自己を超えた場所へ行くとき、何を探しているのかを知らずして、それでも心は先へと向かう。彷徨には自由と不安、発見と迷いの二面相がある。ただ進むこと、それ以上でも以下でもなく、目の前に現れる風景をただ受け入れ、歩を進める。それこそが、人生の真髄ともいえる心の風景であろうか。今日の地平線が明日の道となり、未完であるがゆえに美しい軌跡を描く。彷徨の意味の奥深さについて考えるとき、われわれは本質的に何を探しているのだろうか。その答えはおそらく、風に乗って我々のもとへ戻ってくるだろう。",
+                "synonyms": [
+                        "roam",
+                        "meander"
+                ],
+                "antonyms": [
+                        "stay",
+                        "settle"
+                ],
+                "aftertaste": "To wander is to dance with the unknown.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "wandern",
+                                        "meaning": "to roam, walk"
+                                }
+                        ],
+                        "points": [
+                                "『wandern』は中高ドイツ語から由来し、人類の探究心と内なる旅を象徴している。この語法は、目的を超越した運動の美しさを表現する。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-02-28"
         }
 ];
