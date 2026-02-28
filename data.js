@@ -26538,5 +26538,51 @@ const WORDS = [
                 "source": "Online Etymology Dictionary",
                 "date": "2026-03-01",
                 "era": "Old English Era"
+        },
+        {
+                "id": "boycott",
+                "word": "Boycott",
+                "part_of_speech": "noun/verb",
+                "meaning": "ボイコットすること/排斥",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "boycott",
+                                        "type": "root",
+                                        "meaning": "ボイコット",
+                                        "lang": "English"
+                                }
+                        ],
+                        "original_statement": "The term 'boycott' originates from Captain Charles C. Boycott, who was ostracized by his community in Ireland in 1880 for refusing to reduce rent charges."
+                },
+                "core_concept": {
+                        "en": "A collective withdrawal from engagement to protest and enforce change.",
+                        "ja": "変革を促すために関与を拒否する集団的行動"
+                },
+                "thinking_layer": "ボイコットとは、ただ単なる抵抗の手段ではなく、人間の本質に対する問いを投げかける行為です。社会的な関係の布地に編み込まれた一つの糸を引っ張る行為が、どのようにして全体の構造を揺るがし得るのか。この行動は、何かへの反発以上のものであり、我々自身の倫理を再評価する機会を提供します。一人の人間から始まったこの言葉の背後には、個と集団、権力と抵抗、そして倫理と利益の間に横たわる絶え間ない緊張が存在します。人は集団としての力を持ちつつも、その行動一つ一つが個の意識に根ざしているという矛盾の中で、ボイコットは自己反省の場を提供します。歴史的事例が示すように、ボイコットはただの拒否ではなく、新たな社会契約の礎となる可能性を秘めています。抵抗の理想と現実の中で、我々は何を選び取るのか、その選択肢はどのように生まれるのか。これらの深遠な問いこそ、ボイコットという行為が我々に問い掛ける命題です。",
+                "synonyms": [
+                        "ostracize",
+                        "shun"
+                ],
+                "antonyms": [
+                        "support",
+                        "endorse"
+                ],
+                "aftertaste": "Boycotting is a quiet thunder that shakes the conscience.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "boycott",
+                                        "meaning": "to refuse to engage with"
+                                }
+                        ],
+                        "points": [
+                                "ボイコットという言葉は、19世紀の歴史的事件から生まれ、今もなおその社会的影響力を持ち続けています。この行為は非常に強力な政治的ツールとして機能し、意識を高めたり、システムに変革をもたらす潜在力を有していることが認識されています。"
+                        ]
+                },
+                "source": "Oxford English Dictionary, Merriam-Webster",
+                "date": "2026-03-01",
+                "era": "Late 19th Century"
         }
 ];
