@@ -23121,5 +23121,50 @@ const WORDS = [
                 },
                 "source": "Oxford English Dictionary",
                 "date": "2026-02-28"
+        },
+        {
+                "id": "light",
+                "word": "Light",
+                "part_of_speech": "noun/adjective/verb",
+                "meaning": "光、明かり、灯火",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "leuk-",
+                                        "type": "root",
+                                        "meaning": "光",
+                                        "lang": "Proto-Indo-European"
+                                }
+                        ],
+                        "original_statement": "The word 'light' originates from the Old English 'leoht', which traces back to the Proto-Indo-European root 'leuk-', meaning 'brightness or light'."
+                },
+                "core_concept": {
+                        "en": "The radiant dance of photons that banishes darkness.",
+                        "ja": "闇を追い払う光子の輝かしいダンス。"
+                },
+                "thinking_layer": "光というのは、我々が視覚で捉えることを可能にし、生命にとって不可欠なエネルギーを提供する。哲学的に考えれば、光はただの物理的な現象ではない。それは存在の象徴であり、無からの出現、新しい日の始まりとも解釈することができる。文学や詩においても光はしばしば希望、啓示、あるいは神聖な力として表現される。古代の人々は火を恐れ敬ったように、光もまた神秘的で崇高なものであった。光の本質を探求することは、宇宙の秘密に触れることでもある。それは発展と葛藤、誕生と死、永遠と瞬間の間を揺れ動く存在の旅路であるのかもしれない。また、内なる光、人間の心の中にある見えない輝きに思いを馳せることもできよう。その内に秘められた光が放つかすかな輝きは、人生の方向性を示唆する羅針盤であり、我々に内面的な探求を促す力となる。光は単に物質的な現象を超越し、心、魂の深奥まで照らし出す、普遍的なシンボルであり続ける。",
+                "synonyms": [
+                        "Radiance",
+                        "Illumination"
+                ],
+                "antonyms": [
+                        "Darkness",
+                        "Shadow"
+                ],
+                "aftertaste": "In light, we find the echoes of creation, guiding us through the shadows.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "leuk-",
+                                        "meaning": "brightness or light"
+                                }
+                        ],
+                        "points": [
+                                "光の語源は、原始インド・ヨーロッパ語族の 'leuk-' に由来し、光や明るさを意味する。この語根は、他の多くの言語にも見られる類似の語彙と関連している。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-02-28"
         }
 ];
