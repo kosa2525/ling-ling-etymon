@@ -26095,5 +26095,51 @@ const WORDS = [
                 "source": "Etymology Online",
                 "date": "2026-02-28",
                 "era": "Middle English, 14th Century"
+        },
+        {
+                "id": "flick",
+                "word": "Flick",
+                "part_of_speech": "noun/verb",
+                "meaning": "軽くはじくこと; さっと動かすこと",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "flecken-",
+                                        "type": "root",
+                                        "meaning": "軽く打つ",
+                                        "lang": "Middle English"
+                                }
+                        ],
+                        "original_statement": "The word 'flick' emerged in the Middle English period, influenced by onomatopoeic sounds."
+                },
+                "core_concept": {
+                        "en": "A swift, gentle motion evocative of fleeting touch.",
+                        "ja": "一瞬の優雅な動きの核となる概念"
+                },
+                "thinking_layer": "『フリック』という言葉は、時間と空間の流れの中で生まれた小さな動きの象徴である。わずかな力で軽くはじかれた物体が作り出す瞬間の一種の静けさや、そこに潜む美しさを暗示し、われわれの日常にしばしば影響を与える。自然界の中でも、鳥の翼や魚のヒレのささやかな動きに類似し、それは存在そのものの美と儚さを思い起こさせる。この言葉には、内にあるいろいろな感情や無意識の作用が含まれており、やがては私たちの心の奥深くに響く。『フリック』が示すのは、単なる動作のフィジカルな側面以上のものである。精神的な軽さ、たおやかであり、意志の表現とも言えるこの動きは、月明かりに照らされるような静かな瞬間に、私たち自身を映し出す鏡のような存在である。",
+                "synonyms": [
+                        "Tap",
+                        "Snap"
+                ],
+                "antonyms": [
+                        "Hold",
+                        "Grasp"
+                ],
+                "aftertaste": "A gentle motion leaves an echo in the silence.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "flecken",
+                                        "meaning": "to strike lightly"
+                                }
+                        ],
+                        "points": [
+                                "この言葉は中世英語に由来し、音の響きや軽やかな動きを現す擬音的な要素を含む。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Middle English"
         }
 ];
