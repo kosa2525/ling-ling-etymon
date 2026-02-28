@@ -25500,5 +25500,51 @@ const WORDS = [
                 "source": "Online Etymology Dictionary",
                 "date": "2026-02-28",
                 "era": "Late Latin, 14th to 15th Century"
+        },
+        {
+                "id": "fathom",
+                "word": "Fathom",
+                "part_of_speech": "noun/verb",
+                "meaning": "深さを測ること",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "faeðm-",
+                                        "type": "root",
+                                        "meaning": "抱擁、腕の広がり",
+                                        "lang": "Old English"
+                                }
+                        ],
+                        "original_statement": "The word 'fathom' originates from the Old English 'faeðm', referring to the span of outstretched arms, which was approximately six feet and used as a measurement of depth."
+                },
+                "core_concept": {
+                        "en": "To understand the depth of the ocean, and the soul.",
+                        "ja": "海と魂の深さを理解すること"
+                },
+                "thinking_layer": "『ファゾム』という言葉は、表面的な意味合い以上に我々の精神の深淵を象徴している。この言葉は、ただ物理的な深さを測る行為を示すだけでなく、個々の内面的な世界を探索し、理解しようとする人間の尽きない探求心をも具現化している。人間の心の奥底には広大な海と同様に測り知れぬ深さが潜む。それを理解することは、時に不可能なほど困難でありながらも、それを求め行動することで、我々はより豊かな人生を手に入れるのだ。究極的には、この探求は、自己理解と他者理解の両方を促進し、真実の本質を探るその営みそのものである。そして、この精神的な冒険の果てに、我々は人間の素晴らしさと不完全さを同時に抱擁し、より真实の自分と向き合うことができるのである。",
+                "synonyms": [
+                        "Measure",
+                        "Comprehend"
+                ],
+                "antonyms": [
+                        "Misunderstand",
+                        "Ignore"
+                ],
+                "aftertaste": "To fathom is to bridge the known with the unknown.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "faeðm",
+                                        "meaning": "span of arms"
+                                }
+                        ],
+                        "points": [
+                                "『ファゾム』は単なる物理的な計測手段ではなく、洞察力の象徴としても文学や哲学的な文脈でよく用いられる。特に、自己認識や他者理解を深めるためのメタファーとして広く認識されている。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-02-28",
+                "era": "Old English"
         }
 ];
