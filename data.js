@@ -26141,5 +26141,58 @@ const WORDS = [
                 "source": "Oxford English Dictionary",
                 "date": "2026-03-01",
                 "era": "Middle English"
+        },
+        {
+                "id": "cobble",
+                "word": "Cobble",
+                "part_of_speech": "noun/verb",
+                "meaning": "石を敷き詰めること、または修理すること",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "cobel",
+                                        "type": "root",
+                                        "meaning": "丸い石、小石",
+                                        "lang": "Middle English"
+                                },
+                                {
+                                        "text": "cob",
+                                        "type": "root",
+                                        "meaning": "頭、塊",
+                                        "lang": "Middle Low German"
+                                }
+                        ],
+                        "original_statement": "The word 'cobble' derives from Middle English 'coblen', originally meaning to dress stones, and 'cob', a round object or lump."
+                },
+                "core_concept": {
+                        "en": "The symphony of stone and human intent, tangible yet timeless.",
+                        "ja": "石と人の意志が織りなす交響曲、触れることができながらも永遠であるもの"
+                },
+                "thinking_layer": "『cobble』という単語は、石をつなぎ合わせるという行動そのものだけでなく、時間を超えた人類の意志と革新の象徴である。道を整える行為は、ただの物理的な行為に留まらず、未来への道筋を築くための人類の無限の試みを表している。石の一つひとつが過去と現在をつなぐ象徴であり、その粗い表面をたどると、時の流れの中で編まれてきた無数の物語を感じ取ることができる。『cobble』は、無数の歴史のカケラが、今ここに私たちを導くために敷き詰められているという事実を私たちに再認識させてくれる。石の冷たさと重さ、それに伴う静寂の中にこそ、計り知れない人類の息遣いや夢がこめられている。『cobble』が示唆するのは、進化と変化の道筋における基盤の重要さであり、たとえ変わらないように見えても、実はそれが未来を創造する力の源であるということである。",
+                "synonyms": [
+                        "pave",
+                        "repair"
+                ],
+                "antonyms": [
+                        "destroy",
+                        "remove"
+                ],
+                "aftertaste": "Cobbling is the art of weaving stones into the fabric of time.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "cobel",
+                                        "meaning": "pebble"
+                                }
+                        ],
+                        "points": [
+                                "中世では、cobbleは「小石」または「丸石」を指し、道を舗装する際に使用されていた。",
+                                "cobbleは時代と共に修理や改修の意味を内包し、今日の工芸品や建築においてもその技法は生き続けている。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "14th Century"
         }
 ];
