@@ -27914,5 +27914,57 @@ const WORDS = [
                 "source": "Oxford English Dictionary",
                 "date": "2026-03-01",
                 "era": "Old English, Proto-Germanic origin"
+        },
+        {
+                "id": "procrastinate",
+                "word": "Procrastinate",
+                "part_of_speech": "verb",
+                "meaning": "先延ばしすること",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "pro-",
+                                        "type": "prefix",
+                                        "meaning": "前へ",
+                                        "lang": "ラテン語"
+                                },
+                                {
+                                        "text": "crastinus",
+                                        "type": "root",
+                                        "meaning": "翌日の",
+                                        "lang": "ラテン語"
+                                }
+                        ],
+                        "original_statement": "The word 'procrastinate' originates from the Latin 'procrastinatus', the past participle of 'procrastinare', which means to postpone to a future day."
+                },
+                "core_concept": {
+                        "en": "The art of delaying the inevitable with grace and subtlety.",
+                        "ja": "不可避のものを優雅かつ微妙に遅らせる技術"
+                },
+                "thinking_layer": "思索の層において、我々は時折、未来に向け広がる時空という広大な海に身を委ねます。『先延ばし』という行為は、この広がりの中での独特な航海技術です。この技術は、今という刹那を手放し、未来の漠然とした可能性の中に身を投げる決断を意味します。それは、未来において全ての可能性が開かれるまで現在を固定しない、ある種の抵抗と受容の共存である。先延ばしは一見、行動の欠如や惰性の結果として非難されがちですが、実際には、無限の可能な時間線を探索する、我々の心の内における深遠な対話の一環です。私たちは、時間のリズムを即興で刻み、その即興性の中で、自らの存在を微調整しています。そのため、先延ばしは単なる遅滞ではなく、特定の時点で沸き上がる衝動や不安、希望を鑑みた上での、美しく複雑な人間の行動パターンのひとつなのです。",
+                "synonyms": [
+                        "delay",
+                        "postpone"
+                ],
+                "antonyms": [
+                        "hasten",
+                        "expedite"
+                ],
+                "aftertaste": "In each moment of delay lies a tapestry of potential futures, woven from threads of uncertainty and hope.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "crastinus",
+                                        "meaning": "pertaining to tomorrow"
+                                }
+                        ],
+                        "points": [
+                                "『先延ばし』の語源は、驚くほど象徴的です。未来に関係するという意味であるが故に、我々の意識が時間をどのように捉えるかを反映しているのです。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "16th Century"
         }
 ];
