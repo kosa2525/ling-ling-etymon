@@ -27318,5 +27318,61 @@ const WORDS = [
                 "source": "Oxford English Dictionary",
                 "date": "2026-03-01",
                 "era": "14th Century"
+        },
+        {
+                "id": "eavesdrop",
+                "word": "Eavesdrop",
+                "part_of_speech": "noun/verb",
+                "meaning": "他人の会話をこっそり聞くこと",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "eaves-",
+                                        "type": "root",
+                                        "meaning": "軒",
+                                        "lang": "Old English"
+                                },
+                                {
+                                        "text": "drop",
+                                        "type": "root",
+                                        "meaning": "滴",
+                                        "lang": "Old English"
+                                }
+                        ],
+                        "original_statement": "The term 'eavesdrop' originates from the Old English word 'yfesdrype', describing the ground on which water falls after dropping from the eaves of a house."
+                },
+                "core_concept": {
+                        "en": "The art of unseen listening, like water falling unnoticed.",
+                        "ja": "見えぬ耳を持つこと、それはしずくのように音もなく落ちる。"
+                },
+                "thinking_layer": "誰にも気づかれずに耳を傾けるという行為、その本質には、未知の世界へとひそかに侵入する冒険者のような側面がある。軒先から気づかれずに滴り落ちる雨のように、人々の会話の小川へとそっと忍び込み、各々の言葉の波紋を感じる。その静寂の中にこそ、他者の心に触れるという稀有な体験が秘められている。耳をすまし、聞こえてくるもの、それはいつも別世界の反響であり、自らの内なる静寂によってこそ理解される。この密やかな行いこそが、人間が持つ知り得ぬものへの探究心を象徴するのである。同時に、そこには自身の境界線を超え他者の領域に足を踏み入れることへの倫理的な問いも生まれる。耳を傾けるということは、他者の真実に触れる冒険であり、自身の絆を試される時でもあるのだ。見えぬ耳は、影のように世界の細部を拾い、風が葉を揺らすように真実を舞い降ろすものだ。",
+                "synonyms": [
+                        "Overhear",
+                        "Listen secretly"
+                ],
+                "antonyms": [
+                        "Ignore",
+                        "Neglect"
+                ],
+                "aftertaste": "Eavesdropping is the shadow listening of the soul.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "eaves",
+                                        "meaning": "The edge of a roof"
+                                },
+                                {
+                                        "term": "drop",
+                                        "meaning": "To fall in small amounts"
+                                }
+                        ],
+                        "points": [
+                                "中世の時代、軒先から滴り落ちる空気や水に耳を傾ける者たちは、自然界の声を聞く観察者でもあった。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Old English"
         }
 ];
