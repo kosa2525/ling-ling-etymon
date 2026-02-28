@@ -26394,5 +26394,51 @@ const WORDS = [
                 "source": "Oxford English Dictionary",
                 "date": "2026-03-01",
                 "era": "Late Middle English / 14th Century"
+        },
+        {
+                "id": "casual",
+                "word": "Casual",
+                "part_of_speech": "adjective",
+                "meaning": "偶然の, 気楽な",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "late Latin casualis",
+                                        "type": "root",
+                                        "meaning": "偶然の",
+                                        "lang": "Late Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'casual' arrives in English in the late Middle Ages, derived from the Latin 'casualis', meaning 'by chance'."
+                },
+                "core_concept": {
+                        "en": "A gentle dance in the tapestry of chance.",
+                        "ja": "偶然の織り成す優雅な舞踏"
+                },
+                "thinking_layer": "日常の中における「カジュアル」という言葉の存在は、まるで時間の流れの中に漂う浮遊する葉のようである。この言葉は、人が気を抜く瞬間、無意識の中に溶け込み、自然と調和を成す。それはただの「偶然」という凡庸な概念を超えて、人々が抱える不確実性への穏やかな受け入れを象徴している。カジュアルな態度、カジュアルな会話、あるいはカジュアルな出会い―それらはいずれも人生の旅の中で、時には想像もできない転機を迎える前の静寂の時間たちだ。カジュアルであることは、リラックスという一時的な快楽を超えて、激動の時代における心の静けさ、そして今この瞬間を素直に受け入れる勇気の表現でもある。偶然という思考の中で、そこから生まれる無限の可能性を仰ぎ見ることによって、我々は自らの存在の意味を深く問い直すことができるのだ。",
+                "synonyms": [
+                        "informal",
+                        "unplanned"
+                ],
+                "antonyms": [
+                        "formal",
+                        "intentional"
+                ],
+                "aftertaste": "In the embrace of chance, we find serendipity.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "casus",
+                                        "meaning": "an event, an occurrence"
+                                }
+                        ],
+                        "points": [
+                                "この語はラテン語の『casus』から派生しており、それは『出来事、発生』を意味する。時間の流れにおける一時的な変遷の中で、人がどのように無意識にそれを受け入れ、日々を過ごしていくのかという内省を求める。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "Late Middle Ages"
         }
 ];
