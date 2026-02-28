@@ -21113,5 +21113,54 @@ const WORDS = [
                 },
                 "source": "Online Etymology Dictionary",
                 "date": "2026-02-28"
+        },
+        {
+                "id": "horizon",
+                "word": "Horizon",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "horiz-",
+                                        "type": "root",
+                                        "meaning": "limit or boundary",
+                                        "lang": "Greek"
+                                },
+                                {
+                                        "text": "-on",
+                                        "type": "suffix",
+                                        "meaning": "denotes noun",
+                                        "lang": "Greek"
+                                }
+                        ],
+                        "original_statement": "The word 'horizon' originates from the Greek term 'horizōn kyklos', meaning 'separating circle' or 'bounding circle' which was used to describe the boundary between Earth and sky."
+                },
+                "core_concept": {
+                        "en": "The embracing boundary where Earth kisses the sky.",
+                        "ja": "地球が空に口づける、抱擁する境界線の美しさ"
+                },
+                "thinking_layer": "地平線とは、視界の果てに存在する不確かな線として私たちを魅了し続ける存在である。その線を越えた先に何があるのか、それは誰も知ることができない、まるで人生そのもののようだ。我々はその線を目印として、日々を旅し、未知への好奇心を燃やし続ける。地平線は視覚的終端であると同時に、精神的に到達し得る限界の表象でもある。この境界は、明日に対する希望と過去からの追憶の交差点でもあり、存在の各瞬間における一時的な目的地を示している。地平線に対する感覚は、私たちがどれほど狭き視野にいるかを示しつつ、同時にどれほど広がり得るかを暗示する。これは、無限への憧れと有限への畏怖を交える象徴であり、自己の内なる探索への誘いである。地平線は、私たちに見ることの叶わぬ全てを想起させ、その想像の遥か彼方へと心を馳せさせるものだ。",
+                "synonyms": [
+                        "Boundary",
+                        "Limit"
+                ],
+                "antonyms": [
+                        "Infinity",
+                        "Unboundedness"
+                ],
+                "aftertaste": "A journey into the horizon is a journey into oneself.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "horizō",
+                                        "meaning": "to divide or separate"
+                                }
+                        ],
+                        "points": [
+                                "地平線は、自然界の物理的構造における不動の要素として、文明の発展においても重要な意味合いを持つ。そのルーツには、視覚的経験の枠を超え、識別と想像を刺激する力がある。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-02-28"
         }
 ];
