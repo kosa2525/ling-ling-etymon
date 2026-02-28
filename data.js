@@ -23696,5 +23696,60 @@ const WORDS = [
                 },
                 "source": "Online Etymology Dictionary",
                 "date": "2026-02-28"
+        },
+        {
+                "id": "discover",
+                "word": "Discover",
+                "part_of_speech": "verb",
+                "meaning": "発見する",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "dis-",
+                                        "type": "prefix",
+                                        "meaning": "逆、反対",
+                                        "lang": "ラテン語"
+                                },
+                                {
+                                        "text": "cooperire",
+                                        "type": "root",
+                                        "meaning": "覆う",
+                                        "lang": "ラテン語"
+                                }
+                        ],
+                        "original_statement": "The word 'discover' originates from the Latin 'discooperire', which is composed of 'dis-' (a negative prefix) and 'cooperire' (to cover), implying the act of removing a cover to reveal something hidden."
+                },
+                "core_concept": {
+                        "en": "The poetic unveiling of the unseen.",
+                        "ja": "目に見えないものを詩的に解き明かす"
+                },
+                "thinking_layer": "“発見”という行為は、光が闇を切り裂く瞬間に似ています。それは、世界の隅々に潜む謎に光を投げかけることであり、未知の領域に足を踏み入れる勇気が求められます。この行為の背後には、好奇心と可能性が無限に広がっており、その探求には人間の本質的な願望が潜んでいます。発見とは、視覚を超え、新たなる視座を獲得する試みであり、自己と世界との対話の一つです。この対話の中で、私たちは自らの存在の意味を再定義し、日常の中に新たな驚きを見出すのです。すべての発見は、それ独自の物語を帯び、私たちに深い哲学的思索の旅路を再び示します。新しい知識への扉を開くたび、その発見は私たち自身をも変え、未知なる未来への期待と希望を抱かせるのです。こうして、人間は世界を理解しようとする永遠の旅を続けるのです。",
+                "synonyms": [
+                        "Uncover",
+                        "Reveal"
+                ],
+                "antonyms": [
+                        "Conceal",
+                        "Hide"
+                ],
+                "aftertaste": "Revelation sparkles in the twilight of understanding.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "dis-",
+                                        "meaning": "apart or away"
+                                },
+                                {
+                                        "term": "cooperire",
+                                        "meaning": "to cover"
+                                }
+                        ],
+                        "points": [
+                                "発見は元来、覆われた物を除去する行為から派生しています。このプロセスは、知識の追求が本質的にベールを取り去ることにあることを示唆しています。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-02-28"
         }
 ];
