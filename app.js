@@ -13,6 +13,7 @@ const State = {
     todayWord: null,
     searchFilter: null,
     letterFilter: null,
+    followedUsers: [],
 
     // UI Settings
     fontSize: parseInt(localStorage.getItem('set_fontSize') || '16'),
@@ -333,8 +334,41 @@ async function markNotifRead(id, link) {
 
 async function followUser(targetUser) {
     if (!State.currentUser) return navigate('premium');
-    await apiPost('/api/follow', { follower: State.currentUser, followed: targetUser });
-    showToast(`Followed ${targetUser}`);
+    const isFollowing = State.followedUsers.includes(targetUser);
+
+    try {
+        if (isFollowing) {
+            await apiPost('/api/unfollow', { follower: State.currentUser, followed: targetUser });
+            State.followedUsers = State.followedUsers.filter(u => u !== targetUser);
+            showToast(`Unsubscribed from ${targetUser}`);
+        } else {
+            await apiPost('/api/follow', { follower: State.currentUser, followed: targetUser });
+            State.followedUsers.push(targetUser);
+            showToast(`Subscribed to ${targetUser}`);
+        }
+
+        // 現時点のビューを再描画してボタン表示を更新
+        if (State.currentView === 'essays') {
+            // エッセイ詳細を表示中なら再描画が必要だが、
+            // IDが分からないので一旦navigate経由でリフレッシュするか
+            // もしくはボタン自体を書き換える
+            const btn = document.querySelector(`button[onclick="followUser('${targetUser}')"]`);
+            if (btn) {
+                btn.textContent = State.followedUsers.includes(targetUser) ? 'Followed' : 'Follow';
+                btn.classList.toggle('followed', State.followedUsers.includes(targetUser));
+            }
+        }
+    } catch (e) {
+        showToast("Error update follow status");
+    }
+}
+
+async function loadFollows() {
+    if (!State.currentUser) return;
+    try {
+        const res = await apiGet(`/api/follows?username=${State.currentUser}`);
+        State.followedUsers = res || [];
+    } catch (e) { console.error(e); }
 }
 
 async function unfollowUser(targetUser) {
@@ -582,7 +616,7 @@ function openEssay(id) {
                     <span class="dimmed" style="font-size:1rem;">${e.date}</span>
                     <div style="display:flex; gap:10px; align-items:center;">
                         <span class="dimmed">by <b>${e.author || 'etymon_official'}</b></span>
-                        ${e.author && e.author !== State.currentUser && e.author !== 'etymon_official' ? `<button onclick="followUser('${e.author}')" class="chip" style="font-size:0.7rem;">Follow</button>` : ''}
+                        ${e.author && e.author !== State.currentUser && e.author !== 'etymon_official' ? `<button onclick="followUser('${e.author}')" class="chip ${State.followedUsers.includes(e.author) ? 'followed' : ''}" style="font-size:0.7rem;">${State.followedUsers.includes(e.author) ? 'Followed' : 'Follow'}</button>` : ''}
                     </div>
                 </div>
                 <h1 style="font-size:3.5rem; margin:1.5rem 0; line-height:1.1; letter-spacing:-0.03em;">${e.title}</h1>
@@ -790,7 +824,7 @@ function setupAuthListeners() {
     submit.onclick = async () => {
         const username = document.getElementById('auth-username').value, password = document.getElementById('auth-password').value;
         const res = await apiPost('/api/' + mode, { username, password });
-        if (res.status === 'success') { if (mode === 'register') { showToast('Success. Please login.'); mode = 'login'; setupAuthListeners(); } else { State.currentUser = username; State.isPremium = res.is_premium; State.isOperator = res.is_operator; localStorage.setItem('currentUser', username); localStorage.setItem('isPremium', res.is_premium); localStorage.setItem('isOperator', res.is_operator); applySettings(); navigate('today'); } }
+        if (res.status === 'success') { if (mode === 'register') { showToast('Success. Please login.'); mode = 'login'; setupAuthListeners(); } else { State.currentUser = username; State.isPremium = res.is_premium; State.isOperator = res.is_operator; localStorage.setItem('currentUser', username); localStorage.setItem('isPremium', res.is_premium); localStorage.setItem('isOperator', res.is_operator); applySettings(); await loadFollows(); navigate('today'); } }
         else showToast(res.message);
     };
 }
@@ -1014,6 +1048,7 @@ document.addEventListener('DOMContentLoaded', async () => {
     if (typeof WORDS !== 'undefined' && WORDS.length) {
         if (!State.todayWord) State.todayWord = WORDS[Math.floor(Math.random() * WORDS.length)];
     }
+    await loadFollows();
     if (!State.currentUser) navigate('premium'); else navigate('today');
 });
 

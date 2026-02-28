@@ -265,7 +265,10 @@ def follow_user():
         with conn:
             with conn.cursor() as cur:
                 cur.execute(f"INSERT INTO follows (follower, followed) VALUES ({p}, {p})", (data['follower'], data['followed']))
-    except: pass
+                # 通知を追加
+                add_notification(data['followed'], 'follow', f"{data['follower']}さんがあなたをフォローしました。", f"/profile/{data['follower']}")
+    except Exception as e:
+        print(f"Follow error: {e}")
     conn.close()
     return jsonify(status="success")
 

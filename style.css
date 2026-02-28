@@ -423,6 +423,14 @@ main {
     border-radius: 100px;
     font-size: 0.85rem;
     color: var(--color-text);
+    border: none;
+    cursor: pointer;
+    transition: all var(--transition-fast);
+}
+
+.chip.followed {
+    background: var(--color-accent);
+    color: white;
 }
 
 /* Ad Banner */
