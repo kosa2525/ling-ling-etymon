@@ -23382,5 +23382,70 @@ const WORDS = [
                 },
                 "source": "Online Etymology Dictionary",
                 "date": "2026-02-28"
+        },
+        {
+                "id": "experience",
+                "word": "Experience",
+                "part_of_speech": "noun",
+                "meaning": "経験、体験",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "ex-",
+                                        "type": "prefix",
+                                        "meaning": "外へ",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "per-",
+                                        "type": "root",
+                                        "meaning": "通過して",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "entia",
+                                        "type": "root",
+                                        "meaning": "状態、性質",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "From Latin 'experientia', which means 'a trial, proof, experiment; knowledge gained by repeated trials'."
+                },
+                "core_concept": {
+                        "en": "A sublime journey through the fabric of reality.",
+                        "ja": "現実の織物を旅する崇高な道程"
+                },
+                "thinking_layer": "経験とは、時として人生の至福を味わうために必要とされる門である。それは瞬間を超越し、時の流れに身を委ねることで、我々の記憶に刻まれる。経験は知識を超え、我々が自らを理解し、他者とのつながりを深めるためのコンパスとして機能する。経験を通じて、我々は自己の限界を測り、心に永遠の印象を残す。哲学的には、経験こそが個々の生命における真実の探求であり、存在の深淵を覗き込む行為に他ならない。それはまた、心の広がりをもたらし、無限の可能性を秘めた扉を開く手段である。感覚を研ぎ澄まし、魂の音色を感じ取りながら、未知の世界への招待を受諾することこそが経験である。このように、経験は人生そのものを豊かにし、我々にとっての真の意味を与えてくれるものである。",
+                "synonyms": [
+                        "Practice",
+                        "Experimentation"
+                ],
+                "antonyms": [
+                        "Ignorance",
+                        "Inexperience"
+                ],
+                "aftertaste": "Experience is the soul's script written in the ink of time.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "ex-",
+                                        "meaning": "out of"
+                                },
+                                {
+                                        "term": "per-",
+                                        "meaning": "through"
+                                },
+                                {
+                                        "term": "entia",
+                                        "meaning": "state, quality"
+                                }
+                        ],
+                        "points": [
+                                "語源的には、経験とは「内に存在するものを外へと引き出す」行為を意味する。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-02-28"
         }
 ];
