@@ -27226,5 +27226,51 @@ const WORDS = [
                 "source": "Online Etymology Dictionary",
                 "date": "2026-03-01",
                 "era": "16th Century"
+        },
+        {
+                "id": "bag",
+                "word": "Bag",
+                "part_of_speech": "noun",
+                "meaning": "物を入れて運ぶための容器",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "bag-",
+                                        "type": "root",
+                                        "meaning": "袋",
+                                        "lang": "Middle English"
+                                }
+                        ],
+                        "original_statement": "The term 'bag' derives from the Middle English 'bagge', tracing its lineage from the Old Norse 'baggi', signifying a pack or pouch. The word shares roots with related words across Germanic languages, indicating a fundamental utility across cultures."
+                },
+                "core_concept": {
+                        "en": "A vessel of necessity and transport, bound by fabric yet limitless in purpose.",
+                        "ja": "持ち運びのための必需品としての容器、布で縛られながらも用途において無限。"
+                },
+                "thinking_layer": "袋とは、存在が内包する無限の可能性を象徴するものであり、人間の創造力の外的な投影である。我々は、袋の形状や材質によって、異なる心象風景を描き出す。素材の触れ合いは皮膚だけではなく、心そのものに穏やかな影を落とし、我々の持つものの価値を問いかける。しかし、袋はただ単なる物体であると言うにはあまりにも奥深い一面を持つ。内側に何を詰め込むかによって、その重みは変化し、持ち手は効果的に働く。袋はまた、信頼の象徴としての役割を果たす。何故なら、それがどんなに脆そうに見えても、その中身を守ると信じて私たちは預けるからだ。袋の真理は、その実体を超えて思考を巡らせる機会を与え、空間と物質の間を優雅に行き来するものである。",
+                "synonyms": [
+                        "Sack",
+                        "Carrier"
+                ],
+                "antonyms": [
+                        "Open",
+                        "Exposed"
+                ],
+                "aftertaste": "In the realm of containment, the bag whispers tales of journeys yet commenced.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "bag",
+                                        "meaning": "a pouch or container"
+                                }
+                        ],
+                        "points": [
+                                "袋という単語は、古ノルド語の「baggi」に遡り、共通の用途と形の基盤から各文化に根付いた言葉の進化を辿ります。"
+                        ]
+                },
+                "source": "Oxford Dictionary of English Etymology",
+                "date": "2026-03-01",
+                "era": "Middle English, Old Norse origin"
         }
 ];
