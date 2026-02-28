@@ -720,9 +720,10 @@ def get_word_network():
                     if root_text not in root_map: root_map[root_text] = []
                     root_map[root_text].append(w['word'])
                     
-                    current_type = type_map.get(root_text, 'prefix')
-                    if 'root' in b_type: type_map[root_text] = 'root'
-                    else: type_map[root_text] = current_type
+                    if 'prefix' in b_type:
+                        type_map[root_text] = 'prefix'
+                    elif 'root' in b_type and root_text not in type_map:
+                        type_map[root_text] = 'root'
         
         # 繋がり（2つ以上登録されているもの）がある語根だけを抽出
         valid_roots = {r: words_list for r, words_list in root_map.items() if len(words_list) >= 2}
