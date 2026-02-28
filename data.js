@@ -21309,5 +21309,52 @@ const WORDS = [
                 },
                 "source": "Oxford English Dictionary",
                 "date": "2026-02-28"
+        },
+        {
+                "id": "deadline",
+                "word": "Deadline",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "dead-line",
+                                        "type": "root",
+                                        "meaning": "死線",
+                                        "lang": "Japanese"
+                                }
+                        ],
+                        "original_statement": "The term 'deadline' originally signified a line which should not be crossed, a boundary in a prison beyond which prisoners could be shot. It later evolved to denote a time limit for tasks."
+                },
+                "core_concept": {
+                        "en": "A line drawn in the sand, a moment beyond which all change freezes.",
+                        "ja": "変化が凍結する瞬間、砂に引かれた線。"
+                },
+                "thinking_layer": "デッドラインの概念は、時間とプレッシャーの交差点に位置する。この言葉は我々の日々の生活において多くの意義を持ち、その背後には深遠な哲学が横たわっている。デッドラインとは、変化の可能性が終焉を迎える瞬間であり、時間が我々に課す無慈悲な制約である。それは、過去と未来を隔てる境界線であり、その線を越えた先には不可逆的な運命の流れが待ち受けている。私たちは常にデッドラインを意識し、時にそれに挑み、あるいはそれに屈する。その存在は我々に時間の有限性を痛感させ、瞬間を生きることの儚さを思い起こさせる。デッドラインを設定することは、目標を持ち、未来を切り開く行為であるが、同時にそれは自己の限界を知覚し、現在を無為に過ごさぬよう促すものでもある。デッドラインを超える勇気、そしてその先に待つ何かを受け入れる覚悟こそが、我々を真の成長へと導く。究極的には、デッドラインとは我々自身の心に描く境界であり、普遍的な時間の流れに我々の物語を刻み込むための道標なのである。",
+                "synonyms": [
+                        "Cutoff",
+                        "Time limit"
+                ],
+                "antonyms": [
+                        "Freedom",
+                        "Infinity"
+                ],
+                "aftertaste": "In the shadow of a deadline lies the essence of purpose.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "dead",
+                                        "meaning": "終わり"
+                                },
+                                {
+                                        "term": "line",
+                                        "meaning": "境界"
+                                }
+                        ],
+                        "points": [
+                                "デッドラインとは人間が時間と戦うために生み出した概念であり、それは自律の象徴として、文化的進化の一部でもある。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-02-28"
         }
 ];
