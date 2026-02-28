@@ -23600,5 +23600,50 @@ const WORDS = [
                 },
                 "source": "Online Etymology Dictionary",
                 "date": "2026-02-28"
+        },
+        {
+                "id": "create",
+                "word": "Create",
+                "part_of_speech": "verb",
+                "meaning": "新しいものを生み出すこと",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "creare",
+                                        "type": "root",
+                                        "meaning": "創造する",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "Derived from the Latin 'creare', meaning 'to make, bring forth, produce'."
+                },
+                "core_concept": {
+                        "en": "The divine act of bringing forth from void.",
+                        "ja": "無からの創造という神聖な行為。"
+                },
+                "thinking_layer": "『作る』という行為は、単なる物理的な製造を超えた深遠な意味を持つ。空虚の中から形を持たないものを呼び寄せ、具現化するその過程は、まるで神の手による奇跡である。まっさらなキャンバスに一筆を加えることで、新たな世界が広がるように、創造は我々の存在を宇宙に響かせるための行為でもある。創造の瞬間、我々は一瞬にして時間と空間を超え、想像の領域へと導かれる。それは自己実現の成就であり、社会的、文化的、精神的次元における無限の可能性を切り拓く鍵である。創造は孤独な探求であり、同時に普遍的な共有の儀式でもある。私たちの内なる資源を引き出し、他者と共鳴することで私たちは人間であることの本質を具現化する。創造は存在の意味を探求する旅であり、新しい視点を獲得するための翼であると言えよう。 ",
+                "synonyms": [
+                        "Construct",
+                        "Invent"
+                ],
+                "antonyms": [
+                        "Destroy",
+                        "Disassemble"
+                ],
+                "aftertaste": "Creation is the essence of humanity's eternal echo.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "creare",
+                                        "meaning": "to make"
+                                }
+                        ],
+                        "points": [
+                                "ラテン語の 'creare' に由来し、創造や生み出すというフィロソフィカルな概念を内包し、古典ラテン文明からの影響を現代にも感じさせる。"
+                        ]
+                },
+                "source": "The Oxford English Dictionary",
+                "date": "2026-02-28"
         }
 ];
