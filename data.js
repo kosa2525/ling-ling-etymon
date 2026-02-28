@@ -27076,5 +27076,51 @@ const WORDS = [
                 "source": "Oxford English Dictionary",
                 "date": "2026-03-01",
                 "era": "Proto-Indo-European origin"
+        },
+        {
+                "id": "goal",
+                "word": "Goal",
+                "part_of_speech": "noun",
+                "meaning": "目標",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "gaol/gam-",
+                                        "type": "root",
+                                        "meaning": "障害物または目標",
+                                        "lang": "Middle English"
+                                }
+                        ],
+                        "original_statement": "The word 'goal' derives from Middle English 'gol, chaule', akin to Old English 'gæl', meaning a boundary or barrier."
+                },
+                "core_concept": {
+                        "en": "The boundless aspiration encapsulated within a single point.",
+                        "ja": "単一の点に内包された無限の渇望"
+                },
+                "thinking_layer": "「目標」という言葉は、我々の存在そのものを反映する深淵な概念である。人生には数多くの瞬間があり、それぞれが新たな始まりを示している。この無数の出発点の中で、我々が目指す‘目標’は、まるで広大な宇宙に輝く星束である。あるいは、夢を追い続ける人類の普遍的な欲望の象徴でもあるかもしれない。目標とは、未来という時の流れの中で、無限に伸びていく希望の糸であり、私達の行動と心を方向づける灯火なのだ。その本質は必ずしも達成するべき固定された点ではなく、むしろ我々に挑戦を促し成長をもたらすための触媒であるとも言える。こうした目標が与える意味合いは、存在することそのものに対する哲学的な反響を引き起こし、我々を絶え間なく形式的現実から解放し、無限の可能性へと導く。目標がその道のりの中で変わることがあっても、それこそが人間の成長を示す証であり、究極的には到達点というよりも、新たなる夢を形作る旅の始まりを表すのだ。",
+                "synonyms": [
+                        "aim",
+                        "target"
+                ],
+                "antonyms": [
+                        "disarray",
+                        "aimlessness"
+                ],
+                "aftertaste": "A goal transforms dreams into an achievable reality.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "gæl",
+                                        "meaning": "boundary"
+                                }
+                        ],
+                        "points": [
+                                "中世における言葉の使用は、しばしば物理的な境界線や障害を指す意味に限定されていたが、時間とともに精神的および目的的な境界を超越するものとして進化してきた。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "13th Century"
         }
 ];
