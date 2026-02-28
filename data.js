@@ -22670,5 +22670,60 @@ const WORDS = [
                 },
                 "source": "Online Etymology Dictionary",
                 "date": "2026-02-28"
+        },
+        {
+                "id": "memory",
+                "word": "Memory",
+                "part_of_speech": "noun",
+                "meaning": "記憶または過去の経験の蓄積",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "memor-",
+                                        "type": "root",
+                                        "meaning": "心に留める",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "-ia",
+                                        "type": "suffix",
+                                        "meaning": "状態または性質",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'memory' originates from the Latin 'memoria', meaning the faculty of remembering. It is derived from the root 'memor', which refers to being mindful, or remembering."
+                },
+                "core_concept": {
+                        "en": "A delicate tapestry of past moments, woven into the fabric of consciousness.",
+                        "ja": "意識の織物に織り込まれた、過去の瞬間の繊細なタペストリー"
+                },
+                "thinking_layer": "記憶とは、時間の流れの中に浮かび上がる心の影絵とも言えるものである。それは我々が経験したこと、感じたこと、そして時には忘れたいと思う痛みさえも全てを抱え込む。記憶は、個人の記録であり、集団の歴史を作り上げるレンガでもある。まるで夜空の星のように、記憶は時の彼方で輝き、我々が何者であるかを垣間見せる。忘却の闇に消えず、意識の深淵を明るく照らす灯台となる記憶の震えは、自身を見つめ直す手がかりとなる。記憶は過去への窓であり、同時に未来への指標でもある。何度も書き換えられ、捉えどころのない記憶の性質は、人類の哲学的探求の中心にある。記憶の紡ぎ出す物語に耳を傾けることで、我々は自分の人生の意義を理解する一助となるのだ。",
+                "synonyms": [
+                        "recollection",
+                        "remembrance"
+                ],
+                "antonyms": [
+                        "forgetfulness",
+                        "oblivion"
+                ],
+                "aftertaste": "Memory is the bridge between who we were and who we might become.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "memor-",
+                                        "meaning": "mindful, remembering"
+                                },
+                                {
+                                        "term": "-ia",
+                                        "meaning": "state or condition"
+                                }
+                        ],
+                        "points": [
+                                "記憶は感情と結びついているため、非常に個人的でありながら普遍的な要素である。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-02-28"
         }
 ];
