@@ -27122,5 +27122,51 @@ const WORDS = [
                 "source": "Oxford English Dictionary",
                 "date": "2026-03-01",
                 "era": "13th Century"
+        },
+        {
+                "id": "knack",
+                "word": "Knack",
+                "part_of_speech": "noun",
+                "meaning": "特技、コツ",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "knak-",
+                                        "type": "root",
+                                        "meaning": "叩く、かんしゃく",
+                                        "lang": "Middle Low German"
+                                }
+                        ],
+                        "original_statement": "The word 'knack' likely stems from the Middle Low German word 'knak', suggesting a sharp or clever sound, paralleling a skill or distinctive ability."
+                },
+                "core_concept": {
+                        "en": "A flair or innate ability to accomplish a task effortlessly.",
+                        "ja": "容易に物事を成し遂げる特有の才能"
+                },
+                "thinking_layer": "『特技』という言葉に漂うのは、人間があらゆる困難を克服し、巧みに乗り越える力への深遠な考察である。特技とは単なる技術ではなく、その技術の中に宿る無意識の力だ。人生には多くの局面があり、それぞれで持つべき特技が必要とされる。天賦の才と呼ばれるものは、実はその背後に膨大な経験と情熱が積み重ねられている。特技は心の触媒であり、自己を他者へと昇華させる道具となる。それは、時と空間を超えて、人が何者であるかを形作る基盤でもある。特技を持つことにより、人は自らの内なる声を聞き、自己を超越した一体感を得ることができる。このようにして特技は、ただのスキルを超えた哲学的概念となる。人間の本質を探求する旅の中で、特技は永遠に照らされる灯火なのだ。",
+                "synonyms": [
+                        "Skill",
+                        "Aptitude"
+                ],
+                "antonyms": [
+                        "Incompetence",
+                        "Inability"
+                ],
+                "aftertaste": "True knack resides not in learned skill, but in the soul's whisper.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "knak",
+                                        "meaning": "to crack, knock"
+                                }
+                        ],
+                        "points": [
+                                "中世低ドイツ語の語幹「knak」から派生し、音を立てることや、鋭い感覚を示す言葉として進化した。語源的に、手先の巧みさや、直感的な能力を暗示する。このような言葉の進化は、文化的背景を反映し、人々が抱く個々の才能への畏敬の念を表している。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "Middle Ages (Middle Low German)"
         }
 ];
