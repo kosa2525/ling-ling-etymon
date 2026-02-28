@@ -24402,5 +24402,60 @@ const WORDS = [
                 },
                 "source": "Online Etymology Dictionary",
                 "date": "2026-02-28"
+        },
+        {
+                "id": "archive",
+                "word": "Archive",
+                "part_of_speech": "noun",
+                "meaning": "記録や文書を保管する場所、またはその集まり",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "arch-",
+                                        "type": "prefix/root",
+                                        "meaning": "支配、統治",
+                                        "lang": "ギリシャ語"
+                                },
+                                {
+                                        "text": "-ive",
+                                        "type": "suffix",
+                                        "meaning": "状態、特性を示す",
+                                        "lang": "ラテン語"
+                                }
+                        ],
+                        "original_statement": "The word 'archive' stems from the Greek 'arkheion', referring to public records and the buildings that housed them, evolving through Old French as 'archeves' and ultimately into the Middle English 'archives'."
+                },
+                "core_concept": {
+                        "en": "A sanctuary for memories, preserving the echoes of human endeavor.",
+                        "ja": "記憶の聖域、そこで人類の努力の響きを保ち続ける"
+                },
+                "thinking_layer": "『アーカイブ』という言葉は、単なる情報の集合以上のものであり、それ自体が人類の歴史の小宇宙として機能します。そこに保存される記録は、過去の一片を現在に引き継ぎ、未来の知るべき指針になります。ありし日の叡智が眠るこの場所には、時間を超越する力が秘められており、個々の文書は静かに語り続ける。アーカイブが持つ特質は、静的でありながらも、触れた人々への化学反応を引き起こす時間の忘却を防ぐ者です。この静寂の中に潜む深い知識が、私たちの現在を豊かにし、その明かされる時を黙示として待つのです。私たちは単に歴史を保存するのではなく、その中に未来への微細な道筋を見つけ、それを育むのです。この永遠の輪廻を担う『アーカイブ』は、人類の無限の可能性の源泉であり、記録されたすべての思考は、次の飛躍のための材料となります。",
+                "synonyms": [
+                        "Repository",
+                        "Records"
+                ],
+                "antonyms": [
+                        "Forgetfulness",
+                        "Oblivion"
+                ],
+                "aftertaste": "An archive secures the whispers of times past for ears yet to come.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "arch",
+                                        "meaning": "chief, principle"
+                                },
+                                {
+                                        "term": "ive",
+                                        "meaning": "pertaining to"
+                                }
+                        ],
+                        "points": [
+                                "『アーカイブ』という語源は、権威や統治を意味し、公的文書を保存する場としての側面を強く表している。"
+                        ]
+                },
+                "source": "The Oxford English Dictionary",
+                "date": "2026-02-28"
         }
 ];
