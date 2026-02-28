@@ -22324,5 +22324,61 @@ const WORDS = [
                 },
                 "source": "Online Etymology Dictionary",
                 "date": "2026-02-28"
+        },
+        {
+                "id": "season",
+                "word": "Season",
+                "part_of_speech": "noun",
+                "meaning": "季節や期間を表す言葉",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "saison-",
+                                        "type": "root",
+                                        "meaning": "季節",
+                                        "lang": "フランス語"
+                                },
+                                {
+                                        "text": "sat-",
+                                        "type": "root",
+                                        "meaning": "播種する",
+                                        "lang": "ラテン語"
+                                }
+                        ],
+                        "original_statement": "The word 'season' originates from the Old French 'saison', which is derived from the Latin 'sationem', meaning 'the act of sowing'."
+                },
+                "core_concept": {
+                        "en": "A cycle of transformation and renewal.",
+                        "ja": "変化と再生の周期"
+                },
+                "thinking_layer": "季節という言葉には、時の流れの象徴的な意味が含まれている。それは自然の息吹のリズムを映し出し、生と死の営みを示す。四季は、生命のサイクルを形成する美しいフレームワークであり、それぞれが独自の特徴と役割を持っています。春は萌芽と復活のシンボル、夏は成長と活力の頂点、秋は収穫と成熟の時間、そして冬は安らぎと潜在的な静寂の象徴と言えます。これらの変化はただ単に気候の移ろいを示すだけでなく、私たち人間の心の変遷をも反映している。季節の変わり目に人は新たな視点を得て、過去の経験を再評価し、未来に思いを馳せる。このように、季節はただ気象的な現象として以外に、時間の性質や存在の本質に対する深い認識をもたらす触媒である。",
+                "synonyms": [
+                        "Period",
+                        "Era"
+                ],
+                "antonyms": [
+                        "Instant",
+                        "Eternity"
+                ],
+                "aftertaste": "Seasons whisper the poetry of time's eternal dance.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "saison",
+                                        "meaning": "season in French"
+                                },
+                                {
+                                        "term": "sationem",
+                                        "meaning": "sowing in Latin"
+                                }
+                        ],
+                        "points": [
+                                "言葉の根源は農耕と密接に結びついている。種を植えることは、始まりや変化を意味し、これが季節に反映されている。",
+                                "フランス語とラテン語の影響により、季節という概念は時間の流れにすら影響を及ぼす精神的存在であることを示しています。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-02-28"
         }
 ];
