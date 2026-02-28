@@ -25902,5 +25902,54 @@ const WORDS = [
                 "source": "Etymonline.com, Oxford English Dictionary",
                 "date": "2026-02-28",
                 "era": "Latin, Ancient Rome"
+        },
+        {
+                "id": "hover",
+                "word": "Hover",
+                "part_of_speech": "verb",
+                "meaning": "空中に漂う、または動き続けること",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "hover-",
+                                        "type": "root",
+                                        "meaning": "浮遊",
+                                        "lang": "English"
+                                }
+                        ],
+                        "original_statement": "The word 'hover' originates from the Middle English 'hoveren', which means to hang or linger about. It is believed to have derived from the Old English 'hofrian', with influences from the notion of hovering or lingering in flight, reminiscent of the movement of a bird."
+                },
+                "core_concept": {
+                        "en": "Suspension in gentle motion, like a bird in the wind.",
+                        "ja": "風の中の鳥のように、優しく漂うこと。"
+                },
+                "thinking_layer": "『ホバー』という言葉は、物体がまるで時間と空間を超越して浮遊しているという神秘的なエネルギーを思わせる。人間は重力に縛られながら生きているため、",
+                "hover": {
+                        "reflection": "その縛りを打ち消すような浮遊感には特別な感動が伴う。何もない空間に静かに身を委ね、流れゆくその瞬間瞬間に自らを溶かし込む。その存在感はまるで目に見えぬ透明な風のようだ。飛ぶことと地上に留まることの間に境界線があり、人はその境界の不安定さに自身を宿すことができる。それは動と静が共存する状態であり、また異なるものの間での絶妙なバランスが成り立つ調和である。長きに渡る人類の歴史において、飛翔は常に夢であり続けた。夢が成実した時、その一瞬一瞬を味わうことこそが『hover』の本質である。すべての存在が流動的であり、変化し続けるこの宇宙で、ほんの一瞬の停滞は新たな気づきをもたらしてくれる。時の流れを超越するそうした束の間の経験には深い詩的な意味が潜んでいる。"
+                },
+                "synonyms": [
+                        "Float",
+                        "Drift"
+                ],
+                "antonyms": [
+                        "Sink",
+                        "Settle"
+                ],
+                "aftertaste": "Hovering is an ode to the ethereal dance between earth and sky.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "hover",
+                                        "meaning": "to float or suspend"
+                                }
+                        ],
+                        "points": [
+                                "中世英語において『hoveren』という言葉は、浮かぶことや葛藤を意味していました。これは多くの詩において、内的な探求や瞬間に包まれる感覚として描かれてきました。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-02-28",
+                "era": "Middle English, 14th Century"
         }
 ];
