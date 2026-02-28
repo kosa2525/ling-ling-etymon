@@ -33,5 +33,42 @@
       "type": "image/png",
       "purpose": "maskable"
     }
+  ],
+  "screenshots": [
+    {
+      "src": "Screenshot_20260228-132529.png",
+      "sizes": "1080x2400",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "Daily Etymology View"
+    },
+    {
+      "src": "Screenshot_20260228-132552.png",
+      "sizes": "1080x2400",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "Archive List"
+    },
+    {
+      "src": "Screenshot_20260228-132614.png",
+      "sizes": "1080x2400",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "Deep Dive Insights"
+    },
+    {
+      "src": "Screenshot_20260228-132637.png",
+      "sizes": "1080x2400",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "Essay Reading Experience"
+    },
+    {
+      "src": "Screenshot_20260228-132655.png",
+      "sizes": "1080x2400",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "Personal Collection"
+    }
   ]
 }
