@@ -23963,5 +23963,50 @@ const WORDS = [
                 },
                 "source": "Online Etymology Dictionary",
                 "date": "2026-02-28"
+        },
+        {
+                "id": "listen",
+                "word": "Listen",
+                "part_of_speech": "verb",
+                "meaning": "耳を傾ける、注意して聞く",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "listan-",
+                                        "type": "root",
+                                        "meaning": "心を向ける",
+                                        "lang": "Old English"
+                                }
+                        ],
+                        "original_statement": "The word 'listen' originates from the Old English word 'hlystan', which means 'to pay attention, close one's ears' and shares roots with Germanic languages."
+                },
+                "core_concept": {
+                        "en": "The art of opening one’s mind to the whispers of the world.",
+                        "ja": "世界の囁きに心を開く技"
+                },
+                "thinking_layer": "「聴く」という行為には、他者の声を受け入れるための心の空間を創造する力が求められます。それは単に音を拾うだけではなく、その背後に流れる感情や意図に耳を傾けることです。このことはまた、無音の間にある情報を感じ取るための感受性を磨くことを意味します。聴くことは、関係性を深め、理解を深める手段であり、ただの音の受信を超えた行為です。自然のささやき、都市の騒音、他者の声、それらそれぞれが異なる物語を語ります。聴くことは、物理的な耳だけでなく、心の耳でも受信することを意味します。心の耳が開かれているとき、世界は懐かしい安らぎと未知の発見を同時に提供し、私たちに想像力と共感を促します。そして、聴くことを通して私たちは、他者と自分自身をより深く理解し、真の交流を育むことができるのです。",
+                "synonyms": [
+                        "Hear",
+                        "Eavesdrop"
+                ],
+                "antonyms": [
+                        "Ignore",
+                        "Overlook"
+                ],
+                "aftertaste": "In listening, we traverse the silent bridges between hearts.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "listan",
+                                        "meaning": "to hear, to attend"
+                                }
+                        ],
+                        "points": [
+                                "『聴く』という語源の深みは、ただの機械的な音受容に留まらない。この言葉には、心を込めて耳を傾けるという意図が宿る。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-02-28"
         }
 ];
