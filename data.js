@@ -22788,5 +22788,50 @@ const WORDS = [
                 },
                 "source": "The Oxford English Dictionary",
                 "date": "2026-02-28"
+        },
+        {
+                "id": "music",
+                "word": "Music",
+                "part_of_speech": "noun",
+                "meaning": "音楽",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "mousikē",
+                                        "type": "root",
+                                        "meaning": "芸術",
+                                        "lang": "Greek"
+                                }
+                        ],
+                        "original_statement": "The term 'music' originates from the Greek word 'mousikē,' which pertains to the Muses, goddesses of the arts in Greek mythology."
+                },
+                "core_concept": {
+                        "en": "An ethereal symphony woven through the souls of beings.",
+                        "ja": "存在の魂を織りなす幻想的な交響曲"
+                },
+                "thinking_layer": "音楽とは、宇宙の調和が人間の感覚を通じて現れる瞬間です。それは、静寂の中に流れる音の川であり、心の琴線に触れる力があります。人間の創造性の極致であり、同時に自然が語る物語でもあります。その旋律は、時間を超え、空間を超え、また国境を越えて響き渡ります。音楽の中に、人類の歴史と未来がこめられており、一つの音が響くたびに、私たちは過去の記憶と未来の夢を同時に旅しています。それは、言葉を越えた対話であり、沈黙を楽器にした詩です。音楽を通して、人は自分自身を見つめ直し、周囲との新たな関係を築くのです。そして、その一音一音の響きが、私たちの心を、より高く、より深くへと導いてくれます。音楽は、生の意味を探求する旅であり、存在の不思議を解き明かす鍵でもあります。",
+                "synonyms": [
+                        "Melody",
+                        "Harmony"
+                ],
+                "antonyms": [
+                        "Silence",
+                        "Dissonance"
+                ],
+                "aftertaste": "In music, we find the language of souls unspoken.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "mousikē",
+                                        "meaning": "pertaining to the Muses"
+                                }
+                        ],
+                        "points": [
+                                "音楽の語源は、ギリシャ神話のムーサたちへの讃美として、人間の創造力を表しています。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-02-28"
         }
 ];
