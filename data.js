@@ -22425,5 +22425,105 @@ const WORDS = [
                 },
                 "source": "Online Etymology Dictionary",
                 "date": "2026-02-28"
+        },
+        {
+                "id": "nature",
+                "word": "Nature",
+                "part_of_speech": "noun",
+                "meaning": "自然界や本質",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "natura-",
+                                        "type": "root",
+                                        "meaning": "生成する",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'Nature' originates from the Latin 'natura', which means 'birth, constitution, character, course of things'."
+                },
+                "core_concept": {
+                        "en": "The pristine dance of existence, unspoiled.",
+                        "ja": "存在の純粋な舞踊、汚されぬもの"
+                },
+                "thinking_layer": "自然という言葉は、時間と空間を超えて私たちに語りかける詩である。自然は常にそこにあるものであり、私たちの内なる存在と外界との間に無限に広がるキャンバスである。古代人は自然を尊敬し、神々の領域として崇めた。それは人類の活動が生まれる前の静寂で、宇宙の微かな息吹を感じさせる場であった。自然は、私たちの心の奥底に潜む未知なるものへの畏怖を育み、生命そのものの本質を映し出す鏡である。人は自然の中で自らの限界を知り、同時に無限の可能性にも気づく。太陽が昇り、風が吹き荒ぶ瞬間に、私たちはその永遠のサイクルを垣間見る。自然とは、ただの物理的存在を超えた精神的な体験であり、私たちの存在意義を問う大いなる問いかけでもある。私たち自身の中に刻まれた本質であり、常に変化し続ける美しい現象である。",
+                "synonyms": [
+                        "Earth",
+                        "Wild"
+                ],
+                "antonyms": [
+                        "Artificial",
+                        "Synthetic"
+                ],
+                "aftertaste": "Nature is the silent testimony of eternity.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "natura",
+                                        "meaning": "birth, constitution"
+                                }
+                        ],
+                        "points": [
+                                "ラテン語の“natura”は、生まれること、構成、性質を示し、存在の根源を表現している。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-02-28"
+        },
+        {
+                "id": "future",
+                "word": "Future",
+                "part_of_speech": "noun",
+                "meaning": "未来",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "futurus",
+                                        "type": "root",
+                                        "meaning": "将来の",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "esse",
+                                        "type": "root",
+                                        "meaning": "ある",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'future' originates from the Latin 'futurus', which is the future participle of 'esse', meaning 'to be'."
+                },
+                "core_concept": {
+                        "en": "An uncharted dimension of time where possibilities unfold.",
+                        "ja": "可能性が広がる未踏の時の次元"
+                },
+                "thinking_layer": "未来とは、まだ見ぬ可能性が無限に広がる神秘的な時間の領域である。過去と現在の境界を越え、我々が知覚する時間の線を超えた先には、まだ確定されていない無数の選択肢が待ち受けている。この未知なる世界は、希望と不安、夢と現実の狭間に存在し、我々がどのように未来を創造し、どのようにそれに影響を与えるかという問いに対し、深い哲学的な考察を促す。我々は未来を完全に予測することはできないが、その可能性に思いを馳せることで、今この瞬間の選択が大きな意味を持つことを理解する。この未踏の領域はまた、自己を越えて広がる人類の歴史、宇宙の起源と終焉、そして未解明の神秘に対する無限の探求を許す。未来は我々の魂の最深部に新たな問いを生み出し、それに応じて我々は成長し、進化し続ける。未来へと向かうこの旅は、我々を永遠の驚異と発見の旅へと誘い続けるのだ。",
+                "synonyms": [
+                        "Destiny",
+                        "Prospect"
+                ],
+                "antonyms": [
+                        "Past",
+                        "History"
+                ],
+                "aftertaste": "The future beckons with unyielding promise and mystery.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "futurus",
+                                        "meaning": "about to be"
+                                },
+                                {
+                                        "term": "esse",
+                                        "meaning": "to be"
+                                }
+                        ],
+                        "points": [
+                                "未来という概念は、時間の連続体における未だ確定していない時点を指し、これには哲学的に未解決の問いである自由意志の問題や、人間存在における希望の意義が含まれる。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary (etymonline.com)",
+                "date": "2026-02-28"
         }
 ];
