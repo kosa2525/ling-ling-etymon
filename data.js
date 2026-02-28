@@ -27776,5 +27776,51 @@ const WORDS = [
                 "source": "Oxford English Dictionary",
                 "date": "2026-03-01",
                 "era": "Old English, Proto-Germanic origins"
+        },
+        {
+                "id": "run",
+                "word": "Run",
+                "part_of_speech": "verb",
+                "meaning": "走る、動き続ける",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "run",
+                                        "type": "root",
+                                        "meaning": "走る",
+                                        "lang": "Old English"
+                                }
+                        ],
+                        "original_statement": "The verb 'run' originates from the Old English 'rinnan', meaning 'to run, flow', and traces back to Proto-Germanic *rinnan.",
+                        "source": "https://www.etymonline.com/word/run"
+                },
+                "core_concept": {
+                        "en": "The unstoppable dance of life in motion.",
+                        "ja": "生命の止まらぬ動きの踊り"
+                },
+                "thinking_layer": "「走る」という行為は、生命の根源にある力強さと流動性を体現しています。この動作は単に物理的な移動を意味するのではなく、時空間を超えてどこへでも行ける可能性を秘めています。この運動には、自由への渇望、未知の開拓、そして自己の超越が秘められています。心臓が鼓動するごとに、高まる期待と共振するこの行動は、古代からの人間の本能とも言えるでしょう。その一歩一歩が時間を形作り、その動き自体が試練であり、癒しであり、同時に永遠の挑戦でもあります。我々は「走る」とき、ただ地面を蹴って前進するだけでなく、自らの限界を試し、未来を迎え撃つ準備をし、そして現実の中における自己存在を確認するのです。かくして「走る」は単なるスピード競争を超えて、生きることそのものへと誘ってくれる旅路でもあります。この旅を通して我々は、無限の時間と空間の中で己の小ささと同時に偉大さを再認識するのです。",
+                "synonyms": [
+                        "Dash",
+                        "Sprint"
+                ],
+                "antonyms": [
+                        "Walk",
+                        "Stop"
+                ],
+                "aftertaste": "Running is the rhythmic heartbeat of life's journey.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "rinnan",
+                                        "meaning": "to run, flow"
+                                }
+                        ],
+                        "points": [
+                                "「走る」というコンセプトは、古代からリズミカルに発展し、人間の動的な存在を象徴しています。その語根は流動性や持続性を意味し、現代に至るまで普遍的な活力を表現しています。"
+                        ]
+                },
+                "date": "2026-03-01",
+                "era": "Proto-Germanic origin"
         }
 ];
