@@ -26486,5 +26486,57 @@ const WORDS = [
                 "source": "The Oxford English Dictionary",
                 "date": "2026-03-01",
                 "era": "Middle English"
+        },
+        {
+                "id": "mean",
+                "word": "Mean",
+                "part_of_speech": "noun/verb/adjective",
+                "meaning": "意味する、卑しい、中間の",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "gemænan (Old English)",
+                                        "type": "root",
+                                        "meaning": "共有する",
+                                        "lang": "Old English"
+                                },
+                                {
+                                        "text": "gemeinen (Germanic)",
+                                        "type": "root",
+                                        "meaning": "共有する",
+                                        "lang": "Proto-Germanic"
+                                }
+                        ],
+                        "original_statement": "The word 'mean' originates from the Old English term 'gemænan', which denotes the concept of commonality or shared nature. This evolved in Proto-Germanic to express sharing and communal ideas."
+                },
+                "core_concept": {
+                        "en": "To be a bridge between intention and understanding, echoing connections.",
+                        "ja": "意図と理解の架け橋としての共鳴する絆"
+                },
+                "thinking_layer": "「意味」とは、言葉と心の交差点であり、私たちの存在の根底にある問いかけです。それはただの概念ではなく、感情と思想、そして経験をつなぐ無形の糸です。「意味」があることによって、言葉が単なる記号から心を動かす力を持つ存在へと変わります。この世の中で何かを意味するということは、他者と感情や思考を共有し、自分自身を超えた広がりを持つことを表します。言葉で何かを意味することは、物事や出来事に新たな光を当て、自分と他者の境界を超える試みでもあります。その深淵に触れるとき、我々はただ単に理解するのではなく、宇宙に響く共振を感じ取ります。『意味』は、静寂と喧騒の中で私たちを分けるものではなく、むしろ私たちを一つに繋ぎ止めるものなのです。",
+                "synonyms": [
+                        "Signify",
+                        "Intend"
+                ],
+                "antonyms": [
+                        "Neglect",
+                        "Ignore"
+                ],
+                "aftertaste": "In every whisper of every word, the echo of meaning reverberates eternally.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "gemænan",
+                                        "meaning": "to share"
+                                }
+                        ],
+                        "points": [
+                                "古英語での『gemænan』は、今日の『mean』の共有・相互理解の概念を表しています。これが時を経て現在の日常に用いられる『意味』に至ります。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "Old English Era"
         }
 ];
