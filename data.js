@@ -22525,5 +22525,50 @@ const WORDS = [
                 },
                 "source": "Online Etymology Dictionary (etymonline.com)",
                 "date": "2026-02-28"
+        },
+        {
+                "id": "planet",
+                "word": "Planet",
+                "part_of_speech": "noun",
+                "meaning": "惑星（空をさすらい光り輝く存在）",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "planēt-",
+                                        "type": "root",
+                                        "meaning": "さまようもの",
+                                        "lang": "Greek"
+                                }
+                        ],
+                        "original_statement": "The term 'planet' originates from the Greek word 'planētēs,' meaning 'wanderer,' because ancient Greeks observed that certain celestial bodies moved across the sky unlike the fixed stars."
+                },
+                "core_concept": {
+                        "en": "A celestial wanderer amidst the cosmic canvas.",
+                        "ja": "宇宙のキャンバスに漂う天空の遍歴者"
+                },
+                "thinking_layer": "惑星とは、広大な宇宙を漂う星たちの中で、独自の軌道を描きつつ、我々の視界を抜ける神秘的な存在です。古代ギリシャにおいて観察されたこれらの天体は、夜空に浮かぶ星々の固定された輝きとは異なり、時にその所在を変え、まるで夜空をさまよう旅人のように見えました。神話や哲学の中で、惑星はしばしば人類の存在意義や宇宙そのものの意味を考える起点として扱われ、我々の知識が宇宙の深淵に向かう道しるべとなります。惑星の存在意義は、単なる物理的な塊を超え、時間と空間、そしてその中に生きる私たちの位置を再定義することにあります。人間はこの小さな地球に閉じ込められたように見えるかもしれませんが、心の中の惑星には無限の可能性が広がっています。観察者としての我々は、惑星の運行を追いながら、自己を超越した存在としての新たな一歩を刻むのです。こうした観点から、惑星は視覚的な美しさだけでなく、その背後に潜む哲学的探求への誘いでもあるのです。",
+                "synonyms": [
+                        "Celestial body",
+                        "Wanderer"
+                ],
+                "antonyms": [
+                        "Fixed star",
+                        "Static object"
+                ],
+                "aftertaste": "A planet dances tirelessly through the cosmic void, leaving trails of wonder and introspection.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "planētēs",
+                                        "meaning": "wanderer"
+                                }
+                        ],
+                        "points": [
+                                "惑星という言葉は、ギリシャの天文学者によって惑星の不可解な動きを表現するために創造されたものである。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-02-28"
         }
 ];
