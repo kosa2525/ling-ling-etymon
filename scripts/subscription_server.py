@@ -605,6 +605,75 @@ def post_reply():
     conn.close()
     return jsonify(status="success")
 
+@app.route('/api/tts', methods=['POST'])
+def get_tts():
+    data = request.json
+    text = data.get('text')
+    username = data.get('username')
+    
+    # プレミアム確認
+    conn = get_db_connection()
+    p = get_placeholder()
+    with conn:
+        with conn.cursor() as cur:
+            cur.execute(f"SELECT is_premium FROM users WHERE username={p}", (username,))
+            res = cur.fetchone()
+    conn.close()
+    if not res or not res[0]:
+        return jsonify(status="error", message="Premium required"), 403
+
+    if not text:
+        return jsonify(status="error", message="No text provided"), 400
+
+    try:
+        from openai import OpenAI
+        client = OpenAI(api_key=os.environ.get("OPENAI_API_KEY"))
+        # 'echo' voice is a deep, calm male voice
+        response = client.audio.speech.create(
+            model="tts-1",
+            voice="echo", 
+            input=text[:4000] # Limit length
+        )
+        return response.content, 200, {'Content-Type': 'audio/mpeg'}
+    except Exception as e:
+        return jsonify(status="error", message=str(e)), 500
+
+@app.route('/api/word-network', methods=['GET'])
+def get_word_network():
+    try:
+        with open(DATA_JS_PATH, 'r', encoding='utf-8') as f:
+            content = f.read()
+            match = re.search(r'const\s+WORDS\s*=\s*(\[.*?\])\s*;?\s*$', content, re.DOTALL)
+            words = json.loads(match.group(1)) if match else []
+
+        # 語根(root)ごとに単語をグループ化
+        root_map = {}
+        for w in words:
+            for b in w.get('etymology', {}).get('breakdown', []):
+                if b.get('type') == 'root' or 'root' in b.get('type', ''):
+                    root_text = b.get('text', '').lower().replace('-', '')
+                    if root_text not in root_map: root_map[root_text] = []
+                    root_map[root_text].append(w['word'])
+        
+        # ネットワーク用データ（ノードとエッジ）
+        nodes = []
+        edges = []
+        seen_words = set()
+        
+        for root, related_words in root_map.items():
+            if len(related_words) > 1: # 繋がりがあるものだけ
+                root_id = f"root_{root}"
+                nodes.append({"id": root_id, "label": root, "group": "root"})
+                for rw in related_words:
+                    if rw not in seen_words:
+                        nodes.append({"id": rw, "label": rw, "group": "word"})
+                        seen_words.add(rw)
+                    edges.append({"from": root_id, "to": rw})
+                    
+        return jsonify(nodes=nodes, edges=edges)
+    except Exception as e:
+        return jsonify(status="error", message=str(e)), 500
+
 if __name__ == '__main__':
     port = int(os.environ.get("PORT", 5000))
     print(f"--- ling-ling-etymon サーバー起動中 ---")

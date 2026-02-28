@@ -29,11 +29,13 @@ const navItems = {
     essays: document.getElementById('nav-essays'),
     settings: document.getElementById('nav-settings'),
     premium: document.getElementById('nav-premium'),
-    notifications: document.getElementById('nav-notifications')
+    notifications: document.getElementById('nav-notifications'),
+    network: document.getElementById('nav-network')
 };
 
 // Global cache for dynamically loaded content
 window.ESSAY_CACHE = [];
+window.currentAudio = null;
 
 const API_BASE = window.location.origin;
 
@@ -104,8 +106,8 @@ async function renderToday() {
                         <button onclick="toggleSaveWord('${word.id}')" style="width:100%; padding:1rem; background:none; border:none; color:white; text-align:left; cursor:pointer; font-size:0.9rem; border-bottom:1px solid var(--color-border);">
                             ${State.savedWordIds.includes(word.id) ? '🔖 Unsave' : '📑 Save Word'}
                         </button>
-                        <button onclick="hideItem('word', '${word.id}')" style="width:100%; padding:1rem; background:none; border:none; color:white; text-align:left; cursor:pointer; font-size:0.9rem;">
-                            👁️‍🗨️ Hide this Word
+                        <button onclick="downloadWordCard('${word.id}')" style="width:100%; padding:1rem; background:none; border:none; color:white; text-align:left; cursor:pointer; font-size:0.9rem; border-top:1px solid var(--color-border);">
+                            🖼️ Share as Image
                         </button>
                     </div>
                 </div>
@@ -114,7 +116,10 @@ async function renderToday() {
             <section class="section"><span class="section-label">Essence</span><p class="concept-text" style="font-size: 1.25rem;">${word.core_concept.ja}</p></section>
             
             <section class="section">
-                <span class="section-label">Philological Layers</span>
+                <div style="display:flex; justify-content:space-between; align-items:center;">
+                    <span class="section-label">Philological Layers</span>
+                    ${State.isPremium ? `<button onclick="toggleTTS('${btoa(unescape(encodeURIComponent(word.thinking_layer)))}')" class="chip" style="background:var(--color-premium-bg); color:var(--color-premium); border:1px solid var(--color-premium);">🔊 Listen (Echo)</button>` : ''}
+                </div>
                 <div class="thinking-text" style="font-size: 1.1rem; line-height: 1.8;">
                     ${(word.thinking_layer || '').split('\n').map(l => l.trim() ? `<p style="margin-bottom:1.2rem;">${l}</p>` : '').join('')}
                 </div>
@@ -750,12 +755,79 @@ function navigate(view) {
             case 'admin': renderAdmin(); break;
             case 'connections': renderConnections(); break;
             case 'notifications': renderNotifications(); break;
+            case 'network': renderWordNetwork(); break;
         }
         viewContainer.classList.add('fade-in');
         window.scrollTo({ top: 0, behavior: 'smooth' });
     }, 50);
 }
 
+function setupNavListeners() {
+    if (navItems.today) navItems.today.onclick = () => navigate('today');
+}
+
+async function toggleTTS(base64Text) {
+    if (window.currentAudio) {
+        window.currentAudio.pause();
+        window.currentAudio = null;
+        showToast("Playback stopped.");
+        return;
+    }
+    const text = decodeURIComponent(escape(atob(base64Text)));
+    showToast("Generating voice... (Echo)");
+    try {
+        const response = await fetch(`${API_BASE}/api/tts`, {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ text, username: State.currentUser })
+        });
+        if (!response.ok) throw new Error("TTS failed");
+        const blob = await response.blob();
+        const url = URL.createObjectURL(blob);
+        window.currentAudio = new Audio(url);
+        window.currentAudio.play();
+        window.currentAudio.onended = () => { window.currentAudio = null; };
+    } catch (e) {
+        showToast("TTS Error: " + e.message);
+    }
+}
+
+async function renderWordNetwork() {
+    viewContainer.innerHTML = `
+        <div class="network-view fade-in" style="height: calc(100vh - 200px); position:relative;">
+            <h3 class="section-label" style="text-align:center; padding-top:2rem;">Etymological Network</h3>
+            <div id="network-graph" style="height:100%; width:100%;"></div>
+            <div style="position:absolute; bottom:20px; left:20px; background:var(--color-surface); padding:1rem; border-radius:12px; border:1px solid var(--color-border); font-size:0.8rem; opacity:0.8;">
+                🔵 Word Node | 🟡 Root Node
+            </div>
+        </div>
+    `;
+    const data = await apiGet('/api/word-network');
+    const container = document.getElementById('network-graph');
+    const nodes = new vis.DataSet(data.nodes.map(n => ({
+        ...n,
+        color: n.group === 'root' ? '#f59e0b' : '#3b82f6',
+        font: { color: '#ffffff' },
+        shape: 'dot',
+        size: n.group === 'root' ? 25 : 15
+    })));
+    const edges = new vis.DataSet(data.edges);
+    const options = {
+        physics: { stabilization: true, barnesHut: { gravitationalConstant: -2000 } },
+        edges: { color: 'rgba(255,255,255,0.2)' }
+    };
+    const network = new vis.Network(container, { nodes, edges }, options);
+    network.on("click", function (params) {
+        if (params.nodes.length > 0) {
+            const nodeId = params.nodes[0];
+            const word = (typeof WORDS !== 'undefined') ? WORDS.find(w => w.word === nodeId) : null;
+            if (word) {
+                State.todayWord = word;
+                navigate('today');
+            }
+        }
+    });
+}
 function showToast(msg) {
     const container = document.getElementById('toast-container');
     const t = document.createElement('div');
@@ -768,6 +840,64 @@ function searchToArchive(term) {
     State.searchFilter = term.toLowerCase();
     State.letterFilter = null;
     navigate('archive');
+}
+
+function downloadWordCard(id) {
+    const word = WORDS.find(w => w.id === id);
+    if (!word) return;
+
+    // 非表示のオフスクリーンキャンバスで描画
+    const canvas = document.createElement('canvas');
+    canvas.width = 1200;
+    canvas.height = 630;
+    const ctx = canvas.getContext('2d');
+
+    // 背景
+    const gradient = ctx.createLinearGradient(0, 0, 1200, 630);
+    gradient.addColorStop(0, '#030712');
+    gradient.addColorStop(1, '#0f172a');
+    ctx.fillStyle = gradient;
+    ctx.fillRect(0, 0, 1200, 630);
+
+    // 装飾
+    ctx.strokeStyle = '#60a5fa';
+    ctx.lineWidth = 2;
+    ctx.strokeRect(40, 40, 1120, 550);
+    ctx.globalAlpha = 0.1;
+    ctx.beginPath();
+    ctx.arc(1100, 100, 200, 0, Math.PI * 2);
+    ctx.fillStyle = '#60a5fa';
+    ctx.fill();
+    ctx.globalAlpha = 1.0;
+
+    // テキスト描画
+    ctx.fillStyle = '#60a5fa';
+    ctx.font = 'bold 30px "Inter"';
+    ctx.fillText('ling-ling-etymon', 80, 100);
+
+    ctx.fillStyle = '#ffffff';
+    ctx.font = 'bold 120px "Inter"';
+    ctx.fillText(word.word, 80, 240);
+
+    ctx.fillStyle = '#60a5fa';
+    ctx.font = 'italic 40px "Inter"';
+    ctx.fillText(word.part_of_speech || '', 80, 300);
+
+    ctx.fillStyle = '#f1f5f9';
+    ctx.font = '500 60px "Noto Sans JP"';
+    ctx.fillText(word.meaning || '', 80, 400);
+
+    ctx.fillStyle = 'rgba(241, 245, 249, 0.6)';
+    ctx.font = 'italic 32px "Times New Roman"';
+    const resonance = word.aftertaste || '';
+    ctx.fillText(resonance, 80, 520);
+
+    // ダウンロード実行
+    const link = document.createElement('a');
+    link.download = `etymon_${word.word}.png`;
+    link.href = canvas.toDataURL();
+    link.click();
+    showToast("Image Generated.");
 }
 
 function renderContribute() {
@@ -808,6 +938,7 @@ document.addEventListener('DOMContentLoaded', async () => {
     if (navItems.settings) navItems.settings.onclick = () => navigate('settings');
     if (navItems.premium) navItems.premium.onclick = () => navigate('premium');
     if (navItems.notifications) navItems.notifications.onclick = () => navigate('notifications');
+    if (navItems.network) navItems.network.onclick = () => navigate('network');
 
     const params = new URLSearchParams(window.location.search);
     const sid = params.get('session_id'), user = params.get('user');
