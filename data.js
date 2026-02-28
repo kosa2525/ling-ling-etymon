@@ -25997,5 +25997,51 @@ const WORDS = [
                 "source": "Oxford English Dictionary",
                 "date": "2026-02-28",
                 "era": "Old English"
+        },
+        {
+                "id": "sneeze",
+                "word": "Sneeze",
+                "part_of_speech": "noun/verb",
+                "meaning": "くしゃみをする動作または音",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "sneeze",
+                                        "type": "root",
+                                        "meaning": "くしゃみ",
+                                        "lang": "中英語"
+                                }
+                        ],
+                        "original_statement": "The word 'sneeze' originated from Middle English 'fnesen', influenced by the process of linguistic metathesis."
+                },
+                "core_concept": {
+                        "en": "The sudden expulsion of breath, an abrupt disruption in the harmony of silence.",
+                        "ja": "沈黙の調和を乱す突然の息の吹き出し"
+                },
+                "thinking_layer": "人間の体は時に制御不能な行動を示すことがある。その中でもくしゃみは、外部からの刺激に対する一種の反射である。空気に混ざる微細な塵や香りが、呼吸器の隙間に触れる瞬間、深い静寂を切り裂くようにして起こる。この反射は、まるで宇宙の大きな交響曲の一部であるかのように、突如として演奏されるソロパートである。くしゃみは人間の存在と自然との相互関係を象徴しており、その一瞬の不協和音は、個々の生物が織りなす生命のインタープレイを詩的に解釈することを可能にする。古代から生命の不思議さを感じさせるこの一瞬は、意識と無意識の狭間で奏でる不意の音楽であり、無秩序に見えるが、その背後には宇宙そのものの規則性があるのかもしれない。そしてその一瞬一瞬の連鎖が、私たちの魂に小さな変化を与える、無限の詩そのものなのだ。",
+                "synonyms": [
+                        "Achoo",
+                        "Expulsion"
+                ],
+                "antonyms": [
+                        "Silence",
+                        "Stillness"
+                ],
+                "aftertaste": "A sneeze reminds us of the delicate balance between control and spontaneity.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "fnesen",
+                                        "meaning": "To sneeze (Middle English)"
+                                }
+                        ],
+                        "points": [
+                                "くしゃみは、身体が過剰な刺激に応じて安全のために行う自然な反応である。このプロセスは、多くの言語において類似の音から発展し、共通したルーツを持つ可能性がある。"
+                        ]
+                },
+                "source": "The Oxford English Dictionary",
+                "date": "2026-02-28",
+                "era": "Late Middle English (14th Century)"
         }
 ];
