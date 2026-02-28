@@ -21017,5 +21017,48 @@ const WORDS = [
                 },
                 "source": "Online Etymology Dictionary",
                 "date": "2026-02-28"
+        },
+        {
+                "id": "coffee",
+                "word": "Coffee",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "qahwa-",
+                                        "type": "root",
+                                        "meaning": "コーヒー",
+                                        "lang": "Arabic"
+                                }
+                        ],
+                        "original_statement": "The word 'coffee' entered the English language in the late 16th century, derived from the Dutch 'koffie', which in turn was borrowed from the Ottoman Turkish 'kahve', influenced by the Arabic word 'qahwa'."
+                },
+                "core_concept": {
+                        "en": "A rich elixir that awakens both senses and spirit.",
+                        "ja": "感覚と精神を目覚めさせる濃密な霊薬"
+                },
+                "thinking_layer": "コーヒーの豊かな香りと深い味わいは、人間の心を目覚めさせ、物思いに耽らせる。この飲料は、遥か遥か昔、アラビア半島で発見され、その黒い液体はまるで夜空が朝の光に変わる瞬間のような、神秘と可能性に満ちている。コーヒー豆から抽出される苦みは、人生の甘美なる苦みそのものであり、自己の探求の一助ともなる。芸術家や哲学者は、その魅力の虜となり、カフェという集いの場でインスピレーションを分け合い、知見を深めてきた。この小さな種子が持つ可能性を考えるとき、我々はひとつの自然の奇跡を前にしている。それは、地球の恵みが人間の心と知性を繋ぐ、一種のコミュニオンなのだ。この黒い水が世界に波及した背景には、地理、政治、文化の交差があり、それは世界の多様性と協調を示す象徴でもある。朝日のように芽生える創造性と共に、一杯のコーヒーがもたらすものは単なるカフェインではなく、心と身体そして魂の覚醒である。持続可能な起源と倫理的な消費が今後求められる中で、コーヒーは自然との新しい対話となることが期待される。どんなに時代が変わっても、人々はこの神秘的な液体に心を委ね、知恵を醸成し続けるだろう。",
+                "synonyms": [
+                        "Java",
+                        "Brew"
+                ],
+                "antonyms": [
+                        "Herbal Tea",
+                        "Water"
+                ],
+                "aftertaste": "In a single cup lies the boundless energy of the universe.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "qahwa",
+                                        "meaning": "Wine or a drink prepared from plants"
+                                }
+                        ],
+                        "points": [
+                                "コーヒーの語源は、アラビア語の「qahwa」にあると言われており、もともとは甘美なる「ワイン」を意味していた。"
+                        ]
+                },
+                "source": "The Oxford Dictionary of English Etymology",
+                "date": "2026-02-28"
         }
 ];
