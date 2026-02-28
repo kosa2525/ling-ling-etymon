@@ -25644,5 +25644,61 @@ const WORDS = [
                 "source": "Oxford English Dictionary",
                 "date": "2026-02-28",
                 "era": "Middle English, influenced by Old French"
+        },
+        {
+                "id": "broadcast",
+                "word": "Broadcast",
+                "part_of_speech": "noun/verb",
+                "meaning": "広くに分散して情報や信号を送ること",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "broad-",
+                                        "type": "prefix",
+                                        "meaning": "広い",
+                                        "lang": "Old English"
+                                },
+                                {
+                                        "text": "cast",
+                                        "type": "root",
+                                        "meaning": "投げる",
+                                        "lang": "Old Norse"
+                                }
+                        ],
+                        "original_statement": "The term 'broadcast' originally referred to the agricultural practice of casting seeds widely across a field by hand. It shifted to a metaphorical sense in communications in the early 20th century, signifying sending out radio waves 'widely'."
+                },
+                "core_concept": {
+                        "en": "Spreading seeds of information far and wide.",
+                        "ja": "情報の種を遠く広くに撒き散らすこと"
+                },
+                "thinking_layer": "「放送」という言葉は、情報やメッセージを遠く広くに分散させる行為を指し、その背後には見ることのない相手にメッセージが届くことを願う人間の根源的な欲求がある。それは、自身の思いや意図を空間を超えて伝える手段であり、時にそのメッセージが予期せぬ受け手に届くことで新たな交流が生まれる。運命や共鳴するものを目指して放たれる言葉は、目に見えない糸となり、見知らぬ者同士を結ぶ存在となる。コミュニケーションの盲目的でありながらも希望を含む性質を内包しながら、その放たれたメッセージがどこに届くか、誰に触れるかは、やがて人々の心にどんな芽が育つかは謎めいた期待と共にある。人と人の間に見えない橋を架け、未知の空間に響き渡るこの行為は、存在意義や人間の孤独、そして繋がりへの希求を深く反映する。",
+                "synonyms": [
+                        "disseminate",
+                        "spread"
+                ],
+                "antonyms": [
+                        "receive",
+                        "contain"
+                ],
+                "aftertaste": "A message carried on invisible waves, bonding the unknown.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "broad",
+                                        "meaning": "wide"
+                                },
+                                {
+                                        "term": "cast",
+                                        "meaning": "to throw"
+                                }
+                        ],
+                        "points": [
+                                "農業における伝統的な「散播」技術から派生した言葉で、20世紀初頭にメディアの文脈で利用され始めた。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-02-28",
+                "era": "Early 18th Century"
         }
 ];
