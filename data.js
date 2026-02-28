@@ -23217,5 +23217,70 @@ const WORDS = [
                 },
                 "source": "Oxford English Dictionary",
                 "date": "2026-02-28"
+        },
+        {
+                "id": "world",
+                "word": "World",
+                "part_of_speech": "noun",
+                "meaning": "世界、全体、宇宙",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "weorold",
+                                        "type": "root",
+                                        "meaning": "人の年数",
+                                        "lang": "Old English"
+                                },
+                                {
+                                        "text": "wer",
+                                        "type": "root",
+                                        "meaning": "人",
+                                        "lang": "Proto-Germanic"
+                                },
+                                {
+                                        "text": "ald",
+                                        "type": "root",
+                                        "meaning": "年齢、世代",
+                                        "lang": "Proto-Germanic"
+                                }
+                        ],
+                        "original_statement": "The term 'world' stems from Old English 'weorold', derived from Proto-Germanic 'wer' (man) and 'ald' (age), symbolizing the age or life of humanity."
+                },
+                "core_concept": {
+                        "en": "The bounded infinity of human existence.",
+                        "ja": "人間の存在の有限の無限"
+                },
+                "thinking_layer": "「世界」という言葉は、人間の歴史と存在そのものを象徴しています。私たちは、それを探索し、理解し、そしてそれ以上のものを求める旅に出かけます。この広大で複雑な現実の映し鏡である地平線は、無限でありながら有限なものとして私たちの前に立ちはだかります。時間と空間の広がりの中で、私たちはこの世界に自分たちの意味や目的を探す狂おしい努力を続けます。世界とは人間が自己を認識し、つながり合う場であり、宇宙の中で生まれ育ち、消えゆく運命を共にする場でもあります。あるときは母なる胸、またあるときは理解を超えた謎として立ちはだかる世界は、我々を魅了し、恐怖させ、そして何よりも深く思索に誘います。私たちが見る世界、知覚する世界、そして夢見る世界の間には、果てしない探求の旅と、計り知れない深みが隠されています。すなわち、世界とは我々の精神と感性が捉え求める大いなる舞台であり、その探索の過程で我々は自己の本質を問わずにはいられないのです。この哲学的な背景の中で、世界という言葉はすべての人に異なる意味をもち、その人の人生の鏡であると共に、人類全体の物語として現れるのです。",
+                "synonyms": [
+                        "Universe",
+                        "Globe"
+                ],
+                "antonyms": [
+                        "Void",
+                        "Nothingness"
+                ],
+                "aftertaste": "A world resonates with the echoes of human time.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "weorold",
+                                        "meaning": "age of man"
+                                },
+                                {
+                                        "term": "wer",
+                                        "meaning": "man"
+                                },
+                                {
+                                        "term": "ald",
+                                        "meaning": "age"
+                                }
+                        ],
+                        "points": [
+                                "「世界」という言葉は人類の時間と空間の総和を意味し、それは自然と文化が交差する複雑なネットワークを象徴する。"
+                        ]
+                },
+                "source": "Oxford English Dictionary, Online Etymology Dictionary",
+                "date": "2026-02-28"
         }
 ];
