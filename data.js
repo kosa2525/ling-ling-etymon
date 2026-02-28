@@ -27472,5 +27472,51 @@ const WORDS = [
                 "source": "Online Etymology Dictionary and Oxford English Dictionary",
                 "date": "2026-03-01",
                 "era": "17th Century"
+        },
+        {
+                "id": "chore",
+                "word": "Chore",
+                "part_of_speech": "noun",
+                "meaning": "日常の雑務や義務",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "Middle English 'chare' -",
+                                        "type": "root",
+                                        "meaning": "仕事、引き受けた役割",
+                                        "lang": "Middle English"
+                                }
+                        ],
+                        "original_statement": "The word 'chore' originates from Middle English 'chare', meaning a task or turn of work."
+                },
+                "core_concept": {
+                        "en": "An everyday task imbued with silent significance.",
+                        "ja": "静かな意義を内包する日々の務め"
+                },
+                "thinking_layer": "「雑事」という言葉は、一見無味乾燥でありながら、深い人間の営みを反映しています。その単調さに潜む美しさは、日々積み上げられる人間の生活の根源にあります。雑事は人間の存在と深く結びついており、時の流れと共に形作られる人生の儀式的な織り成しといえます。単なる行動である以上のもの、すなわち、個人の存在を継続させ、社会を形成する不可欠なピースであると言えるでしょう。その反復は、内的な秩序と外的な和をもたらし、結果として心に平穏をもたらすものです。雑事は、生命のシンフォニーにおけるリズムそのものであり、無意識の中で我々を導き、個々の瞬間を豊かにします。日々の何気ない行動の積み重ねが、我々の人生を形作っているという意味では、雑事には詩的な奥深さがあります。",
+                "synonyms": [
+                        "Task",
+                        "Duty"
+                ],
+                "antonyms": [
+                        "Rest",
+                        "Idleness"
+                ],
+                "aftertaste": "In the mundane, we uncover a tapestry of silent importance.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "chare",
+                                        "meaning": "task, turn of work"
+                                }
+                        ],
+                        "points": [
+                                "語源としての『chore』は、中英語の『chare』に由来し、仕事や役目を意味していました。この語は、日常的なものの中に潜む人間的な行為の神聖さを示唆しています。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "15th Century Middle English"
         }
 ];
