@@ -21205,5 +21205,60 @@ const WORDS = [
                 },
                 "source": "Oxford English Dictionary",
                 "date": "2026-02-28"
+        },
+        {
+                "id": "kiss",
+                "word": "Kiss",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "Old English 'cyssan'-",
+                                        "type": "root",
+                                        "meaning": "to kiss",
+                                        "lang": "Old English"
+                                },
+                                {
+                                        "text": "Proto-Germanic '*kussjan'-",
+                                        "type": "root",
+                                        "meaning": "kiss",
+                                        "lang": "Proto-Germanic"
+                                },
+                                {
+                                        "text": "Proto-Indo-European '*kush-' or '*kuss'-",
+                                        "type": "root",
+                                        "meaning": "to kiss",
+                                        "lang": "Proto-Indo-European"
+                                }
+                        ],
+                        "original_statement": "The term 'kiss' derives from Old English 'cyssan', evolving from Proto-Germanic '*kussjan', and ultimately from the Proto-Indo-European root '*kush-' or '*kuss-', which means 'to kiss'."
+                },
+                "core_concept": {
+                        "en": "A moment where souls converge through the silent eloquence of lips.",
+                        "ja": "唇の静かな雄弁を通して魂が共鳴する瞬間。"
+                },
+                "thinking_layer": "キスとは、ただ唇が触れ合う行為ではなく、二つの存在の深い交流の瞬間である。黙っていても言葉に尽くしがたい感情の交換が行われ、心の奥底に眠る情緒が解き放たれる。歴史を遡ると、人々はキスに愛の印を見出すとともに、誓いや和解の象徴ともしてきた。キスは時間を超えた言語であり、文化や時代を超えて人々を結びつける。哲学的には、キスは純粋な自己を他者に預ける行為でもある。それは信頼の証であり、愛の無言の約束だ。その無音の対話の中に宿るのは、心と心の奥深い絆である。しかし、その瞬間ははかなくも美しいものであり、永遠の一瞬をつかむ試みとも言える。触れた瞬間の小宇宙の中で、我々は自己ではなく、他者を見つめ、愛の本質に触れるのだ。",
+                "synonyms": [
+                        "embrace",
+                        "peck"
+                ],
+                "antonyms": [
+                        "indifference",
+                        "distance"
+                ],
+                "aftertaste": "A kiss is a wordless declaration of the soul's desire.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "cyssan",
+                                        "meaning": "to kiss"
+                                }
+                        ],
+                        "points": [
+                                "『キス』の語源は、英語における愛と感情の交流を象徴する行為としての背景を強く持っています。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary, Douglas Harper",
+                "date": "2026-02-28"
         }
 ];
