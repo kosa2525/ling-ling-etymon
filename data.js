@@ -26978,5 +26978,57 @@ const WORDS = [
                 "source": "The Oxford English Dictionary",
                 "date": "2026-03-01",
                 "era": "Ancient Greek"
+        },
+        {
+                "id": "amaze",
+                "word": "Amaze",
+                "part_of_speech": "verb",
+                "meaning": "驚かせる、仰天させる",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "a-",
+                                        "type": "prefix",
+                                        "meaning": "…である状態",
+                                        "lang": "Middle English"
+                                },
+                                {
+                                        "text": "masian",
+                                        "type": "root",
+                                        "meaning": "困惑させる",
+                                        "lang": "Old English"
+                                }
+                        ],
+                        "original_statement": "The word originates from Middle English 'amasen', which combines 'a-' (a prefix indicating a state) with 'masian', from Old English, meaning to confound or make confused."
+                },
+                "core_concept": {
+                        "en": "The sudden fracturing of perception's still water.",
+                        "ja": "知覚の静水を突如として断裂させるもの"
+                },
+                "thinking_layer": "驚きというのは私たちの心の中に訪れる光のようなものである。それはいつも想像を超え、予期しない瞬間に精神を突き動かす。驚きによって現実の一部が開かれ、目の前の光景が新たな方向から鑑賞される。人間の歴史の中で、恐れ、喜び、悲しみなど多くの感情が数々のかたちで現れ、いつも驚きとも縁がある。人生の根本に潜む真理は、しばしば予想を超えて開示される。沈黙の中にひっそりと隠れた知恵が突如として明らかになる瞬間、それは驚きの中にひそかに潜んでいる。驚きの根底には、理解を超えた何かを知覚する力があり、これはしばしば芸術や創造の過程において顕在化する。我々が世界をどう見るか、どう体験するか、それは驚きとともに常に変化し続ける。驚きは、忘れられた幼年の記憶を呼び起こし、人生のありふれたリズムを打ち破り、それにより私たちはより深く存在の不思議を理解することができる。驚きの心は、常に柔軟で、開かれたものであり、そこで新たな真実が生まれ、育まれていく。",
+                "synonyms": [
+                        "astonish",
+                        "startle"
+                ],
+                "antonyms": [
+                        "bore",
+                        "calm"
+                ],
+                "aftertaste": "Amazement is the mind's evergreen embrace of the unknown.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "masian",
+                                        "meaning": "to confuse"
+                                }
+                        ],
+                        "points": [
+                                "『amaze』という単語の語源は、多くの言語層を経ており、それは英語における精神的及び感情的な驚きの複雑な性質を示している。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "Middle English, 14th Century"
         }
 ];
