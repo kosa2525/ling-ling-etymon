@@ -23645,5 +23645,56 @@ const WORDS = [
                 },
                 "source": "The Oxford English Dictionary",
                 "date": "2026-02-28"
+        },
+        {
+                "id": "evolve",
+                "word": "Evolve",
+                "part_of_speech": "verb",
+                "meaning": "進化する",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "ex-",
+                                        "type": "prefix",
+                                        "meaning": "〜の外へ",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "volvere",
+                                        "type": "root",
+                                        "meaning": "転がる、回転する",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'evolve' comes from the Latin ex-, meaning 'out' and volvere, meaning 'to roll', implying a process of rolling out or unfolding."
+                },
+                "core_concept": {
+                        "en": "A perpetual unfolding of life's intricate tapestry.",
+                        "ja": "生命の複雑な織物が常に展開し続ける"
+                },
+                "thinking_layer": "『進化』という概念は、単なる生物学的適応を超えた、宇宙の根源的な命題として解釈され得ます。この言葉が持つ深遠なる力は、時間と空間を超え、生を形作る無限の可能性を象徴しています。進化は、無意識に流れる小川の如く、周りの環境に逆らわず、それと調和しながら形を変え続けます。その過程は常に動的であり、輝きと陰影の中で一瞬の美を求め、熱情と冷静さの間で崇高な調和に至るのです。進化の本質は、変化そのものだけでなく、変化がもたらす新しい価値観や視座をも包含しています。それは、過去と未来を連結するミステリアスな絆であり、無限連鎖の中で瞬きをする点として私たちに現れます。人間もまた、進化の一部として過去の影響を宿しながら、未来への可能性を秘めた存在であり、進化するという行為は自己超越を意味します。物質と精神の進化は、宇宙の持続的な対話の一部であり、人々がより高次の理解を追求する原動力となります。",
+                "synonyms": [
+                        "develop",
+                        "progress"
+                ],
+                "antonyms": [
+                        "regress",
+                        "stagnate"
+                ],
+                "aftertaste": "Evolution is the silent yet unstoppable symphony of existence.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "volvere",
+                                        "meaning": "to roll or turn"
+                                }
+                        ],
+                        "points": [
+                                "進化は、時間と空間を通じた変化の延長線上に位置しており、生命の神聖な旅路を象徴する。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-02-28"
         }
 ];
