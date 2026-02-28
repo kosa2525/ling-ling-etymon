@@ -40,7 +40,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Online Etymology Dictionary",
-                "date": "2026-02-27"
+                "date": "2026-02-27",
+                "part_of_speech": "adjective",
+                "meaning": "空気のように軽い"
         },
         {
                 "id": "epiphany",
@@ -89,7 +91,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Online Etymology Dictionary",
-                "date": "2026-02-27"
+                "date": "2026-02-27",
+                "part_of_speech": "noun",
+                "meaning": "啓示"
         },
         {
                 "id": "aesthetic",
@@ -132,7 +136,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Online Etymology Dictionary",
-                "date": "2026-02-27"
+                "date": "2026-02-27",
+                "part_of_speech": "adjective",
+                "meaning": "美学の"
         },
         {
                 "id": "synthesis",
@@ -185,7 +191,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Online Etymology Dictionary",
-                "date": "2026-02-27"
+                "date": "2026-02-27",
+                "part_of_speech": "noun",
+                "meaning": "合成"
         },
         {
                 "id": "logos",
@@ -229,7 +237,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Etymology Online, Oxford Classical Dictionary",
-                "date": "2026-02-27"
+                "date": "2026-02-27",
+                "part_of_speech": "noun",
+                "meaning": "論理"
         },
         {
                 "id": "company",
@@ -282,7 +292,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Online Etymology Dictionary",
-                "date": "2026-02-27"
+                "date": "2026-02-27",
+                "part_of_speech": "noun",
+                "meaning": "会社"
         },
         {
                 "id": "education",
@@ -335,7 +347,9 @@ const WORDS = [
                         ]
                 },
                 "source": "The Online Etymology Dictionary",
-                "date": "2026-02-27"
+                "date": "2026-02-27",
+                "part_of_speech": "noun",
+                "meaning": "教育"
         },
         {
                 "id": "breakfast",
@@ -388,7 +402,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-27"
+                "date": "2026-02-27",
+                "part_of_speech": "noun",
+                "meaning": "朝食"
         },
         {
                 "id": "window",
@@ -435,7 +451,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Harper, Douglas. “Online Etymology Dictionary.”",
-                "date": "2026-02-27"
+                "date": "2026-02-27",
+                "part_of_speech": "noun",
+                "meaning": "窓"
         },
         {
                 "id": "salary",
@@ -478,7 +496,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-27"
+                "date": "2026-02-27",
+                "part_of_speech": "noun",
+                "meaning": "給料"
         },
         {
                 "id": "archetype",
@@ -531,7 +551,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Online Etymology Dictionary",
-                "date": "2026-02-27"
+                "date": "2026-02-27",
+                "part_of_speech": "noun",
+                "meaning": "原型"
         },
         {
                 "id": "dialectic",
@@ -580,7 +602,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-27"
+                "date": "2026-02-27",
+                "part_of_speech": "noun",
+                "meaning": "弁証法"
         },
         {
                 "id": "labyrinth",
@@ -623,7 +647,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-27"
+                "date": "2026-02-27",
+                "part_of_speech": "noun",
+                "meaning": "迷宮"
         },
         {
                 "id": "metamorphosis",
@@ -686,7 +712,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Harper, Douglas. 'metamorphosis.' Online Etymology Dictionary.",
-                "date": "2026-02-27"
+                "date": "2026-02-27",
+                "part_of_speech": "noun",
+                "meaning": "変態"
         },
         {
                 "id": "nostalgia",
@@ -739,7 +767,9 @@ const WORDS = [
                         ]
                 },
                 "source": "The Oxford English Dictionary",
-                "date": "2026-02-27"
+                "date": "2026-02-27",
+                "part_of_speech": "noun",
+                "meaning": "郷愁"
         },
         {
                 "id": "companion",
@@ -792,7 +822,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Online Etymology Dictionary",
-                "date": "2026-02-27"
+                "date": "2026-02-27",
+                "part_of_speech": "noun",
+                "meaning": "仲間"
         },
         {
                 "id": "muscle",
@@ -835,7 +867,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Online Etymology Dictionary",
-                "date": "2026-02-27"
+                "date": "2026-02-27",
+                "part_of_speech": "noun",
+                "meaning": "筋肉"
         },
         {
                 "id": "pantry",
@@ -878,7 +912,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Online Etymology Dictionary",
-                "date": "2026-02-27"
+                "date": "2026-02-27",
+                "part_of_speech": "noun",
+                "meaning": "食料庫"
         },
         {
                 "id": "camera",
@@ -921,7 +957,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Online Etymology Dictionary",
-                "date": "2026-02-27"
+                "date": "2026-02-27",
+                "part_of_speech": "noun",
+                "meaning": "カメラ"
         },
         {
                 "id": "galaxy",
@@ -964,7 +1002,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-27"
+                "date": "2026-02-27",
+                "part_of_speech": "noun",
+                "meaning": "銀河"
         },
         {
                 "id": "melancholy",
@@ -1017,7 +1057,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-27"
+                "date": "2026-02-27",
+                "part_of_speech": "noun",
+                "meaning": "憂鬱"
         },
         {
                 "id": "quintessence",
@@ -1064,7 +1106,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-27"
+                "date": "2026-02-27",
+                "part_of_speech": "noun",
+                "meaning": "真髄"
         },
         {
                 "id": "sublime",
@@ -1111,7 +1155,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-27"
+                "date": "2026-02-27",
+                "part_of_speech": "adjective",
+                "meaning": "崇高な"
         },
         {
                 "id": "transcendence",
@@ -1164,7 +1210,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Online Etymology Dictionary",
-                "date": "2026-02-27"
+                "date": "2026-02-27",
+                "part_of_speech": "noun",
+                "meaning": "超越"
         },
         {
                 "id": "ineffable",
@@ -1223,7 +1271,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-27"
+                "date": "2026-02-27",
+                "part_of_speech": "adjective",
+                "meaning": "言葉では言い尽くせない"
         },
         {
                 "id": "alphabet",
@@ -1276,7 +1326,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-27"
+                "date": "2026-02-27",
+                "part_of_speech": "noun",
+                "meaning": "アルファベット"
         },
         {
                 "id": "prestige",
@@ -1319,7 +1371,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Online Etymology Dictionary",
-                "date": "2026-02-27"
+                "date": "2026-02-27",
+                "part_of_speech": "noun",
+                "meaning": "威信"
         },
         {
                 "id": "disaster",
@@ -1366,7 +1420,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Etymology Online",
-                "date": "2026-02-27"
+                "date": "2026-02-27",
+                "part_of_speech": "noun",
+                "meaning": "災害"
         },
         {
                 "id": "candid",
@@ -1409,7 +1465,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-27"
+                "date": "2026-02-27",
+                "part_of_speech": "adjective",
+                "meaning": "率直な"
         },
         {
                 "id": "trivia",
@@ -1458,7 +1516,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Online Etymology Dictionary",
-                "date": "2026-02-27"
+                "date": "2026-02-27",
+                "part_of_speech": "noun",
+                "meaning": "些細な事柄"
         },
         {
                 "id": "solitude",
@@ -1501,7 +1561,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-27"
+                "date": "2026-02-27",
+                "part_of_speech": "noun",
+                "meaning": "孤独"
         },
         {
                 "id": "resilience",
@@ -1550,7 +1612,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Online Etymology Dictionary: https://www.etymonline.com/word/resilience",
-                "date": "2026-02-27"
+                "date": "2026-02-27",
+                "part_of_speech": "noun",
+                "meaning": "回復力"
         },
         {
                 "id": "serendipity",
@@ -1593,7 +1657,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-27"
+                "date": "2026-02-27",
+                "part_of_speech": "noun",
+                "meaning": "幸運な発見"
         },
         {
                 "id": "paradigm",
@@ -1646,7 +1712,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-27"
+                "date": "2026-02-27",
+                "part_of_speech": "noun",
+                "meaning": "枠組み"
         },
         {
                 "id": "catharsis",
@@ -1689,7 +1757,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-27"
+                "date": "2026-02-27",
+                "part_of_speech": "noun",
+                "meaning": "浄化"
         },
         {
                 "id": "whisky",
@@ -1736,7 +1806,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-27"
+                "date": "2026-02-27",
+                "part_of_speech": "noun",
+                "meaning": "ウイスキー"
         },
         {
                 "id": "vaccine",
@@ -1789,7 +1861,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-27"
+                "date": "2026-02-27",
+                "part_of_speech": "noun",
+                "meaning": "ワクチン"
         },
         {
                 "id": "sincere",
@@ -1832,7 +1906,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-27"
+                "date": "2026-02-27",
+                "part_of_speech": "adjective",
+                "meaning": "誠実な"
         },
         {
                 "id": "digital",
@@ -1875,7 +1951,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-27"
+                "date": "2026-02-27",
+                "part_of_speech": "adjective",
+                "meaning": "デジタルの"
         },
         {
                 "id": "curiosity",
@@ -1918,7 +1996,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Online Etymology Dictionary",
-                "date": "2026-02-27"
+                "date": "2026-02-27",
+                "part_of_speech": "noun",
+                "meaning": "好奇心"
         },
         {
                 "id": "solipsism",
@@ -1971,7 +2051,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-27"
+                "date": "2026-02-27",
+                "part_of_speech": "noun",
+                "meaning": "唯我論"
         },
         {
                 "id": "anagnorisis",
@@ -2024,7 +2106,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-27"
+                "date": "2026-02-27",
+                "part_of_speech": "noun",
+                "meaning": "認識の転換"
         },
         {
                 "id": "prolepsis",
@@ -2071,7 +2155,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-27"
+                "date": "2026-02-27",
+                "part_of_speech": "noun",
+                "meaning": "予見"
         },
         {
                 "id": "apophatic",
@@ -2124,7 +2210,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Harper, Douglas. \"Online Etymology Dictionary.\"",
-                "date": "2026-02-27"
+                "date": "2026-02-27",
+                "part_of_speech": "adjective",
+                "meaning": "否定神学の"
         },
         {
                 "id": "antinomy",
@@ -2177,7 +2265,9 @@ const WORDS = [
                         ]
                 },
                 "source": "The Oxford English Dictionary",
-                "date": "2026-02-27"
+                "date": "2026-02-27",
+                "part_of_speech": "noun",
+                "meaning": "矛盾律"
         },
         {
                 "id": "nice",
@@ -2226,7 +2316,9 @@ const WORDS = [
                         ]
                 },
                 "source": "etymonline.com",
-                "date": "2026-02-27"
+                "date": "2026-02-27",
+                "part_of_speech": "adjective",
+                "meaning": "良い"
         },
         {
                 "id": "silhouette",
@@ -2269,7 +2361,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Online Etymology Dictionary",
-                "date": "2026-02-27"
+                "date": "2026-02-27",
+                "part_of_speech": "noun",
+                "meaning": "輪郭"
         },
         {
                 "id": "numinous",
@@ -2312,7 +2406,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-27"
+                "date": "2026-02-27",
+                "part_of_speech": "adjective",
+                "meaning": "神秘的な"
         },
         {
                 "id": "ossuary",
@@ -2359,7 +2455,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-27"
+                "date": "2026-02-27",
+                "part_of_speech": "noun",
+                "meaning": "納骨堂"
         },
         {
                 "id": "syzygy",
@@ -2402,7 +2500,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-27"
+                "date": "2026-02-27",
+                "part_of_speech": "noun",
+                "meaning": "三重直列"
         },
         {
                 "id": "hermeneutics",
@@ -2451,7 +2551,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Online Etymology Dictionary",
-                "date": "2026-02-27"
+                "date": "2026-02-27",
+                "part_of_speech": "noun",
+                "meaning": "解釈学"
         },
         {
                 "id": "eschatology.",
@@ -2504,7 +2606,9 @@ const WORDS = [
                         ]
                 },
                 "source": "The Oxford English Dictionary",
-                "date": "2026-02-27"
+                "date": "2026-02-27",
+                "part_of_speech": "noun",
+                "meaning": "--"
         },
         {
                 "id": "quarantine",
@@ -2551,7 +2655,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Online Etymology Dictionary",
-                "date": "2026-02-27"
+                "date": "2026-02-27",
+                "part_of_speech": "noun",
+                "meaning": "隔離"
         },
         {
                 "id": "sarcasm",
@@ -2594,7 +2700,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Douglas Harper, Online Etymology Dictionary",
-                "date": "2026-02-27"
+                "date": "2026-02-27",
+                "part_of_speech": "noun",
+                "meaning": "皮肉"
         },
         {
                 "id": "cereal",
@@ -2637,7 +2745,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Online Etymology Dictionary",
-                "date": "2026-02-27"
+                "date": "2026-02-27",
+                "part_of_speech": "noun",
+                "meaning": "シリアル"
         },
         {
                 "id": "avocado.",
@@ -2686,7 +2796,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-27"
+                "date": "2026-02-27",
+                "part_of_speech": "noun",
+                "meaning": "--"
         },
         {
                 "id": "synecdoche",
@@ -2733,7 +2845,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Online Etymology Dictionary",
-                "date": "2026-02-27"
+                "date": "2026-02-27",
+                "part_of_speech": "noun",
+                "meaning": "提喩"
         },
         {
                 "id": "liminality",
@@ -2776,7 +2890,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-27"
+                "date": "2026-02-27",
+                "part_of_speech": "noun",
+                "meaning": "境界状態"
         },
         {
                 "id": "aporia",
@@ -2829,7 +2945,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-27"
+                "date": "2026-02-27",
+                "part_of_speech": "noun",
+                "meaning": "困惑"
         },
         {
                 "id": "teleology",
@@ -2882,7 +3000,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Harper, Douglas. 'Teleology'. Online Etymology Dictionary. Accessed October 2023.",
-                "date": "2026-02-27"
+                "date": "2026-02-27",
+                "part_of_speech": "noun",
+                "meaning": "目的論"
         },
         {
                 "id": "axiomatic.",
@@ -2925,7 +3045,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-27"
+                "date": "2026-02-27",
+                "part_of_speech": "noun",
+                "meaning": "--"
         },
         {
                 "id": "clue",
@@ -2968,7 +3090,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-27"
+                "date": "2026-02-27",
+                "part_of_speech": "noun",
+                "meaning": "手がかり"
         },
         {
                 "id": "sinister",
@@ -3011,7 +3135,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Online Etymology Dictionary",
-                "date": "2026-02-27"
+                "date": "2026-02-27",
+                "part_of_speech": "adjective",
+                "meaning": "不吉な"
         },
         {
                 "id": "panic",
@@ -3058,7 +3184,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Online Etymology Dictionary",
-                "date": "2026-02-27"
+                "date": "2026-02-27",
+                "part_of_speech": "noun",
+                "meaning": "恐慌"
         },
         {
                 "id": "candidate",
@@ -3101,7 +3229,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Online Etymology Dictionary",
-                "date": "2026-02-27"
+                "date": "2026-02-27",
+                "part_of_speech": "noun",
+                "meaning": "候補者"
         },
         {
                 "id": "handicap",
@@ -3144,7 +3274,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Online Etymology Dictionary",
-                "date": "2026-02-27"
+                "date": "2026-02-27",
+                "part_of_speech": "noun",
+                "meaning": "障害"
         },
         {
                 "id": "hypnagogic",
@@ -3197,7 +3329,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-27"
+                "date": "2026-02-27",
+                "part_of_speech": "adjective",
+                "meaning": "入眠時の"
         },
         {
                 "id": "apophenia",
@@ -3250,7 +3384,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Conrad, Klaus. 'Die beginnende Schizophrenie. Versuch einer Gestaltanalyse des Wahns.' (1958)",
-                "date": "2026-02-27"
+                "date": "2026-02-27",
+                "part_of_speech": "noun",
+                "meaning": "アポフェニア（無関係な事象間に意味を見出す傾向）"
         },
         {
                 "id": "anachronism",
@@ -3303,7 +3439,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-27"
+                "date": "2026-02-27",
+                "part_of_speech": "noun",
+                "meaning": "時代錯誤"
         },
         {
                 "id": "sonder",
@@ -3346,7 +3484,9 @@ const WORDS = [
                         ]
                 },
                 "source": "The Dictionary of Obscure Sorrows by John Koenig",
-                "date": "2026-02-27"
+                "date": "2026-02-27",
+                "part_of_speech": "noun",
+                "meaning": "他者の豊かな人生への気付き"
         },
         {
                 "id": "glissando",
@@ -3389,7 +3529,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Online Etymology Dictionary",
-                "date": "2026-02-27"
+                "date": "2026-02-27",
+                "part_of_speech": "noun",
+                "meaning": "グリッサンド（音楽で音の滑らかな移動）"
         },
         {
                 "id": "hazard",
@@ -3432,7 +3574,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-27"
+                "date": "2026-02-27",
+                "part_of_speech": "noun",
+                "meaning": "危険"
         },
         {
                 "id": "calendar",
@@ -3485,7 +3629,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-27"
+                "date": "2026-02-27",
+                "part_of_speech": "noun",
+                "meaning": "カレンダー"
         },
         {
                 "id": "muscle.",
@@ -3538,7 +3684,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Online Etymology Dictionary",
-                "date": "2026-02-27"
+                "date": "2026-02-27",
+                "part_of_speech": "noun",
+                "meaning": "--"
         },
         {
                 "id": "axiology",
@@ -3591,7 +3739,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-27"
+                "date": "2026-02-27",
+                "part_of_speech": "noun",
+                "meaning": "価値論"
         },
         {
                 "id": "epistolary",
@@ -3634,7 +3784,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-27"
+                "date": "2026-02-27",
+                "part_of_speech": "adjective",
+                "meaning": "書簡体の"
         },
         {
                 "id": "heuristics",
@@ -3677,7 +3829,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Online Etymology Dictionary",
-                "date": "2026-02-27"
+                "date": "2026-02-27",
+                "part_of_speech": "noun",
+                "meaning": "ヒューリスティックス（発見的手法）"
         },
         {
                 "id": "solstice",
@@ -3730,7 +3884,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-27"
+                "date": "2026-02-27",
+                "part_of_speech": "noun",
+                "meaning": "至（冬至・夏至）"
         },
         {
                 "id": "gyre",
@@ -3779,7 +3935,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-27"
+                "date": "2026-02-27",
+                "part_of_speech": "noun",
+                "meaning": "渦"
         },
         {
                 "id": "sandwich",
@@ -3832,7 +3990,9 @@ const WORDS = [
                         ]
                 },
                 "source": "The Oxford English Dictionary",
-                "date": "2026-02-27"
+                "date": "2026-02-27",
+                "part_of_speech": "noun",
+                "meaning": "サンドイッチ"
         },
         {
                 "id": "assassin",
@@ -3879,7 +4039,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-27"
+                "date": "2026-02-27",
+                "part_of_speech": "noun",
+                "meaning": "暗殺者"
         },
         {
                 "id": "berserk",
@@ -3922,7 +4084,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-27"
+                "date": "2026-02-27",
+                "part_of_speech": "adjective",
+                "meaning": "狂暴な"
         },
         {
                 "id": "perfume",
@@ -3971,7 +4135,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-27"
+                "date": "2026-02-27",
+                "part_of_speech": "noun",
+                "meaning": "香水"
         },
         {
                 "id": "sapientia",
@@ -4020,7 +4186,9 @@ const WORDS = [
                         ]
                 },
                 "source": "The Oxford English Dictionary",
-                "date": "2026-02-27"
+                "date": "2026-02-27",
+                "part_of_speech": "noun",
+                "meaning": "（ラテン語）知恵"
         },
         {
                 "id": "vicissitude",
@@ -4063,7 +4231,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-27"
+                "date": "2026-02-27",
+                "part_of_speech": "noun",
+                "meaning": "変遷"
         },
         {
                 "id": "ontological",
@@ -4116,7 +4286,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Online Etymology Dictionary",
-                "date": "2026-02-27"
+                "date": "2026-02-27",
+                "part_of_speech": "adjective",
+                "meaning": "存在論的な"
         },
         {
                 "id": "epistolary.",
@@ -4163,7 +4335,9 @@ const WORDS = [
                         ]
                 },
                 "source": "The Oxford English Dictionary",
-                "date": "2026-02-27"
+                "date": "2026-02-27",
+                "part_of_speech": "noun",
+                "meaning": "--"
         },
         {
                 "id": "whiskey",
@@ -4210,7 +4384,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary, Online Etymology Dictionary",
-                "date": "2026-02-27"
+                "date": "2026-02-27",
+                "part_of_speech": "noun",
+                "meaning": "ウィスキー"
         },
         {
                 "id": "etiquette",
@@ -4253,7 +4429,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-27"
+                "date": "2026-02-27",
+                "part_of_speech": "noun",
+                "meaning": "礼儀作法"
         },
         {
                 "id": "etymology",
@@ -4306,7 +4484,9 @@ const WORDS = [
                         ]
                 },
                 "source": "The Oxford English Dictionary",
-                "date": "2026-02-27"
+                "date": "2026-02-27",
+                "part_of_speech": "noun",
+                "meaning": "語源学"
         },
         {
                 "id": "sedulous",
@@ -4349,7 +4529,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Online Etymology Dictionary",
-                "date": "2026-02-27"
+                "date": "2026-02-27",
+                "part_of_speech": "adjective",
+                "meaning": "勤勉な"
         },
         {
                 "id": "perspicacity",
@@ -4392,7 +4574,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Online Etymology Dictionary",
-                "date": "2026-02-27"
+                "date": "2026-02-27",
+                "part_of_speech": "noun",
+                "meaning": "洞察力"
         },
         {
                 "id": "consilience",
@@ -4445,7 +4629,9 @@ const WORDS = [
                         ]
                 },
                 "source": "E.O. Wilson's 'Consilience: The Unity of Knowledge', published in 1998",
-                "date": "2026-02-27"
+                "date": "2026-02-27",
+                "part_of_speech": "noun",
+                "meaning": "統合"
         },
         {
                 "id": "heuristic",
@@ -4488,7 +4674,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Online Etymology Dictionary",
-                "date": "2026-02-27"
+                "date": "2026-02-27",
+                "part_of_speech": "adjective",
+                "meaning": "発見的な"
         },
         {
                 "id": "debt",
@@ -4531,7 +4719,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-27"
+                "date": "2026-02-27",
+                "part_of_speech": "noun",
+                "meaning": "借金"
         },
         {
                 "id": "gin",
@@ -4574,7 +4764,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford Languages",
-                "date": "2026-02-27"
+                "date": "2026-02-27",
+                "part_of_speech": "noun",
+                "meaning": "ジン"
         },
         {
                 "id": "bungalow",
@@ -4617,7 +4809,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-27"
+                "date": "2026-02-27",
+                "part_of_speech": "noun",
+                "meaning": "平屋"
         },
         {
                 "id": "pedigree.",
@@ -4664,7 +4858,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-27"
+                "date": "2026-02-27",
+                "part_of_speech": "noun",
+                "meaning": "--"
         },
         {
                 "id": "pneuma",
@@ -4707,7 +4903,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Barnhart Concise Dictionary of Etymology",
-                "date": "2026-02-27"
+                "date": "2026-02-27",
+                "part_of_speech": "noun",
+                "meaning": "霊"
         },
         {
                 "id": "apanthropinization",
@@ -4768,7 +4966,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-27"
+                "date": "2026-02-27",
+                "part_of_speech": "noun",
+                "meaning": "人里離れ"
         },
         {
                 "id": "anomie",
@@ -4817,7 +5017,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-27"
+                "date": "2026-02-27",
+                "part_of_speech": "noun",
+                "meaning": "無秩序"
         },
         {
                 "id": "parallax",
@@ -4860,7 +5062,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Online Etymology Dictionary",
-                "date": "2026-02-27"
+                "date": "2026-02-27",
+                "part_of_speech": "noun",
+                "meaning": "視差"
         },
         {
                 "id": "exaptation",
@@ -4913,7 +5117,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Gould, S. J., & Vrba, E. S. (1982). Exaptation—a missing term in the science of form.",
-                "date": "2026-02-27"
+                "date": "2026-02-27",
+                "part_of_speech": "noun",
+                "meaning": "機能転用"
         },
         {
                 "id": "mortgage",
@@ -4966,7 +5172,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-27"
+                "date": "2026-02-27",
+                "part_of_speech": "noun",
+                "meaning": "住宅ローン"
         },
         {
                 "id": "sandwich.",
@@ -5015,7 +5223,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-27"
+                "date": "2026-02-27",
+                "part_of_speech": "noun",
+                "meaning": "--"
         },
         {
                 "id": "absquatulate",
@@ -5066,7 +5276,9 @@ const WORDS = [
                         ]
                 },
                 "source": "American Heritage Dictionary of the English Language, Fifth Edition",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "verb",
+                "meaning": "急いで立ち去る"
         },
         {
                 "id": "sibilance",
@@ -5115,7 +5327,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "シューという音"
         },
         {
                 "id": "fermata",
@@ -5158,7 +5372,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Harvard Dictionary of Music",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "フェルマータ"
         },
         {
                 "id": "vicariousness",
@@ -5201,7 +5417,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Online Etymology Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "代理体験"
         },
         {
                 "id": "mellifluous.",
@@ -5254,7 +5472,9 @@ const WORDS = [
                         ]
                 },
                 "source": "The Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "--"
         },
         {
                 "id": "quiz",
@@ -5297,7 +5517,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "クイズ"
         },
         {
                 "id": "cardigan",
@@ -5340,7 +5562,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "カーディガン"
         },
         {
                 "id": "peregrinate",
@@ -5383,7 +5607,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Online Etymology Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "verb",
+                "meaning": "旅する"
         },
         {
                 "id": "acatalepsy",
@@ -5442,7 +5668,9 @@ const WORDS = [
                         ]
                 },
                 "source": "The Oxford Dictionary of English Etymology",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "認識不能"
         },
         {
                 "id": "crepuscular",
@@ -5491,7 +5719,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Online Etymology Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "adjective",
+                "meaning": "薄明の"
         },
         {
                 "id": "aleatory",
@@ -5534,7 +5764,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Online Etymology Dictionary, etymonline.com",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "adjective",
+                "meaning": "偶然性のある"
         },
         {
                 "id": "ichor",
@@ -5577,7 +5809,9 @@ const WORDS = [
                         ]
                 },
                 "source": "The Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "神の血"
         },
         {
                 "id": "girl",
@@ -5620,7 +5854,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "女の子"
         },
         {
                 "id": "mascot",
@@ -5663,7 +5899,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Online Etymology Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "マスコット"
         },
         {
                 "id": "samurai",
@@ -5716,7 +5954,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Kōjien Japanese Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "侍"
         },
         {
                 "id": "groggy",
@@ -5759,7 +5999,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "adjective",
+                "meaning": "くらくらする"
         },
         {
                 "id": "weltschmerz",
@@ -5813,7 +6055,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Online Etymology Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "世界の憂鬱"
         },
         {
                 "id": "anhedonia",
@@ -5866,7 +6110,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Harper, Douglas. 'Online Etymology Dictionary,' 2023.",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "快楽喪失"
         },
         {
                 "id": "phylogeny",
@@ -5919,7 +6165,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Harper, Douglas. \"Online Etymology Dictionary.\" 2023.",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "系統発生"
         },
         {
                 "id": "metanoia",
@@ -5972,7 +6220,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Harper, Douglas. “Metanoia.” Online Etymology Dictionary, 2023.",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "転心"
         },
         {
                 "id": "gossamer",
@@ -6019,7 +6269,9 @@ const WORDS = [
                         ]
                 },
                 "source": "etymonline.com",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "極薄のもの"
         },
         {
                 "id": "flirt",
@@ -6062,7 +6314,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Online Etymology Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "verb",
+                "meaning": "いちゃつく"
         },
         {
                 "id": "gourmet",
@@ -6105,7 +6359,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary; Merriam-Webster",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "美食家"
         },
         {
                 "id": "jeans",
@@ -6148,7 +6404,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "ジーンズ"
         },
         {
                 "id": "liminal",
@@ -6191,7 +6449,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "adjective",
+                "meaning": "境界の"
         },
         {
                 "id": "abstemious",
@@ -6246,7 +6506,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Online Etymology Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "adjective",
+                "meaning": "控えめな"
         },
         {
                 "id": "petrichor",
@@ -6299,7 +6561,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "雨の香り"
         },
         {
                 "id": "clinamen",
@@ -6352,7 +6616,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Lucretius, 'De Rerum Natura'",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "偏向"
         },
         {
                 "id": "ataraxia",
@@ -6401,7 +6667,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Harper, Douglas. “Online Etymology Dictionary.”",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "心の平静"
         },
         {
                 "id": "clock",
@@ -6444,7 +6712,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "時計"
         },
         {
                 "id": "odd",
@@ -6493,7 +6763,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "adjective",
+                "meaning": "奇妙な"
         },
         {
                 "id": "ketchup.",
@@ -6536,7 +6808,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "--"
         },
         {
                 "id": "ontogenesis",
@@ -6589,7 +6863,9 @@ const WORDS = [
                         ]
                 },
                 "source": "The Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "個体発生"
         },
         {
                 "id": "afflatus",
@@ -6638,7 +6914,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Online Etymology Dictionary - afflatus",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "霊感"
         },
         {
                 "id": "hypostasis",
@@ -6687,7 +6965,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "実体"
         },
         {
                 "id": "noosphere",
@@ -6740,7 +7020,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Teilhard de Chardin's 'The Phenomenon of Man'",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "精神圏"
         },
         {
                 "id": "zeitgeist.",
@@ -6793,7 +7075,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Online Etymology Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "--"
         },
         {
                 "id": "hodiernal",
@@ -6836,7 +7120,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "adjective",
+                "meaning": "今日の"
         },
         {
                 "id": "oneiric",
@@ -6885,7 +7171,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "adjective",
+                "meaning": "夢の"
         },
         {
                 "id": "palimpsest",
@@ -6934,7 +7222,9 @@ const WORDS = [
                         ]
                 },
                 "source": "The Online Etymology Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "重ね書き"
         },
         {
                 "id": "uchronia",
@@ -6977,7 +7267,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Harper, Douglas. Online Etymology Dictionary (etymonline.com)",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "架空の時代"
         },
         {
                 "id": "witch",
@@ -7030,7 +7322,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "魔女"
         },
         {
                 "id": "gossip",
@@ -7073,7 +7367,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Online Etymology Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "噂話"
         },
         {
                 "id": "travel",
@@ -7116,7 +7412,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Online Etymology Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "verb",
+                "meaning": "旅行する"
         },
         {
                 "id": "peculiar",
@@ -7159,7 +7457,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Online Etymology Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "adjective",
+                "meaning": "独特の"
         },
         {
                 "id": "pneumonite",
@@ -7212,7 +7512,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "肺炎"
         },
         {
                 "id": "chthonic",
@@ -7255,7 +7557,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Online Etymology Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "adjective",
+                "meaning": "地下の、地底の"
         },
         {
                 "id": "anamnesis",
@@ -7314,7 +7618,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Online Etymology Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "想起、病歴"
         },
         {
                 "id": "tenebrous",
@@ -7357,7 +7663,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "adjective",
+                "meaning": "暗い、陰鬱な"
         },
         {
                 "id": "apophenic",
@@ -7410,7 +7718,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Online Etymology Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "adjective",
+                "meaning": "パターンや意味を認識する傾向の"
         },
         {
                 "id": "goodbye",
@@ -7465,7 +7775,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary, etymonline.com",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "さようなら"
         },
         {
                 "id": "mortgage.",
@@ -7518,7 +7830,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "--"
         },
         {
                 "id": "iatrogenic",
@@ -7571,7 +7885,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Harper, Online Etymology Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "adjective",
+                "meaning": "医原性の"
         },
         {
                 "id": "anacoluthon",
@@ -7624,7 +7940,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "無継続文"
         },
         {
                 "id": "tesseract",
@@ -7677,7 +7995,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "四次元立方体"
         },
         {
                 "id": "hermetic",
@@ -7720,7 +8040,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Online Etymology Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "adjective",
+                "meaning": "密封した、神秘的な"
         },
         {
                 "id": "noumenon.",
@@ -7763,7 +8085,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "--"
         },
         {
                 "id": "hypnopaedia",
@@ -7816,7 +8140,9 @@ const WORDS = [
                         ]
                 },
                 "source": "The New Oxford American Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "睡眠学習"
         },
         {
                 "id": "apotropaic",
@@ -7869,7 +8195,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Online Etymology Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "adjective",
+                "meaning": "邪気を払う"
         },
         {
                 "id": "enantiodromia",
@@ -7922,7 +8250,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "対極変動"
         },
         {
                 "id": "infrangible",
@@ -7975,7 +8305,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Online Etymology Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "adjective",
+                "meaning": "壊れない、不可侵の"
         },
         {
                 "id": "quixotry",
@@ -8024,7 +8356,9 @@ const WORDS = [
                         ]
                 },
                 "source": "The Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "非現実的な理想追求"
         },
         {
                 "id": "nightmare",
@@ -8073,7 +8407,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "悪夢"
         },
         {
                 "id": "sirloin",
@@ -8122,7 +8458,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary, etymonline.com",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "サーロイン"
         },
         {
                 "id": "juggernaut",
@@ -8165,7 +8503,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "圧倒的な力"
         },
         {
                 "id": "electric",
@@ -8208,7 +8548,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "adjective",
+                "meaning": "電気の"
         },
         {
                 "id": "dessert",
@@ -8251,7 +8593,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Online Etymology Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "デザート"
         },
         {
                 "id": "bathos",
@@ -8294,7 +8638,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "期待外れな状況"
         },
         {
                 "id": "kenosis",
@@ -8337,7 +8683,9 @@ const WORDS = [
                         ]
                 },
                 "source": "The Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "自己空白化"
         },
         {
                 "id": "numinosity",
@@ -8386,7 +8734,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "神秘性"
         },
         {
                 "id": "thanatopsis",
@@ -8440,7 +8790,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Online Etymology Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "死への瞑想"
         },
         {
                 "id": "sardonic",
@@ -8483,7 +8835,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Harper, Douglas. \"Sardonic.\" Online Etymology Dictionary. Available at: https://www.etymonline.com/word/sardonic",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "adjective",
+                "meaning": "冷笑的な"
         },
         {
                 "id": "epistemology",
@@ -8536,7 +8890,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "認識論"
         },
         {
                 "id": "numen",
@@ -8579,7 +8935,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Online Etymology Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "神の存在感"
         },
         {
                 "id": "ichthyology",
@@ -8632,7 +8990,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "魚類学"
         },
         {
                 "id": "callipygian",
@@ -8685,7 +9045,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "adjective",
+                "meaning": "美しい臀部の"
         },
         {
                 "id": "candidate.",
@@ -8728,7 +9090,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Online Etymology Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "--"
         },
         {
                 "id": "apocryphal",
@@ -8771,7 +9135,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Online Etymology Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "adjective",
+                "meaning": "真偽が疑わしい"
         },
         {
                 "id": "exegesis",
@@ -8824,7 +9190,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "聖書の解釈"
         },
         {
                 "id": "alembic",
@@ -8867,7 +9235,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Online Etymology Dictionary, Middle English Compendium",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "蒸留器"
         },
         {
                 "id": "mnemosyne",
@@ -8910,7 +9280,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "記憶の女神"
         },
         {
                 "id": "agape",
@@ -8953,7 +9325,9 @@ const WORDS = [
                         ]
                 },
                 "source": "The Online Etymology Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "adjective",
+                "meaning": "口を大きく開けた"
         },
         {
                 "id": "ketchup",
@@ -8996,7 +9370,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "ケチャップ"
         },
         {
                 "id": "aleatoric",
@@ -9051,7 +9427,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "adjective",
+                "meaning": "偶然性の"
         },
         {
                 "id": "anfractuous",
@@ -9100,7 +9478,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "adjective",
+                "meaning": "曲がりくねった"
         },
         {
                 "id": "peripatetic",
@@ -9147,7 +9527,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Online Etymology Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "adjective",
+                "meaning": "遍歴する"
         },
         {
                 "id": "neoteny",
@@ -9200,7 +9582,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "幼形成熟"
         },
         {
                 "id": "heterodox",
@@ -9253,7 +9637,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "adjective",
+                "meaning": "異端の"
         },
         {
                 "id": "hegemony",
@@ -9296,7 +9682,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary (OED)",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "覇権"
         },
         {
                 "id": "eidetic.",
@@ -9339,7 +9727,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "--"
         },
         {
                 "id": "slogan",
@@ -9382,7 +9772,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Online Etymology Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "スローガン"
         },
         {
                 "id": "dollar",
@@ -9425,7 +9817,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "ドル"
         },
         {
                 "id": "keen",
@@ -9468,7 +9862,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "adjective",
+                "meaning": "鋭い"
         },
         {
                 "id": "robot",
@@ -9511,7 +9907,9 @@ const WORDS = [
                         ]
                 },
                 "source": "The Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "ロボット"
         },
         {
                 "id": "labyrinthine",
@@ -9554,7 +9952,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "adjective",
+                "meaning": "迷路のような"
         },
         {
                 "id": "metempsychosis",
@@ -9615,7 +10015,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary, Merriam-Webster",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "輪廻転生"
         },
         {
                 "id": "solipsistic",
@@ -9674,7 +10076,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "adjective",
+                "meaning": "唯我論的な"
         },
         {
                 "id": "apophenic.",
@@ -9721,7 +10125,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Conrad, Klaus (1958). Die beginnende Schizophrenie. Versuch einer Gestaltanalyse des Wahns.",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "--"
         },
         {
                 "id": "phronesis",
@@ -9774,7 +10180,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "実践的判断力"
         },
         {
                 "id": "doxastic",
@@ -9823,7 +10231,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "adjective",
+                "meaning": "信念に関する"
         },
         {
                 "id": "apothem",
@@ -9876,7 +10286,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "図形の内接円の半径"
         },
         {
                 "id": "querencia",
@@ -9919,7 +10331,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford Languages",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "安心できる場所"
         },
         {
                 "id": "arenicolous.",
@@ -9972,7 +10386,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary, Online Etymology Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "--"
         },
         {
                 "id": "posh",
@@ -10015,7 +10431,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "adjective",
+                "meaning": "豪華な"
         },
         {
                 "id": "apprentice",
@@ -10058,7 +10476,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "見習い"
         },
         {
                 "id": "grocer",
@@ -10101,7 +10521,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Online Etymology Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "食料品商人"
         },
         {
                 "id": "verdict",
@@ -10154,7 +10576,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Online Etymology Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "判決"
         },
         {
                 "id": "antipelargy",
@@ -10207,7 +10631,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "親孝行"
         },
         {
                 "id": "catachresis",
@@ -10260,7 +10686,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Online Etymology Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "誤用"
         },
         {
                 "id": "apanthropy",
@@ -10313,7 +10741,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Etymology Online Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "人間嫌い"
         },
         {
                 "id": "paramnesia",
@@ -10366,7 +10796,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "既視感"
         },
         {
                 "id": "hylozoism",
@@ -10419,7 +10851,9 @@ const WORDS = [
                         ]
                 },
                 "source": "The Oxford Dictionary of Philosophy",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "物活仮説"
         },
         {
                 "id": "mosquito",
@@ -10472,7 +10906,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Online Etymology Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "蚊"
         },
         {
                 "id": "budget",
@@ -10515,7 +10951,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Online Etymology Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "予算"
         },
         {
                 "id": "barbecue",
@@ -10558,7 +10996,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "バーベキュー"
         },
         {
                 "id": "cash",
@@ -10601,7 +11041,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Online Etymology Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "現金"
         },
         {
                 "id": "ombudsman",
@@ -10654,7 +11096,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "オンブズマン"
         },
         {
                 "id": "cosmogony",
@@ -10707,7 +11151,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "宇宙創造論"
         },
         {
                 "id": "oubliette",
@@ -10750,7 +11196,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Online Etymology Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "地下牢"
         },
         {
                 "id": "sonder.",
@@ -10793,7 +11241,9 @@ const WORDS = [
                         ]
                 },
                 "source": "The Dictionary of Obscure Sorrows",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "--"
         },
         {
                 "id": "quirky",
@@ -10836,7 +11286,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "adjective",
+                "meaning": "風変わりな"
         },
         {
                 "id": "glamour",
@@ -10879,7 +11331,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "魅力"
         },
         {
                 "id": "skyline",
@@ -10926,7 +11380,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "地平線"
         },
         {
                 "id": "peregrination",
@@ -10969,7 +11425,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "遍歴"
         },
         {
                 "id": "eleutheromania",
@@ -11022,7 +11480,9 @@ const WORDS = [
                         ]
                 },
                 "source": "The Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "自由への執着"
         },
         {
                 "id": "palingenesis",
@@ -11075,7 +11535,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "輪廻転生"
         },
         {
                 "id": "eudaimonia",
@@ -11128,7 +11590,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford Classical Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "幸福"
         },
         {
                 "id": "hypnagogia.",
@@ -11181,7 +11645,9 @@ const WORDS = [
                         ]
                 },
                 "source": "The Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "--"
         },
         {
                 "id": "peregrine",
@@ -11224,7 +11690,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Online Etymology Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "ハヤブサ"
         },
         {
                 "id": "marcescent",
@@ -11273,7 +11741,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "adjective",
+                "meaning": "萎えた"
         },
         {
                 "id": "inflorescence",
@@ -11322,7 +11792,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Online Etymology Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "花序"
         },
         {
                 "id": "acerbic",
@@ -11365,7 +11837,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "adjective",
+                "meaning": "辛辣な"
         },
         {
                 "id": "serotinous",
@@ -11414,7 +11888,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "adjective",
+                "meaning": "晩生の"
         },
         {
                 "id": "alcohol",
@@ -11459,7 +11935,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "アルコール"
         },
         {
                 "id": "logorrhea",
@@ -11512,7 +11990,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "多弁症"
         },
         {
                 "id": "parturition",
@@ -11565,7 +12045,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "分娩"
         },
         {
                 "id": "entelechy",
@@ -11612,7 +12094,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Online Etymology Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "目的論的完成"
         },
         {
                 "id": "prolegomenon",
@@ -11665,7 +12149,9 @@ const WORDS = [
                         ]
                 },
                 "source": "The Online Etymology Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "序説"
         },
         {
                 "id": "tautology",
@@ -11718,7 +12204,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Online Etymology Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "同義反復"
         },
         {
                 "id": "pneumatology",
@@ -11771,7 +12259,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Online Etymology Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "霊学"
         },
         {
                 "id": "anathema",
@@ -11824,7 +12314,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Online Etymology Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "忌み嫌われるもの"
         },
         {
                 "id": "apocrypha",
@@ -11867,7 +12359,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Barnhart, R. K. (1988). The Barnhart Dictionary of Etymology.",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "外典"
         },
         {
                 "id": "eisegesis",
@@ -11920,7 +12414,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "誤った解釈"
         },
         {
                 "id": "epistemic",
@@ -11973,7 +12469,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "adjective",
+                "meaning": "認識に関する"
         },
         {
                 "id": "convivium",
@@ -12026,7 +12524,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "宴会"
         },
         {
                 "id": "logomachy",
@@ -12079,7 +12579,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Online Etymology Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "言葉の論争"
         },
         {
                 "id": "cathexis",
@@ -12122,7 +12624,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "精神的集中"
         },
         {
                 "id": "abiogenesis",
@@ -12181,7 +12685,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Harper, D. (n.d.). Online Etymology Dictionary.",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "自然発生説"
         },
         {
                 "id": "ichthyosophy",
@@ -12234,7 +12740,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "魚類学の知識"
         },
         {
                 "id": "orange",
@@ -12283,7 +12791,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "オレンジ"
         },
         {
                 "id": "tuxedo",
@@ -12326,7 +12836,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "タキシード"
         },
         {
                 "id": "lemur",
@@ -12369,7 +12881,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Merriam-Webster Etymology Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "キツネザル"
         },
         {
                 "id": "chiaroscuro",
@@ -12422,7 +12936,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "明暗法"
         },
         {
                 "id": "apocatastasis",
@@ -12485,7 +13001,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "回復説"
         },
         {
                 "id": "antediluvian",
@@ -12534,7 +13052,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Online Etymology Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "adjective",
+                "meaning": "大洪水前の"
         },
         {
                 "id": "omphaloskepsis",
@@ -12587,7 +13107,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "臍凝視"
         },
         {
                 "id": "deontology",
@@ -12640,7 +13162,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "義務論"
         },
         {
                 "id": "weird",
@@ -12683,7 +13207,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "adjective",
+                "meaning": "奇妙な"
         },
         {
                 "id": "biscuit",
@@ -12738,7 +13264,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Online Etymology Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "ビスケット"
         },
         {
                 "id": "denim",
@@ -12781,7 +13309,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "デニム"
         },
         {
                 "id": "ekphrastic",
@@ -12830,7 +13360,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "adjective",
+                "meaning": "詳細描写の"
         },
         {
                 "id": "agenda",
@@ -12879,7 +13411,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Online Etymology Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "議題"
         },
         {
                 "id": "nerd",
@@ -12922,7 +13456,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary, 22nd edition",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "オタク"
         },
         {
                 "id": "abrupt",
@@ -12971,7 +13507,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Online Etymology Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "adjective",
+                "meaning": "突然の"
         },
         {
                 "id": "pansophic",
@@ -13024,7 +13562,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Etymology.com",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "adjective",
+                "meaning": "万能の知識に関する"
         },
         {
                 "id": "epoché",
@@ -13068,7 +13608,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Stanford Encyclopedia of Philosophy",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "--"
         },
         {
                 "id": "elenchus",
@@ -13111,7 +13653,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary, Online Etymology Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "反駁論"
         },
         {
                 "id": "autoschediasm",
@@ -13160,7 +13704,9 @@ const WORDS = [
                         ]
                 },
                 "source": "The Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "即興"
         },
         {
                 "id": "ipseity.",
@@ -13213,7 +13759,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "--"
         },
         {
                 "id": "monad",
@@ -13256,7 +13804,9 @@ const WORDS = [
                         ]
                 },
                 "source": "The Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "単子"
         },
         {
                 "id": "emanation",
@@ -13299,7 +13849,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "発出"
         },
         {
                 "id": "alethic",
@@ -13342,7 +13894,9 @@ const WORDS = [
                         ]
                 },
                 "source": "The Cambridge Dictionary of Philosophy",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "adjective",
+                "meaning": "真理に関する"
         },
         {
                 "id": "noesis",
@@ -13385,7 +13939,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Barnhart, R. K. (1995). The Barnhart Concise Dictionary of Etymology. HarperCollins.",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "知的直観"
         },
         {
                 "id": "enantiomorph",
@@ -13438,7 +13994,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "鏡像体"
         },
         {
                 "id": "hapax",
@@ -13481,7 +14039,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "一度限りの出現"
         },
         {
                 "id": "akrasia",
@@ -13530,7 +14090,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "自制心の欠如"
         },
         {
                 "id": "muddy",
@@ -13579,7 +14141,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "adjective",
+                "meaning": "泥だらけの"
         },
         {
                 "id": "synesthesia",
@@ -13632,7 +14196,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Harper, Douglas. \"Etymology of synesthesia.\" Online Etymology Dictionary.",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "共感覚"
         },
         {
                 "id": "usufruct.",
@@ -13685,7 +14251,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Online Etymology Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "--"
         },
         {
                 "id": "silly",
@@ -13728,7 +14296,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "adjective",
+                "meaning": "愚かな"
         },
         {
                 "id": "nozzle",
@@ -13771,7 +14341,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Online Etymology Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "ノズル"
         },
         {
                 "id": "cappuccino",
@@ -13815,7 +14387,9 @@ const WORDS = [
                         ]
                 },
                 "source": "The Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "カプチーノ"
         },
         {
                 "id": "avocado",
@@ -13858,7 +14432,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "アボカド"
         },
         {
                 "id": "panspermia",
@@ -13911,7 +14487,9 @@ const WORDS = [
                         ]
                 },
                 "source": "https://www.etymonline.com/word/panspermia",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "汎種説"
         },
         {
                 "id": "telos",
@@ -13954,7 +14532,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Online Etymology Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "目的"
         },
         {
                 "id": "hyperbolic",
@@ -14007,7 +14587,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Online Etymology Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "adjective",
+                "meaning": "誇張した"
         },
         {
                 "id": "panentheism",
@@ -14070,7 +14652,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "万有内在神論"
         },
         {
                 "id": "omphalos",
@@ -14113,7 +14697,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Online Etymology Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "中心点"
         },
         {
                 "id": "pumpernickel",
@@ -14166,7 +14752,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "プンパーニッケル"
         },
         {
                 "id": "amok",
@@ -14209,7 +14797,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Online Etymology Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "adjective",
+                "meaning": "狂乱した"
         },
         {
                 "id": "curfew",
@@ -14252,7 +14842,9 @@ const WORDS = [
                         ]
                 },
                 "source": "The Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "門限"
         },
         {
                 "id": "noesis.",
@@ -14295,7 +14887,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Online Etymology Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "--"
         },
         {
                 "id": "cacophony",
@@ -14338,7 +14932,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "耳障りな音"
         },
         {
                 "id": "effulgence",
@@ -14391,7 +14987,9 @@ const WORDS = [
                         ]
                 },
                 "source": "The Online Etymology Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "輝き"
         },
         {
                 "id": "pandiculation",
@@ -14450,7 +15048,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "伸び"
         },
         {
                 "id": "crepuscule",
@@ -14503,7 +15103,9 @@ const WORDS = [
                         ]
                 },
                 "source": "The Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "黄昏"
         },
         {
                 "id": "almanac",
@@ -14552,7 +15154,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "暦"
         },
         {
                 "id": "curmudgeon",
@@ -14599,7 +15203,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "偏屈者"
         },
         {
                 "id": "gargoyle",
@@ -14642,7 +15248,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Online Etymology Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "ガーゴイル"
         },
         {
                 "id": "eucatastrophe",
@@ -14695,7 +15303,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "幸せな結末"
         },
         {
                 "id": "anadiplosis",
@@ -14748,7 +15358,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "連鎖反復"
         },
         {
                 "id": "chiaroscurist",
@@ -14801,7 +15413,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "明暗法の画家"
         },
         {
                 "id": "panglossian",
@@ -14844,7 +15458,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Voltaire's 'Candide' and relevant literary analysis texts",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "adjective",
+                "meaning": "楽観的な"
         },
         {
                 "id": "syneidesis",
@@ -14897,7 +15513,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "良心"
         },
         {
                 "id": "honey",
@@ -14940,7 +15558,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "蜂蜜"
         },
         {
                 "id": "bug",
@@ -14983,7 +15603,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "虫"
         },
         {
                 "id": "apotheosis",
@@ -15046,7 +15668,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Online Etymology Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "神格化"
         },
         {
                 "id": "concomitant",
@@ -15095,7 +15719,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Online Etymology Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "adjective",
+                "meaning": "付随する"
         },
         {
                 "id": "nescience",
@@ -15142,7 +15768,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Online Etymology Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "無知"
         },
         {
                 "id": "esemplastic",
@@ -15191,7 +15819,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "adjective",
+                "meaning": "統合力のある"
         },
         {
                 "id": "ostinato",
@@ -15234,7 +15864,9 @@ const WORDS = [
                         ]
                 },
                 "source": "HarperCollins Publishers - Etymological Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "オスティナート"
         },
         {
                 "id": "gas",
@@ -15277,7 +15909,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Etymology Online",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "ガス"
         },
         {
                 "id": "sempiternal",
@@ -15330,7 +15964,9 @@ const WORDS = [
                         ]
                 },
                 "source": "The Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "adjective",
+                "meaning": "永遠の"
         },
         {
                 "id": "ecliptic",
@@ -15383,7 +16019,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Online Etymology Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "黄道"
         },
         {
                 "id": "narthex",
@@ -15426,7 +16064,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Online Etymology Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "ナルトゥクス"
         },
         {
                 "id": "syncretism",
@@ -15479,7 +16119,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "混合主義"
         },
         {
                 "id": "perichoresis",
@@ -15528,7 +16170,9 @@ const WORDS = [
                         ]
                 },
                 "source": "The Oxford Dictionary of the Christian Church",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "ペリコレーシス"
         },
         {
                 "id": "meraki",
@@ -15571,7 +16215,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Online Etymology Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "愛情を込めて"
         },
         {
                 "id": "zoetic",
@@ -15614,7 +16260,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "adjective",
+                "meaning": "生命の"
         },
         {
                 "id": "nictitate",
@@ -15668,7 +16316,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary, Online Etymology Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "verb",
+                "meaning": "瞬きする"
         },
         {
                 "id": "anthropocentrism.",
@@ -15721,7 +16371,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Online Etymology Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "--"
         },
         {
                 "id": "toast",
@@ -15764,7 +16416,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "トースト"
         },
         {
                 "id": "cipher",
@@ -15807,7 +16461,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "暗号"
         },
         {
                 "id": "daisy",
@@ -15854,7 +16510,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "デイジー"
         },
         {
                 "id": "abstruse",
@@ -15907,7 +16565,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Online Etymology Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "adjective",
+                "meaning": "難解な"
         },
         {
                 "id": "simulacrum",
@@ -15950,7 +16610,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary, Online Etymology Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "模造、擬似物"
         },
         {
                 "id": "apothegm",
@@ -16003,7 +16665,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "警句"
         },
         {
                 "id": "epiphenomenon",
@@ -16056,7 +16720,9 @@ const WORDS = [
                         ]
                 },
                 "source": "The Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "副次現象"
         },
         {
                 "id": "panacea",
@@ -16109,7 +16775,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Online Etymology Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "万能薬"
         },
         {
                 "id": "bikini",
@@ -16162,7 +16830,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Harper's Bazaar, 'The History of the Bikini', 2019",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "ビキニ"
         },
         {
                 "id": "fiasco",
@@ -16205,7 +16875,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Online Etymology Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "大失敗"
         },
         {
                 "id": "welter",
@@ -16248,7 +16920,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "混乱"
         },
         {
                 "id": "hypnogogic",
@@ -16301,7 +16975,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "adjective",
+                "meaning": "入眠時の"
         },
         {
                 "id": "somnambulism",
@@ -16354,7 +17030,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Online Etymology Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "夢遊病"
         },
         {
                 "id": "epistemophilia",
@@ -16407,7 +17085,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Online Etymology Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "知識欲"
         },
         {
                 "id": "alembication",
@@ -16460,7 +17140,9 @@ const WORDS = [
                         ]
                 },
                 "source": "The Online Etymology Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "蒸留"
         },
         {
                 "id": "atelic",
@@ -16509,7 +17191,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "adjective",
+                "meaning": "目的を持たない"
         },
         {
                 "id": "mimesis",
@@ -16558,7 +17242,9 @@ const WORDS = [
                         ]
                 },
                 "source": "The Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "模倣"
         },
         {
                 "id": "autotelic",
@@ -16611,7 +17297,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Online Etymology Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "adjective",
+                "meaning": "自己目的的な"
         },
         {
                 "id": "kenotic.",
@@ -16654,7 +17342,9 @@ const WORDS = [
                         ]
                 },
                 "source": "The Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "--"
         },
         {
                 "id": "lurid",
@@ -16697,7 +17387,9 @@ const WORDS = [
                         ]
                 },
                 "source": "The Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "adjective",
+                "meaning": "ぞっとするような"
         },
         {
                 "id": "absconditus",
@@ -16746,7 +17438,9 @@ const WORDS = [
                         ]
                 },
                 "source": "The Oxford Latin Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "adjective",
+                "meaning": "隠された"
         },
         {
                 "id": "lucubration",
@@ -16795,7 +17489,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Online Etymology Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "夜学"
         },
         {
                 "id": "zaftig",
@@ -16838,7 +17534,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Merriam-Webster Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "adjective",
+                "meaning": "ふくよか"
         },
         {
                 "id": "pareidolia",
@@ -16892,7 +17590,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "認識現象"
         },
         {
                 "id": "decimate",
@@ -16935,7 +17635,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Online Etymology Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "verb",
+                "meaning": "大幅に減少させる"
         },
         {
                 "id": "brand",
@@ -16978,7 +17680,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "ブランド"
         },
         {
                 "id": "marzipan",
@@ -17031,7 +17735,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "マジパン"
         },
         {
                 "id": "panopticon",
@@ -17084,7 +17790,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary, Online Etymology Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "全景監視施設"
         },
         {
                 "id": "vituperative",
@@ -17133,7 +17841,9 @@ const WORDS = [
                         ]
                 },
                 "source": "The Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "adjective",
+                "meaning": "非難に満ちた"
         },
         {
                 "id": "antinous",
@@ -17176,7 +17886,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "アンティノウス（若く美しい）"
         },
         {
                 "id": "exsanguinate",
@@ -17231,7 +17943,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "verb",
+                "meaning": "血を抜く"
         },
         {
                 "id": "thanatology.",
@@ -17284,7 +17998,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "--"
         },
         {
                 "id": "awkward",
@@ -17337,7 +18053,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "adjective",
+                "meaning": "ぎこちない"
         },
         {
                 "id": "vinegar",
@@ -17384,7 +18102,9 @@ const WORDS = [
                         ]
                 },
                 "source": "The Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "酢"
         },
         {
                 "id": "disquisition",
@@ -17427,7 +18147,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Online Etymology Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "詳細な論文"
         },
         {
                 "id": "anemochory",
@@ -17480,7 +18202,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "風媒散布"
         },
         {
                 "id": "sprachgefühl",
@@ -17533,7 +18257,9 @@ const WORDS = [
                         ]
                 },
                 "source": "The Oxford Dictionary of Word Origins",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "言語感覚"
         },
         {
                 "id": "inchoate",
@@ -17576,7 +18302,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "adjective",
+                "meaning": "未完成の"
         },
         {
                 "id": "apothegm.",
@@ -17629,7 +18357,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "--"
         },
         {
                 "id": "abracadabra",
@@ -17678,7 +18408,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Online Etymology Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "アブラカダブラ"
         },
         {
                 "id": "antimetabole",
@@ -17727,7 +18459,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "語順反復"
         },
         {
                 "id": "homburg",
@@ -17770,7 +18504,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "ホンブルク帽"
         },
         {
                 "id": "eudemonism",
@@ -17829,7 +18565,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "幸福主義"
         },
         {
                 "id": "saprogenic",
@@ -17882,7 +18620,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "adjective",
+                "meaning": "腐敗性の"
         },
         {
                 "id": "trivial",
@@ -17945,7 +18685,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Online Etymology Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "adjective",
+                "meaning": "些細な"
         },
         {
                 "id": "dialogue",
@@ -17998,7 +18740,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "対話"
         },
         {
                 "id": "agile",
@@ -18041,7 +18785,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "adjective",
+                "meaning": "敏捷な"
         },
         {
                 "id": "florilegium",
@@ -18094,7 +18840,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "詩文集"
         },
         {
                 "id": "pastiche",
@@ -18137,7 +18885,9 @@ const WORDS = [
                         ]
                 },
                 "source": "The Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "寄せ集め"
         },
         {
                 "id": "apotemnophilia",
@@ -18200,7 +18950,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "切断愛好"
         },
         {
                 "id": "oneirocritic",
@@ -18254,7 +19006,9 @@ const WORDS = [
                         ]
                 },
                 "source": "The Online Etymology Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "夢解釈者"
         },
         {
                 "id": "book",
@@ -18297,7 +19051,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary, Merriam-Webster",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "本"
         },
         {
                 "id": "gala",
@@ -18340,7 +19096,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Online Etymology Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "華やかな催し"
         },
         {
                 "id": "recondite",
@@ -18395,7 +19153,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary, Online Etymology Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "adjective",
+                "meaning": "難解な"
         },
         {
                 "id": "percipience",
@@ -18438,7 +19198,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Online Etymology Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "知覚力"
         },
         {
                 "id": "limerence",
@@ -18487,7 +19249,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Dorothy Tennov's book 'Love and Limerence: The Experience of Being in Love.'",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "恋愛妄想"
         },
         {
                 "id": "acataleptic.",
@@ -18540,7 +19304,9 @@ const WORDS = [
                         ]
                 },
                 "source": "The Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "--"
         },
         {
                 "id": "epanorthosis",
@@ -18587,7 +19353,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Online Etymology Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "訂正法"
         },
         {
                 "id": "concinnity",
@@ -18630,7 +19398,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "調和"
         },
         {
                 "id": "lethologica",
@@ -18683,7 +19453,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "言葉探し症"
         },
         {
                 "id": "wend",
@@ -18726,7 +19498,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "verb",
+                "meaning": "進む"
         },
         {
                 "id": "apocryphon",
@@ -18769,7 +19543,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Online Etymology Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "偽書"
         },
         {
                 "id": "eleutheromania.",
@@ -18822,7 +19598,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "--"
         },
         {
                 "id": "usufruct",
@@ -18875,7 +19653,9 @@ const WORDS = [
                         ]
                 },
                 "source": "The Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "用益権"
         },
         {
                 "id": "squirrel",
@@ -18918,7 +19698,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "リス"
         },
         {
                 "id": "lemon",
@@ -18961,7 +19743,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "レモン"
         },
         {
                 "id": "ontosophy",
@@ -19014,7 +19798,9 @@ const WORDS = [
                         ]
                 },
                 "source": "The Oxford Dictionary of Philosophy",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "存在学"
         },
         {
                 "id": "epizeuxis",
@@ -19067,7 +19853,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "連続反復"
         },
         {
                 "id": "hypozeuxis",
@@ -19120,7 +19908,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "文内並外情報"
         },
         {
                 "id": "hierophany",
@@ -19173,7 +19963,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Eliade, M. (1959). The Sacred and the Profane: The Nature of Religion.",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "聖顕現"
         },
         {
                 "id": "soteriology",
@@ -19226,7 +20018,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "救済論"
         },
         {
                 "id": "ostracize",
@@ -19269,7 +20063,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Online Etymology Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "verb",
+                "meaning": "追放する"
         },
         {
                 "id": "ontology",
@@ -19322,7 +20118,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Online Etymology Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "存在論"
         },
         {
                 "id": "sapient",
@@ -19365,7 +20163,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "adjective",
+                "meaning": "賢明な"
         },
         {
                 "id": "eidetic",
@@ -19408,7 +20208,9 @@ const WORDS = [
                         ]
                 },
                 "source": "The Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "adjective",
+                "meaning": "直観的な"
         },
         {
                 "id": "cathexis.",
@@ -19451,7 +20253,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "--"
         },
         {
                 "id": "existential",
@@ -19500,7 +20304,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "adjective",
+                "meaning": "存在に関する"
         },
         {
                 "id": "pneumonoultramicroscopicsilicovolcanoconiosis",
@@ -19603,7 +20409,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "塵肺"
         },
         {
                 "id": "cenotaph",
@@ -19656,7 +20464,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "記念碑"
         },
         {
                 "id": "ultracrepidarian",
@@ -19709,7 +20519,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary, from the anecdote about the ancient Greek painter Apelles.",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "adjective",
+                "meaning": "専門外の事に口出しする"
         },
         {
                 "id": "cacoethes",
@@ -19762,7 +20574,9 @@ const WORDS = [
                         ]
                 },
                 "source": "The Oxford English Dictionary, Online Edition",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "抑えがたい欲望"
         },
         {
                 "id": "arcane.",
@@ -19805,7 +20619,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "--"
         },
         {
                 "id": "anemnesis",
@@ -19858,7 +20674,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Online Etymology Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "想起"
         },
         {
                 "id": "apodictic",
@@ -19911,7 +20729,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "adjective",
+                "meaning": "論理的必要性のある"
         },
         {
                 "id": "epiphenomenalism",
@@ -19970,7 +20790,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "付加現象論"
         },
         {
                 "id": "elucubration",
@@ -20019,7 +20841,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Online Etymology Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "夜間労作"
         },
         {
                 "id": "catoptromancy",
@@ -20072,7 +20896,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Online Etymology Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "鏡占い"
         },
         {
                 "id": "tempestuous.",
@@ -20121,7 +20947,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Online Etymology Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "--"
         },
         {
                 "id": "handsome",
@@ -20174,7 +21002,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "adjective",
+                "meaning": "ハンサムな"
         },
         {
                 "id": "astonish",
@@ -20217,7 +21047,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "verb",
+                "meaning": "驚かせる"
         },
         {
                 "id": "clue.",
@@ -20260,7 +21092,9 @@ const WORDS = [
                         ]
                 },
                 "source": "The Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "--"
         },
         {
                 "id": "acedia",
@@ -20308,7 +21142,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "無気力"
         },
         {
                 "id": "lagom.",
@@ -20351,7 +21187,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "--"
         },
         {
                 "id": "quiddity",
@@ -20400,7 +21238,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "本質"
         },
         {
                 "id": "verisimilitude",
@@ -20459,7 +21299,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Online Etymology Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "もっともらしさ"
         },
         {
                 "id": "ontogeny",
@@ -20512,7 +21354,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Online Etymology Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "個体発生"
         },
         {
                 "id": "apperception",
@@ -20561,7 +21405,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "統覚"
         },
         {
                 "id": "aposematic",
@@ -20620,7 +21466,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Online Etymology Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "adjective",
+                "meaning": "警告的な"
         },
         {
                 "id": "existentialism",
@@ -20675,7 +21523,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "実存主義"
         },
         {
                 "id": "panopticism",
@@ -20738,7 +21588,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Foucault, Michel. 'Discipline and Punish: The Birth of the Prison'.",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "パノプティコン的監視"
         },
         {
                 "id": "ichthyosaur.",
@@ -20791,7 +21643,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "--"
         },
         {
                 "id": "scapegoat",
@@ -20834,7 +21688,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Online Etymology Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "身代わり"
         },
         {
                 "id": "left",
@@ -20877,7 +21733,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "adjective",
+                "meaning": "左"
         },
         {
                 "id": "guy",
@@ -20920,7 +21778,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "男"
         },
         {
                 "id": "hello",
@@ -20963,7 +21823,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "interjection",
+                "meaning": "こんにちは"
         },
         {
                 "id": "facetious",
@@ -21016,7 +21878,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Online Etymology Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "adjective",
+                "meaning": "ふざけた"
         },
         {
                 "id": "coffee",
@@ -21059,7 +21923,9 @@ const WORDS = [
                         ]
                 },
                 "source": "The Oxford Dictionary of English Etymology",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "コーヒー"
         },
         {
                 "id": "message",
@@ -21112,7 +21978,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Online Etymology Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "メッセージ"
         },
         {
                 "id": "horizon",
@@ -21161,7 +22029,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Online Etymology Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "地平線"
         },
         {
                 "id": "shampoo",
@@ -21204,7 +22074,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "シャンプー"
         },
         {
                 "id": "kiss",
@@ -21259,7 +22131,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Online Etymology Dictionary, Douglas Harper",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "verb",
+                "meaning": "キスする"
         },
         {
                 "id": "ceiling",
@@ -21308,7 +22182,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Oxford English Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "天井"
         },
         {
                 "id": "deadline",
@@ -21355,7 +22231,9 @@ const WORDS = [
                         ]
                 },
                 "source": "Online Etymology Dictionary",
-                "date": "2026-02-28"
+                "date": "2026-02-28",
+                "part_of_speech": "noun",
+                "meaning": "締め切り"
         },
         {
                 "id": "library",
