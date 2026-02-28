@@ -28,8 +28,12 @@ const navItems = {
     contribute: document.getElementById('nav-contribute'),
     essays: document.getElementById('nav-essays'),
     settings: document.getElementById('nav-settings'),
-    premium: document.getElementById('nav-premium')
+    premium: document.getElementById('nav-premium'),
+    notifications: document.getElementById('nav-notifications')
 };
+
+// Global cache for dynamically loaded content
+window.ESSAY_CACHE = [];
 
 const API_BASE = window.location.origin;
 
@@ -235,6 +239,31 @@ async function loadReflections(targetId) {
     });
 }
 
+async function renderNotifications() {
+    if (!State.currentUser) return navigate('premium');
+    const data = await apiGet(`/api/notifications?username=${State.currentUser}`);
+    viewContainer.innerHTML = `
+        <div class="notifications-view fade-in" style="max-width:600px; margin: 0 auto; padding: 3rem;">
+            <h3 class="section-label">Notifications</h3>
+            <div class="notif-list" style="margin-top:2rem;">
+                ${data.map(n => `
+                    <div onclick="markNotifRead(${n.id}, '${n.link}')" style="background:${n.is_read ? 'var(--color-surface)' : 'rgba(96, 165, 250, 0.1)'}; padding:1.5rem; border-radius:16px; margin-bottom:1rem; border:1px solid var(--color-border); cursor:pointer; position:relative;">
+                        <div style="font-size:0.8rem; opacity:0.6; margin-bottom:0.5rem;">${n.date}</div>
+                        <div style="font-size:1rem;">${n.message}</div>
+                        ${!n.is_read ? '<span style="position:absolute; top:1.5rem; right:1.5rem; width:8px; height:8px; background:var(--color-accent); border-radius:50%;"></span>' : ''}
+                    </div>
+                `).join('') || '<p class="dimmed">No notifications.</p>'}
+            </div>
+        </div>
+    `;
+}
+
+async function markNotifRead(id, link) {
+    await apiPost('/api/notifications/read', { id });
+    if (link) navigate(link);
+    else renderNotifications();
+}
+
 async function followUser(targetUser) {
     if (!State.currentUser) return navigate('premium');
     await apiPost('/api/follow', { follower: State.currentUser, followed: targetUser });
@@ -373,15 +402,36 @@ function renderArchive() {
     `;
 }
 
-function renderEssays() {
-    const list = (typeof ESSAYS !== 'undefined') ? [...ESSAYS] : [];
-    list.sort((a, b) => b.date.localeCompare(a.date)); // 日付順に降順ソート
+async function renderEssays() {
+    const officialEssays = (typeof ESSAYS !== 'undefined') ? [...ESSAYS] : [];
+    const userEssays = await apiGet('/api/user-essays');
+    const allEssays = [...officialEssays, ...userEssays];
+    allEssays.sort((a, b) => b.date.localeCompare(a.date));
+    window.ESSAY_CACHE = allEssays; // キャッシュに保存
+
+    // 非表示フィルタの適用
+    let list = allEssays;
+    if (localStorage.getItem('hiddenEssays')) {
+        const hiddenIds = JSON.parse(localStorage.getItem('hiddenEssays'));
+        list = list.filter(e => !hiddenIds.includes(e.id));
+    }
+
     viewContainer.innerHTML = `
         <div class="essays-view fade-in">
             <h3 class="section-label" style="text-align:center; margin-bottom:4rem; font-size:1.4rem;">Weekly Philology</h3>
+            
+            ${State.isPremium ? `
+                <div style="text-align:center; margin-bottom:3rem;">
+                    <button onclick="renderEssayForm()" class="primary-btn" style="padding:1rem 2rem; border-radius:100px; font-size:0.9rem;">+ Write Essay</button>
+                </div>
+            ` : ''}
+
             <div class="essay-list">${list.map(e => `
                 <div class="essay-card" onclick="openEssay('${e.id}')" style="background:var(--color-surface); padding:3rem; border-radius:24px; margin-bottom:2rem; border:1px solid var(--color-border); cursor:pointer; position:relative;">
-                    <span class="dimmed" style="font-size:0.9rem;">${e.date}</span>
+                    <div style="display:flex; justify-content:space-between; align-items:center;">
+                        <span class="dimmed" style="font-size:0.9rem;">${e.date}</span>
+                        <span class="dimmed" style="font-size:0.8rem;">by <b>${e.author || 'etymon_official'}</b></span>
+                    </div>
                     <h2 style="margin: 1rem 0; font-size:2rem; line-height:1.2;">${e.title} ${!State.isPremium ? '🔒' : ''}</h2>
                     <div style="display:flex; justify-content:space-between; align-items:center;">
                         <p class="dimmed">Tap to experience the depth...</p>
@@ -391,19 +441,65 @@ function renderEssays() {
         </div>`;
 }
 
+function renderEssayForm() {
+    viewContainer.innerHTML = `
+        <div class="contribute-view fade-in" style="max-width:640px; margin: 0 auto; padding-bottom:120px;">
+            <header style="margin-bottom:3rem; display:flex; gap:1rem; align-items:center;">
+                <button onclick="navigate('essays')" class="chip">← Back</button>
+                <h3 class="section-label">Write Essay</h3>
+            </header>
+            <form id="essay-form" style="background:var(--color-surface); padding:3rem; border-radius:32px; border:1px solid var(--color-border);">
+                <div class="input-group"><label>Title</label><input type="text" id="e-title" required style="width:100%; background:var(--color-bg); border-radius:12px; border:1px solid var(--color-border); color:white; padding:1.2rem;"></div>
+                <div class="input-group" style="margin-top:2rem;"><label>Content</label><textarea id="e-content" rows="15" required style="width:100%; background:var(--color-bg); border-radius:12px; border:1px solid var(--color-border); color:white; padding:1.5rem; font-size: 1.1rem; line-height: 1.6;"></textarea></div>
+                <button type="submit" class="primary-btn" style="width:100%; margin-top:3rem; padding:1.5rem; font-weight:bold; font-size:1.2rem; border-radius:16px;">Publish Essay</button>
+            </form>
+        </div>`;
+    document.getElementById('essay-form').onsubmit = async (e) => {
+        e.preventDefault();
+        const res = await apiPost('/api/submit-essay', {
+            username: State.currentUser,
+            title: document.getElementById('e-title').value,
+            content: document.getElementById('e-content').value
+        });
+        if (res.status === 'success') { showToast('Essay Published.'); navigate('essays'); }
+        else showToast(res.message);
+    };
+}
+
 function openEssay(id) {
     if (!State.isPremium) { showToast('Premium access required.'); navigate('premium'); return; }
-    const e = ESSAYS.find(x => x.id === id);
+
+    // JSデータまたはDBデータ(キャッシュ)から検索
+    let e = (typeof ESSAYS !== 'undefined') ? ESSAYS.find(x => x.id === id) : null;
+    if (!e) {
+        e = window.ESSAY_CACHE && window.ESSAY_CACHE.find(x => x.id === id);
+    }
+    if (!e) return;
+
     viewContainer.innerHTML = `
         <div class="essay-content fade-in" style="max-width:800px; margin:0 auto; padding-bottom:100px;">
             <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:3rem;">
-                <button class="chip" onclick="renderEssays()">← Archives</button>
-                <button class="essay-save-btn" data-id="${e.id}" style="background:none; border:none; font-size:2rem; cursor:pointer;">
-                    ${State.savedEssayIds.includes(e.id) ? '🔖' : '📑'}
-                </button>
+                <button class="chip" onclick="navigate('essays')">← Archives</button>
+                <div class="word-options-container" style="position:relative;">
+                    <button id="essay-options-trigger" style="background:none; border:none; font-size:1.8rem; cursor:pointer; color:var(--color-text-dim);">⋯</button>
+                    <div id="essay-options-menu" style="display:none; position:absolute; top:40px; right:0; background:var(--color-surface); border:1px solid var(--color-border); border-radius:12px; box-shadow:0 10px 30px rgba(0,0,0,0.3); z-index:100; min-width:160px; overflow:hidden;">
+                        <button onclick="toggleSaveEssay('${e.id}')" style="width:100%; padding:1rem; background:none; border:none; color:white; text-align:left; cursor:pointer; font-size:0.9rem; border-bottom:1px solid var(--color-border);">
+                            ${State.savedEssayIds.includes(e.id) ? '🔖 Unsaved' : '📑 Favorite Essay'}
+                        </button>
+                        <button onclick="hideEssay('${e.id}')" style="width:100%; padding:1rem; background:none; border:none; color:white; text-align:left; cursor:pointer; font-size:0.9rem;">
+                            👁️‍🗨️ Hide this Essay
+                        </button>
+                    </div>
+                </div>
             </div>
             <header style="margin-bottom: 5rem;">
-                <span class="dimmed" style="font-size:1rem;">${e.date}</span>
+                <div style="display:flex; justify-content:space-between; align-items:center;">
+                    <span class="dimmed" style="font-size:1rem;">${e.date}</span>
+                    <div style="display:flex; gap:10px; align-items:center;">
+                        <span class="dimmed">by <b>${e.author || 'etymon_official'}</b></span>
+                        ${e.author && e.author !== State.currentUser && e.author !== 'etymon_official' ? `<button onclick="followUser('${e.author}')" class="chip" style="font-size:0.7rem;">Follow</button>` : ''}
+                    </div>
+                </div>
                 <h1 style="font-size:3.5rem; margin:1.5rem 0; line-height:1.1; letter-spacing:-0.03em;">${e.title}</h1>
             </header>
             <div class="essay-body" style="font-size:1.3rem; line-height:2; color:var(--color-text); font-family: 'Inter', sans-serif;">
@@ -416,13 +512,28 @@ function openEssay(id) {
         </div>`;
     loadReflections(e.id);
 
-    document.querySelector('.essay-save-btn').onclick = () => {
-        const idx = State.savedEssayIds.indexOf(e.id);
-        if (idx > -1) State.savedEssayIds.splice(idx, 1);
-        else State.savedEssayIds.push(e.id);
-        localStorage.setItem('savedEssays', JSON.stringify(State.savedEssayIds));
-        openEssay(e.id);
-    };
+    const trigger = document.getElementById('essay-options-trigger');
+    const menu = document.getElementById('essay-options-menu');
+    if (trigger && menu) {
+        trigger.onclick = (ev) => { ev.stopPropagation(); menu.style.display = menu.style.display === 'block' ? 'none' : 'block'; };
+        document.addEventListener('click', () => { menu.style.display = 'none'; }, { once: true });
+    }
+}
+
+function toggleSaveEssay(id) {
+    const idx = State.savedEssayIds.indexOf(id);
+    if (idx > -1) State.savedEssayIds.splice(idx, 1);
+    else State.savedEssayIds.push(id);
+    localStorage.setItem('savedEssays', JSON.stringify(State.savedEssayIds));
+    openEssay(id);
+}
+
+function hideEssay(id) {
+    const hidden = JSON.parse(localStorage.getItem('hiddenEssays') || '[]');
+    hidden.push(id);
+    localStorage.setItem('hiddenEssays', JSON.stringify(hidden));
+    navigate('essays');
+    showToast('Essay hidden.');
 }
 
 function renderSaved() {
@@ -616,6 +727,7 @@ function navigate(view) {
             case 'premium': renderPremium(); break;
             case 'admin': renderAdmin(); break;
             case 'connections': renderConnections(); break;
+            case 'notifications': renderNotifications(); break;
         }
         viewContainer.classList.add('fade-in');
         window.scrollTo({ top: 0, behavior: 'smooth' });
@@ -667,6 +779,7 @@ document.addEventListener('DOMContentLoaded', async () => {
     if (navItems.essays) navItems.essays.onclick = () => navigate('essays');
     if (navItems.settings) navItems.settings.onclick = () => navigate('settings');
     if (navItems.premium) navItems.premium.onclick = () => navigate('premium');
+    if (navItems.notifications) navItems.notifications.onclick = () => navigate('notifications');
 
     const params = new URLSearchParams(window.location.search);
     const sid = params.get('session_id'), user = params.get('user');

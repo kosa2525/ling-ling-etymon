@@ -62,6 +62,10 @@ def init_db():
                                     (username TEXT, target_type TEXT, target_id INTEGER, PRIMARY KEY (username, target_type, target_id))''')
                     cur.execute('''CREATE TABLE IF NOT EXISTS follows 
                                     (follower TEXT, followed TEXT, PRIMARY KEY (follower, followed))''')
+                    cur.execute('''CREATE TABLE IF NOT EXISTS notifications 
+                                    (id SERIAL PRIMARY KEY, username TEXT, type TEXT, message TEXT, link TEXT, date TEXT, is_read BOOLEAN DEFAULT FALSE)''')
+                    cur.execute('''CREATE TABLE IF NOT EXISTS user_essays 
+                                    (id SERIAL PRIMARY KEY, title TEXT, content TEXT, author TEXT, date TEXT, is_deleted BOOLEAN DEFAULT FALSE)''')
                 else:
                     cur.execute('''CREATE TABLE IF NOT EXISTS users 
                                     (username TEXT PRIMARY KEY, password TEXT, is_premium BOOLEAN, is_operator BOOLEAN DEFAULT 0)''')
@@ -77,6 +81,10 @@ def init_db():
                                     (username TEXT, target_type TEXT, target_id INTEGER, PRIMARY KEY (username, target_type, target_id))''')
                     cur.execute('''CREATE TABLE IF NOT EXISTS follows 
                                     (follower TEXT, followed TEXT, PRIMARY KEY (follower, followed))''')
+                    cur.execute('''CREATE TABLE IF NOT EXISTS notifications 
+                                    (id INTEGER PRIMARY KEY AUTOINCREMENT, username TEXT, type TEXT, message TEXT, link TEXT, date TEXT, is_read INTEGER DEFAULT 0)''')
+                    cur.execute('''CREATE TABLE IF NOT EXISTS user_essays 
+                                    (id INTEGER PRIMARY KEY AUTOINCREMENT, title TEXT, content TEXT, author TEXT, date TEXT, is_deleted INTEGER DEFAULT 0)''')
     finally:
         conn.close()
 init_db()
@@ -242,6 +250,79 @@ def get_follows():
             cur.execute(f"SELECT followed FROM follows WHERE follower={p}", (username,))
             res = cur.fetchall()
             return jsonify([row[0] for row in res])
+
+def add_notification(username, n_type, message, link):
+    conn = get_db_connection()
+    p = get_placeholder()
+    with conn:
+        with conn.cursor() as cur:
+            cur.execute(f"INSERT INTO notifications (username, type, message, link, date, is_read) VALUES ({p}, {p}, {p}, {p}, {p}, {p})",
+                         (username, n_type, message, link, datetime.now().strftime("%Y-%m-%d %H:%M"), False if DATABASE_URL else 0))
+    conn.close()
+
+def notify_followers(followed_user, message, link):
+    conn = get_db_connection()
+    p = get_placeholder()
+    with conn:
+        with conn.cursor() as cur:
+            cur.execute(f"SELECT follower FROM follows WHERE followed={p}", (followed_user,))
+            followers = cur.fetchall()
+            for f in followers:
+                add_notification(f[0], 'new_post', message, link)
+    conn.close()
+
+@app.route('/api/notifications', methods=['GET'])
+def get_notifications():
+    username = request.args.get('username')
+    conn = get_db_connection()
+    p = get_placeholder()
+    with conn:
+        with conn.cursor() as cur:
+            cur.execute(f"SELECT id, type, message, link, date, is_read FROM notifications WHERE username={p} ORDER BY date DESC LIMIT 20", (username,))
+            res = cur.fetchall()
+            return jsonify([{"id":r[0], "type":r[1], "message":r[2], "link":r[3], "date":r[4], "is_read":bool(r[5])} for r in res])
+
+@app.route('/api/notifications/read', methods=['POST'])
+def mark_read():
+    data = request.json
+    conn = get_db_connection()
+    p = get_placeholder()
+    with conn:
+        with conn.cursor() as cur:
+            cur.execute(f"UPDATE notifications SET is_read={p} WHERE id={p}", (True if DATABASE_URL else 1, data['id']))
+    conn.close()
+    return jsonify(status="success")
+
+@app.route('/api/submit-essay', methods=['POST'])
+def submit_essay():
+    data = request.json
+    username = data.get('username')
+    
+    # 有料会員チェック
+    conn = get_db_connection()
+    p = get_placeholder()
+    with conn:
+        with conn.cursor() as cur:
+            cur.execute(f"SELECT is_premium FROM users WHERE username={p}", (username,))
+            user = cur.fetchone()
+            if not user or not user[0]:
+                return jsonify(status="error", message="エッセイ投稿にはPremium会員である必要があります。"), 403
+            
+            cur.execute(f"INSERT INTO user_essays (title, content, author, date) VALUES ({p}, {p}, {p}, {p})",
+                         (data['title'], data['content'], username, datetime.now().strftime("%Y-%m-%d")))
+    conn.close()
+    
+    notify_followers(username, f"{username} さんが新しいエッセイを投稿しました：{data['title']}", "essays")
+    return jsonify(status="success")
+
+@app.route('/api/user-essays', methods=['GET'])
+def get_user_essays():
+    conn = get_db_connection()
+    with conn:
+        with conn.cursor() as cur:
+            cur.execute("SELECT id, title, content, author, date FROM user_essays WHERE is_deleted IS NOT TRUE ORDER BY date DESC")
+            res = cur.fetchall()
+            return jsonify([{"id":f"u_{r[0]}", "title":r[1], "content":r[2], "author":r[3], "date":r[4]} for r in res])
 
 # --- オペレーター向け管理 API ---
 
@@ -430,7 +511,8 @@ def submit_word():
         
         with open(data_js_path, 'w', encoding='utf-8') as f:
             f.write(f"const WORDS = {json.dumps(new_list, indent=8, ensure_ascii=False)};\n")
-            
+        
+        notify_followers(username, f"{username} さんが新しい単語を投稿しました：{word_payload['word']}", "archive")
         return jsonify(status="success")
     except Exception as e:
         return jsonify(status="error", message=str(e)), 500
