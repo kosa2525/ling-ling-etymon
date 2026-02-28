@@ -26342,5 +26342,57 @@ const WORDS = [
                 "source": "Online Etymology Dictionary",
                 "date": "2026-03-01",
                 "era": "Late Middle English"
+        },
+        {
+                "id": "decipher",
+                "word": "Decipher",
+                "part_of_speech": "verb",
+                "meaning": "解読すること",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "de-",
+                                        "type": "prefix",
+                                        "meaning": "取り除く",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "cipher",
+                                        "type": "root",
+                                        "meaning": "暗号",
+                                        "lang": "Arabic"
+                                }
+                        ],
+                        "original_statement": "The word 'decipher' comes from the late Middle English period, derived from the prefix 'de-' meaning 'remove' and the Latin 'cifra', meaning 'zero' or 'cipher' from the Arabic 'ṣifr', denoting an empty or void which came to be associated with codes or hidden meanings."
+                },
+                "core_concept": {
+                        "en": "To unveil the latent tapestry of hidden meanings.",
+                        "ja": "隠された意味の秘めたる織物を明らかにすること"
+                },
+                "thinking_layer": "文字や言葉の背後に潜む謎を解き明かす行為としての解読は、それ自体が内面的な旅であり、自己との対話でもあります。解読することは、見えないものを見ようとする試みであり、それはまるで深い闇の中での光を探す彷徨に似ています。この行為は単なる情報の変換にとどまらず、私たちの理解の輪郭を広げ、未知の領域への扉を開くものです。暗号は単に数学的または文法的なパズルではなく、それを超えて存在する普遍的な真理や物語の断片をも再発見させてくれるのです。そして、一度解読された後も、その意味は常に変容し続け、時間と共に新たな層を見せるのでしょう。解読とは、知識と未知の狭間を旅することであり、その経験の中で我々は、自らが抱く認識の限界を知り、新たな視点を獲得するのです。",
+                "synonyms": [
+                        "decode",
+                        "interpret"
+                ],
+                "antonyms": [
+                        "encode",
+                        "obscure"
+                ],
+                "aftertaste": "To decipher is to journey into the silent echoes of the unknown.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "cipher",
+                                        "meaning": "A secret code or disguised way of writing"
+                                }
+                        ],
+                        "points": [
+                                "言葉の根源を辿ることで、単語が形成されるまでの文化的交差点と歴史的背景を考察することができる。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Late Middle English / 14th Century"
         }
 ];
