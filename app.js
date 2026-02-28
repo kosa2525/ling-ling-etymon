@@ -111,9 +111,14 @@ async function renderToday() {
 
             <section class="section aftertaste-section" style="border-left: 2px solid var(--color-accent); padding-left: 1.5rem;"><span class="section-label">Resonance</span><p class="aftertaste-text" style="font-family: 'Times New Roman', serif; font-style: italic; font-size: 1.3rem;">${word.aftertaste}</p></section>
 
-            <footer style="margin-top: 3rem; padding-top: 1.5rem; border-top: 1px solid var(--color-border); display:flex; justify-content:space-between; opacity:0.5; font-size:0.8rem;">
-                <div>Source: ${word.source || '--'}</div>
-                <div>by <b>${word.author || 'etymon_official'}</b></div>
+            <footer style="margin-top: 3rem; padding-top: 1.5rem; border-top: 1px solid var(--color-border); display:flex; flex-direction:column; gap:0.5rem; opacity:0.5; font-size:0.8rem;">
+                <div style="display:flex; justify-content:space-between;">
+                    <div>Source: ${word.source || '--'}</div>
+                    <div>by <b>${word.author || 'etymon_official'}</b></div>
+                </div>
+                <div style="font-style:italic; font-size:0.7rem; color:var(--color-text-dim);">
+                    ※ 本コンテンツは、一部AIによって生成された、またはAIの補助を受けて作成された可能性があります。
+                </div>
             </footer>
             
             <div class="deep-dive">${State.isPremium ? renderDeepDiveContent(word) : renderDeepDiveLock()}</div>
@@ -294,6 +299,9 @@ function openEssay(id) {
             <div class="essay-body" style="font-size:1.3rem; line-height:2; color:var(--color-text); font-family: 'Inter', sans-serif;">
                 ${e.content.split('\n').map(l => l.trim() ? `<p style="margin-bottom:2.5rem;">${l}</p>` : '').join('')}
             </div>
+            <footer style="margin-top: 4rem; padding-top: 1.5rem; border-top: 1px solid var(--color-border); opacity:0.4; font-size:0.75rem; font-style:italic;">
+                ※ 本エッセイは、一部AIによって生成された、またはAIの補助を受けて作成された可能性があります。
+            </footer>
             ${renderReflectionSection(e.id)}
         </div>`;
     loadReflections(e.id);
@@ -386,7 +394,22 @@ function saveSettings() { localStorage.setItem('set_fontSize', State.fontSize); 
 function renderDeepDiveContent(word) {
     return `<div class="deep-dive-unlocked" style="margin-top:4rem;"><span class="section-label" style="color:var(--color-premium);">Proto-Indo-European Roots</span><div class="roots-grid" style="display:grid; grid-template-columns: repeat(auto-fill, minmax(140px, 1fr)); gap:1.2rem; margin:2rem 0;">${(word.deep_dive.roots || []).map(r => `<div class="root-item" style="padding:1.2rem; border:1px solid var(--color-premium); border-radius:16px; background:rgba(245,158,11,0.03);"><b style="color:var(--color-premium); font-size:1.3rem;">${r.term}</b><br><span style="font-size:0.9rem; opacity:0.8;">${r.meaning}</span></div>`).join('')}</div><ul style="list-style:none; padding:0;">${(word.deep_dive.points || []).map(p => `<li style="margin-bottom:1.5rem; font-size:1.15rem; padding-left:1.8rem; position:relative; line-height:1.6;"><span style="position:absolute; left:0; color:var(--color-premium); font-size:1.5rem; top:-0.2rem;">◎</span>${p}</li>`).join('')}</ul></div>`;
 }
-function renderDeepDiveLock() { return `<div class="lock-container" onclick="navigate('premium')" style="padding:4rem; border:1px dashed var(--color-border); border-radius:24px; text-align:center; cursor:pointer; margin-top:4rem; background:rgba(255,255,255,0.02); transition:all 0.3s;"><div style="font-size:2.5rem; margin-bottom:1rem;">🕯️</div><div style="font-weight:bold; color:var(--color-premium); font-size:1.2rem;">Illuminate the Deep Roots</div><p class="dimmed" style="margin-top:0.5rem;">Access PIE roots and advanced philological analysis.</p></div>`; }
+function renderDeepDiveLock() {
+    return `
+        <div class="lock-container" onclick="navigate('premium')" style="padding:4rem; border:1px dashed var(--color-border); border-radius:24px; text-align:center; cursor:pointer; margin-top:4rem; background:rgba(255,255,255,0.02); transition:all 0.3s;">
+            <div style="font-size:2.5rem; margin-bottom:1rem;">🕯️</div>
+            <div style="font-weight:bold; color:var(--color-premium); font-size:1.2rem; margin-bottom:1.5rem;">Illuminate the Deep Roots</div>
+            <ul style="list-style:none; padding:0; text-align:left; max-width:280px; margin:0 auto; font-size:0.9rem; line-height:1.8; color:var(--color-text-dim);">
+                <li>✨ 週間フィロロジー・エッセイの閲覧</li>
+                <li>✨ 広告の完全非表示</li>
+                <li>✨ 同語源を持つ単語一覧の開放</li>
+                <li>✨ 他のユーザーによる思索（Reflection）の閲覧</li>
+                <li>✨ 印欧祖語（PIE）のルーツ解析</li>
+            </ul>
+            <p style="margin-top:2rem; font-weight:bold; color:var(--color-premium);">タップして深淵へ</p>
+        </div>
+    `;
+}
 
 function renderPremium() {
     if (State.isPremium && State.currentUser) { viewContainer.innerHTML = `<div class="premium-view" style="text-align:center; padding:8rem 2rem;"><div style="font-size:4rem; margin-bottom:2rem;">✨</div><h2>Citizen ${State.currentUser}</h2><p class="dimmed">Your mind is connected to the deeper structures.</p><button onclick="logout()" class="primary-btn" style="margin-top:4rem; background:transparent; border:1px solid var(--color-border);">Leave Identity</button></div>`; return; }
@@ -394,7 +417,21 @@ function renderPremium() {
         viewContainer.innerHTML = `<div class="auth-view fade-in" style="max-width:420px; margin: 6rem auto; padding: 3.5rem; background:var(--color-surface); border-radius:32px; border:1px solid var(--color-border);"><h2 id="auth-title" style="text-align:center; margin-bottom:3rem; font-weight:300; letter-spacing:0.2em;">IDENTITY</h2><div class="input-group"><label>Username</label><input type="text" id="auth-username" style="width:100%; background:var(--color-bg); padding:1rem; border-radius:12px; border:1px solid var(--color-border); color:white;"></div><div class="input-group" style="margin-top:1.5rem;"><label>Password</label><input type="password" id="auth-password" style="width:100%; background:var(--color-bg); padding:1rem; border-radius:12px; border:1px solid var(--color-border); color:white;"></div><button id="auth-submit" class="primary-btn" style="width:100%; margin-top:3rem; padding:1.2rem; border-radius:14px; font-weight:bold; font-size:1.1rem;">ENTER</button><p style="text-align:center; margin-top:2rem;"><a href="#" id="auth-toggle" style="opacity:0.5; font-size:0.85rem; text-decoration:none;">Initialize New Identity</a></p></div>`;
         setupAuthListeners(); return;
     }
-    viewContainer.innerHTML = `<div class="premium-view" style="text-align:center; padding:6rem 2rem;"><div style="font-size:3.5rem; margin-bottom:1.5rem;">🔱</div><h2>The Inner Circle</h2><p class="dimmed" style="max-width:400px; margin: 0 auto 4rem; line-height:1.6;">Unlock weekly scholarly essays, participate in shared reflections, and access Proto-Indo-European root analysis.</p><button id="buy-premium-btn" class="primary-btn" style="width:100%; max-width:400px; padding:1.8rem; font-size:1.3rem; border-radius:20px; box-shadow: 0 10px 30px rgba(var(--color-accent-rgb), 0.3);">UNSEAL ALL LAYERS (¥980/mo)</button></div>`;
+    viewContainer.innerHTML = `
+        <div class="premium-view" style="text-align:center; padding:6rem 2rem;">
+            <div style="font-size:3.5rem; margin-bottom:1.5rem;">🔱</div>
+            <h2>The Inner Circle</h2>
+            <div class="premium-benefits" style="max-width:450px; margin: 2rem auto 4rem; text-align:left; background:var(--color-surface); padding:2rem; border-radius:24px; border:1px solid var(--color-border);">
+                <ul style="list-style:none; padding:0; line-height:2.2; font-size:1.1rem;">
+                    <li>📖 <b>Scholarly Essays</b>: 毎週更新される深い語源的洞察</li>
+                    <li>🚫 <b>No Advertisements</b>: 広告のない洗練された読書体験</li>
+                    <li>🔗 <b>Deep Connections</b>: 同語源の単語をリンクし、知の鎖を辿る</li>
+                    <li>🧠 <b>Shared Reflections</b>: 他のユーザーが残した思索の痕跡を辿る</li>
+                    <li>🏺 <b>Archaic Roots</b>: 究極のルーツである印欧祖語（PIE）の解析</li>
+                </ul>
+            </div>
+            <button id="buy-premium-btn" class="primary-btn" style="width:100%; max-width:400px; padding:1.8rem; font-size:1.3rem; border-radius:20px; box-shadow: 0 10px 30px rgba(var(--color-accent-rgb), 0.3);">UNSEAL ALL LAYERS (¥980/mo)</button>
+        </div>`;
     document.getElementById('buy-premium-btn').onclick = async () => { const res = await apiPost('/create-checkout-session?username=' + State.currentUser, {}); const stripe = Stripe('pk_test_51T5KW45XPK1iD6ycU5CgxWXqSgxgKUDSNWImeARHpDFXHrfBC1y8BI4w4tr2cvftIb9uiSickAv3PoGIM5i2SX5F00W2Uz21M8'); await stripe.redirectToCheckout({ sessionId: res.id }); };
 }
 
