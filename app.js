@@ -291,7 +291,17 @@ function renderSettings() {
                     <button class="primary-btn" onclick="State.theme='light';saveSettings()" style="flex:1; background:${State.theme === 'light' ? 'var(--color-accent)' : 'transparent'};">Light</button>
                 </div>
             </div>
-            <button class="primary-btn" onclick="saveSettings()" style="width:100%; padding:1.2rem; border-radius:14px; font-weight:bold;">Commit Changes</button>
+            <button class="primary-btn" onclick="saveSettings()" style="width:100%; padding:1.2rem; border-radius:14px; font-weight:bold; margin-bottom: 2rem;">Commit Changes</button>
+            
+            <div class="setting-group" style="padding-top: 2rem; border-top: 1px solid var(--color-border);">
+                <label style="display:block; margin-bottom:1.2rem; font-weight:bold; opacity:0.8;">Account</label>
+                <div style="display:flex; flex-direction:column; gap:12px;">
+                    <p class="dimmed" style="font-size:0.9rem; margin-bottom:0.5rem;">Current Identity: <b style="color:var(--color-text);">${State.currentUser || 'None'}</b></p>
+                    <button onclick="logout()" class="primary-btn" style="width:100%; padding:1rem; border-radius:12px; background:transparent; border:1px solid var(--color-border); color:var(--color-text-dim); transition:all 0.3s; cursor:pointer;" onmouseover="this.style.borderColor='var(--color-accent)';this.style.color='var(--color-text)'" onmouseout="this.style.borderColor='var(--color-border)';this.style.color='var(--color-text-dim)'">
+                        Logout (Leave Identity)
+                    </button>
+                </div>
+            </div>
         </div>
     `;
     document.getElementById('set-fontSize').oninput = (e) => { State.fontSize = e.target.value; applySettings(); };
