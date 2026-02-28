@@ -696,10 +696,10 @@ def get_word_network():
         # 繋がり（2つ以上登録されているもの）がある語根だけを抽出
         valid_roots = {r: words for r, words in root_map.items() if len(words) >= 2}
         
-        # 該当する語根が多すぎる場合はランダムに選ぶ（上限200クラスタ）
+        # 該当する語根が多すぎる場合はランダムに選ぶ（上限500クラスタ）
         root_keys = list(valid_roots.keys())
-        if len(root_keys) > 200:
-            root_keys = random.sample(root_keys, 200)
+        if len(root_keys) > 500:
+            root_keys = random.sample(root_keys, 500)
         
         # ネットワーク用データ（ノードとエッジ）
         nodes = []
@@ -709,6 +709,9 @@ def get_word_network():
         for root in root_keys:
             related_words = valid_roots[root]
             root_id = f"root_{root}"
+            # 語根か接頭辞か判定（簡易的に元データから判別するか、ここでは一括で管理しているがラベルで分ける）
+            # root_map作成時にb_typeを保持するように修正が必要だが、一旦シンプルにrootとして出すか、
+            # 汎用的にパーツとして出す。
             nodes.append({"id": root_id, "label": root, "group": "root"})
             
             for rw in related_words:

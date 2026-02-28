@@ -351,16 +351,12 @@ async function followUser(targetUser) {
         }
 
         // 現時点のビューを再描画してボタン表示を更新
-        if (State.currentView === 'essays') {
-            // エッセイ詳細を表示中なら再描画が必要だが、
-            // IDが分からないので一旦navigate経由でリフレッシュするか
-            // もしくはボタン自体を書き換える
-            const btn = document.querySelector(`button[onclick="followUser('${targetUser}')"]`);
-            if (btn) {
-                btn.textContent = State.followedUsers.includes(targetUser) ? 'Followed' : 'Follow';
-                btn.classList.toggle('followed', State.followedUsers.includes(targetUser));
-            }
-        }
+        const btns = document.querySelectorAll(`button[onclick^="followUser('${targetUser}')"]`);
+        btns.forEach(btn => {
+            const isNowFollowing = State.followedUsers.includes(targetUser);
+            btn.textContent = isNowFollowing ? 'Followed' : 'Follow';
+            btn.classList.toggle('followed', isNowFollowing);
+        });
     } catch (e) {
         showToast("Error update follow status");
     }
@@ -909,8 +905,9 @@ async function renderWordNetwork() {
         <div class="network-view fade-in" style="height: calc(100vh - 200px); position:relative;">
             <h3 class="section-label" style="text-align:center; padding-top:2rem;">Etymological Network</h3>
             <div id="network-graph" style="height:100%; width:100%;"></div>
-            <div style="position:absolute; bottom:20px; left:20px; background:var(--color-surface); padding:1rem; border-radius:12px; border:1px solid var(--color-border); font-size:0.8rem; opacity:0.8;">
-                🔵 Word Node | 🟡 Root Node
+            <div style="position:absolute; bottom:20px; left:20px; background:var(--color-surface); padding:1rem; border-radius:12px; border:1px solid var(--color-border); font-size:0.8rem; opacity:0.9; line-height:1.6; z-index:10;">
+                <div style="display:flex; align-items:center; gap:8px;"><span style="width:12px; height:12px; background:#3b82f6; border-radius:50%; display:inline-block;"></span> 🔵 Word</div>
+                <div style="display:flex; align-items:center; gap:8px;"><span style="width:12px; height:12px; background:#f59e0b; border-radius:50%; display:inline-block;"></span> 🟡 Root / Prefix</div>
             </div>
         </div>
     `;
