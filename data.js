@@ -22935,5 +22935,50 @@ const WORDS = [
                 },
                 "source": "Oxford Languages",
                 "date": "2026-02-28"
+        },
+        {
+                "id": "bread",
+                "word": "Bread",
+                "part_of_speech": "noun",
+                "meaning": "パン、基本的な食物",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "brod/brauth-",
+                                        "type": "root",
+                                        "meaning": "食品",
+                                        "lang": "Proto-Germanic"
+                                }
+                        ],
+                        "original_statement": "The word 'bread' originates from Old English 'bread', which refers to a piece or morsel and is derived from the Proto-Germanic 'braudą'."
+                },
+                "core_concept": {
+                        "en": "The gentle giver of life’s simplest sustenance.",
+                        "ja": "命を育む最も基本的な糧"
+                },
+                "thinking_layer": "パン、それは日々の糧として私たちの生活に密接しているものである。日々の生活において、パンはただ身体を養うために消費される物質以上の存在である。パンには、私たちの記憶や文化、伝統が詰まっている。風に乗る小麦の香りは、多くの世代を超えて人々を結びつける。パンを焼く行程、手で捏ねる感触、オーブンの中で膨らむ生地の膨大な可能性を感じることは、我々の存在の根源的な喜びだ。まるで日差しが大地に命を吹き込み、我々を生かすように、パンの存在も私たちに生きる力を与える。しかし、パンが象徴するものはただの食ではない。創造と労働の成果、新たな日の到来を祝う儀式、そして人間同士の繋がりの象徴である。この地球における最も基本的な糧を超えて、パンは人間の共同体と互いの理解を織りなす繊細な糸の一部である。このように、パンの存在は私たちにとって短い瞬間の食事以上のものである。パンの歴史とその背後に潜む意味を紐解くとき、我々は自分たちの歴史をも読み解いているのだ。",
+                "synonyms": [
+                        "Loaf",
+                        "Baguette"
+                ],
+                "antonyms": [
+                        "Fast",
+                        "Abrupt"
+                ],
+                "aftertaste": "Bread is the universal balm for human existence.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "braudą",
+                                        "meaning": "piece of food"
+                                }
+                        ],
+                        "points": [
+                                "パンという言葉には古い英語やゲルマン語の影響が強く見られ、その進化はヨーロッパ内での文化的交流を反映している。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-02-28"
         }
 ];
