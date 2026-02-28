@@ -28012,5 +28012,51 @@ const WORDS = [
                 "source": "Oxford English Dictionary, Online Etymology Dictionary",
                 "date": "2026-03-01",
                 "era": "16th Century"
+        },
+        {
+                "id": "amber",
+                "word": "Amber",
+                "part_of_speech": "noun",
+                "meaning": "化石化した樹脂の一種で、美しい琥珀色を呈する。",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "anbar-",
+                                        "type": "root",
+                                        "meaning": "琥珀",
+                                        "lang": "アラビア語"
+                                }
+                        ],
+                        "original_statement": "The word 'amber' traces back to Middle English 'aumbre', derived from Middle French 'ambre', which in turn came from Arabic 'anbar'. It originally described a fossil resin used in jewelry."
+                },
+                "core_concept": {
+                        "en": "A sunlit remnant of ancient forests, crystallized through time.",
+                        "ja": "時の結晶としての太陽に照らされた古代林の遺物"
+                },
+                "thinking_layer": "琥珀は、時空を超越した自然の沈黙した語り部である。その輝きは、遥かなる過去の木々が何千年もの時をかけて奏でた静謐なる交響曲を秘めている。この光を透かして見ると、時の流れが如何にして形を成すかを悟ることができる。琥珀の内部に封じ込められた昆虫や気泡は、古代の生命を閉じ込め、自然の不変の法則を思い起こさせる。琥珀の色は、暖かな夕陽のごとく、心に安息をもたらす。その透明性は、そこに在るものであるにもかかわらず、あり続けることの儚さを思い出させる。琥珀は天地の松明に似て、生命の短くも輝く時間を捉え、その一瞬一瞬の煌きを尊ぶことの重要性を説く。時空を封じたこれらの小さき粒は、忘却の彼方より甦り、今を生きる我々に自然の壮大さと偉大さを囁いているようである。",
+                "synonyms": [
+                        "Resin",
+                        "Fossil"
+                ],
+                "antonyms": [
+                        "Plastic",
+                        "Artificial"
+                ],
+                "aftertaste": "Amber whispers the secrets of trees in every glowing bead.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "anbar",
+                                        "meaning": "amber"
+                                }
+                        ],
+                        "points": [
+                                "琥珀の語源的発展は、アラビア語から始まり、地中海を経由してヨーロッパに浸透した結果である。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "Middle Ages, Arabic influence"
         }
 ];
