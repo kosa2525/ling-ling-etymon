@@ -28114,5 +28114,51 @@ const WORDS = [
                 "source": "Oxford English Dictionary",
                 "date": "2026-03-01",
                 "era": "18th Century"
+        },
+        {
+                "id": "whisk",
+                "word": "Whisk",
+                "part_of_speech": "noun/verb",
+                "meaning": "泡立てる/泡立て器",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "whisk-",
+                                        "type": "root",
+                                        "meaning": "泡立てるという動作を示す",
+                                        "lang": "Old Norse"
+                                }
+                        ],
+                        "original_statement": "The word 'whisk' originates from the Old Norse word 'viska', meaning 'to pluck or flutter'. It evolved through Middle English as 'wisk' or 'wisc', implying a swift brushing movement."
+                },
+                "core_concept": {
+                        "en": "A delicate dance of airy strokes.",
+                        "ja": "空気の羽ばたきの繊細な舞い"
+                },
+                "thinking_layer": "「泡立てる」という言葉は、古代の言語のささやきの中で漂い、時代を超えて形を変えてきました。それは物理的な動作以上のもの、すなわち物事の本質を一瞬で変える力を持つ行為です。泡やクリームをかき混ぜる時、私たちは時に目に見えないものと対話しています。泡立て器のリズミカルな動きは調和の象徴であり、混沌に秩序をもたらします。自然界における泡は生命のはじまりを象徴し、瞬時に生まれ消えていくものとして、私たちの生と死の儚さを想起させます。この小さな道具が持つ力は、私たち自身の内なる世界の空気をかき混ぜ、新たなる気づきを促すための一つの言葉なのです。泡のように形を変える言葉の背後には、無数の声や時代の影が見え隠れします。泡立て行為は、美を見出すための静かな思索の道具であり、やがて自然の一部に戻ることを知って私たちの心を揺さぶります。",
+                "synonyms": [
+                        "Beat",
+                        "Stir"
+                ],
+                "antonyms": [
+                        "Still",
+                        "Settle"
+                ],
+                "aftertaste": "The essence of transformation lies within a single whisk.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "viska",
+                                        "meaning": "to pluck or flutter"
+                                }
+                        ],
+                        "points": [
+                                "「whisk」という言葉の起源は力強くも軽やかな動きを通じて捉えられるべきものであり、それ自身が物質と意識の変成を象徴している。"
+                        ]
+                },
+                "source": "Oxford English Dictionary, etymonline.com",
+                "date": "2026-03-01",
+                "era": "Middle English"
         }
 ];
