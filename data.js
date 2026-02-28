@@ -25746,5 +25746,57 @@ const WORDS = [
                 "source": "Oxford English Dictionary",
                 "date": "2026-02-28",
                 "era": "16th Century"
+        },
+        {
+                "id": "sabotage",
+                "word": "Sabotage",
+                "part_of_speech": "noun/verb",
+                "meaning": "破壊や妨害行為",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "sabot",
+                                        "type": "root",
+                                        "meaning": "木靴",
+                                        "lang": "フランス語"
+                                },
+                                {
+                                        "text": "-age",
+                                        "type": "suffix",
+                                        "meaning": "行為",
+                                        "lang": "フランス語"
+                                }
+                        ],
+                        "original_statement": "The term 'sabotage' originates from the French word 'sabot', meaning wooden shoe, which was used metaphorically to describe damage or disruption caused by workers throwing their clogs into machinery."
+                },
+                "core_concept": {
+                        "en": "The dance of chaos upon the instruments of order.",
+                        "ja": "秩序の器具の上での混沌の舞踏"
+                },
+                "thinking_layer": "サボタージュという言葉は、表面上は破壊的な行為を指しているが、その根底には深い人間の意志と選択の重層が存在する。私たちが何かを破壊する行為に踏み切るとき、それは単なる破壊衝動ではなく、むしろ既存の状況への挑戦、あるいは変革の喊声であることが多い。事物の壊れた破片の中に、新しい可能性の種が宿っている。それゆえにサボタージュは、必ずしも無秩序の象徴ではなく、既存の枠組みを超えた自由への希求でもある。木靴を機械に投じる農夫の映像は、現代においても、技術的進歩がもたらす均一化された世界に対する抵抗の兆しを表しているのではないか。問題はその行為自体の是非ではなく、その背後に秘められた人間の深層心理と、社会との相互作用である。サボタージュの内には、破壊と再生のダイナミズムが折り重なり、その力学は現代の哲学的問いを投げかける輝かしい織物である。",
+                "synonyms": [
+                        "Subversion",
+                        "Vandalism"
+                ],
+                "antonyms": [
+                        "Protection",
+                        "Construction"
+                ],
+                "aftertaste": "In the rubble of disruption lies the blueprint of innovation.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "sabot",
+                                        "meaning": "wooden shoe used metaphorically for disruption"
+                                }
+                        ],
+                        "points": [
+                                "フランス語の『sabot』は、労働者たちが機械に木靴を投げ入れて行った破壊工作を指す暗喩であり、その行為は単なる破壊ではなく、労働環境の改善を求める象徴的な支持としての歴史を持つ。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-02-28",
+                "era": "Late 19th Century, French origin"
         }
 ];
