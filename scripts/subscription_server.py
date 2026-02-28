@@ -614,13 +614,18 @@ def get_user_essays():
     try:
         with conn:
             with conn.cursor() as cur:
-                if DATABASE_URL:
-                    cur.execute("SELECT id, title, content, author, date FROM user_essays WHERE is_deleted = FALSE")
-                else:
-                    cur.execute("SELECT id, title, content, author, date FROM user_essays WHERE is_deleted = 0")
-                rows = cur.fetchall()
-                for r in rows:
-                    result.append({"id": f"essay_user_{r[0]}", "title": r[1], "content": r[2], "author": r[3], "date": r[4]})
+                try:
+                    if DATABASE_URL:
+                        cur.execute("SELECT id, title, content, author, date FROM user_essays WHERE is_deleted = FALSE")
+                    else:
+                        cur.execute("SELECT id, title, content, author, date FROM user_essays WHERE is_deleted = 0")
+                    rows = cur.fetchall()
+                    for r in rows:
+                        result.append({"id": f"essay_user_{r[0]}", "title": r[1], "content": r[2], "author": r[3], "date": r[4]})
+                except Exception as e:
+                    print(f"Database error in get_user_essays: {e}")
+    except Exception as e:
+        print(f"Connection error in get_user_essays: {e}")
     finally:
         conn.close()
     return jsonify(result)

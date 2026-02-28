@@ -540,7 +540,13 @@ function updateArchiveGrid() {
 
 async function renderEssays() {
     const officialEssays = (typeof ESSAYS !== 'undefined') ? [...ESSAYS] : [];
-    const userEssays = await apiGet('/api/user-essays');
+    let userEssays = [];
+    try {
+        userEssays = await apiGet('/api/user-essays');
+        if (!Array.isArray(userEssays)) userEssays = [];
+    } catch (e) {
+        console.error("Failed to fetch user essays:", e);
+    }
     const allEssays = [...officialEssays, ...userEssays];
     allEssays.sort((a, b) => b.date.localeCompare(a.date));
     window.ESSAY_CACHE = allEssays; // キャッシュに保存
