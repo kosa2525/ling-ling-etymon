@@ -26676,5 +26676,51 @@ const WORDS = [
                 "source": "Oxford English Dictionary",
                 "date": "2026-03-01",
                 "era": "Old English origin"
+        },
+        {
+                "id": "yank",
+                "word": "Yank",
+                "part_of_speech": "noun/verb",
+                "meaning": "引っ張る、ぐいっと引く",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "unknown",
+                                        "type": "root",
+                                        "meaning": "引く",
+                                        "lang": "Old English"
+                                }
+                        ],
+                        "original_statement": "The exact origin of 'yank' is unknown, though it appears in English in the 1800s with connections to the idea of pulling or tugging forcefully."
+                },
+                "core_concept": {
+                        "en": "A sudden, forceful pull that jolts the soul.",
+                        "ja": "魂を揺さぶる急激な力強い引き"
+                },
+                "thinking_layer": "『ヤンク』という言葉は、その力強い音の響きにより、我々に潜在的な感覚を喚起させる。物理的な引っ張りか、あるいは精神的な引き寄せか、その意味は多層的である。私たちの人生そのものが不可思議な力によって突然動かされる瞬間を想起させるように、『ヤンク』は運命が我々を望む方向に引き寄せる力を象徴するかのようである。それは意図される力、または不意に襲いかかる力であれ、ひとたび引かれることによって、その瞬間人は変容を味わう。また、この言葉は切なさや懐古をも感じさせる。そう、この語が持つ力は、時には人生の劇的な転換点を思い起こさせ、意識下に刻まれている記憶を呼び覚ますのだ。人生の旅路における一瞬の衝撃、その衝撃は人々に成長を促し、また新たな地平を探求する動機となる。この言葉が示す哲学的概念はまるで内面の旅、思想の奔流の端を掴むことを迫るようだ。",
+                "synonyms": [
+                        "Tug",
+                        "Pull"
+                ],
+                "antonyms": [
+                        "Push",
+                        "Release"
+                ],
+                "aftertaste": "The unexpected can pull at the core of our being.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "Old English",
+                                        "meaning": "To pull"
+                                }
+                        ],
+                        "points": [
+                                "古英語における 'geinnan'（引く）からの派生であるという説が存在..."
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "19th Century"
         }
 ];
