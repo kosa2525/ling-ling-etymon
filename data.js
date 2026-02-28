@@ -24165,5 +24165,50 @@ const WORDS = [
                 },
                 "source": "Oxford English Dictionary",
                 "date": "2026-02-28"
+        },
+        {
+                "id": "bully",
+                "word": "Bully",
+                "part_of_speech": "noun/verb",
+                "meaning": "いじめる人、いじめる",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "boele",
+                                        "type": "root",
+                                        "meaning": "恋人、友人",
+                                        "lang": "Dutch"
+                                }
+                        ],
+                        "original_statement": "The term 'bully' first appeared in the 16th century and originally meant 'sweetheart' before evolving into its modern negative connotation."
+                },
+                "core_concept": {
+                        "en": "In its essence, a distortion of affection into domination.",
+                        "ja": "愛情のゆがみとしての支配の本質。"
+                },
+                "thinking_layer": "「いじめ」という言葉の背後には、人間の心の闇が潜んでいる。時に人は、その内なる闇を周囲へと投影し、他者を支配し、傷つける行動を取る。これは自己の脆弱さや恐怖を隠すための仮面であり、心の中の苦しみをわかち合えず孤独に耐える手段とも言えるだろう。いじめはその本性を歪め、愛と友情が何かの表面的な絆となり、支配の欲望に飲み込まれてしまった例である。本来の「bully」の起源である「boele」が示すように、かつては愛する人や親しい友人を意味する言葉であったが、人間の本性が時に暴力的であることを暴露する一例として、語の意味が変化していった。それは、愛情や友情が内包する複雑な感情のもつれを解く鍵でもある。もしかすると、支配と強圧の背後には、理解と共感を求めるもう一つの魂の声があるのかもしれない。いじめる者もまた、心の安らぎと自我の確認を探し続ける旅の途中にいるのだということに気づくとき、いじめは一つの解脱の道へと変わるかもしれない。人間の内在する深淵を理解するための反省的考察が、最終的には和解と共鳴の道へと導くのだろう。",
+                "synonyms": [
+                        "tormentor",
+                        "aggressor"
+                ],
+                "antonyms": [
+                        "protector",
+                        "defender"
+                ],
+                "aftertaste": "In the murky corridors of history, even affection can become twisted into domination.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "boele",
+                                        "meaning": "lover, friend"
+                                }
+                        ],
+                        "points": [
+                                "いじめの語源は、人間の心の複雑な感情の交錯を理解するための鍵であり、本来の愛情や友情がゆがんで支配へと変わっていく過程を示す。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-02-28"
         }
 ];
