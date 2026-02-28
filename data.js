@@ -24255,5 +24255,50 @@ const WORDS = [
                 },
                 "source": "Oxford English Dictionary",
                 "date": "2026-02-28"
+        },
+        {
+                "id": "calculate",
+                "word": "Calculate",
+                "part_of_speech": "verb",
+                "meaning": "計算する",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "calculus",
+                                        "type": "root",
+                                        "meaning": "小石",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The term 'calculate' originates from the Latin word 'calculus,' which means 'small stone.' In ancient times, stones were used for counting and calculations."
+                },
+                "core_concept": {
+                        "en": "A poetic dance of numbers, revealing the hidden truths within.",
+                        "ja": "数字の詩的な舞、内なる真実を明らかにする。"
+                },
+                "thinking_layer": "計算とは、数の間に存在する無限の可能性を紡ぎ出す行為であり、まるで宇宙の密やかな調和をひとつひとつ解き明かすようなものです。数式を組み立てるたびに、人は無限の複雑さと驚異に接し、またそれによって悟りを開くこともあります。古代より、小石を使って行われたこの行為は、あたかも自然界の秩序を手中に収めるような試みであり、計算を通じて我々は世界の秘密を理解しようとします。数の美しさに奏でられる音色は、知性と直感が交わる静寂の瞬間をもたらし、計算は単に数を扱うのではなく、そこに秘められた深い哲学を浮き彫りにしていきます。まさに計算は小石の響き、大宇宙を解体する音色です。",
+                "synonyms": [
+                        "Compute",
+                        "Enumerate"
+                ],
+                "antonyms": [
+                        "Estimate",
+                        "Guess"
+                ],
+                "aftertaste": "Calculating is a dance of logic that unveils the universe's silent harmony.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "calculus",
+                                        "meaning": "small stone"
+                                }
+                        ],
+                        "points": [
+                                "計算は古代より小石を使って行われ、自然秩序の把握を試みた。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-02-28"
         }
 ];
