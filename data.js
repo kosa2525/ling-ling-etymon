@@ -27374,5 +27374,51 @@ const WORDS = [
                 "source": "Oxford English Dictionary",
                 "date": "2026-03-01",
                 "era": "Old English"
+        },
+        {
+                "id": "golf",
+                "word": "Golf",
+                "part_of_speech": "noun",
+                "meaning": "ゲームの一種で、ボールを穴に入れることを競う。",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "kolf",
+                                        "type": "root",
+                                        "meaning": "クラブ",
+                                        "lang": "Dutch"
+                                }
+                        ],
+                        "original_statement": "The word 'golf' is derived from the Dutch word 'kolf' or 'kolve', meaning club."
+                },
+                "core_concept": {
+                        "en": "A timeless pursuit where man meets nature, precision, and serenity.",
+                        "ja": "人と自然、正確さと静けさが出会う永遠の追求。"
+                },
+                "thinking_layer": "ゴルフという言葉には風のささやき、草木のさざなみに耳を澄まし、心を一つにするという深い概念が息づいています。自然と調和し、その静寂の中で心を研ぎ澄ますことが要求されるこのスポーツは、単なる競技を超えた存在です。球を打ち、グリーンを目指すその一瞬一瞬には、人間の内面と外部世界との対話が秘められています。ゴルフは自己を映し出す鏡であり、心の鍛錬を重ねる道程でもあります。一打ごとに深まるのは技術だけでなく、己の内なる静寂への理解でもあるのです。広がるフィールドの中、時間は止まり、プレーヤーは自己との対話を進めます。この神秘的な行為を通じて、人は自然との永遠の調和を求め続けるのです。",
+                "synonyms": [
+                        "Links",
+                        "Course"
+                ],
+                "antonyms": [
+                        "Indoors",
+                        "Housebound"
+                ],
+                "aftertaste": "Golf is where the soul finds its horizon.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "kolf",
+                                        "meaning": "club"
+                                }
+                        ],
+                        "points": [
+                                "ゴルフの語源は、オランダ語の「kolf」、クラブを意味する単語から派生しています。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "15th Century"
         }
 ];
