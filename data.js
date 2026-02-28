@@ -26584,5 +26584,51 @@ const WORDS = [
                 "source": "Oxford English Dictionary, Merriam-Webster",
                 "date": "2026-03-01",
                 "era": "Late 19th Century"
+        },
+        {
+                "id": "echo",
+                "word": "Echo",
+                "part_of_speech": "noun",
+                "meaning": "反響、こだま",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "ekho-",
+                                        "type": "root",
+                                        "meaning": "音の反響",
+                                        "lang": "Ancient Greek"
+                                }
+                        ],
+                        "original_statement": "From Greek Ἠχώ (Ekhō), a nymph who was deprived of speech and could only repeat the words of others."
+                },
+                "core_concept": {
+                        "en": "The haunting reverberation of sound or memory.",
+                        "ja": "音や記憶の幽玄な響き"
+                },
+                "thinking_layer": "響きという現象は、単なる物理現象にとどまらず、宇宙全体の美しい交響曲の一部として考えることができる。音が何度も反響する様子は、時に人生の中の感情や記憶の断片が心に繰り返される様相に似ている。エコーは単なる声の後追いではなく、存在の多層構造を示す繊細な表現である。我々が発する音は、意図せずとも周囲に影響を与え、時に予期せぬ形で戻って来ることがある。エコーが語りかけるのは、因果的つながりや人間の連環を超えて、宇宙の調和を感じ取る力である。声の道筋が描く見えない暗示は、時間と空間を超えて共鳴し続ける。どこから始まり、どこへ向かうのか—エコーの旅は、その音の源にとどまらない。反響する音のうねりに耳を澄ますとき、我々は己の存在とその儚い影を垣間見るのである。",
+                "synonyms": [
+                        "Reverberation",
+                        "Resonance"
+                ],
+                "antonyms": [
+                        "Silence",
+                        "Stillness"
+                ],
+                "aftertaste": "Echoes remind us of the infinite journey of sound through time.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "ekho",
+                                        "meaning": "sound, noise"
+                                }
+                        ],
+                        "points": [
+                                "古代ギリシャではエコーは神話の一部として描かれることが多かった。特に山や谷を旅する際の共鳴や反響は神秘的なものと捉えられ、自然そのものへの畏敬が深く込められていた。"
+                        ]
+                },
+                "source": "Etymology Online",
+                "date": "2026-03-01",
+                "era": "Ancient Greek"
         }
 ];
