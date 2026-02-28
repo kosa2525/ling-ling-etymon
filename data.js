@@ -27272,5 +27272,51 @@ const WORDS = [
                 "source": "Oxford Dictionary of English Etymology",
                 "date": "2026-03-01",
                 "era": "Middle English, Old Norse origin"
+        },
+        {
+                "id": "charm",
+                "word": "Charm",
+                "part_of_speech": "noun/verb",
+                "meaning": "魅力や魔法を示す言葉",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "carmen",
+                                        "type": "root",
+                                        "meaning": "歌、詩",
+                                        "lang": "ラテン語"
+                                }
+                        ],
+                        "original_statement": "The word 'charm' originates from the Latin 'carmen', meaning song or incantation."
+                },
+                "core_concept": {
+                        "en": "The allure of unseen forces intertwined with beauty.",
+                        "ja": "美しさに絡み合う見えない力の魅力"
+                },
+                "thinking_layer": "魅力という言葉は、目には見えない力がどのように私たちの心を捉え、心の深みから現実に影響を及ぼすかを表現している。それは魔法のように私たちの目に見えない領域からの力であり、そして日常の普通さを超えて人々を惹きつける。この力は、ただ単に美しさや見た目だけではなく、心の奥深くに訴えかける力である。魅力を持つとは、現実を超える力を持ち、他者を引き寄せ、時に自分自身をも忘れさせる力を持つことである。魅力とは、単なる外見を超えた神秘的で詩的な力の体現であり、それはしばしば言語を超越し、心に直接訴えかける存在として無限の可能性を秘めている。私たちの文明がどれほど進化しても、この目に見えない力は常に人間の心の中に息づいており、変わらぬ魅力を放ち続ける。現代社会においても、魅力ある存在は、無意識のうちに他者を惹きつけ、その人々の人生に色彩を添える。それは、眼に見えない、形の無い力の結晶である。魅力という言葉の奥には、無数の可能性と未知の力が潜んでおり、それが私たちの生活にどれだけの影響を与えているかを思い知らされるのである。",
+                "synonyms": [
+                        "allure",
+                        "enchantment"
+                ],
+                "antonyms": [
+                        "repulsion",
+                        "boredom"
+                ],
+                "aftertaste": "Charm is the silent melody that dances between the soul and the unseen.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "carmen",
+                                        "meaning": "song or incantation"
+                                }
+                        ],
+                        "points": [
+                                "魅力という言葉は、古代の詠唱や歌にその起源を持ち、時間とともに魔法や伝え難い美しさの意味を持つようになった。魅力とは、宇宙と人間の間を流れる目に見えぬ調和の象徴である。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "14th Century"
         }
 ];
