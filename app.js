@@ -54,6 +54,18 @@ function applySettings() {
     document.body.className = `theme-${State.theme}`;
     Object.keys(navItems).forEach(k => { if (navItems[k]) navItems[k].classList.remove('active'); });
     if (navItems[State.currentView]) navItems[State.currentView].classList.add('active');
+
+    // Ads logic
+    const adBanner = document.getElementById('ad-banner');
+    if (adBanner) {
+        if (State.isPremium) {
+            adBanner.style.display = 'none';
+            document.getElementById('main-content').style.paddingBottom = '2rem';
+        } else {
+            adBanner.style.display = 'flex';
+            document.getElementById('main-content').style.paddingBottom = '100px';
+        }
+    }
 }
 
 // --- View Controllers ---
