@@ -21162,5 +21162,48 @@ const WORDS = [
                 },
                 "source": "Online Etymology Dictionary",
                 "date": "2026-02-28"
+        },
+        {
+                "id": "shampoo",
+                "word": "Shampoo",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "Hindi-चाँपो (chāmpo)",
+                                        "type": "root",
+                                        "meaning": "to press or knead the muscles",
+                                        "lang": "Hindi"
+                                }
+                        ],
+                        "original_statement": "The term 'shampoo' originates from the Hindi word 'चाँपो' (chāmpo), which means to press or knead the muscles, a practice dating back to head massages in India."
+                },
+                "core_concept": {
+                        "en": "A nurturing ritual, both invigorating and serene.",
+                        "ja": "活力を与え、しかも静寂な儀式。"
+                },
+                "thinking_layer": "シャンプーという言葉は、我々の身体と魂のための清めの儀式として、根源的な起源を持つ。それは洗髪の単一的な行為を超え、幸福と健康の復活を表している。パターン化された日常の中心で、我々はストレスと汚れの重荷から解放される。インドの伝統的な儀式に由来し、この習慣はマッサージの感触と香りを伴い、身体と心を打浸させる。頭皮を優しく押し揉む動作、それは宇宙のリズムに同調する瞬間である。流れ落ちる泡は、過去の苦しみを洗い流し、新しい始まりを予感させる。洗い流されるとき、その水の滴が過去の苦悩を奪い去る。心の奥深くに眠る古代の知恵は、シャンプーを文化と時間を超えた普遍的なものにしている。各泡立ちには、我々が理解する以上に、物語と歴史が刻まれている。それは、目に見えぬ穢れの破片を払拭し、新たな美を授ける。シャンプーとは単なる清潔活動ではなく、自己と他者への愛を伝える手段である。これを用いることで、新たな希望と再生がもたらされる。シャンプーの儀式は最も深い存在の秘密を解き放ち、脈打つ生命の意味を再認識させるものである。",
+                "synonyms": [
+                        "Cleanser",
+                        "Wash"
+                ],
+                "antonyms": [
+                        "Dirtiness",
+                        "Grime"
+                ],
+                "aftertaste": "Beyond cleansing, shampoo is a ritual of the soul.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "chāmpo",
+                                        "meaning": "to press or knead"
+                                }
+                        ],
+                        "points": [
+                                "シャンプーの語源的背景には、身体と精神の再生を促す深い文化的意味合いがある。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-02-28"
         }
 ];
