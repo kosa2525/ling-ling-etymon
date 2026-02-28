@@ -25798,5 +25798,109 @@ const WORDS = [
                 "source": "Online Etymology Dictionary",
                 "date": "2026-02-28",
                 "era": "Late 19th Century, French origin"
+        },
+        {
+                "id": "alarm",
+                "word": "Alarm",
+                "part_of_speech": "noun/verb",
+                "meaning": "警報、驚かせること",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "a l'arme",
+                                        "type": "phrase",
+                                        "meaning": "武器を取れ",
+                                        "lang": "フランス語"
+                                },
+                                {
+                                        "text": "all'arme",
+                                        "type": "phrase",
+                                        "meaning": "武器を取れ",
+                                        "lang": "イタリア語"
+                                }
+                        ],
+                        "original_statement": "The word 'alarm' originated from Old French 'al'arme' meaning 'to arms', which is a call to take up weapons. This itself was a borrowing from the Italian 'all'arme'."
+                },
+                "core_concept": {
+                        "en": "A sudden call to awaken both the mind and the body into action.",
+                        "ja": "心と体を行動へと促す急なる呼びかけ。"
+                },
+                "thinking_layer": "『警報』とは、時を超えた人間の潜在的な不安を具現化したものである。人生は本質的に静寂の中に潜む危険性を持つ旅であり、その中で我々はしばしば目覚めの必要性を感じる。警報の音や振動は、意識の深い部分を揺り動かし、我々の内なる平和を破る。しかし、それはまた、日常生活の中で忘れられがちなコントラストを我々の感覚に呼び戻す役割も果たす。警報は、単なる恐怖を伴うノイズであるだけでなく、無関心や停滞に対する抗議の表現であり、生命力を取り戻すための呼びかけといえる。だからこそ、警報は困難を予告しつつも新たなる始まりの合図でもある。その響きは心の深層に触れ、我々を新しい可能性と未知なる道筋へと導くのだ。静寂の持つ神秘と、変革の瞬間が織りなすこのメロディは、哲学的想像をかき立て、我々を本当の意味での覚醒へと誘う。警報は現代社会において単なるツールに留まらず、自己の深層を理解するための精神的な契機でもある。",
+                "synonyms": [
+                        "warning",
+                        "alert"
+                ],
+                "antonyms": [
+                        "calm",
+                        "reassurance"
+                ],
+                "aftertaste": "In the jarring call of alarm, there lies the delicate dance between risk and awakening.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "arma",
+                                        "meaning": "weapon"
+                                }
+                        ],
+                        "points": [
+                                "『alarm』という言葉は、常に潜在する危険性を具現化した人類の長きに渡る象徴である。"
+                        ]
+                },
+                "source": "Oxford English Dictionary, Etymology Online",
+                "date": "2026-02-28",
+                "era": "13th Century"
+        },
+        {
+                "id": "fascinate",
+                "word": "Fascinate",
+                "part_of_speech": "verb",
+                "meaning": "魅了する、心を捉える",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "fascin-",
+                                        "type": "root",
+                                        "meaning": "魅了する",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "-ate",
+                                        "type": "suffix",
+                                        "meaning": "〜にする",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "Derived from the Latin 'fascinatus', past participle of 'fascinare', from 'fascinum' meaning enchantment or witchcraft."
+                },
+                "core_concept": {
+                        "en": "To envelop in enchantment, capturing the soul's curiosity.",
+                        "ja": "魂の好奇心を捉える、魅力に包まれること"
+                },
+                "thinking_layer": "『魅了する』という言葉は、単なる言語的記号ではなく、人間の内面に潜む力であり、魂を引き寄せる神秘的な力を象徴しています。その語源に潜む“fascinum”は、本来魅力ある魔法や呪縛を意味し、これは言葉の領域を超えて人間の心を捉える力、その引力、そして宿命のようなものを暗示しています。それは、美しい旋律に心が奪われる瞬間や、魅力的な物語に没頭する至福のひとときだけではなく、人が何かに強く心惹かれ、目を離せなくなる理由そのものであると言えます。この言葉の成り立ちを辿ることで、人が何かに魅せられる瞬間というのは、単に外面的な現象ではなく、その背後には深淵なる心の渇望と、本質的に求める何かが潜んでいることに気付かされます。それは時に、日常を飛び越え、無限の可能性を人の心に描かせる、未知への誘いであり、一種の神秘的な逃避でさえあるのです。",
+                "synonyms": [
+                        "Enchant",
+                        "Captivate"
+                ],
+                "antonyms": [
+                        "Repel",
+                        "Disenchant"
+                ],
+                "aftertaste": "The spell of wonder leaves the heart both restless and content.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "fascinum",
+                                        "meaning": "an enchantment, witchcraft"
+                                }
+                        ],
+                        "points": [
+                                "ラテン語の'Fascinus'はしばしば護符として用いられ、その力は悪運を避けるものとされた。言葉の力は単なる言語ディスプレイだけでなく、心理的あるいは霊的な次元にも及ぶものである。"
+                        ]
+                },
+                "source": "Etymonline.com, Oxford English Dictionary",
+                "date": "2026-02-28",
+                "era": "Latin, Ancient Rome"
         }
 ];
