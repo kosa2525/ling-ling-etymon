@@ -26768,5 +26768,61 @@ const WORDS = [
                 "source": "Online Etymology Dictionary",
                 "date": "2026-03-01",
                 "era": "14th Century"
+        },
+        {
+                "id": "jury-rig",
+                "word": "Jury-rig",
+                "part_of_speech": "verb",
+                "meaning": "手早く急ごしらえをすること",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "jury-",
+                                        "type": "prefix",
+                                        "meaning": "即興の、臨時の",
+                                        "lang": "Middle English"
+                                },
+                                {
+                                        "text": "rig",
+                                        "type": "root",
+                                        "meaning": "装備する、装置を取り付ける",
+                                        "lang": "Old Norse"
+                                }
+                        ],
+                        "original_statement": "The term 'jury-rig' emerged from nautical terms around the 17th century, where 'jury' was used to imply something makeshift or temporary."
+                },
+                "core_concept": {
+                        "en": "A swift orchestration of essentiality in moments of exigence.",
+                        "ja": "緊急時における必要性の迅速な調整"
+                },
+                "thinking_layer": "人生とは海に浮かぶ大きな船のようなものである。航海中、予期せぬ荒波や突然の嵐、無情な風に遭遇することもある。そのとき私たちは、持ち合わせた材料と道具を用い、創意工夫で船を修繕しなければならない。これは一種の応急策、仮の解決策だが、それが今を生き抜くための知恵となるのである。空の青さや海の深さ、広大な自然の中で、人間は小さな存在でありながら、限られたリソースで驚くべき可能性を創出し続けている。こうして我々は、即興でありながらも助け合い、ひとときの安寧を共有する。この「応急の論理」は、ただの技術ではなく、人間の感性と知恵と本質に根ざした哲学である。時の流れに抗うことなく、その一瞬を大切にし、そこから生まれたものを享受しようとする心に通じる。船を修繕する手は、同時に自らの精神もまた補修しているのである。",
+                "synonyms": [
+                        "improvise",
+                        "makeshift"
+                ],
+                "antonyms": [
+                        "permanent",
+                        "fixed"
+                ],
+                "aftertaste": "In moments of constraint, creativity sails.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "jury",
+                                        "meaning": "temporary or makeshift"
+                                },
+                                {
+                                        "term": "rig",
+                                        "meaning": "to equip or outfit"
+                                }
+                        ],
+                        "points": [
+                                "「ジュリー」という用語は、中英語で臨時性を示すものであり、大海原を進む船の一時的な修繕に由来する。パーツの組み合わせがいかにその時点での最適解なのか、語源的にも深い考察が求められる。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "17th Century"
         }
 ];
