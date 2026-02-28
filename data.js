@@ -27518,5 +27518,63 @@ const WORDS = [
                 "source": "Online Etymology Dictionary",
                 "date": "2026-03-01",
                 "era": "15th Century Middle English"
+        },
+        {
+                "id": "adept",
+                "word": "Adept",
+                "part_of_speech": "adjective",
+                "meaning": "熟練した、巧みな",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "adeptus",
+                                        "type": "root",
+                                        "meaning": "獲得した",
+                                        "lang": "ラテン語"
+                                },
+                                {
+                                        "text": "ad-",
+                                        "type": "prefix",
+                                        "meaning": "へ",
+                                        "lang": "ラテン語"
+                                },
+                                {
+                                        "text": "apisci",
+                                        "type": "root",
+                                        "meaning": "到達、獲得",
+                                        "lang": "ラテン語"
+                                }
+                        ],
+                        "original_statement": "The word 'adept' derives from the Latin 'adeptus', the past participle of 'adipisci', an amalgamation of 'ad-' meaning 'to' and 'apisci' meaning 'acquire or reach'."
+                },
+                "core_concept": {
+                        "en": "A profound mastery graced with the simplicity of elegance.",
+                        "ja": "優美さを兼ね備えた深遠なる熟練"
+                },
+                "thinking_layer": "「熟練」とは、単に技術や知識を持つことを超えた境地である。それは、職人や芸術家、哲学者が時間と魂をかけて磨き上げたひたむきな努力の結晶であり、その中には彼らの人生そのものが刻まれている。すべての小さな動作や思考さえも計り知れぬほど習熟したものであり、自然のめぐりや因果を意のままに操るかのような不思議な力を持つ。その究極の到達は、自己の内面的な成長とも影響し合いながら、物事の本質を透徹した眼で見極める洞察力をもたらす。『熟練』という言葉は、技術的な完成のみならず、それを超越した境地の先に見出される奥深さや優雅さを内包している。それは、日々の努力と不屈の精神が導く、ある種の美しさでもある。無数の挑戦と試練を経て、成熟した心は孤高の強さを獲得し、時に穏やかに、時に激しく世界を変えていく。まさに、真の熟練は、心と技の絶妙なハーモニーで奏でられる至高の芸術である。",
+                "synonyms": [
+                        "Expert",
+                        "Skilled"
+                ],
+                "antonyms": [
+                        "Incompetent",
+                        "Unskilled"
+                ],
+                "aftertaste": "True mastery is an art that transcends knowledge.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "adeptus",
+                                        "meaning": "acquired, achieved"
+                                }
+                        ],
+                        "points": [
+                                "ラテン語の「adeptus」は、意識的な到達と獲得の過程を表し、心身の修養を示唆する。"
+                        ]
+                },
+                "source": "Etymology Online, Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Late Middle English"
         }
 ];
