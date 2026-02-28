@@ -90,9 +90,17 @@ async function renderToday() {
                         `).join(' + ')}
                     </div>
                 </div>
-                <button class="save-btn ${State.savedWordIds.includes(word.id) ? 'active' : ''}" data-id="${word.id}" style="position:absolute; top:0; right:0; background:none; border:none; font-size:1.5rem; cursor:pointer;">
-                    ${State.savedWordIds.includes(word.id) ? '🔖' : '📑'}
-                </button>
+                <div class="word-options-container" style="position:absolute; top:0; right:0;">
+                    <button id="word-options-trigger" style="background:none; border:none; font-size:1.8rem; cursor:pointer; color:var(--color-text-dim); padding:0.5rem;">⋯</button>
+                    <div id="word-options-menu" style="display:none; position:absolute; top:40px; right:0; background:var(--color-surface); border:1px solid var(--color-border); border-radius:12px; box-shadow:0 10px 30px rgba(0,0,0,0.3); z-index:100; min-width:160px; overflow:hidden;">
+                        <button onclick="toggleSaveWord('${word.id}')" style="width:100%; padding:1rem; background:none; border:none; color:white; text-align:left; cursor:pointer; font-size:0.9rem; border-bottom:1px solid var(--color-border);">
+                            ${State.savedWordIds.includes(word.id) ? '🔖 Unsave' : '📑 Save Word'}
+                        </button>
+                        <button onclick="hideItem('word', '${word.id}')" style="width:100%; padding:1rem; background:none; border:none; color:white; text-align:left; cursor:pointer; font-size:0.9rem;">
+                            👁️‍🗨️ Hide this Word
+                        </button>
+                    </div>
+                </div>
             </header>
 
             <section class="section"><span class="section-label">Essence</span><p class="concept-text" style="font-size: 1.25rem;">${word.core_concept.ja}</p></section>
@@ -112,9 +120,17 @@ async function renderToday() {
             <section class="section aftertaste-section" style="border-left: 2px solid var(--color-accent); padding-left: 1.5rem;"><span class="section-label">Resonance</span><p class="aftertaste-text" style="font-family: 'Times New Roman', serif; font-style: italic; font-size: 1.3rem;">${word.aftertaste}</p></section>
 
             <footer style="margin-top: 3rem; padding-top: 1.5rem; border-top: 1px solid var(--color-border); display:flex; flex-direction:column; gap:0.5rem; opacity:0.5; font-size:0.8rem;">
+                <div style="display:flex; justify-content:space-between; align-items:center;">
+                    <div>by <b>${word.author || 'etymon_official'}</b></div>
+                    <div style="display:flex; gap:10px;">
+                        ${word.author && word.author !== State.currentUser ? `
+                            <button onclick="followUser('${word.author}')" class="chip" style="font-size:0.7rem; border:1px solid var(--color-accent); background:none; color:var(--color-accent);">Follow</button>
+                            <button onclick="blockUser('${word.author}')" class="chip" style="font-size:0.7rem; border:1px solid #721c24; background:none; color:#f8d7da;">Block</button>
+                        ` : ''}
+                    </div>
+                </div>
                 <div style="display:flex; justify-content:space-between;">
                     <div>Source: ${word.source || '--'}</div>
-                    <div>by <b>${word.author || 'etymon_official'}</b></div>
                 </div>
                 <div style="font-style:italic; font-size:0.7rem; color:var(--color-text-dim);">
                     ※ 本コンテンツは、一部AIによって生成された、またはAIの補助を受けて作成された可能性があります。
@@ -129,6 +145,21 @@ async function renderToday() {
 
     if (State.isPremium) loadReflections(word.id);
     document.querySelectorAll('.morpheme-link').forEach(l => l.onclick = () => { if (!State.isPremium) return navigate('premium'); State.searchFilter = l.dataset.term; navigate('archive'); });
+
+    const trigger = document.getElementById('word-options-trigger');
+    const menu = document.getElementById('word-options-menu');
+    if (trigger && menu) {
+        trigger.onclick = (e) => { e.stopPropagation(); menu.style.display = menu.style.display === 'block' ? 'none' : 'block'; };
+        document.addEventListener('click', () => { menu.style.display = 'none'; }, { once: true });
+    }
+}
+
+function toggleSaveWord(id) {
+    const idx = State.savedWordIds.indexOf(id);
+    if (idx > -1) State.savedWordIds.splice(idx, 1);
+    else State.savedWordIds.push(id);
+    localStorage.setItem('savedWords', JSON.stringify(State.savedWordIds));
+    renderToday();
 }
 
 function renderReflectionSection(targetId) {
@@ -204,6 +235,30 @@ async function loadReflections(targetId) {
     });
 }
 
+async function followUser(targetUser) {
+    if (!State.currentUser) return navigate('premium');
+    await apiPost('/api/follow', { follower: State.currentUser, followed: targetUser });
+    showToast(`Followed ${targetUser}`);
+}
+
+async function unfollowUser(targetUser) {
+    await apiPost('/api/unfollow', { follower: State.currentUser, followed: targetUser });
+    showToast(`Unfollowed ${targetUser}`);
+    renderConnections();
+}
+
+async function unblockUser(targetUser) {
+    await apiPost('/api/unblock', { blocker: State.currentUser, blocked: targetUser });
+    showToast(`Unblocked ${targetUser}`);
+    renderConnections();
+}
+
+async function unhideItem(type, id) {
+    await apiPost('/api/unhide', { username: State.currentUser, target_type: type, target_id: id });
+    showToast('解除しました');
+    renderConnections();
+}
+
 // --- UGC Actions ---
 async function reportItem(type, id, targetUser) {
     const reason = prompt('通報理由を入力してください（不適切な投稿、誹謗中傷など）:');
@@ -223,8 +278,13 @@ async function blockUser(targetUser) {
 async function hideItem(type, id) {
     if (!State.currentUser) { showToast('非表示機能にはログインが必要です'); return; }
     await apiPost('/api/hide', { username: State.currentUser, target_type: type, target_id: id });
-    showToast('この投稿を非表示にしました。');
-    location.reload();
+    if (type === 'word') {
+        const hidden = JSON.parse(localStorage.getItem('hiddenWords') || '[]');
+        hidden.push(id);
+        localStorage.setItem('hiddenWords', JSON.stringify(hidden));
+        navigate('archive');
+    }
+    showToast('この項目を非表示にしました。');
 }
 
 async function adminDeleteContent(type, id) {
@@ -234,9 +294,59 @@ async function adminDeleteContent(type, id) {
     location.reload();
 }
 
+async function renderConnections() {
+    if (!State.currentUser) return navigate('premium');
+    const blocked = await apiGet(`/api/blocked-users?username=${State.currentUser}`);
+    const follows = await apiGet(`/api/follows?username=${State.currentUser}`);
+    const hiddens = await apiGet(`/api/hidden-items?username=${State.currentUser}`);
+
+    viewContainer.innerHTML = `
+        <div class="connections-view fade-in" style="max-width:600px; margin: 0 auto; padding: 3rem;">
+            <h3 class="section-label">Manage Connections</h3>
+            
+            <section style="margin-bottom:3rem;">
+                <h4 class="section-label" style="font-size:0.8rem; margin-bottom:1rem;">Following</h4>
+                ${follows.map(u => `
+                    <div style="display:flex; justify-content:space-between; align-items:center; background:var(--color-surface); padding:1rem; border-radius:12px; margin-bottom:0.5rem;">
+                        <span>${u}</span>
+                        <button onclick="unfollowUser('${u}')" class="chip">Unfollow</button>
+                    </div>
+                `).join('') || '<p class="dimmed">No following users.</p>'}
+            </section>
+
+            <section style="margin-bottom:3rem;">
+                <h4 class="section-label" style="font-size:0.8rem; margin-bottom:1rem; color:#721c24;">Blocked Users</h4>
+                ${blocked.map(u => `
+                    <div style="display:flex; justify-content:space-between; align-items:center; background:var(--color-surface); padding:1rem; border-radius:12px; margin-bottom:0.5rem;">
+                        <span>${u}</span>
+                        <button onclick="unblockUser('${u}')" class="chip">Unblock</button>
+                    </div>
+                `).join('') || '<p class="dimmed">No blocked users.</p>'}
+            </section>
+
+            <section>
+                <h4 class="section-label" style="font-size:0.8rem; margin-bottom:1rem;">Hidden Items</h4>
+                ${hiddens.map(h => `
+                    <div style="display:flex; justify-content:space-between; align-items:center; background:var(--color-surface); padding:1rem; border-radius:12px; margin-bottom:0.5rem;">
+                        <span style="font-size:0.85rem;">${h.type} ID: ${h.id}</span>
+                        <button onclick="unhideItem('${h.type}', ${typeof h.id === 'string' ? `'${h.id}'` : h.id})" class="chip">Show</button>
+                    </div>
+                `).join('') || '<p class="dimmed">No hidden items.</p>'}
+            </section>
+        </div>
+    `;
+}
+
 function renderArchive() {
     let list = (typeof WORDS !== 'undefined') ? [...WORDS] : [];
     list.sort((a, b) => a.word.localeCompare(b.word));
+
+    // 非表示フィルタの適用
+    if (localStorage.getItem('hiddenWords')) {
+        const hiddenIds = JSON.parse(localStorage.getItem('hiddenWords'));
+        list = list.filter(w => !hiddenIds.includes(w.id));
+    }
+
     if (State.searchFilter) list = list.filter(w => w.etymology.breakdown.some(b => b.text.includes(State.searchFilter)));
     else if (State.letterFilter) list = list.filter(w => w.word.toUpperCase().startsWith(State.letterFilter));
 
@@ -373,6 +483,9 @@ function renderSettings() {
                         Logout (Leave Identity)
                     </button>
                     ${State.currentUser ? `
+                    <button onclick="navigate('connections')" class="primary-btn" style="width:100%; padding:1rem; border-radius:12px; background:transparent; border:1px solid var(--color-accent); color:var(--color-accent); margin-top:1rem;">
+                        Connections (Follow & Blocks)
+                    </button>
                     <button onclick="requestDeleteAccount()" class="primary-btn" style="width:100%; padding:1rem; border-radius:12px; background:transparent; border:1px solid #721c24; color:#f8d7da; margin-top:1rem; font-size:0.8rem;">
                         Delete Account (Identity Erasure)
                     </button>
@@ -502,6 +615,7 @@ function navigate(view) {
             case 'settings': renderSettings(); break;
             case 'premium': renderPremium(); break;
             case 'admin': renderAdmin(); break;
+            case 'connections': renderConnections(); break;
         }
         viewContainer.classList.add('fade-in');
         window.scrollTo({ top: 0, behavior: 'smooth' });

@@ -60,6 +60,8 @@ def init_db():
                                     (blocker TEXT, blocked TEXT, PRIMARY KEY (blocker, blocked))''')
                     cur.execute('''CREATE TABLE IF NOT EXISTS hidden_items 
                                     (username TEXT, target_type TEXT, target_id INTEGER, PRIMARY KEY (username, target_type, target_id))''')
+                    cur.execute('''CREATE TABLE IF NOT EXISTS follows 
+                                    (follower TEXT, followed TEXT, PRIMARY KEY (follower, followed))''')
                 else:
                     cur.execute('''CREATE TABLE IF NOT EXISTS users 
                                     (username TEXT PRIMARY KEY, password TEXT, is_premium BOOLEAN, is_operator BOOLEAN DEFAULT 0)''')
@@ -73,6 +75,8 @@ def init_db():
                                     (blocker TEXT, blocked TEXT, PRIMARY KEY (blocker, blocked))''')
                     cur.execute('''CREATE TABLE IF NOT EXISTS hidden_items 
                                     (username TEXT, target_type TEXT, target_id INTEGER, PRIMARY KEY (username, target_type, target_id))''')
+                    cur.execute('''CREATE TABLE IF NOT EXISTS follows 
+                                    (follower TEXT, followed TEXT, PRIMARY KEY (follower, followed))''')
     finally:
         conn.close()
 init_db()
@@ -159,6 +163,85 @@ def hide_item():
     finally:
         conn.close()
     return jsonify(status="success")
+
+@app.route('/api/blocked-users', methods=['GET'])
+def get_blocked_users():
+    username = request.args.get('username')
+    conn = get_db_connection()
+    p = get_placeholder()
+    with conn:
+        with conn.cursor() as cur:
+            cur.execute(f"SELECT blocked FROM blocks WHERE blocker={p}", (username,))
+            res = cur.fetchall()
+            return jsonify([row[0] for row in res])
+
+@app.route('/api/unblock', methods=['POST'])
+def unblock_user():
+    data = request.json
+    conn = get_db_connection()
+    p = get_placeholder()
+    with conn:
+        with conn.cursor() as cur:
+            cur.execute(f"DELETE FROM blocks WHERE blocker={p} AND blocked={p}", (data['blocker'], data['blocked']))
+    conn.close()
+    return jsonify(status="success")
+
+@app.route('/api/hidden-items', methods=['GET'])
+def get_hidden_items():
+    username = request.args.get('username')
+    conn = get_db_connection()
+    p = get_placeholder()
+    with conn:
+        with conn.cursor() as cur:
+            cur.execute(f"SELECT target_type, target_id FROM hidden_items WHERE username={p}", (username,))
+            res = cur.fetchall()
+            return jsonify([{"type": row[0], "id": row[1]} for row in res])
+
+@app.route('/api/unhide', methods=['POST'])
+def unhide_item():
+    data = request.json
+    conn = get_db_connection()
+    p = get_placeholder()
+    with conn:
+        with conn.cursor() as cur:
+            cur.execute(f"DELETE FROM hidden_items WHERE username={p} AND target_type={p} AND target_id={p}", (data['username'], data['target_type'], data['target_id']))
+    conn.close()
+    return jsonify(status="success")
+
+@app.route('/api/follow', methods=['POST'])
+def follow_user():
+    data = request.json
+    conn = get_db_connection()
+    p = get_placeholder()
+    try:
+        with conn:
+            with conn.cursor() as cur:
+                cur.execute(f"INSERT INTO follows (follower, followed) VALUES ({p}, {p})", (data['follower'], data['followed']))
+    except: pass
+    conn.close()
+    return jsonify(status="success")
+
+@app.route('/api/unfollow', methods=['POST'])
+def unfollow_user():
+    data = request.json
+    conn = get_db_connection()
+    p = get_placeholder()
+    with conn:
+        with conn.cursor() as cur:
+            cur.execute(f"DELETE FROM follows WHERE follower={p} AND followed={p}", (data['follower'], data['followed']))
+    conn.close()
+    return jsonify(status="success")
+
+@app.route('/api/follows', methods=['GET'])
+def get_follows():
+    username = request.args.get('username')
+    conn = get_db_connection()
+    p = get_placeholder()
+    with conn:
+        with conn.cursor() as cur:
+            cur.execute(f"SELECT followed FROM follows WHERE follower={p}", (username,))
+            res = cur.fetchall()
+            return jsonify([row[0] for row in res])
 
 # --- オペレーター向け管理 API ---
 
