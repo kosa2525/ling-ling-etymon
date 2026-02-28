@@ -24553,5 +24553,56 @@ const WORDS = [
                 },
                 "source": "Online Etymology Dictionary",
                 "date": "2026-02-28"
+        },
+        {
+                "id": "cheer",
+                "word": "Cheer",
+                "part_of_speech": "noun/verb",
+                "meaning": "喜びや応援の感情を表すこと",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "chiere",
+                                        "type": "root",
+                                        "meaning": "顔、表情",
+                                        "lang": "Old French"
+                                },
+                                {
+                                        "text": "cara",
+                                        "type": "root",
+                                        "meaning": "顔",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'cheer' originates from the Old French word 'chiere', meaning face or expression, and traces further back to the Latin 'cara', meaning face."
+                },
+                "core_concept": {
+                        "en": "The radiant essence of joy and hope.",
+                        "ja": "喜びと希望の輝く本質"
+                },
+                "thinking_layer": "歓声という言葉を深く考えてみれば、それは一瞬の喜びの光、心の中で揺れ動く希望の波のようなものです。私たちは人生の道中でさまざまな挑戦を経験します。そして、その中で歓声は、静けさの中に響き渡る希望の声となり、未知の未来へと続く長い道のりを照らす光です。歓声とは、人々が共に喜び合うことで生まれる、心の中での美しい共鳴であり、孤独の暗闇を追い払う力を持っています。それはまた、個々の魂が集合的に共鳴する様を示し、我々が互いに支え合い、共に歩む道を示すものです。歓声の背後には多くの物語があり、その一つ一つが内なる希望を呼び覚まし、新たな活力を与えることができます。歓声を上げる行為は、思いのままに表現される自由の象徴であり、その響きは、愛と調和を育む世界を築く基礎となるのです。",
+                "synonyms": [
+                        "Joy",
+                        "Applause"
+                ],
+                "antonyms": [
+                        "Sorrow",
+                        "Disapproval"
+                ],
+                "aftertaste": "Cheer, like a beacon, illuminates the soul's passage.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "cara",
+                                        "meaning": "face"
+                                }
+                        ],
+                        "points": [
+                                "Cheerの語源は「顔」を意味し、内面的な感情が外面的な表情に現れる様を示しています。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-02-28"
         }
 ];
