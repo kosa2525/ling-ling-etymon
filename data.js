@@ -23498,5 +23498,56 @@ const WORDS = [
                 },
                 "source": "Online Etymology Dictionary",
                 "date": "2026-02-28"
+        },
+        {
+                "id": "explore",
+                "word": "Explore",
+                "part_of_speech": "verb",
+                "meaning": "探検する、探査する",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "ex-",
+                                        "type": "prefix",
+                                        "meaning": "外へ",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "plorare",
+                                        "type": "root",
+                                        "meaning": "泣き叫ぶ",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'explore' originates from the Latin 'explorare', which means to investigate, to search out or examine."
+                },
+                "core_concept": {
+                        "en": "To journey beyond the known and uncover the mysteries of existence.",
+                        "ja": "未知の世界を旅して存在の神秘を探ること。"
+                },
+                "thinking_layer": "「探求」とは単なる物理的な旅路を指すものではなく、心と魂の旅をも意味します。未知なる領域に身を投じることで、我々は外部の風景だけでなく、自身の内なる風景をも再発見することになります。この旅はしばしば恐怖や不安を伴いますが、それを乗り越えることで新たな視点が開かれ、存在の深淵を垣間見ることができるのです。探求することは、無限の可能性を追い求め続ける姿勢であり、それは視覚では捉えられないものの感じ取ることを可能にします。未知の世界に浸ることは、内なる力と勇気を要し、自己の制約を超えて広がる新たな次元へと私たちを導きます。こうした思索の旅は、本質的に自分自身の再発見への招待であり、宇宙との深い結びつきを象徴しています。この未知なるものへの渇望こそが、私たちの存在を根源から理解し、愛と真実を見出す鍵なのです。冒険心を持って挑むこの旅路は、我々に生きることの美しさと尊さを教えてくれます。",
+                "synonyms": [
+                        "Investigate",
+                        "Examine"
+                ],
+                "antonyms": [
+                        "Neglect",
+                        "Ignore"
+                ],
+                "aftertaste": "To explore is to embrace the unknown with open arms.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "plorare",
+                                        "meaning": "to utter a cry"
+                                }
+                        ],
+                        "points": [
+                                "語源的には、悲鳴を上げる行為から、未知を呼び求める行為として変遷していった面白い背景がある。"
+                        ]
+                },
+                "source": "The Concise Oxford Dictionary of English Etymology, T. F. Hoad",
+                "date": "2026-02-28"
         }
 ];
