@@ -23447,5 +23447,56 @@ const WORDS = [
                 },
                 "source": "Oxford English Dictionary",
                 "date": "2026-02-28"
+        },
+        {
+                "id": "connect",
+                "word": "Connect",
+                "part_of_speech": "verb",
+                "meaning": "つなぐこと、結びつけること",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "com-",
+                                        "type": "prefix",
+                                        "meaning": "ともに",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "nectere",
+                                        "type": "root",
+                                        "meaning": "結ぶ",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "From Latin 'connectere', composed of 'com-' meaning 'together' and 'nectere' meaning 'bind'."
+                },
+                "core_concept": {
+                        "en": "A convergence of souls, intertwining paths towards unity.",
+                        "ja": "魂の交差、統一に向かう道の絡み合い"
+                },
+                "thinking_layer": "私たちの毎日の営みの中で、つながりとは単なる物理的な結合以上のものである。つながるという行為の中に、実は深い哲学が潜んでいる。それは、個々の存在がそれぞれの孤立から脱却し、共鳴し合う過程である。つながりとは、ただ手を取り合うことではなく、心が共振し、思いが共有される瞬間のことを指している。言葉がジェスチャーを見たし、黙想が思いを馳せ、感情が形に宿る。生まれたばかりの子供が母親の声を聞き、安心感に満たされるように、つながりは私たちを心の奥深くから温める。音楽や美術が国や時代を超えて人々を結びつけるように、つながりは文化や言語の壁をも越えて届く。そして、そのつながりが人々に本当の意味での共感をもたらし、より優しい社会を築く要素となる。つながることによって、私たちは互いに理解し合い、新たな発見をし、成長することができる。それがつながることの本質であり、存在する意義である。",
+                "synonyms": [
+                        "Unite",
+                        "Link"
+                ],
+                "antonyms": [
+                        "Disconnect",
+                        "Isolate"
+                ],
+                "aftertaste": "To connect is to explore the invisible threads binding all existence.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "nectere",
+                                        "meaning": "to bind or tie"
+                                }
+                        ],
+                        "points": [
+                                "つながりは、単なる言語や行動の交換を超え、精神的な共感と信頼を築く過程である。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-02-28"
         }
 ];
