@@ -26824,5 +26824,51 @@ const WORDS = [
                 "source": "Oxford English Dictionary",
                 "date": "2026-03-01",
                 "era": "17th Century"
+        },
+        {
+                "id": "chauvinism",
+                "word": "Chauvinism",
+                "part_of_speech": "noun",
+                "meaning": "過度な愛国心や偏愛",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "chauvin-",
+                                        "type": "root",
+                                        "meaning": "シャルル・ジョゼフ・ショーヴァンに由来する",
+                                        "lang": "French"
+                                }
+                        ],
+                        "original_statement": "The term originates from the extravagant patriotism allegedly espoused by Nicolas Chauvin, a possibly fictional soldier from Napoleon's army."
+                },
+                "core_concept": {
+                        "en": "An unyielding devotion to one's own group, often to the detriment of others.",
+                        "ja": "他者を軽視してまで自らの集団に忠誠を尽くすこと"
+                },
+                "thinking_layer": "ショーヴァニズムの奥深さを考えると、それは偉大なる愛国者の心から、あたかも盲目的に溢れ出る感慨である。美しくも恐ろしい国家への忠誠の念は、その情熱の果てに他者を拒絶し、世界を分断する。愛国心の名の下、人は心の狭間に立ち、自己犠牲と傲慢の境界を曖昧にする。それは如何にも人間的な悩みであり、その究極は、愛し崇拝するものを守りたいという純粋な衝動にありながら、時にはその対象を傷つけてしまう矛盾でもある。自己の欲望の炎に抗えず、花開くショーヴァニズムは、他者を斬り捨て、押しのけていく。その狂気は弱さを誤魔化し、力を求め続ける循環である。しばしば理性を超え、猛進するこの衝動は、人間存在の根源的な探求を促す。",
+                "synonyms": [
+                        "Jingoism",
+                        "Nationalism"
+                ],
+                "antonyms": [
+                        "Universality",
+                        "Inclusiveness"
+                ],
+                "aftertaste": "A devotion so fierce it blinds one to the humanity of others.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "chauvin",
+                                        "meaning": "Named after Nicolas Chauvin"
+                                }
+                        ],
+                        "points": [
+                                "ショーヴァニズムは、フランス革命後の社会風潮に深く根ざしており、ショーヴァンという兵士の伝説により広められた。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "19th Century"
         }
 ];
