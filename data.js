@@ -22625,5 +22625,50 @@ const WORDS = [
                 },
                 "source": "Oxford English Dictionary",
                 "date": "2026-02-28"
+        },
+        {
+                "id": "history",
+                "word": "History",
+                "part_of_speech": "noun",
+                "meaning": "過去の出来事の記録や研究",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "histor-",
+                                        "type": "root",
+                                        "meaning": "調査する",
+                                        "lang": "Greek"
+                                }
+                        ],
+                        "original_statement": "The word 'history' derives from the Greek 'historia', which means 'inquiry' or 'knowledge acquired by investigation'."
+                },
+                "core_concept": {
+                        "en": "A tapestry woven of time's threads, capturing the echoes of human existence.",
+                        "ja": "時間の糸で織られた織物、人間の存在を映す反響を捉えるもの。"
+                },
+                "thinking_layer": "歴史とは、何千もの瞬間が織り交ぜられた巨大な掛け絵であり、無数の声が時の流れに沿って響き合う、壮大な詩です。人間の記憶は、時の砂粒の中で漂い、新しい視点や学びを求めています。探求する人間の本質と、それに伴う時間の旅が重なり合い、私たちがどこから来たのか、そしてどこへ向かっているのかを知るためのヒントを示します。歴史は単なる過去の記録ではなく、現在を形作る裁縫糸でもあり、未来を編む構成要素でもあります。その広大さの中で、我々は過ちと知恵を繰り返し、真実の断片を探し求めるのです。時を超えた証言と知識は、我々の存在を超えて永遠に続く語りかけを私たちに提供してくれます。",
+                "synonyms": [
+                        "Chronicle",
+                        "Annals"
+                ],
+                "antonyms": [
+                        "Future",
+                        "Ignorance"
+                ],
+                "aftertaste": "History is the heart's memory of humanity, whispering across the chasms of time.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "historia",
+                                        "meaning": "inquiry"
+                                }
+                        ],
+                        "points": [
+                                "語源的には、ギリシャ語の『ヒストリア』から来ており、『調査』や『探究』を意味します。歴史は、多くの探究心によって形作られ、意味を求め続ける人間の本質を表しています。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-02-28"
         }
 ];
