@@ -27030,5 +27030,51 @@ const WORDS = [
                 "source": "Online Etymology Dictionary",
                 "date": "2026-03-01",
                 "era": "Middle English, 14th Century"
+        },
+        {
+                "id": "bite",
+                "word": "Bite",
+                "part_of_speech": "noun/verb",
+                "meaning": "噛むこと、食い込むこと",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "bitan",
+                                        "type": "root",
+                                        "meaning": "噛む",
+                                        "lang": "Old English"
+                                }
+                        ],
+                        "original_statement": "The word 'bite' comes from the Old English 'bitan', which traces back to Proto-Germanic '*bitaną', and further to the Proto-Indo-European root '*bheid-', meaning 'to split' or 'to crack'."
+                },
+                "core_concept": {
+                        "en": "The primal act of claiming sustenance from the world.",
+                        "ja": "世界から生命を奪う原初的な行為"
+                },
+                "thinking_layer": "噛むという行為は、生命の闘争の象徴であり、存在の基本的な表現である。この単純な動作の中には、私たちの祖先が挑んできたサバイバルの歴史が凝縮されている。歯が肉や果実を貫くとき、それは自然との対話であり、同時に人間が他の生命を取り込む瞬間である。この行為が持つ意義は計り知れない。それは物理的な欲求を満たすだけでなく、精神的な満腹感をもたらす。噛むという行動は、欲望や必要の象徴でありながら、無意識のうちに継続される日常の一部でもある。我々は歯を用いて世界を咀嚼し、そこから力を得て成長する。このように噛むという行為は単なる生理的行動を超え、宇宙との深い繋がりを感じさせ、そして私たちに生の本質を思わせるのである。",
+                "synonyms": [
+                        "Chomp",
+                        "Munch"
+                ],
+                "antonyms": [
+                        "Release",
+                        "Spit"
+                ],
+                "aftertaste": "A bite marks the line between starvation and survival.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "bitan",
+                                        "meaning": "to bite"
+                                }
+                        ],
+                        "points": [
+                                "噛むという行為は、人間の存在にとって不可欠な、プリミティブかつ普遍的な行動である。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Proto-Indo-European origin"
         }
 ];
