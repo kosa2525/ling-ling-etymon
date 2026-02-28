@@ -25700,5 +25700,51 @@ const WORDS = [
                 "source": "Oxford English Dictionary",
                 "date": "2026-02-28",
                 "era": "Early 18th Century"
+        },
+        {
+                "id": "baffle",
+                "word": "Baffle",
+                "part_of_speech": "verb",
+                "meaning": "困惑させる、迷わせる",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "Low English",
+                                        "type": "prefix/root",
+                                        "meaning": "混乱、失敗",
+                                        "lang": "English"
+                                }
+                        ],
+                        "original_statement": "Originally from the 16th century, possibly from Scottish and Low English roots, meaning to disgrace or confound."
+                },
+                "core_concept": {
+                        "en": "To weave through the maze of confusion effortlessly.",
+                        "ja": "迷宮の中での混乱を巧みに編む"
+                },
+                "thinking_layer": "『困惑』は人間存在、特に自己認識の中で重要なテーマである。ある瞬間、私たちは世界や他者、時には自分自身さえも理解できずに戸惑うことがある。それは人間の限界を示すものではなく、むしろ知ること、学ぶこと、そして成長するための起点である。不可解さがあるからこそ、私たちはより深く考え、探求し、新たな視点を見出すことができる。混乱や困惑の瞬間は、目に見えない謎の内部を覗き込み、自分自身の思考と向き合う機会を与えてくれる。まるで薄暗い森の中をさまよう旅人のように、道を見失いながらも足元に落ちた光に導かれていく。そして、その過程で新しい結び目や模様を物語の織物に加える。困惑は複雑であるが、それ自体が人間の理解力を広げる贈り物である。どんなに複雑で難解であっても、その後の閃きや発見のために重要な役割を果たし、人生を豊かにするものといえる。",
+                "synonyms": [
+                        "Confound",
+                        "Bewilder"
+                ],
+                "antonyms": [
+                        "Clarify",
+                        "Explain"
+                ],
+                "aftertaste": "In bewilderment, we find the threads of potentiality we never knew existed.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "bafouiller",
+                                        "meaning": "to stutter"
+                                }
+                        ],
+                        "points": [
+                                "『baffle』という語のルーツには、不確かさ、そして無力さに直面したときの言葉で表せない感情が潜んでいる。これは、言い淀むことと関連している。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-02-28",
+                "era": "16th Century"
         }
 ];
