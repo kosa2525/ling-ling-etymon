@@ -21356,5 +21356,50 @@ const WORDS = [
                 },
                 "source": "Online Etymology Dictionary",
                 "date": "2026-02-28"
+        },
+        {
+                "id": "library",
+                "word": "Library",
+                "part_of_speech": "noun",
+                "meaning": "書籍が収められている場所",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "liber-",
+                                        "type": "root",
+                                        "meaning": "書籍",
+                                        "lang": "ラテン語"
+                                }
+                        ],
+                        "original_statement": "The word 'library' originates from the Latin word 'liber', meaning 'book'."
+                },
+                "core_concept": {
+                        "en": "A sanctuary of books, a temple of knowledge.",
+                        "ja": "知識の神殿であり、書物の聖域。"
+                },
+                "thinking_layer": "図書館という言葉は、単なる書物の集積をはるかに超え、知識の追求が具現化された空間として、我々に深く問いかける。それは文化の記憶であり、静寂の中に響く知識の音楽である。私たちが図書館の扉を開くたびに、時空を超えた旅が始まり、過去からのささやきと未来への探求が同じ場所に凝縮される。書物という形而上の存在は、時に世界と対話し、時には心の中の未踏の領域を切り拓いていく。それはまた、各人の心に隠された思索を誘い出し、自己との対話を促す鏡となる。知識を求める道は図書館という通路を通じ、無限の可能性と出会う出発点となる。深い静寂と豊饒の間に広がるこの空間は、無限の知恵への窓であり、人類の叡智が織り成すその模様を静かに支えている。そして、その呼び声は、変化する時代の流れにも絶え間なく響き続けている。",
+                "synonyms": [
+                        "Bookstore",
+                        "Athenaeum"
+                ],
+                "antonyms": [
+                        "Empty space",
+                        "Desert"
+                ],
+                "aftertaste": "A library is a gateway to countless realms of thought.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "liber",
+                                        "meaning": "book"
+                                }
+                        ],
+                        "points": [
+                                "図書館は、多くの文明において知識の象徴とされ、書物の集合的な知恵が一つの場所に集約されてきた。ラテン語の「liber」に由来する言葉であり、文字通り「書物」を意味する。この言葉は、知識の保護者としての重要な役割を象徴し、文化の中枢を担ってきた。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-02-28"
         }
 ];
