@@ -23025,5 +23025,56 @@ const WORDS = [
                 },
                 "source": "Oxford English Dictionary",
                 "date": "2026-02-28"
+        },
+        {
+                "id": "heart",
+                "word": "Heart",
+                "part_of_speech": "noun",
+                "meaning": "心臓または感情の中心",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "heorte",
+                                        "type": "root",
+                                        "meaning": "心臓",
+                                        "lang": "古英語"
+                                },
+                                {
+                                        "text": "hert-",
+                                        "type": "root",
+                                        "meaning": "心臓",
+                                        "lang": "ゲルマン祖語"
+                                }
+                        ],
+                        "original_statement": "The word 'Heart' originates from the Old English 'heorte', derived from Proto-Germanic '*hertô', and further back to the Proto-Indo-European '*ḱerd'."
+                },
+                "core_concept": {
+                        "en": "The pulsating essence of life and emotion.",
+                        "ja": "生命と感情の鼓動する本質"
+                },
+                "thinking_layer": "心という言葉は、物理的な器官としての役割を超え、人生と感情の中心的な象徴として深く根付いています。その鼓動は、存在そのものを支えるリズムとなり、無限の感情と経験世界の礎を形成します。心はただ血液を循環させるだけでなく、愛、喜び、悲しみ、そして恐れを紡ぎ出す場所でもあります。静寂の中で心の音を聞くことは、内なる宇宙と対話することに他なりません。物質と非物質が融合し、有限の生命が無限の意味を持つこの力強い器官は、哲学的には無限の探究を誘うミクロコスモスです。心の深淵に潜むメロディーは、私たちの存在理由であり、時に人類の進化と同様に複雑で謎めいています。生命の儚さを知覚する時、心は一瞬一瞬の重要性を私たちに問いかけ、物語の教訓のように内観と成長の機会を提供します。",
+                "synonyms": [
+                        "Core",
+                        "Essence"
+                ],
+                "antonyms": [
+                        "Exterior",
+                        "Surface"
+                ],
+                "aftertaste": "The heart trembles not just with life but with meaning.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "*ḱerd",
+                                        "meaning": "heart"
+                                }
+                        ],
+                        "points": [
+                                "心という概念は生命の中心、感情の座として古代より重視されてきた。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-02-28"
         }
 ];
