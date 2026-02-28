@@ -23549,5 +23549,56 @@ const WORDS = [
                 },
                 "source": "The Concise Oxford Dictionary of English Etymology, T. F. Hoad",
                 "date": "2026-02-28"
+        },
+        {
+                "id": "imagine",
+                "word": "Imagine",
+                "part_of_speech": "verb",
+                "meaning": "心の中で視覚化すること",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "imagin-",
+                                        "type": "root",
+                                        "meaning": "空想する",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "-are",
+                                        "type": "suffix",
+                                        "meaning": "動詞を作る語尾",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "Derived from the Latin 'imaginari', combining 'imago' (image) and the suffix '-are'."
+                },
+                "core_concept": {
+                        "en": "To form a picture in the mind that transcends reality.",
+                        "ja": "現実を超えて心に描くこと"
+                },
+                "thinking_layer": "想像するという行為は、人間の意識の深遠なる能力のひとつです。我々は視覚を超えて、個々の想いと結びついたイメージを心に生み出します。それは、明るい未来への探求だけでなく、無限の可能性の海に漂う創造の瞬間でもあります。想像力は単なる精神の産物ではなく、個と世界を結びつける架け橋でもあります。特に本質的な問いを抱え、未知に向かうとき、想像力は理解の光として私たちの前途を照らします。夢見ることはただの空想に過ぎないと考える人もいますが、本質的には、想像することは未来を編み上げる力です。心に浮かぶイメージは、時間と空間を超越し、私たちを新しい現実の創造者にします。この哲学的振動は、日常を彩り、精神の奥底に眠る創造性と結びつきます。そして、想像とは、見えないものを見せる術、触れ得ないものに触れる感覚であり、永遠への憧れそのものです。",
+                "synonyms": [
+                        "Envision",
+                        "Dream"
+                ],
+                "antonyms": [
+                        "Neglect",
+                        "Ignore"
+                ],
+                "aftertaste": "Imagination is the gateway to all that is possible yet unseen.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "imago",
+                                        "meaning": "image"
+                                }
+                        ],
+                        "points": [
+                                "ラテン語の 'imago' から派生したこの言葉は、精神の中で視覚的または感覚的な表現を生み出すことを意味します。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-02-28"
         }
 ];
