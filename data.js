@@ -26630,5 +26630,51 @@ const WORDS = [
                 "source": "Etymology Online",
                 "date": "2026-03-01",
                 "era": "Ancient Greek"
+        },
+        {
+                "id": "cringe",
+                "word": "Cringe",
+                "part_of_speech": "verb",
+                "meaning": "縮こまったり顔をしかめたりすること",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "cringan-",
+                                        "type": "root",
+                                        "meaning": "畏れる",
+                                        "lang": "Old English"
+                                }
+                        ],
+                        "original_statement": "The word 'cringe' originates from the Old English 'cringan,' which means to yield, bend, or retreat in fear."
+                },
+                "core_concept": {
+                        "en": "To shrink or cower in fearful anticipation.",
+                        "ja": "恐怖や恥ずかしさからの縮こまり"
+                },
+                "thinking_layer": "生きる中で、私たちは時に「みっともない」と呼ばれる感情を抱く瞬間に直面します。それは、内なる自我が外部世界の目に晒され、他者のジャッジメント下に置かれるその刹那、心の中で静かに芽生えるものです。道徳的な視線、倫理的な架線が身体を締め付け、自らの不完全さ、弱さを露呈することを恐れる。その感覚はまさに、精神と肉体が一瞬にして擦り寄せられ、心の海に寄せ来る波紋のごとく波立つのです。心の奥底で、それはある種の純粋な防御機構であり、内なる探求の入口にもなるかもしれません。「屈する」行為は、時には自己反省の機会をもたらし、個を超越した存在としての自己を再定義するきっかけとなることもある。そのような自己の革新を促す非言語的なコミュニケーションが、実は人間の共感の原点にあるのではないか。それが、現代社会に息づく「縮こまる」という静寂の響きの奥に潜む、深遠なる哲学的考察なのです。",
+                "synonyms": [
+                        "cower",
+                        "flinch"
+                ],
+                "antonyms": [
+                        "stand",
+                        "confront"
+                ],
+                "aftertaste": "To cringe is to gracefully retreat into oneself when faced with overwhelming vulnerability.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "cringan",
+                                        "meaning": "to yield or bend"
+                                }
+                        ],
+                        "points": [
+                                "この語の語源は古英語の「cringan」に遡り、それは「屈服する」または「曲がる」という意味を持つ。この行為は心的防御の一環として捉えられ、感情的受容力を示す。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Old English origin"
         }
 ];
