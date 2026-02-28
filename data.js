@@ -23331,5 +23331,56 @@ const WORDS = [
                 },
                 "source": "Online Etymology Dictionary",
                 "date": "2026-02-28"
+        },
+        {
+                "id": "celebrate",
+                "word": "Celebrate",
+                "part_of_speech": "verb",
+                "meaning": "祝う、祝賀する",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "celebr-",
+                                        "type": "root",
+                                        "meaning": "栄光、祝う",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "-ate",
+                                        "type": "suffix",
+                                        "meaning": "動詞化する接尾辞",
+                                        "lang": "English"
+                                }
+                        ],
+                        "original_statement": "Derived from Latin 'celebrare' meaning to assemble to honor."
+                },
+                "core_concept": {
+                        "en": "To honor life’s moments with spirited presence.",
+                        "ja": "人生の瞬間を精霊的な存在で称賛すること"
+                },
+                "thinking_layer": "祝うという行為は、人間の精神と宇宙の本質に深く根ざしています。古代からの儀式や祭りは、私たちの存在のことわりを捉え、人と自然、過去と未来、瞬間と永遠を結びつけます。「祝う」ことは単なる行動ではなく、私たちの生活の中で永遠の真実を折り返し、再構築するための無言の手段と言えます。それは、心が喜び、感謝する瞬間に私たちを引きつけ、その瞬間の中に存在する全ての可能性を感覚し、未来へと向かう力を与える哲学的な詩です。この語源の風景は、始まりと終わりの繰り返す円環を顕現させ、祝祭の精神が持つ循環性を現しています。我々が言葉を通じて歴史を紡ぎ出し、めぐる時の中に揺蕩う光として、いつまでも残すことの価値を問いかけます。",
+                "synonyms": [
+                        "Observe",
+                        "Commemorate"
+                ],
+                "antonyms": [
+                        "Ignore",
+                        "Disregard"
+                ],
+                "aftertaste": "To celebrate is to breathe life into memory.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "celebr",
+                                        "meaning": "to honor, to frequent"
+                                }
+                        ],
+                        "points": [
+                                "「祝う」という言葉は、古代ローマで人々が集まり儀式を行っていた行為から由来し、共同体における結束力と霊的なつながりを示すものとして発展しました。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-02-28"
         }
 ];
