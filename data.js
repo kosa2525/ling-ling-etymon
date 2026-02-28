@@ -22884,5 +22884,56 @@ const WORDS = [
                 },
                 "source": "Harvard Etymological Dictionary",
                 "date": "2026-02-28"
+        },
+        {
+                "id": "paper",
+                "word": "Paper",
+                "part_of_speech": "noun",
+                "meaning": "紙の素材や情報を載せるための媒体",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "papyrus",
+                                        "type": "root",
+                                        "meaning": "パピルス",
+                                        "lang": "Greek"
+                                },
+                                {
+                                        "text": "papir",
+                                        "type": "root",
+                                        "meaning": "紙",
+                                        "lang": "Old French"
+                                }
+                        ],
+                        "original_statement": "The word 'paper' traces back to the Latin 'papyrus', which referred to the ancient Egyptian reedy plant used for writing, reflecting its transformation through languages such as Greek and Old French."
+                },
+                "core_concept": {
+                        "en": "The silent custodian of human expression and memory.",
+                        "ja": "人間の表現と記憶の静かな守護者"
+                },
+                "thinking_layer": "『紙』という言葉の背後には、視覚だけでなく時間と空間を越えたメッセージの旅がある。古代エジプトのパピルスに起源を持ち、歴史の大河を下って多くの国々を経由し、現代の私たちの手に届いている。紙はただの物質ではなく、人間の知性と創造性を物理的にかたどる媒体である。知識の伝達者として、紙は目には見えない記憶や感情を閉じ込め、抽出し、再生する力を持つ。我々の思考がそこに宿る時、紙はただの白いページ以上の意味を帯び、人類の無形の知識と感情を具象化している。紙の存在を超えた、ひとつの小宇宙とも言えるその世界は、詩的な革命の場であると同時に、思想の石碑である。この小さな切れ端の紙に、どれほど偉大な物語と想像が埋め込まれていることだろうか。この視点で見ると、紙とはまさに生命の記録装置であり、個人的な歴史と同時に人類の歴史そのものを包み込んでいるのである。",
+                "synonyms": [
+                        "parchment",
+                        "sheet"
+                ],
+                "antonyms": [
+                        "stone",
+                        "screen"
+                ],
+                "aftertaste": "A blank page is the canvas of the mind's infinite potential.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "papyrus",
+                                        "meaning": "An ancient plant used for writing in Egypt."
+                                }
+                        ],
+                        "points": [
+                                "パピルスは古代エジプトで広く使用され、情報の記録手段として文明の起源に影響を与えた。"
+                        ]
+                },
+                "source": "Oxford Languages",
+                "date": "2026-02-28"
         }
 ];
