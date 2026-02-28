@@ -26043,5 +26043,57 @@ const WORDS = [
                 "source": "The Oxford English Dictionary",
                 "date": "2026-02-28",
                 "era": "Late Middle English (14th Century)"
+        },
+        {
+                "id": "entertain",
+                "word": "Entertain",
+                "part_of_speech": "verb",
+                "meaning": "楽しませる、もてなす",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "en-",
+                                        "type": "prefix",
+                                        "meaning": "〜にする",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "tenir",
+                                        "type": "root",
+                                        "meaning": "保持する",
+                                        "lang": "Old French"
+                                }
+                        ],
+                        "original_statement": "The word 'entertain' originates from the Latin prefix 'en-' combined with the Old French 'tenir', meaning to hold together or to maintain."
+                },
+                "core_concept": {
+                        "en": "To gracefully capture and nurture the spirit of engagement.",
+                        "ja": "心を優雅に捉え、関与を育むこと"
+                },
+                "thinking_layer": "『エンターテイン』の意義を問うとき、我々は単なる娯楽以上のものに触れようとしている。それは人の心を結びつけ、互いに理解を深める橋渡しとなる営みである。この言葉には、相手の心を受け止め、一瞬一瞬を共に感じ、それを共有する不思議な力が込められている。エンターテインメントとは、ただの消費ではなく、創造と共鳴の体験である。古の語源が示唆するように、この言葉には『保持する』という深い意味があり、それは心の繋がりを長く維持し、豊かな時間を共に過ごすことを意味する。エンターテイメントは、時を超えて私たちをつなぎ、人々の間に存在する垣根を取り除き、心温まるひとときを提供するアートである。自然との調和、人と人との共存、そこには美しさの源泉がある。私たちはこの言葉を通じて、他者との新しい関係性を築き、より良い世界を描き出す可能性を手にすることであろう。",
+                "synonyms": [
+                        "Amuse",
+                        "Delight"
+                ],
+                "antonyms": [
+                        "Bore",
+                        "Displease"
+                ],
+                "aftertaste": "To entertain is to master the art of entwining souls in shared delight.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "tenir",
+                                        "meaning": "保持する"
+                                }
+                        ],
+                        "points": [
+                                "エンターテインメントの語源は、人々の心を '保持する' という概念に由来し、文化的、情感的な絆を築く力を持つ。"
+                        ]
+                },
+                "source": "Etymology Online",
+                "date": "2026-02-28",
+                "era": "Middle English, 14th Century"
         }
 ];
