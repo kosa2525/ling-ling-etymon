@@ -25448,5 +25448,57 @@ const WORDS = [
                 "source": "Online Etymology Dictionary",
                 "date": "2026-02-28",
                 "era": "13th Century"
+        },
+        {
+                "id": "reveal",
+                "word": "Reveal",
+                "part_of_speech": "verb",
+                "meaning": "隠されたものを明らかにすること",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "re-",
+                                        "type": "prefix",
+                                        "meaning": "再び",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "vélum",
+                                        "type": "root",
+                                        "meaning": "覆い",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'reveal' comes from the Latin 'revelare', formed by 're-' meaning 'again' and 'velare' from 'vélum' meaning 'veil'."
+                },
+                "core_concept": {
+                        "en": "To unveil the hidden, to let light embrace the unseen.",
+                        "ja": "隠されたものを覆いから解くこと、光が未知を抱きしめること。"
+                },
+                "thinking_layer": "『明らかにする』という行為には、単に物理的な見える化を超えた深遠な哲学が潜んでいる。それは心の奥底に眠る真実を外界へと解き放つことを意味し、鋭いつながりの意識を生み出す。宇宙のヴェールが一枚一枚剥がされる過程で、我々の存在そのものも理解され、進化する。人はなぜ見えないものを見えるようにしたがるのだろうか？これは人類の根源的な衝動であり、与えられた知性の証しでもある。明るみに出されたものは、観察者の心に不安と期待を同時に呼び起こし、新たな疑問をも生む。こうした道程を通じて、自我はさらなる深淵へと誘われるが、それこそが人間の永遠の探求であり、自己洞察の果て無き旅である。『明かす』ことが生む力を、言葉の根源で感じ取ろうとする試みは、我々の内面的宇宙を開かせ、新たなる軌跡を描く旅の一歩となる。果たして、何が真実かと問うその瞬間に、自己もまた変容を遂げるのだ。",
+                "synonyms": [
+                        "disclose",
+                        "unveil"
+                ],
+                "antonyms": [
+                        "conceal",
+                        "hide"
+                ],
+                "aftertaste": "To reveal is to let mystery breathe in the light.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "vélum",
+                                        "meaning": "veil, cover"
+                                }
+                        ],
+                        "points": [
+                                "語源的には、『再び』という動的な側面と、『覆い』という静的な側面が統合された言葉。古代の認識では、見えないものは必ずしも無いわけではなく、隠された真実の一部とされてきた。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-02-28",
+                "era": "Late Latin, 14th to 15th Century"
         }
 ];
