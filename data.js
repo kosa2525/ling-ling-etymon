@@ -22279,5 +22279,50 @@ const WORDS = [
                 },
                 "source": "Oxford English Dictionary",
                 "date": "2026-02-28"
+        },
+        {
+                "id": "pencil",
+                "word": "Pencil",
+                "part_of_speech": "noun",
+                "meaning": "鉛筆、書くための道具",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "penicillum",
+                                        "type": "root",
+                                        "meaning": "小さな筆",
+                                        "lang": "ラテン語"
+                                }
+                        ],
+                        "original_statement": "The word 'pencil' originates from the Latin 'penicillum,' meaning 'little tail,' referring to a small paintbrush."
+                },
+                "core_concept": {
+                        "en": "A tool of nuance, bringing words and images to life upon the canvas of a page.",
+                        "ja": "ページのキャンバスに言葉とイメージを命じる微細な道具"
+                },
+                "thinking_layer": "鉛筆は単なる道具ではありません。それは表現の窓であり、創造性の橋渡しです。一本の鉛筆を手に取るとき、そこには可能性の無限が広がります。書く行為は、心と思考の具現化であり、その瞬間、時間と記憶が交差します。絵や文字が生まれる度に、われわれは無から豊かな世界を創造します。鉛筆の芯が紙に触れる音は静寂を破るものではなく、反響する生命の鼓動です。先端から放たれる濃淡の線は、それ自体が物語を奏で、感情を描写します。したがって、鉛筆は物理的にシンプルでありながら、精神的には深遠な媒体であると言えるでしょう。人間の手によって操られるこの小さな道具は、文字の形を超えて心の豊かさを映し出します。このように鉛筆は書くものよりも書くことに意味を与える存在であり、私たちの心に内在する詩と哲学を紙へと導くものです。",
+                "synonyms": [
+                        "Stylus",
+                        "Graphite"
+                ],
+                "antonyms": [
+                        "Eraser",
+                        "Brush"
+                ],
+                "aftertaste": "In a pencil's whisper, eternity writes.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "penicillum",
+                                        "meaning": "small tail, brush"
+                                }
+                        ],
+                        "points": [
+                                "ラテン語の「penicillum」は、古代の筆から派生し、それが現在の書くための道具の礎となりました。これは文字通りの意味を超えて、考えと思考の流れを容易にし、個々の創造性を独自に反映することを可能にします。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-02-28"
         }
 ];
