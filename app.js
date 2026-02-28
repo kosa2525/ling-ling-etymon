@@ -31,7 +31,8 @@ const navItems = {
     settings: document.getElementById('nav-settings'),
     premium: document.getElementById('nav-premium'),
     notifications: document.getElementById('nav-notifications'),
-    network: document.getElementById('nav-network')
+    network: document.getElementById('nav-network'),
+    search: document.getElementById('global-search-input')
 };
 
 // Global cache for dynamically loaded content
@@ -157,7 +158,7 @@ async function renderToday() {
         </article>
     `;
 
-    loadReflections(word.id);
+    loadReflections(word.id, word.author || 'etymon_official', word.word);
     document.querySelectorAll('.morpheme-link').forEach(l => l.onclick = () => { if (!State.isPremium) return navigate('premium'); State.searchFilter = l.dataset.term; navigate('archive'); });
 
     const trigger = document.getElementById('word-options-trigger');
@@ -194,7 +195,7 @@ function renderReflectionSection(targetId) {
     `;
 }
 
-async function loadReflections(targetId) {
+async function loadReflections(targetId, targetAuthor, wordName) {
     const listEl = document.getElementById('reflection-list');
     if (!listEl) return;
 
@@ -234,7 +235,7 @@ async function loadReflections(targetId) {
                 if (e.key === 'Enter' && i.value.trim()) {
                     if (!State.currentUser) return navigate('premium');
                     await apiPost('/api/replies', { reflection_id: i.dataset.rid, username: State.currentUser, content: i.value });
-                    i.value = ''; loadReflections(targetId);
+                    i.value = ''; loadReflections(targetId, targetAuthor, wordName);
                 }
             });
         } catch (e) {
@@ -243,10 +244,10 @@ async function loadReflections(targetId) {
     }
 
     // フォームのセットアップ（プレミアムに関わらず常に行う）
-    setupReflectionForm(targetId);
+    setupReflectionForm(targetId, targetAuthor, wordName);
 }
 
-function setupReflectionForm(targetId) {
+function setupReflectionForm(targetId, targetAuthor, wordName) {
     const refInput = document.getElementById('ref-input');
     const refSubmit = document.getElementById('ref-submit');
     const charCount = document.getElementById('char-count');
@@ -281,16 +282,18 @@ function setupReflectionForm(targetId) {
                 const res = await apiPost('/api/reflections', {
                     word_id: targetId,
                     username: State.currentUser,
-                    content: content
+                    content: content,
+                    target_author: targetAuthor,
+                    word_name: wordName
                 });
 
                 if (res.status === 'success') {
-                    showToast('思索が投稿されました。反映を確認しています...');
+                    showToast('思索が投稿されました');
                     refInput.value = '';
                     if (charCount) charCount.textContent = '0 / 300 characters';
                     // 再読み込み
                     if (State.isPremium) {
-                        await loadReflections(targetId);
+                        await loadReflections(targetId, targetAuthor, wordName);
                     } else {
                         showToast('投稿完了。プレミアム登録すると他者の思索も閲覧できます。');
                     }
@@ -468,18 +471,6 @@ async function renderConnections() {
 }
 
 function renderArchive() {
-    let list = (typeof WORDS !== 'undefined') ? [...WORDS] : [];
-    list.sort((a, b) => a.word.localeCompare(b.word));
-
-    // 非表示フィルタの適用
-    if (localStorage.getItem('hiddenWords')) {
-        const hiddenIds = JSON.parse(localStorage.getItem('hiddenWords'));
-        list = list.filter(w => !hiddenIds.includes(w.id));
-    }
-
-    if (State.searchFilter) list = list.filter(w => w.etymology.breakdown.some(b => b.text.includes(State.searchFilter)));
-    else if (State.letterFilter) list = list.filter(w => w.word.toUpperCase().startsWith(State.letterFilter));
-
     viewContainer.innerHTML = `
         <div class="archive-container fade-in">
             <div style="max-width:600px; margin: 0 auto 3rem auto; position:relative;">
@@ -492,33 +483,62 @@ function renderArchive() {
                 `).join('')}
                 <button class="index-letter" style="width:auto; padding:0 12px;" onclick="State.letterFilter=null;State.searchFilter=null;renderArchive()">ALL</button>
             </div>
-            <div class="archive-grid" style="display:grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap:2rem;">
-                ${list.map(w => `
-                    <div class="archive-item" onclick="State.todayWord=WORDS.find(x=>x.id==='${w.id}');navigate('today')" style="position:relative; padding:1.8rem; border:1px solid var(--color-border); border-radius:20px; background:var(--color-surface); min-height:180px; display:flex; flex-direction:column; justify-content:space-between; transition:all 0.3s ease; cursor:pointer;">
-                        <div style="text-align: left;">
-                            <div style="display:flex; justify-content:space-between; align-items:flex-start; margin-bottom:0.5rem;">
-                                <span style="font-weight:700; font-size:1.5rem; color:var(--color-accent); letter-spacing:-0.02em;">${w.word}</span>
-                                ${w.part_of_speech ? `<span style="font-size:0.7rem; font-style:italic; opacity:0.5; border:1px solid rgba(255,255,255,0.1); padding:2px 6px; border-radius:4px;">${w.part_of_speech}</span>` : ''}
-                            </div>
-                            <div style="font-size:0.9rem; color:var(--color-text); font-weight:500; margin-bottom:0.8rem;">${w.meaning || ''}</div>
-                            <div style="font-size:0.85rem; opacity:0.6; line-height:1.4; display:-webkit-box; -webkit-line-clamp:2; -webkit-box-orient:vertical; overflow:hidden;">${w.core_concept.ja}</div>
-                        </div>
-                        <div style="font-size:0.75rem; opacity:0.4; text-align:right; border-top: 1px solid rgba(255,255,255,0.05); padding-top:0.8rem; margin-top:auto;">
-                            by <b style="opacity:1;">${w.author || 'etymon_official'}</b>
-                        </div>
-                    </div>
-                `).join('')}
+            <div id="archive-grid" class="archive-grid" style="display:grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap:2rem;">
+                <!-- Content will be updated by updateArchiveGrid -->
             </div>
         </div>
     `;
+    updateArchiveGrid();
+
     const searchInput = document.getElementById('archive-search');
     if (searchInput) {
         searchInput.oninput = (e) => {
             State.searchFilter = e.target.value.toLowerCase();
             State.letterFilter = null;
-            renderArchive();
+            updateArchiveGrid();
         };
     }
+}
+
+function updateArchiveGrid() {
+    const grid = document.getElementById('archive-grid');
+    if (!grid) return;
+
+    let list = (typeof WORDS !== 'undefined') ? [...WORDS] : [];
+    list.sort((a, b) => a.word.localeCompare(b.word));
+
+    // 非表示フィルタの適用
+    if (localStorage.getItem('hiddenWords')) {
+        const hiddenIds = JSON.parse(localStorage.getItem('hiddenWords'));
+        list = list.filter(w => !hiddenIds.includes(w.id));
+    }
+
+    if (State.searchFilter) {
+        const query = State.searchFilter.toLowerCase();
+        list = list.filter(w =>
+            w.word.toLowerCase().includes(query) ||
+            (w.meaning && w.meaning.toLowerCase().includes(query)) ||
+            w.etymology.breakdown.some(b => b.text.toLowerCase().includes(query))
+        );
+    } else if (State.letterFilter) {
+        list = list.filter(w => w.word.toUpperCase().startsWith(State.letterFilter));
+    }
+
+    grid.innerHTML = list.map(w => `
+        <div class="archive-item" onclick="State.todayWord=WORDS.find(x=>x.id==='${w.id}');navigate('today')" style="position:relative; padding:1.8rem; border:1px solid var(--color-border); border-radius:20px; background:var(--color-surface); min-height:180px; display:flex; flex-direction:column; justify-content:space-between; transition:all 0.3s ease; cursor:pointer;">
+            <div style="text-align: left;">
+                <div style="display:flex; justify-content:space-between; align-items:flex-start; margin-bottom:0.5rem;">
+                    <span style="font-weight:700; font-size:1.5rem; color:var(--color-accent); letter-spacing:-0.02em;">${w.word}</span>
+                    ${w.part_of_speech ? `<span style="font-size:0.7rem; font-style:italic; opacity:0.5; border:1px solid rgba(255,255,255,0.1); padding:2px 6px; border-radius:4px;">${w.part_of_speech}</span>` : ''}
+                </div>
+                <div style="font-size:0.9rem; color:var(--color-text); font-weight:500; margin-bottom:0.8rem;">${w.meaning || ''}</div>
+                <div style="font-size:0.85rem; opacity:0.6; line-height:1.4; display:-webkit-box; -webkit-line-clamp:2; -webkit-box-orient:vertical; overflow:hidden;">${w.core_concept.ja}</div>
+            </div>
+            <div style="font-size:0.75rem; opacity:0.4; text-align:right; border-top: 1px solid rgba(255,255,255,0.05); padding-top:0.8rem; margin-top:auto;">
+                by <b style="opacity:1;">${w.author || 'etymon_official'}</b>
+            </div>
+        </div>
+    `).join('') || '<p class="dimmed" style="grid-column: 1/-1; text-align:center;">No words matched your criteria.</p>';
 }
 
 async function renderEssays() {
@@ -629,7 +649,7 @@ function openEssay(id) {
             </footer>
             ${renderReflectionSection(e.id)}
         </div>`;
-    loadReflections(e.id);
+    loadReflections(e.id, e.author || 'etymon_official', e.title);
 
     const trigger = document.getElementById('essay-options-trigger');
     const menu = document.getElementById('essay-options-menu');
@@ -1036,6 +1056,17 @@ document.addEventListener('DOMContentLoaded', async () => {
     if (navItems.premium) navItems.premium.onclick = () => navigate('premium');
     if (navItems.notifications) navItems.notifications.onclick = () => navigate('notifications');
     if (navItems.network) navItems.network.onclick = () => navigate('network');
+
+    if (navItems.search) {
+        navItems.search.onkeypress = (e) => {
+            if (e.key === 'Enter' && e.target.value.trim()) {
+                State.searchFilter = e.target.value.trim().toLowerCase();
+                State.letterFilter = null;
+                navigate('archive');
+                e.target.value = '';
+            }
+        };
+    }
 
     const params = new URLSearchParams(window.location.search);
     const sid = params.get('session_id'), user = params.get('user');

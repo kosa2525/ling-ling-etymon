@@ -95,16 +95,14 @@ def init_db():
                     if 'is_premium' not in columns:
                         cur.execute("ALTER TABLE users ADD COLUMN is_premium BOOLEAN DEFAULT FALSE")
                     
-                    # Reflections migration
-                    cur.execute("SELECT column_name FROM information_schema.columns WHERE table_name='reflections'")
-                    cols_ref = [row[0] for row in cur.fetchall()]
-                    if 'is_deleted' not in cols_ref:
+                    # Reflections migration (more robust)
+                    cur.execute("SELECT count(*) FROM information_schema.columns WHERE table_name='reflections' AND column_name='is_deleted'")
+                    if cur.fetchone()[0] == 0:
                         cur.execute("ALTER TABLE reflections ADD COLUMN is_deleted BOOLEAN DEFAULT FALSE")
                         
-                    # Replies migration
-                    cur.execute("SELECT column_name FROM information_schema.columns WHERE table_name='replies'")
-                    cols_rep = [row[0] for row in cur.fetchall()]
-                    if 'is_deleted' not in cols_rep:
+                    # Replies migration (more robust)
+                    cur.execute("SELECT count(*) FROM information_schema.columns WHERE table_name='replies' AND column_name='is_deleted'")
+                    if cur.fetchone()[0] == 0:
                         cur.execute("ALTER TABLE replies ADD COLUMN is_deleted BOOLEAN DEFAULT FALSE")
                 else:
                     cur.execute("PRAGMA table_info(users)")
@@ -610,12 +608,23 @@ def get_reflections(word_id):
 @app.route('/api/reflections', methods=['POST'])
 def post_reflection():
     data = request.json
+    word_id = data.get('word_id')
+    username = data.get('username')
+    content = data.get('content')
+    target_author = data.get('target_author')
+    word_name = data.get('word_name', word_id)
+
     conn = get_db_connection()
     p = get_placeholder()
     with conn:
         with conn.cursor() as cur:
             cur.execute(f"INSERT INTO reflections (word_id, username, content, date) VALUES ({p}, {p}, {p}, {p})",
-                         (data['word_id'], data['username'], data['content'], datetime.now().strftime("%Y-%m-%d %H:%M")))
+                         (word_id, username, content, datetime.now().strftime("%Y-%m-%d %H:%M")))
+            
+            # 著者に通知
+            if target_author and target_author != username:
+                add_notification(target_author, 'reflection', f"{username} さんがあなたの投稿「{word_name}」に思索を残しました。", f"/word/{word_id}")
+                
     conn.close()
     return jsonify(status="success")
 
