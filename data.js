@@ -20964,5 +20964,58 @@ const WORDS = [
                 },
                 "source": "Oxford English Dictionary",
                 "date": "2026-02-28"
+        },
+        {
+                "id": "facetious",
+                "word": "Facetious",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "facet-",
+                                        "type": "root",
+                                        "meaning": "側面",
+                                        "lang": "French"
+                                },
+                                {
+                                        "text": "-ious",
+                                        "type": "suffix",
+                                        "meaning": "-的な",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'facetious' comes from the French word 'facétieux', which traces back to Latin 'facētia', meaning 'jest' or 'wit'."
+                },
+                "core_concept": {
+                        "en": "A playful dance with words, where humor meets elegance.",
+                        "ja": "ユーモアと優雅さが交わる言葉の遊戯。"
+                },
+                "thinking_layer": "面白みを感じること、この概念は、深く人間的な縁の間に潜むものである。「facetious」は、単なる冗談や風刺以上のものであり、言葉によって示される知性と機知の表現である。私たち自身の存在を、独自の視点で捉える能力を象徴している。時には、真面目さと逸脱の狭間で踊るように、厳しい現実に対して笑いを提供する。また、この言葉は、言葉自体を過度に解釈せず、表面的な意味の裏に潜む真実を見抜く洞察を可能にする。面白おかしいという特性は、瞬間的な笑いや笑顔だけでなく、深い思考のきっかけともなり、心の余裕を生み出す。優雅さを持って均衡の鍵となるこの概念は、人生の様々な側面に彩りを添える触媒として作用し続ける。面白味を通じて、本来無のものに意味と動きを与える力、それが「facetious」という言葉の真髄である。",
+                "synonyms": [
+                        "Jocular",
+                        "Witty"
+                ],
+                "antonyms": [
+                        "Serious",
+                        "Solemn"
+                ],
+                "aftertaste": "Facetiousness is the art of making light without diminishing light.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "facet",
+                                        "meaning": "a small face or side"
+                                },
+                                {
+                                        "term": "facetia",
+                                        "meaning": "jest, wit"
+                                }
+                        ],
+                        "points": [
+                                "「facetious」という言葉は、言葉の芸術性を引き出す能力を持ち、人間の情報処理簡素化する。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-02-28"
         }
 ];
