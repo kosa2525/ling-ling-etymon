@@ -24457,5 +24457,50 @@ const WORDS = [
                 },
                 "source": "The Oxford English Dictionary",
                 "date": "2026-02-28"
+        },
+        {
+                "id": "audit",
+                "word": "Audit",
+                "part_of_speech": "noun/verb",
+                "meaning": "会計の正確さを検証するための公的または正式な調査の過程。",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "aud-",
+                                        "type": "root",
+                                        "meaning": "聞く",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "Audit originates from the Latin word 'audire', meaning 'to hear'. In ancient times, accounts were often read aloud to ensure accuracy, thus the term evolved to denote a formal examination or review."
+                },
+                "core_concept": {
+                        "en": "The harmonious symphony of numbers heard and verified.",
+                        "ja": "数と検証の調和のハーモニー"
+                },
+                "thinking_layer": "監査という行為は、数字の音楽的調和を聞く行為であり、世界の中での真実を探し当てる哲学的冒険である。この行為は、事実を公正に評価し、道徳的責任を果たす一助となる。私たちは過去の記述を吟味することで未来を築き、倫理と誠実を持って社会全体の信頼を築く。何百という数字が奏でる音楽は、真実の構図を形作り、見えないものを見る方法を提供する。監査は、音としての証拠の正確さを検証するための手段であり、それが実際に意味することに耳を傾ける行為である。実際のところ、監査の本質は関係者全てに安心をもたらし、透明性をもたらし、結果として信頼を築くことである。これこそが、更に深い理解を与えることであり、人類が真実へ到達する手段を提供するのである。",
+                "synonyms": [
+                        "examination",
+                        "inspection"
+                ],
+                "antonyms": [
+                        "neglect",
+                        "ignore"
+                ],
+                "aftertaste": "Auditing is the melody of truth within the silence of numbers.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "audire",
+                                        "meaning": "to hear"
+                                }
+                        ],
+                        "points": [
+                                "ラテン語の 'audire' には聞くことによって真実を見極めるという意味がある。この根源的な意義は、人と社会の間にある信頼の布石として記録の真実性を確認する行為に根付いている。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-02-28"
         }
 ];
