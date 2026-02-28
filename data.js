@@ -24650,5 +24650,61 @@ const WORDS = [
                 "source": "Online Etymology Dictionary",
                 "date": "2026-02-28",
                 "era": "Middle English"
+        },
+        {
+                "id": "freelance",
+                "word": "Freelance",
+                "part_of_speech": "noun/verb/adjective",
+                "meaning": "自由契約としての仕事や活動",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "free-",
+                                        "type": "prefix",
+                                        "meaning": "自由",
+                                        "lang": "Old English"
+                                },
+                                {
+                                        "text": "lance",
+                                        "type": "root",
+                                        "meaning": "やり",
+                                        "lang": "Old French"
+                                }
+                        ],
+                        "original_statement": "Originally referred to a medieval mercenary warrior with no allegiance, first recorded in Sir Walter Scott's Ivanhoe (1820)."
+                },
+                "core_concept": {
+                        "en": "The unshackled spirit of the wanderer, wielding a lance of one's own choosing.",
+                        "ja": "自らの槍を持ってさまよう者の自由な精神"
+                },
+                "thinking_layer": "『フリーランス』という言葉を見れば、私たちはその語源が指し示すように、自由な戦士を想起する。それは束縛されないでおのれの道を切り開く者である。この自由な選択を求める姿勢は、現代にも通じるところがある。仕事や生活において、多くの人々が雇用という枠組みにとらわれず自分の能力を試し続ける、そんな時代になった。『フリーランス』は単なる働き方ではなく、一つの生き方の哲学そのものを象徴している。この言葉には、束縛から解放された心の声が息づいている。誰かに命じられるのではなく、自身の判断と責任の元で行動する自由。それは、一見孤立したように思われるが、実は他者と深い関係性を築く基盤ともなる。自由と責任、この二つの調和を持って初めて本当の自由が得られるという、深遠な哲学が隠されているのである。",
+                "synonyms": [
+                        "Self-employed",
+                        "Contractor"
+                ],
+                "antonyms": [
+                        "Employee",
+                        "Servant"
+                ],
+                "aftertaste": "To be a freelancer is to wield one's fate like a knight wields a lance.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "free",
+                                        "meaning": "not constrained"
+                                },
+                                {
+                                        "term": "lance",
+                                        "meaning": "a weapon, symbol of power"
+                                }
+                        ],
+                        "points": [
+                                "『フリーランス』は中世の頃、傭兵の一種を意味した言葉が現代に転用されている。日本語の自由業と近しいが、自由を象徴し、また責任を受け入れることを含意する。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-02-28",
+                "era": "19th Century"
         }
 ];
