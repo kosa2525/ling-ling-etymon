@@ -25290,5 +25290,51 @@ const WORDS = [
                 "source": "Oxford English Dictionary",
                 "date": "2026-02-28",
                 "era": "Early 19th Century"
+        },
+        {
+                "id": "bank",
+                "word": "Bank",
+                "part_of_speech": "noun",
+                "meaning": "金融機関、または川岸",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "banca-",
+                                        "type": "root",
+                                        "meaning": "ベンチ",
+                                        "lang": "Italian"
+                                }
+                        ],
+                        "original_statement": "The word 'bank' originates from Old Italian 'banca', meaning a bench, which evolved as moneylenders conducted business in open markets on benches."
+                },
+                "core_concept": {
+                        "en": "A meeting place of wealth and dreams, where foundations of commerce are laid upon the silent currency of hope.",
+                        "ja": "富と夢の出会いの場。希望という静かな通貨が、商業の基盤を築く場所。"
+                },
+                "thinking_layer": "銀行の概念は、経済の流れとともに人類の進化に寄り添ってきた。この人類の創造物は、単なる金銭のやり取りを超え、社会を支える礎となる。金融の機能を果たす一方で、銀行は信頼という見えない貨幣を運用し、人々の希望と恐れを映し出している。繁栄と流動性の象徴である銀行は、個人の夢を実現するための力を秘めている。それはまた、人間の欲望と、秩序立った社会への希求を具現化する場である。無機質な建物の中に込められた無数の物語が、無音の取引を通じて響き合い、未来への転換点を作り出す。銀行とは、物質と精神の交差点に立つ、終わりなきサイクルである。",
+                "synonyms": [
+                        "finance house",
+                        "savings institution"
+                ],
+                "antonyms": [
+                        "credit",
+                        "debt"
+                ],
+                "aftertaste": "A profound junction of finance and faith.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "banca",
+                                        "meaning": "bench"
+                                }
+                        ],
+                        "points": [
+                                "銀行はもともと、市場でベンチを使ってお金の貸し付けを行っていたことに由来する。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-02-28",
+                "era": "Middle Ages, 14th Century"
         }
 ];
