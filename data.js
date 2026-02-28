@@ -23076,5 +23076,50 @@ const WORDS = [
                 },
                 "source": "Online Etymology Dictionary",
                 "date": "2026-02-28"
+        },
+        {
+                "id": "dream",
+                "word": "Dream",
+                "part_of_speech": "noun/verb",
+                "meaning": "夢の中で経験する事象や思考",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "dre-",
+                                        "type": "root",
+                                        "meaning": "眠ること、喜び",
+                                        "lang": "Old English"
+                                }
+                        ],
+                        "original_statement": "The word 'dream' can be traced back to Old English 'drēam', meaning 'joy' and 'music', reflecting an evolution to signify nocturnal visions."
+                },
+                "core_concept": {
+                        "en": "A delicate journey through realms unseen, woven with threads of imagination.",
+                        "ja": "見えない世界を探る優雅な旅、想像の糸で織り交ぜられる。"
+                },
+                "thinking_layer": "夢とは、心の深淵から湧き上がる儚き幻影であり、現実と非現実を繋ぐ架け橋である。その根底には、人間の意識が無意識の世界を旅する時、潜在的な欲望や恐怖が形を成す。そして、その形は時に美しく、時に恐ろしく、それ自体が一種の芸術と化す。夢の世界は言葉を超えた神秘的な領域であり、個々の感情や経験によって異なる物語を紡ぎ出す。古代の人々は夢を神の啓示と見なし、その中に未来の予兆を見出そうとした。そして、夢は現代においてもなお、科学と精神の間に立つ謎めいた存在であり続けている。それは、内なる自分との対話の場であり、無意識の声に耳を傾けるための貴重な機会を提供する。夢とは、現実の世界にも影響を与え得るほどの力を持つ心の創造物であり、哲学的な思索を誘う永遠のテーマである。",
+                "synonyms": [
+                        "Vision",
+                        "Fantasy"
+                ],
+                "antonyms": [
+                        "Reality",
+                        "Awakening"
+                ],
+                "aftertaste": "To dream is to dance on the thin line between the known and the mysterious.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "drēam",
+                                        "meaning": "joy, music"
+                                }
+                        ],
+                        "points": [
+                                "『dream』の起源は、音楽や喜びを表す古英語の『drēam』に遡る。その後、眠りや想像の中での経験を意味するよう進化した。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-02-28"
         }
 ];
