@@ -23282,5 +23282,54 @@ const WORDS = [
                 },
                 "source": "Oxford English Dictionary, Online Etymology Dictionary",
                 "date": "2026-02-28"
+        },
+        {
+                "id": "lady",
+                "word": "Lady",
+                "part_of_speech": "noun",
+                "meaning": "貴婦人、女性",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "hlæfdige",
+                                        "type": "root",
+                                        "meaning": "パンを配る者、貴婦人",
+                                        "lang": "Old English"
+                                }
+                        ],
+                        "original_statement": "The term 'lady' originates from the Old English 'hlæfdige', a compound of 'hlaf' meaning 'loaf' and 'dige' meaning 'kneader' or 'maker', referring originally to the mistress of a household."
+                },
+                "core_concept": {
+                        "en": "An embodiment of grace and nobility.",
+                        "ja": "優雅と貴族性の具現化"
+                },
+                "thinking_layer": "「レディ」という言葉は、単なる女性を示す以上の意味を持っています。それは社会的な地位や役割を定義すると同時に、文化的な理想や期待をも内包しています。この語の起源を辿ると、古英語の時代に遡ります。当時の「hlæfdige」は「hlaf」（パン）と「dige」（つくる、こねる）を語源とし、家族を養う者、家庭の中心女性を意味していました。現代においては、単に家庭の範囲を超え、女性の持つ内なる力や社会的な影響力をも表しています。抑えられた強さや穏やかな優雅さ、それは古代から現代まで変わらぬ女性の本質的美しさです。文化は変わり、技術も発展しますが、この「レディ」の本義は普遍です。古今東西を超えて、女性の持つ力と高貴さを象徴するこの言葉は、時間を超えた一つの連続性をなしています。それは静かに、それでいて力強く、人々の意識の中で生き続けるのです。",
+                "synonyms": [
+                        "noblewoman",
+                        "dame"
+                ],
+                "antonyms": [
+                        "man",
+                        "gentleman"
+                ],
+                "aftertaste": "A lady carries the timeless aura of grace and dignity.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "hlaf",
+                                        "meaning": "loaf"
+                                },
+                                {
+                                        "term": "dige",
+                                        "meaning": "kneader"
+                                }
+                        ],
+                        "points": [
+                                "「Lady」の語源は、初期の社会構造における役割を反映し、家庭内での有力者としての女性の姿を描いています。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-02-28"
         }
 ];
