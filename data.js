@@ -20352,5 +20352,274 @@ const WORDS = [
                 },
                 "source": "Oxford English Dictionary",
                 "date": "2026-02-28"
+        },
+        {
+                "id": "quiddity",
+                "word": "Quiddity",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "quid-",
+                                        "type": "root",
+                                        "meaning": "何",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "-ity",
+                                        "type": "suffix",
+                                        "meaning": "性質、状態",
+                                        "lang": "English"
+                                }
+                        ],
+                        "original_statement": "The term 'quiddity' originates from the Latin 'quidditas', meaning 'whatness' or the essence of something, stemming from 'quid', meaning 'what'."
+                },
+                "core_concept": {
+                        "en": "The ineffable essence that defines the intrinsic nature of a thing.",
+                        "ja": "物事の内的本質を定義する、言葉にできない核心。"
+                },
+                "thinking_layer": "思索の層とは、ある概念の根底に流れる不可視の道筋である。クイディティという言葉は、そのものが唯一無二であることの本質を探求する。個々の存在はどのように独自の色合いを持ち、それぞれが持つ独自性と特異性が、全体に豊かな多様性をもたらす。何であるかという問いかけは、存在そのものの深淵に触れる試みだ。それは見かけの表面的な把握を超え、より深い意味を探る行為である。クイディティとは、思考の中に漂う微細な粒子の集合体であり、人々が見逃しがちなものの背後にある真実をしばしば照らし出す。存在の流れの中で、我々はこの本質に気づき、熟考することで初めて理解という名の扉を開くことができる。物事の本質に迫ることで、我々の理解は次第に広がり、そこに息づく美しさと深奥を垣間見ることができるのである。",
+                "synonyms": [
+                        "Essence",
+                        "Nature"
+                ],
+                "antonyms": [
+                        "Appearance",
+                        "Superficiality"
+                ],
+                "aftertaste": "In grasping the quiddity, one comes closer to the universe's hidden heartbeat.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "quid",
+                                        "meaning": "what"
+                                }
+                        ],
+                        "points": [
+                                "クイディティの概念は、ラテン語の「クイド」から派生しており、その哲学的意味は存在の根本的な追求と密接に結びついている。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-02-28"
+        },
+        {
+                "id": "verisimilitude",
+                "word": "Verisimilitude",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "veri-",
+                                        "type": "prefix",
+                                        "meaning": "真実",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "similis",
+                                        "type": "root",
+                                        "meaning": "似ている",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "-tude",
+                                        "type": "suffix",
+                                        "meaning": "性質",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The term 'verisimilitude' originates from the Latin 'verisimilitudo', which itself is composed of 'verus' (true) and 'similis' (similar)."
+                },
+                "core_concept": {
+                        "en": "An elegant reflection of the facade of truthfulness.",
+                        "ja": "真の美しさをうつす光の均衡"
+                },
+                "thinking_layer": "『真実に似ていること』という概念は、哲学的には人間の知覚と期待に深く根ざしています。表面的な真実と真なる実在の間に横たわる微妙な違いを、私たちは日々の生活の中で巧妙に操るのです。この概念は、我々の現実が絶え間なく世界と融けあい、変幻する過程を象徴します。仮象の中に足を踏み入れ、その中に隠された真実を見出すことこそが、人間の知性と想像力の中に宿る力であると言えます。『似ていること』の微細なる美学は、真実であるかの如き瞬間を捕捉し、時に私たちを驚かせます。現実とフィクションの境界が曖昧になる瞬間において、中空の真実を我々は如何に感じ、受け止めるのでしょうか。これはまた、信念が形となり、物語となる瞬間であり、時の中に刻まれる永久の一瞬です。現実に似た世界の中に我々は漂い、その中に込められた可能性の光を模索し続けます。",
+                "synonyms": [
+                        "Plausibility",
+                        "Likeness"
+                ],
+                "antonyms": [
+                        "Falseness",
+                        "Incredibility"
+                ],
+                "aftertaste": "In the intricate dance between reality and illusion, verisimilitude is the ephemeral shadow of truth.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "verus",
+                                        "meaning": "true"
+                                },
+                                {
+                                        "term": "similis",
+                                        "meaning": "similar"
+                                }
+                        ],
+                        "points": [
+                                "語源的に見ると、『veri-』はラテン語の真実を意味し、『similis』は類似を指す。『-tude』は名詞形を形成し、性質や状態を示す。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-02-28"
+        },
+        {
+                "id": "ontogeny",
+                "word": "Ontogeny",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "onto-",
+                                        "type": "prefix",
+                                        "meaning": "存在",
+                                        "lang": "ギリシャ語"
+                                },
+                                {
+                                        "text": "-geny",
+                                        "type": "root",
+                                        "meaning": "生まれる、生成",
+                                        "lang": "ギリシャ語"
+                                }
+                        ],
+                        "original_statement": "The term 'ontogeny' originates from the Greek words 'onto-', meaning 'being', and '-geny', related to 'genesis' or 'birth'. It came into English usage in the mid-19th century to describe the development or growth of an individual organism."
+                },
+                "core_concept": {
+                        "en": "The poetic dance of life unfolding from a single point, tracing the arc of existence.",
+                        "ja": "個体の成長という存在の神秘を描く詩的な旅路。"
+                },
+                "thinking_layer": "存在と生成の交差点で、生命の舞台は幕を開ける。生命の物語は、時間と空間の迷宮に存在する神秘であり、無数の過去から続く現在地点に向かう旅路である。オン トゲニーは、一つの細胞から複雑な個体へと至る成長の道筋であり、その過程は生命の微細なメロディを奏でる。各細胞が織り成すシンフォニーは、存在することの 意味を詩的に解き明かし、無限に広がる可能性を秘めている。私たち一人ひとりが持つこの物語は、地平線を超える夢想であり、目に見えぬけれど確かに感じる内面 の変遷の軌跡である。時間の流れに逆らわず、自然の律動に沿って歩むこの旅こそが、人生の本質であり、深く根付く想いの織物を紡ぎ出す。そして、オン トゲニーが教えてくれるものは、私たちの内なる宇宙が育む驚異に対する畏敬の念である。有限な生の営みの中に見出される無限の美しさ、それがこの言葉が宿す 真理である。",
+                "synonyms": [
+                        "Development",
+                        "Growth"
+                ],
+                "antonyms": [
+                        "Stagnation",
+                        "Decline"
+                ],
+                "aftertaste": "In every living being, the universe composes a unique symphony of life.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "onto",
+                                        "meaning": "being, existence"
+                                },
+                                {
+                                        "term": "geny",
+                                        "meaning": "birth, production"
+                                }
+                        ],
+                        "points": [
+                                "『オントゲニー』という語は、アリストテレスの時代から連綿と続く存在論と生成論の統合であり、現代の生物学的現象を包括的に捉える枠組みを提供している。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-02-28"
+        },
+        {
+                "id": "apperception",
+                "word": "Apperception",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "ad-",
+                                        "type": "prefix",
+                                        "meaning": "に向かって",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "percipere",
+                                        "type": "root",
+                                        "meaning": "認識する",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The term originates from the combination of Latin 'ad' meaning 'toward' and 'percipere' meaning 'to perceive,' highlighting a heightened state of awareness or understanding."
+                },
+                "core_concept": {
+                        "en": "The blossoming of perception into a higher state of conscious understanding.",
+                        "ja": "意識の高次元への咲き誇る認識"
+                },
+                "thinking_layer": "アペルセプションは、単なる認識に留まらず、我々の心の深みから湧き上がる洞察であり、存在の奥行きを照らす知恵を意味します。それは、現象の表面を越えて、その背後にある真実を求める心の旅であり、光と影の間を彷徨いながら、心の内の静かな拘束を解き放つ試みであります。この深甚なる知覚は、自我と世界の接点において、新たなる視界を開き、自己の持つ潜在力を現実のものとするための原動力として機能します。アペルセプションにおいて、我々は単なる受容者以上の存在となり、より豊かな現実を築くための主体的参与者となるのです。それは、静謐な瞬間の中で、脈打つ宇宙の鼓動を感じ取り、自らの意識をより高い次元へと高める際の、それ自体が内なる光の導きであります。",
+                "synonyms": [
+                        "Perception",
+                        "Self-awareness"
+                ],
+                "antonyms": [
+                        "Ignorance",
+                        "Unawareness"
+                ],
+                "aftertaste": "Apperception transforms the mundane into the extraordinary, channeling the unseen energies of the universe.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "percipere",
+                                        "meaning": "to seize, to grasp"
+                                }
+                        ],
+                        "points": [
+                                "アペルセプションは、ただの視覚的な認識を超え、より深い文脈と意味を導き出す力として評価されてきました。哲学的には、これが禅における『悟り』とも近似するプロセスであると考えられます。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-02-28"
+        },
+        {
+                "id": "aposematic",
+                "word": "Aposematic",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "apo-",
+                                        "type": "prefix",
+                                        "meaning": "離れて",
+                                        "lang": "Greek"
+                                },
+                                {
+                                        "text": "semat-",
+                                        "type": "root",
+                                        "meaning": "印",
+                                        "lang": "Greek"
+                                },
+                                {
+                                        "text": "-ic",
+                                        "type": "suffix",
+                                        "meaning": "形容詞化",
+                                        "lang": "English"
+                                }
+                        ],
+                        "original_statement": "The term aposematic derives from the Greek 'apo-', meaning 'away', and 'semat-', meaning 'sign'; it first appeared in the late 19th century to describe warning coloration in animals."
+                },
+                "core_concept": {
+                        "en": "A vivid tapestry of nature's warnings woven through evolutionary art.",
+                        "ja": "進化の芸術を通じて織りなされた、自然の警告の鮮やかな織物"
+                },
+                "thinking_layer": "警告色として知られるアポセマティックは、自然界における究極のコミュニケーションの一形態である。捕食者に立ち向かうための、視覚と言葉を超えた言語である。動物たちはその鮮やかな色彩を通じて、仲間に無言のメッセージを送り、自己保存を図る。進化は時間をかけ、その見事な色彩を緻密に調整し、生命の調和の中に刻み付けてきた。アポセマティックな色彩は、単なる生存の術ではなく、自然そのものの謎に満ちた調和であり、危険を抱きしめる勇気の顕現でもある。我々は、その背後に隠された意志の力を感じ取り、生命の意義を再考することであろう。その美しさには、視覚に訴える以上のものがある。見る者は、複雑に絡み合う捕食と被食の一瞬を垣間見ることとなり、共生の意味を悟るに至るだろう。アポセマティックとは、一瞬の輝きの中に宇宙の真理を凝縮し、生命を賛美する、哲学的なデザインである。自然の無言の叫び、生命の本質への案内人と言える。色を通じて、自然はわれわれに語りかけ、共鳴を促す。学問はその謎を解き明かし続けるのだが、そこには哲学的な問いがいつも残される：見ることは果たして理解することなのだろうか。",
+                "synonyms": [
+                        "Warning coloration",
+                        "Signaling"
+                ],
+                "antonyms": [
+                        "Camouflage",
+                        "Cryptic coloration"
+                ],
+                "aftertaste": "In a world painted with silent screams, coloration becomes language.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "apo",
+                                        "meaning": "away from"
+                                },
+                                {
+                                        "term": "semat",
+                                        "meaning": "sign"
+                                }
+                        ],
+                        "points": [
+                                "アポセマティックは、進化の過程で形成された視覚的メッセージであり、その背景には複雑な生態系の相互作用がある。自然は、この色彩の信号を通じて秩序を維持し、生命のバランスを保っている。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-02-28"
         }
 ];
