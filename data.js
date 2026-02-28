@@ -27822,5 +27822,51 @@ const WORDS = [
                 },
                 "date": "2026-03-01",
                 "era": "Proto-Germanic origin"
+        },
+        {
+                "id": "chat",
+                "word": "Chat",
+                "part_of_speech": "noun/verb",
+                "meaning": "おしゃべり、会話",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "chatter",
+                                        "type": "root",
+                                        "meaning": "おしゃべり",
+                                        "lang": "English"
+                                }
+                        ],
+                        "original_statement": "The word 'chat' evolved from the mid-15th century Middle English word 'chateren', which means to chatter or prattle. It has origins in Old English 'ceat' meaning to speak, prattle."
+                },
+                "core_concept": {
+                        "en": "The gentle exchange of thoughts, a river of words flowing between souls.",
+                        "ja": "心と心を繋ぐ優美な言葉の流れ"
+                },
+                "thinking_layer": "「おしゃべり」という言葉はただ単なる音の羅列ではなく、人間の心が交差する立体的な空間である。おしゃべりは、それぞれの心が交わる瞬間、生まれる共鳴であり、時には静寂の中でも最も雄弁に語る。言葉を交わす行為は、時空を超えた人の思いが一つの時に結びつく奇跡である。おしゃべりの中には、言葉の意味を超えた感情の奥行きがある。ゆらぎながらも、確かに存在するこの瞬間に、人の心は最も本当の自分に帰る。おしゃべりは、情報の移動のみならず、人間の根本的なつながりを表し、時には言葉では表現しきれない真実をさりげなく浮かび上がらせる。言葉が心を紡ぐ継ぎ目となり、私たちはその中で真の共感を見出し、自分を再発見する。おしゃべりは、単なる交流に留まらず、心と心の間に架けた見えない橋であり、心の奥底に眠る言葉なき真実を導く指南役なのだ。",
+                "synonyms": [
+                        "Converse",
+                        "Talk"
+                ],
+                "antonyms": [
+                        "Silence",
+                        "Reticence"
+                ],
+                "aftertaste": "Chatting dances with the soul's silence, adorning it with unspoken words.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "chateren",
+                                        "meaning": "to prattle, chatter"
+                                }
+                        ],
+                        "points": [
+                                "中英語の「chateren」から派生した言葉で、時には意味を超えて心の動きを映し出す力を持つ。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "15th Century, Middle English"
         }
 ];
