@@ -25336,5 +25336,61 @@ const WORDS = [
                 "source": "Online Etymology Dictionary",
                 "date": "2026-02-28",
                 "era": "Middle Ages, 14th Century"
+        },
+        {
+                "id": "check",
+                "word": "Check",
+                "part_of_speech": "noun/verb",
+                "meaning": "調べる、確認する",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "eschec",
+                                        "type": "root",
+                                        "meaning": "王、統制",
+                                        "lang": "フランス語"
+                                },
+                                {
+                                        "text": "shah",
+                                        "type": "root",
+                                        "meaning": "王、支配者",
+                                        "lang": "ペルシア語"
+                                }
+                        ],
+                        "original_statement": "The word 'check' originates from the Old French 'eschec', stemming from the Persian word 'shah', meaning king, relating closely to the game of chess and its symbolism of power and strategy."
+                },
+                "core_concept": {
+                        "en": "The delicate balance between vigilance and control.",
+                        "ja": "慎重さと統制の微妙な均衡。"
+                },
+                "thinking_layer": "『チェック』という言葉の背後には、静けさの中に潜む支配のコンセプトがある。この単語は単なる確認行為を超え、秩序と無秩序の境界を見守る意識の象徴とも言える。元々は将棋、チェスのゲームに起源を持ち、権力の一瞬の停止を示すことで、勝敗の瞬間を表示した。それはまるで何かが王国の中で停止しているかのように。その行為には、抑制された力の陰に存在する大きな意義がある。人生において、我々が歩む道において、偶然の中に潜む意味を見出すこと、そしてその中で良き選択をするのが「チェック」なのだ。この単語は、静寂に満ちた深い考察における、小さな灯火とも言えよう。流れる時の中で唯一無二の瞬間を数え、今あるべき姿を形作るツールとして、これ以上に象徴的で詩的なものはない。振り返ってみると、人生そのものが一連の「チェック」だったことに気付くかもしれないのである。",
+                "synonyms": [
+                        "verify",
+                        "inspect"
+                ],
+                "antonyms": [
+                        "ignore",
+                        "neglect"
+                ],
+                "aftertaste": "In each check lies the legacy of kings, where decision meets destiny.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "eschec",
+                                        "meaning": "a game of strategy and rule"
+                                },
+                                {
+                                        "term": "shah",
+                                        "meaning": "a figure of nobility and command"
+                                }
+                        ],
+                        "points": [
+                                "「チェック」という単語は、歴史的に権力と統制を象徴する要素を持つ。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-02-28",
+                "era": "11th Century"
         }
 ];
