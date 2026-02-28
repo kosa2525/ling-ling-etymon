@@ -27966,5 +27966,51 @@ const WORDS = [
                 "source": "Online Etymology Dictionary",
                 "date": "2026-03-01",
                 "era": "16th Century"
+        },
+        {
+                "id": "quirk",
+                "word": "Quirk",
+                "part_of_speech": "noun",
+                "meaning": "特異な習慣や性質",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "unknown origin",
+                                        "type": "root",
+                                        "meaning": "未知の起源",
+                                        "lang": "Unknown"
+                                }
+                        ],
+                        "original_statement": "The word 'quirk' surfaced in the English language in the 16th century, primarily to denote a sudden twist or eccentricity in behavior or manner."
+                },
+                "core_concept": {
+                        "en": "The gentle dance of idiosyncrasy.",
+                        "ja": "個性の優雅な舞"
+                },
+                "thinking_layer": "生きるということは、生命それ自体が小さな奇形、つまり「クイーク」で満たされていることを理解することである。私たちは日常の平凡の中で、その緻密さに冷ややかになることができるが、それらのささやかな『風変わり』こそが生命の豊かさの真髄である。クイークはただの可笑しな振る舞いではなく、存在の複雑さを示唆し、また同時にその深い理解の入り口を示している。人間の心が愛したり憎んだりすることでさえ、一つひとつ異なるクイークの連鎖に過ぎず、その連鎖によって我々の本性や運命は刻まれていく。哲学的視点から見れば、クイークとは無秩序の中に溶け合う調和であり、混沌の中の静けさである。この小さな違和感がひとつひとつ積み重なり、新しい関係性や思考を生む可能性を持っている。それゆえに、人生の毎日はその瞬間のクイークから編まれていると言える。クイークの衝動に心を開くことで、私たちの心の奥底にある多様な色彩を感じ取ることができるのだ。",
+                "synonyms": [
+                        "Idiosyncrasy",
+                        "Eccentricity"
+                ],
+                "antonyms": [
+                        "Uniformity",
+                        "Conformity"
+                ],
+                "aftertaste": "In the quirk of life lies the essence of existence.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "unknown",
+                                        "meaning": "The origin is not clear, suggesting a potentially deep-rooted linguistic transformation."
+                                }
+                        ],
+                        "points": [
+                                "クイークの起源ははっきりとはわかっていないが、その語源の不確定性がさらなる文化的・心理学的探究を呼び起こす。"
+                        ]
+                },
+                "source": "Oxford English Dictionary, Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "16th Century"
         }
 ];
