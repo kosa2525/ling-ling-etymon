@@ -68,13 +68,13 @@ def init_db():
                                     (id SERIAL PRIMARY KEY, title TEXT, content TEXT, author TEXT, date TEXT, is_deleted BOOLEAN DEFAULT FALSE)''')
                 else:
                     cur.execute('''CREATE TABLE IF NOT EXISTS users 
-                                    (username TEXT PRIMARY KEY, password TEXT, is_premium BOOLEAN, is_operator BOOLEAN DEFAULT 0)''')
+                                    (username TEXT PRIMARY KEY, password TEXT, is_premium BOOLEAN DEFAULT 0, is_operator BOOLEAN DEFAULT 0)''')
                     cur.execute('''CREATE TABLE IF NOT EXISTS reflections 
                                     (id INTEGER PRIMARY KEY AUTOINCREMENT, word_id TEXT, username TEXT, content TEXT, date TEXT, is_deleted INTEGER DEFAULT 0)''')
                     cur.execute('''CREATE TABLE IF NOT EXISTS replies 
                                     (id INTEGER PRIMARY KEY AUTOINCREMENT, reflection_id INTEGER, username TEXT, content TEXT, date TEXT, is_deleted INTEGER DEFAULT 0)''')
                     cur.execute('''CREATE TABLE IF NOT EXISTS reports 
-                                    (id INTEGER PRIMARY KEY AUTOINCREMENT, reporter TEXT, target_username TEXT, target_type TEXT, target_id INTEGER, reason TEXT, date TEXT, status TEXT)''')
+                                    (id INTEGER PRIMARY KEY AUTOINCREMENT, reporter TEXT, target_username TEXT, target_type TEXT, target_id INTEGER, reason TEXT, date TEXT, status TEXT DEFAULT 'pending')''')
                     cur.execute('''CREATE TABLE IF NOT EXISTS blocks 
                                     (blocker TEXT, blocked TEXT, PRIMARY KEY (blocker, blocked))''')
                     cur.execute('''CREATE TABLE IF NOT EXISTS hidden_items 
@@ -85,6 +85,23 @@ def init_db():
                                     (id INTEGER PRIMARY KEY AUTOINCREMENT, username TEXT, type TEXT, message TEXT, link TEXT, date TEXT, is_read INTEGER DEFAULT 0)''')
                     cur.execute('''CREATE TABLE IF NOT EXISTS user_essays 
                                     (id INTEGER PRIMARY KEY AUTOINCREMENT, title TEXT, content TEXT, author TEXT, date TEXT, is_deleted INTEGER DEFAULT 0)''')
+                
+                # スキーマの自動アップグレード（カラムが足りない場合に追加）
+                if DATABASE_URL:
+                    cur.execute("SELECT column_name FROM information_schema.columns WHERE table_name='users'")
+                    columns = [row[0] for row in cur.fetchall()]
+                    if 'is_operator' not in columns:
+                        cur.execute("ALTER TABLE users ADD COLUMN is_operator BOOLEAN DEFAULT FALSE")
+                    if 'is_premium' not in columns:
+                        cur.execute("ALTER TABLE users ADD COLUMN is_premium BOOLEAN DEFAULT FALSE")
+                else:
+                    cur.execute("PRAGMA table_info(users)")
+                    columns = [row[1] for row in cur.fetchall()]
+                    if 'is_operator' not in columns:
+                        cur.execute("ALTER TABLE users ADD COLUMN is_operator INTEGER DEFAULT 0")
+                    if 'is_premium' not in columns:
+                        cur.execute("ALTER TABLE users ADD COLUMN is_premium INTEGER DEFAULT 0")
+
     finally:
         conn.close()
 init_db()
