@@ -26244,5 +26244,57 @@ const WORDS = [
                 "source": "Online Etymology Dictionary",
                 "date": "2026-03-01",
                 "era": "Middle Ages, 15th Century"
+        },
+        {
+                "id": "beverage",
+                "word": "Beverage",
+                "part_of_speech": "noun",
+                "meaning": "飲み物や飲料を指す一般的な用語",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "bever-",
+                                        "type": "root",
+                                        "meaning": "飲む行為",
+                                        "lang": "Middle English"
+                                },
+                                {
+                                        "text": "-age",
+                                        "type": "suffix",
+                                        "meaning": "状態・性質を示す",
+                                        "lang": "Old French"
+                                }
+                        ],
+                        "original_statement": "The term 'beverage' comes from the Middle English 'bevrage', derived from Old French 'beverage' and ultimately from the Latin word 'bibere', meaning 'to drink'."
+                },
+                "core_concept": {
+                        "en": "A harmonious act of imbibing life’s essences.",
+                        "ja": "生命の本質を楽しむ調和の行為"
+                },
+                "thinking_layer": "飲み物という言葉は、ただ水分を満たす行為を示す単なる語に留まらない。人生の豊かさと多様性を舌で味わい、喉の奥深くへと受け入れる哲学的体験である。飲むという行為は、単なる生理的欲求の解消を超えて、精神と身体の調和を目指す儀式として捉えることができる。この儀式において、飲まれる液体は単なる水分ではなく、自然が育んだ神秘的なエッセンスであり、魂を活気づける存在なのだ。現代の喧騒の中で、飲み物を味わう行為は、一瞬間の静寂と自己との対話の場を提供する。これはまた、人間が天と地の恵みに感謝し、それを身体に迎え入れることで宇宙とのつながりを再認識する瞬間でもある。飲み物は身体の渇きを癒すだけでなく、心の乾きをも潤すものだ。それを味わう瞬間、私は何と豊かで多様な命の流れに一部であることを感じる。",
+                "synonyms": [
+                        "Drink",
+                        "Refreshment"
+                ],
+                "antonyms": [
+                        "Deprivation",
+                        "Thirst"
+                ],
+                "aftertaste": "To drink is to partake in the universe's poetry.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "bibere",
+                                        "meaning": "to drink in Latin"
+                                }
+                        ],
+                        "points": [
+                                "飲むという行為は身体の欲求と精神の充足を求める、人間の根源的な駆動力である。"
+                        ]
+                },
+                "source": "The Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "14th Century"
         }
 ];
