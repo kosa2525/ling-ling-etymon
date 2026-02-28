@@ -865,6 +865,7 @@ function navigate(view) {
             case 'connections': renderConnections(); break;
             case 'notifications': renderNotifications(); break;
             case 'network': renderWordNetwork(); break;
+            case 'timeline': renderTimeline(); break;
         }
         viewContainer.classList.add('fade-in');
         window.scrollTo({ top: 0, behavior: 'smooth' });
@@ -905,7 +906,7 @@ async function renderWordNetwork(mode = 'global') {
     const ids = State.savedWordIds.join(',');
     viewContainer.innerHTML = `
         <div class="network-view fade-in" style="height: calc(100vh - 200px); position:relative;">
-            <div style="display:flex; justify-content:center; gap:1rem; padding-top:1.5rem;">
+            <div style="display:flex; justify-content:center; gap:1rem; padding-top:1.5rem; position: relative; z-index: 20;">
                 <button id="net-global" class="chip ${mode === 'global' ? 'followed' : ''}">Global Universe</button>
                 <button id="net-personal" class="chip ${mode === 'personal' ? 'followed' : ''}">My Mind Garden</button>
             </div>

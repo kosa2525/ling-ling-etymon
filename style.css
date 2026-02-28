@@ -428,7 +428,8 @@ main {
     transition: all var(--transition-fast);
 }
 
-.chip.followed {
+.chip.followed,
+.chip.active {
     background: var(--color-accent);
     color: white;
 }
