@@ -44,7 +44,7 @@ const API_BASE = window.location.origin;
 
 // --- Utils ---
 async function apiGet(endpoint) {
-    try { const response = await fetch(`${API_BASE}${endpoint}`); return response.json(); }
+    try { const response = await fetch(`${API_BASE}${endpoint}`); return await response.json(); }
     catch (e) { console.error(e); return []; }
 }
 async function apiPost(endpoint, data) {
@@ -957,18 +957,50 @@ async function renderWordNetwork(mode = 'global') {
 
 function renderTimeline() {
     const list = (typeof WORDS !== 'undefined') ? [...WORDS] : [];
-    // era情報があるものを優先し、年代順にソートしたいが、テキストなので一旦新着順の逆か、名前順
-    // 将来的には era フィールドをパースしてソートする
+
+    // 時代ごとにグループ化
+    const groups = {};
+    list.forEach(w => {
+        const era = w.era || 'Unknown Era';
+        if (!groups[era]) groups[era] = [];
+        groups[era].push(w);
+    });
+
+    // 時代のだいたいの年代を推測してソートする関数
+    const getEraScore = (era) => {
+        const e = era.toLowerCase();
+        if (e.includes('pie') || e.includes('proto')) return -10000;
+        if (e.includes('ancient')) return -5000;
+        if (e.includes('old english')) return -3000;
+        if (e.includes('latin') || e.includes('greek')) return -2000;
+        if (e.includes('middle english')) return -1000;
+        const cen = e.match(/(\d+)th\s*century/);
+        if (cen) return parseInt(cen[1]) * 100;
+        const yr = e.match(/(\d{3,4})/);
+        if (yr) return parseInt(yr[1]);
+        if (e === 'unknown era' || e === 'archaic era') return 99999;
+        return 0;
+    };
+
+    const sortedEras = Object.keys(groups).sort((a, b) => getEraScore(a) - getEraScore(b));
+
     viewContainer.innerHTML = `
         <div class="timeline-view fade-in" style="max-width:800px; margin: 0 auto; padding: 4rem 2rem 120px;">
             <h3 class="section-label" style="text-align:center; margin-bottom:4rem;">River of Etymon (Timeline)</h3>
             <div class="timeline-thread" style="position:relative; border-left: 2px solid var(--color-border); padding-left: 3rem; margin-left: 2rem;">
-                ${list.reverse().map(w => `
-                    <div class="timeline-entry" onclick="State.todayWord=WORDS.find(x=>x.id==='${w.id}');navigate('today')" style="position:relative; margin-bottom:4rem; cursor:pointer;">
-                        <div style="position:absolute; left: calc(-3rem - 9px); top: 8px; width:16px; height:16px; background:var(--color-accent); border-radius:50%; border:4px solid var(--color-bg);"></div>
-                        <div class="dimmed" style="font-size:0.85rem; letter-spacing:0.1em; margin-bottom:0.5rem;">${w.era || 'Archaic Era'}</div>
-                        <h2 style="font-size:2rem; color:var(--color-accent);">${w.word}</h2>
-                        <p style="margin-top:0.5rem; opacity:0.8;">${w.meaning}</p>
+                ${sortedEras.map(era => `
+                    <div class="era-group" style="margin-bottom: 5rem;">
+                        <h4 style="font-size:1.5rem; color:var(--color-premium); margin-bottom: 2rem; position:relative;">
+                            <span style="position:absolute; left: calc(-3rem - 11px); top: 50%; transform:translateY(-50%); width:20px; height:20px; background:var(--color-bg); border-radius:50%; border:4px solid var(--color-premium);"></span>
+                            ${era}
+                        </h4>
+                        ${groups[era].map(w => `
+                            <div class="timeline-entry" onclick="State.todayWord=WORDS.find(x=>x.id==='${w.id}');navigate('today')" style="position:relative; margin-bottom:3rem; cursor:pointer;">
+                                <div style="position:absolute; left: calc(-3rem - 9px); top: 8px; width:16px; height:16px; background:var(--color-accent); border-radius:50%; border:4px solid var(--color-bg);"></div>
+                                <h2 style="font-size:1.8rem; color:var(--color-accent);">${w.word}</h2>
+                                <p style="margin-top:0.5rem; opacity:0.8;">${w.meaning}</p>
+                            </div>
+                        `).join('')}
                     </div>
                 `).join('')}
             </div>
