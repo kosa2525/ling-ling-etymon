@@ -24706,5 +24706,51 @@ const WORDS = [
                 "source": "Online Etymology Dictionary",
                 "date": "2026-02-28",
                 "era": "19th Century"
+        },
+        {
+                "id": "thrill",
+                "word": "Thrill",
+                "part_of_speech": "noun/verb",
+                "meaning": "大きな興奮や感動を与えるもの",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "thrillen-",
+                                        "type": "root",
+                                        "meaning": "振り動かす",
+                                        "lang": "Old English"
+                                }
+                        ],
+                        "original_statement": "From Old English 'thryllan', meaning to pierce or penetrate, later evolving to describe a piercing emotion or excitement."
+                },
+                "core_concept": {
+                        "en": "A visceral, electrifying rush that elevates the spirit.",
+                        "ja": "精神を高揚させる感覚的で電撃的なときめき"
+                },
+                "thinking_layer": "スリルという言葉は、単なる感覚的な波動のことではなく、心の奥深くを震撼させ、生命の一瞬の煌めきを味わう感覚です。この言葉は古代から現代に至るまで、人間の経験の本質的な側面を表してきました。感動や興奮は、しばしば予測不能で制御不能な出来事に対する反応として現れ、未知なるものに対する恐れと期待とが交錯する瞬間の結晶です。その瞬間、我々は生の意味と真価を鮮烈に認識します。意識は断片化し、個を超えた存在と一体化し、時と空間の境界を超えます。スリルは人生の儚さを強烈に想起させ、その一瞬一瞬を大いに生きることを我々に促します。まるで無限の可能性の扉が開かれ、そこに立ち入る勇気を試されるかのように。スリルを追求することは、究極の自由を追求することであり、我々が未踏の地を探索し続ける人間たる所以なのです。",
+                "synonyms": [
+                        "Excitement",
+                        "Exhilaration"
+                ],
+                "antonyms": [
+                        "Calm",
+                        "Boredom"
+                ],
+                "aftertaste": "In the thrill lies the soul's dance with infinity.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "thryllan",
+                                        "meaning": "to pierce"
+                                }
+                        ],
+                        "points": [
+                                "言葉の起源は振り動かすことを意味し、心身に共鳴する強い影響を与えることを示唆しています。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-02-28",
+                "era": "Old English"
         }
 ];
