@@ -22725,5 +22725,68 @@ const WORDS = [
                 },
                 "source": "Online Etymology Dictionary",
                 "date": "2026-02-28"
+        },
+        {
+                "id": "energy",
+                "word": "Energy",
+                "part_of_speech": "noun",
+                "meaning": "エネルギーの簡潔な意味",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "energeia",
+                                        "type": "root",
+                                        "meaning": "活動、運動",
+                                        "lang": "Greek"
+                                },
+                                {
+                                        "text": "en-",
+                                        "type": "prefix",
+                                        "meaning": "〜に",
+                                        "lang": "Greek"
+                                },
+                                {
+                                        "text": "ergon",
+                                        "type": "root",
+                                        "meaning": "仕事",
+                                        "lang": "Greek"
+                                }
+                        ],
+                        "original_statement": "The word 'energy' originates from the Greek 'energeia', which refers to activity or operation, and is derived from 'en-', meaning 'in', and 'ergon', meaning 'work'."
+                },
+                "core_concept": {
+                        "en": "The unseen fervor that fuels the universe's grand conduct.",
+                        "ja": "宇宙の壮大な演奏を燃え立たせる目に見えない情熱"
+                },
+                "thinking_layer": "エネルギーとは、我々の存在の核に不可欠な、生命そのものの躍動感である。目に見えない力が絶えず巡ることで、宇宙の営みが続いている。エネルギーは物理的なものに限らず、心や魂を駆動させる力でもある。人間は無限の可能性に満ちた存在であり、その可能性を引き出すためには、内なるエネルギーを如何に解放するかが鍵となる。エネルギーの律動は私たちの行動、感情、そして知覚にまで影響を及ぼす。まるで目に見えない糸が世界を織り成しているかのように、人々の間に張り巡らされ、時に個を超えて全を成す。このように、エネルギーは我々の内側と外側を繋ぎ、限りない宇宙の一部であることを思い起こさせるのだ。エネルギーは存在の根底に流れる普遍的な力であり、その探求を通じて自分自身と繋がり、また宇宙の真理を垣間見ることができる。エネルギーに満ちた瞬間こそが、生命の輝きをもっとも強く放つときである。",
+                "synonyms": [
+                        "force",
+                        "power",
+                        "vitality"
+                ],
+                "antonyms": [
+                        "lethargy",
+                        "inactivity",
+                        "weakness"
+                ],
+                "aftertaste": "Energy is the silent conductor of the cosmic orchestra.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "ergon",
+                                        "meaning": "work"
+                                },
+                                {
+                                        "term": "en-",
+                                        "meaning": "in"
+                                }
+                        ],
+                        "points": [
+                                "エネルギーという言葉は、ギリシャ語の「活動」という意味である 'energeia' から派生し、さらに「内に」を意味する 'en-' と「仕事」を意味する 'ergon' に分解される。これは宇宙の根源的な動きとリンクしており、その探求は人類全体の進化にも寄与する。"
+                        ]
+                },
+                "source": "The Oxford English Dictionary",
+                "date": "2026-02-28"
         }
 ];
