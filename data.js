@@ -28058,5 +28058,61 @@ const WORDS = [
                 "source": "Online Etymology Dictionary",
                 "date": "2026-03-01",
                 "era": "Middle Ages, Arabic influence"
+        },
+        {
+                "id": "malapropism",
+                "word": "Malapropism",
+                "part_of_speech": "noun",
+                "meaning": "言い間違いによる面白い表現",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "mal-",
+                                        "type": "prefix",
+                                        "meaning": "悪い",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "à propos",
+                                        "type": "phrase",
+                                        "meaning": "適切な",
+                                        "lang": "French"
+                                }
+                        ],
+                        "original_statement": "Derived from the character Mrs. Malaprop in Richard Brinsley Sheridan's 1775 play 'The Rivals'."
+                },
+                "core_concept": {
+                        "en": "A delightful pitfall in language where error becomes art.",
+                        "ja": "エラーが芸術に変わる言語の愛らしい落とし穴"
+                },
+                "thinking_layer": "言葉の本質について考えるとき、意図された表現ととっさの表現の境界には、時に美しい混乱が生じることがあります。『マラプロプイズム』という言葉は、それ自体が文学の自作自演のように感じられます。この言葉に魅力を感じるのは、人間の不完璧さが、時として予期しない詩的な真実を明らかにする場面があるからかもしれません。正しさを求める流れの中で、間違いという波が偶然にも人々の心に響く意外な音を生み出すことがあります。人は、表現の誤りの中に、どことなく知恵や真実を見いだすことがあり、そのオアシスのような瞬間に、私たちは自分たちの言語の不確実性を祝い、言語の深みを感じます。このように、マラプロプイズムは詩的な失敗の一形態であり、我々が表現の双曲線を飛び越えようとする中での風刺的な止まり木となります。それは言葉に対する個々の理解の微妙な波の形であり、どんなに直感的であっても予測不能なほどに美しいものです。",
+                "synonyms": [
+                        "Solecism",
+                        "Misusage"
+                ],
+                "antonyms": [
+                        "Correctness",
+                        "Precision"
+                ],
+                "aftertaste": "Errors enrich the beauty of expression in sometimes unpredictable ways.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "mal",
+                                        "meaning": "bad"
+                                },
+                                {
+                                        "term": "propos",
+                                        "meaning": "purpose"
+                                }
+                        ],
+                        "points": [
+                                "マラプロプイズムは、人間の認識と表現の不完全性のユーモラスな反映であり、言葉が本来の目的を超えて新しい意味を生み出す可能性を秘めています。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "18th Century"
         }
 ];
