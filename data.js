@@ -23857,5 +23857,60 @@ const WORDS = [
                 },
                 "source": "Online Etymology Dictionary",
                 "date": "2026-02-28"
+        },
+        {
+                "id": "transform",
+                "word": "Transform",
+                "part_of_speech": "verb",
+                "meaning": "変化させる、変換する",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "trans-",
+                                        "type": "prefix",
+                                        "meaning": "向こう側へ、越える",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "formare",
+                                        "type": "root",
+                                        "meaning": "形を与える",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "Derived from Latin 'transformare', meaning 'to change the shape or form'."
+                },
+                "core_concept": {
+                        "en": "The elegant dance of altering essence and form.",
+                        "ja": "本質と形を変化させる優雅な舞"
+                },
+                "thinking_layer": "変容とは、内なる力が外界の表層を超えて形を変える過程である。すべての存在は、その本質を保持したまま次元を超えて無数の形態を身に纏う。変化はただの表面的な置換ではなく、内面の化学反応であり、新たな可能性が育まれる土壌である。心の奥底に眠る静寂な湖が、風のささやきに応じて波を立てるように、私たちの魂もまた、環境との対話を通じて新たな形に生まれ変わる。変容が起こるとき、私たちは過去に根ざしつつ、未来に向かって枝を伸ばす木のようだ。変化の本質は永遠の流動であり、それは瞬時に現れ、永遠に消え去る蜃気楼の如し。万物流転の中で、変容は生命の継続を保証する刹那であり、再創造の未来への旅路である。",
+                "synonyms": [
+                        "Convert",
+                        "Alter"
+                ],
+                "antonyms": [
+                        "Stagnate",
+                        "Preserve"
+                ],
+                "aftertaste": "Transformation is the silent symphony of universal rhythm.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "trans",
+                                        "meaning": "across, beyond"
+                                },
+                                {
+                                        "term": "formare",
+                                        "meaning": "to form or shape"
+                                }
+                        ],
+                        "points": [
+                                "古代ローマでは『trans』は距離や境界を越える意味を持ち、変容は新たな土地への旅とされていた。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-02-28"
         }
 ];
