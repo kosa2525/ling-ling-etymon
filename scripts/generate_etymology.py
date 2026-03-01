@@ -120,31 +120,47 @@ def get_existing_data() -> List[Dict]:
         print(f"Loading error in get_existing_data: {e}")
     return []
 
-def suggest_batch_words(existing_ids, count=10):
+def suggest_batch_words(existing_data, count=10):
     """
-    日常的で語源が面白い単語を提案します。
+    既存の語源（Roots）を考慮し、ネットワークが繋がりやすい日常単語を提案します。
     """
-    suggestions = []
+    existing_ids = [item.get("id", "").lower() for item in existing_data]
     
-    # 既存のプールから日常単語を優先的に抽出
-    pool = EVERYDAY_POOL + INTELLECTUAL_POOL
-    for word in pool:
-        if word.lower() not in existing_ids and word.lower() not in [s.lower() for s in suggestions]:
-            suggestions.append(word)
-            if len(suggestions) >= count: break
-
-    if len(suggestions) < count:
-        needed = count - len(suggestions)
-        response = client.chat.completions.create(
-            model="gpt-4o",
-            messages=[
-                {"role": "system", "content": "Suggest common everyday English words with surprising etymologies. Mix nouns and interesting VERBS (actions/states). Output ONLY comma-separated words."},
-                {"role": "user", "content": f"Exclude: {', '.join(existing_ids)}. Need {needed} words (at least 50% verbs)."}
-            ]
-        )
-        suggestions.extend([w.strip() for w in response.choices[0].message.content.split(',') if w.strip()])
-
-    return suggestions[:count]
+    # 既存のデータから語源（rootやprefix）をいくつか抽出して、AIにヒントとして与える
+    all_roots = []
+    for item in existing_data[-100:]: # 直近100件から抽出
+        breakdown = item.get("etymology", {}).get("breakdown", [])
+        for part in breakdown:
+            all_roots.append(part.get("text", ""))
+    
+    representative_roots = list(set(all_roots))[:30] # 重複を除いて30個程度
+    
+    verb_count = count // 2
+    other_count = count - verb_count
+    
+    print(f"Suggesting {verb_count} verbs and {other_count} other words to grow the network...")
+    
+    response = client.chat.completions.create(
+        model="gpt-4o",
+        messages=[
+            {"role": "system", "content": """You are a philologist building a 'Word Network'. 
+The goal is to suggest words that CONNECT to existing clusters through shared etymological roots or prefixes.
+CRITICAL: 
+1. The words MUST be everyday, common English words (A1-B2 level).
+2. They should ideally share roots or prefixes with common English foundations.
+3. We want to 'bridge' or 'expand' clusters.
+Example: if we have 'Transform', you might suggest 'Translate' (trans-) or 'Formulate' (form)."""},
+            {"role": "user", "content": f"""Existing roots/prefixes in our database include: {', '.join(representative_roots)}. 
+Provide exactly {verb_count} interesting EVERYDAY VERBS and {other_count} OTHER everyday words (nouns/adj) that share these or other common roots. 
+Exclude these: {', '.join(existing_ids[-100:])}.
+Output ONLY a JSON object with 'verbs' and 'others' lists."""}
+        ],
+        response_format={ "type": "json_object" }
+    )
+    data = json.loads(response.choices[0].message.content)
+    suggestions = data.get("verbs", [])[:verb_count] + data.get("others", [])[:other_count]
+    
+    return [w.strip() for w in suggestions]
 
 def generate_word_data(word: str) -> Dict[str, Any]:
     print(f"Investigating: {word}...")
@@ -170,34 +186,46 @@ def main():
 
     print(f"--- Task Scheduler Insight Mode: {batch_count} Everyday Words ---")
     
+    # 既存データを一括で読み込み
     existing_data = get_existing_data()
     existing_ids = [item.get("id").lower() for item in existing_data if item.get("id")]
     
-    words_to_process = suggest_batch_words(existing_ids, batch_count)
+    # 提案を一括で取得
+    words_to_process = suggest_batch_words(existing_data, batch_count)
     print(f"Target Words: {', '.join(words_to_process)}")
 
     success_count = 0
+    new_words = []
+    
     for word in words_to_process:
         try:
-            current_data = get_existing_data()
-            if word.lower() in [item.get("id", "").lower() for item in current_data]:
-                print(f"Skipping {word}, already exists.")
+            if word.lower() in existing_ids:
+                print(f"Skipping {word}, already exists in memory.")
                 continue
 
             data = generate_word_data(word)
-            updated_list = [w for w in current_data if w.get("id") != data.get("id")]
-            updated_list.append(data)
+            new_words.append(data)
+            existing_ids.append(data.get("id", "").lower()) # 重複防止用リストも更新
             
-            json_str = json.dumps(updated_list, indent=8, ensure_ascii=False)
-            with open(DATA_JS_PATH, 'w', encoding='utf-8') as f:
-                f.write(f"const WORDS = {json_str};\n")
-            
-            print(f"Successfully added '{word}' to Archive.")
+            print(f"Generated '{word}'.")
             success_count += 1
             time.sleep(1)
             
         except Exception as e:
             print(f"Failed '{word}': {e}")
+
+    if new_words:
+        # 最終的なデータを書き出し
+        # 既存データを再更新（ループ中の変更を反映）
+        current_list = get_existing_data()
+        for nw in new_words:
+            current_list = [w for w in current_list if w.get("id") != nw.get("id")]
+            current_list.append(nw)
+            
+        json_str = json.dumps(current_list, indent=8, ensure_ascii=False)
+        with open(DATA_JS_PATH, 'w', encoding='utf-8') as f:
+            f.write(f"const WORDS = {json_str};\n")
+        print(f"Successfully added {success_count} words to Archive.")
 
     print(f"\n--- Batch Process Finished ---")
     print(f"Processed: {success_count} words")

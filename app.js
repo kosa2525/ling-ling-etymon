@@ -513,9 +513,9 @@ function updateArchiveGrid() {
     if (State.searchFilter) {
         const query = State.searchFilter.toLowerCase();
         list = list.filter(w =>
-            w.word.toLowerCase().includes(query) ||
+            (w.word && w.word.toLowerCase().includes(query)) ||
             (w.meaning && w.meaning.toLowerCase().includes(query)) ||
-            w.etymology.breakdown.some(b => b.text.toLowerCase().includes(query))
+            (w.etymology && w.etymology.breakdown && Array.isArray(w.etymology.breakdown) && w.etymology.breakdown.some(b => b.text && b.text.toLowerCase().includes(query)))
         );
     } else if (State.letterFilter) {
         list = list.filter(w => w.word.toUpperCase().startsWith(State.letterFilter));
@@ -937,6 +937,7 @@ async function renderWordNetwork(mode = 'global') {
                 <div style="display:flex; align-items:center; gap:8px;"><span style="width:12px; height:12px; background:#3b82f6; border-radius:50%; display:inline-block;"></span> 🔵 Word (Click to view)</div>
                 <div style="display:flex; align-items:center; gap:8px;"><span style="width:12px; height:12px; background:#f59e0b; border-radius:50%; display:inline-block;"></span> 🟡 Root (Click to search)</div>
                 <div style="display:flex; align-items:center; gap:8px;"><span style="width:12px; height:12px; background:#10b981; border-radius:50%; display:inline-block;"></span> 🟢 Prefix (Click to search)</div>
+                <div style="display:flex; align-items:center; gap:8px;"><span style="width:12px; height:12px; background:#ef4444; border-radius:50%; display:inline-block;"></span> 🔴 Suffix (Click to search)</div>
             </div>
         </div>
     `;
@@ -948,7 +949,7 @@ async function renderWordNetwork(mode = 'global') {
     const container = document.getElementById('network-graph');
     const nodes = new vis.DataSet(data.nodes.map(n => ({
         ...n,
-        color: n.group === 'root' ? '#f59e0b' : (n.group === 'prefix' ? '#10b981' : '#3b82f6'),
+        color: n.group === 'root' ? '#f59e0b' : (n.group === 'prefix' ? '#10b981' : (n.group === 'suffix' ? '#ef4444' : '#3b82f6')),
         font: { color: '#ffffff', size: 14, strokeWidth: 2, strokeColor: '#000000' },
         shape: 'dot',
         size: n.group === 'word' ? 15 : 25
@@ -963,7 +964,7 @@ async function renderWordNetwork(mode = 'global') {
         if (params.nodes.length > 0) {
             const nodeId = params.nodes[0];
             const nodeData = nodes.get(nodeId);
-            if (nodeData && (nodeData.group === 'root' || nodeData.group === 'prefix')) {
+            if (nodeData && (nodeData.group === 'root' || nodeData.group === 'prefix' || nodeData.group === 'suffix')) {
                 searchToArchive(nodeData.label);
             } else {
                 const word = (typeof WORDS !== 'undefined') ? WORDS.find(w => w.word === nodeId) : null;

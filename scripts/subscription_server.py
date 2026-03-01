@@ -746,7 +746,7 @@ def get_word_network():
         for w in words:
             for b in w.get('etymology', {}).get('breakdown', []):
                 b_type = b.get('type', '').lower()
-                if 'root' in b_type or 'prefix' in b_type:
+                if 'root' in b_type or 'prefix' in b_type or 'suffix' in b_type:
                     root_text = b.get('text', '').lower().replace('-', '').strip()
                     if not root_text: continue
                     if root_text not in root_map: root_map[root_text] = []
@@ -754,6 +754,8 @@ def get_word_network():
                     
                     if 'prefix' in b_type:
                         type_map[root_text] = 'prefix'
+                    elif 'suffix' in b_type:
+                        type_map[root_text] = 'suffix'
                     elif 'root' in b_type and root_text not in type_map:
                         type_map[root_text] = 'root'
         
