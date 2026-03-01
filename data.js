@@ -31266,5 +31266,103 @@ const WORDS = [
                 "source": "The Oxford English Dictionary",
                 "date": "2026-03-01",
                 "era": "14th Century"
+        },
+        {
+                "id": "ponder",
+                "word": "Ponder",
+                "part_of_speech": "verb",
+                "meaning": "よく考える、熟考する",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "ponderare",
+                                        "type": "root",
+                                        "meaning": "考える",
+                                        "lang": "ラテン語"
+                                },
+                                {
+                                        "text": "pondus",
+                                        "type": "root",
+                                        "meaning": "重み",
+                                        "lang": "ラテン語"
+                                }
+                        ],
+                        "original_statement": "Derived from Latin 'ponderare', meaning to weigh or consider."
+                },
+                "core_concept": {
+                        "en": "The profound act of weighing thoughts.",
+                        "ja": "考えを重ねる深遠な行為"
+                },
+                "thinking_layer": "思考とは、川面に映る月の如く、一瞬の光を内面の暗闇に映し出す行為である。心の秤に重きを置きながら、人は言葉にならないものを追い求める。この『ponder』は心の中の静けさに舟を浮かべ、見えない岸辺を求めて漂う姿勢を象徴する。無数の選択肢の間で揺れ動き、曖昧な未来に小さな石を投げ、一つ一つの波紋を静かに見守る。思索は、深い森の中で木漏れ日に照らされた道を歩むように、見えない側面に光を当てることで新たな景色を浮かび上がらせる。この過程は、感覚を超えた知恵への道標ともなり、存在の真髄に迫る大いなる旅の始まりである。",
+                "synonyms": [
+                        "contemplate",
+                        "reflect"
+                ],
+                "antonyms": [
+                        "ignore",
+                        "neglect"
+                ],
+                "aftertaste": "In the balance of thoughts lies the soul's deepest inquiry.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "ponderare",
+                                        "meaning": "to weigh"
+                                }
+                        ],
+                        "points": [
+                                "この言葉は、物理的な重さだけでなく精神的な重みを量る行為に由来する。古代ローマの公正なる思考の象徴として、現代にも強くその影響を残している。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "Late Middle English, 14th Century"
+        },
+        {
+                "id": "gallop",
+                "word": "Gallop",
+                "part_of_speech": "noun/verb",
+                "meaning": "疾走、駆け足",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "galope",
+                                        "type": "root",
+                                        "meaning": "駆け足",
+                                        "lang": "中英語"
+                                }
+                        ],
+                        "original_statement": "The word 'gallop' originates from the Old French 'galoper', which refers to the fast running of a horse. It was then integrated into Middle English as 'galope'."
+                },
+                "core_concept": {
+                        "en": "The rhythmic thunder of freedom's stride.",
+                        "ja": "自由の勢いある歩みのリズム"
+                },
+                "thinking_layer": "疾走という概念は、時間と空間を超越した魂の表現である。速度を上げて風と一体化し、大地の鼓動と共鳴する瞬間は、自己を忘れて全てと繋がる体験だ。疾走はまた、人の内なる欲望と恐怖を映し出す鏡であり、一瞬先の未来が見えるかのような、一歩一歩を躍動的に進む流れがある。この動きの中で、自由を求める叫びと共に、人はしばしば限界を挑む。限界を超えるこそが真の疾走であり、それが到達可能であればこそ、疾走は無限の追求へと変わる。まるで地平線に向かい続ける勇敢なる馬のように、疾走は生きることのメタファーであり、自己を発見し、内なる真実へと迫る旅である。",
+                "synonyms": [
+                        "dash",
+                        "sprint"
+                ],
+                "antonyms": [
+                        "crawl",
+                        "stroll"
+                ],
+                "aftertaste": "To gallop is to fly on land, a dance of speed and spirit.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "galoper",
+                                        "meaning": "to run, to leap"
+                                }
+                        ],
+                        "points": [
+                                "『galoper』という中英語の語根には、速度と動作の融合が感じられる。それは動きが生命の活力を持つことを示し、まるで時間の中での急速な変化や進化を象徴すると解釈することができる。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "Late Middle Ages, 13th Century"
         }
 ];
