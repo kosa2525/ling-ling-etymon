@@ -48,88 +48,88 @@ def init_db():
     conn = get_db_connection()
     try:
         with conn:
-            with conn.cursor() as cur:
-                if DATABASE_URL:
-                    cur.execute('''CREATE TABLE IF NOT EXISTS users 
-                                    (username TEXT PRIMARY KEY, password TEXT, is_premium BOOLEAN DEFAULT FALSE, is_operator BOOLEAN DEFAULT FALSE)''')
-                    cur.execute('''CREATE TABLE IF NOT EXISTS reflections 
-                                    (id SERIAL PRIMARY KEY, word_id TEXT, username TEXT, content TEXT, date TEXT, is_deleted BOOLEAN DEFAULT FALSE)''')
-                    cur.execute('''CREATE TABLE IF NOT EXISTS replies 
-                                    (id SERIAL PRIMARY KEY, reflection_id INTEGER, username TEXT, content TEXT, date TEXT, is_deleted BOOLEAN DEFAULT FALSE)''')
-                    cur.execute('''CREATE TABLE IF NOT EXISTS reports 
-                                    (id SERIAL PRIMARY KEY, reporter TEXT, target_username TEXT, target_type TEXT, target_id INTEGER, reason TEXT, date TEXT, status TEXT DEFAULT 'pending')''')
-                    cur.execute('''CREATE TABLE IF NOT EXISTS blocks 
-                                    (blocker TEXT, blocked TEXT, PRIMARY KEY (blocker, blocked))''')
-                    cur.execute('''CREATE TABLE IF NOT EXISTS hidden_items 
-                                    (username TEXT, target_type TEXT, target_id INTEGER, PRIMARY KEY (username, target_type, target_id))''')
-                    cur.execute('''CREATE TABLE IF NOT EXISTS follows 
-                                    (follower TEXT, followed TEXT, PRIMARY KEY (follower, followed))''')
-                    cur.execute('''CREATE TABLE IF NOT EXISTS notifications 
-                                    (id SERIAL PRIMARY KEY, username TEXT, type TEXT, message TEXT, link TEXT, date TEXT, is_read BOOLEAN DEFAULT FALSE)''')
-                    cur.execute('''CREATE TABLE IF NOT EXISTS user_essays 
-                                    (id SERIAL PRIMARY KEY, title TEXT, content TEXT, author TEXT, date TEXT, is_deleted BOOLEAN DEFAULT FALSE)''')
-                    cur.execute('''CREATE TABLE IF NOT EXISTS flourishes
-                                    (id SERIAL PRIMARY KEY, username TEXT, target_type TEXT, target_id TEXT,
-                                     UNIQUE(username, target_type, target_id))''')
-                else:
-                    cur.execute('''CREATE TABLE IF NOT EXISTS users 
-                                    (username TEXT PRIMARY KEY, password TEXT, is_premium BOOLEAN DEFAULT 0, is_operator BOOLEAN DEFAULT 0)''')
-                    cur.execute('''CREATE TABLE IF NOT EXISTS reflections 
-                                    (id INTEGER PRIMARY KEY AUTOINCREMENT, word_id TEXT, username TEXT, content TEXT, date TEXT, is_deleted INTEGER DEFAULT 0)''')
-                    cur.execute('''CREATE TABLE IF NOT EXISTS replies 
-                                    (id INTEGER PRIMARY KEY AUTOINCREMENT, reflection_id INTEGER, username TEXT, content TEXT, date TEXT, is_deleted INTEGER DEFAULT 0)''')
-                    cur.execute('''CREATE TABLE IF NOT EXISTS reports 
-                                    (id INTEGER PRIMARY KEY AUTOINCREMENT, reporter TEXT, target_username TEXT, target_type TEXT, target_id INTEGER, reason TEXT, date TEXT, status TEXT DEFAULT 'pending')''')
-                    cur.execute('''CREATE TABLE IF NOT EXISTS blocks 
-                                    (blocker TEXT, blocked TEXT, PRIMARY KEY (blocker, blocked))''')
-                    cur.execute('''CREATE TABLE IF NOT EXISTS hidden_items 
-                                    (username TEXT, target_type TEXT, target_id INTEGER, PRIMARY KEY (username, target_type, target_id))''')
-                    cur.execute('''CREATE TABLE IF NOT EXISTS follows 
-                                    (follower TEXT, followed TEXT, PRIMARY KEY (follower, followed))''')
-                    cur.execute('''CREATE TABLE IF NOT EXISTS notifications 
-                                    (id INTEGER PRIMARY KEY AUTOINCREMENT, username TEXT, type TEXT, message TEXT, link TEXT, date TEXT, is_read INTEGER DEFAULT 0)''')
-                    cur.execute('''CREATE TABLE IF NOT EXISTS user_essays 
-                                    (id INTEGER PRIMARY KEY AUTOINCREMENT, title TEXT, content TEXT, author TEXT, date TEXT, is_deleted INTEGER DEFAULT 0)''')
-                    cur.execute('''CREATE TABLE IF NOT EXISTS flourishes
-                                    (id INTEGER PRIMARY KEY AUTOINCREMENT, username TEXT, target_type TEXT, target_id TEXT,
-                                     UNIQUE(username, target_type, target_id))''')
+            cur = conn.cursor()
+            if DATABASE_URL:
+                cur.execute('''CREATE TABLE IF NOT EXISTS users 
+                                (username TEXT PRIMARY KEY, password TEXT, is_premium BOOLEAN DEFAULT FALSE, is_operator BOOLEAN DEFAULT FALSE)''')
+                cur.execute('''CREATE TABLE IF NOT EXISTS reflections 
+                                (id SERIAL PRIMARY KEY, word_id TEXT, username TEXT, content TEXT, date TEXT, is_deleted BOOLEAN DEFAULT FALSE)''')
+                cur.execute('''CREATE TABLE IF NOT EXISTS replies 
+                                (id SERIAL PRIMARY KEY, reflection_id INTEGER, username TEXT, content TEXT, date TEXT, is_deleted BOOLEAN DEFAULT FALSE)''')
+                cur.execute('''CREATE TABLE IF NOT EXISTS reports 
+                                (id SERIAL PRIMARY KEY, reporter TEXT, target_username TEXT, target_type TEXT, target_id INTEGER, reason TEXT, date TEXT, status TEXT DEFAULT 'pending')''')
+                cur.execute('''CREATE TABLE IF NOT EXISTS blocks 
+                                (blocker TEXT, blocked TEXT, PRIMARY KEY (blocker, blocked))''')
+                cur.execute('''CREATE TABLE IF NOT EXISTS hidden_items 
+                                (username TEXT, target_type TEXT, target_id INTEGER, PRIMARY KEY (username, target_type, target_id))''')
+                cur.execute('''CREATE TABLE IF NOT EXISTS follows 
+                                (follower TEXT, followed TEXT, PRIMARY KEY (follower, followed))''')
+                cur.execute('''CREATE TABLE IF NOT EXISTS notifications 
+                                (id SERIAL PRIMARY KEY, username TEXT, type TEXT, message TEXT, link TEXT, date TEXT, is_read BOOLEAN DEFAULT FALSE)''')
+                cur.execute('''CREATE TABLE IF NOT EXISTS user_essays 
+                                (id SERIAL PRIMARY KEY, title TEXT, content TEXT, author TEXT, date TEXT, is_deleted BOOLEAN DEFAULT FALSE)''')
+                cur.execute('''CREATE TABLE IF NOT EXISTS flourishes
+                                (id SERIAL PRIMARY KEY, username TEXT, target_type TEXT, target_id TEXT,
+                                 UNIQUE(username, target_type, target_id))''')
+            else:
+                cur.execute('''CREATE TABLE IF NOT EXISTS users 
+                                (username TEXT PRIMARY KEY, password TEXT, is_premium BOOLEAN DEFAULT 0, is_operator BOOLEAN DEFAULT 0)''')
+                cur.execute('''CREATE TABLE IF NOT EXISTS reflections 
+                                (id INTEGER PRIMARY KEY AUTOINCREMENT, word_id TEXT, username TEXT, content TEXT, date TEXT, is_deleted INTEGER DEFAULT 0)''')
+                cur.execute('''CREATE TABLE IF NOT EXISTS replies 
+                                (id INTEGER PRIMARY KEY AUTOINCREMENT, reflection_id INTEGER, username TEXT, content TEXT, date TEXT, is_deleted INTEGER DEFAULT 0)''')
+                cur.execute('''CREATE TABLE IF NOT EXISTS reports 
+                                (id INTEGER PRIMARY KEY AUTOINCREMENT, reporter TEXT, target_username TEXT, target_type TEXT, target_id INTEGER, reason TEXT, date TEXT, status TEXT DEFAULT 'pending')''')
+                cur.execute('''CREATE TABLE IF NOT EXISTS blocks 
+                                (blocker TEXT, blocked TEXT, PRIMARY KEY (blocker, blocked))''')
+                cur.execute('''CREATE TABLE IF NOT EXISTS hidden_items 
+                                (username TEXT, target_type TEXT, target_id INTEGER, PRIMARY KEY (username, target_type, target_id))''')
+                cur.execute('''CREATE TABLE IF NOT EXISTS follows 
+                                (follower TEXT, followed TEXT, PRIMARY KEY (follower, followed))''')
+                cur.execute('''CREATE TABLE IF NOT EXISTS notifications 
+                                (id INTEGER PRIMARY KEY AUTOINCREMENT, username TEXT, type TEXT, message TEXT, link TEXT, date TEXT, is_read INTEGER DEFAULT 0)''')
+                cur.execute('''CREATE TABLE IF NOT EXISTS user_essays 
+                                (id INTEGER PRIMARY KEY AUTOINCREMENT, title TEXT, content TEXT, author TEXT, date TEXT, is_deleted INTEGER DEFAULT 0)''')
+                cur.execute('''CREATE TABLE IF NOT EXISTS flourishes
+                                (id INTEGER PRIMARY KEY AUTOINCREMENT, username TEXT, target_type TEXT, target_id TEXT,
+                                 UNIQUE(username, target_type, target_id))''')
+            
+            # スキーマの自動アップグレード（カラムが足りない場合に追加）
+            if DATABASE_URL:
+                cur.execute("SELECT column_name FROM information_schema.columns WHERE table_name='users'")
+                columns = [row[0] for row in cur.fetchall()]
+                if 'is_operator' not in columns:
+                    cur.execute("ALTER TABLE users ADD COLUMN is_operator BOOLEAN DEFAULT FALSE")
+                if 'is_premium' not in columns:
+                    cur.execute("ALTER TABLE users ADD COLUMN is_premium BOOLEAN DEFAULT FALSE")
                 
-                # スキーマの自動アップグレード（カラムが足りない場合に追加）
-                if DATABASE_URL:
-                    cur.execute("SELECT column_name FROM information_schema.columns WHERE table_name='users'")
-                    columns = [row[0] for row in cur.fetchall()]
-                    if 'is_operator' not in columns:
-                        cur.execute("ALTER TABLE users ADD COLUMN is_operator BOOLEAN DEFAULT FALSE")
-                    if 'is_premium' not in columns:
-                        cur.execute("ALTER TABLE users ADD COLUMN is_premium BOOLEAN DEFAULT FALSE")
+                # Reflections migration (more robust)
+                cur.execute("SELECT count(*) FROM information_schema.columns WHERE table_name='reflections' AND column_name='is_deleted'")
+                if cur.fetchone()[0] == 0:
+                    cur.execute("ALTER TABLE reflections ADD COLUMN is_deleted BOOLEAN DEFAULT FALSE")
                     
-                    # Reflections migration (more robust)
-                    cur.execute("SELECT count(*) FROM information_schema.columns WHERE table_name='reflections' AND column_name='is_deleted'")
-                    if cur.fetchone()[0] == 0:
-                        cur.execute("ALTER TABLE reflections ADD COLUMN is_deleted BOOLEAN DEFAULT FALSE")
-                        
-                    # Replies migration (more robust)
-                    cur.execute("SELECT count(*) FROM information_schema.columns WHERE table_name='replies' AND column_name='is_deleted'")
-                    if cur.fetchone()[0] == 0:
-                        cur.execute("ALTER TABLE replies ADD COLUMN is_deleted BOOLEAN DEFAULT FALSE")
-                else:
-                    cur.execute("PRAGMA table_info(users)")
-                    columns = [row[1] for row in cur.fetchall()]
-                    if 'is_operator' not in columns:
-                        cur.execute("ALTER TABLE users ADD COLUMN is_operator INTEGER DEFAULT 0")
-                    if 'is_premium' not in columns:
-                        cur.execute("ALTER TABLE users ADD COLUMN is_premium INTEGER DEFAULT 0")
-                    
-                    # SQLite migration
-                    cur.execute("PRAGMA table_info(reflections)")
-                    cols_ref = [row[1] for row in cur.fetchall()]
-                    if 'is_deleted' not in cols_ref:
-                        cur.execute("ALTER TABLE reflections ADD COLUMN is_deleted INTEGER DEFAULT 0")
-                    
-                    cur.execute("PRAGMA table_info(replies)")
-                    cols_rep = [row[1] for row in cur.fetchall()]
-                    if 'is_deleted' not in cols_rep:
-                        cur.execute("ALTER TABLE replies ADD COLUMN is_deleted INTEGER DEFAULT 0")
+                # Replies migration (more robust)
+                cur.execute("SELECT count(*) FROM information_schema.columns WHERE table_name='replies' AND column_name='is_deleted'")
+                if cur.fetchone()[0] == 0:
+                    cur.execute("ALTER TABLE replies ADD COLUMN is_deleted BOOLEAN DEFAULT FALSE")
+            else:
+                cur.execute("PRAGMA table_info(users)")
+                columns = [row[1] for row in cur.fetchall()]
+                if 'is_operator' not in columns:
+                    cur.execute("ALTER TABLE users ADD COLUMN is_operator INTEGER DEFAULT 0")
+                if 'is_premium' not in columns:
+                    cur.execute("ALTER TABLE users ADD COLUMN is_premium INTEGER DEFAULT 0")
+                
+                # SQLite migration
+                cur.execute("PRAGMA table_info(reflections)")
+                cols_ref = [row[1] for row in cur.fetchall()]
+                if 'is_deleted' not in cols_ref:
+                    cur.execute("ALTER TABLE reflections ADD COLUMN is_deleted INTEGER DEFAULT 0")
+                
+                cur.execute("PRAGMA table_info(replies)")
+                cols_rep = [row[1] for row in cur.fetchall()]
+                if 'is_deleted' not in cols_rep:
+                    cur.execute("ALTER TABLE replies ADD COLUMN is_deleted INTEGER DEFAULT 0")
 
     finally:
         conn.close()
@@ -145,9 +145,9 @@ def is_operator(username):
     conn = get_db_connection()
     p = get_placeholder()
     with conn:
-        with conn.cursor() as cur:
-            cur.execute(f"SELECT is_operator FROM users WHERE username={p}", (username,))
-            res = cur.fetchone()
+        cur = conn.cursor()
+        cur.execute(f"SELECT is_operator FROM users WHERE username={p}", (username,))
+        res = cur.fetchone()
     conn.close()
     return bool(res[0]) if res else False
 
@@ -160,11 +160,11 @@ def add_notification(username, notif_type, message, link=''):
         p = get_placeholder()
         today = datetime.date.today().isoformat()
         with conn:
-            with conn.cursor() as cur:
-                cur.execute(
-                    f"INSERT INTO notifications (username, type, message, link, date) VALUES ({p},{p},{p},{p},{p})",
-                    (username, notif_type, message, link, today)
-                )
+            cur = conn.cursor()
+            cur.execute(
+                f"INSERT INTO notifications (username, type, message, link, date) VALUES ({p},{p},{p},{p},{p})",
+                (username, notif_type, message, link, today)
+            )
         conn.close()
     except Exception as e:
         print(f"Notification error: {e}")
@@ -185,56 +185,56 @@ def toggle_flourish():
     p = get_placeholder()
     try:
         with conn:
-            with conn.cursor() as cur:
-                # 既にflourish済みか確認
+            cur = conn.cursor()
+            # 既にflourish済みか確認
+            cur.execute(
+                f"SELECT id FROM flourishes WHERE username={p} AND target_type={p} AND target_id={p}",
+                (username, target_type, target_id)
+            )
+            existing = cur.fetchone()
+
+            if existing:
+                # 取り消し
                 cur.execute(
-                    f"SELECT id FROM flourishes WHERE username={p} AND target_type={p} AND target_id={p}",
+                    f"DELETE FROM flourishes WHERE username={p} AND target_type={p} AND target_id={p}",
                     (username, target_type, target_id)
                 )
-                existing = cur.fetchone()
-
-                if existing:
-                    # 取り消し
-                    cur.execute(
-                        f"DELETE FROM flourishes WHERE username={p} AND target_type={p} AND target_id={p}",
-                        (username, target_type, target_id)
-                    )
-                    action = 'removed'
-                else:
-                    # 追加
-                    cur.execute(
-                        f"INSERT INTO flourishes (username, target_type, target_id) VALUES ({p},{p},{p})",
-                        (username, target_type, target_id)
-                    )
-                    action = 'added'
-
-                    # 投稿者に通知（自分自身には送らない）
-                    author_to_notify = None
-                    if target_type == 'reflection':
-                        cur.execute(f"SELECT username FROM reflections WHERE id={p}", (target_id,))
-                        row = cur.fetchone()
-                        if row: author_to_notify = row[0]
-                    elif target_type == 'essay':
-                        cur.execute(f"SELECT author FROM user_essays WHERE id={p}", (target_id,))
-                        row = cur.fetchone()
-                        if row: author_to_notify = row[0]
-                    elif target_type == 'word':
-                        author_to_notify = target_author
-                        
-                    if author_to_notify and author_to_notify != username:
-                        add_notification(
-                            author_to_notify,
-                            'flourish',
-                            f'{username} があなたの投稿を繁栄させました ✦',
-                            ''
-                        )
-
-                # カウントを返す
+                action = 'removed'
+            else:
+                # 追加
                 cur.execute(
-                    f"SELECT COUNT(*) FROM flourishes WHERE target_type={p} AND target_id={p}",
-                    (target_type, target_id)
+                    f"INSERT INTO flourishes (username, target_type, target_id) VALUES ({p},{p},{p})",
+                    (username, target_type, target_id)
                 )
-                count = cur.fetchone()[0]
+                action = 'added'
+
+                # 投稿者に通知（自分自身には送らない）
+                author_to_notify = None
+                if target_type == 'reflection':
+                    cur.execute(f"SELECT username FROM reflections WHERE id={p}", (target_id,))
+                    row = cur.fetchone()
+                    if row: author_to_notify = row[0]
+                elif target_type == 'essay':
+                    cur.execute(f"SELECT author FROM user_essays WHERE id={p}", (target_id,))
+                    row = cur.fetchone()
+                    if row: author_to_notify = row[0]
+                elif target_type == 'word':
+                    author_to_notify = target_author
+                    
+                if author_to_notify and author_to_notify != username:
+                    add_notification(
+                        author_to_notify,
+                        'flourish',
+                        f'{username} があなたの投稿を繁栄させました ✦',
+                        ''
+                    )
+
+            # カウントを返す
+            cur.execute(
+                f"SELECT COUNT(*) FROM flourishes WHERE target_type={p} AND target_id={p}",
+                (target_type, target_id)
+            )
+            count = cur.fetchone()[0]
 
         return jsonify(status='success', action=action, count=count)
     except Exception as e:
@@ -254,20 +254,20 @@ def get_flourish_count():
     p = get_placeholder()
     try:
         with conn:
-            with conn.cursor() as cur:
-                cur.execute(
-                    f"SELECT COUNT(*) FROM flourishes WHERE target_type={p} AND target_id={p}",
-                    (target_type, target_id)
-                )
-                count = cur.fetchone()[0]
+            cur = conn.cursor()
+            cur.execute(
+                f"SELECT COUNT(*) FROM flourishes WHERE target_type={p} AND target_id={p}",
+                (target_type, target_id)
+            )
+            count = cur.fetchone()[0]
 
-                flourished = False
-                if username:
-                    cur.execute(
-                        f"SELECT id FROM flourishes WHERE username={p} AND target_type={p} AND target_id={p}",
-                        (username, target_type, target_id)
-                    )
-                    flourished = bool(cur.fetchone())
+            flourished = False
+            if username:
+                cur.execute(
+                    f"SELECT id FROM flourishes WHERE username={p} AND target_type={p} AND target_id={p}",
+                    (username, target_type, target_id)
+                )
+                flourished = bool(cur.fetchone())
 
         return jsonify(count=count, flourished=flourished)
     except Exception as e:
@@ -286,13 +286,13 @@ def delete_account():
     p = get_placeholder()
     try:
         with conn:
-            with conn.cursor() as cur:
-                cur.execute(f"SELECT password FROM users WHERE username={p}", (username,))
-                user = cur.fetchone()
-                if user and check_password_hash(user[0], password):
-                    cur.execute(f"DELETE FROM users WHERE username={p}", (username,))
-                    # 関連データも消す場合はここで追加
-                    return jsonify(status="success")
+            cur = conn.cursor()
+            cur.execute(f"SELECT password FROM users WHERE username={p}", (username,))
+            user = cur.fetchone()
+            if user and check_password_hash(user[0], password):
+                cur.execute(f"DELETE FROM users WHERE username={p}", (username,))
+                # 関連データも消す場合はここで追加
+                return jsonify(status="success")
     finally:
         conn.close()
     return jsonify(status="error", message="認証に失敗しました"), 401
@@ -303,9 +303,9 @@ def report_item():
     conn = get_db_connection()
     p = get_placeholder()
     with conn:
-        with conn.cursor() as cur:
-            cur.execute(f"INSERT INTO reports (reporter, target_username, target_type, target_id, reason, date, status) VALUES ({p}, {p}, {p}, {p}, {p}, {p}, {p})",
-                         (data['reporter'], data['target_username'], data['target_type'], data['target_id'], data['reason'], datetime.datetime.now().strftime("%Y-%m-%d %H:%M"), 'pending'))
+        cur = conn.cursor()
+        cur.execute(f"INSERT INTO reports (reporter, target_username, target_type, target_id, reason, date, status) VALUES ({p}, {p}, {p}, {p}, {p}, {p}, {p})",
+                     (data['reporter'], data['target_username'], data['target_type'], data['target_id'], data['reason'], datetime.datetime.now().strftime("%Y-%m-%d %H:%M"), 'pending'))
     conn.close()
     return jsonify(status="success")
 
@@ -316,9 +316,9 @@ def block_user():
     p = get_placeholder()
     try:
         with conn:
-            with conn.cursor() as cur:
-                cur.execute(f"INSERT INTO blocks (blocker, blocked) VALUES ({p}, {p})",
-                             (data['blocker'], data['blocked']))
+            cur = conn.cursor()
+            cur.execute(f"INSERT INTO blocks (blocker, blocked) VALUES ({p}, {p})",
+                         (data['blocker'], data['blocked']))
     except:
         pass # 既にブロック済み
     finally:
@@ -332,9 +332,9 @@ def hide_item():
     p = get_placeholder()
     try:
         with conn:
-            with conn.cursor() as cur:
-                cur.execute(f"INSERT INTO hidden_items (username, target_type, target_id) VALUES ({p}, {p}, {p})",
-                             (data['username'], data['target_type'], data['target_id']))
+            cur = conn.cursor()
+            cur.execute(f"INSERT INTO hidden_items (username, target_type, target_id) VALUES ({p}, {p}, {p})",
+                         (data['username'], data['target_type'], data['target_id']))
     except:
         pass
     finally:
@@ -347,10 +347,10 @@ def get_blocked_users():
     conn = get_db_connection()
     p = get_placeholder()
     with conn:
-        with conn.cursor() as cur:
-            cur.execute(f"SELECT blocked FROM blocks WHERE blocker={p}", (username,))
-            res = cur.fetchall()
-            return jsonify([row[0] for row in res])
+        cur = conn.cursor()
+        cur.execute(f"SELECT blocked FROM blocks WHERE blocker={p}", (username,))
+        res = cur.fetchall()
+        return jsonify([row[0] for row in res])
 
 @app.route('/api/unblock', methods=['POST'])
 def unblock_user():
@@ -358,8 +358,8 @@ def unblock_user():
     conn = get_db_connection()
     p = get_placeholder()
     with conn:
-        with conn.cursor() as cur:
-            cur.execute(f"DELETE FROM blocks WHERE blocker={p} AND blocked={p}", (data['blocker'], data['blocked']))
+        cur = conn.cursor()
+        cur.execute(f"DELETE FROM blocks WHERE blocker={p} AND blocked={p}", (data['blocker'], data['blocked']))
     conn.close()
     return jsonify(status="success")
 
@@ -369,10 +369,10 @@ def get_hidden_items():
     conn = get_db_connection()
     p = get_placeholder()
     with conn:
-        with conn.cursor() as cur:
-            cur.execute(f"SELECT target_type, target_id FROM hidden_items WHERE username={p}", (username,))
-            res = cur.fetchall()
-            return jsonify([{"type": row[0], "id": row[1]} for row in res])
+        cur = conn.cursor()
+        cur.execute(f"SELECT target_type, target_id FROM hidden_items WHERE username={p}", (username,))
+        res = cur.fetchall()
+        return jsonify([{"type": row[0], "id": row[1]} for row in res])
 
 @app.route('/api/unhide', methods=['POST'])
 def unhide_item():
@@ -380,8 +380,8 @@ def unhide_item():
     conn = get_db_connection()
     p = get_placeholder()
     with conn:
-        with conn.cursor() as cur:
-            cur.execute(f"DELETE FROM hidden_items WHERE username={p} AND target_type={p} AND target_id={p}", (data['username'], data['target_type'], data['target_id']))
+        cur = conn.cursor()
+        cur.execute(f"DELETE FROM hidden_items WHERE username={p} AND target_type={p} AND target_id={p}", (data['username'], data['target_type'], data['target_id']))
     conn.close()
     return jsonify(status="success")
 
@@ -392,10 +392,10 @@ def follow_user():
     p = get_placeholder()
     try:
         with conn:
-            with conn.cursor() as cur:
-                cur.execute(f"INSERT INTO follows (follower, followed) VALUES ({p}, {p})", (data['follower'], data['followed']))
-                # 通知を追加
-                add_notification(data['followed'], 'follow', f"{data['follower']}さんがあなたをフォローしました。", f"/profile/{data['follower']}")
+            cur = conn.cursor()
+            cur.execute(f"INSERT INTO follows (follower, followed) VALUES ({p}, {p})", (data['follower'], data['followed']))
+            # 通知を追加
+            add_notification(data['followed'], 'follow', f"{data['follower']}さんがあなたをフォローしました。", f"/profile/{data['follower']}")
     except Exception as e:
         print(f"Follow error: {e}")
     conn.close()
@@ -407,8 +407,8 @@ def unfollow_user():
     conn = get_db_connection()
     p = get_placeholder()
     with conn:
-        with conn.cursor() as cur:
-            cur.execute(f"DELETE FROM follows WHERE follower={p} AND followed={p}", (data['follower'], data['followed']))
+        cur = conn.cursor()
+        cur.execute(f"DELETE FROM follows WHERE follower={p} AND followed={p}", (data['follower'], data['followed']))
     conn.close()
     return jsonify(status="success")
 
@@ -418,29 +418,29 @@ def get_follows():
     conn = get_db_connection()
     p = get_placeholder()
     with conn:
-        with conn.cursor() as cur:
-            cur.execute(f"SELECT followed FROM follows WHERE follower={p}", (username,))
-            res = cur.fetchall()
-            return jsonify([row[0] for row in res])
+        cur = conn.cursor()
+        cur.execute(f"SELECT followed FROM follows WHERE follower={p}", (username,))
+        res = cur.fetchall()
+        return jsonify([row[0] for row in res])
 
 def add_notification(username, n_type, message, link):
     conn = get_db_connection()
     p = get_placeholder()
     with conn:
-        with conn.cursor() as cur:
-            cur.execute(f"INSERT INTO notifications (username, type, message, link, date, is_read) VALUES ({p}, {p}, {p}, {p}, {p}, {p})",
-                         (username, n_type, message, link, datetime.datetime.now().strftime("%Y-%m-%d %H:%M"), False if DATABASE_URL else 0))
+        cur = conn.cursor()
+        cur.execute(f"INSERT INTO notifications (username, type, message, link, date, is_read) VALUES ({p}, {p}, {p}, {p}, {p}, {p})",
+                     (username, n_type, message, link, datetime.datetime.now().strftime("%Y-%m-%d %H:%M"), False if DATABASE_URL else 0))
     conn.close()
 
 def notify_followers(followed_user, message, link):
     conn = get_db_connection()
     p = get_placeholder()
     with conn:
-        with conn.cursor() as cur:
-            cur.execute(f"SELECT follower FROM follows WHERE followed={p}", (followed_user,))
-            followers = cur.fetchall()
-            for f in followers:
-                add_notification(f[0], 'new_post', message, link)
+        cur = conn.cursor()
+        cur.execute(f"SELECT follower FROM follows WHERE followed={p}", (followed_user,))
+        followers = cur.fetchall()
+        for f in followers:
+            add_notification(f[0], 'new_post', message, link)
     conn.close()
 
 @app.route('/api/notifications', methods=['GET'])
@@ -449,10 +449,10 @@ def get_notifications():
     conn = get_db_connection()
     p = get_placeholder()
     with conn:
-        with conn.cursor() as cur:
-            cur.execute(f"SELECT id, type, message, link, date, is_read FROM notifications WHERE username={p} ORDER BY date DESC LIMIT 20", (username,))
-            res = cur.fetchall()
-            return jsonify([{"id":r[0], "type":r[1], "message":r[2], "link":r[3], "date":r[4], "is_read":bool(r[5])} for r in res])
+        cur = conn.cursor()
+        cur.execute(f"SELECT id, type, message, link, date, is_read FROM notifications WHERE username={p} ORDER BY date DESC LIMIT 20", (username,))
+        res = cur.fetchall()
+        return jsonify([{"id":r[0], "type":r[1], "message":r[2], "link":r[3], "date":r[4], "is_read":bool(r[5])} for r in res])
 
 @app.route('/api/notifications/read', methods=['POST'])
 def mark_read():
@@ -460,8 +460,8 @@ def mark_read():
     conn = get_db_connection()
     p = get_placeholder()
     with conn:
-        with conn.cursor() as cur:
-            cur.execute(f"UPDATE notifications SET is_read={p} WHERE id={p}", (True if DATABASE_URL else 1, data['id']))
+        cur = conn.cursor()
+        cur.execute(f"UPDATE notifications SET is_read={p} WHERE id={p}", (True if DATABASE_URL else 1, data['id']))
     conn.close()
     return jsonify(status="success")
 
@@ -477,16 +477,16 @@ def get_reports():
     
     conn = get_db_connection()
     with conn:
-        with conn.cursor() as cur:
-            cur.execute("SELECT * FROM reports WHERE status='pending' ORDER BY date DESC")
-            reports = cur.fetchall()
-            result = []
-            for r in reports:
-                # DBのカラムに合わせてマッピング
-                result.append({
-                    "id": r[0], "reporter": r[1], "target_username": r[2],
-                    "target_type": r[3], "target_id": r[4], "reason": r[5], "date": r[6]
-                })
+        cur = conn.cursor()
+        cur.execute("SELECT * FROM reports WHERE status='pending' ORDER BY date DESC")
+        reports = cur.fetchall()
+        result = []
+        for r in reports:
+            # DBのカラムに合わせてマッピング
+            result.append({
+                "id": r[0], "reporter": r[1], "target_username": r[2],
+                "target_type": r[3], "target_id": r[4], "reason": r[5], "date": r[6]
+            })
     conn.close()
     return jsonify(result)
 
@@ -504,11 +504,11 @@ def admin_delete_content():
     conn = get_db_connection()
     p = get_placeholder()
     with conn:
-        with conn.cursor() as cur:
-            table = "reflections" if target_type == "reflection" else "replies"
-            cur.execute(f"UPDATE {table} SET is_deleted={p} WHERE id={p}", (True, target_id))
-            if report_id:
-                cur.execute(f"UPDATE reports SET status={p} WHERE id={p}", ('resolved', report_id))
+        cur = conn.cursor()
+        table = "reflections" if target_type == "reflection" else "replies"
+        cur.execute(f"UPDATE {table} SET is_deleted={p} WHERE id={p}", (True, target_id))
+        if report_id:
+            cur.execute(f"UPDATE reports SET status={p} WHERE id={p}", ('resolved', report_id))
     conn.close()
     return jsonify(status="success")
 
@@ -546,8 +546,8 @@ def register():
         conn = get_db_connection()
         p = get_placeholder()
         with conn:
-            with conn.cursor() as cur:
-                cur.execute(f"INSERT INTO users VALUES ({p}, {p}, {p})", (username, hashed_password, False))
+            cur = conn.cursor()
+            cur.execute(f"INSERT INTO users VALUES ({p}, {p}, {p})", (username, hashed_password, False))
         conn.close()
         return jsonify(status="success")
     except Exception as e:
@@ -563,9 +563,9 @@ def login():
     conn = get_db_connection()
     p = get_placeholder()
     with conn:
-        with conn.cursor() as cur:
-            cur.execute(f"SELECT password, is_premium FROM users WHERE username={p}", (username,))
-            user = cur.fetchone()
+        cur = conn.cursor()
+        cur.execute(f"SELECT password, is_premium FROM users WHERE username={p}", (username,))
+        user = cur.fetchone()
     conn.close()
     
     if user:
@@ -576,9 +576,9 @@ def login():
             conn = get_db_connection()
             p = get_placeholder()
             with conn:
-                with conn.cursor() as cur:
-                    cur.execute(f"SELECT is_operator FROM users WHERE username={p}", (username,))
-                    res = cur.fetchone()
+                cur = conn.cursor()
+                cur.execute(f"SELECT is_operator FROM users WHERE username={p}", (username,))
+                res = cur.fetchone()
             conn.close()
             return jsonify(status="success", is_premium=bool(user[1]), is_operator=bool(res[0]) if res else False)
     
@@ -617,8 +617,8 @@ def check_subscription():
             conn = get_db_connection()
             p = get_placeholder()
             with conn:
-                with conn.cursor() as cur:
-                    cur.execute(f"UPDATE users SET is_premium={p} WHERE username={p}", (True, username))
+                cur = conn.cursor()
+                cur.execute(f"UPDATE users SET is_premium={p} WHERE username={p}", (True, username))
             conn.close()
             return jsonify(status='paid')
     except Exception as e:
@@ -672,38 +672,38 @@ def get_reflections(word_id):
     hidden_reps = []
     if current_user:
         with conn:
-            with conn.cursor() as cur:
-                cur.execute(f"SELECT blocked FROM blocks WHERE blocker={p}", (current_user,))
-                blocked_users = [row[0] for row in cur.fetchall()]
-                cur.execute(f"SELECT target_id, target_type FROM hidden_items WHERE username={p}", (current_user,))
-                for row in cur.fetchall():
-                    if row[1] == 'reflection': hidden_refs.append(row[0])
-                    else: hidden_reps.append(row[0])
+            cur = conn.cursor()
+            cur.execute(f"SELECT blocked FROM blocks WHERE blocker={p}", (current_user,))
+            blocked_users = [row[0] for row in cur.fetchall()]
+            cur.execute(f"SELECT target_id, target_type FROM hidden_items WHERE username={p}", (current_user,))
+            for row in cur.fetchall():
+                if row[1] == 'reflection': hidden_refs.append(row[0])
+                else: hidden_reps.append(row[0])
 
     with conn:
-        with conn.cursor() as cur:
-            # is_deleted が False(0) のものだけ取得
-            cur.execute(f"SELECT id, username, content, date FROM reflections WHERE word_id={p} AND (is_deleted IS NULL OR is_deleted = {p})", (word_id, False if DATABASE_URL else 0))
-            reflections = cur.fetchall()
-            result = []
-            for r in reflections:
-                # ブロックしているユーザーや非表示にした投稿を除外
-                if r[1] in blocked_users or r[0] in hidden_refs: continue
-                
-                cur.execute(f"SELECT id, username, content, date FROM replies WHERE reflection_id={p} AND (is_deleted IS NULL OR is_deleted = {p})", (r[0], False if DATABASE_URL else 0))
-                replies = cur.fetchall()
-                filtered_replies = []
-                for rep in replies:
-                    if rep[1] in blocked_users or rep[0] in hidden_reps: continue
-                    filtered_replies.append({"id": rep[0], "username": rep[1], "content": rep[2], "date": rep[3]})
+        cur = conn.cursor()
+        # is_deleted が False(0) のものだけ取得
+        cur.execute(f"SELECT id, username, content, date FROM reflections WHERE word_id={p} AND (is_deleted IS NULL OR is_deleted = {p})", (word_id, False if DATABASE_URL else 0))
+        reflections = cur.fetchall()
+        result = []
+        for r in reflections:
+            # ブロックしているユーザーや非表示にした投稿を除外
+            if r[1] in blocked_users or r[0] in hidden_refs: continue
+            
+            cur.execute(f"SELECT id, username, content, date FROM replies WHERE reflection_id={p} AND (is_deleted IS NULL OR is_deleted = {p})", (r[0], False if DATABASE_URL else 0))
+            replies = cur.fetchall()
+            filtered_replies = []
+            for rep in replies:
+                if rep[1] in blocked_users or rep[0] in hidden_reps: continue
+                filtered_replies.append({"id": rep[0], "username": rep[1], "content": rep[2], "date": rep[3]})
 
-                result.append({
-                    "id": r[0],
-                    "username": r[1],
-                    "content": r[2],
-                    "date": r[3],
-                    "replies": filtered_replies
-                })
+            result.append({
+                "id": r[0],
+                "username": r[1],
+                "content": r[2],
+                "date": r[3],
+                "replies": filtered_replies
+            })
     conn.close()
     return jsonify(result)
 
@@ -713,17 +713,17 @@ def get_user_essays():
     result = []
     try:
         with conn:
-            with conn.cursor() as cur:
-                try:
-                    if DATABASE_URL:
-                        cur.execute("SELECT id, title, content, author, date FROM user_essays WHERE is_deleted = FALSE")
-                    else:
-                        cur.execute("SELECT id, title, content, author, date FROM user_essays WHERE is_deleted = 0")
-                    rows = cur.fetchall()
-                    for r in rows:
-                        result.append({"id": f"essay_user_{r[0]}", "title": r[1], "content": r[2], "author": r[3], "date": r[4]})
-                except Exception as e:
-                    print(f"Database error in get_user_essays: {e}")
+            cur = conn.cursor()
+            try:
+                if DATABASE_URL:
+                    cur.execute("SELECT id, title, content, author, date FROM user_essays WHERE is_deleted = FALSE")
+                else:
+                    cur.execute("SELECT id, title, content, author, date FROM user_essays WHERE is_deleted = 0")
+                rows = cur.fetchall()
+                for r in rows:
+                    result.append({"id": f"essay_user_{r[0]}", "title": r[1], "content": r[2], "author": r[3], "date": r[4]})
+            except Exception as e:
+                print(f"Database error in get_user_essays: {e}")
     except Exception as e:
         print(f"Connection error in get_user_essays: {e}")
     finally:
@@ -745,21 +745,21 @@ def submit_essay():
     # 有料会員チェック
     try:
         with conn:
-            with conn.cursor() as cur:
-                cur.execute(f"SELECT is_premium FROM users WHERE username={p}", (username,))
-                user = cur.fetchone()
-                if not user or not user[0]:
-                    return jsonify(status="error", message="エッセイ投稿にはPremium会員である必要があります。"), 403
-                
-                date_str = datetime.datetime.now().strftime("%Y-%m-%d")
-                if DATABASE_URL:
-                    cur.execute(f"INSERT INTO user_essays (title, content, author, date) VALUES ({p}, {p}, {p}, {p}) RETURNING id",
-                                 (title, content, username, date_str))
-                    new_id = cur.fetchone()[0]
-                else:
-                    cur.execute(f"INSERT INTO user_essays (title, content, author, date) VALUES ({p}, {p}, {p}, {p})",
-                                 (title, content, username, date_str))
-                    new_id = cur.lastrowid
+            cur = conn.cursor()
+            cur.execute(f"SELECT is_premium FROM users WHERE username={p}", (username,))
+            user = cur.fetchone()
+            if not user or not user[0]:
+                return jsonify(status="error", message="エッセイ投稿にはPremium会員である必要があります。"), 403
+            
+            date_str = datetime.datetime.now().strftime("%Y-%m-%d")
+            if DATABASE_URL:
+                cur.execute(f"INSERT INTO user_essays (title, content, author, date) VALUES ({p}, {p}, {p}, {p}) RETURNING id",
+                             (title, content, username, date_str))
+                new_id = cur.fetchone()[0]
+            else:
+                cur.execute(f"INSERT INTO user_essays (title, content, author, date) VALUES ({p}, {p}, {p}, {p})",
+                             (title, content, username, date_str))
+                new_id = cur.lastrowid
         
         notify_followers(username, f"{username} さんが新しいエッセイを投稿しました：{title}", "essays")
         return jsonify(status="success", id=f"essay_user_{new_id}")
@@ -780,14 +780,14 @@ def post_reflection():
     conn = get_db_connection()
     p = get_placeholder()
     with conn:
-        with conn.cursor() as cur:
-            cur.execute(f"INSERT INTO reflections (word_id, username, content, date) VALUES ({p}, {p}, {p}, {p})",
-                         (word_id, username, content, datetime.datetime.now().strftime("%Y-%m-%d %H:%M")))
+        cur = conn.cursor()
+        cur.execute(f"INSERT INTO reflections (word_id, username, content, date) VALUES ({p}, {p}, {p}, {p})",
+                     (word_id, username, content, datetime.datetime.now().strftime("%Y-%m-%d %H:%M")))
+        
+        # 著者に通知
+        if target_author and target_author != username:
+            add_notification(target_author, 'reflection', f"{username} さんがあなたの投稿「{word_name}」に思索を残しました。", f"/word/{word_id}")
             
-            # 著者に通知
-            if target_author and target_author != username:
-                add_notification(target_author, 'reflection', f"{username} さんがあなたの投稿「{word_name}」に思索を残しました。", f"/word/{word_id}")
-                
     conn.close()
     return jsonify(status="success")
 
@@ -797,9 +797,9 @@ def post_reply():
     conn = get_db_connection()
     p = get_placeholder()
     with conn:
-        with conn.cursor() as cur:
-            cur.execute(f"INSERT INTO replies (reflection_id, username, content, date) VALUES ({p}, {p}, {p}, {p})",
-                         (data['reflection_id'], data['username'], data['content'], datetime.datetime.now().strftime("%Y-%m-%d %H:%M")))
+        cur = conn.cursor()
+        cur.execute(f"INSERT INTO replies (reflection_id, username, content, date) VALUES ({p}, {p}, {p}, {p})",
+                     (data['reflection_id'], data['username'], data['content'], datetime.datetime.now().strftime("%Y-%m-%d %H:%M")))
     conn.close()
     return jsonify(status="success")
 
@@ -813,9 +813,9 @@ def get_tts():
     conn = get_db_connection()
     p = get_placeholder()
     with conn:
-        with conn.cursor() as cur:
-            cur.execute(f"SELECT is_premium FROM users WHERE username={p}", (username,))
-            res = cur.fetchone()
+        cur = conn.cursor()
+        cur.execute(f"SELECT is_premium FROM users WHERE username={p}", (username,))
+        res = cur.fetchone()
     conn.close()
     if not res or not res[0]:
         return jsonify(status="error", message="Premium required"), 403
