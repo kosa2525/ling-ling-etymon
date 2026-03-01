@@ -69,7 +69,7 @@ def init_db():
                     cur.execute('''CREATE TABLE IF NOT EXISTS user_essays 
                                     (id SERIAL PRIMARY KEY, title TEXT, content TEXT, author TEXT, date TEXT, is_deleted BOOLEAN DEFAULT FALSE)''')
                     cur.execute('''CREATE TABLE IF NOT EXISTS flourishes
-                                    (id SERIAL PRIMARY KEY, username TEXT, target_type TEXT, target_id INTEGER,
+                                    (id SERIAL PRIMARY KEY, username TEXT, target_type TEXT, target_id TEXT,
                                      UNIQUE(username, target_type, target_id))''')
                 else:
                     cur.execute('''CREATE TABLE IF NOT EXISTS users 
@@ -91,7 +91,7 @@ def init_db():
                     cur.execute('''CREATE TABLE IF NOT EXISTS user_essays 
                                     (id INTEGER PRIMARY KEY AUTOINCREMENT, title TEXT, content TEXT, author TEXT, date TEXT, is_deleted INTEGER DEFAULT 0)''')
                     cur.execute('''CREATE TABLE IF NOT EXISTS flourishes
-                                    (id INTEGER PRIMARY KEY AUTOINCREMENT, username TEXT, target_type TEXT, target_id INTEGER,
+                                    (id INTEGER PRIMARY KEY AUTOINCREMENT, username TEXT, target_type TEXT, target_id TEXT,
                                      UNIQUE(username, target_type, target_id))''')
                 
                 # スキーマの自動アップグレード（カラムが足りない場合に追加）
