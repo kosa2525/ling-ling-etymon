@@ -35277,5 +35277,413 @@ const WORDS = [
                 "source": "Online Etymology Dictionary",
                 "date": "2026-03-01",
                 "era": "Middle English, circa 14th Century"
+        },
+        {
+                "id": "comfort",
+                "word": "Comfort",
+                "part_of_speech": "noun/verb",
+                "meaning": "心地よさ、安心",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "com-",
+                                        "type": "prefix",
+                                        "meaning": "共に",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "fort-",
+                                        "type": "root",
+                                        "meaning": "強さ",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The term 'comfort' originates from the Late Latin 'comfortare', meaning 'to strengthen greatly', from 'com-' (with) + 'fortis' (strong)."
+                },
+                "core_concept": {
+                        "en": "A warmth of heart enveloping the soul, bringing peace.",
+                        "ja": "心に温かさを満たし、魂に安らぎをもたらすもの"
+                },
+                "thinking_layer": "人間の存在の中で、『快適』という言葉には、単なる物理的な心地よさを超えた深い哲学的意義が潜んでいる。快適さとは、孤独を癒し、心に有形無形の支えを与える力である。それは物の豊かさだけではなく、精神的な充実感、つまり内面的な平和と外面的な調和の結果なのだ。人間はしばしば自己の不完全さゆえに脆さを感じるが、快適であることによってその脆さを包み込み、さらなる可能性と新たな力を得る。自然の懐で安心するように、快適さは心の安定をもたらし、人生の逆境において支えとなる存在だ。このようにして、快適さは単なる状態を超え、人の生きる意義にまで影響を及ぼす。快適さを追求することで、人は真の自由を体得し、悟りに至る旅に出るのである。",
+                "synonyms": [
+                        "Ease",
+                        "Relief"
+                ],
+                "antonyms": [
+                        "Discomfort",
+                        "Distress"
+                ],
+                "aftertaste": "Comfort is the whisper of safety in the storm.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "fortis",
+                                        "meaning": "strong"
+                                }
+                        ],
+                        "points": [
+                                "『快適』の語源はラテン語の「fortis」から来ており、その強さを示しています。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "Late Latin, 14th Century"
+        },
+        {
+                "id": "assemble",
+                "word": "Assemble",
+                "part_of_speech": "verb",
+                "meaning": "集める、まとめる",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "ad-",
+                                        "type": "prefix",
+                                        "meaning": "〜に向かって",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "simulare",
+                                        "type": "root",
+                                        "meaning": "似せる, 集める",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'assemble' originates from the Latin 'ad-' meaning 'towards' and 'simulare' meaning 'to make similar, gather'. It came into English via Old French 'assembler'."
+                },
+                "core_concept": {
+                        "en": "The harmonious gathering of individual elements to create a unified whole.",
+                        "ja": "個々の要素を調和的に集め、一つの統一された全体を創り出すこと。"
+                },
+                "thinking_layer": "集合とは、物理的な接合を超えた心の結びつきをも指す。それは、人々や考えの間に生まれる見えない絆であり、異なる背景や価値観を超えて共鳴し合う力である。ここにおいて、集合は単なる集積ではなく、新たな価値の創造の場としての側面を持つ。人生とは、数々の要素の集合体であり、その中には人との出会いや経験が含まれる。これらが一体となり、新たな自分という存在を形作る。このように、一見無関係に思えるものが集まり、あるいは個の力を超えた化学反応を起こすことで、はじめて完成される瞬間がある。さらに、集合には時間を超越した側面があり、過去の想いが今に響き、未来に影響を及ぼす。こうして、集合は果てしない連鎖を生み、人生に深みを与えるものである。",
+                "synonyms": [
+                        "compile",
+                        "gather"
+                ],
+                "antonyms": [
+                        "disperse",
+                        "scatter"
+                ],
+                "aftertaste": "To assemble is to breathe life into the potential of togetherness.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "simulare",
+                                        "meaning": "to make similar, gather"
+                                }
+                        ],
+                        "points": [
+                                "起源において、集合は単に物理的な動き以上のものであり、人との結びつきや思考の統合をも含む概念である。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "14th Century"
+        },
+        {
+                "id": "compose",
+                "word": "Compose",
+                "part_of_speech": "verb",
+                "meaning": "何かを組み立てる、または創作すること",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "com-",
+                                        "type": "prefix",
+                                        "meaning": "共に",
+                                        "lang": "ラテン"
+                                },
+                                {
+                                        "text": "ponere-",
+                                        "type": "root",
+                                        "meaning": "置く",
+                                        "lang": "ラテン"
+                                }
+                        ],
+                        "original_statement": "The word 'compose' originates from the Latin 'componere', meaning to put together."
+                },
+                "core_concept": {
+                        "en": "A symphony of thoughts woven together harmoniously.",
+                        "ja": "心の協奏曲を調和させ編むこと"
+                },
+                "thinking_layer": "「構成する」という行為は、目に見えない思考や感情を具体化する神聖な儀式である。私たちは無秩序の中から秩序を生み出すことによって、小さな宇宙を創造する創造者となる。森羅万象は、無限に広がる可能性の中に存在し、その中から二つの異なる要素を引き寄せ、一つの有機的な全体に融合させることにその核心がある。この行為は、ただの賢明な組み立てではなく、魂の深淵から汲み上げられた智慧であり、何か普遍的な真実を表現しようとする試みである。古代より、詩や音楽、そして芸術の創作は、宇宙の壮大さと人間の内的な探求の交差点であり、それは自分自身と周囲の世界を理解するための一つの方法である。各々の創造物は、一つの物語を語り、それを通じて私たちは、無限の広がりの中にある自分の小さな存在を慰めるのである。したがって、「構成する」という言葉は、外面的なものと内面的なものを結びつける深遠なる行為の象徴であり、それは絶え間なく私たちに新たな視点を提供し続けるのである。",
+                "synonyms": [
+                        "assemble",
+                        "construct"
+                ],
+                "antonyms": [
+                        "destroy",
+                        "dismantle"
+                ],
+                "aftertaste": "To compose is to breathe life into the silent void.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "com",
+                                        "meaning": "together"
+                                },
+                                {
+                                        "term": "ponere",
+                                        "meaning": "to place"
+                                }
+                        ],
+                        "points": [
+                                "「構成する」という行為は、個々の断片を統合することによって個性化と画一化の微妙なバランスを取る芸術である。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "16th Century Latin origin"
+        },
+        {
+                "id": "fond",
+                "word": "Fond",
+                "part_of_speech": "adjective",
+                "meaning": "愛情深い、好む",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "fond-",
+                                        "type": "root",
+                                        "meaning": "愚か、馬鹿",
+                                        "lang": "Middle English"
+                                }
+                        ],
+                        "original_statement": "The word 'fond' originates from the Middle English 'fond', a variant of 'found', meaning foolish or infatuated, influenced by the Old French 'fondre'."
+                },
+                "core_concept": {
+                        "en": "The gentle embrace of affection and liking intertwined.",
+                        "ja": "愛情と好意の優しい交差"
+                },
+                "thinking_layer": "「Fond」という単語は、表面上は単なる感情の表現であるが、その奥底には人間存在の根本的問いを秘めている。この語の由来が示すように、かつては愚かさと混同されることもあった愛、それは時に非合理的で持続可能でないように見えながらも、人々が生命を送るための最大の原動力である。この愛情深さ、あるいはfondnessは、自己を越えて他者へと心を傾ける行動であり、それは時に相手を理想化することもある。このような過剰な理想化は「愚かさ（folly）」として歴史に刻まれたが、同時に人間が追求する最大の美徳とされてきた。愛すること、fondであることは、すなわち無限の可能性を内に含む行為の表れである。無知や誤解を恐れずに、他者を、言い換えれば「無限の相」を受け入れる術を指している。愛情とは、時に直感と衝動の任せであり、知的探求を超越し、生命の根幹に問いかける力である。",
+                "synonyms": [
+                        "adoring",
+                        "affectionate"
+                ],
+                "antonyms": [
+                        "indifferent",
+                        "cold"
+                ],
+                "aftertaste": "To be 'fond' is to cherish the world despite its imperfections.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "fond",
+                                        "meaning": "foolish, infatuated"
+                                }
+                        ],
+                        "points": [
+                                "「Fond」は元来、愚かさを含意していたが、現代では愛情や好意の表現として主に用いられる。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "Middle English, c. 14th Century"
+        },
+        {
+                "id": "complicated",
+                "word": "Complicated",
+                "part_of_speech": "adjective",
+                "meaning": "複雑な、込み入った",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "com-",
+                                        "type": "prefix",
+                                        "meaning": "共に",
+                                        "lang": "ラテン語"
+                                },
+                                {
+                                        "text": "plicare",
+                                        "type": "root",
+                                        "meaning": "折り重なる",
+                                        "lang": "ラテン語"
+                                }
+                        ],
+                        "original_statement": "Derived from Latin 'complicatus', past participle of 'complicare' meaning 'to fold together'."
+                },
+                "core_concept": {
+                        "en": "Tangled threads of existence interwoven with precision.",
+                        "ja": "存在の絡み合った糸が精密に織り成すもの"
+                },
+                "thinking_layer": "「複雑」という概念は、私たちの人生の中で度々顔を出し、単純な現実の層の中に、無数の別の現実が隠されていることを示唆します。その後ろには、個々の人間の経験の多様性と彩りが縦糸のように積み重なり、見た目には一つの物事も、その奥には無限の可能性が秘められていることを語ります。複雑さの中にこそ、人間の心が探求し続ける神秘の広がりがあるのです。そうした織り成された現実の中を、目に見えぬ糸が流れ込んでいき、様々な形の物語を作り出すのです。この複雑さがクリエイティブな発想の源となり、人生そのものをより豊かにしてくれるのです。一つの事象に潜む無数の顔、その全てが鮮やかに彩られ、詩的でさえあるのです。",
+                "synonyms": [
+                        "Intricate",
+                        "Complex"
+                ],
+                "antonyms": [
+                        "Simple",
+                        "Uncomplicated"
+                ],
+                "aftertaste": "Within the complex weave lies the essence of humanity's greatest stories.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "plicare",
+                                        "meaning": "to fold"
+                                }
+                        ],
+                        "points": [
+                                "「複雑」は、単なる困難ではなく、そこに秘められた可能性と発見をもたらす過程です。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "Late Middle English, Latin origin"
+        },
+        {
+                "id": "bundle",
+                "word": "Bundle",
+                "part_of_speech": "noun/verb",
+                "meaning": "複数の要素が集まったもの",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "bind-",
+                                        "type": "root",
+                                        "meaning": "結ぶ",
+                                        "lang": "Old English"
+                                }
+                        ],
+                        "original_statement": "The term 'bundle' originated from Middle English 'bondel', a diminutive of 'bond', which meant something that is bound together."
+                },
+                "core_concept": {
+                        "en": "An intimate gathering of elements united in harmony.",
+                        "ja": "要素が調和の中に集まる親密な結合"
+                },
+                "thinking_layer": "物事を束ね、その全体を表現することは、一見単純な行為に見えますが、実は深い哲学的意味を内包しています。万物は束ねることで、その本質を変えることがあります。一本の糸はそれ単体では脆弱であるかもしれませんが、束ねることで強固な結びつきと力を得ることができます。束の概念は宇宙の始まりさえ思わせます。何もない無の状態から様々な元素が集まり、結びつき、我々の知るあらゆるものが創られました。束は個々の存在が独自の個性を保ちながらも、相互に影響し合い、新しい意義を生む可能性の象徴です。それは、多様性と調和のダンスであり、我々が世界をどのように受け取り、経験し、形作っていくかを映し出します。まさに不可視の糸が織り成す宇宙のタペストリーのようです。",
+                "synonyms": [
+                        "Cluster",
+                        "Package"
+                ],
+                "antonyms": [
+                        "Single",
+                        "Individual"
+                ],
+                "aftertaste": "In unity, there is strength and transformation.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "bind",
+                                        "meaning": "To tie or fasten together"
+                                }
+                        ],
+                        "points": [
+                                "『バンドル』は、古英語の「bindan」から派生し、物や人を結びつけるという意味を持っています。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "Middle Ages"
+        },
+        {
+                "id": "confident",
+                "word": "Confident",
+                "part_of_speech": "adjective",
+                "meaning": "確信を持っている",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "con-",
+                                        "type": "prefix",
+                                        "meaning": "共に",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "fidere",
+                                        "type": "root",
+                                        "meaning": "信頼する",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'confident' originates from the Latin 'confident-', which is the present participle of 'confidere', meaning 'to have full trust'."
+                },
+                "core_concept": {
+                        "en": "A serene trust in one's own abilities.",
+                        "ja": "自分自身の能力を静かに信頼すること"
+                },
+                "thinking_layer": "自信という概念は、人間の内なる光であり、その輝きは自己の信念から生まれる種である。自信を持つことは、他者の視線を超え、内なる声に耳を傾ける行為である。それは、成功と失敗の間の微妙なバランス点であり、自己を律する力となる。静穏な湖のごとく、揺らぐことなく穏やかに存在する自信は、心の奥底に流れる不変の強さを象徴している。人は、しばしば外的評価に依存して自己を測るが、真の自信はそのような外部の影響を受けず、内なる価値を認める力である。この内面の確信が他者との関係にも影響を及ぼし、信頼の輪を広げる。自信は自己肯定の泉であり、それは冒険家の心を動かし、新たな夢へと歩み出す原動力となるのである。歴史を越え、人類が絶えず追い求めたこの希望に満ちた安心感は、常に我々の存在の奥に潜んでいる。自信とは心の闇を照らす光なのだ。",
+                "synonyms": [
+                        "Assured",
+                        "Positive"
+                ],
+                "antonyms": [
+                        "Doubtful",
+                        "Insecure"
+                ],
+                "aftertaste": "Confidence is the quiet spark that ignites the fire of dreams.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "fidere",
+                                        "meaning": "to trust"
+                                }
+                        ],
+                        "points": [
+                                "ラテン語の 'fidere' は、信頼する能力と精神の安定性に関連し、根源的な信頼の概念に基づく語である。この思想は深く哲学的な意味を持ち、他者との関係や自己の在り方を問う深淵を備える。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Late Middle English, Latin origin"
+        },
+        {
+                "id": "habitual",
+                "word": "Habitual",
+                "part_of_speech": "adjective",
+                "meaning": "習慣的な",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "habit-",
+                                        "type": "root",
+                                        "meaning": "習慣",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "-ual",
+                                        "type": "suffix",
+                                        "meaning": "日本語での意味は「性質」という意味合い",
+                                        "lang": "Late Latin"
+                                }
+                        ],
+                        "original_statement": "Derived from Late Latin 'habitualis,' stemming from 'habitus' meaning condition or appearance from Latin 'habere' to have or to hold."
+                },
+                "core_concept": {
+                        "en": "The gentle dance between eternity and routine.",
+                        "ja": "永遠と日常の静かな舞"
+                },
+                "thinking_layer": "習慣というものは、時間の無限の流れの中で織り成される日常のリズムです。それはただの繰り返しではなく、私たちの存在を形作る無形の力です。習慣とは、我々が意識せずして歩む道であり、自己の本質を映し出す鏡のようなものです。人が無意識のうちに施していく習慣は、生命の糧となり、日々の構成要素として私たちを支えています。この繰り返しは無秩序にも見えるが、実際には人々の存在を軸にして宇宙を回転させる静かな秩序を生み出します。哲学的には、習慣は選択の不在の産物であり、私たちが選ばなかった道を歩むささやかな証拠です。しかし、その結果として、習慣が持つ力は個人の自由意志を超えることがある。私たちはこの慣性の中で穏やかに揺られ、時としてその中で自らを見出します。習慣は、個人と時間の間で繰り広げられる優雅な舞踏であり、それは過去と未来の間のバランスであると言えるでしょう。",
+                "synonyms": [
+                        "Customary",
+                        "Routine"
+                ],
+                "antonyms": [
+                        "Uncommon",
+                        "Unusual"
+                ],
+                "aftertaste": "In its repetitive nature, habitual action whispers the legacy of time.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "habit",
+                                        "meaning": "custom or attire"
+                                }
+                        ],
+                        "points": [
+                                "ラテン語の『habitus』から派生し、身体的または精神的過程の状態を表す。習慣の語源は、時間を超えて個の規範を形作る力を象徴します。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "Late Latin, early 15th century"
         }
 ];
