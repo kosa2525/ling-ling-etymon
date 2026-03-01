@@ -28298,5 +28298,51 @@ const WORDS = [
                 "source": "Oxford English Dictionary",
                 "date": "2026-03-01",
                 "era": "Late Middle English, derived from Latin"
+        },
+        {
+                "id": "cheat",
+                "word": "Cheat",
+                "part_of_speech": "noun/verb",
+                "meaning": "不正行為や欺くこと",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "cheater",
+                                        "type": "root",
+                                        "meaning": "詐欺師",
+                                        "lang": "Middle English"
+                                }
+                        ],
+                        "original_statement": "The word 'cheat' originates from the Middle English 'cheten', which means to escheat or confiscate, stemming from Anglo-French derivatives."
+                },
+                "core_concept": {
+                        "en": "A deception against the fabric of fairness.",
+                        "ja": "公正の織物に対する欺し"
+                },
+                "thinking_layer": "「欺く」という行為は、人間の心の暗部を映し出す鏡のようなものであり、その行為の背後には複雑な心理と哲学が潜んでいる。一般には単なる不正な行為として糾弾されがちだが、その深層には、人間が自らの欲望を満たすための手段を模索する過程がある。特に人間関係において、欺くことは一時的な利益をもたらすかもしれないが、その代償は信頼という名の貴重な財産を失うことだ。欺く行為は時として必要悪とされることもあるが、それは正義に対する挑戦でもあり、同時に道徳の限界を試す行為でもある。この行為はまるで霧の中で自分の影を追うかのごとく、一時的な安心感をもたらすが、それは実体のない幻想に過ぎない。最終的には、欺く者もまた、自らが築いた虚偽の世界の中で孤独に苦しむこととなる。誠実さが希薄な時代において、この単語の持つ意味は我々に警鐘を鳴らし続け、その響きは深淵の彼方から帰ってくるエコーのように、静かに、しかし確かに心得よと教えている。",
+                "synonyms": [
+                        "Deceive",
+                        "Trick"
+                ],
+                "antonyms": [
+                        "Trust",
+                        "Honesty"
+                ],
+                "aftertaste": "Trust, once shattered, echoes in the heart's chambers eternally.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "escheat",
+                                        "meaning": "to revert to the state in lack of legal heirs"
+                                }
+                        ],
+                        "points": [
+                                "『チート』という語は法に関する中世フランス語 'escheat' に起源を持ち、これが不正や窃盗を伴う行為として変容した。原義は所有権が国や地主に戻ることを指していた。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Middle English, 13th Century"
         }
 ];
