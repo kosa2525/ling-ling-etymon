@@ -30097,5 +30097,143 @@ const WORDS = [
                 "source": "Oxford English Dictionary",
                 "date": "2026-03-01",
                 "era": "Hebrew origins"
+        },
+        {
+                "id": "shock",
+                "word": "Shock",
+                "part_of_speech": "noun/verb",
+                "meaning": "驚きや激しい衝撃",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "choc",
+                                        "type": "root",
+                                        "meaning": "衝撃",
+                                        "lang": "Old French"
+                                }
+                        ],
+                        "original_statement": "The word 'shock' entered Middle English through Old French 'choc', derived from Old Frankish '*skokan', meaning 'to jolt, leap'."
+                },
+                "core_concept": {
+                        "en": "An abrupt tremor of existence, jolting life's delicate symphony.",
+                        "ja": "存在の突然の振動、命の繊細な交響曲を揺さぶる。"
+                },
+                "thinking_layer": "「ショック」とは、一瞬にして私たちの意識を揺さぶり、凝縮された時間の中で現実の本質を露わにする力である。この言葉は、我々の存在そのものを問う鋭い刃のように、内面の奥深くへと刺さり込んでくる。それは、人生の秩序だったリズムの中で、突如として現れる不協和音であり、心の平静をかき乱す嵐のようだ。「ショック」は、私たちが確保していると信じていた確実さを崩壊させ、思考の新しい領域を切り開く道具として働く。その瞬間、我々は新たな視点を持ち、未知の可能性に目を向けることを余儀なくされる。『ショック』は、混沌の中から生まれる再生の詩、そして、感情の深さへと旅を始める誘いである。この言葉は、私たちの存在の意義を探求し、常識の束縛を超えていく勇気を与えてくれるものである。",
+                "synonyms": [
+                        "jolt",
+                        "impact"
+                ],
+                "antonyms": [
+                        "calm",
+                        "peace"
+                ],
+                "aftertaste": "In a heartbeat, shock tears through the mundane fabric of life.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "choc",
+                                        "meaning": "to jolt, clash"
+                                }
+                        ],
+                        "points": [
+                                "語源的にはフランク語からフランス語を経由して英語に取り入れられ、衝撃や抵触の意味が発展してきた。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "Late Middle English, 14th Century"
+        },
+        {
+                "id": "purchase",
+                "word": "Purchase",
+                "part_of_speech": "noun/verb",
+                "meaning": "商品やサービスを買うこと",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "pur-chasser",
+                                        "type": "prefix-root",
+                                        "meaning": "取得を得る",
+                                        "lang": "中古フランス語"
+                                }
+                        ],
+                        "original_statement": "The word 'purchase' hails from Middle English purchacen, itself deriving from the Old French pourchacier, ‘to pursue, procure or acquire’."
+                },
+                "core_concept": {
+                        "en": "The delicate dance of acquisition and value.",
+                        "ja": "取得と価値の微妙な舞踊"
+                },
+                "thinking_layer": "購入とは、物質的な交換という単純な行為に見えるかもしれませんが、実のところ、それは我々の欲望、必要、そしてその境界の曖昧さを示しています。我々が何かを購入する瞬間、その行為はただの物質の移動ではなく、価値と意味の重層的な絡まりとなるのです。物を買うとは、私たちがそれにどんな感情を投資し、どんな未来の可能性を見出そうとしているのかを暗に示している行為です。時に衝動的に、時には慎重に、我々は選択を重ね、時の中でその選択がどのような影響をもたらすのかを後から鑑みます。取引は経済の基本単位であると同時に、哲学的には自己同一性と他者との関わりの一断面を示しています。その瞬間、私たちは自由意思と自己認識の象徴である同時に、広大な社会システムの一部に組み込まれます。そこには常に、夢想と懸念、未来と過去、そして今という瞬間に宿る無限の可能性が存在します。購入という行為に潜む内なる哲学は、やがて深淵なる内省への道を開くでしょう。",
+                "synonyms": [
+                        "buy",
+                        "acquire"
+                ],
+                "antonyms": [
+                        "sell",
+                        "dispose"
+                ],
+                "aftertaste": "In the act of purchasing, we exchange more than just goods; we exchange dreams.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "chasser",
+                                        "meaning": "to chase"
+                                }
+                        ],
+                        "points": [
+                                "購入という言葉における古フランス語の要素が残している痕跡は、古代の取得の行為が追跡や実行と密接に結びついていることを示しています。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "14th Century"
+        },
+        {
+                "id": "jeopardy",
+                "word": "Jeopardy",
+                "part_of_speech": "noun",
+                "meaning": "危険、リスク",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "from Old French 'jeu parti'",
+                                        "type": "root",
+                                        "meaning": "分かれたゲーム、均等なゲーム",
+                                        "lang": "French"
+                                }
+                        ],
+                        "original_statement": "The term 'jeopardy' originates from the Old French phrase 'jeu parti', which referred to a game with even chances for both sides."
+                },
+                "core_concept": {
+                        "en": "A delicate balance on the edge of fortune and misfortune.",
+                        "ja": "運命の分かれ目に立つ繊細な均衡"
+                },
+                "thinking_layer": "危険という概念は、常に人間の存在とその儚さを映し出します。時として、我々は成功と失敗の狭間に立たされ、その瞬間瞬間に選択を迫られます。「危険」の本質は、この選択の過程そのものに宿っているのです。哲学的に考えれば、危険とは単なる外的な要因に左右されるものではなく、内面的な成長や認識の変化とも密接に結びついています。我々は危険を避けることを求めながらも、それがもたらすスリルや挑戦に心を奪われることがあります。それはまさに、人間が生まれつき持つ探究心と、未知なる領域への畏敬の念によると言えるでしょう。危険自体が持つ美しさは、生命の輝きと同様、儚さと相反するものとして存在します。すなわち、危険は単なる恐れや不安といった否定的な感情だけで測られるものではなく、そこには確かな生の実感が漂っているのです。危険をどう受け止め、どのように共存するかは、人間の知恵と勇気にかかっているのです。",
+                "synonyms": [
+                        "risk",
+                        "peril"
+                ],
+                "antonyms": [
+                        "safety",
+                        "security"
+                ],
+                "aftertaste": "The beauty of risk lies in its fleeting shimmer of existence.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "jeu parti",
+                                        "meaning": "divided game"
+                                }
+                        ],
+                        "points": [
+                                "『jeopardy』は、中世のゲームでの状況を表すフランス語の「jeu parti」が語源となり、均等な力の配分が緊張感を伴う状況を生む様を示している。"
+                        ]
+                },
+                "source": "The Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "Late Middle English (14th Century)"
         }
 ];
