@@ -10754,6 +10754,56 @@ const WORDS = [
                 "era": "16th Century Latin"
         },
         {
+                "id": "bondage",
+                "word": "Bondage",
+                "part_of_speech": "noun",
+                "meaning": "束縛、奴隷の身分、拘束",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "bonde",
+                                        "type": "root",
+                                        "meaning": "householder / peasant"
+                                },
+                                {
+                                        "text": "-age",
+                                        "type": "suffix",
+                                        "meaning": "state / condition"
+                                }
+                        ],
+                        "original_statement": "From Old English bonda 'householder', but influenced by bond 'shackle'."
+                },
+                "core_concept": {
+                        "en": "Condition of being bound",
+                        "ja": "土地や主人に「縛り付けられ（bound）」、自由を剥奪された「隷属」の状態"
+                },
+                "thinking_layer": "もとは「農民（bonde）」という、土地に根ざした身分を指していました。それが「紐（bond）」のイメージと結びつき、逃げ出せない「鎖」のニュアンスへ。肉体的な拘束だけでなく、借金や悪習といった精神的な「呪縛」も含みます。",
+                "synonyms": [
+                        "slavery",
+                        "servitude",
+                        "thralldom"
+                ],
+                "antonyms": [
+                        "freedom",
+                        "liberty",
+                        "emancipation"
+                ],
+                "aftertaste": "肌に食い込む縄の冷たさと、重い沈黙の中の渇望",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "bhu-",
+                                        "meaning": "to dwell / be"
+                                }
+                        ],
+                        "points": [
+                                "husband（夫＝家の住人）と同じ根を持ちます。家や土地に「留まる」ことが、いつしか「縛られる」ことへと転じました。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "13th Century Old English / French influence"
+        },
+        {
                 "id": "book",
                 "word": "Book",
                 "author": "etymon_official",
@@ -10800,50 +10850,288 @@ const WORDS = [
                 "era": "PIE origin"
         },
         {
-                "id": "boycott",
-                "word": "Boycott",
-                "part_of_speech": "noun/verb",
-                "meaning": "ボイコットすること/排斥",
-                "author": "etymon_official",
+                "id": "boon",
+                "word": "Boon",
+                "part_of_speech": "noun",
+                "meaning": "恩恵、利益、ありがたい贈り物",
                 "etymology": {
                         "breakdown": [
                                 {
-                                        "text": "boycott",
+                                        "text": "bon",
                                         "type": "root",
-                                        "meaning": "ボイコット",
-                                        "lang": "English"
+                                        "meaning": "good"
+                                },
+                                {
+                                        "text": "bōn",
+                                        "type": "root",
+                                        "meaning": "prayer / petition"
                                 }
                         ],
-                        "original_statement": "The term 'boycott' originates from Captain Charles C. Boycott, who was ostracized by his community in Ireland in 1880 for refusing to reduce rent charges."
+                        "original_statement": "From Old Norse bōn 'prayer', influenced by French bon 'good'."
                 },
                 "core_concept": {
-                        "en": "A collective withdrawal from engagement to protest and enforce change.",
-                        "ja": "変革を促すために関与を拒否する集団的行動"
+                        "en": "Answered prayer",
+                        "ja": "切実な「祈り（prayer）」が聞き届けられ、天空から降ってきた「善き（good）」恵み"
                 },
-                "thinking_layer": "ボイコットとは、ただ単なる抵抗の手段ではなく、人間の本質に対する問いを投げかける行為です。社会的な関係の布地に編み込まれた一つの糸を引っ張る行為が、どのようにして全体の構造を揺るがし得るのか。この行動は、何かへの反発以上のものであり、我々自身の倫理を再評価する機会を提供します。一人の人間から始まったこの言葉の背後には、個と集団、権力と抵抗、そして倫理と利益の間に横たわる絶え間ない緊張が存在します。人は集団としての力を持ちつつも、その行動一つ一つが個の意識に根ざしているという矛盾の中で、ボイコットは自己反省の場を提供します。歴史的事例が示すように、ボイコットはただの拒否ではなく、新たな社会契約の礎となる可能性を秘めています。抵抗の理想と現実の中で、我々は何を選び取るのか、その選択肢はどのように生まれるのか。これらの深遠な問いこそ、ボイコットという行為が我々に問い掛ける命題です。",
+                "thinking_layer": "努力で勝ち取った報酬ではなく、偶然や慈悲によってもたらされた「幸運」です。砂漠で見つけたオアシスのように、窮地にある者を救い出す、天からの贈り物。そこには、謙虚な感謝の念が常に伴います。",
                 "synonyms": [
-                        "ostracize",
-                        "shun"
+                        "blessing",
+                        "benefit",
+                        "godsend"
                 ],
                 "antonyms": [
-                        "support",
-                        "endorse"
+                        "curse",
+                        "disadvantage",
+                        "hindrance"
                 ],
-                "aftertaste": "Boycotting is a quiet thunder that shakes the conscience.",
+                "aftertaste": "渇いた喉に染み渡る一滴の水と、運命への深い溜息",
                 "deep_dive": {
                         "roots": [
                                 {
-                                        "term": "boycott",
-                                        "meaning": "to refuse to engage with"
+                                        "term": "bhā-",
+                                        "meaning": "to speak"
                                 }
                         ],
                         "points": [
-                                "ボイコットという言葉は、19世紀の歴史的事件から生まれ、今もなおその社会的影響力を持ち続けています。この行為は非常に強力な政治的ツールとして機能し、意識を高めたり、システムに変革をもたらす潜在力を有していることが認識されています。"
+                                "ban（禁止）と同じく「言葉」が核。言葉による「願い」が、形を成したものです。"
                         ]
                 },
-                "source": "Oxford English Dictionary, Merriam-Webster",
-                "date": "2026-03-01",
-                "era": "Late 19th Century"
+                "source": "etymon Philologist Mode",
+                "era": "12th Century Old Norse / Old French"
+        },
+        {
+                "id": "boorish",
+                "word": "Boorish",
+                "part_of_speech": "adjective",
+                "meaning": "無作法な、粗野な、ガサツな",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "boer",
+                                        "type": "root",
+                                        "meaning": "farmer / peasant"
+                                }
+                        ],
+                        "original_statement": "From Dutch boer 'peasant, farmer'."
+                },
+                "core_concept": {
+                        "en": "Like a peasant",
+                        "ja": "都会的な洗練を知らず、土の匂いのする「農夫（farmer）」のように粗っぽく、無神経な振る舞い"
+                },
+                "thinking_layer": "洗練されたマナー（礼儀）の対極。他者の感情を慮ることなく、ドカドカと土足で踏み込んでくるような無遠慮さを指します。悪意というよりは、繊細さの決定的な欠如。「文明」のルールを解さない、剥き出しの未熟さです。",
+                "synonyms": [
+                        "loutish",
+                        "uncouth",
+                        "churlish"
+                ],
+                "antonyms": [
+                        "refined",
+                        "polite",
+                        "urbane"
+                ],
+                "aftertaste": "耳に障る大きな笑い声と、踏みにじられた静寂への苛立ち",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "bheu-",
+                                        "meaning": "to be / grow"
+                                }
+                        ],
+                        "points": [
+                                "neighbor（隣人＝近くに住む農夫）と同じ。土と共に生きる「たくましさ」が、都市生活では「粗野」と映った歴史です。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "16th Century Dutch origin"
+        },
+        {
+                "id": "bountiful",
+                "word": "Bountiful",
+                "part_of_speech": "adjective",
+                "meaning": "気前の良い、豊富な",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "bonitatem",
+                                        "type": "root",
+                                        "meaning": "goodness"
+                                },
+                                {
+                                        "text": "-ful",
+                                        "type": "suffix",
+                                        "meaning": "full of"
+                                }
+                        ],
+                        "original_statement": "From Old French bonté 'goodness', from Latin bonitas."
+                },
+                "core_concept": {
+                        "en": "Full of goodness",
+                        "ja": "内側にある「善意（goodness）」が溢れ出し、惜しみなく周囲に「分け与えられている」"
+                },
+                "thinking_layer": "物質的な豊かさ（abundant）だけでなく、それを与える「精神の広さ」を含んでいます。収穫が山盛りであることと、それを皆に振る舞う気前の良さ。器が満ち足りて、外へこぼれ出している幸福な光景です。",
+                "synonyms": [
+                        "generous",
+                        "plentiful",
+                        "liberal"
+                ],
+                "antonyms": [
+                        "scarce",
+                        "stingy",
+                        "meager"
+                ],
+                "aftertaste": "両手いっぱいの果実と、分かち合うことで深まる満足感",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "dwenos",
+                                        "meaning": "good"
+                                }
+                        ],
+                        "points": [
+                                "bonusやbenefitと同じ。「善」が物理的な形を成して移動する様子です。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "16th Century Old French / Latin"
+        },
+        {
+                "id": "bourgeois",
+                "word": "Bourgeois",
+                "part_of_speech": "adjective/noun",
+                "meaning": "中産階級の、世俗的な、保守的な",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "bourg",
+                                        "type": "root",
+                                        "meaning": "fortified town"
+                                }
+                        ],
+                        "original_statement": "From Old French burgeis 'town dweller', from bourg 'town'."
+                },
+                "core_concept": {
+                        "en": "Town dweller",
+                        "ja": "「城壁に囲まれた町（town）」の中に住み、安全と安定を何よりも重んじる「市民」"
+                },
+                "thinking_layer": "貴族（超越）でも農民（大地）でもなく、その中間で「経済」を回す人々。自分たちの権利と財産を守るためのルールを愛し、極端な変化を嫌う「凡庸な安定」への代名詞でもあります。時として、物質主義的で退屈だという批判を込めて使われます。",
+                "synonyms": [
+                        "middle-class",
+                        "conventional",
+                        "philistine"
+                ],
+                "antonyms": [
+                        "proletarian",
+                        "bohemian",
+                        "aristocratic"
+                ],
+                "aftertaste": "磨かれた銀食器と、閉じられた窓の向こうの平穏な生活",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "bhergh-",
+                                        "meaning": "high / protected"
+                                }
+                        ],
+                        "points": [
+                                "burgh（町）やburglar（強盗＝町を襲う者）と同じ。壁の内側の「守られた空間」が本質です。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "16th Century Old French"
+        },
+        {
+                "id": "boycott",
+                "word": "Boycott",
+                "part_of_speech": "verb/noun",
+                "meaning": "不買運動をする、排斥する",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "Boycott",
+                                        "type": "root",
+                                        "meaning": "Captain Charles C. Boycott"
+                                }
+                        ],
+                        "original_statement": "Named after Captain Charles C. Boycott, an English land agent in Ireland who was ostracized by his community in 1880."
+                },
+                "core_concept": {
+                        "en": "Ostracism",
+                        "ja": "特定の人物や団体に対し、全員で「無視」を決め込み、社会的な「死」を突きつける"
+                },
+                "thinking_layer": "暴力を使わない、沈黙による「連帯の武器」です。ボイコット大尉が小作人の要求を拒否した際、村人全員が彼との口をきかず、商売を拒否し、彼の存在を透明人間のように扱った事件に由来します。繋がりの断絶による、冷たい抗議です。",
+                "synonyms": [
+                        "spurn",
+                        "ostracize",
+                        "embargo"
+                ],
+                "antonyms": [
+                        "patronize",
+                        "support",
+                        "embrace"
+                ],
+                "aftertaste": "人混みの中で自分だけが見えないかのように扱われる、刺すような孤独",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "Eponym",
+                                        "meaning": "named after a person"
+                                }
+                        ],
+                        "points": [
+                                "人名がそのまま動詞になった珍しい例。個人の傲慢さが、歴史的な抗議手法の代名詞となりました。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "1880 (Modern era origin)"
+        },
+        {
+                "id": "braggart",
+                "word": "Braggart",
+                "part_of_speech": "noun",
+                "meaning": "自慢屋、大ボラ吹き",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "brag",
+                                        "type": "root",
+                                        "meaning": "to boast / proud"
+                                },
+                                {
+                                        "text": "-art",
+                                        "type": "suffix",
+                                        "meaning": "person who does (excessively)"
+                                }
+                        ],
+                        "original_statement": "From French braguer 'to flaunt', possibly from Old Norse brak 'noise'."
+                },
+                "core_concept": {
+                        "en": "Noisy boaster",
+                        "ja": "実力以上の自分を「大きな音（noise）」のように誇示し、虚栄心という「派手な服」を着飾る者"
+                },
+                "thinking_layer": "単に自分を褒めるだけでなく、他者を威圧するかのように「騒がしく」自慢すること。もとは「音を立てる」という意味があり、空き缶が転がるような空虚な響きを伴います。中身のなさを声の大きさで補おうとする哀れな自尊心です。",
+                "synonyms": [
+                        "show-off",
+                        "boaster",
+                        "vaunter"
+                ],
+                "antonyms": [
+                        "modest person",
+                        "understater"
+                ],
+                "aftertaste": "耳に残る耳障りな自画自賛と、その後に訪れる冷ややかな沈黙",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "brak",
+                                        "meaning": "cracking / noise"
+                                }
+                        ],
+                        "points": [
+                                "酔っ払いの叫びや、武器をガチャガチャ鳴らす威嚇の音が根底にあります。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "16th Century Old French / Norse influence"
         },
         {
                 "id": "brand",
@@ -10890,6 +11178,96 @@ const WORDS = [
                 "part_of_speech": "noun",
                 "meaning": "ブランド",
                 "era": "14th Century"
+        },
+        {
+                "id": "brandish",
+                "word": "Brandish",
+                "part_of_speech": "verb",
+                "meaning": "（武器などを）振り回す、誇示する",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "brand",
+                                        "type": "root",
+                                        "meaning": "sword / fire / torch"
+                                }
+                        ],
+                        "original_statement": "From Old French brandir, from brand 'sword, firebrand'."
+                },
+                "core_concept": {
+                        "en": "To wave a sword",
+                        "ja": "「剣（brand）」を抜き放ち、その輝きで相手を威嚇するように激しく「振る」"
+                },
+                "thinking_layer": "戦う前のデモンストレーションです。光を反射させて「ここにある力を見よ」と誇示する動き。現代では知識や権利を「見せびらかす」際にも使われますが、常にその根底には「攻撃性」と「優越感」がちらついています。",
+                "synonyms": [
+                        "flourish",
+                        "wield",
+                        "display"
+                ],
+                "antonyms": [
+                        "conceal",
+                        "hide",
+                        "stow"
+                ],
+                "aftertaste": "空を裂く風切り音と、閃光が網膜に残す残像",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "brandr",
+                                        "meaning": "fire / blade"
+                                }
+                        ],
+                        "points": [
+                                "brand（商標）と同じ。焼き印（fire）や剣の輝き（fire）が、所有や力を示す記号となりました。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "14th Century Old French"
+        },
+        {
+                "id": "brazen",
+                "word": "Brazen",
+                "part_of_speech": "adjective",
+                "meaning": "厚かましい、真鍮（しんちゅう）製の、厚顔無恥な",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "bras",
+                                        "type": "root",
+                                        "meaning": "brass"
+                                }
+                        ],
+                        "original_statement": "From Old English bræsen 'made of brass'."
+                },
+                "core_concept": {
+                        "en": "Hard like brass",
+                        "ja": "「真鍮（brass）」の硬い金属のように、恥じらいで頬を染めることのない「鉄面皮」"
+                },
+                "thinking_layer": "恥ずかしさで顔が赤くなる（血が通う）のを拒絶し、冷たく硬い金属の仮面を被っているような状態。大胆不敵というよりは、あまりの「無神経さ」に周囲が呆れるような強気です。響き渡る真鍮の音のように、うるさく、遠慮がありません。",
+                "synonyms": [
+                        "shameless",
+                        "audacious",
+                        "impudent"
+                ],
+                "antonyms": [
+                        "bashful",
+                        "modest",
+                        "shy"
+                ],
+                "aftertaste": "何を言っても跳ね返される、冷たく黄色い金属の壁",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "bhres-",
+                                        "meaning": "to crack / burn"
+                                }
+                        ],
+                        "points": [
+                                "brass（真鍮）は叩くと大きな音が鳴ります。その「騒々しく、壊れない」性質が、図々しさを象徴しました。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "Old English"
         },
         {
                 "id": "bread",
@@ -10992,6 +11370,51 @@ const WORDS = [
                 "part_of_speech": "noun",
                 "meaning": "朝食",
                 "era": "15th Century"
+        },
+        {
+                "id": "brevity",
+                "word": "Brevity",
+                "part_of_speech": "noun",
+                "meaning": "簡潔さ、短さ",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "brevis",
+                                        "type": "root",
+                                        "meaning": "short"
+                                }
+                        ],
+                        "original_statement": "From Latin brevitas, from brevis 'short'."
+                },
+                "core_concept": {
+                        "en": "Shortness",
+                        "ja": "贅肉をすべて削ぎ落とし、「短い（short）」時間の中に本質を凝縮する知恵"
+                },
+                "thinking_layer": "「Brevity is the soul of wit（簡潔さは知恵の神髄）」というシェイクスピアの言葉通り。だらだらと語らず、雷光のように一瞬で真理を射抜くこと。命や時間の「短さ」という無常観と、無駄を排する「機能美」が同居しています。",
+                "synonyms": [
+                        "conciseness",
+                        "succinctness",
+                        "transience"
+                ],
+                "antonyms": [
+                        "verbosity",
+                        "prolixity",
+                        "longevity"
+                ],
+                "aftertaste": "余韻だけを残して消え去る、研ぎ澄まされた一文の鋭さ",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "mregh-u-",
+                                        "meaning": "short"
+                                }
+                        ],
+                        "points": [
+                                "brief（簡潔な）やabbreviate（省略する）の仲間。時間を「圧縮」する意志です。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "15th Century Latin"
         },
         {
                 "id": "broadcast",
@@ -11382,6 +11805,50 @@ const WORDS = [
                 "era": "Ancient Greek"
         },
         {
+                "id": "cabal",
+                "word": "Cabal",
+                "part_of_speech": "noun",
+                "meaning": "秘密結社、陰謀団、派閥",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "qabbālāh",
+                                        "type": "root",
+                                        "meaning": "received lore / tradition"
+                                }
+                        ],
+                        "original_statement": "From Hebrew qabbālāh 'reception, tradition'. Later used for secret political groups."
+                },
+                "core_concept": {
+                        "en": "Secret circle",
+                        "ja": "選ばれた者だけに「伝承（tradition）」される密儀のように、閉ざされた部屋で「陰謀」を企てる小集団"
+                },
+                "thinking_layer": "単なるグループではありません。「部外者を排除した密室」の匂いがします。もとは神秘思想の「カバラ」に由来し、難解な知識を共有する特権意識が、政治的な裏工作や秘密の合意へと転じた、少し不気味な連帯です。",
+                "synonyms": [
+                        "faction",
+                        "clique",
+                        "conspiracy"
+                ],
+                "antonyms": [
+                        "public",
+                        "open society"
+                ],
+                "aftertaste": "重い扉の向こう側で交わされる、ロウソクの火を揺らす囁き声",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "qbl-",
+                                        "meaning": "to receive"
+                                }
+                        ],
+                        "points": [
+                                "17世紀イギリスの5人の大臣（Clifford, Arlington, Buckingham, Ashley, Lauderdale）の頭文字がCABALだったため、その意味が決定づけられました。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "16th Century Hebrew / French origin"
+        },
+        {
                 "id": "cacoethes",
                 "word": "Cacoethes",
                 "author": "etymon_official",
@@ -11440,48 +11907,191 @@ const WORDS = [
         {
                 "id": "cacophony",
                 "word": "Cacophony",
-                "author": "etymon_official",
+                "part_of_speech": "noun",
+                "meaning": "不協和音、耳障りな音",
                 "etymology": {
                         "breakdown": [
                                 {
-                                        "text": "kakos-phonē",
+                                        "text": "kakos",
                                         "type": "root",
-                                        "meaning": "悪い-声",
-                                        "lang": "Greek"
+                                        "meaning": "bad / evil"
+                                },
+                                {
+                                        "text": "phone",
+                                        "type": "root",
+                                        "meaning": "voice / sound"
                                 }
                         ],
-                        "original_statement": "The word 'cacophony' originates from the Greek words 'kakos', meaning 'bad', and 'phonē', meaning 'voice' or 'sound'. It entered the English language in the mid-17th century, signifying a mixture of discordant sounds."
+                        "original_statement": "From Greek kakophonia, from kakos 'bad' + phone 'voice'."
                 },
                 "core_concept": {
-                        "en": "The symphony of chaos, harmonizing dissonance.",
-                        "ja": "混沌の交響曲、調和する不協和音"
+                        "en": "Bad sound",
+                        "ja": "美しさを拒絶する「悪い（bad）」、「音（sound）」が衝突し合い、神経を逆撫でする"
                 },
-                "thinking_layer": "人生のさざ波の中で、時に我々は不調和と調和の間に存在する存在として、自分自身を見出すことがあります。『カコフォニー』という言葉が示すのは、ただのノイズの集合体ではなく、実に深遠な存在の意義の一端です。その不協和音は、我々の恐れや不安、そして時には希望さえも映し出す、一種の音楽的現象なのでです。人生という広大なキャンバスにおいて、時には不協和音が意図された美として存在します。私たちの魂は、それぞれが異なる音色を持つ多様性を持ちながら、共同体として共鳴することを求めています。『カコフォニー』は、単なる音の混乱を示すのではなく、むしろ我々の内なる対話が交錯し織り成す豊かな音の織物なのです。この音響の広大な海原を泳ぎ切る時、静寂の中に本当の調和を見つけ出すことができるでしょう。",
+                "thinking_layer": "調和の完全な不在。楽器のチューニングがバラバラなまま一斉に鳴り出したような、あるいは都会の喧騒。それは耳を塞ぎたくなるような物理的な苦痛と、秩序が崩壊した精神的な混乱を同時に表現しています。",
                 "synonyms": [
-                        "Discord",
-                        "Dissonance"
+                        "dissonance",
+                        "discord",
+                        "harshness"
                 ],
                 "antonyms": [
-                        "Harmony",
-                        "Melody"
+                        "euphony",
+                        "harmony",
+                        "symphony"
                 ],
-                "aftertaste": "In the chaos of sound lies the possibility of order.",
+                "aftertaste": "耳の奥で火花が散るような、暴力的な音の礫（つぶて）",
                 "deep_dive": {
                         "roots": [
                                 {
-                                        "term": "kakos-phonē",
-                                        "meaning": "bad sound"
+                                        "term": "bha-",
+                                        "meaning": "to speak / shine"
                                 }
                         ],
                         "points": [
-                                "カコフォニーという概念は古代ギリシャ語に起源がありますが、その象徴的意価値は時代を超えて、現代の文化や哲学においても依然として響いています。"
+                                "euphony（心地よい音）の対義語。カラスの鳴き声（caw）のような濁った響きが核です。"
                         ]
                 },
-                "source": "Oxford English Dictionary",
-                "date": "2026-02-28",
+                "source": "etymon Philologist Mode",
+                "era": "17th Century Greek"
+        },
+        {
+                "id": "cadence",
+                "word": "Cadence",
                 "part_of_speech": "noun",
-                "meaning": "耳障りな音",
-                "era": "17th Century"
+                "meaning": "リズム、抑揚、韻律、終止形",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "cadere",
+                                        "type": "root",
+                                        "meaning": "to fall"
+                                }
+                        ],
+                        "original_statement": "From Latin cadentia 'a falling', from cadere 'to fall'."
+                },
+                "core_concept": {
+                        "en": "A falling motion",
+                        "ja": "言葉や音が最後に向かって「落ちて（fall）」いく、心地よい「周期的な揺れ」"
+                },
+                "thinking_layer": "呼吸のような自然な波です。軍隊の足並み、詩の朗読、あるいは音楽の終わり。高く上がったものが重力に従って着地する瞬間の、あの安心感と規則正しさ。時間が形を成し、耳に届く「歩調」そのものです。",
+                "synonyms": [
+                        "rhythm",
+                        "tempo",
+                        "inflection"
+                ],
+                "antonyms": [
+                        "chaos",
+                        "irregularity"
+                ],
+                "aftertaste": "寄せては返す波のように、意識を深く一定に保つ響き",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "kad-",
+                                        "meaning": "to fall"
+                                }
+                        ],
+                        "points": [
+                                "accident（事故＝不意に落ちてくるもの）やcasual（偶然の）と同じ。重力に身を委ねる動きです。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "14th Century Latin / Italian influence"
+        },
+        {
+                "id": "cajole",
+                "word": "Cajole",
+                "part_of_speech": "verb",
+                "meaning": "甘言でだます、おだてて～させる",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "cage",
+                                        "type": "root",
+                                        "meaning": "cage"
+                                },
+                                {
+                                        "text": "gaoler",
+                                        "type": "root",
+                                        "meaning": "to chatter like a jay"
+                                }
+                        ],
+                        "original_statement": "From French cajoler 'to coax', perhaps from cage 'cage' + gaoler 'to chatter like a bird in a cage'."
+                },
+                "core_concept": {
+                        "en": "To chatter in a cage",
+                        "ja": "籠の中の鳥のように、甘く騒がしい「お喋り」で相手の警戒心を解き、意のままに操る"
+                },
+                "thinking_layer": "力づくではなく、羽毛でなでるような誘惑です。相手の虚栄心をくすぐり、自分から「YES」と言わせるための、計算された可愛げ。そこには、獲物を檻（cage）に誘い込むような、狡猾で社交的な罠が仕掛けられています。",
+                "synonyms": [
+                        "coax",
+                        "wheedle",
+                        "flatter"
+                ],
+                "antonyms": [
+                        "coerce",
+                        "compel",
+                        "dissuade"
+                ],
+                "aftertaste": "耳元に残る甘い残響と、後から襲ってくる「踊らされた」感",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "gaioler",
+                                        "meaning": "to entice into a cage"
+                                }
+                        ],
+                        "points": [
+                                "鳥（jay）の囀りのように、中身はないが心地よい音。言葉の「装飾」で本心を隠す行為です。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "17th Century French"
+        },
+        {
+                "id": "calamity",
+                "word": "Calamity",
+                "part_of_speech": "noun",
+                "meaning": "大惨事、災難、不幸",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "calamus",
+                                        "type": "root",
+                                        "meaning": "reed / stalk"
+                                }
+                        ],
+                        "original_statement": "From Latin calamitas 'damage, disaster'. Possibly from calamus 'straw, stalk' (crop failure)."
+                },
+                "core_concept": {
+                        "en": "Crop damage / blight",
+                        "ja": "生活の糧である「麦の茎（stalk）」がなぎ倒されるように、人生の土台を根こそぎ奪う「不条理な破滅」"
+                },
+                "thinking_layer": "単なる不運を超えた、圧倒的な規模の災厄です。個人の力では抗えない、天災や戦争のような巨大な「壊滅」。すべてが平らにならされてしまった後の、言いようのない喪失感と絶望の静寂を指します。",
+                "synonyms": [
+                        "catastrophe",
+                        "disaster",
+                        "misfortune"
+                ],
+                "antonyms": [
+                        "blessing",
+                        "prosperity",
+                        "boon"
+                ],
+                "aftertaste": "焼け跡に残る灰と、運命という巨大な車輪に踏み潰された跡",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "kalamos",
+                                        "meaning": "reed"
+                                }
+                        ],
+                        "points": [
+                                "「茎（calamus）が折れる」ことが、ラテン世界では生存の危機を象徴していました。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "15th Century Latin"
         },
         {
                 "id": "calculate",
@@ -11642,6 +12252,96 @@ const WORDS = [
                 "era": "Ancient Greek"
         },
         {
+                "id": "callous",
+                "word": "Callous",
+                "part_of_speech": "adjective",
+                "meaning": "冷淡な、無情な、皮膚が硬くなった",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "callus",
+                                        "type": "root",
+                                        "meaning": "hard skin"
+                                }
+                        ],
+                        "original_statement": "From Latin callosus 'thick-skinned', from callus 'hard skin'."
+                },
+                "core_concept": {
+                        "en": "Hardened",
+                        "ja": "長年の摩擦で「タコ（callus）」ができた皮膚のように、心が「硬直」し、他人の痛みを感じなくなった"
+                },
+                "thinking_layer": "悪意があるというよりは、「感覚の麻痺」です。何度も繰り返される苦悩を見続けた結果、心が防衛反応として厚い皮を纏ってしまった状態。柔らかい共感を拒絶する、乾燥してひび割れた大地のような冷たさです。",
+                "synonyms": [
+                        "insensitive",
+                        "hardhearted",
+                        "unfeeling"
+                ],
+                "antonyms": [
+                        "compassionate",
+                        "sensitive",
+                        "tender"
+                ],
+                "aftertaste": "突き放すような乾いた視線と、血の通わない言葉の感触",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "kal-",
+                                        "meaning": "hard"
+                                }
+                        ],
+                        "points": [
+                                "callus（胼胝/タコ）そのものが語源。心の「角質化」という鮮烈な比喩です。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "16th Century Latin"
+        },
+        {
+                "id": "callow",
+                "word": "Callow",
+                "part_of_speech": "adjective",
+                "meaning": "未熟な、経験の浅い、羽の生え揃わない",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "calu",
+                                        "type": "root",
+                                        "meaning": "bald / bare"
+                                }
+                        ],
+                        "original_statement": "From Old English calu 'bare, bald', originally applied to young birds without feathers."
+                },
+                "core_concept": {
+                        "en": "Bare / featherless",
+                        "ja": "まだ「羽（feathers）」が生え揃わず、肌が「剥き出し（bare）」のまま巣にいる雛鳥のような未熟さ"
+                },
+                "thinking_layer": "世の中の厳しさを知らない、無防備な純粋さ。自分では飛べると思っているけれど、まだ風の怖さを知らない。そこには、若さゆえの滑稽さと、守ってあげたくなるような、あるいは危なっかしい「毛のなさ」が同居しています。",
+                "synonyms": [
+                        "immature",
+                        "inexperienced",
+                        "naive"
+                ],
+                "antonyms": [
+                        "sophisticated",
+                        "mature",
+                        "experienced"
+                ],
+                "aftertaste": "震える小さな翼と、根拠のない万能感への苦笑い",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "gal-",
+                                        "meaning": "bald"
+                                }
+                        ],
+                        "points": [
+                                "「ハゲ（bald）」を意味する古語から。何も身に纏っていない、無垢で不完全な状態です。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "Old English"
+        },
+        {
                 "id": "camera",
                 "word": "Camera",
                 "author": "etymon_official",
@@ -11690,48 +12390,47 @@ const WORDS = [
         {
                 "id": "candid",
                 "word": "Candid",
-                "author": "etymon_official",
+                "part_of_speech": "adjective",
+                "meaning": "率直な、ありのままの、公平な",
                 "etymology": {
                         "breakdown": [
                                 {
-                                        "text": "candid-",
+                                        "text": "candere",
                                         "type": "root",
-                                        "meaning": "輝く、白い",
-                                        "lang": "Latin"
+                                        "meaning": "to shine / be white"
                                 }
                         ],
-                        "original_statement": "The word 'candid' originates from the Latin 'candidus', which means shining white, implying purity and honesty."
+                        "original_statement": "From Latin candidus 'bright, white, spotless'."
                 },
                 "core_concept": {
-                        "en": "An unguarded revelation of truth, unfettered by pretense.",
-                        "ja": "飾らない誠実さの輝き"
+                        "en": "White / shining",
+                        "ja": "汚れのない「白（white）」のように、裏表がなく、光が透き通るような「誠実さ」"
                 },
-                "thinking_layer": "「candid」という言葉には、人間の無垢さや純粋な誠実さ、そして心の奥底から発せられる真実の声が込められている。この言葉を用いるとき、私たちは人々の仮面を取り払い、ありのままの姿を尊重しようと試みる。この純粋さは、自己を装うことから解放された自由を象徴する。それは光り輝く状態であり、闇の中でも真実の光を放つ存在だ。それは、社会の中で通念や嘘に満ちた世界にあっても、心の奥底に秘めた無垢の性質を浮かび上がらせる行為ともいえる。このような「candid」であることは、いわば自身の心に宿る光を大切にし、その光を共有することによって人々の心に灯火をともす行為だ。また、他者に対する素直な立場を示すことで、その光は連鎖し、やがては全体の純粋な美を浮かび上がらせる。これが「candid」に秘められた深淵な哲学であり、生の本質を垣間見る行為である。つまり、自己と他者に対して誠実であることこそが、究極の豊かさをもたらす過程であると考えられる。",
+                "thinking_layer": "計算や隠し事という「影」がない状態です。眩しいほどの白さは、嘘をつく必要のない強さを物語ります。Candid camera（隠し撮り）も、演出のない「剥き出しの真実」を捉えるという意味。汚れを拭き取った後の、清潔な視線です。",
                 "synonyms": [
-                        "Frank",
-                        "Straightforward"
+                        "frank",
+                        "honest",
+                        "straightforward"
                 ],
                 "antonyms": [
-                        "Deceptive",
-                        "Guarded"
+                        "evasive",
+                        "deceitful",
+                        "guarded"
                 ],
-                "aftertaste": "Candidness is the light piercing the fog of deceit.",
+                "aftertaste": "一点の曇りもない鏡と、冷たい水ですすいだ後のような清涼感",
                 "deep_dive": {
                         "roots": [
                                 {
-                                        "term": "candidus",
-                                        "meaning": "shining white, sincere"
+                                        "term": "kand-",
+                                        "meaning": "to glow / shine"
                                 }
                         ],
                         "points": [
-                                "「candid」は、ラテン語の「candidus」に由来し、純白で誠実な性質を称賛する言葉である。"
+                                "candidate（候補者）と同じ。古代ローマの候補者は、純白の服（candida）を着て誠実さを示したことに由来します。"
                         ]
                 },
-                "source": "Oxford English Dictionary",
-                "date": "2026-02-27",
-                "part_of_speech": "adjective",
-                "meaning": "率直な",
-                "era": "Latin"
+                "source": "etymon Philologist Mode",
+                "era": "17th Century Latin"
         },
         {
                 "id": "candidate",
@@ -11826,6 +12525,51 @@ const WORDS = [
                 "era": "Unknown Era"
         },
         {
+                "id": "capitulate",
+                "word": "Capitulate",
+                "part_of_speech": "verb",
+                "meaning": "降伏する、条件付きで屈する",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "caput",
+                                        "type": "root",
+                                        "meaning": "head / chapter"
+                                }
+                        ],
+                        "original_statement": "From Latin capitulum 'chapter', from caput 'head'. Originally meaning 'to draw up in chapters'."
+                },
+                "core_concept": {
+                        "en": "Arranged in chapters",
+                        "ja": "降伏の条件を箇条書き（chapter）の「見出し（head）」にまとめ、署名して「膝を屈する」"
+                },
+                "thinking_layer": "単に負ける（lose）のではなく、論理的に、形式的に「終わらせる」こと。かつては「条約を結ぶ」という意味でした。自分の意志を条文という枠組みの中に閉じ込め、相手の軍門に降る。理性による敗北の承認です。",
+                "synonyms": [
+                        "surrender",
+                        "succumb",
+                        "yield"
+                ],
+                "antonyms": [
+                        "resist",
+                        "defy",
+                        "conquer"
+                ],
+                "aftertaste": "震える手でペンを走らせる音と、静かに畳まれる軍旗",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "kaput-",
+                                        "meaning": "head"
+                                }
+                        ],
+                        "points": [
+                                "capital（頭文字、首都）やcaptain（頭となる人）と同じ。物事の「要点」を整理する知性です。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "16th Century Latin"
+        },
+        {
                 "id": "cappuccino",
                 "word": "Cappuccino",
                 "author": "etymon_official",
@@ -11871,6 +12615,101 @@ const WORDS = [
                 "part_of_speech": "noun",
                 "meaning": "カプチーノ",
                 "era": "20th Century"
+        },
+        {
+                "id": "capricious",
+                "word": "Capricious",
+                "part_of_speech": "adjective",
+                "meaning": "気まぐれな、移り気な",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "capra",
+                                        "type": "root",
+                                        "meaning": "goat"
+                                },
+                                {
+                                        "text": "capo",
+                                        "type": "root",
+                                        "meaning": "head"
+                                }
+                        ],
+                        "original_statement": "From Italian capriccio 'shudder', possibly from capra 'goat' (leaping like a goat) or capo 'head' + riccio 'hedgehog'."
+                },
+                "core_concept": {
+                        "en": "Leaping like a goat",
+                        "ja": "崖の上をピョンピョンと跳ね回る「ヤギ（goat）」のように、予測不能で落ち着きのない動き"
+                },
+                "thinking_layer": "論理的な一貫性の欠如。さっきまで笑っていたのに突然怒り出す、あるいは興味が次々と移る。それは「髪の毛が逆立つ（hedgehog head）」ような、予測できない衝動。風向き一つで全てを変えてしまう、危うい軽やかさです。",
+                "synonyms": [
+                        "fickle",
+                        "erratic",
+                        "whimsical"
+                ],
+                "antonyms": [
+                        "steadfast",
+                        "consistent",
+                        "stable"
+                ],
+                "aftertaste": "掴もうとした瞬間にすり抜ける、捉え所のない風のような気配",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "kapro-",
+                                        "meaning": "buck / goat"
+                                }
+                        ],
+                        "points": [
+                                "イタリア語の「身震い（capriccio）」から。予期せぬ衝撃で、髪が逆立ち、ヤギのように飛び跳ねるイメージです。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "17th Century Italian / French influence"
+        },
+        {
+                "id": "captivate",
+                "word": "Captivate",
+                "part_of_speech": "verb",
+                "meaning": "魅了する、心を奪う",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "captivus",
+                                        "type": "root",
+                                        "meaning": "captured / prisoner"
+                                }
+                        ],
+                        "original_statement": "From Latin captivare 'to take captive', from capere 'to take'."
+                },
+                "core_concept": {
+                        "en": "To take prisoner",
+                        "ja": "抗えない魅力によって相手を「捕虜（prisoner）」にし、逃げ出せないように「心を捕らえる」"
+                },
+                "thinking_layer": "かつては肉体的な「捕縛」を指していましたが、今は精神的な「陶酔」へ。見えない鎖で繋がれたかのように、視線も思考もその対象に釘付けにされる状態です。それは、奪われる側が「奪われること」を喜んで受け入れている、甘美な敗北です。",
+                "synonyms": [
+                        "enchant",
+                        "fascinate",
+                        "bewitch"
+                ],
+                "antonyms": [
+                        "repel",
+                        "disenchant",
+                        "offend"
+                ],
+                "aftertaste": "自分の意志を明け渡し、ただその光だけを追いかけたいという渇望",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "kap-",
+                                        "meaning": "to grasp"
+                                }
+                        ],
+                        "points": [
+                                "capture（捕獲）やcapacity（収容力）の仲間。何かを自分の内側に「取り込む」力です。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "16th Century Latin"
         },
         {
                 "id": "capture",
@@ -11963,6 +12802,51 @@ const WORDS = [
                 "part_of_speech": "noun",
                 "meaning": "カーディガン",
                 "era": "19th Century"
+        },
+        {
+                "id": "carnal",
+                "word": "Carnal",
+                "part_of_speech": "adjective",
+                "meaning": "肉体的な、世俗的な、官能的な",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "caro (carn-)",
+                                        "type": "root",
+                                        "meaning": "flesh"
+                                }
+                        ],
+                        "original_statement": "From Latin carnalis 'fleshly', from caro 'flesh'."
+                },
+                "core_concept": {
+                        "en": "Of the flesh",
+                        "ja": "精神や魂（spirit）とは切り離された、生々しく血の通った「肉（flesh）」そのものの欲望"
+                },
+                "thinking_layer": "高潔な理想ではなく、皮膚の感触、空腹、性欲といった「生物としての本能」に根ざした感覚。それは一時的で、重力に縛られた、土の匂いのする現実感です。宗教的な文脈では、しばしば「罪深い誘惑」としての影を纏います。",
+                "synonyms": [
+                        "sensual",
+                        "fleshly",
+                        "corporeal"
+                ],
+                "antonyms": [
+                        "spiritual",
+                        "intellectual",
+                        "platonic"
+                ],
+                "aftertaste": "熱を帯びた吐息と、消えゆく快楽が残す重たい倦怠感",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "sker-",
+                                        "meaning": "to cut"
+                                }
+                        ],
+                        "points": [
+                                "もとは「切り取られた肉の一片」を意味しました。carnival（カーニバル＝肉にさらば）の語源でもあります。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "14th Century Latin"
         },
         {
                 "id": "carnival",
@@ -12067,50 +12951,99 @@ const WORDS = [
                 "era": "16th Century"
         },
         {
-                "id": "casual",
-                "word": "Casual",
-                "part_of_speech": "adjective",
-                "meaning": "偶然の, 気楽な",
-                "author": "etymon_official",
+                "id": "castigate",
+                "word": "Castigate",
+                "part_of_speech": "verb",
+                "meaning": "厳しく叱責する、懲らしめる",
                 "etymology": {
                         "breakdown": [
                                 {
-                                        "text": "late Latin casualis",
+                                        "text": "castus",
                                         "type": "root",
-                                        "meaning": "偶然の",
-                                        "lang": "Late Latin"
+                                        "meaning": "pure"
+                                },
+                                {
+                                        "text": "agere",
+                                        "type": "root",
+                                        "meaning": "to do / drive"
                                 }
                         ],
-                        "original_statement": "The word 'casual' arrives in English in the late Middle Ages, derived from the Latin 'casualis', meaning 'by chance'."
+                        "original_statement": "From Latin castigare 'to make pure', from castus 'pure' + agere 'to drive'."
                 },
                 "core_concept": {
-                        "en": "A gentle dance in the tapestry of chance.",
-                        "ja": "偶然の織り成す優雅な舞踏"
+                        "en": "To make pure by correction",
+                        "ja": "汚れを叩き落とし、相手を「純粋（pure）」な状態へと「導く（drive）」ための峻烈な矯正"
                 },
-                "thinking_layer": "日常の中における「カジュアル」という言葉の存在は、まるで時間の流れの中に漂う浮遊する葉のようである。この言葉は、人が気を抜く瞬間、無意識の中に溶け込み、自然と調和を成す。それはただの「偶然」という凡庸な概念を超えて、人々が抱える不確実性への穏やかな受け入れを象徴している。カジュアルな態度、カジュアルな会話、あるいはカジュアルな出会い―それらはいずれも人生の旅の中で、時には想像もできない転機を迎える前の静寂の時間たちだ。カジュアルであることは、リラックスという一時的な快楽を超えて、激動の時代における心の静けさ、そして今この瞬間を素直に受け入れる勇気の表現でもある。偶然という思考の中で、そこから生まれる無限の可能性を仰ぎ見ることによって、我々は自らの存在の意味を深く問い直すことができるのだ。",
+                "thinking_layer": "単なる怒り（anger）ではありません。不純なものを許さないという「正義感」に基づいた、研ぎ澄まされた攻撃です。言葉という鞭で、相手の過ちを削ぎ落とそうとする、冷徹で教育的な（あるいは独善的な）暴力性を指します。",
                 "synonyms": [
-                        "informal",
-                        "unplanned"
+                        "chastise",
+                        "reprimand",
+                        "scourge"
                 ],
                 "antonyms": [
-                        "formal",
-                        "intentional"
+                        "praise",
+                        "commend",
+                        "pardon"
                 ],
-                "aftertaste": "In the embrace of chance, we find serendipity.",
+                "aftertaste": "打たれた後のヒリヒリとした痛みと、逃げ場のない正論の重圧",
                 "deep_dive": {
                         "roots": [
                                 {
-                                        "term": "casus",
-                                        "meaning": "an event, an occurrence"
+                                        "term": "kes-",
+                                        "meaning": "to cut"
                                 }
                         ],
                         "points": [
-                                "この語はラテン語の『casus』から派生しており、それは『出来事、発生』を意味する。時間の流れにおける一時的な変遷の中で、人がどのように無意識にそれを受け入れ、日々を過ごしていくのかという内省を求める。"
+                                "chaste（純潔な）やcaste（カースト＝血の純粋さ）と同じ。境界線を守るための「切断」です。"
                         ]
                 },
-                "source": "Online Etymology Dictionary",
-                "date": "2026-03-01",
-                "era": "Late Middle Ages"
+                "source": "etymon Philologist Mode",
+                "era": "17th Century Latin"
+        },
+        {
+                "id": "casual",
+                "word": "Casual",
+                "part_of_speech": "adjective",
+                "meaning": "偶然の、何気ない、形式ばらない",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "casus",
+                                        "type": "root",
+                                        "meaning": "fall / chance"
+                                }
+                        ],
+                        "original_statement": "From Latin casualis, from casus 'fall, accident, event'."
+                },
+                "core_concept": {
+                        "en": "By chance",
+                        "ja": "計算された意図はなく、サイコロが「落ちる（fall）」ように「偶然」そこにある姿"
+                },
+                "thinking_layer": "肩の力が抜けた、無防備な状態です。意図的に作り込まれたものではなく、ふとした拍子に現れる自然体。それは、格式（formal）という重い外套を脱ぎ捨て、重力のままにリラックスした、一瞬の「気まぐれ」の肯定です。",
+                "synonyms": [
+                        "accidental",
+                        "informal",
+                        "cursory"
+                ],
+                "antonyms": [
+                        "planned",
+                        "formal",
+                        "intentional"
+                ],
+                "aftertaste": "予定調和を裏切る小さな出会いと、締め付けない衣服の解放感",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "kad-",
+                                        "meaning": "to fall"
+                                }
+                        ],
+                        "points": [
+                                "cadence（リズム）と同じ。どちらも「落ちる」ことが、世界の周期や偶然を形作ります。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "14th Century Latin / French"
         },
         {
                 "id": "catachresis",
@@ -12167,6 +13100,106 @@ const WORDS = [
                 "part_of_speech": "noun",
                 "meaning": "誤用",
                 "era": "Ancient Greek"
+        },
+        {
+                "id": "catalyst",
+                "word": "Catalyst",
+                "part_of_speech": "noun",
+                "meaning": "触媒、きっかけとなるもの",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "kata-",
+                                        "type": "prefix",
+                                        "meaning": "down / wholly"
+                                },
+                                {
+                                        "text": "lyein",
+                                        "type": "root",
+                                        "meaning": "to loosen / untie"
+                                }
+                        ],
+                        "original_statement": "From Greek katalysis 'dissolution', from kata- 'down' + lyein 'loosen'."
+                },
+                "core_concept": {
+                        "en": "To loosen down",
+                        "ja": "固まっていた状況を「解き（loosen）」、一気に変化を「加速（down）」させる引き金"
+                },
+                "thinking_layer": "自分自身は変化の荒波に巻き込まれず、ただそこに存在するだけで周囲の反応を激変させる特異点。停滞していた物語に一石を投じ、結合を壊し、新たな化学反応を誘発する「静かなる煽動者」のような存在です。",
+                "synonyms": [
+                        "stimulus",
+                        "impulse",
+                        "incitant"
+                ],
+                "antonyms": [
+                        "inhibitor",
+                        "blockage",
+                        "deterrent"
+                ],
+                "aftertaste": "静止していた歯車が突如として回り出す、不可逆な変化の予感",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "leu-",
+                                        "meaning": "to loosen / divide"
+                                }
+                        ],
+                        "points": [
+                                "analyze（分析＝解きほぐす）と同じ。複雑に絡まったものを「バラバラにする」力が根底にあります。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "20th Century (Scientific origin)"
+        },
+        {
+                "id": "catastrophe",
+                "word": "Catastrophe",
+                "part_of_speech": "noun",
+                "meaning": "大惨事、破局、悲劇の結末",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "kata-",
+                                        "type": "prefix",
+                                        "meaning": "down"
+                                },
+                                {
+                                        "text": "strephein",
+                                        "type": "root",
+                                        "meaning": "to turn"
+                                }
+                        ],
+                        "original_statement": "From Greek katastrophe 'overturning', from kata- 'down' + strephein 'turn'."
+                },
+                "core_concept": {
+                        "en": "Down-turn",
+                        "ja": "物語の糸が不吉な方向へと「ねじれ（turn）」、奈落の底へ「叩き落とされる（down）」ような暗転"
+                },
+                "thinking_layer": "もとは演劇の「大詰め（特に悲劇の）」を指しました。これまでの積み上げがすべて無に帰すような、決定的な「ひっくり返り」。calamityよりも「構造的な崩壊」や「劇的な終わり」というニュアンスが強く、回避不能な運命の残酷さを象徴します。",
+                "synonyms": [
+                        "disaster",
+                        "debacle",
+                        "upheaval"
+                ],
+                "antonyms": [
+                        "triumph",
+                        "blessing",
+                        "success"
+                ],
+                "aftertaste": "幕が降りた後の静まり返った客席と、元には戻らない世界の破片",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "strebh-",
+                                        "meaning": "to wind / twist"
+                                }
+                        ],
+                        "points": [
+                                "apostrophe（省略記号＝顔を背ける）の仲間。方向を急激に変えることが、悲劇を生みます。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "16th Century Greek"
         },
         {
                 "id": "categorize",
@@ -12471,6 +13504,96 @@ const WORDS = [
                 "era": "Ancient Greek"
         },
         {
+                "id": "caustic",
+                "word": "Caustic",
+                "part_of_speech": "adjective",
+                "meaning": "腐食性の、辛辣な、痛烈な",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "kaustos",
+                                        "type": "root",
+                                        "meaning": "burnt"
+                                }
+                        ],
+                        "original_statement": "From Greek kaustos 'burnt', from kaiein 'to burn'."
+                },
+                "core_concept": {
+                        "en": "Burning / stinging",
+                        "ja": "表面を「焼き（burn）」、じわじわと組織を壊していくような、鋭く不快な刺激"
+                },
+                "thinking_layer": "化学薬品のように皮膚を焼く性質と、言葉で心を焼く性質。それは相手を温める「火」ではなく、ただ破壊するために放たれた「熱」です。ユーモアの中に毒が混じり、笑った後にヒリヒリとした痛みが残るような、攻撃的な鋭さを指します。",
+                "synonyms": [
+                        "sarcastic",
+                        "corrosive",
+                        "mordant"
+                ],
+                "antonyms": [
+                        "mild",
+                        "soothing",
+                        "gentle"
+                ],
+                "aftertaste": "白く変色した傷跡と、心を冷たく麻痺させる鋭い刺し傷",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "kau-",
+                                        "meaning": "to burn"
+                                }
+                        ],
+                        "points": [
+                                "holocaust（大虐殺＝すべてを焼く）と同じ根。容赦のない「燃焼」のイメージです。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "14th Century Greek / Latin"
+        },
+        {
+                "id": "cede",
+                "word": "Cede",
+                "part_of_speech": "verb",
+                "meaning": "（権利・領土などを）譲る、引き渡す",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "cedere",
+                                        "type": "root",
+                                        "meaning": "to go / yield"
+                                }
+                        ],
+                        "original_statement": "From Latin cedere 'to yield, go away, give up'."
+                },
+                "core_concept": {
+                        "en": "To go away from",
+                        "ja": "自分が立っていた場所から「立ち去り（go）」、その空間を他者に「譲り渡す」"
+                },
+                "thinking_layer": "能動的な贈与ではなく、状況に押されて「身を引く」ニュアンスです。敗戦や条約によって領土を差し出すように、抵抗を止めて一歩下がる。それは、ある力が別の力に道を譲るという、世界の勢力図が書き換わる瞬間の、静かな後退です。",
+                "synonyms": [
+                        "surrender",
+                        "relinquish",
+                        "transfer"
+                ],
+                "antonyms": [
+                        "retain",
+                        "seize",
+                        "withhold"
+                ],
+                "aftertaste": "空っぽになった領土と、握りしめていた手が緩む時の、寂しい解放感",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "ked-",
+                                        "meaning": "to go / yield"
+                                }
+                        ],
+                        "points": [
+                                "proceed（進む）やrecede（後退する）と同じ。場所の「明け渡し」という移動の極致です。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "15th Century Latin"
+        },
+        {
                 "id": "ceiling",
                 "word": "Ceiling",
                 "author": "etymon_official",
@@ -12573,6 +13696,96 @@ const WORDS = [
                 "source": "Online Etymology Dictionary",
                 "date": "2026-02-28",
                 "era": "Latin"
+        },
+        {
+                "id": "celebrity",
+                "word": "Celebrity",
+                "part_of_speech": "noun",
+                "meaning": "有名人、名声、著名",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "celeber",
+                                        "type": "root",
+                                        "meaning": "frequented / populous"
+                                }
+                        ],
+                        "original_statement": "From Latin celebritas 'crowd, fame', from celeber 'frequented, numerous'."
+                },
+                "core_concept": {
+                        "en": "Multitude / crowded",
+                        "ja": "多くの人々がそこに「集まり（crowd）」、熱狂の中に置かれている「中心人物」"
+                },
+                "thinking_layer": "もとは「頻繁に訪れられる場所」という意味でした。転じて、多くの視線が集中する状態へ。それは個人の人格そのものよりも、人混みが作り出した「まばゆい虚像」としての輝き。衆人環視の中で増幅された、実体のない熱量を指します。",
+                "synonyms": [
+                        "fame",
+                        "renowned person",
+                        "notability"
+                ],
+                "antonyms": [
+                        "obscurity",
+                        "nobody",
+                        "anonymity"
+                ],
+                "aftertaste": "無数のフラッシュの残像と、雑踏の中に消えていく自分の名前",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "kel-",
+                                        "meaning": "to drive"
+                                }
+                        ],
+                        "points": [
+                                "人波が押し寄せる（drive）イメージ。人気とは、人々の移動の結果です。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "14th Century Latin"
+        },
+        {
+                "id": "celestial",
+                "word": "Celestial",
+                "part_of_speech": "adjective",
+                "meaning": "天の、天空の、神々しい",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "caelum",
+                                        "type": "root",
+                                        "meaning": "sky / heaven"
+                                }
+                        ],
+                        "original_statement": "From Latin caelestis, from caelum 'sky, heaven'."
+                },
+                "core_concept": {
+                        "en": "Of the sky",
+                        "ja": "地上の重力や汚れを離れ、透き通った「空（sky）」の彼方にある、神聖な静寂"
+                },
+                "thinking_layer": "肉体（carnal）の対極。手の届かない高さ、永遠不変の星々の運行、そして死後の魂が辿り着く場所。青く澄んだ「虚空」という名のキャンバスに、神々が描いた光の粒子のような、超越的な美しさを湛えています。",
+                "synonyms": [
+                        "heavenly",
+                        "ethereal",
+                        "divine"
+                ],
+                "antonyms": [
+                        "terrestrial",
+                        "earthly",
+                        "mundane"
+                ],
+                "aftertaste": "首が痛くなるほど高く見上げた先の、冷たく清らかな光の瞬き",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "kaid-lo-",
+                                        "meaning": "bright / sky"
+                                }
+                        ],
+                        "points": [
+                                "hollow（うつろな）という説も。無限の広がりを持つ「空洞」こそが、神の住処でした。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "14th Century Latin / Old French"
         },
         {
                 "id": "cement",
