@@ -39048,5 +39048,369 @@ const WORDS = [
                 "source": "Online Etymology Dictionary",
                 "date": "2026-03-01",
                 "era": "Late Middle English, 14th Century"
+        },
+        {
+                "id": "transpose",
+                "word": "Transpose",
+                "part_of_speech": "verb",
+                "meaning": "置き換えることで位置や順序を変える",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "trans-",
+                                        "type": "prefix",
+                                        "meaning": "越えて",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "ponere",
+                                        "type": "root",
+                                        "meaning": "置く",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "Derived from the Latin 'transponere', a combination of 'trans' meaning 'across' and 'ponere' meaning 'to place'."
+                },
+                "core_concept": {
+                        "en": "The elegant dance of change and exchange.",
+                        "ja": "変化と交換の優雅な舞踊"
+                },
+                "thinking_layer": "『transpose』という言葉は、物事の秩序や位置を交換する行為を示していますが、それは単なる配置換えではなく、そこには深遠な哲学的意味が存在します。私たちの人生の中で、物事が元の状態から新しい形へと変わる瞬間は数多くあります。このような変化は、しばしば予測不可能でありながら、私たちの感覚を揺さぶり、新しい視点を開かせます。人生の中の「transpose」は物理的な次元だけでなく、感情や思考の領域にも現れます。外部からの圧力で変わることもあれば、内なる衝動で自ら変化を起こすこともあります。どちらのケースにおいても、この言葉の本質は、再構築と再評価、そして異なる光の下で見つめ直す行為にあります。それは、自らの現実を超え、新たな可能性を発見するための特別なプロセスであり、一つの形から次の形へと、絶え間ない成長と進化を示しています。私たちの存在の基盤を揺るがし、新たなる認識の扉を開く鍵でもあります。",
+                "synonyms": [
+                        "Shift",
+                        "Change"
+                ],
+                "antonyms": [
+                        "Maintain",
+                        "Stagnate"
+                ],
+                "aftertaste": "A masterful reordering reveals unforeseen beauty.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "trans",
+                                        "meaning": "across"
+                                },
+                                {
+                                        "term": "ponere",
+                                        "meaning": "to place"
+                                }
+                        ],
+                        "points": [
+                                "『transpose』の語源は、変形と交差による革新性に満ちています。それは単なる位置の交換ではなく、新しい形とより深い意味を持つ行動の象徴です。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2023-10-01",
+                "era": "Late Middle English, derived from Latin"
+        },
+        {
+                "id": "ignite",
+                "word": "Ignite",
+                "part_of_speech": "verb",
+                "meaning": "点火する",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "ignite",
+                                        "type": "root",
+                                        "meaning": "火をつける・始める",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'ignite' originates from the Latin 'ignire', meaning 'to set on fire', which derives from 'ignis', meaning 'fire.'"
+                },
+                "core_concept": {
+                        "en": "To awaken the dormant flame, giving life to the potential energy hidden within.",
+                        "ja": "潜む可能性のエネルギーに命を与える、眠れる火を目覚めさせること。"
+                },
+                "thinking_layer": "私たちが『ignite』という言葉を聞くとき、それは単に物理的な炎を思い浮かべるだけでなく、内なる可能性、情熱の火を思い起こさせる。この単語は、私たちの魂の奥深くに眠るエネルギーを呼び覚ますものである。火は創造と破壊の両方の象徴であり、その二面性を持つ『ignite』は、変化の始まりを示唆する。自然界における火は、土壌を肥沃にし、新たな生命を育む。しかし同時に、無情に全てを焼き尽くす力も持つ。このように、『ignite』は我々の人生の転機をもたらすきっかけとなりうる。新しいプロジェクトの立ち上げ、人との新たな絆を結ぶこと、それぞれの瞬間において、私たちは心の中の火を灯し、新たな道を切り開く決意を示している。そして、その情熱の光は、他者にも伝播し、連鎖していく。響き合う火のように、それは個々の魂を燃え立たせ、共同体を明るく照らし続ける。火が持つ可能性と破壊の間で、私たちは常にその均衡を取り続ける必要がある。これが『ignite』の真髄であり、私たちの内なる熱意と変化への欲求に火をつける力である。",
+                "synonyms": [
+                        "Kindle",
+                        "Light"
+                ],
+                "antonyms": [
+                        "Extinguish",
+                        "Quench"
+                ],
+                "aftertaste": "To ignite is to breathe life into the sparks of potential within us.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "ignis",
+                                        "meaning": "fire"
+                                }
+                        ],
+                        "points": [
+                                "『ignite』はラテン語の『ignis』（火）に由来し、物理的な炎だけでなく、精神的な情熱や創造的なエネルギーをも示唆する。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Late Middle English, from Latin origin"
+        },
+        {
+                "id": "envision",
+                "word": "Envision",
+                "part_of_speech": "verb",
+                "meaning": "心の中で想像すること",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "en-",
+                                        "type": "prefix",
+                                        "meaning": "の中に",
+                                        "lang": "French"
+                                },
+                                {
+                                        "text": "vision",
+                                        "type": "root",
+                                        "meaning": "視覚、視野",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'envision' originated in the mid-19th century, deriving from the French 'envisager', blending 'en-', meaning in, with 'vision', implying sight or view."
+                },
+                "core_concept": {
+                        "en": "To paint reality with the brush of the mind’s eye.",
+                        "ja": "心の目で現実を描き出す美しい行為。"
+                },
+                "thinking_layer": "『心の目で見る』という行為は、単なる視覚の拡張ではなく、内面的な宇宙を構築する行為である。それは、現実の枠を超え、思考と感覚の豊かさを探求する旅に似ている。過去と未来が交錯し、現実の重さから解放される瞬間を生むことであり、そこには無限の可能性が広がる。『envision』という言葉の根底には、人間の創造力の源泉である『意識の光』が隠されている。それは、存在に意味を付与し、新たな世界を構成する能力である。しっかりと設置された目に見えないキャンバスに、人間は自身の希望、恐れ、夢を織り交ぜながら、その先にある未知の地平を見つめようとする。そしてその行為そのものが、自己の超越性を問う哲学的問いを投げかける。個々の想像力がどれ程の力を秘め、新たな生命力をもたらすか、一度縛りを失った世界で、我々はその光を頼りに進み続けるのだ。",
+                "synonyms": [
+                        "Visualize",
+                        "Imagine"
+                ],
+                "antonyms": [
+                        "Ignore",
+                        "Overlook"
+                ],
+                "aftertaste": "To envision is to craft the unseen with threads of thought.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "vision",
+                                        "meaning": "sight, view"
+                                }
+                        ],
+                        "points": [
+                                "『envision』は、単なる観察以上のものを意味し、人間の潜在的な可能性を広げる力を指す。創造力の表現手段として、視覚情報に加え心の理解と洞察を含む、もっと深い意味を持つ。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "19th Century"
+        },
+        {
+                "id": "formation",
+                "word": "Formation",
+                "part_of_speech": "noun",
+                "meaning": "形成、構成",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "form-",
+                                        "type": "root",
+                                        "meaning": "形",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "-ation",
+                                        "type": "suffix",
+                                        "meaning": "行為や状態",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "Derived from Old French 'formacion', from Latin 'formatio', meaning the act or state of forming or shaping."
+                },
+                "core_concept": {
+                        "en": "The artistry of shaping existence.",
+                        "ja": "存在を形作る芸術"
+                },
+                "thinking_layer": "私たちが「形成」という言葉を考えるとき、その表面の意味を超えたものを想像することができます。その語源に目をやれば、単なる形状や構造としての概念ではなく、より深遠な意義を見出すことができます。それは、豊かな可能性から現実の姿を彫り出す行為であり、無と有との狭間に浮かぶ神秘的な儀式のようです。この宇宙において、存在の基盤を築くプロセスは、心の中にある希望や夢のように儚く、そして力強いものです。形は、空間と時間が結晶化したものであり、無数の出会いや別れ、そして歴史が交差する一点であり、我々の存在そのものを映し出す鏡でもあります。形成されるものは常に静止しているわけではなく、絶え間ない変化を伴う動的なプロセスなのです。形を与えるということは、過去から未来への架け橋を築き、存在の新たな意義を見出す冒険でもあるのです。このように、形成は単なる物質的な形状を超え、私たちが生きる意味を問うているようにも感じられます。",
+                "synonyms": [
+                        "Creation",
+                        "Construction"
+                ],
+                "antonyms": [
+                        "Destruction",
+                        "Dismantling"
+                ],
+                "aftertaste": "From the void, we carve our essence.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "form",
+                                        "meaning": "shape"
+                                },
+                                {
+                                        "term": "ation",
+                                        "meaning": "action or process"
+                                }
+                        ],
+                        "points": [
+                                "言語学的には、ラテン語の根「formare」（形を作る）から派生し、その過程の結果として取られた形態や方法を指すようになった。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Late Middle English"
+        },
+        {
+                "id": "agreement",
+                "word": "Agreement",
+                "part_of_speech": "noun",
+                "meaning": "合意",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "agree-",
+                                        "type": "root",
+                                        "meaning": "受け入れる",
+                                        "lang": "Old French"
+                                },
+                                {
+                                        "text": "-ment",
+                                        "type": "suffix",
+                                        "meaning": "行為または結果",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'agreement' comes from Middle English, derived from Old French 'agreer' meaning 'to please', merged with the suffix '-ment'."
+                },
+                "core_concept": {
+                        "en": "The harmonious confluence of wills.",
+                        "ja": "意志の調和的融合"
+                },
+                "thinking_layer": "「合意」という言葉は、個々の意志が集い、調和を生み出すプロセスを象徴しています。合意なしには、社会は不安定な岩の上に建てられた塔の如く、簡単に崩れ去ります。この概念は、個々の意志の自由がありながらも、それらが共振し合って生まれる新たな調和を示しており、まるでオーケストラの中で異なる楽器がそれぞれの音色を保ちつつ、単一の交響曲を奏でるかのようです。合意はただの契約や法的拘束力を持つ文書ではなく、人々が互いの心に耳を傾け、共に未来を紡ぐという深淵な哲学的行為。言葉を超えた理解や意図を超えた共生が求められ、最終的には多様性の調和的表現となります。この感覚は、瞬時に消えゆく流星のように儚く、それでいて心の奥深くに刻まれる揺るぎない印象を残します。",
+                "synonyms": [
+                        "pact",
+                        "treaty"
+                ],
+                "antonyms": [
+                        "disagreement",
+                        "discord"
+                ],
+                "aftertaste": "Agreement is the melody created by the orchestra of mutual wills.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "agréer",
+                                        "meaning": "to please"
+                                }
+                        ],
+                        "points": [
+                                "古フランス語の 'agreer' は快く受け入れるという意味があり、これは個々の意志が集い共鳴する過程を反映しています。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Middle English, 14th Century"
+        },
+        {
+                "id": "significant",
+                "word": "Significant",
+                "part_of_speech": "adjective",
+                "meaning": "重要で意義深い",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "sign-",
+                                        "type": "root",
+                                        "meaning": "しるし",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "-ficant",
+                                        "type": "suffix",
+                                        "meaning": "作る",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "Derived from the Latin 'significare', meaning 'to signify or point out'."
+                },
+                "core_concept": {
+                        "en": "A moment that whispers threads of the cosmos.",
+                        "ja": "宇宙の糸をささやく瞬間"
+                },
+                "thinking_layer": "「重要である」ということ、それは単なる物事の大小を超えた、存在の意味に根ざす哲学的命題です。その重要性とは、無数の選択と可能性の中から、その瞬間、その場所で自らを語り始める意味なのです。人は時に、何が重要なのかを問い続けますが、その問いの背後には、存在そのものの証明が潜んでいます。生命は無数の意味が編み込まれた織物であり、その中で重要であることは、他の無数の可能性から一つを選び取られたことであり、その選択が持つ独自性こそが、その瞬間の重みを決定づけるのです。言葉、行動、あるいは思考の一節が全体において何を意味するのか、その背後に潜む言外の領域に触れることで、意味が深まります。人生のあらゆる側面が広大なキャンバスであるとするなら、その中で重要であることは、一塗りの鮮やかな色彩となり、他の色と共鳴し、調和しながら新たな光を放つのです。それはまた、人間が意識という境界を超えて、他者や世界と繋がっていく際の入り口でもあります。だからこそ「重要である」ということは、まさに存在の意味を問いかける行為なのです。",
+                "synonyms": [
+                        "meaningful",
+                        "noteworthy"
+                ],
+                "antonyms": [
+                        "insignificant",
+                        "trivial"
+                ],
+                "aftertaste": "A single insight can illuminate an entire life.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "signum",
+                                        "meaning": "a sign"
+                                },
+                                {
+                                        "term": "facere",
+                                        "meaning": "to make"
+                                }
+                        ],
+                        "points": [
+                                "この言葉は、意味の大きさと深さを示す語で、特に物事の関係性や因果を問い直す際に用いられます。"
+                        ]
+                },
+                "source": "The Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Late Latin, early 14th Century"
+        },
+        {
+                "id": "content",
+                "word": "Content",
+                "part_of_speech": "noun/adjective",
+                "meaning": "満足する様子や状態",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "contentus",
+                                        "type": "root",
+                                        "meaning": "満足",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'content' originates from the Latin 'contentus', meaning 'satisfied', and has evolved through Old French 'content' meaning 'contained, restrained'."
+                },
+                "core_concept": {
+                        "en": "A tranquil union of necessity and fulfillment.",
+                        "ja": "必要と満足の穏やかな結合"
+                },
+                "thinking_layer": "『コンテンツ』という言葉は、我々の内なる平静と外的安定の感覚を追求する、人間の深い希求を象徴しています。単なる物質的な所有物を超えて、この言葉は精神的な満足感、そして自己充足の奥深い状態を呼び起こします。それは、外界の嵐の中でも心は落ち着いていて、不足感や渇望から解放されることを示しています。古代の哲学者が示唆したように、物事の無常を受け入れ、比較や競争を超えて「あるがままを受け入れる」悟りの境地に達することの重要性を響かせます。「コンテンツ」は、自然の静謐さに調和し、物質的奢侈から距離を置いた生活、すなわち求道の結果としての純粋で簡素な喜びを顕します。これらは、現代の騒がしい世界においても、不可欠な内なる静寂の氷山と表現することができるでしょう。人生の全てが変わり続ける中で、内なる満足を見つけることこそが、究極の自由をもたらすのです。",
+                "synonyms": [
+                        "Satisfaction",
+                        "Contentment"
+                ],
+                "antonyms": [
+                        "Discontent",
+                        "Dissatisfaction"
+                ],
+                "aftertaste": "Contentment whispers of serene equilibrium within chaos.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "contentus",
+                                        "meaning": "satisfied"
+                                }
+                        ],
+                        "points": [
+                                "『コンテンツ』はラテン語の「contentus」に由来し、満足を意味します。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "16th Century"
         }
 ];
