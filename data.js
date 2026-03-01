@@ -33517,5 +33517,408 @@ const WORDS = [
                 "source": "Online Etymology Dictionary",
                 "date": "2026-03-01",
                 "era": "14th Century"
+        },
+        {
+                "id": "befriend",
+                "word": "Befriend",
+                "part_of_speech": "verb",
+                "meaning": "友達になる",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "prefix: be-",
+                                        "type": "prefix",
+                                        "meaning": "～になる",
+                                        "lang": "Old English"
+                                },
+                                {
+                                        "text": "root: friend",
+                                        "type": "root",
+                                        "meaning": "友達",
+                                        "lang": "Old English"
+                                }
+                        ],
+                        "original_statement": "The term 'befriend' evolved from the combination of 'be-' and 'friend' in Old English, meaning to make or treat someone as a friend."
+                },
+                "core_concept": {
+                        "en": "To weave threads of companionship in the tapestry of life.",
+                        "ja": "人生という織物の中に友情の糸を編むこと"
+                },
+                "thinking_layer": "「友と成る」ということは、自己を越え、他者の人生に静かに入り込み、その人の一部となる行為である。友情は、心と言葉が交わる場所であり、静寂と語らいが調和する瞬間だ。友になるという行為には、時の流れを超えて音も無く二つの存在が溶け合う高貴な魔法が潜む。友情とは単なる感情ではなく、普遍的な真理に触れる経験なのである。まるで、夜空に星を見上げ、無言のうちに宇宙の果てしなさを感じ取るように、友情とは無形の連帯感をもって我々を繋ぐ。友となることには、無限の可能性と無償の愛が内包され、心の深き井戸を掘り進め、他者の存在を喜びと共に満たしてゆく行為となる。友情は共鳴し続ける音楽のように、時と空間を超越し、生命の軌跡に刻まれる永遠の詩である。友人となることで自身の物語が他者の物語に美しく織り込まれていく過程は、宇宙の一部として共に響き合い、輝く瞬間である。",
+                "synonyms": [
+                        "Establish friendship",
+                        "Make friends"
+                ],
+                "antonyms": [
+                        "Estrange",
+                        "Alienate"
+                ],
+                "aftertaste": "Friendship is the silent melody in the symphony of life.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "friend",
+                                        "meaning": "friend"
+                                }
+                        ],
+                        "points": [
+                                "語源は古英語の 'be-' と 'freond' に遡り、『友達になる』という意味を有している。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "Middle English"
+        },
+        {
+                "id": "flinch",
+                "word": "Flinch",
+                "part_of_speech": "verb",
+                "meaning": "ひるむ、後ずさりする",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "Old French 'flenchir'-",
+                                        "type": "root",
+                                        "meaning": "たわむ、曲がる",
+                                        "lang": "Old French"
+                                }
+                        ],
+                        "original_statement": "The word 'flinch' originated from the Old French word 'flenchir', meaning 'to turn aside or dodge'."
+                },
+                "core_concept": {
+                        "en": "The essence of retreat and hesitation embedded in a moment.",
+                        "ja": "瞬間の中に埋め込まれた退避と躊躇の本質"
+                },
+                "thinking_layer": "『ひるむ』という言葉の背後には、人間のもっとも基本的な防衛反応、つまり恐怖という感情が潜んでいる。恐怖は未知、痛み、または損失への予期として心に宿り、その瞬間、人は後退し、あるいは思考と肉体が共鳴し合い同時に緊張を緩める。ひるむことは弱さを示すものかもしれないが、それはまた生存の知恵でもある。この小さな身振りの中で、心は未来を予測し、今ここにある危険を避けるための道を探す。自己保存の本能は我々を守り、ひるむことで新たな状況下でのバランスを取り戻そうとする。この行為を言葉でひるむと表すことにより、人間はその一瞬を認識し、それが持つ深層的な意味をも理解する。ひるむということには、単なる物理的な動き以上の、深い心の揺れが存在し、その揺れは人間の内面的な儚さと成長の物語を記しているのである。",
+                "synonyms": [
+                        "recoil",
+                        "wince"
+                ],
+                "antonyms": [
+                        "face",
+                        "confront"
+                ],
+                "aftertaste": "Flinching unveils our instinctual dance with life's uncertainties.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "flinch",
+                                        "meaning": "to turn aside"
+                                }
+                        ],
+                        "points": [
+                                "フランス語起源の語彙は、時折自己防衛の本能を表すものであり、人間の行動に対する深層的な理解を提供する。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "Mid-16th Century"
+        },
+        {
+                "id": "commute",
+                "word": "Commute",
+                "part_of_speech": "noun/verb",
+                "meaning": "通勤・交換",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "com-",
+                                        "type": "prefix",
+                                        "meaning": "共に、共通の",
+                                        "lang": "ラテン語"
+                                },
+                                {
+                                        "text": "mutare",
+                                        "type": "root",
+                                        "meaning": "変える",
+                                        "lang": "ラテン語"
+                                }
+                        ],
+                        "original_statement": "The word 'commute' originates from the Latin 'commutare', meaning 'to change altogether'."
+                },
+                "core_concept": {
+                        "en": "The gentle oscillation of life between places and purposes.",
+                        "ja": "場所と目的の間を揺れ動く人生の優雅な内在"
+                },
+                "thinking_layer": "通勤とは、単に場所から場所への移動ではなく、人間存在の揺れ動き、日々を過ごす中での希望と義務のリズムを象徴する。現代の摩天楼の間で、通勤者たちは心の中の静寂と騒動を抱え、それぞれの夢と現実に向かって揺れ動く。道中の時間は、考え事に没頭することができる貴重なひとときであり、自分自身と向きあうチャンスでもある。互いに交流し、癒しを求めて同じ車両に乗り込み、私たちの心は無限の可能性と変化に満ちている。通勤は、心の恒常の中に潜む動的プロセスであり、そんな中で我々は、異なる生活の色合いをなぞることから自己の意義を見出す試みを続ける。揺れる車窓から見える景色は、人生の節目として私達を祝福し、静かな教育を続けるように誘う。",
+                "synonyms": [
+                        "Travel",
+                        "Transit"
+                ],
+                "antonyms": [
+                        "Stay",
+                        "Remain"
+                ],
+                "aftertaste": "Beneath the routine of commuting, a tranquil symphony of purpose unfolds.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "mutare",
+                                        "meaning": "to change"
+                                }
+                        ],
+                        "points": [
+                                "通勤は、日常生活における変化と連続性の象徴であり、自己と社会の関係を再定義する役割を持つ。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "Late Middle English (14th Century)"
+        },
+        {
+                "id": "devise",
+                "word": "Devise",
+                "part_of_speech": "verb",
+                "meaning": "考案する、計画する",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "devis-",
+                                        "type": "root",
+                                        "meaning": "考える、分ける",
+                                        "lang": "中古フランス語"
+                                }
+                        ],
+                        "original_statement": "The word 'devise' finds its origin in Middle English 'devysen', derived from Old French 'devisier', meaning to divide or plan, which itself comes from Latin 'dividere'."
+                },
+                "core_concept": {
+                        "en": "The art of imagination sculpting the intangible into the tangible.",
+                        "ja": "想像力が無形を有形に形作る芸術"
+                },
+                "thinking_layer": "「デヴァイズ」という言葉には、我々が思考する行為そのものと、それに伴う創造的な試みを含む深遠な意義があります。人間の知性は無限の宇宙を探る能力を持ち、具体的な形を与えることによって、日常的な現実に変化をもたらす。デヴァイズは、人の思考の源に宿る神秘的な力へのアクセスを意味する。時間と空間を越え、知識の断片を集め、それらを新しい秩序や美に変える。この過程は、人生自体と似ており、未知の地平線に向かって航海し、新しい土地を発見する冒険のようでもあります。そうした実践は、人間の存在を定義する重要な軸であり、我々に可能性の領域を広げてくれる。デヴァイズは変化を恐れず、未知を探求する心の姿を象徴する。心が描く世界を現実に引き寄せるこの能力は、単なる計画を超えて、我々の内面性を体験的に変容させる力を持つ。何かを考え出すことは、それ自身が芸術であり、人生を深く鮮やかに感じるための手段である。このプロセスの本質を見ることで、我々は人間の心が持つ無尽の可能性を知ることができる。",
+                "synonyms": [
+                        "Conceive",
+                        "Create"
+                ],
+                "antonyms": [
+                        "Destroy",
+                        "Neglect"
+                ],
+                "aftertaste": "In the heart of creation, 'devise' illuminates the path from thought to substance.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "dividere",
+                                        "meaning": "to divide"
+                                }
+                        ],
+                        "points": [
+                                "「デヴァイズ」は、想像力を動員して新しい形を生み出す行為を意味し、その過程で人々の人生に新たな価値を付加します。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "Middle English Era, 13th Century"
+        },
+        {
+                "id": "fluent",
+                "word": "Fluent",
+                "part_of_speech": "adjective",
+                "meaning": "流暢な、滑らかな",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "fluent-",
+                                        "type": "root",
+                                        "meaning": "流れる",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'fluent' is derived from the Latin term 'fluens', the present participle of 'fluere', meaning 'to flow'."
+                },
+                "core_concept": {
+                        "en": "The effortless grace of continuous flow.",
+                        "ja": "途切れることなく流れる優美さ"
+                },
+                "thinking_layer": "『流暢』という言葉は、音や言葉、流れの中でいかに人の心を動かすことができるのかを考えさせられる。その流れは、水が川を流れるかのように、滑らかで、自然な形で流れ出る。それは、たゆたうことなく、円滑に進む力を持ち、まるでチチュウカイの波打つ海岸のように、静かでなお活力に満ちた運動である。この恩寵の流れは、心を開放し、未知なる領域へと誘うのだ。心が解き放たれ、言葉が自然と口をつき、精神が終わることなき旅に出る、一つの高速道路を作り出す。それは、束縛を解かれた表現が如何に強力であるかを示し、自身の内なる真理を他者と分かち合う手段となる。この哲学的な流れは、時間の経過や文化の変遷を超えても、常に普遍的であり続ける。一人ひとりの内に宿る流れが、個性として外に表出し、様々な形で聞く人を魅了する。この流れを見つけ、維持し、育むことで、人はより豊かな自己表現を得る道が開かれるのだ。",
+                "synonyms": [
+                        "Eloquent",
+                        "Articulate"
+                ],
+                "antonyms": [
+                        "Hesitant",
+                        "Inarticulate"
+                ],
+                "aftertaste": "To speak fluently is to breathe life into words.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "fluere",
+                                        "meaning": "to flow"
+                                }
+                        ],
+                        "points": [
+                                "『流動』という概念が言語表現においてどのように影響を及ぼすかの考察。流れのように自然で途切れない表現力は、他者とのコミュニケーションの基盤を成す。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Late 14th Century"
+        },
+        {
+                "id": "conspirator",
+                "word": "Conspirator",
+                "part_of_speech": "noun",
+                "meaning": "共謀者または陰謀をたくらむ人",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "con-",
+                                        "type": "prefix",
+                                        "meaning": "共に",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "-spirare",
+                                        "type": "root",
+                                        "meaning": "呼吸する",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "Originating from Latin 'conspirare' meaning 'to breathe together', referring to the secretive harmony of purposes shared by conspirators."
+                },
+                "core_concept": {
+                        "en": "A poetic weaving of breath, a silent harmony in secrecy.",
+                        "ja": "秘められた調和の中で、息を合わせる詩的な織り成し"
+                },
+                "thinking_layer": "生命は呼吸に始まり、呼吸に終わる。陰謀者が共に息を合わせるとき、それは一種の生物学的共鳴を形成するかのようである。息をひそめ、時間的にも空間的にも不調和を避け、共同の目的を達成しようとする。この共謀という行動は、個別の生命が一つの意識共同体を形成し、個を超えた目的のために力を合わせる試みである。それは、生命そのもののように絶え間なく脈動し、強力で不可視な目的へと導いていく。それは、言葉のない会話であり、無音の交響曲のようなもの。共謀者たちは、目標を達成するまで、共に呼吸を続け、意識を合わせ、その調和の中で個を超越する力を発揮するのだ。陰謀は、単に法律や倫理を超えた暗躍ではなく、ある種の霊的な儀式であり、意識の深みから浮かび上がる意思の力を形作るものである。",
+                "synonyms": [
+                        "Plotter",
+                        "Schemer"
+                ],
+                "antonyms": [
+                        "Defender",
+                        "Advocate"
+                ],
+                "aftertaste": "In secrecy and shared breath, great revolutions quietly begin.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "spirare",
+                                        "meaning": "to breathe"
+                                }
+                        ],
+                        "points": [
+                                "ラテン語の語源は、息を合わせることを象徴し、霊的共鳴を指す。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "Late Middle English, from Old French"
+        },
+        {
+                "id": "exclamation",
+                "word": "Exclamation",
+                "part_of_speech": "noun",
+                "meaning": "驚きや喜び、悲しみなどを表現する感嘆の声",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "ex-",
+                                        "type": "prefix",
+                                        "meaning": "外に、〜から",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "clamare",
+                                        "type": "root",
+                                        "meaning": "叫ぶ、知らせる",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'exclamation' originates from the Latin 'exclamare', indicating a strong outcry or emotional utterance."
+                },
+                "core_concept": {
+                        "en": "A vibrant outpour from the soul.",
+                        "ja": "魂から溢れ出る活力の声"
+                },
+                "thinking_layer": "感嘆とは心の内側から突如として湧き上がる感情の奔流である。その力強さは、瞬間を超越し、時間をも透過して周囲の空間に刻印される。感嘆の声は、人間の感情の多様性を一瞬に凝縮し、特異な形で周囲に響き渡る。それは人が自然や出来事、心象に出会ったときの、内的な宇宙の拡大を表している。感嘆はまた、個々の存在が自我を超えて世界と融合する瞬間でもある。それは美しい瞬間の捕捉であり、その場限りの喜びや驚きを他者と共有しようとする深い欲望の象徴でもある。まるで言葉の波が織成す音楽のようなもので、その一音一音が心の奥底に響き、やがて静けさの中へと消えていく。感嘆は一人一人の心に特別な意味を持ち、時には自己認識の一歩として、時には単なる情感の発露として、静かな自問を促す。",
+                "synonyms": [
+                        "Outcry",
+                        "Interjection"
+                ],
+                "antonyms": [
+                        "Silence",
+                        "Whisper"
+                ],
+                "aftertaste": "An exclamation is the soul's voice unshackled.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "clamare",
+                                        "meaning": "to shout"
+                                }
+                        ],
+                        "points": [
+                                "感嘆は単に言葉の響きではなく、精神の状態や感情の豊かさを反映するものであり、人間の存在の根源に触れる行為である。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Late Middle English, with roots in Latin"
+        },
+        {
+                "id": "benevolent",
+                "word": "Benevolent",
+                "part_of_speech": "adjective",
+                "meaning": "慈悲深い、善意のある",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "bene-",
+                                        "type": "prefix",
+                                        "meaning": "良い",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "volent-",
+                                        "type": "root",
+                                        "meaning": "意志のある、願う",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'benevolent' originates from the Latin benevolentia, which denotes a disposition to do good."
+                },
+                "core_concept": {
+                        "en": "A gentle flow of goodwill from the depths of one's heart.",
+                        "ja": "心の奥底から溢れ出る善意の優しい流れ"
+                },
+                "thinking_layer": "「善意」という概念は人間の意識の深層に根ざしており、一人ひとりの中に普遍的な光として輝いています。この言葉には、他者への無償の愛や心遣いの精髄が宿っており、それは時に見返りを求めずに行動する力の源です。人生の中で、私たちは常に選択を迫られる岐路に立たされます。そんな時、この「善意」の心は、内なる羅針盤となり、私たちを道徳的に正しい選択へと導いてくれるのです。「善意」が輝く時、それはまるで星々が闇夜を照らすが如く、心を暖かく照らします。そしてその温もりは、自由な意思によるものであり、他者の幸福を願う本質的な希望の表れでもあります。善に向かう行為は、社会を築き、絆を強固にし、さらには未来への灯火となるでしょう。それは、個の幸福を超越し、絶え間なく続く調和のメロディーを奏でるのです。「善意」とは、一つの行動、一つの思いが全体に波及する大いなる力であると同時に、個々が持つ宇宙的な神秘の一部です。",
+                "synonyms": [
+                        "Altruistic",
+                        "Generous"
+                ],
+                "antonyms": [
+                        "Malevolent",
+                        "Selfish"
+                ],
+                "aftertaste": "The beauty of benevolence lies in its timeless, unselfish grace.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "bene",
+                                        "meaning": "good, well"
+                                },
+                                {
+                                        "term": "volens",
+                                        "meaning": "wishing, willing"
+                                }
+                        ],
+                        "points": [
+                                "「bene」はラテン語で「良い」を意味し、すべての善行の土台として機能します。",
+                                "「volent」はラテン語の「意志」や「願う」という意味から派生し、意図的な行動の力を示しています。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary, Latin Dictionary by Lewis & Short",
+                "date": "2026-03-01",
+                "era": "Late Middle English, 14th Century"
         }
 ];
