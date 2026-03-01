@@ -46126,5 +46126,215 @@ const WORDS = [
                 "source": "Online Etymology Dictionary",
                 "date": "2026-03-01",
                 "era": "Late Middle English"
+        },
+        {
+                "id": "repair",
+                "word": "Repair",
+                "part_of_speech": "noun/verb",
+                "meaning": "修復する、直すこと",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "re-",
+                                        "type": "prefix",
+                                        "meaning": "再び",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "parare",
+                                        "type": "root",
+                                        "meaning": "準備する",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "From the Latin 'reparare', combining re- (again) and parare (prepare, provide)."
+                },
+                "core_concept": {
+                        "en": "To weave back the fabric of time and purpose.",
+                        "ja": "時間と目的の織物を再び編む"
+                },
+                "thinking_layer": "修復という言葉は、私たちが世界に対する責任をいかに遂行するかという、深遠な哲学的問いを投げかけます。損傷や欠陥に直面したとき、人間はどのようにして無秩序から秩序を再構築するのでしょうか。この行為は物質的な領域を超えて、精神的な領域にまで浸透します。物事を元の形に戻す努力は、私たち自身の内なる崩壊と再生、生と死のサイクル、創造と崩壊の永遠のダンスを反映しているのです。その結果として、修復とは単なる物理的作業ではなく、目に見えない線を丁寧に縫い合わせ、何か新しいものに魂と命を吹き込む行為であると言えるでしょう。ここには、自らを越えて拡張する希望と意志の底流があります。世界が傷つくたびに、私たちはまたその一部を修復することで、愛と創造を再構築する機会を得るのです。このようにして、修復は我々を過去と未来に同時に運び、常に変わり続ける現在を生きることを教えてくれます。",
+                "synonyms": [
+                        "Fix",
+                        "Mend"
+                ],
+                "antonyms": [
+                        "Break",
+                        "Destroy"
+                ],
+                "aftertaste": "Repair binds the past and future in an endless dialogue.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "parare",
+                                        "meaning": "to prepare, make ready"
+                                }
+                        ],
+                        "points": [
+                                "修復は単なる物質の改善ではなく、存在の根本に触れる行為です。それは、時を経た価値を再発見し、崩壊したものの中に潜む可能性を引き出すことでもあります。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "14th Century"
+        },
+        {
+                "id": "extract",
+                "word": "Extract",
+                "part_of_speech": "noun/verb",
+                "meaning": "抽出する、引き出す",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "ex-",
+                                        "type": "prefix",
+                                        "meaning": "外に",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "trahere",
+                                        "type": "root",
+                                        "meaning": "引く",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'extract' originates from the Latin 'extrahere', meaning 'to draw out'."
+                },
+                "core_concept": {
+                        "en": "To unveil the hidden essence within.",
+                        "ja": "内なる本質を引き出す行為"
+                },
+                "thinking_layer": "抽出という行為は、物質や思考の奥深くに隠された真実を明るみに出すことに他なりません。日常の中で我々は、多くの層に覆われた情報や感情、さらには本来的な姿を求めて、常に探求し続ける存在です。抽出とは、この隠されたものに到達する術であり、同時にそれを解き放つ瞬間の美しさです。我々が鉱山から自然の恵みを、または感性から創造的なアイデアを抽出するとき、その過程はあたかも世界が密かに語っていた物語を私たちが紡ぎ直すようなものです。抽出は単なる物理的な行為ではなく、心の眼で見つめ、手の感触でつかむ哲学的な営みなのです。隠されたものを解き放つという行為は、私たちの内なる変容をもたらす。抽出は終わりなき探求であり、同時に新たな始まりです。それは現実球の中に潜む潜在的宇宙を垣間見るための鍵です。この行為を通じて、私たちは内なる声を聴き、更なる知識を世界へと送り出すのです。",
+                "synonyms": [
+                        "Derive",
+                        "Remove"
+                ],
+                "antonyms": [
+                        "Embed",
+                        "Insert"
+                ],
+                "aftertaste": "To extract is to listen closely to the quiet whispers of hidden truths.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "trahere",
+                                        "meaning": "to pull, drag"
+                                }
+                        ],
+                        "points": [
+                                "『extract』はラテン語の『ex』と『trahere』に由来し、文字通り「外へ引き出す」を意味します。この語の歴史は探求と発見の織り成す美しき物語を紡ぐものです。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Late Middle English, via Latin 'extrahere'"
+        },
+        {
+                "id": "graduate",
+                "word": "Graduate",
+                "part_of_speech": "noun/verb",
+                "meaning": "卒業する、学位を取得する",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "grad-",
+                                        "type": "root",
+                                        "meaning": "階段、段階",
+                                        "lang": "ラテン語"
+                                },
+                                {
+                                        "text": "-uates",
+                                        "type": "suffix",
+                                        "meaning": "～する",
+                                        "lang": "ラテン語"
+                                }
+                        ],
+                        "original_statement": "Derived from the Latin 'gradus' meaning 'step, grade' and later adopted into Medieval Latin 'graduatus', referring to someone who has taken a step towards academic achievement."
+                },
+                "core_concept": {
+                        "en": "The crossing of thresholds and embrace of new potential.",
+                        "ja": "新たな可能性への一歩を刻む瞬間"
+                },
+                "thinking_layer": "卒業という言葉は、単なる学業の完了を超えた人間の成長を象徴しています。人は階段を一歩一歩上り、時にはつまずきながらも、努力によってより高みへ到達しようとする存在です。この概念は、個々の内側に宿る無限の可能性と、未知なる未来への扉を開く勇気を表しています。人が卒業するということは、彼がこれまでの過程で得た知識や経験を糧に、さらなる広い世界へ航海を始めることを示唆しているのです。私たちの人生の中で何度も現れる「卒業」という瞬間は、個々の物語の中で重要な節目であります。成長とは、決して終わりのない旅であり、常に新しい自分を発見する機会を提供します。この言葉が持つ重みを認識し、日々の理解を深くし続けることによって、私たちは自らの道を切り開くことができるのです。卒業は終わりであると同時に、始まりである。その時、我々に降り注ぐ星のように、私たちの夢は輝きを増し、生きる意味が新たに刻印されるのです。",
+                "synonyms": [
+                        "complete",
+                        "finish",
+                        "conclude"
+                ],
+                "antonyms": [
+                        "begin",
+                        "start",
+                        "commence"
+                ],
+                "aftertaste": "Graduation is the symphony of endings harmonizing with new beginnings.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "gradus",
+                                        "meaning": "step, grade"
+                                }
+                        ],
+                        "points": [
+                                "ラテン語の 'gradus' が語源であり、「階段」を意味する。これは比喩的に学問や人生における成長の段階を示す。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "Late Middle English, from Latin"
+        },
+        {
+                "id": "integrate",
+                "word": "Integrate",
+                "part_of_speech": "verb",
+                "meaning": "統合する",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "in-",
+                                        "type": "prefix",
+                                        "meaning": "中へ",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "integer",
+                                        "type": "root",
+                                        "meaning": "一体の、完全なる",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "Derived from the Latin 'integrare' meaning 'to make whole'."
+                },
+                "core_concept": {
+                        "en": "The harmonious fusion of disparate elements into a single, cohesive entity.",
+                        "ja": "異なる要素を一つにまとめ、調和した全体を創り出すこと。"
+                },
+                "thinking_layer": "統合という概念は、ただの単なる結合ではなく、それぞれの部分が持つ特性や美しさを失わずに、一体となることを意味する。分散した個々の要素が、統合されることによって、その美しさや真価を最大限に引き出す。それはまるで音楽のシンフォニーのように、それぞれの楽器が個々の音を奏でながらも、全体として一つの調和した旋律を生み出す。統合の過程は時に困難であるが、それが成し遂げられた時、個の中に潜んでいた潜在的な美が浮かび上がる。それはまた、個と全体の相互作用に新たな意味と視点を与えるものであり、私たちの内面的な調和と外面的な調和を同時に実現する哲学的な行為でもある。この調和の探求において、私たちは自らの一部を認識し、他者とどう共存できるかを模索する旅に出る。",
+                "synonyms": [
+                        "Unify",
+                        "Consolidate"
+                ],
+                "antonyms": [
+                        "Separate",
+                        "Divide"
+                ],
+                "aftertaste": "True integration transforms fragmentation into symphony.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "integer",
+                                        "meaning": "whole, intact"
+                                }
+                        ],
+                        "points": [
+                                "統合とは、単に物理的に結びつけることではなく、それぞれの要素が持つ特性を調和させ、全体として新たな価値を創出するプロセスを指す。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "16th Century"
         }
 ];
