@@ -37847,5 +37847,377 @@ const WORDS = [
                 "source": "Oxford English Dictionary",
                 "date": "2026-03-01",
                 "era": "Late Middle English"
+        },
+        {
+                "id": "clarify",
+                "word": "Clarify",
+                "part_of_speech": "verb",
+                "meaning": "明確にする、はっきりさせる",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "clarus",
+                                        "type": "root",
+                                        "meaning": "明るい、明白な",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "clarificare",
+                                        "type": "verb",
+                                        "meaning": "清める、明らかにする",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'clarify' comes from the Latin 'clarificare', meaning to make clear, derived from 'clarus' for clear or bright."
+                },
+                "core_concept": {
+                        "en": "Illuminating shadows to reveal truth.",
+                        "ja": "影を照らし真実を顕わにする。"
+                },
+                "thinking_layer": "明確にするとは、霧の中から形を取り戻す行為である。曖昧さを打破し、言葉の光で物事を照らし、真実の輪郭を描き出す。そこで求められるのは、単なる事実の提示ではなく、お互いの理解を深め合い、心を通わせるための架け橋の役割を担う能力である。日常の喧騒に埋もれた微細なニュアンスを拾い上げ、それらを結び合わせることで、より豊かなコミュニケーションが生まれる。だからこそ、明確さとは思いやりであり、人間の根幹にある知恵の結晶なのである。悟りへの道を開くその一助となり、自己理解と他者理解を促進する。結局、知識の探求とは無限に続く旅であり、その旅路で出会うあらゆるものを明らかにする力が、「明確さ」の真髄である。",
+                "synonyms": [
+                        "Explain",
+                        "Illuminate"
+                ],
+                "antonyms": [
+                        "Confuse",
+                        "Obscure"
+                ],
+                "aftertaste": "Clarity is the silent guardian of truth's illumination.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "clarus",
+                                        "meaning": "clear, bright"
+                                }
+                        ],
+                        "points": [
+                                "「clarus」は古代ラテン語から由来し、視覚的および精神的明瞭性を象徴する言葉である。"
+                        ]
+                },
+                "source": "The Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Middle Ages, derived from Latin"
+        },
+        {
+                "id": "export",
+                "word": "Export",
+                "part_of_speech": "noun/verb",
+                "meaning": "輸出すること、または他国に商品を送り出す行為",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "ex-",
+                                        "type": "prefix",
+                                        "meaning": "外へ",
+                                        "lang": "ラテン語"
+                                },
+                                {
+                                        "text": "portare",
+                                        "type": "root",
+                                        "meaning": "運ぶ",
+                                        "lang": "ラテン語"
+                                }
+                        ],
+                        "original_statement": "The word 'export' originates from the Latin verb 'exportare', meaning 'to carry out'."
+                },
+                "core_concept": {
+                        "en": "A bridge between lands, carrying dreams and goods across the seas.",
+                        "ja": "国々の架け橋となり、夢と商品を海を越えて運ぶもの"
+                },
+                "thinking_layer": "『輸出』という行為は、単に物資を国境の外へと送り出すことではありません。それは人類の進歩的思索が具現化されたものであり、文明の不可視な境界を超えて、新たな潮流を他国に導入する儀式といえます。古代より続く商業と文化の交歓は、孤立から共存へ、停滞から進化へと繋がっていくプロセスです。輸出にはまた、特定の価値観や文化的背景が暗黙に込められており、それは受け入れ側の社会に徐々に吸収され、新しい形で再生されていく様を映し出します。あたかも川が海へと流れ込むように、現地の文化・経済との融合を果たすことで、グローバル化は未曾有の創造性を解き放つのです。このように『輸出』とは、単なるトレード以上のもの、それは未来を紡ぐ布地であり、その裏には人類の願いとともに冒された無数の冒険が隠されています。",
+                "synonyms": [
+                        "Trade",
+                        "Shipment"
+                ],
+                "antonyms": [
+                        "Import",
+                        "Receive"
+                ],
+                "aftertaste": "Export stands as the silent passage between worlds, weaving the fabric of global unity.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "portare",
+                                        "meaning": "to carry"
+                                }
+                        ],
+                        "points": [
+                                "『エクスポート』の語源はラテン語の『エクスポルターレ』にあり、これにより輸出の根源を探ることで人類の歴史における交易の重要性を改めて認識することができます。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "15th Century"
+        },
+        {
+                "id": "portend",
+                "word": "Portend",
+                "part_of_speech": "verb",
+                "meaning": "予兆を示す、予言する",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "por-",
+                                        "type": "prefix",
+                                        "meaning": "前もって",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "tendere",
+                                        "type": "root",
+                                        "meaning": "テンションをかける、伸ばす",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "Derives from Latin 'portendere', combining 'por-' meaning ahead and 'tendere' meaning to stretch or extend."
+                },
+                "core_concept": {
+                        "en": "To herald or foreshadow the unfolding of forthcoming wonders or woes.",
+                        "ja": "未来の出来事を予兆する、あるいは前もって知らせるもの。"
+                },
+                "thinking_layer": "『ポーテンド』という言葉は、時間を越えて響く力と想像力を持っている。その起源を辿ると、物事の到来を予期するという人間の根本的な欲望が読み取れる。これは単なる予兆ではなく、宇宙の偉大な物語に触れるための扉であり、過去と未来を橋渡しするメッセージである。人間はその存在が薄氷の上に成り立っていることを知っているため、見えない糸を手繰り寄せ、未来への扉を開こうとする。すべての予兆には、それに気づく者の心に芽生える一片の詩があり、挑む用意ができた者にのみその全容を現す。この言葉には、無形の刹那を捉え、まだ見ぬ事象をこの世にもたらそうとする意志が宿っているのだ。",
+                "synonyms": [
+                        "foreshadow",
+                        "presage"
+                ],
+                "antonyms": [
+                        "recount",
+                        "ignore"
+                ],
+                "aftertaste": "Portending is the silent whisper of futures yet to be explored.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "tendere",
+                                        "meaning": "to stretch or extend"
+                                }
+                        ],
+                        "points": [
+                                "「portend」は、未知への扉を開ける人間の欲望と調和し、時代を超えて読み解かれることで深みを増す。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "Late Middle English"
+        },
+        {
+                "id": "foresee",
+                "word": "Foresee",
+                "part_of_speech": "verb",
+                "meaning": "先を見通す、予見する行為",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "fore",
+                                        "type": "prefix",
+                                        "meaning": "先に",
+                                        "lang": "Old English"
+                                },
+                                {
+                                        "text": "see",
+                                        "type": "root",
+                                        "meaning": "見る",
+                                        "lang": "Old English"
+                                }
+                        ],
+                        "original_statement": "The word 'foresee' originates from the Old English 'foreseon', combining 'fore-', meaning in front or before, and 'see', meaning to perceive with the eyes."
+                },
+                "core_concept": {
+                        "en": "To perceive the unfolding tapestry of time before its threads are woven.",
+                        "ja": "まだ織られていない時の織物を見通すこと"
+                },
+                "thinking_layer": "「予見」という行為は、未来というまだ来ていない時間を直感し、その中に潜む可能性の糸をつかむ試みです。それは、現在の現実を越えたビジョンをもたらし、希望と恐れを内包する予測の荒野に足を踏み入れることを意味します。このプロセスは、個人の知性と直感を試される場であると同時に、意識が時間の流れに乗り出す瞬間でもあります。予見することは、過去の学びと現在の観察を融合させ、未来のフレームに描く絵画の色を選ぶ作業です。まるで自然のリズムに耳を傾け、その静寂の中から微妙な変化を拾うように、注意深く時の囁きを聞き取ることです。希望的観測と現実的な判断を融合させながら、予見によって人は、まだ現実化していない運命の物語に形を与え、未来を迎え入れる準備をするのです。予見は、単なる予測を超えた、時空の詩的コミュニケーションとも言えるでしょう。時間の先端に宙吊りになるその瞬間、想像力は翼を広げ、まだ見ぬ可能性の天へと飛び立っていくのです。",
+                "synonyms": [
+                        "anticipate",
+                        "predict"
+                ],
+                "antonyms": [
+                        "ignore",
+                        "disregard"
+                ],
+                "aftertaste": "The art of foresight is a dance with the potential future.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "fore",
+                                        "meaning": "beforehand"
+                                },
+                                {
+                                        "term": "see",
+                                        "meaning": "to perceive"
+                                }
+                        ],
+                        "points": [
+                                "言語学的には、『foresee』は、未来の出来事を事前に察知するという人間の内在的な能力を言語化した言葉であり、その根源は、視覚と時間の認識に根ざしています。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Old English"
+        },
+        {
+                "id": "anticipate",
+                "word": "Anticipate",
+                "part_of_speech": "verb",
+                "meaning": "予想または予期すること",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "ante-",
+                                        "type": "prefix",
+                                        "meaning": "前に",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "capere",
+                                        "type": "root",
+                                        "meaning": "取る",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "Derived from Latin 'anticipatus', past participle of 'anticipare' meaning to take before."
+                },
+                "core_concept": {
+                        "en": "To embrace the future with the mind's outstretched arms.",
+                        "ja": "心の広げた腕で未来を抱きしめること。"
+                },
+                "thinking_layer": "『予期』するという行為は、時間の流れを超えて未来をつかむ私たちの存在そのものを象徴しています。時の川は常に静かに流れ続けますが、過去、現在、そして未来が一体となるその瞬間に心を置くことができるのは人間の特権です。この予期の行為は単なる未来の推測ではなく、今この瞬間に未来の種を播く創造的な行為でもあります。未知の明日を心の中で思い描き、その映像によって私たちは自分の道を見つけ出します。",
+                "synonyms": [
+                        "Forecast",
+                        "Predict"
+                ],
+                "antonyms": [
+                        "Doubt",
+                        "Ignore"
+                ],
+                "aftertaste": "Anticipation allows us to inhabit the realms of the unborn future.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "ante-",
+                                        "meaning": "before"
+                                },
+                                {
+                                        "term": "capere",
+                                        "meaning": "to take"
+                                }
+                        ],
+                        "points": [
+                                "語「anticipate」は、この世の時間の限界を超えて、先見の明を持って未来を捉える行動を示している。ラテン語由来のこの言葉には、待ち構えるだけではなく、積極的に未来を形作っていくニュアンスが込められている。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "16th Century"
+        },
+        {
+                "id": "volunteer",
+                "word": "Volunteer",
+                "part_of_speech": "noun/verb",
+                "meaning": "自発的に行動する人",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "volunt-",
+                                        "type": "root",
+                                        "meaning": "意志、願望",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "-eer",
+                                        "type": "suffix",
+                                        "meaning": "行動する人",
+                                        "lang": "French"
+                                }
+                        ],
+                        "original_statement": "The term 'volunteer' originates from the late 16th century, derived from the Latin 'voluntarius' meaning 'willing' and the French '-eer', denoting one who partakes."
+                },
+                "core_concept": {
+                        "en": "A selfless act rooted in the heart's purest desire.",
+                        "ja": "心から湧き出る無私の行為"
+                },
+                "thinking_layer": "ボランティアという言葉が持つ意味を深く考えると、物質的価値を超越した精神的豊かさの表現であることが分かります。善意から始まり、個人の幸福よりも他者の幸福を優先するとき、その行為は自己犠牲という姿で現れます。社会的な連帯は、人間存在の根本的な目的として、愛という普遍的な価値を実体化します。ボランティアは単なる働き以上のものであり、生きることの美しさ、すなわち他者と繋がり合うことで得られる深い満足感を体現しています。この行為に伴う心の自由さは、まるで自由に空を舞う鳥のように、重荷を持たずに存在する全ての必然性を祝福します。ボランティアという行動は、究極的には人間が築くことのできる最も美しいアートの一つであるとも言えるでしょう。それは真の理解と調和の追求であり、愛という不変の糧によって全てが支えられる、黄金に輝く魂の作業なのです。",
+                "synonyms": [
+                        "helper",
+                        "supporter"
+                ],
+                "antonyms": [
+                        "coerced",
+                        "forced"
+                ],
+                "aftertaste": "To volunteer is to paint the world with kindness.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "voluntarius",
+                                        "meaning": "willing or of one's free will"
+                                }
+                        ],
+                        "points": [
+                                "「ボランティア」の語源は、個人の自由意志に基づく行動の概念を強調している。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Late 16th Century"
+        },
+        {
+                "id": "reflection",
+                "word": "Reflection",
+                "part_of_speech": "noun",
+                "meaning": "鏡や水面に映る像、または深く考えること",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "re-",
+                                        "type": "prefix",
+                                        "meaning": "再び",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "flectere",
+                                        "type": "root",
+                                        "meaning": "曲げる",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "Derived from Latin 'reflexio(n-)', from reflectere 'to bend back'."
+                },
+                "core_concept": {
+                        "en": "The soul’s mirror, revealing the universe within.",
+                        "ja": "内なる宇宙を映し出す魂の鏡"
+                },
+                "thinking_layer": "思索の層としての「反映」について考えると、心の鏡としての役割と思わざるを得ない。鏡を覗くと見えるのは、我々の影にすぎない。それらは、単なる表面的な歪みではなく、内側の真実を映し出す器具でもある。反映とは、外界の影響の単なる受容ではなく、自己の理解であり、自分自身と対面する行為である。日本の伝統においても、鏡は神聖な象徴であり、自己を知る道具とされる。したがって、反映を通じて我々は世界と自我の調和を求め、究極の真実への旅を続けるのだ。人生のさまざまな局面において無数の像が心を訪れるが、それらを熟考することで、単なる光の反射ではなく、存在そのものの意味を探ることになる。内なる問いかけは、不可思議なる宇宙の中で、自己の位置を探し求めるための道しるべである。",
+                "synonyms": [
+                        "mirror",
+                        "contemplation"
+                ],
+                "antonyms": [
+                        "ignorance",
+                        "negligence"
+                ],
+                "aftertaste": "Reflection is the silent dialogue with time.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "flectere",
+                                        "meaning": "to bend or turn"
+                                }
+                        ],
+                        "points": [
+                                "古代ローマの文化における言葉の変遷を考えると、反映とはただの物理的現象ではなく、精神的な深化を導くものであることが理解できる。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "14th Century"
         }
 ];
