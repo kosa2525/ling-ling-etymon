@@ -29561,5 +29561,347 @@ const WORDS = [
                 "source": "The Oxford English Dictionary",
                 "date": "2026-03-01",
                 "era": "14th Century"
+        },
+        {
+                "id": "boggle",
+                "word": "Boggle",
+                "part_of_speech": "verb",
+                "meaning": "驚いて混乱する、驚愕する",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "boggle-",
+                                        "type": "root",
+                                        "meaning": "たじろぐ、ためらう",
+                                        "lang": "Middle English"
+                                }
+                        ],
+                        "original_statement": "The word 'boggle' is thought to have origins in the 16th century, possibly linked to the Middle English 'bugge' meaning 'to take fright,' later evolving in meaning and usage."
+                },
+                "core_concept": {
+                        "en": "A moment where reality twists perception into a kaleidoscope of awe and uncertainty.",
+                        "ja": "現実が驚きと不確実性の万華鏡にねじれる瞬間。"
+                },
+                "thinking_layer": "ボグルという言葉に込められた深遠な意味は、私たちの知覚の限界を超え、理解の瞬間における微妙な瞬間を捉えています。この言葉は、私たちが世界の複雑さに直面し、その計り知れない広がるにつれて、心が立ち止まり、捉えどころのない一瞬の静寂に身を委ねる過程を表しています。人が未知の状況に直面したとき、彼または彼女の内なる世界は一瞬崩壊し、再形成される必要があります。その時、普段は目の前に確かに広がっていた理解が揺らぎ、自己と周囲の世界の境界が消え去ります。この言葉の精髄は、特に驚愕の瞬間において、内なる思索と外部からの刺激との相互作用を示しています。そしてその中で、我々は再認識し、再構成し、新たなる知恵の一片を得るのです。言葉の深みを探り、驚くことによって、私たちは常に未知への冒険を続ける旅人であり続けるのです。",
+                "synonyms": [
+                        "Bewilder",
+                        "Amaze"
+                ],
+                "antonyms": [
+                        "Calm",
+                        "Reassure"
+                ],
+                "aftertaste": "In the dance of surprise and comprehension, boggle ushers in the unexpected elegance of enlightenment.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "bugge",
+                                        "meaning": "to scare"
+                                }
+                        ],
+                        "points": [
+                                "言葉は16世紀に遡り、ホラーストーリーの'バグベアー'という語とも関連しています。中英語の'bugge'は、恐怖を喚起する何かを意味しており、驚愕の状態での認識の揺れを描写するのにふさわしい文脈を提供しています。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "16th Century"
+        },
+        {
+                "id": "lurk",
+                "word": "Lurk",
+                "part_of_speech": "verb",
+                "meaning": "隠れたままでいること、潜むこと",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "lurke",
+                                        "type": "root",
+                                        "meaning": "隠れる",
+                                        "lang": "Middle English"
+                                }
+                        ],
+                        "original_statement": "The word 'lurk' originates from Middle English 'lurke', which means to hide or remain concealed."
+                },
+                "core_concept": {
+                        "en": "A dance of shadows when uncertainty embraces the known.",
+                        "ja": "未知が既知を抱くときの影の舞"
+                },
+                "thinking_layer": "「潜む」という行為は、存在そのものの哲学に根ざしている。目に見えない何かが、目に見えるものの陰にひそむ時、それは我々の理解の境界を広げる。潜むことは、静かさと神秘、時には恐怖を同時に運んでくる。見えないものを見ること、それは心の中で永遠に変わらぬ探求の一部である。潜伏の内に秘められた緊張感は、我々の生活における不可視的な存在を、より深く考察する機会を与える。潜むという行為は、単なる身体的な行為以上のものであり、それは心の中で織り成される存在の新しい地平線を探索することである。私たちの目に見えない部分が、自分たちが認識できる現実の一部にどのように影響を与えるかを感じることこそが、潜むことの本当の意味である。潜む中にある不安と期待、その静かなる対話が私たちを目覚めさせるのだ。",
+                "synonyms": [
+                        "Skulk",
+                        "Loiter"
+                ],
+                "antonyms": [
+                        "Appear",
+                        "Show"
+                ],
+                "aftertaste": "To lurk is to dance with the unseen, caressing the unknown.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "lurke",
+                                        "meaning": "to hide, to stay concealed"
+                                }
+                        ],
+                        "points": [
+                                "言葉『lurk』の原型である『lurke』は、中英語で隠れるという意味を持ち、姿を見せない行為が隠喩として色濃く用いられた。"
+                        ]
+                },
+                "source": "The Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Middle English, 14th Century"
+        },
+        {
+                "id": "hustle",
+                "word": "Hustle",
+                "part_of_speech": "noun/verb",
+                "meaning": "急いで動くこと、活発に活動すること",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "husseln",
+                                        "type": "verb",
+                                        "meaning": "急いで動く",
+                                        "lang": "Dutch"
+                                }
+                        ],
+                        "original_statement": "The word 'hustle' is believed to have originated in the early 17th century from the Dutch verb 'husseln', meaning 'to shake or toss'. It evolved in multifaceted directions, capturing the essence of energetic movement and ambition."
+                },
+                "core_concept": {
+                        "en": "The relentless dance of purpose and motion, entwined in life's ceaseless rhythm.",
+                        "ja": "目的と動きの絶え間ない舞踏、人生のリズムに絡み合うもの。"
+                },
+                "thinking_layer": "人間の存在は常に動き続けるものであり、その行動の一つ一つが『ハッスル』という言葉に集約される。ハッスルは単なる物理的な動きだけではなく、精神の活動までも含む。この言葉は、私たちの人生における絶え間ない追求と、内面的な駆け引きの象徴である。現代社会において、人は常に何かを達成しようとする欲望に駆られ、そのプロセスの中で自己を見失いがちである。しかしながら、ハッスルの力は向上心の変異体として存在し、スランプを乗り越えるための原動力ともなる。目的を持たずに動くことはありませんが、ハッスルという状態の中で、時に目的そのものが再発見されることもあります。このようにして、ハッスルは徒然なる営みに意味を与え、人生をより色彩豊かにする力となるのです。",
+                "synonyms": [
+                        "Drive",
+                        "Hurry"
+                ],
+                "antonyms": [
+                        "Laziness",
+                        "Idleness"
+                ],
+                "aftertaste": "Hustle is the heart's restless journey woven into each moment's fabric.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "husseln",
+                                        "meaning": "to shake or toss"
+                                }
+                        ],
+                        "points": [
+                                "ハッスルの語源はオランダ語の『husseln』に由来するとされ、何かを素早く動かしたり、振ったりすることを意味します。17世紀以降、この言葉は英語の中で発展し、忙しなく活動するという意味へと変化していきました。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "17th Century"
+        },
+        {
+                "id": "gadget",
+                "word": "Gadget",
+                "part_of_speech": "noun",
+                "meaning": "小型の機器や便利な道具",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "可能な限り詳細な語源データを示すことが困難",
+                                        "type": "root",
+                                        "meaning": "とされている",
+                                        "lang": "French"
+                                }
+                        ],
+                        "original_statement": "The term 'gadget' likely originated around the 19th century, with theories suggesting it may have derived from French 'gâchette', a small tool or mechanical part, or 'gadget', a dialect term for a small fastening device."
+                },
+                "core_concept": {
+                        "en": "A small marvel of human ingenuity, merging functionality and curiosity.",
+                        "ja": "人間の知恵が生んだ小さな驚異―実用性と好奇心の融合。"
+                },
+                "thinking_layer": "日常生活には、私たちの感覚や思考を豊かにする数多くの装置が存在します。『ガジェット』という言葉は、単なる物体を指すだけでなく、人間の好奇心、創造性、便利さを象徴しています。私たちが触れるこの小さな道具一つ一つには、時代を超えて伝わる知恵や工夫が詰め込まれているのです。それは、私たちの日常の中に紛れる小さな奇跡のかけらであり、時には知らず知らずのうちに新たな発見への扉を開くこともあります。ガジェットが持つもう一つの魅力は、そのデザインにあります。ミニマルな美しさや、直感的でありながらも複雑な機能性を組み合わせた形状は、私たちに深い感銘を与え、触れ、使うことへの喜びを倍増させます。このようなガジェットを手にすることで、私たちは世界への見方が広がり、より豊かな生活を体験することができるのです。小さなデバイス一つが、私たちの創造的な探求の一端を示し、時にはそれを超える意味を持つこともあります。",
+                "synonyms": [
+                        "Device",
+                        "Contraption"
+                ],
+                "antonyms": [
+                        "Tool",
+                        "Instrument"
+                ],
+                "aftertaste": "Every gadget whispers the stories of innovation and human aspiration.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "gâchette",
+                                        "meaning": "small mechanical part"
+                                }
+                        ],
+                        "points": [
+                                "単に物を操作するだけでなく、ガジェットは人間の創意と好奇心が凝縮された結晶である。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "19th Century"
+        },
+        {
+                "id": "handkerchief",
+                "word": "Handkerchief",
+                "part_of_speech": "noun",
+                "meaning": "手を拭いたり、涙を拭いたりするための小さな布",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "hand-",
+                                        "type": "root",
+                                        "meaning": "手",
+                                        "lang": "Old English"
+                                },
+                                {
+                                        "text": "kerchief",
+                                        "type": "root",
+                                        "meaning": "布",
+                                        "lang": "Old French"
+                                }
+                        ],
+                        "original_statement": "The word 'handkerchief' originates from the combination of 'hand', meaning the part of the human body, and 'kerchief', a term derived from Old French 'couvrechief', indicating a covering cloth."
+                },
+                "core_concept": {
+                        "en": "A personal cloth, close companion to human vulnerability.",
+                        "ja": "人の脆さをしのばせる親密な布"
+                },
+                "thinking_layer": "ハンカチーフという言葉には、人間の繊細で内向的な側面が隠されています。この小さな布は、日常生活の中で私たちに寄り添い、思わぬ瞬間にそっと目頭を押さえ、涙を拭うための静かな伴侶です。その存在は、その瞬間の孤独をやわらげるだけでなく、人間が外界と交わる手段でもあります。ハンカチーフが放つ詩的な魅力は、単なる機能性を超え、持ち主の個性や感情をさりげなく伝える物語の一部として機能します。ハンカチーフが創り出す微細な瞬間は、日常の織物としての人生をより深い意味で照らし出すための小さな窓となり、人が体験する一瞬の幸福、悲しみ、感動のすべてを豊かに彩ります。この布が語る静謐な物語は、手に持つ私たちに人間そのものの脆さと美しさを静かに思い出させてくれるのです。",
+                "synonyms": [
+                        "Napkin",
+                        "Towel"
+                ],
+                "antonyms": [
+                        "Dishcloth",
+                        "Rag"
+                ],
+                "aftertaste": "A handkerchief is the silent keeper of tears and joy.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "hand",
+                                        "meaning": "手"
+                                },
+                                {
+                                        "term": "kerchief",
+                                        "meaning": "覆う布"
+                                }
+                        ],
+                        "points": [
+                                "ハンカチーフは、中世ヨーロッパで特に貴族階級に用いられた象徴的な存在であった。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Late Middle English"
+        },
+        {
+                "id": "picnic",
+                "word": "Picnic",
+                "part_of_speech": "noun",
+                "meaning": "户外の軽い食事や宴会",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "piquer-",
+                                        "type": "root",
+                                        "meaning": "摘む",
+                                        "lang": "French"
+                                },
+                                {
+                                        "text": "nique",
+                                        "type": "root",
+                                        "meaning": "小さなもの",
+                                        "lang": "French"
+                                }
+                        ],
+                        "original_statement": "The word 'picnic' originates from the French 'pique-nique', referring to a social gathering where each attendee brings a share of food."
+                },
+                "core_concept": {
+                        "en": "A communal feast under the open sky, indulging in shared simplicity.",
+                        "ja": "自然の中で分かち合い、楽しむという共通の思い"
+                },
+                "thinking_layer": "ピクニックとは、自然の懐に抱かれて行う詩的な儀式である。それは、天空の下での共同体となり、共に食卓を囲むことである。そこには、食事を通じた心の交流だけでなく、現代社会で失われつつある絆の再発見も隠されている。しかし、単に料理を分け合うだけではない。ピクニックは、時間をかけて準備された食事や手間のこもった料理が、互いの心を豊かにする儀式である。簡潔でありながら、深い余韻に満ちたこの行為は、人間の根源的な喜びに再び触れるための試みでもある。私たちがピクニックを楽しむ時、ほんの一瞬であるが、全世界が静寂に包まれ、私たちは自然との一体感を味わえる。この静かで慎ましい秋霜のひとときに、私たちは日常の喧騒を忘れ、生命の贈り物をしみじみと感謝できるのである。ピクニックは、自然と人間、人間と人間が円となる空間そのものであり、それは一種の文化的で深遠な哲学ともいえるだろう。",
+                "synonyms": [
+                        "outing",
+                        "excursion"
+                ],
+                "antonyms": [
+                        "indoor dining",
+                        "fast food"
+                ],
+                "aftertaste": "A picnic is a moment of shared serenity under the sky.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "piquer",
+                                        "meaning": "to pick or peck"
+                                },
+                                {
+                                        "term": "nique",
+                                        "meaning": "trifle, small item"
+                                }
+                        ],
+                        "points": [
+                                "『ピクニック』は、18世紀フランス社会から生まれた文化的な概念であり、食事を共にすることで社交を深める行為として発展した。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "17th Century"
+        },
+        {
+                "id": "jovial",
+                "word": "Jovial",
+                "part_of_speech": "adjective",
+                "meaning": "陽気な、愉快な",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "Jove",
+                                        "type": "root",
+                                        "meaning": "木星、ジュピターに関連する",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "Derived from Latin 'Iovialis,' related to Jove, the Roman god Jupiter, associated with joviality and cheerfulness."
+                },
+                "core_concept": {
+                        "en": "A lyrical dance of cheer borrowed from the mighty Jupiter.",
+                        "ja": "木星の力から借りた陽気さの詩的な舞い"
+                },
+                "thinking_layer": "「陽気」とは単に笑顔や笑い声にとどまらず、宇宙のリズムと共鳴する深い魂の曲だ。それは時に私たちを驚愕させ、時に慰め、時に導く光のような存在。心の奥深くに刻まれた感情が呼び起こされ、木星の恩恵を受け、己の存在意義を再確認する瞬間が訪れる。このような感情は、日常という味気ないキャンバスに鮮やかな色彩を与え、その瞬間瞬間を特別なものに変える。陽気さとは、単なる心の状態ではなく、生きることそのものの喜びであり、全てを超越した至福に到達する手がかりである。天上の神々が宴を開く時、私たちはその一員であり、彼らの喜びが私たちの胸に流れ込む。木星の巨大な圧力が生み出すエネルギー、それは我々を陽気にし、無限の可能性を感じさせる。人間の人生のどんな局面においても、この陽気さが根底に流れていることを忘れずに、絶え間ない力の源としてこの感情を大切にしたいと思う。",
+                "synonyms": [
+                        "cheerful",
+                        "merry"
+                ],
+                "antonyms": [
+                        "gloomy",
+                        "miserable"
+                ],
+                "aftertaste": "Joviality is the starry whisper of Jupiter's grace.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "Iovialis",
+                                        "meaning": "of or pertaining to Jove (Jupiter)"
+                                }
+                        ],
+                        "points": [
+                                "語源的には、ローマの神ジュピターと関連があり、その名前はヨーヴ（Jove）から派生している。この神は、善意や陽気さと結びつけられ、その属性が言葉に反映されている。"
+                        ]
+                },
+                "source": "Etymology Online",
+                "date": "2026-03-01",
+                "era": "16th Century"
         }
 ];
