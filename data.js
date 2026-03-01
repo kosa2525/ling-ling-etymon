@@ -42222,5 +42222,476 @@ const WORDS = [
                 "source": "Online Etymology Dictionary",
                 "date": "2026-03-01",
                 "era": "14th Century"
+        },
+        {
+                "id": "confirm",
+                "word": "Confirm",
+                "part_of_speech": "verb",
+                "meaning": "確証する、確認する",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "con-",
+                                        "type": "prefix",
+                                        "meaning": "共に",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "firmare",
+                                        "type": "root",
+                                        "meaning": "強くする",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "Derived from the Latin 'confirmare', meaning to strengthen or establish firmly."
+                },
+                "core_concept": {
+                        "en": "To weave the fabric of certainty into the tapestry of knowledge.",
+                        "ja": "知識のタペストリーに確実性の織物を編み込むこと。"
+                },
+                "thinking_layer": "確認とは、現実と可能性の境界線に立ち、時の流れの中で真実を確立する行為です。人間は不確実性の霧の中を生き、視界の先を探る。その中で確認という行動は、真実を捕まえ、その不確実性を静めるための試みです。いつも変わり続ける時の流れに、確認は普遍の言葉を彫り込もうとする試みなのです。私たちは確認を通じて、存在の真実を具体化し、変わり得る世界の中に不変のものを求めます。例えば、愛の言葉であれ、契約書のサインであれ、それは私たちの内的な価値観を具現化し、未来に向けての確固たる足取りを作ります。この孤独な宇宙の中で垣間見る確証の瞬間、私たちは一瞬ながら確かに、自らの存在を刻印し、生命の美しさをより深く体得するのです。確認はただの行動ではなく、自己を反映し、他者と世界とを繋げる深い哲学の一端を構築します。その過程で、第六感で感じ取る安定の詩を心に響かせ、それは新しい現実を切り開くための序曲となるのです。",
+                "synonyms": [
+                        "Validate",
+                        "Corroborate"
+                ],
+                "antonyms": [
+                        "Negate",
+                        "Invalidate"
+                ],
+                "aftertaste": "Confirmation is the silent sculptor of unspoken truths.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "firmare",
+                                        "meaning": "to strengthen, affirm"
+                                }
+                        ],
+                        "points": [
+                                "この言葉は、確かな基盤に立脚し、揺るぎない現実を証明するための器具として用いられてきました。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "14th Century"
+        },
+        {
+                "id": "attract",
+                "word": "Attract",
+                "part_of_speech": "verb",
+                "meaning": "人を引きつけるまたは魅了すること",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "ad-",
+                                        "type": "prefix",
+                                        "meaning": "に向かって",
+                                        "lang": "ラテン語"
+                                },
+                                {
+                                        "text": "trahere",
+                                        "type": "root",
+                                        "meaning": "引く",
+                                        "lang": "ラテン語"
+                                }
+                        ],
+                        "original_statement": "The word 'attract' derives from the Latin 'attrahere', combining 'ad-' (to) and 'trahere' (draw)."
+                },
+                "core_concept": {
+                        "en": "The gentle yet potent force that pulls hearts and minds into its orbit.",
+                        "ja": "心と精神をその軌道に引き寄せる優しくも強力な力"
+                },
+                "thinking_layer": "引くこと、これは単なる物理的な力以上のものです。それは人間の心をも動かし、空間と心の深奥で織りなす目には見えない引力であり、それにより我々は未知のもの、あるいは美しいものに接近していくことができます。『魅力』という概念は、古代から現代に至るまで人々の心をとらえ続け、詩人や哲学者の筆や言葉を通じ時代を越えて語られてきました。それはまた、自然界の神秘とも深いつながりを持ち、星々を引き寄せる重力のように、我々が何かに引かれる理由を物語っています。時として、人は自らの美学や価値観によって何かに強く惹かれることがありますが、それは内なる熱望と探求の表れでもあります。この『引きつける』という行為は、己の持つ力を超えた未知への招待状を携えており、新たな発見と関係性を築くきっかけとなるのです。",
+                "synonyms": [
+                        "Entice",
+                        "Lure"
+                ],
+                "antonyms": [
+                        "Repel",
+                        "Deter"
+                ],
+                "aftertaste": "Attraction is the invisible thread that binds curiosity to the heart.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "trahere",
+                                        "meaning": "to draw or pull"
+                                }
+                        ],
+                        "points": [
+                                "『attract』はラテン語の 'attrahere' から派生した言葉で、これは 'ad-' と 'trahere' から成り立ち、『引き寄せる』という意味を持つ。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "14th Century"
+        },
+        {
+                "id": "defend",
+                "word": "Defend",
+                "part_of_speech": "verb",
+                "meaning": "攻撃や損害から守ること",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "de-",
+                                        "type": "prefix",
+                                        "meaning": "無し、反対",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "fendere",
+                                        "type": "root",
+                                        "meaning": "攻撃する",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'defend' originates from the Latin 'defendere', which means to ward off or protect."
+                },
+                "core_concept": {
+                        "en": "The noble act of warding off harm in service of preservation.",
+                        "ja": "守護による保存を目的とした高貴な行為"
+                },
+                "thinking_layer": "防衛という概念は、単なる物理的な守りを超えて、私たちの存在そのものの根幹に関わる。自己の領域や価値を守るという行為は、生命の歴史を紡ぐ上で欠かせない要素である。自然界において、また人間社会において、我々は常に外部からの脅威と対峙する。あるいは、内面的な葛藤から自分自身を守ることもまた、防衛の一形態といえるだろう。防衛は、時に適応性を育み、新しい成長の機会をもたらす。このように、防衛は固定化された行動ではなく、しなやかな進化の一過程でありえる。この通過点において私たちは、単なる防禦を越え、自己や共同体のさらなる成熟を迎える準備を整える。思考の翼を広げ、防衛の多層的な側面を探求することで、未踏の知見が私たちを待っているのだ。",
+                "synonyms": [
+                        "Protect",
+                        "Guard"
+                ],
+                "antonyms": [
+                        "Attack",
+                        "Abandon"
+                ],
+                "aftertaste": "To defend is to choose preservation over destruction.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "de-",
+                                        "meaning": "away, reversal"
+                                },
+                                {
+                                        "term": "fendere",
+                                        "meaning": "to strike"
+                                }
+                        ],
+                        "points": [
+                                "「防衛」は、単なる物理的な保護活動を超えて、人生の原動力や価値観の擁護にまで及ぶ深遠な行為を示す。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "Late Middle English, from Latin"
+        },
+        {
+                "id": "relate",
+                "word": "Relate",
+                "part_of_speech": "verb",
+                "meaning": "関連付ける、語る",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "re-",
+                                        "type": "prefix",
+                                        "meaning": "再び",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "lātus",
+                                        "type": "root",
+                                        "meaning": "運ぶ",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "From Latin 'relatus', past participle of 'referre' meaning 'to bring back'."
+                },
+                "core_concept": {
+                        "en": "Weaving threads of existence into a tapestry of understanding.",
+                        "ja": "存在の糸を理解のタペストリーに織り込む"
+                },
+                "thinking_layer": "関連性とは、繊細な織り成す糸のように、私たちの存在と体験を結びつける力である。その根本には、個人としての存在と他者との繋がりの本質を織り込む深い意図が潜んでいる。関係するという行為は、孤独な自我を超えて、互いに対する理解を深め、共鳴し合うことである。それはまた、私たちが世界との肯定的で調和の取れた関係を築くために、内なる叡智を呼び覚ます過程でもある。人生の中で、物事が再び現れ、我々に語りかけ、その中にある無限の可能性を見出すことができる瞬間がある。これらの瞬間が纏う物語は、まるで宇宙の交響曲の一部となるように、時間と空間を超えた響きとして鳴り響くのである。この関係という現象は、存在の深部へと潜り込み、時の流れを超えた美しき舞台を描く重厚な絵画である。",
+                "synonyms": [
+                        "connect",
+                        "narrate"
+                ],
+                "antonyms": [
+                        "disconnect",
+                        "confuse"
+                ],
+                "aftertaste": "Connection is the essence of human experience.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "referre",
+                                        "meaning": "to bring back"
+                                }
+                        ],
+                        "points": [
+                                "「relate」という言葉は、ラテン語の「referre」に由来し、『再び運ぶ』という意味を持ち、何かをもう一度考えさせること、共感を呼び起こすことに繋がる。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "Middle English, influenced by Latin"
+        },
+        {
+                "id": "festival",
+                "word": "Festival",
+                "part_of_speech": "noun",
+                "meaning": "祝祭や祭典を指す言葉",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "fest-",
+                                        "type": "root",
+                                        "meaning": "祝う",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "-ival",
+                                        "type": "suffix",
+                                        "meaning": "の関連する",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'festival' derives from the Latin 'festivus', meaning 'of a feast or festival'."
+                },
+                "core_concept": {
+                        "en": "A gathering that elevates the soul through celebration.",
+                        "ja": "魂を祝福を通じて高める集まり"
+                },
+                "thinking_layer": "祭りとは、時空を超えた人間性の儀礼である。日常の煩わしさを一時的に忘れ、個々の魂が集合し一体となる機会を提供する。無数の歴史と文化の織り成す布の一部であり、その起源と目的は、人間の深淵に潜む願望、すなわち他者との深いつながりと喜びの追求に根ざしている。祭りは単なる楽しみの場ではなく、時に神聖なるものへの賛美として、時には自然の恵みへの感謝の念として捧げられる。この一連の爆発的なエネルギーの中で、我々は個々ではなく、宇宙の中でひとつの存在であることを感じる。多様な音、そのリズム、香り、色彩が交錯することで生じる祭りの情景は、静けさの中に潜む深い意味を解放する。我々はそこに集まり、過去と未来を結び、現在を祝う。それは忘れられた記憶を呼び起こし、そこには普遍的な真実が垣間見える。再び日常に戻るその瞬間まで、我々の心の奥深くに新しい光を灯すのである。",
+                "synonyms": [
+                        "Carnival",
+                        "Celebration"
+                ],
+                "antonyms": [
+                        "Mourning",
+                        "Solitude"
+                ],
+                "aftertaste": "A festival transcends time by embodying both tradition and transcendence.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "festivus",
+                                        "meaning": "of, relating to, or suitable for a feast or festival"
+                                }
+                        ],
+                        "points": [
+                                "祭という言葉は、古代ローマの祭典に由来し、それは宗教的かつ社会的な意味を持っていた。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "Late Middle English"
+        },
+        {
+                "id": "navy",
+                "word": "Navy",
+                "part_of_speech": "noun",
+                "meaning": "海軍のこと。",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "navi-",
+                                        "type": "root",
+                                        "meaning": "船または船舶",
+                                        "lang": "ラテン語"
+                                }
+                        ],
+                        "original_statement": "The word 'navy' originally stems from the Latin 'navigium', signifying a ship or fleet, and evolved through Old French 'navie', meaning fleet of ships."
+                },
+                "core_concept": {
+                        "en": "An armada that navigates the vast and mysterious realms of the ocean.",
+                        "ja": "海の広大で神秘的な領域を航海する艦隊。"
+                },
+                "thinking_layer": "『海軍』という言葉は、ただの兵器の集合体ではなく、人類が海という偉大な自然に立ち向かう決意の象徴でもあります。海は古来より未知の恐怖と謎を抱え、人間の冒険心を掻き立ててきました。人の手が届かぬ深海の奥底、その果てしない闇を、心の中の不安をも象徴しています。海軍は、その未知なるものへの挑戦を具現化する存在であり、海に対する敬意と恐怖を同時に体現するものです。海軍の歴史を紐解けば、それは時を超えた人類の物語と言っても過言ではありません。未知への克服、帰還を祈る心、そして自らの成長を追い求めるその姿に神話的な憧憬すら覚えます。そして、海軍はただの軍事力ではなく、時代の精神や価値観を映し出す鏡ともなります。海という無限の舞台で繰り広げられるドラマは、人の生々しい葛藤と幕が降りるまでの静かなエレジーです。",
+                "synonyms": [
+                        "fleet",
+                        "armada"
+                ],
+                "antonyms": [
+                        "air force",
+                        "infantry"
+                ],
+                "aftertaste": "The navy sails not just through seas but through epochs of human aspiration.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "nāvi",
+                                        "meaning": "ship"
+                                }
+                        ],
+                        "points": [
+                                "ラテン語 'nāvi' は船を指し、海への憧れと恐怖を表現する基盤となる。",
+                                "海軍は、単なる軍事力ではなく、時代の価値観や精神を映す文化の一端を担う。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "14th Century"
+        },
+        {
+                "id": "ingredient",
+                "word": "Ingredient",
+                "part_of_speech": "noun",
+                "meaning": "成分、構成要素",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "in-",
+                                        "type": "prefix",
+                                        "meaning": "中へ",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "grad-",
+                                        "type": "root",
+                                        "meaning": "歩く、行く",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "-ent",
+                                        "type": "suffix",
+                                        "meaning": "行為を示す",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "Derived from the Latin 'ingrediens', present participle of 'ingredi', meaning 'to go into'."
+                },
+                "core_concept": {
+                        "en": "An element, small yet pivotal, intertwined to create wholeness.",
+                        "ja": "全体を形成するために絡み合う、小さくとも重要な要素。"
+                },
+                "thinking_layer": "私たちが日々味わう料理から人生そのものに至るまで、すべては要素の組み合わせと言えるでしょう。食材が一つ一つ複雑な香りや味わいを作り出すように、人間関係や個々の出来事も私たちの人生のカクテルを形作ります。これを哲学的視点から見つめると、成分とは単なる物質的な存在にとどまらず、それを包む空間や時間をも含む、より深い連鎖を持つものです。そして、その一つ一つが全体を完成させるためには欠かせない要素であり、時に見えないもの、例えば優しさや思いやりのような心の成分が、より豊かな世界を築き上げます。素材が一つ欠けたり、調和が乱れると、全体は不完全さを露呈し、時には想像も寄らない結果をもたらします。このようにして、私たちが無意識に感じる「成分」なる存在は、ただの物質を超え、意識的な選択や偶然の結晶として、私たちの生活を彩っています。",
+                "synonyms": [
+                        "Component",
+                        "Element"
+                ],
+                "antonyms": [
+                        "Whole",
+                        "Total"
+                ],
+                "aftertaste": "Every ingredient is a key to a hidden world of flavors.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "grad-",
+                                        "meaning": "to step, to go"
+                                }
+                        ],
+                        "points": [
+                                "この語はラテン語の「ingrediens」を起源とし、物事が内へと進行する過程を象徴しています。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "15th Century Latin"
+        },
+        {
+                "id": "signature",
+                "word": "Signature",
+                "part_of_speech": "noun",
+                "meaning": "署名、サイン",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "signare",
+                                        "type": "root",
+                                        "meaning": "印をつける",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "signum",
+                                        "type": "root",
+                                        "meaning": "印",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "Derived from the Latin word 'signatura', meaning a distinguishing mark or sign; used in English from the late 14th century."
+                },
+                "core_concept": {
+                        "en": "A personal imprint of identity encapsulated in a mark.",
+                        "ja": "個人の識別を示す印"
+                },
+                "thinking_layer": "署名という行為は、単なる名前や印を超えた存在の証明として、人間の意識と社会の基盤に根ざしています。歴史を遡ると、個の存在を押し出す者たちが自らのアイデンティティを外界に記し、後世に足跡を残そうとした意志が見え隠れします。この行為は自己の一部を他者へと橋渡す儀式とも言えるのです。たった一つのサインに託された無数の物語が、出会い、別れ、あるいは約束の証として存在を持つのです。署名の行為は、個の独自性を公に示しつつも、同時に他者と交わる架け橋の役割を担っているのです。ゆえに、署名は人類史の中で共通の言語を形成し、個々の思考を結びつける無言の会話とも言えるでしょう。このシンプルな行為の中に潜む深みと可能性が、人間の本質を映し出しているのです。",
+                "synonyms": [
+                        "Autograph",
+                        "Endorsement"
+                ],
+                "antonyms": [
+                        "Anonymity",
+                        "Unknown"
+                ],
+                "aftertaste": "A signature is where identity meets permanence.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "signum",
+                                        "meaning": "mark or sign"
+                                },
+                                {
+                                        "term": "signare",
+                                        "meaning": "to mark, to seal"
+                                }
+                        ],
+                        "points": [
+                                "署名は、法的権威の象徴としてだけでなく、自己の概念を社会と対話させる手段です。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "14th Century"
+        },
+        {
+                "id": "initiative",
+                "word": "Initiative",
+                "part_of_speech": "noun",
+                "meaning": "独自に行動を開始する力や能力",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "initium",
+                                        "type": "root",
+                                        "meaning": "始まり、開始",
+                                        "lang": "ラテン語"
+                                }
+                        ],
+                        "original_statement": "The word 'initiative' descends from the Latin 'initium', meaning beginning or commencement, signaling the act of taking the first step or leading."
+                },
+                "core_concept": {
+                        "en": "The spark of origination that kindles action from potential.",
+                        "ja": "可能性から行動を促す発端の火花"
+                },
+                "thinking_layer": "イニシアチブとは、可能性から現実への移行を象徴する力を意味します。その起源は、新たな始まりを表すラテン語の「initium」にあります。この概念は、個々の意思が集合的な運動を引き起こすプロセスを内包しています。哲学的には、イニシアチブは人間の存在の核であり、内から湧き出る創造力と混じり合い、未来を形成していくものです。そしてこれは、無限の選択肢が存在するこの宇宙において、人間が唯一持ち得る確固たる選択肢なのです。イニシアチブは静寂の中で立ち上がり、それは世の中の喧噪の中で自らの声を響かせる。ここでは、個々の意志が無限の力を持ち、自己を超越する可能性を秘めた存在であることに気付きます。一歩踏み出すこと、それは単なる行動ではなく、存在を示す声明なのです。イニシアチブとは、無数の可能性の中で自分の意志を示す、我が魂の声に他なりません。",
+                "synonyms": [
+                        "leadership",
+                        "enterprise"
+                ],
+                "antonyms": [
+                        "passivity",
+                        "followership"
+                ],
+                "aftertaste": "Initiative is the flame that lights the path from potential to reality.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "initium",
+                                        "meaning": "beginning, commencement"
+                                }
+                        ],
+                        "points": [
+                                "イニシアチブは決断を促す主体の力を示す言葉であり、内在する可能性を現実化する力を象徴します。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Late 16th Century"
         }
 ];
