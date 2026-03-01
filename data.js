@@ -32026,5 +32026,236 @@ const WORDS = [
                 "source": "Online Etymology Dictionary",
                 "date": "2026-03-01",
                 "era": "14th Century"
+        },
+        {
+                "id": "scribble",
+                "word": "Scribble",
+                "part_of_speech": "verb",
+                "meaning": "落書きをする、書き殴る",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "scrib-",
+                                        "type": "root",
+                                        "meaning": "書く",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The term 'scribble' traces back to the late 15th century, derived from the Latin 'scribere,' meaning 'to write'."
+                },
+                "core_concept": {
+                        "en": "An unrefined dance of thoughts captured on paper.",
+                        "ja": "紙に捕らえられた未完成の思考の舞踊。"
+                },
+                "thinking_layer": "『scribble』という言葉には、混沌から生まれる創造のアンダートーンが秘められている。人々の心の中で沸き上がる衝動や思考が、無意識のうちに手を動かし、かつては無意味だった線が時に芸術に、時にアイディアの萌芽に昇華されていく。この行為は、書くことの根源的な喜びとフラストレーションの表現であり、完璧を追求することから解放された瞬間にこそ、真の創造性が芽生える。言葉がまだ形を持たず、思考が無限の可能性を秘めた状態で、無秩序の中に潜む真理を探求する。その過程は、まるで無数の星が点在する夜空に、新しい星座を紡ぎ上げているかのようだ。無邪気な手の動きが生む瞬間が、どのようにして他者に影響を与え、未来の記憶となりうるか―それは神秘的であり、また深く心を揺さぶるものである。『scribble』とは、思考の流れを紙上に投影する神聖な儀式であり、自由な魂が文字となって踊る光景である。",
+                "synonyms": [
+                        "Doodle",
+                        "Scrawl"
+                ],
+                "antonyms": [
+                        "Write",
+                        "Compose"
+                ],
+                "aftertaste": "In the chaos of scribbles lies the seed of creativity.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "scrib-",
+                                        "meaning": "to write"
+                                }
+                        ],
+                        "points": [
+                                "ラテン語の『scribere』は、書くという行為の始まりを示す。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "Late 15th Century"
+        },
+        {
+                "id": "nag",
+                "word": "Nag",
+                "part_of_speech": "verb",
+                "meaning": "しつこく言う・文句を言う",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "non-root",
+                                        "type": "root",
+                                        "meaning": "絶えず続ける",
+                                        "lang": "Old Norse"
+                                }
+                        ],
+                        "original_statement": "The term 'nag' is believed to originate from the Old Norse 'nagga' meaning to gnaw or to jab."
+                },
+                "core_concept": {
+                        "en": "Unyielding persistence that borders on the vexing.",
+                        "ja": "執拗な持続性が煩わしさに近づく"
+                },
+                "thinking_layer": "人間の心には、たくさんの思考が浮かび上がり、消えていく。その中にある一つの思考が、他のすべてを圧倒して終わりのないように反響することがある。それは、頑固な反復であり、その言葉が追い求められ続ける間、沈黙の中に潜む音のように密かに耳を貫く。このような状態であることが「しつこい」とも言えるのだろう。それは日々の雑音中にも、心の中深くで響き渡る。反応を引き出し、介入を求めるその声。それは、人々の間においても、たまに鋭く、そして飽くことなく響く。言葉が捲し立てられるたびに、強調される接触は薄れていき、感覚はぼやけていく。引き延ばされた音の響きとして、それは人生の中に定着し、感情の波のただ中に置かれた小さな漂流物のように、私たちを翻弄し続ける。それは感覚の囁きであり、感覚の軋みである。普遍的であるが故に、非常に個人的な体験を呼び覚ますものでもあります。",
+                "synonyms": [
+                        "harass",
+                        "pester"
+                ],
+                "antonyms": [
+                        "ignore",
+                        "overlook"
+                ],
+                "aftertaste": "A relentless echo in the silence of everyday life.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "nagga",
+                                        "meaning": "to gnaw or jab"
+                                }
+                        ],
+                        "points": [
+                                "『nag』の語源は、古ノルド語の「nagga」に由来し、特に「かじる」「つつく」に関する。",
+                                "英語に取り入れられる過程で、「絶えず続ける」デリケートなニュアンスを持つようになったと考えられる。"
+                        ]
+                },
+                "source": "Etymological Dictionary by Oxford University Press",
+                "date": "2026-03-01",
+                "era": "Middle English period"
+        },
+        {
+                "id": "grumble",
+                "word": "Grumble",
+                "part_of_speech": "verb",
+                "meaning": "不平や不満を低い声でつぶやくこと",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "Middle Dutch 'grommelen'",
+                                        "type": "root",
+                                        "meaning": "唸り声をあげる",
+                                        "lang": "Middle Dutch"
+                                }
+                        ],
+                        "original_statement": "Derived from Middle Dutch 'grommelen', meaning to emit a murmur or growl."
+                },
+                "core_concept": {
+                        "en": "The quiet unrest echoed in soft, dissonant murmurs of the soul.",
+                        "ja": "魂の中で静かに響く、柔らかで不協和なつぶやきの反響。"
+                },
+                "thinking_layer": "人間の内側には常に変わらぬ混乱と調和、満足と不満が宿っています。それが外界現象に触発されると、一つの音や言葉として形を成すことがあります。このようにして現れるのが「不平」の響きです。無数の因果によって形成された思考や感情が、心の奥底から顕在化するのが「グランブル」の行為であり、それはただの不満ではなく、内在する矛盾と反発が融合して生まれる静かで複雑なハーモニーです。この言葉は、単なる音声的表現を超え、深層的な感情と思想の表面への映出を示唆しています。人間の意識、その静寂とともに湧き上がる内省のプロセスを示すこの行為は、永遠に答えを求め続ける人類の探求心を象徴しています。",
+                "synonyms": [
+                        "Murmur",
+                        "Complain"
+                ],
+                "antonyms": [
+                        "Praise",
+                        "Rejoice"
+                ],
+                "aftertaste": "Grumbling is the whispered dialogue of the mind with the universe.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "grommelen",
+                                        "meaning": "to murmur or growl"
+                                }
+                        ],
+                        "points": [
+                                "不平や不満の表現は言語の中で集合的無意識を反映し、文化的背景によって多様な形で現れます。"
+                        ]
+                },
+                "source": "The Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Late Middle Ages"
+        },
+        {
+                "id": "hinder",
+                "word": "Hinder",
+                "part_of_speech": "verb",
+                "meaning": "妨げる、遅らせる",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "hind-",
+                                        "type": "root",
+                                        "meaning": "後ろあるいは遅れた",
+                                        "lang": "Old English"
+                                }
+                        ],
+                        "original_statement": "The word 'hinder' traces back to Old English 'hindrian', meaning to injure or to annoy. It relates to being behind or causing delay."
+                },
+                "core_concept": {
+                        "en": "A barrier holding back the forward flow.",
+                        "ja": "前進する流れを抑える障壁"
+                },
+                "thinking_layer": "人間の前進を妨げる「妨害」という概念は、時に外的要因ばかりでなく、内面的な葛藤や恐怖としても現れる。それは進歩の道を模索する際の不安や疑念の化身であり、新しい領域に踏み込むための自らの力を試す試金石である。世俗的な日々の中では、我々は多くの物質的な障壁に直面するが、それに打ち勝つためにはまず心の障壁を克服する必要がある。哲学的視点から見ると、「妨げる」という動詞は、自己の成長を促すための逆説的な手段である。何かに阻まれたとき、それをどのように超克するかに、我々の本当の力が試されるのである。内なる葛藤を克服した瞬間、世界は新しい視点から開かれる。それは人生の過程で避けられぬ試練であり、我々の存在に深い意味を与えるのである。そのため、妨害を受けたときこそ、新たな自己を発見する旅の始まりなのだ。",
+                "synonyms": [
+                        "obstruct",
+                        "impede"
+                ],
+                "antonyms": [
+                        "facilitate",
+                        "assist"
+                ],
+                "aftertaste": "Obstacles refine the soul, carving paths to liberation.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "hind",
+                                        "meaning": "behind, delay"
+                                }
+                        ],
+                        "points": [
+                                "古英語において『hindrian』は、背後からの影響や行動を遅らせることを表した。これが現代語『hinder』の始祖となり、その概念は時間と共に物理的な障害や心の妨害を含む意味合いへと発展した。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "Old English"
+        },
+        {
+                "id": "flaunt",
+                "word": "Flaunt",
+                "part_of_speech": "verb",
+                "meaning": "誇示する、見せびらかす",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "Middle English flanten-",
+                                        "type": "root",
+                                        "meaning": "誇示する",
+                                        "lang": "Middle English"
+                                }
+                        ],
+                        "original_statement": "The word 'flaunt' possibly originated from the Middle English 'flanten', meaning to strut or parade conspicuously."
+                },
+                "core_concept": {
+                        "en": "To breathe out one's essence for all to behold.",
+                        "ja": "すべてに見せつけるために、自らの本質を解き放つこと。"
+                },
+                "thinking_layer": "『誇示』とは、内なる矜持を形にし、外界に示す行為です。それは時に攻撃的でありながら、自己肯定感の具現化でもあります。人々は自らの存在を積極的に顕在化させることで、他者に注目されたい欲求を満たします。しかしながら、その背後には、真の自己を見つめて欲しいという深いニーズが潜んでいます。『誇示』することによって我々は、意識の光を全体の中から抜き出し、自分自身を際立たせます。それは自己の存在証明であり、一瞬の輝きを求め続ける人間の永遠の旅でもあります。この行為はまた、内的価値の外的世界への投影でもあります。なぜ人は誇示するのか。それは認められることの喜び、そして誰もが持つ普遍的な不安、すなわち消えゆく一瞬を掴むための、盲目的な探求なのです。誇示する行為は、時に認められる喜びと自己表現の歓びを象徴します。",
+                "synonyms": [
+                        "Show off",
+                        "Parade"
+                ],
+                "antonyms": [
+                        "Conceal",
+                        "Hide"
+                ],
+                "aftertaste": "In flaunting, one turns essence into a spectacle.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "flanten",
+                                        "meaning": "To show, to display"
+                                }
+                        ],
+                        "points": [
+                                "『誇示』は、内面の価値が外界に表現される瞬間でもあり、自己の存在意義を声高に主張する手段とも言えます。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "16th Century"
         }
 ];
