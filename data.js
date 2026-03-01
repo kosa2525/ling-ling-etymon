@@ -34913,5 +34913,369 @@ const WORDS = [
                 "source": "Oxford English Dictionary",
                 "date": "2026-03-01",
                 "era": "14th Century"
+        },
+        {
+                "id": "reclaim",
+                "word": "Reclaim",
+                "part_of_speech": "verb",
+                "meaning": "奪われたものを取り戻す",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "re-",
+                                        "type": "prefix",
+                                        "meaning": "再び",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "claim",
+                                        "type": "root",
+                                        "meaning": "要求する",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "Derived from Middle French 'reclamer', which stems from Latin 'reclamare' meaning to cry out again or to call back."
+                },
+                "core_concept": {
+                        "en": "A poetic return to what was always meant to be ours.",
+                        "ja": "もともと我々のものであったはずのものへの詩的な帰還"
+                },
+                "thinking_layer": "「再び要求する」という行為は、単なる物質的な回収ではなく、存在の深層に潜む記憶と未来への可能性をも内包している。この言葉は、長い歴史の中で失われ、そして再発見されるものに対する人間の永遠の営みを象徴している。思い出せば、我々は人生のさざ波に飲まれ、何が真に重要であるかを見失いがちである。しかし、再度要求することで、私たちは自らの魂を再び確認し、立ち上がるきっかけを得る。この営みは、過去を再解析し、新たな視点と共に自分自身を再構築することでもある。再発見の旅路は、時に困難を伴うが、その中で見出される価値は、新たな一歩を踏み出す力を与えてくれる。再要求するという行為は、人間の意志と可能性の証左であり、未来への灯火となる。人生の途上で失われた理想と夢を取り戻すために、人は再度その声を上げ続けるだろう。",
+                "synonyms": [
+                        "Restore",
+                        "Recover"
+                ],
+                "antonyms": [
+                        "Abandon",
+                        "Forsake"
+                ],
+                "aftertaste": "To reclaim is to stitch time's tapestry anew.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "re-",
+                                        "meaning": "again"
+                                },
+                                {
+                                        "term": "claim",
+                                        "meaning": "to call or demand"
+                                }
+                        ],
+                        "points": [
+                                "再要求の行為は、心の声に応える行為であると共に、過去を再評価して未来に調和をもたらすための起点となる。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "Late Middle English, 14th Century"
+        },
+        {
+                "id": "proclaim",
+                "word": "Proclaim",
+                "part_of_speech": "verb",
+                "meaning": "公に宣言する",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "pro-",
+                                        "type": "prefix",
+                                        "meaning": "前に",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "clamare",
+                                        "type": "root",
+                                        "meaning": "叫ぶ",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'proclaim' derives from the Latin 'proclamare', which means 'to shout out' or 'to announce publicly'. It made its way into the English language through Old French."
+                },
+                "core_concept": {
+                        "en": "To cast words upon the winds, sharing truth's cry.",
+                        "ja": "真実の叫びを風に乗せて広めること"
+                },
+                "thinking_layer": "宣言とは、他者への自己の内面の大いなる開示であり、その行為には多くの勇気が求められる。古代ローマに由来するこの言葉は、単なる発話の行為を超え、個人の意識や信念を全体の前で提示する瞬間を指す。それはまた、コミュニケーションの本質を探る鍵であり、互いが互いを深く理解し合うための道具でもある。声高に叫ぶことは、自己の確立であり、他者との繋がりを築く手段である。宣言が持つ力は、静寂を打ち破り、未知の領域へと導く。言葉は時に嘘という鎖から自由になり、心の中で眠っていた真実を解き放つ。そして、それは我々の存在そのものに新たな意味を与える。言葉が風となり、聴く者の心に触れる時、その波動は更なる声を生み出し、共鳴の輪を広げ続けるのだ。我々は宣言によって変わり、世界もまた、声によって変わる。宣言の美しさは、静かに、しかし確実に私たちの人生を豊かにする。何を、何のために宣言するのか、それは我々が抱える人生の永遠の問いかけである。",
+                "synonyms": [
+                        "announce",
+                        "declare"
+                ],
+                "antonyms": [
+                        "whisper",
+                        "suppress"
+                ],
+                "aftertaste": "To proclaim is to light a beacon in the vast darkness.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "pro",
+                                        "meaning": "forward"
+                                },
+                                {
+                                        "term": "clamare",
+                                        "meaning": "to shout"
+                                }
+                        ],
+                        "points": [
+                                "『proclaim』の語源は、ラテン語『proclamare』に起源し、これは公然と叫ぶことを意味します。クラマトリアム（市場や集会の場）での演説における宣言は、古代ローマ社会において重要な役割を果たしました。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "Late Middle English, Latin origin"
+        },
+        {
+                "id": "perspire",
+                "word": "Perspire",
+                "part_of_speech": "verb",
+                "meaning": "汗をかく",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "per-",
+                                        "type": "prefix",
+                                        "meaning": "完全に",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "spirare",
+                                        "type": "root",
+                                        "meaning": "呼吸する",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'perspire' originates from the Latin 'perspirare', which means 'to breathe through'."
+                },
+                "core_concept": {
+                        "en": "The subtle dance of the body's breath escaping as a river of life.",
+                        "ja": "身体の呼吸が生命の川として流れ出る繊細な舞い"
+                },
+                "thinking_layer": "汗をかくことは単なる生理現象ではなく、生命の微妙な交響曲である。人は心の深奥からの熱を皮膚から解放し、宇宙と身体が共に奏でる調和音の一部を形成する。汗は労苦の証でもあり、それを流すことで自身の努力を示し、また自然界との織り成す周期の一部になる。古代より、人間はその流れを生命力と結び付け、浄化や再生の象徴と見立ててきた。呼吸の変奏曲が静かに奏でるとき、それは内側の動きを外にあらわし、実存と一体化したり、苦難に耐えたりする力を賦与する。だからこそ、汗をかくことは肉体的な働き以上のものであり、心魂との対話も含まれている。何千年も前から、汗は努力の美学として芸術や宗教に浸透し、人が自然と調和する存在であることを思い出させるものである。",
+                "synonyms": [
+                        "sweat",
+                        "perspiration"
+                ],
+                "antonyms": [
+                        "dry",
+                        "dehydrate"
+                ],
+                "aftertaste": "Perspiring is the body crafting art from exertion.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "per",
+                                        "meaning": "through, completely"
+                                },
+                                {
+                                        "term": "spirare",
+                                        "meaning": "to breathe"
+                                }
+                        ],
+                        "points": [
+                                "ラテン語の 'perspirare' は、呼吸と完全性を意味し、汗をかくことで完璧に生命を体現することを象徴する。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "16th Century Latin Origin"
+        },
+        {
+                "id": "refound",
+                "word": "Refound",
+                "part_of_speech": "verb",
+                "meaning": "再び発見すること、再発見",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "re-",
+                                        "type": "prefix",
+                                        "meaning": "再び",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "found",
+                                        "type": "root",
+                                        "meaning": "見つける",
+                                        "lang": "English"
+                                }
+                        ],
+                        "original_statement": "Derived from Middle English 'funden', influenced by the prefix 're-' meaning 'again' in Latin."
+                },
+                "core_concept": {
+                        "en": "The poetic act of rediscovery.",
+                        "ja": "再発見という詩的行為"
+                },
+                "thinking_layer": "再発見という行為は、我々の心の深層に横たわり、存在の真意を問い直す機会を提供する。それは、失われた時を取り戻すことに似て、過去と現在を結び付け、未来への洞察を与える。再び何かを見つけるということは、何かが忘れ去られたり、隠されていたものを明るみに出すことであり、それは新たな意味を付与する行為である。このプロセスには、時間を超越する静謐と新しい始まりの興奮が共存し、人間の持つ探究心を呼び覚ます。世界は常に変化し、我々自身も変化する中で、この再発見の旅は、内なる自己と外界の両面において、無限の可能性を開く鍵となる。物事の本質を再確認し、それを新たにすることで、過去の懸念から解放され、新たな未来への旅路を拓く勇気が促される。",
+                "synonyms": [
+                        "Rediscover",
+                        "Reestablish"
+                ],
+                "antonyms": [
+                        "Forget",
+                        "Lose"
+                ],
+                "aftertaste": "In rediscovery, we rekindle the light of forgotten paths.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "find",
+                                        "meaning": "to discover or perceive"
+                                }
+                        ],
+                        "points": [
+                                "再発見は、新しい光を当てるという象徴的な行為であり、それは見失われた価値を再定義する機会を作る。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Middle English"
+        },
+        {
+                "id": "conclusion",
+                "word": "Conclusion",
+                "part_of_speech": "noun",
+                "meaning": "結論、物事の終わり",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "con-",
+                                        "type": "prefix",
+                                        "meaning": "共に",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "cludere",
+                                        "type": "root",
+                                        "meaning": "閉じる",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'conclusion' originates from the Latin 'conclusio', based on 'concludere' which means 'to close' or 'to shut together'."
+                },
+                "core_concept": {
+                        "en": "The graceful summation where narratives find peaceful rest.",
+                        "ja": "物語が穏やかに終わりを迎える優美な総括"
+                },
+                "thinking_layer": "結論とは、知識と理解の旅を締めくくるたびに人間の心に鳴り響く静かな鐘の音である。言葉は線となり、概念は空間を形作り、経験が一つの結びに集束するとき、それは終わりの始まりを示すものである。結論を迎えることは、終焉を受け入れる勇気を抱くことであり、同時に新たなる始まりへの歩みを刻むことでもある。一つの物語が終わる際に、目には見えない未来の光が安らかにちらつき、過去は静寂の中で反響する。これらの瞬間は、生と死、始まりと終わりがひとつの輪となり、不変の生命の空へと溶け込む神秘的な出会いである。この哲学の舞台において、結論は無限の可能性の影を伴い、我々を新たな冒険へと導く指標である。",
+                "synonyms": [
+                        "Closure",
+                        "Resolution"
+                ],
+                "antonyms": [
+                        "Introduction",
+                        "Beginning"
+                ],
+                "aftertaste": "Every conclusion whispers a prelude to the unknown.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "concludere",
+                                        "meaning": "to close, to shut"
+                                }
+                        ],
+                        "points": [
+                                "この語の語源は、異なった要素や出来事が一つになり、新たな意味を生むプロセスを示しています。結論とは単なる終わりではなく、新たな視点の創出でもあります。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "14th Century"
+        },
+        {
+                "id": "ambitious",
+                "word": "Ambitious",
+                "part_of_speech": "adjective",
+                "meaning": "野心的な",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "ambire-",
+                                        "type": "root",
+                                        "meaning": "歩き回る",
+                                        "lang": "ラテン語"
+                                }
+                        ],
+                        "original_statement": "Derived from Latin 'ambitio', which refers to striving for favor, courting popularity, or honor, from 'ambire' meaning 'to go around, canvass'."
+                },
+                "core_concept": {
+                        "en": "The ceaseless breath of desire aimed at the stars, driven by an ever-burning inner fuel.",
+                        "ja": "星を目指す無限の欲望の息吹、内なる燃料により絶えず燃え上がる。"
+                },
+                "thinking_layer": "野心とは、人間の心に潜む永遠の波のようだ。古代より、野心は人間の成長や進化の源泉として存在してきた。人は、自己の範囲を超えて新しい地平を探求しようとする。この力は、一方で破壊的な力にもなり得るが、他方で創造的かつ建設的な進展への衝動としても機能する。野心は、自己を超越し、新しい可能性を切り拓くための原動力であり、その過程において数々の障害や挑戦に立ち向かう勇気を与える。野心の一部としての夢や希望は、人生に対する哲学的問いを投げかける。同時に、それは人間の存在における不可避の不確実性への対抗手段でもある。野心とは、自らの手で自分自身の運命を形作ろうという試みであり、孤独な探求の道を歩むものである。しかし、その道程において、真の自己発見や内面的な変革が起こるのもまた事実である。このようにして、野心とは進化の中で常に新たな意義を見出してきた人間の感情である。",
+                "synonyms": [
+                        "aspiring",
+                        "driven"
+                ],
+                "antonyms": [
+                        "unambitious",
+                        "content"
+                ],
+                "aftertaste": "Ambition is a bridge we build toward our imagined futures.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "ambire",
+                                        "meaning": "to go around, canvass"
+                                }
+                        ],
+                        "points": [
+                                "野心の概念はローマ時代において政治的活動から発展し、現代においても自己の達成欲求と深く結びついている。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "Late Middle English"
+        },
+        {
+                "id": "frowning",
+                "word": "Frowning",
+                "part_of_speech": "verb",
+                "meaning": "眉をひそめる",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "frown-",
+                                        "type": "root",
+                                        "meaning": "しかめる、しかめっ面をする",
+                                        "lang": "Old French"
+                                }
+                        ],
+                        "original_statement": "The word 'frowning' originates from the Old French word 'frognier', meaning to wrinkle or snort, reflecting displeasure or concentration."
+                },
+                "core_concept": {
+                        "en": "The subtle dance of shadows across a contemplative visage.",
+                        "ja": "考え深い顔に現れる影の繊細な舞"
+                },
+                "thinking_layer": "人生とは、魂が織り成す無言の詩である。眉をひそめるという行為は、私たちの内なる葛藤や不安、考えの深淵を静かに表出する手段である。瞬間的には、自己の内に潜む未知との対峙を示すこともある。その時、その陰影の中で、見えない思索の魔法が展開し、広がり、深淵の奥底で答えを見つけようとする。言葉にできない感情を表現するこの微細な動きは、心の奥で波を立てる。眉を寄せる瞬間は、内なる宇宙と外界との境界であり、静かなる哲学の始まりとも言える。私たちが目にする世界と内面的に感じる宇宙とを接続するフラクタルな接点には、深遠な知識が潜んでいる。眉がしかめられるその一瞬に、光と影の交わる地点で、自己の本質と向き合うことが求められている。眉間の縦シワは、人生の風景を歩む上で生じる陰影の地図と言えよう。",
+                "synonyms": [
+                        "Scowling",
+                        "Glowering"
+                ],
+                "antonyms": [
+                        "Smiling",
+                        "Beaming"
+                ],
+                "aftertaste": "A quiet revolt against the superficial gaze of the world.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "frognier",
+                                        "meaning": "to wrinkle, snort"
+                                }
+                        ],
+                        "points": [
+                                "『frowning』という言葉は、精神の内なる宇宙が外部へと顔を覗かせる様を現したものである。苦悩や集中を反映し、人間の精神の厚みに関するエレガントな言語的表現である。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "Middle English, circa 14th Century"
         }
 ];
