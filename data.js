@@ -2,50 +2,102 @@ const WORDS = [
         {
                 "id": "abandon",
                 "word": "Abandon",
-                "part_of_speech": "verb",
-                "meaning": "捨てる、あきらめる、身を任せる",
+                "part_of_speech": "verb/noun",
+                "meaning": "捨てる、見捨てる、自堕落、奔放",
                 "etymology": {
                         "breakdown": [
                                 {
                                         "text": "a-",
                                         "type": "prefix",
-                                        "meaning": "at/to"
+                                        "meaning": "at / to"
                                 },
                                 {
-                                        "text": "ban",
+                                        "text": "bandon",
                                         "type": "root",
-                                        "meaning": "proclamation/jurisdiction"
+                                        "meaning": "jurisdiction / control"
                                 }
                         ],
-                        "original_statement": "From Old French abandonner, from à bandon 'at will, at liberty', literally 'under someone's jurisdiction'."
+                        "original_statement": "From Old French abandonner, from a- 'at, to' + bandon 'power, jurisdiction'."
                 },
                 "core_concept": {
-                        "en": "Under control of another",
-                        "ja": "自らの意志を、大いなる掟に明け渡す"
+                        "en": "Under control / yield up",
+                        "ja": "誰かの「支配（control）」の下に身を投げ出し、自己を明け渡す"
                 },
-                "thinking_layer": "「捨てる」とは、自分による支配を終わらせることです。かつては「権力者の布告（ban）に身を委ねる」ことを意味しました。執着を手放し、運命という名の巨大な意志に自分を預けるとき、逆説的な自由が生まれます。",
+                "thinking_layer": "もとは「他者の管轄下に置く」という、法的な降伏のニュアンスでした。それが「持ち主のない状態にする（見捨てる）」、さらには理性の統制を解いて「感情の赴くままにする（奔放）」へと分岐しました。制御を「手放す」瞬間の、解放と絶望が同居しています。",
                 "synonyms": [
                         "relinquish",
-                        "forsake"
+                        "forsake",
+                        "unrestraint"
                 ],
                 "antonyms": [
-                        "keep",
-                        "maintain"
+                        "retain",
+                        "reclaim",
+                        "restraint"
                 ],
-                "aftertaste": "支配を解いた先に待つ、究極の降伏",
+                "aftertaste": "放り出された冷たさと、重力から解き放たれた自由",
                 "deep_dive": {
                         "roots": [
                                 {
-                                        "term": "ban",
-                                        "meaning": "公的な宣言、禁止"
+                                        "term": "bann-",
+                                        "meaning": "proclamation / ban"
                                 }
                         ],
                         "points": [
-                                "banish（追放する）やbanal（ありふれた＝公の）と同じルーツです。"
+                                "ban（禁止）と同根。社会的な命令や権力の及ぶ範囲を指します。"
                         ]
                 },
-                "source": "etymon",
+                "source": "etymon Philologist Mode",
                 "era": "14th Century Old French"
+        },
+        {
+                "id": "abhor",
+                "word": "Abhor",
+                "part_of_speech": "verb",
+                "meaning": "ひどく嫌う、忌み嫌う",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "ab-",
+                                        "type": "prefix",
+                                        "meaning": "away / from"
+                                },
+                                {
+                                        "text": "horrere",
+                                        "type": "root",
+                                        "meaning": "to shudder / to bristle"
+                                }
+                        ],
+                        "original_statement": "From Latin abhorrere 'shudder away from', from ab- 'away' + horrere 'tremble, bristle'."
+                },
+                "core_concept": {
+                        "en": "Shudder away",
+                        "ja": "あまりの恐ろしさ・不快さに、身の毛が立ち（horrere）、思わず「遠ざかる（away）」"
+                },
+                "thinking_layer": "単なる嫌悪（dislike）ではありません。生理的な拒絶反応です。氷を背中に入れられた時のように、あるいは汚物を見た時のように、体が勝手に震え、一歩退いてしまう。その対象に対する、魂レベルでの強い拒否権の発動です。",
+                "synonyms": [
+                        "detest",
+                        "loathe",
+                        "abominate"
+                ],
+                "antonyms": [
+                        "admire",
+                        "love",
+                        "cherish"
+                ],
+                "aftertaste": "逆立った産毛と、二度と触れたくないという冷徹な境界線",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "horror",
+                                        "meaning": "shuddering"
+                                }
+                        ],
+                        "points": [
+                                "horror（恐怖）と同じ。毛が逆立つ（bristle）物理的な反応が語源です。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "15th Century Latin"
         },
         {
                 "id": "abiogenesis",
@@ -430,6 +482,55 @@ const WORDS = [
                 "era": "15th Century"
         },
         {
+                "id": "abstract",
+                "word": "Abstract",
+                "part_of_speech": "adjective/noun/verb",
+                "meaning": "抽象的な、難解な、抽出する",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "ab-",
+                                        "type": "prefix",
+                                        "meaning": "away"
+                                },
+                                {
+                                        "text": "trahere",
+                                        "type": "root",
+                                        "meaning": "to draw / to pull"
+                                }
+                        ],
+                        "original_statement": "From Latin abstractus, from abstrahere 'to draw away', from ab- 'away' + trahere 'draw'."
+                },
+                "core_concept": {
+                        "en": "Drawn away",
+                        "ja": "具体的な現実の塊から、エッセンスだけを「引き（draw）」「離す（away）」"
+                },
+                "thinking_layer": "リンゴ（具体）から「赤」や「丸さ」という概念だけを抜き出す作業。それは、手触りのある世界を捨て、思考の空へと昇華させることです。難解なのは、そこにあるべき「肉体」が引き剥がされ、骨組みだけの幽霊になっているからです。",
+                "synonyms": [
+                        "theoretical",
+                        "conceptual",
+                        "extract"
+                ],
+                "antonyms": [
+                        "concrete",
+                        "tangible"
+                ],
+                "aftertaste": "肉を削ぎ落とした、白く乾いた幾何学的な骨格",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "trahere",
+                                        "meaning": "pull"
+                                }
+                        ],
+                        "points": [
+                                "attract（惹きつける＝手前に引く）やextract（抽出する＝外に引く）の兄弟です。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "14th Century Latin"
+        },
+        {
                 "id": "abstruse",
                 "word": "Abstruse",
                 "author": "etymon_official",
@@ -484,6 +585,105 @@ const WORDS = [
                 "part_of_speech": "adjective",
                 "meaning": "難解な",
                 "era": "15th Century"
+        },
+        {
+                "id": "abundant",
+                "word": "Abundant",
+                "part_of_speech": "adjective",
+                "meaning": "豊富な、溢れんばかりの",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "ab-",
+                                        "type": "prefix",
+                                        "meaning": "from / away"
+                                },
+                                {
+                                        "text": "undare",
+                                        "type": "root",
+                                        "meaning": "to rise in waves"
+                                }
+                        ],
+                        "original_statement": "From Latin abundantem, from abundare 'overflow', from ab- 'from' + unda 'wave'."
+                },
+                "core_concept": {
+                        "en": "Overflowing like waves",
+                        "ja": "器の縁を超えて、寄せては返す「波（wave）」のように「溢れ出す」"
+                },
+                "thinking_layer": "静かな充足ではありません。溢れ出して止まらない動的な豊かさです。水（unda）が際限なく湧き上がり、土手を越えて周囲を潤していく。そこには、コントロールできないほどの生命の奔流が宿っています。",
+                "synonyms": [
+                        "plentiful",
+                        "copious",
+                        "overflowing"
+                ],
+                "antonyms": [
+                        "scarce",
+                        "sparse",
+                        "meager"
+                ],
+                "aftertaste": "堰を切って流れ出す、透明で力強い水の音",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "unda",
+                                        "meaning": "wave"
+                                }
+                        ],
+                        "points": [
+                                "undulate（うねる）やsurround（もとは波が囲む意）と同じ、水の躍動です。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "14th Century Latin"
+        },
+        {
+                "id": "abyss",
+                "word": "Abyss",
+                "part_of_speech": "noun",
+                "meaning": "深淵、底なしの穴",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "a-",
+                                        "type": "prefix",
+                                        "meaning": "without"
+                                },
+                                {
+                                        "text": "bussos",
+                                        "type": "root",
+                                        "meaning": "bottom"
+                                }
+                        ],
+                        "original_statement": "From Greek abyssos 'bottomless', from a- 'without' + byssos 'bottom'."
+                },
+                "core_concept": {
+                        "en": "Bottomless",
+                        "ja": "いくら潜っても、どこまで落ちても、決して「底（bottom）」に辿り着かない「無」"
+                },
+                "thinking_layer": "終わりがないことの恐怖です。物理的な深海や谷底だけでなく、絶望や孤独といった「精神的な深み」を指します。光が届かず、法則が通用しない、世界から忘れ去られた暗黒の空白地帯です。",
+                "synonyms": [
+                        "chasm",
+                        "void",
+                        "gulf"
+                ],
+                "antonyms": [
+                        "summit",
+                        "peak"
+                ],
+                "aftertaste": "投げた石の音がいつまでも返ってこない、震えるような静寂",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "byssos",
+                                        "meaning": "depth of the sea"
+                                }
+                        ],
+                        "points": [
+                                "かつては「宇宙の混沌（カオス）」を意味する、神話的な言葉でもありました。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "Ancient Greek / Latin"
         },
         {
                 "id": "acatalepsy",
@@ -604,56 +804,556 @@ const WORDS = [
                 "era": "Unknown Era"
         },
         {
-                "id": "accurate",
-                "word": "Accurate",
-                "part_of_speech": "adjective",
-                "meaning": "正確なこと",
-                "author": "etymon_official",
+                "id": "accede",
+                "word": "Accede",
+                "part_of_speech": "verb",
+                "meaning": "同意する、就任する、加わる",
                 "etymology": {
                         "breakdown": [
                                 {
                                         "text": "ad-",
                                         "type": "prefix",
-                                        "meaning": "に向かって",
-                                        "lang": "Latin"
+                                        "meaning": "to"
                                 },
                                 {
-                                        "text": "curare",
+                                        "text": "cedere",
                                         "type": "root",
-                                        "meaning": "世話をする",
-                                        "lang": "Latin"
+                                        "meaning": "to go / yield"
                                 }
                         ],
-                        "original_statement": "The word 'accurate' is derived from the Latin 'accuratus', meaning done with care, emphasizing meticulousness."
+                        "original_statement": "From Latin accedere 'approach, yield', from ad- 'to' + cedere 'go'."
                 },
                 "core_concept": {
-                        "en": "The poetic dance of precision and care.",
-                        "ja": "精密さと注意深さの詩的舞踊"
+                        "en": "To go towards",
+                        "ja": "相手の主張や地位に向かって、自ら「歩み（go）」寄り、そこに「落ち着く」"
                 },
-                "thinking_layer": "『正確』という言葉は、私たちの内なる秩序と調和を追求する心の象徴である。あらゆる行動や決定には、その背後に精密な配慮と深い思考が求められる。この言葉は、ただ単なる数値や規則の範囲に留まらず、人生の中でどのように細かなひだを広げ、世界との交わりを形作るかという永遠の問いを私たちに投げかける。正確さとは、規則や定規では計り知れない次元を持ち、私たちの存在や感情にも同じように影響を与える。静かなる心の中に秩序を築き、微細な瞬間にすら魂の響きを感じ取る能力こそが、真の正確である。正確とはただ外的な計算の結果だけではなく、内なる調和を目指し、自らの本質を探求する旅において求められる美しき特質である。この概念は、自己を超えた存在と共鳴し、一つになるための永遠の探求でもある。加えて、正確さとは、それ自体が美と真実の姿を映し出す鏡であり、まさしく生命の精髄を象徴する概念である。",
+                "thinking_layer": "積極的な賛成というより、流れを受け入れる「譲歩」のニュアンスがあります。王座に就く（accede to the throne）のも、その地位に「行く」という動作。対立をやめ、同じ場所へ足を運ぶことで、新しい関係性が結ばれます。",
                 "synonyms": [
-                        "Precise",
-                        "Exact"
+                        "assent",
+                        "comply",
+                        "succeed to"
                 ],
                 "antonyms": [
-                        "Inaccurate",
-                        "Imprecise"
+                        "demur",
+                        "dissent",
+                        "reject"
                 ],
-                "aftertaste": "Precision is the soul's tribute to truth.",
+                "aftertaste": "一歩踏み出し、重い扉をそっと閉めるような静かな合意",
                 "deep_dive": {
                         "roots": [
                                 {
-                                        "term": "curare",
-                                        "meaning": "to take care"
+                                        "term": "cedere",
+                                        "meaning": "go / move"
                                 }
                         ],
                         "points": [
-                                "「正確」の語源は、細かな配慮と注意が求められる人間の深層心理に深く根ざしている。"
+                                "concede（認める）やrecede（遠ざかる）の親類。距離感の変化が本質です。"
                         ]
                 },
-                "source": "Online Etymology Dictionary",
-                "date": "2026-03-01",
-                "era": "Late Middle English"
+                "source": "etymon Philologist Mode",
+                "era": "15th Century Latin"
+        },
+        {
+                "id": "accelerate",
+                "word": "Accelerate",
+                "part_of_speech": "verb",
+                "meaning": "加速する、促進する",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "ad-",
+                                        "type": "prefix",
+                                        "meaning": "to"
+                                },
+                                {
+                                        "text": "celer",
+                                        "type": "root",
+                                        "meaning": "swift"
+                                }
+                        ],
+                        "original_statement": "From Latin acceleratus, from ad- 'to' + celerare 'hasten', from celer 'swift'."
+                },
+                "core_concept": {
+                        "en": "Towards swiftness",
+                        "ja": "停滞を捨て、「速さ（swift）」の極地へと自分を「追いやる（to）」"
+                },
+                "thinking_layer": "物理的な速度だけでなく、事態が切迫していく心理的・社会的な速度の変化を指します。緩やかな流れが急流に変わるように、エネルギーを一点に注ぎ込み、時間を圧縮する行為です。",
+                "synonyms": [
+                        "hasten",
+                        "quicken",
+                        "expedite"
+                ],
+                "antonyms": [
+                        "decelerate",
+                        "hinder",
+                        "delay"
+                ],
+                "aftertaste": "景色が線になって流れていく、前のめりな高揚感",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "celer",
+                                        "meaning": "fast"
+                                }
+                        ],
+                        "points": [
+                                "celerity（敏速）と同じ。ギリシャ語のkelles（競走馬）に由来するという説もあります。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "16th Century Latin"
+        },
+        {
+                "id": "accent",
+                "word": "Accent",
+                "part_of_speech": "noun/verb",
+                "meaning": "アクセント、強調、口調",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "ad-",
+                                        "type": "prefix",
+                                        "meaning": "to"
+                                },
+                                {
+                                        "text": "cantus",
+                                        "type": "root",
+                                        "meaning": "song"
+                                }
+                        ],
+                        "original_statement": "From Latin accentus, from ad- 'to' + cantus 'song'."
+                },
+                "core_concept": {
+                        "en": "Song added to",
+                        "ja": "単なる言葉の羅列に、感情や意味の「歌（song）」を「付け加える」"
+                },
+                "thinking_layer": "言葉は音楽です。平坦な音に高低や強弱（歌の要素）を加えることで、初めて魂が宿ります。アクセントとは、冷たい文字に「声」という生命を吹き込み、特定の場所を輝かせるための調べです。",
+                "synonyms": [
+                        "emphasis",
+                        "stress",
+                        "tone"
+                ],
+                "antonyms": [
+                        "monotone"
+                ],
+                "aftertaste": "耳に残る、言葉の最後の一跳ね",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "cantare",
+                                        "meaning": "to sing"
+                                }
+                        ],
+                        "points": [
+                                "chant（唱える）やenchant（魔法にかける＝歌いかける）と同じ、響きの魔力です。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "16th Century Latin"
+        },
+        {
+                "id": "accommodate",
+                "word": "Accommodate",
+                "part_of_speech": "verb",
+                "meaning": "適応させる、収容する、便宜を図る",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "ad-",
+                                        "type": "prefix",
+                                        "meaning": "to"
+                                },
+                                {
+                                        "text": "commodus",
+                                        "type": "root",
+                                        "meaning": "fitting / measure"
+                                }
+                        ],
+                        "original_statement": "From Latin accommodatus, from ad- 'to' + commodare 'fit, make fit', from commodus 'proper measure'."
+                },
+                "core_concept": {
+                        "en": "To make fitting",
+                        "ja": "相手の「寸法（measure）」に合わせて、自分の形を「ぴったり（fitting）」と整える"
+                },
+                "thinking_layer": "相手を受け入れるために、自分の空間やルールを少しだけ変形させること。ホテルの収容も、意見の調整も、すべては「ズレ」を修正して「調和（fitting）」させる優しさと柔軟性の現れです。",
+                "synonyms": [
+                        "adapt",
+                        "adjust",
+                        "lodge"
+                ],
+                "antonyms": [
+                        "hinder",
+                        "reject",
+                        "clash"
+                ],
+                "aftertaste": "ぴったりと閉まる蓋のような、心地よい充足感",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "modus",
+                                        "meaning": "measure / way"
+                                }
+                        ],
+                        "points": [
+                                "mode（様式）やmodelと同じ、適切な「型」を模索する言葉です。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "16th Century Latin"
+        },
+        {
+                "id": "accompany",
+                "word": "Accompany",
+                "part_of_speech": "verb",
+                "meaning": "同行する、伴奏する、付随する",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "ad-",
+                                        "type": "prefix",
+                                        "meaning": "to"
+                                },
+                                {
+                                        "text": "com-",
+                                        "type": "prefix",
+                                        "meaning": "with"
+                                },
+                                {
+                                        "text": "panis",
+                                        "type": "root",
+                                        "meaning": "bread"
+                                }
+                        ],
+                        "original_statement": "From Old French accompagner, from a- 'to' + compaignon 'companion' (with bread)."
+                },
+                "core_concept": {
+                        "en": "To be bread-sharer with",
+                        "ja": "「同じパン（bread）」を「共に（with）」食べる仲間に「なる（to）」"
+                },
+                "thinking_layer": "単に横を歩くのではありません。運命共同体になることです。食卓を囲み、同じ栄養で生きるほどの親密さを持って、相手の歩調に合わせる。主旋律を支える伴奏のように、相手の存在を完成させるための寄り添いです。",
+                "synonyms": [
+                        "escort",
+                        "attend",
+                        "complement"
+                ],
+                "antonyms": [
+                        "abandon",
+                        "leave",
+                        "desert"
+                ],
+                "aftertaste": "分け合ったパンの温もりと、隣を歩く靴音の重なり",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "panis",
+                                        "meaning": "bread"
+                                }
+                        ],
+                        "points": [
+                                "companion（仲間）やpantry（パン貯蔵庫）と同じ。生きるための糧を共有する関係です。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "15th Century Old French"
+        },
+        {
+                "id": "accomplish",
+                "word": "Accomplish",
+                "part_of_speech": "verb",
+                "meaning": "成し遂げる、完遂する、成就する",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "ad-",
+                                        "type": "prefix",
+                                        "meaning": "to"
+                                },
+                                {
+                                        "text": "complere",
+                                        "type": "root",
+                                        "meaning": "to fill up"
+                                }
+                        ],
+                        "original_statement": "From Old French acomplir, from Latin accomplere 'fill up', from ad- 'to' + complere 'fill'."
+                },
+                "core_concept": {
+                        "en": "To fill up",
+                        "ja": "空っぽだった器に、一つ一つの努力を注ぎ込み、ついに「満杯（fill up）」にする"
+                },
+                "thinking_layer": "単に終わらせる（finish）のではなく、「完全な状態にする」というニュアンスです。欠けていたパズルの最後の一片をはめ込み、全体を完成させること。そこには、空虚を価値で埋め尽くしたという圧倒的な手応えがあります。",
+                "synonyms": [
+                        "achieve",
+                        "fulfill",
+                        "execute"
+                ],
+                "antonyms": [
+                        "fail",
+                        "abandon",
+                        "neglect"
+                ],
+                "aftertaste": "溢れんばかりの器を両手で支える、重厚な達成感",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "plere",
+                                        "meaning": "to fill"
+                                }
+                        ],
+                        "points": [
+                                "complete（完全な）やsupply（供給する）と同じ. 満たすことが本質です。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "14th Century Old French / Latin"
+        },
+        {
+                "id": "accord",
+                "word": "Accord",
+                "part_of_speech": "noun/verb",
+                "meaning": "一致、調和、与える、同意する",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "ad-",
+                                        "type": "prefix",
+                                        "meaning": "to"
+                                },
+                                {
+                                        "text": "cor",
+                                        "type": "root",
+                                        "meaning": "heart"
+                                }
+                        ],
+                        "original_statement": "From Old French acorder, from Latin accordare 'be of one mind', from ad- 'to' + cor 'heart'."
+                },
+                "core_concept": {
+                        "en": "Heart to heart",
+                        "ja": "バラバラだった「心（heart）」を、一つの鼓動へと「寄り添わせ（to）」、共鳴させる"
+                },
+                "thinking_layer": "理屈による合意（agree）よりも、感情や本質レベルでの「響き合い」を指します。楽器の弦が共鳴するように、互いの波長が重なり合い、不協和音が消えていく状態。自発的で、淀みのない調和の形です。",
+                "synonyms": [
+                        "harmony",
+                        "agreement",
+                        "concord"
+                ],
+                "antonyms": [
+                        "discord",
+                        "conflict",
+                        "disagreement"
+                ],
+                "aftertaste": "重なり合う二つの鼓動と、静かに満ちる一体感",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "cor",
+                                        "meaning": "heart"
+                                }
+                        ],
+                        "points": [
+                                "core（核）やcordial（心からの）と同じ。生命の中心を意味します。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "12th Century Old French / Latin"
+        },
+        {
+                "id": "accumulate",
+                "word": "Accumulate",
+                "part_of_speech": "verb",
+                "meaning": "蓄積する、積み上げる、増える",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "ad-",
+                                        "type": "prefix",
+                                        "meaning": "to"
+                                },
+                                {
+                                        "text": "cumulus",
+                                        "type": "root",
+                                        "meaning": "heap / pile"
+                                }
+                        ],
+                        "original_statement": "From Latin accumulatus, from ad- 'to' + cumulare 'heap up', from cumulus 'a heap'."
+                },
+                "core_concept": {
+                        "en": "To heap up",
+                        "ja": "平らな地面に、一握りずつの砂を「山（heap）」のように「積み（to）」上げていく"
+                },
+                "thinking_layer": "一朝一夕ではなく、時間の経過とともに層をなしていくプロセスです。知識、富、あるいは埃。一つ一つは小さくても、重なり合うことで無視できない「高さ（重み）」へと変容していく、静かな増幅の力です。",
+                "synonyms": [
+                        "amass",
+                        "collect",
+                        "gather"
+                ],
+                "antonyms": [
+                        "dissipate",
+                        "disperse",
+                        "scatter"
+                ],
+                "aftertaste": "指先から零れた塵が、いつしか見上げるほどの山となる予感",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "cumulus",
+                                        "meaning": "mass / heap"
+                                }
+                        ],
+                        "points": [
+                                "cumulus（積乱雲）やcumulative（累積的な）と同じ、塊を作る運動です。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "16th Century Latin"
+        },
+        {
+                "id": "accurate",
+                "word": "Accurate",
+                "part_of_speech": "adjective",
+                "meaning": "正確な、精密な",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "ad-",
+                                        "type": "prefix",
+                                        "meaning": "to"
+                                },
+                                {
+                                        "text": "cura",
+                                        "type": "root",
+                                        "meaning": "care"
+                                }
+                        ],
+                        "original_statement": "From Latin accuratus 'done with care', from ad- 'to' + curare 'take care of', from cura 'care'."
+                },
+                "core_concept": {
+                        "en": "Done with care",
+                        "ja": "対象に対し、細心の「注意（care）」を「払い続け（to）」、誤差を極限まで削ぎ落とす"
+                },
+                "thinking_layer": "「たまたま正解だった」のではなく、意志を持って正しさに辿り着いた状態です。彫刻家がノミを振るうように、余計なものを注意深く取り除き、真実の形だけを浮かび上がらせること。そこには、誠実な「配慮」が結晶化しています。",
+                "synonyms": [
+                        "precise",
+                        "exact",
+                        "correct"
+                ],
+                "antonyms": [
+                        "inaccurate",
+                        "vague",
+                        "erroneous"
+                ],
+                "aftertaste": "一片の曇りもない鏡と、研ぎ澄まされたメスの刃先",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "cura",
+                                        "meaning": "attention / care"
+                                }
+                        ],
+                        "points": [
+                                "cure（治療）やcurious（好奇心＝注意を向ける）と同じ. 愛に近い関心が根底にあります。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "16th Century Latin"
+        },
+        {
+                "id": "accuse",
+                "word": "Accuse",
+                "part_of_speech": "verb",
+                "meaning": "告発する、非難する、責める",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "ad-",
+                                        "type": "prefix",
+                                        "meaning": "to"
+                                },
+                                {
+                                        "text": "causa",
+                                        "type": "root",
+                                        "meaning": "cause / lawsuit"
+                                }
+                        ],
+                        "original_statement": "From Latin accusare 'call to account', from ad- 'to' + causa 'reason, lawsuit'."
+                },
+                "core_concept": {
+                        "en": "To call to cause",
+                        "ja": "相手を「法廷（lawsuit/cause）」の場へ「呼び出し（to）」、事の顛末を白日の下に晒す"
+                },
+                "thinking_layer": "ただ不満を言うのではなく、公的な、あるいは論理的な「理由」を持って相手を問い詰めることです。曖昧に流さず、正義の天秤の前に引きずり出す。言葉の刃によって、相手の「責任」を鋭く抉り出す行為です。",
+                "synonyms": [
+                        "charge",
+                        "indict",
+                        "blame"
+                ],
+                "antonyms": [
+                        "defend",
+                        "exonerate",
+                        "absolve"
+                ],
+                "aftertaste": "突きつけられた人差し指と、逃げ場のない真実の法廷",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "causa",
+                                        "meaning": "reason / case"
+                                }
+                        ],
+                        "points": [
+                                "cause（原因）やexcuse（言い訳＝理由から外す）と同じ。事の「根拠」を巡る戦いです。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "13th Century Old French / Latin"
+        },
+        {
+                "id": "accustom",
+                "word": "Accustom",
+                "part_of_speech": "verb",
+                "meaning": "慣らす、習慣にする",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "ad-",
+                                        "type": "prefix",
+                                        "meaning": "to"
+                                },
+                                {
+                                        "text": "costume",
+                                        "type": "root",
+                                        "meaning": "custom / habit"
+                                }
+                        ],
+                        "original_statement": "From Old French acostumer, from a- 'to' + costume 'custom'."
+                },
+                "core_concept": {
+                        "en": "To bring into habit",
+                        "ja": "新しい環境や動作を、自分の「習慣（custom）」という肌の一部へと「馴染ませる（to）」"
+                },
+                "thinking_layer": "異物だったものを、時間をかけて自分の「日常」という織物の中に編み込んでいくプロセスです。最初は違和感があった手触りが、いつしか自分の体温と一致し、意識せずとも動ける「第二の天性」へと変わっていく。変容の受容です。",
+                "synonyms": [
+                        "habituate",
+                        "adapt",
+                        "familiarize"
+                ],
+                "antonyms": [
+                        "alienate",
+                        "unfamiliar"
+                ],
+                "aftertaste": "着古したシャツのような心地よさと、意識の深層への沈潜",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "consuetudo",
+                                        "meaning": "custom / usage"
+                                }
+                        ],
+                        "points": [
+                                "custom（習慣）やcostume（衣装＝その土地の習慣）と同じ。生きるための「形」を作ります。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "15th Century Old French"
         },
         {
                 "id": "acedia",
@@ -756,53 +1456,376 @@ const WORDS = [
                 "id": "achieve",
                 "word": "Achieve",
                 "part_of_speech": "verb",
-                "meaning": "成し遂げる、達成する",
-                "author": "etymon_official",
+                "meaning": "達成する、獲得する",
                 "etymology": {
                         "breakdown": [
                                 {
-                                        "text": "ac-",
+                                        "text": "a-",
                                         "type": "prefix",
-                                        "meaning": "...に向かって",
-                                        "lang": "Latin"
+                                        "meaning": "to"
                                 },
                                 {
-                                        "text": "-chief",
+                                        "text": "chef",
                                         "type": "root",
-                                        "meaning": "頭、先",
-                                        "lang": "Old French"
+                                        "meaning": "head"
                                 }
                         ],
-                        "original_statement": "The word 'achieve' comes from the Old French 'achever', which means 'to bring to a head' or 'to complete'. It was derived from the Vulgar Latin '*accapare', a combination of Latin 'ad-' meaning 'to' and 'caput' meaning 'head'."
+                        "original_statement": "From Old French achever 'finish', from a- 'to' + chef 'head'."
                 },
                 "core_concept": {
-                        "en": "To reach the pinnacle, where dreams meet reality.",
-                        "ja": "夢と現実が交差する頂点に達すること。"
+                        "en": "To bring to a head",
+                        "ja": "物語を、あるいは山登りを、一番の「頂点（head）」まで「導く（to）」"
                 },
-                "thinking_layer": "「成し遂げる」という行為には、人間の内なる可能性を認識し、それを現実のものとする深远なプロセスが含まれています。それは、心の中に灯る希望の炎を絶やすことなく、困難や試練を乗り越える力と意志を持つことです。この道は平坦ではないが、志を抱くことで見えない道が明らかになることもあります。人はしばしば、何かを成し遂げるためには他者との協力や社会の存在が不可欠であることを悟ります。互いに影響を与え合い、支え合うことにより、本物の成功が実現されるのです。成し遂げるためには、単なる肉体の労働を超えて、精神的な鍛錬と継続的な努力が求められます。そしてその過程は、人生という長い旅の一部であり、成長と発展の証となります。達成の瞬間には、全ての努力が報われると同時に、新たな挑戦への扉が開かれます。こうした無限のサイクルの中で、人々は自己を研鑽し、真の幸福を見出すのです。",
+                "thinking_layer": "中途半端で終わらせず、物事を「頭（ヘッド）」の部分まで持っていくこと、つまり完結させることです。それは、散らばっていた要素が最後に一つにまとまり、全体像が完成する劇的な瞬間を指します。終止符を打つ勇気と誇りです。",
                 "synonyms": [
-                        "Accomplish",
-                        "Succeed"
+                        "attain",
+                        "accomplish",
+                        "reach"
                 ],
                 "antonyms": [
-                        "Fail",
-                        "Abandon"
+                        "fail",
+                        "miss",
+                        "lose"
                 ],
-                "aftertaste": "The summit of achievement is not the end, but a new beginning.",
+                "aftertaste": "頂上に立った瞬間に吹く、冷たくて清々しい風",
                 "deep_dive": {
                         "roots": [
                                 {
-                                        "term": "chief",
+                                        "term": "caput",
                                         "meaning": "head"
                                 }
                         ],
                         "points": [
-                                "言葉の根源的な意味を辿ると、人間の行動が如何にして理念と共鳴し、歴史を通じて変化してきたかを理解できる。成し遂げることは、もともと「頭に達する」という意味を持ち、その語源は、意志の力が形を成すことを象徴しています。"
+                                "chef（料理長）やcapital（首都）と同じ。物事の「最重要部」を掌握することです。"
                         ]
                 },
-                "source": "Online Etymology Dictionary",
-                "date": "2026-02-28",
-                "era": "14th Century"
+                "source": "etymon Philologist Mode",
+                "era": "14th Century Old French"
+        },
+        {
+                "id": "acid",
+                "word": "Acid",
+                "part_of_speech": "adjective/noun",
+                "meaning": "酸性の、酸っぱい、刺すような",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "acidus",
+                                        "type": "root",
+                                        "meaning": "sour / sharp"
+                                }
+                        ],
+                        "original_statement": "From Latin acidus, related to acer 'sour, sharp'."
+                },
+                "core_concept": {
+                        "en": "Sharp / sour",
+                        "ja": "舌や神経を「針（sharp）」のように突き刺し、覚醒させるような鋭さ"
+                },
+                "thinking_layer": "単なる味覚ではありません。「鋭利さ」の本質です。金属を溶かす液体、あるいは人の心を抉る辛辣な言葉。それは、境界線を曖昧にせず、触れたものに変容を強いる、攻撃的で純粋なエネルギーの現れです。",
+                "synonyms": [
+                        "sour",
+                        "sharp",
+                        "acerbic"
+                ],
+                "antonyms": [
+                        "alkaline",
+                        "sweet",
+                        "bland"
+                ],
+                "aftertaste": "喉の奥に残る痺れと、すべてを剥き出しにする透徹した視線",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "ak-",
+                                        "meaning": "sharp"
+                                }
+                        ],
+                        "points": [
+                                "acute（鋭い）やacupuncture（鍼灸）と同じ. 先端の鋭さが共通のテーマです。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "17th Century Latin"
+        },
+        {
+                "id": "acknowledge",
+                "word": "Acknowledge",
+                "part_of_speech": "verb",
+                "meaning": "認める、承認する、礼を言う",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "on-",
+                                        "type": "prefix",
+                                        "meaning": "on"
+                                },
+                                {
+                                        "text": "cnawan",
+                                        "type": "root",
+                                        "meaning": "to know"
+                                }
+                        ],
+                        "original_statement": "From Middle English aknowlechen, from a- 'on' + knowlechen 'confess', from knowen 'know'."
+                },
+                "core_concept": {
+                        "en": "To know on",
+                        "ja": "目の前の事実を、自分の「知識（know）」の土台の「上に（on）」正しく置き、存在を肯定する"
+                },
+                "thinking_layer": "単に「知っている」だけでなく、「それがそこにあることを、私は私の世界の一部として受け入れる」という能動的な宣言です。無視せず、目を逸らさず、存在の証明を与える。それは対話における最初の一歩であり、最大の敬意です。",
+                "synonyms": [
+                        "admit",
+                        "recognize",
+                        "accept"
+                ],
+                "antonyms": [
+                        "deny",
+                        "ignore",
+                        "reject"
+                ],
+                "aftertaste": "差し出された手を受け取った瞬間の、確かな重みの感触",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "gno-",
+                                        "meaning": "to know"
+                                }
+                        ],
+                        "points": [
+                                "knowやgnosis（霊知）と同じ. 光を当てて「明らかにする」動作です。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "15th Century Middle English"
+        },
+        {
+                "id": "acquire",
+                "word": "Acquire",
+                "part_of_speech": "verb",
+                "meaning": "習得する、手に入れる、獲得する",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "ad-",
+                                        "type": "prefix",
+                                        "meaning": "to"
+                                },
+                                {
+                                        "text": "quaerere",
+                                        "type": "root",
+                                        "meaning": "to seek"
+                                }
+                        ],
+                        "original_statement": "From Latin acquirere 'get in addition to', from ad- 'to' + quaerere 'seek'."
+                },
+                "core_concept": {
+                        "en": "To seek and add to",
+                        "ja": "答えや富を執拗に「探し（seek）」求め、ついに自分の手元へと「引き寄せる（to）」"
+                },
+                "thinking_layer": "たまたま手に入るのではなく、探求の果ての「戦利品」としての獲得です。言語の習得も、企業の買収も。そこには、自分の境界線を拡張し、外側にあった価値を内側へと取り込む、静かな知的（あるいは物理的）な侵略が潜んでいます。",
+                "synonyms": [
+                        "obtain",
+                        "gain",
+                        "attain"
+                ],
+                "antonyms": [
+                        "lose",
+                        "forfeit",
+                        "relinquish"
+                ],
+                "aftertaste": "掌の中に収まった、新しい世界の鍵の確かな冷たさ",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "quaerere",
+                                        "meaning": "ask / seek"
+                                }
+                        ],
+                        "points": [
+                                "question（質問）やquest（探求）と同じ. 渇望から始まる運動です。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "15th Century Latin"
+        },
+        {
+                "id": "acrid",
+                "word": "Acrid",
+                "part_of_speech": "adjective",
+                "meaning": "（味や匂いが）鼻をつく、つんとくる、辛辣な",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "acer",
+                                        "type": "root",
+                                        "meaning": "sharp / sour"
+                                }
+                        ],
+                        "original_statement": "From Latin acer 'sharp', with -id suffix modeled on acid."
+                },
+                "core_concept": {
+                        "en": "Sharp and stinging",
+                        "ja": "喉や鼻を「刺す（sharp）」ような、不快で強烈な刺激"
+                },
+                "thinking_layer": "煙の匂いや化学薬品のように、粘膜を物理的に攻撃してくる感覚です。転じて、言葉の「辛辣さ」も指します。相手の心を優しく包むのではなく、鋭利な刃で切り裂き、ヒリヒリとした後味を残す。拒絶と覚醒の入り混じった鋭さです。",
+                "synonyms": [
+                        "pungent",
+                        "bitter",
+                        "caustic"
+                ],
+                "antonyms": [
+                        "sweet",
+                        "savory",
+                        "mild"
+                ],
+                "aftertaste": "煙に巻かれた後の、喉の奥に残る不快な熱さ",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "ak-",
+                                        "meaning": "sharp"
+                                }
+                        ],
+                        "points": [
+                                "acid（酸）やacute（鋭い）と同じ. 先端が尖っていることの感覚的表現です。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "18th Century Latin origin"
+        },
+        {
+                "id": "acrimonious",
+                "word": "Acrimonious",
+                "part_of_speech": "adjective",
+                "meaning": "（言葉や態度が）刺々しい、険悪な",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "acrimonia",
+                                        "type": "root",
+                                        "meaning": "sharpness"
+                                }
+                        ],
+                        "original_statement": "From Latin acrimonia 'sharpness', from acer 'sharp'."
+                },
+                "core_concept": {
+                        "en": "Full of sharpness",
+                        "ja": "議論や関係性が、互いを「刺し合う（sharpness）」ような毒気に満ちている"
+                },
+                "thinking_layer": "単なる怒りを超えて、憎しみが「尖った言葉」となって飛び交う様子です。そこには相手を尊重する余裕はなく、言葉の一つ一つが武器として選ばれています。空気が凍りつき、摩擦から火花が散るような、痛々しい対立の極致です。",
+                "synonyms": [
+                        "bitter",
+                        "rancorous",
+                        "hostile"
+                ],
+                "antonyms": [
+                        "harmonious",
+                        "amicable",
+                        "peaceable"
+                ],
+                "aftertaste": "投げつけられた言葉の礫（つぶて）による、心の擦り傷",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "acer",
+                                        "meaning": "sharp"
+                                }
+                        ],
+                        "points": [
+                                "acridよりも「関係性の毒」を強調します。心の「刺（とげ）」の集合体です。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "17th Century Latin"
+        },
+        {
+                "id": "act",
+                "word": "Act",
+                "part_of_speech": "verb/noun",
+                "meaning": "行動する、演じる、法令、行為",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "agere",
+                                        "type": "root",
+                                        "meaning": "to set in motion / to drive"
+                                }
+                        ],
+                        "original_statement": "From Latin actus 'a doing', from agere 'to do, set in motion, drive'."
+                },
+                "core_concept": {
+                        "en": "To set in motion",
+                        "ja": "静止していたものを、意志の力で「動かし（drive）」、世界に変化を引き起こす"
+                },
+                "thinking_layer": "思考という静止状態から、肉体や社会を動かす「駆動」への転換です。舞台で「演じる」のも、役柄を自分の中で動かすこと。法令（Act）は、国を動かすための決定。すべては「静」から「動」への爆発的な移行を意味します。",
+                "synonyms": [
+                        "perform",
+                        "operate",
+                        "deed"
+                ],
+                "antonyms": [
+                        "refrain",
+                        "idle",
+                        "stagnate"
+                ],
+                "aftertaste": "静寂を破る最初の一歩と、動き出した歯車の重なり",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "ag-",
+                                        "meaning": "to drive"
+                                }
+                        ],
+                        "points": [
+                                "agent（代理人＝動かす人）やagitate（扇動する＝激しく動かす）の親玉です。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "14th Century Latin"
+        },
+        {
+                "id": "active",
+                "word": "Active",
+                "part_of_speech": "adjective",
+                "meaning": "活動的な、積極的な、有効な",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "agere",
+                                        "type": "root",
+                                        "meaning": "to do"
+                                }
+                        ],
+                        "original_statement": "From Latin activus, from actus 'a doing'."
+                },
+                "core_concept": {
+                        "en": "Doing / moving",
+                        "ja": "常に「動き（moving）」の中にあり、エネルギーを外へと放出し続けている状態"
+                },
+                "thinking_layer": "潜在的な力ではなく、いま現在、目に見える形で作用している力です。火山が噴火するように、あるいは薬が体に効くように。それは停滞を拒絶し、世界を自分の色に染め替えようとする、生命そのものの躍動です。",
+                "synonyms": [
+                        "energetic",
+                        "dynamic",
+                        "operational"
+                ],
+                "antonyms": [
+                        "passive",
+                        "dormant",
+                        "inactive"
+                ],
+                "aftertaste": "熱を帯びた筋肉と、止まることを知らない鼓動",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "agere",
+                                        "meaning": "to drive"
+                                }
+                        ],
+                        "points": [
+                                "passive（受動的＝苦しみを受け入れる）の対極. 自分が「駆り立てる側」に回ることです。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "14th Century Latin"
         },
         {
                 "id": "activity",
@@ -857,62 +1880,297 @@ const WORDS = [
                 "era": "15th Century"
         },
         {
-                "id": "adept",
-                "word": "Adept",
+                "id": "acute",
+                "word": "Acute",
                 "part_of_speech": "adjective",
-                "meaning": "熟練した、巧みな",
-                "author": "etymon_official",
+                "meaning": "鋭い、深刻な、急性の",
                 "etymology": {
                         "breakdown": [
                                 {
-                                        "text": "adeptus",
+                                        "text": "acus",
                                         "type": "root",
-                                        "meaning": "獲得した",
-                                        "lang": "ラテン語"
-                                },
+                                        "meaning": "needle"
+                                }
+                        ],
+                        "original_statement": "From Latin acutus 'sharp', from acuere 'to sharpen', from acus 'needle'."
+                },
+                "core_concept": {
+                        "en": "Needle-sharp",
+                        "ja": "「針（needle）」のように研ぎ澄まされ、本質を一点で突き抜ける"
+                },
+                "thinking_layer": "面積を持たず、ただ鋭い「点」としての強さ。感覚が鋭い（acute senses）のも、痛みが激しい（acute pain）のも、すべては神経の先端を針で突くような鮮烈さを指します。短期間で爆発的に現れる「急性」の病も、その鋭さの現れです。",
+                "synonyms": [
+                        "sharp",
+                        "keen",
+                        "severe"
+                ],
+                "antonyms": [
+                        "dull",
+                        "obtuse",
+                        "chronic"
+                ],
+                "aftertaste": "迷いのない一突きと、網膜に焼き付く閃光",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "ak-",
+                                        "meaning": "sharp"
+                                }
+                        ],
+                        "points": [
+                                "acupuncture（鍼灸）のacu-と同じ. 一点に力を集中させる知恵です。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "16th Century Latin"
+        },
+        {
+                "id": "adage",
+                "word": "Adage",
+                "part_of_speech": "noun",
+                "meaning": "格言、諺",
+                "etymology": {
+                        "breakdown": [
                                 {
                                         "text": "ad-",
                                         "type": "prefix",
-                                        "meaning": "へ",
-                                        "lang": "ラテン語"
+                                        "meaning": "to"
+                                },
+                                {
+                                        "text": "aio",
+                                        "type": "root",
+                                        "meaning": "I say"
+                                }
+                        ],
+                        "original_statement": "From Latin adagium, from ad- 'to' + aio 'I say'."
+                },
+                "core_concept": {
+                        "en": "A saying towards",
+                        "ja": "人々の耳へと「語り（say）」継がれ、真理に向かって「向けられた（to）」言葉"
+                },
+                "thinking_layer": "何千年も使い古され、角が取れて丸くなった石のような言葉。それは個人の意見ではなく、人類の共通財産としての「知恵」です。短いフレーズの中に、生きるための教訓を凝縮し、後世へと手渡していく。時間の試練に耐えた真理の響きです。",
+                "synonyms": [
+                        "proverb",
+                        "maxim",
+                        "motto"
+                ],
+                "antonyms": [
+                        "nonsense",
+                        "frivolity"
+                ],
+                "aftertaste": "遠い祖先の囁きが、現代の悩みにぴたりと重なる重み",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "agium",
+                                        "meaning": "saying"
+                                }
+                        ],
+                        "points": [
+                                "ラテン語の「I say」が根源. 語りかけることで世界を秩序立てる試みです。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "16th Century Latin"
+        },
+        {
+                "id": "adapt",
+                "word": "Adapt",
+                "part_of_speech": "verb",
+                "meaning": "適応させる、順応する、改作する",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "ad-",
+                                        "type": "prefix",
+                                        "meaning": "to"
+                                },
+                                {
+                                        "text": "aptus",
+                                        "type": "root",
+                                        "meaning": "fitted / suitable"
+                                }
+                        ],
+                        "original_statement": "From Latin adaptare, from ad- 'to' + aptare 'join', from aptus 'fitted'."
+                },
+                "core_concept": {
+                        "en": "To make fitted to",
+                        "ja": "自分というピースの形を削り、新しい環境の凹凸に「ぴったり（fitted）」と「合わせる（to）」"
+                },
+                "thinking_layer": "生存のための変化です。自分が変わることで、世界との摩擦をなくし、一体化すること。それは弱さではなく、剛柔あわせ持つしなやかな強さ。本を映画にする「脚色」も、新しいメディアという器に合わせて形を整える行為です。",
+                "synonyms": [
+                        "adjust",
+                        "accommodate",
+                        "modify"
+                ],
+                "antonyms": [
+                        "resist",
+                        "stiffen",
+                        "clash"
+                ],
+                "aftertaste": "不自然な緊張が解け、環境と呼吸が同期する瞬間の安堵",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "ap-",
+                                        "meaning": "to fasten / reach"
+                                }
+                        ],
+                        "points": [
+                                "apt（適切な）やaptitude（適性）の仲間. 結びつきを最適化する知恵です。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "17th Century Latin"
+        },
+        {
+                "id": "addict",
+                "word": "Addict",
+                "part_of_speech": "noun/verb",
+                "meaning": "中毒者、熱狂的なファン、耽溺させる",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "ad-",
+                                        "type": "prefix",
+                                        "meaning": "to"
+                                },
+                                {
+                                        "text": "dicere",
+                                        "type": "root",
+                                        "meaning": "to say / to pronounce"
+                                }
+                        ],
+                        "original_statement": "From Latin addictus 'assigned', from addicere 'deliver, devote', from ad- 'to' + dicere 'say'."
+                },
+                "core_concept": {
+                        "en": "Assigned to by decree",
+                        "ja": "「これがあなたの主人だ」と言い（say）渡され、逆らえない「奴隷」として「引き渡される（to）」"
+                },
+                "thinking_layer": "もとは、借金を返せない者が「法的に債権者の奴隷として引き渡される」ことを指しました。現代の中毒も同じ。物質や行動に「支配権」を宣言され、自分の意志がその宣言の下に屈服してしまった状態です。自由を言葉で奪われた囚人。 ",
+                "synonyms": [
+                        "devotee",
+                        "fanatic",
+                        "slave (metaphorically)"
+                ],
+                "antonyms": [
+                        "ascetic",
+                        "teetotaler"
+                ],
+                "aftertaste": "見えない鎖と、自分の声が自分に届かなくなるもどかしさ",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "deik-",
+                                        "meaning": "to show / pronounce"
+                                }
+                        ],
+                        "points": [
+                                "diction（言葉遣い）やpredict（予言する）と同じ. 言葉によって運命が確定される怖さです。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "16th Century Latin"
+        },
+        {
+                "id": "address",
+                "word": "Address",
+                "part_of_speech": "noun/verb",
+                "meaning": "住所、演説、話しかける、取り組む",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "ad-",
+                                        "type": "prefix",
+                                        "meaning": "to"
+                                },
+                                {
+                                        "text": "directus",
+                                        "type": "root",
+                                        "meaning": "straight / direct"
+                                }
+                        ],
+                        "original_statement": "From Old French adresser, from a- 'to' + dresser 'straighten, direct'."
+                },
+                "core_concept": {
+                        "en": "To make straight towards",
+                        "ja": "曲がりくねった道を正し、対象に向かって「まっすぐ（straight）」に「向かう（to）」"
+                },
+                "thinking_layer": "目的地まで最短距離で光を当てるイメージ。住所は「手紙をまっすぐ届けるための場所」。演説は「聴衆の心にまっすぐ届ける言葉」。問題に取り組むのも、逃げずに「正面から向き合う」こと。すべては「方向性の純化」です。",
+                "synonyms": [
+                        "location",
+                        "speech",
+                        "tackle"
+                ],
+                "antonyms": [
+                        "ignore",
+                        "avoid",
+                        "deviate"
+                ],
+                "aftertaste": "逸れていた視線が標的にぴたりと定まる、研ぎ澄まされた直線性",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "regere",
+                                        "meaning": "to guide / rule"
+                                }
+                        ],
+                        "points": [
+                                "direct（直接の）やregent（摂政）と同じ. 導き、整える力が根底にあります。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "14th Century Old French / Latin"
+        },
+        {
+                "id": "adept",
+                "word": "Adept",
+                "part_of_speech": "adjective/noun",
+                "meaning": "熟達した、名人、達人",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "ad-",
+                                        "type": "prefix",
+                                        "meaning": "to"
                                 },
                                 {
                                         "text": "apisci",
                                         "type": "root",
-                                        "meaning": "到達、獲得",
-                                        "lang": "ラテン語"
+                                        "meaning": "to attain / reach"
                                 }
                         ],
-                        "original_statement": "The word 'adept' derives from the Latin 'adeptus', the past participle of 'adipisci', an amalgamation of 'ad-' meaning 'to' and 'apisci' meaning 'acquire or reach'."
+                        "original_statement": "From Latin adeptus 'attained', from adipiscere 'reach, overtake', from ad- 'to' + apisci 'reach'."
                 },
                 "core_concept": {
-                        "en": "A profound mastery graced with the simplicity of elegance.",
-                        "ja": "優美さを兼ね備えた深遠なる熟練"
+                        "en": "Having attained",
+                        "ja": "長い旅の果てに、真理や技術の「核心」にまで「辿り着いた（reach）」者"
                 },
-                "thinking_layer": "「熟練」とは、単に技術や知識を持つことを超えた境地である。それは、職人や芸術家、哲学者が時間と魂をかけて磨き上げたひたむきな努力の結晶であり、その中には彼らの人生そのものが刻まれている。すべての小さな動作や思考さえも計り知れぬほど習熟したものであり、自然のめぐりや因果を意のままに操るかのような不思議な力を持つ。その究極の到達は、自己の内面的な成長とも影響し合いながら、物事の本質を透徹した眼で見極める洞察力をもたらす。『熟練』という言葉は、技術的な完成のみならず、それを超越した境地の先に見出される奥深さや優雅さを内包している。それは、日々の努力と不屈の精神が導く、ある種の美しさでもある。無数の挑戦と試練を経て、成熟した心は孤高の強さを獲得し、時に穏やかに、時に激しく世界を変えていく。まさに、真の熟練は、心と技の絶妙なハーモニーで奏でられる至高の芸術である。",
+                "thinking_layer": "もとは錬金術で「賢者の石の秘密に辿り着いた人」を指しました。表面的な理解ではなく、対象を追い越し（overtake）、その裏側まで知り尽くした境地。もはや努力は不要で、呼吸するように技術を操る「到達者」の風格です。",
                 "synonyms": [
-                        "Expert",
-                        "Skilled"
+                        "expert",
+                        "proficient",
+                        "master"
                 ],
                 "antonyms": [
-                        "Incompetent",
-                        "Unskilled"
+                        "amateur",
+                        "novice",
+                        "inept"
                 ],
-                "aftertaste": "True mastery is an art that transcends knowledge.",
+                "aftertaste": "無駄のない所作と、すべてを見通しているような穏やかな微笑",
                 "deep_dive": {
                         "roots": [
                                 {
-                                        "term": "adeptus",
-                                        "meaning": "acquired, achieved"
+                                        "term": "ap-",
+                                        "meaning": "to grasp / fit"
                                 }
                         ],
                         "points": [
-                                "ラテン語の「adeptus」は、意識的な到達と獲得の過程を表し、心身の修養を示唆する。"
+                                "apt（適切な）やattitude（態度＝あるべき場所への到達）と同じ. 目標を掴む力です。"
                         ]
                 },
-                "source": "Etymology Online, Oxford English Dictionary",
-                "date": "2026-03-01",
-                "era": "Late Middle English"
+                "source": "etymon Philologist Mode",
+                "era": "17th Century Latin"
         },
         {
                 "id": "adjacent",
