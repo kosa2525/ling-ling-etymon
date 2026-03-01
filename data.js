@@ -49785,5 +49785,278 @@ const WORDS = [
                 "part_of_speech": "adjective",
                 "meaning": "生命の",
                 "era": "19th Century"
+        },
+        {
+                "id": "identify",
+                "word": "Identify",
+                "part_of_speech": "verb",
+                "meaning": "識別する、特定する",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "ident",
+                                        "type": "root",
+                                        "meaning": "同一",
+                                        "lang": "ラテン語"
+                                },
+                                {
+                                        "text": "ify",
+                                        "type": "suffix",
+                                        "meaning": "〜にする",
+                                        "lang": "ラテン語"
+                                }
+                        ],
+                        "original_statement": "The word 'identify' comes from the late 17th century, from medieval Latin identificare, from late Latin identitas (see identity) + Latin -ificare (see -fy)."
+                },
+                "core_concept": {
+                        "en": "To recognize or establish the identity of something.",
+                        "ja": "何かの同一性を認識または確立すること。"
+                },
+                "thinking_layer": "この『識別』という行為には、者が他者や物事と自らの間に存在する境界を越えて深く浸透する動的なプロセスが込められている。私たちが何かを識別する時、その行為は単なる外観を超越し、深層に隠された真実を見出す試みである。何が唯一無二であるか、何が他とは異なるのかを理解することによって、私たちは事物の複雑な網の目を解きほぐす。この行為は、変化する世界の中で私たち自身を確認しようとする人間の永遠の願望の表れであり、断片的な存在のピースを一つに繋ぎ合わせて、綿密な叙事詩を編み上げる試みである。『識別』という概念の中には、個と個、そして宇宙との調和があり、時を越えた哲学的探求の根底がある。そしてその過程で、私たちは自己をより深く見つめ、他者と共鳴することができるのだ。そうして成功裏に識別された時、我々は物質の限界を超えた本質的な理解を得るのだ。実に、この行為は一種のスピリチュアルな旅であり、内なる真実への探究なのだ。人類の歴史において、いつどこで意識の扉が開かれ、自らの存在を明確に知ることができるか、それは識別の旅に他ならない。そもそも『識別する』こととは、すなわち見ることであり、見抜くことであり、知識の光を通して物事を啓示することなのである。",
+                "synonyms": [
+                        "recognize",
+                        "discern"
+                ],
+                "antonyms": [
+                        "confuse",
+                        "obscure"
+                ],
+                "aftertaste": "To identify is to illuminate the shadows of obscurity with the light of understanding.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "ident",
+                                        "meaning": "same"
+                                },
+                                {
+                                        "term": "ify",
+                                        "meaning": "make"
+                                }
+                        ],
+                        "points": [
+                                "語源的には、ラテン語の 'identitas'（同一性）と '-ificare'（作る）から派生している。言語を通じて、私たちは世界を秩序立て、識別する。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Late 17th Century"
+        },
+        {
+                "id": "trendy",
+                "word": "Trendy",
+                "part_of_speech": "adjective",
+                "meaning": "流行を追うさま",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "trend",
+                                        "type": "root",
+                                        "meaning": "流行",
+                                        "lang": "English"
+                                },
+                                {
+                                        "text": "-y",
+                                        "type": "suffix",
+                                        "meaning": "〜的な",
+                                        "lang": "English"
+                                }
+                        ],
+                        "original_statement": "The adjective 'trendy' emerged in the late 20th century, derived from the noun 'trend', which has roots in the Middle English 'trenden'."
+                },
+                "core_concept": {
+                        "en": "Ephemeral pursuit of collective desire.",
+                        "ja": "共同欲望のつかの間の追求"
+                },
+                "thinking_layer": "トレンディとは、私たちの時代精神を反映する、一瞬の煌めきのような概念である。現代社会において、人々は時として流行に身を寄せる。それは、一つの美しくも儚い幻想の中で、個々の存在が一体化する瞬間をもたらす。トレンディという言葉は、時代の風を読み、常に変化し続ける文化の流れの中で、目に見えない絆を形成する。我々がトレンディさに惹かれる理由は、そこにある一時的な歓喜が、我々の孤独を埋めるからである。流行を追うことは、自らの存在を一瞬でも輝かせ、共有する瞬間を創り出す術なのだ。そして、その刹那の経験は、生きることの美しさと儚さを我々に改めて気づかせるのだ。",
+                "synonyms": [
+                        "Stylish",
+                        "Fashionable"
+                ],
+                "antonyms": [
+                        "Outdated",
+                        "Unfashionable"
+                ],
+                "aftertaste": "Trendy captures the fleeting moment of cultural alignment.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "trend",
+                                        "meaning": "current style or preference"
+                                }
+                        ],
+                        "points": [
+                                "トレンディの語源には、流行が絶え間なく進化し、人々の嗜好の波に乗る様子が描かれている。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Late 20th Century"
+        },
+        {
+                "id": "agency",
+                "word": "Agency",
+                "part_of_speech": "noun",
+                "meaning": "代理または作用する力",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "agere-",
+                                        "type": "root",
+                                        "meaning": "動く",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "-cy",
+                                        "type": "suffix",
+                                        "meaning": "状態または行動",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "Derived from Latin 'agentia' meaning action or operation, ultimately from 'agere' meaning to act or to move."
+                },
+                "core_concept": {
+                        "en": "The dance between will and action, a symphony of purpose.",
+                        "ja": "意思と行動が響き合う、目的の交響詩"
+                },
+                "thinking_layer": "「エージェンシー」という言葉は、人間の意思と力が世界にどのように影響を及ぼすかを探る、哲学的な概念である。例えば、一個人がどのようにして自己を定義し、環境に働きかけるかという命題に関連する。エージェンシーは、内的なモティベーションと外的な状況が絡み合う複雑なダイナミクスを表している。それは、多様な可能性が輻輳する中で、意志がどのようにして具体的な行動となり、結果を生むのかを考究する糸口である。また、エージェンシーは、主体性を持った個が自己実現を遂げる道筋を示す光ともいえる。人間が自らの選択を通じてどのように世界に介入し、変化を促すか。そのプロセスの中で、エージェンシーはただの行動力を超え、生存という舞台における主役たり得るだろう。したがって、エージェンシーを考えることは、存在そのものと可能性、それに関わる責 任と思考の自由についての探求である。",
+                "synonyms": [
+                        "Power",
+                        "Influence"
+                ],
+                "antonyms": [
+                        "Inactivity",
+                        "Passivity"
+                ],
+                "aftertaste": "Agency is the silent force that whispers potential into the ears of existence.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "agere",
+                                        "meaning": "to act, to move"
+                                }
+                        ],
+                        "points": [
+                                "エージェンシーは『agere』から派生しており、これは移動や行動の概念と深く結びついている。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Late Middle English (from Latin)"
+        },
+        {
+                "id": "creative",
+                "word": "Creative",
+                "part_of_speech": "adjective",
+                "meaning": "創造的な",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "creare",
+                                        "type": "root",
+                                        "meaning": "創ること",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "-tive",
+                                        "type": "suffix",
+                                        "meaning": "状態や性質を示す",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'creative' originates from the Latin 'creat-' meaning 'produced' or 'created', and the suffix '-ive'."
+                },
+                "core_concept": {
+                        "en": "The spark of existence, flourishing in the realm of imagination.",
+                        "ja": "想像の領域で開花する存在の火花"
+                },
+                "thinking_layer": "［創造性］という概念は、物質的なものを超えて、心の奥深くに眠る無限の可能性を探求することであり、生命の真髄を具現化する行為です。創造的であることは単なる物を造り出すことに留まらず、時空を超えて、過去と未来を結ぶ架け橋であり、現実と理想の狭間を埋める途方もない力です。日本の伝統文化における茶道や華道のように、創造は形式の中に込められた自由を見出すことであり、その自由とは己を知り、他者を理解するための道標です。創造性はまた、自然と共鳴することで得られる歓びと静寂の調和の産物であり、そこには限りない想像力の翼が広がっています。それは全てを包み込み、全てを一新する、宇宙そのものの鼓動でもあるのです。創造に携わることで、私たちは自身の存在理由を問い、その答えを探し続けることができるのです。無から有を生み出す奇跡、それが創造に他なりません。",
+                "synonyms": [
+                        "Innovative",
+                        "Inventive"
+                ],
+                "antonyms": [
+                        "Unimaginative",
+                        "Conventional"
+                ],
+                "aftertaste": "Creativity is the profound dance between freedom and form.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "creare",
+                                        "meaning": "to create, make, produce"
+                                },
+                                {
+                                        "term": "-tive",
+                                        "meaning": "indicating an adjective of condition"
+                                }
+                        ],
+                        "points": [
+                                "中世ラテン語の『creativus』は、特に芸術や科学の革新において用いられ、想像力と実行力を結びつける概念としての基礎を築いた。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "Late Middle English"
+        },
+        {
+                "id": "worldly",
+                "word": "Worldly",
+                "part_of_speech": "adjective",
+                "meaning": "世俗的な、世間的な",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "world",
+                                        "type": "root",
+                                        "meaning": "世",
+                                        "lang": "Old English"
+                                },
+                                {
+                                        "text": "-ly",
+                                        "type": "suffix",
+                                        "meaning": "のような",
+                                        "lang": "Old English"
+                                }
+                        ],
+                        "original_statement": "The word 'worldly' originates from the Middle English term 'worldli', which is derived from the Old English 'woruldlic'. It combines 'world', referring to the state of human affairs, with the suffix '-ly', denoting characteristic or resemblance."
+                },
+                "core_concept": {
+                        "en": "The essence of life encased in the tapestry of earthly existence.",
+                        "ja": "地上の存在の織物に包まれた人生の本質"
+                },
+                "thinking_layer": "世俗的とは、時間と空間の制約に縛られた人間の経験を探求する。その感覚は、永遠の目に見えない現実に対立するものであり、地球の土壌に結びつけられている。私たちの選択と思索は、ここに存在する限り、物質の境界から逃れることはできない。世の中に深く根ざした考えや行為は、一見無限の意味を持たないかのように見えるが、それでも際限なく深いのは、その虚無の均衡に宿る可能性そのものに他ならない。究極にはこの世の経験と結びついたものであるが、我々はその中の永遠の一部であり、有限の中で無限を理解しようとする私たちの試みに、その意味があるのかもしれない。",
+                "synonyms": [
+                        "earthly",
+                        "mundane"
+                ],
+                "antonyms": [
+                        "spiritual",
+                        "transcendental"
+                ],
+                "aftertaste": "Grasp the tangible; the spirit exists within the soil's grasp.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "world",
+                                        "meaning": "The human lifetime or age; worldly affairs."
+                                },
+                                {
+                                        "term": "-ly",
+                                        "meaning": "Characteristic of"
+                                }
+                        ],
+                        "points": [
+                                "この語の源は、世界という概念に対する物質的、日常的な側面を強調する。",
+                                "それは、物質界の一部でありながら、見えない精神の領域に対する対比として存在する。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Middle English (12th Century)"
         }
 ];
