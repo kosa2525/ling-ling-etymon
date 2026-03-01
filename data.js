@@ -28160,5 +28160,51 @@ const WORDS = [
                 "source": "Oxford English Dictionary, etymonline.com",
                 "date": "2026-03-01",
                 "era": "Middle English"
+        },
+        {
+                "id": "nickname",
+                "word": "Nickname",
+                "part_of_speech": "noun",
+                "meaning": "人に与えられる通称やあだ名",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "ekename",
+                                        "type": "root",
+                                        "meaning": "追加の名前",
+                                        "lang": "Middle English"
+                                }
+                        ],
+                        "original_statement": "The word 'nickname' originates from the Middle English phrase 'an ekename', where 'eke' means 'also' or 'in addition'. The initial 'n' in 'an' was absorbed into the noun by rebracketing, becoming 'a nekename'."
+                },
+                "core_concept": {
+                        "en": "A shadow that follows the soul of identity, shaping familiarity.",
+                        "ja": "アイデンティティの影のように、親しみを形作るもの。"
+                },
+                "thinking_layer": "ニックネームという言葉の起源は、アイデンティティと親密さの複雑な絡み合いを示唆している。誰かにニックネームを付ける行為は、その人との特別な関係を築くための親密でまた個人的な行為である。この名は、正式な名前が持たない、あるいは表現しきれない側面を引き出し、その人に対する独特な理解や親愛を示す。ニックネームは時にその人物の本質を捉え、それが持つ柔らかさや遊び心を通じて互いの絆を深める。言葉という存在は、その起源に戻ることで、より豊かで奥深いコミュニケーションを形成する手段となり、私たちの心に根付く。ニックネームが持つ力は、私たちが常に他者との繋がりを求め、彼らを理解し、交流しようとする人間の根本的な願望を反映している。時が経つとともに、ニックネームは私たちに語りかけ、時代を越えて変わらぬ友情の証としての役割を果たす。すなわち、言葉の束縛を超えて響く、愛情の象徴なのである。",
+                "synonyms": [
+                        "Sobriquet",
+                        "Alias"
+                ],
+                "antonyms": [
+                        "Real name",
+                        "Formal name"
+                ],
+                "aftertaste": "A nickname whispers the true colors of one’s persona.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "eke",
+                                        "meaning": "also, in addition"
+                                }
+                        ],
+                        "points": [
+                                "ニックネームは、正式な名前に対する親密さや個人的なつながりを示すものであり、その起源は言語の変遷過程を表している。"
+                        ]
+                },
+                "source": "The Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Middle English (14th Century)"
         }
 ];
