@@ -29216,5 +29216,350 @@ const WORDS = [
                 "source": "Online Etymology Dictionary",
                 "date": "2026-03-01",
                 "era": "Middle English Era (14th Century)"
+        },
+        {
+                "id": "curate",
+                "word": "Curate",
+                "part_of_speech": [
+                        "noun",
+                        "verb"
+                ],
+                "meaning": "管理する、世話をする",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "curare",
+                                        "type": "root",
+                                        "meaning": "世話をする、管理する",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'curate' originates from the Latin 'curare', meaning 'to care for' or 'to manage', reflecting its evolution into the custodianship sense in English."
+                },
+                "core_concept": {
+                        "en": "A tender steward of care and preservation.",
+                        "ja": "世話と保存の優しい管理者"
+                },
+                "thinking_layer": "『キュレート』という言葉は、ただ物事を集める行為にとどまらず、深い敬意と洞察をもって何かを保護し育む行為を指します。それは単なる物理的な管理を超えた、精神や情熱をもって対象に寄り添うことであり、そこで関わるすべての要素に対する愛情表現の一つといえます。そして、それは生命の儚さや物事の一時性に対する応答ともなります。私たち人間は、時の流れの中で失われていくものに対する切ない思いを抱きながら、同時にそれを守り続けることへの使命感を胸に歩んでいます。キュレーションの行為は、ただ物質的な保存に留まらず、それぞれの記憶や物語を未来につなぐ架け橋となります。それはまるで、文化や知識を次代に引き継ぐための静かでありながら確固たる決意を象徴しているのです。この行為を通じて、人々は自分を超えた広がりの中で存在し、歴史と未来を結ぶ意識を持つことができるのです。",
+                "synonyms": [
+                        "Manage",
+                        "Supervise"
+                ],
+                "antonyms": [
+                        "Neglect",
+                        "Abandon"
+                ],
+                "aftertaste": "Curating is the soulful dance of care and keeping through time.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "curare",
+                                        "meaning": "to take care of"
+                                }
+                        ],
+                        "points": [
+                                "ラテン語の『curare』は、世話をするという基本的な人間の行動を表しますが、それは単なる行動を超えた内的な使命感を含んでいます。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "14th Century"
+        },
+        {
+                "id": "mislead",
+                "word": "Mislead",
+                "part_of_speech": "verb",
+                "meaning": "誤った方向に導く",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "mis-",
+                                        "type": "prefix",
+                                        "meaning": "誤った",
+                                        "lang": "Old English"
+                                },
+                                {
+                                        "text": "lead",
+                                        "type": "root",
+                                        "meaning": "導く",
+                                        "lang": "Old English"
+                                }
+                        ],
+                        "original_statement": "The word 'mislead' originates from Middle English 'misleden', which was derived from Old English components 'mis-', indicating wrongness or error, and 'lædan', meaning to guide or conduct."
+                },
+                "core_concept": {
+                        "en": "The misguidance of paths, a distortion of direction.",
+                        "ja": "道を誤らせること、方向性の歪み。"
+                },
+                "thinking_layer": "『誤りは真実への旅を逸らすものである。私たちの目は真実を求めながら、誤導により曇ることがあるが、それもまた学びの一部である。地図のない冒険において、誤りは新たな洞察の扉を開く。誤導されること、それは単なる過ちではなく、理解の過程である。どんな偉大な哲学者も一度は誤りから学び、誤導によって真実にたどり着いた。誤った道はしばしば最も鮮烈な思索の原点となり、真実と夢想が交錯する瞬間を生み出す。だからこそ、迷いもまた人間の自然な状態であり、誤導を恐れることなく進むべきである。誤った道のりの果てに見える光は、鋭く、真実の輪郭を浮かび上がらせる。迷いの中にある悟りと、真実の探求—それは人生の深みを彩るものである。あらゆる誤りは、真実への新たな道を照らす可能性を孕んでいる。』",
+                "synonyms": [
+                        "Delude",
+                        "Deceive"
+                ],
+                "antonyms": [
+                        "Guide",
+                        "Clarify"
+                ],
+                "aftertaste": "Misleading, though a detour, is often a teacher in disguise.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "mis-",
+                                        "meaning": "a prefix denoting error or wrongness"
+                                },
+                                {
+                                        "term": "lead",
+                                        "meaning": "to guide or direct"
+                                }
+                        ],
+                        "points": [
+                                "言葉の起源を探ることは、文化の複雑な織りなす絵画を解き明かす作業でもある。『mislead』は中英語から進化したものであり、『誤り』と『導く』の組み合わせが如何にして現代の誤解のニュアンスを形作ったかを理解することが重要である。"
+                        ]
+                },
+                "source": "The Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "Middle English"
+        },
+        {
+                "id": "thrive",
+                "word": "Thrive",
+                "part_of_speech": "verb",
+                "meaning": "繁栄する、成長する",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "thrīfask",
+                                        "type": "root",
+                                        "meaning": "成長する",
+                                        "lang": "Old Norse"
+                                }
+                        ],
+                        "original_statement": "The word 'thrive' comes from the Old Norse 'thrīfask' meaning 'to grasp to oneself' or 'to grow'."
+                },
+                "core_concept": {
+                        "en": "To flourish in abundance and vigor.",
+                        "ja": "豊かさと活力で繁栄すること"
+                },
+                "thinking_layer": "『繁栄』という言葉は、単なる物質的または経済的な成功を超えて、生命そのものの豊かさそして精神の成長を象徴する。この奥深い概念において、人間は宇宙の織りなす一部となり、自然界との調和の中で自らの可能性を発揮する。繁栄は外部の条件に依存するものではなく、むしろ内面的な豊かさから生じる。本来私たちは、風のささやきや水の流れを数えきれない喜びとして捉え、日々の小さな勝利に歓びを見出すべき存在である。繁栄とは、自分自身と他者に対する深い感謝の気持ち、そして共に成長しようとする意志に他ならない。それは、限りある時間の中でいかに充実した瞬間を築くかを問う哲学的な命題となり得る。ひとたびこの意識を持てば、私たちは自らの「繁栄」を真に生み出し続けることができるのだ。豊かで充実した人生を追求する中で、“繁栄”は人間の最良の性質と共鳴し、存在の目的をひもといていく。より深い理解は、すべて内なる成長から始まる。",
+                "synonyms": [
+                        "flourish",
+                        "prosper"
+                ],
+                "antonyms": [
+                        "wither",
+                        "decline"
+                ],
+                "aftertaste": "Thrive, an art of embracing life's abundance.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "thrīfask",
+                                        "meaning": "to grow, to prosper"
+                                }
+                        ],
+                        "points": [
+                                "『thrive』という語は、古ノルド語の「thrīfask」に由来し、それは生き延びることや、充実した状態で成長することを意味する。この言葉の理解は、物質的な次元を超え、精神的な豊かさと調和への探求を意味する。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "Old Norse"
+        },
+        {
+                "id": "yield",
+                "word": "Yield",
+                "part_of_speech": "noun/verb",
+                "meaning": "譲る、差し出す、従う",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "gealdan",
+                                        "type": "root",
+                                        "meaning": "捧げる、降伏する",
+                                        "lang": "古英語"
+                                }
+                        ],
+                        "original_statement": "The word 'yield' derives from the Old English 'gealdan', meaning to pay, give, or surrender. It shares kinship with the Old High German 'geltan' and Gothic 'gildan', rooted in the Proto-Germanic '*gel-d-', indicating sacrifice or tribute."
+                },
+                "core_concept": {
+                        "en": "The serene relinquishing of will to embrace a greater harmony.",
+                        "ja": "意志を捨てて、より大きな調和を受け入れる安らぎ"
+                },
+                "thinking_layer": "「譲る」という言葉は単なる行為を超えて、存在の根底に流れる大きな調和の韻律と調和することを意味します。それは、個別の意志を放ち、他者や状況とシンクロしてゆく過程です。風が大樹の枝を撓ますように、自然の流れに身を任せ、抗うことなく調和の中に身を置く行為は、自己と他者、内外の境界を曖昧にし、融合を生み出します。世界の大いなる一部であるという認識が、心を自由にし、相互依存の美しさを理解させます。それは即ち、力ではなく、慈しみと譲歩がもたらす強さの再発見です。私たちは、自らを明け渡すことで、真の意味での自由と統一性を知ることになるのです。この深い哲学的な気づきは、天上の星々のように広がり、私たちの内なる光を導いてくれます。",
+                "synonyms": [
+                        "surrender",
+                        "cede"
+                ],
+                "antonyms": [
+                        "resist",
+                        "withhold"
+                ],
+                "aftertaste": "To yield is to gracefully embrace the resonance of unity.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "gel-d-",
+                                        "meaning": "sacrifice, tribute"
+                                }
+                        ],
+                        "points": [
+                                "「yield」は古英語の「gealdan」に由来し、同様に歴史的な『仕える』、および『差し出す』という概念を持つ。それは、自己を超えて何かを与える行為が文化や言語を超えて繰り返し現れる普遍的なテーマであることを示している。"
+                        ]
+                },
+                "source": "The Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Old English, Proto-Germanic"
+        },
+        {
+                "id": "leisure",
+                "word": "Leisure",
+                "part_of_speech": "noun",
+                "meaning": "自由な時間や余暇",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "laisir",
+                                        "type": "root",
+                                        "meaning": "快楽、許可",
+                                        "lang": "Old French"
+                                },
+                                {
+                                        "text": "licere",
+                                        "type": "root",
+                                        "meaning": "許される",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'leisure' traces back to the Old French 'leisir', which itself comes from Latin 'licere', meaning 'to be allowed'."
+                },
+                "core_concept": {
+                        "en": "The gentle ease of time unburdened.",
+                        "ja": "負担のない時間の穏やかな安らぎ"
+                },
+                "thinking_layer": "余暇とは、時間の束縛から解放された心が羽ばたく瞬間である。忙しい日々の中で、我々の魂は無意識に休息を求める。余暇という概念は、ただの休息にとどまらず、人生の真髄を探求する哲学的空間を提供する。それは心の静けさを通じて、自らの内なる声に耳を傾ける機会を意味する。時間の流れから解き放たれた時、人間は本来の自分を取り戻す。現代社会では効率と生産性が重視されるが、余暇はこの流れに対する一種の抵抗であり、自身を再発見するための貴重な場である。古代ギリシャの哲学者たちは、余暇にこそ最高の幸福が潜んでいると考えた。それは、思索し、創造し、探求するための時、すなわち人間の本質を深めるための神聖な時である。余暇を通じて、我々は一時的に摩耗した日常から逃れ、己の存在価値を見出すのだ。余暇は、無限の可能性を秘めた知恵と感性の開花を促す扉であり、人類の知的遺産を次代に伝えるための灯火だ。",
+                "synonyms": [
+                        "free time",
+                        "idleness"
+                ],
+                "antonyms": [
+                        "work",
+                        "labor"
+                ],
+                "aftertaste": "Leisure is the soul's quiet rebellion against life's chaos.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "laisir",
+                                        "meaning": "pleasure, permission"
+                                },
+                                {
+                                        "term": "licere",
+                                        "meaning": "to be allowed"
+                                }
+                        ],
+                        "points": [
+                                "余暇の語源は、時間の束縛からの解放と、心の自由を基礎に持つ。旧フランス語の 'laisir' は、その歴史的背景の中で、個人の内面的な快楽に重点を置いていた。古代の知恵は、余暇を生命の新たな側面を発見する最良の手段と見なしていたことが伺える。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "14th Century"
+        },
+        {
+                "id": "loaf",
+                "word": "Loaf",
+                "part_of_speech": "noun",
+                "meaning": "パンの塊",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "hlai-",
+                                        "type": "root",
+                                        "meaning": "パン、塊",
+                                        "lang": "Proto-Germanic"
+                                }
+                        ],
+                        "original_statement": "The word 'loaf' traces its origins to the Proto-Germanic term 'hlaifaz,' referring to a bread or bread loaf."
+                },
+                "core_concept": {
+                        "en": "The fundamental unity of sustenance and life encapsulated in a simple form.",
+                        "ja": "命と糧の象徴となる単純な形"
+                },
+                "thinking_layer": "『ローフ』という言葉が示すパンの形状は、単なる物理的な食物以上のものである。それは人間の生活の基盤であり、文化を超えて共通する普遍的な象徴である。中に込められた柔らかさは、人類の寛容さと温かさを映し出し、その外形は日々の糧への感謝を示す。私たちは、手でこのパンを取り分けるとき、生命の循環を感じる。ローフの裏にあるのは、農民が土を耕し、穀物が育ち、大地の恵みを受けて成長する壮大なドラマである。それは過去の人々の労働、共に分け合う喜び、何世代にもわたって受け継がれる知恵の結晶でもある。結局のところ、ローフは人々をひとつにまとめ、困難な時代でさえも分かち合える希望の象徴なのである。",
+                "synonyms": [
+                        "bread",
+                        "bun"
+                ],
+                "antonyms": [
+                        "slice",
+                        "piece"
+                ],
+                "aftertaste": "A loaf is both sustenance and symbol, nourishing the body and spirit alike.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "hlaifaz",
+                                        "meaning": "bread, loaf"
+                                }
+                        ],
+                        "points": [
+                                "『loaf』の語源は、Proto-Germanicの『hlaifaz』にさかのぼる。この祖先の言葉の遺産は、命と文化の基礎を象徴するものである。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "Proto-Germanic origin"
+        },
+        {
+                "id": "crimson",
+                "word": "Crimson",
+                "part_of_speech": "adjective",
+                "meaning": "深紅色の、暗い赤色の",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "kermes-",
+                                        "type": "root",
+                                        "meaning": "虫取りによる赤",
+                                        "lang": "Middle English"
+                                }
+                        ],
+                        "original_statement": "The word 'crimson' comes from the Middle English 'crymosyn', which is derived from Old Spanish 'cremesin' and ultimately from the Arabic 'qirmizī', referring to the dye produced from the kermes insect."
+                },
+                "core_concept": {
+                        "en": "The deep red hue of raw emotion and vitality, drawn from the essence of life.",
+                        "ja": "生命の精髄から引き出された、感情と活力の深い赤色の色合い。"
+                },
+                "thinking_layer": "「クリムゾン」とは、単なる色彩を超えた概念であり、生命の血潮の象徴として私たちの魂に深く響く。古来より、その深紅色は生と死の間に流れる命の川を映し出し、一方で情熱と力の象徴として文学や芸術の世界に深く根付いてきた。その色彩が放つ神秘的な輝きは、人の感情の底をも明らかにし、時には哀しみを、時には歓喜を、無限の深淵を覗かせる。色とは科学的な波長の集まりであるという認識が広まっているが、クリムゾンはその程度を超え、心の裡側に潜む未解の部分に語りかける存在である。赤く染まる夕焼けのように、あるいは初恋の瞬間を覆う唇の色のように、クリムゾンは静かな革新を行う。その深さと強さが、我々を行動へと駆り立て、また内省を促す。クリムゾンは美しくも儚き時間の流れを、決して言葉には収まりきれないほどの広がりを持ちながら、無音の世界に秘められたメロディを奏で続ける。",
+                "synonyms": [
+                        "Scarlet",
+                        "Maroon"
+                ],
+                "antonyms": [
+                        "Pale",
+                        "Pastel"
+                ],
+                "aftertaste": "Crimson embodies the burning pulse of life itself.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "kermes",
+                                        "meaning": "A small insect used in the production of red dye."
+                                }
+                        ],
+                        "points": [
+                                "「クリムゾン」という語は、中世ヨーロッパにおける色彩文化の中で特に珍重された。"
+                        ]
+                },
+                "source": "The Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "14th Century"
         }
 ];
