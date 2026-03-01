@@ -36900,5 +36900,471 @@ const WORDS = [
                 "source": "Online Etymology Dictionary",
                 "date": "2026-03-01",
                 "era": "14th Century"
+        },
+        {
+                "id": "expel",
+                "word": "Expel",
+                "part_of_speech": "verb",
+                "meaning": "追い出す、排除する",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "ex-",
+                                        "type": "prefix",
+                                        "meaning": "外へ",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "pellere",
+                                        "type": "root",
+                                        "meaning": "追い出す、押し出す",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'expel' originates from the Latin 'expellere', meaning 'to drive out'."
+                },
+                "core_concept": {
+                        "en": "A forceful casting out into the void.",
+                        "ja": "力強く無へと追放する動作"
+                },
+                "thinking_layer": "人間は時折、内部から溢れ出る力や情熱を抑えることができず、それが必然的に外部へと追い出されることになります。この『追放』という行為は、個人や社会の内なる思考や感情が限界を迎え、変革を迎える瞬間です。古代ラテン語に源を持つこの言葉は、単なる肉体的な移動や排除というよりも、精神的、情緒的な浄化を意味します。追い出されたものは、しばしば未知の領域へと送り出されることであり、それは新たな発見や自己成長の旅の始まりを示しています。追放されることにより、自らの存在理由を再定義し、新たな可能性を探索することができるのです。追い出す側にとっても、それは新たな空間と視点を得る機会となります。ゆえに、追放の本質は変化と再生にあります。それは調和の保護でもあり、人間が持つ内なる混沌を外部に解放する必要不可欠な過程なのです。",
+                "synonyms": [
+                        "Eject",
+                        "Ban"
+                ],
+                "antonyms": [
+                        "Admit",
+                        "Include"
+                ],
+                "aftertaste": "Expulsion marks the beginning of newfound freedom.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "pellere",
+                                        "meaning": "to push, drive"
+                                }
+                        ],
+                        "points": [
+                                "『expel』という動詞は、古いラテン語に由来し、もともとは物理的に押し出すという行為を指していました。時の経過と共に、精神的な領域にもその意味を拡張していきました。"
+                        ]
+                },
+                "source": "The Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Latin origin"
+        },
+        {
+                "id": "fracture",
+                "word": "Fracture",
+                "part_of_speech": "noun/verb",
+                "meaning": "骨折や破損を指す言葉",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "fract/frangere",
+                                        "type": "root",
+                                        "meaning": "砕く、割る",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The term 'fracture' originates from the Latin 'fractura', derived from 'frangere', meaning to break."
+                },
+                "core_concept": {
+                        "en": "A poetic reminder of the delicate balance between strength and vulnerability.",
+                        "ja": "力と脆さの狭間に存在する繊細な均衡の詩的な思い出"
+                },
+                "thinking_layer": "『破れ』それは、生命や物理的存在の輪郭をも砕くほどの強き力の現れでありながらも、その深遠な意義を考えるには、脆弱さという本質に直面しなければならない。我々の存在を形成するもの、すなわち肉体や精神の構造が持つ壮大な力強さの裏に、同時に潜む感受性の頼りなさ。それはまた、時間という大河の中で絶え間なく変化し続ける宇宙の根源的な運動の縮図であるとも言える。現世で小さき石を砕く行為に過ぎないかと見過ごされるかもしれないが、実はそれはこの現象としての生と死、破壊と創造との絶え間ない繰り返しを内包し、宇宙の百科全書に刻まれた一頁として、我々にとっての永遠の謎を映し出す鏡なのだ。『破れ』を通じて我々は、自らの限界と再生を繰り返し体現し、人生の一瞬一瞬の虚しさと完全性の感覚を映し出す永遠のモノローグを読むことができる。美はそのもろい美学にこそあり、断片的な存在の全てを包み込む深みがある。",
+                "synonyms": [
+                        "Break",
+                        "Rupture"
+                ],
+                "antonyms": [
+                        "Union",
+                        "Whole"
+                ],
+                "aftertaste": "Fracture whispers the tale of strength embodied in vulnerable fragments.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "frangere",
+                                        "meaning": "to break"
+                                }
+                        ],
+                        "points": [
+                                "語源学的洞察として、ラテン語の『frangere』は物理的、感情的な崩壊を意味し、語感による印象も繊細さと影響の大きさを表す。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "Late Middle English, originating from Latin"
+        },
+        {
+                "id": "aspire",
+                "word": "Aspire",
+                "part_of_speech": "verb",
+                "meaning": "目指す、切望する",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "ad-",
+                                        "type": "prefix",
+                                        "meaning": "〜の方へ",
+                                        "lang": "ラテン語"
+                                },
+                                {
+                                        "text": "spirare",
+                                        "type": "root",
+                                        "meaning": "息をする",
+                                        "lang": "ラテン語"
+                                }
+                        ],
+                        "original_statement": "The word 'aspire' originates from the Latin 'aspirare', which means 'to breathe upon' and effectively 'to desire greatly'."
+                },
+                "core_concept": {
+                        "en": "A relentless yearning towards the stars.",
+                        "ja": "星々へ向かう断固たる憧れ"
+                },
+                "thinking_layer": "「aspire」という言葉は星を目指して息を吹きかける行為そのものだ。人間の内なる情熱と欲望が一体となり、未知への挑戦に向かう。その過程は魂の深層に刻まれた願望の結晶であり、その輝きは無限の可能性の象徴である。個人の中に眠る潜在的な力が、暗闇の中で光を見つける術であり、それは自己実現の道標でもある。このように「aspire」は生まれ持った運命を超越し、未知の領域に旅立つ勇気を象徴する。心の奥底で燃え続ける小さな炎を燃料にして、我々は絶え間ない努力を経て、自分自身を超越する存在へと昇華する。それは内なる声に従う勇気ある旅であり、その終わりなき道は無数の可能性と出会う場所でもある。星を掴もうとする試みは失敗しようとも、この過程にこそ真実がある。美しく孤独な努力は長い間人間を魅了し、同時に人間の本質を試す試金石となる。再び、我々は偉大な夢を追い続ける者としてこの道を進むのだ。",
+                "synonyms": [
+                        "Dream",
+                        "Yearn"
+                ],
+                "antonyms": [
+                        "Despise",
+                        "Dismiss"
+                ],
+                "aftertaste": "Aspire: where dreams ascend beyond the horizon of possibility.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "ad-",
+                                        "meaning": "toward"
+                                },
+                                {
+                                        "term": "spirare",
+                                        "meaning": "to breathe"
+                                }
+                        ],
+                        "points": [
+                                "ラテン語では、生命や活力を象徴する『息をする』に注目し、それが内なる衝動や切望を表している。",
+                                "言葉の持つ古代的意味は、願望の実現に向けた行動力を意味し、個人の成長の一過程を描写する。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "Late Middle English"
+        },
+        {
+                "id": "support",
+                "word": "Support",
+                "part_of_speech": "noun/verb",
+                "meaning": "支えること、支援",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "sub-",
+                                        "type": "prefix",
+                                        "meaning": "下に",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "portare",
+                                        "type": "root",
+                                        "meaning": "運ぶ",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'support' originates from the Latin 'supportare', meaning 'to carry from underneath'."
+                },
+                "core_concept": {
+                        "en": "A silent hand bearing the weight of existence.",
+                        "ja": "存在の重さを支える静かな手"
+                },
+                "thinking_layer": "支えるという行為は単なる物理的な力以上のものである。それは重さを軽減し、存在を見守り、心の慰めになる。支援とは、孤独の世界に微かな光を灯し、多くの欠片が繋がり合い、共鳴し合うことで新たな景色を生み出す行為である。人は時に自らの重荷を一人で抱えきれず、他者の力を借りることとなる。ここに、支えることの深淵なる哲学が潜んでいる。すべては相互依存の中に成り立っており、支え合うことで初めて個としての存在を確立する。支援という行動は、その儚い存在を包む柔らかい繭のようであり、英知の光がそこに差し込むとき、新しい命や可能性が芽吹くのだ。それは、外からもたらされる救いであると同時に、自らの内から湧き出る意志の象徴でもある。その意味で、支えるという行為は生命を編む織物の中で特に鮮烈な一筋の糸である。支えられる者と支える者。その双方向の動きの中で世界は形作られていく。支えの下に溢れる無数の物語が存在し、その一つ一つが人生の一面を解き明かすのだ。",
+                "synonyms": [
+                        "assist",
+                        "uphold"
+                ],
+                "antonyms": [
+                        "neglect",
+                        "hinder"
+                ],
+                "aftertaste": "To support is to live the poetry of humanity.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "portare",
+                                        "meaning": "to carry"
+                                }
+                        ],
+                        "points": [
+                                "支えるという概念は、個の存在を超え、全体性の織り成す構造への貢献を意味する。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "14th Century"
+        },
+        {
+                "id": "express",
+                "word": "Express",
+                "part_of_speech": "verb",
+                "meaning": "何かを言葉や行動で伝えること",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "ex-",
+                                        "type": "prefix",
+                                        "meaning": "外へ",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "pressare",
+                                        "type": "root",
+                                        "meaning": "押す",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The term originated from the Latin 'expressus', past participle of 'exprimere', meaning to 'press out'."
+                },
+                "core_concept": {
+                        "en": "The liberating outpour of inner thoughts.",
+                        "ja": "内なる思いを解放すること"
+                },
+                "thinking_layer": "『表現』という言葉は、自らの内に秘めた思いを、言葉や行動という形で外へと解放する行為を指します。この行為は、ただ単に何かを伝えること以上の意味を持ちます。それは、心の深奥から湧き出る感情が、世界と交わる瞬間であり、個の存在を超えて他者と繋がるための橋架けなのです。私たちの言語は、この『表現』を通じて心の声を外部の現実に具現化しますが、それは私たち自身をも理解する手段ともなります。『表現』は単に音や文字の羅列ではなく、生命の律動に共鳴する深い響きを持ち、個と世界を結びつける神秘的なプロセスです。人間が特有に持つこの能力は、時代や文化を超えて、常に変容を促す源となってきました。この一瞬の行為が、永遠の共鳴を生み出す可能性に満ちているのです。",
+                "synonyms": [
+                        "convey",
+                        "articulate"
+                ],
+                "antonyms": [
+                        "suppress",
+                        "conceal"
+                ],
+                "aftertaste": "To express is to carve words into the canvases of eternity.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "ex-",
+                                        "meaning": "out of, from"
+                                },
+                                {
+                                        "term": "pressare",
+                                        "meaning": "to press"
+                                }
+                        ],
+                        "points": [
+                                "ラテン語の「ex-」は「外へ」という意味を持ち、内側から外部へと何かを動かすニュアンスを提供します。",
+                                "「pressare」は圧力を加えることを指し、強調のニュアンスを含みます。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "15th Century, Latin origin"
+        },
+        {
+                "id": "desperate",
+                "word": "Desperate",
+                "part_of_speech": "adjective",
+                "meaning": "絶望的な状況にあること",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "de-",
+                                        "type": "prefix",
+                                        "meaning": "否定的な",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "sperare",
+                                        "type": "root",
+                                        "meaning": "希望を持つ",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'desperate' originates from the Latin 'desperatus', past participle of 'desperare' meaning 'to give up hope', which combines the prefix 'de-' ('away') and the root 'sperare' ('to hope')."
+                },
+                "core_concept": {
+                        "en": "The abyss of hope's absence.",
+                        "ja": "希望の不在の深淵"
+                },
+                "thinking_layer": "『絶望』という言葉が含む深い意味は、ただの心理的状態にとどまらず、人間存在の原初的なジレンマに根ざしている。人生の中で直面する試練や障害は、一つの側面から見れば成長の機会ともなり得るが、他方では希望を呑み込み、自己の存在を揺るがす深淵ともなり得る。絶望は、心の中の最も暗い場所で静かに漂う影のようなものであり、その影はしばしば我々の決断力や行動力を奪う。また、この状態は絶望的であると解釈されることも多いが、逆にそれは変革のきっかけであり、人生を根本から再構築する力を秘めているとも言える。希望が失われるとき、人間は何に縋れば良いのか。絶望の対極には、全く新しい視点や希望が生まれる可能性がある。絶望とは、自己の認識を超越し、新しい意味を見出すプロセスでもある。そうした中で、我々は絶望を単なる負の状態としてではなく、一種の『再生』の機会と捉え始めるのではないだろうか。",
+                "synonyms": [
+                        "Hopeless",
+                        "Despondent"
+                ],
+                "antonyms": [
+                        "Hopeful",
+                        "Optimistic"
+                ],
+                "aftertaste": "In the shadows of despair, new lights of transformation ignite.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "sperare",
+                                        "meaning": "to hope"
+                                }
+                        ],
+                        "points": [
+                                "言語の中で絶望という概念が具現化されることで、心理的状態がより立体的に理解される。"
+                        ]
+                },
+                "source": "Oxford English Dictionary, Latin Lexicon",
+                "date": "2026-03-01",
+                "era": "Late Middle English, Latin origin"
+        },
+        {
+                "id": "potential",
+                "word": "Potential",
+                "part_of_speech": "noun/adjective",
+                "meaning": "可能性、潜在力",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "potent",
+                                        "type": "root",
+                                        "meaning": "力強い",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "-ial",
+                                        "type": "suffix",
+                                        "meaning": "特性を持つ",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The term 'potential' originates from the Latin word 'potentia', indicating power or capacity, evolving in the Middle English period with influences from Old French."
+                },
+                "core_concept": {
+                        "en": "The silent whisper of power yet unlived.",
+                        "ja": "まだ現れていない力の静かな囁き"
+                },
+                "thinking_layer": "潜む力を見ようとする時、私たちは未来の可能性に目を向ける。ポテンシャルという言葉は、生まれつきの力がまだ花開かない状態を示す。しかし、それは希望によって支えられ、未知の中に埋め込まれた秘めた力の真髄を表している。古代から人々はこの勢いを感じ、その果てしない可能性を追求してきた。未来という無限の空間の中で、ポテンシャルは私たちに夢見る力を与え、無から有を創造する導きを与える。それは、光の届かない暗闇に差し込む一筋の光芒のように、私たちの心に響く。それぞれの時代において、ポテンシャルは希望の象徴であり、想像力の翼である。何者にも制限されないこの力は、一つの可能世界として広がり、その扉を開くのは私たち一人ひとりの意思である。隠された力を意識することは、存在と可能性の深い融合を示し、今ある現実を超える力を抱擁することである。ポテンシャルは、内なる力の目覚めを待っている。",
+                "synonyms": [
+                        "Possibility",
+                        "Capability"
+                ],
+                "antonyms": [
+                        "Impossibility",
+                        "Weakness"
+                ],
+                "aftertaste": "In the cocoon of potential lies the universe yet to emerge.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "potent",
+                                        "meaning": "powerful"
+                                }
+                        ],
+                        "points": [
+                                "ポテンシャルは、元来ラテン語で力や能力を意味し、時として目に見えない可能性を示すことがある。力強さと未来への潜在的な可能性が融合した概念として、文化や時代を超えて共通して追求されるテーマでもある。この言葉は、多くの言語や文脈で人間の成長や発展の始まりを示唆している。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Middle English period"
+        },
+        {
+                "id": "impulse",
+                "word": "Impulse",
+                "part_of_speech": "noun",
+                "meaning": "内部から瞬時に生まれる動きや行動の引き金",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "in-",
+                                        "type": "prefix",
+                                        "meaning": "中に",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "pellere",
+                                        "type": "root",
+                                        "meaning": "押す",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "Derived from the Latin word 'impulsus,' which stems from 'impellere,' meaning 'to push or drive forward.'"
+                },
+                "core_concept": {
+                        "en": "A burst of energy that propels one into action.",
+                        "ja": "行動を促すエネルギーの爆発"
+                },
+                "thinking_layer": "「衝動」という言葉には、内なる衝動と外部の刺激が交錯する、無意識と意識の境界線が宿る。人間の心の奥深くに根差し、理性を超えて行動を決める力である。衝動は、規律と自由の対立を超え、どちらにも囚われない瞬間の輝きだ。その瞬間、時間が止まり、世界が新たに再構築される。衝動は、我々を束縛する日常の枠を飛び越えるための鍵であり、創造への無限の可能性を秘めている。決まりごとや制御の外に開かれた未知の領域へ、ひとたび足を踏み入れたならば、その足跡は生涯消えることなく人間の歴史に刻まれる。衝動とは、内なる宇宙が発するひとすじの光であり、その光が我々を次なる冒険へ誘うのだ。",
+                "synonyms": [
+                        "drive",
+                        "urge"
+                ],
+                "antonyms": [
+                        "inhibition",
+                        "restraint"
+                ],
+                "aftertaste": "Impulse reminds us of the primal forces that drive our very existence.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "pellere",
+                                        "meaning": "to push"
+                                }
+                        ],
+                        "points": [
+                                "ラテン語の『impulsus』は、『中に押す』という概念を基に構築された語である。これは、人間の無意識に潜む動機を説明するために古代から使用されてきた。"
+                        ]
+                },
+                "source": "Etymology Online",
+                "date": "2026-03-01",
+                "era": "Latin origin"
+        },
+        {
+                "id": "valid",
+                "word": "Valid",
+                "part_of_speech": "adjective",
+                "meaning": "正当な、妥当な",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "vale-",
+                                        "type": "root",
+                                        "meaning": "力",
+                                        "lang": "ラテン語"
+                                }
+                        ],
+                        "original_statement": "Derived from Latin 'validus', meaning strong or effective, linked to 'valere', meaning to be strong or well."
+                },
+                "core_concept": {
+                        "en": "The breath of strength lending credence to reality.",
+                        "ja": "現実に信頼を与える力の息吹"
+                },
+                "thinking_layer": "「妥当」それは存在の力を示す概念であり、真理の根元を支える柱のようなものである。物事が妥当であるということは、それが無条件に受け入れられるだけでなく、それによって他のものが測定される尺度となる。妥当性は、不可視の力を秘め、自らの存在を証明し続ける。宇宙の法則のように、不可視であれど揺るぎない真理がそこにある。妥当性は、時間を超越し、全ての時代を通じて受け入れられてきた。その核心には、知恵と理解、そして普遍的な美の理念が込められている。ものごとが妥当であること、それは人の心を安心させ、さらなる探求の旅へと誘う。信じるための力、正当な理由の基盤、それが妥当という概念の中核であり、広く深い哲学的な領域へと思考を導く道標である。このようにして、妥当性は私たちの心の中で深く息づき、日々の真理の中でその存在を証明し続ける。",
+                "synonyms": [
+                        "legitimate",
+                        "sound"
+                ],
+                "antonyms": [
+                        "invalid",
+                        "unfounded"
+                ],
+                "aftertaste": "Validity is the silent testament to enduring truth.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "vale",
+                                        "meaning": "strength"
+                                }
+                        ],
+                        "points": [
+                                "「妥当」という概念は時間と空間を超越した存在であり、これは普遍的な真理を求める人類の永遠の旅を反映している。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "15th Century"
         }
 ];
