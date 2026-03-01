@@ -40893,5 +40893,319 @@ const WORDS = [
                 "source": "Oxford English Dictionary",
                 "date": "2026-03-01",
                 "era": "Late Middle English"
+        },
+        {
+                "id": "maintain",
+                "word": "Maintain",
+                "part_of_speech": "verb",
+                "meaning": "維持する",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "manu-",
+                                        "type": "root",
+                                        "meaning": "手",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "tenere",
+                                        "type": "root",
+                                        "meaning": "持つ",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'maintain' originates from the Middle English 'maintainen', through Old French 'maintenir', from the Latin 'manus tenere', meaning 'to hold in the hand'."
+                },
+                "core_concept": {
+                        "en": "A perpetual dance of holding and nurturing.",
+                        "ja": "保持し、育む永遠の舞踏"
+                },
+                "thinking_layer": "「維持」という行為は、一見単純なようでありながら、深遠な哲学的意義を持っています。それは、物事をそのままの状態で存在させ続けるための人間の努力の象徴です。自然は絶えず変化し続け、それに反抗するかのように人間は整然とした秩序を維持しようとします。維持は、変化と静寂の狭間にある瞬間を捉える試みであり、その瞬間は常に過去と未来の間で揺れ動く存在です。かつての状態を保つこと、または理想とする状態に近づけ続けること、それが人間の倦まず弛まずの努力といえます。その結果、維持されるものは、単なる物質的な維持だけではなく、記憶やアイデンティティ、伝統であることもあります。維持とはしたたかでありながら優しい経験であり、その経験は心に深い余韻を残します。緩やかに時を刻む中で、真実に繋がる一筋の糸が見えるかもしれません。あらゆるものは、形あるものは無常なものであり、だからこそ、維持という行為は生の儚さを映し出す、瞬時の芸術なのです。",
+                "synonyms": [
+                        "Upkeep",
+                        "Preserve"
+                ],
+                "antonyms": [
+                        "Neglect",
+                        "Abandon"
+                ],
+                "aftertaste": "Maintaining is the quiet defiance against the inevitability of change.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "manu-",
+                                        "meaning": "hand"
+                                },
+                                {
+                                        "term": "tenere",
+                                        "meaning": "to hold"
+                                }
+                        ],
+                        "points": [
+                                "維持することは、内在的な努力と外部との相互作用の連続体であり、その複雑さの中に人間の意思と自然のダイナミズムが交錯する。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "14th Century"
+        },
+        {
+                "id": "appear",
+                "word": "Appear",
+                "part_of_speech": "verb",
+                "meaning": "現れる、見える",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "ad-",
+                                        "type": "prefix",
+                                        "meaning": "に向かって",
+                                        "lang": "ラテン語"
+                                },
+                                {
+                                        "text": "parere",
+                                        "type": "root",
+                                        "meaning": "現れる、見える",
+                                        "lang": "ラテン語"
+                                }
+                        ],
+                        "original_statement": "The word 'appear' originated in Middle English, from the Old French 'aparer', itself derived from the Latin 'apparere' which means 'to come into view'."
+                },
+                "core_concept": {
+                        "en": "The graceful emergence into awareness.",
+                        "ja": "意識の中に優美に現れること"
+                },
+                "thinking_layer": "「現れる」ということの本質は、目に見えないものが存在として形を変えながら私たちの意識に姿を現すことです。それは、暗闇から光の元へと移る旅路であり、新たな解釈や理解へと導く瞬間でもあります。変化し続けるこの宇宙の中で、何もかもが実態を持ちながらも全てが流動的であるという矛盾に満ちた現実を、私たちは無意識のうちに受け入れています。「現れる」という行為は、存在の本質を捉えようとする人間の永遠の追求であり、不可視から可視への瞬間を抱擁することで、生命の動的な真理を表現しています。自然界における日の出のように、最初の一条の光が闇を破り新しい日を予兆するさまは心に響くように、私たちの人生における重要な気づきやインスピレーションの瞬間を象徴しています。物質世界に形作られるという創造プロセスは、単なる視覚的認識を超えて、心の内外の結びつきを深める力を持っています。そのような現れは、存在し続けることの美しさと、変化することの多様性とを同時に伝えます。",
+                "synonyms": [
+                        "emerge",
+                        "materialize"
+                ],
+                "antonyms": [
+                        "disappear",
+                        "vanish"
+                ],
+                "aftertaste": "To appear is to transcend the boundaries of perception.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "parere",
+                                        "meaning": "to appear"
+                                }
+                        ],
+                        "points": [
+                                "現れるという行為は単なる視覚の感覚を超え、存在が意識の領域に移行する神秘的な過程を象徴します。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "14th Century"
+        },
+        {
+                "id": "clarity",
+                "word": "Clarity",
+                "part_of_speech": "noun",
+                "meaning": "明瞭さ、はっきりと見えること",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "clar-",
+                                        "type": "root",
+                                        "meaning": "清澄な、澄み渡る",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "-ity",
+                                        "type": "suffix",
+                                        "meaning": "性質、状態",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "Derived from the Latin 'claritas', originating from 'clarus' meaning clear or bright."
+                },
+                "core_concept": {
+                        "en": "A gentle yet firm illumination of the mind, soul, and the world.",
+                        "ja": "心と魂、そして世界を穏やかにしっかりと照らす光"
+                },
+                "thinking_layer": "明瞭性という言葉は、単なる視界の明確さを指し示す以上のものを抱えている。それは、内なる自己と外界の相互作用における透明な交流を意味する。古代より人々は、混沌とした思考の中に秩序を見出そうと努めてきた。明瞭性はその過程の中で、透明な思考と正確な認識という理想を示す光である。日常生活の中で、一瞬一瞬が微細な雲の切れ間から差し込む光の束のように、私たちの心を照らし出すべきであり、心の霧を晴らすべく働く。それは、わたしたちが自己の本質に立ち戻り、真の意図と目的を再発見するための指針となる。明瞭性の探求は無意識の混濁した海を泳ぎ切る人間の試練であり、また、思考の澄み渡った湖面に映る未来の姿を模索する旅路でもある。まるで光の結晶のように、それは過去の影を払拭し、未来を鮮明に映し出す鏡である。",
+                "synonyms": [
+                        "Lucidity",
+                        "Clearness"
+                ],
+                "antonyms": [
+                        "Ambiguity",
+                        "Obscurity"
+                ],
+                "aftertaste": "In clarity, the world unveils its truest self.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "clarus",
+                                        "meaning": "clear, bright"
+                                }
+                        ],
+                        "points": [
+                                "『clarus』は古代ラテン語で「光」を意味し、物理的な明るさから精神的な透明性をも表現している。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "Early 14th Century"
+        },
+        {
+                "id": "navigation",
+                "word": "Navigation",
+                "part_of_speech": "noun",
+                "meaning": "航海術、方向を指し示す行動",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "navis",
+                                        "type": "root",
+                                        "meaning": "船、航海",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "agere",
+                                        "type": "root",
+                                        "meaning": "導く、運転する",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'navigation' originated from the Latin word 'navigatio', derived from 'navis' (ship) and 'agere' (to drive, guide)."
+                },
+                "core_concept": {
+                        "en": "The art of guiding through uncharted waters.",
+                        "ja": "未知の海域を導く術の美学"
+                },
+                "thinking_layer": "ナビゲーションとは、物理的な地図に記録された海や空の境界を超え、心の地図に記録された無限の境界を探求することである。その行為には、外部の風景を観察し、それと内なる自己の地平線を結び付ける知的な試みが伴う。人間の思考と自然との深くて不可視な結びつきを感じ取るために、我々は何度も航路を調整し、風に問うて未来への最適な方向を見極めてきた。それはまた、時に静寂の中で自己と対話し、星々の配置や太陽の沈む位置からインスピレーションを得る心の航海でもある。ナビゲーションは物理的な移動のみならず、内面の真実とも向き合う哲学的な旅路でもある。学ぶことの無限性と未知の可能性を受け入れる心の在り方がそこにある。",
+                "synonyms": [
+                        "piloting",
+                        "sailing"
+                ],
+                "antonyms": [
+                        "drifting",
+                        "aimlessness"
+                ],
+                "aftertaste": "To navigate is to unveil the unseen paths of existence.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "navis",
+                                        "meaning": "ship"
+                                },
+                                {
+                                        "term": "agere",
+                                        "meaning": "to drive, guide"
+                                }
+                        ],
+                        "points": [
+                                "ナビゲーションは、単なる物理的な移動の過程ではなく、精神的、知的な旅としても捉えられる。目的地に辿り着くことだけでなく、その途中で得られる自己洞察や未知の発見の過程が重要視される。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "15th Century, Latin origin"
+        },
+        {
+                "id": "importance",
+                "word": "Importance",
+                "part_of_speech": "noun",
+                "meaning": "重大性、重要さ",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "in/portare",
+                                        "type": "prefix/root",
+                                        "meaning": "運ぶ",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'importance' stems from the Latin 'importare', which means 'to bring in or carry'. It evolved through Old French 'importance'."
+                },
+                "core_concept": {
+                        "en": "The weight of essence elevating the soul's concern.",
+                        "ja": "魂の憂慮を高める本質の重み"
+                },
+                "thinking_layer": "「重要性」という言葉は、我々の存在に不可欠なものを映し出す鏡のようである。それは単なる価値の判断を超え、生命にとって何が欠かせないのかを示唆する指針でもある。時に人は、自らの行動や感情に対してその重みを測ろうとするが、真の重要性を理解することは一筋縄ではいかない。大海原の中で燈台のように輝くこの概念は、迷い人を正しい道へと導く。深淵な宇宙の法則に連動し、人間の理解を超越する力を持つこの言葉は、内なる探求を実らせる土壌でもある。現代に生きる我々は、情報過多の中で何が本当に大切なのかを探し求める旅の途中かもしれない。山水画のように変わりゆく環境の中で、真の重要性は、過去、現在、そして未来の繋がりを教えてくれる静寂な声である。",
+                "synonyms": [
+                        "Significance",
+                        "Weight"
+                ],
+                "antonyms": [
+                        "Triviality",
+                        "Insignificance"
+                ],
+                "aftertaste": "Importance casts a profound shadow that unveils the soul's true focus.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "portare",
+                                        "meaning": "to carry"
+                                }
+                        ],
+                        "points": [
+                                "ラテン語の 'importare' は 'in' (中へ) + 'portare' (運ぶ) から成り、何かを取り入れる行為が、価値や重量として象徴されることから始まる。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "14th Century"
+        },
+        {
+                "id": "visible",
+                "word": "Visible",
+                "part_of_speech": "adjective",
+                "meaning": "目に見える",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "vis-",
+                                        "type": "root",
+                                        "meaning": "見る",
+                                        "lang": "ラテン語"
+                                },
+                                {
+                                        "text": "-ible",
+                                        "type": "suffix",
+                                        "meaning": "〜できる",
+                                        "lang": "ラテン語"
+                                }
+                        ],
+                        "original_statement": "The word 'visible' originates from the Latin 'visibilis', derived from 'videre' meaning 'to see'."
+                },
+                "core_concept": {
+                        "en": "The whisper of the universe revealed through the light.",
+                        "ja": "光を通して現れる宇宙のささやき"
+                },
+                "thinking_layer": "目に見えるとは、単なる物理的現象の表面に留まらず、存在そのものの目に見えない深層を探索することである。それは、光のささやきが、我々の内なる世界と外界の境界を溶かし、無限のつながりを解き明かしていく。見えるものと見えないものの間にある微妙なベールは、世界の真理を探求する古代からの人類の探究心によって絶え間なく揺れ動くのである。見えるとは、本質的に知覚の舞台であり、心の中で絵図を描き、形を与え、物語を織りなすものである。目に見えるものは、私たちに問いかけを投げかけ、視ることによって理解を深め、新たな発見がなされる場を提供する。私たちの認識が拡張されるたびに、世界と我々の内なる宇宙の接続がさらに広がっていく。そして、視覚を通じた一瞬の認識こそが、時を超えた詩のように、個々の瞬間に永遠を与える力を秘めているのである。",
+                "synonyms": [
+                        "apparent",
+                        "observable"
+                ],
+                "antonyms": [
+                        "invisible",
+                        "hidden"
+                ],
+                "aftertaste": "Visibility bridges the seen and the unseen, illuminating the soul's quiet realms.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "videre",
+                                        "meaning": "to see"
+                                }
+                        ],
+                        "points": [
+                                "『visible』の語源はラテン語にあり、『videre』は『見る』を意味する。この動詞は、古代からの認識と洞察を表し、即ち常に観察し、理解する過程を示している。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "Late Latin, around the 14th Century"
         }
 ];
