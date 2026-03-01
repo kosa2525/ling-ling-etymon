@@ -35685,5 +35685,373 @@ const WORDS = [
                 "source": "Online Etymology Dictionary",
                 "date": "2026-03-01",
                 "era": "Late Latin, early 15th century"
+        },
+        {
+                "id": "reflect",
+                "word": "Reflect",
+                "part_of_speech": "verb",
+                "meaning": "反射する、熟考する",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "re-",
+                                        "type": "prefix",
+                                        "meaning": "再び",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "flectere",
+                                        "type": "root",
+                                        "meaning": "曲げる、折る",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "Derived from the Latin 'reflectere', meaning to bend back."
+                },
+                "core_concept": {
+                        "en": "The dance of light upon a surface, and the mind's journey inward.",
+                        "ja": "光が表面を舞いながら、心が内面に向かう旅路。"
+                },
+                "thinking_layer": "反射の行為とは、世界の光と影を内面に映し出す鏡である。それは思考と感覚の織りなす呼吸であり、現実と幻想の境界線に漂う微細な振動である。光が表面に当たるとき、その反射は単なる物理現象に留まらず、内なる省察の起点となる。心の中で光が反射する度に、私たちは自己への理解を深め、存在の真理に近づく。この反射から生まれる探求は、宇宙の摂理を解き明かす無限の旅となり、内なる自己と外界の調和を見出す鍵ともなる。光が反射する瞬間、その一瞬は時間を超え、永遠の刹那として心に刻まれるのだ。",
+                "synonyms": [
+                        "Mirror",
+                        "Echo"
+                ],
+                "antonyms": [
+                        "Absorb",
+                        "Ignore"
+                ],
+                "aftertaste": "Reflection unveils the unseen depths of existence.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "re-",
+                                        "meaning": "again"
+                                },
+                                {
+                                        "term": "flectere",
+                                        "meaning": "to bend"
+                                }
+                        ],
+                        "points": [
+                                "ラテン語の 'reflectere' は、物理的な反射だけでなく、内省のプロセスも示す。この言葉は、はるか昔から人間の心が光の物理的な特性を内面的な真理の探求に例える文化に根ざしている。"
+                        ]
+                },
+                "source": "The Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Late Middle English, from Latin"
+        },
+        {
+                "id": "mutate",
+                "word": "Mutate",
+                "part_of_speech": "verb",
+                "meaning": "変異する、変わる、変化を遂げる",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "mut-",
+                                        "type": "root",
+                                        "meaning": "変化",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "-ate",
+                                        "type": "suffix",
+                                        "meaning": "動詞を形成する",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "From the Latin 'mutare', meaning 'to change'."
+                },
+                "core_concept": {
+                        "en": "To become something other than oneself is to dance with time, ever-evolving, never the same.",
+                        "ja": "己を超えて変化し続けること、それは時と共に踊ること。"
+                },
+                "thinking_layer": "変異とは、特異なものが生まれ、変化し、また安定するまでの過程といえる。それは生命の持つ無限の可能性を感じさせる。その中核には、常に変わりゆく現実と、既存の枠組みを超えて新しい自己を希求する精神が潜んでいる。進化という概念もまたこの中から芽生え、変異はその生成の、創造性の、原動力となる。注目すべきは、それが偶然の産物でありながらも精巧なバランスを保っている点である。それは宇宙が私たちに問い続ける哲学的挑戦でもあり、また、無秩序の中に潜む秩序を探し求める人間の探究心を映す鏡でもある。変化とは、生存のために、あるいは破滅を避けるために、新しい存在としての道を切り開くことである。その過程には、時間の流れと生命の織りなす壮大なドラマが垣間見える。変異の力を知ること、それは生命の本質に迫る一つの詩的な試みである。",
+                "synonyms": [
+                        "Transform",
+                        "Change"
+                ],
+                "antonyms": [
+                        "Stabilize",
+                        "Remain"
+                ],
+                "aftertaste": "Mutation is the universe's perpetual question of 'What if?'.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "mut-",
+                                        "meaning": "change"
+                                }
+                        ],
+                        "points": [
+                                "ラテン語の 'mutare' から派生し、変化という概念の基本を成す。変異は進化の一面を見ることができ、その力は生物学的、哲学的視点からも不可欠である。"
+                        ]
+                },
+                "source": "Etymology Online Dictionary",
+                "date": "2026-03-01",
+                "era": "Late Latin, Medieval usage"
+        },
+        {
+                "id": "assign",
+                "word": "Assign",
+                "part_of_speech": "verb",
+                "meaning": "割り当てる、指定する",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "ad-",
+                                        "type": "prefix",
+                                        "meaning": "〜に向かって",
+                                        "lang": "ラテン語"
+                                },
+                                {
+                                        "text": "signare",
+                                        "type": "root",
+                                        "meaning": "印を付ける",
+                                        "lang": "ラテン語"
+                                }
+                        ],
+                        "original_statement": "The word 'assign' originates from the Latin 'assignare', combining 'ad-' meaning 'to' and 'signare' meaning 'to mark'. It entered Middle English via Old French 'assigner'."
+                },
+                "core_concept": {
+                        "en": "To leave a trace of purpose, an imprint of duty.",
+                        "ja": "目的の痕跡を残す、義務の印を刻むこと。"
+                },
+                "thinking_layer": "『assign』という言葉には、定めるという行為が内包されている。これにより、物事が確固たる形を持ち、宛先を持たない曖昧さから解放される。割り当てとは、私たちが運命を他者や物事に譲渡する神聖なる行為であり、それはしばしば責任の重荷として我々を試す。しかしその裏面には、見えざる力が働き、調和の取れた全体を生み出す。私たち一人一人の人生自体もある種の割り当てであり、この広大な宇宙における役割を果たす宿命を持っている。われわれは、存在という名のオーケストラを編成する一つの音色であり、同時に創造のシンフォニーを奏でるべく与えられた使命なのだ。自然の摂理に従い、命じられし者たちはその瞬間瞬間で小さな選択をする。割り当てられた任務は、進化の過程での小さな石であり、その一つ一つが未来への架け橋となるのだ。",
+                "synonyms": [
+                        "allocate",
+                        "appoint"
+                ],
+                "antonyms": [
+                        "remove",
+                        "withdraw"
+                ],
+                "aftertaste": "Every assignment is a step towards understanding or fulfilling a larger cosmic duty.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "signare",
+                                        "meaning": "to mark"
+                                }
+                        ],
+                        "points": [
+                                "『assign』は、個々に明確な役割を持たせるという意義を持ち、単なる決定ではなく、相互作用の初めとして認識できる。言葉の奥には、世界の目に見えぬ構造が言語化されたものであり、コミュニケーションの道具であると同時に、現実と理想の橋渡しとなるものだ。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Late Middle English"
+        },
+        {
+                "id": "compensate",
+                "word": "Compensate",
+                "part_of_speech": "verb",
+                "meaning": "償う、埋め合わせる",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "com-",
+                                        "type": "prefix",
+                                        "meaning": "ともに",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "pensare",
+                                        "type": "root",
+                                        "meaning": "支払う",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'compensate' originates from the Latin \"compensare\", meaning 'to weigh together'."
+                },
+                "core_concept": {
+                        "en": "The poetic dance between fairness and reparation.",
+                        "ja": "公平と補償の間の詩的な舞"
+                },
+                "thinking_layer": "補償するという行為は、無形の秤において、失われたものや失敗を均衡させる試みである。この行為は、単なる物質的な償いを超え、存在そのもののバランスを追求する深遠な探求となる。人生において、私たちは時折、他者や自分自身に対して補償を試み、その過程で、自己の内なる調和を求める心の航海に出る。すべての失われたものには、それを補う方法が存在し、補償の設計には心の軽やかな計測が求められる。補償するという言葉は、まるで奏でられるべき小夜曲のように、あらゆる不均衡の中に美を見出し、静かな安らぎへと導く。補うという行為は、物理的な実体を超え、精神的な充足へと変換される神聖な瞬間である。このように、補償の概念は、物質世界と心の世界の融合点に位置し、無限の再生と調和の象徴として輝くのだ。",
+                "synonyms": [
+                        "Recompense",
+                        "Reimburse"
+                ],
+                "antonyms": [
+                        "Deprive",
+                        "Penalize"
+                ],
+                "aftertaste": "Compensation crafts symmetry within life's asymmetries.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "pensare",
+                                        "meaning": "to weigh, pay"
+                                }
+                        ],
+                        "points": [
+                                "補償することは、失われたことを取り戻すだけの行為ではなく、エネルギーの循環における概念的な理解を伴う。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "13th Century, Latin"
+        },
+        {
+                "id": "complex",
+                "word": "Complex",
+                "part_of_speech": "adjective",
+                "meaning": "複雑なもの",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "com-",
+                                        "type": "prefix",
+                                        "meaning": "共に",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "plex-",
+                                        "type": "root",
+                                        "meaning": "編む",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "From the Latin 'complexus', originally meaning 'intertwined' or 'embraced'."
+                },
+                "core_concept": {
+                        "en": "The intertwining of thoughts and forms into a singular embrace.",
+                        "ja": "思考と形が絡み合い一つの抱擁となるもの"
+                },
+                "thinking_layer": "複雑さはしばしば見えにくい構造や意図を内包する。それはまるで人生の如く、多層的な絵巻物の中で、生命の一つ一つの糸が一つの布に織り込まれる様に。無秩序に見える運命の中に秩序を見いだそうとするのが人間の本能であり、その中で、我々は新しい意味を見つけようとする。それは困難の象徴であると同時に、可能性の海の如き豊かさを孕んでいる。それゆえに複雑さは一種の美でもある。目に見えない織物の緻密なパターンが形成するのは、時に一瞬の思考を超える時間の概念であり、その中で思索は深まり、内省が可能となる。複雑さの中に、哲学は新しい視点を見いだすことができる。その視点は、人がどのようにこの複雑な世界の文脈の中で生きていくかという永遠の問いに、想像力と洞察力をもたらすだろう。",
+                "synonyms": [
+                        "Intricate",
+                        "Complicated"
+                ],
+                "antonyms": [
+                        "Simple",
+                        "Clear"
+                ],
+                "aftertaste": "Complexity is the invisible architecture of existence.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "complexus",
+                                        "meaning": "intertwined or embraced"
+                                }
+                        ],
+                        "points": [
+                                "ラテン語の「complexus」は、多くの要素が共に編み合わさっている状態を指す。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Classical Latin"
+        },
+        {
+                "id": "friendly",
+                "word": "Friendly",
+                "part_of_speech": "adjective",
+                "meaning": "親しい、友情に満ちた",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "friend-",
+                                        "type": "root",
+                                        "meaning": "友人",
+                                        "lang": "Old English/Proto-Germanic"
+                                },
+                                {
+                                        "text": "-ly",
+                                        "type": "suffix",
+                                        "meaning": "〜のような",
+                                        "lang": "Old English"
+                                }
+                        ],
+                        "original_statement": "The word 'friendly' originates from the Old English 'freondlic', which means 'like a friend; well-disposed; kindly'. The term 'friend' comes from the Old English 'freond', which signifies 'a person one is attached to by feelings of affection or personal regard'."
+                },
+                "core_concept": {
+                        "en": "The warm embrace of harmonious companionship.",
+                        "ja": "調和した仲間との温かい抱擁"
+                },
+                "thinking_layer": "幸福とは何か、それは多くの哲学者によって問われてきた問題である。友好という概念がその答えの一部であるとしたら、それは人間関係における最も美しい形の一つであろう。友情は、心と心が共に調和することであり、その響きは精神の奥深くまで届けられる。それは単なる表面的な繋がりではなく、互いの存在価値を認め、補完する意識の交歓である。友好の絆は無言の約束となり、お互いの一部となるに至る。そこには言葉を超えた理解があり、沈黙のうちに語られる感情の共鳴がある。日常の喧騒の中で、一瞬の静寂を保ち、その中で感じ取れる深い敬意と安らぎに満ちている。友好の力は時空を超えて、互いを支え合う強固な絆を紡いでいく。存在の孤独を埋めるこの関係は、人生の波を穏やかにする風のようなものだ。風は一方向に吹くこともあるが、友好は双方向の風であり、我々の魂の地平線を広げ、豊かな森を育むのだ。",
+                "synonyms": [
+                        "Amiable",
+                        "Genial"
+                ],
+                "antonyms": [
+                        "Hostile",
+                        "Unfriendly"
+                ],
+                "aftertaste": "Friendly is the gentle art of weaving threads of understanding into the fabric of our shared existence.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "friend",
+                                        "meaning": "A person whom one knows and has a mutual bond of affection with."
+                                }
+                        ],
+                        "points": [
+                                "友情というものは、単なる社交性を超えて、心の奥深くの結びつきを意味する。元来、互いを友人と認識することで、内面的な交流を促進する役割を持っていた。古代社会において、人々は友好関係を結ぶことにより、信頼と安全、社会的支援を得ていた。"
+                        ]
+                },
+                "source": "Oxford English Dictionary, Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "Old English, Proto-Germanic"
+        },
+        {
+                "id": "conclusive",
+                "word": "Conclusive",
+                "part_of_speech": "adjective",
+                "meaning": "決定的な、結論的な",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "conclud-",
+                                        "type": "root",
+                                        "meaning": "終わり、結論",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "-ive",
+                                        "type": "suffix",
+                                        "meaning": "〜する傾向のある",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'conclusive' originates from the Latin verb 'concludere', which means 'to close, to conclude'. The suffix '-ive' turns it into an adjective form."
+                },
+                "core_concept": {
+                        "en": "A poetic closure binding the gaps of doubt and assertion.",
+                        "ja": "疑念と主張の隙間を繋ぐ詩的な終結"
+                },
+                "thinking_layer": "『結論』とは、我々の人生において迷惑の如く現れる疑念、その流れを断ち切る存在である。生きているという現象自体が、無数の選択肢と結果に彩られている。どれだけの旅路を進んでも、その終着点である結論を我々は求め、その瞬間に我々自身が何者であるかを知る。また結論を得るということは、単に知識や情報を積み重ねることで達成できるものではなく、むしろ心の中での葛藤や不安を統合し、世界と一体化する心の動きである。多くの声が混在する現代の情報社会において、確固たる結論に至ることは稀であり、それだけに価値がある。だからこそ結論は、それが時には我々を混沌から救い出し、時にはさらなる探求の扉を開く。その不確実性の中こそ、生命の神秘が隠れているのだ。",
+                "synonyms": [
+                        "Decisive",
+                        "Definite"
+                ],
+                "antonyms": [
+                        "Indecisive",
+                        "Inconclusive"
+                ],
+                "aftertaste": "In the folds of certainty, the conclusive moment stands as a beacon of clarity.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "concludere",
+                                        "meaning": "to close, to conclude"
+                                }
+                        ],
+                        "points": [
+                                "『結論』はその構成自体がラテン語から派生しており、もともと「終わらせる」ことを意味する動詞から構成されている。このことは、言葉そのものがもつ決定力と、それに伴う説得力を示唆している。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "Latin, Medieval Latin, circa 14th Century"
         }
 ];
