@@ -135,6 +135,13 @@ async function renderToday() {
 
             <section class="section aftertaste-section" style="border-left: 2px solid var(--color-accent); padding-left: 1.5rem;"><span class="section-label">Resonance</span><p class="aftertaste-text" style="font-family: 'Times New Roman', serif; font-style: italic; font-size: 1.3rem;">${word.aftertaste}</p></section>
 
+            <div style="display:flex; justify-content:center; margin-bottom: 2.5rem;">
+                <button id="fl-btn-${word.id}" onclick="toggleFlourish('word', '${word.id}', this, '${word.author || ''}')"
+                    style="background:none; border:1px solid var(--color-border); color:var(--color-text-dim); font-size:0.9rem; padding:0.5rem 1.2rem; border-radius:100px; cursor:pointer; transition:all 0.2s; display:flex; align-items:center; gap:6px;">
+                    ✦ Flourish · <span class="fl-cnt" id="fl-cnt-${word.id}">…</span>
+                </button>
+            </div>
+
             <footer style="margin-top: 3rem; padding-top: 1.5rem; border-top: 1px solid var(--color-border); display:flex; flex-direction:column; gap:0.5rem; opacity:0.5; font-size:0.8rem;">
                 <div style="display:flex; justify-content:space-between; align-items:center;">
                     <div>by <b>${word.author || 'etymon_official'}</b></div>
@@ -158,6 +165,19 @@ async function renderToday() {
             ${renderReflectionSection(word.id)}
         </article>
     `;
+
+    // Flourishカウント取得
+    apiGet(`/api/flourish-count?target_type=word&target_id=${word.id}&username=${State.currentUser || ''}`)
+        .then(fc => {
+            const cnt = document.getElementById(`fl-cnt-${word.id}`);
+            const btn = document.getElementById(`fl-btn-${word.id}`);
+            if (cnt) cnt.textContent = fc.count;
+            if (btn && fc.flourished) {
+                btn.style.borderColor = 'var(--color-premium)';
+                btn.style.color = 'var(--color-premium)';
+                btn.dataset.flourished = 'true';
+            }
+        }).catch(() => { });
 
     loadReflections(word.id, word.author || 'etymon_official', word.word);
     document.querySelectorAll('.morpheme-link').forEach(l => l.onclick = () => { if (!State.isPremium) return navigate('premium'); State.searchFilter = l.dataset.term; navigate('archive'); });
@@ -1255,10 +1275,10 @@ function renderTimeline() {
 
 
 // --- Flourish トグル ---
-async function toggleFlourish(targetType, targetId, btn) {
+async function toggleFlourish(targetType, targetId, btn, targetAuthor = null) {
     if (!State.currentUser) { showToast('ログインが必要です'); return; }
     const res = await apiPost('/api/flourish', {
-        username: State.currentUser, target_type: targetType, target_id: targetId
+        username: State.currentUser, target_type: targetType, target_id: targetId, target_author: targetAuthor
     });
     if (res.status === 'success') {
         const cnt = document.getElementById(`fl-cnt-${targetId}`);

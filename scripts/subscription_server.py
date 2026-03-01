@@ -174,8 +174,9 @@ def toggle_flourish():
     """Flourishのトグル（追加/削除）"""
     data = request.json
     username    = data.get('username')
-    target_type = data.get('target_type')  # 'reflection' or 'essay'
+    target_type = data.get('target_type')  # 'reflection', 'essay', or 'word'
     target_id   = data.get('target_id')
+    target_author = data.get('target_author')  # For 'word' type where author is not in DB
 
     if not username:
         return jsonify(status='error', message='ログインが必要です'), 401
@@ -208,14 +209,21 @@ def toggle_flourish():
                     action = 'added'
 
                     # 投稿者に通知（自分自身には送らない）
+                    author_to_notify = None
                     if target_type == 'reflection':
                         cur.execute(f"SELECT username FROM reflections WHERE id={p}", (target_id,))
-                    else:
+                        row = cur.fetchone()
+                        if row: author_to_notify = row[0]
+                    elif target_type == 'essay':
                         cur.execute(f"SELECT author FROM user_essays WHERE id={p}", (target_id,))
-                    row = cur.fetchone()
-                    if row and row[0] != username:
+                        row = cur.fetchone()
+                        if row: author_to_notify = row[0]
+                    elif target_type == 'word':
+                        author_to_notify = target_author
+                        
+                    if author_to_notify and author_to_notify != username:
                         add_notification(
-                            row[0],
+                            author_to_notify,
                             'flourish',
                             f'{username} があなたの投稿を繁栄させました ✦',
                             ''
