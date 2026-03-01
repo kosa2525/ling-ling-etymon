@@ -45227,5 +45227,267 @@ const WORDS = [
                 "source": "Oxford English Dictionary",
                 "date": "2026-03-01",
                 "era": "Late Middle English"
+        },
+        {
+                "id": "increase",
+                "word": "Increase",
+                "part_of_speech": "noun/verb",
+                "meaning": "増加、拡大",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "in-",
+                                        "type": "prefix",
+                                        "meaning": "中に、上昇",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "crescere",
+                                        "type": "root",
+                                        "meaning": "育つ、成長する",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'increase' comes from the Latin 'in-' meaning 'into' and 'crescere' meaning 'to grow'."
+                },
+                "core_concept": {
+                        "en": "A harmonious ascent towards fullness.",
+                        "ja": "満ち足りた状態への調和のとれた上昇"
+                },
+                "thinking_layer": "人生の瞬間は、川のように流れ、時には急流と化し、時には穏やかに注ぐ。物事がまた、日常の一部となるように増加し、私たちの存在の根底に潜む。『増加』とは、単なる物理的な増量を意味するだけではない。それは人生そのものの一部として、内なる変容と外なる広がりを象徴する。調和の取れた増加は、人と自然の織り成すバランスの中で成り立っており、成長の道のりは内なる静けさと外なる追求の共鳴の結果といえるかもしれない。たとえば、木が年輪を重ねるごとに高さを増すように、人間の知識や経験もまた、新たな可能性を育んでいく。そして、そのプロセスには時に忍耐と努力を伴うが、それによって新しい視野が開けるのだ。増加は決して急進的な勝利を意味するのではなく、熟成し、培われる流れの彼方に存在する真実の鼓動ともとらえられる。増加の本質は、われわれが自分自身と世界をどのように認識するかに深く結びついているのであろう。",
+                "synonyms": [
+                        "Growth",
+                        "Expansion"
+                ],
+                "antonyms": [
+                        "Decrease",
+                        "Reduction"
+                ],
+                "aftertaste": "In every increase lies the potential for profound transformation.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "crescere",
+                                        "meaning": "to grow, to arise"
+                                }
+                        ],
+                        "points": [
+                                "ラテン語のルーツに基づく増加の概念は、自然界の成長サイクルを忠実に反映している。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "14th Century"
+        },
+        {
+                "id": "interact",
+                "word": "Interact",
+                "part_of_speech": "verb",
+                "meaning": "相互に影響を与え合うこと",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "inter-",
+                                        "type": "prefix",
+                                        "meaning": "間の",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "act",
+                                        "type": "root",
+                                        "meaning": "行動する",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The term 'interact' originates from the Latin 'inter-', meaning 'between', and 'act', meaning 'to act'."
+                },
+                "core_concept": {
+                        "en": "The poetic dance of energies entwined in mutual connection.",
+                        "ja": "繋がりの中で絡み合うエネルギーの詩的な舞い"
+                },
+                "thinking_layer": "人と人、物事と物事が出会い、交錯し合う時に生まれる化学反応、それが相互作用である。生命の神秘は、すべての存在が孤立した存在ではなく、絶えず関わり合い、影響し合うことにある。何かが他の何かに影響を与える際に、その影響は次々と波及し、広がっていく。この広がりは、時に思いがけない未来を切り開き、時に新しい自己を発見する旅路となる。「相互作用」とは実に深い概念であり、物理的な交差点のみならず、心と心の交わる場を創造するものである。人間の歴史、自然の設計、宇宙の理（ことわり）にまでその働きは及び、それぞれの存在が孤立することなど決してないのだ。そして、その世界の中で私たちは、ひとりであってひとりではなく、多くの層が折り重なった大きな布の一部として生きていると言えよう。この交じり合いは、詩的なる調和へと至る道標でもある。",
+                "synonyms": [
+                        "collaborate",
+                        "connect"
+                ],
+                "antonyms": [
+                        "isolate",
+                        "separate"
+                ],
+                "aftertaste": "In interaction, we find the endless dance of life unfolding.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "inter",
+                                        "meaning": "between"
+                                },
+                                {
+                                        "term": "act",
+                                        "meaning": "to do, drive"
+                                }
+                        ],
+                        "points": [
+                                "語源的に追うと、ラテン語の「inter-（間）」と「act（行動する）」が結びつき、相互に影響を与え合うという意味を持つ。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "Early 15th Century"
+        },
+        {
+                "id": "complete",
+                "word": "Complete",
+                "part_of_speech": "adjective",
+                "meaning": "全体を成している、欠けるところがない",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "com-",
+                                        "type": "prefix",
+                                        "meaning": "共に",
+                                        "lang": "ラテン語"
+                                },
+                                {
+                                        "text": "plēre",
+                                        "type": "root",
+                                        "meaning": "満たす",
+                                        "lang": "ラテン語"
+                                }
+                        ],
+                        "original_statement": "The word 'complete' originates from the Latin 'completus', which is the past participle of 'complere' meaning 'to fill up', derived from 'com-' (together) and 'plēre' (to fill)."
+                },
+                "core_concept": {
+                        "en": "The harmonious wholeness of being.",
+                        "ja": "調和の取れた存在の全体性"
+                },
+                "thinking_layer": "『完全』とは、存在の究極的な全体性を表す言葉であり、物事がその本質において欠けることなく、全ての部分が相互に関係・統合されている状態を指します。完成された瞬間には、新たな可能性の扉が開き、未知の領域への旅路が始まります。このようにして、全体性の感覚は一時的な到達点であると同時に、さらなる成長への契機ともなります。また、完全性は静的ではなく、ダイナミックなプロセスです。それは常に自らを問い直し、変化し続ける生命の流れの中で、その都度新たな均衡を見出す試みでもあります。完全であること、それは静止した完璧ではなく、調和の追求を通じて徐々に形成されてゆくものであり、個々の経験や知識が融合する地点です。それゆえ、完全性は人間の心の奥深くに埋め込まれた永遠の探求であり、無限の宇宙における普遍的な秩序の反映でもあります。",
+                "synonyms": [
+                        "Total",
+                        "Whole"
+                ],
+                "antonyms": [
+                        "Incomplete",
+                        "Partial"
+                ],
+                "aftertaste": "Completion is but the beginning of greater journeys.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "com-",
+                                        "meaning": "Together, together with"
+                                },
+                                {
+                                        "term": "plēre",
+                                        "meaning": "To fill"
+                                }
+                        ],
+                        "points": [
+                                "「完全」という概念は、物質的な満足以上に、精神的な充実に関与しています。すべての要素が結びつき、共鳴することで生み出される深遠な秩序の印象がそこにあります。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "Late 14th Century"
+        },
+        {
+                "id": "press",
+                "word": "Press",
+                "part_of_speech": "noun/verb",
+                "meaning": "圧力をかけて押し付けるまたは印刷すること",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "press",
+                                        "type": "root",
+                                        "meaning": "押し付ける",
+                                        "lang": "ラテン語"
+                                }
+                        ],
+                        "original_statement": "The word 'press' originates from the Latin 'pressare', which is the frequentative of 'premere', meaning 'to press' or 'to squeeze'."
+                },
+                "core_concept": {
+                        "en": "The gentle force of creation and communication.",
+                        "ja": "創造とコミュニケーションの柔和な力"
+                },
+                "thinking_layer": "「押す」という行為は、物理的な行動であると同時に、私たちの精神にも深い影響を与えるものです。それは一種の意思表示でもあり、空白なキャンバスの上に自分の存在や思考を刻み込む行為ともいえます。この単語の歴史をたどると、古代ラテン語の「premere」に由来し、その後の発展を経て多様な意味を含むようになりました。「押す」という行為は、力を加え、形を作り、さらに新たなアイデアを生み出す出発点なのです。その動作は、私たちの存在の根源につながる哲学的な行為ともなり、私たちは無意識のうちにその圧力にも形にも意味を与えるのです。このように、押す力が持つ多面的な意義は、「プレス」という言葉そのものが持つ深い哲学的価値でもあります。",
+                "synonyms": [
+                        "compress",
+                        "push"
+                ],
+                "antonyms": [
+                        "relax",
+                        "release"
+                ],
+                "aftertaste": "Press embodies the tension between creation and compression.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "premere",
+                                        "meaning": "to press, to squeeze"
+                                }
+                        ],
+                        "points": [
+                                "この単語は古代の印刷技術や情報伝達の進化において時代を超えて重要な役割を果たした。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "From Latin 'pressare', frequentative of 'premere'."
+        },
+        {
+                "id": "adjacent",
+                "word": "Adjacent",
+                "part_of_speech": "adjective",
+                "meaning": "隣接した、近接した",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "ad-",
+                                        "type": "prefix",
+                                        "meaning": "〜の方へ",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "jacere",
+                                        "type": "root",
+                                        "meaning": "投げる、置く",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'adjacent' originates from the Latin 'adiacēns', stemming from 'adiacere' meaning 'to lie near'."
+                },
+                "core_concept": {
+                        "en": "A gentle whisper of closeness, where boundaries kiss.",
+                        "ja": "境界が重なり合う優しい囁き。"
+                },
+                "thinking_layer": "『隣接』という言葉には、物理的な近接以上の意味がある。この世界のすべてのものは、目に見えるか見えないかに関係なく、影響し合いながら存在している。隣接とは、互いに影響を与え合い、共存することを示す１つの姿である。物理的な距離だけでなく、心と心の響き合いや、アイデアが重なり合う瞬間も含め、全ての隣接は新たな価値を生む契機となる。科学における分野間の学際的な協働、芸術における色彩の微妙な交錯、あるいは人々の思考が溶け合う議論の場がその例の一つだ。隣接は、私たちがこの広大な宇宙の中で、互いに結びつきあう奇跡を静かに語る言葉であり、その背景には見えない力が働いている。現代において、物理的空間の限界がデジタル技術によって拡張される中、人々のつながりのあり方は大きく変容している。しかし、それでもなお、隣接は距離を超えた関係を築くための架け橋である。この漸近的な結びつきから生まれる知恵が、新たな未来をもたらすだろう。",
+                "synonyms": [
+                        "neighboring",
+                        "abut"
+                ],
+                "antonyms": [
+                        "distant",
+                        "isolated"
+                ],
+                "aftertaste": "The nearness of things whispers its own kind of music.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "adiacere",
+                                        "meaning": "to lie near"
+                                }
+                        ],
+                        "points": [
+                                "言語の歴史的進化において『隣接』という概念は、ラテン語からフランス語を経て、英語圏においてもそのままの姿勢を保ちながら、より抽象的な距離の概念へと拡張した。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "15th Century"
         }
 ];
