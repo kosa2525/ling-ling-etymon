@@ -1006,17 +1006,54 @@ async function renderWordNetwork(mode = 'global') {
 function renderTimeline() {
     const list = (typeof WORDS !== 'undefined') ? [...WORDS] : [];
 
-    // 時代ごとにグループ化
-    const allGroups = {};
-    list.forEach(w => {
-        const era = w.era || 'Unknown Era';
-        if (!allGroups[era]) allGroups[era] = [];
-        allGroups[era].push(w);
-    });
+    // --- 起源言語を抽出するヘルパー ---
+    const extractLanguage = (word) => {
+        const stmt = ((word.etymology && word.etymology.original_statement) || '').toLowerCase();
+        const era = (word.era || '').toLowerCase();
 
-    // 時代のだいたいの年代を推測してソートする関数
+        if (stmt.includes('proto-indo-european') || era.includes('proto-indo-european') || era.includes('pie')) return 'Proto-Indo-European';
+        if (stmt.includes('proto-germanic') || era.includes('proto-germanic')) return 'Proto-Germanic';
+        if (stmt.includes('ancient greek') || stmt.includes('from greek') || era.includes('ancient greek') || era.includes('greek')) return 'Ancient Greek';
+        if (stmt.includes('from latin') || era.includes('latin')) return 'Latin';
+        if (stmt.includes('old norse') || era.includes('old norse')) return 'Old Norse';
+        if (stmt.includes('old english') || era.includes('old english')) return 'Old English';
+        if (stmt.includes('old french') || era.includes('old french')) return 'Old French';
+        if (stmt.includes('middle english') || era.includes('middle english')) return 'Middle English';
+        if (stmt.includes('from french') || era.includes('french')) return 'French';
+        if (stmt.includes('from arabic') || era.includes('arabic')) return 'Arabic';
+        if (stmt.includes('from italian') || era.includes('italian')) return 'Italian';
+        if (stmt.includes('from spanish') || era.includes('spanish')) return 'Spanish';
+        if (stmt.includes('from german') || era.includes('german')) return 'German';
+        if (stmt.includes('from dutch') || era.includes('dutch')) return 'Dutch';
+        if (stmt.includes('from japanese') || era.includes('japanese')) return 'Japanese';
+        if (stmt.includes('from hebrew') || era.includes('hebrew')) return 'Hebrew';
+        return 'Other / Unknown';
+    };
+
+    // --- 言語の時系列スコア ---
+    const LANG_SCORE = {
+        'Proto-Indo-European': -5000,
+        'Proto-Germanic': -2000,
+        'Ancient Greek': -800,
+        'Latin': -700,
+        'Old Norse': 850,
+        'Old English': 900,
+        'Old French': 950,
+        'Middle English': 1200,
+        'Arabic': 1300,
+        'French': 1400,
+        'Italian': 1450,
+        'Spanish': 1500,
+        'German': 1550,
+        'Dutch': 1600,
+        'Hebrew': 1700,
+        'Japanese': 1800,
+        'Other / Unknown': 9999,
+    };
+
+    // --- 単語内 era スコア（グループ内ソート用）---
     const getEraScore = (era) => {
-        const e = era.toLowerCase();
+        const e = (era || '').toLowerCase();
         if (e.includes('pie') || e.includes('proto')) return -10000;
         if (e.includes('ancient')) return -5000;
         if (e.includes('old english')) return -3000;
@@ -1026,17 +1063,54 @@ function renderTimeline() {
         if (cen) return parseInt(cen[1]) * 100;
         const yr = e.match(/(\d{3,4})/);
         if (yr) return parseInt(yr[1]);
-        if (e === 'unknown era' || e === 'archaic era') return 99999;
         return 0;
     };
 
-    const sortedEras = Object.keys(allGroups).sort((a, b) => getEraScore(a) - getEraScore(b));
+    // --- 言語別グループ化 ---
+    const allGroups = {};
+    list.forEach(w => {
+        const lang = extractLanguage(w);
+        if (!allGroups[lang]) allGroups[lang] = [];
+        allGroups[lang].push(w);
+    });
 
-    const eraToId = (era) => 'era-' + era.replace(/[^a-zA-Z0-9]/g, '_');
+    // 言語グループを時系列順にソート
+    const sortedLangs = Object.keys(allGroups).sort((a, b) =>
+        (LANG_SCORE[a] ?? 5000) - (LANG_SCORE[b] ?? 5000)
+    );
+
+    // 各言語グループ内をもとのeraスコアでソート
+    sortedLangs.forEach(lang => {
+        allGroups[lang].sort((a, b) => getEraScore(a.era) - getEraScore(b.era));
+    });
+
+    const langToId = (lang) => 'lang-' + lang.replace(/[^a-zA-Z0-9]/g, '_');
+
+    // 言語ラベルを絵文字付きで見やすく
+    const LANG_LABEL = {
+        'Proto-Indo-European': '🌍 Proto-Indo-European',
+        'Proto-Germanic': '🌿 Proto-Germanic',
+        'Ancient Greek': '🏛️ Ancient Greek',
+        'Latin': '🦅 Latin',
+        'Old Norse': '⚔️ Old Norse',
+        'Old English': '📜 Old English',
+        'Old French': '🏰 Old French',
+        'Middle English': '🗺️ Middle English',
+        'Arabic': '🌙 Arabic',
+        'French': '🥐 French',
+        'Italian': '🍕 Italian',
+        'Spanish': '🌞 Spanish',
+        'German': '🍺 German',
+        'Dutch': '🌷 Dutch',
+        'Hebrew': '✡️ Hebrew',
+        'Japanese': '🌸 Japanese',
+        'Other / Unknown': '❓ Other / Unknown',
+    };
 
     viewContainer.innerHTML = `
-        <div class="timeline-root fade-in" style="position:relative; display:flex; flex-direction:column; max-width:900px; margin:0 auto; padding: 2rem 1rem 1rem;">
-            <h3 class="section-label" style="text-align:center; margin-bottom:1.5rem;">River of Etymon (Timeline)</h3>
+        <div class="timeline-root fade-in" style="position:relative; display:flex; flex-direction:column; max-width:960px; margin:0 auto; padding: 2rem 1rem 1rem;">
+            <h3 class="section-label" style="text-align:center; margin-bottom:0.5rem;">River of Etymon</h3>
+            <p style="text-align:center; font-size:0.8rem; opacity:0.5; margin-bottom:1.5rem;">Grouped by language of origin · Chronological order</p>
 
             <!-- 検索バー -->
             <div style="margin-bottom:2rem; position:sticky; top:0; z-index:30; background:var(--color-bg); padding:0.75rem 0;">
@@ -1045,24 +1119,30 @@ function renderTimeline() {
                     oninput="window._tlSearch(this.value)" />
             </div>
 
-            <div style="display:flex; gap:1.5rem; align-items:flex-start; position:relative;">
+            <div style="display:flex; gap:1.5rem; align-items:flex-start;">
                 <!-- タイムライン本体 -->
                 <div id="timeline-scroll-area" style="flex:1; min-width:0;">
-                    <div class="timeline-thread" id="timeline-thread" style="position:relative; border-left: 2px solid var(--color-border); padding-left: 2.5rem; margin-left: 1rem;">
-                        ${sortedEras.map(era => `
-                            <div class="era-group" id="${eraToId(era)}" data-era="${era}" style="margin-bottom: 4rem;">
-                                <h4 style="font-size:1.3rem; color:var(--color-premium); margin-bottom: 1.5rem; position:relative;">
+                    <div class="timeline-thread" style="position:relative; border-left: 2px solid var(--color-border); padding-left: 2.5rem; margin-left: 1rem;">
+                        ${sortedLangs.map(lang => `
+                            <div class="era-group" id="${langToId(lang)}" data-era="${lang}" style="margin-bottom: 4rem;">
+                                <h4 style="font-size:1.25rem; color:var(--color-premium); margin-bottom: 1.5rem; position:relative; display:flex; align-items:center; gap:0.5rem;">
                                     <span style="position:absolute; left: calc(-2.5rem - 11px); top: 50%; transform:translateY(-50%); width:20px; height:20px; background:var(--color-bg); border-radius:50%; border:4px solid var(--color-premium);"></span>
-                                    ${era}
+                                    ${LANG_LABEL[lang] || lang}
+                                    <span style="font-size:0.7rem; font-weight:400; opacity:0.5; margin-left:0.5rem;">${allGroups[lang].length} words</span>
                                 </h4>
                                 <div class="era-entries">
-                                ${allGroups[era].map(w => `
-                                    <div class="timeline-entry" data-word="${w.word.toLowerCase()}" data-meaning="${(w.meaning || '').toLowerCase()}"
+                                ${allGroups[lang].map(w => `
+                                    <div class="timeline-entry"
+                                        data-word="${w.word.toLowerCase()}"
+                                        data-meaning="${(w.meaning || '').toLowerCase()}"
                                         onclick="State.todayWord=(typeof WORDS !== 'undefined') ? WORDS.find(x=>x.id==='${w.id}') : null;navigate('today')"
-                                        style="position:relative; margin-bottom:2rem; cursor:pointer; padding:1rem 1.2rem; border:1px solid var(--color-border); border-radius:16px; background:var(--color-surface); transition:all 0.2s ease;">
-                                        <div style="position:absolute; left: calc(-2.5rem - 9px); top: 18px; width:14px; height:14px; background:var(--color-accent); border-radius:50%; border:3px solid var(--color-bg);"></div>
-                                        <h2 style="font-size:1.4rem; color:var(--color-accent); margin-bottom:0.3rem;">${w.word}</h2>
-                                        <p style="opacity:0.75; font-size:0.9rem;">${w.meaning || ''}</p>
+                                        style="position:relative; margin-bottom:1.2rem; cursor:pointer; padding:0.9rem 1.2rem; border:1px solid var(--color-border); border-radius:14px; background:var(--color-surface); transition:all 0.2s ease;">
+                                        <div style="position:absolute; left: calc(-2.5rem - 8px); top: 16px; width:12px; height:12px; background:var(--color-accent); border-radius:50%; border:3px solid var(--color-bg);"></div>
+                                        <div style="display:flex; align-items:baseline; gap:0.6rem; flex-wrap:wrap;">
+                                            <h2 style="font-size:1.2rem; color:var(--color-accent);">${w.word}</h2>
+                                            ${w.era ? `<span style="font-size:0.7rem; opacity:0.45; font-style:italic;">${w.era}</span>` : ''}
+                                        </div>
+                                        <p style="opacity:0.7; font-size:0.85rem; margin-top:0.2rem;">${w.meaning || ''}</p>
                                     </div>
                                 `).join('')}
                                 </div>
@@ -1072,11 +1152,11 @@ function renderTimeline() {
                     <p id="tl-no-results" style="display:none; text-align:center; padding:4rem; opacity:0.5;">No words matched your search.</p>
                 </div>
 
-                <!-- 右サイドバー: 時代ナビゲーター -->
+                <!-- 右サイドバー: 言語ナビゲーター -->
                 <div id="era-nav" style="
                     position: sticky;
                     top: 100px;
-                    width: 130px;
+                    width: 140px;
                     flex-shrink: 0;
                     max-height: calc(100vh - 140px);
                     overflow-y: auto;
@@ -1085,13 +1165,13 @@ function renderTimeline() {
                     border-left: 2px solid var(--color-border);
                     padding-left: 0.75rem;
                 ">
-                    <p style="font-size:0.65rem; text-transform:uppercase; letter-spacing:0.08em; opacity:0.4; margin-bottom:0.5rem;">Jump to Era</p>
-                    ${sortedEras.map(era => `
-                        <button onclick="document.getElementById('${eraToId(era)}').scrollIntoView({behavior:'smooth', block:'start'})"
-                            id="nav-${eraToId(era)}"
+                    <p style="font-size:0.62rem; text-transform:uppercase; letter-spacing:0.08em; opacity:0.4; margin-bottom:0.5rem;">Jump to Language</p>
+                    ${sortedLangs.map(lang => `
+                        <button onclick="document.getElementById('${langToId(lang)}').scrollIntoView({behavior:'smooth', block:'start'})"
+                            id="nav-${langToId(lang)}"
                             class="era-nav-item"
-                            style="display:block; width:100%; text-align:left; background:none; border:none; color:var(--color-text-dim); font-size:0.72rem; padding:0.3rem 0.4rem; margin-bottom:0.1rem; cursor:pointer; border-radius:6px; line-height:1.4; transition:all 0.15s; white-space:normal; word-break:break-word;">
-                            ${era}
+                            style="display:block; width:100%; text-align:left; background:none; border:none; color:var(--color-text-dim); font-size:0.7rem; padding:0.3rem 0.4rem; margin-bottom:0.1rem; cursor:pointer; border-radius:6px; line-height:1.4; transition:all 0.15s; white-space:normal; word-break:break-word;">
+                            ${LANG_LABEL[lang] || lang}
                         </button>
                     `).join('')}
                 </div>
@@ -1099,18 +1179,18 @@ function renderTimeline() {
         </div>
     `;
 
-    // ホバースタイル付与
+    // ホバースタイル
     viewContainer.querySelectorAll('.timeline-entry').forEach(el => {
-        el.addEventListener('mouseenter', () => { el.style.borderColor = 'var(--color-accent)'; el.style.transform = 'translateX(4px)'; });
+        el.addEventListener('mouseenter', () => { el.style.borderColor = 'var(--color-accent)'; el.style.transform = 'translateX(3px)'; });
         el.addEventListener('mouseleave', () => { el.style.borderColor = 'var(--color-border)'; el.style.transform = ''; });
     });
 
-    // IntersectionObserver: 現在表示中の時代をサイドバーでハイライト
+    // IntersectionObserver でサイドバーハイライト
     const eraGroups = viewContainer.querySelectorAll('.era-group');
     const observer = new IntersectionObserver((entries) => {
         entries.forEach(entry => {
-            const era = entry.target.dataset.era;
-            const navBtn = document.getElementById(`nav-${eraToId(era)}`);
+            const lang = entry.target.dataset.era;
+            const navBtn = document.getElementById(`nav-${langToId(lang)}`);
             if (!navBtn) return;
             if (entry.isIntersecting) {
                 navBtn.style.color = 'var(--color-accent)';
@@ -1122,7 +1202,7 @@ function renderTimeline() {
                 navBtn.style.background = '';
             }
         });
-    }, { rootMargin: '-20% 0px -60% 0px' });
+    }, { rootMargin: '-15% 0px -55% 0px' });
     eraGroups.forEach(el => observer.observe(el));
 
     // 検索機能
@@ -1140,7 +1220,7 @@ function renderTimeline() {
                 if (match) eraHasMatch = true;
             });
             eraGroup.style.display = eraHasMatch ? '' : 'none';
-            const navBtn = document.getElementById(`nav-${eraToId(eraGroup.dataset.era)}`);
+            const navBtn = document.getElementById(`nav-${langToId(eraGroup.dataset.era)}`);
             if (navBtn) navBtn.style.opacity = eraHasMatch ? '1' : '0.3';
             if (eraHasMatch) anyVisible = true;
         });
@@ -1148,6 +1228,9 @@ function renderTimeline() {
         if (noResults) noResults.style.display = anyVisible ? 'none' : 'block';
     };
 }
+
+
+
 
 function showToast(msg) {
     const container = document.getElementById('toast-container');
