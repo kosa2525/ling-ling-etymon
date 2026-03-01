@@ -38219,5 +38219,385 @@ const WORDS = [
                 "source": "Oxford English Dictionary",
                 "date": "2026-03-01",
                 "era": "14th Century"
+        },
+        {
+                "id": "explain",
+                "word": "Explain",
+                "part_of_speech": "verb",
+                "meaning": "説明する",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "ex-",
+                                        "type": "prefix",
+                                        "meaning": "外に",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "planare",
+                                        "type": "root",
+                                        "meaning": "平らにする",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'explain' originates from the Latin 'explanare', meaning 'to make plain or clear'."
+                },
+                "core_concept": {
+                        "en": "To unfold the intricacies of the unseen, rendering the murmurings of mystery audible to the soul.",
+                        "ja": "見えないものの織りを解きほぐし、魂に謎のささやきを聞かせること。"
+                },
+                "thinking_layer": "言葉というものは、時として神秘を解き明かす姿を持つ。『説明する』という行為は、実際に目に見えない織り物を我々に示す試みである。例えば、太陽が雲の中から顔を出す時、天空の覆いが優雅に持ち上げられる。それは、長い夢から目覚める瞬間のようなものであり、明瞭さと真理に包まれる時である。説明とは、ただ情報を提供するだけではなく、私たちの内なる世界を明るく照らすことである。この行為には、過去から未来に向けて流れる川のような流れる時間が存在し、その水面には真実の欠片が時折輝く。人々の心の奥に秘密を浸透させるには、これらの光の瞬きを言葉に結びつける力が必要となる。だからこそ、『説明』とは、哲学的な存在としての言葉の舞台に、真実の舞台装置を設置するものである。",
+                "synonyms": [
+                        "clarify",
+                        "elucidate"
+                ],
+                "antonyms": [
+                        "obscure",
+                        "confuse"
+                ],
+                "aftertaste": "Explanation is the bridge between the unknown and understanding.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "ex-",
+                                        "meaning": "out"
+                                },
+                                {
+                                        "term": "planare",
+                                        "meaning": "to make plain"
+                                }
+                        ],
+                        "points": [
+                                "『説明』は、ラテン語に起源を持ち、外に出す、平らにするという二つの要素が結びついて成立した。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "Latin Origin, circa Middle Ages"
+        },
+        {
+                "id": "confide",
+                "word": "Confide",
+                "part_of_speech": "verb",
+                "meaning": "秘密を明かす、信用して頼る",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "con-",
+                                        "type": "prefix",
+                                        "meaning": "共に",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "fidere",
+                                        "type": "root",
+                                        "meaning": "信じる",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'confide' originates from the Latin verb 'confidere', meaning to trust wholly."
+                },
+                "core_concept": {
+                        "en": "The delicate dance of trust shared between souls.",
+                        "ja": "魂と魂の間で分かち合われる繊細な信頼の舞"
+                },
+                "thinking_layer": "人は心の奥底に秘密を抱き、時に他者にその重みを託すことで、自らを軽くし、新たな関係性を築く。しかし、信頼という名の橋は周到に築かねば、渡ろうとした途端に崩れ去ることもある。信頼が持つ力は、言葉で語ることができぬほど強大であり、揺らぎやすい。信頼は心の絆を強固にする接着剤であり、それが裏切られたときの失望は果てしなく深い。だからこそ、信頼をかける相手を選ぶことは、自己の存在を見つめ直す行為に等しい。人生の中で何度も出会う選択の中で、信頼は見えない希望の糸を紡ぎ出し、人々を結びつけ、人を育む種となる。秘密を打ち明ける行為は表面的には小さな一歩のようだが、心の奥に流れる大いなる安心感と安寧を伴う流れに飛び込む決意を示しているのだ。",
+                "synonyms": [
+                        "entrust",
+                        "reveal"
+                ],
+                "antonyms": [
+                        "mistrust",
+                        "conceal"
+                ],
+                "aftertaste": "Confide, and let the whispers weave trust.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "fidere",
+                                        "meaning": "to trust"
+                                }
+                        ],
+                        "points": [
+                                "言葉『信頼』は、人間の複雑な心の結びつきと信頼の儚さを表すものである。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "15th Century"
+        },
+        {
+                "id": "implicate",
+                "word": "Implicate",
+                "part_of_speech": "verb",
+                "meaning": "巻き込む、関係させる",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "in-",
+                                        "type": "prefix",
+                                        "meaning": "中に",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "plicare",
+                                        "type": "root",
+                                        "meaning": "折る、重ねる",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "Derived from Latin 'implicare', meaning 'to fold in or involve'."
+                },
+                "core_concept": {
+                        "en": "To weave into the very fabric of reality.",
+                        "ja": "現実の織物に編み込むこと"
+                },
+                "thinking_layer": "言葉「インプリケート」は、自身の中に他者を包み込み、不可分の一部として取り込むことを示している。この概念は、異なる要素が交錯し、相互に影響を及ぼしあう複雑なネットワークを形成する様子を描写する。哲学的には、私たちが他者と関わる時、その関わりが私たち自身の存在をどのように再定義しているかを考えさせられる。インプリケートすることで、人は孤立した個ではなく、他者との触れ合いを通じて絶えず変容する存在であることを認識する。現代社会においても、自らが他者とどのように糸を紡いでいるかを考え、共存共栄を目指す姿勢が求められる。互いに影響され、影響を受けるこの連鎖が、命の輝きと影の両面を丹念に織り上げるのである。それもまた、宇宙の神秘の一端を垣間見る旅路と言えよう。",
+                "synonyms": [
+                        "involve",
+                        "entangle"
+                ],
+                "antonyms": [
+                        "exclude",
+                        "separate"
+                ],
+                "aftertaste": "Implicate, and you become a part of the world's continuous dialogue.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "plicare",
+                                        "meaning": "to fold, to braid"
+                                }
+                        ],
+                        "points": [
+                                "ラテン語の 'plicare' から派生した言葉で、元々は物理的に折りたたむという意味を持つ。時の流れと共に、より抽象的な『関与させる』という意味を帯びてきた。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "14th Century"
+        },
+        {
+                "id": "suppose",
+                "word": "Suppose",
+                "part_of_speech": "verb",
+                "meaning": "仮定する、想像する",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "sub-",
+                                        "type": "prefix",
+                                        "meaning": "下に",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "ponere",
+                                        "type": "root",
+                                        "meaning": "置く",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "Derived from the Latin 'supponere' meaning 'to put under', which evolved through Old French to Middle English."
+                },
+                "core_concept": {
+                        "en": "The gentle act of laying down ideas with grace and humility.",
+                        "ja": "考えを優雅に、そして慎ましやかに置く行為。"
+                },
+                "thinking_layer": "「仮定」というコンセプトは、実に人間の思考力が花開く瞬間を象徴している。我々が何かを仮定する時、それは物理的現実を超えた精神の飛翔である。日本語の「仮定」は、現実の土台上に見えない橋を架け、新たな視点と可能性を求める行為を表す。その行為には、未来への期待と心の余裕が含まれるが、同時に立ち返る土台が必要である。仮定は確かに時には不安定であるが、その不安定さこそが新たな発見のきっかけであり、想像力の源である。仮定とは無限の可能性を抱え、未だ存在しない世界を心に描き出す魔法の杖であり、それは未知の海に向かって帆を上げる船である。我々が仮定を抱いた瞬間、現実と可能性の狭間に立ち、新たな光を見出す冒険の始まりとなるのだ。",
+                "synonyms": [
+                        "Assume",
+                        "Presume"
+                ],
+                "antonyms": [
+                        "Know",
+                        "Prove"
+                ],
+                "aftertaste": "To suppose is to navigate the realm of possibility with imagination as your guide.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "sub-",
+                                        "meaning": "under"
+                                },
+                                {
+                                        "term": "ponere",
+                                        "meaning": "to place"
+                                }
+                        ],
+                        "points": [
+                                "「仮定する」という語の歴史は、ラテン語まで遡り、根底には何かを「下に置く」という意味がある。仮定とは、単に想像するだけでなく、その想像を土台に新たな理解を構築する知的プロセスである。この『置く』という行為は、精神的な知恵がグランドに混じり合う様を描写している。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "14th Century"
+        },
+        {
+                "id": "affection",
+                "word": "Affection",
+                "part_of_speech": "noun",
+                "meaning": "愛情、好意",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "affect-",
+                                        "type": "root",
+                                        "meaning": "影響",
+                                        "lang": "ラテン語"
+                                },
+                                {
+                                        "text": "-tion",
+                                        "type": "suffix",
+                                        "meaning": "状態",
+                                        "lang": "ラテン語"
+                                }
+                        ],
+                        "original_statement": "The word 'affection' originates from the Latin 'affectio', meaning 'a relation, disposition, or state of mind', which evolved through French influence."
+                },
+                "core_concept": {
+                        "en": "A gentle and warm emotional tendency that flows from the heart and connects souls.",
+                        "ja": "心から湧き上がり、魂を結びつける穏やかで暖かい感情の傾向"
+                },
+                "thinking_layer": "愛情とは、心と心が織り成す無形の糸であり、人間の存在に欠かせない要素である。日々の営みの中で、我々は他者との絆を築き、感情の交流を図ろうとするが、愛情はそこに流れる見えざる光であり、また同時に影でもある。愛情は時に脆く、不確かなものである一方で、その力強さは疑う余地がない。それは、個々の存在を越えた関係性における本質であり、心の奥深くに根付いた真実として、我々の生きる意味を照らし出す。吾々が人間として成長していく過程において、愛情は指針となり、日常の中での小さな奇跡として再現される。愛情の本質を紐解く試みは、人間の有限性と無限性を探る旅の一環であり、時空を超えた精神の探求であろう。我々は愛情という懐中を胸に、果てしない孤独と共存し、互いの存在をより深く認識する。",
+                "synonyms": [
+                        "fondness",
+                        "attachment"
+                ],
+                "antonyms": [
+                        "indifference",
+                        "dislike"
+                ],
+                "aftertaste": "Affection is a gentle yet profound force that transcends the mundane.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "affect",
+                                        "meaning": "to influence or move"
+                                },
+                                {
+                                        "term": "tion",
+                                        "meaning": "state or condition"
+                                }
+                        ],
+                        "points": [
+                                "愛情はラテン語の「affectio」に由来し、心の状態や傾向を表す。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "Late Middle English (14th Century)"
+        },
+        {
+                "id": "commendable",
+                "word": "Commendable",
+                "part_of_speech": "adjective",
+                "meaning": "称賛に値する",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "commend-",
+                                        "type": "root",
+                                        "meaning": "称賛する",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "-able",
+                                        "type": "suffix",
+                                        "meaning": "可能な",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'commendable' originates from Late Middle English, derived from the Latin 'commendabilis', which combines 'commendare', meaning 'to commend', with the suffix '-able', expressing capability or worthiness."
+                },
+                "core_concept": {
+                        "en": "The noble echo of virtue worthy of praise.",
+                        "ja": "賞賛に値する徳の高貴な響き"
+                },
+                "thinking_layer": "言葉には己の魂を乗せ、他者の心に届ける力があります。人間の営みは、誰かを称賛することでその価値を高め、より良い世界を築く一助を担います。「commendable」は単に「称賛されるべき」という意味以上に、それが我々の存在の核心にどのように迫るのかを示す哲学的な道標です。称賛する行為は、私たちの感性を研ぎ澄ますと同時に、他者への理解と共感を深めます。この言葉には、内なる善意を意識し、互いの美徳を認め合うことで、人間関係を豊かにし、精神的な成長を促す力が秘められています。名誉を高めることは、個人だけでなく共同体の繁栄へと繋がります。美しい行いを称賛するという行為は、宇宙の調和を再び思い起こさせ、心に平穏をもたらすのです。「commendable」という言葉は、この地上に散りばめられた美徳を見出し、その光を他者と分かち合おうとするまさにその行動そのものを表しています。",
+                "synonyms": [
+                        "Praiseworthy",
+                        "Admirable"
+                ],
+                "antonyms": [
+                        "Blameworthy",
+                        "Discreditable"
+                ],
+                "aftertaste": "Every commendable act is a whisper of the soul's grandeur.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "commend-",
+                                        "meaning": "to entrust, to praise"
+                                },
+                                {
+                                        "term": "-able",
+                                        "meaning": "capable of, worthy of"
+                                }
+                        ],
+                        "points": [
+                                "「commendable」という言葉の語源は、他者への称賛と評価の概念に根差しています。ラテン語の 'commendare' は「安全な手に預ける」という信頼と確保の意味を持ち、その行為が時間を経て尊敬を導くという古代の考え方を反映しています。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Late Middle English"
+        },
+        {
+                "id": "affirmative",
+                "word": "Affirmative",
+                "part_of_speech": "adjective",
+                "meaning": "肯定的な、確証を与える",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "affirm-",
+                                        "type": "root",
+                                        "meaning": "肯定する",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "-ative",
+                                        "type": "suffix",
+                                        "meaning": "〜の性質を持つ",
+                                        "lang": "English"
+                                }
+                        ],
+                        "original_statement": "Originating from the Latin 'affirmativus', which relates to affirming or asserting."
+                },
+                "core_concept": {
+                        "en": "A resonant validation echoing in the chambers of certainty.",
+                        "ja": "確実性の中に響く共鳴する検証"
+                },
+                "thinking_layer": "肯定的という言葉は、ただ単に同意や賛同を示すだけでなく、存在の確証を深く根付かせるものです。それは人間の意識が世界に対し「私は在る」と述べる最初の宣言のように根本的なものです。この言葉の奥底には、何かを全身で受け止め、受け入れ、それが果たされることへの希望と信頼が隠されています。肯定的であることは、すべての不確実性の中で光を見出し、いまだ見えない未来に向かって前進する力を持つことです。私たちが信じる価値を保ちながら、混沌を統合し、和解へと向かう道筋を描くのです。その結果、肯定は単なる感情以上の境界を超えた深い安定感をもたらします。それは魂の自由を導き、未知の領域への旅となるのです。そしてその時、肯定は我々を勇ましく前進させ、より高い精神の状態を目指させる力を持っています。",
+                "synonyms": [
+                        "Positive",
+                        "Assertive"
+                ],
+                "antonyms": [
+                        "Negative",
+                        "Contradictory"
+                ],
+                "aftertaste": "The essence of affirmation lies in the heart of existence itself.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "affirm",
+                                        "meaning": "to make firm"
+                                }
+                        ],
+                        "points": [
+                                "『affirmative』は、ラテン語の „affirmare” が語源で、意味は断言することや確証することに由来します。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "Late 14th Century"
         }
 ];
