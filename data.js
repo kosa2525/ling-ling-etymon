@@ -46720,5 +46720,217 @@ const WORDS = [
                 "source": "Online Etymology Dictionary",
                 "date": "2026-03-01",
                 "era": "Late Middle English, Latin origin"
+        },
+        {
+                "id": "regulate",
+                "word": "Regulate",
+                "part_of_speech": "verb",
+                "meaning": "規制する、統制する",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "regula-",
+                                        "type": "root",
+                                        "meaning": "規則、定規",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "-ate",
+                                        "type": "suffix",
+                                        "meaning": "動詞を作る接尾辞",
+                                        "lang": "English"
+                                }
+                        ],
+                        "original_statement": "The word 'regulate' originates from the Latin 'regulare', derived from 'regula', meaning rule or guide, forming the basis for controlling or directing according to certain standards or laws."
+                },
+                "core_concept": {
+                        "en": "To manage and harmonize the flow of existence.",
+                        "ja": "存在の流れを管理し調和すること"
+                },
+                "thinking_layer": "『規制』という語は、単なる統制や制約の意味を超えて、宇宙の調和を反映した概念である。私たちの人生において、どのように調和と規律をもたらすのかを考えるとき、この語の深層に触れることができる。我々個人の内なる秩序と外界との相互作用は、多くの制御され難い力の中で微細に調整されている。規制はそのような力に秩序を与え、社会的そして個人的な成長を可能にする。我々の住む広大な宇宙の中では、物事が秩序を保ちながら進化し続けるためには、規制の概念が不可欠である。この言葉は単なる法律制度の維持だけでなく、心の中に静穏と安定をもたらす指針でもある。終わらない変化の中、規制はその流れを滑らかにし、人生の意味を再確認する助けとなる。規制は無限の多様性の中で一筋の光を差し、自分の意識の奥深くへと導く、哲学的なきっかけでもある。",
+                "synonyms": [
+                        "Control",
+                        "Manage"
+                ],
+                "antonyms": [
+                        "Neglect",
+                        "Deregulate"
+                ],
+                "aftertaste": "Regulate harmonizes chaos into order.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "regula",
+                                        "meaning": "rule, guide"
+                                }
+                        ],
+                        "points": [
+                                "『regulate』の語源はラテン語の『regula』であり、これは規則や指導を意味し、そこから制御や指導によって秩序を構築することに発展した。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "14th Century, Latin origin"
+        },
+        {
+                "id": "prevent",
+                "word": "Prevent",
+                "part_of_speech": "verb",
+                "meaning": "何かを事前に止めること、妨げること。",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "pre-",
+                                        "type": "prefix",
+                                        "meaning": "前に",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "venire",
+                                        "type": "root",
+                                        "meaning": "来る",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The term 'prevent' originated from the Latin 'praevenire', composed of 'prae' meaning 'before' and 'venire' meaning 'come'."
+                },
+                "core_concept": {
+                        "en": "To stand in the path before the things to come.",
+                        "ja": "来たるものの前に立ちはだかる"
+                },
+                "thinking_layer": "『防ぐ』とは、時間の流れにささやかに逆らう行為だ。私たちの行動は、何千年も続く人生の儀式の中で、未来を変える小さな石にすぎない。自己保存や他者の幸福のために、予期される未来の中で悪しき事態を遮る。それは、命の静寂を震わせ、私たち自身の物語の中で、知らず知らずのうちに鏤められた運命を変える試みだ。古の哲学者らは、この行為を運命と自由意志の葛藤として考えたのであろうか。『防ぐ』という言葉自体が持つ二重性、つまり予測と行動、その背後に宿る智慧と勇気を、何人もが己の価値観と折り合わせ、日々の選択に生かす。未来は決定されず、意志の介入によってのみ形作られる。知り得ぬことこそが真の恐れであり、そのえもいわれぬ未知に対して抵抗を試みるとき、人間は自らが立ち向かう運命をどのように乗り越えられるのか、その哲学的な命題に問いかけることになる。『防ぐ』とは、己の生命と他者の幸福を織り成す布の一糸であり、その意味を深く考えることこそが、人類の存在する意義のひとつなのである。",
+                "synonyms": [
+                        "avert",
+                        "hinder"
+                ],
+                "antonyms": [
+                        "allow",
+                        "permit"
+                ],
+                "aftertaste": "In prevention lies the art of seeing tomorrow's shadow today.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "venire",
+                                        "meaning": "to come"
+                                }
+                        ],
+                        "points": [
+                                "「防ぐ」という語の起源は、ほぼ一千年以上前のラテン語まで遡る。この語は、時間という普遍の流れに対して人が取り組む姿勢を象徴し、未来の予測と対策の両輪で成り立っている。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "15th Century"
+        },
+        {
+                "id": "accurate",
+                "word": "Accurate",
+                "part_of_speech": "adjective",
+                "meaning": "正確なこと",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "ad-",
+                                        "type": "prefix",
+                                        "meaning": "に向かって",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "curare",
+                                        "type": "root",
+                                        "meaning": "世話をする",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'accurate' is derived from the Latin 'accuratus', meaning done with care, emphasizing meticulousness."
+                },
+                "core_concept": {
+                        "en": "The poetic dance of precision and care.",
+                        "ja": "精密さと注意深さの詩的舞踊"
+                },
+                "thinking_layer": "『正確』という言葉は、私たちの内なる秩序と調和を追求する心の象徴である。あらゆる行動や決定には、その背後に精密な配慮と深い思考が求められる。この言葉は、ただ単なる数値や規則の範囲に留まらず、人生の中でどのように細かなひだを広げ、世界との交わりを形作るかという永遠の問いを私たちに投げかける。正確さとは、規則や定規では計り知れない次元を持ち、私たちの存在や感情にも同じように影響を与える。静かなる心の中に秩序を築き、微細な瞬間にすら魂の響きを感じ取る能力こそが、真の正確である。正確とはただ外的な計算の結果だけではなく、内なる調和を目指し、自らの本質を探求する旅において求められる美しき特質である。この概念は、自己を超えた存在と共鳴し、一つになるための永遠の探求でもある。加えて、正確さとは、それ自体が美と真実の姿を映し出す鏡であり、まさしく生命の精髄を象徴する概念である。",
+                "synonyms": [
+                        "Precise",
+                        "Exact"
+                ],
+                "antonyms": [
+                        "Inaccurate",
+                        "Imprecise"
+                ],
+                "aftertaste": "Precision is the soul's tribute to truth.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "curare",
+                                        "meaning": "to take care"
+                                }
+                        ],
+                        "points": [
+                                "「正確」の語源は、細かな配慮と注意が求められる人間の深層心理に深く根ざしている。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "Late Middle English"
+        },
+        {
+                "id": "exit",
+                "word": "Exit",
+                "part_of_speech": "noun/verb",
+                "meaning": "出口, 退出",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "ex-",
+                                        "type": "prefix",
+                                        "meaning": "外へ",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "ire",
+                                        "type": "root",
+                                        "meaning": "行く",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'exit' originates from the Latin 'exire' which means 'to go out'."
+                },
+                "core_concept": {
+                        "en": "A bridge between confinement and freedom.",
+                        "ja": "拘束と自由を繋ぐ橋"
+                },
+                "thinking_layer": "出口は物理的な境界を象徴するだけでなく、精神的、感情的解放への道をも示している。人生における出口とは、単なる外に出る行為ではなく、自己の内側での変革を指す。日常生活の中に隠された出口は、現実の重荷から解放される瞬間であり、意識の新たなステージへと至る回廊となる。出口の存在は、永遠に継続するものは何もなく、変化が宇宙の唯一の定数であることを告げている。哲学的に見ると、出口はまた、可能性の窓を開くものであり、過去の事象や経験から学び、進化していく人間の性質を映し出す。孤独や不安に直面する時、出口はそこから抜け出す希望の灯であり、同時に自ら選んだ未来へ誘う道しるべとなる。出口への旅は、自己の発見へと続く無限の階段であり、そこでは新たな自分の姿を垣間見ることができる。",
+                "synonyms": [
+                        "departure",
+                        "egress"
+                ],
+                "antonyms": [
+                        "entrance",
+                        "entry"
+                ],
+                "aftertaste": "Every exit is a gateway to new beginnings.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "ex-",
+                                        "meaning": "out of, from"
+                                },
+                                {
+                                        "term": "ire",
+                                        "meaning": "to go"
+                                }
+                        ],
+                        "points": [
+                                "『exit』の語源には、ラテン語の「exire」に由来し、「ex」は「外へ」を、「ire」は「行く」を意味する。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "Latin, 16th Century"
         }
 ];
