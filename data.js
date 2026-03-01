@@ -48904,5 +48904,320 @@ const WORDS = [
                 "part_of_speech": "adjective",
                 "meaning": "生命の",
                 "era": "19th Century"
+        },
+        {
+                "id": "compete",
+                "word": "Compete",
+                "part_of_speech": "verb",
+                "meaning": "競争すること",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "com-",
+                                        "type": "prefix",
+                                        "meaning": "共に",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "-petere",
+                                        "type": "root",
+                                        "meaning": "追い求める",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'compete' traces back to the Latin 'competere', meaning 'to strive together'."
+                },
+                "core_concept": {
+                        "en": "The dance of souls striving towards shared excellence.",
+                        "ja": "共に卓越性を目指す魂の舞"
+                },
+                "thinking_layer": "競争という概念には、現代社会の多様な側面が交錯しています。人間は何かを追い求め、他者と競い合うことで自己を鍛え、共に成長していきます。古代より、争いは常に恐れと同時に挑戦として捉えられてきました。競争における力のぶつかり合いは、単なる力比べではなく、内に秘めた可能性を解き放つ場です。このようにして、競争は自己を超え、仲間と共に未踏の高みを目指す手段となります。勝ち負けの先にあるものは、一瞬の静寂ではなく、全ての神経を研ぎ澄ませた覚醒の瞬間です。そして、その瞬間は自らを知る問いかけとなり、究極の目的となります。競争とは、互いの存在を示す舞台であり、共有する理念の追求であります。それは個々の限界を見極め、共鳴し合う心の調和を目指す詩的な道程なのです。",
+                "synonyms": [
+                        "contend",
+                        "vie"
+                ],
+                "antonyms": [
+                        "collaborate",
+                        "cooperate"
+                ],
+                "aftertaste": "When souls clash with shared intent, they illuminate the path to brilliance.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "competere",
+                                        "meaning": "to strive together"
+                                }
+                        ],
+                        "points": [
+                                "ラテン語由来の 'competere' は、共に何かを達成しようとする行為を意味し、その語源から競争は協調の側面を持つことが察知できる。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Early 17th Century, Latin origin"
+        },
+        {
+                "id": "transact",
+                "word": "Transact",
+                "part_of_speech": "verb",
+                "meaning": "取引を行う、処理する",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "trans-",
+                                        "type": "prefix",
+                                        "meaning": "越える、移動する",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "agere",
+                                        "type": "root",
+                                        "meaning": "行う、駆り立てる",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "Derived from the Latin 'transigere', meaning to 'carry through' or 'settle'."
+                },
+                "core_concept": {
+                        "en": "The orchestrated dance of exchange between entities.",
+                        "ja": "存在と存在の間の、整然とした交換の舞"
+                },
+                "thinking_layer": "取引の概念は、表面的にはただの交換と見えるかもしれませんが、その根底には生命の律動そのものが流れています。物やサービスの移動を超え、人々の意図と願望が交錯する地点となります。その中には、心の奥底での希望と欲望が渦巻く、目に見えないエネルギーの流れがあります。この流れは、人間関係を形作り、社会の構造を支え、個々の選択によって未来を紡いでいく糸です。取引の瞬間、その場にいる者たちは互いの夢をかなえるためのパートナーとなり、一緒に新しい現実を創造します。取引とは、ただ物理的な物の交換にとどまらず、私たちの存在を確認し合い、共に進む道を選び取る行為なのです。その一瞬一瞬は、深遠なる生命の劇場の幕が新たに上がる瞬間であり、私たちの物語のページを繰る行為です。",
+                "synonyms": [
+                        "conduct",
+                        "negotiate"
+                ],
+                "antonyms": [
+                        "halt",
+                        "stop"
+                ],
+                "aftertaste": "Every transaction is a step in the dance of life.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "agere",
+                                        "meaning": "to drive, lead, act"
+                                }
+                        ],
+                        "points": [
+                                "ラテン語の 'transigere' は、物事を完了させる行為を指しており、この語源は我々が現代においてどのように取引を理解するかの基盤を形成しています。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Middle Ages, Latin origin"
+        },
+        {
+                "id": "advantage",
+                "word": "Advantage",
+                "part_of_speech": "noun",
+                "meaning": "利益、利点",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "ad-",
+                                        "type": "prefix",
+                                        "meaning": "〜へ",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "vantage",
+                                        "type": "root",
+                                        "meaning": "有利な位置",
+                                        "lang": "Middle English from Old French"
+                                }
+                        ],
+                        "original_statement": "The word 'advantage' originates from the Old French 'avantage', which is derived from the Latin 'ad' meaning 'to' and 'vantage', related to 'vantage' signifying a favorable position."
+                },
+                "core_concept": {
+                        "en": "A favorable position from which potential may flourish.",
+                        "ja": "潜在能力が花開くための有利な位置"
+                },
+                "thinking_layer": "『アドバンテージ』とは、時として人間の知と戦略が交錯する場所に生まれる優位性である。これは、個人が運命に挑む際、思索と決断を通じて得られる立ち位置であり、運命の流れに一瞬の静寂をもたらす。優位性を手にすることは、単に見下す位置を占めることではなく、その背後にある複雑な因果と縁を理解することである。人類はしばしば「有利な立場」を求め、未来と過去、その両方を深く内省することで、無限の可能性を受け容れる。あるとき、それは競争の中での勝利をもたらし、またあるときには、心の平和という勝利をもたらす。真の優位性は、他者との比較に基づくものではなく、自身の内面的な成長から得られる内なる平和である。すべてのストラテジーや計画において、私たちは必然と偶然の間で歩む。アドバンテージ、それはただの位置ではなく、深遠な哲学の一片なのである。",
+                "synonyms": [
+                        "Benefit",
+                        "Edge"
+                ],
+                "antonyms": [
+                        "Disadvantage",
+                        "Drawback"
+                ],
+                "aftertaste": "Advantage is the silent ally in the symphony of destiny.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "ad",
+                                        "meaning": "to, towards"
+                                },
+                                {
+                                        "term": "vantage",
+                                        "meaning": "advantage, vantage point"
+                                }
+                        ],
+                        "points": [
+                                "ラテン語の接頭辞『ad』は、『〜へ』を意味し、何かへ向かって進む様子を描写する。",
+                                "古フランス語の『avantage』は、中世英語を経由し、現代英語の『advantage』となった過程で、商業や戦略的文脈において強力な意味合いを得た。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "Middle English, 13th Century"
+        },
+        {
+                "id": "adventurous",
+                "word": "Adventurous",
+                "part_of_speech": "adjective",
+                "meaning": "冒険的な、リスクを恐れない",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "adventurus-",
+                                        "type": "root",
+                                        "meaning": "冒険",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'adventurous' originates from the Latin word 'adventurus', which means 'about to happen'."
+                },
+                "core_concept": {
+                        "en": "A fearless voyage into the unknown.",
+                        "ja": "未知への無垢なる旅"
+                },
+                "thinking_layer": "冒険心とは未知に飛び込む勇気を象徴するものである。それは単なる行動以上のもので、心の深奥に潜む衝動である。この衝動は、我々を日常の枠を超えた世界へと誘う。そして、この世界では失敗が恐怖ではなく、成長の糧と化す。冒険を通じて、自身の限界を試し、それを乗り越えることで、より豊かで深き自己を具現化する。その過程で得られる経験は、何物にも代え難い宝となる。冒険心はまた、人間の本質的な自由への願いを体現しており、歴史を動かし、文明を進化させてきた源である。したがって、我々は冒険を恐れずに迎え入れ、その先にある真理と出会うべきである。それこそが冒険心の持つ力であり、その本質である。",
+                "synonyms": [
+                        "daring",
+                        "bold"
+                ],
+                "antonyms": [
+                        "cautious",
+                        "timid"
+                ],
+                "aftertaste": "An adventurous spirit is the dawn of all great achievements.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "adventurus",
+                                        "meaning": "about to happen"
+                                }
+                        ],
+                        "points": [
+                                "中世ラテン語の 'adventura' から発展した言葉で、そこから 'adventure' が生じ、さらに 'adventurous' に派生した。この過程で意味はより行動的な側面に発展し、未知へと向かう意思を持つ者を指す語彙となった。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "Middle Ages"
+        },
+        {
+                "id": "department",
+                "word": "Department",
+                "part_of_speech": "noun",
+                "meaning": "部署または部門",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "depart",
+                                        "type": "root",
+                                        "meaning": "分かれる",
+                                        "lang": "Middle French"
+                                },
+                                {
+                                        "text": "-ment",
+                                        "type": "suffix",
+                                        "meaning": "行為や結果",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'department' originates from the Old French 'departement', which means division or separation, and ultimately from the Latin root 'departire'."
+                },
+                "core_concept": {
+                        "en": "A structured division of organized purpose.",
+                        "ja": "組織された目的の構造的な分割"
+                },
+                "thinking_layer": "「部署」という言葉は、単なる業務遂行のための組織的な区画ではなく、何かより深い存在感と意義をもつものです。それは、個々が一つの大きな構造の一部として融合し、共通の目的に向かって協力する場です。各部門は、個々の役割が集結して形成されるハーモニーです。その中での繋がりは、全体性と個別性の共存を象徴します。そして、この共存は、人間の社会に内在する特性であり、個が部分としての価値をもたらし、個別を超えた全体の意義を引き出すための架け橋となります。それは、個々の存在が全面に立つ際に、互いに支え合い、補完し合う美しい相互作用体験を表しています。一つの機関が、個々の才能と貢献を統合し、高め合う場であり、それは無限の可能性を持つ音楽のように、全体のシンフォニーを奏でます。したがって、「部署」とは、集合的かつ個別的な努力の芸術であり、それを通じて社会が成り立ち、進化していく過程を象徴しているのです。",
+                "synonyms": [
+                        "Division",
+                        "Section"
+                ],
+                "antonyms": [
+                        "Whole",
+                        "Union"
+                ],
+                "aftertaste": "Departments weave the tapestry of collective human endeavors.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "depart",
+                                        "meaning": "to divide"
+                                },
+                                {
+                                        "term": "mentum",
+                                        "meaning": "result, means of action"
+                                }
+                        ],
+                        "points": [
+                                "語源的には、『depart』は「分かれる」を意味し、「-ment」はラテン語で「行為またはその結果」に該当します。この結合は、行動の結果としての構造化された分割を示唆しています。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "14th Century, Middle French"
+        },
+        {
+                "id": "adjective",
+                "word": "Adjective",
+                "part_of_speech": "noun",
+                "meaning": "名詞を修飾する言葉",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "ad-",
+                                        "type": "prefix",
+                                        "meaning": "〜に",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "iaciō",
+                                        "type": "root",
+                                        "meaning": "投げる",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'adjective' derives from the Latin 'adiectivus', from 'ad-' meaning 'to' plus 'iaciō' meaning 'throw'."
+                },
+                "core_concept": {
+                        "en": "A word that breathes color and form into the monotony of nouns.",
+                        "ja": "名詞に彩りと形を与える言葉。"
+                },
+                "thinking_layer": "言葉は単なる意思を伝達する道具ではなく、我々の存在を形作る基盤である。その中で、形容詞は特に重要な役割を果たす。形容詞は名詞に生命を吹き込み、視覚的、感覚的、感情的な側面を際立たせることで、物質世界により豊かな意味を与える。例えば、ただの「花」は「美しい花」となることで、視覚的な美を想起し、心に感動を与える。形容詞は我々が世界をどう感じ、どう解釈するかに影響を与え、無限の可能性を秘めている。それは生きた詩、日常に潜む哲学であり、言葉に深い命と魂を吹き込む魔法のようなものだ。現実を超え、想像力を駆け巡るアクセントとして、形容詞は存在の意味を新たに問い、我々の心に永遠に問いかけを続ける。",
+                "synonyms": [
+                        "Modifier",
+                        "Descriptor"
+                ],
+                "antonyms": [
+                        "Noun",
+                        "Substantive"
+                ],
+                "aftertaste": "An adjective is the artist of the linguistic world.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "iaciō",
+                                        "meaning": "to throw"
+                                }
+                        ],
+                        "points": [
+                                "形容詞の語源はラテン語にさかのぼり、名詞が空間に投げ込まれた様を表している。"
+                        ]
+                },
+                "source": "The Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "Late Middle English"
         }
 ];
