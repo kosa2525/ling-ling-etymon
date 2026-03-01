@@ -40421,5 +40421,477 @@ const WORDS = [
                 "source": "The Oxford English Dictionary",
                 "date": "2026-03-01",
                 "era": "Late Middle English, 14th Century"
+        },
+        {
+                "id": "admit",
+                "word": "Admit",
+                "part_of_speech": "verb",
+                "meaning": "承認または受け入れる",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "ad-",
+                                        "type": "prefix",
+                                        "meaning": "〜に",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "mittere",
+                                        "type": "root",
+                                        "meaning": "送る",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "Derived from the Latin 'admittere' which means 'to allow to enter, receive'."
+                },
+                "core_concept": {
+                        "en": "To open the gate of one's being, allowing entry to knowledge, emotion, or truth.",
+                        "ja": "自らの存在の扉を開き、知識、感情、または真実が入り込むことを許可すること。"
+                },
+                "thinking_layer": "「許す」という行為は、人間の心とその存在の核心に触れる概念である。何かを許すことは、それが内に入ることを承認し、その影響を受け入れることを意味する。これは単なる物理的な行為ではなく、精神的、感情的空間を変容させる行動である。人は、思考や感情の流れを許容することによって、自らを新たな経験や視点に対して開放する準備を整える。許すことは、恐怖や不確実性に立ち向かい、未知の領域に足を踏み入れる勇気でもある。その奥には、自己の成長や変革を受け入れる意志が潜む。許しの先には、純粋な受容と共鳴が広がり、そこに共感や愛といった人類の深淵が垣間見える。こうして、許すことは単なる行為を超越し、魂が奏でる共鳴をもたらすのである。",
+                "synonyms": [
+                        "confess",
+                        "acknowledge"
+                ],
+                "antonyms": [
+                        "deny",
+                        "reject"
+                ],
+                "aftertaste": "To admit is to embrace the vulnerability of truth.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "mittere",
+                                        "meaning": "to send"
+                                }
+                        ],
+                        "points": [
+                                "ラテン語から派生した「admit」の語源は、異なる概念の統合に基づくものである。言葉の背後には、開放性、受容、そして自己の境界を超えた交わりの思想が在る。"
+                        ]
+                },
+                "source": "The Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Middle English"
+        },
+        {
+                "id": "invent",
+                "word": "Invent",
+                "part_of_speech": "verb",
+                "meaning": "新しいものを創り出すこと",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "in-",
+                                        "type": "prefix",
+                                        "meaning": "中に",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "venire",
+                                        "type": "root",
+                                        "meaning": "来る",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "Derived from Latin 'invenire', meaning 'to come upon' or 'to find'."
+                },
+                "core_concept": {
+                        "en": "To breathe existence into that which is not yet.",
+                        "ja": "まだ存在しないものに命を吹き込むこと。"
+                },
+                "thinking_layer": "発明の行為は、人間の想像力の深奥から生まれる。それは未知なる領域に一歩踏み出す勇気であり、見えない可能性の海を航海する冒険である。発明者は、理論の境界を押し広げ、新たな概念を現実に織り成す。発明とはまた、限界への挑戦でもある。それは単なる技術の進歩ではなく、人類の意識の成長を象徴している。知識の欠片を組み合わせ、新しい視覚で世界を解釈することが求められる。それは神秘の扉を開き、私たちの存在を定義する。発明とは時間と空間を超えた永遠の舞いであり、我々の心に灯をともすものである。過去と未来の架け橋を築き、今という一瞬を豊かにする。そして、その地平線の向こうに輝く理想を追い求める力。その内に秘められた詩的な美しさは、世界を変革する力を秘めると言える。",
+                "synonyms": [
+                        "Create",
+                        "Fashion"
+                ],
+                "antonyms": [
+                        "Destroy",
+                        "Ruin"
+                ],
+                "aftertaste": "Invention is the rebirth of human potential.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "venire",
+                                        "meaning": "come"
+                                }
+                        ],
+                        "points": [
+                                "語源は、探し求める行為と密接に関連している。この言葉の背景には、未知なる真実の探求という冒険的要素が潜んでおり、それは単に物理的な発見だけに留まらず、内面的な悟りにも通じる。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "14th Century, Latin Origin"
+        },
+        {
+                "id": "permit",
+                "word": "Permit",
+                "part_of_speech": "verb",
+                "meaning": "許可を与える",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "per-",
+                                        "type": "prefix",
+                                        "meaning": "完全に",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "mittere",
+                                        "type": "root",
+                                        "meaning": "送る",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'permit' originates from the Latin 'permittere', composed of 'per-' meaning 'completely' and 'mittere' meaning 'to send', indicating the act of completely sending permission or approval forth."
+                },
+                "core_concept": {
+                        "en": "The gentle granting of freedom's key.",
+                        "ja": "自由の鍵を優雅に授ける"
+                },
+                "thinking_layer": "『許可』を与えるという行為は、目に見えないものをほどく鍵の役割を果たす。それは、心が秘めた願いや、抑えられた欲望を解き放ち、風のように自由にさせる行為である。その行為には、相手の存在を尊重し、その願いを受け入れる寛容さが含まれる。『許可』なくしては、閉じられた扉の前に立つ旅人のように、一歩先に進むことはできない。共に旅する者は、その扉を開けることで、新たな世界へと誘い、その視界を広げる。物質的なものの制限を超え、精神的な自由へと導くこの行為は、時に人生の転機となる。何かに許可を与えることは、単なる合図ではなく、個々の魂に翼を与え、飛翔する力を授ける行為でもある。そのような深遠な行為を通じて、我々は互いの絆を強め、この存在の一瞬一瞬に新しい意味を見出す。許しと解放は、古くから続く人間の営みそのものなのだ。",
+                "synonyms": [
+                        "Allow",
+                        "Authorize"
+                ],
+                "antonyms": [
+                        "Forbid",
+                        "Deny"
+                ],
+                "aftertaste": "Permission is the gentle unraveling of potential.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "mittere",
+                                        "meaning": "to send"
+                                }
+                        ],
+                        "points": [
+                                "ラテン語の 'permittere' は、完全に何かを進める許可を与えることを意味する。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "15th Century"
+        },
+        {
+                "id": "submit",
+                "word": "Submit",
+                "part_of_speech": "verb",
+                "meaning": "服従する、提出する",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "sub-",
+                                        "type": "prefix",
+                                        "meaning": "下",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "mittere",
+                                        "type": "root",
+                                        "meaning": "送る",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The verb 'submit' originates from the Latin verb 'submittere', which consists of the prefix 'sub-' meaning 'under' and the root 'mittere' meaning 'to send'."
+                },
+                "core_concept": {
+                        "en": "A dance between humility and duty, casting oneself in the hands of another with trust or obligation.",
+                        "ja": "謙虚さと義務の間の舞、一瞬他者の手の内に自らを委ねる信頼と責任の詩"
+                },
+                "thinking_layer": "人が服従するという行為は、内なる戦場で展開する静かな闘争である。その瞬間、自由と束縛の間にかすかな境界線が描かれる。服従はただ受動的な姿勢ではなく、一種の積極的な選択でもある。その中には、自らの意志を一時的に緩め、他者の意志に身を委ねる勇気がいる。服従は、自己を知り、他者を信頼するという絶妙なバランスの産物である。古代からの言葉が内包する深奥には、現代を生きる者たちにも重要な人間性と他者への信頼の意義が刻まれている。服従は、自己啓示と他者理解のための旅の一部であり、そこに人間精神の深奥に潜む謎がある。",
+                "synonyms": [
+                        "yield",
+                        "surrender"
+                ],
+                "antonyms": [
+                        "resist",
+                        "defy"
+                ],
+                "aftertaste": "To submit is to choose trust over fear.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "sub",
+                                        "meaning": "under"
+                                },
+                                {
+                                        "term": "mittere",
+                                        "meaning": "to send"
+                                }
+                        ],
+                        "points": [
+                                "ラテン語の 'submittere' は服従の概念を形成しており、完全な従属ではなく、信頼と安心の表明である。"
+                        ]
+                },
+                "source": "The Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "14th Century"
+        },
+        {
+                "id": "adventure",
+                "word": "Adventure",
+                "part_of_speech": "noun",
+                "meaning": "冒険をすること、未知の体験",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "ad-",
+                                        "type": "prefix",
+                                        "meaning": "に向かって",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "venire",
+                                        "type": "root",
+                                        "meaning": "来る",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "From Old French 'aventure', from Vulgar Latin 'adventura', meaning 'that which happens by chance.'"
+                },
+                "core_concept": {
+                        "en": "The longing call of the unknown heart.",
+                        "ja": "未知への心の呼び声"
+                },
+                "thinking_layer": "冒険という言葉は、我々の魂の深遠なる憧憬を表す詩的な概念として、ただの行動ではなくその裏に潜む人間の渇望を映し出します。未知へと踏み出す道中で、恐怖の影が追いかけることもあれば、新たな発見の喜びに満たされることもあります。この単語は、我々の内なる冒険心を照らし、刻一刻と変わる時の流れに身を投じる勇気を象徴しています。冒険の真髄は、物理的な移動に留まらず、魂の進化の旅を意味します。それは、目に見えない結末を手探りしながらも、その道程がすでに目的地であるかのように感じられる旅路。この旅は、我々にとって時間と空間の束縛を超越し、永遠の問いとなる：何が私を動かすのか、そしてどこへ行くのか。勇敢に一歩を踏み出すことが、最も深い自己との対話を促すのです。",
+                "synonyms": [
+                        "Quest",
+                        "Expedition"
+                ],
+                "antonyms": [
+                        "Safety",
+                        "Certainty"
+                ],
+                "aftertaste": "Adventure is the heartbeat of unseen horizons.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "venire",
+                                        "meaning": "to come"
+                                }
+                        ],
+                        "points": [
+                                "ラテン語に由来する 'ad-' は方向性や目的を示し、'venire' は動くことを意味します。これが組み合わさり、冒険は意図をもって未知に向かうことを表します。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "12th Century"
+        },
+        {
+                "id": "community",
+                "word": "Community",
+                "part_of_speech": "noun",
+                "meaning": "共同社会、共同体",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "com-",
+                                        "type": "prefix",
+                                        "meaning": "共に",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "munus",
+                                        "type": "root",
+                                        "meaning": "サービス、義務",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'community' originates from the Old French 'comunité', which in turn derives from the Latin 'communitas', a form emerging from 'communis' meaning 'common, public, shared by all or many'."
+                },
+                "core_concept": {
+                        "en": "An intimate tapestry of humanity, woven together by shared bonds and collective intent.",
+                        "ja": "人類の親密な織物、共通の絆と共同の意図によって紡がれる。"
+                },
+                "thinking_layer": "コミュニティという言葉は、個と集団の存在を絶妙に示しています。それは一人一人の個性という色とりどりの糸が絡み合い、共同の意識と目的に基づき、壮大な織物としての生命を形作ります。それは孤高の思想と結束の原理が共存する場であり、究極的な調和と協力の象徴です。この言葉はまた、個々の存在が総体の一部としてどのように機能するかを表し、人間関係の深みに潜む共鳴を浮かび上がらせます。異なる文化、視点、背景が出会うことで生成される共鳴は、新たな可能性と発展をもたらし、社会の進化と成長を促進します。コミュニティは、共生と調和を模索する人類の永恒のテーマであり、我々の存在の集大成、すなわち内なる声と他者の声との対話が響き合う生きたキャンバスです。共に生きることの本質を探求し、思索が深まるほど、コミュニティの多様性と複雑さが浮き彫りになり、それは時にやさしく、時に厳しく私たちに問い掛け続けます。",
+                "synonyms": [
+                        "society",
+                        "collective"
+                ],
+                "antonyms": [
+                        "individual",
+                        "isolation"
+                ],
+                "aftertaste": "Community is the symphony of many voices merging into one harmonic existence.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "munus",
+                                        "meaning": "service, duty"
+                                }
+                        ],
+                        "points": [
+                                "コミュニティの語源についての深い理解は、人間がいかにして社会的なつながりを通じて共同の目標を追求し、個人の責任を全体の幸福のために捧げてきたかを示しています。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "Late 14th Century, Latin origin"
+        },
+        {
+                "id": "gesture",
+                "word": "Gesture",
+                "part_of_speech": "noun/verb",
+                "meaning": "身振り、手振り",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "gestus",
+                                        "type": "root",
+                                        "meaning": "動作、しぐさ",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "Gesture originates from the Latin word 'gestus', meaning 'bearing, behavior, or action', tracing back to the Roman use in the 14th century."
+                },
+                "core_concept": {
+                        "en": "A silent language of the body.",
+                        "ja": "身体による無言の言語"
+                },
+                "thinking_layer": "手振りや身振りは、言葉を超えた存在、その場の雰囲気や内面を表現するための精巧なツールである。ジェスチャーは、人間の意識が物理的な次元に現れる瞬間であり、それによって語られずして語る術を見つける。言葉が充分でないと感じる時、我々は無意識に手や体で語ろうとする。それはもはや単なる手の動きではなく、心の狭間から現れた感情や思考そのものである。ジェスチャーは見るものに瞬時に伝わるメッセージであり、聴衆との秘められた契約でもある。心の中で感じるものを、世界に手渡す。こうして、手振りは謎かけのように視覚的な詩となり、自己の一部を他者に示す儀式に変わるのだ。",
+                "synonyms": [
+                        "Movement",
+                        "Sign"
+                ],
+                "antonyms": [
+                        "Speech",
+                        "Silence"
+                ],
+                "aftertaste": "Gestures whisper what words often cannot dare.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "gestus",
+                                        "meaning": "bearing, posture"
+                                }
+                        ],
+                        "points": [
+                                "ジェスチャーは他者とのコミュニケーションの最も原始的な形態の一つであり、古代から人類の発展と共に存在してきた。その深みを理解することで、人の内面に秘められたメッセージを解読できる。"
+                        ]
+                },
+                "source": "Etymology Online",
+                "date": "2026-03-01",
+                "era": "14th Century"
+        },
+        {
+                "id": "permission",
+                "word": "Permission",
+                "part_of_speech": "noun",
+                "meaning": "許可、承認",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "per-",
+                                        "type": "prefix",
+                                        "meaning": "完全に",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "mittere",
+                                        "type": "root",
+                                        "meaning": "送る",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'permission' derives from the Latin 'permissio', which originates from 'permittere'—a combination of 'per-' meaning 'through, completely' and 'mittere' meaning 'to send'."
+                },
+                "core_concept": {
+                        "en": "A granting of freedom to act or the divine sanction of choice.",
+                        "ja": "行動の自由を許可する神聖な認可"
+                },
+                "thinking_layer": "許可という概念の裏に潜むのは、一見静かな承認と、個人の行動を営む自由の絶妙なバランスの美しさである。許可がなければ社会は不規則に崩れ去るが、それだけではなく、個々の精神の飛躍も制約されてしまう。許可は、更なる可能性への扉を開き、無秩序を排除しながら、個々の動きや思考の自由をもケアする巧妙な制度である。この制度の哲学的な根底には、宇宙的秩序と個人の自律が共存する世界観が広がっている。許可の体系は、他者の意志や欲求の尊重を体現し、自由を制限することなくそれを管理する知恵でもある。これらの要素は、全体として調和を保つための指針であり、他者との共存を可能とする知的な布石である。許可の背後には、時間の中で普遍的な真理が隠されており、その真理を理解することで、我々は真に自由な存在となることができるのだ。",
+                "synonyms": [
+                        "Consent",
+                        "Authorization"
+                ],
+                "antonyms": [
+                        "Prohibition",
+                        "Denial"
+                ],
+                "aftertaste": "Permission is the gentle art of balancing freedom and order.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "mittere",
+                                        "meaning": "send"
+                                },
+                                {
+                                        "term": "per-",
+                                        "meaning": "through, completely"
+                                }
+                        ],
+                        "points": [
+                                "許可は個人の自律性と社会規範の交差点にある。",
+                                "権威と自由の緊張関係が、許可という行為に深みを与える。",
+                                "ラテン語から英語に至る進化の過程で、他者の自由に対する敬意の感覚が付与された。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "14th Century"
+        },
+        {
+                "id": "revision",
+                "word": "Revision",
+                "part_of_speech": "noun",
+                "meaning": "再検討、修正",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "re-",
+                                        "type": "prefix",
+                                        "meaning": "再び",
+                                        "lang": "ラテン語"
+                                },
+                                {
+                                        "text": "visere",
+                                        "type": "root",
+                                        "meaning": "見る",
+                                        "lang": "ラテン語"
+                                }
+                        ],
+                        "original_statement": "Derived from the Latin word 'revisionem', which means reviewing or looking again."
+                },
+                "core_concept": {
+                        "en": "A gentle unfolding of understanding through careful examination.",
+                        "ja": "慎重な検討を通じて理解を優しく広げること"
+                },
+                "thinking_layer": "リビジョンとは、時間の流れの中で私たちの認識の地図を再び描き直す行為である。それは過去の影を見つめ、未来の光を捉えようとする人間の尽きない探求である。自身の思考や作品を、時には遙か遠い記憶の海の浜辺に並べてみることは、双方の対話を生む。古いものを壊し、新しい視点を得るためには、一度消し去り、再び視ることが必要である。時間の中で成長し続けるまるで生命の樹のごとく、リビジョンは永遠に終わることのない旅であり、その旅路の毎歩が新たな世界への窓となり得る。我々はその道程で、過ちを悔い改め、光に向かって歩み続ける。リビジョンによって、我々は単に昔の自分に再会するのではなく、未来の自己を創造するのだ。完璧を望むことこそが、己を改め、拓かれし道への鍵となる。リビジョンには変化の力が宿っている。それは影と光、過去と未来の間で織りなされる美しき静寂の舞である。",
+                "synonyms": [
+                        "Review",
+                        "Amendment"
+                ],
+                "antonyms": [
+                        "Preservation",
+                        "Stasis"
+                ],
+                "aftertaste": "Each revision births a new perspective.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "visere",
+                                        "meaning": "to look"
+                                }
+                        ],
+                        "points": [
+                                "リビジョンの語源は「再び見る」ことであり、その本質において変化と成長を意味します。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Late Middle English"
         }
 ];
