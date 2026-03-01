@@ -38599,5 +38599,454 @@ const WORDS = [
                 "source": "Online Etymology Dictionary",
                 "date": "2026-03-01",
                 "era": "Late 14th Century"
+        },
+        {
+                "id": "depress",
+                "word": "Depress",
+                "part_of_speech": "verb",
+                "meaning": "押し下げる、気を滅入らせる",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "de-",
+                                        "type": "prefix",
+                                        "meaning": "下へ",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "press",
+                                        "type": "root",
+                                        "meaning": "押す",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'depress' originates from the Latin 'deprimere', composed of 'de' meaning 'down' and 'primere' meaning 'to press'."
+                },
+                "core_concept": {
+                        "en": "The descent of emotion pressed down upon the soul.",
+                        "ja": "魂を押し下げる感情の降下"
+                },
+                "thinking_layer": "『デプレッション』の語源は、単なる動きや感情の変化を意味するだけではない。それは人間の心の深部に潜む、影となる心情の現れでもある。心が圧力を感じ、希望や興奮が失われるとき、人は自らの存在を再考せざるを得なくなる。その闇の中では、光を見出すことが一際難しい。元々、ラテン語では重さを下へと押し下げる行為を指していたが、現代においては、心の奥底で圧迫される感覚を指す。押し下げられた状態から抜け出すためには、内なる力を呼び覚まし、新たな出発点を見つける必要がある。それはまた、内面の探求を通して得られる、真の自己との対話とも言える。この道程において、人は沈黙の中にこそ真理を見出し、再び飛躍する機会を得るのだろう。",
+                "synonyms": [
+                        "diminish",
+                        "lower"
+                ],
+                "antonyms": [
+                        "elevate",
+                        "boost"
+                ],
+                "aftertaste": "To be pressed is to also seek liberation.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "primere",
+                                        "meaning": "to press"
+                                }
+                        ],
+                        "points": [
+                                "ラテン語の 'de' は「下」を意味し、物理的・心理的な重さを示唆する。",
+                                "押し下げる動作は、精神的な葛藤と再生のプロセスを内包している。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "14th Century"
+        },
+        {
+                "id": "inflate",
+                "word": "Inflate",
+                "part_of_speech": "verb",
+                "meaning": "膨らます、膨れる",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "in-",
+                                        "type": "prefix",
+                                        "meaning": "中へ",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "flare",
+                                        "type": "root",
+                                        "meaning": "吹く",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'inflate' originates from Latin 'inflare', meaning 'to blow into'."
+                },
+                "core_concept": {
+                        "en": "The gentle dance of air within, swelling form and spirit.",
+                        "ja": "内なる気の舞、形と精神の膨張。"
+                },
+                "thinking_layer": "インフレートという言葉は、無形の空気を形あるものに変える魔法のような力を持っています。何かを膨らませる行為、その簡単な動作の背後には、無限の可能性が秘められています。風船を膨らませるとき、ただ一つの小さな呼吸がそれに形を与え、やがて空を目指して舞い上がる瞬間を待ち侘びるのです。このプロセスは人生そのものに似ています。私たちの内なる願望や夢は、最初は曖昧で儚いものですが、少しずつ形をとり現実の一部となるのです。しかし、過剰に膨らませてしまうと、そのバランスが崩れ、やがて破裂してしまうこともある。だからこそ、膨らませるという行為には、注意深さと熟慮が必要です。人生に欠かせないこのインフレートの作用を心に留め、日々の選択と向き合うべきなのでしょう。",
+                "synonyms": [
+                        "Expand",
+                        "Swell"
+                ],
+                "antonyms": [
+                        "Deflate",
+                        "Contract"
+                ],
+                "aftertaste": "To inflate is to breathe dreams into form.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "flare",
+                                        "meaning": "to blow"
+                                }
+                        ],
+                        "points": [
+                                "ラテン語の 'flare' は '吹く' を意味し、それが 'in'（中へ）と結び付くことで、新たな存在を膨らませるという強い意味合いを持つ動詞を構成します。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Late Middle English, from Latin"
+        },
+        {
+                "id": "claim",
+                "word": "Claim",
+                "part_of_speech": "noun/verb",
+                "meaning": "要求すること、または主張すること",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "clamare-",
+                                        "type": "root",
+                                        "meaning": "叫ぶ、宣言する",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'claim' can be traced back to the Latin 'clamare', meaning 'to call out, to cry, to declare', and emerged in English through Old French 'clamer' in the context of making a demand or assertion."
+                },
+                "core_concept": {
+                        "en": "The voice reaching beyond silence, asking the universe to recognize existence.",
+                        "ja": "沈黙を超えて声を放ち、宇宙に存在を認めさせる行為"
+                },
+                "thinking_layer": "主張という行為は、人間という存在そのものの深淵に関わる。自己の内部から湧き上がる声を持ち、表面的な沈黙を切り裂いて、他者に向けて響くこの叫びは、単なる言語的行為に留まらず、存在の証としての意義を帯びる。その瞬間、自我が確立し、無数の可能性を持つ宇宙と接触する。人は「要求する」ことで初めて自らの存在を認識し、それが宇宙の真理に繋がる。要求という行為は、自己肯定の段階を越え、一瞬にして過去と未来を結び付ける。全ての要求が成功するわけではないが、この叫びは常に宇宙のどこかで共鳴し続ける。その意味で、主張とは、我々の魂の内なる声を宇宙に向けて放ち、限界を超える試みである。存在と無の狭間で、この行為は新たな世界を創り出し、人間が存在する理由を再定義する力を持つのである。",
+                "synonyms": [
+                        "demand",
+                        "assert"
+                ],
+                "antonyms": [
+                        "deny",
+                        "relinquish"
+                ],
+                "aftertaste": "To claim is to echo one's soul into the vast corridors of existence.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "clamare",
+                                        "meaning": "to call out, to declare"
+                                }
+                        ],
+                        "points": [
+                                "語源的分析において、『クレーム』という言葉は、叫ぶという行為に内包する力と意図が示される。これは静寂を打ち破る行為であり、存在承認の第一歩とも言える。"
+                        ]
+                },
+                "source": "Oxford English Dictionary, EtymOnline",
+                "date": "2026-03-01",
+                "era": "13th Century, Medieval Latin"
+        },
+        {
+                "id": "orient",
+                "word": "Orient",
+                "part_of_speech": "noun/verb",
+                "meaning": "東洋を指す名詞; 方向を定める動詞",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "ori-",
+                                        "type": "root",
+                                        "meaning": "東",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'Orient' comes from the Latin 'oriens', meaning 'the east', and has been used to denote regions of Asia."
+                },
+                "core_concept": {
+                        "en": "The dawn where the sun ascends, illuminating the path.",
+                        "ja": "太陽が昇る暁、進むべき道を照らす。"
+                },
+                "thinking_layer": "言葉「オリエント」は、ただ方角を示す表現以上のものです。それはまた、夜明けと新しい始まりの象徴でもあります。東と言えば、まだ眠りから覚めずにいる地平線の向こうで、太陽がまさに顔を出そうとする瞬間が思い浮かびます。それは可能性に満ち、有望な冒険へと踏み出す契機を示唆します。地理的には、オリエントは多様な文化や長い歴史を持つ東洋を指しますが、哲学的には、それは内面への旅を始める呼びかけでもあります。この言葉を使う度、我々は自己の内なる探求の航路に心を向け、己の知識を広げ、心の虹を広げたいと思うのです。オリエントは、単なる方角ではなく、精神が新たな光を求め、探究心を奮い立たせる役割を果たします。",
+                "synonyms": [
+                        "East",
+                        "Asia"
+                ],
+                "antonyms": [
+                        "Occident",
+                        "West"
+                ],
+                "aftertaste": "In pursuit of the Orient, we seek both direction and enlightenment.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "oriens",
+                                        "meaning": "rising, east"
+                                }
+                        ],
+                        "points": [
+                                "「オリエント」は古代ローマにおける東方を意味し、文化的にも政治的にも遠い異郷を指す概念として受け継がれてきた。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Latin origin (3rd Century)"
+        },
+        {
+                "id": "intent",
+                "word": "Intent",
+                "part_of_speech": "noun",
+                "meaning": "意図、目的",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "in-",
+                                        "type": "prefix",
+                                        "meaning": "中に",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "tendere",
+                                        "type": "root",
+                                        "meaning": "伸ばす、引っ張る",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'intent' originates from the Latin 'intentus', which means 'a stretching out' or 'an application', derived from 'tendere', meaning 'to stretch'."
+                },
+                "core_concept": {
+                        "en": "The focused and unwavering reach of one's will.",
+                        "ja": "意志の揺るぎない集中と伸び"
+                },
+                "thinking_layer": "『意図』とは、行動を導く意思の中核である。それは心の中で静かに燃える灯火のように、現実を創造しようとする力を秘めている。意図は瞬間を超えて、時間軸の中を泳ぐ、未来の可能性を探求するナビゲーターだ。それは人間の心の奥深くに根ざし、個々の目標を宇宙の広大な流れの中に位置づける役割を担う。たとえ日常の雑多な生活の中で見失うことがあっても、意図は常に忠実な案内人として我々を導く。意図を持つことは自己の内面に根ざした信念を確立し、それを現実の行動に投影することである。その結果として、意図は行動の背後にある意味と価値を与え、人生への理解を深める。意図的に生きるとは、単なる思考の放蕩から目覚め、意識の帆を上げて自分の選択を風に乗せることだ。宇宙の大きな尋常を前にしても、意図は小さな波を起こし続け、人々の心に変化をもたらす力を持った存在である。",
+                "synonyms": [
+                        "Purpose",
+                        "Aim"
+                ],
+                "antonyms": [
+                        "Accident",
+                        "Chance"
+                ],
+                "aftertaste": "Intent carves the pathway of purpose from the depths of uncertainty.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "tendere",
+                                        "meaning": "to stretch, to extend"
+                                }
+                        ],
+                        "points": [
+                                "『意図』の語源は、物事を『伸ばし出す』という根本的な行動を示唆しており、それは生命や思考の動的な側面と深く結びついている。この概念は、古代の哲学においても、自己と世界の間の関係性を理解するキーとしてしばしば論じられてきた。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Late Middle English, Latin origin"
+        },
+        {
+                "id": "habitat",
+                "word": "Habitat",
+                "part_of_speech": "noun",
+                "meaning": "生息地、住処",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "habit-",
+                                        "type": "root",
+                                        "meaning": "住む、住処",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'habitat' originates from the Latin 'habitāre' meaning 'to dwell'."
+                },
+                "core_concept": {
+                        "en": "The cradle of existence where life silently breathes.",
+                        "ja": "静かに命が息づく存在の揺籠"
+                },
+                "thinking_layer": "『ハビタット』は、単なる地理的な空間の意味を超え、存在と生の根源的な指針を示す言葉です。生物はそれぞれの生息地の中で独自の役割を果たし、その織り成す関係は宇宙の微細な構造の一部です。人間もまた、自らの生息地を選び、都市や村、家族や仲間との関係を織り上げてきました。そこには物質的な豊かさだけでなく、精神的な活動の場としての価値も存在しています。『生息地』とは、単なる生活空間を超え、時間とともに進化し続ける生命の舞台であり、未知なる未来への門を開く場所です。我々が住まうこの地球は、生物多様性の美しくも強靭なキャンバスであり、その各々の生息地が連鎖し、繊細な生命網を形成しています。このように捉えれば、『ハビタット』とは、我々自身がどのように地球と共鳴するかという、より深い生の哲学を問いかけているともいえるのです。",
+                "synonyms": [
+                        "environment",
+                        "ecosystem"
+                ],
+                "antonyms": [
+                        "barrenness",
+                        "void"
+                ],
+                "aftertaste": "In every habitat, the soul of the world breathes quietly and profoundly.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "habit-",
+                                        "meaning": "to dwell or reside"
+                                }
+                        ],
+                        "points": [
+                                "語源的に見れば、『habitat』はラテン語の『habitāre』から派生しており、人や動物の生活基盤、その存在を支持する環境に関連しています。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "Classical Latin Era"
+        },
+        {
+                "id": "reform",
+                "word": "Reform",
+                "part_of_speech": "noun/verb",
+                "meaning": "改善、改革",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "re-",
+                                        "type": "prefix",
+                                        "meaning": "再び",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "formare",
+                                        "type": "root",
+                                        "meaning": "形を造る",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'reform' hails from the Latin 'reformare', which combines 're-' (again) and 'formare' (to form). It entered English through Old French."
+                },
+                "core_concept": {
+                        "en": "The poetic essence of transformation.",
+                        "ja": "変革の詩的な本質"
+                },
+                "thinking_layer": "『改革』という言葉は、人類の心の奥底にひそむ不安と希望の葛藤を映し出す鏡のような存在です。我々が果てしなく求め続ける進歩と完璧への旅路、再び形を成すという行為は、単に形を変えることではなく、古きを温ねて新しきを知る姿勢でもあります。過去の遺産を評価しつつ未来を切り開くこの行為において、新たな概念がまるで花を咲かせるように広がります。その中心にあるのは我々の心の中に眠る未開拓の可能性であり、それを目覚めさせる術は真に心からの変革の願い、その実現へ向けた行動力です。改革とは単なる変化ではなく、心と精神の内なる秩序の再構築であり、それによって人生に新たなバランスを与える永遠の営みなのです。",
+                "synonyms": [
+                        "Renovation",
+                        "Improvement"
+                ],
+                "antonyms": [
+                        "Stagnation",
+                        "Preservation"
+                ],
+                "aftertaste": "Reform is the perennial dance of renewal, ever echoing in the halls of human endeavor.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "formare",
+                                        "meaning": "to form or shape"
+                                }
+                        ],
+                        "points": [
+                                "『reformare』は単に形状の変更を示すのではなく、精神的形態の改変として機能し、文化的文脈に深く入り込む。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "14th Century"
+        },
+        {
+                "id": "virtual",
+                "word": "Virtual",
+                "part_of_speech": "adjective",
+                "meaning": "実質的なものであるが、物理的に存在しない",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "virtus",
+                                        "type": "root",
+                                        "meaning": "力、徳",
+                                        "lang": "ラテン語"
+                                }
+                        ],
+                        "original_statement": "The term 'virtual' originates from the Late Latin 'virtualis' derived from 'virtus', meaning strength or virtue, and gained modern significance in the realm of computing and technology."
+                },
+                "core_concept": {
+                        "en": "The intangible strength that manifests in gentle whispers of what could be.",
+                        "ja": "現実の如く振る舞う無形の力"
+                },
+                "thinking_layer": "バーチャルという概念は、我々の存在の真実と可能性の彼方に存在する、目に見えない織物のようだ。現実世界の影として、バーチャルは新たな実在の形を作り出し、限られた現実の境界を超越する。我々はこの影に住み、時間と空間を超える未知の可能性を探求する。その中で、真実とは何か、実在とは何かを問い続けなければならない。バーチャルは、その内に無限の可能性と両義性を孕み、この世で確定したものを見つめ直し、新しい形の真実を生み出す力を持っている。それ自身の中に善悪を超えた価値を作り出し、時に我々をその魅惑的な影の中に引き込む保証を持つ。物理的な世界を離れた場所で、煌めく思考の場としてのバーチャル、それは存在と不在の狭間に広がる果てしないフィールドなのだ。",
+                "synonyms": [
+                        "Simulated",
+                        "Imaginary"
+                ],
+                "antonyms": [
+                        "Actual",
+                        "Real"
+                ],
+                "aftertaste": "Virtuality is the mirror in which reality reflects its infinite potential.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "virtus",
+                                        "meaning": "力、徳"
+                                }
+                        ],
+                        "points": [
+                                "バーチャルの起源は、ラテン語の「virtus」に由来し、これは本来の力や価値を持つことを意味する。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Late Latin"
+        },
+        {
+                "id": "population",
+                "word": "Population",
+                "part_of_speech": "noun",
+                "meaning": "ある地域に住む人々の集まり",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "populus",
+                                        "type": "root",
+                                        "meaning": "人々",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "-ation",
+                                        "type": "suffix",
+                                        "meaning": "行為、状態",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'population' stems from the Latin 'populatio', which refers to the act or process related to people or inhabitants."
+                },
+                "core_concept": {
+                        "en": "The collective heartbeat of human existence.",
+                        "ja": "人類の脈動する集合体"
+                },
+                "thinking_layer": "「人口」という言葉は、個々の命が集まり、調和の中で同時に存在する概念を象徴しています。それは、単なる数や統計ではなく、一人一人がそれぞれの物語を持ち寄って編み込む大きな綴じ物であり、人間の営みが織りなす壮麗なタペストリーです。自然と結びつき、時代と共鳴しながら、人口は見えない思想や譜面に従って踊る舞踏家たちのようです。人口の動きは、歴史を形成し、未来を予感させる鼓動のように絶え間なく変化し続けます。都市の喧騒、田舎の静寂、海を渡る移民の足音、民族の交響曲が響きます。それぞれの呼吸は地球上の生命の証であり、一つの存在から他の存在へと続く不可視の連鎖を感じさせます。人口は単なる存在の群れ以上のもの、それは生命の詠唱です。時間の流れの中で、人口は自己の救いと他者との結合を探し求める人類の旅の一部なのです。",
+                "synonyms": [
+                        "inhabitants",
+                        "citizenry"
+                ],
+                "antonyms": [
+                        "depopulation",
+                        "desertion"
+                ],
+                "aftertaste": "Population is the silent symphony of life, echoing across time.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "populus",
+                                        "meaning": "people"
+                                },
+                                {
+                                        "term": "-ation",
+                                        "meaning": "act, process"
+                                }
+                        ],
+                        "points": [
+                                "「人口」という語は、ラテン語の「populus」（人々）と「-ation」（行為、状態）に由来し、人々が集まり存在する状態を表す語として形成されました。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "Late Middle English, 14th Century"
         }
 ];
