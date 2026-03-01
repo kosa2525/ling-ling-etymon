@@ -32631,5 +32631,97 @@ const WORDS = [
                 "source": "Oxford English Dictionary",
                 "date": "2026-03-01",
                 "era": "Old English, Proto-Germanic origin"
+        },
+        {
+                "id": "pen",
+                "word": "Pen",
+                "part_of_speech": "noun",
+                "meaning": "ペン",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "penna-",
+                                        "type": "root",
+                                        "meaning": "羽根",
+                                        "lang": "ラテン語"
+                                }
+                        ],
+                        "original_statement": "The word 'pen' derives from the Latin 'penna', originally referring to a feather, as quills were initially used as writing tools."
+                },
+                "core_concept": {
+                        "en": "A tool that carries thoughts beyond the confines of the mind.",
+                        "ja": "思考を紙の上に解き放つための道具。"
+                },
+                "thinking_layer": "ペン。その小さき道具は時空を超え、無限の可能性を秘めた思想を紙の上に刻む伝説的な媒体である。人工の世界においては、ペンは夢や理想、抽象的な概念が現実として具現化される瞬間を捕らえる重要な証人だ。そして、その黒々としたインクの流れは、知覚不可能な感情と論理の深淵との交信を可能にする橋である。文面における静寂の中で、生物の一瞬の衝動や無限の思索が交錯し、物語を織りなす。ペンとは、ただの道具ではなく、時に歴史そのものを左右する力を持ち、祈りの言葉を紡ぎ出す謙虚な存在だ。書き表される一文字一文字に宇宙が宿り、その筆跡によって個人の内なる宇宙が具現化される。ペンの先からあふれ出す言葉は、時の狭間にあって、人々の想いを超越した存在へと昇華させる力を秘めている。まさに、ペンは人類にとっての光であり、闇でもある。そこに宿る可能性は無限であり、限りある人生を超えた真理を教えてくれる案内人だと言えよう。",
+                "synonyms": [
+                        "Writing tool",
+                        "Quill"
+                ],
+                "antonyms": [
+                        "Erase",
+                        "Silence"
+                ],
+                "aftertaste": "The pen writes the future as much as the past.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "penna",
+                                        "meaning": "feather"
+                                }
+                        ],
+                        "points": [
+                                "ペンは羽根から進化し、その歴史は人類の知識と創造力の発展そのものといえる。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "Medieval Latin"
+        },
+        {
+                "id": "dude",
+                "word": "Dude",
+                "part_of_speech": "noun",
+                "meaning": "男性のカジュアルな呼び方",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "doodle-",
+                                        "type": "root",
+                                        "meaning": "愚か者、田舎者",
+                                        "lang": "英語"
+                                }
+                        ],
+                        "original_statement": "Originally surfacing in the late 19th century US slang, 'dude' evolved from 'doodle', meaning a foolish or rural person."
+                },
+                "core_concept": {
+                        "en": "A casual camaraderie echoing through time.",
+                        "ja": "時を超える親しみのある仲間意識"
+                },
+                "thinking_layer": "『デュード』という言葉は、単なる音の響き以上の意味を持つ。かつては愚かな者、または田舎者を指す言葉として使われていたが、時代を経るごとにその意味は変容し、より親しい関係を示す言葉となった。現代においては、友人や親しい知人を示す言葉として浸透している。これは、言葉が持つ流動性の好例であり、社会が変化する中でどのように意味が適応されるかを示している。『デュード』という一語の中には、友情と受容、そしてその背後にある豊かな歴史が込められている。この過程において、我々は文化がどのように言葉を再定義し、日常に色彩を与えているかを垣間見ることができるのだ。言葉の転換は、社会の変化と共に温かさや親しみ、そして共鳴を作り出す力がある。『デュード』はただの名前ではなく、人間の深層にあるつながりと絆の証である。実生活の友情を映し出しながら、時として無限の可能性を開く詩である。",
+                "synonyms": [
+                        "guy",
+                        "chap"
+                ],
+                "antonyms": [
+                        "formal",
+                        "stranger"
+                ],
+                "aftertaste": "Language evolves as humanity does, embracing kinship over isolation.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "doodle",
+                                        "meaning": "愚か者"
+                                }
+                        ],
+                        "points": [
+                                "『デュード』の語源は、特定の社会的コンテクストと文化の変化を含む面白い歴史を経て進化しました。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "19th Century American slang"
         }
 ];
