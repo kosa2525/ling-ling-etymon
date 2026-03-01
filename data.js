@@ -46612,10 +46612,62 @@ const WORDS = [
                 "era": "Late Middle English"
         },
         {
-                "id": "conduct",
-                "word": "Conduct",
-                "part_of_speech": "noun/verb",
-                "meaning": "指導、行動の方法や態度",
+                "id": "react",
+                "word": "React",
+                "part_of_speech": "verb",
+                "meaning": "反応する、応答する",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "re-",
+                                        "type": "prefix",
+                                        "meaning": "再び",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "act",
+                                        "type": "root",
+                                        "meaning": "行動する",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'react' is derived from the Latin 're-' meaning 'again' and 'agere' meaning 'to do'."
+                },
+                "core_concept": {
+                        "en": "An echo of existence reverberating through the orchestra of reality.",
+                        "ja": "現実のオーケストラにこだまする存在のエコー。"
+                },
+                "thinking_layer": "「反応」とは、ただ単なる行動の反復ではなく、万物が相互に影響を与え、生成するダイナミズムの中にある。これには、記憶という名の時の織物が霊妙に絡み合い、過去と未来が永遠の輪の中で交差する様を思わせる。心が他者や環境へ共鳴する際、我々は一時的に単独の存在を超え、宇宙のハーモニーの一部となる。こうして、人間を含む自然の全体が奏でる交響曲の中での反応は、ただ因果を証明するだけではなく、より深い意味での命の真髄を探求する契機を提供する。それは、私たちの内に潜む無限の可能性と、他者との魂の交感に気づかせてくれる、美しい思索の瞬間である。そこには、個々の出来事を越えた永遠なる思いやりと調和が息づいている。反応することは、存在と時間の根源的な織りなす彫刻の一部と化す瞬間であるといえるのだ。200文字を超えても、この発想の壮大さと詩的感受性は、さらに我々の知識欲を刺激する。反応は単なるアクションではなく、命そのものの脈動を感じ取る儀式なのである。",
+                "synonyms": [
+                        "respond",
+                        "answer"
+                ],
+                "antonyms": [
+                        "ignore",
+                        "neglect"
+                ],
+                "aftertaste": "To react is to breathe life into the silence of anticipation.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "act",
+                                        "meaning": "to do, to perform"
+                                }
+                        ],
+                        "points": [
+                                "語源的には、ラテン語の「agere」に由来し、「行動すること」の概念から、物事や状況に応じて何かを行うことを意味する。"
+                        ]
+                },
+                "source": "The Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "15th Century Latin"
+        },
+        {
+                "id": "constructive",
+                "word": "Constructive",
+                "part_of_speech": "adjective",
+                "meaning": "建設的な、前向きな",
                 "author": "etymon_official",
                 "etymology": {
                         "breakdown": [
@@ -46626,181 +46678,9 @@ const WORDS = [
                                         "lang": "Latin"
                                 },
                                 {
-                                        "text": "ducere",
+                                        "text": "struct-",
                                         "type": "root",
-                                        "meaning": "導く",
-                                        "lang": "Latin"
-                                }
-                        ],
-                        "original_statement": "The word 'conduct' derives from the Latin verb 'conducere', which means 'to bring together' or 'to lead'."
-                },
-                "core_concept": {
-                        "en": "The graceful orchestration of action and intention.",
-                        "ja": "行動と意図の優雅なる交響曲"
-                },
-                "thinking_layer": "『conduct』という言葉は、単なる行動以上の概念であり、人間の存在に深く関わっている。これは、調和と調整の美学であり、人生のさまざまな場面での自分自身の導き方を模索する旅である。人は行動を通して他者と繋がり、また自らの内なる声を指針とすることで、自己の存在を確立していく。指導することは、単に他者を導く以上に、自己を律する術でもある。自らの行動において、慎ましさと意図的な選択が光輝く瞬間がある。これはまるで、日々の小さな決断が大きな調和を紡ぎ出す交響楽のようである。『conduct』は、内なる宇宙と外界との対話の一部であり、この絶え間ない交感が人生の歩みを豊かにする。まさに、調和の探求と実践こそが『conduct』の核心にある。",
-                "synonyms": [
-                        "Management",
-                        "Behavior"
-                ],
-                "antonyms": [
-                        "Misconduct",
-                        "Neglect"
-                ],
-                "aftertaste": "Your actions are the silent symphony that others hear.",
-                "deep_dive": {
-                        "roots": [
-                                {
-                                        "term": "ducere",
-                                        "meaning": "to lead"
-                                }
-                        ],
-                        "points": [
-                                "『conduct』は単なる行動の指示ではなく、人間としての意図的な選択と豊かな内面の表現を示すものである。"
-                        ]
-                },
-                "source": "Oxford English Dictionary",
-                "date": "2026-03-01",
-                "era": "Latin origin"
-        },
-        {
-                "id": "project",
-                "word": "Project",
-                "part_of_speech": "noun/verb",
-                "meaning": "企画、計画; 投影する",
-                "author": "etymon_official",
-                "etymology": {
-                        "breakdown": [
-                                {
-                                        "text": "pro-",
-                                        "type": "prefix",
-                                        "meaning": "前に",
-                                        "lang": "Latin"
-                                },
-                                {
-                                        "text": "jacere",
-                                        "type": "root",
-                                        "meaning": "投げる",
-                                        "lang": "Latin"
-                                }
-                        ],
-                        "original_statement": "The word 'project' originates from the Latin 'projectum', the neuter of 'projectus', the past participle of 'proicere', meaning 'to throw forth'; 'pro-' meaning 'forth' and 'iacere' meaning 'to throw'. It entered Middle English through Old French in the late 14th century."
-                },
-                "core_concept": {
-                        "en": "An idea cast forth, shaping future realms.",
-                        "ja": "未来の領域を形作るために投げかけられたアイデア"
-                },
-                "thinking_layer": "考えることは、時に我々自身を超えた大きな流れに投げかける行為である。「プロジェクト」という言葉はただの計画を超えた次元に私たちを誘うものであり、それは未来を見据えた構想の具現化に他ならない。古代から人々は、自らの願いを形にし、見えない力を感じさせる一歩を踏み出してきた。その背景には自由と好奇心、そして生来抱く未知への憧憬がある。心に浮かんだビジョンが、世界に浸透し、形を成すまでには無数の交錯した意図がある。計画することは、単に未来を予測するだけではなく、未知の地平に足を踏み入れる勇気の表れであり、また、何もない空間に何かを見出す試みである。計画は概念の種を持って時間を超えて広がり、私たちの世界観を変える力を持つ。プロジェクトには物理的な実体を生む力以上に、意味の世界における布石があるのだ。創造の息吹が人と社会を変革する歓びに寄与する限り、人は常に何か新たな「プロジェクト」に想いを馳せるだろう。",
-                "synonyms": [
-                        "Plan",
-                        "Scheme"
-                ],
-                "antonyms": [
-                        "Stagnation",
-                        "Idleness"
-                ],
-                "aftertaste": "Projects are the bridges we build to cross the chasms of uncertainty.",
-                "deep_dive": {
-                        "roots": [
-                                {
-                                        "term": "pro-",
-                                        "meaning": "forth"
-                                },
-                                {
-                                        "term": "jacere",
-                                        "meaning": "to throw"
-                                }
-                        ],
-                        "points": [
-                                "「プロジェクト」の概念は、単なる計画に留まらず、未来に向けた創造的な構想として理解される。"
-                        ]
-                },
-                "source": "Oxford English Dictionary",
-                "date": "2026-03-01",
-                "era": "Late 14th Century"
-        },
-        {
-                "id": "distance",
-                "word": "Distance",
-                "part_of_speech": "noun",
-                "meaning": "距離、隔たり",
-                "author": "etymon_official",
-                "etymology": {
-                        "breakdown": [
-                                {
-                                        "text": "distantia-",
-                                        "type": "root",
-                                        "meaning": "離れた状態",
-                                        "lang": "ラテン語"
-                                },
-                                {
-                                        "text": "distare",
-                                        "type": "verb",
-                                        "meaning": "分かれて立つ",
-                                        "lang": "ラテン語"
-                                },
-                                {
-                                        "text": "dis-",
-                                        "type": "prefix",
-                                        "meaning": "離れて",
-                                        "lang": "ラテン語"
-                                },
-                                {
-                                        "text": "stare",
-                                        "type": "root",
-                                        "meaning": "立つ",
-                                        "lang": "ラテン語"
-                                }
-                        ],
-                        "original_statement": "From the Latin 'distantia', through Old French 'distance', denoting the idea of physical space or separation between two points."
-                },
-                "core_concept": {
-                        "en": "The poetic stretch that separates and yet binds souls.",
-                        "ja": "魂を分かちつつも結びつける詩的な隔たり"
-                },
-                "thinking_layer": "距離とは、物理的な長さや範囲を超えた概念である。物体間の空間的な隔たりを指すだけでなく、心と心の間、思想と現実の間に横たわる無形の道である。距離が近づくと、親密さや共鳴が生まれるが、一方で、距離が広がると孤独や冷静さという異なる視点が得られる。それは即ち、自己と他者、現在と未来を繋ぐ見えない架け橋とも言えるだろう。時間の経過に伴って、距離は新たな意義を持ち始め、生命はその意味を探求する旅となる。距離とは、ただそのあり方に触れ、感じ、またそれぞれの一瞬を超えて広がる無限の可能性を秘めたものである。結局、その隔たりを乗り越えた先に何があるのか、それを知ることは、私たちの存在の核心に迫る行為であり、距離という言葉はその旅を象徴しているかもしれない。全ての距離は、あるいは近づき、あるいは離れて、再び巡り合う巡回の輪を描くのだ。",
-                "synonyms": [
-                        "remoteness",
-                        "gap"
-                ],
-                "antonyms": [
-                        "proximity",
-                        "closeness"
-                ],
-                "aftertaste": "Distance both separates and unites.",
-                "deep_dive": {
-                        "roots": [
-                                {
-                                        "term": "distare",
-                                        "meaning": "to stand apart"
-                                }
-                        ],
-                        "points": [
-                                "「距離」という言葉は、もともとラテン語の「distantia」を起源とし、人間の経験や感情の複雑さを象徴する重要な概念。"
-                        ]
-                },
-                "source": "Oxford English Dictionary",
-                "date": "2026-03-01",
-                "era": "14th Century"
-        },
-        {
-                "id": "conductive",
-                "word": "Conductive",
-                "part_of_speech": "adjective",
-                "meaning": "物質を通して電気や熱を伝える能力を持つ特性",
-                "author": "etymon_official",
-                "etymology": {
-                        "breakdown": [
-                                {
-                                        "text": "con-",
-                                        "type": "prefix",
-                                        "meaning": "共に、または一緒に",
-                                        "lang": "Latin"
-                                },
-                                {
-                                        "text": "ducere",
-                                        "type": "root",
-                                        "meaning": "導く",
+                                        "meaning": "構築する",
                                         "lang": "Latin"
                                 },
                                 {
@@ -46810,594 +46690,35 @@ const WORDS = [
                                         "lang": "Latin"
                                 }
                         ],
-                        "original_statement": "The word 'conductive' originates from the Latin 'conducere', meaning 'to lead together'."
+                        "original_statement": "Derives from the Latin 'construere', meaning 'to build up, pile together'."
                 },
                 "core_concept": {
-                        "en": "The guiding thread of energy and heat through the tapestry of matter.",
-                        "ja": "物質の中を巡るエネルギーと熱の導線"
+                        "en": "An enlightened framework of creation and positive progression.",
+                        "ja": "創造と前向きな進展の啓示された枠組み"
                 },
-                "thinking_layer": "導電性とは、目には見えない現象を通じて存在を感じることを許すものです。この概念は、電流が物質を通じて流れる能力を象徴します。それは目に見えぬが確実に存在するエネルギーの経路を作り出します。導電性は、単なる物理現象としてではなく、私たちの思考や感情の導線のように機能し、知識やインスピレーションが時空を超えて流れる方法を考えさせます。この生命の導線は、自然界に編み込まれた静かで謎めいた力であり、私たちを知識の広大な宇宙へと導きます。それは、他者と繋がるための見えない絆であり、感覚を超えた次元での対話の一形態です。私たちは、この潜在的な力と共に歩み、それが存在することによって新たな視界を得ることができています。こうして、導電性は私たちの内と外を自由に流れ続けるのです。",
+                "thinking_layer": "『建設的』という言葉は、ただの物理的な構築を超えて、心と時空を滑らかに紡ぐ不朽のアートである。そこにあるのは、自己を超えた無限の可能性に向けて昇華し、寛容と理解で織り上げられた未来の風景を描く力である。この概念は、個々の人間がすべての生命として繋がり合い、互いの集積としてより良き社会を築く手段である。建設的であることは、批評を超えた新しい視点を育むこと。人間の精神は意図的かつ柔軟に自らの道を開拓し、存在の根源に触れる術としての道筋を作り上げる責任を負うのである。建設的な振る舞いは、すべての破片を取り込みながらも、調和とバランスを見出し、それらがどのように偉大な全体と結びついているかを示す。心の奥底に潜む真理が、時には小さくても力強い声として現れる。これは、内的な必然性を具現化するための道具であり、私たちはそれに従い、繋がり合い、そして創造を続けるのだ。",
                 "synonyms": [
-                        "Conducting",
-                        "Transmissive"
+                        "Positive",
+                        "Productive"
                 ],
                 "antonyms": [
-                        "Nonconductive",
-                        "Insulating"
+                        "Destructive",
+                        "Harmful"
                 ],
-                "aftertaste": "Conductivity whispers secrets woven in the fabric of the universe.",
+                "aftertaste": "True construction begins with the alignment of intention and action.",
                 "deep_dive": {
                         "roots": [
                                 {
-                                        "term": "conducere",
-                                        "meaning": "to lead together"
+                                        "term": "struere",
+                                        "meaning": "to pile up, arrange"
                                 }
                         ],
                         "points": [
-                                "導電性はラテン語の 'conducere' から派生し、その意味は共に導くことです。それは全てを繋ぐ力の象徴として、簡潔に存在します。"
-                        ]
-                },
-                "source": "Oxford English Dictionary",
-                "date": "2026-03-01",
-                "era": "Late Middle English"
-        },
-        {
-                "id": "capacity",
-                "word": "Capacity",
-                "part_of_speech": "noun",
-                "meaning": "能力や収容力",
-                "author": "etymon_official",
-                "etymology": {
-                        "breakdown": [
-                                {
-                                        "text": "capax",
-                                        "type": "root",
-                                        "meaning": "収容できる、持てる",
-                                        "lang": "Latin"
-                                },
-                                {
-                                        "text": "-itas",
-                                        "type": "suffix",
-                                        "meaning": "状態、特性",
-                                        "lang": "Latin"
-                                }
-                        ],
-                        "original_statement": "The word 'capacity' originates from the Latin 'capax', meaning 'able to take in', combined with the suffix '-ity' which indicates a state or condition."
-                },
-                "core_concept": {
-                        "en": "The boundless potential within containment.",
-                        "ja": "内包する無限の可能性"
-                },
-                "thinking_layer": "言葉『キャパシティ』に秘められた本質は、物理的な限界と無限の可能性の融合である。我々が目にする容器の中に、どれほどの物が収まるか—その考えの背後には、空間の存在というだけではなく、その空間を生み出す思考の無限性がある。しかるに、『キャパシティ』は単なる量を測る尺度ではない。それは我々の想像力や創造力を試す、精神の障壁でもある。限界を超え、新たな次元を探求するための器。それは人間の知覚の拡張であり、様々な可能性を密かに誘う誘因の装置でもある。空間の捉え方一つで、世界の持つ意味や広がりが変容する—『キャパシティ』とはその鍵となる概念である。無限と有限、その相反する存在の調和を象徴する言葉であり、時として人間の可能性を再考させる、無言の哲学的探求の時例である。",
-                "synonyms": [
-                        "Volume",
-                        " Capability"
-                ],
-                "antonyms": [
-                        "Limitation",
-                        "Incapacity"
-                ],
-                "aftertaste": "Capacity is the quiet holding of infinite possibilities within finite boundaries.",
-                "deep_dive": {
-                        "roots": [
-                                {
-                                        "term": "capax",
-                                        "meaning": "able to hold"
-                                },
-                                {
-                                        "term": "-itas",
-                                        "meaning": "state or quality"
-                                }
-                        ],
-                        "points": [
-                                "語源『capax』には、収容する力能のある状態を表す意味がある。この根源的な概念は古代ローマから持ち越されてきた思想を反映している。"
-                        ]
-                },
-                "source": "Online Etymology Dictionary (etymonline.com)",
-                "date": "2026-03-01",
-                "era": "Mid 15th Century"
-        },
-        {
-                "id": "expose",
-                "word": "Expose",
-                "part_of_speech": "verb",
-                "meaning": "露出する、明らかにする",
-                "author": "etymon_official",
-                "etymology": {
-                        "breakdown": [
-                                {
-                                        "text": "ex-",
-                                        "type": "prefix",
-                                        "meaning": "外へ",
-                                        "lang": "Latin"
-                                },
-                                {
-                                        "text": "ponere",
-                                        "type": "root",
-                                        "meaning": "置く",
-                                        "lang": "Latin"
-                                }
-                        ],
-                        "original_statement": "From the Latin 'exponere', meaning 'to set forth, bring to light'."
-                },
-                "core_concept": {
-                        "en": "To lay bare the truth, casting light upon hidden facets.",
-                        "ja": "隠された真実を顕にし、光を当てる行為。"
-                },
-                "thinking_layer": "「露出」という行為は、単なる物体の一般的な開示を超えて、精神の深みに触れる概念である。それは、未知を明らかにし、見えざるものに光を当てることで、人間の探究心と真実への飽くなき渇望を体現する行為である。人間の歴史を振り返れば、常に真実を露わにすることで新たな発見がなされてきた。光が闇を裂いて前に進むように、露出は知識を広げ、理解を深め、さらに奥へと進む道を拓く。すなわち、露出とは単なる物理的な行為にとどまらず、内面的な変化を促し、心の奥底にある潜在的な可能性を開放する道標でもある。そして、その過程においては、個々が持つ文化的、心理的なフィルターを通して、真実が新たな形で再構成される。露出とは、静寂の中に潜む音を聞き、目に見えぬものを観察する技術である。すべての偉大なる真理は、露出という光によって明らかにされたときに、はじめて生命を得て人々の意識へと静かに浸透していく。",
-                "synonyms": [
-                        "reveal",
-                        "uncover"
-                ],
-                "antonyms": [
-                        "conceal",
-                        "hide"
-                ],
-                "aftertaste": "Exposure strips away shadows, leaving only truth in its wake.",
-                "deep_dive": {
-                        "roots": [
-                                {
-                                        "term": "exponere",
-                                        "meaning": "to set forth"
-                                }
-                        ],
-                        "points": [
-                                "「ex-」はラテン語で「外へ」という意味を持ち、開かれること、示されることを連想させる。",
-                                "「ponere」は「置く」を意味し、基盤となるアイデアや思考の配置を暗示する。"
+                                "『構築的』という概念は、単なる物理的構築に留まらず、精神的な発展も指し示す。"
                         ]
                 },
                 "source": "Online Etymology Dictionary",
                 "date": "2026-03-01",
-                "era": "Late 14th Century"
-        },
-        {
-                "id": "subtract",
-                "word": "Subtract",
-                "part_of_speech": "verb",
-                "meaning": "引き算する、取り去る",
-                "author": "etymon_official",
-                "etymology": {
-                        "breakdown": [
-                                {
-                                        "text": "sub-",
-                                        "type": "prefix",
-                                        "meaning": "下に",
-                                        "lang": "Latin"
-                                },
-                                {
-                                        "text": "trahere",
-                                        "type": "root",
-                                        "meaning": "引く",
-                                        "lang": "Latin"
-                                }
-                        ],
-                        "original_statement": "Derived from the Latin 'subtrahere', meaning to draw away or to take away."
-                },
-                "core_concept": {
-                        "en": "The gentle art of removing the unnecessary, revealing truth.",
-                        "ja": "不必要なものを取り除き、真実を明らかにする優雅な技法"
-                },
-                "thinking_layer": "引き算という行為は、単なる数の操作ではなく、人生の哲学的な縮図を表しています。何かを引くということは、時に自己を高める行為です。生命は様々な経験や情報によって形成されますが、それらは常に価値あるものとは限りません。むしろ、人間としての核心に近づくためには、時には余分なものを取り去る勇気が必要です。これは、単に物理的なものに限らず、感情や思考においても同様です。内なる静けさを取り戻すためには、心の中の雑音を減少させる必要があります。引き算のプロセスは、複雑さの中に潜む簡潔さを見出す探求です。引き去るという行為を通じて、我々は本質を求め続け、過剰なものを剥がすことで自身をより豊かにしていくのです。日本語の美しい言葉で言えば、それは「削ぎ落とし」であり、最小限にすることで、真実の姿を浮かび上がらせる旅なのです。",
-                "synonyms": [
-                        "deduct",
-                        "take away"
-                ],
-                "antonyms": [
-                        "add",
-                        "increase"
-                ],
-                "aftertaste": "The essence of life is sometimes found not in what remains, but in what is removed.",
-                "deep_dive": {
-                        "roots": [
-                                {
-                                        "term": "trahere",
-                                        "meaning": "to draw or pull"
-                                }
-                        ],
-                        "points": [
-                                "「subtract」という言葉は、単なる計算を超越し、存在の根源的な理解を示唆します。人生における不要なものを削ぎ落とすことで、人間の本質に触れることができるという思想が、その中に潜んでいます。"
-                        ]
-                },
-                "source": "Online Etymology Dictionary",
-                "date": "2026-03-01",
-                "era": "Late Middle English, influenced by Latin"
-        },
-        {
-                "id": "explanation",
-                "word": "Explanation",
-                "part_of_speech": "noun",
-                "meaning": "説明、明解にすること",
-                "author": "etymon_official",
-                "etymology": {
-                        "breakdown": [
-                                {
-                                        "text": "ex-",
-                                        "type": "prefix",
-                                        "meaning": "外へ",
-                                        "lang": "Latin"
-                                },
-                                {
-                                        "text": "planare",
-                                        "type": "root",
-                                        "meaning": "平らにする",
-                                        "lang": "Latin"
-                                }
-                        ],
-                        "original_statement": "Derived from Latin 'explanatio' meaning the act of making something clear or flat."
-                },
-                "core_concept": {
-                        "en": "The act of unveiling surfaces into clarity.",
-                        "ja": "明快になるためのヴェールを剥がす行為"
-                },
-                "thinking_layer": "説明は、我々の日常において常に求められる行為である。しかし、その深遠な意味を見つめると、説明とはただ物事を明らかにするだけでなく、他者との間に架け橋を築く行為であることに気づく。言語が持つ限界を超えて、説明は心と心を繋げる魔法のような営みでもある。すべてを言葉で説明するのは不可能にも思えるが、そこにこそ説明することの意義があると言える。あたかも未知の領域を探索するように、わたしたちは言葉を紡ぎ出し、思考の旅に誘う。説明はまた、自己をも超え、他者を理解するための高啓的な道具でもある。説明することで、互いの視点を共有し、いかなる難解な事象も共通の地平へと導くことが可能となる。それは、個々の心にある多様性を解き放ち、調和の道を示す灯火となるのだ。そう考えると、説明が持つ儀式的な面が見えてくる。説明は、会話を超えて魂に宿る真実を伝える重要な手段である。そのため、説明には言葉に宿る重力を軽んじず、その背後に隠された意味の微細なニュアンスを丹念に紡ぎ出す心構えが必要なのだ。",
-                "synonyms": [
-                        "Clarification",
-                        "Illustration"
-                ],
-                "antonyms": [
-                        "Obfuscation",
-                        "Confusion"
-                ],
-                "aftertaste": "Explanation pierces the fog of the unknown, bringing light to obscurity.",
-                "deep_dive": {
-                        "roots": [
-                                {
-                                        "term": "planare",
-                                        "meaning": "to make level or flat"
-                                }
-                        ],
-                        "points": [
-                                "説明という概念は、単なる言語上の明確化ではなく、より深い意味での理解を追求するプロセスです。説明は、抽象的概念を具体化し、視覚化する手段でもあります。"
-                        ]
-                },
-                "source": "Online Etymology Dictionary",
-                "date": "2026-03-01",
-                "era": "Late Middle English, from Latin"
-        },
-        {
-                "id": "assistant",
-                "word": "Assistant",
-                "part_of_speech": "noun",
-                "meaning": "手助けをする人や役割",
-                "author": "etymon_official",
-                "etymology": {
-                        "breakdown": [
-                                {
-                                        "text": "ad-",
-                                        "type": "prefix",
-                                        "meaning": "方向",
-                                        "lang": "Latin"
-                                },
-                                {
-                                        "text": "sistere",
-                                        "type": "root",
-                                        "meaning": "立つ",
-                                        "lang": "Latin"
-                                }
-                        ],
-                        "original_statement": "The word 'assistant' originates from the Latin word 'assistere', meaning to stand by or to be present."
-                },
-                "core_concept": {
-                        "en": "A gentle hand that fosters progress.",
-                        "ja": "進歩を育む優しい手"
-                },
-                "thinking_layer": "人間の存在における助け合いは、デリケートで繊細な織物を紡ぐようなものである。助けるという行為は、一つの行動が引き金となって次々と新たな可能性の扉を開く。助けられることによって、人は自らが発見できなかった内なる力に目覚める。それは、互いの存在を支える無言の約束であり、文明に新たな章を刻み込む響きである。助け合うことで生まれる豊かさは、経験や知識の共有を超えて、他者の存在を自らの鏡として映し出す。そしてその映像は、時間と共に深遠さを増し、無限の連鎖を生み出す。その結果、個々の光は集まり、巨大な光の共鳴を創出する。この助けの連鎖が絶え間なく世界を変化させ、人生の旅をより美しく、新たな意味で満たされたものへと導いてくれる。",
-                "synonyms": [
-                        "Helper",
-                        "Aide"
-                ],
-                "antonyms": [
-                        "Hindrance",
-                        "Opposition"
-                ],
-                "aftertaste": "The essence of partnership lies in the art of being present.",
-                "deep_dive": {
-                        "roots": [
-                                {
-                                        "term": "sistere",
-                                        "meaning": "to stand"
-                                }
-                        ],
-                        "points": [
-                                "「アシスタント」という言葉は、単に補助する役割以上に、存在の共有を通じて新たな価値を創出する理念を含んでいる。"
-                        ]
-                },
-                "source": "Online Etymology Dictionary",
-                "date": "2026-03-01",
-                "era": "Late 16th Century"
-        },
-        {
-                "id": "position",
-                "word": "Position",
-                "part_of_speech": "noun",
-                "meaning": "位置や姿勢を指す言葉",
-                "author": "etymon_official",
-                "etymology": {
-                        "breakdown": [
-                                {
-                                        "text": "posit-",
-                                        "type": "root",
-                                        "meaning": "置く",
-                                        "lang": "Latin"
-                                },
-                                {
-                                        "text": "-ion",
-                                        "type": "suffix",
-                                        "meaning": "行為・状態を示す",
-                                        "lang": "Latin"
-                                }
-                        ],
-                        "original_statement": "Derived from the Latin 'positio', which pertains to placing or placing something in a particular location."
-                },
-                "core_concept": {
-                        "en": "The art of existence in space.",
-                        "ja": "空間における存在の技芸"
-                },
-                "thinking_layer": "「位置」という言葉は、我々の存在そのものがどのように空間内で形作られるかを表す詩的な呼応である。私たちの世俗的な日常は、物理的な位置、姿勢、または状態によって大部分が定義されている。人間にとって「位置」は、感覚や精神の条件であり、物事を固定し、静止することを意味するが、一方で、内的変動や、選択の結果としての流動的な意味合いも孕んでいる。現代の生活の中では、「位置」は単なる地理的な配置を超え、社会的役割や感情の居場所として私たちを取り巻く無限の可能性を示している。空間と時間の織物には、それぞれの個が位置を得て、意味を賦与し、存在の詩を物語る場が広がっている。私たちの心の中で、位置とは、過去の痕跡と未来のビジョンを抱えた瞬間の「いま」に宿る、まるで音楽のような響きである。存在はその位置、または無位置（場所のない場所）によって常に再定義され、それが詩的な調和をもたらす。そうした中で、私たちは「位置」により我々の人生の秩序を探し出すのだ。",
-                "synonyms": [
-                        "Place",
-                        "Location"
-                ],
-                "antonyms": [
-                        "Displacement",
-                        "Dislocation"
-                ],
-                "aftertaste": "Position is both a grounding point and a launchpad to infinite realities.",
-                "deep_dive": {
-                        "roots": [
-                                {
-                                        "term": "posit",
-                                        "meaning": "to place, lay down"
-                                }
-                        ],
-                        "points": [
-                                "位置の概念は物理的な配置を超え、精神的、社会的な役割の象徴ともなっている。"
-                        ]
-                },
-                "source": "Oxford English Dictionary",
-                "date": "2026-03-01",
-                "era": "Late Middle English, from Latin"
-        },
-        {
-                "id": "insert",
-                "word": "Insert",
-                "part_of_speech": "verb",
-                "meaning": "挿入すること",
-                "author": "etymon_official",
-                "etymology": {
-                        "breakdown": [
-                                {
-                                        "text": "in-",
-                                        "type": "prefix",
-                                        "meaning": "中へ",
-                                        "lang": "Latin"
-                                },
-                                {
-                                        "text": "serere",
-                                        "type": "root",
-                                        "meaning": "配置する、植える",
-                                        "lang": "Latin"
-                                }
-                        ],
-                        "original_statement": "The word 'insert' originates from the Latin 'inserere', combining 'in-' (into) and 'serere' (to join, put in line), used in English since the 15th century."
-                },
-                "core_concept": {
-                        "en": "A delicate act of placing something within another, merging subtly with the existing fabric.",
-                        "ja": "既存の構造に何かを繊細に置き、共に溶け込ませる行為。"
-                },
-                "thinking_layer": "「挿入」するという言葉は、単なる物理的な動作というよりも、視覚的には見えない新たな可能性が織り込まれる優雅な融合の儀式である。挿入されたものは単独で存在するだけでなく、周囲の環境や物事の流れに新たな魅力と意義を加え、全体の調和を生む。この行為は、我々が日常生活の中で無意識に行っている他者との関わりの本質をも象徴している。他者との世界にそっと自分を「挿入」し、共存しながら新たな関係を織り成す技術。私たちの存在そのものも、実は宇宙という大きなパズルにおける一片であり、この中に自らを挿入し、その完璧な絵を完成させる一翼を担っているのだ。したがって、挿入される瞬間と場が持つ深遠な意味と美しさを見逃してはならない。世界と心が新たに共鳴しあうその瞬間、そこには無限の感動と静けさが宿る。",
-                "synonyms": [
-                        "Embed",
-                        "Introduce"
-                ],
-                "antonyms": [
-                        "Remove",
-                        "Extract"
-                ],
-                "aftertaste": "Inserting echoes the seamless blending of universes within a single space.",
-                "deep_dive": {
-                        "roots": [
-                                {
-                                        "term": "serere",
-                                        "meaning": "to join, put in line"
-                                }
-                        ],
-                        "points": [
-                                "ラテン語の「serere」は、配置するという意味で、組み合わせの美学を表す。"
-                        ]
-                },
-                "source": "Oxford Dictionary of English Etymology",
-                "date": "2026-03-01",
-                "era": "15th Century"
-        },
-        {
-                "id": "option",
-                "word": "Option",
-                "part_of_speech": "noun",
-                "meaning": "選択肢、選択の自由",
-                "author": "etymon_official",
-                "etymology": {
-                        "breakdown": [
-                                {
-                                        "text": "opt-",
-                                        "type": "root",
-                                        "meaning": "選ぶ",
-                                        "lang": "ラテン語"
-                                }
-                        ],
-                        "original_statement": "The word 'option' originates from the Latin word 'optio', meaning a choice or the freedom to choose."
-                },
-                "core_concept": {
-                        "en": "The delicate dance of possibility and choice.",
-                        "ja": "可能性と選択の繊細な舞"
-                },
-                "thinking_layer": "選択という概念は、人生における無数の道の中から一つを選び取る行為であり、その象徴的な表現でもある。人は迷い、時に躊躇しながらも、選ぶことで自らの物語を書き換える力を持つ。その背後には、選ばなかった可能性の煌めきが隠れている。選択の瞬間は、未来の無数の顔を垣間見る瞬間でもあり、美しくも儚い。選択の未確定性とその潜在力は、まるで流れる川のように、私たちの人生を新しい方向へと導く。時として、選び取った道が正しいのかどうか悩むこともあるだろう。しかし、それが私たちに引き渡された唯一の道であり、他の可能性を手放すことでのみ、その道を完全に歩むことができる。人生という名の物語は、無限の選択の連なりでできているのだ。",
-                "synonyms": [
-                        "Choice",
-                        "Alternative"
-                ],
-                "antonyms": [
-                        "Constraint",
-                        "Compulsion"
-                ],
-                "aftertaste": "Options are the silent architects of destiny.",
-                "deep_dive": {
-                        "roots": [
-                                {
-                                        "term": "optio",
-                                        "meaning": "choice, wish"
-                                }
-                        ],
-                        "points": [
-                                "選択には力と責任が伴う。選択の自由は、時に希望を抱き、時に恐れを生む源となる。"
-                        ]
-                },
-                "source": "Oxford English Dictionary",
-                "date": "2026-03-01",
-                "era": "Late Middle English"
-        },
-        {
-                "id": "credit",
-                "word": "Credit",
-                "part_of_speech": "noun/verb",
-                "meaning": "信頼、信認",
-                "author": "etymon_official",
-                "etymology": {
-                        "breakdown": [
-                                {
-                                        "text": "credere-",
-                                        "type": "root",
-                                        "meaning": "信じる",
-                                        "lang": "ラテン語"
-                                }
-                        ],
-                        "original_statement": "The term originated from Latin 'credere', meaning 'to believe or trust'."
-                },
-                "core_concept": {
-                        "en": "The belief that something unseen holds true—a whisper of trust through the veils of time.",
-                        "ja": "見えないものを信じるという概念—時のヴェールを越えた信頼の囁き。"
-                },
-                "thinking_layer": "『クレジット』という言葉は、経済的な文脈を超えて哲学的な意味合いを持ちます。私たちは毎日、多くの事柄に「信頼」を与え、受け取りますが、その背後には人間の基本的な信念が息づいています。信頼とは、目に見えないもの、証拠によらないものに対する精神の飛翔です。この信頼の根底にあるのは、私たちが他者を信用し、他者が私たちを信用する相互関係の構築です。クレジットは、経済的な取引を円滑にする潤滑油であり、同時に私たちの社会生活の要です。信頼なくしては何事も成立せず、クレジットの崩壊はそのまま文明の崩壊を意味します。クレジットの起源を辿ると、信頼や期待、未来への希望といった人間の根本的な欲求に行き着きます。そのため、クレジットは単なる貨幣的な概念を超えて、私たちの心と社会とをつなぐ架け橋として、永久に存在し続けるものなのです。",
-                "synonyms": [
-                        "Trust",
-                        "Reliance"
-                ],
-                "antonyms": [
-                        "Mistrust",
-                        "Skepticism"
-                ],
-                "aftertaste": "In the currency of trust, we invest in the unseen futures of belief.",
-                "deep_dive": {
-                        "roots": [
-                                {
-                                        "term": "credere",
-                                        "meaning": "to believe or trust"
-                                }
-                        ],
-                        "points": [
-                                "クレジットの語源はラテン語の 'credere' に由来し、信念や信頼を示す。"
-                        ]
-                },
-                "source": "Oxford English Dictionary",
-                "date": "2026-03-01",
-                "era": "Late Middle Ages"
-        },
-        {
-                "id": "intense",
-                "word": "Intense",
-                "part_of_speech": "adjective",
-                "meaning": "強い、激しい",
-                "author": "etymon_official",
-                "etymology": {
-                        "breakdown": [
-                                {
-                                        "text": "in-",
-                                        "type": "prefix",
-                                        "meaning": "中へ",
-                                        "lang": "Latin"
-                                },
-                                {
-                                        "text": "tendere-",
-                                        "type": "root",
-                                        "meaning": "伸ばす",
-                                        "lang": "Latin"
-                                }
-                        ],
-                        "original_statement": "The word 'intense' originates from the Latin word 'intensus', meaning 'stretched tight, strained'. It combines the prefix 'in-' (into) and 'tendere' (to stretch)."
-                },
-                "core_concept": {
-                        "en": "An intensity that pierces the soul, like the unwavering gaze of stars.",
-                        "ja": "魂を貫く激しさ、それは星々の輝きのように揺るぎない。"
-                },
-                "thinking_layer": "『激しさ』という言葉は、何かの中に潜む力強さや、思い切りの良さを表す。まるで深い底知れぬ海のように、強い感情や情熱を秘めた存在。それは人生におけるすべての瞬間を囲む感情の波として捉えられ、その力は人の心を動かし、意識を覚醒させる。激しさは、我々の内側から外界に向かって広がるエネルギーであり、過去と未来を繋ぐ瞬間の中で燃え上がる。我々は、あたかも流れる星の尾を追うように、その瞬間に魅了され、吸い寄せられ、心の奥底で燃える炎に触れる。世界のすべてが混沌とし、破壊と再生のサイクルの中で、一瞬の永遠を掴む旅を続ける。強力な風の中で決然と佇む木々のように、人間の魂は激しさによって鍛えられ、成長する。この感情は、何者にも屈せず、自分自身を超越しようとする力そのものである。",
-                "synonyms": [
-                        "Fierce",
-                        "Vigorous"
-                ],
-                "antonyms": [
-                        "Mild",
-                        "Gentle"
-                ],
-                "aftertaste": "Intensity is the essence of life's fiery moments.",
-                "deep_dive": {
-                        "roots": [
-                                {
-                                        "term": "tendere",
-                                        "meaning": "to stretch"
-                                }
-                        ],
-                        "points": [
-                                "『intender'』というラテン語は、物事を強く引っ張り、心に残る印象を与える。"
-                        ]
-                },
-                "source": "Oxford English Dictionary, Etymonline",
-                "date": "2026-03-01",
-                "era": "14th Century"
-        },
-        {
-                "id": "division",
-                "word": "Division",
-                "part_of_speech": "noun",
-                "meaning": "分割または区分",
-                "author": "etymon_official",
-                "etymology": {
-                        "breakdown": [
-                                {
-                                        "text": "dividere",
-                                        "type": "root",
-                                        "meaning": "分割",
-                                        "lang": "ラテン語"
-                                }
-                        ],
-                        "original_statement": "The word 'division' originates from the Latin 'dividere', which means to separate or to divide, entering English through Old French during the Middle English period."
-                },
-                "core_concept": {
-                        "en": "A harmonious splitting that creates spaces anew.",
-                        "ja": "新たな空間を創り出す調和のとれた分割"
-                },
-                "thinking_layer": "分離とは、単に物理的な擁壁を立てるだけでなく、人間の心や社会を形作る根本的な構造を反映する行為でもある。どのように分かたれるかにおいて、我々は自己と他者、内部と外部、個と全体を知覚し、それぞれの位置付けを再確認する。我々の内にある二律背反は、この分割の概念によって外部化され、敵対や争いの元となるが、同時に共鳴し合うことで新たな理解や共生の可能性を生む。切り離す際には、何かを失う痛みを伴う一方で、新たな領域を開拓する歓びが芽生える可能性もある。分割は、個々の断片が如何に互いに関係し合うかを再考するための哲学的な機会であり、同時にそれは終わりと始まりを同時に内包しうる時間的な旅でもあるかもしれない。",
-                "synonyms": [
-                        "Separation",
-                        "Partition"
-                ],
-                "antonyms": [
-                        "Unity",
-                        "Integration"
-                ],
-                "aftertaste": "Division can both isolate and harmonize, a paradox of boundaries and connections.",
-                "deep_dive": {
-                        "roots": [
-                                {
-                                        "term": "dividere",
-                                        "meaning": "to divide"
-                                }
-                        ],
-                        "points": [
-                                "ラテン語の「dividere」は「離れる」という概念に根ざし、それが英語の構造にどのような影響を与えたかは言語的進化の妙である。"
-                        ]
-                },
-                "source": "Oxford English Dictionary",
-                "date": "2026-03-01",
-                "era": "Middle English, 14th Century"
+                "era": "Late Middle English, Latin origin"
         }
 ];
