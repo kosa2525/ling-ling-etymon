@@ -47157,5 +47157,247 @@ const WORDS = [
                 "source": "Oxford English Dictionary",
                 "date": "2026-03-01",
                 "era": "Late Middle English, from Latin"
+        },
+        {
+                "id": "insert",
+                "word": "Insert",
+                "part_of_speech": "verb",
+                "meaning": "挿入すること",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "in-",
+                                        "type": "prefix",
+                                        "meaning": "中へ",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "serere",
+                                        "type": "root",
+                                        "meaning": "配置する、植える",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'insert' originates from the Latin 'inserere', combining 'in-' (into) and 'serere' (to join, put in line), used in English since the 15th century."
+                },
+                "core_concept": {
+                        "en": "A delicate act of placing something within another, merging subtly with the existing fabric.",
+                        "ja": "既存の構造に何かを繊細に置き、共に溶け込ませる行為。"
+                },
+                "thinking_layer": "「挿入」するという言葉は、単なる物理的な動作というよりも、視覚的には見えない新たな可能性が織り込まれる優雅な融合の儀式である。挿入されたものは単独で存在するだけでなく、周囲の環境や物事の流れに新たな魅力と意義を加え、全体の調和を生む。この行為は、我々が日常生活の中で無意識に行っている他者との関わりの本質をも象徴している。他者との世界にそっと自分を「挿入」し、共存しながら新たな関係を織り成す技術。私たちの存在そのものも、実は宇宙という大きなパズルにおける一片であり、この中に自らを挿入し、その完璧な絵を完成させる一翼を担っているのだ。したがって、挿入される瞬間と場が持つ深遠な意味と美しさを見逃してはならない。世界と心が新たに共鳴しあうその瞬間、そこには無限の感動と静けさが宿る。",
+                "synonyms": [
+                        "Embed",
+                        "Introduce"
+                ],
+                "antonyms": [
+                        "Remove",
+                        "Extract"
+                ],
+                "aftertaste": "Inserting echoes the seamless blending of universes within a single space.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "serere",
+                                        "meaning": "to join, put in line"
+                                }
+                        ],
+                        "points": [
+                                "ラテン語の「serere」は、配置するという意味で、組み合わせの美学を表す。"
+                        ]
+                },
+                "source": "Oxford Dictionary of English Etymology",
+                "date": "2026-03-01",
+                "era": "15th Century"
+        },
+        {
+                "id": "option",
+                "word": "Option",
+                "part_of_speech": "noun",
+                "meaning": "選択肢、選択の自由",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "opt-",
+                                        "type": "root",
+                                        "meaning": "選ぶ",
+                                        "lang": "ラテン語"
+                                }
+                        ],
+                        "original_statement": "The word 'option' originates from the Latin word 'optio', meaning a choice or the freedom to choose."
+                },
+                "core_concept": {
+                        "en": "The delicate dance of possibility and choice.",
+                        "ja": "可能性と選択の繊細な舞"
+                },
+                "thinking_layer": "選択という概念は、人生における無数の道の中から一つを選び取る行為であり、その象徴的な表現でもある。人は迷い、時に躊躇しながらも、選ぶことで自らの物語を書き換える力を持つ。その背後には、選ばなかった可能性の煌めきが隠れている。選択の瞬間は、未来の無数の顔を垣間見る瞬間でもあり、美しくも儚い。選択の未確定性とその潜在力は、まるで流れる川のように、私たちの人生を新しい方向へと導く。時として、選び取った道が正しいのかどうか悩むこともあるだろう。しかし、それが私たちに引き渡された唯一の道であり、他の可能性を手放すことでのみ、その道を完全に歩むことができる。人生という名の物語は、無限の選択の連なりでできているのだ。",
+                "synonyms": [
+                        "Choice",
+                        "Alternative"
+                ],
+                "antonyms": [
+                        "Constraint",
+                        "Compulsion"
+                ],
+                "aftertaste": "Options are the silent architects of destiny.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "optio",
+                                        "meaning": "choice, wish"
+                                }
+                        ],
+                        "points": [
+                                "選択には力と責任が伴う。選択の自由は、時に希望を抱き、時に恐れを生む源となる。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Late Middle English"
+        },
+        {
+                "id": "credit",
+                "word": "Credit",
+                "part_of_speech": "noun/verb",
+                "meaning": "信頼、信認",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "credere-",
+                                        "type": "root",
+                                        "meaning": "信じる",
+                                        "lang": "ラテン語"
+                                }
+                        ],
+                        "original_statement": "The term originated from Latin 'credere', meaning 'to believe or trust'."
+                },
+                "core_concept": {
+                        "en": "The belief that something unseen holds true—a whisper of trust through the veils of time.",
+                        "ja": "見えないものを信じるという概念—時のヴェールを越えた信頼の囁き。"
+                },
+                "thinking_layer": "『クレジット』という言葉は、経済的な文脈を超えて哲学的な意味合いを持ちます。私たちは毎日、多くの事柄に「信頼」を与え、受け取りますが、その背後には人間の基本的な信念が息づいています。信頼とは、目に見えないもの、証拠によらないものに対する精神の飛翔です。この信頼の根底にあるのは、私たちが他者を信用し、他者が私たちを信用する相互関係の構築です。クレジットは、経済的な取引を円滑にする潤滑油であり、同時に私たちの社会生活の要です。信頼なくしては何事も成立せず、クレジットの崩壊はそのまま文明の崩壊を意味します。クレジットの起源を辿ると、信頼や期待、未来への希望といった人間の根本的な欲求に行き着きます。そのため、クレジットは単なる貨幣的な概念を超えて、私たちの心と社会とをつなぐ架け橋として、永久に存在し続けるものなのです。",
+                "synonyms": [
+                        "Trust",
+                        "Reliance"
+                ],
+                "antonyms": [
+                        "Mistrust",
+                        "Skepticism"
+                ],
+                "aftertaste": "In the currency of trust, we invest in the unseen futures of belief.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "credere",
+                                        "meaning": "to believe or trust"
+                                }
+                        ],
+                        "points": [
+                                "クレジットの語源はラテン語の 'credere' に由来し、信念や信頼を示す。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Late Middle Ages"
+        },
+        {
+                "id": "intense",
+                "word": "Intense",
+                "part_of_speech": "adjective",
+                "meaning": "強い、激しい",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "in-",
+                                        "type": "prefix",
+                                        "meaning": "中へ",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "tendere-",
+                                        "type": "root",
+                                        "meaning": "伸ばす",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'intense' originates from the Latin word 'intensus', meaning 'stretched tight, strained'. It combines the prefix 'in-' (into) and 'tendere' (to stretch)."
+                },
+                "core_concept": {
+                        "en": "An intensity that pierces the soul, like the unwavering gaze of stars.",
+                        "ja": "魂を貫く激しさ、それは星々の輝きのように揺るぎない。"
+                },
+                "thinking_layer": "『激しさ』という言葉は、何かの中に潜む力強さや、思い切りの良さを表す。まるで深い底知れぬ海のように、強い感情や情熱を秘めた存在。それは人生におけるすべての瞬間を囲む感情の波として捉えられ、その力は人の心を動かし、意識を覚醒させる。激しさは、我々の内側から外界に向かって広がるエネルギーであり、過去と未来を繋ぐ瞬間の中で燃え上がる。我々は、あたかも流れる星の尾を追うように、その瞬間に魅了され、吸い寄せられ、心の奥底で燃える炎に触れる。世界のすべてが混沌とし、破壊と再生のサイクルの中で、一瞬の永遠を掴む旅を続ける。強力な風の中で決然と佇む木々のように、人間の魂は激しさによって鍛えられ、成長する。この感情は、何者にも屈せず、自分自身を超越しようとする力そのものである。",
+                "synonyms": [
+                        "Fierce",
+                        "Vigorous"
+                ],
+                "antonyms": [
+                        "Mild",
+                        "Gentle"
+                ],
+                "aftertaste": "Intensity is the essence of life's fiery moments.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "tendere",
+                                        "meaning": "to stretch"
+                                }
+                        ],
+                        "points": [
+                                "『intender'』というラテン語は、物事を強く引っ張り、心に残る印象を与える。"
+                        ]
+                },
+                "source": "Oxford English Dictionary, Etymonline",
+                "date": "2026-03-01",
+                "era": "14th Century"
+        },
+        {
+                "id": "division",
+                "word": "Division",
+                "part_of_speech": "noun",
+                "meaning": "分割または区分",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "dividere",
+                                        "type": "root",
+                                        "meaning": "分割",
+                                        "lang": "ラテン語"
+                                }
+                        ],
+                        "original_statement": "The word 'division' originates from the Latin 'dividere', which means to separate or to divide, entering English through Old French during the Middle English period."
+                },
+                "core_concept": {
+                        "en": "A harmonious splitting that creates spaces anew.",
+                        "ja": "新たな空間を創り出す調和のとれた分割"
+                },
+                "thinking_layer": "分離とは、単に物理的な擁壁を立てるだけでなく、人間の心や社会を形作る根本的な構造を反映する行為でもある。どのように分かたれるかにおいて、我々は自己と他者、内部と外部、個と全体を知覚し、それぞれの位置付けを再確認する。我々の内にある二律背反は、この分割の概念によって外部化され、敵対や争いの元となるが、同時に共鳴し合うことで新たな理解や共生の可能性を生む。切り離す際には、何かを失う痛みを伴う一方で、新たな領域を開拓する歓びが芽生える可能性もある。分割は、個々の断片が如何に互いに関係し合うかを再考するための哲学的な機会であり、同時にそれは終わりと始まりを同時に内包しうる時間的な旅でもあるかもしれない。",
+                "synonyms": [
+                        "Separation",
+                        "Partition"
+                ],
+                "antonyms": [
+                        "Unity",
+                        "Integration"
+                ],
+                "aftertaste": "Division can both isolate and harmonize, a paradox of boundaries and connections.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "dividere",
+                                        "meaning": "to divide"
+                                }
+                        ],
+                        "points": [
+                                "ラテン語の「dividere」は「離れる」という概念に根ざし、それが英語の構造にどのような影響を与えたかは言語的進化の妙である。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Middle English, 14th Century"
         }
 ];
