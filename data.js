@@ -31698,5 +31698,333 @@ const WORDS = [
                 "source": "Oxford English Dictionary",
                 "date": "2026-03-01",
                 "era": "Late 16th Century"
+        },
+        {
+                "id": "grok",
+                "word": "Grok",
+                "part_of_speech": "verb",
+                "meaning": "完全に理解する",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "grok-",
+                                        "type": "root",
+                                        "meaning": "理解する",
+                                        "lang": "英語"
+                                }
+                        ],
+                        "original_statement": "The word 'grok' was coined by Robert A. Heinlein in his 1961 science fiction novel 'Stranger in a Strange Land'. It was derived from a Martian word meaning to drink or to understand profoundly and intuitively."
+                },
+                "core_concept": {
+                        "en": "To understand holistically and intuitively, as if by merging one's soul with another.",
+                        "ja": "他者と魂を融合させるかのように、包括的かつ直感的に理解すること"
+                },
+                "thinking_layer": "グロックとは単なる理解を超えた存在状態に入る行為であり、知識の海を無限に広げる道である。それは、目に見えない糸で織り成された理解のタペストリーの一部となることを意味する。この行為は、個人的な経験や論理的な推論のみならず、感覚や直感によっても可能になる。特に言語を超えた深層で、全ての周波数と共鳴する過程を通じて、全体的な一致感を覚える。グロックをすることは、人間存在の本質を深く探究し、他者の感情や思考に対する共感的な接触を試みる詩的な探求でもある。また、自己と他者の間の壁を解きほぐし、人間性という偉大な布の中で、すべての糸を一つの模様として結びつける行為である。最終的に、グロックは、全てのものの神秘的な調和を追求する偉大な旅の一部であり、識別の障壁を超えた共時性の体現である。",
+                "synonyms": [
+                        "理解する",
+                        "把握する"
+                ],
+                "antonyms": [
+                        "誤解する",
+                        "無視する"
+                ],
+                "aftertaste": "Grokking lies in the harmonic marriage of understanding and being.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "grok",
+                                        "meaning": "to drink, to understand"
+                                }
+                        ],
+                        "points": [
+                                "この言葉は、英語の中で比較的新しいものであり、1960年代の文化的背景に深く根差している。"
+                        ]
+                },
+                "source": "Robert A. Heinlein, 'Stranger in a Strange Land', 1961",
+                "date": "2023-10-05",
+                "era": "20th Century"
+        },
+        {
+                "id": "rant",
+                "word": "Rant",
+                "part_of_speech": "noun/verb",
+                "meaning": "熱心または怒りを込めた長々とした演説や話",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "ranten",
+                                        "type": "root",
+                                        "meaning": "叫ぶ",
+                                        "lang": "Middle Dutch"
+                                }
+                        ],
+                        "original_statement": "The word 'rant' stems from Middle Dutch 'ranten', suggesting a boisterous, exuberant declaration."
+                },
+                "core_concept": {
+                        "en": "A fervent outpouring of passionate discourse.",
+                        "ja": "情熱的な言説の激しい迸り"
+                },
+                "thinking_layer": "他人の耳に届くすべての言葉が、心の中の叫びとして響く時、それは言語の最も根本的な形を成す。我々の内面は、言葉という微細な糸で織り成され、時には力強く、無秩序に噴出することがある。これが「rant(ランティ)」の本質である。そこには情熱、怒り、誇りが渦巻いているが、それらは単なる感情の連続以上のものである。それは深層に眠る渇望、表現に対する切望を通じて創り出された、自己の完璧な現れである。人間の心は、言語の容器を通じ、内部の無限の広がりを言い表そうとする。この言葉は、聴く者を圧倒し、話す者を解き放ち、会話という次元を変えていく力を持つ。すべての言葉は劇であり、虚を埋めるものである。そしてその劇が極地に達した時、我々は時に、ただ「rant」という不完全かつ完全な形の表現を選ぶのだ。こうした観点は、単なる発音や構造だけでなく、心そのものに語りかけるものである。",
+                "synonyms": [
+                        "Tirade",
+                        "Diatribe"
+                ],
+                "antonyms": [
+                        "Whisper",
+                        "Murmur"
+                ],
+                "aftertaste": "In fervent speeches, the soul often finds its freedom.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "ranten",
+                                        "meaning": "to talk or shout in an exuberant manner"
+                                }
+                        ],
+                        "points": [
+                                "この単語は、古オランダ語の 'ranten' に由来し、激しく情緒的な語り口を指します。それは、優雅さや静謐とは対極の、むき出しの感情の表現として捉えられます。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "16th Century"
+        },
+        {
+                "id": "scoff",
+                "word": "Scoff",
+                "part_of_speech": "noun/verb",
+                "meaning": "嘲笑や軽蔑を意味する行為",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "scō-",
+                                        "type": "root",
+                                        "meaning": "嘲る",
+                                        "lang": "Old Scandinavian"
+                                },
+                                {
+                                        "text": "-ffe",
+                                        "type": "suffix",
+                                        "meaning": "する",
+                                        "lang": "Middle English"
+                                }
+                        ],
+                        "original_statement": "The word 'scoff' derives from the Old Norse 'skof' or 'skaup', referring to mockery or ridicule, and evolved into the Middle English 'scof'."
+                },
+                "core_concept": {
+                        "en": "The gentle dance of disdain where words cut deeper than swords.",
+                        "ja": "言葉が剣よりも深く切り裂く、軽蔑の優雅な舞い"
+                },
+                "thinking_layer": "嘲笑とは、人間の脆さが露呈する瞬間のことだ。それは、彼らが心の奥底で恐れているものを覆い隠すための、あるいは他者との間に距離を置くための手段となることが多い。嘲笑するという行為は、しばしば自己防衛の形を取り、弱さを認めることを避けたいという意識の表れである。それは時に、他者を対象としながらも、自分自身への隠れた問いかけでもある。『何故私は笑い飛ばす必要を感じるのか？』と。そして、その背後にある動機と意図を熟考することで、我々は自己理解を深め、人類が持つ共通の不安に立ち向かうことができるだろう。また、嘲笑の中に隠された辞意を探ることは、人間関係における疎外と繋がりを同時に感じ取る微妙なバランスを理解する鍵となるかもしれない。だからこそ嘲笑は、真の感受性や洞察への入り口ともなり得る。何故なら、それは我々の心の深奥を映し出す鏡であるからだ。",
+                "synonyms": [
+                        "Mock",
+                        "Ridicule"
+                ],
+                "antonyms": [
+                        "Praise",
+                        "Compliment"
+                ],
+                "aftertaste": "Ridicule is the refuge of the fearful.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "skof",
+                                        "meaning": "Mockery"
+                                }
+                        ],
+                        "points": [
+                                "『scoff』は北欧語の影響を強く受けた中英語から現代英語に伝わる。その歴史は、北海を囲む厳しい風景と文化的な交流を経て築かれてきたものであり、言語の気風に現れる軽蔑の色合いは、文化的融合と排他的閉鎖性の間に宿る微妙な感情を映し出す。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Middle English, Old Norse"
+        },
+        {
+                "id": "flounder",
+                "word": "Flounder",
+                "part_of_speech": "verb",
+                "meaning": "もがく、よろめく",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "flounder",
+                                        "type": "root",
+                                        "meaning": "よろめく、動揺する",
+                                        "lang": "Middle English"
+                                }
+                        ],
+                        "original_statement": "The word 'flounder' traces back to Middle English, perhaps an alteration influenced by the Scandinavian term rooted in movement or struggle."
+                },
+                "core_concept": {
+                        "en": "A dance between balance and chaos.",
+                        "ja": "均衡と混沌の間での踊り"
+                },
+                "thinking_layer": "私たちの人生において、「もがく」とは一種の存在証明とも言えるだろう。安定を希求しつつも、時には未知の領域に足を踏み入れ、無意識にバランスを崩すことがある。その瞬間、動揺や不安を感じるが、それらは新たな知識や知恵を育む土壌となる。よろめく姿は、人間の弱さと、その背後にある成長の可能性を象徴している。失敗や不確実性に直面したとき、どのようにして再び立ち上がるかが、自己の本質を試される瞬間なのである。そのような試練の中で、内なる力を発見し、無限の可能性を解き放つことができる。そして、その過程で、人はより深く、自身の存在意義や人としての美を見出すことであろう。人生の荒波の中でのたうつことこそが、我々をより高い次元へと導く羅針盤である。混沌を抱きしめ、自身の存在を問い続ける時、自己実現の道が開かれるのだ。",
+                "synonyms": [
+                        "Struggle",
+                        "Stagger"
+                ],
+                "antonyms": [
+                        "Stabilize",
+                        "Succeed"
+                ],
+                "aftertaste": "The struggle within chaos often reveals the strength of our character.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "flounder",
+                                        "meaning": "To struggle to move or obtain footing"
+                                }
+                        ],
+                        "points": [
+                                "「flounder」は中世英語に起源を持ち、運動やもがく様子を意味するスカンジナビア語の影響を受けたとされる。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "15th Century"
+        },
+        {
+                "id": "hobby",
+                "word": "Hobby",
+                "part_of_speech": "noun",
+                "meaning": "趣味や楽しみとして追求する活動",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "hobyn",
+                                        "type": "root",
+                                        "meaning": "小さな馬、あるいは遊びごと",
+                                        "lang": "中英語"
+                                }
+                        ],
+                        "original_statement": "The word 'hobby' originated from the Middle English 'hobyn', referring to a small horse or toy horse, evolving into recreational activities akin to the way one might casually ride a hobby horse."
+                },
+                "core_concept": {
+                        "en": "An enchanting dance between passion and leisure.",
+                        "ja": "情熱と余暇が織り成す魅惑的な舞踊"
+                },
+                "thinking_layer": "趣味という概念は、人間の心の遊戯場のようなものだ。日常の義務や社会的役割から解き放たれたとき、人は自身の内なる声に耳を傾ける。趣味は、その内なる声が奏でるメロディに応じて踊る心の舞踏である。人は趣味を通じて、自分の存在の深淵に潜む未知の領域を探求する。趣味の中で、時間は無限に伸び縮みし、流れの規律が失われる。そこでは自己の内面に向き合いながら、世界との新たな配慮を発見することができる。人は趣味を通じて、人間としての本質的な自由を感じ、心の翼を広げて空高く飛翔することを許される。この心のプロセスが、時として魂の安らぎや生の歓びへと導く。趣味は単なる活動以上のものであり、人生の中で豊かさを注入する大切な一部なのである。",
+                "synonyms": [
+                        "Pastime",
+                        "Recreation"
+                ],
+                "antonyms": [
+                        "Work",
+                        "Duty"
+                ],
+                "aftertaste": "For in hobbies, the heart finds its true dance.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "hobyn",
+                                        "meaning": "small horse"
+                                }
+                        ],
+                        "points": [
+                                "趣味という言葉の起源は、中世には象徴的な小さな馬を指していたが、現代では心の自由な探求を意味する。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Middle English (14th Century)"
+        },
+        {
+                "id": "dizzy",
+                "word": "Dizzy",
+                "part_of_speech": "adjective",
+                "meaning": "目まぐるしい、めまいがする",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "Old English 'dysig'",
+                                        "type": "root",
+                                        "meaning": "愚かな",
+                                        "lang": "Old English"
+                                }
+                        ],
+                        "original_statement": "The word 'dizzy' is derived from the Old English 'dysig', which means foolish, showing an evolution of meaning toward physical disorientation."
+                },
+                "core_concept": {
+                        "en": "A fleeting dance of the mind, teetering on the edge between chaos and clarity.",
+                        "ja": "心の束の間の舞、混沌と澄明の狭間で揺れる。"
+                },
+                "thinking_layer": "めまいとは、物理的な不安定性と心の混乱が織りなす繊細な平衡である。この言葉が持つ深い意味は、世界が私たちの足元を滑らせ、何が本当であるかを問い直させる時に現れる。一瞬のめくるめく世界の崩壊感、普段はしっかりとした地に立っていると信じている私たちの精神への挑戦である。目が回るその短い瞬間は、無数の不確実な要素が心を支配し、次の瞬間にはすべてが元に戻る可能性を孕んでいる。めまいの背後に潜むのは恐れであり、しかしその恐れ自体は、未知のものへの向き合い方を教えてくれる師である。私たちの内なるバランスが乱れたとき、見えない力に委ねる勇気が試される瞬間。めまいは、徐々に広がる螺旋のように、外界と内面の変化を示唆し、私たちを新たな思考の扉へと誘う。",
+                "synonyms": [
+                        "Giddy",
+                        "Light-headed"
+                ],
+                "antonyms": [
+                        "Stable",
+                        "Steady"
+                ],
+                "aftertaste": "Within dizziness lies the delicate sway of existence.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "dysig",
+                                        "meaning": "foolish"
+                                }
+                        ],
+                        "points": [
+                                "「めまい」は古英語の「dysig」から派生し、もともとは「愚かな」といった意味合いを持っていたが、時間と共にその意味が身体的な混乱状態を示すものへと進化した。これは、言語の流動的性質を示す一例であり、意味の変遷を辿ることで文化や価値観の変化を読み取ることができる。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Old English"
+        },
+        {
+                "id": "frown",
+                "word": "Frown",
+                "part_of_speech": "noun/verb",
+                "meaning": "顔をしかめる行為",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "froun-",
+                                        "type": "root",
+                                        "meaning": "皺を寄せる",
+                                        "lang": "Old French"
+                                }
+                        ],
+                        "original_statement": "The term 'frown' originates from the Old French 'frognier', which means 'to wrinkle the nose or brow' and entered Middle English in the 14th century."
+                },
+                "core_concept": {
+                        "en": "A silent waltz of facial disagreement.",
+                        "ja": "顔の静かな不協和音の舞"
+                },
+                "thinking_layer": "「しかめっ面」という概念は、単なる表情の変化にとどまらず、人間の深層心理を映し出す鏡のようなものである。その皺は内面的な不調和や疑念、あるいは単なる不満の象徴として現れる。まるで地上にドローンの影が映るように、我々の心の嵐が無理なく顔に影を落とすのである。しかめっ面はあたかも自己防衛の装甲であり、その背後に隠された意味は他人には見えない。つまり、しかめっ面は個々の内的葛藤が顕在化する瞬間的な情景で、それがもたらす微妙なコミュニケーションは時として言語を超える。顔が隠し持つ独自の言語、それは人間の存在の深い謎とも言えよう。",
+                "synonyms": [
+                        "scowl",
+                        "glower"
+                ],
+                "antonyms": [
+                        "smile",
+                        "beam"
+                ],
+                "aftertaste": "A frown is the face's poem of inward conflict.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "frognier",
+                                        "meaning": "to wrinkle"
+                                }
+                        ],
+                        "points": [
+                                "フランス語の語源から見ると、眉間や鼻に皺を寄せる行為の文化的意義は、異なる感情の表現として長く伝わってきたことがわかる。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "14th Century"
         }
 ];
