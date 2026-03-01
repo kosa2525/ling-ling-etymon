@@ -46896,5 +46896,266 @@ const WORDS = [
                 "source": "Online Etymology Dictionary (etymonline.com)",
                 "date": "2026-03-01",
                 "era": "Mid 15th Century"
+        },
+        {
+                "id": "expose",
+                "word": "Expose",
+                "part_of_speech": "verb",
+                "meaning": "露出する、明らかにする",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "ex-",
+                                        "type": "prefix",
+                                        "meaning": "外へ",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "ponere",
+                                        "type": "root",
+                                        "meaning": "置く",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "From the Latin 'exponere', meaning 'to set forth, bring to light'."
+                },
+                "core_concept": {
+                        "en": "To lay bare the truth, casting light upon hidden facets.",
+                        "ja": "隠された真実を顕にし、光を当てる行為。"
+                },
+                "thinking_layer": "「露出」という行為は、単なる物体の一般的な開示を超えて、精神の深みに触れる概念である。それは、未知を明らかにし、見えざるものに光を当てることで、人間の探究心と真実への飽くなき渇望を体現する行為である。人間の歴史を振り返れば、常に真実を露わにすることで新たな発見がなされてきた。光が闇を裂いて前に進むように、露出は知識を広げ、理解を深め、さらに奥へと進む道を拓く。すなわち、露出とは単なる物理的な行為にとどまらず、内面的な変化を促し、心の奥底にある潜在的な可能性を開放する道標でもある。そして、その過程においては、個々が持つ文化的、心理的なフィルターを通して、真実が新たな形で再構成される。露出とは、静寂の中に潜む音を聞き、目に見えぬものを観察する技術である。すべての偉大なる真理は、露出という光によって明らかにされたときに、はじめて生命を得て人々の意識へと静かに浸透していく。",
+                "synonyms": [
+                        "reveal",
+                        "uncover"
+                ],
+                "antonyms": [
+                        "conceal",
+                        "hide"
+                ],
+                "aftertaste": "Exposure strips away shadows, leaving only truth in its wake.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "exponere",
+                                        "meaning": "to set forth"
+                                }
+                        ],
+                        "points": [
+                                "「ex-」はラテン語で「外へ」という意味を持ち、開かれること、示されることを連想させる。",
+                                "「ponere」は「置く」を意味し、基盤となるアイデアや思考の配置を暗示する。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "Late 14th Century"
+        },
+        {
+                "id": "subtract",
+                "word": "Subtract",
+                "part_of_speech": "verb",
+                "meaning": "引き算する、取り去る",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "sub-",
+                                        "type": "prefix",
+                                        "meaning": "下に",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "trahere",
+                                        "type": "root",
+                                        "meaning": "引く",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "Derived from the Latin 'subtrahere', meaning to draw away or to take away."
+                },
+                "core_concept": {
+                        "en": "The gentle art of removing the unnecessary, revealing truth.",
+                        "ja": "不必要なものを取り除き、真実を明らかにする優雅な技法"
+                },
+                "thinking_layer": "引き算という行為は、単なる数の操作ではなく、人生の哲学的な縮図を表しています。何かを引くということは、時に自己を高める行為です。生命は様々な経験や情報によって形成されますが、それらは常に価値あるものとは限りません。むしろ、人間としての核心に近づくためには、時には余分なものを取り去る勇気が必要です。これは、単に物理的なものに限らず、感情や思考においても同様です。内なる静けさを取り戻すためには、心の中の雑音を減少させる必要があります。引き算のプロセスは、複雑さの中に潜む簡潔さを見出す探求です。引き去るという行為を通じて、我々は本質を求め続け、過剰なものを剥がすことで自身をより豊かにしていくのです。日本語の美しい言葉で言えば、それは「削ぎ落とし」であり、最小限にすることで、真実の姿を浮かび上がらせる旅なのです。",
+                "synonyms": [
+                        "deduct",
+                        "take away"
+                ],
+                "antonyms": [
+                        "add",
+                        "increase"
+                ],
+                "aftertaste": "The essence of life is sometimes found not in what remains, but in what is removed.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "trahere",
+                                        "meaning": "to draw or pull"
+                                }
+                        ],
+                        "points": [
+                                "「subtract」という言葉は、単なる計算を超越し、存在の根源的な理解を示唆します。人生における不要なものを削ぎ落とすことで、人間の本質に触れることができるという思想が、その中に潜んでいます。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "Late Middle English, influenced by Latin"
+        },
+        {
+                "id": "explanation",
+                "word": "Explanation",
+                "part_of_speech": "noun",
+                "meaning": "説明、明解にすること",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "ex-",
+                                        "type": "prefix",
+                                        "meaning": "外へ",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "planare",
+                                        "type": "root",
+                                        "meaning": "平らにする",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "Derived from Latin 'explanatio' meaning the act of making something clear or flat."
+                },
+                "core_concept": {
+                        "en": "The act of unveiling surfaces into clarity.",
+                        "ja": "明快になるためのヴェールを剥がす行為"
+                },
+                "thinking_layer": "説明は、我々の日常において常に求められる行為である。しかし、その深遠な意味を見つめると、説明とはただ物事を明らかにするだけでなく、他者との間に架け橋を築く行為であることに気づく。言語が持つ限界を超えて、説明は心と心を繋げる魔法のような営みでもある。すべてを言葉で説明するのは不可能にも思えるが、そこにこそ説明することの意義があると言える。あたかも未知の領域を探索するように、わたしたちは言葉を紡ぎ出し、思考の旅に誘う。説明はまた、自己をも超え、他者を理解するための高啓的な道具でもある。説明することで、互いの視点を共有し、いかなる難解な事象も共通の地平へと導くことが可能となる。それは、個々の心にある多様性を解き放ち、調和の道を示す灯火となるのだ。そう考えると、説明が持つ儀式的な面が見えてくる。説明は、会話を超えて魂に宿る真実を伝える重要な手段である。そのため、説明には言葉に宿る重力を軽んじず、その背後に隠された意味の微細なニュアンスを丹念に紡ぎ出す心構えが必要なのだ。",
+                "synonyms": [
+                        "Clarification",
+                        "Illustration"
+                ],
+                "antonyms": [
+                        "Obfuscation",
+                        "Confusion"
+                ],
+                "aftertaste": "Explanation pierces the fog of the unknown, bringing light to obscurity.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "planare",
+                                        "meaning": "to make level or flat"
+                                }
+                        ],
+                        "points": [
+                                "説明という概念は、単なる言語上の明確化ではなく、より深い意味での理解を追求するプロセスです。説明は、抽象的概念を具体化し、視覚化する手段でもあります。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "Late Middle English, from Latin"
+        },
+        {
+                "id": "assistant",
+                "word": "Assistant",
+                "part_of_speech": "noun",
+                "meaning": "手助けをする人や役割",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "ad-",
+                                        "type": "prefix",
+                                        "meaning": "方向",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "sistere",
+                                        "type": "root",
+                                        "meaning": "立つ",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'assistant' originates from the Latin word 'assistere', meaning to stand by or to be present."
+                },
+                "core_concept": {
+                        "en": "A gentle hand that fosters progress.",
+                        "ja": "進歩を育む優しい手"
+                },
+                "thinking_layer": "人間の存在における助け合いは、デリケートで繊細な織物を紡ぐようなものである。助けるという行為は、一つの行動が引き金となって次々と新たな可能性の扉を開く。助けられることによって、人は自らが発見できなかった内なる力に目覚める。それは、互いの存在を支える無言の約束であり、文明に新たな章を刻み込む響きである。助け合うことで生まれる豊かさは、経験や知識の共有を超えて、他者の存在を自らの鏡として映し出す。そしてその映像は、時間と共に深遠さを増し、無限の連鎖を生み出す。その結果、個々の光は集まり、巨大な光の共鳴を創出する。この助けの連鎖が絶え間なく世界を変化させ、人生の旅をより美しく、新たな意味で満たされたものへと導いてくれる。",
+                "synonyms": [
+                        "Helper",
+                        "Aide"
+                ],
+                "antonyms": [
+                        "Hindrance",
+                        "Opposition"
+                ],
+                "aftertaste": "The essence of partnership lies in the art of being present.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "sistere",
+                                        "meaning": "to stand"
+                                }
+                        ],
+                        "points": [
+                                "「アシスタント」という言葉は、単に補助する役割以上に、存在の共有を通じて新たな価値を創出する理念を含んでいる。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "Late 16th Century"
+        },
+        {
+                "id": "position",
+                "word": "Position",
+                "part_of_speech": "noun",
+                "meaning": "位置や姿勢を指す言葉",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "posit-",
+                                        "type": "root",
+                                        "meaning": "置く",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "-ion",
+                                        "type": "suffix",
+                                        "meaning": "行為・状態を示す",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "Derived from the Latin 'positio', which pertains to placing or placing something in a particular location."
+                },
+                "core_concept": {
+                        "en": "The art of existence in space.",
+                        "ja": "空間における存在の技芸"
+                },
+                "thinking_layer": "「位置」という言葉は、我々の存在そのものがどのように空間内で形作られるかを表す詩的な呼応である。私たちの世俗的な日常は、物理的な位置、姿勢、または状態によって大部分が定義されている。人間にとって「位置」は、感覚や精神の条件であり、物事を固定し、静止することを意味するが、一方で、内的変動や、選択の結果としての流動的な意味合いも孕んでいる。現代の生活の中では、「位置」は単なる地理的な配置を超え、社会的役割や感情の居場所として私たちを取り巻く無限の可能性を示している。空間と時間の織物には、それぞれの個が位置を得て、意味を賦与し、存在の詩を物語る場が広がっている。私たちの心の中で、位置とは、過去の痕跡と未来のビジョンを抱えた瞬間の「いま」に宿る、まるで音楽のような響きである。存在はその位置、または無位置（場所のない場所）によって常に再定義され、それが詩的な調和をもたらす。そうした中で、私たちは「位置」により我々の人生の秩序を探し出すのだ。",
+                "synonyms": [
+                        "Place",
+                        "Location"
+                ],
+                "antonyms": [
+                        "Displacement",
+                        "Dislocation"
+                ],
+                "aftertaste": "Position is both a grounding point and a launchpad to infinite realities.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "posit",
+                                        "meaning": "to place, lay down"
+                                }
+                        ],
+                        "points": [
+                                "位置の概念は物理的な配置を超え、精神的、社会的な役割の象徴ともなっている。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Late Middle English, from Latin"
         }
 ];
