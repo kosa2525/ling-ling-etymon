@@ -28688,5 +28688,51 @@ const WORDS = [
                 "source": "Online Etymology Dictionary",
                 "date": "2026-03-01",
                 "era": "Middle English"
+        },
+        {
+                "id": "bleach",
+                "word": "Bleach",
+                "part_of_speech": "noun/verb",
+                "meaning": "漂白すること、またはそれによるもの",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "blaecan-",
+                                        "type": "root",
+                                        "meaning": "白くする",
+                                        "lang": "Old English"
+                                }
+                        ],
+                        "original_statement": "The word 'bleach' originates from the Old English 'blaecan', meaning to make white."
+                },
+                "core_concept": {
+                        "en": "Purification through the alchemy of light.",
+                        "ja": "光の錬金術による浄化"
+                },
+                "thinking_layer": "私たちは日常の中で色を失うことを恐れる一方で、色のないことの中にも美が存在することを忘れがちです。漂白という行為は、汚れを取り除き、純粋な白さを取り戻す過程を通じて、物事の本質を見つめ直す機会を提供します。白という色はすべての色を含むため、漂白は一種の再生とも言えます。白さに至る道のりは、何かを失う過程で新たに得られる内面の純粋さを表しています。漂白され、色を失った物は、その過程を通じて誕生と死の循環を反映し、私たちに真の浄化とは何であるかを教えてくれます。漂白はただの化学的な行為ではなく、精神の再生を象徴します。",
+                "synonyms": [
+                        "Whiten",
+                        "Lighten"
+                ],
+                "antonyms": [
+                        "Darken",
+                        "Stain"
+                ],
+                "aftertaste": "Bleach is the paradoxical art of erasing to reveal.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "blaecan",
+                                        "meaning": "to make white"
+                                }
+                        ],
+                        "points": [
+                                "漂白は古英語に由来し、その歴史には色の本質と無色の美学が交錯しています。"
+                        ]
+                },
+                "source": "The Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Old English"
         }
 ];
