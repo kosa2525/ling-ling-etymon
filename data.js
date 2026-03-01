@@ -29903,5 +29903,199 @@ const WORDS = [
                 "source": "Etymology Online",
                 "date": "2026-03-01",
                 "era": "16th Century"
+        },
+        {
+                "id": "shiver",
+                "word": "Shiver",
+                "part_of_speech": "verb",
+                "meaning": "震える",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "middle english 'chiveren'-",
+                                        "type": "root",
+                                        "meaning": "震える",
+                                        "lang": "Middle English"
+                                }
+                        ],
+                        "original_statement": "Emerged in the Middle English period, likely via Old English and Germanic origins, hinting at the sensation of trembling or shuddering."
+                },
+                "core_concept": {
+                        "en": "The ephemeral dance of the body in response to a chill.",
+                        "ja": "冷えに応じた身体の淡い舞"
+                },
+                "thinking_layer": "「震える」という現象には、我々の身体が外部の刺激、特に寒さに対する反応として見せる優雅で微細な舞が含まれています。この言葉の背景には、冷たい風にさらされたときの一瞬の反射的な反応があり、それは我々の生存への自然な対抗手段、そして内なる生命力の象徴を示しています。震えは、ただ単に物理的な現象ではなく、内なる感情の波動と自然界との微細な交流、その調和の表れです。中世の時代から受け継がれてきたこの言葉は、人間の存在そのものが自然との対話によって構築されていることを物語ります。寒さに震える瞬間には、静寂の中に潜む力強い生命の叫びがあり、それは命と自然の関係性、またはそれを超越した何かへの畏敬の念を抱かせるのです。震えには、生命の矛盾に満ちた美しさ、すなわち脆さと力強さの両立が潜んでいます。ここに描かれる「震え」という現象は、身体と自然との舞曲として捉えられるべきでしょう。",
+                "synonyms": [
+                        "Tremble",
+                        "Quiver"
+                ],
+                "antonyms": [
+                        "Still",
+                        "Calm"
+                ],
+                "aftertaste": "Shiver is the body's whisper to the soul, affirming life in the grip of chill.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "chiveren",
+                                        "meaning": "tremble"
+                                }
+                        ],
+                        "points": [
+                                "「震える」という語源的洞察には、寒さに対する身体の自然な反応が秘められており、その物語は人類の感覚と自然との深いつながりを示しています。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "14th Century"
+        },
+        {
+                "id": "tease",
+                "word": "Tease",
+                "part_of_speech": "verb",
+                "meaning": "からかう、いじる",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "Old English 'tǣsan'",
+                                        "type": "root",
+                                        "meaning": "裂ける、むしる",
+                                        "lang": "Old English"
+                                }
+                        ],
+                        "original_statement": "The word 'tease' originates from the Old English term 'tǣsan', which meant to pluck or disturb."
+                },
+                "core_concept": {
+                        "en": "A gentle prodding that flirts with the boundary of affection and annoyance.",
+                        "ja": "愛情と苛立ちの境界を遊ぶようないたずらな軽い突き"
+                },
+                "thinking_layer": "『からかう』という行為の奥には人間の複雑な心のひだが隠れている。それは単なる軽口の応酬にとどまらず、ある種の親密さをはぐくむ架け橋でもあり、また感情の試金石ともなる。人はなぜ他者をからかうのだろうか。一説には、からかいは社会的な結束や個人的な関心を示す手段であるとも言われる。しかし、境界を越えるとき、それは容易に傷心へと変わりうる。感情の微妙なバランスを保ちながら、遊び心と配慮をもって接すること。それが可能であるからこそ、『からかう』という行為は言葉を超えたコミュニケーションの一形態として機能する。真の意図を見失わず、相手の心を読み解く術を磨くことにより、からかいは単なる言葉のやりとりを超えた、深い理解への鍵となりえるのだ。そんな哲学的な考察が『からかう』という言葉に内包されているのである。",
+                "synonyms": [
+                        "Provoke",
+                        "Mock"
+                ],
+                "antonyms": [
+                        "Comfort",
+                        "Compliment"
+                ],
+                "aftertaste": "Teasing captures the delicate interplay between love and irritation.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "tǣsan",
+                                        "meaning": "to pluck, to disturb"
+                                }
+                        ],
+                        "points": [
+                                "からかいは古い英語の言葉から発展し、人間関係の親密さや社会的な結束を示す要素として機能している。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Old English, 10th Century"
+        },
+        {
+                "id": "haughty",
+                "word": "Haughty",
+                "part_of_speech": "adjective",
+                "meaning": "傲慢で他人を見下す態度",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "haut-",
+                                        "type": "root",
+                                        "meaning": "高い",
+                                        "lang": "Middle French"
+                                }
+                        ],
+                        "original_statement": "The word 'haughty' originates from the Middle French word 'haut', meaning 'high'. It evolved through the Old French 'halt', morphing conceptually from a physical sense of height to a metaphorical sense of social superiority."
+                },
+                "core_concept": {
+                        "en": "A loftiness that dwells in disdainful gazes.",
+                        "ja": "横柄さの根底にある高慢な目線"
+                },
+                "thinking_layer": "『傲慢』という言葉は、その音の響きと共に人間の魂が時に持つ高慢な心の状態を表現します。古来より、人々は空の高みを仰ぎみることで、その限界を越えようとする意志を持ちながらも、それが自己を他より高い位置につける危険性も秘めていることに気づいていました。人が高い所にいるとき、その眺望は広がりますが、同時に他者を見下す視点を持つ道具となることもあります。その姿勢はしばしば人間関係にひびを入れ、不必要な対立と孤独を生み出します。哲学的に考えると、『傲慢』とは自らの高さを意識しつつ、その高さが他者との間に壁を作ることへの気づきでもあります。我々は、他者との対話において心を開き、自己と他を分け隔てる垣根を越えていく術を見出す必要があります。最後に、『傲慢』とは単なる単語ではなく、時代を超えて人間の心の複雑さを映し出す鏡であり、我々の行動を顧みるための哲学的な道しるべと言えるでしょう。",
+                "synonyms": [
+                        "arrogant",
+                        "supercilious"
+                ],
+                "antonyms": [
+                        "humble",
+                        "modest"
+                ],
+                "aftertaste": "Haughtiness is a height that dims the view of others' worth.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "haut",
+                                        "meaning": "high"
+                                }
+                        ],
+                        "points": [
+                                "『haughty』はフランス語の『haut』に由来し、当初は物理的な高さを指していましたが、後に社会的な優越感を含む意味へと変遷しました。"
+                        ]
+                },
+                "source": "Barnhart, Robert K. The Barnhart Dictionary of Etymology.",
+                "date": "2026-03-01",
+                "era": "13th Century"
+        },
+        {
+                "id": "jubilee",
+                "word": "Jubilee",
+                "part_of_speech": "noun",
+                "meaning": "喜びや祝祭を意味する出来事や記念日",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "jubilaeus",
+                                        "type": "root",
+                                        "meaning": "全ての罪と束縛からの解放",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "yovel",
+                                        "type": "root",
+                                        "meaning": "羊の角笛",
+                                        "lang": "Hebrew"
+                                }
+                        ],
+                        "original_statement": "The term 'jubilee' comes from the Latin 'jubilaeus', which signifies a year of emancipation and celebration, originally derived from the Hebrew 'yovel', a ram's horn blown to announce the year's beginning."
+                },
+                "core_concept": {
+                        "en": "Celebration of liberation and renewal.",
+                        "ja": "解放と再生の祝祭"
+                },
+                "thinking_layer": "人々は時の流れの中で多くの困難に直面し、それぞれの人生の瞬間が重なり合い、やがて大きなシンフォニーを成す。それぞれのジュビリーは、今日という日の下に再び解放され、全ての束縛を解き放ち、心の奥で久しく眠っていた歓喜が目覚める瞬間だ。羊の角笛が大地に響き渡るとき、古の時代からの記憶が呼び起こされ、人々は祝福と再生を迎える。それは単なる祝日ではなく、魂の浄化と再生、希望の種を撒く神聖な儀式である。この世の喧騒の中で失われた静謐を取り戻し、内なる光を再び見出す、その瞬間がジュビリーである。時は無限であり、それは過去と未来を繋ぐ糸のように我々を満たし、導いてくれる。ジュビリーはこの永遠の流れの中で希望の輝きを放ち、人生という旅の中で私たちを再び立ち上がらせてくれる存在だ。",
+                "synonyms": [
+                        "Celebration",
+                        "Anniversary"
+                ],
+                "antonyms": [
+                        "Mourning",
+                        "Observance"
+                ],
+                "aftertaste": "A jubilee is a breath of hope, echoing through the corridors of time.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "jubilaeus",
+                                        "meaning": "year of jubilation"
+                                },
+                                {
+                                        "term": "yovel",
+                                        "meaning": "ram's horn"
+                                }
+                        ],
+                        "points": [
+                                "ジュビリーの語源には、古代ローマやヘブライの伝統が非常に深く影響しており、人間の歴史と文化の融合がこの言葉の背後に隠されている。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Hebrew origins"
         }
 ];
