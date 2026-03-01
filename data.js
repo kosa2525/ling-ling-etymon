@@ -50058,5 +50058,325 @@ const WORDS = [
                 "source": "Oxford English Dictionary",
                 "date": "2026-03-01",
                 "era": "Middle English (12th Century)"
+        },
+        {
+                "id": "categorize",
+                "word": "Categorize",
+                "part_of_speech": "verb",
+                "meaning": "分類する、カテゴリーに分ける",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "categ-",
+                                        "type": "root",
+                                        "meaning": "類別",
+                                        "lang": "Greek"
+                                },
+                                {
+                                        "text": "-orize",
+                                        "type": "suffix",
+                                        "meaning": "する",
+                                        "lang": "French/English"
+                                }
+                        ],
+                        "original_statement": "The term 'categorize' originated from the Greek word 'κατηγορία' (kategoría), meaning 'prediction' or 'accusation', which evolved into the Medieval Latin 'categoria' and then to the Middle French 'catégorie', eventually being adopted into English with the addition of the suffix '-ize'."
+                },
+                "core_concept": {
+                        "en": "To weave moments into structured anticipation.",
+                        "ja": "瞬間を構造ある期待に織りなすこと"
+                },
+                "thinking_layer": "分類とは、無限の可能性の中から特定の枠を与える行為です。それは、無秩序に見える世界に規則性を与える創造的な試みです。個々の要素を見つめ直し、それらが如何にして共鳴し合っているかを理解し、調和のとれた全体像を構築する作業です。我々は常に情報の波に晒されており、その中から有意義な形を見出すことで自己の存在意義を明確にしていきます。分類の過程は、単に物を振り分けることにとどまらず、存在の意味を探る旅とも言えるでしょう。それは、心の中で混ざり合う個々の要素が生み出す微細な振動を感知し、調和の中に結実する様を見届けることであり、存在の不確実性に対する静かな挑戦でもあります。分類することで、我々は世界を理解するだけでなく、新たな秩序を創造するのです。",
+                "synonyms": [
+                        "Classify",
+                        "Sort"
+                ],
+                "antonyms": [
+                        "Disorder",
+                        "Mix"
+                ],
+                "aftertaste": "To categorize is not merely to divide, but to understand the world anew.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "categoría",
+                                        "meaning": "accusation, assertion"
+                                }
+                        ],
+                        "points": [
+                                "ギリシャ語の「κατηγορία」は、元々は「予言」や「告発」を意味しており、後により広範な社会的な意味を持つようになりました。この変遷を通じて、個別の現象や物事をグループ化して考える能力が、社会的、哲学的な文脈で重視され続けています。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Late 16th Century"
+        },
+        {
+                "id": "fructify",
+                "word": "Fructify",
+                "part_of_speech": "verb",
+                "meaning": "結実させる、利益を生む",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "fructus",
+                                        "type": "root",
+                                        "meaning": "実、果実",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "-fy",
+                                        "type": "suffix",
+                                        "meaning": "〜にする",
+                                        "lang": "Old French"
+                                }
+                        ],
+                        "original_statement": "Derived from the Latin 'fructificare', which indicates the act of making fruitful, leading to benefits and nourishment."
+                },
+                "core_concept": {
+                        "en": "The poetic gift of bearing fruit and nurturing growth.",
+                        "ja": "結実し、成長を育む詩的な贈り物"
+                },
+                "thinking_layer": "果実とは、外見以上の存在である。果実には生命の核が宿る。結実するという行為は、単なる物質的な変化ではなく、精神的な成長と自己超越の象徴でもある。この言葉は、土壌という母なる大地から養分を吸収し、太陽の光を愛し、天の恵みとともに育つ力を示す。この結実の過程は、内向的な探求と外向的な表現の無限のサイクルを表し、我々が常に新たな理想を追い求める人間の探求心を示唆している。果実は、己を知り、他者と共有し、世界を豊かにすることで意味を成す。実がなることで生きる意味を見いだし、その果実がまた新たな命を育む。哲学的に見れば、結実とは生きる過程そのものであり、私たちが意義ある存在として如何に繁栄するかを問うている。この言葉には、無限の可能性と超越的な存在意義が秘められており、果たした後の世界を新たに描き出す力を持っているのだ。",
+                "synonyms": [
+                        "Bear fruit",
+                        "Yield"
+                ],
+                "antonyms": [
+                        "Wither",
+                        "Fail"
+                ],
+                "aftertaste": "To fructify is to transcend the earth, reaching the heavens through the fruits of existence.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "fructus",
+                                        "meaning": "fruit"
+                                },
+                                {
+                                        "term": "-ficare",
+                                        "meaning": "to make"
+                                }
+                        ],
+                        "points": [
+                                "結実は物理的な産物だけでなく、精神の成長と可能性の象徴。",
+                                "自己内省と外界への愛を融合させた創造の行為。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "15th Century"
+        },
+        {
+                "id": "category",
+                "word": "Category",
+                "part_of_speech": "noun",
+                "meaning": "種類や範囲に応じた分類",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "categori-",
+                                        "type": "root",
+                                        "meaning": "分類",
+                                        "lang": "Greek"
+                                },
+                                {
+                                        "text": "-ia",
+                                        "type": "suffix",
+                                        "meaning": "状態",
+                                        "lang": "Greek"
+                                }
+                        ],
+                        "original_statement": "The word 'category' stems from the Greek 'kategoria', combining 'kata' (down, against) and 'agora' (assembly, public speaking), referring to statements made against someone in public."
+                },
+                "core_concept": {
+                        "en": "A fluid framework defining order and boundaries.",
+                        "ja": "秩序と境界を定義する流動的な枠組み"
+                },
+                "thinking_layer": "カテゴリーという言葉は、我々の思考の枠を形作る重要な概念です。それはまるで世界を織り成す見えない糸のようであり、人間の理解における秩序と混沌の境界線を示すものです。物事を分類することで初めて我々は世界を捉え、意味を見いだすことができます。このプロセスは、人間の知識の進化そのものに密接に結びついています。ある意味でカテゴリーは、情報の広大な海を航海するための羅針盤であり、暗き森を照らす灯台でもあります。それは我々が直面する無限の多様性を一つの統一されたビジョンとしてまとめ上げるための静かなる力であり、その探究の果てには自己理解と他者の理解があります。我々はこの見えざる手綱をたどり、宇宙の複雑な起伏を渡り歩いてゆくのです。",
+                "synonyms": [
+                        "Classification",
+                        "Group"
+                ],
+                "antonyms": [
+                        "Chaos",
+                        "Disorder"
+                ],
+                "aftertaste": "Categories map the vast and untamed waters of knowledge.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "kategoria",
+                                        "meaning": "statement, accusation"
+                                },
+                                {
+                                        "term": "agora",
+                                        "meaning": "public assembly"
+                                }
+                        ],
+                        "points": [
+                                "カテゴリーという概念は、我々が世界をどのように認識し、体系化するかに関する深層的な理解に貢献しています。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Ancient Greek"
+        },
+        {
+                "id": "tradition",
+                "word": "Tradition",
+                "part_of_speech": "noun",
+                "meaning": "伝統",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "tradere",
+                                        "type": "root",
+                                        "meaning": "伝える",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "tion",
+                                        "type": "suffix",
+                                        "meaning": "こと",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "Tradition originates from the Latin 'traditio,' meaning a handover, derived from 'tradere,' to deliver, entrust or transmit."
+                },
+                "core_concept": {
+                        "en": "A precious thread linking the past to the present, woven with shared wisdom.",
+                        "ja": "過去と現在を繋ぐ貴重な糸、共有された知恵で織られたもの。"
+                },
+                "thinking_layer": "「伝統」という言葉は、百年を超える歴史の中で、文化と価値観が時を超えて受け渡される過程を表しています。それは単なる過去の模倣ではなく、新しい文脈の中で古い知恵が生き続けることを意味します。この繊細なプロセスは、個々の経験が集い、より大きな共同体の記憶を形成することであり、特定の時間や場所に限定されない普遍的な人間の営みです。伝統は、変化と普遍性の間で揺れ動く恒常的な進行形です。古代の儀式や逸話が息づき、新世代へ新たな解釈と意義を持たせながら伝えられていく—それが伝統の力の真髄です。人は伝統を通して過去から呼びかけられ、それを継続することによって未来への道を築きます。この連なりにおいて、伝統は固定された形ではなく、生ける動的な存在であり、時代に応じて変化し続ける生命力に満ちています。",
+                "synonyms": [
+                        "Custom",
+                        "Heritage"
+                ],
+                "antonyms": [
+                        "Innovation",
+                        "Novelty"
+                ],
+                "aftertaste": "Tradition is the echo of time resonating in the hearts of the present.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "tradere",
+                                        "meaning": "to deliver, entrust"
+                                },
+                                {
+                                        "term": "tion",
+                                        "meaning": "act, process"
+                                }
+                        ],
+                        "points": [
+                                "「tradere」はラテン語で「引き渡す」または「託す」を意味し、それが英語の「tradition」に繋がっている。",
+                                "伝統は、文化的価値観や知識の贈物として、未来への営みとして生き続ける。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Late Middle English, derived from Latin"
+        },
+        {
+                "id": "artist",
+                "word": "Artist",
+                "part_of_speech": "noun",
+                "meaning": "芸術家や創造的活動をする人",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "art-",
+                                        "type": "root",
+                                        "meaning": "技術、芸術",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'artist' is derived from the Latin 'artista', which comes from 'ars', meaning art or skill."
+                },
+                "core_concept": {
+                        "en": "A vessel of creativity, a master who molds the formless into emotion.",
+                        "ja": "創造の器、形なきものを感情に変える達人"
+                },
+                "thinking_layer": "芸術家という言葉は、単なる技術者以上の存在を表している。芸術家は、物質的な形を超えたところにある思考や感情を、目に見える形に具現化する魔術師である。彼らの行為は宇宙と繋がり、時と場所を超えて人々の心に問いを投げかける。キャンバスや石版は単なる媒体ではなく、彼らの精神の深淵を覗き見る窓となる。芸術とは無限の可能性を秘めた言語であり、その言語を通じて人類は自らを探求する旅に出る。創造の過程は、混沌から秩序を生み出し、瞬間を永遠に留めようとする試みである。芸術家の役割とは、存在の真理を探し続けることであり、その過程で自己の内なる世界を外部に投影し、他者と共有することである。詩情溢れる世界を作り出す彼らの手は、まるで神のように新たな宇宙を創造し続ける。彼らの作品は、静かに語りかけ、心の扉を叩くのだ。これはただの技術ではなく、深い魂の探求である。",
+                "synonyms": [
+                        "Creative",
+                        "Artisan"
+                ],
+                "antonyms": [
+                        "Philistine",
+                        "Ignoramus"
+                ],
+                "aftertaste": "An artist shapes the unseen into the seen, revealing truths through beauty.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "ars",
+                                        "meaning": "art or skill"
+                                }
+                        ],
+                        "points": [
+                                "『アート』という語源はラテン語に由来し、それは主に技術や芸術を指している。この概念は、時間と共に発展し、単なる技術から精神的な深さを探求する創造の源泉として進化してきた。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "Middle Ages"
+        },
+        {
+                "id": "nutrition",
+                "word": "Nutrition",
+                "part_of_speech": "noun",
+                "meaning": "栄養、生命を支える必須の供給",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "nutritio-",
+                                        "type": "root",
+                                        "meaning": "養うこと",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "-ion",
+                                        "type": "suffix",
+                                        "meaning": "状態や過程",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "Derived from the Latin word 'nutritio', meaning 'a nourishing'."
+                },
+                "core_concept": {
+                        "en": "The sacred act of sustaining life through unseen pulses of vitality.",
+                        "ja": "見えない命の脈動を通じて生命を支える神聖な行為"
+                },
+                "thinking_layer": "栄養とは、生物の存続と進化のための不可欠な資源であり、その存在は目には見えないが、生命の奥深くに脈動している。この力強さは、自然界の微細な法則に従い、あらゆる生命体に活力を与え、成長を促す。栄養がもたらすエネルギーは、光や空気、水と同じくらい基本的なものであり、それは生命の織物を形作り、宇宙の一部としての生きる意味をも繋ぎ止める。無限の循環の中で、栄養とはただ物質を提供する以上のものであり、心身の調和、そして内的な安寧をもたらす。人間は栄養を通して、自然と一体化し、内観し、そして新しい命のサイクルを迎える準備をする。生命の根源に帰るたびに、栄養とは単なる物理的な供給を超え、魂に響く深い糸を織り成すのである。本質的なその役割に身を委ねる時、栄養とは生命の最大の贈り物であることを忘れてはならない。",
+                "synonyms": [
+                        "nourishment",
+                        "sustenance"
+                ],
+                "antonyms": [
+                        "deprivation",
+                        "starvation"
+                ],
+                "aftertaste": "The quiet giver of life’s perpetuation.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "nutrire",
+                                        "meaning": "to nourish"
+                                }
+                        ],
+                        "points": [
+                                "栄養という概念は、生物学的エネルギーだけでなく、存在そのものの滋養をも意味する。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "15th Century"
         }
 ];
