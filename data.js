@@ -28934,5 +28934,51 @@ const WORDS = [
                 "source": "Online Etymology Dictionary",
                 "date": "2026-03-01",
                 "era": "17th Century"
+        },
+        {
+                "id": "meander",
+                "word": "Meander",
+                "part_of_speech": "noun/verb",
+                "meaning": "蛇行する、曲がりくねる",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "meandros",
+                                        "type": "root",
+                                        "meaning": "曲がりくねった川",
+                                        "lang": "Ancient Greek"
+                                }
+                        ],
+                        "original_statement": "The term 'meander' traces its origins to Meandros, a winding river in Phrygia, known today as the Büyük Menderes in Turkey."
+                },
+                "core_concept": {
+                        "en": "The dance of time through twisting pathways.",
+                        "ja": "時の流れが曲がりくねる道を踊る様"
+                },
+                "thinking_layer": "『蛇行』という言葉は、ただの物理的な形状以上のものを表しています。それは生命の本質を象徴するものでもあります。自然は直線よりも曲線を好み、我々の人生の旅路もまた、常に真っ直ぐな道ではなく、複雑な曲がりくねった道として描かれています。曲がった道には予期せぬ景色が広がり、一見無駄と思われるその寄り道には深い意味があります。蛇行の中で、私たちは時間の流れを感じ、過去の記憶と未来のビジョンを同時に垣間見ることができます。曲がりくねる道は、目標への到達だけでなく、道中の体験そのものへの価値を教えてくれる特別な教訓です。それは、私たちを理想へと導く無限の可能性を秘めています。蛇行は不確実性と予測不可能性の象徴であり、そこには創造性と自由が宿っています。騒がしい流れに身を任せることで、我々は進化の一部分となり、自然との調和を見いだすのです。",
+                "synonyms": [
+                        "Wander",
+                        "Twist"
+                ],
+                "antonyms": [
+                        "Straighten",
+                        "Direct"
+                ],
+                "aftertaste": "To meander is to embrace the beauty of life's unpredictability.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "meandros",
+                                        "meaning": "A winding river"
+                                }
+                        ],
+                        "points": [
+                                "『曲がりくねり』は単なる地理的な動きではなく、哲学的にも人生そのものを表す象徴的な概念です。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Ancient Greek"
         }
 ];
