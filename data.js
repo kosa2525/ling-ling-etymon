@@ -32840,5 +32840,189 @@ const WORDS = [
                 "source": "Oxford English Dictionary",
                 "date": "2026-03-01",
                 "era": "Middle English"
+        },
+        {
+                "id": "stutter",
+                "word": "Stutter",
+                "part_of_speech": "verb",
+                "meaning": "どもる",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "stut-, -ter",
+                                        "type": "root",
+                                        "meaning": "どもる, 疑う",
+                                        "lang": "Middle English"
+                                }
+                        ],
+                        "original_statement": "Derived from Middle English stutten, akin to Middle Low German stottern."
+                },
+                "core_concept": {
+                        "en": "A hesitation in the river of speech.",
+                        "ja": "言葉の流れにおける躊躇"
+                },
+                "thinking_layer": "どもることは、人間の心の奥深くにある不安が言葉として発現する瞬間です。複雑な感情が渦巻く中での一瞬の躊躇は、単に音声の断続ではなく、心の動きの模様を映し出す鏡のようです。言葉がかすれ、音が途切れる中で、私たちは自分の存在の不安定さに直面します。人生とは、一定の流れを持たない河のように、予期せぬ曲り角や障害物で溢れています。どもりの瞬間、その河はしばしば立ち止まり、彼方の目的地に進む前に、内なる静寂と対話を持ちます。この瞬間はまた、社会的な自己と内なる自己との会話の場でもあります。私たちが他者の前で言葉を探し続けるとき、その瞬間瞬間は私たちが誰であるのかを問いかける哲学的な視点を提供します。この存在の落差の中で、私たちは自己を見つける旅を続けるのです。",
+                "synonyms": [
+                        "Hesitate",
+                        "Falter"
+                ],
+                "antonyms": [
+                        "Fluent",
+                        "Eloquent"
+                ],
+                "aftertaste": "In every pause of speech, the universe whispers its silent poetry.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "stut-",
+                                        "meaning": "to hesitate"
+                                }
+                        ],
+                        "points": [
+                                "‘Stutter’の語源学は、話言葉における自己表現の難しさを象徴し、社会的、心理的意味を持つ現象を探求します。"
+                        ]
+                },
+                "source": "Oxford English Dictionary, Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "Middle English, 13th Century"
+        },
+        {
+                "id": "mumble",
+                "word": "Mumble",
+                "part_of_speech": "verb",
+                "meaning": "小声で不明瞭に話す",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "mumble-",
+                                        "type": "root",
+                                        "meaning": "ボソボソと話す声",
+                                        "lang": "Middle English"
+                                }
+                        ],
+                        "original_statement": "Derived from Middle English 'mumlen', likely imitative or akin to the Middle Dutch 'momelen'."
+                },
+                "core_concept": {
+                        "en": "A quiet whispering of thoughts, tangled in the web of one's mind.",
+                        "ja": "思考の網に絡み合った静かなささやき"
+                },
+                "thinking_layer": "『呟き』と称されるこの言葉は、人間精神の静かで慎み深い反響を表します。言葉が完全に巻き取られることなく散らばり、沈黙の中で自己の独白を描く様は、明瞭さを避けることで真実と接触を試みる意図を持つ場合があります。無意識の流れが声を得、やや入り組みつつも内なる欲望と恐れが表出され、物理的な言語の形を取りながらも、むしろ心の声を忠実に体現しています。薄暗い夜に囁くかのように、私たちは時にその音を受け入れ、時にそれに耳を傾け、世界を探求します。このまばゆい例えによって、語られない真実は、我々の存在の普遍的な調停者として浮上します。曖昧さの中で、自分自身の声を見つけることは、内省と観察の果敢な行為であり、その重さと柔らかさの間で、現実の境界線を引く儀式なのです。",
+                "synonyms": [
+                        "Mutter",
+                        "Whisper"
+                ],
+                "antonyms": [
+                        "Speak clearly",
+                        "Articulate"
+                ],
+                "aftertaste": "In hums and echoes, the truth seeks a voice.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "mumlen",
+                                        "meaning": "to speak softly or indistinctly"
+                                }
+                        ],
+                        "points": [
+                                "『mumble』は、中世英語を起源に持ち、その語感は歴史を潜り抜け、現代の静寂と響き合う形となりました。語源的には模倣の要素が強く、その曖昧な発音が多様な声を反映することを示しているのです。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "Middle English"
+        },
+        {
+                "id": "sponsor",
+                "word": "Sponsor",
+                "part_of_speech": "noun/verb",
+                "meaning": "支援者、支援する",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "spondere",
+                                        "type": "root",
+                                        "meaning": "誓う",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The term 'sponsor' originates from the Latin word 'spondere', meaning 'to promise' or 'to pledge'. Initially associated with financial support, it has evolved to signify any form of endorsement or support."
+                },
+                "core_concept": {
+                        "en": "A binding promise that nurtures growth and potential.",
+                        "ja": "成長と可能性を養う約束"
+                },
+                "thinking_layer": "『スポンサー』という言葉は、人間の歴史における補助と保護、そして約束の象徴である。その背景には、個人が強固な約束を交わし、共に世界を支える意義深い関係が築かれるという哲学が潜んでいる。このような関係は、頻繁に利益を超えた信頼と責任感に基づいており、いわば精神的な契約である。現代社会におけるスポンサーの役割は、単なる資金提供だけでなく、支援する個人や団体の潜在能力を引き出し、その可能性を最大限に開花させることにある。スポンサーシップの意義を概念として捉えると、それは不確実性の中に光を灯し、進化の道筋を照らし出す灯台のような存在とも言えよう。真のスポンサーは、受け手の需要を理解し、共に未来を築くために力と情熱を注ぐ覚悟がある者である。その本質は、「共に在る」という人間の根源的な欲求を体現するものだ。響き合う心が奏でるメロディのように、スポンサーは自己と他者をつなぐ架け橋となり、社会のハーモニーを奏で続ける。",
+                "synonyms": [
+                        "patron",
+                        "supporter"
+                ],
+                "antonyms": [
+                        "opponent",
+                        "adversary"
+                ],
+                "aftertaste": "To sponsor is to believe in the unseen potential of others.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "spondere",
+                                        "meaning": "to promise"
+                                }
+                        ],
+                        "points": [
+                                "『スポンサー』の語源であるラテン語の「spondere」は、約束する行為を意味し、時を経て信頼と支援の象徴となった。"
+                        ]
+                },
+                "source": "The Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Latin origin, circa 1st century"
+        },
+        {
+                "id": "chocolate",
+                "word": "Chocolate",
+                "part_of_speech": "noun",
+                "meaning": "カカオ豆から作られる甘い食品や飲み物",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "chocolatl",
+                                        "type": "root",
+                                        "meaning": "“泡の立った水”の意味を持つ",
+                                        "lang": "Nahuatl"
+                                }
+                        ],
+                        "original_statement": "The word 'chocolate' originates from the Nahuatl word 'chocolatl', which refers to a bitter drink made from cacao beans."
+                },
+                "core_concept": {
+                        "en": "The darkly rich essence of joy sculpted in sweet, velvety form.",
+                        "ja": "喜びの暗い豊かさが甘くて滑らかな形で刻まれている"
+                },
+                "thinking_layer": "チョコレートという言葉が持つ歴史と現代性の調和は、驚くべきものであり、美食が時を超えて築き上げる文化的価値を象徴しています。ナワトル語からスペイン語を経て、英語にまで浸透したこの言葉は、文化の交差点に立つ使者のようなものです。カカオ豆が初めて人の興味を引くその一瞬から、彼らは新しい体験、感情、そして物語を生み出し続けてきたのです。このほろ苦さと甘さの融合が、一つの言葉を通してどのように人々の心の奥深くに根ざし、さらにはその香りと旨味がどのように心の中で記憶として刻まれるのか。味覚としてのチョコレートは、何よりも人間関係、愛、孤独の微妙な色合いを想起させるもので、その一口一口が哲学的な瞑想の断片であり、もはや単なる食品ではありません。言葉としてのチョコレートは、単なるスイーツの域を超えて、人間存在の根本的な歓びと美しさの一端を表現しているのです。",
+                "synonyms": [
+                        "Cocoa",
+                        "Confection"
+                ],
+                "antonyms": [
+                        "Bitter",
+                        "Savory"
+                ],
+                "aftertaste": "Chocolate is a bittersweet symphony of the senses.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "chocolatl",
+                                        "meaning": "泡の立った水"
+                                }
+                        ],
+                        "points": [
+                                "チョコレートという言葉の背景には、植民地主義の歴史と文化的交流があり、それはまた感覚的な楽しみの象徴でもあります。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "16th Century"
         }
 ];
