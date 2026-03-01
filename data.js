@@ -24901,34 +24901,78 @@ const WORDS = [
                 "era": "14th Century Latin"
         },
         {
+                "id": "establish",
+                "word": "Establish",
+                "part_of_speech": "verb",
+                "meaning": "設立する、確立する、立証する",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "stare",
+                                        "type": "root",
+                                        "meaning": "to stand"
+                                }
+                        ],
+                        "original_statement": "From Old French establir, from Latin stabilire 'make stable', from stare 'to stand'."
+                },
+                "core_concept": {
+                        "en": "To make stand",
+                        "ja": "揺らぐ大地に杭を打ち込み、微動だにせず「立たせる（stand）」"
+                },
+                "thinking_layer": "単に作る（make）のではなく、永続的な安定（stable）を与えることです。制度や事実が、風雪に耐えてそこに「立ち続ける」ための土台を築く。一度定まれば、それは世界の風景の一部となります。",
+                "synonyms": [
+                        "found",
+                        "institute",
+                        "verify"
+                ],
+                "antonyms": [
+                        "abolish",
+                        "demolish"
+                ],
+                "aftertaste": "深く根を張った、巨大な石柱の重厚感",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "stare",
+                                        "meaning": "stand"
+                                }
+                        ],
+                        "points": [
+                                "stable（安定した）やstatue（像）と同門。直立する意志が核です。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "14th Century Old French / Latin"
+        },
+        {
                 "id": "esteem",
                 "word": "Esteem",
                 "part_of_speech": "noun/verb",
-                "meaning": "尊重、尊敬、評価する",
+                "meaning": "尊敬、尊重、評価する",
                 "etymology": {
                         "breakdown": [
                                 {
                                         "text": "aestimare",
                                         "type": "root",
-                                        "meaning": "to value / to assess"
+                                        "meaning": "to value / to estimate"
                                 }
                         ],
                         "original_statement": "From Old French estimer, from Latin aestimare 'to value, appraise'."
                 },
                 "core_concept": {
-                        "en": "To set a value on",
-                        "ja": "誰かの魂の重さを、丁寧に測り直す"
+                        "en": "To value highly",
+                        "ja": "心の天秤に載せ、その存在に「高い価値（value）」を認める"
                 },
-                "thinking_layer": "尊重とは、対象に「価値（value）」を付ける行為です。それは単なるお世辞ではなく、その人が持つ真の重みを正しく見積もり、然るべき場所へと置く知的な誠実さを必要とします。",
+                "thinking_layer": "もとは「値踏みする」という実務的な言葉でした。相手の魂の重さを測り、それが自分にとって、あるいは世界にとってかけがえのないものだと確信すること。冷徹な評価の先に生まれる、温かな敬意です。",
                 "synonyms": [
                         "respect",
-                        "regard"
+                        "revere"
                 ],
                 "antonyms": [
                         "disdain",
                         "scorn"
                 ],
-                "aftertaste": "重みを見極める、静かな眼差し",
+                "aftertaste": "金貨を磨くような、真摯で丁寧な眼差し",
                 "deep_dive": {
                         "roots": [
                                 {
@@ -24937,7 +24981,7 @@ const WORDS = [
                                 }
                         ],
                         "points": [
-                                "estimate（見積もる）と語源は同じ。かつては金銭的な鑑定と心の評価は一体でした。"
+                                "estimate（見積もる）と語源は同じ。計量から敬意へ、意味が昇華されました。"
                         ]
                 },
                 "source": "etymon Philologist Mode",
@@ -24953,39 +24997,34 @@ const WORDS = [
                                 {
                                         "text": "aevum",
                                         "type": "root",
-                                        "meaning": "age / lifetime"
-                                },
-                                {
-                                        "text": "-ternus",
-                                        "type": "suffix",
-                                        "meaning": "lasting for"
+                                        "meaning": "age / eternity"
                                 }
                         ],
                         "original_statement": "From Old French eternel, from Late Latin aeternalis, from aevum 'age, eternity'."
                 },
                 "core_concept": {
-                        "en": "Always lasting in age",
-                        "ja": "幾千の時代を飲み込み、なお色褪せぬ光"
+                        "en": "Of an age / timeless",
+                        "ja": "始まりも終わりもなく、無限に続く「時（age）」そのものの質を纏う"
                 },
-                "thinking_layer": "永遠とは、時間の「終わりがない」ことではなく、時間が「存在しない（aevum）」領域のことです。始まりも終わりも超越した、ただ「在る」という絶対的な不変がそこにあります。",
+                "thinking_layer": "「長い（long）」のではなく、時間の「外（outside）」にあることです。刻一刻と過ぎ去る刹那の連続ではなく、静止したまま永遠に色褪せない光。人間が抗えない「消滅」の法則が適用されない、神の領域の属性です。",
                 "synonyms": [
                         "everlasting",
                         "perpetual"
                 ],
                 "antonyms": [
                         "temporary",
-                        "transient"
+                        "ephemeral"
                 ],
-                "aftertaste": "時の流れの外に立つ、沈黙",
+                "aftertaste": "瞬きを忘れた、宇宙の深い静寂",
                 "deep_dive": {
                         "roots": [
                                 {
                                         "term": "aevum",
-                                        "meaning": "age"
+                                        "meaning": "eternity"
                                 }
                         ],
                         "points": [
-                                "age（年齢）やprimeval（原始の）も、この「長い時の流れ」という根源から生まれています。"
+                                "ever（常に）やage（時代）と同根。途切れることのない連なりを指します。"
                         ]
                 },
                 "source": "etymon Philologist Mode",
@@ -24994,48 +25033,45 @@ const WORDS = [
         {
                 "id": "ethereal",
                 "word": "Ethereal",
-                "author": "etymon_official",
+                "part_of_speech": "adjective",
+                "meaning": "極めて優美な、空気のような、霊妙な",
                 "etymology": {
                         "breakdown": [
                                 {
-                                        "text": "ether",
+                                        "text": "aither",
                                         "type": "root",
-                                        "meaning": "アイテール",
-                                        "lang": "Greek"
+                                        "meaning": "upper air / ether"
                                 }
                         ],
-                        "original_statement": "The word 'ethereal' stems from the Latin 'aetherius', which relates back to the Greek word 'aither,' meaning the upper, purer air or the clear sky."
+                        "original_statement": "From Greek aitherios, from aither 'pure upper air'."
                 },
                 "core_concept": {
-                        "en": "A graceful, transcendental quality; light as if not of this world.",
-                        "ja": "この世のものではないような軽やかで超越的な性質"
+                        "en": "Of the upper air",
+                        "ja": "地上の重力を離れ、神々が呼吸する「澄み切った上層の空気（ether）」の如く透き通る"
                 },
-                "thinking_layer": "エーテルの語源は、古代ギリシャ語の「aither」に遡り、より軽く、より純粋な空気や澄んだ空を意味します。エーテルは哲学者たちにとって、物質的世界と精神的世界を繋ぐもの、物理を超えた存在の象徴とされていました。それは目には見えないが確かに存在し、感じることができる力です。『エーテル』は幻想的な美の概念を喚起し、それは実体が曖昧で捉えがたいものでありながら、私たちの心に深く影響を与えるのです。それは生命の儚さと共に、宇宙の神秘に対する畏敬の念、そして個の内面における静謐な力の探求を象徴しています。哲学的には、エーテルは心の中で育まれる理想的な美しさ、瞬時に現れそして消える儚い雰囲気とも言えるでしょう。それはまた、未知の世界への憧れ、物質を超えた精神の旅を象徴し、私たちを日常の超越へと誘います。言語では言い表せないほどの繊細な感覚を描写する際に、エーテルという言葉はまさにその役割を果たします。",
+                "thinking_layer": "触れようとすると消えてしまうような、この世ならぬ繊細さ。濁った物質性を削ぎ落とし、光と空気だけで編み上げられたような存在。それは、あまりに美しすぎて、現実との接点を持たない儚さです。",
                 "synonyms": [
-                        "Celestial",
-                        "Heavenly"
+                        "celestial",
+                        "delicate"
                 ],
                 "antonyms": [
-                        "Earthly",
-                        "Mundane"
+                        "earthly",
+                        "mundane"
                 ],
-                "aftertaste": "Ethereal embodies the sublime intersection of beauty and the intangible.",
+                "aftertaste": "薄いヴェールの向こうに透ける、淡い光の記憶",
                 "deep_dive": {
                         "roots": [
                                 {
-                                        "term": "aether",
-                                        "meaning": "upper air, clear sky"
+                                        "term": "aithein",
+                                        "meaning": "to burn / shine"
                                 }
                         ],
                         "points": [
-                                "エーテルは、天界と地界の間の微妙な境界を表しています。"
+                                "ether（エーテル）は、かつて宇宙を満たすと信じられた「輝く大気」でした。"
                         ]
                 },
-                "source": "Online Etymology Dictionary",
-                "date": "2026-02-27",
-                "part_of_speech": "adjective",
-                "meaning": "空気のように軽い",
-                "era": "Ancient Greek"
+                "source": "etymon Philologist Mode",
+                "era": "16th Century Greek"
         },
         {
                 "id": "ethos",
@@ -25354,6 +25390,150 @@ const WORDS = [
                 "era": "19th Century"
         },
         {
+                "id": "eulogy",
+                "word": "Eulogy",
+                "part_of_speech": "noun",
+                "meaning": "追悼の辞、称賛",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "eu-",
+                                        "type": "prefix",
+                                        "meaning": "good / well"
+                                },
+                                {
+                                        "text": "logos",
+                                        "type": "root",
+                                        "meaning": "word / speech"
+                                }
+                        ],
+                        "original_statement": "From Greek eulogia 'praise', from eu- 'well' + -logia 'speaking'."
+                },
+                "core_concept": {
+                        "en": "Good words",
+                        "ja": "一人の人生に対し、最後に贈られる「善き言葉（good words）」の結晶"
+                },
+                "thinking_layer": "批判を封じ、その人が世界に残した光の部分だけを語ること。死者の沈黙を、生者の感謝で埋める儀式です。言葉が愛と尊敬を纏い、一個人の輪郭を美しく描き出す、最後の肖像画です。",
+                "synonyms": [
+                        "tribute",
+                        "panegyric"
+                ],
+                "antonyms": [
+                        "vilification",
+                        "obituary (neutral)"
+                ],
+                "aftertaste": "涙で濡れた、温かな手向けの言葉",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "eu",
+                                        "meaning": "well"
+                                }
+                        ],
+                        "points": [
+                                "euphemism（遠回しな表現＝善く言うこと）やeuphoria（多幸感）と同門の「善」です。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "16th Century Greek / Latin"
+        },
+        {
+                "id": "evade",
+                "word": "Evade",
+                "part_of_speech": "verb",
+                "meaning": "避ける、回避する",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "ex-",
+                                        "type": "prefix",
+                                        "meaning": "out"
+                                },
+                                {
+                                        "text": "vadere",
+                                        "type": "root",
+                                        "meaning": "to go"
+                                }
+                        ],
+                        "original_statement": "From French évader, from Latin evadere 'to escape', from ex- 'out' + vadere 'to go'."
+                },
+                "core_concept": {
+                        "en": "To go out / escape",
+                        "ja": "迫りくる網の目を潜り抜け、その領域の「外（ex）」へと身をかわす"
+                },
+                "thinking_layer": "正面から立ち向かうのではなく、一瞬の隙を突いて「去る（go out）」こと。追求の手が届かない場所へと、ひらりと軌跡をずらす。そこには、捕らえようとする力に対する、軽やかな拒絶があります。",
+                "synonyms": [
+                        "elude",
+                        "avoid"
+                ],
+                "antonyms": [
+                        "confront",
+                        "face"
+                ],
+                "aftertaste": "掴もうとした掌に残る、冷たい空気の感獲",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "vadere",
+                                        "meaning": "go"
+                                }
+                        ],
+                        "points": [
+                                "invade（侵入する＝中へ行く）やpervade（蔓延する＝突き抜けて行く）の反対語です。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "16th Century French / Latin"
+        },
+        {
+                "id": "evanescent",
+                "word": "Evanescent",
+                "part_of_speech": "adjective",
+                "meaning": "消えゆく、はかない",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "ex-",
+                                        "type": "prefix",
+                                        "meaning": "out"
+                                },
+                                {
+                                        "text": "vanescere",
+                                        "type": "root",
+                                        "meaning": "to vanish"
+                                }
+                        ],
+                        "original_statement": "From Latin evanescentem, from evanescere 'vanish', from ex- 'out' + vanus 'empty'."
+                },
+                "core_concept": {
+                        "en": "Vanishing away",
+                        "ja": "煙が空に溶けるように、存在の「外（ex）」へ向かって「空っぽ（empty）」になっていく"
+                },
+                "thinking_layer": "完全に消えた状態ではなく、「今まさに消えかかっている」グラデーションを指します。実体から虚無へと移り変わる瞬間の、淡く心細い揺らぎ。掴み取ろうとした瞬間に霧散する、究極の非永続性です。",
+                "synonyms": [
+                        "vanishing",
+                        "fleeting"
+                ],
+                "antonyms": [
+                        "lasting",
+                        "permanent"
+                ],
+                "aftertaste": "視界の端で消えた、名残の白い残像",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "vanus",
+                                        "meaning": "empty"
+                                }
+                        ],
+                        "points": [
+                                "vanish（消える）やvain（虚しい）と同じ、中身が失われていく運動です。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "18th Century Latin"
+        },
+        {
                 "id": "event",
                 "word": "Event",
                 "part_of_speech": "noun",
@@ -25404,6 +25584,54 @@ const WORDS = [
                 "source": "Online Etymology Dictionary",
                 "date": "2026-03-01",
                 "era": "16th Century"
+        },
+        {
+                "id": "evocative",
+                "word": "Evocative",
+                "part_of_speech": "adjective",
+                "meaning": "（感情を）呼び起こす、想起させる",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "ex-",
+                                        "type": "prefix",
+                                        "meaning": "out"
+                                },
+                                {
+                                        "text": "vocare",
+                                        "type": "root",
+                                        "meaning": "to call"
+                                }
+                        ],
+                        "original_statement": "From Latin evocatus, from evocare 'call forth', from ex- 'out' + vocare 'to call'."
+                },
+                "core_concept": {
+                        "en": "Calling out",
+                        "ja": "心の深淵に眠る記憶や感情を、「外（ex）」へと「呼び出す（call）」"
+                },
+                "thinking_layer": "単なる刺激ではなく、かつて知っていたはずの何かを呼び覚ます呪文のような力です。香りが、音が、言葉が。私たちの内側の扉を叩き、埋もれていた情景を意識の最前線へと引きずり出します。",
+                "synonyms": [
+                        "reminiscent",
+                        "suggestive"
+                ],
+                "antonyms": [
+                        "uninspiring",
+                        "dull"
+                ],
+                "aftertaste": "眠っていた魂が目を覚ます、かすかな震え",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "vox",
+                                        "meaning": "voice"
+                                }
+                        ],
+                        "points": [
+                                "vocal（声の）やvocation（天職＝神に呼ばれること）と同じ、声の魔力です。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "17th Century Latin"
         },
         {
                 "id": "evoke",
@@ -25457,7 +25685,7 @@ const WORDS = [
                 "id": "evolve",
                 "word": "Evolve",
                 "part_of_speech": "verb",
-                "meaning": "進化する、展開する",
+                "meaning": "進化する、発展する",
                 "etymology": {
                         "breakdown": [
                                 {
@@ -25471,22 +25699,22 @@ const WORDS = [
                                         "meaning": "to roll"
                                 }
                         ],
-                        "original_statement": "From Latin evolvere 'unroll, unfold', from ex- 'out' + volvere 'to roll'."
+                        "original_statement": "From Latin evolvere 'to unroll, unfold', from ex- 'out' + volvere 'to roll'."
                 },
                 "core_concept": {
                         "en": "To unroll",
-                        "ja": "硬く巻かれた書物を広げるように、未来を解き明かす"
+                        "ja": "固く巻かれたスクロールを「外（ex）」へ「転がし（roll）」広げ、隠された姿を現す"
                 },
-                "thinking_layer": "進化とは、巻物（volumen）を「広げる（unroll）」行為です。すでに可能性として内包されていたものが、時間をかけて外側へと開示されていく。変化とは、隠れていた美しさが露わになるプロセスなのです。",
+                "thinking_layer": "進化とは、折り畳まれていた可能性が時間をかけて「解き放たれる」プロセスです。複雑な模様が徐々に明らかになるように、生命や思想は自己を更新し続け、より高度な次元へと展開（unfold）していきます。",
                 "synonyms": [
                         "develop",
                         "unfold"
                 ],
                 "antonyms": [
-                        "stagnate",
-                        "regress"
+                        "devolve",
+                        "stagnate"
                 ],
-                "aftertaste": "ゆっくりと開かれる、命の巻物",
+                "aftertaste": "次々と開いていく、無限の可能性の渦",
                 "deep_dive": {
                         "roots": [
                                 {
@@ -25495,7 +25723,55 @@ const WORDS = [
                                 }
                         ],
                         "points": [
-                                "volume（巻物＝本）やrevolve（回転する）と同じ動きを指します。"
+                                "volume（巻物からきた本、音量）やrevolve（回転する）と同じく、円運動のダイナミズムです。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "17th Century Latin"
+        },
+        {
+                "id": "exacerbate",
+                "word": "Exacerbate",
+                "part_of_speech": "verb",
+                "meaning": "（病気や事態を）悪化させる、怒らせる",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "ex-",
+                                        "type": "prefix",
+                                        "meaning": "thoroughly"
+                                },
+                                {
+                                        "text": "acerbus",
+                                        "type": "root",
+                                        "meaning": "harsh / bitter"
+                                }
+                        ],
+                        "original_statement": "From Latin exacerbatus, from exacerbare 'make harsh', from ex- 'thoroughly' + acerbus 'harsh, bitter'."
+                },
+                "core_concept": {
+                        "en": "To make thoroughly bitter",
+                        "ja": "ただでさえ不快な状況を、「徹底的に（ex-）」、「苦く（bitter）」研ぎ澄ませる"
+                },
+                "thinking_layer": "火に油を注ぐような、容赦のない追い打ち。既に傷ついている場所に、さらに鋭い刺を突き刺すこと。状況が鋭利になり、毒性が増していくような、救いのない質の劣化を指します。",
+                "synonyms": [
+                        "aggravate",
+                        "worsen"
+                ],
+                "antonyms": [
+                        "alleviate",
+                        "soothe"
+                ],
+                "aftertaste": "舌の上に広がる、耐え難い苦味と鋭い痛み",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "acer",
+                                        "meaning": "sharp"
+                                }
+                        ],
+                        "points": [
+                                "acid（酸）やacrid（刺激的な）と同じ、心を切り裂くような「鋭さ」が根底にあります。"
                         ]
                 },
                 "source": "etymon Philologist Mode",
@@ -25657,7 +25933,7 @@ const WORDS = [
                 "id": "exasperate",
                 "word": "Exasperate",
                 "part_of_speech": "verb",
-                "meaning": "激怒させる、悪化させる",
+                "meaning": "憤慨させる、いらだたせる",
                 "etymology": {
                         "breakdown": [
                                 {
@@ -25671,35 +25947,83 @@ const WORDS = [
                                         "meaning": "rough"
                                 }
                         ],
-                        "original_statement": "From Latin exasperatus, from exasperare 'to make rough', from asper 'rough, harsh'."
+                        "original_statement": "From Latin exasperatus, from ex- 'thoroughly' + asper 'rough'."
                 },
                 "core_concept": {
                         "en": "To make thoroughly rough",
-                        "ja": "滑らかな心を逆撫でし、荒々しいトゲを立たせる"
+                        "ja": "滑らかだった感情の表面を「徹底的に（ex-）」「荒れ（rough）」させ、逆立てる"
                 },
-                "thinking_layer": "怒りとは、心の「肌触り」が豹変することです。穏やかだった感情の表面を執拗に荒らし（rough）、尖らせる。苛立ちとは、自分自身の心が他者という砥石で荒削りされる痛みそのものなのです。",
+                "thinking_layer": "単なる怒り（anger）ではなく、忍耐の限界を超えた時の「逆なでされる」感覚です。何度も繰り返される無意味な摩擦によって、心がトゲだらけになり、爆発寸前の苛立ちに支配される状態を指します。",
                 "synonyms": [
                         "irritate",
                         "infuriate"
                 ],
                 "antonyms": [
-                        "soothe",
-                        "placate"
+                        "placate",
+                        "appease"
                 ],
-                "aftertaste": "逆立った感情の、鋭い痛み",
+                "aftertaste": "逆立った毛羽立ちと、制御不能な苛立ちの火花",
                 "deep_dive": {
                         "roots": [
                                 {
                                         "term": "asper",
-                                        "meaning": "rough"
+                                        "meaning": "rough / harsh"
                                 }
                         ],
                         "points": [
-                                "asperity（粗暴さ）や、アスペリティ（断層の固着域）も同根の言葉です。"
+                                "asperity（粗暴さ、辛辣さ）と同根。優しさの対極にある「ざらつき」です。"
                         ]
                 },
                 "source": "etymon Philologist Mode",
                 "era": "16th Century Latin"
+        },
+        {
+                "id": "exceed",
+                "word": "Exceed",
+                "part_of_speech": "verb",
+                "meaning": "超える、上回る",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "ex-",
+                                        "type": "prefix",
+                                        "meaning": "out"
+                                },
+                                {
+                                        "text": "cedere",
+                                        "type": "root",
+                                        "meaning": "to go"
+                                }
+                        ],
+                        "original_statement": "From Old French exceder, from Latin excedere 'to go out / beyond', from ex- 'out' + cedere 'go'."
+                },
+                "core_concept": {
+                        "en": "To go out beyond",
+                        "ja": "あらかじめ引かれていた境界線を越え、その「外（ex-）」へと「歩み（go）」進める"
+                },
+                "thinking_layer": "期待や制限という名の「壁」を、軽々と（あるいは無理やりに）突破すること。定められた器から中身が溢れ出すような、制御不能な、あるいは圧倒的なエネルギーの奔流を指します。",
+                "synonyms": [
+                        "surpass",
+                        "excel"
+                ],
+                "antonyms": [
+                        "fail",
+                        "fall short"
+                ],
+                "aftertaste": "背後に残された、古びた境界線の残骸",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "cedere",
+                                        "meaning": "go / yield"
+                                }
+                        ],
+                        "points": [
+                                "proceed（進む）やrecede（遠ざかる）と同じく、位置の移動が本質です。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "14th Century Old French / Latin"
         },
         {
                 "id": "excellent",
@@ -26411,108 +26735,145 @@ const WORDS = [
                 "era": "Latin, 16th Century"
         },
         {
+                "id": "exotic",
+                "word": "Exotic",
+                "part_of_speech": "adjective",
+                "meaning": "外来の、異国情緒のある、風変わりな",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "exo-",
+                                        "type": "root",
+                                        "meaning": "outside"
+                                }
+                        ],
+                        "original_statement": "From Greek exotikos 'foreign', from exo 'outside'."
+                },
+                "core_concept": {
+                        "en": "From the outside",
+                        "ja": "見慣れた日常の「外側（outside）」からやってきた、未知なる色彩と香り"
+                },
+                "thinking_layer": "単に「外国の」という意味を超え、こちらの常識を揺さぶる「異質さ」への賞賛が含まれます。境界線の向こう側にある、手に入らないものへの憧憬と、得体の知れない美しさが同居しています。",
+                "synonyms": [
+                        "foreign",
+                        "alien",
+                        "unusual"
+                ],
+                "antonyms": [
+                        "native",
+                        "common",
+                        "familiar"
+                ],
+                "aftertaste": "嗅いだことのないスパイスと、鮮やかな極彩色の残像",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "exo",
+                                        "meaning": "outside"
+                                }
+                        ],
+                        "points": [
+                                "esoteric（内側の）の対義語。常に「他者」の視点を内包しています。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "16th Century Greek"
+        },
+        {
                 "id": "expand",
                 "word": "Expand",
                 "part_of_speech": "verb",
-                "meaning": "広げる、拡張する",
-                "author": "etymon_official",
+                "meaning": "広がる、拡大する、展開する",
                 "etymology": {
                         "breakdown": [
                                 {
                                         "text": "ex-",
                                         "type": "prefix",
-                                        "meaning": "外へ",
-                                        "lang": "Latin"
+                                        "meaning": "out"
                                 },
                                 {
                                         "text": "pandere",
                                         "type": "root",
-                                        "meaning": "広げる",
-                                        "lang": "Latin"
+                                        "meaning": "to spread / to stretch"
                                 }
                         ],
-                        "original_statement": "The word 'expand' traces its origin to the Latin 'expandere', which means to spread out or unfold."
+                        "original_statement": "From Latin expandere 'to spread out', from ex- 'out' + pandere 'to spread'."
                 },
                 "core_concept": {
-                        "en": "To breathe life into the void, stretching beyond the confines of the conceivable.",
-                        "ja": "思考の限界を超えて、虚空に生命を吹き込むこと。"
+                        "en": "To spread out",
+                        "ja": "折り畳まれていたものを「外（ex-）」へと「広げ（spread）」、空間を支配する"
                 },
-                "thinking_layer": "「拡張」とは、限られた空間に新たな次元を導入し、枠を超えて自身を広げていく行為である。それは、新しい可能性を模索し、見えない未来に向かって手を伸ばす挑戦でもある。たとえば、自然界においては、春に芽吹く植物がその典型であり、冬の眠りから覚め、新しい葉を広げていく様は壮大な生命の拡張と言える。人間の心もまた同様で、知識や経験を吸収し続けることで、その境界を広げ、新たな視座を獲得していく。このようにして、「拡張」は内なる力の躍動でもあり、外界とのダイナミックな対話でもある。",
+                "thinking_layer": "内側に秘められていた圧力が、外へと解放される運動です。風船が膨らむように、あるいは翼を広げるように。存在が希薄になるのではなく、むしろその影響範囲が等身大を超えていく、能動的な成長です。",
                 "synonyms": [
-                        "Enlarge",
-                        "Broaden"
+                        "enlarge",
+                        "extend"
                 ],
                 "antonyms": [
-                        "Contract",
-                        "Shrink"
+                        "contract",
+                        "shrink"
                 ],
-                "aftertaste": "Expansion is the essence of growth and exploration.",
+                "aftertaste": "解放された圧力が生む、果てしない空間の充足",
                 "deep_dive": {
                         "roots": [
                                 {
                                         "term": "pandere",
-                                        "meaning": "to spread"
+                                        "meaning": "stretch"
                                 }
                         ],
                         "points": [
-                                "「expand」は、その起源をラテン語「expandere」に持つ。これは、物理的な拡がりだけでなく、心理的・精神的な成長をも暗示する言葉であり、新たな可能性を探求する人間の本質を内包する。"
+                                "span（期間、幅）やexpanse（広がり）と同じ、空間を埋める運動です。"
                         ]
                 },
-                "source": "Online Etymology Dictionary",
-                "date": "2026-03-01",
-                "era": "Late Middle English"
+                "source": "etymon Philologist Mode",
+                "era": "15th Century Latin"
         },
         {
                 "id": "expel",
                 "word": "Expel",
                 "part_of_speech": "verb",
-                "meaning": "追い出す、排除する",
-                "author": "etymon_official",
+                "meaning": "追放する、排出する",
                 "etymology": {
                         "breakdown": [
                                 {
                                         "text": "ex-",
                                         "type": "prefix",
-                                        "meaning": "外へ",
-                                        "lang": "Latin"
+                                        "meaning": "out"
                                 },
                                 {
                                         "text": "pellere",
                                         "type": "root",
-                                        "meaning": "追い出す、押し出す",
-                                        "lang": "Latin"
+                                        "meaning": "to drive"
                                 }
                         ],
-                        "original_statement": "The word 'expel' originates from the Latin 'expellere', meaning 'to drive out'."
+                        "original_statement": "From Latin expellere 'to drive out', from ex- 'out' + pellere 'to drive'."
                 },
                 "core_concept": {
-                        "en": "A forceful casting out into the void.",
-                        "ja": "力強く無へと追放する動作"
+                        "en": "To drive out",
+                        "ja": "不必要なものを、内なる世界から「外（ex-）」へと力任せに「駆り立て（drive）」、排除する"
                 },
-                "thinking_layer": "人間は時折、内部から溢れ出る力や情熱を抑えることができず、それが必然的に外部へと追い出されることになります。この『追放』という行為は、個人や社会の内なる思考や感情が限界を迎え、変革を迎える瞬間です。古代ラテン語に源を持つこの言葉は、単なる肉体的な移動や排除というよりも、精神的、情緒的な浄化を意味します。追い出されたものは、しばしば未知の領域へと送り出されることであり、それは新たな発見や自己成長の旅の始まりを示しています。追放されることにより、自らの存在理由を再定義し、新たな可能性を探索することができるのです。追い出す側にとっても、それは新たな空間と視点を得る機会となります。ゆえに、追放の本質は変化と再生にあります。それは調和の保護でもあり、人間が持つ内なる混沌を外部に解放する必要不可欠な過程なのです。",
+                "thinking_layer": "穏やかな去り方ではなく、背中を押して追い出すような強制力が伴います。組織の浄化、あるいは肉体の防衛。聖域を守るために、異物を境界線の向こう側へと叩き出す、拒絶の身振りです。",
                 "synonyms": [
-                        "Eject",
-                        "Ban"
+                        "banish",
+                        "eject"
                 ],
                 "antonyms": [
-                        "Admit",
-                        "Include"
+                        "admit",
+                        "absorb"
                 ],
-                "aftertaste": "Expulsion marks the beginning of newfound freedom.",
+                "aftertaste": "閉ざされた門の向こう、突き放された冷たい風",
                 "deep_dive": {
                         "roots": [
                                 {
                                         "term": "pellere",
-                                        "meaning": "to push, drive"
+                                        "meaning": "push / drive"
                                 }
                         ],
                         "points": [
-                                "『expel』という動詞は、古いラテン語に由来し、もともとは物理的に押し出すという行為を指していました。時の経過と共に、精神的な領域にもその意味を拡張していきました。"
+                                "impel（駆り立てる）やcompel（強いる）と同じ、抗いがたい「押し」の力です。"
                         ]
                 },
-                "source": "The Oxford English Dictionary",
-                "date": "2026-03-01",
-                "era": "Latin origin"
+                "source": "etymon Philologist Mode",
+                "era": "14th Century Latin"
         },
         {
                 "id": "expensive",
@@ -26628,22 +26989,24 @@ const WORDS = [
                                         "meaning": "to breathe"
                                 }
                         ],
-                        "original_statement": "From Old French expirer, from Latin expirare 'to breathe out', hence 'to die'."
+                        "original_statement": "From Old French expirer, from Latin expirare 'to breathe out', from ex- 'out' + spirare 'breathe'."
                 },
                 "core_concept": {
-                        "en": "The final breath out",
-                        "ja": "最後の一息を吐き出し、魂が器を離れる"
+                        "en": "To breathe out (lastly)",
+                        "ja": "内にある命の「息（spirit）」をすべて「吐き出し（breathe out）」、空になる"
                 },
-                "thinking_layer": "終わりとは「息を吐き切る（breathe out）」ことです。内に溜めていた生命の火を、風の中へ解き放つ瞬間。期限が切れることも、その存在が担っていた役割の「最後の呼吸」を意味します。",
+                "thinking_layer": "最後の吐息です。時間が尽きることも、命が尽きることも、内側にあったエネルギーを外へ放出しきって、もう吸い込む力が残っていない状態。静かな終焉と、それに続く空虚を指します。",
                 "synonyms": [
+                        "lapse",
                         "terminate",
-                        "perish"
+                        "die"
                 ],
                 "antonyms": [
-                        "begin",
-                        "commence"
+                        "start",
+                        "commence",
+                        "inhale"
                 ],
-                "aftertaste": "静かに吐き出された、最後の余韻",
+                "aftertaste": "二度と戻らない、最後の一息の静寂",
                 "deep_dive": {
                         "roots": [
                                 {
@@ -26652,7 +27015,7 @@ const WORDS = [
                                 }
                         ],
                         "points": [
-                                "spirit（精神）やinspire（鼓舞する＝息を吹き込む）と対極の動きです。"
+                                "spirit（魂）やinspire（息を吹き込む）と同じく、命の根源的な運動を指します。"
                         ]
                 },
                 "source": "etymon Philologist Mode",
@@ -26707,6 +27070,55 @@ const WORDS = [
                 "era": "15th Century Latin"
         },
         {
+                "id": "explicit",
+                "word": "Explicit",
+                "part_of_speech": "adjective",
+                "meaning": "明白な、あからさまで詳細な",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "ex-",
+                                        "type": "prefix",
+                                        "meaning": "out"
+                                },
+                                {
+                                        "text": "plicare",
+                                        "type": "root",
+                                        "meaning": "to fold"
+                                }
+                        ],
+                        "original_statement": "From Latin explicitus 'unfolded', from ex- 'out' + plicare 'fold'."
+                },
+                "core_concept": {
+                        "en": "To unfold completely",
+                        "ja": "折り畳まれていたものを、隠し事がないように「外（ex-）」へと「広げ（unfold）」きる"
+                },
+                "thinking_layer": "暗喩や曖昧さを排し、すべてを白日の下に晒すこと。シワの一つひとつを伸ばし、中身が何であるかを誰の目にも明らかな状態にすること。そこには、誤解を許さないという徹底した透明性があります。",
+                "synonyms": [
+                        "clear",
+                        "unambiguous",
+                        "definite"
+                ],
+                "antonyms": [
+                        "implicit",
+                        "vague"
+                ],
+                "aftertaste": "隅々まで光が届いた、隠し場所のない真実",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "plicare",
+                                        "meaning": "fold"
+                                }
+                        ],
+                        "points": [
+                                "implicit（暗黙の＝内側に折られた）の対義語。物理的な「折り」の解消が意味の核心です。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "17th Century Latin"
+        },
+        {
                 "id": "exploit",
                 "word": "Exploit",
                 "part_of_speech": "verb/noun",
@@ -26724,21 +27136,23 @@ const WORDS = [
                                         "meaning": "to fold"
                                 }
                         ],
-                        "original_statement": "From Old French esploit, from Latin explicitum 'unfolded, set forth'."
+                        "original_statement": "From Old French esploit 'action, achievement', from Latin explicitum 'unfolded, set forth'."
                 },
                 "core_concept": {
-                        "en": "To unfold for use",
-                        "ja": "畳まれていた可能性を広げ、成果として形にする"
+                        "en": "To unfold into action",
+                        "ja": "潜在的な可能性を「広げ（unfold）」、目に見える成果や利益として引き出す"
                 },
-                "thinking_layer": "もとは「畳まれていたものを広げる（unfold）」という、発展的な意味でした。それが現代では、資源や他人の力を「余すところなく使い切る」という、冷徹な効率性のニュアンスを帯びるようになりました。",
+                "thinking_layer": "もとは「成果を出す」という肯定的な言葉でしたが、現代では「他人の犠牲の上に利益を得る」という搾取のニュアンスが強まりました。資源や才能を「使い切る（unfold to the end）」ことの光と影です。",
                 "synonyms": [
                         "utilize",
-                        "abuse"
+                        "abuse",
+                        "feat"
                 ],
                 "antonyms": [
-                        "neglect"
+                        "neglect",
+                        "conserve"
                 ],
-                "aftertaste": "開かれた可能性の、光と影",
+                "aftertaste": "枯れるまで絞り出された、成果の苦い味",
                 "deep_dive": {
                         "roots": [
                                 {
@@ -26747,11 +27161,11 @@ const WORDS = [
                                 }
                         ],
                         "points": [
-                                "explicit（明白な＝広げられた）やapply（適用する＝重ねる）と同根です。"
+                                "explicitと同じルーツですが、こちらは「行動としての展開」に焦点を当てています。"
                         ]
                 },
                 "source": "etymon Philologist Mode",
-                "era": "14th Century Old French / Latin"
+                "era": "14th Century Old French"
         },
         {
                 "id": "explore",
@@ -26952,7 +27366,7 @@ const WORDS = [
                 "id": "exquisite",
                 "word": "Exquisite",
                 "part_of_speech": "adjective",
-                "meaning": "洗練された、この上なく素晴らしい",
+                "meaning": "非常に美しい、精巧な、絶妙な",
                 "etymology": {
                         "breakdown": [
                                 {
@@ -26963,34 +27377,36 @@ const WORDS = [
                                 {
                                         "text": "quaerere",
                                         "type": "root",
-                                        "meaning": "to seek / to ask"
+                                        "meaning": "to seek"
                                 }
                         ],
-                        "original_statement": "From Latin exquisitus 'carefully sought out', from ex- 'out' + quaerere 'to seek'."
+                        "original_statement": "From Latin exquisitus 'carefully sought out', from ex- 'out' + quaerere 'seek'."
                 },
                 "core_concept": {
-                        "en": "Sought out with care",
-                        "ja": "執拗な探求の末に、選び抜かれた究極の美"
+                        "en": "Sought out carefully",
+                        "ja": "凡庸なものの中から「探し出し（seek）」、選び抜かれた究極の一品"
                 },
-                "thinking_layer": "「精巧な美」は、偶然の産物ではありません。あくなき「探求（seek out）」の果てに辿り着いた、妥協のない答えです。求める（query）ことをやめなかった者だけが手にできる、磨き抜かれた極致です。",
+                "thinking_layer": "偶然の産物ではなく、知性と情熱による「選別の極致」です。隅々まで神経が通い、一分の隙もない美しさ。それは、探し求めていた理想が、ついに完璧な形として結晶化したものです。",
                 "synonyms": [
-                        "superb",
-                        "refined"
+                        "beautiful",
+                        "refined",
+                        "superb"
                 ],
                 "antonyms": [
                         "crude",
-                        "inferior"
+                        "ordinary",
+                        "plain"
                 ],
-                "aftertaste": "探求の果てに輝く、一筋の光",
+                "aftertaste": "息を呑むような、極限まで磨かれた完璧な静謐",
                 "deep_dive": {
                         "roots": [
                                 {
                                         "term": "quaerere",
-                                        "meaning": "seek"
+                                        "meaning": "ask / seek"
                                 }
                         ],
                         "points": [
-                                "question（質問）やquest（探求）と同じ「求める心」の結晶です。"
+                                "questionやrequireと同じ。真理を追い求める執念が美学に変わりました。"
                         ]
                 },
                 "source": "etymon Philologist Mode",
@@ -27055,6 +27471,54 @@ const WORDS = [
                 "era": "19th Century"
         },
         {
+                "id": "extinct",
+                "word": "Extinct",
+                "part_of_speech": "adjective",
+                "meaning": "絶滅した、火が消えた",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "ex-",
+                                        "type": "prefix",
+                                        "meaning": "out"
+                                },
+                                {
+                                        "text": "stinguere",
+                                        "type": "root",
+                                        "meaning": "to quench / to prick"
+                                }
+                        ],
+                        "original_statement": "From Latin extinctus, from extinguere 'quench, wipe out', from ex- 'out' + stinguere 'quench'."
+                },
+                "core_concept": {
+                        "en": "Quenched out",
+                        "ja": "燃えていた命の火を、水の底へと沈めて「消し（quench）」去り、冷え切らせる"
+                },
+                "thinking_layer": "一時的な不在ではなく、熱源そのものの喪失です。二度と再び火が灯ることはないという、冷たく永劫の沈黙。かつてそこにあった躍動が、物理法則によって完全に「拭い去られた」あとの虚空を指します。",
+                "synonyms": [
+                        "vanished",
+                        "defunct"
+                ],
+                "antonyms": [
+                        "extant",
+                        "alive"
+                ],
+                "aftertaste": "温もりを失った灰と、凍りついた時間の記憶",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "stinguere",
+                                        "meaning": "quench / prick"
+                                }
+                        ],
+                        "points": [
+                                "distinguish（区別する＝印をつける）と同じ「突く」から派生し、火を突いて消す動作へと至りました。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "15th Century Latin"
+        },
+        {
                 "id": "extinguish",
                 "word": "Extinguish",
                 "part_of_speech": "verb",
@@ -27112,95 +27576,182 @@ const WORDS = [
                                 {
                                         "text": "ex-",
                                         "type": "prefix",
-                                        "meaning": "out / up"
+                                        "meaning": "up"
                                 },
                                 {
                                         "text": "tollere",
                                         "type": "root",
-                                        "meaning": "to raise"
+                                        "meaning": "to raise / to lift"
                                 }
                         ],
-                        "original_statement": "From Latin extollere 'to lift up, raise high', from ex- 'up' + tollere 'to lift'."
+                        "original_statement": "From Latin extollere 'to lift up', from ex- 'out / up' + tollere 'raise'."
                 },
                 "core_concept": {
                         "en": "To lift up high",
-                        "ja": "称賛の言葉で、相手を天高く担ぎ上げる"
+                        "ja": "対象を両手で高く「持ち上げ（lift）」、地上の喧騒から切り離して称える"
                 },
-                "thinking_layer": "「褒める」の極致は、相手を物理的に「持ち上げる（lift up）」ような感覚です。群衆の中からその人の価値を掬い上げ、誰もが見上げる高貴な場所へと、言葉の力で押し上げること。それが激賞の本質です。",
+                "thinking_layer": "単なる賞賛（praise）ではなく、神殿の台座に載せるような「引き上げ」です。言葉によって相手をより高い次元へと押し上げ、その輝きを誰の目にも明らかなものにする、能動的で力強い祝福です。",
                 "synonyms": [
                         "exalt",
-                        "praise"
+                        "laud"
                 ],
                 "antonyms": [
-                        "belittle",
-                        "denigrate"
+                        "criticize",
+                        "belittle"
                 ],
-                "aftertaste": "見上げる空に掲げられた、誰かの誇り",
+                "aftertaste": "天高く掲げられた、黄金の偶像の輝き",
                 "deep_dive": {
                         "roots": [
                                 {
                                         "term": "tollere",
-                                        "meaning": "lift"
+                                        "meaning": "take / raise"
                                 }
                         ],
                         "points": [
-                                "tolerate（耐える＝重荷を持ち上げ続ける）と同根。持ち上げる「力」が必要です。"
+                                "tolerate（耐える＝重荷を持ち上げ続ける）と同じ。重い価値を引き受ける力強さがあります。"
                         ]
                 },
                 "source": "etymon Philologist Mode",
                 "era": "14th Century Latin"
         },
         {
-                "id": "extract",
-                "word": "Extract",
-                "part_of_speech": "noun/verb",
-                "meaning": "抽出する、引き出す",
-                "author": "etymon_official",
+                "id": "extort",
+                "word": "Extort",
+                "part_of_speech": "verb",
+                "meaning": "（金品などを）ゆすり取る、強要する",
                 "etymology": {
                         "breakdown": [
                                 {
                                         "text": "ex-",
                                         "type": "prefix",
-                                        "meaning": "外に",
-                                        "lang": "Latin"
+                                        "meaning": "out"
+                                },
+                                {
+                                        "text": "torquere",
+                                        "type": "root",
+                                        "meaning": "to twist"
+                                }
+                        ],
+                        "original_statement": "From Latin extortus, from extorquere 'to wrench out', from ex- 'out' + torquere 'twist'."
+                },
+                "core_concept": {
+                        "en": "To twist out",
+                        "ja": "相手の手を「捻り（twist）」あげ、無理やりその中身を「外（out）」へ吐き出させる"
+                },
+                "thinking_layer": "対等な取引ではなく、暴力的な歪み（distortion）を伴います。雑巾を絞るようにして、本来なら手手放したくないものを根こそぎ奪い取ること。その根底には、形を崩してでも奪うという、冷酷な搾取の意志があります。",
+                "synonyms": [
+                        "wrest",
+                        "coerce"
+                ],
+                "antonyms": [
+                        "donate",
+                        "bestow"
+                ],
+                "aftertaste": "悲鳴と共に捻り出された、歪んだ果実の苦味",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "torquere",
+                                        "meaning": "twist"
+                                }
+                        ],
+                        "points": [
+                                "torture（拷問）やtorque（トルク）と同じ、ねじ切るような力が本質です。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "16th Century Latin"
+        },
+        {
+                "id": "extract",
+                "word": "Extract",
+                "part_of_speech": "verb/noun",
+                "meaning": "引き出す、抽出する、抜粋",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "ex-",
+                                        "type": "prefix",
+                                        "meaning": "out"
                                 },
                                 {
                                         "text": "trahere",
                                         "type": "root",
-                                        "meaning": "引く",
-                                        "lang": "Latin"
+                                        "meaning": "to draw / to pull"
                                 }
                         ],
-                        "original_statement": "The word 'extract' originates from the Latin 'extrahere', meaning 'to draw out'."
+                        "original_statement": "From Latin extractus, from extrahere 'to draw out', from ex- 'out' + trahere 'pull'."
                 },
                 "core_concept": {
-                        "en": "To unveil the hidden essence within.",
-                        "ja": "内なる本質を引き出す行為"
+                        "en": "To draw out",
+                        "ja": "複雑な塊の「中」から、必要な糸を「外」へと「引き（draw）」寄せる"
                 },
-                "thinking_layer": "抽出という行為は、物質や思考の奥深くに隠された真実を明るみに出すことに他なりません。日常の中で我々は、多くの層に覆われた情報や感情、さらには本来的な姿を求めて、常に探求し続ける存在です。抽出とは、この隠されたものに到達する術であり、同時にそれを解き放つ瞬間の美しさです。我々が鉱山から自然の恵みを、または感性から創造的なアイデアを抽出するとき、その過程はあたかも世界が密かに語っていた物語を私たちが紡ぎ直すようなものです。抽出は単なる物理的な行為ではなく、心の眼で見つめ、手の感触でつかむ哲学的な営みなのです。隠されたものを解き放つという行為は、私たちの内なる変容をもたらす。抽出は終わりなき探求であり、同時に新たな始まりです。それは現実球の中に潜む潜在的宇宙を垣間見るための鍵です。この行為を通じて、私たちは内なる声を聴き、更なる知識を世界へと送り出すのです。",
+                "thinking_layer": "全体を壊すのではなく、特定のエッセンスだけを精緻に選別して取り出すこと。土の中から根を、あるいは長い文章の中から一節を。夾雑物を残し、純粋な価値だけをこちらの世界へ「招き入れる」技術です。",
                 "synonyms": [
-                        "Derive",
-                        "Remove"
+                        "withdraw",
+                        "derive"
                 ],
                 "antonyms": [
-                        "Embed",
-                        "Insert"
+                        "insert",
+                        "inject"
                 ],
-                "aftertaste": "To extract is to listen closely to the quiet whispers of hidden truths.",
+                "aftertaste": "不純物を削ぎ落とした、一滴の濃密な真実",
                 "deep_dive": {
                         "roots": [
                                 {
                                         "term": "trahere",
-                                        "meaning": "to pull, drag"
+                                        "meaning": "pull"
                                 }
                         ],
                         "points": [
-                                "『extract』はラテン語の『ex』と『trahere』に由来し、文字通り「外へ引き出す」を意味します。この語の歴史は探求と発見の織り成す美しき物語を紡ぐものです。"
+                                "abstract（抽象的な＝引き離された）やattract（惹きつける）と同じ、引力による運動です。"
                         ]
                 },
-                "source": "Oxford English Dictionary",
-                "date": "2026-03-01",
-                "era": "Late Middle English, via Latin 'extrahere'"
+                "source": "etymon Philologist Mode",
+                "era": "15th Century Latin"
+        },
+        {
+                "id": "extraneous",
+                "word": "Extraneous",
+                "part_of_speech": "adjective",
+                "meaning": "無関係な、外部からの",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "extra-",
+                                        "type": "prefix",
+                                        "meaning": "outside"
+                                }
+                        ],
+                        "original_statement": "From Latin extraneus 'external', from extra 'outside'."
+                },
+                "core_concept": {
+                        "en": "From the outside",
+                        "ja": "本質の輪郭の「外側」にあり、あってもなくても変わらない余計なもの"
+                },
+                "thinking_layer": "異物（alien）に近い感覚です。議論の核心を濁らせるノイズや、物語に寄与しない枝葉。それは「そこにあるべきではない」という、論理的な境界線による排除の対象です。",
+                "synonyms": [
+                        "irrelevant",
+                        "unrelated"
+                ],
+                "antonyms": [
+                        "essential",
+                        "inherent"
+                ],
+                "aftertaste": "拭い去られた、窓ガラスの上の無意味な塵",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "extra",
+                                        "meaning": "beyond"
+                                }
+                        ],
+                        "points": [
+                                "strange（奇妙な＝外からの）と同語源。馴染みのない外部性を指します。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "17th Century Latin"
         },
         {
                 "id": "extraordinary",
@@ -27254,7 +27805,7 @@ const WORDS = [
                 "id": "extravagant",
                 "word": "Extravagant",
                 "part_of_speech": "adjective",
-                "meaning": "無駄遣いな、法外な、奔放な",
+                "meaning": "贅沢な、度を越した",
                 "etymology": {
                         "breakdown": [
                                 {
@@ -27271,76 +27822,76 @@ const WORDS = [
                         "original_statement": "From Medieval Latin extravagantem, from extra- 'outside' + vagari 'to wander'."
                 },
                 "core_concept": {
-                        "en": "Wandering outside bounds",
-                        "ja": "許された境界を越えて、どこまでも彷徨い歩く"
+                        "en": "Wandering outside (bounds)",
+                        "ja": "常識という檻を飛び出し、分不相応な荒野へと「彷徨い（wander）」出る"
                 },
-                "thinking_layer": "「贅沢」の原義は、定められた道や予算の「外（extra）」を「彷徨う（wander）」こと。理性のブレーキを失い、欲望のままに境界線を越えて歩き回る。その放蕩な足取りが、浪費という形になります。",
+                "thinking_layer": "単に金遣いが荒いだけでなく、理性の「境界（bounds）」を越えてしまった逸脱です。必要を超え、節度を超え、ただ過剰であること自体を謳歌する。放蕩者の足跡のように、無秩序に広がっていく浪費です。",
                 "synonyms": [
-                        "prodigal",
-                        "excessive"
+                        "excessive",
+                        "prodigal"
                 ],
                 "antonyms": [
                         "frugal",
-                        "thrifty"
+                        "moderate"
                 ],
-                "aftertaste": "境界線を忘れた、足跡の乱れ",
+                "aftertaste": "燃やし尽くされた紙幣の、虚ろで美しい煙",
                 "deep_dive": {
                         "roots": [
                                 {
-                                        "term": "vagari",
-                                        "meaning": "wander"
+                                        "term": "vagus",
+                                        "meaning": "wandering"
                                 }
                         ],
                         "points": [
-                                "vague（漠然とした＝彷徨っている）やvagrant（放浪者）と同じ根っこです。"
+                                "vague（曖昧な＝さまよっている）やvibrantと同じ、固定されない流動性を持ちます。"
                         ]
                 },
                 "source": "etymon Philologist Mode",
-                "era": "14th Century Latin"
+                "era": "14th Century Latin origin"
         },
         {
                 "id": "extreme",
                 "word": "Extreme",
                 "part_of_speech": "adjective/noun",
-                "meaning": "極端な、過激な、末端",
+                "meaning": "極端な、極限の",
                 "etymology": {
                         "breakdown": [
                                 {
                                         "text": "exter-",
-                                        "type": "prefix",
+                                        "type": "root",
                                         "meaning": "outer"
                                 },
                                 {
-                                        "text": "-ime",
+                                        "text": "-imus",
                                         "type": "suffix",
-                                        "meaning": "superlative / most"
+                                        "meaning": "most / last"
                                 }
                         ],
-                        "original_statement": "From Old French extreme, from Latin extremus 'outermost, utmost', superlative of exter 'outer'."
+                        "original_statement": "From Old French extreme, from Latin extremus 'outermost, last', superlative of exter 'outer'."
                 },
                 "core_concept": {
-                        "en": "The outermost point",
-                        "ja": "これ以上先がない、世界の断崖絶壁の端"
+                        "en": "The outermost",
+                        "ja": "これ以上先はない、世界の「最も外側（outermost）」に位置する限界点"
                 },
-                "thinking_layer": "「外（exter）」の最上級。それ以上外側へは行けない、ギリギリの「際（きわ）」のことです。思想でも行動でも、崖っぷちに立って深淵を覗き込むような、極限の緊張感がこの言葉には宿っています。",
+                "thinking_layer": "崖っぷちの境界線です。均衡（center）から最も遠く、最も危険で、しかし最も純粋な場所。中間を許さないその場所には、死か、あるいは至高の真理か、どちらか一方しか存在できません。",
                 "synonyms": [
                         "utmost",
                         "radical"
                 ],
                 "antonyms": [
                         "moderate",
-                        "mild"
+                        "average"
                 ],
-                "aftertaste": "一歩先は無、という断崖の風",
+                "aftertaste": "足元に広がる、目も眩むような深淵の静寂",
                 "deep_dive": {
                         "roots": [
                                 {
-                                        "term": "exter",
-                                        "meaning": "out"
+                                        "term": "exterus",
+                                        "meaning": "outside"
                                 }
                         ],
                         "points": [
-                                "external（外部の）の究極形がextreme。もう戻れない「端」です。"
+                                "exterior（外部の）の最上級。もとは「最後に残ったもの」も意味しました。"
                         ]
                 },
                 "source": "etymon Philologist Mode",
@@ -27350,7 +27901,7 @@ const WORDS = [
                 "id": "extricate",
                 "word": "Extricate",
                 "part_of_speech": "verb",
-                "meaning": "（難局から）救い出す、解放する",
+                "meaning": "（もつれ・苦境から）救い出す",
                 "etymology": {
                         "breakdown": [
                                 {
@@ -27361,34 +27912,34 @@ const WORDS = [
                                 {
                                         "text": "tricae",
                                         "type": "root",
-                                        "meaning": "perplexities / hindrances / trifles"
+                                        "meaning": "perplexities / hindrances"
                                 }
                         ],
-                        "original_statement": "From Latin extricatus, from extricare 'to disentangle', from ex- 'out' + tricae 'perplexities, trifles'."
+                        "original_statement": "From Latin extricatus, from extricare 'to disentangle', from ex- 'out' + tricae 'hindrances, perplexities'."
                 },
                 "core_concept": {
                         "en": "Out of the perplexities",
-                        "ja": "絡みつく難題の糸を切り、迷宮から連れ出す"
+                        "ja": "がんじがらめの「もつれ（tricae）」を一つずつ解き、囚われた身を「外」へ放つ"
                 },
-                "thinking_layer": "「難局」は、もともと鳥を捕まえる「罠（tricae）」のようなものでした。細かな障害が複雑に絡み合い、身動きが取れなくなった状態から、一筋の道を見つけて「外（ex）」へ引き出すこと。知的な救出作業です。",
+                "thinking_layer": "もとは「足枷（足に絡まるもの）」から逃れることを指しました。絡み合った利害、あるいは複雑な泥沼。力任せに切るのではなく、知性をもって複雑さを解消し、自由を取り戻す洗練された救出劇です。",
                 "synonyms": [
                         "disentangle",
-                        "extract"
+                        "liberate"
                 ],
                 "antonyms": [
                         "entangle",
                         "involve"
                 ],
-                "aftertaste": "絡みつく糸が解けた、一瞬の静寂",
+                "aftertaste": "複雑な結び目が解けた後の、自由な指先の解放感",
                 "deep_dive": {
                         "roots": [
                                 {
                                         "term": "tricae",
-                                        "meaning": "hindrance"
+                                        "meaning": "trifles / snarls"
                                 }
                         ],
                         "points": [
-                                "intricate（複雑な＝中に絡まっている）のちょうど反対の動きです。"
+                                "intrigue（陰謀＝中に絡まる）の反対。迷宮の壁を壊して外へ出る行為です。"
                         ]
                 },
                 "source": "etymon Philologist Mode",
@@ -27398,49 +27949,45 @@ const WORDS = [
                 "id": "extrinsic",
                 "word": "Extrinsic",
                 "part_of_speech": "adjective",
-                "meaning": "外的な、付帯的な、非本質的な",
+                "meaning": "外因的な、付帯的な",
                 "etymology": {
                         "breakdown": [
                                 {
-                                        "text": "exter",
-                                        "type": "prefix",
-                                        "meaning": "outside"
+                                        "text": "exter-",
+                                        "type": "root",
+                                        "meaning": "outer"
                                 },
                                 {
                                         "text": "secus",
                                         "type": "root",
-                                        "meaning": "beside / along"
+                                        "meaning": "alongside / beside"
                                 }
                         ],
-                        "original_statement": "From Late Latin extrinsecus 'outward', from exter 'outside' + secus 'beside, along'."
+                        "original_statement": "From Late Latin extrinsecus 'outward', from exter 'outer' + secus 'beside'."
                 },
                 "core_concept": {
-                        "en": "Along the outside",
-                        "ja": "本質の外側に沿って添えられた、仮初の飾り"
+                        "en": "From the side outside",
+                        "ja": "本質（inner）とは別に、後から「横（side）」から付け加えられた外部の力"
                 },
-                "thinking_layer": "核心部には属さず、ただ「外側（exter）」に「沿って（beside）」存在しているもの。それは取り外し可能な装飾であり、環境の変化によって容易に剥がれ落ちる、本質とは無縁の属性を指します。",
+                "thinking_layer": "そのもの自体に備わっている価値ではなく、状況や他者によって後付けされたラベル。報酬や評判のように、外からの刺激によって動く力。それは操作可能で、しかし一時的な「外面の影」に過ぎません。",
                 "synonyms": [
                         "external",
-                        "incidental"
+                        "acquired"
                 ],
                 "antonyms": [
                         "intrinsic",
                         "inherent"
                 ],
-                "aftertaste": "いつか剥がれ落ちる、外の景色",
+                "aftertaste": "本体を離れれば消えてしまう、借り物の光",
                 "deep_dive": {
                         "roots": [
                                 {
-                                        "term": "exter",
-                                        "meaning": "out"
-                                },
-                                {
                                         "term": "secus",
-                                        "meaning": "side"
+                                        "meaning": "beside"
                                 }
                         ],
                         "points": [
-                                "intrinsic（内的な）と対比。secusはsecond（二番目＝隣）とも関係があります。"
+                                "intrinsic（内因的な）との対比。内側の心臓に対し、外側の皮膚のようなものです。"
                         ]
                 },
                 "source": "etymon Philologist Mode",
@@ -27497,7 +28044,7 @@ const WORDS = [
                 "id": "exuberant",
                 "word": "Exuberant",
                 "part_of_speech": "adjective",
-                "meaning": "（生命力・喜びなどが）溢れるばかりの、豊かな",
+                "meaning": "（喜びなどが）溢れるばかりの、活力に満ちた",
                 "etymology": {
                         "breakdown": [
                                 {
@@ -27508,34 +28055,34 @@ const WORDS = [
                                 {
                                         "text": "uberare",
                                         "type": "root",
-                                        "meaning": "to be fruitful / udder"
+                                        "meaning": "to be fruitful / to bear fruit"
                                 }
                         ],
-                        "original_statement": "From Latin exuberantem 'growing thickly, abounding', from ex- 'thoroughly' + uberare 'to be fruitful, bear in abundance'."
+                        "original_statement": "From Latin exuberantem, from exuberare 'to grow thickly / abound', from ex- 'thoroughly' + uber 'fertile'."
                 },
                 "core_concept": {
-                        "en": "Abounding like a swelling udder",
-                        "ja": "乳房が張り裂けんばかりに満ちる、圧倒的な生の豊穣"
+                        "en": "Thoroughly fertile",
+                        "ja": "生命の「肥沃さ（fertile）」が限界を突破し、堰を切って「溢れ（abound）」出す"
                 },
-                "thinking_layer": "語源の「乳房（uber）」が象徴するように、生命が内側からパンパンに膨らみ、もはや器に留めておけず「溢れ出す（overflow）」状態。それは制御不能なほどの喜びであり、鬱蒼と茂る緑のような野生の力強さです。",
+                "thinking_layer": "単なる元気ではなく、抑えきれない「過剰な生命力」です。森が鬱蒼と生い茂るように、あるいは笑い声が部屋を満たすように。エネルギーが内側に収まりきらず、周囲を巻き込んで奔流となる、祝祭的なまでの豊かさです。",
                 "synonyms": [
-                        "enthusiastic",
-                        "profuse"
+                        "ebullient",
+                        "lavish"
                 ],
                 "antonyms": [
-                        "gloomy",
+                        "depressed",
                         "sparse"
                 ],
-                "aftertaste": "器を壊して溢れ出す、生の濁流",
+                "aftertaste": "跳ねるような心臓の音と、止められない笑みの波",
                 "deep_dive": {
                         "roots": [
                                 {
                                         "term": "uber",
-                                        "meaning": "udder / fruitful"
+                                        "meaning": "udder / fertile"
                                 }
                         ],
                         "points": [
-                                "udder（乳房）とラテン語uberは同源。母なる大地の豊かさが根源です。"
+                                "乳房を意味する言葉から、母なる大地の「溢れるような乳」を連想させます。"
                         ]
                 },
                 "source": "etymon Philologist Mode",
@@ -27592,7 +28139,7 @@ const WORDS = [
                 "id": "exult",
                 "word": "Exult",
                 "part_of_speech": "verb",
-                "meaning": "大喜びする、狂喜する",
+                "meaning": "大喜びする、勝ち誇る",
                 "etymology": {
                         "breakdown": [
                                 {
@@ -27606,31 +28153,31 @@ const WORDS = [
                                         "meaning": "to leap"
                                 }
                         ],
-                        "original_statement": "From Latin exultare 'to leap about, rejoice exceedingly', from ex- 'out' + salire 'to leap'."
+                        "original_statement": "From Latin exultare, from ex- 'out' + saltare 'to leap', from salire 'to jump'."
                 },
                 "core_concept": {
-                        "en": "To leap out with joy",
-                        "ja": "喜びが体を突き動かし、大地を蹴って飛び上がる"
+                        "en": "To leap out",
+                        "ja": "内なる歓喜が肉体を突き動かし、地面を蹴って「外（out）」へ「跳び（leap）」上がる"
                 },
-                "thinking_layer": "本当の歓喜は、じっとしていることができません。重力から「外（ex）」へ向かって「跳ねる（leap）」。心が震え、体が浮き立つその瞬間、私たちは大地という制約から一瞬だけ自由になるのです。",
+                "thinking_layer": "静かな喜びではなく、身体を伴う爆発です。重力という現実の拘束を忘れ、魂が天に向かって跳ね上がる瞬間。勝利の咆哮と共に、自分の存在を極彩色で宣言するような、圧倒的な充足感です。",
                 "synonyms": [
                         "rejoice",
-                        "celebrate"
+                        "triumph"
                 ],
                 "antonyms": [
                         "mourn",
                         "lament"
                 ],
-                "aftertaste": "重力を忘れた、一瞬の飛翔",
+                "aftertaste": "宙に浮いた一瞬の、無重力の幸福感",
                 "deep_dive": {
                         "roots": [
                                 {
                                         "term": "salire",
-                                        "meaning": "leap"
+                                        "meaning": "jump"
                                 }
                         ],
                         "points": [
-                                "result（結果＝跳ね返り）やassault（襲撃＝跳びかかる）と同じ「跳躍」の言葉です。"
+                                "insult（侮辱＝相手に跳ねかかる）やresult（結果＝跳ね返り）と同じ、躍動の連鎖です。"
                         ]
                 },
                 "source": "etymon Philologist Mode",
@@ -47753,6 +48300,49 @@ const WORDS = [
                 "era": "Late 16th Century"
         },
         {
+                "id": "quaint",
+                "word": "Quaint",
+                "part_of_speech": "adjective",
+                "meaning": "古風で趣のある、風変わりで可愛らしい",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "cognitus",
+                                        "type": "root",
+                                        "meaning": "known"
+                                }
+                        ],
+                        "original_statement": "From Old French cointe 'knowing, prudent', from Latin cognitus 'known'."
+                },
+                "core_concept": {
+                        "en": "Known / skillful",
+                        "ja": "かつては「熟練した（known）」知恵の証であり、今は時を経て「独自の趣」を纏ったもの"
+                },
+                "thinking_layer": "もとは「巧妙な」「精巧な」という意味でした。時代が移ろい、かつての「最新」が「古き良きもの」へと発酵した姿。単に古いだけでなく、そこには現代が失ってしまった、手仕事のぬくもりや丁寧な生活の「型」が残っています。",
+                "synonyms": [
+                        "picturesque",
+                        "old-fashioned"
+                ],
+                "antonyms": [
+                        "modern",
+                        "ordinary"
+                ],
+                "aftertaste": "錆びた鍵を開けた瞬間の、懐かしく甘い埃の匂い",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "gno-",
+                                        "meaning": "to know"
+                                }
+                        ],
+                        "points": [
+                                "knowやcognition（認知）と同じ。知っているからこそ、愛でることができる価値です。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "13th Century Old French / Latin"
+        },
+        {
                 "id": "quality",
                 "word": "Quality",
                 "part_of_speech": "noun",
@@ -47798,6 +48388,49 @@ const WORDS = [
                 },
                 "source": "etymon",
                 "era": "14th Century Latin"
+        },
+        {
+                "id": "quandary",
+                "word": "Quandary",
+                "part_of_speech": "noun",
+                "meaning": "板挟み、困惑、苦境",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "quando",
+                                        "type": "root",
+                                        "meaning": "when"
+                                }
+                        ],
+                        "original_statement": "Origin uncertain; possibly from Latin quando 'when', as in 'when shall I do this?'"
+                },
+                "core_concept": {
+                        "en": "A state of 'when?'",
+                        "ja": "「いつ（when）」、どちらへ動くべきか。決断の出口が見えず、思考が迷宮で立ち往生する"
+                },
+                "thinking_layer": "単なるトラブルではなく、二つ以上の選択肢の間で「凍りついた」状態です。どちらを選んでも代償があり、どちらを捨てても後悔が残る。進むことも退くこともできない、時間の流れから取り残されたような精神の停滞です。",
+                "synonyms": [
+                        "dilemma",
+                        "predicament"
+                ],
+                "antonyms": [
+                        "certainty",
+                        "resolution"
+                ],
+                "aftertaste": "霧の中、左右に分かれる道の前で動けない足取り",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "quando",
+                                        "meaning": "at what time"
+                                }
+                        ],
+                        "points": [
+                                "ラテン語の「Quando?（いつ？）」という叫びが、名詞化したという説が有力です。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "16th Century (Origin Unclear)"
         },
         {
                 "id": "quarantine",
@@ -47850,50 +48483,92 @@ const WORDS = [
                 "era": "14th Century"
         },
         {
-                "id": "quench",
-                "word": "Quench",
+                "id": "quell",
+                "word": "Quell",
                 "part_of_speech": "verb",
-                "meaning": "消す、抑える、水分を与えて鎮める",
-                "author": "etymon_official",
+                "meaning": "鎮める、抑え込む、和らげる",
                 "etymology": {
                         "breakdown": [
                                 {
-                                        "text": "cwoencan",
+                                        "text": "cwellan",
                                         "type": "root",
-                                        "meaning": "消す、鎮める",
-                                        "lang": "Old English"
+                                        "meaning": "to kill / to murder"
                                 }
                         ],
-                        "original_statement": "The word 'quench' originates from the Old English 'cwoencan', implying to extinguish or suppress, reflecting its use in both physical and metaphorical contexts."
+                        "original_statement": "From Old English cwellan 'to kill, murder, execute'."
                 },
                 "core_concept": {
-                        "en": "The gentle extinguishing of flames and desires alike.",
-                        "ja": "炎や欲望を静かに消すこと。"
+                        "en": "To kill / suppress",
+                        "ja": "燃え上がる感情や騒乱の「命」を断ち、強制的な「沈黙」へと追い込む"
                 },
-                "thinking_layer": "「鎮める」という行為は、ただ物理的な炎を消す行動だけではない。それは心の火をも消す、精神的な鎮魂のプロセスにも通じる。古代から、人々は自然の力を恐れ、敬い、それを制御する術を模索してきた。水を注ぎ火を消すという行為は、単なる力の行使ではなく、自然の理を敬い、その一部として生きることの象徴でもある。火は生命を支えるが、制御を失えば破壊をもたらす。そのため「quench」という言葉には、静かに、穏やかに、そして慎重に力を行使するという、深遠な哲学が隠されている。それは力と思慮のバランスを取る人間の営みの縮図であり、古代の知恵が現代にも語りかけている。誰もが内に抱える情熱や怒り、悲しみの炎をどう鎮めるか、これは普遍的な人間の課題である。鎮静とは、決して抹消することではなく、調和を取ることであり、再び新たな息吹を吹き込むための休息の瞬間なのだ。",
+                "thinking_layer": "もとは「殺す」という物烈な言葉でした。今は暴動を鎮圧したり、不安を打ち消したりする際に使われます。優しくなだめるのではなく、圧倒的な意志や力をもって、その勢いを根底から「消滅」させる冷徹な行為です。",
                 "synonyms": [
-                        "Extinguish",
-                        "Satisfy"
+                        "suppress",
+                        "extinguish",
+                        "calm"
                 ],
                 "antonyms": [
-                        "Ignite",
-                        "Kindle"
+                        "incite",
+                        "agitate"
                 ],
-                "aftertaste": "The act of quenching transcends mere physicality, echoing into the realms of spirit and soul.",
+                "aftertaste": "嵐が去った後の、冷え冷えとした強制的な静寂",
                 "deep_dive": {
                         "roots": [
                                 {
-                                        "term": "cwoencan",
-                                        "meaning": "To extinguish, suppress"
+                                        "term": "qual-",
+                                        "meaning": "to die / torture"
                                 }
                         ],
                         "points": [
-                                "この言葉は、物理と精神の調和に関する古代の知恵を現代にもたらす一例として、非常に豊かな語源を持つ。"
+                                "killと同語源。何かの動きを「終わらせる」という暴力的な根源を持ちます。"
                         ]
                 },
-                "source": "Oxford English Dictionary",
-                "date": "2026-03-01",
-                "era": "Old English, Pre-12th Century"
+                "source": "etymon Philologist Mode",
+                "era": "Old English"
+        },
+        {
+                "id": "quench",
+                "word": "Quench",
+                "part_of_speech": "verb",
+                "meaning": "（喉の渇きを）癒やす、（火を）消す、抑える",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "cwencan",
+                                        "type": "root",
+                                        "meaning": "to extinguish"
+                                }
+                        ],
+                        "original_statement": "From Old English cwencan 'to extinguish'."
+                },
+                "core_concept": {
+                        "en": "To put out",
+                        "ja": "燃え盛る火、あるいは乾ききった喉に「水」を注ぎ、その激しい渇望を「無」へと還す"
+                },
+                "thinking_layer": "「満たす」というよりは「消し去る」ことに主眼があります。喉の渇きという苦痛、あるいは炎という破壊衝動。それらを液体の冷たさで包み込み、平熱の状態へと引き戻す、救済と鎮静のプロセスです。",
+                "synonyms": [
+                        "satisfy",
+                        "slake",
+                        "extinguish"
+                ],
+                "antonyms": [
+                        "ignite",
+                        "intensify"
+                ],
+                "aftertaste": "喉を滑り落ちる水の冷たさと、消えゆく煙の安堵",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "quench",
+                                        "meaning": "make cool"
+                                }
+                        ],
+                        "points": [
+                                "鉄を水に入れて冷やす（焼入れ）際にも使われます。熱を奪う動作です。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "Old English"
         },
         {
                 "id": "querencia",
@@ -47942,6 +48617,136 @@ const WORDS = [
                 "era": "20th Century"
         },
         {
+                "id": "querulous",
+                "word": "Querulous",
+                "part_of_speech": "adjective",
+                "meaning": "不満の多い、愚痴っぽい、怒りっぽい",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "queri",
+                                        "type": "root",
+                                        "meaning": "to complain"
+                                }
+                        ],
+                        "original_statement": "From Latin querulus, from queri 'to complain'."
+                },
+                "core_concept": {
+                        "en": "Full of complaints",
+                        "ja": "満たされない心を「不平（complain）」という細い糸にして、絶え間なく吐き出し続ける"
+                },
+                "thinking_layer": "大きな怒りではなく、チクチクとした、不機嫌で子供のような文句です。声のトーンにはわずかな「哀願」の響きが混じっており、世界が自分の思い通りにならないことへの、絶え間ない、しかし無力な抵抗を指します。",
+                "synonyms": [
+                        "complaining",
+                        "fretful"
+                ],
+                "antonyms": [
+                        "cheerful",
+                        "content"
+                ],
+                "aftertaste": "耳の奥に残り続ける、細く尖った不協和音",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "queri",
+                                        "meaning": "lament / complain"
+                                }
+                        ],
+                        "points": [
+                                "quarrel（喧嘩）やquarrelsomeと同じ、心の摩擦から生まれる言葉です。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "15th Century Latin"
+        },
+        {
+                "id": "query",
+                "word": "Query",
+                "part_of_speech": "noun/verb",
+                "meaning": "質問、疑問、問い合わせる",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "quaerere",
+                                        "type": "root",
+                                        "meaning": "to ask / to seek"
+                                }
+                        ],
+                        "original_statement": "From Latin quaerere 'to ask, seek'."
+                },
+                "core_concept": {
+                        "en": "To seek an answer",
+                        "ja": "暗闇の中に答えを探して「問い（ask）」を投げ、真実を「手繰り寄せ（seek）」ようとする"
+                },
+                "thinking_layer": "単なる質問（question）よりも、やや専門的、あるいは探求的なニュアンスを含みます。データベースを叩くように、あるいは未踏の地に光を当てるように。空白を埋めるための、意志を持った「探索」の第一歩です。",
+                "synonyms": [
+                        "inquiry",
+                        "question"
+                ],
+                "antonyms": [
+                        "answer",
+                        "reply"
+                ],
+                "aftertaste": "投げかけられた矢が、どこかの真実に突き刺さる予感",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "quaerere",
+                                        "meaning": "seek / quest"
+                                }
+                        ],
+                        "points": [
+                                "quest（探求）やexquisite（精巧な＝探し出された）と同じ、真理への渇望です。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "16th Century Latin"
+        },
+        {
+                "id": "quest",
+                "word": "Quest",
+                "part_of_speech": "noun/verb",
+                "meaning": "探求、冒険の旅、追求する",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "quaerere",
+                                        "type": "root",
+                                        "meaning": "to ask / to seek"
+                                }
+                        ],
+                        "original_statement": "From Old French queste, from Latin quaerere 'seek'."
+                },
+                "core_concept": {
+                        "en": "A long search",
+                        "ja": "手近な答えではなく、地平線の彼方にある「聖杯」を求めて「探し（seek）」続ける生涯の旅"
+                },
+                "thinking_layer": "そこには「困難」と「神聖さ」が同居しています。見つかるかどうかも分からない不確かな価値のために、すべてを賭けて挑むこと。目的そのものよりも、その「探し求めるプロセス」において魂が試される、英雄的な試練を指します。",
+                "synonyms": [
+                        "expedition",
+                        "pursuit",
+                        "search"
+                ],
+                "antonyms": [
+                        "surrender",
+                        "finding (result)"
+                ],
+                "aftertaste": "土埃を被りながら、なお遠くを見据える瞳の光",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "quaerere",
+                                        "meaning": "search"
+                                }
+                        ],
+                        "points": [
+                                "questionの兄であり、征服を意味するconquest（共に探す＝征服する）の仲間です。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "14th Century Old French / Latin"
+        },
+        {
                 "id": "question",
                 "word": "Question",
                 "part_of_speech": "noun/verb",
@@ -47988,6 +48793,93 @@ const WORDS = [
                 },
                 "source": "etymon Philologist Mode",
                 "era": "13th Century Old French / Latin"
+        },
+        {
+                "id": "queue",
+                "word": "Queue",
+                "part_of_speech": "noun/verb",
+                "meaning": "列、待ち行列、並ぶ",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "cauda",
+                                        "type": "root",
+                                        "meaning": "tail"
+                                }
+                        ],
+                        "original_statement": "From Old French cue, queue 'tail', from Latin cauda."
+                },
+                "core_concept": {
+                        "en": "A tail",
+                        "ja": "一頭の動物が動くのに合わせてついていく「尻尾（tail）」のように、整然と連なる人の列"
+                },
+                "thinking_layer": "秩序ある服従の形です。一つの目的に向かって、自分を一つの点（節）として連ねること。そこには順番を待つという忍耐と、公平さという社会的な合意が、長い「尻尾」のように伸びています。",
+                "synonyms": [
+                        "line",
+                        "row",
+                        "sequence"
+                ],
+                "antonyms": [
+                        "disorder",
+                        "chaos"
+                ],
+                "aftertaste": "自分より前にいる背中を見つめ続ける、静かな時間の蓄積",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "cauda",
+                                        "meaning": "tail"
+                                }
+                        ],
+                        "points": [
+                                "かつての「辮髪（べんぱつ）」や、髪を後ろで結ぶスタイルもqueueと呼びました。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "16th Century Old French / Latin"
+        },
+        {
+                "id": "quibble",
+                "word": "Quibble",
+                "part_of_speech": "verb/noun",
+                "meaning": "（些細なことに）難癖をつける、屁理屈を言う",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "quibus",
+                                        "type": "root",
+                                        "meaning": "by what (things)"
+                                }
+                        ],
+                        "original_statement": "Probably from obsolete quib 'a petty evasion', from Latin quibus 'by which things' (often used in legal documents)."
+                },
+                "core_concept": {
+                        "en": "Petty evasion",
+                        "ja": "本質（何が起きているか）ではなく、法律用語の「どの（quibus）条文か」といった些細な点に執着して真実から逃げる"
+                },
+                "thinking_layer": "議論の核心を避けるための、知的で姑息なテクニックです。言葉の定義や、取るに足らない矛盾を突いて、相手を足止めすること。正しさの追求ではなく、単に負けないための「言葉の目つぶし」を投げている状態です。",
+                "synonyms": [
+                        "nitpick",
+                        "cavil"
+                ],
+                "antonyms": [
+                        "concur",
+                        "accept"
+                ],
+                "aftertaste": "重い扉を開ける代わりに、鍵穴の埃を数えているような虚しさ",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "quibus",
+                                        "meaning": "relative pronoun (dative/ablative)"
+                                }
+                        ],
+                        "points": [
+                                "法律家が「quibus...」と繰り返して重箱の隅を突く様子から生まれた、揶揄の言葉です。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "17th Century Latin origin"
         },
         {
                 "id": "quiddity",
@@ -48090,6 +48982,55 @@ const WORDS = [
                 "part_of_speech": "noun",
                 "meaning": "真髄",
                 "era": "Latin"
+        },
+        {
+                "id": "quintessential",
+                "word": "Quintessential",
+                "part_of_speech": "adjective",
+                "meaning": "典型的な、本質的な、純粋な",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "quinta",
+                                        "type": "prefix",
+                                        "meaning": "fifth"
+                                },
+                                {
+                                        "text": "essentia",
+                                        "type": "root",
+                                        "meaning": "essence"
+                                }
+                        ],
+                        "original_statement": "From Medieval Latin quintessentia 'fifth essence', the pure ether of the stars."
+                },
+                "core_concept": {
+                        "en": "The fifth essence",
+                        "ja": "地水火風の四大元素を超えた、宇宙を構成する「第五（fifth）」の、最も純粋な「真髄（essence）」"
+                },
+                "thinking_layer": "不純物をすべて取り除いた後に残る、究極の「それらしさ」です。あるジャンルの魅力を一滴に凝縮したような存在。それは、物理的な形を超えて、概念そのものが結晶化したかのような、完璧な典型を指します。",
+                "synonyms": [
+                        "ultimate",
+                        "archetypal",
+                        "ideal"
+                ],
+                "antonyms": [
+                        "peripheral",
+                        "atypical"
+                ],
+                "aftertaste": "一切の濁りがない、ダイヤモンドの中心のような純度",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "esse",
+                                        "meaning": "to be"
+                                }
+                        ],
+                        "points": [
+                                "古代科学では星々を動かす第五の元素（エーテル）とされました。それが「最も重要なもの」へと転じました。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "15th Century Medieval Latin"
         },
         {
                 "id": "quirk",
@@ -58461,16 +59402,145 @@ const WORDS = [
                 "era": "Middle English (12th Century)"
         },
         {
-                "id": "xenophile",
-                "word": "Xenophile",
+                "id": "xanthic",
+                "word": "Xanthic",
+                "part_of_speech": "adjective",
+                "meaning": "黄色い、黄色を帯びた",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "xanthos",
+                                        "type": "root",
+                                        "meaning": "yellow"
+                                }
+                        ],
+                        "original_statement": "From Greek xanthos 'yellow'."
+                },
+                "core_concept": {
+                        "en": "Of a yellow color",
+                        "ja": "太陽の光を吸い込んだような、鮮やかで生命力のある「黄色（yellow）」の属性"
+                },
+                "thinking_layer": "単なる色の名前ではなく、化学や生物学の文脈で「黄色を呈する」性質を指します。秋の葉が色づくとき、あるいは鉱物が独自の輝きを放つとき、その内側に潜む「黄色の本質」を記述する言葉です。",
+                "synonyms": [
+                        "yellowish",
+                        "golden"
+                ],
+                "antonyms": [
+                        "achromatic",
+                        "colorless"
+                ],
+                "aftertaste": "野に咲くタンポポのような、無邪気で力強い色彩",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "xanthos",
+                                        "meaning": "yellow"
+                                }
+                        ],
+                        "points": [
+                                "xanthophyll（葉黄素）やxanthic acid（キサントゲン酸）など、科学用語の多くにこの根が眠っています。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "19th Century Greek origin"
+        },
+        {
+                "id": "xenia",
+                "word": "Xenia",
                 "part_of_speech": "noun",
-                "meaning": "異文化愛好家、新しいもの好き",
+                "meaning": "客遇、もてなし（古代ギリシャの慣習）",
                 "etymology": {
                         "breakdown": [
                                 {
                                         "text": "xenos",
                                         "type": "root",
+                                        "meaning": "stranger / guest"
+                                }
+                        ],
+                        "original_statement": "From Greek xenia 'hospitality', from xenos 'stranger'."
+                },
+                "core_concept": {
+                        "en": "Hospitality to strangers",
+                        "ja": "見知らぬ「他者（stranger）」を、神の使いとして迎え入れ、丁重に「もてなす」聖なる儀式"
+                },
+                "thinking_layer": "古代ギリシャにおいて、見知らぬ人を助けることは道徳的義務であり、神（ゼウス）との約束でした。扉を叩く者が敵か味方か分からない中で、まず食事を出し、宿を貸す。それは「恐怖」を「絆」に変えるための、文明的な第一歩です。",
+                "synonyms": [
+                        "hospitality",
+                        "kindness"
+                ],
+                "antonyms": [
+                        "hostility",
+                        "rejection"
+                ],
+                "aftertaste": "見知らぬ旅人に差し出された、一杯の温かいワインの記憶",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "xenos",
+                                        "meaning": "guest-friend"
+                                }
+                        ],
+                        "points": [
+                                "xenosは「見知らぬ人」と「賓客」の両方を意味します。他者は常に友人になり得る存在でした。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "Ancient Greek"
+        },
+        {
+                "id": "xenial",
+                "word": "Xenial",
+                "part_of_speech": "adjective",
+                "meaning": "もてなしの、客と主人の関係に関する",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "xenia",
+                                        "type": "root",
+                                        "meaning": "hospitality"
+                                }
+                        ],
+                        "original_statement": "From Greek xenia 'hospitality'."
+                },
+                "core_concept": {
+                        "en": "Relating to hospitality",
+                        "ja": "主人と客人の間に流れる、互いへの敬意と温かな「もてなし（hospitality）」の精神"
+                },
+                "thinking_layer": "xeniaを形容詞化したもので、外交や個人的な訪問における「礼儀正しく友好的な」態度を指します。国境や壁を越えて、人間同士が心を開き合う瞬間の、穏やかで高潔な空気を纏っています。",
+                "synonyms": [
+                        "hospitable",
+                        "cordial"
+                ],
+                "antonyms": [
+                        "unwelcoming",
+                        "cold"
+                ],
+                "aftertaste": "招かれた部屋に漂う、柔らかなキャンドルの灯火",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "xenos",
                                         "meaning": "stranger"
+                                }
+                        ],
+                        "points": [
+                                "xenophobia（他者への恐怖）の対極にある、他者への「開かれた心」を表す美しい言葉です。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "19th Century Greek origin"
+        },
+        {
+                "id": "xenophile",
+                "word": "Xenophile",
+                "part_of_speech": "noun",
+                "meaning": "外国（人）好き、新しいもの好き",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "xenos",
+                                        "type": "root",
+                                        "meaning": "stranger / foreign"
                                 },
                                 {
                                         "text": "philos",
@@ -58481,30 +59551,349 @@ const WORDS = [
                         "original_statement": "From Greek xenos 'stranger' + philos 'loving'."
                 },
                 "core_concept": {
-                        "en": "Loving the stranger",
-                        "ja": "見知らぬ他者の中に、友愛を見出す"
+                        "en": "Lover of foreign things",
+                        "ja": "未知なる「異国（foreign）」の文化や人々に魅了され、それらを熱烈に「愛する（love）」者"
                 },
-                "thinking_layer": "面白いことに、ギリシャ語のxenosは「見知らぬ人」であると同時に「客（guest）」も意味しました。他者は恐怖の対象にも、歓迎すべき贈り物にもなり得ます。嫌悪の裏には、常に未知への深い畏怖が隠れています。",
+                "thinking_layer": "自国や既知のものに安住せず、常に「外側」にある新しい価値観に心を踊らせる気質です。異質なものの中に美しさを見出し、多様性を自らの栄養とする、知的で開放的な好奇心の持ち主を指します。",
                 "synonyms": [
-                        "cosmopolitan"
+                        "exotophile"
                 ],
                 "antonyms": [
                         "xenophobe"
                 ],
-                "aftertaste": "他者という鏡に映る、見たことのない自分",
+                "aftertaste": "地図にない道を歩む、高揚した足取り",
                 "deep_dive": {
                         "roots": [
                                 {
-                                        "term": "xenos",
-                                        "meaning": "異邦人、客"
+                                        "term": "philo-",
+                                        "meaning": "loving"
                                 }
                         ],
                         "points": [
-                                "guestやhostも、実はこのxenosと同じ印欧語根から派生しています。"
+                                "philosophy（知を愛する）やphilanthropy（人を愛する）と同じ、魂の向かう先を示します。"
                         ]
                 },
-                "source": "etymon",
-                "era": "19th Century Greek"
+                "source": "etymon Philologist Mode",
+                "era": "20th Century Greek origin"
+        },
+        {
+                "id": "xenophobia",
+                "word": "Xenophobia",
+                "part_of_speech": "noun",
+                "meaning": "外国人嫌い、未知のものへの恐怖",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "xenos",
+                                        "type": "root",
+                                        "meaning": "stranger / foreign"
+                                },
+                                {
+                                        "text": "phobos",
+                                        "type": "root",
+                                        "meaning": "fear"
+                                }
+                        ],
+                        "original_statement": "From Greek xenos 'stranger' + phobos 'fear'."
+                },
+                "core_concept": {
+                        "en": "Fear of strangers",
+                        "ja": "自分の理解を超えた「他者（stranger）」に対し、本能的な「恐怖（fear）」を抱き、心を閉ざす"
+                },
+                "thinking_layer": "防衛本能が過剰に働いた状態です。「自分たち」を守るために「彼ら」を排除しようとする心理的障壁。未知のものを「危険」と同一視してしまう、人類が抱える最も古く、そして根深い心の影です。",
+                "synonyms": [
+                        "chauvinism",
+                        "prejudice"
+                ],
+                "antonyms": [
+                        "xenophilia",
+                        "tolerance"
+                ],
+                "aftertaste": "高く築かれた、窓のない冷たい石壁",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "phobos",
+                                        "meaning": "panic / fear"
+                                }
+                        ],
+                        "points": [
+                                "phobia（恐怖症）の源流。理解の欠如が、しばしば攻撃性へと変換されます。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "19th Century Greek origin"
+        },
+        {
+                "id": "xeric",
+                "word": "Xeric",
+                "part_of_speech": "adjective",
+                "meaning": "乾燥した、乾燥地帯の",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "xeros",
+                                        "type": "root",
+                                        "meaning": "dry"
+                                }
+                        ],
+                        "original_statement": "From Greek xeros 'dry'."
+                },
+                "core_concept": {
+                        "en": "Relating to dry conditions",
+                        "ja": "水分が極端に乏しい、命の試練となるような「乾燥（dry）」の極地"
+                },
+                "thinking_layer": "湿り気を一切拒絶するような、砂漠や荒野の質感を指します。そこにあるのは、過酷な環境に適応し、わずかな水分を細胞の奥深くに抱え込んで生きる生命の、静かで強靭な意志です。",
+                "synonyms": [
+                        "arid",
+                        "dry"
+                ],
+                "antonyms": [
+                        "hydric",
+                        "moist"
+                ],
+                "aftertaste": "喉を焼くような、熱く乾いた砂の感触",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "xeros",
+                                        "meaning": "dry"
+                                }
+                        ],
+                        "points": [
+                                "Xerox（乾式複写）もここから。湿ったインクを使わないことから名付けられました。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "20th Century Greek origin"
+        },
+        {
+                "id": "xeriscaping",
+                "word": "Xeriscaping",
+                "part_of_speech": "noun",
+                "meaning": "節水型造園、乾燥地造園",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "xeros",
+                                        "type": "root",
+                                        "meaning": "dry"
+                                },
+                                {
+                                        "text": "landscape",
+                                        "type": "root",
+                                        "meaning": "scenery"
+                                }
+                        ],
+                        "original_statement": "A blend of Greek xeros 'dry' and English landscaping."
+                },
+                "core_concept": {
+                        "en": "Dry landscaping",
+                        "ja": "水を浪費せず、その土地の「乾き（dry）」を美しさに変える、知的な「風景（landscape）」作り"
+                },
+                "thinking_layer": "環境との対話から生まれるデザインです。無理に水を引いて緑を作るのではなく、サボテンや石、砂を用いて、乾燥そのものをアートとして昇華させる。自然の制約を「美」として受け入れる、エコロジカルな姿勢です。",
+                "synonyms": [
+                        "water-wise gardening"
+                ],
+                "antonyms": [
+                        "wet gardening"
+                ],
+                "aftertaste": "無駄を削ぎ落とした、静寂の中に佇む庭の造形",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "scape",
+                                        "meaning": "view / shape"
+                                }
+                        ],
+                        "points": [
+                                "1980年代にデンバーの水道局によって造られた、比較的新しい造語です。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "20th Century (Modern Coinage)"
+        },
+        {
+                "id": "xerophyte",
+                "word": "Xerophyte",
+                "part_of_speech": "noun",
+                "meaning": "乾燥帯植物（サボテンなど）",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "xeros",
+                                        "type": "root",
+                                        "meaning": "dry"
+                                },
+                                {
+                                        "text": "phyton",
+                                        "type": "root",
+                                        "meaning": "plant"
+                                }
+                        ],
+                        "original_statement": "From Greek xeros 'dry' + phyton 'plant'."
+                },
+                "core_concept": {
+                        "en": "A dry plant",
+                        "ja": "雨の降らない荒野で、自らの体を貯水池に変えて生き抜く「乾きの植物（plant）」"
+                },
+                "thinking_layer": "過酷さこそが彼らの日常です。葉を棘に変え、蒸散を最小限に抑えるその姿は、環境に対する徹底的な「拒絶」と、生への圧倒的な「執着」の結晶。沈黙の中に、爆発的な生命力を秘めています。",
+                "synonyms": [
+                        "succulent (related)"
+                ],
+                "antonyms": [
+                        "hydrophyte"
+                ],
+                "aftertaste": "鋭い棘の奥に隠された、ひんやりとした命の雫",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "phyton",
+                                        "meaning": "growing thing"
+                                }
+                        ],
+                        "points": [
+                                "neophyte（新参者＝新しく植えられた人）などと同じ、成長の根源を指す言葉です。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "19th Century Greek origin"
+        },
+        {
+                "id": "xiphoid",
+                "word": "Xiphoid",
+                "part_of_speech": "adjective",
+                "meaning": "剣状の、剣のような形をした",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "xiphos",
+                                        "type": "root",
+                                        "meaning": "sword"
+                                },
+                                {
+                                        "text": "-oid",
+                                        "type": "suffix",
+                                        "meaning": "resembling"
+                                }
+                        ],
+                        "original_statement": "From Greek xiphos 'sword' + -oeides 'shaped'."
+                },
+                "core_concept": {
+                        "en": "Sword-shaped",
+                        "ja": "鋭く尖り、何かを貫くような、戦士の「剣（sword）」の如き形状"
+                },
+                "thinking_layer": "主に解剖学で、胸骨の先端にある「剣状突起（xiphoid process）」を指します。私たちの体の中心に、目に見えない小さな剣が仕舞われているというイメージ。機能性を超えた、象徴的な肉体の意匠です。",
+                "synonyms": [
+                        "ensiform",
+                        "sword-like"
+                ],
+                "antonyms": [
+                        "blunt",
+                        "rounded"
+                ],
+                "aftertaste": "皮膚の奥に潜む、静かなる武具の輪郭",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "xiphos",
+                                        "meaning": "straight sword"
+                                }
+                        ],
+                        "points": [
+                                "古代ギリシャの歩兵が用いた短い直剣がモデルです。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "18th Century Greek origin"
+        },
+        {
+                "id": "xylophone",
+                "word": "Xylophone",
+                "part_of_speech": "noun",
+                "meaning": "木琴、シロフォン",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "xylon",
+                                        "type": "root",
+                                        "meaning": "wood"
+                                },
+                                {
+                                        "text": "phone",
+                                        "type": "root",
+                                        "meaning": "sound / voice"
+                                }
+                        ],
+                        "original_statement": "From Greek xylon 'wood' + phone 'sound'."
+                },
+                "core_concept": {
+                        "en": "Wood sound",
+                        "ja": "乾いた「木（wood）」を叩き、そこに眠る「声（sound）」を解き放つ楽器"
+                },
+                "thinking_layer": "金属の冷たさではなく、森の記憶が震えるような音色です。一本一本、長さの異なる木片が、それぞれ固有の魂の叫びを持っている。それをマレットで優しく叩き起こす、原始的かつ洗練された対話の形です。",
+                "synonyms": [
+                        "marimba (related)"
+                ],
+                "antonyms": [
+                        "(none specific)"
+                ],
+                "aftertaste": "コロコロと転がる、軽やかでいて土の匂いのする旋律",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "xylon",
+                                        "meaning": "timber"
+                                }
+                        ],
+                        "points": [
+                                "xylem（木部）と同じ根。生命の骨組みである「木」が音楽へと変わります。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "19th Century Greek origin"
+        },
+        {
+                "id": "yacht",
+                "word": "Yacht",
+                "part_of_speech": "noun",
+                "meaning": "ヨット、快速帆船",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "jacht",
+                                        "type": "root",
+                                        "meaning": "hunt"
+                                }
+                        ],
+                        "original_statement": "From Dutch jacht, from jachtschip 'hunting ship', from jagen 'to hunt'."
+                },
+                "core_concept": {
+                        "en": "A hunting vessel",
+                        "ja": "獲物を「追跡（hunt）」するために、波を切り裂いて走る「快速」の意志"
+                },
+                "thinking_layer": "今は優雅なレジャーの象徴ですが、もとは海賊や密輸船を「狩る」ための軍用船でした。風を味方につけ、重い貨物船を追い詰める鋭利なスピード。その攻撃的な敏捷さが、洗練された贅沢へと昇華された姿です。",
+                "synonyms": [
+                        "vessel",
+                        "cruiser"
+                ],
+                "antonyms": [
+                        "(none specific)"
+                ],
+                "aftertaste": "白く波立つ航跡と、獲物を見据える冷徹な風",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "jagen",
+                                        "meaning": "chase"
+                                }
+                        ],
+                        "points": [
+                                "ドイツ語のJäger（イェーガー＝猟師）と同門。海上のハンターの血を引いています。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "16th Century Dutch"
         },
         {
                 "id": "yank",
@@ -58553,93 +59942,362 @@ const WORDS = [
                 "era": "19th Century"
         },
         {
-                "id": "yearn",
-                "word": "Yearn",
-                "part_of_speech": "verb",
-                "meaning": "切望する、憧れる",
+                "id": "yardstick",
+                "word": "Yardstick",
+                "part_of_speech": "noun",
+                "meaning": "（判断の）基準、尺度",
                 "etymology": {
                         "breakdown": [
                                 {
-                                        "text": "gher-",
+                                        "text": "yard",
                                         "type": "root",
-                                        "meaning": "to desire/want"
+                                        "meaning": "stick / rod"
+                                },
+                                {
+                                        "text": "stick",
+                                        "type": "root",
+                                        "meaning": "staff"
                                 }
                         ],
-                        "original_statement": "From Old English giernan 'to strive, desire', from Proto-Germanic gernjan."
+                        "original_statement": "From Old English gerd 'rod, staff' + stick."
                 },
                 "core_concept": {
-                        "en": "To be eager",
-                        "ja": "内側から突き上げる、熱い渇望"
+                        "en": "A measuring rod",
+                        "ja": "曖昧なものを許さない、一本の「硬い棒（stick）」による絶対的な物差し"
                 },
-                "thinking_layer": "切望（yearn）は、単なる希望ではありません。それは命そのものが、何かに向かって「前のめり」になっている状態です。欠乏を感じ、それを埋めようとする魂の激しい運動。その熱気が私たちを動かします。",
+                "thinking_layer": "単なる長さの単位ではなく、価値を判定する「峻別」の道具です。自分の外側に固定された不動の基準。それがあることで、混沌とした事象に優劣や正誤の境界線が引かれ、世界の秩序が確定されます。",
                 "synonyms": [
-                        "long",
-                        "crave"
+                        "benchmark",
+                        "criterion"
                 ],
                 "antonyms": [
-                        "abhor",
-                        "loathe"
+                        "guesswork",
+                        "anomaly"
                 ],
-                "aftertaste": "喉の渇きのような、抑えきれぬ魂の訴え",
+                "aftertaste": "無機質な目盛りと、逃げ場のない比較の視線",
                 "deep_dive": {
                         "roots": [
                                 {
-                                        "term": "gher",
-                                        "meaning": "欲する"
+                                        "term": "gerd",
+                                        "meaning": "twig / measure"
                                 }
                         ],
                         "points": [
-                                "eager（熱心な）とも遠い親戚にあたります。"
+                                "yardはもともと「小枝」や「棒」を指しました。物理的な実体が抽象的な基準へと進化しました。"
                         ]
                 },
-                "source": "etymon",
+                "source": "etymon Philologist Mode",
+                "era": "Old English origin"
+        },
+        {
+                "id": "yarn",
+                "word": "Yarn",
+                "part_of_speech": "noun",
+                "meaning": "糸、（長くて大げさな）物語",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "gearn",
+                                        "type": "root",
+                                        "meaning": "gut / intestine"
+                                }
+                        ],
+                        "original_statement": "From Old English gearn, related to Old Norse garn 'gut, intestine'."
+                },
+                "core_concept": {
+                        "en": "Spun thread / guts",
+                        "ja": "内臓から紡ぎ出される「糸」のように、長く、複雑に、終わりなく「紡がれる」言葉"
+                },
+                "thinking_layer": "編み物の糸と、冒険譚の物語。どちらもバラバラの断片を一本に繋ぎ合わせる行為です。特に船乗りの「大ぼら」を指すことが多く、一筋の真実に、無数の想像力という繊維を巻きつけて太く長くした、魅惑的な嘘の形です。",
+                "synonyms": [
+                        "thread",
+                        "tale",
+                        "anecdote"
+                ],
+                "antonyms": [
+                        "brief statement",
+                        "fact"
+                ],
+                "aftertaste": "指に絡まる糸の感触と、どこまでが真実か分からない物語の煙",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "har",
+                                        "meaning": "to wind"
+                                }
+                        ],
+                        "points": [
+                                "もとは「腸」を意味していました。内側から引き出される長いもの、という共通点があります。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "Old English"
+        },
+        {
+                "id": "yearn",
+                "word": "Yearn",
+                "part_of_speech": "verb",
+                "meaning": "切望する、熱望する",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "giernan",
+                                        "type": "root",
+                                        "meaning": "to be eager / to desire"
+                                }
+                        ],
+                        "original_statement": "From Old English giernan, from Proto-Germanic gernyan 'to desire'."
+                },
+                "core_concept": {
+                        "en": "To be eager",
+                        "ja": "手が届かない何かに向かって、魂が「前のめり（eager）」に震え、焦がれる"
+                },
+                "thinking_layer": "単なる「欲しい（want）」ではなく、痛みや哀愁を伴う激しい欲求です。そこには「欠落」の意識があり、その穴を埋めるために心が遠い場所へと手を伸ばし続ける。達成の喜びよりも、求めて止まないその「渇き」そのものに焦点があります。",
+                "synonyms": [
+                        "long",
+                        "crave",
+                        "pine"
+                ],
+                "antonyms": [
+                        "dislike",
+                        "abhor"
+                ],
+                "aftertaste": "夕暮れの地平線を見つめるような、疼くような憧憬",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "gher-",
+                                        "meaning": "to want / desire"
+                                }
+                        ],
+                        "points": [
+                                "greedy（強欲な）やcharisma（神の贈り物＝求められるもの）とも深いつながりがあります。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
                 "era": "Old English"
         },
         {
                 "id": "yield",
                 "word": "Yield",
-                "part_of_speech": "noun/verb",
-                "meaning": "譲る、差し出す、従う",
-                "author": "etymon_official",
+                "part_of_speech": "verb/noun",
+                "meaning": "産出する、譲り渡す、屈する",
                 "etymology": {
                         "breakdown": [
                                 {
-                                        "text": "gealdan",
+                                        "text": "gieldan",
                                         "type": "root",
-                                        "meaning": "捧げる、降伏する",
-                                        "lang": "古英語"
+                                        "meaning": "to pay / to give"
                                 }
                         ],
-                        "original_statement": "The word 'yield' derives from the Old English 'gealdan', meaning to pay, give, or surrender. It shares kinship with the Old High German 'geltan' and Gothic 'gildan', rooted in the Proto-Germanic '*gel-d-', indicating sacrifice or tribute."
+                        "original_statement": "From Old English gieldan 'to pay, render, give up'."
                 },
                 "core_concept": {
-                        "en": "The serene relinquishing of will to embrace a greater harmony.",
-                        "ja": "意志を捨てて、より大きな調和を受け入れる安らぎ"
+                        "en": "To pay back / give up",
+                        "ja": "自分の中にあるものを、外部の要求や自然の摂理に従って「差し出す（pay/give）」"
                 },
-                "thinking_layer": "「譲る」という言葉は単なる行為を超えて、存在の根底に流れる大きな調和の韻律と調和することを意味します。それは、個別の意志を放ち、他者や状況とシンクロしてゆく過程です。風が大樹の枝を撓ますように、自然の流れに身を任せ、抗うことなく調和の中に身を置く行為は、自己と他者、内外の境界を曖昧にし、融合を生み出します。世界の大いなる一部であるという認識が、心を自由にし、相互依存の美しさを理解させます。それは即ち、力ではなく、慈しみと譲歩がもたらす強さの再発見です。私たちは、自らを明け渡すことで、真の意味での自由と統一性を知ることになるのです。この深い哲学的な気づきは、天上の星々のように広がり、私たちの内なる光を導いてくれます。",
+                "thinking_layer": "「負ける」ことと「実る」こと。この二つは、自分の内側のリソースを外へ「明け渡す」という点で一致しています。大地が収穫を差し出し、敗者が権利を差し出し、道路で車が優先権を差し出す。自己の主張を抑え、流れに身を委ねる身振りです。",
                 "synonyms": [
+                        "produce",
                         "surrender",
-                        "cede"
+                        "relinquish"
                 ],
                 "antonyms": [
                         "resist",
                         "withhold"
                 ],
-                "aftertaste": "To yield is to gracefully embrace the resonance of unity.",
+                "aftertaste": "握りしめた拳を解き、手のひらを上に向ける瞬間の静寂",
                 "deep_dive": {
                         "roots": [
                                 {
-                                        "term": "gel-d-",
-                                        "meaning": "sacrifice, tribute"
+                                        "term": "gheldh-",
+                                        "meaning": "to pay"
                                 }
                         ],
                         "points": [
-                                "「yield」は古英語の「gealdan」に由来し、同様に歴史的な『仕える』、および『差し出す』という概念を持つ。それは、自己を超えて何かを与える行為が文化や言語を超えて繰り返し現れる普遍的なテーマであることを示している。"
+                                "guild（ギルド＝会費を払う仲間）と同語源。価値の等価交換と譲歩を意味します。"
                         ]
                 },
-                "source": "The Oxford English Dictionary",
-                "date": "2026-03-01",
-                "era": "Old English, Proto-Germanic"
+                "source": "etymon Philologist Mode",
+                "era": "Old English"
+        },
+        {
+                "id": "yoke",
+                "word": "Yoke",
+                "part_of_speech": "noun/verb",
+                "meaning": "軛（くびき）、絆、支配、繋ぐ",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "iugum",
+                                        "type": "root",
+                                        "meaning": "yoke / union"
+                                }
+                        ],
+                        "original_statement": "From Old English geoc, from Proto-Indo-European yeug- 'to join'."
+                },
+                "core_concept": {
+                        "en": "A joining device",
+                        "ja": "二つの存在を一つの目的のために「結合（join）」し、同時に「支配」する重厚な木枠"
+                },
+                "thinking_layer": "二頭の牛を繋いで耕作させるための道具。それは「協力」の象徴であると同時に、自由を奪う「隷属」の象徴でもあります。分かちがたく結ばれ、逃れられない重荷を共に背負うこと。運命を強制的に一本の線に束ねる力です。",
+                "synonyms": [
+                        "bond",
+                        "oppression",
+                        "unite"
+                ],
+                "antonyms": [
+                        "detach",
+                        "liberate"
+                ],
+                "aftertaste": "首に食い込む木の冷たさと、独りでは歩けない不自由な連帯",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "yeug-",
+                                        "meaning": "to join"
+                                }
+                        ],
+                        "points": [
+                                "Yoga（ヨーガ＝魂と神の結合）やjoin, junctionと同じ、宇宙を繋ぐ根本的な力です。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "Old English / PIE origin"
+        },
+        {
+                "id": "yore",
+                "word": "Yore",
+                "part_of_speech": "noun",
+                "meaning": "昔、往時",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "gear",
+                                        "type": "root",
+                                        "meaning": "year"
+                                }
+                        ],
+                        "original_statement": "From Old English geara 'formerly', from gear 'year'."
+                },
+                "core_concept": {
+                        "en": "Years gone by",
+                        "ja": "無数の「年月（year）」が降り積もり、もはや伝説の霧に包まれた「遠い過去」"
+                },
+                "thinking_layer": "単なる「yesterday」ではなく、歴史の教科書や神話の中にしか存在しない時間です。今ここにある現実とは切り離された、色褪せてはいるけれど、どこか神聖な響きを持つ「かつての時代」。言葉そのものが古風な香りを放っています。",
+                "synonyms": [
+                        "antiquity",
+                        "past"
+                ],
+                "antonyms": [
+                        "present",
+                        "future"
+                ],
+                "aftertaste": "セピア色の古地図の端に記された、忘れ去られた王国の名",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "year",
+                                        "meaning": "cycle of time"
+                                }
+                        ],
+                        "points": [
+                                "of yore（昔の）という形で使われ、年月の積み重なりを強調します。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "Old English"
+        },
+        {
+                "id": "youngster",
+                "word": "Youngster",
+                "part_of_speech": "noun",
+                "meaning": "若者、子供",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "young",
+                                        "type": "root",
+                                        "meaning": "new / fresh"
+                                },
+                                {
+                                        "text": "-ster",
+                                        "type": "suffix",
+                                        "meaning": "one who is"
+                                }
+                        ],
+                        "original_statement": "From young + -ster."
+                },
+                "core_concept": {
+                        "en": "One who is young",
+                        "ja": "未熟さと可能性を同時に抱え、世界の「新しさ（fresh）」を体現する存在"
+                },
+                "thinking_layer": "「young man」よりもカジュアルで、少し活発、あるいは生意気なニュアンスを含みます。まだ形を成していないエネルギーの塊。社会のルールに染まりきる前の、弾けるような、そして時に危うい若さの具体像です。",
+                "synonyms": [
+                        "youth",
+                        "adolescent",
+                        "lad"
+                ],
+                "antonyms": [
+                        "elder",
+                        "senior"
+                ],
+                "aftertaste": "泥だらけの靴と、何にでもなれるという根拠のない自信",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "yuwen-",
+                                        "meaning": "young"
+                                }
+                        ],
+                        "points": [
+                                "juvenile（少年の）と同根。常に「新しい世代」への視線が含まれます。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "16th Century English"
+        },
+        {
+                "id": "yule",
+                "word": "Yule",
+                "part_of_speech": "noun",
+                "meaning": "ユール、クリスマス（期）",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "jol",
+                                        "type": "root",
+                                        "meaning": "midwinter feast"
+                                }
+                        ],
+                        "original_statement": "From Old English geol, from Old Norse jol, a midwinter pagan festival."
+                },
+                "core_concept": {
+                        "en": "Midwinter festival",
+                        "ja": "一年で最も暗い「冬至（midwinter）」に、光の回帰を祝って焚かれる「火」と「宴」"
+                },
+                "thinking_layer": "キリスト教以前の、北欧の古い記憶を呼び覚ます言葉です。厳しい冬のただ中で、共に食べ、飲み、薪を燃やす。それは死と再生が交差する瞬間の、野生味溢れる祝祭。クリスマスに溶け込みながらも、どこか太古の森の匂いを残しています。",
+                "synonyms": [
+                        "Yuletide",
+                        "Christmas"
+                ],
+                "antonyms": [
+                        "(none specific)"
+                ],
+                "aftertaste": "暖炉で爆ぜる薪の音と、闇を照らす琥珀色の酒の味",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "jol",
+                                        "meaning": "wheel / feast"
+                                }
+                        ],
+                        "points": [
+                                "「一年の車輪（wheel）」が一周したことを祝う意味が込められています。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "Old English / Old Norse"
         },
         {
                 "id": "zaftig",
@@ -58686,6 +60344,50 @@ const WORDS = [
                 "part_of_speech": "adjective",
                 "meaning": "ふくよか",
                 "era": "Yiddish"
+        },
+        {
+                "id": "zeal",
+                "word": "Zeal",
+                "part_of_speech": "noun",
+                "meaning": "熱意、熱中、献身",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "zelos",
+                                        "type": "root",
+                                        "meaning": "ardor / jealousy / emulation"
+                                }
+                        ],
+                        "original_statement": "From Old French zele, from Late Latin zelus, from Greek zelos."
+                },
+                "core_concept": {
+                        "en": "Burning ardor",
+                        "ja": "静かな水面を沸騰させるような、内側から突き上げる「熱い情熱（ardor）」"
+                },
+                "thinking_layer": "単なるやる気ではなく、宗教的な献身に近い、対象への「焼きつくような専念」です。もとは「嫉妬」に近い意味も持っていました。他者を凌駕しようとする激しいエネルギーが、一つの目的へと純化された状態を指します。",
+                "synonyms": [
+                        "passion",
+                        "fervor",
+                        "enthusiasm"
+                ],
+                "antonyms": [
+                        "apathy",
+                        "indifference"
+                ],
+                "aftertaste": "目的だけを見つめる、乾いた熱を帯びた瞳",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "zeein",
+                                        "meaning": "to boil"
+                                }
+                        ],
+                        "points": [
+                                "zealot（狂信者）の語源。心が「沸騰」して、もはや後戻りできない状態です。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "14th Century Greek / Latin"
         },
         {
                 "id": "zeitgeist.",
@@ -58747,48 +60449,263 @@ const WORDS = [
                 "id": "zenith",
                 "word": "Zenith",
                 "part_of_speech": "noun",
-                "meaning": "天頂、絶頂",
+                "meaning": "天頂、絶頂、極致",
                 "etymology": {
                         "breakdown": [
                                 {
                                         "text": "samt",
                                         "type": "root",
-                                        "meaning": "path/way"
-                                },
-                                {
-                                        "text": "ar-ras",
-                                        "type": "root",
-                                        "meaning": "the head"
+                                        "meaning": "path / direction"
                                 }
                         ],
-                        "original_statement": "From Arabic samt ar-ras 'path over the head'."
+                        "original_statement": "From Old French zenith, from Medieval Latin cenit, from Arabic samt (ar-ras) 'path (over the head)'."
                 },
                 "core_concept": {
-                        "en": "The path over the head",
-                        "ja": "頭上の真上、まっすぐ天へと続く道"
+                        "en": "The point overhead",
+                        "ja": "見上げた空の真上、これ以上高くは行けない「頭上の極点（path over head）」"
                 },
-                "thinking_layer": "ゼニス（天頂）とは、私たちの「頭（ras）」の真上の「道（samt）」を指します。それは誰にも左右されない、自分自身の垂直な軸の先にある頂点。最も高い場所は、常に自分の内なる軸の延長線上にあります。",
+                "thinking_layer": "物理的な天文学の用語が、人生やキャリアの「最高の瞬間」へと転じました。太陽が真南に来る正午のように、すべてが最も輝き、影が最も短くなる一点。そこは到達点であると同時に、あとは下るしかないという切なさを秘めています。",
                 "synonyms": [
                         "peak",
-                        "summit"
+                        "pinnacle",
+                        "apex"
                 ],
                 "antonyms": [
-                        "nadir"
+                        "nadir",
+                        "bottom"
                 ],
-                "aftertaste": "背筋を伸ばした先にある、至高の点",
+                "aftertaste": "視界を遮るもののない、突き抜けた青空の頂点",
                 "deep_dive": {
                         "roots": [
                                 {
                                         "term": "samt",
-                                        "meaning": "方向、道"
+                                        "meaning": "way"
                                 }
                         ],
                         "points": [
-                                "中世の写字生がsamt al-rasを「sanit」と誤写したことから、フランス語経由でzenithになりました。"
+                                "写字生の誤記により、本来の「m」が「ni」として伝わったという、言葉の旅の産物です。"
                         ]
                 },
-                "source": "etymon",
-                "era": "14th Century Arabic"
+                "source": "etymon Philologist Mode",
+                "era": "14th Century Arabic / Latin"
+        },
+        {
+                "id": "zephyr",
+                "word": "Zephyr",
+                "part_of_speech": "noun",
+                "meaning": "そよ風、西風",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "zephuros",
+                                        "type": "root",
+                                        "meaning": "west wind"
+                                }
+                        ],
+                        "original_statement": "From Greek zephuros '(the god of) the west wind'."
+                },
+                "core_concept": {
+                        "en": "The gentle west wind",
+                        "ja": "春の訪れを告げる、神が吐き出すような「優しく、柔らかな西の風」"
+                },
+                "thinking_layer": "荒々しい北風とは対照的な、慈愛に満ちた風です。肌を撫でる軽やかな空気、あるいは薄い布地のような儚さ。神話的な重みと、詩的な繊細さが同居する、空気の愛撫のような存在を指します。",
+                "synonyms": [
+                        "breeze",
+                        "gentle wind"
+                ],
+                "antonyms": [
+                        "gale",
+                        "squall"
+                ],
+                "aftertaste": "揺れるカーテンと、一瞬だけ鼻を掠めた花の香り",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "zephuros",
+                                        "meaning": "west wind"
+                                }
+                        ],
+                        "points": [
+                                "西（日が沈む方角）を司る神ゼピュロスが、冬を終わらせる吐息として描かれます。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "Ancient Greek"
+        },
+        {
+                "id": "zero",
+                "word": "Zero",
+                "part_of_speech": "noun/number",
+                "meaning": "零、ゼロ、無",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "sifr",
+                                        "type": "root",
+                                        "meaning": "empty / cipher"
+                                }
+                        ],
+                        "original_statement": "From Italian zero, from Medieval Latin zephirum, from Arabic sifr 'empty, nothing'."
+                },
+                "core_concept": {
+                        "en": "Empty / nothing",
+                        "ja": "何も存在しない「空（empty）」の状態に、一つの中心点としての価値を与える"
+                },
+                "thinking_layer": "単なる欠如ではなく、数学的な「基点」です。正と負を分かつ壁であり、無限へと続く入り口。インドからアラビアを経てヨーロッパへ届いたこの概念は、世界から「形あるもの」の呪縛を解き、抽象的な思考を可能にしました。",
+                "synonyms": [
+                        "naught",
+                        "nil",
+                        "nothing"
+                ],
+                "antonyms": [
+                        "infinity",
+                        "something"
+                ],
+                "aftertaste": "一点に凝縮された虚無と、そこから始まる無限の計算",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "sifr",
+                                        "meaning": "void"
+                                }
+                        ],
+                        "points": [
+                                "cipher（暗号、数字）と同語源。かつて「0」は隠された知恵、魔法のような存在でした。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "17th Century Arabic / Italian"
+        },
+        {
+                "id": "zest",
+                "word": "Zest",
+                "part_of_speech": "noun",
+                "meaning": "強い興味、風味（柑橘類の皮）、熱意",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "zeste",
+                                        "type": "root",
+                                        "meaning": "orange or lemon peel"
+                                }
+                        ],
+                        "original_statement": "From French zeste 'piece of orange or lemon peel used for flavoring'."
+                },
+                "core_concept": {
+                        "en": "Added flavor / peel",
+                        "ja": "料理に弾けるような香りを添える「皮（peel）」のように、人生を鮮やかに彩る「刺激的な喜び」"
+                },
+                "thinking_layer": "人生の「薬味」です。退屈な日常を、一瞬で生き生きとしたものに変える鋭いスパイス。それは外側から付け加えるものではなく、自分の好奇心が世界を削り取った時に生まれる、芳醇で刺激的なオイルのようなものです。",
+                "synonyms": [
+                        "gusto",
+                        "relish",
+                        "tang"
+                ],
+                "antonyms": [
+                        "dullness",
+                        "boredom"
+                ],
+                "aftertaste": "鼻腔を抜ける柑橘の鋭い刺激と、込み上げる高揚感",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "schistos",
+                                        "meaning": "split / divided"
+                                }
+                        ],
+                        "points": [
+                                "語源的には「削られたもの」を意味します。削り出すことで初めて、本質的な香りが立ち上がります。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "17th Century French"
+        },
+        {
+                "id": "zigzag",
+                "word": "Zigzag",
+                "part_of_speech": "noun/verb/adjective",
+                "meaning": "ジグザグ、千鳥足、急カーブを繰り返す",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "zickzack",
+                                        "type": "root",
+                                        "meaning": "sharp angle"
+                                }
+                        ],
+                        "original_statement": "From German Zickzack, based on Zacke 'sharp point / tooth'."
+                },
+                "core_concept": {
+                        "en": "Alternating sharp turns",
+                        "ja": "直線を拒み、鋭い「角（tooth）」を交互に刻みながら進む、不規則な軌跡"
+                },
+                "thinking_layer": "効率的な最短距離ではなく、障害を避け、あるいは翻弄するための動的な線です。右、左。一瞬ごとに決断を覆すようなその動きには、稲妻のような予測不能なエネルギーと、迷いながら進む生命のリアリティが宿っています。",
+                "synonyms": [
+                        "meander",
+                        "stagger"
+                ],
+                "antonyms": [
+                        "straight",
+                        "direct"
+                ],
+                "aftertaste": "刻まれた鋭角の連続と、予測できない未来の断片",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "Zacke",
+                                        "meaning": "jag / tooth"
+                                }
+                        ],
+                        "points": [
+                                "言葉の響きそのものが、鋭い切り返しを表現している「擬音語的」な成り立ちを持っています。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "18th Century German"
+        },
+        {
+                "id": "zion",
+                "word": "Zion",
+                "part_of_speech": "noun",
+                "meaning": "シオン（エルサレムの丘）、聖域、理想郷",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "tsiyyon",
+                                        "type": "root",
+                                        "meaning": "fortification / citadel"
+                                }
+                        ],
+                        "original_statement": "From Hebrew Tsiyyon."
+                },
+                "core_concept": {
+                        "en": "A holy citadel",
+                        "ja": "荒野にそびえる「砦（citadel）」のように、選ばれし民が最後に還るべき「約束の聖域」"
+                },
+                "thinking_layer": "単なる地名ではなく、精神的な「帰還」のシンボルです。迫害や彷徨の果てに、魂が安らぎを得る場所。それは物理的な土地を超え、平和や解放が実現された究極のコミュニティを指す言葉へと昇華されました。",
+                "synonyms": [
+                        "homeland",
+                        "paradise",
+                        "utopia"
+                ],
+                "antonyms": [
+                        "exile",
+                        "wilderness"
+                ],
+                "aftertaste": "遠くそびえる城壁と、祈りに満ちた黄金の夕光",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "tsiyyah",
+                                        "meaning": "dryness / desert"
+                                }
+                        ],
+                        "points": [
+                                "「乾いた土地（砂漠）」の中の要塞、という意味が根底にあるという説もあります。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "Ancient Hebrew"
         },
         {
                 "id": "zoetic",
@@ -58835,6 +60752,93 @@ const WORDS = [
                 "part_of_speech": "adjective",
                 "meaning": "生命の",
                 "era": "19th Century"
+        },
+        {
+                "id": "zone",
+                "word": "Zone",
+                "part_of_speech": "noun/verb",
+                "meaning": "地帯、区域、集中状態",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "zone",
+                                        "type": "root",
+                                        "meaning": "belt / girdle"
+                                }
+                        ],
+                        "original_statement": "From Old French zone, from Latin zona, from Greek zone 'belt, girdle'."
+                },
+                "core_concept": {
+                        "en": "A belt or girdle",
+                        "ja": "世界という身体を「ベルト（belt）」で締め、独自の属性を持たせた「境界の内側」"
+                },
+                "thinking_layer": "混沌とした空間を「区切る」ための帯です。気候、法律、あるいは心理的な極限。ある線（帯）を越えた瞬間に、そこには全く別のルールが適用される。現代では、自我が消えるほどの「超集中状態」を指す、深淵な領域を意味するようにもなりました。",
+                "synonyms": [
+                        "area",
+                        "region",
+                        "belt"
+                ],
+                "antonyms": [
+                        "wilderness",
+                        "open space"
+                ],
+                "aftertaste": "引かれた見えない線の内側で、変容する世界の理（ことわり）",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "zon-",
+                                        "meaning": "to gird"
+                                }
+                        ],
+                        "points": [
+                                "服を帯で締める動作が、地球を緯度で分ける「熱帯・温帯」などの概念へと広がりました。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "14th Century Greek / Latin"
+        },
+        {
+                "id": "zoo",
+                "word": "Zoo",
+                "part_of_speech": "noun",
+                "meaning": "動物園、（比喩的に）大混乱の場所",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "zoion",
+                                        "type": "root",
+                                        "meaning": "animal / living being"
+                                }
+                        ],
+                        "original_statement": "Short for Zoological Gardens (1828), from Greek zoion 'animal'."
+                },
+                "core_concept": {
+                        "en": "Living beings",
+                        "ja": "「生きているもの（living being）」を集め、野生の鼓動を柵の内側に閉じ込めた場所"
+                },
+                "thinking_layer": "「zoological gardens（動物学の庭園）」の短縮形です。科学的な分類と、見世物としての好奇心が混ざり合う場所。秩序正しく並んだ檻の裏側には、常に野生の予測不能なエネルギーが潜んでおり、それが「混乱（a zoo）」という比喩に繋がります。",
+                "synonyms": [
+                        "menagerie",
+                        "wildlife park"
+                ],
+                "antonyms": [
+                        "wilderness",
+                        "wild"
+                ],
+                "aftertaste": "重なり合う咆哮と、管理された自然の奇妙な静寂",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "zo-",
+                                        "meaning": "life"
+                                }
+                        ],
+                        "points": [
+                                "zodiac（黄道帯＝動物の輪）やbiology（生物学）の-logyではない「bio」とは異なる「躍動する命」の根です。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "19th Century Greek origin"
         },
         {
                 "id": "eclat",
