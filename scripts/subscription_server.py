@@ -866,31 +866,24 @@ def get_my_posts():
     
     result = {'words': [], 'essays': [], 'reflections': []}
     
-# 自分の単語を取得
-    conn = get_db_connection()
-    p = get_placeholder()
-    try:
-        with conn:
-            cur = conn.cursor()
-            if DATABASE_URL:
-                cur.execute(f"SELECT id, word_id, word_data, date FROM user_words WHERE author={p} AND is_deleted = FALSE", (username,))
-            else:
-                cur.execute(f"SELECT id, word_id, word_data, date FROM user_words WHERE author={p} AND is_deleted = 0", (username,))
-            for r in cur.fetchall():
-                import json
-                wd = r[2] if isinstance(r[2], dict) else json.loads(r[2])
-                result['words'].append({'id': r[1], 'word': wd.get('word', r[1]), 'date': r[3]})
-except Exception as e:
-        print(f"Error reading words: {e}")
-
-
-    # 自分のエッセイとリフレクションを取得
     conn = get_db_connection()
     p = get_placeholder()
     try:
         with conn:
             cur = conn.cursor()
             
+            # 自分の単語を取得
+            if DATABASE_URL:
+                cur.execute(f"SELECT id, word_id, word_data, date FROM user_words WHERE author={p} AND is_deleted = FALSE", (username,))
+            else:
+                cur.execute(f"SELECT id, word_id, word_data, date FROM user_words WHERE author={p} AND is_deleted = 0", (username,))
+            for r in cur.fetchall():
+                import json
+                try:
+                    wd = r[2] if isinstance(r[2], dict) else json.loads(r[2])
+                    result['words'].append({'id': r[1], 'word': wd.get('word', r[1]), 'date': r[3]})
+                except: continue
+
             # Essays
             if DATABASE_URL:
                 cur.execute(f"SELECT id, title, date FROM user_essays WHERE author={p} AND is_deleted = FALSE", (username,))
@@ -925,7 +918,7 @@ def delete_my_post():
         return jsonify(status='error', message='Missing data'), 400
         
     try:
-if item_type == 'word':
+        if item_type == 'word':
             conn = get_db_connection()
             p = get_placeholder()
             with conn:
@@ -937,7 +930,7 @@ if item_type == 'word':
             conn.close()
             return jsonify(status='success')
             
-elif item_type == 'essay':
+        elif item_type == 'essay':
             db_id = int(str(item_id).replace('essay_user_', ''))
             conn = get_db_connection()
             p = get_placeholder()
