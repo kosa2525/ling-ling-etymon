@@ -28344,5 +28344,51 @@ const WORDS = [
                 "source": "Oxford English Dictionary",
                 "date": "2026-03-01",
                 "era": "Middle English, 13th Century"
+        },
+        {
+                "id": "pedant",
+                "word": "Pedant",
+                "part_of_speech": "noun",
+                "meaning": "学識をひけらかす人",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "paedagog-",
+                                        "type": "root",
+                                        "meaning": "子供の教育",
+                                        "lang": "Middle French"
+                                }
+                        ],
+                        "original_statement": "The term 'pedant' originally surfaced in English around the late 16th century, borrowed from Middle French 'pedant', from Italian 'pedante', meaning 'teacher' or 'schoolmaster' and ultimately stemming from Latin 'paedagogus'."
+                },
+                "core_concept": {
+                        "en": "A guardian of knowledge who binds themselves with the chains of precision, overlooking the horizon of wisdom.",
+                        "ja": "知識の守護者たるが故に講究の枷に縛られ、知恵の地平を見失う存在。"
+                },
+                "thinking_layer": "「ペダント」とは、知の監視者である。しかし、その意図は知識を守ることにある一方、時としてその細部へと固執するがあまり、大いなる真実から目を背けてしまうこともある。不必要な厳密さは、理解を妨げ、自由な思考を奪う枷となる。ペダントは、知識そのものが目的化してしまう危険をはらむ。ある種の完璧主義とも言えよう。彼の目は常にディテールを追い、全体を見失うことで、まるで知識の檻の中に閉じ込められているかのようだ。しかし、その枠を超えたところにある、感性と直感による無垢な理解こそ人間を豊かにする。ペダントとしての道は深淵であるが、そこには知恵という海原が待っているかもしれない。彼が真の賢者となる道は、そのバランスを見つけることにあるのだろう。知識の堤から流れ出る智慧を解き放つには、時にその堤を壊す勇気も求められる。無償の学びが、心の自由と結びつくその時、知の翼は天を翔け巡るだろう。この探求の旅こそが、人間が永遠に抱え続ける崇高なる課題である。",
+                "synonyms": [
+                        "Scholar",
+                        "Know-it-all"
+                ],
+                "antonyms": [
+                        "Ignoramus",
+                        "Philistine"
+                ],
+                "aftertaste": "Embarking on the path of precise knowledge often obscures the broader landscape of wisdom.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "paedagogus",
+                                        "meaning": "a teacher or leader of children"
+                                }
+                        ],
+                        "points": [
+                                "「ペダント」という語は、元来は称賛されるべき教育者の意味を持っていたが、時を経てその細部にこだわりすぎる性格を揶揄するニュアンスを含むようになった。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "16th Century"
         }
 ];
