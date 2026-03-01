@@ -46336,5 +46336,279 @@ const WORDS = [
                 "source": "Online Etymology Dictionary",
                 "date": "2026-03-01",
                 "era": "16th Century"
+        },
+        {
+                "id": "introduce",
+                "word": "Introduce",
+                "part_of_speech": "verb",
+                "meaning": "物事を他に新しく加える、または誰かを他者に初めて合わせる行為。",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "intro",
+                                        "type": "prefix",
+                                        "meaning": "内へ",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "ducere",
+                                        "type": "root",
+                                        "meaning": "導く",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'introduce' originated from the Latin 'introducere', combining 'intro' meaning into or within, and 'ducere' meaning to lead."
+                },
+                "core_concept": {
+                        "en": "To open doors, unveiling the unexplored.",
+                        "ja": "未知なる世界への扉を開くこと。"
+                },
+                "thinking_layer": "『導入』という言葉は、まるで人が扉を押して新しい部屋に入るようなもの。内なる静かな声に従い、新たなる世界と交流し、古きを垣間見ること。この行為は人間がまた一歩外の世界へと足を踏み入れ、新たなる視点を獲得する様を象徴する。『内へ導く』という概念は、自己の殻を破り、内なる精神的旅路を開始させるものでもある。それは他者との新しい接触点を生むだけでなく、自我と対話を生み、心の中のより静かな部分に光を与える。芸術家が自らの作品を通して新しい視界を示すとき、彼らは『導入』の行為を実現している。詩人が新しい言葉を編み、心に深く触れるときも、また同様である。『導入』は単なる物理的な行動に留まらず、精神的な次元への飛躍を象徴し、新たなアイデアや視点への踏み出しを促すためにこそ存在する。これが人生における導入の深遠なる役割と言えよう。",
+                "synonyms": [
+                        "Present",
+                        "Initiate"
+                ],
+                "antonyms": [
+                        "Exclude",
+                        "Terminate"
+                ],
+                "aftertaste": "Introducing is the unveiling of a new dawn.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "ducere",
+                                        "meaning": "to lead or guide"
+                                }
+                        ],
+                        "points": [
+                                "『導入』は新たな価値を内に開く行為であり、人と人、思考と思考を結ぶ鍵である。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "Classical Latin"
+        },
+        {
+                "id": "impress",
+                "word": "Impress",
+                "part_of_speech": "noun/verb",
+                "meaning": "強く感動させる、または印象を与える行為",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "im-",
+                                        "type": "prefix",
+                                        "meaning": "中へ",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "press",
+                                        "type": "root",
+                                        "meaning": "押す",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "Derived from Latin 'imprimere', a blend of 'in-' meaning 'into' and 'premere' meaning 'to press'. Its use extends back to Middle English, symbolizing both mental and physical imprint."
+                },
+                "core_concept": {
+                        "en": "A gentle force, carving marks on the unseen canvas of the soul.",
+                        "ja": "魂の見えないキャンバスに刻む優しい力"
+                },
+                "thinking_layer": "『印象』という言葉は、物理的だけでなく精神的な次元における深いインパクトを象徴する。人の心に刻まれる瞬間は、言葉や行動としての力を介して、心の中に永遠に残り続ける。印象を受けるということは、我々が他者の存在をどのように知覚し、それが我々自身の存在にどんな形で反映されるかを示す行為である。それは、目に見えない次元での彫刻とも言えるだろう。心の中に圧力が加えられるたびに、その人の一部がまた他者にも影響を与え、そこから新しい形が生まれてくる。このプロセスは人生の織物の一部であり、その織物は私たちの経験を超越した深い理解と共感を織り成していく。心と心が触れ合うことで生まれるこの脆い過程を通して、我々は相互の理解を深め、世界を新たに捉え始めるのだ。そしてその瞬間がまた、別の誰かの心に新たな印象を刻む契機となる。",
+                "synonyms": [
+                        "Amaze",
+                        "Astonish"
+                ],
+                "antonyms": [
+                        "Bore",
+                        "Disenchant"
+                ],
+                "aftertaste": "To impress is to silently engrave on the soul’s infinite mural.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "premere",
+                                        "meaning": "to press"
+                                }
+                        ],
+                        "points": [
+                                "「印象」は、人間の存在におけるコミュニケーションの本質を象徴し、生身を超えた精神的変化の始点を意味する。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "Middle English, Latin origin"
+        },
+        {
+                "id": "objective",
+                "word": "Objective",
+                "part_of_speech": "noun/adjective",
+                "meaning": "客観的な、または目標の",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "ob-",
+                                        "type": "prefix",
+                                        "meaning": "に向かって",
+                                        "lang": "ラテン語"
+                                },
+                                {
+                                        "text": "ject-",
+                                        "type": "root",
+                                        "meaning": "投げる、投射する",
+                                        "lang": "ラテン語"
+                                },
+                                {
+                                        "text": "-ive",
+                                        "type": "suffix",
+                                        "meaning": "性質や状態を示す",
+                                        "lang": "英語"
+                                }
+                        ],
+                        "original_statement": "The word 'objective' traces back to the Medieval Latin 'objectivus' and Latin 'objectum', influenced by the fusion of 'ob-' (towards) and 'jacere' (to throw)."
+                },
+                "core_concept": {
+                        "en": "A serene beacon guiding through impartial reality.",
+                        "ja": "公平な現実を導く静かな灯火"
+                },
+                "thinking_layer": "「客観」とはただ言葉の一つにとどまらず、我々の心と精神を磨く不滅の指針である。客観性を追求することは、個人の主観を超え、全ての生き物の広大で普遍的な視点に達しようとする努力に他ならない。この探求は、個々の相違を捨て去り、無色透明な世界の情景を素直に受け入れる勇気を試される。本質を捉えるには、自己の願望や業を超え、瞬間ごとの真実に直面する姿勢が必要である。客観という観念を熟考することにより、我々は内なる正道を見出し、混沌とした時代の中で恐れのない視座を得る。明星は必ずしも夜空に輝いているわけではない。思考の闇を照らす中立の光、それはすなわち客観という理智の声である。現実をあるがまま受け入れることで、時の流れに抗わず、安らぎと安定を探すことができる。この普遍の原理に従えば、世界は一層調和のとれた姿を見せるだろう。",
+                "synonyms": [
+                        "Impartial",
+                        "Unbiased"
+                ],
+                "antonyms": [
+                        "Subjective",
+                        "Biased"
+                ],
+                "aftertaste": "Objectivity offers clarity amidst the chaos of perception.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "ob",
+                                        "meaning": "towards"
+                                },
+                                {
+                                        "term": "jacere",
+                                        "meaning": "to throw"
+                                }
+                        ],
+                        "points": [
+                                "「客観」という語の本質には、外的現実を冷静に見極める能力が反映されている。ラテン語からドイツ語、そして現代英語へと受け継がれる中で、その意味合いも哲学的に深まっていった。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Mid 19th Century"
+        },
+        {
+                "id": "transmission",
+                "word": "Transmission",
+                "part_of_speech": "noun",
+                "meaning": "送信、伝達",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "trans-",
+                                        "type": "prefix",
+                                        "meaning": "向こう側へ、超えて",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "mittere",
+                                        "type": "root",
+                                        "meaning": "送る",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "Derives from Latin transmissio(n-), from transmittere ‘send across’."
+                },
+                "core_concept": {
+                        "en": "The poetic movement of thoughts, words, or energies from one realm to another.",
+                        "ja": "思考、言葉、またはエネルギーがある領域から別の領域へと動く美しき伝達の舞。"
+                },
+                "thinking_layer": "伝達とは、人の心から心へと言葉や感情、意図が音もなく流れる神秘のプロセスである。日々の雑踏の中で、無数の存在が交わり合い、無限の響きを奏でている。その過程で、言葉は肉体の拘束を越え、肉眼では捉え得ぬ領域へと孕むものが、軌跡を描いていく。一つの想いが異なる心に宿るとき、その重みが繊細に変化し、やがて新たな色彩を帯びるようになる。この変容は、美しき交流の舞いであり、宇宙そのものと共振する調べでもある。人生そのものがこうした終わりなき輪舞曲の一部であるため、我々は絶えずこの川の流れに沿って、未知なる地へと向かうのである。",
+                "synonyms": [
+                        "Communication",
+                        "Conveyance"
+                ],
+                "antonyms": [
+                        "Isolation",
+                        "Suppression"
+                ],
+                "aftertaste": "Transmission is the invisible dance of connection, sharing, and echoing across the cosmos.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "trans",
+                                        "meaning": "across, beyond"
+                                },
+                                {
+                                        "term": "mittere",
+                                        "meaning": "to send"
+                                }
+                        ],
+                        "points": [
+                                "言語は時代を超えて人々を繋ぐ役割を持ち続けている。『伝達』は、単に情報を渡す行為ではなく、文化の進化や人類の英知を共有する行動である。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Late Latin"
+        },
+        {
+                "id": "protection",
+                "word": "Protection",
+                "part_of_speech": "noun",
+                "meaning": "保護または防護の行為",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "protect",
+                                        "type": "root",
+                                        "meaning": "守る",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "-tion",
+                                        "type": "suffix",
+                                        "meaning": "行為、状態",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "Derived from the Latin 'protectionem', the action of protecting, from 'protegere' meaning 'to cover, shield'."
+                },
+                "core_concept": {
+                        "en": "To shield the vulnerable with celestial grace.",
+                        "ja": "脆弱なものを天使の如き優雅さで包み込む"
+                },
+                "thinking_layer": "保護とは、単なる防御だけではなく、生命や尊厳を維持し、存在の根源に安らぎをもたらす行為である。この語の語源が示すように、それは覆い隠し、守り続けるという古来からの人間の本能に根差している。私たちが誰かや何かを保護する時、その行為には無限の愛と慈悲が宿る。その愛は時に見えないベールとなり、静寂の中で生きる力を育むのである。それは森の中で木々が小枝を守るように、母が子を抱きしめるかの如く優しく鋭敏な見守りである。守る者と守られる者との間に生まれる無言の絆が、この世の苦しみを和らげ、未来の約束となるだろう。保護の理念の深奥には人間の存在の崇高さが垣間見える。それは流れる時間の中で私たちの心に刻まれた、永遠なる祈りのひと時なのである。",
+                "synonyms": [
+                        "safeguard",
+                        "shield"
+                ],
+                "antonyms": [
+                        "endanger",
+                        "expose"
+                ],
+                "aftertaste": "Protection is a silent vow of guardianship against the unknown.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "protegere",
+                                        "meaning": "to cover, shield"
+                                }
+                        ],
+                        "points": [
+                                "保護という概念は、ラテン語の「protegere」に由来し、物理的な防御に限らず、心理的・精神的な保護をも意味することがある。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Late Middle English"
         }
 ];
