@@ -37366,5 +37366,486 @@ const WORDS = [
                 "source": "Online Etymology Dictionary",
                 "date": "2026-03-01",
                 "era": "15th Century"
+        },
+        {
+                "id": "transmit",
+                "word": "Transmit",
+                "part_of_speech": "verb",
+                "meaning": "送信する、伝える",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "trans-",
+                                        "type": "prefix",
+                                        "meaning": "越えて",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "mittere",
+                                        "type": "root",
+                                        "meaning": "送る",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "Derived from Latin 'transmittere', combining 'trans-' (across) and 'mittere' (to send)."
+                },
+                "core_concept": {
+                        "en": "The graceful passage of essence across spaces.",
+                        "ja": "本質が空間を越えて流れること"
+                },
+                "thinking_layer": "『伝える』という言葉は、言葉を空間と時間を超えて運ぶ行為を示します。それは単なる情報の伝達を超え、魂が他者に共鳴する瞬間を生み出します。言葉は、目に見えない糸のように人々をつなぎ、その中には思いや感情が潜んでいます。これがなければ、人類は単なる孤立した存在に過ぎず、共感も共有も失われてしまいます。伝達とは、単に物理的な移動ではなく、心の架け橋を築くことなのです。その架け橋を通じて、我々は現実を拡張し、自分を超えて他者と深い意味で結びつくことができます。言語や文化を超えた伝達の力は、まさに人間の進化の根幹にあるものであり、日常的な交流から感動の瞬間にまで影響を与え続けています。伝達とは宇宙の中で響き合う一つの詩であり、そこには無限の可能性が詰まっています。",
+                "synonyms": [
+                        "convey",
+                        "transfer"
+                ],
+                "antonyms": [
+                        "withhold",
+                        "retain"
+                ],
+                "aftertaste": "Transmission is the art of bridging souls.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "mittere",
+                                        "meaning": "to send"
+                                }
+                        ],
+                        "points": [
+                                "「trans-」という接頭辞は越えた先へ移動するニュアンスを持ち、その動きが人間のコミュニケーションの中核を成している。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "Latin origin"
+        },
+        {
+                "id": "transport",
+                "word": "Transport",
+                "part_of_speech": "noun/verb",
+                "meaning": "運ぶこと、運送、輸送",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "trans-",
+                                        "type": "prefix",
+                                        "meaning": "越えて",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "-portare",
+                                        "type": "root",
+                                        "meaning": "運ぶ",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'transport' originates from the Latin 'transportare', which means to carry across or convey."
+                },
+                "core_concept": {
+                        "en": "The eternal dance of movement and transition.",
+                        "ja": "移動と変遷の永遠の舞踏"
+                },
+                "thinking_layer": "移動とは単なる物理的な移動以上のものである。それは時間と空間を超えて存在するものであり、生命そのものの一部である。この宇宙のすべては移動し、変わる一方だ。人間もまた、内的にも外的にも常に移動を繰り返している。移動は不変の変化を示し、その中に存在するものは常に新しく生まれ変わる。このように、移動の概念は個人の成長や精神の探求を象徴している。それは内なる魂の移動でもあり、新たな場所への旅立ちでもある。移動することは新しい視点を持ち込むことであり、新しい経験を得るための手段である。このため、移動は自由と冒険の象徴でもある。変化を恐れず、前に進む勇気を与えてくれるのが移動の力であり、可能性の世界を広げてくれるのだ。これこそが移動の本質であり、その深奥には未知を探求する人間の本能が秘められている。",
+                "synonyms": [
+                        "conveyance",
+                        "transportation"
+                ],
+                "antonyms": [
+                        "immobility",
+                        "stationary"
+                ],
+                "aftertaste": "Transport embodies the journey of existence.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "trans-",
+                                        "meaning": "across, beyond"
+                                },
+                                {
+                                        "term": "portare",
+                                        "meaning": "to carry"
+                                }
+                        ],
+                        "points": [
+                                "古代ローマでは「運ぶ」を意味し、現代に至るまで様々な形で行われる移動を表現してきた。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "Latin, Middle Ages"
+        },
+        {
+                "id": "populate",
+                "word": "Populate",
+                "part_of_speech": "verb",
+                "meaning": "住んでいる人々、または動物がいる状態にする",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "populus",
+                                        "type": "root",
+                                        "meaning": "民衆",
+                                        "lang": "ラテン語"
+                                },
+                                {
+                                        "text": "ate",
+                                        "type": "suffix",
+                                        "meaning": "動作を表す",
+                                        "lang": "英語"
+                                }
+                        ],
+                        "original_statement": "The word 'populate' originated from the Latin verb 'populare', which means 'to people' or 'to supply with people'. This verb is derived from 'populus', meaning 'people'."
+                },
+                "core_concept": {
+                        "en": "To breathe life into space with human souls.",
+                        "ja": "人間の魂で空間に命を吹き込むこと。"
+                },
+                "thinking_layer": "『ポピュレート』という言葉は、人間の存在をある地域に満たすことを意味しますが、それは単なる物理的な領域の充填ではありません。精神的なレベルでは、その言葉は空虚から充実へ、無機的な土地に生命を蘇らせる行為を示します。人々が集まり、文化と物語を織り成し、その場に記憶を刻むことで、かつて無名だった場所が特別な意味を持つようになります。人口とは単なる数値ではなく、歴史の断片や未来への希望を内包したものです。それは、個々人の心が集まり、共鳴し合い、共同体としての調和を生むプロセスです。このように、『ポピュレート』は、個と集団、空間と時間の織り成す豊かな物語を想起させます。住むという行為は、その土地への愛着と他者とのつながりを育み、我々のアイデンティティを形成する中核となります。人口を、利便性ではなく、存在意義と幸福感が満ちたものへと変えていく使命が、私たちには与えられています。そんな哲学と詩的な視点で『ポピュレート』という単語を解釈するのは、言葉が持つ真の力と美しさを味わうことに他なりません。",
+                "synonyms": [
+                        "Inhabit",
+                        "Settle"
+                ],
+                "antonyms": [
+                        "Abandon",
+                        "Empty"
+                ],
+                "aftertaste": "To populate is to infuse the world with the tapestry of human existence.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "populus",
+                                        "meaning": "people"
+                                }
+                        ],
+                        "points": [
+                                "『ポピュレート』の語源は、ローマ時代に遡ります。ポプルス（populus）というラテン語のルーツは、共同体や公共の意味を内包し、その言語的芳香を今に伝えています。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "16th Century"
+        },
+        {
+                "id": "dictate",
+                "word": "Dictate",
+                "part_of_speech": "verb",
+                "meaning": "口述する；命令する",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "dict-",
+                                        "type": "root",
+                                        "meaning": "言う、話す",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "-ate",
+                                        "type": "suffix",
+                                        "meaning": "行動を取ること",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'dictate' originates from the Latin 'dictare', a frequentative of 'dicere' meaning 'to say'."
+                },
+                "core_concept": {
+                        "en": "The authoritative manifestation of spoken intent.",
+                        "ja": "語られる意図の権威ある顕現"
+                },
+                "thinking_layer": "『黙っている時は黄金、語る時は文字。』と言われるように、言葉というのは魂の表現であり、心の奥深くからの命令とも言える。人が言葉を発する時、ただの音ではなく、それは心の声であり、その知性と思考を凝縮したものだ。指導者の言葉は時に歴史を動かし、また母親のささやきは子供を慰める。言葉は命令であると同時に、理解と共感を生むものである。口述はまるで無限のどちらとも言えぬ力が宿っている。言葉に込められた力は、その発信者の意図や思惑を超え、受け手の心に新たな解釈や意図を芽生えさせる。すなわち、言葉の命令には直線的な指示だけではなく、多層的な意味と象徴が含まれており、それはまるで無限に広がる宇宙のように、際限のない広がりを持っている。",
+                "synonyms": [
+                        "Command",
+                        "Decree"
+                ],
+                "antonyms": [
+                        "Request",
+                        "Suggest"
+                ],
+                "aftertaste": "To dictate is to etch the voice onto the canvas of silence.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "dictare",
+                                        "meaning": "to assert repeatedly"
+                                }
+                        ],
+                        "points": [
+                                "『ディクテイト』という言葉は、反復的に知らせることを意味し、その起源はラテン語の「ディクターレ」に根差しています。これは音声と心の声が絡み合う微妙な狭間を探索します。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "14th Century"
+        },
+        {
+                "id": "transplant",
+                "word": "Transplant",
+                "part_of_speech": "noun/verb",
+                "meaning": "移植すること",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "trans-",
+                                        "type": "prefix",
+                                        "meaning": "越えて",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "plantare",
+                                        "type": "root",
+                                        "meaning": "植える",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "From Latin 'transplantare', meaning 'to plant over'. The concept of transplanting involves moving something from one place to another, whether a plant, organ, or cultural idea."
+                },
+                "core_concept": {
+                        "en": "A migration of life and essence, re-rooting in new soil, embracing possibility.",
+                        "ja": "生命と本質の移ろい、新たな土壌への再定着、可能性を抱くこと"
+                },
+                "thinking_layer": "移植という行為は、単なる物理的な移動を超えた深い意味を持ちます。それは私たちが本来あった場所から引き離され、未知の土地に根を下ろし、新たな命を育む営みです。これは再生の象徴であり、古きものが新しきものに変わる過程であり、再び一体となる感覚を伴います。例えば、植物はその根を他の土壌に移すことで、新たな養分を受け入れ、かつて以上に大きく成長することができるでしょう。それは私たち人間の人生にも通ずる哲学です。私たちはしばしば習慣と思い込みに捕らわれ、自らの成長を妨げてしまいます。しかし、移植という行動は、その境界を越え、自己を再発見する鍵となります。精神的にも物理的にも、移植は私たちに新たな視野を与え、より自由で柔軟な存在となるための扉を開きます。",
+                "synonyms": [
+                        "移植",
+                        "移転"
+                ],
+                "antonyms": [
+                        "固定",
+                        "定着"
+                ],
+                "aftertaste": "In every transplantation, there is a story of hope and renewal.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "trans-",
+                                        "meaning": "across, beyond"
+                                },
+                                {
+                                        "term": "plantare",
+                                        "meaning": "to plant"
+                                }
+                        ],
+                        "points": [
+                                "移植という概念はラテン語の 'transplantare' に由来し、これは本来の場所を超えた新たな場への移動を意味します。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Latin, 14th Century"
+        },
+        {
+                "id": "encourage",
+                "word": "Encourage",
+                "part_of_speech": "verb",
+                "meaning": "勇気を与える、促す",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "en-",
+                                        "type": "prefix",
+                                        "meaning": "～に力を与える",
+                                        "lang": "Middle French"
+                                },
+                                {
+                                        "text": "corage",
+                                        "type": "root",
+                                        "meaning": "心、勇気",
+                                        "lang": "Old French"
+                                }
+                        ],
+                        "original_statement": "Derived from the Old French word 'encoragier', meaning to 'in hearten,' originating from 'corage'."
+                },
+                "core_concept": {
+                        "en": "To breathe spirit into the heart of another.",
+                        "ja": "他者の心に魂を吹き込むこと"
+                },
+                "thinking_layer": "「encourage」という言葉は、他者の心に内なる勇気を呼び覚ますことを意味します。これはまるで静まった湖に小石を投げ入れ、その波紋が次第に広がり、全体を影響する様相に似ています。励ましは目には見えぬけれども、心の奥底に火を灯し、その炎が燃え上がることで人を動かし続けます。それはただの支えではなく、人がその存在の奥深くに潜む可能性を解き放つ呼びかけでもあるのです。この行為は、我々がどれだけ他者とつながっているのかを証明する証でもあり、ひいては人間という存在そのものがいかに互いに影響を与え合い、相互に発展していくかを示しています。励ましの力は、時に言葉を超えて行動そのものとなり、目に見えぬ糸で我々を未来へと導く羅針盤のような存在に成り得るのです。",
+                "synonyms": [
+                        "Embolden",
+                        "Inspire"
+                ],
+                "antonyms": [
+                        "Discourage",
+                        "Dissuade"
+                ],
+                "aftertaste": "Encouragement is the silent guide behind every brave step.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "corage",
+                                        "meaning": "heart, spirit"
+                                },
+                                {
+                                        "term": "en-",
+                                        "meaning": "in, into"
+                                }
+                        ],
+                        "points": [
+                                "「encourage」は心と行動との深い結びつきを表し、単なる感情の表現を超えた力である。",
+                                "他者の勇気を呼び醒まし、目的に向かって歩む力を与えるプロセスを示す。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Late Middle Ages (14th Century)"
+        },
+        {
+                "id": "animation",
+                "word": "Animation",
+                "part_of_speech": "noun",
+                "meaning": "生気や活動を与えること",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "anim-",
+                                        "type": "root",
+                                        "meaning": "魂や呼吸",
+                                        "lang": "ラテン語"
+                                },
+                                {
+                                        "text": "-ation",
+                                        "type": "suffix",
+                                        "meaning": "状態や行為",
+                                        "lang": "ラテン語"
+                                }
+                        ],
+                        "original_statement": "Originates from the Latin term 'animatio,' which signifies the act of bringing to life or endowing with spirit."
+                },
+                "core_concept": {
+                        "en": "The poetic dance of life imbued with creative spirit.",
+                        "ja": "創造的な精神によって命を得た詩的な舞踊"
+                },
+                "thinking_layer": "『アニメーション』とは生命の神秘なる踊りである。それはただ動くことに止まらず、この世の存在を震わせる静かなる声である。静寂の中に響くリズム、無音の中の大合唱、これは創造の根底に潜むエネルギーの解放である。アニメーションが持つ命の躍動は、視覚を超えて心への風を吹き、想像力を翼に変え、内なる世界を啓示する。瞳に映る一瞬の線は、数えきれぬ時間と魂の旅が形を取る様を描く。情熱と希望に溢れ、過去と未来を結びつけるこの創造の表現は、常に変化し続ける宇宙の縮図である。それゆえに、アニメーションとはただの動きではなく、存在の純粋な形式と言える。いのちのリズムが紡ぎ出す無限の可能性、それがアニメーションである。",
+                "synonyms": [
+                        "動作",
+                        "生気"
+                ],
+                "antonyms": [
+                        "静止",
+                        "無気力"
+                ],
+                "aftertaste": "Animation is the eternal heartbeat of creativity.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "animus",
+                                        "meaning": "soul, spirit"
+                                }
+                        ],
+                        "points": [
+                                "アニメーションという言葉は、ラテン語の「アニマ（anima）」に由来し、それは魂や生命を象徴している。この語源は、無数の物語や形に生命を吹き込む、その本質的な行為を表している。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "Late 14th Century, from Latin origin"
+        },
+        {
+                "id": "contribution",
+                "word": "Contribution",
+                "part_of_speech": "noun",
+                "meaning": "寄付、貢献",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "con-",
+                                        "type": "prefix",
+                                        "meaning": "共に",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "tribuere",
+                                        "type": "root",
+                                        "meaning": "分配する",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'contribution' originates from Latin 'contributio', derived from 'con-' (with, together) and 'tribuere' (to allot, assign)."
+                },
+                "core_concept": {
+                        "en": "A harmonious merging of shares towards a collective existence.",
+                        "ja": "共同体のための調和した寄与"
+                },
+                "thinking_layer": "人は孤立した存在ではなく、互いに依存しあう存在です。寄与とは、個々の要素が集まり、共に何かを築くことを意味します。それはまた、大いなる流れの中で個人が持つ役割を見出し、全体に向けて持続的なエネルギーを供給する行為でもあります。この途方もない宇宙の中で、寄与することによって、自らの意味を見出し、他者に対する感謝の心を育むことができます。そしてその行為は、時間と空間を超えて人類全体の発展に影響を与えます。寄与とは、自己と他者を繋ぐ絆であり、それは一筋の光となって希望を生むのです。人は、寄与することで社会に溶け込み、物事の本質に触れることができます。寄与することこそが、人生の豊かさを見出す鍵であり、深い内的な充実感をもたらします。それは、我々の精神を高め、限界を超える原動力となるのです。",
+                "synonyms": [
+                        "Donation",
+                        "Support"
+                ],
+                "antonyms": [
+                        "Withdrawal",
+                        "Detraction"
+                ],
+                "aftertaste": "To contribute is to breathe life into the spirit of unity.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "tribuere",
+                                        "meaning": "allot"
+                                }
+                        ],
+                        "points": [
+                                "この語の語源は、古代ローマにおける税の分配から来ており、そこから物事の一部を割り振るという概念が生まれました。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Late Middle English"
+        },
+        {
+                "id": "orientation",
+                "word": "Orientation",
+                "part_of_speech": "noun",
+                "meaning": "方向を決めることや位置を定めること",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "oriens",
+                                        "type": "root",
+                                        "meaning": "東",
+                                        "lang": "ラテン"
+                                },
+                                {
+                                        "text": "orient-",
+                                        "type": "root",
+                                        "meaning": "向きを変える",
+                                        "lang": "ラテン"
+                                }
+                        ],
+                        "original_statement": "The term 'orientation' derives from the Latin 'orientem', meaning 'the East', as one originally oriented oneself by facing toward the sunrise."
+                },
+                "core_concept": {
+                        "en": "The delicate act of finding one's place in the mosaic of the universe.",
+                        "ja": "宇宙の万華鏡における自身の位置を見つける繊細な行為"
+                },
+                "thinking_layer": "『オリエンテーション』という言葉には、東方を表すラテン語「オリエン」を起源とする深い意味が含まれています。この単語が示すのは、単なる方向性の決定ではなく、より広い視野で方向を見出し、時間と空間の流れの中で自分自身を正確に位置づけることの重要性です。人間という存在は、日々変わりゆく環境の中で、自己の位置や存在の意味を求め続ける旅をしています。それは、単なる物理的な方位を見つけることを超え、心理的、哲学的そして精神的な意味での方位の確立を指します。心の内なる羅針盤を使い、内なる太陽が指し示す方向に進む時、その先には新たな発見や成長の機会が待っています。東方から昇る朝日が新たな始まりを告げるように、オリエンテーションは私たちに再び立ち上がり、新たな一歩を踏み出す力を与えてくれます。",
+                "synonyms": [
+                        "alignment",
+                        "positioning"
+                ],
+                "antonyms": [
+                        "disorientation",
+                        "confusion"
+                ],
+                "aftertaste": "To orient oneself is to dance with the universe's rhythms.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "orient",
+                                        "meaning": "to arrange or align"
+                                }
+                        ],
+                        "points": [
+                                "オリエンテーションは、東方を基準に自分自身を整える行為として古代より意味付けられ、個人の存在を見出すための心の指南に繋がっています。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Late Middle English"
         }
 ];
