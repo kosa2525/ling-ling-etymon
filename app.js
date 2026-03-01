@@ -1397,7 +1397,23 @@ function renderContribute() {
             synonyms: [], antonyms: [], aftertaste: "", deep_dive: { roots: [], points: [] }, source: "Citizen Contribution", author: State.currentUser
         };
         const res = await apiPost('/api/submit-word', { username: State.currentUser, wordData });
-        if (res.status === 'success') { showToast('Accepted.'); setTimeout(() => location.reload(), 1000); }
+        if (res.status === 'success') {
+            showRichToast('✦ Knowledge Added', `「${wordData.word}」が宇宙の記憶に刻まれました。`);
+
+            // リロードせずにWORDSに追加
+            if (typeof WORDS !== 'undefined') {
+                WORDS.push(JSON.parse(JSON.stringify(wordData)));
+            }
+
+            document.getElementById('word-form').reset();
+            setTimeout(() => {
+                State.letterFilter = null;
+                State.searchFilter = null;
+                navigate('archive');
+            }, 1200);
+        } else {
+            showToast('エラーが発生しました');
+        }
     };
 }
 
