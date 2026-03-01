@@ -32539,5 +32539,97 @@ const WORDS = [
                 "source": "Oxford English Dictionary",
                 "date": "2026-03-01",
                 "era": "17th Century"
+        },
+        {
+                "id": "snooze",
+                "word": "Snooze",
+                "part_of_speech": "noun/verb",
+                "meaning": "短い眠り",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "poss-ibly of imitative origin",
+                                        "type": "root",
+                                        "meaning": "模倣に由来する可能性",
+                                        "lang": "English"
+                                }
+                        ],
+                        "original_statement": "The term 'snooze' likely emerged in the late 18th century, often thought to be imitative of the sound of snoring."
+                },
+                "core_concept": {
+                        "en": "A brief escape from reality.",
+                        "ja": "現実からの短い逃避"
+                },
+                "thinking_layer": "眠るという行為は、一時的でありながらも深く生命の本質に触れる体験です。短い時間の中に、心と思考が静かに揺れ動く場所を見出すことができるのです。眠りは人生の日常を区切るリズムであり、しばしば宇宙との対話と称されます。この「スヌーズ」という行為そのものが、現代の忙しい生活の中で小さな避難所を提供し、我々の精神は再び目覚めたときに新しい光を放ちます。生命の豊かさはその短い瞬間に濃縮されています。歴史と文化が影に落ちている間、魂は再生し、新たな理解の扉がゆっくりと開かれてゆきます。そのために、一瞬の「スヌーズ」は人生の繁栄の象徴でもあるのです。",
+                "synonyms": [
+                        "nap",
+                        "rest"
+                ],
+                "antonyms": [
+                        "wakefulness",
+                        "alertness"
+                ],
+                "aftertaste": "Even the briefest pause refreshes the soul.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "snooze",
+                                        "meaning": "to sleep lightly"
+                                }
+                        ],
+                        "points": [
+                                "この言葉は、しばしば面白い音の模倣であると信じられています。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Late 18th Century"
+        },
+        {
+                "id": "friend",
+                "word": "Friend",
+                "part_of_speech": "noun",
+                "meaning": "友, 友情を示す人",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "friñða-",
+                                        "type": "root",
+                                        "meaning": "愛する者",
+                                        "lang": "古英語"
+                                }
+                        ],
+                        "original_statement": "From Old English 'freond', which traces back to Proto-Germanic '*frijōjands', meaning 'to love'."
+                },
+                "core_concept": {
+                        "en": "A bond woven by threads of affection and trust, enduring through time.",
+                        "ja": "愛と信頼で織り成された絆が、時を超えて続く"
+                },
+                "thinking_layer": "友とは、時間と空間を超えて連結する人類の心の架け橋である。友情は、言葉を超え、目に見えぬ糸で人を結びつける。親友とは、心の底を映し出す鏡であり、ともに過ごす時間は、心の記憶に永遠に刻まれる。人は孤独になることを恐れ、故に友を作ることを望む。友の存在は、暗い闇の中に差し込む一筋の光であり、人は互いに手を差し伸べ、その温もりを共有することで、日々の挑戦を乗り越えていくのだ。友情とは、本質的に無条件の愛であり、評価されずとも、ただ共にあることに喜びを見出す関係である。友の力は、時として言葉では表現しきれない感情を伝え、魂と魂を深く結びつける。事実、このような縁は偶然ではなく、宇宙が導く必然であり、人生を豊かにする真の贈り物といえるだろう。",
+                "synonyms": [
+                        "companion",
+                        "ally"
+                ],
+                "antonyms": [
+                        "enemy",
+                        "foe"
+                ],
+                "aftertaste": "True friendship is an eternal, enduring bond of mutual affection.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "frijōjan",
+                                        "meaning": "to love"
+                                }
+                        ],
+                        "points": [
+                                "友という言葉は、親愛の情を示す古英語 'freond' に由来し、さらに遡ると、古代ゲルマンの 'frijōjands'（愛する者）にまで及ぶ。この言葉の背後には、人類の普遍的な願望、すなわち調和と理解を求める心の働きが見え隠れする。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Old English, Proto-Germanic origin"
         }
 ];
