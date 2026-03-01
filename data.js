@@ -33215,915 +33215,153 @@ const WORDS = [
                 "era": "Late Latin"
         },
         {
-                "id": "debate",
-                "word": "Debate",
-                "part_of_speech": "noun/verb",
-                "meaning": "議論、討論",
-                "author": "etymon_official",
-                "etymology": {
-                        "breakdown": [
-                                {
-                                        "text": "de-",
-                                        "type": "prefix",
-                                        "meaning": "否定、不、離脱",
-                                        "lang": "Latin"
-                                },
-                                {
-                                        "text": "battuere",
-                                        "type": "root",
-                                        "meaning": "打つ、叩く",
-                                        "lang": "Latin"
-                                }
-                        ],
-                        "original_statement": "The word 'debate' originates from the Old French 'debatre', based on Latin roots where 'de-' implies opposition and 'battuere' means to beat."
-                },
-                "core_concept": {
-                        "en": "Debate is the dance of minds clashing like swords, seeking not to wound but to illuminate.",
-                        "ja": "心の剣が交わり、傷つけることなく光を求める心の舞踊。"
-                },
-                "thinking_layer": "議論とは、言葉の剣がぶつかり合う戦場である。しかし、この戦場は流血の場ではなく、光を見出だすための光明の場である。それは、心と思考の持つ力が、異なる視点や価値観を超えて結び付き合う試みであり、私たちが真実を垣間見るための鏡のようでもある。そして、その過程において、我々は相手の言葉に耳を傾け、理解することで、自らの内面に新たな景色を見つけることができる。議論は、自分だけの信念に安住することから目を逸らし、未知の領域へと心の翼を広げるための訓練でもある。そこには時に痛みも伴うが、その痛みを通じて我々は成長し、賢明さを手に入れることができる。議論を経て、言葉の中の深い知恵を引き出すことができるのだ。この過程を通し、思考は自己の外に在る広大な世界と出会い、心の中に新たな道筋を創造し続ける。議論とは、思索の果てしない旅のための、扉を開く鍵となるものである。",
-                "synonyms": [
-                        "Discussion",
-                        "Argument"
-                ],
-                "antonyms": [
-                        "Agreement",
-                        "Silence"
-                ],
-                "aftertaste": "In the arena of minds, truth is the only victor.",
-                "deep_dive": {
-                        "roots": [
-                                {
-                                        "term": "battuere",
-                                        "meaning": "to beat or strike"
-                                }
-                        ],
-                        "points": [
-                                "議論の語源は対立を意味するラテン語であるが、それは同時に共鳴の可能性をも含んでいる。"
-                        ]
-                },
-                "source": "Online Etymology Dictionary",
-                "date": "2026-03-01",
-                "era": "14th Century"
-        },
-        {
-                "id": "confide",
-                "word": "Confide",
+                "id": "compute",
+                "word": "Compute",
                 "part_of_speech": "verb",
-                "meaning": "心を許して話す",
+                "meaning": "計算する",
                 "author": "etymon_official",
                 "etymology": {
                         "breakdown": [
                                 {
                                         "text": "com-",
                                         "type": "prefix",
-                                        "meaning": "共に",
+                                        "meaning": "一緒に",
                                         "lang": "Latin"
                                 },
                                 {
-                                        "text": "fidere",
+                                        "text": "putare",
                                         "type": "root",
-                                        "meaning": "信じる",
+                                        "meaning": "考える、計算する",
                                         "lang": "Latin"
                                 }
                         ],
-                        "original_statement": "The word 'confide' originates from the Latin 'confidere', meaning to trust or have faith in."
+                        "original_statement": "The word 'compute' originated from the Latin 'computare', which means to calculate or reckon, combining 'com-' (together) and 'putare' (to prune, reckon, or consider)."
                 },
                 "core_concept": {
-                        "en": "The delicate art of opening one's heart to another.",
-                        "ja": "他者に心を開く繊細な芸術"
+                        "en": "The harmonious dance of numbers and logic.",
+                        "ja": "数字と論理の調和の舞踏"
                 },
-                "thinking_layer": "「信頼」という言葉を深く追究すると、それは人間関係の根幹にある信義と愛の融合を象徴しています。古代ラテン語の「fidere」が示すように、信頼は単なる契約ではなく、双方の心理的な繋がりを反映しています。その本質は、他者に自分の心を明け渡すという勇気にあり、そしてその行為はまた、互いの影響し合う化学反応を生み出します。同時に、この信頼が裏切られたとき、心に刻まれる痛みは計り知れないものです。しかし、だからこそ、それは貴重であり、人生における弁証法的な成長を促します。深い信頼は人を高め、疑念を超越した真実の理解をもたらすのです。信じることはある意味で、一つの賭けのようなもの。誠実さという土台の上に構築され、時間をかけて固まっていくものなのです。そして、どこまでも人間の精神の高貴さを示す美しい行為です。",
+                "thinking_layer": "コンピュータの果たす役割を考えると、それは単なる計算装置を超えた、知性と創造性の糸で織りなされる思考のツールとして私たちの生活を深く変革したものと言えるでしょう。無数の0と1が織り成す黄金の織物として、情報を処理し、新たな知識の地平を広げる。この観点から、コンピュータは現代の叡智の象徴と言えます。私たちが日々行う計算やプログラミングは、まさに人間の知性の集約であり、また宇宙的な秩序の中での数学の美しさを映し出す鏡でもあります。コンピュータが演算するその瞬間、それは単なる数値処理を超え、内なる宇宙と共鳴する深遠なメロディを奏でているのです。この知的な音楽は、個々の意思決定から複雑な社会現象までを解き明かし、私たちがまだ見ぬ未来へと導く灯火となるでしょう。",
                 "synonyms": [
-                        "Trust",
-                        "Entrust"
+                        "calculate",
+                        "reckon"
                 ],
                 "antonyms": [
-                        "Distrust",
-                        "Mistrust"
+                        "estimate",
+                        "guess"
                 ],
-                "aftertaste": "Confiding is the architecture of human connection.",
-                "deep_dive": {
-                        "roots": [
-                                {
-                                        "term": "fidere",
-                                        "meaning": "to trust"
-                                }
-                        ],
-                        "points": [
-                                "「信頼」という概念は、感情の相互作用と人間関係の深層に根ざしており、単なる機能的なものではなく、精神と心の結びつきにおける基盤的要素です。"
-                        ]
-                },
-                "source": "Etymonline",
-                "date": "2026-03-01",
-                "era": "Late Middle English"
-        },
-        {
-                "id": "immerse",
-                "word": "Immerse",
-                "part_of_speech": "verb",
-                "meaning": "没入する、浸す、沈める",
-                "author": "etymon_official",
-                "etymology": {
-                        "breakdown": [
-                                {
-                                        "text": "imm-",
-                                        "type": "prefix",
-                                        "meaning": "中に",
-                                        "lang": "Latin"
-                                },
-                                {
-                                        "text": "mergere",
-                                        "type": "root",
-                                        "meaning": "沈める",
-                                        "lang": "Latin"
-                                }
-                        ],
-                        "original_statement": "The word 'immerse' originates from the Latin ‘immergere’, which means 'to plunge into or dip'."
-                },
-                "core_concept": {
-                        "en": "To become enveloped deeply in the flow of existence.",
-                        "ja": "存在の流れに深く包まれること"
-                },
-                "thinking_layer": "『没入』という概念は、まるで魂が宇宙の水流に投げ入れられ、形而上の旅を始めるかのようです。その状態は、自らの内なる意識と外界の境界が溶け合う瞬間。深い集中は、自己を忘れ、瞬間に生き、在り続ける智慧へと通じます。すべてが相互に影響し、一体となって流れ出すような感覚。心の中のさざ波が静まり、時間という概念が溶けていく寂として静かな領域。塵のような俗世の考えから解放され、新たな発見と驚嘆の世界へと導かれる。『没入』することによって、人はより深い自己理解と、普遍的真理の一端に触れることができるのです。言葉が持つ無限の可能性を体感し、その瞬間瞬間を深め、時にはただの存在そのものとなる。そこに時間軸や空間の制約はなく、ただ、ありのままの存在が輝いているのです。",
-                "synonyms": [
-                        "Engulf",
-                        "Submerge"
-                ],
-                "antonyms": [
-                        "Emerge",
-                        "Withdraw"
-                ],
-                "aftertaste": "To immerse is to lose oneself and find the universe within.",
-                "deep_dive": {
-                        "roots": [
-                                {
-                                        "term": "mergere",
-                                        "meaning": "to plunge, dip"
-                                }
-                        ],
-                        "points": [
-                                "語源的にはラテン語の‘immergere’から来ており、『自分を完全に周りの何かに投じる』という意義がある。"
-                        ]
-                },
-                "source": "Oxford English Dictionary",
-                "date": "2026-03-01",
-                "era": "15th Century"
-        },
-        {
-                "id": "deflate",
-                "word": "Deflate",
-                "part_of_speech": "verb",
-                "meaning": "空気を抜く、萎む",
-                "author": "etymon_official",
-                "etymology": {
-                        "breakdown": [
-                                {
-                                        "text": "de-",
-                                        "type": "prefix",
-                                        "meaning": "否定、取り除く",
-                                        "lang": "Latin"
-                                },
-                                {
-                                        "text": "flare",
-                                        "type": "root",
-                                        "meaning": "膨らむ、吹く",
-                                        "lang": "Latin"
-                                }
-                        ],
-                        "original_statement": "The term 'deflate' traces back to the Latin 'de-' meaning 'down' or 'away' combined with 'flare' meaning 'to blow'. It entered the English language in the 16th century."
-                },
-                "core_concept": {
-                        "en": "The gentle surrender of resistance, where fullness yields to simplicity.",
-                        "ja": "満ちた状態からの優雅な譲歩、単純さへと至る道"
-                },
-                "thinking_layer": "『膨らむ』こと、その特性は希望や可能性を象徴する。しかし、『収縮』や『しぼむ』こともまた成熟の美しさを秘めている。生物がその成長ステージの中で迎えるこの凋落の過程は、しばしば哀愁を漂わせるが、その根底には新たな始まりの兆しが秘められている。風船が空気を失いしぼむ時、その静けさにはある種の安らぎがあり、無用な虚飾を脱ぎ捨てた純粋な状態に帰ることを告げている。我々の心においても、成長とともに膨らむ自我や欲望を、時に手放す勇気が必要であり、その際に訪れる静寂と平静には、真の成熟と洞察が宿るのである。過剰な期待で膨らんだ夢が、現実によって静かに萎んでいく様は、決して終わりではなく、新たな可能性を秘めた始まりである。このように『デフレート』は単なる空気を抜く行為以上の、人生の哲学を反映している言葉なのだ。",
-                "synonyms": [
-                        "collapse",
-                        "compress"
-                ],
-                "antonyms": [
-                        "inflate",
-                        "expand"
-                ],
-                "aftertaste": "Embracing deflation is akin to rediscovering simplicity in its purest form.",
-                "deep_dive": {
-                        "roots": [
-                                {
-                                        "term": "flare",
-                                        "meaning": "to blow"
-                                }
-                        ],
-                        "points": [
-                                "ラテン語での動詞 'flare' がその起源であり、空気や気体の膨張を示す。語源学的には、この概念はパンを膨らませる動作にも匹敵するが、逆にデフレートすることは膨張の逆過程、すなわち要素の取り除きを指す。ラテン語での接頭辞 'de-' は否定や除去の意味を持ち、動詞全体を方向転換する働きをしている。"
-                        ]
-                },
-                "source": "Online Etymology Dictionary",
-                "date": "2026-03-01",
-                "era": "16th Century"
-        },
-        {
-                "id": "contradict",
-                "word": "Contradict",
-                "part_of_speech": "verb",
-                "meaning": "逆らう、否定する",
-                "author": "etymon_official",
-                "etymology": {
-                        "breakdown": [
-                                {
-                                        "text": "contra-",
-                                        "type": "prefix",
-                                        "meaning": "反対",
-                                        "lang": "Latin"
-                                },
-                                {
-                                        "text": "dicere",
-                                        "type": "root",
-                                        "meaning": "言う",
-                                        "lang": "Latin"
-                                }
-                        ],
-                        "original_statement": "The word 'contradict' originates from the Latin 'contradicere', combining 'contra' meaning 'against' and 'dicere' meaning 'to speak'."
-                },
-                "core_concept": {
-                        "en": "A clash of spoken truths that oppose each other in the dance of discourse.",
-                        "ja": "議論の舞において、相反する真実が語られる衝突。"
-                },
-                "thinking_layer": "言葉が交わされる場において、「矛盾」という概念は、静かなる哲学のさざ波を引き起こす。この言葉は、人間の心の内にひそむ絶え間ない内向と外向の葛藤を象徴する。私たちの存在は、過去と未来、真実と虚偽、自己と他者の対立する力に引っ張られている。この中で、矛盾はその中心に立ち、深い洞察を生む場を提供する。矛盾はただの不一致ではない。それは新たな思想や洞察を引き出す契機であり、進化するプロセスの一部だ。自己の中に抱える矛盾を抱擁することによって、人はより深い理解へと導かれる。その過程では、異なる視点が融合することで、より豊かな意味の層が形成される。矛盾を通して真理に近づくことは、自然の理に従ったものであり、共存する複数の真実を認めることこそが本当の知識へと通じる道である。哲学的には、この複雑な舞踊の中で、矛盾は美しく力強い一歩を刻むのだ。故に、矛盾はよどみなく流れる時間の中において、人が受け入れるべきダイナミズムである。",
-                "synonyms": [
-                        "Deny",
-                        "Refute"
-                ],
-                "antonyms": [
-                        "Agree",
-                        "Confirm"
-                ],
-                "aftertaste": "In the tapestry of words, contradiction paints the shadows necessary to define the light.",
-                "deep_dive": {
-                        "roots": [
-                                {
-                                        "term": "dicere",
-                                        "meaning": "to speak"
-                                }
-                        ],
-                        "points": [
-                                "「contradict」は、ラテン語の「contra（反対）とdicere（言う）」から来ている。古代ローマにおいて、議論の中で反対することは哲学的探求と見なされていた。この対立構造が、後のヨーロッパ哲学における弁証法の概念形成に影響を与えた。"
-                        ]
-                },
-                "source": "Online Etymology Dictionary",
-                "date": "2026-03-01",
-                "era": "14th Century"
-        },
-        {
-                "id": "confusion",
-                "word": "Confusion",
-                "part_of_speech": "noun",
-                "meaning": "混乱、撹乱、誤解",
-                "author": "etymon_official",
-                "etymology": {
-                        "breakdown": [
-                                {
-                                        "text": "com-",
-                                        "type": "prefix",
-                                        "meaning": "ともに",
-                                        "lang": "Latin"
-                                },
-                                {
-                                        "text": "fundere",
-                                        "type": "root",
-                                        "meaning": "注ぐ",
-                                        "lang": "Latin"
-                                }
-                        ],
-                        "original_statement": "Derived from Latin 'confundere' meaning 'to mix together, pour together', which morphed into Old French 'confusion' and later Middle English as 'confusioun'."
-                },
-                "core_concept": {
-                        "en": "An entanglement of thoughts and perceptions, a symphony of disorder.",
-                        "ja": "思考と認識の絡み合い、無秩序な交響曲"
-                },
-                "thinking_layer": "混乱とは、人間の精神が直面する最も複雑で興味深い状態の一つです。情報が過剰に流れる現代社会では、混乱は避け難いものとなってきました。しかし、この状況は古来より多くの知識人や哲学者の研究対象でもありました。それは私たちが生きているこの瞬間に、過去と未来、夢と現実の境界を溶かし去るかのような存在であり、理解と誤解が同時に存在する状態です。混乱の中に隠されている真実を見るには、目に見えるものを超え、心の奥底に潜む思考の層を探る必要があります。それはまるで霧の中に隠された森を彷徨うようなもので、この未知なる体験を通じて初めて明らかになる新たな知覚の扉があるのです。混乱はまた、一種の創造的な混沌でもあり、そこから新たな発展や革新が生まれる力を秘めています。すべてが溶け込んだその流れに逆らわずに身を委ねること、それこそが混乱と共生するための鍵となるのかもしれません。",
-                "synonyms": [
-                        "Disorder",
-                        "Chaos"
-                ],
-                "antonyms": [
-                        "Clarity",
-                        "Order"
-                ],
-                "aftertaste": "In confusion lies the seed of transformation.",
-                "deep_dive": {
-                        "roots": [
-                                {
-                                        "term": "fundere",
-                                        "meaning": "to pour"
-                                }
-                        ],
-                        "points": [
-                                "‘混乱’という言葉が示すのは、単なる複雑さの集積ではなく、むしろそれが私たちに何を問いかけているのかを知るための探求の始まりでもあるということです。"
-                        ]
-                },
-                "source": "Online Etymology Dictionary",
-                "date": "2026-03-01",
-                "era": "14th Century"
-        },
-        {
-                "id": "ponderous",
-                "word": "Ponderous",
-                "part_of_speech": "adjective",
-                "meaning": "重々しい、どっしりとした",
-                "author": "etymon_official",
-                "etymology": {
-                        "breakdown": [
-                                {
-                                        "text": "pondus-",
-                                        "type": "root",
-                                        "meaning": "重さ",
-                                        "lang": "Latin"
-                                }
-                        ],
-                        "original_statement": "Derived from Latin 'ponderosus', meaning having great weight, heavy."
-                },
-                "core_concept": {
-                        "en": "A soul weighed by the gravity of its thoughts.",
-                        "ja": "思考の重みによって圧倒される魂"
-                },
-                "thinking_layer": "『ponderous』という言葉は、単に物理的な重さを表すだけでなく、時に絶え間ない思索の重さ、魂そのものの重みにも通じる。人は何をもってその重さを感じるのか？それは、人生の複雑な問題、避けられない運命、そして存在そのものの神秘に対する終わりなき問いが原因である。重さとは、単なる質量の表現ではなく、それは心の内に渦巻く深層の感情、それを抑えきれずに溢れる思念の結晶である。時にその重さは我々を地に伏せさせるが、他方でその重さは怪しげな力で地に縛りつける喜びをもたらす。我々はその重さを、己の人生の内なる律動として捉える他ないのかもしれない。それこそが一つの生きる意味を与え、同時に苦悩を生むのだ。深い深海に潜るようにして、思索の重みを心底から味わうことによって、人はより深い自己認識へと至る。それはまた、光を求めて地上へと帰還することをいつも心に留めながらの旅である。",
-                "synonyms": [
-                        "Heavy",
-                        "Weighty"
-                ],
-                "antonyms": [
-                        "Light",
-                        "Airy"
-                ],
-                "aftertaste": "The weight of words often exceeds the burden of silence.",
-                "deep_dive": {
-                        "roots": [
-                                {
-                                        "term": "pondus",
-                                        "meaning": "weight"
-                                }
-                        ],
-                        "points": [
-                                "ラテン語の根源である『pondus』は、単なる物理的な重さを超え、対人的、精神的な重みを内包するものである。"
-                        ]
-                },
-                "source": "Oxford English Dictionary",
-                "date": "2026-03-01",
-                "era": "Late Middle English"
-        },
-        {
-                "id": "umbral",
-                "word": "Umbral",
-                "part_of_speech": "adjective",
-                "meaning": "影に関連する、または影響されるもの",
-                "author": "etymon_official",
-                "etymology": {
-                        "breakdown": [
-                                {
-                                        "text": "umbra",
-                                        "type": "root",
-                                        "meaning": "影",
-                                        "lang": "ラテン語"
-                                }
-                        ],
-                        "original_statement": "The term 'umbral' originates from the Latin word 'umbra', meaning 'shadow'. It was first used in the mid-17th century to describe things pertaining to or resembling a shadow."
-                },
-                "core_concept": {
-                        "en": "A poetic interplay of light and shadow.",
-                        "ja": "光と影の詩的な絡み合い"
-                },
-                "thinking_layer": "「影」とは、存在の実体が光によって姿を消される空間の痕跡である。物質が光を断ち切ることで生じる闇は、ある種の陰翳美を紡ぎ出す。それはまた、形而上学的領域における「不在の存在」を象徴する。この暗闇な陰影は、我々の現実の認識や心の中の不確かな領域を喚起する。影は、対象が存在しながらも否定され、認識と感覚の狭間で揺らぐ中間的存在である。影の中に漂う無音の声に耳を澄ますならば、そこには静かに語る無数の物語が存在する。影の美学は、明瞭な形に囚われない流動的で曖昧な美であり、そこにこそ深遠な哲学的深みが宿る。一方では明るく、一方では暗い、影の本質。私たちの内面的な旅を促し、見えないものに感じ入るその心を呼び覚ます。このように、「影」は常に新たな意味を内包し、風景を詩的に彩るものである。",
-                "synonyms": [
-                        "shadowy",
-                        "shaded"
-                ],
-                "antonyms": [
-                        "illuminated",
-                        "vivid"
-                ],
-                "aftertaste": "In the umbral embrace, clarity emerges uniquely from the shadows.",
-                "deep_dive": {
-                        "roots": [
-                                {
-                                        "term": "umbra",
-                                        "meaning": "shadow"
-                                }
-                        ],
-                        "points": [
-                                "「umbral」という言葉は、光と影の絶妙なバランスを探求する視座を提供する。影に隠されたものが時に最も真実を語るという見解に基づく、形而上学的豊かさが付与される。この単語は、影の持つ文化的、精神的意義の重みを認識する手掛かりとなる。"
-                        ]
-                },
-                "source": "Oxford English Dictionary",
-                "date": "2026-03-01",
-                "era": "17th Century"
-        },
-        {
-                "id": "jeopardous",
-                "word": "Jeopardous",
-                "part_of_speech": "adjective",
-                "meaning": "危険をはらむ",
-                "author": "etymon_official",
-                "etymology": {
-                        "breakdown": [
-                                {
-                                        "text": "jeopardy",
-                                        "type": "root",
-                                        "meaning": "危険",
-                                        "lang": "Middle English"
-                                },
-                                {
-                                        "text": "-ous",
-                                        "type": "suffix",
-                                        "meaning": "～の性質を持つ",
-                                        "lang": "Latin"
-                                }
-                        ],
-                        "original_statement": "Derived from the Middle English 'jeopardie', which means peril or danger, combined with the suffix '-ous' indicating possession of a quality."
-                },
-                "core_concept": {
-                        "en": "A dance upon the edge of inevitable peril, where each moment glimmers with uncertain fate.",
-                        "ja": "避けられない危険の縁での舞踏であり、すべての瞬間が不確定な運命と輝いている。"
-                },
-                "thinking_layer": "危険という概念は、私たちが生の中で避けられない部分である。人生の最も美しい瞬間は、しばしば危険の香りを纏っている。危険に面するとき、人はより鋭敏になる。心臓は高鳴り、意識は鮮やかに目覚め、刹那ごとの命の儚さを痛感する。『危険』という言葉は、古の時代から我々の意識を揺さぶり続け、芸術や哲学の中で形を変えて登場する。危険は、力強さと脆さ、勇気と恐怖の間を往復する人間の存在そのものである。そして、その中に潜む均衡の美しさは、自然界の絶妙な調和に似ている。危険を知ることは、また、その中に潜む可能性を見出すことであり、困難を克服する力の中に新たな自己を発見する旅でもある。危険の中にこそ、私たちは生の意味を見出し、その鋭利な縁を踏みしめたその先に、真なる安らぎが見えてくるのかもしれない。",
-                "synonyms": [
-                        "Perilous",
-                        "Hazardous"
-                ],
-                "antonyms": [
-                        "Safe",
-                        "Secure"
-                ],
-                "aftertaste": "In the dance with danger, we touch the essence of life.",
-                "deep_dive": {
-                        "roots": [
-                                {
-                                        "term": "jeopardy",
-                                        "meaning": "danger"
-                                }
-                        ],
-                        "points": [
-                                "『jeopardy』という語は、中世英語からの借用語であり、この語根は危険という意味を持つ。この語にさらに『-ous』というラテン語由来の接尾辞が付加され、その性質を示す。"
-                        ]
-                },
-                "source": "Oxford English Dictionary",
-                "date": "2026-03-01",
-                "era": "13th Century, Middle English"
-        },
-        {
-                "id": "tangible",
-                "word": "Tangible",
-                "part_of_speech": "adjective",
-                "meaning": "触れることができる、明白な",
-                "author": "etymon_official",
-                "etymology": {
-                        "breakdown": [
-                                {
-                                        "text": "tangere",
-                                        "type": "root",
-                                        "meaning": "触れる",
-                                        "lang": "Latin"
-                                },
-                                {
-                                        "text": "-ible",
-                                        "type": "suffix",
-                                        "meaning": "可能な",
-                                        "lang": "Latin"
-                                }
-                        ],
-                        "original_statement": "Derived from Latin 'tangibilis', with roots in 'tangere' meaning 'to touch'."
-                },
-                "core_concept": {
-                        "en": "The palpable whisper of reality's edge.",
-                        "ja": "現実の縁にある触知できる囁き"
-                },
-                "thinking_layer": "「触れることができる」─それは物理的な距離を越えた存在との接触である。目に見えない何か、あるいは心の奥にひそむ感情、これを感知するための試みとも言うべきである。触覚という五感の中でも特に原始的なものに依存して、私たちは目に見える世界の偉大な海を航海する。触れられるということは、存在の確認のようなものであり、それゆえに人は安らぎを見出す。その背後には形のない現実が広がり、我々が目にし得ぬ領域へと一歩踏み出す挑戦を促す。この実体の手触り、それがもたらす確かさ、そして逆にそれを失った際の儚さを感じるとき、人生の真実が影を潜め始める。無形なるものに手を伸ばし、その存在の細やかな波動を探り始めること、それ自体が哲学なのだ。触れられるもの、それは一条の光であり、我々の幻影の中で唯一確かなるものの象徴である。限りない時間の流れの中で、人は何度この触れられる現実に救われたことだろうか。それは人間が常に求め続ける究極の安堵であり、まるで魂の航路を照らす灯火のように、私たちを導いていく。物理的に触れること以上のものとして、それは心に響き、私たちの存在の確証と化すのだ。",
-                "synonyms": [
-                        "Palpable",
-                        "Touchable"
-                ],
-                "antonyms": [
-                        "Intangible",
-                        "Ethereal"
-                ],
-                "aftertaste": "Reality, when touched, unveils its profound simplicity.",
-                "deep_dive": {
-                        "roots": [
-                                {
-                                        "term": "tangere",
-                                        "meaning": "to touch"
-                                }
-                        ],
-                        "points": [
-                                "『タンジブル』の語源はラテン語「タンギビルス」にあり、これは「触れる」ことを意味する「タンゲレ」に由来する。"
-                        ]
-                },
-                "source": "Oxford English Dictionary, EtymOnline",
-                "date": "2026-03-01",
-                "era": "15th Century"
-        },
-        {
-                "id": "navigate",
-                "word": "Navigate",
-                "part_of_speech": "verb",
-                "meaning": "道を見つけて進むこと",
-                "author": "etymon_official",
-                "etymology": {
-                        "breakdown": [
-                                {
-                                        "text": "navis-",
-                                        "type": "root",
-                                        "meaning": "船",
-                                        "lang": "Latin"
-                                },
-                                {
-                                        "text": "agare",
-                                        "type": "root",
-                                        "meaning": "操縦する",
-                                        "lang": "Latin"
-                                }
-                        ],
-                        "original_statement": "The word 'navigate' originates from the Latin 'navigare', which means 'to sail', combining 'navis' (ship) and 'agere' (to drive)."
-                },
-                "core_concept": {
-                        "en": "To traverse the unknown with purpose and craft.",
-                        "ja": "未知を目的と技巧で旅すること"
-                },
-                "thinking_layer": "ナビゲートとは、単なる地図上の線を辿る行為を超えて、人生という大海を渡るための哲学的コンパスである。私たちが進むべき道を選び、舵を取るのは、内なる信念と外界からの微細なバイブレーションの共鳴によって生まれる洞察である。航海は物理的な旅でもあるが、精神的な旅でもあり、人生の意味や目的を探求する旅路でもある。古代の船乗りたちが星座を頼りに航路を見いだしたように、現代の人々もまた自己の内なる星を読み解き、見えざる目的地を目指す。ナビゲートの本質は、このように外界からの情報と内なる声の調和を見つけるプロセスにある。人生の海は広大で、時に無情であるが、この行為を通じて私たちは孤独を乗り越え、存在の真意を感じ取ることができる。",
-                "synonyms": [
-                        "Steer",
-                        "Guide"
-                ],
-                "antonyms": [
-                        "Wander",
-                        "Stray"
-                ],
-                "aftertaste": "Navigating is the art of harmonizing with the journey of life.",
-                "deep_dive": {
-                        "roots": [
-                                {
-                                        "term": "navis",
-                                        "meaning": "ship"
-                                },
-                                {
-                                        "term": "agere",
-                                        "meaning": "to drive"
-                                }
-                        ],
-                        "points": [
-                                "ナビゲートの語源は、物理的な航海能力と精神的な洞察力の双方を包含するものである。"
-                        ]
-                },
-                "source": "Online Etymology Dictionary",
-                "date": "2026-03-01",
-                "era": "15th Century"
-        },
-        {
-                "id": "assemble",
-                "word": "Assemble",
-                "part_of_speech": "verb",
-                "meaning": "集める、組み立てる",
-                "author": "etymon_official",
-                "etymology": {
-                        "breakdown": [
-                                {
-                                        "text": "ad-",
-                                        "type": "prefix",
-                                        "meaning": "〜へ",
-                                        "lang": "Latin"
-                                },
-                                {
-                                        "text": "simulare",
-                                        "type": "root",
-                                        "meaning": "同じにする",
-                                        "lang": "Latin"
-                                }
-                        ],
-                        "original_statement": "The word 'assemble' originates from the Latin 'assimulare' meaning 'to make similar', and was embraced by Old French as 'assembler'. Eventually, it entered Middle English in the 14th century."
-                },
-                "core_concept": {
-                        "en": "The unification of parts into a harmonious whole.",
-                        "ja": "部分を調和の中にまとめること"
-                },
-                "thinking_layer": "集まること、そしてそれが生む共鳴は、まるで宇宙のリズムと共鳴する音楽の調べのようである。点と点が線になり、無数の線が描く無限の図柄のように、人々は目的や感情を共有し、共にひとつの壮大な物語を紡ぎ出す。物質的な世界では、組み立てることが新たな機能や形を創り出し、それぞれの要素がその姿を主体に変化させつつ、それぞれの特質を活かしてまた新しい全体を構成する。哲学的には、集合と組み立てることは人間の存在そのものを反映している。なぜならば、人生そのものが無数の経験や記憶、そして意義の組み合わせに他ならないからである。一つの存在が他者と繋がり、共鳴し、自己を超越したある新たな「何か」に成り得る、その希望が「assemble」という行為に内在するのである。偶然の繋がりさえも、時には意図として発展し、生命が持つ本質を再発見する旅路へと誘う。人が集うとき、それは物理的な結合に留まらず、精神的な共鳴を生むのだ。",
-                "synonyms": [
-                        "Gather",
-                        "Collect"
-                ],
-                "antonyms": [
-                        "Disperse",
-                        "Scatter"
-                ],
-                "aftertaste": "In unity, we discover the orchestra of existence.",
-                "deep_dive": {
-                        "roots": [
-                                {
-                                        "term": "simulare",
-                                        "meaning": "to make similar or alike"
-                                }
-                        ],
-                        "points": [
-                                "言葉はラテン語の 'simulare' を起源に持ち、同化や一致を意味し、それが組織化や協調の基本原理である。"
-                        ]
-                },
-                "source": "Online Etymology Dictionary",
-                "date": "2026-03-01",
-                "era": "14th Century, Middle English"
-        },
-        {
-                "id": "pierce",
-                "word": "Pierce",
-                "part_of_speech": "verb",
-                "meaning": "穴をあける、貫通する",
-                "author": "etymon_official",
-                "etymology": {
-                        "breakdown": [
-                                {
-                                        "text": "pierce",
-                                        "type": "root",
-                                        "meaning": "突き通す",
-                                        "lang": "Middle English"
-                                }
-                        ],
-                        "original_statement": "The word 'pierce' originated in Middle English, derived from the Old French 'percier' which means to pierce or penetrate, itself stemming from the Latin 'pertusiare'."
-                },
-                "core_concept": {
-                        "en": "To break through barriers, declaring one's existence starkly.",
-                        "ja": "障壁を突破し、自らの存在を鮮やかに宣言すること。"
-                },
-                "thinking_layer": "貫くこととは、ただ肉体を通過する行為にとどまらず、しばしば心の奥深くをも揺さぶる。物理的な障壁だけではなく、精神的な抵抗、社会的な制限、そして時間に対する挑戦をも意味する行為である。例えば、風が樹木を揺らし、その葉を通り抜けていく様は、自然の中での調和と抗争の姿を象徴する。心が何かに打たれ、新たな認識へと至るとき、それは一種の「貫通」であり、そこには古い自我を突き破る痛みと新しい視野を得る希望が共存している。さらに、貫通は変化そのものであり、古いものを打ち砕き、新しい現実を創造する行為とも言える。一条の光が暗闇を相殺し、新たな朝を告げるように、個々の行動が持つ力は世界を形作る。貫く行為は、私たちが向かうべき方向を示す灯台となりうるのである。",
-                "synonyms": [
-                        "penetrate",
-                        "perforate"
-                ],
-                "antonyms": [
-                        "seal",
-                        "block"
-                ],
-                "aftertaste": "In piercing, we find the moment where limitation begets illumination.",
-                "deep_dive": {
-                        "roots": [
-                                {
-                                        "term": "percus",
-                                        "meaning": "to strike through"
-                                }
-                        ],
-                        "points": [
-                                "中世英語における「pierce」は、フランス語由来の用法から、強く差し込むか、抜けていく行為に由来していると言われる。"
-                        ]
-                },
-                "source": "Oxford English Dictionary",
-                "date": "2026-03-01",
-                "era": "Middle English, 12th Century"
-        },
-        {
-                "id": "ignite",
-                "word": "Ignite",
-                "part_of_speech": "verb",
-                "meaning": "火をつける、燃やす",
-                "author": "etymon_official",
-                "etymology": {
-                        "breakdown": [
-                                {
-                                        "text": "ignis-",
-                                        "type": "root",
-                                        "meaning": "火",
-                                        "lang": "ラテン"
-                                },
-                                {
-                                        "text": "-ite",
-                                        "type": "suffix",
-                                        "meaning": "動詞化する",
-                                        "lang": "英語"
-                                }
-                        ],
-                        "original_statement": "The word 'ignite' derives from the Latin 'ignīre', itself from 'ignis' meaning 'fire'."
-                },
-                "core_concept": {
-                        "en": "To awaken the dormant flames within.",
-                        "ja": "内なる炎を目覚めさせること"
-                },
-                "thinking_layer": "火を着けるという行為は、物理的な現象であると同時に、精神的な象徴でもある。火が燃えるとき、新たな可能性が生まれ、過去が灰になる。この逆説的な状態は、生と死、始まりと終わり、創造と破壊のバランスを映し出す。燃え盛る炎の踊る様は、生命の不安定さと、変わらざる真実を同時に示している。哲学的には、火を点けることは、心の奥底に隠された情熱や熱意を解放する行為でもある。それは、新たな挑戦の始まりであり、情熱の再生燃焼である。古代から、火は知識の比喩であり、闇から光をもたらす象徴であった。この炎を内的に点火するということは、自己発見の旅の一環であり、永遠に続く未知への熱烈な探求である。火が示す道は、変革の可能性を秘めた未踏の領域であり、それを信じる者だけが進める長い旅へと誘う道でもある。",
-                "synonyms": [
-                        "Inflame",
-                        "Kindle"
-                ],
-                "antonyms": [
-                        "Extinguish",
-                        "Quench"
-                ],
-                "aftertaste": "Ignite the light within, for the fire starves in shadows.",
-                "deep_dive": {
-                        "roots": [
-                                {
-                                        "term": "ignis",
-                                        "meaning": "fire"
-                                }
-                        ],
-                        "points": [
-                                "語源的には、ラテン語の『ignis』から派生し、火の本質を内包する。火は物質を変質させ、また精神をも変革しうる力を持つ。"
-                        ]
-                },
-                "source": "Oxford English Dictionary",
-                "date": "2026-03-01",
-                "era": "Early 17th century"
-        },
-        {
-                "id": "prescribe",
-                "word": "Prescribe",
-                "part_of_speech": "verb",
-                "meaning": "指示する、処方する",
-                "author": "etymon_official",
-                "etymology": {
-                        "breakdown": [
-                                {
-                                        "text": "pre-",
-                                        "type": "prefix",
-                                        "meaning": "前もって",
-                                        "lang": "Latin"
-                                },
-                                {
-                                        "text": "scribe",
-                                        "type": "root",
-                                        "meaning": "書く",
-                                        "lang": "Latin"
-                                }
-                        ],
-                        "original_statement": "From Latin 'praescribere', meaning to ordain or dictate, composed of 'prae-' (before) and 'scribere' (to write)."
-                },
-                "core_concept": {
-                        "en": "To write before action; to dictate the path and course from the foresight of wisdom.",
-                        "ja": "行為が行われる前に書き示し、知恵によって進路を定めること。"
-                },
-                "thinking_layer": "「処方」という言葉は、未来に光を投げかける行為である。人間は過去と現在を通して未来を模索する旅人であり、処方はその旅路の案内役である。星空の地図を描く天文学者のように、書かれた指示は、迷子になりやすい我々の航海に光をもたらす灯台である。無数の道が岐れ道に展開するが、処方された指示は、我々の選択を理想へと導く羅針盤となる。それはまた、癒しの儀式でもある。医者が処方する薬は、身体だけでなく、心の傷も癒す。そして、社会の法律や慣習としての処方は、個を超えた集合体としての我々の調和を追求する。こうした処方の背後には、常に深い思索と思考が潜んでいる。それらは、人類が進化の過程で産み出した知性の結晶として、混沌の中に秩序を導き入れる力を持つ。確かに、処方という行為には、我々の最も深い本質が宿っているのだ。新たな一歩を踏み出す際に、処方された道筋は希望と未来の絆を象徴するものである。",
-                "synonyms": [
-                        "Dictate",
-                        "Specify"
-                ],
-                "antonyms": [
-                        "Prohibit",
-                        "Neglect"
-                ],
-                "aftertaste": "Prescribing is the gentle craft of carving fate from the tapestry of time.",
-                "deep_dive": {
-                        "roots": [
-                                {
-                                        "term": "scribe",
-                                        "meaning": "to write"
-                                }
-                        ],
-                        "points": [
-                                "ラテン語の根源から来る「書く」という行為には、単に紙に記す以上の意味がある。それは記憶を刻み、未来を形作る創造の原動力である。"
-                        ]
-                },
-                "source": "Oxford English Dictionary",
-                "date": "2026-03-01",
-                "era": "Latin, 14th Century"
-        },
-        {
-                "id": "reputation",
-                "word": "Reputation",
-                "part_of_speech": "noun",
-                "meaning": "評判、名声",
-                "author": "etymon_official",
-                "etymology": {
-                        "breakdown": [
-                                {
-                                        "text": "re-putare",
-                                        "type": "prefix/root",
-                                        "meaning": "再び考える",
-                                        "lang": "Latin"
-                                }
-                        ],
-                        "original_statement": "The word 'reputation' originates from the Latin 'reputatio', which means 'consideration' or 'calculation', conjuring the act of repeatedly pondering or assessing someone's merits or achievements."
-                },
-                "core_concept": {
-                        "en": "The reflective mirror of the soul as seen through the eyes of society.",
-                        "ja": "社会の眼を通して見られる魂の反映する鏡"
-                },
-                "thinking_layer": "評判とは人が生きる上で刻まれる無言の歴史であり、やがて形作られる見えない名刺でもあります。それは時間の流れの中で、一つ一つの行いとそれに対する他者の評価が積み重なり、私たちの人間関係や社会的位置を形作ります。評判は、過去の行いが現実を照らし、未来の道を示す灯火であり、さらに内なる人格の表現としての仮面でもあります。このように、評判は単なる他者からの評価ではなく、自己認識と他者認識が交錯する複雑で動的な哲学的概念です。その範囲や影響力は、時に不確かで一瞬の出来事により揺らぐこともありますが、長い年月を共有した時間が重なることでゆっくりと形成される不動のものでもあります。その本質は、他者の目に映ることで初めて意味をなす孤高の存在なのです。評判とは、人間存在の証でありつつも、空気のように目に見えないが、常に周囲との相互作用を経て形作られる不可視の輪です。",
-                "synonyms": [
-                        "Fame",
-                        "Renown"
-                ],
-                "antonyms": [
-                        "Infamy",
-                        "Obscurity"
-                ],
-                "aftertaste": "Reputation acts as the silent echo of one's actions in the world.",
+                "aftertaste": "To compute is to converse with the quiet logic of the universe.",
                 "deep_dive": {
                         "roots": [
                                 {
                                         "term": "putare",
-                                        "meaning": "to think, to value, to reckon"
+                                        "meaning": "to reckon or consider"
                                 }
                         ],
                         "points": [
-                                "ラテン語のroot 'putare'は、考える、評価する、計算するという意味を持つ。この単語は、合理的な考察を示唆し、評判が単なる偶然ではなく、体系的な評価であることを示している。"
-                        ]
-                },
-                "source": "Oxford English Dictionary",
-                "date": "2026-03-01",
-                "era": "Late Middle English, 14th Century"
-        },
-        {
-                "id": "venture",
-                "word": "Venture",
-                "part_of_speech": "noun/verb",
-                "meaning": "冒険、リスクを伴った試み",
-                "author": "etymon_official",
-                "etymology": {
-                        "breakdown": [
-                                {
-                                        "text": "adventure",
-                                        "type": "root",
-                                        "meaning": "冒険",
-                                        "lang": "French"
-                                },
-                                {
-                                        "text": "-ura",
-                                        "type": "suffix",
-                                        "meaning": "意味を拡張する",
-                                        "lang": "Latin"
-                                }
-                        ],
-                        "original_statement": "The word 'venture' originates from the Late Latin 'adventura', passing through Old French 'aventure'."
-                },
-                "core_concept": {
-                        "en": "Embrace of the unknown with courage.",
-                        "ja": "未知に対する勇敢な抱擁"
-                },
-                "thinking_layer": "『ベンチャー』という言葉には、未知の領域に自らを投じる人間の果敢な姿が映し出されています。それは、確実性のない未来への一歩を踏み出す行為であり、成功も失敗もその先になければ見えないという挑戦への意志の表れです。冒険心とは単なる好奇心ではなく、リスクを伴った未知への旅に自らを運命的に委ねる決断です。ベンチャーは、確実性に支配されない自由を選び取ることを意味し、その選択は我々を無限可能性の未来へと導きます。人生とは数え切れない選択の連続であり、そのひとつひとつが小さき冒険とも言えるでしょう。まさに、時間という砂時計を逆さにすることなく、一瞬一瞬を最善の形で使い切ろうとする生き方の象徴でもあります。世界の終わりを恐れることなく、次の道を拓く覚悟。未知の地平に光を求めるその姿こそ、ベンチャーの核心にある精神です。",
-                "synonyms": [
-                        "undertaking",
-                        "enterprise"
-                ],
-                "antonyms": [
-                        "certainty",
-                        "security"
-                ],
-                "aftertaste": "In venturing, the soul dares its destiny.",
-                "deep_dive": {
-                        "roots": [
-                                {
-                                        "term": "adventure",
-                                        "meaning": "to risk or dare"
-                                }
-                        ],
-                        "points": [
-                                "ラテン語の'冒険'は、運命を試すというアクションを指します。それは古代から人類を動かしてきた根源的欲望を反映しています。"
+                                "語源的には、ラテン語の「コンプターレ」から派生し、「共に考える」といった深い意味を持っています。"
                         ]
                 },
                 "source": "Online Etymology Dictionary",
                 "date": "2026-03-01",
-                "era": "14th Century"
+                "era": "Late Middle English, circa 14th-15th Century"
         },
         {
-                "id": "impassive",
-                "word": "Impassive",
-                "part_of_speech": "adjective",
-                "meaning": "感情を出さない、無表情な",
+                "id": "curtains",
+                "word": "Curtains",
+                "part_of_speech": "noun",
+                "meaning": "窓や舞台を覆うための布",
                 "author": "etymon_official",
                 "etymology": {
                         "breakdown": [
                                 {
-                                        "text": "in-",
-                                        "type": "prefix",
-                                        "meaning": "否定",
-                                        "lang": "Latin"
-                                },
-                                {
-                                        "text": "passive",
+                                        "text": "curtain-",
                                         "type": "root",
-                                        "meaning": "受動的、感情に動かされる",
+                                        "meaning": "幕",
                                         "lang": "Latin"
                                 }
                         ],
-                        "original_statement": "The word 'impassive' originates from Latin roots 'in-' meaning 'not' and 'passive' which denotes being affected or moved by emotions."
+                        "original_statement": "The word 'curtains' originates from the Old French 'cortine' and Latin 'cortina', which referred to a hanging drape or curtain."
                 },
                 "core_concept": {
-                        "en": "An unwavering calmness in the face of turmoil.",
-                        "ja": "動揺の中で揺るぎない冷静さ"
+                        "en": "A veil that conceals the mundane, transforming spaces into realms of privacy and imagination.",
+                        "ja": "日常を覆い隠し、空間をプライバシーと想像の領域に変えるためのヴェール"
                 },
-                "thinking_layer": "「無表情」という状態は、単なる顔の表情の無さを超えて、内なる感情の波を乗り越える力強さの表現とも言える。感情が激しく揺さぶられる場面において、外見上は波一つ立たない湖のように振る舞うこの姿勢は、人がどのように自己を律するか、または感情を制御することによって、自己の内部により強固な領域を築こうとする試みと見ることができる。これは何も感情を抑えつけることを意味するのではなく、むしろ感情の波に溺れることなく、それを見つめ、共存する術を追求するという、哲学的な探求として捉えることができる。人生の風雨を経る中で、無表情という仮面が必ずしも空虚を示すものではなく、むしろ内面的な静穏を守るためのものなのかもしれない。そして、それはある種の内なる美と強さの表現であるとも言えるだろう。結局のところ、無表情とは、何も減ることなく、内的な豊かさを抱え込むための選択肢なのである。人はなぜ、どうして、無表情な面持ちを選ぶのか。その内なる理由を探ることは、自己理解を深化させる道でもある。",
+                "thinking_layer": "カーテンとは単なる物理的な分離を超えたものである。これは空間を形作り、視覚を遮ることにより、個人と世界との境界を描く。しかし、より深い意味では、カーテンは人間の心が構築する防御であり、内なる想像力の劇場への入り口である。外界と内界を分かつこの繊細な境界は、時に人間関係や社会の中で織りなされる微妙な緊張を象徴する。カーテンの背後には、個々の物語と個性が待ち受けており、一枚の布によって、それぞれの異なる宇宙が顕在化する。自然光がカーテンを通り進むとき、その影は時間の移ろいと記憶を映し出し、無常なる人生の象徴を人々の心に刻む。静かに流れる一日の終わり、カーテンを閉じる行為は、ある意味で、その日の物語を一度締めくくり、新たな始まりへの合図となるのである。",
                 "synonyms": [
-                        "Emotionless",
-                        "Indifferent"
+                        "drapes",
+                        "shades"
                 ],
                 "antonyms": [
-                        "Expressive",
-                        "Emotional"
+                        "openness",
+                        "exposure"
                 ],
-                "aftertaste": "To be impassive is to wear an armor of serenity.",
+                "aftertaste": "Curtains are the silent guardians of our sacred spaces, whispering the secrets of solitude.",
                 "deep_dive": {
                         "roots": [
                                 {
-                                        "term": "passive",
-                                        "meaning": "受動的であること"
+                                        "term": "cortina",
+                                        "meaning": "a hanging drape"
                                 }
                         ],
                         "points": [
-                                "「無表情」という言葉は、ラテン語の「passivus」に由来し、受動的であること、そして感情に影響されることを意味する。"
+                                "この言葉は、ラテン語の 'cortina' に由来し、物理的および精神的な遮蔽を暗示している。時代を経て、カーテンの役割は変化しつつも、その本質はプライバシーと舞台の瞬間的変容に深く結びついている。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "14th Century"
+        },
+        {
+                "id": "portfolio",
+                "word": "Portfolio",
+                "part_of_speech": "noun",
+                "meaning": "ポートフォリオは、作品や証券の集まりを指し、個人や企業の成果や投資を示す一纏まりのもの。",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "port-",
+                                        "type": "root",
+                                        "meaning": "運ぶ",
+                                        "lang": "ラテン語"
+                                },
+                                {
+                                        "text": "-folio",
+                                        "type": "suffix",
+                                        "meaning": "ページ、紙",
+                                        "lang": "ラテン語"
+                                }
+                        ],
+                        "original_statement": "The word 'portfolio' originates from the Italian 'portafoglio', which is derived from the Latin 'portare' meaning 'to carry' and 'folium' meaning 'leaf' or 'sheet'."
+                },
+                "core_concept": {
+                        "en": "A delicate mosaic of personal or financial artistry, an assemblage that reflects value.",
+                        "ja": "価値を映し出す個性や財務の芸術の繊細なモザイク。"
+                },
+                "thinking_layer": "ポートフォリオという言葉は、単なる紙や資料の集まりを超えて、我々の生き方や思考、果ては存在そのものを映し出す鏡のようなものです。それは人生の一幕一幕を束ね、我々の歴史や未来を形作り、記録し、そして伝える集合体です。ポートフォリオは、物質的な価値だけでなく、精神的な価値、つまり我々が何を大切にし、どのような夢を追い求める存在であるかを問う存在なのです。それは時に、自己を見つめ直し、内なる声に耳を傾けるためのツールでもあります。異なる要素が共鳴し合いながら新しい意味を生み出すのならば、それはまさに人生や宇宙の真理の縮図であり、永遠の問いかけに応える手がかりを示してくれます。ポートフォリオという一言の中に秘められた広がりは、我々の想像力を刺激し、未知なる可能性を開示します。",
+                "synonyms": [
+                        "collection",
+                        "assemblage"
+                ],
+                "antonyms": [
+                        "scatter",
+                        "disarray"
+                ],
+                "aftertaste": "A portfolio weaves together the threads of pursuits and passions, crafting a narrative of essence.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "portare",
+                                        "meaning": "to carry"
+                                },
+                                {
+                                        "term": "folium",
+                                        "meaning": "leaf or sheet"
+                                }
+                        ],
+                        "points": [
+                                "ポートフォリオは元々ラテン語の「portare」と「folium」に由来し、それは物体の単純な運搬だけでなく、思考や意図の共有、広まりの概念を含んでいた。"
                         ]
                 },
                 "source": "Oxford English Dictionary",
@@ -34131,524 +33369,152 @@ const WORDS = [
                 "era": "16th Century"
         },
         {
-                "id": "beach",
-                "word": "Beach",
+                "id": "foundation",
+                "word": "Foundation",
                 "part_of_speech": "noun",
-                "meaning": "砂浜や海岸線、特にリラックスしたり遊んだりする場所としての意識。",
+                "meaning": "基礎、土台",
                 "author": "etymon_official",
                 "etymology": {
                         "breakdown": [
                                 {
-                                        "text": "beach",
+                                        "text": "fundare",
                                         "type": "root",
-                                        "meaning": "水の縁にある陸地",
-                                        "lang": "Middle English"
-                                }
-                        ],
-                        "original_statement": "The word 'beach' is derived from the Middle English 'beche', which referred to the loose, pebbly shore of a body of water."
-                },
-                "core_concept": {
-                        "en": "A meeting point of earth and ocean where time lingers.",
-                        "ja": "地と海が出会い、時が漂う場"
-                },
-                "thinking_layer": "ビーチは、人類の思索と休息の永遠の舞台である。潮の満ち引きは、時間の流れを象徴し、そのリズムは我々の生命の周期を反映する。波の音は、古代の記憶を呼び起こし、心を洗い流す。砂浜に刻まれた足跡は、存在の儚さと旅の範囲を示す。かつて地球の境界だったビーチは、今では魂の境界線として存在し、訪れた者に一瞬の永遠を体験させる。地球と水が出会い、調和を求めるこの場所で、我々は日常の一時停止を求める。朝の光の中で新しい始まりを予感させ、夕日の下で過去を静かに受け入れる。ビーチは、その広大さの中で我々の内なる空虚を反射し、自然との無言の対話を可能にする。この場所で、自然の本質と人間の小ささを再認識することにより、我々はより深い理解と感謝を得る。ビーチは、その静寂と力強さを通じて、我々に存在の意味を問いかけ、無限の時間の中で有限の今を生きることの重要性を示す。",
-                "synonyms": [
-                        "shore",
-                        "coast"
-                ],
-                "antonyms": [
-                        "inland",
-                        "mountain"
-                ],
-                "aftertaste": "Behold where land meets the sea—a tender intersection of worlds.",
-                "deep_dive": {
-                        "roots": [
-                                {
-                                        "term": "beche",
-                                        "meaning": "shore"
-                                }
-                        ],
-                        "points": [
-                                "中世の英語における「beche」という語は、水辺に近い土壌を指しており、今のビーチの概念に直接つながっている。"
-                        ]
-                },
-                "source": "Oxford English Dictionary",
-                "date": "2026-03-01",
-                "era": "Middle English, 14th Century"
-        },
-        {
-                "id": "complain",
-                "word": "Complain",
-                "part_of_speech": "verb",
-                "meaning": "不満を表すこと、または訴えること",
-                "author": "etymon_official",
-                "etymology": {
-                        "breakdown": [
-                                {
-                                        "text": "com-",
-                                        "type": "prefix",
-                                        "meaning": "ともに",
+                                        "meaning": "基礎を築く",
                                         "lang": "Latin"
                                 },
                                 {
-                                        "text": "-plangere",
-                                        "type": "root",
-                                        "meaning": "叩く、打つ",
+                                        "text": "-tion",
+                                        "type": "suffix",
+                                        "meaning": "行為または状態",
                                         "lang": "Latin"
                                 }
                         ],
-                        "original_statement": "The term 'complain' originates from the Latin 'com-', meaning 'together', and 'plangere', meaning 'to beat or lament'."
+                        "original_statement": "The term 'foundation' derives from Middle English fundacioun, from Anglo-French fundation, and ultimately from Latin fundation-, fundatio, from fundare."
                 },
                 "core_concept": {
-                        "en": "A shared lament or expression of dissatisfaction.",
-                        "ja": "共に訴える嘆きの声"
+                        "en": "The grounding principle upon which worlds are built.",
+                        "ja": "世界が築かれる基盤となる原理"
                 },
-                "thinking_layer": "人間は古来より社会的な存在であり、自己の不満を他者と共有することで絆を深め、理解を得ようと努めてきた。その行為は単なる不満の訴えにとどまらず、魂の叫びとも言える。『不満』とは単なるネガティブな感情の表現ではなく、内に秘めた揺るがない真実を外界に伝えるための声である。それは共鳴し、反響を生むことを期待して発される、ある種の求道行である。その根底には、自己と他者の境界を超え、新たな共感の場を開拓する力が潜んでいる。このようにして、『不満を述べる』という行為は、個々の孤独な闘いを共同のものに変え、そこに新たな理解を構築していくのである。それは単なる醜態を晒す行為ではなく、愛の表現ですらある。自身の望む世界を探求し、そこに他者を迎え入れるための最初の一歩として機能するのだ。",
+                "thinking_layer": "『基礎』とは、目に見えない力であり、目に見えるものすべてを支える力でもある。建物が天空に向かって伸び、眺める者に情熱をかき立てるなら、その足元には必ず偉大なる基礎が存在する。それは見えぬ壁を創り出し、崩壊から守る盾である。この世のあらゆる事象の始まりには、必ず確かな基礎という存在がある。目に見えない基礎は、存在の根源を形作り、その声を聴く者は人生における足場を構築する。基礎という概念は、我々がその上に立ち、夢を実現するための前提条件であり、魂を安定させる滋養である。たとえ嵐が訪れたとしても揺るがぬ地盤に立つ者だけが、暗闇を乗り越える光を見つけることができるだろう。われわれが基礎を探求し、その価値を真に理解することができたとき、初めて新しい世界への扉が開かれるのだ。基礎とは、実体のある力であるがゆえに、その不動の強さを持ちながら、新たな未来を創造するための豊かな土壌となるのである。",
                 "synonyms": [
-                        "grumble",
-                        "lament"
+                        "Base",
+                        "Bedrock"
                 ],
                 "antonyms": [
-                        "praise",
-                        "commend"
+                        "Apex",
+                        "Summit"
                 ],
-                "aftertaste": "The act of complaining is an echo of our shared human longing for connection.",
+                "aftertaste": "A foundation is both cradle and crucible of enterprises.",
                 "deep_dive": {
                         "roots": [
                                 {
-                                        "term": "plangere",
-                                        "meaning": "to beat, lament"
+                                        "term": "fundamentum",
+                                        "meaning": "Ground, foundation"
                                 }
                         ],
                         "points": [
-                                "『plangere』はラテン語で物理的に叩くことを意味し、それが人々の心の悩みを打ちつける行為に転じた点が興味深い。"
-                        ]
-                },
-                "source": "Oxford English Dictionary",
-                "date": "2026-03-01",
-                "era": "14th Century"
-        },
-        {
-                "id": "assist",
-                "word": "Assist",
-                "part_of_speech": "noun/verb",
-                "meaning": "援助すること、補助すること",
-                "author": "etymon_official",
-                "etymology": {
-                        "breakdown": [
-                                {
-                                        "text": "ad-",
-                                        "type": "prefix",
-                                        "meaning": "～の方へ",
-                                        "lang": "ラテン語"
-                                },
-                                {
-                                        "text": "sistere",
-                                        "type": "root",
-                                        "meaning": "立つ",
-                                        "lang": "ラテン語"
-                                }
-                        ],
-                        "original_statement": "The word 'assist' comes from the Latin 'assistere', meaning 'to stand by'."
-                },
-                "core_concept": {
-                        "en": "To stand with gentle support.",
-                        "ja": "穏やかな支えとともに立つこと"
-                },
-                "thinking_layer": "援助とは、他者の元に静かに佇む行為である。風が木々を優しく撫でるように、援助は自然で、相手の存在をありのままに受け入れる。日本の古き良き文化においても、その精神は深く根付いている。例えば、茶道や禅において他者への心遣いは、形式や所作に現れる。この形而上的な関わり方は、ただ単に『助ける』という行為を超え、互いの存在を認め合う自己の在り方までも含んでいる。カントも述べたように、人間は目的そのものであり、その目的に寄り添うことが他者への最大の敬意となる。人間の行動は、単なる物質的な援助を超え、精神的な共鳴や心の支えを生む。慈しみ深い視線や肯定する言葉が、厳しい状況の中でどれほどの力を持つことか。人は、人を育む。援助することにより、私たちは共に立ち、共に成長を遂げるのだ。援助は、二者の間に新たな物語を紡ぐ始まりである。",
-                "synonyms": [
-                        "aid",
-                        "support"
-                ],
-                "antonyms": [
-                        "hinder",
-                        "obstruct"
-                ],
-                "aftertaste": "To assist is to weave the threads of solidarity.",
-                "deep_dive": {
-                        "roots": [
-                                {
-                                        "term": "sistere",
-                                        "meaning": "to stand"
-                                }
-                        ],
-                        "points": [
-                                "援助の語源はラテン語から来ており、時間とともにその意味合いが広がり、物理的な手助けだけでなく心の支えになることを示すようになった。"
+                                "基盤という概念は、あらゆる構造と秩序の起点である。"
                         ]
                 },
                 "source": "Online Etymology Dictionary",
                 "date": "2026-03-01",
-                "era": "Late Middle English"
+                "era": "14th Century"
         },
         {
-                "id": "confuse",
-                "word": "Confuse",
-                "part_of_speech": "verb",
-                "meaning": "混乱させる",
+                "id": "considerate",
+                "word": "Considerate",
+                "part_of_speech": "adjective",
+                "meaning": "思いやりのある",
                 "author": "etymon_official",
                 "etymology": {
                         "breakdown": [
                                 {
                                         "text": "con-",
                                         "type": "prefix",
-                                        "meaning": "ともに",
+                                        "meaning": "共に",
                                         "lang": "Latin"
                                 },
                                 {
-                                        "text": "fundere",
+                                        "text": "siderari",
                                         "type": "root",
-                                        "meaning": "注ぐ、流す",
+                                        "meaning": "星を観る",
                                         "lang": "Latin"
                                 }
                         ],
-                        "original_statement": "Derived from Latin 'confundere', meaning 'to mingle together'."
+                        "original_statement": "Derived from Latin 'consideratus', past participle of 'considerare', meaning to look at closely or examine, especially in reference to the stars and contemplate."
                 },
                 "core_concept": {
-                        "en": "To dissolve clarity into the realm of the ambiguous.",
-                        "ja": "明晰さを曖昧の領域に溶かすこと"
+                        "en": "To hold the stars within one's regard, contemplating their orderly dance, so as to reflect the same care in human interactions.",
+                        "ja": "人間関係において同じ配慮を映し出すために、秩序立った星々の舞を思い抱くこと。"
                 },
-                "thinking_layer": "混乱とは、明瞭さを曖昧さの海に放たれる行為です。それは、我々の内面の確かさを取り除き、無限の可能性と未知の中に我々を投げ込む行為でもあります。混乱の中では、安定性という岩礁を失い、思考は無定形な波となり漂います。この中では、結論を結ぶことはまるで分岐点のない道路を歩むかのよう。混乱は時に恐怖と不安を誘発しますが、それはまた、新たな知識と理解を生む肥沃な土地でもあるのです。明確であればこそ、人は成長し、混乱によってこそ哲学は深まる。古代より、混乱は生命の一部として受け入れられ、時には創造の母とも形容されます。それは同時に、限界を超えて考えることを促す試練であり、心の柔軟性を試す鍛錬です。この混乱という神秘的な状態は、自己を見つめ直し、存在の本質に対する新たな視点をもたらすものなのです。",
+                "thinking_layer": "『考える』という行為は、ただ単なる知的な活動を超えて、深淵なる内省へと誘います。この言葉の語源である「星を観る」行為には、人間の心が無限の宇宙に向けて視線を投げかけ、その秩序や混沌を理解しようとする試みが垣間見えます。星々は、計り知れないほどの時間と空間を超えて存在し、その存在は人間の小ささと同時にその偉大さを際立たせます。『considerate』であることは、ただ相手を思いやることを指すのではなく、広大な宇宙においての自己の位置を考え、そこに眺望する真摯な姿勢を保つことで、他者との調和を図ることを意味します。このような思索は、心の目を開き、自分の行いが大いなる布石の一つであることを理解させるのです。広大な宇宙というキャンバスに描かれる星々を見つめ、その調べに耳を傾けることで、私たちは本来の人間性に立ち帰るのです。",
                 "synonyms": [
-                        "Perplex",
-                        "Bewilder"
+                        "thoughtful",
+                        "considerate"
                 ],
                 "antonyms": [
-                        "Clarify",
-                        "Explain"
+                        "thoughtless",
+                        "inconsiderate"
                 ],
-                "aftertaste": "In confusion, the seeds of enlightenment are often sowed.",
+                "aftertaste": "Consideration is the silent elegance of the heart's cosmos.",
                 "deep_dive": {
                         "roots": [
                                 {
-                                        "term": "fundus",
-                                        "meaning": "底"
+                                        "term": "considerare",
+                                        "meaning": "to observe the stars, contemplate"
                                 }
                         ],
                         "points": [
-                                "ラテン語の「confundere」は元々「一緒に注ぐ」という意味で、異なる要素を結びつける力動性を表しています。"
+                                "『considerate』の語源はラテン語の『considerare』に由来し、これは星を観る行為を指しています。この比喩は、人間の関係における内省と慎重さを示唆します。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Late Middle English"
+        },
+        {
+                "id": "contemplate",
+                "word": "Contemplate",
+                "part_of_speech": "verb",
+                "meaning": "熟考する、深く考える",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "con-template-",
+                                        "type": "prefix/root/suffix",
+                                        "meaning": "con（共に）- templum（聖域）",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'contemplate' originates from the Latin 'contemplari,' meaning 'to gaze attentively,' formed from 'con-' (together) and 'templum' (space marked out for observation)."
+                },
+                "core_concept": {
+                        "en": "To immerse the mind in profound and reverent consideration.",
+                        "ja": "深遠で敬虔な考察に心を浸らせること"
+                },
+                "thinking_layer": "『熟考』とは、心の静寂の中で生まれる一種の神聖なおこないである。その名の通り、もともとの語源からもわかるように、これは一種の聖域を巡る行為である。人は、心の中に神殿を築き、その空間において思索を深める。思索するという行為は、単なる情報の反芻ではない。それは、心の内側に広がる無限の宇宙を旅して、存在の本質に触れようとする試みである。「熟考」には、深淵に足を踏み入れる勇気が必要であり、そこで見つけたものを言葉にする力を求められる。なぜならば、このプロセスによって私たちの存在は照らし出され、過去と未来の狭間に存在する今を明らかにすることになるからである。言語を超えた理解を求めて、心の光と影を辿ること、それこそが『熟考』の真髄であり、賢者の道となるのだ。",
+                "synonyms": [
+                        "Ponder",
+                        "Reflect"
+                ],
+                "antonyms": [
+                        "Ignore",
+                        "Neglect"
+                ],
+                "aftertaste": "Contemplation unveils the temple within, echoing whispers of the universe.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "templum",
+                                        "meaning": "A space defined for observation by augurs in ancient Rome."
+                                }
+                        ],
+                        "points": [
+                                "語源としての『templum』は、単なる建造物ではなく、精神的観察のための聖なる空間を指していた。この概念は、内なる探求の場としての思索の姿を想起させる。"
                         ]
                 },
                 "source": "Online Etymology Dictionary",
-                "date": "2026-03-01",
-                "era": "Late Latin, 14th Century"
-        },
-        {
-                "id": "describe",
-                "word": "Describe",
-                "part_of_speech": "verb",
-                "meaning": "説明する、描写する",
-                "author": "etymon_official",
-                "etymology": {
-                        "breakdown": [
-                                {
-                                        "text": "de-",
-                                        "type": "prefix",
-                                        "meaning": "下に、元から",
-                                        "lang": "Latin"
-                                },
-                                {
-                                        "text": "scribere",
-                                        "type": "root",
-                                        "meaning": "書く",
-                                        "lang": "Latin"
-                                }
-                        ],
-                        "original_statement": "The word 'describe' originates from the Latin 'describere', composed of 'de-' meaning 'down' or 'off', and 'scribere', meaning 'to write'."
-                },
-                "core_concept": {
-                        "en": "The elegant dance of words painting reality.",
-                        "ja": "言葉の舞が現実を描く"
-                },
-                "thinking_layer": "言語の中で「記述する」という概念は、それ自身が形となることを拒む無形の胃袋に満たされている。一方で、描かれる物の本質を捉える行為は、その対象の一部を永遠に失わせるかもしれないという恐れを抱える。それはまるで魂の一部をページに固定することで生を与えられるかのようなプロセスである。哲学的に考えると、記述とは、物とその見方の間に架かる橋かもしれない。言葉がその橋を強固にするが、同時に、言語の限界がその役割を制約する。書くことは、過去、現在、そして未来を言葉によって結びつける行為でもある。それ故に、記述とは時間の線引きを超え、普遍的な真理を捕捉しようとする努力なのだ。しかし、その試みの約束は、常にその不完全さを自覚することにある。何をどう記述するかは、それ自体が創造行為であると理解し、各々の語が持つ重さとその影響を熟考しながら進むべき道である。",
-                "synonyms": [
-                        "depict",
-                        "explain"
-                ],
-                "antonyms": [
-                        "confuse",
-                        "misrepresent"
-                ],
-                "aftertaste": "To describe is to translate the abstract into the tangible.",
-                "deep_dive": {
-                        "roots": [
-                                {
-                                        "term": "scribere",
-                                        "meaning": "to write"
-                                }
-                        ],
-                        "points": [
-                                "記述は言語による現実の一つの側面の捉え方であり、書く行為がその橋渡しをする。"
-                        ]
-                },
-                "source": "Oxford English Dictionary",
-                "date": "2026-03-01",
-                "era": "Late Middle English, from Latin"
-        },
-        {
-                "id": "compile",
-                "word": "Compile",
-                "part_of_speech": "verb",
-                "meaning": "編集する、収集する",
-                "author": "etymon_official",
-                "etymology": {
-                        "breakdown": [
-                                {
-                                        "text": "com-",
-                                        "type": "prefix",
-                                        "meaning": "共に",
-                                        "lang": "Latin"
-                                },
-                                {
-                                        "text": "pilare",
-                                        "type": "root",
-                                        "meaning": "積み重ねる",
-                                        "lang": "Latin"
-                                }
-                        ],
-                        "original_statement": "From the Latin 'compilare', meaning to aggregate or collect, originating from the medieval use of gathering texts and writings."
-                },
-                "core_concept": {
-                        "en": "The meticulous art of gathering and weaving fragments of knowledge into a harmonious whole.",
-                        "ja": "知識の断片を集め、調和のとれた全体へと編む緻密な技術"
-                },
-                "thinking_layer": "「編纂」という行為は、単なる情報の集積以上のものである。それは、宇宙の中で散らばる無数の星々を一つの視覚に編み込むことと似ている。編纂者は、各々の情報の背後に潜む物語を読み解き、点と点をつなぎ、それを一つの物語として形作る責任を担っている。それは、単に事象や情報を集めるのではなく、それらを一つの詩的な作品として昇華させる行為である。編纂は、単なるデータの集約ではなく、人間の知識の深みに潜む知恵を引き出し、その後に続く未来への橋を架ける作業でもある。千年の時を超え、過去の声が未来の探求者に語りかける場を作ること。それこそが編纂の持つ哲学的美であり、この行為が内包する真の意義と言えよう。",
-                "synonyms": [
-                        "assemble",
-                        "aggregate"
-                ],
-                "antonyms": [
-                        "disperse",
-                        "scatter"
-                ],
-                "aftertaste": "To compile is to craft chaos into clarity.",
-                "deep_dive": {
-                        "roots": [
-                                {
-                                        "term": "com-",
-                                        "meaning": "together"
-                                },
-                                {
-                                        "term": "pilare",
-                                        "meaning": "to gather, stack"
-                                }
-                        ],
-                        "points": [
-                                "「コンパイル」は、ラテン語起源の言葉であり、情報の単なる集積ではなく、それを意味のある形で整え直す行為を表している。"
-                        ]
-                },
-                "source": "Oxford English Dictionary",
-                "date": "2026-03-01",
-                "era": "Medieval Latin"
-        },
-        {
-                "id": "comfort",
-                "word": "Comfort",
-                "part_of_speech": "noun/verb",
-                "meaning": "心の安らぎや慰め",
-                "author": "etymon_official",
-                "etymology": {
-                        "breakdown": [
-                                {
-                                        "text": "com-",
-                                        "type": "prefix",
-                                        "meaning": "共に",
-                                        "lang": "Latin"
-                                },
-                                {
-                                        "text": "fort-",
-                                        "type": "root",
-                                        "meaning": "強さ",
-                                        "lang": "Latin"
-                                }
-                        ],
-                        "original_statement": "Derived from the Latin 'confortare', meaning 'to strengthen greatly'."
-                },
-                "core_concept": {
-                        "en": "To be enveloped in warmth amidst the trials of existence.",
-                        "ja": "生の試練の中で温もりに包まれること"
-                },
-                "thinking_layer": "『快適さ』という言葉は、外的な刺激や内的な悩みから解放され、心の安寧が訪れる瞬間を象徴しています。それは、孤高の旅を続ける者が一時の温もりを享受し、そこに希望を見出すことでもあります。この概念は、人生の風雨に直面する際の盾としての役割を果たし、我々がどのようにして喜びや悲しみを乗り越えるかを助ける存在となります。『快適さ』は、同時に社会的な結束の象徴でもあり、人々が互いに思いやりを持ち、共に歩むための橋を形作ります。古代のことわざにあるように、「心の安らぎは心の強さ」であり、我々が相互に理解し合うことの重要性を教えてくれます。そして、深い哲学的探求において、この『快適さ』は、存在の意義を問い直し、真実の自分に出会うための旅路を照らす灯火となるでしょう。",
-                "synonyms": [
-                        "Consolation",
-                        "Relief"
-                ],
-                "antonyms": [
-                        "Discomfort",
-                        "Distress"
-                ],
-                "aftertaste": "Comfort is the embrace of tranquility in a turbulent world.",
-                "deep_dive": {
-                        "roots": [
-                                {
-                                        "term": "confortare",
-                                        "meaning": "to strengthen greatly"
-                                }
-                        ],
-                        "points": [
-                                "『快適さ』の語源は、中世の騎士道精神にも関連し、困難に直面する際の内なる強さとしての役割を持つ。"
-                        ]
-                },
-                "source": "Online Etymology Dictionary",
-                "date": "2026-03-01",
-                "era": "Middle English, 12th Century"
-        },
-        {
-                "id": "simmering",
-                "word": "Simmering",
-                "part_of_speech": "verb",
-                "meaning": "とろ火で煮ること",
-                "author": "etymon_official",
-                "etymology": {
-                        "breakdown": [
-                                {
-                                        "text": "sim(m)",
-                                        "type": "root",
-                                        "meaning": "沸騰",
-                                        "lang": "Old Norse"
-                                },
-                                {
-                                        "text": "er",
-                                        "type": "suffix",
-                                        "meaning": "する",
-                                        "lang": "English"
-                                }
-                        ],
-                        "original_statement": "The term 'simmer' originates from the late Middle English 'simperen', which in turn derives from the Old Norse word 'simbra', meaning to slowly boil."
-                },
-                "core_concept": {
-                        "en": "A gentle dance of heat and liquid, where anticipation breathes.",
-                        "ja": "熱と液体が緩やかに舞い、期待が息づく瞬間"
-                },
-                "thinking_layer": "生命の奥底で静かに動くものがあります。『煮る』という行為は一見単なる調理技法に過ぎないかもしれませんが、心の奥深くに潜む感情や思考がゆっくりと膨れ上がり、熟成されるように熱を通して変化する様子を示しています。人間の感情や考えが心の中でと少しずつ成熟し、新たなパースペクティブや結論へ至る過程を、まるで小さな泡が液面に浮き上がるごとく象徴します。沈黙の中に秘められた動き、この静かな炎の踊りは、個々の経験と内面の旅に光をもたらし、心の平穏と激しさを巧みに抱きしめる人生の一面。煮ることは、目に見えぬ内なる変化が表面へと現れ、時の流れの中で変化を受け入れ、新たなる歩みを始めるための貴重な途上なのです。温もりとともに育まれる深い哲学は、その動きのすべて一つ一つが永遠の意味を持つことを教えてくれます。",
-                "synonyms": [
-                        "boiling",
-                        "stewing"
-                ],
-                "antonyms": [
-                        "freezing",
-                        "cooling"
-                ],
-                "aftertaste": "In the silent tension between heat and water, life murmurs wisdom.",
-                "deep_dive": {
-                        "roots": [
-                                {
-                                        "term": "simmer",
-                                        "meaning": "to make calm or quiet"
-                                }
-                        ],
-                        "points": [
-                                "中世英語の『simperen』は、単なる料理用語を超えて、内面的な成長と熟成の比喩としての調理法を象徴している。"
-                        ]
-                },
-                "source": "Oxford English Dictionary",
-                "date": "2026-03-01",
-                "era": "Middle English"
-        },
-        {
-                "id": "concourse",
-                "word": "Concourse",
-                "part_of_speech": "noun",
-                "meaning": "群衆または人々の流れ",
-                "author": "etymon_official",
-                "etymology": {
-                        "breakdown": [
-                                {
-                                        "text": "com-",
-                                        "type": "prefix",
-                                        "meaning": "共に",
-                                        "lang": "Latin"
-                                },
-                                {
-                                        "text": "currere",
-                                        "type": "root",
-                                        "meaning": "走る",
-                                        "lang": "Latin"
-                                }
-                        ],
-                        "original_statement": "The word 'concourse' originates from the Latin 'concursus', combining 'com-' meaning 'together' and 'currere' meaning 'to run'."
-                },
-                "core_concept": {
-                        "en": "A flowing together of people or things, a meeting of motion.",
-                        "ja": "人や物の流れの交わり、動きの集まり"
-                },
-                "thinking_layer": "「群衆」は、一つの場所に集まる多くの魂の踊りであり、それぞれが異なる物語を持ちながら、一瞬の内に織り込まれた運命の糸のようである。人々はあたかも見えない指揮者に導かれるかのように、接触し、別れ、交差する。人生の万華鏡の中では、出会いや別れが新たな模様を描き出し、各々が一瞬の煌めきを放つ。群衆の中にいるとき、我々は自分自身を超越し、個々のアイデンティティを超えて、共鳴と共存のリズムを感ずる。この瞬間的な全体性の中で、全ての心が一つの鼓動となり、短い刹那の間に、宇宙を形作る根本的な調和を経験する。このような体験は、人々が集い、触れ合い、そして再び散らばるという、絶え間なく変わる生命の流れの中にある。群衆の中にいることで、生きることの深遠さと儚さ、そしてその両者が同時に存在しうるという、人生の不可思議さを感じるのである。",
-                "synonyms": [
-                        "gathering",
-                        "assembly"
-                ],
-                "antonyms": [
-                        "separation",
-                        "isolation"
-                ],
-                "aftertaste": "A concourse is the silent poetry of movement and connection.",
-                "deep_dive": {
-                        "roots": [
-                                {
-                                        "term": "com-",
-                                        "meaning": "together"
-                                },
-                                {
-                                        "term": "currere",
-                                        "meaning": "to run"
-                                }
-                        ],
-                        "points": [
-                                "『コンコース』という語は、ラテン語の『コン（共に）』と『クルレ（走る）』から形成された。"
-                        ]
-                },
-                "source": "Oxford English Dictionary",
-                "date": "2026-03-01",
-                "era": "Middle English, 14th Century"
-        },
-        {
-                "id": "illustration",
-                "word": "Illustration",
-                "part_of_speech": "noun",
-                "meaning": "概念または物体を視覚的に説明または明確にする行為",
-                "author": "etymon_official",
-                "etymology": {
-                        "breakdown": [
-                                {
-                                        "text": "illustr-",
-                                        "type": "root",
-                                        "meaning": "照らす",
-                                        "lang": "Latin"
-                                },
-                                {
-                                        "text": "-ation",
-                                        "type": "suffix",
-                                        "meaning": "状態、過程",
-                                        "lang": "Latin"
-                                }
-                        ],
-                        "original_statement": "The word 'illustration' first appeared in the 14th century, deriving from Latin 'illustratio(n-)', from the verb 'illustrare' meaning 'to light up, irradiate'."
-                },
-                "core_concept": {
-                        "en": "A radiant canvas where ideas and forms dance into clarity.",
-                        "ja": "アイデアと形が明瞭さに舞う輝かしいキャンバス"
-                },
-                "thinking_layer": "世界を彩る手段としてのイラストレーションは、心の陰影を照らして真実を見せる。光が闇に射すように、イラストレーションは目に見えない思考や感情を明示する不思議な技術である。かつての語源はラテン語の「illustrare」であり、「照らす」という意味を持つ。これは、単なる絵ではなく、本質を視覚化する行為である。光を照らす行為が時に恐れられ、時に崇められてきたように、イラストレーションも人間の存在に内在する二面性を持っている。視覚は時に言語を超えて、心に直接語りかける力を持ち、イラストレーションはその極みである。この芸術は、無限の想像力と深い洞察を求め、人間性の奥深くに宿る真実をそっと描く。表面的な美しさの背後に、どれほどの知恵と知識が隠れているかを示す中で、イラストレーションの光は常に真理と虚偽の間を揺れ動く。色と形のダンスにおいて、私たちはその奥に潜む無言の物語を見つけることができる。この視覚化の行為こそが、人間社会の知識伝達の根幹であることが明らかとなる瞬間だ。",
-                "synonyms": [
-                        "Depiction",
-                        "Representation"
-                ],
-                "antonyms": [
-                        "Obfuscation",
-                        "Concealment"
-                ],
-                "aftertaste": "With each stroke, clarity emerges from chaos.",
-                "deep_dive": {
-                        "roots": [
-                                {
-                                        "term": "illustrare",
-                                        "meaning": "to enlighten or irradiate"
-                                }
-                        ],
-                        "points": [
-                                "イラストレーションは視覚的な明瞭化プロセスであり、情報や感情を具体的に見せる手段である。"
-                        ]
-                },
-                "source": "Oxford English Dictionary",
                 "date": "2026-03-01",
                 "era": "14th Century"
         }
