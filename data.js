@@ -32594,5 +32594,251 @@ const WORDS = [
                 "source": "Oxford English Dictionary, Online Etymology Dictionary",
                 "date": "2026-03-01",
                 "era": "Old English"
+        },
+        {
+                "id": "juggle",
+                "word": "Juggle",
+                "part_of_speech": "verb",
+                "meaning": "空中で物を操る技術、または複数の活動を同時に管理する能力。",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "Middle English jogelen -> Old French jogler",
+                                        "type": "root",
+                                        "meaning": "遊ぶ、からかう",
+                                        "lang": "古フランス語"
+                                }
+                        ],
+                        "original_statement": "The word originates from Middle English 'jogelen,' derived from the Old French 'jogler,' meaning to perform tricks or to jest."
+                },
+                "core_concept": {
+                        "en": "The delicate dance of managing chaos with precision and flair.",
+                        "ja": "精緻さと爛漫な技によって混乱を操る繊細な舞。"
+                },
+                "thinking_layer": "人生とは、絶え間ない変化と多様な要求に追われる一つのジャグリングのようなものである。我々は不確実性の大気中で、無数の可能性を手の中で操る。見事に投げられるボールは、時に予想外の飛び方をしつつも、美しい軌跡を描きながら、絶えず重力と戦う。ジャグラーの眼差しは、常に前方に注がれているように見えつつも、実際は内なるリズムと調和している。どれだけのボールを空中に浮かべるかは重要ではない。それらすべてが一貫した動きに融合すること、それこそが真の芸術である。内なる静けさと外見の躍動の間に一瞬だけ訪れる調和、それがジャグリングの本質であり、人生という舞台の上で、私たちは常に新しいステップを試みる。物理的な技を超え、ジャグリングは精神の修練であり、内なる世界と外界の相互作用を優雅に映し出す者なのだ。",
+                "synonyms": [
+                        "manipulate",
+                        "balance"
+                ],
+                "antonyms": [
+                        "drop",
+                        "fail"
+                ],
+                "aftertaste": "In the rhythm of the cosmos, we are all jugglers of fate.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "jogler",
+                                        "meaning": "to jest, to play"
+                                }
+                        ],
+                        "points": [
+                                "ジャグリングは単なる技術である以上に、物事の流れを適切に管理し、人生の複雑さを優雅に操る象徴である。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "12th Century (Middle English, Old French)"
+        },
+        {
+                "id": "scrutinize",
+                "word": "Scrutinize",
+                "part_of_speech": "verb",
+                "meaning": "詳細に調べる",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "scrutin-",
+                                        "type": "root",
+                                        "meaning": "検査、調査",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "Derived from the Late Latin 'scrutinium', meaning 'a search, inquiry', from Latin 'scrutari', 'to examine, investigate'."
+                },
+                "core_concept": {
+                        "en": "To peer beyond the surface, delving into the intricate dance of details.",
+                        "ja": "表面を越えて、詳細の複雑な舞踏に入り込むこと。"
+                },
+                "thinking_layer": "『精査』という行為は、物事の表層を超えて、真実の中核を求める心の旅である。人間は常に未知を怖れつつ、それに対する深い好奇心を宿している。その扉を開く鍵は、見落とされがちな細部に込められた無言の物語である。私たちは日々、無数の情報と出会い、その中から冴え渡る真実を見つけ出すという挑戦を受け入れる。考察を伴う精査は、心と知性の精細な交流であり、そこには時空を超越した真実を探す永遠の踊りがある。複雑な世界において、真実と向き合うには、情熱と忍耐が求められる。言葉を超えた次元の探索は、人々を未知なる解釈の誕生へと導く。それは静かなる探求であり、心の奥底で響く物語が、精査の行為を通じて開かれていくことを意味する。人は、目で見える以上のものを常に渇望し、その探求こそが人類の進化を促す光となる。",
+                "synonyms": [
+                        "Examine",
+                        "Inspect"
+                ],
+                "antonyms": [
+                        "Ignore",
+                        "Overlook"
+                ],
+                "aftertaste": "In the pursuit of truth, scrutinization is the compass guiding us through the dense forest of deception.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "scrutari",
+                                        "meaning": "to examine, investigate"
+                                }
+                        ],
+                        "points": [
+                                "『精査』という語は、ラテン語のscrutari『詳しく調べる』に由来し、未知を探求する熱意と知識が凝縮された言葉である。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Late Latin, Middle Ages"
+        },
+        {
+                "id": "condescend",
+                "word": "Condescend",
+                "part_of_speech": "verb",
+                "meaning": "謙遜して身を低くすること、または恩着せがましくすること",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "con-",
+                                        "type": "prefix",
+                                        "meaning": "共に",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "descendere",
+                                        "type": "root",
+                                        "meaning": "降りる",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'condescend' originates from the Latin 'con-' meaning 'together' and 'descendere' meaning 'to descend'."
+                },
+                "core_concept": {
+                        "en": "The delicate dance of stepping down from one's pedestal.",
+                        "ja": "高みから降りる精妙な舞い"
+                },
+                "thinking_layer": "『降り立つ』という行為は時に複雑である。我々が精神的に高みにいる時、その舞台から降りることには勇気と優れた自己意識が必要である。この行為は謙遜の表れとも取れ、一方で自らが持つ特権や優位性を他者に示し付ける、偽りの恩恵としても現れることがある。人の心は多面的であり、高ぶることと謙ることの境界はしばしば曖昧だ。哲学的には、『降り立つ』とは自我を低く置くことでもあり、また異なる視点から見ると、偽善的な勇敢さを示す挑戦でもあるかもしれない。この行為は、他者との繋がりを意識し、共に現実の中で足を踏みしめようとする試みである。内なるプライドと外部への理解の間で揺れる瞬間を、この言葉は深く捉えている。そこに潜在する哲学は、人間関係の微妙な力学を探るヒントを我々に与えるだろう。",
+                "synonyms": [
+                        "Patronize",
+                        "Demean"
+                ],
+                "antonyms": [
+                        "Praise",
+                        "Respect"
+                ],
+                "aftertaste": "The act of condescending can both bridge and build barriers.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "con",
+                                        "meaning": "together"
+                                },
+                                {
+                                        "term": "descend",
+                                        "meaning": "to step down"
+                                }
+                        ],
+                        "points": [
+                                "この言葉の語源はラテン語に遡り、人間のコミュニケーションにおける権力と平等のテーマを示唆している。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "14th Century"
+        },
+        {
+                "id": "support",
+                "word": "Support",
+                "part_of_speech": "noun/verb",
+                "meaning": "支えること、援助",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "sub-",
+                                        "type": "prefix",
+                                        "meaning": "下",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "portare",
+                                        "type": "root",
+                                        "meaning": "運ぶ",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The term originates from the Latin 'supportare' meaning 'to carry from below'."
+                },
+                "core_concept": {
+                        "en": "An ever-present underpinning, holding aloft the weight of complexities with silent grace.",
+                        "ja": "静かな優雅さで複雑さの重みを支える不変の支柱"
+                },
+                "thinking_layer": "支えるという行為は、目に見えない力を表す象徴です。その力は、物質的な支えだけでなく、精神的な強さと共感の象徴でもあります。この力は風に逆らう樹木の根のように、環境の過酷さにあってさえも揺るぎないものです。支えはまた、共鳴する感情の調和の象徴であり、それは共感とつながりの絆を通して人々の心を結びつけます。この概念は、私たちが日々の生活の中で見えない場所から支え合うことの重要性を示しています。支えることの詩的な力は、目に見えないものを感じる力、そしてその力がいかに人々を結びつけるのかを教えてくれます。この世界におけるすべてのものには背後に支える力が存在し、時にそれは自然の摂理として、時に人間の優しさとして、多様に姿を現します。支えは、障害を乗り越えるための橋であり、困難を和らげる包み込むような腕であり、常に人生という旅における安らぎの灯火なのです。",
+                "synonyms": [
+                        "Aid",
+                        "Assistance"
+                ],
+                "antonyms": [
+                        "Neglect",
+                        "Oppose"
+                ],
+                "aftertaste": "Support is the silent pillar upon which lives are built.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "portare",
+                                        "meaning": "to carry"
+                                }
+                        ],
+                        "points": [
+                                "「サポート」は古代のラテン語から派生した言葉で、人を支えるという行為の基礎概念を象徴しています。人間の相互援助の精神は、言語を通して歴史を越えて伝えられています。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "13th Century"
+        },
+        {
+                "id": "random",
+                "word": "Random",
+                "part_of_speech": "adjective",
+                "meaning": "無作為、予測不能な",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "randir-",
+                                        "type": "root",
+                                        "meaning": "走る",
+                                        "lang": "Old French"
+                                }
+                        ],
+                        "original_statement": "The word 'random' is derived from the Middle English 'randoun', which means 'speed or impetuosity', and originates from the Old French 'randir', meaning 'to gallop' or 'to run'."
+                },
+                "core_concept": {
+                        "en": "The beautiful chaos of unpredictability.",
+                        "ja": "予測不能の美しい混沌"
+                },
+                "thinking_layer": "ランダムとは、偶然と秩序が互いに舞う美しい舞台である。無数の可能性が果てしなく広がる様は、宇宙の不確定性を抱擁する人間の精神を象徴する。規則がないように見えるその背後には、深層に眠る大いなる意図が潜むかもしれない。私たちがランダムと呼ぶものは、実は宇宙の偉大な舞踏の一部であり、人間が正確に理解するにはあまりにも壮大で複雑である。偶然と必然が出会う瞬間、私たちは自由を感じる。そしてそれは、人間の持つ意識の範囲を超える幻想的な領域への旅を可能にする。ランダムは自然界における見えざる手であり、私たちの日常に潜む美の形態である。次第に解きほぐされていく混沌の中で、私たちの心は無限なる創造の可能性を抱くことを許される。この偶然の世界において、不確定性は我々の想像力を刺激し、未知の領域への扉を静かに開く。",
+                "synonyms": [
+                        "Unpredictable",
+                        "Haphazard"
+                ],
+                "antonyms": [
+                        "Systematic",
+                        "Predictable"
+                ],
+                "aftertaste": "In randomness, we find the dance of fate and chance.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "randir",
+                                        "meaning": "to gallop, to run"
+                                }
+                        ],
+                        "points": [
+                                "「random」は古フランス語の「randir」に由来し、「走る」または「駆け抜ける」という意味を持つ。この語源がもたらす動的なニュアンスは、偶然の印象を鮮やかに描き出している。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Middle English"
         }
 ];
