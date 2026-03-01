@@ -32913,5 +32913,161 @@ const WORDS = [
                 "source": "Oxford English Dictionary",
                 "date": "2026-03-01",
                 "era": "Old English, 5th Century"
+        },
+        {
+                "id": "savage",
+                "word": "Savage",
+                "part_of_speech": "noun/adjective",
+                "meaning": "野蛮な、未開の",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "sauvage",
+                                        "type": "root",
+                                        "meaning": "野生の",
+                                        "lang": "Old French"
+                                },
+                                {
+                                        "text": "silvaticus",
+                                        "type": "root",
+                                        "meaning": "森の、野生の",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "Derived from the Middle English 'savage', stemming from Old French 'sauvage', ultimately from Latin 'silvaticus', related to 'silva', meaning 'forest'."
+                },
+                "core_concept": {
+                        "en": "An untamed spirit dancing with chaos in nature's wild embrace.",
+                        "ja": "自然の荒々しい抱擁の中で混乱と共に踊る、飼い馴らされない精神。"
+                },
+                "thinking_layer": "人間の持つ本来の性質としての「野蛮さ」とは、文明の覆いを取り去った時に現れる内なる力強い存在です。それは、抑圧や秩序を超えたところにある、自由で解き放たれた生命の力。文明社会の中で野蛮が恐れられ、嫌悪されるのは、恐らくそれが理性や制御の及ばない力を象徴しているからでしょう。人々が自然との深い繋がりを持っていた時代において、野蛮さは何よりも偉大で美しいものでありました。それは生命力そのものであり、森羅万象と調和して生きる存在の姿でした。野蛮さとは狂暴さや無秩序だけを意味するのではなく、枠に囚われない生き方、再び自然との豊かな関係を築こうという願いをも包んでいます。この新たな野蛮さが私たちに提示するのは、自らの内なる生命に耳を傾け、今ここにある自然の声に応じる生き方の可能性です。これを求めることが、実は最も豊かで人間らしい生き方に他ならない、と言えるのではないでしょうか。",
+                "synonyms": [
+                        "Wild",
+                        "Untamed"
+                ],
+                "antonyms": [
+                        "Civilized",
+                        "Cultured"
+                ],
+                "aftertaste": "In savagery lies the raw essence of life unconfined.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "silva",
+                                        "meaning": "forest"
+                                }
+                        ],
+                        "points": [
+                                "古代ラテン語における 'silva' は森林を意味し、そこから 'silvaticus' は森に住む、野生のという意味に派生した。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "Middle Ages"
+        },
+        {
+                "id": "confound",
+                "word": "Confound",
+                "part_of_speech": "verb",
+                "meaning": "混乱させる；当惑させる",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "com-",
+                                        "type": "prefix",
+                                        "meaning": "共に、一緒に",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "fundere",
+                                        "type": "root",
+                                        "meaning": "注ぐ",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'confound' comes from the Latin 'confundere', meaning 'to pour together'."
+                },
+                "core_concept": {
+                        "en": "The dance of chaos within clarity.",
+                        "ja": "明晰さの中の混沌の踊り"
+                },
+                "thinking_layer": "言葉が持つ力とは、複雑な織物のようなものであり、我々の存在の本質を反映するものである。『混乱させる』という言葉は、単なる混乱を意味するのではなく、調和と無秩序の共生を示唆する。古代より、我々の意識はしばしば混沌と秩序の間に存在し、その境界を超えたところに新しい知見が生まれる。混沌は恐れるものではなく、むしろ理解の新たな次元への扉である。物事を混乱させる行為の背後には、しばしば隠された真実が潜んでおり、それを明るみに出すことで我々は真髄に至る。『混乱させる』とは、ただ物事を錯乱状態にすることではなく、未知を探索し、知識の地図を再編成していくことなのだ。こうして人間は、感覚と思考の織りなす新たな理解の地平へと歩みを進めるのだろう。",
+                "synonyms": [
+                        "baffle",
+                        "perplex"
+                ],
+                "antonyms": [
+                        "clarify",
+                        "explain"
+                ],
+                "aftertaste": "Confusion births creativity.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "fundere",
+                                        "meaning": "To pour"
+                                }
+                        ],
+                        "points": [
+                                "『confundere』というラテン語は、物事を混ぜ合わせる行為を示すとともに、調和の一形態と見なされる。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Late Middle English"
+        },
+        {
+                "id": "toil",
+                "word": "Toil",
+                "part_of_speech": "noun/verb",
+                "meaning": "努力や苦労を伴う仕事や運動",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "toiler",
+                                        "type": "root",
+                                        "meaning": "労苦",
+                                        "lang": "Middle English"
+                                },
+                                {
+                                        "text": "toil",
+                                        "type": "root",
+                                        "meaning": "わな",
+                                        "lang": "Old French"
+                                }
+                        ],
+                        "original_statement": "Derived from Middle English 'toilen', from Anglo-French 'toiler', related to a struggle or snare."
+                },
+                "core_concept": {
+                        "en": "The essence of toil rests in the relentless pursuit against adversity and struggle.",
+                        "ja": "労苦の核は、逆境と闘う不屈の追求にある。"
+                },
+                "thinking_layer": "労働、努力、そして苦闘という言葉が含意する意味の源に立ち返ると、生きること自体が一つの巨大な労苦の道であることに気づかされる。闇が迫り、太陽が昇らず、あるいは希望が失われようとも、人間は労することを諦めない。労苦は単なる肉体的な疲弊ではなく、魂の震え、精神の鼓動である。毎日の労働は、自己を高めるための闘いに他ならない。労苦する者は、石を磨き、柱を立て、未来を築く一方で、自らの存在証明を求める。その中で、鍛えられ、再生され、時に報われない不条理をも享受しつつ進む人間の姿は、どれほど尊いものか。人生の意味は、創造と破壊の連続により明らかになる。\u001b新たなる力が培われるとき、古き考えが払拭され、未知の次元に足を踏み入れる。これが「労働」の持つ哲学であり、存在の証である。",
+                "synonyms": [
+                        "Labor",
+                        "Exertion"
+                ],
+                "antonyms": [
+                        "Leisure",
+                        "Rest"
+                ],
+                "aftertaste": "Toil is the silent anthem of resilience.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "toil",
+                                        "meaning": "struggle, labor"
+                                }
+                        ],
+                        "points": [
+                                "語源的には、旅立ちと到達の間に横たわる試練や困難としての労苦の重要性が強調される。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "Middle English, 14th Century"
         }
 ];
