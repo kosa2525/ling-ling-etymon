@@ -28390,5 +28390,51 @@ const WORDS = [
                 "source": "Oxford English Dictionary",
                 "date": "2026-03-01",
                 "era": "16th Century"
+        },
+        {
+                "id": "covet",
+                "word": "Covet",
+                "part_of_speech": "verb",
+                "meaning": "欲しがること、強く望むこと",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "covet-",
+                                        "type": "root",
+                                        "meaning": "強く望む",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "From Latin 'cupiditas' which means an eager desire."
+                },
+                "core_concept": {
+                        "en": "A deep yearning for unpossessed treasures.",
+                        "ja": "持たざる宝を渇望する深き憧れ"
+                },
+                "thinking_layer": "「渇望」とは、心に静かに潜む炎のようなものです。それは静かに燃えながらも、魂を揺るがす力を持ちます。人間の欲望は、時に自然を超えた力を持って広がり、未だ手の届かぬものを求めさまよう。そして「渇望」は、満たされない欲求を追い求めることによって、私たち自身の存在の深層を探索する招待状でもあります。豪華な物、愛、平穏、それとも無形の成功、私たちが「渇望」するものが何であれ、その裏には常に満たされぬ心の影が存在します。欲望の炎は、時として破裂に至り、あるいは窒息することもあります。そしてその発露は、しばしば人生の均衡を乱す原因ともなり得ます。しかし、その反面、それは我々に内なる真実の探究を促すエネルギー源でもあります。「渇望」は道を示し、我々を未知の領域へと導く灯火でもあります。最終的に、その探求が実を結び人生の真の意味を理解する日が訪れるかもしれません。しかし、「渇望」そのものがもたらす内省の旅が、我々の知識と理解を豊かにするのです。",
+                "synonyms": [
+                        "Desire",
+                        "Yearn"
+                ],
+                "antonyms": [
+                        "Disinterest",
+                        "Indifference"
+                ],
+                "aftertaste": "To covet is to cradle the ghost of longing.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "cupiō",
+                                        "meaning": "to desire"
+                                }
+                        ],
+                        "points": [
+                                "「渇望」は通常、所有していないものに対する強い願望を表します。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "13th Century, Old French, Latin roots"
         }
 ];
