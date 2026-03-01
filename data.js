@@ -43841,5 +43841,379 @@ const WORDS = [
                 "source": "Oxford English Dictionary",
                 "date": "2026-03-01",
                 "era": "14th Century, Latin origin"
+        },
+        {
+                "id": "formulate",
+                "word": "Formulate",
+                "part_of_speech": "verb",
+                "meaning": "公式化する、計画する",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "form-",
+                                        "type": "root",
+                                        "meaning": "形を作る",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "-ulate",
+                                        "type": "suffix",
+                                        "meaning": "〜する",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "Derived from the Latin 'formulatus', meaning 'to give shape'."
+                },
+                "core_concept": {
+                        "en": "The art of giving tangible shape to abstract thoughts.",
+                        "ja": "抽象的な思考に具体的な形を与える技術。"
+                },
+                "thinking_layer": "思索の層：人生とは、しばしば我々の想像力が創り出す無形のものに形を与える作業である。形を与えること、すなわち'formulate'は、意識の領域で自由に漂う考えを、現実の世界に結晶化する過程でもある。このプロセスは、一種の錬金術のようであり、精神的な鉛を黄金に変え、目に見えないものを視覚化する力を象徴する。哲学的には、形を作る行為は、私たちの存在の核心に潜む問いに対する応答でもある。すべての形は一時的であり、どうにでも変わることができるが、それでもなお形として表現されることによって、その内に秘められた可能性が新たな生命を得る。従って、formulateという行為は、自己を理解し、世界を理解するための重要な手段であり、それはまた、過去の経験や未来の夢を形にして、自分自身と他者との間に架け橋を築く営みである。したがって、formulateは単なる言葉ではなく、有限の世界に無限の美を投影することを可能にする、私たちの創造的な挑戦の核心と言える。",
+                "synonyms": [
+                        "Express",
+                        "Articulate"
+                ],
+                "antonyms": [
+                        "Confuse",
+                        "Obfuscate"
+                ],
+                "aftertaste": "To formulate is to manifest the unseen into the visible.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "form",
+                                        "meaning": "shape, mold"
+                                },
+                                {
+                                        "term": "ulate",
+                                        "meaning": "to perform an action"
+                                }
+                        ],
+                        "points": [
+                                "「formulate」という言葉は、ラテン語の「formulatus」に由来し、思考を形にするという行為を表している。この概念は、哲学的には私たちがどのように自己を認知し、世界を構成するかに直結している。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "17th Century"
+        },
+        {
+                "id": "determine",
+                "word": "Determine",
+                "part_of_speech": "verb",
+                "meaning": "決定する、定める",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "de-",
+                                        "type": "prefix",
+                                        "meaning": "分離, 強調",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "terminare",
+                                        "type": "root",
+                                        "meaning": "境界を示す, 限定する",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "From Middle English 'determinen', derived from Old French 'determiner', and from Latin 'determinare', which means to set limits or bound."
+                },
+                "core_concept": {
+                        "en": "To reveal the boundaries of possibility and the finitude of choice.",
+                        "ja": "可能性の境界と選択の有限性を明らかにすること。"
+                },
+                "thinking_layer": "『決定』とは、まるで運命の筆を握りしめ、自らの運命を地図に描くことのようである。この行為は、選択肢が泡沫のように広がる中で、明確な一本の糸を引くことであり、その糸先には一つの運命が結び付けられる。その瞬間に、無限の可能性が形を成し、具体的な選択が溶ける。何かを『決定』するとき、それは我々が手にした時間と空間を特定の範囲に収め、無数の小さな光が一つの明確な星となる様を示すものである。そして、その選択は、我々の意志が与える輝きを持ち、心の深遠なる答えが現れるところで美しく咲く。志の決定は、また一つの詩となり、心に響く共鳴音を伝える。この響きが「決定」の本質であり、生きることの核心深くに潜む、無言の真実を我々に問いかけるのである。",
+                "synonyms": [
+                        "Decide",
+                        "Conclude"
+                ],
+                "antonyms": [
+                        "Hesitate",
+                        "Waver"
+                ],
+                "aftertaste": "Setting the course amidst the sea of uncertainties.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "terminare",
+                                        "meaning": "to set limits"
+                                }
+                        ],
+                        "points": [
+                                "「決定」は境界を定める行為であり、果てしなき可能性から具体的な選択へと転化するプロセスである。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "14th Century"
+        },
+        {
+                "id": "decorate",
+                "word": "Decorate",
+                "part_of_speech": "verb",
+                "meaning": "装飾する",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "decor-",
+                                        "type": "root",
+                                        "meaning": "美しさ",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "-ate",
+                                        "type": "suffix",
+                                        "meaning": "する",
+                                        "lang": "English"
+                                }
+                        ],
+                        "original_statement": "The word 'decorate' traces its roots to the Latin 'decorare', meaning 'to adorn or beautify', derived from 'decor', implying beauty or grace."
+                },
+                "core_concept": {
+                        "en": "The poetic art of embellishing the ordinary to reveal hidden beauty.",
+                        "ja": "平凡を飾り、隠れた美を引き出す詩的な芸術。"
+                },
+                "thinking_layer": "装飾という行為は、人間の心の深淵ともつながる。美しく飾ることは、ただの外面的な装飾にとどまらず、内なる心の美や調和を表現する手段でもある。例えば、古代の人々は神々を崇拝する際に、自らの信仰や感謝の意を込めて祭壇や神殿を精巧に装飾した。彼らにとって装飾することは、単なる見た目の美しさではなく、内面的な崇高さや神聖さを込めた表現であった。現代社会においても、装飾の行為は自己表現の一形態として利用され、個々の人生において瞬間を彩る役割を果たしている。装飾とは、単なるモノの装いを超えたものであり、精神的な静寂を追い求める人間の心の追求でもある。装飾の奥深い意味を理解することで、我々は内面の美しさが外面にも現れ、物質的な世界に投影されることに気付くのだ。装飾は、無秩序の中に秩序を見出し、形のないものに形を与える、詩と哲学の織りなす深遠な芸術である。",
+                "synonyms": [
+                        "adorn",
+                        "embellish"
+                ],
+                "antonyms": [
+                        "deface",
+                        "mar"
+                ],
+                "aftertaste": "Decoration whispers the secrets of beauty to the soul.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "decor",
+                                        "meaning": "beauty, grace"
+                                }
+                        ],
+                        "points": [
+                                "装飾の語源は古代ローマに遡り、そこでは美学的感性が重要視された。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "15th Century"
+        },
+        {
+                "id": "decision",
+                "word": "Decision",
+                "part_of_speech": "noun",
+                "meaning": "決断や選択を行うこと",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "de-cidere",
+                                        "type": "prefix/root",
+                                        "meaning": "切断する",
+                                        "lang": "ラテン語"
+                                }
+                        ],
+                        "original_statement": "The word 'decision' originates from the Latin 'decidere', meaning 'to cut off', indicating the choice that cuts off other possibilities."
+                },
+                "core_concept": {
+                        "en": "The silent art of embracing a path while letting another fade.",
+                        "ja": "道を選び、他を消えるままにする静かな技"
+                },
+                "thinking_layer": "決断とは、運命の羅針盤のように存在する。我々は無数の可能性に囲まれた無限の海に浮かぶ船であり、進むべき航路を選ぶときに使用される道具である。決断という行為は、ただ単に選択肢を選ぶ以上の行為であり、それは自己の意識を深く掘り下げ、内なる声に耳を傾ける瞑想的な行程である。選んだ道は、我々の紡ぐ物語の次の章であるが、時としてその選択により他の選択肢を断念せざるを得ず、その痛みはまるで魂の一部が切り取り除かれたかのようである。それでもなお、決断は我々に存在の証を与え、自己の輪郭を描き出す行為でもあり、己の力を実感する最高の瞬間ともなる。決断は単なる行動ではなく、己の意志と向き合い、自己を新たに形作るための神聖な儀式のようである。",
+                "synonyms": [
+                        "choice",
+                        "determination"
+                ],
+                "antonyms": [
+                        "indecision",
+                        "hesitation"
+                ],
+                "aftertaste": "In each decision, we carve our destiny.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "de",
+                                        "meaning": "off, from"
+                                },
+                                {
+                                        "term": "caedere",
+                                        "meaning": "to cut"
+                                }
+                        ],
+                        "points": [
+                                "決断は自己のアイデンティティを形成する力を持ち、多くの価値観や思考の統合を表す。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "Late Middle English, from Latin"
+        },
+        {
+                "id": "section",
+                "word": "Section",
+                "part_of_speech": "noun",
+                "meaning": "部分、区分",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "sect-",
+                                        "type": "root",
+                                        "meaning": "切る",
+                                        "lang": "ラテン語"
+                                },
+                                {
+                                        "text": "-ion",
+                                        "type": "suffix",
+                                        "meaning": "状態、行為",
+                                        "lang": "ラテン語"
+                                }
+                        ],
+                        "original_statement": "The word 'section' has origins in the Latin 'sectio', meaning 'a cutting', from the verb 'secare'."
+                },
+                "core_concept": {
+                        "en": "The elegant division of unity into meaningful parts.",
+                        "ja": "統一の中から生まれる意味のある分割"
+                },
+                "thinking_layer": "部分とは全体の中の個々であり、また全体を支える支柱でもある。全体を構成する要素の一つであるがゆえに、部分は全体の意味を際立たせる。それ自体が持つ意義は、全体との連関とバランスの中で深まる。まるで無数の星が織り成す一つの銀河が、互いに切り離すことなく有機的に関係し、その機能を果たすかの如く。部分は孤立しない。他の部分との関係性においてその存在を強くし、小宇宙を外界に開く。分割そのものが避けられぬ現実だが、それにより生まれる有機的な美しさを見つければ、部分同士の調和が深く味わえるであろう。",
+                "synonyms": [
+                        "Division",
+                        "Segment"
+                ],
+                "antonyms": [
+                        "Whole",
+                        "Unity"
+                ],
+                "aftertaste": "To divide is to unlock new meanings held within the whole.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "sect",
+                                        "meaning": "to cut"
+                                }
+                        ],
+                        "points": [
+                                "分割は新しい展開と内なる探求の道を開く工程である。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "14th Century"
+        },
+        {
+                "id": "portable",
+                "word": "Portable",
+                "part_of_speech": "adjective",
+                "meaning": "持ち運びができるもの",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "port-",
+                                        "type": "root",
+                                        "meaning": "運ぶ",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "-able",
+                                        "type": "suffix",
+                                        "meaning": "可能な",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "Derived from the Latin word 'portare' meaning 'to carry', combined with the suffix '-able'."
+                },
+                "core_concept": {
+                        "en": "The essence of freedom in movement and simplicity.",
+                        "ja": "移動の自由と簡素さの本質"
+                },
+                "thinking_layer": "ポータブルという言葉は、単なる物理的な移動性を超えた奥深い性質を持つ言葉です。人類の歴史において、物を運ぶ手段や技術は文明の発展に不可欠であり、そのために重ねられた試行錯誤は文化の多様性を生み出しました。ポータブルとは、単に持ち運びが可能というだけでなく、その背景にある人間の創造性と適応性、さらには自然との調和を含意しています。例えば、古代の遊牧民がコンパクトで持ち運びが容易な家を築くための技術を開発し、その後の定住文明に影響を与えたように、ポータブルなものは新たな価値観を形成し、時に哲学的な問いをもたらします。ポータブルはまた、物質の境界を超え、思想や情報が自由に移動できることをも暗示しており、現代におけるディジタル情報社会の基盤をも連想させます。このようにして、ポータブルは、効率性と機動性を超えた時空を超越した理念を抱える、一種の象徴的概念でもあるのです。",
+                "synonyms": [
+                        "Mobile",
+                        "Movable"
+                ],
+                "antonyms": [
+                        "Stationary",
+                        "Fixed"
+                ],
+                "aftertaste": "The freedom to move is the freedom to evolve.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "portare",
+                                        "meaning": "to carry"
+                                },
+                                {
+                                        "term": "habilis",
+                                        "meaning": "able"
+                                }
+                        ],
+                        "points": [
+                                "ラテン語の「portare」に由来するこの語は、古代から人々の生活を支えてきた基本的な活動を象徴しています。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "14th Century"
+        },
+        {
+                "id": "audible",
+                "word": "Audible",
+                "part_of_speech": "adjective",
+                "meaning": "聞くことができる",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "aud-",
+                                        "type": "root",
+                                        "meaning": "聴く",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "-ible",
+                                        "type": "suffix",
+                                        "meaning": "可能な",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'audible' originates from the Latin 'audire', meaning 'to hear', combined with the suffix '-ible', meaning 'able to be'."
+                },
+                "core_concept": {
+                        "en": "The gentle caress of sound upon the soul.",
+                        "ja": "音が魂に触れる優雅な瞬間"
+                },
+                "thinking_layer": "『聞く』という行為は、単なる音の認識を超え、心と世界との対話を担う行為です。音は目に見えないが、空気を振動させ、時間と空間を超えた橋渡しとなります。音を聞くという行為は、我々人間の存在が無限の宇宙の中で交わされる一瞬の交流であり、感覚が可視化される瞬間でもあります。音は幽かな囁きでもあり、強烈な叫びでもあり、また静かな沈黙の声でもあります。「聞く」という行為は、そのような多様な音の世界を心で捉え、自身の存在と周囲の世界との絶え間ない調和を実現する芸術です。音の響きは、時間の流れを紡ぎ、我々の目には見えない糸で、場所を滑らかに繋ぎます。音を自覚することは、私たちの内なる宇宙が豊かに広がることを意味し、それはまた私たちが他者と共鳴する力を持つことを示しています。これは、人生そのものが交響曲であり、各瞬間が注意深く聴かれるべきパートであることを思い出させます。",
+                "synonyms": [
+                        "Heard",
+                        "Perceptible"
+                ],
+                "antonyms": [
+                        "Inaudible",
+                        "Silent"
+                ],
+                "aftertaste": "In the realm of sound, even silence speaks volumes.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "audire",
+                                        "meaning": "to hear"
+                                },
+                                {
+                                        "term": "-ibilis",
+                                        "meaning": "able, capable of"
+                                }
+                        ],
+                        "points": [
+                                "『audible』という言葉は、音に対する人間の感受性と反応を表す歴史的痕跡です。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Medieval Latin, post-Classical Latin"
         }
 ];
