@@ -90,7 +90,10 @@ async function renderToday() {
     viewContainer.innerHTML = `
         <article class="word-card fade-in">
             <header class="word-header" style="position: relative;">
-                <span class="section-label">Word</span>
+                <div style="display:flex; align-items:center;">
+                    <span class="section-label" style="margin-bottom:0;">Word</span>
+                    <button onclick="if(typeof WORDS !== 'undefined' && WORDS.length > 0){State.todayWord = WORDS[Math.floor(Math.random() * WORDS.length)]; renderToday();}" class="chip" style="background:none; border:1px solid var(--color-accent); color:var(--color-accent); font-size:0.8rem; margin-left:12px; padding:0.2rem 0.8rem;">↻ Regenerate</button>
+                </div>
                 <h2 class="word-title" style="font-size: 3rem; margin: 0.5rem 0;">${word.word}</h2>
                 <div style="margin-bottom: 2rem; display: flex; gap: 1rem; align-items: center; opacity: 0.8;">
                     ${word.part_of_speech ? `<span class="chip" style="font-style: italic; background: rgba(255,255,255,0.1); border: 1px solid var(--color-border); font-size: 0.8rem; padding: 0.3rem 0.8rem;">${word.part_of_speech}</span>` : ''}
@@ -842,6 +845,9 @@ function renderSettings() {
                         Logout (Leave Identity)
                     </button>
                     ${State.currentUser ? `
+                    <button onclick="navigate('my-posts')" class="primary-btn" style="width:100%; padding:1rem; border-radius:12px; background:transparent; border:1px solid var(--color-accent); color:var(--color-accent); margin-top:1rem;">
+                        My Posts (Manage Content)
+                    </button>
                     <button onclick="navigate('connections')" class="primary-btn" style="width:100%; padding:1rem; border-radius:12px; background:transparent; border:1px solid var(--color-accent); color:var(--color-accent); margin-top:1rem;">
                         Connections (Follow & Blocks)
                     </button>
@@ -987,6 +993,7 @@ async function navigate(view) {
                 case 'settings': renderSettings(); break;
                 case 'premium': renderPremium(); break;
                 case 'admin': await renderAdmin(); break;
+                case 'my-posts': await renderMyPosts(); break;
                 case 'connections': await renderConnections(); break;
                 case 'notifications': await renderNotifications(); break;
                 case 'network': await renderWordNetwork(); break;
@@ -1597,3 +1604,99 @@ viewContainer.addEventListener('click', e => {
         renderToday();
     }
 });
+
+async function renderMyPosts() {
+    viewContainer.innerHTML = `
+        <div class="my-posts-view fade-in" style="max-width:800px; margin: 0 auto;">
+            <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:2rem;">
+                <h3 class="section-label">My Posts</h3>
+                <button class="chip" onclick="navigate('settings')">← Back to Settings</button>
+            </div>
+            <div id="my-posts-list">
+                <div class="loading-indicator"><div class="spinner"></div><p>Loading your contributions...</p></div>
+            </div>
+        </div>
+    `;
+
+    if (!State.currentUser) {
+        document.getElementById('my-posts-list').innerHTML = `<p class="dimmed">ログインが必要です。</p>`;
+        return;
+    }
+
+    try {
+        const data = await apiGet(`/api/my-posts?username=${State.currentUser}`);
+        const listEl = document.getElementById('my-posts-list');
+
+        let html = '';
+
+        // Words
+        html += `<h4 style="margin:2rem 0 1rem 0; color:var(--color-accent); border-bottom:1px solid var(--color-border); padding-bottom:0.5rem;">Words (Contributions)</h4>`;
+        if (data.words && data.words.length > 0) {
+            html += data.words.map(w => `
+                <div style="background:var(--color-surface); padding:1.5rem; border-radius:16px; border:1px solid var(--color-border); margin-bottom:1rem; display:flex; justify-content:space-between; align-items:center;">
+                    <div>
+                        <b style="font-size:1.2rem;">${w.word}</b> <span class="dimmed" style="font-size:0.9rem;">${w.date || ''}</span>
+                    </div>
+                    <button onclick="deleteMyPost('word', '${w.id}')" class="chip" style="border:1px solid red; color:red; background:none;">Delete</button>
+                </div>
+            `).join('');
+        } else {
+            html += `<p class="dimmed">No words contributed yet.</p>`;
+        }
+
+        // Essays
+        html += `<h4 style="margin:3rem 0 1rem 0; color:var(--color-accent); border-bottom:1px solid var(--color-border); padding-bottom:0.5rem;">Essays</h4>`;
+        if (data.essays && data.essays.length > 0) {
+            html += data.essays.map(e => `
+                <div style="background:var(--color-surface); padding:1.5rem; border-radius:16px; border:1px solid var(--color-border); margin-bottom:1rem; display:flex; justify-content:space-between; align-items:center;">
+                    <div>
+                        <b style="font-size:1.2rem;">${e.title}</b> <span class="dimmed" style="font-size:0.9rem;">${e.date || ''}</span>
+                    </div>
+                    <div style="display:flex; gap:10px;">
+                        <button onclick="State.essayFilterId='${e.id}'; navigate('essays')" class="chip">View</button>
+                        <button onclick="deleteMyPost('essay', '${e.id}')" class="chip" style="border:1px solid red; color:red; background:none;">Delete</button>
+                    </div>
+                </div>
+            `).join('');
+        } else {
+            html += `<p class="dimmed">No essays published yet.</p>`;
+        }
+
+        // Reflections
+        html += `<h4 style="margin:3rem 0 1rem 0; color:var(--color-accent); border-bottom:1px solid var(--color-border); padding-bottom:0.5rem;">Reflections</h4>`;
+        if (data.reflections && data.reflections.length > 0) {
+            html += data.reflections.map(r => `
+                <div style="background:var(--color-surface); padding:1.5rem; border-radius:16px; border:1px solid var(--color-border); margin-bottom:1rem; display:flex; justify-content:space-between; align-items:center;">
+                    <div>
+                        <p style="margin-bottom:0.5rem; font-style:italic;">"${r.content}"</p>
+                        <span class="dimmed" style="font-size:0.9rem;">On word ID: ${r.word_id} | ${r.date || ''}</span>
+                    </div>
+                    <button onclick="deleteMyPost('reflection', '${r.id}')" class="chip" style="border:1px solid red; color:red; background:none;">Delete</button>
+                </div>
+            `).join('');
+        } else {
+            html += `<p class="dimmed">No reflections written yet.</p>`;
+        }
+
+        listEl.innerHTML = html;
+
+    } catch (err) {
+        document.getElementById('my-posts-list').innerHTML = `<p style="color:red;">Failed to load posts.</p>`;
+    }
+}
+
+async function deleteMyPost(type, id) {
+    if (!confirm('本当に削除しますか？この操作は取り消せません。')) return;
+
+    try {
+        const res = await apiPost('/api/my-delete', { username: State.currentUser, type, id });
+        if (res.status === 'success') {
+            showToast('削除しました');
+            renderMyPosts();
+        } else {
+            showToast('削除に失敗しました: ' + (res.message || ''));
+        }
+    } catch (e) {
+        showToast('通信エラーが発生しました');
+    }
+}
