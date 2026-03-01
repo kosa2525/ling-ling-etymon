@@ -28786,5 +28786,61 @@ const WORDS = [
                 "source": "Online Etymology Dictionary",
                 "date": "2026-03-01",
                 "era": "Middle Ages"
+        },
+        {
+                "id": "control",
+                "word": "Control",
+                "part_of_speech": "noun/verb",
+                "meaning": "制御、管理",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "contra-",
+                                        "type": "prefix",
+                                        "meaning": "反対",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "-rotulus",
+                                        "type": "root",
+                                        "meaning": "小さな輪",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "Derived from the Latin 'contra', meaning 'against', and 'rotulus', meaning 'a roll, list, or account'. The term evolved through Old French 'contrerole', implying a copy to check against the original."
+                },
+                "core_concept": {
+                        "en": "The dance of governing, where balance and power create harmony.",
+                        "ja": "調和を生み出すために、均衡と力の踊り"
+                },
+                "thinking_layer": "制御という言葉は、力と意志の微妙な均衡を示唆しています。人間の本質を探求する際、この言葉は生命のさまざまな側面に対する自己の立場を考えることを促します。制御があるところには、必然的に力との関係性があります。制御の行為は内外の相互作用の結果であり、それは自制や外部からの影響、また思想の純粋な表現に通じます。制御は、我々が無意識に世界と共鳴し、やすらぎと混沌の狭間に立つことを可能にします。詩的には、この言葉は無限の空間におけるひとつの点のようであり、そこにおける存在の微細なバランスを保つための試みといえるでしょう。自己を制御することは、内奥に潜む欲望と理性の調和を意味します。それには、瞬間瞬間を織りなす時間の流れに身を任せ、またそれに抗い、自らの存在を見つめ続ける強さが必要です。",
+                "synonyms": [
+                        "Manage",
+                        "Regulate"
+                ],
+                "antonyms": [
+                        "Chaos",
+                        "Disorder"
+                ],
+                "aftertaste": "Control is the unseen thread weaving the tapestry of existence.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "contra",
+                                        "meaning": "against"
+                                },
+                                {
+                                        "term": "rotulus",
+                                        "meaning": "small wheel or roll"
+                                }
+                        ],
+                        "points": [
+                                "制御とは、反作用と調和を追求する力の絶妙なバランスを求める旅行です。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "Middle Ages, 14th Century"
         }
 ];
