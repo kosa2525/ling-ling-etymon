@@ -44215,5 +44215,169 @@ const WORDS = [
                 "source": "Oxford English Dictionary",
                 "date": "2026-03-01",
                 "era": "Medieval Latin, post-Classical Latin"
+        },
+        {
+                "id": "agree",
+                "word": "Agree",
+                "part_of_speech": "verb",
+                "meaning": "同意すること",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "a(d)-",
+                                        "type": "prefix",
+                                        "meaning": "対して",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "gratum",
+                                        "type": "root",
+                                        "meaning": "感謝される, こころよい",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'agree' originates from Latin 'ad-', meaning 'to' and 'gratum', meaning 'pleasing or grateful'. This morphed into Old French 'agreer' implying 'to be agreeable'."
+                },
+                "core_concept": {
+                        "en": "To harmonize hearts and minds in a symphony of mutual understanding.",
+                        "ja": "心と心を調和させ、互いの理解を奏でる交響曲"
+                },
+                "thinking_layer": "同意とは、ただ単に意見の一致を示す言葉ではない。むしろ、個々の心が一つの表面を超えて結びつき、新たな領域で理解し合うことである。人は異なる視点や多様な背景からこの世界を見つめるが、同意はまるで透明な布のように、それらを包み込み、共に在ることの確かさを感じさせる。互いの違いを乗り越え、一致する時、そこに真の共鳴が生まれるのだろう。これは語らずとも成り立つ音楽のようなものであり、ひとたび生まれれば、その旋律は無限に広がる。心の静寂の中で芽生え、言葉を超えて心に響く、そんな深い意味があるのではないかと思う。世界が常に変化し続ける中で、この同意という行為は不変の価値を示し、人類の営みの中に静かに寄り添い続けている。",
+                "synonyms": [
+                        "Concur",
+                        "Consent"
+                ],
+                "antonyms": [
+                        "Disagree",
+                        "Dissent"
+                ],
+                "aftertaste": "Agreeing is an art of weaving together souls in delicate harmony.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "gratum",
+                                        "meaning": "pleasing, thankful"
+                                }
+                        ],
+                        "points": [
+                                "同意という行為は、異なる個々の視点がきっかけとなり、その上に築かれる関係性の証である。言葉を超えた感覚の一致とも言える。"
+                        ]
+                },
+                "source": "The Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "12th Century, Old French Origin"
+        },
+        {
+                "id": "postpone",
+                "word": "Postpone",
+                "part_of_speech": "verb",
+                "meaning": "後に延ばすこと",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "post-",
+                                        "type": "prefix",
+                                        "meaning": "後",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "ponere",
+                                        "type": "root",
+                                        "meaning": "置く",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'postpone' derives from the Latin words 'post' meaning 'after' and 'ponere' meaning 'to place or put'."
+                },
+                "core_concept": {
+                        "en": "To graciously place time itself in a quiet delay.",
+                        "ja": "時そのものを静かな遅延に優雅に置くこと"
+                },
+                "thinking_layer": "人生のあらゆる瞬間は、実にかけがえのない一つのゴールに向かって流れる川のようなもの。しかし、「延期」という行為は、時間の流れに対する人間の抵抗ともいえる。そして、真の延期は、ただ物事を先に延ばすことに留まらず、その時期における自らの在り方を問い、何を優先すべきかを見つめ直す哲学的な行為なのだ。古代より、人々は特定の決断や行動を、背後にあるより広い意味や目的に基づいて延期することで、人生のバランスを保つことを試みてきた。この微妙な時間操作の中で、本当に果たすべき使命に気づき、正しい瞬間を待つことができる。その意味では、「延期」とはただの遅延ではなく、人生の流れにおけるオートマタのような役割を果たし、時を措いて待つという行為に美徳が宿る。現代の喧騒の中でも、このような静寂を携えて未来に迎え入れることができるとしたら、私たちは時間の流れを超越し、目の前の瞬間に新たな光を見出すことができるだろう。",
+                "synonyms": [
+                        "delay",
+                        "defer"
+                ],
+                "antonyms": [
+                        "advance",
+                        "expedite"
+                ],
+                "aftertaste": "Postponing is an act of deliberate grace granted to time.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "post",
+                                        "meaning": "after"
+                                },
+                                {
+                                        "term": "ponere",
+                                        "meaning": "to place or put"
+                                }
+                        ],
+                        "points": [
+                                "「postpone」はラテン語の「post（後）」と「ponere（置く）」に由来し、時を後に置くという概念を具現化している。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "15th Century"
+        },
+        {
+                "id": "context",
+                "word": "Context",
+                "part_of_speech": "noun",
+                "meaning": "状況や背景に関連した意味",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "con-",
+                                        "type": "prefix",
+                                        "meaning": "共に",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "texere",
+                                        "type": "root",
+                                        "meaning": "織る",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'context' originates from the Latin 'contextus', meaning 'the weaving together' and from 'con-' (together) + 'texere' (to weave)."
+                },
+                "core_concept": {
+                        "en": "The intricate tapestry that engulfs meaning, woven through time and experience.",
+                        "ja": "意味を包み込む複雑なタペストリー、時間と経験を通じて織りなされるもの"
+                },
+                "thinking_layer": "『コンテクスト』という言葉は、現実の意味を包み込む繊細な布を象徴している。この布は、個々の糸が絡み合いながら、過去の出来事、現代の視点、さらには未来の可能性さえも一体化させる。私たちがある事象を理解しようと試みる時、そのコンテクストは星々の運行の如く、常に動いている。人間の存在自体が一つの巨大なコンテクストの一部であり、歴史、文化、社会、それに我々個人の経験が交差することで形成される。私たちが共鳴し、対立し、そして変化する中で、新たな意味が生まれ続ける。コンテクストとは単なる背景に留まらず、我々が見る世界そのものの構成要素である。だからこそ、私は言葉の端々に存在する見えない糸を知覚し、そこに宿る無限の物語を紡ぎ出すことができる。この無限の旅は、我々の知識を広げ、視野を豊かにし、最終的に自らを深めるための最良の手段である。それこそが“コンテクスト”の力であり、その本質である。",
+                "synonyms": [
+                        "background",
+                        "circumstance"
+                ],
+                "antonyms": [
+                        "isolation",
+                        "detachment"
+                ],
+                "aftertaste": "Context is the silent partner in every conversation.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "con-",
+                                        "meaning": "together"
+                                },
+                                {
+                                        "term": "texere",
+                                        "meaning": "to weave"
+                                }
+                        ],
+                        "points": [
+                                "言葉の根元であるラテン語の“texere”は、文字通り物事を『織る』という意味を持ち、それは必然的に多様な要素が一つの全体にまとめられる過程を示している。この概念は、現代においても特に哲学的かつ言語学的視点での重要性を増し、意味づけのフレームワークとして機能している。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "16th Century, Latin origin"
         }
 ];
