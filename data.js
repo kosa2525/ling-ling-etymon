@@ -50882,5 +50882,251 @@ const WORDS = [
                 "part_of_speech": "adjective",
                 "meaning": "生命の",
                 "era": "19th Century"
+        },
+        {
+                "id": "thresh",
+                "word": "Thresh",
+                "part_of_speech": "verb",
+                "meaning": "穀物を脱穀する",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "threscan",
+                                        "type": "root",
+                                        "meaning": "打つ",
+                                        "lang": "古英語"
+                                }
+                        ],
+                        "original_statement": "The word 'thresh' originates from the Old English 'threscan, therscan', which means to beat or to separate grain by beating."
+                },
+                "core_concept": {
+                        "en": "The rhythmic dance between man and earth, where harvest yields to humanity's touch.",
+                        "ja": "人と大地の間で繰り広げられるリズミカルな踊り、収穫が人間の手によって結実する。"
+                },
+                "thinking_layer": "脱穀という行為は、ただ単なる穀物処理を超えた深遠な意味を持ちます。それは、自然と人間が共鳴し合う瞬間であり、物質と精神が出会う場でもあります。脱穀のリズムは、生命と宇宙のリズムに通じるものがあり、穀物という小さな世界が人類の文明を支えてきた事実を忘れてはなりません。その行為には創造の神秘と、循環する命のエネルギーが脈打っています。そしてそれは、人間が自然の一部でありながらも、自然を自らの糧に変える力を持つ象徴でもあります。脱穀は種を蒔くことに始まり、最終的にはまたその種を蒔く地点に戻る、終わりのないサイクルの一部であり、そこには希望と再生の物語が隠されています。",
+                "synonyms": [
+                        "Beat",
+                        "Separate"
+                ],
+                "antonyms": [
+                        "Combine",
+                        "Join"
+                ],
+                "aftertaste": "A primal symphony of man and field.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "threskan",
+                                        "meaning": "to to beat, to thrash"
+                                }
+                        ],
+                        "points": [
+                                "脱穀には、自然の恵みを享受し、同時に克服する人類の進化の歴史が刻まれている。"
+                        ]
+                },
+                "source": "Oxford English Dictionary, Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "Old English, Proto-Germanic origin"
+        },
+        {
+                "id": "port",
+                "word": "Port",
+                "part_of_speech": "noun",
+                "meaning": "港、持ち運ぶこと",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "portus-",
+                                        "type": "root",
+                                        "meaning": "港",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "portare-",
+                                        "type": "root",
+                                        "meaning": "運ぶ",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'port' is derived from Latin 'portus' meaning harbor, and 'portare' meaning to carry."
+                },
+                "core_concept": {
+                        "en": "A gateway to journeys unfathomable, embracing both departure and arrival in its embrace.",
+                        "ja": "出発と到着を抱きしめる無限の旅への入口"
+                },
+                "thinking_layer": "港という言葉は、物理的な境界を越えて精神的な領域に深く根を下ろしています。港は、単なる物理的な場所、すなわち船が安全に停泊する場であるだけでなく、出発と到着の象徴的な境界として、私たちの人生において重要なテーマとして現れます。出航の瞬間、私たちは自身の内なる旅に焦点を合わせ、未知なる可能性を迎え入れます。一方、到着の瞬間、それは安堵と再発見の場であり、新しい経験の総体を抱えて戻る時に私たちが経験する境地でもあります。港の深淵は、変化と不変の狭間に存在する詩的な時空間を提供します。変革の息吹を感じつつ、その奥に横たわる恒久的な真実に目を向けることを促します。このように、港という概念は、私たちの存在の根底にある矛盾と統合を体現し、また人生の多様な局面を包容してくれる存在なのです。",
+                "synonyms": [
+                        "Harbor",
+                        "Haven"
+                ],
+                "antonyms": [
+                        "Source",
+                        "Origin"
+                ],
+                "aftertaste": "Port is where journeys converge and diverge, cradling beginnings and endings.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "portus",
+                                        "meaning": "harbor"
+                                },
+                                {
+                                        "term": "portare",
+                                        "meaning": "to carry"
+                                }
+                        ],
+                        "points": [
+                                "港は、現代においても物理的な移動手段としての役割だけでなく、精神的な旅のメタファーとしても存在している。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Latin, 14th Century"
+        },
+        {
+                "id": "involve",
+                "word": "Involve",
+                "part_of_speech": "verb",
+                "meaning": "巻き込む、含む",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "in-",
+                                        "type": "prefix",
+                                        "meaning": "内部に",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "volvere",
+                                        "type": "root",
+                                        "meaning": "転がる、巻く",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'involve' originates from the Latin ‘involvere,’ meaning to wrap or roll in."
+                },
+                "core_concept": {
+                        "en": "To intertwine existence with layers of complexity.",
+                        "ja": "存在を複雑さの層で絡み合わせること。"
+                },
+                "thinking_layer": "巻き込むという行為は、人の意識に深く刻まれた一つの原理である。それは関係性を編み、相互作用を促進し、新しい現実を創造するための力を持っている。この言葉は、他者との繋がり、出来事への積極的な参加、あるいは変化に対する受容の象徴でもある。そして、それは時には避けられず、時には自発的に選ばれるものだ。『巻き込む』という言葉は、関係の網目を細かく織り成し、互いの存在が一体となることで一つの共同体となる過程を示している。人生の大海を航海する中で、我々はしばしば意図せずに、あるいは鋭い意識の下に互いに包まれていく。それは一種の運命的奉仕であり、時には共感の繋がりによってもたらされる。最終的にこの過程は、個々の存在を超えて新たな意味を紡ぎ出す。このような深い視点に立った時、我々は『巻き込む』ことに対する理解が、自己と他者、時間と空間の真の結びつきに至る道を示すことに気づく。すべてが巻き込むという行為のうちに、宇宙の一部としての我々自身を感じ取ることができるのだ。",
+                "synonyms": [
+                        "Include",
+                        "Engage"
+                ],
+                "antonyms": [
+                        "Exclude",
+                        "Ignore"
+                ],
+                "aftertaste": "Involvement is the gentle art of embracing life's intertwined dance.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "volvere",
+                                        "meaning": "to roll"
+                                }
+                        ],
+                        "points": [
+                                "『involvere』というラテン語から発展し、「内部へ巻き込む」ことを示している。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "15th Century"
+        },
+        {
+                "id": "plant",
+                "word": "Plant",
+                "part_of_speech": "noun/verb",
+                "meaning": "植物, 栽培する",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "plant-",
+                                        "type": "root",
+                                        "meaning": "植物",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The term 'plant' originated from the Latin 'planta' meaning a sprout or cutting, later adapted in Old English as 'plante', indicating a young tree or herb for planting."
+                },
+                "core_concept": {
+                        "en": "A seed gently forged by the hands of time, rooting silently in the quiet earth.",
+                        "ja": "時の手によってそっと形成され、穏やかな大地に静かに根を下ろす種子"
+                },
+                "thinking_layer": "植物とは古来より人類と自然の関係を象徴する存在であり、その生命力は神秘に満ちています。小さな種が静かに土に根を下ろし、やがて姿を現す様は、謙虚さと忍耐の象徴と言えるでしょう。植物は生命の循環を象徴し、人間の営みと深く結びついています。私たちの呼吸を浄化し、食物を提供し、時には薬としても機能するその存在は、生と死、成長と再生のサイクルを絶え間なく続けるものであります。植物の根を下ろす姿は、私たちが大地に根付き、宇宙と一体になっていく様子を象徴しているのかもしれません。その静かないのちの声に耳を傾けるとき、我々は自然の無言の教えを肌で感じるのです。それは、人間の孤独を和らげ、共に生きる多様な生命とのつながりを感得させるものです。その沈黙の中に、宇宙の深遠を感じ取ることができるでしょう。",
+                "synonyms": [
+                        "flora",
+                        "vegetation"
+                ],
+                "antonyms": [
+                        "animal",
+                        "fauna"
+                ],
+                "aftertaste": "In the silent growth of a plant, we hear the universe whisper.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "planta",
+                                        "meaning": "sprout, cutting"
+                                }
+                        ],
+                        "points": [
+                                "ラテン語の「planta」は、切り枝や若木を指し、自然との深い関係を表している。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "Old English, Latin origin"
+        },
+        {
+                "id": "template",
+                "word": "Template",
+                "part_of_speech": "noun",
+                "meaning": "型や雛形のこと",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "templet",
+                                        "type": "root",
+                                        "meaning": "型板",
+                                        "lang": "Middle French"
+                                }
+                        ],
+                        "original_statement": "The word 'template' originates from the Middle French 'templet', which referred to a pattern or a mold used for shaping objects."
+                },
+                "core_concept": {
+                        "en": "A mold to shape and redefine the world.",
+                        "ja": "世界を形作り、再定義する鋳型"
+                },
+                "thinking_layer": "テンプレートとは、一見無機質な枠組みだが、創造への道を開く神秘的な工具にもなり得る。一枚の紙の上に描かれる線は、ただの境界ではなく、無限の可能性への窓である。私たちの魂が永遠を形にしようとする際の仮の住処であり、秩序と混沌との間に架ける橋でもある。テンプレートは、時間の流れの中で変わりゆくものを捉え、静かにその核を保ち続ける存在である。形に制約を与えると同時に、制約を超えた美しさを見出すことを可能にする心のプログラム。それはまた、過去の智慧と未来への展望を融合させ、新たな創造の車輪を回転させるカタリストとしての役割も果たす。",
+                "synonyms": [
+                        "Pattern",
+                        "Model"
+                ],
+                "antonyms": [
+                        "Chaos",
+                        "Disorder"
+                ],
+                "aftertaste": "A template is the silent guide to the chaotic dance of creation.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "templet",
+                                        "meaning": "A mold or a pattern"
+                                }
+                        ],
+                        "points": [
+                                "テンプレートは心の中の混沌を整える工具として機能し、無形を有形に変換することを可能にする。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "16th Century"
         }
 ];
