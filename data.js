@@ -46932,5 +46932,326 @@ const WORDS = [
                 "source": "Online Etymology Dictionary",
                 "date": "2026-03-01",
                 "era": "Latin, 16th Century"
+        },
+        {
+                "id": "consume",
+                "word": "Consume",
+                "part_of_speech": "verb",
+                "meaning": "消費する",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "con-",
+                                        "type": "prefix",
+                                        "meaning": "共に",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "sumere",
+                                        "type": "root",
+                                        "meaning": "取る",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The term 'consume' originates from the Latin 'consumere', a combination of 'con-', meaning 'with' or 'together', and 'sumere', meaning 'to take'."
+                },
+                "core_concept": {
+                        "en": "An inexorable act of taking in until the essence is transformed or depleted.",
+                        "ja": "全てを飲み込む不可避の行為"
+                },
+                "thinking_layer": "消費という行為は、生命の中で不断に行われる取り込みと変化の過程である。それは単なる物理的な取り入れに止まらず、精神的および文化的な次元で私たちを形作る重要な要素でもある。この過程では、私たちは物質を通して、エネルギーのみならず、記憶や経験、さらには時間そのものを消耗している。消費とは、始まりと終わりの中間に存在する一瞬の経験とも言える。私たちが何かを消費する時、そのものの本質を自分の中に取り込み、それは私たちの存在に一部となる。それと同時に、消費されたものは変容し、時には全く異なる姿を取ることになる。消費という行為は、持続と変遷の間を行き来する微妙なバランスによって成り立っており、過去と未来を繋ぐ感動的な現象である。それは私たちが如何に生き、如何に物質世界と交わるかの象徴でもある。消耗の過程を通じて、私たちは新たな価値を生み出し、過去の遺産を次世代に伝えてゆく。",
+                "synonyms": [
+                        "Devour",
+                        "Ingest"
+                ],
+                "antonyms": [
+                        "Preserve",
+                        "Conserve"
+                ],
+                "aftertaste": "To consume is to partake in a perpetual dance of creation and destruction.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "sumere",
+                                        "meaning": "to take"
+                                }
+                        ],
+                        "points": [
+                                "この語は、何かを取る行為として、物質と精神の両面に関与する。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "14th Century"
+        },
+        {
+                "id": "resist",
+                "word": "Resist",
+                "part_of_speech": "verb",
+                "meaning": "抵抗する、反対する",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "re-",
+                                        "type": "prefix",
+                                        "meaning": "再び、逆に",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "sistere",
+                                        "type": "root",
+                                        "meaning": "立つ、定まる",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "Derived from Latin 'resistere', composed of 're-' meaning 'again' or 'against' and 'sistere' meaning 'to stand'."
+                },
+                "core_concept": {
+                        "en": "To stand firmly against the currents of fate.",
+                        "ja": "運命の流れに逆らって堂々と立つこと"
+                },
+                "thinking_layer": "抵抗という言葉は、単なる物理的な行為を超え、精神的な力を示す。この言葉が内包する哲学的な深みは、人間の本質と葛藤し、意思の強さと自己の確立を象徴するものである。抵抗とは、時には自然の不可避な流れに反発し、時には外部の圧力に対する鋭い意志の示唆となる。人生において、抵抗の行為は避けられない縦糸と横糸からなるタペストリーとして編み込まれ、自身のアイデンティティと信念の深さを測る試金石ともなる。抵抗することは、人間の存在そのもの、精神と感情の戦場において、自己を定義し、一歩一歩険しい道を切り開く勇気の表現である。それは、非合理的な世界においても自らを貫く理性的防衛であり、『抵抗』に立ち向かうことで私たちが自由という名の希望を抱き続けられるというメッセージを、古代の知恵は語りかける。",
+                "synonyms": [
+                        "oppose",
+                        "withstand"
+                ],
+                "antonyms": [
+                        "yield",
+                        "surrender"
+                ],
+                "aftertaste": "True resistance is the courage to defy what seems inevitable.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "resistere",
+                                        "meaning": "to stand back or withstand"
+                                }
+                        ],
+                        "points": [
+                                "抵抗とは、ラテン語の『resistere』に由来し、『再び立ち向かう』の意味を持つ。これは身体的、精神的、そして社会的な挑戦に対する深い認識を示す。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Mid 14th Century"
+        },
+        {
+                "id": "description",
+                "word": "Description",
+                "part_of_speech": "noun",
+                "meaning": "詳細を述べること",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "de-",
+                                        "type": "prefix",
+                                        "meaning": "取り除く, 離れる",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "scribere",
+                                        "type": "root",
+                                        "meaning": "書く",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "From the Latin 'descriptio', derived from 'describere' meaning 'to write down' or 'to delineate'."
+                },
+                "core_concept": {
+                        "en": "A vivid portrayal in words.",
+                        "ja": "言葉の中に描かれた生き生きとした描写"
+                },
+                "thinking_layer": "『記述』とは、目に見えない思想や感情を視覚言語として紙の上に描くことである。言葉を用いて不在のものを在らしめ、存在の扉を開く行為であり、人間の心の奥に眠る可能性を呼び覚ます。それは現実世界の複雑な編み物に潜む物語を解きほぐし、新たな光で照らし出す旅である。記述は単なる情報の羅列ではなく、記録される事象に命を吹き込み、感情の交錯を通じて読者の心に深い響きを与える。秘められた真実と躍動する想像力が交差する地点において、記述は過去と未来を結ぶ架け橋となるだろう。そして、言葉の優雅な流れが形作る絵画的な風景は、日常の煩雑さを包み込み、静けさの中に潜む無限の可能性を感じさせる。記述とは、言語を通して宇宙そのものを自己の中に写し取る、神秘的な行為と呼ぶにふさわしい。私たちはその一言一句に、新たな宇宙を垣間見るのだ。",
+                "synonyms": [
+                        "Portrayal",
+                        "Depiction"
+                ],
+                "antonyms": [
+                        "Nondescription",
+                        "Vagueness"
+                ],
+                "aftertaste": "Description breathes life into the unseen world.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "de-",
+                                        "meaning": "down, away"
+                                },
+                                {
+                                        "term": "scribere",
+                                        "meaning": "to write"
+                                }
+                        ],
+                        "points": [
+                                "記述という言葉は、本来『書くこと』に道を開き、その行為の一つひとつが新しいイメージと解釈を育むプロセスである。"
+                        ]
+                },
+                "source": "Etymonline",
+                "date": "2026-03-01",
+                "era": "Late Middle English, originating from Latin"
+        },
+        {
+                "id": "instrument",
+                "word": "Instrument",
+                "part_of_speech": "noun",
+                "meaning": "道具や機器、または手段として機能するもの",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "instru-",
+                                        "type": "root",
+                                        "meaning": "教える、指示する",
+                                        "lang": "ラテン語"
+                                },
+                                {
+                                        "text": "-ment",
+                                        "type": "suffix",
+                                        "meaning": "手段、行為",
+                                        "lang": "ラテン語"
+                                }
+                        ],
+                        "original_statement": "The word 'instrument' originated from the Latin 'instrumentum', referring to a tool or equipment used to perform a task."
+                },
+                "core_concept": {
+                        "en": "A vessel through which the invisible becomes tangible.",
+                        "ja": "眼に見えないものを実体化する手段。"
+                },
+                "thinking_layer": "楽器や道具としてのインストゥルメントという語は、単に機械的な装置を指すだけではなく、人間の意図と宇宙的な調和をつなぐ橋の役割を果たします。楽器が音楽を生み出し、言葉が新たな現実を形づくるように、インストゥルメントは私たちの願望を物質世界に反映し、形にするのです。それがただの機器であれ、音の波動を操る楽器であれ、インストゥルメントを用いることにより、我々は無形のものを有形に転換する能力者となります。創造の力はインストゥルメントを通して増幅され、我々に届けられるのです。それはまた、内部の静寂と外部の騒音の間に立つ自分自身との対話でもあります。インストゥルメントに手を触れることは、自らの内なる創造力に触れることであり、それは宇宙の広大な楽章と小さな私たちのリアリティを共鳴させる特権でもあります。その震え、その響きは、時空を超えて人類の魂に触れ、深遠な理解へと誘います。インストゥルメント、それは私たちが見えない内部の世界を視覚化するための途切れない橋であり、無限の可能性を具現化するための鍵です。",
+                "synonyms": [
+                        "Tool",
+                        "Device"
+                ],
+                "antonyms": [
+                        "Aimlessness",
+                        "Disarray"
+                ],
+                "aftertaste": "An instrument is the essence of human ingenuity materialized.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "instruere",
+                                        "meaning": "to prepare, to build"
+                                },
+                                {
+                                        "term": "instrumentum",
+                                        "meaning": "a tool or apparatus"
+                                }
+                        ],
+                        "points": [
+                                "インストゥルメントは、ラテン語の 'instruere'（準備する、構築する）に由来し、古代においては作業の手段として重要であったことが伺えます。",
+                                "この言葉は、ただの物理的な道具を越えて、精神的な感覚を実世界に翻訳する媒介者とも捉えられます。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "Latin Era, circa 14th Century"
+        },
+        {
+                "id": "release",
+                "word": "Release",
+                "part_of_speech": "noun/verb",
+                "meaning": "解放または放出",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "re-",
+                                        "type": "prefix",
+                                        "meaning": "再び",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "laxare",
+                                        "type": "root",
+                                        "meaning": "緩める",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'release' stems from the Old French 'relaissier', meaning to relinquish or abandon, drawing from Latin roots re- and laxare."
+                },
+                "core_concept": {
+                        "en": "A gentle unveiling of binding constraints, allowing freedom to breathe anew.",
+                        "ja": "束縛を解かれ、新たに息吹く自由の穏やかな解放"
+                },
+                "thinking_layer": "解放とは、自然界や人間の魂が縛りから解かれ、無限の可能性と新たな始まりを得る瞬間です。それは、緊張が緩み、可能性の扉が再び開かれたときに訪れる安堵の状態であり、宇宙の秩序の一部として、自由を授かったという喜びを引き起こします。生命が再び安らぎと共に大地を流れる河のように、その躍動を許され、無限の流れに戻るのです。そして、解放とはただ単に手放すことではなく、別の姿で復活する可能性を信じることなのです。人は、物事の執着や自己の限界を超えることで、新しい視点と深化した感覚に目覚め、心の深層に眠る真実の響きに耳を澄ますことができるようになります。このプロセスは、時の儚さと物事の性質の本質を愛でつつ、今まさに手にしているものを尊厳と共に保ち続け、同時に手放すことを許すことによって、新たな未来を迎え入れる準備なのです。解放とは、そのような永遠なる循環の中で、新たな精神の飛躍を可能にする鍵です。",
+                "synonyms": [
+                        "Liberate",
+                        "Free"
+                ],
+                "antonyms": [
+                        "Restrain",
+                        "Hold"
+                ],
+                "aftertaste": "Release touches the heart of existence with its promise of unshackled freedoms.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "laxare",
+                                        "meaning": "to loosen, to free"
+                                }
+                        ],
+                        "points": [
+                                "ラテン語 'laxare' が語源の一部であり、緩めるという意味である。現代においては心や精神の束縛から解き放つ行為を象徴する。"
+                        ]
+                },
+                "source": "Etymology Online Dictionary",
+                "date": "2026-03-01",
+                "era": "Late Middle English"
+        },
+        {
+                "id": "container",
+                "word": "Container",
+                "part_of_speech": "noun",
+                "meaning": "物を収めるための器またはもの",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "con-",
+                                        "type": "prefix",
+                                        "meaning": "全体を共につかむ",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "tenere",
+                                        "type": "root",
+                                        "meaning": "つかむ",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'container' is derived from the Latin 'con-' meaning 'together' and 'tenere' meaning 'to hold'."
+                },
+                "core_concept": {
+                        "en": "A vessel of holding, where dreams converge and worlds unite.",
+                        "ja": "夢が交わり、世界が一つになる場所。"
+                },
+                "thinking_layer": "コンテナという言葉は単なる物理的な空間を指すだけではありません。それは世界の多様性と可能性を包含し、互いに関連付けられた要素が一体となる場として詩的に捉えられます。この語はまた、人間の知恵と創造力が凝縮されたものとも呼べます。物を収めておく静寂な容器は、その中に計り知れない未来の可能性を秘めています。古代のラテン語から現代に至るまで、毎日の生活の中で何事かを保持し守る役割を果たしてきました。その内部には、目に見えない無数の構想や記憶がうごめいています。これの本質は、単なる道具の越えたものであり、物質と精神の結合点とでも言えましょう。その静謐な存在感には、時間の流れを超越し、未来への道しるべとなる洞察の光があります。",
+                "synonyms": [
+                        "Vessel",
+                        "Holder"
+                ],
+                "antonyms": [
+                        "Emptiness",
+                        "Void"
+                ],
+                "aftertaste": "It is in the depth of containment that true potential finds its voice.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "tenere",
+                                        "meaning": "to hold"
+                                }
+                        ],
+                        "points": [
+                                "コンテナは、中身を保持し、その存在と意味を変容させる契機となる。ラテン語の起源にある「tenere（つかむ）」という動詞には、物理的な意味以上に精神的な支配力が暗示されている。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Early 15th Century"
         }
 ];
