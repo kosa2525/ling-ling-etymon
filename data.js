@@ -41521,5 +41521,222 @@ const WORDS = [
                 "source": "Online Etymology Dictionary",
                 "date": "2026-03-01",
                 "era": "Late Latin, Medieval Period"
+        },
+        {
+                "id": "manufacture",
+                "word": "Manufacture",
+                "part_of_speech": "noun/verb",
+                "meaning": "製造する行為やプロセス",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "manu-",
+                                        "type": "prefix",
+                                        "meaning": "手",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "factura",
+                                        "type": "root",
+                                        "meaning": "作ること",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "Derived from the Latin 'manu factus' meaning 'made by hand', indicative of early handmade production processes."
+                },
+                "core_concept": {
+                        "en": "The alchemy of human hands transforming raw materials into masterpieces.",
+                        "ja": "人間の手による錬金術、原材料を傑作に変えること。"
+                },
+                "thinking_layer": "製造とは、一つの創造の哲学的行程であり、それは原材料が人間の手によって形を変え、価値を持つ作品となる物語である。このプロセスは、単なる物質の変容を超えて、存在の深奥に触れる試みである。製品は、その背後にある無限の知恵と技術の結晶であり、それぞれは職人の意図と歴史の積層を映し出す。人間は、物を作る能力を持つことにより、自己の内なる可能性を具現化し、世界に新たな意味を付与する。それは動的な過程で、人類の進化の一部として、永遠に続く変化と創造の循環を示している。製造の行為は同時に人類の進化を象徴し、意識の拡張を追求する哲学的試練である。この物語は、実際の物質の境界を超えて、私たちの意識の境界を広げるよう追求している。製造は技術と芸術が交差する場として、人類の発展を支える基盤を築いている。",
+                "synonyms": [
+                        "Production",
+                        "Fabrication"
+                ],
+                "antonyms": [
+                        "Destruction",
+                        "Disassembly"
+                ],
+                "aftertaste": "Production is the heartbeat of progress, an eternal rhythm of creation.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "manu",
+                                        "meaning": "hand"
+                                },
+                                {
+                                        "term": "factura",
+                                        "meaning": "making"
+                                }
+                        ],
+                        "points": [
+                                "製造の語源は、しばしば機械化と対比されるが、その核心には手作業という原初的な活動が潜んでいる。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Late Middle English, from Latin"
+        },
+        {
+                "id": "inform",
+                "word": "Inform",
+                "part_of_speech": "verb",
+                "meaning": "情報を提供する、知らせる",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "in-",
+                                        "type": "prefix",
+                                        "meaning": "〜の中に",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "formare",
+                                        "type": "root",
+                                        "meaning": "形作る",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'inform' derives from the Latin 'informare', meaning 'to form, shape or instruct, educate', which is rooted in 'in-' (into) and 'forma' (form, shape)."
+                },
+                "core_concept": {
+                        "en": "To illuminate the mind and carve understanding.",
+                        "ja": "心を照らし、理解を形作ること"
+                },
+                "thinking_layer": "『inform』という語は、まるで遠い昔からの叡智が私たちの心に語りかけるように感じられます。情報を提供することは、単なる知識の伝達を超え、魂に形を与える行為です。古代から現代に至るまで、人々は言葉を通して他者に世界観を授け、自分自身もまたその言葉により変容してきました。言葉には力があり、情報はその力を具現化するものです。情報を伝えることは、ただの事実の羅列以上に、人の思いを心の中に形作り、新たな可能性を生む行為です。言葉は沈黙を破り、異文化間の橋を架けるもの。私たちの内なる無限の荒野を言葉で培い、豊かに彩る行いに他なりません。現代において情報とは、知識を授けると共に、新しい思考の形成を促す触媒であります。その本質を心に刻むことは、他者と共に世界を作り上げる一歩を踏み出すことに等しいのです。「inform」という語は、それ自体が哲学的な命題であり、知の灯火として未来を照らします。",
+                "synonyms": [
+                        "Notify",
+                        "Tell"
+                ],
+                "antonyms": [
+                        "Conceal",
+                        "Hide"
+                ],
+                "aftertaste": "To inform is to ignite the mind's eternal candle.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "formare",
+                                        "meaning": "to shape, mold"
+                                }
+                        ],
+                        "points": [
+                                "『インフォーム』という言葉は、情報を提供することで理解を構築し、新たな視点を提起する概念を表しています。ラテン語の「インフォルマーレ」が語源であり、内部に形を与えることを意味しています。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "14th Century"
+        },
+        {
+                "id": "uniform",
+                "word": "Uniform",
+                "part_of_speech": "noun/adjective",
+                "meaning": "形や姿が同じであること",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "uni-",
+                                        "type": "prefix",
+                                        "meaning": "一つ",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "form",
+                                        "type": "root",
+                                        "meaning": "形、形式",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'uniform' originated from the Latin terms 'uni-' meaning 'one' and 'forma' meaning 'form'."
+                },
+                "core_concept": {
+                        "en": "A harmonious symmetry that transcends the mundane, binding many into one.",
+                        "ja": "多を一にまとめる調和の美。"
+                },
+                "thinking_layer": "ユニフォームとは、見えざる力により形を与えられた姿である。それは個を成し、同時に群れの一部でもある。人々が一つの形式に収まるとき、そこには外見を超えた統一感が生まれる。この統一感は内面的なものであり、しばしば見逃されがちだが、集団の働きを円滑にする力でもある。ユニフォームを纏った集団は、形あるものであるにも関わらず、畏敬の念を呼び起こす概念として存在する。個別の輪郭が消え、一つの形が全体の力になる瞬間。それは人間の集団における文明の象徴である。そしてその概念は、同じ形を持つことが誇りにもなり得ることを示している。この偉大なる集合の象徴たるユニフォームは、個の自由を抑制しつつも前進するための基盤となる。",
+                "synonyms": [
+                        "Consistent",
+                        "Homogeneous"
+                ],
+                "antonyms": [
+                        "Diverse",
+                        "Varied"
+                ],
+                "aftertaste": "Uniformity holds the power to turn solitude into unity.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "uni",
+                                        "meaning": "one"
+                                },
+                                {
+                                        "term": "form",
+                                        "meaning": "shape"
+                                }
+                        ],
+                        "points": [
+                                "「ユニフォーム」は、ラテン語のuni（1つ）とforma（形）から形成され、均一性と統一感を象徴する。",
+                                "それは個々を超えて団体としての力を具現化する視覚的表現でもある。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "Late 15th Century"
+        },
+        {
+                "id": "important",
+                "word": "Important",
+                "part_of_speech": "adjective",
+                "meaning": "重要なこと、大切なこと",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "in-",
+                                        "type": "prefix",
+                                        "meaning": "否定を表す",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "portare",
+                                        "type": "root",
+                                        "meaning": "運ぶ",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'important' comes from the Latin 'importare' meaning 'to bring in' or 'to signify.'"
+                },
+                "core_concept": {
+                        "en": "A weight that carries significance through time.",
+                        "ja": "時を越えて重要性を運ぶ重み"
+                },
+                "thinking_layer": "「重要」という言葉は、現代の社会において無数の意味合いを持ち、その響きは私たちの日常に深く浸透しています。この言葉が表すものは、単なる重要性以上の何かです。それは、私たちが何を抱え、何を願望し、何を恐れるかを反映しています。重要なものは時折、何千もの思考よりも重く、そして時には沈黙よりも鋭く響く。ある瞬間には、その存在は我々の道を照らし、また別の瞬間には行く手を阻む壁となる。この言葉には、歴史や文化、価値観が折り重なり、生きている証として私たちの心に刻まれます。重要とは、単なる言葉の定義を超越し、我々の選択や行動に対して影響を及ぼす力を求めます。それはまた、私たちが何を残し、何を見送るかを決定する基準であり、時の流れと共鳴して新たな意味を生み出します。「重要」という概念は我々の存在の証であり、日々の営みをより豊かに、より深く、そしてより意識的に形作ります。",
+                "synonyms": [
+                        "Significant",
+                        "Crucial"
+                ],
+                "antonyms": [
+                        "Trivial",
+                        "Insignificant"
+                ],
+                "aftertaste": "True importance transcends mere urgency.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "importare",
+                                        "meaning": "to bring in or signify"
+                                }
+                        ],
+                        "points": [
+                                "ラテン語の「importare」は、もともと「運び込む」あるいは「意味を持たせる」という意味を持つ。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "15th Century"
         }
 ];
