@@ -17852,6 +17852,102 @@ const WORDS = [
                 "era": "Old English"
         },
         {
+                "id": "ebullient",
+                "word": "Ebullient",
+                "part_of_speech": "adjective",
+                "meaning": "（元気が）沸き立つ、あふれんばかりの",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "ex-",
+                                        "type": "prefix",
+                                        "meaning": "out"
+                                },
+                                {
+                                        "text": "bullire",
+                                        "type": "root",
+                                        "meaning": "to boil"
+                                }
+                        ],
+                        "original_statement": "From Latin ebullientem, from ebullire 'to boil over', from ex- 'out' + bullire 'to bubble, boil'."
+                },
+                "core_concept": {
+                        "en": "Boiling over",
+                        "ja": "情熱が沸騰し、器から泡となって溢れ出す"
+                },
+                "thinking_layer": "ただ明るいのではなく、内側で熱せられたエネルギーが「沸点」に達している状態です。抑えようとしても、シュワシュワと気泡が浮かび上がるように喜びが漏れ出してしまう、生命力の爆発です。",
+                "synonyms": [
+                        "exuberant",
+                        "buoyant"
+                ],
+                "antonyms": [
+                        "depressed",
+                        "apathetic"
+                ],
+                "aftertaste": "沸騰する命の、心地よい熱気",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "bullire",
+                                        "meaning": "boil"
+                                }
+                        ],
+                        "points": [
+                                "boil（茹でる）やbulletin（公報＝印章の丸い形＝気泡）とも繋がりのある「泡」の系譜です。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "16th Century Latin"
+        },
+        {
+                "id": "eccentric",
+                "word": "Eccentric",
+                "part_of_speech": "adjective/noun",
+                "meaning": "一風変わった、偏屈な、中心を外れた",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "ex-",
+                                        "type": "prefix",
+                                        "meaning": "out"
+                                },
+                                {
+                                        "text": "kentron",
+                                        "type": "root",
+                                        "meaning": "center"
+                                }
+                        ],
+                        "original_statement": "From Greek ekkentros 'out of the center', from ek 'out' + kentron 'center'."
+                },
+                "core_concept": {
+                        "en": "Out of the center",
+                        "ja": "中心軸から弾かれ、独自の軌道を回り始める"
+                },
+                "thinking_layer": "「変人」とは、社会が共有する中心軸（center）からズレた場所に立っている人のことです。それは間違いではなく、自分だけの「中心」を持っているということ。集団の引力に負けない、孤高の回転です。",
+                "synonyms": [
+                        "unconventional",
+                        "peculiar"
+                ],
+                "antonyms": [
+                        "conventional",
+                        "ordinary"
+                ],
+                "aftertaste": "中心を捨てた先に見える、新しい円",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "kentron",
+                                        "meaning": "sharp point / center"
+                                }
+                        ],
+                        "points": [
+                                "center（中心）はもともとコンパスの「針の先」を意味しました。そこから外れる勇気です。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "16th Century Greek"
+        },
+        {
                 "id": "echo",
                 "word": "Echo",
                 "part_of_speech": "noun",
@@ -17896,6 +17992,54 @@ const WORDS = [
                 "source": "Etymology Online",
                 "date": "2026-03-01",
                 "era": "Ancient Greek"
+        },
+        {
+                "id": "eclipse",
+                "word": "Eclipse",
+                "part_of_speech": "noun/verb",
+                "meaning": "（天体の）食、影を落とす、凌駕する",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "ek-",
+                                        "type": "prefix",
+                                        "meaning": "out"
+                                },
+                                {
+                                        "text": "leipein",
+                                        "type": "root",
+                                        "meaning": "to leave"
+                                }
+                        ],
+                        "original_statement": "From Greek ekleipsis 'a forsaking, quitting', from ek- 'out' + leipein 'to leave'."
+                },
+                "core_concept": {
+                        "en": "A leaving out of light",
+                        "ja": "光がその場所を去り、一時的な不在が訪れる"
+                },
+                "thinking_layer": "「食」の本質は、光の「放棄（forsaking）」です。太陽や月が持ち場を離れ（leave out）、世界が影に沈む。その圧倒的な不在は、転じて「他者を影に追いやるほど凌駕する」という力強い意味へと進化しました。",
+                "synonyms": [
+                        "obscure",
+                        "surpass"
+                ],
+                "antonyms": [
+                        "reveal",
+                        "brighten"
+                ],
+                "aftertaste": "光が去った後の、厳かな静寂",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "leipein",
+                                        "meaning": "leave"
+                                }
+                        ],
+                        "points": [
+                                "ellipsis（省略＝取り残されたもの）やloan（貸し付け＝残されたもの）とも深層で繋がっています。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "Ancient Greek / 14th Century Old French"
         },
         {
                 "id": "ecliptic",
@@ -17954,6 +18098,58 @@ const WORDS = [
                 "era": "Ancient Greek"
         },
         {
+                "id": "economy",
+                "word": "Economy",
+                "part_of_speech": "noun",
+                "meaning": "経済、節約",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "oikos",
+                                        "type": "root",
+                                        "meaning": "house"
+                                },
+                                {
+                                        "text": "nemein",
+                                        "type": "root",
+                                        "meaning": "to manage / to distribute"
+                                }
+                        ],
+                        "original_statement": "From Greek oikonomia 'household management', from oikos 'house' + nemein 'manage'."
+                },
+                "core_concept": {
+                        "en": "Household management",
+                        "ja": "家という小さな宇宙を、知恵と秩序で切り盛りする"
+                },
+                "thinking_layer": "経済の原点は「家政（oikonomia）」です。限られた資源をどう配分（manage）し、家族の命を繋ぐか. 巨大な世界経済も、元を辿れば一軒の屋根の下で交わされる「やりくり」の知恵の集積なのです。",
+                "synonyms": [
+                        "wealth",
+                        "frugality"
+                ],
+                "antonyms": [
+                        "extravagance",
+                        "waste"
+                ],
+                "aftertaste": "台所から始まった、世界の秩序",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "oikos",
+                                        "meaning": "house"
+                                },
+                                {
+                                        "term": "nemein",
+                                        "meaning": "manage"
+                                }
+                        ],
+                        "points": [
+                                "ecology（生態学＝家の学問）と同じ「家」をルーツに持ちます。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "Ancient Greek / 15th Century French"
+        },
+        {
                 "id": "ecstasy",
                 "word": "Ecstasy",
                 "part_of_speech": "noun",
@@ -18000,6 +18196,106 @@ const WORDS = [
                 },
                 "source": "etymon Philologist Mode",
                 "era": "Ancient Greek / 14th Century Old French"
+        },
+        {
+                "id": "ecumenical",
+                "word": "Ecumenical",
+                "part_of_speech": "adjective",
+                "meaning": "全キリスト教会の、普遍的な、世界的な",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "oikoumenikos",
+                                        "type": "root",
+                                        "meaning": "from the whole world"
+                                },
+                                {
+                                        "text": "oikein",
+                                        "type": "root",
+                                        "meaning": "to inhabit"
+                                }
+                        ],
+                        "original_statement": "From Greek oikoumene 'the inhabited world', from oikein 'to inhabit'."
+                },
+                "core_concept": {
+                        "en": "The whole inhabited world",
+                        "ja": "人が住まうすべての地を、ひとつの家として包み込む"
+                },
+                "thinking_layer": "境界線で分かつのではなく、人類が「住んでいる（inhabit）」場所すべてを一つの圏内と見なす視点です. 対立を越え、共有された「居住地」としての地球を慈しむ、大きな平穏の言葉です。",
+                "synonyms": [
+                        "universal",
+                        "worldwide"
+                ],
+                "antonyms": [
+                        "parochial",
+                        "sectarian"
+                ],
+                "aftertaste": "地平線の果てまで届く、連帯の祈り",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "oikos",
+                                        "meaning": "house"
+                                }
+                        ],
+                        "points": [
+                                "economyと同じく「家」が語源。世界を「一つの家」と見る壮大な想像力です。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "16th Century Greek / Latin"
+        },
+        {
+                "id": "edify",
+                "word": "Edify",
+                "part_of_speech": "verb",
+                "meaning": "（精神的に）教化する、啓発する",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "aedes",
+                                        "type": "root",
+                                        "meaning": "dwelling / temple"
+                                },
+                                {
+                                        "text": "facere",
+                                        "type": "root",
+                                        "meaning": "to make"
+                                }
+                        ],
+                        "original_statement": "From Old French edifier, from Latin aedificare 'to build', from aedes 'temple, house' + facere 'to make'."
+                },
+                "core_concept": {
+                        "en": "To build a temple within",
+                        "ja": "心の荒野に、知性と徳という神殿を築き上げる"
+                },
+                "thinking_layer": "教える（educate）が「引き出す」なら、啓発（edify）は「積み上げる」ことです。自分の中に、崩れることのない精神的な建築物（神殿）をコツコツと建てていく。学びとは、魂の建設作業なのです。",
+                "synonyms": [
+                        "enlighten",
+                        "instruct"
+                ],
+                "antonyms": [
+                        "corrupt",
+                        "debase"
+                ],
+                "aftertaste": "自分の中に建ち上がる、揺るぎない聖域",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "aedes",
+                                        "meaning": "house"
+                                },
+                                {
+                                        "term": "facere",
+                                        "meaning": "make"
+                                }
+                        ],
+                        "points": [
+                                "edifice（大建造物）と同根。あなたの知識は、一つの大きな「建物」なのです。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "14th Century Old French / Latin"
         },
         {
                 "id": "educate",
@@ -18097,6 +18393,195 @@ const WORDS = [
                 "era": "16th Century Latin"
         },
         {
+                "id": "efface",
+                "word": "Efface",
+                "part_of_speech": "verb",
+                "meaning": "（表面を）消す、目立たなくさせる",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "ex-",
+                                        "type": "prefix",
+                                        "meaning": "out / away"
+                                },
+                                {
+                                        "text": "face",
+                                        "type": "root",
+                                        "meaning": "face / appearance"
+                                }
+                        ],
+                        "original_statement": "From French effacer, from e- 'out' + face 'face'."
+                },
+                "core_concept": {
+                        "en": "To remove the face",
+                        "ja": "固有の「顔」を拭い去り、背景へと溶け込ませる"
+                },
+                "thinking_layer": "存在感の象徴である「顔（face）」を「取り去る（away）」こと。文字を消すだけでなく、自意識を消し去って謙虚に振る舞う（self-effacing）際にも使われます。それは、個性を無効化する静かな破壊です。",
+                "synonyms": [
+                        "erase",
+                        "obliterate"
+                ],
+                "antonyms": [
+                        "highlight",
+                        "accentuate"
+                ],
+                "aftertaste": "個性が消えた後の、のっぺらぼうな静寂",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "face",
+                                        "meaning": "appearance"
+                                }
+                        ],
+                        "points": [
+                                "surface（表面）やfacade（正面）と同じく、見えている部分を指します。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "15th Century French"
+        },
+        {
+                "id": "effect",
+                "word": "Effect",
+                "part_of_speech": "noun/verb",
+                "meaning": "効果、結果、引き起こす",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "ex-",
+                                        "type": "prefix",
+                                        "meaning": "out"
+                                },
+                                {
+                                        "text": "facere",
+                                        "type": "root",
+                                        "meaning": "to do / to make"
+                                }
+                        ],
+                        "original_statement": "From Latin effectus, from efficere 'to work out, accomplish', from ex- 'out' + facere 'to do'."
+                },
+                "core_concept": {
+                        "en": "The thing made out",
+                        "ja": "働きかけの結果として「外（ex）」に作り出されたもの"
+                },
+                "thinking_layer": "「結果」とは、内側の意図が「外へと形作られた（make out）」ものです。空想に留まらず、物理的な現実として外の世界に結実した姿。その実在感こそが、効果（effect）の証です。",
+                "synonyms": [
+                        "result",
+                        "consequence"
+                ],
+                "antonyms": [
+                        "cause",
+                        "origin"
+                ],
+                "aftertaste": "現実に着地した、意思の結晶",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "facere",
+                                        "meaning": "make"
+                                }
+                        ],
+                        "points": [
+                                "fact（事実）やfactory（工場）と同じく「作る」が本質にあります。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "14th Century Latin"
+        },
+        {
+                "id": "efficient",
+                "word": "Efficient",
+                "part_of_speech": "adjective",
+                "meaning": "効率的な、有能な",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "ex-",
+                                        "type": "prefix",
+                                        "meaning": "out"
+                                },
+                                {
+                                        "text": "facere",
+                                        "type": "root",
+                                        "meaning": "to make"
+                                }
+                        ],
+                        "original_statement": "From Latin efficientem, from efficere 'to work out, accomplish'."
+                },
+                "core_concept": {
+                        "en": "Working out results",
+                        "ja": "無駄な動きを排し、確実に「結果」を外へと作り出す"
+                },
+                "thinking_layer": "「有能」とは、ただ動くことではなく、目的を確実に「作り遂げる（work out）」能力です. 最小の力で、狙った通りの「外的な変化（ex-facere）」を生み出す、冷徹で美しい力学を指します。",
+                "synonyms": [
+                        "effective",
+                        "productive"
+                ],
+                "antonyms": [
+                        "inefficient",
+                        "wasteful"
+                ],
+                "aftertaste": "無駄のない、研ぎ澄まされた出力",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "facere",
+                                        "meaning": "do"
+                                }
+                        ],
+                        "points": [
+                                "effect（効果）と同じ語源から、人（形容詞）としての属性に焦点が移った言葉です。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "14th Century Latin"
+        },
+        {
+                "id": "effigy",
+                "word": "Effigy",
+                "part_of_speech": "noun",
+                "meaning": "肖像、身代わりの人形",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "ex-",
+                                        "type": "prefix",
+                                        "meaning": "out"
+                                },
+                                {
+                                        "text": "fingere",
+                                        "type": "root",
+                                        "meaning": "to fashion / to mold"
+                                }
+                        ],
+                        "original_statement": "From Latin effigies 'copy, likeness', from effingere 'to fashion out, portray', from ex- 'out' + fingere 'to form'."
+                },
+                "core_concept": {
+                        "en": "Fashioned out of clay",
+                        "ja": "泥を捏ねて「外（ex）」へと形を映し出した、虚構の肉体"
+                },
+                "thinking_layer": "本人がそこにいない時、私たちは「形（figure）」を捏ねて代わりとします。それは本物ではないけれど、人々の怒りや祈りを受け止めるための「器」となります。形が、本物の魂を模倣し始める瞬間です。",
+                "synonyms": [
+                        "image",
+                        "likeness"
+                ],
+                "antonyms": [],
+                "aftertaste": "中身のない、しかし雄弁な抜け殻",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "fingere",
+                                        "meaning": "shape"
+                                }
+                        ],
+                        "points": [
+                                "fiction（フィクション）やfigure（図形）と同じ「捏ねて形作る」という行為が核です。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "16th Century Latin"
+        },
+        {
                 "id": "effort",
                 "word": "Effort",
                 "part_of_speech": "noun",
@@ -18143,6 +18628,107 @@ const WORDS = [
                 },
                 "source": "etymon Philologist Mode",
                 "era": "15th Century Old French / Latin"
+        },
+        {
+                "id": "effortless",
+                "word": "Effortless",
+                "part_of_speech": "adjective",
+                "meaning": "楽な、努力を要しない",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "ex-",
+                                        "type": "prefix",
+                                        "meaning": "out"
+                                },
+                                {
+                                        "text": "fortis",
+                                        "type": "root",
+                                        "meaning": "strong"
+                                },
+                                {
+                                        "text": "-less",
+                                        "type": "suffix",
+                                        "meaning": "without"
+                                }
+                        ],
+                        "original_statement": "From effort (ex- 'out' + fortis 'strong') + -less."
+                },
+                "core_concept": {
+                        "en": "Without putting out strength",
+                        "ja": "内に秘めた強さを絞り出す必要さえなく、流れるように成し遂げる"
+                },
+                "thinking_layer": "努力（effort）が「強さ（fortis）を外（ex）へ出す」ことなら、effortlessはその段階を超越した姿です。呼吸するように、あるいは重力に従うように、無理な力を加えずとも完璧な結果が生まれる、達人の領域です。",
+                "synonyms": [
+                        "easy",
+                        "facile"
+                ],
+                "antonyms": [
+                        "difficult",
+                        "laborious"
+                ],
+                "aftertaste": "水のように流れる、完璧な所作",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "fortis",
+                                        "meaning": "strong"
+                                }
+                        ],
+                        "points": [
+                                "あえて「強さ」を使わないという逆説的な美しさが込められています。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "15th Century (Effort) + later suffix"
+        },
+        {
+                "id": "effrontery",
+                "word": "Effrontery",
+                "part_of_speech": "noun",
+                "meaning": "厚かましさ、図々しさ",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "ex-",
+                                        "type": "prefix",
+                                        "meaning": "out / without"
+                                },
+                                {
+                                        "text": "frons",
+                                        "type": "root",
+                                        "meaning": "forehead / brow"
+                                }
+                        ],
+                        "original_statement": "From French effronterie, from effronté 'shameless', literally 'bare-faced' or 'having the forehead out'."
+                },
+                "core_concept": {
+                        "en": "Putting one's forehead out",
+                        "ja": "恥じらいの影を隠さず、額（ひたい）を突き出して居直る"
+                },
+                "thinking_layer": "かつて「額（front）」は恥じらいで赤らめる場所でした。厚かましさとは、その額を「外へ（ex）」剥き出しにし、一歩も引かない状態を指します。仮面も恥も脱ぎ捨てた、攻撃的な無恥です。",
+                "synonyms": [
+                        "audacity",
+                        "impudence"
+                ],
+                "antonyms": [
+                        "timidity",
+                        "modesty"
+                ],
+                "aftertaste": "赤らめることを忘れた、硬い額の感触",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "frons",
+                                        "meaning": "brow"
+                                }
+                        ],
+                        "points": [
+                                "confront（直面する＝額を合わせる）やfrontier（最前線）と同門です。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "18th Century French"
         },
         {
                 "id": "effulgence",
@@ -18201,6 +18787,97 @@ const WORDS = [
                 "era": "17th Century"
         },
         {
+                "id": "effusive",
+                "word": "Effusive",
+                "part_of_speech": "adjective",
+                "meaning": "（感情が）溢れ出る、大げさな",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "ex-",
+                                        "type": "prefix",
+                                        "meaning": "out"
+                                },
+                                {
+                                        "text": "fundere",
+                                        "type": "root",
+                                        "meaning": "to pour"
+                                }
+                        ],
+                        "original_statement": "From Latin effusus 'poured out', from effundere 'to pour forth'."
+                },
+                "core_concept": {
+                        "en": "Poured out thoroughly",
+                        "ja": "心のダムが決壊し、言葉や感情が奔流となって注ぎ出す"
+                },
+                "thinking_layer": "抑えることを知らない感情の「流出（out-pouring）」です。滴るような表現ではなく、器をひっくり返したように一気に流れ出す。その勢いが、受け取る側には圧倒的な熱量（あるいは過剰さ）として響きます。",
+                "synonyms": [
+                        "gushing",
+                        "demonstrative"
+                ],
+                "antonyms": [
+                        "reserved",
+                        "restrained"
+                ],
+                "aftertaste": "注ぎ尽くされた後の、止められない余韻",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "fundere",
+                                        "meaning": "pour"
+                                }
+                        ],
+                        "points": [
+                                "fusion（融合＝一緒に注ぐ）やconfuse（混乱＝混ぜて注ぐ）と同じ「液体」のイメージです。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "17th Century Latin"
+        },
+        {
+                "id": "egalitarian",
+                "word": "Egalitarian",
+                "part_of_speech": "adjective/noun",
+                "meaning": "平等主義の、平等主義者",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "egal",
+                                        "type": "root",
+                                        "meaning": "equal"
+                                }
+                        ],
+                        "original_statement": "From French égalitaire, from égal 'equal', from Latin aequalis 'equal, level'."
+                },
+                "core_concept": {
+                        "en": "Pertaining to equality",
+                        "ja": "すべての魂を、一点の凹凸もない平らな地平に並べる"
+                },
+                "thinking_layer": "「平等」の根底には、地面を「平らにする（level）」という概念があります。高低差という特権を削り、誰もが同じ地平を見渡せるようにする。それは、不自然な段差を嫌う、理性の正義です。",
+                "synonyms": [
+                        "equal",
+                        "democratic"
+                ],
+                "antonyms": [
+                        "elitist",
+                        "hierarchical"
+                ],
+                "aftertaste": "誰もが等しく立てる、広大な平原",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "aequalis",
+                                        "meaning": "level"
+                                }
+                        ],
+                        "points": [
+                                "equal（等しい）やequation（方程式）と同じ、天秤の均衡を求める言葉です。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "19th Century French"
+        },
+        {
                 "id": "ego",
                 "word": "Ego",
                 "part_of_speech": "noun",
@@ -18239,6 +18916,145 @@ const WORDS = [
                 },
                 "source": "etymon Philologist Mode",
                 "era": "Proto-Indo-European / Latin"
+        },
+        {
+                "id": "egotism",
+                "word": "Egotism",
+                "part_of_speech": "noun",
+                "meaning": "自己中心主義、自惚れ",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "ego",
+                                        "type": "root",
+                                        "meaning": "I"
+                                }
+                        ],
+                        "original_statement": "From Latin ego 'I' + -ism."
+                },
+                "core_concept": {
+                        "en": "Excessive 'I'",
+                        "ja": "世界の中心に「私」を据え、他者の姿を消し去る"
+                },
+                "thinking_layer": "「私（ego）」という言葉が肥大化し、世界のすべてを自分というレンズでしか見られなくなった状態です。自尊心（egoism）が自己の利益を追うのに対し、egotism（tが入る）は「自分の話ばかりする」という自己顕示の響きを伴います。",
+                "synonyms": [
+                        "narcissism",
+                        "conceit"
+                ],
+                "antonyms": [
+                        "altruism",
+                        "humility"
+                ],
+                "aftertaste": "鏡に映る自分しか見えない、狭い部屋",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "ego",
+                                        "meaning": "I"
+                                }
+                        ],
+                        "points": [
+                                "「t」の挿入はフランス語の影響。話の中に「I（私）」を挟み込む癖を暗示しています。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "18th Century Latin origin"
+        },
+        {
+                "id": "egregious",
+                "word": "Egregious",
+                "part_of_speech": "adjective",
+                "meaning": "実にとんでもない、目に余る、甚だしい",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "ex-",
+                                        "type": "prefix",
+                                        "meaning": "out of"
+                                },
+                                {
+                                        "text": "grex",
+                                        "type": "root",
+                                        "meaning": "flock / herd"
+                                }
+                        ],
+                        "original_statement": "From Latin egregius 'distinguished, excellent', literally 'rising out of the flock'."
+                },
+                "core_concept": {
+                        "en": "Standing out from the flock",
+                        "ja": "群れの中から、悪い意味で突き抜けて目立ってしまう"
+                },
+                "thinking_layer": "もともとは「群れ（flock）を抜いて優れた」という良い意味でしたが、皮肉な用法が定着し、今では「群を抜いてひどい」というニュアンスになりました。平凡な過ちではなく、もはや隠しきれないほどの異質さを指します。",
+                "synonyms": [
+                        "flagrant",
+                        "glaring"
+                ],
+                "antonyms": [
+                        "minor",
+                        "inconspicuous"
+                ],
+                "aftertaste": "群れの中で一人、悪目立ちする影",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "grex",
+                                        "meaning": "flock"
+                                }
+                        ],
+                        "points": [
+                                "congregate（集まる＝共に群れる）やgregarious（社交的な＝群れを好む）と同じルーツです。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "16th Century Latin"
+        },
+        {
+                "id": "egress",
+                "word": "Egress",
+                "part_of_speech": "noun/verb",
+                "meaning": "出口、外出、外に出ること",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "ex-",
+                                        "type": "prefix",
+                                        "meaning": "out"
+                                },
+                                {
+                                        "text": "gradi",
+                                        "type": "root",
+                                        "meaning": "to step / to go"
+                                }
+                        ],
+                        "original_statement": "From Latin egressus 'a going out', from egredi 'to go out', from ex- 'out' + gradi 'to step'."
+                },
+                "core_concept": {
+                        "en": "A step outward",
+                        "ja": "境界線を一歩踏み越え、閉じられた空間から脱する"
+                },
+                "thinking_layer": "単なる「出口（exit）」よりも、能動的な「歩み（step）」に重点があります。自らの足で一歩ずつ、重い空気の外へと歩を進める。その「歩行」の集積が、あなたを自由へと導きます。",
+                "synonyms": [
+                        "departure",
+                        "exit"
+                ],
+                "antonyms": [
+                        "ingress",
+                        "entrance"
+                ],
+                "aftertaste": "一歩踏み出すたびに、空気が軽くなる感覚",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "gradi",
+                                        "meaning": "walk"
+                                }
+                        ],
+                        "points": [
+                                "grade（等級＝階段の一歩）やprogress（進歩＝前への歩み）と同門です。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "16th Century Latin"
         },
         {
                 "id": "eidetic",
@@ -18389,6 +19205,54 @@ const WORDS = [
                 "era": "20th Century"
         },
         {
+                "id": "ejaculate",
+                "word": "Ejaculate",
+                "part_of_speech": "verb",
+                "meaning": "（言葉を）出し抜けに言う、射出する",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "ex-",
+                                        "type": "prefix",
+                                        "meaning": "out"
+                                },
+                                {
+                                        "text": "iacere",
+                                        "type": "root",
+                                        "meaning": "to throw"
+                                }
+                        ],
+                        "original_statement": "From Latin ejaculatus, from ejaculari 'to hurl or throw out', from ex- 'out' + iaculum 'dart', from iacere 'to throw'."
+                },
+                "core_concept": {
+                        "en": "To hurl like a dart",
+                        "ja": "槍を投げるように、溜まったものを外へ一気に放つ"
+                },
+                "thinking_layer": "内側に溜まっていたものが限界を超え、矢（iaculum）が放たれるように外へ飛び出すこと. それは制御された言葉ではなく、衝動に突き動かされた「放出」そのものです。",
+                "synonyms": [
+                        "exclaim",
+                        "discharge"
+                ],
+                "antonyms": [
+                        "absorb",
+                        "retain"
+                ],
+                "aftertaste": "放たれた後の、虚脱と静寂",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "iacere",
+                                        "meaning": "throw"
+                                }
+                        ],
+                        "points": [
+                                "reject（拒絶＝投げ返す）やproject（投影＝前へ投げる）と同じ「投げる」エネルギーです。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "16th Century Latin"
+        },
+        {
                 "id": "eked",
                 "word": "Eked",
                 "part_of_speech": "verb",
@@ -18493,6 +19357,193 @@ const WORDS = [
                 "era": "20th Century"
         },
         {
+                "id": "elaborate",
+                "word": "Elaborate",
+                "part_of_speech": "verb/adjective",
+                "meaning": "詳しく説明する、精巧な、苦労して作った",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "ex-",
+                                        "type": "prefix",
+                                        "meaning": "out"
+                                },
+                                {
+                                        "text": "labor",
+                                        "type": "root",
+                                        "meaning": "work / toil"
+                                }
+                        ],
+                        "original_statement": "From Latin elaboratus 'worked out', from elaborare 'to labor, work out', from ex- 'out' + labor 'work'."
+                },
+                "core_concept": {
+                        "en": "Worked out with toil",
+                        "ja": "汗と涙を注ぎ込み、細部まで執念で作り込む"
+                },
+                "thinking_layer": "「精巧」の正体は、膨大な「労働（labor）」です。魔法のように一瞬でできたのではなく、気の遠くなるような時間の「外（ex）」へ、自分の命を削り出した結果が、その複雑な美しさなのです。",
+                "synonyms": [
+                        "intricate",
+                        "detailed"
+                ],
+                "antonyms": [
+                        "simple",
+                        "plain"
+                ],
+                "aftertaste": "細部に宿る、消えない熱心な手の跡",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "labor",
+                                        "meaning": "work"
+                                }
+                        ],
+                        "points": [
+                                "laboratory（研究所）やlabor（労働）と同じく、そこには必ず「苦労」が伴います。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "16th Century Latin"
+        },
+        {
+                "id": "elastic",
+                "word": "Elastic",
+                "part_of_speech": "adjective/noun",
+                "meaning": "弾力のある、しなやかな、融通の利く",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "elaunein",
+                                        "type": "root",
+                                        "meaning": "to drive / to beat out"
+                                }
+                        ],
+                        "original_statement": "From Greek elastikos 'propulsive', from elaunein 'to drive, set in motion'."
+                },
+                "core_concept": {
+                        "en": "Propelling back",
+                        "ja": "外部からの圧力に耐え、自らを元の場所へ跳ね返す"
+                },
+                "thinking_layer": "単に「伸びる」ことではなく、受けた衝撃を「跳ね返す（propel）」力強さが本質です。形を変えても自分を見失わず、再び元の姿へと戻る。そのしなやかさは、強い精神の象徴でもあります。",
+                "synonyms": [
+                        "resilient",
+                        "flexible"
+                ],
+                "antonyms": [
+                        "rigid",
+                        "stiff"
+                ],
+                "aftertaste": "押されても戻る、沈黙の反発力",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "elaunein",
+                                        "meaning": "drive"
+                                }
+                        ],
+                        "points": [
+                                "もとは「金属を叩いて伸ばす」ことも意味しました。鍛えられた柔軟さです。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "17th Century Greek"
+        },
+        {
+                "id": "elation",
+                "word": "Elation",
+                "part_of_speech": "noun",
+                "meaning": "大得意、意気揚々",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "ex-",
+                                        "type": "prefix",
+                                        "meaning": "out / up"
+                                },
+                                {
+                                        "text": "latus",
+                                        "type": "root",
+                                        "meaning": "carried"
+                                }
+                        ],
+                        "original_statement": "From Latin elationem 'a lifting up, exaltation', from elatus 'raised, high', from ex- 'out' + latus 'carried'."
+                },
+                "core_concept": {
+                        "en": "Carried up high",
+                        "ja": "歓喜の波に掬い上げられ、天まで運ばれる感覚"
+                },
+                "thinking_layer": "自分の足で立っているのではなく、喜びという目に見えない力によって「運び去られて（carried out）」いる状態です。足が地につかないほどの高揚。それは、自己が重力から解放された幸福な瞬間です。",
+                "synonyms": [
+                        "euphoria",
+                        "exultation"
+                ],
+                "antonyms": [
+                        "depression",
+                        "dejection"
+                ],
+                "aftertaste": "高みへと運ばれた、魂の浮遊感",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "latus",
+                                        "meaning": "carry"
+                                }
+                        ],
+                        "points": [
+                                "translate（翻訳＝運び越す）やrelate（関連付ける＝運び戻す）と同門の「運び」の言葉です。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "14th Century Latin"
+        },
+        {
+                "id": "elect",
+                "word": "Elect",
+                "part_of_speech": "verb/adjective",
+                "meaning": "選出する、選ばれた",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "ex-",
+                                        "type": "prefix",
+                                        "meaning": "out"
+                                },
+                                {
+                                        "text": "legere",
+                                        "type": "root",
+                                        "meaning": "to choose"
+                                }
+                        ],
+                        "original_statement": "From Latin electus, from eligere 'to pick out, select', from ex- 'out' + legere 'to choose'."
+                },
+                "core_concept": {
+                        "en": "Picked out from the many",
+                        "ja": "雑多な群衆から指名され、特別な一員として連れ出される"
+                },
+                "thinking_layer": "選ばれるとは、その他大勢から「引き抜かれる（pick out）」ことです。それは光栄であると同時に、集団の匿名性から外され、個としての責任を負わされる、厳粛な「分離」の儀式でもあります。",
+                "synonyms": [
+                        "select",
+                        "choose"
+                ],
+                "antonyms": [
+                        "reject",
+                        "dismiss"
+                ],
+                "aftertaste": "指名された瞬間の、背筋が伸びる緊張感",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "legere",
+                                        "meaning": "choose / read"
+                                }
+                        ],
+                        "points": [
+                                "elegant（優雅な＝選び抜かれた）やlecture（講義＝選ばれた言葉を読み上げる）と同じ根です。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "15th Century Latin"
+        },
+        {
                 "id": "electric",
                 "word": "Electric",
                 "author": "etymon_official",
@@ -18587,34 +19638,77 @@ const WORDS = [
                 "era": "15th Century Latin"
         },
         {
-                "id": "element",
-                "word": "Element",
-                "part_of_speech": "noun",
-                "meaning": "要素、元素",
+                "id": "elegiac",
+                "word": "Elegiac",
+                "part_of_speech": "adjective",
+                "meaning": "哀歌の、哀悼の、物悲しい",
                 "etymology": {
                         "breakdown": [
                                 {
-                                        "text": "L-M-N",
+                                        "text": "elegos",
                                         "type": "root",
-                                        "meaning": "letters / basics"
+                                        "meaning": "song of mourning"
                                 }
                         ],
-                        "original_statement": "From Latin elementum 'rudiment, first principle', possibly related to the letters L, M, and N as the start of an alphabet series."
+                        "original_statement": "From Greek elegeia 'lament', originally a song accompanied by a flute."
                 },
                 "core_concept": {
-                        "en": "The ABCs of things",
-                        "ja": "万物を構成する、いろはの『い』"
+                        "en": "A song for the gone",
+                        "ja": "去りし者を想い、笛の音のように震える悲しみを歌う"
                 },
-                "thinking_layer": "世界の複雑さを解き明かした先に残る、もっとも単純なアルファベット。要素とは、それ以上分解できない「基本の文字」であり、この世界という物語を綴るための最小単位なのです。",
+                "thinking_layer": "激しい絶叫ではなく、夕暮れに響く笛の音のような、静かで抑制された悲しみです. 失われた美しさや過去への追憶が、詩的なメロディとなって魂を揺さぶります。",
                 "synonyms": [
-                        "component",
-                        "factor"
+                        "mournful",
+                        "plaintive"
                 ],
                 "antonyms": [
-                        "whole",
-                        "compound"
+                        "cheerful",
+                        "joyous"
                 ],
-                "aftertaste": "万物の根源に眠る文字",
+                "aftertaste": "霧の中に消えていく、遠いメロディ",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "elegos",
+                                        "meaning": "lament"
+                                }
+                        ],
+                        "points": [
+                                "elegy（哀歌）の形容詞形。古代ギリシャの詩の形式に由来します。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "16th Century Greek / Latin"
+        },
+        {
+                "id": "element",
+                "word": "Element",
+                "part_of_speech": "noun",
+                "meaning": "要素、元素、自然の力",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "l-m-n",
+                                        "type": "root",
+                                        "meaning": "alphabetical letters"
+                                }
+                        ],
+                        "original_statement": "From Latin elementum 'rudiment, first principle', possibly from the names of the letters L-M-N."
+                },
+                "core_concept": {
+                        "en": "First principles / letters",
+                        "ja": "万物を形作る、これ以上分けられない原初の「文字」"
+                },
+                "thinking_layer": "世界を一つの「書物」とするなら、元素（element）はその一文字一文字にあたります。それ自体は単純でも、組み合わせによって無限の宇宙を記述する。物事の究極のシンプルさへの還元です。",
+                "synonyms": [
+                        "component",
+                        "constituent"
+                ],
+                "antonyms": [
+                        "composite",
+                        "whole"
+                ],
+                "aftertaste": "宇宙のアルファベットの、一文字",
                 "deep_dive": {
                         "roots": [
                                 {
@@ -18623,11 +19717,11 @@ const WORDS = [
                                 }
                         ],
                         "points": [
-                                "アルファベットの並び（L-M-N）が語源という説は、学びの基本を象徴しています。"
+                                "アルファベットの「L-M-N-t-u-m」が語源という説があり、知の基礎を象徴しています。"
                         ]
                 },
                 "source": "etymon Philologist Mode",
-                "era": "13th Century Latin"
+                "era": "13th Century Old French / Latin"
         },
         {
                 "id": "elenchus",
@@ -18836,6 +19930,54 @@ const WORDS = [
                 "era": "17th Century Latin"
         },
         {
+                "id": "eliminate",
+                "word": "Eliminate",
+                "part_of_speech": "verb",
+                "meaning": "排除する、除去する",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "ex-",
+                                        "type": "prefix",
+                                        "meaning": "out"
+                                },
+                                {
+                                        "text": "limen",
+                                        "type": "root",
+                                        "meaning": "threshold"
+                                }
+                        ],
+                        "original_statement": "From Latin eliminatus, from eliminare 'to thrust out of doors', from ex- 'out' + limen 'threshold'."
+                },
+                "core_concept": {
+                        "en": "To thrust out of the threshold",
+                        "ja": "家（世界）の敷居の外へ、容赦なく押し出す"
+                },
+                "thinking_layer": "単に消すのではなく「敷居（threshold）」の外へと追い出すイメージです。内側にあるべきでないものを、境界線を越えて追放する。そこには明確な「内外」の区別と、浄化の意志があります。",
+                "synonyms": [
+                        "remove",
+                        "exclude"
+                ],
+                "antonyms": [
+                        "include",
+                        "incorporate"
+                ],
+                "aftertaste": "敷居をまたがせない、冷たい境界",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "limen",
+                                        "meaning": "doorway"
+                                }
+                        ],
+                        "points": [
+                                "subliminal（潜在意識の＝敷居の下）と同根の「境界」の言葉です。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "16th Century Latin"
+        },
+        {
                 "id": "eloquent",
                 "word": "Eloquent",
                 "part_of_speech": "adjective",
@@ -18843,7 +19985,7 @@ const WORDS = [
                 "etymology": {
                         "breakdown": [
                                 {
-                                        "text": "e-",
+                                        "text": "ex-",
                                         "type": "prefix",
                                         "meaning": "out"
                                 },
@@ -18853,35 +19995,83 @@ const WORDS = [
                                         "meaning": "to speak"
                                 }
                         ],
-                        "original_statement": "From Latin eloquentem, from eloqui 'speak out'."
+                        "original_statement": "From Latin eloquentem, from eloqui 'to speak out'."
                 },
                 "core_concept": {
                         "en": "Speaking out fully",
-                        "ja": "心の淵にある言葉を、淀みなく外へと解き放つ"
+                        "ja": "内なる沈黙を破り、言葉を滔々と外へ溢れ出させる"
                 },
-                "thinking_layer": "雄弁とは単に言葉数が多いことではなく、内なる真実を隠さず「外へ（e-）」導き出す力です。遮るもののない純粋な言葉の連なりが、聴く者の心を震わせます。",
+                "thinking_layer": "単に喋るのではなく、思想が言葉という形を取って「外（ex）」へ力強く流れ出す（flow out）こと。聞く者の心を潤し、動かす。その言葉の奔流は、もはや一つの生命体のように響きます。",
                 "synonyms": [
-                        "fluent",
-                        "articulate"
+                        "articulate",
+                        "persuasive"
                 ],
                 "antonyms": [
                         "inarticulate",
-                        "silent"
+                        "tongue-tied"
                 ],
-                "aftertaste": "解放された言葉の奔流",
+                "aftertaste": "心を満たす、言葉の豊かな響き",
                 "deep_dive": {
                         "roots": [
                                 {
                                         "term": "loqui",
-                                        "meaning": "speak"
+                                        "meaning": "talk"
                                 }
                         ],
                         "points": [
-                                "colloquial（口語の）やsoliloquy（独白）もこの語根から派生しています。"
+                                "soliloquy（独り言）やcolloquial（口語の）と同じ「対話」の血筋です。"
                         ]
                 },
                 "source": "etymon Philologist Mode",
-                "era": "14th Century Latin"
+                "era": "14th Century Old French / Latin"
+        },
+        {
+                "id": "elucidate",
+                "word": "Elucidate",
+                "part_of_speech": "verb",
+                "meaning": "（明快に）説明する、解明する",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "ex-",
+                                        "type": "prefix",
+                                        "meaning": "out"
+                                },
+                                {
+                                        "text": "lux / lucidus",
+                                        "type": "root",
+                                        "meaning": "light / bright"
+                                }
+                        ],
+                        "original_statement": "From Late Latin elucidatus, from elucidare 'make clear', from ex- 'out' + lucidus 'bright'."
+                },
+                "core_concept": {
+                        "en": "To bring out the light",
+                        "ja": "暗闇に沈んでいた真実を、光の下へと引き出す"
+                },
+                "thinking_layer": "説明とは、対象に光（light）を当てることです. 不明瞭な霧を払い、輪郭を鮮やかに「輝かせる（make bright）」。あなたの言葉が灯火となり、他者の視界を切り拓く知的な救済です。",
+                "synonyms": [
+                        "clarify",
+                        "explain"
+                ],
+                "antonyms": [
+                        "confuse",
+                        "obscure"
+                ],
+                "aftertaste": "光が満ち、視界が拓ける心地よさ",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "lux",
+                                        "meaning": "light"
+                                }
+                        ],
+                        "points": [
+                                "lucid（明快な）やtranslucent（半透明の）と同じ、光の系譜です。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "16th Century Late Latin"
         },
         {
                 "id": "elucubration",
@@ -18934,6 +20124,54 @@ const WORDS = [
                 "part_of_speech": "noun",
                 "meaning": "夜間労作",
                 "era": "17th Century"
+        },
+        {
+                "id": "elude",
+                "word": "Elude",
+                "part_of_speech": "verb",
+                "meaning": "巧みに避ける、逃れる",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "ex-",
+                                        "type": "prefix",
+                                        "meaning": "out"
+                                },
+                                {
+                                        "text": "ludere",
+                                        "type": "root",
+                                        "meaning": "to play"
+                                }
+                        ],
+                        "original_statement": "From Latin eludere 'to finish play, mock, avoid by a trick', from ex- 'out' + ludere 'to play'."
+                },
+                "core_concept": {
+                        "en": "To play one's way out",
+                        "ja": "鬼ごっのように、遊びながらスルリと包囲網を抜ける"
+                },
+                "thinking_layer": "ただ逃げるのではなく「遊び（play）」の要素が含まれています. 相手の裏をかき、嘲笑うかのように軽やかに身をかわす。捕まえようとする手が空を切る、その幻惑的な回避です。",
+                "synonyms": [
+                        "evade",
+                        "dodge"
+                ],
+                "antonyms": [
+                        "capture",
+                        "confront"
+                ],
+                "aftertaste": "残像だけを残して、消え去る足取り",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "ludere",
+                                        "meaning": "play"
+                                }
+                        ],
+                        "points": [
+                                "illusion（幻想＝惑わす遊び）やcollusion（共謀＝共に遊ぶ）と同根です。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "16th Century Latin"
         },
         {
                 "id": "emanation",
@@ -21784,53 +23022,97 @@ const WORDS = [
                 "id": "exaggerate",
                 "word": "Exaggerate",
                 "part_of_speech": "verb",
-                "meaning": "誇張する",
-                "author": "etymon_official",
+                "meaning": "誇張する、大げさに言う",
                 "etymology": {
                         "breakdown": [
                                 {
                                         "text": "ex-",
                                         "type": "prefix",
-                                        "meaning": "外に",
-                                        "lang": "Latin"
+                                        "meaning": "thoroughly"
                                 },
                                 {
                                         "text": "aggerare",
                                         "type": "root",
-                                        "meaning": "積み重ねる",
-                                        "lang": "Latin"
+                                        "meaning": "to heap up / to pile"
                                 }
                         ],
-                        "original_statement": "The word 'exaggerate' originates from the Latin verb 'exaggerare', which means 'to heap up' or 'to accumulate'. The prefix 'ex-' intensifies the action, transforming 'aggerate' into an augmentative action."
+                        "original_statement": "From Latin exaggeratus, from exaggerare 'to heap up', from agger 'heap, mound'."
                 },
                 "core_concept": {
-                        "en": "The embellishment of truth, stretched beyond its natural span, forming a bridge between reality and fiction.",
-                        "ja": "現実と虚構の間に架ける、真実を越えて伸ばされた飾り。"
+                        "en": "To heap up mountains",
+                        "ja": "言葉を土石のように積み上げ、高く、大きく見せる"
                 },
-                "thinking_layer": "『誇張』という行為は、一種の芸術でもある。誠実さと偽りの狭間で、語り手は物語を豊かにし、感情の訴求力を高めようとする。その過程において、現実の鋳型は溶かされ、生まれ変わる。言葉の変奏は、真実を過激に化し、一瞬の印象を永遠に刻む力を持つ。この誇張の力は、時には誤解を生む一方、時には心の奥底に眠る未開の感情を引き出す芸術的な触媒にもなる。この広がりゆく宇宙の中心に存在する誇張とは、真実の周縁をなぞりながら、それを超えて新たな次元へと進む旅路である。それは、現実と虚構の境界を模索し続ける人間の探求の形であり、無限の可能性を秘めた感情の表現に至る道である。",
+                "thinking_layer": "誇張とは、事実という平地に「土を盛り（heap up）」、人工的な山を作る行為です。それは真実を隠すためではなく、心の揺らぎや驚きの大きさを、視覚的な高さとして表現しようとする切実な叫びでもあります。",
                 "synonyms": [
-                        "Magnify",
-                        "Overstate"
+                        "overstate",
+                        "magnify"
                 ],
                 "antonyms": [
-                        "Understate",
-                        "Minimize"
+                        "understate",
+                        "belittle"
                 ],
-                "aftertaste": "The art of exaggeration dances on the border of reality, painting our world in vibrant hues.",
+                "aftertaste": "積み上げられた、言葉の山影",
                 "deep_dive": {
                         "roots": [
                                 {
-                                        "term": "aggerare",
-                                        "meaning": "to heap, collect"
+                                        "term": "agger",
+                                        "meaning": "mound"
                                 }
                         ],
                         "points": [
-                                "「ex-」はラテン語で強調の意味を持ち、「aggerare」は物を積み重ねることを意味する。これが誇張という行為の根幹であり、日常の枠から物語を飛躍させる力を持つ。"
+                                "agger（土手）は古代ローマの防衛施設も指しました。防衛本能が言葉を盛らせるのかもしれません。"
                         ]
                 },
-                "source": "Online Etymology Dictionary",
-                "date": "2026-03-01",
-                "era": "Mid 16th Century"
+                "source": "etymon Philologist Mode",
+                "era": "16th Century Latin"
+        },
+        {
+                "id": "examine",
+                "word": "Examine",
+                "part_of_speech": "verb",
+                "meaning": "調査する、試験する、診察する",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "ex-",
+                                        "type": "prefix",
+                                        "meaning": "out"
+                                },
+                                {
+                                        "text": "agmen",
+                                        "type": "root",
+                                        "meaning": "pulling / weight"
+                                }
+                        ],
+                        "original_statement": "From Old French examiner, from Latin examinare 'to weigh, test', from examen 'the tongue of a balance'."
+                },
+                "core_concept": {
+                        "en": "To weigh on the scale",
+                        "ja": "天秤の揺れを見つめ、真実の重さを厳格に量る"
+                },
+                "thinking_layer": "「調べる」とは、心の天秤（examen）にかけることです。偏見という錘（おもり）を外し、対象が持つ純粋な質量だけを測り取る。その冷徹な重さの測定こそが、真の理解への第一歩となります。",
+                "synonyms": [
+                        "inspect",
+                        "scrutinize"
+                ],
+                "antonyms": [
+                        "ignore",
+                        "neglect"
+                ],
+                "aftertaste": "天秤の針が指し示す、静かな真実",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "examen",
+                                        "meaning": "needle of a balance"
+                                }
+                        ],
+                        "points": [
+                                "examination（試験）は、学生の知識の「重さ」を量る儀式なのです。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "14th Century Old French / Latin"
         },
         {
                 "id": "exaptation",
@@ -21889,6 +23171,102 @@ const WORDS = [
                 "era": "20th Century"
         },
         {
+                "id": "exasperate",
+                "word": "Exasperate",
+                "part_of_speech": "verb",
+                "meaning": "激怒させる、悪化させる",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "ex-",
+                                        "type": "prefix",
+                                        "meaning": "thoroughly"
+                                },
+                                {
+                                        "text": "asper",
+                                        "type": "root",
+                                        "meaning": "rough"
+                                }
+                        ],
+                        "original_statement": "From Latin exasperatus, from exasperare 'to make rough', from asper 'rough, harsh'."
+                },
+                "core_concept": {
+                        "en": "To make thoroughly rough",
+                        "ja": "滑らかな心を逆撫でし、荒々しいトゲを立たせる"
+                },
+                "thinking_layer": "怒りとは、心の「肌触り」が豹変することです。穏やかだった感情の表面を執拗に荒らし（rough）、尖らせる。苛立ちとは、自分自身の心が他者という砥石で荒削りされる痛みそのものなのです。",
+                "synonyms": [
+                        "irritate",
+                        "infuriate"
+                ],
+                "antonyms": [
+                        "soothe",
+                        "placate"
+                ],
+                "aftertaste": "逆立った感情の、鋭い痛み",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "asper",
+                                        "meaning": "rough"
+                                }
+                        ],
+                        "points": [
+                                "asperity（粗暴さ）や、アスペリティ（断層の固着域）も同根の言葉です。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "16th Century Latin"
+        },
+        {
+                "id": "excellent",
+                "word": "Excellent",
+                "part_of_speech": "adjective",
+                "meaning": "優れた、優秀な、極上の",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "ex-",
+                                        "type": "prefix",
+                                        "meaning": "out / beyond"
+                                },
+                                {
+                                        "text": "cellere",
+                                        "type": "root",
+                                        "meaning": "to rise / to tower"
+                                }
+                        ],
+                        "original_statement": "From Old French excellent, from Latin excellentem 'surpassing, superior', from excellere 'to rise high'."
+                },
+                "core_concept": {
+                        "en": "Rising above the rest",
+                        "ja": "低い雲を突き抜け、独り高みにそびえ立つ"
+                },
+                "thinking_layer": "卓越していることは、周囲との比較ではなく、自己を「高くそびえ（tower）」させる運動です。誰かを蹴落とすのではなく、ただ純粋に天を目指して伸び続ける姿勢。その高さが、結果として「優れている」と認識されます。",
+                "synonyms": [
+                        "superior",
+                        "outstanding"
+                ],
+                "antonyms": [
+                        "inferior",
+                        "poor"
+                ],
+                "aftertaste": "突き抜けた先にある、澄み切った視界",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "cellere",
+                                        "meaning": "rise"
+                                }
+                        ],
+                        "points": [
+                                "column（円柱）と同じく、垂直方向への「上昇」がこの言葉のエネルギーです。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "14th Century Old French / Latin"
+        },
+        {
                 "id": "exclamation",
                 "word": "Exclamation",
                 "part_of_speech": "noun",
@@ -21939,6 +23317,149 @@ const WORDS = [
                 "source": "Oxford English Dictionary",
                 "date": "2026-03-01",
                 "era": "Late Middle English, with roots in Latin"
+        },
+        {
+                "id": "exclude",
+                "word": "Exclude",
+                "part_of_speech": "verb",
+                "meaning": "除外する、排除する",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "ex-",
+                                        "type": "prefix",
+                                        "meaning": "out"
+                                },
+                                {
+                                        "text": "claudere",
+                                        "type": "root",
+                                        "meaning": "to shut / to close"
+                                }
+                        ],
+                        "original_statement": "From Latin excludere 'keep out, shut out', from ex- 'out' + claudere 'to shut'."
+                },
+                "core_concept": {
+                        "en": "To shut out",
+                        "ja": "扉の外側に追いやり、静かに鍵をかける"
+                },
+                "thinking_layer": "排除とは、単なる不在ではなく「閉じ込めることの逆転」です。内側の安全を守るために、他者を「外側（ex）」で遮断（shut）する。扉を閉めるという物理的な拒絶が、この言葉の冷たさを形作っています。",
+                "synonyms": [
+                        "omit",
+                        "bar"
+                ],
+                "antonyms": [
+                        "include",
+                        "admit"
+                ],
+                "aftertaste": "閉ざされた扉の、拒絶の響き",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "claudere",
+                                        "meaning": "close"
+                                }
+                        ],
+                        "points": [
+                                "close（閉じる）やconclude（結論を出す＝共に閉じる）と同じ語根です。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "14th Century Latin"
+        },
+        {
+                "id": "excursion",
+                "word": "Excursion",
+                "part_of_speech": "noun",
+                "meaning": "遠足、小旅行、脱線",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "ex-",
+                                        "type": "prefix",
+                                        "meaning": "out"
+                                },
+                                {
+                                        "text": "currere",
+                                        "type": "root",
+                                        "meaning": "to run"
+                                }
+                        ],
+                        "original_statement": "From Latin excursionem 'a running forth', from ex- 'out' + currere 'to run'."
+                },
+                "core_concept": {
+                        "en": "A running forth",
+                        "ja": "日常の圏外へ、弾かれたように駆け出す"
+                },
+                "thinking_layer": "遠足の本質は、緩やかな散歩ではなく「駆け出し（run out）」です。決められた生活の軌道を一時的に飛び出し、未知の場所へと生命力を爆発させる。それは、日常からの短い亡命なのです。",
+                "synonyms": [
+                        "jaunt",
+                        "trip"
+                ],
+                "antonyms": [
+                        "stagnation"
+                ],
+                "aftertaste": "軌道から外れた瞬間の、開放感",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "currere",
+                                        "meaning": "run"
+                                }
+                        ],
+                        "points": [
+                                "current（流れ）やcourse（コース）と同じ「走る」が核です。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "16th Century Latin"
+        },
+        {
+                "id": "execute",
+                "word": "Execute",
+                "part_of_speech": "verb",
+                "meaning": "実行する、遂行する、処刑する",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "ex-",
+                                        "type": "prefix",
+                                        "meaning": "out"
+                                },
+                                {
+                                        "text": "sequi",
+                                        "type": "root",
+                                        "meaning": "to follow"
+                                }
+                        ],
+                        "original_statement": "From Old French executer, from Latin executus, from exsequi 'to follow out, follow to the end'."
+                },
+                "core_concept": {
+                        "en": "To follow to the end",
+                        "ja": "命じられたことを、最後まで追いかけ、完遂する"
+                },
+                "thinking_layer": "実行とは「最後まで追いかける（follow through）」ことです。計画を途中で投げ出さず、その終焉（死）まで寄り添い続けること。処刑（execution）という意味があるのは、法の宣告を死に至るまで追行したためです。",
+                "synonyms": [
+                        "perform",
+                        "accomplish"
+                ],
+                "antonyms": [
+                        "abandon",
+                        "neglect"
+                ],
+                "aftertaste": "終止符を打つまでの、執念",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "sequi",
+                                        "meaning": "follow"
+                                }
+                        ],
+                        "points": [
+                                "sequence（順序）やconsequence（結果＝ついてくるもの）と同根です。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "14th Century Old French / Latin"
         },
         {
                 "id": "exegesis",
@@ -21997,6 +23518,54 @@ const WORDS = [
                 "era": "Greek, 16th Century"
         },
         {
+                "id": "exempt",
+                "word": "Exempt",
+                "part_of_speech": "adjective/verb",
+                "meaning": "免除された、免除する",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "ex-",
+                                        "type": "prefix",
+                                        "meaning": "out"
+                                },
+                                {
+                                        "text": "emere",
+                                        "type": "root",
+                                        "meaning": "to take / to buy"
+                                }
+                        ],
+                        "original_statement": "From Old French exempt, from Latin exemptus 'taken out, freed', from ex- 'out' + emere 'to take'."
+                },
+                "core_concept": {
+                        "en": "Taken out of the burden",
+                        "ja": "重苦しい列から、一人だけ摘み出されて自由になる"
+                },
+                "thinking_layer": "免除されるとは、義務という大きな塊の中から「取り出される（take out）」ことです。みんなが背負っている重荷から、特別な理由によって選別され、自由の身となる。それは、ある種の手放された幸福です。",
+                "synonyms": [
+                        "immune",
+                        "freed"
+                ],
+                "antonyms": [
+                        "liable",
+                        "subjected"
+                ],
+                "aftertaste": "重荷から外れた、軽やかな特権",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "emere",
+                                        "meaning": "take"
+                                }
+                        ],
+                        "points": [
+                                "example（例＝取り出されたもの）と全く同じ語源構造を持っています。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "14th Century Old French / Latin"
+        },
+        {
                 "id": "exercise",
                 "word": "Exercise",
                 "part_of_speech": "noun/verb",
@@ -22049,56 +23618,100 @@ const WORDS = [
                 "era": "Latin"
         },
         {
-                "id": "exhibit",
-                "word": "Exhibit",
-                "part_of_speech": "noun/verb",
-                "meaning": "展示する、示すこと",
-                "author": "etymon_official",
+                "id": "exert",
+                "word": "Exert",
+                "part_of_speech": "verb",
+                "meaning": "（力を）出す、働かせる、努力する",
                 "etymology": {
                         "breakdown": [
                                 {
                                         "text": "ex-",
                                         "type": "prefix",
-                                        "meaning": "外に",
-                                        "lang": "Latin"
+                                        "meaning": "out"
+                                },
+                                {
+                                        "text": "serere",
+                                        "type": "root",
+                                        "meaning": "to join / to bind"
+                                }
+                        ],
+                        "original_statement": "From Latin exertus, from exserere 'put forth, reveal', from ex- 'out' + serere 'to join, put in a row'."
+                },
+                "core_concept": {
+                        "en": "To unbind and put forth",
+                        "ja": "内に束ねていた力を、解き放って一列に並べる"
+                },
+                "thinking_layer": "力を「出す（exert）」とは、内に閉じ込めていたエネルギーを、外の世界と「連結（serere）」させることです。あなたの意志が外界の連鎖に加わり、物理的な変化を引き起こす。それは、自己と世界の接合です。",
+                "synonyms": [
+                        "wield",
+                        "exercise"
+                ],
+                "antonyms": [
+                        "idle",
+                        "relax"
+                ],
+                "aftertaste": "世界へ繋がれた、力の緊張",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "serere",
+                                        "meaning": "join"
+                                }
+                        ],
+                        "points": [
+                                "series（シリーズ）やsermon（説教＝言葉の連なり）と同根です。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "17th Century Latin"
+        },
+        {
+                "id": "exhibit",
+                "word": "Exhibit",
+                "part_of_speech": "verb/noun",
+                "meaning": "展示する、見せる、展示品",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "ex-",
+                                        "type": "prefix",
+                                        "meaning": "out"
                                 },
                                 {
                                         "text": "habere",
                                         "type": "root",
-                                        "meaning": "持つ",
-                                        "lang": "Latin"
+                                        "meaning": "to hold"
                                 }
                         ],
-                        "original_statement": "Originally from Latin 'exhibere', and hence 'exhibit', implying 'to hold out' or 'to present'."
+                        "original_statement": "From Latin exhibitum, from exhibere 'to hold forth, present', from ex- 'out' + habere 'to hold'."
                 },
                 "core_concept": {
-                        "en": "A dance of revelation, wearing the garment of visibility.",
-                        "ja": "顕現の舞、見える服をまとって"
+                        "en": "To hold out for display",
+                        "ja": "掌の中のものを、誰にでも見えるように差し出す"
                 },
-                "thinking_layer": "私たちの思考の星座には、物事を示し、展示するという概念がある。この行為は単に物理的な現れ以上のものを内包している。それは心の輝く幾何学であり、他者の視界に何かを寄贈する行為とも言える。展示とは、自分の内部と外部を繋ぐ行為であり、内なる宇宙を外へと放つプロセスでもある。展示することによって、私たちは独自の真実を他者に明かし、その影響を他者にもたらす。それはまた、私たちの存在の一部を解放する行為でもあり、結局は自己理解の一助となる。見る者と示す者、それぞれの視点から見るとき、展示という行為は時間と空間を越えた対話を可能にする。展示とは、他者と分かち合い、共感を育むための哲学的な命題であり、フィロソフィーが日々の営みの中で体現される瞬間なのだ。そこには見えない感情の波があり、それを展示することで初めて実在の世界に波及する力を持つ。私たちは、他者に展示することで人間という存在を互いに理解し合おうとする。自己を展示するとは、確かな存在という灯火を世界に投げかける行為である。展示の本質に迫ろうとするとき、我々は言葉にできぬ感情の奥深い宇宙に足を踏み入れているのかもしれない。",
+                "thinking_layer": "展示とは、大切に「持っていた（hold）」ものを、あえて「外（ex）」へ差し出す行為です。隠しておくことをやめ、他者の視線にさらす。それは、秘密を公共の財産へと変える謙虚な贈与なのです。",
                 "synonyms": [
-                        "Display",
-                        "Show"
+                        "display",
+                        "present"
                 ],
                 "antonyms": [
-                        "Conceal",
-                        "Hide"
+                        "conceal",
+                        "hide"
                 ],
-                "aftertaste": "The exhibition is a silent dialogue between creator and observer, transcending the ordinary.",
+                "aftertaste": "差し出された掌の上の、誇り",
                 "deep_dive": {
                         "roots": [
                                 {
-                                        "term": "exhibere",
-                                        "meaning": "to hold out, to present"
+                                        "term": "habere",
+                                        "meaning": "hold"
                                 }
                         ],
                         "points": [
-                                "ラテン語の'exhibere'は外見の繋がりを示し、持つという行為を通じて他者にその存在を示した。"
+                                "have（持つ）やhabit（習慣＝身につけているもの）と同じ語根です。"
                         ]
                 },
-                "source": "Oxford English Dictionary",
-                "date": "2026-03-01",
-                "era": "Late Latin (16th Century)"
+                "source": "etymon Philologist Mode",
+                "era": "15th Century Latin"
         },
         {
                 "id": "exile",
@@ -22419,9 +24032,57 @@ const WORDS = [
                 "era": "Latin origin"
         },
         {
+                "id": "expensive",
+                "word": "Expensive",
+                "part_of_speech": "adjective",
+                "meaning": "高価な、費用の高い",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "ex-",
+                                        "type": "prefix",
+                                        "meaning": "out"
+                                },
+                                {
+                                        "text": "pendere",
+                                        "type": "root",
+                                        "meaning": "to weigh / to pay"
+                                }
+                        ],
+                        "original_statement": "From Latin expendere 'to weigh out money, pay out', from ex- 'out' + pendere 'to weigh'."
+                },
+                "core_concept": {
+                        "en": "Weighed out in gold",
+                        "ja": "天秤で金貨を量り、外へと差し出す重み"
+                },
+                "thinking_layer": "「高い」とは、かつては文字通り金貨を量り、手元から「払い出す（pay out）」痛みでした。秤の皿が沈むその重みこそが、価値の正体であり、手放す代償の大きさを物語っています。",
+                "synonyms": [
+                        "costly",
+                        "valuable"
+                ],
+                "antonyms": [
+                        "cheap",
+                        "inexpensive"
+                ],
+                "aftertaste": "天秤にかけられた、価値の重み",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "pendere",
+                                        "meaning": "weigh / hang"
+                                }
+                        ],
+                        "points": [
+                                "pension（年金）やpendulum（振り子）と同じく「重さ」や「吊るす」が核です。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "17th Century Latin"
+        },
+        {
                 "id": "experience",
                 "word": "Experience",
-                "part_of_speech": "noun/verb",
+                "part_of_speech": "noun",
                 "meaning": "経験、体験",
                 "etymology": {
                         "breakdown": [
@@ -22433,146 +24094,276 @@ const WORDS = [
                                 {
                                         "text": "periri",
                                         "type": "root",
-                                        "meaning": "to try/test"
+                                        "meaning": "to try / to test"
                                 }
                         ],
-                        "original_statement": "From Latin experientia, from experiens 'to try, test, endure'."
+                        "original_statement": "From Old French experience, from Latin experientia, from experiens 'to try, test'."
                 },
                 "core_concept": {
-                        "en": "To try out",
-                        "ja": "試練をくぐり抜け、生還すること"
+                        "en": "Tested by trial",
+                        "ja": "危うい試練の中を、自らの体で潜り抜ける"
                 },
-                "thinking_layer": "経験とは単なる出来事の積み重ねではなく、危険なテスト（peri）を通り抜けて得た『果実』です。試され、傷つき、それでもそこから出てきた(ex-)者だけが、本当の知恵を語ることができます。",
+                "thinking_layer": "経験（experience）の核にあるのは、危険（peril）を伴う「試し（trial）」です。無傷でいられる場所を離れ、あえて不確実な世界を通り抜けて（ex）きた者だけが、その証を手にします。",
                 "synonyms": [
-                        "expertise",
-                        "ordeal"
+                        "trial",
+                        "knowledge"
                 ],
                 "antonyms": [
                         "inexperience",
                         "theory"
                 ],
-                "aftertaste": "試練の門を抜けた後の、手触り",
+                "aftertaste": "試練の果てに刻まれた、確かな傷跡",
                 "deep_dive": {
                         "roots": [
                                 {
-                                        "term": "peri",
-                                        "meaning": "試す、危ない"
+                                        "term": "per-",
+                                        "meaning": "try / danger"
                                 }
                         ],
                         "points": [
-                                "peril（危険）やexpert（専門家＝試練を終えた人）も同根です。"
+                                "experiment（実験）やexpert（専門家＝試練を終えた人）も同根です。"
                         ]
                 },
-                "source": "etymon",
-                "era": "14th Century Latin"
+                "source": "etymon Philologist Mode",
+                "era": "14th Century Old French / Latin"
+        },
+        {
+                "id": "expire",
+                "word": "Expire",
+                "part_of_speech": "verb",
+                "meaning": "期限が切れる、息を引き取る",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "ex-",
+                                        "type": "prefix",
+                                        "meaning": "out"
+                                },
+                                {
+                                        "text": "spirare",
+                                        "type": "root",
+                                        "meaning": "to breathe"
+                                }
+                        ],
+                        "original_statement": "From Old French expirer, from Latin expirare 'to breathe out', hence 'to die'."
+                },
+                "core_concept": {
+                        "en": "The final breath out",
+                        "ja": "最後の一息を吐き出し、魂が器を離れる"
+                },
+                "thinking_layer": "終わりとは「息を吐き切る（breathe out）」ことです。内に溜めていた生命の火を、風の中へ解き放つ瞬間。期限が切れることも、その存在が担っていた役割の「最後の呼吸」を意味します。",
+                "synonyms": [
+                        "terminate",
+                        "perish"
+                ],
+                "antonyms": [
+                        "begin",
+                        "commence"
+                ],
+                "aftertaste": "静かに吐き出された、最後の余韻",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "spirare",
+                                        "meaning": "breathe"
+                                }
+                        ],
+                        "points": [
+                                "spirit（精神）やinspire（鼓舞する＝息を吹き込む）と対極の動きです。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "14th Century Old French / Latin"
         },
         {
                 "id": "explain",
                 "word": "Explain",
                 "part_of_speech": "verb",
-                "meaning": "説明する",
-                "author": "etymon_official",
+                "meaning": "説明する、明らかにする",
                 "etymology": {
                         "breakdown": [
                                 {
                                         "text": "ex-",
                                         "type": "prefix",
-                                        "meaning": "外に",
-                                        "lang": "Latin"
+                                        "meaning": "out"
                                 },
                                 {
-                                        "text": "planare",
+                                        "text": "planus",
                                         "type": "root",
-                                        "meaning": "平らにする",
-                                        "lang": "Latin"
+                                        "meaning": "flat / level"
                                 }
                         ],
-                        "original_statement": "The word 'explain' originates from the Latin 'explanare', meaning 'to make plain or clear'."
+                        "original_statement": "From Latin explanare 'to make level, flatten', hence 'to make clear'."
                 },
                 "core_concept": {
-                        "en": "To unfold the intricacies of the unseen, rendering the murmurings of mystery audible to the soul.",
-                        "ja": "見えないものの織りを解きほぐし、魂に謎のささやきを聞かせること。"
+                        "en": "To make it flat",
+                        "ja": "複雑に絡まったシワを伸ばし、平らな地平にする"
                 },
-                "thinking_layer": "言葉というものは、時として神秘を解き明かす姿を持つ。『説明する』という行為は、実際に目に見えない織り物を我々に示す試みである。例えば、太陽が雲の中から顔を出す時、天空の覆いが優雅に持ち上げられる。それは、長い夢から目覚める瞬間のようなものであり、明瞭さと真理に包まれる時である。説明とは、ただ情報を提供するだけではなく、私たちの内なる世界を明るく照らすことである。この行為には、過去から未来に向けて流れる川のような流れる時間が存在し、その水面には真実の欠片が時折輝く。人々の心の奥に秘密を浸透させるには、これらの光の瞬きを言葉に結びつける力が必要となる。だからこそ、『説明』とは、哲学的な存在としての言葉の舞台に、真実の舞台装置を設置するものである。",
+                "thinking_layer": "説明とは、難解な「凹凸」を平ら（plain）に慣らす作業です。誰もがつまずかずに歩ける平地を作るように、言葉によって事象のシワを丁寧に伸ばし、視界を遮るものをなくしていきます。",
                 "synonyms": [
                         "clarify",
                         "elucidate"
                 ],
                 "antonyms": [
-                        "obscure",
-                        "confuse"
+                        "confuse",
+                        "obscure"
                 ],
-                "aftertaste": "Explanation is the bridge between the unknown and understanding.",
+                "aftertaste": "障害物のない、真っ直ぐな地平線",
                 "deep_dive": {
                         "roots": [
                                 {
-                                        "term": "ex-",
-                                        "meaning": "out"
-                                },
-                                {
-                                        "term": "planare",
-                                        "meaning": "to make plain"
+                                        "term": "planus",
+                                        "meaning": "level"
                                 }
                         ],
                         "points": [
-                                "『説明』は、ラテン語に起源を持ち、外に出す、平らにするという二つの要素が結びついて成立した。"
+                                "plane（飛行機・平面）やplain（平原）と同じく、滑らかさが本質です。"
                         ]
                 },
-                "source": "Online Etymology Dictionary",
-                "date": "2026-03-01",
-                "era": "Latin Origin, circa Middle Ages"
+                "source": "etymon Philologist Mode",
+                "era": "15th Century Latin"
         },
         {
-                "id": "explore",
-                "word": "Explore",
-                "part_of_speech": "verb",
-                "meaning": "探検する、探査する",
-                "author": "etymon_official",
+                "id": "exploit",
+                "word": "Exploit",
+                "part_of_speech": "verb/noun",
+                "meaning": "利用する、搾取する、偉業",
                 "etymology": {
                         "breakdown": [
                                 {
                                         "text": "ex-",
                                         "type": "prefix",
-                                        "meaning": "外へ",
-                                        "lang": "Latin"
+                                        "meaning": "out"
+                                },
+                                {
+                                        "text": "plicare",
+                                        "type": "root",
+                                        "meaning": "to fold"
+                                }
+                        ],
+                        "original_statement": "From Old French esploit, from Latin explicitum 'unfolded, set forth'."
+                },
+                "core_concept": {
+                        "en": "To unfold for use",
+                        "ja": "畳まれていた可能性を広げ、成果として形にする"
+                },
+                "thinking_layer": "もとは「畳まれていたものを広げる（unfold）」という、発展的な意味でした。それが現代では、資源や他人の力を「余すところなく使い切る」という、冷徹な効率性のニュアンスを帯びるようになりました。",
+                "synonyms": [
+                        "utilize",
+                        "abuse"
+                ],
+                "antonyms": [
+                        "neglect"
+                ],
+                "aftertaste": "開かれた可能性の、光と影",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "plicare",
+                                        "meaning": "fold"
+                                }
+                        ],
+                        "points": [
+                                "explicit（明白な＝広げられた）やapply（適用する＝重ねる）と同根です。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "14th Century Old French / Latin"
+        },
+        {
+                "id": "explore",
+                "word": "Explore",
+                "part_of_speech": "verb",
+                "meaning": "探検する、調査する",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "ex-",
+                                        "type": "prefix",
+                                        "meaning": "out"
                                 },
                                 {
                                         "text": "plorare",
                                         "type": "root",
-                                        "meaning": "泣き叫ぶ",
-                                        "lang": "Latin"
+                                        "meaning": "to cry out / to weep"
                                 }
                         ],
-                        "original_statement": "The word 'explore' originates from the Latin 'explorare', which means to investigate, to search out or examine."
+                        "original_statement": "From Latin explorare 'to investigate, search out', originally 'to hunt out by shouting'."
                 },
                 "core_concept": {
-                        "en": "To journey beyond the known and uncover the mysteries of existence.",
-                        "ja": "未知の世界を旅して存在の神秘を探ること。"
+                        "en": "To shout out (to find)",
+                        "ja": "獲物を追い、叫び声をあげて未知の闇を拓く"
                 },
-                "thinking_layer": "「探求」とは単なる物理的な旅路を指すものではなく、心と魂の旅をも意味します。未知なる領域に身を投じることで、我々は外部の風景だけでなく、自身の内なる風景をも再発見することになります。この旅はしばしば恐怖や不安を伴いますが、それを乗り越えることで新たな視点が開かれ、存在の深淵を垣間見ることができるのです。探求することは、無限の可能性を追い求め続ける姿勢であり、それは視覚では捉えられないものの感じ取ることを可能にします。未知の世界に浸ることは、内なる力と勇気を要し、自己の制約を超えて広がる新たな次元へと私たちを導きます。こうした思索の旅は、本質的に自分自身の再発見への招待であり、宇宙との深い結びつきを象徴しています。この未知なるものへの渇望こそが、私たちの存在を根源から理解し、愛と真実を見出す鍵なのです。冒険心を持って挑むこの旅路は、我々に生きることの美しさと尊さを教えてくれます。",
+                "thinking_layer": "探検の始まりは「叫び（cry out）」でした。狩猟者が獲物を追い出すために、あるいは仲間と呼応するために上げた声。静寂を破るその勇気ある声が、未踏の地を自分の領域へと変えていくのです。",
                 "synonyms": [
-                        "Investigate",
-                        "Examine"
+                        "investigate",
+                        "probe"
                 ],
                 "antonyms": [
-                        "Neglect",
-                        "Ignore"
+                        "ignore"
                 ],
-                "aftertaste": "To explore is to embrace the unknown with open arms.",
+                "aftertaste": "闇を切り裂く、野性的な呼び声",
                 "deep_dive": {
                         "roots": [
                                 {
                                         "term": "plorare",
-                                        "meaning": "to utter a cry"
+                                        "meaning": "weep / shout"
                                 }
                         ],
                         "points": [
-                                "語源的には、悲鳴を上げる行為から、未知を呼び求める行為として変遷していった面白い背景がある。"
+                                "implore（哀願する）やdeplore（嘆く）と同じ「声」の根を持っています。"
                         ]
                 },
-                "source": "The Concise Oxford Dictionary of English Etymology, T. F. Hoad",
-                "date": "2026-02-28",
-                "era": "16th Century"
+                "source": "etymon Philologist Mode",
+                "era": "16th Century Latin"
+        },
+        {
+                "id": "explosive",
+                "word": "Explosive",
+                "part_of_speech": "adjective/noun",
+                "meaning": "爆発的な、爆発物",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "ex-",
+                                        "type": "prefix",
+                                        "meaning": "out"
+                                },
+                                {
+                                        "text": "plaudere",
+                                        "type": "root",
+                                        "meaning": "to clap / to hiss"
+                                }
+                        ],
+                        "original_statement": "From Latin explodere 'to hiss off the stage', from ex- 'out' + plaudere 'to clap'."
+                },
+                "core_concept": {
+                        "en": "Driven off by noise",
+                        "ja": "激しい野次と拍手で、舞台から追い出される衝撃"
+                },
+                "thinking_layer": "爆発（explosion）の原点は、不出来な役者を観客が野次や拍手で「舞台から追い出す（drive out by noise）」ことでした。物理的な破壊の前に、そこには拒絶という名の凄まじい「音の圧力」があったのです。",
+                "synonyms": [
+                        "volatile",
+                        "bursting"
+                ],
+                "antonyms": [
+                        "stable",
+                        "calm"
+                ],
+                "aftertaste": "静寂を拒む、轟音の圧力",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "plaudere",
+                                        "meaning": "clap"
+                                }
+                        ],
+                        "points": [
+                                "applaud（拍手喝采する）と同じ語源。拍手も爆発も「叩く音」を核としています。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "17th Century Latin"
         },
         {
                 "id": "export",
@@ -22629,59 +24420,98 @@ const WORDS = [
         {
                 "id": "express",
                 "word": "Express",
-                "part_of_speech": "verb",
-                "meaning": "何かを言葉や行動で伝えること",
-                "author": "etymon_official",
+                "part_of_speech": "verb/adjective",
+                "meaning": "表現する、急行の、明確な",
                 "etymology": {
                         "breakdown": [
                                 {
                                         "text": "ex-",
                                         "type": "prefix",
-                                        "meaning": "外へ",
-                                        "lang": "Latin"
+                                        "meaning": "out"
                                 },
                                 {
-                                        "text": "pressare",
+                                        "text": "premere",
                                         "type": "root",
-                                        "meaning": "押す",
-                                        "lang": "Latin"
-                                }
-                        ],
-                        "original_statement": "The term originated from the Latin 'expressus', past participle of 'exprimere', meaning to 'press out'."
-                },
-                "core_concept": {
-                        "en": "The liberating outpour of inner thoughts.",
-                        "ja": "内なる思いを解放すること"
-                },
-                "thinking_layer": "『表現』という言葉は、自らの内に秘めた思いを、言葉や行動という形で外へと解放する行為を指します。この行為は、ただ単に何かを伝えること以上の意味を持ちます。それは、心の深奥から湧き出る感情が、世界と交わる瞬間であり、個の存在を超えて他者と繋がるための橋架けなのです。私たちの言語は、この『表現』を通じて心の声を外部の現実に具現化しますが、それは私たち自身をも理解する手段ともなります。『表現』は単に音や文字の羅列ではなく、生命の律動に共鳴する深い響きを持ち、個と世界を結びつける神秘的なプロセスです。人間が特有に持つこの能力は、時代や文化を超えて、常に変容を促す源となってきました。この一瞬の行為が、永遠の共鳴を生み出す可能性に満ちているのです。",
-                "synonyms": [
-                        "convey",
-                        "articulate"
-                ],
-                "antonyms": [
-                        "suppress",
-                        "conceal"
-                ],
-                "aftertaste": "To express is to carve words into the canvases of eternity.",
-                "deep_dive": {
-                        "roots": [
-                                {
-                                        "term": "ex-",
-                                        "meaning": "out of, from"
-                                },
-                                {
-                                        "term": "pressare",
                                         "meaning": "to press"
                                 }
                         ],
+                        "original_statement": "From Old French expresser, from Latin expressus 'clearly stated', from exprimere 'to press out'."
+                },
+                "core_concept": {
+                        "en": "To press out",
+                        "ja": "内側のエッセンスを、外へと強く絞り出す"
+                },
+                "thinking_layer": "表現とは「絞り出す（press out）」ことです。果実から雫を搾り取るように、言葉や芸術によって自分の内なる真実を形にして外へ放つ。その圧力（pressure）が、明確なメッセージを生みます。",
+                "synonyms": [
+                        "articulate",
+                        "voice"
+                ],
+                "antonyms": [
+                        "suppress",
+                        "hide"
+                ],
+                "aftertaste": "絞り出された、鮮烈な一滴",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "premere",
+                                        "meaning": "press"
+                                }
+                        ],
                         "points": [
-                                "ラテン語の「ex-」は「外へ」という意味を持ち、内側から外部へと何かを動かすニュアンスを提供します。",
-                                "「pressare」は圧力を加えることを指し、強調のニュアンスを含みます。"
+                                "impress（印象を与える＝押し付ける）やdepress（落ち込ませる＝押し下げる）と同門です。"
                         ]
                 },
-                "source": "Oxford English Dictionary",
-                "date": "2026-03-01",
-                "era": "15th Century, Latin origin"
+                "source": "etymon Philologist Mode",
+                "era": "14th Century Old French / Latin"
+        },
+        {
+                "id": "exquisite",
+                "word": "Exquisite",
+                "part_of_speech": "adjective",
+                "meaning": "洗練された、この上なく素晴らしい",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "ex-",
+                                        "type": "prefix",
+                                        "meaning": "out"
+                                },
+                                {
+                                        "text": "quaerere",
+                                        "type": "root",
+                                        "meaning": "to seek / to ask"
+                                }
+                        ],
+                        "original_statement": "From Latin exquisitus 'carefully sought out', from ex- 'out' + quaerere 'to seek'."
+                },
+                "core_concept": {
+                        "en": "Sought out with care",
+                        "ja": "執拗な探求の末に、選び抜かれた究極の美"
+                },
+                "thinking_layer": "「精巧な美」は、偶然の産物ではありません。あくなき「探求（seek out）」の果てに辿り着いた、妥協のない答えです。求める（query）ことをやめなかった者だけが手にできる、磨き抜かれた極致です。",
+                "synonyms": [
+                        "superb",
+                        "refined"
+                ],
+                "antonyms": [
+                        "crude",
+                        "inferior"
+                ],
+                "aftertaste": "探求の果てに輝く、一筋の光",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "quaerere",
+                                        "meaning": "seek"
+                                }
+                        ],
+                        "points": [
+                                "question（質問）やquest（探求）と同じ「求める心」の結晶です。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "15th Century Latin"
         },
         {
                 "id": "exsanguinate",
@@ -22742,6 +24572,102 @@ const WORDS = [
                 "era": "19th Century"
         },
         {
+                "id": "extinguish",
+                "word": "Extinguish",
+                "part_of_speech": "verb",
+                "meaning": "（火を）消す、絶やす",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "ex-",
+                                        "type": "prefix",
+                                        "meaning": "out"
+                                },
+                                {
+                                        "text": "stinguere",
+                                        "type": "root",
+                                        "meaning": "to prick / to poke"
+                                }
+                        ],
+                        "original_statement": "From Latin extinguere 'to put out, quench', from ex- 'out' + stinguere 'to prick'."
+                },
+                "core_concept": {
+                        "en": "To prick out the fire",
+                        "ja": "燃え盛る火を突き刺し、その息の根を止める"
+                },
+                "thinking_layer": "火を消すことは、かつては尖ったもので「突き刺し（prick）」、息の根を止めるような能動的な闘いでした。優しく消すのではなく、その存在を完全に無力化する、冷徹な終止符のイメージです。",
+                "synonyms": [
+                        "quench",
+                        "smother"
+                ],
+                "antonyms": [
+                        "ignite",
+                        "kindle"
+                ],
+                "aftertaste": "刺し貫かれた、熱の沈黙",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "stinguere",
+                                        "meaning": "prick"
+                                }
+                        ],
+                        "points": [
+                                "distinguish（区別する＝印を刻む）やinstinct（本能＝突き動かすもの）と根を共にします。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "16th Century Latin"
+        },
+        {
+                "id": "extol",
+                "word": "Extol",
+                "part_of_speech": "verb",
+                "meaning": "激賞する、褒めちぎる",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "ex-",
+                                        "type": "prefix",
+                                        "meaning": "out / up"
+                                },
+                                {
+                                        "text": "tollere",
+                                        "type": "root",
+                                        "meaning": "to raise"
+                                }
+                        ],
+                        "original_statement": "From Latin extollere 'to lift up, raise high', from ex- 'up' + tollere 'to lift'."
+                },
+                "core_concept": {
+                        "en": "To lift up high",
+                        "ja": "称賛の言葉で、相手を天高く担ぎ上げる"
+                },
+                "thinking_layer": "「褒める」の極致は、相手を物理的に「持ち上げる（lift up）」ような感覚です。群衆の中からその人の価値を掬い上げ、誰もが見上げる高貴な場所へと、言葉の力で押し上げること。それが激賞の本質です。",
+                "synonyms": [
+                        "exalt",
+                        "praise"
+                ],
+                "antonyms": [
+                        "belittle",
+                        "denigrate"
+                ],
+                "aftertaste": "見上げる空に掲げられた、誰かの誇り",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "tollere",
+                                        "meaning": "lift"
+                                }
+                        ],
+                        "points": [
+                                "tolerate（耐える＝重荷を持ち上げ続ける）と同根。持ち上げる「力」が必要です。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "14th Century Latin"
+        },
+        {
                 "id": "extract",
                 "word": "Extract",
                 "part_of_speech": "noun/verb",
@@ -22792,6 +24718,440 @@ const WORDS = [
                 "source": "Oxford English Dictionary",
                 "date": "2026-03-01",
                 "era": "Late Middle English, via Latin 'extrahere'"
+        },
+        {
+                "id": "extraordinary",
+                "word": "Extraordinary",
+                "part_of_speech": "adjective",
+                "meaning": "並外れた、異常な、驚くべき",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "extra-",
+                                        "type": "prefix",
+                                        "meaning": "outside"
+                                },
+                                {
+                                        "text": "ordo",
+                                        "type": "root",
+                                        "meaning": "order / row"
+                                }
+                        ],
+                        "original_statement": "From Latin extraordinarius, from extra ordinem 'outside the normal order'."
+                },
+                "core_concept": {
+                        "en": "Outside the regular row",
+                        "ja": "整然と並んだ日常の列から、はみ出した異質"
+                },
+                "thinking_layer": "普通（ordinary）とは、秩序正しい「列（ordo）」の中にいることです。そこから「外（extra）」へはみ出してしまうもの。それは不気味な異常さであると同時に、凡庸さを突き抜けた輝きでもあります。",
+                "synonyms": [
+                        "exceptional",
+                        "remarkable"
+                ],
+                "antonyms": [
+                        "ordinary",
+                        "common"
+                ],
+                "aftertaste": "列を乱す、圧倒的な個の力",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "ordo",
+                                        "meaning": "order"
+                                }
+                        ],
+                        "points": [
+                                "order（順序）やsubordinate（部下＝下の列に置かれた人）と同門です。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "15th Century Latin"
+        },
+        {
+                "id": "extravagant",
+                "word": "Extravagant",
+                "part_of_speech": "adjective",
+                "meaning": "無駄遣いな、法外な、奔放な",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "extra-",
+                                        "type": "prefix",
+                                        "meaning": "outside"
+                                },
+                                {
+                                        "text": "vagari",
+                                        "type": "root",
+                                        "meaning": "to wander"
+                                }
+                        ],
+                        "original_statement": "From Medieval Latin extravagantem, from extra- 'outside' + vagari 'to wander'."
+                },
+                "core_concept": {
+                        "en": "Wandering outside bounds",
+                        "ja": "許された境界を越えて、どこまでも彷徨い歩く"
+                },
+                "thinking_layer": "「贅沢」の原義は、定められた道や予算の「外（extra）」を「彷徨う（wander）」こと。理性のブレーキを失い、欲望のままに境界線を越えて歩き回る。その放蕩な足取りが、浪費という形になります。",
+                "synonyms": [
+                        "prodigal",
+                        "excessive"
+                ],
+                "antonyms": [
+                        "frugal",
+                        "thrifty"
+                ],
+                "aftertaste": "境界線を忘れた、足跡の乱れ",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "vagari",
+                                        "meaning": "wander"
+                                }
+                        ],
+                        "points": [
+                                "vague（漠然とした＝彷徨っている）やvagrant（放浪者）と同じ根っこです。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "14th Century Latin"
+        },
+        {
+                "id": "extreme",
+                "word": "Extreme",
+                "part_of_speech": "adjective/noun",
+                "meaning": "極端な、過激な、末端",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "exter-",
+                                        "type": "prefix",
+                                        "meaning": "outer"
+                                },
+                                {
+                                        "text": "-ime",
+                                        "type": "suffix",
+                                        "meaning": "superlative / most"
+                                }
+                        ],
+                        "original_statement": "From Old French extreme, from Latin extremus 'outermost, utmost', superlative of exter 'outer'."
+                },
+                "core_concept": {
+                        "en": "The outermost point",
+                        "ja": "これ以上先がない、世界の断崖絶壁の端"
+                },
+                "thinking_layer": "「外（exter）」の最上級。それ以上外側へは行けない、ギリギリの「際（きわ）」のことです。思想でも行動でも、崖っぷちに立って深淵を覗き込むような、極限の緊張感がこの言葉には宿っています。",
+                "synonyms": [
+                        "utmost",
+                        "radical"
+                ],
+                "antonyms": [
+                        "moderate",
+                        "mild"
+                ],
+                "aftertaste": "一歩先は無、という断崖の風",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "exter",
+                                        "meaning": "out"
+                                }
+                        ],
+                        "points": [
+                                "external（外部の）の究極形がextreme。もう戻れない「端」です。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "15th Century Old French / Latin"
+        },
+        {
+                "id": "extricate",
+                "word": "Extricate",
+                "part_of_speech": "verb",
+                "meaning": "（難局から）救い出す、解放する",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "ex-",
+                                        "type": "prefix",
+                                        "meaning": "out"
+                                },
+                                {
+                                        "text": "tricae",
+                                        "type": "root",
+                                        "meaning": "perplexities / hindrances / trifles"
+                                }
+                        ],
+                        "original_statement": "From Latin extricatus, from extricare 'to disentangle', from ex- 'out' + tricae 'perplexities, trifles'."
+                },
+                "core_concept": {
+                        "en": "Out of the perplexities",
+                        "ja": "絡みつく難題の糸を切り、迷宮から連れ出す"
+                },
+                "thinking_layer": "「難局」は、もともと鳥を捕まえる「罠（tricae）」のようなものでした。細かな障害が複雑に絡み合い、身動きが取れなくなった状態から、一筋の道を見つけて「外（ex）」へ引き出すこと。知的な救出作業です。",
+                "synonyms": [
+                        "disentangle",
+                        "extract"
+                ],
+                "antonyms": [
+                        "entangle",
+                        "involve"
+                ],
+                "aftertaste": "絡みつく糸が解けた、一瞬の静寂",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "tricae",
+                                        "meaning": "hindrance"
+                                }
+                        ],
+                        "points": [
+                                "intricate（複雑な＝中に絡まっている）のちょうど反対の動きです。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "17th Century Latin"
+        },
+        {
+                "id": "extrinsic",
+                "word": "Extrinsic",
+                "part_of_speech": "adjective",
+                "meaning": "外的な、付帯的な、非本質的な",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "exter",
+                                        "type": "prefix",
+                                        "meaning": "outside"
+                                },
+                                {
+                                        "text": "secus",
+                                        "type": "root",
+                                        "meaning": "beside / along"
+                                }
+                        ],
+                        "original_statement": "From Late Latin extrinsecus 'outward', from exter 'outside' + secus 'beside, along'."
+                },
+                "core_concept": {
+                        "en": "Along the outside",
+                        "ja": "本質の外側に沿って添えられた、仮初の飾り"
+                },
+                "thinking_layer": "核心部には属さず、ただ「外側（exter）」に「沿って（beside）」存在しているもの。それは取り外し可能な装飾であり、環境の変化によって容易に剥がれ落ちる、本質とは無縁の属性を指します。",
+                "synonyms": [
+                        "external",
+                        "incidental"
+                ],
+                "antonyms": [
+                        "intrinsic",
+                        "inherent"
+                ],
+                "aftertaste": "いつか剥がれ落ちる、外の景色",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "exter",
+                                        "meaning": "out"
+                                },
+                                {
+                                        "term": "secus",
+                                        "meaning": "side"
+                                }
+                        ],
+                        "points": [
+                                "intrinsic（内的な）と対比。secusはsecond（二番目＝隣）とも関係があります。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "16th Century Late Latin"
+        },
+        {
+                "id": "extrovert",
+                "word": "Extrovert",
+                "part_of_speech": "noun/adjective",
+                "meaning": "外向的な人、社交的な",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "extro-",
+                                        "type": "prefix",
+                                        "meaning": "outside"
+                                },
+                                {
+                                        "text": "vertere",
+                                        "type": "root",
+                                        "meaning": "to turn"
+                                }
+                        ],
+                        "original_statement": "From extra- 'outside' + vertere 'to turn', patterned after introvert."
+                },
+                "core_concept": {
+                        "en": "Turning outward",
+                        "ja": "心の関心を「外」へと向け、世界と握手する"
+                },
+                "thinking_layer": "内省的な闇に留まらず、自分の精神の矢印を「外側（outside）」へと「回転（turn）」させること。他者の視線や外界の刺激の中に自分を投げ出し、そこでエネルギーを循環させる生き方の姿勢です。",
+                "synonyms": [
+                        "outgoing",
+                        "gregarious"
+                ],
+                "antonyms": [
+                        "introvert"
+                ],
+                "aftertaste": "世界へ向かって開かれた、心の窓",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "vertere",
+                                        "meaning": "turn"
+                                }
+                        ],
+                        "points": [
+                                "reverse（逆転する）やconvert（転換する）と同じく、向きを変える運動です。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "20th Century Latin origin"
+        },
+        {
+                "id": "exuberant",
+                "word": "Exuberant",
+                "part_of_speech": "adjective",
+                "meaning": "（生命力・喜びなどが）溢れるばかりの、豊かな",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "ex-",
+                                        "type": "prefix",
+                                        "meaning": "thoroughly"
+                                },
+                                {
+                                        "text": "uberare",
+                                        "type": "root",
+                                        "meaning": "to be fruitful / udder"
+                                }
+                        ],
+                        "original_statement": "From Latin exuberantem 'growing thickly, abounding', from ex- 'thoroughly' + uberare 'to be fruitful, bear in abundance'."
+                },
+                "core_concept": {
+                        "en": "Abounding like a swelling udder",
+                        "ja": "乳房が張り裂けんばかりに満ちる、圧倒的な生の豊穣"
+                },
+                "thinking_layer": "語源の「乳房（uber）」が象徴するように、生命が内側からパンパンに膨らみ、もはや器に留めておけず「溢れ出す（overflow）」状態。それは制御不能なほどの喜びであり、鬱蒼と茂る緑のような野生の力強さです。",
+                "synonyms": [
+                        "enthusiastic",
+                        "profuse"
+                ],
+                "antonyms": [
+                        "gloomy",
+                        "sparse"
+                ],
+                "aftertaste": "器を壊して溢れ出す、生の濁流",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "uber",
+                                        "meaning": "udder / fruitful"
+                                }
+                        ],
+                        "points": [
+                                "udder（乳房）とラテン語uberは同源。母なる大地の豊かさが根源です。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "16th Century Latin"
+        },
+        {
+                "id": "exude",
+                "word": "Exude",
+                "part_of_speech": "verb",
+                "meaning": "（汗や自信などが）滲み出る、発散する",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "ex-",
+                                        "type": "prefix",
+                                        "meaning": "out"
+                                },
+                                {
+                                        "text": "sudare",
+                                        "type": "root",
+                                        "meaning": "to sweat"
+                                }
+                        ],
+                        "original_statement": "From Latin exsudare, from ex- 'out' + sudare 'to sweat'."
+                },
+                "core_concept": {
+                        "en": "To sweat out",
+                        "ja": "内側の熱気が、皮膚を突き抜けて香り立つ"
+                },
+                "thinking_layer": "意図して見せるのではなく、内側に溜まったものが「汗（sweat）」のように自然と「滲み出す（ooze out）」こと。自信や色気、あるいは恐怖。隠しようとしても毛穴から漏れ出してしまう、剥き出しの真実です。",
+                "synonyms": [
+                        "ooze",
+                        "radiate"
+                ],
+                "antonyms": [
+                        "absorb"
+                ],
+                "aftertaste": "隠しきれない、空気の震え",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "sudare",
+                                        "meaning": "sweat"
+                                }
+                        ],
+                        "points": [
+                                "sweat（汗）の語源である印欧祖語 *sweid- と響きを同じくします。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "16th Century Latin"
+        },
+        {
+                "id": "exult",
+                "word": "Exult",
+                "part_of_speech": "verb",
+                "meaning": "大喜びする、狂喜する",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "ex-",
+                                        "type": "prefix",
+                                        "meaning": "out"
+                                },
+                                {
+                                        "text": "salire",
+                                        "type": "root",
+                                        "meaning": "to leap"
+                                }
+                        ],
+                        "original_statement": "From Latin exultare 'to leap about, rejoice exceedingly', from ex- 'out' + salire 'to leap'."
+                },
+                "core_concept": {
+                        "en": "To leap out with joy",
+                        "ja": "喜びが体を突き動かし、大地を蹴って飛び上がる"
+                },
+                "thinking_layer": "本当の歓喜は、じっとしていることができません。重力から「外（ex）」へ向かって「跳ねる（leap）」。心が震え、体が浮き立つその瞬間、私たちは大地という制約から一瞬だけ自由になるのです。",
+                "synonyms": [
+                        "rejoice",
+                        "celebrate"
+                ],
+                "antonyms": [
+                        "mourn",
+                        "lament"
+                ],
+                "aftertaste": "重力を忘れた、一瞬の飛翔",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "salire",
+                                        "meaning": "leap"
+                                }
+                        ],
+                        "points": [
+                                "result（結果＝跳ね返り）やassault（襲撃＝跳びかかる）と同じ「跳躍」の言葉です。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "16th Century Latin"
         },
         {
                 "id": "facetious",
@@ -53992,5 +56352,48 @@ const WORDS = [
                 "part_of_speech": "adjective",
                 "meaning": "生命の",
                 "era": "19th Century"
+        },
+        {
+                "id": "eclat",
+                "word": "Éclat",
+                "part_of_speech": "noun",
+                "meaning": "華々しい成功、喝采、輝き",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "esclater",
+                                        "type": "root",
+                                        "meaning": "to burst / to shiver / to slap"
+                                }
+                        ],
+                        "original_statement": "From French éclat, from esclater 'to burst, shiver, break violently'."
+                },
+                "core_concept": {
+                        "en": "A brilliant bursting",
+                        "ja": "静寂を切り裂き、光と音が爆発するような鮮烈さ"
+                },
+                "thinking_layer": "成功とは、じわじわ広がるものではなく、陶器が割れる（shiver）瞬間の鋭い音のように、鮮烈に現れるものです。一瞬で人々の視線を奪い、空間を自分の色で染め上げる、破裂的な美学です。",
+                "synonyms": [
+                        "brilliance",
+                        "splendor"
+                ],
+                "antonyms": [
+                        "dullness",
+                        "obscurity"
+                ],
+                "aftertaste": "耳の奥に残る、破砕の美しき余韻",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "esclater",
+                                        "meaning": "burst"
+                                }
+                        ],
+                        "points": [
+                                "slate（石盤）の語源も「割れた破片」から。éclatは成功の「輝かしい破片」なのです。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "17th Century French"
         }
 ];
