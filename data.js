@@ -28206,5 +28206,51 @@ const WORDS = [
                 "source": "The Oxford English Dictionary",
                 "date": "2026-03-01",
                 "era": "Middle English (14th Century)"
+        },
+        {
+                "id": "auction",
+                "word": "Auction",
+                "part_of_speech": "noun",
+                "meaning": "公開売却や競売",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "auctio-",
+                                        "type": "root",
+                                        "meaning": "増加",
+                                        "lang": "ラテン語"
+                                }
+                        ],
+                        "original_statement": "From the Latin 'auctio', meaning 'an increasing'. It was used to describe a sale by increasing bids, dating back to Roman times."
+                },
+                "core_concept": {
+                        "en": "Exchange of desires through progressive competition.",
+                        "ja": "欲望の交換、進化する競争を通じて"
+                },
+                "thinking_layer": "オークションという言葉は、時間を超えた人間の欲望と競争の象徴です。それは、単に物品交換の場ではなく、私たちの内なる欲求が重なり合い、互いの魂と響き合う場です。古代ローマ以来、人々は物やサービスを求め、競り上げの中で自らの価値を見出そうとしています。オークションはまた、時間と共に変化する価値観を私たちに顕在化させる鏡です。それぞれの入札は、単なる価格ではなく、個々の夢や期待の表現です。過去を反映し、未来を予見する響きの中で、私たちは何を得たいのか、何を価値とみなすのかを示してくれます。オークションは、経済活動の一環として利潤を追求するだけでなく、人が自己実現を求める壮大な人生劇場なのです。この舞台は我々の物質的な飢えを満たすだけでなく、精神の渇望を癒すこともあります。",
+                "synonyms": [
+                        "bidding",
+                        "sale"
+                ],
+                "antonyms": [
+                        "purchase",
+                        "buy"
+                ],
+                "aftertaste": "Auctions embody the timeless dance of desire and value.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "auctio",
+                                        "meaning": "an increasing, creation"
+                                }
+                        ],
+                        "points": [
+                                "オークションは単なる売買を超え、欲望と価値の共演の場である。この競り上げゲームは、人々が究極の価値を見出すプロセスを具現化する。"
+                        ]
+                },
+                "source": "The Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Late Middle Ages, Latin origin"
         }
 ];
