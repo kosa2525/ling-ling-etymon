@@ -45691,5 +45691,229 @@ const WORDS = [
                 "source": "Online Etymology Dictionary",
                 "date": "2026-03-01",
                 "era": "Latin origin"
+        },
+        {
+                "id": "reduce",
+                "word": "Reduce",
+                "part_of_speech": "verb",
+                "meaning": "減らす、縮小する",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "reducere",
+                                        "type": "root",
+                                        "meaning": "引き戻す",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "re-",
+                                        "type": "prefix",
+                                        "meaning": "再び",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "ducere",
+                                        "type": "root",
+                                        "meaning": "導く",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'reduce' originated from the Latin 'reducere', which means to bring back or lead back."
+                },
+                "core_concept": {
+                        "en": "To diminish gently, returning to an essential state of simplicity.",
+                        "ja": "優しく縮小し、素朴な状態に戻ること"
+                },
+                "thinking_layer": "人間の営みの中で、減少や縮小という概念は、一見、負の側面を持つように感じられるが、実はそこには存在の根源的な美が秘められている。古代からの“reducere”の中に潜む意味は、ただの単純な減少を超えて、新たな始まりや過去の安定した状態への回帰を示唆している。人生の中で無駄を削ぎ落とし、本質に立ち返ることを指し示すこの言葉は、物事の本質を見極める眼差しを我々に与える。本来の意味を追求する行為は、自己を解放し、心を軽くする。それは、重荷を背負う旅から解放され、自由な心で再び未知の地平線を目指す旅立ちでもあるのだ。",
+                "synonyms": [
+                        "Diminish",
+                        "Lesson"
+                ],
+                "antonyms": [
+                        "Increase",
+                        "Expand"
+                ],
+                "aftertaste": "Sometimes, to truly grow, we must first reduce.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "reducere",
+                                        "meaning": "to bring back"
+                                }
+                        ],
+                        "points": [
+                                "語源的に見れば、“re”は“再び”を意味し、“ducere”は“導く”を意味する点において、この単語は始まりと終わりのループを象徴する。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "14th Century"
+        },
+        {
+                "id": "structure",
+                "word": "Structure",
+                "part_of_speech": "noun",
+                "meaning": "構造、組織の簡潔な定義",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "struct-",
+                                        "type": "root",
+                                        "meaning": "組み立てる",
+                                        "lang": "ラテン語"
+                                },
+                                {
+                                        "text": "-ure",
+                                        "type": "suffix",
+                                        "meaning": "状態や結果",
+                                        "lang": "ラテン語"
+                                }
+                        ],
+                        "original_statement": "The word 'structure' derives from the Latin 'structura', meaning 'a fitting together, building.'"
+                },
+                "core_concept": {
+                        "en": "An intricate dance of building blocks.",
+                        "ja": "組み立てられる要素の美しき踊り"
+                },
+                "thinking_layer": "構造とは、宇宙を紡ぐ法則の一部であり、私たちの知識と感覚を織り交ぜる無数の糸に似ています。形を持つもの、持たないもの、いずれにせよ見えない手にガイドされ、目的地へ向かう旅のようです。それはまるで、目に見えない壮大なシンフォニーが奏でられ、すべての存在がその旋律に沿って振る舞うかのようです。ある意味、構造は私たちの命を形作る不可視の包括的秩序であり、すべての始まりと終わりを越えて存在し続ける無限の継続性とも言えます。物質と非物質の狭間で、構造は私たちに形を与え、意味を与える基盤として存在し続けます。無数の粒子が織りなすハーモニーは、他でもない私たち自身の存在を反映しているのかもしれません。「構造」という言葉のもとに秩序と乱れが交錯し、新たな可能性へと続く道筋を示しています。",
+                "synonyms": [
+                        "Framework",
+                        "Configuration"
+                ],
+                "antonyms": [
+                        "Chaos",
+                        "Disarray"
+                ],
+                "aftertaste": "Structure is the silent architect of reality.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "struct",
+                                        "meaning": "to build"
+                                },
+                                {
+                                        "term": "ure",
+                                        "meaning": "result or process"
+                                }
+                        ],
+                        "points": [
+                                "ラテン語の「structura」は建築と集合体の両方を示し、人間と自然の両側面にわたる普遍的な秩序感を表現しています。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "Late Middle English, 14th Century"
+        },
+        {
+                "id": "information",
+                "word": "Information",
+                "part_of_speech": "noun",
+                "meaning": "情報",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "informare",
+                                        "type": "root",
+                                        "meaning": "形成する",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "in-",
+                                        "type": "prefix",
+                                        "meaning": "中に",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "forma",
+                                        "type": "root",
+                                        "meaning": "形",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "Derived from Latin 'informare', meaning 'to shape, to form', composed of 'in-' (into) and 'forma' (form, shape)."
+                },
+                "core_concept": {
+                        "en": "A delicate weaving of form within the fabric of understanding.",
+                        "ja": "理解の織物における形の繊細な織り成し"
+                },
+                "thinking_layer": "情報という言葉は、目に見えない真理を視覚化し、形作るプロセスを指す。情報は、私たちの存在の細胞に染み込み、客観的な形を他者に伝える架け橋となる。そして、その本質は、無限に続く宇宙のハーモニーを囁きかけ、私たちの認識を新たな次元へと導いていく。情報の流れは、知識の川を形成しながら、私たちの心と心の間に無言の対話を生み出す。そして、その沈黙の中で、情報は私たちに新たな視点を提供し、内と外の世界を結びつける。情報には、人間の知覚の限界を超え、新しい可能性の光が潜んでいる。それは、私たちの心の中に眠る好奇心を呼び覚まし、未知への旅路を照らし出すのである。真実が形になり、自覚が視覚化されるとき、情報は私たちの魂の解釈者となり、無限の想像力を解放する翼となるのだ。",
+                "synonyms": [
+                        "Data",
+                        "Knowledge"
+                ],
+                "antonyms": [
+                        "Ignorance",
+                        "Misinformation"
+                ],
+                "aftertaste": "Information shapes the unknown into comprehension.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "informare",
+                                        "meaning": "to form, to shape"
+                                }
+                        ],
+                        "points": [
+                                "情報とは形を成すことによって無形を形にする力である。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Late Middle English"
+        },
+        {
+                "id": "collection",
+                "word": "Collection",
+                "part_of_speech": "noun",
+                "meaning": "収集、集合体",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "collect-",
+                                        "type": "root",
+                                        "meaning": "集める",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "-tion",
+                                        "type": "suffix",
+                                        "meaning": "行為、過程",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "From the Latin 'collectio', derived from 'collectus', the past participle of 'colligere' meaning 'to gather together'."
+                },
+                "core_concept": {
+                        "en": "A gathering of the scattered into a meaningful whole.",
+                        "ja": "散在するものを意味ある全体に集めること"
+                },
+                "thinking_layer": "収集という行為は、まるで世界のさまざまな欠片を一つ一つ織り込んで壮大なタペストリーを作るようなものです。それは無限に広がる可能性の中から、未来を織り成す特定のしおりをつなぎ合わせるようなものです。この行為によって、各要素が持つ個別の輝きが失われるのではなく、むしろその相互作用の中で新たな意味と価値が創出され、それぞれの存在が引き立ちます。収集とは、内面の調和を外界へと投影し、時として自身の欠如を埋める試みなのかもしれません。そして、それは他者との共感や歴史の共鳴を通じて私たちの内面を豊かにします。時の経過とともに蓄積されゆくそれぞれの瞬間は、それに関わる感情や記憶が精緻に織り込まれており、その集約体が私たちの存在の証となります。収集は生き続ける「現在」という瞬間のモザイクであり、そこには過去の断片が所狭しと埋め込まれています。この形なき大切さには、ただ物質を集める以上の深い意義と人間の精神の探求が潜んでいるのです。",
+                "synonyms": [
+                        "assemblage",
+                        "accumulation"
+                ],
+                "antonyms": [
+                        "dispersion",
+                        "dispersal"
+                ],
+                "aftertaste": "Collecting is an art of weaving moments into eternity.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "collect",
+                                        "meaning": "to gather together"
+                                }
+                        ],
+                        "points": [
+                                "収集の概念は、人間が順応しない状況を克服し、調和を求める永遠の欲求を象徴しています。物質的な利益だけでなく、知識や体験の集合体としての意味合いも広がります。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Middle English, from Latin, 14th Century"
         }
 ];
