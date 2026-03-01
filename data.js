@@ -48058,5 +48058,97 @@ const WORDS = [
                 "source": "Oxford English Dictionary",
                 "date": "2026-03-01",
                 "era": "Mid-19th Century"
+        },
+        {
+                "id": "valiant",
+                "word": "Valiant",
+                "part_of_speech": "adjective",
+                "meaning": "勇敢な、勇猛な",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "val-",
+                                        "type": "root",
+                                        "meaning": "力強い",
+                                        "lang": "ラテン語"
+                                }
+                        ],
+                        "original_statement": "The word 'valiant' traces its roots back to the Old French ‘valiant’, meaning courageous, which itself originates from the Latin ‘valens’ or ‘valere’, meaning to be strong or effective."
+                },
+                "core_concept": {
+                        "en": "A heart unyielding amid the storm.",
+                        "ja": "嵐の中で屈しない心"
+                },
+                "thinking_layer": "勇敢とは、人間の美徳の中でも特に尊ばれるものであり、単なる物理的な力や威勢だけに留まらない。その核心には、恐怖の中にあっても正しき道を歩む精神力がある。恐怖の海を切り裂き、新たなる地平を切り拓くために、彼らが持つのは瞬時の感情を超越した知恵である。勇敢さの本質は、何ものにも屈しない意志である。外的な困難に対してのみならず、内なる迷いに対しても己を律するその姿は、まるで夜空に一筋の光を見出すようなものである。その光は人々に希望を与え、未来への道を指し示す。勇敢であることは、孤独でありながらも孤高であること。また、一人の力ではなく、仲間との絆に支えられて広がる波紋のように、その存在が世界に響き渡る。勇敢とは、ただ突出することではなく、深い理解と愛をもって、世界と共鳴する意志の象徴なのである。",
+                "synonyms": [
+                        "Brave",
+                        "Courageous"
+                ],
+                "antonyms": [
+                        "Cowardly",
+                        "Fearful"
+                ],
+                "aftertaste": "To stand firm is to illuminate the darkness with unwavering light.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "valere",
+                                        "meaning": "to be strong, powerful"
+                                }
+                        ],
+                        "points": [
+                                "中世のフランス語における「vaillant」から派生し、ラテン語の「valere」に基づく。この言葉は、力強くあろうとする人間の本質を説いている。"
+                        ]
+                },
+                "source": "Etymology Online Dictionary",
+                "date": "2026-03-01",
+                "era": "Late 13th Century"
+        },
+        {
+                "id": "initial",
+                "word": "Initial",
+                "part_of_speech": "noun/adjective",
+                "meaning": "初めの、開始の",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "initium",
+                                        "type": "root",
+                                        "meaning": "始まり",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'initial' traces back to the Latin 'initium,' meaning 'a beginning.' It further evolved into Old French as 'inicial' before making its way into Middle English as 'initial,' referring to the first letter of a name or word."
+                },
+                "core_concept": {
+                        "en": "The whisper of beginnings that herald a journey.",
+                        "ja": "旅路の先駆けとなる始まりの囁き"
+                },
+                "thinking_layer": "「初め」という言葉は、あらゆる存在の上昇や発展、そして変容の可能性を閉じ込めた、無限の宿命を詠う詩である。何かが誕生するとき、その一歩は新しい旅の兆しとして輝きを放つ。それは未来に対する無垢なる期待であり、また過去と現在を繋ぐ橋である。目には見えないが、時間の流れの中で、初めという概念が与えてくれるものは希望であり、それは永遠なるものへの静かな賛辞である。初めの瞬間に立ち会う者は、自らの魂の奥深くに優美な波紋を刻む。何気ない一瞬でさえも、それは時の編み物に加わる一つの糸となり、無限大の可能性を秘めている。「初め」の美しさは、その潔白かつ素朴な姿にある。あらゆる閃きが育まれ、変化と進化の翼をもたらすもの。それは存在の根源であり、自己探求と自己理解の旅へと私たちを誘う。この詩的な始まりは、全存在の属性と性質を超越し、何もない空間に響く一筋のメロディのように、静寂の中に漂うのである。",
+                "synonyms": [
+                        "Beginning",
+                        "Commencement"
+                ],
+                "antonyms": [
+                        "End",
+                        "Conclusion"
+                ],
+                "aftertaste": "In the beginning lies the promise of infinity.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "initium",
+                                        "meaning": "a beginning"
+                                }
+                        ],
+                        "points": [
+                                "「初め」という言葉は、ラテン語の『initium』に由来し、それは新しい出来事や時代の到来を意味している。このルーツは文化と言語の交差点を経て、すべての開始が持つ希望と潜在性を象徴するように展開してきた。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "14th Century"
         }
 ];
