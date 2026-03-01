@@ -706,11 +706,33 @@ function openEssay(id) {
             <div class="essay-body" style="font-size:1.3rem; line-height:2; color:var(--color-text); font-family: 'Inter', sans-serif;">
                 ${e.content.split('\n').map(l => l.trim() ? `<p style="margin-bottom:2.5rem;">${l}</p>` : '').join('')}
             </div>
+            
+            <div style="display:flex; justify-content:center; margin-top:3rem; margin-bottom: 2rem;">
+                <button id="fl-btn-${e.id}" onclick="toggleFlourish('essay', '${e.id}', this)"
+                    style="background:none; border:1px solid var(--color-border); color:var(--color-text-dim); font-size:0.9rem; padding:0.5rem 1.2rem; border-radius:100px; cursor:pointer; transition:all 0.2s; display:flex; align-items:center; gap:6px;">
+                    ✦ Flourish · <span class="fl-cnt" id="fl-cnt-${e.id}">…</span>
+                </button>
+            </div>
+
             <footer style="margin-top: 4rem; padding-top: 1.5rem; border-top: 1px solid var(--color-border); opacity:0.4; font-size:0.75rem; font-style:italic;">
                 ※ 本エッセイは、一部AIによって生成された、またはAIの補助を受けて作成された可能性があります。
             </footer>
             ${renderReflectionSection(e.id)}
         </div>`;
+
+    // Flourishカウント取得
+    apiGet(`/api/flourish-count?target_type=essay&target_id=${e.id}&username=${State.currentUser || ''}`)
+        .then(fc => {
+            const cnt = document.getElementById(`fl-cnt-${e.id}`);
+            const btn = document.getElementById(`fl-btn-${e.id}`);
+            if (cnt) cnt.textContent = fc.count;
+            if (btn && fc.flourished) {
+                btn.style.borderColor = 'var(--color-premium)';
+                btn.style.color = 'var(--color-premium)';
+                btn.dataset.flourished = 'true';
+            }
+        }).catch(() => { });
+
     loadReflections(e.id, e.author || 'etymon_official', e.title);
 
     const trigger = document.getElementById('essay-options-trigger');
