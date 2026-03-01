@@ -29170,5 +29170,51 @@ const WORDS = [
                 "source": "Oxford English Dictionary",
                 "date": "2026-03-01",
                 "era": "14th Century"
+        },
+        {
+                "id": "naughty",
+                "word": "Naughty",
+                "part_of_speech": "adjective",
+                "meaning": "いたずらな、やんちゃな",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "naught-",
+                                        "type": "root",
+                                        "meaning": "無い、無価値",
+                                        "lang": "Old English"
+                                }
+                        ],
+                        "original_statement": "Initially, 'naughty' meant 'having naught' or 'nothing', implying poor or morally lacking."
+                },
+                "core_concept": {
+                        "en": "An exploration of the thin boundary between innocence and mischief.",
+                        "ja": "無邪気さといたずらの細い境界線の探求"
+                },
+                "thinking_layer": "『いたずら』という言葉の奥深い意味を熟考する際に、我々はしばしば無邪気さと悪戯心の微妙な境界線に思いを巡らせるものである。無意識のうちにいたずらを働く子供、その背後には自由な魂が隠れている。無垢なる状態と、社会のルールに挑戦する意識。この関係性は、端的に人間の二面性を表していると言っても過言ではない。善悪の狭間で揺れ動くこの概念は、我々の心に深い反響を呼び覚ます。このような言葉が歴史の中で形作られた理由は、文化や時代背景にしっかりと根付いており、その表現力を豊かにしている。また、人間存在の名も無き小さな抵抗の象徴として機能する。その時々の文脈を超え、生き生きとした姿勢を保ちながら、新たなる発見への契機となる。まさにこの言葉には、善悪を超越した普遍的な意味が宿っているのである。",
+                "synonyms": [
+                        "mischievous",
+                        "roguish"
+                ],
+                "antonyms": [
+                        "obedient",
+                        "well-behaved"
+                ],
+                "aftertaste": "Naughtiness is the dance of innocence skirting the edge of rebellion.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "naught",
+                                        "meaning": "nothing, zero"
+                                }
+                        ],
+                        "points": [
+                                "中世において、'naughty' という言葉は '仕方のない' や '罪深い' を意味する表現として発展してきました。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "Middle English Era (14th Century)"
         }
 ];
