@@ -226,9 +226,16 @@ def toggle_flourish():
                     row = cur.fetchone()
                     if row: author_to_notify = row[0]
                 elif target_type == 'essay':
-                    cur.execute(f"SELECT author FROM user_essays WHERE id={p}", (target_id,))
-                    row = cur.fetchone()
-                    if row: author_to_notify = row[0]
+                    # essay_user_X という形式の場合、数値部分を取り出す
+                    real_id = target_id
+                    if str(target_id).startswith('essay_user_'):
+                        real_id = str(target_id).replace('essay_user_', '')
+                    
+                    try:
+                        cur.execute(f"SELECT author FROM user_essays WHERE id={p}", (real_id,))
+                        row = cur.fetchone()
+                        if row: author_to_notify = row[0]
+                    except: pass
                 elif target_type == 'word':
                     author_to_notify = target_author
                     
