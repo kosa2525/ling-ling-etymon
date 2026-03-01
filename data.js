@@ -39893,5 +39893,533 @@ const WORDS = [
                 "source": "Oxford English Dictionary",
                 "date": "2026-03-01",
                 "era": "Late Middle English"
+        },
+        {
+                "id": "announce",
+                "word": "Announce",
+                "part_of_speech": "verb",
+                "meaning": "通知する、知らせる",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "ad-",
+                                        "type": "prefix",
+                                        "meaning": "～に",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "nuntiare",
+                                        "type": "root",
+                                        "meaning": "知らせる",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "Derived from Late Latin 'annuntiare', meaning to bring news or to declare, stemming from 'nuntius' which means messenger."
+                },
+                "core_concept": {
+                        "en": "The gentle art of proclaiming one's truth to the world.",
+                        "ja": "自身の真実を世界に告げる優雅な技法"
+                },
+                "thinking_layer": "「告げる」とは、ただ口にする行為にとどまらず、人の心を揺さぶり、時には新たな道を切り開く力を持つ。この行為の根底には、知覚された真実を他者に共有したいという欲求がある。それは小川のせせらぎのように静かに伝わるかもしれず、または雷鳴のように鋭く響き渡るかもしれない。思考の海を泳ぐ人々が、言葉を通じてあるべき姿を形にし、この世に音を乗せて放つ。そしてその音が人々の心に留まり、新たな想いを生み出すのだ。伝えることは感情の交流であり、時空を超えたメッセージである。受け取る側の胸に新たな光を灯すこともあれば、古い思い出に再び命を吹き込むこともある。ここに、言葉が持つ無限の可能性と力が秘められている。言葉一つで世界が生まれ変わる瞬間、その深淵に私たちは何を見いだすのか。ただの音がやがて人生の声となり、その響きが心を満たしていく様、それが人間と宇宙を繋ぐ美しきシンフォニーなのである。",
+                "synonyms": [
+                        "Proclaim",
+                        "Declare"
+                ],
+                "antonyms": [
+                        "Conceal",
+                        "Suppress"
+                ],
+                "aftertaste": "Announcing is the bridge between silence and the world.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "nuntius",
+                                        "meaning": "messenger"
+                                }
+                        ],
+                        "points": [
+                                "ラテン語由来の 'nuntius' は「伝令」を意味し、言葉の本質的な役割として情報伝達の重要性が現れている。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "Late Latin"
+        },
+        {
+                "id": "prepare",
+                "word": "Prepare",
+                "part_of_speech": "verb",
+                "meaning": "準備を整える",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "prae-",
+                                        "type": "prefix",
+                                        "meaning": "前もって",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "parare",
+                                        "type": "root",
+                                        "meaning": "準備する",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "Derived from Latin 'praeparare', comprised of 'prae-' meaning 'before' and 'parare' meaning 'make ready'."
+                },
+                "core_concept": {
+                        "en": "The art of setting the stage for the unfolding of time's possibilities.",
+                        "ja": "時間の可能性が展開する舞台を整える技術"
+                },
+                "thinking_layer": "準備という行為は、時間の流れを滑らかにするための静謐なる芸術である。未来という未知なる波に乗るために、我々は今を整える必要がある。準備の過程において、我々は自らの内なる調和を見出し、世界との相互作用を再確認する。計画的かつ即興的なる要素が共存し、創造の瞬間を導く。人類が進化の過程で生み出した最も大切なツールのひとつであり、ただ労働の準備ではなく、存在そのものの準備なのだ。無限の可能性へと続く扉を開く鍵であり、すべての物事が潜在する最高の形に昇華するように導くプロセスである。準備は、未来の見知らぬ地平を描くキャンバスであり、過去から学び、現在を活用して、可能性を紡ぐ希求の行為である。",
+                "synonyms": [
+                        "Arrange",
+                        "Organize"
+                ],
+                "antonyms": [
+                        "Neglect",
+                        "Ignore"
+                ],
+                "aftertaste": "Preparation is the silent architect of destiny.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "prae",
+                                        "meaning": "before"
+                                },
+                                {
+                                        "term": "parare",
+                                        "meaning": "to make ready"
+                                }
+                        ],
+                        "points": [
+                                "「準備」という概念は、単に物事を事前に整えることだけを意味するのではない。未来に対する受容性を高め、創造的なプロセスを促進するための不可欠なステップである。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Late Middle English, from Latin"
+        },
+        {
+                "id": "contribute",
+                "word": "Contribute",
+                "part_of_speech": "verb",
+                "meaning": "寄付する、貢献する",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "con-",
+                                        "type": "prefix",
+                                        "meaning": "共に",
+                                        "lang": "ラテン語"
+                                },
+                                {
+                                        "text": "tribuere",
+                                        "type": "root",
+                                        "meaning": "与える、配分する",
+                                        "lang": "ラテン語"
+                                }
+                        ],
+                        "original_statement": "The word 'contribute' originates from the Latin verb 'contribuere', meaning 'to bring together or add'."
+                },
+                "core_concept": {
+                        "en": "To harmoniously weave strands of effort into the collective tapestry.",
+                        "ja": "努力の糸を共に織り上げる調和の美しさ"
+                },
+                "thinking_layer": "私たちが生きているこの世界では、貢献は時として自己を超えた概念として捉えられます。個々の貢献はそれ自体では小さくも、無数の手によって集められ、積み重ねられることによって大きな変化を生み出します。貢献するという行為は、一人ひとりの個性や思い、そしてあり方を無限の織物に足すことを意味します。この過程において、私たちは自己を通じて世界へ対話を開始し、他者と結びつく新たな道を見出します。貢献には利他性だけでなく、自己実現の要素も含まれ、また、貢献することによって私たちの存在は時の中で形作られ、未来への可能性を示します。貢献は一つの行動を超え、我々がどのように他者と交わり、共に歩むかを象徴する思想的存在となります。それは未来へと響く音色のように、静かに、しかし確実に私たちの人生に響くのです。",
+                "synonyms": [
+                        "Donate",
+                        "Support"
+                ],
+                "antonyms": [
+                        "Withhold",
+                        "Hoard"
+                ],
+                "aftertaste": "Every small act of contribution builds the world anew.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "trib",
+                                        "meaning": "to give"
+                                }
+                        ],
+                        "points": [
+                                "ラテン語の 'tribuere' は、元来、分配や引き渡しを意味し、それが転じて現代の『貢献する』に至る過程には、人々が共に何かを成し遂げようとする意思が織り込まれている。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "Late 14th Century"
+        },
+        {
+                "id": "predict",
+                "word": "Predict",
+                "part_of_speech": "verb",
+                "meaning": "予想する, 予測する",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "pre-",
+                                        "type": "prefix",
+                                        "meaning": "前-",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "dicere",
+                                        "type": "root",
+                                        "meaning": "言う",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'predict' originates from the Latin 'praedicere', derived from 'pre-' meaning 'before' and 'dicere' meaning 'to say'."
+                },
+                "core_concept": {
+                        "en": "A dance with destiny, whispering the secrets of time.",
+                        "ja": "運命との舞踊、時の秘密を囁く"
+                },
+                "thinking_layer": "予測とは未来を見据える心の鏡であり、人間の知性の翼によって時間を超越する術である。時に、予測は運命の詩であり、まだ来たらざる何かに対する夢見る者のささやきである。人間は常に未来を知ろうとする心の探究者であり、この好奇心こそが予測の原動力となる。予測をすることで、自らの運命に意味を与え、日々の選択に形を与える。自然界に存在する他の生物とは距離を置き、人間はこの未来への旅を始めることができるのだ。予測とは、未来を石に刻むのではなく、未来を紙のようなしなやかなものにし、そこに希望や不安、夢、そして葛藤を描き出す行為である。過去の積み重ねが未来へのビジョンを育み、そのビジョンが新たな現実を形作る。予測とは過去と未来の橋渡しであり、創造と運命の境界を曖昧にする。まさに、この哲学的で詩的な踊りの中で、人間は自分自身を理解し、より良い未来を創造することができる。未来を予測するという行為そのものが、人間存在の深さを反映している。予測とはまさに時間そのものへのラブレターであり、同時に未知への挑戦である。",
+                "synonyms": [
+                        "forecast",
+                        "foretell"
+                ],
+                "antonyms": [
+                        "recall",
+                        "retrospect"
+                ],
+                "aftertaste": "Predicting is the art of weaving tomorrow's tapestry with today's threads.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "dicere",
+                                        "meaning": "to say, declare"
+                                }
+                        ],
+                        "points": [
+                                "予測という行為には、単なる言葉の先読みを超え、哲学的思索が求められる。言葉が未来を描き出す手段となるのである。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "16th Century"
+        },
+        {
+                "id": "preserve",
+                "word": "Preserve",
+                "part_of_speech": "verb",
+                "meaning": "保存する、保護する",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "pre-",
+                                        "type": "prefix",
+                                        "meaning": "前もって",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "servare",
+                                        "type": "root",
+                                        "meaning": "守る",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'preserve' originates from the Latin word 'praeservare', which means to guard or save beforehand."
+                },
+                "core_concept": {
+                        "en": "To protect and imbue with timelessness, guarding the essence through the passage of time.",
+                        "ja": "時の流れの中で、永遠の価値を守り抜くこと。"
+                },
+                "thinking_layer": "保存とは、ただものを守るだけに留まらず、それを永続的な何かに変える行為でもあります。それは人類の願望の具現化とも言えるでしょう。私たち自身の存在が時間の流れに乗って消えていく中で、何かを保存することは、過去と未来を繋ぐ一本の糸となります。この行為は、自然の流れと対立することなく共存し、人生そのものの儚さを理解しながら、それでもなお続けることを選ぶ人間の意志の表れです。保存の行為は、単なる否定的な保護ではなく、それがもたらす意味や価値を深く理解し、時に新たな意味を見出す創造的なプロセスでもあります。このようにして過去は単なる過去ではなくなり、未来に希望を与える眩い光となるのです。その結果、保存は私たちの心の中に響く音楽であり、魂の旅の一部であることを示します。",
+                "synonyms": [
+                        "Conserve",
+                        "Maintain"
+                ],
+                "antonyms": [
+                        "Destroy",
+                        "Neglect"
+                ],
+                "aftertaste": "To preserve is not merely to save, but to transcend time itself.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "servare",
+                                        "meaning": "to guard, keep"
+                                }
+                        ],
+                        "points": [
+                                "ラテン語の起源において、『preserve』は保持や管理といった意味から発展し、時間の流れの中で価値を守る、さらなる含意を持つに至る。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Middle English, 14th Century"
+        },
+        {
+                "id": "friendship",
+                "word": "Friendship",
+                "part_of_speech": "noun",
+                "meaning": "友情、友人であることの状態",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "friend",
+                                        "type": "root",
+                                        "meaning": "友",
+                                        "lang": "Old English"
+                                },
+                                {
+                                        "text": "-ship",
+                                        "type": "suffix",
+                                        "meaning": "状態、地位",
+                                        "lang": "Old English"
+                                }
+                        ],
+                        "original_statement": "Derived from Old English 'freondscip', where 'freond' means 'friend' and '-scip' indicates a state or condition."
+                },
+                "core_concept": {
+                        "en": "The golden bond of shared souls.",
+                        "ja": "共有された魂の黄金の絆"
+                },
+                "thinking_layer": "友情とは、時間や場所を超えて、心と心が交錯し、無限の響きを奏でる共鳴の旅です。古代から人々は、この不可思議なつながりに込められる力を讃えてきました。友情は生命の旅を彩る光であり、暗闇の中で共に歩む伴侶をもたらす。相互の理解と無言のうちに交わされる信頼は、時として言葉では到底表現しきれない深層を持つ。友情の絆は、単なる人間関係の枠を超えて、人生の意味を問いかけます。それは自分自身を理解する鏡であり、他者を理解するための窓でもあります。この地上における最大の贈り物であって、時がたっても揺るがない不変の絆として、未来へと受け継がれていきます。",
+                "synonyms": [
+                        "amity",
+                        "camaraderie"
+                ],
+                "antonyms": [
+                        "enmity",
+                        "hostility"
+                ],
+                "aftertaste": "Friendship is the silent dance of shadows under the moonlight of the heart.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "friend",
+                                        "meaning": "a person one likes and trusts"
+                                }
+                        ],
+                        "points": [
+                                "友とは信頼と好意によって結ばれた特別な絆を指す語である。友情は、時間や文化をも超える普遍的なテーマとして、多くの文学や哲学で取り上げられてきた概念である。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "12th Century Old English"
+        },
+        {
+                "id": "corporation",
+                "word": "Corporation",
+                "part_of_speech": "noun",
+                "meaning": "法人",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "corpus-",
+                                        "type": "root",
+                                        "meaning": "体",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "-ation",
+                                        "type": "suffix",
+                                        "meaning": "行為や状態を表す",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'corporation' traces back to the Latin 'corporatio', from 'corporare', meaning 'to embody'. This reflects the historical concept of legally creating a body that can act as a single entity, transcending individual existence."
+                },
+                "core_concept": {
+                        "en": "A united body formed by individuals, given life by law.",
+                        "ja": "人々によって形成された一体性、法律によって生命が与えられるもの。"
+                },
+                "thinking_layer": "「法人」とは、肉体を持たないにもかかわらず、法によって命が吹き込まれ、人々の集合的意志が形を取る存在である。その成立は、個人の限界を超えた共存の理想を体現し、欲望や物質的な制限を超え、理念を実現しようとする試みである。この概念は、自然界では見られない人工の存在であり、人類の創造力がいかに無限であるかを示す証でもある。法人は、個の力が集まれば、どんなに大きな夢も可能にすることを信じさせてくれる儚い希望の幻影である。時には、その存在が人間的価値を凌駕し、冷徹で無感覚な側面を見せることもあるが、それでもなお、我々は法人の内部に息吹く動的なエネルギーを感じ、その中にある可能性に魅了されるのである。",
+                "synonyms": [
+                        "enterprise",
+                        "company"
+                ],
+                "antonyms": [
+                        "individual",
+                        "human"
+                ],
+                "aftertaste": "A corporation breathes through the collective soul of its members.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "corpus",
+                                        "meaning": "body"
+                                }
+                        ],
+                        "points": [
+                                "法人という概念は、物理的な肉体を持たない抽象的な存在でありながら、法的な人格を通じて現実世界で具体的な作用を及ぼすものです。これは、集団意識の表現として、精神的な結びつきが実体化する様子を語っているのです。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Late Middle English"
+        },
+        {
+                "id": "courageous",
+                "word": "Courageous",
+                "part_of_speech": "adjective",
+                "meaning": "勇敢であること",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "cour-",
+                                        "type": "root",
+                                        "meaning": "心",
+                                        "lang": "Old French"
+                                },
+                                {
+                                        "text": "-ageous",
+                                        "type": "suffix",
+                                        "meaning": "特性や性質",
+                                        "lang": "Middle English"
+                                }
+                        ],
+                        "original_statement": "Derived from Old French 'corageous', rooted in Latin 'cor', meaning heart, indicative of one's inner strength."
+                },
+                "core_concept": {
+                        "en": "The essence of the heart's fearless leap into the unknown.",
+                        "ja": "未知へと無心で跳び込む心の精髄"
+                },
+                "thinking_layer": "勇気は心の深奥から湧き上がる灯火のようなものである。人間の魂の中で、恐怖と不安が蔓延する暗闇を突き抜けて進む一筋の光。勇敢であることは、己の限界を超える挑戦への無言の応援であり、一瞬の静けさの中で決断がもたらす心の平和。勇気という力は独りよがりではなく、むしろ互いに寄り添い生きていく上での不可欠な力である。それは孤独の中に在りながら、同時に他者を勇気づける存在である。このように、勇気は個の冒険心と調和しつつ、全人類の道しるべである自然の恩寵を具現化する。心の中の微かに灯るこの炎を未来へと照らすために、人は皆、無知の闇から光を見出す旅を続けるのだ。勇敢とは何か、言葉にすれば簡素に聞こえるが、人生のすべてに通じる深遠な哲学である。",
+                "synonyms": [
+                        "brave",
+                        "valiant"
+                ],
+                "antonyms": [
+                        "cowardly",
+                        "timid"
+                ],
+                "aftertaste": "Courage is the silent harmony that accompanies the heart's bold embrace of impending uncertainty.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "cor",
+                                        "meaning": "heart"
+                                }
+                        ],
+                        "points": [
+                                "勇気の語源は心という概念に根ざしており、これが個々人の行動にもたらす影響の探求は人類の哲学的な旅の一部を構成する。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "Middle Ages, Late Middle English"
+        },
+        {
+                "id": "vision",
+                "word": "Vision",
+                "part_of_speech": "noun",
+                "meaning": "視覚、先見、夢想",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "vis",
+                                        "type": "root",
+                                        "meaning": "視る",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "ion",
+                                        "type": "suffix",
+                                        "meaning": "状態・行為",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The term 'vision' originates from the Latin 'visio', meaning 'sight or seeing'. It evolved through Old French as 'visioun' before entering Middle English around the 13th century."
+                },
+                "core_concept": {
+                        "en": "An ethereal glimpse into realms beyond the tangible.",
+                        "ja": "触れることのできない領域に広がる、幽玄なひらめき。"
+                },
+                "thinking_layer": "視覚とは、我々がその存在を確認することができる唯一の真実である。しかし、それは必ずしも視覚情報としての信憑性を保証するものではない。我々が日々体験する視覚の背後には、不可視の領域に横たわる物語が無数に存在している。それは、光や影の微細な関係性から生まれる抽象的な感覚であり、絶対的なものではない。視覚は物理的な現象であると同時に、それを超えた精神的な現象でもある。その形而上的な性質は、我々が感じ取る現実の限界を押し広げ、内なるヴィジョンを育む。たとえ目が閉じられ、暗闇が全てを包んでも、心の中には常に見えないキャンバスが存在し、無限の景色を描き出す。視ることとは、感覚的な体験のみに留まらず、それは無意識の内にある真理を捉えるための心の眼、そのレンズであると言えよう。",
+                "synonyms": [
+                        "perception",
+                        "insight"
+                ],
+                "antonyms": [
+                        "blindness",
+                        "ignorance"
+                ],
+                "aftertaste": "Vision transforms mere sight into a gateway to the soul.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "vis",
+                                        "meaning": "to see"
+                                },
+                                {
+                                        "term": "ion",
+                                        "meaning": "action or condition"
+                                }
+                        ],
+                        "points": [
+                                "視覚は、単なる光の受容を超え、思索や未来を映し出すスクリーンとして機能する。我々は視野を拡張することで物理的な限界を超え、新しい現実を創造している。"
+                        ]
+                },
+                "source": "The Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "13th Century, Old French"
+        },
+        {
+                "id": "depend",
+                "word": "Depend",
+                "part_of_speech": "verb",
+                "meaning": "頼る、依存する",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "de-",
+                                        "type": "prefix",
+                                        "meaning": "下に",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "pendere",
+                                        "type": "root",
+                                        "meaning": "掛ける、重さを量る",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'depend' comes from Latin 'dependere', composed of 'de-' meaning 'from' or 'down' and 'pendere' meaning 'to hang'."
+                },
+                "core_concept": {
+                        "en": "An invisible tether between beings, a balance swaying gently in the winds of existence.",
+                        "ja": "存在の風に揺れる、目に見えぬ結びつき。"
+                },
+                "thinking_layer": "『依存』とは、他者と自らの境界が溶け合う神秘的な瞬間です。物事の成り行きに身を委ねるとき、それは単なる行動の選択を超え、生を共鳴させる詩的な豊かさを内包しています。私たちが互いに頼るとき、そこには単なる助け合いを超えた、深い絆の糸が織り成されます。すべてが繋がっていることに気づくとき、その思索の流れは、ただの物理的な繋がりや地理的な距離を超え、精神的な共鳴へと至ります。『依存』は、個々の存在がもつ限界に挑戦し、一つの連続した全体へと向かう旅の始まり。これは自らの虚無と向き合い、祈りと共に未来を見つめる行為であり、無限の可能性を感知するための内面的な知恵、そして他者との響き合いの旋律です。それは未知への信頼と、変わることへの恐れのなかで揺れ動く、儚くも力強いものなのです。依存とは、優しい光の中で営まれる魂の静かな歌とも言えるでしょう、その音は永遠なるリズムを奏で、私たちを共に導くのです。",
+                "synonyms": [
+                        "rely",
+                        "trust"
+                ],
+                "antonyms": [
+                        "independ",
+                        "autarky"
+                ],
+                "aftertaste": "Dependence is the silent harmony that binds the world's symphony.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "pendere",
+                                        "meaning": "to hang, weigh"
+                                }
+                        ],
+                        "points": [
+                                "『dependere』は、物が他のものに縋りつく行為の象徴であり、その親密な形態を持つ行為は、互いへの日常的な支え合いの求めの原点を示します。"
+                        ]
+                },
+                "source": "The Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Late Middle English, 14th Century"
         }
 ];
