@@ -46610,5 +46610,291 @@ const WORDS = [
                 "source": "Oxford English Dictionary",
                 "date": "2026-03-01",
                 "era": "Late Middle English"
+        },
+        {
+                "id": "conduct",
+                "word": "Conduct",
+                "part_of_speech": "noun/verb",
+                "meaning": "指導、行動の方法や態度",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "con-",
+                                        "type": "prefix",
+                                        "meaning": "共に",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "ducere",
+                                        "type": "root",
+                                        "meaning": "導く",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'conduct' derives from the Latin verb 'conducere', which means 'to bring together' or 'to lead'."
+                },
+                "core_concept": {
+                        "en": "The graceful orchestration of action and intention.",
+                        "ja": "行動と意図の優雅なる交響曲"
+                },
+                "thinking_layer": "『conduct』という言葉は、単なる行動以上の概念であり、人間の存在に深く関わっている。これは、調和と調整の美学であり、人生のさまざまな場面での自分自身の導き方を模索する旅である。人は行動を通して他者と繋がり、また自らの内なる声を指針とすることで、自己の存在を確立していく。指導することは、単に他者を導く以上に、自己を律する術でもある。自らの行動において、慎ましさと意図的な選択が光輝く瞬間がある。これはまるで、日々の小さな決断が大きな調和を紡ぎ出す交響楽のようである。『conduct』は、内なる宇宙と外界との対話の一部であり、この絶え間ない交感が人生の歩みを豊かにする。まさに、調和の探求と実践こそが『conduct』の核心にある。",
+                "synonyms": [
+                        "Management",
+                        "Behavior"
+                ],
+                "antonyms": [
+                        "Misconduct",
+                        "Neglect"
+                ],
+                "aftertaste": "Your actions are the silent symphony that others hear.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "ducere",
+                                        "meaning": "to lead"
+                                }
+                        ],
+                        "points": [
+                                "『conduct』は単なる行動の指示ではなく、人間としての意図的な選択と豊かな内面の表現を示すものである。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Latin origin"
+        },
+        {
+                "id": "project",
+                "word": "Project",
+                "part_of_speech": "noun/verb",
+                "meaning": "企画、計画; 投影する",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "pro-",
+                                        "type": "prefix",
+                                        "meaning": "前に",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "jacere",
+                                        "type": "root",
+                                        "meaning": "投げる",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'project' originates from the Latin 'projectum', the neuter of 'projectus', the past participle of 'proicere', meaning 'to throw forth'; 'pro-' meaning 'forth' and 'iacere' meaning 'to throw'. It entered Middle English through Old French in the late 14th century."
+                },
+                "core_concept": {
+                        "en": "An idea cast forth, shaping future realms.",
+                        "ja": "未来の領域を形作るために投げかけられたアイデア"
+                },
+                "thinking_layer": "考えることは、時に我々自身を超えた大きな流れに投げかける行為である。「プロジェクト」という言葉はただの計画を超えた次元に私たちを誘うものであり、それは未来を見据えた構想の具現化に他ならない。古代から人々は、自らの願いを形にし、見えない力を感じさせる一歩を踏み出してきた。その背景には自由と好奇心、そして生来抱く未知への憧憬がある。心に浮かんだビジョンが、世界に浸透し、形を成すまでには無数の交錯した意図がある。計画することは、単に未来を予測するだけではなく、未知の地平に足を踏み入れる勇気の表れであり、また、何もない空間に何かを見出す試みである。計画は概念の種を持って時間を超えて広がり、私たちの世界観を変える力を持つ。プロジェクトには物理的な実体を生む力以上に、意味の世界における布石があるのだ。創造の息吹が人と社会を変革する歓びに寄与する限り、人は常に何か新たな「プロジェクト」に想いを馳せるだろう。",
+                "synonyms": [
+                        "Plan",
+                        "Scheme"
+                ],
+                "antonyms": [
+                        "Stagnation",
+                        "Idleness"
+                ],
+                "aftertaste": "Projects are the bridges we build to cross the chasms of uncertainty.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "pro-",
+                                        "meaning": "forth"
+                                },
+                                {
+                                        "term": "jacere",
+                                        "meaning": "to throw"
+                                }
+                        ],
+                        "points": [
+                                "「プロジェクト」の概念は、単なる計画に留まらず、未来に向けた創造的な構想として理解される。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Late 14th Century"
+        },
+        {
+                "id": "distance",
+                "word": "Distance",
+                "part_of_speech": "noun",
+                "meaning": "距離、隔たり",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "distantia-",
+                                        "type": "root",
+                                        "meaning": "離れた状態",
+                                        "lang": "ラテン語"
+                                },
+                                {
+                                        "text": "distare",
+                                        "type": "verb",
+                                        "meaning": "分かれて立つ",
+                                        "lang": "ラテン語"
+                                },
+                                {
+                                        "text": "dis-",
+                                        "type": "prefix",
+                                        "meaning": "離れて",
+                                        "lang": "ラテン語"
+                                },
+                                {
+                                        "text": "stare",
+                                        "type": "root",
+                                        "meaning": "立つ",
+                                        "lang": "ラテン語"
+                                }
+                        ],
+                        "original_statement": "From the Latin 'distantia', through Old French 'distance', denoting the idea of physical space or separation between two points."
+                },
+                "core_concept": {
+                        "en": "The poetic stretch that separates and yet binds souls.",
+                        "ja": "魂を分かちつつも結びつける詩的な隔たり"
+                },
+                "thinking_layer": "距離とは、物理的な長さや範囲を超えた概念である。物体間の空間的な隔たりを指すだけでなく、心と心の間、思想と現実の間に横たわる無形の道である。距離が近づくと、親密さや共鳴が生まれるが、一方で、距離が広がると孤独や冷静さという異なる視点が得られる。それは即ち、自己と他者、現在と未来を繋ぐ見えない架け橋とも言えるだろう。時間の経過に伴って、距離は新たな意義を持ち始め、生命はその意味を探求する旅となる。距離とは、ただそのあり方に触れ、感じ、またそれぞれの一瞬を超えて広がる無限の可能性を秘めたものである。結局、その隔たりを乗り越えた先に何があるのか、それを知ることは、私たちの存在の核心に迫る行為であり、距離という言葉はその旅を象徴しているかもしれない。全ての距離は、あるいは近づき、あるいは離れて、再び巡り合う巡回の輪を描くのだ。",
+                "synonyms": [
+                        "remoteness",
+                        "gap"
+                ],
+                "antonyms": [
+                        "proximity",
+                        "closeness"
+                ],
+                "aftertaste": "Distance both separates and unites.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "distare",
+                                        "meaning": "to stand apart"
+                                }
+                        ],
+                        "points": [
+                                "「距離」という言葉は、もともとラテン語の「distantia」を起源とし、人間の経験や感情の複雑さを象徴する重要な概念。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "14th Century"
+        },
+        {
+                "id": "conductive",
+                "word": "Conductive",
+                "part_of_speech": "adjective",
+                "meaning": "物質を通して電気や熱を伝える能力を持つ特性",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "con-",
+                                        "type": "prefix",
+                                        "meaning": "共に、または一緒に",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "ducere",
+                                        "type": "root",
+                                        "meaning": "導く",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "-ive",
+                                        "type": "suffix",
+                                        "meaning": "性質を持つ",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'conductive' originates from the Latin 'conducere', meaning 'to lead together'."
+                },
+                "core_concept": {
+                        "en": "The guiding thread of energy and heat through the tapestry of matter.",
+                        "ja": "物質の中を巡るエネルギーと熱の導線"
+                },
+                "thinking_layer": "導電性とは、目には見えない現象を通じて存在を感じることを許すものです。この概念は、電流が物質を通じて流れる能力を象徴します。それは目に見えぬが確実に存在するエネルギーの経路を作り出します。導電性は、単なる物理現象としてではなく、私たちの思考や感情の導線のように機能し、知識やインスピレーションが時空を超えて流れる方法を考えさせます。この生命の導線は、自然界に編み込まれた静かで謎めいた力であり、私たちを知識の広大な宇宙へと導きます。それは、他者と繋がるための見えない絆であり、感覚を超えた次元での対話の一形態です。私たちは、この潜在的な力と共に歩み、それが存在することによって新たな視界を得ることができています。こうして、導電性は私たちの内と外を自由に流れ続けるのです。",
+                "synonyms": [
+                        "Conducting",
+                        "Transmissive"
+                ],
+                "antonyms": [
+                        "Nonconductive",
+                        "Insulating"
+                ],
+                "aftertaste": "Conductivity whispers secrets woven in the fabric of the universe.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "conducere",
+                                        "meaning": "to lead together"
+                                }
+                        ],
+                        "points": [
+                                "導電性はラテン語の 'conducere' から派生し、その意味は共に導くことです。それは全てを繋ぐ力の象徴として、簡潔に存在します。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Late Middle English"
+        },
+        {
+                "id": "capacity",
+                "word": "Capacity",
+                "part_of_speech": "noun",
+                "meaning": "能力や収容力",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "capax",
+                                        "type": "root",
+                                        "meaning": "収容できる、持てる",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "-itas",
+                                        "type": "suffix",
+                                        "meaning": "状態、特性",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'capacity' originates from the Latin 'capax', meaning 'able to take in', combined with the suffix '-ity' which indicates a state or condition."
+                },
+                "core_concept": {
+                        "en": "The boundless potential within containment.",
+                        "ja": "内包する無限の可能性"
+                },
+                "thinking_layer": "言葉『キャパシティ』に秘められた本質は、物理的な限界と無限の可能性の融合である。我々が目にする容器の中に、どれほどの物が収まるか—その考えの背後には、空間の存在というだけではなく、その空間を生み出す思考の無限性がある。しかるに、『キャパシティ』は単なる量を測る尺度ではない。それは我々の想像力や創造力を試す、精神の障壁でもある。限界を超え、新たな次元を探求するための器。それは人間の知覚の拡張であり、様々な可能性を密かに誘う誘因の装置でもある。空間の捉え方一つで、世界の持つ意味や広がりが変容する—『キャパシティ』とはその鍵となる概念である。無限と有限、その相反する存在の調和を象徴する言葉であり、時として人間の可能性を再考させる、無言の哲学的探求の時例である。",
+                "synonyms": [
+                        "Volume",
+                        " Capability"
+                ],
+                "antonyms": [
+                        "Limitation",
+                        "Incapacity"
+                ],
+                "aftertaste": "Capacity is the quiet holding of infinite possibilities within finite boundaries.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "capax",
+                                        "meaning": "able to hold"
+                                },
+                                {
+                                        "term": "-itas",
+                                        "meaning": "state or quality"
+                                }
+                        ],
+                        "points": [
+                                "語源『capax』には、収容する力能のある状態を表す意味がある。この根源的な概念は古代ローマから持ち越されてきた思想を反映している。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary (etymonline.com)",
+                "date": "2026-03-01",
+                "era": "Mid 15th Century"
         }
 ];
