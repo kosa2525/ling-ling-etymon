@@ -47626,5 +47626,165 @@ const WORDS = [
                 "source": "Oxford English Dictionary",
                 "date": "2026-03-01",
                 "era": "Late 14th Century"
+        },
+        {
+                "id": "intervene",
+                "word": "Intervene",
+                "part_of_speech": "verb",
+                "meaning": "介入する、仲裁する",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "inter-",
+                                        "type": "prefix",
+                                        "meaning": "間に",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "-venire",
+                                        "type": "root",
+                                        "meaning": "来る",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "From Latin 'intervenire', meaning 'to come between'."
+                },
+                "core_concept": {
+                        "en": "To gently place oneself between two entities, altering the course of their existence.",
+                        "ja": "二つの存在の間に柔らかく入り込み、その運命の流れを変えること。"
+                },
+                "thinking_layer": "『介入』という言葉は、運命の流転を軌道修正する無形の力である。その行為は、単なる物理的な介在ではなく、時間と空間の境界を越える精神的な存在である。二者間に存在する見えざる絆を認識し、それを織りなしながら、対立や混乱を晴らそうとする静かな決意。それは繊細な接触であり、干渉という負の側面を超越し、調和と理解をもたらすものだ。介入者は、対立の場に新たな視点を吹き込み、物語の展開を変え続ける。時には風のように軽やかに、時には岩のように至難な状況に挑む。どれほど微細であれ、介入は変化の種を蒔く行為なのだ。すべてが静かに、しかし確実に再構成される瞬間に、介入の美が宿る。現代社会における価値観の摩擦さえも、融合と調和を求める介入によって、新たな光の当たる道を見出すことができる。このように、介入は単なる行動を超え、意識の触媒となる。介入とは、変化に心を開いた瞬間に生まれる希望の場である。",
+                "synonyms": [
+                        "mediate",
+                        "arbitrate"
+                ],
+                "antonyms": [
+                        "ignore",
+                        "neglect"
+                ],
+                "aftertaste": "Intervention is the silent artisan of peace.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "venire",
+                                        "meaning": "to come"
+                                },
+                                {
+                                        "term": "inter",
+                                        "meaning": "between"
+                                }
+                        ],
+                        "points": [
+                                "ラテン語の作り方を理解するために、文字通り『間を来る』という発想が重要である。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "Late Middle English, 14th Century"
+        },
+        {
+                "id": "contain",
+                "word": "Contain",
+                "part_of_speech": "verb",
+                "meaning": "内包する、含む",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "con-",
+                                        "type": "prefix",
+                                        "meaning": "共に",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "tenere",
+                                        "type": "root",
+                                        "meaning": "保つ",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The term 'contain' descends from the Latin 'con-' meaning 'together' and 'tenere' meaning 'to hold'. This combination suggests a sense of holding together within limits."
+                },
+                "core_concept": {
+                        "en": "To hold within with gentle restraint.",
+                        "ja": "優しい制約の中で内包すること"
+                },
+                "thinking_layer": "私たちが『内包する』という行為で直面するのは、宇宙と自己の境界を織り直すための終わりなき試みである。『内包する』という言葉は、見えない糸籠で空間を編み、それを自身の本質で満たすことを示唆する。内包は静かな力であり、目に見えるものを超えた存在への一本道である。何かを内に抱えるということは、時に制約ではなく、豊かさに向けた約束である。効果的な内包は、個々の限界を超えたところに新しい可能性を見つけ出す触媒であると言えよう。自己の内外を順応させるこの縫い目は、常にドアの役割を果たし、変化と継続的な成長を招く。内包という行為そのものが、最終的に我々の中にある無限の真理を探し出すための触媒となるのだ。",
+                "synonyms": [
+                        "Include",
+                        "Enclose"
+                ],
+                "antonyms": [
+                        "Exclude",
+                        "Release"
+                ],
+                "aftertaste": "Containment is the silent guardian of potential and promise.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "tenere",
+                                        "meaning": "to hold"
+                                }
+                        ],
+                        "points": [
+                                "『内包』という行為は単純に内部に保つだけでなく、その内部で合一するための空間を創造する。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "14th Century, Latin origin"
+        },
+        {
+                "id": "intensive",
+                "word": "Intensive",
+                "part_of_speech": "adjective",
+                "meaning": "非常に強いまたは深い状態。",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "intens-",
+                                        "type": "prefix",
+                                        "meaning": "強く",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "-ive",
+                                        "type": "suffix",
+                                        "meaning": "性質を持つ",
+                                        "lang": "French"
+                                }
+                        ],
+                        "original_statement": "The word 'intensive' originates from the Latin 'intensivus', derived from 'intendere' meaning 'to stretch or strain'. In the 14th century, it came into Middle English through Old French with the sense of 'giving force or strength'."
+                },
+                "core_concept": {
+                        "en": "A profound, all-consuming intensity that grips the soul.",
+                        "ja": "魂を絡め取る深遠な力強さ。"
+                },
+                "thinking_layer": "人生の中で私たちはよく進化し続ける過程にある。時にその過程は心の深しさに火を灯し、目に見えない強さがまるで内面のキャンパスに鮮やかに描かれるように現れる。この「集中する」という概念は、単なる努力のための特質ではなく、存在そのものを意味深く刺す刃先のようなものである。その刃の先端で我々は己を研ぎ澄まし、混沌から明瞭さを求める。一つの点に全てのエネルギーを集結させることで、そこから無限の可能性が放たれるのだ。それは意志の露天、心の鋳型、その瞬間にすべてが造り上げられる。意識が集中され、個人は大きな存在意義を持つ複雑な宇宙の中のひとつの輝く星となるのだ。",
+                "synonyms": [
+                        "Concentrated",
+                        "Focused"
+                ],
+                "antonyms": [
+                        "Diffuse",
+                        "Dispersed"
+                ],
+                "aftertaste": "In the heart of intensity lies the quiet storm of transformation.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "intendere",
+                                        "meaning": "to stretch"
+                                }
+                        ],
+                        "points": [
+                                "「集中」とは結果よりも過程を重視する考え方であり、全ての局面を最大限に使いこなすための内的動力として理解される。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "14th Century"
         }
 ];
