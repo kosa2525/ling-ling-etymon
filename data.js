@@ -28488,5 +28488,61 @@ const WORDS = [
                 "source": "Oxford English Dictionary",
                 "date": "2026-03-01",
                 "era": "16th Century, Middle English"
+        },
+        {
+                "id": "carnival",
+                "word": "Carnival",
+                "part_of_speech": "noun",
+                "meaning": "祝祭の集まり、特に宗教的な断食の始まりに先立つ祝祭",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "carn-",
+                                        "type": "root",
+                                        "meaning": "肉",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "-val",
+                                        "type": "root/suffix",
+                                        "meaning": "さようなら",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "Carnival originates from the Medieval Latin 'carnelevarium', literally meaning 'removal of meat', referring to the festival season just before Lent in the Christian calendar."
+                },
+                "core_concept": {
+                        "en": "A fleeting celebration of life and vitality before surrendering to asceticism.",
+                        "ja": "禁欲に先立つ、生命と活気の儚い祝祭"
+                },
+                "thinking_layer": "カーニバルは、一見すると単なる放縦と歓喜の集いであるが、その背後にはより深い哲学的な意味が潜んでいる。人生そのものがカーニバルであるとも捉えられるように、この祝祭は存在の歓びと刹那的な喜びを象徴する。また、食べることを止める断食という行為に入る前の最後の「解放」としてカーニバルが存在するのは、平衡を取るための人間の本能の表れであるかもしれない。カーニバルは終わりを意味する始まりを内包し、その一瞬の喜びが故にますます強烈に私たちの心に残る。そして、肉体からの解放、精神的な高揚、そして最終的には自己の再認識に至る旅を暗示している。これらの複雑な層が織りなすシンフォニーが、カーニバルという単語を超えて、私たちの存在そのものを如実に映し出すのだろう。",
+                "synonyms": [
+                        "Festival",
+                        "Celebration"
+                ],
+                "antonyms": [
+                        "Lent",
+                        "Abstinence"
+                ],
+                "aftertaste": "Carnival marks the paradoxical farewell to indulgence, heralding a return to simplicity.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "carn",
+                                        "meaning": "flesh"
+                                },
+                                {
+                                        "term": "vale",
+                                        "meaning": "farewell"
+                                }
+                        ],
+                        "points": [
+                                "カーニバルは、ラテン語で「肉」を意味する「carn」と「さようなら」を意味する「vale」に由来する言葉であり、断食が始まる前の一時的な贅沢を象徴している。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Medieval Latin"
         }
 ];
