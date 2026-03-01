@@ -80,7 +80,7 @@ function applySettings() {
 // --- View Controllers ---
 
 async function renderToday() {
-    const word = State.todayWord;
+    const word = State.todayWord || {};
     if (!word) { viewContainer.innerHTML = `<div class="empty-msg">No word found.</div>`; return; }
 
     viewContainer.innerHTML = `
@@ -116,7 +116,7 @@ async function renderToday() {
                 </div>
             </header>
 
-            <section class="section"><span class="section-label">Essence</span><p class="concept-text" style="font-size: 1.25rem;">${word.core_concept.ja}</p></section>
+            <section class="section"><span class="section-label">Essence</span><p class="concept-text" style="font-size: 1.25rem;">${word.core_concept?.ja || ''}</p></section>
             
             <section class="section">
                 <div style="display:flex; justify-content:space-between; align-items:center;">
@@ -534,14 +534,14 @@ function updateArchiveGrid() {
     }
 
     grid.innerHTML = list.map(w => `
-        <div class="archive-item" onclick="State.todayWord=WORDS.find(x=>x.id==='${w.id}');navigate('today')" style="position:relative; padding:1.8rem; border:1px solid var(--color-border); border-radius:20px; background:var(--color-surface); min-height:180px; display:flex; flex-direction:column; justify-content:space-between; transition:all 0.3s ease; cursor:pointer;">
+        <div class="archive-item" onclick="State.todayWord=(typeof WORDS !== 'undefined') ? WORDS.find(x=>x.id==='${w.id}') : null;navigate('today')" style="position:relative; padding:1.8rem; border:1px solid var(--color-border); border-radius:20px; background:var(--color-surface); min-height:180px; display:flex; flex-direction:column; justify-content:space-between; transition:all 0.3s ease; cursor:pointer;">
             <div style="text-align: left;">
                 <div style="display:flex; justify-content:space-between; align-items:flex-start; margin-bottom:0.5rem;">
                     <span style="font-weight:700; font-size:1.5rem; color:var(--color-accent); letter-spacing:-0.02em;">${w.word}</span>
                     ${w.part_of_speech ? `<span style="font-size:0.7rem; font-style:italic; opacity:0.5; border:1px solid rgba(255,255,255,0.1); padding:2px 6px; border-radius:4px;">${w.part_of_speech}</span>` : ''}
                 </div>
                 <div style="font-size:0.9rem; color:var(--color-text); font-weight:500; margin-bottom:0.8rem;">${w.meaning || ''}</div>
-                <div style="font-size:0.85rem; opacity:0.6; line-height:1.4; display:-webkit-box; -webkit-line-clamp:2; -webkit-box-orient:vertical; overflow:hidden;">${w.core_concept.ja}</div>
+                <div style="font-size:0.85rem; opacity:0.6; line-height:1.4; display:-webkit-box; -webkit-line-clamp:2; -webkit-box-orient:vertical; overflow:hidden;">${w.core_concept?.ja || ''}</div>
             </div>
             <div style="font-size:0.75rem; opacity:0.4; text-align:right; border-top: 1px solid rgba(255,255,255,0.05); padding-top:0.8rem; margin-top:auto;">
                 by <b style="opacity:1;">${w.author || 'etymon_official'}</b>
@@ -709,7 +709,7 @@ function renderSaved() {
             <section style="margin-bottom: 4rem;">
                 <h4 class="section-label" style="font-size:0.8rem; opacity:0.6; margin-bottom:1.5rem;">WORDS</h4>
                 <div class="archive-grid" style="gap:1.5rem;">
-                    ${savedWords.map(w => `<div class="archive-item" onclick="State.todayWord=WORDS.find(x=>x.id==='${w.id}');navigate('today')" style="padding:2rem; border:1px solid var(--color-border); border-radius:24px; background:var(--color-surface); font-weight:bold; color:var(--color-accent); font-size:1.4rem; text-align:center; cursor:pointer;">${w.word}</div>`).join('') || '<p class="dimmed">No words in inventory.</p>'}
+                    ${savedWords.map(w => `<div class="archive-item" onclick="State.todayWord=(typeof WORDS !== 'undefined') ? WORDS.find(x=>x.id==='${w.id}') : null;navigate('today')" style="padding:2rem; border:1px solid var(--color-border); border-radius:24px; background:var(--color-surface); font-weight:bold; color:var(--color-accent); font-size:1.4rem; text-align:center; cursor:pointer;">${w.word}</div>`).join('') || '<p class="dimmed">No words in inventory.</p>'}
                 </div>
             </section>
 
@@ -1029,7 +1029,7 @@ function renderTimeline() {
                             ${era}
                         </h4>
                         ${groups[era].map(w => `
-                            <div class="timeline-entry" onclick="State.todayWord=WORDS.find(x=>x.id==='${w.id}');navigate('today')" style="position:relative; margin-bottom:3rem; cursor:pointer;">
+                            <div class="timeline-entry" onclick="State.todayWord=(typeof WORDS !== 'undefined') ? WORDS.find(x=>x.id==='${w.id}') : null;navigate('today')" style="position:relative; margin-bottom:3rem; cursor:pointer;">
                                 <div style="position:absolute; left: calc(-3rem - 9px); top: 8px; width:16px; height:16px; background:var(--color-accent); border-radius:50%; border:4px solid var(--color-bg);"></div>
                                 <h2 style="font-size:1.8rem; color:var(--color-accent);">${w.word}</h2>
                                 <p style="margin-top:0.5rem; opacity:0.8;">${w.meaning}</p>

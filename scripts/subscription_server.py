@@ -737,8 +737,8 @@ def get_word_network():
             saved_ids = request.args.get('ids', '').split(',')
             words = [w for w in all_words if w['id'] in saved_ids]
         else:
-            # パフォーマンスと「新しさ」のため最新を優先
-            words = all_words[-300:]
+            # パフォーマンスのため最新を優先（制限を緩和）
+            words = all_words[-1000:]
         
         # 語根(root)や接頭辞(prefix)ごとに単語をグループ化
         root_map = {}
