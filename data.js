@@ -30955,117 +30955,119 @@ const WORDS = [
                 "era": "Old English"
         },
         {
-                "id": "testify",
-                "word": "Testify",
-                "part_of_speech": "verb",
-                "meaning": "証言する、証明する",
-                "author": "etymon_official",
-                "etymology": {
-                        "breakdown": [
-                                {
-                                        "text": "testis",
-                                        "type": "root",
-                                        "meaning": "証人",
-                                        "lang": "Latin"
-                                },
-                                {
-                                        "text": "facere",
-                                        "type": "root",
-                                        "meaning": "行動する、行う",
-                                        "lang": "Latin"
-                                }
-                        ],
-                        "original_statement": "Derived from Latin 'testificari', meaning 'to bear witness'."
-                },
-                "core_concept": {
-                        "en": "The act of bearing witness with presence and truth.",
-                        "ja": "存在と真実を伴って証言する行為"
-                },
-                "thinking_layer": "『証言』という言葉は、存在の深淵に刻まれた物語を紡ぐ行いである。我々は日々、目の前で織り成す現実を証言し、内なる声に耳を澄まして証明する。それは個々の経験を超越し、普遍的な真理との共鳴を求める行為でもある。古代ラテン語が示すように、証言は「証人」としての立場を内包し、世界との関係性を再確認する過程の一環である。証人はただの観察者にとどまらず、その声が紡ぐ真理が他者の心を揺さぶる力を持つ。証言の行為によって、過去の記憶を照らし出し、新たな意味を与えることができる。それはまた、言葉を超えた深い本能的な表現であり、私たちの核となる存在意義を探る道しるべとなる。証言は時を越えて、人間の魂に息づく、不可欠な物語の一部としてこの世界に響きわたる。",
-                "synonyms": [
-                        "Certify",
-                        "Attest"
-                ],
-                "antonyms": [
-                        "Deny",
-                        "Refute"
-                ],
-                "aftertaste": "Bearing witness is the poetic dance of truth and presence.",
-                "deep_dive": {
-                        "roots": [
-                                {
-                                        "term": "testis",
-                                        "meaning": "witness"
-                                },
-                                {
-                                        "term": "facere",
-                                        "meaning": "to do"
-                                }
-                        ],
-                        "points": [
-                                "ラテン語の起源から、『証言』は「証人」としての自己認識を深め、言葉を通じて普遍的真理を具現化する作用を持つ。"
-                        ]
-                },
-                "source": "Online Etymology Dictionary",
-                "date": "2026-03-01",
-                "era": "14th Century"
-        },
-        {
-                "id": "loom",
-                "word": "Loom",
+                "id": "recall",
+                "word": "Recall",
                 "part_of_speech": "noun/verb",
-                "meaning": "織機または現れること",
+                "meaning": "思い出すこと、呼び戻すこと",
                 "author": "etymon_official",
                 "etymology": {
                         "breakdown": [
                                 {
-                                        "text": "loom",
+                                        "text": "re-",
+                                        "type": "prefix",
+                                        "meaning": "再び",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "callare",
                                         "type": "root",
-                                        "meaning": "現れる、織る",
-                                        "lang": "Middle English"
+                                        "meaning": "呼び出す",
+                                        "lang": "Latin"
                                 }
                         ],
-                        "original_statement": "The word 'loom' originated from Middle English 'lome', which refers both to a tool for weaving and a shadowy appearance."
+                        "original_statement": "The word 'recall' originates from the Latin roots 're-' meaning again, and 'callare' meaning to call. It evolved to describe the process of calling back to memory or summoning something back."
                 },
                 "core_concept": {
-                        "en": "A delicate interplay of creation and emergence.",
-                        "ja": "創造と出現の繊細な絡み合い"
+                        "en": "The delicate dance between memory and time.",
+                        "ja": "記憶と時の優美な舞踏"
                 },
-                "thinking_layer": "織機という言葉は、人類の進化と知覚の曼荼羅を織り上げる、非常に興味深いメタファーです。織機は布を織るための道具ですが、それ以上に我々の存在そのものを織りなすための象徴とも言えます。目に見える実体を生むために用いる道具であり、同時に新たな形で現れる準備を整える不可視の手段です。織る行為は過去と未来を繋ぎ、今この瞬間に新たな現実を出現させます。その中で「loom」という言葉自体もまた、かすかに、しかし確実に現れるものを表します。まるで遠い地平線に現れゆく稜線のように、我々の心の中に潜む可能性の因果を映し出すのです。織機はただ物質を編むのではなく、生と死、夢と現実、光と影という二律背反を超克するためのシンボルでもあります。かくして織機は、永劫の螺旋を形作る無限の糸を操る手段であり、人々の運命をも密やかに編み続けています。",
+                "thinking_layer": "思い出すという行為は、記憶を織りなす世界と時間の流れの中に立ち現れます。私たちが過去の一瞬を呼び戻すとき、それは過ぎ去った時の静けさの中に残る余韻の儀式です。時間の河を遡り、記憶の庭に咲く無数の花を手繰り寄せるように、私たちの意識は過去の影を現在に映し出します。しかし、この行為は単なる知識の仕分けではなく、感情とつながる深遠な旅です。人間の存在は、たとえ忘却の帳が下ろされていても、その忘れ去られた記憶を求め続けるのです。過去の声が心の奥底で響き、私たちにとって重要なものをはっきりと思い起こさせる瞬間に、記憶の美しさが姿を現します。記憶を呼び覚ます瞬間は、一瞬の永遠を抱くこと。そして、その瞬間こそが生の本質を映し出します。",
                 "synonyms": [
-                        "Frame",
-                        "Weave"
+                        "Remember",
+                        "Retrieve"
                 ],
                 "antonyms": [
-                        "Unravel",
-                        "Disappear"
+                        "Forget",
+                        "Disregard"
                 ],
-                "aftertaste": "The loom whispers of worlds yet unseen.",
+                "aftertaste": "Memory is both the anchor and the sail of the soul.",
                 "deep_dive": {
                         "roots": [
                                 {
-                                        "term": "lome",
-                                        "meaning": "tool, to appear"
+                                        "term": "callare",
+                                        "meaning": "to call"
                                 }
                         ],
                         "points": [
-                                "『loom』の語源には織るという行為の核心があり、それは形成と現出という二重の性質を持つ。"
+                                "記憶の中に埋め込まれた情景や感情を呼び起こす力は、言葉の力を詠む手段として古代から重用されてきました。"
                         ]
                 },
                 "source": "Oxford English Dictionary",
                 "date": "2026-03-01",
-                "era": "Middle English"
+                "era": "Middle English, 14th Century"
+        },
+        {
+                "id": "embark",
+                "word": "Embark",
+                "part_of_speech": "verb",
+                "meaning": "乗船する、開始する",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "em-",
+                                        "type": "prefix",
+                                        "meaning": "中に",
+                                        "lang": "フランス語"
+                                },
+                                {
+                                        "text": "barque",
+                                        "type": "root",
+                                        "meaning": "小舟",
+                                        "lang": "中世ラテン語"
+                                }
+                        ],
+                        "original_statement": "From Middle French 'embarquer', from Medieval Latin 'imbarcare', composed of 'in-' and 'barca' meaning boat."
+                },
+                "core_concept": {
+                        "en": "A poetic initiation into the vastness of journeys, setting one's course upon the endless tides.",
+                        "ja": "広大な旅への詩的な序章として、尽きることのない潮に航路を定めること"
+                },
+                "thinking_layer": "物事を始める行為、または航海に出るという行為は、単なる物理的な移動を超えて人生の新たな段階や冒険を象徴します。航海とは、未知の領域に足を踏み入れることであり、それは時に恐れと期待が交錯する瞬間となります。海は広大であり、人間の理解を超える力を持ちますが、それでも私たちはその大海に出て行くことを選びます。なぜなら、それは自己探求の旅であり、自己の限界を拡張する機会だからです。私たちが「embark」する時、それは肉体だけではなく、精神的にも新しいフロンティアへの一歩を踏み出すことを意味します。時に風は厳しく荒々しいかもしれませんが、その風は私たちを強くし、未知の世界への道を切り開く原動力となります。この冒険において、私たちは単に出発するだけではなく、心の新たな船を作り出しているのです。運命に向き合う勇気と、夢を追求する情熱が、私たちが人生という名の船を操るための風となるのです。",
+                "synonyms": [
+                        "begin",
+                        "commence"
+                ],
+                "antonyms": [
+                        "disembark",
+                        "end"
+                ],
+                "aftertaste": "Embarking is the soul's leap into infinity's embrace.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "barque",
+                                        "meaning": "a small boat"
+                                }
+                        ],
+                        "points": [
+                                "Embarkはもともと船に乗るという具体的な行動を示す言葉でしたが、人生の旅における新たな始まりを象徴する言葉としても使われてきました。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "Late Middle Ages"
         },
         {
                 "id": "navigate",
                 "word": "Navigate",
                 "part_of_speech": "verb",
-                "meaning": "道を進む方法や技術を示すこと。特に、船や飛行機を操縦すること。",
+                "meaning": "航海する, 航行する",
                 "author": "etymon_official",
                 "etymology": {
                         "breakdown": [
                                 {
-                                        "text": "navis-",
+                                        "text": "navis",
                                         "type": "root",
                                         "meaning": "船",
                                         "lang": "Latin"
@@ -31073,143 +31075,177 @@ const WORDS = [
                                 {
                                         "text": "-agere",
                                         "type": "suffix",
-                                        "meaning": "導く",
+                                        "meaning": "動かす",
                                         "lang": "Latin"
                                 }
                         ],
-                        "original_statement": "The term 'navigate' originates from the Latin 'navigare', which combines 'navis' (ship) and 'agere' (to drive/lead)."
+                        "original_statement": "Derived from the Latin words 'navis' meaning 'ship' and 'agere' meaning 'to drive'."
                 },
                 "core_concept": {
-                        "en": "The art of guiding through the unknown expanse.",
-                        "ja": "未知の広大な領域を導く芸術"
+                        "en": "The delicate art of guiding a vessel across the mysterious expanses of sea and life.",
+                        "ja": "海や人生の神秘的な広がりを船で導く繊細な技術"
                 },
-                "thinking_layer": "ナビゲーションとは、単に物理的な道を指し示すだけでなく、人生の旅という形而上的な海原を渡ることでもある。星々を頼りに大海原を航行するように、我々は時として直感と過去の経験を羅針盤として人生の進路を定める。その行為には、無限の可能性と共に困難という名の荒波が待ち受けているが、それに立ち向かう人間の意志の強さもまたそこに存在する。成功も失敗も、すべては航海の一部であり、我々はその過程で成長し続ける。したがって、「ナビゲートする」ことは、自己の限界に挑み、それを超えて新たな境地へ進むという深遠なる行為である。それは人間の冒険心、探検心を体現する行為であり、未知なるものを見つけ出し、新たな世界を拓く不屈の精神の証でもある。",
+                "thinking_layer": "航海とは、単なる目的地への移動ではなく、未知への挑戦をも意味しています。英語の 'navigate' が象徴するのは、我々が如何にして不確かな海を渡り、無限の可能性の中で自らの道を切り開いていくかというプロセスです。ある種の無限性がそこに潜んでおり、我々は自分自身の内なるコンパスによって新たな領域を探索し続けます。それはまた、人生そのもののメタファーであり、日々の決断や未知への勇気を象徴しています。'navigate' は、人生の航路を見つけるための叡智と直感の統合であり、感覚の鋭敏さと精神の強靭さが試されるアートであると言えるでしょう。この言葉は、絶えず変化する世界において不変なものを再認識し、それを基にして新たな航路を見出す人間の永遠の探求を象徴しています。つまるところ、'ナビゲート' は単なる場所の移動以上の何か、新たな視点の発見であり、自らの位置を常に再評価するための哲学的な問いかけであるのです。",
                 "synonyms": [
                         "Steer",
-                        "Pilot"
+                        "Guide"
                 ],
                 "antonyms": [
-                        "Disorient",
-                        "Mislead"
+                        "Wander",
+                        "Drift"
                 ],
-                "aftertaste": "To navigate is to conquer the vast unknown with a guide in one’s mind.",
+                "aftertaste": "Navigating life is the bold art of embracing uncertainty with grace.",
                 "deep_dive": {
                         "roots": [
                                 {
                                         "term": "navis",
-                                        "meaning": "ship"
+                                        "meaning": "ship or boat"
                                 },
                                 {
                                         "term": "agere",
-                                        "meaning": "to lead"
+                                        "meaning": "to drive, to lead"
                                 }
                         ],
                         "points": [
-                                "「ナヴィゲート」という語は、主に海の上を移動することに関連しているが、その語源にはより広範な意味合いがある。ラテン語の「agere」は単に「導く」だけでなく、物事を「動かす」や「行う」という意味も含まれており、あらゆる種類の指導や監督の行為を示唆している。これにより、ナビゲーションは物理的な移動だけでなく、思考や精神の探索をも含む多義的な概念となっている。"
+                                "この言葉の由来を辿ると、ラテン語の 'navis' と 'agere' の組み合わせからなることがわかり、ここには船を導く行為と、その背後に潜む古代の知恵と冒険心が含まれています。"
                         ]
                 },
                 "source": "Online Etymology Dictionary",
                 "date": "2026-03-01",
-                "era": "Classical Latin"
+                "era": "Late Middle Ages"
         },
         {
-                "id": "ferret",
-                "word": "Ferret",
-                "part_of_speech": "noun",
-                "meaning": "イタチを使用して狩猟すること、または小さな肉食動物",
+                "id": "ponder",
+                "word": "Ponder",
+                "part_of_speech": "verb",
+                "meaning": "熟考する, 深く考える",
                 "author": "etymon_official",
                 "etymology": {
                         "breakdown": [
                                 {
-                                        "text": "furittus",
+                                        "text": "ponder-",
                                         "type": "root",
-                                        "meaning": "小さな泥棒",
+                                        "meaning": "考える",
                                         "lang": "ラテン語"
                                 }
                         ],
-                        "original_statement": "The word 'ferret' originates from Old French 'furet', which derives from Vulgar Latin 'furittus', a diminutive of 'fur', meaning thief, given its use in hunting to ferret out rabbits from their burrows."
+                        "original_statement": "The word 'ponder' originates from the Latin 'ponderare', meaning 'to weigh'."
                 },
                 "core_concept": {
-                        "en": "A sleek, tenacious pursuer, slipping through unseen spaces with relentless curiosity.",
-                        "ja": "内なる好奇心で見えぬ隙間を静かに追う者"
+                        "en": "A delicate dance of thoughts, weighing the intangible.",
+                        "ja": "思想の微細な舞、無形を秤にかける"
                 },
-                "thinking_layer": "フェレットという言葉は、単なる動物の名前ではなく、存在の本質を探求する際のメタファーでもあります。フェレットは小さな体と柔軟な動きで知られていますが、その本質は常に未知に向かって突き進む姿勢にあります。目に見えないものを見、手に触れないものを感じ取る能力は、知識の探求にも通じるものです。私たちが知識の迷宮を彷徨う時、心の中のフェレットは、狭くて入り組んだ道を自由自在に駆け抜け、その先に隠された真実を見つけ出す力を持っています。このようにフェレットは、無意識の領域を探索するための象徴的存在であり、追求と発見のプロセスを具現化しています。道を探し求め、知覚の枠を超えて探ることによって、人間の知ることへの旅路の象徴です。どんなに閉ざされた場所にあっても、フェレットは何かを見つけ出そうとする探求心を具現化しています。したがって、「フェレット」とは、言葉以上の意味を持った生命の形態といえるでしょう。",
+                "thinking_layer": "思索とは、心の内部に広がる終わりなき海の探検である。それは時に波立ち、時に静まり返るが、その深さを見極めることは容易ではない。『ponder』という言葉は、ただ単に重さを量ること以上に、時間と存在に対する敬意を表している。この行為は、目に見えぬ重みを軸にして、自己の内面を静かに見つめる旅路である。物質的な秤では捉えられない精神の重さを、注意深く測定しようとしているのだ。古来より、人間は思索を通じて自身の弱点や強みを発見し、真実の探求を行ってきた。日々を紡ぐ思索の積み重ねは、個々の人生を織り成す複雑な模様を形づくる。この熟慮の過程は、心の中で響く無数の問いへの丁寧な応答であり、時にその問いは自らが気付かぬうちに闇へと浮かび上がる。人間の思索とは、内なる声を傾け、理解の層を剥がし続ける終わりなき織物のようなものである。",
                 "synonyms": [
-                        "Weasel",
-                        "Stoat"
+                        "Contemplate",
+                        "Reflect"
                 ],
                 "antonyms": [
-                        "Prey",
-                        "Victim"
+                        "Disregard",
+                        "Ignore"
                 ],
-                "aftertaste": "In the endless labyrinth of thought, the ferret is forever relentless.",
+                "aftertaste": "Pondering is the quiet symphony of a meditative mind.",
                 "deep_dive": {
                         "roots": [
                                 {
-                                        "term": "furet",
-                                        "meaning": "small thief"
+                                        "term": "ponderare",
+                                        "meaning": "to weigh"
                                 }
                         ],
                         "points": [
-                                "数千年にわたり狩りの技術において重要な役割を担ってきたフェレットは、人間と動物の協力の象徴として古代から現代に至るまで受け継がれてきました。"
+                                "ラテン語の 'ponderare' は、あらゆる物事の重さや重要性を慎重に評価する行為を示します。これは単なる物理的な行動ではなく、精神的な熟慮を伴う深い行為です。"
                         ]
                 },
-                "source": "The Oxford English Dictionary",
+                "source": "Online Etymology Dictionary, etymonline.com",
                 "date": "2026-03-01",
-                "era": "12th Century"
+                "era": "Middle English, from Latin origin"
         },
         {
-                "id": "garble",
-                "word": "Garble",
-                "part_of_speech": "verb",
-                "meaning": "混乱させる、誤って伝える",
+                "id": "carnage",
+                "word": "Carnage",
+                "part_of_speech": "noun",
+                "meaning": "大虐殺",
                 "author": "etymon_official",
                 "etymology": {
                         "breakdown": [
                                 {
-                                        "text": "garbeler",
-                                        "type": "verb",
-                                        "meaning": "選別する",
-                                        "lang": "Middle French"
-                                },
-                                {
-                                        "text": "gharbala",
-                                        "type": "verb",
-                                        "meaning": "ふるう、選別する",
-                                        "lang": "Medieval Latin"
-                                },
-                                {
-                                        "text": "gharbāl",
-                                        "type": "noun",
-                                        "meaning": "ふるい",
-                                        "lang": "Arabic"
+                                        "text": "carn-",
+                                        "type": "root",
+                                        "meaning": "肉",
+                                        "lang": "Latin"
                                 }
                         ],
-                        "original_statement": "Originally meant to sift impurities from spices, evolved to 'distort'."
+                        "original_statement": "The word 'carnage' dates back to the Latin 'carnaticum', relating to 'caro' meaning 'flesh'. It evolved through Old French to denote slaughter on a large scale."
                 },
                 "core_concept": {
-                        "en": "The journey from clarity to confusion, embracing the chaos in words.",
-                        "ja": "明瞭さから混乱へと旅路を辿り、言葉の中に混沌を受け入れること。"
+                        "en": "The violent dance of flesh and chaos.",
+                        "ja": "肉と混沌の暴力的な舞"
                 },
-                "thinking_layer": "混乱という概念は、時として人間の認識の鏡として機能する。我々は普段、その場の全体像を求め、真実を掘り下げようとするが、言葉が伝わる過程で歪みが生じることがある。情報が転がり、絡まり合い、次第に本来の意味を失う様は、まるで人間の記憶のそのものである。その中で、我々は望んでもいない真実を探さねばならず、そこにはまた、奇妙な美しさが漂う。彼方此方で混乱を極める言葉は、鏡を通してこの宇宙を映し出し、未来と過去を繋ぐ架け橋となる。残像の如きシャドウの中、時にその混沌に耳を傾けることが求められるのだ。情報の波を泳ぎ、慧眼を以て真実へと辿り着くのもまた、小舟が前進してゆく旅のようである。",
+                "thinking_layer": "「カーネージ」という単語は、単なる物理的な破壊以上の深い意味を持っています。この言葉は、人類の歴史を彩る壮大なストーリーの中で、繰り返される悲劇の象徴です。戦争や紛争は、血と汗で染まった地平線を描き続け、そのつど新たなカーネージを生み出してきました。カーネージは、暴力の瞬間に凝縮された時間が、静寂の後に残る空虚さと対峙する姿を映し出しています。この言葉を聞くたびに、私たちは自らの内面を見つめ直さざるを得ません。何故、これほどの破壊が必要なのでしょうか？それは、力と無力の抗えない物語を浮かび上がらせるためかもしれません。カーネージとは、物と物とのぶつかり合いを超えて、精神的な荒廃をも意味します。この概念に触れることは、一瞬の中に永遠を感じるようなものです。ある意味で、それは存在そのものを問う魂の反射であり、消えゆく生命が残した無音の叫びです。",
                 "synonyms": [
-                        "distort",
-                        "misrepresent"
+                        "slaughter",
+                        "massacre"
                 ],
                 "antonyms": [
-                        "clarify",
-                        "elucidate"
+                        "peace",
+                        "harmony"
                 ],
-                "aftertaste": "Amidst convolutions, truth quietly seeks its way.",
+                "aftertaste": "A chilling reminder of humanity's potential for destruction.",
                 "deep_dive": {
                         "roots": [
                                 {
-                                        "term": "gharbāl",
-                                        "meaning": "sieve"
+                                        "term": "caro",
+                                        "meaning": "flesh"
                                 }
                         ],
                         "points": [
-                                "語源的には、選り好んでふるう意味から変遷し、今日の混同や誤解を表す用法に至ったとされる。"
+                                "カーネージの語源はラテン語の「carnaticum」にその古い起源を持ち、「caro」が「肉」を意味することから、その語感には生と死の間に漂う儚さが宿っています。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Late Middle English"
+        },
+        {
+                "id": "mortal",
+                "word": "Mortal",
+                "part_of_speech": "adjective",
+                "meaning": "死すべき運命にある",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "mort-",
+                                        "type": "root",
+                                        "meaning": "死",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "Derived from the Latin 'mortalis', which means 'subject to death'."
+                },
+                "core_concept": {
+                        "en": "The inevitable dance with finitude.",
+                        "ja": "終わりある運命と共に踊る"
+                },
+                "thinking_layer": "『死すべき者』という言葉は、人間の存在のはかなさと脆さを象徴しています。生というものは光と影の間を揺れ動く舞踊であり、その中で人は限られた時間を燃やしながら、永遠の一瞬を求め続けます。しかし、私たちが感じる無限の可能性は、有限という宿命に縛られているのです。このことは、私たちの行動と思考を形作る上で避けられないパラドックスを生み出します。人間の命は限られているが、心はしばしばその限界を超えたものを求める。この永遠と瞬間の狭間で、私たちは何を求め、何を見失うのか。そして、その問いが生む緊張感が、どれほど深い思索と洞察をもたらすのか。それは、人間が大地に縛られた存在でありながら、空を目指して羽ばたこうとする、そんな絶え間ない挑戦を示しているかもしれません。この永劫の時間の流れの中で、私たちが何を追い求めるのか。それが『死すべき者』という言葉に込められた永久のテーマである。",
+                "synonyms": [
+                        "perishable",
+                        "transient"
+                ],
+                "antonyms": [
+                        "eternal",
+                        "immortal"
+                ],
+                "aftertaste": "Mortal existence is the canvas upon which eternity paints its elusive dreams.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "mort",
+                                        "meaning": "death"
+                                }
+                        ],
+                        "points": [
+                                "語源的なルーツはラテン語の『mortalis』で、『mort-』は『死』を意味し、人間の儚さの本質を深く捉えている。"
                         ]
                 },
                 "source": "Online Etymology Dictionary",
@@ -31217,55 +31253,95 @@ const WORDS = [
                 "era": "14th Century"
         },
         {
-                "id": "palace",
-                "word": "Palace",
+                "id": "villain",
+                "word": "Villain",
                 "part_of_speech": "noun",
-                "meaning": "宮殿",
+                "meaning": "悪者、悪役",
                 "author": "etymon_official",
                 "etymology": {
                         "breakdown": [
                                 {
-                                        "text": "palatium-",
+                                        "text": "villanus",
                                         "type": "root",
-                                        "meaning": "宮殿",
-                                        "lang": "Latin"
-                                },
-                                {
-                                        "text": "-ace",
-                                        "type": "suffix",
-                                        "meaning": "場所",
+                                        "meaning": "農民",
                                         "lang": "Latin"
                                 }
                         ],
-                        "original_statement": "The term originates from the Latin 'palatium', referring to the Palatine Hill, where Rome's imperial residences were situated."
+                        "original_statement": "The word 'villain' originates from the Old French 'vilain', which in turn comes from Latin 'villanus', meaning a farmhand or servant tied to the villa, the Roman rural estates."
                 },
                 "core_concept": {
-                        "en": "A grand abode, echoing the majesty and opulence of ancient empires.",
-                        "ja": "古代帝国の威厳と豪華さを反映する壮大な住まい"
+                        "en": "A descent into moral darkness from the rural fields of labor.",
+                        "ja": "労働の農村から道徳的な闇への降下"
                 },
-                "thinking_layer": "宮殿という言葉は、時を超えた歴史の中で力と権力の象徴であり続けました。王の居住地として、また国家の象徴として、宮殿は物質世界における一種の理想郷を表す場でした。その大理石の柱や黄金の装飾は、単なる権力の誇示ではなく、時間を超越する美を追求した結果であり、人類が成し遂げた最高の業績としてもとらえられます。宮殿は、その静けさの中に無言の物語を秘め、訪れる者に畏敬の念を抱かせる存在です。歴史の重みとともに、未来の夢を築く場所として、宮殿は単なる建築物以上の存在意義を持ちます。それは人間の知恵と労力の結晶であり、過去と未来をつなぐ架け橋なのです。宮殿が語るのは、永遠の美と崇高な意識の融合、そしてその遺構が語る深遠な哲学のメッセージであります。",
+                "thinking_layer": "かつて農村の平野で汗を流す者が、時代と共に賎民と見なされ、その一方で力や権力を握る者に反逆せし闇の使者と転じるのは歴史の皮肉である。この言葉が私たちに示すのは、善と悪の相対性の中に存在する人間の本質、そして立場によって変わる道徳観である。社会において『悪役』となる者が必ずしも生まれながらの悪を宿すわけではなく、環境や状況によって善悪の判断基準が揺れ動く。\n\nこのようにして生まれる影の主役たちは、私たちに存在することの意味、そして自らの姿を振り返らせる鏡である。道徳の枠を超えて善悪の二元性を問い、各々の内に宿る凛然たる意志を探る時、かりそめの善悪から解き放たれた新たな人間観が浮かび上がる。",
                 "synonyms": [
-                        "Castle",
-                        "Manor"
+                        "miscreant",
+                        "scoundrel"
                 ],
                 "antonyms": [
-                        "Cottage",
-                        "Hut"
+                        "hero",
+                        "protagonist"
                 ],
-                "aftertaste": "A palace is a testament to the heights of human ambition and creativity.",
+                "aftertaste": "The villain is but a reflection of our own shadows.",
                 "deep_dive": {
                         "roots": [
                                 {
-                                        "term": "palatium",
-                                        "meaning": "Palatine Hill"
+                                        "term": "villanus",
+                                        "meaning": "farm servant"
                                 }
                         ],
                         "points": [
-                                "ラテン語の『palatium』は、ローマの七つの丘の一つであるパラティーノの丘に由来し、帝国の権威を象徴する地として知られています。"
+                                "古代ローマにおいて『villanus』は農村地帯に結び付けられた労働者を指し、その地位の低さが時を経て否定的な意味合いを帯びていった。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "14th Century"
+        },
+        {
+                "id": "heckle",
+                "word": "Heckle",
+                "part_of_speech": "verb/noun",
+                "meaning": "壇上で挑発的な質問を投げかける行為",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "hekel",
+                                        "type": "root",
+                                        "meaning": "麻や亜麻をほぐし櫛を通す行為",
+                                        "lang": "Middle English"
+                                }
+                        ],
+                        "original_statement": "The term initially referred to the process of combing flax fibers with a heckle, before its metaphorical extension to heckling an orator."
+                },
+                "core_concept": {
+                        "en": "To disrupt with pointed interjections, a refining journey from fiber to thought.",
+                        "ja": "声を挙げる—思考を試練にかける挑発の芸術"
+                },
+                "thinking_layer": "言葉の持つ力を呼び起こし、感情と知識の間に緊張を生み出すもの。それは、ただの質問ではなく、心の奥底から湧き出る声である。意見と反応が絡み合い、聞き手の心に共鳴と不安を同時に引き起こす。現代社会において、その混沌の中で我々は対話の美学を問い直す。しかしその瞬間、それは単なる挑発ではなく、音を立てて紡がれる糸のように、真実の一端を見せる試みである。人々の心と意識を一つの筋にしっかりと結びつけ、次第に形を生み出していくプロセス。かくして、私たちは言葉の力と共に、自己の限界を超えて新しい絆を結び、新たな視座を獲得していく。批判と叫びが響き渡るとき、それは自己表現と他者理解の境界線を揺るがす哲学的な儀式である。",
+                "synonyms": [
+                        "Jeer",
+                        "Taunt"
+                ],
+                "antonyms": [
+                        "Applaud",
+                        "Cheer"
+                ],
+                "aftertaste": "In the alchemy of discourse, heckling becomes the crucible of truth.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "hekel",
+                                        "meaning": "to disentangle flax fibers"
+                                }
+                        ],
+                        "points": [
+                                "「ヘックル」は当初、亜麻を櫛で梳く行為を指す言葉として中英語に由来する。"
                         ]
                 },
                 "source": "Oxford English Dictionary",
                 "date": "2026-03-01",
-                "era": "Ancient Roman"
+                "era": "Middle English, 14th Century"
         }
 ];
