@@ -30581,767 +30581,151 @@ const WORDS = [
                 "era": "18th Century"
         },
         {
-                "id": "yawn",
-                "word": "Yawn",
-                "part_of_speech": "noun/verb",
-                "meaning": "あくびをする行為またはその際に発生する開口の動き。",
+                "id": "curious",
+                "word": "Curious",
+                "part_of_speech": "adjective",
+                "meaning": "好奇心の強い",
                 "author": "etymon_official",
                 "etymology": {
                         "breakdown": [
                                 {
-                                        "text": "geonian-",
+                                        "text": "cura-",
                                         "type": "root",
-                                        "meaning": "開く",
-                                        "lang": "古英語"
-                                }
-                        ],
-                        "original_statement": "The word 'yawn' can be traced back to the Old English word 'geonian', which predominantly meant 'to open the mouth wide'."
-                },
-                "core_concept": {
-                        "en": "A silent symphony of opening towards the cosmos.",
-                        "ja": "宇宙へと開かれる静かな交響曲。"
-                },
-                "thinking_layer": "あくびは、肉体の生理的現象であるが、その根底には人間の深い内的思索の影が潜んでいる。無意識のうちに口を大きく開け、呼吸を深め、瞬間瞬間を解放するような動作である。この動作を通じて、生と夢、目覚めと休息の間に無声の対話が生まれる。まるで瞬間的に時空を越え、忘却の淵から新たな覚醒に導かれるかのように、あくびは私たちを人間らしさの深奥へと導く。また、共感を呼ぶ行為でもあるため、私たちはあくびを介して他者の存在を肌で感じ、霊的なつながりを強める。虚空の中に広がる無限の宇宙の一部として、私たちのあくびは目に見えないもの、日常には存在しないが重要なものを象徴している。この静かな風景の中で、人間は内面的な問いを立て、存在の神秘を探るのである。",
-                "synonyms": [
-                        "gape",
-                        "stretch"
-                ],
-                "antonyms": [
-                        "close",
-                        "shut"
-                ],
-                "aftertaste": "In the symphony of silence, a yawn transcends the ordinary.",
-                "deep_dive": {
-                        "roots": [
-                                {
-                                        "term": "geonian",
-                                        "meaning": "to open"
-                                }
-                        ],
-                        "points": [
-                                "古英語の‘geonian’は現代の‘yawn’に変化したが、その意味は大きくは変わっていない。"
-                        ]
-                },
-                "source": "Oxford English Dictionary",
-                "date": "2026-03-01",
-                "era": "Old English"
-        },
-        {
-                "id": "guard",
-                "word": "Guard",
-                "part_of_speech": "noun/verb",
-                "meaning": "監視や保護をする行為、あるいはその人",
-                "author": "etymon_official",
-                "etymology": {
-                        "breakdown": [
-                                {
-                                        "text": "proto-germanic *wardō-",
-                                        "type": "root",
-                                        "meaning": "見る、守る",
-                                        "lang": "Proto-Germanic"
+                                        "meaning": "注意, 配慮",
+                                        "lang": "ラテン語"
                                 },
                                 {
-                                        "text": "old french garder",
-                                        "type": "root",
-                                        "meaning": "見守る",
-                                        "lang": "Old French"
-                                }
-                        ],
-                        "original_statement": "The word 'guard' stems from the Old French 'garder', which itself traces back to the Germanic root *wardō, signifying the act of watching or protecting."
-                },
-                "core_concept": {
-                        "en": "A vigilant watcher standing against the chaos of the world.",
-                        "ja": "世界の混沌に抗う目を光らせる守護者"
-                },
-                "thinking_layer": "『守る』という行為は、単に存在を見張り、外的危険からの防衛を意味するに留まらず、それは人間の存在そのものを支える哲学的な柱でもある。守護者の目は単なる物理的な視線を超えて、時間と共に朽ちることなき信頼の織物を編む。心の深く内なる境界に立つこれらの守護者は、孤独とそれに抗う勇気の象徴である。これらはただの壁ではなく、その向こう側に広がる時空の神秘へと私たちを誘う窓でもある。したがって、ガードという言葉は、その語源から現在に至るまで、私たちがどう自分自身と向き合い、他者と共に在るかを示唆する深い哲学的な意味を持つのである。",
-                "synonyms": [
-                        "protector",
-                        "sentinel"
-                ],
-                "antonyms": [
-                        "endanger",
-                        "neglect"
-                ],
-                "aftertaste": "A guardian stands firm against the tides of uncertainty.",
-                "deep_dive": {
-                        "roots": [
-                                {
-                                        "term": "ward",
-                                        "meaning": "to watch or keep guard"
-                                }
-                        ],
-                        "points": [
-                                "『ガード』という単語は、単なる防御や監視の動作を表すだけでなく、他者や自己に対する責任感を象徴し、その在り方に根付く信頼と誠実の価値の概念を内包している。"
-                        ]
-                },
-                "source": "Online Etymology Dictionary",
-                "date": "2026-03-01",
-                "era": "Old French, Proto-Germanic"
-        },
-        {
-                "id": "write",
-                "word": "Write",
-                "part_of_speech": "verb",
-                "meaning": "書くことや記録すること",
-                "author": "etymon_official",
-                "etymology": {
-                        "breakdown": [
-                                {
-                                        "text": "wrītan",
-                                        "type": "root",
-                                        "meaning": "書く",
-                                        "lang": "古英語"
-                                }
-                        ],
-                        "original_statement": "The English word 'write' comes from the Old English 'wrītan', akin to Old Norse 'ríta'."
-                },
-                "core_concept": {
-                        "en": "The elegant act of leaving a permanent mark upon the flowing sands of time.",
-                        "ja": "時の流れを超えて永遠の痕跡を残す行為の美しさ"
-                },
-                "thinking_layer": "書くという行為は、人間が時空を旅し、思考を形にする魔法に他ならない。文字は、我々の存在の証であり、記憶の器である。筆者は羊皮紙や紙に魂を刻み、消えゆく声を残響として形にする。書くことで、私たちは自分の存在を他者と共有し、歴史という無限の書物に足跡を刻む。光輝くインクの一滴は、暗闇を照らし、未来への道しるべとなる。この魔法の行為は、単なる情報の伝達を超え、心と心を繋ぐ絆を編み、時として読む者の人生を変える力を持つ。書かれた言葉は、読む人の胸に静かに届き、記憶の深層で呼吸を続ける。書き手と読み手の間に生まれる静寂の対話は、言語という翼を得て、無限の空を舞う。書くことは、生きることそのものであり、私たちの内なる声が永遠となる瞬間なのである。",
-                "synonyms": [
-                        "Inscribe",
-                        "Scribble"
-                ],
-                "antonyms": [
-                        "Erase",
-                        "Delete"
-                ],
-                "aftertaste": "Words scribed by human hand linger longer than the fleeting breath.",
-                "deep_dive": {
-                        "roots": [
-                                {
-                                        "term": "wrītan",
-                                        "meaning": "to score, outline, draw the figure of"
-                                }
-                        ],
-                        "points": [
-                                "「書く」という語の根源は古英語の「wrītan」に遡り、その意味は「描く」や「輪郭を描く」であった。"
-                        ]
-                },
-                "source": "Oxford English Dictionary",
-                "date": "2026-03-01",
-                "era": "Old English, c. 10th Century"
-        },
-        {
-                "id": "swear",
-                "word": "Swear",
-                "part_of_speech": "verb",
-                "meaning": "誓いを立てる、または強く宣言すること",
-                "author": "etymon_official",
-                "etymology": {
-                        "breakdown": [
-                                {
-                                        "text": "swearan-",
-                                        "type": "root",
-                                        "meaning": "誓う",
-                                        "lang": "Old English"
-                                }
-                        ],
-                        "original_statement": "The modern English 'swear' originates from the Old English 'swerian', which means 'to take an oath'."
-                },
-                "core_concept": {
-                        "en": "An invocation of sacred trust through words.",
-                        "ja": "言葉を通じて神聖なる信頼の召喚"
-                },
-                "thinking_layer": "誓うという行為は、言葉により世界を超越し、心の深層に響く神聖なる響きである。それは単なる約束に留まらず、一つの存在の本質を賭けるものである。海のように深い人の心に映し出された忠誠の影、その影は時には光となり、時には闇となる。誓いというものは、人という存在が、この無常の世において絶対を求める行為であり、言葉による時間と空間を超えた契約である。永遠という幻想に対する一時の愛撫、それはまた、自己の神聖なる一部を他者と共有する勇気を伴う旅となる。誓いは、風が砂を形作るように、永劫を信ずる心が織り成す、霧のように儚くも強固な絆である。",
-                "synonyms": [
-                        "Oath",
-                        "Vow"
-                ],
-                "antonyms": [
-                        "Lie",
-                        "Betray"
-                ],
-                "aftertaste": "A single promise, carved in eternal silence.",
-                "deep_dive": {
-                        "roots": [
-                                {
-                                        "term": "swerian",
-                                        "meaning": "to take an oath"
-                                }
-                        ],
-                        "points": [
-                                "古英語の「swerian」は、時代を経るにつれ、個人の忠誠心や神聖な約束を表現する言葉として変容した。それは、単なる言語表現ではなく、社会的、文化的な絆を結ぶ重要な行為として機能している。"
-                        ]
-                },
-                "source": "Online Etymology Dictionary",
-                "date": "2026-03-01",
-                "era": "Old English"
-        },
-        {
-                "id": "bark",
-                "word": "Bark",
-                "part_of_speech": "noun/verb",
-                "meaning": "木の皮、犬の鳴き声",
-                "author": "etymon_official",
-                "etymology": {
-                        "breakdown": [
-                                {
-                                        "text": "bark-",
-                                        "type": "root",
-                                        "meaning": "犬が吠える音",
-                                        "lang": "Old Norse"
-                                }
-                        ],
-                        "original_statement": "The word 'bark' first appeared in Old Norse 'bark,' meaning a sharp sound or noise, later used in Middle English to describe both the sound of a dog and the protective outer layer of a tree."
-                },
-                "core_concept": {
-                        "en": "A symphony of alerts rending through silence.",
-                        "ja": "沈黙を切り裂く警告の交響楽"
-                },
-                "thinking_layer": "『吠える』という言葉は、ただの音ではなく、世界と生命の間に架ける橋です。吠える声は、孤独の中で響き渡り、仲間を求める痛切なメッセージです。樹木の『皮』も同様に、外界との触れ合いを通じて、自らを守り、成長を促す自然の防御策です。音と存在を保護する層、両者は根源的に繋がっているのです。犬の吠え声は孤独や守るべきものを知らせ、木の皮は時の流れに応じて変化する生命の肌。それは如何に淡々とした行動や物質であっても、自然の中では意味があり、役割を果たしているということを示しています。人の意識に潜む未解の観念は、我々が創り出すことなく存在する宇宙の一部として、我々に警告と保護を与え続けるのです。言葉が歴史を紡ぎ、時間と共にその意味が変わるように、『bark』も進化し続ける音楽の一部です。",
-                "synonyms": [
-                        "Howl",
-                        "Rind"
-                ],
-                "antonyms": [
-                        "Silence",
-                        "Smoothness"
-                ],
-                "aftertaste": "A primal cry lingering at the world's edge, ever alert.",
-                "deep_dive": {
-                        "roots": [
-                                {
-                                        "term": "bark",
-                                        "meaning": "to strip bark or to bark like a dog"
-                                }
-                        ],
-                        "points": [
-                                "木の皮と犬の鳴き声が一つの語源に由来する背景には、言語の多面的な進化と共鳴する哲学的な歴史があります。どちらも保護と警戒の表れであるため、意識の深層に訴えかける力を持ちます。"
-                        ]
-                },
-                "source": "Online Etymology Dictionary",
-                "date": "2026-03-01",
-                "era": "Middle English"
-        },
-        {
-                "id": "gamble",
-                "word": "Gamble",
-                "part_of_speech": "noun, verb",
-                "meaning": "リスクを冒して楽しむ行為",
-                "author": "etymon_official",
-                "etymology": {
-                        "breakdown": [
-                                {
-                                        "text": "gamble",
-                                        "type": "root",
-                                        "meaning": "賭ける",
-                                        "lang": "English"
-                                }
-                        ],
-                        "original_statement": "The word 'gamble' is believed to have originated in the early 18th century, possibly from the Middle English word 'gammlen', which meant to jest or fumble, and was associated with gaming and risking money on uncertain outcomes."
-                },
-                "core_concept": {
-                        "en": "To dance with chance, embraced by uncertainty.",
-                        "ja": "不確実性に包まれたまま、機会と舞うこと。"
-                },
-                "thinking_layer": "ギャンブルとは、人生そのものを象徴する行為である。人は誰もが未知の未来に向かって歩み出すときに、希望と恐れを抱えて進む。賭けとは、その時々の分岐点を選び取ることであり、その選択がもたらす結果に自らを委ねる行為である。リスクを受け入れ、結果に対する責任を持つこと。賭けは人生の縮図であり、不確実性との対話に他ならない。人は喜びや悲しみを伴いながら、偶然と意図の中を行き来する。計画を立てることもできれば、流れに身を任せることもある。しかし、いかに慎重に計算されたものであっても、未来は予測不可能な一歩先である。この意味でギャンブルは、希望を抱いた人間の永遠なる挑戦と言えるだろう。失敗が伴うかもしれないが、その過程で得られる感情や経験こそが貴い。人が何かを賭けたとき、その瞬間に存在する命の輝きを無視することはできない。それは人生における価値の発見であり、魂の躍動である。",
-                "synonyms": [
-                        "bet",
-                        "wager"
-                ],
-                "antonyms": [
-                        "certainty",
-                        "assurance"
-                ],
-                "aftertaste": "To gamble is to waltz with fate, knowing full well its unpredictable rhythm.",
-                "deep_dive": {
-                        "roots": [
-                                {
-                                        "term": "gammlen",
-                                        "meaning": "jest, play"
-                                }
-                        ],
-                        "points": [
-                                "ギャンブルの語源は中英語の「gammlen」であり、これは遊びや冗談を示す言葉である。そのルーツは、遊戯や不確実性を楽しむ人間の性質の側面を反映している。"
-                        ]
-                },
-                "source": "Online Etymology Dictionary",
-                "date": "2026-03-01",
-                "era": "18th Century"
-        },
-        {
-                "id": "dwindle",
-                "word": "Dwindle",
-                "part_of_speech": "verb",
-                "meaning": "減少する、衰える",
-                "author": "etymon_official",
-                "etymology": {
-                        "breakdown": [
-                                {
-                                        "text": "dwin-",
-                                        "type": "prefix/root",
-                                        "meaning": "消える",
-                                        "lang": "Middle English"
-                                }
-                        ],
-                        "original_statement": "Originates from Middle English 'dwinen', derived from Old English 'dwinan', meaning 'to waste away or fade'."
-                },
-                "core_concept": {
-                        "en": "The gradual, ephemeral fading into oblivion.",
-                        "ja": "漸進的で儚く忘却の中に溶け込むこと"
-                },
-                "thinking_layer": "『風前の灯火』という言葉が漂わせるその雰囲気。人々の人生、自然の営み、小さなものが消え去っていく様を表している。消えるという行為は単なる喪失ではなく、一種の移行であり、また新たな始まりを示唆するものでもある。燃え尽きた炎のように、すべての物は時間の流れに逆らわず自然と無へと還る。その様は、自然界の生き物たちが一年を迎える様子を目の当たりにするようだ。そして私たちはこの中で何を学ぶのか。時の流れの不可逆性が、命の美しさを際立たせる。有限であるがゆえに、私たちの時間はかけがえのないものとなる。そして、それを受け入れることで、人生の価値を見出すことができる。時が刻々と過ぎゆく中で、私たちはそのことを意識し、穏やかに消えてゆく存在を歓迎する心を育てるべきである。それは未練を残さず、しなやかに受け入れる力にもなるだろう。",
-                "synonyms": [
-                        "Decrease",
-                        "Diminish"
-                ],
-                "antonyms": [
-                        "Increase",
-                        "Grow"
-                ],
-                "aftertaste": "Time etches all into a gentle oblivion.",
-                "deep_dive": {
-                        "roots": [
-                                {
-                                        "term": "dwinan",
-                                        "meaning": "to waste away or fade"
-                                }
-                        ],
-                        "points": [
-                                "古英語であった『dwinan』が持つ意味は、『衰え】や『消え去る』という確かな概念を伝えている。"
-                        ]
-                },
-                "source": "Oxford English Dictionary",
-                "date": "2026-03-01",
-                "era": "Old English, pre-12th Century"
-        },
-        {
-                "id": "balk",
-                "word": "Balk",
-                "part_of_speech": "noun/verb",
-                "meaning": "障害を作る、行動をためらう",
-                "author": "etymon_official",
-                "etymology": {
-                        "breakdown": [
-                                {
-                                        "text": "balk",
-                                        "type": "root",
-                                        "meaning": "障害",
-                                        "lang": "Old English"
-                                }
-                        ],
-                        "original_statement": "The word 'balk' originates from Middle English balke, which in turn comes from Old English balca, meaning a ridge or an unplowed strip of land."
-                },
-                "core_concept": {
-                        "en": "The subtle pause that redirects destiny’s course.",
-                        "ja": "運命の進路を変える微細な停滞"
-                },
-                "thinking_layer": "人間が歩む人生の道程には、時に「バルク」という名の観念が現れ、それが我々の選択を立ち止まらせることがある。この「バルク」は、ただの遅延や妨げだけを指しているのではない。我々はその場に立ち止まり、深く考え、自分自身を見つめ直す機会を与えられる瞬間なのである。それはまるで人生の大河の流れの中に、一時的に形成される渦のようなもの。この小さな反乱を通じて、人間は内なる声に耳を傾け、本当に進むべき道を再考する勇気を持つのである。このように、バルクは単なる停滞ではなく、進化し続けるための不可欠な要素なのだ。",
-                "synonyms": [
-                        "hesitate",
-                        "impede"
-                ],
-                "antonyms": [
-                        "advance",
-                        "proceed"
-                ],
-                "aftertaste": "To balk is to invite introspection at the cusp of progress.",
-                "deep_dive": {
-                        "roots": [
-                                {
-                                        "term": "balka",
-                                        "meaning": "ridge"
-                                }
-                        ],
-                        "points": [
-                                "「バルク」は、長い歴史の流れの中で形を変えてきたが、その根源にあるのは人類が立ち止まることの重要性と、それに続く深い認識の必要性である。"
-                        ]
-                },
-                "source": "Oxford English Dictionary",
-                "date": "2026-03-01",
-                "era": "Old English"
-        },
-        {
-                "id": "recall",
-                "word": "Recall",
-                "part_of_speech": "noun/verb",
-                "meaning": "思い出すこと、呼び戻すこと",
-                "author": "etymon_official",
-                "etymology": {
-                        "breakdown": [
-                                {
-                                        "text": "re-",
-                                        "type": "prefix",
-                                        "meaning": "再び",
-                                        "lang": "Latin"
-                                },
-                                {
-                                        "text": "callare",
-                                        "type": "root",
-                                        "meaning": "呼び出す",
-                                        "lang": "Latin"
-                                }
-                        ],
-                        "original_statement": "The word 'recall' originates from the Latin roots 're-' meaning again, and 'callare' meaning to call. It evolved to describe the process of calling back to memory or summoning something back."
-                },
-                "core_concept": {
-                        "en": "The delicate dance between memory and time.",
-                        "ja": "記憶と時の優美な舞踏"
-                },
-                "thinking_layer": "思い出すという行為は、記憶を織りなす世界と時間の流れの中に立ち現れます。私たちが過去の一瞬を呼び戻すとき、それは過ぎ去った時の静けさの中に残る余韻の儀式です。時間の河を遡り、記憶の庭に咲く無数の花を手繰り寄せるように、私たちの意識は過去の影を現在に映し出します。しかし、この行為は単なる知識の仕分けではなく、感情とつながる深遠な旅です。人間の存在は、たとえ忘却の帳が下ろされていても、その忘れ去られた記憶を求め続けるのです。過去の声が心の奥底で響き、私たちにとって重要なものをはっきりと思い起こさせる瞬間に、記憶の美しさが姿を現します。記憶を呼び覚ます瞬間は、一瞬の永遠を抱くこと。そして、その瞬間こそが生の本質を映し出します。",
-                "synonyms": [
-                        "Remember",
-                        "Retrieve"
-                ],
-                "antonyms": [
-                        "Forget",
-                        "Disregard"
-                ],
-                "aftertaste": "Memory is both the anchor and the sail of the soul.",
-                "deep_dive": {
-                        "roots": [
-                                {
-                                        "term": "callare",
-                                        "meaning": "to call"
-                                }
-                        ],
-                        "points": [
-                                "記憶の中に埋め込まれた情景や感情を呼び起こす力は、言葉の力を詠む手段として古代から重用されてきました。"
-                        ]
-                },
-                "source": "Oxford English Dictionary",
-                "date": "2026-03-01",
-                "era": "Middle English, 14th Century"
-        },
-        {
-                "id": "embark",
-                "word": "Embark",
-                "part_of_speech": "verb",
-                "meaning": "乗船する、開始する",
-                "author": "etymon_official",
-                "etymology": {
-                        "breakdown": [
-                                {
-                                        "text": "em-",
-                                        "type": "prefix",
-                                        "meaning": "中に",
-                                        "lang": "フランス語"
-                                },
-                                {
-                                        "text": "barque",
-                                        "type": "root",
-                                        "meaning": "小舟",
-                                        "lang": "中世ラテン語"
-                                }
-                        ],
-                        "original_statement": "From Middle French 'embarquer', from Medieval Latin 'imbarcare', composed of 'in-' and 'barca' meaning boat."
-                },
-                "core_concept": {
-                        "en": "A poetic initiation into the vastness of journeys, setting one's course upon the endless tides.",
-                        "ja": "広大な旅への詩的な序章として、尽きることのない潮に航路を定めること"
-                },
-                "thinking_layer": "物事を始める行為、または航海に出るという行為は、単なる物理的な移動を超えて人生の新たな段階や冒険を象徴します。航海とは、未知の領域に足を踏み入れることであり、それは時に恐れと期待が交錯する瞬間となります。海は広大であり、人間の理解を超える力を持ちますが、それでも私たちはその大海に出て行くことを選びます。なぜなら、それは自己探求の旅であり、自己の限界を拡張する機会だからです。私たちが「embark」する時、それは肉体だけではなく、精神的にも新しいフロンティアへの一歩を踏み出すことを意味します。時に風は厳しく荒々しいかもしれませんが、その風は私たちを強くし、未知の世界への道を切り開く原動力となります。この冒険において、私たちは単に出発するだけではなく、心の新たな船を作り出しているのです。運命に向き合う勇気と、夢を追求する情熱が、私たちが人生という名の船を操るための風となるのです。",
-                "synonyms": [
-                        "begin",
-                        "commence"
-                ],
-                "antonyms": [
-                        "disembark",
-                        "end"
-                ],
-                "aftertaste": "Embarking is the soul's leap into infinity's embrace.",
-                "deep_dive": {
-                        "roots": [
-                                {
-                                        "term": "barque",
-                                        "meaning": "a small boat"
-                                }
-                        ],
-                        "points": [
-                                "Embarkはもともと船に乗るという具体的な行動を示す言葉でしたが、人生の旅における新たな始まりを象徴する言葉としても使われてきました。"
-                        ]
-                },
-                "source": "Online Etymology Dictionary",
-                "date": "2026-03-01",
-                "era": "Late Middle Ages"
-        },
-        {
-                "id": "navigate",
-                "word": "Navigate",
-                "part_of_speech": "verb",
-                "meaning": "航海する, 航行する",
-                "author": "etymon_official",
-                "etymology": {
-                        "breakdown": [
-                                {
-                                        "text": "navis",
-                                        "type": "root",
-                                        "meaning": "船",
-                                        "lang": "Latin"
-                                },
-                                {
-                                        "text": "-agere",
+                                        "text": "-ous",
                                         "type": "suffix",
-                                        "meaning": "動かす",
-                                        "lang": "Latin"
-                                }
-                        ],
-                        "original_statement": "Derived from the Latin words 'navis' meaning 'ship' and 'agere' meaning 'to drive'."
-                },
-                "core_concept": {
-                        "en": "The delicate art of guiding a vessel across the mysterious expanses of sea and life.",
-                        "ja": "海や人生の神秘的な広がりを船で導く繊細な技術"
-                },
-                "thinking_layer": "航海とは、単なる目的地への移動ではなく、未知への挑戦をも意味しています。英語の 'navigate' が象徴するのは、我々が如何にして不確かな海を渡り、無限の可能性の中で自らの道を切り開いていくかというプロセスです。ある種の無限性がそこに潜んでおり、我々は自分自身の内なるコンパスによって新たな領域を探索し続けます。それはまた、人生そのもののメタファーであり、日々の決断や未知への勇気を象徴しています。'navigate' は、人生の航路を見つけるための叡智と直感の統合であり、感覚の鋭敏さと精神の強靭さが試されるアートであると言えるでしょう。この言葉は、絶えず変化する世界において不変なものを再認識し、それを基にして新たな航路を見出す人間の永遠の探求を象徴しています。つまるところ、'ナビゲート' は単なる場所の移動以上の何か、新たな視点の発見であり、自らの位置を常に再評価するための哲学的な問いかけであるのです。",
-                "synonyms": [
-                        "Steer",
-                        "Guide"
-                ],
-                "antonyms": [
-                        "Wander",
-                        "Drift"
-                ],
-                "aftertaste": "Navigating life is the bold art of embracing uncertainty with grace.",
-                "deep_dive": {
-                        "roots": [
-                                {
-                                        "term": "navis",
-                                        "meaning": "ship or boat"
-                                },
-                                {
-                                        "term": "agere",
-                                        "meaning": "to drive, to lead"
-                                }
-                        ],
-                        "points": [
-                                "この言葉の由来を辿ると、ラテン語の 'navis' と 'agere' の組み合わせからなることがわかり、ここには船を導く行為と、その背後に潜む古代の知恵と冒険心が含まれています。"
-                        ]
-                },
-                "source": "Online Etymology Dictionary",
-                "date": "2026-03-01",
-                "era": "Late Middle Ages"
-        },
-        {
-                "id": "ponder",
-                "word": "Ponder",
-                "part_of_speech": "verb",
-                "meaning": "熟考する, 深く考える",
-                "author": "etymon_official",
-                "etymology": {
-                        "breakdown": [
-                                {
-                                        "text": "ponder-",
-                                        "type": "root",
-                                        "meaning": "考える",
+                                        "meaning": "性質を持つ",
                                         "lang": "ラテン語"
                                 }
                         ],
-                        "original_statement": "The word 'ponder' originates from the Latin 'ponderare', meaning 'to weigh'."
+                        "original_statement": "Curious originates from the Latin 'curiosus', meaning 'careful' or 'inquisitive'."
                 },
                 "core_concept": {
-                        "en": "A delicate dance of thoughts, weighing the intangible.",
-                        "ja": "思想の微細な舞、無形を秤にかける"
+                        "en": "A fervent thirst for the unveiling of the unknown.",
+                        "ja": "未知を解き明かそうとする旺盛な探求心。"
                 },
-                "thinking_layer": "思索とは、心の内部に広がる終わりなき海の探検である。それは時に波立ち、時に静まり返るが、その深さを見極めることは容易ではない。『ponder』という言葉は、ただ単に重さを量ること以上に、時間と存在に対する敬意を表している。この行為は、目に見えぬ重みを軸にして、自己の内面を静かに見つめる旅路である。物質的な秤では捉えられない精神の重さを、注意深く測定しようとしているのだ。古来より、人間は思索を通じて自身の弱点や強みを発見し、真実の探求を行ってきた。日々を紡ぐ思索の積み重ねは、個々の人生を織り成す複雑な模様を形づくる。この熟慮の過程は、心の中で響く無数の問いへの丁寧な応答であり、時にその問いは自らが気付かぬうちに闇へと浮かび上がる。人間の思索とは、内なる声を傾け、理解の層を剥がし続ける終わりなき織物のようなものである。",
+                "thinking_layer": "『好奇心』という言葉は、生命と無限の間に広がる深遠な宇宙の一部である。好奇心は、私たちの中の未知なるものを追求する根源的な欲求であり、目に見えない真実を探し出そうとする魂の叫びである。それは、無数の質問を孕み、永遠の謎を解き明かそうとする知的探検である。好奇心は、冷たい闇の中で微光となり、私たちを失われた可能性の森へと誘う。真理を求めるその道程は、目的地にたどり着かなくとも、旅自体が我々にとっての報酬である。好奇心は、存在の流れの中で心の中に注がれた光であり、目を閉じていても進むべき道を照らし続ける。その探求は、未知への扉を開き、我々をより広い宇宙の理解へと導く鍵となる。その心の中の灯火は人類の歴史を形成し続け、未来の可能性を示唆するのである。",
                 "synonyms": [
-                        "Contemplate",
-                        "Reflect"
+                        "Inquisitive",
+                        "Inquiring"
                 ],
                 "antonyms": [
-                        "Disregard",
-                        "Ignore"
+                        "Apathetic",
+                        "Indifferent"
                 ],
-                "aftertaste": "Pondering is the quiet symphony of a meditative mind.",
+                "aftertaste": "Curiosity is the soul's longing for enlightenment.",
                 "deep_dive": {
                         "roots": [
                                 {
-                                        "term": "ponderare",
-                                        "meaning": "to weigh"
+                                        "term": "curiosus",
+                                        "meaning": "careful, diligent"
                                 }
                         ],
                         "points": [
-                                "ラテン語の 'ponderare' は、あらゆる物事の重さや重要性を慎重に評価する行為を示します。これは単なる物理的な行動ではなく、精神的な熟慮を伴う深い行為です。"
+                                "『curious』という言葉は、ラテン語の『curiosus』から派生しており、『注意深さ』と『探究心』を意味する。この語は中世フランス語を通じて英語に移行し、その過程で現在の意味合いを帯びるようになった。"
                         ]
                 },
-                "source": "Online Etymology Dictionary, etymonline.com",
+                "source": "Online Etymology Dictionary",
                 "date": "2026-03-01",
-                "era": "Middle English, from Latin origin"
+                "era": "Middle Ages (14th Century)"
         },
         {
-                "id": "carnage",
-                "word": "Carnage",
-                "part_of_speech": "noun",
-                "meaning": "大虐殺",
-                "author": "etymon_official",
-                "etymology": {
-                        "breakdown": [
-                                {
-                                        "text": "carn-",
-                                        "type": "root",
-                                        "meaning": "肉",
-                                        "lang": "Latin"
-                                }
-                        ],
-                        "original_statement": "The word 'carnage' dates back to the Latin 'carnaticum', relating to 'caro' meaning 'flesh'. It evolved through Old French to denote slaughter on a large scale."
-                },
-                "core_concept": {
-                        "en": "The violent dance of flesh and chaos.",
-                        "ja": "肉と混沌の暴力的な舞"
-                },
-                "thinking_layer": "「カーネージ」という単語は、単なる物理的な破壊以上の深い意味を持っています。この言葉は、人類の歴史を彩る壮大なストーリーの中で、繰り返される悲劇の象徴です。戦争や紛争は、血と汗で染まった地平線を描き続け、そのつど新たなカーネージを生み出してきました。カーネージは、暴力の瞬間に凝縮された時間が、静寂の後に残る空虚さと対峙する姿を映し出しています。この言葉を聞くたびに、私たちは自らの内面を見つめ直さざるを得ません。何故、これほどの破壊が必要なのでしょうか？それは、力と無力の抗えない物語を浮かび上がらせるためかもしれません。カーネージとは、物と物とのぶつかり合いを超えて、精神的な荒廃をも意味します。この概念に触れることは、一瞬の中に永遠を感じるようなものです。ある意味で、それは存在そのものを問う魂の反射であり、消えゆく生命が残した無音の叫びです。",
-                "synonyms": [
-                        "slaughter",
-                        "massacre"
-                ],
-                "antonyms": [
-                        "peace",
-                        "harmony"
-                ],
-                "aftertaste": "A chilling reminder of humanity's potential for destruction.",
-                "deep_dive": {
-                        "roots": [
-                                {
-                                        "term": "caro",
-                                        "meaning": "flesh"
-                                }
-                        ],
-                        "points": [
-                                "カーネージの語源はラテン語の「carnaticum」にその古い起源を持ち、「caro」が「肉」を意味することから、その語感には生と死の間に漂う儚さが宿っています。"
-                        ]
-                },
-                "source": "Oxford English Dictionary",
-                "date": "2026-03-01",
-                "era": "Late Middle English"
-        },
-        {
-                "id": "mortal",
-                "word": "Mortal",
+                "id": "bizarre",
+                "word": "Bizarre",
                 "part_of_speech": "adjective",
-                "meaning": "死すべき運命にある",
+                "meaning": "奇異な、異様な",
                 "author": "etymon_official",
                 "etymology": {
                         "breakdown": [
                                 {
-                                        "text": "mort-",
+                                        "text": "bizzarro",
                                         "type": "root",
-                                        "meaning": "死",
-                                        "lang": "Latin"
+                                        "meaning": "奇妙な",
+                                        "lang": "Italian"
                                 }
                         ],
-                        "original_statement": "Derived from the Latin 'mortalis', which means 'subject to death'."
+                        "original_statement": "Derived from Italian 'bizzarro' meaning 'angry' or 'fierce', which later evolved in French to signify the unusual or strange."
                 },
                 "core_concept": {
-                        "en": "The inevitable dance with finitude.",
-                        "ja": "終わりある運命と共に踊る"
+                        "en": "The elegant dance of the extraordinary.",
+                        "ja": "非凡の優美な踊り"
                 },
-                "thinking_layer": "『死すべき者』という言葉は、人間の存在のはかなさと脆さを象徴しています。生というものは光と影の間を揺れ動く舞踊であり、その中で人は限られた時間を燃やしながら、永遠の一瞬を求め続けます。しかし、私たちが感じる無限の可能性は、有限という宿命に縛られているのです。このことは、私たちの行動と思考を形作る上で避けられないパラドックスを生み出します。人間の命は限られているが、心はしばしばその限界を超えたものを求める。この永遠と瞬間の狭間で、私たちは何を求め、何を見失うのか。そして、その問いが生む緊張感が、どれほど深い思索と洞察をもたらすのか。それは、人間が大地に縛られた存在でありながら、空を目指して羽ばたこうとする、そんな絶え間ない挑戦を示しているかもしれません。この永劫の時間の流れの中で、私たちが何を追い求めるのか。それが『死すべき者』という言葉に込められた永久のテーマである。",
+                "thinking_layer": "奇妙さとは、私たちの日常を一瞬にして異次元へと押し上げる扉のようなものである。異様の本質は、秩序と混沌の狭間で揺らぐその曖昧さにある。通常とは異なる風景が広がるとき、我々は時間と空間の流れを改めて問うことを余儀なくされる。そこに存在するのは、既知への疑念、未知への期待、そして恐怖と好奇心が交差する場所だ。奇妙なものに出会うとは、自らの思考と感性を再定義する作業である。その瞬間、世界は固定された形を失い、流動的で多元的な舞台へと変貌する。無限の可能性が潜むその空間において、我々は人間の存在意義や感性の幅広さを再確認する。このように、奇妙さとは生の神秘的な側面を解き明かす鍵であり、同時に人間の本質を際立たせる鏡でもある。",
                 "synonyms": [
-                        "perishable",
-                        "transient"
+                        "peculiar",
+                        "eccentric"
                 ],
                 "antonyms": [
-                        "eternal",
-                        "immortal"
+                        "normal",
+                        "ordinary"
                 ],
-                "aftertaste": "Mortal existence is the canvas upon which eternity paints its elusive dreams.",
+                "aftertaste": "To be bizarre is to be delightfully and daringly different.",
                 "deep_dive": {
                         "roots": [
                                 {
-                                        "term": "mort",
-                                        "meaning": "death"
+                                        "term": "bizzarro",
+                                        "meaning": "angry, fierce"
                                 }
                         ],
                         "points": [
-                                "語源的なルーツはラテン語の『mortalis』で、『mort-』は『死』を意味し、人間の儚さの本質を深く捉えている。"
-                        ]
-                },
-                "source": "Online Etymology Dictionary",
-                "date": "2026-03-01",
-                "era": "14th Century"
-        },
-        {
-                "id": "villain",
-                "word": "Villain",
-                "part_of_speech": "noun",
-                "meaning": "悪者、悪役",
-                "author": "etymon_official",
-                "etymology": {
-                        "breakdown": [
-                                {
-                                        "text": "villanus",
-                                        "type": "root",
-                                        "meaning": "農民",
-                                        "lang": "Latin"
-                                }
-                        ],
-                        "original_statement": "The word 'villain' originates from the Old French 'vilain', which in turn comes from Latin 'villanus', meaning a farmhand or servant tied to the villa, the Roman rural estates."
-                },
-                "core_concept": {
-                        "en": "A descent into moral darkness from the rural fields of labor.",
-                        "ja": "労働の農村から道徳的な闇への降下"
-                },
-                "thinking_layer": "かつて農村の平野で汗を流す者が、時代と共に賎民と見なされ、その一方で力や権力を握る者に反逆せし闇の使者と転じるのは歴史の皮肉である。この言葉が私たちに示すのは、善と悪の相対性の中に存在する人間の本質、そして立場によって変わる道徳観である。社会において『悪役』となる者が必ずしも生まれながらの悪を宿すわけではなく、環境や状況によって善悪の判断基準が揺れ動く。\n\nこのようにして生まれる影の主役たちは、私たちに存在することの意味、そして自らの姿を振り返らせる鏡である。道徳の枠を超えて善悪の二元性を問い、各々の内に宿る凛然たる意志を探る時、かりそめの善悪から解き放たれた新たな人間観が浮かび上がる。",
-                "synonyms": [
-                        "miscreant",
-                        "scoundrel"
-                ],
-                "antonyms": [
-                        "hero",
-                        "protagonist"
-                ],
-                "aftertaste": "The villain is but a reflection of our own shadows.",
-                "deep_dive": {
-                        "roots": [
-                                {
-                                        "term": "villanus",
-                                        "meaning": "farm servant"
-                                }
-                        ],
-                        "points": [
-                                "古代ローマにおいて『villanus』は農村地帯に結び付けられた労働者を指し、その地位の低さが時を経て否定的な意味合いを帯びていった。"
-                        ]
-                },
-                "source": "Online Etymology Dictionary",
-                "date": "2026-03-01",
-                "era": "14th Century"
-        },
-        {
-                "id": "heckle",
-                "word": "Heckle",
-                "part_of_speech": "verb/noun",
-                "meaning": "壇上で挑発的な質問を投げかける行為",
-                "author": "etymon_official",
-                "etymology": {
-                        "breakdown": [
-                                {
-                                        "text": "hekel",
-                                        "type": "root",
-                                        "meaning": "麻や亜麻をほぐし櫛を通す行為",
-                                        "lang": "Middle English"
-                                }
-                        ],
-                        "original_statement": "The term initially referred to the process of combing flax fibers with a heckle, before its metaphorical extension to heckling an orator."
-                },
-                "core_concept": {
-                        "en": "To disrupt with pointed interjections, a refining journey from fiber to thought.",
-                        "ja": "声を挙げる—思考を試練にかける挑発の芸術"
-                },
-                "thinking_layer": "言葉の持つ力を呼び起こし、感情と知識の間に緊張を生み出すもの。それは、ただの質問ではなく、心の奥底から湧き出る声である。意見と反応が絡み合い、聞き手の心に共鳴と不安を同時に引き起こす。現代社会において、その混沌の中で我々は対話の美学を問い直す。しかしその瞬間、それは単なる挑発ではなく、音を立てて紡がれる糸のように、真実の一端を見せる試みである。人々の心と意識を一つの筋にしっかりと結びつけ、次第に形を生み出していくプロセス。かくして、私たちは言葉の力と共に、自己の限界を超えて新しい絆を結び、新たな視座を獲得していく。批判と叫びが響き渡るとき、それは自己表現と他者理解の境界線を揺るがす哲学的な儀式である。",
-                "synonyms": [
-                        "Jeer",
-                        "Taunt"
-                ],
-                "antonyms": [
-                        "Applaud",
-                        "Cheer"
-                ],
-                "aftertaste": "In the alchemy of discourse, heckling becomes the crucible of truth.",
-                "deep_dive": {
-                        "roots": [
-                                {
-                                        "term": "hekel",
-                                        "meaning": "to disentangle flax fibers"
-                                }
-                        ],
-                        "points": [
-                                "「ヘックル」は当初、亜麻を櫛で梳く行為を指す言葉として中英語に由来する。"
+                                "「bizarre」の語源は、イタリア語の「bizzarro」に遡り、これが「怒っている」「剣呑な」という意味を持つことに起因する。この語彙は時間と共にフランス語に取り入れられ、意味が発展し、「異常」や「奇妙」という今日の意味へと変わっていった。"
                         ]
                 },
                 "source": "Oxford English Dictionary",
                 "date": "2026-03-01",
-                "era": "Middle English, 14th Century"
+                "era": "16th Century (Italian to French evolution)"
+        },
+        {
+                "id": "dwell",
+                "word": "Dwell",
+                "part_of_speech": "verb",
+                "meaning": "留まる、居住する",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "dwell-",
+                                        "type": "root",
+                                        "meaning": "住む、静止する",
+                                        "lang": "Old English"
+                                }
+                        ],
+                        "original_statement": "Derived from Old English 'dwellan', meaning to lead astray or hinder, and later to abide or remain."
+                },
+                "core_concept": {
+                        "en": "To reside within the folds of time, capturing moments within stillness.",
+                        "ja": "時間の襞の中に住まい、静けさの中で瞬間を捉えること。"
+                },
+                "thinking_layer": "住むという行為は、ただ物理的な境界に関わるものではなく、人間の存在そのものを問う深遠な哲学の一部である。我々は時間の流れの中に居を構え、日々の出来事に触れるたびに、自らの魂の奥深くへと旅をする。この居住行為には、現実と非現実、過去と未来との間を往来する力がある。それは、我々の心と体を一体にし、ここでの瞬間を永遠に感じさせる。住むことはまた、一時の停留ではなく、深い関与と選択の結果である。静けさの中に居ること、世界の喧騒から離れたその空間で、人は自身の存在の意義を再認識し、内なる声に耳を傾けることができる。住むということは、我々の存在に新たな命を吹き込むポエジーでもあり、無限の広がりを持つ宇宙の点である。そこでは、目に見えない糸が絡み合い、過去の記憶と未来の夢とが共鳴し合い、時間を越えた瞬間が永遠となる。",
+                "synonyms": [
+                        "reside",
+                        "inhabit"
+                ],
+                "antonyms": [
+                        "depart",
+                        "vacate"
+                ],
+                "aftertaste": "Dwell not just in places, but within moments that whisper eternity.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "dwellan",
+                                        "meaning": "to lead astray, hinder"
+                                },
+                                {
+                                        "term": "Old Norse dvella",
+                                        "meaning": "to delay"
+                                }
+                        ],
+                        "points": [
+                                "『住む』という行為は、時間と空間を超えて心の中で自分自身を発見する旅である。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "Old English, 13th Century"
         }
 ];
