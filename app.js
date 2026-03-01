@@ -44,18 +44,22 @@ const API_BASE = window.location.origin;
 
 // --- Utils ---
 async function apiGet(endpoint) {
-    try { const response = await fetch(`${API_BASE}${endpoint}`); return await response.json(); }
-    catch (e) { console.error(e); return []; }
+    try {
+        const response = await fetch(`${API_BASE}${endpoint}`, { signal: AbortSignal.timeout(15000) });
+        return await response.json();
+    }
+    catch (e) { console.error("apiGet failed:", e); return []; }
 }
 async function apiPost(endpoint, data) {
     try {
         const response = await fetch(`${API_BASE}${endpoint}`, {
             method: 'POST',
             headers: { 'Content-Type': 'application/json' },
-            body: JSON.stringify(data)
+            body: JSON.stringify(data),
+            signal: AbortSignal.timeout(15000)
         });
-        return response.json();
-    } catch (e) { return { status: 'error', message: 'Connection failed' }; }
+        return await response.json();
+    } catch (e) { console.error("apiPost failed:", e); return { status: 'error', message: 'サーバー接続エラーが発生しました' }; }
 }
 
 function applySettings() {
@@ -652,18 +656,27 @@ function renderEssayForm() {
             <form id="essay-form" style="background:var(--color-surface); padding:3rem; border-radius:32px; border:1px solid var(--color-border);">
                 <div class="input-group"><label>Title</label><input type="text" id="e-title" required style="width:100%; background:var(--color-bg); border-radius:12px; border:1px solid var(--color-border); color:white; padding:1.2rem;"></div>
                 <div class="input-group" style="margin-top:2rem;"><label>Content</label><textarea id="e-content" rows="15" required style="width:100%; background:var(--color-bg); border-radius:12px; border:1px solid var(--color-border); color:white; padding:1.5rem; font-size: 1.1rem; line-height: 1.6;"></textarea></div>
-                <button type="submit" class="primary-btn" style="width:100%; margin-top:3rem; padding:1.5rem; font-weight:bold; font-size:1.2rem; border-radius:16px;">Publish Essay</button>
+                <button type="submit" id="submit-essay-btn" class="primary-btn" style="width:100%; margin-top:3rem; padding:1.5rem; font-weight:bold; font-size:1.2rem; border-radius:16px;">Publish Essay</button>
             </form>
         </div>`;
     document.getElementById('essay-form').onsubmit = async (e) => {
         e.preventDefault();
+        const btn = document.getElementById('submit-essay-btn');
+        if (btn) { btn.innerText = 'Publishing...'; btn.disabled = true; }
+
         const res = await apiPost('/api/submit-essay', {
             username: State.currentUser,
             title: document.getElementById('e-title').value,
             content: document.getElementById('e-content').value
         });
-        if (res.status === 'success') { showRichToast('✦ Essay Published', 'あなたの思索が世界に放たれました。'); navigate('essays'); }
-        else showToast(res.message);
+
+        if (res.status === 'success') {
+            showRichToast('✦ Essay Published', 'あなたの思索が世界に放たれました。');
+            navigate('essays');
+        } else {
+            showToast(res.message);
+            if (btn) { btn.innerText = 'Publish Essay'; btn.disabled = false; }
+        }
     };
 }
 
@@ -1481,15 +1494,18 @@ function renderContribute() {
                 <div class="input-group" style="margin-top:2rem;"><label>Etymological Structure (prefix:meaning, ...)</label><input type="text" id="w-breakdown" required style="width:100%; background:var(--color-bg); border-radius:12px; border:1px solid var(--color-border); color:white; padding:1.2rem;"></div>
                 <div class="input-group" style="margin-top:2rem;"><label>Concept Essence (Japanese)</label><input type="text" id="w-concept-ja" required style="width:100%; background:var(--color-bg); border-radius:12px; border:1px solid var(--color-border); color:white; padding:1.2rem;"></div>
                 <div class="input-group" style="margin-top:2rem;"><label>Detailed Thought</label><textarea id="w-thinking" rows="8" style="width:100%; background:var(--color-bg); border-radius:12px; border:1px solid var(--color-border); color:white; padding:1.5rem; font-size: 1.1rem; line-height: 1.6;"></textarea></div>
-                <button type="submit" class="primary-btn" style="width:100%; margin-top:3rem; padding:1.5rem; font-weight:bold; font-size:1.2rem; border-radius:16px;">Publish Knowledge</button>
+                <button type="submit" id="submit-word-btn" class="primary-btn" style="width:100%; margin-top:3rem; padding:1.5rem; font-weight:bold; font-size:1.2rem; border-radius:16px;">Publish Knowledge</button>
             </form>
         </div>`;
     document.getElementById('word-form').onsubmit = async (e) => {
         e.preventDefault();
+        const btn = document.getElementById('submit-word-btn');
+        if (btn) { btn.innerText = 'Publishing...'; btn.disabled = true; }
+
         const wordData = {
             id: document.getElementById('w-word').value.toLowerCase().trim(),
             word: document.getElementById('w-word').value.trim(),
-            etymology: { breakdown: document.getElementById('w-breakdown').value.split(',').map(x => ({ text: x.split(':')[0].trim(), meaning: x.split(':')[1].trim() })), original_statement: "" },
+            etymology: { breakdown: document.getElementById('w-breakdown').value.split(',').map(x => ({ text: x.split(':')[0] ? x.split(':')[0].trim() : '', meaning: x.split(':')[1] ? x.split(':')[1].trim() : '' })), original_statement: "" },
             core_concept: { en: "", ja: document.getElementById('w-concept-ja').value },
             thinking_layer: document.getElementById('w-thinking').value,
             synonyms: [], antonyms: [], aftertaste: "", deep_dive: { roots: [], points: [] }, source: "Citizen Contribution", author: State.currentUser
@@ -1510,7 +1526,8 @@ function renderContribute() {
                 navigate('archive');
             }, 1200);
         } else {
-            showToast('エラーが発生しました');
+            showToast(res.message || '投稿エラーが発生しました。もう一度お試しください。');
+            if (btn) { btn.innerText = 'Publish Knowledge'; btn.disabled = false; }
         }
     };
 }
