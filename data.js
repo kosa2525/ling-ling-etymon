@@ -62140,5 +62140,417 @@ const WORDS = [
                 },
                 "source": "etymon Philologist Mode",
                 "era": "17th Century French"
+        },
+        {
+                "id": "agitate",
+                "word": "Agitate",
+                "part_of_speech": "verb",
+                "meaning": "動かす、動揺させる",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "agitare",
+                                        "type": "root",
+                                        "meaning": "動揺させる",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'agitate' originates from the Latin 'agitare', which means 'to drive, to stir up'. Evolving through Old French 'agiter' in the 16th century, its meanings diversified in English to encompass physical and emotional disturbance."
+                },
+                "core_concept": {
+                        "en": "The heart's tumultuous symphony.",
+                        "ja": "心の激しい交響曲"
+                },
+                "thinking_layer": "人生は静かな河のように流れることはなく、しばしば嵐に見舞われることがある。それは人間の心においても同様である。静寂のなかでも心はしばしば動揺し、思慮の波を立てるのである。動じること、それは人間の生き様において避けられぬ運命の一部であり、あらゆる思考や感情の生起がそこに包含される。そしてその背後には深い意味が潜んでいる。動揺とは単なる内なる乱れではなく、新たな理解や自己発見への道筋を示すものである。動じることで我々はより深く世界と関わり、自己を再構築する契機を得るのである。この人生の波間を如何に航海するか、それこそが人間存在の本質的な問いとなる。静寂の中で真実の声を聴き、動乱の中で新たな境地に至る、そうした経験が問いを形作り、答えを導き出す。",
+                "synonyms": [
+                        "Disturb",
+                        "Rouse"
+                ],
+                "antonyms": [
+                        "Calm",
+                        "Soothe"
+                ],
+                "aftertaste": "Life's momentum is often born from its disturbances.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "agitare",
+                                        "meaning": "to drive, to set in motion"
+                                }
+                        ],
+                        "points": [
+                                "動揺という概念は単なる心理的現象ではなく、思考や感情の活性化を促す行為である。ラテン語の 'agitare' にその源が在るが、それを通じて自己認識や新たな感覚の開発を促すものとして普遍的価値を有する。動かすという行為、その背後には意志の力と未知なるものへの果敢な挑戦が込められている。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "16th Century"
+        },
+        {
+                "id": "adhere",
+                "word": "Adhere",
+                "part_of_speech": "verb",
+                "meaning": "付着する、従う",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "ad-",
+                                        "type": "prefix",
+                                        "meaning": "〜に向かって",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "-haerēre",
+                                        "type": "root",
+                                        "meaning": "くっつく",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The term 'adhere' originated from the Latin 'adhaerēre', composed of 'ad-' (to) and 'haerēre' (stick)."
+                },
+                "core_concept": {
+                        "en": "To adhere is to bind one's existence to principles, as a leaf sticks to a gentle stream.",
+                        "ja": "中心を定め、流れにそっと貼り付く葉のように、原則に自らを結びつけること。"
+                },
+                "thinking_layer": "物事に『付着する』ことは、単に物理的な行為に留まらず、哲学的な意味をも含んでいます。生きることは大海原を航海するようなものであり、その旅路において、我々は価値観や目標にしがみつき、その意味を形成していくのです。考えてみてください、自らの信念にしっかりと寄り添うことは、嵐の中の燈台の如く、人生を導く光となります。その粘り強さは時に試練に打ちひしがれても、なおも流れに逆らうことなく、ただ静かに、しなやかに、あり続けることを選びます。大海の目に見えない流れにただよう一枚の葉が、何気ない瞬間を、そして人生そのものをどれほど優美に輝かせるかを想像してみてください。物質的・精神的な世界における『adhere』という行為が、これほどまでに深く、静かに存在していることを、私たちはどれだけ意識し得るのでしょうか。そんなささやかな行為の中に、無限の宇宙が広がっていることに気付くのです。生きる力とは、しがみつく力でもあり、また手放し流れに委ねる力なのです。",
+                "synonyms": [
+                        "Cling",
+                        "Attach"
+                ],
+                "antonyms": [
+                        "Detach",
+                        "Separate"
+                ],
+                "aftertaste": "Adhere to dreams, for they guide the soul's journey.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "haerēre",
+                                        "meaning": "stick"
+                                }
+                        ],
+                        "points": [
+                                "『adhere』という言葉は単に物理的な付着を指すのではなく、精神的に何かにしっかりとついて離れないことを含意する。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary (etymonline.com)",
+                "date": "2026-03-01",
+                "era": "14th Century"
+        },
+        {
+                "id": "gestate",
+                "word": "Gestate",
+                "part_of_speech": "verb",
+                "meaning": "妊娠する、または、育む",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "gest-",
+                                        "type": "root",
+                                        "meaning": "運ぶ、担う",
+                                        "lang": "ラテン語"
+                                },
+                                {
+                                        "text": "-ate",
+                                        "type": "suffix",
+                                        "meaning": "状態や行為を示す",
+                                        "lang": "ラテン語"
+                                }
+                        ],
+                        "original_statement": "The word 'gestate' derives from Latin 'gestatus', the past participle of 'gestare' meaning 'to bear or carry'."
+                },
+                "core_concept": {
+                        "en": "The silent craft of nurturing possibility.",
+                        "ja": "可能性を静かに育む技"
+                },
+                "thinking_layer": "生成という言葉は、生命のミステリアスな舞台裏を見せる鏡のようだ。物理的な現象としての妊娠だけでなく、アイディア、計画、そして希望のような非物質的な存在が成熟する過程にも適用される。これは、内なる空間で密やかに育まれる希望や夢、それらが形を取る前の無形の可能性の舞台である。生成の行為は、何もない存在から尽きざる現実への変容であり、それには無限の可能性と時間を超越した知恵が秘匿されている。静穏な心に込められた想念が、時間という大河を流れ、形を取る様はまさに命の神秘そのものである。この過程は、感受性と内省の深まりを通じて、自らを超えた何かへ到達する旅と言えるだろう。生成は、光が産み出される前の闇の寄与としての価値を学び、共鳴をもって未来を迎える準備を整える。世界が無音の中で息づくその一瞬に、私たちの内なる真実は新たな形で明るみに出される。その身は、破壊と創造の美しいジレンマを抱えるのだ。",
+                "synonyms": [
+                        "Nurture",
+                        "Cultivate"
+                ],
+                "antonyms": [
+                        "Abort",
+                        "Halt"
+                ],
+                "aftertaste": "From silence, the universe breathes life into dreams.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "gest",
+                                        "meaning": "to carry or bring forth"
+                                }
+                        ],
+                        "points": [
+                                "ラテン語の'gestare（運ぶ、担う）'に由来し、これはアイディアや計画の育成過程に共鳴する。時間と意識が交錯するその場所で、生成は自然と戯れ、夢を現実へと導くプロセスを象徴する。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Late 19th Century"
+        },
+        {
+                "id": "venture",
+                "word": "Venture",
+                "part_of_speech": "noun/verb",
+                "meaning": "冒険する、リスクを取る行動",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "Latin venit-",
+                                        "type": "root",
+                                        "meaning": "来る",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "Old French aventure",
+                                        "type": "root",
+                                        "meaning": "冒険",
+                                        "lang": "Old French"
+                                }
+                        ],
+                        "original_statement": "The word 'venture' evolved from the Old French 'aventure' and finds its roots in the Latin 'venire', meaning to come or arrive. Initially, it denoted chance or fate."
+                },
+                "core_concept": {
+                        "en": "A daring journey into the unknown, fueled by courage and chance.",
+                        "ja": "未知への勇敢な旅とそれに伴うリスク"
+                },
+                "thinking_layer": "「ベンチャー」という言葉には、未知の領域に飛び込む勇気が求められています。それは単なるリスクを取る行為ではなく、新たな世界を開く探検のようなものです。人生そのものが長い旅路であり、一歩を踏み出す勇気がある者だけが見知らぬ景色に出会える。こうした冒険は、我々の魂を鍛え、個を超えた存在の一部と感じさせる力を持つ。人間の営みは、未来という不確定な鏡の中に投影され、我々は常にその鏡を覗き込む術を持っているかのようだ。ここに光を見出した者はさらに進む勇気を得、そして恐れを抱く者もまた、心の奥深くに眠る希望の光に誘われるのです。この深い思索の中で、「ベンチャー」は、自己の変革と他者とのつながりを求め続ける人間の本質を象徴する言葉として輝きを放つのです。",
+                "synonyms": [
+                        "Adventure",
+                        "Risk"
+                ],
+                "antonyms": [
+                        "Safety",
+                        "Security"
+                ],
+                "aftertaste": "Venture is the flame that transforms hesitation into bravery.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "venit-",
+                                        "meaning": "to come"
+                                },
+                                {
+                                        "term": "aventure",
+                                        "meaning": "chance, opportunity"
+                                }
+                        ],
+                        "points": [
+                                "語源的に見ると、「ベンチャー」という言葉は「来る」という動きを含んでおり、新しい体験や状況が目前に迫っていることを示唆しています。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "12th Century"
+        },
+        {
+                "id": "phonetic",
+                "word": "Phonetic",
+                "part_of_speech": "adjective",
+                "meaning": "音声に関する",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "phon-",
+                                        "type": "root",
+                                        "meaning": "声、音",
+                                        "lang": "ギリシャ語"
+                                },
+                                {
+                                        "text": "-etic",
+                                        "type": "suffix",
+                                        "meaning": "〜に関する",
+                                        "lang": "ギリシャ語"
+                                }
+                        ],
+                        "original_statement": "Derived from Greek 'phonetikos', related to sound and voice, entering English via Latin 'phoneticus'."
+                },
+                "core_concept": {
+                        "en": "The essence of sound captured in symbols.",
+                        "ja": "音の本質を象徴に封じ込める"
+                },
+                "thinking_layer": "音声とは、目に見えぬ空気の振動が我々の鼓膜を通して心の中に響く現象です。それは人類のコミュニケーションの最も原始的な形であり、文明の基礎です。音を文字として記録することは、時間と空間を超えて他者と心を繋ぐための試みとして画期的なものと言えます。「音声的」という言葉は、そのような試みを象徴し、言葉が音の流れとなって現れる様を表現します。何気ない日常会話から詩的な作品、音楽に至るまで、全ては音を用いて生まれる芸術作品であり、「音声的」という言葉そのものが人間の意識と感性の深淵を覗く窓となります。音を理解し、文字で再現することは、無形のものを形にする挑戦であり、そしてまた、人類が築いた文化の広がりを視覚的に捉える手段として、極めて意義深いものです。この言葉に込められた哲学は、音と文字、そしてそれを通じたコミュニケーションの可能性を探求し続ける人間の創造性と情熱の証です。",
+                "synonyms": [
+                        "Acoustic",
+                        "Auditory"
+                ],
+                "antonyms": [
+                        "Silent",
+                        "Non-verbal"
+                ],
+                "aftertaste": "Sound etches the invisible into the visible.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "phon",
+                                        "meaning": "sound"
+                                }
+                        ],
+                        "points": [
+                                "音声学は言語や音声を分析する学問であり、その進化は文化と言語の発展に寄与しました。音声から文字へ、そして文字から言葉へと変換される中で、人々は歴史と文化を継承し続けるのです。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "Ancient Greek"
+        },
+        {
+                "id": "relational",
+                "word": "Relational",
+                "part_of_speech": "adjective",
+                "meaning": "関係に関する",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "relation",
+                                        "type": "root",
+                                        "meaning": "関係",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "al",
+                                        "type": "suffix",
+                                        "meaning": "に関する",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The term 'relational' stems from the Latin 'relationem', meaning a bringing back, restoring, or relation, combined with the suffix '-al' connoting 'pertaining to'."
+                },
+                "core_concept": {
+                        "en": "The ethereal dance of connections and contexts.",
+                        "ja": "つながりと文脈の幽玄なる舞い"
+                },
+                "thinking_layer": "『関係』という言葉は、一つのものが自分を超えて他者とどのように結びついているのかを探求する鏡である。この鏡に映るものは、常に動き、混ざり合い、変容する流動的な世界だ。その中で人々は自らのアイデンティティーを形作り、宇宙の神秘との間に豊かな相互作用を見出す。関係とは、自己認識を超越し、新たな発見をもたらすための探求を促す力に他ならない。この力は、人間存在の根底にある孤独を慰め、やり取り、共鳴を通して、世界を形作る。一方で、個々の接点が持つ一瞬の美しさの背後には、無数の物語や未だ解明されていない謎が存在する。それは、触れることも視ることもできないが、全てを貫く流れであり、時に共感を生み出し、時に懐疑を抱かせる。『関係』は、心と心の間で立ち上がる見えざる橋であり、その上を行き交う思考や感情が新しい視点を創造し続ける。これは存在することの本質に迫るための、決して終わることのない旅である。",
+                "synonyms": [
+                        "Connected",
+                        "Interdependent"
+                ],
+                "antonyms": [
+                        "Isolated",
+                        "Detached"
+                ],
+                "aftertaste": "In every relation lies the possibility of transformation.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "relation",
+                                        "meaning": "a connection or association"
+                                },
+                                {
+                                        "term": "al",
+                                        "meaning": "pertaining to"
+                                }
+                        ],
+                        "points": [
+                                "『relational』は、物と物の間の関与度を示唆し、その文脈での相互作用を強調する。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Medieval Latin"
+        },
+        {
+                "id": "volatile",
+                "word": "Volatile",
+                "part_of_speech": "adjective",
+                "meaning": "揮発性のある、不安定な",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "vola-",
+                                        "type": "root",
+                                        "meaning": "飛ぶ",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "-tile",
+                                        "type": "suffix",
+                                        "meaning": "性質",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'volatile' originates from Latin 'volatilis', meaning 'fleeting, transitory, flying'."
+                },
+                "core_concept": {
+                        "en": "An essence of swift change and evanescence.",
+                        "ja": "迅速な変化と儚さの核となる概念"
+                },
+                "thinking_layer": "『不安定』の概念は、安定性や恒常性を超越した儚い瞬間と変化を捉える試みです。現代社会において、変わりゆく世界との対比は、我々に不確実性の中での生存を教示してくれます。この言葉が表すのは、物質的な揮発性だけではなく、人生の様々な局面での感情や状態の変容です。我々の存在は一瞬一瞬が独立のエネルギーに満ち溢れ、そのエネルギーは時として予測不能で流動的です。変化という旋律に耳を傾け、その不安定性の中に潜む美を見出すことは、深遠なる内省へとつながる道です。すなわち、揮発性とは、直近の未来さえも見通せない不確かさに包まれた一貫性のない踊りであり、この踊りを見つめることで、時を超えた哲学的自覚へと誘われます。人生は無数の瞬間の集積であり、それらは次々と消えていく蜃気楼のようです。それでも私たちは、立ち止まることなく、この一瞬の幻を追い続けます。",
+                "synonyms": [
+                        "unstable",
+                        "fleeting"
+                ],
+                "antonyms": [
+                        "stable",
+                        "permanent"
+                ],
+                "aftertaste": "Volatility dances along the edges of chaos and order.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "volare",
+                                        "meaning": "to fly"
+                                }
+                        ],
+                        "points": [
+                                "『volatile』はラテン語に由来し、『飛ぶ』という意味の語根がその出発点となります。この語源的背景は、言葉が持つ瞬時の変化と不安定さを表す力を説明します。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Late Middle English"
+        },
+        {
+                "id": "stagnant",
+                "word": "Stagnant",
+                "part_of_speech": "adjective",
+                "meaning": "停滞した、流れのない",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "stagn-",
+                                        "type": "root",
+                                        "meaning": "静止した水",
+                                        "lang": "ラテン語"
+                                }
+                        ],
+                        "original_statement": "The word 'stagnant' originates from the Latin 'stagnare', meaning 'to form a pool', from 'stagnum', signifying a standing pool of water."
+                },
+                "core_concept": {
+                        "en": "The stillness where time forgets to breathe.",
+                        "ja": "時間が息をすることを忘れる静止の場。"
+                },
+                "thinking_layer": "停滞というのは、動きを止めた世界の瞬間のことである。日本語で「停滞」と聞くと、単なる動かないことを表すが、哲学的には、生命の流れが一時的に凝結し、瞬間が無限の深淵に封じられる状態であると言える。停滞は、変化が止まり、不変の価値が一時的に姿を現す時でもある。しかしその反面、それは創造性や活力を奪い取る無限の静寂でもある。この矛盾した状態では、心はその動と静の間に引き裂かれ、生きる意味を探し求める。古代の池に映る月のように、停滞には歩みを止めた者が見いだす新たな視座が隠されている。一時の非活動の中にこそ、本質の真理が潜んでいるのかもしれない。そうした停滞の想像を通じて、私たちは動の中にもある静を見いだし、流動する時間の中で不変の核を探す。そして、時間に負けない静けさの中で、真の自己と向き合っていくのである。",
+                "synonyms": [
+                        "stalled",
+                        "motionless"
+                ],
+                "antonyms": [
+                        "dynamic",
+                        "active"
+                ],
+                "aftertaste": "In still waters, profound truths often hide.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "stagnum",
+                                        "meaning": "a standing pool of water"
+                                }
+                        ],
+                        "points": [
+                                "ラテン語の「stagnum」は、静止した水体を表現し、動きの停滞や蓄積を象徴しています。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Late Middle English"
         }
 ];
