@@ -29026,5 +29026,57 @@ const WORDS = [
                 "source": "Online Etymology Dictionary",
                 "date": "2026-03-01",
                 "era": "Ancient Greek"
+        },
+        {
+                "id": "oblige",
+                "word": "Oblige",
+                "part_of_speech": "verb",
+                "meaning": "義務を負わせる、恩義を与える",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "ob-",
+                                        "type": "prefix",
+                                        "meaning": "対して",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "ligare",
+                                        "type": "root",
+                                        "meaning": "縛る",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'oblige' comes from the Latin 'obligare', where 'ob-' signifies 'towards' and 'ligare' means 'to bind'."
+                },
+                "core_concept": {
+                        "en": "A binding of the soul to duty and gratitude.",
+                        "ja": "義務と感謝で魂を縛ること"
+                },
+                "thinking_layer": "「義務」とは、他者のために自身を縛る行為であり、それは人間の存在における根源的な問いを投げかける。私たちが誰かに対して義務を感じるとき、私たちの内なる自律性が試される。それは、他者への応答であり、同時に己自身への問いかけでもある。誰かへの恩義は、自身を超えた存在との繋がりを感じることであり、それが私たちを人として形づくる。義務と感謝の技術は、心の奥深くで潜在意識と結びつく。私たちは他者のために何かを成す度に、心の糸が少しずつ紡がれ、見えない絆が私たちを結び付けていく。それは、ただの行為そのものではなく、感情や思考が混然一体となったものであり、生きることの真摯な表現である。そして、その表現が私たちの存在の本質を照らし出すのだ。「義務」とは、他者への捧げものであり、自己への期待である。同時に、それは誰の心にもある、人間らしさへの無言の応答でもあるのだ。",
+                "synonyms": [
+                        "require",
+                        "bind"
+                ],
+                "antonyms": [
+                        "free",
+                        "release"
+                ],
+                "aftertaste": "To oblige is to dance between duty and devotion.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "ligare",
+                                        "meaning": "to bind"
+                                }
+                        ],
+                        "points": [
+                                "ラテン語の「obligare」は他者に対する行為を強調し、社会的・道徳的責任の概念を形成する。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Late Middle English, from Latin"
         }
 ];
