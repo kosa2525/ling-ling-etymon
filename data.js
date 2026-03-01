@@ -44591,5 +44591,325 @@ const WORDS = [
                 "source": "Online Etymology Dictionary",
                 "date": "2026-03-01",
                 "era": "Late Middle English, 14th Century"
+        },
+        {
+                "id": "arrive",
+                "word": "Arrive",
+                "part_of_speech": "verb",
+                "meaning": "到達する、着く",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "ad-",
+                                        "type": "prefix",
+                                        "meaning": "〜へ",
+                                        "lang": "ラテン語"
+                                },
+                                {
+                                        "text": "ripa",
+                                        "type": "root",
+                                        "meaning": "岸",
+                                        "lang": "ラテン語"
+                                }
+                        ],
+                        "original_statement": "From the Old French 'arriver', derived from Latin 'arripare', meaning 'to come to shore'."
+                },
+                "core_concept": {
+                        "en": "To reach the shore, to arrive at the destination of anticipation.",
+                        "ja": "期待の目的地に達する、岸へたどり着くこと"
+                },
+                "thinking_layer": "到達とは、物理的な移動に留まらず、心の旅路でもある。人は、到達点に思いを馳せながら、日々の歩みを進める。本来の意味での「到達」は、心と体との共鳴がもたらす静かな歓喜である。到着という行為は、時間と空間を超え、過去から未来へと繋がる一本の線である。この線は、時に人生の終止符となる場面を迎え、また新たな始まりを告げる音色となって響く。到達の瞬間、見知らぬ岸辺に立つ時、その新たな地平に秘められた無数の可能性の中に、無垢な自己を投影する。そうした新しい風景の中、我々は存在の意味を再確認し、内なる旅を続ける。到達するとは、目的地の達成ではなく、その行程に刻まれる物語の一部になることである。つまり、「到達」とは、新たな理解の扉が開かれ、新しい世界との対話が始まる時なのだ。これこそが、到達の本質であり、我々の存在に深みと意味を与える瞬間である。",
+                "synonyms": [
+                        "Reach",
+                        "Land"
+                ],
+                "antonyms": [
+                        "Depart",
+                        "Leave"
+                ],
+                "aftertaste": "Arriving is both an end and a beginning.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "ripa",
+                                        "meaning": "shore"
+                                }
+                        ],
+                        "points": [
+                                "同じ語源を持つ語の中には、河岸を表す言葉もある。このことは、到達の概念が自然と深く結びついていることを示している。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Late Latin origin"
+        },
+        {
+                "id": "expand",
+                "word": "Expand",
+                "part_of_speech": "verb",
+                "meaning": "広げる、拡張する",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "ex-",
+                                        "type": "prefix",
+                                        "meaning": "外へ",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "pandere",
+                                        "type": "root",
+                                        "meaning": "広げる",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'expand' traces its origin to the Latin 'expandere', which means to spread out or unfold."
+                },
+                "core_concept": {
+                        "en": "To breathe life into the void, stretching beyond the confines of the conceivable.",
+                        "ja": "思考の限界を超えて、虚空に生命を吹き込むこと。"
+                },
+                "thinking_layer": "「拡張」とは、限られた空間に新たな次元を導入し、枠を超えて自身を広げていく行為である。それは、新しい可能性を模索し、見えない未来に向かって手を伸ばす挑戦でもある。たとえば、自然界においては、春に芽吹く植物がその典型であり、冬の眠りから覚め、新しい葉を広げていく様は壮大な生命の拡張と言える。人間の心もまた同様で、知識や経験を吸収し続けることで、その境界を広げ、新たな視座を獲得していく。このようにして、「拡張」は内なる力の躍動でもあり、外界とのダイナミックな対話でもある。",
+                "synonyms": [
+                        "Enlarge",
+                        "Broaden"
+                ],
+                "antonyms": [
+                        "Contract",
+                        "Shrink"
+                ],
+                "aftertaste": "Expansion is the essence of growth and exploration.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "pandere",
+                                        "meaning": "to spread"
+                                }
+                        ],
+                        "points": [
+                                "「expand」は、その起源をラテン語「expandere」に持つ。これは、物理的な拡がりだけでなく、心理的・精神的な成長をも暗示する言葉であり、新たな可能性を探求する人間の本質を内包する。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "Late Middle English"
+        },
+        {
+                "id": "include",
+                "word": "Include",
+                "part_of_speech": "verb",
+                "meaning": "含む、包含する",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "in-",
+                                        "type": "prefix",
+                                        "meaning": "中に",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "claudere",
+                                        "type": "root",
+                                        "meaning": "閉じる",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'include' comes from the Latin 'includere', which means to shut in or inclose."
+                },
+                "core_concept": {
+                        "en": "To embrace within boundaries, to hold together as one.",
+                        "ja": "境界内に抱きしめ、一体となること。"
+                },
+                "thinking_layer": "“含む”という言葉は、単なる物理的な境界に何かを取り入れること以上の意味を持つ。我々が何かを“含む”際、それは精神や意識、心の開放としても解釈できる。包容力という名の温かさが際立ち、異なる要素を調和させ、一元化する能力が生まれるのだ。時には傷つきやすい感情や意見を抱きしめ、己の中に異なる意見や視点を受け入れる勇気を培うプロセスでもある。言葉そのものもまた、対立する概念や疎外感を包み込み、苦悩の中の希望を見出す鍵になる。この言葉は外部との調和を求める人間の根源的な欲求を反映し、個々が持つ多様性を統合する可能性を秘めている。そしてその中には、孤独と連帯、排斥と受容、距離と親密さの狭間に漂う人間の本質的な哀しみと美しさが垣間見える。含むことは、分かたれた要素を一つの全体へと再び結合させる、何と壮大な試みだろう。不可避的な分断からの脱却、それが“含む”という行為の奥深い意味である。",
+                "synonyms": [
+                        "Contain",
+                        "Integrate"
+                ],
+                "antonyms": [
+                        "Exclude",
+                        "Omit"
+                ],
+                "aftertaste": "To include is to dance with diversity, gathering the scattered into the unity of essence.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "in-",
+                                        "meaning": "into, inside"
+                                },
+                                {
+                                        "term": "claudere",
+                                        "meaning": "to close"
+                                }
+                        ],
+                        "points": [
+                                "“Include”の語源は、物理的な境界を越えて、精神的な多様性や感情の包摂を示唆している。"
+                        ]
+                },
+                "source": "Etymonline",
+                "date": "2026-03-01",
+                "era": "Mid-15th Century"
+        },
+        {
+                "id": "activity",
+                "word": "Activity",
+                "part_of_speech": "noun",
+                "meaning": "行動または運動による活動",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "actus-",
+                                        "type": "root",
+                                        "meaning": "行動",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "-ity",
+                                        "type": "suffix",
+                                        "meaning": "性質や状態",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'activity' traces back to the Latin 'activitas', derived from 'actus' meaning 'a doing, a driving, or a performance,' combined with the suffix '-ity' indicating a state or condition."
+                },
+                "core_concept": {
+                        "en": "A harmonious dance of existence, woven through the cycles of movement and stillness.",
+                        "ja": "存在の調和した舞踊、それは動と静の循環を通して織りなされる。"
+                },
+                "thinking_layer": "活動とは、生命の儚き姿である。何もしない瞬間にあっても、宇宙は絶え間ない活動の中に在り続ける。私たちの存在そのものが、活動という織物に絡まれている。それは、内なるエネルギーが外へと満ち溢れる瞬間であり、また同時にそのエネルギーが内に流れ込む感覚でもある。過去、現在、未来の時間を超えて、活動はこの世界を育んできた。生命のリズムが刻む声音は、思索し続ける心を揺さぶり、新たな創造を促す。沈黙の中に活動を見出し、その奥深さを感じ取れる者は、真に世界を理解する鍵を手にするだろう。活動の本質は、単なる動的な行為にとどまらない。むしろ、それは個別の存在の心が交わり合い、共鳴する様を描く自然現象であり、私たちが宇宙とどう向き合い、調和を見出すのかという問いを問いかける。",
+                "synonyms": [
+                        "Exercise",
+                        "Action"
+                ],
+                "antonyms": [
+                        "Inactivity",
+                        "Rest"
+                ],
+                "aftertaste": "Activity breathes life into the stillness of existence.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "actus",
+                                        "meaning": "a doing or performance"
+                                }
+                        ],
+                        "points": [
+                                "活動という語源は、ラテン語の動詞 'agere' （行う、駆り立てる）から派生している。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "15th Century"
+        },
+        {
+                "id": "justice",
+                "word": "Justice",
+                "part_of_speech": "noun",
+                "meaning": "正義、公正",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "jus-tice",
+                                        "type": "root-suffix",
+                                        "meaning": "法-状態",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "Derived from Old French 'justise', from Latin 'justitia', meaning righteousness or equity."
+                },
+                "core_concept": {
+                        "en": "The eternal balance between truth and fairness.",
+                        "ja": "真実と公平の永遠の均衡"
+                },
+                "thinking_layer": "正義とは、一見すると明確な基準がありながら、実際には人間の倫理や価値観によって揺れ動く流動的な概念である。日本語における正義は、単なる法の執行を超え、人の心の中に潜む理想や希望をも体現する。時には個人の信念による正義が社会の基準と相対立することがある。その矛盾の中で、正義を探求することは、自己を省みる行為をも意味する。真実はしばしば一つではなく、多数の視点から形成される。そのような多元的な理解の中で、正義は各々にとっての「正確さ」であり、共通の「善」を追求する姿勢である。それは同時に人類が永遠に抱える問いであり、そこに宿る憧れと挫折を抱合する複雑な存在である。正義を求める行為は、人間の存在意義そのものであり、その果てしない探求の中で、人々は互いに手を取り合い、より良い世界を目指す。正義の光は、時の流れの彼方で常に輝いている。",
+                "synonyms": [
+                        "Equity",
+                        "Fairness"
+                ],
+                "antonyms": [
+                        "Injustice",
+                        "Unfairness"
+                ],
+                "aftertaste": "Justice whispers the secrets of the universe in the language of fairness.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "jus",
+                                        "meaning": "law, right"
+                                }
+                        ],
+                        "points": [
+                                "正義の語源はラテン語の「jus（法）」に遡る。これは法と権利の意味を持ち、古代ローマの法体系を成立させた根幹の思想を体現している。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "Late 12th Century"
+        },
+        {
+                "id": "participation",
+                "word": "Participation",
+                "part_of_speech": "noun",
+                "meaning": "関わり合い、参画",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "part-",
+                                        "type": "root",
+                                        "meaning": "部分",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "-cip-",
+                                        "type": "root",
+                                        "meaning": "取る",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "-ation",
+                                        "type": "suffix",
+                                        "meaning": "行為、状態",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "Derived from Latin 'participationem', referring to the act of sharing or taking part."
+                },
+                "core_concept": {
+                        "en": "The poetic dance of shared engagement.",
+                        "ja": "共に踊るかのような関与の美しさ"
+                },
+                "thinking_layer": "参加という言葉は人間の存在意義を深く根付かせている。それは単なる行動の表層を超えて、我々がいかに他者と繋がり、共に生命を構築するかを示している。参加は孤立からの脱却であり、個の境界を超えて共に触れ合う行為である。その中には、人間がもたらせる変容の可能性と協働の力が秘められている。哲学的には、参加は自己と他者の間に小さな宇宙を創造する試みであり、その場に立ち会う全てのものが交じり合い、響き合うハーモニーを描き出す。この抽象的な体験は、人間存在の核心に触れるものであり、一瞬の共同において我々は自己を他者の中に、そして他者を自己の中に見出すことができる。参加とはただの行為ではなく、生き生きとした未来への生成の場である。まさにその場所を求め、多くの魂が交わるのである。",
+                "synonyms": [
+                        "Engagement",
+                        "Involvement"
+                ],
+                "antonyms": [
+                        "Isolation",
+                        "Exclusion"
+                ],
+                "aftertaste": "Participation is the bridge that turns isolation into unity.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "part",
+                                        "meaning": "a piece or portion of a whole"
+                                },
+                                {
+                                        "term": "cip",
+                                        "meaning": "to take or seize"
+                                }
+                        ],
+                        "points": [
+                                "参加という言葉はラテン語の「partem」（部分）と「capere」（取る）から成り立っており、それは何かを共有し取り入れることを意味しています。言語の進化の過程において、この概念は単なる物理的な取り合いから、精神的・社会的な領域へと拡張してきました。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "Late Middle English, 14th Century"
         }
 ];
