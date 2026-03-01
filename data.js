@@ -28842,5 +28842,51 @@ const WORDS = [
                 "source": "Online Etymology Dictionary",
                 "date": "2026-03-01",
                 "era": "Middle Ages, 14th Century"
+        },
+        {
+                "id": "dawdle",
+                "word": "Dawdle",
+                "part_of_speech": "verb",
+                "meaning": "だらだら時間を無駄に過ごす",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "daddle-",
+                                        "type": "root",
+                                        "meaning": "ゆったりと動く、ふらふらする",
+                                        "lang": "Middle English"
+                                }
+                        ],
+                        "original_statement": "The word 'dawdle' originated in the late 18th century, possibly deriving from the dialect word 'daddle,' meaning to saunter or to walk informally."
+                },
+                "core_concept": {
+                        "en": "The gentle art of lingering, in which time drifts like leaves upon a stream.",
+                        "ja": "時の流れに乗って葉のように漂うゆるやかな逗留の技"
+                },
+                "thinking_layer": "ダウドルという動詞は、我々が時間の神秘的な流れを感じ、日常の喧騒から離れる一瞬を与えてくれる。時間は、瞬間と瞬間の間に存在する無形のものとして、私たちの現実の中をしなやかに流れる。ダウドルとは、その時間の流れに身を委ね、全てを急ぎすぎる日々から一歩引き、眺めることを許す行為である。それは単なる怠慢や遅れではなく、我々の存在が真に意味を持つ瞬間に進出するための入り口となる。しかし、そのような一時の静寂もまた、永久に続くものではなく、あたかも時を所有することができるかのように錯覚しながらも、それが実際にはただの暫しの滞在であることを知ることである。この不明確な境界において、我々は自分自身と向き合い、過去、現在、未来を深呼吸の中で感じ取ることが可能になるのだ。ダウドルは詩的な余韻を持ち、その奥には人間の精神が織りなす深い歴史の幕が広がる。日常の慌ただしさを忘れ、ただその場に存在することの贅沢を我々に教えてくれるのだ。",
+                "synonyms": [
+                        "linger",
+                        "loiter"
+                ],
+                "antonyms": [
+                        "hasten",
+                        "rush"
+                ],
+                "aftertaste": "To dawdle is to embrace the luxury of time's gentle embrace.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "dawdle",
+                                        "meaning": "to waste time, to be idle"
+                                }
+                        ],
+                        "points": [
+                                "ダウドルは、日常生活の中で、時間をゆったりと流すことによって得られる内的な安らぎを探求する行為である。その語源は、英語の歴史の中で他の関連語から分化した豊かな背景を持つ。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "18th Century"
         }
 ];
