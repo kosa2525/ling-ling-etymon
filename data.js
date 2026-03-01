@@ -42693,5 +42693,427 @@ const WORDS = [
                 "source": "Oxford English Dictionary",
                 "date": "2026-03-01",
                 "era": "Late 16th Century"
+        },
+        {
+                "id": "secure",
+                "word": "Secure",
+                "part_of_speech": "adjective",
+                "meaning": "安全であること、護られていること",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "se-",
+                                        "type": "prefix",
+                                        "meaning": "離れて",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "cura",
+                                        "type": "root",
+                                        "meaning": "心配",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "Derived from Latin 'securus', which means 'free from care'."
+                },
+                "core_concept": {
+                        "en": "Freedom from worry, an assurance of safety in an unpredictable world.",
+                        "ja": "不安からの解放、そして予測不能な世界における安堵の保証。"
+                },
+                "thinking_layer": "「安全」という概念は単なる安心感を超え、存在における深遠なる安定を象徴しています。この言葉の起源を辿れば、人間の心の奥底にある不安からの解放願望を見ることができます。古代より、人は危険から己を、親しい者たちを守るためにあらゆる手段を講じ、その結果が「安全」という状態を生むのです。この概念は心の静寂を求める旅路に似ており、常に動く運命の中で、揺るぎない礎を築く困難な努力の結晶と言えます。安全は、物理的なものにとどまらず、精神的な境地をも意味します。世界が混沌としている中で、一人一人が安全の在処を探し求め、内なる平安を獲得しようとする。安全とは、単なる無事の状態を指すのではなく、未知の未来へと進む勇気の象徴なのです。",
+                "synonyms": [
+                        "Protected",
+                        "Guarded"
+                ],
+                "antonyms": [
+                        "Insecure",
+                        "Vulnerable"
+                ],
+                "aftertaste": "Safety is the quiet confidence to face the unknown.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "cura",
+                                        "meaning": "worry, care"
+                                }
+                        ],
+                        "points": [
+                                "この語のラテン語起源である 'securus' は、注意や心配からの距離を強調しています。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "14th Century"
+        },
+        {
+                "id": "pronounce",
+                "word": "Pronounce",
+                "part_of_speech": "verb",
+                "meaning": "言葉を発する、音を明確に表現する",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "pro-",
+                                        "type": "prefix",
+                                        "meaning": "前に、前方に",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "nuntiare",
+                                        "type": "root",
+                                        "meaning": "告げる",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "From the Latin 'pronuntiare', meaning to declare or make known."
+                },
+                "core_concept": {
+                        "en": "The artful dance of sound becoming speech.",
+                        "ja": "音の舞が言葉になる芸術"
+                },
+                "thinking_layer": "言葉を発することは単に音を並べることではない。それは魂の深くから湧き出る内なる響き、内面世界の反映である。発声を始める瞬間、個々の言葉は宇宙の中の粒子として配置され、他者との繋がりを生む。音は肉体を通じて発されたあと、空気の波動となり人々の精神に触れる。発音するという行為は、個々の文化、歴史、そして我々の存在の本質をも形作る、人間の神秘的な能力である。発音はまた、沈黙という広大なキャンバスに色を塗る筆のように、空間に生命を宿す。また、静寂の中に響く音は、聴く者に深遠な感慨を引き起こし、言葉を越えた真実を伝える。このプロセスは、常に人間の理解と誤解の狭間で揺れ動く。一方で発音は多様な音の並列、一方で孤独な心の呼び声であり、存在の迷宮を照らし出す光である。あらゆる言語が持つこの普遍的な芸術は、言葉にならない思いをも形にする魔法を帯びている。",
+                "synonyms": [
+                        "Articulate",
+                        "Enunciate"
+                ],
+                "antonyms": [
+                        "Mumble",
+                        "Whisper"
+                ],
+                "aftertaste": "To speak is both an art and an echo of the soul.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "pro-",
+                                        "meaning": "forward"
+                                },
+                                {
+                                        "term": "nuntiare",
+                                        "meaning": "to announce"
+                                }
+                        ],
+                        "points": [
+                                "発音の起源は、人間の意思を音声に変換する行為であり、古代から言語を形作ってきた。"
+                        ]
+                },
+                "source": "The Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "14th Century"
+        },
+        {
+                "id": "facilitate",
+                "word": "Facilitate",
+                "part_of_speech": "verb",
+                "meaning": "容易にする",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "facilis",
+                                        "type": "root",
+                                        "meaning": "容易な",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "-ate",
+                                        "type": "suffix",
+                                        "meaning": "使役の意を表す",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'facilitate' stems from the Latin 'facilis' meaning 'easy', combined with the suffix '-ate' to denote an action or process."
+                },
+                "core_concept": {
+                        "en": "The gentle art of smoothing the path to ease.",
+                        "ja": "道を整え、容易にするための優雅な技術"
+                },
+                "thinking_layer": "人生の流れを容易にすることは、一種の見えない橋を架けるようなものです。それは、人々の道のりを滑らかにし、彼らの歩みを軽くする巧妙で優美な行為です。古代から人間は、困難や障害を乗り越えるために繊細で理解深い術を探し求めてきました。容易にするという行為は、単なる物理的作業を超え、人の心の内側や、時には時間と空間をも柔らかくする力を持ちます。この技術の核には、相手の存在を尊重し、共感する姿勢が不可欠です。まるで風が木々を優しく撫でるように、容易にする者は他者の苦悩を和らげる励ましの手となります。そして、この技術を身につけることにより、我々はより平和で調和の取れた世界を築いていく希望を見いだすことができるのです。",
+                "synonyms": [
+                        "Aid",
+                        "Assist"
+                ],
+                "antonyms": [
+                        "Hinder",
+                        "Obstruct"
+                ],
+                "aftertaste": "To facilitate is to take the hands of time and guide them with grace.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "facilis",
+                                        "meaning": "easy"
+                                }
+                        ],
+                        "points": [
+                                "『容易にする』という行為は、状況や人を理解し、環境を整えることで障害を取り除くことを意味します。それは、思考や態度の柔軟性を要求するものであり、相手に寄り添い共感することで達成されるのです。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Late 16th Century"
+        },
+        {
+                "id": "sequence",
+                "word": "Sequence",
+                "part_of_speech": "noun",
+                "meaning": "順序または連続",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "sequi-",
+                                        "type": "root",
+                                        "meaning": "従う",
+                                        "lang": "ラテン語"
+                                }
+                        ],
+                        "original_statement": "Originating from Latin 'sequentia', derived from 'sequi', meaning 'to follow'."
+                },
+                "core_concept": {
+                        "en": "A harmonious procession of order and inevitability.",
+                        "ja": "秩序と必然性の調和的な行進"
+                },
+                "thinking_layer": "シークエンスという言葉は、その奥深い意味において、存在の本質を反映している。全ての生命、全ての現象はシークエンスに従って流れていく。この宇宙のリズムは無音の音楽のように、始まりも終わりも人間の計り知れないところにある。我々はこの無限の流れの中で、時にその一部であることを忘れてしまう。しかし、その連続は存在そのものと一体であり、我々が歩む道筋に新たな光を当てる。この道は過去の残響に導かれる希望であり、未来への沈黙と共に歩む。そして、繁雑な生活の中で、我々はそれをただ感じ、知覚し、全てを紡ぐ時点での瞬間に浸ることを許されている。",
+                "synonyms": [
+                        "Order",
+                        "Progression"
+                ],
+                "antonyms": [
+                        "Randomness",
+                        "Disorder"
+                ],
+                "aftertaste": "In sequence, we find the pulse of the universe.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "sequi",
+                                        "meaning": "to follow"
+                                }
+                        ],
+                        "points": [
+                                "言語的連続性はラテン語に根差し、そこには時間と出来事の整った配列の意味が含まれている。古代ローマ人はこの概念を人生の不可欠な部分として見ており、秩序の感覚を含んでいた。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "Late Latin"
+        },
+        {
+                "id": "progress",
+                "word": "Progress",
+                "part_of_speech": "noun/verb",
+                "meaning": "進展、進歩",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "pro-",
+                                        "type": "prefix",
+                                        "meaning": "前へ",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "gradi",
+                                        "type": "root",
+                                        "meaning": "歩む",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'progress' derives from the Latin 'progressus', the past participle of 'progredi' which means to go forward or advance."
+                },
+                "core_concept": {
+                        "en": "A relentless march towards betterment.",
+                        "ja": "より良いものへの止まらぬ行進"
+                },
+                "thinking_layer": "『進歩』という言葉は、単なる物理的な移動を超えて内なる成長や精神的な昇華を示唆する。その中には、時間が少しずつ刻む振動によって、意識が次第に広がっていく過程が隠されている。進歩とは、自らの存在と世界の関わりを絶えず見直し、昨日よりも今日、そして今日よりも明日へと自分を鍛え続ける志を指す。人間の魂は、物質的な制約を脱却し、崇高なる理想へと向かう力を秘めている。我々は毎日新たな一歩を踏み出し、未知の領域に踏み込むことで、生命の意味を問い続ける。進歩の究極の目的は単なる目的の達成ではなく、その過程で得られる内面的な変化と成長である。このようにして人は、己を超え、無限なる可能性を探求し続ける勇気を持つ。したがって、進歩とは単に結果を求めるものではなく、存在全体への挑戦であるのだ。",
+                "synonyms": [
+                        "Advancement",
+                        "Development"
+                ],
+                "antonyms": [
+                        "Regression",
+                        "Stagnation"
+                ],
+                "aftertaste": "Progress is the heartbeat of human evolution.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "pro-",
+                                        "meaning": "forward"
+                                },
+                                {
+                                        "term": "gradi",
+                                        "meaning": "to step"
+                                }
+                        ],
+                        "points": [
+                                "『前へ』を意味する『pro-』は、未来への明るい希望を表し、『歩む』の意味を持つ『gradi』は、その希望を実際に実現する行動力を示す。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "Late Middle English"
+        },
+        {
+                "id": "event",
+                "word": "Event",
+                "part_of_speech": "noun",
+                "meaning": "出来事または起こること",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "e-",
+                                        "type": "prefix",
+                                        "meaning": "外に",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "venire",
+                                        "type": "root",
+                                        "meaning": "来る",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'event' derives from the Latin 'evenire', meaning 'to come out'. It entered the English language around the late 16th century."
+                },
+                "core_concept": {
+                        "en": "The unfolding we witness in the timeline of existence.",
+                        "ja": "存在の時間軸で目撃される展開"
+                },
+                "thinking_layer": "イベントとは、時間と空間の中で瞬間が交錯する地点です。それは過去の影響が現在に現れ、未来への道筋を刻む瞬間の彫刻です。この出来事は我々の心の鏡に映り、現れながらも消え去り、そのつかの間の存在が何か大きな体系的な織物の一部であることを告げます。イベントは時間の流れにおける小さな解釈に過ぎませんが、それが集い、祭典としての存在感を持つ時、私たちの感受性はその力に圧倒されるでしょう。幾千もの偶然が重なり合い、ひとつの具体的な形となって現れるその瞬間を、人間は常に求め続けてきたのです。イベントはまた、我々の生命の中で起きる不変かつ不可逆な現象を反映しており、時にはその一瞬が永遠を感じさせます。時間の連なりの中で、私たちは自身の小さな物語を紡ぎながら、その節目を刻むイベントに立ち会うのだと言えるでしょう。各々のイベントは、ただ存在するだけで、私たちの内なる洞察を呼び起こし、終わりなき知的追求への道を切り開くのです。",
+                "synonyms": [
+                        "Occurrence",
+                        "Incident"
+                ],
+                "antonyms": [
+                        "Non-occurrence",
+                        "Inactivity"
+                ],
+                "aftertaste": "Moments cascade with significance into the fabric of our existence.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "venire",
+                                        "meaning": "to come"
+                                }
+                        ],
+                        "points": [
+                                "ラテン語の 'evenire' から、出来事の訪れを意味し、英語においては16世紀末から用いられるようになりました。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "16th Century"
+        },
+        {
+                "id": "effort",
+                "word": "Effort",
+                "part_of_speech": "noun",
+                "meaning": "努力や尽力を意味する。",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "esforz-",
+                                        "type": "root",
+                                        "meaning": "力を注ぐ",
+                                        "lang": "Old French"
+                                }
+                        ],
+                        "original_statement": "The word 'effort' derives from Old French 'esforz', which means exertion or strenuous action, ultimately from the Vulgar Latin 'exfortiare', meaning to force out or overcome."
+                },
+                "core_concept": {
+                        "en": "A deliberate exertion of mind or body.",
+                        "ja": "心身の意識的な尽力"
+                },
+                "thinking_layer": "努力という言葉は単なる行動以上のものである。それは私たちの存在の核心に触れる哲学的概念だ。日々のルーチンを超えて、努力は潜在的な限界を押し広げる意志の力である。人間が持つ無限の可能性を探るための挑戦であり、成長という貴重な経験を通じて魂を鍛える道でもある。努力することで、私たちは自らの枠を越え、意識を高め、自己実現の道を歩む。さらに、それは時に痛みや葛藤を伴うが、その過程で得られる発見や充実感は計り知れない。「努力」という言葉は、目標に向かって進む中で遭遇する全ての逆境を越えるという、崇高な嘆きを内包している。光と影の間を行き交い、内なる声に耳を傾けることで、私たちは真の自己を見つける旅に向かうのだ。それは、存在の儚さと美しさを同時に抱く、深遠な冒険である。努力の先に見える景色は、何ものにも代えがたい価値がある。努力が無駄になることなく、私たちを新たな次元へと誘うその不思議な力は、永久の旅である。",
+                "synonyms": [
+                        "Struggle",
+                        "Endeavor"
+                ],
+                "antonyms": [
+                        "Idleness",
+                        "Laziness"
+                ],
+                "aftertaste": "Effort is the invisible fuel that transforms dreams into reality.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "esforz-",
+                                        "meaning": "to exert force"
+                                }
+                        ],
+                        "points": [
+                                "「努力」は、古代の強制や克服を意味する言葉から進化した。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "13th Century"
+        },
+        {
+                "id": "management",
+                "word": "Management",
+                "part_of_speech": "noun",
+                "meaning": "管理、運営",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "manus",
+                                        "type": "root",
+                                        "meaning": "手",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "agere",
+                                        "type": "root",
+                                        "meaning": "行う、動かす",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "-ment",
+                                        "type": "suffix",
+                                        "meaning": "行為や結果を表す",
+                                        "lang": "French"
+                                }
+                        ],
+                        "original_statement": "The word 'management' traces its origins to the Italian 'maneggiare' meaning 'to handle, especially tools or a horse', stemming from the Latin 'manus' (hand) combined with 'agere' (to act). It was adopted into English via the French 'ménagement', gaining prominence in the 16th century."
+                },
+                "core_concept": {
+                        "en": "The gentle orchestration of chaos into harmony.",
+                        "ja": "混沌を調和へと優雅に導くこと。"
+                },
+                "thinking_layer": "管理という行為は、実に人間の奥深い本質に根差している。この世界の複雑で混沌とした本質を、秩序ある形に導くための知恵と技術の融合である。管理とは、単なる効率的な操作や組織の運営以上のものであり、人間の心の反映である。管理者は一つの手に世界を掌握し、想像力と実践力によって未来を形作る芸術家である。彼らは未来への橋を架け、組織というキャンバスにビジョンを描く。自然界と同様に、管理の領域では流動的で、時には予測不可能な要素が常に存在する。しかし、その不確実性こそが管理をより豊かにし、より尊いものにしている。管理者はこの混沌の中で、無から有を生み出し、人々を共通の目標へと導く道筋を創造する。彼らの指先には現実と理想を結びつける力が宿り、その一挙手一投足が組織の命運を左右する。管理とは単なるスキルではなく、成熟した知性と深い人間理解の結晶である。",
+                "synonyms": [
+                        "Administration",
+                        "Oversight"
+                ],
+                "antonyms": [
+                        "Neglect",
+                        "Mismanagement"
+                ],
+                "aftertaste": "Management is the sublime dance between chaos and order.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "manus",
+                                        "meaning": "hand"
+                                },
+                                {
+                                        "term": "agere",
+                                        "meaning": "to act"
+                                }
+                        ],
+                        "points": [
+                                "「管理」という概念は、ラテン語の「manus（手）」と「agere（動かす）」に由来し、これがフランス語の「ménagement」を経て現在の形に至った。これは、古代から人類がいかに物事を手中に収めて操作してきたかを表すものである。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "16th Century, European Renaissance"
         }
 ];
