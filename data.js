@@ -29078,5 +29078,51 @@ const WORDS = [
                 "source": "Oxford English Dictionary",
                 "date": "2026-03-01",
                 "era": "Late Middle English, from Latin"
+        },
+        {
+                "id": "sprint",
+                "word": "Sprint",
+                "part_of_speech": "noun/verb",
+                "meaning": "短距離を全力で走る行為、またはそのスピード",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "sprint-",
+                                        "type": "root",
+                                        "meaning": "疾走",
+                                        "lang": "Old Norse or Middle Dutch"
+                                }
+                        ],
+                        "original_statement": "The word 'sprint' originates from the Old Norse 'sprinta' or Middle Dutch 'sprenten', meaning to leap or jump."
+                },
+                "core_concept": {
+                        "en": "A fleeting burst of speed, where ambition meets the horizon.",
+                        "ja": "野望が地平線に出会う瞬間の疾風"
+                },
+                "thinking_layer": "スプリントという言葉は、刹那の中に潜む速度の象徴である。それは時間の断面を切り裂き、人間の限界を打ち破ろうとする瞬間のエネルギーで満たされている。物理的な領域を超えて、スプリントは生の一瞬一瞬に宿る可能性を喚起し、時間の流れと対峙する勇敢な試みである。スプリントは夢と現実の狭間で、挑戦の風をまとい闊歩する。時間は静かに経過するが、その瞬間を全速力で駆け抜けることで、私たちは未来をも束縛できない力を手に入れる。同時にそれは、一瞬の煌めきの中で自己を超越するパラドックスを内包している。スプリントの哲学は、無限に続く物語の中で、今という瞬間にある真実の追求である。それは、挑戦と達成が混在するキャンバスの筆先に、生命のエッセンスを刻む行為である。",
+                "synonyms": [
+                        "dash",
+                        "run"
+                ],
+                "antonyms": [
+                        "walk",
+                        "stroll"
+                ],
+                "aftertaste": "In the blink of an eye, destiny is rewritten.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "sprinta",
+                                        "meaning": "to leap or jump"
+                                }
+                        ],
+                        "points": [
+                                "スプリントは、古代の根源から現在に至るまで、人間の疾走に対する欲望の歴史を刻んでいる。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Middle Dutch/Old Norse"
         }
 ];
