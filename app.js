@@ -245,7 +245,7 @@ async function loadReflections(targetId, targetAuthor, wordName) {
                             ${State.isOperator ? `<button onclick="adminDeleteContent('reflection', ${r.id})" title="削除 (Admin)" style="background:none; border:none; cursor:pointer; opacity:0.5; color:red;">🗑️</button>` : ''}
                         </div>
                     </div>
-                    <p style="font-size:1.1rem; line-height: 1.7; margin-bottom: 1.5rem; white-space: pre-wrap; padding-left: 0.5rem; border-left: 3px solid rgba(255,255,255,0.05);">${r.content}</p>
+                    <p style="font-size:1.1rem; line-height: 1.7; margin-bottom: 1.5rem; white-space: pre-wrap; overflow-wrap: break-word; word-break: break-word; padding-left: 0.5rem; border-left: 3px solid rgba(255,255,255,0.05);">${r.content}</p>
                     <div style="display:flex; align-items:center; gap:0.5rem; margin-bottom:1.5rem;">
                         <button id="fl-btn-reflection-${r.id}" onclick="toggleFlourish('reflection', '${r.id}', this, '${r.username}')"
                             style="background:none; border:1px solid var(--color-border); color:var(--color-text-dim); font-size:0.82rem; padding:0.35rem 0.9rem; border-radius:100px; cursor:pointer; transition:all 0.2s; display:flex; align-items:center; gap:4px;">
@@ -731,7 +731,7 @@ function openEssay(id) {
                 </div>
                 <h1 style="font-size:3.5rem; margin:1.5rem 0; line-height:1.1; letter-spacing:-0.03em;">${e.title}</h1>
             </header>
-            <div class="essay-body" style="font-size:1.3rem; line-height:2.1; color:var(--color-text); font-family: 'Inter', sans-serif; white-space: pre-wrap; padding-left: 1rem; border-left: 2px solid rgba(255,255,255,0.03);">${e.content}</div>
+            <div class="essay-body" style="font-size:1.3rem; line-height:2.1; color:var(--color-text); font-family: 'Inter', sans-serif; white-space: pre-wrap; overflow-wrap: break-word; word-break: break-word; padding-left: 1rem; border-left: 2px solid rgba(255,255,255,0.03);">${e.content}</div>
             
             <div style="display:flex; justify-content:center; margin-top:3rem; margin-bottom: 2rem;">
                 <button id="fl-btn-essay-${e.id}" onclick="toggleFlourish('essay', '${e.id}', this, '${e.author || 'etymon_official'}')"
