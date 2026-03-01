@@ -45489,5 +45489,207 @@ const WORDS = [
                 "source": "Oxford English Dictionary",
                 "date": "2026-03-01",
                 "era": "15th Century"
+        },
+        {
+                "id": "reject",
+                "word": "Reject",
+                "part_of_speech": "verb",
+                "meaning": "拒絶する",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "re-",
+                                        "type": "prefix",
+                                        "meaning": "再び、背に/戻す",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "jacere",
+                                        "type": "root",
+                                        "meaning": "投げる",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'reject' comes from the Latin 'reiectus', past participle of 'reicere', which means to throw back or refuse. 'Re-' signifies again or back, while 'jacere' means to throw."
+                },
+                "core_concept": {
+                        "en": "The moment of defiance where the heart stands firm against the unaccepted.",
+                        "ja": "受け入れないものに心が堅く立つ挑戦の瞬間"
+                },
+                "thinking_layer": "拒絶とは、生命の旅路における重要な岐路である。時に、我々は自らの意志に反して遭遇するものを退けることで、内に秘めたる自己を再発見する。拒絶の瞬間は、私たちの心に刻まれたような時であり、存在する価値観とそれに従う決意を試される。人生の流れの中で、拒絶は流れる川に対する石のようなものだ。それは、私たちを立ち止まらせ、選択の瞬間を孕む。我々の意識の深奥に潜む恐れや信念、希望を映し出し、未来を照らす灯火となり得るのだ。この拒絶という行為、否、自ら選び取る過程こそが、我々の存在を明確にし、自己の輪郭を鮮明に浮かび上がらせる。その瞬間には、自己を再定義し、我々が本当に何を求め、何を価値とするかが如実に現れる。美しきも畏怖の念さえ宿すこの瞬間は、何物にも代え難き意義を持ち、我々が進むべき道を指し示してくれるのである。",
+                "synonyms": [
+                        "refuse",
+                        "decline"
+                ],
+                "antonyms": [
+                        "accept",
+                        "embrace"
+                ],
+                "aftertaste": "For every rejection lies the seed of self-discovery.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "jacere",
+                                        "meaning": "to throw"
+                                }
+                        ],
+                        "points": [
+                                "この言葉は、ラテン語の 'reicere' に起源を持ち、時間と共に形を変えて現在の 'reject' として英語に根付いた。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "14th Century"
+        },
+        {
+                "id": "respond",
+                "word": "Respond",
+                "part_of_speech": "verb",
+                "meaning": "対応する、返事をする",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "re-",
+                                        "type": "prefix",
+                                        "meaning": "再び",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "spondere",
+                                        "type": "root",
+                                        "meaning": "約束する",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'respond' originates from the Latin 'respondere', which means 'to promise again', composed of 're-' meaning 'again' and 'spondere' meaning 'to promise'."
+                },
+                "core_concept": {
+                        "en": "The dance of echo between voices.",
+                        "ja": "声と声の間で響く響応の舞"
+                },
+                "thinking_layer": "『応答』という言葉は、声と声の間で繰り広げられる無限の対話を象徴しています。この言葉は、人間の交流の奥深さを反映しています。我々は他者との対話を介して、自己を発見し、互いの存在を確認します。応答は、他者からの問いかけに対する答えであり、同時にその問われること自体が新たな対話の始まりでもあります。それは、音が空間を通過し、返ってくるまでの軌跡を描き出すようなものです。この軌跡は、表面的な意味合いを超えて、対話者同士の関係性の深淵を形作ります。応答の芸術は、単なる言葉のやり取りではなく、心と心の交流として捉えられるべきです。その呼応は、時に静けさをもち、時に激しさを孕む。だが、そのすべてが時の流れに刻み込まれ、我々の存在の証となるのです。応答は、自らの生命に対する問いを繰り返し、世界と自己をつなぐ生命線なのです。",
+                "synonyms": [
+                        "Reply",
+                        "React"
+                ],
+                "antonyms": [
+                        "Ignore",
+                        "Disregard"
+                ],
+                "aftertaste": "An answer is a bridge between silence and understanding.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "spondere",
+                                        "meaning": "to promise"
+                                }
+                        ],
+                        "points": [
+                                "『respond』は、再び応じるという行動を示す。語源学的には、約束するという深い意味が込められており、信頼の再確認としての側面を持っている。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "Late Middle English, 14th Century"
+        },
+        {
+                "id": "aspect",
+                "word": "Aspect",
+                "part_of_speech": "noun",
+                "meaning": "側面、見地",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "ad-",
+                                        "type": "prefix",
+                                        "meaning": "〜へ",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "spectare",
+                                        "type": "root",
+                                        "meaning": "見る",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'aspect' stems from the Latin 'aspectus,' which combines 'ad-' (to, toward) and 'spectare' (to look, see)."
+                },
+                "core_concept": {
+                        "en": "A glimpse into the varied surfaces where reality dances.",
+                        "ja": "現実が舞う様々な面への一瞥"
+                },
+                "thinking_layer": "『アスペクト』という言葉の深層には、見ることの本質が隠されています。見るという行為は、単なる視覚的な活動に留まらず、心の中に広がる宇宙の無数の可能性を照らし出す行為でもあります。一方の景色を眺めることは、その裏に潜む無限の物語を開くことでもあります。『アスペクト』は、外部の世界と内部の認識との関係性を映し出す鏡であり、瞬間的な視覚が永遠の真理を発見する可能性を秘めています。視覚とは、時間と空間の交差点に横たわる無限の空間への扉であり、その中で我々の存在は絶えず新たな形を取るのです。見ることは、内なる目でのみ理解され得る現象であり、その深さはどこまで進んでも尽きることがありません。従って、『アスペクト』は単なる一面の観察ではなく、存在全体を見渡す行為であり、それによって私たちの知覚は拡張され続けます。存在の様々な顔を映し出す『アスペクト』は、見ることの真髄がいかに深いものであるかを示唆しています。",
+                "synonyms": [
+                        "facet",
+                        "viewpoint"
+                ],
+                "antonyms": [
+                        "blind spot",
+                        "ignorance"
+                ],
+                "aftertaste": "Aspect reveals layers of existence through the lens of perception.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "aspectus",
+                                        "meaning": "appearance, vision"
+                                }
+                        ],
+                        "points": [
+                                "『アスペクト』の語源は、視覚と理解が結びつくポイントを示しています。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "14th Century"
+        },
+        {
+                "id": "density",
+                "word": "Density",
+                "part_of_speech": "noun",
+                "meaning": "密度、濃さ",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "densus",
+                                        "type": "root",
+                                        "meaning": "密な、緊密な",
+                                        "lang": "ラテン語"
+                                }
+                        ],
+                        "original_statement": "The word 'density' originates from the Latin 'densitas', which ultimately stems from 'densus', meaning 'thick' or 'crowded'."
+                },
+                "core_concept": {
+                        "en": "The silent whisper of matter's embrace.",
+                        "ja": "物質の抱擁における静かな呟き"
+                },
+                "thinking_layer": "密度とは、我々が目にする物体の根底に潜む真実である。それは単なる物理的な性質に留まらず、存在の本質にまで深く関わる概念である。密度は、宇宙の不可解な永遠の秘密を語る詩であり、目に見えない力の浸透である。物の集まりが生み出す何とも言えない「重み」のようなもの、それは人間の心に落ちる幸福の影のように、確かでありながら触れることのできない理想の形を描き出す。その密度の核には、たゆたうエネルギーがあって、私たちの持つすべての感情は、まるでそれに引き寄せられていくようだ。我々はその密度を通して、自らの存在と宇宙の関係を感じ取ることができる。例えば、星々の密度や水の重み、それは自然の耳にすら囁かれている響きである。密度が示すのは、「ここにあること」の確証でもある。濃さの増し方や希薄さのあるべき変化を通じて、我々は存在の深淵に触れることができる。",
+                "synonyms": [
+                        "thickness",
+                        "concentration"
+                ],
+                "antonyms": [
+                        "vacancy",
+                        "void"
+                ],
+                "aftertaste": "Density is the unseen architecture of the universe.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "densus",
+                                        "meaning": "thick, crowded"
+                                }
+                        ],
+                        "points": [
+                                "密度という概念は、質量と残された空間の理解に深く寄与しており、その語源が示すように『圧縮の芸術』と称される。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "Latin origin"
         }
 ];
