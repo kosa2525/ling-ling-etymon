@@ -1385,27 +1385,83 @@ function downloadWordCard(id) {
     ctx.fill();
     ctx.globalAlpha = 1.0;
 
-    // テキスト描画
+    // --- テキスト折り返し用ヘルパー ---
+    // 指定幅(maxWidth)でテキストを折り返し、複数行描画して、書き終わりのY座標を返す
+    function wrapText(context, text, x, y, maxWidth, lineHeight) {
+        if (!text) return y;
+        const words = text.split(' ');
+        let line = '';
+        let currentY = y;
+
+        for (let n = 0; n < words.length; n++) {
+            const testLine = line + words[n] + ' ';
+            const metrics = context.measureText(testLine);
+            const testWidth = metrics.width;
+            if (testWidth > maxWidth && n > 0) {
+                context.fillText(line, x, currentY);
+                line = words[n] + ' ';
+                currentY += lineHeight;
+            } else {
+                line = testLine;
+            }
+        }
+        context.fillText(line, x, currentY);
+        return currentY + lineHeight;
+    }
+
+    // 日本語/英語混在対応の1文字ずつ折り返す版 (主に意味や余韻用)
+    function wrapTextChar(context, text, x, y, maxWidth, lineHeight) {
+        if (!text) return y;
+        let line = '';
+        let currentY = y;
+
+        for (let n = 0; n < text.length; n++) {
+            const testLine = line + text[n];
+            const metrics = context.measureText(testLine);
+            const testWidth = metrics.width;
+            if (testWidth > maxWidth && n > 0) {
+                context.fillText(line, x, currentY);
+                line = text[n];
+                currentY += lineHeight;
+            } else {
+                line = testLine;
+            }
+        }
+        context.fillText(line, x, currentY);
+        return currentY + lineHeight;
+    }
+
+    // ヘッダーテキスト
     ctx.fillStyle = '#60a5fa';
     ctx.font = 'bold 30px "Inter"';
     ctx.fillText('ling-ling-etymon', 80, 100);
 
+    const maxWidth = 1040; // 1200 - 80*2
+    let currentY = 220;
+
+    // 見出し (Word)
     ctx.fillStyle = '#ffffff';
-    ctx.font = 'bold 120px "Inter"';
-    ctx.fillText(word.word, 80, 240);
+    ctx.font = 'bold 100px "Inter"';
+    currentY = wrapText(ctx, word.word, 80, currentY, maxWidth, 110);
 
+    // 品詞
+    currentY += 10;
     ctx.fillStyle = '#60a5fa';
-    ctx.font = 'italic 40px "Inter"';
-    ctx.fillText(word.part_of_speech || '', 80, 300);
+    ctx.font = 'italic 36px "Inter"';
+    ctx.fillText(word.part_of_speech || '', 80, currentY);
+    currentY += 70;
 
+    // 意味 (Meaning)
     ctx.fillStyle = '#f1f5f9';
-    ctx.font = '500 60px "Noto Sans JP"';
-    ctx.fillText(word.meaning || '', 80, 400);
+    ctx.font = '500 48px "Noto Sans JP", sans-serif';
+    currentY = wrapTextChar(ctx, word.meaning || '', 80, currentY, maxWidth, 64);
 
+    // 余韻 (Resonance)
+    currentY += 30; // 隙間
     ctx.fillStyle = 'rgba(241, 245, 249, 0.6)';
     ctx.font = 'italic 32px "Times New Roman"';
     const resonance = word.aftertaste || '';
-    ctx.fillText(resonance, 80, 520);
+    wrapTextChar(ctx, resonance, 80, currentY, maxWidth, 44);
 
     // ダウンロード実行
     const link = document.createElement('a');
