@@ -20174,6 +20174,54 @@ const WORDS = [
                 "era": "16th Century Latin"
         },
         {
+                "id": "emaciated",
+                "word": "Emaciated",
+                "part_of_speech": "adjective",
+                "meaning": "やつれた、痩せこけた",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "ex-",
+                                        "type": "prefix",
+                                        "meaning": "out / thoroughly"
+                                },
+                                {
+                                        "text": "macies",
+                                        "type": "root",
+                                        "meaning": "leanness / thinness"
+                                }
+                        ],
+                        "original_statement": "From Latin emaciatus, from emaciare 'to make lean', from ex- 'out' + macies 'leanness'."
+                },
+                "core_concept": {
+                        "en": "Thoroughly leanness",
+                        "ja": "肉体が極限まで削ぎ落とされ、骨の輪郭が「外（ex）」へ浮き上がる"
+                },
+                "thinking_layer": "単に「痩せている」のではなく、生命を維持するための蓄えが「外（ex）」へ使い果たされた状態です。それは飢えや病の結果であり、皮一枚の下に剥き出しの生が震えているような、痛々しいまでの薄さです。",
+                "synonyms": [
+                        "gaunt",
+                        "skeletal"
+                ],
+                "antonyms": [
+                        "plump",
+                        "robust"
+                ],
+                "aftertaste": "削ぎ落とされた、生の最後の残滓",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "macer",
+                                        "meaning": "lean"
+                                }
+                        ],
+                        "points": [
+                                "meager（乏しい）やmacaron（マカロン＝薄い生地）とも遠く繋がっています。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "17th Century Latin"
+        },
+        {
                 "id": "emanation",
                 "word": "Emanation",
                 "author": "etymon_official",
@@ -20229,7 +20277,7 @@ const WORDS = [
                                 {
                                         "text": "ex-",
                                         "type": "prefix",
-                                        "meaning": "out / away"
+                                        "meaning": "out"
                                 },
                                 {
                                         "text": "manus",
@@ -20242,22 +20290,22 @@ const WORDS = [
                                         "meaning": "to take"
                                 }
                         ],
-                        "original_statement": "From Latin emancipatus, from emancipare 'release from the hand of the father or owner'."
+                        "original_statement": "From Latin emancipatus, from emancipare 'to release from the hand of the owner', from ex- 'out' + mancipum 'ownership'."
                 },
                 "core_concept": {
-                        "en": "Out of the hand's grip",
-                        "ja": "誰かの掌（てのひら）から、自分の命を取り戻す"
+                        "en": "Out of the hand's grasp",
+                        "ja": "支配者の「手（manus）」に掴まれていた状態から、外へ解き放つ"
                 },
-                "thinking_layer": "解放とは、支配者の「手（manus）」から離れることです。握りしめられていた自由を、力強く引き剥がす（take out）こと。あなたの運命を他者の掌から奪還する、勇気ある別離の言葉です。",
+                "thinking_layer": "支配とは、誰かの「手の中（mancipium）」にあることです。解放とは、その握りしめられた指を一本ずつ開き、他者の所有物から「外（ex）」へ踏み出させる、厳かな権利の移譲なのです。",
                 "synonyms": [
                         "liberate",
-                        "release"
+                        "free"
                 ],
                 "antonyms": [
                         "enslave",
                         "shackle"
                 ],
-                "aftertaste": "握りしめられた手からの離脱",
+                "aftertaste": "手首に残っていた、握られた痕跡の消失",
                 "deep_dive": {
                         "roots": [
                                 {
@@ -20270,7 +20318,7 @@ const WORDS = [
                                 }
                         ],
                         "points": [
-                                "manuscript（原稿＝手書き）やcapture（捕らえる）と同じ要素で構成されています。"
+                                "manuscript（手書き原稿）やcapture（捕らえる）と同門。手放すことの重みです。"
                         ]
                 },
                 "source": "etymon Philologist Mode",
@@ -20338,7 +20386,7 @@ const WORDS = [
                 "id": "embark",
                 "word": "Embark",
                 "part_of_speech": "verb",
-                "meaning": "乗船する、着手する、船出する",
+                "meaning": "乗船する、着手する",
                 "etymology": {
                         "breakdown": [
                                 {
@@ -20347,36 +20395,36 @@ const WORDS = [
                                         "meaning": "in / into"
                                 },
                                 {
-                                        "text": "barque",
+                                        "text": "barca",
                                         "type": "root",
-                                        "meaning": "small ship"
+                                        "meaning": "small boat"
                                 }
                         ],
-                        "original_statement": "From French embarquer, from em- 'in' + barque 'bark, small ship'."
+                        "original_statement": "From French embarquer, from em- 'into' + barque 'bark, ship'."
                 },
                 "core_concept": {
-                        "en": "To enter a boat",
-                        "ja": "小さな舟に身を預け、境界を越えて漕ぎ出す"
+                        "en": "Into the bark (boat)",
+                        "ja": "確かな地面を離れ、一艘の「小舟（barque）」へと身を投じる"
                 },
-                "thinking_layer": "新しいことを始めることは、陸地（既知）を離れて「舟（barque）」に乗ることです。一度足を浮かせれば、もう戻ることはできません。不安と期待の入り混じる、最初の揺らぎがそこにあります。",
+                "thinking_layer": "新しい旅の始まりは、揺れる小舟への一歩です。そこはもはや自分の力だけでは制御できない、大海原という不確実性の「中（en）」へ入り込むこと。冒険とは、境界線を越えて舟に乗る勇気そのものです。",
                 "synonyms": [
-                        "commence",
-                        "start"
+                        "board",
+                        "commence"
                 ],
                 "antonyms": [
                         "disembark",
                         "finish"
                 ],
-                "aftertaste": "陸を離れる瞬間の、かすかな揺れ",
+                "aftertaste": "桟橋を離れる、一筋の水の音",
                 "deep_dive": {
                         "roots": [
                                 {
-                                        "term": "barque",
+                                        "term": "barca",
                                         "meaning": "boat"
                                 }
                         ],
                         "points": [
-                                "barge（平底船）なども同じ起源の言葉です。"
+                                "bark（小型帆船）やbarge（平底船）と同じルーツ。木の皮で作られた原始的な舟が原点です。"
                         ]
                 },
                 "source": "etymon Philologist Mode",
@@ -20435,6 +20483,199 @@ const WORDS = [
                 "era": "16th Century"
         },
         {
+                "id": "embellish",
+                "word": "Embellish",
+                "part_of_speech": "verb",
+                "meaning": "飾る、美しくする、話を盛る",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "en-",
+                                        "type": "prefix",
+                                        "meaning": "make"
+                                },
+                                {
+                                        "text": "bel",
+                                        "type": "root",
+                                        "meaning": "beautiful"
+                                }
+                        ],
+                        "original_statement": "From Old French embelliss-, from embellir, from en- 'make' + bel 'beautiful'."
+                },
+                "core_concept": {
+                        "en": "To make beautiful",
+                        "ja": "ありふれた事実に、色とりどりの装飾を施して輝かせる"
+                },
+                "thinking_layer": "単なる嘘ではなく、世界を「美しく（bel）」したいという欲望の現れです。言葉の隙間に花を植え、退屈な現実に宝石を散りばめる。美しく装うことは、現実に対するささやかな抵抗でもあります。",
+                "synonyms": [
+                        "adorn",
+                        "decorate"
+                ],
+                "antonyms": [
+                        "simplify",
+                        "mar"
+                ],
+                "aftertaste": "過剰なまでに磨かれた、虚実の輝き",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "bel",
+                                        "meaning": "beauty"
+                                }
+                        ],
+                        "points": [
+                                "belle（美しい女性）やbeautyと同根。飾ることで「価値を上げる」行為です。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "14th Century Old French"
+        },
+        {
+                "id": "embody",
+                "word": "Embody",
+                "part_of_speech": "verb",
+                "meaning": "具体化する、具現する、体現する",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "en-",
+                                        "type": "prefix",
+                                        "meaning": "put into"
+                                },
+                                {
+                                        "text": "body",
+                                        "type": "root",
+                                        "meaning": "flesh / structure"
+                                }
+                        ],
+                        "original_statement": "From em- 'into' + body."
+                },
+                "core_concept": {
+                        "en": "Put into a body",
+                        "ja": "実体のない「思想」を、血の通った「肉体（body）」の中へ閉じ込める"
+                },
+                "thinking_layer": "抽象的な美学や正義が、一人の人間の行動や一つの作品となってこの世に現れること。それは幽霊が肉体を得るような、奇跡的な降臨です。思想が重力を持ち、触れられる形になるプロセスです。",
+                "synonyms": [
+                        "incarnate",
+                        "personify"
+                ],
+                "antonyms": [
+                        "disembody",
+                        "abstract"
+                ],
+                "aftertaste": "意志が肉を持って動き出す、静かな拍動",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "body",
+                                        "meaning": "physical form"
+                                }
+                        ],
+                        "points": [
+                                "もとは中世の神学的な文脈から生まれた、魂と肉体の結合の言葉です。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "16th Century Middle English"
+        },
+        {
+                "id": "embrace",
+                "word": "Embrace",
+                "part_of_speech": "verb/noun",
+                "meaning": "抱きしめる、受け入れる、包含する",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "en-",
+                                        "type": "prefix",
+                                        "meaning": "in / into"
+                                },
+                                {
+                                        "text": "brace",
+                                        "type": "root",
+                                        "meaning": "arm"
+                                }
+                        ],
+                        "original_statement": "From Old French embracer, from en- 'in' + brace 'arm'."
+                },
+                "core_concept": {
+                        "en": "In the arms",
+                        "ja": "両の「腕（brace）」を回し、すべてを慈しみの内側へと囲い込む"
+                },
+                "thinking_layer": "「抱く」とは、相手を自分の境界線の「中（en）」へ招き入れることです。腕で作る円は、最も小さく、最も温かい聖域。そこでは差異は消え、ただ一つの鼓動が共有されます。",
+                "synonyms": [
+                        "hug",
+                        "clasp",
+                        "adopt"
+                ],
+                "antonyms": [
+                        "reject",
+                        "exclude"
+                ],
+                "aftertaste": "二つの腕が作る、閉じた完璧な円",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "brace",
+                                        "meaning": "arm"
+                                }
+                        ],
+                        "points": [
+                                "bracelet（ブレスレット）やbrace（支柱＝支える腕）と同じく「腕」の象徴です。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "14th Century Old French"
+        },
+        {
+                "id": "emerge",
+                "word": "Emerge",
+                "part_of_speech": "verb",
+                "meaning": "現れる、浮上する、脱出する",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "ex-",
+                                        "type": "prefix",
+                                        "meaning": "out"
+                                },
+                                {
+                                        "text": "mergere",
+                                        "type": "root",
+                                        "meaning": "to dip / to sink"
+                                }
+                        ],
+                        "original_statement": "From Latin emergere 'to rise out or up', from ex- 'out' + mergere 'to dip, sink'."
+                },
+                "core_concept": {
+                        "en": "Rising out of the water",
+                        "ja": "深く沈んでいた闇の底から、水面を割って外へ躍り出る"
+                },
+                "thinking_layer": "「現れる」とは、どこかから「湧き上がること」です。それまで見えなかった深い層（merge）から、光のある「外（ex）」へと立ち上がる。それは単なる出現ではなく、克服と再生を伴う運動です。",
+                "synonyms": [
+                        "appear",
+                        "arise"
+                ],
+                "antonyms": [
+                        "submerge",
+                        "sink"
+                ],
+                "aftertaste": "水しぶきを上げた瞬間の、鮮烈な誕生",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "mergere",
+                                        "meaning": "dip"
+                                }
+                        ],
+                        "points": [
+                                "merge（合併する＝沈み込ませる）やimmersion（没入）と同じ「浸る」動作の反対形です。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "16th Century Latin"
+        },
+        {
                 "id": "emergency",
                 "word": "Emergency",
                 "part_of_speech": "noun",
@@ -20486,7 +20727,7 @@ const WORDS = [
                 "id": "eminent",
                 "word": "Eminent",
                 "part_of_speech": "adjective",
-                "meaning": "著名な、卓越した、抜きん出た",
+                "meaning": "著名な、優れた、高くそびえる",
                 "etymology": {
                         "breakdown": [
                                 {
@@ -20500,31 +20741,31 @@ const WORDS = [
                                         "meaning": "to jut / to project"
                                 }
                         ],
-                        "original_statement": "From Latin eminentem 'standing out, projecting', from ex- 'out' + minere 'to jut'."
+                        "original_statement": "From Latin eminentem 'standing out, lofty', from eminere 'to stand out, project', from ex- 'out' + minere 'to jut'."
                 },
                 "core_concept": {
                         "en": "Jutting out",
-                        "ja": "平坦な群衆の中で、山脈のように高く突き出る"
+                        "ja": "平坦な地平から一箇所だけ「外（ex）」へ突き出し、高くそびえ立つ"
                 },
-                "thinking_layer": "卓越した存在は、隠そうとしても「突き出て（jut out）」しまいます。それは意図的な自慢ではなく、圧倒的な存在感が周囲の風景を塗り替え、自ずと高みに達している状態です。",
+                "thinking_layer": "著名であることは、垂直の運動です。他と同じ高さに安住せず、天に向かって「突き出す（jut out）」。その突出した高さが、遠くからでも見える目印（名声）となります。",
                 "synonyms": [
-                        "distinguished",
-                        "prominent"
+                        "prominent",
+                        "distinguished"
                 ],
                 "antonyms": [
                         "obscure",
                         "ordinary"
                 ],
-                "aftertaste": "隠しきれない高貴な峰",
+                "aftertaste": "空を突くような、孤高の突端",
                 "deep_dive": {
                         "roots": [
                                 {
                                         "term": "minere",
-                                        "meaning": "project"
+                                        "meaning": "jut"
                                 }
                         ],
                         "points": [
-                                "mountain（山）やimminent（差し迫った＝頭上に張り出した）と同根です。"
+                                "prominent（突出した）やimminent（差し迫った＝頭上に突き出している）と同門です。"
                         ]
                 },
                 "source": "etymon Philologist Mode",
@@ -20534,47 +20775,49 @@ const WORDS = [
                 "id": "emit",
                 "word": "Emit",
                 "part_of_speech": "verb",
-                "meaning": "放出する、発する",
-                "author": "etymon_official",
+                "meaning": "放つ、出す、発行する",
                 "etymology": {
                         "breakdown": [
                                 {
-                                        "text": "ex-/mite-",
-                                        "type": "prefix/root",
-                                        "meaning": "送り出す",
-                                        "lang": "Latin"
+                                        "text": "ex-",
+                                        "type": "prefix",
+                                        "meaning": "out"
+                                },
+                                {
+                                        "text": "mittere",
+                                        "type": "root",
+                                        "meaning": "to send"
                                 }
                         ],
-                        "original_statement": "Derived from Latin 'emittere', composed of 'ex-' meaning 'out' and 'mittere' meaning 'send'."
+                        "original_statement": "From Latin emittere 'to send forth, let go', from ex- 'out' + mittere 'to send'."
                 },
                 "core_concept": {
-                        "en": "The graceful release of hidden potential, a gentle dispersal into the universe.",
-                        "ja": "隠された可能性を優雅に放ち、宇宙に柔らかく拡散すること。"
+                        "en": "To send out",
+                        "ja": "内側に秘めた光や熱を、使命を帯びさせて「外（ex）」へ送り出す"
                 },
-                "thinking_layer": "輝きを内に秘めたものが、無限へと放たれる様。光、声、または感情が、その持つ力を解き放つ時、それは瞬間的でありながらも永続的な影響を与える。物事の存在がその内に抱える潜在的なエネルギーは、ただそのままであることでは始まらない。放出とは、形や状態を超越し、形而上的な次元へと到達する行為である。この行為は、人間の想像力を掻き立て、新たな現実を構築する源となる。放出されるものは、自らの起源を離れ、未知の可能性を切り拓く旅路に出る。それはまた、個々のあり方が集合的無意識に合流する瞬間でもある。放出に関わる行為は、始まりと終わりの境界を曖昧にし、永遠と瞬間を繋ぐ時間を創造するのである。",
+                "thinking_layer": "単に「出る」のではなく、意図を持って「送り出す（send）」感覚です。放射される光、漏れ出す音。それらはすべて、源（ソース）から放たれた使者（messenger）として世界へ旅立ちます。",
                 "synonyms": [
-                        "Radiate",
-                        "Discharge"
+                        "radiate",
+                        "release"
                 ],
                 "antonyms": [
-                        "Absorb",
-                        "Contain"
+                        "absorb",
+                        "retain"
                 ],
-                "aftertaste": "To emit is to connect the inner universe with the boundless outer one.",
+                "aftertaste": "放たれた光子の、震えるような直進",
                 "deep_dive": {
                         "roots": [
                                 {
                                         "term": "mittere",
-                                        "meaning": "to send"
+                                        "meaning": "send"
                                 }
                         ],
                         "points": [
-                                "放出という行為は、一方向的であるが、受け取られる側の存在も影響を受ける。放たれたものは広がり、やがて新しいアイデンティティを形成する。"
+                                "mission（任務）やdismiss（解散＝バラバラに送る）と同じ「送る」エネルギーです。"
                         ]
                 },
-                "source": "Online Etymology Dictionary",
-                "date": "2026-03-01",
-                "era": "Classical Latin"
+                "source": "etymon Philologist Mode",
+                "era": "17th Century Latin"
         },
         {
                 "id": "emotion",
@@ -20594,22 +20837,22 @@ const WORDS = [
                                         "meaning": "to move"
                                 }
                         ],
-                        "original_statement": "From Latin ex- 'out' + movere 'move'."
+                        "original_statement": "From French émotion, from emouvoir 'to stir up', from Latin emovere 'to move out, agitate, remove'."
                 },
                 "core_concept": {
                         "en": "Moving out",
-                        "ja": "内なるものが、外へと動き出すエネルギー"
+                        "ja": "静かな魂の湖を掻き回し、内側から激しく「外（ex）」へ揺さぶり出す"
                 },
-                "thinking_layer": "感情とは、じっとしているものではありません。それは常に内側から「外へと（ex）」私たちを「動かす（movere）」力です。感情が揺れ動くとき、私たちは自らの殻を破り、新しい場所へと運ばれます。",
+                "thinking_layer": "感情の本質は「静止できないこと」です。それはあなたの内側を「突き動かす（move out）」激しい潮流であり、じっとしていられなくなった魂が、涙や叫びとなって外へ溢れ出す瞬間の震えなのです。",
                 "synonyms": [
                         "feeling",
                         "passion"
                 ],
                 "antonyms": [
                         "apathy",
-                        "immobility"
+                        "calm"
                 ],
-                "aftertaste": "静寂を突き動かす、生の衝動",
+                "aftertaste": "揺さぶられた後に残る、震える残響",
                 "deep_dive": {
                         "roots": [
                                 {
@@ -20618,11 +20861,11 @@ const WORDS = [
                                 }
                         ],
                         "points": [
-                                "motion, motive, motor とも兄弟の関係にあります。"
+                                "move（動く）やmotivation（動機）と同根。感情は「人を動かす力」そのものです。"
                         ]
                 },
-                "source": "etymon philologist mode",
-                "era": "16th Century French"
+                "source": "etymon Philologist Mode",
+                "era": "16th Century French / Latin"
         },
         {
                 "id": "empathy",
@@ -20642,35 +20885,83 @@ const WORDS = [
                                         "meaning": "feeling / suffering"
                                 }
                         ],
-                        "original_statement": "Coined by Edward Titchener to translate German Einfühlung, from en- 'in' + pathos 'feeling'."
+                        "original_statement": "From Greek empatheia, from en- 'in' + pathos 'feeling'."
                 },
                 "core_concept": {
-                        "en": "Feeling into",
-                        "ja": "他者の苦しみの中に、自らの魂をそっと忍び込ませる"
+                        "en": "Feeling into another",
+                        "ja": "他者の「苦しみ（pathos）」の内側へと、自らの魂を潜り込ませる"
                 },
-                "thinking_layer": "共感とは、外から眺める（sympathy）のではなく、相手の感情の「中（en）」へ入り込み、共に震えることです。境界を溶かし、他者の痛みを自分のものとして引き受ける、静かな愛の技術です。",
+                "thinking_layer": "単に外から同情（sympathy）するのではなく、相手の感情の「中（en）」に入り込み、その痛みを自分のものとして味わうこと。それは、自己と他者の境界線を溶かし、一つの震えを共有する、静かなる魂の越境です。",
                 "synonyms": [
-                        "compassion",
-                        "understanding"
+                        "understanding",
+                        "compassion"
                 ],
                 "antonyms": [
                         "apathy",
                         "indifference"
                 ],
-                "aftertaste": "二つの心が重なる場所",
+                "aftertaste": "重なり合う二つの鼓動、静かなる理解",
                 "deep_dive": {
                         "roots": [
                                 {
                                         "term": "pathos",
-                                        "meaning": "suffering"
+                                        "meaning": "feeling"
                                 }
                         ],
                         "points": [
-                                "pathology（病理学）やsympathy（同情）と同じ、人間の「震え」の言葉です。"
+                                "pathetic（哀れな）やantipathy（反感＝反対の感情）と同じく、心の「震え」を象徴します。"
                         ]
                 },
                 "source": "etymon Philologist Mode",
                 "era": "20th Century Greek origin"
+        },
+        {
+                "id": "emphasize",
+                "word": "Emphasize",
+                "part_of_speech": "verb",
+                "meaning": "強調する、重視する",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "en-",
+                                        "type": "prefix",
+                                        "meaning": "in"
+                                },
+                                {
+                                        "text": "phainein",
+                                        "type": "root",
+                                        "meaning": "to show / to appear"
+                                }
+                        ],
+                        "original_statement": "From Greek emphasis 'appearance, significance', from en- 'in' + phainein 'to show'."
+                },
+                "core_concept": {
+                        "en": "To make appear in light",
+                        "ja": "闇の中に沈んでいた存在に、光を当てて「外（en）」へ浮かび上がらせる"
+                },
+                "thinking_layer": "強調とは、特定の場所にスポットライトを当てることです。全体の中に埋もれていた「意味」に光を注ぎ、他者の視線をそこへ釘付けにする。それは、世界の見え方をと言葉によって書き換える、光の演出です。",
+                "synonyms": [
+                        "stress",
+                        "highlight"
+                ],
+                "antonyms": [
+                        "understate",
+                        "ignore"
+                ],
+                "aftertaste": "光の円に切り取られた、鮮烈な焦点",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "phainein",
+                                        "meaning": "show"
+                                }
+                        ],
+                        "points": [
+                                "phantom（幽霊＝現れるもの）やphenomenon（現象）と同じく、「目に見えるようになる」ことが本質です。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "16th Century Greek / Latin"
         },
         {
                 "id": "empire",
@@ -20716,6 +21007,192 @@ const WORDS = [
                 },
                 "source": "etymon Philologist Mode",
                 "era": "13th Century Old French / Latin"
+        },
+        {
+                "id": "empirical",
+                "word": "Empirical",
+                "part_of_speech": "adjective",
+                "meaning": "経験的な、実証的な",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "en-",
+                                        "type": "prefix",
+                                        "meaning": "in"
+                                },
+                                {
+                                        "text": "peira",
+                                        "type": "root",
+                                        "meaning": "trial / experiment"
+                                }
+                        ],
+                        "original_statement": "From Greek empeirikos 'experienced', from en- 'in' + peira 'trial, experiment'."
+                },
+                "core_concept": {
+                        "en": "In the trial",
+                        "ja": "理屈の空の上ではなく、泥臭い「試練（trial）」のただ中で掴み取った真実"
+                },
+                "thinking_layer": "机上の空論を排し、自らの手で触れ、目で見た事実だけを信じる姿勢です。何度も繰り返される「実験（peira）」という炎をくぐり抜け、最後に残った確かな手応え。それが実証的な知の重みです。",
+                "synonyms": [
+                        "practical",
+                        "observed"
+                ],
+                "antonyms": [
+                        "theoretical",
+                        "hypal"
+                ],
+                "aftertaste": "何度も繰り返された、実験の煤と確信",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "peira",
+                                        "meaning": "try"
+                                }
+                        ],
+                        "points": [
+                                "pirate（海賊＝試みる者）と同根。かつて知識は、海を渡るような危険な試みでした。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "16th Century Greek / Latin"
+        },
+        {
+                "id": "employ",
+                "word": "Employ",
+                "part_of_speech": "verb",
+                "meaning": "雇う、用いる",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "en-",
+                                        "type": "prefix",
+                                        "meaning": "in"
+                                },
+                                {
+                                        "text": "plicare",
+                                        "type": "root",
+                                        "meaning": "to fold / to weave"
+                                }
+                        ],
+                        "original_statement": "From Old French emploier, from Latin implicare 'enfold, involve, be connected with', from en- 'in' + plicare 'to fold'."
+                },
+                "core_concept": {
+                        "en": "To fold into use",
+                        "ja": "バラバラだった個人の力を、組織という大きな布の中に「織り込む（fold in）」"
+                },
+                "thinking_layer": "「雇う」とは、ある人の時間と才能を、自分の目的という模様の一部として「織り重ねる（in-fold）」ことです。それは、孤立していた存在が、一つの大きな絡み合い（implicate）の一部になるという契約の儀式です。",
+                "synonyms": [
+                        "hire",
+                        "utilize"
+                ],
+                "antonyms": [
+                        "dismiss",
+                        "fire"
+                ],
+                "aftertaste": "複雑な織物の一部となった、個の糸",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "plicare",
+                                        "meaning": "fold"
+                                }
+                        ],
+                        "points": [
+                                "complex（複雑な＝共に折られた）やimply（暗示する＝内に包む）と同門の「折り」の言葉です。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "15th Century Old French / Latin"
+        },
+        {
+                "id": "empty",
+                "word": "Empty",
+                "part_of_speech": "adjective/verb",
+                "meaning": "空の、中身のない、空にする",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "æmettig",
+                                        "type": "root",
+                                        "meaning": "at leisure / unoccupied"
+                                }
+                        ],
+                        "original_statement": "From Old English æmettig 'unoccupied, at leisure, empty'."
+                },
+                "core_concept": {
+                        "en": "Being at leisure",
+                        "ja": "なすべき役割を終え、今はただ「暇（leisure）」な状態で佇んでいる器"
+                },
+                "thinking_layer": "「空っぽ」の原義は、忙しなさからの解放、つまり「自由な時間（æmetta）」でした。何も入っていないことは、不足ではなく、次が訪れるまでの幸福な「空白」です。可能性を待つ、静かな休息の状態を指します。",
+                "synonyms": [
+                        "vacant",
+                        "void"
+                ],
+                "antonyms": [
+                        "full",
+                        "occupied"
+                ],
+                "aftertaste": "音のない、澄み渡った空間の広がり",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "text": "æ",
+                                        "meaning": "not"
+                                },
+                                {
+                                        "text": "metta",
+                                        "meaning": "occupied / busy"
+                                }
+                        ],
+                        "points": [
+                                "もとは「未婚の」や「仕事がない」という、拘束されない状態を祝う言葉でもありました。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "Old English"
+        },
+        {
+                "id": "emulate",
+                "word": "Emulate",
+                "part_of_speech": "verb",
+                "meaning": "見習う、競う、模倣する",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "aemulus",
+                                        "type": "root",
+                                        "meaning": "rivaling / vying"
+                                }
+                        ],
+                        "original_statement": "From Latin aemulatus, from aemulari 'to rival, strive to equal', from aemulus 'rivaling'."
+                },
+                "core_concept": {
+                        "en": "To strive to equal",
+                        "ja": "憧れの背中を見つめ、いつかその「ライバル（rival）」として並ぶことを誓う"
+                },
+                "thinking_layer": "単なるコピー（copy）ではありません。そこには、尊敬する相手に追いつき、追い越したいという熱い「闘争心」が宿っています。模倣とは、高みへと自分を鍛え上げるための、最も真摯な挑戦状なのです。",
+                "synonyms": [
+                        "imitate",
+                        "rival"
+                ],
+                "antonyms": [
+                        "neglect",
+                        "scorn"
+                ],
+                "aftertaste": "遠い背中を追う、必死の足跡",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "aemulus",
+                                        "meaning": "rival"
+                                }
+                        ],
+                        "points": [
+                                "imitate（模倣する）と同じ「似せる」という根を持っていますが、より野心的な響きがあります。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "16th Century Latin"
         },
         {
                 "id": "enantiodromia",
@@ -20847,22 +21324,22 @@ const WORDS = [
                                         "meaning": "to sing"
                                 }
                         ],
-                        "original_statement": "From Old French enchanter, from Latin incantare 'to chant a magic spell', from in- 'in' + cantare 'to sing'."
+                        "original_statement": "From Old French enchanter, from Latin incantare 'to sing a magic spell over', from en- 'in' + cantare 'to sing'."
                 },
                 "core_concept": {
-                        "en": "To sing into",
-                        "ja": "誰かの心へ向けて、不思議な歌を歌いかける"
+                        "en": "In the song",
+                        "ja": "魔法の「歌（chant）」の調べに包まれ、別世界へと引き込まれる"
                 },
-                "thinking_layer": "魅了されるとは、誰かの「歌（chant）」の中に閉じ込められることです。論理を越えた旋律が耳から入り込み、世界を色鮮やかに、あるいは幻想的に塗り替えてしまう。言葉が旋律となった時の魔力です。",
+                "thinking_layer": "魅力とは、抗えない「歌」の力です。その音色が耳の奥へと入り込み（en）、思考の自由を奪い去る。私たちは言葉のメロディによって、現実の重力から解き放たれ、甘美な麻痺の中に堕ちていきます。",
                 "synonyms": [
-                        "bewitch",
-                        "captivate"
+                        "captivate",
+                        "fascinate"
                 ],
                 "antonyms": [
                         "repel",
                         "disenchant"
                 ],
-                "aftertaste": "耳元で囁かれる永遠の旋律",
+                "aftertaste": "醒めることのない、心地よい歌の残響",
                 "deep_dive": {
                         "roots": [
                                 {
@@ -20871,7 +21348,7 @@ const WORDS = [
                                 }
                         ],
                         "points": [
-                                "accent（アクセント）やchant（詠唱）もこの「歌」に関連します。"
+                                "chant（唱える）やaccent（アクセント＝歌に合わせた強弱）と同根の「音楽的」な言葉です。"
                         ]
                 },
                 "source": "etymon Philologist Mode",
@@ -20881,58 +21358,193 @@ const WORDS = [
                 "id": "encourage",
                 "word": "Encourage",
                 "part_of_speech": "verb",
-                "meaning": "勇気を与える、促す",
-                "author": "etymon_official",
+                "meaning": "励ます、勇気づける",
                 "etymology": {
                         "breakdown": [
                                 {
                                         "text": "en-",
                                         "type": "prefix",
-                                        "meaning": "～に力を与える",
-                                        "lang": "Middle French"
+                                        "meaning": "in / make"
                                 },
                                 {
-                                        "text": "corage",
+                                        "text": "cor",
                                         "type": "root",
-                                        "meaning": "心、勇気",
-                                        "lang": "Old French"
+                                        "meaning": "heart"
                                 }
                         ],
-                        "original_statement": "Derived from the Old French word 'encoragier', meaning to 'in hearten,' originating from 'corage'."
+                        "original_statement": "From Old French encouragier, from en- 'in' + corage 'courage, heart'."
                 },
                 "core_concept": {
-                        "en": "To breathe spirit into the heart of another.",
-                        "ja": "他者の心に魂を吹き込むこと"
+                        "en": "Put heart into",
+                        "ja": "萎えかけた相手の胸の内に、新たな「心臓（heart）」を注ぎ込む"
                 },
-                "thinking_layer": "「encourage」という言葉は、他者の心に内なる勇気を呼び覚ますことを意味します。これはまるで静まった湖に小石を投げ入れ、その波紋が次第に広がり、全体を影響する様相に似ています。励ましは目には見えぬけれども、心の奥底に火を灯し、その炎が燃え上がることで人を動かし続けます。それはただの支えではなく、人がその存在の奥深くに潜む可能性を解き放つ呼びかけでもあるのです。この行為は、我々がどれだけ他者とつながっているのかを証明する証でもあり、ひいては人間という存在そのものがいかに互いに影響を与え合い、相互に発展していくかを示しています。励ましの力は、時に言葉を超えて行動そのものとなり、目に見えぬ糸で我々を未来へと導く羅針盤のような存在に成り得るのです。",
+                "thinking_layer": "励ましとは、命の源である「心（cor）」を分け与える行為です。空っぽになった相手の器に、自分の持つ熱と勇気を注ぎ込み、再びその鼓動を力強く打ち鳴らさせる。それは、魂の輸血のような作業です。",
                 "synonyms": [
-                        "Embolden",
-                        "Inspire"
+                        "inspire",
+                        "hearten"
                 ],
                 "antonyms": [
-                        "Discourage",
-                        "Dissuade"
+                        "discourage",
+                        "dishearten"
                 ],
-                "aftertaste": "Encouragement is the silent guide behind every brave step.",
+                "aftertaste": "胸の奥で再び灯る、小さな火の温もり",
                 "deep_dive": {
                         "roots": [
                                 {
-                                        "term": "corage",
-                                        "meaning": "heart, spirit"
-                                },
-                                {
-                                        "term": "en-",
-                                        "meaning": "in, into"
+                                        "term": "cor",
+                                        "meaning": "heart"
                                 }
                         ],
                         "points": [
-                                "「encourage」は心と行動との深い結びつきを表し、単なる感情の表現を超えた力である。",
-                                "他者の勇気を呼び醒まし、目的に向かって歩む力を与えるプロセスを示す。"
+                                "core（核心）やcordial（心からの）と同じく、中心にある「心臓」を指します。"
                         ]
                 },
-                "source": "Oxford English Dictionary",
-                "date": "2026-03-01",
-                "era": "Late Middle Ages (14th Century)"
+                "source": "etymon Philologist Mode",
+                "era": "14th Century Old French"
+        },
+        {
+                "id": "encroach",
+                "word": "Encroach",
+                "part_of_speech": "verb",
+                "meaning": "（じわじわと）侵入する、侵害する",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "en-",
+                                        "type": "prefix",
+                                        "meaning": "in"
+                                },
+                                {
+                                        "text": "croc",
+                                        "type": "root",
+                                        "meaning": "hook"
+                                }
+                        ],
+                        "original_statement": "From Old French encrochier 'seize, fasten upon', from en- 'in' + croc 'hook'."
+                },
+                "core_concept": {
+                        "en": "To catch with a hook",
+                        "ja": "鋭い「鉤爪（hook）」を密かに掛け、相手の領土を自分の方へ引き寄せる"
+                },
+                "thinking_layer": "正面突破ではなく、見えない場所からじわりと「鉤（hook）」を掛けて、自分の領域を広げていくイメージです。気づいた時にはもう外れない。そんな、静かで狡かれた侵略の足取りを感じさせます。",
+                "synonyms": [
+                        "intrude",
+                        "infringe"
+                ],
+                "antonyms": [
+                        "respect",
+                        "withdraw"
+                ],
+                "aftertaste": "密かに掛けられた、冷たい金属の感触",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "croc",
+                                        "meaning": "hook"
+                                }
+                        ],
+                        "points": [
+                                "crochet（かぎ針編み）やcrook（曲がった杖）と同じ「鉤形」のルーツです。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "14th Century Old French"
+        },
+        {
+                "id": "endeavor",
+                "word": "Endeavor",
+                "part_of_speech": "verb/noun",
+                "meaning": "努力、試み、努力する",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "en-",
+                                        "type": "prefix",
+                                        "meaning": "put in"
+                                },
+                                {
+                                        "text": "devoir",
+                                        "type": "root",
+                                        "meaning": "duty"
+                                }
+                        ],
+                        "original_statement": "From Middle English phrase 'put oneself in dever', from French devoir 'duty'."
+                },
+                "core_concept": {
+                        "en": "Put into duty",
+                        "ja": "自分のすべてを「義務（duty）」という名の天秤に載せ、全力を尽くす"
+                },
+                "thinking_layer": "ただの努力（effort）が力の放出なら、endeavor（英綴り: endeavour）は「なすべきこと（devoir）」への献身です。自分をその義務の「中（en）」へ投げ込み、責任としてやり遂げる、気高い決意の響きがあります。",
+                "synonyms": [
+                        "strive",
+                        "attempt"
+                ],
+                "antonyms": [
+                        "idle",
+                        "neglect"
+                ],
+                "aftertaste": "誓いを果たそうとする、真っ直ぐな眼差し",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "devoir",
+                                        "meaning": "duty / owe"
+                                }
+                        ],
+                        "points": [
+                                "debt（借金）やdue（期限の来た）と同じく、「返すべきもの」を意味する根を持っています。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "15th Century Middle English / French"
+        },
+        {
+                "id": "endorse",
+                "word": "Endorse",
+                "part_of_speech": "verb",
+                "meaning": "承認する、支持する、背書する",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "en-",
+                                        "type": "prefix",
+                                        "meaning": "on"
+                                },
+                                {
+                                        "text": "dorsum",
+                                        "type": "root",
+                                        "meaning": "back"
+                                }
+                        ],
+                        "original_statement": "From Old French endosser, from Medieval Latin indorsare, from in- 'on' + dorsum 'back'."
+                },
+                "core_concept": {
+                        "en": "On the back",
+                        "ja": "書類の「背中（dorsum）」に自らの名を刻み、全責任を背負う"
+                },
+                "thinking_layer": "承認とは、その対象の「背後」に回って支えることです。かつて羊皮紙の裏側に署名したように、自分の名前を盾として差し出し、相手の正当性を背中で担保する、覚悟の証明です。",
+                "synonyms": [
+                        "approve",
+                        "support"
+                ],
+                "antonyms": [
+                        "oppose",
+                        "reject"
+                ],
+                "aftertaste": "背中に預けられた、信頼の重み",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "dorsum",
+                                        "meaning": "back"
+                                }
+                        ],
+                        "points": [
+                                "dorsal fin（背びれ）と同じルーツ。目立たない「裏側」こそが支点となります。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "15th Century Old French / Latin"
         },
         {
                 "id": "endure",
@@ -20942,9 +21554,9 @@ const WORDS = [
                 "etymology": {
                         "breakdown": [
                                 {
-                                        "text": "in-",
+                                        "text": "en-",
                                         "type": "prefix",
-                                        "meaning": "thoroughly"
+                                        "meaning": "make"
                                 },
                                 {
                                         "text": "durus",
@@ -20952,22 +21564,22 @@ const WORDS = [
                                         "meaning": "hard"
                                 }
                         ],
-                        "original_statement": "From Old French endurer, from Latin indurare 'make hard'."
+                        "original_statement": "From Old French endurer, from Latin indurare 'make hard', from durus 'hard'."
                 },
                 "core_concept": {
-                        "en": "To become hard",
-                        "ja": "試練によって心を鍛え、鋼のような強さを手に入れる"
+                        "en": "To make hard",
+                        "ja": "苦難の炎で自らを「硬く（hard）」鍛え上げ、時の流れに抗う"
                 },
-                "thinking_layer": "耐えるということは、単に我慢することではありません。自分自身を「硬く（durus）」鍛え上げ、時の流れや苦難にも壊れない存在へと作り変えていくプロセスなのです。",
+                "thinking_layer": "「耐える」の本質は、石のような「硬度（durability）」を得ることです。外部からの打撃を跳ね返すのではなく、ただ動じない硬さを持ってそこに留まり続ける。それは、時間が風化させることができない強さです。",
                 "synonyms": [
                         "tolerate",
-                        "last"
+                        "persist"
                 ],
                 "antonyms": [
-                        "perish",
-                        "give up"
+                        "succumb",
+                        "perish"
                 ],
-                "aftertaste": "磨き抜かれた不変の硬度",
+                "aftertaste": "磨き抜かれた、冷たく硬い意志の石",
                 "deep_dive": {
                         "roots": [
                                 {
@@ -20976,7 +21588,7 @@ const WORDS = [
                                 }
                         ],
                         "points": [
-                                "durable（耐久性のある）やduring（〜の間）もこの「硬さ」に由来します。"
+                                "duration（期間）やduring（〜の間）と同根。「硬いものほど長く残る」という古代の知恵です。"
                         ]
                 },
                 "source": "etymon Philologist Mode",
@@ -21034,65 +21646,289 @@ const WORDS = [
                 "id": "energy",
                 "word": "Energy",
                 "part_of_speech": "noun",
-                "meaning": "エネルギーの簡潔な意味",
-                "author": "etymon_official",
+                "meaning": "エネルギー、活力、精力",
                 "etymology": {
                         "breakdown": [
                                 {
-                                        "text": "energeia",
-                                        "type": "root",
-                                        "meaning": "活動、運動",
-                                        "lang": "Greek"
-                                },
-                                {
                                         "text": "en-",
                                         "type": "prefix",
-                                        "meaning": "〜に",
-                                        "lang": "Greek"
+                                        "meaning": "in / at"
                                 },
                                 {
                                         "text": "ergon",
                                         "type": "root",
-                                        "meaning": "仕事",
-                                        "lang": "Greek"
+                                        "meaning": "work"
                                 }
                         ],
-                        "original_statement": "The word 'energy' originates from the Greek 'energeia', which refers to activity or operation, and is derived from 'en-', meaning 'in', and 'ergon', meaning 'work'."
+                        "original_statement": "From Greek energeia 'activity, operation', from en- 'in' + ergon 'work'."
                 },
                 "core_concept": {
-                        "en": "The unseen fervor that fuels the universe's grand conduct.",
-                        "ja": "宇宙の壮大な演奏を燃え立たせる目に見えない情熱"
+                        "en": "In work",
+                        "ja": "「仕事（work）」のただ中に宿る、世界を動かす内なる火"
                 },
-                "thinking_layer": "エネルギーとは、我々の存在の核に不可欠な、生命そのものの躍動感である。目に見えない力が絶えず巡ることで、宇宙の営みが続いている。エネルギーは物理的なものに限らず、心や魂を駆動させる力でもある。人間は無限の可能性に満ちた存在であり、その可能性を引き出すためには、内なるエネルギーを如何に解放するかが鍵となる。エネルギーの律動は私たちの行動、感情、そして知覚にまで影響を及ぼす。まるで目に見えない糸が世界を織り成しているかのように、人々の間に張り巡らされ、時に個を超えて全を成す。このように、エネルギーは我々の内側と外側を繋ぎ、限りない宇宙の一部であることを思い起こさせるのだ。エネルギーは存在の根底に流れる普遍的な力であり、その探求を通じて自分自身と繋がり、また宇宙の真理を垣間見ることができる。エネルギーに満ちた瞬間こそが、生命の輝きをもっとも強く放つときである。",
+                "thinking_layer": "蓄えられた力ではなく、まさに今「動いている（in-work）」その躍動を指します。静止した物体を動かし、形のない思考を現実へと変える、活動そのものに宿る不可視の熱量です。",
                 "synonyms": [
-                        "force",
-                        "power",
-                        "vitality"
+                        "vigor",
+                        "power"
                 ],
                 "antonyms": [
                         "lethargy",
-                        "inactivity",
-                        "weakness"
+                        "inertia"
                 ],
-                "aftertaste": "Energy is the silent conductor of the cosmic orchestra.",
+                "aftertaste": "火花を散らしながら回転する、生の歯車",
                 "deep_dive": {
                         "roots": [
                                 {
                                         "term": "ergon",
                                         "meaning": "work"
-                                },
-                                {
-                                        "term": "en-",
-                                        "meaning": "in"
                                 }
                         ],
                         "points": [
-                                "エネルギーという言葉は、ギリシャ語の「活動」という意味である 'energeia' から派生し、さらに「内に」を意味する 'en-' と「仕事」を意味する 'ergon' に分解される。これは宇宙の根源的な動きとリンクしており、その探求は人類全体の進化にも寄与する。"
+                                "ergonomics（人間工学）やallergy（アレルギー＝異質な働き）と同門です。"
                         ]
                 },
-                "source": "The Oxford English Dictionary",
-                "date": "2026-02-28",
-                "era": "Ancient Greek"
+                "source": "etymon Philologist Mode",
+                "era": "16th Century Greek"
+        },
+        {
+                "id": "enforce",
+                "word": "Enforce",
+                "part_of_speech": "verb",
+                "meaning": "施行する、強いる",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "en-",
+                                        "type": "prefix",
+                                        "meaning": "put in"
+                                },
+                                {
+                                        "text": "fortis",
+                                        "type": "root",
+                                        "meaning": "strong"
+                                }
+                        ],
+                        "original_statement": "From Old French enforcier, from en- 'in' + force 'force'."
+                },
+                "core_concept": {
+                        "en": "Put into strength",
+                        "ja": "言葉だけの規則に「力（force）」を流し込み、逆らえぬ現実とする"
+                },
+                "thinking_layer": "法やルールという空虚な器に、筋肉（strength）を宿らせることです。従わなければ痛みを伴うという物理的な圧力を「中（en）」に込めることで、初めて秩序は形を成します。",
+                "synonyms": [
+                        "implement",
+                        "compel"
+                ],
+                "antonyms": [
+                        "disregard",
+                        "waive"
+                ],
+                "aftertaste": "有無を言わせぬ、重厚な力の行使",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "fortis",
+                                        "meaning": "strong"
+                                }
+                        ],
+                        "points": [
+                                "fortress（要塞）と同じく、守るため、あるいは屈服させるための「強さ」が核です。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "14th Century Old French"
+        },
+        {
+                "id": "engage",
+                "word": "Engage",
+                "part_of_speech": "verb",
+                "meaning": "従事する、惹きつける、約束する",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "en-",
+                                        "type": "prefix",
+                                        "meaning": "in / make"
+                                },
+                                {
+                                        "text": "gage",
+                                        "type": "root",
+                                        "meaning": "pledge / stake"
+                                }
+                        ],
+                        "original_statement": "From Old French engager, from en- 'into' + gage 'pledge'."
+                },
+                "core_concept": {
+                        "en": "In the pledge",
+                        "ja": "自らの誠実さを「担保（pledge）」として差し出し、深く関わり合う"
+                },
+                "thinking_layer": "単なる参加ではなく、自分自身を「抵当（gage）」に入れるような重みがあります。仕事や戦闘、あるいは愛の誓いに身を投じる時、私たちは何かを賭け（stake）、逃げ道を塞いでその瞬間の中に没入します。",
+                "synonyms": [
+                        "involve",
+                        "occupy"
+                ],
+                "antonyms": [
+                        "detach",
+                        "release"
+                ],
+                "aftertaste": "二つの歯車が、ガチリと噛み合う衝撃",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "gage",
+                                        "meaning": "pledge"
+                                }
+                        ],
+                        "points": [
+                                "wager（賭け）と同根。自らを賭けの対象にすることから「婚約」や「従事」が生まれました。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "15th Century Old French"
+        },
+        {
+                "id": "engender",
+                "word": "Engender",
+                "part_of_speech": "verb",
+                "meaning": "生じさせる、発生させる",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "en-",
+                                        "type": "prefix",
+                                        "meaning": "in"
+                                },
+                                {
+                                        "text": "genus",
+                                        "type": "root",
+                                        "meaning": "birth / kind"
+                                }
+                        ],
+                        "original_statement": "From Old French engendrer, from Latin ingenerare, from in- 'in' + generare 'beget'."
+                },
+                "core_concept": {
+                        "en": "In birth",
+                        "ja": "既存の種（genus）の「中（en）」から、新たな命や事象を芽吹かせる"
+                },
+                "thinking_layer": "ゼロから作る（create）のではなく、内側にある可能性を「孵化（beget）」させる感覚です。疑念や情熱が、対話や出来事の連鎖によって必然的に産み落とされる、その誕生の瞬間を捉えています。",
+                "synonyms": [
+                        "generate",
+                        "produce"
+                ],
+                "antonyms": [
+                        "stifle",
+                        "extinguish"
+                ],
+                "aftertaste": "静かに割れた卵の殻、あるいは最初の芽吹き",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "genus",
+                                        "meaning": "birth"
+                                }
+                        ],
+                        "points": [
+                                "generation（世代）やgenius（天才＝生まれ持った守護神）と同系列の言葉です。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "14th Century Old French / Latin"
+        },
+        {
+                "id": "engrave",
+                "word": "Engrave",
+                "part_of_speech": "verb",
+                "meaning": "彫る、刻み込む",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "en-",
+                                        "type": "prefix",
+                                        "meaning": "in"
+                                },
+                                {
+                                        "text": "graban",
+                                        "type": "root",
+                                        "meaning": "to dig"
+                                }
+                        ],
+                        "original_statement": "From en- 'in' + grave (to dig), influenced by French engraver."
+                },
+                "core_concept": {
+                        "en": "Dig into",
+                        "ja": "滑らかな表面を「掘り（dig）」起こし、消えぬ傷跡として意味を刻む"
+                },
+                "thinking_layer": "書く（write）よりも、奪い去ること。削り取られた「溝」こそが言葉となります。記憶の奥底に、刃物で線を引くようにして消し難い印象を刻みつける、暴力的なまでに純粋な記録の形です。",
+                "synonyms": [
+                        "etch",
+                        "carve"
+                ],
+                "antonyms": [
+                        "erase",
+                        "efface"
+                ],
+                "aftertaste": "指先でなぞる、深く冷たい溝の感触",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "graban",
+                                        "meaning": "dig"
+                                }
+                        ],
+                        "points": [
+                                "grave（墓＝掘った穴）と同じルーツ。刻むことは、何かを埋葬し保存することでもあります。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "16th Century Middle English"
+        },
+        {
+                "id": "enhance",
+                "word": "Enhance",
+                "part_of_speech": "verb",
+                "meaning": "高める、向上させる",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "en-",
+                                        "type": "prefix",
+                                        "meaning": "make"
+                                },
+                                {
+                                        "text": "altus",
+                                        "type": "root",
+                                        "meaning": "high"
+                                }
+                        ],
+                        "original_statement": "From Old French enhauncer, from Late Latin exaltare 'raise, lift up', from altus 'high'."
+                },
+                "core_concept": {
+                        "en": "To make high",
+                        "ja": "凡庸な地平にあるものを、さらに「高み（high）」へと押し上げる"
+                },
+                "thinking_layer": "美しさや価値を、一段上の階層へと引き上げること。単なる追加ではなく、元からある輪郭をより鮮明に、より高く、空の高みへと輝かせる洗練のプロセスです。",
+                "synonyms": [
+                        "improve",
+                        "augment"
+                ],
+                "antonyms": [
+                        "diminish",
+                        "degrade"
+                ],
+                "aftertaste": "かつてよりも澄み渡り、高く見える景色",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "altus",
+                                        "meaning": "high"
+                                }
+                        ],
+                        "points": [
+                                "altitude（高度）やaltar（祭壇＝高い場所）と同門。崇高さを目指す運動です。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "14th Century Old French / Latin"
         },
         {
                 "id": "enigma",
@@ -21102,32 +21938,27 @@ const WORDS = [
                 "etymology": {
                         "breakdown": [
                                 {
-                                        "text": "ainigma",
-                                        "type": "root",
-                                        "meaning": "to speak in riddles"
-                                },
-                                {
                                         "text": "ainos",
                                         "type": "root",
-                                        "meaning": "fable / tale"
+                                        "meaning": "fable / riddle"
                                 }
                         ],
-                        "original_statement": "From Greek ainigma 'a riddle', from ainissesthai 'speak in riddles', from ainos 'fable'."
+                        "original_statement": "From Greek ainigma, from ainissesthai 'to speak in riddles', from ainos 'fable'."
                 },
                 "core_concept": {
-                        "en": "Speaking in riddles",
-                        "ja": "物語の衣を纏い、真意を隠した言葉"
+                        "en": "A dark fable",
+                        "ja": "直接語ることを拒み、寓話（fable）の霧の中に隠された真実"
                 },
-                "thinking_layer": "エニグマは単なるパズルではありません。それは「物語（ainos）」の中に真実を隠し、解くべき者に沈黙を強いる知的な闇です。不可解さの中にこそ, 真の深淵が潜んでいます。",
+                "thinking_layer": "単なるクイズではなく、語り口そのものが「暗い（obscure）」こと。答えはあっても、その辿り着き方が意地悪く、あるいは詩的に屈曲している状態。触れようとすると指の間から逃げる、影のような知恵です。",
                 "synonyms": [
                         "mystery",
-                        "riddle"
+                        "puzzle"
                 ],
                 "antonyms": [
-                        "explanation",
-                        "clarity"
+                        "clarity",
+                        "manifesto"
                 ],
-                "aftertaste": "物語の影に隠された沈黙",
+                "aftertaste": "耳元で囁かれる、解けない囁き声",
                 "deep_dive": {
                         "roots": [
                                 {
@@ -21136,59 +21967,544 @@ const WORDS = [
                                 }
                         ],
                         "points": [
-                                "「話す（ainos）」という行為そのものが「謎」と結びついています。"
+                                "寓話の中に真実を隠す「話し方」そのものを指していました。"
                         ]
                 },
                 "source": "etymon Philologist Mode",
-                "era": "Ancient Greek / 16th Century Latin"
+                "era": "16th Century Greek / Latin"
+        },
+        {
+                "id": "enlarge",
+                "word": "Enlarge",
+                "part_of_speech": "verb",
+                "meaning": "大きくする、拡大する",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "en-",
+                                        "type": "prefix",
+                                        "meaning": "make"
+                                },
+                                {
+                                        "text": "largus",
+                                        "type": "root",
+                                        "meaning": "abundant / wide"
+                                }
+                        ],
+                        "original_statement": "From Old French enlargir, from en- 'make' + large 'broad, wide'."
+                },
+                "core_concept": {
+                        "en": "To make wide",
+                        "ja": "窮屈な境界線を外へと押し広げ、豊かな「広さ（largeness）」を確保する"
+                },
+                "thinking_layer": "ただ膨張するのではなく、制限から「自由にする（set free）」感覚が含まれています。視界を、空間を、あるいは思考を。これまでは入れなかった「広大な場所」へと自分の領域を拡張する、解放的な行為です。",
+                "synonyms": [
+                        "expand",
+                        "magnify"
+                ],
+                "antonyms": [
+                        "shrink",
+                        "compress"
+                ],
+                "aftertaste": "壁が遠ざかり、呼吸が深くなるような広がり",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "largus",
+                                        "meaning": "generous / broad"
+                                }
+                        ],
+                        "points": [
+                                "large（大きい）やlargely（主に）と同じ。もとは「気前が良い」という心の広さも意味しました。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "14th Century Old French"
+        },
+        {
+                "id": "enlighten",
+                "word": "Enlighten",
+                "part_of_speech": "verb",
+                "meaning": "啓発する、教える、照らす",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "en-",
+                                        "type": "prefix",
+                                        "meaning": "in / make"
+                                },
+                                {
+                                        "text": "light",
+                                        "type": "root",
+                                        "meaning": "brightness"
+                                },
+                                {
+                                        "text": "-en",
+                                        "type": "suffix",
+                                        "meaning": "cause to be"
+                                }
+                        ],
+                        "original_statement": "From en- + light + -en, replacing Old English inlihtan."
+                },
+                "core_concept": {
+                        "en": "To put light into",
+                        "ja": "無知という暗闇の中に、知性の「光」を注ぎ込む"
+                },
+                "thinking_layer": "「教える」とは、単なる情報の伝達ではなく、相手の頭の中に灯をともすことです。それまで見えていなかった世界の輪郭が、光（light）によって一瞬で鮮明になる。その劇的な視界の変化、知的な夜明けを指します。",
+                "synonyms": [
+                        "illuminate",
+                        "edify"
+                ],
+                "antonyms": [
+                        "confuse",
+                        "perplex"
+                ],
+                "aftertaste": "暗闇が退き、すべてが腑に落ちる夜明け",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "leuk",
+                                        "meaning": "light / brightness"
+                                }
+                        ],
+                        "points": [
+                                "lucid（明快な）やluxury（光り輝く贅沢）と同じく、闇を払うエネルギーが核です。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "14th Century Old English"
+        },
+        {
+                "id": "enlist",
+                "word": "Enlist",
+                "part_of_speech": "verb",
+                "meaning": "入隊する、協力を得る",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "en-",
+                                        "type": "prefix",
+                                        "meaning": "into"
+                                },
+                                {
+                                        "text": "list",
+                                        "type": "root",
+                                        "meaning": "roll / strip"
+                                }
+                        ],
+                        "original_statement": "From en- 'in' + list 'roll of names'."
+                },
+                "core_concept": {
+                        "en": "To put on the list",
+                        "ja": "個人の名を、国家や組織の「名簿（list）」の中に書き加える"
+                },
+                "thinking_layer": "バラバラだった一個人が、公的な「紙の帯（strip）」に名を連ねることで、大きな力の一部になります。それは匿名性を捨て、特定の使命を帯びた「一員」としての契約を交わす厳粛な手続きです。",
+                "synonyms": [
+                        "recruit",
+                        "enroll"
+                ],
+                "antonyms": [
+                        "discharge",
+                        "dismiss"
+                ],
+                "aftertaste": "名簿に刻まれた、引き返せない自分の名前",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "list",
+                                        "meaning": "border / strip"
+                                }
+                        ],
+                        "points": [
+                                "listはもともと「縁（ふち）」や「布の切れ端」を意味し、そこに名前を書いたことが始まりです。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "17th Century French / English"
+        },
+        {
+                "id": "enliven",
+                "word": "Enliven",
+                "part_of_speech": "verb",
+                "meaning": "活気づける、陽気にする",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "en-",
+                                        "type": "prefix",
+                                        "meaning": "make"
+                                },
+                                {
+                                        "text": "life / live",
+                                        "type": "root",
+                                        "meaning": "living"
+                                }
+                        ],
+                        "original_statement": "From en- + life/live + -en."
+                },
+                "core_concept": {
+                        "en": "To bring to life",
+                        "ja": "停滞していた空気に「命（life）」を吹き込み、脈動させる"
+                },
+                "thinking_layer": "静止画を動画に変えるような作用です。死んだように静まり返った場所に、色、音、動きを「注入」すること。対象が再び呼吸を始め、自律的に動き出すまでの、生命の再起動を指します。",
+                "synonyms": [
+                        "animate",
+                        "invigorate"
+                ],
+                "antonyms": [
+                        "deaden",
+                        "depress"
+                ],
+                "aftertaste": "冷え切った指先に、熱い血が通い出す感覚",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "leibh",
+                                        "meaning": "live"
+                                }
+                        ],
+                        "points": [
+                                "quick（生きている）やvividと同じく、活動の源泉を刺激する言葉です。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "17th Century English"
+        },
+        {
+                "id": "enmity",
+                "word": "Enmity",
+                "part_of_speech": "noun",
+                "meaning": "敵意、憎しみ、恨み",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "en- / in-",
+                                        "type": "prefix",
+                                        "meaning": "not"
+                                },
+                                {
+                                        "text": "amicus",
+                                        "type": "root",
+                                        "meaning": "friend"
+                                }
+                        ],
+                        "original_statement": "From Old French enemistie, from Latin inimicitia, from inimicus 'enemy'."
+                },
+                "core_concept": {
+                        "en": "State of not being a friend",
+                        "ja": "「友（amicus）」ではないものとして、決定的に袂を分かつ"
+                },
+                "thinking_layer": "ただの嫌い（dislike）ではありません。かつて友であったかもしれない、あるいは友であるべきだった関係が「否定（not）」され、修復不可能な対立へと凍りついた状態。そこには、裏切りや深い歴史が沈殿しています。",
+                "synonyms": [
+                        "hostility",
+                        "animosity"
+                ],
+                "antonyms": [
+                        "amity",
+                        "friendship"
+                ],
+                "aftertaste": "握り合った手を振り払った後の、消えない冷気",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "amare",
+                                        "meaning": "to love"
+                                }
+                        ],
+                        "points": [
+                                "amiable（愛想の良い）やamateur（愛好家）の裏返しがenmityです。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "13th Century Old French / Latin"
+        },
+        {
+                "id": "ennui",
+                "word": "Ennui",
+                "part_of_speech": "noun",
+                "meaning": "倦怠感、退屈、アンニュイ",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "in-",
+                                        "type": "prefix",
+                                        "meaning": "towards"
+                                },
+                                {
+                                        "text": "odium",
+                                        "type": "root",
+                                        "meaning": "hatred / annoyance"
+                                }
+                        ],
+                        "original_statement": "From French ennui, from Old French enui 'annoyance', from Latin in odio 'in hatred'."
+                },
+                "core_concept": {
+                        "en": "Being in hatred (of life)",
+                        "ja": "生そのものを「嫌悪（odio）」し、魂が重く沈み込むような、贅沢で深い退屈"
+                },
+                "thinking_layer": "暇（boredom）が単に時間を持て余すことなら、ennuiは存在に対する「飽き」です。すべてをやり尽くし、何もかもが嫌悪の対象になる。精神的な飢えではなく、過剰な充足が生んだ、出口のない虚無感です。",
+                "synonyms": [
+                        "boredom",
+                        "listlessness"
+                ],
+                "antonyms": [
+                        "excitement",
+                        "enthusiasm"
+                ],
+                "aftertaste": "降り積もる灰のような、静かな絶望の昼下がり",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "odium",
+                                        "meaning": "hate"
+                                }
+                        ],
+                        "points": [
+                                "annoy（悩ませる）と同根。自分自身の存在が、自分を悩ませ始める状態です。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "18th Century French"
         },
         {
                 "id": "enormous",
                 "word": "Enormous",
                 "part_of_speech": "adjective",
-                "meaning": "巨大な、並外れた",
+                "meaning": "巨大な、法外な",
                 "etymology": {
                         "breakdown": [
                                 {
                                         "text": "ex-",
                                         "type": "prefix",
-                                        "meaning": "out"
+                                        "meaning": "out of"
                                 },
                                 {
                                         "text": "norma",
                                         "type": "root",
-                                        "meaning": "rule / norm"
+                                        "meaning": "rule / pattern"
                                 }
                         ],
-                        "original_statement": "From Latin enormis 'out of rule, irregular, shapeless', from ex- 'out' + norma 'rule, carpenter's square'."
+                        "original_statement": "From Latin enormis 'out of rule, irregular', from ex- 'out' + norma 'rule'."
                 },
                 "core_concept": {
                         "en": "Out of the norm",
-                        "ja": "定規で測れる範囲を、軽々と踏み越えていく"
+                        "ja": "標準（norm）の枠組みを突き破り、理性の尺度を超えて膨れ上がる"
                 },
-                "thinking_layer": "巨大であることは、単なるサイズの問題ではなく「規格（norm）」を破壊することです。私たちが持っている「ふつう」という物差しが通用しなくなった時、私たちはそれを「巨大（enormous）」と呼び、畏怖します。",
+                "thinking_layer": "単に「大きい」のではなく、あるべき形やルール（norma）から「はみ出して（out of）」いる異常さを指します。その巨大さは、私たちに畏怖の念を抱かせ、既存の価値観を無効化するほどの圧倒的な質量を持っています。",
                 "synonyms": [
-                        "huge",
-                        "immense"
+                        "immense",
+                        "gigantic"
                 ],
                 "antonyms": [
                         "tiny",
-                        "ordinary"
+                        "minuscule"
                 ],
-                "aftertaste": "定規をへし折る圧倒的な質量",
+                "aftertaste": "枠に収まりきらない、怪物の如き輪郭",
                 "deep_dive": {
                         "roots": [
                                 {
                                         "term": "norma",
-                                        "meaning": "rule"
+                                        "meaning": "square / rule"
                                 }
                         ],
                         "points": [
-                                "normal（普通の）の反対として生まれ、かつては「不気味な、異常な」という意味も含んでいました。"
+                                "normal（正常な＝定規に従った）から外れたものがenormous。測れないほどの巨大さです。"
                         ]
                 },
                 "source": "etymon Philologist Mode",
                 "era": "16th Century Latin"
+        },
+        {
+                "id": "enrapture",
+                "word": "Enrapture",
+                "part_of_speech": "verb",
+                "meaning": "有頂天にさせる、狂喜させる",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "en-",
+                                        "type": "prefix",
+                                        "meaning": "into"
+                                },
+                                {
+                                        "text": "raptura",
+                                        "type": "root",
+                                        "meaning": "a seizing"
+                                }
+                        ],
+                        "original_statement": "From en- + rapture, from Latin raptus 'seized'."
+                },
+                "core_concept": {
+                        "en": "To seize the soul",
+                        "ja": "魂を力ずくで「ひったくり（seize）」、歓喜の彼方へと運び去る"
+                },
+                "thinking_layer": "自分の意志で喜んでいるのではなく、美しさや快楽という目に見えない力に「拉致される（rapture）」感覚です。自我が奪われ、圧倒的な幸福感の渦の中に放り込まれる。抗い難い精神の略奪です。",
+                "synonyms": [
+                        "enchant",
+                        "captivate"
+                ],
+                "antonyms": [
+                        "bore",
+                        "depress"
+                ],
+                "aftertaste": "自分を奪われたまま、光の海に漂う恍惚",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "rapere",
+                                        "meaning": "seize / snatch"
+                                }
+                        ],
+                        "points": [
+                                "rape（略奪）やrapid（速い＝奪い去るような）と同門の、暴力的なまでの力です。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "16th Century Latin origin"
+        },
+        {
+                "id": "enshrine",
+                "word": "Enshrine",
+                "part_of_speech": "verb",
+                "meaning": "安置する、大事にする、祀る",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "en-",
+                                        "type": "prefix",
+                                        "meaning": "into"
+                                },
+                                {
+                                        "text": "shrine",
+                                        "type": "root",
+                                        "meaning": "chest / box / sacred place"
+                                }
+                        ],
+                        "original_statement": "From en- + shrine, from Latin scrinium 'chest for papers'."
+                },
+                "core_concept": {
+                        "en": "Put into a sacred chest",
+                        "ja": "壊れやすく貴重なものを、堅牢で聖なる「箱（shrine）」の中に収めて守り抜く"
+                },
+                "thinking_layer": "単なる保存（save）ではありません。そこに宗教的な、あるいは絶対的な価値を認め、他者が容易に触れられない場所へ隔離すること。記憶や権利を、永遠の不可侵な領域へと昇華させる行為です。",
+                "synonyms": [
+                        "sanctify",
+                        "cherish"
+                ],
+                "antonyms": [
+                        "desecrate",
+                        "violate"
+                ],
+                "aftertaste": "閉じられた扉の向こう、永遠に守られた静寂",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "scrinium",
+                                        "meaning": "case / box"
+                                }
+                        ],
+                        "points": [
+                                "script（書かれたもの）を収める箱が原点. 価値ある言葉を閉じ込める行為です。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "16th Century Latin origin"
+        },
+        {
+                "id": "ensue",
+                "word": "Ensue",
+                "part_of_speech": "verb",
+                "meaning": "（結果として）起こる、後に続く",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "en-",
+                                        "type": "prefix",
+                                        "meaning": "upon"
+                                },
+                                {
+                                        "text": "sequi",
+                                        "type": "root",
+                                        "meaning": "to follow"
+                                }
+                        ],
+                        "original_statement": "From Old French ensuivre, from Latin insequi 'to pursue', from in- 'upon' + sequi 'follow'."
+                },
+                "core_concept": {
+                        "en": "To follow closely",
+                        "ja": "原因の背後にピタリと「従い（follow）」、足跡をなぞるようにして現れる"
+                },
+                "thinking_layer": "唐突な発生ではなく、前の出来事に紐付けられた「追跡者」のような出現です。因果の糸に引かれ、必然として舞台に現れること. それは、逃れられない運命の足音のようです。",
+                "synonyms": [
+                        "follow",
+                        "result"
+                ],
+                "antonyms": [
+                        "precede",
+                        "cause"
+                ],
+                "aftertaste": "先行する出来事に引きずり出された、必然の影",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "sequi",
+                                        "meaning": "follow"
+                                }
+                        ],
+                        "points": [
+                                "sequence（順序）やconsequence（結果＝共に続くもの）と同じ、一列に並ぶ運動です。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "14th Century Old French / Latin"
+        },
+        {
+                "id": "entail",
+                "word": "Entail",
+                "part_of_speech": "verb",
+                "meaning": "伴う、必要とする、相続人を限定する",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "en-",
+                                        "type": "prefix",
+                                        "meaning": "make"
+                                },
+                                {
+                                        "text": "tailler",
+                                        "type": "root",
+                                        "meaning": "to cut"
+                                }
+                        ],
+                        "original_statement": "From Old French entaillier 'cut, carve, tax', from en- + tailler 'to cut'."
+                },
+                "core_concept": {
+                        "en": "To cut into a shape",
+                        "ja": "土地や権利を特定の形に「切り（cut）」分け、不可欠な義務として固定する"
+                },
+                "thinking_layer": "もとは相続権を「切り詰める」法律用語でした。ある事象を選んだ時、それと切り離せない負の側面や義務までもが「セットで切り出されて」付いてくること。避けては通れない、論理的な抱き合わせです。",
+                "synonyms": [
+                        "involve",
+                        "necessitate"
+                ],
+                "antonyms": [
+                        "exclude",
+                        "preclude"
+                ],
+                "aftertaste": "選んだ果実の裏側に付着している、重い代償",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "tailler",
+                                        "meaning": "to cut"
+                                }
+                        ],
+                        "points": [
+                                "tailor（仕立て屋＝切る人）やdetail（詳細＝切り分けたもの）と同門です。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "14th Century Old French"
         },
         {
                 "id": "entelechy",
@@ -21293,6 +22609,54 @@ const WORDS = [
                 "era": "Middle English, 14th Century"
         },
         {
+                "id": "enthrall",
+                "word": "Enthrall",
+                "part_of_speech": "verb",
+                "meaning": "心を奪う、魅了する、奴隷にする",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "en-",
+                                        "type": "prefix",
+                                        "meaning": "make"
+                                },
+                                {
+                                        "text": "thrall",
+                                        "type": "root",
+                                        "meaning": "slave / serf"
+                                }
+                        ],
+                        "original_statement": "From en- + thrall, from Old English thral 'slave'."
+                },
+                "core_concept": {
+                        "en": "To make a slave of",
+                        "ja": "魂を捉え、抗えぬ魅力で自分の「奴隷（thrall）」にしてしまう"
+                },
+                "thinking_layer": "単なる「好き」ではなく、自由を奪われるほどの拘束力です。美しさや物語の力によって、意識がその対象に釘付けにされ、自分の意志で動けなくなるような、幸福で残酷な支配を指します。",
+                "synonyms": [
+                        "captivate",
+                        "fascinate"
+                ],
+                "antonyms": [
+                        "repel",
+                        "bore"
+                ],
+                "aftertaste": "見えない鎖で繋がれた、至福の不自由",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "thral",
+                                        "meaning": "slave"
+                                }
+                        ],
+                        "points": [
+                                "thralldom（奴隷の身分）と同門。かつては物理的な拘束、今は精神的な虜を意味します。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "16th Century Middle English"
+        },
+        {
                 "id": "enthuse",
                 "word": "Enthuse",
                 "part_of_speech": "verb",
@@ -21362,22 +22726,22 @@ const WORDS = [
                                         "meaning": "god"
                                 }
                         ],
-                        "original_statement": "From Greek enthousiasmos 'divine possession', from entheos 'inspired by a god'."
+                        "original_statement": "From Greek enthousiasmos, from entheos 'possessed by a god', from en- 'in' + theos 'god'."
                 },
                 "core_concept": {
-                        "en": "God within",
-                        "ja": "己の内に神を宿し、神聖な力で突き動かされる"
+                        "en": "Possessed by a god",
+                        "ja": "肉体の器の「中（en）」に「神（theos）」を宿し、人間を超えた熱量を放つ"
                 },
-                "thinking_layer": "熱狂しているとき、人は自分自身の限界を超えています。それはあたかも、自分の肉体の中に「神（theos）」が降りてきて、意志を乗っ取ったかのような、人知を超えた状態を指しています。",
+                "thinking_layer": "熱狂とは、一時的な「神懸かり」の状態です。自分の意志を超えた何かが内側から突き動かし、限界を忘れて没頭させる。それは、凡庸な日常を焼き尽くす、聖なる狂気とも言えます。",
                 "synonyms": [
                         "passion",
-                        "eagerness"
+                        "zeal"
                 ],
                 "antonyms": [
                         "apathy",
                         "indifference"
                 ],
-                "aftertaste": "胸に宿る神聖な火花",
+                "aftertaste": "内なる神が去った後の、心地よい疲労と余熱",
                 "deep_dive": {
                         "roots": [
                                 {
@@ -21386,11 +22750,492 @@ const WORDS = [
                                 }
                         ],
                         "points": [
-                                "theology（神学）やatheist（無神論者）とも共通する根源です。"
+                                "theology（神学）やatheist（無神論者）と同じ、世界の根源を指す言葉です。"
                         ]
                 },
                 "source": "etymon Philologist Mode",
-                "era": "17th Century Greek"
+                "era": "16th Century Greek"
+        },
+        {
+                "id": "entice",
+                "word": "Entice",
+                "part_of_speech": "verb",
+                "meaning": "誘惑する、そそのかす",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "en-",
+                                        "type": "prefix",
+                                        "meaning": "make"
+                                },
+                                {
+                                        "text": "titio",
+                                        "type": "root",
+                                        "meaning": "firebrand / burning coal"
+                                }
+                        ],
+                        "original_statement": "From Old French enticier, from Vulgar Latin intitiare 'to set on fire', from titio 'firebrand'."
+                },
+                "core_concept": {
+                        "en": "To set on fire",
+                        "ja": "相手の心に小さな「火種（firebrand）」を投げ込み、欲望を燃え上がらせる"
+                },
+                "thinking_layer": "説得ではなく、本能への点火です。チリチリと燃える炭火（burning coal）のような誘惑が、じわじわと理性を溶かしていく。それは、火の粉に導かれるように、自ら禁断の場所へ歩ませる技術です。",
+                "synonyms": [
+                        "lure",
+                        "tempt"
+                ],
+                "antonyms": [
+                        "repel",
+                        "dissuade"
+                ],
+                "aftertaste": "欲望の火に煽られた、落ち着かない胸騒ぎ",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "titio",
+                                        "meaning": "burning coal"
+                                }
+                        ],
+                        "points": [
+                                "「火を付ける」という動作が、人の心を動かすメタファーになっています。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "13th Century Old French"
+        },
+        {
+                "id": "entity",
+                "word": "Entity",
+                "part_of_speech": "noun",
+                "meaning": "実体、存在物、独立体",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "esse",
+                                        "type": "root",
+                                        "meaning": "to be"
+                                },
+                                {
+                                        "text": "-ity",
+                                        "type": "suffix",
+                                        "meaning": "state / quality"
+                                }
+                        ],
+                        "original_statement": "From Late Latin entitas, from ens 'being', from Latin esse 'to be'."
+                },
+                "core_concept": {
+                        "en": "The quality of being",
+                        "ja": "他と混ざることのない、独自の「在る（to be）」という性質そのもの"
+                },
+                "thinking_layer": "抽象的な概念ではなく、確固たる輪郭を持った「存在」を指します。周囲から切り離され、それ自体で完結している一個の命、あるいは組織. 宇宙の広大さの中で、毅然として「私は在る」と主張する最小単位です。",
+                "synonyms": [
+                        "being",
+                        "individual"
+                ],
+                "antonyms": [
+                        "nonexistence",
+                        "nothingness"
+                ],
+                "aftertaste": "そこに在るという、剥き出しの事実の重み",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "esse",
+                                        "meaning": "be"
+                                }
+                        ],
+                        "points": [
+                                "essence（本質）やessentialと同じく、存在の根源を問う哲学的な言葉です。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "16th Century Late Latin"
+        },
+        {
+                "id": "entourage",
+                "word": "Entourage",
+                "part_of_speech": "noun",
+                "meaning": "側近、随行員、周囲",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "en-",
+                                        "type": "prefix",
+                                        "meaning": "in / make"
+                                },
+                                {
+                                        "text": "tour",
+                                        "type": "root",
+                                        "meaning": "circuit / turn"
+                                }
+                        ],
+                        "original_statement": "From French entourage 'surroundings', from entour 'around', from en- 'in' + tour 'circuit'."
+                },
+                "core_concept": {
+                        "en": "That which surrounds",
+                        "ja": "中心人物の周りを「円（tour）」を描くように囲み、その磁場を守る人々"
+                },
+                "thinking_layer": "中心を動かすための「輪」です。個々の人間というよりは、中心の権威を補完し、その輪郭を際立たせるための「背景」としての集団。彼らがいることで、中心の孤独が「公的な存在」へと変貌します。",
+                "synonyms": [
+                        "retinue",
+                        "associates"
+                ],
+                "antonyms": [
+                        "leader",
+                        "individual"
+                ],
+                "aftertaste": "中心を守る、重厚で動かない人の壁",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "tour",
+                                        "meaning": "turn"
+                                }
+                        ],
+                        "points": [
+                                "tour（旅行＝一周して戻る）やtournamentと同じ「回転」の概念です。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "19th Century French"
+        },
+        {
+                "id": "entrance",
+                "word": "Entrance",
+                "part_of_speech": "noun/verb",
+                "meaning": "入り口、入場、うっとりさせる（動詞読み：/ɪnˈtræns/）",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "en-",
+                                        "type": "prefix",
+                                        "meaning": "into"
+                                },
+                                {
+                                        "text": "trance",
+                                        "type": "root",
+                                        "meaning": "passage / state of bliss"
+                                }
+                        ],
+                        "original_statement": "Noun from enter (intro- 'within' + ire 'go'). Verb from en- + trance."
+                },
+                "core_concept": {
+                        "en": "A passage into",
+                        "ja": "入り口へと至る「通り道」であり、あるいは魂を「恍惚」へと運ぶ門"
+                },
+                "thinking_layer": "名詞では境界を越える「場所」を指しますが、動詞では相手を「トランス状態（trance）」に引き込むことを意味します。どちらも「今ここ」ではない、別の次元や空間へと身を移すという、決定的な移動を伴います。",
+                "synonyms": [
+                        "entry",
+                        "access",
+                        "spellbind"
+                ],
+                "antonyms": [
+                        "exit",
+                        "egress"
+                ],
+                "aftertaste": "敷居をまたぐ瞬間の、わずかな空気の変化",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "transire",
+                                        "meaning": "go across"
+                                }
+                        ],
+                        "points": [
+                                "「死（passage）」をも意味する言葉が、魅了や入り口と繋がっているのは興味深い点です。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "13th Century Old French / Latin"
+        },
+        {
+                "id": "entreat",
+                "word": "Entreat",
+                "part_of_speech": "verb",
+                "meaning": "懇願する、熱心に頼む",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "en-",
+                                        "type": "prefix",
+                                        "meaning": "make"
+                                },
+                                {
+                                        "text": "trahere",
+                                        "type": "root",
+                                        "meaning": "to draw / to pull"
+                                }
+                        ],
+                        "original_statement": "From Old French entraitier, from en- 'in' + traitier 'to deal with, handle', from Latin tractare 'to drag, handle'."
+                },
+                "core_concept": {
+                        "en": "To draw out by handling",
+                        "ja": "相手の心を言葉で「手繰り寄せ（draw）」、自分の方へ向けようと必死に扱う"
+                },
+                "thinking_layer": "単なる要求ではなく、粘り強い交渉と感情の吐露です。相手の重い腰を、言葉という糸で何度も「引っ張る（drag）」。その繰り返される試みが、哀願という切実な形になります。",
+                "synonyms": [
+                        "implore",
+                        "beseech"
+                ],
+                "antonyms": [
+                        "command",
+                        "order"
+                ],
+                "aftertaste": "何度も手繰り寄せた、言葉の糸の擦り切れ",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "trahere",
+                                        "meaning": "pull"
+                                }
+                        ],
+                        "points": [
+                                "treat（扱う）やtractor（トラクター）と同じ「引く」力が根底にあります。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "14th Century Old French / Latin"
+        },
+        {
+                "id": "entrust",
+                "word": "Entrust",
+                "part_of_speech": "verb",
+                "meaning": "任せる、委ねる",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "en-",
+                                        "type": "prefix",
+                                        "meaning": "put into"
+                                },
+                                {
+                                        "text": "trust",
+                                        "type": "root",
+                                        "meaning": "confidence / protection"
+                                }
+                        ],
+                        "original_statement": "From en- + trust."
+                },
+                "core_concept": {
+                        "en": "Put into trust",
+                        "ja": "大切なものを、相手への「信頼（trust）」という聖域の中に預け入れる"
+                },
+                "thinking_layer": "物理的に渡すだけでなく、そこに「自分の安心」を同封することです。裏切られるリスクを承知の上で、自らの権利の一部を他者の腕の中に置く。それは、最も深い形の人間関係の契約です。",
+                "synonyms": [
+                        "assign",
+                        "delegate"
+                ],
+                "antonyms": [
+                        "retain",
+                        "withhold"
+                ],
+                "aftertaste": "手を離れた後の、不安と安堵の混じり合い",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "true",
+                                        "meaning": "steadfast / solid"
+                                }
+                        ],
+                        "points": [
+                                "trustの語源は「硬い、確かな」こと。不確実な世界で「硬い絆」を信じる行為です。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "16th Century Middle English"
+        },
+        {
+                "id": "enumerate",
+                "word": "Enumerate",
+                "part_of_speech": "verb",
+                "meaning": "列挙する、数え上げる",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "ex-",
+                                        "type": "prefix",
+                                        "meaning": "out"
+                                },
+                                {
+                                        "text": "numerus",
+                                        "type": "root",
+                                        "meaning": "number"
+                                }
+                        ],
+                        "original_statement": "From Latin enumeratus, from enumerare 'to count out', from ex- 'out' + numerare 'to count'."
+                },
+                "core_concept": {
+                        "en": "To count out",
+                        "ja": "混沌とした塊から、一つひとつを「数（number）」として外へ取り出し、整列させる"
+                },
+                "thinking_layer": "把握できない大きな全体を、扱えるサイズの断片へと分解する知的な作業です。数えることは、名付けること。曖昧さを排し、世界をデジタルな精度で定義し直す冷徹なプロセスを指します。",
+                "synonyms": [
+                        "list",
+                        "itemize"
+                ],
+                "antonyms": [
+                        "generalize",
+                        "sum up"
+                ],
+                "aftertaste": "整然と並んだ、反論を許さない事実の列",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "numerus",
+                                        "meaning": "number"
+                                }
+                        ],
+                        "points": [
+                                "number（数）やnumerous（多数の）と同根. カオスをロゴス（論理）で制する行為です。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "17th Century Latin"
+        },
+        {
+                "id": "enunciate",
+                "word": "Enunciate",
+                "part_of_speech": "verb",
+                "meaning": "明瞭に発音する、表明する",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "ex-",
+                                        "type": "prefix",
+                                        "meaning": "out"
+                                },
+                                {
+                                        "text": "nuntius",
+                                        "type": "root",
+                                        "meaning": "messenger / news"
+                                }
+                        ],
+                        "original_statement": "From Latin enuntiatus, from enuntiare 'to speak out, declare', from ex- 'out' + nuntiare 'to announce'."
+                },
+                "core_concept": {
+                        "en": "To bring out as a messenger",
+                        "ja": "内なる言葉に「使者（messenger）」の使命を負わせ、一音一音を正確に外界へ解き放つ"
+                },
+                "thinking_layer": "単に話す（speak）のではなく、言葉が持つ本来の形を一切崩さずに届けることです. 曖昧な空気の中で、刃物のように鋭く、クリスタルのように透明な音を「宣言（announce）」として外へ送り出します。",
+                "synonyms": [
+                        "articulate",
+                        "pronounce"
+                ],
+                "antonyms": [
+                        "mumble",
+                        "slur"
+                ],
+                "aftertaste": "空気を震わせる、磨き上げられた音の破片",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "nuntius",
+                                        "meaning": "messenger"
+                                }
+                        ],
+                        "points": [
+                                "announce（発表する）やpronounce（発音する）と同じく、公に伝える義務を伴う「声」です。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "16th Century Latin"
+        },
+        {
+                "id": "envelop",
+                "word": "Envelop",
+                "part_of_speech": "verb",
+                "meaning": "包む、覆い隠す",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "en-",
+                                        "type": "prefix",
+                                        "meaning": "in"
+                                },
+                                {
+                                        "text": "veloper",
+                                        "type": "root",
+                                        "meaning": "to wrap"
+                                }
+                        ],
+                        "original_statement": "From Old French envoluper, from en- 'in' + voluper 'to wrap'."
+                },
+                "core_concept": {
+                        "en": "To wrap in",
+                        "ja": "何重もの「包み（wrap）」の内側へと、優しく、あるいは徹底的に閉じ込める"
+                },
+                "thinking_layer": "単に表面を覆うのではなく、対象の全方位を支配し、外界から遮断すること。霧が街を飲み込むように、あるいは手紙を封筒（envelope）に入れるように、境界線を消失させる重層的な抱擁です。",
+                "synonyms": [
+                        "wrap",
+                        "surround"
+                ],
+                "antonyms": [
+                        "uncover",
+                        "reveal"
+                ],
+                "aftertaste": "四方から迫る、柔らかく逃げ場のない境界",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "voluper",
+                                        "meaning": "wrap"
+                                }
+                        ],
+                        "points": [
+                                "develop（発展させる＝包みを解く / un-wrap）の対義語的な構造を持ちます。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "14th Century Old French"
+        },
+        {
+                "id": "envisage",
+                "word": "Envisage",
+                "part_of_speech": "verb",
+                "meaning": "（将来のことを）想像する、心に描く",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "en-",
+                                        "type": "prefix",
+                                        "meaning": "in / make"
+                                },
+                                {
+                                        "text": "visage",
+                                        "type": "root",
+                                        "meaning": "face"
+                                }
+                        ],
+                        "original_statement": "From French envisager, from en- 'in' + visage 'face'."
+                },
+                "core_concept": {
+                        "en": "To face / look in the face",
+                        "ja": "まだ見ぬ未来の「顔（visage）」を、真正面から直視し、心に刻む"
+                },
+                "thinking_layer": "ぼんやりとした空想ではなく、対象を「顔」として捉えるほど明確に具現化すること。目の前にいないはずの可能性と視線を合わせ、その輪郭を確定させる、強い意思を伴う想像です。",
+                "synonyms": [
+                        "visualize",
+                        "foresee"
+                ],
+                "antonyms": [
+                        "ignore",
+                        "disregard"
+                ],
+                "aftertaste": "暗闇の中から浮かび上がる、未来の冷徹な貌",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "visage",
+                                        "meaning": "appearance"
+                                }
+                        ],
+                        "points": [
+                                "vision（視覚）やvisitと同じ「見る」から派生し、対象との「対峙」を強調します。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "18th Century French"
         },
         {
                 "id": "envision",
@@ -21445,6 +23290,102 @@ const WORDS = [
                 "era": "19th Century"
         },
         {
+                "id": "envoy",
+                "word": "Envoy",
+                "part_of_speech": "noun",
+                "meaning": "特使、公使、外交使節",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "en-",
+                                        "type": "prefix",
+                                        "meaning": "on"
+                                },
+                                {
+                                        "text": "voie",
+                                        "type": "root",
+                                        "meaning": "way"
+                                }
+                        ],
+                        "original_statement": "From French envoyé, literally 'one sent', from envoyer 'to send', from en voie 'on the way'."
+                },
+                "core_concept": {
+                        "en": "One on the way",
+                        "ja": "主人の言葉を預かり、果てしない「道（way）」の上を征く者"
+                },
+                "thinking_layer": "本人は空（から）の器であり、その本質は「道」の上に在ること、つまり移動そのものにあります. 遠く離れた地へと自らの身体を運び、橋渡しとなる. 物理的な距離を言葉で埋める、孤独な旅人です。",
+                "synonyms": [
+                        "messenger",
+                        "ambassador"
+                ],
+                "antonyms": [
+                        "recipient",
+                        "receiver"
+                ],
+                "aftertaste": "土埃にまみれた、一通の手紙のような背中",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "via",
+                                        "meaning": "road"
+                                }
+                        ],
+                        "points": [
+                                "voyage（航海）やconvey（運ぶ）と同じ「道」の血脈. 伝達の使命が宿ります。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "17th Century French"
+        },
+        {
+                "id": "envy",
+                "word": "Envy",
+                "part_of_speech": "noun/verb",
+                "meaning": "嫉妬、羨望",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "in-",
+                                        "type": "prefix",
+                                        "meaning": "upon / against"
+                                },
+                                {
+                                        "text": "videre",
+                                        "type": "root",
+                                        "meaning": "to look"
+                                }
+                        ],
+                        "original_statement": "From Old French envie, from Latin invidia, from invidere 'to look askance at', from in- 'upon' + videre 'to see'."
+                },
+                "core_concept": {
+                        "en": "To look against / maliciously",
+                        "ja": "相手を真っ直ぐ見られず、横目（askance）で毒を込めて「睨みつける」"
+                },
+                "thinking_layer": "「見る」という行為が、攻撃へと変わる瞬間です。相手の幸運を「目に焼き付ける」ことが苦痛となり、その輝きを視線で削り取ろうとする. 憧れと憎しみが混ざり合った、歪んだ凝視の形です。",
+                "synonyms": [
+                        "jealousy",
+                        "covetousness"
+                ],
+                "antonyms": [
+                        "goodwill",
+                        "generosity"
+                ],
+                "aftertaste": "視線が刺さる、ヒリついた心の裏側",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "videre",
+                                        "meaning": "see"
+                                }
+                        ],
+                        "points": [
+                                "videoやvisualと同じルーツですが、もっとも「呪い」に近い視線の使い方です。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "13th Century Old French / Latin"
+        },
+        {
                 "id": "epanorthosis",
                 "word": "Epanorthosis",
                 "author": "etymon_official",
@@ -21495,56 +23436,234 @@ const WORDS = [
                 "era": "Ancient Greek"
         },
         {
-                "id": "epiphany",
-                "word": "Epiphany",
-                "author": "etymon_official",
+                "id": "ephemeral",
+                "word": "Ephemeral",
+                "part_of_speech": "adjective",
+                "meaning": "短命な、はかない、一日の",
                 "etymology": {
                         "breakdown": [
                                 {
                                         "text": "epi-",
                                         "type": "prefix",
-                                        "meaning": "上に",
-                                        "lang": "Greek"
+                                        "meaning": "upon"
                                 },
                                 {
-                                        "text": "-phanein",
+                                        "text": "hemera",
                                         "type": "root",
-                                        "meaning": "現れる、輝く",
-                                        "lang": "Greek"
+                                        "meaning": "day"
                                 }
                         ],
-                        "original_statement": "The word 'Epiphany' originates from the Greek 'epiphaneia', meaning 'manifestation' or 'appearance'. It often denotes a sudden, profound realization or insight."
+                        "original_statement": "From Greek ephemeros 'lasting only a day', from epi- 'on' + hemera 'day'."
                 },
                 "core_concept": {
-                        "en": "A luminous revelation unveiling the unseen beauty of truth.",
-                        "ja": "真実の見えざる美を明かす光の啓示"
+                        "en": "Lasting only a day",
+                        "ja": "太陽が昇って沈むまで、たった「一日（day）」の命を燃やし尽くす"
                 },
-                "thinking_layer": "エピファニーとは、一瞬にして心の奥底に降り立つ閃きであり、それは悠久の時間を超えて内在する真理の輝きと出会う瞬間である。哲学的に言えば、それは我々の存在の深淵に潜む未知との出会いであり、洞察の光が闇を裂いて新たな理解を開放する状態である。この瞬間には、個としての存在を超越し、宇宙全体との繋がりを感じることができる。その感覚は詩的であり、言葉では捉えきれない尊さと調和を孕んでいる。謎に満ちた生命の試練の中から揺り起こされるこの啓示は、まるで静寂の中に突然差す天の光のように、その瞬間は永遠に心に刻まれる。我々の意識が新たな次元へと跳躍する様は、深遠なる哲学である。エピファニーは人間の精神に内在する光の具現化であり、それを経験することで、我々は自己を越えた一つの全体としての存在を理解する鍵を手に入れる。それはまさに生命の謎を解きほぐす慈雨である。",
+                "thinking_layer": "明日という約束を持たない、極限の限定性です。カゲロウの羽化のように、その美しさは「終わること」を前提に輝いています。時間という残酷な枠組みに、爪痕を残さず消えていく、繊細な実存です。",
                 "synonyms": [
-                        "Revelation",
-                        "Insight"
+                        "transient",
+                        "fleeting"
                 ],
                 "antonyms": [
-                        "Confusion",
-                        "Ignorance"
+                        "eternal",
+                        "permanent"
                 ],
-                "aftertaste": "Epiphany is the silent song of truth ascending the stairs of consciousness.",
+                "aftertaste": "指の間をこぼれ落ちる、光の砂の感触",
                 "deep_dive": {
                         "roots": [
                                 {
-                                        "term": "epiphaneia",
-                                        "meaning": "manifestation, appearance"
+                                        "term": "hemera",
+                                        "meaning": "day"
                                 }
                         ],
                         "points": [
-                                "エピファニーという言葉は、古代ギリシャ語で「上に現れる」ことを意味し、真実や新たな理解の瞬間を表す。"
+                                "hemerology（暦学）と同門。古代では一日の熱病などを指す医学用語でもありました。"
                         ]
                 },
-                "source": "Online Etymology Dictionary",
-                "date": "2026-02-27",
+                "source": "etymon Philologist Mode",
+                "era": "16th Century Greek"
+        },
+        {
+                "id": "epic",
+                "word": "Epic",
+                "part_of_speech": "noun/adjective",
+                "meaning": "叙事詩、壮大な、英雄的な",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "epos",
+                                        "type": "root",
+                                        "meaning": "word / song / story"
+                                }
+                        ],
+                        "original_statement": "From Greek epikos, from epos 'word, story, poem'."
+                },
+                "core_concept": {
+                        "en": "The spoken word",
+                        "ja": "人々の口から口へと語り継がれる、歴史を揺るがす「大きな言葉（word）」"
+                },
+                "thinking_layer": "一人のささやきではなく、民族の記憶を背負った「歌」としての言葉です。数世代を貫く時間の長さと、神話的な空間の広がり。個人の感情を超越した、客観的で巨大な物語の重力そのものです。",
+                "synonyms": [
+                        "grand",
+                        "legendary"
+                ],
+                "antonyms": [
+                        "trivial",
+                        "humdrum"
+                ],
+                "aftertaste": "何千年も鳴り響く、重厚な青銅の鐘の音",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "epos",
+                                        "meaning": "utterance"
+                                }
+                        ],
+                        "points": [
+                                "単なる「単語」を意味したeposが、人類の遺産としての「詩」へと昇華されました。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "16th Century Greek / Latin"
+        },
+        {
+                "id": "epicure",
+                "word": "Epicure",
                 "part_of_speech": "noun",
-                "meaning": "啓示",
-                "era": "Ancient Greek"
+                "meaning": "美食家、食道楽",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "Epicurus",
+                                        "type": "root",
+                                        "meaning": "Athenian philosopher"
+                                }
+                        ],
+                        "original_statement": "From Epicurus, Greek philosopher who taught that pleasure is the highest good."
+                },
+                "core_concept": {
+                        "en": "Follower of Epicurus",
+                        "ja": "苦痛を遠ざけ、洗練された「快楽」を選択する知的な探求者"
+                },
+                "thinking_layer": "単なる大食漢ではなく、感覚の「質」を研ぎ澄ます人。エピクロスが説いたのは放蕩ではなく、精神の平穏（アタラクシア）を得るための慎重な愉悦でした. 一皿の料理に、世界の秩序と調和を見出す繊細な審美眼です。",
+                "synonyms": [
+                        "gourmet",
+                        "gastronome"
+                ],
+                "antonyms": [
+                        "ascetic",
+                        "glutton"
+                ],
+                "aftertaste": "舌の上で解ける、極上の均衡",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "Epicurus",
+                                        "meaning": "The philosopher"
+                                }
+                        ],
+                        "points": [
+                                "中世には「享楽的すぎる」と批判的な意味で使われた歴史もあります。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "14th Century Greek origin"
+        },
+        {
+                "id": "epigram",
+                "word": "Epigram",
+                "part_of_speech": "noun",
+                "meaning": "警句、寸鉄、短詩",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "epi-",
+                                        "type": "prefix",
+                                        "meaning": "upon / at"
+                                },
+                                {
+                                        "text": "graphein",
+                                        "type": "root",
+                                        "meaning": "to write"
+                                }
+                        ],
+                        "original_statement": "From Greek epigramma 'inscription', from epi- 'upon' + graphein 'to write'."
+                },
+                "core_concept": {
+                        "en": "Written upon",
+                        "ja": "石碑や墓標の「上（epi）」に刻まれた、永遠に摩滅しない鋭い言葉"
+                },
+                "thinking_layer": "短さは、削ぎ落とされた知性の証. 石に刻むという物理的な制約が、言葉を研ぎ澄ませました。一瞬で相手の肺腑をえぐるような、短くも機知（wit）に富んだ、鋭利な一刺しです。",
+                "synonyms": [
+                        "aphorism",
+                        "witticism"
+                ],
+                "antonyms": [
+                        "rigmarole",
+                        "prolixity"
+                ],
+                "aftertaste": "一瞬の閃光と、その後の消えない痛み",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "graphein",
+                                        "meaning": "write"
+                                }
+                        ],
+                        "points": [
+                                "grammarやgraphと同じ「書く」の系譜。最小単位の完成された記述です。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "16th Century Greek"
+        },
+        {
+                "id": "epiphany",
+                "word": "Epiphany",
+                "part_of_speech": "noun",
+                "meaning": "（突然の）悟り、直感的な真実の把握、公現祭",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "epi-",
+                                        "type": "prefix",
+                                        "meaning": "upon / to"
+                                },
+                                {
+                                        "text": "phainein",
+                                        "type": "root",
+                                        "meaning": "to show / to appear"
+                                }
+                        ],
+                        "original_statement": "From Greek epiphany 'manifestation', from epi- 'upon' + phainein 'to show'."
+                },
+                "core_concept": {
+                        "en": "A showing to",
+                        "ja": "覆われていた真理が、一瞬にして自分の「上（epi）」に現れ、視界を白く染める"
+                },
+                "thinking_layer": "論理の積み重ねではなく、稲妻のような出現です。日常の風景が突如として深遠な意味を帯び、世界の構造が「現れる（reveal）」。それは、神が人の前に姿を現すような、聖なる衝撃を伴う理解です。",
+                "synonyms": [
+                        "revelation",
+                        "insight"
+                ],
+                "antonyms": [
+                        "confusion",
+                        "obscurity"
+                ],
+                "aftertaste": "全てが繋がった瞬間の、震えるような静寂",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "phainein",
+                                        "meaning": "show"
+                                }
+                        ],
+                        "points": [
+                                "phantom（幻）やphenomenonと同じ、光が目に届く瞬間の言葉です。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "14th Century Greek"
         },
         {
                 "id": "epiphenomenalism",
@@ -21929,6 +24048,54 @@ const WORDS = [
                 "era": "Latin"
         },
         {
+                "id": "epitome",
+                "word": "Epitome",
+                "part_of_speech": "noun",
+                "meaning": "典型、要約、象徴",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "epi-",
+                                        "type": "prefix",
+                                        "meaning": "into"
+                                },
+                                {
+                                        "text": "temnein",
+                                        "type": "root",
+                                        "meaning": "to cut"
+                                }
+                        ],
+                        "original_statement": "From Greek epitome, from epitemnein 'abridge', from epi- 'into' + temnein 'to cut'."
+                },
+                "core_concept": {
+                        "en": "A surface cut / abridgment",
+                        "ja": "巨大な全体から、そのエッセンスだけを「切り出した（cut）」完璧な一欠片"
+                },
+                "thinking_layer": "「要約」とは、余計な肉を削ぎ、骨組みだけを抽出すること. その切り出された一部（epitome）には、元の全体が持つすべての性質が濃縮されています。ある性質を体現する「完璧なサンプル」です。",
+                "synonyms": [
+                        "embodiment",
+                        "essence"
+                ],
+                "antonyms": [
+                        "expansion",
+                        "anomaly"
+                ],
+                "aftertaste": "一滴に凝縮された、海すべての塩辛さ",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "temnein",
+                                        "meaning": "cut"
+                                }
+                        ],
+                        "points": [
+                                "atom（分けられないもの＝a + tom）のtomと同じ根。切り分けられた究極の姿です。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "16th Century Greek"
+        },
+        {
                 "id": "epizeuxis",
                 "word": "Epizeuxis",
                 "author": "etymon_official",
@@ -22032,10 +24199,202 @@ const WORDS = [
                 "era": "Ancient Greek"
         },
         {
+                "id": "equanimity",
+                "word": "Equanimity",
+                "part_of_speech": "noun",
+                "meaning": "平穏、沈着、冷静",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "aequus",
+                                        "type": "root",
+                                        "meaning": "even / equal"
+                                },
+                                {
+                                        "text": "animus",
+                                        "type": "root",
+                                        "meaning": "mind / spirit"
+                                }
+                        ],
+                        "original_statement": "From Latin aequanimitas, from aequus 'even' + animus 'mind'."
+                },
+                "core_concept": {
+                        "en": "Even mind",
+                        "ja": "嵐の中でも「心（animus）」の天秤を「水平（equal）」に保ち続ける"
+                },
+                "thinking_layer": "単なる無感情ではなく、激動の中でも中心を失わない能動的な静寂です。魂の水平線が揺らがず、外部の波に飲み込まれない。それは、自分自身を支配し続ける、知的な調和の状態です。",
+                "synonyms": [
+                        "composure",
+                        "serenity"
+                ],
+                "antonyms": [
+                        "agitation",
+                        "anxiety"
+                ],
+                "aftertaste": "揺れる船上で、一点を見つめる静かな瞳",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "animus",
+                                        "meaning": "soul"
+                                }
+                        ],
+                        "points": [
+                                "animate（命を吹き込む）やunanimous（満場一致＝一つの心）と同じ心の鼓動です。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "17th Century Latin"
+        },
+        {
+                "id": "equivalent",
+                "word": "Equivalent",
+                "part_of_speech": "adjective/noun",
+                "meaning": "同等の、相当する（もの）",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "aequus",
+                                        "type": "root",
+                                        "meaning": "equal"
+                                },
+                                {
+                                        "text": "valere",
+                                        "type": "root",
+                                        "meaning": "to be worth"
+                                }
+                        ],
+                        "original_statement": "From Late Latin aequivalentem, from aequus 'equal' + valere 'be worth'."
+                },
+                "core_concept": {
+                        "en": "Equal in value",
+                        "ja": "形や姿は違えど、その内側に宿る「価値（value）」が等しい"
+                },
+                "thinking_layer": "表面的な同一性（identical）ではなく、重みが釣り合っている（equal-worth）ことを指します。異なる通貨や言語の間で、見えない価値の糸がぴんと張られ、均衡している状態。交換可能な真実の重みです。",
+                "synonyms": [
+                        "comparable",
+                        "tantamount"
+                ],
+                "antonyms": [
+                        "different",
+                        "unequal"
+                ],
+                "aftertaste": "天秤がピタリと止まる、数学的な美しさ",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "valere",
+                                        "meaning": "be strong / worth"
+                                }
+                        ],
+                        "points": [
+                                "value（価値）やvalid（有効な＝強い）と同門. 内なる「力」が等しいのです。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "15th Century Late Latin"
+        },
+        {
+                "id": "equivocal",
+                "word": "Equivocal",
+                "part_of_speech": "adjective",
+                "meaning": "曖昧な、二義的な、疑わしい",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "aequus",
+                                        "type": "root",
+                                        "meaning": "equal"
+                                },
+                                {
+                                        "text": "vocare",
+                                        "type": "root",
+                                        "meaning": "to call"
+                                }
+                        ],
+                        "original_statement": "From Late Latin aequivocus, from aequus 'equal' + vocare 'to call'."
+                },
+                "core_concept": {
+                        "en": "Equal voice",
+                        "ja": "二つの異なる意味が「等しい声（voice）」で主張し、どちらが真実か惑わせる"
+                },
+                "thinking_layer": "意味の渋滞です。一つの言葉が二つの方向を同じ強さで指し示しているため、聞き手は迷宮に迷い込みます。意図的に煙に巻く、あるいは本質が多義的であるという、不安定な均衡を指します。",
+                "synonyms": [
+                        "ambiguous",
+                        "vague"
+                ],
+                "antonyms": [
+                        "unequivocal",
+                        "clear"
+                ],
+                "aftertaste": "二つの道が、同じ太さで分かれる分岐点",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "vox",
+                                        "meaning": "voice"
+                                }
+                        ],
+                        "points": [
+                                "vocal（声の）やadvocateと同じ。声が多すぎて、沈黙よりも不明瞭になります。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "16th Century Late Latin"
+        },
+        {
+                "id": "eradicate",
+                "word": "Eradicate",
+                "part_of_speech": "verb",
+                "meaning": "根絶する、全滅させる",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "ex-",
+                                        "type": "prefix",
+                                        "meaning": "out"
+                                },
+                                {
+                                        "text": "radix",
+                                        "type": "root",
+                                        "meaning": "root"
+                                }
+                        ],
+                        "original_statement": "From Latin eradicatus, from eradicare 'pull up by the roots', from ex- 'out' + radix 'root'."
+                },
+                "core_concept": {
+                        "en": "Out from the roots",
+                        "ja": "見えている茎（現象）を刈るのではなく、地中の「根（radix）」ごと引き抜く"
+                },
+                "thinking_layer": "徹底的な除去です. 再生の可能性を完全に断つために、土を掘り返してまで原因の源泉を絶つこと。そこには、二度とその存在を許さないという、破壊と浄化の冷徹な意志があります。",
+                "synonyms": [
+                        "eliminate",
+                        "extirpate"
+                ],
+                "antonyms": [
+                        "plant",
+                        "nurture"
+                ],
+                "aftertaste": "空っぽになった穴と、戻らない土の匂い",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "radix",
+                                        "meaning": "root"
+                                }
+                        ],
+                        "points": [
+                                "radical（根本的な）やradish（ラディッシュ＝根菜）と同じく、物事の始まりを指します。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "16th Century Latin"
+        },
+        {
                 "id": "erase",
                 "word": "Erase",
                 "part_of_speech": "verb",
-                "meaning": "消去する、削り取る",
+                "meaning": "消す、抹消する",
                 "etymology": {
                         "breakdown": [
                                 {
@@ -22049,22 +24408,22 @@ const WORDS = [
                                         "meaning": "to scrape"
                                 }
                         ],
-                        "original_statement": "From Latin erasum, from eradere 'to scrape out', from ex- 'out' + radere 'to scrape'."
+                        "original_statement": "From Latin erasus, from eradere 'to scrape out', from ex- 'out' + radere 'to scrape'."
                 },
                 "core_concept": {
-                        "en": "Scraping out",
-                        "ja": "表面を激しく削り、過去の形跡をなぎ払う"
+                        "en": "To scrape out",
+                        "ja": "表面に記された跡を、刃物や摩擦で「削り（scrape）」取り、無へと還す"
                 },
-                "thinking_layer": "「消す」という行為は、単なる不在ではなく、積極的な「破壊（scrape）」の結果です。紙の表面を削り取るように、私たちは新しい何かを描くために、執拗に過去の痕跡を剥ぎ取らねばならない時があります。",
+                "thinking_layer": "インクや鉛筆の跡を「剥ぎ取る」物理的な暴力性が本来の意味です. 何かが存在したという履歴そのものを、摩擦という熱によって物理法則の彼方へ葬り去る行為。存在しなかったことにする、積極的な否定です。",
                 "synonyms": [
                         "obliterate",
-                        "delete"
+                        "expunge"
                 ],
                 "antonyms": [
                         "record",
                         "write"
                 ],
-                "aftertaste": "削り取られた痕跡の痛み",
+                "aftertaste": "ザラついた感触と、白く戻った紙の拒絶",
                 "deep_dive": {
                         "roots": [
                                 {
@@ -22073,11 +24432,11 @@ const WORDS = [
                                 }
                         ],
                         "points": [
-                                "razor（カミソリ）やabrasive（研磨剤）も、この「削る」という根源を共有しています。"
+                                "razor（カミソリ）やabrasive（研磨剤）と同じ「削る」感覚です。"
                         ]
                 },
                 "source": "etymon Philologist Mode",
-                "era": "16th Century Latin"
+                "era": "17th Century Latin"
         },
         {
                 "id": "erotic",
@@ -22164,6 +24523,140 @@ const WORDS = [
                 },
                 "source": "etymon Philologist Mode",
                 "era": "13th Century Old French / Latin"
+        },
+        {
+                "id": "erratic",
+                "word": "Erratic",
+                "part_of_speech": "adjective",
+                "meaning": "不安定な、一貫性のない、風変わりな",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "errare",
+                                        "type": "root",
+                                        "meaning": "to wander / to stray"
+                                }
+                        ],
+                        "original_statement": "From Old French erratique, from Latin erraticus 'wandering, straying', from errare 'to wander'."
+                },
+                "core_concept": {
+                        "en": "Wandering about",
+                        "ja": "決まった軌道を捨て、目的もなく「彷徨い（wander）」、予期せぬ方向へ跳ねる"
+                },
+                "thinking_layer": "規則正しさの欠如です. 次はどこへ行くか、何をするか。観測者の期待を裏切り続け、迷子のように軌跡を乱すこと。それは予測不能な自由であると同時に、信頼できない危うさでもあります。",
+                "synonyms": [
+                        "unpredictable",
+                        "irregular"
+                ],
+                "antonyms": [
+                        "consistent",
+                        "stable"
+                ],
+                "aftertaste": "点と点が結べない、乱れたジグザグの線",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "errare",
+                                        "meaning": "stray"
+                                }
+                        ],
+                        "points": [
+                                "error（間違い＝道に迷うこと）やerrant（遍歴する）と同じ、放浪の血筋です。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "14th Century Old French / Latin"
+        },
+        {
+                "id": "erudite",
+                "word": "Erudite",
+                "part_of_speech": "adjective",
+                "meaning": "博学な、学術的な",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "ex-",
+                                        "type": "prefix",
+                                        "meaning": "out / away"
+                                },
+                                {
+                                        "text": "rudis",
+                                        "type": "root",
+                                        "meaning": "rude / rough / untrained"
+                                }
+                        ],
+                        "original_statement": "From Latin eruditus, from erudire 'to instruct, polish', from ex- 'out' + rudis 'rough, unskilled'."
+                },
+                "core_concept": {
+                        "en": "Out of the rough",
+                        "ja": "磨かれていない「粗野（rude）」な状態から脱し、洗練された知恵を纏う"
+                },
+                "thinking_layer": "「学ぶ」とは、原石を磨き上げることです。無知というゴツゴツとした岩を削り取り、その「外（ex）」へと這い上がること。深い知識は、単なる情報の蓄積ではなく、人格という素材を磨き抜いた「滑らかさ」として現れます。",
+                "synonyms": [
+                        "learned",
+                        "scholarly"
+                ],
+                "antonyms": [
+                        "ignorant",
+                        "uneducated"
+                ],
+                "aftertaste": "磨き上げられた大理石のような、冷徹で美しい知性",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "rudis",
+                                        "meaning": "rough"
+                                }
+                        ],
+                        "points": [
+                                "rude（失礼な、粗野な）やrudiment（基本＝未完成の基礎）から逃れ、高みへ至る姿です。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "15th Century Latin"
+        },
+        {
+                "id": "escalate",
+                "word": "Escalate",
+                "part_of_speech": "verb",
+                "meaning": "段階的に拡大する、高まる",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "scala",
+                                        "type": "root",
+                                        "meaning": "ladder / staircase"
+                                }
+                        ],
+                        "original_statement": "Back-formation from escalator (1900), from Latin scala 'ladder'."
+                },
+                "core_concept": {
+                        "en": "To go up the ladder",
+                        "ja": "一段ずつ「梯子（ladder）」を上るように、緊張や事態が不可逆的に加速する"
+                },
+                "thinking_layer": "唐突なジャンプではなく、連鎖的な上昇です. 一度上り始めたら、重力が逆方向に働くように、事態はますます「高い」レベルへと自動的に引き上げられていく。コントロールを失い、衝突へと向かう上昇のベクトルです。",
+                "synonyms": [
+                        "intensify",
+                        "soar"
+                ],
+                "antonyms": [
+                        "de-escalate",
+                        "decrease"
+                ],
+                "aftertaste": "一段上がるごとに、戻る道が消えていく恐怖",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "scala",
+                                        "meaning": "stair"
+                                }
+                        ],
+                        "points": [
+                                "scale（尺度、音階＝段階的なもの）と同じ. 比較的新しい言葉（20世紀初頭）です。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "20th Century (Modern Coinage)"
         },
         {
                 "id": "escape",
@@ -22325,27 +24818,22 @@ const WORDS = [
                 "id": "esoteric",
                 "word": "Esoteric",
                 "part_of_speech": "adjective",
-                "meaning": "秘儀的な、難解な、奥義の",
+                "meaning": "難解な、秘伝の、内側に限られた",
                 "etymology": {
                         "breakdown": [
                                 {
                                         "text": "eso-",
-                                        "type": "prefix",
+                                        "type": "root",
                                         "meaning": "within / inner"
-                                },
-                                {
-                                        "text": "-teros",
-                                        "type": "suffix",
-                                        "meaning": "comparative suffix"
                                 }
                         ],
-                        "original_statement": "From Greek esoterikos 'belonging to an inner circle', from esotero 'inner'."
+                        "original_statement": "From Greek esoterikos, from esotero 'inner', from eso 'within'."
                 },
                 "core_concept": {
-                        "en": "Further within",
-                        "ja": "選ばれた者だけが招かれる、円のさらに内側へ"
+                        "en": "For the inner circle",
+                        "ja": "固く閉ざされた「内側（within）」の部屋だけで、選ばれた者だけに囁かれる"
                 },
-                "thinking_layer": "真理の多くは、公（exoteric）の場所ではなく、もっとも深い「内側（eso）」に隠されています。それは排除ではなく、深い理解に至った者だけが辿り着ける、魂の核心部への招待状です。",
+                "thinking_layer": "公（exoteric）の反対です。門の外からは決して見えない、奥深くの聖域で共有される知恵。難解なのは、それが隠されるべくして隠されているからです。排他性と神聖さが入り混じった、密室の知識です。",
                 "synonyms": [
                         "abstruse",
                         "arcane"
@@ -22354,16 +24842,16 @@ const WORDS = [
                         "exoteric",
                         "common"
                 ],
-                "aftertaste": "深く閉ざされた、静かな知の深淵",
+                "aftertaste": "鍵のかかった重い扉の向こう、消え入りそうな蝋燭の火",
                 "deep_dive": {
                         "roots": [
                                 {
                                         "term": "eso",
-                                        "meaning": "within"
+                                        "meaning": "inward"
                                 }
                         ],
                         "points": [
-                                "対義語のexotericは、円の「外側（exo）」にいる大衆向けであることを意味します。"
+                                "ピタゴラス学派が、正式な門弟だけに伝えた「内側の教え」が語源です。"
                         ]
                 },
                 "source": "etymon Philologist Mode",
@@ -22373,36 +24861,31 @@ const WORDS = [
                 "id": "essence",
                 "word": "Essence",
                 "part_of_speech": "noun",
-                "meaning": "本質、精髄",
+                "meaning": "本質、エッセンス、精髄",
                 "etymology": {
                         "breakdown": [
                                 {
                                         "text": "esse",
                                         "type": "root",
                                         "meaning": "to be"
-                                },
-                                {
-                                        "text": "-ence",
-                                        "type": "suffix",
-                                        "meaning": "state of"
                                 }
                         ],
                         "original_statement": "From Latin essentia, from esse 'to be'."
                 },
                 "core_concept": {
                         "en": "The state of being",
-                        "ja": "飾りが剥がれ落ちた後に残る、ただひとつの『在る』こと"
+                        "ja": "外見をすべて剥ぎ取った後に残る、「在る（to be）」ことの純粋な核"
                 },
-                "thinking_layer": "本質とは、それがあるために不可欠な「存在（esse）」そのものです。属性や外見をすべて削ぎ落としてもなお、そこに厳然と存在し続ける生命の核を指します。",
+                "thinking_layer": "「それ」を「それ」たらしめている、最後の最小単位です. 姿形が変わっても、これさえ失わなければアイデンティティは保たれる、という絶対的な一点. 蒸留され、濃縮された、世界の種火のようなものです。",
                 "synonyms": [
                         "core",
-                        "nature"
+                        "quintessence"
                 ],
                 "antonyms": [
-                        "appearance",
-                        "surface"
+                        "exterior",
+                        "accident"
                 ],
-                "aftertaste": "揺らぐことのない『存在』の熱",
+                "aftertaste": "一滴の中に凝縮された、存在のすべての重み",
                 "deep_dive": {
                         "roots": [
                                 {
@@ -22411,7 +24894,7 @@ const WORDS = [
                                 }
                         ],
                         "points": [
-                                "present（存在する＝目の前にある）やabsent（欠席の）も同じ語根です。"
+                                "essential（不可欠な）やentityと同じ. 宇宙の「存在」という動作の結晶です。"
                         ]
                 },
                 "source": "etymon Philologist Mode",
