@@ -28888,5 +28888,51 @@ const WORDS = [
                 "source": "Oxford English Dictionary",
                 "date": "2026-03-01",
                 "era": "18th Century"
+        },
+        {
+                "id": "focus",
+                "word": "Focus",
+                "part_of_speech": "noun/verb",
+                "meaning": "焦点、集中",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "focus",
+                                        "type": "noun",
+                                        "meaning": "火の焦点",
+                                        "lang": "ラテン語"
+                                }
+                        ],
+                        "original_statement": "The word 'focus' originates from the Latin term 'focus', meaning 'hearth', denoting the fireplace as a central point of warmth and life in the home, later evolving to mean the center of interest or activity."
+                },
+                "core_concept": {
+                        "en": "In the hearth, where warmth and life converge, lies the essence of all attention.",
+                        "ja": "暖かさと生命が集まる炉の中に、すべての注意の本質がある。"
+                },
+                "thinking_layer": "焦点とは物理的な位置だけでなく、人間の精神的な集中力をも示す。物理的には、光や視線が集まる一点を指し、ここからエネルギーや情報が集約される様を表している。しかしより深い意味では、焦点とは人間が人生の中で何に最も力を注いでいるか、そのエネルギーの周囲には無数の可能性が存在し、それが人間の存在の真髄ともいえる。物事の中心に心を据えることは、人生に明確な目的を与える行為であり、それは時に困難を伴う道を照らす灯火のようなもの。そこに集中し、心を委ねることで、やがては私たち自身の存在理由を問いかけ、魂のよりどころを見出す助けとなる。焦点を定めることは、自己を見つめ直し、人生における真の価値を探求するための手段であり、その瞬間私たちは宇宙の中心に立っているかのような内的静寂を経験する。焦点とは、私たちを結びつける見えざる糸であり、全てを一つに繋ぐ力の象徴である。",
+                "synonyms": [
+                        "Concentration",
+                        "Center"
+                ],
+                "antonyms": [
+                        "Distraction",
+                        "Diffusion"
+                ],
+                "aftertaste": "In convergence, clarity prevails.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "focus",
+                                        "meaning": "hearth or fireplace"
+                                }
+                        ],
+                        "points": [
+                                "ラテン語の 'focus' は、家族や社会の中心を意味する '炉' に由来し、古代ローマの生活においては、家の中心的な場所とされる。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "17th Century"
         }
 ];
