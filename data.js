@@ -32723,5 +32723,195 @@ const WORDS = [
                 "source": "Oxford English Dictionary",
                 "date": "2026-03-01",
                 "era": "19th Century American slang"
+        },
+        {
+                "id": "guzzle",
+                "word": "Guzzle",
+                "part_of_speech": "verb",
+                "meaning": "ガツガツ飲む、または食べる行為",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "guzz",
+                                        "type": "root",
+                                        "meaning": "激しく飲む",
+                                        "lang": "Middle English"
+                                }
+                        ],
+                        "original_statement": "Derived from Middle English 'guss' or Anglo-French 'gousle', indicating a rough, vigorous manner of consuming liquids or food."
+                },
+                "core_concept": {
+                        "en": "A fervent embrace of sustenance, driven by an urgent desire.",
+                        "ja": "緊急な欲求に駆られた激しい滋養の抱擁"
+                },
+                "thinking_layer": "「ガズル」という言葉の奥に潜むのは、単なる物質の消費を超えた欲望の暗喩である。飲むという行為そのものは、人が空虚を埋めようとする試みに過ぎず、それは飢餓を超えた精神的な渇望の表れでもある。この世界で人が日々口にするものは単なる物質であり、生存に不可欠な栄養素以上のものではない。しかし、「ガズル」の裏には、与えられた一瞬を貪欲に人生に刻もうとする人間の存在意義が見える。物理的な満足感を越えて、心の中の空白を満たそうとする無意識の試み—それが「ガズル」にもたらされる意味の深層である。人間の存在自体が未だに謎であるように、我々が何を求め何を欲するのか、その本質を探る旅は終わらない。飲むことは、ひとつの生の象徴であり、生命の営みのたった一端に過ぎないが、内なる渇きを満たすことは人の魂の探求に続くものである。",
+                "synonyms": [
+                        "Devour",
+                        "Ingest"
+                ],
+                "antonyms": [
+                        "Savor",
+                        "Abstain"
+                ],
+                "aftertaste": "To guzzle is to drown desire momentarily in abundance.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "guzz",
+                                        "meaning": "to drink greedily"
+                                }
+                        ],
+                        "points": [
+                                "中期英語に起源を持ち、身体の渇きを超えた欲望と繋がる言葉"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Middle English"
+        },
+        {
+                "id": "debug",
+                "word": "Debug",
+                "part_of_speech": "verb/noun",
+                "meaning": "プログラムやシステムから誤りを取り除くこと",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "de-",
+                                        "type": "prefix",
+                                        "meaning": "取り除く",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "bug",
+                                        "type": "root",
+                                        "meaning": "虫やバグ",
+                                        "lang": "English"
+                                }
+                        ],
+                        "original_statement": "The term 'debug' emerged in the 1940s within the field of computer science, referring to the process of identifying and removing 'bugs' or errors. The legend famously attributes the term to an incident where a literal moth was removed from a computer."
+                },
+                "core_concept": {
+                        "en": "The gentle art of liberating machines from imperfections to achieve harmony.",
+                        "ja": "機械の欠陥を解放し、調和に導く優雅な技術"
+                },
+                "thinking_layer": "デバッグとは、単なるプログラムのエラー修正を超えて、より深い意味があります。それは、人間の思考や創造性がコードの中に現れる瞬間であり、心地良い静けさの中で自らの知識と知恵を試す機会です。この過程は一種の内省的な体験であり、自己とコミュニケーションを図る手段とも言えます。バグを見つけることは問題を顕在化させることであり、それを取り除くことは解決を意味します。デバッグはまた、システムを構成する要素やその相互作用を深く理解することを促し、見えないパターンや構造を発見するための旅でもあります。哲学的観点からすれば、デバッグは混乱と明晰の間を行き来する一種の儀式であり、そこにはエラディケーション（根絶）と再生のターンが潜んでいます。これを通じて、私たちはシステムの中での調和、均衡を築いていくのです。",
+                "synonyms": [
+                        "Troubleshoot",
+                        "Fix"
+                ],
+                "antonyms": [
+                        "Corrupt",
+                        "Obfuscate"
+                ],
+                "aftertaste": "Debugging is a dialogue between creator and creation, striving for clarity.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "bug",
+                                        "meaning": "An informal term for error, often due to software misbehavior."
+                                }
+                        ],
+                        "points": [
+                                "デバッグは単なる技術的プロセス以上のものです。これは知識と直感の調和を見つけるためのパズルであり、最終的には人間と機械の相互理解を目指すものです。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "20th Century"
+        },
+        {
+                "id": "rift",
+                "word": "Rift",
+                "part_of_speech": "noun",
+                "meaning": "裂け目や分裂を表す",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "Middle English 'ryft'",
+                                        "type": "root",
+                                        "meaning": "裂け目",
+                                        "lang": "スカンジナビア語起源"
+                                }
+                        ],
+                        "original_statement": "The word 'rift' comes from the Middle English 'ryft' which is derived from Old Norse 'ript', meaning a cleft or break."
+                },
+                "core_concept": {
+                        "en": "A divide that separates yet connects worlds.",
+                        "ja": "世界を隔てつつも繋ぐ裂け目"
+                },
+                "thinking_layer": "裂け目という概念は、物理的な分裂や割れ目を超えて、心の中や人間関係、そして社会の中での亀裂をも意味します。古い建物に生じる亀裂のように、時間の流れとともに進行するものもあれば、瞬間的な力で引き起こされるものもあります。それは、宇宙の始まりにも似た、創造的な力をも秘めています。裂け目は、新しいものが生まれるための空虚な空間でありながら、同時に失われたものを象徴する傷跡でもあります。しばしば無視されがちなこの空間は、深い対話を促すきっかけとなり、新たな視点と理解を得るための起点を提供します。そして、この裂け目は異なる視点や背景を持つ者同士が交わる場でもあり、その出会いによって新たな価値や絆が生まれるのです。したがって、裂け目には破壊的でありながらも創造的な二面性があり、我々人間の複雑な存在そのものを映し出しているのです。",
+                "synonyms": [
+                        "Crevice",
+                        "Fissure"
+                ],
+                "antonyms": [
+                        "Union",
+                        "Harmony"
+                ],
+                "aftertaste": "The beauty of a rift lies in its silent potential to both divide and unite.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "Middle English 'ryft'",
+                                        "meaning": "cleft or break"
+                                }
+                        ],
+                        "points": [
+                                "その語源は古ノルド語に由来し、裂け目を示すだけでなく、対立や隔たりを象徴する言葉として時代を超えて受け継がれてきた。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Middle English, 14th Century"
+        },
+        {
+                "id": "swear",
+                "word": "Swear",
+                "part_of_speech": "noun/verb",
+                "meaning": "誓う、誓い",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "swerian-",
+                                        "type": "root",
+                                        "meaning": "誓う",
+                                        "lang": "Old English"
+                                }
+                        ],
+                        "original_statement": "The word 'swear' originates from the Old English 'swerian', which means to take an oath."
+                },
+                "core_concept": {
+                        "en": "A commitment sealed by words, bound by honor.",
+                        "ja": "言葉によって結ばれた約束、名誉によって固められる"
+                },
+                "thinking_layer": "誓いとは、言葉がもたらす力強い契約であり、人間の意志が他者との関係性を深めるための手段です。古来より、誓いは神聖なものとされ、その重みは時の流れと共にますます増してきました。私たちは言葉を通して自分自身を表現し、その表現は誓うことによって真実の領域に達します。誓いには、単なる言葉以上の意味が込められ、魂の深部から生まれる決意が反映されています。誓うことは、未来を切り開く力を与え、自己と他者、さらには宇宙との約束となるのです。この行為は、勇気と信頼、そして崇高な目的によって支えられており、私たちの存在とその意味を深く掘り下げるものです。誓いは時に、個人の欲望や夢を他者と共有し、共鳴し合って新たな現実を創造する力を持ちます。誓いの影には、その背後に潜む人間の真摯で純粋な思いが垣間見えるでしょう。",
+                "synonyms": [
+                        "Oath",
+                        "Vow"
+                ],
+                "antonyms": [
+                        "Lie",
+                        "Break"
+                ],
+                "aftertaste": "A word that binds the soul as much as it binds the tongue.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "swerian",
+                                        "meaning": "to take an oath"
+                                }
+                        ],
+                        "points": [
+                                "誓いはコミュニケーションの交差点であり、言葉の限界と可能性を探る行為です。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Old English, 5th Century"
         }
 ];
