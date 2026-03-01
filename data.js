@@ -30235,5 +30235,211 @@ const WORDS = [
                 "source": "The Online Etymology Dictionary",
                 "date": "2026-03-01",
                 "era": "Late Middle English (14th Century)"
+        },
+        {
+                "id": "befuddle",
+                "word": "Befuddle",
+                "part_of_speech": "verb",
+                "meaning": "混乱させる",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "be-",
+                                        "type": "prefix",
+                                        "meaning": "しっかりと",
+                                        "lang": "Old English"
+                                },
+                                {
+                                        "text": "fuddle",
+                                        "type": "root",
+                                        "meaning": "酔わせる、混乱させる",
+                                        "lang": "English"
+                                }
+                        ],
+                        "original_statement": "The word 'befuddle' combines the prefix 'be-' with the root 'fuddle', implying a thorough state of confusion or perplexity."
+                },
+                "core_concept": {
+                        "en": "A dense fog of perplexity.",
+                        "ja": "混乱の濃霧"
+                },
+                "thinking_layer": "人間の心は時として、霧の中で道に迷うように感じるものである。「混乱」という状態は、知覚の境界が曖昧になり、内外の区別が崩れる瞬間を象徴している。物事の根源を見失い、未知の領域に立ち尽くす時、単なる情報の欠如ではなく、それは心の奥深くに潜む問いである。我々が「モヤモヤ」とした感覚を覚えるとき、それは内なる問いかけが顔を出し、日常的な思考の罠から外れる瞬間だ。混乱の本質とは、制約を取り払った自由な思考が顔を出す一瞬のことであり、通常の理論構造を超えた新たな視点を提示する機会である。心の旅路において、混乱は必ずしも避けるべき敵ではなく、ときに跳躍の機会をもたらす友ともなる。遥か彼方に打ち寄せる波のように、時に混乱は心に深いメッセージを運んでくるのだ。そこには既存の価値観を超越した真実への扉が開かれているかもしれない。",
+                "synonyms": [
+                        "Confuse",
+                        "Perplex"
+                ],
+                "antonyms": [
+                        "Clarify",
+                        "Understand"
+                ],
+                "aftertaste": "From the fog of bewilderment emerges the dawn of understanding.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "fuddle",
+                                        "meaning": "confuse, intoxicate"
+                                }
+                        ],
+                        "points": [
+                                "「befuddle」という言葉の歴史は、心の迷宮を旅するような語感を持っている。『be-』という接頭辞は、何かを徹底的に成すことを意味し、『fuddle』は酔わせることから来ている。したがって、『befuddle』は何かを完全に混乱させる状態を意味する。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Early 17th Century"
+        },
+        {
+                "id": "curtail",
+                "word": "Curtail",
+                "part_of_speech": "verb",
+                "meaning": "短縮する、削減する",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "curt-",
+                                        "type": "root",
+                                        "meaning": "短い",
+                                        "lang": "Middle English"
+                                },
+                                {
+                                        "text": "-tail",
+                                        "type": "suffix",
+                                        "meaning": "尾",
+                                        "lang": "Old French"
+                                }
+                        ],
+                        "original_statement": "Derived from Middle English 'curteillen', from Old French 'courtault', meaning 'to make short'."
+                },
+                "core_concept": {
+                        "en": "To trim the unnecessary threads that bind infinity into comprehension.",
+                        "ja": "無限を理解に結びつける余分な糸を切り取ること。"
+                },
+                "thinking_layer": "『カーテイル』という言葉には、見えない限界を形あるものに制限しようとする人間の営みが垣間見える。この言葉が持つ深遠な響きには、無限の広がりを握りしめる努力、あるいは手放す恐怖といった感情が隠されています。\n\n縮小という行為には、時間という存在の限界を意識し、有限の中に無限を押し込む知恵が含まれています。私たちの人生そのものが短縮の連続であり、欲望や夢、そして可能性を切り詰め、現実の枠組みに合わせていく過程そのものでもあります。\n\n社会においても、資源の制限や人々の欲望を制御する必要があるため、この言葉の本質は深く根付いていますが、その意味には、欲望の限界を認識することの重要性が示されています。『カーテイル』には、接ぎ木のように、未来の可能性と現実の制約を融合させるという哲学的な美が宿っているのです。",
+                "synonyms": [
+                        "Reduce",
+                        "Limit"
+                ],
+                "antonyms": [
+                        "Expand",
+                        "Extend"
+                ],
+                "aftertaste": "To curtail is to embrace the limitations that sculpt our universe.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "curt",
+                                        "meaning": "short"
+                                },
+                                {
+                                        "term": "tail",
+                                        "meaning": "to dock an animal’s tail"
+                                }
+                        ],
+                        "points": [
+                                "この語はもともと物理的な長さを削減する行為として使われたが、抽象的な概念の縮小にも適用されるまでに発展した。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "Middle English, late 15th Century"
+        },
+        {
+                "id": "thwart",
+                "word": "Thwart",
+                "part_of_speech": "verb",
+                "meaning": "阻む、妨害する",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "þvert",
+                                        "type": "root",
+                                        "meaning": "横切る",
+                                        "lang": "Old Norse"
+                                }
+                        ],
+                        "original_statement": "The word 'thwart' originates from the Old Norse 'þvert', meaning 'across' or 'transverse'. It entered Middle English as 'thwert', maintaining the notion of obstruction or hindrance."
+                },
+                "core_concept": {
+                        "en": "To obstruct the flow of a river with the strength of winds.",
+                        "ja": "風の力で川の流れを妨げること"
+                },
+                "thinking_layer": "「thwart」という言葉は、私たちの存在に対する根本的な挑戦を表しています。それは、自然の流れを逆らうこと、未知への恐怖を形にする行為です。古代から、我々は目標を達成するために様々な障害に直面してきました。進むべき道が閉ざされるとき、人はその力を結集して立ち向かわなければなりません。thwartは、その瞬間の心理的な闘争です。意図が挫かれたとき、新たな道を見出すための知恵と創造力が求められます。人生の流れに立ち向かうその行為は、内面的な成長の機会ともなりえます。私たちの選択は私たち自身の物語を形作ります。thwartという概念は、困難を乗り越え、未知の領域に踏み出す勇気を象徴しています。現代の速いペースの中で、thwartは一時の中断を生み出し、私たちに内なる自分を見つめ直し、己の限界を受け入れる契機を与えます。",
+                "synonyms": [
+                        "obstruct",
+                        "hinder"
+                ],
+                "antonyms": [
+                        "allow",
+                        "facilitate"
+                ],
+                "aftertaste": "To thwart is to challenge destiny with tenacity.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "þvert",
+                                        "meaning": "across, transverse"
+                                }
+                        ],
+                        "points": [
+                                "古ノルド語の「þvert」から派生しており、物理的および精神的に「横切る」ことを意味する。日本の語感ではそれは「道を塞ぐ」や「壁に突き当たる」に近いかもしれない。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Middle English, with roots in Old Norse"
+        },
+        {
+                "id": "nimble",
+                "word": "Nimble",
+                "part_of_speech": "adjective",
+                "meaning": "軽快で素早い",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "nimel",
+                                        "type": "root",
+                                        "meaning": "速い",
+                                        "lang": "Middle English"
+                                },
+                                {
+                                        "text": "niman",
+                                        "type": "root",
+                                        "meaning": "取る",
+                                        "lang": "Old English"
+                                }
+                        ],
+                        "original_statement": "Derived from the Middle English 'nimel', nimble has roots in Old English 'niman', meaning 'to take'. This evolved into an adjective signifying speed and dexterity."
+                },
+                "core_concept": {
+                        "en": "Like the breeze that flits through the leaves, nimble speaks of swiftness touched by grace.",
+                        "ja": "風が葉をすり抜けるような、優雅さに触れた速度を意味する。"
+                },
+                "thinking_layer": "『敏捷』とは、心の練習であり、それは肉体の軽変さだけでなく、精神と感情の柔軟性も含むものである。我々の世界は常に変化し、流れている、その中で「敏捷さ」はただ早く動くことだけを意味するのではなく、変化に即座に対応し、新しい状況に適応する能力を有することを指す。思考の速さ、ヒラメキ、即応性、これらすべてが一つとなり、人生のリズムを刻む音楽のように、異なる調和を作り上げる。我々は時に急速に流れる川のごとく動き、時に柔らかな風のように旅する。この哲学的な誘導において、敏捷さは精神の高度な形であり、それは表面的な動きの下に隠された、感受性と適応性の複雑なネットワークである。何かを迅速にするだけではなく、切り替えをスムーズに行い、変化を恐れずに受け入れられる自己を持つことである。",
+                "synonyms": [
+                        "Agile",
+                        "Spry"
+                ],
+                "antonyms": [
+                        "Clumsy",
+                        "Sluggish"
+                ],
+                "aftertaste": "Nimble, a dance of mind and body, orchestrates the symphony of life.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "nimel",
+                                        "meaning": "swift, quick"
+                                }
+                        ],
+                        "points": [
+                                "『敏捷』は迅速さのみならず、適応力と柔軟性を示す。これは常に変わり続ける世界における一種の身の振り方の象徴である。"
+                        ]
+                },
+                "source": "The Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Middle English, 12th Century"
         }
 ];
