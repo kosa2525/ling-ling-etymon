@@ -34409,5 +34409,509 @@ const WORDS = [
                 "source": "Oxford English Dictionary",
                 "date": "2026-03-01",
                 "era": "Middle English Origin"
+        },
+        {
+                "id": "doodle",
+                "word": "Doodle",
+                "part_of_speech": "noun/verb",
+                "meaning": "落書きや無意味な線描",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "doddle-",
+                                        "type": "root",
+                                        "meaning": "無駄な動き",
+                                        "lang": "英語"
+                                }
+                        ],
+                        "original_statement": "The word 'doodle' is believed to have its origins in the early 17th century, perhaps derived from the German 'dudel,' meaning 'to play' or 'to fool,' associated with the Low German 'dudeltop,' meaning 'simpleton.'"
+                },
+                "core_concept": {
+                        "en": "A seemingly trivial act of creation; an uninhibited dance of lines.",
+                        "ja": "無邪気な線の踊り、創造の地上に舞い降りる影"
+                },
+                "thinking_layer": "私たちの意識が果てしない航海を続ける中で、しばしば真理を越えて隠された意味を探し求めます。その探求の中で、落書きという行動は、自由な精神と制約からの解放を象徴するのです。落書きの行為は、我々の内なる世界を外面的に表現する最も素朴な手段であり、一見すると無意味な線や形が織りなす模様に過ぎないかもしれません。しかし、これらの無意識の産物は、実に私たちの魂の訴えを映し出しています。思考の檻から一歩外れ、幼き日の遊び心を取り戻す手段として、落書きは再認識されるべき行為です。人が如何に複雑で押しつぶされそうな現実に直面していようとも、紙の上に走る迷いのないペンの動きは、截然とした静けさをもたらすのです。物事の表層を超えて、更なる深淵を探求し続けることで、本当に意味するものが何であるかを掴むことができるのです。それは、ただの不要な行動ではなく、光の映し出す影、それこそが落書きなのです。",
+                "synonyms": [
+                        "scribble",
+                        "scrawl"
+                ],
+                "antonyms": [
+                        "artwork",
+                        "design"
+                ],
+                "aftertaste": "Doodles are whispers of the soul, painted in simplicity.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "doodling",
+                                        "meaning": "無駄な遊びや行動"
+                                }
+                        ],
+                        "points": [
+                                "落書きの行為は無駄なものと思われがちですが、それは人間の創造性の表現として重要です。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Early 17th Century"
+        },
+        {
+                "id": "consider",
+                "word": "Consider",
+                "part_of_speech": "verb",
+                "meaning": "考慮する、思案する",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "con-",
+                                        "type": "prefix",
+                                        "meaning": "共に",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "siderari",
+                                        "type": "root",
+                                        "meaning": "星を観る",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'consider' has its origins in Latin, from 'considerare', which means to examine or reflect, originally referring to star watching as a metaphor for contemplation."
+                },
+                "core_concept": {
+                        "en": "To gaze upon the cosmos of possibilities.",
+                        "ja": "可能性の宇宙を見つめること"
+                },
+                "thinking_layer": "考えるという行為は、心の目を星空に解き放ち、広漠な宇宙の中で彷徨うものです。それは一つの小さな火花が、無限の広がりに触れていくような旅路であり、思索の海に吹く微風は、過去、現在、そして未来を芋づる式に結びつけます。この深遠なる瞬間、それは自らの内なる星辰を見つめる時間であり、物事の営み、そして人間たる存在の本質が浮かび上がる時空の旅。砂粒ひとつ、それすらが宇宙の縮図であり、思考を巡らすたびに新たな星座が浮かびます。哲学は、こうして宇宙的尺度で我々を導く羅針盤のようなものであり、ひとつひとつ慎重に言葉の結晶を磨き上げる行為なのです。目を閉じ、想像の翼を広げれば、異なる次元で浮遊する己があることに気づくでしょう。思想の壮大な航海を通じて見つけ出す真実が、魂を照らします。",
+                "synonyms": [
+                        "ponder",
+                        "deliberate"
+                ],
+                "antonyms": [
+                        "ignore",
+                        "neglect"
+                ],
+                "aftertaste": "A universe resides in every thought we dare to consider.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "sider",
+                                        "meaning": "star"
+                                }
+                        ],
+                        "points": [
+                                "この言葉は、本来星を見ながら考えることを表し、思索と観察の密接な関係を示します。深い考察には周囲を取り巻く現象全てを内包することが必要であると示唆しています。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Early 16th Century"
+        },
+        {
+                "id": "tangle",
+                "word": "Tangle",
+                "part_of_speech": "noun/verb",
+                "meaning": "絡み合う、もつれさせる",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "tangle",
+                                        "type": "root",
+                                        "meaning": "もつれさせる",
+                                        "lang": "Middle English"
+                                }
+                        ],
+                        "original_statement": "The word 'tangle' is believed to have originated from Middle English 'tanglen', which means to entangle, and can be traced further back to Old Norse 'þang', meaning seaweed or something entangled."
+                },
+                "core_concept": {
+                        "en": "Entangled roots of thought and nature.",
+                        "ja": "思考と自然の絡み合う根"
+                },
+                "thinking_layer": "もつれ合い、絡み合うという状態は、物理的な現象にとどまらず、心と思想の深奥にまで及ぶ。絡み合うとは、二つ以上の実在が互いに影響を与え合い、解け合い、そして新たな秩序を生み出すこと。自然界においても、人間関係においても、あるいは内なる思考においても、このもつれ合う概念は、複雑性と相関性を表し、予測不能な成り行きとして表れる。例えば、海洋の中で波と藻が織りなす舞は、一見無秩序に見えるが、そこには隠された規則が存在する。同様に、人間の心が抱える感情の糸ももつれ、時に自らを縛り、時に自らを解放する。そのような多層的な現象は、紐解くことを求められ、時にその解を求めないことで、かえって人の心を豊かに育む。この世界に存在するすべてのものが絡み合いもつれ合う様を眺めることは、生命そのものの多様性を理解する鍵となる。絡み合いの中にこそ、宇宙的調和が宿っているのだ。",
+                "synonyms": [
+                        "Entangle",
+                        "Intertwine"
+                ],
+                "antonyms": [
+                        "Untangle",
+                        "Organize"
+                ],
+                "aftertaste": "To tangle is to cherish the unraveled depths of existence.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "tanglen",
+                                        "meaning": "to entangle"
+                                },
+                                {
+                                        "term": "þang",
+                                        "meaning": "seaweed; entangled"
+                                }
+                        ],
+                        "points": [
+                                "語源は中期英語の動詞 'tanglen' にたどり着く。古ノルド語の 'þang' に起源を持ち、絡まりや海藻を示す。これは中世の海辺の文化におけるもつれ合わせの概念が、言葉に反映されている証左である。"
+                        ]
+                },
+                "source": "Harper, Douglas. \"Online Etymology Dictionary.\"",
+                "date": "2026-03-01",
+                "era": "Middle English"
+        },
+        {
+                "id": "chuckle",
+                "word": "Chuckle",
+                "part_of_speech": "noun/verb",
+                "meaning": "静かに微笑む、小さく笑う",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "chuckle",
+                                        "type": "root",
+                                        "meaning": "静かな笑い",
+                                        "lang": "Middle English"
+                                }
+                        ],
+                        "original_statement": "The word 'chuckle' likely originates from Middle English, with intrinsic ties to the sound of quiet, restrained laughter."
+                },
+                "core_concept": {
+                        "en": "A gentle ripple of mirth, hidden yet profound.",
+                        "ja": "穏やかな微笑が、さざ波のように広がる感動"
+                },
+                "thinking_layer": "笑いという行為が持つ意義深さを熟考する中で、『くすくすと笑う』という行動の深層には、我々の日常の喜びや悲しみを包み込むような宇宙の根本的な真理が隠されています。『くすくすと笑う』時、その小さな笑いが生み出す波が、どれほど広く深く我々の心の中を旅するのか、想像してみてください。これは、ただの表現ではなく、心の微細な動きであり、それ自身が語り手と聞き手の境界を超えて響き合う、普遍のメロディーなのです。この笑いのさざめきは、言葉の表層を超え、存在の哲学に至る手段となり得るものであり、時間と空間を超越したところでその存在意義を見出します。このように『くすくすと笑う』行為は、私たちの日常の流れを切り取り、その一瞬に多層的な生命の光を当ててくれるのです。この静かな笑いは、一瞬の悦びであると同時に永遠の探求の刻印であり、心の琴線に触れた時、私たちは言葉を超えた繋がりを感じ取ることができるのです。",
+                "synonyms": [
+                        "giggle",
+                        "titter"
+                ],
+                "antonyms": [
+                        "cry",
+                        "frown"
+                ],
+                "aftertaste": "A chuckle dances silently through the heart, whispering secrets of the soul.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "chuckle",
+                                        "meaning": "Quiet laughter"
+                                }
+                        ],
+                        "points": [
+                                "『くすくす笑う』という行為自体が、内面的な満足感と精神的な安定に繋がっており、人間の感情的な発達を支える一助となっています。これは言語学的視点から見ても、心理的共振を引き起こす重要な要素として認識されています。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "16th Century"
+        },
+        {
+                "id": "translate",
+                "word": "Translate",
+                "part_of_speech": "verb",
+                "meaning": "翻訳すること",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "trans-",
+                                        "type": "prefix",
+                                        "meaning": "向こう側に",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "latus",
+                                        "type": "root",
+                                        "meaning": "運ぶ",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "Derived from Latin 'translatus', past participle of 'transferre', meaning 'to carry across'."
+                },
+                "core_concept": {
+                        "en": "Bridging worlds through the vessel of language.",
+                        "ja": "言葉の器を通じて世界を繋ぐこと。"
+                },
+                "thinking_layer": "翻訳という行為は、言葉の外なる形を超え、内なる意味の橋渡しをするものです。それは、他者の経験や感情を理解し、自分の経験と融合させる過程です。言葉の裏にあるエッセンスを捉え、新しい文脈に生き生きと解き放つことは、単なる技術ではなく、芸術でもあります。すべての翻訳者は、異なる文化の間の不可視の橋を形作り、言語の不可能の中の可能を追求します。翻訳は、単に文字を交換する以上のものです。それは、思考の深淵に潜り、そこで見つけた真実を他者に手渡すことです。このようにして、翻訳は時間と空間を超越し、人間の相互理解の深まりを促進します。言葉が持つ制約を超え、心に共鳴する新たな意味の領域を開拓する行為、それが翻訳の真髄です。",
+                "synonyms": [
+                        "Interpret",
+                        "Render"
+                ],
+                "antonyms": [
+                        "Confuse",
+                        "Obfuscate"
+                ],
+                "aftertaste": "Translation is the dance of language across the tapestry of culture.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "latus",
+                                        "meaning": "to carry"
+                                }
+                        ],
+                        "points": [
+                                "翻訳は単に直訳ではなく、文化と文脈を考慮し、元の意図を忠実に伝える行為である。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Origin traced back to Late 13th Century, Latin"
+        },
+        {
+                "id": "ancestor",
+                "word": "Ancestor",
+                "part_of_speech": "noun",
+                "meaning": "祖先や先祖を意味する",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "ante-",
+                                        "type": "prefix",
+                                        "meaning": "前に",
+                                        "lang": "ラテン語"
+                                },
+                                {
+                                        "text": "cess-",
+                                        "type": "root",
+                                        "meaning": "行く",
+                                        "lang": "ラテン語"
+                                },
+                                {
+                                        "text": "-or",
+                                        "type": "suffix",
+                                        "meaning": "者",
+                                        "lang": "ラテン語"
+                                }
+                        ],
+                        "original_statement": "Derived from the Latin 'antecessor', meaning 'one who goes before'."
+                },
+                "core_concept": {
+                        "en": "The thread that weaves the tapestry of generations.",
+                        "ja": "世代を織り成す絆"
+                },
+                "thinking_layer": "生命の流れを辿る中で、我々はしばしばその源に思いを馳せる。『祖先』とは、私たちの存在とその意味を形作る、歴史という名の河の流れである。彼らは、時と空間を超え、我々の中に息づく命の断片であり、故郷のように私たちを讃えている。我々は祖先から受け継いだ知恵と経験の源だ。彼らは、生命の短い旅路において、私たちが道を選ぶときの指針であり、声なき声である。その足跡は、無限の風景を生み出し、今を生きる私たちに知恵と勇気を届ける。それは過去の証であり、未来への約束である。祖先とはただの歴史ではなく、我々の存在を超えて交わる魂の共鳴なのだ。詩情豊かに言えば、彼らは時空を超えた不滅の舞台の演者であり、永遠の伝説の語り手でもある。",
+                "synonyms": [
+                        "forebear",
+                        "progenitor"
+                ],
+                "antonyms": [
+                        "descendant",
+                        "posterity"
+                ],
+                "aftertaste": "In every breath lies the whisper of those who came before.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "antecessor",
+                                        "meaning": "one who goes before"
+                                }
+                        ],
+                        "points": [
+                                "『ancestor』という言葉は、人間の始まりと時間を繋ぐ高貴な鎖である。この言葉は、時間と空間を超え、その影響を現代の生においても感じさせる。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "12th Century, Latin origin"
+        },
+        {
+                "id": "jubilation",
+                "word": "Jubilation",
+                "part_of_speech": "noun",
+                "meaning": "喜びや祝福の表現",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "jubilation-",
+                                        "type": "root",
+                                        "meaning": "歓喜",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'jubilation' hails from Late Latin 'jubilatio(n-)', from the verb 'jubilare', meaning to shout for joy."
+                },
+                "core_concept": {
+                        "en": "The effervescent celebration of pure joy.",
+                        "ja": "純粋な喜びの祝祭"
+                },
+                "thinking_layer": "喜びは、人間存在の根本に宿る光である。時として、人生は暗雲で覆われるが、その厚い雲の隙間から、瞬く間に輝く光が差し込むことがある。その光こそが喜びである。それは心を温め、希望を与えるだけでなく、私たちが持っている基盤すら強固なものとする。喜びの感覚は、一瞬で過ぎ去る儚きものであるが、その反響は永遠のものだ。我々は、喜びをもって自己を再発見し、そこに新たな生命の意味を見出す。言語としての「jubilation」は、単なる言葉以上のものであり、その背後には深遠な感情の歴史が脈打っている。それは、古代ラテン語の時代から、心の奥底で湧き上がる歓喜として、時を超えた共鳴を続けている。喜びは、他者との共鳴によって増幅し、個々の存在を超えて広がる集合的な経験として、我々の記憶に刻まれる。それは持続的な幸福への道を照らし、人間の経験の無限のキャンバスにおける美の一瞬なのだ。",
+                "synonyms": [
+                        "Exultation",
+                        "Delight"
+                ],
+                "antonyms": [
+                        "Despair",
+                        "Sorrow"
+                ],
+                "aftertaste": "Jubilation transcends the mundane, touching the divine within us.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "jubilare",
+                                        "meaning": "to shout for joy"
+                                }
+                        ],
+                        "points": [
+                                "「jubilare」の語源は、ラテン語に由来し、歓喜の叫びを意味する。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Late Latin"
+        },
+        {
+                "id": "neutral",
+                "word": "Neutral",
+                "part_of_speech": "adjective",
+                "meaning": "どちらの側にもつかない状態",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "neuter",
+                                        "type": "root",
+                                        "meaning": "中立",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'neutral' originates from the Latin 'neuter', meaning 'neither', referring to not taking sides."
+                },
+                "core_concept": {
+                        "en": "The silent balance of impartiality.",
+                        "ja": "沈黙の中にある公正さの均衡"
+                },
+                "thinking_layer": "中立という概念は、人類の営みの中で永続的なテーマである。どちらの側にも与しないことは、自然界における調和を示唆し、生きとし生けるものすべての安定をもたらす。中立を保つという行為は、感情という激流を乗り越え、外部からでは推し量れない深遠な精神の境地を目指すことに他ならない。それは善悪、光と闇、愛憎といった二元性から解放され、自らの存在の根底にある真実を探求する旅でもある。心の中の嵐を鎮め、自己の核心に静寂をもたらす中で、中立は新たな視座を提供し、より高次の思考へと導く。しかし人間社会の文脈において、それはしばしば無関心や冷淡と誤解される危険も孕んでいる。それゆえ、中立を貫くためには、揺るぎない意志と熟達した洞察が不可欠となる。中立の深遠さを噛み締めながら、我々は自己の中でかき立てられる感情の波を見つめ、そして静穏を求め続けるのである。",
+                "synonyms": [
+                        "impartial",
+                        "dispassionate"
+                ],
+                "antonyms": [
+                        "biased",
+                        "partial"
+                ],
+                "aftertaste": "In silence, neutrality whispers the truest balance.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "neuter",
+                                        "meaning": "neither"
+                                }
+                        ],
+                        "points": [
+                                "中立の概念は古代ローマ時代の哲学にも見られ、倫理的中立性の探求はシェークスピアの劇にも反映されている。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "14th Century"
+        },
+        {
+                "id": "delight",
+                "word": "Delight",
+                "part_of_speech": "noun/verb",
+                "meaning": "喜びや楽しみ",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "de-",
+                                        "type": "prefix",
+                                        "meaning": "取り去る",
+                                        "lang": "Old French"
+                                },
+                                {
+                                        "text": "laitier",
+                                        "type": "root",
+                                        "meaning": "楽しませる",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'delight' originates from the Old French 'delit', which comes from the Latin 'delectare', meaning 'to charm' or 'to please'."
+                },
+                "core_concept": {
+                        "en": "A luminous joy resonating through the soul.",
+                        "ja": "魂を通して響き渡る輝かしい喜び"
+                },
+                "thinking_layer": "『喜び』という言葉は、その音と響きによって、瞬時に私たちの心の奥深くへと染み渡る感覚を呼び覚まします。この言葉を思い浮かべるとき、私たちは単なる一瞬の幸せを超えた何かに触れているのです。それは、心に光をもたらし、日々の些細なことすらも輝かせる力を持った感情です。喜びの真髄は、自己を忘れ、他者とつながる瞬間にあります。人間の心の中には、常に喜びを求める小さな種が宿っており、それは予期せぬ瞬間に花開きます。人生の中でこの種をどのように育むかは、個々の経験と認識により異なりますが、その成長は必ずや驚きと感謝の感覚を伴うでしょう。喜びはまた、私たちが追い求めるだけでなく、時には意識しなくとも訪れるものであり、これこそが人生の魔法とも言えるでしょう。何かを得ることによってだけでなく、不意に訪れる一陣の風や、ささやかな日常の美しさの中に、この『喜び』の本質を見出すことができるのです。",
+                "synonyms": [
+                        "Joy",
+                        "Pleasure"
+                ],
+                "antonyms": [
+                        "Displeasure",
+                        "Sorrow"
+                ],
+                "aftertaste": "Delight is the universe's gentle whisper of magic amidst the mundane.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "delectare",
+                                        "meaning": "to charm, to please"
+                                }
+                        ],
+                        "points": [
+                                "『delight』という言葉はラテン語の『delectare』に由来し、魅了するという意味を持っています。"
+                        ]
+                },
+                "source": "EtymOnline: Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "14th Century"
+        },
+        {
+                "id": "ambiguity",
+                "word": "Ambiguity",
+                "part_of_speech": "noun",
+                "meaning": "曖昧さ、不確かさ",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "ambi-",
+                                        "type": "prefix",
+                                        "meaning": "両側",
+                                        "lang": "ラテン語"
+                                },
+                                {
+                                        "text": "agere",
+                                        "type": "root",
+                                        "meaning": "行動する",
+                                        "lang": "ラテン語"
+                                }
+                        ],
+                        "original_statement": "The word 'ambiguity' derives from the Latin term 'ambiguitas', which means doubtfulness or uncertainty, and is formed by 'ambi-', meaning both, and 'agere', meaning to drive."
+                },
+                "core_concept": {
+                        "en": "The shimmering dance of uncertainty.",
+                        "ja": "不確かなものが舞う輝き"
+                },
+                "thinking_layer": "曖昧さという概念は、確実と無秩序のはざまで揺れ動くものであり、私たちの存在そのものを反映している。明確な答えがない状況では、人は創造力を働かせ、未知に立ち向かう勇気を試される。曖昧さはまた、美しさの一部でもある。例えば、墨絵のように、陰影がその物語を強調するように、曖昧さもその物語を深める。人間の心は、確たる答えを求めつつも、必ずしも全てを理解したがらない。これは、無限の可能性を秘めた未確定の未来に魅了されているからである。曖昧さを抱きしめることは、私たちが持つ制限のない潜在力を解き放つことでもあり、未知の領域に飛び込む準備をすることでもある。哲学的に考えると、曖昧さは解釈の余地を残し、個々の視点や表現により豊かさを与えるのだ。",
+                "synonyms": [
+                        "Vagueness",
+                        "Obscurity"
+                ],
+                "antonyms": [
+                        "Clarity",
+                        "Certainty"
+                ],
+                "aftertaste": "Ambiguity is the garden where both reason and imagination play.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "ambi",
+                                        "meaning": "both sides or ways"
+                                },
+                                {
+                                        "term": "agere",
+                                        "meaning": "to drive, to lead"
+                                }
+                        ],
+                        "points": [
+                                "この語のラテン語起源は、両側から何かを引っ張るという概念を示しており、それ故に物事がはっきりしない様子を表している。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "14th Century"
         }
 ];
