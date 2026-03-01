@@ -41207,5 +41207,319 @@ const WORDS = [
                 "source": "Online Etymology Dictionary",
                 "date": "2026-03-01",
                 "era": "Late Latin, around the 14th Century"
+        },
+        {
+                "id": "conserve",
+                "word": "Conserve",
+                "part_of_speech": "verb",
+                "meaning": "保護する、保存する",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "con-",
+                                        "type": "prefix",
+                                        "meaning": "共に",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "servare",
+                                        "type": "root",
+                                        "meaning": "保つ、守る",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "Derived from the Latin 'conservare' meaning 'to preserve together'."
+                },
+                "core_concept": {
+                        "en": "To guard the essence of life against the fading echoes of time.",
+                        "ja": "時間の消えゆく声に対抗して命の本質を守ること"
+                },
+                "thinking_layer": "保存という行為は、存在の儚さと連結しています。我々が保護しようとするものは、時間の流れに逆らう試みであり、過去の遺産を未来に向けて繋ぐ架け橋です。保存は単なる物質的な継承ではなく、心の中にある観念と感情の領域をも網羅します。その心の中にある保存は、時代と個人の生きた記憶を超えるもので、その深さは無意識の海と結びついています。保存するという行為は、思考と感情の多角的な交差点であり、生命の持続性への微細な認識です。それはまた、我々が歴史と交流するための言語であり、宇宙の中での孤独な存在が無限の時間軸に刻む痕跡を理解するための詩的な試みです。この詩的かつ哲学的な構造の中で、保存の行為は繊細な価値の認識を育み、その行為によって我々は未来の創造に関与し続けます。",
+                "synonyms": [
+                        "Preserve",
+                        "Maintain"
+                ],
+                "antonyms": [
+                        "Destroy",
+                        "Neglect"
+                ],
+                "aftertaste": "Conservation is the silent symphony of endurance against oblivion.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "servare",
+                                        "meaning": "to keep, to guard"
+                                }
+                        ],
+                        "points": [
+                                "保存という概念は、古代の人々が自然界に対する畏敬の念と調和を求めてきた過程に由来しており、個人と社会のレベルでの知的および文化的伝承の必要性が含まれています。"
+                        ]
+                },
+                "source": "The Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Late Middle English, from Latin"
+        },
+        {
+                "id": "manifest",
+                "word": "Manifest",
+                "part_of_speech": "noun/verb/adjective",
+                "meaning": "明白、明示する",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "manu-",
+                                        "type": "root",
+                                        "meaning": "手",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "festus",
+                                        "type": "root",
+                                        "meaning": "打たれた, 明らかな",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "Derived from the Latin 'manifestus', meaning clearly visible or obvious, manifest is rooted in the tangible, bringing forth clarity through the senses."
+                },
+                "core_concept": {
+                        "en": "Sheen revealing the essence of the hidden.",
+                        "ja": "隠された本質を明らかにする輝き"
+                },
+                "thinking_layer": "人間の意識は、世界の海を航行する船のようなものである。表面的に見えるものは、ただ単に光を反射する波であるが、その下には深淵が広がっている。そして「明示する」という言葉は、まるで舷灯のようにその深淵を照らし、その存在感を我々の目に映し出す。この行為により、我々は曖昧であったり見えなかったものを目に見える形として理解することができる。明示されることは、何かが本来の形を現す瞬間であり、それは時に静けさを伴いながら心の奥底に響く。目に見える形に顕れることにより、そのものは我々の世界観を変容させ、新しい視座を提供する。すべての本質が明示される瞬間は、宇宙の新たな側面を解き明かすほどの衝撃であり、我々に思考の新たな道を切り開く。存在そのものと目に見える形を深く捉えることで、本当に意味のある理解が生まれ、豊かな人生が育まれるのである。",
+                "synonyms": [
+                        "Clear",
+                        "Evident"
+                ],
+                "antonyms": [
+                        "Obscure",
+                        "Hidden"
+                ],
+                "aftertaste": "The act of manifesting bridges the unseen with the visible world.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "manu",
+                                        "meaning": "hand"
+                                },
+                                {
+                                        "term": "festus",
+                                        "meaning": "struck, obvious"
+                                }
+                        ],
+                        "points": [
+                                "「明示する」という行為は、未知なるものを光の下へと引き出し、我々の知覚を通して別の世界を垣間見せるものである。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "14th Century, Latin Origin"
+        },
+        {
+                "id": "observe",
+                "word": "Observe",
+                "part_of_speech": "verb",
+                "meaning": "注意深く見ること、観察すること",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "ob-",
+                                        "type": "prefix",
+                                        "meaning": "〜に向かって",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "servare",
+                                        "type": "root",
+                                        "meaning": "守る、保つ",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "From the Latin 'observare', meaning to watch over, to attend to."
+                },
+                "core_concept": {
+                        "en": "To watch the world unfold with mindful attention.",
+                        "ja": "心を尽くして世界の展開を見守ること"
+                },
+                "thinking_layer": "観察とは、瞬間のうちに深遠な宇宙を見出す旅である。それは単なる見るという行為を超え、心の目で世界を捉え、瞬間を真実に映し出すことだ。観察するとは、自分の内面と外界の繋がりを繊細に感じ取り、それらが紡ぐ物語に耳を傾けること。それは我々の存在の証であり、同時に人間の本質を形作るものだ。観察を通して、人は自己を知り、他者を理解する。自然の営みを見守り、社会の動向に心を留めることで、本質的な認識が芽生える。観察眼は、私たちの思考と感情をより深く豊かにし、世界との新しい対話を生む。その行為は、日常の喧騒から一歩退き、静寂の中で響き合う自己の声を聴くことだ。観察とは、無限の可能性を秘めた宇宙に投げかける、心の冒険である。",
+                "synonyms": [
+                        "watch",
+                        "monitor"
+                ],
+                "antonyms": [
+                        "ignore",
+                        "overlook"
+                ],
+                "aftertaste": "Observing is the art of discovering the extraordinary in the ordinary.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "servare",
+                                        "meaning": "to keep, to protect"
+                                }
+                        ],
+                        "points": [
+                                "『observe』はラテン語に由来し、深い注意と関心をもって物事を捉える概念を含む。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "Late Middle English, from Latin observare"
+        },
+        {
+                "id": "manual",
+                "word": "Manual",
+                "part_of_speech": "adjective",
+                "meaning": "手で扱うもの、または手動で行うもの",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "manus",
+                                        "type": "root",
+                                        "meaning": "手",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'manual' finds its origins in the Latin 'manualis', which stems from 'manus', meaning 'hand'."
+                },
+                "core_concept": {
+                        "en": "A connection between human hands and the heart of creation.",
+                        "ja": "人の手と創造の核心との結び付き"
+                },
+                "thinking_layer": "手とその役割について考える時、それは単に物質を移動させるだけでなく、創造と意志の力を示しています。手は人類の進化の過程で重要な役割を果たしてきた。それは頭脳の延長として、世界に干渉し、形作る能力を持っている。『手作業』として知られるこのプロセスは、人間の内面と外界との接触点であり、触覚を通じて知識を得る窓でもあります。手は慣れ親しんだ作業をしていると思うかもしれませんが、その動きの背後には深遠な哲学が潜んでいます。言葉の起源であるラテン語の『manus』に戻ると、手は単に物理的な器具ではなく、個々の魂が宇宙と対話することを可能にする媒介でもあることがわかります。こうした無数の機能を持つ手は、日々の生活における見過ごされがちな英雄であり、その尊さを認識することで我々は新たな視点を持ち続けることができます。",
+                "synonyms": [
+                        "Hand-operated",
+                        "Manual labor"
+                ],
+                "antonyms": [
+                        "Automatic",
+                        "Mechanical"
+                ],
+                "aftertaste": "Manual, a timeless dance of human touch with the fabric of reality.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "manus",
+                                        "meaning": "hand"
+                                }
+                        ],
+                        "points": [
+                                "手は人間の創造力と知識の象徴であり、人工物と自然の境界を越える象徴である。"
+                        ]
+                },
+                "source": "Oxford University Press, Latin Origin Dictionary",
+                "date": "2026-03-01",
+                "era": "14th Century Latin"
+        },
+        {
+                "id": "invention",
+                "word": "Invention",
+                "part_of_speech": "noun",
+                "meaning": "創造や発明",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "invent-",
+                                        "type": "root",
+                                        "meaning": "見つける、発見する",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "ion",
+                                        "type": "suffix",
+                                        "meaning": "行為、状態",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'invention' derives from the Latin 'inventio', from 'invenire', meaning 'to find' or 'discover'."
+                },
+                "core_concept": {
+                        "en": "The divine spark that breathes life into the unknown, crafting reality from the shadows of thought.",
+                        "ja": "思考の陰から現実を形作る、未知に命を吹き込む神聖な火花"
+                },
+                "thinking_layer": "発明という言葉の背景には、時を超えた人類の求道のしるしが秘められている。それは知識の限界を押し広げる行為であり、新しい概念や装置を生み出す力である。発明は単なる物理的な道具の創出に留まらず、私たちの認識の枠を広げ、世界観を変容させる。日本の俳句が一瞬の美を捉えるように、発明もまた、瞬間的なアイデアの閃きを形にする。時として発明は思想的な革命をもたらし、人類の進化の道を示す羅針盤となる。それは過去と未来の接点に存在し、新たな可能性への扉を開く鍵である。発明の真髄は、無から有を生み出す創造的な力にある。それは無限の虚無から実体を形作り、目に見える世界に不可視の影響を与える力である。それゆえ、発明とは理論の枠を超えて、人間の心の深奥に響く詩的な探究といえる。",
+                "synonyms": [
+                        "creation",
+                        "innovation"
+                ],
+                "antonyms": [
+                        "destruction",
+                        "stagnation"
+                ],
+                "aftertaste": "Invention is the cradle of human progression, lighting the path toward an illuminated future.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "invent-",
+                                        "meaning": "to find, to discover"
+                                }
+                        ],
+                        "points": [
+                                "発明は単なる新しい物を作る行為ではなく、既存の概念や枠組みを超越する方法である。ラテン語の 'invenire' は「見つける」という意味を持ち、この行為は新しい視点や認識を切り開くことを象徴している。発明はまた、社会文化的な進化の波を創り出す原動力であり、それは人類の発展の歴史において常に重要な役割を果たしてきた。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "Late Middle English (14th Century)"
+        },
+        {
+                "id": "transparent",
+                "word": "Transparent",
+                "part_of_speech": "adjective",
+                "meaning": "透明であること",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "trans-",
+                                        "type": "prefix",
+                                        "meaning": "向こう側に",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "parere",
+                                        "type": "root",
+                                        "meaning": "見える",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "From Latin 'transparentem,' meaning 'showing light through,' formed from 'trans-' + 'parere.'"
+                },
+                "core_concept": {
+                        "en": "A window into clarity, unseen and profound.",
+                        "ja": "明瞭さへの窓、見えないが深い"
+                },
+                "thinking_layer": "透明性とは、人間の内面を映し出す鏡のようなものであり、見えないものを感じさせる力を持ちます。それは物理的な対象のみを指すのではなく、精神的な透明さも含みます。透明なものは、その奥に存在する真実を隠すことなく表現し、光をも通す性質を持ち、人と人を、心と心を繋げる架け橋となります。透明性が具現化するのは、自己の理解を深め、他者を受け入れることによって可能となります。見えないところに宿る美、すなわち儚さと一体になった時、我々は初めて透明の本質に近づけるのです。透明な存在は、時に無防備でありながらもその奥深さに多くの語り得ぬ物語を秘めています。それは感情の流れ、思考の揺れ動き、そしてそんな無意識の営みをも、人間は透明性という概念を通じて読むことができるのです。この透明性という認識の革新は、人類が知を求め続ける探求の中で、繊細な美と鋭い哲学を伴う表象を与えてくれます。",
+                "synonyms": [
+                        "clear",
+                        "lucid"
+                ],
+                "antonyms": [
+                        "opaque",
+                        "obscure"
+                ],
+                "aftertaste": "Transparency unveils the unseen truths of our spirit.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "trans-",
+                                        "meaning": "across, beyond"
+                                },
+                                {
+                                        "term": "parere",
+                                        "meaning": "to appear"
+                                }
+                        ],
+                        "points": [
+                                "透明性は、物理的な光透過性を越えて精神性をも表現する概念である。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "Late Latin, Medieval Period"
         }
 ];
