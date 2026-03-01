@@ -312,7 +312,7 @@ def report_item():
     with conn:
         cur = conn.cursor()
         cur.execute(f"INSERT INTO reports (reporter, target_username, target_type, target_id, reason, date, status) VALUES ({p}, {p}, {p}, {p}, {p}, {p}, {p})",
-                     (data['reporter'], data['target_username'], data['target_type'], data['target_id'], data['reason'], datetime.datetime.now().strftime("%Y-%m-%d %H:%M"), 'pending'))
+                     (data['reporter'], data['target_username'], data['target_type'], data['target_id'], data['reason'], datetime.now().strftime("%Y-%m-%d %H:%M"), 'pending'))
     conn.close()
     return jsonify(status="success")
 
@@ -436,7 +436,7 @@ def add_notification(username, n_type, message, link):
     with conn:
         cur = conn.cursor()
         cur.execute(f"INSERT INTO notifications (username, type, message, link, date, is_read) VALUES ({p}, {p}, {p}, {p}, {p}, {p})",
-                     (username, n_type, message, link, datetime.datetime.now().strftime("%Y-%m-%d %H:%M"), False if DATABASE_URL else 0))
+                     (username, n_type, message, link, datetime.now().strftime("%Y-%m-%d %H:%M"), False if DATABASE_URL else 0))
     conn.close()
 
 def notify_followers(followed_user, message, link):
@@ -654,7 +654,7 @@ def submit_word():
             existing_words = []
 
         word_payload['author'] = username
-        word_payload['date'] = datetime.datetime.now().strftime("%Y-%m-%d")
+        word_payload['date'] = datetime.now().strftime("%Y-%m-%d")
         
         new_list = [w for w in existing_words if w['id'] != word_payload['id']]
         new_list.append(word_payload)
@@ -758,7 +758,7 @@ def submit_essay():
             if not user or not user[0]:
                 return jsonify(status="error", message="エッセイ投稿にはPremium会員である必要があります。"), 403
             
-            date_str = datetime.datetime.now().strftime("%Y-%m-%d")
+            date_str = datetime.now().strftime("%Y-%m-%d")
             if DATABASE_URL:
                 cur.execute(f"INSERT INTO user_essays (title, content, author, date) VALUES ({p}, {p}, {p}, {p}) RETURNING id",
                              (title, content, username, date_str))
@@ -789,7 +789,7 @@ def post_reflection():
     with conn:
         cur = conn.cursor()
         cur.execute(f"INSERT INTO reflections (word_id, username, content, date) VALUES ({p}, {p}, {p}, {p})",
-                     (word_id, username, content, datetime.datetime.now().strftime("%Y-%m-%d %H:%M")))
+                     (word_id, username, content, datetime.now().strftime("%Y-%m-%d %H:%M")))
         
         # 著者に通知
         if target_author and target_author != username:
@@ -806,7 +806,7 @@ def post_reply():
     with conn:
         cur = conn.cursor()
         cur.execute(f"INSERT INTO replies (reflection_id, username, content, date) VALUES ({p}, {p}, {p}, {p})",
-                     (data['reflection_id'], data['username'], data['content'], datetime.datetime.now().strftime("%Y-%m-%d %H:%M")))
+                     (data['reflection_id'], data['username'], data['content'], datetime.now().strftime("%Y-%m-%d %H:%M")))
     conn.close()
     return jsonify(status="success")
 
