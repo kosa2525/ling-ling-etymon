@@ -44911,5 +44911,321 @@ const WORDS = [
                 "source": "Online Etymology Dictionary",
                 "date": "2026-03-01",
                 "era": "Late Middle English, 14th Century"
+        },
+        {
+                "id": "indicate",
+                "word": "Indicate",
+                "part_of_speech": "verb",
+                "meaning": "指し示す",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "in-dicare",
+                                        "type": "prefix-root",
+                                        "meaning": "指し示す",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'indicate' derives from the Latin 'indicāre', composed of 'in-', meaning 'toward', and 'dicāre', meaning 'to proclaim'."
+                },
+                "core_concept": {
+                        "en": "A silent gesture towards the unknown.",
+                        "ja": "未知なるものへの無言の仕草"
+                },
+                "thinking_layer": "私たちが日々の営みの中で道を示す行為には無数の意味が宿る。指し示すことは、単なる方向や選択を示すだけではなく、我々の意識が未来への扉を叩くべく、その扉の鍵を探し求める行為そのものでもある。古代ローマの人々が「indicāre」として形づくったこの言葉は、人間の意志が肉体という限界を超えて、思索の彼方へと向かう瞬間を指し示している。この言葉が持つ重みは、物理的な動作を超え、存在そのものを問い直す術の一つと言えよう。指し示された道の先に何があるのか、その答えは常に謎に包まれているが、その解を追い求めることこそが人類の進化の推進力であることは明白である。現代においても、我々は無限の可能性の中で選択を迫られ続け、指し示す行為の中で常に新たな真実を見出そうと努めている。それは、言葉という形を越え、存在の深遠を語る表現の一種であり、指し示す瞬間において、我々の存在はより一層輝きを増すのである。",
+                "synonyms": [
+                        "Reveal",
+                        "Demonstrate"
+                ],
+                "antonyms": [
+                        "Conceal",
+                        "Hide"
+                ],
+                "aftertaste": "The act of indicating unveils the paths that lie undiscovered.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "dicare",
+                                        "meaning": "to proclaim"
+                                },
+                                {
+                                        "term": "in-",
+                                        "meaning": "toward"
+                                }
+                        ],
+                        "points": [
+                                "ラテン語に遡ると、人間が言葉を通じてどのように意志を伝達し、意識を広げようとしたかが見えてくる。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "Late Middle English, influenced heavily by Latin"
+        },
+        {
+                "id": "participate",
+                "word": "Participate",
+                "part_of_speech": "verb",
+                "meaning": "参加する",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "part-",
+                                        "type": "root",
+                                        "meaning": "部分",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "cip-",
+                                        "type": "root",
+                                        "meaning": "取る",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "-ate",
+                                        "type": "suffix",
+                                        "meaning": "動詞化",
+                                        "lang": "English"
+                                }
+                        ],
+                        "original_statement": "Derived from Latin 'participare', meaning 'to share in'."
+                },
+                "core_concept": {
+                        "en": "Engagement in the harmonious dance of shared experiences.",
+                        "ja": "経験を共有する調和の舞踏への関与"
+                },
+                "thinking_layer": "参加という行為は、人間が存在する社会の根幹を成す。古代から、私たちは一人では生きられない存在であり、他者との関わりを通じて自己を見つけ、まるで大河の流れに石が角を削られるが如く、磨かれ、形作られてきた。何かに参加することは、一瞬一瞬の輝きを共に創り出すことでもあり、そのプロセスは個の限界を超えて、より大きな存在と一体となる旅路である。すなわち、参加することは個人を超えた無言の響き合いであり、そこで得られる感動や発見は言葉では伝えきれない貴重な宝となる。これこそが人間の本質であり、私たちが心を開いて他者と交わることで迎え入れるべき未知の体験、大いなる交流の賜物なのである。深い次元で参加の本質を捉えるとき、私たちは単なる観察者ではなく、宇宙という劇場の役者であることに気づく。参加することを通じて、私たちは他者の目を通し、自らを他者の中に探り、再発見する。そこで生まれる共鳴は、言葉の限界を超えて、私たちの魂に触れ続ける。瓶に詰めることのできない永遠の瞬間、それが『参加』という言葉の持つ深遠な響きである。",
+                "synonyms": [
+                        "Engage",
+                        "Join"
+                ],
+                "antonyms": [
+                        "Withdraw",
+                        "Exclude"
+                ],
+                "aftertaste": "Participation is the silent synergies between souls.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "part-",
+                                        "meaning": "A part or share"
+                                },
+                                {
+                                        "term": "cip-",
+                                        "meaning": "To take or seize"
+                                }
+                        ],
+                        "points": [
+                                "ラテン語での「参加」は他者との共同作業や体験を指し、本質的に他者との関わりを示す。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Late Middle English, from Latin"
+        },
+        {
+                "id": "separate",
+                "word": "Separate",
+                "part_of_speech": "verb/adjective",
+                "meaning": "分ける、分かれている",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "se-parare",
+                                        "type": "prefix/root",
+                                        "meaning": "離れる/準備する",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'separate' originates from the Latin verb 'separare', which means 'to divide' or 'to detach'. It entered the English language in the late Middle Ages."
+                },
+                "core_concept": {
+                        "en": "The delicate art of division and distinction.",
+                        "ja": "分かち合いと区別という繊細な技"
+                },
+                "thinking_layer": "「分かれる」という行為には、物理的な距離だけでなく、心の中の距離も含まれる。あるものが一つの塊から離れるとき、それは新たな独立を獲得し、独自の存在としての道を歩み始める。分かれるという行為には勇気が必要であり、また、未知の未来への一歩である。しかし、その過程には感動的な美しさがあり、新たな視点や自己発見の機会をもたらす。一方で、この過程は孤独や切なさも伴うが、その一部は必然的な痛みなのかもしれない。それもまた、人生の一部として受け入れるべき一種の美学である。別れを経験するたびに、人間は内面的に成長し、その成長は人生の不可欠なエッセンスとなる。分かれるという行為は、時に葛藤を引き起こし、時に解放をもたらす。自分自身や他者、環境とのつながりを再考し、理解を深めるための契機となる。分離は時に避けがたい現実であるが、それを乗り越えるプロセスが、私たちをより豊かに、人間的に成長させるのである。",
+                "synonyms": [
+                        "Divide",
+                        "Detach"
+                ],
+                "antonyms": [
+                        "Unite",
+                        "Join"
+                ],
+                "aftertaste": "Separation can be an invitation to explore the unknown within and without.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "se",
+                                        "meaning": "apart"
+                                },
+                                {
+                                        "term": "parare",
+                                        "meaning": "to prepare"
+                                }
+                        ],
+                        "points": [
+                                "ラテン語の『separare』には、『分離する』という意味の他に、『準備する』という意味も含まれており、分かれることで新たな状況に備えるニュアンスがある。この準備は精神的、物質的、あるいは社会的な変化を含む可能性がある。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Late Middle Ages"
+        },
+        {
+                "id": "preference",
+                "word": "Preference",
+                "part_of_speech": "noun",
+                "meaning": "選り好み、好むこと",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "prae-",
+                                        "type": "prefix",
+                                        "meaning": "前に",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "ferre",
+                                        "type": "root",
+                                        "meaning": "運ぶ、持ち上げる",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'preference' traces back to the Latin 'praeferentia', derived from 'prae' (before) and 'ferre' (to carry)."
+                },
+                "core_concept": {
+                        "en": "The delicate balance between desire and choice.",
+                        "ja": "欲望と選択の微妙なバランス"
+                },
+                "thinking_layer": "選好とは、人間の心に息づく深遠な探求の旅である。私たちの選択は、日々の生活における些細な場面から人生の重大な決断に至るまで、常に優劣や好みを反映している。好むことは、個人の内側にある無限の可能性を開放し、自己表現の具現化を導いているのだ。それは、見えない糸で運命を編み、何時如何なる時も私たちの存在を超越的な次元へと導いていく。選好はまた、経験や文化、価値観に影響され、我々の個性を象徴する。私たちは何者であるのか、また何を求めるのか。その問いに答えるために、選好を再評価し、探究することが求められている。我々の心の奥深くにある静かな声を聞き、その声がバランスと調和をもたらすことを願って、選好は私たちの未来に光を灯し続ける。選好とは、ただの選択ではなく、究極的には私たち自身の表現であり、自己理解の旅路である。それは生命の眩しさと思念の狭間で、微細な表現とともに、その意味を持ち得ている。",
+                "synonyms": [
+                        "Inclination",
+                        "Favor"
+                ],
+                "antonyms": [
+                        "Apathy",
+                        "Indifference"
+                ],
+                "aftertaste": "Preference is the essence of what it means to be deeply human.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "ferre",
+                                        "meaning": "to carry or bear"
+                                }
+                        ],
+                        "points": [
+                                "語源的にはラテン語の'ferre'に由来し、意味は「運ぶ、持ち上げる」である。これが転じて選択の重みを持つ象徴となった。"
+                        ]
+                },
+                "source": "Etymonline",
+                "date": "2026-03-01",
+                "era": "Late Middle English"
+        },
+        {
+                "id": "value",
+                "word": "Value",
+                "part_of_speech": "noun",
+                "meaning": "価値・評価",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "val-",
+                                        "type": "root",
+                                        "meaning": "強い",
+                                        "lang": "ラテン語"
+                                },
+                                {
+                                        "text": "uere",
+                                        "type": "suffix",
+                                        "meaning": "あり",
+                                        "lang": "ラテン語"
+                                }
+                        ],
+                        "original_statement": "The word 'value' is derived from the Latin 'valere', which means 'to be strong, to be worth'."
+                },
+                "core_concept": {
+                        "en": "A timeless pursuit of essence and worth.",
+                        "ja": "本質と価値の永遠の追求"
+                },
+                "thinking_layer": "価値という言葉は、私たちの内なる力や存在の重みを表現する概念です。人生の中で何が重要であるかを測る基準となり、物事の優劣を定め、私たちの行動や選択に深い影響を及ぼします。それは物や経験、あるいは関係性に与えられる評価であり、時には比喩的な意味を持ち、哲学的な探求の対象ともなります。価値は固定されたものではなく、文化や時代と共に変化し続ける動的なものです。個々の価値観が集まり、社会の価値体系を構築し、それが個人の倫理観にまで影響を及ぼすのです。価値の深層には、生きることの目的や意義が潜んでおり、それにより私たちは自己の存在理由を模索することになります。こうした価値観の追求は、内省を促し、人間としての成熟や真実の探求に繋がります。価値とは、人間の心が織りなす複雑かつ美しい模様なのです。",
+                "synonyms": [
+                        "Worth",
+                        "Merit"
+                ],
+                "antonyms": [
+                        "Worthlessness",
+                        "Triviality"
+                ],
+                "aftertaste": "In value, we find both purpose and the essence of existence.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "valere",
+                                        "meaning": "to be strong"
+                                }
+                        ],
+                        "points": [
+                                "言葉の持つ力がさまざまな文化で異なる価値観を形成する影響を及ぼすことを示す高度な語源学的知見。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "13th Century Latin"
+        },
+        {
+                "id": "presentation",
+                "word": "Presentation",
+                "part_of_speech": "noun",
+                "meaning": "発表や提示の行為",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "prae-positio",
+                                        "type": "root",
+                                        "meaning": "前への配置",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "From Latin 'praesentatio', which means the act of placing something before, derived from 'praesentare', meaning to place before or to show."
+                },
+                "core_concept": {
+                        "en": "An unveiling of thoughts upon the communal stage.",
+                        "ja": "思考を共有の舞台に開示する行為"
+                },
+                "thinking_layer": "プレゼンテーションとは、個人の内面を外界に解き放つ瞬間であり、その意味は単なる情報の共有を超える。精神と精神の架け橋となるこの行為は、発表者の思考が聴衆と共鳴し、新たな洞察へと誘う瞬間である。古代から続く人間の表現欲求の一形態として、時代を超えて人々の心に訴え続ける。一方で、プレゼンテーションは一種の劇場でもあり、言葉とジェスチャーが織りなす舞台の中で、一瞬の静寂が観衆を深い思索の淵へと導く。つながりが生まれるとき、それは一つの瞬間から無限の可能性が広がる合図であり、他者との共鳴が真の理解をもたらす。表に立つ者の情熱と豊富な知識が、聴く者の心に火を灯すことで、それぞれの内なる可能性が姿を現す。そうした場における交流は、まるで魂の交わりの舞台のようであり、そこに居合わせた者全てが、その場を一体の生命として体験し、新たな始まりを予感するのである。",
+                "synonyms": [
+                        "Exhibition",
+                        "Demonstration"
+                ],
+                "antonyms": [
+                        "Concealment",
+                        "Hiding"
+                ],
+                "aftertaste": "The art of exposing the unseen to eager eyes.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "prae-",
+                                        "meaning": "before"
+                                },
+                                {
+                                        "term": "sentare",
+                                        "meaning": "to place"
+                                }
+                        ],
+                        "points": [
+                                "ラテン語に由来するこの単語は、知識や情報、感情の伝達という意味で、個人と集団を橋渡しする概念を持つ。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Late Middle English"
         }
 ];
