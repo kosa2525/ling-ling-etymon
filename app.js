@@ -224,6 +224,9 @@ async function loadReflections(targetId, targetAuthor, wordName) {
     const listEl = document.getElementById('reflection-list');
     if (!listEl) return;
 
+    // フォームのセットアップ（プレミアムに関わらず常に行う、API待機前に同期的にセットアップ）
+    setupReflectionForm(targetId, targetAuthor, wordName);
+
     // プレミアムならリストを読み込む
     if (State.isPremium) {
         try {
@@ -265,8 +268,20 @@ async function loadReflections(targetId, targetAuthor, wordName) {
             listEl.querySelectorAll('.layer-input').forEach(i => i.onkeypress = async (e) => {
                 if (e.key === 'Enter' && i.value.trim()) {
                     if (!State.currentUser) return navigate('premium');
-                    await apiPost('/api/replies', { reflection_id: i.dataset.rid, username: State.currentUser, content: i.value });
-                    i.value = ''; loadReflections(targetId, targetAuthor, wordName);
+
+                    i.disabled = true;
+                    const origPlaceholder = i.placeholder;
+                    i.placeholder = 'Publishing...';
+
+                    const res = await apiPost('/api/replies', { reflection_id: i.dataset.rid, username: State.currentUser, content: i.value });
+                    if (res.status === 'success') {
+                        i.value = '';
+                        loadReflections(targetId, targetAuthor, wordName);
+                    } else {
+                        showToast(res.message || '投稿エラーが発生しました。');
+                        i.disabled = false;
+                        i.placeholder = origPlaceholder;
+                    }
                 }
             });
         } catch (e) {
@@ -290,9 +305,6 @@ async function loadReflections(targetId, targetAuthor, wordName) {
             });
         }
     }
-
-    // フォームのセットアップ（プレミアムに関わらず常に行う）
-    setupReflectionForm(targetId, targetAuthor, wordName);
 }
 
 function setupReflectionForm(targetId, targetAuthor, wordName) {
