@@ -31364,5 +31364,339 @@ const WORDS = [
                 "source": "Online Etymology Dictionary",
                 "date": "2026-03-01",
                 "era": "Late Middle Ages, 13th Century"
+        },
+        {
+                "id": "harken",
+                "word": "Harken",
+                "part_of_speech": "verb",
+                "meaning": "注意深く聞くこと",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "Old English heorcian",
+                                        "type": "root",
+                                        "meaning": "聞く",
+                                        "lang": "Old English"
+                                }
+                        ],
+                        "original_statement": "Derived from the Old English 'heorcian', meaning to listen or hear."
+                },
+                "core_concept": {
+                        "en": "The art of attentive listening, a bridge to forgotten whispers.",
+                        "ja": "忘れられたささやきへの橋としての、注意深い聞き取りの技術。"
+                },
+                "thinking_layer": "『聞く』という行為は、単なる音声の知覚を超え、心の反響として心に刻まれる。『ハーケン』は、全身で感じ取るための能力を意味し、物理的な世界を超越する。自然界や人々の声、過去の記憶、未来の予感、その全てが一体となる瞬間を捉える。耳を傾けることは、心の奥底に広がる無限の可能性を探る行為であり、それは一種の瞑想の如きでもある。他者の心に共鳴し、時として自らの魂と対話する瞬間。そこには計り知れない深みがあり、それを知ることは己の内なる声と同調する旅。故に、聞くという行為には見えないものを捉える力があり、それは生命の調和を感じる鍵となる。",
+                "synonyms": [
+                        "Listen",
+                        "Attend"
+                ],
+                "antonyms": [
+                        "Ignore",
+                        "Overlook"
+                ],
+                "aftertaste": "Harken is a profound act of communion with the world's silent echoes.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "heorcian",
+                                        "meaning": "to hear or attend"
+                                }
+                        ],
+                        "points": [
+                                "『ハーケン』の語源は、音に「対話し、応答する」という深い意味を持つ。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "Old English"
+        },
+        {
+                "id": "thrash",
+                "word": "Thrash",
+                "part_of_speech": "noun/verb",
+                "meaning": "激しく打つ、振り回す",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "Old English 'Þræscan'",
+                                        "type": "root",
+                                        "meaning": "打つ",
+                                        "lang": "Old English"
+                                }
+                        ],
+                        "original_statement": "The term 'thrash' comes from the Old English 'Þræscan', meaning to beat or to knock, rooted in agricultural practices where grains were separated from their husks."
+                },
+                "core_concept": {
+                        "en": "The relentless rage of movement, a dance of force and defiance.",
+                        "ja": "力と挑戦の舞踊としての止むことなき動きの怒り"
+                },
+                "thinking_layer": "『スラッシュ』という言葉の深淵に潜むのは、力と抵抗の絶え間ない交響曲。それは、過去の農業活動における穀物が殻から分離される過程の中に宿る暴力的な力そのものであり、その動きはただの単なる物理的な行為にとどまらず、心の奥深くに響き渡るものである。振り下ろされる鞭の一撃一撃は、重なり合うリズムであり、世界の造形を再構築しようとする人間の魂の挑戦を映し出す。そのリズムは、生命の進化、同時に破壊と創造の二律背反の姿をもって我々を魅了し続ける。また、それは自己の中心に向けた内なる問いを投げかける静寂の時間を提供し、その底にある＜自己＞を探究する旅へと誘う。ここでの『スラッシュ』とは、自然界の曝露した力そのものを象徴し、力への謙虚なる敬意と、変化を恐れない勇気を意味するのである。揺り動かされし我が心は、世界が私たちに与えてくれたその揺るぎないリズムに共鳴し、生命の舞台における無限の変奏曲に耳を傾けるのだ。",
+                "synonyms": [
+                        "Flail",
+                        "Beat"
+                ],
+                "antonyms": [
+                        "Calm",
+                        "Soothe"
+                ],
+                "aftertaste": "Thrash embodies the furious and poetic choreography of time and motion.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "Þræscan",
+                                        "meaning": "to beat"
+                                }
+                        ],
+                        "points": [
+                                "『スラッシュ』の語源は、穀物の殻を取り除く目的で物理的な力を行使する象徴的行動にある。それは農耕社会に根ざした歴史を持ち、労働と努力のシンボルとしての意味合いを持つ。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Old English"
+        },
+        {
+                "id": "gather",
+                "word": "Gather",
+                "part_of_speech": "verb",
+                "meaning": "集める、集まる",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "gather-",
+                                        "type": "root",
+                                        "meaning": "集める、収集する",
+                                        "lang": "古英語"
+                                }
+                        ],
+                        "original_statement": "The word 'gather' originates from the Old English 'gadrian', associated with the act of bringing together or collecting."
+                },
+                "core_concept": {
+                        "en": "The art of unifying scattered entities into a harmonious whole.",
+                        "ja": "散在する存在を調和の中に集める技"
+                },
+                "thinking_layer": "『集める』という行為は、一見単純に見えて、実に奥深い哲学的概念を内包しています。世界には、さまざまな形や色、思考を持つものが散りばめられていますが、それらを一つにまとめるとき、まるで宇宙が小さな瞬間に凝縮されるような体験をします。『集める』という言葉には、単なる物理的な意味を超えて、異なるものをつなぎ、共有の価値を見出すという深い意味があります。集客のプロセスは、人々の心を一つにし、新たな視点を生むこと。それは時間と空間を超えた普遍的な絆の創造です。そして、私たちはしばしば『集める』過程を通じて、自分自身を見つけ、他者との関係の本質を理解する。日常に潜む偉大な哲学が、他者との交わりや自然とのつながりを求める人間の永遠の探求です。『集める』という行為は、単なる手段ではなく、存在の真の目的を見つけ出すための深い内面への旅なのです。",
+                "synonyms": [
+                        "Collect",
+                        "Assemble"
+                ],
+                "antonyms": [
+                        "Disperse",
+                        "Scatter"
+                ],
+                "aftertaste": "Unity blooms in the convergence of diversity.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "gadrian",
+                                        "meaning": "to unite, to assemble"
+                                }
+                        ],
+                        "points": [
+                                "『集める』の語源は単なる物理的な集結という意味以上に、精神的および社会的結束にも深く関連している。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Old English, circa 9th Century"
+        },
+        {
+                "id": "abscond",
+                "word": "Abscond",
+                "part_of_speech": "verb",
+                "meaning": "こっそり逃げる、姿を隠す",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "ab-",
+                                        "type": "prefix",
+                                        "meaning": "分離",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "condere",
+                                        "type": "root",
+                                        "meaning": "隠す",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "Derived from the Latin 'abscondere', meaning to hide away or conceal, the word 'abscond' has roots in early 17th-century English."
+                },
+                "core_concept": {
+                        "en": "The clandestine dance of disappearance.",
+                        "ja": "消え去ることの秘密な舞"
+                },
+                "thinking_layer": "人生において、我々はしばしば何かから逃れたいという衝動に駆られる。見えない力に押されて、私たちは隠れ家を求め、透明なベールの中で自分自身を覆い隠そうとするかもしれない。夜の闇の中、何も知られないままに、全ての感覚が静寂に包まれる時、心は安らぎを見つける。しかし、この行為は単なる逃避ではなく、自己再発見の旅であるのだろうか。目の前にある現実の重みに対抗するための、新しい意味や目的を見つけるための内なる旅。そのとき、我々は真の意味で『abscond』することになるのかもしれない。隠れることによって広がる新しい視界と、回想の中で甦る忘れ去られた記憶。照らし出されることのない領域において、自らの本質を探求するプロセスがある。闇は必ずしも恐怖の象徴ではなく、深遠なる理解を得るための舞台でもあるのだ。",
+                "synonyms": [
+                        "flee",
+                        "escape"
+                ],
+                "antonyms": [
+                        "appear",
+                        "show"
+                ],
+                "aftertaste": "To abscond is to rediscover solitude in the echoes of silence.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "condere",
+                                        "meaning": "to hide"
+                                }
+                        ],
+                        "points": [
+                                "『abscond』を理解するには、『ab-』という接頭辞が如何にして分離や距離感を生むかを考えることが重要である。そして『condere』、隠すという意味がそこに付加されることで、ただ逃げるだけでなく、より深い層での自己の真実や謎を抱きかかえる行為が露わとなる。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Early 17th Century"
+        },
+        {
+                "id": "tinker",
+                "word": "Tinker",
+                "part_of_speech": "noun/verb",
+                "meaning": "修理や工事を行う人、またはその類の活動をすること。",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "tink-",
+                                        "type": "root",
+                                        "meaning": "小さな音を作る、金属を加工する",
+                                        "lang": "Middle English"
+                                }
+                        ],
+                        "original_statement": "The term 'tinker' originates from the Middle English 'tinkere', referring to an itinerant tinsmith of the medieval period known for repairing household utensils."
+                },
+                "core_concept": {
+                        "en": "A craftsman's humble clatter echoes through time, mending broken worlds.",
+                        "ja": "巧みな職人の音が時を超えて響き、壊れた世界を癒す。"
+                },
+                "thinking_layer": "鍛冶屋や職人という概念は、物質的な破損だけでなく、精神的・哲学的な欠如をも補修する力を象徴しています。「ティンカー」という言葉は、人間が持つ手仕事の尊さと、その手によって生み出される改善の力を体現しています。小さな音を立てながらも、誠実に一つ一つの仕事を担っていくその姿は、一見目立たないが社会に深く根差した存在として、静かにかつ力強く生活に寄り添っています。この労働への献身は、人間の知恵と工夫がどのようにして精神における浄化をもたらすかを示します。ティンカーは、機能上の利益を超えた、人生そのものの豊かさを追求する姿勢をも表しているのです。私たちが日々の中で直面する問題を、職人のように粘り強く修理、改善しながら生きる姿勢が、現代という時代においてもなお尊ばれ、必要とされていることを示しています。",
+                "synonyms": [
+                        "mender",
+                        "repairer"
+                ],
+                "antonyms": [
+                        "destroyer",
+                        "breaker"
+                ],
+                "aftertaste": "A simple labor shapes destinies beyond metal and time.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "tink",
+                                        "meaning": "to make a light clinking sound; associated with metalworking"
+                                }
+                        ],
+                        "points": [
+                                "この言葉は中世のある時期に遡り、移動しながら仕事をする職人文化の一部を反映しており、それがどの社会でも受け入れられていたことを示しています。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Middle English, 13th Century"
+        },
+        {
+                "id": "hospital",
+                "word": "Hospital",
+                "part_of_speech": "noun",
+                "meaning": "病院",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "hospit-",
+                                        "type": "root",
+                                        "meaning": "客人",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "-al",
+                                        "type": "suffix",
+                                        "meaning": "関連",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The term 'hospital' originates from the Medieval Latin 'hospitale', referring to a guest house or shelter for travelers and pilgrims."
+                },
+                "core_concept": {
+                        "en": "A sanctuary of healing and refuge.",
+                        "ja": "癒しと避難の聖地"
+                },
+                "thinking_layer": "病院という言葉は、人類の慈悲と患者に対する思いやりの永遠の象徴であり、生命の脆さを包み込む施設です。その歴史を紐解けば、古代からの人間の精神の深淵が見えてきます。病院は物質的な慰めのみならず、魂の傷を癒す空間として機能してきました。歴史の流れの中で、それは単なる建物以上の意味を持ち、人々が生きることの根源を再発見する場へと進化しました。病院の中では、生命の始まりと終わりが交差し、時間が静かに流れ、そしてまた新たな希望が芽生えます。現代の病院は高度な技術を誇りますが、その根底には今も変わらぬ人間の優しさがあります。ここに来る人々は、自らの内なる声に耳を傾け、生の意味を再認識する契機を得ることができます。病院は、ただ肉体を修復する場所ではなく、魂の旅路における重要な一里塚なのです。",
+                "synonyms": [
+                        "Infirmary",
+                        "Clinic"
+                ],
+                "antonyms": [
+                        "Wilderness",
+                        "Isolation"
+                ],
+                "aftertaste": "A hospital houses both the whisper of hope and the quietude of renewal.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "hospes",
+                                        "meaning": "guest, host"
+                                }
+                        ],
+                        "points": [
+                                "語源的には、'hospitalis' というラテン語から派生し、'hospes'（客）と密接に関連しています。これはもともと訪問者や旅行者を迎える場所としての意味を持っていました。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "11th Century"
+        },
+        {
+                "id": "puzzle",
+                "word": "Puzzle",
+                "part_of_speech": "noun/verb",
+                "meaning": "困惑, 謎解き",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "puse-",
+                                        "type": "root",
+                                        "meaning": "頭を悩ませる",
+                                        "lang": "Middle English"
+                                }
+                        ],
+                        "original_statement": "The word 'puzzle' is thought to originate from the obsolete verb 'puzzle' from the late 16th century, perhaps from the North Midland dialect 'puse' meaning 'bewilder' or 'confound'."
+                },
+                "core_concept": {
+                        "en": "A labyrinth of bewilderment where questions seek their shadows.",
+                        "ja": "謎の迷宮、疑問がその影を求める場所。"
+                },
+                "thinking_layer": "『パズル』という概念は、無限の可能性が交錯する場であり、人間の知性が挑戦に立ち向かう試練の場である。日々の暮らしの中で、私たちは多くのパズルと対峙する。それは単なる謎解きとして楽しむだけでなく、深い思索の糸口にもなる。混沌の中から秩序を見出すという行為は、まさに人生そのものでもある。パズルは、実際の形を超えて、心の中で展開する劇場のようなものであり、その中で思考が踊り、知恵が勝利する瞬間を待ちわびている。多様な断片が一つの絵を描くように、視野を広げ、想像力を研ぎ澄ます道具となる。どんなに複雑であっても、解法の一歩一歩が新たな発見をもたらし、やがては全体像が姿を現す。人はパズルを解く過程で、自分自身の内部の整合性をも求める。それはまるで、心の奥底に眠る秘密を解き明かすかのように、自己認識という当てもない旅路を進む手段なのである。",
+                "synonyms": [
+                        "Conundrum",
+                        "Enigma"
+                ],
+                "antonyms": [
+                        "Solution",
+                        "Explanation"
+                ],
+                "aftertaste": "A puzzle is both a question and an answer waiting to meet.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "puse",
+                                        "meaning": "bewilder"
+                                }
+                        ],
+                        "points": [
+                                "パズルの語源は、思考を挑発し、理解を広げる行為としての関連性を示す。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Late 16th Century"
         }
 ];
