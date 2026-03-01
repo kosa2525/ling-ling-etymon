@@ -39412,5 +39412,486 @@ const WORDS = [
                 "source": "Oxford English Dictionary",
                 "date": "2026-03-01",
                 "era": "16th Century"
+        },
+        {
+                "id": "disagree",
+                "word": "Disagree",
+                "part_of_speech": "verb",
+                "meaning": "意見が合わない、異議を唱える",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "dis-",
+                                        "type": "prefix",
+                                        "meaning": "否定",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "agree",
+                                        "type": "root",
+                                        "meaning": "同意する",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "Derived from Middle English 'disagre', from Anglo-French 'desagrier', based on Latin roots 'dis-' meaning 'apart, asunder' and 'agree' from 'agréer', meaning 'to please'."
+                },
+                "core_concept": {
+                        "en": "The harmonious dance of dissent in pursuit of truth.",
+                        "ja": "真実を求める異議の調和した舞踏"
+                },
+                "thinking_layer": "「意見が異なること」、それは単なる意思の不一致にとどまらず、私たち自身の内面的な探求をも刺激する哲学的な概念である。人間は自己の意識を持ち、その意識は他者との相違点を見出すことで新たな側面を見せる。合意に至らぬとき、その不一致は互いの世界観や価値観を照らし出し、対話の場を創造する。異なる意見は、しばしば世界を広げ、新たな可能性を見せてくれる可能性があるからこそ尊重すべきだ。合意の欠如は時に誤解や衝突を生むが、それを乗り越えることで、新たな理解が生まれる。異なる意見に向き合うとは、互いの違いを認識しつつ、そこから共に新たな共通点を見いだす可能性を探求する行為である。私たちの限界を超え、共に成長するために、異なる意見を持つことの意義は計り知れない。深い不協和音にも、そこには不協和音の中に隠された美しさと調和の可能性が潜んでいるのである。",
+                "synonyms": [
+                        "differ",
+                        "clash"
+                ],
+                "antonyms": [
+                        "agree",
+                        "concur"
+                ],
+                "aftertaste": "To disagree is to engage in the dialogue of discovery.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "dis",
+                                        "meaning": "apart, asunder"
+                                },
+                                {
+                                        "term": "agree",
+                                        "meaning": "to make harmonious or pleased"
+                                }
+                        ],
+                        "points": [
+                                "ラテン語の接頭辞「dis」は「離れる」や「否定」の意味を含む。この接頭辞によって語に反対や否定のニュアンスが加えられる。対して、「agree」はもともとラテン語の「ad+gratus」から派生し、喜ばせるあるいは調和させる意味合いを持つ。これらの要素が結合することで、合意の欠如を表現する言葉が形成される。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "Middle English"
+        },
+        {
+                "id": "inspect",
+                "word": "Inspect",
+                "part_of_speech": "verb",
+                "meaning": "詳しく調べる",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "in-",
+                                        "type": "prefix",
+                                        "meaning": "内へ",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "specere",
+                                        "type": "root",
+                                        "meaning": "見る",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The term 'inspect' originates from the Latin 'inspectare', a frequentative form of 'in-' (towards) and 'specere' (to look), first used in Middle English in the late 14th century."
+                },
+                "core_concept": {
+                        "en": "To engage in the act of looking deeply, to uncover the hidden truths beneath the surface.",
+                        "ja": "深く見つめ、表層の下に隠された真実を見つける行為"
+                },
+                "thinking_layer": "『検査』という行為は、見ることの真髄を象徴しています。それは、ただの観察ではなく、心の目を使い、世界の細部に深く入り込むことです。物事の裏にある真実を見つけるためには、細かく観察し、分析しなくてはなりません。このプロセスは、まるで庭先に植えた種の成長を見守るように、忍耐強く、注意深く、そして感受性豊かであることを要求します。「検査」とは、物質的な領域を超えて、精神的な探求をも意味し得ます。すなわち、自らの内面的な理解を深める作業であり、世界そのものを見るための新たな視点を得ることができるのです。このような視覚的かつ哲学的な旅は、しばしば新たな発見と自己成長をもたらすものであり、水面下で動き続ける人生の本質を垣間見る手段とも言えるでしょう。この探求の過程においては、心に夢中になることが重要であり、それこそが『見る』という単純な行為を、『観察』という崇高な体験に変えるのです。",
+                "synonyms": [
+                        "examine",
+                        "scrutinize"
+                ],
+                "antonyms": [
+                        "ignore",
+                        "overlook"
+                ],
+                "aftertaste": "Inspection reveals the harmony within chaos.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "specere",
+                                        "meaning": "to look"
+                                }
+                        ],
+                        "points": [
+                                "『inspect』の語源は、「in」と「specere」というラテン語の結合であり、観察の深さと意図を象徴する。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "14th Century"
+        },
+        {
+                "id": "confess",
+                "word": "Confess",
+                "part_of_speech": "verb",
+                "meaning": "自分の罪や秘密を認めること",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "com-",
+                                        "type": "prefix",
+                                        "meaning": "共に",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "fateri",
+                                        "type": "root",
+                                        "meaning": "言う、告白する",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'confess' comes from Latin 'confessus,' past participle of 'confiteri,' formed from 'com-' meaning 'together' and 'fateri,' meaning 'to admit, to say'."
+                },
+                "core_concept": {
+                        "en": "To lay bare one's soul with words, binding the self to truth.",
+                        "ja": "言葉で魂をさらけ出し、真実に自分を結びつけること"
+                },
+                "thinking_layer": "告白とは心の奥底に隠された真実を表に出す行為です。それは、自身の弱さや過ちを正直に受け入れ、他者と共有することで、魂の解放と人間関係の浄化をもたらします。この行為は、個としての存在を神聖な場所に導きます。告白はしばしば苦痛を伴いますが、その過程で得られる透明な自己認識は瞑想にも似た深遠な体験です。多くの場合、この過程は不安と混乱に満ちていますが、他者との対話を通じて純粋な自己を再び見つけることが可能です。このようにして告白は、私たちを孤独から救い、より偉大な真実と一体化させる道筋を提供してくれます。この過程における言葉の力は、沈黙と状況を越えて魂を繋ぎ留め、時空を超えた深淵へと私たちを誘います。",
+                "synonyms": [
+                        "admit",
+                        "disclose"
+                ],
+                "antonyms": [
+                        "deny",
+                        "conceal"
+                ],
+                "aftertaste": "Confession unchains the soul as it courts integrity.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "confiteri",
+                                        "meaning": "to confess, to admit"
+                                }
+                        ],
+                        "points": [
+                                "ラテン語の「confiteri」から派生し、言葉を通じて真実を明らかにする行動に関連しています。この言葉は、個人の真実と他者との橋渡しの役割を果たします。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Late Middle English, from Latin origin"
+        },
+        {
+                "id": "resign",
+                "word": "Resign",
+                "part_of_speech": "verb",
+                "meaning": "辞職する、辞任する",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "re-",
+                                        "type": "prefix",
+                                        "meaning": "再び",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "signare",
+                                        "type": "root",
+                                        "meaning": "印を付ける",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "Resign originates from Latin ",
+                        "resignare,": "meaning",
+                        "to unseal or cancel a contract.": "breaking",
+                        "it ": "down",
+                        "to re-": "again",
+                        "and signare": "to sign."
+                },
+                "core_concept": {
+                        "en": "A gentle farewell to the burdens we've pledged to carry.",
+                        "ja": "私たちが負うと誓った重荷への穏やかな別れ"
+                },
+                "thinking_layer": "『辞する』という行為は、心のなかに静かな波紋を広げる。その波紋は、我々が選び取った道を改めて見つめ直し、今ここでの役割を手放すことの明暗を浮き彫りにする。命とは、しばしば責務と密接に絡み合うものであり、責任を持って何かをやり遂げることは大変尊い。しかし、辞職の決断ひとつで、それまで築き上げたものを手放す行為は勇気と知恵の証でもある。道を選び直すことは、自己の新たな可能性を切り開くための主張であり、同時に過去の自分への畏敬を表現する瞬間でもある。この『辞』の言葉には、来るべき新しい時間の予感と、捨て去った過去の時間の永劫性が、綯い交ぜに存在している。すべての選択は我々を形作り、その選択の積み重ねこそが、やがては我々の真の姿となる。辞することは、今ある自己を問い直し、狭義・狭隘な視野から自己を解放し、次なるステージへと歩み出す契機でもあるのだ。",
+                "synonyms": [
+                        "abdicate",
+                        "relinquish"
+                ],
+                "antonyms": [
+                        "persist",
+                        "stay"
+                ],
+                "aftertaste": "In letting go, we find the courage to embrace the unknown.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "signare",
+                                        "meaning": "to mark, sign"
+                                }
+                        ],
+                        "points": [
+                                "『辞職』は、自らの役割や義務を再確認し、新たな可能性の扉を開く句点となる。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "14th Century, Latin origin"
+        },
+        {
+                "id": "influence",
+                "word": "Influence",
+                "part_of_speech": "noun",
+                "meaning": "影響力、力や効果を与えること",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "influere",
+                                        "type": "root",
+                                        "meaning": "流れ込む",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "Originating from the Latin 'influere', meaning 'to flow into', influence entered English via Old French in the late Middle Ages."
+                },
+                "core_concept": {
+                        "en": "A silent current that bends the river of destinies.",
+                        "ja": "運命の河を曲げる静かな流れ。"
+                },
+                "thinking_layer": "影響とは、他者の心の中に流れ込むやさしいさざ波のようなものである。その効果は時には即座に感じられず、特に日々の生活の中の微細な変化として現れることが多い。我々は皆、互いに無数の縦横無尽の影響を及ぼし合っている。影響は一貫した存在であり、時には人間の意図を越えて作用する。それは意図とは異なる意志によって動かされ、時には予測せぬ方向へと導かれることもある。それは他者の行動、言葉、そして思考の中で化学反応を起こし、時には新しい洞察や行動をもたらす。影響の本質はその不確定さにあり、だからこそそれは驚きと神秘に満ちている。我々が目に見える結果をもたらすまでの過程には、多くの時間と細やかな要素が関与する。影響は内側から他者を変容させ、結果として新たな可能性の道を切り開く。それは無形の力であり、時には世界を変える力を秘めている。影響について深く考えるとき、それは多層的な関係と相互作用の渦を理解することと等しいのだ。",
+                "synonyms": [
+                        "Impact",
+                        "Sway"
+                ],
+                "antonyms": [
+                        "Impotence",
+                        "Inaction"
+                ],
+                "aftertaste": "The subtle power of transformation lies in every touch of influence.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "fluere",
+                                        "meaning": "to flow"
+                                }
+                        ],
+                        "points": [
+                                "『影響』という言葉は、流れるような作用を意味するラテン語の影響を受け、より動的なニュアンスを含んでいる。古代ギリシャやローマの哲学者たちは、この流動的な力を自然や人間関係における不可欠な繋がりとして捉えていた。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "14th Century, Old French"
+        },
+        {
+                "id": "advertisement",
+                "word": "Advertisement",
+                "part_of_speech": "noun",
+                "meaning": "注意を引くための告知または宣伝",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "ad-",
+                                        "type": "prefix",
+                                        "meaning": "～へ",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "vertere",
+                                        "type": "root",
+                                        "meaning": "向ける",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "-ment",
+                                        "type": "suffix",
+                                        "meaning": "～こと",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The term 'advertisement' originates in the mid-15th century from the Old French 'avertissement', which relates to calling attention to something."
+                },
+                "core_concept": {
+                        "en": "A thoughtful beckoning across the fabric of awareness.",
+                        "ja": "意識の織物に響く深遠な呼びかけ"
+                },
+                "thinking_layer": "広告とは、私たちの日常に静かに忍び寄り、潜在的な思考の中に一筋の光を投げかける存在である。それは人の心に何かを思い起こさせ、また忘れていたものを思い出させる力を持つ。注意を向けられることを意図し、意識の中に新たな層を形成するこの行為は、どこか詩的なニュアンスを帯びている。広告には、無限の可能性と限界を同時に孕んでいる。消費者を魅了し、注意を得ることは、単なる情報提供を超えて、一つの芸術とも言える。このように、広告は視覚や聴覚だけでなく、心の中の観念や希望という深い部分に直接訴えかける。そしてその訴えかける力の中には、文化や価値観が織り込まれ、その結果として新たな知覚が生まれる。広告とは、現代社会における心の鏡であるかもしれない。その姿は流れゆく時間と共に変化をし、同時に私たち自身の変化を映し出しているのである。広告をただの商業的手法と見なすのではなく、それが繊細な心の営みであることを理解し、深く味わうことが重要である。",
+                "synonyms": [
+                        "promotion",
+                        "announcement"
+                ],
+                "antonyms": [
+                        "ignorance",
+                        "silence"
+                ],
+                "aftertaste": "In an advertisement, every whisper holds the weight of possibility.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "vertere",
+                                        "meaning": "to turn"
+                                }
+                        ],
+                        "points": [
+                                "広告という概念には、単なる情報の提供ではなく、人間の知覚と感情に訴えかける力がある。それは他者の心に何かを植え付け、何かを変える可能性を持つ。その背景には、社会の変遷や価値観の変化が影響している。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "Mid-15th Century"
+        },
+        {
+                "id": "revise",
+                "word": "Revise",
+                "part_of_speech": "verb",
+                "meaning": "見直し・訂正する",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "re-",
+                                        "type": "prefix",
+                                        "meaning": "再び",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "videre",
+                                        "type": "root",
+                                        "meaning": "見る",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'revise' originates from the Latin 'revidere', meaning 'to see again'."
+                },
+                "core_concept": {
+                        "en": "To cast a renewed gaze upon the tapestry of thought.",
+                        "ja": "思考の織物を新たな視点から眺める"
+                },
+                "thinking_layer": "「見直し」という行為は、単なる情報や事件の事務的な修正を超え、私たちが過去と現在を見つめ直し、未来の意図を読み取る知的な旅路である。この行為を通して、我々は個々の限界や認知の枠を超え、世界というテキストを新しい理解で再構築する力を得る。過去の文脈を踏まえつつ、現在の視点を再配置し、未来への道筋を明らかにしていく。このような反復する視覚の刷新を通して、改めて人生の糸を織り交ぜる力を育む。その過程では、目に見えないものへの感性や、知識の空白地帯を埋める洞察が得られ、深遠な静寂の中で新たな可能性を探る。このような思考のダイナミズムは、立ち止まることなく前に進むための精神の再生を意味する。人生のページを繰り返しめくるその過程は、自己再生の幕開けの如く、知識だけでなく感性の領域をも広げる、究極の活路となる。",
+                "synonyms": [
+                        "Amend",
+                        "Edit"
+                ],
+                "antonyms": [
+                        "Neglect",
+                        "Ignore"
+                ],
+                "aftertaste": "The act of revision is the mind’s dance with the truth.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "videre",
+                                        "meaning": "to see"
+                                }
+                        ],
+                        "points": [
+                                "ラテン語の 'revidere' から派生し、過去の視点に新たな光を当てる実践の意義が強調される。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Late Middle English"
+        },
+        {
+                "id": "deliver",
+                "word": "Deliver",
+                "part_of_speech": "verb",
+                "meaning": "配達する、解放する",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "de-",
+                                        "type": "prefix",
+                                        "meaning": "取り除く",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "liberare",
+                                        "type": "root",
+                                        "meaning": "自由にする",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The term 'deliver' stems from the Late Latin 'deliberare', composed of ‘de’ (away) and ‘liberare’ (to free)."
+                },
+                "core_concept": {
+                        "en": "To carry out liberation, to bring or set free.",
+                        "ja": "自由をもたらす、解放を実行すること。"
+                },
+                "thinking_layer": "『Deliver』とは、個体や意識の枠組みに囚われた存在を次元の彼方へと解き放つ行為である。そこには切り離しと結合の作用が循環する。人間の手により、あるものは形から形へ、概念から概念へと渡り歩く。たとえ物理的に捉えられないものであっても、心の中での自由、あるいは生命の輪廻によって再び新たな場所へと開放される様は、宇宙の摂理とも言えよう。運命の鉄鎖に縛られた人生も、ひとたび何者かに解き放たれたとき、新たなる光明を迎えることとなる。我々が『deliver』を行うたび、過去と未来の霊が邂逅し、新たなる存在意義を紡ぎ出すのだ。月夜の静寂のように心に響き渡るその解放の美しさは言葉を超え、魂の深淵に光を投げかけるだろう。",
+                "synonyms": [
+                        "Transport",
+                        "Liberate"
+                ],
+                "antonyms": [
+                        "Retain",
+                        "Confine"
+                ],
+                "aftertaste": "To deliver is to liberate the caged essence within.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "liber",
+                                        "meaning": "free"
+                                }
+                        ],
+                        "points": [
+                                "ラテン語に起源を持つその原義は、自由への願いを内包している。その背景には、人々が時間や空間を超えて交流し、解放の儀式を通じて進化する過程があると考えられる。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "14th Century"
+        },
+        {
+                "id": "discovery",
+                "word": "Discovery",
+                "part_of_speech": "noun",
+                "meaning": "新しいものを見つけること、発見",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "dis-",
+                                        "type": "prefix",
+                                        "meaning": "反",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "-cooperire",
+                                        "type": "root",
+                                        "meaning": "覆う",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'discovery' originates from the Latin word 'discooperire', combining 'dis-' meaning 'away' and 'cooperire' meaning 'to cover'."
+                },
+                "core_concept": {
+                        "en": "The unveiling of the unseen horizons, a dance with the unknown.",
+                        "ja": "未知の地平を開くこと、未知との舞い"
+                },
+                "thinking_layer": "発見という行為、それは我々の存在に明るい輝きをもたらす光のようなものです。この世界の無数の謎を、一つずつ解き明かすことにより、人間は自我を新たな段階に導いています。発見そのものは知識の拡大であり、人類の進化の燈火です。私たちが『発見』と呼ぶものには、単なる事実の露呈ではなく、新しい視点の獲得、異なるとらえ方の芽吹き、変革の始まりが含まれています。なんと詩的で、美しい旅でしょうか。発見は心の深奥に響く音楽、静けさの中から立ち上がる創造的な声。それは無限の可能性を秘めた開かれた空間であり、宇宙が私たちに語りかける新しい物語です。発見によって揺るがされる固定観念、それが創造的破壊の初めの一歩であり、新たなる真理への道を照らす光でもあります。人生のプロセスそのものが発見の連続であることを、我々は理解しなくてはなりません。",
+                "synonyms": [
+                        "Unveiling",
+                        "Revelation"
+                ],
+                "antonyms": [
+                        "Obscurity",
+                        "Concealment"
+                ],
+                "aftertaste": "Every discovery reshapes the universe within and without.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "dis-",
+                                        "meaning": "反"
+                                },
+                                {
+                                        "term": "cooperire",
+                                        "meaning": "覆う"
+                                }
+                        ],
+                        "points": [
+                                "発見は自己の限界を広げ、新たなる世界を切り開く鍵のような存在、それは時代を超える知識の遺産の一部である。ラテン語に由来する『ディスコペレ』は、隠されたものを暴く行為として古代から人間の探究心を象徴している。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Late Middle English"
         }
 ];
