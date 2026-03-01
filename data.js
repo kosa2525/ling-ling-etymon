@@ -28544,5 +28544,57 @@ const WORDS = [
                 "source": "Oxford English Dictionary",
                 "date": "2026-03-01",
                 "era": "Medieval Latin"
+        },
+        {
+                "id": "eked",
+                "word": "Eked",
+                "part_of_speech": "verb",
+                "meaning": "何とかして生計を立てる、かろうじて余分を得る",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "eacan",
+                                        "type": "root",
+                                        "meaning": "増やす",
+                                        "lang": "Old English"
+                                },
+                                {
+                                        "text": "eke-",
+                                        "type": "prefix",
+                                        "meaning": "補助的に、さらに",
+                                        "lang": "Proto-Germanic"
+                                }
+                        ],
+                        "original_statement": "The word 'eked' derives from the Old English 'eacan', meaning to increase. It is rooted in Proto-Germanic 'eke-', which signifies augmentation or adding to."
+                },
+                "core_concept": {
+                        "en": "To extend resources with meaningful intent.",
+                        "ja": "意味を持つ意図で資源を延ばすこと"
+                },
+                "thinking_layer": "『暮らしを織る繊細な織物』という言葉にどれほどの重みと深さがあるのでしょうか。人々は限られた資源の中で、創意工夫という名の針と糸を抱え、新しい可能性の布を紡ぎ出す。どんなに日常が風に散りそうな脆さを纏っていても、その努力の光はいつしか人を励まし、無限に見える海を渡る小舟のように新たな希望を運んでくる。『エーク』という行為の中には、失われた時を取り戻したり、個々の価値を新しく創造する力強さが秘められている。もしも人の一生が一枚の絵になるとしたら、この単語はその隅で控えめに輝きを放ち、多くの物語を語る翼となる。物質的な不足を埋めるだけでなく、心の空白に温かな灯火を点し、知恵と忍耐の結果としての充足を生む。この概念は古来より続く人類の物語の一部であり、語り継がれる価値がある。何故なら、それは単なる生存の術ではなく、人生を豊かにする究極の贈り物だからである。",
+                "synonyms": [
+                        "Sustain",
+                        "Supplement"
+                ],
+                "antonyms": [
+                        "Exhaust",
+                        "Diminish"
+                ],
+                "aftertaste": "To eke is to weave life with threads of perseverance and hope.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "eacan",
+                                        "meaning": "to increase"
+                                }
+                        ],
+                        "points": [
+                                "『エーク』という行為は、限られた資源で創造的に生きる古の知恵の証である。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Old English, Proto-Germanic"
         }
 ];
