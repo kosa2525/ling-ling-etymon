@@ -880,6 +880,15 @@ async function navigate(view) {
     viewContainer.style.opacity = '0';
 
     setTimeout(async () => {
+        // 表示の初期化とローディングの表示
+        viewContainer.innerHTML = `
+            <div class="loading-indicator">
+                <div class="spinner"></div>
+                <p>少々お時間をください...</p>
+            </div>
+        `;
+        viewContainer.style.opacity = '1';
+
         try {
             switch (view) {
                 case 'today': renderToday(); break;
@@ -943,7 +952,12 @@ async function renderWordNetwork(mode = 'global') {
                 <button id="net-global" class="chip ${mode === 'global' ? 'followed' : ''}">Global Universe</button>
                 <button id="net-personal" class="chip ${mode === 'personal' ? 'followed' : ''}">My Mind Garden</button>
             </div>
-            <div id="network-graph" style="height:calc(100% - 60px); width:100%;"></div>
+            <div id="network-graph" style="height:calc(100% - 60px); width:100%; display:flex; align-items:center; justify-content:center;">
+                <div class="loading-indicator">
+                    <div class="spinner"></div>
+                    <p>思考の宇宙を再構成中...</p>
+                </div>
+            </div>
             <div style="position:absolute; bottom:20px; left:20px; background:var(--color-surface); padding:1.2rem; border-radius:16px; border:1px solid var(--color-border); font-size:0.8rem; opacity:0.95; line-height:1.7; z-index:10; box-shadow: 0 4px 20px rgba(0,0,0,0.3);">
                 <div style="font-weight:bold; margin-bottom:0.5rem; border-bottom:1px solid var(--color-border); padding-bottom:0.3rem;">Legend</div>
                 <div style="display:flex; align-items:center; gap:8px;"><span style="width:12px; height:12px; background:#3b82f6; border-radius:50%; display:inline-block;"></span> 🔵 Word (Click to view)</div>
