@@ -28252,5 +28252,51 @@ const WORDS = [
                 "source": "The Oxford English Dictionary",
                 "date": "2026-03-01",
                 "era": "Late Middle Ages, Latin origin"
+        },
+        {
+                "id": "index",
+                "word": "Index",
+                "part_of_speech": "noun",
+                "meaning": "目次や索引としての指し示す道具",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "index-",
+                                        "type": "root",
+                                        "meaning": "指示",
+                                        "lang": "ラテン語"
+                                }
+                        ],
+                        "original_statement": "From Latin 'index', meaning a pointer or indication, originally from 'indicare', to point out."
+                },
+                "core_concept": {
+                        "en": "A guide that silently points towards hidden knowledge.",
+                        "ja": "隠された知識へ静かに道を示す手引"
+                },
+                "thinking_layer": "指と手の動きから、『指し示すもの』としての概念が存在する。哲学的に考察すると、インデックスは単なる物質的な書籍の一部ではなく、知識の深遠の世界への案内者である。この案内者は、指でページをめくるたびに新たな真実の一片を我々に提示する。インデックスは書物の表面的な顔ではなく、むしろそれを超えた知の一形態である。書籍の中において、インデックスは我々の知識探求の始まりと終わりを指南するものであり、我々が触れる潜在的な意味や知識の集積地へと導く。こうしたインデックスには、過去の知恵が蓄積されており、何世紀にも渡る知識を通じた人類の旅路を映し出している。インデックスはそれ自身が無声音で語るが、その沈黙は深遠であり、我々に挑戦と啓示を同時に与える。書籍の中で、インデックスを指で探ることは未知への冒険、静かな瞑想のための入り口であり、それ以上に自我の意識を超えた知識の世界のクラウドである。",
+                "synonyms": [
+                        "catalog",
+                        "list"
+                ],
+                "antonyms": [
+                        "chaos",
+                        "disorder"
+                ],
+                "aftertaste": "Index is the silent shepherd of knowledge.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "index",
+                                        "meaning": "a pointer or indicator"
+                                }
+                        ],
+                        "points": [
+                                "インデックスは知識と情報の組織と順序の象徴として機能する。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Late Middle English, derived from Latin"
         }
 ];
