@@ -28980,5 +28980,51 @@ const WORDS = [
                 "source": "Oxford English Dictionary",
                 "date": "2026-03-01",
                 "era": "Ancient Greek"
+        },
+        {
+                "id": "type",
+                "word": "Type",
+                "part_of_speech": "noun/verb",
+                "meaning": "型または範疇",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "typos",
+                                        "type": "root",
+                                        "meaning": "型",
+                                        "lang": "Greek"
+                                }
+                        ],
+                        "original_statement": "The word 'type' stems from the Latin typus, which derives from Greek typos, meaning 'figure', 'impression', 'form', or 'mark'. Originally it indicated an image or model formed in wax or a mold."
+                },
+                "core_concept": {
+                        "en": "The archetype that shapes and categorizes the chaos of existence.",
+                        "ja": "存在の混沌を形作り、分類する原型"
+                },
+                "thinking_layer": "思索の層は、ものの存在を形作る概念の表現である。タイピング行為は単に文字や数字を機械に打ち込むことではなく、形無きものに形を与える行為でもある。人間は世界を理解し、秩序を与えるためにタイプを用いる。型は、変わりゆく世界の中で不変のコンスタントであり、無数の個々の瞬間を統合する一つの原型である。例えば、人生の様々な転機や経験の数々が、まるで一つの型に収まるように見えることもある。このようにして、タイプは単なる形式や模倣ではなく、本質そのものであり、我々が認識する一切の事物、思想の純粋な映し鏡である。どのような物事であれ、タイプがなければ、存在は混沌とし、自らを元の形に戻すことは決してないであろう。そこには、明示されないが確かに存在するシンフォニーが響いている。それは、すべての存在が集まり、そして類を持ち、それぞれの場所を見つける導きを提供する旋律である。",
+                "synonyms": [
+                        "Category",
+                        "Archetype"
+                ],
+                "antonyms": [
+                        "Anomaly",
+                        "Deviation"
+                ],
+                "aftertaste": "In defining chaos, we uncover the boundaries of our own understanding.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "typ-",
+                                        "meaning": "to beat, strike; model, impression"
+                                }
+                        ],
+                        "points": [
+                                "型（タイプ）は、その一の原型を輝かしく再現し、世界の様々な形状やパターンを織りなし、特定の目的と意図のなかで意味を導き出す方法である。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "Ancient Greek"
         }
 ];
