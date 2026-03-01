@@ -41738,5 +41738,630 @@ const WORDS = [
                 "source": "Online Etymology Dictionary",
                 "date": "2026-03-01",
                 "era": "15th Century"
+        },
+        {
+                "id": "protect",
+                "word": "Protect",
+                "part_of_speech": "verb",
+                "meaning": "守る、保護する",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "pro-",
+                                        "type": "prefix",
+                                        "meaning": "前に",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "tect-",
+                                        "type": "root",
+                                        "meaning": "覆う",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "Derived from Latin 'protegere', composed of 'pro-' meaning 'forth' and 'tegere' meaning 'to cover'."
+                },
+                "core_concept": {
+                        "en": "To shield with care and foresight.",
+                        "ja": "未来を見据えた優しさで覆うこと"
+                },
+                "thinking_layer": "保護するという行為は、単なる物理的なシールドの役割を超えています。それは目に見えない愛情と信頼の厚い層を築くことを意味します。保護されることと保護すること、その二つが織りなす関係性の本質は、互いの存在を尊重し、守らねばならないものが何であるのかを熟考する過程にあります。その過程で、私たちは他者だけでなく自身の弱さにも気付き、自己の境界を超えて自由と生命の価値を再確認するのです。保護とは、ひとときの静寂と安心を提供し、その裏には絶え間ない思索と覚悟が潜んでいます。語源が示すように、『前に覆う』ことは未来への意思表示であり、不確実性に対する挑戦とも言えます。この挑戦はまた、自らが守る側になる時の責任感と、他者に守られることの感謝を伴います。一瞬の軽率さがすべてを奪うかもしれないという認識が、さらなる慎重さと配慮を生み出し、やがては人間関係そのものに紐付いた深い交流を育む土台となるのです。保護すること、それは即ち、見えない絆の贈り物なのです。",
+                "synonyms": [
+                        "defend",
+                        "safeguard"
+                ],
+                "antonyms": [
+                        "endanger",
+                        "expose"
+                ],
+                "aftertaste": "To protect is to whirl the guardian's dance, timeless and tender.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "pro",
+                                        "meaning": "forward"
+                                },
+                                {
+                                        "term": "tegere",
+                                        "meaning": "to cover"
+                                }
+                        ],
+                        "points": [
+                                "ラテン語の起源を持ち、物理的および精神的なシェルターとしての意味合いが発展した。",
+                                "『支えとなる』という概念が諸文化に共通して見られ、時代を越えて変わることのない価値観が表れている。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "Late Middle English"
+        },
+        {
+                "id": "communicate",
+                "word": "Communicate",
+                "part_of_speech": "verb",
+                "meaning": "情報や感情を他者に伝える行為",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "com-",
+                                        "type": "prefix",
+                                        "meaning": "共に",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "municare",
+                                        "type": "root",
+                                        "meaning": "分かち合う",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "'Communicate' originates from the Latin word 'communicare', meaning 'to share' or 'to make common'."
+                },
+                "core_concept": {
+                        "en": "The delicate dance of shared understanding and expression.",
+                        "ja": "共通の理解と思いの共有の繊細な舞"
+                },
+                "thinking_layer": "『コミュニケーション』という行為は、時間と空間を超越し、人類の心をつなぐ神秘的な橋のような存在である。それは単なる情報伝達を超え、感情と思考、そして無形の概念をも運ぶ力を持つ。この舞台には、言葉が重要な役割を果たすが、同時に非言語的な要素も重要である。沈黙の中にも深い意味が潜んでおり、目線、仕草、そして周囲の空気すらも意思を運ぶ媒介となるのだ。『コミュニケーション』においては、発信者から受信者までの心の波が調和し、共に愛と理解の河を渡るような感覚が求められる。結局のところ、コミュニケーションとは他者と一つの心を共有する挑戦であり、同時に自己理解の深みへとつながる旅でもある。それは、時には誤解や対立を生むこともあるが、それすらもまた新しい知見と成長への門戸となるのだろう。",
+                "synonyms": [
+                        "convey",
+                        "transmit"
+                ],
+                "antonyms": [
+                        "isolate",
+                        "suppress"
+                ],
+                "aftertaste": "To communicate is to reach across the chasm of solitude with strands of shared light.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "municare",
+                                        "meaning": "to share"
+                                }
+                        ],
+                        "points": [
+                                "『コミュニケーション』の語源はラテン語の『communicare』から来ており、『共有する』という意味を持つ。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "15th Century"
+        },
+        {
+                "id": "observer",
+                "word": "Observer",
+                "part_of_speech": "noun",
+                "meaning": "観察者、監視者の簡潔な意味",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "ob-",
+                                        "type": "prefix",
+                                        "meaning": "対して、向かう",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "servare",
+                                        "type": "root",
+                                        "meaning": "守る、観察する",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'observer' is derived from the Latin 'observare', meaning to watch over, keep, or observe."
+                },
+                "core_concept": {
+                        "en": "A vigilant watcher in the sphere of existence.",
+                        "ja": "存在の領域における警戒する監視者の本質"
+                },
+                "thinking_layer": "観察者という概念は、ただ単に見ることを超えた深淵の世界に触れる行為である。存在の流れを捉える者として、観察者は瞬間の中に隠された真実を解き明かす役割を持つ。見ることはただの行為でありながら、その内奥には宇宙の真理が潜んでいる。観察者は、目の前の現象を超えて、背後に隠れた因果の鎖を意識することで、物事の根底に潜む意味を追求する。果たして目で見えるものだけが現実なのだろうか？観察者は、その問いを胸に抱き、見える世界と見えない世界の間を旅する希少な存在である。そこには無限の可能性が広がり、目を凝らすことでしか見えない微細な違いを識別する能力が育まれる。観察者が汲み取る無限の命題は、時として哲学的命題の深みへと誘う。この探求心こそが、観察者の旅路を豊かに彩る小宇宙であり、見るという行為が持つ無限の広がりを物語っている。",
+                "synonyms": [
+                        "Watcher",
+                        "Spectator"
+                ],
+                "antonyms": [
+                        "Ignorant",
+                        "Participant"
+                ],
+                "aftertaste": "The observer silently unveils universal truths in the quiet moments of watching.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "observare",
+                                        "meaning": "to keep, preserve, and watch over"
+                                }
+                        ],
+                        "points": [
+                                "観察とは単なる視覚的行為ではなく、深層に潜む知性を具現化する。視線の先に広がるのは、見た目を超えた存在の本質である。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Late Middle English, Latin origin"
+        },
+        {
+                "id": "display",
+                "word": "Display",
+                "part_of_speech": "noun/verb",
+                "meaning": "表示すること、見せること",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "dis-",
+                                        "type": "prefix",
+                                        "meaning": "分離、違う",
+                                        "lang": "ラテン語"
+                                },
+                                {
+                                        "text": "plicare",
+                                        "type": "root",
+                                        "meaning": "折り畳む",
+                                        "lang": "ラテン語"
+                                }
+                        ],
+                        "original_statement": "The word 'display' comes from the Old French 'desployer', meaning to unfold or spread out, and ultimately from Latin 'displicare'."
+                },
+                "core_concept": {
+                        "en": "An elegant unveiling of the hidden.",
+                        "ja": "隠されたものの優雅な開示"
+                },
+                "thinking_layer": "『ディスプレイ』という単語が持つ意味には、視覚を超えた深遠な哲学的な層が存在します。それは物事を単に見せるだけでなく、知覚と認識を開く行為です。ディスプレイは、光が物体を照らし、それに影を与えるように、物と概念の新しい側面を私たちに示します。この行為には、未知を解放し、感情や思考の渦を呼び起こす力があります。ディスプレイは視覚的なものであるだけでなく、それを見た者の精神にも影響を与えます。その一瞬は、滑らかに流れる時間の中に立ち止まり、観察者に内省する機会を提供します。私たちはディスプレイを通じて、世界をより深く理解することができ、また自分自身についても新たな洞察を得ることができます。このように、ディスプレイは単なる視覚的体験を超え、態度や人間の精神の深層を熟考するための扉を開けるのです。",
+                "synonyms": [
+                        "Exhibition",
+                        "Showcase"
+                ],
+                "antonyms": [
+                        "Concealment",
+                        "Hiding"
+                ],
+                "aftertaste": "To display is to invite the soul to awaken.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "dis-",
+                                        "meaning": "apart, in different directions"
+                                },
+                                {
+                                        "term": "plicare",
+                                        "meaning": "to fold"
+                                }
+                        ],
+                        "points": [
+                                "『ディスプレイ』は、文化や技術の進化に伴って、その意味が広がった用語です。当初は物理的な「広がり」を示していましたが、現代では情報の視覚的提示や、デジタルデバイスでの表示をも指します。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Middle Ages"
+        },
+        {
+                "id": "discuss",
+                "word": "Discuss",
+                "part_of_speech": "verb",
+                "meaning": "話し合う",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "dis-",
+                                        "type": "prefix",
+                                        "meaning": "分散",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "quatere",
+                                        "type": "root",
+                                        "meaning": "揺さぶる",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "Derived from Latin 'discutere', meaning 'to strike asunder, break up'."
+                },
+                "core_concept": {
+                        "en": "The harmonious dance of ideas in collaborative conversation.",
+                        "ja": "協調的な会話の中でのアイデアの調和の舞踊"
+                },
+                "thinking_layer": "人間の言葉によって考えが交わり、意見がぶつかり合う行為には、常に美しい矛盾が潜んでいる。話し合うことで、意見の壁が破られ、新たな理解が生まれる。議論に必要なのは、単なる言葉の交換ではなく、深い対話である。日本の禅における『不立文字』、すなわち言葉に頼らない本質的な真実を理解することに通じる深みがある。言葉が持つ重力に逆らい、心を軽くして流れるような対話の中に、真実の発見があるかもしれない。話し合いの過程では、言葉の綾に潜む矛盾や不完全さが見えてくるが、それこそが理解を深め、相互の心の中に新たな光を灯すのだ。議論は、分解と再構築の連続であり、意識の錬金術であるとも言えるだろう。時に、その過程は辛く困難であるが、その分、得られる理解と共感の結晶は美しい。また、相反する意見がぶつかり合うとき、そこには一瞬の火花が散り、互いに視界を広げる契機となる。議論とは、異なる者同士が共に手を取り合い、未知の地平を切り開く知的冒険である。これは、言葉と意識が交差する生命の表現である。",
+                "synonyms": [
+                        "deliberate",
+                        "debate"
+                ],
+                "antonyms": [
+                        "agree",
+                        "concur"
+                ],
+                "aftertaste": "Discussing opens the gateways to uncharted realms of understanding.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "dis-",
+                                        "meaning": "apart, away"
+                                },
+                                {
+                                        "term": "quatere",
+                                        "meaning": "to shake"
+                                }
+                        ],
+                        "points": [
+                                "議論という行為は、それ自体が変化の起点である。言葉を揺さぶり、考えを散らし、新たなつながりを作り出す。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "16th Century, Latin origin"
+        },
+        {
+                "id": "include",
+                "word": "Include",
+                "part_of_speech": "verb",
+                "meaning": "含む、包含する",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "in-",
+                                        "type": "prefix",
+                                        "meaning": "内",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "claudere",
+                                        "type": "root",
+                                        "meaning": "閉じる",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'include' originates from the Latin 'includere', formed from 'in-' meaning 'into' and 'claudere' meaning 'to shut'."
+                },
+                "core_concept": {
+                        "en": "The harmonious embrace of parts into a whole.",
+                        "ja": "調和の中に部分を全体として含むこと"
+                },
+                "thinking_layer": "思索の層：『含む』という概念は、物理的な境界を越えて存在の本質を探求する哲学的旅に誘う。全てを受け入れること、それは単なる機械的な操作を超えて、宇宙との共鳴を意味する。包括するとは、心と魂を他者の中に置き、それが部分として存在する全体的な調和に寄与することである。私たちの日常の中で、何かを『含む』時、物質的な障壁を消し去り、精神的に深く関与する意味を見出すのだ。それは、見えない結びつきの織物を紡ぐことであり、全ての存在をひとつの壮大な交響曲に包み込むことである。この視点から見ると、包含することは他者を受け入れる精神的な選択であり、私たちの想像力を超えた宇宙規模の相互関係を示唆するものなのである。深淵なる思考の層にて、包含することで私たちが如何に相互に結び付き、分かち合える存在であるかを考察することは、無限の可能性と調和への扉を開く鍵となるだろう。",
+                "synonyms": [
+                        "comprise",
+                        "encompass"
+                ],
+                "antonyms": [
+                        "exclude",
+                        "omit"
+                ],
+                "aftertaste": "To include is to open the soul to the universe.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "claudere",
+                                        "meaning": "to shut, to close"
+                                }
+                        ],
+                        "points": [
+                                "『includere』というラテン語の過去は、存在を物理的に閉じ込めるだけでなく、精神的に受容する行為をも含んでいた。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Middle English, Latin Origin"
+        },
+        {
+                "id": "retain",
+                "word": "Retain",
+                "part_of_speech": "verb",
+                "meaning": "維持する、保持する",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "re-",
+                                        "type": "prefix",
+                                        "meaning": "再び",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "tenere",
+                                        "type": "root",
+                                        "meaning": "保つ",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "Derived from the Latin 'retenere', meaning to hold back or keep in possession."
+                },
+                "core_concept": {
+                        "en": "To gently embrace time's flow, preserving moments in the river of being.",
+                        "ja": "時の流れを優しく抱きしめ、存在の川の中に瞬間を保存すること。"
+                },
+                "thinking_layer": "『保持する』という行為は、地球の果てしない旅路において、自らの所有物の刹那への執着を暗示しています。この欲望は、物理的なだけでなく、感情的、精神的な領域にも広がります。それは、人間が過去の栄光や苦しみを握りしめ、未来への糧とするための手段なのです。保持するという行動は、単なる物の保有を超え、時間の経過に対抗する試みにも見えつつ、その実、流れる川の一時の静寂を聞く静謐な瞬間でもあります。物事を維持することは、変化を望むのではなく、流転の中で永遠を見出そうとする一種の静的な抵抗とも言えるでしょう。そしてそれこそが、保持することの深遠さであり、同時に儚さでもあります。世の中の人々がその瞬間を何度も振り返り、心の奥底でその意味を問いただす時、それは単なる保存を超え、生命の本質を探る旅の一環なのです。",
+                "synonyms": [
+                        "Preserve",
+                        "Maintain"
+                ],
+                "antonyms": [
+                        "Release",
+                        "Abandon"
+                ],
+                "aftertaste": "Holding onto fragments of eternity, we navigate the currents of time.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "tenere",
+                                        "meaning": "to hold"
+                                }
+                        ],
+                        "points": [
+                                "「retain」の語源的な深みは、単に物理的な保持を超え、精神的な所有の観念にも繋がっています。この言葉は、一瞬の安らぎと共に存在し続けることを望む人々の願いを反映しています。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "14th Century"
+        },
+        {
+                "id": "relay",
+                "word": "Relay",
+                "part_of_speech": "noun, verb",
+                "meaning": "次の人に渡すこと",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "re-lai",
+                                        "type": "prefix-root",
+                                        "meaning": "再び-横たえる",
+                                        "lang": "French"
+                                }
+                        ],
+                        "original_statement": "The word 'relay' comes from the Old French 'relayer', meaning 'to change horses', and by extension, 'to set again'."
+                },
+                "core_concept": {
+                        "en": "A seamless transfer from one hand to another, a thread binding continuity.",
+                        "ja": "ひとつの手からもうひとつの手への完璧な移行、継続性を結ぶ糸"
+                },
+                "thinking_layer": "リレーという言葉は、時間と空間の中での流れの象徴である。古代から人々は、何かを受け継ぎ、次へと渡すことで、人間の活動を進化させてきた。リレーは、個人の限界を超えた集団の力の象徴であり、その先には人と人との繋がりの絆が横たわる。この言葉に込められた本質は、瞬間の連鎖であり、各々がその役割を全うすることで一つの目標を達成するという大きな目的がある。リレーの中で各メンバーは意図されずとも共有された目的の一部となり、そうした無意識の連帯が、生命の持続と、時間を超えた価値を築いていく。無数の手から手へと渡されるこの瞬間には、人間の素早さと精確さのみならず、精神的な絆と人間性の深みが潜んでいる。リレーの美しさは、流動する動きの中に永続的なものを見つけ出す、そんな人間の旅のプロセスを象徴している。",
+                "synonyms": [
+                        "Transfer",
+                        "Pass"
+                ],
+                "antonyms": [
+                        "Retain",
+                        "Hold"
+                ],
+                "aftertaste": "A bridge of continuity woven with many hands.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "re-lai",
+                                        "meaning": "again-lay"
+                                }
+                        ],
+                        "points": [
+                                "リレーは、単なる物理的な移動ではなく、精神的、社会的な作用である。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "14th Century"
+        },
+        {
+                "id": "animated",
+                "word": "Animated",
+                "part_of_speech": "adjective",
+                "meaning": "活気のある、生命がある",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "anima-",
+                                        "type": "root",
+                                        "meaning": "命",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "-ed",
+                                        "type": "suffix",
+                                        "meaning": "〜された",
+                                        "lang": "English"
+                                }
+                        ],
+                        "original_statement": "From Latin 'animatus' past participle of 'animare' which means 'to give breath to'."
+                },
+                "core_concept": {
+                        "en": "The breath of life elevating the inanimate into motion.",
+                        "ja": "無生物に命の息吹を吹き込み、動きの中に高める、その神秘"
+                },
+                "thinking_layer": "「アニメーション」という言葉は、無機質な世界に生命を吹き込むという行為を描いています。この概念は、ただ単に物が動くという以上に、魂が宿ることを意味します。アニメーションの本質は、創造者自身の生命を与える行為にあり、それは存在しないものに存在感を与えることで新たな世界を創り出す力を秘めています。動き出した瞬間、そのアニメーションには創造者だけでない、新たな何かが宿ります。それは単なる絵や彫刻が動くことではなく、視る者に感情を呼び起こし、思考を喚起します。その背後には、人間の内面に潜む無限の可能性と、想像力の力が広がります。日本文化においても、「動き」と「生命」の間には深い繋がりがあり、それは私たちが世界をどのように観るかという基本にも関わります。この動的な命と情熱の源泉に触れること、それがまさに人々を魅了し続けるアニメーションの力なのです。",
+                "synonyms": [
+                        "lively",
+                        "vivacious"
+                ],
+                "antonyms": [
+                        "inanimate",
+                        "lifeless"
+                ],
+                "aftertaste": "Animation breathes life into the void.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "anima",
+                                        "meaning": "breath, soul"
+                                }
+                        ],
+                        "points": [
+                                "「アニメーション」という言葉の語源は、ラテン語のanimaで、魂や命を意味します。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "Late Latin"
+        },
+        {
+                "id": "visionary",
+                "word": "Visionary",
+                "part_of_speech": "noun/adjective",
+                "meaning": "未来を見通す力を持つ人や考え、幻覚や幻想を持つ者",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "vision-",
+                                        "type": "root",
+                                        "meaning": "視覚、見る",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "-ary",
+                                        "type": "suffix",
+                                        "meaning": "〜に関する",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "From the Latin 'visionarius', a derivative of 'visio' meaning to see or perceive."
+                },
+                "core_concept": {
+                        "en": "A profound seer who dwells beyond the horizons of today.",
+                        "ja": "今日の地平線を超えて存在する深遠な予見者"
+                },
+                "thinking_layer": "ヴィジョナリーという言葉は、未来を想像する力と、現在を超越する視野を持つことに他ならない。これはただの予測に留まらず、魂の深遠を探索する行為であり、視覚や感覚の範疇を超えて、内なる光が導く道を歩むことを意味する。このような心の旅は、多様な可能性の海を航海する航海者としての自分を発見する過程であり、現実という名の制限を超えて新たな実在を追求する姿勢である。ヴィジョナリーは、過去の記憶と未来の風景との対話の中で、自己を拡張し、存在の意義を充たす。彼らの視点は、単なる幻想ではなく、現実を変革する力と言えるだろう。彼らは夢を抱くだけでなく、目に見えないものを具現化するために、心の内側から無限の可能性を探究する。そしてその探究は、単なるビジョンを超えた、存在する全てへの深い愛である。",
+                "synonyms": [
+                        "Dreamer",
+                        "Seer"
+                ],
+                "antonyms": [
+                        "Realist",
+                        "Skeptic"
+                ],
+                "aftertaste": "Visionaries sculpt what they see with the clay of might-be.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "visio",
+                                        "meaning": "to see or perceive"
+                                }
+                        ],
+                        "points": [
+                                "ヴィジョナリーは通常、現実を超えたビジョンによって現在の限界を拡張する特異な能力を持っているとされる。その歴史的背景はラテン語 'visio' に由来し、視覚的な認識を超えた精神的な洞察を強調する。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "Late Middle English, 16th Century"
+        },
+        {
+                "id": "portable",
+                "word": "Portable",
+                "part_of_speech": "adjective",
+                "meaning": "持ち運びができる",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "port-",
+                                        "type": "root",
+                                        "meaning": "運ぶ",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "-able",
+                                        "type": "suffix",
+                                        "meaning": "できる",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'portable' originates from the Middle English, derived from Old French, and ultimately from the Latin 'portabilis', which means 'that may be carried'."
+                },
+                "core_concept": {
+                        "en": "Grace in mobility.",
+                        "ja": "動きの中にある優雅さ"
+                },
+                "thinking_layer": "『ポータブル』という言葉は、単なる物質的な移動可能性を超えて、その本質において、自由の願望を秘めています。それは物体が場所から場所へとどこにも制約されることなく移動する力を示唆します。そしてこの概念は私たちの存在そのものに深く結びついています。なぜなら私たちもまた、人生の旅路において、束縛や固定観念にとらわれることなく自らの意志で歩み続けたいと願う存在だからです。ポータブルなものは、私たちに軽やかさと流動性の美しさを教えてくれます。それは物質界の移動の容易さを超え、精神的な解放の象徴とも言えるでしょう。ポータブルであることの核心は、制限を超え、自分自身を自由に表現し、無限の可能性を追求することの大切さを教えているのです。私たちの人生において、多様な状況に適応し、柔軟性を持つ意義は計り知れず、この言葉が発する哲学的誘いは、私たちに物理的な境界を壊し、精神の翼を広げる道を示してくれます。",
+                "synonyms": [
+                        "Transportable",
+                        "Movable"
+                ],
+                "antonyms": [
+                        "Fixed",
+                        "Immovable"
+                ],
+                "aftertaste": "The essence of freedom is contained in that which can be carried.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "port",
+                                        "meaning": "to carry"
+                                }
+                        ],
+                        "points": [
+                                "『portable』は、中世英語を経由して古フランス語から、そしてラテン語の『portabilis』に由来し、運ぶことのできる可能性を表した言葉です。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Late Middle English, 14th Century"
+        },
+        {
+                "id": "pendant",
+                "word": "Pendant",
+                "part_of_speech": "noun",
+                "meaning": "装飾としてぶら下がっているもの",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "pend-",
+                                        "type": "root",
+                                        "meaning": "ぶら下がる",
+                                        "lang": "ラテン語"
+                                }
+                        ],
+                        "original_statement": "Derived from the Latin 'pendere', meaning 'to hang', through Middle French 'pendant'."
+                },
+                "core_concept": {
+                        "en": "An adornment that sways gently with gravity’s touch.",
+                        "ja": "重力の優しさに揺れる装飾"
+                },
+                "thinking_layer": "ペンダントの概念は、単なる装飾の役割を超えた、哲学的な意義を持つものだ。ペンダントは人間の心の一部として揺れ動き、私たちの存在の一部を象徴する。ペンダントの輝きは一瞬で捉えられるが、その背後には時間と空間を超えた物語が秘められている。一見簡単なアクセサリーの形を取るペンダントは、個々の記憶や感情、そして私たちがかかえる願望を静かに語りかける。それは彫刻のように、持ち主の人生を形作る要素であり、自身の過去と未来をつなぎ合わせる架け橋となる。どのペンダントも個々の体験を織り成し、時には心の深い部分にささやくことで私たちの歩む道を導く。ペンダントは、見た目以上に内なる光をほのぼのと放ちながら時々の風にそっと揺れ、持ち主の心に不可思議な安らぎと感動をもたらすのだ。",
+                "synonyms": [
+                        "amulet",
+                        "charm"
+                ],
+                "antonyms": [
+                        "bracelet",
+                        "ring"
+                ],
+                "aftertaste": "Grace in the art of dangling speaks to the soul.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "pend",
+                                        "meaning": "to hang"
+                                }
+                        ],
+                        "points": [
+                                "ペンダントという言葉は「ぶら下がる」という意味のラテン語 'pendere' に由来し、中世フランス語 'pendant' から英語に取り入れられた。"
+                        ]
+                },
+                "source": "The Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "14th Century"
         }
 ];
