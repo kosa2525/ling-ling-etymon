@@ -43115,5 +43115,363 @@ const WORDS = [
                 "source": "Online Etymology Dictionary",
                 "date": "2026-03-01",
                 "era": "16th Century, European Renaissance"
+        },
+        {
+                "id": "initiate",
+                "word": "Initiate",
+                "part_of_speech": "noun/verb",
+                "meaning": "始めること、開始する人",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "in-",
+                                        "type": "prefix",
+                                        "meaning": "内へ、に",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "initium",
+                                        "type": "root",
+                                        "meaning": "始まり",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The term 'initiate' originates from the Latin 'initiare', which means 'to begin' or 'to enter upon'."
+                },
+                "core_concept": {
+                        "en": "A sacred beginning that leads souls into a ritual of new understanding.",
+                        "ja": "新しい理解の儀式へ魂を導く神聖な始まり"
+                },
+                "thinking_layer": "イニシエートとは、単に何かを始める行為ではない。それは深淵な旅の始まりであり、新たな扉を引き開け、自身を世界に向けて開放する行為である。それは未知との遭遇であり、過去の自己を超える挑戦である。古代の儀式の中で、イニシエートは知恵の源泉を受け取り、精神的な深化へと誘われた。こうした精神的旅は、現代社会においても変わらず、自己発見という永遠のテーマに通じる。私たちは皆、人生のある段階でイニシエートとなり、無知から知識への移行を経験する。イニシエートは、個人の内面を探ることで、その無限の可能性を解放する鍵である。それは、新たな視点を探し求める冒険者への召喚状であり、見栄や恐怖を超え、真実の自己にたどり着く道標でもある。イニシエートすることは、自らを新たな啓示の光にさらし、古い枠組みを打ち破ることで、個の本質を深く掘り下げる行為なのだ。",
+                "synonyms": [
+                        "Commence",
+                        "Embark"
+                ],
+                "antonyms": [
+                        "Cease",
+                        "End"
+                ],
+                "aftertaste": "To initiate is to unlock a door to infinite possibility.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "initium",
+                                        "meaning": "beginning"
+                                }
+                        ],
+                        "points": [
+                                "言葉「initiate」は、ラテン語の 『initium』 から派生し、始まりという概念を内包している。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary (etymonline.com)",
+                "date": "2026-03-01",
+                "era": "Late Middle English, from Latin"
+        },
+        {
+                "id": "advance",
+                "word": "Advance",
+                "part_of_speech": "noun/verb",
+                "meaning": "進むこと、前進",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "ad-",
+                                        "type": "prefix",
+                                        "meaning": "〜に向かって",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "vance",
+                                        "type": "root",
+                                        "meaning": "行動する",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "From Middle English 'avancen', borrowed from Old French 'avancier', derived from Late Latin 'abbante', meaning to step forward."
+                },
+                "core_concept": {
+                        "en": "Stepping boldly into the unknown.",
+                        "ja": "未知なるものへの大胆な第一歩"
+                },
+                "thinking_layer": "前進とは、人間の本質的な渇望であり、時間と空間を超越する心の旅でもあります。進むという行為は、己の存在意義を探求し、無限の可能性を模索することに等しい。それは、内なる恐怖や不安を乗り越え、記憶の森を切り裂き、未来の光を手に入れるための挑戦である。過去を背負いながらも、その時に縛られず、未来へ続く道を自らの意志で切り開いていく。この行動は、無数の可能性が広がるキャンバスに、自身の意思と希望を描くことを象徴する。進むということは、ただ物理的に前方に動くということではなく、内面的な成長と学びを重ね、それによって自ずと道が拓ける行為なのだ。進化する生命として、我々は常に次の段階を目指し、進化の一部として共鳴し合い、時間の流れの中で新たな可能性を紡ぎ出すのである。",
+                "synonyms": [
+                        "progress",
+                        "advance"
+                ],
+                "antonyms": [
+                        "retreat",
+                        "regress"
+                ],
+                "aftertaste": "Advance is the audacious narrative of tomorrow.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "vance",
+                                        "meaning": "to move"
+                                }
+                        ],
+                        "points": [
+                                "ラテン語の「ad」と「vance」から成り立ち、目的地に向かう行動を示す語源学的背景。"
+                        ]
+                },
+                "source": "Etymological Dictionary of the English Language",
+                "date": "2026-03-01",
+                "era": "14th Century"
+        },
+        {
+                "id": "capture",
+                "word": "Capture",
+                "part_of_speech": "verb/noun",
+                "meaning": "捕獲、取得",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "capere",
+                                        "type": "root",
+                                        "meaning": "捉える",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'capture' finds its origins in the Latin 'captura', from 'capere', meaning 'to take, seize'."
+                },
+                "core_concept": {
+                        "en": "The delicate art of seizing what once was free.",
+                        "ja": "かつて自由であったものを捉えられる微妙な技"
+                },
+                "thinking_layer": "捕えるという行為は、瞬間を永遠に固定しようとする人類の永遠の好奇心に根ざしている。この行為には力強さと同時に脆さも内包されている。捉える瞬間、物事は形を変え、意図しない形の自由へと解放される。この自由は、新たな意志と共に再び捉える者の手に戻る。捕獲は、固定と解放、支配と服従の狭間で展開される心の踊りである。その過程において、捉えられるものも捕らえるものも変容し、それぞれの本質が垣間見える。捕えることは、単なる力ではなく、深遠な理解と共鳴によって成し遂げられる対話であり、その背後にはいつも人間の探求心が宿っている。この探求心が、物質的なものを越えて、心の奥深くまで浸透することができれば、捕獲という行為は単なる物理的なもの以上の意味を持ち、人間存在の核心に近づくことができるだろう。",
+                "synonyms": [
+                        "Seize",
+                        "Apprehend"
+                ],
+                "antonyms": [
+                        "Release",
+                        "Free"
+                ],
+                "aftertaste": "Capture is the poignant ballet of freedom found and forsaken.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "capere",
+                                        "meaning": "to seize, take"
+                                }
+                        ],
+                        "points": [
+                                "捕獲は単なる物理的行為ではなく、文化や歴史を通じた深い哲学的概念であり、その背後には常に人間の探求心がある。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Late Middle English, 14th Century"
+        },
+        {
+                "id": "attach",
+                "word": "Attach",
+                "part_of_speech": "verb",
+                "meaning": "結びつける、取り付ける",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "ad-",
+                                        "type": "prefix",
+                                        "meaning": "～に向かって",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "taxare",
+                                        "type": "root",
+                                        "meaning": "取り扱う",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'attach' originates from the Old French 'atachier', a combination of the Latin prefix 'ad-' meaning 'towards', and 'taxare' meaning 'to handle'."
+                },
+                "core_concept": {
+                        "en": "To connect, bind or fasten firmly.",
+                        "ja": "しっかりと結びつけること"
+                },
+                "thinking_layer": "古代から続くこの地上での接触や繋がりは、人間の本能的な欲求によるものである。「attach」という言葉は、物理的にも精神的にも、何かを結びつける行為を表している。その動作は、単なる取り付け以上の意味を持ち、人々の心をも結びつける力がある。一つの人生が他者と交差し、一瞬の絆が永遠に残ることがある。結びつくことによって生まれる新たな可能性は、無限の深淵を持つ。大切なものを失わず、また新たな価値を生み出すために、人は今日も何かを「attach」し続ける。すべての物事が複雑に絡み合い、大宇宙という大きなタペストリの一部となる。このように、結びつけることで見えてくる未来への架け橋は、希望と願いに満ちて、本質的な意味合いをもたらす。それが、言葉の背後にある哲学的探求の一部である。",
+                "synonyms": [
+                        "Affix",
+                        "Connect"
+                ],
+                "antonyms": [
+                        "Detach",
+                        "Separate"
+                ],
+                "aftertaste": "Connection transforms chaos into harmony.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "taxare",
+                                        "meaning": "to handle"
+                                }
+                        ],
+                        "points": [
+                                "語尾に現れる「-th」の起源は古英語形式であり、強調の意味を持ち合わせている。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "14th Century"
+        },
+        {
+                "id": "adjust",
+                "word": "Adjust",
+                "part_of_speech": "verb",
+                "meaning": "調整する、適合させる",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "ad-",
+                                        "type": "prefix",
+                                        "meaning": "に向かって",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "justus",
+                                        "type": "root",
+                                        "meaning": "正しい",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "Derived from the Old French 'ajuster', which in turn came from Latin 'ad-' meaning 'to' + 'justus' meaning 'right'."
+                },
+                "core_concept": {
+                        "en": "To align oneself with the harmony of the universe.",
+                        "ja": "宇宙の調和に自己を揃えること。"
+                },
+                "thinking_layer": "『調整』という言葉は、単なる機械的な過程に留まらず、人間が宇宙の流れに対して繊細なバランスを取ることを示唆しています。それは、私たちが人生の中で様々な状況に適応し、柔軟に変化する力であり、時には新しい視点を受け入れる勇気でもあります。調整とは、他者や環境との相互作用の中で、私たちが自分の立ち位置を見出す智慧の行為です。この言葉は、秩序と混沌の狭間で自己を見出す永続的な探求を象徴しています。生活の中で、私たちはしばしば変化の波に揺さぶられますが、その騒々しさの中でこそ、本当の調整という名の静けさが花開くのです。調整することは、単に状況に対応するだけでなく、それを超えて新たな調和を創造する力でもあります。人間の内なるコンパスが目指すべきは、変わりゆく空間と時間の中での最適な位置を見つけることなのです。このように、調整とは、日々の喧騒の中で自らを見失わず、かつ外界との調和を保つための技能であり芸術でもあります。",
+                "synonyms": [
+                        "Regulate",
+                        "Modulate"
+                ],
+                "antonyms": [
+                        "Disorder",
+                        "Misalign"
+                ],
+                "aftertaste": "Adaptation is the silent dance with time.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "justus",
+                                        "meaning": "right, just"
+                                }
+                        ],
+                        "points": [
+                                "言葉の根はラテン語の『justus』に由来し、その正義や適合、正確さに重点を置いています。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "14th Century"
+        },
+        {
+                "id": "contrary",
+                "word": "Contrary",
+                "part_of_speech": "adjective/noun",
+                "meaning": "反対の、正反対であること",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "contra-",
+                                        "type": "prefix",
+                                        "meaning": "反対",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "-arius",
+                                        "type": "root",
+                                        "meaning": "に対する",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'contrary' derives from the Latin 'contrarius', which means 'opposite' or 'in opposition'."
+                },
+                "core_concept": {
+                        "en": "The dance of shadows and light, forever opposed yet inseparable.",
+                        "ja": "影と光の舞、永遠に対立しながらも切り離せない存在。"
+                },
+                "thinking_layer": "「反対」という言葉は、単なる対立を超えて、存在そのものが何か違うものとの比較によって明確になるという、深遠なる哲学の探求である。我々の意識が進化する過程で、反対するものとの対話は避けられない。共鳴するものがあるからこそ、個としての存在が引き立つ。そのため、反対とは破壊的ではなく創造的であるとも言える。矛盾が新たな認識の地平を切り開くように、反対もまた真理への一歩となり得るのである。反対を通じてしか探ることのできない美しさが内包されており、その出会いや衝突が、未だ見ぬ新天地へと我々を誘う。事物が変化する力、その裏には常に反対という言葉が光と影のように絡み合い、鮮やかな色彩を放つ。この概念は人間の営みのあらゆる側面に深く根ざしており、歴史や文化、日常の中で豊かに表現され続けているのである。",
+                "synonyms": [
+                        "Opposite",
+                        "Adverse"
+                ],
+                "antonyms": [
+                        "Similar",
+                        "Agreeable"
+                ],
+                "aftertaste": "Opposition breathes life into the tapestry of existence.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "contra-",
+                                        "meaning": "against"
+                                }
+                        ],
+                        "points": [
+                                "『対立』という概念は人類の歴史において、多くの革新をもたらしました。これにより異なる視点や思考方式が生まれ、新たな進化の機会をもたらします。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Late Middle English, from Latin contrarius"
+        },
+        {
+                "id": "corporate",
+                "word": "Corporate",
+                "part_of_speech": "adjective",
+                "meaning": "法人に関する",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "corpor-",
+                                        "type": "root",
+                                        "meaning": "身体",
+                                        "lang": "ラテン語"
+                                },
+                                {
+                                        "text": "-ate",
+                                        "type": "suffix",
+                                        "meaning": "にする",
+                                        "lang": "ラテン語"
+                                }
+                        ],
+                        "original_statement": "The word 'corporate' originates from the Latin term 'corporatus', past participle of 'corporare', meaning 'to form into a body'."
+                },
+                "core_concept": {
+                        "en": "The unified body of many forming an entity.",
+                        "ja": "多くが統合され一つの存在となるもの"
+                },
+                "thinking_layer": "人々が集い、個々の存在を超越し、集合的に新たな生命体を形成すること。それは、産業や商業においてただの機械やルールではなく、生き生きとした存在である。数多くの異なる声が一つの調和を奏でるように、体を組織として構成し、日常の中でダンスのように動き出す。その連携はまるで血流が体全体を巡るように、企業体として生きて息をし、使命を果たしていく姿は、現代社会の複雑さと調和を反映している。体を意識したこの概念は、関与するすべての要素が有機的に絡み合い、不可分の連帯感を形成することを示している。企業という体制は、個々の力が一体となり、力強くしかし柔軟に、変化する世界に適応していく姿そのもの。個の境界があやふやに溶け合い、新たな生命がそこに息づく。そしてその運動は、ただ金銭的な利益を求めるだけでなく、社会全体にもその恩恵をもたらすものとなりうる。企業の中で形成される絆や支え合いの精神は、人間の本質的な協力意識を具現するものであり、未来に向けた希望の灯火ともなる。",
+                "synonyms": [
+                        "collective",
+                        "incorporated"
+                ],
+                "antonyms": [
+                        "individual",
+                        "solitary"
+                ],
+                "aftertaste": "Corporate represents the indomitable spirit of unity that transcends individualism.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "corpus",
+                                        "meaning": "body"
+                                }
+                        ],
+                        "points": [
+                                "企業という概念は、ただの商業的存在にとどまらず、社会的な生態系の一部である。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "Late Middle English, from Latin"
         }
 ];
