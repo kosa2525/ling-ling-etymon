@@ -30769,5 +30769,189 @@ const WORDS = [
                 "source": "Online Etymology Dictionary",
                 "date": "2026-03-01",
                 "era": "Old English"
+        },
+        {
+                "id": "bark",
+                "word": "Bark",
+                "part_of_speech": "noun/verb",
+                "meaning": "木の皮、犬の鳴き声",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "bark-",
+                                        "type": "root",
+                                        "meaning": "犬が吠える音",
+                                        "lang": "Old Norse"
+                                }
+                        ],
+                        "original_statement": "The word 'bark' first appeared in Old Norse 'bark,' meaning a sharp sound or noise, later used in Middle English to describe both the sound of a dog and the protective outer layer of a tree."
+                },
+                "core_concept": {
+                        "en": "A symphony of alerts rending through silence.",
+                        "ja": "沈黙を切り裂く警告の交響楽"
+                },
+                "thinking_layer": "『吠える』という言葉は、ただの音ではなく、世界と生命の間に架ける橋です。吠える声は、孤独の中で響き渡り、仲間を求める痛切なメッセージです。樹木の『皮』も同様に、外界との触れ合いを通じて、自らを守り、成長を促す自然の防御策です。音と存在を保護する層、両者は根源的に繋がっているのです。犬の吠え声は孤独や守るべきものを知らせ、木の皮は時の流れに応じて変化する生命の肌。それは如何に淡々とした行動や物質であっても、自然の中では意味があり、役割を果たしているということを示しています。人の意識に潜む未解の観念は、我々が創り出すことなく存在する宇宙の一部として、我々に警告と保護を与え続けるのです。言葉が歴史を紡ぎ、時間と共にその意味が変わるように、『bark』も進化し続ける音楽の一部です。",
+                "synonyms": [
+                        "Howl",
+                        "Rind"
+                ],
+                "antonyms": [
+                        "Silence",
+                        "Smoothness"
+                ],
+                "aftertaste": "A primal cry lingering at the world's edge, ever alert.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "bark",
+                                        "meaning": "to strip bark or to bark like a dog"
+                                }
+                        ],
+                        "points": [
+                                "木の皮と犬の鳴き声が一つの語源に由来する背景には、言語の多面的な進化と共鳴する哲学的な歴史があります。どちらも保護と警戒の表れであるため、意識の深層に訴えかける力を持ちます。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "Middle English"
+        },
+        {
+                "id": "gamble",
+                "word": "Gamble",
+                "part_of_speech": "noun, verb",
+                "meaning": "リスクを冒して楽しむ行為",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "gamble",
+                                        "type": "root",
+                                        "meaning": "賭ける",
+                                        "lang": "English"
+                                }
+                        ],
+                        "original_statement": "The word 'gamble' is believed to have originated in the early 18th century, possibly from the Middle English word 'gammlen', which meant to jest or fumble, and was associated with gaming and risking money on uncertain outcomes."
+                },
+                "core_concept": {
+                        "en": "To dance with chance, embraced by uncertainty.",
+                        "ja": "不確実性に包まれたまま、機会と舞うこと。"
+                },
+                "thinking_layer": "ギャンブルとは、人生そのものを象徴する行為である。人は誰もが未知の未来に向かって歩み出すときに、希望と恐れを抱えて進む。賭けとは、その時々の分岐点を選び取ることであり、その選択がもたらす結果に自らを委ねる行為である。リスクを受け入れ、結果に対する責任を持つこと。賭けは人生の縮図であり、不確実性との対話に他ならない。人は喜びや悲しみを伴いながら、偶然と意図の中を行き来する。計画を立てることもできれば、流れに身を任せることもある。しかし、いかに慎重に計算されたものであっても、未来は予測不可能な一歩先である。この意味でギャンブルは、希望を抱いた人間の永遠なる挑戦と言えるだろう。失敗が伴うかもしれないが、その過程で得られる感情や経験こそが貴い。人が何かを賭けたとき、その瞬間に存在する命の輝きを無視することはできない。それは人生における価値の発見であり、魂の躍動である。",
+                "synonyms": [
+                        "bet",
+                        "wager"
+                ],
+                "antonyms": [
+                        "certainty",
+                        "assurance"
+                ],
+                "aftertaste": "To gamble is to waltz with fate, knowing full well its unpredictable rhythm.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "gammlen",
+                                        "meaning": "jest, play"
+                                }
+                        ],
+                        "points": [
+                                "ギャンブルの語源は中英語の「gammlen」であり、これは遊びや冗談を示す言葉である。そのルーツは、遊戯や不確実性を楽しむ人間の性質の側面を反映している。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "18th Century"
+        },
+        {
+                "id": "dwindle",
+                "word": "Dwindle",
+                "part_of_speech": "verb",
+                "meaning": "減少する、衰える",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "dwin-",
+                                        "type": "prefix/root",
+                                        "meaning": "消える",
+                                        "lang": "Middle English"
+                                }
+                        ],
+                        "original_statement": "Originates from Middle English 'dwinen', derived from Old English 'dwinan', meaning 'to waste away or fade'."
+                },
+                "core_concept": {
+                        "en": "The gradual, ephemeral fading into oblivion.",
+                        "ja": "漸進的で儚く忘却の中に溶け込むこと"
+                },
+                "thinking_layer": "『風前の灯火』という言葉が漂わせるその雰囲気。人々の人生、自然の営み、小さなものが消え去っていく様を表している。消えるという行為は単なる喪失ではなく、一種の移行であり、また新たな始まりを示唆するものでもある。燃え尽きた炎のように、すべての物は時間の流れに逆らわず自然と無へと還る。その様は、自然界の生き物たちが一年を迎える様子を目の当たりにするようだ。そして私たちはこの中で何を学ぶのか。時の流れの不可逆性が、命の美しさを際立たせる。有限であるがゆえに、私たちの時間はかけがえのないものとなる。そして、それを受け入れることで、人生の価値を見出すことができる。時が刻々と過ぎゆく中で、私たちはそのことを意識し、穏やかに消えてゆく存在を歓迎する心を育てるべきである。それは未練を残さず、しなやかに受け入れる力にもなるだろう。",
+                "synonyms": [
+                        "Decrease",
+                        "Diminish"
+                ],
+                "antonyms": [
+                        "Increase",
+                        "Grow"
+                ],
+                "aftertaste": "Time etches all into a gentle oblivion.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "dwinan",
+                                        "meaning": "to waste away or fade"
+                                }
+                        ],
+                        "points": [
+                                "古英語であった『dwinan』が持つ意味は、『衰え】や『消え去る』という確かな概念を伝えている。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Old English, pre-12th Century"
+        },
+        {
+                "id": "balk",
+                "word": "Balk",
+                "part_of_speech": "noun/verb",
+                "meaning": "障害を作る、行動をためらう",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "balk",
+                                        "type": "root",
+                                        "meaning": "障害",
+                                        "lang": "Old English"
+                                }
+                        ],
+                        "original_statement": "The word 'balk' originates from Middle English balke, which in turn comes from Old English balca, meaning a ridge or an unplowed strip of land."
+                },
+                "core_concept": {
+                        "en": "The subtle pause that redirects destiny’s course.",
+                        "ja": "運命の進路を変える微細な停滞"
+                },
+                "thinking_layer": "人間が歩む人生の道程には、時に「バルク」という名の観念が現れ、それが我々の選択を立ち止まらせることがある。この「バルク」は、ただの遅延や妨げだけを指しているのではない。我々はその場に立ち止まり、深く考え、自分自身を見つめ直す機会を与えられる瞬間なのである。それはまるで人生の大河の流れの中に、一時的に形成される渦のようなもの。この小さな反乱を通じて、人間は内なる声に耳を傾け、本当に進むべき道を再考する勇気を持つのである。このように、バルクは単なる停滞ではなく、進化し続けるための不可欠な要素なのだ。",
+                "synonyms": [
+                        "hesitate",
+                        "impede"
+                ],
+                "antonyms": [
+                        "advance",
+                        "proceed"
+                ],
+                "aftertaste": "To balk is to invite introspection at the cusp of progress.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "balka",
+                                        "meaning": "ridge"
+                                }
+                        ],
+                        "points": [
+                                "「バルク」は、長い歴史の流れの中で形を変えてきたが、その根源にあるのは人類が立ち止まることの重要性と、それに続く深い認識の必要性である。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Old English"
         }
 ];
