@@ -30917,5 +30917,354 @@ const WORDS = [
                 "source": "Online Etymology Dictionary",
                 "date": "2026-03-01",
                 "era": "14th Century"
+        },
+        {
+                "id": "jeopardize",
+                "word": "Jeopardize",
+                "part_of_speech": "verb",
+                "meaning": "危険にさらす",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "jeopard-",
+                                        "type": "root",
+                                        "meaning": "危険",
+                                        "lang": "Middle English"
+                                },
+                                {
+                                        "text": "-ize",
+                                        "type": "suffix",
+                                        "meaning": "～する",
+                                        "lang": "Greek/Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'jeopardize' comes from the Middle English 'jeoperdi', meaning 'danger', with the addition of the suffix '-ize'."
+                },
+                "core_concept": {
+                        "en": "To tread the fine line between safety and peril.",
+                        "ja": "安全と危険の狭間を歩むこと"
+                },
+                "thinking_layer": "『危険を冒す』という行為は、人生の冒険たるものの暗黙的な一部です。無知で直進するよりも、私たちの生活におけるさまざまな浮き沈みを、新たな可能性を発見するための機会として捉えることが大切です。明日を思い描く不安と期待の中で、その繊細な均衡を崩すことは、また新たなる道を切り開く力にもなり得るのです。他者の生命を左右する瞬間のたび、あるいはそっとかじり取る時間の流れを感じるたびに、命運という繊細な帆を操る感覚が広がります。実際には、それは自己の境界の再発見に過ぎないかもしれませんが、その旅路は過去と未来、両方の境界に触れる一種の調和の創造ともなります。互いに影響を与え合う他者の存在を求める私たちの姿は、安全地帯を超えて未知の世界へ進み続けることによって、より本質的な自己発見の道を歩むことを示唆しています。",
+                "synonyms": [
+                        "endanger",
+                        "risk"
+                ],
+                "antonyms": [
+                        "protect",
+                        "safeguard"
+                ],
+                "aftertaste": "Jeopardy is the twin of opportunity.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "jeopard",
+                                        "meaning": "danger, risk"
+                                },
+                                {
+                                        "term": "-ize",
+                                        "meaning": "to make or to do"
+                                }
+                        ],
+                        "points": [
+                                "『jeopard』はゲームや戦いにおける危険な場面から派生した中世英語で、運命を危うくすることを意味します。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "14th Century"
+        },
+        {
+                "id": "plummet",
+                "word": "Plummet",
+                "part_of_speech": "noun/verb",
+                "meaning": "急激に落ちる",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "plumb-",
+                                        "type": "root",
+                                        "meaning": "鉛",
+                                        "lang": "Middle English from Latin 'plumbum'"
+                                },
+                                {
+                                        "text": "-et",
+                                        "type": "suffix",
+                                        "meaning": "小さな",
+                                        "lang": "Middle English"
+                                }
+                        ],
+                        "original_statement": "Derived from Anglo-French 'plommet', a small lead weight. Originally referred to a tool for measuring depth or verticality."
+                },
+                "core_concept": {
+                        "en": "A descent marked by gravity's embrace.",
+                        "ja": "重力に抱かれた急降下の美"
+                },
+                "thinking_layer": "『プラメット』という言葉は、単なる物理的運動以上のものを表現する。これは人生の浮き沈みや、急激な変化の象徴でもある。鉛のおもりが空から垂直に落ちて地に達する様は、地を静かに貫く瞑想の一種とも言えよう。このおもりの落下は、時間の経過の計測でもあり、重力という普遍的な法則への帰依でもある。重力に引かれ、自然の摂理に従う運動は、我々の心にも重なり、内なる静かなる根源の追求を促す。落ちること、沈むこと、そこには単なる下降ではなく、宇宙の真理を抱擁する行為がある。落下から得られる教訓は、地に足を着ける安心感、そして再び上昇するための力の蓄積をも意味する。確かなる地を目指すその姿勢は、表面的な結果以上に、意志の純粋な表現である。物理的世界と精神的世界が交錯するその瞬間こそが、『プラメット』の詩情である。",
+                "synonyms": [
+                        "Fall",
+                        "Dive"
+                ],
+                "antonyms": [
+                        "Rise",
+                        "Ascend"
+                ],
+                "aftertaste": "In the plunge lies a silent embrace of gravity's intent.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "plumbum",
+                                        "meaning": "lead"
+                                }
+                        ],
+                        "points": [
+                                "『プラメット』という語源には、中世中英語から借用された古フランス語の影響が見られ、非常に物質的な起源を持ちながら、精神性を帯びた表現となっている。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "Middle English"
+        },
+        {
+                "id": "amble",
+                "word": "Amble",
+                "part_of_speech": "noun/verb",
+                "meaning": "ゆっくりと歩く、のんびり進む",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "ambler",
+                                        "type": "root",
+                                        "meaning": "歩く",
+                                        "lang": "Old French"
+                                }
+                        ],
+                        "original_statement": "The English word 'amble' traces back to the Old French verb 'ambler', which means 'to walk'. This, in turn, derives from Latin 'ambulare', meaning 'to walk'."
+                },
+                "core_concept": {
+                        "en": "A gentle, unhurried journey through space and time.",
+                        "ja": "時空間を緩やかに旅する心地よさ"
+                },
+                "thinking_layer": "歩くこと、それは日常の中に潜む静かな瞑想である。体の動きが心と共鳴し、頭の中の雑音が一時的に消え去る。緩やかに進むその歩みは、時間の流れに任せた穏やかな抵抗でもある。現代の喧騒を離れ、自然の調和を耳に傾けながら、足元に広がる草木や空気の匂いを感じ取る。その瞬間の連なりが、人生の中に無数の小さな美しさを織りなすのだ。それはまた、自己との対話の際にも同様だ。人は歩きながら、過去の記憶や未来の可能性をじっくりと考え、内面的な成長を促進する。そこには目的地とは異なる魅力が内包され、内なる静けさが見出される。生き急ぐことなく、物事の本質を、そして自分自身をじっくりと噛み締める。それが「歩む」という行為の本質であり、魂が求める穏やかさの一部である。",
+                "synonyms": [
+                        "stroll",
+                        "saunter"
+                ],
+                "antonyms": [
+                        "rush",
+                        "sprint"
+                ],
+                "aftertaste": "To amble is to surrender to the rhythm of your own soul.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "ambulare",
+                                        "meaning": "to walk"
+                                }
+                        ],
+                        "points": [
+                                "この単語は、ラテン語の 'ambulare' にその起源を持ち、古フランス語を経由して英語に入った。この過程は、言語が文化の中でどう変化し、継承されてきたかを物語る。他方で、ゆるやかな歩みを示すこの言葉は、我々に無数の哲学的考察を与える。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "14th Century"
+        },
+        {
+                "id": "strive",
+                "word": "Strive",
+                "part_of_speech": "verb",
+                "meaning": "努力する、奮闘する",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "strive",
+                                        "type": "root",
+                                        "meaning": "努力、奮闘",
+                                        "lang": "Middle English"
+                                }
+                        ],
+                        "original_statement": "The word 'strive' originates from the Middle English 'striven', itself from Old French 'estriver', believed to be of Germanic origin, akin to Old High German 'streben' meaning to strive or quarrel."
+                },
+                "core_concept": {
+                        "en": "The relentless pursuit of a noble purpose.",
+                        "ja": "高貴な目的を追求することの決意"
+                },
+                "thinking_layer": "生の活力が内面から溢れ出し、無限の可能性が形作られるとき、人は「努力する」という挑戦的な舞台へと誘われる。この単語が持つ力は、決して消えることのない火花の如く心の奥底で燃え続ける燃料である。『奮闘』との抱擁は、ひたむきな意志が時間の風景を切り裂いて目的へと向かわせる。努力の結果が不確実であっても、求める道程そのものが価値を持ち、生まれる希望は魂に新たな光をもたらす。ストライヴという行為は、個々の存在が壮大な宇宙の中で織り成す、小さくも偉大な物語の一部である。この物語の中での挑戦は、新たな真実を見出すための自己探求の旅であり、深淵なる宇宙へと続く航海である。",
+                "synonyms": [
+                        "endeavor",
+                        "struggle"
+                ],
+                "antonyms": [
+                        "yield",
+                        "relinquish"
+                ],
+                "aftertaste": "Strive, for the path defines us as much as the destination.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "strive",
+                                        "meaning": "努力する"
+                                }
+                        ],
+                        "points": [
+                                "この語は人間の内的な葛藤と進化を象徴する。言語学的に見ても、striveの語源は、多様な地域と時代にわたる人類の歴史的意志の集合体と言えよう。"
+                        ]
+                },
+                "source": "The Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "12th Century"
+        },
+        {
+                "id": "cynic",
+                "word": "Cynic",
+                "part_of_speech": "noun",
+                "meaning": "犬儒学派の哲学者または懐疑的な人",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "kynikos",
+                                        "type": "root",
+                                        "meaning": "犬に似た",
+                                        "lang": "Greek"
+                                }
+                        ],
+                        "original_statement": "The term 'Cynic' originated from the Ancient Greek word 'kynikos', which means 'dog-like', possibly referring to the shamelessness with which Cynics challenged conventional values."
+                },
+                "core_concept": {
+                        "en": "A seeker of truth amidst a sea of pretension.",
+                        "ja": "虚飾の海の中で真実を求める者"
+                },
+                "thinking_layer": "犬儒学派は、社会の偽善を鋭く指摘した古代ギリシャの哲学者たちであり、彼らの姿勢は犬のように見る人によっては無遠慮で粗野と思われたかもしれない。彼らにとって、幸福とは外部の物質的な富や地位から得られるものではなく、自己に忠実であることと誠実さからくる内面的な満足であった。彼らは権力や名声の追求を拒否し、自然と調和した簡潔な生活を理想とした。それは、現代においてもなお、他者との比較に躍起になる私たちへの鋭い教訓である。私たちは多くの場面で他者の評価を気にし、その中で自分自身を見失ってしまうことがあるが、犬儒学者たちの生き方は何ものにも囚われない自由な精神の象徴と言えるかもしれない。彼らの目から見れば、感情の忠実な表現こそが真実であり、その無遠慮さが真実の探求の力であった。真実とは、内に潜む勇気と誠実さを表すことに他ならない。哲学の奥深い問いに対する答えは人間としての在り方にあり、そこに犬儒学派の真髄が秘められているのだ。",
+                "synonyms": [
+                        "skeptic",
+                        "doubter"
+                ],
+                "antonyms": [
+                        "believer",
+                        "optimist"
+                ],
+                "aftertaste": "A mind unafraid to bark at the irony of the world often finds its truest peace.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "kynikos",
+                                        "meaning": "dog-like"
+                                }
+                        ],
+                        "points": [
+                                "犬儒学派の語源はギリシャ語の「犬のような」という意味を持ち、彼らの批判的な姿勢がその表現と結びついたことを表している。"
+                        ]
+                },
+                "source": "The American Heritage Dictionary of the English Language",
+                "date": "2026-03-01",
+                "era": "Ancient Greek"
+        },
+        {
+                "id": "elegant",
+                "word": "Elegant",
+                "part_of_speech": "adjective",
+                "meaning": "優雅な、上品な",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "eleg-",
+                                        "type": "root",
+                                        "meaning": "選ぶ",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "-ant",
+                                        "type": "suffix",
+                                        "meaning": "性質を持つ",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'elegant' originates from the Latin 'elegans', from 'eligere' meaning to select."
+                },
+                "core_concept": {
+                        "en": "The graceful selection of beauty.",
+                        "ja": "美しさを選び取る優雅さ"
+                },
+                "thinking_layer": "「エレガント」という言葉は、形の上では単なる美的概念に過ぎないかもしれませんが、その根底には深い哲学的な意義が潜んでいます。人生の諸相において、何を選び、何に価値を見出すのかという選択の美学が、エレガントさを作り上げるのです。その選び取る行為そのものが、内なる調和を目指す人間の美的本能の表れであり、ただ美しい外見を超えた知性の輝きとなるのです。エレガントであることは、必ずしも物質的な華やかさや贅沢を意味するのではなく、静かでありながら深淵な精神の反映に他なりません。これは、極めてシンプルでいて同時に奥深い生命の真理、すなわち本質を見極める眼力と、その上で選び取る優雅さを感じ取る力を象徴しています。このように、エレガントという概念の中には、節度ある均整、精巧なディテール、そして精神の洗練といった要素が見事に交錯し、私たちに豊かな人生の一面を示しているのです。",
+                "synonyms": [
+                        "Graceful",
+                        "Refined"
+                ],
+                "antonyms": [
+                        "Clumsy",
+                        "Inelegant"
+                ],
+                "aftertaste": "Elegance is the silent poetry of life.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "eleg-",
+                                        "meaning": "to select or choose with care"
+                                }
+                        ],
+                        "points": [
+                                "エレガンスの語源は古代ラテン語の選択を意味する単語に由来し、単なる外見の問題ではないことを示しています。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "16th Century"
+        },
+        {
+                "id": "apron",
+                "word": "Apron",
+                "part_of_speech": "noun",
+                "meaning": "体や衣服を保護するために着ける衣類",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "a-",
+                                        "type": "prefix",
+                                        "meaning": "接続",
+                                        "lang": "Middle English"
+                                },
+                                {
+                                        "text": "napron",
+                                        "type": "root",
+                                        "meaning": "小さな布",
+                                        "lang": "Middle English"
+                                }
+                        ],
+                        "original_statement": "The word 'apron' originated from Middle English 'napron', which was reanalyzed due to the way it was preceded by the article 'a' (a napron -> an apron)."
+                },
+                "core_concept": {
+                        "en": "A shield of grace that melds utility with the simplicity of fabric.",
+                        "ja": "布の単純性と実用性を兼ね備えた優雅な盾"
+                },
+                "thinking_layer": "エプロンという言葉の奥深い意義を考えると、それは単なる布地の切れ端ではなく、人類の想像力と日常の調和を象徴しています。中世の時代から今日まで、家事や仕事の重要性を尊重する実用的な象徴として存在してきました。エプロンは我々の生活に頑丈かつ柔軟なスクリーンを提供し、身体と衣服を保護するだけでなく、我々の時間と労働をも保護するのです。たとえその起源が誤認識から生まれたとしても、人々の記憶の中でこの言葉が持つ意味は、温かさや護りという感覚を育んでいます。エプロンの紐を結ぶ手は、かつての家庭の暖かい記憶を呼び起こし、未来における無限の可能性をも抱きしめます。日常の簡素な行為が、世界をつなぎ、謙虚さと尊厳をもたらすのです。エプロンという言葉には、人類の創造性と勤勉さ、そして人と人との結びつきを深めるための大切な哲学が内包されています。",
+                "synonyms": [
+                        "Smock",
+                        "Pinafore"
+                ],
+                "antonyms": [
+                        "None"
+                ],
+                "aftertaste": "Aprons whisper the art of the mundane made sacred.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "napron",
+                                        "meaning": "small cloth"
+                                }
+                        ],
+                        "points": [
+                                "中世英語における記事誤認識による語の変化から、現代の家庭用語への変遷"
+                        ]
+                },
+                "source": "The Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "14th Century"
         }
 ];
