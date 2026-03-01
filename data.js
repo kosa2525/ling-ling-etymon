@@ -41951,5 +41951,276 @@ const WORDS = [
                 "source": "Oxford English Dictionary",
                 "date": "2026-03-01",
                 "era": "15th Century, Latin origin"
+        },
+        {
+                "id": "comprehend",
+                "word": "Comprehend",
+                "part_of_speech": "verb",
+                "meaning": "理解する",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "com-",
+                                        "type": "prefix",
+                                        "meaning": "一緒に",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "prehendere",
+                                        "type": "root",
+                                        "meaning": "捕まえる",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "Derived from Latin 'comprehendere', meaning 'to grasp together, seize'."
+                },
+                "core_concept": {
+                        "en": "To seize the essence of knowledge with the mind, knitting together fragments of perception.",
+                        "ja": "知識の本質を心でとらえ、認識の断片を編むこと。"
+                },
+                "thinking_layer": "「理解」とは、人間の精神が世界と交わるプロセスであり、見えざるものを形づくる行為です。自然のすべての部分をつなぎ合わせ、時間を超えた知識の糸で構築された壮大なタペストリーを織りなすこと。理解の深さにおいて、我々は想像以上の真実を明らかにし、目に見えないものを見ることができるようになる。これは単なる情報の取得を超え、共感や知的共栄の場を築く行為としてのアートであり、存在の根底に交わる哲学的探求でもあります。その複雑さは微小な部分に宿り、無限の可能性を秘めた宇宙を紡ぎ出すのです。理解することによって、記憶と未来の狭間に、私たちの意識は自在に広がり、無限に続く新たなビジョンを紡ぎ出すことができる。この過程を通して、人は真に他者と思いやりを分かち合えるのです。理解は、個人の思考の広がりを超え、他との調和を築く知的な舞台の創造です。",
+                "synonyms": [
+                        "Understand",
+                        "Grasp"
+                ],
+                "antonyms": [
+                        "Misunderstand",
+                        "Ignore"
+                ],
+                "aftertaste": "To comprehend is to weave together the threads of understanding into a tapestry of enlightenment.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "prehendere",
+                                        "meaning": "to seize, to grasp"
+                                },
+                                {
+                                        "term": "com-",
+                                        "meaning": "together"
+                                }
+                        ],
+                        "points": [
+                                "ラテン語の「prehendere」は、何かをしっかりと掴むという意味であり、「com-」と結びつくことで、全体としての理解を具現化します。これらの語源は、知識を統合し、調和的に把握する人間の認知のプロセスを示唆します。"
+                        ]
+                },
+                "source": "Etymonline",
+                "date": "2026-03-01",
+                "era": "Late Middle English (14th Century)"
+        },
+        {
+                "id": "contrast",
+                "word": "Contrast",
+                "part_of_speech": "noun/verb",
+                "meaning": "対照、対比",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "contra-",
+                                        "type": "prefix",
+                                        "meaning": "逆の、反対の",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "stare",
+                                        "type": "root",
+                                        "meaning": "立つ",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'contrast' originates from the Latin 'contrastare', meaning 'to stand against'."
+                },
+                "core_concept": {
+                        "en": "The dance of oppositions illuminating essence.",
+                        "ja": "反対の舞が本質を照らし出す"
+                },
+                "thinking_layer": "対比とは、互いに異なるものが出会い、そこに新たな意味を見出す芸術である。それは時に、輝かしい光と静寂の影とが織り交ぜられるような美を生み出す。二つの異なる要素が出会うとき、それらは相互にその本質を浮き彫りにする力を持っている。対比は、単なる違いを示すにとどまらず、その中に潜む調和をも探求する旅路を示す。白と黒、光と影、高と低、これらは対照のもとで互いに生きる意義を見出している。それはまた、異なる立場や意見を通じた理解の深化を促す哲学的な探求でもある。対比を通じて、私たちは単純さの中に潜む深み、そして複雑さの中に潜在する単純さを知ることができる。この経験を通じて、生命と世界の多層的な広がりを眺める時、対比はただの違いではなく、存在の美しさを探求するための窓となる。対比の中で生じる感情の振幅は、感受性を豊かにし、そして新たな視点を心にもたらす。対比とは、そのような深遠な学びを提供する光の反射でもあるのだ。",
+                "synonyms": [
+                        "Comparison",
+                        "Juxtaposition"
+                ],
+                "antonyms": [
+                        "Similarity",
+                        "Uniformity"
+                ],
+                "aftertaste": "Contrast sharpens the boundaries of reality and dreams.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "contrastare",
+                                        "meaning": "to stand against"
+                                }
+                        ],
+                        "points": [
+                                "対比の語源は、物事の相違が新たな知識をもたらすという概念にまで遡ることができる。この語はラテン語の 'con-'（共に）と '-trastare'（立つ）から成り立ち、あらゆる創造的過程における二項対立を示す。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "16th Century"
+        },
+        {
+                "id": "consequent",
+                "word": "Consequent",
+                "part_of_speech": "adjective",
+                "meaning": "結果として生じた、対応する",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "con-",
+                                        "type": "prefix",
+                                        "meaning": "共に、完全に",
+                                        "lang": "ラテン語"
+                                },
+                                {
+                                        "text": "sequi",
+                                        "type": "root",
+                                        "meaning": "従う、続く",
+                                        "lang": "ラテン語"
+                                },
+                                {
+                                        "text": "-ent",
+                                        "type": "suffix",
+                                        "meaning": "形容詞化",
+                                        "lang": "ラテン語"
+                                }
+                        ],
+                        "original_statement": "The word 'consequent' comes from the Latin 'consequens', meaning 'following closely', derived from 'con-' (together) and 'sequi' (to follow)."
+                },
+                "core_concept": {
+                        "en": "A serene flow of inevitability.",
+                        "ja": "必然性の静かな流れ"
+                },
+                "thinking_layer": "『結果』なるものは、時間という不可視の川の中で形成され、漂流する存在です。ありとあらゆる行動や出来事が波紋となり、連鎖反応として次々と新たな「次」を生み出していくのです。このプロセスにおいて、人々はしばしば目的に向かって旅をし、目の前の局面を過去の行動の積み重ねとして捉えます。連続する現在の流れの中、私たちは「結果」に対して反応し、その一部となります。各々の瞬間は過去と未来を結びつける一節として意識され、その場限りの意味を持っています。哲学的に見ると、「結果」とは宿命的でありながらも、自由意志と調和を図る舞台である。この奇妙な矛盾が、生命の絶え間ないダンスを創造し続けるのです。宇宙の壮大なリズムの中で、個々の出来事はシンフォニーの一部として共鳴し、そこに意図や無意識な流れが込められています。「結果」そのものには独特の美しさと辛辣さがあり、時に歓喜をもたらすかと思えば、時に苦痛を伴うものであり、私たちを人間足らしめる深い洞察の源であるのです。",
+                "synonyms": [
+                        "Resulting",
+                        "Following"
+                ],
+                "antonyms": [
+                        "Precedent",
+                        "Antecedent"
+                ],
+                "aftertaste": "In the rhythm of causality, we are both architects and witnesses.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "sequi",
+                                        "meaning": "to follow"
+                                }
+                        ],
+                        "points": [
+                                "「consequent」は、根源的にはラテン語の「consequens」に由来し、一種の緩やかな必然性を強く示しています。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "15th Century"
+        },
+        {
+                "id": "impression",
+                "word": "Impression",
+                "part_of_speech": "noun",
+                "meaning": "感銘、印象",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "im-",
+                                        "type": "prefix",
+                                        "meaning": "内側へ",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "press",
+                                        "type": "root",
+                                        "meaning": "押す",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "-ion",
+                                        "type": "suffix",
+                                        "meaning": "状態や行動",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "Derived from Latin 'impressio(n-)', from 'im-' meaning 'into' and 'pressio' meaning 'pressing'."
+                },
+                "core_concept": {
+                        "en": "The tender mark left by the world upon one's soul.",
+                        "ja": "世界が心に残す優しい跡"
+                },
+                "thinking_layer": "印象というものは、心の深部にそっと染み込む、美しくかつ一時的な痕跡である。それは、初めて出会う光景や音に触れた瞬間の、心のフィルターを通して展開される一種のメロディーだ。人生という流れる時間の中で、これらの瞬間は静かに心に内在化し、個の存在を形作る。それがどんなに短くても深い感銘を与え、心の奥に永久に記憶されることがある。哲学的に考えると、印象とは物理的世界と精神の交差点における一瞬の実体であり、それぞれの個人に独自の真実をもたらす。それはまるで、心が宇宙を映し出す鏡となり、自らの存在を感じさせる瞬間である。さらに、それは単なる観察ではなく、感受性と創造性の融合により、新たな意味をもたらす試みでもある。印象は、時間と共に変わるが、その本質は変わらない。鋳型として心に形を残し、我々の行動や思想に影響を及ぼす、永遠の導き手となるのである。",
+                "synonyms": [
+                        "perception",
+                        "notion"
+                ],
+                "antonyms": [
+                        "disregard",
+                        "neglect"
+                ],
+                "aftertaste": "Impressions are the delicate echoes of life's first whispers.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "press",
+                                        "meaning": "to push, apply force"
+                                }
+                        ],
+                        "points": [
+                                "ラテン語の 'impressio' から派生し、これには「押し込む」という強い動作と、心に残る繊細な感性の両方が含まれている。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Late Middle English, 14th Century"
+        },
+        {
+                "id": "audience",
+                "word": "Audience",
+                "part_of_speech": "noun",
+                "meaning": "観衆、聴衆、または聞く行為",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "audīre",
+                                        "type": "root",
+                                        "meaning": "聞く",
+                                        "lang": "ラテン語"
+                                }
+                        ],
+                        "original_statement": "The word 'audience' originates from the Latin 'audientia', meaning 'the act of hearing', which evolved during the 14th century into Middle English via Old French influence."
+                },
+                "core_concept": {
+                        "en": "A gathering of listeners, an orchestra of ears awaiting to be touched by sound.",
+                        "ja": "音に触れることを待ち望む耳のオーケストラとしての聴衆"
+                },
+                "thinking_layer": "「観衆」という言葉は、単なる群衆に過ぎないが、その中には個々の意識と感覚が無数に存在し、共鳴と共感が生じる場である。ひとつの音、ひとつの言葉が響くとき、それはただ単なる聴覚的な刺激を超えて、心の深層に触れ、共にあるという新たな意識を喚起する。この共鳴の場において、人々は互いの存在を認識し、個の境界を超えたつながりを感じる。音という一過性の現象は、瞬時にして過ぎ去るが、その響きは聴く者の心に残る。それは、時を越えて続く共通の体験を構築し、観衆の中での無言の対話を生む。よって「観衆」とは、ただ場に集う一体ではなく、その瞬間の音により創造される、心の共鳴体験のものでもある。そこに集いし者たちは、肩を並べて見守るばかりか、音により繋がり合うことで、新たな絆を築いてゆくのである。",
+                "synonyms": [
+                        "spectators",
+                        "listeners",
+                        "viewers"
+                ],
+                "antonyms": [
+                        "performers",
+                        "speakers"
+                ],
+                "aftertaste": "An audience is the canvas for the art of sound.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "audīre",
+                                        "meaning": "to hear"
+                                }
+                        ],
+                        "points": [
+                                "ラテン語の「audīre」は聴覚を通じた深い理解を意味し、中世を通じて聴衆の役割が形成されていった。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "14th Century"
         }
 ];
