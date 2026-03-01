@@ -1027,6 +1027,7 @@ async function renderWordNetwork(mode = 'global') {
             <div style="display:flex; justify-content:center; gap:1rem; padding-top:1.5rem; position: relative; z-index: 20;">
                 <button id="net-global" class="chip ${mode === 'global' ? 'followed' : ''}">Global Universe</button>
                 <button id="net-personal" class="chip ${mode === 'personal' ? 'followed' : ''}">My Mind Garden</button>
+                <button id="net-reload" class="chip" style="border-color: var(--color-accent); color: var(--color-accent); flex-shrink: 0;"><span style="font-size:1.1rem; vertical-align:middle; margin-right:4px;">↻</span> Regenerate</button>
             </div>
             <div id="network-graph" style="height:calc(100% - 60px); width:100%; display:flex; align-items:center; justify-content:center;">
                 <div class="loading-indicator">
@@ -1046,8 +1047,10 @@ async function renderWordNetwork(mode = 'global') {
 
     document.getElementById('net-global').onclick = () => renderWordNetwork('global');
     document.getElementById('net-personal').onclick = () => renderWordNetwork('personal');
+    document.getElementById('net-reload').onclick = () => renderWordNetwork(mode);
 
-    const data = await apiGet(`/api/word-network?mode=${mode}&username=${State.currentUser || ''}&ids=${ids}`);
+    // キャッシュを回避するためにランダムなパラメータ(t)を付与することで、常に新しいランダムの500単語を取得
+    const data = await apiGet(`/api/word-network?mode=${mode}&username=${State.currentUser || ''}&ids=${ids}&t=${Date.now()}`);
     const container = document.getElementById('network-graph');
     const nodes = new vis.DataSet(data.nodes.map(n => ({
         ...n,

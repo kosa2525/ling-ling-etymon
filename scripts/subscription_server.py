@@ -873,8 +873,10 @@ def get_word_network():
             saved_ids = request.args.get('ids', '').split(',')
             words = [w for w in all_words if w['id'] in saved_ids]
         else:
-            # パフォーマンスのため最新を優先（制限を緩和）
-            words = all_words[-1000:]
+            if len(all_words) > 500:
+                words = random.sample(all_words, 500)
+            else:
+                words = all_words
         
         # 語根(root)や接頭辞(prefix)ごとに単語をグループ化
         root_map = {}
