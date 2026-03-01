@@ -42363,5 +42363,321 @@ const WORDS = [
                 "source": "The Oxford English Dictionary",
                 "date": "2026-03-01",
                 "era": "14th Century"
+        },
+        {
+                "id": "convene",
+                "word": "Convene",
+                "part_of_speech": "verb",
+                "meaning": "集まる、招集する",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "com-",
+                                        "type": "prefix",
+                                        "meaning": "共に",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "venire",
+                                        "type": "root",
+                                        "meaning": "来る",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'convene' is derived from Latin 'convenire', meaning 'to come together'."
+                },
+                "core_concept": {
+                        "en": "The elegant gathering of minds and souls in unity.",
+                        "ja": "心と魂が一つに集う優雅な結集"
+                },
+                "thinking_layer": "言葉『集会』の背後には、時間と空間の隔たりを超えて、人々が共に集い、新たな理解とつながりを築くという深遠な意義が隠されている。古き時代より、人々は集い、語らい、共に未来を描いてきた。それは単なる物理的な集合ではなく、心と心の響き合いであり、相互に影響し合うプロセスでもある。『集会』を通じて個々のアイデアが融合し、新たなビジョンが生まれる。それは宇宙の法則にも似た、一見断片的に見える存在が一意に連携し調和を構築する奇跡的な行為である。人間は『集会』を通じて、未知なるものを手探りし、かつて感じたことのない感情を共有し、無限に広がる可能性を感じる。『集会』は、孤立した個が集合し一つの意識を共有する瞬間であり、それはまた、人類の知恵と思慮の結晶として永遠に輝くものである。",
+                "synonyms": [
+                        "assemble",
+                        "gather"
+                ],
+                "antonyms": [
+                        "disperse",
+                        "scatter"
+                ],
+                "aftertaste": "Convene is the silent melody that harmonizes diverse voices.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "venire",
+                                        "meaning": "to come"
+                                }
+                        ],
+                        "points": [
+                                "『集会』は普遍的な概念であり、古代より人間の社会に根付いていた。ラテン語の起源から、社会的結束の重要性を示している。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "14th Century"
+        },
+        {
+                "id": "engage",
+                "word": "Engage",
+                "part_of_speech": "verb",
+                "meaning": "従事する、巻き込む",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "en-",
+                                        "type": "prefix",
+                                        "meaning": "中に",
+                                        "lang": "古フランス語"
+                                },
+                                {
+                                        "text": "gage",
+                                        "type": "root",
+                                        "meaning": "約束または担保",
+                                        "lang": "古フランス語"
+                                }
+                        ],
+                        "original_statement": "From Old French 'engagier', meaning to pledge or pawn, dating back to the Late Middle Ages."
+                },
+                "core_concept": {
+                        "en": "The poetic essence of binding oneself to action or involvement.",
+                        "ja": "行動や関与に自らを結びつける詩的な本質"
+                },
+                "thinking_layer": "「従事する」とは、単なる行動の選択以上のものである。それは、精神の深奥からの呼び声に応えることであり、自己を他者や事象に結びつける魂の契りである。人間存在の意味を探し求める旅の中で、我々は様々な形で他者と結びつく。人は時に、計算高い思考を超えて、心の中に静かに広がる波紋に従う。従事とは、人生における舞台へ進み出で、心と心を結びつける行為であり、未来への約束を体現するものである。これは他者への信頼と、自己への信念を糧にして育まれる。未知の領域へと足を踏み出し、結びつきが新たな希望を生み出し、世界に新たな意味を付与する過程の中で、人間はより深い理解と共感を得るのである。",
+                "synonyms": [
+                        "involve",
+                        "commit"
+                ],
+                "antonyms": [
+                        "disengage",
+                        "detach"
+                ],
+                "aftertaste": "To engage is to entwine one's essence with the vibrant tapestry of existence.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "en-",
+                                        "meaning": "to cause to be in"
+                                },
+                                {
+                                        "term": "gage",
+                                        "meaning": "pledge or guarantee"
+                                }
+                        ],
+                        "points": [
+                                "語源的には、物質的な担保から精神的な約束まで、幅広い意味を持つ単語であることがわかる。従事するという行為は、しばしば自己の一部を他者に提供する行為とも見られるが、その根底には自己の存在意義や価値を再確認する過程に他ならない。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "14th Century"
+        },
+        {
+                "id": "confirm",
+                "word": "Confirm",
+                "part_of_speech": "verb",
+                "meaning": "確認する、確証を与える",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "con-",
+                                        "type": "prefix",
+                                        "meaning": "共に",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "firmare",
+                                        "type": "root",
+                                        "meaning": "強固にする",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'confirm' comes from the Latin 'confirmare', composed of 'con-' meaning 'together' and 'firmare' meaning 'to make firm.' It evolved through Old French 'confirmer'."
+                },
+                "core_concept": {
+                        "en": "To render certainty and strength to one's belief.",
+                        "ja": "信念に確実さと強さを与えること"
+                },
+                "thinking_layer": "『確認』という行為は、単に事実や意図を確証するだけではない。この行為は信頼の橋を架け、人生の中で不確実性からの解放を象徴する一瞬の光である。何かを確認すること、つまり定めることは、目に見えない空間に形を与え、この地の距離を縮めることである。その行為はまた、未来に向けての一歩を確実にすることであり、過去の不安を慰める力を持つ。確認とは、信頼と確信のダンスであり、心の奥底に眠る不安を愛と意志の力で静める儀式である。この行為をもって人はしばしば過去から未来への架け橋を築き、希望の灯火を灯す。確認とは形を超えた響きであり、個々の心の琴線に響く共鳴の音楽である。それは、この広大な空間において、存在の本質を見つけ出す探求の旅でもある。世界が不可視の潮流により動いている中で、確認の行為は一瞬の安寧をもたらし、心の安定を誘うものなのだ。",
+                "synonyms": [
+                        "Verify",
+                        "Validate"
+                ],
+                "antonyms": [
+                        "Reject",
+                        "Refute"
+                ],
+                "aftertaste": "To confirm is to anchor the fleeting truth in the solid ground of certainty.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "firmare",
+                                        "meaning": "to strengthen"
+                                }
+                        ],
+                        "points": [
+                                "『confirm』は、『con-（共に）』と『firmare（強固にする）』から成り立っており、この組み合わせが確認行為の信頼性を強調する。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Latin Origin, Late Middle Ages"
+        },
+        {
+                "id": "detain",
+                "word": "Detain",
+                "part_of_speech": "verb",
+                "meaning": "人を拘束または留置すること",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "de-",
+                                        "type": "prefix",
+                                        "meaning": "離れる",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "tenere",
+                                        "type": "root",
+                                        "meaning": "保つ",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "From Latin 'detinere', meaning to hold down or keep back."
+                },
+                "core_concept": {
+                        "en": "A silent, unyielding pause in the tapestry of time.",
+                        "ja": "時の織物における静かで不屈の中断。"
+                },
+                "thinking_layer": "『拘束』とは、時間の流れの中に刺さる鋭い刃である。人生とは自由と拘束が交差する舞台であり、その狭間で心は自己を見失うか、また新たに見出す。人が拘束されるとき、その存在は時間と空間に縛られ、流れるはずの未来が一時的に凍結する。自由を奪われた瞬間、意識は内向し、自らの価値や思考を深く掘り下げる契機となる。拘束は束縛でありながらも、解き放たれた自由の前奏として機能する。拘束とは、存在の価値を問い、究極的には今という時の尊さを悟る機会なのだ。このような哲学的思索が、人が『拘束』の真の意味を探る道を示す。果てしなく流れる時の中で、拘束は瞬間を刻み、その時のみ可能な内省の旅へ誘う、重要な自己変容の機会である。",
+                "synonyms": [
+                        "Confine",
+                        "Imprison"
+                ],
+                "antonyms": [
+                        "Release",
+                        "Free"
+                ],
+                "aftertaste": "To detain is to inscribe silence on the parchment of time.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "tenere",
+                                        "meaning": "to hold"
+                                }
+                        ],
+                        "points": [
+                                "『拘束』は『保つ』というラテン語の根から派生し、離れて保ち続けるという概念を孕んでいる。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "14th Century"
+        },
+        {
+                "id": "contentment",
+                "word": "Contentment",
+                "part_of_speech": "noun",
+                "meaning": "満足や幸福の感覚",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "content-",
+                                        "type": "root",
+                                        "meaning": "満足",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "-ment",
+                                        "type": "suffix",
+                                        "meaning": "状態を表す",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'contentment' comes from Middle English, via Old French, stemming from the Latin 'contentus', meaning 'satisfied', and '-mentum', denoting a resulting state."
+                },
+                "core_concept": {
+                        "en": "A serene acceptance and fulfillment within oneself.",
+                        "ja": "心の奥底に宿る静かな満足と充実感"
+                },
+                "thinking_layer": "『満足』という言葉は、物質的な充足を意味することが多いが、その深層には精神の豊かさと静寂が潜んでいる。満足とは、外部の状況や条件による一時的な感覚ではなく、内面的な調和と悦びから生まれる永続的な状態である。過去や未来ではなく、今この瞬間の中に、自分の存在が完全であると認識することによって得られる心の状態といえよう。心がその日の終わりに向かって穏やかに閉じていくとき、そこには一瞬の静寂が訪れ、満足感が広がる。幸福というのは、必ずしも何かを得ることではなく、むしろ何かを手放すことで得られるものかもしれない。その本質を悟ることは、人生の中で最も深い智慧の一つである。",
+                "synonyms": [
+                        "Satisfaction",
+                        "Fulfillment"
+                ],
+                "antonyms": [
+                        "Discontent",
+                        "Dissatisfaction"
+                ],
+                "aftertaste": "Contentment is the gentle art of embracing the moment.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "content",
+                                        "meaning": "satisfied"
+                                }
+                        ],
+                        "points": [
+                                "「contentment」は、18世紀にその形で一般的に使われるようになったが、遡ればラテン語まで起源を持つ概念である。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "14th Century"
+        },
+        {
+                "id": "tension",
+                "word": "Tension",
+                "part_of_speech": "noun",
+                "meaning": "物体や心の引き伸ばされた状態や緊張",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "tent-",
+                                        "type": "root",
+                                        "meaning": "伸ばす",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "-ion",
+                                        "type": "suffix",
+                                        "meaning": "名詞化",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'tension' originates from the Latin 'tensio', deriving from the verb 'tendere', meaning 'to stretch'."
+                },
+                "core_concept": {
+                        "en": "The silent pull between creation and collapse.",
+                        "ja": "創造と崩壊の間の静かな引力"
+                },
+                "thinking_layer": "緊張という言葉は、物質的な引力や心の静かな緊張を同時に表しています。私たちが日常で感じる緊張は、その多くが目に見えない形で存在しており、繊細なバランスを保ちながら時には混沌を迎えます。深い思索の中で、人間の存在そのものが常に何かに引き伸ばされる状態であることに気付きます。それは成長への原動力であり、同時に意識の裂け目を生む源でもあります。緊張が存在しない世界を想像してみてください。それは何も生まれない、時間が止まったかのような静止した世界です。しかし、この緊張があるがゆえに、われわれは変化し、学び、進化するのです。悲しみと喜び、不安と安心。それらは緊張の異なる様相にすぎません。本質的には、緊張がわれわれの心を深く彫刻し、新たな意識の礎と成り得るのです。見えない力が形作るこの世界で、緊張は存在の詩的な側面を探求するための重要な手がかりを提供します。",
+                "synonyms": [
+                        "strain",
+                        "stress"
+                ],
+                "antonyms": [
+                        "ease",
+                        "relaxation"
+                ],
+                "aftertaste": "In tension, the universe breathes and grows.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "tendere",
+                                        "meaning": "to stretch"
+                                }
+                        ],
+                        "points": [
+                                "「tend-」は、ラテン語の「tendere」に由来し、「張る」や「伸ばす」という意味を持ちます。緊張は、この語源からもわかるように、何かが引っ張られる状態を指します。"
+                        ]
+                },
+                "source": "Oxford English Dictionary, Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "15th Century, Latin origin"
         }
 ];
