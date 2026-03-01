@@ -176,8 +176,8 @@ async function renderToday() {
     // Flourishカウント取得
     apiGet(`/api/flourish-count?target_type=word&target_id=${word.id}&username=${State.currentUser || ''}`)
         .then(fc => {
-            const cnt = document.getElementById(`fl-cnt-${word.id}`);
-            const btn = document.getElementById(`fl-btn-${word.id}`);
+            const cnt = document.getElementById(`fl-cnt-word-${word.id}`);
+            const btn = document.getElementById(`fl-btn-word-${word.id}`);
             if (cnt) cnt.textContent = fc.count;
             if (btn && fc.flourished) {
                 btn.style.borderColor = 'var(--color-premium)';

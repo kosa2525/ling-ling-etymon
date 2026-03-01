@@ -246,7 +246,6 @@ def toggle_flourish():
                         f'{username} があなたの投稿を繁栄させました ✦',
                         ''
                     )
-
             # カウントを返す
             cur.execute(
                 f"SELECT COUNT(*) FROM flourishes WHERE target_type={p} AND target_id={p}",
@@ -254,6 +253,7 @@ def toggle_flourish():
             )
             count = cur.fetchone()[0]
 
+        print(f"Flourish toggled: {target_type}/{target_id} by {username} -> {action} (total: {count})")
         return jsonify(status='success', action=action, count=count)
     except Exception as e:
         print(f"Flourish error: {e}")
