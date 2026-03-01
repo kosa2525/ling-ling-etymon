@@ -28596,5 +28596,51 @@ const WORDS = [
                 "source": "Oxford English Dictionary",
                 "date": "2026-03-01",
                 "era": "Old English, Proto-Germanic"
+        },
+        {
+                "id": "tantalize",
+                "word": "Tantalize",
+                "part_of_speech": "verb",
+                "meaning": "興味や欲望を引き起こすが、決して満足させない",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "Tantalus-",
+                                        "type": "root",
+                                        "meaning": "タントロス",
+                                        "lang": "Greek"
+                                }
+                        ],
+                        "original_statement": "The word 'Tantalize' originates from the Greek mythological figure Tantalus, who was punished in the afterlife by being kept in a state of perpetual hunger and thirst, always out of reach of food and water."
+                },
+                "core_concept": {
+                        "en": "Endless yearning, forever beyond grasp.",
+                        "ja": "手の届かない渇望の連続"
+                },
+                "thinking_layer": "生きるということは、常に欲望と不満の世界で揺れ動く存在です。タントルという名の人物が、果てることのない苦しみと欲望の象徴になることは偶然ではありません。我々の人生もまた、しばしば満たされることのない渇望に満ちています。この地上で手を伸ばしても決して掴むことのできない果実、飲み干せない水、それらの存在を確認するたびに、我々は欲望と希みの本質についてもう一度考えさせられるのです。そしてその渇望そのものが、我々自身を定義づける存在の根底にあることに気付きます。時間が流れる限り人は未来に何かを求め続け、現在を享受しきれない。その宿命的なジレンマこそが人間という存在の特質なのかもしれません。心は常に何かに触れたい、満たされたいと叫び続けますが、恐らくそれそのものが我々の運命、絶え間ない進化への駆動力でもあります。",
+                "synonyms": [
+                        "Tease",
+                        "Entice"
+                ],
+                "antonyms": [
+                        "Satisfy",
+                        "Fulfill"
+                ],
+                "aftertaste": "Desire dances just beyond reach, a perpetual chase.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "Tantalus",
+                                        "meaning": "Mythological figure subjected to eternal punishment"
+                                }
+                        ],
+                        "points": [
+                                "欲望の対象を手に入れられない状態に陥ることは、古代ギリシャにおいて象徴的でした。タントロスは、常に欲するものが届かぬ場所にあるという罰を科せられました。これはある種の精神的な悩みや、満足感の不可能性を通じて、哲学的な論議を生む元ともなっています。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Ancient Greek"
         }
 ];
