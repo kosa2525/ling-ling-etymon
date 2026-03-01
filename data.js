@@ -33920,5 +33920,494 @@ const WORDS = [
                 "source": "Online Etymology Dictionary, Latin Dictionary by Lewis & Short",
                 "date": "2026-03-01",
                 "era": "Late Middle English, 14th Century"
+        },
+        {
+                "id": "transfer",
+                "word": "Transfer",
+                "part_of_speech": "verb/noun",
+                "meaning": "移動させる、または移動する行為",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "trans-",
+                                        "type": "prefix",
+                                        "meaning": "超えて",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "ferre",
+                                        "type": "root",
+                                        "meaning": "運ぶ",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'transfer' comes from the Latin 'trans-' meaning 'across' and 'ferre' meaning 'to carry'."
+                },
+                "core_concept": {
+                        "en": "The poetic movement of essence from one state to another.",
+                        "ja": "意識や実体が別の状態へと移行する詩的な動き"
+                },
+                "thinking_layer": "『転送』とは、単なる物理的な移動を超えた概念である。物から物へ、人から人へ、状態から状態へと移る行為は、常に一つの物語が隠されている。その物語は、無形の垣根を越えることによって、私たちの心に新たな世界を開かせる。転送は、過去から未来へ、思考から行動へ、知識から智慧への架け橋でもある。存在というものが、如何にして連続しているのか、または断絶しているのかを内省する機会を与えてくれるのだ。このようにして、『転送』という行為は、ただの物の受け渡しではなく、内面的な場所の変移をも意味する。それは、新しい自分との出会いを予感させ、未知なる旅路への扉をひらく鍵なのだ。人生が一つの旅路であるならば、『転送』はその旅路の中でかけがえのない瞬間を編み込む行為と言えるだろう。",
+                "synonyms": [
+                        "移動",
+                        "送信"
+                ],
+                "antonyms": [
+                        "停留",
+                        "保留"
+                ],
+                "aftertaste": "Transfer is the bridge between yesterday's dreams and tomorrow's realities.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "trans",
+                                        "meaning": "across, beyond"
+                                },
+                                {
+                                        "term": "ferre",
+                                        "meaning": "to bear, to carry"
+                                }
+                        ],
+                        "points": [
+                                "ラテン語の 'trans-' は、何かを超えてという意味を持ち、境界を越えることを示す。",
+                                "ラテン語の 'ferre' は、物事を運ぶという物理的行為を意味する。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "Late Latin, 14th Century"
+        },
+        {
+                "id": "conform",
+                "word": "Conform",
+                "part_of_speech": "verb",
+                "meaning": "従う、順応する",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "com-",
+                                        "type": "prefix",
+                                        "meaning": "共に",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "formare",
+                                        "type": "root",
+                                        "meaning": "形作る",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'conform' traces back to the Latin 'com-' meaning 'together' and 'formare' meaning 'to form'."
+                },
+                "core_concept": {
+                        "en": "To mold oneself into harmony with others.",
+                        "ja": "他者との調和の中で自らを形作ること。"
+                },
+                "thinking_layer": "人間は、多様性の海において存在の形を求め、他者と共鳴し合うことで自らを確立しようとする生き物である。『従う』という行為は、単に社会のルールに盲目的に従うことではなく、より深い自己表現と調和を模索するプロセスでもある。その過程において、個々は他者との共鳴を通して自己の輪郭を描き、同時に他者に形作られていく。深い静寂の中で、魂が他者の存在を感じ取り、無限の可能性に満ちた自らの形を探求する。言葉を超えたこのコミュニケーションの芸術は、いわば自己と他者、内と外の境界線を越えた魂のダンスである。このダンスは、時には自己を見失うような混沌を生むが、最終的には新たな自己の発見と真の自由への道を照らす。",
+                "synonyms": [
+                        "Adapt",
+                        "Comply"
+                ],
+                "antonyms": [
+                        "Rebel",
+                        "Diverge"
+                ],
+                "aftertaste": "Conformity dances on the boundary between individuality and unity.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "formare",
+                                        "meaning": "to shape"
+                                },
+                                {
+                                        "term": "com-",
+                                        "meaning": "together"
+                                }
+                        ],
+                        "points": [
+                                "『conform』は、個人の表現と集団の調和の間で揺れ動く意識的な選択を象徴しています。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Late Middle English"
+        },
+        {
+                "id": "fumble",
+                "word": "Fumble",
+                "part_of_speech": "verb",
+                "meaning": "手探りする、しくじる",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "Middle English \"fumblen\"",
+                                        "type": "root",
+                                        "meaning": "手探りする",
+                                        "lang": "Middle English"
+                                },
+                                {
+                                        "text": "Old Norse \"fumla\"",
+                                        "type": "root",
+                                        "meaning": "不器用",
+                                        "lang": "Old Norse"
+                                }
+                        ],
+                        "original_statement": "The word 'fumble' dates back to Middle English 'fumblen' derived from Old Norse 'fumla', indicating clumsiness or handling laboriously."
+                },
+                "core_concept": {
+                        "en": "The delicate dance of uncertainty and mishandling in the space between intent and execution.",
+                        "ja": "意図と実行の間での不確実性と不器用さの微妙な舞踏。"
+                },
+                "thinking_layer": "時として、人は手探りの暗闇の中で、真実や愛といった何かを探し続ける。しかし、その歩みは必ずしも容易ではない。そしてまさに「ファンブル」する瞬間、軌道を外れ、言葉をつまずかせ、次なる瞬間へと宙吊りになる。アンバランスな行動は、人間の未熟さをも描き出す。失敗と成功、それは単なる光と影でありつつ、互いの間で揺れ動く一枚の紙でできたコインのようでもある。これが人の本質であり、失敗は避け難くも貴重な学びの場を提供する。他者や自分自身との出会いは、常に言語というハードウエアを伴い、その操作において「ファンブル」することもまた美しい栄光のひとつである。",
+                "synonyms": [
+                        "bumble",
+                        "stumble"
+                ],
+                "antonyms": [
+                        "succeed",
+                        "master"
+                ],
+                "aftertaste": "A clumsy dance towards wisdom.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "fumblen",
+                                        "meaning": "to handle clumsily"
+                                },
+                                {
+                                        "term": "fumla",
+                                        "meaning": "to fumble"
+                                }
+                        ],
+                        "points": [
+                                "「ファンブル」は、概念的には人間の根源的な行動、つまり試行錯誤と進化を象徴する。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "Middle English Era"
+        },
+        {
+                "id": "interrupt",
+                "word": "Interrupt",
+                "part_of_speech": "verb",
+                "meaning": "他の行動を中断すること。",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "inter-",
+                                        "type": "prefix",
+                                        "meaning": "間",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "rumpere",
+                                        "type": "root",
+                                        "meaning": "壊す、破る",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "From Latin 'interrumpere', meaning to break apart, originally combining 'inter-' (between) and 'rumpere' (to break)."
+                },
+                "core_concept": {
+                        "en": "A poetic pause in the symphony of existence, a sudden breach in the flow of time.",
+                        "ja": "存在の交響曲における詩的な休止、時の流れの突然の途切れ。"
+                },
+                "thinking_layer": "中断とは、時間と空間の連続性から切り離される瞬間であり、個の存在が他の流れに侵蝕されるプロセスの一部。これには、一旦停止し、再評価する機会がある。中断は魂に深い印象を与える。なぜなら、絶え間ない歩みの中で、それは意味の感覚を問い直す契機として現れるからだ。中断は、必然と偶然の境界に立ち、時には新しいアイデアが芽生える肥沃な土壌となる。その瞬間、我々は自己の境界を見つめ直し、それを越える勇気を試される。したがって、中断は単なる邪魔ではなく、新しい始まりを告げる鐘の音としての役割を果たすのである。",
+                "synonyms": [
+                        "disrupt",
+                        "halt"
+                ],
+                "antonyms": [
+                        "continue",
+                        "proceed"
+                ],
+                "aftertaste": "In the midst of chaos, interruption is the cradle of new beginnings.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "rumpere",
+                                        "meaning": "to break"
+                                }
+                        ],
+                        "points": [
+                                "中断という言葉は、ラテン語の「rumpere」（破る）に由来し、多くの言語に影響を与えた。時間の流れを中断する行為は、しばしば予期せぬ変革をもたらし、自己の再評価を促す役割を担う。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "Latin Origin"
+        },
+        {
+                "id": "fundamental",
+                "word": "Fundamental",
+                "part_of_speech": "adjective",
+                "meaning": "基礎的な、根本的な",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "fundament",
+                                        "type": "root",
+                                        "meaning": "基礎、土台",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "-al",
+                                        "type": "suffix",
+                                        "meaning": "〜のような",
+                                        "lang": "French"
+                                }
+                        ],
+                        "original_statement": "The word derives from the Latin 'fundamentum', meaning 'foundation', with the suffix '-al' forming an adjective in Middle French."
+                },
+                "core_concept": {
+                        "en": "The primal essence that underpins all structures.",
+                        "ja": "すべての構造を支える根源的なエッセンス"
+                },
+                "thinking_layer": "「根本」という言葉は、最も深い部分で何かを具現化し、それを支えるものを指します。それは、物事の始まりやその土台と見なされます。毎日の営みに埋もれがちなこの概念について考えると、無限に繰り返される日常の中で、私たちの行動や思考の背後にある「根本」がどうやって形作られていくのかを理解することになります。「根本」は物理的なものにとどまらず、概念的な領域にも及び、時間と空間を超えて変わらない真実を提供します。このように、「根本」という概念は、見ることも触れることもできないが、確実に存在しているという、知覚を超えた理解を促します。知性と感性の交差点で、この言葉は私たちに、目に見えない力を感じ取るように迫り続けるのです。",
+                "synonyms": [
+                        "Essential",
+                        "Basic"
+                ],
+                "antonyms": [
+                        "Superficial",
+                        "Secondary"
+                ],
+                "aftertaste": "Fundamentals are the invisible pillars that uphold the edifice of reality.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "fund",
+                                        "meaning": "to pour, bottom"
+                                }
+                        ],
+                        "points": [
+                                "「根本」という言葉はラテン語の「fundare」（注ぐ、据える）に由来し、基礎を築くという動作を暗示します。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "Late Middle English (14th Century)"
+        },
+        {
+                "id": "commotion",
+                "word": "Commotion",
+                "part_of_speech": "noun",
+                "meaning": "騒動、混乱",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "com-",
+                                        "type": "prefix",
+                                        "meaning": "共に、一緒に",
+                                        "lang": "ラテン語"
+                                },
+                                {
+                                        "text": "-motion",
+                                        "type": "root",
+                                        "meaning": "動き",
+                                        "lang": "ラテン語"
+                                }
+                        ],
+                        "original_statement": "Derived from Latin 'commotio', meaning 'stirring, agitation', from 'com-' (altogether) and 'motio' (motion)."
+                },
+                "core_concept": {
+                        "en": "A stirring of souls, an unsettled harmony.",
+                        "ja": "魂の揺り動かし、不安定な調和"
+                },
+                "thinking_layer": "騒動は、人々の心に揺るがぬ平静を破るものです。それはまるで、静かな湖面に落ちる一滴の雨粒のように、波紋を広げ、安らぎの境界を越えていきます。この世の中における騒動は、存在の確信を試される瞬間です。そうした瞬間は我々に、静寂と騒音の間にある微妙な関係を教えてくれるのです。静けさは時に、行き詰まりと捉えられるかもしれませんが、その奥底には深遠な思索が厭わしく眠っています。一方、騒動は日常の安堵から目覚めさせ、未知なる体験への扉を開く鍵となるのです。こうした騒動の波の中で、人間の本質は波紋の行方を見つめ、何もないはずの空隙に、新たな美を見出そうとするのです。騒動とは一瞬の騒ぎでありながら、永遠の静寂に対立するものであり、調和とは何かを問いかける、深遠な探求を促す声なき詩です。",
+                "synonyms": [
+                        "uproar",
+                        "tumult"
+                ],
+                "antonyms": [
+                        "calm",
+                        "peace"
+                ],
+                "aftertaste": "In commotion's chaos, we seek the silent truths.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "motio",
+                                        "meaning": "motion, movement"
+                                }
+                        ],
+                        "points": [
+                                "ラテン語の 'commotio' が起源。その語源は、動きが一つに合わさることを示している。"
+                        ]
+                },
+                "source": "Harper, Douglas. 'Etymology of Commotion', Online Etymology Dictionary.",
+                "date": "2026-03-01",
+                "era": "Late Middle English, 14th Century"
+        },
+        {
+                "id": "ambiguous",
+                "word": "Ambiguous",
+                "part_of_speech": "adjective",
+                "meaning": "曖昧な、はっきりしない",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "ambi-",
+                                        "type": "prefix",
+                                        "meaning": "両方",
+                                        "lang": "ラテン"
+                                },
+                                {
+                                        "text": "-agere",
+                                        "type": "root",
+                                        "meaning": "行う／動かす",
+                                        "lang": "ラテン"
+                                }
+                        ],
+                        "original_statement": "Derived from Latin 'ambiguus', stemming from 'ambi-' meaning 'both ways' and 'agere' meaning 'to drive'."
+                },
+                "core_concept": {
+                        "en": "A dance of dual meanings, serenading clarity and obscurity.",
+                        "ja": "明確さと不明確さが交錯する踊り"
+                },
+                "thinking_layer": "曖昧という概念は、我々の思考の深淵に、光と闇が拮抗する場を提供する。この語の根源にあるのは、ラテン語の「ambi-」と「agere」であり、両面性と行動を示唆している。人間の感覚や知覚は、時に曖昧さを必要とする。なぜなら、曖昧さがなければ、すべては単純な二元論に陥ってしまうからだ。哲学的観点から見れば、曖昧さがもたらすのは、事象の他の側面を見るための透かし窓である。その窓を通して見える景色は、解釈の余地を与え、真理への道筋を複雑にする。詩的に言えば、曖昧さは、はっきりしない秋の霧のように、確実なものに包まれ、それにもかかわらず新しい発見のチャンスをもたらす。私たちの精神は曖昧さの中で漂い、そこから新たな認識の光を見出す可能性を常に探る。したがって、曖昧であることは、単なる困惑以上のものであり、それは創造的思考を刺激する核である。",
+                "synonyms": [
+                        "Vague",
+                        "Unclear"
+                ],
+                "antonyms": [
+                        "Clear",
+                        "Explicit"
+                ],
+                "aftertaste": "Ambiguity is the canvas upon which imagination paints its masterpieces.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "ambi",
+                                        "meaning": "both"
+                                },
+                                {
+                                        "term": "agere",
+                                        "meaning": "to drive"
+                                }
+                        ],
+                        "points": [
+                                "曖昧さは、人間の知覚と感情を豊かにする要素であり、はっきりとした答えを求める科学とは対照的に、文学や哲学の世界においては創造性を引き出す重要な役割を果たす。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "Late Middle English, 15th Century"
+        },
+        {
+                "id": "fragment",
+                "word": "Fragment",
+                "part_of_speech": "noun",
+                "meaning": "断片、破片",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "frag-",
+                                        "type": "root",
+                                        "meaning": "壊す",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "-ment",
+                                        "type": "suffix",
+                                        "meaning": "こと",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'fragment' derives from Latin 'fragmentum', meaning 'a piece broken off'."
+                },
+                "core_concept": {
+                        "en": "A broken piece whispering the beauty of once being whole.",
+                        "ja": "かつての完全さを優しく囁く、壊れた欠片"
+                },
+                "thinking_layer": "断片とは、物事の連続や全体の流れが途絶えた瞬間に現れるものです。それは形を失い、あるいは新しい形へと再生しようとする過程に潜む輝きです。断片は我々の人生、思考、記憶に留まる一瞬の摂動として存在し、それ自体が完結しない自然の断続を象徴しています。陶器が割れるとき、その欠片は以前の美しさを保持しつつも、まさに新たな独自の美学を生み出す瞬間を孕んでいます。この考えは、我々が日常の中で失ったものの価値し、全てが壊れし続ける無常観の中にある希望を象徴していると言えるでしょう。それはまた、何かを失うことが逆に新たな発見を生む契機ともなり得ることを示唆します。我々の全体としての存在、その個々の破片は絶えず変化と再生を繰り返しています。",
+                "synonyms": [
+                        "Piece",
+                        "Shard"
+                ],
+                "antonyms": [
+                        "Whole",
+                        "Complete"
+                ],
+                "aftertaste": "Every fragment contains the seed of its origin's essence.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "frag",
+                                        "meaning": "to break"
+                                }
+                        ],
+                        "points": [
+                                "断片の概念は、物質の分裂や精神的な状態の変化を示す文化的メタファーとして、多くの古代文化に共通して見られる。"
+                        ]
+                },
+                "source": "The Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "14th Century"
+        },
+        {
+                "id": "fruitful",
+                "word": "Fruitful",
+                "part_of_speech": "adjective",
+                "meaning": "実りの多い、成功をもたらす",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "fruit",
+                                        "type": "root",
+                                        "meaning": "果実",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "-ful",
+                                        "type": "suffix",
+                                        "meaning": "満ちる",
+                                        "lang": "Old English"
+                                }
+                        ],
+                        "original_statement": "Derived from the Old French word 'fructueux' and Latin 'fructuosus', meaning productive or abundant in fruits."
+                },
+                "core_concept": {
+                        "en": "A bountiful harvest of creation, full of potential.",
+                        "ja": "豊かに実る創造の収穫"
+                },
+                "thinking_layer": "果実の多い世界では、物事が豊かに育つだけでなく、それがもたらす影響が連鎖的に他の存在にも波及します。果実の一つ一つは、自己自身の生命を維持する以上の力を持ち、新たな命を育む源となります。この豊かさは、単なる物理的な成果にとどまらず、精神の充足や情緒的な満足にもつながります。古代から人々は、果実が多数実ることで自然の力を賞賛し、それが生命の循環を象徴するものと見なしてきました。果実の実る木は、ひたすらに生命を育む力の象徴であり、その枝々が織りなす影が、明日の明るい可能性を示唆しています。果実豊かな生活とは、孤立した成功ではなく、広がり続ける円のように増殖していく幸福を意味します。それは生命の多様性に内在する美しさを再認識し、日々の営みの中でその重要性を噛み締めることです。どの時代においても、果実豊かな未来を築くことは、人々の共通の望みであり、挑戦であり続けるのです。",
+                "synonyms": [
+                        "Prolific",
+                        "Productive"
+                ],
+                "antonyms": [
+                        "Barren",
+                        "Unproductive"
+                ],
+                "aftertaste": "A life of abundance is one where every thought bears fruit.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "fruit",
+                                        "meaning": "Fruition, a product of growth"
+                                },
+                                {
+                                        "term": "-ful",
+                                        "meaning": "Full of, possessing"
+                                }
+                        ],
+                        "points": [
+                                "語源学的に見て、この言葉は果実の概念が単に物理的な形態にとどまらず、心の豊かさをも表すことに進化している。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Middle English Origin"
         }
 ];
