@@ -33721,5 +33721,459 @@ const WORDS = [
                 "source": "Oxford English Dictionary, EtymOnline",
                 "date": "2026-03-01",
                 "era": "15th Century"
+        },
+        {
+                "id": "navigate",
+                "word": "Navigate",
+                "part_of_speech": "verb",
+                "meaning": "道を見つけて進むこと",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "navis-",
+                                        "type": "root",
+                                        "meaning": "船",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "agare",
+                                        "type": "root",
+                                        "meaning": "操縦する",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'navigate' originates from the Latin 'navigare', which means 'to sail', combining 'navis' (ship) and 'agere' (to drive)."
+                },
+                "core_concept": {
+                        "en": "To traverse the unknown with purpose and craft.",
+                        "ja": "未知を目的と技巧で旅すること"
+                },
+                "thinking_layer": "ナビゲートとは、単なる地図上の線を辿る行為を超えて、人生という大海を渡るための哲学的コンパスである。私たちが進むべき道を選び、舵を取るのは、内なる信念と外界からの微細なバイブレーションの共鳴によって生まれる洞察である。航海は物理的な旅でもあるが、精神的な旅でもあり、人生の意味や目的を探求する旅路でもある。古代の船乗りたちが星座を頼りに航路を見いだしたように、現代の人々もまた自己の内なる星を読み解き、見えざる目的地を目指す。ナビゲートの本質は、このように外界からの情報と内なる声の調和を見つけるプロセスにある。人生の海は広大で、時に無情であるが、この行為を通じて私たちは孤独を乗り越え、存在の真意を感じ取ることができる。",
+                "synonyms": [
+                        "Steer",
+                        "Guide"
+                ],
+                "antonyms": [
+                        "Wander",
+                        "Stray"
+                ],
+                "aftertaste": "Navigating is the art of harmonizing with the journey of life.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "navis",
+                                        "meaning": "ship"
+                                },
+                                {
+                                        "term": "agere",
+                                        "meaning": "to drive"
+                                }
+                        ],
+                        "points": [
+                                "ナビゲートの語源は、物理的な航海能力と精神的な洞察力の双方を包含するものである。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "15th Century"
+        },
+        {
+                "id": "assemble",
+                "word": "Assemble",
+                "part_of_speech": "verb",
+                "meaning": "集める、組み立てる",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "ad-",
+                                        "type": "prefix",
+                                        "meaning": "〜へ",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "simulare",
+                                        "type": "root",
+                                        "meaning": "同じにする",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'assemble' originates from the Latin 'assimulare' meaning 'to make similar', and was embraced by Old French as 'assembler'. Eventually, it entered Middle English in the 14th century."
+                },
+                "core_concept": {
+                        "en": "The unification of parts into a harmonious whole.",
+                        "ja": "部分を調和の中にまとめること"
+                },
+                "thinking_layer": "集まること、そしてそれが生む共鳴は、まるで宇宙のリズムと共鳴する音楽の調べのようである。点と点が線になり、無数の線が描く無限の図柄のように、人々は目的や感情を共有し、共にひとつの壮大な物語を紡ぎ出す。物質的な世界では、組み立てることが新たな機能や形を創り出し、それぞれの要素がその姿を主体に変化させつつ、それぞれの特質を活かしてまた新しい全体を構成する。哲学的には、集合と組み立てることは人間の存在そのものを反映している。なぜならば、人生そのものが無数の経験や記憶、そして意義の組み合わせに他ならないからである。一つの存在が他者と繋がり、共鳴し、自己を超越したある新たな「何か」に成り得る、その希望が「assemble」という行為に内在するのである。偶然の繋がりさえも、時には意図として発展し、生命が持つ本質を再発見する旅路へと誘う。人が集うとき、それは物理的な結合に留まらず、精神的な共鳴を生むのだ。",
+                "synonyms": [
+                        "Gather",
+                        "Collect"
+                ],
+                "antonyms": [
+                        "Disperse",
+                        "Scatter"
+                ],
+                "aftertaste": "In unity, we discover the orchestra of existence.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "simulare",
+                                        "meaning": "to make similar or alike"
+                                }
+                        ],
+                        "points": [
+                                "言葉はラテン語の 'simulare' を起源に持ち、同化や一致を意味し、それが組織化や協調の基本原理である。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "14th Century, Middle English"
+        },
+        {
+                "id": "pierce",
+                "word": "Pierce",
+                "part_of_speech": "verb",
+                "meaning": "穴をあける、貫通する",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "pierce",
+                                        "type": "root",
+                                        "meaning": "突き通す",
+                                        "lang": "Middle English"
+                                }
+                        ],
+                        "original_statement": "The word 'pierce' originated in Middle English, derived from the Old French 'percier' which means to pierce or penetrate, itself stemming from the Latin 'pertusiare'."
+                },
+                "core_concept": {
+                        "en": "To break through barriers, declaring one's existence starkly.",
+                        "ja": "障壁を突破し、自らの存在を鮮やかに宣言すること。"
+                },
+                "thinking_layer": "貫くこととは、ただ肉体を通過する行為にとどまらず、しばしば心の奥深くをも揺さぶる。物理的な障壁だけではなく、精神的な抵抗、社会的な制限、そして時間に対する挑戦をも意味する行為である。例えば、風が樹木を揺らし、その葉を通り抜けていく様は、自然の中での調和と抗争の姿を象徴する。心が何かに打たれ、新たな認識へと至るとき、それは一種の「貫通」であり、そこには古い自我を突き破る痛みと新しい視野を得る希望が共存している。さらに、貫通は変化そのものであり、古いものを打ち砕き、新しい現実を創造する行為とも言える。一条の光が暗闇を相殺し、新たな朝を告げるように、個々の行動が持つ力は世界を形作る。貫く行為は、私たちが向かうべき方向を示す灯台となりうるのである。",
+                "synonyms": [
+                        "penetrate",
+                        "perforate"
+                ],
+                "antonyms": [
+                        "seal",
+                        "block"
+                ],
+                "aftertaste": "In piercing, we find the moment where limitation begets illumination.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "percus",
+                                        "meaning": "to strike through"
+                                }
+                        ],
+                        "points": [
+                                "中世英語における「pierce」は、フランス語由来の用法から、強く差し込むか、抜けていく行為に由来していると言われる。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Middle English, 12th Century"
+        },
+        {
+                "id": "ignite",
+                "word": "Ignite",
+                "part_of_speech": "verb",
+                "meaning": "火をつける、燃やす",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "ignis-",
+                                        "type": "root",
+                                        "meaning": "火",
+                                        "lang": "ラテン"
+                                },
+                                {
+                                        "text": "-ite",
+                                        "type": "suffix",
+                                        "meaning": "動詞化する",
+                                        "lang": "英語"
+                                }
+                        ],
+                        "original_statement": "The word 'ignite' derives from the Latin 'ignīre', itself from 'ignis' meaning 'fire'."
+                },
+                "core_concept": {
+                        "en": "To awaken the dormant flames within.",
+                        "ja": "内なる炎を目覚めさせること"
+                },
+                "thinking_layer": "火を着けるという行為は、物理的な現象であると同時に、精神的な象徴でもある。火が燃えるとき、新たな可能性が生まれ、過去が灰になる。この逆説的な状態は、生と死、始まりと終わり、創造と破壊のバランスを映し出す。燃え盛る炎の踊る様は、生命の不安定さと、変わらざる真実を同時に示している。哲学的には、火を点けることは、心の奥底に隠された情熱や熱意を解放する行為でもある。それは、新たな挑戦の始まりであり、情熱の再生燃焼である。古代から、火は知識の比喩であり、闇から光をもたらす象徴であった。この炎を内的に点火するということは、自己発見の旅の一環であり、永遠に続く未知への熱烈な探求である。火が示す道は、変革の可能性を秘めた未踏の領域であり、それを信じる者だけが進める長い旅へと誘う道でもある。",
+                "synonyms": [
+                        "Inflame",
+                        "Kindle"
+                ],
+                "antonyms": [
+                        "Extinguish",
+                        "Quench"
+                ],
+                "aftertaste": "Ignite the light within, for the fire starves in shadows.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "ignis",
+                                        "meaning": "fire"
+                                }
+                        ],
+                        "points": [
+                                "語源的には、ラテン語の『ignis』から派生し、火の本質を内包する。火は物質を変質させ、また精神をも変革しうる力を持つ。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Early 17th century"
+        },
+        {
+                "id": "prescribe",
+                "word": "Prescribe",
+                "part_of_speech": "verb",
+                "meaning": "指示する、処方する",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "pre-",
+                                        "type": "prefix",
+                                        "meaning": "前もって",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "scribe",
+                                        "type": "root",
+                                        "meaning": "書く",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "From Latin 'praescribere', meaning to ordain or dictate, composed of 'prae-' (before) and 'scribere' (to write)."
+                },
+                "core_concept": {
+                        "en": "To write before action; to dictate the path and course from the foresight of wisdom.",
+                        "ja": "行為が行われる前に書き示し、知恵によって進路を定めること。"
+                },
+                "thinking_layer": "「処方」という言葉は、未来に光を投げかける行為である。人間は過去と現在を通して未来を模索する旅人であり、処方はその旅路の案内役である。星空の地図を描く天文学者のように、書かれた指示は、迷子になりやすい我々の航海に光をもたらす灯台である。無数の道が岐れ道に展開するが、処方された指示は、我々の選択を理想へと導く羅針盤となる。それはまた、癒しの儀式でもある。医者が処方する薬は、身体だけでなく、心の傷も癒す。そして、社会の法律や慣習としての処方は、個を超えた集合体としての我々の調和を追求する。こうした処方の背後には、常に深い思索と思考が潜んでいる。それらは、人類が進化の過程で産み出した知性の結晶として、混沌の中に秩序を導き入れる力を持つ。確かに、処方という行為には、我々の最も深い本質が宿っているのだ。新たな一歩を踏み出す際に、処方された道筋は希望と未来の絆を象徴するものである。",
+                "synonyms": [
+                        "Dictate",
+                        "Specify"
+                ],
+                "antonyms": [
+                        "Prohibit",
+                        "Neglect"
+                ],
+                "aftertaste": "Prescribing is the gentle craft of carving fate from the tapestry of time.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "scribe",
+                                        "meaning": "to write"
+                                }
+                        ],
+                        "points": [
+                                "ラテン語の根源から来る「書く」という行為には、単に紙に記す以上の意味がある。それは記憶を刻み、未来を形作る創造の原動力である。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Latin, 14th Century"
+        },
+        {
+                "id": "reputation",
+                "word": "Reputation",
+                "part_of_speech": "noun",
+                "meaning": "評判、名声",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "re-putare",
+                                        "type": "prefix/root",
+                                        "meaning": "再び考える",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'reputation' originates from the Latin 'reputatio', which means 'consideration' or 'calculation', conjuring the act of repeatedly pondering or assessing someone's merits or achievements."
+                },
+                "core_concept": {
+                        "en": "The reflective mirror of the soul as seen through the eyes of society.",
+                        "ja": "社会の眼を通して見られる魂の反映する鏡"
+                },
+                "thinking_layer": "評判とは人が生きる上で刻まれる無言の歴史であり、やがて形作られる見えない名刺でもあります。それは時間の流れの中で、一つ一つの行いとそれに対する他者の評価が積み重なり、私たちの人間関係や社会的位置を形作ります。評判は、過去の行いが現実を照らし、未来の道を示す灯火であり、さらに内なる人格の表現としての仮面でもあります。このように、評判は単なる他者からの評価ではなく、自己認識と他者認識が交錯する複雑で動的な哲学的概念です。その範囲や影響力は、時に不確かで一瞬の出来事により揺らぐこともありますが、長い年月を共有した時間が重なることでゆっくりと形成される不動のものでもあります。その本質は、他者の目に映ることで初めて意味をなす孤高の存在なのです。評判とは、人間存在の証でありつつも、空気のように目に見えないが、常に周囲との相互作用を経て形作られる不可視の輪です。",
+                "synonyms": [
+                        "Fame",
+                        "Renown"
+                ],
+                "antonyms": [
+                        "Infamy",
+                        "Obscurity"
+                ],
+                "aftertaste": "Reputation acts as the silent echo of one's actions in the world.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "putare",
+                                        "meaning": "to think, to value, to reckon"
+                                }
+                        ],
+                        "points": [
+                                "ラテン語のroot 'putare'は、考える、評価する、計算するという意味を持つ。この単語は、合理的な考察を示唆し、評判が単なる偶然ではなく、体系的な評価であることを示している。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Late Middle English, 14th Century"
+        },
+        {
+                "id": "venture",
+                "word": "Venture",
+                "part_of_speech": "noun/verb",
+                "meaning": "冒険、リスクを伴った試み",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "adventure",
+                                        "type": "root",
+                                        "meaning": "冒険",
+                                        "lang": "French"
+                                },
+                                {
+                                        "text": "-ura",
+                                        "type": "suffix",
+                                        "meaning": "意味を拡張する",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'venture' originates from the Late Latin 'adventura', passing through Old French 'aventure'."
+                },
+                "core_concept": {
+                        "en": "Embrace of the unknown with courage.",
+                        "ja": "未知に対する勇敢な抱擁"
+                },
+                "thinking_layer": "『ベンチャー』という言葉には、未知の領域に自らを投じる人間の果敢な姿が映し出されています。それは、確実性のない未来への一歩を踏み出す行為であり、成功も失敗もその先になければ見えないという挑戦への意志の表れです。冒険心とは単なる好奇心ではなく、リスクを伴った未知への旅に自らを運命的に委ねる決断です。ベンチャーは、確実性に支配されない自由を選び取ることを意味し、その選択は我々を無限可能性の未来へと導きます。人生とは数え切れない選択の連続であり、そのひとつひとつが小さき冒険とも言えるでしょう。まさに、時間という砂時計を逆さにすることなく、一瞬一瞬を最善の形で使い切ろうとする生き方の象徴でもあります。世界の終わりを恐れることなく、次の道を拓く覚悟。未知の地平に光を求めるその姿こそ、ベンチャーの核心にある精神です。",
+                "synonyms": [
+                        "undertaking",
+                        "enterprise"
+                ],
+                "antonyms": [
+                        "certainty",
+                        "security"
+                ],
+                "aftertaste": "In venturing, the soul dares its destiny.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "adventure",
+                                        "meaning": "to risk or dare"
+                                }
+                        ],
+                        "points": [
+                                "ラテン語の'冒険'は、運命を試すというアクションを指します。それは古代から人類を動かしてきた根源的欲望を反映しています。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "14th Century"
+        },
+        {
+                "id": "impassive",
+                "word": "Impassive",
+                "part_of_speech": "adjective",
+                "meaning": "感情を出さない、無表情な",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "in-",
+                                        "type": "prefix",
+                                        "meaning": "否定",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "passive",
+                                        "type": "root",
+                                        "meaning": "受動的、感情に動かされる",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'impassive' originates from Latin roots 'in-' meaning 'not' and 'passive' which denotes being affected or moved by emotions."
+                },
+                "core_concept": {
+                        "en": "An unwavering calmness in the face of turmoil.",
+                        "ja": "動揺の中で揺るぎない冷静さ"
+                },
+                "thinking_layer": "「無表情」という状態は、単なる顔の表情の無さを超えて、内なる感情の波を乗り越える力強さの表現とも言える。感情が激しく揺さぶられる場面において、外見上は波一つ立たない湖のように振る舞うこの姿勢は、人がどのように自己を律するか、または感情を制御することによって、自己の内部により強固な領域を築こうとする試みと見ることができる。これは何も感情を抑えつけることを意味するのではなく、むしろ感情の波に溺れることなく、それを見つめ、共存する術を追求するという、哲学的な探求として捉えることができる。人生の風雨を経る中で、無表情という仮面が必ずしも空虚を示すものではなく、むしろ内面的な静穏を守るためのものなのかもしれない。そして、それはある種の内なる美と強さの表現であるとも言えるだろう。結局のところ、無表情とは、何も減ることなく、内的な豊かさを抱え込むための選択肢なのである。人はなぜ、どうして、無表情な面持ちを選ぶのか。その内なる理由を探ることは、自己理解を深化させる道でもある。",
+                "synonyms": [
+                        "Emotionless",
+                        "Indifferent"
+                ],
+                "antonyms": [
+                        "Expressive",
+                        "Emotional"
+                ],
+                "aftertaste": "To be impassive is to wear an armor of serenity.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "passive",
+                                        "meaning": "受動的であること"
+                                }
+                        ],
+                        "points": [
+                                "「無表情」という言葉は、ラテン語の「passivus」に由来し、受動的であること、そして感情に影響されることを意味する。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "16th Century"
+        },
+        {
+                "id": "beach",
+                "word": "Beach",
+                "part_of_speech": "noun",
+                "meaning": "砂浜や海岸線、特にリラックスしたり遊んだりする場所としての意識。",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "beach",
+                                        "type": "root",
+                                        "meaning": "水の縁にある陸地",
+                                        "lang": "Middle English"
+                                }
+                        ],
+                        "original_statement": "The word 'beach' is derived from the Middle English 'beche', which referred to the loose, pebbly shore of a body of water."
+                },
+                "core_concept": {
+                        "en": "A meeting point of earth and ocean where time lingers.",
+                        "ja": "地と海が出会い、時が漂う場"
+                },
+                "thinking_layer": "ビーチは、人類の思索と休息の永遠の舞台である。潮の満ち引きは、時間の流れを象徴し、そのリズムは我々の生命の周期を反映する。波の音は、古代の記憶を呼び起こし、心を洗い流す。砂浜に刻まれた足跡は、存在の儚さと旅の範囲を示す。かつて地球の境界だったビーチは、今では魂の境界線として存在し、訪れた者に一瞬の永遠を体験させる。地球と水が出会い、調和を求めるこの場所で、我々は日常の一時停止を求める。朝の光の中で新しい始まりを予感させ、夕日の下で過去を静かに受け入れる。ビーチは、その広大さの中で我々の内なる空虚を反射し、自然との無言の対話を可能にする。この場所で、自然の本質と人間の小ささを再認識することにより、我々はより深い理解と感謝を得る。ビーチは、その静寂と力強さを通じて、我々に存在の意味を問いかけ、無限の時間の中で有限の今を生きることの重要性を示す。",
+                "synonyms": [
+                        "shore",
+                        "coast"
+                ],
+                "antonyms": [
+                        "inland",
+                        "mountain"
+                ],
+                "aftertaste": "Behold where land meets the sea—a tender intersection of worlds.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "beche",
+                                        "meaning": "shore"
+                                }
+                        ],
+                        "points": [
+                                "中世の英語における「beche」という語は、水辺に近い土壌を指しており、今のビーチの概念に直接つながっている。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Middle English, 14th Century"
         }
 ];
