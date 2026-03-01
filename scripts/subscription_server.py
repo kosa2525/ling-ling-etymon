@@ -103,6 +103,13 @@ def init_db():
                 if 'is_premium' not in columns:
                     cur.execute("ALTER TABLE users ADD COLUMN is_premium BOOLEAN DEFAULT FALSE")
                 
+                # Flourishes migration (INTEGER -> TEXT for target_id)
+                cur.execute("SELECT data_type FROM information_schema.columns WHERE table_name='flourishes' AND column_name='target_id'")
+                res = cur.fetchone()
+                if res and res[0] == 'integer':
+                    print("Migrating flourishes target_id from INTEGER to TEXT")
+                    cur.execute("ALTER TABLE flourishes ALTER COLUMN target_id TYPE TEXT")
+
                 # Reflections migration (more robust)
                 cur.execute("SELECT count(*) FROM information_schema.columns WHERE table_name='reflections' AND column_name='is_deleted'")
                 if cur.fetchone()[0] == 0:
