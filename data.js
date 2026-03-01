@@ -32449,55 +32449,56 @@ const WORDS = [
                 "era": "20th Century"
         },
         {
-                "id": "bark",
-                "word": "Bark",
-                "part_of_speech": "noun/verb",
-                "meaning": "木の外皮 / 犬が吠える声",
+                "id": "salad",
+                "word": "Salad",
+                "part_of_speech": "noun",
+                "meaning": "新鮮な野菜にドレッシングをかけた冷菜。",
                 "author": "etymon_official",
                 "etymology": {
                         "breakdown": [
                                 {
-                                        "text": "bark",
+                                        "text": "sal-",
                                         "type": "root",
-                                        "meaning": "吠える / 外皮",
-                                        "lang": "Middle English, Old Norse, Old English"
+                                        "meaning": "塩",
+                                        "lang": "ラテン語"
                                 }
                         ],
-                        "original_statement": "The word 'bark' is believed to derive from Middle English 'bark', which itself comes from Old Norse 'bǫrkr' for the outer covering of trees, and from Late Old English 'beorc'. The sense of a dog's harsh, loud vocalization is linked to a similar term in Scandinavian languages."
+                        "original_statement": "The word 'salad' originates from the Latin word 'salata' (salty), derived from 'sal' (salt), indicating the custom of seasoning raw vegetables with brine, which then evolved through Old French as 'salade'."
                 },
                 "core_concept": {
-                        "en": "A call from the heart of the wild, a boundary encapsulating life.",
-                        "ja": "野生の心からの呼び声、命を包む境界の創造性。"
+                        "en": "A vibrant dance of greens steeped in nature's dressing.",
+                        "ja": "自然のドレッシングで満たされた緑の舞"
                 },
-                "thinking_layer": "木の外皮としての「bark」は、地球の生命の周期を包み込む自然の布のようなものです。それは、時を超え、記憶と生命力を蓄える器としての役割を果たしています。同時に、「bark」の吠える声としての側面は、自然の声、生命の激動の音、あるいは警告の表現とも言えます。この言葉は、内向と外向の象徴であり、木の静けさと犬の咆哮という対照的な存在を通して、我々の進化的記憶を呼び起こします。「bark」が奏でる音は、境界を超えて広がる命の響きであり、無意識の中で深く共鳴します。この多義的な言葉は、静寂と騒音、成長と防御の間にある普遍的なバランスを描写しています。人生の道において、我々が出会う障壁と護りの意識、それらの調和の象徴としての古代の知恵が「bark」には秘められています。",
+                "thinking_layer": "サラダはただの料理ではなく、自然と人間の繊細な関係を象徴するものである。自然の恩恵を受けた新鮮な食材が、塩という人間の知恵によって調和をもたらされる一皿。それはまるで、農業の果てしなき試行錯誤や、四季を通じて変わり続ける生命の循環そのものを表現しているかのようだ。塩は大地と海の記憶を運び、野菜は土からの生命を体現する。この調和が成すサラダという芸術は、私たちに自然との共生を促し、また私たちがいかにその一部であるかを再認識させる。まさにそれがサラダの深い意義であり、私たちに一瞬の哲学的冥想を与えるものなのだ。",
                 "synonyms": [
-                        "Cortex",
-                        "Woof"
+                        "greens",
+                        "salad bowl"
                 ],
                 "antonyms": [
-                        "Silence"
+                        "cooked",
+                        "meat dish"
                 ],
-                "aftertaste": "Within every bark, a universe whispers life.",
+                "aftertaste": "Simplicity cradles profundity within every leaf.",
                 "deep_dive": {
                         "roots": [
                                 {
-                                        "term": "bark",
-                                        "meaning": "The protective outer covering of a tree or the vocal sound of a canine"
+                                        "term": "sal",
+                                        "meaning": "salt"
                                 }
                         ],
                         "points": [
-                                "語彙的な複合体「bark」は、時間を旅する自然界と人間の体験の橋渡しをします。木の外皮として、この言葉は自然の堅固な保護の象徴であり、また生命の反応としての動物の鳴き声として、コミュニケーションの原初的な形」を表しています。"
+                                "語源的に、サラダは塩が重要な役割を果たしており、これは古代ローマ時代に食材の保存や味付けにおいて塩が不可欠であったことを示している。"
                         ]
                 },
-                "source": "Oxford English Dictionary",
+                "source": "Online Etymology Dictionary",
                 "date": "2026-03-01",
-                "era": "Middle English, Old Norse, Old English"
+                "era": "14th Century"
         },
         {
                 "id": "umbrella",
                 "word": "Umbrella",
                 "part_of_speech": "noun",
-                "meaning": "雨や日光から身を守るための持ち手のある道具",
+                "meaning": "雨を防ぐための道具",
                 "author": "etymon_official",
                 "etymology": {
                         "breakdown": [
@@ -32506,523 +32507,37 @@ const WORDS = [
                                         "type": "root",
                                         "meaning": "影",
                                         "lang": "ラテン語"
-                                },
-                                {
-                                        "text": "-ella",
-                                        "type": "suffix",
-                                        "meaning": "小さなものを示す接尾辞",
-                                        "lang": "ラテン語"
                                 }
                         ],
-                        "original_statement": "The word 'umbrella' originated from the Latin 'umbra', meaning 'shade' or 'shadow', with the diminutive suffix '-ella'."
+                        "original_statement": "The word 'umbrella' originates from the Italian 'ombrella', which comes from the Late Latin 'umbella', a diminutive of 'umbra,' meaning 'shade' or 'shadow'. Originally used to protect against the sun, the term evolved to its current usage during the 17th century."
                 },
                 "core_concept": {
-                        "en": "A poetic shield against the whims of weather.",
-                        "ja": "天候の気まぐれから守る詩的な盾"
+                        "en": "A gentle guardian against the sky's tears.",
+                        "ja": "空の涙を和らげる優しき守護者"
                 },
-                "thinking_layer": "傘はただの道具ではなく、人生の象徴とも言える存在です。私たちの生活において、時には心の憂を晴らし、時には物理的な雨を避けてくれる存在です。日々の慌ただしい日常の中で、傘が開いた瞬間、私たちはどこか日常を離れるような感覚を覚えます。傘の下から見る世界は、視点を変えることで大きな違いをもたらし、日常的なものをあたかも異世界のように感じさせます。気まぐれな雨雲から、そして時には灼熱の太陽から私たちを守るのが傘の役割ですが、人生そのものが予測できないものであるように、我々が本当に守られることは少ないのかもしれません。それでも、傘を手に持ち、開く意志を保ち続けることは、未来への前向きな小さな抵抗と希望を示唆しています。日本の「雨」という儚さの美学においても、傘は欠かせない舞台装置であると言えるでしょう。",
+                "thinking_layer": "傘という言葉は、単なる道具を超え、哲学的な成分を持っています。それは、影の中に避難所を提供し、見えない力から人々を守る役割を果たします。それは、太陽や雨といった自然の要素に対する人間の本能的な反応の象徴です。傘を開くことは、私たちが不確実性や不定に対してどのように対応するかを示しています。傘の内側に立つとき、私たちは自然の奔流から一時的に解放され、個々の思索に浸ることができる私的な空間を持ちます。それは、自己を振り返り、自然との調和を感じるための小さな宇宙を提供します。そして、影の中にいるとき、我々は未来の不確定性にも打ち勝てるという希望を持つことができるのです。傘が私たちに与える影、それは視えざる保護膜であり、同時に私たちの儚くも力強い無力感を思い出させます。その存在は、永遠なるものと一時的なものの対比を映し出し、心に深い詩的な印象を残してくれます。",
                 "synonyms": [
                         "parasol",
-                        "sunshade"
+                        "brolly"
                 ],
                 "antonyms": [
                         "exposure",
                         "vulnerability"
                 ],
-                "aftertaste": "An umbrella encapsulates the harmony of protection and vulnerability.",
+                "aftertaste": "In the ephemeral moments under an umbrella, we find solace and introspection.",
                 "deep_dive": {
                         "roots": [
                                 {
                                         "term": "umbra",
-                                        "meaning": "shadow, shade"
-                                },
-                                {
-                                        "term": "-ella",
-                                        "meaning": "diminutive suffix"
+                                        "meaning": "shadow"
                                 }
                         ],
                         "points": [
-                                "ラテン語の『umbra』は『影』を意味し、その上に小さなものを示す接尾辞『-ella』が付いたことで、微細で優美な印象を与える単語に成長しました。"
+                                "傘の語源は、ラテン語の「umbra」に由来し、影という意味を持っています。これは、自然の厳しさからの防御としての人間の工夫を象徴しています。"
                         ]
                 },
-                "source": "Online Etymology Dictionary, Oxford English Dictionary",
+                "source": "Oxford English Dictionary",
                 "date": "2026-03-01",
                 "era": "17th Century"
-        },
-        {
-                "id": "meat",
-                "word": "Meat",
-                "part_of_speech": "noun",
-                "meaning": "食肉",
-                "author": "etymon_official",
-                "etymology": {
-                        "breakdown": [
-                                {
-                                        "text": "met-",
-                                        "type": "root",
-                                        "meaning": "食べ物",
-                                        "lang": "Old English"
-                                }
-                        ],
-                        "original_statement": "The word 'meat' originates from the Old English 'mete', meaning food or nourishment, and was first used in this broader sense before being narrowed down to signify animal flesh."
-                },
-                "core_concept": {
-                        "en": "The primal essence of sustenance and vitality.",
-                        "ja": "滋養と生命力の原始的な本質"
-                },
-                "thinking_layer": "肉という言葉は、単なる食物を超えて、私たちの存在の根幹にある欲求を映し出すものである。肉は人間の原始的な生存本能を象徴し、同時に、文化や宗教によって様々な意味を付与されてきた。特に、日本での肉料理の歴史は、禁忌と奢侈品の狭間を揺れ動く存在であり、私たちが自然界とどのように関わるかを映し出す鏡のようなものだ。肉が持つ濃厚な味わいは、私たちに生と死、そして共食の哲学的な問いを投げかける。肉を食するという行為は、往々にして倫理的な軋轢を生むが、それこそが我々の文化や信念を問い直す契機となる。肉は、肉体を育むと同時に、精神の糧としての役割も果たしているのだ。",
-                "synonyms": [
-                        "Flesh",
-                        "Protein"
-                ],
-                "antonyms": [
-                        "Vegetable",
-                        "Fruit"
-                ],
-                "aftertaste": "Meat is both a necessity and a reflection of human desires.",
-                "deep_dive": {
-                        "roots": [
-                                {
-                                        "term": "mete",
-                                        "meaning": "food, nourishment"
-                                }
-                        ],
-                        "points": [
-                                "肉という語は、飢餓や豊かさを超えた根源的な人間の欲求を象徴している。"
-                        ]
-                },
-                "source": "Oxford English Dictionary, Online Etymology Dictionary",
-                "date": "2026-03-01",
-                "era": "Old English"
-        },
-        {
-                "id": "juggle",
-                "word": "Juggle",
-                "part_of_speech": "verb",
-                "meaning": "空中で物を操る技術、または複数の活動を同時に管理する能力。",
-                "author": "etymon_official",
-                "etymology": {
-                        "breakdown": [
-                                {
-                                        "text": "Middle English jogelen -> Old French jogler",
-                                        "type": "root",
-                                        "meaning": "遊ぶ、からかう",
-                                        "lang": "古フランス語"
-                                }
-                        ],
-                        "original_statement": "The word originates from Middle English 'jogelen,' derived from the Old French 'jogler,' meaning to perform tricks or to jest."
-                },
-                "core_concept": {
-                        "en": "The delicate dance of managing chaos with precision and flair.",
-                        "ja": "精緻さと爛漫な技によって混乱を操る繊細な舞。"
-                },
-                "thinking_layer": "人生とは、絶え間ない変化と多様な要求に追われる一つのジャグリングのようなものである。我々は不確実性の大気中で、無数の可能性を手の中で操る。見事に投げられるボールは、時に予想外の飛び方をしつつも、美しい軌跡を描きながら、絶えず重力と戦う。ジャグラーの眼差しは、常に前方に注がれているように見えつつも、実際は内なるリズムと調和している。どれだけのボールを空中に浮かべるかは重要ではない。それらすべてが一貫した動きに融合すること、それこそが真の芸術である。内なる静けさと外見の躍動の間に一瞬だけ訪れる調和、それがジャグリングの本質であり、人生という舞台の上で、私たちは常に新しいステップを試みる。物理的な技を超え、ジャグリングは精神の修練であり、内なる世界と外界の相互作用を優雅に映し出す者なのだ。",
-                "synonyms": [
-                        "manipulate",
-                        "balance"
-                ],
-                "antonyms": [
-                        "drop",
-                        "fail"
-                ],
-                "aftertaste": "In the rhythm of the cosmos, we are all jugglers of fate.",
-                "deep_dive": {
-                        "roots": [
-                                {
-                                        "term": "jogler",
-                                        "meaning": "to jest, to play"
-                                }
-                        ],
-                        "points": [
-                                "ジャグリングは単なる技術である以上に、物事の流れを適切に管理し、人生の複雑さを優雅に操る象徴である。"
-                        ]
-                },
-                "source": "Oxford English Dictionary",
-                "date": "2026-03-01",
-                "era": "12th Century (Middle English, Old French)"
-        },
-        {
-                "id": "scrutinize",
-                "word": "Scrutinize",
-                "part_of_speech": "verb",
-                "meaning": "詳細に調べる",
-                "author": "etymon_official",
-                "etymology": {
-                        "breakdown": [
-                                {
-                                        "text": "scrutin-",
-                                        "type": "root",
-                                        "meaning": "検査、調査",
-                                        "lang": "Latin"
-                                }
-                        ],
-                        "original_statement": "Derived from the Late Latin 'scrutinium', meaning 'a search, inquiry', from Latin 'scrutari', 'to examine, investigate'."
-                },
-                "core_concept": {
-                        "en": "To peer beyond the surface, delving into the intricate dance of details.",
-                        "ja": "表面を越えて、詳細の複雑な舞踏に入り込むこと。"
-                },
-                "thinking_layer": "『精査』という行為は、物事の表層を超えて、真実の中核を求める心の旅である。人間は常に未知を怖れつつ、それに対する深い好奇心を宿している。その扉を開く鍵は、見落とされがちな細部に込められた無言の物語である。私たちは日々、無数の情報と出会い、その中から冴え渡る真実を見つけ出すという挑戦を受け入れる。考察を伴う精査は、心と知性の精細な交流であり、そこには時空を超越した真実を探す永遠の踊りがある。複雑な世界において、真実と向き合うには、情熱と忍耐が求められる。言葉を超えた次元の探索は、人々を未知なる解釈の誕生へと導く。それは静かなる探求であり、心の奥底で響く物語が、精査の行為を通じて開かれていくことを意味する。人は、目で見える以上のものを常に渇望し、その探求こそが人類の進化を促す光となる。",
-                "synonyms": [
-                        "Examine",
-                        "Inspect"
-                ],
-                "antonyms": [
-                        "Ignore",
-                        "Overlook"
-                ],
-                "aftertaste": "In the pursuit of truth, scrutinization is the compass guiding us through the dense forest of deception.",
-                "deep_dive": {
-                        "roots": [
-                                {
-                                        "term": "scrutari",
-                                        "meaning": "to examine, investigate"
-                                }
-                        ],
-                        "points": [
-                                "『精査』という語は、ラテン語のscrutari『詳しく調べる』に由来し、未知を探求する熱意と知識が凝縮された言葉である。"
-                        ]
-                },
-                "source": "Oxford English Dictionary",
-                "date": "2026-03-01",
-                "era": "Late Latin, Middle Ages"
-        },
-        {
-                "id": "condescend",
-                "word": "Condescend",
-                "part_of_speech": "verb",
-                "meaning": "謙遜して身を低くすること、または恩着せがましくすること",
-                "author": "etymon_official",
-                "etymology": {
-                        "breakdown": [
-                                {
-                                        "text": "con-",
-                                        "type": "prefix",
-                                        "meaning": "共に",
-                                        "lang": "Latin"
-                                },
-                                {
-                                        "text": "descendere",
-                                        "type": "root",
-                                        "meaning": "降りる",
-                                        "lang": "Latin"
-                                }
-                        ],
-                        "original_statement": "The word 'condescend' originates from the Latin 'con-' meaning 'together' and 'descendere' meaning 'to descend'."
-                },
-                "core_concept": {
-                        "en": "The delicate dance of stepping down from one's pedestal.",
-                        "ja": "高みから降りる精妙な舞い"
-                },
-                "thinking_layer": "『降り立つ』という行為は時に複雑である。我々が精神的に高みにいる時、その舞台から降りることには勇気と優れた自己意識が必要である。この行為は謙遜の表れとも取れ、一方で自らが持つ特権や優位性を他者に示し付ける、偽りの恩恵としても現れることがある。人の心は多面的であり、高ぶることと謙ることの境界はしばしば曖昧だ。哲学的には、『降り立つ』とは自我を低く置くことでもあり、また異なる視点から見ると、偽善的な勇敢さを示す挑戦でもあるかもしれない。この行為は、他者との繋がりを意識し、共に現実の中で足を踏みしめようとする試みである。内なるプライドと外部への理解の間で揺れる瞬間を、この言葉は深く捉えている。そこに潜在する哲学は、人間関係の微妙な力学を探るヒントを我々に与えるだろう。",
-                "synonyms": [
-                        "Patronize",
-                        "Demean"
-                ],
-                "antonyms": [
-                        "Praise",
-                        "Respect"
-                ],
-                "aftertaste": "The act of condescending can both bridge and build barriers.",
-                "deep_dive": {
-                        "roots": [
-                                {
-                                        "term": "con",
-                                        "meaning": "together"
-                                },
-                                {
-                                        "term": "descend",
-                                        "meaning": "to step down"
-                                }
-                        ],
-                        "points": [
-                                "この言葉の語源はラテン語に遡り、人間のコミュニケーションにおける権力と平等のテーマを示唆している。"
-                        ]
-                },
-                "source": "Oxford English Dictionary",
-                "date": "2026-03-01",
-                "era": "14th Century"
-        },
-        {
-                "id": "support",
-                "word": "Support",
-                "part_of_speech": "noun/verb",
-                "meaning": "支えること、援助",
-                "author": "etymon_official",
-                "etymology": {
-                        "breakdown": [
-                                {
-                                        "text": "sub-",
-                                        "type": "prefix",
-                                        "meaning": "下",
-                                        "lang": "Latin"
-                                },
-                                {
-                                        "text": "portare",
-                                        "type": "root",
-                                        "meaning": "運ぶ",
-                                        "lang": "Latin"
-                                }
-                        ],
-                        "original_statement": "The term originates from the Latin 'supportare' meaning 'to carry from below'."
-                },
-                "core_concept": {
-                        "en": "An ever-present underpinning, holding aloft the weight of complexities with silent grace.",
-                        "ja": "静かな優雅さで複雑さの重みを支える不変の支柱"
-                },
-                "thinking_layer": "支えるという行為は、目に見えない力を表す象徴です。その力は、物質的な支えだけでなく、精神的な強さと共感の象徴でもあります。この力は風に逆らう樹木の根のように、環境の過酷さにあってさえも揺るぎないものです。支えはまた、共鳴する感情の調和の象徴であり、それは共感とつながりの絆を通して人々の心を結びつけます。この概念は、私たちが日々の生活の中で見えない場所から支え合うことの重要性を示しています。支えることの詩的な力は、目に見えないものを感じる力、そしてその力がいかに人々を結びつけるのかを教えてくれます。この世界におけるすべてのものには背後に支える力が存在し、時にそれは自然の摂理として、時に人間の優しさとして、多様に姿を現します。支えは、障害を乗り越えるための橋であり、困難を和らげる包み込むような腕であり、常に人生という旅における安らぎの灯火なのです。",
-                "synonyms": [
-                        "Aid",
-                        "Assistance"
-                ],
-                "antonyms": [
-                        "Neglect",
-                        "Oppose"
-                ],
-                "aftertaste": "Support is the silent pillar upon which lives are built.",
-                "deep_dive": {
-                        "roots": [
-                                {
-                                        "term": "portare",
-                                        "meaning": "to carry"
-                                }
-                        ],
-                        "points": [
-                                "「サポート」は古代のラテン語から派生した言葉で、人を支えるという行為の基礎概念を象徴しています。人間の相互援助の精神は、言語を通して歴史を越えて伝えられています。"
-                        ]
-                },
-                "source": "Oxford English Dictionary",
-                "date": "2026-03-01",
-                "era": "13th Century"
-        },
-        {
-                "id": "random",
-                "word": "Random",
-                "part_of_speech": "adjective",
-                "meaning": "無作為、予測不能な",
-                "author": "etymon_official",
-                "etymology": {
-                        "breakdown": [
-                                {
-                                        "text": "randir-",
-                                        "type": "root",
-                                        "meaning": "走る",
-                                        "lang": "Old French"
-                                }
-                        ],
-                        "original_statement": "The word 'random' is derived from the Middle English 'randoun', which means 'speed or impetuosity', and originates from the Old French 'randir', meaning 'to gallop' or 'to run'."
-                },
-                "core_concept": {
-                        "en": "The beautiful chaos of unpredictability.",
-                        "ja": "予測不能の美しい混沌"
-                },
-                "thinking_layer": "ランダムとは、偶然と秩序が互いに舞う美しい舞台である。無数の可能性が果てしなく広がる様は、宇宙の不確定性を抱擁する人間の精神を象徴する。規則がないように見えるその背後には、深層に眠る大いなる意図が潜むかもしれない。私たちがランダムと呼ぶものは、実は宇宙の偉大な舞踏の一部であり、人間が正確に理解するにはあまりにも壮大で複雑である。偶然と必然が出会う瞬間、私たちは自由を感じる。そしてそれは、人間の持つ意識の範囲を超える幻想的な領域への旅を可能にする。ランダムは自然界における見えざる手であり、私たちの日常に潜む美の形態である。次第に解きほぐされていく混沌の中で、私たちの心は無限なる創造の可能性を抱くことを許される。この偶然の世界において、不確定性は我々の想像力を刺激し、未知の領域への扉を静かに開く。",
-                "synonyms": [
-                        "Unpredictable",
-                        "Haphazard"
-                ],
-                "antonyms": [
-                        "Systematic",
-                        "Predictable"
-                ],
-                "aftertaste": "In randomness, we find the dance of fate and chance.",
-                "deep_dive": {
-                        "roots": [
-                                {
-                                        "term": "randir",
-                                        "meaning": "to gallop, to run"
-                                }
-                        ],
-                        "points": [
-                                "「random」は古フランス語の「randir」に由来し、「走る」または「駆け抜ける」という意味を持つ。この語源がもたらす動的なニュアンスは、偶然の印象を鮮やかに描き出している。"
-                        ]
-                },
-                "source": "Oxford English Dictionary",
-                "date": "2026-03-01",
-                "era": "Middle English"
-        },
-        {
-                "id": "stutter",
-                "word": "Stutter",
-                "part_of_speech": "verb",
-                "meaning": "どもる",
-                "author": "etymon_official",
-                "etymology": {
-                        "breakdown": [
-                                {
-                                        "text": "stut-, -ter",
-                                        "type": "root",
-                                        "meaning": "どもる, 疑う",
-                                        "lang": "Middle English"
-                                }
-                        ],
-                        "original_statement": "Derived from Middle English stutten, akin to Middle Low German stottern."
-                },
-                "core_concept": {
-                        "en": "A hesitation in the river of speech.",
-                        "ja": "言葉の流れにおける躊躇"
-                },
-                "thinking_layer": "どもることは、人間の心の奥深くにある不安が言葉として発現する瞬間です。複雑な感情が渦巻く中での一瞬の躊躇は、単に音声の断続ではなく、心の動きの模様を映し出す鏡のようです。言葉がかすれ、音が途切れる中で、私たちは自分の存在の不安定さに直面します。人生とは、一定の流れを持たない河のように、予期せぬ曲り角や障害物で溢れています。どもりの瞬間、その河はしばしば立ち止まり、彼方の目的地に進む前に、内なる静寂と対話を持ちます。この瞬間はまた、社会的な自己と内なる自己との会話の場でもあります。私たちが他者の前で言葉を探し続けるとき、その瞬間瞬間は私たちが誰であるのかを問いかける哲学的な視点を提供します。この存在の落差の中で、私たちは自己を見つける旅を続けるのです。",
-                "synonyms": [
-                        "Hesitate",
-                        "Falter"
-                ],
-                "antonyms": [
-                        "Fluent",
-                        "Eloquent"
-                ],
-                "aftertaste": "In every pause of speech, the universe whispers its silent poetry.",
-                "deep_dive": {
-                        "roots": [
-                                {
-                                        "term": "stut-",
-                                        "meaning": "to hesitate"
-                                }
-                        ],
-                        "points": [
-                                "‘Stutter’の語源学は、話言葉における自己表現の難しさを象徴し、社会的、心理的意味を持つ現象を探求します。"
-                        ]
-                },
-                "source": "Oxford English Dictionary, Online Etymology Dictionary",
-                "date": "2026-03-01",
-                "era": "Middle English, 13th Century"
-        },
-        {
-                "id": "mumble",
-                "word": "Mumble",
-                "part_of_speech": "verb",
-                "meaning": "小声で不明瞭に話す",
-                "author": "etymon_official",
-                "etymology": {
-                        "breakdown": [
-                                {
-                                        "text": "mumble-",
-                                        "type": "root",
-                                        "meaning": "ボソボソと話す声",
-                                        "lang": "Middle English"
-                                }
-                        ],
-                        "original_statement": "Derived from Middle English 'mumlen', likely imitative or akin to the Middle Dutch 'momelen'."
-                },
-                "core_concept": {
-                        "en": "A quiet whispering of thoughts, tangled in the web of one's mind.",
-                        "ja": "思考の網に絡み合った静かなささやき"
-                },
-                "thinking_layer": "『呟き』と称されるこの言葉は、人間精神の静かで慎み深い反響を表します。言葉が完全に巻き取られることなく散らばり、沈黙の中で自己の独白を描く様は、明瞭さを避けることで真実と接触を試みる意図を持つ場合があります。無意識の流れが声を得、やや入り組みつつも内なる欲望と恐れが表出され、物理的な言語の形を取りながらも、むしろ心の声を忠実に体現しています。薄暗い夜に囁くかのように、私たちは時にその音を受け入れ、時にそれに耳を傾け、世界を探求します。このまばゆい例えによって、語られない真実は、我々の存在の普遍的な調停者として浮上します。曖昧さの中で、自分自身の声を見つけることは、内省と観察の果敢な行為であり、その重さと柔らかさの間で、現実の境界線を引く儀式なのです。",
-                "synonyms": [
-                        "Mutter",
-                        "Whisper"
-                ],
-                "antonyms": [
-                        "Speak clearly",
-                        "Articulate"
-                ],
-                "aftertaste": "In hums and echoes, the truth seeks a voice.",
-                "deep_dive": {
-                        "roots": [
-                                {
-                                        "term": "mumlen",
-                                        "meaning": "to speak softly or indistinctly"
-                                }
-                        ],
-                        "points": [
-                                "『mumble』は、中世英語を起源に持ち、その語感は歴史を潜り抜け、現代の静寂と響き合う形となりました。語源的には模倣の要素が強く、その曖昧な発音が多様な声を反映することを示しているのです。"
-                        ]
-                },
-                "source": "Online Etymology Dictionary",
-                "date": "2026-03-01",
-                "era": "Middle English"
-        },
-        {
-                "id": "sponsor",
-                "word": "Sponsor",
-                "part_of_speech": "noun/verb",
-                "meaning": "支援者、支援する",
-                "author": "etymon_official",
-                "etymology": {
-                        "breakdown": [
-                                {
-                                        "text": "spondere",
-                                        "type": "root",
-                                        "meaning": "誓う",
-                                        "lang": "Latin"
-                                }
-                        ],
-                        "original_statement": "The term 'sponsor' originates from the Latin word 'spondere', meaning 'to promise' or 'to pledge'. Initially associated with financial support, it has evolved to signify any form of endorsement or support."
-                },
-                "core_concept": {
-                        "en": "A binding promise that nurtures growth and potential.",
-                        "ja": "成長と可能性を養う約束"
-                },
-                "thinking_layer": "『スポンサー』という言葉は、人間の歴史における補助と保護、そして約束の象徴である。その背景には、個人が強固な約束を交わし、共に世界を支える意義深い関係が築かれるという哲学が潜んでいる。このような関係は、頻繁に利益を超えた信頼と責任感に基づいており、いわば精神的な契約である。現代社会におけるスポンサーの役割は、単なる資金提供だけでなく、支援する個人や団体の潜在能力を引き出し、その可能性を最大限に開花させることにある。スポンサーシップの意義を概念として捉えると、それは不確実性の中に光を灯し、進化の道筋を照らし出す灯台のような存在とも言えよう。真のスポンサーは、受け手の需要を理解し、共に未来を築くために力と情熱を注ぐ覚悟がある者である。その本質は、「共に在る」という人間の根源的な欲求を体現するものだ。響き合う心が奏でるメロディのように、スポンサーは自己と他者をつなぐ架け橋となり、社会のハーモニーを奏で続ける。",
-                "synonyms": [
-                        "patron",
-                        "supporter"
-                ],
-                "antonyms": [
-                        "opponent",
-                        "adversary"
-                ],
-                "aftertaste": "To sponsor is to believe in the unseen potential of others.",
-                "deep_dive": {
-                        "roots": [
-                                {
-                                        "term": "spondere",
-                                        "meaning": "to promise"
-                                }
-                        ],
-                        "points": [
-                                "『スポンサー』の語源であるラテン語の「spondere」は、約束する行為を意味し、時を経て信頼と支援の象徴となった。"
-                        ]
-                },
-                "source": "The Oxford English Dictionary",
-                "date": "2026-03-01",
-                "era": "Latin origin, circa 1st century"
-        },
-        {
-                "id": "chocolate",
-                "word": "Chocolate",
-                "part_of_speech": "noun",
-                "meaning": "カカオ豆から作られる甘い食品や飲み物",
-                "author": "etymon_official",
-                "etymology": {
-                        "breakdown": [
-                                {
-                                        "text": "chocolatl",
-                                        "type": "root",
-                                        "meaning": "“泡の立った水”の意味を持つ",
-                                        "lang": "Nahuatl"
-                                }
-                        ],
-                        "original_statement": "The word 'chocolate' originates from the Nahuatl word 'chocolatl', which refers to a bitter drink made from cacao beans."
-                },
-                "core_concept": {
-                        "en": "The darkly rich essence of joy sculpted in sweet, velvety form.",
-                        "ja": "喜びの暗い豊かさが甘くて滑らかな形で刻まれている"
-                },
-                "thinking_layer": "チョコレートという言葉が持つ歴史と現代性の調和は、驚くべきものであり、美食が時を超えて築き上げる文化的価値を象徴しています。ナワトル語からスペイン語を経て、英語にまで浸透したこの言葉は、文化の交差点に立つ使者のようなものです。カカオ豆が初めて人の興味を引くその一瞬から、彼らは新しい体験、感情、そして物語を生み出し続けてきたのです。このほろ苦さと甘さの融合が、一つの言葉を通してどのように人々の心の奥深くに根ざし、さらにはその香りと旨味がどのように心の中で記憶として刻まれるのか。味覚としてのチョコレートは、何よりも人間関係、愛、孤独の微妙な色合いを想起させるもので、その一口一口が哲学的な瞑想の断片であり、もはや単なる食品ではありません。言葉としてのチョコレートは、単なるスイーツの域を超えて、人間存在の根本的な歓びと美しさの一端を表現しているのです。",
-                "synonyms": [
-                        "Cocoa",
-                        "Confection"
-                ],
-                "antonyms": [
-                        "Bitter",
-                        "Savory"
-                ],
-                "aftertaste": "Chocolate is a bittersweet symphony of the senses.",
-                "deep_dive": {
-                        "roots": [
-                                {
-                                        "term": "chocolatl",
-                                        "meaning": "泡の立った水"
-                                }
-                        ],
-                        "points": [
-                                "チョコレートという言葉の背景には、植民地主義の歴史と文化的交流があり、それはまた感覚的な楽しみの象徴でもあります。"
-                        ]
-                },
-                "source": "Oxford English Dictionary",
-                "date": "2026-03-01",
-                "era": "16th Century"
         }
 ];
