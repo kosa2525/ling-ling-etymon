@@ -47786,5 +47786,277 @@ const WORDS = [
                 "source": "Oxford English Dictionary",
                 "date": "2026-03-01",
                 "era": "14th Century"
+        },
+        {
+                "id": "produce",
+                "word": "Produce",
+                "part_of_speech": "noun/verb",
+                "meaning": "生産する、または農産物",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "pro-",
+                                        "type": "prefix",
+                                        "meaning": "前方へ",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "ducere",
+                                        "type": "root",
+                                        "meaning": "導く、引き出す",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'produce' originates from the Latin 'producere', meaning 'to lead forth or bring forth'."
+                },
+                "core_concept": {
+                        "en": "To manifest the hidden potential into tangible form.",
+                        "ja": "潜在力を形にする"
+                },
+                "thinking_layer": "思索の層：人生の中で「生産」という行為は、単なる物質的な生成以上の意味を持つ。それは無形の考えや可能性を具現化する過程であり、人間の創造性の表現である。自然は常に変化と成長を続け、静かな振動の中にあなたを招き入れる。種が土の中で割れ目を作り始めるとき、それは地上に根を下ろし、空へ向かって伸びる。その生成の過程は、成長すること、繁栄すること、そして最終的に収穫することの意味を伝えている。「生産する」とは、単に物を作り出す行為ではない。それは成長するための努力、探求、そして自然との繋がりを表している。古代から人類は地球の恵みを受け、創造し、共有してきた。この現象は、生命の神聖な円環を示し、深い哲学的な探求へと我々を導く。生産は人類の本質的な活動であり、存在の根源的な問いに対する答えを提示する。",
+                "synonyms": [
+                        "Generate",
+                        "Create"
+                ],
+                "antonyms": [
+                        "Destroy",
+                        "Consume"
+                ],
+                "aftertaste": "To produce is to birth the universe's silent wishes into the realm of existence.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "ducere",
+                                        "meaning": "To lead, draw out"
+                                }
+                        ],
+                        "points": [
+                                "「生産」という言葉の語源は、物事を前に導くことである。ラテン語の「ducere」を通じて、特定の方向へと何かを導く行為を示している。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "14th Century"
+        },
+        {
+                "id": "product",
+                "word": "Product",
+                "part_of_speech": "noun",
+                "meaning": "製品や成果物",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "pro-",
+                                        "type": "prefix",
+                                        "meaning": "前方",
+                                        "lang": "ラテン語"
+                                },
+                                {
+                                        "text": "ducere",
+                                        "type": "root",
+                                        "meaning": "導く",
+                                        "lang": "ラテン語"
+                                }
+                        ],
+                        "original_statement": "The word 'product' emerges from the Latin 'producere', which means to lead or bring forth."
+                },
+                "core_concept": {
+                        "en": "Creation flowing from an inspired source.",
+                        "ja": "創造の源から流れ出るもの"
+                },
+                "thinking_layer": "製品、それはただ単に物理的な物体ではなく、人類の創造力と生命力の証である。石を彫り、金属を鍛え、想像力を具現化することによって、我々は自身の存在を世の中に刻印する。製品が持つ価値はその素材に限らず、それが生まれる過程にこそある。無から有を生み出す行為には人の思いや時代の精神が宿り、単なる取引の対象を超えた意味を持つようになる。それは時間の中で漂いながら、新たな文脈の中で解釈され続ける。生成の先には消費があるが、生成と消費の間には多くの物語が紡がれる。その物語こそが製品に新たな命を与えるのである。そして、あらゆる製品はその背景に広大な歴史と人々の夢を内包し、無形の価値を持ちながら静かに世界に影響を及ぼすのだ。製品とは、物質的な形を超えた、人間の意志と変革の象徴である。",
+                "synonyms": [
+                        "Creation",
+                        "Artifact"
+                ],
+                "antonyms": [
+                        "Destruction",
+                        "Loss"
+                ],
+                "aftertaste": "Every product is a legacy of creative endeavor.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "ducere",
+                                        "meaning": "to lead or guide"
+                                }
+                        ],
+                        "points": [
+                                "ラテン語の 'ducere' は、指導と指し示すという意味を持ち、プロセスとしての生成を強調する言葉である。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "14th Century"
+        },
+        {
+                "id": "dictation",
+                "word": "Dictation",
+                "part_of_speech": "noun",
+                "meaning": "言葉を口述して書き取らせること。",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "dic-",
+                                        "type": "root",
+                                        "meaning": "語る、話す",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "-tion",
+                                        "type": "suffix",
+                                        "meaning": "動作、状態",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'dictation' comes from the Latin 'dictare', meaning 'to say often', which is a frequentative of 'dicere', 'to say, speak'. It evolved into the act of speaking for others to write down."
+                },
+                "core_concept": {
+                        "en": "The gentle dance between silence and sound, as thoughts find life in words.",
+                        "ja": "沈黙と音の間の優美な舞、思考が言葉に命を吹き込む瞬間。"
+                },
+                "thinking_layer": "言葉を口述するという行為は、人間の創造性と知識の源と言えるでしょう。心に浮かぶ断片的な考えを他者に伝達し、共有する際に、私たちは言語の力を最大限に活用します。沈黙の中から生まれる言葉は、単なるコミュニケーションツールに留まらず、思索と物語、そして歴史を刻む手段です。耳で聞こえるその音と、紙に書かれるその文字の間には無数の感情と物語が詰まっています。口述によって、孤独な思考は公共のアリーナへと放たれ、時代を超えて共有される知の一片となります。ここで重要なのは、口述が単なる音声行為ではなく、過去と未来を繋ぐ架け橋であるということです。この行為を通じて、私たちは名前のない感情に形を与え、無形の観念に実体を与え、自己と他者を超越した広大なコミュニティを形成します。",
+                "synonyms": [
+                        "transcription",
+                        "oral reading"
+                ],
+                "antonyms": [
+                        "writing",
+                        "inscription"
+                ],
+                "aftertaste": "In dictation, silence births sound, and sound engraves thought.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "dic",
+                                        "meaning": "to speak, say"
+                                },
+                                {
+                                        "term": "tion",
+                                        "meaning": "action, process"
+                                }
+                        ],
+                        "points": [
+                                "『dictation』という単語は、最初は単なる動作を示すものでしたが、現代においては知識の継承と創造的表現の象徴とも考えられます。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "15th Century"
+        },
+        {
+                "id": "anticipation",
+                "word": "Anticipation",
+                "part_of_speech": "noun",
+                "meaning": "予測、期待",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "ante-",
+                                        "type": "prefix",
+                                        "meaning": "前に",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "capere",
+                                        "type": "root",
+                                        "meaning": "取る",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "Derived from the Latin 'anticipare', which combines 'ante-' meaning 'before' and 'capere' meaning 'take'. The concept of 'anticipation' first emerged in the late 14th century."
+                },
+                "core_concept": {
+                        "en": "The delicate dance of expectation and time.",
+                        "ja": "期待と時間の繊細な舞"
+                },
+                "thinking_layer": "期待というものは、我々の心の奥深くに息づく複雑な概念であり、時間の流れを超えて未来の影を読もうとする魂の営みである。時間の無常と不確実性に対立する我々の意志と共に、期待は心のガイドブックとして機能し、未来を予想する力と共に、失望もまた覚悟する覚悟を持たせる。我々はこの期待を通じて、見えざる未来への窓を開き、新たな希望や願望を今日に持ち込む。無形の念となり、予想の未来の姿を描き、それは何かしらの形を潜在意識に与える。期待はまた、人間の経験の中心であり、その満たされたとき、そして裏切られたときの両方で、非常に豊かな感情を呼び起こし、我々がまだ訪れていない時空の彼方を渇望する燃料として機能する。期待とは、時間そのものに挑む謙虚な願望であり、未来に向かって手を伸ばしながら、その先にある不確実を抱きしめる微細な人間の情念である。",
+                "synonyms": [
+                        "Expectation",
+                        "Forethought"
+                ],
+                "antonyms": [
+                        "Surprise",
+                        "Immediacy"
+                ],
+                "aftertaste": "Anticipation dances gracefully across the lakes of time, its ripples felt deeply within our souls.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "ante-",
+                                        "meaning": "before"
+                                },
+                                {
+                                        "term": "capere",
+                                        "meaning": "to take"
+                                }
+                        ],
+                        "points": [
+                                "語源的に、‘ante-’は何かの先を示し、‘capere’は受け止めるあるいは捕まえる行為を表す。そのため、期待とはまだ目に見ぬものを、今まさに手に取り烙印を押すような行為とも言え、未来の不可視の形を形作る動的な概念であるとも解釈できる。"
+                        ]
+                },
+                "source": "The Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "14th Century"
+        },
+        {
+                "id": "interactive",
+                "word": "Interactive",
+                "part_of_speech": "adjective",
+                "meaning": "相互作用的な",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "inter-",
+                                        "type": "prefix",
+                                        "meaning": "間に、相互に",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "active",
+                                        "type": "root",
+                                        "meaning": "活動的な",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The term 'interactive' originates from the mid-19th century, combining the Latin prefix 'inter-' meaning 'between' and 'active' related to action or activity."
+                },
+                "core_concept": {
+                        "en": "A delicate dance of mutual engagement and dynamic communication.",
+                        "ja": "相互の関与と動的なコミュニケーションの繊細な舞"
+                },
+                "thinking_layer": "『インタラクティブ』という言葉には、私たちの存在が他者の存在とどのように関連し合うかという深い問いが内包されています。人と人、あるいは人と技術が互いに作用し合う様は、無限の可能性を秘めたシンフォニーのようです。それは単なる情報のやり取りを越えて、互いの影響を受けあい、共鳴し、共に新しいものを創造していく過程を示しています。このダイナミックな交流は、意識の流れを形作り、個の境界を溶かし、新たな知の地平を広げていくのです。交わりから生まれる不可視の力が、人間性の深奥に潜む孤独を癒し、共感の橋をかけていく—それがインタラクティブの本質です。未来に向けた共創の賛歌として、この概念は私たちをより繋がり豊かな存在へと昇華させてくれるでしょう。",
+                "synonyms": [
+                        "dynamic",
+                        "collaborative"
+                ],
+                "antonyms": [
+                        "passive",
+                        "isolated"
+                ],
+                "aftertaste": "Interactive is the essence of life woven with threads of mutual influence.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "inter",
+                                        "meaning": "between, among"
+                                },
+                                {
+                                        "term": "active",
+                                        "meaning": "engaged in action"
+                                }
+                        ],
+                        "points": [
+                                "インタラクティブの根源的意義は、フローとエンゲージメントの動的相関に基づいています。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Mid-19th Century"
         }
 ];
