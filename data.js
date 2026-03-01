@@ -30953,5 +30953,319 @@ const WORDS = [
                 "source": "Oxford English Dictionary",
                 "date": "2026-03-01",
                 "era": "Old English"
+        },
+        {
+                "id": "testify",
+                "word": "Testify",
+                "part_of_speech": "verb",
+                "meaning": "証言する、証明する",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "testis",
+                                        "type": "root",
+                                        "meaning": "証人",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "facere",
+                                        "type": "root",
+                                        "meaning": "行動する、行う",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "Derived from Latin 'testificari', meaning 'to bear witness'."
+                },
+                "core_concept": {
+                        "en": "The act of bearing witness with presence and truth.",
+                        "ja": "存在と真実を伴って証言する行為"
+                },
+                "thinking_layer": "『証言』という言葉は、存在の深淵に刻まれた物語を紡ぐ行いである。我々は日々、目の前で織り成す現実を証言し、内なる声に耳を澄まして証明する。それは個々の経験を超越し、普遍的な真理との共鳴を求める行為でもある。古代ラテン語が示すように、証言は「証人」としての立場を内包し、世界との関係性を再確認する過程の一環である。証人はただの観察者にとどまらず、その声が紡ぐ真理が他者の心を揺さぶる力を持つ。証言の行為によって、過去の記憶を照らし出し、新たな意味を与えることができる。それはまた、言葉を超えた深い本能的な表現であり、私たちの核となる存在意義を探る道しるべとなる。証言は時を越えて、人間の魂に息づく、不可欠な物語の一部としてこの世界に響きわたる。",
+                "synonyms": [
+                        "Certify",
+                        "Attest"
+                ],
+                "antonyms": [
+                        "Deny",
+                        "Refute"
+                ],
+                "aftertaste": "Bearing witness is the poetic dance of truth and presence.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "testis",
+                                        "meaning": "witness"
+                                },
+                                {
+                                        "term": "facere",
+                                        "meaning": "to do"
+                                }
+                        ],
+                        "points": [
+                                "ラテン語の起源から、『証言』は「証人」としての自己認識を深め、言葉を通じて普遍的真理を具現化する作用を持つ。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "14th Century"
+        },
+        {
+                "id": "loom",
+                "word": "Loom",
+                "part_of_speech": "noun/verb",
+                "meaning": "織機または現れること",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "loom",
+                                        "type": "root",
+                                        "meaning": "現れる、織る",
+                                        "lang": "Middle English"
+                                }
+                        ],
+                        "original_statement": "The word 'loom' originated from Middle English 'lome', which refers both to a tool for weaving and a shadowy appearance."
+                },
+                "core_concept": {
+                        "en": "A delicate interplay of creation and emergence.",
+                        "ja": "創造と出現の繊細な絡み合い"
+                },
+                "thinking_layer": "織機という言葉は、人類の進化と知覚の曼荼羅を織り上げる、非常に興味深いメタファーです。織機は布を織るための道具ですが、それ以上に我々の存在そのものを織りなすための象徴とも言えます。目に見える実体を生むために用いる道具であり、同時に新たな形で現れる準備を整える不可視の手段です。織る行為は過去と未来を繋ぎ、今この瞬間に新たな現実を出現させます。その中で「loom」という言葉自体もまた、かすかに、しかし確実に現れるものを表します。まるで遠い地平線に現れゆく稜線のように、我々の心の中に潜む可能性の因果を映し出すのです。織機はただ物質を編むのではなく、生と死、夢と現実、光と影という二律背反を超克するためのシンボルでもあります。かくして織機は、永劫の螺旋を形作る無限の糸を操る手段であり、人々の運命をも密やかに編み続けています。",
+                "synonyms": [
+                        "Frame",
+                        "Weave"
+                ],
+                "antonyms": [
+                        "Unravel",
+                        "Disappear"
+                ],
+                "aftertaste": "The loom whispers of worlds yet unseen.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "lome",
+                                        "meaning": "tool, to appear"
+                                }
+                        ],
+                        "points": [
+                                "『loom』の語源には織るという行為の核心があり、それは形成と現出という二重の性質を持つ。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Middle English"
+        },
+        {
+                "id": "navigate",
+                "word": "Navigate",
+                "part_of_speech": "verb",
+                "meaning": "道を進む方法や技術を示すこと。特に、船や飛行機を操縦すること。",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "navis-",
+                                        "type": "root",
+                                        "meaning": "船",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "-agere",
+                                        "type": "suffix",
+                                        "meaning": "導く",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The term 'navigate' originates from the Latin 'navigare', which combines 'navis' (ship) and 'agere' (to drive/lead)."
+                },
+                "core_concept": {
+                        "en": "The art of guiding through the unknown expanse.",
+                        "ja": "未知の広大な領域を導く芸術"
+                },
+                "thinking_layer": "ナビゲーションとは、単に物理的な道を指し示すだけでなく、人生の旅という形而上的な海原を渡ることでもある。星々を頼りに大海原を航行するように、我々は時として直感と過去の経験を羅針盤として人生の進路を定める。その行為には、無限の可能性と共に困難という名の荒波が待ち受けているが、それに立ち向かう人間の意志の強さもまたそこに存在する。成功も失敗も、すべては航海の一部であり、我々はその過程で成長し続ける。したがって、「ナビゲートする」ことは、自己の限界に挑み、それを超えて新たな境地へ進むという深遠なる行為である。それは人間の冒険心、探検心を体現する行為であり、未知なるものを見つけ出し、新たな世界を拓く不屈の精神の証でもある。",
+                "synonyms": [
+                        "Steer",
+                        "Pilot"
+                ],
+                "antonyms": [
+                        "Disorient",
+                        "Mislead"
+                ],
+                "aftertaste": "To navigate is to conquer the vast unknown with a guide in one’s mind.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "navis",
+                                        "meaning": "ship"
+                                },
+                                {
+                                        "term": "agere",
+                                        "meaning": "to lead"
+                                }
+                        ],
+                        "points": [
+                                "「ナヴィゲート」という語は、主に海の上を移動することに関連しているが、その語源にはより広範な意味合いがある。ラテン語の「agere」は単に「導く」だけでなく、物事を「動かす」や「行う」という意味も含まれており、あらゆる種類の指導や監督の行為を示唆している。これにより、ナビゲーションは物理的な移動だけでなく、思考や精神の探索をも含む多義的な概念となっている。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "Classical Latin"
+        },
+        {
+                "id": "ferret",
+                "word": "Ferret",
+                "part_of_speech": "noun",
+                "meaning": "イタチを使用して狩猟すること、または小さな肉食動物",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "furittus",
+                                        "type": "root",
+                                        "meaning": "小さな泥棒",
+                                        "lang": "ラテン語"
+                                }
+                        ],
+                        "original_statement": "The word 'ferret' originates from Old French 'furet', which derives from Vulgar Latin 'furittus', a diminutive of 'fur', meaning thief, given its use in hunting to ferret out rabbits from their burrows."
+                },
+                "core_concept": {
+                        "en": "A sleek, tenacious pursuer, slipping through unseen spaces with relentless curiosity.",
+                        "ja": "内なる好奇心で見えぬ隙間を静かに追う者"
+                },
+                "thinking_layer": "フェレットという言葉は、単なる動物の名前ではなく、存在の本質を探求する際のメタファーでもあります。フェレットは小さな体と柔軟な動きで知られていますが、その本質は常に未知に向かって突き進む姿勢にあります。目に見えないものを見、手に触れないものを感じ取る能力は、知識の探求にも通じるものです。私たちが知識の迷宮を彷徨う時、心の中のフェレットは、狭くて入り組んだ道を自由自在に駆け抜け、その先に隠された真実を見つけ出す力を持っています。このようにフェレットは、無意識の領域を探索するための象徴的存在であり、追求と発見のプロセスを具現化しています。道を探し求め、知覚の枠を超えて探ることによって、人間の知ることへの旅路の象徴です。どんなに閉ざされた場所にあっても、フェレットは何かを見つけ出そうとする探求心を具現化しています。したがって、「フェレット」とは、言葉以上の意味を持った生命の形態といえるでしょう。",
+                "synonyms": [
+                        "Weasel",
+                        "Stoat"
+                ],
+                "antonyms": [
+                        "Prey",
+                        "Victim"
+                ],
+                "aftertaste": "In the endless labyrinth of thought, the ferret is forever relentless.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "furet",
+                                        "meaning": "small thief"
+                                }
+                        ],
+                        "points": [
+                                "数千年にわたり狩りの技術において重要な役割を担ってきたフェレットは、人間と動物の協力の象徴として古代から現代に至るまで受け継がれてきました。"
+                        ]
+                },
+                "source": "The Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "12th Century"
+        },
+        {
+                "id": "garble",
+                "word": "Garble",
+                "part_of_speech": "verb",
+                "meaning": "混乱させる、誤って伝える",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "garbeler",
+                                        "type": "verb",
+                                        "meaning": "選別する",
+                                        "lang": "Middle French"
+                                },
+                                {
+                                        "text": "gharbala",
+                                        "type": "verb",
+                                        "meaning": "ふるう、選別する",
+                                        "lang": "Medieval Latin"
+                                },
+                                {
+                                        "text": "gharbāl",
+                                        "type": "noun",
+                                        "meaning": "ふるい",
+                                        "lang": "Arabic"
+                                }
+                        ],
+                        "original_statement": "Originally meant to sift impurities from spices, evolved to 'distort'."
+                },
+                "core_concept": {
+                        "en": "The journey from clarity to confusion, embracing the chaos in words.",
+                        "ja": "明瞭さから混乱へと旅路を辿り、言葉の中に混沌を受け入れること。"
+                },
+                "thinking_layer": "混乱という概念は、時として人間の認識の鏡として機能する。我々は普段、その場の全体像を求め、真実を掘り下げようとするが、言葉が伝わる過程で歪みが生じることがある。情報が転がり、絡まり合い、次第に本来の意味を失う様は、まるで人間の記憶のそのものである。その中で、我々は望んでもいない真実を探さねばならず、そこにはまた、奇妙な美しさが漂う。彼方此方で混乱を極める言葉は、鏡を通してこの宇宙を映し出し、未来と過去を繋ぐ架け橋となる。残像の如きシャドウの中、時にその混沌に耳を傾けることが求められるのだ。情報の波を泳ぎ、慧眼を以て真実へと辿り着くのもまた、小舟が前進してゆく旅のようである。",
+                "synonyms": [
+                        "distort",
+                        "misrepresent"
+                ],
+                "antonyms": [
+                        "clarify",
+                        "elucidate"
+                ],
+                "aftertaste": "Amidst convolutions, truth quietly seeks its way.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "gharbāl",
+                                        "meaning": "sieve"
+                                }
+                        ],
+                        "points": [
+                                "語源的には、選り好んでふるう意味から変遷し、今日の混同や誤解を表す用法に至ったとされる。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "14th Century"
+        },
+        {
+                "id": "palace",
+                "word": "Palace",
+                "part_of_speech": "noun",
+                "meaning": "宮殿",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "palatium-",
+                                        "type": "root",
+                                        "meaning": "宮殿",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "-ace",
+                                        "type": "suffix",
+                                        "meaning": "場所",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The term originates from the Latin 'palatium', referring to the Palatine Hill, where Rome's imperial residences were situated."
+                },
+                "core_concept": {
+                        "en": "A grand abode, echoing the majesty and opulence of ancient empires.",
+                        "ja": "古代帝国の威厳と豪華さを反映する壮大な住まい"
+                },
+                "thinking_layer": "宮殿という言葉は、時を超えた歴史の中で力と権力の象徴であり続けました。王の居住地として、また国家の象徴として、宮殿は物質世界における一種の理想郷を表す場でした。その大理石の柱や黄金の装飾は、単なる権力の誇示ではなく、時間を超越する美を追求した結果であり、人類が成し遂げた最高の業績としてもとらえられます。宮殿は、その静けさの中に無言の物語を秘め、訪れる者に畏敬の念を抱かせる存在です。歴史の重みとともに、未来の夢を築く場所として、宮殿は単なる建築物以上の存在意義を持ちます。それは人間の知恵と労力の結晶であり、過去と未来をつなぐ架け橋なのです。宮殿が語るのは、永遠の美と崇高な意識の融合、そしてその遺構が語る深遠な哲学のメッセージであります。",
+                "synonyms": [
+                        "Castle",
+                        "Manor"
+                ],
+                "antonyms": [
+                        "Cottage",
+                        "Hut"
+                ],
+                "aftertaste": "A palace is a testament to the heights of human ambition and creativity.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "palatium",
+                                        "meaning": "Palatine Hill"
+                                }
+                        ],
+                        "points": [
+                                "ラテン語の『palatium』は、ローマの七つの丘の一つであるパラティーノの丘に由来し、帝国の権威を象徴する地として知られています。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Ancient Roman"
         }
 ];
