@@ -32257,5 +32257,342 @@ const WORDS = [
                 "source": "Online Etymology Dictionary",
                 "date": "2026-03-01",
                 "era": "16th Century"
+        },
+        {
+                "id": "simmer",
+                "word": "Simmer",
+                "part_of_speech": "verb",
+                "meaning": "料理などを低温で煮る",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "sim-, simmer",
+                                        "type": "root",
+                                        "meaning": "ゆっくりと煮えるようにする",
+                                        "lang": "Old English"
+                                }
+                        ],
+                        "original_statement": "The term 'simmer' originates from the late Middle English 'simperen', meaning to make a soft murmuring sound, evolving into the current sense of cooking gently just below boiling."
+                },
+                "core_concept": {
+                        "en": "A gentle dance of bubbles at the surface, whispering warmth with patience.",
+                        "ja": "忍耐と共に温かなささやきとしての泡の優雅な舞"
+                },
+                "thinking_layer": "煮えるのではなく、ただの熱ではこの言葉の深みに達することはできません。煮るという行為は、穏やかな忍耐の象徴であり、人間の心の奥底にある静けさを思い起こさせるものです。たゆまずに続く泡の動きは、私たちが注意深く待ち、無駄ではない時間を過ごすことの意味を語りかけます。このような穏やかな時を経て、料理は完成するだけでなく、人生そのものの一部ともなり得るのです。つまり、単に物を加熱するだけではなく、心にも目にも見えない何かが、穏やかに形を成す様を見つめることです。泡の一つ一つは目には見えないほど小さいのに、それらが集まれば水面に現れる物語を紡ぎ出します。自然の力が作用し、時間の流れが穏やかに刻まれるとき、私たちはこの『煮える』の真髄を、その哲学を理解することができるのです。",
+                "synonyms": [
+                        "Boil gently",
+                        "Poach"
+                ],
+                "antonyms": [
+                        "Rapid boil",
+                        "Freeze"
+                ],
+                "aftertaste": "Simmer whispers life into ingredients, unveiling their hidden stories.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "sim-",
+                                        "meaning": "gently boiling"
+                                }
+                        ],
+                        "points": [
+                                "中世後期に現れた「シンパリン」に関連する表現として、この和やかな言葉の源泉といえます。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Late Middle English"
+        },
+        {
+                "id": "wink",
+                "word": "Wink",
+                "part_of_speech": "noun/verb",
+                "meaning": "目を閉じること",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "Old English wincian",
+                                        "type": "root",
+                                        "meaning": "まばたき",
+                                        "lang": "古英語"
+                                }
+                        ],
+                        "original_statement": "The word 'wink' originates from the Old English 'wincian', which means 'to close the eyes', and has evolved into its present form in Middle English."
+                },
+                "core_concept": {
+                        "en": "An ephemeral gesture of intimate communication.",
+                        "ja": "一瞬の親密なコミュニケーションの身振り"
+                },
+                "thinking_layer": "ウィンクとは、時間の流れの中で一瞬を切り取る行為である。人がその目を軽く閉じる瞬間に、時の流れは止まり、無限の意味がその小さな行為に込められる。時には愛のメッセージを、時には共謀のサインとして、ウィンクは人と人との距離を一瞬で消し去ってしまう。この瞬間の小さな動作の中には、伝えるべき言葉も、語るべき物語も詰め込めるのだ。人の目が語る物語は視覚的なものでありながら、心の声として響く。ウィンクとは、瞬く間に消えるが、心の中に永遠に刻まれる詩的なシンボルである。時の流れを超えたこの行為は、人々の間に橋を架け、その瞬間をより深く、その意味をより高くするのだ。",
+                "synonyms": [
+                        "blink",
+                        "twinkle"
+                ],
+                "antonyms": [
+                        "stare",
+                        "gaze"
+                ],
+                "aftertaste": "A wink carries a universe of meaning in a single, fleeting gesture.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "wincian",
+                                        "meaning": "to close the eyes"
+                                }
+                        ],
+                        "points": [
+                                "語源的にはウィンクは、目を軽く閉じ一瞬の内に気持ちを伝達する行為として歴史を持つ。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Old English"
+        },
+        {
+                "id": "garble",
+                "word": "Garble",
+                "part_of_speech": "verb",
+                "meaning": "意味を歪曲する、混乱させる",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "garbler",
+                                        "type": "root",
+                                        "meaning": "選別する",
+                                        "lang": "中世フランス語"
+                                },
+                                {
+                                        "text": "gharbal",
+                                        "type": "root",
+                                        "meaning": "ふるいにかける",
+                                        "lang": "アラビア語"
+                                }
+                        ],
+                        "original_statement": "The word 'garble' originates from the late Middle English period, adapted from the Anglo-French term 'garbler', meaning to sift or select, which in turn traces back to the medieval Latin 'garbellare', from the Arabic 'gharbal' indicating the act of sifting through a sieve."
+                },
+                "core_concept": {
+                        "en": "A poetic distortion through the sieve of meanings.",
+                        "ja": "意味の中でふるい分けられた詩的な歪み"
+                },
+                "thinking_layer": "「ガーブル」という言葉が持つ意味の進化には、言葉そのもののように混沌と整理の間の揺らぎが潜んでいます。この言葉は元々、物事をふるいにかけることに始まりました。ふるいは必然的に選別と排除の道具であり、そこに潜む可能性を外に放り出すのです。まるで現実の中から真実を取り出すように、人間の思考もややこしい状況の中で真実を見いだそうとします。しかし、現実は複雑で、多くの場合、そのような明晰な結果は得られません。この不可避の過程において、言葉が変形し、やがて「ガーブル」は意味をねじ曲げることを示すようになったのです。選り分け、真実を発見する試みの中で、我々は容易に本質を見失い、一方的な解釈を施す危険性を孕んでいます。それでもなお、ガーブルは私たちに、物事の背後を見極め、自分の内面と向き合うことの重要性を喚起しています。この尺度を超えた意味の多様性こそ、人間の知恵の一端を示しているのです。",
+                "synonyms": [
+                        "Distort",
+                        "Confuse"
+                ],
+                "antonyms": [
+                        "Clarify",
+                        "Explain"
+                ],
+                "aftertaste": "In the sieve of clarity, meaning dances onto the edge of confusion.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "garble",
+                                        "meaning": "to sift or select"
+                                }
+                        ],
+                        "points": [
+                                "言葉の歴史を遡ると、元々の意味という美しさとその変容が見える。変わらないことの中で変わっていく意義があるのだ。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Late Middle English"
+        },
+        {
+                "id": "scooch",
+                "word": "Scooch",
+                "part_of_speech": "verb",
+                "meaning": "少しずつ動く、または動かす",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "scooch-",
+                                        "type": "root",
+                                        "meaning": "少しずつの移動",
+                                        "lang": "English"
+                                }
+                        ],
+                        "original_statement": "The word 'scooch' first appeared in American English in the mid-20th century and is believed to be a playful alteration of 'scoot' or 'scouch'. It lacks clear roots but closely relates to similar movement verbs."
+                },
+                "core_concept": {
+                        "en": "The graceful dance of subtle movement.",
+                        "ja": "微細な動きの優雅な舞"
+                },
+                "thinking_layer": "『スクーチ』という言葉は、僅かな動きの芸術を表現している。人生とはしばしば巨大な変化でなく、小さな一歩の集合で織り成される舞踊である。その中で人々は、静かに物事を推し進め、時には流れに逆らわず、微風のように静かに進む。哲学的に考えると、スクーチとは時間の中に存在する微細な瞬間の結合であり、その二つの点の間での優雅で慎重な調和を示している。小さな移動は、我々の願い、感情、存在そのものの表現である。それは大地を滑りながら掌握する手段であり、意識の表層を通して無意識との対話を図る試みである。スクーチはまるで心のささやき、魂の微笑みのように、不可視の力を通じて現実を塗り替える。小さな距離の克服は時に、無限をも越えていく知恵として、我々が見失いやすい日々の中の神秘を照らし出す。スクーチ、それは人生というキャンバスに優しき筆を添える手段である。",
+                "synonyms": [
+                        "nudge",
+                        "shove"
+                ],
+                "antonyms": [
+                        "freeze",
+                        "anchor"
+                ],
+                "aftertaste": "Embrace the beauty of slight shifts.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "scoot",
+                                        "meaning": "to move quickly"
+                                }
+                        ],
+                        "points": [
+                                "『スクーチ』の起源は不明確だが、異なる方言や地域での変化を示す言葉として、日本語的には日常の中の小さな変化を表す。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "20th Century"
+        },
+        {
+                "id": "bark",
+                "word": "Bark",
+                "part_of_speech": "noun/verb",
+                "meaning": "木の外皮 / 犬が吠える声",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "bark",
+                                        "type": "root",
+                                        "meaning": "吠える / 外皮",
+                                        "lang": "Middle English, Old Norse, Old English"
+                                }
+                        ],
+                        "original_statement": "The word 'bark' is believed to derive from Middle English 'bark', which itself comes from Old Norse 'bǫrkr' for the outer covering of trees, and from Late Old English 'beorc'. The sense of a dog's harsh, loud vocalization is linked to a similar term in Scandinavian languages."
+                },
+                "core_concept": {
+                        "en": "A call from the heart of the wild, a boundary encapsulating life.",
+                        "ja": "野生の心からの呼び声、命を包む境界の創造性。"
+                },
+                "thinking_layer": "木の外皮としての「bark」は、地球の生命の周期を包み込む自然の布のようなものです。それは、時を超え、記憶と生命力を蓄える器としての役割を果たしています。同時に、「bark」の吠える声としての側面は、自然の声、生命の激動の音、あるいは警告の表現とも言えます。この言葉は、内向と外向の象徴であり、木の静けさと犬の咆哮という対照的な存在を通して、我々の進化的記憶を呼び起こします。「bark」が奏でる音は、境界を超えて広がる命の響きであり、無意識の中で深く共鳴します。この多義的な言葉は、静寂と騒音、成長と防御の間にある普遍的なバランスを描写しています。人生の道において、我々が出会う障壁と護りの意識、それらの調和の象徴としての古代の知恵が「bark」には秘められています。",
+                "synonyms": [
+                        "Cortex",
+                        "Woof"
+                ],
+                "antonyms": [
+                        "Silence"
+                ],
+                "aftertaste": "Within every bark, a universe whispers life.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "bark",
+                                        "meaning": "The protective outer covering of a tree or the vocal sound of a canine"
+                                }
+                        ],
+                        "points": [
+                                "語彙的な複合体「bark」は、時間を旅する自然界と人間の体験の橋渡しをします。木の外皮として、この言葉は自然の堅固な保護の象徴であり、また生命の反応としての動物の鳴き声として、コミュニケーションの原初的な形」を表しています。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Middle English, Old Norse, Old English"
+        },
+        {
+                "id": "umbrella",
+                "word": "Umbrella",
+                "part_of_speech": "noun",
+                "meaning": "雨や日光から身を守るための持ち手のある道具",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "umbra-",
+                                        "type": "root",
+                                        "meaning": "影",
+                                        "lang": "ラテン語"
+                                },
+                                {
+                                        "text": "-ella",
+                                        "type": "suffix",
+                                        "meaning": "小さなものを示す接尾辞",
+                                        "lang": "ラテン語"
+                                }
+                        ],
+                        "original_statement": "The word 'umbrella' originated from the Latin 'umbra', meaning 'shade' or 'shadow', with the diminutive suffix '-ella'."
+                },
+                "core_concept": {
+                        "en": "A poetic shield against the whims of weather.",
+                        "ja": "天候の気まぐれから守る詩的な盾"
+                },
+                "thinking_layer": "傘はただの道具ではなく、人生の象徴とも言える存在です。私たちの生活において、時には心の憂を晴らし、時には物理的な雨を避けてくれる存在です。日々の慌ただしい日常の中で、傘が開いた瞬間、私たちはどこか日常を離れるような感覚を覚えます。傘の下から見る世界は、視点を変えることで大きな違いをもたらし、日常的なものをあたかも異世界のように感じさせます。気まぐれな雨雲から、そして時には灼熱の太陽から私たちを守るのが傘の役割ですが、人生そのものが予測できないものであるように、我々が本当に守られることは少ないのかもしれません。それでも、傘を手に持ち、開く意志を保ち続けることは、未来への前向きな小さな抵抗と希望を示唆しています。日本の「雨」という儚さの美学においても、傘は欠かせない舞台装置であると言えるでしょう。",
+                "synonyms": [
+                        "parasol",
+                        "sunshade"
+                ],
+                "antonyms": [
+                        "exposure",
+                        "vulnerability"
+                ],
+                "aftertaste": "An umbrella encapsulates the harmony of protection and vulnerability.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "umbra",
+                                        "meaning": "shadow, shade"
+                                },
+                                {
+                                        "term": "-ella",
+                                        "meaning": "diminutive suffix"
+                                }
+                        ],
+                        "points": [
+                                "ラテン語の『umbra』は『影』を意味し、その上に小さなものを示す接尾辞『-ella』が付いたことで、微細で優美な印象を与える単語に成長しました。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary, Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "17th Century"
+        },
+        {
+                "id": "meat",
+                "word": "Meat",
+                "part_of_speech": "noun",
+                "meaning": "食肉",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "met-",
+                                        "type": "root",
+                                        "meaning": "食べ物",
+                                        "lang": "Old English"
+                                }
+                        ],
+                        "original_statement": "The word 'meat' originates from the Old English 'mete', meaning food or nourishment, and was first used in this broader sense before being narrowed down to signify animal flesh."
+                },
+                "core_concept": {
+                        "en": "The primal essence of sustenance and vitality.",
+                        "ja": "滋養と生命力の原始的な本質"
+                },
+                "thinking_layer": "肉という言葉は、単なる食物を超えて、私たちの存在の根幹にある欲求を映し出すものである。肉は人間の原始的な生存本能を象徴し、同時に、文化や宗教によって様々な意味を付与されてきた。特に、日本での肉料理の歴史は、禁忌と奢侈品の狭間を揺れ動く存在であり、私たちが自然界とどのように関わるかを映し出す鏡のようなものだ。肉が持つ濃厚な味わいは、私たちに生と死、そして共食の哲学的な問いを投げかける。肉を食するという行為は、往々にして倫理的な軋轢を生むが、それこそが我々の文化や信念を問い直す契機となる。肉は、肉体を育むと同時に、精神の糧としての役割も果たしているのだ。",
+                "synonyms": [
+                        "Flesh",
+                        "Protein"
+                ],
+                "antonyms": [
+                        "Vegetable",
+                        "Fruit"
+                ],
+                "aftertaste": "Meat is both a necessity and a reflection of human desires.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "mete",
+                                        "meaning": "food, nourishment"
+                                }
+                        ],
+                        "points": [
+                                "肉という語は、飢餓や豊かさを超えた根源的な人間の欲求を象徴している。"
+                        ]
+                },
+                "source": "Oxford English Dictionary, Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "Old English"
         }
 ];
