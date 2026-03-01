@@ -36053,5 +36053,474 @@ const WORDS = [
                 "source": "Online Etymology Dictionary",
                 "date": "2026-03-01",
                 "era": "Latin, Medieval Latin, circa 14th Century"
+        },
+        {
+                "id": "inspire",
+                "word": "Inspire",
+                "part_of_speech": "verb",
+                "meaning": "霊感を与える",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "in-",
+                                        "type": "prefix",
+                                        "meaning": "中に",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "spirare",
+                                        "type": "root",
+                                        "meaning": "息をする",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'inspire' traces back to the Latin inspirare, which means 'to breathe into'. It entered Middle English via Old French."
+                },
+                "core_concept": {
+                        "en": "To breathe life into the soul.",
+                        "ja": "魂に命を吹き込むこと。"
+                },
+                "thinking_layer": "『インスピレーション』という言葉には、単なる行為以上のものが隠されています。それはまるで目に見えない糸が私たちの魂に染み込んでいくような感覚を呼び起こすものです。古代の人々は、息をすること、つまり生命の証である呼吸と、神からの贈り物たる霊感を同一視していました。そのように、インスピレーションは我々を日常から引き離し、一時的に永遠という感覚に連れて行く能力を持つのです。現代においても、インスピレーションは自己という限界を超え、無限の可能性という領域に私たちを引き寄せます。それはまさに未知なるものが明らかになる瞬間であり、心臓の鼓動が急上昇する瞬間であり、宇宙が一瞬、自己意識の中に息吹を感じる瞬間なのです。その結果、人間は創造し、進化し、そして自らが宇宙の一部であることを再確認します。",
+                "synonyms": [
+                        "Motivate",
+                        "Encourage"
+                ],
+                "antonyms": [
+                        "Discourage",
+                        "Deter"
+                ],
+                "aftertaste": "Inspiration is the invisible breath that turns thoughts into reality.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "spirare",
+                                        "meaning": "To breathe"
+                                }
+                        ],
+                        "points": [
+                                "ラテン語の 'spirare' は '息をする' を意味し、生と生命力の象徴であった。古代では、呼吸そのものが神聖とされ、人と神をつなぐ行為とみなされた。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "14th Century"
+        },
+        {
+                "id": "lament",
+                "word": "Lament",
+                "part_of_speech": "noun/verb",
+                "meaning": "悲しみや後悔を表現すること",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "lament-",
+                                        "type": "root",
+                                        "meaning": "悲しむ",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "-are",
+                                        "type": "suffix",
+                                        "meaning": "すること",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'lament' comes from the Latin 'lamentari' meaning 'to wail, mourn'. This evolved into the Old French 'lamenter'."
+                },
+                "core_concept": {
+                        "en": "A profound expression of sorrow resonating with the echoes of the soul.",
+                        "ja": "魂の響きとともに共鳴する深い悲しみの表現"
+                },
+                "thinking_layer": "「悲しみ」とは、時に言葉を越える感情である。それは人類の歴史を貫く続く神聖で普遍的な経験である。魂に締め付けるような静寂が訪れる時、我々は感情の深淵を見つめる。嘆きは心の深層に宿る内なる叫びであり、それは耐え難い痛みでもあり、一種の浄化でもある。この内なる苦しみを表現することは、自己の内面と向き合い、理解するための一歩である。また、その傷が癒される過程を経て、人は再び立ち上がり、前へと進む力を取り戻す。悲しみから学び、共鳴を見出すこの旅路は、自己と他者への深い理解と同情を育む土壌である。言葉では言い尽くせないこの深淵の美は、詩や音楽、そして静寂の中にこそ顕れるのだろう。私たちは、人間の抵抗力と内面的な光への信頼を、嘆きを通して発見し続けているのだ。",
+                "synonyms": [
+                        "Mourn",
+                        "Grieve"
+                ],
+                "antonyms": [
+                        "Celebrate",
+                        "Rejoice"
+                ],
+                "aftertaste": "Lament remains a testament to the enduring power of the unspoken heart.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "lamentari",
+                                        "meaning": "to wail, mourn"
+                                }
+                        ],
+                        "points": [
+                                "ラテン語の『lamentari』は、直接的には「嘆く」ことを表し、これが英語における『lament』の語源である。"
+                        ]
+                },
+                "source": "Oxford English Dictionary, Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "14th Century Latin"
+        },
+        {
+                "id": "declare",
+                "word": "Declare",
+                "part_of_speech": "verb",
+                "meaning": "公然と述べるまたは宣言すること",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "de-",
+                                        "type": "prefix",
+                                        "meaning": "分離して",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "clarare",
+                                        "type": "root",
+                                        "meaning": "明らかにする",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'declare' originates from the Latin 'declarare', which means to make clear or reveal, influenced by the prefix 'de-', indicating intensification."
+                },
+                "core_concept": {
+                        "en": "To unveil the heart's intention.",
+                        "ja": "心の意図を解き放つこと"
+                },
+                "thinking_layer": "「宣言」とは、心の中に潜む真実を言葉として世に解き放つ行為である。人間は、思考や感情を言葉という媒体に変換し、それを他者と分かち合う。これは単なる情報の伝達にとどまらない——それは存在そのものを声に乗せ、時空を超えて響かせることである。宣言は自己の確立であり、また他との対話を始める第一歩でもある。その瞬間、一人の精神が孤立から解放され、他者との交差点を形成する。宣言することは、生きることにおける深い認識と、他者との絆を構築する種を蒔く行為でもある。言葉には重みがあり、それが受け取るものによって形を変える様は、まるで風に舞う羽のようだ。宣言は同時に、決断と変化の意思表示であり、新たな道を開く手段でもある。それは言う側の心を試し、聞く側の心を開かせる。静寂を破る声は、宇宙の中で新たな波動を生み出し、深淵に舞い降りる光となる。宣言することは、ただの行為の連続ではなく、魂の奥深くに響く壮大なシンフォニーの一部である。",
+                "synonyms": [
+                        "Proclaim",
+                        "Announce"
+                ],
+                "antonyms": [
+                        "Conceal",
+                        "Suppress"
+                ],
+                "aftertaste": "To declare is to illuminate the shadows of silence.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "clarare",
+                                        "meaning": "to make clear"
+                                }
+                        ],
+                        "points": [
+                                "ラテン語の 'de-' は強調を表し、'clarare' は「明らかにする」意味を持つ。これらの組み合わせにより、単なる情報伝達ではなく、意志ある発言という意味を含む深い概念が形成されている。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "Late Middle English, from Latin origin"
+        },
+        {
+                "id": "navigate",
+                "word": "Navigate",
+                "part_of_speech": "verb",
+                "meaning": "航行する、手段を講じる",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "navis-",
+                                        "type": "root",
+                                        "meaning": "船",
+                                        "lang": "ラテン語"
+                                },
+                                {
+                                        "text": "-agere",
+                                        "type": "suffix",
+                                        "meaning": "運転する、動かす",
+                                        "lang": "ラテン語"
+                                }
+                        ],
+                        "original_statement": "The word 'navigate' comes from the Latin 'navigare', meaning 'to sail', composed of 'navis' (ship) and 'agere' (to drive, to lead)."
+                },
+                "core_concept": {
+                        "en": "To steer a course through the unknown waters of life, with purpose and direction.",
+                        "ja": "未知なる人生の海を目的と方向を持って進むこと。"
+                },
+                "thinking_layer": "『ナビゲート』という言葉は現代社会における生き方の詩的なメタファーであり、人生という大海を自らの意志で漕ぎ進んでいく旅人の姿を描写している。人間はそれぞれ異なる航路を描いて進むが、その道には無数の選択肢と試練が待ち受けている。船を操りながら、自らの知識や経験を羅針盤とし、未知なる風景を探索する冒険者としての自己認識が求められる。このような視点は、人生の質を左右する意識的かつ感情的な姿勢を形成し、我々は日々の決断において真の意味を見出だすこととなる。ナビゲートとは単に目的地に到達するための行為ではない。それは自己の内省を深め、人生の意義を発見し育むための過程でもある。それ故に、この行為には詩的な美しさと哲学的深遠さが潜んでいる。未知の海を渡る旅人としての魂が求められるのである。",
+                "synonyms": [
+                        "Guide",
+                        "Steer"
+                ],
+                "antonyms": [
+                        "Wander",
+                        "Drift"
+                ],
+                "aftertaste": "Steering one's own destiny requires courage and wisdom.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "navis-",
+                                        "meaning": "ship"
+                                },
+                                {
+                                        "term": "-agere",
+                                        "meaning": "to drive or move"
+                                }
+                        ],
+                        "points": [
+                                "ラテン語から派生した『navigare』という言葉は、物理的な航行や精神的旅路を象徴するものである。航行術は古代から知られる技術であり、その背景には無数の文化が紡ぎ出した神話や伝承が織り込まれている。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "Late Middle English from Latin navigare"
+        },
+        {
+                "id": "consent",
+                "word": "Consent",
+                "part_of_speech": "noun/verb",
+                "meaning": "同意、承諾",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "con-",
+                                        "type": "prefix",
+                                        "meaning": "ともに",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "sentire",
+                                        "type": "root",
+                                        "meaning": "感じる",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'consent' originates from the Latin 'consentire', which means to feel together, from 'con-' (together) and 'sentire' (to feel)."
+                },
+                "core_concept": {
+                        "en": "A harmonious alignment of hearts.",
+                        "ja": "心の調和の取れた一致"
+                },
+                "thinking_layer": "「同意」とは、二つ以上の魂が微妙な調和を保ちながら共鳴し合うことである。この行為は、個の意思が他者と感覚を共有し、意識の交差点で一つとなる神秘的な儀式のようである。深く考えてみると、同意は単なる合意や承諾を超え、参与者同士の共鳴による美しいシンフォニーである。人間は、本質的に孤独な存在でありながら、互いに理解し合うことで心の通いを求め続ける。同意は、異なる思考や感情が交錯する中で見出された、一筋の光のようなもの。この光は、長い暗闇の中で一瞬のきらめきとして我々を導いてくれる。我々が「同意」に至る瞬間、そこには静かでありながら確固たる絆が生まれ、個々の心は互いに響き合いながら共に成長していく。このようにして、人類は無数の分岐がある道を共有することで、より深い愛と認識に到達する旅を続けるのである。",
+                "synonyms": [
+                        "agreement",
+                        "assent"
+                ],
+                "antonyms": [
+                        "refusal",
+                        "discord"
+                ],
+                "aftertaste": "Consent is a quiet pact between souls, echoing a delicate harmony.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "sentire",
+                                        "meaning": "to feel"
+                                }
+                        ],
+                        "points": [
+                                "語源的に「感覚をともにする」という意を持つことから、同意は他者と心を通わせる行為である。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "14th Century"
+        },
+        {
+                "id": "cement",
+                "word": "Cement",
+                "part_of_speech": "noun",
+                "meaning": "接合材",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "caementum",
+                                        "type": "root",
+                                        "meaning": "荒石",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'cement' derives from the Latin 'caementum', which means rough stone or rubble.",
+                        "core_concept": {
+                                "en": "A binding force that holds disparate elements into unity.",
+                                "ja": "異なるものを一つに結びつける力"
+                        },
+                        "thinking_layer": "セメントとは、物理的な結合を超えて、感情的、精神的、歴史的に多様な要素を一つにまとめ上げる動的な力である。我々の文化や文明が進化する過程で、それは単なる物質的な接着剤ではなく、共同体の基盤であり、絆を形成し続けてきた。セメントは、人と人との間に見えない橋をかけ、不和の隙間を埋める。時として、それは崩れゆく時代の中で不変の証として立ち、流転する風景の中で永遠の記章となる。このように、物質的世界と精神的世界を織り交ぜる存在として、セメントは我々の集団的な未来を築くための象徴である。それは生命の巡礼であり、新たな地平に向かうための旅路を照らす灯火でもある。各々の人物が互いに補完し合い、共通の目的のために力を合わせるその中心に、常にセメントは存在している。",
+                        "synonyms": [
+                                "Adhesive",
+                                "Bond"
+                        ],
+                        "antonyms": [
+                                "Fragment",
+                                "Separate"
+                        ],
+                        "aftertaste": "Cement is the silent architect of collective dreams.",
+                        "deep_dive": {
+                                "roots": [
+                                        {
+                                                "term": "caementum",
+                                                "meaning": "rough stone"
+                                        }
+                                ],
+                                "points": [
+                                        "セメントの語源は、その形ある機能以上に、それが人類の歴史において果たしてきた精神的役割を示唆する。"
+                                ]
+                        },
+                        "source": "Oxford English Dictionary",
+                        "date": "2026-03-01",
+                        "era": "1st Century BCE, Latin origin"
+                }
+        },
+        {
+                "id": "complexity",
+                "word": "Complexity",
+                "part_of_speech": "noun",
+                "meaning": "複雑な性質または状態",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "com-",
+                                        "type": "prefix",
+                                        "meaning": "共に",
+                                        "lang": "ラテン語"
+                                },
+                                {
+                                        "text": "plex-",
+                                        "type": "root",
+                                        "meaning": "編む、絡ませる",
+                                        "lang": "ラテン語"
+                                },
+                                {
+                                        "text": "-ity",
+                                        "type": "suffix",
+                                        "meaning": "性質",
+                                        "lang": "英語"
+                                }
+                        ],
+                        "original_statement": "The term 'complexity' originates from the Latin 'complexus', which meant 'surround' or 'embrace'. Later, it encompassed the notion of intertwining or entanglement."
+                },
+                "core_concept": {
+                        "en": "A tapestry of interwoven elements, creating an intricate dance of chaos and order.",
+                        "ja": "絡み合った要素の織物、混沌と秩序の精緻な舞の創造"
+                },
+                "thinking_layer": "複雑さとは、世界の無数の要素が織りなす壮大な交響曲である。個々の要素がそれぞれの役割を果たしつつ、予測不能な変化を遂げる。それは生命そのもののメタファであり、単なる問題の解決を超え、存在そのものの本質を探求するプロセスである。我々が目の当たりにする自然の美、社会の構造、そして自己の内面もまた、複雑さが支配する舞台である。複雑性とは、一見無秩序に見える中に潜む、目に見えぬ秩序を解き明かす道であり、無限の可能性を秘めた地平線の彼方を暗示するものである。この壮大なパラドックスを理解することは、人間の叡智の終わりなき追求へと誘う。複雑さは、全てを包含する神秘の渦であり、その先に待ち受ける未知の真実に我々を駆り立て続ける。複雑という布の一本一本の糸が、宇宙と謎という名の楽譜を編んでいるのだ。",
+                "synonyms": [
+                        "Intricacy",
+                        "Complication"
+                ],
+                "antonyms": [
+                        "Simplicity",
+                        "Plainness"
+                ],
+                "aftertaste": "Embrace the beautiful enigma that complexity offers.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "com-",
+                                        "meaning": "together"
+                                },
+                                {
+                                        "term": "plexus",
+                                        "meaning": "woven"
+                                }
+                        ],
+                        "points": [
+                                "複雑性は、現実が一致する多層の文脈を通じて構築される概念であり、理解は個々の部分が全体像に如何に影響を与えるかを考察することにある。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "14th Century, Latin origin"
+        },
+        {
+                "id": "latte",
+                "word": "Latte",
+                "part_of_speech": "noun",
+                "meaning": "ミルク入りのコーヒー",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "latte-",
+                                        "type": "root",
+                                        "meaning": "ミルク",
+                                        "lang": "Italian"
+                                }
+                        ],
+                        "original_statement": "The word 'latte' is derived from the Italian word for milk, reflecting the drink's main component."
+                },
+                "core_concept": {
+                        "en": "An elegant blend of warmth and fortitude.",
+                        "ja": "温かさと強さの優雅な融合"
+                },
+                "thinking_layer": "カフェラテの杯を手にする時、我々は単に飢えを満たすのではなく、心の安らぎと瞬間の美を求めている。本来「ラッテ」という丸みを帯びた言葉は、イタリア語で「牛乳」を意味し、優しく包み込むような音色を持つ。ミルクの滑らかさは苦いコーヒーを中和し、互いに異なる要素が調和の中で一体となる。人生もまた、そのような異なる感情、体験、願望が混ざり合い、一つの物語を織り成す。時には苦く、時には甘い。この杯の中には、各々が描く人生の物語のかけらが詰まっている。そして、その一口ごとに、私たちの感覚は過去、現在、未来へと旅をするのだ。バロックの喧騒を越え、静寂を求め、個と全体のハーモニーを見出す。カフェラテは単なる飲み物ではなく、生命の輝きを映し出す鏡、不可視の感情を言語にするための詩的な道具である。",
+                "synonyms": [
+                        "Café au lait",
+                        "Macchiato"
+                ],
+                "antonyms": [
+                        "Espresso"
+                ],
+                "aftertaste": "In simplicity, it finds its charm.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "latte",
+                                        "meaning": "milk"
+                                }
+                        ],
+                        "points": [
+                                "イタリア語の 'latte' は牛乳を意味し、コーヒー飲料に付加されることで、そのまろやかさと癒しの象徴となっている。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "17th Century"
+        },
+        {
+                "id": "exhibit",
+                "word": "Exhibit",
+                "part_of_speech": "noun/verb",
+                "meaning": "展示する、示すこと",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "ex-",
+                                        "type": "prefix",
+                                        "meaning": "外に",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "habere",
+                                        "type": "root",
+                                        "meaning": "持つ",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "Originally from Latin 'exhibere', and hence 'exhibit', implying 'to hold out' or 'to present'."
+                },
+                "core_concept": {
+                        "en": "A dance of revelation, wearing the garment of visibility.",
+                        "ja": "顕現の舞、見える服をまとって"
+                },
+                "thinking_layer": "私たちの思考の星座には、物事を示し、展示するという概念がある。この行為は単に物理的な現れ以上のものを内包している。それは心の輝く幾何学であり、他者の視界に何かを寄贈する行為とも言える。展示とは、自分の内部と外部を繋ぐ行為であり、内なる宇宙を外へと放つプロセスでもある。展示することによって、私たちは独自の真実を他者に明かし、その影響を他者にもたらす。それはまた、私たちの存在の一部を解放する行為でもあり、結局は自己理解の一助となる。見る者と示す者、それぞれの視点から見るとき、展示という行為は時間と空間を越えた対話を可能にする。展示とは、他者と分かち合い、共感を育むための哲学的な命題であり、フィロソフィーが日々の営みの中で体現される瞬間なのだ。そこには見えない感情の波があり、それを展示することで初めて実在の世界に波及する力を持つ。私たちは、他者に展示することで人間という存在を互いに理解し合おうとする。自己を展示するとは、確かな存在という灯火を世界に投げかける行為である。展示の本質に迫ろうとするとき、我々は言葉にできぬ感情の奥深い宇宙に足を踏み入れているのかもしれない。",
+                "synonyms": [
+                        "Display",
+                        "Show"
+                ],
+                "antonyms": [
+                        "Conceal",
+                        "Hide"
+                ],
+                "aftertaste": "The exhibition is a silent dialogue between creator and observer, transcending the ordinary.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "exhibere",
+                                        "meaning": "to hold out, to present"
+                                }
+                        ],
+                        "points": [
+                                "ラテン語の'exhibere'は外見の繋がりを示し、持つという行為を通じて他者にその存在を示した。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Late Latin (16th Century)"
         }
 ];
