@@ -469,10 +469,12 @@ async function renderConnections() {
 
 function renderArchive() {
     viewContainer.innerHTML = `
-        <div class="archive-container fade-in">
-            <div style="max-width:600px; margin: 0 auto 3rem auto; position:relative;">
+            <div style="max-width:600px; margin: 0 auto 1.5rem auto; position:relative;">
                 <input type="text" id="archive-search" placeholder="Search by word or meaning..." value="${State.searchFilter || ''}" style="width:100%; padding:1.2rem 3rem; background:var(--color-surface); border:1px solid var(--color-border); border-radius:100px; color:white; font-size:1.1rem;">
                 <span style="position:absolute; left:1.2rem; top:50%; transform:translateY(-50%); opacity:0.5;">🔍</span>
+            </div>
+            <div id="archive-stats" style="text-align:center; margin-bottom:2rem; font-size:0.9rem; color:var(--color-text-dim);">
+                <!-- Total count will be here -->
             </div>
             <div class="alphabet-bar" style="display:flex; flex-wrap:wrap; gap:6px; margin-bottom: 3rem; justify-content:center;">
                 ${'ABCDEFGHIJKLMNOPQRSTUVWXYZ'.split('').map(l => `
@@ -502,6 +504,7 @@ function updateArchiveGrid() {
     if (!grid) return;
 
     let list = (typeof WORDS !== 'undefined') ? [...WORDS] : [];
+    const totalCount = list.length;
     list.sort((a, b) => a.word.localeCompare(b.word));
 
     // 非表示フィルタの適用
@@ -519,6 +522,15 @@ function updateArchiveGrid() {
         );
     } else if (State.letterFilter) {
         list = list.filter(w => w.word.toUpperCase().startsWith(State.letterFilter));
+    }
+
+    const statsElem = document.getElementById('archive-stats');
+    if (statsElem) {
+        if (State.searchFilter || State.letterFilter) {
+            statsElem.innerHTML = `Found <b style="color:var(--color-accent);">${list.length}</b> / <b style="color:var(--color-text);">${totalCount}</b> total words in Archive`;
+        } else {
+            statsElem.innerHTML = `Exploration Archive: <b style="color:var(--color-text); font-size:1.2rem;">${totalCount}</b> total words`;
+        }
     }
 
     grid.innerHTML = list.map(w => `
