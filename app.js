@@ -216,6 +216,12 @@ async function loadReflections(targetId, targetAuthor, wordName) {
                         </div>
                     </div>
                     <p style="font-size:1.1rem; line-height: 1.7; margin-bottom: 1.5rem;">${r.content}</p>
+                    <div style="display:flex; align-items:center; gap:0.5rem; margin-bottom:1.5rem;">
+                        <button id="fl-btn-${r.id}" onclick="toggleFlourish('reflection', ${r.id}, this)"
+                            style="background:none; border:1px solid var(--color-border); color:var(--color-text-dim); font-size:0.82rem; padding:0.35rem 0.9rem; border-radius:100px; cursor:pointer; transition:all 0.2s; display:flex; align-items:center; gap:4px;">
+                            ✦ Flourish · <span class="fl-cnt" id="fl-cnt-${r.id}">…</span>
+                        </button>
+                    </div>
                     <div style="margin-left: 2rem; border-left: 2px solid var(--color-accent); padding-left: 1.5rem;">
                         ${r.replies.map(rep => `
                             <div style="font-size:0.95rem; margin-bottom:0.8rem; display:flex; justify-content:space-between;">
@@ -241,6 +247,23 @@ async function loadReflections(targetId, targetAuthor, wordName) {
             });
         } catch (e) {
             console.error("Failed to load reflections", e);
+        }
+
+        // Flourishカウントを非同期で取得
+        if (data && Array.isArray(data)) {
+            data.forEach(r => {
+                apiGet(`/api/flourish-count?target_type=reflection&target_id=${r.id}&username=${State.currentUser || ''}`)
+                    .then(fc => {
+                        const cnt = document.getElementById(`fl-cnt-${r.id}`);
+                        const btn = document.getElementById(`fl-btn-${r.id}`);
+                        if (cnt) cnt.textContent = fc.count;
+                        if (btn && fc.flourished) {
+                            btn.style.borderColor = 'var(--color-premium)';
+                            btn.style.color = 'var(--color-premium)';
+                            btn.dataset.flourished = 'true';
+                        }
+                    }).catch(() => { });
+            });
         }
     }
 
@@ -289,14 +312,12 @@ function setupReflectionForm(targetId, targetAuthor, wordName) {
                 });
 
                 if (res.status === 'success') {
-                    showToast('思索が投稿されました');
+                    showRichToast('✦ 思索が宇宙へと放たれました', '言葉は今、誰かの心に届こうとしています。');
                     refInput.value = '';
                     if (charCount) charCount.textContent = '0 / 300 characters';
                     // 再読み込み
                     if (State.isPremium) {
                         await loadReflections(targetId, targetAuthor, wordName);
-                    } else {
-                        showToast('投稿完了。プレミアム登録すると他者の思索も閲覧できます。');
                     }
                 } else {
                     showToast('投稿エラーが発生しました');
@@ -621,7 +642,7 @@ function renderEssayForm() {
             title: document.getElementById('e-title').value,
             content: document.getElementById('e-content').value
         });
-        if (res.status === 'success') { showToast('Essay Published.'); navigate('essays'); }
+        if (res.status === 'success') { showRichToast('✦ Essay Published', 'あなたの思索が世界に放たれました。'); navigate('essays'); }
         else showToast(res.message);
     };
 }
@@ -1232,7 +1253,55 @@ function renderTimeline() {
 
 
 
+
+// --- Flourish トグル ---
+async function toggleFlourish(targetType, targetId, btn) {
+    if (!State.currentUser) { showToast('ログインが必要です'); return; }
+    const res = await apiPost('/api/flourish', {
+        username: State.currentUser, target_type: targetType, target_id: targetId
+    });
+    if (res.status === 'success') {
+        const cnt = document.getElementById(`fl-cnt-${targetId}`);
+        if (cnt) cnt.textContent = res.count;
+        if (res.action === 'added') {
+            btn.style.borderColor = 'var(--color-premium)';
+            btn.style.color = 'var(--color-premium)';
+            btn.dataset.flourished = 'true';
+        } else {
+            btn.style.borderColor = 'var(--color-border)';
+            btn.style.color = 'var(--color-text-dim)';
+            btn.dataset.flourished = 'false';
+        }
+    }
+}
+
+// --- リッチトースト ---
+function showRichToast(title, sub) {
+    const old = document.getElementById('rich-toast');
+    if (old) old.remove();
+    const el = document.createElement('div');
+    el.id = 'rich-toast';
+    el.innerHTML = `
+        <div style="font-weight:700; font-size:1rem; margin-bottom:0.25rem;">${title}</div>
+        <div style="font-size:0.82rem; opacity:0.8;">${sub}</div>
+    `;
+    Object.assign(el.style, {
+        position: 'fixed', bottom: '2.5rem', left: '50%', transform: 'translateX(-50%) translateY(20px)',
+        background: 'var(--color-primary)', color: 'white',
+        padding: '1rem 2rem', borderRadius: '16px',
+        boxShadow: '0 8px 32px rgba(0,0,0,0.3)',
+        textAlign: 'center', zIndex: '2000',
+        opacity: '0', transition: 'all 0.4s cubic-bezier(0.4,0,0.2,1)',
+        border: '1px solid rgba(245,158,11,0.3)',
+        minWidth: '260px'
+    });
+    document.body.appendChild(el);
+    setTimeout(() => { el.style.opacity = '1'; el.style.transform = 'translateX(-50%) translateY(0)'; }, 20);
+    setTimeout(() => { el.style.opacity = '0'; el.style.transform = 'translateX(-50%) translateY(10px)'; setTimeout(() => el.remove(), 400); }, 3500);
+}
+
 function showToast(msg) {
+
     const container = document.getElementById('toast-container');
     const t = document.createElement('div');
     t.className = 'toast'; t.textContent = msg; container.appendChild(t);

@@ -68,6 +68,9 @@ def init_db():
                                     (id SERIAL PRIMARY KEY, username TEXT, type TEXT, message TEXT, link TEXT, date TEXT, is_read BOOLEAN DEFAULT FALSE)''')
                     cur.execute('''CREATE TABLE IF NOT EXISTS user_essays 
                                     (id SERIAL PRIMARY KEY, title TEXT, content TEXT, author TEXT, date TEXT, is_deleted BOOLEAN DEFAULT FALSE)''')
+                    cur.execute('''CREATE TABLE IF NOT EXISTS flourishes
+                                    (id SERIAL PRIMARY KEY, username TEXT, target_type TEXT, target_id INTEGER,
+                                     UNIQUE(username, target_type, target_id))''')
                 else:
                     cur.execute('''CREATE TABLE IF NOT EXISTS users 
                                     (username TEXT PRIMARY KEY, password TEXT, is_premium BOOLEAN DEFAULT 0, is_operator BOOLEAN DEFAULT 0)''')
@@ -87,6 +90,9 @@ def init_db():
                                     (id INTEGER PRIMARY KEY AUTOINCREMENT, username TEXT, type TEXT, message TEXT, link TEXT, date TEXT, is_read INTEGER DEFAULT 0)''')
                     cur.execute('''CREATE TABLE IF NOT EXISTS user_essays 
                                     (id INTEGER PRIMARY KEY AUTOINCREMENT, title TEXT, content TEXT, author TEXT, date TEXT, is_deleted INTEGER DEFAULT 0)''')
+                    cur.execute('''CREATE TABLE IF NOT EXISTS flourishes
+                                    (id INTEGER PRIMARY KEY AUTOINCREMENT, username TEXT, target_type TEXT, target_id INTEGER,
+                                     UNIQUE(username, target_type, target_id))''')
                 
                 # スキーマの自動アップグレード（カラムが足りない場合に追加）
                 if DATABASE_URL:
@@ -146,6 +152,121 @@ def is_operator(username):
     return bool(res[0]) if res else False
 
 # --- アカウント・UGC管理機能 ---
+
+def add_notification(username, notif_type, message, link=''):
+    """指定ユーザーに通知を追加する"""
+    try:
+        conn = get_db_connection()
+        p = get_placeholder()
+        today = datetime.date.today().isoformat()
+        with conn:
+            with conn.cursor() as cur:
+                cur.execute(
+                    f"INSERT INTO notifications (username, type, message, link, date) VALUES ({p},{p},{p},{p},{p})",
+                    (username, notif_type, message, link, today)
+                )
+        conn.close()
+    except Exception as e:
+        print(f"Notification error: {e}")
+
+@app.route('/api/flourish', methods=['POST'])
+def toggle_flourish():
+    """Flourishのトグル（追加/削除）"""
+    data = request.json
+    username    = data.get('username')
+    target_type = data.get('target_type')  # 'reflection' or 'essay'
+    target_id   = data.get('target_id')
+
+    if not username:
+        return jsonify(status='error', message='ログインが必要です'), 401
+
+    conn = get_db_connection()
+    p = get_placeholder()
+    try:
+        with conn:
+            with conn.cursor() as cur:
+                # 既にflourish済みか確認
+                cur.execute(
+                    f"SELECT id FROM flourishes WHERE username={p} AND target_type={p} AND target_id={p}",
+                    (username, target_type, target_id)
+                )
+                existing = cur.fetchone()
+
+                if existing:
+                    # 取り消し
+                    cur.execute(
+                        f"DELETE FROM flourishes WHERE username={p} AND target_type={p} AND target_id={p}",
+                        (username, target_type, target_id)
+                    )
+                    action = 'removed'
+                else:
+                    # 追加
+                    cur.execute(
+                        f"INSERT INTO flourishes (username, target_type, target_id) VALUES ({p},{p},{p})",
+                        (username, target_type, target_id)
+                    )
+                    action = 'added'
+
+                    # 投稿者に通知（自分自身には送らない）
+                    if target_type == 'reflection':
+                        cur.execute(f"SELECT username FROM reflections WHERE id={p}", (target_id,))
+                    else:
+                        cur.execute(f"SELECT author FROM user_essays WHERE id={p}", (target_id,))
+                    row = cur.fetchone()
+                    if row and row[0] != username:
+                        add_notification(
+                            row[0],
+                            'flourish',
+                            f'{username} があなたの投稿を繁栄させました ✦',
+                            ''
+                        )
+
+                # カウントを返す
+                cur.execute(
+                    f"SELECT COUNT(*) FROM flourishes WHERE target_type={p} AND target_id={p}",
+                    (target_type, target_id)
+                )
+                count = cur.fetchone()[0]
+
+        return jsonify(status='success', action=action, count=count)
+    except Exception as e:
+        print(f"Flourish error: {e}")
+        return jsonify(status='error', message=str(e)), 500
+    finally:
+        conn.close()
+
+@app.route('/api/flourish-count', methods=['GET'])
+def get_flourish_count():
+    """Flourishカウントと自分がflourish済みかを返す"""
+    target_type = request.args.get('target_type')
+    target_id   = request.args.get('target_id')
+    username    = request.args.get('username', '')
+
+    conn = get_db_connection()
+    p = get_placeholder()
+    try:
+        with conn:
+            with conn.cursor() as cur:
+                cur.execute(
+                    f"SELECT COUNT(*) FROM flourishes WHERE target_type={p} AND target_id={p}",
+                    (target_type, target_id)
+                )
+                count = cur.fetchone()[0]
+
+                flourished = False
+                if username:
+                    cur.execute(
+                        f"SELECT id FROM flourishes WHERE username={p} AND target_type={p} AND target_id={p}",
+                        (username, target_type, target_id)
+                    )
+                    flourished = bool(cur.fetchone())
+
+        return jsonify(count=count, flourished=flourished)
+    except Exception as e:
+        return jsonify(count=0, flourished=False)
+    finally:
+        conn.close()
+
 
 @app.route('/api/delete-account', methods=['POST'])
 def delete_account():
