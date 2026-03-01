@@ -1297,53 +1297,53 @@ const WORDS = [
                 "id": "adventure",
                 "word": "Adventure",
                 "part_of_speech": "noun",
-                "meaning": "冒険をすること、未知の体験",
-                "author": "etymon_official",
+                "meaning": "冒険、予期せぬ出来事",
                 "etymology": {
                         "breakdown": [
                                 {
                                         "text": "ad-",
                                         "type": "prefix",
-                                        "meaning": "に向かって",
-                                        "lang": "Latin"
+                                        "meaning": "to, toward"
                                 },
                                 {
                                         "text": "venire",
                                         "type": "root",
-                                        "meaning": "来る",
-                                        "lang": "Latin"
-                                }
-                        ],
-                        "original_statement": "From Old French 'aventure', from Vulgar Latin 'adventura', meaning 'that which happens by chance.'"
-                },
-                "core_concept": {
-                        "en": "The longing call of the unknown heart.",
-                        "ja": "未知への心の呼び声"
-                },
-                "thinking_layer": "冒険という言葉は、我々の魂の深遠なる憧憬を表す詩的な概念として、ただの行動ではなくその裏に潜む人間の渇望を映し出します。未知へと踏み出す道中で、恐怖の影が追いかけることもあれば、新たな発見の喜びに満たされることもあります。この単語は、我々の内なる冒険心を照らし、刻一刻と変わる時の流れに身を投じる勇気を象徴しています。冒険の真髄は、物理的な移動に留まらず、魂の進化の旅を意味します。それは、目に見えない結末を手探りしながらも、その道程がすでに目的地であるかのように感じられる旅路。この旅は、我々にとって時間と空間の束縛を超越し、永遠の問いとなる：何が私を動かすのか、そしてどこへ行くのか。勇敢に一歩を踏み出すことが、最も深い自己との対話を促すのです。",
-                "synonyms": [
-                        "Quest",
-                        "Expedition"
-                ],
-                "antonyms": [
-                        "Safety",
-                        "Certainty"
-                ],
-                "aftertaste": "Adventure is the heartbeat of unseen horizons.",
-                "deep_dive": {
-                        "roots": [
-                                {
-                                        "term": "venire",
                                         "meaning": "to come"
                                 }
                         ],
+                        "original_statement": "From Old French aventure, from Latin adventurus 'about to happen'."
+                },
+                "core_concept": {
+                        "en": "What is coming to you",
+                        "ja": "向こうからこちらへ、やって来るもの"
+                },
+                "thinking_layer": "「冒険」とは、自分から探しに行くものだけではありません。本来は、未来から自分へと「やって来る（ad-venire）」出来事そのものを指します。私たちが運命に心を開くとき、日常のすべてが冒険へと変わるのです。",
+                "synonyms": [
+                        "exploit",
+                        "quest"
+                ],
+                "antonyms": [
+                        "routine",
+                        "security"
+                ],
+                "aftertaste": "不意に訪れる運命の足音",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "ad-",
+                                        "meaning": "toward"
+                                },
+                                {
+                                        "term": "venire",
+                                        "meaning": "come"
+                                }
+                        ],
                         "points": [
-                                "ラテン語に由来する 'ad-' は方向性や目的を示し、'venire' は動くことを意味します。これが組み合わさり、冒険は意図をもって未知に向かうことを表します。"
+                                "event, prevent, conveneなども同じ語根を持ちます。"
                         ]
                 },
-                "source": "Oxford English Dictionary",
-                "date": "2026-03-01",
-                "era": "12th Century"
+                "source": "etymon philologist mode",
+                "era": "14th Century Old French"
         },
         {
                 "id": "adventurous",
@@ -1700,6 +1700,58 @@ const WORDS = [
                 "part_of_speech": "adjective",
                 "meaning": "口を大きく開けた",
                 "era": "Ancient Greek"
+        },
+        {
+                "id": "agency",
+                "word": "Agency",
+                "part_of_speech": "noun",
+                "meaning": "代理または作用する力",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "agere-",
+                                        "type": "root",
+                                        "meaning": "動く",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "-cy",
+                                        "type": "suffix",
+                                        "meaning": "状態または行動",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "Derived from Latin 'agentia' meaning action or operation, ultimately from 'agere' meaning to act or to move."
+                },
+                "core_concept": {
+                        "en": "The dance between will and action, a symphony of purpose.",
+                        "ja": "意思と行動が響き合う、目的の交響詩"
+                },
+                "thinking_layer": "「エージェンシー」という言葉は、人間の意思と力が世界にどのように影響を及ぼすかを探る、哲学的な概念である。例えば、一個人がどのようにして自己を定義し、環境に働きかけるかという命題に関連する。エージェンシーは、内的なモティベーションと外的な状況が絡み合う複雑なダイナミクスを表している。それは、多様な可能性が輻輳する中で、意志がどのようにして具体的な行動となり、結果を生むのかを考究する糸口である。また、エージェンシーは、主体性を持った個が自己実現を遂げる道筋を示す光ともいえる。人間が自らの選択を通じてどのように世界に介入し、変化を促すか。そのプロセスの中で、エージェンシーはただの行動力を超え、生存という舞台における主役たり得るだろう。したがって、エージェンシーを考えることは、存在そのものと可能性、それに関わる責 任と思考の自由についての探求である。",
+                "synonyms": [
+                        "Power",
+                        "Influence"
+                ],
+                "antonyms": [
+                        "Inactivity",
+                        "Passivity"
+                ],
+                "aftertaste": "Agency is the silent force that whispers potential into the ears of existence.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "agere",
+                                        "meaning": "to act, to move"
+                                }
+                        ],
+                        "points": [
+                                "エージェンシーは『agere』から派生しており、これは移動や行動の概念と深く結びついている。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Late Middle English (from Latin)"
         },
         {
                 "id": "agenda",
@@ -5669,6 +5721,52 @@ const WORDS = [
                 "era": "Late Latin origin"
         },
         {
+                "id": "artist",
+                "word": "Artist",
+                "part_of_speech": "noun",
+                "meaning": "芸術家や創造的活動をする人",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "art-",
+                                        "type": "root",
+                                        "meaning": "技術、芸術",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'artist' is derived from the Latin 'artista', which comes from 'ars', meaning art or skill."
+                },
+                "core_concept": {
+                        "en": "A vessel of creativity, a master who molds the formless into emotion.",
+                        "ja": "創造の器、形なきものを感情に変える達人"
+                },
+                "thinking_layer": "芸術家という言葉は、単なる技術者以上の存在を表している。芸術家は、物質的な形を超えたところにある思考や感情を、目に見える形に具現化する魔術師である。彼らの行為は宇宙と繋がり、時と場所を超えて人々の心に問いを投げかける。キャンバスや石版は単なる媒体ではなく、彼らの精神の深淵を覗き見る窓となる。芸術とは無限の可能性を秘めた言語であり、その言語を通じて人類は自らを探求する旅に出る。創造の過程は、混沌から秩序を生み出し、瞬間を永遠に留めようとする試みである。芸術家の役割とは、存在の真理を探し続けることであり、その過程で自己の内なる世界を外部に投影し、他者と共有することである。詩情溢れる世界を作り出す彼らの手は、まるで神のように新たな宇宙を創造し続ける。彼らの作品は、静かに語りかけ、心の扉を叩くのだ。これはただの技術ではなく、深い魂の探求である。",
+                "synonyms": [
+                        "Creative",
+                        "Artisan"
+                ],
+                "antonyms": [
+                        "Philistine",
+                        "Ignoramus"
+                ],
+                "aftertaste": "An artist shapes the unseen into the seen, revealing truths through beauty.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "ars",
+                                        "meaning": "art or skill"
+                                }
+                        ],
+                        "points": [
+                                "『アート』という語源はラテン語に由来し、それは主に技術や芸術を指している。この概念は、時間と共に発展し、単なる技術から精神的な深さを探求する創造の源泉として進化してきた。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "Middle Ages"
+        },
+        {
                 "id": "aspect",
                 "word": "Aspect",
                 "part_of_speech": "noun",
@@ -7325,53 +7423,49 @@ const WORDS = [
                 "id": "believe",
                 "word": "Believe",
                 "part_of_speech": "verb",
-                "meaning": "信じるという行為や状態",
-                "author": "etymon_official",
+                "meaning": "信じる、価値を認める",
                 "etymology": {
                         "breakdown": [
                                 {
                                         "text": "be-",
                                         "type": "prefix",
-                                        "meaning": "強調",
-                                        "lang": "Old English"
+                                        "meaning": "intensive / about"
                                 },
                                 {
-                                        "text": "lief",
+                                        "text": "leubh-",
                                         "type": "root",
-                                        "meaning": "愛する、信頼する",
-                                        "lang": "Proto-Germanic"
+                                        "meaning": "to love, care, desire"
                                 }
                         ],
-                        "original_statement": "The word derives from the Old English 'belȳfan', which combines 'be-' (intensive prefix) with 'gelēfan' (to believe), rooted in the Proto-Germanic '*ga-laubjan' meaning 'to hold dear, to love'."
+                        "original_statement": "From Old English belyfan, from Proto-Germanic galaubjan 'to hold dear'."
                 },
                 "core_concept": {
-                        "en": "To hold truth and trust in the unseen, a faithful embrace of the intangible.",
-                        "ja": "目に見えないものへの信頼と真実の保持"
+                        "en": "To hold dear",
+                        "ja": "愛すべきものとして、大切に抱きしめる"
                 },
-                "thinking_layer": "信じることは、視覚や知覚ではなく魂の深みから昇る光のようなものと言えます。それは、一度も触れたことのない存在を心で掴む旅でもあります。目に見えるものが全てではないと悟るとき、その心の裏付けを必要とする思いが信じる行為の中に息づいています。信じるという行為は、自分自身や他者、あるいは見えない未来に対する寄りかかるような、柔らかさと強さを兼ね備えた言葉です。まるで目を閉じていても、日差しが肌に当たって温かさを感じるように、信じるという行為も理論や証拠を超えた場所で生まれます。命という川が流れるならば、信じるとはその流れの音楽に身を任せることとも言えるでしょう。私たちが何かを真摯に信じるとき、そこには恐れも不確定も越えた静かな確信と愛情があります。信じることの中に潜む静けさは、人生の旋律を紡ぐ不可欠の音です。",
+                "thinking_layer": "「信じる」の根底にあるのは、客観的な証明ではなく「愛（love）」です。何かを信じるとは、それを自分の心にとって大切な価値あるものとして、慈しむ決意をすることを意味します。",
                 "synonyms": [
                         "trust",
-                        "rely"
+                        "faith"
                 ],
                 "antonyms": [
                         "doubt",
-                        "mistrust"
+                        "distrust"
                 ],
-                "aftertaste": "True belief is the silent strength that supports the fragile bridge between reality and dreams.",
+                "aftertaste": "愛が確信に変わる場所",
                 "deep_dive": {
                         "roots": [
                                 {
-                                        "term": "believe",
-                                        "meaning": "To hold dear, to love"
+                                        "term": "leubh-",
+                                        "meaning": "to love"
                                 }
                         ],
                         "points": [
-                                "信仰や信条の根源には、時代を超えた人間の本質的な特性が凝縮されています。言葉の歴史を辿ることにより、信じる行為が如何に自己と他者を結ぶための橋として機能してきたかが明らかになります。"
+                                "love や libido とも語源的に繋がっています。"
                         ]
                 },
-                "source": "Online Etymology Dictionary",
-                "date": "2026-02-28",
-                "era": "Old English"
+                "source": "etymon philologist mode",
+                "era": "Proto-Germanic"
         },
         {
                 "id": "benevolent",
@@ -9340,6 +9434,114 @@ const WORDS = [
                 "era": "Ancient Greek"
         },
         {
+                "id": "categorize",
+                "word": "Categorize",
+                "part_of_speech": "verb",
+                "meaning": "分類する、カテゴリーに分ける",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "categ-",
+                                        "type": "root",
+                                        "meaning": "類別",
+                                        "lang": "Greek"
+                                },
+                                {
+                                        "text": "-orize",
+                                        "type": "suffix",
+                                        "meaning": "する",
+                                        "lang": "French/English"
+                                }
+                        ],
+                        "original_statement": "The term 'categorize' originated from the Greek word 'κατηγορία' (kategoría), meaning 'prediction' or 'accusation', which evolved into the Medieval Latin 'categoria' and then to the Middle French 'catégorie', eventually being adopted into English with the addition of the suffix '-ize'."
+                },
+                "core_concept": {
+                        "en": "To weave moments into structured anticipation.",
+                        "ja": "瞬間を構造ある期待に織りなすこと"
+                },
+                "thinking_layer": "分類とは、無限の可能性の中から特定の枠を与える行為です。それは、無秩序に見える世界に規則性を与える創造的な試みです。個々の要素を見つめ直し、それらが如何にして共鳴し合っているかを理解し、調和のとれた全体像を構築する作業です。我々は常に情報の波に晒されており、その中から有意義な形を見出すことで自己の存在意義を明確にしていきます。分類の過程は、単に物を振り分けることにとどまらず、存在の意味を探る旅とも言えるでしょう。それは、心の中で混ざり合う個々の要素が生み出す微細な振動を感知し、調和の中に結実する様を見届けることであり、存在の不確実性に対する静かな挑戦でもあります。分類することで、我々は世界を理解するだけでなく、新たな秩序を創造するのです。",
+                "synonyms": [
+                        "Classify",
+                        "Sort"
+                ],
+                "antonyms": [
+                        "Disorder",
+                        "Mix"
+                ],
+                "aftertaste": "To categorize is not merely to divide, but to understand the world anew.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "categoría",
+                                        "meaning": "accusation, assertion"
+                                }
+                        ],
+                        "points": [
+                                "ギリシャ語の「κατηγορία」は、元々は「予言」や「告発」を意味しており、後により広範な社会的な意味を持つようになりました。この変遷を通じて、個別の現象や物事をグループ化して考える能力が、社会的、哲学的な文脈で重視され続けています。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Late 16th Century"
+        },
+        {
+                "id": "category",
+                "word": "Category",
+                "part_of_speech": "noun",
+                "meaning": "種類や範囲に応じた分類",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "categori-",
+                                        "type": "root",
+                                        "meaning": "分類",
+                                        "lang": "Greek"
+                                },
+                                {
+                                        "text": "-ia",
+                                        "type": "suffix",
+                                        "meaning": "状態",
+                                        "lang": "Greek"
+                                }
+                        ],
+                        "original_statement": "The word 'category' stems from the Greek 'kategoria', combining 'kata' (down, against) and 'agora' (assembly, public speaking), referring to statements made against someone in public."
+                },
+                "core_concept": {
+                        "en": "A fluid framework defining order and boundaries.",
+                        "ja": "秩序と境界を定義する流動的な枠組み"
+                },
+                "thinking_layer": "カテゴリーという言葉は、我々の思考の枠を形作る重要な概念です。それはまるで世界を織り成す見えない糸のようであり、人間の理解における秩序と混沌の境界線を示すものです。物事を分類することで初めて我々は世界を捉え、意味を見いだすことができます。このプロセスは、人間の知識の進化そのものに密接に結びついています。ある意味でカテゴリーは、情報の広大な海を航海するための羅針盤であり、暗き森を照らす灯台でもあります。それは我々が直面する無限の多様性を一つの統一されたビジョンとしてまとめ上げるための静かなる力であり、その探究の果てには自己理解と他者の理解があります。我々はこの見えざる手綱をたどり、宇宙の複雑な起伏を渡り歩いてゆくのです。",
+                "synonyms": [
+                        "Classification",
+                        "Group"
+                ],
+                "antonyms": [
+                        "Chaos",
+                        "Disorder"
+                ],
+                "aftertaste": "Categories map the vast and untamed waters of knowledge.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "kategoria",
+                                        "meaning": "statement, accusation"
+                                },
+                                {
+                                        "term": "agora",
+                                        "meaning": "public assembly"
+                                }
+                        ],
+                        "points": [
+                                "カテゴリーという概念は、我々が世界をどのように認識し、体系化するかに関する深層的な理解に貢献しています。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Ancient Greek"
+        },
+        {
                 "id": "catharsis",
                 "word": "Catharsis",
                 "author": "etymon_official",
@@ -11274,43 +11476,90 @@ const WORDS = [
         {
                 "id": "companion",
                 "word": "Companion",
-                "author": "etymon_official",
+                "part_of_speech": "noun",
+                "meaning": "仲間、連れ",
                 "etymology": {
                         "breakdown": [
                                 {
                                         "text": "com-",
                                         "type": "prefix",
-                                        "meaning": "共に",
-                                        "lang": "Latin"
+                                        "meaning": "with"
                                 },
                                 {
                                         "text": "panis",
                                         "type": "root",
-                                        "meaning": "パン",
-                                        "lang": "Latin"
+                                        "meaning": "bread"
                                 }
                         ],
-                        "original_statement": "The word 'companion' derives from the Latin 'companionem', with 'com-' meaning 'with' and 'panis' meaning 'bread'. It refers to a person with whom one shares bread, symbolizing a deeper sense of fellowship."
+                        "original_statement": "From Latin companionem, literally 'one who shares bread with another'."
                 },
                 "core_concept": {
-                        "en": "A soulful camaraderie, wrapped in the subtle warmth of shared sustenance.",
-                        "ja": "共にパンを分け合う深く暖かな友情の本質"
+                        "en": "With bread",
+                        "ja": "一つのパンを、共にちぎって食べる相手"
                 },
-                "thinking_layer": "人間が共に生き、共に食べるという行為は、単なる物理的な行動にとどまらず、精神的な結びつきをも意味します。『仲間』という言葉の語源を辿れば、ラテン語の「パンを共にする者」にまで遡ります。ここには癒しがあり、共同体の象徴があります。その人と時間を共に過ごすということは、人生の断片を共有するということでもあるのです。時に一つのパンを分け合うことは、互いの孤独を少しでも軽減し、暖かさを感じ合う瞬間です。友人との食事は、ただの栄養補給にとどまらず、言葉以上に深い交流を生み出します。現代においても、人はパンだけでなく心も分け合い、繋がり合うことができるのです。この行為には、互いの存在を承認し合うという非常に人間的な要素が含まれています。互いに補い合い、支え合うその瞬間、パンは一つの象徴的な媒介となり、秀逸な交友が育まれるのです。そういった深い絆を育むには、ただ物を分け合うことだけでなく、心の底からの理解と信頼が不可欠です。仲間とは、人生の旅路における共演者であり、魂を共鳴させる存在です。",
+                "thinking_layer": "人生という旅路において、パン（生命の糧）を分かち合う人こそが「仲間」です。それは単なる利害の一致ではなく、共に空腹を感じ、共に満たされるという、身体的な共生の感覚に基づいています。",
                 "synonyms": [
-                        "Ally",
-                        "Friend"
+                        "partner",
+                        "associate"
                 ],
                 "antonyms": [
-                        "Enemy",
-                        "Stranger"
+                        "enemy",
+                        "stranger"
                 ],
-                "aftertaste": "A companion is more than presence; it's a shared path walked together.",
+                "aftertaste": "温かなパンの香りと、共にある時間",
                 "deep_dive": {
                         "roots": [
                                 {
-                                        "term": "com",
-                                        "meaning": "with, together"
+                                        "term": "panis",
+                                        "meaning": "bread"
+                                }
+                        ],
+                        "points": [
+                                "company と語源的に表裏一体の言葉です。"
+                        ]
+                },
+                "source": "etymon philologist mode",
+                "era": "12th Century Latin"
+        },
+        {
+                "id": "company",
+                "word": "Company",
+                "part_of_speech": "noun",
+                "meaning": "会社、仲間",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "com-",
+                                        "type": "prefix",
+                                        "meaning": "together"
+                                },
+                                {
+                                        "text": "panis",
+                                        "type": "root",
+                                        "meaning": "bread"
+                                }
+                        ],
+                        "original_statement": "From Old French companie, from Late Latin companionem 'bread-fellow'."
+                },
+                "core_concept": {
+                        "en": "Breaking bread together",
+                        "ja": "パンを分け合う、親しき仲"
+                },
+                "thinking_layer": "会社や仲間とは、本来「同じパン（panis）を共に（com）食べる人々」を指します。経済的な利益だけでなく、生きる糧を分かち合い、食卓を囲むような親密な絆がその本質にあります。",
+                "synonyms": [
+                        "firm",
+                        "companion"
+                ],
+                "antonyms": [
+                        "stranger",
+                        "rival"
+                ],
+                "aftertaste": "食卓を囲む温かな絆",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "com-",
+                                        "meaning": "together"
                                 },
                                 {
                                         "term": "panis",
@@ -11318,70 +11567,11 @@ const WORDS = [
                                 }
                         ],
                         "points": [
-                                "古代ローマでは、パンは共同体の象徴とされ、食を共にすることが友情の象徴だった。"
+                                "panini（パニーニ）や pantry（食料貯蔵室）も bread 由来です。"
                         ]
                 },
-                "source": "Online Etymology Dictionary",
-                "date": "2026-02-27",
-                "part_of_speech": "noun",
-                "meaning": "仲間",
-                "era": "Latin"
-        },
-        {
-                "id": "company",
-                "word": "Company",
-                "author": "etymon_official",
-                "etymology": {
-                        "breakdown": [
-                                {
-                                        "text": "com-",
-                                        "type": "prefix",
-                                        "meaning": "共同",
-                                        "lang": "Latin"
-                                },
-                                {
-                                        "text": "pane",
-                                        "type": "root",
-                                        "meaning": "パン",
-                                        "lang": "Latin"
-                                }
-                        ],
-                        "original_statement": "The word 'company' originates from the Old French 'compaignie' and Latin 'companionem,' meaning 'one who eats bread with you,' reflecting fellowship and partnership."
-                },
-                "core_concept": {
-                        "en": "A gathering united by shared bread and purpose.",
-                        "ja": "共にパンを分かち合う仲間の集まり"
-                },
-                "thinking_layer": "存在の本質を見つめる時、人は互いの距離を感じつつも、言葉や行動を通じて心を繋ぐことを求めます。「会社」という言葉は、まさにその人と人との交わりを象徴します。古代の夕暮れ、仲間と共に囲んだ食事が、我々の記憶に残るように、現代社会においても集合体や組織を通じて我々は共に何かを築き上げます。この連帯の感覚は、時に形而上学的な領域においても、相互の信頼や理解の基盤を形成します。パンを分かち合うことは、単なる物質的な行為にとどまらず、その心の豊かさを分かち合う象徴でもあります。それは、共感に満ちた交流の瞬間に他ならず、共に未来を描く意志の表れでもあります。こうして私たちの「会社」は、歴史という時間の流れの中で、命の交響曲として鳴り響くのです。人々が互いの存在を支え合うことで、一体感を感じ、その意味を語り継いできました。",
-                "synonyms": [
-                        "Association",
-                        "Organisation"
-                ],
-                "antonyms": [
-                        "Isolation",
-                        "Solitude"
-                ],
-                "aftertaste": "A luminous bond formed through the sharing of life's pursuits.",
-                "deep_dive": {
-                        "roots": [
-                                {
-                                        "term": "com",
-                                        "meaning": "together"
-                                },
-                                {
-                                        "term": "pane",
-                                        "meaning": "bread"
-                                }
-                        ],
-                        "points": [
-                                "言葉の背景には、異なる個が集い、その影の中で活力を得るという概念が潜んでいる。"
-                        ]
-                },
-                "source": "Online Etymology Dictionary",
-                "date": "2026-02-27",
-                "part_of_speech": "noun",
-                "meaning": "会社",
-                "era": "12th Century"
+                "source": "etymon philologist mode",
+                "era": "12th Century Old French"
         },
         {
                 "id": "compensate",
@@ -12665,53 +12855,53 @@ const WORDS = [
                 "id": "consider",
                 "word": "Consider",
                 "part_of_speech": "verb",
-                "meaning": "考慮する、思案する",
-                "author": "etymon_official",
+                "meaning": "よく考える、熟考する",
                 "etymology": {
                         "breakdown": [
                                 {
                                         "text": "con-",
                                         "type": "prefix",
-                                        "meaning": "共に",
-                                        "lang": "Latin"
+                                        "meaning": "with, together"
                                 },
                                 {
-                                        "text": "siderari",
+                                        "text": "sidus",
                                         "type": "root",
-                                        "meaning": "星を観る",
-                                        "lang": "Latin"
+                                        "meaning": "star"
                                 }
                         ],
-                        "original_statement": "The word 'consider' has its origins in Latin, from 'considerare', which means to examine or reflect, originally referring to star watching as a metaphor for contemplation."
+                        "original_statement": "From Latin considerare 'to look at closely, observe', perhaps literally 'to observe the stars'."
                 },
                 "core_concept": {
-                        "en": "To gaze upon the cosmos of possibilities.",
-                        "ja": "可能性の宇宙を見つめること"
+                        "en": "To observe the stars together",
+                        "ja": "星の配置を読み解くように、深く見つめる"
                 },
-                "thinking_layer": "考えるという行為は、心の目を星空に解き放ち、広漠な宇宙の中で彷徨うものです。それは一つの小さな火花が、無限の広がりに触れていくような旅路であり、思索の海に吹く微風は、過去、現在、そして未来を芋づる式に結びつけます。この深遠なる瞬間、それは自らの内なる星辰を見つめる時間であり、物事の営み、そして人間たる存在の本質が浮かび上がる時空の旅。砂粒ひとつ、それすらが宇宙の縮図であり、思考を巡らすたびに新たな星座が浮かびます。哲学は、こうして宇宙的尺度で我々を導く羅針盤のようなものであり、ひとつひとつ慎重に言葉の結晶を磨き上げる行為なのです。目を閉じ、想像の翼を広げれば、異なる次元で浮遊する己があることに気づくでしょう。思想の壮大な航海を通じて見つけ出す真実が、魂を照らします。",
+                "thinking_layer": "「考える」ことは、かつて「星（sidus）を観測すること」でした。混沌とした事象の中に秩序（星座）を見出そうとする行為。私たちの思考は、暗闇の中に光る点と点を結びつける旅なのです。",
                 "synonyms": [
-                        "ponder",
-                        "deliberate"
+                        "contemplate",
+                        "ponder"
                 ],
                 "antonyms": [
                         "ignore",
                         "neglect"
                 ],
-                "aftertaste": "A universe resides in every thought we dare to consider.",
+                "aftertaste": "思考の中にまたたく星座",
                 "deep_dive": {
                         "roots": [
                                 {
-                                        "term": "sider",
+                                        "term": "con-",
+                                        "meaning": "together"
+                                },
+                                {
+                                        "term": "sidus",
                                         "meaning": "star"
                                 }
                         ],
                         "points": [
-                                "この言葉は、本来星を見ながら考えることを表し、思索と観察の密接な関係を示します。深い考察には周囲を取り巻く現象全てを内包することが必要であると示唆しています。"
+                                "desire（切望する）も、星が消えることを惜しむ語源を持ちます。"
                         ]
                 },
-                "source": "Oxford English Dictionary",
-                "date": "2026-03-01",
-                "era": "Early 16th Century"
+                "source": "etymon philologist mode",
+                "era": "14th Century Latin"
         },
         {
                 "id": "considerate",
@@ -13872,6 +14062,54 @@ const WORDS = [
                 "era": "17th Century"
         },
         {
+                "id": "courage",
+                "word": "Courage",
+                "part_of_speech": "noun",
+                "meaning": "勇気",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "cor",
+                                        "type": "root",
+                                        "meaning": "heart"
+                                },
+                                {
+                                        "text": "-age",
+                                        "type": "suffix",
+                                        "meaning": "state of"
+                                }
+                        ],
+                        "original_statement": "From Old French corage 'heart, innermost feelings', from Latin cor 'heart'."
+                },
+                "core_concept": {
+                        "en": "Of the heart",
+                        "ja": "頭ではなく、心で向き合う強さ"
+                },
+                "thinking_layer": "勇気とは、恐怖がないことではありません。「心（cor）」の奥底にある真実を、そのまま世界へ差し出す力です。知性で計算する前に、心の高鳴りに従うこと。それが勇気の正体です。",
+                "synonyms": [
+                        "bravery",
+                        "valor"
+                ],
+                "antonyms": [
+                        "cowardice",
+                        "fear"
+                ],
+                "aftertaste": "胸の奥で燃える、譲れない灯火",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "cor",
+                                        "meaning": "heart"
+                                }
+                        ],
+                        "points": [
+                                "cordial（心のこもった）や core（核）も同じ語根です。"
+                        ]
+                },
+                "source": "etymon philologist mode",
+                "era": "13th Century Old French"
+        },
+        {
                 "id": "courageous",
                 "word": "Courageous",
                 "part_of_speech": "adjective",
@@ -13973,47 +14211,105 @@ const WORDS = [
                 "id": "create",
                 "word": "Create",
                 "part_of_speech": "verb",
-                "meaning": "新しいものを生み出すこと",
+                "meaning": "創造する、生み出す",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "ker-",
+                                        "type": "root",
+                                        "meaning": "to grow"
+                                },
+                                {
+                                        "text": "-ate",
+                                        "type": "suffix",
+                                        "meaning": "to cause to be"
+                                }
+                        ],
+                        "original_statement": "From Latin creatus, past participle of creare 'to make, bring forth, produce'."
+                },
+                "core_concept": {
+                        "en": "To cause to grow",
+                        "ja": "生命の勢いを、形にしてゆく"
+                },
+                "thinking_layer": "創造とは、無から有を生む魔法ではなく、生命が「育つ（grow）」勢いを助けることです。何かが新しく生まれるとき、そこには植物が芽吹くような自然な成長のエネルギーが宿っています。",
+                "synonyms": [
+                        "produce",
+                        "generate"
+                ],
+                "antonyms": [
+                        "destroy",
+                        "annihilate"
+                ],
+                "aftertaste": "内なる成長の顕現",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "ker-",
+                                        "meaning": "grow"
+                                }
+                        ],
+                        "points": [
+                                "cereal（穀物）も、成長を司る女神ケレス（Ceres）が由来です。"
+                        ]
+                },
+                "source": "etymon philologist mode",
+                "era": "14th Century Latin"
+        },
+        {
+                "id": "creative",
+                "word": "Creative",
+                "part_of_speech": "adjective",
+                "meaning": "創造的な",
                 "author": "etymon_official",
                 "etymology": {
                         "breakdown": [
                                 {
                                         "text": "creare",
                                         "type": "root",
-                                        "meaning": "創造する",
+                                        "meaning": "創ること",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "-tive",
+                                        "type": "suffix",
+                                        "meaning": "状態や性質を示す",
                                         "lang": "Latin"
                                 }
                         ],
-                        "original_statement": "Derived from the Latin 'creare', meaning 'to make, bring forth, produce'."
+                        "original_statement": "The word 'creative' originates from the Latin 'creat-' meaning 'produced' or 'created', and the suffix '-ive'."
                 },
                 "core_concept": {
-                        "en": "The divine act of bringing forth from void.",
-                        "ja": "無からの創造という神聖な行為。"
+                        "en": "The spark of existence, flourishing in the realm of imagination.",
+                        "ja": "想像の領域で開花する存在の火花"
                 },
-                "thinking_layer": "『作る』という行為は、単なる物理的な製造を超えた深遠な意味を持つ。空虚の中から形を持たないものを呼び寄せ、具現化するその過程は、まるで神の手による奇跡である。まっさらなキャンバスに一筆を加えることで、新たな世界が広がるように、創造は我々の存在を宇宙に響かせるための行為でもある。創造の瞬間、我々は一瞬にして時間と空間を超え、想像の領域へと導かれる。それは自己実現の成就であり、社会的、文化的、精神的次元における無限の可能性を切り拓く鍵である。創造は孤独な探求であり、同時に普遍的な共有の儀式でもある。私たちの内なる資源を引き出し、他者と共鳴することで私たちは人間であることの本質を具現化する。創造は存在の意味を探求する旅であり、新しい視点を獲得するための翼であると言えよう。 ",
+                "thinking_layer": "［創造性］という概念は、物質的なものを超えて、心の奥深くに眠る無限の可能性を探求することであり、生命の真髄を具現化する行為です。創造的であることは単なる物を造り出すことに留まらず、時空を超えて、過去と未来を結ぶ架け橋であり、現実と理想の狭間を埋める途方もない力です。日本の伝統文化における茶道や華道のように、創造は形式の中に込められた自由を見出すことであり、その自由とは己を知り、他者を理解するための道標です。創造性はまた、自然と共鳴することで得られる歓びと静寂の調和の産物であり、そこには限りない想像力の翼が広がっています。それは全てを包み込み、全てを一新する、宇宙そのものの鼓動でもあるのです。創造に携わることで、私たちは自身の存在理由を問い、その答えを探し続けることができるのです。無から有を生み出す奇跡、それが創造に他なりません。",
                 "synonyms": [
-                        "Construct",
-                        "Invent"
+                        "Innovative",
+                        "Inventive"
                 ],
                 "antonyms": [
-                        "Destroy",
-                        "Disassemble"
+                        "Unimaginative",
+                        "Conventional"
                 ],
-                "aftertaste": "Creation is the essence of humanity's eternal echo.",
+                "aftertaste": "Creativity is the profound dance between freedom and form.",
                 "deep_dive": {
                         "roots": [
                                 {
                                         "term": "creare",
-                                        "meaning": "to make"
+                                        "meaning": "to create, make, produce"
+                                },
+                                {
+                                        "term": "-tive",
+                                        "meaning": "indicating an adjective of condition"
                                 }
                         ],
                         "points": [
-                                "ラテン語の 'creare' に由来し、創造や生み出すというフィロソフィカルな概念を内包し、古典ラテン文明からの影響を現代にも感じさせる。"
+                                "中世ラテン語の『creativus』は、特に芸術や科学の革新において用いられ、想像力と実行力を結びつける概念としての基礎を築いた。"
                         ]
                 },
-                "source": "The Oxford English Dictionary",
-                "date": "2026-02-28",
-                "era": "Latin"
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "Late Middle English"
         },
         {
                 "id": "crepuscular",
@@ -14405,32 +14701,37 @@ const WORDS = [
         {
                 "id": "curiosity",
                 "word": "Curiosity",
-                "author": "etymon_official",
+                "part_of_speech": "noun",
+                "meaning": "好奇心",
                 "etymology": {
                         "breakdown": [
                                 {
-                                        "text": "curiosus",
+                                        "text": "cura",
                                         "type": "root",
-                                        "meaning": "興味を引く、熱心な",
-                                        "lang": "Latin"
+                                        "meaning": "care, attention"
+                                },
+                                {
+                                        "text": "-ous",
+                                        "type": "suffix",
+                                        "meaning": "full of"
                                 }
                         ],
-                        "original_statement": "The word 'curiosity' originates from the Latin 'curiosus', meaning 'careful' or 'inquisitive', which is derived from 'cura', meaning 'care'."
+                        "original_statement": "From Latin curiositas 'desire of knowledge', from curiosus 'careful, inquisitive', from cura 'care'."
                 },
                 "core_concept": {
-                        "en": "An insatiable desire to seek, explore, and understand the wonders beyond the visible horizon.",
-                        "ja": "見えざる地平の彼方の不思議を求め、探求し、理解しようとする飽くなき願望。"
+                        "en": "Full of care",
+                        "ja": "対象を慈しみ、細部まで心を注ぐこと"
                 },
-                "thinking_layer": "好奇心とは、世界の謎を探求しようとする無限の欲望であり、それは人間の本質に根ざした知識への深い渇望です。子供が初めて言葉を発する瞬間から、空に浮かぶ星々に目を輝かせるまで、その心の奥底には常に『なぜ』や『どうして』が潜んでいます。好奇心は自らの存在を問い直す力を持ち、知識の新たな地平を切り拓く原動力となります。それは我々を未知への旅へと誘い、時間を超えた探検へと導く情熱です。好奇心がなければ、進化も発明もなく、物語も詩も生まれないでしょう。人は好奇心によって自己を知り、他者を知り、この広大な宇宙を知ろうとする存在へと成長するのです。だからこそ、好奇心は我々を永遠の旅人に変え、未知の世界を抱擁する勇気を授けてくれるのです。好奇心はその明るさで我々の存在を照らし、生命の美しさを理解するための道を照らし出してくれます。",
+                "thinking_layer": "好奇心とは、単なる「知りたがり」ではありません。対象に対して「ケア（cura）」すること、つまり深い関心を持って注意深く見守る愛の形です。好奇心があるところに、無視や無関心は存在しません。",
                 "synonyms": [
-                        "Inquisitiveness",
-                        "Interest"
+                        "inquisitiveness",
+                        "interest"
                 ],
                 "antonyms": [
-                        "Indifference",
-                        "Apathy"
+                        "indifference",
+                        "disinterest"
                 ],
-                "aftertaste": "Curiosity is the torch that lights the path of discovery, guiding us through the shadows of the unknown.",
+                "aftertaste": "世界を愛でるための、細やかな視線",
                 "deep_dive": {
                         "roots": [
                                 {
@@ -14439,14 +14740,11 @@ const WORDS = [
                                 }
                         ],
                         "points": [
-                                "「好奇心」という言葉は、深い考慮と世話を意味するラテン語「curiosus」に由来します。これは単なる表面的な興味を超えた、存在の核心に関わる知識への強い欲求を示しています。"
+                                "cure（治療）や curator（学芸員）も同じ語根です。"
                         ]
                 },
-                "source": "Online Etymology Dictionary",
-                "date": "2026-02-27",
-                "part_of_speech": "noun",
-                "meaning": "好奇心",
-                "era": "Latin"
+                "source": "etymon philologist mode",
+                "era": "14th Century Latin"
         },
         {
                 "id": "curious",
@@ -15931,8 +16229,8 @@ const WORDS = [
         {
                 "id": "desire",
                 "word": "Desire",
-                "part_of_speech": "noun",
-                "meaning": "欲望",
+                "part_of_speech": "noun/verb",
+                "meaning": "欲望、強く望む",
                 "etymology": {
                         "breakdown": [
                                 {
@@ -15946,21 +16244,22 @@ const WORDS = [
                                         "meaning": "star"
                                 }
                         ],
-                        "original_statement": "From Latin desiderare 'to long for, miss the stars'."
+                        "original_statement": "From Old French desirrer, from Latin desiderare 'long for, miss', possibly 'await what the stars will bring'."
                 },
                 "core_concept": {
-                        "en": "To miss the stars",
-                        "ja": "手の届かないものを求める心"
+                        "en": "Waiting for the stars",
+                        "ja": "見えない星を待ち焦がれ、天を仰ぐ"
                 },
-                "thinking_layer": "欲望とは欠如ではなく、かつて見ていた輝きを思い出す行為です。人は『失った星』を追い続けています。",
+                "thinking_layer": "「切望」の語源は、星（sidus）が「離れて（de）」しまった状態から、それを待ちわびる姿にあります。欲望とは、かつて自分の空に輝いていたはずの光を、もう一度取り戻したいという祈りに似た叫びです。",
                 "synonyms": [
-                        "longing",
-                        "craving"
+                        "crave",
+                        "longing"
                 ],
                 "antonyms": [
-                        "contentment"
+                        "aversion",
+                        "dislike"
                 ],
-                "aftertaste": "星への郷愁",
+                "aftertaste": "夜空を見上げる孤独な祈り",
                 "deep_dive": {
                         "roots": [
                                 {
@@ -15969,11 +16268,11 @@ const WORDS = [
                                 }
                         ],
                         "points": [
-                                "considerと同語源です。"
+                                "consider と対照的に、こちらは星の不在を嘆くニュアンスがあります。"
                         ]
                 },
-                "source": "ChatGPT Philologist Mode",
-                "era": "Latin"
+                "source": "etymon philologist mode",
+                "era": "13th Century Old French/Latin"
         },
         {
                 "id": "desperate",
@@ -16282,58 +16581,54 @@ const WORDS = [
         {
                 "id": "dialogue",
                 "word": "Dialogue",
-                "author": "etymon_official",
+                "part_of_speech": "noun",
+                "meaning": "対話",
                 "etymology": {
                         "breakdown": [
                                 {
                                         "text": "dia-",
                                         "type": "prefix",
-                                        "meaning": "通じて",
-                                        "lang": "Greek"
+                                        "meaning": "through"
                                 },
                                 {
-                                        "text": "logue",
+                                        "text": "logos",
                                         "type": "root",
-                                        "meaning": "話",
-                                        "lang": "Greek"
+                                        "meaning": "word, reason"
                                 }
                         ],
-                        "original_statement": "The term 'dialogue' originates from the Greek word 'dialogos', which means 'conversation' or 'speech' through exchange."
+                        "original_statement": "From Greek dialogos, from dialegesthai 'converse with', from dia 'through' + legein 'speak'."
                 },
                 "core_concept": {
-                        "en": "A poetic confluence of minds in articulate resonance.",
-                        "ja": "心と心が共鳴し交わる、美しい言葉の瞬間"
+                        "en": "Meaning flowing through",
+                        "ja": "言葉を通り抜けて、意味が循環する"
                 },
-                "thinking_layer": "対話という言葉は、単なる言葉の交換を超え、心と心の深い交流を象徴します。その連鎖の駆け引きは、川の水が石を洗い、形を変えるように、参加者の意識をも変容させます。それは時に静かに、時に激しく波打ち、沈黙の間にも豊かな意味を孕んでいます。対話はお互いの真の理解と、共に未知への旅を誘う種子です。異なる視点が交わるところに、新たな知識と感覚が生まれ、自己と他者との境目を曖昧にし、その輪郭を再定義します。この交換の場においては、どちらか一方が答えを決するのではなく、共に生成する方法を模索する過程そのものが重要であり、その先に無限の可能性が広がっています。言葉の狭間に漂う未来の確かさ、そこに対話の本質があります。",
+                "thinking_layer": "対話の本質は、言葉の応酬ではありません。言葉（logos）を「通り抜けて（dia）」、自分と他者の間を意味が流れることです。対話を通じて、私たちは自分一人では到達できなかった真理へと運ばれます。",
                 "synonyms": [
-                        "Conversation",
-                        "Discussion"
+                        "conversation",
+                        "discourse"
                 ],
                 "antonyms": [
-                        "Monologue",
-                        "Silence"
+                        "monologue",
+                        "silence"
                 ],
-                "aftertaste": "Dialogue is the gentle yet potent symphony of shared human experience.",
+                "aftertaste": "言葉の向こう側への架け橋",
                 "deep_dive": {
                         "roots": [
                                 {
                                         "term": "dia-",
-                                        "meaning": "through, across"
+                                        "meaning": "through"
                                 },
                                 {
                                         "term": "logos",
-                                        "meaning": "word, reason, speech"
+                                        "meaning": "word/reason"
                                 }
                         ],
                         "points": [
-                                "対話の語源学において、ギリシャ語の『dia』は『通じて』を意味し、『logos』は『言葉』や『理性』を暗示します。この組み合わせは、言語を媒介にした人間の創造的思考の結合を示唆します。"
+                                "diameter（直径）も「通り抜ける測定」という構成です。"
                         ]
                 },
-                "source": "Oxford English Dictionary",
-                "date": "2026-02-28",
-                "part_of_speech": "noun",
-                "meaning": "対話",
-                "era": "Ancient Greek"
+                "source": "etymon philologist mode",
+                "era": "13th Century Greek"
         },
         {
                 "id": "dictate",
@@ -16548,52 +16843,54 @@ const WORDS = [
         {
                 "id": "disaster",
                 "word": "Disaster",
-                "author": "etymon_official",
+                "part_of_speech": "noun",
+                "meaning": "災害、災厄",
                 "etymology": {
                         "breakdown": [
                                 {
-                                        "text": "dis, astrum",
-                                        "type": "prefix/root",
-                                        "meaning": "不運, 星",
-                                        "lang": "Latin"
+                                        "text": "dis-",
+                                        "type": "prefix",
+                                        "meaning": "away, ill"
+                                },
+                                {
+                                        "text": "astron",
+                                        "type": "root",
+                                        "meaning": "star"
                                 }
                         ],
-                        "original_statement": "The term 'disaster' originates from the Old Italian 'disastro', which combines the prefix 'dis-' denoting 'bad' or 'difficult' with 'astro', meaning 'star'. This conveys the notion of an ill-starred event, reflecting ancient beliefs where the positions and movements of stars influenced human fate."
+                        "original_statement": "From Old French desastre, from Italian disastro 'ill-starred'."
                 },
                 "core_concept": {
-                        "en": "A celestial misalignment unraveling the tapestry of fortune.",
-                        "ja": "運命の織物を解き放つ天体の不調和"
+                        "en": "A bad star",
+                        "ja": "星の配置が狂い、天の導きを失うこと"
                 },
-                "thinking_layer": "災害という言葉は、天体の動きや星の影響を強く信じていた時代に根ざしています。この概念は、宇宙の中に存在する我々にとって見えない力が、運命の流れを変えることがあるという理解の象徴です。この背景には、大きな流れや運命が、我々の意図を超えて天から垂れ流される布のように広がっているという、壮大な見解があります。災害は、その神秘的な織物に生じた裂け目、すなわち人間の無力さが露呈される瞬間を指しています。この宇宙的なダンスの中で、我々は時に恐れ、時に畏怖の念を感じ、星々の動きに翻弄されるのです。こうした宇宙観は、人間の努力や知力を超えたところに存在する、大いなるものへの畏敬を養うと同時に、我々はいかにして限られた力でこの大いなる力に対抗し得るのかという、哲学的な問いを投げかけるものです。災害の中に潜むのは、運命と格闘し、その問いを解きほぐそうとする人類の果てしなき旅なのです。",
+                "thinking_layer": "災厄とは、自分を導くはずの「星（astron）」との繋がりが「切れて（dis）」しまった状態を指します。宇宙の調和から外れ、迷子になってしまったとき、人はそれを大きな不幸と感じるのです。",
                 "synonyms": [
-                        "Catastrophe",
-                        "Calamity"
+                        "catastrophe",
+                        "calamity"
                 ],
                 "antonyms": [
-                        "Fortune",
-                        "Success"
+                        "blessing",
+                        "prosperity"
                 ],
-                "aftertaste": "In the shadow of stars, chaos wields its untamable force.",
+                "aftertaste": "天の導きを失った暗闇",
                 "deep_dive": {
                         "roots": [
                                 {
-                                        "term": "dis",
-                                        "meaning": "not, apart"
+                                        "term": "dis-",
+                                        "meaning": "bad"
                                 },
                                 {
-                                        "term": "astro",
+                                        "term": "aster",
                                         "meaning": "star"
                                 }
                         ],
                         "points": [
-                                "古代の宇宙論において、星々の運行が人間の運命に影響を及ぼす重要な要素と考えられていた点が興味深い。"
+                                "astronomy（天文学）や astronaut（宇宙飛行士）と同じ root です。"
                         ]
                 },
-                "source": "Etymology Online",
-                "date": "2026-02-27",
-                "part_of_speech": "noun",
-                "meaning": "災害",
-                "era": "Latin"
+                "source": "etymon philologist mode",
+                "era": "16th Century Old French"
         },
         {
                 "id": "discover",
@@ -17298,58 +17595,54 @@ const WORDS = [
         {
                 "id": "education",
                 "word": "Education",
-                "author": "etymon_official",
+                "part_of_speech": "noun",
+                "meaning": "教育",
                 "etymology": {
                         "breakdown": [
                                 {
-                                        "text": "educare",
-                                        "type": "root",
-                                        "meaning": "養う",
-                                        "lang": "Latin"
+                                        "text": "ex-",
+                                        "type": "prefix",
+                                        "meaning": "out"
                                 },
                                 {
                                         "text": "ducere",
                                         "type": "root",
-                                        "meaning": "導く",
-                                        "lang": "Latin"
-                                }
-                        ],
-                        "original_statement": "The word 'education' originates from the Latin word 'educare', which means to nourish or bring up, as well as 'educere', meaning to lead forth."
-                },
-                "core_concept": {
-                        "en": "The art of nurturing and leading souls toward enlightenment.",
-                        "ja": "魂を育み啓蒙へと導く技芸"
-                },
-                "thinking_layer": "教育という概念は、心の内なる力を呼び覚まし、人間の可能性を現実へ引き上げる潜在的な旅である。私たちは教育を通じて無知の暗闇から抜け出し、知識の光を求めて果てしない旅路を歩む。教育には、単に知識を授けるだけでなく、指導者と実践者が共に育み合うことが求められる。そして、教育の本質は、物事の真理を見抜く力を育てることにある。それは形のない曖昧なものから形づくられた確かな精神へと至る旅路であり、その過程で人は思索を重ね、自らを鍛えてゆく。そして信頼と愛によって成り立つこの営みは、人間が個々の殻を破り、世界と深く関わり合うことを可能にする。教育という枠の内外には、あらゆる生命の物語が込み上げ、これこそが素晴らしき人間性の劇場であり、そこで我々は、果てしなき探求を続ける永遠の学徒なのだ。したがって、教育は単なる知識の輸送手段ではなく、心の奥へと至る窓であり、未来へと繋がる道標となる壮大な試みである。",
-                "synonyms": [
-                        "Teaching",
-                        "Instruction"
-                ],
-                "antonyms": [
-                        "Ignorance",
-                        "Neglect"
-                ],
-                "aftertaste": "In education lies the gateway to both our past and our future.",
-                "deep_dive": {
-                        "roots": [
-                                {
-                                        "term": "educare",
-                                        "meaning": "to bring up, nurture"
-                                },
-                                {
-                                        "term": "ducere",
                                         "meaning": "to lead"
                                 }
                         ],
+                        "original_statement": "From Latin educationem, from educere 'to lead out'."
+                },
+                "core_concept": {
+                        "en": "To lead out from within",
+                        "ja": "内側に眠るものを、外へと引き出す"
+                },
+                "thinking_layer": "教育の真髄は、外から知識を詰め込むことではなく、学習者の内側にすでに存在する「可能性」や「才能」を外へ導き出す（lead out）ことにあります。教育者は導き手であり、解放者なのです。",
+                "synonyms": [
+                        "instruction",
+                        "tutelage"
+                ],
+                "antonyms": [
+                        "ignorance",
+                        "suppression"
+                ],
+                "aftertaste": "魂の引き出し",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "ex-",
+                                        "meaning": "out"
+                                },
+                                {
+                                        "term": "ducere",
+                                        "meaning": "lead"
+                                }
+                        ],
                         "points": [
-                                "「教育」という言葉は、単に知識の授受にとどまらず、人間の深層心理に働きかけ、その内なる可能性を開花させるための手段といえる。"
+                                "conduct, induce, produceも同じ ducere を含みます。"
                         ]
                 },
-                "source": "The Online Etymology Dictionary",
-                "date": "2026-02-27",
-                "part_of_speech": "noun",
-                "meaning": "教育",
-                "era": "Latin"
+                "source": "etymon philologist mode",
+                "era": "16th Century Latin"
         },
         {
                 "id": "effort",
@@ -18219,11 +18512,11 @@ const WORDS = [
                 "id": "emotion",
                 "word": "Emotion",
                 "part_of_speech": "noun",
-                "meaning": "感情",
+                "meaning": "感情、感動",
                 "etymology": {
                         "breakdown": [
                                 {
-                                        "text": "e-",
+                                        "text": "ex-",
                                         "type": "prefix",
                                         "meaning": "out"
                                 },
@@ -18233,33 +18526,35 @@ const WORDS = [
                                         "meaning": "to move"
                                 }
                         ],
-                        "original_statement": "From Latin emovere 'to move out, stir up'."
+                        "original_statement": "From French émotion, from emouvoir 'stir up', from Latin ex- 'out' + movere 'move'."
                 },
                 "core_concept": {
-                        "en": "To move out",
-                        "ja": "内側から動き出す力"
+                        "en": "Moving out",
+                        "ja": "内なるものが、外へと動き出すエネルギー"
                 },
-                "thinking_layer": "感情とは内なる動きです。思考よりも先に、私たちはすでに『動かされている』存在です。",
+                "thinking_layer": "感情とは、じっとしているものではありません。それは常に内側から「外へと（ex）」私たちを「動かす（movere）」力です。感情が揺れ動くとき、私たちは自らの殻を破り、新しい場所へと運ばれます。",
                 "synonyms": [
-                        "feeling"
+                        "feeling",
+                        "passion"
                 ],
                 "antonyms": [
-                        "apathy"
+                        "apathy",
+                        "immobility"
                 ],
-                "aftertaste": "内からの動き",
+                "aftertaste": "静寂を突き動かす、生の衝動",
                 "deep_dive": {
                         "roots": [
                                 {
                                         "term": "movere",
-                                        "meaning": "to move"
+                                        "meaning": "move"
                                 }
                         ],
                         "points": [
-                                "motionやmotivationも同語源です。"
+                                "motion, motive, motor とも兄弟の関係にあります。"
                         ]
                 },
-                "source": "ChatGPT Philologist Mode",
-                "era": "Latin"
+                "source": "etymon philologist mode",
+                "era": "16th Century French"
         },
         {
                 "id": "enantiodromia",
@@ -18647,6 +18942,58 @@ const WORDS = [
                 "source": "Oxford English Dictionary",
                 "date": "2026-02-28",
                 "era": "Early 19th Century"
+        },
+        {
+                "id": "enthusiasm",
+                "word": "Enthusiasm",
+                "part_of_speech": "noun",
+                "meaning": "熱狂、情熱",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "en-",
+                                        "type": "prefix",
+                                        "meaning": "in"
+                                },
+                                {
+                                        "text": "theos",
+                                        "type": "root",
+                                        "meaning": "god"
+                                }
+                        ],
+                        "original_statement": "From Greek enthousiasmos, from entheos 'divinely inspired, possessed by a god'."
+                },
+                "core_concept": {
+                        "en": "A god within",
+                        "ja": "自分の中に、神が宿っている状態"
+                },
+                "thinking_layer": "熱狂とは、単なる興奮ではありません。それは、自分を超えた大いなる存在（神性）が内側から突き動かしているような、神聖なエネルギーの噴出なのです。情熱的な人は、常に内なる神と対話しています。",
+                "synonyms": [
+                        "passion",
+                        "zeal"
+                ],
+                "antonyms": [
+                        "apathy",
+                        "indifference"
+                ],
+                "aftertaste": "内なる神性の咆哮",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "en-",
+                                        "meaning": "in"
+                                },
+                                {
+                                        "term": "theos",
+                                        "meaning": "god"
+                                }
+                        ],
+                        "points": [
+                                "theology（神学）や atheism（無神論）と同じ root です。"
+                        ]
+                },
+                "source": "etymon philologist mode",
+                "era": "16th Century Greek"
         },
         {
                 "id": "envision",
@@ -22390,6 +22737,63 @@ const WORDS = [
                 "era": "Middle English, circa 14th Century"
         },
         {
+                "id": "fructify",
+                "word": "Fructify",
+                "part_of_speech": "verb",
+                "meaning": "結実させる、利益を生む",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "fructus",
+                                        "type": "root",
+                                        "meaning": "実、果実",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "-fy",
+                                        "type": "suffix",
+                                        "meaning": "〜にする",
+                                        "lang": "Old French"
+                                }
+                        ],
+                        "original_statement": "Derived from the Latin 'fructificare', which indicates the act of making fruitful, leading to benefits and nourishment."
+                },
+                "core_concept": {
+                        "en": "The poetic gift of bearing fruit and nurturing growth.",
+                        "ja": "結実し、成長を育む詩的な贈り物"
+                },
+                "thinking_layer": "果実とは、外見以上の存在である。果実には生命の核が宿る。結実するという行為は、単なる物質的な変化ではなく、精神的な成長と自己超越の象徴でもある。この言葉は、土壌という母なる大地から養分を吸収し、太陽の光を愛し、天の恵みとともに育つ力を示す。この結実の過程は、内向的な探求と外向的な表現の無限のサイクルを表し、我々が常に新たな理想を追い求める人間の探求心を示唆している。果実は、己を知り、他者と共有し、世界を豊かにすることで意味を成す。実がなることで生きる意味を見いだし、その果実がまた新たな命を育む。哲学的に見れば、結実とは生きる過程そのものであり、私たちが意義ある存在として如何に繁栄するかを問うている。この言葉には、無限の可能性と超越的な存在意義が秘められており、果たした後の世界を新たに描き出す力を持っているのだ。",
+                "synonyms": [
+                        "Bear fruit",
+                        "Yield"
+                ],
+                "antonyms": [
+                        "Wither",
+                        "Fail"
+                ],
+                "aftertaste": "To fructify is to transcend the earth, reaching the heavens through the fruits of existence.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "fructus",
+                                        "meaning": "fruit"
+                                },
+                                {
+                                        "term": "-ficare",
+                                        "meaning": "to make"
+                                }
+                        ],
+                        "points": [
+                                "結実は物理的な産物だけでなく、精神の成長と可能性の象徴。",
+                                "自己内省と外界への愛を融合させた創造の行為。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "15th Century"
+        },
+        {
                 "id": "fruitful",
                 "word": "Fruitful",
                 "part_of_speech": "adjective",
@@ -23694,6 +24098,49 @@ const WORDS = [
                 "part_of_speech": "noun",
                 "meaning": "美食家",
                 "era": "French, 18th Century"
+        },
+        {
+                "id": "grace",
+                "word": "Grace",
+                "part_of_speech": "noun",
+                "meaning": "優雅さ、恩寵",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "gratus",
+                                        "type": "root",
+                                        "meaning": "pleasing, thankful"
+                                }
+                        ],
+                        "original_statement": "From Old French grace, from Latin gratia 'favor, esteem, agreeableness'."
+                },
+                "core_concept": {
+                        "en": "Pleasing quality",
+                        "ja": "受け取る側を喜びで満たす、無償の輝き"
+                },
+                "thinking_layer": "優雅さ（Grace）とは、努力の結果ではなく、あふれ出す喜び（grateful）の現れです。それは見返りを求めない天からの「贈り物（gift）」のようなもので、そこにあるだけで周囲を祝福し、感謝の念を抱かせます。",
+                "synonyms": [
+                        "elegance",
+                        "favor"
+                ],
+                "antonyms": [
+                        "clumsiness",
+                        "disfavor"
+                ],
+                "aftertaste": "見返りのない、光り輝く贈り物",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "gratus",
+                                        "meaning": "pleasing"
+                                }
+                        ],
+                        "points": [
+                                "gratitude（感謝）や congratulate（祝う）と同じ根を持っています。"
+                        ]
+                },
+                "source": "etymon philologist mode",
+                "era": "12th Century Old French/Latin"
         },
         {
                 "id": "graduate",
@@ -26291,6 +26738,62 @@ const WORDS = [
                 "era": "19th Century"
         },
         {
+                "id": "identify",
+                "word": "Identify",
+                "part_of_speech": "verb",
+                "meaning": "識別する、特定する",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "ident",
+                                        "type": "root",
+                                        "meaning": "同一",
+                                        "lang": "ラテン語"
+                                },
+                                {
+                                        "text": "ify",
+                                        "type": "suffix",
+                                        "meaning": "〜にする",
+                                        "lang": "ラテン語"
+                                }
+                        ],
+                        "original_statement": "The word 'identify' comes from the late 17th century, from medieval Latin identificare, from late Latin identitas (see identity) + Latin -ificare (see -fy)."
+                },
+                "core_concept": {
+                        "en": "To recognize or establish the identity of something.",
+                        "ja": "何かの同一性を認識または確立すること。"
+                },
+                "thinking_layer": "この『識別』という行為には、者が他者や物事と自らの間に存在する境界を越えて深く浸透する動的なプロセスが込められている。私たちが何かを識別する時、その行為は単なる外観を超越し、深層に隠された真実を見出す試みである。何が唯一無二であるか、何が他とは異なるのかを理解することによって、私たちは事物の複雑な網の目を解きほぐす。この行為は、変化する世界の中で私たち自身を確認しようとする人間の永遠の願望の表れであり、断片的な存在のピースを一つに繋ぎ合わせて、綿密な叙事詩を編み上げる試みである。『識別』という概念の中には、個と個、そして宇宙との調和があり、時を越えた哲学的探求の根底がある。そしてその過程で、私たちは自己をより深く見つめ、他者と共鳴することができるのだ。そうして成功裏に識別された時、我々は物質の限界を超えた本質的な理解を得るのだ。実に、この行為は一種のスピリチュアルな旅であり、内なる真実への探究なのだ。人類の歴史において、いつどこで意識の扉が開かれ、自らの存在を明確に知ることができるか、それは識別の旅に他ならない。そもそも『識別する』こととは、すなわち見ることであり、見抜くことであり、知識の光を通して物事を啓示することなのである。",
+                "synonyms": [
+                        "recognize",
+                        "discern"
+                ],
+                "antonyms": [
+                        "confuse",
+                        "obscure"
+                ],
+                "aftertaste": "To identify is to illuminate the shadows of obscurity with the light of understanding.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "ident",
+                                        "meaning": "same"
+                                },
+                                {
+                                        "term": "ify",
+                                        "meaning": "make"
+                                }
+                        ],
+                        "points": [
+                                "語源的には、ラテン語の 'identitas'（同一性）と '-ificare'（作る）から派生している。言語を通じて、私たちは世界を秩序立て、識別する。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Late 17th Century"
+        },
+        {
                 "id": "identity",
                 "word": "Identity",
                 "part_of_speech": "noun",
@@ -27730,53 +28233,53 @@ const WORDS = [
                 "id": "inspire",
                 "word": "Inspire",
                 "part_of_speech": "verb",
-                "meaning": "霊感を与える",
-                "author": "etymon_official",
+                "meaning": "鼓舞する、霊感を与える",
                 "etymology": {
                         "breakdown": [
                                 {
                                         "text": "in-",
                                         "type": "prefix",
-                                        "meaning": "中に",
-                                        "lang": "Latin"
+                                        "meaning": "into"
                                 },
                                 {
                                         "text": "spirare",
                                         "type": "root",
-                                        "meaning": "息をする",
-                                        "lang": "Latin"
+                                        "meaning": "to breathe"
                                 }
                         ],
-                        "original_statement": "The word 'inspire' traces back to the Latin inspirare, which means 'to breathe into'. It entered Middle English via Old French."
+                        "original_statement": "From Old French inspirer, from Latin inspirare 'blow into, breathe into'."
                 },
                 "core_concept": {
-                        "en": "To breathe life into the soul.",
-                        "ja": "魂に命を吹き込むこと。"
+                        "en": "To breathe life into",
+                        "ja": "誰かの内側に、新しい息を吹き込む"
                 },
-                "thinking_layer": "『インスピレーション』という言葉には、単なる行為以上のものが隠されています。それはまるで目に見えない糸が私たちの魂に染み込んでいくような感覚を呼び起こすものです。古代の人々は、息をすること、つまり生命の証である呼吸と、神からの贈り物たる霊感を同一視していました。そのように、インスピレーションは我々を日常から引き離し、一時的に永遠という感覚に連れて行く能力を持つのです。現代においても、インスピレーションは自己という限界を超え、無限の可能性という領域に私たちを引き寄せます。それはまさに未知なるものが明らかになる瞬間であり、心臓の鼓動が急上昇する瞬間であり、宇宙が一瞬、自己意識の中に息吹を感じる瞬間なのです。その結果、人間は創造し、進化し、そして自らが宇宙の一部であることを再確認します。",
+                "thinking_layer": "インスピレーションとは、空気を吸い込むように、誰かの魂に新しい生命の息吹（spirit）を吹き込む（in）ことです。それは生命の火を灯し、止まっていた時間を動かし始める呼吸なのです。",
                 "synonyms": [
-                        "Motivate",
-                        "Encourage"
+                        "motivate",
+                        "animate"
                 ],
                 "antonyms": [
-                        "Discourage",
-                        "Deter"
+                        "discourage",
+                        "depress"
                 ],
-                "aftertaste": "Inspiration is the invisible breath that turns thoughts into reality.",
+                "aftertaste": "魂を満たす新しい風",
                 "deep_dive": {
                         "roots": [
                                 {
+                                        "term": "in-",
+                                        "meaning": "in"
+                                },
+                                {
                                         "term": "spirare",
-                                        "meaning": "To breathe"
+                                        "meaning": "breath"
                                 }
                         ],
                         "points": [
-                                "ラテン語の 'spirare' は '息をする' を意味し、生と生命力の象徴であった。古代では、呼吸そのものが神聖とされ、人と神をつなぐ行為とみなされた。"
+                                "spirit（精神）や respiration（呼吸）も同じ語根です。"
                         ]
                 },
-                "source": "Online Etymology Dictionary",
-                "date": "2026-03-01",
-                "era": "14th Century"
+                "source": "etymon philologist mode",
+                "era": "14th Century Latin"
         },
         {
                 "id": "instruction",
@@ -31810,6 +32313,49 @@ const WORDS = [
                 "era": "Modern Greek"
         },
         {
+                "id": "mercy",
+                "word": "Mercy",
+                "part_of_speech": "noun",
+                "meaning": "慈悲、情け",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "merces",
+                                        "type": "root",
+                                        "meaning": "reward, price, wages"
+                                }
+                        ],
+                        "original_statement": "From Old French merci, from Latin mercedem 'reward, wages', later 'kindness, pity'."
+                },
+                "core_concept": {
+                        "en": "A reward given freely",
+                        "ja": "対価を超えて、無償で与えられる報い"
+                },
+                "thinking_layer": "「慈悲」の語源が「報酬（mercy/merces）」であることは驚きです。本来は働いた分だけもらえるはずのものを、何もしていない、あるいは罪を犯した者にさえ与える。その「不条理なまでの寛大さ」が慈悲なのです。",
+                "synonyms": [
+                        "pity",
+                        "compassion"
+                ],
+                "antonyms": [
+                        "cruelty",
+                        "punishment"
+                ],
+                "aftertaste": "計算高さを超えた、溢れる愛",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "merx",
+                                        "meaning": "goods"
+                                }
+                        ],
+                        "points": [
+                                "merchant（商人）や commerce と同じ語源から、慈悲が生まれました。"
+                        ]
+                },
+                "source": "etymon philologist mode",
+                "era": "12th Century Old French/Latin"
+        },
+        {
                 "id": "message",
                 "word": "Message",
                 "author": "etymon_official",
@@ -32711,6 +33257,49 @@ const WORDS = [
                 "source": "Etymology Online Dictionary",
                 "date": "2026-03-01",
                 "era": "Late Latin, Medieval usage"
+        },
+        {
+                "id": "mystery",
+                "word": "Mystery",
+                "part_of_speech": "noun",
+                "meaning": "神秘、謎",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "muein",
+                                        "type": "root",
+                                        "meaning": "to close the mouth or eyes"
+                                }
+                        ],
+                        "original_statement": "From Greek mysterion 'secret rite', from mystes 'one initiated', from muein 'to close'."
+                },
+                "core_concept": {
+                        "en": "Closed lips",
+                        "ja": "語ることを許されず、沈黙の中にのみ在るもの"
+                },
+                "thinking_layer": "神秘とは、説明できないことではなく、言葉にしてはいけない（close the mouth）体験です。目を閉じ、口を閉ざしたときにだけ、心の内側で開かれる真実。それは沈黙の向こう側に隠されています。",
+                "synonyms": [
+                        "enigma",
+                        "secret"
+                ],
+                "antonyms": [
+                        "explanation",
+                        "clarity"
+                ],
+                "aftertaste": "唇の上に置かれた、秘密の人差し指",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "muein",
+                                        "meaning": "shut"
+                                }
+                        ],
+                        "points": [
+                                "mute（無口な）もこの root に由来します。"
+                        ]
+                },
+                "source": "etymon philologist mode",
+                "era": "14th Century Greek/Latin"
         },
         {
                 "id": "nag",
@@ -33954,6 +34543,58 @@ const WORDS = [
                 "era": "Latin"
         },
         {
+                "id": "nutrition",
+                "word": "Nutrition",
+                "part_of_speech": "noun",
+                "meaning": "栄養、生命を支える必須の供給",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "nutritio-",
+                                        "type": "root",
+                                        "meaning": "養うこと",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "-ion",
+                                        "type": "suffix",
+                                        "meaning": "状態や過程",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "Derived from the Latin word 'nutritio', meaning 'a nourishing'."
+                },
+                "core_concept": {
+                        "en": "The sacred act of sustaining life through unseen pulses of vitality.",
+                        "ja": "見えない命の脈動を通じて生命を支える神聖な行為"
+                },
+                "thinking_layer": "栄養とは、生物の存続と進化のための不可欠な資源であり、その存在は目には見えないが、生命の奥深くに脈動している。この力強さは、自然界の微細な法則に従い、あらゆる生命体に活力を与え、成長を促す。栄養がもたらすエネルギーは、光や空気、水と同じくらい基本的なものであり、それは生命の織物を形作り、宇宙の一部としての生きる意味をも繋ぎ止める。無限の循環の中で、栄養とはただ物質を提供する以上のものであり、心身の調和、そして内的な安寧をもたらす。人間は栄養を通して、自然と一体化し、内観し、そして新しい命のサイクルを迎える準備をする。生命の根源に帰るたびに、栄養とは単なる物理的な供給を超え、魂に響く深い糸を織り成すのである。本質的なその役割に身を委ねる時、栄養とは生命の最大の贈り物であることを忘れてはならない。",
+                "synonyms": [
+                        "nourishment",
+                        "sustenance"
+                ],
+                "antonyms": [
+                        "deprivation",
+                        "starvation"
+                ],
+                "aftertaste": "The quiet giver of life’s perpetuation.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "nutrire",
+                                        "meaning": "to nourish"
+                                }
+                        ],
+                        "points": [
+                                "栄養という概念は、生物学的エネルギーだけでなく、存在そのものの滋養をも意味する。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "15th Century"
+        },
+        {
                 "id": "objective",
                 "word": "Objective",
                 "part_of_speech": "noun/adjective",
@@ -34066,6 +34707,54 @@ const WORDS = [
                 "source": "Oxford English Dictionary",
                 "date": "2026-03-01",
                 "era": "Late Middle English, from Latin"
+        },
+        {
+                "id": "oblivion",
+                "word": "Oblivion",
+                "part_of_speech": "noun",
+                "meaning": "忘却",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "ob-",
+                                        "type": "prefix",
+                                        "meaning": "over"
+                                },
+                                {
+                                        "text": "levis",
+                                        "type": "root",
+                                        "meaning": "smooth"
+                                }
+                        ],
+                        "original_statement": "From Latin obliviscor 'I forget', literally 'to smooth over'."
+                },
+                "core_concept": {
+                        "en": "To smooth over",
+                        "ja": "記憶の凹凸をならし、なかったことにする"
+                },
+                "thinking_layer": "忘却とは、記憶を消し去ることではなく、表面を「滑らかに（smooth）」にして見えなくすることです。傷跡も、喜びも、時の流れが優しく（あるいは冷酷に）平らに覆い隠していく。それが忘却の慈悲であり、恐怖です。",
+                "synonyms": [
+                        "forgetfulness",
+                        "nothingness"
+                ],
+                "antonyms": [
+                        "memory",
+                        "remembrance"
+                ],
+                "aftertaste": "波ひとつない、静かな平原",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "levis",
+                                        "meaning": "smooth"
+                                }
+                        ],
+                        "points": [
+                                "levis（滑らかな）は lubricant（潤滑剤）とも関連があります。"
+                        ]
+                },
+                "source": "etymon philologist mode",
+                "era": "14th Century Latin"
         },
         {
                 "id": "observe",
@@ -36311,6 +37000,54 @@ const WORDS = [
                 "era": "19th Century"
         },
         {
+                "id": "patience",
+                "word": "Patience",
+                "part_of_speech": "noun",
+                "meaning": "忍耐、我慢",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "pati-",
+                                        "type": "root",
+                                        "meaning": "to suffer, endure"
+                                },
+                                {
+                                        "text": "-ence",
+                                        "type": "suffix",
+                                        "meaning": "state of"
+                                }
+                        ],
+                        "original_statement": "From Old French pacience, from Latin patientia 'suffering, endurance'."
+                },
+                "core_concept": {
+                        "en": "The state of suffering",
+                        "ja": "静かに苦しみを受け入れ、耐え忍ぶこと"
+                },
+                "thinking_layer": "忍耐とは、ただ待つことではなく、苦しみ（pati）の中にとどまる力です。それは受動的な諦めではなく、痛みを引き受けながらも、自分を失わずにいようとする強靭な魂の姿勢なのです。",
+                "synonyms": [
+                        "forbearance",
+                        "endurance"
+                ],
+                "antonyms": [
+                        "impatience",
+                        "agitation"
+                ],
+                "aftertaste": "静寂に宿る強靭さ",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "patior",
+                                        "meaning": "suffer"
+                                }
+                        ],
+                        "points": [
+                                "patient（患者）は、まさに「苦しみに耐える人」を意味します。"
+                        ]
+                },
+                "source": "etymon philologist mode",
+                "era": "12th Century Old French/Latin"
+        },
+        {
                 "id": "peculiar",
                 "word": "Peculiar",
                 "author": "etymon_official",
@@ -37041,6 +37778,58 @@ const WORDS = [
                 "source": "Oxford English Dictionary",
                 "date": "2026-03-01",
                 "era": "15th Century"
+        },
+        {
+                "id": "person",
+                "word": "Person",
+                "part_of_speech": "noun",
+                "meaning": "人、個人",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "per-",
+                                        "type": "prefix",
+                                        "meaning": "through"
+                                },
+                                {
+                                        "text": "sonare",
+                                        "type": "root",
+                                        "meaning": "to sound"
+                                }
+                        ],
+                        "original_statement": "From Latin persona 'mask, character', possibly from personare 'to sound through'."
+                },
+                "core_concept": {
+                        "en": "Sounding through a mask",
+                        "ja": "仮面を通して、内なる声が響く"
+                },
+                "thinking_layer": "「人」とはもともと演劇の「仮面（persona）」を意味しました。私たちは社会的な仮面を被っていますが、その「仮面を通り抜けて（per-sonare）」響いてくる声こそが、その人自身の本質（人格）なのです。",
+                "synonyms": [
+                        "individual",
+                        "human"
+                ],
+                "antonyms": [
+                        "object",
+                        "thing"
+                ],
+                "aftertaste": "仮面の下に響く、固有の旋律",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "per-",
+                                        "meaning": "through"
+                                },
+                                {
+                                        "term": "sonus",
+                                        "meaning": "sound"
+                                }
+                        ],
+                        "points": [
+                                "sonar や sound も同じ語根。人格は音の響きとして捉えられていました。"
+                        ]
+                },
+                "source": "etymon philologist mode",
+                "era": "13th Century Latin"
         },
         {
                 "id": "perspicacity",
@@ -40842,7 +41631,7 @@ const WORDS = [
                 "id": "religion",
                 "word": "Religion",
                 "part_of_speech": "noun",
-                "meaning": "宗教",
+                "meaning": "宗教、信仰",
                 "etymology": {
                         "breakdown": [
                                 {
@@ -40856,37 +41645,45 @@ const WORDS = [
                                         "meaning": "to bind"
                                 }
                         ],
-                        "original_statement": "From Latin religare 'to bind again'."
+                        "original_statement": "From Latin religio 'respect for what is sacred', possibly from religare 'to bind fast'."
                 },
                 "core_concept": {
-                        "en": "To bind again",
-                        "ja": "人と世界を結び直すもの"
+                        "en": "To bind back",
+                        "ja": "バラバラになったものを、再び結び合わせる"
                 },
-                "thinking_layer": "宗教とは新しいものではなく、『失われたつながり』を取り戻す試みです。",
+                "thinking_layer": "宗教の根源は、断絶された人間と神、あるいは人間と自然を「再び（re）結びつける（ligare）」ことにあります。孤独な個人を、大きな全体へと繋ぎ直すための絆の糸。それが宗教の本質です。",
                 "synonyms": [
-                        "faith"
+                        "faith",
+                        "creed"
                 ],
-                "antonyms": [],
-                "aftertaste": "再び結ばれる関係",
+                "antonyms": [
+                        "atheism",
+                        "disconnection"
+                ],
+                "aftertaste": "切れた糸を繋ぎ直す祈り",
                 "deep_dive": {
                         "roots": [
                                 {
+                                        "term": "re-",
+                                        "meaning": "again"
+                                },
+                                {
                                         "term": "ligare",
-                                        "meaning": "to bind"
+                                        "meaning": "bind"
                                 }
                         ],
                         "points": [
-                                "ligament（靭帯）と同語源です。"
+                                "rely（頼る）や ligament（靭帯）も同根の bind です。"
                         ]
                 },
-                "source": "ChatGPT Philologist Mode",
-                "era": "Latin"
+                "source": "etymon philologist mode",
+                "era": "13th Century Latin"
         },
         {
                 "id": "remember",
                 "word": "Remember",
                 "part_of_speech": "verb",
-                "meaning": "思い出す",
+                "meaning": "覚えている、思い出す",
                 "etymology": {
                         "breakdown": [
                                 {
@@ -40900,13 +41697,13 @@ const WORDS = [
                                         "meaning": "mindful"
                                 }
                         ],
-                        "original_statement": "From Latin rememorari 'to recall to mind'."
+                        "original_statement": "From Latin rememorari 'recall to mind', from re- 'again' + memor 'mindful'."
                 },
                 "core_concept": {
-                        "en": "To bring back to mind",
-                        "ja": "心にもう一度呼び戻す"
+                        "en": "To call to mind again",
+                        "ja": "再び、心をそのことで満たす"
                 },
-                "thinking_layer": "記憶とは過去の保存ではなく、現在に再び呼び戻す行為です。",
+                "thinking_layer": "思い出すことは、単なるデータの検索ではありません。離れていた記憶を「再び（re）」、今の自分の「心（memor）」に招き入れること。過去を現在の心で温め直す作業です。",
                 "synonyms": [
                         "recall",
                         "recollect"
@@ -40914,20 +41711,24 @@ const WORDS = [
                 "antonyms": [
                         "forget"
                 ],
-                "aftertaste": "再び生きる過去",
+                "aftertaste": "心の庭に再び咲く花",
                 "deep_dive": {
                         "roots": [
+                                {
+                                        "term": "re-",
+                                        "meaning": "again"
+                                },
                                 {
                                         "term": "memor",
                                         "meaning": "mindful"
                                 }
                         ],
                         "points": [
-                                "memory（記憶）と同語源です。"
+                                "memory, memorial, memoir などの仲間です。"
                         ]
                 },
-                "source": "ChatGPT Philologist Mode",
-                "era": "Latin"
+                "source": "etymon philologist mode",
+                "era": "14th Century Old French/Latin"
         },
         {
                 "id": "repair",
@@ -41197,8 +41998,8 @@ const WORDS = [
         {
                 "id": "respect",
                 "word": "Respect",
-                "part_of_speech": "noun",
-                "meaning": "尊敬",
+                "part_of_speech": "noun/verb",
+                "meaning": "尊敬、尊重する",
                 "etymology": {
                         "breakdown": [
                                 {
@@ -41209,36 +42010,42 @@ const WORDS = [
                                 {
                                         "text": "specere",
                                         "type": "root",
-                                        "meaning": "to look"
+                                        "meaning": "to look at"
                                 }
                         ],
-                        "original_statement": "From Latin respectus 'a looking back at'."
+                        "original_statement": "From Latin respectus 'looking back at', from respicere 'look back at, regard, consider'."
                 },
                 "core_concept": {
                         "en": "To look again",
-                        "ja": "もう一度見つめ直すこと"
+                        "ja": "一度ならず、二度三度と見つめ直す"
                 },
-                "thinking_layer": "尊敬とは評価ではなく、『見直すこと』。人の価値は、見方を変えたときに現れます。",
+                "thinking_layer": "尊敬とは、第一印象で判断せず、何度も「見つめ直す（look again）」ことです。見過ごしてしまいそうな相手の奥深い価値を、注意深く、敬意を持って再び見つめる。そのまなざしこそが尊敬なのです。",
                 "synonyms": [
-                        "admire"
+                        "esteem",
+                        "regard"
                 ],
                 "antonyms": [
+                        "contempt",
                         "disrespect"
                 ],
-                "aftertaste": "見直すまなざし",
+                "aftertaste": "何度も向けられる深い視線",
                 "deep_dive": {
                         "roots": [
                                 {
+                                        "term": "re-",
+                                        "meaning": "again"
+                                },
+                                {
                                         "term": "specere",
-                                        "meaning": "to look"
+                                        "meaning": "look"
                                 }
                         ],
                         "points": [
-                                "inspectやspectatorと同語源です。"
+                                "spectacle, inspect, suspectなども同じ視覚の語根です。"
                         ]
                 },
-                "source": "ChatGPT Philologist Mode",
-                "era": "Latin"
+                "source": "etymon philologist mode",
+                "era": "14th Century Latin"
         },
         {
                 "id": "respond",
@@ -41689,6 +42496,58 @@ const WORDS = [
                 "source": "Online Etymology Dictionary",
                 "date": "2026-02-28",
                 "era": "Late 19th Century, French origin"
+        },
+        {
+                "id": "sacrifice",
+                "word": "Sacrifice",
+                "part_of_speech": "noun/verb",
+                "meaning": "犠牲、捧げもの",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "sacer",
+                                        "type": "root",
+                                        "meaning": "sacred"
+                                },
+                                {
+                                        "text": "facere",
+                                        "type": "root",
+                                        "meaning": "to make"
+                                }
+                        ],
+                        "original_statement": "From Old French sacrifise, from Latin sacrificium, from sacer 'holy' + facere 'to make'."
+                },
+                "core_concept": {
+                        "en": "To make sacred",
+                        "ja": "何かを差し出すことで、聖なるものに変える"
+                },
+                "thinking_layer": "犠牲とは、単なる喪失ではありません。大切なものを手放すという行為を通じて、その物事を「聖なる次元（sacer）」へと昇華させる（facere）こと。手放す痛みこそが、聖性を生むのです。",
+                "synonyms": [
+                        "offering",
+                        "surrender"
+                ],
+                "antonyms": [
+                        "acquisition",
+                        "greed"
+                ],
+                "aftertaste": "喪失から生まれる聖なる光",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "sacer",
+                                        "meaning": "holy"
+                                },
+                                {
+                                        "term": "facere",
+                                        "meaning": "do/make"
+                                }
+                        ],
+                        "points": [
+                                "sacred や factory と同じルーツが混ざり合っています。"
+                        ]
+                },
+                "source": "etymon philologist mode",
+                "era": "13th Century Old French/Latin"
         },
         {
                 "id": "salad",
@@ -43569,48 +44428,54 @@ const WORDS = [
         {
                 "id": "sincere",
                 "word": "Sincere",
-                "author": "etymon_official",
+                "part_of_speech": "adjective",
+                "meaning": "誠実な、心からの",
                 "etymology": {
                         "breakdown": [
                                 {
-                                        "text": "sincerus",
+                                        "text": "sin-",
+                                        "type": "prefix",
+                                        "meaning": "without"
+                                },
+                                {
+                                        "text": "cera",
                                         "type": "root",
-                                        "meaning": "純粋で混じり気のない",
-                                        "lang": "Latin"
+                                        "meaning": "wax"
                                 }
                         ],
-                        "original_statement": "The word 'sincere' originates from the Latin 'sincerus', which means clean, pure, or sound."
+                        "original_statement": "From Latin sincerus 'pure, clean', according to some from sin 'without' + cera 'wax'."
                 },
                 "core_concept": {
-                        "en": "The untainted essence of truth and authenticity.",
-                        "ja": "真実と誠実さの穢れなき本質"
+                        "en": "Without wax",
+                        "ja": "ごまかしの蜜蝋を塗っていない、ありのまま"
                 },
-                "thinking_layer": "私たちの心の中には常に本質的な感情の浄化の必要がある。それは、細やかな思いやりと誠実さをもって他者に向き合うとき、つまり私たちが自己の真実を誠実に表現する際に、初めて達成されるものだ。この誠実さは、まるで透明な川の水のように純粋であり、その中を流れる思想は決して曇らずに運ばれる。この状態は自然の状態であり、作り出されるのではなく、むしろ私たちの存在するあらゆる瞬間に内在しているものである。私たちが誠実であるとき、心の内側と外側の調和は保たれ、意味のある対話が可能になる。誠実さは時間を超越し、文化や意識の差異にも影響されず、全ての生命の発展において基本的な役割を果たすものである。誠実さは美しい花が咲くように展開し、人間の相互作用における信頼の橋を築いていく。それは一瞬ではなく、途中に妥協のない献身として存在する。誠実性とは、生命の流れの中で混じりけのない、真実の輝きである。",
+                "thinking_layer": "彫刻の傷をワックスで隠さなかったという説が有名です。誠実さとは、欠点や傷を美辞麗句で埋め合わせることなく、ありのままの質感（pure）を相手に差し出す勇気のことです。",
                 "synonyms": [
-                        "Honest",
-                        "Authentic"
+                        "honest",
+                        "genuine"
                 ],
                 "antonyms": [
-                        "Deceptive",
-                        "Insincere"
+                        "insincere",
+                        "fake"
                 ],
-                "aftertaste": "Sincere words create bridges where walls once stood.",
+                "aftertaste": "傷さえも美しい、無垢な質感",
                 "deep_dive": {
                         "roots": [
                                 {
-                                        "term": "sincerus",
-                                        "meaning": "clean, pure"
+                                        "term": "sine",
+                                        "meaning": "without"
+                                },
+                                {
+                                        "term": "cera",
+                                        "meaning": "wax"
                                 }
                         ],
                         "points": [
-                                "『真実であること』という状態は、いかなる文化的背景においても共通の高貴な価値観であり、全時代を通じた人類の追求である。"
+                                "この説は民俗語源という説もありますが、哲学的には非常に深い比喩です。"
                         ]
                 },
-                "source": "Oxford English Dictionary",
-                "date": "2026-02-27",
-                "part_of_speech": "adjective",
-                "meaning": "誠実な",
-                "era": "Latin"
+                "source": "etymon philologist mode",
+                "era": "16th Century Latin"
         },
         {
                 "id": "sinister",
@@ -45177,6 +46042,58 @@ const WORDS = [
                 "era": "18th Century"
         },
         {
+                "id": "sympathy",
+                "word": "Sympathy",
+                "part_of_speech": "noun",
+                "meaning": "共感、同情",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "syn-",
+                                        "type": "prefix",
+                                        "meaning": "together"
+                                },
+                                {
+                                        "text": "pathos",
+                                        "type": "root",
+                                        "meaning": "feeling, suffering"
+                                }
+                        ],
+                        "original_statement": "From Greek sympatheia 'fellow-feeling', from syn- 'together' + pathos 'feeling'."
+                },
+                "core_concept": {
+                        "en": "Feeling together",
+                        "ja": "誰かと共に、痛みを分かち合う"
+                },
+                "thinking_layer": "共感とは、相手の感情を観察することではなく、相手の「痛み（pathos）」を「共に（syn）」味わうことです。二つの魂が同じ振動数で震えるとき、孤独という境界線は消えてなくなります。",
+                "synonyms": [
+                        "compassion",
+                        "empathy"
+                ],
+                "antonyms": [
+                        "antipathy",
+                        "cruelty"
+                ],
+                "aftertaste": "重なり合う心の震え",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "syn-",
+                                        "meaning": "together"
+                                },
+                                {
+                                        "term": "pathos",
+                                        "meaning": "feeling"
+                                }
+                        ],
+                        "points": [
+                                "pathosは patient（患者）の語源でもあります。"
+                        ]
+                },
+                "source": "etymon philologist mode",
+                "era": "16th Century Greek"
+        },
+        {
                 "id": "syncretism",
                 "word": "Syncretism",
                 "author": "etymon_official",
@@ -46681,6 +47598,63 @@ const WORDS = [
                 "era": "Middle English (15th Century), Latin origin"
         },
         {
+                "id": "tradition",
+                "word": "Tradition",
+                "part_of_speech": "noun",
+                "meaning": "伝統",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "tradere",
+                                        "type": "root",
+                                        "meaning": "伝える",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "tion",
+                                        "type": "suffix",
+                                        "meaning": "こと",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "Tradition originates from the Latin 'traditio,' meaning a handover, derived from 'tradere,' to deliver, entrust or transmit."
+                },
+                "core_concept": {
+                        "en": "A precious thread linking the past to the present, woven with shared wisdom.",
+                        "ja": "過去と現在を繋ぐ貴重な糸、共有された知恵で織られたもの。"
+                },
+                "thinking_layer": "「伝統」という言葉は、百年を超える歴史の中で、文化と価値観が時を超えて受け渡される過程を表しています。それは単なる過去の模倣ではなく、新しい文脈の中で古い知恵が生き続けることを意味します。この繊細なプロセスは、個々の経験が集い、より大きな共同体の記憶を形成することであり、特定の時間や場所に限定されない普遍的な人間の営みです。伝統は、変化と普遍性の間で揺れ動く恒常的な進行形です。古代の儀式や逸話が息づき、新世代へ新たな解釈と意義を持たせながら伝えられていく—それが伝統の力の真髄です。人は伝統を通して過去から呼びかけられ、それを継続することによって未来への道を築きます。この連なりにおいて、伝統は固定された形ではなく、生ける動的な存在であり、時代に応じて変化し続ける生命力に満ちています。",
+                "synonyms": [
+                        "Custom",
+                        "Heritage"
+                ],
+                "antonyms": [
+                        "Innovation",
+                        "Novelty"
+                ],
+                "aftertaste": "Tradition is the echo of time resonating in the hearts of the present.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "tradere",
+                                        "meaning": "to deliver, entrust"
+                                },
+                                {
+                                        "term": "tion",
+                                        "meaning": "act, process"
+                                }
+                        ],
+                        "points": [
+                                "「tradere」はラテン語で「引き渡す」または「託す」を意味し、それが英語の「tradition」に繋がっている。",
+                                "伝統は、文化的価値観や知識の贈物として、未来への営みとして生き続ける。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Late Middle English, derived from Latin"
+        },
+        {
                 "id": "transact",
                 "word": "Transact",
                 "part_of_speech": "verb",
@@ -47388,6 +48362,58 @@ const WORDS = [
                 "era": "Middle English"
         },
         {
+                "id": "trendy",
+                "word": "Trendy",
+                "part_of_speech": "adjective",
+                "meaning": "流行を追うさま",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "trend",
+                                        "type": "root",
+                                        "meaning": "流行",
+                                        "lang": "English"
+                                },
+                                {
+                                        "text": "-y",
+                                        "type": "suffix",
+                                        "meaning": "〜的な",
+                                        "lang": "English"
+                                }
+                        ],
+                        "original_statement": "The adjective 'trendy' emerged in the late 20th century, derived from the noun 'trend', which has roots in the Middle English 'trenden'."
+                },
+                "core_concept": {
+                        "en": "Ephemeral pursuit of collective desire.",
+                        "ja": "共同欲望のつかの間の追求"
+                },
+                "thinking_layer": "トレンディとは、私たちの時代精神を反映する、一瞬の煌めきのような概念である。現代社会において、人々は時として流行に身を寄せる。それは、一つの美しくも儚い幻想の中で、個々の存在が一体化する瞬間をもたらす。トレンディという言葉は、時代の風を読み、常に変化し続ける文化の流れの中で、目に見えない絆を形成する。我々がトレンディさに惹かれる理由は、そこにある一時的な歓喜が、我々の孤独を埋めるからである。流行を追うことは、自らの存在を一瞬でも輝かせ、共有する瞬間を創り出す術なのだ。そして、その刹那の経験は、生きることの美しさと儚さを我々に改めて気づかせるのだ。",
+                "synonyms": [
+                        "Stylish",
+                        "Fashionable"
+                ],
+                "antonyms": [
+                        "Outdated",
+                        "Unfashionable"
+                ],
+                "aftertaste": "Trendy captures the fleeting moment of cultural alignment.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "trend",
+                                        "meaning": "current style or preference"
+                                }
+                        ],
+                        "points": [
+                                "トレンディの語源には、流行が絶え間なく進化し、人々の嗜好の波に乗る様子が描かれている。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Late 20th Century"
+        },
+        {
                 "id": "trivia",
                 "word": "Trivia",
                 "author": "etymon_official",
@@ -47790,56 +48816,52 @@ const WORDS = [
                 "id": "understand",
                 "word": "Understand",
                 "part_of_speech": "verb",
-                "meaning": "認識する、理解すること。",
-                "author": "etymon_official",
+                "meaning": "理解する",
                 "etymology": {
                         "breakdown": [
                                 {
-                                        "text": "under",
+                                        "text": "under-",
                                         "type": "prefix",
-                                        "meaning": "下に",
-                                        "lang": "Old English"
+                                        "meaning": "between / among"
                                 },
                                 {
-                                        "text": "standan",
+                                        "text": "stand",
                                         "type": "root",
-                                        "meaning": "立つ",
-                                        "lang": "Old English"
+                                        "meaning": "to stand"
                                 }
                         ],
-                        "original_statement": "The word 'understand' derives from Old English 'understandan,' meaning to stand in the midst of."
+                        "original_statement": "From Old English understandan 'comprehend, grasp the meaning', literally 'stand between'."
                 },
                 "core_concept": {
-                        "en": "To grasp without disturbance the nature of things.",
-                        "ja": "物事の本質を静かに捉えること。"
+                        "en": "To stand in the midst",
+                        "ja": "物事の真ん中に立ち、その重みを感じる"
                 },
-                "thinking_layer": "理解とは、ただ知識を蓄積することではなく、心と精神を通じて深く共鳴するための行為です。例えば、花を見てその色や形を知るだけでなく、その美しさや儚さに触れることが理解の始まりかもしれません。その奥深い世界において、心は音叉のように共鳴しながら、真の理解に近づいていきます。人々は言葉を超えて、透明な心の内なる声に耳を傾け、この異なる次元に浸ることで、未知を知る歓びを味わいます。理解とは、言語を超えた心と心の対話であり、ただ目に見えるものの奥に潜む真実を解き明かすこと。この深淵な旅を通して私たちは、自らの限界を知りつつも、未知なる次元への興味を抱き続けるのです。そうして人は、外界と内界の交わるところに立ち、今この瞬間を生き生きと感じることができるのです。",
+                "thinking_layer": "「理解する」とは、高い所から眺めることではありません。その物事の「ただ中（under/between）」に降りていき、そこに「立つ（stand）」ことです。同じ目線で痛みや真理に触れるとき、初めて本当の理解が生まれます。",
                 "synonyms": [
-                        "Comprehend",
-                        "Grasp"
+                        "comprehend",
+                        "grasp"
                 ],
                 "antonyms": [
-                        "Misunderstand",
-                        "Ignore"
+                        "misunderstand",
+                        "ignore"
                 ],
-                "aftertaste": "To truly understand is to open the heart's silent conversations.",
+                "aftertaste": "真ん中に立つ勇気と調和",
                 "deep_dive": {
                         "roots": [
                                 {
                                         "term": "under",
-                                        "meaning": "below, under"
+                                        "meaning": "among"
                                 },
                                 {
                                         "term": "standan",
-                                        "meaning": "stand, be firm"
+                                        "meaning": "stand"
                                 }
                         ],
                         "points": [
-                                "理解という行為は、単なる機械的な知識の吸収を超えたもので、精神の奥底に届く深い共鳴である。"
+                                "「下に立つ」のではなく「間に立つ」のが本来のニュアンスです。"
                         ]
                 },
-                "source": "Online Etymology Dictionary",
-                "date": "2026-02-28",
+                "source": "etymon philologist mode",
                 "era": "Old English"
         },
         {
@@ -47903,57 +48925,53 @@ const WORDS = [
                 "id": "universe",
                 "word": "Universe",
                 "part_of_speech": "noun",
-                "meaning": "全ての存在や事象を含む広大な空間。",
-                "author": "etymon_official",
+                "meaning": "宇宙、万物",
                 "etymology": {
                         "breakdown": [
                                 {
                                         "text": "uni-",
                                         "type": "prefix",
-                                        "meaning": "一",
-                                        "lang": "Latin"
-                                },
-                                {
-                                        "text": "versum",
-                                        "type": "root",
-                                        "meaning": "回る",
-                                        "lang": "Latin"
-                                }
-                        ],
-                        "original_statement": "The term 'universe' comes from the Latin 'universus', a combination of 'uni-' meaning 'one' and 'versus', the past participle of 'vertere' meaning 'to turn'."
-                },
-                "core_concept": {
-                        "en": "The cosmos in a harmonious dance of singular existence.",
-                        "ja": "一つの存在が調和の中で舞う宇宙。"
-                },
-                "thinking_layer": "宇宙とは、無限と有限の狭間にある未知の海である。その始まりも終わりも知れず、我々の小さな存在を超越する広大なキャンバスだ。すべての星、銀河、そして我々自身の生命は、この無限の背景に描かれた一瞬の絵画である。宇宙は単なる物理的存在ではなく、我々の知識の端で踊る神秘のジャンルであり、存在の探求の源泉である。私たちが生きる瞬間、夢見、考えるすべてはこの広がりに埋め込まれており、その中で我々は自分自身を見つめ直す。宇宙は、生命の謎を解き明かし、未知を知る探求の旅人たちに永遠のインスピレーションを供給する。過去、現在、そして未来が交錯するこの大いなる物語の一節である。普遍性がそこにある。すべては一つ、されどその一はすべてを包む。",
-                "synonyms": [
-                        "Cosmos",
-                        "Creation"
-                ],
-                "antonyms": [
-                        "Nothingness",
-                        "Void"
-                ],
-                "aftertaste": "The universe is serenity wrapped in the chaos of endless existence.",
-                "deep_dive": {
-                        "roots": [
-                                {
-                                        "term": "uni-",
                                         "meaning": "one"
                                 },
                                 {
-                                        "term": "versum",
-                                        "meaning": "to turn"
+                                        "text": "versus",
+                                        "type": "root",
+                                        "meaning": "turned"
+                                }
+                        ],
+                        "original_statement": "From Latin universum 'all things, the whole world', from unus 'one' + versus 'turned' (past participle of vertere)."
+                },
+                "core_concept": {
+                        "en": "Turned into one",
+                        "ja": "すべてが一つに、回転してまとまったもの"
+                },
+                "thinking_layer": "宇宙とは、バラバラな断片ではありません。あらゆるものが一つの方向へ「回転（versus）」し、不可分な「一つ（uni）」に結びついた全体像。私たちは、その巨大な回転の一部なのです。",
+                "synonyms": [
+                        "cosmos",
+                        "macrocosm"
+                ],
+                "antonyms": [
+                        "atom",
+                        "part"
+                ],
+                "aftertaste": "一つに融け合う万物の輪舞",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "unus",
+                                        "meaning": "one"
+                                },
+                                {
+                                        "term": "vertere",
+                                        "meaning": "turn"
                                 }
                         ],
                         "points": [
-                                "『Universe』は、ラテン語の『uni-』と『versum』からなり、「一なるものが回転する」という意味を持つ。このことから、全体を包括し回帰する普遍的なイメージを想起させる。"
+                                "versatile（多才な＝多方面に回転できる）も同根です。"
                         ]
                 },
-                "source": "Oxford English Dictionary",
-                "date": "2026-02-28",
-                "era": "Latin"
+                "source": "etymon philologist mode",
+                "era": "14th Century Latin"
         },
         {
                 "id": "usufruct",
@@ -49547,6 +50565,63 @@ const WORDS = [
                 "era": "Old English"
         },
         {
+                "id": "worldly",
+                "word": "Worldly",
+                "part_of_speech": "adjective",
+                "meaning": "世俗的な、世間的な",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "world",
+                                        "type": "root",
+                                        "meaning": "世",
+                                        "lang": "Old English"
+                                },
+                                {
+                                        "text": "-ly",
+                                        "type": "suffix",
+                                        "meaning": "のような",
+                                        "lang": "Old English"
+                                }
+                        ],
+                        "original_statement": "The word 'worldly' originates from the Middle English term 'worldli', which is derived from the Old English 'woruldlic'. It combines 'world', referring to the state of human affairs, with the suffix '-ly', denoting characteristic or resemblance."
+                },
+                "core_concept": {
+                        "en": "The essence of life encased in the tapestry of earthly existence.",
+                        "ja": "地上の存在の織物に包まれた人生の本質"
+                },
+                "thinking_layer": "世俗的とは、時間と空間の制約に縛られた人間の経験を探求する。その感覚は、永遠の目に見えない現実に対立するものであり、地球の土壌に結びつけられている。私たちの選択と思索は、ここに存在する限り、物質の境界から逃れることはできない。世の中に深く根ざした考えや行為は、一見無限の意味を持たないかのように見えるが、それでも際限なく深いのは、その虚無の均衡に宿る可能性そのものに他ならない。究極にはこの世の経験と結びついたものであるが、我々はその中の永遠の一部であり、有限の中で無限を理解しようとする私たちの試みに、その意味があるのかもしれない。",
+                "synonyms": [
+                        "earthly",
+                        "mundane"
+                ],
+                "antonyms": [
+                        "spiritual",
+                        "transcendental"
+                ],
+                "aftertaste": "Grasp the tangible; the spirit exists within the soil's grasp.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "world",
+                                        "meaning": "The human lifetime or age; worldly affairs."
+                                },
+                                {
+                                        "term": "-ly",
+                                        "meaning": "Characteristic of"
+                                }
+                        ],
+                        "points": [
+                                "この語の源は、世界という概念に対する物質的、日常的な側面を強調する。",
+                                "それは、物質界の一部でありながら、見えない精神の領域に対する対比として存在する。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Middle English (12th Century)"
+        },
+        {
                 "id": "yank",
                 "word": "Yank",
                 "part_of_speech": "noun/verb",
@@ -49785,598 +50860,5 @@ const WORDS = [
                 "part_of_speech": "adjective",
                 "meaning": "生命の",
                 "era": "19th Century"
-        },
-        {
-                "id": "identify",
-                "word": "Identify",
-                "part_of_speech": "verb",
-                "meaning": "識別する、特定する",
-                "author": "etymon_official",
-                "etymology": {
-                        "breakdown": [
-                                {
-                                        "text": "ident",
-                                        "type": "root",
-                                        "meaning": "同一",
-                                        "lang": "ラテン語"
-                                },
-                                {
-                                        "text": "ify",
-                                        "type": "suffix",
-                                        "meaning": "〜にする",
-                                        "lang": "ラテン語"
-                                }
-                        ],
-                        "original_statement": "The word 'identify' comes from the late 17th century, from medieval Latin identificare, from late Latin identitas (see identity) + Latin -ificare (see -fy)."
-                },
-                "core_concept": {
-                        "en": "To recognize or establish the identity of something.",
-                        "ja": "何かの同一性を認識または確立すること。"
-                },
-                "thinking_layer": "この『識別』という行為には、者が他者や物事と自らの間に存在する境界を越えて深く浸透する動的なプロセスが込められている。私たちが何かを識別する時、その行為は単なる外観を超越し、深層に隠された真実を見出す試みである。何が唯一無二であるか、何が他とは異なるのかを理解することによって、私たちは事物の複雑な網の目を解きほぐす。この行為は、変化する世界の中で私たち自身を確認しようとする人間の永遠の願望の表れであり、断片的な存在のピースを一つに繋ぎ合わせて、綿密な叙事詩を編み上げる試みである。『識別』という概念の中には、個と個、そして宇宙との調和があり、時を越えた哲学的探求の根底がある。そしてその過程で、私たちは自己をより深く見つめ、他者と共鳴することができるのだ。そうして成功裏に識別された時、我々は物質の限界を超えた本質的な理解を得るのだ。実に、この行為は一種のスピリチュアルな旅であり、内なる真実への探究なのだ。人類の歴史において、いつどこで意識の扉が開かれ、自らの存在を明確に知ることができるか、それは識別の旅に他ならない。そもそも『識別する』こととは、すなわち見ることであり、見抜くことであり、知識の光を通して物事を啓示することなのである。",
-                "synonyms": [
-                        "recognize",
-                        "discern"
-                ],
-                "antonyms": [
-                        "confuse",
-                        "obscure"
-                ],
-                "aftertaste": "To identify is to illuminate the shadows of obscurity with the light of understanding.",
-                "deep_dive": {
-                        "roots": [
-                                {
-                                        "term": "ident",
-                                        "meaning": "same"
-                                },
-                                {
-                                        "term": "ify",
-                                        "meaning": "make"
-                                }
-                        ],
-                        "points": [
-                                "語源的には、ラテン語の 'identitas'（同一性）と '-ificare'（作る）から派生している。言語を通じて、私たちは世界を秩序立て、識別する。"
-                        ]
-                },
-                "source": "Oxford English Dictionary",
-                "date": "2026-03-01",
-                "era": "Late 17th Century"
-        },
-        {
-                "id": "trendy",
-                "word": "Trendy",
-                "part_of_speech": "adjective",
-                "meaning": "流行を追うさま",
-                "author": "etymon_official",
-                "etymology": {
-                        "breakdown": [
-                                {
-                                        "text": "trend",
-                                        "type": "root",
-                                        "meaning": "流行",
-                                        "lang": "English"
-                                },
-                                {
-                                        "text": "-y",
-                                        "type": "suffix",
-                                        "meaning": "〜的な",
-                                        "lang": "English"
-                                }
-                        ],
-                        "original_statement": "The adjective 'trendy' emerged in the late 20th century, derived from the noun 'trend', which has roots in the Middle English 'trenden'."
-                },
-                "core_concept": {
-                        "en": "Ephemeral pursuit of collective desire.",
-                        "ja": "共同欲望のつかの間の追求"
-                },
-                "thinking_layer": "トレンディとは、私たちの時代精神を反映する、一瞬の煌めきのような概念である。現代社会において、人々は時として流行に身を寄せる。それは、一つの美しくも儚い幻想の中で、個々の存在が一体化する瞬間をもたらす。トレンディという言葉は、時代の風を読み、常に変化し続ける文化の流れの中で、目に見えない絆を形成する。我々がトレンディさに惹かれる理由は、そこにある一時的な歓喜が、我々の孤独を埋めるからである。流行を追うことは、自らの存在を一瞬でも輝かせ、共有する瞬間を創り出す術なのだ。そして、その刹那の経験は、生きることの美しさと儚さを我々に改めて気づかせるのだ。",
-                "synonyms": [
-                        "Stylish",
-                        "Fashionable"
-                ],
-                "antonyms": [
-                        "Outdated",
-                        "Unfashionable"
-                ],
-                "aftertaste": "Trendy captures the fleeting moment of cultural alignment.",
-                "deep_dive": {
-                        "roots": [
-                                {
-                                        "term": "trend",
-                                        "meaning": "current style or preference"
-                                }
-                        ],
-                        "points": [
-                                "トレンディの語源には、流行が絶え間なく進化し、人々の嗜好の波に乗る様子が描かれている。"
-                        ]
-                },
-                "source": "Oxford English Dictionary",
-                "date": "2026-03-01",
-                "era": "Late 20th Century"
-        },
-        {
-                "id": "agency",
-                "word": "Agency",
-                "part_of_speech": "noun",
-                "meaning": "代理または作用する力",
-                "author": "etymon_official",
-                "etymology": {
-                        "breakdown": [
-                                {
-                                        "text": "agere-",
-                                        "type": "root",
-                                        "meaning": "動く",
-                                        "lang": "Latin"
-                                },
-                                {
-                                        "text": "-cy",
-                                        "type": "suffix",
-                                        "meaning": "状態または行動",
-                                        "lang": "Latin"
-                                }
-                        ],
-                        "original_statement": "Derived from Latin 'agentia' meaning action or operation, ultimately from 'agere' meaning to act or to move."
-                },
-                "core_concept": {
-                        "en": "The dance between will and action, a symphony of purpose.",
-                        "ja": "意思と行動が響き合う、目的の交響詩"
-                },
-                "thinking_layer": "「エージェンシー」という言葉は、人間の意思と力が世界にどのように影響を及ぼすかを探る、哲学的な概念である。例えば、一個人がどのようにして自己を定義し、環境に働きかけるかという命題に関連する。エージェンシーは、内的なモティベーションと外的な状況が絡み合う複雑なダイナミクスを表している。それは、多様な可能性が輻輳する中で、意志がどのようにして具体的な行動となり、結果を生むのかを考究する糸口である。また、エージェンシーは、主体性を持った個が自己実現を遂げる道筋を示す光ともいえる。人間が自らの選択を通じてどのように世界に介入し、変化を促すか。そのプロセスの中で、エージェンシーはただの行動力を超え、生存という舞台における主役たり得るだろう。したがって、エージェンシーを考えることは、存在そのものと可能性、それに関わる責 任と思考の自由についての探求である。",
-                "synonyms": [
-                        "Power",
-                        "Influence"
-                ],
-                "antonyms": [
-                        "Inactivity",
-                        "Passivity"
-                ],
-                "aftertaste": "Agency is the silent force that whispers potential into the ears of existence.",
-                "deep_dive": {
-                        "roots": [
-                                {
-                                        "term": "agere",
-                                        "meaning": "to act, to move"
-                                }
-                        ],
-                        "points": [
-                                "エージェンシーは『agere』から派生しており、これは移動や行動の概念と深く結びついている。"
-                        ]
-                },
-                "source": "Oxford English Dictionary",
-                "date": "2026-03-01",
-                "era": "Late Middle English (from Latin)"
-        },
-        {
-                "id": "creative",
-                "word": "Creative",
-                "part_of_speech": "adjective",
-                "meaning": "創造的な",
-                "author": "etymon_official",
-                "etymology": {
-                        "breakdown": [
-                                {
-                                        "text": "creare",
-                                        "type": "root",
-                                        "meaning": "創ること",
-                                        "lang": "Latin"
-                                },
-                                {
-                                        "text": "-tive",
-                                        "type": "suffix",
-                                        "meaning": "状態や性質を示す",
-                                        "lang": "Latin"
-                                }
-                        ],
-                        "original_statement": "The word 'creative' originates from the Latin 'creat-' meaning 'produced' or 'created', and the suffix '-ive'."
-                },
-                "core_concept": {
-                        "en": "The spark of existence, flourishing in the realm of imagination.",
-                        "ja": "想像の領域で開花する存在の火花"
-                },
-                "thinking_layer": "［創造性］という概念は、物質的なものを超えて、心の奥深くに眠る無限の可能性を探求することであり、生命の真髄を具現化する行為です。創造的であることは単なる物を造り出すことに留まらず、時空を超えて、過去と未来を結ぶ架け橋であり、現実と理想の狭間を埋める途方もない力です。日本の伝統文化における茶道や華道のように、創造は形式の中に込められた自由を見出すことであり、その自由とは己を知り、他者を理解するための道標です。創造性はまた、自然と共鳴することで得られる歓びと静寂の調和の産物であり、そこには限りない想像力の翼が広がっています。それは全てを包み込み、全てを一新する、宇宙そのものの鼓動でもあるのです。創造に携わることで、私たちは自身の存在理由を問い、その答えを探し続けることができるのです。無から有を生み出す奇跡、それが創造に他なりません。",
-                "synonyms": [
-                        "Innovative",
-                        "Inventive"
-                ],
-                "antonyms": [
-                        "Unimaginative",
-                        "Conventional"
-                ],
-                "aftertaste": "Creativity is the profound dance between freedom and form.",
-                "deep_dive": {
-                        "roots": [
-                                {
-                                        "term": "creare",
-                                        "meaning": "to create, make, produce"
-                                },
-                                {
-                                        "term": "-tive",
-                                        "meaning": "indicating an adjective of condition"
-                                }
-                        ],
-                        "points": [
-                                "中世ラテン語の『creativus』は、特に芸術や科学の革新において用いられ、想像力と実行力を結びつける概念としての基礎を築いた。"
-                        ]
-                },
-                "source": "Online Etymology Dictionary",
-                "date": "2026-03-01",
-                "era": "Late Middle English"
-        },
-        {
-                "id": "worldly",
-                "word": "Worldly",
-                "part_of_speech": "adjective",
-                "meaning": "世俗的な、世間的な",
-                "author": "etymon_official",
-                "etymology": {
-                        "breakdown": [
-                                {
-                                        "text": "world",
-                                        "type": "root",
-                                        "meaning": "世",
-                                        "lang": "Old English"
-                                },
-                                {
-                                        "text": "-ly",
-                                        "type": "suffix",
-                                        "meaning": "のような",
-                                        "lang": "Old English"
-                                }
-                        ],
-                        "original_statement": "The word 'worldly' originates from the Middle English term 'worldli', which is derived from the Old English 'woruldlic'. It combines 'world', referring to the state of human affairs, with the suffix '-ly', denoting characteristic or resemblance."
-                },
-                "core_concept": {
-                        "en": "The essence of life encased in the tapestry of earthly existence.",
-                        "ja": "地上の存在の織物に包まれた人生の本質"
-                },
-                "thinking_layer": "世俗的とは、時間と空間の制約に縛られた人間の経験を探求する。その感覚は、永遠の目に見えない現実に対立するものであり、地球の土壌に結びつけられている。私たちの選択と思索は、ここに存在する限り、物質の境界から逃れることはできない。世の中に深く根ざした考えや行為は、一見無限の意味を持たないかのように見えるが、それでも際限なく深いのは、その虚無の均衡に宿る可能性そのものに他ならない。究極にはこの世の経験と結びついたものであるが、我々はその中の永遠の一部であり、有限の中で無限を理解しようとする私たちの試みに、その意味があるのかもしれない。",
-                "synonyms": [
-                        "earthly",
-                        "mundane"
-                ],
-                "antonyms": [
-                        "spiritual",
-                        "transcendental"
-                ],
-                "aftertaste": "Grasp the tangible; the spirit exists within the soil's grasp.",
-                "deep_dive": {
-                        "roots": [
-                                {
-                                        "term": "world",
-                                        "meaning": "The human lifetime or age; worldly affairs."
-                                },
-                                {
-                                        "term": "-ly",
-                                        "meaning": "Characteristic of"
-                                }
-                        ],
-                        "points": [
-                                "この語の源は、世界という概念に対する物質的、日常的な側面を強調する。",
-                                "それは、物質界の一部でありながら、見えない精神の領域に対する対比として存在する。"
-                        ]
-                },
-                "source": "Oxford English Dictionary",
-                "date": "2026-03-01",
-                "era": "Middle English (12th Century)"
-        },
-        {
-                "id": "categorize",
-                "word": "Categorize",
-                "part_of_speech": "verb",
-                "meaning": "分類する、カテゴリーに分ける",
-                "author": "etymon_official",
-                "etymology": {
-                        "breakdown": [
-                                {
-                                        "text": "categ-",
-                                        "type": "root",
-                                        "meaning": "類別",
-                                        "lang": "Greek"
-                                },
-                                {
-                                        "text": "-orize",
-                                        "type": "suffix",
-                                        "meaning": "する",
-                                        "lang": "French/English"
-                                }
-                        ],
-                        "original_statement": "The term 'categorize' originated from the Greek word 'κατηγορία' (kategoría), meaning 'prediction' or 'accusation', which evolved into the Medieval Latin 'categoria' and then to the Middle French 'catégorie', eventually being adopted into English with the addition of the suffix '-ize'."
-                },
-                "core_concept": {
-                        "en": "To weave moments into structured anticipation.",
-                        "ja": "瞬間を構造ある期待に織りなすこと"
-                },
-                "thinking_layer": "分類とは、無限の可能性の中から特定の枠を与える行為です。それは、無秩序に見える世界に規則性を与える創造的な試みです。個々の要素を見つめ直し、それらが如何にして共鳴し合っているかを理解し、調和のとれた全体像を構築する作業です。我々は常に情報の波に晒されており、その中から有意義な形を見出すことで自己の存在意義を明確にしていきます。分類の過程は、単に物を振り分けることにとどまらず、存在の意味を探る旅とも言えるでしょう。それは、心の中で混ざり合う個々の要素が生み出す微細な振動を感知し、調和の中に結実する様を見届けることであり、存在の不確実性に対する静かな挑戦でもあります。分類することで、我々は世界を理解するだけでなく、新たな秩序を創造するのです。",
-                "synonyms": [
-                        "Classify",
-                        "Sort"
-                ],
-                "antonyms": [
-                        "Disorder",
-                        "Mix"
-                ],
-                "aftertaste": "To categorize is not merely to divide, but to understand the world anew.",
-                "deep_dive": {
-                        "roots": [
-                                {
-                                        "term": "categoría",
-                                        "meaning": "accusation, assertion"
-                                }
-                        ],
-                        "points": [
-                                "ギリシャ語の「κατηγορία」は、元々は「予言」や「告発」を意味しており、後により広範な社会的な意味を持つようになりました。この変遷を通じて、個別の現象や物事をグループ化して考える能力が、社会的、哲学的な文脈で重視され続けています。"
-                        ]
-                },
-                "source": "Oxford English Dictionary",
-                "date": "2026-03-01",
-                "era": "Late 16th Century"
-        },
-        {
-                "id": "fructify",
-                "word": "Fructify",
-                "part_of_speech": "verb",
-                "meaning": "結実させる、利益を生む",
-                "author": "etymon_official",
-                "etymology": {
-                        "breakdown": [
-                                {
-                                        "text": "fructus",
-                                        "type": "root",
-                                        "meaning": "実、果実",
-                                        "lang": "Latin"
-                                },
-                                {
-                                        "text": "-fy",
-                                        "type": "suffix",
-                                        "meaning": "〜にする",
-                                        "lang": "Old French"
-                                }
-                        ],
-                        "original_statement": "Derived from the Latin 'fructificare', which indicates the act of making fruitful, leading to benefits and nourishment."
-                },
-                "core_concept": {
-                        "en": "The poetic gift of bearing fruit and nurturing growth.",
-                        "ja": "結実し、成長を育む詩的な贈り物"
-                },
-                "thinking_layer": "果実とは、外見以上の存在である。果実には生命の核が宿る。結実するという行為は、単なる物質的な変化ではなく、精神的な成長と自己超越の象徴でもある。この言葉は、土壌という母なる大地から養分を吸収し、太陽の光を愛し、天の恵みとともに育つ力を示す。この結実の過程は、内向的な探求と外向的な表現の無限のサイクルを表し、我々が常に新たな理想を追い求める人間の探求心を示唆している。果実は、己を知り、他者と共有し、世界を豊かにすることで意味を成す。実がなることで生きる意味を見いだし、その果実がまた新たな命を育む。哲学的に見れば、結実とは生きる過程そのものであり、私たちが意義ある存在として如何に繁栄するかを問うている。この言葉には、無限の可能性と超越的な存在意義が秘められており、果たした後の世界を新たに描き出す力を持っているのだ。",
-                "synonyms": [
-                        "Bear fruit",
-                        "Yield"
-                ],
-                "antonyms": [
-                        "Wither",
-                        "Fail"
-                ],
-                "aftertaste": "To fructify is to transcend the earth, reaching the heavens through the fruits of existence.",
-                "deep_dive": {
-                        "roots": [
-                                {
-                                        "term": "fructus",
-                                        "meaning": "fruit"
-                                },
-                                {
-                                        "term": "-ficare",
-                                        "meaning": "to make"
-                                }
-                        ],
-                        "points": [
-                                "結実は物理的な産物だけでなく、精神の成長と可能性の象徴。",
-                                "自己内省と外界への愛を融合させた創造の行為。"
-                        ]
-                },
-                "source": "Oxford English Dictionary",
-                "date": "2026-03-01",
-                "era": "15th Century"
-        },
-        {
-                "id": "category",
-                "word": "Category",
-                "part_of_speech": "noun",
-                "meaning": "種類や範囲に応じた分類",
-                "author": "etymon_official",
-                "etymology": {
-                        "breakdown": [
-                                {
-                                        "text": "categori-",
-                                        "type": "root",
-                                        "meaning": "分類",
-                                        "lang": "Greek"
-                                },
-                                {
-                                        "text": "-ia",
-                                        "type": "suffix",
-                                        "meaning": "状態",
-                                        "lang": "Greek"
-                                }
-                        ],
-                        "original_statement": "The word 'category' stems from the Greek 'kategoria', combining 'kata' (down, against) and 'agora' (assembly, public speaking), referring to statements made against someone in public."
-                },
-                "core_concept": {
-                        "en": "A fluid framework defining order and boundaries.",
-                        "ja": "秩序と境界を定義する流動的な枠組み"
-                },
-                "thinking_layer": "カテゴリーという言葉は、我々の思考の枠を形作る重要な概念です。それはまるで世界を織り成す見えない糸のようであり、人間の理解における秩序と混沌の境界線を示すものです。物事を分類することで初めて我々は世界を捉え、意味を見いだすことができます。このプロセスは、人間の知識の進化そのものに密接に結びついています。ある意味でカテゴリーは、情報の広大な海を航海するための羅針盤であり、暗き森を照らす灯台でもあります。それは我々が直面する無限の多様性を一つの統一されたビジョンとしてまとめ上げるための静かなる力であり、その探究の果てには自己理解と他者の理解があります。我々はこの見えざる手綱をたどり、宇宙の複雑な起伏を渡り歩いてゆくのです。",
-                "synonyms": [
-                        "Classification",
-                        "Group"
-                ],
-                "antonyms": [
-                        "Chaos",
-                        "Disorder"
-                ],
-                "aftertaste": "Categories map the vast and untamed waters of knowledge.",
-                "deep_dive": {
-                        "roots": [
-                                {
-                                        "term": "kategoria",
-                                        "meaning": "statement, accusation"
-                                },
-                                {
-                                        "term": "agora",
-                                        "meaning": "public assembly"
-                                }
-                        ],
-                        "points": [
-                                "カテゴリーという概念は、我々が世界をどのように認識し、体系化するかに関する深層的な理解に貢献しています。"
-                        ]
-                },
-                "source": "Oxford English Dictionary",
-                "date": "2026-03-01",
-                "era": "Ancient Greek"
-        },
-        {
-                "id": "tradition",
-                "word": "Tradition",
-                "part_of_speech": "noun",
-                "meaning": "伝統",
-                "author": "etymon_official",
-                "etymology": {
-                        "breakdown": [
-                                {
-                                        "text": "tradere",
-                                        "type": "root",
-                                        "meaning": "伝える",
-                                        "lang": "Latin"
-                                },
-                                {
-                                        "text": "tion",
-                                        "type": "suffix",
-                                        "meaning": "こと",
-                                        "lang": "Latin"
-                                }
-                        ],
-                        "original_statement": "Tradition originates from the Latin 'traditio,' meaning a handover, derived from 'tradere,' to deliver, entrust or transmit."
-                },
-                "core_concept": {
-                        "en": "A precious thread linking the past to the present, woven with shared wisdom.",
-                        "ja": "過去と現在を繋ぐ貴重な糸、共有された知恵で織られたもの。"
-                },
-                "thinking_layer": "「伝統」という言葉は、百年を超える歴史の中で、文化と価値観が時を超えて受け渡される過程を表しています。それは単なる過去の模倣ではなく、新しい文脈の中で古い知恵が生き続けることを意味します。この繊細なプロセスは、個々の経験が集い、より大きな共同体の記憶を形成することであり、特定の時間や場所に限定されない普遍的な人間の営みです。伝統は、変化と普遍性の間で揺れ動く恒常的な進行形です。古代の儀式や逸話が息づき、新世代へ新たな解釈と意義を持たせながら伝えられていく—それが伝統の力の真髄です。人は伝統を通して過去から呼びかけられ、それを継続することによって未来への道を築きます。この連なりにおいて、伝統は固定された形ではなく、生ける動的な存在であり、時代に応じて変化し続ける生命力に満ちています。",
-                "synonyms": [
-                        "Custom",
-                        "Heritage"
-                ],
-                "antonyms": [
-                        "Innovation",
-                        "Novelty"
-                ],
-                "aftertaste": "Tradition is the echo of time resonating in the hearts of the present.",
-                "deep_dive": {
-                        "roots": [
-                                {
-                                        "term": "tradere",
-                                        "meaning": "to deliver, entrust"
-                                },
-                                {
-                                        "term": "tion",
-                                        "meaning": "act, process"
-                                }
-                        ],
-                        "points": [
-                                "「tradere」はラテン語で「引き渡す」または「託す」を意味し、それが英語の「tradition」に繋がっている。",
-                                "伝統は、文化的価値観や知識の贈物として、未来への営みとして生き続ける。"
-                        ]
-                },
-                "source": "Oxford English Dictionary",
-                "date": "2026-03-01",
-                "era": "Late Middle English, derived from Latin"
-        },
-        {
-                "id": "artist",
-                "word": "Artist",
-                "part_of_speech": "noun",
-                "meaning": "芸術家や創造的活動をする人",
-                "author": "etymon_official",
-                "etymology": {
-                        "breakdown": [
-                                {
-                                        "text": "art-",
-                                        "type": "root",
-                                        "meaning": "技術、芸術",
-                                        "lang": "Latin"
-                                }
-                        ],
-                        "original_statement": "The word 'artist' is derived from the Latin 'artista', which comes from 'ars', meaning art or skill."
-                },
-                "core_concept": {
-                        "en": "A vessel of creativity, a master who molds the formless into emotion.",
-                        "ja": "創造の器、形なきものを感情に変える達人"
-                },
-                "thinking_layer": "芸術家という言葉は、単なる技術者以上の存在を表している。芸術家は、物質的な形を超えたところにある思考や感情を、目に見える形に具現化する魔術師である。彼らの行為は宇宙と繋がり、時と場所を超えて人々の心に問いを投げかける。キャンバスや石版は単なる媒体ではなく、彼らの精神の深淵を覗き見る窓となる。芸術とは無限の可能性を秘めた言語であり、その言語を通じて人類は自らを探求する旅に出る。創造の過程は、混沌から秩序を生み出し、瞬間を永遠に留めようとする試みである。芸術家の役割とは、存在の真理を探し続けることであり、その過程で自己の内なる世界を外部に投影し、他者と共有することである。詩情溢れる世界を作り出す彼らの手は、まるで神のように新たな宇宙を創造し続ける。彼らの作品は、静かに語りかけ、心の扉を叩くのだ。これはただの技術ではなく、深い魂の探求である。",
-                "synonyms": [
-                        "Creative",
-                        "Artisan"
-                ],
-                "antonyms": [
-                        "Philistine",
-                        "Ignoramus"
-                ],
-                "aftertaste": "An artist shapes the unseen into the seen, revealing truths through beauty.",
-                "deep_dive": {
-                        "roots": [
-                                {
-                                        "term": "ars",
-                                        "meaning": "art or skill"
-                                }
-                        ],
-                        "points": [
-                                "『アート』という語源はラテン語に由来し、それは主に技術や芸術を指している。この概念は、時間と共に発展し、単なる技術から精神的な深さを探求する創造の源泉として進化してきた。"
-                        ]
-                },
-                "source": "Online Etymology Dictionary",
-                "date": "2026-03-01",
-                "era": "Middle Ages"
-        },
-        {
-                "id": "nutrition",
-                "word": "Nutrition",
-                "part_of_speech": "noun",
-                "meaning": "栄養、生命を支える必須の供給",
-                "author": "etymon_official",
-                "etymology": {
-                        "breakdown": [
-                                {
-                                        "text": "nutritio-",
-                                        "type": "root",
-                                        "meaning": "養うこと",
-                                        "lang": "Latin"
-                                },
-                                {
-                                        "text": "-ion",
-                                        "type": "suffix",
-                                        "meaning": "状態や過程",
-                                        "lang": "Latin"
-                                }
-                        ],
-                        "original_statement": "Derived from the Latin word 'nutritio', meaning 'a nourishing'."
-                },
-                "core_concept": {
-                        "en": "The sacred act of sustaining life through unseen pulses of vitality.",
-                        "ja": "見えない命の脈動を通じて生命を支える神聖な行為"
-                },
-                "thinking_layer": "栄養とは、生物の存続と進化のための不可欠な資源であり、その存在は目には見えないが、生命の奥深くに脈動している。この力強さは、自然界の微細な法則に従い、あらゆる生命体に活力を与え、成長を促す。栄養がもたらすエネルギーは、光や空気、水と同じくらい基本的なものであり、それは生命の織物を形作り、宇宙の一部としての生きる意味をも繋ぎ止める。無限の循環の中で、栄養とはただ物質を提供する以上のものであり、心身の調和、そして内的な安寧をもたらす。人間は栄養を通して、自然と一体化し、内観し、そして新しい命のサイクルを迎える準備をする。生命の根源に帰るたびに、栄養とは単なる物理的な供給を超え、魂に響く深い糸を織り成すのである。本質的なその役割に身を委ねる時、栄養とは生命の最大の贈り物であることを忘れてはならない。",
-                "synonyms": [
-                        "nourishment",
-                        "sustenance"
-                ],
-                "antonyms": [
-                        "deprivation",
-                        "starvation"
-                ],
-                "aftertaste": "The quiet giver of life’s perpetuation.",
-                "deep_dive": {
-                        "roots": [
-                                {
-                                        "term": "nutrire",
-                                        "meaning": "to nourish"
-                                }
-                        ],
-                        "points": [
-                                "栄養という概念は、生物学的エネルギーだけでなく、存在そのものの滋養をも意味する。"
-                        ]
-                },
-                "source": "Online Etymology Dictionary",
-                "date": "2026-03-01",
-                "era": "15th Century"
         }
 ];
