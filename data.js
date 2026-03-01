@@ -44379,5 +44379,217 @@ const WORDS = [
                 "source": "Online Etymology Dictionary",
                 "date": "2026-03-01",
                 "era": "16th Century, Latin origin"
+        },
+        {
+                "id": "generate",
+                "word": "Generate",
+                "part_of_speech": "verb",
+                "meaning": "生み出す、生成する",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "gener-",
+                                        "type": "root",
+                                        "meaning": "生む",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'generate' originates from Latin 'generare', meaning 'to beget' or 'to produce'."
+                },
+                "core_concept": {
+                        "en": "To breathe life into the formless void.",
+                        "ja": "無形の空虚に生命を吹き込むこと。"
+                },
+                "thinking_layer": "生成という概念は、我々の存在の深層にある静かな鼓動のようなものである。生み出されるということは、無から有を創造する行為であり、人生そのものを象徴している。この宇宙では生成のプロセスが継続的に進行している。星が爆発し、新しい恒星が形成され、人間は新しいアイデアや文化を生み出し続けている。このダイナミックな動きは、永遠の変化と進化を表しているのである。生成は可能性の扉を開き、私たちの魂を新たな冒険へと誘う。美しさとは生成された何かの結果であるとしたら、生成はその美しさを受け容れ、さらにそれを試す機会をもたらす。生成とは、絶え間ない進化の過程であり、我々の持ちうる最も深い能力を象徴している。それは静寂の中から音楽を、空白から色彩を引き出す力。その一瞬一瞬が永遠の変奏曲へと繋がっていく、不滅の創造行為である。",
+                "synonyms": [
+                        "Create",
+                        "Produce"
+                ],
+                "antonyms": [
+                        "Destroy",
+                        "Annihilate"
+                ],
+                "aftertaste": "Creation echoes eternally through the corridors of time.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "gener-",
+                                        "meaning": "to beget, to produce"
+                                }
+                        ],
+                        "points": [
+                                "この単語の語源はラテン語の 'generare' から派生しており、元々は「産む、生成する」という意味を持つ。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "Latin"
+        },
+        {
+                "id": "interaction",
+                "word": "Interaction",
+                "part_of_speech": "noun",
+                "meaning": "相互作用",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "inter-",
+                                        "type": "prefix",
+                                        "meaning": "間に",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "actio",
+                                        "type": "root",
+                                        "meaning": "行為",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'interaction' originates from the Latin roots 'inter-' meaning between or among, and 'actio' meaning action, referring to the action taking place between entities."
+                },
+                "core_concept": {
+                        "en": "A dance of actions weaving together to create harmony.",
+                        "ja": "調和を生み出す行為の織り成す舞踏"
+                },
+                "thinking_layer": "『相互作用』という言葉は、個々の存在が織り成す永遠の連鎖を示唆する。その存在は孤立した一つの宇宙でありながら、他の無数の宇宙と響き合う。相互作用の奥深さは、音楽と同様に、単一の音が他の音と共鳴して合奏を作り出すように、多くの要素が合わさって一つの事象を形成する瞬間にある。このような現象は、古代から哲学者たちの思索の対象となってきた。相互作用は単なる行動の交換ではなく、存在自体の境界線を曖昧にする行為だ。それは人間存在の本質を象徴し、人と人、物と物、概念と概念の間に築かれる橋梁である。私たちは日々、無意識のうちに相互作用を行い、その結果として新たな創造や理解を得る。これは、まるで自然界の循環のように絶え間なく生まれ変わり、その過程で私たちの経験と感情を豊かにする道である。この相互作用の舞台は人と人との間に留まらず、時間や空間を越えた深遠なレベルで、存在全体を織り成しているのだ。",
+                "synonyms": [
+                        "Communication",
+                        "Engagement"
+                ],
+                "antonyms": [
+                        "Isolation",
+                        "Disengagement"
+                ],
+                "aftertaste": "Interaction is the subtle art form of being and becoming.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "inter-",
+                                        "meaning": "between, among"
+                                },
+                                {
+                                        "term": "actio",
+                                        "meaning": "action"
+                                }
+                        ],
+                        "points": [
+                                "『interaction』の語源は、ラテン語に由来し、『inter-』は『間に』を意味し、『actio』は『行為』を表す。これにより、何らかの間で行われる一連の行為が強調される。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "15th Century"
+        },
+        {
+                "id": "adjustment",
+                "word": "Adjustment",
+                "part_of_speech": "noun",
+                "meaning": "調整",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "ad-",
+                                        "type": "prefix",
+                                        "meaning": "〜へ",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "just-",
+                                        "type": "root",
+                                        "meaning": "正しい、正義",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "-ment",
+                                        "type": "suffix",
+                                        "meaning": "状態、行為",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'adjustment' originates from the Latin term 'adjuxtmentum', combining 'ad' (to) with 'justus' (right, fair), and the suffix '-ment'."
+                },
+                "core_concept": {
+                        "en": "A poetic journey to balance.",
+                        "ja": "調和への詩的な旅"
+                },
+                "thinking_layer": "調整とは、物事が持つ本質的なバランスを回復するための美しい営みです。世界は常に変化し、予測不可能な流れに揺れ動くものであり、その中で私たちは調整を通じて自然との共鳴を試みます。調整は、単なる物理的な配置の修正にとどまらず、心の中の静けさを取り戻す行為でもあります。それは創造であり、破壊でもある過程であり、同調によって新たな秩序を見出す探求です。調整の行為を通じて、私たちは内なる声に耳を傾け、自己と対話し、他者との絆を強めます。この複雑で深遠な営みは、私たちが自身の中心を見つけ、調和と調整の中にある真実を理解するための鍵となります。現代社会において、この過程はますます重要性を増しており、調整を通して見出される静けさは、多くの人々にとって心の安らぎと幸福の源となるのです。",
+                "synonyms": [
+                        "modification",
+                        "adaptation"
+                ],
+                "antonyms": [
+                        "chaos",
+                        "disorder"
+                ],
+                "aftertaste": "Adjustment is the art of breathing harmony into chaos.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "jus",
+                                        "meaning": "law or rightness"
+                                }
+                        ],
+                        "points": [
+                                "調整の語源は、ラテン語の 'justus'（正しい）に由来し、法や正義に関連します。これは単なる機械的な修正を超えた、倫理的で哲学的な概念を含みます。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "14th Century"
+        },
+        {
+                "id": "memorable",
+                "word": "Memorable",
+                "part_of_speech": "adjective",
+                "meaning": "忘れられない、記憶に残る",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "memor-",
+                                        "type": "root",
+                                        "meaning": "記憶",
+                                        "lang": "ラテン語"
+                                },
+                                {
+                                        "text": "-able",
+                                        "type": "suffix",
+                                        "meaning": "可能",
+                                        "lang": "ラテン語"
+                                }
+                        ],
+                        "original_statement": "Derived from Latin 'memorabilis,' meaning 'worth remembering'."
+                },
+                "core_concept": {
+                        "en": "A timeless echo in the corridors of the mind.",
+                        "ja": "心の回廊に響く不朽のこだま"
+                },
+                "thinking_layer": "『印象深い』という言葉は、我々の内なる想念が時の流れに逆らって存在し続ける力を表しています。それは、記憶の波間に浮かぶ灯台のように、人生の航海を導く役割を果たします。過去から現在を紡ぎたどり着く場所、その局地にあるのが『印象深さ』なのです。人は皆、いつしか訪れる静寂の時を前に、数々の瞬間を心の宝石箱にしまいこむ旅路を歩んでいます。この世の営みは、唯一無二の輝きを持つ瞬間が連綴された物語であり、それこそが己の存在を証明するもの。不意に蘇る瞬間、その光景や香り、音は、記憶という形を越えて魂と深く結びつきます。『印象深い』とはただ単に記録されるものではなく、生きた瞬間の命を育む力であると言えます。人生の物語において、印象深い出来事は小さな波紋を広げ、迷いがちな心を再び活気づかせる糸口を提供します。それは時に柔らかく、時に鮮烈に、無限の変容を伴いながら、我々自身の存在の軌跡を照らし出すのです。",
+                "synonyms": [
+                        "Unforgettable",
+                        "Remarkable"
+                ],
+                "antonyms": [
+                        "Forgettable",
+                        "Unremarkable"
+                ],
+                "aftertaste": "Memories make the lifeblood of a luminous existence.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "memor",
+                                        "meaning": "mindful, remembering"
+                                }
+                        ],
+                        "points": [
+                                "『memorable』はラテン語の 'memorabilis' からの派生であり、記憶の重要性に焦点を当てた概念です。そのルーツとしての 'memor-' は知識と経験の集積地としての心の機能を象徴しています。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "Late Middle English, 14th Century"
         }
 ];
