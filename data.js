@@ -30727,5 +30727,195 @@ const WORDS = [
                 "source": "Online Etymology Dictionary",
                 "date": "2026-03-01",
                 "era": "Old English, 13th Century"
+        },
+        {
+                "id": "disrupt",
+                "word": "Disrupt",
+                "part_of_speech": "verb",
+                "meaning": "混乱させる、妨げる",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "dis-",
+                                        "type": "prefix",
+                                        "meaning": "離れる",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "rumpere",
+                                        "type": "root",
+                                        "meaning": "破る",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'disrupt' originates from Latin 'disrumpere,' meaning to break apart or burst asunder."
+                },
+                "core_concept": {
+                        "en": "Unleashing potential through the fragmentation of order.",
+                        "ja": "秩序の粉砕を通じて可能性を解き放つ"
+                },
+                "thinking_layer": "『破壊』とは、大海の波のように穏やかな日々に襲いかかり、慣れ親しんだものを激しく揺るがす力であるかもしれません。それは、秩序の綻びを生み、既存の枠組みを突き破り、不安定と変化をもたらします。『破壊』は、内なるカオスを呼び覚まし、人間の革新と進化の原動力となることがあります。何万年もの歴史を経て、『破壊』は成長の必須条件として認識されてきました。『破壊』は必ずしも否定的な行為ではなく、新しい創造の契機であり、より強固な秩序を築くための第一歩です。この微妙なバランスの中で、生まれては消えるものたちの共鳴があり、それが人類の進化のプロセスを形作ってきました。私たちの内なる心と社会構造とが常に揺り動かされる状況において、『破壊』は革新の泉として機能し、未来へと向かう帆を広げるのです。",
+                "synonyms": [
+                        "Break",
+                        "Disturb"
+                ],
+                "antonyms": [
+                        "Stabilize",
+                        "Maintain"
+                ],
+                "aftertaste": "In the midst of chaos lies the seed of transformation.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "rumpere",
+                                        "meaning": "to break"
+                                }
+                        ],
+                        "points": [
+                                "ラテン語の『dis-』（離れる）と『rumpere』（破る）が語源で、物事を分断し新しい可能性を生み出す行為を意味します。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "15th Century"
+        },
+        {
+                "id": "glimpse",
+                "word": "Glimpse",
+                "part_of_speech": "noun/verb",
+                "meaning": "ちらっと見ること、一瞥",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "Middle English glimsen",
+                                        "type": "root",
+                                        "meaning": "ちらっと見える",
+                                        "lang": "Middle English"
+                                }
+                        ],
+                        "original_statement": "The word 'glimpse' is derived from Middle English 'glimsen' meaning to glimpse, which is akin to Old English 'glīmsian', related to 'glimmer'."
+                },
+                "core_concept": {
+                        "en": "A fleeting but profound moment of insight.",
+                        "ja": "刹那的でありながら深い洞察の瞬間"
+                },
+                "thinking_layer": "人生において、私たちは多くのものを見て、少しのものを本当に観る。それはまるで流れ行く川のように、時間とともに過ぎ去ってしまうのだが、その中にある一瞬のきらめきを見逃さないこともまた重要だ。グリンプスとは、瞬間的ながらも深い理解を得る行為であり、それは時として私たちの知覚の底にある静かな感情を引き起こす創造的な行程である。過ぎ去る日々の中で、このような一瞬のひらめきが、私たちの思考に新たな輝きを与え、私たちを導く光となることがある。このことを意識することで、我々の生の質は一層向上する。グリンプスの瞬間は正に普遍的であり、私たちに共通する存在の核心を垣間見ることを可能にするかもしれない。",
+                "synonyms": [
+                        "peek",
+                        "glance"
+                ],
+                "antonyms": [
+                        "stare",
+                        "gaze"
+                ],
+                "aftertaste": "A glimpse can illuminate the shadows of our understanding.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "glimsen",
+                                        "meaning": "to glimpse"
+                                }
+                        ],
+                        "points": [
+                                "グリンプスは、瞬時に得られるものとして、その背景にある深遠さを探求すれば、自己の理解を広げる手段となる。何もかも見えることの儚さと、その一瞬のきらめきが持つ意味を認識することが必要である。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Middle English, 15th Century"
+        },
+        {
+                "id": "buffer",
+                "word": "Buffer",
+                "part_of_speech": "noun",
+                "meaning": "衝撃を和らげるもの",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "buff-",
+                                        "type": "root",
+                                        "meaning": "磨く",
+                                        "lang": "フランス語"
+                                }
+                        ],
+                        "original_statement": "The word 'buffer' originated in the mid-18th century, referring initially to polishing. It draws from the French 'buffer', meaning 'to soften a blow'."
+                },
+                "core_concept": {
+                        "en": "A gentle balance between force and calm.",
+                        "ja": "力と静けさの間の穏やかな均衡"
+                },
+                "thinking_layer": "バッファとは、人生における調和を象徴する存在である。この言葉は摩擦を和らげることを意味し、一身を包む鎧のように、衝撃を受け止める役割を果たす。バッファは、私たちの日々の生活における喧騒と静寂の間に存在し、絶え間ない変化の波を和らげる術を提供してくれる。自然の鼓動の中で、バッファはまさに永遠のリズムの一部であり、それを通して私たちは時として穏やかさを見出す。哲学的には、バッファは抗争と優雅さの共存する場所を示唆し、その中に我々が求める真なる平和の指針が存在すると言えよう。人生の試練に直面する中、バッファは時として、新たな洞察と成長の契機をもたらし、自己を超越するためのシンボルとなる。そうした深淵なところで、バッファは人々の心の奥底に触れ、そして真実と向き合う勇気の種を蒔くのである。",
+                "synonyms": [
+                        "Cushion",
+                        "Damper"
+                ],
+                "antonyms": [
+                        "Accelerator",
+                        "Catalyst"
+                ],
+                "aftertaste": "Balance is often found in the calmness of buffering forces.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "buff",
+                                        "meaning": "to polish or to lessen a blow"
+                                }
+                        ],
+                        "points": [
+                                "バッファの概念は柔らかな対策や調整を意味し、主に力の衝突を緩和する役割を持つ。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "18th Century"
+        },
+        {
+                "id": "stagger",
+                "word": "Stagger",
+                "part_of_speech": "verb",
+                "meaning": "よろめく、ふらつく",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "Old Norse 'stakra'",
+                                        "type": "root",
+                                        "meaning": "突く",
+                                        "lang": "Old Norse"
+                                }
+                        ],
+                        "original_statement": "The English word 'stagger' originates from the Old Norse 'stakra', meaning to push, thrust, or struggle, evolving through Middle English."
+                },
+                "core_concept": {
+                        "en": "A dance between certainty and uncertainty.",
+                        "ja": "確実性と不確実性の間の舞踏"
+                },
+                "thinking_layer": "『よろめく』という言葉は、人間の存在の複雑な本質を探求する端緒である。この言葉は、安定した意識の世界と、無意識の深淵との間にまたがる微妙な瞬間を捉えています。よろめく動きの中には、心が不安定によって試される瞬間があり、それは生と死、希望と絶望、愛と孤独の間に漂う人間の苦悩を象徴します。よろめきを経験する時、自分の足元がぐらつき、心が惑う様は、まるで目に見えない運命の力による試練に直面しているかのようです。それは、私たちの決定がいかに不確実であり、同時にその中から力強さを見出すことができるかということを教えてくれます。よろめくことは一見弱さの象徴かもしれませんが、同時にそれは前進する意志を示すものでもあります。自主性と他者による公平な昇華のダンスであり、私たちがどのように変化に対応するかの試金石なのです。",
+                "synonyms": [
+                        "wobble",
+                        "lurch"
+                ],
+                "antonyms": [
+                        "steady",
+                        "stabilize"
+                ],
+                "aftertaste": "To stagger is to embrace the labyrinth of life's uncertainties.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "stakra",
+                                        "meaning": "to push or thrust"
+                                }
+                        ],
+                        "points": [
+                                "語源的に見ると、『よろめく』は人間の意識と無意識の微妙な境目を示唆しています。古ノルド語の「stakra」は、物事の推進力や試練を象徴し、それは現代の使用法にも反映されているのです。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "14th Century"
         }
 ];
