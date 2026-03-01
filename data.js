@@ -33069,5 +33069,657 @@ const WORDS = [
                 "source": "Online Etymology Dictionary",
                 "date": "2026-03-01",
                 "era": "Middle English, 14th Century"
+        },
+        {
+                "id": "emit",
+                "word": "Emit",
+                "part_of_speech": "verb",
+                "meaning": "放出する、発する",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "ex-/mite-",
+                                        "type": "prefix/root",
+                                        "meaning": "送り出す",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "Derived from Latin 'emittere', composed of 'ex-' meaning 'out' and 'mittere' meaning 'send'."
+                },
+                "core_concept": {
+                        "en": "The graceful release of hidden potential, a gentle dispersal into the universe.",
+                        "ja": "隠された可能性を優雅に放ち、宇宙に柔らかく拡散すること。"
+                },
+                "thinking_layer": "輝きを内に秘めたものが、無限へと放たれる様。光、声、または感情が、その持つ力を解き放つ時、それは瞬間的でありながらも永続的な影響を与える。物事の存在がその内に抱える潜在的なエネルギーは、ただそのままであることでは始まらない。放出とは、形や状態を超越し、形而上的な次元へと到達する行為である。この行為は、人間の想像力を掻き立て、新たな現実を構築する源となる。放出されるものは、自らの起源を離れ、未知の可能性を切り拓く旅路に出る。それはまた、個々のあり方が集合的無意識に合流する瞬間でもある。放出に関わる行為は、始まりと終わりの境界を曖昧にし、永遠と瞬間を繋ぐ時間を創造するのである。",
+                "synonyms": [
+                        "Radiate",
+                        "Discharge"
+                ],
+                "antonyms": [
+                        "Absorb",
+                        "Contain"
+                ],
+                "aftertaste": "To emit is to connect the inner universe with the boundless outer one.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "mittere",
+                                        "meaning": "to send"
+                                }
+                        ],
+                        "points": [
+                                "放出という行為は、一方向的であるが、受け取られる側の存在も影響を受ける。放たれたものは広がり、やがて新しいアイデンティティを形成する。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "Classical Latin"
+        },
+        {
+                "id": "lead",
+                "word": "Lead",
+                "part_of_speech": "noun/verb/adjective",
+                "meaning": "導く, 指導する",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "leithan",
+                                        "type": "root",
+                                        "meaning": "行く",
+                                        "lang": "Proto-Indo-European"
+                                }
+                        ],
+                        "original_statement": "The word 'lead' originates from Old English 'lædan', derived from Proto-Germanic 'laidijan', and ultimately from Proto-Indo-European 'leithan'."
+                },
+                "core_concept": {
+                        "en": "The essence of guiding light, drawing paths uncharted.",
+                        "ja": "道しるべとしての光、未知の道を切り開く本質"
+                },
+                "thinking_layer": "人々を導くこととは、単に目的地へ到達するための手段ではなく、自己の冒険を促進し、内なる声を目覚めさせる行為でもある。未知なる道を切り開くためには、時に勇気と忍耐が必要である。道中にひそむ不確実性を抱擁し、リーダーは光を灯す者となる。確かなガイドが、生命の海を渡るための羅針盤となり、新たな可能性を開く。呼びかけがある時、道はその形を取り、挑戦と希望の象徴となる。リーダーシップは単なる指導ではなく、生きとし生けるものが抱く未来への無限の夢、そしてその実現への鍵とも言える。こうして、言葉としての「lead」は、物理的な行動以上の、精神の次元での深淵なるプロセスを表しているのである。",
+                "synonyms": [
+                        "Guide",
+                        "Direct"
+                ],
+                "antonyms": [
+                        "Follow",
+                        "Trail"
+                ],
+                "aftertaste": "To lead is to illuminate the path of possibility.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "leithan",
+                                        "meaning": "to go"
+                                }
+                        ],
+                        "points": [
+                                "語源的に、'lead'は人の複雑な関係性を表す。行くための意思だけでなく、その先の未知を照らす力を含んでいる。"
+                        ]
+                },
+                "source": "The Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Proto-Indo-European"
+        },
+        {
+                "id": "convey",
+                "word": "Convey",
+                "part_of_speech": "verb",
+                "meaning": "伝える、運ぶ",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "con-",
+                                        "type": "prefix",
+                                        "meaning": "一緒に",
+                                        "lang": "ラテン語"
+                                },
+                                {
+                                        "text": "vehere",
+                                        "type": "root",
+                                        "meaning": "運ぶ",
+                                        "lang": "ラテン語"
+                                }
+                        ],
+                        "original_statement": "The word 'convey' originates from the Old French 'convoier', which in turn comes from the Late Latin 'conviare', a combination of 'con-' meaning 'together' and 'vehere' meaning 'carry'."
+                },
+                "core_concept": {
+                        "en": "To transport the essence, connecting hearts across the unseen.",
+                        "ja": "目に見えぬ間をつなぎ、心から心へと本質を運び届けること。"
+                },
+                "thinking_layer": "「伝える」という行為は、物理的な移動を超え、精神的な接続を象徴しています。言葉、感情、または考えが、一つの存在から他の存在に移動する過程は、宇宙の根本的な相互接続性を示唆します。日本語で「伝える」は、単に情報を運ぶという意味を超え、感情や文化、思いそのものを共有する行為を含んでいます。この行為は、深いところで人々の心を結びつけ、個々の意識を超えた何か大きなものに参加している実感を与えます。私たちが何かを伝える瞬間、それは単に言葉の交換ではなく、無限の可能性を秘めた触れ合いの瞬間です。この瞬間を通じて、人々は互いに影響を与え、自分たちの思考、信念、希望を形作り、未来を築いていきます。言葉が運ぶものは形而上の旅であり、それぞれの心の中に、明日を紡ぐための小さな種を蒔いています。私たちが何かを伝える時、その行為はまた、伝える側と受け取る側の心の鏡となり、新たな光を放つのです。",
+                "synonyms": [
+                        "Transmit",
+                        "Transport"
+                ],
+                "antonyms": [
+                        "Retain",
+                        "Withhold"
+                ],
+                "aftertaste": "In the art of conveying lies the silent yet profound connection of humanity.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "vehere",
+                                        "meaning": "to carry, to transport"
+                                }
+                        ],
+                        "points": [
+                                "「伝える」という単語は、ラテン語の「vehere」という語源を持ち、これは「輸送する」または「運ぶ」という意味を持ちます。この語源は、言語的な距離を越えて人間の意識と文化を結びつける力を示唆しています。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "Late Latin"
+        },
+        {
+                "id": "debate",
+                "word": "Debate",
+                "part_of_speech": "noun/verb",
+                "meaning": "議論、討論",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "de-",
+                                        "type": "prefix",
+                                        "meaning": "否定、不、離脱",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "battuere",
+                                        "type": "root",
+                                        "meaning": "打つ、叩く",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'debate' originates from the Old French 'debatre', based on Latin roots where 'de-' implies opposition and 'battuere' means to beat."
+                },
+                "core_concept": {
+                        "en": "Debate is the dance of minds clashing like swords, seeking not to wound but to illuminate.",
+                        "ja": "心の剣が交わり、傷つけることなく光を求める心の舞踊。"
+                },
+                "thinking_layer": "議論とは、言葉の剣がぶつかり合う戦場である。しかし、この戦場は流血の場ではなく、光を見出だすための光明の場である。それは、心と思考の持つ力が、異なる視点や価値観を超えて結び付き合う試みであり、私たちが真実を垣間見るための鏡のようでもある。そして、その過程において、我々は相手の言葉に耳を傾け、理解することで、自らの内面に新たな景色を見つけることができる。議論は、自分だけの信念に安住することから目を逸らし、未知の領域へと心の翼を広げるための訓練でもある。そこには時に痛みも伴うが、その痛みを通じて我々は成長し、賢明さを手に入れることができる。議論を経て、言葉の中の深い知恵を引き出すことができるのだ。この過程を通し、思考は自己の外に在る広大な世界と出会い、心の中に新たな道筋を創造し続ける。議論とは、思索の果てしない旅のための、扉を開く鍵となるものである。",
+                "synonyms": [
+                        "Discussion",
+                        "Argument"
+                ],
+                "antonyms": [
+                        "Agreement",
+                        "Silence"
+                ],
+                "aftertaste": "In the arena of minds, truth is the only victor.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "battuere",
+                                        "meaning": "to beat or strike"
+                                }
+                        ],
+                        "points": [
+                                "議論の語源は対立を意味するラテン語であるが、それは同時に共鳴の可能性をも含んでいる。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "14th Century"
+        },
+        {
+                "id": "confide",
+                "word": "Confide",
+                "part_of_speech": "verb",
+                "meaning": "心を許して話す",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "com-",
+                                        "type": "prefix",
+                                        "meaning": "共に",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "fidere",
+                                        "type": "root",
+                                        "meaning": "信じる",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'confide' originates from the Latin 'confidere', meaning to trust or have faith in."
+                },
+                "core_concept": {
+                        "en": "The delicate art of opening one's heart to another.",
+                        "ja": "他者に心を開く繊細な芸術"
+                },
+                "thinking_layer": "「信頼」という言葉を深く追究すると、それは人間関係の根幹にある信義と愛の融合を象徴しています。古代ラテン語の「fidere」が示すように、信頼は単なる契約ではなく、双方の心理的な繋がりを反映しています。その本質は、他者に自分の心を明け渡すという勇気にあり、そしてその行為はまた、互いの影響し合う化学反応を生み出します。同時に、この信頼が裏切られたとき、心に刻まれる痛みは計り知れないものです。しかし、だからこそ、それは貴重であり、人生における弁証法的な成長を促します。深い信頼は人を高め、疑念を超越した真実の理解をもたらすのです。信じることはある意味で、一つの賭けのようなもの。誠実さという土台の上に構築され、時間をかけて固まっていくものなのです。そして、どこまでも人間の精神の高貴さを示す美しい行為です。",
+                "synonyms": [
+                        "Trust",
+                        "Entrust"
+                ],
+                "antonyms": [
+                        "Distrust",
+                        "Mistrust"
+                ],
+                "aftertaste": "Confiding is the architecture of human connection.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "fidere",
+                                        "meaning": "to trust"
+                                }
+                        ],
+                        "points": [
+                                "「信頼」という概念は、感情の相互作用と人間関係の深層に根ざしており、単なる機能的なものではなく、精神と心の結びつきにおける基盤的要素です。"
+                        ]
+                },
+                "source": "Etymonline",
+                "date": "2026-03-01",
+                "era": "Late Middle English"
+        },
+        {
+                "id": "immerse",
+                "word": "Immerse",
+                "part_of_speech": "verb",
+                "meaning": "没入する、浸す、沈める",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "imm-",
+                                        "type": "prefix",
+                                        "meaning": "中に",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "mergere",
+                                        "type": "root",
+                                        "meaning": "沈める",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'immerse' originates from the Latin ‘immergere’, which means 'to plunge into or dip'."
+                },
+                "core_concept": {
+                        "en": "To become enveloped deeply in the flow of existence.",
+                        "ja": "存在の流れに深く包まれること"
+                },
+                "thinking_layer": "『没入』という概念は、まるで魂が宇宙の水流に投げ入れられ、形而上の旅を始めるかのようです。その状態は、自らの内なる意識と外界の境界が溶け合う瞬間。深い集中は、自己を忘れ、瞬間に生き、在り続ける智慧へと通じます。すべてが相互に影響し、一体となって流れ出すような感覚。心の中のさざ波が静まり、時間という概念が溶けていく寂として静かな領域。塵のような俗世の考えから解放され、新たな発見と驚嘆の世界へと導かれる。『没入』することによって、人はより深い自己理解と、普遍的真理の一端に触れることができるのです。言葉が持つ無限の可能性を体感し、その瞬間瞬間を深め、時にはただの存在そのものとなる。そこに時間軸や空間の制約はなく、ただ、ありのままの存在が輝いているのです。",
+                "synonyms": [
+                        "Engulf",
+                        "Submerge"
+                ],
+                "antonyms": [
+                        "Emerge",
+                        "Withdraw"
+                ],
+                "aftertaste": "To immerse is to lose oneself and find the universe within.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "mergere",
+                                        "meaning": "to plunge, dip"
+                                }
+                        ],
+                        "points": [
+                                "語源的にはラテン語の‘immergere’から来ており、『自分を完全に周りの何かに投じる』という意義がある。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "15th Century"
+        },
+        {
+                "id": "deflate",
+                "word": "Deflate",
+                "part_of_speech": "verb",
+                "meaning": "空気を抜く、萎む",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "de-",
+                                        "type": "prefix",
+                                        "meaning": "否定、取り除く",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "flare",
+                                        "type": "root",
+                                        "meaning": "膨らむ、吹く",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The term 'deflate' traces back to the Latin 'de-' meaning 'down' or 'away' combined with 'flare' meaning 'to blow'. It entered the English language in the 16th century."
+                },
+                "core_concept": {
+                        "en": "The gentle surrender of resistance, where fullness yields to simplicity.",
+                        "ja": "満ちた状態からの優雅な譲歩、単純さへと至る道"
+                },
+                "thinking_layer": "『膨らむ』こと、その特性は希望や可能性を象徴する。しかし、『収縮』や『しぼむ』こともまた成熟の美しさを秘めている。生物がその成長ステージの中で迎えるこの凋落の過程は、しばしば哀愁を漂わせるが、その根底には新たな始まりの兆しが秘められている。風船が空気を失いしぼむ時、その静けさにはある種の安らぎがあり、無用な虚飾を脱ぎ捨てた純粋な状態に帰ることを告げている。我々の心においても、成長とともに膨らむ自我や欲望を、時に手放す勇気が必要であり、その際に訪れる静寂と平静には、真の成熟と洞察が宿るのである。過剰な期待で膨らんだ夢が、現実によって静かに萎んでいく様は、決して終わりではなく、新たな可能性を秘めた始まりである。このように『デフレート』は単なる空気を抜く行為以上の、人生の哲学を反映している言葉なのだ。",
+                "synonyms": [
+                        "collapse",
+                        "compress"
+                ],
+                "antonyms": [
+                        "inflate",
+                        "expand"
+                ],
+                "aftertaste": "Embracing deflation is akin to rediscovering simplicity in its purest form.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "flare",
+                                        "meaning": "to blow"
+                                }
+                        ],
+                        "points": [
+                                "ラテン語での動詞 'flare' がその起源であり、空気や気体の膨張を示す。語源学的には、この概念はパンを膨らませる動作にも匹敵するが、逆にデフレートすることは膨張の逆過程、すなわち要素の取り除きを指す。ラテン語での接頭辞 'de-' は否定や除去の意味を持ち、動詞全体を方向転換する働きをしている。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "16th Century"
+        },
+        {
+                "id": "contradict",
+                "word": "Contradict",
+                "part_of_speech": "verb",
+                "meaning": "逆らう、否定する",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "contra-",
+                                        "type": "prefix",
+                                        "meaning": "反対",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "dicere",
+                                        "type": "root",
+                                        "meaning": "言う",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'contradict' originates from the Latin 'contradicere', combining 'contra' meaning 'against' and 'dicere' meaning 'to speak'."
+                },
+                "core_concept": {
+                        "en": "A clash of spoken truths that oppose each other in the dance of discourse.",
+                        "ja": "議論の舞において、相反する真実が語られる衝突。"
+                },
+                "thinking_layer": "言葉が交わされる場において、「矛盾」という概念は、静かなる哲学のさざ波を引き起こす。この言葉は、人間の心の内にひそむ絶え間ない内向と外向の葛藤を象徴する。私たちの存在は、過去と未来、真実と虚偽、自己と他者の対立する力に引っ張られている。この中で、矛盾はその中心に立ち、深い洞察を生む場を提供する。矛盾はただの不一致ではない。それは新たな思想や洞察を引き出す契機であり、進化するプロセスの一部だ。自己の中に抱える矛盾を抱擁することによって、人はより深い理解へと導かれる。その過程では、異なる視点が融合することで、より豊かな意味の層が形成される。矛盾を通して真理に近づくことは、自然の理に従ったものであり、共存する複数の真実を認めることこそが本当の知識へと通じる道である。哲学的には、この複雑な舞踊の中で、矛盾は美しく力強い一歩を刻むのだ。故に、矛盾はよどみなく流れる時間の中において、人が受け入れるべきダイナミズムである。",
+                "synonyms": [
+                        "Deny",
+                        "Refute"
+                ],
+                "antonyms": [
+                        "Agree",
+                        "Confirm"
+                ],
+                "aftertaste": "In the tapestry of words, contradiction paints the shadows necessary to define the light.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "dicere",
+                                        "meaning": "to speak"
+                                }
+                        ],
+                        "points": [
+                                "「contradict」は、ラテン語の「contra（反対）とdicere（言う）」から来ている。古代ローマにおいて、議論の中で反対することは哲学的探求と見なされていた。この対立構造が、後のヨーロッパ哲学における弁証法の概念形成に影響を与えた。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "14th Century"
+        },
+        {
+                "id": "confusion",
+                "word": "Confusion",
+                "part_of_speech": "noun",
+                "meaning": "混乱、撹乱、誤解",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "com-",
+                                        "type": "prefix",
+                                        "meaning": "ともに",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "fundere",
+                                        "type": "root",
+                                        "meaning": "注ぐ",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "Derived from Latin 'confundere' meaning 'to mix together, pour together', which morphed into Old French 'confusion' and later Middle English as 'confusioun'."
+                },
+                "core_concept": {
+                        "en": "An entanglement of thoughts and perceptions, a symphony of disorder.",
+                        "ja": "思考と認識の絡み合い、無秩序な交響曲"
+                },
+                "thinking_layer": "混乱とは、人間の精神が直面する最も複雑で興味深い状態の一つです。情報が過剰に流れる現代社会では、混乱は避け難いものとなってきました。しかし、この状況は古来より多くの知識人や哲学者の研究対象でもありました。それは私たちが生きているこの瞬間に、過去と未来、夢と現実の境界を溶かし去るかのような存在であり、理解と誤解が同時に存在する状態です。混乱の中に隠されている真実を見るには、目に見えるものを超え、心の奥底に潜む思考の層を探る必要があります。それはまるで霧の中に隠された森を彷徨うようなもので、この未知なる体験を通じて初めて明らかになる新たな知覚の扉があるのです。混乱はまた、一種の創造的な混沌でもあり、そこから新たな発展や革新が生まれる力を秘めています。すべてが溶け込んだその流れに逆らわずに身を委ねること、それこそが混乱と共生するための鍵となるのかもしれません。",
+                "synonyms": [
+                        "Disorder",
+                        "Chaos"
+                ],
+                "antonyms": [
+                        "Clarity",
+                        "Order"
+                ],
+                "aftertaste": "In confusion lies the seed of transformation.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "fundere",
+                                        "meaning": "to pour"
+                                }
+                        ],
+                        "points": [
+                                "‘混乱’という言葉が示すのは、単なる複雑さの集積ではなく、むしろそれが私たちに何を問いかけているのかを知るための探求の始まりでもあるということです。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "14th Century"
+        },
+        {
+                "id": "ponderous",
+                "word": "Ponderous",
+                "part_of_speech": "adjective",
+                "meaning": "重々しい、どっしりとした",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "pondus-",
+                                        "type": "root",
+                                        "meaning": "重さ",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "Derived from Latin 'ponderosus', meaning having great weight, heavy."
+                },
+                "core_concept": {
+                        "en": "A soul weighed by the gravity of its thoughts.",
+                        "ja": "思考の重みによって圧倒される魂"
+                },
+                "thinking_layer": "『ponderous』という言葉は、単に物理的な重さを表すだけでなく、時に絶え間ない思索の重さ、魂そのものの重みにも通じる。人は何をもってその重さを感じるのか？それは、人生の複雑な問題、避けられない運命、そして存在そのものの神秘に対する終わりなき問いが原因である。重さとは、単なる質量の表現ではなく、それは心の内に渦巻く深層の感情、それを抑えきれずに溢れる思念の結晶である。時にその重さは我々を地に伏せさせるが、他方でその重さは怪しげな力で地に縛りつける喜びをもたらす。我々はその重さを、己の人生の内なる律動として捉える他ないのかもしれない。それこそが一つの生きる意味を与え、同時に苦悩を生むのだ。深い深海に潜るようにして、思索の重みを心底から味わうことによって、人はより深い自己認識へと至る。それはまた、光を求めて地上へと帰還することをいつも心に留めながらの旅である。",
+                "synonyms": [
+                        "Heavy",
+                        "Weighty"
+                ],
+                "antonyms": [
+                        "Light",
+                        "Airy"
+                ],
+                "aftertaste": "The weight of words often exceeds the burden of silence.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "pondus",
+                                        "meaning": "weight"
+                                }
+                        ],
+                        "points": [
+                                "ラテン語の根源である『pondus』は、単なる物理的な重さを超え、対人的、精神的な重みを内包するものである。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Late Middle English"
+        },
+        {
+                "id": "umbral",
+                "word": "Umbral",
+                "part_of_speech": "adjective",
+                "meaning": "影に関連する、または影響されるもの",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "umbra",
+                                        "type": "root",
+                                        "meaning": "影",
+                                        "lang": "ラテン語"
+                                }
+                        ],
+                        "original_statement": "The term 'umbral' originates from the Latin word 'umbra', meaning 'shadow'. It was first used in the mid-17th century to describe things pertaining to or resembling a shadow."
+                },
+                "core_concept": {
+                        "en": "A poetic interplay of light and shadow.",
+                        "ja": "光と影の詩的な絡み合い"
+                },
+                "thinking_layer": "「影」とは、存在の実体が光によって姿を消される空間の痕跡である。物質が光を断ち切ることで生じる闇は、ある種の陰翳美を紡ぎ出す。それはまた、形而上学的領域における「不在の存在」を象徴する。この暗闇な陰影は、我々の現実の認識や心の中の不確かな領域を喚起する。影は、対象が存在しながらも否定され、認識と感覚の狭間で揺らぐ中間的存在である。影の中に漂う無音の声に耳を澄ますならば、そこには静かに語る無数の物語が存在する。影の美学は、明瞭な形に囚われない流動的で曖昧な美であり、そこにこそ深遠な哲学的深みが宿る。一方では明るく、一方では暗い、影の本質。私たちの内面的な旅を促し、見えないものに感じ入るその心を呼び覚ます。このように、「影」は常に新たな意味を内包し、風景を詩的に彩るものである。",
+                "synonyms": [
+                        "shadowy",
+                        "shaded"
+                ],
+                "antonyms": [
+                        "illuminated",
+                        "vivid"
+                ],
+                "aftertaste": "In the umbral embrace, clarity emerges uniquely from the shadows.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "umbra",
+                                        "meaning": "shadow"
+                                }
+                        ],
+                        "points": [
+                                "「umbral」という言葉は、光と影の絶妙なバランスを探求する視座を提供する。影に隠されたものが時に最も真実を語るという見解に基づく、形而上学的豊かさが付与される。この単語は、影の持つ文化的、精神的意義の重みを認識する手掛かりとなる。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "17th Century"
+        },
+        {
+                "id": "jeopardous",
+                "word": "Jeopardous",
+                "part_of_speech": "adjective",
+                "meaning": "危険をはらむ",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "jeopardy",
+                                        "type": "root",
+                                        "meaning": "危険",
+                                        "lang": "Middle English"
+                                },
+                                {
+                                        "text": "-ous",
+                                        "type": "suffix",
+                                        "meaning": "～の性質を持つ",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "Derived from the Middle English 'jeopardie', which means peril or danger, combined with the suffix '-ous' indicating possession of a quality."
+                },
+                "core_concept": {
+                        "en": "A dance upon the edge of inevitable peril, where each moment glimmers with uncertain fate.",
+                        "ja": "避けられない危険の縁での舞踏であり、すべての瞬間が不確定な運命と輝いている。"
+                },
+                "thinking_layer": "危険という概念は、私たちが生の中で避けられない部分である。人生の最も美しい瞬間は、しばしば危険の香りを纏っている。危険に面するとき、人はより鋭敏になる。心臓は高鳴り、意識は鮮やかに目覚め、刹那ごとの命の儚さを痛感する。『危険』という言葉は、古の時代から我々の意識を揺さぶり続け、芸術や哲学の中で形を変えて登場する。危険は、力強さと脆さ、勇気と恐怖の間を往復する人間の存在そのものである。そして、その中に潜む均衡の美しさは、自然界の絶妙な調和に似ている。危険を知ることは、また、その中に潜む可能性を見出すことであり、困難を克服する力の中に新たな自己を発見する旅でもある。危険の中にこそ、私たちは生の意味を見出し、その鋭利な縁を踏みしめたその先に、真なる安らぎが見えてくるのかもしれない。",
+                "synonyms": [
+                        "Perilous",
+                        "Hazardous"
+                ],
+                "antonyms": [
+                        "Safe",
+                        "Secure"
+                ],
+                "aftertaste": "In the dance with danger, we touch the essence of life.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "jeopardy",
+                                        "meaning": "danger"
+                                }
+                        ],
+                        "points": [
+                                "『jeopardy』という語は、中世英語からの借用語であり、この語根は危険という意味を持つ。この語にさらに『-ous』というラテン語由来の接尾辞が付加され、その性質を示す。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "13th Century, Middle English"
+        },
+        {
+                "id": "tangible",
+                "word": "Tangible",
+                "part_of_speech": "adjective",
+                "meaning": "触れることができる、明白な",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "tangere",
+                                        "type": "root",
+                                        "meaning": "触れる",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "-ible",
+                                        "type": "suffix",
+                                        "meaning": "可能な",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "Derived from Latin 'tangibilis', with roots in 'tangere' meaning 'to touch'."
+                },
+                "core_concept": {
+                        "en": "The palpable whisper of reality's edge.",
+                        "ja": "現実の縁にある触知できる囁き"
+                },
+                "thinking_layer": "「触れることができる」─それは物理的な距離を越えた存在との接触である。目に見えない何か、あるいは心の奥にひそむ感情、これを感知するための試みとも言うべきである。触覚という五感の中でも特に原始的なものに依存して、私たちは目に見える世界の偉大な海を航海する。触れられるということは、存在の確認のようなものであり、それゆえに人は安らぎを見出す。その背後には形のない現実が広がり、我々が目にし得ぬ領域へと一歩踏み出す挑戦を促す。この実体の手触り、それがもたらす確かさ、そして逆にそれを失った際の儚さを感じるとき、人生の真実が影を潜め始める。無形なるものに手を伸ばし、その存在の細やかな波動を探り始めること、それ自体が哲学なのだ。触れられるもの、それは一条の光であり、我々の幻影の中で唯一確かなるものの象徴である。限りない時間の流れの中で、人は何度この触れられる現実に救われたことだろうか。それは人間が常に求め続ける究極の安堵であり、まるで魂の航路を照らす灯火のように、私たちを導いていく。物理的に触れること以上のものとして、それは心に響き、私たちの存在の確証と化すのだ。",
+                "synonyms": [
+                        "Palpable",
+                        "Touchable"
+                ],
+                "antonyms": [
+                        "Intangible",
+                        "Ethereal"
+                ],
+                "aftertaste": "Reality, when touched, unveils its profound simplicity.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "tangere",
+                                        "meaning": "to touch"
+                                }
+                        ],
+                        "points": [
+                                "『タンジブル』の語源はラテン語「タンギビルス」にあり、これは「触れる」ことを意味する「タンゲレ」に由来する。"
+                        ]
+                },
+                "source": "Oxford English Dictionary, EtymOnline",
+                "date": "2026-03-01",
+                "era": "15th Century"
         }
 ];
