@@ -28734,5 +28734,57 @@ const WORDS = [
                 "source": "The Oxford English Dictionary",
                 "date": "2026-03-01",
                 "era": "Old English"
+        },
+        {
+                "id": "beef",
+                "word": "Beef",
+                "part_of_speech": "noun",
+                "meaning": "牛肉または肉全般に対する一般的な表現",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "boeuf",
+                                        "type": "root",
+                                        "meaning": "牛肉",
+                                        "lang": "Old French"
+                                },
+                                {
+                                        "text": "bos",
+                                        "type": "root",
+                                        "meaning": "牛",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The term 'beef' comes from the Old French 'boeuf', which in turn is derived from the Latin 'bos', meaning cow or ox."
+                },
+                "core_concept": {
+                        "en": "The fleshy indulgence that transforms bovine identity into culinary art.",
+                        "ja": "牛の形象が料理の芸術に変容する肉の享楽"
+                },
+                "thinking_layer": "牛肉と言う単語は単なる食材の名称ではなく、より深い意味を持つ。人類が牧畜を学ぶ過程で、牛が家畜化され、その命が人間の栄養源へと変わっていく様を空想すると、古の叡智が甦る。牛は力強く豊かな存在であり、その肉は古代社会における富の象徴であった。美学と生命の間に、牛肉は存在し、食文化を通じて伝説が編まれた。その香ばしさと豊かさは、時を超え、場所を超えて人々を繋ぐ糸となる。食すという行為は物質的摂取を超え、宇宙との対話である。命の糧を取り込み、身体と精神の融合がなされる瞬間。牛肉を前にするとき、我々は単なる食欲を超えて、生命の真理の一端に触れているのかもしれない。",
+                "synonyms": [
+                        "Bovine",
+                        "Cattle"
+                ],
+                "antonyms": [
+                        "Poultry",
+                        "Fish"
+                ],
+                "aftertaste": "Beef is the conjuration of earth's bounty realized through fire and flavor.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "bos",
+                                        "meaning": "Latin for cow or ox"
+                                }
+                        ],
+                        "points": [
+                                "牛肉は古フランス語の「boeuf」から派生し、さらなる古層にラテン語の「bos」がある。その意味は牛や雄牛を示す。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "Middle Ages"
         }
 ];
