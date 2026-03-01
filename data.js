@@ -43473,5 +43473,373 @@ const WORDS = [
                 "source": "Online Etymology Dictionary",
                 "date": "2026-03-01",
                 "era": "Late Middle English, from Latin"
+        },
+        {
+                "id": "construct",
+                "word": "Construct",
+                "part_of_speech": "noun/verb",
+                "meaning": "形を構築する、組み立てること",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "con-",
+                                        "type": "prefix",
+                                        "meaning": "一緒に",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "struere",
+                                        "type": "root",
+                                        "meaning": "積み重ねる、組み立てる",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'construct' derives from the Latin 'construere', meaning 'to pile up together'."
+                },
+                "core_concept": {
+                        "en": "A sublime dance of chaos into order.",
+                        "ja": "秩序への混沌の舞"
+                },
+                "thinking_layer": "構築という行為は、宇宙そのものが絶え間なく自己を編んでいく過程に似ています。自然界を見れば、星雲が新たな星を創り出し、種が土に根を張り、川が山を削りだします。このようにして、すべての存在は不変の流れの中で形を成し、また消えていきます。構築は、私たちの意識の中で具体化する創造的な螺旋であり、そこには時間と空間を超えて存在する意志が宿ります。人間の手が何かを築く際、単なる物理的な構造物以上のもの、つまり思想の記憶や感情の結晶化が伴います。それは、目に見えない過去と未来を織り交ぜた一つの布のようです。そして、この布を通して私たちは言語を操り、文明を形作り、未知への旅路を描きます。構築とは、単に物質的な操作ではなく、精神と物理の狭間で展開される壮大なドラマであり、そこには人の心の奥底に潜む神秘が覆われているのです。",
+                "synonyms": [
+                        "Build",
+                        "Create"
+                ],
+                "antonyms": [
+                        "Destroy",
+                        "Dismantle"
+                ],
+                "aftertaste": "Building bridges in shadows of the mind.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "struere",
+                                        "meaning": "To pile, arrange"
+                                }
+                        ],
+                        "points": [
+                                "構築という概念は人類の文化と歴史の発展に深く結びついている。物の構築は自己表現の一形態であり、社会の進化とともにその意味が変化してきた。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "Latin, circa 14th Century"
+        },
+        {
+                "id": "exaggerate",
+                "word": "Exaggerate",
+                "part_of_speech": "verb",
+                "meaning": "誇張する",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "ex-",
+                                        "type": "prefix",
+                                        "meaning": "外に",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "aggerare",
+                                        "type": "root",
+                                        "meaning": "積み重ねる",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'exaggerate' originates from the Latin verb 'exaggerare', which means 'to heap up' or 'to accumulate'. The prefix 'ex-' intensifies the action, transforming 'aggerate' into an augmentative action."
+                },
+                "core_concept": {
+                        "en": "The embellishment of truth, stretched beyond its natural span, forming a bridge between reality and fiction.",
+                        "ja": "現実と虚構の間に架ける、真実を越えて伸ばされた飾り。"
+                },
+                "thinking_layer": "『誇張』という行為は、一種の芸術でもある。誠実さと偽りの狭間で、語り手は物語を豊かにし、感情の訴求力を高めようとする。その過程において、現実の鋳型は溶かされ、生まれ変わる。言葉の変奏は、真実を過激に化し、一瞬の印象を永遠に刻む力を持つ。この誇張の力は、時には誤解を生む一方、時には心の奥底に眠る未開の感情を引き出す芸術的な触媒にもなる。この広がりゆく宇宙の中心に存在する誇張とは、真実の周縁をなぞりながら、それを超えて新たな次元へと進む旅路である。それは、現実と虚構の境界を模索し続ける人間の探求の形であり、無限の可能性を秘めた感情の表現に至る道である。",
+                "synonyms": [
+                        "Magnify",
+                        "Overstate"
+                ],
+                "antonyms": [
+                        "Understate",
+                        "Minimize"
+                ],
+                "aftertaste": "The art of exaggeration dances on the border of reality, painting our world in vibrant hues.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "aggerare",
+                                        "meaning": "to heap, collect"
+                                }
+                        ],
+                        "points": [
+                                "「ex-」はラテン語で強調の意味を持ち、「aggerare」は物を積み重ねることを意味する。これが誇張という行為の根幹であり、日常の枠から物語を飛躍させる力を持つ。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "Mid 16th Century"
+        },
+        {
+                "id": "pretend",
+                "word": "Pretend",
+                "part_of_speech": "verb",
+                "meaning": "現実でないことを本当のように見せる行為",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "pre-",
+                                        "type": "prefix",
+                                        "meaning": "前に",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "tendere",
+                                        "type": "root",
+                                        "meaning": "伸ばす",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'pretend' derives from the Latin 'praetendere', which means 'to stretch forth, to put forward'. This evolved into the notion of presenting something as not genuinely real."
+                },
+                "core_concept": {
+                        "en": "To dance between the lines of reality and illusion.",
+                        "ja": "現実と幻の狭間を踊ること"
+                },
+                "thinking_layer": "仮想の行為は、しばしば自己の深層を探求する旅への扉である。我々が「偽る」とき、それは他者を欺くばかりではなく、自らをもまた、未知の可能性へと誘うことを意味する。この行為は、現実の境界を超え、夢と現実の狭間での創造性を養い、心というキャンバスに無限のペンシルストロークを刻む。仮想は、内なる心象風景を具現化する力であり、しばしば真実以上に心を動かす。その儚さは、永遠を求める人間の本質を映し出し、同時に消え去る靄のような一瞬を捉える。そして、我々が仮想に没入するとき、それは次なる現実を夢見る者たちへの賛歌となる。実在と非実在、その狭間に果敢に立つことは、哲学的挑戦であり、人間存在の真髄を解き明かす鍵となる。仮装の旅は、無数の顔を持つ真実の探求でもある。",
+                "synonyms": [
+                        "simulate",
+                        "feign"
+                ],
+                "antonyms": [
+                        "reveal",
+                        "disclose"
+                ],
+                "aftertaste": "In the masquerade of life, we find shadows of truth.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "tendere",
+                                        "meaning": "to stretch"
+                                }
+                        ],
+                        "points": [
+                                "『pretend』は、時間をかけて単なる行為から、自己表現の象徴へと変容を遂げました。その過程は、言語の発展と文化の交差点で生成され、言葉の進化は人間の思考の進化を反映しています。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary (www.etymonline.com)",
+                "date": "2026-03-01",
+                "era": "14th Century"
+        },
+        {
+                "id": "intercept",
+                "word": "Intercept",
+                "part_of_speech": "noun/verb",
+                "meaning": "遮断、横取り",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "inter-",
+                                        "type": "prefix",
+                                        "meaning": "間に入る",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "cipere",
+                                        "type": "root",
+                                        "meaning": "取る",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "Derived from the Latin 'intercipere', which means 'to take between'."
+                },
+                "core_concept": {
+                        "en": "To catch the dance of moments between beginnings and endings.",
+                        "ja": "始まりと終わりの間に存在する瞬間を捉えること"
+                },
+                "thinking_layer": "思索の層：'インターセプト'とは、変化の波間に紛れる真実のアート。存在と消滅の狭間で何かが生まれる時、その姿を捉えることは、生命そのものの詩である。モメントとモメントの間に紛れる無数の可能性、それが私たち自身の選択次第で形を変える。この行為は単なる動作に留まらず、深く哲学的な捜索の過程である。捕らえ、繋げることによって、一瞬一瞬の真実の反射を見ることができる。そして、その中に見出される光は、宇宙と心との接点である。人間は、この世界の無限の流れの中で、常に自身の位置を問い続ける存在だ。その問いこそが人生における 'インターセプト' を成り立たせ、秩序の中の一つの光として我々を導いてくれる。",
+                "synonyms": [
+                        "Seize",
+                        "Catch"
+                ],
+                "antonyms": [
+                        "Release",
+                        "Ignore"
+                ],
+                "aftertaste": "To intercept is to live in the delicate balance of existence.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "cipere",
+                                        "meaning": "To take"
+                                },
+                                {
+                                        "term": "inter",
+                                        "meaning": "Between"
+                                }
+                        ],
+                        "points": [
+                                "動詞'捕える'は、行動により物質や情報を止めたり、妨害したりすることである。古代ラテン語の『intercipere』がその起源であり、その具体的な使用は時の流れの中で洗練され、現代に至る。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Late Middle English, Latin origin"
+        },
+        {
+                "id": "resource",
+                "word": "Resource",
+                "part_of_speech": "noun",
+                "meaning": "資源、物資",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "re-",
+                                        "type": "prefix",
+                                        "meaning": "再び",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "surgere",
+                                        "type": "root",
+                                        "meaning": "立ち上がる",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "From Old French 'resourdre', based on Latin 'resurgere', meaning to rise again."
+                },
+                "core_concept": {
+                        "en": "The wellspring of sustenance and potential.",
+                        "ja": "命の源泉、可能性の泉"
+                },
+                "thinking_layer": "資源という言葉は生命の永遠の循環を象徴する。自然界に存在するあらゆるものが宇宙の大きなパズルの一部であり、その存在価値は恩恵をもたらす点にある。再び立ち上がる能力を持つ資源は、地球と人間に対する無限の可能性を象徴している。我々はこれらの資源を使い、創り出し、そして再生することによって、新たな未来を形作る。真の資源は無限に近いように見える、なぜならそれは人間の知恵と地球の寛大さに起因するからだ。自然のリズムの中で、ものが再び使われ、再び形成されるプロセスは、我々自身の成長と共鳴しており、日常的な奇跡の一部である。この哲学的捕捉は、人間が他と切り離された存在ではなく、むしろ宇宙的資源の一部であるという深い理解を育む。この理解がある時、我々は地球上での役割を再考し、互いに、そして自然に対する責任を深めることができるであろう。",
+                "synonyms": [
+                        "means",
+                        "supply"
+                ],
+                "antonyms": [
+                        "depletion",
+                        "exhaustion"
+                ],
+                "aftertaste": "In every resource, lies the whisper of potential.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "surgere",
+                                        "meaning": "to rise"
+                                }
+                        ],
+                        "points": [
+                                "『資源』という言葉は、再生と再発見という人類の永遠の役割を強く示唆している。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "14th Century"
+        },
+        {
+                "id": "retention",
+                "word": "Retention",
+                "part_of_speech": "noun",
+                "meaning": "記憶や物を保持すること",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "re-",
+                                        "type": "prefix",
+                                        "meaning": "再び",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "tenere",
+                                        "type": "root",
+                                        "meaning": "保つ",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'retention' originates from the Latin 'retentionem', a noun of action from 'retinere' meaning 'to hold back' or 'to keep in mind'."
+                },
+                "core_concept": {
+                        "en": "The delicate art of holding within.",
+                        "ja": "内に抱く繊細な術"
+                },
+                "thinking_layer": "保持という概念は、常に過去の記憶や経験、あるいは感情を心の中に留めておく力として重要である。私たちが保持するものは、ただ情報や物質だけではなく、現実と夢の狭間にある無形の力である。それは、時に私たちを縛る鎖であり、時に解放の鍵である。人生の瞬間をつなぎ合わせ、意味のある物語を編み上げるのは、この保持の力である。蓮の葉の上に宿る露のように、私たちの記憶は消えゆくこともあるが、それを止めることで輝きを放ち続ける。保持することは、過去と未来を橋渡し、現在という瞬間を豊かにする芸術だ。哲学的思索としての保持は、有限の中に無限を見い出す試みであり、その奥に潜む真実を探求する冒険である。人生における最も深い問いかけに答えるための手段として、自己の一部を保存する行為がある。このつながりを紡ぐ姿勢は、存在そのものを証明し、宇宙における私たちの居場所を確立する。保持することは、自己の本質へと誘う詩的な呼びかけである。",
+                "synonyms": [
+                        "preservation",
+                        "conservation"
+                ],
+                "antonyms": [
+                        "release",
+                        "abandonment"
+                ],
+                "aftertaste": "Retention is the custodian of the essence of being.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "ten",
+                                        "meaning": "to stretch"
+                                }
+                        ],
+                        "points": [
+                                "ラテン語の『tenere』は、多くの言葉に影響を与える知恵の根源である"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "14th Century"
+        },
+        {
+                "id": "generation",
+                "word": "Generation",
+                "part_of_speech": "noun",
+                "meaning": "生成や生まれること",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "gener-",
+                                        "type": "root",
+                                        "meaning": "生む、創造する",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "-ation",
+                                        "type": "suffix",
+                                        "meaning": "行為、状態",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The term 'generation' originates from the Latin 'generātiō', which means 'a begetting or an offspring'."
+                },
+                "core_concept": {
+                        "en": "The poetic dance of existence that flowers through time.",
+                        "ja": "時間を通じて花開く存在の詩的な舞い"
+                },
+                "thinking_layer": "世代とは、過去と未来を結ぶ生命の流れである。この流れは、時の深淵を超えて我々を導く。与えられた命を次代に引き継ぐことは、過ぎ去った者たちの意志が今この瞬間に集約されることであり、その神秘は言葉を超越する。我々は皆、無数の世代に渡って生きた人々の希望や夢、そして記憶の集大成であり、彼らの不断の探求心が今日の我々の礎となっている。生と死、光と影の永遠の交差は、個と集団の境界を消し去る。世代を超えて繋がることで、人類は永遠の航海に出発する。結び続けられる命の鎖によって、孤独は幻想となり、物語は終わりなき進化の一部となる。この進化の中で、きらめく瞬間は絶えることなく、我々はその一部として存在する。",
+                "synonyms": [
+                        "Lineage",
+                        "Progeny"
+                ],
+                "antonyms": [
+                        "Annihilation",
+                        "Termination"
+                ],
+                "aftertaste": "The pulse of life echoes through the whispering halls of time.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "gener",
+                                        "meaning": "to beget or create"
+                                }
+                        ],
+                        "points": [
+                                "世代という概念は単なる時間の流れの積み重ねではなく、その中で形作られる文化、知識、価値観の集合体である。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "14th Century, Latin origin"
         }
 ];
