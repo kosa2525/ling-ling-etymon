@@ -2173,6 +2173,58 @@ const WORDS = [
                 "era": "17th Century Latin"
         },
         {
+                "id": "adhere",
+                "word": "Adhere",
+                "part_of_speech": "verb",
+                "meaning": "付着する、従う",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "ad-",
+                                        "type": "prefix",
+                                        "meaning": "〜に向かって",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "-haerēre",
+                                        "type": "root",
+                                        "meaning": "くっつく",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The term 'adhere' originated from the Latin 'adhaerēre', composed of 'ad-' (to) and 'haerēre' (stick)."
+                },
+                "core_concept": {
+                        "en": "To adhere is to bind one's existence to principles, as a leaf sticks to a gentle stream.",
+                        "ja": "中心を定め、流れにそっと貼り付く葉のように、原則に自らを結びつけること。"
+                },
+                "thinking_layer": "物事に『付着する』ことは、単に物理的な行為に留まらず、哲学的な意味をも含んでいます。生きることは大海原を航海するようなものであり、その旅路において、我々は価値観や目標にしがみつき、その意味を形成していくのです。考えてみてください、自らの信念にしっかりと寄り添うことは、嵐の中の燈台の如く、人生を導く光となります。その粘り強さは時に試練に打ちひしがれても、なおも流れに逆らうことなく、ただ静かに、しなやかに、あり続けることを選びます。大海の目に見えない流れにただよう一枚の葉が、何気ない瞬間を、そして人生そのものをどれほど優美に輝かせるかを想像してみてください。物質的・精神的な世界における『adhere』という行為が、これほどまでに深く、静かに存在していることを、私たちはどれだけ意識し得るのでしょうか。そんなささやかな行為の中に、無限の宇宙が広がっていることに気付くのです。生きる力とは、しがみつく力でもあり、また手放し流れに委ねる力なのです。",
+                "synonyms": [
+                        "Cling",
+                        "Attach"
+                ],
+                "antonyms": [
+                        "Detach",
+                        "Separate"
+                ],
+                "aftertaste": "Adhere to dreams, for they guide the soul's journey.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "haerēre",
+                                        "meaning": "stick"
+                                }
+                        ],
+                        "points": [
+                                "『adhere』という言葉は単に物理的な付着を指すのではなく、精神的に何かにしっかりとついて離れないことを含意する。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary (etymonline.com)",
+                "date": "2026-03-01",
+                "era": "14th Century"
+        },
+        {
                 "id": "adjacent",
                 "word": "Adjacent",
                 "part_of_speech": "adjective",
@@ -3156,6 +3208,52 @@ const WORDS = [
                 "part_of_speech": "adjective",
                 "meaning": "敏捷な",
                 "era": "Latin"
+        },
+        {
+                "id": "agitate",
+                "word": "Agitate",
+                "part_of_speech": "verb",
+                "meaning": "動かす、動揺させる",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "agitare",
+                                        "type": "root",
+                                        "meaning": "動揺させる",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'agitate' originates from the Latin 'agitare', which means 'to drive, to stir up'. Evolving through Old French 'agiter' in the 16th century, its meanings diversified in English to encompass physical and emotional disturbance."
+                },
+                "core_concept": {
+                        "en": "The heart's tumultuous symphony.",
+                        "ja": "心の激しい交響曲"
+                },
+                "thinking_layer": "人生は静かな河のように流れることはなく、しばしば嵐に見舞われることがある。それは人間の心においても同様である。静寂のなかでも心はしばしば動揺し、思慮の波を立てるのである。動じること、それは人間の生き様において避けられぬ運命の一部であり、あらゆる思考や感情の生起がそこに包含される。そしてその背後には深い意味が潜んでいる。動揺とは単なる内なる乱れではなく、新たな理解や自己発見への道筋を示すものである。動じることで我々はより深く世界と関わり、自己を再構築する契機を得るのである。この人生の波間を如何に航海するか、それこそが人間存在の本質的な問いとなる。静寂の中で真実の声を聴き、動乱の中で新たな境地に至る、そうした経験が問いを形作り、答えを導き出す。",
+                "synonyms": [
+                        "Disturb",
+                        "Rouse"
+                ],
+                "antonyms": [
+                        "Calm",
+                        "Soothe"
+                ],
+                "aftertaste": "Life's momentum is often born from its disturbances.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "agitare",
+                                        "meaning": "to drive, to set in motion"
+                                }
+                        ],
+                        "points": [
+                                "動揺という概念は単なる心理的現象ではなく、思考や感情の活性化を促す行為である。ラテン語の 'agitare' にその源が在るが、それを通じて自己認識や新たな感覚の開発を促すものとして普遍的価値を有する。動かすという行為、その背後には意志の力と未知なるものへの果敢な挑戦が込められている。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "16th Century"
         },
         {
                 "id": "agree",
@@ -8292,6 +8390,96 @@ const WORDS = [
                 "era": "Unknown Era"
         },
         {
+                "id": "babel",
+                "word": "Babel",
+                "part_of_speech": "noun",
+                "meaning": "喧騒、混乱した音、バベルの塔",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "Bābilu",
+                                        "type": "root",
+                                        "meaning": "gate of God"
+                                }
+                        ],
+                        "original_statement": "From Hebrew Bābel, from Akkadian Bāb-ilu 'gate of God'. Later associated with Hebrew bālal 'to confuse'."
+                },
+                "core_concept": {
+                        "en": "Confusion of voices",
+                        "ja": "神の門に届こうとした傲慢さが、言葉を「かき乱され（confuse）」、理解不能な「雑音」へと化した姿"
+                },
+                "thinking_layer": "単なる騒音ではなく、知性がバラバラに砕け散った後の不協和音です。かつて一つだった意思が、互いに通じ合えない無数の破片となり、空虚に響き合う。天を突く塔の崩壊と、精神の断絶が同居した、寂しい喧騒を指します。",
+                "synonyms": [
+                        "clamor",
+                        "bedlam",
+                        "turmoil"
+                ],
+                "antonyms": [
+                        "harmony",
+                        "silence",
+                        "concord"
+                ],
+                "aftertaste": "誰もが叫んでいるのに、誰の言葉も心に届かない、透明な壁の感触",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "bālal",
+                                        "meaning": "to mingle / confuse"
+                                }
+                        ],
+                        "points": [
+                                "babble（赤ちゃんが片言で話す）という言葉の響きとも重なり、意味を成さない音の連なりを象徴します。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "Ancient Hebrew / Akkadian"
+        },
+        {
+                "id": "bacchanal",
+                "word": "Bacchanal",
+                "part_of_speech": "noun/adjective",
+                "meaning": "どんちゃん騒ぎ、酒宴、狂乱した",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "Bacchus",
+                                        "type": "root",
+                                        "meaning": "God of Wine"
+                                }
+                        ],
+                        "original_statement": "From Latin Bacchanalis, from Bacchus, the Roman god of wine and revelry."
+                },
+                "core_concept": {
+                        "en": "Drunken revelry",
+                        "ja": "酒の神「バッカス（Bacchus）」の魔法にかかり、理性の箍（たが）を外して「野生」へと回帰する宴"
+                },
+                "thinking_layer": "洗練されたパーティーではなく、血と酒と土の匂いがする狂乱です。社会的な自分を脱ぎ捨て、神がかり的な忘我（エクスタシー）に身を委ねること. 秩序への反逆としての、生命力に満ちた（そして破壊的な）爆発を指します。",
+                "synonyms": [
+                        "orgiastic",
+                        "revel",
+                        "carousal"
+                ],
+                "antonyms": [
+                        "abstinence",
+                        "sobriety",
+                        "austerity"
+                ],
+                "aftertaste": "こぼれた赤ワインと、夜明けの冷たい風に混じる汗の残り香",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "Bakhos",
+                                        "meaning": "shout"
+                                }
+                        ],
+                        "points": [
+                                "ギリシャ語の「叫び」に由来するという説も. 静寂を破る狂喜の叫びそのものです。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "16th Century Latin"
+        },
+        {
                 "id": "baffle",
                 "word": "Baffle",
                 "part_of_speech": "verb",
@@ -8384,6 +8572,56 @@ const WORDS = [
                 "era": "Middle English, Old Norse origin"
         },
         {
+                "id": "baleful",
+                "word": "Baleful",
+                "part_of_speech": "adjective",
+                "meaning": "災いに満ちた、悪意のある、破滅的な",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "bealu",
+                                        "type": "root",
+                                        "meaning": "evil / injury / ruin"
+                                },
+                                {
+                                        "text": "-ful",
+                                        "type": "suffix",
+                                        "meaning": "full of"
+                                }
+                        ],
+                        "original_statement": "From Old English bealu 'evil, bale' + -ful."
+                },
+                "core_concept": {
+                        "en": "Full of evil",
+                        "ja": "「破滅（ruin）」の予感に満ち、見つめるだけで対象を枯らすような「毒のある」眼差し"
+                },
+                "thinking_layer": "直接的な暴力よりも、じわじわと蝕む呪いのような力です。不吉なカラスの羽音や、冷酷な復讐者の沈黙. それは、運命が悪い方へ転がり出す瞬間の、重苦しく暗い「影」そのものを纏っています。",
+                "synonyms": [
+                        "sinister",
+                        "menacing",
+                        "malignant"
+                ],
+                "antonyms": [
+                        "beneficial",
+                        "auspicious",
+                        "benign"
+                ],
+                "aftertaste": "背筋を這い上がる冷気と、逃げられない凶事の確信",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "bhal-",
+                                        "meaning": "to strike / misfortune"
+                                }
+                        ],
+                        "points": [
+                                "baleは「苦痛」や「災難」を意味する古語. 心に重い荷物を載せるような重圧感です。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "Old English"
+        },
+        {
                 "id": "bamboozle",
                 "word": "Bamboozle",
                 "part_of_speech": "verb",
@@ -8428,6 +8666,51 @@ const WORDS = [
                 "source": "Oxford English Dictionary",
                 "date": "2026-03-01",
                 "era": "Late 17th Century"
+        },
+        {
+                "id": "banal",
+                "word": "Banal",
+                "part_of_speech": "adjective",
+                "meaning": "平凡な、陳腐な、ありふれた",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "ban",
+                                        "type": "root",
+                                        "meaning": "proclamation / summons"
+                                }
+                        ],
+                        "original_statement": "From Old French banal 'open to everyone', from ban 'decree'."
+                },
+                "core_concept": {
+                        "en": "Common to all",
+                        "ja": "領主の「命令（ban）」で領民全員が使う「共同の（common）」設備のように、独自性を失った姿"
+                },
+                "thinking_layer": "もとは「誰もが使える（パン焼き場など）」という法的な言葉でした. そこから「どこにでもある」「新鮮味がない」という意味へ. 特別な輝きを失い、消費され尽くした、砂のような退屈さを指します。",
+                "synonyms": [
+                        "trite",
+                        "commonplace",
+                        "hackneyed"
+                ],
+                "antonyms": [
+                        "original",
+                        "unique",
+                        "extraordinary"
+                ],
+                "aftertaste": "昨日も今日も変わらない、乾いたトーストのような無味乾燥",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "bha-",
+                                        "meaning": "to speak"
+                                }
+                        ],
+                        "points": [
+                                "abandon（見捨てる）と同じ「ban」を核に持ちます. 個性が社会の中に埋没する悲哀です。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "18th Century French"
         },
         {
                 "id": "bank",
@@ -8476,6 +8759,51 @@ const WORDS = [
                 "era": "Middle Ages, 14th Century"
         },
         {
+                "id": "barbarous",
+                "word": "Barbarous",
+                "part_of_speech": "adjective",
+                "meaning": "野蛮な、残忍な、未開の",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "barbaros",
+                                        "type": "root",
+                                        "meaning": "foreign / strange-speaking"
+                                }
+                        ],
+                        "original_statement": "From Greek barbaros, imitative of the unintelligible speech of foreigners ('bar-bar')."
+                },
+                "core_concept": {
+                        "en": "Foreign / stammering",
+                        "ja": "言葉が通じない者を「バーバー（bar-bar）」と鳴く獣のように見なし、その「異質さ」を排除する"
+                },
+                "thinking_layer": "文明側が引いた境界線の外側です. 最初は「外国の」というだけの意味でしたが、自分たちのルールに従わない者を「残酷で未開」と断じる傲慢さが加わりました. 洗練を拒む、生々しく荒々しい暴力性を指します。",
+                "synonyms": [
+                        "savage",
+                        "uncivilized",
+                        "brutal"
+                ],
+                "antonyms": [
+                        "civilized",
+                        "refined",
+                        "humane"
+                ],
+                "aftertaste": "剥き出しの牙と、理解を拒む荒野の沈黙",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "bar-bar",
+                                        "meaning": "echoic of babble"
+                                }
+                        ],
+                        "points": [
+                                "オノマトペから生まれた言葉. 自分たちと異なるものを「音」で差別した歴史の痕跡です。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "Ancient Greek"
+        },
+        {
                 "id": "barbecue",
                 "word": "Barbecue",
                 "author": "etymon_official",
@@ -8522,6 +8850,146 @@ const WORDS = [
                 "era": "17th Century"
         },
         {
+                "id": "baroque",
+                "word": "Baroque",
+                "part_of_speech": "adjective",
+                "meaning": "バロック様式の、過度に装飾的な、歪んだ",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "barroco",
+                                        "type": "root",
+                                        "meaning": "irregularly shaped pearl"
+                                }
+                        ],
+                        "original_statement": "From Portuguese barroco 'irregularly shaped pearl'."
+                },
+                "core_concept": {
+                        "en": "An irregular pearl",
+                        "ja": "真円になれなかった「歪んだ真珠（pearl）」のように、不規則で過剰な美しさ"
+                },
+                "thinking_layer": "均整の取れたルネサンスへの反動. 過剰な装飾、劇的な明暗、そして「動き」への執着. それは、溢れ出しそうな生命エネルギーが、歪みを伴いながらも豪華絢爛に結晶化した、めくるめく迷宮のような美学です。",
+                "synonyms": [
+                        "ornate",
+                        "elaborate",
+                        "flamboyant"
+                ],
+                "antonyms": [
+                        "simple",
+                        "plain",
+                        "minimalist"
+                ],
+                "aftertaste": "金箔の重なりと、どこへ続くか分からない螺旋の眩暈",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "barrueco",
+                                        "meaning": "granite rock"
+                                }
+                        ],
+                        "points": [
+                                "もとは宝石商が「欠陥品」を指した言葉が、後に一つの壮大な芸術様式を指す誇り高い名となりました。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "18th Century Portuguese / French"
+        },
+        {
+                "id": "barrage",
+                "word": "Barrage",
+                "part_of_speech": "noun/verb",
+                "meaning": "弾幕、集中攻撃、堰（せき）",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "barrer",
+                                        "type": "root",
+                                        "meaning": "to bar / to stop"
+                                }
+                        ],
+                        "original_statement": "From French barrage 'dam', from barrer 'to bar'."
+                },
+                "core_concept": {
+                        "en": "A barrier / dam",
+                        "ja": "行く手を阻む「堰（bar）」のように、言葉や弾丸を隙間なく「敷き詰める」"
+                },
+                "thinking_layer": "一撃ではなく、壁のような「連続性」です. 川の水をせき止めるダムのように、相手の思考や行動を圧倒的な物量で封じ込めること. 質問の弾幕、あるいは砲火. 逃げ場を奪うための、圧倒的な圧力の壁です。",
+                "synonyms": [
+                        "onslaught",
+                        "fusillade",
+                        "volleys"
+                ],
+                "antonyms": [
+                        "trickle",
+                        "drip",
+                        "opening"
+                ],
+                "aftertaste": "息つく暇もない衝撃と、逃げ場を失った感覚の麻痺",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "barra",
+                                        "meaning": "bar / rod"
+                                }
+                        ],
+                        "points": [
+                                "barrier（障壁）やbarricade（バリケード）の兄弟. 通さないための意志の固まりです。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "19th Century French"
+        },
+        {
+                "id": "bashful",
+                "word": "Bashful",
+                "part_of_speech": "adjective",
+                "meaning": "恥ずかしがりの、内気な",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "abash",
+                                        "type": "root",
+                                        "meaning": "to confuse / to astonish"
+                                },
+                                {
+                                        "text": "-ful",
+                                        "type": "suffix",
+                                        "meaning": "full of"
+                                }
+                        ],
+                        "original_statement": "From Middle English abash 'lose one's composure' + -ful."
+                },
+                "core_concept": {
+                        "en": "Full of confusion",
+                        "ja": "他者の視線に「驚き（abash）」、自分自身のあり方に「困惑」して身を縮める"
+                },
+                "thinking_layer": "ただの恥ずかしがりではなく、自意識が震えている状態です. 世界に自分を晒すことに耐えられず、透明な殻にこもろうとする繊細な自己防衛. その静かな振る舞いの裏には、他者の評価という巨大な重圧が潜んでいます。",
+                "synonyms": [
+                        "shy",
+                        "diffident",
+                        "timid"
+                ],
+                "antonyms": [
+                        "bold",
+                        "confident",
+                        "brazen"
+                ],
+                "aftertaste": "赤くなった頬と、足元ばかりを見つめる視線の彷徨",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "esbaïr",
+                                        "meaning": "to be amazed / open-mouthed"
+                                }
+                        ],
+                        "points": [
+                                "abashはもともと「口をあんぐりと開けて驚く」こと. あまりの衝撃に言葉を失う、無垢な姿です。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "14th Century Middle English"
+        },
+        {
                 "id": "bathos",
                 "word": "Bathos",
                 "author": "etymon_official",
@@ -8566,6 +9034,51 @@ const WORDS = [
                 "part_of_speech": "noun",
                 "meaning": "期待外れな状況",
                 "era": "18th Century"
+        },
+        {
+                "id": "beacon",
+                "word": "Beacon",
+                "part_of_speech": "noun",
+                "meaning": "灯台、かがり火、希望の光",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "beacen",
+                                        "type": "root",
+                                        "meaning": "sign / signal"
+                                }
+                        ],
+                        "original_statement": "From Old English beacen 'sign, token, signal'."
+                },
+                "core_concept": {
+                        "en": "A signal",
+                        "ja": "暗闇を切り裂く「合図（sign）」を送り、迷える者を導く「不動の光」"
+                },
+                "thinking_layer": "ただ明るいだけではなく、「意味」を持った光です. 危険を知らせ、あるいは帰るべき場所を示す. それは孤独な旅人にとっての「確かな道標」であり、絶望の淵で見出した、意志を持った救済の輝きです。",
+                "synonyms": [
+                        "signal",
+                        "lighthouse",
+                        "inspiration"
+                ],
+                "antonyms": [
+                        "darkness",
+                        "shadow",
+                        "distraction"
+                ],
+                "aftertaste": "波音の向こうに見える一点の瞬きと、吸い寄せられる魂の安堵",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "bha-",
+                                        "meaning": "to shine"
+                                }
+                        ],
+                        "points": [
+                                "beckon（手招きする）と同語源. 光によって人を「呼ぶ」力が宿っています。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "Old English"
         },
         {
                 "id": "bedlam",
@@ -8773,53 +9286,251 @@ const WORDS = [
                 "id": "beguile",
                 "word": "Beguile",
                 "part_of_speech": "verb",
-                "meaning": "惑わすこと、欺くこと",
-                "author": "etymon_official",
+                "meaning": "欺く、魅了する、楽しませて時間を忘れさせる",
                 "etymology": {
                         "breakdown": [
                                 {
                                         "text": "be-",
                                         "type": "prefix",
-                                        "meaning": "目的を強調する",
-                                        "lang": "Old English"
+                                        "meaning": "thoroughly"
                                 },
                                 {
                                         "text": "guile",
                                         "type": "root",
-                                        "meaning": "欺き",
-                                        "lang": "Old French"
+                                        "meaning": "deceit / trickery"
                                 }
                         ],
-                        "original_statement": "The word 'beguile' originates from Middle English 'beguile', meaning to deceive or to charm, influenced by Old French 'guile'."
+                        "original_statement": "From Middle English beguilen, from be- + guile 'deception'."
                 },
                 "core_concept": {
-                        "en": "A dance between deception and charm, artfully entwined.",
-                        "ja": "欺きと魅了の舞、巧みに交織されるもの。"
+                        "en": "To thoroughly trick",
+                        "ja": "巧みな「計略（guile）」で相手を包み込み、心地よい幻覚の中で「真実」を覆い隠す"
                 },
-                "thinking_layer": "「欺く」は単に相手を騙すという表面的な行為を超えて、その根底に潜む心理の微妙な動きを表す。まるで絵画における陰影のように、感情や状況を彩り、意識の奥で幽玄な風景と化していく。欺くことによって生じる関係性は、信頼と不信、真実と虚構の境界を曖昧にし、それ自体がまた新たな物語を紡ぐ。人間の本質は、その多層的な心理において、自己と他者との間にある見えない糸を手繰り寄せ、丁寧に編み込む。その意味で「惑わす」という行為は、究極の創造的行為であり、人生の複雑さを反映する究極の表現でもある。欺きつつ魅了するこの行為は、私たちが他者に投影するイメージを変化させ、そしてその過程で私たち自身の捉え方もまた変わっていく。結果として、欺くことがもたらす影響は、単なる一瞬の出来事を越えて、その後の出来事や関係性を静かに揺るがす、永続的な影を落とす。だからこそ、その行為は同時に警戒すべきであり、芸術的でもあるのだ。欺きの中に潜む繊細で複雑な美を理解することは、人間の心理を深く探る営みでもある。 ",
+                "thinking_layer": "邪悪な嘘というよりは、魔法に近い誘惑です. 美しい物語や甘い言葉で、相手を陶酔させ、騙されていることさえ喜びに変えてしまう. 時間を忘れさせる（beguile the time）ような、魅惑的で残酷な手品のような行為です。",
                 "synonyms": [
-                        "entice",
-                        "charm"
+                        "charm",
+                        "deceive",
+                        "enthrall"
                 ],
                 "antonyms": [
-                        "repulse",
-                        "disenchant"
+                        "enlighten",
+                        "repel",
+                        "disabuse"
                 ],
-                "aftertaste": "Beguile is where spellbinding charm meets the art of subtle deceit.",
+                "aftertaste": "解けない魔法にかかったような幸福感と、ふと気づいた時の空虚",
                 "deep_dive": {
                         "roots": [
                                 {
-                                        "term": "guile",
-                                        "meaning": "deceit"
+                                        "term": "wig-",
+                                        "meaning": "sorcery / wile"
                                 }
                         ],
                         "points": [
-                                "「beguile」という語は、その古英語の接頭辞「be-」と古フランス語の「guile」に由来し、目的を強化しつつ欺きの意味を持つ。"
+                                "wile（策を弄する）やwitchと同じ、呪術的な「惑わし」の系譜です。"
                         ]
                 },
-                "source": "Oxford English Dictionary",
-                "date": "2026-02-28",
-                "era": "Middle English, influenced by Old French"
+                "source": "etymon Philologist Mode",
+                "era": "13th Century Middle English"
+        },
+        {
+                "id": "behold",
+                "word": "Behold",
+                "part_of_speech": "verb",
+                "meaning": "見守る、注視する、見よ！",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "be-",
+                                        "type": "prefix",
+                                        "meaning": "thoroughly"
+                                },
+                                {
+                                        "text": "healdan",
+                                        "type": "root",
+                                        "meaning": "to hold / keep"
+                                }
+                        ],
+                        "original_statement": "From Old English behealdan 'thoroughly hold', from be- + healdan 'hold'."
+                },
+                "core_concept": {
+                        "en": "To hold in view",
+                        "ja": "対象を視界の中に「しっかり（thoroughly）」と「保持（hold）」し、一瞬も離さず捉え続ける"
+                },
+                "thinking_layer": "単に「見る（see）」のではなく、その存在の重みを自分の瞳で受け止めるような、儀式的な注視です. 風景や真実を、逃さぬように心に「留め置く（hold）」。聖書や詩的な場面で、畏怖を伴う驚きの対象を指す言葉です。",
+                "synonyms": [
+                        "observe",
+                        "witness",
+                        "contemplate"
+                ],
+                "antonyms": [
+                        "ignore",
+                        "overlook",
+                        "disregard"
+                ],
+                "aftertaste": "瞬きを忘れ、世界が網膜に焼き付く静寂の瞬間",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "kel-",
+                                        "meaning": "to drive / tend"
+                                }
+                        ],
+                        "points": [
+                                "hold（保つ）と同じ. 羊飼いが群れを「見守り、管理する」ような責任ある視線が根底にあります。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "Old English"
+        },
+        {
+                "id": "belated",
+                "word": "Belated",
+                "part_of_speech": "adjective",
+                "meaning": "遅れた、手遅れの",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "be-",
+                                        "type": "prefix",
+                                        "meaning": "made / caused to be"
+                                },
+                                {
+                                        "text": "late",
+                                        "type": "root",
+                                        "meaning": "after the proper time"
+                                }
+                        ],
+                        "original_statement": "From be- + late + -ed. Originally meaning 'overtaken by night'."
+                },
+                "core_concept": {
+                        "en": "Overtaken by lateness",
+                        "ja": "本来の時間を追い越され、気づけば「夜（night）」の闇に包まれてしまった姿"
+                },
+                "thinking_layer": "かつては「旅の途中で夜になってしまった（夜に遅らされた）」という、少し心細い情景を指しました. 今は、祝辞や行動が「旬」を逃してしまった、少し申し訳ない、あるいは虚しい「手遅れ感」を纏っています。",
+                "synonyms": [
+                        "delayed",
+                        "tardy",
+                        "overdue"
+                ],
+                "antonyms": [
+                        "early",
+                        "punctual",
+                        "timely"
+                ],
+                "aftertaste": "誰もいない会場に届いた、一通の祝電の虚しさ",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "lad-",
+                                        "meaning": "slow / weary"
+                                }
+                        ],
+                        "points": [
+                                "late（遅い）の語源は「疲れ果てた（weary）」。動きが鈍くなった果ての遅延です。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "16th Century English"
+        },
+        {
+                "id": "beleaguer",
+                "word": "Beleaguer",
+                "part_of_speech": "verb",
+                "meaning": "包囲する、悩ませる、つきまとう",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "be-",
+                                        "type": "prefix",
+                                        "meaning": "around"
+                                },
+                                {
+                                        "text": "leger",
+                                        "type": "root",
+                                        "meaning": "camp / bed"
+                                }
+                        ],
+                        "original_statement": "From Dutch belegeren 'to camp around', from be- 'around' + leger 'a camp'."
+                },
+                "core_concept": {
+                        "en": "To camp around",
+                        "ja": "相手の城の周りに「陣（camp）」を敷き、逃げ道を塞いでじわじわと「追い詰める」"
+                },
+                "thinking_layer": "物理的な包囲戦の戦術が、精神的な「窮地」へと転じました. 借金、悩み、あるいは敵意に四方を囲まれ、息が詰まるような感覚. 相手が根負けするまで、しつこく周りを取り囲み続ける、冷徹な忍耐を指します。",
+                "synonyms": [
+                        "besiege",
+                        "harass",
+                        "plague"
+                ],
+                "antonyms": [
+                        "liberate",
+                        "relieve",
+                        "support"
+                ],
+                "aftertaste": "四方の壁が少しずつ迫ってくるような、出口のない圧迫感",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "legh-",
+                                        "meaning": "to lie"
+                                }
+                        ],
+                        "points": [
+                                "lair（獣の穴）やlie（横たわる）と同じ. じっと腰を据えて動かない陣地を指します。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "16th Century Dutch"
+        },
+        {
+                "id": "belie",
+                "word": "Belie",
+                "part_of_speech": "verb",
+                "meaning": "誤って伝える、裏切る、偽りを示す",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "be-",
+                                        "type": "prefix",
+                                        "meaning": "thoroughly"
+                                },
+                                {
+                                        "text": "leogan",
+                                        "type": "root",
+                                        "meaning": "to lie / deceive"
+                                }
+                        ],
+                        "original_statement": "From Old English beleogan 'to deceive', from be- + leogan 'to lie'."
+                },
+                "core_concept": {
+                        "en": "To give a false impression",
+                        "ja": "真実を隠す「嘘（lie）」を纏い、外見と内実の「不一致」を露呈させる"
+                },
+                "thinking_layer": "「彼の笑顔は悲しみを belied していた（裏切っていた）」のように、外側の記号が内側の真実を隠蔽している状態. 期待を裏切るような、あるいは正体を偽るような、ねじれた矛盾の力学です。",
+                "synonyms": [
+                        "contradict",
+                        "disguise",
+                        "misrepresent"
+                ],
+                "antonyms": [
+                        "reveal",
+                        "verify",
+                        "attest"
+                ],
+                "aftertaste": "美しい仮面の裏側に見え隠れする、真実の歪んだ影",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "leugh-",
+                                        "meaning": "to tell a lie"
+                                }
+                        ],
+                        "points": [
+                                "単なる嘘よりも「矛盾によって何かを打ち消す」という強い否定的な作用を伴います。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "Old English"
         },
         {
                 "id": "believe",
@@ -8870,61 +9581,254 @@ const WORDS = [
                 "era": "Proto-Germanic"
         },
         {
-                "id": "benevolent",
-                "word": "Benevolent",
-                "part_of_speech": "adjective",
-                "meaning": "慈悲深い、善意のある",
-                "author": "etymon_official",
+                "id": "belligerent",
+                "word": "Belligerent",
+                "part_of_speech": "adjective/noun",
+                "meaning": "好戦的な、交戦中の",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "bellum",
+                                        "type": "root",
+                                        "meaning": "war"
+                                },
+                                {
+                                        "text": "gerere",
+                                        "type": "root",
+                                        "meaning": "to wage / carry"
+                                }
+                        ],
+                        "original_statement": "From Latin belligerantem, from bellum 'war' + gerere 'to wage, carry on'."
+                },
+                "core_concept": {
+                        "en": "Waging war",
+                        "ja": "常に「戦争（war）」をその身に「携え（carry）」、衝突を辞さない攻撃的な構え"
+                },
+                "thinking_layer": "話し合いではなく、力による解決を望んでいる状態です. 肩を怒らせ、拳を握りしめているような、一触即発のエネルギー. 言葉が鋭い刃に変わり、相手を敵対者としてしか見られない、閉ざされた攻撃性です。",
+                "synonyms": [
+                        "aggressive",
+                        "hostile",
+                        "combative"
+                ],
+                "antonyms": [
+                        "peaceable",
+                        "amicable",
+                        "pacific"
+                ],
+                "aftertaste": "剥き出しの敵意が放つ、火薬のような焦げ臭い沈黙",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "duellum",
+                                        "meaning": "war"
+                                }
+                        ],
+                        "points": [
+                                "bellum（戦争）はもとは「二人による戦い（duel）」を意味しました. 対立の本質です。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "16th Century Latin"
+        },
+        {
+                "id": "benediction",
+                "word": "Benediction",
+                "part_of_speech": "noun",
+                "meaning": "祝福、恵み、祈祷",
                 "etymology": {
                         "breakdown": [
                                 {
                                         "text": "bene-",
                                         "type": "prefix",
-                                        "meaning": "良い",
-                                        "lang": "Latin"
+                                        "meaning": "well / good"
                                 },
                                 {
-                                        "text": "volent-",
+                                        "text": "dictio",
                                         "type": "root",
-                                        "meaning": "意志のある、願う",
-                                        "lang": "Latin"
+                                        "meaning": "speaking"
                                 }
                         ],
-                        "original_statement": "The word 'benevolent' originates from the Latin benevolentia, which denotes a disposition to do good."
+                        "original_statement": "From Latin benedictio, from bene- 'well' + dicere 'to speak'."
                 },
                 "core_concept": {
-                        "en": "A gentle flow of goodwill from the depths of one's heart.",
-                        "ja": "心の奥底から溢れ出る善意の優しい流れ"
+                        "en": "Good speaking",
+                        "ja": "対象に向かって「善き（well）」言葉を「語る（speak）」ことで、聖なる力を吹き込む"
                 },
-                "thinking_layer": "「善意」という概念は人間の意識の深層に根ざしており、一人ひとりの中に普遍的な光として輝いています。この言葉には、他者への無償の愛や心遣いの精髄が宿っており、それは時に見返りを求めずに行動する力の源です。人生の中で、私たちは常に選択を迫られる岐路に立たされます。そんな時、この「善意」の心は、内なる羅針盤となり、私たちを道徳的に正しい選択へと導いてくれるのです。「善意」が輝く時、それはまるで星々が闇夜を照らすが如く、心を暖かく照らします。そしてその温もりは、自由な意思によるものであり、他者の幸福を願う本質的な希望の表れでもあります。善に向かう行為は、社会を築き、絆を強固にし、さらには未来への灯火となるでしょう。それは、個の幸福を超越し、絶え間なく続く調和のメロディーを奏でるのです。「善意」とは、一つの行動、一つの思いが全体に波及する大いなる力であると同時に、個々が持つ宇宙的な神秘の一部です。",
+                "thinking_layer": "言葉には力があるという、古来の信仰が結晶化したものです. 単なる「おめでとう」ではなく、神聖な秩序からの承認. それは、冷たい世界に温かい言葉の傘を差し掛けるような、慈悲深い肯定の儀式です。",
                 "synonyms": [
-                        "Altruistic",
-                        "Generous"
+                        "blessing",
+                        "invocation",
+                        "approbation"
                 ],
                 "antonyms": [
-                        "Malevolent",
-                        "Selfish"
+                        "malediction",
+                        "curse",
+                        "anathema"
                 ],
-                "aftertaste": "The beauty of benevolence lies in its timeless, unselfish grace.",
+                "aftertaste": "降り注ぐ柔らかな光と、心が満たされていく静かな言葉の響き",
                 "deep_dive": {
                         "roots": [
                                 {
-                                        "term": "bene",
-                                        "meaning": "good, well"
-                                },
-                                {
-                                        "term": "volens",
-                                        "meaning": "wishing, willing"
+                                        "term": "deik-",
+                                        "meaning": "to show"
                                 }
                         ],
                         "points": [
-                                "「bene」はラテン語で「良い」を意味し、すべての善行の土台として機能します。",
-                                "「volent」はラテン語の「意志」や「願う」という意味から派生し、意図的な行動の力を示しています。"
+                                "malediction（呪い＝悪く言う）の完全な対極. 言葉の向きが運命を決めます。"
                         ]
                 },
-                "source": "Online Etymology Dictionary, Latin Dictionary by Lewis & Short",
-                "date": "2026-03-01",
-                "era": "Late Middle English, 14th Century"
+                "source": "etymon Philologist Mode",
+                "era": "15th Century Latin"
+        },
+        {
+                "id": "benevolent",
+                "word": "Benevolent",
+                "part_of_speech": "adjective",
+                "meaning": "慈悲深い、親切な、慈善的な",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "bene-",
+                                        "type": "prefix",
+                                        "meaning": "well"
+                                },
+                                {
+                                        "text": "velle",
+                                        "type": "root",
+                                        "meaning": "to wish"
+                                }
+                        ],
+                        "original_statement": "From Latin benevolentem, from bene- 'well' + velle 'to wish'."
+                },
+                "core_concept": {
+                        "en": "Well-wishing",
+                        "ja": "相手の幸福を「善かれ（well）」と心の底から「願う（wish）」、能動的な慈しみ"
+                },
+                "thinking_layer": "ただ「優しい（kind）」だけではありません. そこには強い「意志（will）」が介在しています. 他者のために何かをしたい、世界を良くしたいという、ポジティブなエネルギー. それは、計算のない、純粋な贈与の精神です。",
+                "synonyms": [
+                        "charitable",
+                        "philanthropic",
+                        "altruistic"
+                ],
+                "antonyms": [
+                        "malevolent",
+                        "spiteful",
+                        "miserly"
+                ],
+                "aftertaste": "見返りを求めない手のひらの温かさと、広がる波紋のような安らぎ",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "wel-",
+                                        "meaning": "to will / desire"
+                                }
+                        ],
+                        "points": [
+                                "voluntary（自発的な）やwill（意志）の仲間. 善を「選ぶ」心のありようを指します。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "15th Century Latin"
+        },
+        {
+                "id": "benign",
+                "word": "Benign",
+                "part_of_speech": "adjective",
+                "meaning": "（人・気候が）温和な、良性の、無害な",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "bene-",
+                                        "type": "prefix",
+                                        "meaning": "well"
+                                },
+                                {
+                                        "text": "genus",
+                                        "type": "root",
+                                        "meaning": "born / kin"
+                                }
+                        ],
+                        "original_statement": "From Old French benigne, from Latin benignus 'kind, generous', from bene- 'well' + gignere 'to beget'."
+                },
+                "core_concept": {
+                        "en": "Well-born / of good nature",
+                        "ja": "「良い血筋（well-born）」から生まれたように、根源的に「無害」で「穏やか」である"
+                },
+                "thinking_layer": "攻撃性が完全に欠落した状態です. 病気が「良性（benign）」なのも、それが生命を蝕まないから. 穏やかな春の陽射しのように、ただそこに存在するだけで周囲を傷つけず、安心感を与える、生まれ持った性質の良さを指します。",
+                "synonyms": [
+                        "harmless",
+                        "genial",
+                        "favorable"
+                ],
+                "antonyms": [
+                        "malignant",
+                        "harsh",
+                        "detrimental"
+                ],
+                "aftertaste": "波の立たない湖面のような平穏と、毒のない澄んだ空気",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "gen-",
+                                        "meaning": "to produce"
+                                }
+                        ],
+                        "points": [
+                                "gentle（優しい）と同じ根を持ちます. その存在の「根っこ（origin）」が善い、ということです。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "14th Century Latin"
+        },
+        {
+                "id": "bereave",
+                "word": "Bereave",
+                "part_of_speech": "verb",
+                "meaning": "（死によって）奪う、後に残す",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "be-",
+                                        "type": "prefix",
+                                        "meaning": "thoroughly"
+                                },
+                                {
+                                        "text": "reafian",
+                                        "type": "root",
+                                        "meaning": "to rob / plunder"
+                                }
+                        ],
+                        "original_statement": "From Old English bereafian 'to rob of, deprive', from be- + reafian 'to rob'."
+                },
+                "core_concept": {
+                        "en": "To rob thoroughly",
+                        "ja": "死という不可避の暴力によって、大切な存在を「根こそぎ（thoroughly）」、「強奪（rob）」される"
+                },
+                "thinking_layer": "単に「亡くす」よりも、強引に引き剥がされた「喪失の痛み」に焦点を当てた言葉です. そこにあったはずのものが、何者か（運命や死）によって略奪され、後に残された者の心に「空白」という傷跡を刻みつける. 哀しみよりも、欠落の衝撃が強い言葉です。",
+                "synonyms": [
+                        "deprive",
+                        "strip",
+                        "dispossess"
+                ],
+                "antonyms": [
+                        "provide",
+                        "restore",
+                        "give"
+                ],
+                "aftertaste": "昨日まであった手のひらの温もりが、突然凍りつくような喪失感",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "reup-",
+                                        "meaning": "to snatch / break"
+                                }
+                        ],
+                        "points": [
+                                "rob（奪う）やrupture（破裂）の仲間. 連続性が無理やり断ち切られることです。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "Old English"
         },
         {
                 "id": "berserk",
@@ -8971,6 +9875,160 @@ const WORDS = [
                 "part_of_speech": "adjective",
                 "meaning": "狂暴な",
                 "era": "Old Norse"
+        },
+        {
+                "id": "bespoke",
+                "word": "Bespoke",
+                "part_of_speech": "adjective",
+                "meaning": "注文仕立ての、あつらえの",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "be-",
+                                        "type": "prefix",
+                                        "meaning": "about"
+                                },
+                                {
+                                        "text": "sprecan",
+                                        "type": "root",
+                                        "meaning": "to speak"
+                                }
+                        ],
+                        "original_statement": "From the past participle of bespeak 'to speak for (something)'."
+                },
+                "core_concept": {
+                        "en": "Spoken for",
+                        "ja": "「これは私のものだ」と、誰かによって既に「語り（speak）」尽くされ、予約されている"
+                },
+                "thinking_layer": "既製品（ready-made）への対義語. 店主と客が「語り合い」ながら、その人だけの寸法、その人だけの好みを形にしていく贅沢. 完成する前から、その品物は特定の誰かとの「対話」によって定義されています. 魂が込められた一品です。",
+                "synonyms": [
+                        "custom-made",
+                        "tailored",
+                        "personalized"
+                ],
+                "antonyms": [
+                        "mass-produced",
+                        "ready-made",
+                        "standardized"
+                ],
+                "aftertaste": "肌にしっくりと馴染む感触と、自分だけを理解してくれる対話の余韻",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "sprecan",
+                                        "meaning": "to speak"
+                                }
+                        ],
+                        "points": [
+                                "speak（話す）が核. かつては注文する際に「これは予約済みだ」と口頭で宣言したことに由来します。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "18th Century English"
+        },
+        {
+                "id": "bestow",
+                "word": "Bestow",
+                "part_of_speech": "verb",
+                "meaning": "授ける、贈る、安置する",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "be-",
+                                        "type": "prefix",
+                                        "meaning": "thoroughly / around"
+                                },
+                                {
+                                        "text": "stow",
+                                        "type": "root",
+                                        "meaning": "place"
+                                }
+                        ],
+                        "original_statement": "From Middle English bestowen, from be- + stowen 'to place'."
+                },
+                "core_concept": {
+                        "en": "To place thoroughly",
+                        "ja": "価値あるものを、しかるべき「場所（place）」に「しっかりと（thoroughly）」据え置く"
+                },
+                "thinking_layer": "単に「あげる（give）」のではなく、上位の存在が下位の存在へ、あるいは公的な立場で「配置」するような厳かな贈与です. 勲章を授けるように、その物が持つべき「居場所」を確定させる重々しい美学が宿っています。",
+                "synonyms": [
+                        "confer",
+                        "grant",
+                        "present"
+                ],
+                "antonyms": [
+                        "withdraw",
+                        "deprive",
+                        "withhold"
+                ],
+                "aftertaste": "重みのあるメダルが胸に触れる冷たさと、認められた誇り",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "stau-",
+                                        "meaning": "fixed / standing"
+                                }
+                        ],
+                        "points": [
+                                "stowaway（密航者＝隠し場所にいる人）と同じ. 動かさない「定位置」を決めます。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "14th Century Middle English"
+        },
+        {
+                "id": "betray",
+                "word": "Betray",
+                "part_of_speech": "verb",
+                "meaning": "裏切る、漏らす、露呈させる",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "be-",
+                                        "type": "prefix",
+                                        "meaning": "thoroughly"
+                                },
+                                {
+                                        "text": "tradere",
+                                        "type": "root",
+                                        "meaning": "to hand over"
+                                }
+                        ],
+                        "original_statement": "From be- + Middle English trayen 'to betray', from Latin tradere 'hand over'."
+                },
+                "core_concept": {
+                        "en": "To hand over thoroughly",
+                        "ja": "信じていたものを、敵の手に「引き渡し（hand over）」、「徹底的に（thoroughly）」突き放す"
+                },
+                "thinking_layer": "密約や信頼という目に見えない糸を、自らの手で断ち切り、相手を奈落へ突き落とす行為です. また、意図せず本音が「漏れる（betray one's feelings）」のも、内側の真実が外側へ「引き渡されてしまった」という無防備な敗北を意味します。",
+                "synonyms": [
+                        "deceive",
+                        "forsake",
+                        "reveal"
+                ],
+                "antonyms": [
+                        "protect",
+                        "support",
+                        "defend"
+                ],
+                "aftertaste": "背中に刺さった冷たい刃の感触と、崩れ落ちる世界の信頼",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "trans-",
+                                        "meaning": "across"
+                                },
+                                {
+                                        "term": "dare",
+                                        "meaning": "to give"
+                                }
+                        ],
+                        "points": [
+                                "tradition（伝統＝引き継ぐもの）と同じ語源. 守るか売るかの違いです。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "13th Century Middle English / Latin"
         },
         {
                 "id": "beverage",
@@ -9028,53 +10086,139 @@ const WORDS = [
                 "id": "bewilder",
                 "word": "Bewilder",
                 "part_of_speech": "verb",
-                "meaning": "混乱させる、迷わせる",
-                "author": "etymon_official",
+                "meaning": "当惑させる、途方に暮れさせる",
                 "etymology": {
                         "breakdown": [
                                 {
                                         "text": "be-",
                                         "type": "prefix",
-                                        "meaning": "～にする",
-                                        "lang": "Old English"
+                                        "meaning": "thoroughly"
                                 },
                                 {
                                         "text": "wilder",
                                         "type": "root",
-                                        "meaning": "迷う",
-                                        "lang": "Middle English"
+                                        "meaning": "wilderness"
                                 }
                         ],
-                        "original_statement": "The word 'bewilder' originates from the prefix 'be-' meaning 'to affect completely,' paired with the Middle English 'wilder', from Old English 'wild', reflecting the sense of losing oneself in the wild."
+                        "original_statement": "From be- 'thoroughly' + wildern 'wilderness'."
                 },
                 "core_concept": {
-                        "en": "Lost in a labyrinth of emotions and thoughts.",
-                        "ja": "感情と思考の迷宮に迷うこと。"
+                        "en": "To lead into the wild",
+                        "ja": "道のない「荒野（wild）」の真ん中に放り出され、方位磁針を失ったような「徹底的な困惑」"
                 },
-                "thinking_layer": "『迷う』という言葉は、単なる行動や思考の喪失ではない。それは心の奥深くで起こる共鳴のことだ。人生という広大な森の中で、自らの存在意義や進むべき方向を見失い、無限に広がる選択肢と可能性に囲まれたとき、人は『迷う』のである。しかし、この迷いは決して否定的なものであるとは限らない。混乱の中でこそ、人は自分自身の本質を見つける場合がある。茫然と立ち尽くすことで、普段は聞き逃す囁き声を聞くことができる。それは、無意識が知覚する真実の声。迷いの中で、新たな気づきや創造性が芽生え、これまでになかった視点や解決策が浮かび上がるのだ。こうして『迷う』ことは思索の海を旅することであり、最終的には自己発見の旅へと誘う行為である。無限の可能性の中に埋もれた宝を探し出すのが、我々の果たすべき使命なのかもしれない。この視点に立てば、迷うことは新たな世界を開く扉になるのだろう。",
+                "thinking_layer": "単なる驚きではありません. 慣れ親しんだ秩序が消え、野生の混沌に飲み込まれた状態です. 情報過多や予期せぬ事態によって、思考が「迷子」になり、どの方向へ進めばいいのか全く見当がつかない、霧の中の彷徨です。",
                 "synonyms": [
-                        "Confuse",
-                        "Perplex"
+                        "perplex",
+                        "confuse",
+                        "baffle"
                 ],
                 "antonyms": [
-                        "Clarify",
-                        "Illuminate"
+                        "enlighten",
+                        "clarify",
+                        "orient"
                 ],
-                "aftertaste": "In the dance of confusion, one finds clarity.",
+                "aftertaste": "どこを見ても同じ景色に見える、足元の覚束ない不安",
                 "deep_dive": {
                         "roots": [
                                 {
                                         "term": "wild",
-                                        "meaning": "to be lost or untamed"
+                                        "meaning": "untamed"
                                 }
                         ],
                         "points": [
-                                "『Bewilder』は、感情や思考の原野で道を見失うことによって自己探求の旅路を切り開く語である。"
+                                "wilderness（荒野）が動詞化したもの. 心の中に「獣の住む森」が出現することです。"
                         ]
                 },
-                "source": "Online Etymology Dictionary and Oxford English Dictionary",
-                "date": "2026-03-01",
-                "era": "17th Century"
+                "source": "etymon Philologist Mode",
+                "era": "17th Century English"
+        },
+        {
+                "id": "bias",
+                "word": "Bias",
+                "part_of_speech": "noun/verb",
+                "meaning": "偏見、傾向、斜めの線",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "epikarsios",
+                                        "type": "root",
+                                        "meaning": "athwart / diagonal"
+                                }
+                        ],
+                        "original_statement": "From Old French biais 'slant, slope', possibly from Greek epikarsios 'crosswise'."
+                },
+                "core_concept": {
+                        "en": "A slant",
+                        "ja": "まっすぐな中心線を嫌い、どちらか一方へと「斜め（slant）」に傾斜している"
+                },
+                "thinking_layer": "もとは裁縫で布を「斜め」に切ることを指しました. 転じて、思考の天秤が最初から一方に傾いている「偏り」へ. 中立という垂直線を失い、見たいものだけを見るように重力が歪んでしまった、知性の「癖」を指します。",
+                "synonyms": [
+                        "prejudice",
+                        "inclination",
+                        "slant"
+                ],
+                "antonyms": [
+                        "impartiality",
+                        "objectivity",
+                        "fairness"
+                ],
+                "aftertaste": "どうしても右へ曲がってしまう自転車のような、もどかしい思考の癖",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "biais",
+                                        "meaning": "sideways"
+                                }
+                        ],
+                        "points": [
+                                "ボウル（球）の重心が片寄っている「ローンボウルズ」という競技から一般化した説もあります。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "16th Century Old French"
+        },
+        {
+                "id": "biblio-",
+                "word": "Biblio-",
+                "part_of_speech": "prefix",
+                "meaning": "本の、聖書の",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "biblion",
+                                        "type": "root",
+                                        "meaning": "paper / scroll / book"
+                                }
+                        ],
+                        "original_statement": "From Greek biblion 'paper, scroll', after the Phoenician port Byblos, where papyrus was exported."
+                },
+                "core_concept": {
+                        "en": "Of books",
+                        "ja": "かつてパピルスが積み出された港「ビブロス（Byblos）」の名を冠した、知恵を綴じる「書物」"
+                },
+                "thinking_layer": "知識が静止し、保存された空間を指します. Bible（聖書）は「唯一の本」であり、Bibliography（書誌）は「本の記録」。重たい羊皮紙の匂いと、インクが紙に沈み込むような、歴史の重積を感じさせる接頭辞です。",
+                "synonyms": [
+                        "bookish",
+                        "literary"
+                ],
+                "antonyms": [
+                        "illiterate",
+                        "oral"
+                ],
+                "aftertaste": "古い書庫の反映っぽい静寂と、ページを捲る指先の乾いた音",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "bublos",
+                                        "meaning": "Egyptian papyrus"
+                                }
+                        ],
+                        "points": [
+                                "特定の港の名前が、人類すべての「本」を象徴する言葉になった、地理的な旅の結晶です。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "Ancient Greek"
         },
         {
                 "id": "bikini",
@@ -9240,47 +10384,96 @@ const WORDS = [
                 "id": "bizarre",
                 "word": "Bizarre",
                 "part_of_speech": "adjective",
-                "meaning": "奇異な、異様な",
-                "author": "etymon_official",
+                "meaning": "奇妙な、風変わりな、奇怪な",
                 "etymology": {
                         "breakdown": [
                                 {
-                                        "text": "bizzarro",
+                                        "text": "bizarro",
                                         "type": "root",
-                                        "meaning": "奇妙な",
-                                        "lang": "Italian"
+                                        "meaning": "brave / handsome / angry"
                                 }
                         ],
-                        "original_statement": "Derived from Italian 'bizzarro' meaning 'angry' or 'fierce', which later evolved in French to signify the unusual or strange."
+                        "original_statement": "From French bizarre, from Spanish bizarro 'handsome, brave', possibly from Basque bizar 'beard'."
                 },
                 "core_concept": {
-                        "en": "The elegant dance of the extraordinary.",
-                        "ja": "非凡の優美な踊り"
+                        "en": "Strange / unusual",
+                        "ja": "あまりに勇猛で「立派な髭（beard）」を蓄えた者の異質さが、いつしか「奇妙」なものとして映る"
                 },
-                "thinking_layer": "奇妙さとは、私たちの日常を一瞬にして異次元へと押し上げる扉のようなものである。異様の本質は、秩序と混沌の狭間で揺らぐその曖昧さにある。通常とは異なる風景が広がるとき、我々は時間と空間の流れを改めて問うことを余儀なくされる。そこに存在するのは、既知への疑念、未知への期待、そして恐怖と好奇心が交差する場所だ。奇妙なものに出会うとは、自らの思考と感性を再定義する作業である。その瞬間、世界は固定された形を失い、流動的で多元的な舞台へと変貌する。無限の可能性が潜むその空間において、我々は人間の存在意義や感性の幅広さを再確認する。このように、奇妙さとは生の神秘的な側面を解き明かす鍵であり、同時に人間の本質を際立たせる鏡でもある。",
+                "thinking_layer": "もとはスペイン語で「勇敢な、男らしい」という意味でした. それがフランス語に入り、その「過剰な男らしさ」が、洗練を好む人々にとって「理解不能で変なもの」に変化したという、皮肉な変遷を辿った言葉です。",
                 "synonyms": [
+                        "weird",
                         "peculiar",
                         "eccentric"
                 ],
                 "antonyms": [
                         "normal",
-                        "ordinary"
+                        "ordinary",
+                        "conventional"
                 ],
-                "aftertaste": "To be bizarre is to be delightfully and daringly different.",
+                "aftertaste": "理解の範疇を超えた極彩色の模様を、呆然と見つめる感覚",
                 "deep_dive": {
                         "roots": [
                                 {
-                                        "term": "bizzarro",
-                                        "meaning": "angry, fierce"
+                                        "term": "bizar",
+                                        "meaning": "beard"
                                 }
                         ],
                         "points": [
-                                "「bizarre」の語源は、イタリア語の「bizzarro」に遡り、これが「怒っている」「剣呑な」という意味を持つことに起因する。この語彙は時間と共にフランス語に取り入れられ、意味が発展し、「異常」や「奇妙」という今日の意味へと変わっていった。"
+                                "バスク語の「髭」から「髭のある武人」へ. 常識を逸脱した強烈な個性を指します。"
                         ]
                 },
-                "source": "Oxford English Dictionary",
-                "date": "2026-03-01",
-                "era": "16th Century (Italian to French evolution)"
+                "source": "etymon Philologist Mode",
+                "era": "17th Century French / Spanish"
+        },
+        {
+                "id": "blasphemy",
+                "word": "Blasphemy",
+                "part_of_speech": "noun",
+                "meaning": "冒涜、不敬",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "blaptein",
+                                        "type": "root",
+                                        "meaning": "to injure / damage"
+                                },
+                                {
+                                        "text": "pheme",
+                                        "type": "root",
+                                        "meaning": "speaking"
+                                }
+                        ],
+                        "original_statement": "From Greek blasphemia 'a speaking ill', from blaptein 'to injure' + pheme 'utterance'."
+                },
+                "core_concept": {
+                        "en": "Injurious speaking",
+                        "ja": "「聖なるもの」に向かって、その威厳を「傷つける（injure）」ような「言葉（speaking）」を投げつける"
+                },
+                "thinking_layer": "目に見える暴力ではなく、言葉のナイフで神聖さを切り裂く行為. それは社会の底流にある「絶対的なタブー」への挑戦であり、秩序を根底から揺るがす不吉な囁きです。信じる者にとっては、魂への直接的な攻撃となります。",
+                "synonyms": [
+                        "profanity",
+                        "sacrilege",
+                        "irreverence"
+                ],
+                "antonyms": [
+                        "reverence",
+                        "veneration",
+                        "piety"
+                ],
+                "aftertaste": "静まり返った教会で、一人だけ冷たく嘲笑うような背徳感",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "bha-",
+                                        "meaning": "to speak"
+                                }
+                        ],
+                        "points": [
+                                "euphemism（婉曲語法＝良い言葉を言う）の兄弟でありながら、目的は正反対です。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "Ancient Greek"
         },
         {
                 "id": "bleach",
@@ -9375,6 +10568,96 @@ const WORDS = [
                 "era": "Middle English"
         },
         {
+                "id": "bliss",
+                "word": "Bliss",
+                "part_of_speech": "noun",
+                "meaning": "至福、無上の喜び",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "bliths",
+                                        "type": "root",
+                                        "meaning": "gentle / kind / glad"
+                                }
+                        ],
+                        "original_statement": "From Old English bliss, bliths 'happiness, joy', from blithe 'gentle, cheerful'."
+                },
+                "core_concept": {
+                        "en": "Ignorant joy / kindness",
+                        "ja": "何もかもが「穏やか（gentle）」に満たされ、ただその光の中に溶けているような「至上の幸福」"
+                },
+                "thinking_layer": "興奮するような喜び（joy）よりも、波一つない静かな充足. もとは「穏やかであること」から来ました。「Ignorance is bliss（知ららぬが仏）」という言葉通り、現実の痛みから遮断された、無垢で透明な多幸感を指します。",
+                "synonyms": [
+                        "euphoria",
+                        "felicity",
+                        "ecstasy"
+                ],
+                "antonyms": [
+                        "misery",
+                        "agony",
+                        "sorrow"
+                ],
+                "aftertaste": "温かい日だまりの中で、時間の感覚さえも消えていくまどろみ",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "bhle-",
+                                        "meaning": "to shine / bloom"
+                                }
+                        ],
+                        "points": [
+                                "bless（祝福する）とは語源的に異なりますが、音が似ているため混同され、「神聖な喜び」のイメージが加わりました。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "Old English"
+        },
+        {
+                "id": "blithe",
+                "word": "Blithe",
+                "part_of_speech": "adjective",
+                "meaning": "快活な、のんきな、軽やかな",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "blithiz",
+                                        "type": "root",
+                                        "meaning": "gentle / kind"
+                                }
+                        ],
+                        "original_statement": "From Old English blithe 'joyous, kind, cheerful'."
+                },
+                "core_concept": {
+                        "en": "Gentle and happy",
+                        "ja": "悩みなどこの世に存在しないかのように、「穏やか（gentle）」で「屈託のない」足取り"
+                },
+                "thinking_layer": "重力を持っていないような明るさ. しかし時に「blithe disregard（平気で無視する）」のように、他者の苦労や深刻な現実を、あまりに軽やかに（あるいは無神経に）スルーしてしまう危うい無垢さも秘めています。 ",
+                "synonyms": [
+                        "cheerful",
+                        "carefree",
+                        "heedless"
+                ],
+                "antonyms": [
+                        "morose",
+                        "gloomy",
+                        "heavyhearted"
+                ],
+                "aftertaste": "嵐が近づいているのに、鼻歌を歌いながらスキップする少年の影",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "bhlei-",
+                                        "meaning": "to shine"
+                                }
+                        ],
+                        "points": [
+                                "もとは「光り輝く」こと. 内面から溢れ出す光が、影をすべて消し去ってしまう様子です。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "Old English"
+        },
+        {
                 "id": "boggle",
                 "word": "Boggle",
                 "part_of_speech": "verb",
@@ -9419,6 +10702,56 @@ const WORDS = [
                 "source": "Oxford English Dictionary",
                 "date": "2026-03-01",
                 "era": "16th Century"
+        },
+        {
+                "id": "bona fide",
+                "word": "Bona fide",
+                "part_of_speech": "adjective/adverb",
+                "meaning": "真実の、誠実な、善意の",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "bona",
+                                        "type": "root",
+                                        "meaning": "good"
+                                },
+                                {
+                                        "text": "fide",
+                                        "type": "root",
+                                        "meaning": "faith"
+                                }
+                        ],
+                        "original_statement": "From Latin bona fide 'in good faith'."
+                },
+                "core_concept": {
+                        "en": "In good faith",
+                        "ja": "偽りなく、心からの「善い（good）」、「信頼（faith）」に基づいた真正な姿"
+                },
+                "thinking_layer": "法的な「善意」から、一般の「本物」へ. 裏に隠された意図がなく、言葉と心が完全に一致していることを保証するスタンプのような言葉です。濁りのない透明な意志によって、その存在の正当性が裏打ちされています。",
+                "synonyms": [
+                        "authentic",
+                        "genuine",
+                        "sincere"
+                ],
+                "antonyms": [
+                        "bogus",
+                        "fraudulent",
+                        "spurious"
+                ],
+                "aftertaste": "一切の誤魔化しを許さない、まっすぐな瞳の奥の光",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "bheidh-",
+                                        "meaning": "to trust"
+                                }
+                        ],
+                        "points": [
+                                "confidence（自信＝共に信じる）やfidelity（忠実）と同じ「信頼」の系譜です。"
+                        ]
+                },
+                "source": "etymon Philologist Mode",
+                "era": "16th Century Latin"
         },
         {
                 "id": "book",
@@ -31904,6 +33237,58 @@ const WORDS = [
                 "era": "16th Century"
         },
         {
+                "id": "gestate",
+                "word": "Gestate",
+                "part_of_speech": "verb",
+                "meaning": "妊娠する、または、育む",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "gest-",
+                                        "type": "root",
+                                        "meaning": "運ぶ、担う",
+                                        "lang": "ラテン語"
+                                },
+                                {
+                                        "text": "-ate",
+                                        "type": "suffix",
+                                        "meaning": "状態や行為を示す",
+                                        "lang": "ラテン語"
+                                }
+                        ],
+                        "original_statement": "The word 'gestate' derives from Latin 'gestatus', the past participle of 'gestare' meaning 'to bear or carry'."
+                },
+                "core_concept": {
+                        "en": "The silent craft of nurturing possibility.",
+                        "ja": "可能性を静かに育む技"
+                },
+                "thinking_layer": "生成という言葉は、生命のミステリアスな舞台裏を見せる鏡のようだ。物理的な現象としての妊娠だけでなく、アイディア、計画、そして希望のような非物質的な存在が成熟する過程にも適用される。これは、内なる空間で密やかに育まれる希望や夢、それらが形を取る前の無形の可能性の舞台である。生成の行為は、何もない存在から尽きざる現実への変容であり、それには無限の可能性と時間を超越した知恵が秘匿されている。静穏な心に込められた想念が、時間という大河を流れ、形を取る様はまさに命の神秘そのものである。この過程は、感受性と内省の深まりを通じて、自らを超えた何かへ到達する旅と言えるだろう。生成は、光が産み出される前の闇の寄与としての価値を学び、共鳴をもって未来を迎える準備を整える。世界が無音の中で息づくその一瞬に、私たちの内なる真実は新たな形で明るみに出される。その身は、破壊と創造の美しいジレンマを抱えるのだ。",
+                "synonyms": [
+                        "Nurture",
+                        "Cultivate"
+                ],
+                "antonyms": [
+                        "Abort",
+                        "Halt"
+                ],
+                "aftertaste": "From silence, the universe breathes life into dreams.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "gest",
+                                        "meaning": "to carry or bring forth"
+                                }
+                        ],
+                        "points": [
+                                "ラテン語の'gestare（運ぶ、担う）'に由来し、これはアイディアや計画の育成過程に共鳴する。時間と意識が交錯するその場所で、生成は自然と戯れ、夢を現実へと導くプロセスを象徴する。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Late 19th Century"
+        },
+        {
                 "id": "gesture",
                 "word": "Gesture",
                 "part_of_speech": "noun/verb",
@@ -47050,6 +48435,58 @@ const WORDS = [
                 "era": "Ancient Greek"
         },
         {
+                "id": "phonetic",
+                "word": "Phonetic",
+                "part_of_speech": "adjective",
+                "meaning": "音声に関する",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "phon-",
+                                        "type": "root",
+                                        "meaning": "声、音",
+                                        "lang": "ギリシャ語"
+                                },
+                                {
+                                        "text": "-etic",
+                                        "type": "suffix",
+                                        "meaning": "〜に関する",
+                                        "lang": "ギリシャ語"
+                                }
+                        ],
+                        "original_statement": "Derived from Greek 'phonetikos', related to sound and voice, entering English via Latin 'phoneticus'."
+                },
+                "core_concept": {
+                        "en": "The essence of sound captured in symbols.",
+                        "ja": "音の本質を象徴に封じ込める"
+                },
+                "thinking_layer": "音声とは、目に見えぬ空気の振動が我々の鼓膜を通して心の中に響く現象です。それは人類のコミュニケーションの最も原始的な形であり、文明の基礎です。音を文字として記録することは、時間と空間を超えて他者と心を繋ぐための試みとして画期的なものと言えます。「音声的」という言葉は、そのような試みを象徴し、言葉が音の流れとなって現れる様を表現します。何気ない日常会話から詩的な作品、音楽に至るまで、全ては音を用いて生まれる芸術作品であり、「音声的」という言葉そのものが人間の意識と感性の深淵を覗く窓となります。音を理解し、文字で再現することは、無形のものを形にする挑戦であり、そしてまた、人類が築いた文化の広がりを視覚的に捉える手段として、極めて意義深いものです。この言葉に込められた哲学は、音と文字、そしてそれを通じたコミュニケーションの可能性を探求し続ける人間の創造性と情熱の証です。",
+                "synonyms": [
+                        "Acoustic",
+                        "Auditory"
+                ],
+                "antonyms": [
+                        "Silent",
+                        "Non-verbal"
+                ],
+                "aftertaste": "Sound etches the invisible into the visible.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "phon",
+                                        "meaning": "sound"
+                                }
+                        ],
+                        "points": [
+                                "音声学は言語や音声を分析する学問であり、その進化は文化と言語の発展に寄与しました。音声から文字へ、そして文字から言葉へと変換される中で、人々は歴史と文化を継承し続けるのです。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "Ancient Greek"
+        },
+        {
                 "id": "phronesis",
                 "word": "Phronesis",
                 "author": "etymon_official",
@@ -51219,6 +52656,62 @@ const WORDS = [
                 "era": "Middle English, influenced by Latin"
         },
         {
+                "id": "relational",
+                "word": "Relational",
+                "part_of_speech": "adjective",
+                "meaning": "関係に関する",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "relation",
+                                        "type": "root",
+                                        "meaning": "関係",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "al",
+                                        "type": "suffix",
+                                        "meaning": "に関する",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The term 'relational' stems from the Latin 'relationem', meaning a bringing back, restoring, or relation, combined with the suffix '-al' connoting 'pertaining to'."
+                },
+                "core_concept": {
+                        "en": "The ethereal dance of connections and contexts.",
+                        "ja": "つながりと文脈の幽玄なる舞い"
+                },
+                "thinking_layer": "『関係』という言葉は、一つのものが自分を超えて他者とどのように結びついているのかを探求する鏡である。この鏡に映るものは、常に動き、混ざり合い、変容する流動的な世界だ。その中で人々は自らのアイデンティティーを形作り、宇宙の神秘との間に豊かな相互作用を見出す。関係とは、自己認識を超越し、新たな発見をもたらすための探求を促す力に他ならない。この力は、人間存在の根底にある孤独を慰め、やり取り、共鳴を通して、世界を形作る。一方で、個々の接点が持つ一瞬の美しさの背後には、無数の物語や未だ解明されていない謎が存在する。それは、触れることも視ることもできないが、全てを貫く流れであり、時に共感を生み出し、時に懐疑を抱かせる。『関係』は、心と心の間で立ち上がる見えざる橋であり、その上を行き交う思考や感情が新しい視点を創造し続ける。これは存在することの本質に迫るための、決して終わることのない旅である。",
+                "synonyms": [
+                        "Connected",
+                        "Interdependent"
+                ],
+                "antonyms": [
+                        "Isolated",
+                        "Detached"
+                ],
+                "aftertaste": "In every relation lies the possibility of transformation.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "relation",
+                                        "meaning": "a connection or association"
+                                },
+                                {
+                                        "term": "al",
+                                        "meaning": "pertaining to"
+                                }
+                        ],
+                        "points": [
+                                "『relational』は、物と物の間の関与度を示唆し、その文脈での相互作用を強調する。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Medieval Latin"
+        },
+        {
                 "id": "release",
                 "word": "Release",
                 "part_of_speech": "noun/verb",
@@ -55159,6 +56652,52 @@ const WORDS = [
                 "source": "Online Etymology Dictionary",
                 "date": "2026-03-01",
                 "era": "14th Century"
+        },
+        {
+                "id": "stagnant",
+                "word": "Stagnant",
+                "part_of_speech": "adjective",
+                "meaning": "停滞した、流れのない",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "stagn-",
+                                        "type": "root",
+                                        "meaning": "静止した水",
+                                        "lang": "ラテン語"
+                                }
+                        ],
+                        "original_statement": "The word 'stagnant' originates from the Latin 'stagnare', meaning 'to form a pool', from 'stagnum', signifying a standing pool of water."
+                },
+                "core_concept": {
+                        "en": "The stillness where time forgets to breathe.",
+                        "ja": "時間が息をすることを忘れる静止の場。"
+                },
+                "thinking_layer": "停滞というのは、動きを止めた世界の瞬間のことである。日本語で「停滞」と聞くと、単なる動かないことを表すが、哲学的には、生命の流れが一時的に凝結し、瞬間が無限の深淵に封じられる状態であると言える。停滞は、変化が止まり、不変の価値が一時的に姿を現す時でもある。しかしその反面、それは創造性や活力を奪い取る無限の静寂でもある。この矛盾した状態では、心はその動と静の間に引き裂かれ、生きる意味を探し求める。古代の池に映る月のように、停滞には歩みを止めた者が見いだす新たな視座が隠されている。一時の非活動の中にこそ、本質の真理が潜んでいるのかもしれない。そうした停滞の想像を通じて、私たちは動の中にもある静を見いだし、流動する時間の中で不変の核を探す。そして、時間に負けない静けさの中で、真の自己と向き合っていくのである。",
+                "synonyms": [
+                        "stalled",
+                        "motionless"
+                ],
+                "antonyms": [
+                        "dynamic",
+                        "active"
+                ],
+                "aftertaste": "In still waters, profound truths often hide.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "stagnum",
+                                        "meaning": "a standing pool of water"
+                                }
+                        ],
+                        "points": [
+                                "ラテン語の「stagnum」は、静止した水体を表現し、動きの停滞や蓄積を象徴しています。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Late Middle English"
         },
         {
                 "id": "street",
@@ -59285,6 +60824,62 @@ const WORDS = [
                 "era": "13th Century Latin"
         },
         {
+                "id": "venture",
+                "word": "Venture",
+                "part_of_speech": "noun/verb",
+                "meaning": "冒険する、リスクを取る行動",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "Latin venit-",
+                                        "type": "root",
+                                        "meaning": "来る",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "Old French aventure",
+                                        "type": "root",
+                                        "meaning": "冒険",
+                                        "lang": "Old French"
+                                }
+                        ],
+                        "original_statement": "The word 'venture' evolved from the Old French 'aventure' and finds its roots in the Latin 'venire', meaning to come or arrive. Initially, it denoted chance or fate."
+                },
+                "core_concept": {
+                        "en": "A daring journey into the unknown, fueled by courage and chance.",
+                        "ja": "未知への勇敢な旅とそれに伴うリスク"
+                },
+                "thinking_layer": "「ベンチャー」という言葉には、未知の領域に飛び込む勇気が求められています。それは単なるリスクを取る行為ではなく、新たな世界を開く探検のようなものです。人生そのものが長い旅路であり、一歩を踏み出す勇気がある者だけが見知らぬ景色に出会える。こうした冒険は、我々の魂を鍛え、個を超えた存在の一部と感じさせる力を持つ。人間の営みは、未来という不確定な鏡の中に投影され、我々は常にその鏡を覗き込む術を持っているかのようだ。ここに光を見出した者はさらに進む勇気を得、そして恐れを抱く者もまた、心の奥深くに眠る希望の光に誘われるのです。この深い思索の中で、「ベンチャー」は、自己の変革と他者とのつながりを求め続ける人間の本質を象徴する言葉として輝きを放つのです。",
+                "synonyms": [
+                        "Adventure",
+                        "Risk"
+                ],
+                "antonyms": [
+                        "Safety",
+                        "Security"
+                ],
+                "aftertaste": "Venture is the flame that transforms hesitation into bravery.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "venit-",
+                                        "meaning": "to come"
+                                },
+                                {
+                                        "term": "aventure",
+                                        "meaning": "chance, opportunity"
+                                }
+                        ],
+                        "points": [
+                                "語源的に見ると、「ベンチャー」という言葉は「来る」という動きを含んでおり、新しい体験や状況が目前に迫っていることを示唆しています。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "12th Century"
+        },
+        {
                 "id": "verdict",
                 "word": "Verdict",
                 "author": "etymon_official",
@@ -59801,6 +61396,58 @@ const WORDS = [
                 "source": "Oxford English Dictionary",
                 "date": "2026-03-01",
                 "era": "Medieval Latin"
+        },
+        {
+                "id": "volatile",
+                "word": "Volatile",
+                "part_of_speech": "adjective",
+                "meaning": "揮発性のある、不安定な",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "vola-",
+                                        "type": "root",
+                                        "meaning": "飛ぶ",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "-tile",
+                                        "type": "suffix",
+                                        "meaning": "性質",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'volatile' originates from Latin 'volatilis', meaning 'fleeting, transitory, flying'."
+                },
+                "core_concept": {
+                        "en": "An essence of swift change and evanescence.",
+                        "ja": "迅速な変化と儚さの核となる概念"
+                },
+                "thinking_layer": "『不安定』の概念は、安定性や恒常性を超越した儚い瞬間と変化を捉える試みです。現代社会において、変わりゆく世界との対比は、我々に不確実性の中での生存を教示してくれます。この言葉が表すのは、物質的な揮発性だけではなく、人生の様々な局面での感情や状態の変容です。我々の存在は一瞬一瞬が独立のエネルギーに満ち溢れ、そのエネルギーは時として予測不能で流動的です。変化という旋律に耳を傾け、その不安定性の中に潜む美を見出すことは、深遠なる内省へとつながる道です。すなわち、揮発性とは、直近の未来さえも見通せない不確かさに包まれた一貫性のない踊りであり、この踊りを見つめることで、時を超えた哲学的自覚へと誘われます。人生は無数の瞬間の集積であり、それらは次々と消えていく蜃気楼のようです。それでも私たちは、立ち止まることなく、この一瞬の幻を追い続けます。",
+                "synonyms": [
+                        "unstable",
+                        "fleeting"
+                ],
+                "antonyms": [
+                        "stable",
+                        "permanent"
+                ],
+                "aftertaste": "Volatility dances along the edges of chaos and order.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "volare",
+                                        "meaning": "to fly"
+                                }
+                        ],
+                        "points": [
+                                "『volatile』はラテン語に由来し、『飛ぶ』という意味の語根がその出発点となります。この語源的背景は、言葉が持つ瞬時の変化と不安定さを表す力を説明します。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Late Middle English"
         },
         {
                 "id": "volunteer",
@@ -62140,417 +63787,5 @@ const WORDS = [
                 },
                 "source": "etymon Philologist Mode",
                 "era": "17th Century French"
-        },
-        {
-                "id": "agitate",
-                "word": "Agitate",
-                "part_of_speech": "verb",
-                "meaning": "動かす、動揺させる",
-                "author": "etymon_official",
-                "etymology": {
-                        "breakdown": [
-                                {
-                                        "text": "agitare",
-                                        "type": "root",
-                                        "meaning": "動揺させる",
-                                        "lang": "Latin"
-                                }
-                        ],
-                        "original_statement": "The word 'agitate' originates from the Latin 'agitare', which means 'to drive, to stir up'. Evolving through Old French 'agiter' in the 16th century, its meanings diversified in English to encompass physical and emotional disturbance."
-                },
-                "core_concept": {
-                        "en": "The heart's tumultuous symphony.",
-                        "ja": "心の激しい交響曲"
-                },
-                "thinking_layer": "人生は静かな河のように流れることはなく、しばしば嵐に見舞われることがある。それは人間の心においても同様である。静寂のなかでも心はしばしば動揺し、思慮の波を立てるのである。動じること、それは人間の生き様において避けられぬ運命の一部であり、あらゆる思考や感情の生起がそこに包含される。そしてその背後には深い意味が潜んでいる。動揺とは単なる内なる乱れではなく、新たな理解や自己発見への道筋を示すものである。動じることで我々はより深く世界と関わり、自己を再構築する契機を得るのである。この人生の波間を如何に航海するか、それこそが人間存在の本質的な問いとなる。静寂の中で真実の声を聴き、動乱の中で新たな境地に至る、そうした経験が問いを形作り、答えを導き出す。",
-                "synonyms": [
-                        "Disturb",
-                        "Rouse"
-                ],
-                "antonyms": [
-                        "Calm",
-                        "Soothe"
-                ],
-                "aftertaste": "Life's momentum is often born from its disturbances.",
-                "deep_dive": {
-                        "roots": [
-                                {
-                                        "term": "agitare",
-                                        "meaning": "to drive, to set in motion"
-                                }
-                        ],
-                        "points": [
-                                "動揺という概念は単なる心理的現象ではなく、思考や感情の活性化を促す行為である。ラテン語の 'agitare' にその源が在るが、それを通じて自己認識や新たな感覚の開発を促すものとして普遍的価値を有する。動かすという行為、その背後には意志の力と未知なるものへの果敢な挑戦が込められている。"
-                        ]
-                },
-                "source": "Online Etymology Dictionary",
-                "date": "2026-03-01",
-                "era": "16th Century"
-        },
-        {
-                "id": "adhere",
-                "word": "Adhere",
-                "part_of_speech": "verb",
-                "meaning": "付着する、従う",
-                "author": "etymon_official",
-                "etymology": {
-                        "breakdown": [
-                                {
-                                        "text": "ad-",
-                                        "type": "prefix",
-                                        "meaning": "〜に向かって",
-                                        "lang": "Latin"
-                                },
-                                {
-                                        "text": "-haerēre",
-                                        "type": "root",
-                                        "meaning": "くっつく",
-                                        "lang": "Latin"
-                                }
-                        ],
-                        "original_statement": "The term 'adhere' originated from the Latin 'adhaerēre', composed of 'ad-' (to) and 'haerēre' (stick)."
-                },
-                "core_concept": {
-                        "en": "To adhere is to bind one's existence to principles, as a leaf sticks to a gentle stream.",
-                        "ja": "中心を定め、流れにそっと貼り付く葉のように、原則に自らを結びつけること。"
-                },
-                "thinking_layer": "物事に『付着する』ことは、単に物理的な行為に留まらず、哲学的な意味をも含んでいます。生きることは大海原を航海するようなものであり、その旅路において、我々は価値観や目標にしがみつき、その意味を形成していくのです。考えてみてください、自らの信念にしっかりと寄り添うことは、嵐の中の燈台の如く、人生を導く光となります。その粘り強さは時に試練に打ちひしがれても、なおも流れに逆らうことなく、ただ静かに、しなやかに、あり続けることを選びます。大海の目に見えない流れにただよう一枚の葉が、何気ない瞬間を、そして人生そのものをどれほど優美に輝かせるかを想像してみてください。物質的・精神的な世界における『adhere』という行為が、これほどまでに深く、静かに存在していることを、私たちはどれだけ意識し得るのでしょうか。そんなささやかな行為の中に、無限の宇宙が広がっていることに気付くのです。生きる力とは、しがみつく力でもあり、また手放し流れに委ねる力なのです。",
-                "synonyms": [
-                        "Cling",
-                        "Attach"
-                ],
-                "antonyms": [
-                        "Detach",
-                        "Separate"
-                ],
-                "aftertaste": "Adhere to dreams, for they guide the soul's journey.",
-                "deep_dive": {
-                        "roots": [
-                                {
-                                        "term": "haerēre",
-                                        "meaning": "stick"
-                                }
-                        ],
-                        "points": [
-                                "『adhere』という言葉は単に物理的な付着を指すのではなく、精神的に何かにしっかりとついて離れないことを含意する。"
-                        ]
-                },
-                "source": "Online Etymology Dictionary (etymonline.com)",
-                "date": "2026-03-01",
-                "era": "14th Century"
-        },
-        {
-                "id": "gestate",
-                "word": "Gestate",
-                "part_of_speech": "verb",
-                "meaning": "妊娠する、または、育む",
-                "author": "etymon_official",
-                "etymology": {
-                        "breakdown": [
-                                {
-                                        "text": "gest-",
-                                        "type": "root",
-                                        "meaning": "運ぶ、担う",
-                                        "lang": "ラテン語"
-                                },
-                                {
-                                        "text": "-ate",
-                                        "type": "suffix",
-                                        "meaning": "状態や行為を示す",
-                                        "lang": "ラテン語"
-                                }
-                        ],
-                        "original_statement": "The word 'gestate' derives from Latin 'gestatus', the past participle of 'gestare' meaning 'to bear or carry'."
-                },
-                "core_concept": {
-                        "en": "The silent craft of nurturing possibility.",
-                        "ja": "可能性を静かに育む技"
-                },
-                "thinking_layer": "生成という言葉は、生命のミステリアスな舞台裏を見せる鏡のようだ。物理的な現象としての妊娠だけでなく、アイディア、計画、そして希望のような非物質的な存在が成熟する過程にも適用される。これは、内なる空間で密やかに育まれる希望や夢、それらが形を取る前の無形の可能性の舞台である。生成の行為は、何もない存在から尽きざる現実への変容であり、それには無限の可能性と時間を超越した知恵が秘匿されている。静穏な心に込められた想念が、時間という大河を流れ、形を取る様はまさに命の神秘そのものである。この過程は、感受性と内省の深まりを通じて、自らを超えた何かへ到達する旅と言えるだろう。生成は、光が産み出される前の闇の寄与としての価値を学び、共鳴をもって未来を迎える準備を整える。世界が無音の中で息づくその一瞬に、私たちの内なる真実は新たな形で明るみに出される。その身は、破壊と創造の美しいジレンマを抱えるのだ。",
-                "synonyms": [
-                        "Nurture",
-                        "Cultivate"
-                ],
-                "antonyms": [
-                        "Abort",
-                        "Halt"
-                ],
-                "aftertaste": "From silence, the universe breathes life into dreams.",
-                "deep_dive": {
-                        "roots": [
-                                {
-                                        "term": "gest",
-                                        "meaning": "to carry or bring forth"
-                                }
-                        ],
-                        "points": [
-                                "ラテン語の'gestare（運ぶ、担う）'に由来し、これはアイディアや計画の育成過程に共鳴する。時間と意識が交錯するその場所で、生成は自然と戯れ、夢を現実へと導くプロセスを象徴する。"
-                        ]
-                },
-                "source": "Oxford English Dictionary",
-                "date": "2026-03-01",
-                "era": "Late 19th Century"
-        },
-        {
-                "id": "venture",
-                "word": "Venture",
-                "part_of_speech": "noun/verb",
-                "meaning": "冒険する、リスクを取る行動",
-                "author": "etymon_official",
-                "etymology": {
-                        "breakdown": [
-                                {
-                                        "text": "Latin venit-",
-                                        "type": "root",
-                                        "meaning": "来る",
-                                        "lang": "Latin"
-                                },
-                                {
-                                        "text": "Old French aventure",
-                                        "type": "root",
-                                        "meaning": "冒険",
-                                        "lang": "Old French"
-                                }
-                        ],
-                        "original_statement": "The word 'venture' evolved from the Old French 'aventure' and finds its roots in the Latin 'venire', meaning to come or arrive. Initially, it denoted chance or fate."
-                },
-                "core_concept": {
-                        "en": "A daring journey into the unknown, fueled by courage and chance.",
-                        "ja": "未知への勇敢な旅とそれに伴うリスク"
-                },
-                "thinking_layer": "「ベンチャー」という言葉には、未知の領域に飛び込む勇気が求められています。それは単なるリスクを取る行為ではなく、新たな世界を開く探検のようなものです。人生そのものが長い旅路であり、一歩を踏み出す勇気がある者だけが見知らぬ景色に出会える。こうした冒険は、我々の魂を鍛え、個を超えた存在の一部と感じさせる力を持つ。人間の営みは、未来という不確定な鏡の中に投影され、我々は常にその鏡を覗き込む術を持っているかのようだ。ここに光を見出した者はさらに進む勇気を得、そして恐れを抱く者もまた、心の奥深くに眠る希望の光に誘われるのです。この深い思索の中で、「ベンチャー」は、自己の変革と他者とのつながりを求め続ける人間の本質を象徴する言葉として輝きを放つのです。",
-                "synonyms": [
-                        "Adventure",
-                        "Risk"
-                ],
-                "antonyms": [
-                        "Safety",
-                        "Security"
-                ],
-                "aftertaste": "Venture is the flame that transforms hesitation into bravery.",
-                "deep_dive": {
-                        "roots": [
-                                {
-                                        "term": "venit-",
-                                        "meaning": "to come"
-                                },
-                                {
-                                        "term": "aventure",
-                                        "meaning": "chance, opportunity"
-                                }
-                        ],
-                        "points": [
-                                "語源的に見ると、「ベンチャー」という言葉は「来る」という動きを含んでおり、新しい体験や状況が目前に迫っていることを示唆しています。"
-                        ]
-                },
-                "source": "Online Etymology Dictionary",
-                "date": "2026-03-01",
-                "era": "12th Century"
-        },
-        {
-                "id": "phonetic",
-                "word": "Phonetic",
-                "part_of_speech": "adjective",
-                "meaning": "音声に関する",
-                "author": "etymon_official",
-                "etymology": {
-                        "breakdown": [
-                                {
-                                        "text": "phon-",
-                                        "type": "root",
-                                        "meaning": "声、音",
-                                        "lang": "ギリシャ語"
-                                },
-                                {
-                                        "text": "-etic",
-                                        "type": "suffix",
-                                        "meaning": "〜に関する",
-                                        "lang": "ギリシャ語"
-                                }
-                        ],
-                        "original_statement": "Derived from Greek 'phonetikos', related to sound and voice, entering English via Latin 'phoneticus'."
-                },
-                "core_concept": {
-                        "en": "The essence of sound captured in symbols.",
-                        "ja": "音の本質を象徴に封じ込める"
-                },
-                "thinking_layer": "音声とは、目に見えぬ空気の振動が我々の鼓膜を通して心の中に響く現象です。それは人類のコミュニケーションの最も原始的な形であり、文明の基礎です。音を文字として記録することは、時間と空間を超えて他者と心を繋ぐための試みとして画期的なものと言えます。「音声的」という言葉は、そのような試みを象徴し、言葉が音の流れとなって現れる様を表現します。何気ない日常会話から詩的な作品、音楽に至るまで、全ては音を用いて生まれる芸術作品であり、「音声的」という言葉そのものが人間の意識と感性の深淵を覗く窓となります。音を理解し、文字で再現することは、無形のものを形にする挑戦であり、そしてまた、人類が築いた文化の広がりを視覚的に捉える手段として、極めて意義深いものです。この言葉に込められた哲学は、音と文字、そしてそれを通じたコミュニケーションの可能性を探求し続ける人間の創造性と情熱の証です。",
-                "synonyms": [
-                        "Acoustic",
-                        "Auditory"
-                ],
-                "antonyms": [
-                        "Silent",
-                        "Non-verbal"
-                ],
-                "aftertaste": "Sound etches the invisible into the visible.",
-                "deep_dive": {
-                        "roots": [
-                                {
-                                        "term": "phon",
-                                        "meaning": "sound"
-                                }
-                        ],
-                        "points": [
-                                "音声学は言語や音声を分析する学問であり、その進化は文化と言語の発展に寄与しました。音声から文字へ、そして文字から言葉へと変換される中で、人々は歴史と文化を継承し続けるのです。"
-                        ]
-                },
-                "source": "Online Etymology Dictionary",
-                "date": "2026-03-01",
-                "era": "Ancient Greek"
-        },
-        {
-                "id": "relational",
-                "word": "Relational",
-                "part_of_speech": "adjective",
-                "meaning": "関係に関する",
-                "author": "etymon_official",
-                "etymology": {
-                        "breakdown": [
-                                {
-                                        "text": "relation",
-                                        "type": "root",
-                                        "meaning": "関係",
-                                        "lang": "Latin"
-                                },
-                                {
-                                        "text": "al",
-                                        "type": "suffix",
-                                        "meaning": "に関する",
-                                        "lang": "Latin"
-                                }
-                        ],
-                        "original_statement": "The term 'relational' stems from the Latin 'relationem', meaning a bringing back, restoring, or relation, combined with the suffix '-al' connoting 'pertaining to'."
-                },
-                "core_concept": {
-                        "en": "The ethereal dance of connections and contexts.",
-                        "ja": "つながりと文脈の幽玄なる舞い"
-                },
-                "thinking_layer": "『関係』という言葉は、一つのものが自分を超えて他者とどのように結びついているのかを探求する鏡である。この鏡に映るものは、常に動き、混ざり合い、変容する流動的な世界だ。その中で人々は自らのアイデンティティーを形作り、宇宙の神秘との間に豊かな相互作用を見出す。関係とは、自己認識を超越し、新たな発見をもたらすための探求を促す力に他ならない。この力は、人間存在の根底にある孤独を慰め、やり取り、共鳴を通して、世界を形作る。一方で、個々の接点が持つ一瞬の美しさの背後には、無数の物語や未だ解明されていない謎が存在する。それは、触れることも視ることもできないが、全てを貫く流れであり、時に共感を生み出し、時に懐疑を抱かせる。『関係』は、心と心の間で立ち上がる見えざる橋であり、その上を行き交う思考や感情が新しい視点を創造し続ける。これは存在することの本質に迫るための、決して終わることのない旅である。",
-                "synonyms": [
-                        "Connected",
-                        "Interdependent"
-                ],
-                "antonyms": [
-                        "Isolated",
-                        "Detached"
-                ],
-                "aftertaste": "In every relation lies the possibility of transformation.",
-                "deep_dive": {
-                        "roots": [
-                                {
-                                        "term": "relation",
-                                        "meaning": "a connection or association"
-                                },
-                                {
-                                        "term": "al",
-                                        "meaning": "pertaining to"
-                                }
-                        ],
-                        "points": [
-                                "『relational』は、物と物の間の関与度を示唆し、その文脈での相互作用を強調する。"
-                        ]
-                },
-                "source": "Oxford English Dictionary",
-                "date": "2026-03-01",
-                "era": "Medieval Latin"
-        },
-        {
-                "id": "volatile",
-                "word": "Volatile",
-                "part_of_speech": "adjective",
-                "meaning": "揮発性のある、不安定な",
-                "author": "etymon_official",
-                "etymology": {
-                        "breakdown": [
-                                {
-                                        "text": "vola-",
-                                        "type": "root",
-                                        "meaning": "飛ぶ",
-                                        "lang": "Latin"
-                                },
-                                {
-                                        "text": "-tile",
-                                        "type": "suffix",
-                                        "meaning": "性質",
-                                        "lang": "Latin"
-                                }
-                        ],
-                        "original_statement": "The word 'volatile' originates from Latin 'volatilis', meaning 'fleeting, transitory, flying'."
-                },
-                "core_concept": {
-                        "en": "An essence of swift change and evanescence.",
-                        "ja": "迅速な変化と儚さの核となる概念"
-                },
-                "thinking_layer": "『不安定』の概念は、安定性や恒常性を超越した儚い瞬間と変化を捉える試みです。現代社会において、変わりゆく世界との対比は、我々に不確実性の中での生存を教示してくれます。この言葉が表すのは、物質的な揮発性だけではなく、人生の様々な局面での感情や状態の変容です。我々の存在は一瞬一瞬が独立のエネルギーに満ち溢れ、そのエネルギーは時として予測不能で流動的です。変化という旋律に耳を傾け、その不安定性の中に潜む美を見出すことは、深遠なる内省へとつながる道です。すなわち、揮発性とは、直近の未来さえも見通せない不確かさに包まれた一貫性のない踊りであり、この踊りを見つめることで、時を超えた哲学的自覚へと誘われます。人生は無数の瞬間の集積であり、それらは次々と消えていく蜃気楼のようです。それでも私たちは、立ち止まることなく、この一瞬の幻を追い続けます。",
-                "synonyms": [
-                        "unstable",
-                        "fleeting"
-                ],
-                "antonyms": [
-                        "stable",
-                        "permanent"
-                ],
-                "aftertaste": "Volatility dances along the edges of chaos and order.",
-                "deep_dive": {
-                        "roots": [
-                                {
-                                        "term": "volare",
-                                        "meaning": "to fly"
-                                }
-                        ],
-                        "points": [
-                                "『volatile』はラテン語に由来し、『飛ぶ』という意味の語根がその出発点となります。この語源的背景は、言葉が持つ瞬時の変化と不安定さを表す力を説明します。"
-                        ]
-                },
-                "source": "Oxford English Dictionary",
-                "date": "2026-03-01",
-                "era": "Late Middle English"
-        },
-        {
-                "id": "stagnant",
-                "word": "Stagnant",
-                "part_of_speech": "adjective",
-                "meaning": "停滞した、流れのない",
-                "author": "etymon_official",
-                "etymology": {
-                        "breakdown": [
-                                {
-                                        "text": "stagn-",
-                                        "type": "root",
-                                        "meaning": "静止した水",
-                                        "lang": "ラテン語"
-                                }
-                        ],
-                        "original_statement": "The word 'stagnant' originates from the Latin 'stagnare', meaning 'to form a pool', from 'stagnum', signifying a standing pool of water."
-                },
-                "core_concept": {
-                        "en": "The stillness where time forgets to breathe.",
-                        "ja": "時間が息をすることを忘れる静止の場。"
-                },
-                "thinking_layer": "停滞というのは、動きを止めた世界の瞬間のことである。日本語で「停滞」と聞くと、単なる動かないことを表すが、哲学的には、生命の流れが一時的に凝結し、瞬間が無限の深淵に封じられる状態であると言える。停滞は、変化が止まり、不変の価値が一時的に姿を現す時でもある。しかしその反面、それは創造性や活力を奪い取る無限の静寂でもある。この矛盾した状態では、心はその動と静の間に引き裂かれ、生きる意味を探し求める。古代の池に映る月のように、停滞には歩みを止めた者が見いだす新たな視座が隠されている。一時の非活動の中にこそ、本質の真理が潜んでいるのかもしれない。そうした停滞の想像を通じて、私たちは動の中にもある静を見いだし、流動する時間の中で不変の核を探す。そして、時間に負けない静けさの中で、真の自己と向き合っていくのである。",
-                "synonyms": [
-                        "stalled",
-                        "motionless"
-                ],
-                "antonyms": [
-                        "dynamic",
-                        "active"
-                ],
-                "aftertaste": "In still waters, profound truths often hide.",
-                "deep_dive": {
-                        "roots": [
-                                {
-                                        "term": "stagnum",
-                                        "meaning": "a standing pool of water"
-                                }
-                        ],
-                        "points": [
-                                "ラテン語の「stagnum」は、静止した水体を表現し、動きの停滞や蓄積を象徴しています。"
-                        ]
-                },
-                "source": "Oxford English Dictionary",
-                "date": "2026-03-01",
-                "era": "Late Middle English"
         }
 ];
