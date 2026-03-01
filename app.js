@@ -1007,11 +1007,11 @@ function renderTimeline() {
     const list = (typeof WORDS !== 'undefined') ? [...WORDS] : [];
 
     // 時代ごとにグループ化
-    const groups = {};
+    const allGroups = {};
     list.forEach(w => {
         const era = w.era || 'Unknown Era';
-        if (!groups[era]) groups[era] = [];
-        groups[era].push(w);
+        if (!allGroups[era]) allGroups[era] = [];
+        allGroups[era].push(w);
     });
 
     // 時代のだいたいの年代を推測してソートする関数
@@ -1030,31 +1030,125 @@ function renderTimeline() {
         return 0;
     };
 
-    const sortedEras = Object.keys(groups).sort((a, b) => getEraScore(a) - getEraScore(b));
+    const sortedEras = Object.keys(allGroups).sort((a, b) => getEraScore(a) - getEraScore(b));
+
+    const eraToId = (era) => 'era-' + era.replace(/[^a-zA-Z0-9]/g, '_');
 
     viewContainer.innerHTML = `
-        <div class="timeline-view fade-in" style="max-width:800px; margin: 0 auto; padding: 4rem 2rem 120px;">
-            <h3 class="section-label" style="text-align:center; margin-bottom:4rem;">River of Etymon (Timeline)</h3>
-            <div class="timeline-thread" style="position:relative; border-left: 2px solid var(--color-border); padding-left: 3rem; margin-left: 2rem;">
-                ${sortedEras.map(era => `
-                    <div class="era-group" style="margin-bottom: 5rem;">
-                        <h4 style="font-size:1.5rem; color:var(--color-premium); margin-bottom: 2rem; position:relative;">
-                            <span style="position:absolute; left: calc(-3rem - 11px); top: 50%; transform:translateY(-50%); width:20px; height:20px; background:var(--color-bg); border-radius:50%; border:4px solid var(--color-premium);"></span>
-                            ${era}
-                        </h4>
-                        ${groups[era].map(w => `
-                            <div class="timeline-entry" onclick="State.todayWord=(typeof WORDS !== 'undefined') ? WORDS.find(x=>x.id==='${w.id}') : null;navigate('today')" style="position:relative; margin-bottom:3rem; cursor:pointer;">
-                                <div style="position:absolute; left: calc(-3rem - 9px); top: 8px; width:16px; height:16px; background:var(--color-accent); border-radius:50%; border:4px solid var(--color-bg);"></div>
-                                <h2 style="font-size:1.8rem; color:var(--color-accent);">${w.word}</h2>
-                                <p style="margin-top:0.5rem; opacity:0.8;">${w.meaning}</p>
+        <div class="timeline-root fade-in" style="position:relative; display:flex; flex-direction:column; max-width:900px; margin:0 auto; padding: 2rem 1rem 1rem;">
+            <h3 class="section-label" style="text-align:center; margin-bottom:1.5rem;">River of Etymon (Timeline)</h3>
+
+            <!-- 検索バー -->
+            <div style="margin-bottom:2rem; position:sticky; top:0; z-index:30; background:var(--color-bg); padding:0.75rem 0;">
+                <input id="timeline-search" type="text" placeholder="🔍 Search words in timeline..."
+                    style="width:100%; padding:0.75rem 1.2rem; border-radius:100px; border:1.5px solid var(--color-border); background:var(--color-surface); color:var(--color-text); font-size:0.95rem; outline:none; transition:border-color 0.2s;"
+                    oninput="window._tlSearch(this.value)" />
+            </div>
+
+            <div style="display:flex; gap:1.5rem; align-items:flex-start; position:relative;">
+                <!-- タイムライン本体 -->
+                <div id="timeline-scroll-area" style="flex:1; min-width:0;">
+                    <div class="timeline-thread" id="timeline-thread" style="position:relative; border-left: 2px solid var(--color-border); padding-left: 2.5rem; margin-left: 1rem;">
+                        ${sortedEras.map(era => `
+                            <div class="era-group" id="${eraToId(era)}" data-era="${era}" style="margin-bottom: 4rem;">
+                                <h4 style="font-size:1.3rem; color:var(--color-premium); margin-bottom: 1.5rem; position:relative;">
+                                    <span style="position:absolute; left: calc(-2.5rem - 11px); top: 50%; transform:translateY(-50%); width:20px; height:20px; background:var(--color-bg); border-radius:50%; border:4px solid var(--color-premium);"></span>
+                                    ${era}
+                                </h4>
+                                <div class="era-entries">
+                                ${allGroups[era].map(w => `
+                                    <div class="timeline-entry" data-word="${w.word.toLowerCase()}" data-meaning="${(w.meaning || '').toLowerCase()}"
+                                        onclick="State.todayWord=(typeof WORDS !== 'undefined') ? WORDS.find(x=>x.id==='${w.id}') : null;navigate('today')"
+                                        style="position:relative; margin-bottom:2rem; cursor:pointer; padding:1rem 1.2rem; border:1px solid var(--color-border); border-radius:16px; background:var(--color-surface); transition:all 0.2s ease;">
+                                        <div style="position:absolute; left: calc(-2.5rem - 9px); top: 18px; width:14px; height:14px; background:var(--color-accent); border-radius:50%; border:3px solid var(--color-bg);"></div>
+                                        <h2 style="font-size:1.4rem; color:var(--color-accent); margin-bottom:0.3rem;">${w.word}</h2>
+                                        <p style="opacity:0.75; font-size:0.9rem;">${w.meaning || ''}</p>
+                                    </div>
+                                `).join('')}
+                                </div>
                             </div>
                         `).join('')}
                     </div>
-                `).join('')}
+                    <p id="tl-no-results" style="display:none; text-align:center; padding:4rem; opacity:0.5;">No words matched your search.</p>
+                </div>
+
+                <!-- 右サイドバー: 時代ナビゲーター -->
+                <div id="era-nav" style="
+                    position: sticky;
+                    top: 100px;
+                    width: 130px;
+                    flex-shrink: 0;
+                    max-height: calc(100vh - 140px);
+                    overflow-y: auto;
+                    scrollbar-width: none;
+                    padding: 0.5rem 0;
+                    border-left: 2px solid var(--color-border);
+                    padding-left: 0.75rem;
+                ">
+                    <p style="font-size:0.65rem; text-transform:uppercase; letter-spacing:0.08em; opacity:0.4; margin-bottom:0.5rem;">Jump to Era</p>
+                    ${sortedEras.map(era => `
+                        <button onclick="document.getElementById('${eraToId(era)}').scrollIntoView({behavior:'smooth', block:'start'})"
+                            id="nav-${eraToId(era)}"
+                            class="era-nav-item"
+                            style="display:block; width:100%; text-align:left; background:none; border:none; color:var(--color-text-dim); font-size:0.72rem; padding:0.3rem 0.4rem; margin-bottom:0.1rem; cursor:pointer; border-radius:6px; line-height:1.4; transition:all 0.15s; white-space:normal; word-break:break-word;">
+                            ${era}
+                        </button>
+                    `).join('')}
+                </div>
             </div>
         </div>
     `;
+
+    // ホバースタイル付与
+    viewContainer.querySelectorAll('.timeline-entry').forEach(el => {
+        el.addEventListener('mouseenter', () => { el.style.borderColor = 'var(--color-accent)'; el.style.transform = 'translateX(4px)'; });
+        el.addEventListener('mouseleave', () => { el.style.borderColor = 'var(--color-border)'; el.style.transform = ''; });
+    });
+
+    // IntersectionObserver: 現在表示中の時代をサイドバーでハイライト
+    const eraGroups = viewContainer.querySelectorAll('.era-group');
+    const observer = new IntersectionObserver((entries) => {
+        entries.forEach(entry => {
+            const era = entry.target.dataset.era;
+            const navBtn = document.getElementById(`nav-${eraToId(era)}`);
+            if (!navBtn) return;
+            if (entry.isIntersecting) {
+                navBtn.style.color = 'var(--color-accent)';
+                navBtn.style.fontWeight = '700';
+                navBtn.style.background = 'rgba(59,130,246,0.08)';
+            } else {
+                navBtn.style.color = 'var(--color-text-dim)';
+                navBtn.style.fontWeight = '';
+                navBtn.style.background = '';
+            }
+        });
+    }, { rootMargin: '-20% 0px -60% 0px' });
+    eraGroups.forEach(el => observer.observe(el));
+
+    // 検索機能
+    window._tlSearch = (query) => {
+        const q = query.trim().toLowerCase();
+        let anyVisible = false;
+        eraGroups.forEach(eraGroup => {
+            const entries = eraGroup.querySelectorAll('.timeline-entry');
+            let eraHasMatch = false;
+            entries.forEach(entry => {
+                const word = entry.dataset.word || '';
+                const meaning = entry.dataset.meaning || '';
+                const match = !q || word.includes(q) || meaning.includes(q);
+                entry.style.display = match ? '' : 'none';
+                if (match) eraHasMatch = true;
+            });
+            eraGroup.style.display = eraHasMatch ? '' : 'none';
+            const navBtn = document.getElementById(`nav-${eraToId(eraGroup.dataset.era)}`);
+            if (navBtn) navBtn.style.opacity = eraHasMatch ? '1' : '0.3';
+            if (eraHasMatch) anyVisible = true;
+        });
+        const noResults = document.getElementById('tl-no-results');
+        if (noResults) noResults.style.display = anyVisible ? 'none' : 'block';
+    };
 }
+
 function showToast(msg) {
     const container = document.getElementById('toast-container');
     const t = document.createElement('div');

@@ -580,6 +580,28 @@ main {
     }
 }
 
+
+/* Timeline View */
+/* mainの幅制限をタイムラインには適用しない */
+main:has(.timeline-root) {
+    max-width: 100%;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+#timeline-search:focus {
+    border-color: var(--color-accent);
+}
+
+#era-nav::-webkit-scrollbar {
+    display: none;
+}
+
+.era-nav-item:hover {
+    color: var(--color-text) !important;
+    background: var(--color-surface) !important;
+}
+
 /* Loading Spinner */
 .loading-indicator {
     display: flex;
