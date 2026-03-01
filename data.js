@@ -34175,5 +34175,481 @@ const WORDS = [
                 "source": "Oxford English Dictionary",
                 "date": "2026-03-01",
                 "era": "Middle English, 14th Century"
+        },
+        {
+                "id": "complain",
+                "word": "Complain",
+                "part_of_speech": "verb",
+                "meaning": "不満を表すこと、または訴えること",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "com-",
+                                        "type": "prefix",
+                                        "meaning": "ともに",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "-plangere",
+                                        "type": "root",
+                                        "meaning": "叩く、打つ",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The term 'complain' originates from the Latin 'com-', meaning 'together', and 'plangere', meaning 'to beat or lament'."
+                },
+                "core_concept": {
+                        "en": "A shared lament or expression of dissatisfaction.",
+                        "ja": "共に訴える嘆きの声"
+                },
+                "thinking_layer": "人間は古来より社会的な存在であり、自己の不満を他者と共有することで絆を深め、理解を得ようと努めてきた。その行為は単なる不満の訴えにとどまらず、魂の叫びとも言える。『不満』とは単なるネガティブな感情の表現ではなく、内に秘めた揺るがない真実を外界に伝えるための声である。それは共鳴し、反響を生むことを期待して発される、ある種の求道行である。その根底には、自己と他者の境界を超え、新たな共感の場を開拓する力が潜んでいる。このようにして、『不満を述べる』という行為は、個々の孤独な闘いを共同のものに変え、そこに新たな理解を構築していくのである。それは単なる醜態を晒す行為ではなく、愛の表現ですらある。自身の望む世界を探求し、そこに他者を迎え入れるための最初の一歩として機能するのだ。",
+                "synonyms": [
+                        "grumble",
+                        "lament"
+                ],
+                "antonyms": [
+                        "praise",
+                        "commend"
+                ],
+                "aftertaste": "The act of complaining is an echo of our shared human longing for connection.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "plangere",
+                                        "meaning": "to beat, lament"
+                                }
+                        ],
+                        "points": [
+                                "『plangere』はラテン語で物理的に叩くことを意味し、それが人々の心の悩みを打ちつける行為に転じた点が興味深い。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "14th Century"
+        },
+        {
+                "id": "assist",
+                "word": "Assist",
+                "part_of_speech": "noun/verb",
+                "meaning": "援助すること、補助すること",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "ad-",
+                                        "type": "prefix",
+                                        "meaning": "～の方へ",
+                                        "lang": "ラテン語"
+                                },
+                                {
+                                        "text": "sistere",
+                                        "type": "root",
+                                        "meaning": "立つ",
+                                        "lang": "ラテン語"
+                                }
+                        ],
+                        "original_statement": "The word 'assist' comes from the Latin 'assistere', meaning 'to stand by'."
+                },
+                "core_concept": {
+                        "en": "To stand with gentle support.",
+                        "ja": "穏やかな支えとともに立つこと"
+                },
+                "thinking_layer": "援助とは、他者の元に静かに佇む行為である。風が木々を優しく撫でるように、援助は自然で、相手の存在をありのままに受け入れる。日本の古き良き文化においても、その精神は深く根付いている。例えば、茶道や禅において他者への心遣いは、形式や所作に現れる。この形而上的な関わり方は、ただ単に『助ける』という行為を超え、互いの存在を認め合う自己の在り方までも含んでいる。カントも述べたように、人間は目的そのものであり、その目的に寄り添うことが他者への最大の敬意となる。人間の行動は、単なる物質的な援助を超え、精神的な共鳴や心の支えを生む。慈しみ深い視線や肯定する言葉が、厳しい状況の中でどれほどの力を持つことか。人は、人を育む。援助することにより、私たちは共に立ち、共に成長を遂げるのだ。援助は、二者の間に新たな物語を紡ぐ始まりである。",
+                "synonyms": [
+                        "aid",
+                        "support"
+                ],
+                "antonyms": [
+                        "hinder",
+                        "obstruct"
+                ],
+                "aftertaste": "To assist is to weave the threads of solidarity.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "sistere",
+                                        "meaning": "to stand"
+                                }
+                        ],
+                        "points": [
+                                "援助の語源はラテン語から来ており、時間とともにその意味合いが広がり、物理的な手助けだけでなく心の支えになることを示すようになった。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "Late Middle English"
+        },
+        {
+                "id": "confuse",
+                "word": "Confuse",
+                "part_of_speech": "verb",
+                "meaning": "混乱させる",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "con-",
+                                        "type": "prefix",
+                                        "meaning": "ともに",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "fundere",
+                                        "type": "root",
+                                        "meaning": "注ぐ、流す",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "Derived from Latin 'confundere', meaning 'to mingle together'."
+                },
+                "core_concept": {
+                        "en": "To dissolve clarity into the realm of the ambiguous.",
+                        "ja": "明晰さを曖昧の領域に溶かすこと"
+                },
+                "thinking_layer": "混乱とは、明瞭さを曖昧さの海に放たれる行為です。それは、我々の内面の確かさを取り除き、無限の可能性と未知の中に我々を投げ込む行為でもあります。混乱の中では、安定性という岩礁を失い、思考は無定形な波となり漂います。この中では、結論を結ぶことはまるで分岐点のない道路を歩むかのよう。混乱は時に恐怖と不安を誘発しますが、それはまた、新たな知識と理解を生む肥沃な土地でもあるのです。明確であればこそ、人は成長し、混乱によってこそ哲学は深まる。古代より、混乱は生命の一部として受け入れられ、時には創造の母とも形容されます。それは同時に、限界を超えて考えることを促す試練であり、心の柔軟性を試す鍛錬です。この混乱という神秘的な状態は、自己を見つめ直し、存在の本質に対する新たな視点をもたらすものなのです。",
+                "synonyms": [
+                        "Perplex",
+                        "Bewilder"
+                ],
+                "antonyms": [
+                        "Clarify",
+                        "Explain"
+                ],
+                "aftertaste": "In confusion, the seeds of enlightenment are often sowed.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "fundus",
+                                        "meaning": "底"
+                                }
+                        ],
+                        "points": [
+                                "ラテン語の「confundere」は元々「一緒に注ぐ」という意味で、異なる要素を結びつける力動性を表しています。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "Late Latin, 14th Century"
+        },
+        {
+                "id": "describe",
+                "word": "Describe",
+                "part_of_speech": "verb",
+                "meaning": "説明する、描写する",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "de-",
+                                        "type": "prefix",
+                                        "meaning": "下に、元から",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "scribere",
+                                        "type": "root",
+                                        "meaning": "書く",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'describe' originates from the Latin 'describere', composed of 'de-' meaning 'down' or 'off', and 'scribere', meaning 'to write'."
+                },
+                "core_concept": {
+                        "en": "The elegant dance of words painting reality.",
+                        "ja": "言葉の舞が現実を描く"
+                },
+                "thinking_layer": "言語の中で「記述する」という概念は、それ自身が形となることを拒む無形の胃袋に満たされている。一方で、描かれる物の本質を捉える行為は、その対象の一部を永遠に失わせるかもしれないという恐れを抱える。それはまるで魂の一部をページに固定することで生を与えられるかのようなプロセスである。哲学的に考えると、記述とは、物とその見方の間に架かる橋かもしれない。言葉がその橋を強固にするが、同時に、言語の限界がその役割を制約する。書くことは、過去、現在、そして未来を言葉によって結びつける行為でもある。それ故に、記述とは時間の線引きを超え、普遍的な真理を捕捉しようとする努力なのだ。しかし、その試みの約束は、常にその不完全さを自覚することにある。何をどう記述するかは、それ自体が創造行為であると理解し、各々の語が持つ重さとその影響を熟考しながら進むべき道である。",
+                "synonyms": [
+                        "depict",
+                        "explain"
+                ],
+                "antonyms": [
+                        "confuse",
+                        "misrepresent"
+                ],
+                "aftertaste": "To describe is to translate the abstract into the tangible.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "scribere",
+                                        "meaning": "to write"
+                                }
+                        ],
+                        "points": [
+                                "記述は言語による現実の一つの側面の捉え方であり、書く行為がその橋渡しをする。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Late Middle English, from Latin"
+        },
+        {
+                "id": "compile",
+                "word": "Compile",
+                "part_of_speech": "verb",
+                "meaning": "編集する、収集する",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "com-",
+                                        "type": "prefix",
+                                        "meaning": "共に",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "pilare",
+                                        "type": "root",
+                                        "meaning": "積み重ねる",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "From the Latin 'compilare', meaning to aggregate or collect, originating from the medieval use of gathering texts and writings."
+                },
+                "core_concept": {
+                        "en": "The meticulous art of gathering and weaving fragments of knowledge into a harmonious whole.",
+                        "ja": "知識の断片を集め、調和のとれた全体へと編む緻密な技術"
+                },
+                "thinking_layer": "「編纂」という行為は、単なる情報の集積以上のものである。それは、宇宙の中で散らばる無数の星々を一つの視覚に編み込むことと似ている。編纂者は、各々の情報の背後に潜む物語を読み解き、点と点をつなぎ、それを一つの物語として形作る責任を担っている。それは、単に事象や情報を集めるのではなく、それらを一つの詩的な作品として昇華させる行為である。編纂は、単なるデータの集約ではなく、人間の知識の深みに潜む知恵を引き出し、その後に続く未来への橋を架ける作業でもある。千年の時を超え、過去の声が未来の探求者に語りかける場を作ること。それこそが編纂の持つ哲学的美であり、この行為が内包する真の意義と言えよう。",
+                "synonyms": [
+                        "assemble",
+                        "aggregate"
+                ],
+                "antonyms": [
+                        "disperse",
+                        "scatter"
+                ],
+                "aftertaste": "To compile is to craft chaos into clarity.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "com-",
+                                        "meaning": "together"
+                                },
+                                {
+                                        "term": "pilare",
+                                        "meaning": "to gather, stack"
+                                }
+                        ],
+                        "points": [
+                                "「コンパイル」は、ラテン語起源の言葉であり、情報の単なる集積ではなく、それを意味のある形で整え直す行為を表している。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Medieval Latin"
+        },
+        {
+                "id": "comfort",
+                "word": "Comfort",
+                "part_of_speech": "noun/verb",
+                "meaning": "心の安らぎや慰め",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "com-",
+                                        "type": "prefix",
+                                        "meaning": "共に",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "fort-",
+                                        "type": "root",
+                                        "meaning": "強さ",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "Derived from the Latin 'confortare', meaning 'to strengthen greatly'."
+                },
+                "core_concept": {
+                        "en": "To be enveloped in warmth amidst the trials of existence.",
+                        "ja": "生の試練の中で温もりに包まれること"
+                },
+                "thinking_layer": "『快適さ』という言葉は、外的な刺激や内的な悩みから解放され、心の安寧が訪れる瞬間を象徴しています。それは、孤高の旅を続ける者が一時の温もりを享受し、そこに希望を見出すことでもあります。この概念は、人生の風雨に直面する際の盾としての役割を果たし、我々がどのようにして喜びや悲しみを乗り越えるかを助ける存在となります。『快適さ』は、同時に社会的な結束の象徴でもあり、人々が互いに思いやりを持ち、共に歩むための橋を形作ります。古代のことわざにあるように、「心の安らぎは心の強さ」であり、我々が相互に理解し合うことの重要性を教えてくれます。そして、深い哲学的探求において、この『快適さ』は、存在の意義を問い直し、真実の自分に出会うための旅路を照らす灯火となるでしょう。",
+                "synonyms": [
+                        "Consolation",
+                        "Relief"
+                ],
+                "antonyms": [
+                        "Discomfort",
+                        "Distress"
+                ],
+                "aftertaste": "Comfort is the embrace of tranquility in a turbulent world.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "confortare",
+                                        "meaning": "to strengthen greatly"
+                                }
+                        ],
+                        "points": [
+                                "『快適さ』の語源は、中世の騎士道精神にも関連し、困難に直面する際の内なる強さとしての役割を持つ。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "Middle English, 12th Century"
+        },
+        {
+                "id": "simmering",
+                "word": "Simmering",
+                "part_of_speech": "verb",
+                "meaning": "とろ火で煮ること",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "sim(m)",
+                                        "type": "root",
+                                        "meaning": "沸騰",
+                                        "lang": "Old Norse"
+                                },
+                                {
+                                        "text": "er",
+                                        "type": "suffix",
+                                        "meaning": "する",
+                                        "lang": "English"
+                                }
+                        ],
+                        "original_statement": "The term 'simmer' originates from the late Middle English 'simperen', which in turn derives from the Old Norse word 'simbra', meaning to slowly boil."
+                },
+                "core_concept": {
+                        "en": "A gentle dance of heat and liquid, where anticipation breathes.",
+                        "ja": "熱と液体が緩やかに舞い、期待が息づく瞬間"
+                },
+                "thinking_layer": "生命の奥底で静かに動くものがあります。『煮る』という行為は一見単なる調理技法に過ぎないかもしれませんが、心の奥深くに潜む感情や思考がゆっくりと膨れ上がり、熟成されるように熱を通して変化する様子を示しています。人間の感情や考えが心の中でと少しずつ成熟し、新たなパースペクティブや結論へ至る過程を、まるで小さな泡が液面に浮き上がるごとく象徴します。沈黙の中に秘められた動き、この静かな炎の踊りは、個々の経験と内面の旅に光をもたらし、心の平穏と激しさを巧みに抱きしめる人生の一面。煮ることは、目に見えぬ内なる変化が表面へと現れ、時の流れの中で変化を受け入れ、新たなる歩みを始めるための貴重な途上なのです。温もりとともに育まれる深い哲学は、その動きのすべて一つ一つが永遠の意味を持つことを教えてくれます。",
+                "synonyms": [
+                        "boiling",
+                        "stewing"
+                ],
+                "antonyms": [
+                        "freezing",
+                        "cooling"
+                ],
+                "aftertaste": "In the silent tension between heat and water, life murmurs wisdom.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "simmer",
+                                        "meaning": "to make calm or quiet"
+                                }
+                        ],
+                        "points": [
+                                "中世英語の『simperen』は、単なる料理用語を超えて、内面的な成長と熟成の比喩としての調理法を象徴している。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Middle English"
+        },
+        {
+                "id": "concourse",
+                "word": "Concourse",
+                "part_of_speech": "noun",
+                "meaning": "群衆または人々の流れ",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "com-",
+                                        "type": "prefix",
+                                        "meaning": "共に",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "currere",
+                                        "type": "root",
+                                        "meaning": "走る",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'concourse' originates from the Latin 'concursus', combining 'com-' meaning 'together' and 'currere' meaning 'to run'."
+                },
+                "core_concept": {
+                        "en": "A flowing together of people or things, a meeting of motion.",
+                        "ja": "人や物の流れの交わり、動きの集まり"
+                },
+                "thinking_layer": "「群衆」は、一つの場所に集まる多くの魂の踊りであり、それぞれが異なる物語を持ちながら、一瞬の内に織り込まれた運命の糸のようである。人々はあたかも見えない指揮者に導かれるかのように、接触し、別れ、交差する。人生の万華鏡の中では、出会いや別れが新たな模様を描き出し、各々が一瞬の煌めきを放つ。群衆の中にいるとき、我々は自分自身を超越し、個々のアイデンティティを超えて、共鳴と共存のリズムを感ずる。この瞬間的な全体性の中で、全ての心が一つの鼓動となり、短い刹那の間に、宇宙を形作る根本的な調和を経験する。このような体験は、人々が集い、触れ合い、そして再び散らばるという、絶え間なく変わる生命の流れの中にある。群衆の中にいることで、生きることの深遠さと儚さ、そしてその両者が同時に存在しうるという、人生の不可思議さを感じるのである。",
+                "synonyms": [
+                        "gathering",
+                        "assembly"
+                ],
+                "antonyms": [
+                        "separation",
+                        "isolation"
+                ],
+                "aftertaste": "A concourse is the silent poetry of movement and connection.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "com-",
+                                        "meaning": "together"
+                                },
+                                {
+                                        "term": "currere",
+                                        "meaning": "to run"
+                                }
+                        ],
+                        "points": [
+                                "『コンコース』という語は、ラテン語の『コン（共に）』と『クルレ（走る）』から形成された。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Middle English, 14th Century"
+        },
+        {
+                "id": "illustration",
+                "word": "Illustration",
+                "part_of_speech": "noun",
+                "meaning": "概念または物体を視覚的に説明または明確にする行為",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "illustr-",
+                                        "type": "root",
+                                        "meaning": "照らす",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "-ation",
+                                        "type": "suffix",
+                                        "meaning": "状態、過程",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'illustration' first appeared in the 14th century, deriving from Latin 'illustratio(n-)', from the verb 'illustrare' meaning 'to light up, irradiate'."
+                },
+                "core_concept": {
+                        "en": "A radiant canvas where ideas and forms dance into clarity.",
+                        "ja": "アイデアと形が明瞭さに舞う輝かしいキャンバス"
+                },
+                "thinking_layer": "世界を彩る手段としてのイラストレーションは、心の陰影を照らして真実を見せる。光が闇に射すように、イラストレーションは目に見えない思考や感情を明示する不思議な技術である。かつての語源はラテン語の「illustrare」であり、「照らす」という意味を持つ。これは、単なる絵ではなく、本質を視覚化する行為である。光を照らす行為が時に恐れられ、時に崇められてきたように、イラストレーションも人間の存在に内在する二面性を持っている。視覚は時に言語を超えて、心に直接語りかける力を持ち、イラストレーションはその極みである。この芸術は、無限の想像力と深い洞察を求め、人間性の奥深くに宿る真実をそっと描く。表面的な美しさの背後に、どれほどの知恵と知識が隠れているかを示す中で、イラストレーションの光は常に真理と虚偽の間を揺れ動く。色と形のダンスにおいて、私たちはその奥に潜む無言の物語を見つけることができる。この視覚化の行為こそが、人間社会の知識伝達の根幹であることが明らかとなる瞬間だ。",
+                "synonyms": [
+                        "Depiction",
+                        "Representation"
+                ],
+                "antonyms": [
+                        "Obfuscation",
+                        "Concealment"
+                ],
+                "aftertaste": "With each stroke, clarity emerges from chaos.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "illustrare",
+                                        "meaning": "to enlighten or irradiate"
+                                }
+                        ],
+                        "points": [
+                                "イラストレーションは視覚的な明瞭化プロセスであり、情報や感情を具体的に見せる手段である。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "14th Century"
         }
 ];
