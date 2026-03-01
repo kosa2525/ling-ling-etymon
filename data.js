@@ -30441,5 +30441,333 @@ const WORDS = [
                 "source": "The Oxford English Dictionary",
                 "date": "2026-03-01",
                 "era": "Middle English, 12th Century"
+        },
+        {
+                "id": "bamboozle",
+                "word": "Bamboozle",
+                "part_of_speech": "verb",
+                "meaning": "人を欺く、混乱させる行為",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "unknown-",
+                                        "type": "root",
+                                        "meaning": "不明",
+                                        "lang": "English"
+                                }
+                        ],
+                        "original_statement": "The word 'bamboozle' is believed to have been introduced in the late 17th century. Its origins are uncertain, though some suggest a connection to Scottish or French dialects."
+                },
+                "core_concept": {
+                        "en": "Deception wrapped in the art of confusion.",
+                        "ja": "欺瞞と混乱の芸術が一体となったもの"
+                },
+                "thinking_layer": "言葉の根源を辿るために、時に我々は時をさかのぼらなければならない。『bamboozle』という言葉は、その音の調べの中に遊び心と謎を秘めている。人の心を欺き、表面の背後に何層もの意味を潜ませる行為は、まるで音楽の中の不協和音のように際どく、しかし魅惑的である。この言葉を用いるとき、人は巧みに他者を混乱させ、その真実と虚構の境界を曖昧にするのだ。一見無邪気でありながら、その裏側には人間の本質的な欲望と弱みがよどんでいる。時に我々はこのような言葉を使うことによって、自らの実存の深みに触れることすらあるのだ。この不完全さこそが、『bamboozle』が持つ哲学的な美の一端であり、人々の記憶に永遠に刻まれる所以である。すべての物事がクリアな世界では色褪せてしまう幻想の風景を、この唯一無二の言葉は描き出す。",
+                "synonyms": [
+                        "Confuse",
+                        "Deceive"
+                ],
+                "antonyms": [
+                        "Clarify",
+                        "Reveal"
+                ],
+                "aftertaste": "To bamboozle is to dance with illusion and truth.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "bamboozle",
+                                        "meaning": "To deceive or mystify"
+                                }
+                        ],
+                        "points": [
+                                "『bamboozle』という言葉の起源は謎に包まれており、音象経由の古い俗語から派生した可能性があるとの考察もある。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Late 17th Century"
+        },
+        {
+                "id": "quench",
+                "word": "Quench",
+                "part_of_speech": "verb",
+                "meaning": "消す、抑える、水分を与えて鎮める",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "cwoencan",
+                                        "type": "root",
+                                        "meaning": "消す、鎮める",
+                                        "lang": "Old English"
+                                }
+                        ],
+                        "original_statement": "The word 'quench' originates from the Old English 'cwoencan', implying to extinguish or suppress, reflecting its use in both physical and metaphorical contexts."
+                },
+                "core_concept": {
+                        "en": "The gentle extinguishing of flames and desires alike.",
+                        "ja": "炎や欲望を静かに消すこと。"
+                },
+                "thinking_layer": "「鎮める」という行為は、ただ物理的な炎を消す行動だけではない。それは心の火をも消す、精神的な鎮魂のプロセスにも通じる。古代から、人々は自然の力を恐れ、敬い、それを制御する術を模索してきた。水を注ぎ火を消すという行為は、単なる力の行使ではなく、自然の理を敬い、その一部として生きることの象徴でもある。火は生命を支えるが、制御を失えば破壊をもたらす。そのため「quench」という言葉には、静かに、穏やかに、そして慎重に力を行使するという、深遠な哲学が隠されている。それは力と思慮のバランスを取る人間の営みの縮図であり、古代の知恵が現代にも語りかけている。誰もが内に抱える情熱や怒り、悲しみの炎をどう鎮めるか、これは普遍的な人間の課題である。鎮静とは、決して抹消することではなく、調和を取ることであり、再び新たな息吹を吹き込むための休息の瞬間なのだ。",
+                "synonyms": [
+                        "Extinguish",
+                        "Satisfy"
+                ],
+                "antonyms": [
+                        "Ignite",
+                        "Kindle"
+                ],
+                "aftertaste": "The act of quenching transcends mere physicality, echoing into the realms of spirit and soul.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "cwoencan",
+                                        "meaning": "To extinguish, suppress"
+                                }
+                        ],
+                        "points": [
+                                "この言葉は、物理と精神の調和に関する古代の知恵を現代にもたらす一例として、非常に豊かな語源を持つ。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Old English, Pre-12th Century"
+        },
+        {
+                "id": "swindle",
+                "word": "Swindle",
+                "part_of_speech": "noun/verb",
+                "meaning": "詐欺やだまし取る行為",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "swindeln",
+                                        "type": "verb",
+                                        "meaning": "人を欺く",
+                                        "lang": "ドイツ語"
+                                }
+                        ],
+                        "original_statement": "The word ‘swindle’ was borrowed in the late 18th century from the German word ‘swindeln’, which means to cheat or trick."
+                },
+                "core_concept": {
+                        "en": "A deceitful dance on the stage of human desires.",
+                        "ja": "人間の欲望の舞台での詐欺的な舞踊"
+                },
+                "thinking_layer": "人間の本質としての詐欺行為は、一見、虚構の上に築かれた虚しさの象徴と見なされがちです。しかし、その奥には切実な願いや欲望が潜んでいます。詐欺は善悪の境界を曖昧にし、現実と幻影の狭間に人々を立たせます。詐欺師は、他者の夢を自在に操り、まるで劇作家のように物語を紡ぎます。彼らは、人々の心の隙間を巧みに読み取り、隠された欲望を引き出す術を心得ています。詐欺は、倫理的に非難されるべき行為ですが、その背後には人間の飽くなき欲望と、幻想が生み出す儚さの哲学が横たわっています。物質的な利益を越えて、人の心を欺く行為は、虚構と現実の境界を揺るがす一種の芸術であり、人々の心に忘れられない印象を刻み込みます。詐欺は単なる犯罪として片付けるには、あまりにも人間の本質的な側面に深く根ざしているのです。",
+                "synonyms": [
+                        "defraud",
+                        "cheat"
+                ],
+                "antonyms": [
+                        "honesty",
+                        "integrity"
+                ],
+                "aftertaste": "The shadow of deceit lingers long after the tale has ended.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "swindeln",
+                                        "meaning": "to cheat or deceive"
+                                }
+                        ],
+                        "points": [
+                                "『swindle』という言葉は、ドイツ語の『swindeln』を語源とし、18世紀末に借用されました。これは、人間の欲望に付け込んで欺く行為を意味します。"
+                        ]
+                },
+                "source": "Oxford English Dictionary, Merriam-Webster",
+                "date": "2026-03-01",
+                "era": "18th Century"
+        },
+        {
+                "id": "yawn",
+                "word": "Yawn",
+                "part_of_speech": "noun/verb",
+                "meaning": "あくびをする行為またはその際に発生する開口の動き。",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "geonian-",
+                                        "type": "root",
+                                        "meaning": "開く",
+                                        "lang": "古英語"
+                                }
+                        ],
+                        "original_statement": "The word 'yawn' can be traced back to the Old English word 'geonian', which predominantly meant 'to open the mouth wide'."
+                },
+                "core_concept": {
+                        "en": "A silent symphony of opening towards the cosmos.",
+                        "ja": "宇宙へと開かれる静かな交響曲。"
+                },
+                "thinking_layer": "あくびは、肉体の生理的現象であるが、その根底には人間の深い内的思索の影が潜んでいる。無意識のうちに口を大きく開け、呼吸を深め、瞬間瞬間を解放するような動作である。この動作を通じて、生と夢、目覚めと休息の間に無声の対話が生まれる。まるで瞬間的に時空を越え、忘却の淵から新たな覚醒に導かれるかのように、あくびは私たちを人間らしさの深奥へと導く。また、共感を呼ぶ行為でもあるため、私たちはあくびを介して他者の存在を肌で感じ、霊的なつながりを強める。虚空の中に広がる無限の宇宙の一部として、私たちのあくびは目に見えないもの、日常には存在しないが重要なものを象徴している。この静かな風景の中で、人間は内面的な問いを立て、存在の神秘を探るのである。",
+                "synonyms": [
+                        "gape",
+                        "stretch"
+                ],
+                "antonyms": [
+                        "close",
+                        "shut"
+                ],
+                "aftertaste": "In the symphony of silence, a yawn transcends the ordinary.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "geonian",
+                                        "meaning": "to open"
+                                }
+                        ],
+                        "points": [
+                                "古英語の‘geonian’は現代の‘yawn’に変化したが、その意味は大きくは変わっていない。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Old English"
+        },
+        {
+                "id": "guard",
+                "word": "Guard",
+                "part_of_speech": "noun/verb",
+                "meaning": "監視や保護をする行為、あるいはその人",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "proto-germanic *wardō-",
+                                        "type": "root",
+                                        "meaning": "見る、守る",
+                                        "lang": "Proto-Germanic"
+                                },
+                                {
+                                        "text": "old french garder",
+                                        "type": "root",
+                                        "meaning": "見守る",
+                                        "lang": "Old French"
+                                }
+                        ],
+                        "original_statement": "The word 'guard' stems from the Old French 'garder', which itself traces back to the Germanic root *wardō, signifying the act of watching or protecting."
+                },
+                "core_concept": {
+                        "en": "A vigilant watcher standing against the chaos of the world.",
+                        "ja": "世界の混沌に抗う目を光らせる守護者"
+                },
+                "thinking_layer": "『守る』という行為は、単に存在を見張り、外的危険からの防衛を意味するに留まらず、それは人間の存在そのものを支える哲学的な柱でもある。守護者の目は単なる物理的な視線を超えて、時間と共に朽ちることなき信頼の織物を編む。心の深く内なる境界に立つこれらの守護者は、孤独とそれに抗う勇気の象徴である。これらはただの壁ではなく、その向こう側に広がる時空の神秘へと私たちを誘う窓でもある。したがって、ガードという言葉は、その語源から現在に至るまで、私たちがどう自分自身と向き合い、他者と共に在るかを示唆する深い哲学的な意味を持つのである。",
+                "synonyms": [
+                        "protector",
+                        "sentinel"
+                ],
+                "antonyms": [
+                        "endanger",
+                        "neglect"
+                ],
+                "aftertaste": "A guardian stands firm against the tides of uncertainty.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "ward",
+                                        "meaning": "to watch or keep guard"
+                                }
+                        ],
+                        "points": [
+                                "『ガード』という単語は、単なる防御や監視の動作を表すだけでなく、他者や自己に対する責任感を象徴し、その在り方に根付く信頼と誠実の価値の概念を内包している。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "Old French, Proto-Germanic"
+        },
+        {
+                "id": "write",
+                "word": "Write",
+                "part_of_speech": "verb",
+                "meaning": "書くことや記録すること",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "wrītan",
+                                        "type": "root",
+                                        "meaning": "書く",
+                                        "lang": "古英語"
+                                }
+                        ],
+                        "original_statement": "The English word 'write' comes from the Old English 'wrītan', akin to Old Norse 'ríta'."
+                },
+                "core_concept": {
+                        "en": "The elegant act of leaving a permanent mark upon the flowing sands of time.",
+                        "ja": "時の流れを超えて永遠の痕跡を残す行為の美しさ"
+                },
+                "thinking_layer": "書くという行為は、人間が時空を旅し、思考を形にする魔法に他ならない。文字は、我々の存在の証であり、記憶の器である。筆者は羊皮紙や紙に魂を刻み、消えゆく声を残響として形にする。書くことで、私たちは自分の存在を他者と共有し、歴史という無限の書物に足跡を刻む。光輝くインクの一滴は、暗闇を照らし、未来への道しるべとなる。この魔法の行為は、単なる情報の伝達を超え、心と心を繋ぐ絆を編み、時として読む者の人生を変える力を持つ。書かれた言葉は、読む人の胸に静かに届き、記憶の深層で呼吸を続ける。書き手と読み手の間に生まれる静寂の対話は、言語という翼を得て、無限の空を舞う。書くことは、生きることそのものであり、私たちの内なる声が永遠となる瞬間なのである。",
+                "synonyms": [
+                        "Inscribe",
+                        "Scribble"
+                ],
+                "antonyms": [
+                        "Erase",
+                        "Delete"
+                ],
+                "aftertaste": "Words scribed by human hand linger longer than the fleeting breath.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "wrītan",
+                                        "meaning": "to score, outline, draw the figure of"
+                                }
+                        ],
+                        "points": [
+                                "「書く」という語の根源は古英語の「wrītan」に遡り、その意味は「描く」や「輪郭を描く」であった。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Old English, c. 10th Century"
+        },
+        {
+                "id": "swear",
+                "word": "Swear",
+                "part_of_speech": "verb",
+                "meaning": "誓いを立てる、または強く宣言すること",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "swearan-",
+                                        "type": "root",
+                                        "meaning": "誓う",
+                                        "lang": "Old English"
+                                }
+                        ],
+                        "original_statement": "The modern English 'swear' originates from the Old English 'swerian', which means 'to take an oath'."
+                },
+                "core_concept": {
+                        "en": "An invocation of sacred trust through words.",
+                        "ja": "言葉を通じて神聖なる信頼の召喚"
+                },
+                "thinking_layer": "誓うという行為は、言葉により世界を超越し、心の深層に響く神聖なる響きである。それは単なる約束に留まらず、一つの存在の本質を賭けるものである。海のように深い人の心に映し出された忠誠の影、その影は時には光となり、時には闇となる。誓いというものは、人という存在が、この無常の世において絶対を求める行為であり、言葉による時間と空間を超えた契約である。永遠という幻想に対する一時の愛撫、それはまた、自己の神聖なる一部を他者と共有する勇気を伴う旅となる。誓いは、風が砂を形作るように、永劫を信ずる心が織り成す、霧のように儚くも強固な絆である。",
+                "synonyms": [
+                        "Oath",
+                        "Vow"
+                ],
+                "antonyms": [
+                        "Lie",
+                        "Betray"
+                ],
+                "aftertaste": "A single promise, carved in eternal silence.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "swerian",
+                                        "meaning": "to take an oath"
+                                }
+                        ],
+                        "points": [
+                                "古英語の「swerian」は、時代を経るにつれ、個人の忠誠心や神聖な約束を表現する言葉として変容した。それは、単なる言語表現ではなく、社会的、文化的な絆を結ぶ重要な行為として機能している。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "Old English"
         }
 ];
