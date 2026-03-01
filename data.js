@@ -28642,5 +28642,51 @@ const WORDS = [
                 "source": "Oxford English Dictionary",
                 "date": "2026-03-01",
                 "era": "Ancient Greek"
+        },
+        {
+                "id": "blink",
+                "word": "Blink",
+                "part_of_speech": "noun/verb",
+                "meaning": "まばたき",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "blink-",
+                                        "type": "root",
+                                        "meaning": "まばたき",
+                                        "lang": "Middle English"
+                                }
+                        ],
+                        "original_statement": "The term 'blink' originates from the Middle English 'blenken', which means 'to gleam, glitter, sparkle'. It evolved in meaning to describe the quick closing and opening of the eyelids."
+                },
+                "core_concept": {
+                        "en": "A fleeting moment of closure and illumination.",
+                        "ja": "一瞬の閉ざしと光の閃き"
+                },
+                "thinking_layer": "『まばたき』とは、日々の喧騒の中で思考の隙間を見つける行為である。この行為は、瞳を一時的に閉じることによって、心の中に無限の広がりを、それもまた一瞬にして生まれて消える宇宙を作り上げる。まばたきは、我々が瞬きの中で見逃していたものを再認識するため、内側に結びつく瞬間的な止まる奇跡的な形でもある。この現象は、思慮の中での光と影の戦いを象徴し、永劫につづく時の流れの中で、自己認識の小さな契機を提供する。目を開けたときに見える世界は、目を閉じたときの閃光と静寂の中で磨かれる。我々はこの一瞬の中で、無意識の宇宙を生成し、まばゆい光と共に再び現実の表面へと浮かび上がる。心に新たな視点を得るための、深く有機的な舞台、それがまばたきである。",
+                "synonyms": [
+                        "glance",
+                        "flicker"
+                ],
+                "antonyms": [
+                        "stare",
+                        "gaze"
+                ],
+                "aftertaste": "In every blink, a universe is born and ends.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "blenkan",
+                                        "meaning": "to glitter"
+                                }
+                        ],
+                        "points": [
+                                "『blink』の語源的背景には、かつての中英語「blenken」が含まれ、当初は光の反射や輝きを表していたが、この視覚的な概念は、今日の速やかな瞼の動きに転じている。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "Middle English"
         }
 ];
