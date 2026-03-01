@@ -36522,5 +36522,383 @@ const WORDS = [
                 "source": "Oxford English Dictionary",
                 "date": "2026-03-01",
                 "era": "Late Latin (16th Century)"
+        },
+        {
+                "id": "design",
+                "word": "Design",
+                "part_of_speech": "noun/verb",
+                "meaning": "計画や構想を描くこと",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "designare",
+                                        "type": "root",
+                                        "meaning": "指し示す",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "de-",
+                                        "type": "prefix",
+                                        "meaning": "下に",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "signare",
+                                        "type": "root",
+                                        "meaning": "印を付ける",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'design' comes from the Latin 'designare', meaning 'to mark out'. It evolved through Italian and French influences before entering English in the mid-16th century."
+                },
+                "core_concept": {
+                        "en": "The art of envisioning and delineating ideas into tangible forms.",
+                        "ja": "形を持たぬ思考を形にする芸術"
+                },
+                "thinking_layer": "デザインという言葉の奥に潜む哲学は、時の流れに逆らい、無限の可能性が秘められた空間に命を吹き込むことです。それは無秩序の中から秩序を生み出し、人の心に深く訴えかけるメッセージを紡ぎ出します。思考の図面を引き、未来を描く者は、宇宙の創造主の欠片を持ち合わせていると言えましょう。その一筆一筆が持つ力は、見る者と共有する世界観や感動の種として、創造性の大地に花を咲かせます。古の人民が空を見上げ、星々の配列から意味を見出したように、現代のデザイナーは未だ見ぬ風景をキャンバスに描き出します。それは単なる職業を超え、生きとし生けるものの中にある原始の本能に呼応する詩的な行為です。デザインは、人類が夢を現実に変えるための橋であり、自己と他者を繋ぐ生命の記号です。光が陰を引き立て、音楽が沈黙の中で本質を示すように、デザインもまた、その存在を通して我々に問いかけ続けます。それは、未踏の地に刻まれた神秘の道標なのです。",
+                "synonyms": [
+                        "Plan",
+                        "Blueprint"
+                ],
+                "antonyms": [
+                        "Chaos",
+                        "Disorder"
+                ],
+                "aftertaste": "Design is the silent conversation between creator and admirer.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "signare",
+                                        "meaning": "to mark"
+                                }
+                        ],
+                        "points": [
+                                "デザインは人間の創造性と技術が交差する場所を象徴しています。ラテン語の語源から育まれたこの言葉は、日々の生活に彩りを添える不可視の芸術でもあります。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Mid-16th Century"
+        },
+        {
+                "id": "develop",
+                "word": "Develop",
+                "part_of_speech": "verb",
+                "meaning": "発展させる、進展する",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "de-",
+                                        "type": "prefix",
+                                        "meaning": "否定、反対",
+                                        "lang": "ラテン語"
+                                },
+                                {
+                                        "text": "velop-",
+                                        "type": "root",
+                                        "meaning": "包む",
+                                        "lang": "フランス語（古フランス語）"
+                                }
+                        ],
+                        "original_statement": "The word 'develop' originated from the Old French 'desveloper', meaning to unwrap, expose or unfold."
+                },
+                "core_concept": {
+                        "en": "The art of unfolding one's potential in the canvas of existence.",
+                        "ja": "存在のキャンバスにおける可能性を展開する行為"
+                },
+                "thinking_layer": "『発展』とは、ただ単に形あるものを構築することではなく、内に秘めたる可能性を外界に解放する行為である。人間の潜在能力は、まるで無限の夜空に浮かぶ星々のようであり、その光は正しく具現化されることで初めて明らかになる。無限に広がる智の大地において、発展は時折、それ自体が矛盾と葛藤を伴う旅路である。なぜなら、真の『発展』とは己の抱く理想と現実との間、永遠に続く対話によってのみ成し遂げられるからだ。人は往々にして、自らの可能性を疑い、その潜在力を内に押しとどめてしまう。しかし、発展とはその殻を破り、未知の自分へと歩を進める勇気をはぐくむ過程である。それは心の中に眠る光を、崇高な理性と感情の調和によって世界へと解き放つ行為だ。私たちが持つ無限の力は、自己の中に深く根付き、やがて希望と夢を現実のものとするための礎になる。発展は、静穏な世界に新たな変化を呼び起こし、人間存在の新たな意義を創出するのである。",
+                "synonyms": [
+                        "advance",
+                        "expand"
+                ],
+                "antonyms": [
+                        "regress",
+                        "stagnate"
+                ],
+                "aftertaste": "Unwrapping potential in the silent cadence of discovery.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "Latin 'dis'",
+                                        "meaning": "apart, away"
+                                },
+                                {
+                                        "term": "Old French 'veloper'",
+                                        "meaning": "to wrap"
+                                }
+                        ],
+                        "points": [
+                                "語源的見地から『develop』は、内に潜む可能性を外に向けて展開する概念で、その歴史的背景には包まれたものを解く過程が重要とされてきた。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "13th Century (Old French)"
+        },
+        {
+                "id": "transit",
+                "word": "Transit",
+                "part_of_speech": "noun/verb",
+                "meaning": "移動や運送の行為、またはその過程",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "Trans-",
+                                        "type": "prefix",
+                                        "meaning": "横切って",
+                                        "lang": "ラテン語"
+                                },
+                                {
+                                        "text": "it-",
+                                        "type": "root",
+                                        "meaning": "行く",
+                                        "lang": "ラテン語"
+                                }
+                        ],
+                        "original_statement": "The word 'transit' originates from the Latin 'transitus', meaning 'a going across or passage', from 'transire' – 'to go or cross over'."
+                },
+                "core_concept": {
+                        "en": "The ephemeral arc between departure and arrival.",
+                        "ja": "出発と到着を結ぶ儚い弧"
+                },
+                "thinking_layer": "「トランジット」という言葉には、動くという単純な行為以上の深みがあります。それは私たちが日常的に経験する始点と終点を結ぶ見えない線であり、それ自体が旅の一部となる瞬間です。人間の心は、物理的な移動だけでなく、精神や感情の旅にも似た何かを感じることがあります。この「トランジット」は、二つの地点を結ぶ空間として、希望や懐かしさ、そして未来への期待を詰め込む箱舟のように機能します。それは、私たちが自分自身の境界を越えて未知の場所や経験に向かう勇気を象徴しています。地球の景色が車窓を流れ去る中で、人は自分の内なる景色をも見つめ直します。その行為は、新しい視点を見つけるための静かな瞬間をもたらし、過去から未来へと続く自己発見の旅になるでしょう。トランジットには、滞在と変化の間の微妙な美しさがあり、その背後には、移動そのものに秘められた多様な物語を広げる広大なフィールドが広がっています。",
+                "synonyms": [
+                        "passage",
+                        "transport"
+                ],
+                "antonyms": [
+                        "halt",
+                        "immobility"
+                ],
+                "aftertaste": "Transit is the bridge of moments that connects our past to destinations unknown.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "trans-",
+                                        "meaning": "across"
+                                },
+                                {
+                                        "term": "it-",
+                                        "meaning": "go"
+                                }
+                        ],
+                        "points": [
+                                "「トランジット」という言葉は、単なる移動ではなく、それをともなう時間の流れや空間の広がりとして捉えられ、日常の中に潜む深遠な意味を再確認する機会を与えます。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Mid 16th Century"
+        },
+        {
+                "id": "appointment",
+                "word": "Appointment",
+                "part_of_speech": "noun",
+                "meaning": "約束や会合の指定",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "ap-",
+                                        "type": "prefix",
+                                        "meaning": "明確に",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "point-",
+                                        "type": "root",
+                                        "meaning": "指し示す",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "-ment",
+                                        "type": "suffix",
+                                        "meaning": "結果や行為",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'appointment' dates back to the late Middle English period, derived from the Old French 'apointement', which in turn stems from the Late Latin 'appointare', meaning to fix or settle."
+                },
+                "core_concept": {
+                        "en": "A moment sculpted from the fabric of time, where destinies converge by design.",
+                        "ja": "時間の布地から彫刻された瞬間、運命が意図的に交差する場"
+                },
+                "thinking_layer": "『約束』という言葉は、一見すると単なる合意や予定である。しかし、その背後には深い哲学的な意味が隠されている。それは、人間の内部に潜む混沌とした時間感覚を、形あるものとして固定しようとする試みである。どうしても流れてしまう時間の川の中で、ある一点に焦点を当て、その瞬間が個々の存在や意識の交わる場所となるように目指している。これは、時間とは常に変化するものでありながら、同時に永遠であるという二重性を示している。ひとたび約束が交わされると、その瞬間は過去、現在、未来が交わる神秘的な絆を創り出す。これを通じて、人間は自己の時間的存在、または魂の時間の構造を理解しようとする。その瞬間は、ただの事象ではなく、未来への可能性を宿す神聖な場であろう。",
+                "synonyms": [
+                        "Meeting",
+                        "Engagement"
+                ],
+                "antonyms": [
+                        "Cancellation",
+                        "Revocation"
+                ],
+                "aftertaste": "Appointments are the sacred dance of time and intention.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "appoint",
+                                        "meaning": "to fix, to determine"
+                                }
+                        ],
+                        "points": [
+                                "この語源から、『約束』が時間を縛るだけでなく、人間関係や未来の展望までも形作る要素であることが浮き彫りになる。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Late Middle English, derived from Latin roots"
+        },
+        {
+                "id": "fraction",
+                "word": "Fraction",
+                "part_of_speech": "noun",
+                "meaning": "部分、断片",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "fract-",
+                                        "type": "root",
+                                        "meaning": "壊す",
+                                        "lang": "ラテン語"
+                                },
+                                {
+                                        "text": "-ion",
+                                        "type": "suffix",
+                                        "meaning": "行為・プロセス",
+                                        "lang": "ラテン語"
+                                }
+                        ],
+                        "original_statement": "The word 'fraction' originates from the Latin 'fractionem', meaning 'a breaking' or 'fragment'."
+                },
+                "core_concept": {
+                        "en": "A delicate division, an elegant partition of one into parts.",
+                        "ja": "繊細な分割、ひとつを複数の部分に分ける優雅さ。"
+                },
+                "thinking_layer": "「分数」という言葉は、生命における無限の可能性を示唆する窓である。我々の存在が宇宙の無数の断片の組み合わせから成り立っているように、分数は本質を探る手段として、数学的にも哲学的にも重要な役割を果たしている。人間の心は、ことばの背後にある観念を分かち合うために、その集合の全てを既知のものとして扱う。自然界のすべてのものが分割されているなら、それは単純な数式にすぎない。その分割が無限の可能性を示すのだ。分数は、全体の中に潜む複雑な美しさを象徴している。したがって、分数は単なる数学的な概念だけでなく、宇宙の秩序と無秩序を理解する手段ともいえる。分数の本質は、ひとつのものがどうやって無数の面を持ち得るかを鋭く示唆する。これは宇宙と人間の繊細な関係性を映し出す鏡であり、ひとつひとつの断片が私たちにその意義を問いかける。私たちは生の分割を通じて、常に新たな統合を模索しているのだ。",
+                "synonyms": [
+                        "segment",
+                        "portion"
+                ],
+                "antonyms": [
+                        "whole",
+                        "unity"
+                ],
+                "aftertaste": "Fraction is the whisper of the whole yet to be rebuilt.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "fract",
+                                        "meaning": "to break"
+                                }
+                        ],
+                        "points": [
+                                "分数は、ラテン語「frangere」（壊す）から派生した「fractionem」に由来する。これは、四捨五入の数学的過程を文化的経験の象徴として示すものである。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "14th Century"
+        },
+        {
+                "id": "signal",
+                "word": "Signal",
+                "part_of_speech": "noun/verb",
+                "meaning": "合図をすること",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "signum",
+                                        "type": "root",
+                                        "meaning": "印",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "-al",
+                                        "type": "suffix",
+                                        "meaning": "抽象名詞化",
+                                        "lang": "French"
+                                }
+                        ],
+                        "original_statement": "From the Latin 'signum', meaning 'a sign', through Old French 'signal', connoting a coded message or indication."
+                },
+                "core_concept": {
+                        "en": "A silent language of the universe, encapsulating messages without words.",
+                        "ja": "言葉無き宇宙の言語、メッセージを秘めたるもの"
+                },
+                "thinking_layer": "信号とは、私たちの意識と無意識の間に架け橋となる存在である。その痕跡は時に曖昧で、時に明瞭だが、常に絶え間ないやり取りで人々を結び付ける。この概念は、歴史の中で進化し、変わり続ける人間社会の脈動と共に、その役割を果たしてきた。目に見えない無数の波が、言葉を超えた深い理解の領域へと誘い込む。波打つ信号は、水面の微細なさざ波のように、我々の心に影響を与えながら、その存在を鮮明にする。たとえ言葉がなくとも、その意味は繊細に、時には森羅万象の中に隠され、心理的な領域の奥深くで木霊する。灯台の光のように、信号は希望や方向性をもたらし、無限の可能性へと我々を導く羅針盤なのだ。信号という存在自体が、宇宙の法則に則った、現代技術と古代の智恵の交差点にあることを示唆している。響き渡る協奏曲の中になお、静謐なる意志の表現が潜むのではないだろうか。",
+                "synonyms": [
+                        "Indicator",
+                        "Cue"
+                ],
+                "antonyms": [
+                        "Noise",
+                        "Chaos"
+                ],
+                "aftertaste": "Signal bridges the heart's silence with the mind's clarity.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "signum",
+                                        "meaning": "A mark or token"
+                                }
+                        ],
+                        "points": [
+                                "信号の根源は、古代の記号としての役割から始まり、儀式や戦術の中核にまで進化してきました。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Medieval Latin"
+        },
+        {
+                "id": "honest",
+                "word": "Honest",
+                "part_of_speech": "adjective",
+                "meaning": "正直、誠実",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "honestus",
+                                        "type": "root",
+                                        "meaning": "高貴な、品位のある",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'honest' originates from the Latin 'honestus', which means 'honorable' or 'respectable'. It entered English in the late 14th century, initially conveying a sense of honor and respectability."
+                },
+                "core_concept": {
+                        "en": "The essence of truth wrapped in sincerity and honor.",
+                        "ja": "誠実と名誉に包まれた真実の本質"
+                },
+                "thinking_layer": "正直という概念は、生命の繊細な織物の中に存在する私たちの道徳的な指針であり、誤りない真実を求める心の反映である。それは、自己の透明性を通じて世界を見る目であり、感性と敬意によって結ばれた関係を築く糸口である。誠実さは心の清掃であり、魂の鏡である。人間の存在の最も深遠なところに根を張り、私たちの最も親密な思想や感情を他者と共有する立場から生まれる。この品位ある美徳は、私たちの社会の肌理に浸透し、コミュニケーションと理解を形成する上で不可欠な要素といえる。誠実であることは、ある種の精神的潔白を維持することであり、偽らざる心の中にのみ宿る正直な光を通じて、生命の真実を発見する旅である。この探求には、個人の内なる世界と外面的現実との協調が必要で、これが調和する時、私たちは真なる自己を一瞬でも垣間見ることができるのだ。",
+                "synonyms": [
+                        "Truthful",
+                        "Sincere"
+                ],
+                "antonyms": [
+                        "Deceitful",
+                        "Dishonest"
+                ],
+                "aftertaste": "Honesty is the light that never fades.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "honestus",
+                                        "meaning": "honorable, respectable"
+                                }
+                        ],
+                        "points": [
+                                "『正直』は、ラテン語の「honestus」に由来し、高貴さや品位を表しています。中世の英語において、この用語は名誉で尊敬されることを意味しました。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "14th Century"
         }
 ];
