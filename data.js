@@ -45915,5 +45915,216 @@ const WORDS = [
                 "source": "Oxford English Dictionary",
                 "date": "2026-03-01",
                 "era": "Middle English, from Latin, 14th Century"
+        },
+        {
+                "id": "describe",
+                "word": "Describe",
+                "part_of_speech": "verb",
+                "meaning": "説明する",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "de-",
+                                        "type": "prefix",
+                                        "meaning": "否定や除去を表す",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "scribere",
+                                        "type": "root",
+                                        "meaning": "書く",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'describe' finds its origin in the Latin word 'describere', which means to write down or to sketch, a combination of 'de-' meaning 'down' and 'scribere' meaning 'to write'."
+                },
+                "core_concept": {
+                        "en": "To give life to the invisible by painting with words.",
+                        "ja": "言葉で目に見えないものに命を吹き込むこと。"
+                },
+                "thinking_layer": "人は物事を理解するために、常に説明という行為を繰り返しています。この行為は単なる情報の伝達を超えて、感情や経験、理解を形作ります。説明とは、心の中の曖昧な形を持たない思考を、他者が理解できる具体的な形に変換する営みです。それは時に詩的な旅であり、言葉という道具を使った自己表現のひとつです。説明するという行為を通して、人は内なる世界を他者と共有し、自己理解を深め、さらに新たな発見をすることができるのです。それはまた、時間や空間を越えて他者の経験や知識を追体験する手段ともなります。説明は、言い換えれば、重力の無い世界で形の無いものを視覚化するようなものであり、その過程で言葉は彫刻刀となり、心の奥底に眠る真実を彫り出す道具となります。私たちの意識の中に広がる広大な宇宙を相互に繋ぎ合わせる役割を果たすのが、この説明という行為なのです。このように、説明とは単なる情報伝達を超えた、より深い哲学的行為と言えるでしょう。",
+                "synonyms": [
+                        "Explain",
+                        "Narrate"
+                ],
+                "antonyms": [
+                        "Conceal",
+                        "Mask"
+                ],
+                "aftertaste": "To describe is to etch the ephemeral into eternity.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "scribere",
+                                        "meaning": "to write"
+                                }
+                        ],
+                        "points": [
+                                "語源的には「de-」という接頭辞が「下に、離れて」という意味を持ち、「scribere」が「書く」という意味を持っています。二つの要素が合わさることで、具体的に記述し、明確に表現するという動きが生まれました。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "14th Century"
+        },
+        {
+                "id": "sector",
+                "word": "Sector",
+                "part_of_speech": "noun",
+                "meaning": "区分",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "sect-",
+                                        "type": "root",
+                                        "meaning": "切る",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'sector' is derived from the Latin 'sector', meaning 'cutter', from 'sectus', the past participle of 'secare', meaning 'to cut'. It entered into English in the late 16th century."
+                },
+                "core_concept": {
+                        "en": "A space divided to define purpose.",
+                        "ja": "目的を定義するために分割された空間"
+                },
+                "thinking_layer": "セクターという言葉は、単なる区分を意味するだけではなく、宇宙や人生の織り成す豊かな構造を内包しています。この言葉の根源である「切る」という動作は、その行為を通じて新たな空間や物の認識が生まれることを示しています。それは、ひとつの世界から切り出されたもうひとつの世界であり、新たな認識の始まりを象徴します。哲学的には、セクターは知識の境界を超える手段となり得るものであり、世界の観点や人間の心を新しい章へと導く橋として機能します。この分割という行為は、ただ物理的なだけでなく、感性や知性の次元にまで影響を及ぼし、同時に新たな理解を切り開くことをも意味しています。セクターは、内なる世界を秩序立て、混沌の中で方向性を持たせ、個々の要素を協奏曲のように調和させる手段でもあります。セクターという概念は、孤立ではなく接続、単純ではなく複雑、そして静止ではなく動きの中にその本質を見出します。したがって、セクターは我々の存在のあり方そのものを映し出す四次元のキャンバスなのです。",
+                "synonyms": [
+                        "Division",
+                        "Segment"
+                ],
+                "antonyms": [
+                        "Whole",
+                        "Unity"
+                ],
+                "aftertaste": "The sector silently clues us into the art of dividing the indivisible.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "sectus",
+                                        "meaning": "cut"
+                                }
+                        ],
+                        "points": [
+                                "ラテン語の「secare」に由来し、世界の区分を表す手段としての力を持ち、その歴史は科学的進歩と人間の知識の拡大と共に展開されてきた。"
+                        ]
+                },
+                "source": "etymonline.com",
+                "date": "2026-03-01",
+                "era": "Late 16th Century"
+        },
+        {
+                "id": "pressure",
+                "word": "Pressure",
+                "part_of_speech": "noun",
+                "meaning": "圧力や強制を指す",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "press-",
+                                        "type": "root",
+                                        "meaning": "押す",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "-ure",
+                                        "type": "suffix",
+                                        "meaning": "行為や結果",
+                                        "lang": "Middle French"
+                                }
+                        ],
+                        "original_statement": "Derived from the Latin 'pressura', meaning action of pressing, and influenced by Old French 'pression'."
+                },
+                "core_concept": {
+                        "en": "The invisible force shaping realities.",
+                        "ja": "現実を形作る目に見えぬ力"
+                },
+                "thinking_layer": "プレッシャーとは、目には見えないが心に重くのしかかる力である。それは時に我々を成長させ、時に押し潰す。人生の流れの中で、圧力は常に存在し、我々を試し、鍛え、進化させる。圧力とは自然界の一部であり、全ての物体や生物に影響を与える普遍的な力である。この力は外部からも内面からも来ることができる。外部の圧力は我々の社会的な責任や期待から来るものであり、我々を駆り立て、目標を達成するための推進力となる。一方、内面の圧力は自己との闘いであり、何かを変えたい、克服したいという内なる欲求から発生する。この見えざる力は我々に変革を促し、目標へと向かわせる。思想の層に立ち戻ると、圧力は進化の不可欠な要素であり、人生の美しさや痛みを通して成長を促す。我々が感じる絶望や行動の原動力は、この圧力なくして存在し得ないのだ。",
+                "synonyms": [
+                        "Stress",
+                        "Compression"
+                ],
+                "antonyms": [
+                        "Relief",
+                        "Ease"
+                ],
+                "aftertaste": "Pressure carves the path to transformation.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "press",
+                                        "meaning": "to exert force"
+                                },
+                                {
+                                        "term": "ura",
+                                        "meaning": "action or process"
+                                }
+                        ],
+                        "points": [
+                                "圧力という言葉は中世ラテン語及び古フランス語に由来し、人間社会における変動を象徴する。",
+                                "圧力の概念は物理学だけでなく、心理学や社会学においても重要な役割を果たしている。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "13th Century, Latin origin"
+        },
+        {
+                "id": "texture",
+                "word": "Texture",
+                "part_of_speech": "noun",
+                "meaning": "質感や感触",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "textus-",
+                                        "type": "root",
+                                        "meaning": "編まれた",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "ure-",
+                                        "type": "suffix",
+                                        "meaning": "状態、性質",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'texture' originates from the Latin 'textura', meaning 'weaving' or 'woven thing'."
+                },
+                "core_concept": {
+                        "en": "The intricate weave of life's tangible and intangible threads.",
+                        "ja": "生命の有形と無形の糸が織り成す複雑な織物"
+                },
+                "thinking_layer": "「テクスチャー」という言葉は、私たちの周りの世界を感知し、理解することの本質を捉えている。それは触れ、感じ、観察することから始まるが、物質的な制約を超える存在でもある。表面のデザインやパターンは単なる物質的な現象ではなく、内面的な深層と密接に結びついている。人生の豊かさや複雑性を探るとき、私たちはしばしばその目に見えないテクスチャーに触れる。それらは思考、感情、経験として現れ、私たちの記憶と感覚に深く刻み込まれる。宇宙自体が巨大な布のように、無数の糸が複雑に絡み合いながら永遠のダンスを踊っている。触れられないが感じることができるこの不思議な織物は、宇宙の微細な構造を暗示し、人間の存在の奥深さを映し出す。テクスチャーとは、単なる物の表面ではなく、逃れがたい観察の本質であり、内から照らす光であり、時に私たち自身を再発見させる存在である。",
+                "synonyms": [
+                        "Surface",
+                        "Fabric"
+                ],
+                "antonyms": [
+                        "Void",
+                        "Uniformity"
+                ],
+                "aftertaste": "Texture is the intricate language spoken by the surface of things.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "textus",
+                                        "meaning": "woven"
+                                },
+                                {
+                                        "term": "ure",
+                                        "meaning": "a state or quality"
+                                }
+                        ],
+                        "points": [
+                                "テクスチャーの語源は、物理的および感覚的特性を超えた広範な概念を持つことを示唆している"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "Late Middle English"
         }
 ];
