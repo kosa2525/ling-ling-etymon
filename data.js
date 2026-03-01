@@ -28436,5 +28436,57 @@ const WORDS = [
                 "source": "Oxford English Dictionary",
                 "date": "2026-03-01",
                 "era": "13th Century, Old French, Latin roots"
+        },
+        {
+                "id": "scramble",
+                "word": "Scramble",
+                "part_of_speech": "noun/verb",
+                "meaning": "ごちゃごちゃにする、奮闘する",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "戦-争-",
+                                        "type": "root",
+                                        "meaning": "闘争や競争",
+                                        "lang": "中英語から"
+                                },
+                                {
+                                        "text": "-le",
+                                        "type": "suffix",
+                                        "meaning": "動作を意味する",
+                                        "lang": "古フランス語"
+                                }
+                        ],
+                        "original_statement": "The word 'scramble' likely originated in the late 16th century, evolving from the Middle English word 'scrumblen' meaning to struggle or make one's way clumsily, with influences from the Old Norse 'skrambl' meaning to struggle or brawl."
+                },
+                "core_concept": {
+                        "en": "A chaotic dance of life where disorder brews creation.",
+                        "ja": "混沌の中で生命が舞い上がり、無秩序から創造が生まれる。"
+                },
+                "thinking_layer": "『スクランブル』という言葉の背後には、生命の本質に対する深い思索が存在します。私たちは日々の生活において、計画通りに物事を進めようとしますが、しばしば予期せぬ出来事や混乱が混じり込みます。この混沌とした瞬間こそが私たちを再確認させ、新しい道や可能性を探求させる源となります。スクランブルは、ただ単に何かが混ざり合うことを意味するのではありません。それは、意図しない刺激が新たなる視点をもたらし、結果的に成長を促進する過程を描き出します。自己の限界を超え、未知の領域へと飛び込む勇気を示唆する言葉でもあります。スクランブルという行為を通じて、私たちは失敗の中に隠された可能性を見出し、常に変容し続ける世界の美しさを再認識することができるのです。このように、スクランブルは深い混乱の中に潜む静けさ、騒音の中にかすかに聴こえるメロディを探し当てる哲学的な旅へと私たちを誘うのです。",
+                "synonyms": [
+                        "Mix",
+                        "Struggle"
+                ],
+                "antonyms": [
+                        "Order",
+                        "Peace"
+                ],
+                "aftertaste": "In struggling chaos, we find the clarity of creation.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "scramble",
+                                        "meaning": "to struggle or strive energetically"
+                                }
+                        ],
+                        "points": [
+                                "中英語からの発展により、語幹となる『scrumblen』が生まれ、その後の使用によって現代の複雑な意味が形作られた。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "16th Century, Middle English"
         }
 ];
