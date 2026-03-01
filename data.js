@@ -48150,5 +48150,372 @@ const WORDS = [
                 "source": "Online Etymology Dictionary",
                 "date": "2026-03-01",
                 "era": "14th Century"
+        },
+        {
+                "id": "invoke",
+                "word": "Invoke",
+                "part_of_speech": "verb",
+                "meaning": "祈り求める、召喚する",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "in-",
+                                        "type": "prefix",
+                                        "meaning": "中へ",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "vocare",
+                                        "type": "root",
+                                        "meaning": "呼ぶ",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'invoke' comes from the Latin root 'invocare', meaning 'to call upon'."
+                },
+                "core_concept": {
+                        "en": "A gentle summoning from within.",
+                        "ja": "内なる声を呼び覚ます"
+                },
+                "thinking_layer": "『インボーク』という言葉には、何かを呼び起こすという深遠な意味があります。それは身体的な声を超えて、心の奥深くに眠る意識や感じ方を呼び覚ます行為です。人間の心は無限の可能性と願望を秘めていますが、その多くは日常の喧騒の中で忘れられがちです。インボークは、私たちが忘れてしまった自分自身の一部、あるべき姿を再び思い出させてくれる手段です。それは祈りや瞑想に似ていて、時間と空間を超えて内なる自分と繋がる方法なのです。この行為を通じて、人は自分の意識を広げ、世界との新たな調和を得ることができるでしょう。インボークにはまた、他者との深いつながりを求める願望も含まれます。それは言葉を通じて、そして言葉を超えて他者へ向かう内なる声の叫びなのです。",
+                "synonyms": [
+                        "Call upon",
+                        "Summon"
+                ],
+                "antonyms": [
+                        "Dismiss",
+                        "Ignore"
+                ],
+                "aftertaste": "Invoke the depths of your soul and discover the universe within.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "vocare",
+                                        "meaning": "to call"
+                                }
+                        ],
+                        "points": [
+                                "ラテン語の'in-'は、『中へ』を意味し、深層に意識を向ける力を持つ。",
+                                "語源的には意識を喚起する行為であり、祈りや瞑想の意図を含む。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Late Middle English"
+        },
+        {
+                "id": "subtract",
+                "word": "Subtract",
+                "part_of_speech": "verb",
+                "meaning": "減少する、差し引く",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "sub-",
+                                        "type": "prefix",
+                                        "meaning": "下に",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "trahere",
+                                        "type": "root",
+                                        "meaning": "引く",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "From Latin 'subtrahere' meaning 'to draw from below'."
+                },
+                "core_concept": {
+                        "en": "The dance of diminishment, the grace of taking away.",
+                        "ja": "減少の舞、取り去ることの優雅さ"
+                },
+                "thinking_layer": "減算とは、ただ単に数字を引くだけの行為でなく、存在から何かを取り去る芸術である。それは多くの場合、新たな形や視点を生み出し、よりシンプルで明快な理解をもたらす。人はしばしば足し算によって豊かさを求めるが、減算の術で自らの内なる充実感を味わうことも可能である。これは、どこまで削ぎ落とすか、どれだけ無駄を省くかという問いでもあり、余分を排除した先に見える純粋な真理を感じる作業でもある。減算の意義は、ある意味で人生それ自体を象徴する。時間と共に外界からの情報が増え続ける中で、何を取り除き、何を残すかの選択は魂の成長を映し出す。それは静かな智慧の声に耳を傾け、意識の深層で行われる静謐な対話である。減算は、生命の流れを感じ取り、内なる調和を追求するための大切な鍵である。",
+                "synonyms": [
+                        "decrease",
+                        "diminish"
+                ],
+                "antonyms": [
+                        "add",
+                        "increase"
+                ],
+                "aftertaste": "In subtraction lies the profound beauty of simplicity.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "trahere",
+                                        "meaning": "to draw, to pull"
+                                },
+                                {
+                                        "term": "sub",
+                                        "meaning": "under, below"
+                                }
+                        ],
+                        "points": [
+                                "減算の語源学的な意味は、物事を下へ引き戻す行為に由来し、ラテン語の 'trahere' と 'sub' の組み合わせからなる。この行為は、他のすべてを稀薄にし、私たちの存在を簡素な形へとまとめる可能性を秘めている。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "Late Middle English (15th century)"
+        },
+        {
+                "id": "conclude",
+                "word": "Conclude",
+                "part_of_speech": "verb",
+                "meaning": "終わりにする、決定する",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "con-",
+                                        "type": "prefix",
+                                        "meaning": "共に",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "cludere",
+                                        "type": "root",
+                                        "meaning": "閉じる",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'conclude' originates from the Latin 'concludere', which means ‘to shut together’ or ‘to end’."
+                },
+                "core_concept": {
+                        "en": "To reach a decisive closure, uniting disparate threads into a singular ending.",
+                        "ja": "異なる糸を一つの終結へとまとめる決定的な閉幕の達成"
+                },
+                "thinking_layer": "終わりには美しさが宿る。その瞬間は合流点であり、すべての道が一点に集まる。結論は、物語の終焉であり、無限に走る思考の停止点である。我々はしばしば結論を恐れるが、それは新たな始まりの合図でもある。一つの終わりは、他の無限の可能性を秘めた扉を開ける。結論に至る過程は、その過程で得たすべての経験と洞察を統合する旅である。この統合の中にこそ、無限の知恵が秘められているのだ。結論の力は変化を促し、その力により未来の方向性が決まる。しかしながら、結論はしばしば静寂の中で待ち受けるものであり、我々はその静寂の中で初めて自らの本質を捉えることができる。結論の場所は、無音の中に響く知識のメロディーであり、心の奥深くに刻まれる記憶の写し絵である。結論の真の意味は、過去を振り返り、未来を思い描く力を与えることだ。それは感覚を研ぎ澄まし、心を静寂へと導く技法である。",
+                "synonyms": [
+                        "Finish",
+                        "Conclude"
+                ],
+                "antonyms": [
+                        "Begin",
+                        "Start"
+                ],
+                "aftertaste": "Each conclusion is both an end and a new beginning.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "con-",
+                                        "meaning": "together, with"
+                                },
+                                {
+                                        "term": "cludere",
+                                        "meaning": "to close"
+                                }
+                        ],
+                        "points": [
+                                "「conclude」という語自体は、『一緒に閉じ込めること』を意味する過去のラテン語から派生しており、締めくくりや結論を示唆する。この言葉が持つ寓意は、多様な要素を一つにまとめる終焉の状態へと誘う動的過程を象徴している。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "14th Century"
+        },
+        {
+                "id": "invitation",
+                "word": "Invitation",
+                "part_of_speech": "noun",
+                "meaning": "招待、誘い",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "invitare",
+                                        "type": "root",
+                                        "meaning": "招く",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'invitation' originates from the Latin 'invitationem', meaning to invite or summon, which stems from 'invitare'."
+                },
+                "core_concept": {
+                        "en": "A beckoning whisper, a bridge between souls.",
+                        "ja": "魂の間に架ける心地良い声の架け橋。"
+                },
+                "thinking_layer": "『招待』とは、言葉とその背後に隠された無数の思考が絡み合う概念である。この言葉には、人々の心を優しく叩き、共に時間と空間を共有する願望が込められている。招待とは、単なる提案や行動以上のものであり、心を延ばし、他者との深い繋がりを求める過程である。哲学的に考えると、招待という行為は他者への信頼の証であり、親近感と思いやりが含まれている。この小さな行動がもたらす共鳴はやがて大きな波紋となり、社会的関係の基礎を形作る。招待を通じて、人々は日常の喧騒を離れ、互いの愚直な心に触れる。招待されることは、存在の価値承認であり、自己と他者の尊重の象徴であると言える。現代において、真の意味での招待の本質を理解し、それを他者と共有することは、私たちの存在意義を再確認し、個としてのアイデンティティを強化する重要な行為である。",
+                "synonyms": [
+                        "summons",
+                        "request"
+                ],
+                "antonyms": [
+                        "rejection",
+                        "repulsion"
+                ],
+                "aftertaste": "An invitation is the gentle unlocking of one's heartstring.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "invitare",
+                                        "meaning": "to summon or invite"
+                                }
+                        ],
+                        "points": [
+                                "『招待』という言葉は、時空を超えて人間関係の真髄をつなぐことで、古代のルーツから現代に伝わる豊かな意味を持っている。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "Late Latin, 14th Century"
+        },
+        {
+                "id": "promotion",
+                "word": "Promotion",
+                "part_of_speech": "noun",
+                "meaning": "昇進や促進",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "pro-",
+                                        "type": "prefix",
+                                        "meaning": "前へ",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "movere",
+                                        "type": "root",
+                                        "meaning": "動かす",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'promotion' originates from the Latin 'promotio', from 'promovere' which means 'to move forward'."
+                },
+                "core_concept": {
+                        "en": "The upward journey to growth and elevation, carrying aspirations through movement and forward-thinking.",
+                        "ja": "成長と向上への上昇の旅。願いを抱いて進む思考を伴う移動。"
+                },
+                "thinking_layer": "「プロモーション」という言葉は、我々の存在を動かし続ける力を象徴する。それは、観念が現実へと昇華し、夢が行動へと変化する瞬間の象徴である。日常の中で我々が感じる進展は、内なる原動力と外的な環境との絶え間ない対話によって促される。すべての促進には未知の領域への踏み出しが必要であり、それは個を超えた大いなるものへの信頼を伴う。勇気と共に進むその先に、私たちの可能性は広がり、機会は開かれていくのだ。人生の波を乗り越える際に、プロモーションは我々が挑むべきステージであり、ふとした瞬間に訪れる導きである。それはまた、無意識の層に潜む知恵を表面に引き寄せる手段でもある。変化の風に身を委ね、そこから新たなる視界を得る時、人は飛躍するのだ。その一歩が未来を形作り、やがては世界をも映し出す鏡となるのである。",
+                "synonyms": [
+                        "advancement",
+                        "uplift"
+                ],
+                "antonyms": [
+                        "demotion",
+                        "regression"
+                ],
+                "aftertaste": "Promotion is the silent dance of aspiration and progress.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "movere",
+                                        "meaning": "to move"
+                                }
+                        ],
+                        "points": [
+                                "語源としての『promotio』は、動きと前進の複合概念であり、この言葉の背後には、個人の成長と社会的認知を求める人間の根源的欲求があると言える。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Late Middle English, Latin origin"
+        },
+        {
+                "id": "traction",
+                "word": "Traction",
+                "part_of_speech": "noun",
+                "meaning": "牽引、引き付ける力",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "tract-",
+                                        "type": "root",
+                                        "meaning": "引く",
+                                        "lang": "ラテン語"
+                                },
+                                {
+                                        "text": "-tion",
+                                        "type": "suffix",
+                                        "meaning": "状態、動作",
+                                        "lang": "ラテン語"
+                                }
+                        ],
+                        "original_statement": "The word 'traction' originates from the Latin 'tractio', meaning the act of drawing or pulling."
+                },
+                "core_concept": {
+                        "en": "The gentle pull between motion and rest, a dance of forces.",
+                        "ja": "動と静との間の優美な牽引、力のダンス。"
+                },
+                "thinking_layer": "牽引とは、単なる物理的現象を超えた、私たちの存在の縮図である。車輪が道をつかみ、我々の生活を前進させる力を供給するように、私たちの思想や感情もまた、常に何かに引き寄せられている。この引力は、時として目に見えずとも、私たちの心や精神を波立たせ、究極的には自己の実現へと駆り立てる。果てしない目標へ向けて進む中で、私たちの魂は、慎重に、時には衝動的にその道を選び取る。牽引力は、時空を超えた移動の象徴であり、その中で我々は個々の可能性を探索する。牽引はまた、人間関係の中で直面する見えない力の反映であり、瞬間が逆説的に私たちをつなぎ止め、より深い絆を育む。私たちの心と体が調和を保ちながら引かれ合うとき、そこには深遠なる静寂が広がっている。その静寂の中で、存在そのものが意味を見出し、新たな目的地へと導かれる扉が開かれるのである。",
+                "synonyms": [
+                        "pull",
+                        "grip"
+                ],
+                "antonyms": [
+                        "release",
+                        "slip"
+                ],
+                "aftertaste": "Traction is the unseen rhythm guiding the dance of life.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "tract",
+                                        "meaning": "to draw, pull"
+                                }
+                        ],
+                        "points": [
+                                "ラテン語における語源的背景を研究すると、牽引は単なる引力だけではなく、動くという行為に関わる全面的なコンセプトを表すことが理解される。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Middle English (15th Century), Latin origin"
+        },
+        {
+                "id": "reference",
+                "word": "Reference",
+                "part_of_speech": "noun/verb",
+                "meaning": "参照すること、引用",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "refer-",
+                                        "type": "root",
+                                        "meaning": "引き戻す",
+                                        "lang": "ラテン語"
+                                },
+                                {
+                                        "text": "-ence",
+                                        "type": "suffix",
+                                        "meaning": "状態、過程",
+                                        "lang": "英語"
+                                }
+                        ],
+                        "original_statement": "The word 'reference' derives from the Latin 'referre', meaning 'to carry back, bear, report', originating in the Late Middle Ages."
+                },
+                "core_concept": {
+                        "en": "A bridge to the tapestry of thoughts woven in time.",
+                        "ja": "時を超えた思考の織物への架け橋"
+                },
+                "thinking_layer": "「リファレンス」という言葉には、人々が長年にわたり積み重ねてきた知識と思考の集合体へとつながる、時を超えたリンクの存在が象徴されている。この言葉は私たち自身の経験と観察を通じて、過去の知恵と現在の理解を結びつける役割を果たす。引き戻されるという感覚があり、だけどそれはただ過去に戻るのではなく、過去の知識を今ここに引き起こすことで新たなる洞察、発見、意味を生む作業へと変わる。ここで「参照する」という行為は単に情報を得るために過去をなぞることではなく、それ自体が創造的な営みへと昇華する。時の流れを通じて結ばれる知の織物の中において、我々は何度も立ち戻り、引き継ぎ、新しい文脈を見出していく。その繰り返しの中に、人間の知性の卓越した力が表れ、新たに形作られる世界がある。リファレンスは一つの行為でありながら複合的なメタファーであり、未だ知られぬ未来の可能性の扉を開く鍵となるのだ。",
+                "synonyms": [
+                        "Citation",
+                        "Mention"
+                ],
+                "antonyms": [
+                        "Originality",
+                        "Innovation"
+                ],
+                "aftertaste": "Reference is the unbroken lineage in the evolution of knowledge.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "fer",
+                                        "meaning": "to carry"
+                                }
+                        ],
+                        "points": [
+                                "ラテン語の'referre'では、知識の伝達と共有が重要視されていた。その意味での持続的な関係性が、現代の学びにどのように反映されているかを考察する必要がある。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Late Middle Ages"
         }
 ];
