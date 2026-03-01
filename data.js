@@ -42679,5 +42679,367 @@ const WORDS = [
                 "source": "Oxford English Dictionary, Online Etymology Dictionary",
                 "date": "2026-03-01",
                 "era": "15th Century, Latin origin"
+        },
+        {
+                "id": "construct",
+                "word": "Construct",
+                "part_of_speech": "noun/verb",
+                "meaning": "組み立てること; 構築する",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "com-",
+                                        "type": "prefix",
+                                        "meaning": "共に",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "struere",
+                                        "type": "root",
+                                        "meaning": "積み上げる",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "Derived from the Latin 'constructus', past participle of 'construere', meaning 'to heap together'."
+                },
+                "core_concept": {
+                        "en": "The delicate weave of structure from chaos.",
+                        "ja": "混沌から秩序を組み立てる繊細な織り"
+                },
+                "thinking_layer": "『コンストラクト』という言葉は、物理的な対象を組み立てる行為を超え、我々の思考の根底に横たわる哲学的な問いかけを映し出す。物事を築くことは、実際には無から有を生む過程であり、混沌の中に秩序を見出す、人間の根源的な営みである。積み重ねられた石材の一つ一つが、究極には宇宙を意味するかの如く、全ての構築物は自己や他者、そして社会へとつながる見えざる糸を紡ぐ。我々が作り上げる構造物の影には、それを超越する思考の流れがあり、その流れは意識的・無意識的に人間の歴史と文化を形成する。人は時に脆く、時に強靭な存在であり、その知恵と努めによって新たな『構造』を築き続ける。人生のあらゆる瞬間が自己の再構築という紙の表裏のように折り重なる、そんな詩的な探求の道程に立つ。物理的な構築を哲学的な意味で捉え直すことは、存在そのものの意味を問い直す機会でもある。日常の中で我々が築く小さな一歩が、未来に向けた永続的な『構造』へと続く布石である。何かを作ることは新しい哲学を生むことである。",
+                "synonyms": [
+                        "Build",
+                        "Create"
+                ],
+                "antonyms": [
+                        "Destroy",
+                        "Dismantle"
+                ],
+                "aftertaste": "To construct is to wrest form from the void.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "construere",
+                                        "meaning": "to heap up, build"
+                                }
+                        ],
+                        "points": [
+                                "語源的に『construct』はラテン語の『com-』（共に）と『struere』（積み上げる）に由来し、共に積み重ねて秩序を創出する意味を持つ。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Late Middle English, from Latin"
+        },
+        {
+                "id": "adjust",
+                "word": "Adjust",
+                "part_of_speech": "verb",
+                "meaning": "調整する",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "ad-",
+                                        "type": "prefix",
+                                        "meaning": "方向や強調を示す接頭辞",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "justare",
+                                        "type": "root",
+                                        "meaning": "正しい、適切にする",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'adjust' originates from the Latin 'adjuxtare', transforming through Old French into the English form, bearing the meaning to bring something into a more fitting state."
+                },
+                "core_concept": {
+                        "en": "Harmonizing the dissonance of existence.",
+                        "ja": "存在の不協和音を調和させる"
+                },
+                "thinking_layer": "調整という語は、私たちの存在そのものを問いかける深遠な哲学的行為である。世界の日々の変化と、不安定なバランスの中に再び秩序を見出すことは、生きる術を示し、我々の心と魂の調律を迫る。調整は、外界との対話であり、自らの内面の静寂を探す旅路である。物事を調節することは、単なる物理的行動に留まらず、心の内面にまで渡る深い影響力を持つ。世界と個人の間の微細なギャップを埋める行為でもある。運命の中で、我々は常に自分自身を調節し、新しい状況や試練に対応する力を育む。これは、存在とその根源への哲学的な探求とも言えるだろう。天秤にかけられた運命の片方に寄り添い、新たな平衡を目指すこの行為は、しばしば人生に勇気をもたらす手段となる。我々が抱える不完全さは、調整によってのみ受け入れられ、そして昇華される。調整とは常に進化し続けるプロセスであり、内なる調和を追求する旅である。",
+                "synonyms": [
+                        "align",
+                        "regulate"
+                ],
+                "antonyms": [
+                        "disorder",
+                        "disturb"
+                ],
+                "aftertaste": "Adjustment paints harmony onto the canvas of chaos.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "ad-",
+                                        "meaning": "toward, to"
+                                },
+                                {
+                                        "term": "justare",
+                                        "meaning": "to put right, make just"
+                                }
+                        ],
+                        "points": [
+                                "調整の概念は、内なる安定と外的環境との関係性を反映している。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "15th Century"
+        },
+        {
+                "id": "apply",
+                "word": "Apply",
+                "part_of_speech": "verb",
+                "meaning": "適用する、応用する",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "ad-",
+                                        "type": "prefix",
+                                        "meaning": "〜へ",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "plicare",
+                                        "type": "root",
+                                        "meaning": "折りたたむ",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "From Latin 'applicare' meaning 'to join or engage'. Middle English adopted it as 'applien', influenced by Old French 'aplir'."
+                },
+                "core_concept": {
+                        "en": "The graceful act of uniting intention with purpose.",
+                        "ja": "意図と目的を結びつける美しい行為"
+                },
+                "thinking_layer": "人生において、何かを応用するという行為は、単に技術的な要素にとどまらず、深い精神の融合を伴うものである。私たちの内部にある無限の可能性を掘り起こし、それを現実の行動として具現化するプロセスである。応用するということは、内なるビジョンを外界と接続する橋を作り出すことであり、静かな意志の中にある意図を、具体的な形に変える力である。折りたたまれた紙が広がって新たな形をとるように、私たちの考えは、適用という行為を通じて、見えないものを可視化し、無形のものに形を与えていく。根本のアイデアと現実の要求を結びつけるこの美しいプロセスは、言葉を超えた深淵なインスピレーションを喚起する。応用することで初めて、私たちは世界に影響を与え、自らを表現することができる。これが人間の深い願いであり、究極の創造的行為である。適用することは、自分自身を世界に解き放ち、夢を現実に導くための内なる旅である。",
+                "synonyms": [
+                        "Utilize",
+                        "Employ"
+                ],
+                "antonyms": [
+                        "Ignore",
+                        "Neglect"
+                ],
+                "aftertaste": "To apply is to breathe life into intention.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "plicare",
+                                        "meaning": "to fold"
+                                }
+                        ],
+                        "points": [
+                                "ラテン語の根に由来し、抽象的なアイデアを具体的な行動に変換することを強調。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "14th Century"
+        },
+        {
+                "id": "extend",
+                "word": "Extend",
+                "part_of_speech": "verb",
+                "meaning": "伸ばす、広げる",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "ex-",
+                                        "type": "prefix",
+                                        "meaning": "出る、外へ",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "tendere",
+                                        "type": "root",
+                                        "meaning": "引っ張る",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'extend' originates from the Latin 'extendere', which means 'to stretch out'."
+                },
+                "core_concept": {
+                        "en": "The poetic unfolding of space and possibility.",
+                        "ja": "空間と可能性の詩的な展開"
+                },
+                "thinking_layer": "「伸ばす」という概念は、人の思考と行動の中で時間と空間を超えて広がる可能性を象徴している。何かを延長する行為は、我々が見えぬ未来に手を伸ばし、運命の地図を少しずつ広げていく動きである。空に向かって手を伸ばすように、我々は目に見えない夢や希望を掴もうとする。拡大と延長のプロセスは、単なる物理的な現象ではなく、内なる精神の成長と変容をも示唆している。自己という存在の輪郭を超え、新たな視野と可能性を探求すること。この哲学的な行為は、我々の限界を超え、自己の枠を飛び越える力を秘めている。人間の精神はこのようにして、無限の宇宙の中で自らを再定義し続ける。拡大した先に待つ新たな自己の発見、それこそが「伸ばす」という行為が持つ詩的な意義であり、人類の長い冒険を象徴している。",
+                "synonyms": [
+                        "Expand",
+                        "Elongate"
+                ],
+                "antonyms": [
+                        "Contract",
+                        "Shorten"
+                ],
+                "aftertaste": "In extending, we touch the horizon of our own potential.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "tendere",
+                                        "meaning": "to stretch"
+                                }
+                        ],
+                        "points": [
+                                "「延長」という概念が、人間の未知への好奇心を反映していること。そしてそれが、単に物理的な尺度を超えて精神的な広がりを追求する姿勢の一部であること。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "14th Century"
+        },
+        {
+                "id": "movement",
+                "word": "Movement",
+                "part_of_speech": "noun",
+                "meaning": "動き、または変化のプロセス",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "movere-",
+                                        "type": "root",
+                                        "meaning": "動く",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'movement' originates from the Latin 'movere', meaning 'to move', and evolved through Old French as 'mouvement'."
+                },
+                "core_concept": {
+                        "en": "The poetic dance of elements in grace and rhythm.",
+                        "ja": "要素の優雅でリズミカルな舞い"
+                },
+                "thinking_layer": "「動き」という言葉は、物事が静的な状態から解き放たれて動的な存在へと移行するプロセスを示しています。それは原初の静寂に音楽が流れ出し、形が変わる瞬間の美しさを象徴します。この動きはいわば、宇宙の中心から発する心臓の鼓動のようなものであり、無限の可能性と終わりなき探究心を秘めています。それは物理的な移動だけでなく、精神的、感情的な変容の象徴でもあります。瞬間瞬間に見えない力が生命を突き動かし、個々の存在をより豊かなものへと進化させるのです。その動きが遂げる変化は、まさしく無限の詩の一節であり、存在は終わりなき旅路の一部であることを思い出させてくれるのです。自然と人間が共に奏でるこの大いなるシンフォニーの中で、動きは不変の声を持ち続けるのです。",
+                "synonyms": [
+                        "motion",
+                        "shift"
+                ],
+                "antonyms": [
+                        "stillness",
+                        "stagnation"
+                ],
+                "aftertaste": "In movement lies the essence of existence.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "movere",
+                                        "meaning": "to move"
+                                }
+                        ],
+                        "points": [
+                                "「movere」から派生した動詞は、多くのヨーロッパ言語で類似した形を持ち、変化や運動の観念と強く結びついています。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Latin Origin"
+        },
+        {
+                "id": "affect",
+                "word": "Affect",
+                "part_of_speech": "noun/verb",
+                "meaning": "感情や感触に影響を与えること",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "af- (prefix)",
+                                        "type": "prefix",
+                                        "meaning": "へ向かって",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "-fect (root)",
+                                        "type": "root",
+                                        "meaning": "行う",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'affect' comes from the Latin 'afficere', meaning 'to do something to, to act upon'."
+                },
+                "core_concept": {
+                        "en": "A gentle breeze stirring the soul's still waters.",
+                        "ja": "魂の静かな水面を揺らす穏やかな風"
+                },
+                "thinking_layer": "「影響する」という動詞の背後には、常に微細な動作とその結果が隠されています。この概念は生命の中で対話を生み出し、周囲との関係を築く手段となります。一つの小さな余波が、やがて大きな変革をもたらすことを思い起こさせます。影響することで、我々は他者と繋がり、共感を呼び覚まし、人間の本質を発見する旅に出るのです。この言葉の持つ哲学的な奥深さは、個々の心が共鳴し合い、分かち合うことの美しさにあると言えます。影響という行為は、常に内面の世界を豊かにし、外界の認識を拡張する契機となります。その多層的な意味合いは、現代における人間関係の複雑さと美を如実に描写し、新たな思考や感情の風景を私たちに贈り続けます。かくして、「影響」という行為は、単なる物理的な作用を超え、人生そのものを深く問いかける鏡となるのです。",
+                "synonyms": [
+                        "Influence",
+                        "Impact"
+                ],
+                "antonyms": [
+                        "Immunity",
+                        "Indifference"
+                ],
+                "aftertaste": "An echo that reverberates through the corridors of the heart.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "afficere",
+                                        "meaning": "to do something to, to act upon"
+                                }
+                        ],
+                        "points": [
+                                "「affect」は、ラテン語の「afficere」から派生し、他者に何らかの作用を及ぼす行為を指しています。この語源は、人間の行動が持つダイナミズムとその繊細な影響力を示唆しています。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "Latin Origin, Medieval adoption"
+        },
+        {
+                "id": "mention",
+                "word": "Mention",
+                "part_of_speech": "noun/verb",
+                "meaning": "言及すること、触れること",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "mention-",
+                                        "type": "root",
+                                        "meaning": "言及すること",
+                                        "lang": "Middle French"
+                                },
+                                {
+                                        "text": "-tion",
+                                        "type": "suffix",
+                                        "meaning": "状態・過程",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "Derived from Old French 'mencion', from Latin 'mentionem', meaning to 'mention, call to mind'."
+                },
+                "core_concept": {
+                        "en": "A gentle whisper calling one's attention, resonating through time.",
+                        "ja": "時を超えて響く、注意を喚起する優しい囁き。"
+                },
+                "thinking_layer": "言葉の持つ力や影響とは、目には見えずとも深く心に刻まれるものである。『言及』という行為は、言葉の流れをその場に引き寄せ、そこに意味の灯火を点す行為に等しい。そしてその灯火は、時を経てもなお何処かで揺らめく光となり、他者の心に影を落とす。言及の背後には、過去と未来をつなぐ無形の糸が存在し、人の意識に新たな価値と解釈をもたらす。詩的な言及は、まるで人生の画布に自由な色彩を加える絵筆のようなものだ。その一つひとつが、異なる形状を持つセレンディピティの断片となり、思わぬ気づきを誘発する。我々は言及を通し、言葉の果てしない響きの中で、思索の航海に出るのだ。それは、意味が熟成されていく過程で醸される、何とも奥深い人間の営み…。",
+                "synonyms": [
+                        "Reference",
+                        "Allusion"
+                ],
+                "antonyms": [
+                        "Silence",
+                        "Neglect"
+                ],
+                "aftertaste": "In the echo of mention, a new world awaits discovery.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "mentionem",
+                                        "meaning": "to call to mind"
+                                }
+                        ],
+                        "points": [
+                                "言及の語源は、心に思い起こさせる行為としての中世フランス語から始まり、ラテン語の流れの中で滋養されたものです。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "14th Century"
         }
 ];
