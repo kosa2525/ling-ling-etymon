@@ -47253,5 +47253,378 @@ const WORDS = [
                 "source": "Oxford English Dictionary",
                 "date": "2026-03-01",
                 "era": "Early 15th Century"
+        },
+        {
+                "id": "prescribe",
+                "word": "Prescribe",
+                "part_of_speech": "verb",
+                "meaning": "命令または指示を与える",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "pre-",
+                                        "type": "prefix",
+                                        "meaning": "前に",
+                                        "lang": "ラテン語"
+                                },
+                                {
+                                        "text": "scribere",
+                                        "type": "root",
+                                        "meaning": "書く",
+                                        "lang": "ラテン語"
+                                }
+                        ],
+                        "original_statement": "The word 'prescribe' originated from the Latin 'praescribere' which means 'to write before' or 'to order'."
+                },
+                "core_concept": {
+                        "en": "To weave orders into the fabric of language.",
+                        "ja": "言葉の織りの中に命令を織り込むこと"
+                },
+                "thinking_layer": "『処方する』という言葉は、時間と意図における旅の一部を明示します。過去から未来へ、文字通り「前に書く」と解釈されるこの言葉は、命令とガイダンスの双方向性を示します。命令が持つ影響の大きさは、指示を与えることによって生じる影響のみならず、その命令を受け取る者の内面にも大きな変化を引き起こします。それはまるで未来を先取りし、受け手の生活や考えを一変させうる小さな種を蒔く行為のようです。処方は、単なる言葉の羅列ではなく、人生の航路を示唆し、長きに渡る実践を伴う真に哲学的な行動であり、時にそれは見えざる紐となって人間関係をつなぎ続けるのです。私たちから先人への、そして未来の後生への無言の約束を内包したのが、この「処方する」という行為なのです。",
+                "synonyms": [
+                        "dictate",
+                        "decree"
+                ],
+                "antonyms": [
+                        "proscribe",
+                        "forbid"
+                ],
+                "aftertaste": "Prescribing is the art of writing fate into reality.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "scribere",
+                                        "meaning": "to write"
+                                }
+                        ],
+                        "points": [
+                                "ラテン語のpraescribereから派生したこの言葉は、特定の指示を強調するのに用いられ、その歴史的背景には、法律的または医療的効用も含まれています。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "Late Middle English"
+        },
+        {
+                "id": "convert",
+                "word": "Convert",
+                "part_of_speech": "noun/verb",
+                "meaning": "変える、変換する",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "con-",
+                                        "type": "prefix",
+                                        "meaning": "共に",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "-vertere",
+                                        "type": "root",
+                                        "meaning": "回す、変える",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The term 'convert' originates from the Latin 'convertere', meaning to turn around or to transform."
+                },
+                "core_concept": {
+                        "en": "A metamorphosis from one state to another, guided by the unity of purpose.",
+                        "ja": "目的の統一によって導かれた、ひとつの状態から他の状態への変容"
+                },
+                "thinking_layer": "変換という行為には、深く哲学的な意味があります。それは、ただ表面的な変化に留まらず、内なる核心に作用し、生命の軌跡を変える働きを持っています。変換は、存在の本質に問いを投げかけ、それを再形成し、新しい理解と認識を呼び起こします。自己の変革は、道の選択を意味し、古き自分を脱ぎ捨て、新たな存在へと再生することを意味します。社会の中で見る変換もまた、同様にその共同体の意識の進化を表します。変換は、静止を拒み、常に動き続ける宇宙の秩序を映します。この中には、変わることの恐怖と期待、そしてそれによって得られる可能性の広がりが無限に存在します。我々は皆、変換という大いなる流れの中で生き、成長を続けながら、新たなる光を見つめる勇気を持つ必要があるのです。",
+                "synonyms": [
+                        "Transform",
+                        "Transmute"
+                ],
+                "antonyms": [
+                        "Maintain",
+                        "Preserve"
+                ],
+                "aftertaste": "Transformation is the silent dance of existence's perpetual rhythm.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "vertere",
+                                        "meaning": "to turn"
+                                }
+                        ],
+                        "points": [
+                                "言葉の語源を探ることで、時を遡り、人類の意識とその進化を追うことができます。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Latin Origin"
+        },
+        {
+                "id": "intensity",
+                "word": "Intensity",
+                "part_of_speech": "noun",
+                "meaning": "激しさ、強さ、集中度",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "intens-",
+                                        "type": "root",
+                                        "meaning": "強",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "-ity",
+                                        "type": "suffix",
+                                        "meaning": "性質",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "Derived from the Latin 'intensus' meaning 'stretched' or 'strained'."
+                },
+                "core_concept": {
+                        "en": "A profound surge of energy, either unseen or overpoweringly apparent.",
+                        "ja": "内に秘めたるエネルギーの奔流、時に見えざるが、時に圧倒的。"
+                },
+                "thinking_layer": "『強度』とは、我々の存在の奥底から湧き出る力である。それは時に沈黙の中で育まれ、時に雷鳴の如く鳴り響くものである。この力は、目に見えぬ糸で我々を繋ぎ、内側から革命を起こすエネルギーであり、その震動は魂の深淵に届く。日常の喧騒の中で静かに燃える強度の灯火は、神秘的でありながら確固たる意志となり、我々の進むべき道を照らし出す羅針盤となる。強度の存在は、物理的な力を超越し、精神の未踏領域を探求する旅路の触発である。その在り方は詩的かつ哲学的であり、世界のありのままの姿を照らし、内なる真実を解き放たせる。全体としての調和を紡ぎ出す複雑な旋律において、強度は創造と破壊の始まりへの鍵となる。強度が示すのは、その目に見えぬ力が、如何に我々の意志を高め、運命を変える可能性を秘めているかということ。",
+                "synonyms": [
+                        "Intensity",
+                        "Fervor"
+                ],
+                "antonyms": [
+                        "Gentleness",
+                        "Calmness"
+                ],
+                "aftertaste": "In the silence between moments, intensity is the sound of the soul stretching.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "intensus",
+                                        "meaning": "stretched, strained"
+                                },
+                                {
+                                        "term": "iten-",
+                                        "meaning": "to stretch"
+                                }
+                        ],
+                        "points": [
+                                "ラテン語の「intensus」が語源であり、『強烈な』や『極端な』という意味を持つ。",
+                                "「-ity」はラテン語の接尾辞であり、形容詞を名詞化して『性質』を示す。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-01",
+                "era": "Medieval Latin"
+        },
+        {
+                "id": "instruction",
+                "word": "Instruction",
+                "part_of_speech": "noun",
+                "meaning": "指示または指導",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "in-",
+                                        "type": "prefix",
+                                        "meaning": "中に",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "struere",
+                                        "type": "root",
+                                        "meaning": "立てる、組み立てる",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The term 'instruction' is derived from the Latin 'instructio', which means the act of building or arranging, derived from 'in-' meaning 'in' and 'struere' meaning 'to construct'."
+                },
+                "core_concept": {
+                        "en": "The gentle architecture of minds through careful guidance.",
+                        "ja": "注意深い導きによる心の優美な構築"
+                },
+                "thinking_layer": "人間の思索における『指導』の概念は、折り重なる歴史の中で育まれた知の塔である。指導とは、単に情報や技術を伝達する行為ではない。それは、個々の魂に形を与える過程であり、各人の中に眠る可能性を紡ぎ出す神聖な技術である。教え導く者と導かれる者、二つの魂が静かに響き合う時、そこには言葉を超えた共鳴が生まれる。その共鳴は、時に師弟の絆を深め、時代を超えて知恵の流れを形成する。『指導』とは、人間の本質に触れ、深い理解と共感によって新たな知識の花を咲かせることである。この過程の中で、思想は次第に具体性を帯び、知識はただの情報から生きた経験へと深化する。指導されることは、一方的な受動ではなく、心を開き、自らの限界を見つめる行為であり、そこに新たな可能性を見出す冒険でもある。万物の解釈と創造をつなぐこの神秘の階段は、永遠の学びの象徴として、我々の心に追憶と展望を刻み続ける。",
+                "synonyms": [
+                        "Direction",
+                        "Guidance"
+                ],
+                "antonyms": [
+                        "Neglect",
+                        "Misguidance"
+                ],
+                "aftertaste": "Instructions carve silent symphonies within the mind.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "struere",
+                                        "meaning": "to build, arrange"
+                                }
+                        ],
+                        "points": [
+                                "『指導』はラテン語の『instructio』に由来し、心の編み上げを象徴する。"
+                        ]
+                },
+                "source": "Etymonline, Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Late 14th Century"
+        },
+        {
+                "id": "vocabulary",
+                "word": "Vocabulary",
+                "part_of_speech": "noun",
+                "meaning": "言葉や語彙の集まり",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "voc-",
+                                        "type": "root",
+                                        "meaning": "声",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "–abulum",
+                                        "type": "suffix",
+                                        "meaning": "道具",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The term 'vocabulary' originates from the Latin 'vocabulum', meaning 'a name' or 'a word'."
+                },
+                "core_concept": {
+                        "en": "An ethereal tapestry of human expression and understanding.",
+                        "ja": "人間の表現と理解の儚い織物"
+                },
+                "thinking_layer": "言葉というものは、それ自体が形なき器であり、言葉以上のものを運ぶ。私たちの思考や感情を乗せる船であり、時にはその存在そのものが、私たちの内なる世界を照らす灯台ともなる。言葉はただの特定の意味を持つ音の集合体ではない。それは人間の意識そのものであり、時の流れに乗って変遷し進化する。我々は、言葉という限りない海を渡りながら、他者との心の行き交いを求め、その中で自らの存在意義を形作っていく。『語彙』とはこのような航海のための地図、あらゆる言語学的な宝を解き明かす鍵である。そして、その奥深さを探る度に、新たな視点と未知なる可能性が姿を現す。我々の存在を定義し、高め、つなげるものである言葉の力を忘れず、心の眼をもってその真価を貫いていかなければならない。",
+                "synonyms": [
+                        "Lexicon",
+                        "Glossary"
+                ],
+                "antonyms": [
+                        "Silence",
+                        "Ignorance"
+                ],
+                "aftertaste": "Vocabulary bridges the abyss between thought and communication.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "vocare",
+                                        "meaning": "to call"
+                                }
+                        ],
+                        "points": [
+                                "語彙は思考の窓であり、文化の影響を受けた中で進化した。そして、言葉が持つ力とは、時代を越えて人間の精神に直に響く点にある。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Medieval Latin"
+        },
+        {
+                "id": "fortunate",
+                "word": "Fortunate",
+                "part_of_speech": "adjective",
+                "meaning": "幸運な; 恵まれた",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "fortuna",
+                                        "type": "root",
+                                        "meaning": "運命、財運",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "-ate",
+                                        "type": "suffix",
+                                        "meaning": "性質を有する",
+                                        "lang": "English"
+                                }
+                        ],
+                        "original_statement": "The word originates from the Latin 'fortuna', which refers to luck or chance, projecting into English usage in the late Middle Ages."
+                },
+                "core_concept": {
+                        "en": "A serendipitous blessing wrapped in time's unpredictable dance.",
+                        "ja": "時間の予測できない踊りの中に包まれた幸運の祝福"
+                },
+                "thinking_layer": "「幸運」という言葉は単なる偶然の一致に過ぎず、それは冷たくも温かく、さまざまな感情と運命が絡み合う糸で織り成されています。人生の海に浮かぶ舟は、時に嵐に出会うこともあれば、静かで優雅な風を受けることもある。それは意味深く、かつ無意味でもあり、我々の生存の本質に影響する力を持ちます。幸運は、時空を超えて訪れる刹那の瞬間であり、それは感謝と驚愕をもたらす宿命的な出会いです。この瞬間は、未来の展開を予見できない不確実性のベールを取り去り、新たな可能性への扉を開く鍵となります。何より、幸運は自然が我々にくれる儚き贈り物であり、受け取る者の心の在り方によってその価値が決まります。こうして、「幸運」は、我々の心に無数の色彩を与え、人生の道を彩る光となるのです。",
+                "synonyms": [
+                        "Lucky",
+                        "Prosperous"
+                ],
+                "antonyms": [
+                        "Unlucky",
+                        "Unfortunate"
+                ],
+                "aftertaste": "Fortunate is the serendipity that guides us through life's odyssey.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "fortuna",
+                                        "meaning": "luck, fate"
+                                },
+                                {
+                                        "term": "-ate",
+                                        "meaning": "possessing a quality"
+                                }
+                        ],
+                        "points": [
+                                "ラテン語の『fortuna』は、運命や偶然を示す言葉であり、その意味は日常の冒険の中に潜む予期しない幸運を含んでいます。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Late Middle Ages"
+        },
+        {
+                "id": "current",
+                "word": "Current",
+                "part_of_speech": "noun, adjective",
+                "meaning": "流れ、現代的な",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "currere",
+                                        "type": "root",
+                                        "meaning": "走る",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "-ent",
+                                        "type": "suffix",
+                                        "meaning": "状態または条件を表す",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "The word 'current' originates from the Latin 'currens', the present participle of 'currere', meaning 'to run'. It entered Middle English in the late 14th century."
+                },
+                "core_concept": {
+                        "en": "A flowing essence of time and existence, perpetual yet ever-present.",
+                        "ja": "常に流動しながらも不変な時と存在の社会を奏でる本質"
+                },
+                "thinking_layer": "時間というものは常に進行中であり、私たちの存在はその流れの中に慈しまれています。「現代」という概念は常に現在と向き合い、過去と未来を橋渡しする。現代であることは、過ぎ去りし時を持続し、未来を夢見ながら、現在という流動的な瞬間に深く根を下ろすことを意味します。その意味では、時の流れを感じつつもその瞬間に留まるという矛盾を抱えています。それは、リバーのように、私たちの内側も外側も共に流れ、絶えず変化し続けるという美しい状態です。「現在」という言葉に隠された哲学は、目の前の瞬間を捉えつつも、それを超えて行こうとする持続的な意識を強調します。人生とは、流れては進化し、少しずつ姿を変えながら、生と死の間で時を奏でるダンスのようです。",
+                "synonyms": [
+                        "Present",
+                        "Contemporary"
+                ],
+                "antonyms": [
+                        "Past",
+                        "Historical"
+                ],
+                "aftertaste": "Time flows eternally, urging us to embrace the perpetual now.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "currere",
+                                        "meaning": "to run"
+                                }
+                        ],
+                        "points": [
+                                "「カレント」という言葉の語源は、時の流れやエネルギーの循環を表します。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "Late 14th Century"
         }
 ];
