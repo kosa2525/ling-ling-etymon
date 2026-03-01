@@ -1586,6 +1586,19 @@ document.addEventListener('DOMContentLoaded', async () => {
         if (data.status === 'paid') { State.isPremium = true; localStorage.setItem('isPremium', 'true'); applySettings(); }
         window.history.replaceState({}, '', '/');
     }
+
+    try {
+        const resWords = await apiGet('/api/user-words');
+        if (typeof WORDS !== 'undefined' && Array.isArray(resWords)) {
+            // Add user words that aren't already in the list
+            resWords.forEach(uw => {
+                if (!WORDS.find(w => w.id === uw.id)) {
+                    WORDS.push(uw);
+                }
+            });
+        }
+    } catch (e) { console.error("Could not load user words"); }
+
     if (typeof WORDS !== 'undefined' && WORDS.length) {
         if (!State.todayWord) State.todayWord = WORDS[Math.floor(Math.random() * WORDS.length)];
     }
