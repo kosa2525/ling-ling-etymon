@@ -29124,5 +29124,51 @@ const WORDS = [
                 "source": "Oxford English Dictionary",
                 "date": "2026-03-01",
                 "era": "Middle Dutch/Old Norse"
+        },
+        {
+                "id": "grovel",
+                "word": "Grovel",
+                "part_of_speech": "verb",
+                "meaning": "卑屈に振る舞う",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "grufen-",
+                                        "type": "root",
+                                        "meaning": "這う",
+                                        "lang": "Middle English"
+                                }
+                        ],
+                        "original_statement": "The word 'grovel' emanates from Middle English 'grovelen', which means to lie face down in submission or adulation, derived from Old Norse influence."
+                },
+                "core_concept": {
+                        "en": "The humbling of spirit, a physical manifestation of submission.",
+                        "ja": "魂を低くし、服従の姿勢を体現すること。"
+                },
+                "thinking_layer": "『卑屈に』という言葉に潜む深さは、内なる精神的な自己を抑制し、他者や環境に対して自己を無にする過程である。人は時にその心を膝の屈曲に諾し、地に伏して敬意や恐れを表する。これは、単に身体の姿勢が地面に近くなるという外面的な行動に留まらず、精神の微細な屈折の象徴でもある。自己の意思や目的を他者の言葉や行為の下に置く瞬間、そこに脆弱さとともに、深い静謐さと不可思議な安堵感が存在するかもしれない。この態度はしばしば協調的な生存の道具ともなり得るが、逆に自己の消失をもたらす危険性も孕む。したがって、「屈する」という行為が内包する哲学的な意味合いを見つめ直すことは、個々の存在意義を問い直すことでもあると言える。単なる動作を超えた内的な蝕まれ、時として自己との和解の一歩にもなりえるこの行為——それは、尊敬と恐怖の間に広がる無限のスペクトラムにおける、一瞬の抒情詩である。人の魂が土に帰るその時、我々は確かに、何かしらの美に触れることができるのではないだろうか。",
+                "synonyms": [
+                        "prostrate",
+                        "slink"
+                ],
+                "antonyms": [
+                        "stand",
+                        "defy"
+                ],
+                "aftertaste": "Groveling is the humble dance of the spirit in the gaze of the universe.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "grufen",
+                                        "meaning": "creep, crawl"
+                                }
+                        ],
+                        "points": [
+                                "この言葉は、精神や身体が地面に接近することで何かを探し求める古い行為から来ている。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-01",
+                "era": "14th Century"
         }
 ];
