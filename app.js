@@ -947,8 +947,8 @@ async function renderWordNetwork(mode = 'global') {
             <div style="position:absolute; bottom:20px; left:20px; background:var(--color-surface); padding:1.2rem; border-radius:16px; border:1px solid var(--color-border); font-size:0.8rem; opacity:0.95; line-height:1.7; z-index:10; box-shadow: 0 4px 20px rgba(0,0,0,0.3);">
                 <div style="font-weight:bold; margin-bottom:0.5rem; border-bottom:1px solid var(--color-border); padding-bottom:0.3rem;">Legend</div>
                 <div style="display:flex; align-items:center; gap:8px;"><span style="width:12px; height:12px; background:#3b82f6; border-radius:50%; display:inline-block;"></span> 🔵 Word (Click to view)</div>
-                <div style="display:flex; align-items:center; gap:8px;"><span style="width:12px; height:12px; background:#f59e0b; border-radius:50%; display:inline-block;"></span> 🟡 Root (Click to search)</div>
-                <div style="display:flex; align-items:center; gap:8px;"><span style="width:12px; height:12px; background:#10b981; border-radius:50%; display:inline-block;"></span> 🟢 Prefix (Click to search)</div>
+                <div style="display:flex; align-items:center; gap:8px;"><span style="width:12px; height:12px; background:#eab308; border-radius:50%; display:inline-block;"></span> 🟡 Root (Click to search)</div>
+                <div style="display:flex; align-items:center; gap:8px;"><span style="width:12px; height:12px; background:#22c55e; border-radius:50%; display:inline-block;"></span> 🟢 Prefix (Click to search)</div>
                 <div style="display:flex; align-items:center; gap:8px;"><span style="width:12px; height:12px; background:#ef4444; border-radius:50%; display:inline-block;"></span> 🔴 Suffix (Click to search)</div>
             </div>
         </div>
@@ -961,7 +961,7 @@ async function renderWordNetwork(mode = 'global') {
     const container = document.getElementById('network-graph');
     const nodes = new vis.DataSet(data.nodes.map(n => ({
         ...n,
-        color: n.group === 'root' ? '#f59e0b' : (n.group === 'prefix' ? '#10b981' : (n.group === 'suffix' ? '#ef4444' : '#3b82f6')),
+        color: n.group === 'root' ? '#eab308' : (n.group === 'prefix' ? '#22c55e' : (n.group === 'suffix' ? '#ef4444' : '#3b82f6')),
         font: { color: '#ffffff', size: 14, strokeWidth: 2, strokeColor: '#000000' },
         shape: 'dot',
         size: n.group === 'word' ? 15 : 25
