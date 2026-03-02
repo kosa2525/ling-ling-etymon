@@ -1219,7 +1219,6 @@ async function renderWordNetwork(mode = 'global') {
 
     const nodes = new vis.DataSet(data.nodes.map(n => ({
         ...n,
-        color: n.group === 'root' ? rootColor : (n.group === 'prefix' ? prefixColor : (n.group === 'suffix' ? suffixColor : wordColor)),
         font: { color: '#ffffff', size: 14, strokeWidth: 2, strokeColor: '#000000' },
         shape: 'dot',
         size: n.group === 'word' ? 15 : 25
@@ -1227,7 +1226,13 @@ async function renderWordNetwork(mode = 'global') {
     const edges = new vis.DataSet(data.edges);
     const options = {
         physics: { stabilization: true, barnesHut: { gravitationalConstant: -2000 } },
-        edges: { color: 'rgba(255,255,255,0.2)' }
+        edges: { color: 'rgba(255,255,255,0.2)' },
+        groups: {
+            word: { color: wordColor },
+            root: { color: rootColor },
+            prefix: { color: prefixColor },
+            suffix: { color: suffixColor }
+        }
     };
     const network = new vis.Network(container, { nodes, edges }, options);
     network.on("click", function (params) {
