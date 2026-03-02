@@ -54,7 +54,7 @@ const PART_COLORS = {
 const resolveColor = (val) => {
     if (val.startsWith('var(')) {
         const varName = val.replace(/var\(|\)/g, '').trim();
-        return getComputedStyle(document.documentElement).getPropertyValue(varName).trim() || '#3b82f6';
+        return getComputedStyle(document.body).getPropertyValue(varName).trim() || '#3b82f6';
     }
     return val;
 };
