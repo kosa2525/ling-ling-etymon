@@ -42,6 +42,14 @@ window.currentAudio = null;
 
 const API_BASE = window.location.origin;
 
+// --- Design System Colors ---
+const PART_COLORS = {
+    word: '#3b82f6',   // Blue
+    root: '#eab308',   // Yellow
+    prefix: '#22c55e', // Green
+    suffix: '#ef4444'  // Red
+};
+
 // --- Utils ---
 async function apiGet(endpoint) {
     try {
@@ -201,12 +209,21 @@ async function renderToday() {
                 <div class="etymology-box">
                     <span class="section-label">Structure ${!State.isPremium ? '🔒' : ''}</span>
                     <div class="etymology-breakdown" style="font-size: 1.1rem; margin-top:0.5rem;">
-                        ${word.etymology.breakdown.map(b => `
-                            <span class="morpheme-link" data-term="${b.text}" style="cursor:${State.isPremium ? 'pointer' : 'default'}">
-                                <span class="morpheme-text" style="color:${State.isPremium ? 'var(--color-accent)' : 'inherit'}; font-weight:bold;">${b.text}</span>
-                                <span class="morpheme-meaning">（${b.meaning}）</span>
-                            </span>
-                        `).join(' + ')}
+                        ${word.etymology.breakdown.map(b => {
+        const b_type = (b.type || '').toLowerCase();
+        const color = State.isPremium
+            ? (b_type.includes('prefix') ? PART_COLORS.prefix
+                : (b_type.includes('suffix') ? PART_COLORS.suffix
+                    : (b_type.includes('root') ? PART_COLORS.root
+                        : PART_COLORS.word)))
+            : 'inherit';
+        return `
+                                <span class="morpheme-link" data-term="${b.text}" style="cursor:${State.isPremium ? 'pointer' : 'default'}">
+                                    <span class="morpheme-text" style="color:${color}; font-weight:bold;">${b.text}</span>
+                                    <span class="morpheme-meaning">（${b.meaning}）</span>
+                                </span>
+                            `;
+    }).join(' + ')}
                     </div>
                 </div>
                 <div class="word-options-container" style="position:absolute; top:0; right:0;">
@@ -1171,10 +1188,10 @@ async function renderWordNetwork(mode = 'global') {
             </div>
             <div style="position:absolute; bottom:20px; left:20px; background:var(--color-surface); padding:1.2rem; border-radius:16px; border:1px solid var(--color-border); font-size:0.8rem; opacity:0.95; line-height:1.7; z-index:10; box-shadow: 0 4px 20px rgba(0,0,0,0.3);">
                 <div style="font-weight:bold; margin-bottom:0.5rem; border-bottom:1px solid var(--color-border); padding-bottom:0.3rem;">Legend</div>
-                <div style="display:flex; align-items:center; gap:8px;"><span style="width:12px; height:12px; background:#3b82f6; border-radius:50%; display:inline-block;"></span> 🔵 Word (Click to view)</div>
-                <div style="display:flex; align-items:center; gap:8px;"><span style="width:12px; height:12px; background:#eab308; border-radius:50%; display:inline-block;"></span> 🟡 Root (Click to search)</div>
-                <div style="display:flex; align-items:center; gap:8px;"><span style="width:12px; height:12px; background:#22c55e; border-radius:50%; display:inline-block;"></span> 🟢 Prefix (Click to search)</div>
-                <div style="display:flex; align-items:center; gap:8px;"><span style="width:12px; height:12px; background:#ef4444; border-radius:50%; display:inline-block;"></span> 🔴 Suffix (Click to search)</div>
+                <div style="display:flex; align-items:center; gap:8px;"><span style="width:12px; height:12px; background:${PART_COLORS.word}; border-radius:50%; display:inline-block;"></span> 🔵 Word (Click to view)</div>
+                <div style="display:flex; align-items:center; gap:8px;"><span style="width:12px; height:12px; background:${PART_COLORS.root}; border-radius:50%; display:inline-block;"></span> 🟡 Root (Click to search)</div>
+                <div style="display:flex; align-items:center; gap:8px;"><span style="width:12px; height:12px; background:${PART_COLORS.prefix}; border-radius:50%; display:inline-block;"></span> 🟢 Prefix (Click to search)</div>
+                <div style="display:flex; align-items:center; gap:8px;"><span style="width:12px; height:12px; background:${PART_COLORS.suffix}; border-radius:50%; display:inline-block;"></span> 🔴 Suffix (Click to search)</div>
             </div>
         </div>
     `;
@@ -1188,7 +1205,7 @@ async function renderWordNetwork(mode = 'global') {
     const container = document.getElementById('network-graph');
     const nodes = new vis.DataSet(data.nodes.map(n => ({
         ...n,
-        color: n.group === 'root' ? '#eab308' : (n.group === 'prefix' ? '#22c55e' : (n.group === 'suffix' ? '#ef4444' : '#3b82f6')),
+        color: n.group === 'root' ? PART_COLORS.root : (n.group === 'prefix' ? PART_COLORS.prefix : (n.group === 'suffix' ? PART_COLORS.suffix : PART_COLORS.word)),
         font: { color: '#ffffff', size: 14, strokeWidth: 2, strokeColor: '#000000' },
         shape: 'dot',
         size: n.group === 'word' ? 15 : 25
