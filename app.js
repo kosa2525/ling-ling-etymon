@@ -44,10 +44,19 @@ const API_BASE = window.location.origin;
 
 // --- Design System Colors ---
 const PART_COLORS = {
-    word: '#3b82f6',   // Blue
-    root: '#eab308',   // Yellow
+    word: 'var(--color-accent)', // Maps to UI theme
+    root: 'var(--color-premium)',  // Maps to Semantic Roots
     prefix: '#22c55e', // Green
     suffix: '#ef4444'  // Red
+};
+
+// Canvas rendering (like vis.js) needs explicit hex/rgb colors instead of CSS variables
+const resolveColor = (val) => {
+    if (val.startsWith('var(')) {
+        const varName = val.replace(/var\(|\)/g, '').trim();
+        return getComputedStyle(document.documentElement).getPropertyValue(varName).trim() || '#3b82f6';
+    }
+    return val;
 };
 
 // --- Utils ---
@@ -1201,9 +1210,16 @@ async function renderWordNetwork(mode = 'global') {
     // キャッシュを回避するためにランダムなパラメータ(t)を付与することで、常に新しいランダムの500単語を取得
     const data = await apiGet(`/api/word-network?mode=${mode}&username=${State.currentUser || ''}&ids=${ids}&t=${Date.now()}`);
     const container = document.getElementById('network-graph');
+
+    // Resolve CSS variables for canvas rendering before creating the dataset
+    const wordColor = resolveColor(PART_COLORS.word);
+    const rootColor = resolveColor(PART_COLORS.root);
+    const prefixColor = resolveColor(PART_COLORS.prefix);
+    const suffixColor = resolveColor(PART_COLORS.suffix);
+
     const nodes = new vis.DataSet(data.nodes.map(n => ({
         ...n,
-        color: n.group === 'root' ? PART_COLORS.root : (n.group === 'prefix' ? PART_COLORS.prefix : (n.group === 'suffix' ? PART_COLORS.suffix : PART_COLORS.word)),
+        color: n.group === 'root' ? rootColor : (n.group === 'prefix' ? prefixColor : (n.group === 'suffix' ? suffixColor : wordColor)),
         font: { color: '#ffffff', size: 14, strokeWidth: 2, strokeColor: '#000000' },
         shape: 'dot',
         size: n.group === 'word' ? 15 : 25
