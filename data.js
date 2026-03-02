@@ -130931,5 +130931,161 @@ const WORDS = [
                 },
                 "source": "etymon Philologist Mode",
                 "era": "17th Century French"
+        },
+        {
+                "id": "innovate",
+                "word": "Innovate",
+                "part_of_speech": "verb",
+                "meaning": "新しいことを行う、革新する",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "in-",
+                                        "type": "prefix",
+                                        "meaning": "中に",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "novus",
+                                        "type": "root",
+                                        "meaning": "新しい",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "From Latin innovatus, past participle of innovare 'to renew, change', from in- 'into' + novus 'new'."
+                },
+                "core_concept": {
+                        "en": "The dance of daring into the new.",
+                        "ja": "新しき世界への大胆な舞踏"
+                },
+                "thinking_layer": "革新、あるいは『新しきものへの冒険』としてのこの言葉は、絶えず変わり続ける世界の中で、常に新しい可能性と未知の地平を求める人間の本質を表している。イノベーションは、現状に安住することなかれとの警鐘であり、意識の変容と発展を促す呼びかけである。我々が新たな未来を切り開くとき、その過程には大いなる不確定性とリスクが潜んでいる。しかし、革新の道を選ぶ勇気は、閉塞を打破し、時に人類の歴史をも大きく変える。その一歩一歩は、情熱と勇気が溶け合い新たな生命を吹き込む瞬間である。イノベーションという行為は、単なる技術や製品の改良に留まらず、魂の深化や、新たな視点が生み出す世界観の転換をも意味している。静寂と混沌が交錯する中から誕生するその原動力は、未来を見据えた希望と夢、そしてそれを現実へと形作る力である。勇敢な革新者たちは、その道の先にどのような風景が広がるかを知ることなく、ただ可能性を信じて進む冒険者である。",
+                "synonyms": [
+                        "Revolutionize",
+                        "Transform"
+                ],
+                "antonyms": [
+                        "Maintain",
+                        "Preserve"
+                ],
+                "aftertaste": "Innovation is the heartbeat of progress.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "novus",
+                                        "meaning": "new"
+                                }
+                        ],
+                        "points": [
+                                "『革新』という概念は、時代の進化と人間の創造的意識の結合を示唆している。"
+                        ]
+                },
+                "source": "Oxford English Dictionary",
+                "date": "2026-03-02",
+                "era": "Late Middle English"
+        },
+        {
+                "id": "nation",
+                "word": "Nation",
+                "part_of_speech": "noun",
+                "meaning": "国家や民族",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "natio-",
+                                        "type": "root",
+                                        "meaning": "生まれること、出身",
+                                        "lang": "Latin"
+                                },
+                                {
+                                        "text": "-on",
+                                        "type": "suffix",
+                                        "meaning": "状態や行動、集合を示す",
+                                        "lang": "Latin"
+                                }
+                        ],
+                        "original_statement": "Derived from Latin 'natio', meaning 'nation, people, race', from 'natus', 'born', and 'nasci', 'to be born'."
+                },
+                "core_concept": {
+                        "en": "A living tapestry of collective souls bound by shared dreams.",
+                        "ja": "共有された夢で結ばれた集合的な魂の生きた織物"
+                },
+                "thinking_layer": "国家という概念は、人類の歴史と社会の中で深く刻まれた存在である。我々の心と心の狭間に、その存在は文化や共同体の核として存在する。国というものは、ただの政治的な境界線ではなく、人々が夢を共有し、共に生を編み上げていく場である。地理的な境界を超えて、国家は愛国心と帰属意識を呼び起こし、我々の存在の意味を再定義する装置となる。国家は単なる集まりではなく、人々が心の根幹を共にし、歴史を紡いでいく過程である。その一方で、国境がもたらす分断は、しばしば苦悩を生むが、同時に新たな結束と希望の源ともなる。それは個と集のダイナミックな相互作用であり、統一と多様性の中に存在する美を見出す試みでもある。その深遠なる思索の中に、国家という言葉は、我々がこの地球上でどのように共に在るべきかを静かに問いかけている。",
+                "synonyms": [
+                        "country",
+                        "state"
+                ],
+                "antonyms": [
+                        "individual",
+                        "person"
+                ],
+                "aftertaste": "In its essence, a nation is the collective soul of its people.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "natio",
+                                        "meaning": "a group of people born in the same place"
+                                }
+                        ],
+                        "points": [
+                                "ラテン語のnatioは『生まれること』から来ており、個々の人々が生来のつながりや共通の起源をもって形成する共同体を意味する。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-02",
+                "era": "Late Middle English, Latin origin"
+        },
+        {
+                "id": "plantation",
+                "word": "Plantation",
+                "part_of_speech": "noun",
+                "meaning": "プランテーション、大規模農場",
+                "author": "etymon_official",
+                "etymology": {
+                        "breakdown": [
+                                {
+                                        "text": "-plant-",
+                                        "type": "root",
+                                        "meaning": "植える",
+                                        "lang": "ラテン語"
+                                },
+                                {
+                                        "text": "plantare",
+                                        "type": "root",
+                                        "meaning": "植えつける",
+                                        "lang": "ラテン語"
+                                }
+                        ],
+                        "original_statement": "Derived from the Latin 'plantatio', referring to planting or setting plants."
+                },
+                "core_concept": {
+                        "en": "A landscape nurtured by human vision and earth's bounty.",
+                        "ja": "人間のビジョンと大地の恵みによって育まれる風景"
+                },
+                "thinking_layer": "プランテーションという言葉は、大地と人間の関係性を深く考えさせる響きを持っています。この語は単なる農作物の大量生産を意味するだけでなく、自然と文明の複雑な交錯点としての存在を示唆します。大地に種子を植え、時間という抽象的な概念を立体的に表現する行為。そこには希望と労苦、期待と奮闘の物語が詰まっています。プランテーションは生命の象徴であり、人類の持続可能な未来を築くための挑戦と願いを象徴しています。自然の循環と人間の営みが絡み合い、生命が育まれるその過程には神秘的な美しさがあります。全ての植物がそれぞれの物語を語り、それを共鳴することによって、自然の調和を図るのが人類の使命なのかもしれません。",
+                "synonyms": [
+                        "Farm",
+                        "Estate"
+                ],
+                "antonyms": [
+                        "Desert",
+                        "Wasteland"
+                ],
+                "aftertaste": "A plantation is more than fields; it’s a canvas for the dreams of humanity.",
+                "deep_dive": {
+                        "roots": [
+                                {
+                                        "term": "plant",
+                                        "meaning": "to plant or sow seeds"
+                                }
+                        ],
+                        "points": [
+                                "プランテーションの概念は、資本主義と植民地主義の歴史とも深く結びついています。"
+                        ]
+                },
+                "source": "Online Etymology Dictionary",
+                "date": "2026-03-02",
+                "era": "15th Century"
         }
 ];
