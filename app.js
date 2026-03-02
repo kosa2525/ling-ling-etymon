@@ -211,12 +211,10 @@ async function renderToday() {
                     <div class="etymology-breakdown" style="font-size: 1.1rem; margin-top:0.5rem;">
                         ${word.etymology.breakdown.map(b => {
         const b_type = (b.type || '').toLowerCase();
-        const color = State.isPremium
-            ? (b_type.includes('prefix') ? PART_COLORS.prefix
-                : (b_type.includes('suffix') ? PART_COLORS.suffix
-                    : (b_type.includes('root') ? PART_COLORS.root
-                        : PART_COLORS.word)))
-            : 'inherit';
+        const color = b_type.includes('prefix') ? PART_COLORS.prefix
+            : (b_type.includes('suffix') ? PART_COLORS.suffix
+                : (b_type.includes('root') ? PART_COLORS.root
+                    : PART_COLORS.word));
         return `
                                 <span class="morpheme-link" data-term="${b.text}" style="cursor:${State.isPremium ? 'pointer' : 'default'}">
                                     <span class="morpheme-text" style="color:${color}; font-weight:bold;">${b.text}</span>
