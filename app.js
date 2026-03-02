@@ -33,6 +33,8 @@ const navItems = {
     notifications: document.getElementById('nav-notifications'),
     network: document.getElementById('nav-network'),
     timeline: document.getElementById('nav-timeline'),
+    etymap: document.getElementById('nav-etymap'),
+    synthesizer: document.getElementById('nav-synthesizer'),
     search: document.getElementById('global-search-input')
 };
 
@@ -1137,6 +1139,8 @@ async function navigate(view) {
                 case 'notifications': await renderNotifications(); break;
                 case 'network': await renderWordNetwork(); break;
                 case 'timeline': renderTimeline(); break;
+                case 'etymap': renderEtyMap(); break;
+                case 'synthesizer': renderSynthesizer(); break;
             }
         } catch (err) {
             console.error("Navigation error:", err);
@@ -1717,6 +1721,8 @@ document.addEventListener('DOMContentLoaded', async () => {
     if (navItems.notifications) navItems.notifications.onclick = () => navigate('notifications');
     if (navItems.network) navItems.network.onclick = () => navigate('network');
     if (navItems.timeline) navItems.timeline.onclick = () => navigate('timeline');
+    if (navItems.etymap) navItems.etymap.onclick = () => navigate('etymap');
+    if (navItems.synthesizer) navItems.synthesizer.onclick = () => navigate('synthesizer');
 
     if (navItems.search) {
         navItems.search.onkeypress = (e) => {
@@ -1863,4 +1869,439 @@ async function deleteMyPost(type, id) {
     } catch (e) {
         showToast('通信エラーが発生しました');
     }
+}
+
+// --- Map & Synthesizer Logic ---
+
+function renderEtyMap() {
+    viewContainer.innerHTML = `
+        <div class="etymap-view fade-in" style="height: calc(100vh - 100px); display:flex; flex-direction:column; align-items:center; justify-content:center; position:relative; overflow:hidden; padding-top:2rem;">
+            <div style="position:absolute; top:2rem; text-align:center; z-index:10; width:100%;">
+                <h2 style="font-size:2.2rem; font-weight:300; letter-spacing:0.1em; color:var(--color-premium); text-shadow: 0 0 20px rgba(245,158,11,0.5);">Etymology Map</h2>
+                <p style="opacity:0.6; font-size:0.9rem; margin-top:0.5rem; font-style:italic;">Witness the epic journey of roots tracing across continents.</p>
+                <div style="margin-top:1.5rem; display:flex; gap:10px; justify-content:center;" id="map-buttons">
+                    <button class="chip followed active" onclick="drawMapRoute('*sed-')">*sed- (to sit)</button>
+                    <button class="chip" onclick="drawMapRoute('*sta-')">*sta- (to stand)</button>
+                    <button class="chip" onclick="drawMapRoute('*bher-')">*bher- (to bear)</button>
+                </div>
+            </div>
+            
+            <div id="map-container" style="position:relative; width: 100%; max-width: 900px; height: 500px; margin-top: 4rem; border-radius: 20px; box-shadow: 0 0 40px rgba(0,0,0,0.4); border: 1px solid rgba(255,255,255,0.08); background: radial-gradient(circle at center, #111827 0%, #030712 100%);">
+                <svg id="epic-map" viewBox="0 0 800 500" style="width:100%; height:100%;">
+                    <style>
+                        .map-land { fill: #1f2937; stroke: #374151; stroke-width: 1; opacity:0.6; }
+                        .route-line { fill: none; stroke: var(--color-premium); stroke-width: 2.5; stroke-linecap: round; filter: drop-shadow(0 0 10px var(--color-premium)); stroke-dasharray: 2000; stroke-dashoffset: 2000; animation: traceRoute 4s forwards cubic-bezier(0.25, 0.1, 0.25, 1); }
+                        .node-point { fill: #fff; filter: drop-shadow(0 0 6px #fff); opacity:0; animation: fadeNode 0.8s forwards; }
+                        .node-label { fill: #e5e7eb; font-size: 14px; font-family: 'Inter', sans-serif; font-weight:300; opacity:0; animation: fadeNode 0.8s forwards; text-anchor:middle; }
+                        .pulse { fill: transparent; stroke: var(--color-premium); stroke-width:1; opacity:0; animation: pulseRing 2s infinite; }
+                        @keyframes traceRoute { to { stroke-dashoffset: 0; } }
+                        @keyframes fadeNode { to { opacity: 1; } }
+                        @keyframes pulseRing { 0% { r: 5; opacity: 1; } 100% { r: 25; opacity: 0; } }
+                    </style>
+                    <!-- Abstract representation of Eurasia landmass -->
+                    <path class="map-land" d="M 50,200 Q 150,150 300,120 T 550,100 Q 650,80 750,120 L 780,250 Q 700,350 600,420 Q 500,450 400,380 Q 350,450 250,400 Q 150,480 50,400 Z" />
+                    <g id="map-traces"></g>
+                </svg>
+            </div>
+            
+            <div id="map-info" style="position:absolute; bottom:2rem; left:2rem; background:var(--color-surface); padding:1.5rem 2rem; border-radius:16px; border:1px solid var(--color-border); max-width:400px; opacity:0; transition: opacity 0.5s; box-shadow: 0 8px 32px rgba(0,0,0,0.4);">
+                <h3 id="map-info-title" style="color:var(--color-premium); margin-bottom:0.5rem; font-size:1.4rem;"></h3>
+                <p id="map-info-desc" style="font-size:0.95rem; line-height:1.6; color:var(--color-text-dim);"></p>
+            </div>
+        </div>
+    `;
+
+    window.mapTracesData = {
+        '*sed-': {
+            title: "The Journey of *sed-",
+            desc: "From the PIE homeland near the Pontic-Caspian steppe, *sed- (to sit) echoed through time. It birthed 'hedra' in ancient Greece (cathedral), 'sedere' in Rome (sedentary), passed through Old French (see), and settled as 'sit' and 'chair' in modern English.",
+            route: "M 600,150 Q 500,280 400,320 Q 280,300 250,220 Q 200,180 120,200",
+            nodes: [
+                { x: 600, y: 150, label: "Proto-Indo-European\n*sed-", delay: 0 },
+                { x: 400, y: 320, label: "Ancient Greek\nhedra", delay: 1000 },
+                { x: 250, y: 220, label: "Latin\nsedere", delay: 2000 },
+                { x: 180, y: 195, label: "Old French\nsee", delay: 2800 },
+                { x: 120, y: 200, label: "Modern English\nsit, session", delay: 3500 }
+            ]
+        },
+        '*sta-': {
+            title: "The Persistence of *sta-",
+            desc: "The ancient root for 'to stand' was unshakeable. It fortified 'stare' in Latin, forged the 'statue' and 'state', and swept across the Germanic tribes to give us 'stand' and 'understand'.",
+            route: "M 580,160 Q 450,180 300,250 Q 200,150 140,180",
+            nodes: [
+                { x: 580, y: 160, label: "PIE\n*sta-", delay: 0 },
+                { x: 450, y: 180, label: "Proto-Germanic\n*standanan", delay: 1200 },
+                { x: 300, y: 250, label: "Latin\nstare", delay: 2200 },
+                { x: 140, y: 180, label: "English\nstand, state", delay: 3500 }
+            ]
+        },
+        '*bher-': {
+            title: "The Burden of *bher-",
+            desc: "To carry or to bear. The root traveled far: becoming 'pherein' in Greek (metaphor), 'ferre' in Latin (transfer), and 'beran' in Old English, carrying the weight of language on its shoulders.",
+            route: "M 620,130 Q 520,350 420,350 Q 300,320 280,260 Q 200,160 100,210",
+            nodes: [
+                { x: 620, y: 130, label: "PIE\n*bher-", delay: 0 },
+                { x: 420, y: 350, label: "Greek\npherein", delay: 1000 },
+                { x: 280, y: 260, label: "Latin\nferre", delay: 2000 },
+                { x: 100, y: 210, label: "English\nbear, burden", delay: 3500 }
+            ]
+        }
+    };
+
+    setTimeout(() => drawMapRoute('*sed-'), 100);
+}
+
+window.drawMapRoute = function (rootKey) {
+    const data = window.mapTracesData[rootKey];
+    if (!data) return;
+
+    // Update buttons
+    const btns = document.getElementById('map-buttons').querySelectorAll('button');
+    btns.forEach(b => {
+        b.classList.remove('followed', 'active');
+        b.style.borderColor = 'var(--color-border)';
+        b.style.color = 'var(--color-text-dim)';
+        if (b.innerText.includes(rootKey)) {
+            b.classList.add('followed', 'active');
+            b.style.color = 'var(--color-premium)';
+            b.style.borderColor = 'var(--color-premium)';
+        }
+    });
+
+    const tracesGroup = document.getElementById('map-traces');
+    tracesGroup.innerHTML = '';
+
+    // Hide info temporarily
+    const infoBox = document.getElementById('map-info');
+    infoBox.style.opacity = '0';
+
+    // Draw Route Line
+    const path = document.createElementNS("http://www.w3.org/2000/svg", "path");
+    path.setAttribute("class", "route-line");
+    path.setAttribute("d", data.route);
+    tracesGroup.appendChild(path);
+
+    // Draw Nodes
+    data.nodes.forEach(node => {
+        // Point
+        const circle = document.createElementNS("http://www.w3.org/2000/svg", "circle");
+        circle.setAttribute("cx", node.x);
+        circle.setAttribute("cy", node.y);
+        circle.setAttribute("r", 5);
+        circle.setAttribute("class", "node-point");
+        circle.style.animationDelay = (node.delay / 1000) + 's';
+        tracesGroup.appendChild(circle);
+
+        // Pulse
+        const pulse = document.createElementNS("http://www.w3.org/2000/svg", "circle");
+        pulse.setAttribute("cx", node.x);
+        pulse.setAttribute("cy", node.y);
+        pulse.setAttribute("class", "pulse");
+        pulse.style.animationDelay = (node.delay / 1000) + 's';
+        tracesGroup.appendChild(pulse);
+
+        // Text
+        const lines = node.label.split('\\n');
+        const text = document.createElementNS("http://www.w3.org/2000/svg", "text");
+        text.setAttribute("x", node.x);
+        text.setAttribute("y", node.y - 25);
+        text.setAttribute("class", "node-label");
+        text.style.animationDelay = (node.delay / 1000) + 's';
+
+        lines.forEach((l, i) => {
+            const tspan = document.createElementNS("http://www.w3.org/2000/svg", "tspan");
+            tspan.setAttribute("x", node.x);
+            tspan.setAttribute("dy", i === 0 ? 0 : 16);
+            if (i === 0) tspan.style.fontWeight = "bold";
+            tspan.textContent = l;
+            text.appendChild(tspan);
+        });
+        tracesGroup.appendChild(text);
+    });
+
+    // Show info after a slight delay
+    setTimeout(() => {
+        document.getElementById('map-info-title').textContent = data.title;
+        document.getElementById('map-info-desc').textContent = data.desc;
+        infoBox.style.opacity = '1';
+    }, 1500);
+};
+
+// --- Root Synthesizer ---
+
+const SYNTH_PIECES = {
+    prefixes: [
+        { id: 'pre-ab', text: 'ab-', meaning: 'away', color: '#22c55e' },
+        { id: 'pre-com', text: 'com-', meaning: 'together', color: '#22c55e' },
+        { id: 'pre-re', text: 're-', meaning: 'back, again', color: '#22c55e' },
+        { id: 'pre-in', text: 'in-', meaning: 'into / not', color: '#22c55e' },
+        { id: 'pre-ex', text: 'ex-', meaning: 'out', color: '#22c55e' }
+    ],
+    roots: [
+        { id: 'root-duc', text: 'duc / duct', meaning: 'to lead', color: 'var(--color-premium)' },
+        { id: 'root-tract', text: 'tract', meaning: 'to pull', color: 'var(--color-premium)' },
+        { id: 'root-spect', text: 'spect', meaning: 'to look', color: 'var(--color-premium)' },
+        { id: 'root-ject', text: 'ject', meaning: 'to throw', color: 'var(--color-premium)' },
+        { id: 'root-mit', text: 'mit / miss', meaning: 'to send', color: 'var(--color-premium)' }
+    ],
+    suffixes: [
+        { id: 'suf-ion', text: '-ion', meaning: 'act or state', color: '#ef4444' },
+        { id: 'suf-able', text: '-able', meaning: 'capable of', color: '#ef4444' },
+        { id: 'suf-or', text: '-or', meaning: 'one who does', color: '#ef4444' }
+    ]
+};
+
+window.synthState = { prefix: null, root: null, suffix: null };
+
+function renderSynthesizer() {
+    window.synthState = { prefix: null, root: null, suffix: null };
+
+    const renderPiece = (p, type) => {
+        return `<div class="synth-piece" draggable="true" data-id="${p.id}" data-type="${type}" data-text="${p.text}" data-mean="${p.meaning}" data-color="${p.color}" 
+            style="background:var(--color-bg); border:1px solid ${p.color}; color:${p.color}; padding:0.6rem 1rem; border-radius:8px; cursor:grab; text-align:center; user-select:none; font-weight:bold; box-shadow:0 2px 8px rgba(0,0,0,0.2);">
+                <span style="font-size:1.1rem;">${p.text}</span>
+                <span style="display:block; font-size:0.7rem; font-weight:normal; opacity:0.8; margin-top:4px;">${p.meaning}</span>
+            </div>`;
+    };
+
+    viewContainer.innerHTML = `
+        <div class="synth-view fade-in" style="min-height: calc(100vh - 100px); padding: 2rem; display:flex; flex-direction:column; align-items:center;">
+            <div style="text-align:center; margin-bottom:3rem;">
+                <h2 style="font-size:2.5rem; font-weight:300; letter-spacing:0.1em; color:var(--color-premium); text-shadow: 0 0 20px rgba(245,158,11,0.5);">Root Synthesizer</h2>
+                <p style="opacity:0.6; font-size:1rem; margin-top:0.5rem; font-style:italic;">The alchemy of words. Combine morphemes to distill meaning.</p>
+            </div>
+            
+            <div style="display:flex; gap:2rem; width:100%; max-width:1100px; flex-wrap:wrap; justify-content:center;">
+                <!-- Arsenal -->
+                <div style="flex:1 1 300px; background:var(--color-surface); padding:1.5rem; border-radius:24px; border:1px solid var(--color-border); box-shadow: 0 8px 32px rgba(0,0,0,0.3);">
+                    <h3 style="font-size:1rem; margin-bottom:1rem; padding-bottom:0.5rem; border-bottom:1px solid rgba(255,255,255,0.1); color:#22c55e;">Prefixes</h3>
+                    <div id="synth-prefixes" class="piece-container" style="display:flex; flex-wrap:wrap; gap:10px; margin-bottom:1.5rem;">
+                        ${SYNTH_PIECES.prefixes.map(p => renderPiece(p, 'prefix')).join('')}
+                    </div>
+                    
+                    <h3 style="font-size:1rem; margin-bottom:1rem; padding-bottom:0.5rem; border-bottom:1px solid rgba(255,255,255,0.1); color:var(--color-premium);">Roots</h3>
+                    <div id="synth-roots" class="piece-container" style="display:flex; flex-wrap:wrap; gap:10px; margin-bottom:1.5rem;">
+                        ${SYNTH_PIECES.roots.map(p => renderPiece(p, 'root')).join('')}
+                    </div>
+                    
+                    <h3 style="font-size:1rem; margin-bottom:1rem; padding-bottom:0.5rem; border-bottom:1px solid rgba(255,255,255,0.1); color:#ef4444;">Suffixes</h3>
+                    <div id="synth-suffixes" class="piece-container" style="display:flex; flex-wrap:wrap; gap:10px;">
+                        ${SYNTH_PIECES.suffixes.map(p => renderPiece(p, 'suffix')).join('')}
+                    </div>
+                </div>
+                
+                <!-- Alchemy Table -->
+                <div style="flex:1.5 1 500px; display:flex; flex-direction:column; align-items:center; position:relative;">
+                    
+                    <div style="background:var(--color-surface); padding:3rem 1.5rem; border-radius:24px; border:1px solid var(--color-border); box-shadow: 0 12px 40px rgba(0,0,0,0.5); width:100%; display:flex; justify-content:center; align-items:center; gap:2%; background-image: radial-gradient(circle at center, rgba(245,158,11,0.08) 0%, transparent 60%);">
+                        
+                        <div class="drop-zone" data-type="prefix" style="width:30%; aspect-ratio:1/1; max-height:140px; border:2px dashed #22c55e; border-radius:16px; display:flex; flex-direction:column; align-items:center; justify-content:center; transition:all 0.3s; position:relative; background:rgba(34,197,94,0.05);">
+                            <span style="opacity:0.4; font-size:0.9rem;">Drop Prefix</span>
+                        </div>
+                        
+                        <div style="font-size:2rem; opacity:0.3; font-weight:300;">+</div>
+                        
+                        <div class="drop-zone" data-type="root" style="width:30%; aspect-ratio:1/1; max-height:140px; border:2px dashed var(--color-premium); border-radius:16px; display:flex; flex-direction:column; align-items:center; justify-content:center; transition:all 0.3s; position:relative; background:rgba(245,158,11,0.05);">
+                            <span style="opacity:0.4; font-size:0.9rem;">Drop Root</span>
+                        </div>
+                        
+                        <div style="font-size:2rem; opacity:0.3; font-weight:300;">+</div>
+                        
+                        <div class="drop-zone" data-type="suffix" style="width:30%; aspect-ratio:1/1; max-height:140px; border:2px dashed #ef4444; border-radius:16px; display:flex; flex-direction:column; align-items:center; justify-content:center; transition:all 0.3s; position:relative; background:rgba(239,68,68,0.05);">
+                            <span style="opacity:0.4; font-size:0.9rem;">Drop Suffix (Opt)</span>
+                        </div>
+                    </div>
+                    
+                    <div style="margin-top:2rem;">
+                        <button class="primary-btn" onclick="executeSynthesis()" style="padding:1.2rem 4rem; font-size:1.3rem; font-weight:bold; letter-spacing:0.05em; border-radius:50px; box-shadow: 0 0 20px rgba(96,165,250,0.4); text-transform:uppercase;">Transmute</button>
+                    </div>
+                    
+                    <div id="synth-result" style="margin-top:2.5rem; width:100%; text-align:center; padding:2rem; border-radius:16px; background:rgba(255,255,255,0.02); opacity:0; transition:opacity 0.5s; border:1px solid rgba(255,255,255,0.05); box-shadow:0 10px 30px rgba(0,0,0,0.2);">
+                    </div>
+                    <canvas id="synth-fx" style="position:absolute; top:0; left:0; width:100%; height:100%; pointer-events:none; z-index:20;"></canvas>
+                </div>
+            </div>
+        </div>
+        `;
+
+    setTimeout(setupDragAndDrop, 100);
+}
+
+function setupDragAndDrop() {
+    const pieces = document.querySelectorAll('.synth-piece');
+    const zones = document.querySelectorAll('.drop-zone');
+
+    pieces.forEach(p => {
+        p.addEventListener('dragstart', (e) => {
+            e.dataTransfer.setData('text/plain', JSON.stringify({
+                id: p.dataset.id,
+                type: p.dataset.type,
+                text: p.dataset.text,
+                mean: p.dataset.mean,
+                color: p.dataset.color
+            }));
+            p.style.opacity = '0.5';
+        });
+        p.addEventListener('dragend', () => {
+            p.style.opacity = '1';
+        });
+    });
+
+    zones.forEach(z => {
+        z.addEventListener('dragover', (e) => {
+            e.preventDefault();
+            z.style.background = 'rgba(255,255,255,0.1)';
+        });
+        z.addEventListener('dragleave', () => {
+            z.style.background = ''; // revert
+        });
+        z.addEventListener('drop', (e) => {
+            e.preventDefault();
+            z.style.background = '';
+            try {
+                const data = JSON.parse(e.dataTransfer.getData('text/plain'));
+                if (z.dataset.type === data.type) {
+                    window.synthState[data.type] = data;
+
+                    // Update visual in drop zone
+                    z.innerHTML = `
+                        <div style="color:${data.color}; font-size:1.4rem; font-weight:bold; margin-bottom:5px;">${data.text}</div>
+                        <div style="color:var(--color-text-dim); font-size:0.8rem; text-align:center;">${data.mean}</div>
+                        <button onclick="clearSynthSlot('${data.type}')" style="position:absolute; top:5px; right:5px; background:none; border:none; color:rgba(255,255,255,0.5); cursor:pointer;">✕</button>
+                    `;
+                    z.style.borderStyle = 'solid';
+                } else {
+                    showToast('Incorrect piece type for this slot.');
+                }
+            } catch (e) { }
+        });
+    });
+}
+
+window.clearSynthSlot = function (type) {
+    window.synthState[type] = null;
+    const z = document.querySelector(`.drop-zone[data-type="${type}"]`);
+
+    let label = "Drop Piece";
+    let borderCol = "#888";
+    if (type === 'prefix') { label = "Drop Prefix"; borderCol = "#22c55e"; }
+    if (type === 'root') { label = "Drop Root"; borderCol = "var(--color-premium)"; }
+    if (type === 'suffix') { label = "Drop Suffix (Opt)"; borderCol = "#ef4444"; }
+
+    z.innerHTML = `<span style="opacity:0.4; font-size:0.9rem;">${label}</span>`;
+    z.style.borderStyle = 'dashed';
+};
+
+window.executeSynthesis = function () {
+    const s = window.synthState;
+    if (!s.root) {
+        showToast("Wait! You must provide at least a Root.");
+        return;
+    }
+
+    const pre = s.prefix ? s.prefix.text.replace('-', '') : '';
+    const root = s.root ? s.root.text.split('/')[0].trim() : '';
+    const suf = s.suffix ? s.suffix.text.replace('-', '') : '';
+
+    let combined = (pre + root + suf).toLowerCase();
+
+    // Some basic phonetic smoothing rules for the demo
+    if (pre === 'in' && (root.startsWith('m') || root.startsWith('p'))) combined = combined.replace('in', 'im');
+    if (pre === 'com' && (root.startsWith('r') || root.startsWith('l'))) combined = combined.replace('com', 'co');
+    if (pre === 'ad' && root.startsWith('t')) combined = combined.replace('ad', 'at');
+
+    const resultBox = document.getElementById('synth-result');
+
+    // Play particle fx
+    playSynthFx();
+
+    setTimeout(() => {
+        // Find if word is real
+        // Find if word is real
+        const localDictionary = [
+            'abduct', 'conduct', 'deduct', 'product', 'reduce', 'produce', 'induce',
+            'abstract', 'contract', 'distract', 'retract', 'attract', 'extract',
+            'inspect', 'prospect', 'respect', 'suspect', 'aspect',
+            'reject', 'project', 'inject', 'object', 'subject',
+            'emit', 'submit', 'commit', 'remit', 'transmit',
+            'reduction', 'production', 'induction', 'conduction',
+            'abstraction', 'contraction', 'extraction', 'attraction',
+            'inspection', 'respectable', 'projector', 'objection',
+            'commission', 'submission', 'emission',
+            'abductor', 'conductor', 'tractor', 'spectator'
+        ];
+
+        const meaningStr = [s.prefix, s.root, s.suffix].filter(Boolean).map(x => x.mean).join(' + ');
+
+        // Check against global WORDS array and local fallback
+        const isReal = localDictionary.includes(combined) || (typeof WORDS !== 'undefined' && WORDS.some(w => w.word?.toLowerCase() === combined));
+
+        // Find actual meaning if it's in the archive
+        let actualEntry = typeof WORDS !== 'undefined' ? WORDS.find(w => w.word?.toLowerCase() === combined) : null;
+        let html = '';
+        if (isReal) {
+            html = `
+                <div style="color:var(--color-premium); font-size:1.2rem; font-weight:bold; margin-bottom:10px;">✨ Alignment Reached ✨</div>
+                <h3 style="font-size:2.8rem; margin:10px 0; color:#fff; letter-spacing:1px; text-transform:capitalize;">${combined}</h3>
+                <p style="font-size:1rem; opacity:0.8; margin-bottom:15px; font-style:italic;">Literally: " ${meaningStr} "</p>
+                <div style="background:rgba(255,255,255,0.05); padding:1rem; border-radius:12px; display:inline-block; text-align:left; max-width:500px;">
+                    <span style="color:var(--color-accent); font-weight:bold;">Discovery Unlocked.</span> This constitutes a valid English word! 
+                    <br><br>
+                    <button class="chip" onclick="searchToArchive('${combined}')">See Details in Archive →</button>
+                </div>
+            `;
+        } else {
+            html = `
+                <div style="color:var(--color-text-dim); font-size:1.2rem; font-weight:bold; margin-bottom:10px;">🌀 Hypothetical Construct 🌀</div>
+                <h3 style="font-size:2.8rem; margin:10px 0; color:var(--color-text-dim); letter-spacing:1px; text-transform:capitalize;">*${combined}</h3>
+                <p style="font-size:1rem; opacity:0.8; margin-bottom:15px; font-style:italic;">Literally: " ${meaningStr} "</p>
+                <div style="background:rgba(255,255,255,0.05); padding:1rem; border-radius:12px; display:inline-block; text-align:left; max-width:500px; color:rgba(255,255,255,0.7);">
+                    This word doesn't exist in standard English, but structurally it makes perfect sense! If it did exist, it might mean: 
+                    <b>"The act or state of ${meaningStr.toLowerCase()}"</b>.
+                </div>
+            `;
+        }
+
+        resultBox.innerHTML = html;
+        resultBox.style.opacity = '1';
+    }, 500);
+};
+
+function playSynthFx() {
+    const canvas = document.getElementById('synth-fx');
+    if (!canvas) return;
+    const ctx = canvas.getContext('2d');
+    canvas.width = canvas.offsetWidth;
+    canvas.height = canvas.offsetHeight;
+
+    let particles = [];
+    const centerX = canvas.width / 2;
+    const centerY = canvas.height * 0.4; // roughly around drop zones
+
+    for (let i = 0; i < 60; i++) {
+        particles.push({
+            x: centerX, y: centerY,
+            vx: (Math.random() - 0.5) * 15, vy: (Math.random() - 0.5) * 15,
+            life: 1.0, size: Math.random() * 4 + 2,
+            color: Math.random() > 0.5 ? '#f59e0b' : '#3b82f6'
+        });
+    }
+
+    function animate() {
+        ctx.clearRect(0, 0, canvas.width, canvas.height);
+        let alive = false;
+        particles.forEach(p => {
+            p.x += p.vx; p.y += p.vy;
+            p.life -= 0.02;
+            if (p.life > 0) {
+                alive = true;
+                ctx.globalAlpha = p.life;
+                ctx.fillStyle = p.color;
+                ctx.beginPath(); ctx.arc(p.x, p.y, p.size, 0, Math.PI * 2); ctx.fill();
+            }
+        });
+        if (alive) requestAnimationFrame(animate);
+        else ctx.clearRect(0, 0, canvas.width, canvas.height);
+    }
+    animate();
 }
