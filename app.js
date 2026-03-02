@@ -62,6 +62,105 @@ async function apiPost(endpoint, data) {
     } catch (e) { console.error("apiPost failed:", e); return { status: 'error', message: 'サーバー接続エラーが発生しました' }; }
 }
 
+// Function to submit a new layer (e.g., Deep Dive, Reflection)
+async function submitLayer(targetType, targetId, content) {
+    if (!State.currentUser) {
+        alert('ログインしてコンテンツを投稿してください。');
+        return { status: 'error', message: 'ログインが必要です。' };
+    }
+    if (!content || content.trim() === '') {
+        alert('内容を入力してください。');
+        return { status: 'error', message: '内容が空です。' };
+    }
+
+    const res = await apiPost('/api/submit-layer', {
+        username: State.currentUser,
+        target_type: targetType,
+        target_id: targetId,
+        content: content
+    });
+
+    if (res.status === 'success') {
+        alert('コンテンツが投稿されました！');
+        return res;
+    } else {
+        alert(`投稿に失敗しました: ${res.message}`);
+        return res;
+    }
+}
+
+async function adminAction(action, type, target_id, report_id) {
+    if (action === 'delete') {
+        if (!confirm('本当にこのコンテンツを削除しますか？')) return;
+        const res = await apiPost('/api/admin/delete-content', {
+            admin_username: State.currentUser,
+            target_type: type,
+            target_id: target_id,
+            report_id: report_id
+        });
+        if (res.status === 'success') {
+            showToast('コンテンツを削除しました');
+            renderOperatorPanel();
+        }
+    } else if (action === 'dismiss') {
+        const res = await apiPost('/api/admin/dismiss-report', {
+            admin_username: State.currentUser,
+            report_id: report_id
+        });
+        if (res.status === 'success') {
+            showToast('通報を却下しました');
+            renderOperatorPanel();
+        }
+    }
+}
+
+// Function to load saved items from the backend
+async function loadSavedItems() {
+    if (State.currentUser) {
+        try {
+            const savedData = await apiGet(`/api/saved-items?username=${State.currentUser}`);
+            if (savedData && savedData.words) {
+                State.savedWordIds = savedData.words;
+                localStorage.setItem('savedWords', JSON.stringify(State.savedWordIds));
+            }
+            if (savedData && savedData.essays) {
+                State.savedEssayIds = savedData.essays;
+                localStorage.setItem('savedEssays', JSON.stringify(State.savedEssayIds));
+            }
+        } catch (e) {
+            console.error("Failed to load saved items from backend:", e);
+            // Fallback to local storage if backend fails
+            State.savedWordIds = JSON.parse(localStorage.getItem('savedWords') || '[]');
+            State.savedEssayIds = JSON.parse(localStorage.getItem('savedEssays') || '[]');
+        }
+    } else {
+        // If not logged in, rely solely on local storage
+        State.savedWordIds = JSON.parse(localStorage.getItem('savedWords') || '[]');
+        State.savedEssayIds = JSON.parse(localStorage.getItem('savedEssays') || '[]');
+    }
+}
+
+// Placeholder for login function (assuming it exists elsewhere or will be added)
+async function login(username, password) {
+    const res = await apiPost('/api/login', { username, password });
+    if (res.status === 'success') {
+        State.currentUser = username;
+        State.isPremium = res.is_premium;
+        State.isOperator = res.is_operator;
+        localStorage.setItem('currentUser', username);
+        localStorage.setItem('isPremium', res.is_premium);
+        localStorage.setItem('isOperator', res.is_operator);
+        await loadSavedItems(); // Call loadSavedItems after successful login
+        applySettings(); // Re-apply settings to update UI based on premium status etc.
+        navigate(State.currentView); // Re-render current view
+        return true;
+    } else {
+        alert(res.message);
+        return false;
+    }
+}
+
+
 function applySettings() {
     document.documentElement.style.fontSize = State.fontSize + 'px';
     document.body.className = `theme-${State.theme}`;
@@ -197,10 +296,19 @@ async function renderToday() {
     }
 }
 
-function toggleSaveWord(id) {
-    const idx = State.savedWordIds.indexOf(id);
-    if (idx > -1) State.savedWordIds.splice(idx, 1);
-    else State.savedWordIds.push(id);
+async function toggleSaveWord(id) {
+    if (State.currentUser) {
+        const res = await apiPost('/api/save-item', { username: State.currentUser, target_type: 'word', target_id: id });
+        if (res.status === 'success') {
+            const idx = State.savedWordIds.indexOf(id);
+            if (res.action === 'saved' && idx === -1) State.savedWordIds.push(id);
+            else if (res.action === 'unsaved' && idx > -1) State.savedWordIds.splice(idx, 1);
+        }
+    } else {
+        const idx = State.savedWordIds.indexOf(id);
+        if (idx > -1) State.savedWordIds.splice(idx, 1);
+        else State.savedWordIds.push(id);
+    }
     localStorage.setItem('savedWords', JSON.stringify(State.savedWordIds));
     renderToday();
 }
@@ -263,28 +371,17 @@ async function loadReflections(targetId, targetAuthor, wordName) {
                                 </div>
                             </div>
                         `).join('')}
-                        <input type="text" placeholder="Add a Layer..." class="layer-input" data-rid="${r.id}" style="background:none; border:none; border-bottom: 1px solid var(--color-border); color:white; font-size:0.9rem; width:100%; outline:none; padding:8px 0; margin-top:0.5rem;">
+                        <div style="display:flex; align-items:center; gap:0.5rem; width:100%; margin-top:0.5rem;">
+                            <input type="text" placeholder="Add a Layer..." class="layer-input" data-rid="${r.id}" style="background:none; border:none; border-bottom: 1px solid var(--color-border); color:white; font-size:0.9rem; flex-grow:1; outline:none; padding:8px 0;">
+                            <button onclick="submitLayer(${r.id})" class="chip" style="font-size:0.7rem; padding:0.3rem 0.8rem; border:1px solid var(--color-accent); color:var(--color-accent); background:none; cursor:pointer;">Publish</button>
+                        </div>
                     </div>
                 </div>
             `).join('') || '<p class="dimmed" style="text-align:center;">No reflections yet.</p>';
 
-            listEl.querySelectorAll('.layer-input').forEach(i => i.onkeypress = async (e) => {
+            listEl.querySelectorAll('.layer-input').forEach(i => i.onkeypress = (e) => {
                 if (e.key === 'Enter' && i.value.trim()) {
-                    if (!State.currentUser) return navigate('premium');
-
-                    i.disabled = true;
-                    const origPlaceholder = i.placeholder;
-                    i.placeholder = 'Publishing...';
-
-                    const res = await apiPost('/api/replies', { reflection_id: i.dataset.rid, username: State.currentUser, content: i.value });
-                    if (res.status === 'success') {
-                        i.value = '';
-                        loadReflections(targetId, targetAuthor, wordName);
-                    } else {
-                        showToast(res.message || '投稿エラーが発生しました。');
-                        i.disabled = false;
-                        i.placeholder = origPlaceholder;
-                    }
+                    submitLayer(i.dataset.rid);
                 }
             });
         } catch (e) {
@@ -369,6 +466,17 @@ function setupReflectionForm(targetId, targetAuthor, wordName) {
             }
         };
     }
+}
+
+async function loadSavedItems() {
+    if (!State.currentUser) return;
+    try {
+        const res = await apiGet(`/api/saved-items?username=${State.currentUser}`);
+        if (res.saved_words) State.savedWordIds = res.saved_words;
+        if (res.saved_essays) State.savedEssayIds = res.saved_essays;
+        localStorage.setItem('savedWords', JSON.stringify(State.savedWordIds));
+        localStorage.setItem('savedEssays', JSON.stringify(State.savedEssayIds));
+    } catch (e) { console.error("Failed to load saved items", e); }
 }
 
 async function renderNotifications() {
@@ -769,10 +877,19 @@ function openEssay(id) {
     }
 }
 
-function toggleSaveEssay(id) {
-    const idx = State.savedEssayIds.indexOf(id);
-    if (idx > -1) State.savedEssayIds.splice(idx, 1);
-    else State.savedEssayIds.push(id);
+async function toggleSaveEssay(id) {
+    if (State.currentUser) {
+        const res = await apiPost('/api/save-item', { username: State.currentUser, target_type: 'essay', target_id: id });
+        if (res.status === 'success') {
+            const idx = State.savedEssayIds.indexOf(id);
+            if (res.action === 'saved' && idx === -1) State.savedEssayIds.push(id);
+            else if (res.action === 'unsaved' && idx > -1) State.savedEssayIds.splice(idx, 1);
+        }
+    } else {
+        const idx = State.savedEssayIds.indexOf(id);
+        if (idx > -1) State.savedEssayIds.splice(idx, 1);
+        else State.savedEssayIds.push(id);
+    }
     localStorage.setItem('savedEssays', JSON.stringify(State.savedEssayIds));
     openEssay(id);
 }

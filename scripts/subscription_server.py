@@ -73,6 +73,8 @@ def init_db():
                 cur.execute('''CREATE TABLE IF NOT EXISTS flourishes
                                 (id SERIAL PRIMARY KEY, username TEXT, target_type TEXT, target_id TEXT,
                                  UNIQUE(username, target_type, target_id))''')
+                cur.execute('''CREATE TABLE IF NOT EXISTS saved_items 
+                                (username TEXT, target_type TEXT, target_id TEXT, PRIMARY KEY (username, target_type, target_id))''')
             else:
                 cur.execute('''CREATE TABLE IF NOT EXISTS users 
                                 (username TEXT PRIMARY KEY, password TEXT, is_premium INTEGER DEFAULT 0, is_operator INTEGER DEFAULT 0)''')
@@ -97,6 +99,8 @@ def init_db():
                 cur.execute('''CREATE TABLE IF NOT EXISTS flourishes
                                 (id INTEGER PRIMARY KEY AUTOINCREMENT, username TEXT, target_type TEXT, target_id TEXT,
                                  UNIQUE(username, target_type, target_id))''')
+                cur.execute('''CREATE TABLE IF NOT EXISTS saved_items 
+                                (username TEXT, target_type TEXT, target_id TEXT, PRIMARY KEY (username, target_type, target_id))''')
             
             # スキーマの自動アップグレード（カラムが足りない場合に追加）
             if DATABASE_URL:
@@ -485,6 +489,74 @@ def mark_read():
 
 # (Redundant endpoints removed and consolidated below)
 
+# --- Saved Items API ---
+
+@app.route('/api/saved-items', methods=['GET'])
+def get_saved_items():
+    username = request.args.get('username')
+    if not username:
+        return jsonify(status='error', message='Missing username'), 400
+    
+    conn = get_db_connection()
+    p = get_placeholder()
+    try:
+        with conn:
+            cur = conn.cursor()
+            cur.execute(f"SELECT target_type, target_id FROM saved_items WHERE username={p}", (username,))
+            res = cur.fetchall()
+            
+            saved_words = [row[1] for row in res if row[0] == 'word']
+            saved_essays = [row[1] for row in res if row[0] == 'essay']
+            
+            return jsonify(saved_words=saved_words, saved_essays=saved_essays)
+    except Exception as e:
+        return jsonify(status='error', message=str(e)), 500
+    finally:
+        conn.close()
+
+@app.route('/api/save-item', methods=['POST'])
+def toggle_save_item():
+    data = request.json
+    username = data.get('username')
+    target_type = data.get('target_type') # 'word' or 'essay'
+    target_id = data.get('target_id')
+    
+    if not username or not target_type or not target_id:
+        return jsonify(status='error', message='Missing data'), 400
+        
+    conn = get_db_connection()
+    p = get_placeholder()
+    try:
+        with conn:
+            cur = conn.cursor()
+            # 既に保存済みか確認
+            cur.execute(
+                f"SELECT 1 FROM saved_items WHERE username={p} AND target_type={p} AND target_id={p}",
+                (username, target_type, target_id)
+            )
+            existing = cur.fetchone()
+            
+            if existing:
+                # 削除
+                cur.execute(
+                    f"DELETE FROM saved_items WHERE username={p} AND target_type={p} AND target_id={p}",
+                    (username, target_type, target_id)
+                )
+                action = 'unsaved'
+            else:
+                # 追加
+                cur.execute(
+                    f"INSERT INTO saved_items (username, target_type, target_id) VALUES ({p}, {p}, {p})",
+                    (username, target_type, target_id)
+                )
+                action = 'saved'
+                
+        return jsonify(status='success', action=action)
+    except Exception as e:
+        return jsonify(status='error', message=str(e)), 500
+    finally:
+        conn.close()
+
 # --- オペレーター向け管理 API ---
 
 @app.route('/api/admin/reports', methods=['GET'])
@@ -527,6 +599,22 @@ def admin_delete_content():
         cur.execute(f"UPDATE {table} SET is_deleted={p} WHERE id={p}", (True, target_id))
         if report_id:
             cur.execute(f"UPDATE reports SET status={p} WHERE id={p}", ('resolved', report_id))
+    conn.close()
+    return jsonify(status="success")
+
+@app.route('/api/admin/dismiss-report', methods=['POST'])
+def admin_dismiss_report():
+    data = request.json
+    admin_user = data.get('admin_username')
+    if not is_operator(admin_user):
+        return jsonify(status="error", message="Unauthorized"), 403
+    
+    report_id = data.get('report_id')
+    conn = get_db_connection()
+    p = get_placeholder()
+    with conn:
+        cur = conn.cursor()
+        cur.execute(f"UPDATE reports SET status={p} WHERE id={p}", ('dismissed', report_id))
     conn.close()
     return jsonify(status="success")
 
