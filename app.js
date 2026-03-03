@@ -1878,11 +1878,17 @@ function renderEtyMap() {
         <div class="etymap-view fade-in" style="height: calc(100vh - 100px); display:flex; flex-direction:column; align-items:center; justify-content:center; position:relative; overflow:hidden; padding-top:2rem;">
             <div style="position:absolute; top:2rem; text-align:center; z-index:10; width:100%;">
                 <h2 style="font-size:2.2rem; font-weight:300; letter-spacing:0.1em; color:var(--color-premium); text-shadow: 0 0 20px rgba(245,158,11,0.5);">Etymology Map</h2>
-                <p style="opacity:0.6; font-size:0.9rem; margin-top:0.5rem; font-style:italic;">Witness the epic journey of roots tracing across continents.</p>
-                <div style="margin-top:1.5rem; display:flex; gap:10px; justify-content:center;" id="map-buttons">
-                    <button class="chip followed active" onclick="drawMapRoute('*sed-')">*sed- (to sit)</button>
-                    <button class="chip" onclick="drawMapRoute('*sta-')">*sta- (to stand)</button>
-                    <button class="chip" onclick="drawMapRoute('*bher-')">*bher- (to bear)</button>
+                <p style="opacity:0.8; font-size:0.95rem; margin-top:1rem; max-width:800px; margin-left:auto; margin-right:auto; line-height:1.6; color:var(--color-text);">
+                    印欧祖語（PIE）という数千年前の共通の祖先から、言葉がどのように大陸を渡り、形を変えて現代へと至ったのか。<br>
+                    この地図は、一つの「根」から枝分かれした知の系譜を可視化したものです。
+                </p>
+                <div style="margin-top:2rem; display:flex; gap:10px; justify-content:center; flex-wrap:wrap;" id="map-buttons">
+                    <button class="chip followed active" onclick="drawMapRoute('*sed-')">*sed- (座る)</button>
+                    <button class="chip" onclick="drawMapRoute('*sta-')">*sta- (立つ)</button>
+                    <button class="chip" onclick="drawMapRoute('*bher-')">*bher- (運ぶ)</button>
+                    <button class="chip" onclick="drawMapRoute('*spec-')">*spec- (見る)</button>
+                    <button class="chip" onclick="drawMapRoute('*gen-')">*gen- (生む)</button>
+                    <button class="chip" onclick="drawMapRoute('*kap-')">*kap- (掴む)</button>
                 </div>
             </div>
             
@@ -1914,7 +1920,7 @@ function renderEtyMap() {
     window.mapTracesData = {
         '*sed-': {
             title: "The Journey of *sed-",
-            desc: "From the PIE homeland near the Pontic-Caspian steppe, *sed- (to sit) echoed through time. It birthed 'hedra' in ancient Greece (cathedral), 'sedere' in Rome (sedentary), passed through Old French (see), and settled as 'sit' and 'chair' in modern English.",
+            desc: "「座る」という静かな行為を意味した印欧祖語の *sed- は、ギリシャ語の hedra（大聖堂：座る場所）、ラテン語の sedere（定住する、座る）、そして古フランス語を経て、現代英語の sit や session へと繋がりました。数千年の時を越えた「静止」の旅です。",
             route: "M 600,150 Q 500,280 400,320 Q 280,300 250,220 Q 200,180 120,200",
             nodes: [
                 { x: 600, y: 150, label: "Proto-Indo-European\n*sed-", delay: 0 },
@@ -1926,7 +1932,7 @@ function renderEtyMap() {
         },
         '*sta-': {
             title: "The Persistence of *sta-",
-            desc: "The ancient root for 'to stand' was unshakeable. It fortified 'stare' in Latin, forged the 'statue' and 'state', and swept across the Germanic tribes to give us 'stand' and 'understand'.",
+            desc: "「立つ」を意味した語根 *sta- は、最も強固な語根の一つです。ラテン語の stare やギリシャ語の histanai、そしてゲルマン語派を経て、現代英語の stand、state (状態、国家)、statue (彫像) など、揺るぎない存在を示す多くの言葉を生み出しました。",
             route: "M 580,160 Q 450,180 300,250 Q 200,150 140,180",
             nodes: [
                 { x: 580, y: 160, label: "PIE\n*sta-", delay: 0 },
@@ -1937,13 +1943,44 @@ function renderEtyMap() {
         },
         '*bher-': {
             title: "The Burden of *bher-",
-            desc: "To carry or to bear. The root traveled far: becoming 'pherein' in Greek (metaphor), 'ferre' in Latin (transfer), and 'beran' in Old English, carrying the weight of language on its shoulders.",
+            desc: "「運ぶ」「産む（重荷を負う）」を意味するこの語根は、ギリシャ語の pherein (metaphor)、ラテン語の ferre (transfer)、そして古英語の beran へと繋がり、現代英語の bear や burden に結実しました。言葉の重みを背負って旅をした語根です。",
             route: "M 620,130 Q 520,350 420,350 Q 300,320 280,260 Q 200,160 100,210",
             nodes: [
                 { x: 620, y: 130, label: "PIE\n*bher-", delay: 0 },
                 { x: 420, y: 350, label: "Greek\npherein", delay: 1000 },
                 { x: 280, y: 260, label: "Latin\nferre", delay: 2000 },
                 { x: 100, y: 210, label: "English\nbear, burden", delay: 3500 }
+            ]
+        },
+        '*spec-': {
+            title: "The Vision of *spec-",
+            desc: "「見る」を意味する語根 *spec- は、ラテン語の specere を経て、spectacle (光景)、inspect (検査する)、respect (尊敬する＝振り返って見る) など、現代英語の視覚に関わる多くの抽象概念を形作りました。",
+            route: "M 590,140 Q 400,160 300,280 Q 220,240 130,220",
+            nodes: [
+                { x: 590, y: 140, label: "PIE\n*spec-", delay: 0 },
+                { x: 300, y: 280, label: "Latin\nspecere", delay: 1500 },
+                { x: 130, y: 220, label: "English\nspectacle, respect", delay: 3500 }
+            ]
+        },
+        '*gen-': {
+            title: "The Genesis of *gen-",
+            desc: "「生む」「種」を意味する *gen- は、ギリシャ語の genos、ラテン語の gignere を経て、gene (遺伝子)、generation (世代)、generous (寛大な＝高貴な生まれの) といった、生命と系統に関する豊かな語群を生み出しました。",
+            route: "M 610,145 Q 500,250 430,330 Q 350,300 290,240 Q 200,180 110,190",
+            nodes: [
+                { x: 610, y: 145, label: "PIE\n*gen-", delay: 0 },
+                { x: 430, y: 330, label: "Greek\ngenos", delay: 1200 },
+                { x: 290, y: 240, label: "Latin\ngignere", delay: 2400 },
+                { x: 110, y: 190, label: "English\ngene, generation", delay: 3500 }
+            ]
+        },
+        '*kap-': {
+            title: "The Grasp of *kap-",
+            desc: "「掴む」「取る」を意味する *kap- は、ラテン語の capere を経て、capacity (収容能力)、capture (捕獲)、accept (受け入れる) などの言葉になりました。物理的な把握から、知的な理解までをカバーする重要な語根です。",
+            route: "M 605,155 Q 450,220 310,270 Q 240,220 120,240",
+            nodes: [
+                { x: 605, y: 155, label: "PIE\n*kap-", delay: 0 },
+                { x: 310, y: 270, label: "Latin\ncapere", delay: 1800 },
+                { x: 120, y: 240, label: "English\ncapacity, accept", delay: 3500 }
             ]
         }
     };
@@ -2031,30 +2068,37 @@ window.drawMapRoute = function (rootKey) {
 
 const SYNTH_PIECES = {
     prefixes: [
-        { id: 'pre-ab', text: 'ab-', meaning: 'away', color: '#22c55e' },
-        { id: 'pre-com', text: 'com-', meaning: 'together', color: '#22c55e' },
-        { id: 'pre-re', text: 're-', meaning: 'back, again', color: '#22c55e' },
-        { id: 'pre-in', text: 'in-', meaning: 'into / not', color: '#22c55e' },
-        { id: 'pre-ex', text: 'ex-', meaning: 'out', color: '#22c55e' }
+        { id: 'pre-ab', text: 'ab-', meaning: 'away (離れて)', color: '#22c55e' },
+        { id: 'pre-com', text: 'com-', meaning: 'together (共に)', color: '#22c55e' },
+        { id: 'pre-re', text: 're-', meaning: 'back, again (後ろに、再び)', color: '#22c55e' },
+        { id: 'pre-in', text: 'in-', meaning: 'into / not (中に、否定)', color: '#22c55e' },
+        { id: 'pre-ex', text: 'ex-', meaning: 'out (外に)', color: '#22c55e' },
+        { id: 'pre-ad', text: 'ad-', meaning: 'to, toward (〜へ、向かって)', color: '#22c55e' },
+        { id: 'pre-pro', text: 'pro-', meaning: 'forward (前へ)', color: '#22c55e' }
     ],
     roots: [
-        { id: 'root-duc', text: 'duc / duct', meaning: 'to lead', color: 'var(--color-premium)' },
-        { id: 'root-tract', text: 'tract', meaning: 'to pull', color: 'var(--color-premium)' },
-        { id: 'root-spect', text: 'spect', meaning: 'to look', color: 'var(--color-premium)' },
-        { id: 'root-ject', text: 'ject', meaning: 'to throw', color: 'var(--color-premium)' },
-        { id: 'root-mit', text: 'mit / miss', meaning: 'to send', color: 'var(--color-premium)' }
+        { id: 'root-duc', text: 'duc / duct', meaning: 'to lead (導く)', color: 'var(--color-premium)' },
+        { id: 'root-tract', text: 'tract', meaning: 'to pull (引く)', color: 'var(--color-premium)' },
+        { id: 'root-spect', text: 'spect', meaning: 'to look (見る)', color: 'var(--color-premium)' },
+        { id: 'root-ject', text: 'ject', meaning: 'to throw (投げる)', color: 'var(--color-premium)' },
+        { id: 'root-mit', text: 'mit / miss', meaning: 'to send (送る)', color: 'var(--color-premium)' },
+        { id: 'root-gen', text: 'gen', meaning: 'to birth, produce (生む)', color: 'var(--color-premium)' },
+        { id: 'root-cap', text: 'cap / capt', meaning: 'to take, hold (掴む)', color: 'var(--color-premium)' },
+        { id: 'root-port', text: 'port', meaning: 'to carry (運ぶ)', color: 'var(--color-premium)' }
     ],
     suffixes: [
-        { id: 'suf-ion', text: '-ion', meaning: 'act or state', color: '#ef4444' },
-        { id: 'suf-able', text: '-able', meaning: 'capable of', color: '#ef4444' },
-        { id: 'suf-or', text: '-or', meaning: 'one who does', color: '#ef4444' }
+        { id: 'suf-ion', text: '-ion', meaning: 'act or state (こと、状態)', color: '#ef4444' },
+        { id: 'suf-able', text: '-able', meaning: 'capable of (できる)', color: '#ef4444' },
+        { id: 'suf-or', text: '-or', meaning: 'one who does (する人)', color: '#ef4444' },
+        { id: 'suf-ive', text: '-ive', meaning: 'tending to (〜の性質の)', color: '#ef4444' },
+        { id: 'suf-al', text: '-al', meaning: 'relating to (〜に関する)', color: '#ef4444' }
     ]
 };
 
 window.synthState = { prefix: null, root: null, suffix: null };
 
 function renderSynthesizer() {
-    window.synthState = { prefix: null, root: null, suffix: null };
+    window.synthState = { prefix: null, root1: null, root2: null, suffix: null };
 
     const renderPiece = (p, type) => {
         return `<div class="synth-piece" draggable="true" data-id="${p.id}" data-type="${type}" data-text="${p.text}" data-mean="${p.meaning}" data-color="${p.color}" 
@@ -2093,22 +2137,28 @@ function renderSynthesizer() {
                 <!-- Alchemy Table -->
                 <div style="flex:1.5 1 500px; display:flex; flex-direction:column; align-items:center; position:relative;">
                     
-                    <div style="background:var(--color-surface); padding:3rem 1.5rem; border-radius:24px; border:1px solid var(--color-border); box-shadow: 0 12px 40px rgba(0,0,0,0.5); width:100%; display:flex; justify-content:center; align-items:center; gap:2%; background-image: radial-gradient(circle at center, rgba(245,158,11,0.08) 0%, transparent 60%);">
+                    <div style="background:var(--color-surface); padding:3rem 1.5rem; border-radius:24px; border:1px solid var(--color-border); box-shadow: 0 12px 40px rgba(0,0,0,0.5); width:100%; display:flex; justify-content:center; align-items:center; gap:1.5%; background-image: radial-gradient(circle at center, rgba(245,158,11,0.08) 0%, transparent 60%);">
                         
-                        <div class="drop-zone" data-type="prefix" style="width:30%; aspect-ratio:1/1; max-height:140px; border:2px dashed #22c55e; border-radius:16px; display:flex; flex-direction:column; align-items:center; justify-content:center; transition:all 0.3s; position:relative; background:rgba(34,197,94,0.05);">
-                            <span style="opacity:0.4; font-size:0.9rem;">Drop Prefix</span>
+                        <div class="drop-zone" data-type="prefix" style="width:23%; aspect-ratio:1/1; max-height:130px; border:2px dashed #22c55e; border-radius:16px; display:flex; flex-direction:column; align-items:center; justify-content:center; transition:all 0.3s; position:relative; background:rgba(34,197,94,0.05);">
+                            <span style="opacity:0.4; font-size:0.8rem; text-align:center;">Prefix<br>(Opt)</span>
                         </div>
                         
-                        <div style="font-size:2rem; opacity:0.3; font-weight:300;">+</div>
+                        <div style="font-size:1.5rem; opacity:0.3; font-weight:300;">+</div>
                         
-                        <div class="drop-zone" data-type="root" style="width:30%; aspect-ratio:1/1; max-height:140px; border:2px dashed var(--color-premium); border-radius:16px; display:flex; flex-direction:column; align-items:center; justify-content:center; transition:all 0.3s; position:relative; background:rgba(245,158,11,0.05);">
-                            <span style="opacity:0.4; font-size:0.9rem;">Drop Root</span>
+                        <div class="drop-zone" data-type="root" data-slot="1" style="width:23%; aspect-ratio:1/1; max-height:130px; border:2px dashed var(--color-premium); border-radius:16px; display:flex; flex-direction:column; align-items:center; justify-content:center; transition:all 0.3s; position:relative; background:rgba(245,158,11,0.05);">
+                            <span style="opacity:0.4; font-size:0.8rem; text-align:center;">Root 1<br>(Reg)</span>
                         </div>
                         
-                        <div style="font-size:2rem; opacity:0.3; font-weight:300;">+</div>
+                        <div style="font-size:1.5rem; opacity:0.3; font-weight:300;">+</div>
+
+                        <div class="drop-zone" data-type="root" data-slot="2" style="width:23%; aspect-ratio:1/1; max-height:130px; border:2px dashed var(--color-premium); border-radius:16px; display:flex; flex-direction:column; align-items:center; justify-content:center; transition:all 0.3s; position:relative; background:rgba(245,158,11,0.05);">
+                            <span style="opacity:0.4; font-size:0.8rem; text-align:center;">Root 2<br>(Opt)</span>
+                        </div>
                         
-                        <div class="drop-zone" data-type="suffix" style="width:30%; aspect-ratio:1/1; max-height:140px; border:2px dashed #ef4444; border-radius:16px; display:flex; flex-direction:column; align-items:center; justify-content:center; transition:all 0.3s; position:relative; background:rgba(239,68,68,0.05);">
-                            <span style="opacity:0.4; font-size:0.9rem;">Drop Suffix (Opt)</span>
+                        <div style="font-size:1.5rem; opacity:0.3; font-weight:300;">+</div>
+                        
+                        <div class="drop-zone" data-type="suffix" style="width:23%; aspect-ratio:1/1; max-height:130px; border:2px dashed #ef4444; border-radius:16px; display:flex; flex-direction:column; align-items:center; justify-content:center; transition:all 0.3s; position:relative; background:rgba(239,68,68,0.05);">
+                            <span style="opacity:0.4; font-size:0.8rem; text-align:center;">Suffix<br>(Opt)</span>
                         </div>
                     </div>
                     
@@ -2161,13 +2211,15 @@ function setupDragAndDrop() {
             try {
                 const data = JSON.parse(e.dataTransfer.getData('text/plain'));
                 if (z.dataset.type === data.type) {
-                    window.synthState[data.type] = data;
+                    const slot = z.dataset.slot;
+                    const stateKey = slot ? (data.type + slot) : data.type;
+                    window.synthState[stateKey] = data;
 
                     // Update visual in drop zone
                     z.innerHTML = `
-                        <div style="color:${data.color}; font-size:1.4rem; font-weight:bold; margin-bottom:5px;">${data.text}</div>
-                        <div style="color:var(--color-text-dim); font-size:0.8rem; text-align:center;">${data.mean}</div>
-                        <button onclick="clearSynthSlot('${data.type}')" style="position:absolute; top:5px; right:5px; background:none; border:none; color:rgba(255,255,255,0.5); cursor:pointer;">✕</button>
+                        <div style="color:${data.color}; font-size:1.1rem; font-weight:bold; margin-bottom:5px; text-align:center;">${data.text}</div>
+                        <div style="color:var(--color-text-dim); font-size:0.7rem; text-align:center; line-height:1.2;">${data.mean}</div>
+                        <button onclick="clearSynthSlot('${data.type}', ${slot || 'null'})" style="position:absolute; top:5px; right:5px; background:none; border:none; color:rgba(255,255,255,0.5); cursor:pointer;">✕</button>
                     `;
                     z.style.borderStyle = 'solid';
                 } else {
@@ -2178,86 +2230,83 @@ function setupDragAndDrop() {
     });
 }
 
-window.clearSynthSlot = function (type) {
-    window.synthState[type] = null;
-    const z = document.querySelector(`.drop-zone[data-type="${type}"]`);
+window.clearSynthSlot = function (type, slot) {
+    const stateKey = slot ? (type + slot) : type;
+    window.synthState[stateKey] = null;
+    const selector = slot ? `.drop-zone[data-type="${type}"][data-slot="${slot}"]` : `.drop-zone[data-type="${type}"]`;
+    const z = document.querySelector(selector);
 
     let label = "Drop Piece";
-    let borderCol = "#888";
-    if (type === 'prefix') { label = "Drop Prefix"; borderCol = "#22c55e"; }
-    if (type === 'root') { label = "Drop Root"; borderCol = "var(--color-premium)"; }
-    if (type === 'suffix') { label = "Drop Suffix (Opt)"; borderCol = "#ef4444"; }
+    if (type === 'prefix') label = "Prefix<br>(Opt)";
+    if (type === 'root') label = slot === 1 ? "Root 1<br>(Reg)" : "Root 2<br>(Opt)";
+    if (type === 'suffix') label = "Suffix<br>(Opt)";
 
-    z.innerHTML = `<span style="opacity:0.4; font-size:0.9rem;">${label}</span>`;
+    z.innerHTML = `<span style="opacity:0.4; font-size:0.8rem; text-align:center;">${label}</span>`;
     z.style.borderStyle = 'dashed';
 };
 
 window.executeSynthesis = function () {
     const s = window.synthState;
-    if (!s.root) {
-        showToast("Wait! You must provide at least a Root.");
+    if (!s.root1 && !s.root2 && !s.prefix && !s.suffix) {
+        showToast("錬成する要素を配置してください。");
         return;
     }
 
     const pre = s.prefix ? s.prefix.text.replace('-', '') : '';
-    const root = s.root ? s.root.text.split('/')[0].trim() : '';
+    const r1 = s.root1 ? s.root1.text.split('/')[0].trim() : '';
+    const r2 = s.root2 ? s.root2.text.split('/')[0].trim() : '';
     const suf = s.suffix ? s.suffix.text.replace('-', '') : '';
 
-    let combined = (pre + root + suf).toLowerCase();
+    let combined = (pre + r1 + r2 + suf).toLowerCase();
 
-    // Some basic phonetic smoothing rules for the demo
-    if (pre === 'in' && (root.startsWith('m') || root.startsWith('p'))) combined = combined.replace('in', 'im');
-    if (pre === 'com' && (root.startsWith('r') || root.startsWith('l'))) combined = combined.replace('com', 'co');
-    if (pre === 'ad' && root.startsWith('t')) combined = combined.replace('ad', 'at');
+    // Phonetic smoothing
+    if (pre === 'in' && ((r1 || r2).startsWith('m') || (r1 || r2).startsWith('p'))) combined = combined.replace('in', 'im');
+    if (pre === 'com' && ((r1 || r2).startsWith('r') || (r1 || r2).startsWith('l'))) combined = combined.replace('com', 'co');
+    if (pre === 'ad' && (r1 || r2).startsWith('t')) combined = combined.replace('ad', 'at');
 
     const resultBox = document.getElementById('synth-result');
-
-    // Play particle fx
     playSynthFx();
 
     setTimeout(() => {
-        // Find if word is real
-        // Find if word is real
-        const localDictionary = [
-            'abduct', 'conduct', 'deduct', 'product', 'reduce', 'produce', 'induce',
-            'abstract', 'contract', 'distract', 'retract', 'attract', 'extract',
-            'inspect', 'prospect', 'respect', 'suspect', 'aspect',
-            'reject', 'project', 'inject', 'object', 'subject',
-            'emit', 'submit', 'commit', 'remit', 'transmit',
-            'reduction', 'production', 'induction', 'conduction',
-            'abstraction', 'contraction', 'extraction', 'attraction',
-            'inspection', 'respectable', 'projector', 'objection',
-            'commission', 'submission', 'emission',
-            'abductor', 'conductor', 'tractor', 'spectator'
-        ];
+        const localDictionary = ['abduct', 'conduct', 'deduct', 'product', 'reduce', 'produce', 'induce', 'abstract', 'contract', 'distract', 'retract', 'attract', 'extract', 'inspect', 'prospect', 'respect', 'suspect', 'aspect', 'reject', 'project', 'inject', 'object', 'subject', 'emit', 'submit', 'commit', 'remit', 'transmit', 'reduction', 'production', 'induction', 'conduction', 'abstraction', 'contraction', 'extraction', 'attraction', 'inspection', 'respectable', 'projector', 'objection', 'commission', 'submission', 'emission', 'abductor', 'conductor', 'tractor', 'spectator', 'capture', 'capacity', 'generation', 'portable', 'export', 'import', 'projection', 'rejection', 'inspector'];
 
-        const meaningStr = [s.prefix, s.root, s.suffix].filter(Boolean).map(x => x.mean).join(' + ');
+        const parts = [s.prefix, s.root1, s.root2, s.suffix].filter(Boolean);
+        const meaningStrEn = parts.map(x => x.mean).join(' + ');
+        const meaningStrJa = parts.map(x => {
+            const m = x.mean;
+            const match = m.match(/（(.*?)）/);
+            return match ? match[1] : m;
+        }).join(' + ');
 
-        // Check against global WORDS array and local fallback
         const isReal = localDictionary.includes(combined) || (typeof WORDS !== 'undefined' && WORDS.some(w => w.word?.toLowerCase() === combined));
 
-        // Find actual meaning if it's in the archive
-        let actualEntry = typeof WORDS !== 'undefined' ? WORDS.find(w => w.word?.toLowerCase() === combined) : null;
         let html = '';
         if (isReal) {
             html = `
-                <div style="color:var(--color-premium); font-size:1.2rem; font-weight:bold; margin-bottom:10px;">✨ Alignment Reached ✨</div>
+                <div style="color:var(--color-premium); font-size:1.2rem; font-weight:bold; margin-bottom:10px;">✨ Alignment Reached (真理への到達) ✨</div>
                 <h3 style="font-size:2.8rem; margin:10px 0; color:#fff; letter-spacing:1px; text-transform:capitalize;">${combined}</h3>
-                <p style="font-size:1rem; opacity:0.8; margin-bottom:15px; font-style:italic;">Literally: " ${meaningStr} "</p>
+                <p style="font-size:1rem; opacity:0.8; margin-bottom:15px; font-style:italic;">"${meaningStrJa}"</p>
                 <div style="background:rgba(255,255,255,0.05); padding:1rem; border-radius:12px; display:inline-block; text-align:left; max-width:500px;">
-                    <span style="color:var(--color-accent); font-weight:bold;">Discovery Unlocked.</span> This constitutes a valid English word! 
+                    <span style="color:var(--color-accent); font-weight:bold;">Discovery Unlocked.</span> この単語は実在します！
                     <br><br>
-                    <button class="chip" onclick="searchToArchive('${combined}')">See Details in Archive →</button>
+                    <button class="chip" onclick="searchToArchive('${combined}')">アーカイブで詳細を見る →</button>
                 </div>
             `;
         } else {
+            // Predict meaning
+            const pred = parts.map(x => {
+                const m = x.mean;
+                const match = m.match(/（(.*?)）/);
+                return match ? match[1] : m;
+            }).join('すること、あるいは〜');
+
             html = `
-                <div style="color:var(--color-text-dim); font-size:1.2rem; font-weight:bold; margin-bottom:10px;">🌀 Hypothetical Construct 🌀</div>
+                <div style="color:var(--color-text-dim); font-size:1.2rem; font-weight:bold; margin-bottom:10px;">🌀 Hypothetical Construct (仮説的構成) 🌀</div>
                 <h3 style="font-size:2.8rem; margin:10px 0; color:var(--color-text-dim); letter-spacing:1px; text-transform:capitalize;">*${combined}</h3>
-                <p style="font-size:1rem; opacity:0.8; margin-bottom:15px; font-style:italic;">Literally: " ${meaningStr} "</p>
+                <p style="font-size:1rem; opacity:0.8; margin-bottom:15px; font-style:italic;">"${meaningStrJa}"</p>
                 <div style="background:rgba(255,255,255,0.05); padding:1rem; border-radius:12px; display:inline-block; text-align:left; max-width:500px; color:rgba(255,255,255,0.7);">
-                    This word doesn't exist in standard English, but structurally it makes perfect sense! If it did exist, it might mean: 
-                    <b>"The act or state of ${meaningStr.toLowerCase()}"</b>.
+                    この単語は一般的ではありませんが、語源的には完璧に成立します。<br>
+                    予測される意味: <b>「${pred}に関連する状態や行為」</b>
                 </div>
             `;
         }
