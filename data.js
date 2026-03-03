@@ -144426,5 +144426,5814 @@ const WORDS = [
 		"part_of_speech": "noun",
 		"meaning": "悲痛、災難",
 		"core": "叫び声（wa!）を上げたくなるような、逃れようのない深い悲しみや不幸の連鎖"
+	},
+	{
+		"id": "quotidian",
+		"word": "Quotidian",
+		"part_of_speech": "adjective",
+		"meaning": "毎日の、日常的な、平凡な",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "quotus",
+					"type": "root",
+					"meaning": "how many"
+				},
+				{
+					"text": "dies",
+					"type": "root",
+					"meaning": "day"
+				}
+			],
+			"original_statement": "From Latin quotidianus, from quotus 'how many' + dies 'day'."
+		},
+		"core_concept": {
+			"en": "Occurring every day; commonplace",
+			"ja": "「今日は何日目か」と数えることさえ忘れるほど繰り返される、何の変哲もないありふれた日々の営み"
+		},
+		"thinking_layer": "生活の地層。劇的な出来事の陰に隠れた、歯磨きや通勤といった繰り返しのリズムが、実は人生の大部分を形作っているという事実。",
+		"synonyms": [
+			"commonplace",
+			"mundane"
+		],
+		"antonyms": [
+			"extraordinary",
+			"rare"
+		],
+		"aftertaste": "使い古したスリッパや、決まった時間に届く新聞の束に感じる、退屈さと引き換えの安心感",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "dyeu-",
+					"meaning": "to shine/day"
+				}
+			],
+			"points": [
+				"Mundaneよりも『繰り返される時間』に焦点がある。"
+			]
+		},
+		"source": "Dictionary.com",
+		"era": "15th Century"
+	},
+	{
+		"id": "waft",
+		"word": "Waft",
+		"part_of_speech": "verb/noun",
+		"meaning": "（香りや音が）漂う、ふわりと運ぶ",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "wachten",
+					"type": "root",
+					"meaning": "to watch/guard"
+				}
+			],
+			"original_statement": "From Dutch wachten 'to watch', originally referring to convoying ships."
+		},
+		"core_concept": {
+			"en": "Pass gently through the air",
+			"ja": "風や空気の流れに乗って、目に見えない香りの粒子や遠くの調べが、意志を持たず軽やかに運ばれてくること"
+		},
+		"thinking_layer": "境界の消失。どこからともなく届く感覚の便り。捕まえようとすれば消えてしまうような、微かで柔らかな存在感。",
+		"synonyms": [
+			"drift",
+			"float"
+		],
+		"antonyms": [
+			"sink",
+			"stagnate"
+		],
+		"aftertaste": "遠い家々の夕飯の匂いが、夕暮れの風に乗ってふと鼻腔をくすぐる時の、無意識の郷愁",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ueg-",
+					"meaning": "to be strong/watch"
+				}
+			],
+			"points": [
+				"もとは船を護衛（Watch）して航行させる意味。そこから『風に乗って進む』ニュアンスへ。"
+			]
+		},
+		"source": "OED",
+		"era": "16th Century"
+	},
+	{
+		"id": "wanton",
+		"word": "Wanton",
+		"part_of_speech": "adjective",
+		"meaning": "理不尽な、奔放な、浮ついた",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "wan-",
+					"type": "prefix",
+					"meaning": "wanting/lacking"
+				},
+				{
+					"text": "teon",
+					"type": "root",
+					"meaning": "to train/discipline"
+				}
+			],
+			"original_statement": "From Middle English wantowen, from wan- 'lacking' + teon 'to train, discipline'."
+		},
+		"core_concept": {
+			"en": "Deliberate and unprovoked; unrestrained",
+			"ja": "しつけ（discipline）を欠いている。理由なき悪意や、歯止めの利かない快楽への没頭など、理性を無視した過剰な振る舞い"
+		},
+		"thinking_layer": "野生の暴走。他者の痛みや社会のルールを顧みず、ただその瞬間の衝動だけを唯一の法として生きる危うさ。",
+		"synonyms": [
+			"gratuitous",
+			"promiscuous"
+		],
+		"antonyms": [
+			"restrained",
+			"justifiable"
+		],
+		"aftertaste": "壊す必要のないものを壊し、その後で「ただなんとなく」と微笑むような、理解不能な残酷さへの恐怖",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "deuk-",
+					"meaning": "to lead"
+				}
+			],
+			"points": [
+				"Education（教育：導き出す）の対極にある言葉。正しく導かれなかったエネルギー。"
+			]
+		},
+		"source": "Britannica",
+		"era": "14th Century"
+	},
+	{
+		"id": "wary",
+		"word": "Wary",
+		"part_of_speech": "adjective",
+		"meaning": "警戒して、慎重な、用心深い",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "war",
+					"type": "root",
+					"meaning": "prudent/aware"
+				}
+			],
+			"original_statement": "From Old English wær 'prudent, aware, alert'."
+		},
+		"core_concept": {
+			"en": "Feeling or showing caution",
+			"ja": "未知の対象や潜在的な危険に対し、一歩引いた位置からじっと観察し、安易に信頼を寄せない知的な防衛本能"
+		},
+		"thinking_layer": "生存の知恵。優しさの裏にある罠を見抜き、甘い言葉に潜む毒を予感する、野生の鋭敏な感覚。",
+		"synonyms": [
+			"cautious",
+			"circumspect"
+		],
+		"antonyms": [
+			"trusting",
+			"reckless"
+		],
+		"aftertaste": "差し出された手を取る前に、その人物の影の形を確かめようとする、冷たく張り詰めた緊張感",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "wer-",
+					"meaning": "to perceive/watch out for"
+				}
+			],
+			"points": [
+				"Aware（気づいている）やBeware（注意せよ）と同じ血統。見る（watch）ことが守りに直結する。"
+			]
+		},
+		"source": "Etymonline",
+		"era": "16th Century"
+	},
+	{
+		"id": "waver",
+		"word": "Waver",
+		"part_of_speech": "verb",
+		"meaning": "揺らぐ、ためらう、たじろぐ",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "wafian",
+					"type": "root",
+					"meaning": "to fluctuate"
+				}
+			],
+			"original_statement": "From Old Norse vafra 'to flicker'."
+		},
+		"core_concept": {
+			"en": "Become unsteady or unreliable",
+			"ja": "風に吹かれる炎や波のように、決意や光が定まらず、あちらこちらへと不安定に揺れ動くこと"
+		},
+		"thinking_layer": "確信の不在。強気な言葉の裏で、迷いや恐怖が心臓を細かく震わせている状態。一貫性が失われる瞬間の人間らしさ。",
+		"synonyms": [
+			"vacillate",
+			"falter"
+		],
+		"antonyms": [
+			"persist",
+			"remain steady"
+		],
+		"aftertaste": "絶対に正しいと信じていた自分の声が、相手の視線一つで震え出した時の、情けなさと自己不信",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "webh-",
+					"meaning": "to weave"
+				}
+			],
+			"points": [
+				"Weave（織る）と同根。縦糸と横糸が交差するように、意識が複雑に絡まり合って揺れる様子。"
+			]
+		},
+		"source": "OED",
+		"era": "14th Century"
+	},
+	{
+		"id": "whet",
+		"word": "Whet",
+		"part_of_speech": "verb",
+		"meaning": "（刃物を）研ぐ、（興味などを）そそる",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "hwettan",
+					"type": "root",
+					"meaning": "to sharpen"
+				}
+			],
+			"original_statement": "From Old English hwettan 'to sharpen'."
+		},
+		"core_concept": {
+			"en": "Sharpen or stimulate",
+			"ja": "鈍くなった刃を研ぎ澄まし、鋭利にする。転じて、期待や好奇心を刺激して、何かが欲しくてたまらない状態にさせること"
+		},
+		"thinking_layer": "欲望の先鋭化。中途半端な興味を、逃れられないほどの強い渇望へと変えてしまう、触媒的な働き。",
+		"synonyms": [
+			"stimulate",
+			"hone"
+		],
+		"antonyms": [
+			"dampen",
+			"blunt"
+		],
+		"aftertaste": "物語の序章だけを読み、その先の展開を想像して喉の奥が乾くような、もどかしくも心地よい刺激",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kweh-",
+					"meaning": "sharp"
+				}
+			],
+			"points": [
+				"砥石（Whetstone）が語源。物理的な研磨が心理的な覚醒へと繋がる。"
+			]
+		},
+		"source": "Merriam-Webster",
+		"era": "Before 12th Century"
+	},
+	{
+		"id": "wily",
+		"word": "Wily",
+		"part_of_speech": "adjective",
+		"meaning": "策を弄する、狡賢い、抜け目のない",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "wil",
+					"type": "root",
+					"meaning": "trick/wile"
+				}
+			],
+			"original_statement": "From wile 'a trick or stratagem'."
+		},
+		"core_concept": {
+			"en": "Skilled at gaining an advantage",
+			"ja": "真正面から戦うのではなく、策略や罠、嘘を巧みに組み合わせて、自分に有利な状況を鮮やかに作り出す知恵"
+		},
+		"thinking_layer": "弱者の武器。力では勝てない者が、相手の隙や欲望を利用して勝利を掠め取る、洗練された邪悪さと知性。",
+		"synonyms": [
+			"cunning",
+			"shrewd"
+		],
+		"antonyms": [
+			"naive",
+			"guileless"
+		],
+		"aftertaste": "完璧な勝利を確信した瞬間、いつの間にか自分が相手の手のひらで踊らされていたことに気づく屈辱",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "unknown",
+					"meaning": "Scandinavian origin?"
+				}
+			],
+			"points": [
+				"Wile（計略）の形容詞形。Guile（狡猾）と響きも意味も近い。"
+			]
+		},
+		"source": "Oxford Lexico",
+		"era": "13th Century"
+	},
+	{
+		"id": "wistful",
+		"word": "Wistful",
+		"part_of_speech": "adjective",
+		"meaning": "物欲しげな、憧れと哀しみの入り混じった",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "whist",
+					"type": "root",
+					"meaning": "silent/attentive"
+				}
+			],
+			"original_statement": "From obsolete wistly 'intently', perhaps influenced by wishful."
+		},
+		"core_concept": {
+			"en": "Feeling vague or regretful longing",
+			"ja": "もう手に入らない過去や、決して届かない理想を遠くから見つめ、静かな哀しみと共に思いを馳せる様子"
+		},
+		"thinking_layer": "叶わないことへの受容。激しい渇望というよりは、諦めが混じった淡い思慕。届かない距離そのものを慈しむような眼差し。",
+		"synonyms": [
+			"yearning",
+			"pensive"
+		],
+		"antonyms": [
+			"satisfied",
+			"indifferent"
+		],
+		"aftertaste": "アルバムの中の、名前も思い出せない誰かの笑顔を見つめる時の、胸の奥が少しだけ締め付けられる感覚",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "weid-",
+					"meaning": "to see/know"
+				}
+			],
+			"points": [
+				"じっと見る（wistly）ことが語源。視線の先に『不在』がある悲しみの言葉。"
+			]
+		},
+		"source": "Merriam-Webster",
+		"era": "17th Century"
+	},
+	{
+		"id": "wry",
+		"word": "Wry",
+		"part_of_speech": "adjective",
+		"meaning": "皮肉っぽく歪んだ、苦笑いするような",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "wrigian",
+					"type": "root",
+					"meaning": "to turn/twist"
+				}
+			],
+			"original_statement": "From Old English wrigian 'to turn, twist, bend'."
+		},
+		"core_concept": {
+			"en": "Using or expressing dry, mocking humor",
+			"ja": "まっすぐではない。事態の皮肉さや自分の不運を認め、唇を少し歪めて笑うような、醒めたユーモアの感覚"
+		},
+		"thinking_layer": "ねじれた受容。悲劇をそのまま受け取らず、一歩引いて「滑稽さ」として処理する知的な防御反応としての微笑。",
+		"synonyms": [
+			"ironic",
+			"sardonic"
+		],
+		"antonyms": [
+			"straight",
+			"earnest"
+		],
+		"aftertaste": "最悪のタイミングで土砂降りの雨に降られ、天を仰いで「完璧だ」と呟く時の、乾いた心地よさ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "wer-",
+					"meaning": "to turn/bend"
+				}
+			],
+			"points": [
+				"Wrist（手首：曲がる場所）と同根。歪んでいるからこそ見える真実がある。"
+			]
+		},
+		"source": "Britannica",
+		"era": "16th Century"
+	},
+	{
+		"id": "quantity",
+		"word": "Quantity",
+		"part_of_speech": "noun",
+		"meaning": "分量、数量",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "quantus",
+					"type": "root",
+					"meaning": "how much"
+				},
+				{
+					"text": "-itas",
+					"type": "suffix",
+					"meaning": "state or quality"
+				}
+			],
+			"original_statement": "From Old French quantite, from Latin quantitatem 'relativeness, magnitude', from quantus 'how great, how much'."
+		},
+		"core_concept": {
+			"en": "How much there is",
+			"ja": "「どれほどか」という問いへの答え"
+		},
+		"thinking_layer": "数えられるものは有限ですが、私たちが「どれほどか」と問うとき、そこには対象を測り、把握したいという知的な欲求が潜んでいます。計量とは、混沌とした世界に境界線を引く行為なのです。",
+		"synonyms": [
+			"amount",
+			"volume"
+		],
+		"antonyms": [
+			"quality"
+		],
+		"aftertaste": "測られた存在の重み",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "quantus",
+					"meaning": "how much"
+				}
+			],
+			"points": [
+				"量子（Quantum）も同じ語根を持ち、宇宙の最小単位を問う言葉です。"
+			]
+		},
+		"source": "Oxford English Dictionary & Etymonline",
+		"era": "14th Century Old French"
+	},
+	{
+		"id": "quarrel",
+		"word": "Quarrel",
+		"part_of_speech": "noun",
+		"meaning": "口論、不和",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "queri",
+					"type": "root",
+					"meaning": "to complain"
+				},
+				{
+					"text": "-ela",
+					"type": "suffix",
+					"meaning": "action or result"
+				}
+			],
+			"original_statement": "From Old French querele 'complaint, dispute', from Latin querela 'complaint'."
+		},
+		"core_concept": {
+			"en": "A formal complaint",
+			"ja": "抑えきれずにこぼれ落ちた不平の雫"
+		},
+		"thinking_layer": "口論の始まりは、単なる攻撃ではなく「嘆き（complain）」です。心が満たされないとき、その欠落が言葉となって溢れ出し、他者との衝突を生んでしまうのです。",
+		"synonyms": [
+			"dispute",
+			"argument"
+		],
+		"antonyms": [
+			"agreement",
+			"harmony"
+		],
+		"aftertaste": "嘆きが形を変えた衝突",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "queri",
+					"meaning": "to complain"
+				}
+			],
+			"points": [
+				"『querulous（不満げな）』も同じ語源から派生しています。"
+			]
+		},
+		"source": "Chambers Dictionary of Etymology",
+		"era": "12th Century Old French"
+	},
+	{
+		"id": "quarter",
+		"word": "Quarter",
+		"part_of_speech": "noun",
+		"meaning": "4分の1、界隈",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "quartus",
+					"type": "root",
+					"meaning": "fourth"
+				}
+			],
+			"original_statement": "From Latin quartus 'fourth', from quattuor 'four'."
+		},
+		"core_concept": {
+			"en": "One of four parts",
+			"ja": "世界を四つに分かつ、均衡の単位"
+		},
+		"thinking_layer": "4という数字は、東西南北や四季のように、世界を安定させる構造を指します。「界隈」をquarterと呼ぶのは、その場所が世界という大きなパズルの重要な一片であることを示唆しています。",
+		"synonyms": [
+			"portion",
+			"district"
+		],
+		"antonyms": [
+			"whole"
+		],
+		"aftertaste": "秩序を支える四分の一の静寂",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "quattuor",
+					"meaning": "four"
+				}
+			],
+			"points": [
+				"『quartet（四重奏）』もここから来ています。"
+			]
+		},
+		"source": "Oxford English Dictionary",
+		"era": "13th Century Latin"
+	},
+	{
+		"id": "queer",
+		"word": "Queer",
+		"part_of_speech": "adjective",
+		"meaning": "奇妙な、風変わりな",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "twerh-",
+					"type": "root",
+					"meaning": "to twist"
+				}
+			],
+			"original_statement": "Likely from German quer 'oblique, perverse', from PIE root *terkw- 'to twist'."
+		},
+		"core_concept": {
+			"en": "Twisted or oblique",
+			"ja": "真っ直ぐな線から、軽やかに逸れたもの"
+		},
+		"thinking_layer": "「奇妙」とは、既存の定規（直線）に沿わないことを意味します。しかし、捻じれ（twist）があるからこそ、世界には深みと多層的な視点が生まれるのです。",
+		"synonyms": [
+			"strange",
+			"eccentric"
+		],
+		"antonyms": [
+			"normal",
+			"straight"
+		],
+		"aftertaste": "逸脱が生む独自の美学",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "terkw-",
+					"meaning": "to twist"
+				}
+			],
+			"points": [
+				"『torture（拷問）』や『torque（トルク）』も「捻じる」という共通の根を持っています。"
+			]
+		},
+		"source": "Barnhart Dictionary of Etymology",
+		"era": "16th Century German"
+	},
+	{
+		"id": "quick",
+		"word": "Quick",
+		"part_of_speech": "adjective",
+		"meaning": "速い、生きている",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "cwic",
+					"type": "root",
+					"meaning": "alive, conscious"
+				}
+			],
+			"original_statement": "From Old English cwic 'living, alive, animate'."
+		},
+		"core_concept": {
+			"en": "Being alive",
+			"ja": "生命の鼓動がもたらす、鮮やかな躍動"
+		},
+		"thinking_layer": "本来「速さ」ではなく「生命」を意味していました。生命があるものは動く。動くものは速い。速さは、命がそこに充満していることの最も純粋な証左なのです。",
+		"synonyms": [
+			"fast",
+			"alive"
+		],
+		"antonyms": [
+			"slow",
+			"dead"
+		],
+		"aftertaste": "脈打つ命の速度",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "gwei-",
+					"meaning": "to live"
+				}
+			],
+			"points": [
+				"爪の根元の生きた部分を『the quick』と呼ぶのはこの語源の名残です。"
+			]
+		},
+		"source": "Chambers Dictionary of Etymology",
+		"era": "Old English"
+	},
+	{
+		"id": "quiet",
+		"word": "Quiet",
+		"part_of_speech": "adjective",
+		"meaning": "静かな、平穏な",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "quies",
+					"type": "root",
+					"meaning": "rest, peace"
+				}
+			],
+			"original_statement": "From Latin quietus 'free from labor, at rest', from quies 'rest'."
+		},
+		"core_concept": {
+			"en": "At rest",
+			"ja": "労働から解放され、魂が安らぐ場所"
+		},
+		"thinking_layer": "静寂とは音が無いことではなく、活動が止まった状態を指します。それは嵐が過ぎ去った後の安息であり、私たちが自分自身に立ち返るために不可欠な、魂の休息地なのです。",
+		"synonyms": [
+			"silent",
+			"calm"
+		],
+		"antonyms": [
+			"noisy",
+			"loud"
+		],
+		"aftertaste": "全ての動きが止まる場所",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "quies",
+					"meaning": "rest"
+				}
+			],
+			"points": [
+				"『quit（辞める）』も「自由（解放）になって休む」という同じ根から来ています。"
+			]
+		},
+		"source": "Oxford English Dictionary",
+		"era": "14th Century Latin"
+	},
+	{
+		"id": "quit",
+		"word": "Quit",
+		"part_of_speech": "verb",
+		"meaning": "辞める、去る、解放する",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "quietus",
+					"type": "root",
+					"meaning": "free, at rest"
+				}
+			],
+			"original_statement": "From Old French quiter, from Latin quietare 'to calm, to free', from quietus."
+		},
+		"core_concept": {
+			"en": "To be free from debt or duty",
+			"ja": "重荷を下ろし、静かな自由を手にいれる"
+		},
+		"thinking_layer": "「辞める」ことは敗北ではなく、自分を縛っていた義務から解放され、内なる静寂（quiet）を取り戻す行為です。清算（acquit）が終わったとき、人は初めて次の旅へと踏み出せます。",
+		"synonyms": [
+			"stop",
+			"abandon"
+		],
+		"antonyms": [
+			"continue",
+			"persist"
+		],
+		"aftertaste": "義務の終わり、自由の始まり",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "quies",
+					"meaning": "rest"
+				}
+			],
+			"points": [
+				"借金を返済し終えた状態も、かつては『quit』と呼びました。"
+			]
+		},
+		"source": "Oxford Dictionary of English Etymology",
+		"era": "13th Century Old French"
+	},
+	{
+		"id": "quite",
+		"word": "Quite",
+		"part_of_speech": "adverb",
+		"meaning": "全く、かなり",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "quit",
+					"type": "root",
+					"meaning": "free, clear"
+				}
+			],
+			"original_statement": "From the adjective quit 'free, clear', meaning 'completely, thoroughly'."
+		},
+		"core_concept": {
+			"en": "Completely free or clear",
+			"ja": "混じりけのない、完全に満たされた状態"
+		},
+		"thinking_layer": "「かなり」や「完全に」を意味するこの言葉は、本来「清算された」状態を指します。中途半端な残りが一切なく、空っぽか、あるいは完全に埋まっている。その極端なまでの潔さがこの言葉の核です。",
+		"synonyms": [
+			"completely",
+			"entirely"
+		],
+		"antonyms": [
+			"partially"
+		],
+		"aftertaste": "一切の濁りなき到達",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "quit",
+					"meaning": "clear"
+				}
+			],
+			"points": [
+				"『quit（辞める）』と全く同じ出自を持ちます。"
+			]
+		},
+		"source": "Etymonline",
+		"era": "14th Century Middle English"
+	},
+	{
+		"id": "quorum",
+		"word": "Quorum",
+		"part_of_speech": "noun",
+		"meaning": "定足数",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "qui",
+					"type": "root",
+					"meaning": "who"
+				}
+			],
+			"original_statement": "From Latin quorum 'of whom', being the first word of certain commissions."
+		},
+		"core_concept": {
+			"en": "Of whom (there are enough)",
+			"ja": "事を成すために必要な、「誰々」という選ばれし集い"
+		},
+		"thinking_layer": "「そこに誰がいるか」が問われる瞬間です。意思決定には単なる人数ではなく、特定の役割を持った人々が揃うことが必要。それは、責任を共有する最小単位のコミュニティを意味します。",
+		"synonyms": [
+			"minimum number",
+			"majority"
+		],
+		"antonyms": [],
+		"aftertaste": "選ばれた者たちが作る調和",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "qui",
+					"meaning": "who"
+				}
+			],
+			"points": [
+				"元々は特定の裁判官たちを指すラテン語の文書から来ました。"
+			]
+		},
+		"source": "Oxford English Dictionary",
+		"era": "15th Century Latin"
+	},
+	{
+		"id": "quota",
+		"word": "Quota",
+		"part_of_speech": "noun",
+		"meaning": "割り当て、定数",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "quot",
+					"type": "root",
+					"meaning": "how many"
+				}
+			],
+			"original_statement": "From Medieval Latin quota pars 'how large a part', from Latin quot 'how many'."
+		},
+		"core_concept": {
+			"en": "How many parts",
+			"ja": "全体から切り分けられた、自分自身の分際"
+		},
+		"thinking_layer": "世界は分け与えられるものです。自分に割り振られた「数」を知ることは、全体の中での自分の位置と責任を確認することに他なりません。",
+		"synonyms": [
+			"allotment",
+			"share"
+		],
+		"antonyms": [],
+		"aftertaste": "定められた役割の断片",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "quot",
+					"meaning": "how many"
+				}
+			],
+			"points": [
+				"『quotient（商）』も同じ語源を持ちます。"
+			]
+		},
+		"source": "Etymonline",
+		"era": "17th Century Medieval Latin"
+	},
+	{
+		"id": "quake",
+		"word": "Quake",
+		"part_of_speech": "verb",
+		"meaning": "震える、揺れる",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "cwacian",
+					"type": "root",
+					"meaning": "to shake"
+				}
+			],
+			"original_statement": "From Old English cwacian 'to shake, tremble'."
+		},
+		"core_concept": {
+			"en": "To shake uncontrollably",
+			"ja": "大地すらも制御を失い、身悶えるさま"
+		},
+		"thinking_layer": "揺れは、安定への信頼が崩れる瞬間に起こります。私たちが抗えない巨大な力に直面したとき、精神も大地も等しく「quake」します。それは畏怖の対象でもありました。",
+		"synonyms": [
+			"shake",
+			"shudder"
+		],
+		"antonyms": [
+			"steady"
+		],
+		"aftertaste": "抗えぬ力への戦慄",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "cwacian",
+					"meaning": "shake"
+				}
+			],
+			"points": [
+				"キリスト教の一派『クエーカー（Quakers）』は、神の前で震える姿から名付けられました。"
+			]
+		},
+		"source": "Etymonline",
+		"era": "Old English"
+	},
+	{
+		"id": "quenchless",
+		"word": "Quenchless",
+		"part_of_speech": "adjective",
+		"meaning": "抑えられない、消すことのできない",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "cwencan",
+					"type": "root",
+					"meaning": "to extinguish"
+				},
+				{
+					"text": "-less",
+					"type": "suffix",
+					"meaning": "without, unable to"
+				}
+			],
+			"original_statement": "From quench + -less."
+		},
+		"core_concept": {
+			"en": "Inextinguishable",
+			"ja": "どんな水をもってしても、決して消せぬ情熱"
+		},
+		"thinking_layer": "何かを求める心が、肉体や時間の限界を超えて燃え続けること。それは呪いかもしれませんが、同時に人間を奇跡へと駆り立てる唯一のエネルギーでもあります。",
+		"synonyms": [
+			"insatiable",
+			"unquenchable"
+		],
+		"antonyms": [
+			"appeasable"
+		],
+		"aftertaste": "永遠に燃え盛る渇望",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "cwencan",
+					"meaning": "extinguish"
+				}
+			],
+			"points": [
+				"シェイクスピアなどの詩的表現でよく使われる、魂の渇きを指す言葉です。"
+			]
+		},
+		"source": "Oxford English Dictionary",
+		"era": "16th Century English"
+	},
+	{
+		"id": "wage",
+		"word": "Wage",
+		"part_of_speech": "noun",
+		"meaning": "賃金、報酬",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "waditum",
+					"type": "root",
+					"meaning": "pledge, promise"
+				}
+			],
+			"original_statement": "From Old North French wagier 'to pledge', from Proto-Germanic *wadja 'pledge'."
+		},
+		"core_concept": {
+			"en": "A pledge or guarantee",
+			"ja": "命を懸けた約束の証として、支払われる対価"
+		},
+		"thinking_layer": "賃金とは単なるお金ではなく、本来は「誓約（pledge）」でした。自らの時間と労力を差し出すという約束に対し、報いとして与えられる信頼の形。それが現在の給与の根源にある哲学です。",
+		"synonyms": [
+			"salary",
+			"pay"
+		],
+		"antonyms": [],
+		"aftertaste": "約束と信頼の等価交換",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "wad-",
+					"meaning": "pledge"
+				}
+			],
+			"points": [
+				"『Wedding（結婚）』も同じ「誓約」を語源に持ちます。"
+			]
+		},
+		"source": "Barnhart Dictionary of Etymology",
+		"era": "14th Century Old North French"
+	},
+	{
+		"id": "wait",
+		"word": "Wait",
+		"part_of_speech": "verb",
+		"meaning": "待つ、控える",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "wahten",
+					"type": "root",
+					"meaning": "to watch, guard"
+				}
+			],
+			"original_statement": "From Old Northern French waitier 'to watch, lie in wait for', from Proto-Germanic *waht-."
+		},
+		"core_concept": {
+			"en": "To watch or stay awake",
+			"ja": "来るべき時を見逃さぬよう、意識を研ぎ澄ます"
+		},
+		"thinking_layer": "「待つ」ことは、単なる時間の経過ではありません。それは「見守ること（watch）」であり、注意深く意識を保ち続ける能動的な行為です。静止しているようでいて、心は最も鋭く働いています。",
+		"synonyms": [
+			"anticipate",
+			"remain"
+		],
+		"antonyms": [
+			"leave",
+			"depart"
+		],
+		"aftertaste": "静寂に潜む鋭い意識",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "waht-",
+					"meaning": "watch"
+				}
+			],
+			"points": [
+				"『Wake（目覚める）』や『Watch（見る）』と密接に関係しています。"
+			]
+		},
+		"source": "Chambers Dictionary of Etymology",
+		"era": "12th Century Old French"
+	},
+	{
+		"id": "wake",
+		"word": "Wake",
+		"part_of_speech": "verb",
+		"meaning": "目覚める、航跡",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "wacan",
+					"type": "root",
+					"meaning": "to arise, become active"
+				}
+			],
+			"original_statement": "From Old English wacan 'to become awake', related to wacor 'watchful'."
+		},
+		"core_concept": {
+			"en": "To become active",
+			"ja": "眠りの淵から這い上がり、再び世界と接続する"
+		},
+		"thinking_layer": "目覚めとは、ただ目を開けることではなく、存在が「活動状態（active）」に移行すること。船が残す「航跡」も同じ語なのは、それが水の「目覚め」であり、通り過ぎた生命の証だからです。",
+		"synonyms": [
+			"awaken",
+			"track"
+		],
+		"antonyms": [
+			"sleep"
+		],
+		"aftertaste": "通り過ぎた後に残る生の震え",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "wacan",
+					"meaning": "to arise"
+				}
+			],
+			"points": [
+				"通夜（wake）も、死者のそばで眠らずに見守る行為に由来します。"
+			]
+		},
+		"source": "Etymonline",
+		"era": "Old English"
+	},
+	{
+		"id": "walk",
+		"word": "Walk",
+		"part_of_speech": "verb",
+		"meaning": "歩く、丸める",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "wealcan",
+					"type": "root",
+					"meaning": "to roll, toss"
+				}
+			],
+			"original_statement": "From Old English wealcan 'to roll, toss, turn', later changing meaning to moving on foot."
+		},
+		"core_concept": {
+			"en": "To roll or turn",
+			"ja": "大地の上を転がるように、律動的に移動する"
+		},
+		"thinking_layer": "かつて「歩く」は「転がる（roll）」ことでした。私たちの足運びは、実は円運動の連続であり、地球という球体の上で自らを回転させながら進む、ダイナミックな営みなのです。",
+		"synonyms": [
+			"stride",
+			"stroll"
+		],
+		"antonyms": [
+			"run",
+			"stay"
+		],
+		"aftertaste": "大地と一体化する回転の歩み",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "wealcan",
+					"meaning": "to roll"
+				}
+			],
+			"points": [
+				"布を揉んで強くする『縮充（fulling）』という作業もwalkと呼ばれていました。"
+			]
+		},
+		"source": "Oxford English Dictionary",
+		"era": "Old English"
+	},
+	{
+		"id": "wan",
+		"word": "Wan",
+		"part_of_speech": "adjective",
+		"meaning": "青白い、弱々しい",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "wann",
+					"type": "root",
+					"meaning": "dark, leaden, lacking light"
+				}
+			],
+			"original_statement": "From Old English wann 'dark, dusky, leaden', originally meaning 'lacking light'."
+		},
+		"core_concept": {
+			"en": "Lacking light or color",
+			"ja": "光を失い、影の色に染まってしまった顔"
+		},
+		"thinking_layer": "今は「青白い」と訳されますが、元々は「暗い（dark）」という意味でした。輝きが失われたとき、色彩は沈み、生命の灯火が消えかかっていることを示す「影」の言葉だったのです。",
+		"synonyms": [
+			"pale",
+			"pallid"
+		],
+		"antonyms": [
+			"radiant",
+			"flushed"
+		],
+		"aftertaste": "失われた光の残像",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "wann",
+					"meaning": "dark"
+				}
+			],
+			"points": [
+				"色の概念が『暗い』から『血の気がない』へと逆転した珍しい例です。"
+			]
+		},
+		"source": "Merriam-Webster Etymology",
+		"era": "Old English"
+	},
+	{
+		"id": "want",
+		"word": "Want",
+		"part_of_speech": "verb",
+		"meaning": "欲しがる、欠けている",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "vanr",
+					"type": "root",
+					"meaning": "lacking, deficient"
+				}
+			],
+			"original_statement": "From Old Norse vanta 'to lack', from Proto-Germanic *wanon 'to be empty'."
+		},
+		"core_concept": {
+			"en": "To be empty",
+			"ja": "心にぽっかりと開いた、欠落という名の空洞"
+		},
+		"thinking_layer": "「欲しい」という欲望の正体は、何かが「足りない（lack）」という空虚さです。私たちは欠損を埋めようとして世界を求めますが、その空洞こそが、私たちが動き出すための原動力でもあります。",
+		"synonyms": [
+			"desire",
+			"lack"
+		],
+		"antonyms": [
+			"have",
+			"suffice"
+		],
+		"aftertaste": "欲望という名の埋まらない穴",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "wan-",
+					"meaning": "empty"
+				}
+			],
+			"points": [
+				"『Vain（無駄な）』や『Vanish（消える）』とも遠い親戚です。"
+			]
+		},
+		"source": "Oxford Dictionary of English Etymology",
+		"era": "12th Century Old Norse"
+	},
+	{
+		"id": "warm",
+		"word": "Warm",
+		"part_of_speech": "adjective",
+		"meaning": "温かい",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "ghwer-",
+					"type": "root",
+					"meaning": "hot"
+				}
+			],
+			"original_statement": "From Old English wearm, from Proto-Germanic *warmaz."
+		},
+		"core_concept": {
+			"en": "Glowing or burning",
+			"ja": "生命の源火が放つ、柔らかな抱擁"
+		},
+		"thinking_layer": "「温かさ」は、生命そのものの温度です。冷徹な理屈（Cold logic）に対し、温かさは境界線を溶かし、他者を受け入れるための心の熱量を示しています。",
+		"synonyms": [
+			"tepid",
+			"genial"
+		],
+		"antonyms": [
+			"cold",
+			"cool"
+		],
+		"aftertaste": "心を溶かす微熱の記憶",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "gwher-",
+					"meaning": "to heat"
+				}
+			],
+			"points": [
+				"『Furnace（炉）』や『Thermos（魔法瓶）』のギリシャ・ラテン語根と、印欧祖語レベルで繋がっています。"
+			]
+		},
+		"source": "Etymonline",
+		"era": "Old English"
+	},
+	{
+		"id": "warn",
+		"word": "Warn",
+		"part_of_speech": "verb",
+		"meaning": "警告する",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "wer-",
+					"type": "root",
+					"meaning": "to cover, guard"
+				}
+			],
+			"original_statement": "From Old English wearnian 'to take heed, to caution', related to weard 'guard'."
+		},
+		"core_concept": {
+			"en": "To make someone watchful",
+			"ja": "誰かの視線を、迫りくる危機へと向かわせる"
+		},
+		"thinking_layer": "警告とは、相手を「守衛（ward）」に変える行為です。油断して眠っている意識を揺り起こし、防衛の構えをとらせる。それは他者の生を守ろうとする、差し出された盾のような言葉です。",
+		"synonyms": [
+			"caution",
+			"alert"
+		],
+		"antonyms": [],
+		"aftertaste": "守るために放たれる声の矢",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "wer-",
+					"meaning": "to perceive"
+				}
+			],
+			"points": [
+				"『Aware（気づいている）』も同じ根を持っています。"
+			]
+		},
+		"source": "Merriam-Webster",
+		"era": "Old English"
+	},
+	{
+		"id": "waste",
+		"word": "Waste",
+		"part_of_speech": "verb/noun",
+		"meaning": "浪費する、荒地",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "vastus",
+					"type": "root",
+					"meaning": "empty, desolate"
+				}
+			],
+			"original_statement": "From Old French waster, from Latin vastare 'to lay waste', from vastus 'empty'."
+		},
+		"core_concept": {
+			"en": "To make empty",
+			"ja": "豊かなものを、何もない空虚へと変えてしまう"
+		},
+		"thinking_layer": "浪費とは、存在を「無（vastus）」に帰す行為です。荒地（waste land）に何も育たないように、価値を吸い込み、何も残さない虚無。私たちは豊かさの影に、常にこの空虚さを抱えています。",
+		"synonyms": [
+			"squander",
+			"desert"
+		],
+		"antonyms": [
+			"save",
+			"conserve"
+		],
+		"aftertaste": "全てを飲み込む静かな空虚",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "vastus",
+					"meaning": "empty"
+				}
+			],
+			"points": [
+				"『Vast（広大な）』は、あまりの広さに「空っぽに見える」ことが語源です。"
+			]
+		},
+		"source": "Chambers Dictionary of Etymology",
+		"era": "13th Century Old French"
+	},
+	{
+		"id": "watch",
+		"word": "Watch",
+		"part_of_speech": "verb/noun",
+		"meaning": "見る、見守る、時計",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "wacan",
+					"type": "root",
+					"meaning": "to wake"
+				}
+			],
+			"original_statement": "From Old English wæccan 'to be awake, keep watch'."
+		},
+		"core_concept": {
+			"en": "To be awake for a purpose",
+			"ja": "ただ見るのではなく、覚醒して対象を見守る"
+		},
+		"thinking_layer": "「見る」と「見守る」の違いは、覚醒の純度です。時計（watch）がこの名を持つのは、それが時を「監視し、眠らせない」ための道具だから。私たちの視線は、対象を意識の光の中に留めておく力を持っています。",
+		"synonyms": [
+			"observe",
+			"guard"
+		],
+		"antonyms": [
+			"ignore"
+		],
+		"aftertaste": "眠らぬ意識の光",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "weg-",
+					"meaning": "to be lively"
+				}
+			],
+			"points": [
+				"『Vigor（活力）』や『Vegetable（野菜＝生き生きとしたもの）』とも遠く繋がっています。"
+			]
+		},
+		"source": "Oxford English Dictionary",
+		"era": "Old English"
+	},
+	{
+		"id": "water",
+		"word": "Water",
+		"part_of_speech": "noun",
+		"meaning": "水",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "wed-",
+					"type": "root",
+					"meaning": "water, wet"
+				}
+			],
+			"original_statement": "From Old English wæter, from Proto-Indo-European *wod-or."
+		},
+		"core_concept": {
+			"en": "The flowing element",
+			"ja": "あらゆる形に寄り添い、命を繋ぐ流転の源"
+		},
+		"thinking_layer": "水は自己を主張せず、器に従います。しかし、その柔らかさこそが岩を砕き、生命を育む。万物の根源として、水は「流れ（flow）」という変化の美徳を私たちに教えています。",
+		"synonyms": [
+			"liquid",
+			"aqua"
+		],
+		"antonyms": [],
+		"aftertaste": "形なき強さの極致",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "wed-",
+					"meaning": "wet"
+				}
+			],
+			"points": [
+				"『Vodka（ウォッカ）』はロシア語で『小さな水』を意味し、同じ語根から来ています。"
+			]
+		},
+		"source": "Etymonline",
+		"era": "Proto-Indo-European"
+	},
+	{
+		"id": "wealth",
+		"word": "Wealth",
+		"part_of_speech": "noun",
+		"meaning": "富、幸福",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "weal",
+					"type": "root",
+					"meaning": "well-being, prosperity"
+				},
+				{
+					"text": "-th",
+					"type": "suffix",
+					"meaning": "state or condition"
+				}
+			],
+			"original_statement": "From Middle English welthe, from well 'well-being' + -th."
+		},
+		"core_concept": {
+			"en": "The state of being well",
+			"ja": "金銭を超えた先にある、魂が「善い」状態"
+		},
+		"thinking_layer": "富とは本来、銀行の残高ではなく「幸福な状態（well-being）」を指しました。真に豊かな人とは、所有物が多い人ではなく、その存在そのものが「健やか（well）」である人を指すのです。",
+		"synonyms": [
+			"affluence",
+			"well-being"
+		],
+		"antonyms": [
+			"poverty"
+		],
+		"aftertaste": "魂が満たされているという実感",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "wel-",
+					"meaning": "to wish, will"
+				}
+			],
+			"points": [
+				"『Common-wealth（共和国）』は「公共の幸福」を意味します。"
+			]
+		},
+		"source": "Oxford English Dictionary",
+		"era": "13th Century Middle English"
+	},
+	{
+		"id": "weapon",
+		"word": "Weapon",
+		"part_of_speech": "noun",
+		"meaning": "武器",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "wæpen",
+					"type": "root",
+					"meaning": "instrument of war, penis"
+				}
+			],
+			"original_statement": "From Old English wæpen 'instrument of fighting', also used for membrum virile."
+		},
+		"core_concept": {
+			"en": "Instrument of power",
+			"ja": "自己を拡張し、他者や運命をねじ伏せるための道具"
+		},
+		"thinking_layer": "武器は、肉体の限界を超えるための知恵の産物です。しかし、それは同時に平和を壊す力も持ちます。道具が武器になるか、あるいは守りの礎になるかは、それを握る「意志」の温度に委ねられています。",
+		"synonyms": [
+			"arm",
+			"instrument"
+		],
+		"antonyms": [],
+		"aftertaste": "手に握られた意志の延長",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "wēp-",
+					"meaning": "to swing, cast"
+				}
+			],
+			"points": [
+				"ゲルマン語圏特有の言葉で、他の印欧語族には直接の親戚が少ない謎の多い単語です。"
+			]
+		},
+		"source": "Etymonline",
+		"era": "Old English"
+	},
+	{
+		"id": "weather",
+		"word": "Weather",
+		"part_of_speech": "noun",
+		"meaning": "天気、嵐",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "we-",
+					"type": "root",
+					"meaning": "to blow"
+				}
+			],
+			"original_statement": "From Old English weder 'air, sky, breeze, storm', from PIE root *we- 'to blow'."
+		},
+		"core_concept": {
+			"en": "That which blows",
+			"ja": "空から吹き下ろし、地上のすべてを揺さぶる息吹"
+		},
+		"thinking_layer": "天気とは「風（blow）」そのものでした。空の機嫌一つで、人間は進むことも止まることも強いられる。それは、私たちが決して支配できない巨大な意志の現れなのです。",
+		"synonyms": [
+			"climate",
+			"atmosphere"
+		],
+		"antonyms": [],
+		"aftertaste": "空が吐き出す気まぐれな呼吸",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "we-",
+					"meaning": "to blow"
+				}
+			],
+			"points": [
+				"『Wind（風）』や『Wing（翼）』も同じ「吹く」という根から生まれています。"
+			]
+		},
+		"source": "Etymonline",
+		"era": "Proto-Indo-European"
+	},
+	{
+		"id": "weave",
+		"word": "Weave",
+		"part_of_speech": "verb",
+		"meaning": "織る、編む",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "webh-",
+					"type": "root",
+					"meaning": "to weave, move to and fro"
+				}
+			],
+			"original_statement": "From Old English wefan 'to weave, form by interlacing'."
+		},
+		"core_concept": {
+			"en": "To interlace threads",
+			"ja": "断片を交差させ、新たな一つの宇宙を創り出す"
+		},
+		"thinking_layer": "織るという行為は、バラバラの糸に「関係性」を与えることです。物語を「織りなす」ように、私たちは個別の出来事を交差させ、人生という一枚の布を仕立てていくのです。",
+		"synonyms": [
+			"intertwine",
+			"knit"
+		],
+		"antonyms": [
+			"unravel"
+		],
+		"aftertaste": "交差が生み出す強靭な繋がり",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "webh-",
+					"meaning": "to weave"
+				}
+			],
+			"points": [
+				"『Web（網）』や『Wasp（ジガバチ＝巣を編むもの）』も仲間です。"
+			]
+		},
+		"source": "Oxford English Dictionary",
+		"era": "Old English"
+	},
+	{
+		"id": "welcome",
+		"word": "Welcome",
+		"part_of_speech": "adjective/verb",
+		"meaning": "歓迎する、ようこそ",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "wil-",
+					"type": "prefix",
+					"meaning": "pleasure, will"
+				},
+				{
+					"text": "cuma",
+					"type": "root",
+					"meaning": "guest, comer"
+				}
+			],
+			"original_statement": "From Old English wilcuma 'a desired guest', from will 'pleasure' + cuma 'comer'."
+		},
+		"core_concept": {
+			"en": "A desired guest",
+			"ja": "あなたの来訪が、私の望みであったという告白"
+		},
+		"thinking_layer": "「ようこそ」とは、相手の存在が自分の喜び（will）と一致しているという宣言です。誰かを歓迎することは、その人がそこにいることを自分の意志で「肯定」する愛の表現に他なりません。",
+		"synonyms": [
+			"greet",
+			"hospitality"
+		],
+		"antonyms": [
+			"reject",
+			"shun"
+		],
+		"aftertaste": "意志と来訪が重なる歓喜",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "will",
+					"meaning": "wish"
+				},
+				{
+					"term": "come",
+					"meaning": "to arrive"
+				}
+			],
+			"points": [
+				"フランス語の『Bienvenu』も同じ構成（良く＋来た）です。"
+			]
+		},
+		"source": "Etymonline",
+		"era": "Old English"
+	},
+	{
+		"id": "welfare",
+		"word": "Welfare",
+		"part_of_speech": "noun",
+		"meaning": "福祉、安泰",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "wel-",
+					"type": "prefix",
+					"meaning": "well"
+				},
+				{
+					"text": "faran",
+					"type": "root",
+					"meaning": "to go, travel"
+				}
+			],
+			"original_statement": "From Middle English wel fare, from well + fare 'to get along, to journey'."
+		},
+		"core_concept": {
+			"en": "To go well",
+			"ja": "人生という長い旅路が、健やかに進んでいくこと"
+		},
+		"thinking_layer": "福祉とは、特定の制度ではなく「よく行く（well fare）」こと、つまり人生の旅を無事に続けることを指します。立ち止まる人を助け、再び歩き出せるようにすることが、福祉の真の願いです。",
+		"synonyms": [
+			"well-being",
+			"prosperity"
+		],
+		"antonyms": [
+			"misery"
+		],
+		"aftertaste": "旅路を照らす健やかな光",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "faran",
+					"meaning": "to travel"
+				}
+			],
+			"points": [
+				"『Farewell（さらば）』は「健やかに去れ」という意味で対になっています。"
+			]
+		},
+		"source": "Merriam-Webster",
+		"era": "14th Century Middle English"
+	},
+	{
+		"id": "well",
+		"word": "Well",
+		"part_of_speech": "adverb/noun",
+		"meaning": "よく、井戸、湧き出る",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "wel-",
+					"type": "root",
+					"meaning": "to wish, will"
+				}
+			],
+			"original_statement": "From Old English wel 'abundantly, according to one's wish', related to willan 'to wish'."
+		},
+		"core_concept": {
+			"en": "According to one's wish",
+			"ja": "内なる願いのままに、こんこんと溢れ出す"
+		},
+		"thinking_layer": "「良い」とは、自分の「意志（will）」にかなっていること。井戸（well）がそう呼ばれるのは、大地から水が自らの意志で溢れ出てくるように見えるからです。満足とは、願いと現実が重なる場所に湧き出ます。",
+		"synonyms": [
+			"satisfactorily",
+			"fountain"
+		],
+		"antonyms": [
+			"badly",
+			"ill"
+		],
+		"aftertaste": "意志が満たされた瞬間の滴り",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "wel-",
+					"meaning": "to wish"
+				}
+			],
+			"points": [
+				"『Wealth』や『Welfare』の根幹となる最重要の単語の一つです。"
+			]
+		},
+		"source": "Oxford Dictionary of English Etymology",
+		"era": "Old English"
+	},
+	{
+		"id": "whelk",
+		"word": "Whelk",
+		"part_of_speech": "noun",
+		"meaning": "ツブ、巻貝",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "wel-",
+					"type": "root",
+					"meaning": "to turn, roll"
+				}
+			],
+			"original_statement": "From Old English weoloc, related to wealcan 'to roll'."
+		},
+		"core_concept": {
+			"en": "A twisted or rolled one",
+			"ja": "螺旋を巻きながら、自己を閉じ込める鎧"
+		},
+		"thinking_layer": "巻貝は、自らを回転（roll）させることで成長し、同時に身を守る壁を作ります。その螺旋は、時間が積み重なって形になった「生命の履歴書」のようです。",
+		"synonyms": [
+			"mollusk",
+			"shell"
+		],
+		"antonyms": [],
+		"aftertaste": "時間を巻き取った硬質な記録",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "wel-",
+					"meaning": "to turn"
+				}
+			],
+			"points": [
+				"『Helix（螺旋）』とも概念的に通じています。"
+			]
+		},
+		"source": "Etymonline",
+		"era": "Old English"
+	},
+	{
+		"id": "whole",
+		"word": "Whole",
+		"part_of_speech": "adjective",
+		"meaning": "全体の、健全な",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "hail-",
+					"type": "root",
+					"meaning": "healthy, uninjured"
+				}
+			],
+			"original_statement": "From Old English hal 'entire, unhurt, healthy', from Proto-Germanic *hailaz."
+		},
+		"core_concept": {
+			"en": "Uninjured and healthy",
+			"ja": "欠けることなく、傷一つない、本来の完璧さ"
+		},
+		"thinking_layer": "「全体」とは、どこも壊れていない「健やかさ」のことです。バラバラなものを集めるのではなく、最初から一つとして完成されていること。私たちの癒やし（heal）とは、再び「全体（whole）」に戻る過程なのです。",
+		"synonyms": [
+			"entire",
+			"complete"
+		],
+		"antonyms": [
+			"partial",
+			"broken"
+		],
+		"aftertaste": "調和がもたらす無傷の静寂",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kailo-",
+					"meaning": "whole"
+				}
+			],
+			"points": [
+				"『Holy（神聖な）』や『Health（健康）』、『Heal（癒やす）』はすべて同根です。"
+			]
+		},
+		"source": "Oxford English Dictionary",
+		"era": "Old English"
+	},
+	{
+		"id": "wicked",
+		"word": "Wicked",
+		"part_of_speech": "adjective",
+		"meaning": "邪悪な、いたずらな",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "wicca",
+					"type": "root",
+					"meaning": "wizard, witch"
+				}
+			],
+			"original_statement": "From Middle English wicked, from wicca 'witch' + -ed, originally meaning 'rendered like a witch'."
+		},
+		"core_concept": {
+			"en": "Like a wizard or witch",
+			"ja": "魔法にかけられたように、理を外れた恐ろしさ"
+		},
+		"thinking_layer": "邪悪とは、本来「魔術（witchcraft）」に近い言葉でした。それは人間に理解できない、あるいは道徳の枠組みを嘲笑うような異質な力。現代の「最高にイケてる」という俗用法も、その抗えない魅力の裏返しです。",
+		"synonyms": [
+			"evil",
+			"sinister"
+		],
+		"antonyms": [
+			"righteous",
+			"good"
+		],
+		"aftertaste": "常識を嘲笑う魔的な輝き",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "wicca",
+					"meaning": "witch"
+				}
+			],
+			"points": [
+				"語源的には『Wicca（現代魔術）』と直接繋がっています。"
+			]
+		},
+		"source": "Etymonline",
+		"era": "13th Century Middle English"
+	},
+	{
+		"id": "eager",
+		"word": "Eager",
+		"part_of_speech": "adjective",
+		"meaning": "熱心な、切望している",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "acer",
+					"type": "root",
+					"meaning": "sharp, pungent"
+				}
+			],
+			"original_statement": "From Old French aigre 'sour, sharp', from Latin acer 'sharp, keen'."
+		},
+		"core_concept": {
+			"en": "Sharp or keen",
+			"ja": "刃物のように研ぎ澄まされた、鋭い渇望"
+		},
+		"thinking_layer": "「熱心」の根底にあるのは「鋭さ」です。心が何かに向かって一直線に、鋭利に突き刺さっていく状態。それは単なる興味ではなく、対象を射抜こうとする剥き出しの意志なのです。",
+		"synonyms": [
+			"keen",
+			"enthusiastic"
+		],
+		"antonyms": [
+			"indifferent",
+			"apathetic"
+		],
+		"aftertaste": "対象を射抜く心の切っ先",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "acer",
+					"meaning": "sharp"
+				}
+			],
+			"points": [
+				"『Vinegar（酢）』の後半部分（-egar）も、同じ「鋭い（酸っぱい）」を意味する語根です。"
+			]
+		},
+		"source": "Etymonline",
+		"era": "13th Century Old French"
+	},
+	{
+		"id": "earn",
+		"word": "Earn",
+		"part_of_speech": "verb",
+		"meaning": "稼ぐ、得る",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "esnon",
+					"type": "root",
+					"meaning": "harvest"
+				}
+			],
+			"original_statement": "From Old English earnian 'to deserve, merit, labor for', related to asen 'harvest'."
+		},
+		"core_concept": {
+			"en": "To harvest",
+			"ja": "土を耕し、汗を流した後に訪れる収穫の喜び"
+		},
+		"thinking_layer": "「稼ぐ」とは本来「収穫する」ことでした。そこには、ただ金銭を受け取る以上の、自然や他者との誠実な格闘と、実りへの感謝という循環が含まれています。",
+		"synonyms": [
+			"deserve",
+			"gain"
+		],
+		"antonyms": [
+			"lose",
+			"spend"
+		],
+		"aftertaste": "労苦の末に握りしめた実り",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "as-",
+					"meaning": "harvest time"
+				}
+			],
+			"points": [
+				"秋を意味するドイツ語『Ernte』と親戚です。"
+			]
+		},
+		"source": "Oxford English Dictionary",
+		"era": "Old English"
+	},
+	{
+		"id": "earth",
+		"word": "Earth",
+		"part_of_speech": "noun",
+		"meaning": "地球、土、地上",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "er-",
+					"type": "root",
+					"meaning": "ground, soil"
+				}
+			],
+			"original_statement": "From Old English eorthe 'ground, soil, dry land', from PIE root *er- 'earth, ground'."
+		},
+		"core_concept": {
+			"en": "The ground underfoot",
+			"ja": "私たちの足元を支える、砕かれた命の堆積"
+		},
+		"thinking_layer": "「地球」という壮大な概念も、元は「土」を指す言葉でした。私たちは星の上にいるのではなく、温かい土の上に立っている。その素朴な感覚こそが、生命としての私たちの原点です。",
+		"synonyms": [
+			"ground",
+			"soil",
+			"world"
+		],
+		"antonyms": [
+			"sky",
+			"heaven"
+		],
+		"aftertaste": "すべての命が還る温かな場所",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "er-",
+					"meaning": "ground"
+				}
+			],
+			"points": [
+				"他の主要な天体がギリシャ・ローマ神話の神から名付けられたのに対し、地球（Earth）だけはゲルマン語の「土」に由来します。"
+			]
+		},
+		"source": "Chambers Dictionary of Etymology",
+		"era": "Proto-Indo-European"
+	},
+	{
+		"id": "ease",
+		"word": "Ease",
+		"part_of_speech": "noun/verb",
+		"meaning": "安楽、和らげる",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "adjacens",
+					"type": "root",
+					"meaning": "lying nearby"
+				}
+			],
+			"original_statement": "From Old French aise 'comfort, opportunity', possibly from Latin adiacens 'lying nearby'."
+		},
+		"core_concept": {
+			"en": "Being nearby",
+			"ja": "手が届く場所にある、無理のない心の居所"
+		},
+		"thinking_layer": "安楽とは、何かが自分に「ちょうどよく隣り合っている」状態です。無理に手を伸ばす必要もなく、あるべき場所にある。その適合性（fitness）こそが、私たちを緊張から解き放ちます。",
+		"synonyms": [
+			"comfort",
+			"facility"
+		],
+		"antonyms": [
+			"difficulty",
+			"effort"
+		],
+		"aftertaste": "無理のない距離感の調和",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "aise",
+					"meaning": "elbow room"
+				}
+			],
+			"points": [
+				"『Disease（病気）』は、文字通り『安楽（ease）が失われた（dis-）』状態を指します。"
+			]
+		},
+		"source": "Barnhart Dictionary of Etymology",
+		"era": "12th Century Old French"
+	},
+	{
+		"id": "edge",
+		"word": "Edge",
+		"part_of_speech": "noun",
+		"meaning": "縁、刃、優位",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "ak-",
+					"type": "root",
+					"meaning": "sharp"
+				}
+			],
+			"original_statement": "From Old English ecg 'corner, edge, sharpness, blade', from PIE root *ak- 'sharp, pointed'."
+		},
+		"core_concept": {
+			"en": "A sharp point or line",
+			"ja": "存在が終わり、未知が始まる鋭利な境界線"
+		},
+		"thinking_layer": "縁（ふち）とは、刃（は）のことでもあります。物事の端に立つことは、常に鋭利な緊張感を伴います。しかし、その切り立った最先端にこそ、新しい世界を切り拓くための「優位（edge）」が宿っているのです。",
+		"synonyms": [
+			"border",
+			"brink",
+			"blade"
+		],
+		"antonyms": [
+			"center"
+		],
+		"aftertaste": "切り裂くような境界の緊張",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ak-",
+					"meaning": "sharp"
+				}
+			],
+			"points": [
+				"『Acid（酸）』や『Acupuncture（針治療）』も同じ「鋭さ」の根を持っています。"
+			]
+		},
+		"source": "Chambers Dictionary of Etymology",
+		"era": "Old English"
+	},
+	{
+		"id": "end",
+		"word": "End",
+		"part_of_speech": "noun/verb",
+		"meaning": "終わり、目的",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "ant-",
+					"type": "root",
+					"meaning": "front, forehead"
+				}
+			],
+			"original_statement": "From Old English ende 'conclusion, boundary, district', from PIE root *ant- 'front, forehead'."
+		},
+		"core_concept": {
+			"en": "The opposite side",
+			"ja": "辿り着いた果ての「正面」。それは終わりであり、新たな旅への入り口"
+		},
+		"thinking_layer": "「終わり」の語源は、意外にも「正面（front）」を意味していました。何かの限界点に達したとき、私たちはその物事の真実の顔と向き合います。終わりとは、完結であると同時に、真実との対面なのです。",
+		"synonyms": [
+			"conclusion",
+			"goal",
+			"limit"
+		],
+		"antonyms": [
+			"beginning",
+			"start"
+		],
+		"aftertaste": "境界の先で見つめ合う、真実の貌",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ant-",
+					"meaning": "before"
+				}
+			],
+			"points": [
+				"『Answer（答え＝返ってくる端）』も同じ根を持っています。"
+			]
+		},
+		"source": "Etymonline",
+		"era": "Proto-Indo-European"
+	},
+	{
+		"id": "enough",
+		"word": "Enough",
+		"part_of_speech": "adjective/adverb",
+		"meaning": "十分な",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "ge-",
+					"type": "prefix",
+					"meaning": "together"
+				},
+				{
+					"text": "noh",
+					"type": "root",
+					"meaning": "attaining, reaching"
+				}
+			],
+			"original_statement": "From Old English genoh 'sufficient', from Proto-Germanic *ganogaz, meaning 'attaining'."
+		},
+		"core_concept": {
+			"en": "Attaining a goal",
+			"ja": "伸ばした手が、ついに必要な場所に届いた充足感"
+		},
+		"thinking_layer": "「十分」とは、何かが目標に「到達した（attain）」状態を指します。欲張ることもなく、足りないこともない。自分の身の丈と世界の供給がちょうど重なる、静かな満足の地点です。",
+		"synonyms": [
+			"sufficient",
+			"adequate"
+		],
+		"antonyms": [
+			"insufficient",
+			"lacking"
+		],
+		"aftertaste": "手が届くべき場所に届いた、静かな安堵",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "nek-",
+					"meaning": "to reach"
+				}
+			],
+			"points": [
+				"ドイツ語の『genug』と同じ起源を持ち、古くからゲルマンの人々の満足感を表してきました。"
+			]
+		},
+		"source": "Etymonline",
+		"era": "Old English"
+	},
+	{
+		"id": "radiant",
+		"word": "Radiant",
+		"part_of_speech": "adjective",
+		"meaning": "光り輝く、晴れやかな",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "radius",
+					"type": "root",
+					"meaning": "staff, spoke, ray"
+				}
+			],
+			"original_statement": "From Latin radiantem, from radiare 'to beam, shine', from radius 'ray, spoke of a wheel'."
+		},
+		"core_concept": {
+			"en": "Spreading from a center",
+			"ja": "中心から放射状に広がる、生命の車輪のスポーク"
+		},
+		"thinking_layer": "「輝き」とは、中心から外へと伸びる力強い「線」です。車輪のスポーク（radius）が構造を支えるように、内なる喜びやエネルギーが一本一本の光の矢となって世界を貫き、温める。それが本来の『Radiant』です。",
+		"synonyms": [
+			"luminous",
+			"beaming"
+		],
+		"antonyms": [
+			"dull",
+			"dark"
+		],
+		"aftertaste": "中心から放たれる、迷いのない直進光",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "radius",
+					"meaning": "ray"
+				}
+			],
+			"points": [
+				"『Radio（ラジオ）』も、音を電波として「放射」することから同じ語根を持ちます。"
+			]
+		},
+		"source": "Oxford English Dictionary",
+		"era": "15th Century Latin"
+	},
+	{
+		"id": "rage",
+		"word": "Rage",
+		"part_of_speech": "noun/verb",
+		"meaning": "激怒、猛威",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "rabies",
+					"type": "root",
+					"meaning": "madness, fury"
+				}
+			],
+			"original_statement": "From Old French rage, from Latin rabies 'madness, rage, fury', related to rabere 'be mad, rave'."
+		},
+		"core_concept": {
+			"en": "To be mad or rave",
+			"ja": "理性の枷が壊れ、獣のような原初の咆哮が漏れ出す"
+		},
+		"thinking_layer": "怒り（anger）よりも激しいこの感情は、かつて「狂気（madness）」と地続きでした。それはコントロールを失った魂の暴走であり、内なる境界線が焼き切れた後に残る、破壊的な熱量そのものです。",
+		"synonyms": [
+			"fury",
+			"wrath"
+		],
+		"antonyms": [
+			"calm",
+			"serenity"
+		],
+		"aftertaste": "理性が焼き切れた後の、制御不能な炎",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "rebh-",
+					"meaning": "violent, impetuous"
+				}
+			],
+			"points": [
+				"恐ろしい病の『Rabies（狂犬病）』と語源を共にしています。"
+			]
+		},
+		"source": "Chambers Dictionary of Etymology",
+		"era": "13th Century Old French"
+	},
+	{
+		"id": "rare",
+		"word": "Rare",
+		"part_of_speech": "adjective",
+		"meaning": "稀な、珍しい",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "rarus",
+					"type": "root",
+					"meaning": "thinly sown, with gaps"
+				}
+			],
+			"original_statement": "From Latin rarus 'loosely woven, thin, uncommon', opposite of densus."
+		},
+		"core_concept": {
+			"en": "Thinly spread",
+			"ja": "密度が低く、隙間があるからこそ見つかる「余白の価値」"
+		},
+		"thinking_layer": "「珍しい」の原義は「密度が薄い（thin）」ことでした。ぎっしりと詰まった日常の風景の中に、ふと現れる「隙間」。その密度の低さが、希少性という名の輝きを放ちます。豊かさとは、時に疎らであることに宿ります。",
+		"synonyms": [
+			"scarce",
+			"unusual"
+		],
+		"antonyms": [
+			"common",
+			"dense"
+		],
+		"aftertaste": "混濁した世界に現れる、澄んだ一滴の空白",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ere-",
+					"meaning": "to separate"
+				}
+			],
+			"points": [
+				"料理のステーキの焼き加減（レア）も、肉の繊維がまだ密に固まっていない「疎らな」状態を指します。"
+			]
+		},
+		"source": "Merriam-Webster",
+		"era": "15th Century Latin"
+	},
+	{
+		"id": "raw",
+		"word": "Raw",
+		"part_of_speech": "adjective",
+		"meaning": "生の、未加工の、痛々しい",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "reue-",
+					"type": "root",
+					"meaning": "to tear, smash"
+				}
+			],
+			"original_statement": "From Old English hreaw 'uncooked', from PIE *ere- 'to separate, tear'."
+		},
+		"core_concept": {
+			"en": "Unfinished or torn",
+			"ja": "火による浄化を経ていない、剥き出しの命の荒々しさ"
+		},
+		"thinking_layer": "「生」とは、加工や洗練（cooking）という文明のヴェールを剥ぎ取った状態です。それは美しくもあり、同時に「痛々しさ（soreness）」も伴います。保護膜のない、世界と直接触れ合う部分のヒリヒリとした感覚がその本質です。",
+		"synonyms": [
+			"crude",
+			"natural"
+		],
+		"antonyms": [
+			"cooked",
+			"refined"
+		],
+		"aftertaste": "皮を剥がされた、剥き出しの真実の痛痒",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kreue-",
+					"meaning": "raw flesh"
+				}
+			],
+			"points": [
+				"『Cruel（残酷な）』も、血の滴る「生肉」のような剥き出しの状態を指す語根から来ています。"
+			]
+		},
+		"source": "Etymonline",
+		"era": "Old English"
+	},
+	{
+		"id": "record",
+		"word": "Record",
+		"part_of_speech": "verb/noun",
+		"meaning": "記録する、思い出す",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "re-",
+					"type": "prefix",
+					"meaning": "again"
+				},
+				{
+					"text": "cor",
+					"type": "root",
+					"meaning": "heart"
+				}
+			],
+			"original_statement": "From Old French recorder 'bring to mind', from Latin recordari 'remember', from re- 'again' + cor 'heart'."
+		},
+		"core_concept": {
+			"en": "To bring back to the heart",
+			"ja": "消えゆく出来事を、再び「心」というゆりかごへ連れ戻す"
+		},
+		"thinking_layer": "記録とは、外部のディスクに保存することではありませんでした。それは「再び心に戻す（re-cord）」こと。かつて記憶は頭ではなく心臓に宿ると信じられていた時代の、切実で温かな呼び戻しの行為です。",
+		"synonyms": [
+			"register",
+			"document"
+		],
+		"antonyms": [
+			"forget",
+			"erase"
+		],
+		"aftertaste": "心臓の鼓動とともに刻まれる、生きた記憶",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kerd-",
+					"meaning": "heart"
+				}
+			],
+			"points": [
+				"『Cordial（心のこもった）』や『Courage（勇気）』も同じく『心（cor）』を源泉としています。"
+			]
+		},
+		"source": "Barnhart Dictionary of Etymology",
+		"era": "13th Century Old French"
+	},
+	{
+		"id": "refuge",
+		"word": "Refuge",
+		"part_of_speech": "noun",
+		"meaning": "避難、隠れ家",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "re-",
+					"type": "prefix",
+					"meaning": "back"
+				},
+				{
+					"text": "fugere",
+					"type": "root",
+					"meaning": "to flee"
+				}
+			],
+			"original_statement": "From Old French refuge, from Latin refugium 'a place to flee back to', from re- 'back' + fugere 'to flee'."
+		},
+		"core_concept": {
+			"en": "A place to flee back to",
+			"ja": "追われる者が後ろを振り返らず、辿り着く「帰還の聖域」"
+		},
+		"thinking_layer": "逃げる（flee）ことは敗北ではありません。自分を守るために「後ろへと（re-）」走り、守られた空間へと戻ること。そこは嵐が過ぎ去るのを待つための、魂の休息所です。",
+		"synonyms": [
+			"shelter",
+			"sanctuary"
+		],
+		"antonyms": [
+			"exposure",
+			"danger"
+		],
+		"aftertaste": "追撃の手が届かない、境界線の内側の安堵",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "bheug-",
+					"meaning": "to flee"
+				}
+			],
+			"points": [
+				"『Fugitive（逃亡者）』はこの「fugere」から生まれた言葉です。"
+			]
+		},
+		"source": "Etymonline",
+		"era": "14th Century Old French"
+	},
+	{
+		"id": "relic",
+		"word": "Relic",
+		"part_of_speech": "noun",
+		"meaning": "遺物、聖遺物、名残",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "re-",
+					"type": "prefix",
+					"meaning": "back"
+				},
+				{
+					"text": "linquere",
+					"type": "root",
+					"meaning": "to leave"
+				}
+			],
+			"original_statement": "From Old French relique, from Latin reliquiae 'remains', from relinquere 'to leave behind'."
+		},
+		"core_concept": {
+			"en": "Something left behind",
+			"ja": "去っていった者たちが、未来のために「置いていった」微かな体温"
+		},
+		"thinking_layer": "遺物とは、単なる古いゴミではありません。それは「置いていかれた（leave behind）」断片です。本体が消え去った後も、その場所で耐え忍び、かつての存在を証明し続ける静かな目撃者なのです。",
+		"synonyms": [
+			"remnant",
+			"vestige"
+		],
+		"antonyms": [],
+		"aftertaste": "去った人の面影を繋ぎ止める、冷たいはずの破片",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "leikw-",
+					"meaning": "to leave"
+				}
+			],
+			"points": [
+				"『Relinquish（放棄する）』も同じ語源。自分から手放すか、運命によって残されるかの違いです。"
+			]
+		},
+		"source": "Oxford English Dictionary",
+		"era": "13th Century Old French"
+	},
+	{
+		"id": "remote",
+		"word": "Remote",
+		"part_of_speech": "adjective",
+		"meaning": "遠い、かけ離れた",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "re-",
+					"type": "prefix",
+					"meaning": "back"
+				},
+				{
+					"text": "movere",
+					"type": "root",
+					"meaning": "to move"
+				}
+			],
+			"original_statement": "From Latin remotus 'removed, distant', past participle of removere 'move back, take away'."
+		},
+		"core_concept": {
+			"en": "Moved back/away",
+			"ja": "「今、ここ」から遠くへと「動かされた」果ての孤絶"
+		},
+		"thinking_layer": "単に距離がある（far）だけでなく、意図的に、あるいは運命によって背後（re-）へと「退けられた（moved）」感覚が含まれます。手の届かない場所へと押しやられた、静寂と隔絶の風景。それが『Remote』です。",
+		"synonyms": [
+			"distant",
+			"isolated"
+		],
+		"antonyms": [
+			"close",
+			"adjacent"
+		],
+		"aftertaste": "干渉を拒む、凛とした距離の壁",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "meue-",
+					"meaning": "to move"
+				}
+			],
+			"points": [
+				"『Remove（取り除く）』と語源は全く同じですが、一方は動詞、一方はその結果としての状態を表します。"
+			]
+		},
+		"source": "Merriam-Webster",
+		"era": "15th Century Latin"
+	},
+	{
+		"id": "rest",
+		"word": "Rest",
+		"part_of_speech": "noun/verb",
+		"meaning": "休息、残り",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "re-",
+					"type": "prefix",
+					"meaning": "back"
+				},
+				{
+					"text": "stare",
+					"type": "root",
+					"meaning": "to stand"
+				}
+			],
+			"original_statement": "From Old English rest 'sleep, freedom from toil'. Note: 'The rest' (remainder) is from French reste, from Latin restare 'to stand back, remain'."
+		},
+		"core_concept": {
+			"en": "To stay back / To stand still",
+			"ja": "前進を止め、その場に留まることで自分を取り戻す"
+		},
+		"thinking_layer": "休息とは、活動から「後ろに下がって（back）」、その場に「立ち止まる（stand）」ことです。「残り（the rest）」も同じイメージで、他が去った後に「留まっているもの」を指します。動かないことの豊かさがここにあります。",
+		"synonyms": [
+			"repose",
+			"remainder"
+		],
+		"antonyms": [
+			"movement",
+			"action"
+		],
+		"aftertaste": "嵐のような活動の後に訪れる、不動の静寂",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sta-",
+					"meaning": "to stand"
+				}
+			],
+			"points": [
+				"ゲルマン語由来の「休み」と、ラテン語由来の「残り」が、英語の中で同じ形に合流した珍しい例です。"
+			]
+		},
+		"source": "Oxford English Dictionary",
+		"era": "Old English / Latin"
+	},
+	{
+		"id": "risk",
+		"word": "Risk",
+		"part_of_speech": "noun/verb",
+		"meaning": "危険、恐れ、賭ける",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "risicum",
+					"type": "root",
+					"meaning": "cliff, rock in the sea"
+				}
+			],
+			"original_statement": "From Italian risco 'danger', from Vulgar Latin risicum 'cliff', possibly from Greek rhiza 'root, cliff'."
+		},
+		"core_concept": {
+			"en": "A cliff or rock",
+			"ja": "波間に隠れた「暗礁」を回避し、未知の海へ漕ぎ出す勇気"
+		},
+		"thinking_layer": "リスクの語源は、海に突き出た「断崖（cliff）」や「岩礁」でした。航海者にとって、それは回避すべき恐怖であると同時に、新大陸へ向かうために必ず横を通り抜けなければならない試練の象徴だったのです。",
+		"synonyms": [
+			"hazard",
+			"danger",
+			"peril"
+		],
+		"antonyms": [
+			"safety",
+			"security"
+		],
+		"aftertaste": "穏やかな港を捨て、岩礁の先に広がる可能性を望む",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "rhiza",
+					"meaning": "cliff (lit. root)"
+				}
+			],
+			"points": [
+				"もともとは『Radical』と同じく「根」を意味する言葉が、海辺の絶壁を指すようになりました。"
+			]
+		},
+		"source": "Oxford English Dictionary",
+		"era": "17th Century Italian"
+	},
+	{
+		"id": "room",
+		"word": "Room",
+		"part_of_speech": "noun",
+		"meaning": "部屋、余地、空間",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "reue-",
+					"type": "root",
+					"meaning": "to open, space"
+				}
+			],
+			"original_statement": "From Old English rum 'space, extent, scope', from Proto-Germanic *rumaz 'spacious'."
+		},
+		"core_concept": {
+			"en": "Space to move",
+			"ja": "壁で囲うことではなく、何かが「動ける広さ」そのもの"
+		},
+		"thinking_layer": "「部屋」とは本来、仕切られたハコではなく「広がり（space）」のことでした。何かがそこに入り、動き、呼吸できる余地。空間があなたに与えるのは、束縛ではなく「可能性を広げるための隙間」なのです。",
+		"synonyms": [
+			"space",
+			"chamber",
+			"scope"
+		],
+		"antonyms": [],
+		"aftertaste": "押し込められる場所ではなく、羽を広げるための余白",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "reu-",
+					"meaning": "to open"
+				}
+			],
+			"points": [
+				"ドイツ語の『Raum（空間）』と同根。物理的な部屋以上の、精神的な余裕も意味します。"
+			]
+		},
+		"source": "Etymonline",
+		"era": "Old English"
+	},
+	{
+		"id": "tact",
+		"word": "Tact",
+		"part_of_speech": "noun",
+		"meaning": "機転、如才なさ",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "tangere",
+					"type": "root",
+					"meaning": "to touch"
+				}
+			],
+			"original_statement": "From French tact, from Latin tactus 'the sense of touch'."
+		},
+		"core_concept": {
+			"en": "Sense of touch",
+			"ja": "相手の心の輪郭を指先で探り、傷つけぬよう触れる繊細さ"
+		},
+		"thinking_layer": "機転とは、知的な計算ではなく「触覚（touch）」です。言葉を投げつけるのではなく、相手の感情という薄い膜にそっと指を触れ、その震えを感じ取りながら最適な力加減を見極める。それは最も優しい皮膚感覚の知性です。",
+		"synonyms": [
+			"diplomacy",
+			"discretion"
+		],
+		"antonyms": [
+			"clumsiness",
+			"insensitivity"
+		],
+		"aftertaste": "指先に宿る、目に見えない優しさの感触",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "tag-",
+					"meaning": "to touch"
+				}
+			],
+			"points": [
+				"『Contact（接触）』や『Tangible（触れられる）』と同じルーツです。"
+			]
+		},
+		"source": "Oxford English Dictionary",
+		"era": "18th Century French"
+	},
+	{
+		"id": "taint",
+		"word": "Taint",
+		"part_of_speech": "verb/noun",
+		"meaning": "汚染する、染まる、汚れ",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "tingere",
+					"type": "root",
+					"meaning": "to dye, stain"
+				}
+			],
+			"original_statement": "From Old French teindre 'to dye, stain', from Latin tingere 'to dye'."
+		},
+		"core_concept": {
+			"en": "To dye or color",
+			"ja": "一滴の染料が水を変えるように、純粋さを浸食する色"
+		},
+		"thinking_layer": "汚染とは、単なる汚れではなく「染まる（dye）」ことです。一度色が混ざれば、二度と元の透明には戻れない。それは、外部からの影響が本質の中にまで深く染み込んでしまった、不可逆な変化の悲しみを湛えています。",
+		"synonyms": [
+			"contaminate",
+			"stain"
+		],
+		"antonyms": [
+			"purify",
+			"cleanse"
+		],
+		"aftertaste": "二度とは戻れない、染まりゆく水の記憶",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "tengh-",
+					"meaning": "to moisten"
+				}
+			],
+			"points": [
+				"『Tint（色合い）』はこの言葉の親戚。美しく染まればTint、不名誉に染まればTaintと呼ばれます。"
+			]
+		},
+		"source": "Etymonline",
+		"era": "14th Century Old French"
+	},
+	{
+		"id": "talent",
+		"word": "Talent",
+		"part_of_speech": "noun",
+		"meaning": "才能、天賦の資質",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "talanton",
+					"type": "root",
+					"meaning": "balance, weight, sum of money"
+				}
+			],
+			"original_statement": "From Greek talanton 'balance, weight', later used for a large sum of money."
+		},
+		"core_concept": {
+			"en": "A weight of value",
+			"ja": "神から託された、命の重さに等しい「黄金の預かりもの」"
+		},
+		"thinking_layer": "才能は、もともと「貨幣（money）」や「重さ（weight）」の単位でした。聖書のたとえ話を通じて、神から預けられた価値ある資質という意味に転じました。それは所有物ではなく、人生を通じてどう使い切るかを試されている「天からの負債」でもあります。",
+		"synonyms": [
+			"gift",
+			"aptitude"
+		],
+		"antonyms": [
+			"inability"
+		],
+		"aftertaste": "掌（てのひら）にズシリと残る、神からの預かりものの重み",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "tel-",
+					"meaning": "to lift, weigh"
+				}
+			],
+			"points": [
+				"『Tolerate（耐える）』も同じく「重さに耐える」という根を持っています。"
+			]
+		},
+		"source": "Chambers Dictionary of Etymology",
+		"era": "Ancient Greek"
+	},
+	{
+		"id": "tame",
+		"word": "Tame",
+		"part_of_speech": "adjective/verb",
+		"meaning": "飼い慣らされた、手懐ける",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "dom-",
+					"type": "root",
+					"meaning": "house"
+				}
+			],
+			"original_statement": "From Old English tam 'domesticated', from PIE root *dem- 'house, household'."
+		},
+		"core_concept": {
+			"en": "Accustomed to the house",
+			"ja": "荒々しい野性を捨て、「家」という秩序の温もりに従うこと"
+		},
+		"thinking_layer": "手懐けるとは、相手を「家（dom）」の住人にすることです。外の恐怖から守る代わりに、自由な野性を差し出す契約。それは優しさであると同時に、生命から鋭い爪を奪う静かな支配でもあります。",
+		"synonyms": [
+			"domesticated",
+			"docile"
+		],
+		"antonyms": [
+			"wild",
+			"feral"
+		],
+		"aftertaste": "自由と引き換えに手に入れた、暖炉の前の安息",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "dem-",
+					"meaning": "build, house"
+				}
+			],
+			"points": [
+				"ラテン語の『Domestic』や『Domain』と同じ「家」を巡る言葉です。"
+			]
+		},
+		"source": "Barnhart Dictionary of Etymology",
+		"era": "Old English"
+	},
+	{
+		"id": "tedious",
+		"word": "Tedious",
+		"part_of_speech": "adjective",
+		"meaning": "退屈な、飽き飽きする",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "taedere",
+					"type": "root",
+					"meaning": "to weary, be irksome"
+				}
+			],
+			"original_statement": "From Old French tedieus, from Latin taedium 'weariness, disgust'."
+		},
+		"core_concept": {
+			"en": "Wearisome",
+			"ja": "同じ場所を堂々巡りし、魂が摩耗して薄くなっていく倦怠"
+		},
+		"thinking_layer": "退屈とは、単に暇なことではなく、心が「嫌悪（disgust）」を伴うほどに摩耗した状態です。変化のない時間の重みが、薄紙を重ねるようにじわじわと積み上がり、人を無気力という底なし沼へと沈めていきます。",
+		"synonyms": [
+			"monotonous",
+			"boring"
+		],
+		"antonyms": [
+			"exciting",
+			"interesting"
+		],
+		"aftertaste": "無限に続く平坦な道に、心が削られていく音",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "taed-",
+					"meaning": "to be weary"
+				}
+			],
+			"points": [
+				"ラテン語の『Taedium vitae』は「生に対する嫌悪」を意味する重い言葉です。"
+			]
+		},
+		"source": "Oxford Dictionary of English Etymology",
+		"era": "15th Century Old French"
+	},
+	{
+		"id": "ugly",
+		"word": "Ugly",
+		"part_of_speech": "adjective",
+		"meaning": "醜い、不快な",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "ugglig",
+					"type": "root",
+					"meaning": "fearful, dreadful"
+				}
+			],
+			"original_statement": "From Old Norse uggligr 'fearful, dreadful', from uggr 'fear'."
+		},
+		"core_concept": {
+			"en": "Fear-inspiring",
+			"ja": "本能的な「恐怖」を呼び起こし、身震いさせるような異質さ"
+		},
+		"thinking_layer": "「醜さ」の正体は、かつては「恐怖」でした。単に見た目が悪いのではなく、見た瞬間に心がざわつき、危険を感じて身構えてしまうような感覚。私たちが何かを醜いと感じる時、それは生存本能が「これには近づくな」と警笛を鳴らしているのかもしれません。",
+		"synonyms": [
+			"hideous",
+			"frightful"
+		],
+		"antonyms": [
+			"beautiful",
+			"attractive"
+		],
+		"aftertaste": "身の危険を知らせる、震えるような拒絶感",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "uggr",
+					"meaning": "apprehension, fear"
+				}
+			],
+			"points": [
+				"『Awe（畏敬）』という言葉も、この恐怖の根源を一部共有しています。"
+			]
+		},
+		"source": "Oxford English Dictionary",
+		"era": "13th Century Old Norse"
+	},
+	{
+		"id": "umbrage",
+		"word": "Umbrage",
+		"part_of_speech": "noun",
+		"meaning": "憤慨、不快感（take umbrage at...）",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "umbra",
+					"type": "root",
+					"meaning": "shadow, shade"
+				}
+			],
+			"original_statement": "From Old French ombrage 'shade, shadow', from Latin umbra 'shade, shadow'."
+		},
+		"core_concept": {
+			"en": "To be in the shadow",
+			"ja": "他人の影に覆われ、自らの光を遮られたことによる不快"
+		},
+		"thinking_layer": "「腹を立てる（take umbrage）」とは、文字通り「影に入る」ことです。他人の振る舞いによって、自分のプライドや存在が暗い影に投げ込まれてしまったような感覚。日が当たらなくなったことへの不満が、静かな怒りへと変わります。",
+		"synonyms": [
+			"offense",
+			"resentment"
+		],
+		"antonyms": [
+			"pleasure",
+			"satisfaction"
+		],
+		"aftertaste": "光を奪われた場所で燻（くすぶ）る、冷たい怒り",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "umbra",
+					"meaning": "shadow"
+				}
+			],
+			"points": [
+				"『Umbrella（傘）』は、雨を凌ぐためではなく、もともとは「日陰（umbra）を作るための小さな（-ella）もの」でした。"
+			]
+		},
+		"source": "Chambers Dictionary of Etymology",
+		"era": "15th Century Old French"
+	},
+	{
+		"id": "unruly",
+		"word": "Unruly",
+		"part_of_speech": "adjective",
+		"meaning": "手に負えない、従順でない",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "un-",
+					"type": "prefix",
+					"meaning": "not"
+				},
+				{
+					"text": "reuly",
+					"type": "root",
+					"meaning": "amenable to rule"
+				}
+			],
+			"original_statement": "From un- 'not' + Middle English reuly 'disciplined, orderly', from reule 'rule'."
+		},
+		"core_concept": {
+			"en": "Beyond rule",
+			"ja": "定規（rule）では測りきれない、枠からはみ出した野生"
+		},
+		"thinking_layer": "「手に負えない」の本質は、そこに「定規（rule）」が当てられないことにあります。直線で引かれた秩序に従わず、うねり、逸脱するエネルギー。それは統治者にとっては厄介なものですが、生命が持つ予測不可能な躍動そのものでもあります。",
+		"synonyms": [
+			"disorderly",
+			"wild",
+			"ungovernable"
+		],
+		"antonyms": [
+			"obedient",
+			"orderly"
+		],
+		"aftertaste": "真っ直ぐな線の上を歩くことを拒む、曲線的な意志",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "reg-",
+					"meaning": "to move in a straight line"
+				}
+			],
+			"points": [
+				"『Rule』『Regular』『Region』と同じ「真っ直ぐ導く」という根を、否定の『un-』が打ち消しています。"
+			]
+		},
+		"source": "Merriam-Webster",
+		"era": "14th Century Middle English"
+	},
+	{
+		"id": "urgent",
+		"word": "Urgent",
+		"part_of_speech": "adjective",
+		"meaning": "緊急の、切迫した",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "urgere",
+					"type": "root",
+					"meaning": "to press, drive"
+				}
+			],
+			"original_statement": "From Latin urgentem, from urgere 'to press hard, push forward'."
+		},
+		"core_concept": {
+			"en": "Pressing hard",
+			"ja": "見えない力が背中を強く「押し」、立ち止まることを許さない"
+		},
+		"thinking_layer": "緊急性とは、重圧（press）そのものです。時間が、あるいは状況が、あなたの背後から力強く押し寄せてくる。その圧力によって、私たちは日常の歩みを早め、あるいは跳ねるようにして行動せざるを得なくなります。",
+		"synonyms": [
+			"pressing",
+			"critical",
+			"immediate"
+		],
+		"antonyms": [
+			"trivial",
+			"unimportant"
+		],
+		"aftertaste": "背中に感じる、冷たくて鋭い時の重圧",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "wre-",
+					"meaning": "to push, drive"
+				}
+			],
+			"points": [
+				"『Urge（駆り立てる）』と同じ。何かがあなたを激しく前方へと押し進めている状態です。"
+			]
+		},
+		"source": "Chambers Dictionary of Etymology",
+		"era": "15th Century French (from Latin)"
+	},
+	{
+		"id": "idea",
+		"word": "Idea",
+		"part_of_speech": "noun",
+		"meaning": "考え、理念、形",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "idein",
+					"type": "root",
+					"meaning": "to see"
+				}
+			],
+			"original_statement": "From Greek idea 'form, pattern', from idein 'to see'."
+		},
+		"core_concept": {
+			"en": "Something seen",
+			"ja": "肉眼ではなく、心の眼が捉えた「本質的な形」"
+		},
+		"thinking_layer": "「考え」とは、もともとは「見えるもの」でした。プラトンが説いたように、現実の不完全な物事の背後にある、完璧な設計図を心の眼で見ること。私たちが「いいアイデアだ！」と言うとき、それは霧が晴れて真実の輪郭が見えた瞬間なのです。",
+		"synonyms": [
+			"notion",
+			"concept"
+		],
+		"antonyms": [],
+		"aftertaste": "心のスクリーンに映し出された、完璧な雛形",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "weid-",
+					"meaning": "to see"
+				}
+			],
+			"points": [
+				"『Vision（視覚）』や『Video』と同じ、非常に古い「見る」という語根に由来します。"
+			]
+		},
+		"source": "Etymonline",
+		"era": "Ancient Greek"
+	},
+	{
+		"id": "ignore",
+		"word": "Ignore",
+		"part_of_speech": "verb",
+		"meaning": "無視する、知らないふりをする",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "in-",
+					"type": "prefix",
+					"meaning": "not"
+				},
+				{
+					"text": "gnoscere",
+					"type": "root",
+					"meaning": "to know"
+				}
+			],
+			"original_statement": "From French ignorer, from Latin ignorare 'not to know, take no notice of'."
+		},
+		"core_concept": {
+			"en": "To not know",
+			"ja": "知ることを拒絶し、意識の光が届かない場所へ追いやる"
+		},
+		"thinking_layer": "「無視」とは、積極的な「不知（not knowing）」です。そこにあることは分かっていても、あえて「知らない状態」を維持すること。私たちの脳が、あふれる情報から自分を守るために作り出す、意図的な空白地帯です。",
+		"synonyms": [
+			"disregard",
+			"neglect"
+		],
+		"antonyms": [
+			"notice",
+			"acknowledge"
+		],
+		"aftertaste": "存在を認めないことで引かれる、透明な境界線",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "gno-",
+					"meaning": "to know"
+				}
+			],
+			"points": [
+				"『Know』『Knowledge』『Diagnosis（診断）』など、「知る」ことに関する全単語の影のような存在です。"
+			]
+		},
+		"source": "Chambers Dictionary of Etymology",
+		"era": "15th Century Latin"
+	},
+	{
+		"id": "innocent",
+		"word": "Innocent",
+		"part_of_speech": "adjective",
+		"meaning": "無実の、純真な",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "in-",
+					"type": "prefix",
+					"meaning": "not"
+				},
+				{
+					"text": "nocere",
+					"type": "root",
+					"meaning": "to harm"
+				}
+			],
+			"original_statement": "From Old French innocent, from Latin innocentem 'not hurting, harmless'."
+		},
+		"core_concept": {
+			"en": "Not harmful",
+			"ja": "毒を持たず、誰も、そして自分さえも傷つけない状態"
+		},
+		"thinking_layer": "「無垢」とは、単に汚れがないことではなく「害を与えない（not hurting）」ことです。世界に対しても自分に対しても、攻撃的な牙を持たない。その無防備さが、翻（ひるがえ）って私たちには「清らかさ」として映るのです。",
+		"synonyms": [
+			"pure",
+			"guiltless",
+			"harmless"
+		],
+		"antonyms": [
+			"guilty",
+			"malicious"
+		],
+		"aftertaste": "武器を持たない魂が放つ、静かな透明感",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "nek-",
+					"meaning": "death, harm"
+				}
+			],
+			"points": [
+				"『Noxious（有害な）』や『Obnoxious（不快な）』と対極の存在です。"
+			]
+		},
+		"source": "Oxford Dictionary of English Etymology",
+		"era": "14th Century Old French"
+	},
+	{
+		"id": "insight",
+		"word": "Insight",
+		"part_of_speech": "noun",
+		"meaning": "洞察、見通す力",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "in-",
+					"type": "prefix",
+					"meaning": "into"
+				},
+				{
+					"text": "sight",
+					"type": "root",
+					"meaning": "seeing"
+				}
+			],
+			"original_statement": "From Middle English insight, literally 'sight into (the internal parts)'."
+		},
+		"core_concept": {
+			"en": "Seeing within",
+			"ja": "表面を突き抜け、物事の「内側」にある暗がりを照らし出す視線"
+		},
+		"thinking_layer": "洞察は、レントゲン写真のようなものです。外見（outside）に惑わされず、その奥深く（inside）に隠された構造や真実を直接「見る」こと。それは、情報の海を泳ぐのではなく、底に潜って真珠を見つけ出す力です。",
+		"synonyms": [
+			"intuition",
+			"perception",
+			"acumen"
+		],
+		"antonyms": [
+			"ignorance",
+			"superficiality"
+		],
+		"aftertaste": "闇に包まれていた内側が、一瞬で明瞭になる快感",
+		"deep_dive": {
+			"roots": [
+				{
+					"text": "in + sight",
+					"type": "compounding"
+				}
+			],
+			"points": [
+				"古英語時代にはあまり使われず、16世紀頃から「精神的な理解」として広まりました。"
+			]
+		},
+		"source": "Barnhart Dictionary of Etymology",
+		"era": "13th Century Middle English"
+	},
+	{
+		"id": "island",
+		"word": "Island",
+		"part_of_speech": "noun",
+		"meaning": "島、孤立したもの",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "ig-",
+					"type": "root",
+					"meaning": "water"
+				},
+				{
+					"text": "land",
+					"type": "root",
+					"meaning": "land"
+				}
+			],
+			"original_statement": "From Old English igland, from ieg 'water, island' + land 'land'."
+		},
+		"core_concept": {
+			"en": "Water-land",
+			"ja": "水に包まれ、大陸から切り離された「境界のある土地」"
+		},
+		"thinking_layer": "「島」という言葉は、もともと「水の土地」というシンプルな記述でした。しかし、綴りに 's' が混じり（Isleの影響）、どこか孤高で寂しげな響きを纏うようになりました。それは、母なる水に守られ、あるいは拒絶された、究極の個の象徴です。",
+		"synonyms": [
+			"isle",
+			"atoll"
+		],
+		"antonyms": [
+			"continent",
+			"mainland"
+		],
+		"aftertaste": "波音に囲まれた、完結した小さな宇宙",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "akwa-",
+					"meaning": "water"
+				}
+			],
+			"points": [
+				"もともとの Old English の綴りは 'igland' でしたが、ラテン語由来の 'insula' から来た 'isle' と混同されて今の綴りになりました。"
+			]
+		},
+		"source": "Oxford Dictionary of English Etymology",
+		"era": "Old English"
+	},
+	{
+		"id": "obscene",
+		"word": "Obscene",
+		"part_of_speech": "adjective",
+		"meaning": "卑猥な、忌まわしい",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "ob-",
+					"type": "prefix",
+					"meaning": "away, off"
+				},
+				{
+					"text": "caena",
+					"type": "root",
+					"meaning": "stage"
+				}
+			],
+			"original_statement": "From Latin obscenus 'ill-boding, repulsive', traditionally derived from ob- 'away' + scaena 'stage'."
+		},
+		"core_concept": {
+			"en": "Off-stage",
+			"ja": "あまりに過激で、劇場の「舞台上」では見せられない残酷な真実"
+		},
+		"thinking_layer": "「わいせつ」や「卑猥」の語源的な正体は、舞台の裏側です。人々の目に触れるべき調和を乱すもの、あるいは直視に耐えない惨劇。公の場（stage）から隠されるべき影の部分が、この言葉の本質的な温度です。",
+		"synonyms": [
+			"indecent",
+			"lewd"
+		],
+		"antonyms": [
+			"decent",
+			"pure"
+		],
+		"aftertaste": "劇場の幕の向こうに隠された、剥き出しの不快感",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "skai-",
+					"meaning": "shadow"
+				}
+			],
+			"points": [
+				"本来は不吉な予兆を指す占いの用語でもありました。"
+			]
+		},
+		"source": "Barnhart Dictionary of Etymology",
+		"era": "16th Century Latin"
+	},
+	{
+		"id": "pity",
+		"word": "Pity",
+		"part_of_speech": "noun/verb",
+		"meaning": "哀れみ、残念なこと",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "pietas",
+					"type": "root",
+					"meaning": "piety, duty, affection"
+				}
+			],
+			"original_statement": "From Old French pite, from Latin pietatem 'piety, affection, duty'."
+		},
+		"core_concept": {
+			"en": "Duty of affection",
+			"ja": "他者の痛みを自らの義務として感じ取る、信仰に近い慈しみ"
+		},
+		"thinking_layer": "「哀れみ」は、かつては「信仰心（Piety）」と区別がつかないものでした。他人の不幸を上から目線で眺めるのではなく、神への義務、あるいは人間としての当然の情愛（affection）として、その痛みに寄り添うこと。高潔さと共感が混ざり合った感情です。",
+		"synonyms": [
+			"compassion",
+			"mercy",
+			"sympathy"
+		],
+		"antonyms": [
+			"cruelty",
+			"indifference"
+		],
+		"aftertaste": "誰かの涙を、自らの祈りへと変える静かな共振",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "pius",
+					"meaning": "dutiful"
+				}
+			],
+			"points": [
+				"『Piety（信心）』とは語源が同じ。敬虔な心は、他者への憐れみとして現れます。"
+			]
+		},
+		"source": "Etymonline",
+		"era": "13th Century Old French"
+	},
+	{
+		"id": "place",
+		"word": "Place",
+		"part_of_speech": "noun/verb",
+		"meaning": "場所、置く",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "plateia",
+					"type": "root",
+					"meaning": "broad way, open space"
+				}
+			],
+			"original_statement": "From Old French place, from Latin platea 'courtyard, broad street', from Greek plateia 'broad way'."
+		},
+		"core_concept": {
+			"en": "A broad street",
+			"ja": "人々が集まり、視界が開けた「広場」のような平らな空間"
+		},
+		"thinking_layer": "場所とは、もともとは「広さ」のことでした。点としての地点ではなく、平らで広い通り（broad way）。そこに何かが置かれ、あるいは人々が出会うための「余白」を指していました。平坦であるからこそ、何者もがそこに存在しうるのです。",
+		"synonyms": [
+			"location",
+			"spot",
+			"space"
+		],
+		"antonyms": [],
+		"aftertaste": "誰もが立ち止まることができる、開かれた平原の記憶",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "plat-",
+					"meaning": "flat"
+				}
+			],
+			"points": [
+				"『Plate（皿）』や『Platform（演壇）』も、この「平らさ」が共通項です。"
+			]
+		},
+		"source": "Barnhart Dictionary of Etymology",
+		"era": "13th Century Old French"
+	},
+	{
+		"id": "absurd",
+		"word": "Absurd",
+		"part_of_speech": "adjective",
+		"meaning": "不条理な、ばかげた",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "ab-",
+					"type": "prefix",
+					"meaning": "away, from (intensive)"
+				},
+				{
+					"text": "surdus",
+					"type": "root",
+					"meaning": "deaf, dull, silent"
+				}
+			],
+			"original_statement": "From Latin absurdus 'out of tune, senseless', from ab- 'away' + surdus 'deaf, silent'."
+		},
+		"core_concept": {
+			"en": "Deaf to reason",
+			"ja": "調和から外れ、理性の声が届かない「耳の聞こえない」静寂"
+		},
+		"thinking_layer": "不条理とは、世界が奏でる音楽に対して「音痴（out of tune）」であることです。理屈（ロゴス）という調べが聞こえない、あるいは拒絶している状態。対話が成立せず、ただ沈黙や不協和音が横たわる。その「噛み合わなさ」こそがAbsurdの本質です。",
+		"synonyms": [
+			"irrational",
+			"preposterous",
+			"ridiculous"
+		],
+		"antonyms": [
+			"logical",
+			"rational",
+			"sensible"
+		],
+		"aftertaste": "問いかけても返らない、冷たくて滑稽な沈黙",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "swer-",
+					"meaning": "to buzz, whisper"
+				}
+			],
+			"points": [
+				"『Surd（無理数）』も数学的な不条理（割り切れない耳の聞こえなさ）から来ています。"
+			]
+		},
+		"source": "Etymonline",
+		"era": "16th Century Latin"
+	},
+	{
+		"id": "adamant",
+		"word": "Adamant",
+		"part_of_speech": "adjective",
+		"meaning": "断固とした、譲らない",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "a-",
+					"type": "prefix",
+					"meaning": "not"
+				},
+				{
+					"text": "daman",
+					"type": "root",
+					"meaning": "to conquer, tame"
+				}
+			],
+			"original_statement": "From Greek adamantem 'untameable', from a- 'not' + daman 'to conquer, tame'."
+		},
+		"core_concept": {
+			"en": "Untameable",
+			"ja": "誰にも屈せず、何ものにも傷つけられない「征服不能」な硬度"
+		},
+		"thinking_layer": "かつてこの言葉は「世界で最も硬い石（ダイヤモンド）」を指していました。他者の説得や時代の波に「飼い慣らされない（untameable）」こと。その頑固さは、不純物のない純粋な意志の硬度そのものなのです。",
+		"synonyms": [
+			"unyielding",
+			"resolute",
+			"firm"
+		],
+		"antonyms": [
+			"flexible",
+			"yielding",
+			"compliant"
+		],
+		"aftertaste": "刃を跳ね返す、磨き上げられた意志の結晶",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "dem-",
+					"meaning": "to tame"
+				}
+			],
+			"points": [
+				"『Diamond』はこの言葉が訛って生まれた、いわば兄弟のような存在です。"
+			]
+		},
+		"source": "Merriam-Webster",
+		"era": "Ancient Greek"
+	},
+	{
+		"id": "affliction",
+		"word": "Affliction",
+		"part_of_speech": "noun",
+		"meaning": "苦しみ、苦悩、災難",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "ad-",
+					"type": "prefix",
+					"meaning": "to"
+				},
+				{
+					"text": "fligere",
+					"type": "root",
+					"meaning": "to strike, dash"
+				}
+			],
+			"original_statement": "From Latin afflictionem 'misery, distress', from affligere 'to dash down, strike down'."
+		},
+		"core_concept": {
+			"en": "A striking down",
+			"ja": "容赦なく「叩きつけられ」、打ちのめされた時に生じる深い痛み"
+		},
+		"thinking_layer": "苦悩とは、精神的な「打撃」です。運命という大きな拳が、あなたを地面へと「叩きつける（strike down）」。その衝撃で魂がひび割れ、漏れ出した呻きがAfflictionです。それは単なる不快感ではなく、物理的な重みを持った災厄です。",
+		"synonyms": [
+			"suffering",
+			"misery",
+			"distress"
+		],
+		"antonyms": [
+			"blessing",
+			"comfort",
+			"joy"
+		],
+		"aftertaste": "打ち砕かれた破片が、心臓を鋭く突き刺す音",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "bhlig-",
+					"meaning": "to strike"
+				}
+			],
+			"points": [
+				"『Conflict（衝突＝共に叩き合う）』も同じ「打撃」を起源に持っています。"
+			]
+		},
+		"source": "Chambers Dictionary of Etymology",
+		"era": "14th Century Latin"
+	},
+	{
+		"id": "science",
+		"word": "Science",
+		"part_of_speech": "noun",
+		"meaning": "科学、知識",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "scire",
+					"type": "root",
+					"meaning": "to know"
+				},
+				{
+					"text": "skei-",
+					"type": "root",
+					"meaning": "to cut, split"
+				}
+			],
+			"original_statement": "From Old French science, from Latin scientia 'knowledge, expertness', from scire 'to know', probably originally 'to separate one thing from another, to distinguish'."
+		},
+		"core_concept": {
+			"en": "To split or distinguish",
+			"ja": "混沌とした現象を「切り分け」、個別の真実を峻別する知性"
+		},
+		"thinking_layer": "「知る」とは、ナイフで「切り分ける（cut）」ことでした。曖昧な全体をバラバラに解体し、それぞれの境界線を明確に引くこと。分析（Analysis）の究極は、世界を細部まで断裁し、その断面から法則を読み解く、鋭利な刃物のような視座にあります。",
+		"synonyms": [
+			"knowledge",
+			"discipline",
+			"erudition"
+		],
+		"antonyms": [
+			"ignorance",
+			"nescience"
+		],
+		"aftertaste": "知性の刃で切り裂かれた、冷たく明晰な世界の断面",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "skei-",
+					"meaning": "to split"
+				}
+			],
+			"points": [
+				"『Scissors（ハサミ）』や『Schism（分裂）』と同じ根を持つ、分断の知性です。"
+			]
+		},
+		"source": "Oxford Dictionary of English Etymology",
+		"era": "14th Century Old French"
+	},
+	{
+		"id": "struggle",
+		"word": "Struggle",
+		"part_of_speech": "verb/noun",
+		"meaning": "苦闘する、もがく、争い",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "strug-",
+					"type": "root",
+					"meaning": "disturb, ruin"
+				}
+			],
+			"original_statement": "Of uncertain origin, probably from Old Norse or Middle Dutch. Possibly related to 'strug' (to disturb)."
+		},
+		"core_concept": {
+			"en": "To move with difficulty",
+			"ja": "何かに足を取られ、あるいは遮られながらも、泥を蹴って前へ進む"
+		},
+		"thinking_layer": "「もがく」という感覚は、洗練された戦いではなく、もっと泥臭い「抵抗」です。出口のない暗闇や、自分を押し潰そうとする圧力に対し、不器用に、しかし執拗に四肢を動かし続けること。その摩擦の重みこそが、生命が生きようとする証左となります。",
+		"synonyms": [
+			"strive",
+			"labor",
+			"endeavor"
+		],
+		"antonyms": [
+			"yield",
+			"surrender",
+			"ease"
+		],
+		"aftertaste": "皮膚が擦り切れるような抵抗の末に、僅かに開く地平",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "streig-",
+					"meaning": "stiff, tight"
+				}
+			],
+			"points": [
+				"『Strict（厳しい）』や『Strain（引き締める）』と音が似ているのは、そこに「緊張」が共通しているからかもしれません。"
+			]
+		},
+		"source": "Oxford Dictionary of English Etymology",
+		"era": "14th Century Middle English"
+	},
+	{
+		"id": "defeat",
+		"word": "Defeat",
+		"part_of_speech": "verb/noun",
+		"meaning": "打ち負かす、敗北",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "de-",
+					"type": "prefix",
+					"meaning": "un-"
+				},
+				{
+					"text": "facere",
+					"type": "root",
+					"meaning": "to do, make"
+				}
+			],
+			"original_statement": "From Old French desfaire 'to undo', from de- 'un-' + facere 'to do'."
+		},
+		"core_concept": {
+			"en": "To undo",
+			"ja": "積み上げてきたものを「白紙」に戻し、存在の根拠を解体する"
+		},
+		"thinking_layer": "敗北とは、成し遂げたこと（fact）を「取り消す（undo）」ことです。勝利が「形作ること」なら、敗北は「形を壊すこと」。ただ負けるのではなく、それまでの努力や構造がバラバラに解体され、無に帰してしまうこと。その「解体」の虚しさが、敗北の重みとなります。",
+		"synonyms": [
+			"conquer",
+			"overcome",
+			"undoing"
+		],
+		"antonyms": [
+			"victory",
+			"triumph",
+			"success"
+		],
+		"aftertaste": "組み上げた砂の城が、波にさらわれて平らになる虚無",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "dhe-",
+					"meaning": "to set, put"
+				}
+			],
+			"points": [
+				"『Defect（欠陥）』も「十分に作られていない（undo）」という共通の核を持っています。"
+			]
+		},
+		"source": "Chambers Dictionary of Etymology",
+		"era": "14th Century Old French"
+	},
+	{
+		"id": "define",
+		"word": "Define",
+		"part_of_speech": "verb",
+		"meaning": "定義する、限定する",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "de-",
+					"type": "prefix",
+					"meaning": "completely"
+				},
+				{
+					"text": "finis",
+					"type": "root",
+					"meaning": "end, boundary, limit"
+				}
+			],
+			"original_statement": "From Old French definer, from Latin definire 'to limit, explain', from de- 'completely' + finire 'to bound, limit', from finis 'end'."
+		},
+		"core_concept": {
+			"en": "To set a boundary",
+			"ja": "無限に広がる意味の海に、明確な「境界線」を引き、囲い込む"
+		},
+		"thinking_layer": "定義するとは、物事の「終わり（finis）」を決めることです。「ここからここまではこれだ」という限界線を引くこと。限界が決まって初めて、そのものの正体が輪郭となって浮かび上がります。私たちは境界線を引くことで、混沌に形を与えます。",
+		"synonyms": [
+			"specify",
+			"delineate",
+			"limit"
+		],
+		"antonyms": [
+			"confuse",
+			"distort"
+		],
+		"aftertaste": "曖昧な霧の中に、突如として現れる鋭い輪郭",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "dhgwhi-",
+					"meaning": "to perish, finish"
+				}
+			],
+			"points": [
+				"『Finish』『Final』『Infinite（無限＝終わりのない）』の仲間です。"
+			]
+		},
+		"source": "Barnhart Dictionary of Etymology",
+		"era": "14th Century Old French"
+	},
+	{
+		"id": "delicate",
+		"word": "Delicate",
+		"part_of_speech": "adjective",
+		"meaning": "繊細な、壊れやすい、優美な",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "de-",
+					"type": "prefix",
+					"meaning": "away"
+				},
+				{
+					"text": "lacere",
+					"type": "root",
+					"meaning": "to lure, entice"
+				}
+			],
+			"original_statement": "From Latin delicatus 'alluring, delightful, dainty', related to delicere 'to entice away'."
+		},
+		"core_concept": {
+			"en": "Enticingly soft",
+			"ja": "感覚をそっと「誘惑」し、奪い去ってしまうほどの、抗いがたい柔らかさ"
+		},
+		"thinking_layer": "「繊細」の本質は、弱さではなく「誘惑（lure）」にあります。あまりの心地よさ、美しさ、あるいは脆さに、思わず手が伸びてしまう。感覚を日常から連れ去って（de-licere）しまうような魅惑。その触れれば壊れるような危うさが、私たちの美意識を激しく揺さぶります。",
+		"synonyms": [
+			"fragile",
+			"exquisite",
+			"subtle"
+		],
+		"antonyms": [
+			"robust",
+			"coarse",
+			"strong"
+		],
+		"aftertaste": "指先で触れた瞬間、消えてしまいそうな光の粒子",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "lak-",
+					"meaning": "to snare"
+				}
+			],
+			"points": [
+				"『Delicious（美味しい）』も同じく、味覚を「誘惑して奪い去る」仲間の言葉です。"
+			]
+		},
+		"source": "Oxford Dictionary of English Etymology",
+		"era": "14th Century Latin"
+	},
+	{
+		"id": "delusion",
+		"word": "Delusion",
+		"part_of_speech": "noun",
+		"meaning": "妄想、欺瞞",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "de-",
+					"type": "prefix",
+					"meaning": "away, mocking"
+				},
+				{
+					"text": "ludere",
+					"type": "root",
+					"meaning": "to play"
+				}
+			],
+			"original_statement": "From Latin delusionem, from deludere 'to mock, deceive', from de- 'at, down' + ludere 'to play'."
+		},
+		"core_concept": {
+			"en": "To play false",
+			"ja": "現実という盤面の上で「偽りの遊び」を演じ、真実を嘲笑う"
+		},
+		"thinking_layer": "妄想とは、深刻な病である前に、一つの「遊び（play）」の逸脱でした。ルールを無視して自分勝手なゲームを始めること。あるいは、現実にからかわれ、弄ばれている（mock）状態。真実から遠く離れた場所で、幻影と戯れる孤独な遊戯。それがDelusionです。",
+		"synonyms": [
+			"hallucination",
+			"illusion",
+			"fallacy"
+		],
+		"antonyms": [
+			"reality",
+			"truth",
+			"fact"
+		],
+		"aftertaste": "楽しげな音楽が鳴り止んだ後の、空っぽな舞台の静寂",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "leid-",
+					"meaning": "to play"
+				}
+			],
+			"points": [
+				"『Illusion（幻影）』や『Ludicrous（滑稽な）』とも、この「遊び」で繋がっています。"
+			]
+		},
+		"source": "Etymonline",
+		"era": "15th Century Latin"
+	},
+	{
+		"id": "despair",
+		"word": "Despair",
+		"part_of_speech": "noun/verb",
+		"meaning": "絶望、絶望する",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "de-",
+					"type": "prefix",
+					"meaning": "without"
+				},
+				{
+					"text": "sperare",
+					"type": "root",
+					"meaning": "to hope"
+				}
+			],
+			"original_statement": "From Old French despoir, from Latin desperare 'to be without hope', from de- 'without' + sperare 'to hope'."
+		},
+		"core_concept": {
+			"en": "Without hope",
+			"ja": "「希望（スペー）」という呼吸を奪われ、窒息しそうな精神の空白"
+		},
+		"thinking_layer": "絶望とは、単なる悲しみではありません。それは「希望の剥奪（de-hope）」です。未来へ繋がる細い糸がぷつりと切れ、今この瞬間の苦しみだけが永遠に固定されてしまう状態。呼吸するための空気がなくなったかのような、冷たい真空の状態を指します。",
+		"synonyms": [
+			"hopelessness",
+			"misery",
+			"anguish"
+		],
+		"antonyms": [
+			"hope",
+			"optimism"
+		],
+		"aftertaste": "光の差し込まない、出口を塞がれた灰色の部屋",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "spe-",
+					"meaning": "to prosper, succeed"
+				}
+			],
+			"points": [
+				"『Prosper（繁栄する）』は、希望（spe）に向かって（pro-）進むことを意味します。"
+			]
+		},
+		"source": "Oxford English Dictionary",
+		"era": "14th Century Old French"
+	},
+	{
+		"id": "dictionary",
+		"word": "Dictionary",
+		"part_of_speech": "noun",
+		"meaning": "辞書、辞典",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "dictio",
+					"type": "root",
+					"meaning": "speaking, style"
+				},
+				{
+					"text": "dicere",
+					"type": "root",
+					"meaning": "to say"
+				}
+			],
+			"original_statement": "From Medieval Latin dictionarium, from Latin dictio 'word, speaking', from dicere 'to say'."
+		},
+		"core_concept": {
+			"en": "A collection of sayings",
+			"ja": "語られた「言葉（saying）」たちを閉じ込め、整列させた記憶の檻"
+		},
+		"thinking_layer": "辞書は、もともとは「話し方（diction）」や「語ること」の集積でした。空気中に消えていくはずの「声（dicere）」を、紙の上に繋ぎ止め、分類し、永遠の沈黙の中に保存する。それは、人間の思考の軌跡を標本にするような、静かで壮大な試みです。",
+		"synonyms": [
+			"lexicon",
+			"glossary",
+			"wordbook"
+		],
+		"antonyms": [],
+		"aftertaste": "何万もの声が、ページの間で息を潜めている重厚な気配",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "deik-",
+					"meaning": "to show, point out"
+				}
+			],
+			"points": [
+				"『Indicate（指し示す）』や『Verdict（評決＝真実を言う）』も同じ「指し示す言葉」から来ています。"
+			]
+		},
+		"source": "Oxford Dictionary of English Etymology",
+		"era": "16th Century Latin"
+	},
+	{
+		"id": "fabric",
+		"word": "Fabric",
+		"part_of_speech": "noun",
+		"meaning": "織物、布、構造",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "fabrica",
+					"type": "root",
+					"meaning": "workshop, structure, trade"
+				},
+				{
+					"text": "faber",
+					"type": "root",
+					"meaning": "craftsman, smith"
+				}
+			],
+			"original_statement": "From Old French fabrique, from Latin fabrica 'workshop, art, trade', from faber 'artisan, workman in hard materials'."
+		},
+		"core_concept": {
+			"en": "Something skillfully made",
+			"ja": "熟練の職人が、素材を組み合わせて「作り上げた」精巧な構造体"
+		},
+		"thinking_layer": "「布」を意味する前に、この言葉は「工房（workshop）」や「構築」を意味していました。一本の糸を重ね、強固な面を作る。その技術的な営みそのものがFabricです。社会の仕組みを『social fabric（社会の織りなす構造）』と呼ぶのは、それが単なる集まりではなく、職人の手仕事のように密接に編み込まれたものだからです。",
+		"synonyms": [
+			"cloth",
+			"structure",
+			"framework"
+		],
+		"antonyms": [],
+		"aftertaste": "無数の繋がりが重なり合い、一つの強靭な「面」となる手応え",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "dhabh-",
+					"meaning": "to fit together"
+				}
+			],
+			"points": [
+				"『Forge（鍛造する）』や、日本語の『工作』に近いニュアンスを持つ『Fabricate（捏造する・組み立てる）』と同根です。"
+			]
+		},
+		"source": "Oxford English Dictionary",
+		"era": "15th Century Old French"
+	},
+	{
+		"id": "fancy",
+		"word": "Fancy",
+		"part_of_speech": "noun/verb/adjective",
+		"meaning": "空想、好み、派手な",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "phantasia",
+					"type": "root",
+					"meaning": "appearance, image, imagination"
+				}
+			],
+			"original_statement": "A contraction of fantasy, from Old French fantasie, from Latin phantasia, from Greek phantasia 'appearance, image'."
+		},
+		"core_concept": {
+			"en": "Something that appears to the mind",
+			"ja": "現実に縛られず、心のスクリーンにふと「現れた」幻影"
+		},
+		"thinking_layer": "Fancyは『Fantasy』が短縮された言葉です。かつては、幻覚のように「見えるもの」を指していました。重厚な「思考」よりも軽やかで、一瞬の「好み」や「気まぐれ」に近い。心が捉えた、実体のない、けれど魅力的な光の粒子のようなイメージです。",
+		"synonyms": [
+			"imagination",
+			"whim",
+			"elaborate"
+		],
+		"antonyms": [
+			"reality",
+			"plain"
+		],
+		"aftertaste": "思考の重力から解き放たれ、気ままに踊る心の影絵",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "bha-",
+					"meaning": "to shine"
+				}
+			],
+			"points": [
+				"『Phantom（幽霊）』や『Phenomenon（現象）』と同じ、「光り、現れる」という根を持っています。"
+			]
+		},
+		"source": "Etymonline",
+		"era": "15th Century Middle English"
+	},
+	{
+		"id": "fatal",
+		"word": "Fatal",
+		"part_of_speech": "adjective",
+		"meaning": "致命的な、運命の",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "fatum",
+					"type": "root",
+					"meaning": "that which has been spoken"
+				}
+			],
+			"original_statement": "From Latin fatalis 'ordained by fate', from fatum 'prophetic declaration, oracle, destiny'."
+		},
+		"core_concept": {
+			"en": "Spoken by fate",
+			"ja": "神の口から「語られて」しまい、もう誰にも取り消せない決定事項"
+		},
+		"thinking_layer": "「致命的」の根底には、神の「託宣（fate）」があります。それは死に至る傷という意味である前に、「あらかじめ語られた通りになる」という絶対的な運命のことでした。語られた言葉（fatum）は矢のように放たれ、必ずその終着点へと辿り着く。その避けがたさが死へと繋がります。",
+		"synonyms": [
+			"deadly",
+			"lethal",
+			"fateful"
+		],
+		"antonyms": [
+			"harmless",
+			"vital"
+		],
+		"aftertaste": "神が沈黙した後に残る、冷酷で完璧な結末",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "bha-",
+					"meaning": "to speak"
+				}
+			],
+			"points": [
+				"『Fable（寓話）』や『Famous（語り草になる）』と同じ「話す」一族です。"
+			]
+		},
+		"source": "Barnhart Dictionary of Etymology",
+		"era": "14th Century Latin"
+	},
+	{
+		"id": "flexible",
+		"word": "Flexible",
+		"part_of_speech": "adjective",
+		"meaning": "柔軟な、曲げやすい",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "flectere",
+					"type": "root",
+					"meaning": "to bend"
+				}
+			],
+			"original_statement": "From Latin flexibilis 'that may be bent', from flectere 'to bend'."
+		},
+		"core_concept": {
+			"en": "Capable of bending",
+			"ja": "強い力が加わっても折れることなく、しなやかに「身を屈める」力"
+		},
+		"thinking_layer": "柔軟性とは、抵抗しないことではなく「折れないための変容」です。真っ直ぐであることに固執せず、状況に合わせて自らの曲線を変化させる。曲がった（bent）後でも、再び元の形を思い出すことができる。その復元力を秘めたしなやかさがFlexibleの本質です。",
+		"synonyms": [
+			"pliant",
+			"adaptable",
+			"supple"
+		],
+		"antonyms": [
+			"rigid",
+			"stiff",
+			"inflexible"
+		],
+		"aftertaste": "強風をいなし、嵐が過ぎるのを待つ柳のような強さ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "flect-",
+					"meaning": "to bend"
+				}
+			],
+			"points": [
+				"『Reflect（反射する・熟考する＝光や思考を曲げて返す）』の仲間です。"
+			]
+		},
+		"source": "Merriam-Webster",
+		"era": "15th Century Latin"
+	},
+	{
+		"id": "frontier",
+		"word": "Frontier",
+		"part_of_speech": "noun",
+		"meaning": "国境、辺境、未開拓の分野",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "frons",
+					"type": "root",
+					"meaning": "forehead, front"
+				}
+			],
+			"original_statement": "From Old French frontier, from Latin frontem 'forehead, brow, front'."
+		},
+		"core_concept": {
+			"en": "The forehead of a land",
+			"ja": "未知の領域と対峙する、土地の「額（ひたい）」にあたる最前線"
+		},
+		"thinking_layer": "フロンティアとは、単なる端っこではなく、未知なるものと向き合う「顔（front）」のことです。眉を吊り上げ、目を凝らして「向こう側」を凝視する、土地の表情。それは、文明が野性と接触する最も緊張感のある、かつ生命力に溢れた境界線です。",
+		"synonyms": [
+			"border",
+			"boundary",
+			"outpost"
+		],
+		"antonyms": [
+			"center",
+			"interior"
+		],
+		"aftertaste": "未知の風が吹きつける、顔を上げた者だけが立つ場所",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "bhren-",
+					"meaning": "to project, stand out"
+				}
+			],
+			"points": [
+				"『Front（正面）』や『Confront（対峙する＝額を合わせる）』と同根です。"
+			]
+		},
+		"source": "Barnhart Dictionary of Etymology",
+		"era": "14th Century Old French"
+	},
+	{
+		"id": "gamble",
+		"word": "Gamble",
+		"part_of_speech": "verb/noun",
+		"meaning": "賭ける、ギャンブル、冒険",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "gamenian",
+					"type": "root",
+					"meaning": "to play, jest"
+				}
+			],
+			"original_statement": "From Middle English gammlen 'to play games', a variant of gamenen, from Old English gamenian 'to play, joke, pun'."
+		},
+		"core_concept": {
+			"en": "To play games",
+			"ja": "深刻な運命を「遊び（game）」へと変え、偶然を愉しむ不敵な遊戯"
+		},
+		"thinking_layer": "「賭け」の本質は、遊び（Game）にあります。それは本来、勝敗に一喜一憂する以上に、不確実な未来を「おもちゃ」にする行為でした。しかし、遊びが度を越して「生活を賭ける」ようになったとき、その軽やかさは中毒的な重力へと変容していきます。",
+		"synonyms": [
+			"bet",
+			"wager",
+			"venture"
+		],
+		"antonyms": [
+			"surety",
+			"certainty"
+		],
+		"aftertaste": "サイコロの目に、自らの運命という駒を預ける身軽さ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ga-",
+					"meaning": "together"
+				},
+				{
+					"term": "mann-",
+					"meaning": "person"
+				}
+			],
+			"points": [
+				"『Game』はもともと「人々が集まること」が原義。皆で集まって楽しむことが「遊び」になりました。"
+			]
+		},
+		"source": "Chambers Dictionary of Etymology",
+		"era": "18th Century Middle English"
+	},
+	{
+		"id": "geometry",
+		"word": "Geometry",
+		"part_of_speech": "noun",
+		"meaning": "幾何学",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "ge",
+					"type": "root",
+					"meaning": "earth"
+				},
+				{
+					"text": "metria",
+					"type": "root",
+					"meaning": "measuring"
+				}
+			],
+			"original_statement": "From Greek geometria 'measurement of earth or land', from ge 'earth' + metria 'measuring'."
+		},
+		"core_concept": {
+			"en": "Measuring the earth",
+			"ja": "広大な「大地（ガイア）」に数式という物差しを当て、世界の形を計る"
+		},
+		"thinking_layer": "幾何学は、泥臭い「大地の測量」から始まりました。ナイル川の氾濫で境界が消えるたび、人々は土地を測り直した（geo-metry）。抽象的な数式の背後には、常に、足元に広がる揺るぎない「地球」という実体が存在しています。形を計ることは、世界を支配することでもありました。",
+		"synonyms": [
+			"mathematics",
+			"spatial science"
+		],
+		"antonyms": [],
+		"aftertaste": "混沌とした大地に、秩序ある直線を引く知性の鋭さ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ge-",
+					"meaning": "earth"
+				},
+				{
+					"term": "me-",
+					"meaning": "to measure"
+				}
+			],
+			"points": [
+				"『Geography（地理学）』の Geo- も同じ。大地は科学の最初の対象でした。"
+			]
+		},
+		"source": "Etymonline",
+		"era": "Ancient Greek"
+	},
+	{
+		"id": "glory",
+		"word": "Glory",
+		"part_of_speech": "noun/verb",
+		"meaning": "栄光、誉れ、輝き",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "gloria",
+					"type": "root",
+					"meaning": "fame, renown, praise"
+				}
+			],
+			"original_statement": "From Old French glorie, from Latin gloria 'fame, renown, great praise, honor'."
+		},
+		"core_concept": {
+			"en": "Fame and radiance",
+			"ja": "人々の口に上る「名声」が、目に見えるほどの眩い「光」となったもの"
+		},
+		"thinking_layer": "栄光とは、情報の「拡散」と「発光」です。素晴らしい行為が噂となり、その熱量が対象の周りにオーラのような輝きを形作る。それは、個人の内側に留まる満足ではなく、社会という鏡に反射して、眩しく跳ね返ってくる外的な光（Glow）なのです。",
+		"synonyms": [
+			"splendor",
+			"honor",
+			"renown"
+		],
+		"antonyms": [
+			"shame",
+			"disgrace",
+			"obscurity"
+		],
+		"aftertaste": "人々の賞賛という鏡に照らされた、黄金色の残像",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ghel-",
+					"meaning": "to shine"
+				}
+			],
+			"points": [
+				"『Gold』や『Glow』『Glass』と同じく、視覚的な輝きをルーツに持ちます。"
+			]
+		},
+		"source": "Oxford English Dictionary",
+		"era": "13th Century Old French"
+	},
+	{
+		"id": "habit",
+		"word": "Habit",
+		"part_of_speech": "noun",
+		"meaning": "習慣、癖、服",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "habere",
+					"type": "root",
+					"meaning": "to have, hold, possess"
+				}
+			],
+			"original_statement": "From Old French abit, from Latin habitus 'condition, appearance, dress', literally 'how one holds oneself', from habere 'to have, hold'."
+		},
+		"core_concept": {
+			"en": "How one holds oneself",
+			"ja": "自分をどのように「保ち」、どのような状態を「纏う（まとう）」か"
+		},
+		"thinking_layer": "習慣とは、単なる繰り返しの動作ではなく、自分が自分をどう「持ち歩く（hold）」かという形のことでした。かつては『服』もHabitと呼ばれたのは、内面的な癖も外面的な装いも、どちらもその人の「状態」を形作るものだからです。習慣は、私たちが魂に纏わせる「第二の皮膚」なのです。",
+		"synonyms": [
+			"custom",
+			"routine",
+			"attire"
+		],
+		"antonyms": [],
+		"aftertaste": "無意識のうちに自分を形作っている、見えない衣の感触",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ghabh-",
+					"meaning": "to give, receive"
+				}
+			],
+			"points": [
+				"『Ability（能力＝持ち合わせていること）』や『Inhabit（住む＝持ち続ける）』も同じ一族です。"
+			]
+		},
+		"source": "Etymonline",
+		"era": "13th Century Old French"
+	},
+	{
+		"id": "heaven",
+		"word": "Heaven",
+		"part_of_speech": "noun",
+		"meaning": "天国、空、至福",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "heben",
+					"type": "root",
+					"meaning": "canopy, cover, sky"
+				}
+			],
+			"original_statement": "From Old English heofon 'home of God, the visible sky', of uncertain origin, perhaps meaning 'a covering'."
+		},
+		"core_concept": {
+			"en": "A canopy or covering",
+			"ja": "地上のすべてを優しく包み込む、世界の「天蓋（屋根）」"
+		},
+		"thinking_layer": "天国とは、遠い異界である前に、私たちを「覆うもの（cover）」でした。見上げればそこにある、巨大な円蓋。それは神の住まいであると同時に、地上の喧騒を外側の冷たい虚無から守ってくれる、柔らかな天井のような存在として捉えられていたのかもしれません。",
+		"synonyms": [
+			"paradise",
+			"sky",
+			"firmament"
+		],
+		"antonyms": [
+			"hell"
+		],
+		"aftertaste": "果てしなく広がる青い屋根に、守られているという安堵感",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kem-",
+					"meaning": "to cover"
+				}
+			],
+			"points": [
+				"『Chamber（部屋）』や『Camera（暗箱）』とも、遠い「覆われた空間」という繋がりがあるという説があります。"
+			]
+		},
+		"source": "Oxford Dictionary of English Etymology",
+		"era": "Old English"
+	},
+	{
+		"id": "holiday",
+		"word": "Holiday",
+		"part_of_speech": "noun",
+		"meaning": "休日、祝日",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "halig",
+					"type": "root",
+					"meaning": "holy"
+				},
+				{
+					"text": "daeg",
+					"type": "root",
+					"meaning": "day"
+				}
+			],
+			"original_statement": "From Old English haligdæg 'holy day, Sabbath'."
+		},
+		"core_concept": {
+			"en": "Holy day",
+			"ja": "日常の労働から切り離され、神に捧げられた「聖なる日」"
+		},
+		"thinking_layer": "休みの日とは、かつては「神聖な（Holy）日」でした。それは単に身体を休めるためではなく、世俗の汚れを洗い流し、聖なる秩序に身を浸すための特別な時間。現代のレジャーとしての休日も、その根底には「日常という重力からの解放」という聖なるニュアンスが微かに響いています。",
+		"synonyms": [
+			"vacation",
+			"festival",
+			"break"
+		],
+		"antonyms": [
+			"workday"
+		],
+		"aftertaste": "騒々しい日常が止まり、世界が本来の静謐を取り戻す時間",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kailo-",
+					"meaning": "whole, uninjured"
+				}
+			],
+			"points": [
+				"『Holy』『Health』『Whole』はすべて同じ根。休みとは「完全な状態に戻ること」です。"
+			]
+		},
+		"source": "Oxford English Dictionary",
+		"era": "Old English"
+	},
+	{
+		"id": "hospitality",
+		"word": "Hospitality",
+		"part_of_speech": "noun",
+		"meaning": "おもてなし、歓待",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "hospes",
+					"type": "root",
+					"meaning": "guest, host, stranger"
+				}
+			],
+			"original_statement": "From Old French ospitalité, from Latin hospitalitatem 'courtesy to guests', from hospes 'guest, stranger, host'."
+		},
+		"core_concept": {
+			"en": "Care for the stranger",
+			"ja": "見知らぬ「客」を温かく迎え入れ、主客の境界を溶かす慈しみ"
+		},
+		"thinking_layer": "面白いことに、語源の hospes は「客」と「主人」の両方を意味しました。おもてなしとは、境界線を越えてやってきた「異邦人（stranger）」を、対等な人間として受け容れる儀式です。そこでは敵意が消え、食べ物と屋根を共有することで、束の間の「家族」が形成されます。",
+		"synonyms": [
+			"welcome",
+			"cordiality",
+			"kindness"
+		],
+		"antonyms": [
+			"hostility"
+		],
+		"aftertaste": "開かれた扉の向こう側から漂う、温かなスープの湯気",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ghos-ti-",
+					"meaning": "stranger, guest, host"
+				}
+			],
+			"points": [
+				"『Hostile（敵意のある）』と同じ根を持つ。異邦人は「友」にも「敵」にもなり得ます。"
+			]
+		},
+		"source": "Oxford English Dictionary",
+		"era": "14th Century Old French"
+	},
+	{
+		"id": "human",
+		"word": "Human",
+		"part_of_speech": "noun/adjective",
+		"meaning": "人間、人間の",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "humus",
+					"type": "root",
+					"meaning": "earth, ground"
+				}
+			],
+			"original_statement": "From Old French humain, from Latin humanus 'of man, civilized', related to humus 'earth'."
+		},
+		"core_concept": {
+			"en": "Earthly being",
+			"ja": "神のように天に住む者ではなく、地面の「土（腐植土）」から生まれた存在"
+		},
+		"thinking_layer": "私たちは自らを、高潔な霊的存在ではなく「土（humus）の子」と定義しました。それは、いつかは土に帰るという「死すべき運命」を認めると同時に、大地に根ざした生命としての力強さを表しています。人間であることは、その「土っぽさ」を愛することでもあります。",
+		"synonyms": [
+			"mortal",
+			"person",
+			"earthly"
+		],
+		"antonyms": [
+			"divine",
+			"animal"
+		],
+		"aftertaste": "足の裏に感じる土の冷たさと、そこから立ち上がった生命の重み",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "dhghem-",
+					"meaning": "earth"
+				}
+			],
+			"points": [
+				"『Humble（謙虚な＝土に近い）』や『Exhume（死体を掘り出す）』と同根。人間と土は切り離せません。"
+			]
+		},
+		"source": "Etymonline",
+		"era": "14th Century Old French"
+	},
+	{
+		"id": "jealousy",
+		"word": "Jealousy",
+		"part_of_speech": "noun",
+		"meaning": "嫉妬、焼きもち、強い執着",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "zelos",
+					"type": "root",
+					"meaning": "zeal, ardor, intensity"
+				}
+			],
+			"original_statement": "From Old French jalousie, from Latin zelosus, from Greek zelos 'zeal, emulation, ardor'."
+		},
+		"core_concept": {
+			"en": "Boiling zeal",
+			"ja": "静かな愛ではなく、沸騰するような「熱意（Zeal）」の激しい歪み"
+		},
+		"thinking_layer": "嫉妬の正体は、実は「熱意」でした。対象を強く想うあまり、その熱が自分を焼き、周囲を焦がしてしまう。冷たい憎しみではなく、熱すぎるがゆえに制御不能となったエネルギーの暴走です。かつては『神の熱き守護』をも意味した、この言葉の温度は非常に高いのです。",
+		"synonyms": [
+			"envy",
+			"resentment",
+			"zeal"
+		],
+		"antonyms": [
+			"indifference",
+			"generosity"
+		],
+		"aftertaste": "指先を火傷しそうな、ドロドロに溶けた熱情の残り火",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ya-",
+					"meaning": "to seek, honor"
+				}
+			],
+			"points": [
+				"『Zeal（熱意）』とは、双子の兄弟のような関係です。"
+			]
+		},
+		"source": "Oxford English Dictionary",
+		"era": "13th Century Old French"
+	},
+	{
+		"id": "jungle",
+		"word": "Jungle",
+		"part_of_speech": "noun",
+		"meaning": "ジャングル、密林、不毛の地",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "jangala",
+					"type": "root",
+					"meaning": "waste land, desert, uncultivated"
+				}
+			],
+			"original_statement": "From Hindi jangal 'desert, forest, waste land', from Sanskrit jangala 'arid, sparsely grown with trees, desert'."
+		},
+		"core_concept": {
+			"en": "Dry, waste land",
+			"ja": "人の手が届かず、生命が勝手に、しかし過酷に「繁茂する」見捨てられた地"
+		},
+		"thinking_layer": "驚くべきことに、ジャングルの語源は「砂漠（arid land）」に近いものでした。それは緑豊かな楽園ではなく、人間にとって利用価値のない「不毛で、手に負えない場所」を指していました。生存競争だけが剥き出しのまま支配する、文明の外側の混沌。それが本来のJungleです。",
+		"synonyms": [
+			"wilderness",
+			"tangle",
+			"wilds"
+		],
+		"antonyms": [
+			"garden",
+			"city"
+		],
+		"aftertaste": "窒息しそうな緑の奥に潜む、冷たい生存の掟",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"サンスクリット語からヒンディー語を経て、イギリス人がインドで再定義した言葉です。"
+			]
+		},
+		"source": "Etymonline",
+		"era": "18th Century Sanskrit/Hindi"
+	},
+	{
+		"id": "junk",
+		"word": "Junk",
+		"part_of_speech": "noun",
+		"meaning": "ジャンク、がらくた、古いロープ",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "jonc",
+					"type": "root",
+					"meaning": "rush (plant)"
+				}
+			],
+			"original_statement": "Perhaps from Old French jonc 'rush', or from Portuguese junco. Originally 'old rope' or 'cables'."
+		},
+		"core_concept": {
+			"en": "Old nautical rope",
+			"ja": "使い古され、バラバラに解かれた「古い船の綱（ロープ）」の残骸"
+		},
+		"thinking_layer": "「がらくた」の原点は、船の上にありました。かつては、ボロボロになって使い物にならなくなった太い綱のことを指したのです。役に立たず、場所だけを取る存在。しかし、その残骸さえもかつては巨大な帆を支え、荒波を越えた「機能の果て」の姿なのです。",
+		"synonyms": [
+			"rubbish",
+			"trash",
+			"scrap"
+		],
+		"antonyms": [
+			"treasure",
+			"asset"
+		],
+		"aftertaste": "役目を終えた物質が放つ、少し切ない無用の誇り",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"中国の船『ジャンク船』とは全く別の語源（マレー語 djong）です。"
+			]
+		},
+		"source": "Oxford Dictionary of English Etymology",
+		"era": "14th Century Old French/Portuguese"
+	},
+	{
+		"id": "keep",
+		"word": "Keep",
+		"part_of_speech": "verb/noun",
+		"meaning": "保つ、飼う、城の主塔",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "cepan",
+					"type": "root",
+					"meaning": "to seize, observe, look out for"
+				}
+			],
+			"original_statement": "From Old English cepan 'to seize, hold, observe, attend to'."
+		},
+		"core_concept": {
+			"en": "To seize and watch over",
+			"ja": "しっかりと「掴み」、同時に外敵から目を離さず「見守る」こと"
+		},
+		"thinking_layer": "ただ持っている（Hold）のではなく、注意深く「見張る」という能動的な守護が核にあります。城の最も堅牢な塔を『Keep』と呼ぶのは、そこが最後の守りの要だからです。",
+		"synonyms": [
+			"retain",
+			"preserve",
+			"guard"
+		],
+		"antonyms": [
+			"release",
+			"lose",
+			"abandon"
+		],
+		"aftertaste": "両手で包み込み、決して逃がさないという静かな固執",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"『Keep an eye on』という表現に、本来の「見守る」ニュアンスが色濃く残っています。"
+			]
+		},
+		"source": "Etymonline",
+		"era": "Old English"
+	},
+	{
+		"id": "kin",
+		"word": "Kin",
+		"part_of_speech": "noun",
+		"meaning": "親族、血縁、同類",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "cynn",
+					"type": "root",
+					"meaning": "family, race, nature"
+				}
+			],
+			"original_statement": "From Old English cynn 'family, race, kind, rank, nature'."
+		},
+		"core_concept": {
+			"en": "Born of the same stock",
+			"ja": "同じ源流から流れ出し、運命と「性質」を共有する者たち"
+		},
+		"thinking_layer": "血の繋がりだけでなく、その「種類（Kind）」や「本性」をも含みます。同じKinであることは、同じ魂の形をしているという深い連帯感を意味していました。",
+		"synonyms": [
+			"relative",
+			"clan",
+			"lineage"
+		],
+		"antonyms": [
+			"stranger",
+			"foreigner"
+		],
+		"aftertaste": "遠く離れていても響き合う、通底する血の記憶",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "gene-",
+					"meaning": "to give birth"
+				}
+			],
+			"points": [
+				"ラテン語の『Genus』や『Gender』に対応する、ゲルマン語派の言葉です。"
+			]
+		},
+		"source": "Barnhart Dictionary of Etymology",
+		"era": "Old English"
+	},
+	{
+		"id": "kind",
+		"word": "Kind",
+		"part_of_speech": "noun/adjective",
+		"meaning": "種類、親切な、自然な",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "cynd",
+					"type": "root",
+					"meaning": "nature, race, origin"
+				}
+			],
+			"original_statement": "From Old English gecynde 'natural, native, innate', originally 'with the feeling of relatives for each other'."
+		},
+		"core_concept": {
+			"en": "Natural to one's kin",
+			"ja": "同じ一族（Kin）に対して抱く、本来備わっているべき「自然な慈しみ」"
+		},
+		"thinking_layer": "「親切」とは、もともとは「身内としての自然な態度」でした。同じ種類（Kind）の者同士が助け合うのは、無理をした努力ではなく、生き物としての本能的な調和だったのです。",
+		"synonyms": [
+			"sort",
+			"benevolent",
+			"natural"
+		],
+		"antonyms": [
+			"cruel",
+			"harsh",
+			"unnatural"
+		],
+		"aftertaste": "「同じ人間である」という根源への回帰から生まれる温もり",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "gene-",
+					"meaning": "to produce"
+				}
+			],
+			"points": [
+				"『Mankind（人類）』は「人間の種類」という意味から来ています。"
+			]
+		},
+		"source": "Oxford Dictionary of English Etymology",
+		"era": "Old English"
+	},
+	{
+		"id": "king",
+		"word": "King",
+		"part_of_speech": "noun",
+		"meaning": "王、君主",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "cynn",
+					"type": "root",
+					"meaning": "kin, race"
+				},
+				{
+					"text": "-ing",
+					"type": "suffix",
+					"meaning": "son of, belonging to"
+				}
+			],
+			"original_statement": "From Old English cyning 'king', literally 'son of the kin' or 'scion of a noble race'."
+		},
+		"core_concept": {
+			"en": "Son of the kin",
+			"ja": "一族（Kin）の正統なる「代表者」であり、血統を背負い立つ者"
+		},
+		"thinking_layer": "王とは支配者である前に、その一族（国民）の「息子（代表）」でした。血族の力を一身に体現し、一族の存続に責任を負う者。その権威は血の繋がりという絆に支えられていました。",
+		"synonyms": [
+			"monarch",
+			"sovereign",
+			"ruler"
+		],
+		"antonyms": [
+			"subject",
+			"servant"
+		],
+		"aftertaste": "無数の名もなき血の流れを、一つの冠に集約する重圧",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "gene-",
+					"meaning": "to produce"
+				}
+			],
+			"points": [
+				"『Kin』と密接に関わり、王は民の血統的な頂点であることを示しています。"
+			]
+		},
+		"source": "Merriam-Webster",
+		"era": "Old English"
+	},
+	{
+		"id": "knit",
+		"word": "Knit",
+		"part_of_speech": "verb",
+		"meaning": "編む、密着させる、眉を寄せる",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "cnyttan",
+					"type": "root",
+					"meaning": "to tie with a knot, bind"
+				}
+			],
+			"original_statement": "From Old English cnyttan 'to tie with a knot, bind, join together'."
+		},
+		"core_concept": {
+			"en": "To tie in knots",
+			"ja": "一本の糸を「結び目（Knot）」の連鎖に変え、強固な繋がりを築く"
+		},
+		"thinking_layer": "結び目が重なり合い、ほどけない関係を作ること。眉をひそめる（knit one's brows）のも、筋肉を複雑に結び合わせるような動作だからです。バラバラなものを、一つの文脈へと編み上げる知恵です。",
+		"synonyms": [
+			"weave",
+			"unite",
+			"intertwine"
+		],
+		"antonyms": [
+			"unravel",
+			"separate",
+			"detach"
+		],
+		"aftertaste": "無数の結び目が支え合う、柔軟で破れにくい連帯",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ned-",
+					"meaning": "to bind, tie"
+				}
+			],
+			"points": [
+				"『Knot（結び目）』と語根を共有し、動作としての側面を強調します。"
+			]
+		},
+		"source": "Chambers Dictionary of Etymology",
+		"era": "Old English"
+	},
+	{
+		"id": "know",
+		"word": "Know",
+		"part_of_speech": "verb",
+		"meaning": "知る、理解する、識別する",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "cnawan",
+					"type": "root",
+					"meaning": "to know, perceive, acknowledge"
+				}
+			],
+			"original_statement": "From Old English cnawan 'to acknowledge, perceive, recognize', from Proto-Germanic knēanan."
+		},
+		"core_concept": {
+			"en": "To recognize or acknowledge",
+			"ja": "対象を「識別」し、それが何であるかを心の中で「認める」こと"
+		},
+		"thinking_layer": "単なる情報の保持（Information）ではなく、それが何であるかを「はっきりと見分ける」という能動的な認識を指します。知ることは、曖昧な世界に光を当て、正体を確定させる行為です。",
+		"synonyms": [
+			"comprehend",
+			"understand",
+			"recognize"
+		],
+		"antonyms": [
+			"ignore",
+			"forget"
+		],
+		"aftertaste": "闇の中で手探りしていたものが、カチリと形を成す手応え",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "gno-",
+					"meaning": "to know"
+				}
+			],
+			"points": [
+				"ギリシャ語の『Gnosis（知識）』やラテン語の『Cognition』と同じ、人類最古の知のルーツです。"
+			]
+		},
+		"source": "Etymonline",
+		"era": "Old English"
+	},
+	{
+		"id": "knuckle",
+		"word": "Knuckle",
+		"part_of_speech": "noun/verb",
+		"meaning": "指関節、げんこつ、屈服する",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "cnucel",
+					"type": "root",
+					"meaning": "joint, bone"
+				}
+			],
+			"original_statement": "From Middle English knokel, from Old English or Middle Low German origin, meaning 'small bone, joint'."
+		},
+		"core_concept": {
+			"en": "Small bone/joint",
+			"ja": "硬い骨がぶつかり合う「節（ふし）」であり、力と屈従の交差点"
+		},
+		"thinking_layer": "握れば拳（力）となり、突けば痛みとなります。しかし『knuckle down』や『knuckle under』のように、膝や関節を地につけて「屈服する」という意味も持ちます。関節は折れ曲がる場所だからです。",
+		"synonyms": [
+			"joint",
+			"node",
+			"fist"
+		],
+		"antonyms": [],
+		"aftertaste": "握り締めた時の硬質な緊張と、折れた時の鈍い痛み",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"『Knock（叩く）』と音が似ていますが、語根は異なるとされています。"
+			]
+		},
+		"source": "Barnhart Dictionary of Etymology",
+		"era": "14th Century Middle English"
+	},
+	{
+		"id": "kidnap",
+		"word": "Kidnap",
+		"part_of_speech": "verb",
+		"meaning": "誘拐する",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "kid",
+					"type": "root",
+					"meaning": "child"
+				},
+				{
+					"text": "nap",
+					"type": "root",
+					"meaning": "to seize, snatch"
+				}
+			],
+			"original_statement": "From kid 'child' + nap 'seize, snatch' (related to nab)."
+		},
+		"core_concept": {
+			"en": "To snatch a child",
+			"ja": "無防備な「子供（子山羊）」を、電光石火の速さで「ひったくる（nab）」卑劣な略奪"
+		},
+		"thinking_layer": "もとはアメリカ植民地へ送る労働力として子供をさらう隠語でした。『Nab』というひったくる動作の勢いが、この言葉の暴力性を際立たせています。",
+		"synonyms": [
+			"abduct",
+			"snatch",
+			"seize"
+		],
+		"antonyms": [
+			"release",
+			"rescue"
+		],
+		"aftertaste": "日常の平穏から、突然引き剥がされる断絶の衝撃",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"『Kid』はもともと「子山羊」でしたが、17世紀頃から俗語で「子供」を指すようになりました。"
+			]
+		},
+		"source": "Etymonline",
+		"era": "17th Century English"
+	},
+	{
+		"id": "kill",
+		"word": "Kill",
+		"part_of_speech": "verb",
+		"meaning": "殺す、消す、台無しにする",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "cyllan",
+					"type": "root",
+					"meaning": "to strike, hit, beat"
+				}
+			],
+			"original_statement": "Probably from Old English *cyllan, from Proto-Germanic kwalyanan, from root of quell."
+		},
+		"core_concept": {
+			"en": "To strike down",
+			"ja": "強い衝撃を「叩きつけ」、生命の活動を強制的に「停止」させる"
+		},
+		"thinking_layer": "「死」そのものよりも、それを引き起こす「打撃」や「圧倒（Quell）」に焦点があります。何かの火を消す、あるいは計画を台無しにすることも、その対象の生命力を「叩き潰す」行為の延長線上にあります。",
+		"synonyms": [
+			"murder",
+			"slay",
+			"extinguish"
+		],
+		"antonyms": [
+			"save",
+			"animate",
+			"revive"
+		],
+		"aftertaste": "熱を失い、静止へと向かう不可逆的な沈黙",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "gwele-",
+					"meaning": "to strike, death"
+				}
+			],
+			"points": [
+				"『Quell（鎮める・抑える）』と同根。激しい力を加えて無力化するニュアンスです。"
+			]
+		},
+		"source": "Chambers Dictionary of Etymology",
+		"era": "13th Century Middle English"
+	},
+	{
+		"id": "knight-errant",
+		"word": "Knight-errant",
+		"part_of_speech": "noun",
+		"meaning": "遍歴騎士、武者修行の騎士",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "knight",
+					"type": "root",
+					"meaning": "servant/soldier"
+				},
+				{
+					"text": "errant",
+					"type": "root",
+					"meaning": "wandering"
+				}
+			],
+			"original_statement": "From Old French errant 'wandering, traveling', from Latin errare 'to stray'."
+		},
+		"core_concept": {
+			"en": "A wandering warrior",
+			"ja": "定住を捨て、正義と冒険を求めて荒野を「彷徨（さまよ）う」孤高の騎士"
+		},
+		"thinking_layer": "「彷徨う（Errant）」ことは、かつては「道に迷う（Error）」ことと同じでした。しかし騎士道においては、あえて道なき道を行くことが、試練と真理への最短距離だったのです。",
+		"synonyms": [
+			"wanderer",
+			"paladin",
+			"adventurer"
+		],
+		"antonyms": [],
+		"aftertaste": "地図のない旅路で、自らの剣だけを道標とする誇り",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ers-",
+					"meaning": "to be in motion, stray"
+				}
+			],
+			"points": [
+				"『Error（間違い＝正道から外れること）』と語根は同じです。"
+			]
+		},
+		"source": "Oxford English Dictionary",
+		"era": "14th Century Old French/English"
+	},
+	{
+		"id": "knotty",
+		"word": "Knotty",
+		"part_of_speech": "adjective",
+		"meaning": "結び目の多い、紛糾した、解決の難しい",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "knot",
+					"type": "root",
+					"meaning": "fastening, problem"
+				},
+				{
+					"text": "-y",
+					"type": "suffix",
+					"meaning": "full of"
+				}
+			],
+			"original_statement": "From knot + -y. Used of wood or problems full of tangles."
+		},
+		"core_concept": {
+			"en": "Full of tangles",
+			"ja": "あちこちに「結び目」が潜み、一筋縄ではいかない「複雑怪奇」な手触り"
+		},
+		"thinking_layer": "ゴツゴツとした木の表面のように、あるいは絡まった糸のように、思考や議論を妨げる障害物が無数にある状態です。どこから手をつければいいのか分からない、知性の迷路です。",
+		"synonyms": [
+			"complex",
+			"intricate",
+			"thorny"
+		],
+		"antonyms": [
+			"simple",
+			"smooth",
+			"straightforward"
+		],
+		"aftertaste": "引っかかる指先と、解こうとするほど強まる焦燥",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"『Knotty problem（難問）』という表現でよく使われます。"
+			]
+		},
+		"source": "Etymonline",
+		"era": "14th Century English"
+	},
+	{
+		"id": "key",
+		"word": "Key",
+		"part_of_speech": "noun/adjective",
+		"meaning": "鍵、秘訣、音調、主要な",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "caeg",
+					"type": "root",
+					"meaning": "key"
+				}
+			],
+			"original_statement": "From Old English caeg 'key, solution, means of access'."
+		},
+		"core_concept": {
+			"en": "Means of access",
+			"ja": "閉ざされた領域を「開き」、あるいは秩序を「決定」する決定的な断片"
+		},
+		"thinking_layer": "扉を開ける道具であると同時に、音楽の旋律を支配する中心音（音調）でもあります。複雑な全体像を統制し、隠された意味へとアクセスするための「唯一の正解」を象徴します。",
+		"synonyms": [
+			"solution",
+			"clue",
+			"pivotal"
+		],
+		"antonyms": [
+			"barrier",
+			"lock"
+		],
+		"aftertaste": "金属の冷たい手応えと、何かが「開く」瞬間の劇的な変化",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"西ゲルマン語派に特有の単語で、その正確な語源は謎に包まれています。"
+			]
+		},
+		"source": "Barnhart Dictionary of Etymology",
+		"era": "Old English"
+	},
+	{
+		"id": "knell-like",
+		"word": "Knell-like",
+		"part_of_speech": "adjective",
+		"meaning": "弔鐘のような、不吉な",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "knell",
+					"type": "root",
+					"meaning": "death bell"
+				},
+				{
+					"text": "like",
+					"type": "suffix",
+					"meaning": "resembling"
+				}
+			],
+			"original_statement": "Combining knell and like."
+		},
+		"core_concept": {
+			"en": "Resembling a death bell",
+			"ja": "不吉な予感を含み、魂の深淵にまで響き渡る「終焉」を思わせる響き"
+		},
+		"thinking_layer": "音が持つ心理的な重みを表現します。その言葉や音が、ただ聞こえるだけでなく、自分の命運が尽きたことを宣告するような重圧を伴う状態です。",
+		"synonyms": [
+			"ominous",
+			"sinister",
+			"foreboding"
+		],
+		"antonyms": [
+			"auspicious",
+			"hopeful"
+		],
+		"aftertaste": "胃の底が冷たくなるような、決定的な終わりの予兆",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"文学的な表現で、運命の暗転を描写する際によく用いられます。"
+			]
+		},
+		"source": "Literature (common usage)",
+		"era": "Modern English"
+	},
+	{
+		"id": "laugh",
+		"word": "Laugh",
+		"part_of_speech": "verb/noun",
+		"meaning": "笑う、笑い",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "hlehhan",
+					"type": "root",
+					"meaning": "to laugh"
+				}
+			],
+			"original_statement": "From Old English hlehhan, of imitative origin, mimicking the sound of laughter."
+		},
+		"core_concept": {
+			"en": "Sound of joy/derision",
+			"ja": "喉から漏れる、コントロール不能な「破裂音」としての生命の爆発"
+		},
+		"thinking_layer": "笑いは、もともと擬音（Onomatopoeia）でした。肺から押し出された空気が喉を叩き、理性を超えて漏れ出す音。それは喜びの表現であると同時に、相手を「笑い飛ばす」という攻撃的な力も秘めています。",
+		"synonyms": [
+			"giggle",
+			"chuckle",
+			"guffaw"
+		],
+		"antonyms": [
+			"cry",
+			"weep"
+		],
+		"aftertaste": "横隔膜の震えが、世界という重力を一瞬だけ無効化する軽やかさ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kleg-",
+					"meaning": "to cry, sound"
+				}
+			],
+			"points": [
+				"鳥の鳴き声を表す言葉とも親和性が高く、野性的な叫びの一種です。"
+			]
+		},
+		"source": "Etymonline",
+		"era": "Old English"
+	},
+	{
+		"id": "limit",
+		"word": "Limit",
+		"part_of_speech": "noun/verb",
+		"meaning": "限界、境界、制限する",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "limes",
+					"type": "root",
+					"meaning": "boundary, path"
+				}
+			],
+			"original_statement": "From Latin limitem 'a boundary, limit, border, embankment between fields'."
+		},
+		"core_concept": {
+			"en": "Boundary path",
+			"ja": "土地と土地を切り分ける「畦道（あぜみち）」であり、それ以上先へは行けないという拒絶の線"
+		},
+		"thinking_layer": "限界とは、世界の「縁（ふち）」です。かつては田畑を分ける境界の土手（limes）を指しました。それは秩序を守るための守護線であり、同時に私たちの可能性を封じ込める檻の格子でもあります。線の上を歩くことは、常に「向こう側」への誘惑と戦うことです。",
+		"synonyms": [
+			"boundary",
+			"border",
+			"threshold"
+		],
+		"antonyms": [
+			"infinity",
+			"boundlessness"
+		],
+		"aftertaste": "目の前に引かれた見えない壁と、そこから先へ踏み出せないもどかしさ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "el-",
+					"meaning": "to go (disputed)"
+				}
+			],
+			"points": [
+				"『Eliminate（排除する＝境界の外へ出す）』や『Preliminary（予備の＝閾の前の）』とも関係があります。"
+			]
+		},
+		"source": "Oxford English Dictionary",
+		"era": "14th Century Latin"
+	},
+	{
+		"id": "liquid",
+		"word": "Liquid",
+		"part_of_speech": "noun/adjective",
+		"meaning": "液体、流動的な、澄んだ",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "liquere",
+					"type": "root",
+					"meaning": "to be fluid"
+				}
+			],
+			"original_statement": "From Latin liquidus 'fluid, moist, flowing', from liquere 'to be fluid'."
+		},
+		"core_concept": {
+			"en": "Flowing and clear",
+			"ja": "固定された形を持たず、光を透かしながら「流れ去る」しなやかな実体"
+		},
+		"thinking_layer": "液体の本質は「溶解」と「適応」です。硬い輪郭を捨て、器の形に従う。澱みがなく澄み渡っていること。それは変化に対する究極の従順であり、同時にすべてを飲み込んで溶かしてしまう、柔らかな暴力でもあります。",
+		"synonyms": [
+			"fluid",
+			"flowing",
+			"aqueous"
+		],
+		"antonyms": [
+			"solid",
+			"rigid",
+			"firm"
+		],
+		"aftertaste": "指の間をすり抜けていく、掴みどころのない冷たい透明感",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "wleik-",
+					"meaning": "to flow, wet"
+				}
+			],
+			"points": [
+				"『Liquor（酒）』や『Liquidation（清算＝資金を流動化させること）』と同根です。"
+			]
+		},
+		"source": "Etymonline",
+		"era": "14th Century Latin"
+	},
+	{
+		"id": "listless",
+		"word": "Listless",
+		"part_of_speech": "adjective",
+		"meaning": "無気力な、関心のない",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "lust",
+					"type": "root",
+					"meaning": "pleasure, desire"
+				},
+				{
+					"text": "-less",
+					"type": "suffix",
+					"meaning": "without"
+				}
+			],
+			"original_statement": "From Middle English listless, from lust 'desire, pleasure' (from Old English lyst) + -less."
+		},
+		"core_concept": {
+			"en": "Without desire",
+			"ja": "何かを欲するという「欲望（Lust）」の火が消え、世界に対して無感覚になった状態"
+		},
+		"thinking_layer": "「リスト（表）」がないことではありません。もとは「欲望（Lust/List）」を失ったことを指します。心が何に対しても「いいね」と言わなくなった、感情の砂漠化。動くための燃料である『欲』が尽きた、空っぽのエンジンのような悲しみです。",
+		"synonyms": [
+			"lethargic",
+			"spiritless",
+			"indifferent"
+		],
+		"antonyms": [
+			"enthusiastic",
+			"energetic",
+			"eager"
+		],
+		"aftertaste": "色が失われたモノクロの風景を、ただぼんやりと眺め続ける虚無",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "las-",
+					"meaning": "to be eager, wanton"
+				}
+			],
+			"points": [
+				"古英語の『lystan（喜ばせる）』が語源。日本語の『気が進まない』に近い。 "
+			]
+		},
+		"source": "Oxford English Dictionary",
+		"era": "15th Century Middle English"
+	},
+	{
+		"id": "lonely",
+		"word": "Lonely",
+		"part_of_speech": "adjective",
+		"meaning": "孤独な、寂しい",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "alone",
+					"type": "root",
+					"meaning": "all one"
+				},
+				{
+					"text": "-ly",
+					"type": "suffix",
+					"meaning": "like, having quality of"
+				}
+			],
+			"original_statement": "Coined in the 16th century (notably used by Shakespeare) from alone + -ly."
+		},
+		"core_concept": {
+			"en": "Feeling like one",
+			"ja": "世界中に自分一人しかいないかのような、切り離された「個（One）」の鋭い痛み"
+		},
+		"thinking_layer": "「Alone（完全に一つ）」であることに、感情の影（-ly）を落とした言葉です。誰とも接続されていない、回路の断絶。それは、自分という存在が宇宙の中で唯一無二であることの証明であり、同時にその重さに耐えかねる嘆きでもあります。",
+		"synonyms": [
+			"solitary",
+			"isolated",
+			"desolate"
+		],
+		"antonyms": [
+			"accompanied",
+			"social",
+			"crowded"
+		],
+		"aftertaste": "満員の雑踏の中で、自分だけが透明人間になったような静かな絶望",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"シェイクスピアが『コリオリナス』などで効果的に使い、一般に広まったとされています。"
+			]
+		},
+		"source": "Merriam-Webster",
+		"era": "16th Century English"
+	},
+	{
+		"id": "lord",
+		"word": "Lord",
+		"part_of_speech": "noun",
+		"meaning": "主、主人、貴族、神",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "hlaif",
+					"type": "root",
+					"meaning": "loaf (bread)"
+				},
+				{
+					"text": "weard",
+					"type": "root",
+					"meaning": "ward, guardian"
+				}
+			],
+			"original_statement": "From Old English hlaford 'master, ruler', literally 'bread-keeper'."
+		},
+		"core_concept": {
+			"en": "Bread guardian",
+			"ja": "貯蔵された「パン（糧）」を死守し、人々に分配する責任を負った「守護者」"
+		},
+		"thinking_layer": "主人の本質は「支配」ではなく「保護」にありました。冬を越すためのパンを守り、それを分け与える（Loaf-ward）。人々が彼に従ったのは、彼が食糧という生命の鍵を握る「最も信頼できる番人」だったからです。",
+		"synonyms": [
+			"master",
+			"sovereign",
+			"nobleman"
+		],
+		"antonyms": [
+			"servant",
+			"lady (etymologically)"
+		],
+		"aftertaste": "分配の正義と、それを維持するための圧倒的な力の重圧",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "wer-",
+					"meaning": "to watch, guard"
+				}
+			],
+			"points": [
+				"『Steward（執事＝家を護る者）』の -ward と同じルーツです。"
+			]
+		},
+		"source": "Oxford Dictionary of English Etymology",
+		"era": "Old English"
+	},
+	{
+		"id": "loyalty",
+		"word": "Loyalty",
+		"part_of_speech": "noun",
+		"meaning": "忠誠、誠実",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "lex/legalis",
+					"type": "root",
+					"meaning": "law"
+				}
+			],
+			"original_statement": "From Old French loialté, from Latin legalitatem, from lex 'law'."
+		},
+		"core_concept": {
+			"en": "Faithfulness to law/duty",
+			"ja": "感情に左右されず、自ら課した「法（誓い）」を頑なに守り抜く「法的な誠実さ」"
+		},
+		"thinking_layer": "忠誠心は、もとは「法（Lex）」に基づくものでした。好き嫌いではなく、契約や義務としての正しさを守ること。一度結んだ約束を、自分の都合で破らないという「内なる法」への服従です。それは、不安定な心に秩序を与える「鋼の規律」です。",
+		"synonyms": [
+			"fidelity",
+			"allegiance",
+			"devotion"
+		],
+		"antonyms": [
+			"treachery",
+			"betrayal",
+			"disloyalty"
+		],
+		"aftertaste": "嵐の中でも揺るがない、自分との、あるいは他者との「契約」の重み",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "leg-",
+					"meaning": "to collect, bind"
+				}
+			],
+			"points": [
+				"『Legal（法的な）』の貴族的な、あるいは道徳的な変奏曲が『Loyal』です。"
+			]
+		},
+		"source": "Barnhart Dictionary of Etymology",
+		"era": "14th Century Old French"
+	},
+	{
+		"id": "luck",
+		"word": "Luck",
+		"part_of_speech": "noun",
+		"meaning": "運、幸運",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "gheluc",
+					"type": "root",
+					"meaning": "happiness, fortune"
+				}
+			],
+			"original_statement": "From Middle Dutch gelucke 'good fortune', a word of uncertain ultimate origin, perhaps related to lock (to close/conclude)."
+		},
+		"core_concept": {
+			"en": "Gambling outcome",
+			"ja": "自分の努力が届かない場所で、賽（さい）が投げられ「決着してしまった」結果"
+		},
+		"thinking_layer": "運とは、もともとはギャンブルの用語でした。それは神の恵み（Grace）よりも世俗的で、偶然に左右される「結果の分配」を指します。良いことも悪いことも、等しく「閉じた（lock）」結末として、私たちの前に提示されます。",
+		"synonyms": [
+			"fortune",
+			"chance",
+			"fluke"
+		],
+		"antonyms": [
+			"design",
+			"causality"
+		],
+		"aftertaste": "自分の手から離れた何かが、望み通りの形で戻ってきた時の安堵と恐怖",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ドイツ語の『Glück（幸せ・運）』と同じ。もとは中世のギャンブラーたちの言葉でした。"
+			]
+		},
+		"source": "Oxford Dictionary of English Etymology",
+		"era": "15th Century Middle Dutch"
+	},
+	{
+		"id": "lullaby",
+		"word": "Lullaby",
+		"part_of_speech": "noun",
+		"meaning": "子守唄",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "lull",
+					"type": "root",
+					"meaning": "to soothe"
+				},
+				{
+					"text": "bye",
+					"type": "root",
+					"meaning": "near/sound"
+				}
+			],
+			"original_statement": "From lull 'to soothe' + goodbye/bye-bye. Lull is imitative of 'la-la' sounds used to soothe infants."
+		},
+		"core_concept": {
+			"en": "Soothing sound",
+			"ja": "意味を捨てた「音（la-la）」の繰り返しで、高ぶった神経を「宥め（lull）」、眠りへ誘う儀式"
+		},
+		"thinking_layer": "言葉による説得ではなく、振動による催眠。意味を持たない音の重なり（Lull-bye）が、世界への警戒心を解き、自我を霧散させる。それは、言語が生まれる前の「母と子の原初的な通信」です。",
+		"synonyms": [
+			"cradle song",
+			"berceuse"
+		],
+		"antonyms": [],
+		"aftertaste": "意識が遠のく境界線で聞こえる、誰かの優しい鼻歌の残響",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"『Lull（なだめる、凪）』という言葉そのものが、船を揺らすようなゆったりしたリズムを暗示します。"
+			]
+		},
+		"source": "Oxford English Dictionary",
+		"era": "14th Century English"
+	},
+	{
+		"id": "lumen",
+		"word": "Lumen",
+		"part_of_speech": "noun",
+		"meaning": "ルーメン（光束の単位）、空間、穴",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "lumen",
+					"type": "root",
+					"meaning": "light, opening"
+				}
+			],
+			"original_statement": "From Latin lumen 'light, a light; an opening, passage'."
+		},
+		"core_concept": {
+			"en": "Lighted opening",
+			"ja": "光が通り抜けるための「穴」であり、そこから世界が照らし出される「源」"
+		},
+		"thinking_layer": "光そのものというより、「光を放つ窓」という空間的な広がりを指します。生物学では管の内部を指しますが、それはかつて「光が差し込む空洞」と捉えられていたからです。空虚であることが、光を運ぶための条件なのです。",
+		"synonyms": [
+			"light",
+			"aperture",
+			"opening"
+		],
+		"antonyms": [
+			"darkness",
+			"solid"
+		],
+		"aftertaste": "空っぽの筒の中に、一筋の強い光が射し込む幾何学的な美しさ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "leuk-",
+					"meaning": "light"
+				}
+			],
+			"points": [
+				"『Illuminate（照らす）』や『Luminal（管腔の）』という対照的な分野で使われます。"
+			]
+		},
+		"source": "Etymonline",
+		"era": "16th Century Latin"
+	},
+	{
+		"id": "lunar",
+		"word": "Lunar",
+		"part_of_speech": "adjective",
+		"meaning": "月の、月のような",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "luna",
+					"type": "root",
+					"meaning": "moon"
+				}
+			],
+			"original_statement": "From Latin lunaris 'of the moon', from luna 'moon', from lucere 'to shine'."
+		},
+		"core_concept": {
+			"en": "The shining one",
+			"ja": "夜の暗闇に唯一許された「輝き（Lucere）」を放つ、移ろいやすい天体"
+		},
+		"thinking_layer": "月は「光るもの（The shining one）」と呼ばれました。太陽の暴力的な熱さとは対照的な、冷たく、白く、人を狂わせる（Lunacy）魅惑の光。満ち欠けという不安定さを内包した、夜の支配者です。",
+		"synonyms": [
+			"moonly",
+			"selenic"
+		],
+		"antonyms": [
+			"solar"
+		],
+		"aftertaste": "静まり返った地上を、無機質で青白い光でなでる孤独な視線",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "leuk-",
+					"meaning": "light"
+				}
+			],
+			"points": [
+				"『Lunatic（狂人）』は、月の満ち欠けが精神に混乱をもたらすと信じられていたことに由来します。"
+			]
+		},
+		"source": "Merriam-Webster",
+		"era": "15th Century Latin"
+	},
+	{
+		"id": "lust",
+		"word": "Lust",
+		"part_of_speech": "noun/verb",
+		"meaning": "強い欲望、情欲",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "lust",
+					"type": "root",
+					"meaning": "pleasure, desire"
+				}
+			],
+			"original_statement": "From Old English lust 'pleasure, desire, joy', originally neutral but became associated with forbidden desire in Christian context."
+		},
+		"core_concept": {
+			"en": "Intense longing",
+			"ja": "理性を焼き払い、対象を「我がものにしたい」と渇望する、根源的な生命の熱"
+		},
+		"thinking_layer": "もとは「喜び（Pleasure）」を意味した、肯定的な言葉でした。しかし、その熱があまりに強すぎたため、「行き過ぎた、あるいは禁じられた欲望」という不名誉なレッテルを貼られました。それは、自分を突き動かす制御不能なエンジンです。",
+		"synonyms": [
+			"passion",
+			"craving",
+			"desire"
+		],
+		"antonyms": [
+			"aversion",
+			"purity",
+			"listlessness"
+		],
+		"aftertaste": "喉の渇きが癒えないまま、さらに深く火に身を投じる飢餓感",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "las-",
+					"meaning": "to be eager, wanton"
+				}
+			],
+			"points": [
+				"『Luxury（贅沢）』や『Lascivious（淫らな）』とも血が繋がっています。"
+			]
+		},
+		"source": "Oxford English Dictionary",
+		"era": "Old English"
+	},
+	{
+		"id": "lyric",
+		"word": "Lyric",
+		"part_of_speech": "noun/adjective",
+		"meaning": "抒情的な、歌詞、叙情詩",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "lyra",
+					"type": "root",
+					"meaning": "lyre (musical instrument)"
+				}
+			],
+			"original_statement": "From Greek lyrikos 'singing to the lyre', from lyra 'lyre'."
+		},
+		"core_concept": {
+			"en": "Sung to the lyre",
+			"ja": "竪琴（リラ）の伴奏に合わせ、個人の「震える感情」を言葉として奏でること"
+		},
+		"thinking_layer": "叙事詩（Epic）が歴史を語るなら、叙情詩（Lyric）は「いま、ここ」の心を叫びます。それは客観的な事実ではなく、楽器の弦と共鳴するような、極めて個人的で音楽的な魂の振動です。言葉は、メロディを纏うことで初めてリリックになります。",
+		"synonyms": [
+			"poetic",
+			"melodic",
+			"expressive"
+		],
+		"antonyms": [
+			"narrative",
+			"prosaic"
+		],
+		"aftertaste": "指先で弾かれた弦が、心の奥底にある記憶を震わせる響き",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"古代ギリシャにおいて、竪琴なしで朗読される詩とは明確に区別されていました。"
+			]
+		},
+		"source": "Oxford Dictionary of English Etymology",
+		"era": "16th Century Greek"
+	},
+	{
+		"id": "lucifer",
+		"word": "Lucifer",
+		"part_of_speech": "noun",
+		"meaning": "ルシファー、明けの明星、堕天使",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "lux",
+					"type": "root",
+					"meaning": "light"
+				},
+				{
+					"text": "ferre",
+					"type": "root",
+					"meaning": "to carry, bring"
+				}
+			],
+			"original_statement": "From Latin Lucifer 'morning star', literally 'light-bringer', from lux 'light' + ferre 'to carry'."
+		},
+		"core_concept": {
+			"en": "Light bringer",
+			"ja": "夜明けを告げるために「光を運ぶ（Morning Star）」役割を担いながら、闇へと堕ちた者"
+		},
+		"thinking_layer": "悪の象徴である前に、彼は「最も美しい光の運び手」でした。太陽が出る直前、最も明るく輝く金星。あまりの輝きゆえの傲慢さが、彼を天から引き摺り下ろした。この言葉には「最高の知性と、その没落」という悲劇的な二面性が刻まれています。",
+		"synonyms": [
+			"morning star",
+			"Satan",
+			"fallen angel"
+		],
+		"antonyms": [],
+		"aftertaste": "指の間からこぼれ落ちる光と、底知れぬ暗闇への落下感",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "leuk-",
+					"meaning": "light"
+				},
+				{
+					"term": "bher-",
+					"meaning": "to carry"
+				}
+			],
+			"points": [
+				"『Inferno（地獄）』の業火とは対照的に、本来は透き通った光を意味する名前です。"
+			]
+		},
+		"source": "Merriam-Webster",
+		"era": "Old English (from Latin)"
 	}
 ];
