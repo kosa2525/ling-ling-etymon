@@ -28,6 +28,12 @@ const navItems = {
     saved: document.getElementById('nav-saved'),
     etymap: document.getElementById('nav-etymap'),
     synthesizer: document.getElementById('nav-synthesizer'),
+    essays: document.getElementById('nav-essays'),
+    settings: document.getElementById('nav-settings'),
+    premium: document.getElementById('nav-premium'),
+    notifications: document.getElementById('nav-notifications'),
+    network: document.getElementById('nav-network'),
+    timeline: document.getElementById('nav-timeline'),
     search: document.getElementById('global-search-input')
 };
 
