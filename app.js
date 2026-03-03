@@ -26,13 +26,6 @@ const navItems = {
     today: document.getElementById('nav-today'),
     archive: document.getElementById('nav-archive'),
     saved: document.getElementById('nav-saved'),
-    contribute: document.getElementById('nav-contribute'),
-    essays: document.getElementById('nav-essays'),
-    settings: document.getElementById('nav-settings'),
-    premium: document.getElementById('nav-premium'),
-    notifications: document.getElementById('nav-notifications'),
-    network: document.getElementById('nav-network'),
-    timeline: document.getElementById('nav-timeline'),
     etymap: document.getElementById('nav-etymap'),
     synthesizer: document.getElementById('nav-synthesizer'),
     search: document.getElementById('global-search-input')
@@ -663,9 +656,14 @@ async function renderConnections() {
 
 function renderArchive() {
     viewContainer.innerHTML = `
-            <div style="max-width:600px; margin: 0 auto 1.5rem auto; position:relative;">
-                <input type="text" id="archive-search" placeholder="Search by word or meaning..." value="${State.searchFilter || ''}" style="width:100%; padding:1.2rem 3rem; background:var(--color-surface); border:1px solid var(--color-border); border-radius:100px; color:white; font-size:1.1rem;">
-                <span style="position:absolute; left:1.2rem; top:50%; transform:translateY(-50%); opacity:0.5;">🔍</span>
+            <div style="max-width:600px; margin: 0 auto 1.5rem auto; display:flex; flex-direction:column; gap:1rem;">
+                <div style="text-align:center;">
+                    <button onclick="navigate('contribute')" class="primary-btn" style="padding:1rem 2rem; border-radius:100px; font-size:0.9rem;">+ Contribute Word</button>
+                </div>
+                <div style="position:relative;">
+                    <input type="text" id="archive-search" placeholder="Search by word or meaning..." value="${State.searchFilter || ''}" style="width:100%; padding:1.2rem 3rem; background:var(--color-surface); border:1px solid var(--color-border); border-radius:100px; color:white; font-size:1.1rem;">
+                    <span style="position:absolute; left:1.2rem; top:50%; transform:translateY(-50%); opacity:0.5;">🔍</span>
+                </div>
             </div>
             <div id="archive-stats" style="text-align:center; margin-bottom:2rem; font-size:0.9rem; color:var(--color-text-dim);">
                 <!-- Total count will be here -->
@@ -1665,7 +1663,10 @@ function renderContribute() {
     if (!State.currentUser) { showToast('Identity required.'); navigate('premium'); return; }
     viewContainer.innerHTML = `
         <div class="contribute-view fade-in" style="max-width:640px; margin: 0 auto; padding-bottom:120px;">
-            <h3 class="section-label" style="text-align:center; margin-bottom:4rem;">Contribution to Archive</h3>
+            <header style="margin-bottom:3rem; display:flex; gap:1rem; align-items:center;">
+                <button onclick="navigate('archive')" class="chip">← Back</button>
+                <h3 class="section-label">Contribution to Archive</h3>
+            </header>
             <form id="word-form" style="background:var(--color-surface); padding:3rem; border-radius:32px; border:1px solid var(--color-border);">
                 <div class="input-group"><label>Word Entry</label><input type="text" id="w-word" required style="width:100%; background:var(--color-bg); border-radius:12px; border:1px solid var(--color-border); color:white; padding:1.2rem;"></div>
                 <div class="input-group" style="margin-top:2rem;"><label>Etymological Structure (prefix:meaning, ...)</label><input type="text" id="w-breakdown" required style="width:100%; background:var(--color-bg); border-radius:12px; border:1px solid var(--color-border); color:white; padding:1.2rem;"></div>
@@ -1714,7 +1715,6 @@ document.addEventListener('DOMContentLoaded', async () => {
     if (navItems.today) navItems.today.onclick = () => navigate('today');
     if (navItems.archive) navItems.archive.onclick = () => { State.letterFilter = null; State.searchFilter = null; navigate('archive'); };
     if (navItems.saved) navItems.saved.onclick = () => navigate('saved');
-    if (navItems.contribute) navItems.contribute.onclick = () => navigate('contribute');
     if (navItems.essays) navItems.essays.onclick = () => navigate('essays');
     if (navItems.settings) navItems.settings.onclick = () => navigate('settings');
     if (navItems.premium) navItems.premium.onclick = () => navigate('premium');

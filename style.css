@@ -125,6 +125,7 @@ h3 {
 .nav-links {
     display: flex;
     gap: var(--spacing-md);
+    justify-content: center;
 }
 
 .nav-item {
