@@ -170377,5 +170377,148 @@ const WORDS = [
 				"知覚のベクトル。"
 			]
 		}
+	},
+	{
+		"id": "reproduce",
+		"word": "繁殖させる、複製する、再現する",
+		"meaning": "繁殖させる、複製する",
+		"era": "Latin re + pro + ducere",
+		"etymology": {
+			"components": [
+				"re- (again)",
+				"produce (bring forth)"
+			],
+			"original_statement": "From re- 'again' + produce 'bring forth'. Conceptually from Latin."
+		},
+		"concept": "To produce again (再び生み出す（繁殖、複製）。一度失われれば永遠の彼方（アブセンス）に消えてしまう『自己の生命や完璧なデータ（アーカイブ）』に対し、一分一秒の淀みもなく全く同じ『不滅の設計図（ロゴス）』をもう一度物理空間に屹立させ、死を回避すること)",
+		"thinking": "「（時間による風化という宇宙の絶対法則を打ち破り）、再び（Re-）」「（一撃の情熱をもって）かつてあったものを前へと導き出し、生み出す（-produce / Ducere）」。それは単なる「コピー」ではありません。あなたが「自分という存在の消滅」を全身霊で拒絶（レジスト）し、そこにある種の「無限のループ（不死性）」をこの荒野に獲得するための、神への「反逆」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "導きと定着の軌跡。",
+		"example": "Leadership is the art of shaping the future.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の指針。"
+			]
+		}
+	},
+	{
+		"id": "viaduct",
+		"word": "高架橋、陸橋",
+		"meaning": "高架橋",
+		"era": "Latin via + ducere",
+		"etymology": {
+			"components": [
+				"via (way/road)",
+				"ducere (to lead)"
+			],
+			"original_statement": "Coined in 1816 (on model of aqueduct), from Latin via 'road' + ductus 'a leading' (from ducere)."
+		},
+		"concept": "A road leading over (上を導く道。深く切り立った暗黒の『谷底（アイソレーションへの転落）』に対し、空中に一撃の理知のアーチを叩き込み、死の罠を完全に飛び越えて未来の岸（ステーション）へと安全に魂を導く巨大な石と鉄の魔法)",
+		"thinking": "「（決して通れないと思われた空間の上に）、道（Via- / Via）を」「（一分一秒の淀みもなく空を切り裂いて）導き、通したもの（-duct / Ducere）」。それは単なる「橋」ではありません。あなたが宇宙の「地形による絶対的な制限（カオス）」を完全に粉砕（レジスト）し、自らの定めた『直線（光のベクトル）』をこの荒野に力技で貫き通した、人間の「勝利宣言」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "導きと定着の軌跡。",
+		"example": "Leadership is the art of shaping the future.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の指針。"
+			]
+		}
+	},
+	{
+		"id": "proscribe",
+		"word": "禁止する、追放する、排斥する",
+		"meaning": "禁止する",
+		"era": "Latin pro + scribere",
+		"etymology": {
+			"components": [
+				"pro- (before / in public)",
+				"scribere (to write)"
+			],
+			"original_statement": "From Latin proscribere 'publish in writing / outlaw / condemn', from pro- 'before (in public)' + scribere 'to write'."
+		},
+		"concept": "To publish in writing / outlaw (前に書き出して公表する（禁止）。社会の健全な『光のネットワーク』から切り捨てるべき毒（ノイズ）に対し、広場でその名を一撃で書き並べ、全宇宙に向けて処刑と追放（アブセンスへの突き落とし）を宣言する最終宣告)",
+		"thinking": "「（隠れてではなく）、誰もがわかるように公に、民の前に（Pro-）」「（これを禁ずると一分一秒の淀みもなく）書き記す（-scribe / Scribere）」。それは単なる「ダメ」ではありません。あなたが「内部の腐敗による自滅」を完全に拒絶し、法と力技でもって「これに触れる者は死ぬ」という境界線を大地に屹立させた、権威の「焼き討ち」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "導きと定着の軌跡。",
+		"example": "Leadership is the art of shaping the future.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の指針。"
+			]
+		}
+	},
+	{
+		"id": "circumscribe",
+		"word": "制限する、〜の周りに線を引く、囲い込む",
+		"meaning": "制限する",
+		"era": "Latin circum + scribere",
+		"etymology": {
+			"components": [
+				"circum- (around)",
+				"scribere (to write)"
+			],
+			"original_statement": "From Latin circumscribere 'to draw a line around / encircle / limit / cheat', from circum 'around' + scribere 'to write'."
+		},
+		"concept": "To write a line around (周りに円を描く（制限する）。全方位へ無限に飛び出そうとする狂暴な『野望のパルス』に対し、理知と権力（ロゴス）による絶対的な『壁としての線』を一撃で一周ぐるりと書き囲み、その中の牢獄へと閉じ込めること)",
+		"thinking": "「（好き勝手に広がっていく自由を封殺して）、その周囲をぐるりと取り囲むように（Circum-）」「（一分一秒の淀みもなく、越えられない線を）書き引く（-scribe / Scribere）」。それは単なる「枠」ではありません。あなたが宇宙の「無制限たるカオス」を拒絶（レジスト）し、そこに「ここから先はお前の領域ではない」という強烈な『境界（ステーション）』をコンバートした、自由の「封じ込め」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "導きと定着の軌跡。",
+		"example": "Leadership is the art of shaping the future.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の指針。"
+			]
+		}
+	},
+	{
+		"id": "positive",
+		"word": "肯定的な、前向きな、確実な、ポジティブ",
+		"meaning": "肯定的な",
+		"era": "Latin ponere",
+		"etymology": {
+			"components": [
+				"ponere (to put/place)"
+			],
+			"original_statement": "From Latin positivus 'settled by agreement / positive vs natural', from positus, past participle of ponere. Reached meaning 'absolute / affirmative' in late 15c."
+		},
+		"concept": "Firmly placed / Settled (しっかりと置かれた、確固たる（肯定的な）。曖昧な『疑念の霧（ノイズ）』に対し、これは無でもマイナスでもなく、間違いなくここに質量を持って存在（プラス）なのだと、力技で一撃の杭を打ち込む絶対的肯定)",
+		"thinking": "「（それが本当にあるのかどうか迷うことをやめ）、ここに確かに存在すると（一撃の情熱をもって）置かれた（Posit- / Ponere）」「（疑いようのない）品質（-ive）」。それは単なる「明るい気分」ではありません。あなたが宇宙の「虚無への引きずり込み（アブセンス）」を全身霊で跳ね返し、光のベクトルをこの荒野に「在る」と強力に設定する、意志の「確定」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "導きと定着の軌跡。",
+		"example": "Leadership is the art of shaping the future.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の指針。"
+			]
+		}
+	},
+	{
+		"id": "purpose",
+		"word": "目的、意図、パーパス",
+		"meaning": "目的",
+		"era": "Latin pro + ponere (via French)",
+		"etymology": {
+			"components": [
+				"pro- (forth)",
+				"ponere (to put)"
+			],
+			"original_statement": "From Old French porpos 'an aim / intention', from porposer 'to put forth', from por- (from pro- 'forth') + poser 'to place'."
+		},
+		"concept": "Something put forth (前へ置かれたもの（目的）。荒野（カオス）の中をただ彷徨う『無意味な生存（ステイシス）』を拒絶（レジスト）し、遙かな未来の地平に一撃の『絶対到達点（光の王座）』を力技で設置し、すべての命の軌道をそこへ向かわせる極北の星)",
+		"thinking": "「（自分がどこへ進むべきかの標として）、はるか前方に（Pur- / Pro-）」「（一分一秒の淀みもなく）置かれた目標（-pose / Ponere）」。それは単なる「ねらい」ではありません。あなたが「エントロピーによる散逸」を自らの意志で粉砕し、命の燃料（ブレス）を燃やし尽くすに足る「存在の究極の理由（ロゴス）」をこの宇宙に屹立させた、魂の「羅針盤」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "導きと定着の軌跡。",
+		"example": "Leadership is the art of shaping the future.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の指針。"
+			]
+		}
 	}
 ];
