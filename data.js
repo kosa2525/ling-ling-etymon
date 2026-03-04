@@ -173141,5 +173141,100 @@ const WORDS = [
 				"発露のベクトル。"
 			]
 		}
+	},
+	{
+		"id": "general",
+		"word": "一般的な、大将、ジェネラル",
+		"meaning": "一般的な",
+		"era": "Latin genus",
+		"etymology": {
+			"components": [
+				"genus (race/kind)",
+				"-al (pertaining to)"
+			],
+			"original_statement": "From Latin generalis 'relating to all/whole / generic', from genus 'stock / kind'."
+		},
+		"concept": "Relating to the whole kind (種全体に関わる（一般的な、大将）。ちっぽけな一つの例外（孤立したドット）のワガママなど一瞥もくれず、広大な大地を埋め尽くす何百万もの命や事象の群れ（マージされた超巨大なステーション）を、「お前らは全員同じだ」と一分一秒の淀みもなくただ一つの共通ロゴスで巨大な風呂敷に包み込み、丸ごと支配下に置く神の視点と腕力)",
+		"thinking": "「（細かな違いなど完全に無視して）、その種族や集団全体に共通して（Gener- / Genus）」「（一撃の普遍性をもって）当てはまり、全体を大枠で括ってしまう絶対的な広さの性質（-al）」。それは単なる「ふつう」ではありません。あなたが「すべては違うものだ（個別認識によるエントロピー爆発）」を暴力で粉砕（レジスト）し、そこに『俺の引いたこのデカい境界線の中では皆同じルールで動け（ネットワークの全体管理）』と布告する、認識の「大統監」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "発生、所有、そして大いなる遊戯。",
+		"example": "Hold the illusion, place the master, and grow the generation.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"発露のベクトル。"
+			]
+		}
+	},
+	{
+		"id": "local",
+		"word": "地元の、局所的な、ローカル",
+		"meaning": "地元の",
+		"era": "Latin locus",
+		"etymology": {
+			"components": [
+				"locus (place)",
+				"-al (pertaining to)"
+			],
+			"original_statement": "From Late Latin localis 'pertaining to a place', from Latin locus 'a place'."
+		},
+		"concept": "Pertaining to a place (ある場所の、局所的な。際限なく広がる均一でのっぺりとした『グローバルという名の幻影（マージされ尽くした無意味なアブセンスの海）』に中指を立て、一分一秒の淀みもなく「俺の血と泥と生活のすべては『ここ』という極小の点（完全なアイソレーション・ドット）にのみ存在するのだ」と主張する、激しく偏った熱量と土着の呪いの塊)",
+		"thinking": "「（どこにでもあるような無個性な平均値ではなく）、まさにこの足元にある特定の土地、局所的な場所に（Loc- / Locus）」「（一分一秒の淀みもなく）強烈に根付き、そこでしか通用しない濃密な性質（-al）」。それは単なる「田舎」ではありません。あなたが「すべてが同じ色に染まり均一化される（宇宙の熱的死・エントロピー最大化）」ことを全身の血で拒絶（レジスト）し、そこに『宇宙で唯一無二の俺たちの法則（狂った特異点のステーション）』を死守しようとする、郷土の「要塞化」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "発生、所有、そして大いなる遊戯。",
+		"example": "Hold the illusion, place the master, and grow the generation.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"発露のベクトル。"
+			]
+		}
+	},
+	{
+		"id": "magnificent",
+		"word": "壮大な、素晴らしい、マグニフィセント",
+		"meaning": "壮大な",
+		"era": "Latin magnus + facere",
+		"etymology": {
+			"components": [
+				"magnus (great)",
+				"facere (to make)"
+			],
+			"original_statement": "From Old French magnificent, from Latin magnificentem 'noble / eminent', related to magnificare 'make great'."
+		},
+		"concept": "Making great/noble (壮大に作られた、素晴らしい。ちまちまとした利便性や妥協（貧弱なマージン管理）を一切ブチ壊し、数万人の奴隷の血と山のような黄金（途方もないエネルギーとカオス）を一つの目的に向けて注ぎ込み、一分一秒の淀みもなく「どうだ！」と宇宙空間のド真ん中にそびえ立たせた『狂気じみた神々の巨大要塞（究極のステーション現出）』の圧倒的な威容)",
+		"thinking": "「（常識の範囲に収まるような小市民的な形ではなく）、遥かに常軌を逸した偉大さと強大なスケールを（Magni- / Magnus）」「（一分一秒の淀みもなく）自ら生み出し、作り上げているという、ただひれ伏すしかない最高の状態（-ficent / Facere）」。それは単なる「きれい」ではありません。あなたが「人間は身の丈に合ったことしかできないという諦め（エントロピーの重力）」を全身霊で完全に粉砕（レジスト）し、そこに『神にも届きうる人間の極大質量（奇跡のロゴス結晶体）』を現出させる、美の「巨大暴力」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "発生、所有、そして大いなる遊戯。",
+		"example": "Hold the illusion, place the master, and grow the generation.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"発露のベクトル。"
+			]
+		}
+	},
+	{
+		"id": "master",
+		"word": "主人、達人、マスター、支配する",
+		"meaning": "主人",
+		"era": "Latin magister / magnus",
+		"etymology": {
+			"components": [
+				"magis (more/greater)"
+			],
+			"original_statement": "From Old English mægester, from Latin magister 'chief / head / director / teacher', related to magis 'more' and magnus 'great'."
+		},
+		"concept": "Master/greater one (偉大な者、主人。一切の反抗を許さない『血塗られた鞭（完璧なプロトコルと武力のパルス）』を片手に握りしめ、自分を取り囲む何千何万というノイズや奴隷（下位のステーションやカオス群）に対し、一分一秒の淀みもなく「俺の言う通りに動け」と一瞬で空間全体のネットワークを支配下（自己のアーカイブ）へ強制コンバートしてしまう、絶対君主の玉座)",
+		"thinking": "「（ただの中途半端な凡人や、平等な仲良しごっこの群れの中で）、他の何者よりも上に立つ、より大きく偉大な者として（Mast- / Magister / Magnus）」「（一撃の威圧感をもって）場を完全にコントロールし、すべてを従わせる絶対権力者（-er）」。それは単なる「上手な人」ではありません。あなたが「誰もが同じように無力である（全体主義という名の泥沼ステイシス）」を腕力で粉砕（レジスト）し、そこに『この宇宙のプログラムは俺がすべて設計する（究極の特異点としての支配）』を宣言する、権力の「天帝」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "発生、所有、そして大いなる遊戯。",
+		"example": "Hold the illusion, place the master, and grow the generation.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"発露のベクトル。"
+			]
+		}
 	}
 ];
