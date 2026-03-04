@@ -171216,5 +171216,379 @@ const WORDS = [
 				"存在の具現。"
 			]
 		}
+	},
+	{
+		"id": "animal",
+		"word": "動物、生き物、獣、卑俗な人",
+		"era": "Latin anima",
+		"etymology": {
+			"components": [
+				"anima (breath / soul)",
+				"-al (related to)"
+			],
+			"original_statement": "From Latin animalis 'having breath / living', from anima 'breath / soui'."
+		},
+		"concept": "Being that has breath (息を持つもの、あるいは生命。宇宙のカオスに浮かび上がった孤独な『肉体（ビークル）』に対し、あの日呼ばれた奇跡（トーン）という名の設計図が物理的にマージされ、一分一秒の淀みもなく引力磁場を維持し続ける峻烈な標高)",
+		"thinking": "「（このがんじがらめのネットワーク（フロー）を粉砕（デストラクト）して）、（一撃の情熱（アトラクション）を伴って）息づくもの、魂あるもの（Anim- / Anima）」。それは単なる「生き物（マテリアル）」ではありません。あなたが宇宙の「不在（アブセンス）」を拒絶（レジスト）し、自分の呼吸（ブレス）を一振りの「刃（ベクトル）」へと研ぎ澄ませて、この荒野を一糸乱れぬ「生命の旋律」で支配し通している（パシストしている）際の、存在の最高度の「鮮度」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "生命と理性の軌跡。",
+		"example": "Life is the reason of the soul.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の息吹。"
+			]
+		}
+	},
+	{
+		"id": "unanimous",
+		"word": "満場一致の、異口同音の",
+		"era": "Latin unus + anima",
+		"etymology": {
+			"components": [
+				"unus (one)",
+				"anima (mind / soul)"
+			],
+			"original_statement": "From Latin unanimus 'of one mind', from unus 'one' + animus 'mind / spirit / soul'."
+		},
+		"concept": "Of one mind (一つの心（魂）の。複数の孤独な『主権（ステータス）』が一つの絶対的な真実（ロゴス）の下に一気に同期（マージ）され、宇宙のアーカイブの上に一つの『不滅の王座（オーダー）』として峻烈に屹立した遷移)",
+		"thinking": "「（各自の孤独なドメイン（領土）から、一撃の目的（ターゲット）を伴って）、一つの（Un- / Unus）」「魂へと、あるいは心へと（Anim- / Anima）」「という、完璧な調和の状態（-ous）」。それは単なる「合意」ではない。あなたが宇宙の「分離（アイソレーション）」を拒絶（レジスト）し、そこに自分たちが放つ「不滅のネットワーク」という名の設計図を打ち立て、全世界を「一つの巨大な旋律（トーン）」へと書き換え（アップデート）終えた際の、魂の最高度の「デリバリー」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "生命と理性の軌跡。",
+		"example": "Life is the reason of the soul.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の息吹。"
+			]
+		}
+	},
+	{
+		"id": "animosity",
+		"word": "強い恨み、敵意、憎しみ",
+		"era": "Latin animus",
+		"etymology": {
+			"components": [
+				"animus (spirit / mind)",
+				"-ity (state)"
+			],
+			"original_statement": "From Middle French animosité, from Late Latin animositatem 'boldness / vehemence / spirit / wrath', from Latin animosus 'spirited / bold', from animus 'spirit / courage / mind / wrath'."
+		},
+		"concept": "Vehemence of spirit (魂の激しさ、あるいは敵意。自らの王座（ステーション）を穢す『他者の設計図（ミスチーフ）』に対し、主権という名の冷徹なメスによって一気に『拒絶（レジスト）』という名の咆哮を射出し、存在の火花（ロゴス）を散らす峻烈な標高)",
+		"thinking": "「（宇宙という名の広大なキャンバスの上に、自分の筆致（スクリプト）を示すために）、激しい心を持って（Anim- / Animus）」「（一分一秒の淀みもなく）敵対し、火花を散らす状態（-osity）」。それは単なる「嫌い（ソフト）」ではありません。あなたが、宇宙という名のアーカイブの上に刻まれる唯一の「主権者（クリエイター）」であることを譲らず、不条理という名の「ゴミ（ノイズ）」を粉砕し終えた際の、存在の最も峻烈で、最も清らかな「凱旋」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "生命と理性の軌跡。",
+		"example": "Life is the reason of the soul.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の息吹。"
+			]
+		}
+	},
+	{
+		"id": "ani-voice",
+		"word": "Ani@Voice",
+		"meaning": "生きる声、沈黙を生命に変える不滅の咆哮、息吹の響き",
+		"era": "Latin anima + vox",
+		"etymology": {
+			"components": [
+				"ani (breath / life / soul / spirit)",
+				"voice (sound / soul)"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "The life-breath sound (命としての音。放たれた瞬間、自らの呼吸（ブレス）を一筋の『光の矢（ベクトル）』へと変換（コンバート）し、宇宙という真理のアーカイブの一角を、永遠に躍動させるデリバリー)",
+		"thinking": "「（自分のちっぽけな存在（ドット）の中に眠っていた、あの巨大な真理を）、（一撃の凱旋（アトラクション）を伴って）叫ぶ、命の声（Vox）」。ただの「叫び（エキスペル）」ではない。その声が響いた瞬間、聴く者は、自分の内なる『重力の壁』が物理的に粉砕（デストラクト）され、強制的に『生き続ける標高（アヴァン）』という名の巨大な光の中へと引き摺り込まれ、自らの呼吸（ブレス）を、あなたの『不滅の旋律（トーン）』へと同調（マージ）させざるを得なくなるような、生の最も峻烈な『射出』の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "生命と理性の軌跡。",
+		"example": "Life is the reason of the soul.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の息吹。"
+			]
+		}
+	},
+	{
+		"id": "ani-life",
+		"word": "Ani@Life",
+		"meaning": "生命としての生、一瞬一瞬を自己躍動の遷移として生きる一生",
+		"era": "Latin anima + Germanic life",
+		"etymology": {
+			"components": [
+				"ani (breath / life / soul / spirit)",
+				"life"
+			],
+			"original_statement": "Coined during synthesis."
+		},
+		"concept": "The life of the soul (魂であり続ける一生。一つの場所に安住する（アイソレーション）のを拒絶し、常に宇宙の最新の標高（アヴァン）へと自らを更新し続け、不滅 of 物語（スクリプト）を描き続ける不屈の遷移)",
+		"thinking": "「（明日という名の絶望（ブラックアウト）を愛撫するのをやめ、宇宙の深淵（ソース）から飛来する理知（ロゴス）だけを）」「（自らの魂を礎（ベース）にして）息吹き続け、躍動し続け（Ani- / Anima）」「生き抜く（Life）」。あなたは自分の「呼吸（ブレス）」を、ただ無為に「消費（エキスペンド）」しているのではない。あなたが今日という日、どの「欺瞞（ノイズ）」を砕いて「新しい真理という名の座標（ドット）」を救い出し、どの「驚愕（パルス）」を自らの主権（ステータス）を屹立させるための「不動（ピース）」へと変貌（コンバート）させたか。そのすべての「躍動（デリバリー）」の軌跡が、宇宙という名の不変 of アーカイブの上に、あなたの「存在という名の不滅 of ロゴス」として、物理的な質量を持って刻まれ続けているのだ。生命としての生。それは、あなたが「宇宙の主権者（クリエイター）」として、この荒野を「美しき変革（ピース）」へと変容させ通した際の、魂の最高度の「抱擁」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "生命と理性の軌跡。",
+		"example": "Life is the reason of the soul.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の息吹。"
+			]
+		}
+	},
+	{
+		"id": "vital",
+		"word": "生命の、不可欠な、活力に満ちた",
+		"era": "Latin vita",
+		"etymology": {
+			"components": [
+				"vita (life)",
+				"-al (related to)"
+			],
+			"original_statement": "From Old French vital, from Latin vitalis 'pertaining to life', from vita 'life'."
+		},
+		"concept": "Related to life (命に関する品質。宇宙のカオスに浮かび上がった孤独な『座標（ドット）』に対し、自らの『ロゴス（正義）』という名の刃を差し込み、常に『不滅の形式（フォーム）』としてそれを制御し続けられる唯一無二の標高)",
+		"thinking": "「（この虚無という名の、あの冷酷な絶壁の上に、自分の足場（スタンド）を構築するために）、命そのもの（Vit- / Vita）」「という、不屈の品質（-al）」。それは単なる「大事（ソフト）」ではありません。あなたが宇宙の「不在（アブセンス）」を拒絶（レジスト）し、そこに自分という名の「唯一の不滅の設計図（スクリプト）」を打ち立て、全世界の断片を「自分のための不滅のトーン」へと変容（コンバート）させてしまった瞬間の、生の最高度の「掌握」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "生命と理性の軌跡。",
+		"example": "Life is the reason of the soul.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の息吹。"
+			]
+		}
+	},
+	{
+		"id": "vitamin",
+		"word": "ビタミン",
+		"era": "Latin vita + amine",
+		"etymology": {
+			"components": [
+				"vita (life)",
+				"amine"
+			],
+			"original_statement": "Coined in 1912 by Casimir Funk from Latin vita 'life' + English amine 'vital amine' (since it was originally thought to be an amine)."
+		},
+		"concept": "Amine of life (命（生活）に不可欠なもの。主権という名の『王座（ステーション）』を維持するために、自らの知性という名の『一撃の鉄槌（ロゴス）』によって外部から受理すべき、不滅の質量（ウェイト）を伴った構成要素)",
+		"thinking": "「（自らの呼吸（ブレス）を一分一秒の淀みもなく守り抜くために）、命を支える（Vit- / Vita）」「不変のアセット（-amin / Amine）」。それは単なる「栄養素」ではない。あなたが「宇宙の主権者（クリエイター）」として、自分の神殿（インテグリティ）を「完璧な鮮度（トーン）」で維持し通す（パシストする）ために、過去の残滓を粉砕（デストラクト）し続けるための、魂の最も峻烈な「燃料」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "生命と理性の軌跡。",
+		"example": "Life is the reason of the soul.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の息吹。"
+			]
+		}
+	},
+	{
+		"id": "survive",
+		"word": "生き残る、(……より)長生きする、生き延びる、サバイバル",
+		"era": "Latin super + vivere",
+		"etymology": {
+			"components": [
+				"sur- / super- (over / beyond)",
+				"vivere (to live)",
+				"vita (life)"
+			],
+			"original_statement": "From Middle French survivre, from Latin supervivere 'to outlive', from super- 'over / beyond' + vivere 'to live'."
+		},
+		"concept": "Living beyond (（困難を越えて）その先を生きること。宇宙のあらゆる『暴力（カオス）』という名の津波に対しても、自らの主権（ステータス）という名の神殿を一糸乱れぬ標高（ステータス）において維持し続け、存在を通し（パシストし）続けている凱旋)",
+		"thinking": "「（周囲のすべてが崩落し、カオスへと滑落していく、そのただ中で）、その高みを越えて（Sur- / Super-）」「（一分一秒の淀みもなく）生き続ける、通し抜く（Vive- / Vivere）」。それは単なる「延命」ではありません。あなたが宇宙の「腐敗（ノイズ）」を拒絶（レジスト）し、自らの呼吸（ブレス）を一振りの「刃（ベクトル）」へと研ぎ澄ませて、この荒野を自分という名の「不滅の旋律（トーン）」で支配し通している際の、生の最も峻烈な「凱旋」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "生命と理性の軌跡。",
+		"example": "Life is the reason of the soul.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の息吹。"
+			]
+		}
+	},
+	{
+		"id": "vivacity",
+		"word": "快活、活気、生き生きとしていること",
+		"era": "Latin vivere",
+		"etymology": {
+			"components": [
+				"vivere (to live)",
+				"-acity (state / tendency)"
+			],
+			"original_statement": "From Middle French vivacité, from Latin vivacitatem 'vitality / vigor / spirit', from vivax (genitive vivacis) 'long-lived / vigorous / animated', from vivere 'to live'."
+		},
+		"concept": "Spirit of living (生き生きとした品質。内なる『深淵（ソース）』から湧き出る不滅の真実（ロゴス）が、自らの肉体の拍動という名の引力（グラビティ）を伴って、全世界に一撃の咆哮として射出され続けている最高度の鮮度)",
+		"thinking": "「（昨日までの自分という名の、あの不透明なフローを粉砕して）、（一撃の情熱を伴って）生き生きとした、力強い（Viv- / Vivere）」「という完了した確定の状態（-acity）」。それは単なる「元気（ソフト）」ではありません。あなたが宇宙の「停滞（ステイシス）」を拒絶（レジスト）し、そこに自分という名の「唯一無二の光源（センター）」を打ち立て、全世界の断片を「自分のための不滅のトーン」へと変容（コンバート）させて（屹立させて）しまった瞬間の、魂の最高度の「デリバリー」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "生命と理性の軌跡。",
+		"example": "Life is the reason of the soul.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の息吹。"
+			]
+		}
+	},
+	{
+		"id": "viv-voice",
+		"word": "Viv@Voice",
+		"meaning": "生きる声、沈黙を活力に変える不滅の咆哮、鮮振の響き",
+		"era": "Latin vivere + vox",
+		"etymology": {
+			"components": [
+				"viv (life / live / vivacious)",
+				"voice (sound / soul)"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "The living sound (生きるための音。放たれた瞬間、自らの呼吸（ブレス）を一筋の『光の旋律（ベクトル）』へと変換（コンバート）し、聴く者の魂に不滅の躍動を刻み込むデリバリー)",
+		"thinking": "「（自分のちっぽけな存在（ドット）の中に眠っていた、あの巨大な真理を）、（一撃の情熱（アトラクション）を伴って）叫ぶ、命の声（Vox）」。ただの「情報（データ）」のデバリーではない。その声が響いた瞬間、周囲を覆っていた「虚無（アブセンス）」が物理的に一掃され、そこに「誰もが見落としていたたった一つの命の意味」が、戦慄という名のトーン（響き）を伴って再屹立（リリー・スタンド）してしまうような、生の最も峻烈な「射出」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "生命と理性の軌跡。",
+		"example": "Life is the reason of the soul.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の息吹。"
+			]
+		}
+	},
+	{
+		"id": "viv-life",
+		"word": "Viv@Life",
+		"meaning": "生生としての生、一瞬一瞬を自己鮮新の遷移として生きる一生",
+		"era": "Latin vivere + Germanic life",
+		"etymology": {
+			"components": [
+				"viv (life / live / vivacious)",
+				"life"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "The life of living (生き続ける一生。一つの場所に安住する（アイソレーション）のを拒絶し、常に宇宙の最新の標高（アヴァン）へと自らを更新し続け、不滅 of 物語（スクリプト）を描き続ける不屈の遷移)",
+		"thinking": "「（明日という名の絶望（ブラックアウト）を愛撫するのをやめ、宇宙の深淵（ソース）から飛来する理知（ロゴス）だけを）」「（自らの魂を礎（ベース）にして）生き続け、躍動し続け（Viv- / Vivere）」「生き抜く（Life）」。あなたは自分の「呼吸（ブレス）」を、ただ無為に「消費（エキスペンド）」しているのではない。あなたが今日という日、どの「欺瞞（ノイズ）」を砕いて「新しい真理という名の座標（ドット）」を救い出し、どの「驚愕（パルス）」を自らの主権（ステータス）を屹立させるための「不動（ピース）」へと変貌（コンバート）させたか。そのすべての「躍動（デリバリー）」の軌跡が、宇宙という名の不変 of アーカイブの上に、あなたの「存在という名の不滅 of ロゴス」として、物理的な質量を持って刻まれ続けているのだ。生生としての生。それは、あなたが「宇宙の主権者（クリエイター）」として、この荒野を「美しき変革（ピース）」へと変容させ通した際の、魂の最高度の「抱擁」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "生命と理性の軌跡。",
+		"example": "Life is the reason of the soul.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の息吹。"
+			]
+		}
+	},
+	{
+		"id": "irrational",
+		"word": "理性を欠いた、不合理な、非理性的な",
+		"era": "Latin in + ratio",
+		"etymology": {
+			"components": [
+				"in- (not / non-)",
+				"ratio / rationis (reason / account)"
+			],
+			"original_statement": "From Latin irrationalis 'not based on reason', from in- 'not' + rationalis, from ratio 'reason'."
+		},
+		"concept": "Not based on reason (理性を欠いたこと。独自の『ロゴス（輪郭）』を失った情報の断片が一つの器（カオス）の中に無秩序に流し込まれ、自らの圧倒的な引力（グラビティ）を喪失してしまっている、知性の最も危うい崩落)",
+		"thinking": "「（一つの座標（ドット）の上に屹立すべき、あの峻烈な真理を粉砕して）、理性なしに、あるいは反して（Ir- / In- -ration- / Ratio）」。それは単なる「馬鹿げた（ソフト）」ではありません。あなたが宇宙の「整合性（ピース）」を拒絶（レジスト）し、自らの呼吸（ブレス）を「感情という名の毒（ノイズ）」へと変換（コンバート）させて、この荒野を「ただの泥沼（アーカイブ）」へと書き換えてしまった際の、魂の最も危うい「崩落」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "生命と理性の軌跡。",
+		"example": "Life is the reason of the soul.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の息吹。"
+			]
+		}
+	},
+	{
+		"id": "ratify",
+		"word": "批准する、承認する、確認する",
+		"era": "Latin ratio + facere",
+		"etymology": {
+			"components": [
+				"ratio (reason / calculation / account)",
+				"facere (to make)"
+			],
+			"original_statement": "From Medieval Latin ratificare 'to confirm', literally 'to make valid / certain', from Latin ratus 'fixed / settled', past participle of reri 'to think / reckon', related to ratio + facere 'to make'."
+		},
+		"concept": "To make fixed / certain / reasoned (確定させる、あるいは法的な計算をもって承認すること。主権という名の『王座（ステーション）』から放たれる一撃の決定。宇宙のアーカイブに対し、自らの『ロゴス（合意）』を、不動の質量を伴って屹立させること)",
+		"thinking": "「（この騒がしいネットワーク（ノイズ）のただ中にあって、あまりにも峻烈な真理（ソース）を一瞬で視認し）、正当な理由をもって（Rati- / Ratio）」「（一分一秒の淀みもなく）確定させる、作り上げる（-fy / Facere）」。それは単なる「サイン（ソフト）」ではありません。あなたが宇宙の「不整合（ノイズ）」を拒絶（レジスト）し、そこに自分という名の「唯一の不滅の法」による厳密な「支配という名の秩序」を打ち立て、屹立（スタンド）させ通した（パシストした）際の、知性の最も峻烈な「掌握」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "生命と理性の軌跡。",
+		"example": "Life is the reason of the soul.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の息吹。"
+			]
+		}
+	},
+	{
+		"id": "ration",
+		"word": "割り当て、配給量、定額、(……を)制限配給する",
+		"era": "Latin ratio",
+		"etymology": {
+			"components": [
+				"ratio / rationis (calculation / reckoning)"
+			],
+			"original_statement": "From Latin rationem 'calculation / reckoning', specifically 'fixed amount / portion'."
+		},
+		"concept": "Calculation / Portion (計算、あるいは割り当てられた量。有限という名の『物理的な等価物（アセット）』に対し、自らの秩序（ロゴス）という名のメスによって一気に境界線を引き、各標高（ステータス）を本来あるべき『比率』へと峻烈に配置すること)",
+		"thinking": "「（宇宙という名の広大な荒野に、自分たちの足場（スタンド）を構築するために）、計算された量（Ration- / Ratio）」。それは単なる「食料品」ではない。あなたが宇宙の「不整合（ノイズ）」を拒絶（レジスト）し、そこに自分という名の「唯一の不滅のコンパス」による厳密な「設計図（スクリプト）」を打ち立て、屹立（スタンド）させ通している際の、知性の最高度の「調整」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "生命と理性の軌跡。",
+		"example": "Life is the reason of the soul.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の息吹。"
+			]
+		}
+	},
+	{
+		"id": "rat-voice",
+		"word": "Rat@Voice",
+		"meaning": "理性の声、沈黙を計算に変える不滅の咆哮、論理の響き",
+		"era": "Latin ratio + vox",
+		"etymology": {
+			"components": [
+				"rat (reason / calculation / cause / account)",
+				"voice (sound / soul)"
+			],
+			"original_statement": "Coined during synthesis."
+		},
+		"concept": "The reasoned sound (理性としての音。放たれた瞬間、自らの呼吸（ブレス）を一筋の『光の旋律（ベクトル）』へと変換（コンバート）し、聴く者の標高（ステータス）を強制的に再編（論理化）するデリバリー)",
+		"thinking": "「（自分のちっぽけな存在（ドット）の中に眠っていた、あの巨大な真理を）、（一撃の情熱（アトラクション）を伴って）叫ぶ、理性の声（Vox）」。ただの「情報（データ）」のデバリーではない。その声が響いた瞬間、聴く者は、自分の内なる『重力の壁』が物理的に粉砕（デストラクト）され、強制的に『論理的な標高（アヴァン）』という名の巨大な光の中へと引き摺り込まれ、自らの呼吸（ブレス）を、あなたの『不滅の旋律（トーン）』へと同調（マージ）させざるを得なくなるような、生の最も峻烈な『射出』の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "生命と理性の軌跡。",
+		"example": "Life is the reason of the soul.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の息吹。"
+			]
+		}
+	},
+	{
+		"id": "rat-life",
+		"word": "Rat@Life",
+		"meaning": "理性としての生、一瞬一瞬を自己論理の遷移として生きる一生",
+		"era": "Latin ratio + Germanic life",
+		"etymology": {
+			"components": [
+				"rat (reason / calculation / cause / account)",
+				"life"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "The life of reason (計算し続ける一生。一つの場所に安住する（アイソレーション）のを拒絶し、常に宇宙の最新の標高（アヴァン）へと自らを更新し続け、不滅 of 物語（スクリプト）を描き続ける不屈の遷移)",
+		"thinking": "「（明日という名の絶望（ブラックアウト）を愛撫するのをやめ、宇宙の深淵（ソース）から飛来する理知（ロゴス）だけを）」「（自らの魂を礎（ベース）にして）計算し続け、理を貫き続け（Rat- / Ratio）」「生き抜く（Life）」。あなたは自分の「呼吸（ブレス）」を、ただ無為に「消費（エキスペンド）」しているのではない。あなたが今日という日、どの「欺瞞（ノイズ）」を砕いて「新しい真理という名の座標（ドット）」を救い出し、どの「驚愕（パルス）」を自らの主権（ステータス）を屹立させるための「不動（ピース）」へと変貌（コンバート）させたか。そのすべての「論理（デリバリー）」の軌跡が、宇宙という名の不変 of アーカイブの上に、あなたの「存在という名の不滅 of ロゴス」として、物理的な質量を持って刻まれ続けているのだ。理性としての生。それは, あなたが「宇宙の主権者（クリエイター）」として, この荒野を「美しき変革（ピース）」へと変容させ通した際の, 魂の最高度の「抱擁」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "生命と理性の軌跡。",
+		"example": "Life is the reason of the soul.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の息吹。"
+			]
+		}
 	}
 ];
