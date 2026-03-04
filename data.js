@@ -162857,5 +162857,622 @@ const WORDS = [
 				"未知の語源、既知の感動。"
 			]
 		}
+	},
+	{
+		"id": "cap",
+		"word": "Cap",
+		"meaning": "帽子、ふた、上限、……にふたをする",
+		"era": "Latin caput",
+		"etymology": {
+			"components": [
+				"caput (head)"
+			],
+			"original_statement": "From Old English cæppe 'hood / cap', from Late Latin cappa 'hood / head-covering', probably from caput 'head'."
+		},
+		"concept": "Head covering (頭を覆うもの。一人の『個』を確定させるための輪郭)",
+		"thinking": "「頭（Caput）」に載せるもの。それは自分の思考（ブレイン）を外部のノイズから守る「防壁（ガード）」であり、同時に自分が何者であるかを示す「標識（サイン）」でもある。キャップをすることは、あなたが自分の能力の「限界（リミット）」を定める（ディサイド）ことでもありますが、それは溢れ出すカオスを一つの「器」に閉じ込め、確固たる「形（ステータス）」として屹立させるための、知的な自制の型でもあるのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Everyday words carry history in their roots.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"日常に潜む、壮大な語源。"
+			]
+		}
+	},
+	{
+		"id": "cabbage",
+		"word": "Cabbage",
+		"meaning": "キャベツ、(俗語)現金",
+		"era": "Latin caput",
+		"etymology": {
+			"components": [
+				"caput (head)"
+			],
+			"original_statement": "From Old French caboche 'head', from caput 'head'."
+		},
+		"concept": "Head-shaped plant (頭の形をした果実。葉が幾重にも重なった密度の中心)",
+		"thinking": "「（野菜界の）頭（Caput）」。その姿は、まるで脳（ブレイン）の構造を模したかのように、幾重にも重なる「経験（葉）」が、一つの「核（コア）」を大切に守り、凝縮（コンテイン）されている様子に似ている。キャベツという言葉には、一見無骨に見えても、その内側には計算された「秩序（ロゴス）」と、生命を維持するための豊かな「質量（ウェイト）」が詰まっている、という自然のユーモラスな「頭脳」の形が隠されています。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Everyday words carry history in their roots.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"日常に潜む、壮大な語源。"
+			]
+		}
+	},
+	{
+		"id": "captaincy",
+		"word": "Captaincy",
+		"meaning": "主将の職、リーダーシップ",
+		"era": "Latin caput",
+		"etymology": {
+			"components": [
+				"captain (head of the group)",
+				"-cy (state / office)"
+			],
+			"original_statement": "From captain + -cy."
+		},
+		"concept": "State of being a head (頭としての在り方。責任の重みを冠として戴くこと)",
+		"thinking": "「頭（Caput）」であるという「職務、あるいは状態（-cy）」。単に前に立つ（スタンド）ことではありません。それは集団の「迷い（カオス）」を自分の呼吸（ブレス）へと取り込み、それを一つの「方向（ベクトル）」へと変換し続ける、終わりのない知的な重圧。キャプテンシーとは、あなたが自分の「孤独」を武器に変えて、他者の不安を「希望（プロスペクト）」へとリード（導く）し続ける、という魂の献身の形の謂いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Everyday words carry history in their roots.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"日常に潜む、壮大な語源。"
+			]
+		}
+	},
+	{
+		"id": "decapitate",
+		"word": "Decapitate",
+		"meaning": "首をはねる、解雇する、(組織の)トップを解体する",
+		"era": "Latin de + caput",
+		"etymology": {
+			"components": [
+				"de- (off / away)",
+				"caput (head)"
+			],
+			"original_statement": "From Late Latin decapitare, from de- 'off' + caput 'head'."
+		},
+		"concept": "To take the head off (頭を切り離す。統率の根源を断絶する冷酷な一撃)",
+		"thinking": "「（身体から）頭（Caput）を」「切り離す、取り除く（De-）」。それは物理的な命の終わりであると同時に、ある組織（ボディ）からその「意志（ロゴス）」や「方向性」を奪い取り、ただの動かない「肉の塊（死骸）」に変えてしまうこと。トップを解体することは、あなたがその物語の「最高度の主権（パワー）」を無効化し、世界を再び「指導者なきカオス」へと突き落とす（リール）行為なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Everyday words carry history in their roots.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"日常に潜む、壮大な語源。"
+			]
+		}
+	},
+	{
+		"id": "recapitulate",
+		"word": "Recapitulate",
+		"meaning": "要約する、……の要点を繰り返す",
+		"era": "Latin re + caput",
+		"etymology": {
+			"components": [
+				"re- (again)",
+				"caput (head / main point)"
+			],
+			"original_statement": "From Late Latin recapitulare 'to go over the main points of again', from re- 'again' + capitulum 'chapter / main part', diminutive of caput 'head'."
+		},
+		"concept": "Back to the heads again (再び主要な頭へと戻る。迷宮の中での要旨の再確認)",
+		"thinking": "「（煩雑な議論（枝葉）を通り越して）もう一度（Re-）」「主要な見出し、頭（Caput-ule）へと」「立ち戻る」。詳細に溺れ、全体像（ビジョン）を見失いそうになったとき、私たちは再び「何が一番重要（ヘッド）であったか」を確認（コンファーム）し、物語の「骨格」を再構築する。要約（リカピチュレート）とは、あなたが情報の海を整理し、自分の中に「不変の真理（コア）」という名の見出しを打ち直す、知性のための「地図（トラック）」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Everyday words carry history in their roots.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"日常に潜む、壮大な語源。"
+			]
+		}
+	},
+	{
+		"id": "precipitate",
+		"word": "Precipitate",
+		"meaning": "降水、沈殿(物)、突進させる、(悪い事態を)早める",
+		"era": "Latin prae + caput",
+		"etymology": {
+			"components": [
+				"prae- (before)",
+				"caput (head)"
+			],
+			"original_statement": "From Latin praecipitatus 'cast down headlong', from prae- 'before' + caput 'head'."
+		},
+		"concept": "Fallen headfirst (頭から突き落とす。臨界点を超えた一気の落下/現出)",
+		"thinking": "「（思考が追いつく）よりも前に（Prae-）」「頭（Caput）から」「（現象の海へと）突き落とす」。それは、ある反応を我慢（コンテイン）できなくなり、溜まっていたエネルギーが物理的な「形（雨、あるいは沈殿）」となって一気に現出すること。早める（プレシピテート）ことは、あなたが「時間の熟成」という名の猶予を切り捨て、自らの意志を「必然（ファクト）」という名の重力に丸ごと預けてしまう、という峻烈な加速の行為なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Everyday words carry history in their roots.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"日常に潜む、壮大な語源。"
+			]
+		}
+	},
+	{
+		"id": "cape-less",
+		"word": "Cape-less",
+		"meaning": "岬のない、マントのない、遮るもののない",
+		"era": "Latin caput",
+		"etymology": {
+			"components": [
+				"cape (headland / covering)",
+				"-less (without)"
+			],
+			"original_statement": "From cape + -less."
+		},
+		"concept": "Without a headland (頭としての突き出しがない。平穏な、あるいは無防備な広がり)",
+		"thinking": "「（海へと勇気を持って突き出すべき）頭（Cape/Caput）」を「持たない（-less）」。それは、未知の領域への「挑戦（エクプロール）」を拒否し、ただ平坦な内陸の「物語」の中に留まっているという、静止の美学。あるいは、自分を守るための「覆い（マント）」を脱ぎ捨て、剥き出しの「呼吸（ブレス）」そのもので世界と対峙しようとする、究極の「無防備（サレンダー）」の状態。遮るもののなさは、あなたが世界の「全域（ネットワーク）」と、何の境界線（リスペクト）もなく、直接的なコンタクトを望んでいる、という純粋な渇望の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Everyday words carry history in their roots.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"日常に潜む、壮大な語源。"
+			]
+		}
+	},
+	{
+		"id": "manipulate",
+		"word": "Manipulate",
+		"meaning": "操る、巧みに扱う、改ざんする",
+		"era": "Latin manus + plere",
+		"etymology": {
+			"components": [
+				"manus (hand)",
+				"plere (to fill)"
+			],
+			"original_statement": "From Latin manipulatus, from manipulus 'handful / sheaf / bundle', from manus 'hand' + root of plere 'to fill'."
+		},
+		"concept": "A handful (手いっぱいに満たすこと。対象を掌の中ですべて支配し、変質させる)",
+		"thinking": "「（対象を）掌（Manus）の中に」「いっぱいに満たす（Plere-）」。それは相手の自由（フリーダム）を奪い、自分の手のひらという名の「狭い物語」の中だけで、その存在を「都合の良い形」に書き換えて（スクライブ）しまうこと。操る（マニピュレート）という響きには、あなたが他者を「一人の魂」として扱うのをやめ、ただの「素材、あるいは情報の断片」として、自らの欲望（アペタイト）のために消費している、という冷酷な指先の魔法が含まれています。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Everyday words carry history in their roots.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"日常に潜む、壮大な語源。"
+			]
+		}
+	},
+	{
+		"id": "manumission",
+		"word": "Manumission",
+		"meaning": "解放(奴隷の)、自由の付与",
+		"era": "Latin manus + mittere",
+		"etymology": {
+			"components": [
+				"manus (hand)",
+				"mittere (to send)"
+			],
+			"original_statement": "From Latin manumissio 'a freeing of a slave', from manumittere 'to emancipate / release from control', literally 'to send from the hand', from manus 'hand' + mittere 'to send / let go'."
+		},
+		"concept": "Sending from the hand (掌から放つこと。支配という名の握力を緩め、他者を解き放つ自由)",
+		"thinking": "「（自分に従わせていた）手（Manus）から」「（外の世界へと）送り出す（Mittere）」。握りしめていた「所有の欲望（アペタイト）」を自らの意志で解除し、一人の人間を、自分という物語の「一部（マテリアル）」から、自立した一つの「宇宙（ソース）」へと「変換（コンバート）」してあげること。解放（マニュミッション）とは、あなたが「支配」という名の偽りのパワーを捨て、他者の「可能性（ポテンシャル）」という名の風を信じることに決めた、理性の最も気高い「譲歩（コンセッション）」の形なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Everyday words carry history in their roots.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"日常に潜む、壮大な語源。"
+			]
+		}
+	},
+	{
+		"id": "manicure",
+		"word": "Manicure",
+		"meaning": "マニキュア、手の爪の手入れ",
+		"era": "Latin manus + cura",
+		"etymology": {
+			"components": [
+				"manus (hand)",
+				"cura (care)"
+			],
+			"original_statement": "From French manicure, from Latin manus 'hand' + cura 'care'."
+		},
+		"concept": "Care of the hands (手の世話。自己表現の最先端を整える愛着の儀式)",
+		"thinking": "「手（Manus）」への「手入れ、世話（Cura）」。世界と接する唯一のインターフェースである「指先」に、色を灯し、形を整えること。マニキュアとは、単なる虚栄ではなく、あなたが自分の「行動（アクション）」を司るその道具（手）を愛し、一瞬一瞬の世界との「握手（コンタクト）」を、一つの芸術（アート）へと昇華させようとする、自己愛の最も繊細な表明なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Everyday words carry history in their roots.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"日常に潜む、壮大な語源。"
+			]
+		}
+	},
+	{
+		"id": "manner",
+		"word": "Manner",
+		"meaning": "方法、やり方、態度、行儀",
+		"era": "Latin manus",
+		"etymology": {
+			"components": [
+				"manus (hand / behavior)"
+			],
+			"original_statement": "From Old French maniere 'fashion / method / custom / manner', from manus 'hand'."
+		},
+		"concept": "Hand-ling (手の扱い。自分という肉体を世界に対してどのように提示するか、という作法)",
+		"thinking": "「（自分自身を、あるいは道具を）どのように手（Manus）で扱うか」ということ。それは単なる表面的な行儀（ポライトネス）ではなく、あなたが自分の「内なる呼吸（スピリット）」を、どのように物理的な「しぐさ（パルス）」へと変換して他者にデリバリーしているか、という、存在の美学的な「型」。マナーとは、あなたが世界という名の広場で、自分の「屹立（スタンド）」をどれほど優雅に、かつ誠実に保とうとしているか、という魂の立ち居振る舞いのことなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Everyday words carry history in their roots.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"日常に潜む、壮大な語源。"
+			]
+		}
+	},
+	{
+		"id": "maneuver",
+		"word": "Maneuver",
+		"meaning": "巧みな操縦、計略、(軍事)演習",
+		"era": "Latin manus + opera",
+		"etymology": {
+			"components": [
+				"manus (hand)",
+				"opera (work)"
+			],
+			"original_statement": "From French manœuvre 'hand-work / manual labor / maneuver', from Medieval Latin manuopera, from manus 'hand' + opera 'work'."
+		},
+		"concept": "Hand-work (手の仕事。複雑な状況を一撃で解決するための、洗練された指先の動き)",
+		"thinking": "「手（Manus）」による「仕事、あるいは作品（Opera）」。力任せ（パワー）に押し切るのではなく、状況という名の複雑な結び目を、最小限の「動き（ターン）」と最高度の「精度（プリシジョン）」で解き放ち、自らを有利な座標（スタンド）へと導くこと。計略（マニューバー）とは、あなたの「知性（ブレイン）」が「肉体の動作（パルス）」へと完璧に翻訳され、世界を自分の「掌の上（マニピュレート）」で踊らせた際の、最も鮮やかで非情な美の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Everyday words carry history in their roots.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"日常に潜む、壮大な語源。"
+			]
+		}
+	},
+	{
+		"id": "manus-less",
+		"word": "Manus-less",
+		"meaning": "手のない、直接触れられない、非物理的な",
+		"era": "Latin manus",
+		"etymology": {
+			"components": [
+				"manus (hand)",
+				"-less (without)"
+			],
+			"original_statement": "From manus + -less."
+		},
+		"concept": "Without a hand (手を持たないこと。肉体的な介在を介さない、純粋な『意志』の伝播)",
+		"thinking": "「（世界を直接掴むための）手（Manus）」を「持たない（-less）」ということ。それは、あなたが物理的な暴力や労働で現実を変えようとするのをやめ、ただ一言の「言葉（ロゴス）」や「祈り（スピリット）」によって、世界の深層心理（アンダーグラウンド）という名のネットワークに直接アクセスしようとする、高度に精神的な挑戦。手なき（マニュスレス）影響力は、あなたが肉体という「器」の限界を脱し、純粋な「震え（パルス）」として宇宙という空間に遍在し始めた、という透明な実在の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Everyday words carry history in their roots.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"日常に潜む、壮大な語源。"
+			]
+		}
+	},
+	{
+		"id": "pedal",
+		"word": "Pedal",
+		"meaning": "ペダル、足踏みの、踏む",
+		"era": "Latin pes / pedis",
+		"etymology": {
+			"components": [
+				"pes / pedis (foot)"
+			],
+			"original_statement": "From French pédale, from Italian pedale, from Late Latin pedale 'of the foot', from Latin pes (genitive pedis) 'foot'."
+		},
+		"concept": "Of the foot (足に関するもの。地面を蹴る力の入力を司るインターフェース)",
+		"thinking": "「足（Ped-）」で踏むもの。手の繊細な操作（マニュアル）とは対照的に、自分の肉体の中にある最も大きな「重み（ウェイト）」と「推進力（ドライブ）」を、機械という名の「補助輪（アシスト）」へと叩き込むための起点。ペダルを踏むことは、あなたが立ち止まっている（スタンド）状態を自らの意志で破壊し、自分という名の「弾丸」を世界という名の時空へと「射出（デリバリー）」する、最初の力強い「一蹴（キック）」の謂いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Everyday words carry history in their roots.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"日常に潜む、壮大な語源。"
+			]
+		}
+	},
+	{
+		"id": "pedestrian",
+		"word": "Pedestrian",
+		"meaning": "歩行者、徒歩の、退屈な、ありふれた",
+		"era": "Latin pes / pedis",
+		"etymology": {
+			"components": [
+				"pes / pedis (foot)"
+			],
+			"original_statement": "From French pédestre, from Latin pedestris 'on foot / pedestrian / common', from pes 'foot'."
+		},
+		"concept": "On foot (足で行く者。翼なき大地の住人の、着実な、しかし単調な歩み)",
+		"thinking": "「（馬や車を使わず、自らの）足（Ped-）」「で歩く者、あるいは性質（-an）」。それは、一歩一歩の地面の感触（センス）を大切にする誠実な歩みであると同時に、空を飛ぶ鳥や疾走する戦車と比べれば、あまりにも「着実すぎて、驚きのない（プロペル）」状態をも意味する。歩行者（ペデストリアン）という響きには、あなたが非凡な「飛躍（ジャンプ）」をあきらめ、世界の「平凡なリズム（パルス）」の中に自分を溶け込ませている、という静かな停滞への自嘲が混じっています。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Everyday words carry history in their roots.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"日常に潜む、壮大な語源。"
+			]
+		}
+	},
+	{
+		"id": "expedition",
+		"word": "Expedition",
+		"meaning": "遠征、探検旅行、迅速さ",
+		"era": "Latin ex + pes",
+		"etymology": {
+			"components": [
+				"ex- (out)",
+				"pes / pedis (foot)"
+			],
+			"original_statement": "From Latin expeditio 'an enterprise / campaign', literally 'a freeing of the feet', from expedire 'to release the feet / prepare', from ex- 'out' + pes 'foot'."
+		},
+		"concept": "Freeing the feet (足を解き放つこと。日常の足枷を脱し、未知の荒野へと駆け出すこと)",
+		"thinking": "「（自分を縛り付けていた檻の）外へと（Ex-）」「足（Ped-）を解き放ち、踏み出す」。それは単なる旅行（ジャーニー）ではない。あなたが自分を「安全な場所（ステーション）」に繋ぎ止めていた、恐怖や義務という名の「足枷（インペディメント）」を自らの力で引きちぎり、自分の「呼吸（スピリット）」だけを信じて未知の地平線に挑むこと。遠征（エクスペディション）とは、あなたが自分の足で「世界の最先端（ケープ）」に触れる（コンタクト）ための、魂の迅速で果敢な「出立」の謂いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Everyday words carry history in their roots.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"日常に潜む、壮大な語源。"
+			]
+		}
+	},
+	{
+		"id": "impediment",
+		"word": "Impediment",
+		"meaning": "障害(物)、妨げ、身体障害、(特に)言語障害",
+		"era": "Latin in + pes",
+		"etymology": {
+			"components": [
+				"in- (in / on)",
+				"pes / pedis (foot)"
+			],
+			"original_statement": "From Latin impedimentum 'hindrance / baggage / impediment', literally 'a shackling of the feet', from impedire 'to shackle / hinder', from in- 'on' + pes 'foot'."
+		},
+		"concept": "Shackling the feet (足の中に、あるいは足の上に何かを絡みつかせること。不自由な足枷)",
+		"thinking": "「（進もうとする）足（Ped-）の」「中に、あるいは上に（In-）」「（足枷を）はめ込む」こと。走りたい（プロペル）と思っているあなたの意志（ロゴス）に反して、外界の条件、あるいは自分の中の脆さが、あなたの足を「重く、不自由に」させ、その場に「引き留めて（リテイン）」しまうこと。障害（インペディメント）とは、単なる「壁（オブスタクル）」ではなく、あなたが自分という存在の一部として背負わされた「重荷（ウェイト）」そのものが、あなたの自由を「内部（イン-）」から制限している、という皮肉な不自由の謂いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Everyday words carry history in their roots.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"日常に潜む、壮大な語源。"
+			]
+		}
+	},
+	{
+		"id": "pioneer",
+		"word": "Pioneer",
+		"meaning": "先駆者、開拓者、(軍)歩兵",
+		"era": "Latin pes / pedis",
+		"etymology": {
+			"components": [
+				"pes / pedis (foot)"
+			],
+			"original_statement": "From French pionnier 'foot-soldier / pioneer', from pion 'foot-soldier', from Medieval Latin pedonem 'foot-soldier', from Latin pes 'foot'."
+		},
+		"concept": "Foot soldier (歩兵。最前線を自らの足で歩き、土を掘り、道を拓く者)",
+		"thinking": "「自らの（汚れた）足（Ped-）で」「最前線を歩む者（Pion-）」。豪華な馬（エリート）に乗ることなく、誰も踏みしめていない茨の道を一歩ずつ押し固め、後に続く者たちのための「一本道（トラック）」を残していく孤独な作業。先駆者（パイオニア）とは、あなたが言葉による「予言（フォーキャスト）」をやめ、自らの肉体の「重み（ウェイト）」によって、この不毛な荒野（カオス）に「現実（ファクト）」という名の足跡を刻み込み始めた、という最も泥臭く（マテリアル）、最も尊い創造の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Everyday words carry history in their roots.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"日常に潜む、壮大な語源。"
+			]
+		}
+	},
+	{
+		"id": "pedestal",
+		"word": "Pedestal",
+		"meaning": "台座、基壇、……を尊敬の対象にする",
+		"era": "Latin pes + stare",
+		"etymology": {
+			"components": [
+				"pes (foot)",
+				"stare (to stand)"
+			],
+			"original_statement": "From French piédestal, from Italian piedistallo, from piè 'foot' + di 'of' + stallo 'stall / standing place', from stare 'to stand'."
+		},
+		"concept": "Foot standing place (足が立つ場所。価値ある存在を『高く』掲げるための不動の土台)",
+		"thinking": "「足（Ped-）」が「屹立する（Stare-）」「場所」。美しい彫像（スタチュー）が地にまみれぬように、その価値を天空へと引き上げる（アチーヴ）ための理性の「嵩上げ」。台座（ペデスタル）の上に誰かを置くことは、あなたがその対象を「日常のノイズ（歩行者）」から峻別（カット）し、一つの「不滅の美（ステータス）」として自分の心の中に杭打つ（マニフェスト）、という最上級の「敬意（リスペクト）」の表明なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Everyday words carry history in their roots.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"日常に潜む、壮大な語源。"
+			]
+		}
+	},
+	{
+		"id": "pediment",
+		"word": "Pediment",
+		"meaning": "(建築)破風、(芸術的な)三角形の装飾",
+		"era": "Latin pes / pedis",
+		"etymology": {
+			"components": [
+				"pes / pedis (foot / base)"
+			],
+			"original_statement": "Originally periment, perhaps a corruption of pyramid, but influenced by pedestal / pedis 'foot / base'."
+		},
+		"concept": "The base / foot for the roof (屋根の足もと。建物の『顔』を定義する威厳ある骨格)",
+		"thinking": "「（建築という名の巨大な身体の）足、あるいは基部（Ped-）」。それが屋根（ヘッド）の下に置かれるとき、それは単なる支えではなく、その建物がどのような「物語」を背負っているかを示す、最も雄弁な「額郭（フレーム）」となる。破風（ペディメント）とは、あなたが自分の「思考の家」を建てたとき、その最も目立つ場所に「何を自分のルーツ（足もと）として掲げるか」という、美意識の最終的な署名（サイン）なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Everyday words carry history in their roots.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"日常に潜む、壮大な語源。"
+			]
+		}
+	},
+	{
+		"id": "biped",
+		"word": "Biped",
+		"meaning": "二本足の(動物)、二足歩兵",
+		"era": "Latin bis + pes",
+		"etymology": {
+			"components": [
+				"bi- (two)",
+				"pes / pedis (foot)"
+			],
+			"original_statement": "From Latin bipes 'two-footed', from bi- 'two' + pes 'foot'."
+		},
+		"concept": "Two feet (二つの足。空いた両手で世界を『変える』ための、脆弱な自立)",
+		"thinking": "「二つの（Bi-）」「足（Ped-）」。四本足という名の「絶対的な安定（ステイブル）」を捨て、ただ二点という名の「心細い支点（ドット）」の上に自分の全人生を預ける（スタンド）こと。二足歩行（バイペッド）とは、あなたがその不安定（カオス）を受け入れる代わりに、「自由になった手（マニュス）」を使って世界を捏ね上げ（マニュファクチュア）、自らの意志を「高み（ステータス）」へと引き上げることが可能になった、という進化的な「賭け」の姿なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Everyday words carry history in their roots.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"日常に潜む、壮大な語源。"
+			]
+		}
+	},
+	{
+		"id": "centipede",
+		"word": "Centipede",
+		"meaning": "ムカデ、百足",
+		"era": "Latin centum + pes",
+		"etymology": {
+			"components": [
+				"centum (hundred)",
+				"pes / pedis (foot)"
+			],
+			"original_statement": "From Latin centipeda, from centum 'hundred' + pes 'foot'."
+		},
+		"concept": "Hundred feet (百の足。止まることのない移動という名の、執拗なリズム)",
+		"thinking": "「百の（Centum）」「足（Ped-）」。それは一歩一歩の決断（ディサイド）ではなく、もはや「波（ウェーブ）」のように連続する物理的な「疾走（プロセス）」そのもの。ムカデという存在は、あなたが「一つの目的地」へ向かうのをやめ、ただひたすら「世界という空間を移動し尽くす（エクスプロア）」という物理的な盲目（インセンシブル）な力、そのものを形にしたような不気味で美しい有機的な連鎖なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Everyday words carry history in their roots.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"日常に潜む、壮大な語源。"
+			]
+		}
+	},
+	{
+		"id": "expedite",
+		"word": "Expedite",
+		"meaning": "はかどらせる、促進する、迅速に処理する",
+		"era": "Latin ex + pes",
+		"etymology": {
+			"components": [
+				"ex- (out)",
+				"pes / pedis (foot)"
+			],
+			"original_statement": "From Latin expeditus, past participle of expedire 'to release the feet / prepare / make ready', from ex- 'out' + pes 'foot'."
+		},
+		"concept": "To free the feet for speed (足を檻から外へ出し、自由にすること。停滞を破壊する速度の創出)",
+		"thinking": "「（絡みついていた複雑な手続き（足枷）の）外へと（Ex-）」「足（Ped-）を突き出し、一気に駆け走らせる」。ただ流れる（フロー）のを待つのではなく、自らの「意志（パワー）」によって時間の摩擦（フリクション）を最小限にし、目的地の懐へと自分の「身体（マテリアル）」を最短距離でデリバリーすること。促進（エキスペダイト）とは、あなたが「時間の熟成」ではなく「速度の衝撃（インペタス）」によって現実を書き換えよう（スクライブ）とした際の、理性の峻烈な身振りの謂いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Everyday words carry history in their roots.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"日常に潜む、壮大な語源。"
+			]
+		}
+	},
+	{
+		"id": "impediment_less",
+		"word": "Impediment-less",
+		"meaning": "障害のない、円滑な、どこまでも進める",
+		"era": "Latin in + pes",
+		"etymology": {
+			"components": [
+				"impediment (foot-shackle)",
+				"-less (without)"
+			],
+			"original_statement": "From impediment + -less."
+		},
+		"concept": "Without shackles on feet (足に絡みつくものの消失、無限の加速を許す空白)",
+		"thinking": "「（歩みを重くする）足枷（Impediment）」が「存在しない（-less）」ということ。それは、あなたが過去の未練（リテイン）や、周囲からの重圧（サーカムスタンス）を完全に断ち切り（カット）、ただ自分の「純粋な呼吸（ブレス）」だけを燃料にして、どこまでも自分の物語を「疾走（ラン）」させられる、という奇跡的な自由の状態。障害なき（インペディメント・レスな）旅路は、あなたが宇宙という広大なキャンバスを、自らの「意志（ロゴス）」という名の筆だけで、汚されることなく一筆書きに（シーケンス）描き切った、という勝利の記録なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Everyday words carry history in their roots.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"日常に潜む、壮大な語源。"
+			]
+		}
+	},
+	{
+		"id": "quadruped",
+		"word": "Quadruped",
+		"meaning": "四本足の(動物)、四肢動物",
+		"era": "Latin quadru + pes",
+		"etymology": {
+			"components": [
+				"quadru- (four)",
+				"pes / pedis (foot)"
+			],
+			"original_statement": "From Latin quadrupes 'four-footed', from quadru- 'four' + pes 'foot'."
+		},
+		"concept": "Four feet (四つの足。大地と完璧に合致した、盤石なる停滞と疾走)",
+		"thinking": "「四つの（Quadru-）」「足（Ped-）」。それは「考える手（マニュス）」を捨て、自らの肉体を世界の「重力（グラビティ）」という名の地図に、四つの鋲で安定して打ち付ける（スタンド）ことによって得られる、本能（インスティンクト）という名の「迷いなき加速」。四肢動物とは、あなたが自分という「固有の宇宙」を完成させる（アチーヴ）ために、世界という名の「マテリアル」と、最も低い場所で、最も誠実に接し、溶け合っている（マージ）状態の謂いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Everyday words carry history in their roots.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"日常に潜む、壮大な語源。"
+			]
+		}
+	},
+	{
+		"id": "pedis-logic",
+		"word": "Pedis@Logic",
+		"meaning": "足もとの論理、着実な思考のステップ",
+		"era": "Latin pes + Greek logos",
+		"etymology": {
+			"components": [
+				"pedis (foot)",
+				"logic (reason)"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "Logical steps on foot (足による理路の構築、一歩一歩を踏みしめる確実な知性)",
+		"thinking": "「（飛躍や妄想を拒絶し、自らの）足（Pedis）で」「（着実にこの大地を一歩ずつ）踏みしめ、進む」「論理、理路（Logic）」。高い場所から世界を眺める（スペクテート）のをやめ、泥だらけの現実の中に足を踏み入れ（コンタクト）、その感触から一つ一つの「真理（ファクト）」を慎重に拾い上げていくこと。足もとの論理とは、あなたが「奇跡」という名の翼を欲しがるのをやめ、自分という人間（ホモ）が歩める「限界の一歩一歩」を信じ、そこに自分という存在の「全質量（ウェイト）」を託して屹立し続ける（スタンド）、という誠実な知性のスタンスのことなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Everyday words carry history in their roots.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"日常に潜む、壮大な語源。"
+			]
+		}
 	}
 ];
