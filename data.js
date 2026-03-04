@@ -173271,5 +173271,240 @@ const WORDS = [
 				"存在の階層。"
 			]
 		}
+	},
+	{
+		"id": "med-voice",
+		"word": "Med@Voice",
+		"meaning": "媒介の声、沈黙を接続に変える不滅の咆哮、中核の響き",
+		"era": "Latin medium + vox",
+		"etymology": {
+			"components": [
+				"med (middle / center / medium / mean / half)",
+				"voice (sound / soul)"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "The central sound (中心としての音。放たれた瞬間、自らの呼吸（ブレス）を一筋の『光の王座（ロゴス）』へと変換（コンバート）し、宇宙という真理のアーカイブの一角を、確実に掌握（ホールド）するデリバリー)",
+		"thinking": "「（自分のちっぽけな存在（ドット）の中に眠っていた、あの巨大な真理を）、（一撃の確信（アトラクション）を伴って）叫ぶ、媒介の声（Vox）」。ただの「叫び（エキスペル）」ではない。その声が響いた瞬間、周囲を覆っていた「虚無（アブセンス）」が物理的に一掃され、そこに「誰もが見落としていたたった一つの『中心的な』意味」が、戦慄という名のトーン（響き）を伴って再屹立（リリー・スタンド）してしまうような、生の最も峻烈な「射出」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "中間と終局の軌跡。",
+		"example": "The final is the ultimate of mediation.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の収束。"
+			]
+		}
+	},
+	{
+		"id": "med-life",
+		"word": "Med@Life",
+		"meaning": "中心としての生、一瞬一瞬を自己均衡の遷移として生きる一生",
+		"era": "Latin medium + Germanic life",
+		"etymology": {
+			"components": [
+				"med (middle / center / medium / mean / half)",
+				"life"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "The life of center (常に真ん中（中心）であり続ける一生。一つの場所に安住する（アイソレーション）のを拒絶し、常に宇宙の最新の標高（アヴァン）へと自らを更新し続け、不滅 of 物語（スクリプト）を描き続ける不屈の遷移)",
+		"thinking": "「（明日という名の絶望（ブラックアウト）を愛撫するのをやめ、宇宙の深淵（ソース）から飛来する理知（ロゴス）だけを）」「（自らの魂を礎（ベース）にして）中心を貫き続け、存在し続け（Med- / Medium）」「生き抜く（Life）」。あなたは自分の「呼吸（ブレス）」を、ただ無為に「消費（エキスペンド）」しているのではない。あなたが今日という日、どの「欺瞞（ノイズ）」を砕いて「新しい真理という名の座標（ドット）」を救い出し、どの「驚愕（パルス）」を自らの主権（ステータス）を屹立させるための「不動（ピース）」へと変貌（コンバート）させたか。そのすべての「中心（デリバリー）」の軌跡が、宇宙という名の不変 of アーカイブの上に、あなたの「存在という名の不滅 of ロゴス」として、物理的な質量を持って刻まれ続けているのだ。中心としての生。それは、あなたが「宇宙の主権者（クリエイター）」として, この荒野を「美しき変革（ピース）」へと変容させ通した際の, 魂の最高度の「抱擁」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "中間と終局の軌跡。",
+		"example": "The final is the ultimate of mediation.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の収束。"
+			]
+		}
+	},
+	{
+		"id": "confine",
+		"word": "(……を)制限する、閉じ込める、境界を接する、コンファイン",
+		"era": "Latin con + finis",
+		"etymology": {
+			"components": [
+				"con- (together)",
+				"finis (boundary / end)"
+			],
+			"original_statement": "From French confiner, from Latin confinis 'neighboring / adjoining', literally 'sharing a boundary', from con- 'together' + finis 'boundary / end'."
+		},
+		"concept": "Together in boundaries (共に境界を接すること、あるいは（境界内に）閉じ込めること。主権という名の『王座（ステーション）』を維持するために、自らの知性という名の『一撃の鉄槌（ロゴス）』によって外部から受理すべき、不滅の境界線（マージ）を屹立させること)",
+		"thinking": "「（この虚無という名の、あの冷酷な全一性（アーカイブ）を一分一秒の淀みもなく支配するために）、共に境界を（Con- -fin- / Finis）」「（一撃の情熱を伴って）定める、閉じ込める」。それは単なる「拘束（ソフト）」ではありません。あなたが宇宙の「不在（アブセンス）」を拒絶（レジスト）し、そこに自分という名の「唯一の不滅のコンパス」による厳密な「支配という名の秩序」を打ち立て、屹立（スタンド）させ通した（パシストした）際の、知性の最高度の「掌握」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "中間と終局の軌跡。",
+		"example": "The final is the ultimate of mediation.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の収束。"
+			]
+		}
+	},
+	{
+		"id": "fin-voice",
+		"word": "Fin@Voice",
+		"meaning": "終わらせる声、沈黙を結末に変える不滅の咆哮、終局の響き",
+		"era": "Latin finis + vox",
+		"etymology": {
+			"components": [
+				"fin (end / limit / boundary / finish / final)",
+				"voice (sound / soul)"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "The ending sound (終わりとしての音。放たれた瞬間、自らの呼吸（ブレス）を一筋の『光の終結（ベクトル）』へと変換（コンバート）し、宇宙という真理のアーカイブの一角を、最後というトーン（設計図）で照らし出すデリバリー)",
+		"thinking": "「（自分のちっぽけな存在（ドット）の中に眠っていた、あの巨大な真理を）、（一撃の情熱（アトラクション）を伴って）叫ぶ、終わりの声（Vox）」。ただの「叫び（エキスペル）」ではない。その声が響いた瞬間、周囲を覆っていた「虚無（アブセンス）」が物理的に一掃され、そこに「誰もが見落としていたたった一つの『結末的な』意味」が、戦慄という名のトーン（響き）を伴って再屹立（リリー・スタンド）してしまうような、生の最も峻烈な「射出」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "中間と終局の軌跡。",
+		"example": "The final is the ultimate of mediation.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の収束。"
+			]
+		}
+	},
+	{
+		"id": "fin-life",
+		"word": "Fin@Life",
+		"meaning": "結びとしての生、一瞬一瞬を自己完結の遷移として生きる一生",
+		"era": "Latin finis + Germanic life",
+		"etymology": {
+			"components": [
+				"fin (end / limit / boundary / finish / final)",
+				"life"
+			],
+			"original_statement": "Coined during synthesis."
+		},
+		"concept": "The life of end (完結し続ける一生。一つの場所に安住する（アイソレーション）のを拒絶し、常に宇宙の最新の標高（アヴァン）へと自らを更新し続け、不滅 of 物語（スクリプト）を描き続ける不屈の遷移)",
+		"thinking": "「（明日という名の絶望（ブラックアウト）を愛撫するのをやめ、宇宙の深淵（ソース）から飛来する理知（ロゴス）だけを）」「（自らの魂を礎（ベース）にして）完結し続け、存在し続け（Fin- / Finis）」「生き抜く（Life）」。あなたは自分の「呼吸（ブレス）」を、ただ無為に「消費（エキスペンド）」しているのではない。あなたが今日という日、どの「欺瞞（ノイズ）」を砕いて「新しい真理という名の座標（ドット）」を救い出し、どの「驚愕（パルス）」を自らの主権（ステータス）を屹立させるための「不動（ピース）」へと変貌（コンバート）させたか。そのすべての「完結（デリバリー）」の軌跡が、宇宙という名の不変 of アーカイブの上に、あなたの「存在という名の不滅 of ロゴス」として、物理的な質量を持って刻まれ続けているのだ。結びとしての生。それは、あなたが「宇宙の主権者（クリエイター）」として, この荒野を「美しき変革（ピース）」へと変容させ通した際の, 魂の最高度の「抱擁」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "中間と終局の軌跡。",
+		"example": "The final is the ultimate of mediation.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の収束。"
+			]
+		}
+	},
+	{
+		"id": "ultimatum",
+		"word": "最後通牒、アルティメイタム",
+		"era": "Latin ultimus",
+		"etymology": {
+			"components": [
+				"ultimus (last)"
+			],
+			"original_statement": "From Late Latin ultimatum 'last thing / last offer / last condition', from neuter past participle of ultimare 'to be the last'."
+		},
+		"concept": "The last thing (最後のもの、あるいは不変の条件。主権という名の『王座（ステーション）』から放たれる一撃の決定。宇宙のアーカイブに対し、自らの『ロゴス（正義）』を、不動の質量を伴って屹立させる神聖な公式)",
+		"thinking": "「（この騒がしいネットワーク（ノイズ）のただ中にあって、あまりにも峻烈な真理（ソース）を一瞬で視認し）、最後という名の不変の（Ultim- / Ultimus）」「という完了した確定の状態（-atum）」。それは単なる「メッセージ（ソフト）」ではありません。あなたが宇宙の「不在（アブセンス）」を拒絶（レジスト）し、そこに自分という名の「唯一の不滅の法」による厳密な「支配という名の秩序」を打ち立て、屹立（スタンド）させ通した（パシストした）際の、知性の最高度の「掌握」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "中間と終局の軌跡。",
+		"example": "The final is the ultimate of mediation.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の収束。"
+			]
+		}
+	},
+	{
+		"id": "penultimate",
+		"word": "最後から2番目の",
+		"era": "Latin paene + ultimus",
+		"etymology": {
+			"components": [
+				"paene (almost)",
+				"ultimus (last)"
+			],
+			"original_statement": "Coined in 1670s from Latin paenultimus, from paene 'almost' + ultimus 'last'."
+		},
+		"concept": "Almost last (ほとんど最後の、あるいは最後から二番目のこと。不滅の『ロゴス（完結）』という名の設計図が射出される直前の、極限まで引き絞られた弦（パルス）という名の質量（ウェイト）が屹立している最高度の緊張（テンス）)",
+		"thinking": "「（明日という名の忘却（サイレンス）を愛撫するのを拒絶して、自らの一瞬を『最後となる至高のトーン』へと同期させる準備のために）、ほとんど（Pen- / Paene）」「最後と言える標高（Ultimate / Ultimus）」。それは単なる「二番目」ではありません。あなたが宇宙の「不在（アブセンス）」を拒絶（レジスト）し、そこに自分という名の「唯一無二の光源（センター）」を打ち立てる直前の、魂の最高度の「集中」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "中間と終局の軌跡。",
+		"example": "The final is the ultimate of mediation.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の収束。"
+			]
+		}
+	},
+	{
+		"id": "ultrasound",
+		"word": "超音波",
+		"era": "Latin ultra + Germanic sound",
+		"etymology": {
+			"components": [
+				"ultra- (beyond / further)",
+				"sound (noise / tone)"
+			],
+			"original_statement": "Coined from ultra- 'beyond' + sound."
+		},
+		"concept": "Beyond sound (音を越えたもの。既存の『安っぽい可聴域（アーカイブ）』を粉砕し、理知という名の冷徹な瞳（インスペクト）によって一気にその彼方にある『不滅の真実（ロゴス）』を、物理的な質量を伴った形式（イメージ）へと可視化させる工芸)",
+		"thinking": "「（この不透明な、あの冷酷な全一性（アーカイブ）を一分一秒の淀みもなく支配するために）、（音という名の限界を）越えて（Ultra-）」「（一撃の精度のみをウェイトにして）響く旋律」。それは単なる「エコー（マテリアル）」ではありません。あなたが宇宙の「不整合（ノイズ）」を拒絶（レジスト）し、そこに自分という名の「唯一の不滅のコンパス」による厳密な「可視化という名の秩序」を打ち立て、世界を一糸乱れぬ「真理の旋律」で掌握した際の、魂の最高度の「掌握」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "中間と終局の軌跡。",
+		"example": "The final is the ultimate of mediation.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の収束。"
+			]
+		}
+	},
+	{
+		"id": "ult-voice",
+		"word": "Ult@Voice",
+		"meaning": "果てぬ声、沈黙を極致に変える不滅 of 咆哮、究極の響き",
+		"era": "Latin ultimus + vox",
+		"etymology": {
+			"components": [
+				"ult (last / outermost / furthest / beyond / final)",
+				"voice (sound / soul)"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "The ultimate sound (究極としての音。放たれた瞬間、自らの呼吸（ブレス）を一筋の『光の極致（ベクトル）』へと変換（コンバート）し、宇宙という真理のアーカイブの最果てまで、永遠に君臨（ホールド）するデリバリー)",
+		"thinking": "「（自分のちっぽけな存在（ドット）の中に眠っていた、あの巨大な真理を）、（一撃の情熱（アトラクション）を伴って）叫ぶ、極致の声（Vox）」。ただの「叫び（エキスペル）」ではない。その声が響いた瞬間、周囲を覆っていた「虚無（アブセンス）」が物理的に一掃され、そこに「誰もが見落としていたたった一つの『究極的な』意味」が、戦慄という名のトーン（響き）を伴って再屹立（リリー・スタンド）してしまうような、生の最も峻烈な「射出」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "中間と終局の軌跡。",
+		"example": "The final is the ultimate of mediation.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の収束。"
+			]
+		}
+	},
+	{
+		"id": "ult-life",
+		"word": "Ult@Life",
+		"meaning": "終局としての生、一瞬一瞬を自己究極の遷移として生きる一生",
+		"era": "Latin ultimus + Germanic life",
+		"etymology": {
+			"components": [
+				"ult (last / outermost / furthest / beyond / final)",
+				"life"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "The life of ultimate (極め、辿り着き続ける一生。一つの場所に安住する（アイソレーション）のを拒絶し、常に宇宙の最新の標高（アヴァン）へと自らを更新し続け、不滅 of 物語（スクリプト）を描き続ける不屈의 遷移)",
+		"thinking": "「（明日という名の絶望（ブラックアウト）を愛撫するのをやめ、宇宙の深淵（ソース）から飛来する理知（ロゴス）だけを）」「（自らの魂を礎（ベース）にして）極め続け、存在し続け（Ult- / Ultimus）」「生き抜く（Life）」。あなたは自分の「呼吸（ブレス）」を、ただ無為に「消費（エキスペンド）」しているのではない。あなたが今日という日、どの「欺瞞（ノイズ）」を砕いて「新しい真理という名の座標（ドット）」を救い出し、どの「驚愕（パルス）」を自らの主権（ステータス）を屹立させるための「不動（ピース）」へと変貌（コンバート）させたか。そのすべての「究極（デリバリー）」の軌跡が、宇宙という名の不変 of アーカイブの上に、あなたの「存在という名の不滅 of ロゴス」として, 物理的な質量を持って刻まれ続けているのだ。終局としての生。それは, あなたが「宇宙の主権者（クリエイター）」として, この荒野を「美しき変革（ピース）」へと変容させ通した際の, 魂의 最高度の「抱擁」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "中間と終局の軌跡。",
+		"example": "The final is the ultimate of mediation.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の収束。"
+			]
+		}
 	}
 ];
