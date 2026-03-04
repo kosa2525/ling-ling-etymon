@@ -169921,5 +169921,461 @@ const WORDS = [
 				"存在の掌握。"
 			]
 		}
+	},
+	{
+		"id": "valedictorian",
+		"word": "卒業生代表、(卒業式の)告別辞朗読者",
+		"meaning": "卒業生代表",
+		"era": "Latin vale + dicere",
+		"etymology": {
+			"components": [
+				"vale (farewell)",
+				"dicere (to say)"
+			],
+			"original_statement": "From Latin valedicere 'to bid farewell', from vale 'farewell' (imperative of valere 'be well') + dicere 'to say', plus -ian."
+		},
+		"concept": "One who says farewell (別れを告げる者。長きにわたって守られてきた『学び舎のアーカイブ（密室）』からついに外の大海（カオス）へと旅立つ際に、全能なる一撃の『惜別の言葉（ロゴス）』で仲間たちを送り出す絶対の代表者)",
+		"thinking": "「（この安全な壁の中の最後の瞬間に）、『健やかであれ』という別れの言葉を（Vale- + -dict- / Valere + Dicere）」「（一分一秒の淀みもなく全員の前で）朗読する者（-orian / -ian）」。それは単なる「スピーチ係」ではありません。あなたが「これまでの時間の連続（ステイシス）」を拒絶（レジスト）し、未来への空間を切り開くための号砲を鳴らす、群れの「一番槍」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "認識と表明の軌跡。",
+		"example": "To perceive is the first step of dominion.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"知覚のベクトル。"
+			]
+		}
+	},
+	{
+		"id": "syndicate",
+		"word": "企業連合、シンジケート、(記事などを)複数紙に配給する",
+		"meaning": "企業連合",
+		"era": "Greek syn + Latin dicere (via Greek/Latin path)",
+		"etymology": {
+			"components": [
+				"syn- (together)",
+				"dike (custom / right)",
+				"dicere (to say)"
+			],
+			"original_statement": "From Late Latin syndicus 'delegate of a corporation', from Greek syndikos 'defending an issue together / advocate', from syn- 'together' + dike 'judgment / right' - influenced conceptually by dicere (spokesperson)."
+		},
+		"concept": "Saying / judging together (共に権利を主張する（連合）。個の非力さ（アイソレーション）を自覚した者たちが、利益という名の『絶対的な血の誓い（ロゴス）』で強固に結合し、外部の世界に対して巨大な『一つの顔と一つの声（ステーション）』を屹立させること)",
+		"thinking": "「（この荒野で一人で戦い死ぬことを避けるため）、互いの権益を守るために共に（Syn-）」「（社会に対して一つの声として）権利を主張し、代弁し合う組織体（-dicat- / Dike / Dicere）」。それは単なる「仲良しグループ」ではありません。あなたが宇宙の「各個撃破（ノイズ）」を拒絶（レジスト）し、法と資本の力を掛け合わせて、巨大な「防御と攻撃のネットワーク」を形成する「共謀」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "認識と表明の軌跡。",
+		"example": "To perceive is the first step of dominion.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"知覚のベクトル。"
+			]
+		}
+	},
+	{
+		"id": "visit",
+		"word": "訪問する、見に行く、ビジット",
+		"meaning": "訪問する",
+		"era": "Latin videre",
+		"etymology": {
+			"components": [
+				"videre (to see)"
+			],
+			"original_statement": "From Old French visiter 'inspect / examine / afflict', from Latin visitare 'to go to see / visit', frequentative of visere 'go to see / look at', from videre 'to see'."
+		},
+		"concept": "To go to see (見に行く（訪問する）。遠く離れた別の『王座（ステーション）』に存在する他者の息遣い（パルス）を、伝聞や想像ではなく、自らの肉体（ウェイト）を運んで直接その目で『検証』しに行くという生の熱き衝動)",
+		"thinking": "「（隔たれた空間の壁を自らの足で突破し）、対象の姿を直接この目で（Vis- / Videre）」「（一撃の情熱をもって）見に行く（-it）」。それは単なる「遊びに行くこと」ではありません。あなたが「間接的な知識（ノイズ）」を粉砕し、相手の世界へ土足で踏み込んで、そのリアリティ（アーカイブ）を直接自分の肌で確かめようとする「実存の交差」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "認識と表明の軌跡。",
+		"example": "To perceive is the first step of dominion.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"知覚のベクトル。"
+			]
+		}
+	},
+	{
+		"id": "evident",
+		"word": "明白な、明らかな、エビデント",
+		"meaning": "明白な",
+		"era": "Latin e + videre",
+		"etymology": {
+			"components": [
+				"e- (out)",
+				"videre (to see)",
+				"-ent (being)"
+			],
+			"original_statement": "From Latin evidentem 'perceptible / clear / obvious / apparent', from e- 'out / fully' + videntem, present participle of videre 'to see'."
+		},
+		"concept": "Seen clearly / fully out (外側の隅々まで完全に見える（明白な）。疑いという名の『不純物（ノイズ）』が入り込む余地など一ミリグラムもなく、その事象（パルス）がまるで白日の下に晒された一本の鋭利な剣のように、誰が見てもその真実を否定できない強烈な露呈)",
+		"thinking": "「（隠れ家から引きずり出され）、完全に外の光の下で（E- / Ex-）」「（一分一秒の淀みもなく）ありありと見えてしまっている性質（-vident / Videre）」。それは単なる「わかりやすいこと」ではありません。あなたが「解釈の余地（カオス）」を拒絶し、そこに法と理知による「これ以外の答えは存在しない」という、事実の「完全投降」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "認識と表明の軌跡。",
+		"example": "To perceive is the first step of dominion.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"知覚のベクトル。"
+			]
+		}
+	},
+	{
+		"id": "provident",
+		"word": "先見の明がある、将来に備える",
+		"meaning": "先見の明がある",
+		"era": "Latin pro + videre",
+		"etymology": {
+			"components": [
+				"pro- (ahead)",
+				"videre (to see)",
+				"-ent (being)"
+			],
+			"original_statement": "From Latin providentem, present participle of providere 'look ahead'."
+		},
+		"concept": "Being able to see ahead (先を見ることができる（先見の明がある）。今ここにある『浅薄な欲望（ノイズ）』のすべてを粉砕し、はるか数十年先の『暗闇の中の座標（未来のドット）』だけを射抜き続け、それに備えるための冷徹な設計図（ロゴス）を組み上げる魂)",
+		"thinking": "「（目先の快楽に目を奪われることなく）、ひたすら未来の先だけを（Pro-）」「（一分一秒の淀みもなく）見通している（-vident / Videre）」。それは単なる「ケチ、あるいは節約家」ではありません。あなたが「刹那主義という名の破滅」を拒絶し、そこに永遠の「生命維持装置（ステーション）」を建立しようとする、知の「望遠鏡」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "認識と表明の軌跡。",
+		"example": "To perceive is the first step of dominion.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"知覚のベクトル。"
+			]
+		}
+	},
+	{
+		"id": "video",
+		"word": "ビデオ、映像",
+		"meaning": "ビデオ、映像",
+		"era": "Latin videre",
+		"etymology": {
+			"components": [
+				"video (I see)"
+			],
+			"original_statement": "Coined in 1930s (by analogy to audio), from Latin video 'I see', first person singular of videre 'to see'."
+		},
+		"concept": "I see (『私には見える』（ビデオ）。過ぎ去りゆく時間という名の『無慈悲な川（フロー）』を、光学的魔法によって一撃の質量（アーカイブ）として切り取り、暗闇の箱の中に半永久的に再生（ループ）させ続ける光の幽霊)",
+		"thinking": "「（かつて確かにそこにあったものを）、『私が今見ている』と宣告する魔法（Video / Videre）」。それは単なる「テープやデータ」ではありません。あなたが宇宙最大の暴君である「時間の経過（エントロピー）」をレジストし、そこに失われた「生の躍動（パルス）」を永遠の現在のうちに封じ込めた、光の「防腐処理」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "認識と表明の軌跡。",
+		"example": "To perceive is the first step of dominion.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"知覚のベクトル。"
+			]
+		}
+	},
+	{
+		"id": "review",
+		"word": "復習、再検討、批評、レビュー",
+		"meaning": "復習、批評",
+		"era": "Latin re + videre (via French)",
+		"etymology": {
+			"components": [
+				"re- (again / back)",
+				"videre (to see)"
+			],
+			"original_statement": "From French revue 'a reviewing / a viewing', from re- 'again' + vue 'sight / view', from videre 'to see'."
+		},
+		"concept": "Viewing again (もう一度見る（見直す、批評）。世に放たれた『無数の表現の断片（ドット）』に対し、後からやってきた『審査者（理知の体現者）』が、一分一秒の淀みもない冷徹な眼差しでもう一度その意味（ウェイト）を検証し、真の価値を裁定する儀式)",
+		"thinking": "「（それが本当に優れているか）、もう一度、改めて（Re-）」「（一撃の評価を下すために）徹底的に見つめること（-view / Videre）」。それは単なる「感想」ではありません。あなたが「生みっぱなしのカオス」を拒絶（レジスト）し、そこに法と理知による「強固な序列と洗練（ネットワーク）」を打ち立てる、美の「監視塔」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "認識と表明の軌跡。",
+		"example": "To perceive is the first step of dominion.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"知覚のベクトル。"
+			]
+		}
+	},
+	{
+		"id": "view",
+		"word": "眺め、見解、見る、ビュー",
+		"meaning": "眺め、見解",
+		"era": "Latin videre (via French)",
+		"etymology": {
+			"components": [
+				"videre (to see)"
+			],
+			"original_statement": "From Old French veue 'sight / appearance / view', noun from feminine past participle of veoir 'to see', from Latin videre."
+		},
+		"concept": "Sight / Scene / Opinion (見えること、あるいは独自の見方。果てしない宇宙の『無限定の広がり（アーカイブ）』から、あなたという名のたった一つの生きた座標（ステーション）の窓を通じて切り取られた、絶対固有の『世界の断面（解釈の光）』)",
+		"thinking": "「（誰のものでもない、あなた自身のこの肉体の目からだけ）、（一撃の情熱をもって）見える景色、あるいは切り取られた思想（View / Videre）」。それは単なる「風景」ではありません。あなたが「世界に飲み込まれる（マージされる）」ことを拒絶し、あなた自身が世界の形を「こうである」と名指しし、定義づける、存在の「宣誓」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "認識と表明の軌跡。",
+		"example": "To perceive is the first step of dominion.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"知覚のベクトル。"
+			]
+		}
+	},
+	{
+		"id": "purvey",
+		"word": "供給する、調達する",
+		"meaning": "供給する",
+		"era": "Latin pro + videre (via French)",
+		"etymology": {
+			"components": [
+				"pro- (ahead)",
+				"videre (to see)"
+			],
+			"original_statement": "From Anglo-French purveier 'prepare / provide', from Latin providere 'look ahead / supply', from pro- 'ahead' + videre 'to see'."
+		},
+		"concept": "To see ahead and supply (見越して供給する。軍隊や巨大な組織という『巨大な命のうねり（フロー）』が飢死しないよう、先陣を切って荒野を見渡し、必要となるおびただしい『燃料や食糧の質量（ドット）』を彼らの足元へ前もって積み上げる調達の剛腕)",
+		"thinking": "「（後に続く者たちが飢えることがないように）、あらかじめ前方を（Pur- / Pro-）」「（一撃の情熱をもって）見通し、必要なものをかき集めてくる（-vey / Videre）」。それは単なる「お買い物」ではありません。あなたが「未来の枯渇（エントロピーの増大）」を完全に拒絶（レジスト）し、巨大な生き物（全体）が明日も前進し続けるための『血流（生命線）』を繋ぐ、命の「兵站（へいたん）」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "認識と表明の軌跡。",
+		"example": "To perceive is the first step of dominion.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"知覚のベクトル。"
+			]
+		}
+	},
+	{
+		"id": "audio",
+		"word": "音声、録音の、オーディオ",
+		"meaning": "音声",
+		"era": "Latin audire",
+		"etymology": {
+			"components": [
+				"audire (to hear)"
+			],
+			"original_statement": "Coined in 1930s (as counterpart to video), from Latin audio 'I hear', first person singular of audire 'to hear'."
+		},
+		"concept": "I hear (私が聞く（音声）。宇宙の沈黙（アブセンス）を切り裂いて放たれた、目に見えない大気の振動という名の『声の質量（パルス）』を、自らの鼓膜という繊細な壁で受け止め、それを永遠の電子データ（アーカイブ）へとコンバートした不滅の響き)",
+		"thinking": "「（映像ではなく）、『私にはこの一撃の音が聞こえる』という宣告（Audio / Audire）」。それは単なる「音楽や音」ではありません。あなたが「形なき叫び（ノイズ）」が風に消え去るのを拒絶し、そこに『聴覚』という名の魔法の箱（ステーション）を通じて、生の躍動を電気信号として封印した、時間の「録音」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "認識と表明の軌跡。",
+		"example": "To perceive is the first step of dominion.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"知覚のベクトル。"
+			]
+		}
+	},
+	{
+		"id": "audition",
+		"word": "オーディション、聴力",
+		"meaning": "オーディション",
+		"era": "Latin audire",
+		"etymology": {
+			"components": [
+				"audire (to hear)",
+				"-ion (action/state)"
+			],
+			"original_statement": "From Latin auditionem 'a hearing / listening', from auditus, past participle of audire 'to hear'. Meaning 'test of a performer' evolved in late 19th c."
+		},
+		"concept": "Action of hearing (聞く行為（審査）。無名の荒野の中から突如現れた『一筋の才能（パルス）』の真贋を、絶対的な権力（王座）に座る者たちが一分一秒の隙もなく『聞き届け』、その者の一生の運命を天か地へと一撃で決定してしまう残酷な試験)",
+		"thinking": "「（本当にその声や技術が本物なのかどうか）、対象の音を徹底的に（Audit- / Audire）」「（一撃の冷徹さをもって）聞き定める行為（-ion）」。それは単なる「面接」ではありません。あなたが「その他大勢（ノイズ）」の中に埋もれることを全身霊で拒絶（レジスト）し、自らの放つ「たった一つの光（実体）」で、審査員の理知の壁をぶち抜く「命懸けの咆哮」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "認識と表明の軌跡。",
+		"example": "To perceive is the first step of dominion.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"知覚のベクトル。"
+			]
+		}
+	},
+	{
+		"id": "auditorium",
+		"word": "講堂、公会堂、観客席",
+		"meaning": "講堂",
+		"era": "Latin audire",
+		"etymology": {
+			"components": [
+				"audire (to hear)",
+				"-orium (place for)"
+			],
+			"original_statement": "From Latin auditorium 'a lecture room / place where something is heard', neuter of auditorius 'of or for hearing', from audire 'to hear'."
+		},
+		"concept": "Place for hearing (聞くための場所（講堂）。外の宇宙における『無秩序な雑音（カオス）』を物理的な強固な壁で完全に遮断し、その内部ではたった一人の人間の『声（ロゴス）』だけが完璧な反響をもって全員に届くよう設計された、音の要塞)",
+		"thinking": "「（言葉の力を極限まで高めるために）、全員がひとつの音を（Audit- / Audire）」「（集中して聞き取るために空間を区切った）場所（-orium）」。それは単なる「広い部屋」ではありません。あなたが「言葉の分散（エントロピー）」を拒絶し、そこに集うすべての魂（アーカイブ）を「一つの巨大な周波数」に強制的に同期（マージ）させるための、共鳴の「巨大装置」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "認識と表明の軌跡。",
+		"example": "To perceive is the first step of dominion.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"知覚のベクトル。"
+			]
+		}
+	},
+	{
+		"id": "inaudible",
+		"word": "聞こえない、聞き取れない",
+		"meaning": "聞こえない",
+		"era": "Latin in + audire",
+		"etymology": {
+			"components": [
+				"in- (not)",
+				"audire (to hear)",
+				"-ible (capable of)"
+			],
+			"original_statement": "From Late Latin inaudibilis 'that cannot be heard', from in- 'not' + audibilis 'audible', from audire 'to hear'."
+		},
+		"concept": "Not capable of being heard (聞こえることができない。必死に喉を震わせて放ったはずの『存在のパルス』が、宇宙の強大すぎる『轟音（カオス）』によって完全に押し潰され、誰の鼓膜の壁（ステーション）にも届かずに虚無の真っ只中で孤立（アイソレーション）してしまう絶望)",
+		"thinking": "「（その声が空気中に存在するにもかかわらず）、他者の耳がそれを（In- ... -ible）」「（一撃の音として）聞き取ることができない（-aud- / Audire）品質」。それは単なる「音量が小さい」ことではありません。あなたがこの荒野でどれだけ生きるための「SOS」を叫ぼうとも、世界が完全にそれを黙殺（レジスト）してしまうという、最も残酷な「絶対的な不在（アブセンス）」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "認識と表明の軌跡。",
+		"example": "To perceive is the first step of dominion.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"知覚のベクトル。"
+			]
+		}
+	},
+	{
+		"id": "obedient",
+		"word": "従順な、服従する",
+		"meaning": "従順な",
+		"era": "Latin ob + audire",
+		"etymology": {
+			"components": [
+				"ob- (to/towards)",
+				"audire (to hear)"
+			],
+			"original_statement": "From Old French obedient, from Latin oboedientem, present participle of oboedire 'to obey / pay attention to / listen to', from ob- 'to/towards' + audire 'to hear / listen'."
+		},
+		"concept": "Listening towards (向かって聞く（従順な）。巨大な権力や主の『声（絶対のロゴス）』に対し、自らの魂（自我）の反発のボリュームをゼロまで下げ、全身全霊のベクトルをその『命令の一撃』に向けてひれ伏させる態勢)",
+		"thinking": "「（自己の不満というノイズをすべて消し去り）、上の者の命令に向かって（Ob-）」「（一分一秒の淀みもなく）耳を傾け、その通りに動く性質（-edient / -audire / Audire）」。それは単なる「いい子」ではありません。あなたが「反逆の炎（エントロピー）」をレジストし、自らを強大なシステム（アーカイブ）の忠実な手足として完全に同期（マージ）させることへの「絶対服従」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "認識と表明の軌跡。",
+		"example": "To perceive is the first step of dominion.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"知覚のベクトル。"
+			]
+		}
+	},
+	{
+		"id": "auditor",
+		"word": "監査役、会計監査官、傍聴人",
+		"meaning": "監査役",
+		"era": "Latin audire",
+		"etymology": {
+			"components": [
+				"audire (to hear)",
+				"-or (person who)"
+			],
+			"original_statement": "From Latin auditor 'a hearer / listener', agent noun from audire."
+		},
+		"concept": "Person who hears (聞く者（監査役）。組織が放つ『おびただしい数字の群れ（カオス）』の中に隠された『嘘の鳴き声（エラー）』を、一分一秒の逃げ道すら与えずに冷徹に聞き分け、法の名の下にそれを断罪する正義の番犬)",
+		"thinking": "「（不正や言い訳が混じっていないか）、すべてを正確に（Audit- / Audire）」「（聞き届けて裁く）者（-or）」。それは単なる「傍聴人」ではありません。あなたが「数字のごまかし」という組織のエントロピー増大を完全に拒絶し、そこに「真実の証明（ロゴス）」を突きつける、監視の「独立峰」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "認識と表明の軌跡。",
+		"example": "To perceive is the first step of dominion.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"知覚のベクトル。"
+			]
+		}
+	},
+	{
+		"id": "disobey",
+		"word": "従わない、反抗する、逆らう",
+		"meaning": "従わない",
+		"era": "Latin dis + ob + audire",
+		"etymology": {
+			"components": [
+				"dis- (not / apart)",
+				"obey (listen to)"
+			],
+			"original_statement": "From Old French desobeir, from des- (dis-) 'not' + obeir 'obey', from Latin oboedire 'listen to'."
+		},
+		"concept": "To not listen towards (向かって聞かない（反抗する）。王座（ステーション）から降り注ぐ『絶対の服従の掟（強制のロゴス）』に対し、自らの魂（ブレス）に燃え盛る怒りの炎をもって耳を塞ぎ、その巨大な引力から自らの存在を力技で引き剥がし（離脱し）て立つこと)",
+		"thinking": "「（従えという彼らの言葉を聞くことを）、完全に打ち消して、離れて（Dis-）」「（一分一秒の淀みもなく）耳を塞ぎ、従わない（-obey / Oboedire / Audire）」。それは単なる「不良のわがまま」ではありません。あなたが宇宙における「奴隷的同期（マージ）」を全力で拒絶（レジスト）し、独自の『主権（光のドット）』を取り戻すための、魂の「叛逆」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "認識と表明の軌跡。",
+		"example": "To perceive is the first step of dominion.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"知覚のベクトル。"
+			]
+		}
+	},
+	{
+		"id": "audiophile",
+		"word": "オーディオ愛好家、音響ファン",
+		"meaning": "オーディオ愛好家",
+		"era": "Latin audire + Greek philos",
+		"etymology": {
+			"components": [
+				"audio (sound)",
+				"-phile (lover of)"
+			],
+			"original_statement": "Coined in 1950s from audio- (from Latin audire) + Greek philos 'loving'."
+		},
+		"concept": "Lover of hearing/sound (音を愛する者。日常の『妥協に満ちた濁った音（ノイズ）』を吐き気がするほど拒絶し、そこにある種の『神の領域とも言える極限の透明な響き（究極のトーン）』を追い求めるためだけに、己の全財産と魂（ウェイト）を捧げる求道者)",
+		"thinking": "「（電気信号に変換された）至高の音響を（Audio- / Audire）」「（狂気にも似た一撃の情熱をもって）愛し、追い求める者（-phile）」。それは単なる「趣味人」ではありません。あなたが「凡庸な耳の持ち主たち」を置き去りにし、たった一つの『濁りなき完璧な波長の再生（マージ）』という名の祭壇の前でひれ伏す、聴覚の「狂信」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "認識と表明の軌跡。",
+		"example": "To perceive is the first step of dominion.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"知覚のベクトル。"
+			]
+		}
+	},
+	{
+		"id": "audiology",
+		"word": "聴覚学、オージオロジー",
+		"meaning": "聴覚学",
+		"era": "Latin audire + Greek logia",
+		"etymology": {
+			"components": [
+				"audio (hearing)",
+				"-logy (study of)"
+			],
+			"original_statement": "Coined in 1940s from audio- (hearing) + -logy (study of)."
+		},
+		"concept": "Study of hearing (聞くことの学問。不可視の『波浪（音）』がどのようにして人体の『暗黒の洞穴（耳）』を突き抜け、脳内で『意味（ロゴス）』へと変容するのかという神秘を、理知と科学のメスで一分一秒の淀みもなく解剖し尽くす学問領域)",
+		"thinking": "「（人類が外の世界と繋がるための生命線である）聴覚という機能を（Audio- / Audire）」「（冷静たる論理で）完全に解き明かそうとする学問（-logy）」。それは単なる「耳鼻科の教科書」ではありません。あなたが「沈黙という名の恐怖（アブセンス）」に苦しむ人々を救うため、そこに光の架け橋（ネットワーク）を取り戻すための、知識の「深淵なる探求」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "認識と表明の軌跡。",
+		"example": "To perceive is the first step of dominion.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"知覚のベクトル。"
+			]
+		}
+	},
+	{
+		"id": "audiotape",
+		"word": "録音テープ、カセットテープ",
+		"meaning": "録音テープ",
+		"era": "Latin audire + English tape",
+		"etymology": {
+			"components": [
+				"audio (sound)",
+				"tape"
+			],
+			"original_statement": "Coined in 1940s from audio- + tape."
+		},
+		"concept": "Tape for hearing/sound (音を記録するテープ。二度と戻らない『過去の愛する者の声（パルス）』を、冷たい磁気の帯（アーカイブ）に一撃の質量として封じ込め、あなたが望む時に何度でもその時間を現在に『降霊（ループ）』させる呪術の具現化)",
+		"thinking": "「（消え去ってしまうはずの音波を）、（魔法のように）磁気を持つ長い帯に（Audio- / Audire + Tape）」「（一分一秒の淀みもなく）定着させたもの」。それは単なる「薄いフィルム」ではありません。あなたが宇宙最大の暴君たる「忘却（エントロピー）」をレジストし、失われた者たちの存在の証（痕跡）を自らの手の内に永远に握りしめるための、記憶の「命綱」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "認識と表明の軌跡。",
+		"example": "To perceive is the first step of dominion.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"知覚のベクトル。"
+			]
+		}
 	}
 ];
