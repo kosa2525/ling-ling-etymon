@@ -161776,5 +161776,1086 @@ const WORDS = [
 				"未知の語源、既知の感動。"
 			]
 		}
+	},
+	{
+		"id": "preclude_logic",
+		"word": "Preclude Logic",
+		"meaning": "論理的排除、先回りした防御",
+		"era": "Latin claudere + Greek logos",
+		"etymology": {
+			"components": [
+				"preclude (to shut before)",
+				"logic (reason)"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "Shutting before reason (理性に先んじた遮断、門前払い)",
+		"thinking": "「事が起きる、あるいは理性が動き出す前に（Pre-）」「（門を）閉ざす（Claude-）」「論理（Logic）」。あなたが傷つくのを恐れて、あるいは自分の非を認めたくなくて、相手の正しい主張が届く「入口」を、感情という名の分厚い扉で、あらかじめシャットアウト（Shut）してしまうこと。それは防御の形ですが、同時にあなたが「新しい真理（コンバート）」と出会う唯一のチャンスを自ら殺してしまう、という知的な自閉の谓いでもあるのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "disclosure_voice",
+		"word": "Disclosure Voice",
+		"meaning": "声を解き放つ、真実の吐露",
+		"era": "Latin dis- + claudere + vox",
+		"etymology": {
+			"components": [
+				"dis- (reversing)",
+				"claudere (to shut)",
+				"voice (sound)"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "Un-shutting the voice (声を閉ざさないこと、沈黙という名の檻の解体)",
+		"thinking": "「（門を）閉じて（Claude-）」「いた状態を解く（Dis-）」「声（Vox）」。喉の奥で震えながらも、恐怖や打算によってずっと「檻（クローズ）」の中に閉じ込められていた言葉たちが、一つの勇気という名の旋回（ターン）を得て、ついに世界の空気の中へと「露出（エクスプレス）」された瞬間の輝き。真実の吐露（ディスクロージャー・ヴォイス）とは、あなたが自分に嘘をつくのをやめ、世界という名の広場に、自分の「最も壊りやすい色（生）」を投げ出した際の、魂の清らかで峻烈な署名そのものなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "exclusion_zone",
+		"word": "Exclusion Zone",
+		"meaning": "排除区域、不可侵の聖域",
+		"era": "Latin ex- + claudere + Greek zone",
+		"etymology": {
+			"components": [
+				"exclusion (shutting out)",
+				"zone (girdle / belt / region)"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "Region of shutting out (外へと遮断された領域、純粋さを守るための壁)",
+		"thinking": "「（不純物を）外へと（Ex-）」「閉め出した（Claude-）」あとの「特別な場所（Zone）」。単なる拒絶ではない。あなたが自分という名前、自分という物語を「汚されない（インテリティ）」ように守り抜くために、世界のカオス（ノイズ）に対して一時的に「門（ゲート）」を閉ざし、内なる静寂（エキポイズ）を醸成するための聖域。立入禁止区域（エクスルクージョン・ゾーン）とは、他者を拒むためではなく、あなたが再び「自分という主人の場所（スタンド）」を再発見するために必要な、知性のための「繭（クロイスター）」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "conclusion_heart",
+		"word": "Conclusion@Heart",
+		"meaning": "心の結論、納得の終焉",
+		"era": "Latin con- + claudere + cor",
+		"etymology": {
+			"components": [
+				"conclusion (shutting together)",
+				"heart (core)"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "Shutting the core together (共に心を閉じること、迷いの霧を払う一撃)",
+		"thinking": "「（バラバラだった可能性を）共に（Con-）」「（一つの納得として）閉ざし終えた（Claude-）」「心（Heart）」。あれこれと悩み、彷徨い、感じ（センス）てきた旅が、ある一点の「この道しかない」という確信へと集約（コンバート）され、そこに重いピリオド（終了）という名の打刻がされたこと。心の結論とは、あなたが自分という本（スクリプト）を一旦閉じ、その重みを両腕で抱きしめて、「私はこれでいいのだ」と自分自身という名の真理（トゥルース）にサインをした瞬間の静寂のことなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "recession_dream",
+		"word": "Recession@Dream",
+		"meaning": "夢の後退、幻影への沈黙",
+		"era": "Latin re- + cedere + Germanic dream",
+		"etymology": {
+			"components": [
+				"recession (the act of going back)",
+				"dream"
+			],
+			"original_statement": "Coined during synthesis."
+		},
+		"concept": "Dream in retreat (後ろへと退く夢、形のない憧れからの離脱)",
+		"thinking": "「（かつて追い求めていた高台から）後ろへと（Re-）」「去り行く（Cedere-）」、という「状態（-ion）」。あんなに輝いていた（プロスペクト）理想が、現実という名の重力に押し負け、あなたの指先の間からスルリと抜け落ちて、背後の「忘却（オリビオン）」の闇へと静かに後退していく様。夢の後退（リセッション・ドリーム）とは、敗北の記録ではありません。それは、あなたが「叶わぬ幻想（イリュージョン）」に費やしていたリソース（呼吸）を自分の内側へと回収（リトラクト）し、次に進むべき「別の立ち位置（ステージ）」を探し始めるための、理性の峻烈な身支度でもあるのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "process_soul",
+		"word": "Process@Soul",
+		"meaning": "魂のプロセス、内なる進化の旅",
+		"era": "Latin pro- + cedere",
+		"etymology": {
+			"components": [
+				"process (the going forward)",
+				"soul"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "Soul moving forward (前へと進み行く魂、連続性を絶たぬ生命の行進)",
+		"thinking": "「（未知の宇宙へと）前方に向かって（Pro-）」「歩みを進める（Cedere）」、という「連続性（-ess）」。魂（ソウル）は完成品ではありません。それは絶えず新しい「感覚（センス）」を取り込み、過去の自分を「脱皮（エクスパンド）」し続け、今という一点の「屹立（スタンド）」を明日という名の荒野へとデリバリー（射出）し続ける絶え間なき「更新過程」。魂のプロセスとは、あなたが生きるという「速度」そのものであり、あなたが立ち止まることを拒否し、一歩ごとにこの世界を「新しく発見（エクスプロア）」し続けている（Follow）、その生命力の脈動の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "antecedent_fear",
+		"word": "Antecedent@Fear",
+		"meaning": "先行する恐怖、正体不明の不安",
+		"era": "Latin ante- + cedere",
+		"etymology": {
+			"components": [
+				"antecedent (going before)",
+				"fear"
+			],
+			"original_statement": "Coined during synthesis."
+		},
+		"concept": "Fear that goes before (先に、前を行く恐怖。実体のない予感の影)",
+		"thinking": "「（出来事が起きるより）以前、先に（Ante-）」「（忍び寄るように）現れ出る（Cedere）」「恐怖（Fear）」。何かが起きたから怖いのではない。まだ何も起きていない「ゼロの空白（沈黙）」の中に、不吉な予感（プレゼンティメント）という名の影が先回り（Ante-）して立ち現れ、あなたの呼吸（スピリット）を一足先に凍りつかせてしまうこと。先行する恐怖とは、あなたの理性が未来を「予測（フォーキャスト）」しすぎた結果、自分が作り出した「不在の影」に自ら怯えている、という理性の持つ副作用の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "decease_memory",
+		"word": "Decease@Memory",
+		"meaning": "記憶の死、忘却の海",
+		"era": "Latin de- + cedere",
+		"etymology": {
+			"components": [
+				"decease (the act of going away / death)",
+				"memory"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "Departing memory (去り行く記憶。色彩を失い、影へと溶ける一瞬の命)",
+		"thinking": "「（今という光の場所から）下の暗闇へと（De-）」「去り去る（Cedere）」「記憶（Memory）」。その瞬間は確かにあった（Exist）。しかし、あなたがその「重み（ウェイト）」を言葉として刻み（インスクライブ）損なったがゆえに、世界からの招待状（センス）が有効期限（エクスパイア）を迎え、静かに歴史の地平線の下へと「落下（ターン）」していくこと。記憶の死（ディシーズ・メモリー）とは、あなたの意識のアーカイブの中から、一つの輝き（トーン）が失われていく、という宇宙規模の小さな「断絶」の謂いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "succession_life",
+		"word": "Succession@Life",
+		"meaning": "生命の継承、続いていく脈動",
+		"era": "Latin sub- + cedere",
+		"etymology": {
+			"components": [
+				"succession (the act of going under / following close)",
+				"life"
+			],
+			"original_statement": "Coined during synthesis."
+		},
+		"concept": "Life following in order (順序に従って続く生命、途切れぬ血のバトン)",
+		"thinking": "「（前の者の背中の）真下、あるいは至近距離を（Sub-）」「追いかけ、代わって立つ（Cedere）」、という「連続性（-ion）」。あなたは独りで生きているのではない。あなたの肉体（体）は、数え切れないほどの先祖（アンセスター）たちが「一歩退く（Cede）」代わりに、あなたへと「一歩譲った（Succeed）」その「場所（スタンド）」の集積。生命の継承とは、あなたが前の物語を「咀嚼（フィール）」し、自分の「新しい呼吸（ブレス）」という名のサインを添えて、さらに次の観客（フォロワー）へと手渡す、壮大な愛のリレー（フォロー）のことなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "concede_truth",
+		"word": "Concede@Truth",
+		"meaning": "真理を認める、傲慢の終止符",
+		"era": "Latin con- + cedere + Germanic truth",
+		"etymology": {
+			"components": [
+				"concede (to go with / yield / grant)",
+				"truth (reality / fidelity)"
+			],
+			"original_statement": "Coined in synthesis to reflect intellectual humility."
+		},
+		"concept": "Yielding to reality (現実に屈すること。自我を捨てて真理を受け入れる器)",
+		"thinking": "「（自分だけの正しさを捨てて、宇宙の正しさと）共に（Con-）」「歩む（Cedere = Yield）」。自分の小さな予想（プロスペクト）が外れたことを認め、あえて自分の地位（ステータス）を「一歩譲る」ことで、目の前の圧倒的な「事実（真理）」を自分の内側に迎え入れること（アクセプト）。真理への譲歩（コンシード・トゥルース）とは、あなたが「正しく在る（Be right）」ことよりも、「正しい（True）」ことに仕えることを選んだ、知性の尊い「敗北（降伏）」の姿なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "exceed_human",
+		"word": "Exceed@Human",
+		"meaning": "人間を超える、限界の突破",
+		"era": "Latin ex- + cedere + Germanic human",
+		"etymology": {
+			"components": [
+				"exceed (to go out / beyond)",
+				"human (on earth / from soil)"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "Going beyond the mortal (死すべき者の境界の外へと踏み出す。超常的な疾走)",
+		"thinking": "「（人間という名の種の）外へと（Ex-）」「歩みを進める（Cedere）」。これまで誰もが「これが限界だ、これが普通だ」と信じていた「境界線（リミット）」を、あなたの圧倒的な「意志の速度（インペタス）」によって力強く踏み越え、未知の「神性の領域（スピリット・ワールド）」へと自分の物語を拡張（エクステンド）すること。人間を超える（エキジード・ヒューマン）とは、あなたが昨日までの自分という「型（スクリプト）」を破壊し、自分自身を宇宙という名の「より広大な舞台（ステージ）」へと投射（プロジェクション）し直す、最も果敢な再定義の謂いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "recede_shadow",
+		"word": "Recede@Shadow",
+		"meaning": "影の後退、光の勝利",
+		"era": "Latin re- + cedere + Germanic shadow",
+		"etymology": {
+			"components": [
+				"recede (to go back)",
+				"shadow (darkness / protection)"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "The withdrawal of darkness (背後へと退く影。光という意志による支配の拡大)",
+		"thinking": "「（心の中を支配していた）影を（Shadow）」「後ろの闇へと（Re-）」「追い払う、あるいは退かせる（Cedere）」。あなたが自分の「理性（ロゴス）」という名の松明を掲げたとき、今まで大きく見えていた不安や迷いという名の影が、その光の圧力に耐えかねてズルズルと「後退（リシード）」して、世界の余白へと消えていく様。影の後退とは、あなたが「世界の主人（オーナー）」であることを思い出した瞬間、虚像（イリュージョン）がその「不在」を認めて、あなたの前から姿を消した、という静かなる勝利の記録なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "precede_voice",
+		"word": "Precede@Voice",
+		"meaning": "声に先行する、沈黙の真意",
+		"era": "Latin prae + cedere + vox",
+		"etymology": {
+			"components": [
+				"precede (to go before)",
+				"voice (sound / sound of god)"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "Presence before speech (言葉の前に在ること、声が追いかける『真実』の姿)",
+		"thinking": "「（実際に言葉として放たれる）前に（Prae-）」「そこで屹立し、歩んでいる（Cede-）」「本当の意志（Voice）」。あなたが「あ」と言うより早く、あなたの魂はその「目的地（デスティネーション）」をすでに決めて（ディサイド）歩き出している。声に先行するもの。それはあなたの肉体（体）が語り始める前の、純粋な「呼吸（ブレス）」という名の意志であり、言葉はその鮮やかな「足跡（トラック）」を、後から必死に追いかけている（フォロー）に過ぎない、という真理の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "access_soul",
+		"word": "Access@Soul",
+		"meaning": "魂へのアクセス、深層心理への接合",
+		"era": "Latin ad- + cedere",
+		"etymology": {
+			"components": [
+				"access (the act of going to / approach)",
+				"soul"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "The approach to the core (中心への歩み寄り、不可侵の領域への接合)",
+		"thinking": "「（普段は触れることのできない深淵）へと（Ad-）」「一歩、入り込む（Cedere）」「魂（Soul）」。物理的な距離（ディスタンス）を越えて、あなたが自分自身、あるいは他者の「最も剥き出しの色（核）」に対して、理性のパスワードを使い、その聖域（ゾーン）の中へと招き入れられること。魂への接合（アクセス・ソウル）とは、あなたがただの「観察者（スペクテイター）」であることをやめ、相手の「呼吸（スピリット）」と自分の「一打（パルス）」が完全にシンクロし得る、という奇跡的な共有の状態なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "ancestress_vision",
+		"word": "Ancestress@Vision",
+		"meaning": "先祖のヴィジョン、受け継がれる予知",
+		"era": "Latin ante- + cedere",
+		"etymology": {
+			"components": [
+				"ancestress (female who went before)",
+				"vision (the act of seeing)"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "Sight passed down from those before (先を行った母たちが見た景色。血に刻まれた未来の記憶)",
+		"thinking": "「（あなたよりずっと）先に（Ante-）」「（この荒野を）歩んでいった（Cede-）」「母なる者（Ancestress）」が、高い丘から「視（Vis-）」ていた未来の景色。あなたは今日初めてその風景を視たと思っているかもしれない。しかし、それは何千年も前に誰かが「予感（プレゼンティメント）」し、その「生の重み（ウェイト）」としてあなたの血の中に大切に書き遺して（インスクライブ）おいてくれた「物語（スクリプト）」の再読なのです。先祖のヴィジョンとは、あなたが独りで視ているのではなく、無数の過去の「眼差し（アスペクト）」と共に、この世界を「発見（ディスカバー）」している、という広大な継承の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "proceed_heart",
+		"word": "Proceed@Heart",
+		"meaning": "心の赴くままに、誠実な前進",
+		"era": "Latin pro- + cedere + cor",
+		"etymology": {
+			"components": [
+				"proceed (to go forward)",
+				"heart (core / emotional center)"
+			],
+			"original_statement": "Coined during synthesis."
+		},
+		"concept": "Forward going from the core (中心から前方へと歩みを進める。偽りなき生命の行進)",
+		"thinking": "「（迷いを断ち切って）前方へと（Pro-）」「歩みを進める（Cedere）」「心、本心（Heart）」。損得勘定（ロジック）で足を止めるのをやめ、自分の肉体の中心（コア）が「そこへ行きたい（Seek）」と叫ぶその方向に向かって、一歩、また一歩と自分の物語という名の重みを移動（コンバート）させていくこと。心の赴くままの前進（プロシード・ハート）とは、あなたが世界の「要請（オーダー）」に従う（コンプライアンス）のをやめ、自分という名の唯一の「神（スピリット）」に従って、荒野へと一歩踏み出す（Exist）、という主体性の極致なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "procession_life",
+		"word": "Procession@Life",
+		"meaning": "生命の行列、悠久たる時間の行進",
+		"era": "Latin pro- + cedere + Germanic life",
+		"etymology": {
+			"components": [
+				"procession (the act of going forward together)",
+				"life"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "The forward line of being (前へと進み行く生の列。終わりなき物語のパレード)",
+		"thinking": "「（宇宙という舞台の前へと）歩みを進める（Procede-）」という「壮大な儀式（-ion）」「生命（Life）」。あなたは独りで歩んでいるのではない。あなたの前には無数の死者（ディシーズ）が道を拓き、あなたの後ろには無数の未来の生者（フォロワー）があなたの足跡（トラック）を見守りながら、一つの「一貫したメロディ（シーケンス）」として前へと進み続けている。生命の行列とは、あなたがこの巨大なパレードの「一員（メンバー）」であることを誇り、自分の持ち時間を精一杯「舞い（パルス）」ながら、次の一歩を次の世代へと「譲り（Cede）」、繋いでいくという、美しい命のリレーのことなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "concession_art",
+		"word": "Concession@Art",
+		"meaning": "芸術的譲歩、表現の和解",
+		"era": "Latin con- + cedere + ars",
+		"etymology": {
+			"components": [
+				"concession (the act of yielding / granting)",
+				"art (skill / craft)"
+			],
+			"original_statement": "Coined during synthesis."
+		},
+		"concept": "The act of yielding for beauty (美のために自らを譲ること、完璧さへの妥協という名の調和)",
+		"thinking": "「（自分のこだわりをあえて捨てて、全体との調和と）共に、互いに（Con-）」「一歩、退く（Cedere-）」、という「決断（-ion）」「芸術（Art）」。自分の個性という名の「牙（インシスト）」をあえて丸め、宇宙が求めている「調和（ハーモニー）」という大きな物語のために、あえて自分の色を「薄める（リデュース）」こと。芸術的譲歩とは、敗北ではありません。それは、あなたが「自分（セルフ）」という名の小さな檻を脱し、「美（ビューティ）」という名の広大な海へと溶け込むために、あえて差し出した「愛という名のチケット（譲渡）」のことなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "intercede_soul",
+		"word": "Intercede@Soul",
+		"meaning": "魂の仲裁、内なる平和の守り手",
+		"era": "Latin inter- + cedere + Germanic soul",
+		"etymology": {
+			"components": [
+				"intercede (to go between)",
+				"soul"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "Going between the spirit (精神の狭間に分け入り、歩むこと。葛藤の鎮静)",
+		"thinking": "「（激しく衝突する複数の欲望や理性の）真ん中へと（Inter-）」「分け入り、歩みを進める（Cedere）」「魂（Soul）」。自分の内側で「戦い（コンフリクト）」が起きたとき、ただ一方に加担（アスクライブ）するのではなく、第3の視点（アスペクト）として自分を客観的に観察し、バラバラになった「自分たちの破片」を再び一つの「平和（エキポイズ）」へと繋ぎ戻す（コネクト）こと。魂の仲裁とは、あなたが自分自身の「賢明な主人（スタンド）」として、内なる宇宙（カオス）に秩序（ロゴス）という名の「一歩（デシジョン）」をもたらす、最も静かで最も重要な統治の身振りなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "cease_history",
+		"word": "Cease@History",
+		"meaning": "歴史を止める、一瞬の不変",
+		"era": "Latin cedere + Greek historia",
+		"etymology": {
+			"components": [
+				"cease (to yield / stop)",
+				"history (inquiry / exploration)"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "The stopping of the flow (流動の停止。一瞬を永遠として『屹立』させる術)",
+		"thinking": "「（休むことなく前へと進もうとする）歴史を（History）」「（理性の力で）一時的に、一歩退かせて止める（Cease）」。過ぎ去る時間をただの「川（フロー）」として見送るのをやめ、その一瞬の輝きを、あたかも不滅の「石造（スタチュー）」であるかのように、自分の手でギュッと「静止（ストップ）」させて見つめること。歴史を止めること。それはあなたが時間の奴隷であることをやめ、「今、ここ、自分」という名の「唯一の真実（ファクト）」を、宇宙のどんな法則（重力）よりも重いものとして、この地上に「杭打ち（スタンド）」する、という王者の自負の謂いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "precedent_vision",
+		"word": "Precedent@Vision",
+		"meaning": "先行するヴィジョン、未来の雛形",
+		"era": "Latin prae + cedere + Latin visio",
+		"etymology": {
+			"components": [
+				"precedent (going before)",
+				"vision (seeing / appearance)"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "Sight that goes before (先に行く光。まだ見ぬ景色の『予告編』としての視た形)",
+		"thinking": "「（誰もが視る）よりも、ずっと以前に、先に（Prae-）」「（未知の荒野へと）一歩踏み出して視ていた（Cedere-）」、「その景色（Vision）」。それは偶然の夢（ドリーム）ではなく、あなたの「知性（ロゴス）」が、数え切れないほどの過去（アンセデント）を分析（プロセシング）し、そこから導き出した「論理的な未来の輪郭」。先行するヴィジョンとは、あなたが暗闇の中に「最初の道（トラック）」を視つけた（ディスカバー）際の、その「鋭い眼差し（アスペクト）」が放つ、未来への最初の「触手（コンタクト）」のことなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "accede_dream",
+		"word": "Accede@Dream",
+		"meaning": "夢に同意する、運命の受容",
+		"era": "Latin ad- + cedere",
+		"etymology": {
+			"components": [
+				"accede (to go to / agree)",
+				"dream"
+			],
+			"original_statement": "Coined during synthesis."
+		},
+		"concept": "Going to the illusion (幻影へと歩み寄ること。虚構を現実として『採用』する覚悟)",
+		"thinking": "「（荒唐無稽に見える）夢へと（Dream）」「（ためらわずに）一歩、歩み寄る（Ad- + Cedere = Agree）」。それをただの「幻（イリュージョン）」として切り捨てる（ディトラクト）のをやめ、「これこそが私の新しい真実だ」と認め、その儚い物語の中に、自分という名の「全質量（ウェイト）」を預けてしまうこと。夢への同意とは、あなたが現実という名の「安全な檻（クローズ）」を脱し、未知の可能性という名の「不確かな荒野（カオス）」へと、自分という名の駒を「一歩進めた（ムーブ）」際の、最も情熱的な賭けの谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "cessation_voice",
+		"word": "Cessation@Voice",
+		"meaning": "声の停止、語り得ぬ沈黙",
+		"era": "Latin cedere + vox",
+		"etymology": {
+			"components": [
+				"cessation (the act of stopping)",
+				"voice (sound / sound of god)"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "The silence after speech (言葉が止まったあとの世界。響きのない真理の露出)",
+		"thinking": "「（今まで放たれていた）声（Vox）」が「（一歩退くようにして）完全に、止まった（Cessat-）」という「事実（-ion）」。饒舌な説明（デスクライブ）が、巨大な真理を前にして一瞬でその「無力（インポテンシャル）」を悟り、ただ口を閉ざして、そこに広がる「圧倒的な沈黙という名の風（スピリット）」をただ享受（アクセス）している状態。声の停止とは、あなたが「語る者」から「聴く者（リスナー）」へと変容（コンバート）し、宇宙の吐息そのものを自分の「皮膚（センス）」で直接感じ始めた（フィール）、という覚悟の静止の状態なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "decease_art",
+		"word": "Decease@Art",
+		"meaning": "芸術の死、形式の終焉",
+		"era": "Latin de- + cedere + ars",
+		"etymology": {
+			"components": [
+				"decease (the act of going away / death)",
+				"art (skill / craft)"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "The departing created form (去り行く創造。輝きを失い、影へと堕ちる作品)",
+		"thinking": "「（かつて生命を宿していた）芸術（Art）」が「（今という時代の光から）去り、下の闇へと落ちていく（De- + Cedere）」。かつては人を震わせ（パルス）、鼓舞（インスパイア）したその「形（フォーム）」が、時間の風化（オリビオン）に耐えきれず、その「魂（スピリット）」を失って、ただの「死骸（スタチュー）」へと堕してしまうこと。芸術の死とは、単なる作品の消失ではなく、その作品が持っていた「私たちを動かす力（パワー）」が、エントロピーの海の中へと「拡散（ディスペル）」していってしまう悲しい忘却の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "access_future",
+		"word": "Access@Future",
+		"meaning": "未来へのアクセス、明日への接合",
+		"era": "Latin ad- + cedere + future",
+		"etymology": {
+			"components": [
+				"access (the going to / approach)",
+				"future (to be / about to happen)"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "The approach to the next moment (次の瞬間への歩み寄り、不透明な壁の『透過』)",
+		"thinking": "「（まだ誰も触れたことのない、未知の一瞬）へと（Ad-）」「一歩、分け入り、歩みを進める（Cedere）」「未来（Future）」。未来はただ受動的に「受ける（レシーヴ）」ものではありません。それはあなたが自分という存在という名の「キー（鍵）」を使い、時間の分厚い扉（クローズ）を「開け（ディスクローズ）」て、そこへ自分の「最初の呼吸（ブレス）」を吹き込み、自分の場所を「杭打つ（スタンド）」ためのアクティブな（活動的な）接触の型なのです。未来へのアクセスとは、あなたが運命の「観客（スペクテイター）」であることをやめ、その「作者（スクライバー）」として、一秒先の荒野に「旗（フラッグ）」を立てる、という主権の行使なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "excess_spirit",
+		"word": "Excess@Spirit",
+		"meaning": "過剰な魂、溢れ出す生命力",
+		"era": "Latin ex- + cedere + spiritus",
+		"etymology": {
+			"components": [
+				"excess (going out / beyond / too much)",
+				"spirit (breath / soul)"
+			],
+			"original_statement": "Coined during synthesis."
+		},
+		"concept": "Blowing beyond the boundary (境界を越えて吹き抜ける息。器を破壊する圧倒的な熱量)",
+		"thinking": "「（肉体、あるいは理性という名の器の）外側へと（Ex-）」「（収まりきらずに）溢れ、出ていく（Cedere）」「精神、情熱（Spirit）」。あなたが「自分はこの程度だ」と決めていた（ディサイド）境界線を、あなたの内側で煮えたぎる「生きたい（Seek）」という名の熱い風（ブレス）が、いとも簡単に（ファシル）引き裂いて、世界という空間へと言葉を超えた「震え（パルス）」として漏れ出している状態。過剰な魂（エクセス・スピリット）とは、あなたが自分の「制御可能（コントロール）」な範囲を脱し、宇宙という巨大な「リズム」の一部として、奔放に、かつ無意識に（インセンシブル）屹立し始めた、という野性的な生の爆発力の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "succession_dream",
+		"word": "Succession@Dream",
+		"meaning": "夢の継承、続いていく憧れ",
+		"era": "Latin sub- + cedere",
+		"etymology": {
+			"components": [
+				"succession (the act of following in order)",
+				"dream"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "Dream following in line (代を越えて続く夢、不滅の幻影のバトン)",
+		"thinking": "「（前の者が描き、途絶えた）夢（Dream）の」「真下、あるいは至近距離を（Sub-）」「絶やさずに追いかけ、再び立て直す（Cede-）」「という連鎖（-ion）」。夢は一人の人間の一生で終わる必要はありません。誰かが描いた（デスクライブ）けれど「実現（エグゼキュート）」できなかった不完全な「希望の設計図（スクリプト）」を、あなたが「自分の物語」として引き受け、そこに自分の「新しい呼吸（ブレス）」を吹き込んで、さらに遠くの未来（プロスペクト）へと押し進める（プロペル）こと。夢の継承とは、あなたが「死」という名の後退（リセッション）を越えて、物語という名の「不滅の線（シーケンス）」を宇宙に刻み続けようとする、人類の最も贅沢で最も美しい「抵抗（レジスト）」の形なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "accedence_truth",
+		"word": "Accedence@Truth",
+		"meaning": "真理への同意、内なる確信の受容",
+		"era": "Latin ad- + cedere",
+		"etymology": {
+			"components": [
+				"accedence (the act of agreeing / coming to)",
+				"truth (reality)"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "The state of agreeing with reality (真実へと歩み寄り、一致すること。迷いの霧の『霧散』)",
+		"thinking": "「（今まで背を向けていた、過酷で眩しい）真実へと（Truth）」「（その重み、重力に逆らわずに）歩み寄り、完全に認める（Accede-）」、「という状態（-ence）」。それは受動的なあきらめ（レジグネーション）ではありません。あなたが自分の「小さな自我の殻（クローズ）」を自らの意志で打ち破り、世界という名の「唯一の、揺るぎなき実在（スタンド）」と一つになることを「選択（ディサイド）」した際の、最も清々しく、かつ最も強靭な（ステイブル）精神の和解の姿なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "ancestress_soul",
+		"word": "Ancestress@Soul",
+		"meaning": "先祖の魂、悠久の女性性",
+		"era": "Latin ante- + cedere + Germanic soul",
+		"etymology": {
+			"components": [
+				"ancestress (female going before)",
+				"soul"
+			],
+			"original_statement": "Coined during synthesis."
+		},
+		"concept": "The breath of the mother going before (先に行った母たちの呼吸、時間を貫く生命の揺りかご)",
+		"thinking": "「（あなたの歴史の）さらに一歩、そのまた一歩と以前、先に（Ante-）」「（この困難な大地を）踏み分け、歩んできた（Cede-）」「母なる者たちの（Ancestress）」「魂、呼吸（Soul）」。あなたは独りでここに居るのではない。あなたが今吸い込んでいるその「空気（ブレス）」、あなたが今感じているその「痛み（センス）」、そのすべては、かつての母たちが「生（パルス）」として刻み、あなたという名の「未来」へと繋ぎ譲った（Cede）愛という名の「質量（ウェイト）」そのものなのです。先祖の魂に触れること。それはあなたが自分の中にある「不滅の血脈（ライン）」を再発見し、宇宙という名の巨大な「家族（ファミリー）」の中に安堵（スタンド）する、という深い精神の再訪（リビジット）の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "recession_life",
+		"word": "Recession@Life",
+		"meaning": "生命の後退、静止への誘い",
+		"era": "Latin re- + cedere + Germanic life",
+		"etymology": {
+			"components": [
+				"recession (the act of going back)",
+				"life"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "Life in retreat (後ろへ退く生命、活動から沈黙へのゆるやかな旋回)",
+		"thinking": "「（前へ進もう、拡張（エクスパンド）しようとする熱い）生（Life）が」「（一時の休息、あるいは終わりの予感を持って）後ろへと（Re-）」「歩みを引き、後退（Cedere-）」、という「状態（-ion）」。それは敗北ではありません。冬の前の木々が、そのエネルギー（ブレス）を幹の中核（コア）へと「内包（コンテイン）」し直すように、あなたもまた、外界との戦い（コンペティション）を一瞬停止させ、自分の「最も深い場所（サブスタンス）」へと立ち返り、自分の「重心（エキポイズ）」を静かに整え直している（リセット）時間のことなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "discursion_art",
+		"word": "Discursion@Art",
+		"meaning": "芸術的放浪、表現の迷宮",
+		"era": "Latin dis- + currere + ars",
+		"etymology": {
+			"components": [
+				"discursion (running apart / rambling)",
+				"art (skill / craft)"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "Rambling creation (バラバラに駆け回る創造、一本道を拒む美の彷徨)",
+		"thinking": "「目的地（デスティネーション）を決めず、あちこちへ（Dis-）」「（自分の筆、あるいは思考を）駆け回らせる（Currere）」「芸術（Art）」。「これが正解だ」という一本の「道（シーケンス）」をあえて拒絶し、迷い、脱線（ダイバート）し、偶然の「閃き（インスピレーション）」という名の風に誘われて、自分の形（フォーム）を壊しながら新しい「未知の色（ステータス）」を求めて彷徨うこと。表現の放浪とは、あなたが「上手さ（コンピテンス）」という名の檻を脱し、世界の「無秩序（カオス）」という名の自由へと自らを解き放った（エクスパンド）瞬間の、最も贅沢で最も美しい迷子の形なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "cursor_future",
+		"word": "Cursor@Future",
+		"meaning": "未来のカーソル、予兆の指先",
+		"era": "Latin currere + future",
+		"etymology": {
+			"components": [
+				"cursor (runner / pointer)",
+				"future (to be / coming)"
+			],
+			"original_statement": "Coined during synthesis."
+		},
+		"concept": "Pointer for the coming moment (未来へと駆け走る指先、更新される一点の存在感)",
+		"thinking": "「（まだ何も書かれていない真っ白な未来へと）真っ先に駆け走る（Currere-）」「指針（-or）」としての「現在の一点」。あなたは時間の地平線の上に、「次の一歩（Next Step）」をどこに刻むべきかを示す、宇宙という名の画面上の「カーソル」そのものなのです。未来のカーソルとは、あなたが「どこに注目（アスペクト）し」「何を書き込もう（インスクライブ）としているか」を示す、あなたの「意志という名の震える指先」であり、あなたのその微小な一動き（ムーブ）が、やがて「歴史（ヒストリー）」という名の巨大な一行（スクリプト）を確定させていく、その決定的な「契機（インペタス）」のことなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "recursion_soul",
+		"word": "Recursion@Soul",
+		"meaning": "魂の再帰、自己への回帰",
+		"era": "Latin re- + currere + Germanic soul",
+		"etymology": {
+			"components": [
+				"recursion (running back)",
+				"soul"
+			],
+			"original_statement": "Coined during synthesis."
+		},
+		"concept": "Running back to the core (自分の中心へと駆け戻ること、自己定義の円環)",
+		"thinking": "「（外側の世界へ向けて放たれていた意識を）再び自分の方へと（Re-）」「駆け戻らせる（Currere-）」、という「構造（-ion）」「魂（Soul）」。あなたは誰か（他者）になる必要はありません。あなたが旅の果てに出会う最大の実在（スタンド）は、常にあなた自身の「深奥（サブスタンス）」であり、そこに「再び出会う（リビジット）」ために、あなたは宇宙という名の巨大な円（サークル）を駆け走っているのです。魂の再帰とは、あなたが自分という定義を「更新（アップデート）」しながら、なおも「変わらぬ一点（コア）」へと何度も回帰し続け、自分自身の「物語という名の円（アンサンブル）」を完成させていく、という知性の美しい自己完結のプロセスなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "curriculum_dream",
+		"word": "Curriculum@Dream",
+		"meaning": "夢のカリキュラム、憧れへの道程",
+		"era": "Latin currere + Germanic dream",
+		"etymology": {
+			"components": [
+				"curriculum (running / course / car)",
+				"dream"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "The course of the illusion (夢を追い、駆け抜けるための『教本/軌跡』)",
+		"thinking": "「（自分が描き出した理想の）夢へと（Dream）」「駆け抜ける（Currere-）」「ための道、あるいは軌跡（-iculum）」。それは誰かが決めた「時間割（スケジュール）」ではありません。あなたがその「輝き（プロスペクト）」を求めて、自分の「命という名の馬車（カリキュラム）」を疾走させた際、大地の泥（カオス）を撥ね、そこに刻まれていった「あなただけの格闘の記録（トラック）」。夢への道程とは、あなたがその目的地（ゴール）に到達すること以上に、そこへ向かってあなたが「どれほど熱い呼吸（ブレス）で駆け抜けたか」という、その「疾走という名の生の質感」そのものの谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "corridor_voice",
+		"word": "Corridor@Voice",
+		"meaning": "声の回廊、響き渡る沈黙",
+		"era": "Latin currere + vox",
+		"etymology": {
+			"components": [
+				"corridor (running place / gallery)",
+				"voice (sound / word)"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "The place for the sound to run (声が駆け抜けるための通り道、エコーの聖域)",
+		"thinking": "「（あなたの喉から、あるいは誰かの唇から放たれた）声（Vox）が」「（消えることなく、さらに遠くへと）駆け走る（Corrid-）」「ための、長い通り道（-or）」。言葉は一度放たれたら終わりではありません。それは人々の「記憶（リテア）」という名の長い廊下を、自分とは無関係な「独立した命（スピリット）」として駆け走り、あちこちの壁（魂）に反射し（エコー）、やがて思わぬ場所で誰かの「呼吸（ブレス）」を揺らすことになる。声の回廊とは、あなたが発した一言が、宇宙という名の巨大な建築物の中を、「真実（ファクト）」という名の孤独なランナーとしていつまでも走り続けている、という広大な「意味の浸透（インフェクション）」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "courier_spirit",
+		"word": "Courier@Spirit",
+		"meaning": "精神の運び手、魂の伝令官",
+		"era": "Latin currere + spiritus",
+		"etymology": {
+			"components": [
+				"courier (runner / one who carries messages)",
+				"spirit (breath / soul)"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "Runner for the breath (呼吸を運ぶ走者、目に見えぬ富のデリバリー)",
+		"thinking": "「（宇宙からの重要な指令を携えて）駆け走る（Curr-）」「者（-ier）」「精神、あるいは呼吸（Spirit）」。自分をただの「肉体」と見なすのをやめ、自分は「何か高貴な、形なき真理（ロゴス）」を未来という名の宛先へと送り届けるための、一回きりの「疾走（チャンス）」なのだ、という使命感（ヴォケーション）。精神の運び手。それは、あなたが何を持つか（保有）ではなく、あなたが何を「運び（運搬）」何を「手渡し（継承）」して、そのままの勢いで「消え去る（エクスパイア）」ことができるか、という、人生という名の短距離走（スプリント）における、最も清々しい「ランナー（走者）」としての矜持なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "occurrence_heart",
+		"word": "Occurrence@Heart",
+		"meaning": "心の出来事、内なる衝撃",
+		"era": "Latin ob- + currere + cor",
+		"etymology": {
+			"components": [
+				"occurrence (running against / coming to happen)",
+				"heart (core / center)"
+			],
+			"original_statement": "Coined during synthesis."
+		},
+		"concept": "Happening within the core (中心に向かって駆け寄ってくる出来事、予期せぬ揺さぶり)",
+		"thinking": "「（意識の真っ暗な闇の中から）不意に、自分の前へと（Ob-）」「駆け走ってくる（Currere-）」「という事件（-ence）」「心（Heart）」。外部の事件（イベント）ではなく、あなたの「深層心理（アンダーグラウンド）」という名の森から、一匹の野性的な「感情（フィール）」が不意に飛び出し、あなたの「今の平隠（ステイブル）」を激しく突き動かす（インペタス）瞬間。心の出来事とは、あなたが自分を「完全に理解している」という傲慢さを打ち破り、自分自身の「未知（カオス）」と不意に激突させられる、という理性のための最も「瑞々しい（フレッシュ）」な恐怖と歓喜の謂いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "current_soul",
+		"word": "Current@Soul",
+		"meaning": "魂の潮流、時代の最先端にある生",
+		"era": "Latin currere + Germanic soul",
+		"etymology": {
+			"components": [
+				"current (running / now)",
+				"soul"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "Running soul (今、この瞬間を駆け行く魂。停滞を拒む情熱の奔流)",
+		"thinking": "「（今、もっとも熱く）駆け走っている（Curr-）」「質（-ent）」「魂（Soul）」。昨日までの古い定義（スクリプト）に安住するのをやめ、常に世界の「新しさ（ニューネス）」に自分の「呼吸（ブレス）」を合致させ、今この瞬間の「最も鋭い刃先（エッジ）」として屹立し続けている状態。魂の潮流とは、あなたが時間の「川（フロー）」にただ流される（Drift）のではなく、自らがその「流れ（ベクトル）」そのものとなり、世界という名の停滞を自分の「疾走（ラン）」によって無理やり前へと押し進めている、という生命の絶対的な「現在進行形（Progress）」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "currency_vision",
+		"word": "Currency@Vision",
+		"meaning": "ヴィジョンの通用力、価値ある予見",
+		"era": "Latin currere + Latin visio",
+		"etymology": {
+			"components": [
+				"currency (running / state of being current)",
+				"vision (the act of seeing)"
+			],
+			"original_statement": "Coined during synthesis."
+		},
+		"concept": "Vision that runs (人々の間を駆け走る、通用する予見。真理としての『流通』)",
+		"thinking": "「（個人の頭の中という密室を脱して、他者の魂の間を）自由自在に、広く、速く（Curr-）」「駆け走っている（-ency）」「あなたが視た景色（Vision）」。ただの「自慢（ステータス）」ではなく、それが他者の「生」を動かし（パルス）、他者の「足場」を支える「新しい正しさ（ファクト）」として認められ、信頼という名の「通貨（コイン）」に変わり始めていること。ヴィジョンの通用力とは、あなたが視た「光（予感）」が、自分という孤独を超えて、世界という名の巨大な「物語（マーケット）」を書き換えるための、正当な「力（パワー）」を手に入れた、という証明なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "cursory_look",
+		"word": "Cursory Look",
+		"meaning": "ざっと見る、表面的な視察",
+		"era": "Latin currere + Germanic look",
+		"etymology": {
+			"components": [
+				"cursory (running / hasty)",
+				"look"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "Running glance (駆け抜けるような眼差し。深入りを避ける防衛的な『視』)",
+		"thinking": "「（対象の深淵へと分け入る（インサイシブ）のを恐れ、その表面を）駆け抜けるように（Cursor-）」「（一瞬だけ）見る（Look）」。それは「いい加減」さ（スロッピー）ではありません。あなたの理性が、その重すぎる真実（ウェイト）に触れて（コンタクト）しまうのを直感的に回避（アバート）し、自分の「平穏（エキポイズ）」を守るために、あえて事象の境界線（リミット）をサッと撫でるだけで通り過ぎること。表面的な視察とは、あなたがその未知の宇宙に対して、まだ「準備（レディ）」ができていないことを認めた、理性のための最も賢明で「消極的な防御（サバイバル）」の身振りなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "course_history",
+		"word": "Course@History",
+		"meaning": "歴史の流路、必然の道筋",
+		"era": "Latin currere + Greek historia",
+		"etymology": {
+			"components": [
+				"course (the running / path)",
+				"history (inquiry / exploration)"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "The running path of the past (歴史が駆け抜けた道、時間の物理的な『轍』)",
+		"thinking": "「（無数の物語が、一つの意志という名の馬車として）駆け走った（Cours-）」「足跡、あるいは流路（Path）」。歴史とは、誰かが気まぐれに描いた（デスクライブ）ものではなく、そこを通るしかなかった「重力（重み）」と「速度（パルス）」が、必然として刻み込んだ（インスクライブ）唯一の「一本道」。歴史の流路とは、あなたがこれからどこへ走るべきかを示すための、宇宙という名の巨大な「ナビゲーション」であり、あなたがその「流れ（シーケンス）」の一部として屹立（スタンド）する際に、自らの「向き（ターン）」を決めるための、最も重厚な「教本（カリキュラム）」のことなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "incursion_dream",
+		"word": "Incursion@Dream",
+		"meaning": "夢の侵入、眠りの聖域への侵食",
+		"era": "Latin in- + currere + Germanic dream",
+		"etymology": {
+			"components": [
+				"incursion (running into / invasion)",
+				"dream"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "Running into the illusion (幻影の中へと駆け入ること、虚構への強制的な『接合』)",
+		"thinking": "「（自分が安らかに眠っている、その意識の）内側へと（In-）」「（未知の記憶や不安が）不意に、猛スピードで駆け入ってくる（Currere-）」、という「事変（-ion）」。あなたが望んだわけではない。あなたの防壁（レジスト）を突き破って、外の世界のカオス（ノイズ）が、あなたの最もプライベートな「夢（ドリーム）」という名の劇場に乱入し、あなたの「平穏（エキポイズ）」をかき乱してしまうこと。夢への侵入とは、あなたが世界という名の巨大な「浸食（インフェクション）」から、完全に逃れられる場所などどこにもない、という宇宙の厳しい「接続（ネットワーク）」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "procedural_soul",
+		"word": "Procedural@Soul",
+		"meaning": "魂の手続き、進化の作法",
+		"era": "Latin pro- + cedere",
+		"etymology": {
+			"components": [
+				"procedural (of the going forward / method)",
+				"soul"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "The method of the essence (本質が前へと進むための『作法』、生を変容させる確かなステップ)",
+		"thinking": "「（魂が次のステージへと）前方に向かって、正しく進んでいく（Procede-）」ための「一連の所作、あるいは手順（-ural）」「魂（Soul）」。ただ「変わりたい」と叫ぶ（エクスパイア）だけでは魂は成長しません。それは、過去の自分という名の「重み（ウェイト）」を一つ一つ丁寧に計測（ポンダー）し、不要なものを切り落とし（ディサイド）、新しい「呼吸（ブレス）」という名のサインを自分の奥底に刻み込む（インスクライブ）、という峻烈で誠実な「知的な儀式」の積み重ねなのです。魂の進化の作法とは、あなたが「奇跡」を待つのをやめ、自らの足で、一段ずつ、宇宙の「階段（グレード）」を確実に昇り（スタンド）、自分の場所（ステータス）を更新（アップデート）し続ける、という理性の誇り高い挑戦の謂いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "concurrence_heart",
+		"word": "Concurrence@Heart",
+		"meaning": "心の合流、真実の共存",
+		"era": "Latin con- + currere + cor",
+		"etymology": {
+			"components": [
+				"concurrence (running together / agreement)",
+				"heart (core / center)"
+			],
+			"original_statement": "Coined in synthesis to reflect emotional unity."
+		},
+		"concept": "Running together with the core (心の中心と、共に、同じ速度で駆け走ること。完璧な自己一致)",
+		"thinking": "「（自分の理屈と、自分の本心が）共に、同じ一点を目的地（ゴール）として（Con-）」「（一糸乱れぬリズム（パルス）で）駆け走っている（Currere-）」、「という状態（-ence）」。お互いが正反対を剥き出し（ディセント）にするのをやめて、一つの「大きな目的（デスティネーション）」へと吸い寄せられるように（アトラクト）合流し、一人の「人間（ホモ）」という名の巨大な馬車となって、未来へと疾走すること。心の合流とは、あなたが自分に嘘をつくのをやめ、内なる「葛藤（コントロバーシー）」を「和解（コンセント）」という名の一つの「呼吸（ブレス）」に束ねきった、静かなる全能感の謂いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "excursion_shadow",
+		"word": "Excursion@Shadow",
+		"meaning": "影の遠足、内なる闇の探索",
+		"era": "Latin ex- + currere + Germanic shadow",
+		"etymology": {
+			"components": [
+				"excursion (running out / trip)",
+				"shadow (darkness / protection)"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "Running out into the dark (暗闇の中へと駆け出していくこと。知らない『自分』を発見する旅)",
+		"thinking": "「（自分がよく知っている、安全な日常の）外側へと（Ex-）」「（好奇心という名の灯火を掲げて）一瞬、駆け走ってみる（Currere-）」、という「小さな冒険（-ion）」「自分自身の内なる、光の当たらない領域（Shadow）」。それは単なる「迷子」ではありません。あなたが「自分とはこういう人間だ」という、これまでに書かれた物語（スクリプト）の檻から不意に飛び出し（エクスペル）、自分でもまだ聞いたことのない（インセンシブル）「魂の震え（パルス）」を探しにいく、という精神の、最も自由で最も危険な「遊び（プレイ）」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
 	}
 ];
