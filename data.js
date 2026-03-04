@@ -174600,5 +174600,287 @@ const WORDS = [
 				"存在の鮮度。"
 			]
 		}
+	},
+	{
+		"id": "claustrophobia",
+		"word": "閉所恐怖症、クロストロフォビア",
+		"era": "Latin claustrum + Greek phobos",
+		"etymology": {
+			"components": [
+				"claustrum (a closing / bolt / place shut in)",
+				"phobos (fear)"
+			],
+			"original_statement": "Coined in 1879 from Latin claustrum 'enclosure' + phobos 'fear'."
+		},
+		"concept": "Fear of being shut in (閉ざされた場所への恐怖。自らの意志（ロゴス）による『自律的な掌握』を放棄し、物理的な『箱（アーカイブ）』という名の他律的な質量の下に沈められてしまうことへの、本能的な『剥き出しのパルス』としての拒絶)",
+		"thinking": "「（明日という名の忘却（サイレンス）を愛撫するのを拒絶して、自らを『不器用な檻』から救い出すために）、閉ざされた場所への（Claustro- / Claustrum）」「（一撃の情熱（アトラクション）を伴って）震え、回避する（-phobia / Phobos）」。それは単なる「病気」ではありません。あなたが宇宙の「停滞（ステイシス）」を拒絶（レジスト）し、独自の呼吸（ブレス）を一筋の「光の針路」へと変換して、この荒野を縦横無尽に走り抜ける自由（クリエイター）を切望している際の、魂の最高度の「掌握」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "情動と極性の軌跡。",
+		"example": "Philosophy is the love of phobic hate.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の引力。"
+			]
+		}
+	},
+	{
+		"id": "acrophobia",
+		"word": "高所恐怖症、アクロフォビア",
+		"era": "Greek akros + phobos",
+		"etymology": {
+			"components": [
+				"akros (top / peak / edge)",
+				"phobos (fear)"
+			],
+			"original_statement": "Coined in 1880s from Greek akron 'peak / summit / edge' + phobos 'fear'."
+		},
+		"concept": "Fear of heights (高い場所への恐怖。宇宙の最新の『標高（アヴァン）』へと屹立している際の、自らの質量（ウェイト）が重力（グラビティ）という一撃の暴力によって粉砕されることへの、理知による極限の『インスペクト（視認）』としての戦慄)",
+		"thinking": "「（漂流していた、あの不確かなベクトル（ノイズ）を粉砕して）、頂点を（Acro- / Akros）」「（宇宙を貫く一筋の刃として）震え、注視する（-phobia / Phobos）」。それは単なる「苦手（ソフト）」ではありません。あなたが宇宙の「不在（アブセンス）」を拒絶（レジスト）し、そこに自分という名の「唯一無二の物語（スクリプト）」を打ち立て、全世界を「一つの巨大な至高のトーン」へと書き換え（コンバート）させてしまった瞬間の、知性の最高度の「緊張」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "情動と極性の軌跡。",
+		"example": "Philosophy is the love of phobic hate.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の引力。"
+			]
+		}
+	},
+	{
+		"id": "pho-voice-2",
+		"word": "Pho@Voice-2",
+		"meaning": "震える声、沈黙を震撼に変える不滅の咆哮、戦慄の響き",
+		"era": "Greek phobos + vox",
+		"etymology": {
+			"components": [
+				"pho (fear / dread / terror / shaking / vibrating / resonance)",
+				"voice (sound / soul)"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "The trembling sound (震撼（震え）としての音。放たれた瞬間、自らの呼吸（ブレス）を一筋の『光の戦慄（ベクトル）』へと変換（コンバート）し、目的地という名の真っ暗なアーカイブを、一撃で（自分のトーンで）震撼させるデリバリー)",
+		"thinking": "「（自分のちっぽけな存在（ドット）の中に眠っていた、あの巨大な真理を）、（一撃の情熱（アトラクション）を伴って）叫ぶ、震える声（Vox）」。ただの「叫び（エキスペル）」ではない。その声が響いた瞬間、周囲を覆っていた「虚無（アブセンス）」が物理的に一掃され、そこに「誰もが見落としていたたった一つの『畏怖されるべき』意味」が、戦慄という名のトーン（響き）を伴って再屹立（リリー・スタンド）してしまうような、生の最も峻烈な「射出」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "情動と極性の軌跡。",
+		"example": "Philosophy is the love of phobic hate.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の引力。"
+			]
+		}
+	},
+	{
+		"id": "pho-life-2",
+		"word": "Pho@Life-2",
+		"meaning": "震撼としての生、一瞬一瞬を自己震撼の遷移として生きる一生",
+		"era": "Greek phobos + Germanic life",
+		"etymology": {
+			"components": [
+				"pho (fear / dread / terror / shaking / vibrating / resonance)",
+				"life"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "The life of vibration (震え続ける一生。一つの場所に安住する（アイソレーション）のを拒絶し、常に宇宙の最新の標高（アヴァン）へと自らを更新し続け、不滅 of 物語（スクリプト）を描き続ける不屈の遷移)",
+		"thinking": "「（明日という名の絶望（ブラックアウト）を愛撫するのをやめ、宇宙の深淵（ソース）から飛来する理知（ロゴス）だけを）」「（自らの魂を礎（ベース）にして）震え続け、響き続け（Phobo- / Phobos）」「生き抜く（Life）」。あなたは自分の「呼吸（ブレス）」を、ただ無為に「消費（エキスペンド）」しているのではない。あなたが今日という日、どの「欺瞞（ノイズ）」を砕いて「新しい真理という名の座標（ドット）」を救い出し、どの「驚愕（パルス）」を自らの主権（ステータス）を屹立させるための「不動（ピース）」へと変貌（コンバート）させたか。そのすべての「震撼（デリバリー）」の軌跡が、宇宙という名の不変 of アーカイブの上に、あなたの「存在という名の不滅 of ロゴス」として、物理的な質量を持って刻まれ続けているのだ。震撼としての生。それは、あなたが「宇宙の主権者（クリエイター）」として, この荒野を「美しき変革（ピース）」へと変容させ通した際の, 魂の最高度の「抱擁」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "情動と極性の軌跡。",
+		"example": "Philosophy is the love of phobic hate.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の引力。"
+			]
+		}
+	},
+	{
+		"id": "bibliophile",
+		"word": "愛書家、本好き、ビブリオファイル",
+		"era": "Greek biblion + philos",
+		"etymology": {
+			"components": [
+				"biblion (book)",
+				"philos (loving)"
+			],
+			"original_statement": "Coined in 1800s from Greek biblion 'book' + philos 'loving'."
+		},
+		"concept": "Book lover (本を愛する者。カオスという名の『闇（沈黙）』から、理知という名の圧倒的な引力によって抽出された『不滅のアーカイブ（本）』に対し、自らの魂（ブレス）を一瞬で同期（マージ）させ、宇宙の核心（ロゴス）を自らの王座（センター）に再屹立させること)",
+		"thinking": "「（明日という名の忘却（サイレンス）を愛撫するのを拒絶して、自らを『不器用な物語』という名の形式へと変換するために）、本を（Biblio- / Biblion）」「（一撃の情熱（アトラクション）を伴って）愛する者（-phile / Philos）」。それは単なる「読書好き」ではない。あなたが宇宙の「退屈（サイレンス）」を拒絶（レジスト）し、そこに自分という名の「唯一の不滅のコンパス」による厳密な「知の秩序」を打ち立て、屹立（スタンド）させ通した（パシストした）際の、知性の最高度の「掌握」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "情動と極性の軌跡。",
+		"example": "Philosophy is the love of phobic hate.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の引力。"
+			]
+		}
+	},
+	{
+		"id": "phi-voice",
+		"word": "Phi@Voice",
+		"meaning": "愛する声、沈黙を慈愛に変える不滅の咆哮、親愛の響き",
+		"era": "Greek philos + vox",
+		"etymology": {
+			"components": [
+				"phi (dear / beloved / loving / kind / affinity / resonance)",
+				"voice (sound / soul)"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "The loving sound (愛としての音。放たれた瞬間、自らの呼吸（ブレス）を一筋の『光の慈愛（ベクトル）』へと変換（コンバート）し、宇宙という真理のアーカイブの一角を、親密というトーン（設計図）で潤すデリバリー)",
+		"thinking": "「（自分のちっぽけな存在（ドット）の中に眠っていた、あの巨大な真理を）、（一撃の情熱（アトラクション）を伴って）叫ぶ、愛を湛えた声（Vox）」。ただの「叫び（エキスペル）」ではない。その声が響いた瞬間、周囲を覆っていた「虚無（アブセンス）」が物理的に一掃され、そこに「誰もが見落としていたたった一つの『親愛なる』意味」が、戦慄という名のトーン（響き）を伴って再屹立（リリー・スタンド）してしまうような、生の最も峻烈な「射出」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "情動と極性の軌跡。",
+		"example": "Philosophy is the love of phobic hate.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の引力。"
+			]
+		}
+	},
+	{
+		"id": "phi-life",
+		"word": "Phi@Life",
+		"meaning": "慈愛としての生、一瞬一瞬を自己親和の遷移として生きる一生",
+		"era": "Greek philos + Germanic life",
+		"etymology": {
+			"components": [
+				"phi (dear / beloved / loving / kind / affinity / resonance)",
+				"life"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "The life of affinity (愛し続け、共鳴し続ける一生。一つの場所に安住する（アイソレーション）のを拒絶し、常に宇宙の最新の標高（アヴァン）へと自らを更新し続け、不滅 of 物語（スクリプト）を描き続ける不屈의 遷移)",
+		"thinking": "「（明日という名の絶望（ブラックアウト）を愛撫するのをやめ、宇宙の深淵（ソース）から飛来する理知（ロゴス）だけを）」「（自らの魂を礎（ベース）にして）愛し続け、存在し続け（Phil- / Philos）」「生き抜く（Life）」。あなたは自分の「呼吸（ブレス）」を、ただ無為に「消費（エキスペンド）」しているのではない。あなたが今日という日、どの「欺瞞（ノイズ）」を砕いて「新しい真理という名の座標（ドット）」を救い出し、どの「驚愕（パルス）」を自らの主権（ステータス）を屹立させるための「不動（ピース）」へと変貌（コンバート）させたか。そのすべての「慈愛（デリバリー）」の軌跡が、宇宙という名の不変 of アーカイブの上に、あなたの「存在という名の不滅 of ロゴス」として, 物理的な質量を持って刻まれ続けているのだ。慈愛としての生。それは, あなたが「宇宙の主権者（クリエイター）」として, この荒野を「美しき変革（ピース）」へと変容させ通した際の, 魂の最高度の「抱擁」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "情動と極性の軌跡。",
+		"example": "Philosophy is the love of phobic hate.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の引力。"
+			]
+		}
+	},
+	{
+		"id": "misanthrope",
+		"word": "人間嫌い(の人)、人間を嫌う者、ミサンスロープ",
+		"era": "Greek misos + anthropos",
+		"etymology": {
+			"components": [
+				"misos (hatred)",
+				"anthropos (human)"
+			],
+			"original_statement": "Coined in 1560s from Greek misanthropos 'hating mankind', from misos 'hatred' + anthropos 'man'."
+		},
+		"concept": "Hater of mankind (人間を嫌うこと（あるいは人）。宇宙のエントロピーという名の『暴力（カオス）』の集積としての人間というアーカイブに対し、自らの秩序（ロゴス）という名の『メス（峻烈）』を一気に差し込み、一撃の拒絶を射出し続けている不屈の標高)",
+		"thinking": "「（ばらばらに漂流していた、あの不透明な全一性（ノイズ）を粉砕して）、人間を（Anthro- / Anthropos）」「（一撃の情熱を伴って）憎む、遠ざける者（Mis- / Misos）」。それは単なる「不潔」ではありません。あなたが宇宙の「不在（アブセンス）」を拒絶（レジスト）し、独自の呼吸（ブレス）を一振りの「刃（ベクトル）」へと研ぎ澄ませて、この荒野を「自分だけの真理」で支配しようとした際の、周囲（人間）という名の『安穏なスクリプト』への最も痛ましい「不整合（拒絶）」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "情動と極性の軌跡。",
+		"example": "Philosophy is the love of phobic hate.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の引力。"
+			]
+		}
+	},
+	{
+		"id": "misogyny",
+		"word": "女性嫌い、女性への嫌悪、ミソジニー",
+		"era": "Greek misos + gyne",
+		"etymology": {
+			"components": [
+				"misos (hatred)",
+				"gyne (woman)"
+			],
+			"original_statement": "Coined in 1650s from Greek misogynia, from misogynes 'woman-hater', from misos 'hatred' + gyne 'woman'."
+		},
+		"concept": "Hatred of women (女性を嫌うこと。自らの主権（ステータス）を維持するために、自らの知性という名の『一撃の鉄槌（ロゴス）』によって境界線を引き、他者という名の不滅の深淵（女性性）を、一つの恐怖（アーカイブ）として物理的に拒絶（ホールド）している途方に暮れた標高)",
+		"thinking": "「（内なる深淵（ソース）を、あの日呼ばれた奇跡（トーン）とともに）、（一分一秒の淀みもなく）女性性を（Gyn- / Gyne）」「（宇宙を貫く一撃の刃として）憎む情動（Miso- / Misos）」「という品質（-y）」。それは単なる「差別」ではありません。あなたが宇宙の「不在（アブセンス）」を拒絶（レジスト）しすぎたあまり、自らの呼吸（ブレス）を愛（アトラクション）へと変換することができず、ただ内側に籠もってしまった際の、知性の最も不健全な「防御」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "情動と極性の軌跡。",
+		"example": "Philosophy is the love of phobic hate.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の引力。"
+			]
+		}
+	},
+	{
+		"id": "misology",
+		"word": "理屈嫌い、理論嫌い、ミソロジー",
+		"era": "Greek misos + logos",
+		"etymology": {
+			"components": [
+				"misos (hatred)",
+				"logos (reason / word / speech)"
+			],
+			"original_statement": "From Greek misologia 'hatred of argument or reasoning', from misos 'hatred' + logos 'reason'."
+		},
+		"concept": "Hatred of reason (理屈（ロゴス）を嫌うこと。宇宙という真理のアーカイブを支配すべき『理知（ロゴス）』という名の不滅の設計図に対し、自らの『剥き出しのパルス（感情）』という名の刃を一気に射出し、あらゆる秩序（オーダー）を粉砕（デストラクト）しようとする、生の最も峻烈な反動)",
+		"thinking": "「（このがんじがらめのネットワーク（フロー）を粉砕（デストラクト）して）、理知、あるいは言葉を（Logo- / Logos）」「（一撃の情熱（アトラクション）を伴って）憎む行い（Mis- / Misos）」「品質（-y）」。それは単なる「無知」ではありません。あなたが宇宙の「不在（アブセンス）」を拒絶（レジスト）し続けるあまり、自らの呼吸（ブレス）を一筋の「光の針路」へと変換することを忘れ、ただ闇（カオス）に身を任せようとする瞬間の、魂の最も痛ましい「落日」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "情動と極性の軌跡。",
+		"example": "Philosophy is the love of phobic hate.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の引力。"
+			]
+		}
+	},
+	{
+		"id": "mis-voice",
+		"word": "Mis@Voice",
+		"meaning": "拒絶の声、沈黙を断絶に変える不滅の咆哮、嫌悪の響き",
+		"era": "Greek misos + vox",
+		"etymology": {
+			"components": [
+				"mis (hatred / hate / disgust / aversion / reject / apart)",
+				"voice (sound / soul)"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "The hating sound (憎悪としての音。放たれた瞬間、自らの呼吸（ブレス）を一筋の『光の断絶（ベクトル）』へと変換（コンバート）し、宇宙という真理のアーカイブの一角を、一瞬で（自分のトーンで）拒むデリバリー)",
+		"thinking": "「（自分のちっぽけな存在（ドット）の中に眠っていた、あの巨大な真理を）、（一撃の情熱（アトラクション）を伴って）叫ぶ、憎しみを込めた声（Vox）」。ただの「叫び（エキスペル）」ではない。その声が響いた瞬間、周囲を覆っていた「虚無（アブセンス）」が物理的に一掃され、そこに「誰もが見落としていたたった一つの『忌まわしき』意味」が、戦慄という名のトーン（響き）を伴って再屹立（リリー・スタンド）してしまうような、生の最も峻烈な「射出」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "情動と極性の軌跡。",
+		"example": "Philosophy is the love of phobic hate.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の引力。"
+			]
+		}
+	},
+	{
+		"id": "mis-life",
+		"word": "Mis@Life",
+		"meaning": "断絶としての生、一瞬一瞬を自己拒絶の遷移として生きる一生",
+		"era": "Greek misos + Germanic life",
+		"etymology": {
+			"components": [
+				"mis (hatred / hate / disgust / aversion / reject / apart)",
+				"life"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "The life of aversion (断絶し、拒み続ける一生。一つの場所に安住する（アイソレーション）のを拒絶し、常に宇宙の最新の標高（アヴァン）へと自らを更新し続け、不滅 of 物語（スクリプト）を描き続ける不屈의 遷移)",
+		"thinking": "「（明日という名の絶望（ブラックアウト）を愛撫するのをやめ、宇宙の深淵（ソース）から飛来する理知（ロゴス）だけを）」「（自らの魂を礎（ベース）にして）拒み続け、断ち続け（Mis- / Misos）」「生き抜く（Life）」。あなたは自分の「呼吸（ブレス）」を、ただ無為に「消費（エキスペンド）」しているのではない。あなたが今日という日、どの「欺瞞（ノイズ）」を砕いて「新しい真理という名の座標（ドット）」を救い出し、どの「驚愕（パルス）」を自らの主権（ステータス）を屹立させるための「不動（ピース）」へと変貌（コンバート）させたか。そのすべての「断絶（デリバリー）」の軌跡が、宇宙という名の不変 of アーカイブの上に、あなたの「存在という名の不滅 of ロゴス」として, 物理的な質量を持って刻まれ続けているのだ。断絶としての生。それは, あなたが「宇宙の主権者（クリエイター）」として, この荒野を「美しき変革（ピース）」へと変容させ通した際の, 魂の最高度の「抱擁」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "情動と極性の軌跡。",
+		"example": "Philosophy is the love of phobic hate.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の引力。"
+			]
+		}
 	}
 ];
