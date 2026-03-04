@@ -11,8 +11,6 @@ def extract_and_deduplicate():
     with open(data_js_path, "r", encoding="utf-8") as f:
         content_js = f.read()
     
-    # Extract the JSON part between [ and ]
-    # Note: data.js is 'const WORDS = [...];'
     words_match = re.search(r"const WORDS = (\[.*\]);", content_js, re.DOTALL)
     if not words_match:
         print("Error: Could not find WORDS array in data.js")
@@ -20,65 +18,65 @@ def extract_and_deduplicate():
     
     existing_words_raw = json.loads(words_match.group(1))
     existing_ids = {w["id"].lower() for w in existing_words_raw if "id" in w}
+    print(f"Current words in data.js: {len(existing_words_raw)}")
     
     # 2. Read new words from newdate.txt (from line 12768)
     print("Reading newdate.txt...")
     with open(newdate_path, "r", encoding="utf-8") as f:
         lines = f.readlines()
     
-    # Line 12768 is index 12767
     new_content = "".join(lines[12767:])
     
-    # Extract objects { ... }
-    matches = re.findall(r"\{[\s\n]*\"id\":.*?\}", new_content, re.DOTALL)
-    
+    # Extract objects using JSONDecoder for robustness with nested structures
+    decoder = json.JSONDecoder()
+    pos = 0
     newly_added = []
     skipped_duplicates = []
+    errors = 0
     
-    print(f"Found {len(matches)} potential objects in newdate.txt")
-    
-    for m in matches:
-        # Clean up trailing commas if any inside the match for json.loads
-        # This is a bit tricky, but let's try basic json.loads first
+    while pos < len(new_content):
+        # Look for the start of an object
+        match = re.search(r'\{[\s\n]*"id":', new_content[pos:])
+        if not match:
+            break
+            
+        start_index = pos + match.start()
         try:
-            # Basic cleanup for common non-strict JSON issues
-            m_clean = m.strip()
-            if m_clean.endswith(","):
-                m_clean = m_clean[:-1]
+            obj, end_index = decoder.raw_decode(new_content[start_index:])
+            pos = start_index + end_index
             
-            obj = json.loads(m_clean)
             word_id = obj.get("id", "").lower()
-            
             if word_id and word_id not in existing_ids:
                 newly_added.append(obj)
                 existing_ids.add(word_id)
             else:
                 skipped_duplicates.append(word_id)
-        except Exception as e:
-            # Try a more lenient parse if needed, but for now just report
+        except json.JSONDecodeError:
+            errors += 1
+            pos = start_index + 1
             continue
 
+    print(f"Found {len(newly_added) + len(skipped_duplicates) + errors} potential objects in newdate.txt")
     print(f"New unique words to add: {len(newly_added)}")
     print(f"Skipped duplicates: {len(skipped_duplicates)}")
+    if errors:
+        print(f"Errors occurred during parsing: {errors}")
     
     if not newly_added:
         print("No new unique words to add.")
         return
 
     # 3. Update data.js
-    # We append to the existing list and rewrite
     updated_words = existing_words_raw + newly_added
     
-    # Format with indentation matching data.js (2 tabs or 8 spaces? standard seems to be 2 tabs/8 spaces in your file)
-    # Looking at data.js head, it uses tabs.
+    # Using tabs for alignment as in original file
     new_words_json = json.dumps(updated_words, indent="\t", ensure_ascii=False)
-    
     new_js_content = f"const WORDS = {new_words_json};\n"
     
     with open(data_js_path, "w", encoding="utf-8") as f:
         f.write(new_js_content)
     
-    print("Successfully updated data.js")
+    print(f"Successfully updated data.js. New total: {len(updated_words)}")
 
 if __name__ == "__main__":
     extract_and_deduplicate()

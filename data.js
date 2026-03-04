@@ -150490,5 +150490,3429 @@ const WORDS = [
 				"古き語源の中に、知の断片が隠されています。"
 			]
 		}
+	},
+	{
+		"id": "halcyon",
+		"word": "Halcyon",
+		"part_of_speech": "adjective",
+		"meaning": "穏やかな、平和な、黄金時代の",
+		"era": "Ancient Greek halkyon",
+		"etymology": {
+			"components": [
+				"hals (sea)",
+				"kyon (conceiving / breeding)"
+			],
+			"original_statement": "Named after a mythical bird (kingfisher) said to breed in a nest floating on the sea at the winter solstice, charming the wind and waves into calm."
+		},
+		"concept": "Calm on the waves (波上の平穏)",
+		"thinking": "冬至の前後、波が静まる期間に海の上で巣を作る伝説のカワセミ（ハルシオン）。荒れ狂う運命のただ中にあっても、自らの内に静寂の領域を保つ強さと気高さを象徴しています。",
+		"aftertaste": "心の波が凪いだ時、真の豊かさが姿を現します。",
+		"example": "We enjoyed the halcyon days of our youth.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "hals",
+					"meaning": "sea / salt"
+				}
+			],
+			"points": [
+				"ギリシャ神話のアルキオネーがルーツ",
+				"気象学的な凪とも重なる"
+			]
+		}
+	},
+	{
+		"id": "resilient",
+		"word": "Resilient",
+		"part_of_speech": "adjective",
+		"meaning": "回復力のある、立ち直りの早い、しなやかな",
+		"era": "Latin resiliens",
+		"etymology": {
+			"components": [
+				"re- (back)",
+				"salire (to leap / jump)"
+			],
+			"original_statement": "From Latin resiliens 'leaping back', from re- 'back' + salire 'to jump'."
+		},
+		"concept": "Leaping back from adversity (跳ね返り、不屈のしなやかさ)",
+		"thinking": "圧力を受けて押しつぶされても、再び元の形へと「飛び跳ねて（Salire）」戻る力。硬いだけでは折れてしまいますが、柔軟性を伴う強さは、どんな困難からも再生の種を見出します。",
+		"aftertaste": "倒れるたびに、昨日のあなたより少し高く跳べるはずです。",
+		"example": "Small children are remarkably resilient.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sal",
+					"meaning": "jump / leap"
+				}
+			],
+			"points": [
+				"Result, Salute, Somersaultとの繋がり",
+				"心理学における「折れない心」を示す言葉"
+			]
+		}
+	},
+	{
+		"id": "aurora",
+		"word": "Aurora",
+		"part_of_speech": "noun",
+		"meaning": "オーロラ、極光、暁の女神",
+		"era": "Latin Aurora",
+		"etymology": {
+			"components": [
+				"ausosa (dawn / golden)"
+			],
+			"original_statement": "From Latin Aurora, the Roman goddess of dawn, from Proto-Indo-European *aus- 'to shine'."
+		},
+		"concept": "The shining light of dawn (黄金の輝き、目覚めの予兆)",
+		"thinking": "夜の闇を裂き、太陽の到来を告げる暁の女神。天空で踊る極光は、宇宙のエネルギーが私たちの住む世界と接触した時に現れる、静かで鮮やかな火花です。再生と始まりの象徴でもあります。",
+		"aftertaste": "最も深い闇の後に、最も美しい光が天空を彩ります。",
+		"example": "The aurora borealis danced across the sky.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "aus",
+					"meaning": "dawn / east / shine"
+				}
+			],
+			"points": [
+				"East (東) や Gold (金) とも語源が重なる",
+				"ローマ神話の女神アウローラ"
+			]
+		}
+	},
+	{
+		"id": "mellifluous",
+		"word": "Mellifluous",
+		"part_of_speech": "adjective",
+		"meaning": "甘く流れるような、音楽的な",
+		"era": "Late Latin mellifluus",
+		"etymology": {
+			"components": [
+				"mel (honey)",
+				"fluere (to flow)"
+			],
+			"original_statement": "From Latin mellifluus, from mel 'honey' + fluere 'to flow'."
+		},
+		"concept": "Flowing like honey (蜜のように流れる心地よさ)",
+		"thinking": "蜂蜜（Mel）が滴るように、滑らかで甘美な響き。耳に心地よく響く言葉や旋律は、聴く者の心を解きほぐし、理性の鎧を潜り抜けて魂にまで届けられます。言葉は時に、薬よりも深く癒やしをもたらします。",
+		"aftertaste": "あなたの言葉が、誰かの心に滴る蜜となりますように。",
+		"example": "He has a deep, mellifluous voice.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "mel",
+					"meaning": "honey"
+				},
+				{
+					"term": "flu",
+					"meaning": "flow"
+				}
+			],
+			"points": [
+				"Fluid, Influence, Fluとも同根",
+				"17世紀から詩的な表現に使われるように"
+			]
+		}
+	},
+	{
+		"id": "tranquil",
+		"word": "Tranquil",
+		"part_of_speech": "adjective",
+		"meaning": "静かな、穏やかな、平静な",
+		"era": "Latin tranquillus",
+		"etymology": {
+			"components": [
+				"trans- (across / through)",
+				"quies (quiet / rest)"
+			],
+			"original_statement": "From Latin tranquillus, perhaps from trans- 'over' + root of quies 'rest'."
+		},
+		"concept": "Quiet beyond the surface (嵐の彼方の平穏、深い安息)",
+		"thinking": "単に音が無いことではなく、内面的な不協和音が解消された、調和の取れた清明な状態。湖面が沈まり、底に沈んだ砂までもが見通せるような、透徹した意識の静寂を指しています。",
+		"aftertaste": "波立つ心を鎮め、真実を映し出す鏡として。",
+		"example": "The morning was calm and tranquil.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "qui",
+					"meaning": "rest / sleep"
+				}
+			],
+			"points": [
+				"Quiet, Quit, Requiemとも同根",
+				"瞑想的な境地を示す言葉"
+			]
+		}
+	},
+	{
+		"id": "lexicon",
+		"word": "Lexicon",
+		"meaning": "語彙、辞書、特定の分野の全単語",
+		"era": "Ancient Greek lexikon",
+		"etymology": {
+			"components": [
+				"lexis (word)"
+			],
+			"original_statement": "From Greek lexikon (biblion) 'word (book)', from lexis 'word', from legein 'to speak'."
+		},
+		"concept": "The inventory of words (言葉の在庫、思考の地図)",
+		"thinking": "ある文化や個人が持つ「全単語」のカタログ。単なる一覧表ではなく、その世界を構成する部品のすべてが収められた、思考の「地図（Atlas）」としての役割を果たします。",
+		"aftertaste": "あなたの内なる辞書に、今日はどんな新しい言葉を書き込みますか？",
+		"example": "Medical terminology has its own vast lexicon.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "leg",
+					"meaning": "gather / choose / speak"
+				}
+			],
+			"points": [
+				"Logic, Legend, Lectureとも同根",
+				"個人の語彙は 'Mental Lexicon' と呼ばれる"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "syntax",
+		"word": "Syntax",
+		"meaning": "構文、統語論、言葉の順序",
+		"era": "Ancient Greek syntaxis",
+		"etymology": {
+			"components": [
+				"sun- (together)",
+				"tassein (to arrange)"
+			],
+			"original_statement": "From Greek syntaxis, from sun- 'together' + tassein 'to arrange'."
+		},
+		"concept": "Order and arrangement (言葉の整列、意味を編み出す秩序)",
+		"thinking": "言葉を配置し、意味の通じる一節を「共に（Sun）並べる（Tassein）」こと。同じ単語であっても、その配置という秩序によって、世界の見え方は劇的に書き換えられます。",
+		"aftertaste": "秩序があるからこそ、私たちは混沌の中から意味を掬い出すことができます。",
+		"example": "English syntax relies heavily on word order.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "tax",
+					"meaning": "arrangement / order"
+				}
+			],
+			"points": [
+				"Taxonomy (分類学), Tactics (戦術) とも繋がり",
+				"言語の論理的構造を司る"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "semantics",
+		"word": "Semantics",
+		"meaning": "意味論、言葉の意味の研究",
+		"era": "Ancient Greek semantika",
+		"etymology": {
+			"components": [
+				"sema (sign / mark)"
+			],
+			"original_statement": "From Greek semantika, neuter plural of semantikos 'significant', from semainein 'to mean, to signify', from sema 'sign'."
+		},
+		"concept": "The science of signs (記号の魂、意味の深層)",
+		"thinking": "言葉という単なる「記号（Sema）」の背後に潜む、意味という目に見えない実体。私たちは記号を解読することで、他者の心という未知の領域に触れることができるのです。",
+		"aftertaste": "記号は死んでいるかもしれませんが、意味は今もこの場所で息づいています。",
+		"example": "Let's not get involved in the semantics of the argument.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sema",
+					"meaning": "sign / signal"
+				}
+			],
+			"points": [
+				"Semaphore (手旗信号) と同根",
+				"文脈によって意味が変容する過程を探求する"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "morphology",
+		"word": "Morphology",
+		"meaning": "形態論、語形論、形の研究",
+		"era": "19th Century German-origin-Greek",
+		"etymology": {
+			"components": [
+				"morpho- (form / shape)",
+				"-logy (study)"
+			],
+			"original_statement": "Coined in German as 'Morphologie' by Goethe for biology, later applied to linguistics to describe how words are formed from morphemes."
+		},
+		"concept": "The geometry of words (言葉の幾何学、変容する姿)",
+		"thinking": "言葉がどのように組み立てられ、形（Morph）を成していくかの研究。一つの単語は、複数の意味の破片が結合して生まれた、結晶のような精緻な構造体なのです。",
+		"aftertaste": "形を愛でることは、その成り立ちという時間に触れることです。",
+		"example": "Prefixes and suffixes are part of a word's morphology.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "morph",
+					"meaning": "form / shape"
+				}
+			],
+			"points": [
+				"ゲーテが生物学の用語として考案した",
+				"Amorphous (無定形の) と対比的"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "phonology",
+		"word": "Phonology",
+		"meaning": "音韻論、音の体系の研究",
+		"era": "Ancient Greek phone",
+		"etymology": {
+			"components": [
+				"phone (sound / voice)",
+				"-logy (study)"
+			],
+			"original_statement": "From Greek phone 'sound' + -logia 'study of'."
+		},
+		"concept": "The architecture of sound (響きの秩序、空気を震わせる法則)",
+		"thinking": "単なる物音ではなく、意味を運ぶための「声（Phone）」の体系。空気を震わせる現象が、人々の耳を通り、脳内で論理へと変換される奇跡的なプロセスを探ります。",
+		"aftertaste": "静寂を彩るすべての音に、固有の物語（ロジー）があるのです。",
+		"example": "The phonology of Japanese differs from that of French.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "phon",
+					"meaning": "sound / voice"
+				}
+			],
+			"points": [
+				"Telephone, Symphony, Microphone と同根",
+				"音声学（Phonetics）とは区別される体系論"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "orthography",
+		"word": "Orthography",
+		"meaning": "正書法、正しい綴り字",
+		"era": "Ancient Greek orthos + graphein",
+		"etymology": {
+			"components": [
+				"orthos (correct / straight)",
+				"graphein (to write)"
+			],
+			"original_statement": "From Greek orthographia, from orthos 'correct' + graphein 'to write'."
+		},
+		"concept": "The upright writing (正しき刻印、言葉の身だしなみ)",
+		"thinking": "言葉を「正しく、まっすぐに（Orthos）」書き記すこと。それは単なるルールではなく、他者と意思を確実に共有するための、社会的な誠実さの表れでもあります。",
+		"aftertaste": "ひと筆の揺るぎなさが、言葉に品格を宿らせます。",
+		"example": "Spelling bees test a student's orthography.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ortho",
+					"meaning": "straight / correct"
+				},
+				{
+					"term": "graph",
+					"meaning": "write"
+				}
+			],
+			"points": [
+				"Orthodox (正統派), Graphics (画像) とも繋がり",
+				"言語の視覚的なアイデンティティ"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "onomatopoeia",
+		"word": "Onomatopoeia",
+		"meaning": "擬声語、擬音語",
+		"era": "Ancient Greek onomatopoiia",
+		"etymology": {
+			"components": [
+				"onoma (name)",
+				"poiein (to make)"
+			],
+			"original_statement": "From Greek onomatopoiia, from onoma 'name' + poiein 'to make'."
+		},
+		"concept": "Creating the name (響きを名付けること、根源的な模倣)",
+		"thinking": "自然の音を「名（Onoma）」として「作る（Poiein）」こと。言葉が抽象化される以前の、世界との直接的な接触から生まれた、最も原始的でダイレクトな表現です。",
+		"aftertaste": "世界のざわめきを、自らの声で模倣した時の原始的な喜び。",
+		"example": "Words like 'buzz' and 'click' are examples of onomatopoeia.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "onom",
+					"meaning": "name"
+				},
+				{
+					"term": "poie",
+					"meaning": "make / do"
+				}
+			],
+			"points": [
+				"Anonymous, Poet とも語源を共有",
+				"言語が生まれる瞬間のエネルギーを宿している"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "oxymoron",
+		"word": "Oxymoron",
+		"meaning": "矛盾語法、撞着語法",
+		"era": "Ancient Greek oxymoron",
+		"etymology": {
+			"components": [
+				"oxys (sharp / acid)",
+				"moros (dull / foolish)"
+			],
+			"original_statement": "From Greek oxymoron, neuter of oxymoros 'pointedly foolish', from oxys 'sharp' + moros 'dull / stupid'."
+		},
+		"concept": "Pointedly foolish (鋭き愚かさ、矛盾による真理)",
+		"thinking": "「鋭い（Oxys）」と「鈍い（Moros）」という相反する概念。互いに否定し合う言葉が重なった時、単一の言葉では捉えられなかった世界の複雑な複層性が露わになります。",
+		"aftertaste": "相反する二つの影が重なった時、輪郭はより明確になります。",
+		"example": "'Living dead' is a famous oxymoron.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "oxy",
+					"meaning": "sharp / sour"
+				},
+				{
+					"term": "moro",
+					"meaning": "stupid / dull"
+				}
+			],
+			"points": [
+				"Oxygen (酸素: 酸を産むもの), Moron (馬鹿者) と繋がる",
+				"知的な遊び心が生む哲学的深み"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "palindrome",
+		"word": "Palindrome",
+		"meaning": "回文、上から読んでも下から読んでも同じ語",
+		"era": "Ancient Greek palindromos",
+		"etymology": {
+			"components": [
+				"palin (back / again)",
+				"dromos (running / course)"
+			],
+			"original_statement": "From Greek palindromos 'running back again', from palin 'back' + dromos 'a running'."
+		},
+		"concept": "The circular path (円環する走者、反転する対称性)",
+		"thinking": "再び（Palin）走り（Dromos）戻ってくる言葉。始まりと終わりが完璧な対称性を持ち、時間の流れさえも円環に変えてしまうような、言葉の幾何学的な様式美です。",
+		"aftertaste": "終わりは常に、新しい始まりの影でもあります。",
+		"example": "'Radar' and 'Level' are palindromes.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "palin",
+					"meaning": "again / back"
+				},
+				{
+					"term": "drom",
+					"meaning": "running / track"
+				}
+			],
+			"points": [
+				"Hippodrome (競馬場) とも同根",
+				"古くから魔除けや呪文としても使われた"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "metaphor",
+		"word": "Metaphor",
+		"meaning": "隠喩、メタファー、暗喩",
+		"era": "Ancient Greek metaphora",
+		"etymology": {
+			"components": [
+				"meta- (across / beyond)",
+				"pherein (to carry)"
+			],
+			"original_statement": "From Greek metaphora, meaning 'a transfer', from meta- 'across' + pherein 'to carry'."
+		},
+		"concept": "Carrying meaning across (意味を運び越える、想像力の橋)",
+		"thinking": "ある意味を別の場所へと「運び（Pherein）越える（Meta）」こと。見慣れた事象を全く別の何かに例えることで、私たちの認識には新しい窓が開き、未知の感情に名前を与えることができます。",
+		"aftertaste": "この世界を、あなたは何に例えて歩みますか？",
+		"example": "Life is a journey is a basic metaphor.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "pher",
+					"meaning": "carry / bear"
+				}
+			],
+			"points": [
+				"Transfer, Ferry, Peripheral と同根",
+				"アリストテレスは『詩学』でこれを最高度の知性と呼んだ"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "polyglot",
+		"word": "Polyglot",
+		"meaning": "多言語話者、複数の言葉に通じた人",
+		"era": "Ancient Greek polyglottos",
+		"etymology": {
+			"components": [
+				"poly- (many)",
+				"glotta (tongue / language)"
+			],
+			"original_statement": "From Greek polyglottos, from poly- 'many' + glotta 'tongue'."
+		},
+		"concept": "Many-tongued (多種多様な舌、越境する精神)",
+		"thinking": "「多くの（Poly）」言葉の「舌（Glotta）」を持つ人。一つの言葉が一つの宇宙であるならば、複数の言葉を操ることは、複数の宇宙を自在に行き来する旅人であることを意味します。",
+		"aftertaste": "言語の数だけ、あなたの世界には新しい地平線が生まれます。",
+		"example": "She is a polyglot who speaks five languages fluently.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "poly",
+					"meaning": "many / much"
+				},
+				{
+					"term": "glot",
+					"meaning": "tongue"
+				}
+			],
+			"points": [
+				"Glossary (用語集), Glottis (声門) と繋がる",
+				"バベルの塔の呪いを克服する存在"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "euphemism",
+		"word": "Euphemism",
+		"meaning": "遠回しな表現、婉曲語法",
+		"era": "Ancient Greek euphemismos",
+		"etymology": {
+			"components": [
+				"eu- (good)",
+				"pheme (speech / speaking)"
+			],
+			"original_statement": "From Greek euphemismos, from eu- 'good' + pheme 'speaking'."
+		},
+		"concept": "Good speaking (美しき言葉の盾、優しさの余白)",
+		"thinking": "耳慣れない、あるいは厳しい事実を「良い（Eu）」響きの「言葉（Pheme）」で包むこと。それは欺瞞ではなく、直接的な衝撃を和らげ、他者の尊厳を守るための「優しさのクッション」でもあります。",
+		"aftertaste": "真実を語る時、その鋭さを包む「絹の言葉」を添えて。",
+		"example": "'Passed away' is a euphemism for 'died'.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "eu",
+					"meaning": "good / well"
+				},
+				{
+					"term": "phem",
+					"meaning": "speak / show"
+				}
+			],
+			"points": [
+				"Eulogy (追悼文), Prophet (預言者) とも繋がり",
+				"言葉が持つ社交的・儀式的な側面"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "colloquial",
+		"word": "Colloquial",
+		"meaning": "口語的な、日常会話の",
+		"era": "Latin colloquium",
+		"etymology": {
+			"components": [
+				"com- (with)",
+				"loqui (to speak)"
+			],
+			"original_statement": "From Latin colloquialis, from colloquium 'conference, conversation', from com- 'together' + loqui 'to speak'."
+		},
+		"concept": "Speaking together (共に語らうこと、生きた言葉の息吹)",
+		"thinking": "堅苦しい形式を捨て、誰かと「共に（Com）語らう（Loqui）」ための言葉。紙の上に固定される以前の、人々の口から口へと流れ、常に変化し続ける「体温（情熱）」の宿った生きた表現です。",
+		"aftertaste": "洗練された文体も美しいですが、砕けた言葉には日常の愛おしさが詰まっています。",
+		"example": "'Buddy' is a colloquial term for a friend.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "loqu",
+					"meaning": "speak / talk"
+				}
+			],
+			"points": [
+				"Eloquent, Soliloquy, Loquacious と同根",
+				"言語が最も自由に呼吸する領域"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "efflorescence",
+		"word": "Efflorescence",
+		"meaning": "開花、全盛、(化学)風解",
+		"era": "Latin efflorescere",
+		"etymology": {
+			"components": [
+				"ex- (out)",
+				"florescere (to bloom)"
+			],
+			"original_statement": "From Latin efflorescere, from ex- 'out' + florescere 'to begin to bloom', from flos 'flower'."
+		},
+		"concept": "Blooming out (内なる華の噴出、最上の結実)",
+		"thinking": "内側に秘められた力が、外側へと「溢れ出すように（Ex）咲く（Florescere）」こと。単なる成長を超え、美しさとエネルギーが飽和し、この世界に彩りを与える瞬間の輝きを指します。",
+		"aftertaste": "あなたの努力が、いつか世界を驚かせる「開花」の時を迎えますように。",
+		"example": "The arts reached their efflorescence during the Renaissance.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "flor",
+					"meaning": "flower / bloom"
+				}
+			],
+			"points": [
+				"Flourish, Flora, Florida と同根",
+				"結晶の表面に粉末が現れる化学現象も指す"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "redolent",
+		"word": "Redolent",
+		"meaning": "かぐわしい、〜を強く連想させる",
+		"era": "Latin redolere",
+		"etymology": {
+			"components": [
+				"re- (intensive)",
+				"olere (to smell)"
+			],
+			"original_statement": "From Latin redolent- 'smelling of', from re- (prefix used here as intensive) + olere 'to emit a smell'."
+		},
+		"concept": "Echoing smell (甦る香り、記憶の微かな響き)",
+		"thinking": "単に匂いが強いのではなく、何かの記憶や面影を「繰り返し（Re）呼び覚ます（Olere）」ような響き。香り一つで、私たちは瞬時にして過去の情景や、遠い異国の石畳に連れ戻されます。",
+		"aftertaste": "香りは、最も古い記憶の扉を開く「見えない鍵」です。",
+		"example": "The air was redolent of pine and cedar.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ol",
+					"meaning": "smell"
+				}
+			],
+			"points": [
+				"Odorous, Olfactory と親戚",
+				"文芸批評では「〜を想起させる」とよく使われる"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "susurrus",
+		"word": "Susurrus",
+		"meaning": "さらさらという音、ささやき、密やかなざわめき",
+		"era": "Latin susurrus",
+		"etymology": {
+			"components": [
+				"susurrare (to whisper / hum)"
+			],
+			"original_statement": "From Latin susurrus 'a humming / whispering', an imitative (onomatopoeic) word."
+		},
+		"concept": "The sound of whispering (ささめき、風の秘密の話)",
+		"thinking": "「Su-sur-rus」という響きそのものが、風に揺れる木の葉や、海辺の砂を撫でる波音を再現しています。人間が沈黙した時にだけ聞こえてくる、世界の密やかな対話に耳を傾ける言葉です。",
+		"aftertaste": "喧騒から離れた場所で、繊細な世界のささやきを聴く力。",
+		"example": "A soft susurrus rose from the pine forest.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "susur",
+					"meaning": "whisper / mutter"
+				}
+			],
+			"points": [
+				"擬音語に由来する言葉",
+				"Susurrationとも呼ばれる"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "heliotropism",
+		"word": "Heliotropism",
+		"meaning": "向日性、太陽追尾性",
+		"era": "Ancient Greek helios + tropos",
+		"etymology": {
+			"components": [
+				"helios (sun)",
+				"tropos (a turn)"
+			],
+			"original_statement": "From Greek helios 'sun' + tropos 'a turning'."
+		},
+		"concept": "Turning toward the light (太陽へと向く心、光への希求)",
+		"thinking": "太陽の動きに合わせて「向き（Tropos）」を変える植物の性質。人間もまた、本能的に光や希望を求めて自らの魂の角度を調整しようとします。光を見ることは、私たちが「生」を維持するための根本的な身振りなのです。",
+		"aftertaste": "暗闇の中でも、あなたは光の方角を本能で知っているはずです。",
+		"example": "Sunflowers exhibit a strong sense of heliotropism.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "heli",
+					"meaning": "sun"
+				},
+				{
+					"term": "trop",
+					"meaning": "turn / change"
+				}
+			],
+			"points": [
+				"Trophy (勝利して敵を翻した場所), Tropic (回帰線) と繋がる",
+				"Helium (ヘリウム) も太陽由来"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "cryptography",
+		"word": "Cryptography",
+		"meaning": "暗号法、暗号化",
+		"era": "Ancient Greek kryptos",
+		"etymology": {
+			"components": [
+				"kryptos (hidden / secret)",
+				"graphein (to write)"
+			],
+			"original_statement": "From Greek kryptos 'hidden' + graphein 'to write'."
+		},
+		"concept": "The art of hidden writing (隠されし文字、真意を届けるための鎧)",
+		"thinking": "「隠された（Kryptos）」場所に「書き記す（Graph）」技法。真実は常にそのまま語られるのではなく、選ばれた者だけが解くことのできるヴェールの向こう側に置かれることで、より重層的な意味を纏います。",
+		"aftertaste": "すべての言葉は、沈黙という暗号から生まれました。",
+		"example": "Cryptography is essential for secure online banking.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kryp",
+					"meaning": "hide / cover"
+				}
+			],
+			"points": [
+				"Crypt (地下聖堂: 隠された場所) と同根",
+				"現代のデジタル世界の基盤"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "ideogram",
+		"word": "Ideogram",
+		"meaning": "表意文字、概念を示す記号",
+		"era": "Ancient Greek idea + gramma",
+		"etymology": {
+			"components": [
+				"idea (concept / form)",
+				"gramma (something written)"
+			],
+			"original_statement": "From Greek idea 'concept' + gramma 'written thing'."
+		},
+		"concept": "Writing the concept (形をなき「想い」を描き出すこと)",
+		"thinking": "音ではなく、直接「概念（Idea）」を「記号（Gram）」にしたもの。漢字のように、一文字の中に何千年の歴史とイメージが凝縮されている、非常に高密度で視覚的な知的ツールです。",
+		"aftertaste": "一閃の筆致が、千の言葉を語ります。",
+		"example": "Chinese characters are the most widely used ideograms today.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "id / eid",
+					"meaning": "to see / look"
+				},
+				{
+					"term": "gram",
+					"meaning": "drawing / record"
+				}
+			],
+			"points": [
+				"Ideaは「見られるもの」という意味に由来",
+				"Telegram, Diagram, Grammarと同根"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "logophile",
+		"word": "Logophile",
+		"meaning": "言葉愛好家、単語を愛する人",
+		"era": "Ancient Greek logos + philos",
+		"etymology": {
+			"components": [
+				"logos (word / reason)",
+				"philos (loving)"
+			],
+			"original_statement": "From Greek logos 'word / speech / reason' + philo- 'loving'."
+		},
+		"concept": "One who loves words (言葉に恋し、言葉に救われる者)",
+		"thinking": "単語の一つひとつが持つ「理由（Logos）」を愛し、その響きや歴史を慈しむ者。言葉をただの道具ではなく、世界を理解するための最愛の友として「愛（Philo）」で満たす、あなたのための呼称です。",
+		"aftertaste": "Ling-Ling Etymonを訪れるあなたもまた、気高きロゴファイルです。",
+		"example": "As a logophile, she spends hours reading dictionaries.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "log",
+					"meaning": "word / thought"
+				},
+				{
+					"term": "phil",
+					"meaning": "love"
+				}
+			],
+			"points": [
+				"Philosophy (知を愛する) と対になる存在",
+				"20世紀半ばから使われるようになった言葉"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "equinox",
+		"word": "Equinox",
+		"meaning": "昼夜分点（春分・秋分）、昼夜が等しくなる時",
+		"era": "Latin aequinoctium",
+		"etymology": {
+			"components": [
+				"aequus (equal)",
+				"nox (night)"
+			],
+			"original_statement": "From Latin aequinoctium, from aequus 'equal' + nox 'night'."
+		},
+		"concept": "Equal night (昼夜の均衡、光と闇の対等な瞬間)",
+		"thinking": "昼と夜、「等しく（Aequus）」なる「夜（Nox）」。光と闇が完璧な均衡を保つこの一瞬は、移ろいゆく季節の転換点であり、宇宙が私たちに示す調和の象徴でもあります。",
+		"aftertaste": "すべての対立が静まり、均衡が訪れる特別な一日。",
+		"example": "The autumnal equinox occurs in September.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "aequ",
+					"meaning": "equal"
+				},
+				{
+					"term": "nox",
+					"meaning": "night"
+				}
+			],
+			"points": [
+				"Equity, Nocturnal と共通の根を持つ",
+				"14世紀にフランス語経由で英語に定着"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "equilibrium",
+		"word": "Equilibrium",
+		"meaning": "（力の）均衡、釣り合い、心の平静",
+		"era": "Latin aequilibrium",
+		"etymology": {
+			"components": [
+				"aequus (equal)",
+				"libra (balance / weight)"
+			],
+			"original_statement": "From Latin aequilibrium, from aequus 'equal' + libra 'balance / scales'."
+		},
+		"concept": "Balanced weight (等しき重さ、静止した真実)",
+		"thinking": "天秤（Libra）の両端が「等しく（Aequus）」なり、微動だにしない状態。激しい揺れの後、あらゆる力が拮抗した時にだけ訪れる、一瞬の、しかし力強い静寂を現しています。",
+		"aftertaste": "どちらにも偏らない。その中心に、あなたが求める答えがあります。",
+		"example": "He struggled to maintain his mental equilibrium.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "aequ",
+					"meaning": "equal"
+				},
+				{
+					"term": "libr",
+					"meaning": "scales / weight"
+				}
+			],
+			"points": [
+				"天秤座（Libra）の語源",
+				"17世紀初期から物理学と心理学の双方で使われた"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "singularity",
+		"word": "Singularity",
+		"meaning": "特異点、非凡、単独、(AI)技術的特異点",
+		"era": "Latin singularis",
+		"etymology": {
+			"components": [
+				"singulus (one each / single)"
+			],
+			"original_statement": "From Latin singularis, from singulus 'single'."
+		},
+		"concept": "The point of one (ただ一点の特異、予測不能の彼方)",
+		"thinking": "既存の論理が通用しなくなる「たった一つ（Singulus）」の点。そこを越えた先には、もはや過去の延長ではない、全く新しい宇宙が広がっています。それは、個人の魂の覚醒にも似た爆発的な転換点です。",
+		"aftertaste": "あなたは唯一無二の「個」であり、それ自体が宇宙の特異点です。",
+		"example": "The center of a black hole is a gravitational singularity.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sing",
+					"meaning": "one / simple"
+				}
+			],
+			"points": [
+				"Single, Simple と同根",
+				"現代では人工知能の爆発的進化の象徴として"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "oscillation",
+		"word": "Oscillation",
+		"meaning": "振動、揺れ、迷い、心の変動",
+		"era": "Latin oscillatio",
+		"etymology": {
+			"components": [
+				"oscillum (a swing / mask of Bacchus)"
+			],
+			"original_statement": "From Latin oscillatio, as if from oscillum 'a swing', literally 'little face' (a mask of Bacchus hung in trees)."
+		},
+		"concept": "The swinging face (揺れる面、光と影の反復)",
+		"thinking": "木に吊るされ、風に「揺れる顔（Oscillum）」。二つの極点の間を絶えず行き来するこの運動は、生命の鼓動そのものであり、絶え間なく変化し続ける人間の心の在りようを映し出しています。",
+		"aftertaste": "揺れるからこそ、自分自身の中心（バランス）に気づくことができます。",
+		"example": "The oscillation of the pendulum kept a steady rhythm.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "os",
+					"meaning": "mouth / face"
+				}
+			],
+			"points": [
+				"Oral (口述の) と語源が重なる",
+				"バッカスの祭典での習慣から生まれた詩的用語"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "refraction",
+		"word": "Refraction",
+		"meaning": "屈折",
+		"era": "Latin refractio",
+		"etymology": {
+			"components": [
+				"re- (back)",
+				"frangere (to break)"
+			],
+			"original_statement": "From Latin refractio, from refringere 'to break up / back', from re- 'back' + frangere 'to break'."
+		},
+		"concept": "Broken back (折り返されし光、境界での変化)",
+		"thinking": "境界線を越える時、真っ直ぐな力は「再び（Re）折れる（Frangere）」。しかし、それによって透明な光は虹の色を取り出し、私たちの目に世界の鮮やかさを提示します。変化とは、本質を露わにするための歪みなのです。",
+		"aftertaste": "折れた場所から、以前は見えなかった色彩が溢れ出します。",
+		"example": "Water causes the refraction of light.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "frag",
+					"meaning": "break"
+				}
+			],
+			"points": [
+				"Fragment, Fragile と親戚",
+				"異なる世界への境界で起こる「光の歪み」"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "luminescence",
+		"word": "Luminescence",
+		"meaning": "ルミネセンス、冷光、(熱を伴わない)発光",
+		"era": "Latin lumen + -escentia",
+		"etymology": {
+			"components": [
+				"lumen (light)",
+				"-escere (becoming / starting)"
+			],
+			"original_statement": "Coined in 1888 from Latin lumen 'light' + inceptive suffix -escere 'to become'."
+		},
+		"concept": "Beginning to shine (光り始めること、秘められた内的な灯火)",
+		"thinking": "熱を持たず、しかし静かに「光り（Lumen）始める（-esce）」状態。深海や静寂の中で、外部の燃料に頼ることなく自らの内側から放たれる、冷たくも美しい覚醒の輝きを指しています。",
+		"aftertaste": "静寂の中で、あなたの内なる光が目覚める。その繊細な輝きを見逃さないで。",
+		"example": "The luminescence of the plankton lit up the midnight sea.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "lum",
+					"meaning": "light"
+				},
+				{
+					"term": "esc",
+					"meaning": "becoming"
+				}
+			],
+			"points": [
+				"Adolescence（成長し始める）と同じ接尾辞",
+				"熱という破壊力を伴わない、純粋な光の現出"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "reckoning",
+		"word": "Reckoning",
+		"meaning": "計算、清算、審判の日、予測",
+		"era": "Old English recenian",
+		"etymology": {
+			"components": [
+				"recenian (to arrange / reckon)"
+			],
+			"original_statement": "From Old English recenian 'to arrange / make straight', from Proto-Germanic root meaning 'to make straight / right'."
+		},
+		"concept": "Making things straight (真っ直ぐにすること、究極の収支)",
+		"thinking": "もつれた全ての糸を「真っ直ぐに（Recenian）」整え、真実の重さを量ること。それは逃れられない報いの時であると同時に、混沌とした人生に最終的な意味という「秩序」を与える清算の瞬間でもあります。",
+		"aftertaste": "すべての貸し借りを終え、あなたはどんな静かな心境で明日を迎えますか？",
+		"example": "A day of reckoning will eventually come.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "reck",
+					"meaning": "straighten"
+				},
+				{
+					"term": "reg",
+					"meaning": "right / rule"
+				}
+			],
+			"points": [
+				"Ready, Rule, Reach と同根",
+				"個人の人生の『精算』を示す重層的な響き"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "nebula",
+		"word": "Nebula",
+		"meaning": "星雲、霧、雲",
+		"era": "Latin nebula",
+		"etymology": {
+			"components": [
+				"nebula (mist / cloud)"
+			],
+			"original_statement": "From Latin nebula 'mist, vapor, fog, cloud'."
+		},
+		"concept": "Ancient mist of stars (星々の太古の霧)",
+		"thinking": "宇宙に漂うガスと塵の巨大な雲。ラテン語で「霧（Nebula）」を意味します。かつてはすべての銀河が「星雲」と呼ばれていましたが、その正体は星々が生まれる前の「聖なるゆりかご」なのです。",
+		"aftertaste": "形なき霧の中から、いつか新しい星が生まれます。",
+		"example": "The Orion Nebula is visible to the naked eye.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "nebh",
+					"meaning": "cloud / mist"
+				}
+			],
+			"points": [
+				"Nimbus, Nephology と同根",
+				"17世紀から天文学用語として使用"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "sidereal",
+		"word": "Sidereal",
+		"meaning": "恒星の、星に関する",
+		"era": "Latin sidereus",
+		"etymology": {
+			"components": [
+				"sidus (star / constellation)"
+			],
+			"original_statement": "From Latin sidereus 'of or belonging to the stars', from sidus 'star'."
+		},
+		"concept": "Calculated by the stars (星々によって計られる時間)",
+		"thinking": "太陽ではなく、遠い恒星の配置に基づいて計られる、真の宇宙的な時間。私たちの日常を規定する太陽暦を超えた、より広大で無機質な「星（Sidus）」の視点からの計測を指します。",
+		"aftertaste": "地上の喧騒を忘れ、星々の呼吸に時間を合わせてみてください。",
+		"example": "A sidereal day is slightly shorter than a solar day.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sidus",
+					"meaning": "star / group of stars"
+				}
+			],
+			"points": [
+				"Consider (星を共に見る) と同根",
+				"Desire (星から離れる→星を待つ) との繋がり"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "comet",
+		"word": "Comet",
+		"meaning": "彗星（すいせい）、ほうき星",
+		"era": "Ancient Greek kometes",
+		"etymology": {
+			"components": [
+				"kome (hair)"
+			],
+			"original_statement": "From Greek kometes 'long-haired (star)', from kome 'hair'."
+		},
+		"concept": "Long-haired star (髪の長い星、天空を駆け抜ける流髪)",
+		"thinking": "長い尾を引くその姿を、古代のギリシャ人は「長い髪（Kome）」の星と呼びました。天空を音もなく駆け抜ける孤独な旅人は、神が宇宙を梳いた際に残された美しい一房の髪のようです。",
+		"aftertaste": "不意に現れ、一瞬の輝きを残して去る。まるで人生そのもののようです。",
+		"example": "Halley's Comet returns every 76 years.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kom",
+					"meaning": "hair"
+				}
+			],
+			"points": [
+				"Pony tailのイメージに近い",
+				"凶兆と信じられた時代もありました"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "constellation",
+		"word": "Constellation",
+		"meaning": "星座、星の群れ、煌（きら）びやかな集まり",
+		"era": "Latin constellatio",
+		"etymology": {
+			"components": [
+				"con- (together)",
+				"stella (star)"
+			],
+			"original_statement": "From Latin constellatio, from con- 'together' + stella 'star'."
+		},
+		"concept": "Stars gathered together (共に集いし星々、天に綴られた物語)",
+		"thinking": "独立して輝く星々を「共に（Con）」結びつけ、意味ある「星（Stella）」の形として捉えること。混沌とした光の点に線を引き、物語を見出す行為は、人間が宇宙に対して行った最古の「秩序」の付与です。",
+		"aftertaste": "点と点がつながる時、冷たい夜空に温かな物語が灯ります。",
+		"example": "Orion is one of the most recognizable constellations.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ster",
+					"meaning": "star"
+				}
+			],
+			"points": [
+				"Stellar, Asterisk, Astrology と同根",
+				"点をつなぐのが理性の力なら、形を描くのは想像力の力"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "apriori",
+		"word": "A priori",
+		"meaning": "先天的、アプリオリ、経験に先立つ",
+		"era": "Latin a priori",
+		"etymology": {
+			"components": [
+				"a (from)",
+				"priori (prior / former)"
+			],
+			"original_statement": "From Latin a priori 'from what is earlier'."
+		},
+		"concept": "From the beginning (初めから備わっているもの、経験に依存しない真理)",
+		"thinking": "実験や観察という経験を経ずとも、純粋な思考のみで導き出される真理。私たちがこの世界を理解するための「OS（基本ソフト）」として、最初から魂の中にインストールされている知識を指します。",
+		"aftertaste": "あなたの内側に、初めから灯っていた光。それを探してみてください。",
+		"example": "Mathematical truths are considered a priori knowledge.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "pri",
+					"meaning": "before / first"
+				}
+			],
+			"points": [
+				"Prior, Prime, Primary と共通項",
+				"カント哲学における最重要概念の一つ"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "cogito",
+		"word": "Cogito",
+		"meaning": "コギト（我思う）、思考",
+		"era": "Latin cogitare",
+		"etymology": {
+			"components": [
+				"co- (together)",
+				"agitare (to shake / move)"
+			],
+			"original_statement": "From Latin cogitare 'to consider / think', literally 'to shake together', from co- 'together' + agitare 'to move / drive'."
+		},
+		"concept": "Shaking thoughts together (思考を揺さぶり合わせること、確固たる自己の出発点)",
+		"thinking": "デカルトの「我思う、ゆえに我あり」の核となる言葉。様々な情報を「共に（Co）揺さぶり（Agitare）」一つの結論へと練り上げる行為。すべての疑念を振り払った先に残る、たった一つの確信です。",
+		"aftertaste": "考えることを止めない限り、あなたはここに存在し続けます。",
+		"example": "The 'Cogito' is the starting point of modern philosophy.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ag",
+					"meaning": "do / act / move"
+				}
+			],
+			"points": [
+				"Agitate, Agent, Action と同根",
+				"思考とは脳内で行われる激しい震動なのです"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "imperative",
+		"word": "Imperative",
+		"meaning": "命令的な、不可欠な、義務的命令",
+		"era": "Latin imperativus",
+		"etymology": {
+			"components": [
+				"in- (upon / into)",
+				"parare (to make ready)"
+			],
+			"original_statement": "From Latin imperativus 'specially prepared / commanded', from imperare 'to command / prepare', from in- 'into' + parare 'to prepare'."
+		},
+		"concept": "The command of duty (内なる命令、逃れ得ぬ義務)",
+		"thinking": "外からの強制ではなく、自らの理性や良心が「なすべきこと」として発する絶対的な命令。準備を整え（Parare）、意志を一段高い場所へと押し上げる（In-）ための、崇高な決意を指します。",
+		"aftertaste": "あなたが自分自身に課した、最も誇り高き「命令」は何ですか？",
+		"example": "It is a moral imperative to help those in need.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "par",
+					"meaning": "produce / prepare"
+				}
+			],
+			"points": [
+				"Empire, Imperial と同根。自らを支配する力",
+				"カントの『定言命法』の訳語"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "sonorous",
+		"word": "Sonorous",
+		"meaning": "朗々とした、響きの豊かな、高雅な",
+		"era": "Latin sonorus",
+		"etymology": {
+			"components": [
+				"sonor (sound / noise)"
+			],
+			"original_statement": "From Latin sonorus 'resounding / loud', from sonor 'sound'."
+		},
+		"concept": "Filled with deep sound (深き響きに満ちた、魂を震わせる声)",
+		"thinking": "空間を埋め尽くし、聴く者の骨まで震わせるような深く豊かな響き。ただ大きいのではなく、その音の中に何層もの倍音と調和が潜んでいる。権威と温かさを同時に感じさせる声の質感を指します。",
+		"aftertaste": "あなたの沈黙すら、時には朗々たる響きを持って他者の心に届きます。",
+		"example": "The actor delivered his lines in a sonorous baritone.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "son",
+					"meaning": "sound"
+				}
+			],
+			"points": [
+				"Resonance, Sonar と同根",
+				"17世紀初期にラテン語から借用"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "petal",
+		"word": "Petal",
+		"meaning": "花びら、弁",
+		"era": "Ancient Greek petalon",
+		"etymology": {
+			"components": [
+				"pet- (to spread out / broad)"
+			],
+			"original_statement": "From Greek petalon 'leaf / thin plate', from petannunai 'to spread out'."
+		},
+		"concept": "Spreading out to the world (世界へ広がる、薄く柔らかな翼)",
+		"thinking": "世界に対して自らを「開く（Pet-）」こと。花びらは、内側の生命を誇示するのではなく、光を受け入れるために最大限に自分を広げた、植物の美しき「翼」なのです。受容的な強さを象徴する形です。",
+		"aftertaste": "あなたの優しさは、どんな花びらよりも遠くまで香ります。",
+		"example": "The rose petals fell softly on the grass.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "pete",
+					"meaning": "spread"
+				}
+			],
+			"points": [
+				"Expand, Pace と親戚",
+				"生物学的な「開花の身振り」"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "mycelium",
+		"word": "Mycelium",
+		"meaning": "菌糸体、キノコを形作るネットワーク",
+		"era": "Modern Latin / Greek mykes",
+		"etymology": {
+			"components": [
+				"mykes (mushroom / fungus)"
+			],
+			"original_statement": "From New Latin, from Greek mykes 'fungus / mushroom'."
+		},
+		"concept": "The invisible web of life (見えない生命の毛細血管、大地の情報網)",
+		"thinking": "地表に見える「キノコ」は本体ではありません。土壌を縦横無尽に走り、栄養と情報を交換し合う広大な「菌糸（Mycelium）」のネットワークこそが本体です。目に見えない繋がりこそが、表の世界を支えているのです。",
+		"aftertaste": "あなたの知らない場所で、世界はいつもあなたを支えています。",
+		"example": "The mycelium can spread for miles underground.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "myc",
+					"meaning": "fungus"
+				}
+			],
+			"points": [
+				"Mycology (菌類学) の基本単位",
+				"近年、環境科学分野で「インターネット」のモデルとしても注目されています"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "stalactite",
+		"word": "Stalactite",
+		"meaning": "鐘乳石（つらら石）、天井から垂れる石",
+		"era": "Ancient Greek stalaktos",
+		"etymology": {
+			"components": [
+				"stalassein (to drip / trickle)"
+			],
+			"original_statement": "From Greek stalaktos 'dripping / trickling', from stalassein 'to let fall in drops'."
+		},
+		"concept": "The time of dripping (一滴に凝縮された時間、垂直の彫刻)",
+		"thinking": "「滴る（Stalassein）」水滴が、数百年という時間をかけて一滴ずつ、自らの跡を石として残したもの。それは、流れる時間そのものが重力に引かれて固まった、地球の静かな「涙の痕」のようなものです。",
+		"aftertaste": "一瞬の積み重ねが、やがて消えない形を創ります。",
+		"example": "The stalactites hung like stone daggers from the cave ceiling.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "stal",
+					"meaning": "drip"
+				}
+			],
+			"points": [
+				"Stalagmite (石筍: 床に溜まる方) とよく混同されます",
+				"「滴るの c(eiling)」と「地面からの g(round)」で覚えるのが通例"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "confluence",
+		"word": "Confluence",
+		"meaning": "（河川の）合流点、寄り集まり、一致",
+		"era": "Latin confluentia",
+		"etymology": {
+			"components": [
+				"con- (together)",
+				"fluere (to flow)"
+			],
+			"original_statement": "From Latin confluentia, from con- 'together' + fluere 'to flow'."
+		},
+		"concept": "Flowing together (共に流れ、一つの力となること)",
+		"thinking": "異なる源流から来た流れが「共に（Con）流れる（Fluere）」場所。対立するものではなく、それぞれの個性を持ち寄って、より深い「大河」へと変容する地点。協調とは、多様性が一つの方向を見出した時に生まれる美しさです。",
+		"aftertaste": "違う場所から来た私たちが、今ここにある。その奇跡の合流点を愛でてください。",
+		"example": "The city was built at the confluence of two great rivers.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "flu",
+					"meaning": "flow"
+				}
+			],
+			"points": [
+				"Fluid, Influence, Fluent と繋がる",
+				"歴史の大きな転換点を示すメタファーとしても多用"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "nucleus",
+		"word": "Nucleus",
+		"meaning": "核、中心、核芯",
+		"era": "Latin nucleus",
+		"etymology": {
+			"components": [
+				"nux (nut)",
+				"-cleus (little)"
+			],
+			"original_statement": "From Latin nucleus 'little nut / kernel', diminutive of nux 'nut'."
+		},
+		"concept": "The precious kernel (守られし小さな実、不動の中心)",
+		"thinking": "堅い殻に守られた、最も価値のある「小さな木の実（Nux）」。すべての生命や情報の設計図が収められたその場所は、どんな激動の中でも変わることのない、自己の「真実（Core）」そのものです。",
+		"aftertaste": "あなたの内側にある、決して壊れない「核」を信じて。",
+		"example": "The cell's nucleus contains genetic material.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "nux",
+					"meaning": "nut"
+				}
+			],
+			"points": [
+				"Nuclear, Nut と同根",
+				"17世紀初期には「中心的な集団」の意で使われた"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "chromosome",
+		"word": "Chromosome",
+		"meaning": "染色体、生命の設計図",
+		"era": "German-origin-Greek",
+		"etymology": {
+			"components": [
+				"khroma (color)",
+				"soma (body)"
+			],
+			"original_statement": "Coined in 1888 from Greek khroma 'color' + soma 'body', because they are easily stained with basic dyes."
+		},
+		"concept": "The colored body (彩られた身体、生命を紡ぐ色)",
+		"thinking": "「色（Khroma）」を帯びた「体（Soma）」。顕微鏡の下で鮮やかに染まるその糸のような構造には、あなたが誰であり、どこから来たのかという壮大な歴史が、色鮮やかなコードとして刻み込まれています。",
+		"aftertaste": "あなたという存在は、幾千万の色に染められた記憶の結晶です。",
+		"example": "Humans typically have 46 chromosomes.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "khrom",
+					"meaning": "color"
+				},
+				{
+					"term": "som",
+					"meaning": "body"
+				}
+			],
+			"points": [
+				"Chromatic, Somatic と親戚",
+				"生命を物質として解読しようとする科学の挑戦"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "democracy",
+		"word": "Democracy",
+		"meaning": "民主主義、民治",
+		"era": "Ancient Greek demokratia",
+		"etymology": {
+			"components": [
+				"demos (people)",
+				"kratos (power / rule)"
+			],
+			"original_statement": "From Greek demokratia, from demos 'common people' + kratos 'rule / power'."
+		},
+		"concept": "The power of the people (民の力、静かなる合意の嵐)",
+		"thinking": "選ばれた特権階級ではなく、そこに住む「民（Demos）」の「力（Kratos）」によって世界を動かすこと。個々の声は小さくとも、それが集まった時、それは歴史という大海に巨大な潮流を生み出す、最も人間らしい意志の形となります。",
+		"aftertaste": "あなたの一票以上に、あなたの「声」を信じることが始まりです。",
+		"example": "Direct democracy was practiced in ancient Athens.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "dem",
+					"meaning": "people"
+				},
+				{
+					"term": "krat",
+					"meaning": "rule / power"
+				}
+			],
+			"points": [
+				"Demography, Autocracy と同根",
+				"当初は「衆愚政治」を懸念した哲学者もいました"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "anarchy",
+		"word": "Anarchy",
+		"meaning": "無政府状態、無秩序、絶対的自由",
+		"era": "Ancient Greek anarkhia",
+		"etymology": {
+			"components": [
+				"an- (without)",
+				"arkhos (ruler)"
+			],
+			"original_statement": "From Greek anarkhia, from an- 'without' + arkhos 'ruler'."
+		},
+		"concept": "Without a ruler (支配なき無垢、個の絶対的自律)",
+		"thinking": "外部からの「支配（Arkh）」が「無い（An-）」状態。それは混乱ではなく、一人ひとりが自らの中に「法」を持ち、誰にも命令されずに自分らしく在るという、極めて過酷で美しい、理想の自律を追い求める身振りです。",
+		"aftertaste": "支配されないということは、自分自身を完璧に律する責任を持つということです。",
+		"example": "The breakdown of law led to a state of anarchy.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "arkh",
+					"meaning": "rule / origin"
+				}
+			],
+			"points": [
+				"Archetype, Monarch と繋がります",
+				"政治用語から、無秩序全般のメタファーへ"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "pragmatic",
+		"word": "Pragmatic",
+		"meaning": "実利的、現実的な、実践的な",
+		"era": "Ancient Greek pragmatikos",
+		"etymology": {
+			"components": [
+				"pragma (deed / act)"
+			],
+			"original_statement": "From Greek pragmatikos 'fit for business', from pragma 'a deed / act', from prassein 'to do'."
+		},
+		"concept": "Focused on the deed (行為に根ざす、現実を動かす知恵)",
+		"thinking": "空虚な理論をこねるのではなく、目の前の「事柄（Pragma）」といかに向き合い、解決するか。ビジネスや実務という「現場（Prassein）」から立ち上がる、手触りのある知性と強さを指しています。",
+		"aftertaste": "理想を語る言葉も美しいですが、現実を少しだけ良くする一歩も尊いのです。",
+		"example": "She took a pragmatic approach to solving the problem.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "prag",
+					"meaning": "do / act"
+				}
+			],
+			"points": [
+				"Practice, Practical と同根",
+				"アメリカ哲学の『プラグマティズム』の根底"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "irony",
+		"word": "Irony",
+		"meaning": "皮肉、反語、事の意外な成り行き",
+		"era": "Ancient Greek eironeia",
+		"etymology": {
+			"components": [
+				"eiron (dissembler)"
+			],
+			"original_statement": "From Greek eironeia 'dissimulation / feigned ignorance', from eiron 'a dissembler'."
+		},
+		"concept": "Feigned ignorance (知らないふり、反転する真実)",
+		"thinking": "自分は「知らない（Eiron）」ふりをしながら、相手の矛盾を露呈させ、そこから真実を導きだす手法（ソクラテスのアイロニー）。表面的な意味をあえて反転させることで、世界の多層的な滑稽さを映し出す知的な装置です。",
+		"aftertaste": "運命の女神もまた、時として微笑みながら残酷な皮肉を演じます。",
+		"example": "The irony of the situation was lost on no one.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "eiron",
+					"meaning": "one who feigns"
+				}
+			],
+			"points": [
+				"ソクラテスの問答法がルーツ",
+				"悲劇的アイロニーなど文学の主要な柱"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "metonymy",
+		"word": "Metonymy",
+		"meaning": "換喩（かんゆ）、隣接する属性での呼び換え",
+		"era": "Ancient Greek metonumia",
+		"etymology": {
+			"components": [
+				"meta- (change)",
+				"onoma (name)"
+			],
+			"original_statement": "From Greek metonumia, literally 'a change of name', from meta- 'change' + onoma 'name'."
+		},
+		"concept": "Change of name by proximity (名の移ろい、連想の道筋)",
+		"thinking": "ある「名（Onoma）」を、関連する別の名へと「移し（Meta）」変えること。「ペン（知性）が剣（権力）より強い」のように、対象そのものを語るのではなく、その傍らにある象徴によって全体を語らせる、想像力の経済的な身振りです。",
+		"aftertaste": "あなたの持ち物一つで、あなたは雄弁に自分を語ることができます。",
+		"example": "'The crown' for monarchy is a classic metonymy.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "onom",
+					"meaning": "name"
+				}
+			],
+			"points": [
+				"Onomatopoeia, Anonymous と同根",
+				"隠喩 (Metaphor) よりも論理的な結びつきが強い"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "palladium",
+		"word": "Palladium",
+		"meaning": "守護神、安全の保障、(化学)パラジウム",
+		"era": "Ancient Greek palladion",
+		"etymology": {
+			"components": [
+				"Pallas (the goddess Athena)"
+			],
+			"original_statement": "From Greek palladion, a statue of the goddess Pallas (Athena), traditionally believed to safeguard the city of Troy."
+		},
+		"concept": "The statue that protects (都市を守りし偶像、揺るぎない保証)",
+		"thinking": "かつてトロイアの運命を守っていた、女神パラスの彫像。それを奪われれば都市は滅ぶとされました。転じて、ある組織や個人の尊厳・安全を根底から支え、これさえあれば「大丈夫」と確信させる神聖な支柱を指します。",
+		"aftertaste": "あなたの心のトロイアを、今も静かに守り続けている彫像は何ですか？",
+		"example": "The right to free speech is the palladium of our liberties.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "palla",
+					"meaning": "maiden / brandishing (axe)"
+				}
+			],
+			"points": [
+				"化学元素名は小惑星パラスに由来",
+				"アテナの別名としての重厚な響き"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "aegis",
+		"word": "Aegis",
+		"meaning": "（神の）盾、イージス、保護、後援",
+		"era": "Ancient Greek aigis",
+		"etymology": {
+			"components": [
+				"aix (goat)"
+			],
+			"original_statement": "From Greek aigis, the shield of Zeus or Athena, traditionally made from or covered by an 'aigios' (goat skin)."
+		},
+		"concept": "The goatskin shield (山羊皮の盾、神聖なる庇護)",
+		"thinking": "ゼウスやアテナが振るった、山羊（Aix）の皮を張った無敵の盾。どんな攻撃も撥ね付け、嵐さえも引き起こす力。今では、巨大な力を持つ機関や組織の「傘下」にあり、絶対的な守りを受けている状態を指すように使われます。",
+		"aftertaste": "誰かの「イージス」の中にいる間、あなたは最も自由に、高みを目指すことができます。",
+		"example": "Medical care was provided under the aegis of the UN.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "aig",
+					"meaning": "goat"
+				}
+			],
+			"points": [
+				"現代では最強の防衛システムの代名詞",
+				"神話的な「守り」から、社会的な「後援」へ"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "caduceus",
+		"word": "Caduceus",
+		"meaning": "カドゥケウス、伝令官の杖、平和の象徴",
+		"era": "Latin caduceus",
+		"etymology": {
+			"components": [
+				"kerax (herald / messenger)"
+			],
+			"original_statement": "From Latin caduceus, from Greek kerykeion 'herald's staff', from kerux 'herald'."
+		},
+		"concept": "Staff of the messenger (伝令の杖、言葉を届ける権威)",
+		"thinking": "二匹の蛇が巻き付いたヘルメスの杖。かつて「伝令使（Herald）」が、戦禍の中でも安全に通行し、王の言葉を届けるためのパスポートでした。それは対立を調停し、平和をもたらすための「交渉の重み」を可視化した象徴です。",
+		"aftertaste": "相手に届く言葉には、常にこの見えない「杖」という権威が宿っています。",
+		"example": "The caduceus is often used as a symbol of commerce and peace.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ker",
+					"meaning": "proclaim"
+				}
+			],
+			"points": [
+				"アスクレピオスの杖（蛇一本）と混同されることが多い",
+				"商業と旅行、そして錬金術の象徴でもある"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "ambrosia",
+		"word": "Ambrosia",
+		"meaning": "アンブロシア、神の食べ物、不死の糧",
+		"era": "Ancient Greek ambrosia",
+		"etymology": {
+			"components": [
+				"a- (not)",
+				"brotos (mortal)"
+			],
+			"original_statement": "From Greek ambrosia, literally 'to be immortal', from a- 'not' + mbrotos 'mortal'."
+		},
+		"concept": "The non-mortal food (不死の糧、滅びざる美しきもの)",
+		"thinking": "「死ぬべき存在（Brotos）」では「ない（A-）」こと。神々が食べ、その不老不死を維持するための饗宴。この世のどんな美食よりも甘く、香り高く、一口味わうだけで、肉の限界を超えて魂が輝き始める究極の至福を暗示しています。",
+		"aftertaste": "あなたの「心」を若々しく保つためのアンブロシア。それはどんな物語の中にありますか？",
+		"example": "For the hungry travelers, the simple meal was ambrosia.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "mer",
+					"meaning": "rub / wear away / die"
+				}
+			],
+			"points": [
+				"Immortal, Murder と語源の深いところで繋がります",
+				"中世では高貴な薬の象徴でもありました"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "algorithm",
+		"word": "Algorithm",
+		"meaning": "アルゴリズム、問題を解くための手順、算法",
+		"era": "Arabic Al-Khwarizmi",
+		"etymology": {
+			"components": [
+				"Al-Khwarizmi (Persian mathematician)"
+			],
+			"original_statement": "From 'algorismus', a Middle Latin translation of the name of the Persian mathematician Al-Khwarizmi (literally 'man of Khwarizm')."
+		},
+		"concept": "The method of the sage (賢者の手順、論理の自動機械)",
+		"thinking": "9世紀の数学者の名が、今や世界を支配する「手順」という言葉になりました。どんなに複雑な魔法も、分解すれば単純なステップの積み重ね。論理こそが、カオスをコスモスへと変換するための、現代における最も強力な咒文（スペル）なのです。",
+		"aftertaste": "あなたの人生というアルゴリズム。そこにはどんな特別な分岐（運命）が組み込まれていますか？",
+		"example": "Social media uses an algorithm to personalize content.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "al-",
+					"meaning": "the (Arabic definite article)"
+				}
+			],
+			"points": [
+				"Algebra (代数学: 再結合) と同根",
+				"個人の固有名詞が冷徹な論理の象徴へと変容した歴史"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "encyclopedia",
+		"word": "Encyclopedia",
+		"meaning": "百科事典、知識の全環",
+		"era": "Ancient Greek enkuklios paideia",
+		"etymology": {
+			"components": [
+				"en- (in)",
+				"kuklos (circle / wheel)",
+				"paideia (education / childhood)"
+			],
+			"original_statement": "From Greek enkyklios paideia, meaning 'general education', literally 'circle of learning' (en- 'in' + kyklos 'circle' + paideia 'education')."
+		},
+		"concept": "The circle of learning (知の円環、完璧な教育の全景)",
+		"thinking": "断片的な知識を拾い集めるのではなく、一つの巨大な「円環（Kuklos）」の中に、人間の叡智を再構成すること。教育（Paideia）とは、この広大な円の中心に自らを置き、あらゆる方角に開かれた知を統合する、知的な自立を目指す旅です。",
+		"aftertaste": "全知を目指すことは叶わずとも、その円環の欠片を手にする喜びは永遠です。",
+		"example": "The internet is a vast, living encyclopedia of information.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kykl",
+					"meaning": "wheel / circle"
+				},
+				{
+					"term": "paid",
+					"meaning": "child / education"
+				}
+			],
+			"points": [
+				"Cycle, Pedal, Pediatric (小児科) と同根",
+				"ルネサンス期に現在の意味が確立しました"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "euphoria",
+		"word": "Euphoria",
+		"meaning": "幸福感、多幸感、高揚感",
+		"era": "Ancient Greek euphoria",
+		"etymology": {
+			"components": [
+				"eu- (well / good)",
+				"pherein (to bear / carry)"
+			],
+			"original_statement": "From Greek euphoria 'power of enduring (well)', from eu- 'well' + pherein 'to bear'."
+		},
+		"concept": "Bearing well (良く持ち運ぶこと、健やかなる魂の爆発)",
+		"thinking": "ただ快楽を得るのではなく、自らの生命や運命を「良く（Eu）」「持ち運び（Pherein）」、健やかに保てているという充実感。心身の均衡が極まり、自分が世界の中心で正しく機能しているという、静かで強い歓喜の状態です。",
+		"aftertaste": "本当の幸せは、外から与えられるのではなく、内側から「運んでくる」ものです。",
+		"example": "Winning the championship filled them with euphoria.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "eu",
+					"meaning": "good / well"
+				},
+				{
+					"term": "pher",
+					"meaning": "carry / bear"
+				}
+			],
+			"points": [
+				"Euphemism, Metaphor とも語源を共有",
+				"本来は医学用語で『健康な状態』を指しました"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "dysphoria",
+		"word": "Dysphoria",
+		"meaning": "不快感、不安、違和感",
+		"era": "Ancient Greek dysphoria",
+		"etymology": {
+			"components": [
+				"dys- (bad / hard)",
+				"pherein (to bear / carry)"
+			],
+			"original_statement": "From Greek dysphoria 'excessive pain / anguish / inability to bear', from dys- 'bad' + pherein 'to bear'."
+		},
+		"concept": "Hard to bear (持ち堪えがたき苦しみ、不協和音の身体化)",
+		"thinking": "自分という存在を、今の環境や状態で「持ち運ぶ（Pherein）」ことが「困難（Dys）」であること。心が身体にフィットせず、世界と自分の間に埋めようのないズレを感じる、あの重苦しく鋭い違和感の正体です。",
+		"aftertaste": "違和感は、あなたが「別の場所」へ向かうべき時期であることを告げる、魂のサインかもしれません。",
+		"example": "The patient experienced a state of persistent dysphoria.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "dys",
+					"meaning": "bad / difficult"
+				}
+			],
+			"points": [
+				"Dystopia, Dyslexia と同根",
+				"Euphoria の正確な対義語"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "mnemonic",
+		"word": "Mnemonic",
+		"meaning": "記憶を助ける、暗記術、記憶の",
+		"era": "Ancient Greek mneme",
+		"etymology": {
+			"components": [
+				"Mnemosyne (Goddess of Memory)"
+			],
+			"original_statement": "From Greek mnemonikos 'of or pertaining to memory', from mnasthai 'to remember', from Mnemosyne (the mother of the Muses)."
+		},
+		"concept": "Blessed by Memory (記憶の女神の祝福、忘却に抗う知恵)",
+		"thinking": "記憶の女神「ムネモシュネ（Mnemosyne）」の祝福。膨大な情報の濁流の中で、大切な何かを「覚える（Mnasthai）」ために、音やイメージという楔を打ち込むこと。それは、魂を忘却という死から守るための戦術です。",
+		"aftertaste": "忘れえぬ物語ほど、あなたの人生の強力なムネモニック（記憶の助け）になります。",
+		"example": "A popular mnemonic for the planets is 'My Very Educated Mother...'",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "mne",
+					"meaning": "mind / memory"
+				}
+			],
+			"points": [
+				"Amnesia (記憶喪失: 記憶の不在) と対極",
+				"ミュゼ（Muse: 芸術）は記憶の娘たちなのです"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "panorama",
+		"word": "Panorama",
+		"meaning": "パノラマ、全景、概観",
+		"era": "18th Century Greek-origin",
+		"etymology": {
+			"components": [
+				"pan- (all)",
+				"horama (sight / view)"
+			],
+			"original_statement": "Coined in 1787 from Greek pan- 'all' + horama 'sight / view', from horan 'to see'."
+		},
+		"concept": "Seeing everything at once (すべてを見渡す眼差し、支配的な全景)",
+		"thinking": "視界のすべてを一望すること。「全（Pan）」を「見る（Horama）」という万能感。細部を失う代わりに、世界という巨大な織物の「模様（パターン）」そのものを直接捉えるための、神の視点にも似た壮大な展望です。",
+		"aftertaste": "高い場所へ登るのは、自分自身の「小ささ」と世界の「広さ」を同時に概観するためです。",
+		"example": "The mountaintop offered a stunning panorama of the valley.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "pan",
+					"meaning": "all"
+				},
+				{
+					"term": "hor",
+					"meaning": "see"
+				}
+			],
+			"points": [
+				"Pantheon, Pandemic と共通の接頭辞",
+				"18世紀の巨大な見世物小屋の名前が由来"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "pantheon",
+		"word": "Pantheon",
+		"meaning": "パンテオン、万神殿、偉人の殿堂",
+		"era": "Ancient Greek pantheion",
+		"etymology": {
+			"components": [
+				"pan- (all)",
+				"theos (god)"
+			],
+			"original_statement": "From Greek pantheion 'a temple of all gods', from pan- 'all' + theos 'god'."
+		},
+		"concept": "All the gods together (神々の集い、全宇宙の縮図としての神殿)",
+		"thinking": "「すべて（Pan）」の「神（Theos）」が宿る場所。対立する神々も、この大きな円環の中では一つの秩序を構成する「星座」となります。転じて、ある時代や分野を代表する超凡な才能たちが揃い踏みする光景を指します。",
+		"aftertaste": "あなたの心の中にある、尊敬という名の神殿には誰が並んでいますか？",
+		"example": "He has earned a place in the pantheon of great writers.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "the",
+					"meaning": "god"
+				}
+			],
+			"points": [
+				"Atheism, Theology と同根",
+				"古代ローマのパンテオンは「完璧な円形」で宇宙を模した"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "pandemic",
+		"word": "Pandemic",
+		"meaning": "パンデミック、世界的な流行、普遍的な",
+		"era": "Ancient Greek pandemos",
+		"etymology": {
+			"components": [
+				"pan- (all)",
+				"demos (people)"
+			],
+			"original_statement": "From Greek pandemos 'pertaining to all people', from pan- 'all' + demos 'people'."
+		},
+		"concept": "Upon all people (すべての民に届くもの、全人類の共有体験)",
+		"thinking": "ある現象が「すべて（Pan）」の「民（Demos）」にまで及ぶこと。境界線や階級を軽々と飛び越え、すべての人間を一つの「状況」の中に縛り付ける、荒々しくも普遍的な力。私たちはそこで初めて、全人類が同じ脆弱な糸で繋がっていることを悟ります。",
+		"aftertaste": "災いであれ希望であれ、「共有される」ことで私たちは一つになります。",
+		"example": "The government declared a state of emergency due to the pandemic.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "dem",
+					"meaning": "people"
+				}
+			],
+			"points": [
+				"Democracy, Epidemic と同根",
+				"本来は『一般的な考え』などを指す形容詞でした"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "pandemonium",
+		"word": "Pandemonium",
+		"meaning": "大混乱、伏魔殿、修羅場",
+		"era": "1667 Latin (Greek origin)",
+		"etymology": {
+			"components": [
+				"pan- (all)",
+				"daimon (demon / spirit)"
+			],
+			"original_statement": "Coined by John Milton in Paradise Lost from Greek pan- 'all' + daimon 'demon'."
+		},
+		"concept": "The place of all demons (すべての悪魔の住処、混沌の爆心地)",
+		"thinking": "ミルトンの『失楽園』で「すべて（Pan）」の「悪魔（Daimon）」が集う都市の名として産声を上げた言葉。秩序を拒むあらゆるエネルギーが衝突し、叫び声と炎が渦巻く、この世の「最高密度のカオス」を意味します。",
+		"aftertaste": "大混乱の後に訪れる静寂。それは新しい秩序が生まれる前の、混沌の海に似ています。",
+		"example": "Pandemonium broke out when the verdict was announced.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "daimon",
+					"meaning": "spirit / lower god"
+				}
+			],
+			"points": [
+				"Demon (悪魔) という否定的な意味が定着する前の言葉",
+				"文学的な造語が日常用語化した例"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "misanthropy",
+		"word": "Misanthropy",
+		"meaning": "人間嫌い、人間不信",
+		"era": "Ancient Greek misanthropia",
+		"etymology": {
+			"components": [
+				"miseen (to hate)",
+				"anthropos (human)"
+			],
+			"original_statement": "From Greek misanthropia, from miseen 'to hate' + anthropos 'human'."
+		},
+		"concept": "Hatred of mankind (人間に失望した魂、理想が高すぎるゆえの冷淡)",
+		"thinking": "「人間（Anthropos）」という存在を「憎む（Miseen）」こと。それは単に人が嫌いなのではなく、人間本来の可能性に期待しすぎていたがゆえに、その醜さや愚かさに深く絶望し、静かに距離を置くという選民的な哀しみです。",
+		"aftertaste": "人を憎むことは、人を求めすぎる心の裏返し。裏切られた理想の墓標です。",
+		"example": "His late writings were marked by a dark misanthropy.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "mis",
+					"meaning": "hate / wrong"
+				}
+			],
+			"points": [
+				"Misogyny (女性蔑視), Misunderstanding と繋がります",
+				"モリエールの戯曲の主題としても有名"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "nostos",
+		"word": "Nostos",
+		"meaning": "帰還、帰還の旅、英雄の帰宅",
+		"era": "Ancient Greek nostos",
+		"etymology": {
+			"components": [
+				"nes- (to return home / save)"
+			],
+			"original_statement": "From Greek nostos 'a return home', from PIE *nes- 'to return safely to light and life'."
+		},
+		"concept": "The journey home (故郷への帰還、生還という光への旅)",
+		"thinking": "「ノスタルジー（郷愁）」の語源となった、単なる帰宅ではない、峻烈な「生還」。死の淵や遠い戦場から、自らの源流である「家」へと戻ること。それは自らのアイデンティティを再燃させ、再び光の中へ帰還する儀式なのです。",
+		"aftertaste": "人生のすべての旅は、自分自身という「故郷」に帰りつくまでの長い道のりです。",
+		"example": "The Odyssey is the greatest epic of 'nostos' in literature.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "nes",
+					"meaning": "return / save / heal"
+				}
+			],
+			"points": [
+				"Nostalgia の半分",
+				"生還することは、救われることと同義でした"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "turbine",
+		"word": "Turbine",
+		"meaning": "タービン、回転機、旋回するもの",
+		"era": "Latin turbo",
+		"etymology": {
+			"components": [
+				"turbo (whirl / whirlwind)"
+			],
+			"original_statement": "From Latin turbo (gen. turbinis) 'whirl, whirlwind, vortex', from PIE *twer- 'to turn / whirl'."
+		},
+		"concept": "The heart of the whirlwind (旋回する心臓、回転の力)",
+		"thinking": "「旋回（Turbo）」し続けること。そこには、静止を拒む圧倒的なまでのエネルギーの奔流があります。エネルギーを形のない流れから、力強い回転へと変換するその姿は、混沌を秩序へと変える錬金術的な装置です。",
+		"aftertaste": "あなたの情熱を、誰にも止められない回転に変えて。",
+		"example": "Wind turbines generate clean energy from the air.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "twer",
+					"meaning": "turn / whirl"
+				}
+			],
+			"points": [
+				"Turbulent, Disturb と同根",
+				"19世紀にフランスの工学者が命名"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "momentum",
+		"word": "Momentum",
+		"meaning": "勢い、はずみ、運動量",
+		"era": "Latin momentum",
+		"etymology": {
+			"components": [
+				"movimentum (movement)"
+			],
+			"original_statement": "From Latin momentum 'movement, moving power', contraction of movimentum, from movere 'to move'."
+		},
+		"concept": "The power of moving (動き続ける力、加速する魂)",
+		"thinking": "「動き（Mov）」の瞬間にのみ宿る、目に見えない衝動。一度走り出したものが持つ、止まることを拒む意志。停滞していた物事が動き出すその最初の「はずみ」は、多くの祈りや努力が臨界点に達した時に訪れます。",
+		"aftertaste": "動き出すまでが一番重い。一度走り出せば、慣性があなたを助けます。",
+		"example": "The project gained momentum after the initial success.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "mov / mot",
+					"meaning": "move"
+				}
+			],
+			"points": [
+				"Moment, Motion, Movie と繋がる",
+				"小さな一歩が巨大な勢いへと成長する過程"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "inertia",
+		"word": "Inertia",
+		"meaning": "慣性、惰性、不活発、無気力",
+		"era": "Latin inertia",
+		"etymology": {
+			"components": [
+				"in- (not)",
+				"ars (art / skill / activity)"
+			],
+			"original_statement": "From Latin inertia 'unskillfulness / idleness / laziness', from in- 'without' + ars (gen. artis) 'skill, art, activity'."
+		},
+		"concept": "Without activity (活動の不在、現状を維持しようとする力)",
+		"thinking": "もともとは「技（Ars）」を持たず「怠惰（In-）」であることを意味しました。物理学では、現状をいつまでも守り続けようとする保守的な性質を指します。変化を拒むその頑なさは、安息であると同時に、前進を妨げる重い鎖でもあります。",
+		"aftertaste": "現状維持という名の檻から、最初の一歩を踏み出す勇気を。",
+		"example": "Economic inertia can be hard to overcome.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ar",
+					"meaning": "fit / join / skill"
+				}
+			],
+			"points": [
+				"Art, Artist と実は同じ語源",
+				"17世紀にケプラーが『抵抗する力』として命名"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "vector",
+		"word": "Vector",
+		"meaning": "ベクトル、媒介者、運搬者",
+		"era": "Latin vector",
+		"etymology": {
+			"components": [
+				"vehere (to carry)"
+			],
+			"original_statement": "From Latin vector 'one who carries / conveys', from vehere 'to carry / convey'."
+		},
+		"concept": "The carrier of movement (意味と力を運ぶもの、不可視の矢印)",
+		"thinking": "物理学では「向き」と「大きさ」を持つ量。もとは荷物を「運ぶ人（Vehere）」を指しました。あなたの放つ一つの言葉、一つの想いが、どこへ向かって、どれくらいの強さで飛んでいくのか。それは見えない「矢」となって世界を貫きます。",
+		"aftertaste": "あなたの人生という矢印の先にある、まだ見ぬ標的を見据えて。",
+		"example": "Forces in physics are represented as vectors.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "wegh",
+					"meaning": "go / transport"
+				}
+			],
+			"points": [
+				"Vehicle, Wagorn, Way と同根",
+				"情報を運ぶ者としてのキャリアへの転用"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "abstraction",
+		"word": "Abstraction",
+		"meaning": "抽象、抜き出し、ぼんやりした状態",
+		"era": "Latin abstractio",
+		"etymology": {
+			"components": [
+				"ab- (away)",
+				"trahere (to pull)"
+			],
+			"original_statement": "From Latin abstractio, from abstrahere 'to draw away / pull away', from ab- 'away' + trahere 'to draw'."
+		},
+		"concept": "Drawing away the essence (本質を引き抜く、不純物を去る知性)",
+		"thinking": "余分な情報を削ぎ落とし、その事物の「本質」だけを「引き（Trahere）」「離す（Ab-）」こと。複雑な現実を単純明快なルールへと磨き上げる行為は、人間が世界を管理するための究極の洗練術です。",
+		"aftertaste": "具体的な重みから自由になり、本質という光だけを握りしめる。",
+		"example": "The concept of 'beauty' is a high-level abstraction.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "tragh",
+					"meaning": "pull / draw / drag"
+				}
+			],
+			"points": [
+				"Trace, Tractor, Extract と親戚",
+				"思考が具象を離れ、概念の領域へと旅立つこと"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "concretion",
+		"word": "Concretion",
+		"meaning": "具体化、凝固物、結合",
+		"era": "Latin concretio",
+		"etymology": {
+			"components": [
+				"con- (together)",
+				"crescere (to grow)"
+			],
+			"original_statement": "From Latin concretio, from concrescere 'to grow together', from con- 'together' + crescere 'to grow'."
+		},
+		"concept": "Growing together into form (共に育ち、形を成すこと、手触りのある存在)",
+		"thinking": "バラバラだった要素が「共に（Con）」「育ち（Crescere）」、一つの触れられる「実体」として固まること。抽象的な理想が、日々の積み重ねによって「具体的な成果」へと結晶していくプロセス。それは夢が現実という重みを獲得する物語です。",
+		"aftertaste": "思考を育て、手で触れられる「形」という愛へ。",
+		"example": "Abstract ideas require concretion to become effective policies.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ker",
+					"meaning": "grow"
+				}
+			],
+			"points": [
+				"Increase, Create, Crescent と繋がる",
+				"目に見えない種が、目に見える形に成ること"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "induction",
+		"word": "Induction",
+		"meaning": "帰納（きのう）、誘導、就任",
+		"era": "Latin inductio",
+		"etymology": {
+			"components": [
+				"in- (into)",
+				"ducere (to lead)"
+			],
+			"original_statement": "From Latin inductio 'a leading into', from inducere, from in- 'into' + ducere 'to lead'."
+		},
+		"concept": "Leading into the general (経験を真理へと導き入れる、足跡を集める旅)",
+		"thinking": "無数の個別の事実（足跡）を集め、それらを「導き（Ducere）」「入れ（In-）」て、一つの法則を見つけ出すこと。泥にまみれた経験から、星のような法則へと這いあがる思考の泥臭くも光り輝くプロセスを指します。",
+		"aftertaste": "毎日の小さな気づきの集積が、やがてあなたの「真実」になります。",
+		"example": "Scientific discovery often relies on induction from observations.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "deuk",
+					"meaning": "to lead"
+				}
+			],
+			"points": [
+				"Deduction の対、Introduce と親戚",
+				"土から空へ、経験から法則への上昇"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "abduction",
+		"word": "Abduction",
+		"meaning": "誘拐、拉致、(論理)仮説形成、外転",
+		"era": "Latin abducere",
+		"etymology": {
+			"components": [
+				"ab- (away)",
+				"ducere (to lead)"
+			],
+			"original_statement": "From Latin abduction-, from abducere 'to lead away', from ab- 'away' + ducere 'to lead'."
+		},
+		"concept": "Leading away by insight (洞察によって連れ去ること、飛躍する仮説)",
+		"thinking": "今の論理では説明できない奇妙な事象に直面した時、そこから「別の可能性」へと自分を「導き（Ducere）」「去らせる（Ab-）」こと。それは論理を超えた「ひらめき」によって、未知の真理へと拉致されるような体験です。",
+		"aftertaste": "不可解なことは、新しい世界への招待状（拉致）かもしれません。",
+		"example": "Abduction is the creative process of forming hypotheses.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "deuk",
+					"meaning": "to lead"
+				}
+			],
+			"points": [
+				"哲学（パース）では『発想』を意味する",
+				"Kidnap より古い誘拐の語感"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "piston",
+		"word": "Piston",
+		"meaning": "ピストン、吸子、(楽器)ピストン",
+		"era": "Latin pistare",
+		"etymology": {
+			"components": [
+				"pistare (to pound / crush)"
+			],
+			"original_statement": "From Latin pistonem, from pistare 'to pound / beat', intensive of pinsere 'to pound'."
+		},
+		"concept": "The pounding force (打ち鳴らす力、往復する決意)",
+		"thinking": "「打ちひしぎ（Pistare）」、激しく押し返すこと。熱を力に変えるために、閉ざされた空間で黙々と往復運動を繰り返すその律動は、決して諦めない人間の心臓の鼓動にも似ています。力強く、迷いのない往復が生み出す前進の力です。",
+		"aftertaste": "繰り返しの単調な運動の中に、爆発的な前進のエネルギーが宿ります。",
+		"example": "The engine's pistons moved with perfect timing.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "peis",
+					"meaning": "crush / pound"
+				}
+			],
+			"points": [
+				"Pestle (乳棒), Pasta (捏ねたもの) と同根",
+				"18世紀、蒸気機関の発達と共に機械の象徴へ"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "lever",
+		"word": "Lever",
+		"meaning": "レバー、てこ、手段",
+		"era": "Latin levare",
+		"etymology": {
+			"components": [
+				"levis (light)"
+			],
+			"original_statement": "From Old French levier, from Latin levare 'to raise / make light', from levis 'light (in weight)'."
+		},
+		"concept": "Making the heavy light (重きを軽くするもの、小さな一点からの変革)",
+		"thinking": "「軽く（Levis）」すること。ほんの小さな支点さえあれば、巨大な岩をも動かすことができる「てこ」の原理。それは、適切なタイミングと場所を見極める知性が、物理的な限界を超える際の手がかりを指しています。",
+		"aftertaste": "力任せではなく、あなたの「支点」を見つけてください。",
+		"example": "He used a crowbar as a lever to open the crate.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "legwh",
+					"meaning": "light / not heavy"
+				}
+			],
+			"points": [
+				"Elevator, Levity, Relief と同根",
+				"『私に支点を与えよ、さらば地球をも動かさん』"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "pulley",
+		"word": "Pulley",
+		"meaning": "滑車、プーリー",
+		"era": "Greek polos",
+		"etymology": {
+			"components": [
+				"polos (axis / pivot)"
+			],
+			"original_statement": "From Middle English poley, from Old French polie, possibly from Greek polos 'axis / pivot'."
+		},
+		"concept": "The pivoting circle (回転する軸、力を導く円環)",
+		"thinking": "「軸（Polos）」を中心に回転し、力の方向を変える円環。自分の力だけでは届かない場所へ、角度を変え、道具を介することで到達する。柔軟な思考によって、自分だけの限界を他者の理（ことわり）で超えるための仕組みです。",
+		"aftertaste": "自分の力を信じる。しかし、理（道具）の力はそれ以上に信じる。",
+		"example": "The mechanical pulley allowed him to lift the heavy beam.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kwel",
+					"meaning": "revolve / move around"
+				}
+			],
+			"points": [
+				"Pole (極点), Cycle と共通の PIE 根を持つ",
+				"回転運動が直線運動の助けとなる知恵"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "scintillating",
+		"word": "Scintillating",
+		"meaning": "火花を散らす、きらめく、才気あふれる",
+		"era": "Latin scintillare",
+		"etymology": {
+			"components": [
+				"scintilla (spark)"
+			],
+			"original_statement": "From Latin scintillare 'to sparkle / glitter', from scintilla 'a spark'."
+		},
+		"concept": "Emitting sparks of wit (散りゆく火花、才気と光の舞い)",
+		"thinking": "「火花（Scintilla）」を放ち続けること。単に明るいのではなく、小さな光の粒子が次々と生まれ、消えていく瞬間の躍動感。それは、知的な対話や鋭い洞察が、暗闇の中に一瞬の鮮烈な輝きをもたらす様子を指します。",
+		"aftertaste": "あなたの放つ一言が、誰かの思考の導火線に火をつけます。",
+		"example": "His scintillating conversation kept everyone entertained.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "skai",
+					"meaning": "glow / shine"
+				}
+			],
+			"points": [
+				"Scintilla は『微細な量』も意味する",
+				"17世紀に英語に取り入れられました"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "coruscating",
+		"word": "Coruscating",
+		"meaning": "眩しく光り輝く、きらめく、華麗な",
+		"era": "Latin coruscare",
+		"etymology": {
+			"components": [
+				"coruscare (to flash / vibrate)"
+			],
+			"original_statement": "From Latin coruscare 'to flash / gleam / vibrate', originally used of light reflecting off water or metal."
+		},
+		"concept": "The vibration of light (光の震え、煌々と輝く生命感)",
+		"thinking": "激しく「震え（Coruscare）」ながら、閃光を放つこと。水面を跳ねる日光や、磨き上げられた剣戟のきらめき。不動の輝きではなく、常に揺れ動き、変化し続ける光線が、視覚という境界を一気に突き抜ける高揚感を指しています。",
+		"aftertaste": "震えを恐れず、その揺らぎそのものを光に変えて。",
+		"example": "A coruscating performance that left the audience speechless.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "korus",
+					"meaning": "shaking"
+				}
+			],
+			"points": [
+				"18世紀から精神的な輝き（皮肉など）にも転用",
+				"静的な『シャイン』との対比"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "effulgent",
+		"word": "Effulgent",
+		"meaning": "輝かしい、光り輝く、燦然とした",
+		"era": "Latin effulgere",
+		"etymology": {
+			"components": [
+				"ex- (out)",
+				"fulgere (to shine)"
+			],
+			"original_statement": "From Latin effulgere 'to shine forth', from ex- 'out' + fulgere 'to shine'."
+		},
+		"concept": "Shining forth from within (内側から溢れ出す輝き、至純なる放散)",
+		"thinking": "内面にある光が、限界を突破して「外へ（Ex）」「溢れ出す（Fulgere）」。それは強引なアピールではなく、存在そのものが飽和した結果、周囲までも光で満たしてしまうという、圧倒的なまでの存在感の肯定です。",
+		"aftertaste": "あなたが自分らしくある時、その姿はそのまま周囲への光となります。",
+		"example": "The sun broke through the clouds in effulgent rays.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "fulg",
+					"meaning": "shine / flash"
+				}
+			],
+			"points": [
+				"Fulminate (爆発する) や Lightning と深層で繋がり",
+				"18世紀の詩的な言葉"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "resplendent",
+		"word": "Resplendent",
+		"meaning": "光り輝く、華麗な、目も眩むような",
+		"era": "Latin resplendere",
+		"etymology": {
+			"components": [
+				"re- (intensive)",
+				"splendere (to shine)"
+			],
+			"original_statement": "From Latin resplendere 'to shine back / glitter', from re- 'again / intensive' + splendere 'to shine'."
+		},
+		"concept": "Shining back with intensity (照らし返される光、最上の華やかさ)",
+		"thinking": "周囲からの賞賛や光を「鮮やかに（Re）」「輝かせる（Splend）」。それは受け取った恩恵を最大限に増幅し、自らの価値として定着させた者の放つ気高さです。自分自身の準備が整った時にだけ、光は美しく「反響」します。",
+		"aftertaste": "あなたが受け取った愛を、そのまま世界に照らし返してください。",
+		"example": "The queen looked resplendent in her coronation robes.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "splend",
+					"meaning": "bright / shining"
+				}
+			],
+			"points": [
+				"Splendid, Splendor と同根",
+				"15世紀にフランス語経由で定着"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "transient",
+		"word": "Transient",
+		"meaning": "一時的な、はかない、(物理)過渡的な",
+		"era": "Latin transiens",
+		"etymology": {
+			"components": [
+				"trans- (across)",
+				"ire (to go)"
+			],
+			"original_statement": "From Latin transiens 'passing over / going through', from trans- 'across' + ire 'to go'."
+		},
+		"concept": "Going across (通り過ぎてゆく、束の間の滞在)",
+		"thinking": "一つの場所を「越えて（Trans）」「行く（Ire）」こと。私たちは、この世界という舞台においては、誰もが足跡を残して走り去る一時的な旅人にすぎません。定着し得ないからこそ、出会った刹那の輝きを慈しむことができるのです。",
+		"aftertaste": "通り過ぎる風の中に、あなたはどんな香りを残しますか？",
+		"example": "The transient beauty of cherry blossoms in spring.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "i",
+					"meaning": "go"
+				}
+			],
+			"points": [
+				"Exit, Transition, Initiative と同根",
+				"物理学では『一瞬だけ現れる大きな変動』を指します"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "perennial",
+		"word": "Perennial",
+		"meaning": "多年の、永続する、絶え間ない、多年草",
+		"era": "Latin perennis",
+		"etymology": {
+			"components": [
+				"per- (through)",
+				"annus (year)"
+			],
+			"original_statement": "From Latin perennis 'lasting through the year', from per- 'through' + annus 'year'."
+		},
+		"concept": "Living through the years (歳月を越え、咲き続ける生命)",
+		"thinking": "「幾年も（Annus）」「貫いて（Per-）」生きること。一時的な流行や情熱ではなく、静かに、しかし確実に存在を維持し続け、季節が巡るたびに自らを更新しながら、再び同じ場所で咲き誇る。不変という名の粘り強い強さです。",
+		"aftertaste": "毎年同じ場所で出会える。その変わらぬ「約束」が、誰かを支えます。",
+		"example": "This is a perennial topic of debate in philosophy.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "at",
+					"meaning": "go / year"
+				}
+			],
+			"points": [
+				"Annual, Anniversary と繋がる",
+				"植物学的な定義から、普遍的な真理の比喩へ"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "innocuous",
+		"word": "Innocuous",
+		"meaning": "無害な、退屈な、悪意のない",
+		"era": "Latin innocuus",
+		"etymology": {
+			"components": [
+				"in- (not)",
+				"nocere (to harm)"
+			],
+			"original_statement": "From Latin innocuus 'not harmful', from in- 'not' + nocere 'to harm'."
+		},
+		"concept": "Without harm (牙を持たぬもの、静かなる無毒)",
+		"thinking": "「害（Nocere）」が「無い（In-）」。表面上は牙も毒も持たず、他者を傷つける意図がない状態。時にそれは「物足りなさ」として映るかもしれませんが、平穏と調和を維持するための、最も基本的で誠実な生存戦略です。",
+		"aftertaste": "無害であること。それは、それだけで一つの優しさです。",
+		"example": "It was an innocuous remark, but she took offense anyway.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "nek",
+					"meaning": "death / harm"
+				}
+			],
+			"points": [
+				"Innocent, Noxious, Necrosis と同根",
+				"本来の意味は物理的な無毒性でした"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "pernicious",
+		"word": "Pernicious",
+		"meaning": "有害な、致命的な、破壊的な",
+		"era": "Latin perniciosus",
+		"etymology": {
+			"components": [
+				"per- (thoroughly)",
+				"nex (destruction / death)"
+			],
+			"original_statement": "From Latin perniciosus 'destructive / fatal', from pernicies 'destruction / ruin', from per- 'thoroughly' + nex (gen. necis) 'violent death'."
+		},
+		"concept": "Thoroughly destructive (芯まで蝕む害、静かなる死滅)",
+		"thinking": "「徹底的（Per）」に「破滅（Nex）」へと導くこと。一瞬の爆発ではなく、ゆっくりと、しかし確実に対象を内部から崩壊させていくような、逃れがたき悪意。それは、気づいた時にはもう戻れないところにまで至っているという、静かな恐怖を纏っています。",
+		"aftertaste": "小さな綻びを放置しないで。それはやがて、致命的な穴へと成長します。",
+		"example": "The pernicious effects of jealousy can ruin a family.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "nek",
+					"meaning": "kill / death"
+				}
+			],
+			"points": [
+				"Necromancy と深層で繋がり、死という終わりを目指す",
+				"15世紀にフランス語経由で定着"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "reticent",
+		"word": "Reticent",
+		"meaning": "控えめな、口が重い、寡黙な",
+		"era": "Latin reticentia",
+		"etymology": {
+			"components": [
+				"re- (intensive)",
+				"tacere (to be silent)"
+			],
+			"original_statement": "From Latin reticentem 'keeping silence', from reticere, from re- (prefix used as intensive) + tacere 'to be silent'."
+		},
+		"concept": "Intense silence (徹底された沈黙、語らぬことの品位)",
+		"thinking": "「沈黙（Tacere）」を「固持（Re）」すること。言葉を惜しむのは、自信のなさではなく、語るべき真実の重さを知っているからこそ、軽薄な放言を慎んでいるのです。沈黙の中にこそ、最も雄弁なメッセージが宿ることがあります。",
+		"aftertaste": "語らないことで、あなたは守りたいものを聖域として守り抜くことができます。",
+		"example": "He was reticent about speaking of his past experiences.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "tak",
+					"meaning": "be silent"
+				}
+			],
+			"points": [
+				"Tacit (暗黙の), Taciturn と同根",
+				"秘める美学を象徴する形容詞"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "jurisprudence",
+		"word": "Jurisprudence",
+		"meaning": "法学、法理、法の知恵",
+		"era": "Latin juris prudentia",
+		"etymology": {
+			"components": [
+				"jus (law / right)",
+				"prudentia (knowledge / wisdom)"
+			],
+			"original_statement": "From Latin juris prudentia 'knowledge of law', from jus (gen. juris) 'law' + prudentia 'knowledge'."
+		},
+		"concept": "The wisdom of law (法の叡智、正しさを見極める力)",
+		"thinking": "単なる規則の集まりではなく、正しき「法（Jus）」と、それを見極めるための深き「知恵（Prudentia）」の結晶。公正さを守るために数千年の歴史が積み上げてきた、人間理性の最高度の成果の一つを指します。",
+		"aftertaste": "冷たい条文の裏側には、常に平和を願う熱い知恵が流れています。",
+		"example": "The professor is an expert in constitutional jurisprudence.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "jus",
+					"meaning": "law"
+				},
+				{
+					"term": "prud",
+					"meaning": "wise / far-seeing"
+				}
+			],
+			"points": [
+				"Justice, Prudence (慎重さ) と同根",
+				"実定法を超えた、法の『哲学』そのもの"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "ameliorate",
+		"word": "Ameliorate",
+		"meaning": "改善する、改良する、状況を良くする",
+		"era": "Latin melior",
+		"etymology": {
+			"components": [
+				"ad- (to)",
+				"melior (better)"
+			],
+			"original_statement": "From French améliorer, from Late Latin ameliorari, from ad- 'to' + melior 'better'."
+		},
+		"concept": "Moving toward the better (より良き場所へ。傷ついた世界の修復)",
+		"thinking": "現在の「不完全な状況」から「より良い（Melior）」状態へと自らを「近づける（Ad-）」こと。それは一足飛びの革命ではなく、目の前の一つの痛みを和らげ、綻びを丁寧に繕うことで、世界を少しずつ優しさで満たす、忍耐強い知性です。",
+		"aftertaste": "昨日よりも少しだけ平和な今日を、あなた自身の手で創り出すこと。",
+		"example": "Measures were taken to ameliorate the living conditions of the victims.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "mel",
+					"meaning": "better"
+				}
+			],
+			"points": [
+				"Optimist（最善）よりも控えめで、かつ能動的な改善",
+				"18世紀後半から積極的に使われるようになった言葉"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "sovereignty",
+		"word": "Sovereignty",
+		"meaning": "主権、統治権、至高の力、独立",
+		"era": "Latin superanus",
+		"etymology": {
+			"components": [
+				"super (above)"
+			],
+			"original_statement": "From Old French souverainete, from Latin superanus 'chief / principal', from super 'above'."
+		},
+		"concept": "The one above all (すべての上にある力、不可侵の自己決定)",
+		"thinking": "他者の干渉を許さず、自分自身の決断の上に「君臨（Super-）」すること。国家であれ個人であれ、自らの運命を、自らの責任のみによって決定し、実行し得る、不可侵の気高さを指します。支配ではなく、自由の最終的な「砦」の别名です。",
+		"aftertaste": "あなたの人生という国の王は、あなた自身。その主権を、決して安売りしないで。",
+		"example": "The nation fought to protect its territorial sovereignty.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "uper",
+					"meaning": "above"
+				}
+			],
+			"points": [
+				"Super, Supreme と同格",
+				"14世紀に『至高の存在』を示す言葉として誕生"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "autonomy",
+		"word": "Autonomy",
+		"meaning": "自治、自律、独立性",
+		"era": "Ancient Greek autonomia",
+		"etymology": {
+			"components": [
+				"autos (self)",
+				"nomos (law / custom)"
+			],
+			"original_statement": "From Greek autonomia 'independence', from autos 'self' + nomos 'law'."
+		},
+		"concept": "Rule by self-laws (自らの掟に従う、静かなる自律の炎)",
+		"thinking": "外から与えられた命令ではなく、「自分（Autos）」が自らに課した「掟（Nomos）」に従うこと。法（秩序）の中にありながら、なお自由であることを追求する精神。真の自立とは、自らを厳しく律する覚悟の上にだけ成立する、孤独な特権です。",
+		"aftertaste": "自由（アナーキー）ではなく、自分の法則（オートノミー）を持つ知性を。",
+		"example": "The university values its intellectual autonomy.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "auto",
+					"meaning": "self"
+				},
+				{
+					"term": "nom",
+					"meaning": "law / arrangement"
+				}
+			],
+			"points": [
+				"Automation, Economy と繋がる",
+				"カント倫理学で最も重視される人間性の本質"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "dilemma",
+		"word": "Dilemma",
+		"meaning": "板挟み、ジレンマ、窮地",
+		"era": "Ancient Greek dilemma",
+		"etymology": {
+			"components": [
+				"di- (twice / double)",
+				"lemma (premise / anything received)"
+			],
+			"original_statement": "From Greek dilemma 'double proposition', from di- 'twice' + lemma 'anything received / premise'."
+		},
+		"concept": "The double premise (二つの論理の衝突、行き止まりの思考)",
+		"thinking": "どちらを「受け取って（Lemma）」も「苦しい（Di-）」。二つの角を持つ、逃れがたき論理の壁。私たちはそこで足を止め、既存の価値観が通用しない過酷な「選択」を迫られます。しかし、苦しみの果ての決断こそが、あなたの本質を浮き彫りにします。",
+		"aftertaste": "どちらを選んでも間違いではない。しかし、どちらを選んでもあなたは変わってしまいます。",
+		"example": "He faced a moral dilemma between loyalty and honesty.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "lab / lem",
+					"meaning": "take / catch"
+				}
+			],
+			"points": [
+				"Dilemma の『2つの角』という比喩表現",
+				"16世紀頃から論理学の枠を超えて一的に使われるように"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "syllogism",
+		"word": "Syllogism",
+		"meaning": "三段論法、論理的推論、計算",
+		"era": "Ancient Greek sullogismos",
+		"etymology": {
+			"components": [
+				"sun- (together)",
+				"logizesthai (to calculate / reason)"
+			],
+			"original_statement": "From Greek sullogismos 'a conclusion / inference', from sullogizesthai 'to conclude / count up', from sun- 'together' + logizesthai 'to reckon / count / think'."
+		},
+		"concept": "Calculating together (思考を合流させ、結論へと結ぶ論理)",
+		"thinking": "バラバラの前提を「共に（Sun）」「計算し（Logos）」、必然的な一つの答えを結び出すこと。それは感情の入る隙を与えない、数学的な美しさを伴う思考の連鎖です。正しい前提は、決してあなたを道迷わせることはありません。",
+		"aftertaste": "理性の鎖は、あなたを束縛するのではなく、真理という錨に繋ぎ止めてくれます。",
+		"example": "The classic example of a syllogism is: All men are mortal; Socrates is a man; therefore Socrates is mortal.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "leg",
+					"meaning": "gather / speak / logic"
+				}
+			],
+			"points": [
+				"Logistics, Syllable と繋がる",
+				"アリストテレスが論理学（学問）の核として確立"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "haecceity",
+		"word": "Haecceity",
+		"meaning": "このもの性、個体性",
+		"era": "Latin haecceitas",
+		"etymology": {
+			"components": [
+				"haec (this)"
+			],
+			"original_statement": "Coined by Duns Scotus from Latin haec 'this'."
+		},
+		"concept": "The thisness (他ならぬ『これ』であること、唯一無二の存在の証)",
+		"thinking": "一般名詞としての「人間」ではなく、他ならぬ「あなた（Haec）」という唯一無二の個体としての性質。宇宙に星は無数にあっても、今目の前で瞬いているのは、他ならぬ「これ（This）」であるという奇跡への肯定です。",
+		"aftertaste": "「これ」という唯一性を認めた時、すべての存在は神聖な光を放ち始めます。",
+		"example": "The haecceity of the moment made it unforgettable.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "haec",
+					"meaning": "this / here"
+				}
+			],
+			"points": [
+				"スコトゥス哲学の造語",
+				"普遍者の抽象性を排し、個の尊厳を見出した哲学"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "isonomy",
+		"word": "Isonomy",
+		"meaning": "法の前の平等、権利の平等",
+		"era": "Ancient Greek isonomia",
+		"etymology": {
+			"components": [
+				"isos (equal)",
+				"nomos (law / custom)"
+			],
+			"original_statement": "From Greek isonomia, from isos 'equal' + nomos 'law'."
+		},
+		"concept": "Equality of law (等しき掟、支配なき秩序の夜明け)",
+		"thinking": "「等しき（Isos）」ことが「掟（Nomos）」であること。デモクラシーという言葉が権力（力）を含んでいるのに対し、イソノミーは「バランス（調和）」に重点を置いています。誰かが特別なのではなく、誰もが同じ重さで世界に関わる、静かなる公正さを指します。",
+		"aftertaste": "誰もが等しい光の下にあります。あなたの尊厳を守ること。それが他者の尊厳を守る第一歩です。",
+		"example": "Isonomy was the ideal for the citizens of ancient Greece.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "iso",
+					"meaning": "equal"
+				},
+				{
+					"term": "nom",
+					"meaning": "law / arrangement"
+				}
+			],
+			"points": [
+				"Isotope (同位体), Isometric と同根",
+				"個の自由と社会全体の調和が、等しい重さを持つこと"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "symbiosis",
+		"word": "Symbiosis",
+		"meaning": "共生、共存、密接な関係",
+		"era": "Ancient Greek sumbiosis",
+		"etymology": {
+			"components": [
+				"sun- (together)",
+				"bios (life)"
+			],
+			"original_statement": "From Greek sumbiosis 'living together', from sun- 'together' + bios 'life'."
+		},
+		"concept": "Living together (共にある生、依存を越えた連帯)",
+		"thinking": "「共に（Sun）」「生きる（Bios）」こと。独立した生命体が、お互いの生存にとって不可欠な存在となり、複雑に織りなされた一つの生命のネットワークとして結びつく。私たちは誰一人として、孤立した存在ではありません。すべての呼吸は、世界との共生の中にあるのです。",
+		"aftertaste": "あなたを助ける誰か。そして、あなたが助ける誰か。その見えない糸の網目が、命の温かさです。",
+		"example": "A classic example of symbiosis is the bee and the flower.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "gwei",
+					"meaning": "live"
+				}
+			],
+			"points": [
+				"Biology, Zodiac, Quick と繋がる",
+				"1879年、生物学者が異なる寄生の概念を包摂して定義"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "anamorphosis",
+		"word": "Anamorphosis",
+		"meaning": "歪画、アナモルフォーシス、特殊な角度からの復元",
+		"era": "Ancient Greek ana- + morphe",
+		"etymology": {
+			"components": [
+				"ana- (again / back / up)",
+				"morphe (form / shape)"
+			],
+			"original_statement": "From Greek ana- 'again' + morphe 'form'."
+		},
+		"concept": "Formed again (再び形を成すこと。歪んだ視点の向こう側の再生)",
+		"thinking": "正面から見ると「歪んだ像」であっても、特定の視点、特定の「再び（Ana）」の方法を用いることで、正しい「形（Morphe）」を「立ち上げる」技法。世界は一方向から見るだけでは真実を見せない。視点を変えることで、隠された驚きに満ちた像が復元されるのです。",
+		"aftertaste": "今の苦しみが歪んで見えるなら、少しだけ視点をずらして。そこに真実の形が隠れています。",
+		"example": "Holbein's 'The Ambassadors' features a famous anamorphosis of a skull.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "merph",
+					"meaning": "form"
+				}
+			],
+			"points": [
+				"Morphology, Amorphous と同根",
+				"芸術と数学が融合した、秘密のメッセージを隠す知恵"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "isomorphism",
+		"word": "Isomorphism",
+		"meaning": "同型、構造的に等しいこと、(数学)同型写像",
+		"era": "Ancient Greek isos + morphe",
+		"etymology": {
+			"components": [
+				"isos (equal)",
+				"morphe (form)"
+			],
+			"original_statement": "From Greek isos 'equal' + morphe 'form'."
+		},
+		"concept": "Equality of form (等しき形、異なる世界を繋ぐ真理の骨組み)",
+		"thinking": "「等しき（Isos）」「形（Morphe）」を持つこと。一見全く別物に見える二つの事象の中に、共通の「構造（Skeleton）」を見出す喜び。音楽と数学、あるいは愛と物理学。境界を越えて共鳴し合うその形の中に、宇宙を貫く普遍のデザインが眠っています。",
+		"aftertaste": "全く違う物語の中に、同じ「感動の形」を見つけた時、世界はより親密になります。",
+		"example": "In group theory, an isomorphism shows that two groups are structurally identical.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "iso",
+					"meaning": "equal"
+				}
+			],
+			"points": [
+				"Isosceles (二等辺) と同根",
+				"構造主義的な知性の核心をつく概念"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "reductionism",
+		"word": "Reductionism",
+		"meaning": "還元主義、要素還元",
+		"era": "Latin reductio",
+		"etymology": {
+			"components": [
+				"re- (back)",
+				"ducere (to lead)"
+			],
+			"original_statement": "From Latin reductio, from reducere 'to lead back'."
+		},
+		"concept": "Leading back to parts (部品へと連れ戻す。複雑さを解体する知性)",
+		"thinking": "複雑に入り組んだ現象を、構成する最少の単位へと「引き（Ducere）」「戻す（Re-）」こと。巨大な機械も、解体すればネジと歯車にすぎない。複雑さに溺れず、要素のレベルで世界を制御しようとする、冷徹で計算高い知性の身振りです。",
+		"aftertaste": "解体することで、仕組みはわかります。しかし、解体した後は、それを再び組み上げる愛が必要です。",
+		"example": "Critics of reductionism argue that the whole is more than the sum of its parts.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "deuk",
+					"meaning": "to lead"
+				}
+			],
+			"points": [
+				"Reduce, Duke と同根",
+				"近代科学を支えた最も強力な分析手法"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "subjective",
+		"word": "Subjective",
+		"meaning": "主観的な、個人の、自分の",
+		"era": "Latin subjectivus",
+		"etymology": {
+			"components": [
+				"sub- (under)",
+				"jacere (to throw)"
+			],
+			"original_statement": "From Latin subjectivus, from subjectus 'lying under', from sub- 'under' + jacere 'to throw'."
+		},
+		"concept": "Thrown under (下に投げ出されたもの。自己という土台からの視線)",
+		"thinking": "対象の「下に（Sub-）」「投げ出される（Jace）」こと。それは他者の支配を受ける意味ではなく、自分という一点を「土台」にして、そこから世界を眺めること。外側の客観性よりも重く、誰にも立ち入れない自分だけの真実を見守る勇気を指します。",
+		"aftertaste": "あなたの感じた「美しさ」は、証明不要のあなたの主観的な真理です。",
+		"example": "Beauty is a subjective experience.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sub",
+					"meaning": "under"
+				}
+			],
+			"points": [
+				"Subject (主題, 家臣) と同根。自分を『下に置く』ことで支える",
+				"18世紀のカント以降、現代的な意味へと転換"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "conjecture",
+		"word": "Conjecture",
+		"meaning": "推測、臆測、仮説",
+		"era": "Latin conjectura",
+		"etymology": {
+			"components": [
+				"con- (together)",
+				"jacere (to throw)"
+			],
+			"original_statement": "From Latin conjectura 'a guessing / inference / interpretation', from con- 'together' + jacere 'to throw'."
+		},
+		"concept": "Thrown together (共に投げ集めること、点と点を結ぶ想像の糸)",
+		"thinking": "バラバラの証拠や事実を「共に（Con）」「投げ（Jace）」集め、一つの物語を組み立てること。確証はない。しかし、欠けたパズルのピースを埋めて、真実の全貌を透かし見る、知性の野心的な跳躍を指します。",
+		"aftertaste": "あなたの推測（カン）。それは過去の経験というデータの蓄積から放たれた「予感」です。",
+		"example": "The role of the advisor is beyond mere conjecture.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "con",
+					"meaning": "with / together"
+				}
+			],
+			"points": [
+				"Connect, Conflict と親類",
+				"古代からの予言や解釈の技法の系譜"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "interjection",
+		"word": "Interjection",
+		"meaning": "感嘆詞、間投詞、不意の差し込み",
+		"era": "Latin interjectio",
+		"etymology": {
+			"components": [
+				"inter- (between)",
+				"jacere (to throw)"
+			],
+			"original_statement": "From Latin interjectio 'a throwing between', from intericere, from inter- 'between' + jacere 'to throw'."
+		},
+		"concept": "Thrown between (間に投げ込まれたもの、溢れる言葉のしぶき)",
+		"thinking": "整然とした論理の「間に（Inter）」「投げ（Jace）」込まれる、心の叫び。文法的な役割ではなく、純粋な驚きや喜びをそのまま結晶化して差し出す、言葉の最も原初的で情動的な身振りです。",
+		"aftertaste": "「ああ」という短いため息の中に、千の言葉以上の真実が宿ることもあります。",
+		"example": "'Wow' and 'Oops' are examples of interjections.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "inter",
+					"meaning": "between"
+				}
+			],
+			"points": [
+				"Interrupt, Intermission と同根",
+				"15世紀、文法の品詞分類の中で確立"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "skepticism",
+		"word": "Skepticism",
+		"meaning": "懐疑主義、疑い",
+		"era": "Ancient Greek skepsis",
+		"etymology": {
+			"components": [
+				"skeptein (to reflect / look at / examine)"
+			],
+			"original_statement": "From Greek skeptikos 'thoughtful / inquiring', from skepsis 'investigation / examination / doubt', from skeptein 'to look around / consider / watch'."
+		},
+		"concept": "Looking around carefully (周囲をじっくりと見渡す。容易に信じぬ知性)",
+		"thinking": "何も信じないことではなく、納得のいくまで「じっくりと（Skep）」「見る（Tein）」こと。表面的な答えに安住せず、常に真理の裏側を覗き込もうとする、探究者としての真摯な執着を指しています。疑うことは、それ自体が深い知的な誠実さの証です。",
+		"aftertaste": "立ち止まり、問い直す。その時間の静寂が、あなたを誤りから救います。",
+		"example": "He approached the claims with healthy skepticism.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "spek",
+					"meaning": "to observe"
+				}
+			],
+			"points": [
+				"Spectator, Scope, Bishop (見守る人) と同根",
+				"「心のスコープ」で、すべてを再点検する知恵"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "satire",
+		"word": "Satire",
+		"meaning": "風刺、皮肉",
+		"era": "Latin lanx satura",
+		"etymology": {
+			"components": [
+				"satur (full / sated)"
+			],
+			"original_statement": "From Latin (lanx) satura 'full dish / mixed plate', from satur 'full / sated / well-fed'."
+		},
+		"concept": "The full dish of folly (愚者のフルコース、混ぜ合わされた毒と笑い)",
+		"thinking": "古代ローマの「盛り合わせ料理（Satura）」のように、多彩な滑稽さや矛盾を一つに盛り付けた批判。相手を「満腹（Satur）」になるまで、笑いと毒という名の「料理（言葉）」で攻め立て、その傲慢な仮面を剥ぎ取る、知的な攻撃の手法です。",
+		"aftertaste": "笑い飛ばされた後、そこには直視すべき、あまりに人間的な欠陥が残されます。",
+		"example": "A Modest Proposal is a masterpiece of English satire.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sa",
+					"meaning": "satisfy / full"
+				}
+			],
+			"points": [
+				"Satisfy, Asset と繋がる",
+				"「腹一杯」食べさせるほどに、徹底した批判"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "consecrate",
+		"word": "Consecrate",
+		"meaning": "奉献する、神聖なものとする、捧げる",
+		"era": "Latin consecrare",
+		"etymology": {
+			"components": [
+				"con- (intensive / together)",
+				"sacrare (to make holy)"
+			],
+			"original_statement": "From Latin consecrare 'to make holy / devote', from con- 'together' + sacrare 'to devote / make holy', from sacer 'holy'."
+		},
+		"concept": "Making holy together (共に聖なるものと成す。日常から祈りへの転換)",
+		"thinking": "単なる物を、ある「意図」によって「聖なる（Sacer）」領域へと「移し（Con）」替えること。それは対象そのものが変わるのではなく、私たちの「向き合い方」が、日常の有用性を超えて、崇高な敬意へと昇華される瞬間の決定を指します。",
+		"aftertaste": "あなたの全力を込めた仕事は、すでに一つの神聖な祈り、コンセクレーション（奉献）です。",
+		"example": "The new chapel was consecrated in a beautiful ceremony.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sak",
+					"meaning": "holy / sacred"
+				}
+			],
+			"points": [
+				"Sacred, Sacrifice, Saint と同根",
+				"14世紀にフランス語経由で定着"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "profane",
+		"word": "Profane",
+		"meaning": "世俗的な、神聖を汚す、冒涜の、(宗教的に)資格のない",
+		"era": "Latin pro fano",
+		"etymology": {
+			"components": [
+				"pro (before)",
+				"fanum (temple)"
+			],
+			"original_statement": "From Latin profanus 'outside the temple / not sacred', from pro 'before / in front' + fanum 'temple'."
+		},
+		"concept": "Before the temple gates (神殿の門前に。聖域の外にある日常)",
+		"thinking": "神聖な「神殿（Fanum）」の「手前（Pro）」にある、まだ聖別されていない領域。それは決して「汚らわしい」のではなく、私たちが呼吸し、働き、愛する「日常という広場」そのものを指していました。しかし、それが聖域を侵す時、それは冒涜という名の影となります。",
+		"aftertaste": "聖域を聖域たらしめるのは、その周囲にある広大な「世俗（プロフェイン）」という名の自由です。",
+		"example": "He used profane language that shocked his family.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "fas / fan",
+					"meaning": "sacred place"
+				}
+			],
+			"points": [
+				"Fan (熱狂者: 神が宿った人) と共通の語源",
+				"神聖でないこと。14世紀以前は単に『世俗の』という中立的な意味でした"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "sacrosanct",
+		"word": "Sacrosanct",
+		"meaning": "極めて神聖な、不可侵の",
+		"era": "Latin sacro sanctus",
+		"etymology": {
+			"components": [
+				"sacro (by sacred rite / holy)",
+				"sanctus (hallowed / decreed)"
+			],
+			"original_statement": "From Latin sacrosanctus, from sacro 'by a sacred rite / holy' + sanctus 'hallowed / decreed', past participle of sancire 'to make sacred by oath / decree'."
+		},
+		"concept": "Hallowed by decree and rite (二重に守られし聖性、絶対矛盾の不踏領域)",
+		"thinking": "宗教的な「儀式（Sacro）」と、法的な「宣告（Sanctus）」の両方によって封印された、二重の「不可侵」。神からも人からも、その尊厳が守られ、犯すことが法として禁じられた場所。それは文明が崩壊してもなお、最後に守り抜くべき魂の「一線」です。",
+		"aftertaste": "あなたの心の中に、誰にも、どんな出来事にも、決して汚させない「聖地」を。そこがあなたの最後の砦です。",
+		"example": "To many, the right to privacy should be sacrosanct.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sak",
+					"meaning": "holy"
+				},
+				{
+					"term": "sank",
+					"meaning": "decree / confirm"
+				}
+			],
+			"points": [
+				"Sanction (制裁/認可), Sanctuary と同根",
+				"本来は古代ローマの護民官の身体的な不可侵属性を指しました"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "clergy",
+		"word": "Clergy",
+		"meaning": "聖職者、司祭",
+		"era": "Latin clericus",
+		"etymology": {
+			"components": [
+				"kleros (a lot / allotment / inheritance)"
+			],
+			"original_statement": "From Latin clericus, from Greek klerikos, from kleros 'a lot / allotment / portion / inheritance'."
+		},
+		"concept": "The chosen lot (選ばれし分与、神に託された遺産)",
+		"thinking": "かつて「くじ（Kleros）」によって特別に選ばれ、神の「取り分（Allotment）」となった人々。世俗の財産を捨て、目に見えない永遠の「遺産」を相続するとされた人々。彼らの存在は、この地上にあって天の秩序を代行する、不安定で崇高な「くじ引き」の運命を体現しています。",
+		"aftertaste": "あなたが今、ある役割に就いている。それは偶然のくじ引きではなく、誰かがあなたに託した必然の遺産かもしれません。",
+		"example": "The local clergy were highly respected in the community.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kler",
+					"meaning": "allotment / lot"
+				}
+			],
+			"points": [
+				"Clerk (事務員: 読み書きができたのは聖職者だけだった) と同根",
+				"Lottery (宝くじ) と精神的に繋がる言葉"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "liturgy",
+		"word": "Liturgy",
+		"meaning": "典礼、礼拝式、(古代ギリシャ)公共奉仕",
+		"era": "Ancient Greek leitourgia",
+		"etymology": {
+			"components": [
+				"leitos (public)",
+				"ergon (work)"
+			],
+			"original_statement": "From Greek leitourgia 'public service / office / religious service', from leitos 'public' (from laos 'people') + ergon 'work'."
+		},
+		"concept": "The work for the people (民衆のためのしごと、祈りの公的形態)",
+		"thinking": "「民（Laos）」のために行われる「仕事（Erg）」。もとは富裕な市民が自腹で公共施設や祭礼を支える「公共奉仕」を指しました。祈りとは個人的なものではなく、共同体という一つの巨大な「身体」が、同じ律動（しごと）を行うことで、宇宙との調和を回復する行為なのです。",
+		"aftertaste": "毎日決まった所作を行うこと。そのルーティン（典礼）が、あなたの心を静かに、美しく調律します。",
+		"example": "The Gregorian chant is a core part of the Latin liturgy.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "la",
+					"meaning": "people"
+				},
+				{
+					"term": "werg",
+					"meaning": "work"
+				}
+			],
+			"points": [
+				"Energy, Synergy, Layman と繋がる",
+				"個人の感情より、全体の形式に『真理』を託す美学"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "ecclesiastical",
+		"word": "Ecclesiastical",
+		"meaning": "教会の、キリスト教会の、聖職の",
+		"era": "Ancient Greek ekklesia",
+		"etymology": {
+			"components": [
+				"ex- (out)",
+				"kalein (to call)"
+			],
+			"original_statement": "From Greek ekklesia 'an assembly of citizens summoned', from ek- 'out' + kalein 'to call'."
+		},
+		"concept": "Called out together (呼び集められた人々、日常から選ばれし会衆)",
+		"thinking": "それぞれの日常の営みの中、ある静かな声によって、その場を離れて「外（Ex）」へ「呼び（Kalein）」集められた人々。教会とは建物ではなく、その「呼び声」に答え、集った人々の意志そのものを指します。共有された信念こそが、最も強固な礎石なのです。",
+		"aftertaste": "あなたの名前を呼ぶ声。その声に耳を澄ませた時、新しい旅が始まります。",
+		"example": "He spent years studying ecclesiastical history.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kel",
+					"meaning": "call / shout"
+				}
+			],
+			"points": [
+				"Calendar, Claim, Council と同根",
+				"古代ギリシャの市民会議（民会）の名が教会へと転用されました"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "venerate",
+		"word": "Venerate",
+		"meaning": "尊敬する、崇拝する、崇める",
+		"era": "Latin venerari",
+		"etymology": {
+			"components": [
+				"Venus (Goddess of Love)"
+			],
+			"original_statement": "From Latin veneratus, past participle of venerari 'to worship / revere', from venus (gen. veneris) 'love / sexual desire / beauty'."
+		},
+		"concept": "To treat with love (愛をもって接する、美しき畏怖)",
+		"thinking": "美と愛の女神「ヴィーナス（Venus）」のように、対象を愛し、畏敬の念を抱くこと。尊敬とは、遠くに置いて眺めることではなく、その美しさに心酔し、自分を低くしてその輝きを「愛でる」という、能動的で情熱的な礼拝なのです。",
+		"aftertaste": "何かを心から愛すること。それが、あなたにとっての最高の『尊敬』の形になりますように。",
+		"example": "In some cultures, they venerate their ancestors.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "wen",
+					"meaning": "to desire / strive for / wish for"
+				}
+			],
+			"points": [
+				"Win, Wish, Venice と同根",
+				"愛という名の欲求が、神聖な祈りへと磨き上げられた言葉"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "sanctify",
+		"word": "Sanctify",
+		"meaning": "神聖にする、清める、(罪を)許す",
+		"era": "Latin sanctificare",
+		"etymology": {
+			"components": [
+				"sanctus (holy / hallowed)",
+				"facere (to make)"
+			],
+			"original_statement": "From Late Latin sanctificare 'to make holy', from sanctus 'holy' + facere 'to make'."
+		},
+		"concept": "Making the holy real (神聖さを現実に成す、静かなる清掃)",
+		"thinking": "抽象的な「聖（Sanct）」という性質を、具体的な行為として「作り（Fice）」上げること。目に見えない想いを、日々の振る舞いや言葉遣いによって「形」としてこの世に定着させること。清めることは、本質へと立ち返る美しき「彫刻」のような過程です。",
+		"aftertaste": "毎日触れるその場所。そこを清めるだけで、そこはすでに聖域、サンクチュアリへの入り口となります。",
+		"example": "He felt that hard work would sanctify his life.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sank",
+					"meaning": "confirm / decree"
+				},
+				{
+					"term": "dhe",
+					"meaning": "set / make"
+				}
+			],
+			"points": [
+				"Sanctuary, Sacrifice, Fact と共通点",
+				"14世紀にフランス語経由で定着"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "layman",
+		"word": "Layman",
+		"meaning": "素人、門外漢、(聖職者に対して)平信徒",
+		"era": "Ancient Greek laos",
+		"etymology": {
+			"components": [
+				"laos (people / common folk)"
+			],
+			"original_statement": "From Middle English lay, from Old French lai, from Latin laicus, from Greek laikos 'of the people', from laos 'the common people'."
+		},
+		"concept": "Of the common people (民衆の一人として、日常を生きる者)",
+		"thinking": "特別な位階を持たず、大勢の「民（Laos）」の中に踏みとどまり、そこで汗を流し、生活を営む者。それは決して「劣っている」のではなく、最も健全な「現実」の重みを背負っている者たちの名です。専門という名の殻を持たない、剥き出しの好奇心を指します。",
+		"aftertaste": "「わからない」と言えることは、これから「すべてを学べる」という自由の別名です。",
+		"example": "In simple terms that a layman can understand.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "la",
+					"meaning": "common folks"
+				}
+			],
+			"points": [
+				"Liturgy (民の公式な働き) と実は語源の中心を共有",
+				"13世紀、教会において聖職者と一般市民を分かつ言葉として誕生"
+			]
+		},
+		"part_of_speech": "noun"
 	}
 ];
