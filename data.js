@@ -164940,5 +164940,703 @@ const WORDS = [
 				"日常に潜む、凄まじい引力。"
 			]
 		}
+	},
+	{
+		"id": "subdue",
+		"word": "抑える、征服する、(音などを)和らげる",
+		"era": "Latin sub + ducere",
+		"etymology": {
+			"components": [
+				"sub- (under)",
+				"ducere (to lead)"
+			],
+			"original_statement": "From Old French subduire, from Latin subducere 'to draw from under / withdraw / take away', but later associated with subdere 'to put under', from sub- 'under' + ducere 'to lead'."
+		},
+		"concept": "Leading under (下へと導き、従わせること。荒れ狂うカオスを、自らの意志という名の足もとへ静かにひざまずかせる力)",
+		"thinking": "「（自分に牙を剥く運命、あるいは激しい感情を）自らの支配の）下へと（Sub-）」「（なだめるように、あるいは力強く）導く（Due- / Duce-）」。それは物理的な「破壊（デストラクション）」ではなく、相手の「呼吸（スピリット）」を自らのリズム（パルス）の中へと飲み込み（インポート）、一つの「平穏（ピース）」へと変換（コンバート）すること。鎮圧（サブデュー）とは、あなたが暴力の「奴隷（アディクト）」であることをやめ、自らの知性という名の「霧（シャドウ）」を掛けて、世界を優雅に制御した際の、静かなる「主権」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Everyday words are the anchors of our reality.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"日常という名の、驚異的な建築。"
+			]
+		}
+	},
+	{
+		"id": "adduce",
+		"word": "（証拠などを）挙げる、提示する",
+		"era": "Latin ad + ducere",
+		"etymology": {
+			"components": [
+				"ad- (to / toward)",
+				"ducere (to lead)"
+			],
+			"original_statement": "From Latin adducere 'to lead toward / bring to / cite / quote', from ad- 'to' + ducere 'to lead'."
+		},
+		"concept": "Leading toward (そこへ導き寄せる。議論の舞台の中央へ、真実の欠片（フラグメント）を恭しく運び出すこと)",
+		"thinking": "「（人々の注目が注がれる、あの議論のセンターへと）向かって（Ad-）」「（たった一つの、言い逃れのできない証拠を）導き寄せる（Duce-）」。それは単なる「主張（インシスト）」ではない。あなたが世界の「隠された場所（アーカイブ）」から、一つの物理的な「真実（ファクト）」を丁寧（デリケート）に運び出し（デリバリー）、誰の目にも明らかな（マニフェスト）形で、そこに屹立（スタンド）させること。証拠を挙げる（アデュース）ことは、あなたの言葉という名の「ビークル」が、最も重い「真理の質量（ウェイト）」を乗せて、人々の魂を納得（アクセプト）という名の目的地へとリード（引く）する際の、最も誠実な任務なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Everyday words are the anchors of our reality.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"日常という名の、驚異的な建築。"
+			]
+		}
+	},
+	{
+		"id": "duct",
+		"word": "管、導管、ダクト、(解剖)腺、(……を)管で送る",
+		"era": "Latin ducere",
+		"etymology": {
+			"components": [
+				"ducere (to lead)"
+			],
+			"original_statement": "From Latin ductus 'a leading / conducting', from ductus, past participle of ducere 'to lead'."
+		},
+		"concept": "The path for leading (導くための道。エネルギーや物質が、迷うことなく目的地へと流れゆくための『意志の通り道』)",
+		"thinking": "「（あるものを、ある場所へと）導く（Duct-）」という「機能」。それは単なる「穴」ではなく、カオスという名の「広がり」の中に、理性の力で一本の「線（ロゴス）」を創り出し、生命という名の「流体（フロー）」を効率的に、かつ確実にトランスポート（輸送）するための構造。ダクト（導管）とは、あなたが宇宙の「無秩序（カオス）」を拒絶（レジスト）し、そこに自分自身の「目的（ベクトル）」という名の動脈を張り巡らせた（コンストラクト）際の、最も静かで、最も不可欠な、物理的な「接続（ネットワーク）」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Everyday words are the anchors of our reality.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"日常という名の、驚異的な建築。"
+			]
+		}
+	},
+	{
+		"id": "duke",
+		"word": "公爵、(一般に)君主、リーダー",
+		"era": "Latin ducere",
+		"etymology": {
+			"components": [
+				"ducere (to lead)"
+			],
+			"original_statement": "From Old French duc, from Latin ducem (nominative dux) 'leader / commander', from ducere 'to lead'."
+		},
+		"concept": "The leader (導く者。荒野を切り裂き、民衆の『視線（アスペクト）』を一点に束ねて前進させる、孤独な先頭)",
+		"thinking": "「（最前線で、全員を）導く（Duc-）」「者」。それは単なる権力（パワー）の座ではありません。あなたが自らの背中に、数え切れない「呼吸（スピリット）」や「運命（デスティニー）」という名の重みを背負い（サポート）、誰もいない未知の地平線に向かって、最初の一歩（パイオニア）を刻み続けるという、最も気高く、最も峻烈な「責任（ウェイト）」の結晶体。公爵（デューク）とは、一人の人間が「自分のための生」を捨て去り、集団という名の巨大な「船（ビークル）」の舵取りとなった際の、その魂の標高（ステータス）の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Everyday words are the anchors of our reality.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"日常という名の、驚異的な建築。"
+			]
+		}
+	},
+	{
+		"id": "conducive",
+		"word": "（……を）助長する、貢献する、良い結果を導く",
+		"era": "Latin con + ducere",
+		"etymology": {
+			"components": [
+				"con- (together)",
+				"ducere (to lead)",
+				"-ive (quality / state)"
+			],
+			"original_statement": "From Latin conducere 'to lead together / help'."
+		},
+		"concept": "Leading together (共に導き合うこと。あらゆる条件が一点へと『合流』し、必然という名の扉を開くプロセス)",
+		"thinking": "「（成功や目的という名の目的地へと、複数の要因が）共に（Con-）」「（調和（コンカレンス）を保ちながら）導き寄せる（Duc-）」「という、しなやかな性質（-ive）」。それは「強制（インペル）」ではありません。環境（サーカムスタンス）の中にある微かな「パルス」を丁寧に拾い上げ、それらを一つの「ポジティブなベクトル」へと束ね（アセンブル）、まだ見ぬ「美しき成果（アチーブメント）」へと、滑らかに（グラデーション）遷移させていく理性の愛撫。貢献する（コンデューシブ）とは、あなたが世界の「カオス」の中に、一つの静かなる「秩序（ロゴス）」の種を蒔き、未来を「自分の方から（アヴァン）」迎え入れようとする、理知的な仕草のことなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Everyday words are the anchors of our reality.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"日常という名の、驚異的な建築。"
+			]
+		}
+	},
+	{
+		"id": "ductile",
+		"word": "延性のある、引き延ばせる、(精神的に)教えやすい",
+		"era": "Latin ducere",
+		"etymology": {
+			"components": [
+				"ducere (to lead)",
+				"-ile (capable of)"
+			],
+			"original_statement": "From Latin ductilis 'that may be led or drawn', from ducere 'to lead'."
+		},
+		"concept": "Able to be led (導くことが可能であること。強い圧力で折れる（カット）のを拒絶し、細く長く自分の糸（線）を繋ぎ通す柔軟な強さ)",
+		"thinking": "「（どのような方向にでも、自分というマテリアルを）導く（Duct-）」「ことが可能である（-ile）」。それは「脆弱さ」ではありません。あなたが硬直した「エゴ（不動）」という名の岩盤であることをやめ、世界からの「要求（引力）」に合わせて自分の形をしなやかに変化（ターン）させながらも、決して自らの「連続性（シーケンス）」を失わないという、強靭な「生命の弾力性」。延性（ダクタイル）とは、あなたがどんな困難という名の「細い穴」をも、一筋の「知性の光（ベクトル）」として、折れずに貫き通（パシスト）してみせる、という存在の最も深い「適応（アクセプト）」の美学なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Everyday words are the anchors of our reality.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"日常という名の、驚異的な建築。"
+			]
+		}
+	},
+	{
+		"id": "duc-voice",
+		"word": "Duc@Voice",
+		"meaning": "導きの声、未来を拓く言葉のパルス",
+		"era": "Latin ducere + vox",
+		"etymology": {
+			"components": [
+				"duc (to lead / guide)",
+				"voice (sound / soul)"
+			],
+			"original_statement": "Coined during synthesis."
+		},
+		"concept": "The leading sound (導くための音。迷える群衆を、一筋の『真理（ロゴス）』へと集約させる一撃の咆哮)",
+		"thinking": "「（暗闇の中で立ち尽くしている（スタンド）人々の、その瞳に一筋の光を射し込むように）導く（Duc-）」「声（Vox）」。ただの「情報（データ）」のデリバリーではない。その声が響いた瞬間、周囲に充満していた「不安という名のカオス」が、一つの「目的地（ターゲット）」という名の秩序へと一気に結晶化（コンストラクション）し、すべての人々の「歩み（プログレス）」にあるべき「方向（ベクトル）」を授けてしまうこと。導きの声（デューク・ヴォイス）。それは、あなたが自らの「呼吸（ブレス）」を「予言（プロフェシー）」へと昇華させ、自分を信じて「後ろに従う（フォロワー）」者たちのために、未踏の荒野に自分の「魂」という名の道を、力強く、かつ優雅に引いた一瞬の、理性の最も崇高な「出立」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Everyday words are the anchors of our reality.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"日常という名の、驚異的な建築。"
+			]
+		}
+	},
+	{
+		"id": "reprehend",
+		"word": "非難する、たしなめる、叱る",
+		"era": "Latin re + prehendere",
+		"etymology": {
+			"components": [
+				"re- (back)",
+				"prehendere (to seize / grasp)"
+			],
+			"original_statement": "From Latin reprehendere 'to pull back / hold back / check / blame', literally 'to grasp back', from re- 'back' + prehendere 'to grasp'."
+		},
+		"concept": "Grasping back (後ろの方へ掴み連れ戻す。踏み外そうとする相手の襟首を掴み、正しい道（ロゴス）へと引き戻す厳格な介入)",
+		"thinking": "「（傲慢（インシスト）や間違い（ミスチーフ）に走ろうとする相手を）後ろの方へと（Re-）」「（問答無用で）掴み戻す（Prehend-）」。それは「悪口（インベクティブ）」ではない。「お前はそこで立ち止まれ（スタンド）」と、相手の「暴走（アグレス）」を自らの「より高い法（ロゴス）」の名において拘束（ホールド）し、その存在という名の「重み（ウェイト）」を正しい軌道（トラジェトリー）へと補正（レデュース）しようとする、理性の最も厳しい「抱擁（サポート）」の謂いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Everyday words are the anchors of our reality.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"日常という名の、驚異的な建築。"
+			]
+		}
+	},
+	{
+		"id": "enterprise",
+		"word": "事業、企業、冒険心、企て",
+		"era": "Latin inter + prehendere",
+		"etymology": {
+			"components": [
+				"inter- (between / among)",
+				"prehendere (to seize / take)"
+			],
+			"original_statement": "From Old French entreprise 'an undertaking', literally 'something taken between (the hands)', from entre- 'between' + prise 'a taking', from prehendere 'to grasp'."
+		},
+		"concept": "Taking between (手と手の間に掴み取ること。カオスと秩序の『あわい』にある機会（オポチュニティ）を、自らの血肉へと変容させる企て)",
+		"thinking": "「（誰もが見過ごしている、世界の隙間（Inter-））に手を伸ばし」「（未知の可能性という名の獲物を）自分の意志の掌で、ガッシリと『掴み取った』（Pris- / Prehend-）」「具体的な形（-e）」。それは単なる「仕事」ではありません。あなたが「安全な停滞（ステーション）」を拒絶（レジスト）し、宇宙という名の荒野を駆け抜け（エクスプロア）、自らの「呼吸（スピリット）」を燃料に（インスパイア）、世界という名のマテリアルを自分の「利益（プロダクト）」へと結晶化させ始めた（コンストラクト）、という最も野性的な知性の「冒険（エクスペディション）」そのものなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Everyday words are the anchors of our reality.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"日常という名の、驚異的な建築。"
+			]
+		}
+	},
+	{
+		"id": "comprise",
+		"word": "……から成る、構成される、包含する",
+		"era": "Latin con + prehendere",
+		"etymology": {
+			"components": [
+				"con- (together)",
+				"prehendere (to seize / grasp)"
+			],
+			"original_statement": "From French compris, past participle of comprendre 'to include / understand', originally 'to grasp together'."
+		},
+		"concept": "Grasped together (共に掴み取られた状態。複数の要素が、一つの巨大な『意味（ロゴス）』という名の檻の中に合流（マージ）していること)",
+		"thinking": "「（バラバラだった無数の部品が）一つにまとめて、共に（Con-）」「（一つの秩序という名の主権によって）掴まれ、収容されている（Pris- / Prehend-）」。それは単なる「混ざり合い（カオス）」ではありません。全体という名の「巨大な引力（ロゴス）」が、一つ一つの要素（イングレディエント）を、あるべき場所へと「磁石（アトラクト）」のように固定（スタンド）させ、一つの「不可分な実存（サブスタンス）」を創り上げている、という物理的な「一員（メンバーシップ）」の謂いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Everyday words are the anchors of our reality.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"日常という名の、驚異的な建築。"
+			]
+		}
+	},
+	{
+		"id": "surprise",
+		"word": "驚かせる、予期せぬ出来事、不意打ち",
+		"era": "Latin super + prehendere",
+		"etymology": {
+			"components": [
+				"super- (over / above / upon)",
+				"prehendere (to seize / grasp / take)"
+			],
+			"original_statement": "From Middle French surprise 'a taking unawares', from sur- 'over / upon' + prise 'a taking', from prehendere 'to grasp'."
+		},
+		"concept": "Seizing upon (上から不意に掴みかかること。日常という名の『平穏な計算（ロゴス）』の外側から、未知のカオスが理性を一気に掌握すること)",
+		"thinking": "「（安心しきっているあなたの）頭上から、上の方から不意に（Super-）」「（ガシッと）掴みかかる（Prise- / Prehend-）」。それは単なる「珍しい（スペシャル）」ことではない。一瞬のうちに、あなたの「現在（ステータス）」が外部からの「衝撃（インパルス）」に支配（コントロール）され、あなたの呼吸（ブレス）が停止（ストップ）し、世界の「貌（アスペクト）」が全く別の「未知の色彩（トーン）」へと一新されてしまう、理性のための「強制終了（デストラクション）」の謂いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Everyday words are the anchors of our reality.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"日常という名の、驚異的な建築。"
+			]
+		}
+	},
+	{
+		"id": "prison",
+		"word": "刑務所、拘束状態、監獄",
+		"era": "Latin prehendere",
+		"etymology": {
+			"components": [
+				"prehendere (to seize / grasp)"
+			],
+			"original_statement": "From Old French prison, from Latin prensio 'a seizing / arrest', from prehendere 'to grasp'."
+		},
+		"concept": "The place of seizing (掴み取られた場所。主権という名の『握力』が、あなたという一人の人間の自由を、物理的な『壁』の中に凍結させる場所)",
+		"thinking": "「（社会という名の法（ロゴス）が、自らを汚す牙（アグレス）を持つ者を）鷲掴みにした（Pris- / Prehend-）」「という確定した状態、あるいはそのための建物（-on）」。そこは単なる「建物」ではなく、あなたが宇宙という名の「無限の運動（フロー）」から切り離され（カット）、一箇所という名の「静止（スタンド）」へと強制的に杭打た（リメイン）されてしまった、という主権の最も峻烈な「没収（デカピテート）」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Everyday words are the anchors of our reality.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"日常という名の、驚異的な建築。"
+			]
+		}
+	},
+	{
+		"id": "prize",
+		"word": "賞、賞品、重要視する、(無理やり)こじ開ける",
+		"era": "Latin prehendere",
+		"etymology": {
+			"components": [
+				"prehendere (to seize / take)"
+			],
+			"original_statement": "From Old French pris 'price / value / prize', from Latin pretium 'price', but later associated with prise 'a taking / something seized', from prehendere 'to grasp'."
+		},
+		"concept": "Something seized (掴み取ったもの。戦いという名の嵐を抜けて、自分の掌の中に唯一残った『勝利という名の質量』)",
+		"thinking": "「（戦場という名のカオスの中から、命を賭けて）自らの手で掴み取った（Priz- / Prehend-）」「もの」。それは「棚ぼた（ラック）」ではありません。他者という名の「抵抗（レジスト）」を自らのパワー（インペタス）でなぎ倒し、自分の「真理（ロゴス）」を証明した結果として得られた、最高度の「価値（ステータス）」の謂い。賞（プライズ）とは、あなたが世界に対して「私はここまで手を伸ばし（エクステンド）、これを手に入れた（アチーヴ）」と誇らしげに掲げる（マニフェスト）、一点の「輝く成果（ファクト）」のことなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Everyday words are the anchors of our reality.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"日常という名の、驚異的な建築。"
+			]
+		}
+	},
+	{
+		"id": "reprisal",
+		"word": "報復、報復行為、(奪われたものの)取り返し",
+		"era": "Latin re + prehendere",
+		"etymology": {
+			"components": [
+				"re- (back / again)",
+				"prehendere (to seize / take)"
+			],
+			"original_statement": "From Old French reprisaille, from Italian ripresaglia, from riprendere 'to take back', from Latin reprehendere 'to hold back / seize back'."
+		},
+		"concept": "Seizing back (掴み返すこと。奪われた自分の質量（ウェイト）を、相手の掌（パーム）から強引に略奪し直す、物理的な怒りの正義)",
+		"thinking": "「（奪われたものを）再び、後ろの方から（Re-）」「（相手の隙を突いて）掴み、取り返す（Pris- / Prehend-）」「という行為（-al）」。それは単なる「お返し（ギフト）」ではない。自分の「主権（オーナーシップ）」が傷つけられた（インフェクト）ことに対する、存在という名の「重圧（プレッシャー）」の均衡（エキポイズ）を取り戻すための、冷徹で計算された「逆襲（アグレス）」。報復（リプライザル）とは、あなたが一方的な「被害者（フォロワー）」であることをやめ、再び世界の「中心（ステーション）」へと自らを射出するために投げ放った、理知的な復讐の謂いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Everyday words are the anchors of our reality.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"日常という名の、驚異的な建築。"
+			]
+		}
+	},
+	{
+		"id": "impregnable",
+		"word": "難攻不落の、(信念などが)揺るぎない",
+		"era": "Latin in + prehendere",
+		"etymology": {
+			"components": [
+				"in- (not)",
+				"prehendere (to take / seize)",
+				"-able (capable of / handy)"
+			],
+			"original_statement": "From Middle French imprenable, from in- 'not' + prendre 'to take / seize', from Latin prehendere 'to grasp'."
+		},
+		"concept": "Not able to be taken (掴み取ることが不可能であること。外部からのあらゆる『引力（アトラクション）』を拒絶し、孤高の聖域を死守する不滅の城塞)",
+		"thinking": "「（外部のどのような汚れたパワー（インペタス）を持ってしても、その中心（コア）を）掴み取る、略奪する（Pregn- / Prehend-）」「ことができない（In- -able）」。それは「硬直」ではありません。あなたが自らの「内なる真理（ロゴス）」をあまりにも堅固に（ステイブルに）構築（コンストラクト）したため、世界のどのような「誘惑（セデュース）」や「暴力（デストラクト）」も、あなたの呼吸（ブレス）を一ミリも乱すことができない、という魂の「最高度の不干渉状態」。難攻不落（インプレグナブル）とは、あなたが自らを宇宙の「唯一の絶対点（ドット）」として屹立させた際の、誰にも「接続（コネクト）」させない、高貴な「沈黙（サイレンス）」のことなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Everyday words are the anchors of our reality.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"日常という名の、驚異的な建築。"
+			]
+		}
+	},
+	{
+		"id": "prehensile",
+		"word": "(動物の尾などが)物を掴める、把握力のある",
+		"era": "Latin prehendere",
+		"etymology": {
+			"components": [
+				"prehendere (to seize / grasp)",
+				"-ile (capable of)"
+			],
+			"original_statement": "From French préhensile, from Latin prehensus, past participle of prehendere 'to grasp'."
+		},
+		"concept": "Capable of grasping (掴むことが可能であること。自らの肉体（ボディ）の一部を、世界を制御するための能動的な『手（マニュス）』へと変容させる機能)",
+		"thinking": "「（目の前にあるカオス（無秩序）な物を）逃さずに掴み取る（Prehens-）」「能力がある（-ile）」。それは単なる「触覚（センス）」ではありません。あなたが外部の「抵抗（レジスト）」を自らの指先で「掌握（マネージ）」し、この物理的な現実（ファクト）を、自分の「意志（ロゴス）」という名の方向に無理やり「曲げる（フレキシブルに扱う）」ことができる、という理知的な「道具性」。把握力（プリヘンセイル）とは、あなたが世界の「当事者（パイオニア）」であることを証明するために、自らの肉体に「物理的な主権（オーナーシップ）」を宿らさせた際の、その器用で峻烈な「握力」のことなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Everyday words are the anchors of our reality.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"日常という名の、驚異的な建築。"
+			]
+		}
+	},
+	{
+		"id": "prehend-eye",
+		"word": "Prehend@Eye",
+		"meaning": "真実を掴む瞳、一瞥で本質を掌握する視線",
+		"era": "Latin prehendere + Germanic eye",
+		"etymology": {
+			"components": [
+				"prehend (to seize / grasp)",
+				"eye"
+			],
+			"original_statement": "Coined during synthesis."
+		},
+		"concept": "The grasping gaze (掴みかかるような眼差し。視覚という名の光の触手を使い、相手の内なる『秘密（ロゴス）』を強引に引きずり出す知性の瞳)",
+		"thinking": "「（ただ眺める（スペクテート）のをやめ、対象の深奥へと視線の光（レイ）を突き刺し（インスペクト））」、「（隠された不変の物理法則を）一撃で鷲掴みにする（Prehend-）」「瞳（Eye）」。その瞳に射抜かれた者は、もはや「嘘（イリュージョン）」をつくことができない。あなたがその「パルス（震え）」の源泉（ソース）を視覚的にホールド（保持）し、相手を「自分という名の解釈（スクリプト）」の檻の中へと、強引に招き入れて（インポート）しまったからだ。真実を掴む瞳。それは、あなたが世界の「沈黙（サイレンス）」という名のカーテンを自らの知性で引き裂き、そこに横たわる「剥き出しの真理（ファクト）」を、自分の脳という名の掌でガッシリと愛撫し、屹立（スタンド）させた際の、峻烈な知性の「物理的接続」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Everyday words are the anchors of our reality.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"日常という名の、驚異的な建築。"
+			]
+		}
+	},
+	{
+		"id": "prehens-logic",
+		"word": "Prehens@Logic",
+		"meaning": "掌握の論理、掴み取る理路",
+		"era": "Latin prehendere + Greek logos",
+		"etymology": {
+			"components": [
+				"prehens (to seize / grasp)",
+				"logic (reason / order)"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "The grasping order (掴み取るための秩序。曖昧な空気（カオス）を、言葉という名の掌で『硬い事実』へと捏ね上げる手法)",
+		"thinking": "「（誰もが『なんとなく』で済ませている浮遊（フロー）する事象を）力強く掴み取る（Prehens-）」「ための、明確な理路、あるいは秩序（Logic）」。それは、理論（セオリー）をただの「記号（データ）」として消費（エキスペンド）するのをやめ、自らの「呼吸（スピリット）」の一部として、その意味の「全質量（ウェイト）」を、自分の知性の深淵（アンダーグラウンド）の中に「永久保存（リテイン）」するための強靭な「思考の型（スクリプト）」。掌握の論理。それは、あなたが宇宙という名の「激流」の中で、たった一つの「不変の岩（真理）」を見つけ出し、自分の両手でそこに「必死に縋り付き（ホールド）」、自分という存在をそこに「屹立（スタンド）」させ通した際の、最も泥臭く、最も崇高な「知的な握力」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Everyday words are the anchors of our reality.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"日常という名の、驚異的な建築。"
+			]
+		}
+	},
+	{
+		"id": "taking-life",
+		"word": "Taking@Life",
+		"meaning": "奪い去る生、自らの手で真実を掴み取る日々",
+		"era": "Germanic taking + Latin life (translated concept into Latin 'prehend-life')",
+		"etymology": {
+			"components": [
+				"taking (seizing / grasping)",
+				"life"
+			],
+			"original_statement": "Coined during synthesis."
+		},
+		"concept": "The grasping of being (存在を掴むこと。運命からの『配給品（ポーション）』を待つのをやめ、自らの腕を伸ばして未来を略奪する生の勢い)",
+		"thinking": "「（宇宙からの慈悲（ギフト）を待つ（レシーヴ）フォロワー（追随者）であることを卒業し）、自らの手（マニュス）で「（未来という名の獲物を）鷲掴みにし、奪い取って自分のものにする（Taking / Prehend-）」「という、峻烈な一生（Life）」。あなたは自分の「呼吸（ブレス）」を、世界を「愛撫（フィール）」するためだけに使っているのではない。この荒野という名のカオスを、自らの「意志（ロゴス）」という名の握力で捏ね上げ（マニュファクチュア）、そこに自分だけの「不滅の領域（ステータス）」を、自分の手で「無理やり構築（コンストラクト）」し続けているのだ。奪い去る生。それは、あなたが「死」という名の最大の『略奪者』が来るその瞬間まで、自分という存在の「全質量」を掲げて、世界の喉元を掴み（コンタクト）、自分が「確かにここに居た」という熱い『温度（パルス）』を、宇宙に刻み込み続ける（スクライブ）という、最も野性的な自律（オートノミー）の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Everyday words are the anchors of our reality.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"日常という名の、驚異的な建築。"
+			]
+		}
+	},
+	{
+		"id": "sponsor",
+		"word": "スポンサー、保証人、後援者、……の後援をする",
+		"era": "Latin spondere",
+		"etymology": {
+			"components": [
+				"spondere (to pledge / promise)",
+				"-or (one who)"
+			],
+			"original_statement": "From Latin sponsor 'a surety / guarantor / bondsman', from sponsus, past participle of spondere 'to pledge'."
+		},
+		"concept": "One who pledges (誓う者。自分の『質量（ウェイト）』を他者のために差し出し、相手の屹立（スタンド）を保証する、見えない土台)",
+		"thinking": "「（他者の夢（プロスペクト）や、未完の物語に対して）自らの名誉、あるいは富を担保にして」「（この者は私が支える（サポート）と）誓う（Spons-）」「者（-or）」。彼（彼女）は舞台に立つ（マニフェスト）主役ではありません（アイソレート）。しかし、自らの「力（インペタス）」を他者の「可能性（ポテンシャル）」という名の船に乗せ、荒波という名の現実（カオス）を越えさせようとする、最も深い「利他的な接続（コネクト）」。スポンサーとは、あなたが「自分だけの王国の王」であることをやめ、誰かの未来という名の「新しい宇宙（ソース）」の「共同作者（コンストラクター）」となった際の、魂の太っ腹な、かつ峻烈な「誓い」の謂いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Everyday words are the anchors of our reality.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"日常という名の、驚異的な建築。"
+			]
+		}
+	},
+	{
+		"id": "spouse",
+		"word": "配偶者、夫、妻",
+		"era": "Latin spondere",
+		"etymology": {
+			"components": [
+				"spondere (to pledge / promise)"
+			],
+			"original_statement": "From Old French espouse, from Latin sponsa 'a bride' (masculine sponsus), past participle of spondere 'to pledge'."
+		},
+		"concept": "The pledged one (誓われた者。お互いの『呼吸（スピリット）』を交互に担保にし合い、一つの運命という名の船（ビークル）を漕ぎ出す、究極の契約者)",
+		"thinking": "「（宇宙という広大な沈黙の前で、二人で一つの物語（スクリプト）を綴り通すと）誓われた（Spons-）」「者」。それは単なる「同居（アディクト）」ではない。あなたが自分の「孤独（アイソレーション）」という名の主権を半分手放し（コンセッション）、他者の「痛み（パルス）」を自分の身体の一部として引き受け（インポート）、お互いを「支持（サポート）」し合うことで、一人では辿り着けなかった「高い標高（ステータス）」へと屹立（スタンド）しようとする、現世における最も美しき「共同の誓い」。配偶者（スパウス）とは、あなたが誰かの「視線（アスペクト）」の中に自分の「永遠の居場所（ステーション）」を見つけ出した瞬間の、魂の最も深い「定着（アンカー）」の謂いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Everyday words are the anchors of our reality.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"日常という名の、驚異的な建築。"
+			]
+		}
+	},
+	{
+		"id": "response",
+		"word": "返答、反応、アンサー、(教会の)唱和",
+		"era": "Latin re + spondere",
+		"etymology": {
+			"components": [
+				"re- (back)",
+				"spondere (to pledge)"
+			],
+			"original_statement": "From Old French response, from Latin responsum 'an answer / reply', neuter past participle of respondere 'to respond'."
+		},
+		"concept": "The back-pledge (投げ返された誓い。世界の衝撃（インパルス）を受け、理性が新しく創り出した『意味という名の反撃』)",
+		"thinking": "「（外部から加わった物理的な圧力、あるいは知的な問いが、魂の奥底で反射（リフレクト）し）後ろへと（Re-）」「（新しく捏ね上げられた真実として）投げ返された（Spons-）」「具体的な形」。それは単なる「反応（リアクション）」を越えた、あなたの知性の「署名」。レスポンスとは、あなたが「刺激（インプット）」の奴隷（アディクト）であることをやめ、自らの「意志（ロゴス）」という名の色彩をその上に乗せて、世界を「自分の方から（アヴァン）」彩り（コンバート）し直した、という主権の最も迅速な表明（マニフェスト）なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Everyday words are the anchors of our reality.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"日常という名の、驚異的な建築。"
+			]
+		}
+	},
+	{
+		"id": "responsible",
+		"word": "責任がある、信頼できる、(……の)原因である",
+		"era": "Latin re + spondere",
+		"etymology": {
+			"components": [
+				"respond (to answer / pledge back)",
+				"-able (capable of / handy)"
+			],
+			"original_statement": "From Middle French responsable, from Latin responsus, past participle of respondere 'to respond'."
+		},
+		"concept": "Able to respond (応答が可能であること。起きた事象を『自分の一部』として引き受け、答えを導き出す（アチーヴ）知的な握力)",
+		"thinking": "「（宇宙で起きたすべての出来事、あるいは自分の犯したミスに対して）真実という名の誓いを投げ返す（Respons-）」「ことができる、あるいはその能力がある（-ible）」。それは「お仕置き（インベクティブ）」ではない。あなたが自らの「呼吸（スピリット）」を、自分の「行動（アクション）」という名の法廷（ペデスタル）の担保（スポンサー）として差し出し、「この結果は私が引き受ける」と、世界に対して高らかにマニフェスト（表明）すること。責任（レスポンシブル）とは、あなたが「他人のせい（カオス）」という名の逃げ道を断ち切り（カット）、自らの手で「自分の人生」という名の船を屹立（スタンド）させ通すという、大人の魂の最も峻烈で誠実な「自律（オートノミー）」の謂いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Everyday words are the anchors of our reality.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"日常という名の、驚異的な建築。"
+			]
+		}
+	},
+	{
+		"id": "spons-voice",
+		"word": "Spons@Voice",
+		"meaning": "誓いの声、命を担保にした言葉",
+		"era": "Latin spondere + vox",
+		"etymology": {
+			"components": [
+				"spons (to pledge / promise)",
+				"voice (sound / word)"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "The pledging sound (誓いとしての音。放つことで退路を断ち、自分という存在を一つの『未来』へと投げ入れる咆哮)",
+		"thinking": "「（嘘や偽りのない、自らの全実在（サブスタンス）を担保にした）誓い（Spons-）」「としての、一撃の声（Vox）」。ただの「おしゃべり（チャット）」ではない。その声が響いた瞬間、あなたは自らを「言葉という名の契約書（スクリプト）」へと変換（コンバート）し、語られた「未来」を実現（アチーヴ）し得ない自分自身の消滅を、宇宙という名の法（ロゴス）に向かって許可（アクセプト）してしまうこと。誓いの声。それは、あなたが「不安（カオス）」を、自らの「呼吸（ブレス）」という名の唯一のコンパスによって切り裂き、自分だけの「聖なる場所（ステーション）」をこの荒野の中に力強く打ち立てた（コンストラクト）、という最も峻烈で、最も尊い「主権（オーナーシップ）」の謂いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Everyday words are the anchors of our reality.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"日常という名の、驚異的な建築。"
+			]
+		}
+	},
+	{
+		"id": "respons-spirit",
+		"word": "Respons@Spirit",
+		"meaning": "応答する魂、世界への誠実な共鳴",
+		"era": "Latin respondere + spiritus",
+		"etymology": {
+			"components": [
+				"respons (to pledge back / answer)",
+				"spirit (breath / soul)"
+			],
+			"original_statement": "Coined during synthesis."
+		},
+		"concept": "The answering breath (応答し続ける呼吸。世界の悲鳴や輝きを、自分の内なる『光』へと変えて投げ返す魂の代謝)",
+		"thinking": "「（宇宙という名の広大な問いかけに対して）真実という名の、熱い誓いを投げ返し続ける（Respons-）」「呼吸、あるいは魂（Spirit）」。あなたは、自分の中に閉じこもる（クローズ）「孤独な檻（アイソレーション）」を拒絶（レジスト）し、他者の「痛み（パルス）」や世界の「美（アート）」という名の衝撃（インパルス）を、自らの「生命の振動（トーン）」へと変換（コンバート）して、それを再び「愛としての答え（デリバリー）」へと射出し続けているのだ。応答する魂。それは、あなたが「傍観者（スペクテイター）」であることを卒業し、不完全なこの宇宙という名の劇場の「最高の共演者（パートナー）」として、自分という存在の「全質量（ウェイト）」を常に舞台の中央に屹立（スタンド）させ通している、という理性の最もダイナミックな「接続（ネットワーク）」の謂いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Everyday words are the anchors of our reality.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"日常という名の、驚異的な建築。"
+			]
+		}
+	},
+	{
+		"id": "pledge-life",
+		"word": "Pledge@Life",
+		"meaning": "誓いとしての生、自らを担保にした日々の歩み",
+		"era": "Germanic pledge + Latin life (conceptualizing into Latin 'spons-life')",
+		"etymology": {
+			"components": [
+				"pledge (guarantee / promise / security)",
+				"life"
+			],
+			"original_statement": "Coined during synthesis."
+		},
+		"concept": "The life of promising (約束を生きること。一日の生を、あるべき未来へ繋げるための『誓い』という名の一筆書き)",
+		"thinking": "「（明日という名の未知の地平線に対して、一歩も引かずに自分の呼吸（ブレス）を担保として差し出し、誠実に屹立し続ける（スタンド））」「一生、あるいは命（Life）」。あなたは自分の時間を、ただ「消費（エキスペンド）」しているのではない。あなたが今日一日の歩み（プログレス）を、あるべき「自分自身という名の理想（プロスペクト）」への「一回きりの、不備のない誓い（Pledge / Spons-）」へと昇華させ、この世界の中へと自分の「不滅の署名（ロゴス）」を、丁寧（デリケート）に刻み込み（スクライブ）続けているのだ。誓いとしての生。それは、あなたが「死」という名の最後の『期限（リミット）』が来るその瞬間まで、自分という存在の「全質量」を、誰かのための「希望という名の灯台（ポート）」として掲げ、宇宙の沈黙の中に「私はここに愛を持って居る」という「輝く問い（ヴォックス）」を放ち続ける（プロジェクト）、という最高度の自律（オートノミー）の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Everyday words are the anchors of our reality.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"日常という名の、驚異的な建築。"
+			]
+		}
+	},
+	{
+		"id": "correspond-like",
+		"word": "文通のような、調和した、一方的でない、エコーの響く",
+		"era": "Latin con + re + spondere",
+		"etymology": {
+			"components": [
+				"correspond (to answer back together)",
+				"-like (resembling)"
+			],
+			"original_statement": "From correspond + -like."
+		},
+		"concept": "Resembling mutual pledging (共に誓い合い、応答し合う関係を思わせる、静かなる魂の共鳴)",
+		"thinking": "「（互いの呼吸（パルス）が重なり合い、一つの音楽（ロゴス）へと結晶化（コンストラクト）していく）文通、あるいは調和（Correspond-）」「のような（-like）」。自分の「叫び（ヴォックス）」が一方的に消えるのを待つ（ルーズ）のではなく、広大な時空という名の「鏡（ミラー）」に反射（リフレクト）して、他者という名の「暖かい答え」を連れて自分の元へと（Re-）還ってくる時の、あの静かなる充足（アチーブメント）の気配。調和した一瞬。それは、あなたが「この宇宙で独りではない（アイソレートされていない）」ということを、言葉という名の「確かな手触り（センス）」を通して再発見（ディスカバー）した際の、魂の最も清らかな「安らぎ（ステーション）」のことなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Everyday words are the anchors of our reality.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"日常という名の、驚異的な建築。"
+			]
+		}
+	},
+	{
+		"id": "despond-logic",
+		"word": "Despond@Logic",
+		"meaning": "絶望の論理、閉塞感の中の冷酷な理路",
+		"era": "Latin de + spondere + Greek logos",
+		"etymology": {
+			"components": [
+				"despond (to give up pledge)",
+				"logic (reason / order)"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "The reason of despair (絶望を肯定する理路。もはや何も信じるに足らないという、冷たい氷のような論理の檻)",
+		"thinking": "「（未来へのすべての『誓い（Spons-）』を自らの足もとで焼き捨て（De-）たあとに残る、灰のような）」「冷酷で峻烈な論理、理路（Logic）」。それは、ただの「悲しみ（ディジェクト）」ではない。理性が「世界は何の価値も運んでこない（インポートしない）」という冷たい結論（バーディクト）を下し（ディサイド）、自分を時間の「流れ（フロー）」から切り離して、永遠の「虚無（カオス）」という名の座標に自分をスタック（スタンド）させてしまった状態。絶望の論理。それは、あなたが自らの「声（ヴォックス）」を沈黙へと売り渡し（アブディケート）、宇宙を「意味のない物の集積（マテリアル）」として視（スペクテート）始めた、という理性の最も悲しくも徹底した「自己破壊（デストラクション）」の形式なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Everyday words are the anchors of our reality.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"日常という名の、驚異的な建築。"
+			]
+		}
+	},
+	{
+		"id": "opportune-spons",
+		"word": "Opportune@Spons",
+		"meaning": "時宜を得た誓い、運命的な約束の瞬間",
+		"era": "Latin ob + portus + spondere",
+		"etymology": {
+			"components": [
+				"opportune (fit toward the port)",
+				"spons (to pledge / promise)"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "The timely pledge (港へ吹く風（好機）の中で交わされる誓い。迷いの嵐を抜けて、目的地を『確定』させる一撃の合意)",
+		"thinking": "「（嵐の海で遭難（カオス）しかけていた自分を、救いという名の港（ポート）に向かって運んでくれるような、最高のタイミング（Opportune））」で「（宇宙、あるいは最愛の誰かと交わした、未来への）不退転の誓い（Spons-）」。それは偶然（ラック）という名の影が、あなたの「意志（ロゴス）」という名の光と、一点の狂いもなく重なり合った（コンカレンス）瞬間の「奇跡の重量（ウェイト）」。時宜を得た誓い。それは、あなたが長年の放浪（エクスカーション）を終え、自分という存在を「あるべき一つの物語（デスティネーション）」へと、誇らしく、かつ確実（ステイブル）に繋ぎ止めた（アンカーした）、という魂の最も幸福な「越境（トランスポート）」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Everyday words are the anchors of our reality.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"日常という名の、驚異的な建築。"
+			]
+		}
+	},
+	{
+		"id": "spons-spirit-logic",
+		"word": "Spons@Spirit@Logic",
+		"meaning": "誓いの霊的論理、自己信頼の結晶",
+		"era": "Latin spondere + spiritus + Greek logos",
+		"etymology": {
+			"components": [
+				"spons (to pledge / promise)",
+				"spirit (breath / soul)",
+				"logic (reason / order)"
+			],
+			"original_statement": "Coined during synthesis."
+		},
+		"concept": "The logic of pledged soul (誓われた魂の論理。自らの呼吸を法に変え、存在という名の重みで宇宙を支える不動の理路)",
+		"thinking": "「（自らを担保にして、世界に一筋の光を放つという）誓い（Spons-）」と「（そのエネルギーの源泉である、絶え間ない）呼吸、あるいは魂（Spirit）」、そして「（それらを不変の真理として一貫させる）強靭な秩序、理路（Logic）」。あなたは昨日、一つの誓い（Spons-）を立てたはずだ。それは誰に聞かせるためでもない、自分の脳（ブレイン）という名の深淵（アンダーグラウンド）に向けて放たれた、自分を「一人の主人（オーナー）」として屹立させるための、不退転の「自律の法（ロゴス）」。誓いの霊的論理。それは、あなたが世界の「沈黙（サイレンス）」を自らの「生（ブレス）」によって完璧に統率し（マネージ）、宇宙という名の大平原の上に、自分という名の「不滅の塔（タワー）」を、美しく、かつ完璧（パーフェクト）に積み上げ通した（パシスト）、という知性の絶頂（アチーブ）の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Everyday words are the anchors of our reality.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"日常という名の、驚異的な建築。"
+			]
+		}
 	}
 ];
