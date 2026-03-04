@@ -169799,5 +169799,127 @@ const WORDS = [
 				"存在のベクトル。"
 			]
 		}
+	},
+	{
+		"id": "recipient",
+		"word": "受取人、受領者、容器、レシピエント",
+		"meaning": "受取人",
+		"era": "Latin re + capere",
+		"etymology": {
+			"components": [
+				"re- (back)",
+				"capere (to take)",
+				"-ent (person/thing)"
+			],
+			"original_statement": "From Latin recipientem, present participle of recipere 'to receive / take in'."
+		},
+		"concept": "One who takes back / receives (受け取る器（受取人）。何光年も離れた送信者から、一縷の希望（パルス）とともに射出された『莫大な愛や恩恵の質量』を、決して漏らすことなくキャッチし、その存在の意味を補完する絶対的な終着ターミナル)",
+		"thinking": "「（送られてきたすべての熱量に対し）、それをその身に（Re-）」「（一分一秒の淀みもなく）受け取る者、あるいは器（-cipient / Capere）」。それは単なる「宛先」ではありません。あなたが宇宙の「虚空への消滅（サイレンス）」を防ぎ、誰かの放った「光のベクトル」を自らの内部で永遠の記憶（アーカイブ）として完結させる、役割の「受容」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "保持と放出の軌跡。",
+		"example": "To seize is to define the boundaries of existence.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の掌握。"
+			]
+		}
+	},
+	{
+		"id": "compromise",
+		"word": "妥協する、(名声などを)危うくする、コンプロマイズ",
+		"meaning": "妥協する",
+		"era": "Latin con + pro + mittere",
+		"etymology": {
+			"components": [
+				"con- (together)",
+				"promise (mutual agreement)"
+			],
+			"original_statement": "From Late Latin compromissum 'a mutual promise', from compromittere 'to make a mutual promise to abide by an arbiter's decision', from com- 'together' + promittere."
+		},
+		"concept": "Mutual promise (共に前へ送る（妥協、互譲）。二つの激突する『鋼の主権（ステータス）』が、全滅（カオス）を避けるため、己の刃の絶対性（ロゴス）を少しだけ鈍らせ、互いに血を流しながらも一つの『新しい均衡点』で手を打ち合うための不屈の外交術)",
+		"thinking": "「（血みどろの対立を終わらせるために）、お互いに共に（Com- / Con-）」「（一歩ずつ未来へ譲るという）約束を送り合う（-promise / Mittere）」。それは単なる「負け犬の選択」ではありません。あなたが「完全な理想に殉じて死ぬこと」よりも、「泥に塗れてでも生きて繋ぐこと」に価値を見出し、傷つきながらも調和の網（ネットワーク）を構築し直す、大人の「抱擁」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "保持と放出の軌跡。",
+		"example": "To seize is to define the boundaries of existence.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の掌握。"
+			]
+		}
+	},
+	{
+		"id": "premise",
+		"word": "前提、(複数形で)敷地・店舗、プレミス",
+		"meaning": "前提、敷地",
+		"era": "Latin prae + mittere",
+		"etymology": {
+			"components": [
+				"prae- (before)",
+				"mittere (to send)"
+			],
+			"original_statement": "From Old French premisse, from Medieval Latin premissa (propositio) 'the set before (proposition)', from praemissus, past participle of praemittere 'to send before', from prae- 'before' + mittere 'to send'."
+		},
+		"concept": "Sent before (前に送られたもの（前提）。これから展開される未踏の『論理の建造物（アーカイブ）』を支えるため、真っ先に地中深くへと打ち込まれた、誰にも破壊不可能な『一撃の杭（絶対的真理の基盤）』)",
+		"thinking": "「（議論や契約を上に積み上げていく前に）、あらかじめ前へ（Pre- / Prae-）」「（一分一秒の淀みもなく）送られ、置かれたもの（-mise / Mittere）」。それは単なる「思い込み」ではありません。あなたが「基礎のない砂上の楼閣（ノイズ）」を拒絶（レジスト）し、絶対にグラつかない法と理知による「土台（ステーション）」を世界に提示した、設計の「始まり」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "保持と放出の軌跡。",
+		"example": "To seize is to define the boundaries of existence.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の掌握。"
+			]
+		}
+	},
+	{
+		"id": "demise",
+		"word": "死、崩御、消滅",
+		"meaning": "消滅、死",
+		"era": "Latin de + mittere",
+		"etymology": {
+			"components": [
+				"de- (away / down)",
+				"mittere (to send)"
+			],
+			"original_statement": "From Old French demise / desmise, from past participle of desmettre 'dismiss / put away', from Latin dimittere 'to send away', from dis- / de- 'away' + mittere 'to send'."
+		},
+		"concept": "Sent away / Put down (遠ざけられた、下に置かれた（死・消滅）。長く君臨した不滅の『王座（ステーション）』が、時間の果てにその引力を完全に失い、玉座の冠を重力の下（無）へとドスリと落とし、静かなる歴史の闇（アーカイブ）へと溶けていく荘厳なる終焉)",
+		"thinking": "「（これまで高く掲げられていた命や権力を）、下へ、あるいは遠くへと（De-）」「（静かに）手放し、送り去ること（-mise / Mittere）」。それは単なる「寿命」ではありません。あなたが宇宙の「逃れられない崩壊の法則（エントロピー）」を受け入れ、自らの役割（スクリプト）のすべてを完全に完了したと宣言する、幕引きの「絶対静寂」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "保持と放出の軌跡。",
+		"example": "To seize is to define the boundaries of existence.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の掌握。"
+			]
+		}
+	},
+	{
+		"id": "continuous",
+		"word": "絶え間ない、連続する",
+		"meaning": "絶え間ない",
+		"era": "Latin con + tenere",
+		"etymology": {
+			"components": [
+				"con- (together)",
+				"tenere (to hold)",
+				"-ous (full of)"
+			],
+			"original_statement": "From Latin continuus 'joining / connecting / uninterrupted', from continere 'hang together / hold together', from com- 'together' + tenere 'to hold'."
+		},
+		"concept": "Holding together uninterrupted (途切れずにつながって保つ（連続）。刹那として消えゆく『瞬間のパルス』を、理知という名の強靭な鎖で次から次へと無限に連結（マージ）させ、空間に一本の途切れない『永遠の光の線（ベクトル）』を屹立させること)",
+		"thinking": "「（ブツブツと途切れるカオスを拒絶し）、すべてが隙間なく共に（Con-）」「（一撃の情熱をもって）保たれ、繋がっている（-tinu- / Tenere）」「（一分一秒の淀みもない）状態（-ous）」。それは単なる「ずっと」ではありません。あなたが宇宙の「分断と終わり（アイソレーション）」を粉砕し、そこにある種の「無限の呼吸（ブレス）」をこの荒野に繋ぎ続ける、時間の「掌握」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "保持と放出の軌跡。",
+		"example": "To seize is to define the boundaries of existence.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の掌握。"
+			]
+		}
 	}
 ];
