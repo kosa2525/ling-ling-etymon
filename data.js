@@ -163524,7 +163524,7 @@ const WORDS = [
 	},
 	{
 		"id": "special",
-		"word": "特別な、特有の、大事な",
+		"word": "Special",
 		"era": "Latin specere",
 		"etymology": {
 			"components": [
@@ -163543,11 +163543,12 @@ const WORDS = [
 			"points": [
 				"日常に潜む、知性の眼差し。"
 			]
-		}
+		},
+		"meaning": "特別な、特有の、大事な"
 	},
 	{
 		"id": "perspicacious",
-		"word": "洞察力のある、明敏な、眼力の鋭い",
+		"word": "Perspicacious",
 		"era": "Latin per + specere",
 		"etymology": {
 			"components": [
@@ -163566,7 +163567,8 @@ const WORDS = [
 			"points": [
 				"日常に潜む、知性の眼差し。"
 			]
-		}
+		},
+		"meaning": "洞察力のある、明敏な、眼力の鋭い"
 	},
 	{
 		"id": "spec-voice",
@@ -163594,7 +163596,7 @@ const WORDS = [
 	},
 	{
 		"id": "dictator",
-		"word": "独裁者、支配者",
+		"word": "Dictator",
 		"era": "Latin dictare",
 		"etymology": {
 			"components": [
@@ -163613,11 +163615,12 @@ const WORDS = [
 			"points": [
 				"日常に潜む、知性の眼差し。"
 			]
-		}
+		},
+		"meaning": "独裁者、支配者"
 	},
 	{
 		"id": "edict",
-		"word": "勅令、法令、公示",
+		"word": "Edict",
 		"era": "Latin ex + dicere",
 		"etymology": {
 			"components": [
@@ -163636,11 +163639,12 @@ const WORDS = [
 			"points": [
 				"日常に潜む、知性の眼差し。"
 			]
-		}
+		},
+		"meaning": "勅令、法令、公示"
 	},
 	{
 		"id": "indict",
-		"word": "起訴する、告発する",
+		"word": "Indict",
 		"era": "Latin in + dicere",
 		"etymology": {
 			"components": [
@@ -163659,11 +163663,12 @@ const WORDS = [
 			"points": [
 				"日常に潜む、知性の眼差し。"
 			]
-		}
+		},
+		"meaning": "起訴する、告発する"
 	},
 	{
 		"id": "diction",
-		"word": "言葉遣い、用語の選択、発声法",
+		"word": "Diction",
 		"era": "Latin dicere",
 		"etymology": {
 			"components": [
@@ -163682,11 +163687,12 @@ const WORDS = [
 			"points": [
 				"日常に潜む、知性の眼差し。"
 			]
-		}
+		},
+		"meaning": "言葉遣い、用語の選択、発声法"
 	},
 	{
 		"id": "malediction",
-		"word": "呪い、悪口、中傷",
+		"word": "Malediction",
 		"era": "Latin male + dicere",
 		"etymology": {
 			"components": [
@@ -163705,11 +163711,12 @@ const WORDS = [
 			"points": [
 				"日常に潜む、知性の眼差し。"
 			]
-		}
+		},
+		"meaning": "呪い、悪口、中傷"
 	},
 	{
 		"id": "abdicate",
-		"word": "退位する、見捨てる、(権利などを)放棄する",
+		"word": "Abdicate",
 		"era": "Latin ab + dicare",
 		"etymology": {
 			"components": [
@@ -163728,7 +163735,8 @@ const WORDS = [
 			"points": [
 				"日常に潜む、知性の眼差し。"
 			]
-		}
+		},
+		"meaning": "退位する、見捨てる、(権利などを)放棄する"
 	},
 	{
 		"id": "dicta-life",
@@ -163756,7 +163764,7 @@ const WORDS = [
 	},
 	{
 		"id": "portion",
-		"word": "部分、分け前、(1人分の)料理、運命",
+		"word": "Portion",
 		"era": "Latin portare",
 		"etymology": {
 			"components": [
@@ -163775,11 +163783,12 @@ const WORDS = [
 			"points": [
 				"日常に潜む、知性の眼差し。"
 			]
-		}
+		},
+		"meaning": "部分、分け前、(1人分の)料理、運命"
 	},
 	{
 		"id": "portent",
-		"word": "予兆、前兆、驚くべきもの",
+		"word": "Portent",
 		"era": "Latin pro + tendere",
 		"etymology": {
 			"components": [
@@ -163798,11 +163807,12 @@ const WORDS = [
 			"points": [
 				"日常に潜む、知性の眼差し。"
 			]
-		}
+		},
+		"meaning": "予兆、前兆、驚くべきもの"
 	},
 	{
 		"id": "opportune",
-		"word": "適切な、好都合な、時宜を得た",
+		"word": "Opportune",
 		"era": "Latin ob + portus",
 		"etymology": {
 			"components": [
@@ -163821,11 +163831,12 @@ const WORDS = [
 			"points": [
 				"日常に潜む、知性の眼差し。"
 			]
-		}
+		},
+		"meaning": "適切な、好都合な、時宜を得た"
 	},
 	{
 		"id": "purport",
-		"word": "……と称する、意味する、意味(名詞)",
+		"word": "Purport",
 		"era": "Latin pro + portare",
 		"etymology": {
 			"components": [
@@ -163844,11 +163855,12 @@ const WORDS = [
 			"points": [
 				"日常に潜む、知性の眼差し。"
 			]
-		}
+		},
+		"meaning": "……と称する、意味する、意味(名詞)"
 	},
 	{
 		"id": "portugal",
-		"word": "ポルトガル",
+		"word": "Portugal",
 		"era": "Latin portus + Cale",
 		"etymology": {
 			"components": [
@@ -163867,7 +163879,8 @@ const WORDS = [
 			"points": [
 				"日常に潜む、知性の眼差し。"
 			]
-		}
+		},
+		"meaning": "ポルトガル"
 	},
 	{
 		"id": "port-spirit",
@@ -163895,7 +163908,7 @@ const WORDS = [
 	},
 	{
 		"id": "regress",
-		"word": "後退、退歩、逆行、……を逆戻りさせる",
+		"word": "Regress",
 		"era": "Latin re + gradi",
 		"etymology": {
 			"components": [
@@ -163914,11 +163927,12 @@ const WORDS = [
 			"points": [
 				"日常という名の、驚異的な建築。"
 			]
-		}
+		},
+		"meaning": "後退、退歩、逆行、……を逆戻りさせる"
 	},
 	{
 		"id": "aggress",
-		"word": "攻撃する、(紛争を)仕掛ける、一歩踏み出す",
+		"word": "Aggress",
 		"era": "Latin ad + gradi",
 		"etymology": {
 			"components": [
@@ -163937,11 +163951,12 @@ const WORDS = [
 			"points": [
 				"日常という名の、驚異的な建築。"
 			]
-		}
+		},
+		"meaning": "攻撃する、(紛争を)仕掛ける、一歩踏み出す"
 	},
 	{
 		"id": "congress",
-		"word": "議会、大会、(人々の)集まり、合流",
+		"word": "Congress",
 		"era": "Latin con + gradi",
 		"etymology": {
 			"components": [
@@ -163960,11 +163975,12 @@ const WORDS = [
 			"points": [
 				"日常という名の、驚異的な建築。"
 			]
-		}
+		},
+		"meaning": "議会、大会、(人々の)集まり、合流"
 	},
 	{
 		"id": "graduate-like",
-		"word": "卒業生のような、完成された、あるいは終わりを感じさせる",
+		"word": "Graduate-like",
 		"era": "Latin gradus",
 		"etymology": {
 			"components": [
@@ -163983,11 +163999,12 @@ const WORDS = [
 			"points": [
 				"日常という名の、驚異的な建築。"
 			]
-		}
+		},
+		"meaning": "卒業生のような、完成された、あるいは終わりを感じさせる"
 	},
 	{
 		"id": "retrograde",
-		"word": "逆行の、退化する、(天体が)逆行する",
+		"word": "Retrograde",
 		"era": "Latin retro + gradi",
 		"etymology": {
 			"components": [
@@ -164006,11 +164023,12 @@ const WORDS = [
 			"points": [
 				"日常という名の、驚異的な建築。"
 			]
-		}
+		},
+		"meaning": "逆行の、退化する、(天体が)逆行する"
 	},
 	{
 		"id": "transgress",
-		"word": "（限界や規則を）超える、違反する、踏み外す",
+		"word": "Transgress",
 		"era": "Latin trans + gradi",
 		"etymology": {
 			"components": [
@@ -164029,11 +164047,12 @@ const WORDS = [
 			"points": [
 				"日常という名の、驚異的な建築。"
 			]
-		}
+		},
+		"meaning": "（限界や規則を）超える、違反する、踏み外す"
 	},
 	{
 		"id": "gradation",
-		"word": "階層、段階的変化、グラデーション",
+		"word": "Gradation",
 		"era": "Latin gradus",
 		"etymology": {
 			"components": [
@@ -164052,7 +164071,8 @@ const WORDS = [
 			"points": [
 				"日常という名の、驚異的な建築。"
 			]
-		}
+		},
+		"meaning": "階層、段階的変化、グラデーション"
 	},
 	{
 		"id": "gradu-spirit",
@@ -164080,7 +164100,7 @@ const WORDS = [
 	},
 	{
 		"id": "obstruction",
-		"word": "妨害、障害物、(通路などの)閉塞",
+		"word": "Obstruction",
 		"era": "Latin ob + struere",
 		"etymology": {
 			"components": [
@@ -164099,11 +164119,12 @@ const WORDS = [
 			"points": [
 				"日常という名の、驚異的な建築。"
 			]
-		}
+		},
+		"meaning": "妨害、障害物、(通路などの)閉塞"
 	},
 	{
 		"id": "substructure",
-		"word": "下部構造、基礎、(社会的な)基盤",
+		"word": "Substructure",
 		"era": "Latin sub + struere",
 		"etymology": {
 			"components": [
@@ -164122,11 +164143,12 @@ const WORDS = [
 			"points": [
 				"日常という名の、驚異的な建築。"
 			]
-		}
+		},
+		"meaning": "下部構造、基礎、(社会的な)基盤"
 	},
 	{
 		"id": "destroy",
-		"word": "破壊する、台無しにする、殲滅する",
+		"word": "Destroy",
 		"era": "Latin de + struere",
 		"etymology": {
 			"components": [
@@ -164145,11 +164167,12 @@ const WORDS = [
 			"points": [
 				"日常という名の、驚異的な建築。"
 			]
-		}
+		},
+		"meaning": "破壊する、台無しにする、殲滅する"
 	},
 	{
 		"id": "superstructure",
-		"word": "上部構造、(建物などの)上層部、(社会の)精神的文化",
+		"word": "Superstructure",
 		"era": "Latin super + struere",
 		"etymology": {
 			"components": [
@@ -164168,11 +164191,12 @@ const WORDS = [
 			"points": [
 				"日常という名の、驚異的な建築。"
 			]
-		}
+		},
+		"meaning": "上部構造、(建物などの)上層部、(社会の)精神的文化"
 	},
 	{
 		"id": "structural",
-		"word": "構造の、構造上の、組織的な",
+		"word": "Structural",
 		"era": "Latin struere",
 		"etymology": {
 			"components": [
@@ -164191,11 +164215,12 @@ const WORDS = [
 			"points": [
 				"日常という名の、驚異的な建築。"
 			]
-		}
+		},
+		"meaning": "構造の、構造上の、組織的な"
 	},
 	{
 		"id": "instructor-like",
-		"word": "教師のような、指導者らしい、権威ある、説教臭い",
+		"word": "Instructor-like",
 		"era": "Latin in + struere",
 		"etymology": {
 			"components": [
@@ -164214,7 +164239,8 @@ const WORDS = [
 			"points": [
 				"日常という名の、驚異的な建築。"
 			]
-		}
+		},
+		"meaning": "教師のような、指導者らしい、権威ある、説教臭い"
 	},
 	{
 		"id": "stru-life",
@@ -164242,7 +164268,7 @@ const WORDS = [
 	},
 	{
 		"id": "deflect",
-		"word": "そらす、偏らせる、(批判などを)かわす",
+		"word": "Deflect",
 		"era": "Latin de + flectere",
 		"etymology": {
 			"components": [
@@ -164261,11 +164287,12 @@ const WORDS = [
 			"points": [
 				"日常という名の、驚異的な建築。"
 			]
-		}
+		},
+		"meaning": "そらす、偏らせる、(批判などを)かわす"
 	},
 	{
 		"id": "reflex",
-		"word": "反射(作用)、反射的な、(カメラ)一眼レフ",
+		"word": "Reflex",
 		"era": "Latin re + flectere",
 		"etymology": {
 			"components": [
@@ -164284,11 +164311,12 @@ const WORDS = [
 			"points": [
 				"日常という名の、驚異的な建築。"
 			]
-		}
+		},
+		"meaning": "反射(作用)、反射的な、(カメラ)一眼レフ"
 	},
 	{
 		"id": "genuflect",
-		"word": "ひざまずく、(片ひざをついて)敬意を表する",
+		"word": "Genuflect",
 		"era": "Latin genu + flectere",
 		"etymology": {
 			"components": [
@@ -164307,7 +164335,8 @@ const WORDS = [
 			"points": [
 				"日常という名の、驚異的な建築。"
 			]
-		}
+		},
+		"meaning": "ひざまずく、(片ひざをついて)敬意を表する"
 	},
 	{
 		"id": "flect-voice",
@@ -164335,7 +164364,7 @@ const WORDS = [
 	},
 	{
 		"id": "flex-time",
-		"word": "フレックスタイム、(時間の)柔軟な曲げ、主権ある時間",
+		"word": "Flex-time",
 		"era": "Latin flectere + Germanic time",
 		"etymology": {
 			"components": [
@@ -164354,11 +164383,12 @@ const WORDS = [
 			"points": [
 				"日常という名の、驚異的な建築。"
 			]
-		}
+		},
+		"meaning": "フレックスタイム、(時間の)柔軟な曲げ、主権ある時間"
 	},
 	{
 		"id": "reflection-less",
-		"word": "反射のない、省察のない、直感のみの、深みのない",
+		"word": "Reflection-less",
 		"era": "Latin re + flectere",
 		"etymology": {
 			"components": [
@@ -164377,11 +164407,12 @@ const WORDS = [
 			"points": [
 				"日常という名の、驚異的な建築。"
 			]
-		}
+		},
+		"meaning": "反射のない、省察のない、直感のみの、深みのない"
 	},
 	{
 		"id": "inflexible",
-		"word": "曲がらない、頑固な、(法律などが)厳格な",
+		"word": "Inflexible",
 		"era": "Latin in + flectere",
 		"etymology": {
 			"components": [
@@ -164400,11 +164431,12 @@ const WORDS = [
 			"points": [
 				"日常という名の、驚異的な建築。"
 			]
-		}
+		},
+		"meaning": "曲がらない、頑固な、(法律などが)厳格な"
 	},
 	{
 		"id": "circumflex",
-		"word": "曲折アクセント、(語)曲折した、包囲する曲がり",
+		"word": "Circumflex",
 		"era": "Latin circum + flectere",
 		"etymology": {
 			"components": [
@@ -164423,11 +164455,12 @@ const WORDS = [
 			"points": [
 				"日常という名の、驚異的な建築。"
 			]
-		}
+		},
+		"meaning": "曲折アクセント、(語)曲折した、包囲する曲がり"
 	},
 	{
 		"id": "deflexion",
-		"word": "偏り、(針などの)振れ、(光の)回折",
+		"word": "Deflexion",
 		"era": "Latin de + flectere",
 		"etymology": {
 			"components": [
@@ -164446,7 +164479,8 @@ const WORDS = [
 			"points": [
 				"日常という名の、驚異的な建築。"
 			]
-		}
+		},
+		"meaning": "偏り、(針などの)振れ、(光の)回折"
 	},
 	{
 		"id": "reflect-eye",
@@ -164522,7 +164556,7 @@ const WORDS = [
 	},
 	{
 		"id": "subtraction",
-		"word": "引き算、控除、減少",
+		"word": "Subtraction",
 		"era": "Latin sub + trahere",
 		"etymology": {
 			"components": [
@@ -164541,7 +164575,8 @@ const WORDS = [
 			"points": [
 				"日常に潜む、凄まじい引力。"
 			]
-		}
+		},
+		"meaning": "引き算、控除、減少"
 	},
 	{
 		"id": "attract-voice",
@@ -164593,7 +164628,7 @@ const WORDS = [
 	},
 	{
 		"id": "vehicle",
-		"word": "車両、乗り物、手段、(薬の)賦形剤",
+		"word": "Vehicle",
 		"era": "Latin vehere",
 		"etymology": {
 			"components": [
@@ -164612,11 +164647,12 @@ const WORDS = [
 			"points": [
 				"日常に潜む、凄まじい引力。"
 			]
-		}
+		},
+		"meaning": "車両、乗り物、手段、(薬の)賦形剤"
 	},
 	{
 		"id": "conveyance",
-		"word": "輸送(機)、運搬、譲渡証書(法律)",
+		"word": "Conveyance",
 		"era": "Latin con + vehere",
 		"etymology": {
 			"components": [
@@ -164635,11 +164671,12 @@ const WORDS = [
 			"points": [
 				"日常に潜む、凄まじい引力。"
 			]
-		}
+		},
+		"meaning": "輸送(機)、運搬、譲渡証書(法律)"
 	},
 	{
 		"id": "vehicular",
-		"word": "車両の、(病気が)乗り物媒介の、(文)硬い文体の",
+		"word": "Vehicular",
 		"era": "Latin vehere",
 		"etymology": {
 			"components": [
@@ -164658,11 +164695,12 @@ const WORDS = [
 			"points": [
 				"日常に潜む、凄まじい引力。"
 			]
-		}
+		},
+		"meaning": "車両の、(病気が)乗り物媒介の、(文)硬い文体の"
 	},
 	{
 		"id": "inveigh",
-		"word": "猛烈に抗議する、痛烈に非難する",
+		"word": "Inveigh",
 		"era": "Latin in + vehere",
 		"etymology": {
 			"components": [
@@ -164681,11 +164719,12 @@ const WORDS = [
 			"points": [
 				"日常に潜む、凄まじい引力。"
 			]
-		}
+		},
+		"meaning": "猛烈に抗議する、痛烈に非難する"
 	},
 	{
 		"id": "vexation",
-		"word": "不手際、苛立ちの種、悩み、(法律)嫌がらせの訴訟",
+		"word": "Vexation",
 		"era": "Latin vehere",
 		"etymology": {
 			"components": [
@@ -164704,11 +164743,12 @@ const WORDS = [
 			"points": [
 				"日常に潜む、凄まじい引力。"
 			]
-		}
+		},
+		"meaning": "不手際、苛立ちの種、悩み、(法律)嫌がらせの訴訟"
 	},
 	{
 		"id": "convex",
-		"word": "凸面の、膨らんだ、(数学)凸の",
+		"word": "Convex",
 		"era": "Latin con + vehere",
 		"etymology": {
 			"components": [
@@ -164727,11 +164767,12 @@ const WORDS = [
 			"points": [
 				"日常に潜む、凄まじい引力。"
 			]
-		}
+		},
+		"meaning": "凸面の、膨らんだ、(数学)凸の"
 	},
 	{
 		"id": "concave",
-		"word": "凹面の、窪んだ、(数学)凹の",
+		"word": "Concave",
 		"era": "Latin con + cavus",
 		"etymology": {
 			"components": [
@@ -164750,7 +164791,8 @@ const WORDS = [
 			"points": [
 				"日常に潜む、凄まじい引力。"
 			]
-		}
+		},
+		"meaning": "凹面の、窪んだ、(数学)凹の"
 	},
 	{
 		"id": "convey-logic",
@@ -164826,7 +164868,7 @@ const WORDS = [
 	},
 	{
 		"id": "deject",
-		"word": "落胆させる、(気分が)沈んだ",
+		"word": "Deject",
 		"era": "Latin de + jacere",
 		"etymology": {
 			"components": [
@@ -164845,11 +164887,12 @@ const WORDS = [
 			"points": [
 				"日常に潜む、凄まじい引力。"
 			]
-		}
+		},
+		"meaning": "落胆させる、(気分が)沈んだ"
 	},
 	{
 		"id": "abject",
-		"word": "絶望的な、悲惨な、卑屈な、(地位などが)どん底の",
+		"word": "Abject",
 		"era": "Latin ab + jacere",
 		"etymology": {
 			"components": [
@@ -164868,11 +164911,12 @@ const WORDS = [
 			"points": [
 				"日常に潜む、凄まじい引力。"
 			]
-		}
+		},
+		"meaning": "絶望的な、悲惨な、卑屈な、(地位などが)どん底の"
 	},
 	{
 		"id": "interject",
-		"word": "不意に差し挟む、(言葉を)投げ込む、不意に言う",
+		"word": "Interject",
 		"era": "Latin inter + jacere",
 		"etymology": {
 			"components": [
@@ -164891,7 +164935,8 @@ const WORDS = [
 			"points": [
 				"日常に潜む、凄まじい引力。"
 			]
-		}
+		},
+		"meaning": "不意に差し挟む、(言葉を)投げ込む、不意に言う"
 	},
 	{
 		"id": "ject-voice",
@@ -164943,7 +164988,7 @@ const WORDS = [
 	},
 	{
 		"id": "subdue",
-		"word": "抑える、征服する、(音などを)和らげる",
+		"word": "Subdue",
 		"era": "Latin sub + ducere",
 		"etymology": {
 			"components": [
@@ -164962,11 +165007,12 @@ const WORDS = [
 			"points": [
 				"日常という名の、驚異的な建築。"
 			]
-		}
+		},
+		"meaning": "抑える、征服する、(音などを)和らげる"
 	},
 	{
 		"id": "adduce",
-		"word": "（証拠などを）挙げる、提示する",
+		"word": "Adduce",
 		"era": "Latin ad + ducere",
 		"etymology": {
 			"components": [
@@ -164985,11 +165031,12 @@ const WORDS = [
 			"points": [
 				"日常という名の、驚異的な建築。"
 			]
-		}
+		},
+		"meaning": "（証拠などを）挙げる、提示する"
 	},
 	{
 		"id": "duct",
-		"word": "管、導管、ダクト、(解剖)腺、(……を)管で送る",
+		"word": "Duct",
 		"era": "Latin ducere",
 		"etymology": {
 			"components": [
@@ -165007,11 +165054,12 @@ const WORDS = [
 			"points": [
 				"日常という名の、驚異的な建築。"
 			]
-		}
+		},
+		"meaning": "管、導管、ダクト、(解剖)腺、(……を)管で送る"
 	},
 	{
 		"id": "duke",
-		"word": "公爵、(一般に)君主、リーダー",
+		"word": "Duke",
 		"era": "Latin ducere",
 		"etymology": {
 			"components": [
@@ -165029,11 +165077,12 @@ const WORDS = [
 			"points": [
 				"日常という名の、驚異的な建築。"
 			]
-		}
+		},
+		"meaning": "公爵、(一般に)君主、リーダー"
 	},
 	{
 		"id": "conducive",
-		"word": "（……を）助長する、貢献する、良い結果を導く",
+		"word": "Conducive",
 		"era": "Latin con + ducere",
 		"etymology": {
 			"components": [
@@ -165053,11 +165102,12 @@ const WORDS = [
 			"points": [
 				"日常という名の、驚異的な建築。"
 			]
-		}
+		},
+		"meaning": "（……を）助長する、貢献する、良い結果を導く"
 	},
 	{
 		"id": "ductile",
-		"word": "延性のある、引き延ばせる、(精神的に)教えやすい",
+		"word": "Ductile",
 		"era": "Latin ducere",
 		"etymology": {
 			"components": [
@@ -165076,7 +165126,8 @@ const WORDS = [
 			"points": [
 				"日常という名の、驚異的な建築。"
 			]
-		}
+		},
+		"meaning": "延性のある、引き延ばせる、(精神的に)教えやすい"
 	},
 	{
 		"id": "duc-voice",
@@ -165104,7 +165155,7 @@ const WORDS = [
 	},
 	{
 		"id": "reprehend",
-		"word": "非難する、たしなめる、叱る",
+		"word": "Reprehend",
 		"era": "Latin re + prehendere",
 		"etymology": {
 			"components": [
@@ -165123,11 +165174,12 @@ const WORDS = [
 			"points": [
 				"日常という名の、驚異的な建築。"
 			]
-		}
+		},
+		"meaning": "非難する、たしなめる、叱る"
 	},
 	{
 		"id": "enterprise",
-		"word": "事業、企業、冒険心、企て",
+		"word": "Enterprise",
 		"era": "Latin inter + prehendere",
 		"etymology": {
 			"components": [
@@ -165146,11 +165198,12 @@ const WORDS = [
 			"points": [
 				"日常という名の、驚異的な建築。"
 			]
-		}
+		},
+		"meaning": "事業、企業、冒険心、企て"
 	},
 	{
 		"id": "comprise",
-		"word": "……から成る、構成される、包含する",
+		"word": "Comprise",
 		"era": "Latin con + prehendere",
 		"etymology": {
 			"components": [
@@ -165169,11 +165222,12 @@ const WORDS = [
 			"points": [
 				"日常という名の、驚異的な建築。"
 			]
-		}
+		},
+		"meaning": "……から成る、構成される、包含する"
 	},
 	{
 		"id": "surprise",
-		"word": "驚かせる、予期せぬ出来事、不意打ち",
+		"word": "Surprise",
 		"era": "Latin super + prehendere",
 		"etymology": {
 			"components": [
@@ -165192,11 +165246,12 @@ const WORDS = [
 			"points": [
 				"日常という名の、驚異的な建築。"
 			]
-		}
+		},
+		"meaning": "驚かせる、予期せぬ出来事、不意打ち"
 	},
 	{
 		"id": "prison",
-		"word": "刑務所、拘束状態、監獄",
+		"word": "Prison",
 		"era": "Latin prehendere",
 		"etymology": {
 			"components": [
@@ -165214,11 +165269,12 @@ const WORDS = [
 			"points": [
 				"日常という名の、驚異的な建築。"
 			]
-		}
+		},
+		"meaning": "刑務所、拘束状態、監獄"
 	},
 	{
 		"id": "prize",
-		"word": "賞、賞品、重要視する、(無理やり)こじ開ける",
+		"word": "Prize",
 		"era": "Latin prehendere",
 		"etymology": {
 			"components": [
@@ -165236,11 +165292,12 @@ const WORDS = [
 			"points": [
 				"日常という名の、驚異的な建築。"
 			]
-		}
+		},
+		"meaning": "賞、賞品、重要視する、(無理やり)こじ開ける"
 	},
 	{
 		"id": "reprisal",
-		"word": "報復、報復行為、(奪われたものの)取り返し",
+		"word": "Reprisal",
 		"era": "Latin re + prehendere",
 		"etymology": {
 			"components": [
@@ -165259,11 +165316,12 @@ const WORDS = [
 			"points": [
 				"日常という名の、驚異的な建築。"
 			]
-		}
+		},
+		"meaning": "報復、報復行為、(奪われたものの)取り返し"
 	},
 	{
 		"id": "impregnable",
-		"word": "難攻不落の、(信念などが)揺るぎない",
+		"word": "Impregnable",
 		"era": "Latin in + prehendere",
 		"etymology": {
 			"components": [
@@ -165283,11 +165341,12 @@ const WORDS = [
 			"points": [
 				"日常という名の、驚異的な建築。"
 			]
-		}
+		},
+		"meaning": "難攻不落の、(信念などが)揺るぎない"
 	},
 	{
 		"id": "prehensile",
-		"word": "(動物の尾などが)物を掴める、把握力のある",
+		"word": "Prehensile",
 		"era": "Latin prehendere",
 		"etymology": {
 			"components": [
@@ -165306,7 +165365,8 @@ const WORDS = [
 			"points": [
 				"日常という名の、驚異的な建築。"
 			]
-		}
+		},
+		"meaning": "(動物の尾などが)物を掴める、把握力のある"
 	},
 	{
 		"id": "prehend-eye",
@@ -165382,7 +165442,7 @@ const WORDS = [
 	},
 	{
 		"id": "sponsor",
-		"word": "スポンサー、保証人、後援者、……の後援をする",
+		"word": "Sponsor",
 		"era": "Latin spondere",
 		"etymology": {
 			"components": [
@@ -165401,11 +165461,12 @@ const WORDS = [
 			"points": [
 				"日常という名の、驚異的な建築。"
 			]
-		}
+		},
+		"meaning": "スポンサー、保証人、後援者、……の後援をする"
 	},
 	{
 		"id": "spouse",
-		"word": "配偶者、夫、妻",
+		"word": "Spouse",
 		"era": "Latin spondere",
 		"etymology": {
 			"components": [
@@ -165423,11 +165484,12 @@ const WORDS = [
 			"points": [
 				"日常という名の、驚異的な建築。"
 			]
-		}
+		},
+		"meaning": "配偶者、夫、妻"
 	},
 	{
 		"id": "response",
-		"word": "返答、反応、アンサー、(教会の)唱和",
+		"word": "Response",
 		"era": "Latin re + spondere",
 		"etymology": {
 			"components": [
@@ -165446,11 +165508,12 @@ const WORDS = [
 			"points": [
 				"日常という名の、驚異的な建築。"
 			]
-		}
+		},
+		"meaning": "返答、反応、アンサー、(教会の)唱和"
 	},
 	{
 		"id": "responsible",
-		"word": "責任がある、信頼できる、(……の)原因である",
+		"word": "Responsible",
 		"era": "Latin re + spondere",
 		"etymology": {
 			"components": [
@@ -165469,7 +165532,8 @@ const WORDS = [
 			"points": [
 				"日常という名の、驚異的な建築。"
 			]
-		}
+		},
+		"meaning": "責任がある、信頼できる、(……の)原因である"
 	},
 	{
 		"id": "spons-voice",
@@ -165545,7 +165609,7 @@ const WORDS = [
 	},
 	{
 		"id": "correspond-like",
-		"word": "文通のような、調和した、一方的でない、エコーの響く",
+		"word": "Correspond-like",
 		"era": "Latin con + re + spondere",
 		"etymology": {
 			"components": [
@@ -165564,7 +165628,8 @@ const WORDS = [
 			"points": [
 				"日常という名の、驚異的な建築。"
 			]
-		}
+		},
+		"meaning": "文通のような、調和した、一方的でない、エコーの響く"
 	},
 	{
 		"id": "despond-logic",
@@ -165641,7 +165706,7 @@ const WORDS = [
 	},
 	{
 		"id": "differ",
-		"word": "異なる、意見が合わない",
+		"word": "Differ",
 		"era": "Latin dis + ferre",
 		"etymology": {
 			"components": [
@@ -165660,11 +165725,12 @@ const WORDS = [
 			"points": [
 				"日常という奇跡。"
 			]
-		}
+		},
+		"meaning": "異なる、意見が合わない"
 	},
 	{
 		"id": "infer",
-		"word": "推論する、暗示する",
+		"word": "Infer",
 		"era": "Latin in + ferre",
 		"etymology": {
 			"components": [
@@ -165683,11 +165749,12 @@ const WORDS = [
 			"points": [
 				"日常という奇跡。"
 			]
-		}
+		},
+		"meaning": "推論する、暗示する"
 	},
 	{
 		"id": "ferry",
-		"word": "フェリー、連絡船、渡船",
+		"word": "Ferry",
 		"era": "Old English from Latin ferre",
 		"etymology": {
 			"components": [
@@ -165705,11 +165772,12 @@ const WORDS = [
 			"points": [
 				"日常という奇跡。"
 			]
-		}
+		},
+		"meaning": "フェリー、連絡船、渡船"
 	},
 	{
 		"id": "fertile",
-		"word": "肥沃な、多産の、(想像力が)豊かな",
+		"word": "Fertile",
 		"era": "Latin ferre",
 		"etymology": {
 			"components": [
@@ -165728,11 +165796,12 @@ const WORDS = [
 			"points": [
 				"日常という奇跡。"
 			]
-		}
+		},
+		"meaning": "肥沃な、多産の、(想像力が)豊かな"
 	},
 	{
 		"id": "circumference",
-		"word": "円周、周囲、(場所の)境界",
+		"word": "Circumference",
 		"era": "Latin circum + ferre",
 		"etymology": {
 			"components": [
@@ -165751,7 +165820,8 @@ const WORDS = [
 			"points": [
 				"日常という奇跡。"
 			]
-		}
+		},
+		"meaning": "円周、周囲、(場所の)境界"
 	},
 	{
 		"id": "fer-voice",
@@ -165803,7 +165873,7 @@ const WORDS = [
 	},
 	{
 		"id": "terrible",
-		"word": "ひどい、恐ろしい、深刻な",
+		"word": "Terrible",
 		"era": "Latin terrere",
 		"etymology": {
 			"components": [
@@ -165822,11 +165892,12 @@ const WORDS = [
 			"points": [
 				"日常という奇跡。"
 			]
-		}
+		},
+		"meaning": "ひどい、恐ろしい、深刻な"
 	},
 	{
 		"id": "terrific",
-		"word": "素晴らしい、ものすごい、恐ろしい",
+		"word": "Terrific",
 		"era": "Latin terrere",
 		"etymology": {
 			"components": [
@@ -165845,11 +165916,12 @@ const WORDS = [
 			"points": [
 				"日常という奇跡。"
 			]
-		}
+		},
+		"meaning": "素晴らしい、ものすごい、恐ろしい"
 	},
 	{
 		"id": "terror",
-		"word": "恐怖、テロ、おそろしいもの",
+		"word": "Terror",
 		"era": "Latin terrere",
 		"etymology": {
 			"components": [
@@ -165867,11 +165939,12 @@ const WORDS = [
 			"points": [
 				"日常という奇跡。"
 			]
-		}
+		},
+		"meaning": "恐怖、テロ、おそろしいもの"
 	},
 	{
 		"id": "deterrence",
-		"word": "抑止、阻止",
+		"word": "Deterrence",
 		"era": "Latin de + terrere",
 		"etymology": {
 			"components": [
@@ -165890,11 +165963,12 @@ const WORDS = [
 			"points": [
 				"日常という奇跡。"
 			]
-		}
+		},
+		"meaning": "抑止、阻止"
 	},
 	{
 		"id": "terrify",
-		"word": "恐がらせる、ひどく怖がる",
+		"word": "Terrify",
 		"era": "Latin terrere",
 		"etymology": {
 			"components": [
@@ -165913,11 +165987,12 @@ const WORDS = [
 			"points": [
 				"日常という奇跡。"
 			]
-		}
+		},
+		"meaning": "恐がらせる、ひどく怖がる"
 	},
 	{
 		"id": "terrorize",
-		"word": "テロを働く、(……を)恐怖に陥れる",
+		"word": "Terrorize",
 		"era": "Latin terrere",
 		"etymology": {
 			"components": [
@@ -165936,7 +166011,8 @@ const WORDS = [
 			"points": [
 				"日常という奇跡。"
 			]
-		}
+		},
+		"meaning": "テロを働く、(……を)恐怖に陥れる"
 	},
 	{
 		"id": "terr-voice",
@@ -166012,7 +166088,7 @@ const WORDS = [
 	},
 	{
 		"id": "region",
-		"word": "地域、地帯、分野",
+		"word": "Region",
 		"era": "Latin regere",
 		"etymology": {
 			"components": [
@@ -166030,11 +166106,12 @@ const WORDS = [
 			"points": [
 				"日常という奇跡。"
 			]
-		}
+		},
+		"meaning": "地域、地帯、分野"
 	},
 	{
 		"id": "rector",
-		"word": "校長、(教会の)教区主管者、統治者",
+		"word": "Rector",
 		"era": "Latin regere",
 		"etymology": {
 			"components": [
@@ -166053,11 +166130,12 @@ const WORDS = [
 			"points": [
 				"日常という奇跡。"
 			]
-		}
+		},
+		"meaning": "校長、(教会の)教区主管者、統治者"
 	},
 	{
 		"id": "regiment",
-		"word": "連隊、(……を)厳しく統治する",
+		"word": "Regiment",
 		"era": "Latin regere",
 		"etymology": {
 			"components": [
@@ -166076,11 +166154,12 @@ const WORDS = [
 			"points": [
 				"日常という奇跡。"
 			]
-		}
+		},
+		"meaning": "連隊、(……を)厳しく統治する"
 	},
 	{
 		"id": "rectify",
-		"word": "改正する、直す",
+		"word": "Rectify",
 		"era": "Latin regere",
 		"etymology": {
 			"components": [
@@ -166099,11 +166178,12 @@ const WORDS = [
 			"points": [
 				"日常という奇跡。"
 			]
-		}
+		},
+		"meaning": "改正する、直す"
 	},
 	{
 		"id": "regal",
-		"word": "王の、堂々とした、贅沢な",
+		"word": "Regal",
 		"era": "Latin regere",
 		"etymology": {
 			"components": [
@@ -166122,11 +166202,12 @@ const WORDS = [
 			"points": [
 				"日常という奇跡。"
 			]
-		}
+		},
+		"meaning": "王の、堂々とした、贅沢な"
 	},
 	{
 		"id": "reign",
-		"word": "君臨(する)、治世、支配",
+		"word": "Reign",
 		"era": "Latin regere",
 		"etymology": {
 			"components": [
@@ -166144,7 +166225,8 @@ const WORDS = [
 			"points": [
 				"日常という奇跡。"
 			]
-		}
+		},
+		"meaning": "君臨(する)、治世、支配"
 	},
 	{
 		"id": "rect-voice",
@@ -166196,7 +166278,7 @@ const WORDS = [
 	},
 	{
 		"id": "acclaim",
-		"word": "喝采(する)、称賛、(……を)……と宣言する",
+		"word": "Acclaim",
 		"era": "Latin ad + clamare",
 		"etymology": {
 			"components": [
@@ -166215,11 +166297,12 @@ const WORDS = [
 			"points": [
 				"日常に潜むロゴス。"
 			]
-		}
+		},
+		"meaning": "喝采(する)、称賛、(……を)……と宣言する"
 	},
 	{
 		"id": "clamor",
-		"word": "叫び声、喧騒、(……を求めて)騒ぎ立てる",
+		"word": "Clamor",
 		"era": "Latin clamare",
 		"etymology": {
 			"components": [
@@ -166237,11 +166320,12 @@ const WORDS = [
 			"points": [
 				"日常に潜むロゴス。"
 			]
-		}
+		},
+		"meaning": "叫び声、喧騒、(……を求めて)騒ぎ立てる"
 	},
 	{
 		"id": "declaim",
-		"word": "弁ずる、朗読する、激しく非難する",
+		"word": "Declaim",
 		"era": "Latin de + clamare",
 		"etymology": {
 			"components": [
@@ -166260,11 +166344,12 @@ const WORDS = [
 			"points": [
 				"日常に潜むロゴス。"
 			]
-		}
+		},
+		"meaning": "弁ずる、朗読する、激しく非難する"
 	},
 	{
 		"id": "disclaim",
-		"word": "否認する、放棄する、権利を認めない",
+		"word": "Disclaim",
 		"era": "Latin dis + clamare",
 		"etymology": {
 			"components": [
@@ -166283,7 +166368,8 @@ const WORDS = [
 			"points": [
 				"日常に潜むロゴス。"
 			]
-		}
+		},
+		"meaning": "否認する、放棄する、権利を認めない"
 	},
 	{
 		"id": "clam-voice",
@@ -166383,7 +166469,7 @@ const WORDS = [
 	},
 	{
 		"id": "contagious",
-		"word": "伝染性の、移りやすい、(感情などが)広がりやすい",
+		"word": "Contagious",
 		"era": "Latin con + tangere",
 		"etymology": {
 			"components": [
@@ -166403,11 +166489,12 @@ const WORDS = [
 			"points": [
 				"日常に潜むロゴス。"
 			]
-		}
+		},
+		"meaning": "伝染性の、移りやすい、(感情などが)広がりやすい"
 	},
 	{
 		"id": "tactual",
-		"word": "触覚の、触れることによる",
+		"word": "Tactual",
 		"era": "Latin tangere",
 		"etymology": {
 			"components": [
@@ -166426,7 +166513,8 @@ const WORDS = [
 			"points": [
 				"日常に潜むロゴス。"
 			]
-		}
+		},
+		"meaning": "触覚の、触れることによる"
 	},
 	{
 		"id": "tact-voice",
@@ -166478,7 +166566,7 @@ const WORDS = [
 	},
 	{
 		"id": "equivalence",
-		"word": "等価値、同等、等価",
+		"word": "Equivalence",
 		"era": "Latin aequus + valere (wait, let's use vocal words)",
 		"etymology": {
 			"components": [
@@ -166496,11 +166584,12 @@ const WORDS = [
 			"points": [
 				"存在の深層。"
 			]
-		}
+		},
+		"meaning": "等価値、同等、等価"
 	},
 	{
 		"id": "equivocate",
-		"word": "曖昧なことを言う、言葉を濁す",
+		"word": "Equivocate",
 		"era": "Latin aequus + vocare",
 		"etymology": {
 			"components": [
@@ -166519,11 +166608,12 @@ const WORDS = [
 			"points": [
 				"存在の深層。"
 			]
-		}
+		},
+		"meaning": "曖昧なことを言う、言葉を濁す"
 	},
 	{
 		"id": "invocate",
-		"word": "祈り求める、(法などを)発動する",
+		"word": "Invocate",
 		"era": "Latin in + vocare",
 		"etymology": {
 			"components": [
@@ -166542,7 +166632,8 @@ const WORDS = [
 			"points": [
 				"存在の深層。"
 			]
-		}
+		},
+		"meaning": "祈り求める、(法などを)発動する"
 	},
 	{
 		"id": "voc-logic",
@@ -166594,7 +166685,7 @@ const WORDS = [
 	},
 	{
 		"id": "cure",
-		"word": "治療(する)、治癒、矯正、(……を)保存処理する",
+		"word": "Cure",
 		"era": "Latin curare",
 		"etymology": {
 			"components": [
@@ -166612,11 +166703,12 @@ const WORDS = [
 			"points": [
 				"存在の深層。"
 			]
-		}
+		},
+		"meaning": "治療(する)、治癒、矯正、(……を)保存処理する"
 	},
 	{
 		"id": "curator",
-		"word": "学芸員、キュレーター、管理者",
+		"word": "Curator",
 		"era": "Latin curare",
 		"etymology": {
 			"components": [
@@ -166635,7 +166727,8 @@ const WORDS = [
 			"points": [
 				"存在の深層。"
 			]
-		}
+		},
+		"meaning": "学芸員、キュレーター、管理者"
 	},
 	{
 		"id": "scurity",
@@ -166711,7 +166804,7 @@ const WORDS = [
 	},
 	{
 		"id": "volume",
-		"word": "音量、容量、巻、一冊、ボリューム",
+		"word": "Volume",
 		"era": "Latin volvere",
 		"etymology": {
 			"components": [
@@ -166729,11 +166822,12 @@ const WORDS = [
 			"points": [
 				"存在の深層。"
 			]
-		}
+		},
+		"meaning": "音量、容量、巻、一冊、ボリューム"
 	},
 	{
 		"id": "involved",
-		"word": "関わっている、複雑な、深入りした",
+		"word": "Involved",
 		"era": "Latin in + volvere",
 		"etymology": {
 			"components": [
@@ -166752,11 +166846,12 @@ const WORDS = [
 			"points": [
 				"存在の深層。"
 			]
-		}
+		},
+		"meaning": "関わっている、複雑な、深入りした"
 	},
 	{
 		"id": "voluble",
-		"word": "饒舌な、回転しやすい、流暢な",
+		"word": "Voluble",
 		"era": "Latin volvere",
 		"etymology": {
 			"components": [
@@ -166775,11 +166870,12 @@ const WORDS = [
 			"points": [
 				"存在の深層。"
 			]
-		}
+		},
+		"meaning": "饒舌な、回転しやすい、流暢な"
 	},
 	{
 		"id": "convolve",
-		"word": "巻き込む、畳み込む、渦を巻く",
+		"word": "Convolve",
 		"era": "Latin con + volvere",
 		"etymology": {
 			"components": [
@@ -166798,7 +166894,8 @@ const WORDS = [
 			"points": [
 				"存在の深層。"
 			]
-		}
+		},
+		"meaning": "巻き込む、畳み込む、渦を巻く"
 	},
 	{
 		"id": "vol-voice",
@@ -166898,7 +166995,7 @@ const WORDS = [
 	},
 	{
 		"id": "series",
-		"word": "連続、シリーズ、列、(数学の)級数",
+		"word": "Series",
 		"era": "Latin serere",
 		"etymology": {
 			"components": [
@@ -166916,11 +167013,12 @@ const WORDS = [
 			"points": [
 				"存在の質感。"
 			]
-		}
+		},
+		"meaning": "連続、シリーズ、列、(数学の)級数"
 	},
 	{
 		"id": "desert",
-		"word": "砂漠、(……を)見捨てる、(職務を)離れる",
+		"word": "Desert",
 		"era": "Latin de + serere",
 		"etymology": {
 			"components": [
@@ -166939,7 +167037,8 @@ const WORDS = [
 			"points": [
 				"存在の質感。"
 			]
-		}
+		},
+		"meaning": "砂漠、(……を)見捨てる、(職務を)離れる"
 	},
 	{
 		"id": "sert-voice",
@@ -166991,7 +167090,7 @@ const WORDS = [
 	},
 	{
 		"id": "compassion",
-		"word": "思いやり、同情、慈悲",
+		"word": "Compassion",
 		"era": "Latin con + pati",
 		"etymology": {
 			"components": [
@@ -167010,11 +167109,12 @@ const WORDS = [
 			"points": [
 				"存在の質感。"
 			]
-		}
+		},
+		"meaning": "思いやり、同情、慈悲"
 	},
 	{
 		"id": "passive",
-		"word": "受動的な、消極的な、受け身の",
+		"word": "Passive",
 		"era": "Latin pati",
 		"etymology": {
 			"components": [
@@ -167033,11 +167133,12 @@ const WORDS = [
 			"points": [
 				"存在の質感。"
 			]
-		}
+		},
+		"meaning": "受動的な、消極的な、受け身の"
 	},
 	{
 		"id": "compatible",
-		"word": "互換性のある、適合する、仲の良い",
+		"word": "Compatible",
 		"era": "Latin con + pati",
 		"etymology": {
 			"components": [
@@ -167056,7 +167157,8 @@ const WORDS = [
 			"points": [
 				"存在の質感。"
 			]
-		}
+		},
+		"meaning": "互換性のある、適合する、仲の良い"
 	},
 	{
 		"id": "pass-voice",
@@ -167108,7 +167210,7 @@ const WORDS = [
 	},
 	{
 		"id": "credit",
-		"word": "信用、クレジット、名誉、(……の)功績を認める",
+		"word": "Credit",
 		"era": "Latin credere",
 		"etymology": {
 			"components": [
@@ -167126,11 +167228,12 @@ const WORDS = [
 			"points": [
 				"存在の祈り。"
 			]
-		}
+		},
+		"meaning": "信用、クレジット、名誉、(……の)功績を認める"
 	},
 	{
 		"id": "incredible",
-		"word": "信じられない、驚くべき、信じがたいほど素晴らしい",
+		"word": "Incredible",
 		"era": "Latin in + credere",
 		"etymology": {
 			"components": [
@@ -167150,11 +167253,12 @@ const WORDS = [
 			"points": [
 				"存在の祈り。"
 			]
-		}
+		},
+		"meaning": "信じられない、驚くべき、信じがたいほど素晴らしい"
 	},
 	{
 		"id": "creed",
-		"word": "信念、信条、教義",
+		"word": "Creed",
 		"era": "Latin credere",
 		"etymology": {
 			"components": [
@@ -167172,11 +167276,12 @@ const WORDS = [
 			"points": [
 				"存在の祈り。"
 			]
-		}
+		},
+		"meaning": "信念、信条、教義"
 	},
 	{
 		"id": "credential",
-		"word": "証書、資格、信用証明物",
+		"word": "Credential",
 		"era": "Latin credere",
 		"etymology": {
 			"components": [
@@ -167195,11 +167300,12 @@ const WORDS = [
 			"points": [
 				"存在の祈り。"
 			]
-		}
+		},
+		"meaning": "証書、資格、信用証明物"
 	},
 	{
 		"id": "credulous",
-		"word": "信じやすい、だまされやすい",
+		"word": "Credulous",
 		"era": "Latin credere",
 		"etymology": {
 			"components": [
@@ -167218,11 +167324,12 @@ const WORDS = [
 			"points": [
 				"存在の祈り。"
 			]
-		}
+		},
+		"meaning": "信じやすい、だまされやすい"
 	},
 	{
 		"id": "discredit",
-		"word": "信用を落とす、疑う、不信",
+		"word": "Discredit",
 		"era": "Latin dis + credere",
 		"etymology": {
 			"components": [
@@ -167241,11 +167348,12 @@ const WORDS = [
 			"points": [
 				"存在の祈り。"
 			]
-		}
+		},
+		"meaning": "信用を落とす、疑う、不信"
 	},
 	{
 		"id": "credence",
-		"word": "信用、信頼、(……を)信じること",
+		"word": "Credence",
 		"era": "Latin credere",
 		"etymology": {
 			"components": [
@@ -167264,7 +167372,8 @@ const WORDS = [
 			"points": [
 				"存在の祈り。"
 			]
-		}
+		},
+		"meaning": "信用、信頼、(……を)信じること"
 	},
 	{
 		"id": "cred-voice",
@@ -167316,7 +167425,7 @@ const WORDS = [
 	},
 	{
 		"id": "pray",
-		"word": "祈る、願う、懇願する",
+		"word": "Pray",
 		"era": "Latin precari",
 		"etymology": {
 			"components": [
@@ -167334,11 +167443,12 @@ const WORDS = [
 			"points": [
 				"存在の祈り。"
 			]
-		}
+		},
+		"meaning": "祈る、願う、懇願する"
 	},
 	{
 		"id": "deprecate",
-		"word": "不賛成を唱える、軽視する、非難する",
+		"word": "Deprecate",
 		"era": "Latin de + precare",
 		"etymology": {
 			"components": [
@@ -167357,11 +167467,12 @@ const WORDS = [
 			"points": [
 				"存在の祈り。"
 			]
-		}
+		},
+		"meaning": "不賛成を唱える、軽視する、非難する"
 	},
 	{
 		"id": "precatory",
-		"word": "懇願の、祈りの",
+		"word": "Precatory",
 		"era": "Latin precare",
 		"etymology": {
 			"components": [
@@ -167380,11 +167491,12 @@ const WORDS = [
 			"points": [
 				"存在の祈り。"
 			]
-		}
+		},
+		"meaning": "懇願の、祈りの"
 	},
 	{
 		"id": "prayer",
-		"word": "祈り、祈答、祈願、プレイヤー",
+		"word": "Prayer",
 		"era": "Latin precare",
 		"etymology": {
 			"components": [
@@ -167402,7 +167514,8 @@ const WORDS = [
 			"points": [
 				"存在の祈り。"
 			]
-		}
+		},
+		"meaning": "祈り、祈答、祈願、プレイヤー"
 	},
 	{
 		"id": "prec-voice",
@@ -167454,7 +167567,7 @@ const WORDS = [
 	},
 	{
 		"id": "repetitive",
-		"word": "繰り返しの、何度も繰り返される",
+		"word": "Repetitive",
 		"era": "Latin re + petere",
 		"etymology": {
 			"components": [
@@ -167473,11 +167586,12 @@ const WORDS = [
 			"points": [
 				"存在の祈り。"
 			]
-		}
+		},
+		"meaning": "繰り返しの、何度も繰り返される"
 	},
 	{
 		"id": "perpetual",
-		"word": "永久の、絶え間のない、終身の",
+		"word": "Perpetual",
 		"era": "Latin per + petere",
 		"etymology": {
 			"components": [
@@ -167496,7 +167610,8 @@ const WORDS = [
 			"points": [
 				"存在の祈り。"
 			]
-		}
+		},
+		"meaning": "永久の、絶え間のない、終身の"
 	},
 	{
 		"id": "pet-voice",
@@ -167548,7 +167663,7 @@ const WORDS = [
 	},
 	{
 		"id": "conscious",
-		"word": "意識している、気づいている、自覚している",
+		"word": "Conscious",
 		"era": "Latin con + scire",
 		"etymology": {
 			"components": [
@@ -167568,11 +167683,12 @@ const WORDS = [
 			"points": [
 				"存在の裂け目。"
 			]
-		}
+		},
+		"meaning": "意識している、気づいている、自覚している"
 	},
 	{
 		"id": "conscience",
-		"word": "良心、道義心",
+		"word": "Conscience",
 		"era": "Latin con + scire",
 		"etymology": {
 			"components": [
@@ -167592,11 +167708,12 @@ const WORDS = [
 			"points": [
 				"存在の裂け目。"
 			]
-		}
+		},
+		"meaning": "良心、道義心"
 	},
 	{
 		"id": "prescient",
-		"word": "予見する、先見の明がある",
+		"word": "Prescient",
 		"era": "Latin prae + scire",
 		"etymology": {
 			"components": [
@@ -167615,7 +167732,8 @@ const WORDS = [
 			"points": [
 				"存在の裂け目。"
 			]
-		}
+		},
+		"meaning": "予見する、先見の明がある"
 	},
 	{
 		"id": "scire-voice",
@@ -167667,7 +167785,7 @@ const WORDS = [
 	},
 	{
 		"id": "solve",
-		"word": "解決する、解く、(……を)説明する",
+		"word": "Solve",
 		"era": "Latin solvere",
 		"etymology": {
 			"components": [
@@ -167685,11 +167803,12 @@ const WORDS = [
 			"points": [
 				"存在の裂け目。"
 			]
-		}
+		},
+		"meaning": "解決する、解く、(……を)説明する"
 	},
 	{
 		"id": "solute",
-		"word": "溶質、溶解した",
+		"word": "Solute",
 		"era": "Latin solvere",
 		"etymology": {
 			"components": [
@@ -167707,11 +167826,12 @@ const WORDS = [
 			"points": [
 				"存在の裂け目。"
 			]
-		}
+		},
+		"meaning": "溶質、溶解した"
 	},
 	{
 		"id": "absolute",
-		"word": "絶対的な、完全な、(……に)制約されない",
+		"word": "Absolute",
 		"era": "Latin ab + solvere",
 		"etymology": {
 			"components": [
@@ -167730,11 +167850,12 @@ const WORDS = [
 			"points": [
 				"存在の裂け目。"
 			]
-		}
+		},
+		"meaning": "絶対的な、完全な、(……に)制約されない"
 	},
 	{
 		"id": "dissolve",
-		"word": "溶解する、(組織などが)解散する、(関係が)消滅する",
+		"word": "Dissolve",
 		"era": "Latin dis + solvere",
 		"etymology": {
 			"components": [
@@ -167753,7 +167874,8 @@ const WORDS = [
 			"points": [
 				"存在の裂け目。"
 			]
-		}
+		},
+		"meaning": "溶解する、(組織などが)解散する、(関係が)消滅する"
 	},
 	{
 		"id": "solv-logic",
@@ -167805,7 +167927,7 @@ const WORDS = [
 	},
 	{
 		"id": "infringement",
-		"word": "侵害、違反、(権利などの)侵害行為",
+		"word": "Infringement",
 		"era": "Latin in + frangere",
 		"etymology": {
 			"components": [
@@ -167824,7 +167946,8 @@ const WORDS = [
 			"points": [
 				"存在の裂け目。"
 			]
-		}
+		},
+		"meaning": "侵害、違反、(権利などの)侵害行為"
 	},
 	{
 		"id": "frag-voice",
@@ -167924,7 +168047,7 @@ const WORDS = [
 	},
 	{
 		"id": "append",
-		"word": "添える、付け加える、付録をつける",
+		"word": "Append",
 		"era": "Latin ad + pendere",
 		"etymology": {
 			"components": [
@@ -167943,7 +168066,8 @@ const WORDS = [
 			"points": [
 				"存在の重力。"
 			]
-		}
+		},
+		"meaning": "添える、付け加える、付録をつける"
 	},
 	{
 		"id": "pend-voice",
@@ -167995,7 +168119,7 @@ const WORDS = [
 	},
 	{
 		"id": "discrete",
-		"word": "別々の、不連続の、分離した",
+		"word": "Discrete",
 		"era": "Latin dis + cernere",
 		"etymology": {
 			"components": [
@@ -168014,11 +168138,12 @@ const WORDS = [
 			"points": [
 				"存在の重力。"
 			]
-		}
+		},
+		"meaning": "別々の、不連続の、分離した"
 	},
 	{
 		"id": "excrete",
-		"word": "排泄する、(……を)分泌する",
+		"word": "Excrete",
 		"era": "Latin ex + cernere",
 		"etymology": {
 			"components": [
@@ -168037,11 +168162,12 @@ const WORDS = [
 			"points": [
 				"存在の重力。"
 			]
-		}
+		},
+		"meaning": "排泄する、(……を)分泌する"
 	},
 	{
 		"id": "certain",
-		"word": "確実な、確信して、一定の、ある(一つの)",
+		"word": "Certain",
 		"era": "Latin cernere",
 		"etymology": {
 			"components": [
@@ -168059,7 +168185,8 @@ const WORDS = [
 			"points": [
 				"存在の重力。"
 			]
-		}
+		},
+		"meaning": "確実な、確信して、一定の、ある(一つの)"
 	},
 	{
 		"id": "cern-voice",
@@ -168111,7 +168238,7 @@ const WORDS = [
 	},
 	{
 		"id": "demand",
-		"word": "要求(する)、需要、(……を)執拗に尋ねる",
+		"word": "Demand",
 		"era": "Latin de + mandare",
 		"etymology": {
 			"components": [
@@ -168130,11 +168257,12 @@ const WORDS = [
 			"points": [
 				"存在の放射。"
 			]
-		}
+		},
+		"meaning": "要求(する)、需要、(……を)執拗に尋ねる"
 	},
 	{
 		"id": "recommend",
-		"word": "推薦する、勧める、(……を)委ねる",
+		"word": "Recommend",
 		"era": "Latin re + con + mandare",
 		"etymology": {
 			"components": [
@@ -168154,11 +168282,12 @@ const WORDS = [
 			"points": [
 				"存在の放射。"
 			]
-		}
+		},
+		"meaning": "推薦する、勧める、(……を)委ねる"
 	},
 	{
 		"id": "remand",
-		"word": "送還する、拘置(する)、差し戻す",
+		"word": "Remand",
 		"era": "Latin re + mandare",
 		"etymology": {
 			"components": [
@@ -168177,7 +168306,8 @@ const WORDS = [
 			"points": [
 				"存在の放射。"
 			]
-		}
+		},
+		"meaning": "送還する、拘置(する)、差し戻す"
 	},
 	{
 		"id": "mand-voice",
@@ -168229,7 +168359,7 @@ const WORDS = [
 	},
 	{
 		"id": "refulgent",
-		"word": "燦然と輝く、輝かしい",
+		"word": "Refulgent",
 		"era": "Latin re + fulgere",
 		"etymology": {
 			"components": [
@@ -168248,11 +168378,12 @@ const WORDS = [
 			"points": [
 				"存在の放射。"
 			]
-		}
+		},
+		"meaning": "燦然と輝く、輝かしい"
 	},
 	{
 		"id": "fulcrum",
-		"word": "支点、(活動などの)中心、ふるふる",
+		"word": "Fulcrum",
 		"era": "Latin fulgere (Wait, 'fulcire' - to prop up)",
 		"etymology": {
 			"components": [
@@ -168270,11 +168401,12 @@ const WORDS = [
 			"points": [
 				"存在の放射。"
 			]
-		}
+		},
+		"meaning": "支点、(活動などの)中心、ふるふる"
 	},
 	{
 		"id": "fulgent",
-		"word": "輝いている、まばゆい",
+		"word": "Fulgent",
 		"era": "Latin fulgere",
 		"etymology": {
 			"components": [
@@ -168292,7 +168424,8 @@ const WORDS = [
 			"points": [
 				"存在の放射。"
 			]
-		}
+		},
+		"meaning": "輝いている、まばゆい"
 	},
 	{
 		"id": "fulg-voice",
@@ -168344,7 +168477,7 @@ const WORDS = [
 	},
 	{
 		"id": "source",
-		"word": "源、源泉、原因、情報の出所",
+		"word": "Source",
 		"era": "Latin surgere",
 		"etymology": {
 			"components": [
@@ -168362,11 +168495,12 @@ const WORDS = [
 			"points": [
 				"存在の放射。"
 			]
-		}
+		},
+		"meaning": "源、源泉、原因、情報の出所"
 	},
 	{
 		"id": "surge",
-		"word": "(感情の)高ぶり、(波の)大揺れ、急上昇(する)",
+		"word": "Surge",
 		"era": "Latin surgere",
 		"etymology": {
 			"components": [
@@ -168384,11 +168518,12 @@ const WORDS = [
 			"points": [
 				"存在の放射。"
 			]
-		}
+		},
+		"meaning": "(感情の)高ぶり、(波の)大揺れ、急上昇(する)"
 	},
 	{
 		"id": "insurgent",
-		"word": "暴徒、反乱兵、反乱を起こした",
+		"word": "Insurgent",
 		"era": "Latin in + surgere",
 		"etymology": {
 			"components": [
@@ -168407,11 +168542,12 @@ const WORDS = [
 			"points": [
 				"存在の放射。"
 			]
-		}
+		},
+		"meaning": "暴徒、反乱兵、反乱を起こした"
 	},
 	{
 		"id": "resurrection",
-		"word": "復活、蘇生、キリストの復活、レザレクション",
+		"word": "Resurrection",
 		"era": "Latin re + surgere",
 		"etymology": {
 			"components": [
@@ -168430,11 +168566,12 @@ const WORDS = [
 			"points": [
 				"存在の放射。"
 			]
-		}
+		},
+		"meaning": "復活、蘇生、キリストの復活、レザレクション"
 	},
 	{
 		"id": "insurrection",
-		"word": "反乱、暴動、蜂起",
+		"word": "Insurrection",
 		"era": "Latin in + surgere",
 		"etymology": {
 			"components": [
@@ -168453,7 +168590,8 @@ const WORDS = [
 			"points": [
 				"存在の放射。"
 			]
-		}
+		},
+		"meaning": "反乱、暴動、蜂起"
 	},
 	{
 		"id": "sur-voice",
@@ -168505,7 +168643,7 @@ const WORDS = [
 	},
 	{
 		"id": "mob",
-		"word": "暴徒、大衆、(……に)群がる",
+		"word": "Mob",
 		"era": "Latin movere",
 		"etymology": {
 			"components": [
@@ -168523,11 +168661,12 @@ const WORDS = [
 			"points": [
 				"存在の変容。"
 			]
-		}
+		},
+		"meaning": "暴徒、大衆、(……に)群がる"
 	},
 	{
 		"id": "mobile",
-		"word": "可動式の、流動的な、移動しやすい、携帯電話",
+		"word": "Mobile",
 		"era": "Latin movere",
 		"etymology": {
 			"components": [
@@ -168546,7 +168685,8 @@ const WORDS = [
 			"points": [
 				"存在の変容。"
 			]
-		}
+		},
+		"meaning": "可動式の、流動的な、移動しやすい、携帯電話"
 	},
 	{
 		"id": "mov-voice",
@@ -168598,7 +168738,7 @@ const WORDS = [
 	},
 	{
 		"id": "notice",
-		"word": "通知、注目、掲示、(……に)気づく",
+		"word": "Notice",
 		"era": "Latin noscere",
 		"etymology": {
 			"components": [
@@ -168617,11 +168757,12 @@ const WORDS = [
 			"points": [
 				"存在の変容。"
 			]
-		}
+		},
+		"meaning": "通知、注目、掲示、(……に)気づく"
 	},
 	{
 		"id": "noble",
-		"word": "高貴な、堂々とした、気高い、貴族",
+		"word": "Noble",
 		"era": "Latin noscere",
 		"etymology": {
 			"components": [
@@ -168639,11 +168780,12 @@ const WORDS = [
 			"points": [
 				"存在の変容。"
 			]
-		}
+		},
+		"meaning": "高貴な、堂々とした、気高い、貴族"
 	},
 	{
 		"id": "diagnose",
-		"word": "診断する、(病気)と診断する",
+		"word": "Diagnose",
 		"era": "Greek dia + gignoskein",
 		"etymology": {
 			"components": [
@@ -168662,7 +168804,8 @@ const WORDS = [
 			"points": [
 				"存在の変容。"
 			]
-		}
+		},
+		"meaning": "診断する、(病気)と診断する"
 	},
 	{
 		"id": "nos-voice",
@@ -168714,7 +168857,7 @@ const WORDS = [
 	},
 	{
 		"id": "president",
-		"word": "大統領、社長、議長、頭取",
+		"word": "President",
 		"era": "Latin prae + sedere",
 		"etymology": {
 			"components": [
@@ -168733,11 +168876,12 @@ const WORDS = [
 			"points": [
 				"存在の変容。"
 			]
-		}
+		},
+		"meaning": "大統領、社長、議長、頭取"
 	},
 	{
 		"id": "resident",
-		"word": "居住者、住民、居留員、在住の",
+		"word": "Resident",
 		"era": "Latin re + sedere",
 		"etymology": {
 			"components": [
@@ -168756,11 +168900,12 @@ const WORDS = [
 			"points": [
 				"存在の変容。"
 			]
-		}
+		},
+		"meaning": "居住者、住民、居留員、在住の"
 	},
 	{
 		"id": "session",
-		"word": "開会、会期、集まり、セッション",
+		"word": "Session",
 		"era": "Latin sedere",
 		"etymology": {
 			"components": [
@@ -168779,7 +168924,8 @@ const WORDS = [
 			"points": [
 				"存在の変容。"
 			]
-		}
+		},
+		"meaning": "開会、会期、集まり、セッション"
 	},
 	{
 		"id": "sed-voice",
@@ -168831,7 +168977,7 @@ const WORDS = [
 	},
 	{
 		"id": "parade",
-		"word": "パレード、(……を)見せびらかす、閲兵(する)",
+		"word": "Parade",
 		"era": "Latin parare",
 		"etymology": {
 			"components": [
@@ -168849,11 +168995,12 @@ const WORDS = [
 			"points": [
 				"存在の先行。"
 			]
-		}
+		},
+		"meaning": "パレード、(……を)見せびらかす、閲兵(する)"
 	},
 	{
 		"id": "apparatus",
-		"word": "器具、装置、(……の)機構、アパラタス",
+		"word": "Apparatus",
 		"era": "Latin ad + parare",
 		"etymology": {
 			"components": [
@@ -168872,7 +169019,8 @@ const WORDS = [
 			"points": [
 				"存在の先行。"
 			]
-		}
+		},
+		"meaning": "器具、装置、(……の)機構、アパラタス"
 	},
 	{
 		"id": "para-voice",
@@ -168924,7 +169072,7 @@ const WORDS = [
 	},
 	{
 		"id": "please",
-		"word": "喜ばせる、満足させる、どうか、(……が)気に入る",
+		"word": "Please",
 		"era": "Latin placere",
 		"etymology": {
 			"components": [
@@ -168942,11 +169090,12 @@ const WORDS = [
 			"points": [
 				"存在の先行。"
 			]
-		}
+		},
+		"meaning": "喜ばせる、満足させる、どうか、(……が)気に入る"
 	},
 	{
 		"id": "pleasant",
-		"word": "楽しい、心地よい、愉快な、感じの良い",
+		"word": "Pleasant",
 		"era": "Latin placere",
 		"etymology": {
 			"components": [
@@ -168965,11 +169114,12 @@ const WORDS = [
 			"points": [
 				"存在の先行。"
 			]
-		}
+		},
+		"meaning": "楽しい、心地よい、愉快な、感じの良い"
 	},
 	{
 		"id": "placid",
-		"word": "穏やかな、落ち着いた、平らな、プラシッド",
+		"word": "Placid",
 		"era": "Latin placere",
 		"etymology": {
 			"components": [
@@ -168987,7 +169137,8 @@ const WORDS = [
 			"points": [
 				"存在の先行。"
 			]
-		}
+		},
+		"meaning": "穏やかな、落ち着いた、平らな、プラシッド"
 	},
 	{
 		"id": "plac-voice",
@@ -169039,7 +169190,7 @@ const WORDS = [
 	},
 	{
 		"id": "retribution",
-		"word": "報い、報復、天罰",
+		"word": "Retribution",
 		"era": "Latin re + tribuere",
 		"etymology": {
 			"components": [
@@ -169058,7 +169209,8 @@ const WORDS = [
 			"points": [
 				"存在の先行。"
 			]
-		}
+		},
+		"meaning": "報い、報復、天罰"
 	},
 	{
 		"id": "trib-voice",
@@ -169110,7 +169262,7 @@ const WORDS = [
 	},
 	{
 		"id": "fight",
-		"word": "戦う、争う、闘争、ファイト",
+		"word": "Fight",
 		"era": "Germanic feohtan / Latin pugnare",
 		"etymology": {
 			"components": [
@@ -169129,11 +169281,12 @@ const WORDS = [
 			"points": [
 				"存在の葛藤。"
 			]
-		}
+		},
+		"meaning": "戦う、争う、闘争、ファイト"
 	},
 	{
 		"id": "repugnant",
-		"word": "不快な、嫌悪感を起こさせる、反対の",
+		"word": "Repugnant",
 		"era": "Latin re + pugnare",
 		"etymology": {
 			"components": [
@@ -169152,11 +169305,12 @@ const WORDS = [
 			"points": [
 				"存在の葛藤。"
 			]
-		}
+		},
+		"meaning": "不快な、嫌悪感を起こさせる、反対の"
 	},
 	{
 		"id": "impugn",
-		"word": "非難する、異議を唱える、(……を)攻撃する",
+		"word": "Impugn",
 		"era": "Latin in + pugnare",
 		"etymology": {
 			"components": [
@@ -169175,11 +169329,12 @@ const WORDS = [
 			"points": [
 				"存在の葛藤。"
 			]
-		}
+		},
+		"meaning": "非難する、異議を唱える、(……を)攻撃する"
 	},
 	{
 		"id": "pugnacious",
-		"word": "けんか腰の、争い好きな",
+		"word": "Pugnacious",
 		"era": "Latin pugnare",
 		"etymology": {
 			"components": [
@@ -169198,11 +169353,12 @@ const WORDS = [
 			"points": [
 				"存在の葛藤。"
 			]
-		}
+		},
+		"meaning": "けんか腰の、争い好きな"
 	},
 	{
 		"id": "pugilist",
-		"word": "ボクサー、拳闘家",
+		"word": "Pugilist",
 		"era": "Latin pugil (a boxer)",
 		"etymology": {
 			"components": [
@@ -169220,7 +169376,8 @@ const WORDS = [
 			"points": [
 				"存在の葛藤。"
 			]
-		}
+		},
+		"meaning": "ボクサー、拳闘家"
 	},
 	{
 		"id": "pug-voice",
@@ -169272,7 +169429,7 @@ const WORDS = [
 	},
 	{
 		"id": "responsibility",
-		"word": "責任、責務、負担、レスポンシビリティ",
+		"word": "Responsibility",
 		"era": "Latin re + spondere",
 		"etymology": {
 			"components": [
@@ -169291,7 +169448,8 @@ const WORDS = [
 			"points": [
 				"存在の葛藤。"
 			]
-		}
+		},
+		"meaning": "責任、責務、負担、レスポンシビリティ"
 	},
 	{
 		"id": "spon-life",
@@ -169319,7 +169477,7 @@ const WORDS = [
 	},
 	{
 		"id": "distort",
-		"word": "歪める、ねじる、(真実などを)曲げる",
+		"word": "Distort",
 		"era": "Latin dis + torquere",
 		"etymology": {
 			"components": [
@@ -169338,11 +169496,12 @@ const WORDS = [
 			"points": [
 				"存在の葛藤。"
 			]
-		}
+		},
+		"meaning": "歪める、ねじる、(真実などを)曲げる"
 	},
 	{
 		"id": "torture",
-		"word": "拷問、苦痛、(……を)拷問にかける",
+		"word": "Torture",
 		"era": "Latin torquere",
 		"etymology": {
 			"components": [
@@ -169361,11 +169520,12 @@ const WORDS = [
 			"points": [
 				"存在の葛藤。"
 			]
-		}
+		},
+		"meaning": "拷問、苦痛、(……を)拷問にかける"
 	},
 	{
 		"id": "retort",
-		"word": "(……に)言い返す、(……を)仕返しする、レトルト",
+		"word": "Retort",
 		"era": "Latin re + torquere",
 		"etymology": {
 			"components": [
@@ -169384,11 +169544,12 @@ const WORDS = [
 			"points": [
 				"存在の葛藤。"
 			]
-		}
+		},
+		"meaning": "(……に)言い返す、(……を)仕返しする、レトルト"
 	},
 	{
 		"id": "torment",
-		"word": "苦痛、激しい苦しみ、(……を)苦しめる",
+		"word": "Torment",
 		"era": "Latin torquere",
 		"etymology": {
 			"components": [
@@ -169407,7 +169568,8 @@ const WORDS = [
 			"points": [
 				"存在の葛藤。"
 			]
-		}
+		},
+		"meaning": "苦痛、激しい苦しみ、(……を)苦しめる"
 	},
 	{
 		"id": "tor-voice",
@@ -169483,7 +169645,7 @@ const WORDS = [
 	},
 	{
 		"id": "integument",
-		"word": "外皮、被膜、外被、インテギュメント",
+		"word": "Integument",
 		"era": "Latin in + tegere",
 		"etymology": {
 			"components": [
@@ -169503,11 +169665,12 @@ const WORDS = [
 			"points": [
 				"存在の守護。"
 			]
-		}
+		},
+		"meaning": "外皮、被膜、外被、インテギュメント"
 	},
 	{
 		"id": "detective",
-		"word": "探偵、刑事、探偵の、見抜くような",
+		"word": "Detective",
 		"era": "Latin de + tegere",
 		"etymology": {
 			"components": [
@@ -169526,11 +169689,12 @@ const WORDS = [
 			"points": [
 				"存在の守護。"
 			]
-		}
+		},
+		"meaning": "探偵、刑事、探偵の、見抜くような"
 	},
 	{
 		"id": "tile",
-		"word": "タイル、瓦、(……を)タイルで覆う",
+		"word": "Tile",
 		"era": "Latin tegula",
 		"etymology": {
 			"components": [
@@ -169549,7 +169713,8 @@ const WORDS = [
 			"points": [
 				"存在の守護。"
 			]
-		}
+		},
+		"meaning": "タイル、瓦、(……を)タイルで覆う"
 	},
 	{
 		"id": "tec-voice",
@@ -169601,7 +169766,7 @@ const WORDS = [
 	},
 	{
 		"id": "victory",
-		"word": "勝利、克服、優勝",
+		"word": "Victory",
 		"era": "Latin vincere",
 		"etymology": {
 			"components": [
@@ -169620,11 +169785,12 @@ const WORDS = [
 			"points": [
 				"存在の守護。"
 			]
-		}
+		},
+		"meaning": "勝利、克服、優勝"
 	},
 	{
 		"id": "convince",
-		"word": "納得させる、確信させる、説得する",
+		"word": "Convince",
 		"era": "Latin con + vincere",
 		"etymology": {
 			"components": [
@@ -169643,11 +169809,12 @@ const WORDS = [
 			"points": [
 				"存在の守護。"
 			]
-		}
+		},
+		"meaning": "納得させる、確信させる、説得する"
 	},
 	{
 		"id": "invincible",
-		"word": "無敵の、征服できない、(性質などが)不屈の",
+		"word": "Invincible",
 		"era": "Latin in + vincere",
 		"etymology": {
 			"components": [
@@ -169667,11 +169834,12 @@ const WORDS = [
 			"points": [
 				"存在の守護。"
 			]
-		}
+		},
+		"meaning": "無敵の、征服できない、(性質などが)不屈の"
 	},
 	{
 		"id": "evict",
-		"word": "立ち退かせる、追い出す、(……を)法的に立ち退かせる",
+		"word": "Evict",
 		"era": "Latin ex + vincere",
 		"etymology": {
 			"components": [
@@ -169690,11 +169858,12 @@ const WORDS = [
 			"points": [
 				"存在の守護。"
 			]
-		}
+		},
+		"meaning": "立ち退かせる、追い出す、(……を)法的に立ち退かせる"
 	},
 	{
 		"id": "convict",
-		"word": "有罪と宣告する、罪人、(……の)有罪が確定する",
+		"word": "Convict",
 		"era": "Latin con + vincere",
 		"etymology": {
 			"components": [
@@ -169713,7 +169882,8 @@ const WORDS = [
 			"points": [
 				"存在の守護。"
 			]
-		}
+		},
+		"meaning": "有罪と宣告する、罪人、(……の)有罪が確定する"
 	},
 	{
 		"id": "vin-voice",
@@ -169765,7 +169935,7 @@ const WORDS = [
 	},
 	{
 		"id": "enclosure",
-		"word": "囲い、封筒、同封物、同封すること",
+		"word": "Enclosure",
 		"era": "Latin in + claudere",
 		"etymology": {
 			"components": [
@@ -169785,7 +169955,8 @@ const WORDS = [
 			"points": [
 				"存在の拡大。"
 			]
-		}
+		},
+		"meaning": "囲い、封筒、同封物、同封すること"
 	},
 	{
 		"id": "cla-voice",
@@ -169837,7 +170008,7 @@ const WORDS = [
 	},
 	{
 		"id": "decrease",
-		"word": "減る、減少、(……を)減らす",
+		"word": "Decrease",
 		"era": "Latin de + crescere",
 		"etymology": {
 			"components": [
@@ -169856,11 +170027,12 @@ const WORDS = [
 			"points": [
 				"存在の拡大。"
 			]
-		}
+		},
+		"meaning": "減る、減少、(……を)減らす"
 	},
 	{
 		"id": "concrete",
-		"word": "具体的な、現実の、コンクリート、固まった",
+		"word": "Concrete",
 		"era": "Latin con + crescere",
 		"etymology": {
 			"components": [
@@ -169879,11 +170051,12 @@ const WORDS = [
 			"points": [
 				"存在の拡大。"
 			]
-		}
+		},
+		"meaning": "具体的な、現実の、コンクリート、固まった"
 	},
 	{
 		"id": "crescent",
-		"word": "三日月、三日月形の",
+		"word": "Crescent",
 		"era": "Latin crescere",
 		"etymology": {
 			"components": [
@@ -169902,11 +170075,12 @@ const WORDS = [
 			"points": [
 				"存在の拡大。"
 			]
-		}
+		},
+		"meaning": "三日月、三日月形の"
 	},
 	{
 		"id": "accrue",
-		"word": "(……に)生じる、(利子などが)つく",
+		"word": "Accrue",
 		"era": "Latin ad + crescere",
 		"etymology": {
 			"components": [
@@ -169925,7 +170099,8 @@ const WORDS = [
 			"points": [
 				"存在の拡大。"
 			]
-		}
+		},
+		"meaning": "(……に)生じる、(利子などが)つく"
 	},
 	{
 		"id": "cre-voice",
@@ -169953,7 +170128,7 @@ const WORDS = [
 	},
 	{
 		"id": "reflector",
-		"word": "反射板、反射望遠鏡、反射するもの",
+		"word": "Reflector",
 		"era": "Latin re + flectere",
 		"etymology": {
 			"components": [
@@ -169972,7 +170147,8 @@ const WORDS = [
 			"points": [
 				"存在の拡大。"
 			]
-		}
+		},
+		"meaning": "反射板、反射望遠鏡、反射するもの"
 	},
 	{
 		"id": "fle-voice",
@@ -170024,7 +170200,7 @@ const WORDS = [
 	},
 	{
 		"id": "inhabit",
-		"word": "(……に)住む、(場所に)居住する",
+		"word": "Inhabit",
 		"era": "Latin in + habitare",
 		"etymology": {
 			"components": [
@@ -170044,11 +170220,12 @@ const WORDS = [
 			"points": [
 				"存在の統合。"
 			]
-		}
+		},
+		"meaning": "(……に)住む、(場所に)居住する"
 	},
 	{
 		"id": "ability",
-		"word": "能力、才能、できること、アビリティ",
+		"word": "Ability",
 		"era": "Latin habere",
 		"etymology": {
 			"components": [
@@ -170067,7 +170244,8 @@ const WORDS = [
 			"points": [
 				"存在の統合。"
 			]
-		}
+		},
+		"meaning": "能力、才能、できること、アビリティ"
 	},
 	{
 		"id": "hab-voice",
@@ -170119,7 +170297,7 @@ const WORDS = [
 	},
 	{
 		"id": "joint",
-		"word": "関節、継ぎ目、共同の、連帯の、ジョイント",
+		"word": "Joint",
 		"era": "Latin jungere",
 		"etymology": {
 			"components": [
@@ -170137,11 +170315,12 @@ const WORDS = [
 			"points": [
 				"存在の統合。"
 			]
-		}
+		},
+		"meaning": "関節、継ぎ目、共同の、連帯の、ジョイント"
 	},
 	{
 		"id": "adjunct",
-		"word": "付属物、補助員、付属する",
+		"word": "Adjunct",
 		"era": "Latin ad + jungere",
 		"etymology": {
 			"components": [
@@ -170160,11 +170339,12 @@ const WORDS = [
 			"points": [
 				"存在の統合。"
 			]
-		}
+		},
+		"meaning": "付属物、補助員、付属する"
 	},
 	{
 		"id": "conjugal",
-		"word": "夫婦間の、婚姻の、コンジュガルの",
+		"word": "Conjugal",
 		"era": "Latin con + jungere",
 		"etymology": {
 			"components": [
@@ -170183,11 +170363,12 @@ const WORDS = [
 			"points": [
 				"存在の統合。"
 			]
-		}
+		},
+		"meaning": "夫婦間の、婚姻の、コンジュガルの"
 	},
 	{
 		"id": "injunction",
-		"word": "命令、訓令、(裁判所の)差し止め命令",
+		"word": "Injunction",
 		"era": "Latin in + jungere",
 		"etymology": {
 			"components": [
@@ -170206,7 +170387,8 @@ const WORDS = [
 			"points": [
 				"存在の統合。"
 			]
-		}
+		},
+		"meaning": "命令、訓令、(裁判所の)差し止め命令"
 	},
 	{
 		"id": "jun-voice",
@@ -170258,7 +170440,7 @@ const WORDS = [
 	},
 	{
 		"id": "diffuse",
-		"word": "広散させる、普及させる、発散する",
+		"word": "Diffuse",
 		"era": "Latin dis + fundere",
 		"etymology": {
 			"components": [
@@ -170277,11 +170459,12 @@ const WORDS = [
 			"points": [
 				"存在の統合。"
 			]
-		}
+		},
+		"meaning": "広散させる、普及させる、発散する"
 	},
 	{
 		"id": "refuse",
-		"word": "拒絶する、断る、辞退する、くず、廃物",
+		"word": "Refuse",
 		"era": "Latin re + fundere",
 		"etymology": {
 			"components": [
@@ -170300,11 +170483,12 @@ const WORDS = [
 			"points": [
 				"存在の統合。"
 			]
-		}
+		},
+		"meaning": "拒絶する、断る、辞退する、くず、廃物"
 	},
 	{
 		"id": "profuse",
-		"word": "豊富な、おびただしい、(……を)惜しみなく使う",
+		"word": "Profuse",
 		"era": "Latin pro + fundere",
 		"etymology": {
 			"components": [
@@ -170323,11 +170507,12 @@ const WORDS = [
 			"points": [
 				"存在の統合。"
 			]
-		}
+		},
+		"meaning": "豊富な、おびただしい、(……を)惜しみなく使う"
 	},
 	{
 		"id": "refund",
-		"word": "払い戻す、返金、払い戻し",
+		"word": "Refund",
 		"era": "Latin re + fundere",
 		"etymology": {
 			"components": [
@@ -170346,7 +170531,8 @@ const WORDS = [
 			"points": [
 				"存在の統合。"
 			]
-		}
+		},
+		"meaning": "払い戻す、返金、払い戻し"
 	},
 	{
 		"id": "fun-voice",
@@ -170398,7 +170584,7 @@ const WORDS = [
 	},
 	{
 		"id": "elocution",
-		"word": "発声法、演説の仕方",
+		"word": "Elocution",
 		"era": "Latin ex + loqui",
 		"etymology": {
 			"components": [
@@ -170418,11 +170604,12 @@ const WORDS = [
 			"points": [
 				"存在の探究。"
 			]
-		}
+		},
+		"meaning": "発声法、演説の仕方"
 	},
 	{
 		"id": "ventriloquist",
-		"word": "腹話術師",
+		"word": "Ventriloquist",
 		"era": "Latin venter + loqui",
 		"etymology": {
 			"components": [
@@ -170441,7 +170628,8 @@ const WORDS = [
 			"points": [
 				"存在の探究。"
 			]
-		}
+		},
+		"meaning": "腹話術師"
 	},
 	{
 		"id": "loq-voice",
@@ -170493,7 +170681,7 @@ const WORDS = [
 	},
 	{
 		"id": "perplex",
-		"word": "(……を)当惑させる、複雑にする",
+		"word": "Perplex",
 		"era": "Latin per + plectere",
 		"etymology": {
 			"components": [
@@ -170512,11 +170700,12 @@ const WORDS = [
 			"points": [
 				"存在の探究。"
 			]
-		}
+		},
+		"meaning": "(……を)当惑させる、複雑にする"
 	},
 	{
 		"id": "complicity",
-		"word": "共謀、共犯",
+		"word": "Complicity",
 		"era": "Latin con + plectere",
 		"etymology": {
 			"components": [
@@ -170536,11 +170725,12 @@ const WORDS = [
 			"points": [
 				"存在の探究。"
 			]
-		}
+		},
+		"meaning": "共謀、共犯"
 	},
 	{
 		"id": "duplex",
-		"word": "二重の、二連の、二世帯住宅の",
+		"word": "Duplex",
 		"era": "Latin duo + plectere",
 		"etymology": {
 			"components": [
@@ -170559,7 +170749,8 @@ const WORDS = [
 			"points": [
 				"存在の探究。"
 			]
-		}
+		},
+		"meaning": "二重の、二連の、二世帯住宅の"
 	},
 	{
 		"id": "ple-voice",
@@ -170611,7 +170802,7 @@ const WORDS = [
 	},
 	{
 		"id": "conquest",
-		"word": "征服、克服、獲物",
+		"word": "Conquest",
 		"era": "Latin con + quærere",
 		"etymology": {
 			"components": [
@@ -170630,7 +170821,8 @@ const WORDS = [
 			"points": [
 				"存在の探究。"
 			]
-		}
+		},
+		"meaning": "征服、克服、獲物"
 	},
 	{
 		"id": "que-voice",
@@ -170682,7 +170874,7 @@ const WORDS = [
 	},
 	{
 		"id": "injury",
-		"word": "負傷、損害、権利の侵害",
+		"word": "Injury",
 		"era": "Latin in + jus",
 		"etymology": {
 			"components": [
@@ -170701,7 +170893,8 @@ const WORDS = [
 			"points": [
 				"存在の秩序。"
 			]
-		}
+		},
+		"meaning": "負傷、損害、権利の侵害"
 	},
 	{
 		"id": "jus-voice",
@@ -170753,7 +170946,7 @@ const WORDS = [
 	},
 	{
 		"id": "legal",
-		"word": "法律の、合法的な、法的な",
+		"word": "Legal",
 		"era": "Latin lex",
 		"etymology": {
 			"components": [
@@ -170772,11 +170965,12 @@ const WORDS = [
 			"points": [
 				"存在の秩序。"
 			]
-		}
+		},
+		"meaning": "法律の、合法的な、法的な"
 	},
 	{
 		"id": "privilege",
-		"word": "特権、特典、(……に)特権を与える",
+		"word": "Privilege",
 		"era": "Latin privus + lex",
 		"etymology": {
 			"components": [
@@ -170795,7 +170989,8 @@ const WORDS = [
 			"points": [
 				"存在の秩序。"
 			]
-		}
+		},
+		"meaning": "特権、特典、(……に)特権を与える"
 	},
 	{
 		"id": "legis-voice",
@@ -170847,7 +171042,7 @@ const WORDS = [
 	},
 	{
 		"id": "salvation",
-		"word": "救済、救い、魂の救済",
+		"word": "Salvation",
 		"era": "Latin salus",
 		"etymology": {
 			"components": [
@@ -170866,11 +171061,12 @@ const WORDS = [
 			"points": [
 				"存在の秩序。"
 			]
-		}
+		},
+		"meaning": "救済、救い、魂の救済"
 	},
 	{
 		"id": "salutory",
-		"word": "ためになる、健康に良い",
+		"word": "Salutory",
 		"era": "Latin salus",
 		"etymology": {
 			"components": [
@@ -170888,11 +171084,12 @@ const WORDS = [
 			"points": [
 				"存在の秩序。"
 			]
-		}
+		},
+		"meaning": "ためになる、健康に良い"
 	},
 	{
 		"id": "salute",
-		"word": "敬礼(する)、挨拶(する)、(……に)敬意を表する",
+		"word": "Salute",
 		"era": "Latin salus",
 		"etymology": {
 			"components": [
@@ -170910,11 +171107,12 @@ const WORDS = [
 			"points": [
 				"存在の秩序。"
 			]
-		}
+		},
+		"meaning": "敬礼(する)、挨拶(する)、(……に)敬意を表する"
 	},
 	{
 		"id": "safe",
-		"word": "安全な、無事な、確実な、金庫",
+		"word": "Safe",
 		"era": "Latin salvus",
 		"etymology": {
 			"components": [
@@ -170933,11 +171131,12 @@ const WORDS = [
 			"points": [
 				"存在の秩序。"
 			]
-		}
+		},
+		"meaning": "安全な、無事な、確実な、金庫"
 	},
 	{
 		"id": "savior",
-		"word": "救世主、救済者",
+		"word": "Savior",
 		"era": "Latin salvare (to save)",
 		"etymology": {
 			"components": [
@@ -170957,7 +171156,8 @@ const WORDS = [
 			"points": [
 				"存在の秩序。"
 			]
-		}
+		},
+		"meaning": "救世主、救済者"
 	},
 	{
 		"id": "sal-voice",
@@ -171033,7 +171233,7 @@ const WORDS = [
 	},
 	{
 		"id": "impede",
-		"word": "(……を)妨げる、邪魔する、遅らせる",
+		"word": "Impede",
 		"era": "Latin in + pes",
 		"etymology": {
 			"components": [
@@ -171052,7 +171252,8 @@ const WORDS = [
 			"points": [
 				"存在の具現。"
 			]
-		}
+		},
+		"meaning": "(……を)妨げる、邪魔する、遅らせる"
 	},
 	{
 		"id": "ped-voice",
@@ -171104,7 +171305,7 @@ const WORDS = [
 	},
 	{
 		"id": "corpse",
-		"word": "死体、亡骸",
+		"word": "Corpse",
 		"era": "Latin corpus",
 		"etymology": {
 			"components": [
@@ -171122,11 +171323,12 @@ const WORDS = [
 			"points": [
 				"存在の具現。"
 			]
-		}
+		},
+		"meaning": "死体、亡骸"
 	},
 	{
 		"id": "corps",
-		"word": "軍団、部隊、(特定の)団体",
+		"word": "Corps",
 		"era": "Latin corpus",
 		"etymology": {
 			"components": [
@@ -171144,11 +171346,12 @@ const WORDS = [
 			"points": [
 				"存在の具現。"
 			]
-		}
+		},
+		"meaning": "軍団、部隊、(特定の)団体"
 	},
 	{
 		"id": "corporeal",
-		"word": "肉体的な、物質的な、有形の",
+		"word": "Corporeal",
 		"era": "Latin corpus",
 		"etymology": {
 			"components": [
@@ -171167,7 +171370,8 @@ const WORDS = [
 			"points": [
 				"存在の具現。"
 			]
-		}
+		},
+		"meaning": "肉体的な、物質的な、有形の"
 	},
 	{
 		"id": "cor-voice",
@@ -171219,7 +171423,7 @@ const WORDS = [
 	},
 	{
 		"id": "animal",
-		"word": "動物、生き物、獣、卑俗な人",
+		"word": "Animal",
 		"era": "Latin anima",
 		"etymology": {
 			"components": [
@@ -171238,11 +171442,12 @@ const WORDS = [
 			"points": [
 				"存在の息吹。"
 			]
-		}
+		},
+		"meaning": "動物、生き物、獣、卑俗な人"
 	},
 	{
 		"id": "unanimous",
-		"word": "満場一致の、異口同音の",
+		"word": "Unanimous",
 		"era": "Latin unus + anima",
 		"etymology": {
 			"components": [
@@ -171261,11 +171466,12 @@ const WORDS = [
 			"points": [
 				"存在の息吹。"
 			]
-		}
+		},
+		"meaning": "満場一致の、異口同音の"
 	},
 	{
 		"id": "animosity",
-		"word": "強い恨み、敵意、憎しみ",
+		"word": "Animosity",
 		"era": "Latin animus",
 		"etymology": {
 			"components": [
@@ -171284,7 +171490,8 @@ const WORDS = [
 			"points": [
 				"存在の息吹。"
 			]
-		}
+		},
+		"meaning": "強い恨み、敵意、憎しみ"
 	},
 	{
 		"id": "ani-voice",
@@ -171336,7 +171543,7 @@ const WORDS = [
 	},
 	{
 		"id": "vital",
-		"word": "生命の、不可欠な、活力に満ちた",
+		"word": "Vital",
 		"era": "Latin vita",
 		"etymology": {
 			"components": [
@@ -171355,11 +171562,12 @@ const WORDS = [
 			"points": [
 				"存在の息吹。"
 			]
-		}
+		},
+		"meaning": "生命の、不可欠な、活力に満ちた"
 	},
 	{
 		"id": "vitamin",
-		"word": "ビタミン",
+		"word": "Vitamin",
 		"era": "Latin vita + amine",
 		"etymology": {
 			"components": [
@@ -171378,11 +171586,12 @@ const WORDS = [
 			"points": [
 				"存在の息吹。"
 			]
-		}
+		},
+		"meaning": "ビタミン"
 	},
 	{
 		"id": "survive",
-		"word": "生き残る、(……より)長生きする、生き延びる、サバイバル",
+		"word": "Survive",
 		"era": "Latin super + vivere",
 		"etymology": {
 			"components": [
@@ -171402,11 +171611,12 @@ const WORDS = [
 			"points": [
 				"存在の息吹。"
 			]
-		}
+		},
+		"meaning": "生き残る、(……より)長生きする、生き延びる、サバイバル"
 	},
 	{
 		"id": "vivacity",
-		"word": "快活、活気、生き生きとしていること",
+		"word": "Vivacity",
 		"era": "Latin vivere",
 		"etymology": {
 			"components": [
@@ -171425,7 +171635,8 @@ const WORDS = [
 			"points": [
 				"存在の息吹。"
 			]
-		}
+		},
+		"meaning": "快活、活気、生き生きとしていること"
 	},
 	{
 		"id": "viv-voice",
@@ -171477,7 +171688,7 @@ const WORDS = [
 	},
 	{
 		"id": "irrational",
-		"word": "理性を欠いた、不合理な、非理性的な",
+		"word": "Irrational",
 		"era": "Latin in + ratio",
 		"etymology": {
 			"components": [
@@ -171496,11 +171707,12 @@ const WORDS = [
 			"points": [
 				"存在の息吹。"
 			]
-		}
+		},
+		"meaning": "理性を欠いた、不合理な、非理性的な"
 	},
 	{
 		"id": "ratify",
-		"word": "批准する、承認する、確認する",
+		"word": "Ratify",
 		"era": "Latin ratio + facere",
 		"etymology": {
 			"components": [
@@ -171519,11 +171731,12 @@ const WORDS = [
 			"points": [
 				"存在の息吹。"
 			]
-		}
+		},
+		"meaning": "批准する、承認する、確認する"
 	},
 	{
 		"id": "ration",
-		"word": "割り当て、配給量、定額、(……を)制限配給する",
+		"word": "Ration",
 		"era": "Latin ratio",
 		"etymology": {
 			"components": [
@@ -171541,7 +171754,8 @@ const WORDS = [
 			"points": [
 				"存在の息吹。"
 			]
-		}
+		},
+		"meaning": "割り当て、配給量、定額、(……を)制限配給する"
 	},
 	{
 		"id": "rat-voice",
@@ -171593,7 +171807,7 @@ const WORDS = [
 	},
 	{
 		"id": "contemporary",
-		"word": "同時代の、現代の、(……と)同時代の人",
+		"word": "Contemporary",
 		"era": "Latin con + tempus",
 		"etymology": {
 			"components": [
@@ -171612,11 +171826,12 @@ const WORDS = [
 			"points": [
 				"存在の変容。"
 			]
-		}
+		},
+		"meaning": "同時代の、現代の、(……と)同時代の人"
 	},
 	{
 		"id": "temporal",
-		"word": "時間的な、俗世の、現世の、こめかみの",
+		"word": "Temporal",
 		"era": "Latin tempus",
 		"etymology": {
 			"components": [
@@ -171635,11 +171850,12 @@ const WORDS = [
 			"points": [
 				"存在の変容。"
 			]
-		}
+		},
+		"meaning": "時間的な、俗世の、現世の、こめかみの"
 	},
 	{
 		"id": "extempore",
-		"word": "即座の、即興の、準備なしの",
+		"word": "Extempore",
 		"era": "Latin ex + tempus",
 		"etymology": {
 			"components": [
@@ -171658,11 +171874,12 @@ const WORDS = [
 			"points": [
 				"存在の変容。"
 			]
-		}
+		},
+		"meaning": "即座の、即興の、準備なしの"
 	},
 	{
 		"id": "tense",
-		"word": "時制、緊張した、張り詰めた、テンス",
+		"word": "Tense",
 		"era": "Latin tempus (time) / tendere (stretch)",
 		"etymology": {
 			"components": [
@@ -171681,7 +171898,8 @@ const WORDS = [
 			"points": [
 				"存在の変容。"
 			]
-		}
+		},
+		"meaning": "時制、緊張した、張り詰めた、テンス"
 	},
 	{
 		"id": "tem-voice",
@@ -171733,7 +171951,7 @@ const WORDS = [
 	},
 	{
 		"id": "ordain",
-		"word": "(神などが)定める、(……を)授任する",
+		"word": "Ordain",
 		"era": "Latin ordo",
 		"etymology": {
 			"components": [
@@ -171751,7 +171969,8 @@ const WORDS = [
 			"points": [
 				"存在の変容。"
 			]
-		}
+		},
+		"meaning": "(神などが)定める、(……を)授任する"
 	},
 	{
 		"id": "ord-voice",
@@ -171803,7 +172022,7 @@ const WORDS = [
 	},
 	{
 		"id": "mutation",
-		"word": "変化、変異、突発的な変化、ミューテーション",
+		"word": "Mutation",
 		"era": "Latin mutare",
 		"etymology": {
 			"components": [
@@ -171822,11 +172041,12 @@ const WORDS = [
 			"points": [
 				"存在の変容。"
 			]
-		}
+		},
+		"meaning": "変化、変異、突発的な変化、ミューテーション"
 	},
 	{
 		"id": "mutual",
-		"word": "相互の、共通の、共済の、ミューチュアル",
+		"word": "Mutual",
 		"era": "Latin mutare",
 		"etymology": {
 			"components": [
@@ -171845,7 +172065,8 @@ const WORDS = [
 			"points": [
 				"存在の変容。"
 			]
-		}
+		},
+		"meaning": "相互の、共通の、共済の、ミューチュアル"
 	},
 	{
 		"id": "mut-voice",
@@ -171897,7 +172118,7 @@ const WORDS = [
 	},
 	{
 		"id": "chronometer",
-		"word": "精密な時計、クロノメーター",
+		"word": "Chronometer",
 		"era": "Greek chronos + metron",
 		"etymology": {
 			"components": [
@@ -171916,7 +172137,8 @@ const WORDS = [
 			"points": [
 				"存在の照射。"
 			]
-		}
+		},
+		"meaning": "精密な時計、クロノメーター"
 	},
 	{
 		"id": "chro-voice",
@@ -171968,7 +172190,7 @@ const WORDS = [
 	},
 	{
 		"id": "phosphorus",
-		"word": "リン、黄リン、光を放つもの",
+		"word": "Phosphorus",
 		"era": "Greek phos + phoros",
 		"etymology": {
 			"components": [
@@ -171987,11 +172209,12 @@ const WORDS = [
 			"points": [
 				"存在の照射。"
 			]
-		}
+		},
+		"meaning": "リン、黄リン、光を放つもの"
 	},
 	{
 		"id": "photon",
-		"word": "光子、光量子",
+		"word": "Photon",
 		"era": "Greek phos",
 		"etymology": {
 			"components": [
@@ -172010,11 +172233,12 @@ const WORDS = [
 			"points": [
 				"存在の照射。"
 			]
-		}
+		},
+		"meaning": "光子、光量子"
 	},
 	{
 		"id": "photogenic",
-		"word": "写真映えのする、光を出す",
+		"word": "Photogenic",
 		"era": "Greek phos + genos",
 		"etymology": {
 			"components": [
@@ -172033,7 +172257,8 @@ const WORDS = [
 			"points": [
 				"存在の照射。"
 			]
-		}
+		},
+		"meaning": "写真映えのする、光を出す"
 	},
 	{
 		"id": "mph-voice",
@@ -172085,7 +172310,7 @@ const WORDS = [
 	},
 	{
 		"id": "paragraph",
-		"word": "段落、パラグラフ、(……を)段落に分ける",
+		"word": "Paragraph",
 		"era": "Greek para + graphos",
 		"etymology": {
 			"components": [
@@ -172104,11 +172329,12 @@ const WORDS = [
 			"points": [
 				"存在の照射。"
 			]
-		}
+		},
+		"meaning": "段落、パラグラフ、(……を)段落に分ける"
 	},
 	{
 		"id": "telegraph",
-		"word": "電信、電報(を打つ)、テレグラフ",
+		"word": "Telegraph",
 		"era": "Greek tele + graphos",
 		"etymology": {
 			"components": [
@@ -172127,7 +172353,8 @@ const WORDS = [
 			"points": [
 				"存在の照射。"
 			]
-		}
+		},
+		"meaning": "電信、電報(を打つ)、テレグラフ"
 	},
 	{
 		"id": "gra-voice",
@@ -172179,7 +172406,7 @@ const WORDS = [
 	},
 	{
 		"id": "microphone",
-		"word": "マイク、マイクロホン、拡声器",
+		"word": "Microphone",
 		"era": "Greek mikros + phon",
 		"etymology": {
 			"components": [
@@ -172198,11 +172425,12 @@ const WORDS = [
 			"points": [
 				"存在の共鳴。"
 			]
-		}
+		},
+		"meaning": "マイク、マイクロホン、拡声器"
 	},
 	{
 		"id": "monophonic",
-		"word": "単音の、モノラルの、モノフォニック",
+		"word": "Monophonic",
 		"era": "Greek monos + phon",
 		"etymology": {
 			"components": [
@@ -172221,7 +172449,8 @@ const WORDS = [
 			"points": [
 				"存在の共鳴。"
 			]
-		}
+		},
+		"meaning": "単音の、モノラルの、モノフォニック"
 	},
 	{
 		"id": "pho-voice",
@@ -172249,7 +172478,7 @@ const WORDS = [
 	},
 	{
 		"id": "horoscope",
-		"word": "星占い、十二宮占い、ホロスコープ",
+		"word": "Horoscope",
 		"era": "Greek hora + scope",
 		"etymology": {
 			"components": [
@@ -172268,11 +172497,12 @@ const WORDS = [
 			"points": [
 				"存在の共鳴。"
 			]
-		}
+		},
+		"meaning": "星占い、十二宮占い、ホロスコープ"
 	},
 	{
 		"id": "periscope",
-		"word": "潜望鏡、ペリスコープ",
+		"word": "Periscope",
 		"era": "Greek peri + scope",
 		"etymology": {
 			"components": [
@@ -172291,11 +172521,12 @@ const WORDS = [
 			"points": [
 				"存在の共鳴。"
 			]
-		}
+		},
+		"meaning": "潜望鏡、ペリスコープ"
 	},
 	{
 		"id": "spectroscopy",
-		"word": "分光法、スペクトロスコピー",
+		"word": "Spectroscopy",
 		"era": "Latin spectrum + Greek scope",
 		"etymology": {
 			"components": [
@@ -172314,7 +172545,8 @@ const WORDS = [
 			"points": [
 				"存在の共鳴。"
 			]
-		}
+		},
+		"meaning": "分光法、スペクトロスコピー"
 	},
 	{
 		"id": "sco-voice",
@@ -172366,7 +172598,7 @@ const WORDS = [
 	},
 	{
 		"id": "thermal",
-		"word": "熱の、温泉の、上昇気流",
+		"word": "Thermal",
 		"era": "Greek therme",
 		"etymology": {
 			"components": [
@@ -172385,11 +172617,12 @@ const WORDS = [
 			"points": [
 				"存在の共鳴。"
 			]
-		}
+		},
+		"meaning": "熱の、温泉の、上昇気流"
 	},
 	{
 		"id": "thermometer",
-		"word": "温度計、体温計",
+		"word": "Thermometer",
 		"era": "Greek therme + metron",
 		"etymology": {
 			"components": [
@@ -172408,11 +172641,12 @@ const WORDS = [
 			"points": [
 				"存在の共鳴。"
 			]
-		}
+		},
+		"meaning": "温度計、体温計"
 	},
 	{
 		"id": "thermostat",
-		"word": "恒温器、サーモスタット",
+		"word": "Thermostat",
 		"era": "Greek therme + statos",
 		"etymology": {
 			"components": [
@@ -172431,11 +172665,12 @@ const WORDS = [
 			"points": [
 				"存在の共鳴。"
 			]
-		}
+		},
+		"meaning": "恒温器、サーモスタット"
 	},
 	{
 		"id": "thermodynamics",
-		"word": "熱力学",
+		"word": "Thermodynamics",
 		"era": "Greek therme + dynamis",
 		"etymology": {
 			"components": [
@@ -172454,11 +172689,12 @@ const WORDS = [
 			"points": [
 				"存在の共鳴。"
 			]
-		}
+		},
+		"meaning": "熱力学"
 	},
 	{
 		"id": "hypothermia",
-		"word": "低体温症",
+		"word": "Hypothermia",
 		"era": "Greek hypo + therme",
 		"etymology": {
 			"components": [
@@ -172477,7 +172713,8 @@ const WORDS = [
 			"points": [
 				"存在の共鳴。"
 			]
-		}
+		},
+		"meaning": "低体温症"
 	},
 	{
 		"id": "the-voice",
@@ -172529,7 +172766,7 @@ const WORDS = [
 	},
 	{
 		"id": "aquarium",
-		"word": "水族館、金魚鉢、アクアリウム",
+		"word": "Aquarium",
 		"era": "Latin aqua",
 		"etymology": {
 			"components": [
@@ -172548,11 +172785,12 @@ const WORDS = [
 			"points": [
 				"存在の流転。"
 			]
-		}
+		},
+		"meaning": "水族館、金魚鉢、アクアリウム"
 	},
 	{
 		"id": "aquatic",
-		"word": "水生の、水辺にある、水上で行なう",
+		"word": "Aquatic",
 		"era": "Latin aqua",
 		"etymology": {
 			"components": [
@@ -172571,11 +172809,12 @@ const WORDS = [
 			"points": [
 				"存在の流転。"
 			]
-		}
+		},
+		"meaning": "水生の、水辺にある、水上で行なう"
 	},
 	{
 		"id": "aqueduct",
-		"word": "導水路、送水管、水管",
+		"word": "Aqueduct",
 		"era": "Latin aqua + ducere",
 		"etymology": {
 			"components": [
@@ -172594,11 +172833,12 @@ const WORDS = [
 			"points": [
 				"存在の流転。"
 			]
-		}
+		},
+		"meaning": "導水路、送水管、水管"
 	},
 	{
 		"id": "aqueous",
-		"word": "水の、水のような、水状の",
+		"word": "Aqueous",
 		"era": "Latin aqua",
 		"etymology": {
 			"components": [
@@ -172617,7 +172857,8 @@ const WORDS = [
 			"points": [
 				"存在の流転。"
 			]
-		}
+		},
+		"meaning": "水の、水のような、水状の"
 	},
 	{
 		"id": "aqu-voice",
@@ -172669,7 +172910,7 @@ const WORDS = [
 	},
 	{
 		"id": "marine",
-		"word": "海の、海に住む、海軍、マリーン",
+		"word": "Marine",
 		"era": "Latin mare",
 		"etymology": {
 			"components": [
@@ -172688,11 +172929,12 @@ const WORDS = [
 			"points": [
 				"存在の流転。"
 			]
-		}
+		},
+		"meaning": "海の、海に住む、海軍、マリーン"
 	},
 	{
 		"id": "maritime",
-		"word": "海の、海事の、海に面した、マリタイム",
+		"word": "Maritime",
 		"era": "Latin mare",
 		"etymology": {
 			"components": [
@@ -172711,11 +172953,12 @@ const WORDS = [
 			"points": [
 				"存在の流転。"
 			]
-		}
+		},
+		"meaning": "海の、海事の、海に面した、マリタイム"
 	},
 	{
 		"id": "mariner",
-		"word": "水夫、船乗り、マリナー",
+		"word": "Mariner",
 		"era": "Latin mare",
 		"etymology": {
 			"components": [
@@ -172734,7 +172977,8 @@ const WORDS = [
 			"points": [
 				"存在の流転。"
 			]
-		}
+		},
+		"meaning": "水夫、船乗り、マリナー"
 	},
 	{
 		"id": "mar-voice",
@@ -172786,7 +173030,7 @@ const WORDS = [
 	},
 	{
 		"id": "naval",
-		"word": "海軍の、軍艦の、ネイバル",
+		"word": "Naval",
 		"era": "Latin navis",
 		"etymology": {
 			"components": [
@@ -172805,7 +173049,8 @@ const WORDS = [
 			"points": [
 				"存在の流転。"
 			]
-		}
+		},
+		"meaning": "海軍の、軍艦の、ネイバル"
 	},
 	{
 		"id": "nav-voice",
@@ -172857,7 +173102,7 @@ const WORDS = [
 	},
 	{
 		"id": "century",
-		"word": "世紀、100年、センチュリー",
+		"word": "Century",
 		"era": "Latin centum",
 		"etymology": {
 			"components": [
@@ -172876,11 +173121,12 @@ const WORDS = [
 			"points": [
 				"存在の階層。"
 			]
-		}
+		},
+		"meaning": "世紀、100年、センチュリー"
 	},
 	{
 		"id": "percent",
-		"word": "パーセント、百分率",
+		"word": "Percent",
 		"era": "Latin per + centum",
 		"etymology": {
 			"components": [
@@ -172899,11 +173145,12 @@ const WORDS = [
 			"points": [
 				"存在の階層。"
 			]
-		}
+		},
+		"meaning": "パーセント、百分率"
 	},
 	{
 		"id": "centigrade",
-		"word": "摂氏の、(温度計が)百度目盛りの",
+		"word": "Centigrade",
 		"era": "Latin centum + gradus",
 		"etymology": {
 			"components": [
@@ -172922,11 +173169,12 @@ const WORDS = [
 			"points": [
 				"存在の階層。"
 			]
-		}
+		},
+		"meaning": "摂氏の、(温度計が)百度目盛りの"
 	},
 	{
 		"id": "centennial",
-		"word": "100周年の、100年祭、センテニアル",
+		"word": "Centennial",
 		"era": "Latin centum + annus",
 		"etymology": {
 			"components": [
@@ -172945,7 +173193,8 @@ const WORDS = [
 			"points": [
 				"存在の階層。"
 			]
-		}
+		},
+		"meaning": "100周年の、100年祭、センテニアル"
 	},
 	{
 		"id": "cen-voice",
@@ -172997,7 +173246,7 @@ const WORDS = [
 	},
 	{
 		"id": "millennium",
-		"word": "千年、千年紀、ミレニアム",
+		"word": "Millennium",
 		"era": "Latin mille + annus",
 		"etymology": {
 			"components": [
@@ -173016,11 +173265,12 @@ const WORDS = [
 			"points": [
 				"存在の階層。"
 			]
-		}
+		},
+		"meaning": "千年、千年紀、ミレニアム"
 	},
 	{
 		"id": "million",
-		"word": "100万(の)、ミリオン",
+		"word": "Million",
 		"era": "Latin mille",
 		"etymology": {
 			"components": [
@@ -173039,11 +173289,12 @@ const WORDS = [
 			"points": [
 				"存在の階層。"
 			]
-		}
+		},
+		"meaning": "100万(の)、ミリオン"
 	},
 	{
 		"id": "mile",
-		"word": "マイル、1609メートル",
+		"word": "Mile",
 		"era": "Latin mille (passus)",
 		"etymology": {
 			"components": [
@@ -173061,11 +173312,12 @@ const WORDS = [
 			"points": [
 				"存在の階層。"
 			]
-		}
+		},
+		"meaning": "マイル、1609メートル"
 	},
 	{
 		"id": "millipede",
-		"word": "ヤスデ、多足類、ミリピード",
+		"word": "Millipede",
 		"era": "Latin mille + pes",
 		"etymology": {
 			"components": [
@@ -173084,7 +173336,8 @@ const WORDS = [
 			"points": [
 				"存在の階層。"
 			]
-		}
+		},
+		"meaning": "ヤスデ、多足類、ミリピード"
 	},
 	{
 		"id": "mil-voice",
@@ -173136,7 +173389,7 @@ const WORDS = [
 	},
 	{
 		"id": "prime",
-		"word": "最も重要な、主要な、第一の、素数、最盛期、プライム",
+		"word": "Prime",
 		"era": "Latin primus",
 		"etymology": {
 			"components": [
@@ -173154,11 +173407,12 @@ const WORDS = [
 			"points": [
 				"存在の階層。"
 			]
-		}
+		},
+		"meaning": "最も重要な、主要な、第一の、素数、最盛期、プライム"
 	},
 	{
 		"id": "primary",
-		"word": "主要な、第一位の、初歩の、プライマリー",
+		"word": "Primary",
 		"era": "Latin primus",
 		"etymology": {
 			"components": [
@@ -173177,11 +173431,12 @@ const WORDS = [
 			"points": [
 				"存在の階層。"
 			]
-		}
+		},
+		"meaning": "主要な、第一位の、初歩の、プライマリー"
 	},
 	{
 		"id": "primitive",
-		"word": "原始的な、未発達な、古風な、プリミティブ",
+		"word": "Primitive",
 		"era": "Latin primus",
 		"etymology": {
 			"components": [
@@ -173200,11 +173455,12 @@ const WORDS = [
 			"points": [
 				"存在の階層。"
 			]
-		}
+		},
+		"meaning": "原始的な、未発達な、古風な、プリミティブ"
 	},
 	{
 		"id": "primate",
-		"word": "霊長類、大司教、プライメイト",
+		"word": "Primate",
 		"era": "Latin primus",
 		"etymology": {
 			"components": [
@@ -173222,7 +173478,8 @@ const WORDS = [
 			"points": [
 				"存在の階層。"
 			]
-		}
+		},
+		"meaning": "霊長類、大司教、プライメイト"
 	},
 	{
 		"id": "pri-voice",
@@ -173322,7 +173579,7 @@ const WORDS = [
 	},
 	{
 		"id": "confine",
-		"word": "(……を)制限する、閉じ込める、境界を接する、コンファイン",
+		"word": "Confine",
 		"era": "Latin con + finis",
 		"etymology": {
 			"components": [
@@ -173341,7 +173598,8 @@ const WORDS = [
 			"points": [
 				"存在の収束。"
 			]
-		}
+		},
+		"meaning": "(……を)制限する、閉じ込める、境界を接する、コンファイン"
 	},
 	{
 		"id": "fin-voice",
@@ -173393,7 +173651,7 @@ const WORDS = [
 	},
 	{
 		"id": "ultimatum",
-		"word": "最後通牒、アルティメイタム",
+		"word": "Ultimatum",
 		"era": "Latin ultimus",
 		"etymology": {
 			"components": [
@@ -173411,11 +173669,12 @@ const WORDS = [
 			"points": [
 				"存在の収束。"
 			]
-		}
+		},
+		"meaning": "最後通牒、アルティメイタム"
 	},
 	{
 		"id": "penultimate",
-		"word": "最後から2番目の",
+		"word": "Penultimate",
 		"era": "Latin paene + ultimus",
 		"etymology": {
 			"components": [
@@ -173434,11 +173693,12 @@ const WORDS = [
 			"points": [
 				"存在の収束。"
 			]
-		}
+		},
+		"meaning": "最後から2番目の"
 	},
 	{
 		"id": "ultrasound",
-		"word": "超音波",
+		"word": "Ultrasound",
 		"era": "Latin ultra + Germanic sound",
 		"etymology": {
 			"components": [
@@ -173457,7 +173717,8 @@ const WORDS = [
 			"points": [
 				"存在の収束。"
 			]
-		}
+		},
+		"meaning": "超音波"
 	},
 	{
 		"id": "ult-voice",
@@ -173509,7 +173770,7 @@ const WORDS = [
 	},
 	{
 		"id": "village",
-		"word": "村、村落、ビレッジ",
+		"word": "Village",
 		"era": "Latin villa",
 		"etymology": {
 			"components": [
@@ -173528,11 +173789,12 @@ const WORDS = [
 			"points": [
 				"存在の共同体。"
 			]
-		}
+		},
+		"meaning": "村、村落、ビレッジ"
 	},
 	{
 		"id": "villain",
-		"word": "悪党、悪役、かたき、ビラン",
+		"word": "Villain",
 		"era": "Latin villa",
 		"etymology": {
 			"components": [
@@ -173550,11 +173812,12 @@ const WORDS = [
 			"points": [
 				"存在の共同体。"
 			]
-		}
+		},
+		"meaning": "悪党、悪役、かたき、ビラン"
 	},
 	{
 		"id": "villa",
-		"word": "別荘、邸宅、郊外の家、ビラ",
+		"word": "Villa",
 		"era": "Latin villa",
 		"etymology": {
 			"components": [
@@ -173572,11 +173835,12 @@ const WORDS = [
 			"points": [
 				"存在の共同体。"
 			]
-		}
+		},
+		"meaning": "別荘、邸宅、郊外の家、ビラ"
 	},
 	{
 		"id": "villager",
-		"word": "村人",
+		"word": "Villager",
 		"era": "Latin villa",
 		"etymology": {
 			"components": [
@@ -173595,7 +173859,8 @@ const WORDS = [
 			"points": [
 				"存在の共同体。"
 			]
-		}
+		},
+		"meaning": "村人"
 	},
 	{
 		"id": "vil-voice",
@@ -173647,7 +173912,7 @@ const WORDS = [
 	},
 	{
 		"id": "policy",
-		"word": "政策、方針、手段、ポリシー",
+		"word": "Policy",
 		"era": "Greek polis",
 		"etymology": {
 			"components": [
@@ -173665,11 +173930,12 @@ const WORDS = [
 			"points": [
 				"存在の共同体。"
 			]
-		}
+		},
+		"meaning": "政策、方針、手段、ポリシー"
 	},
 	{
 		"id": "police",
-		"word": "警察、(警察による)取り締まり、ポリス",
+		"word": "Police",
 		"era": "Greek polis",
 		"etymology": {
 			"components": [
@@ -173687,11 +173953,12 @@ const WORDS = [
 			"points": [
 				"存在の共同体。"
 			]
-		}
+		},
+		"meaning": "警察、(警察による)取り締まり、ポリス"
 	},
 	{
 		"id": "politics",
-		"word": "政治(学)、政策、駆け引き、ポリティクス",
+		"word": "Politics",
 		"era": "Greek polis",
 		"etymology": {
 			"components": [
@@ -173710,11 +173977,12 @@ const WORDS = [
 			"points": [
 				"存在の共同体。"
 			]
-		}
+		},
+		"meaning": "政治(学)、政策、駆け引き、ポリティクス"
 	},
 	{
 		"id": "metropolitan",
-		"word": "大都市の、首都の、(本国の)母国の、メトロポリタン",
+		"word": "Metropolitan",
 		"era": "Greek meter (mother) + polis",
 		"etymology": {
 			"components": [
@@ -173733,7 +174001,8 @@ const WORDS = [
 			"points": [
 				"存在の共同体。"
 			]
-		}
+		},
+		"meaning": "大都市の、首都の、(本国の)母国の、メトロポリタン"
 	},
 	{
 		"id": "pol-voice",
@@ -173785,7 +174054,7 @@ const WORDS = [
 	},
 	{
 		"id": "civil",
-		"word": "市民の、民間の、礼儀正しい、シビル",
+		"word": "Civil",
 		"era": "Latin civis",
 		"etymology": {
 			"components": [
@@ -173804,11 +174073,12 @@ const WORDS = [
 			"points": [
 				"存在の共同体。"
 			]
-		}
+		},
+		"meaning": "市民の、民間の、礼儀正しい、シビル"
 	},
 	{
 		"id": "city",
-		"word": "都市、市、都会、シティ",
+		"word": "City",
 		"era": "Latin civitas",
 		"etymology": {
 			"components": [
@@ -173826,11 +174096,12 @@ const WORDS = [
 			"points": [
 				"存在の共同体。"
 			]
-		}
+		},
+		"meaning": "都市、市、都会、シティ"
 	},
 	{
 		"id": "civilize",
-		"word": "文明化する、洗練させる、シビライズ",
+		"word": "Civilize",
 		"era": "Latin civis",
 		"etymology": {
 			"components": [
@@ -173849,11 +174120,12 @@ const WORDS = [
 			"points": [
 				"存在の共同体。"
 			]
-		}
+		},
+		"meaning": "文明化する、洗練させる、シビライズ"
 	},
 	{
 		"id": "civility",
-		"word": "礼儀正しいこと、丁寧さ",
+		"word": "Civility",
 		"era": "Latin civis",
 		"etymology": {
 			"components": [
@@ -173872,7 +174144,8 @@ const WORDS = [
 			"points": [
 				"存在の共同体。"
 			]
-		}
+		},
+		"meaning": "礼儀正しいこと、丁寧さ"
 	},
 	{
 		"id": "civ-voice",
@@ -173924,7 +174197,7 @@ const WORDS = [
 	},
 	{
 		"id": "automatic",
-		"word": "自動の、無意識の、オートマチック",
+		"word": "Automatic",
 		"era": "Greek autos + matos",
 		"etymology": {
 			"components": [
@@ -173943,11 +174216,12 @@ const WORDS = [
 			"points": [
 				"存在の主権。"
 			]
-		}
+		},
+		"meaning": "自動の、無意識の、オートマチック"
 	},
 	{
 		"id": "autograph",
-		"word": "自筆(の署名)、サイン、オートグラフ",
+		"word": "Autograph",
 		"era": "Greek autos + graph",
 		"etymology": {
 			"components": [
@@ -173966,11 +174240,12 @@ const WORDS = [
 			"points": [
 				"存在の主権。"
 			]
-		}
+		},
+		"meaning": "自筆(の署名)、サイン、オートグラフ"
 	},
 	{
 		"id": "automobile",
-		"word": "自動車、オートモービル",
+		"word": "Automobile",
 		"era": "Greek autos + Latin mobilis",
 		"etymology": {
 			"components": [
@@ -173989,7 +174264,8 @@ const WORDS = [
 			"points": [
 				"存在の主権。"
 			]
-		}
+		},
+		"meaning": "自動車、オートモービル"
 	},
 	{
 		"id": "aut-voice",
@@ -174041,7 +174317,7 @@ const WORDS = [
 	},
 	{
 		"id": "total",
-		"word": "合計の、全体の、完全な、トータル",
+		"word": "Total",
 		"era": "Latin totus",
 		"etymology": {
 			"components": [
@@ -174059,11 +174335,12 @@ const WORDS = [
 			"points": [
 				"存在の主権。"
 			]
-		}
+		},
+		"meaning": "合計の、全体の、完全な、トータル"
 	},
 	{
 		"id": "totality",
-		"word": "全体、総計、皆既(食)、トータリティ",
+		"word": "Totality",
 		"era": "Latin totus",
 		"etymology": {
 			"components": [
@@ -174082,11 +174359,12 @@ const WORDS = [
 			"points": [
 				"存在の主権。"
 			]
-		}
+		},
+		"meaning": "全体、総計、皆既(食)、トータリティ"
 	},
 	{
 		"id": "factotum",
-		"word": "雑用係、何でも屋、ファクトータム",
+		"word": "Factotum",
 		"era": "Latin facere + totus",
 		"etymology": {
 			"components": [
@@ -174105,11 +174383,12 @@ const WORDS = [
 			"points": [
 				"存在の主権。"
 			]
-		}
+		},
+		"meaning": "雑用係、何でも屋、ファクトータム"
 	},
 	{
 		"id": "totalitarian",
-		"word": "全体主義の(人)、独裁的な",
+		"word": "Totalitarian",
 		"era": "Latin totus",
 		"etymology": {
 			"components": [
@@ -174128,7 +174407,8 @@ const WORDS = [
 			"points": [
 				"存在の主権。"
 			]
-		}
+		},
+		"meaning": "全体主義の(人)、独裁的な"
 	},
 	{
 		"id": "tot-voice",
@@ -174180,7 +174460,7 @@ const WORDS = [
 	},
 	{
 		"id": "null",
-		"word": "無の、無効の、零、ナル、ヌル",
+		"word": "Null",
 		"era": "Latin ne (not) + ullus (any)",
 		"etymology": {
 			"components": [
@@ -174199,11 +174479,12 @@ const WORDS = [
 			"points": [
 				"存在の主権。"
 			]
-		}
+		},
+		"meaning": "無の、無効の、零、ナル、ヌル"
 	},
 	{
 		"id": "nullify",
-		"word": "無効にする、取り消す、(……を)無にする、ヌリファイ",
+		"word": "Nullify",
 		"era": "Latin nullus + facere",
 		"etymology": {
 			"components": [
@@ -174222,11 +174503,12 @@ const WORDS = [
 			"points": [
 				"存在の主権。"
 			]
-		}
+		},
+		"meaning": "無効にする、取り消す、(……を)無にする、ヌリファイ"
 	},
 	{
 		"id": "annul",
-		"word": "無効にする、取り消す、(結婚などを)無効と宣告する、アナル",
+		"word": "Annul",
 		"era": "Latin ad + nullus",
 		"etymology": {
 			"components": [
@@ -174245,7 +174527,8 @@ const WORDS = [
 			"points": [
 				"存在の主権。"
 			]
-		}
+		},
+		"meaning": "無効にする、取り消す、(結婚などを)無効と宣告する、アナル"
 	},
 	{
 		"id": "nul-voice",
@@ -174297,7 +174580,7 @@ const WORDS = [
 	},
 	{
 		"id": "rejuvenate",
-		"word": "若返らせる、活気を取り戻させる、リジューブネイト",
+		"word": "Rejuvenate",
 		"era": "Latin re + juvenis",
 		"etymology": {
 			"components": [
@@ -174317,7 +174600,8 @@ const WORDS = [
 			"points": [
 				"存在の鮮度。"
 			]
-		}
+		},
+		"meaning": "若返らせる、活気を取り戻させる、リジューブネイト"
 	},
 	{
 		"id": "juv-voice",
@@ -174369,7 +174653,7 @@ const WORDS = [
 	},
 	{
 		"id": "senior",
-		"word": "年上の、上位の、先輩、シニア",
+		"word": "Senior",
 		"era": "Latin senex",
 		"etymology": {
 			"components": [
@@ -174388,11 +174672,12 @@ const WORDS = [
 			"points": [
 				"存在の鮮度。"
 			]
-		}
+		},
+		"meaning": "年上の、上位の、先輩、シニア"
 	},
 	{
 		"id": "senate",
-		"word": "参議院、上院、元老院、セネート",
+		"word": "Senate",
 		"era": "Latin senex",
 		"etymology": {
 			"components": [
@@ -174410,11 +174695,12 @@ const WORDS = [
 			"points": [
 				"存在の鮮度。"
 			]
-		}
+		},
+		"meaning": "参議院、上院、元老院、セネート"
 	},
 	{
 		"id": "senile",
-		"word": "老人の、老いぼれた、ボケた、セナイル",
+		"word": "Senile",
 		"era": "Latin senex",
 		"etymology": {
 			"components": [
@@ -174433,11 +174719,12 @@ const WORDS = [
 			"points": [
 				"存在の鮮度。"
 			]
-		}
+		},
+		"meaning": "老人の、老いぼれた、ボケた、セナイル"
 	},
 	{
 		"id": "senescence",
-		"word": "老境、老化(期)",
+		"word": "Senescence",
 		"era": "Latin senex",
 		"etymology": {
 			"components": [
@@ -174457,7 +174744,8 @@ const WORDS = [
 			"points": [
 				"存在の鮮度。"
 			]
-		}
+		},
+		"meaning": "老境、老化(期)"
 	},
 	{
 		"id": "sen-voice",
@@ -174509,7 +174797,7 @@ const WORDS = [
 	},
 	{
 		"id": "novel",
-		"word": "新しい、目新しい、斬新な、(長編)小説、ノベル",
+		"word": "Novel",
 		"era": "Latin novus",
 		"etymology": {
 			"components": [
@@ -174528,11 +174816,12 @@ const WORDS = [
 			"points": [
 				"存在の鮮度。"
 			]
-		}
+		},
+		"meaning": "新しい、目新しい、斬新な、(長編)小説、ノベル"
 	},
 	{
 		"id": "novice",
-		"word": "初心者、初学者、ノビス",
+		"word": "Novice",
 		"era": "Latin novus",
 		"etymology": {
 			"components": [
@@ -174551,7 +174840,8 @@ const WORDS = [
 			"points": [
 				"存在の鮮度。"
 			]
-		}
+		},
+		"meaning": "初心者、初学者、ノビス"
 	},
 	{
 		"id": "nov-voice",
@@ -174603,7 +174893,7 @@ const WORDS = [
 	},
 	{
 		"id": "claustrophobia",
-		"word": "閉所恐怖症、クロストロフォビア",
+		"word": "Claustrophobia",
 		"era": "Latin claustrum + Greek phobos",
 		"etymology": {
 			"components": [
@@ -174622,11 +174912,12 @@ const WORDS = [
 			"points": [
 				"存在の引力。"
 			]
-		}
+		},
+		"meaning": "閉所恐怖症、クロストロフォビア"
 	},
 	{
 		"id": "acrophobia",
-		"word": "高所恐怖症、アクロフォビア",
+		"word": "Acrophobia",
 		"era": "Greek akros + phobos",
 		"etymology": {
 			"components": [
@@ -174645,7 +174936,8 @@ const WORDS = [
 			"points": [
 				"存在の引力。"
 			]
-		}
+		},
+		"meaning": "高所恐怖症、アクロフォビア"
 	},
 	{
 		"id": "pho-voice-2",
@@ -174697,7 +174989,7 @@ const WORDS = [
 	},
 	{
 		"id": "bibliophile",
-		"word": "愛書家、本好き、ビブリオファイル",
+		"word": "Bibliophile",
 		"era": "Greek biblion + philos",
 		"etymology": {
 			"components": [
@@ -174716,7 +175008,8 @@ const WORDS = [
 			"points": [
 				"存在の引力。"
 			]
-		}
+		},
+		"meaning": "愛書家、本好き、ビブリオファイル"
 	},
 	{
 		"id": "phi-voice",
@@ -174768,7 +175061,7 @@ const WORDS = [
 	},
 	{
 		"id": "misanthrope",
-		"word": "人間嫌い(の人)、人間を嫌う者、ミサンスロープ",
+		"word": "Misanthrope",
 		"era": "Greek misos + anthropos",
 		"etymology": {
 			"components": [
@@ -174787,11 +175080,12 @@ const WORDS = [
 			"points": [
 				"存在の引力。"
 			]
-		}
+		},
+		"meaning": "人間嫌い(の人)、人間を嫌う者、ミサンスロープ"
 	},
 	{
 		"id": "misogyny",
-		"word": "女性嫌い、女性への嫌悪、ミソジニー",
+		"word": "Misogyny",
 		"era": "Greek misos + gyne",
 		"etymology": {
 			"components": [
@@ -174810,11 +175104,12 @@ const WORDS = [
 			"points": [
 				"存在の引力。"
 			]
-		}
+		},
+		"meaning": "女性嫌い、女性への嫌悪、ミソジニー"
 	},
 	{
 		"id": "misology",
-		"word": "理屈嫌い、理論嫌い、ミソロジー",
+		"word": "Misology",
 		"era": "Greek misos + logos",
 		"etymology": {
 			"components": [
@@ -174833,7 +175128,8 @@ const WORDS = [
 			"points": [
 				"存在の引力。"
 			]
-		}
+		},
+		"meaning": "理屈嫌い、理論嫌い、ミソロジー"
 	},
 	{
 		"id": "mis-voice",
@@ -174885,7 +175181,7 @@ const WORDS = [
 	},
 	{
 		"id": "theology",
-		"word": "神学、テオロジー",
+		"word": "Theology",
 		"era": "Greek theos + logos",
 		"etymology": {
 			"components": [
@@ -174904,11 +175200,12 @@ const WORDS = [
 			"points": [
 				"存在の神殿。"
 			]
-		}
+		},
+		"meaning": "神学、テオロジー"
 	},
 	{
 		"id": "atheist",
-		"word": "無神論者、アテオリスト",
+		"word": "Atheist",
 		"era": "Greek a + theos",
 		"etymology": {
 			"components": [
@@ -174928,11 +175225,12 @@ const WORDS = [
 			"points": [
 				"存在の神殿。"
 			]
-		}
+		},
+		"meaning": "無神論者、アテオリスト"
 	},
 	{
 		"id": "pantheism",
-		"word": "汎神論、パンテイズム",
+		"word": "Pantheism",
 		"era": "Greek pan + theos",
 		"etymology": {
 			"components": [
@@ -174952,7 +175250,8 @@ const WORDS = [
 			"points": [
 				"存在の神殿。"
 			]
-		}
+		},
+		"meaning": "汎神論、パンテイズム"
 	},
 	{
 		"id": "the-voice-2",
@@ -175052,7 +175351,7 @@ const WORDS = [
 	},
 	{
 		"id": "anemia",
-		"word": "貧血、アネミア",
+		"word": "Anemia",
 		"era": "Greek a + haima",
 		"etymology": {
 			"components": [
@@ -175072,11 +175371,12 @@ const WORDS = [
 			"points": [
 				"存在の神殿。"
 			]
-		}
+		},
+		"meaning": "貧血、アネミア"
 	},
 	{
 		"id": "hemoglobin",
-		"word": "ヘモグロビン、血色素",
+		"word": "Hemoglobin",
 		"era": "Greek haima + Latin globus",
 		"etymology": {
 			"components": [
@@ -175095,11 +175395,12 @@ const WORDS = [
 			"points": [
 				"存在の神殿。"
 			]
-		}
+		},
+		"meaning": "ヘモグロビン、血色素"
 	},
 	{
 		"id": "hemorrhage",
-		"word": "出血、(財産などの)急激な損失、ヘモレージ",
+		"word": "Hemorrhage",
 		"era": "Greek haima + rhegnynai",
 		"etymology": {
 			"components": [
@@ -175118,7 +175419,8 @@ const WORDS = [
 			"points": [
 				"存在の神殿。"
 			]
-		}
+		},
+		"meaning": "出血、(財産などの)急激な損失、ヘモレージ"
 	},
 	{
 		"id": "hai-voice",
@@ -175170,7 +175472,7 @@ const WORDS = [
 	},
 	{
 		"id": "pyrotechnics",
-		"word": "花火製造術、花火、華々しい演出、パイロテクニクス",
+		"word": "Pyrotechnics",
 		"era": "Greek pyr + techne",
 		"etymology": {
 			"components": [
@@ -175189,11 +175491,12 @@ const WORDS = [
 			"points": [
 				"存在の元素。"
 			]
-		}
+		},
+		"meaning": "花火製造術、花火、華々しい演出、パイロテクニクス"
 	},
 	{
 		"id": "antipyretic",
-		"word": "解熱の、解解熱剤、アンチピレティック",
+		"word": "Antipyretic",
 		"era": "Greek anti + pyr",
 		"etymology": {
 			"components": [
@@ -175212,7 +175515,8 @@ const WORDS = [
 			"points": [
 				"存在の元素。"
 			]
-		}
+		},
+		"meaning": "解熱の、解解熱剤、アンチピレティック"
 	},
 	{
 		"id": "pyr-voice",
@@ -175264,7 +175568,7 @@ const WORDS = [
 	},
 	{
 		"id": "hydrogen",
-		"word": "水素、ハイドロゲン",
+		"word": "Hydrogen",
 		"era": "Greek hydro + gen",
 		"etymology": {
 			"components": [
@@ -175283,11 +175587,12 @@ const WORDS = [
 			"points": [
 				"存在の元素。"
 			]
-		}
+		},
+		"meaning": "水素、ハイドロゲン"
 	},
 	{
 		"id": "hydrant",
-		"word": "消火栓、給水栓、ハイドラント",
+		"word": "Hydrant",
 		"era": "Greek hydro",
 		"etymology": {
 			"components": [
@@ -175306,11 +175611,12 @@ const WORDS = [
 			"points": [
 				"存在の元素。"
 			]
-		}
+		},
+		"meaning": "消火栓、給水栓、ハイドラント"
 	},
 	{
 		"id": "hydraulic",
-		"word": "水力学の、水圧の、ハイドロリック",
+		"word": "Hydraulic",
 		"era": "Greek hydro + aulos",
 		"etymology": {
 			"components": [
@@ -175329,7 +175635,8 @@ const WORDS = [
 			"points": [
 				"存在の元素。"
 			]
-		}
+		},
+		"meaning": "水力学の、水圧の、ハイドロリック"
 	},
 	{
 		"id": "hyd-voice",
@@ -175357,7 +175664,7 @@ const WORDS = [
 	},
 	{
 		"id": "ether",
-		"word": "エーテル、大気の上層、(化学)エーテル",
+		"word": "Ether",
 		"era": "Greek ather",
 		"etymology": {
 			"components": [
@@ -175375,7 +175682,8 @@ const WORDS = [
 			"points": [
 				"存在の元素。"
 			]
-		}
+		},
+		"meaning": "エーテル、大気の上層、(化学)エーテル"
 	},
 	{
 		"id": "ath-voice",
@@ -175427,7 +175735,7 @@ const WORDS = [
 	},
 	{
 		"id": "helium",
-		"word": "ヘリウム",
+		"word": "Helium",
 		"era": "Greek helios",
 		"etymology": {
 			"components": [
@@ -175445,11 +175753,12 @@ const WORDS = [
 			"points": [
 				"存在の階層。"
 			]
-		}
+		},
+		"meaning": "ヘリウム"
 	},
 	{
 		"id": "heliotrope",
-		"word": "ヘリオトロープ(植物)、(古)血石、日の方向を向くもの",
+		"word": "Heliotrope",
 		"era": "Greek helios + trepein",
 		"etymology": {
 			"components": [
@@ -175468,11 +175777,12 @@ const WORDS = [
 			"points": [
 				"存在の階層。"
 			]
-		}
+		},
+		"meaning": "ヘリオトロープ(植物)、(古)血石、日の方向を向くもの"
 	},
 	{
 		"id": "heliocentric",
-		"word": "太陽中心の、ヘリオセントリック",
+		"word": "Heliocentric",
 		"era": "Greek helios + kentron",
 		"etymology": {
 			"components": [
@@ -175491,7 +175801,8 @@ const WORDS = [
 			"points": [
 				"存在の階層。"
 			]
-		}
+		},
+		"meaning": "太陽中心の、ヘリオセントリック"
 	},
 	{
 		"id": "hel-voice",
@@ -175543,7 +175854,7 @@ const WORDS = [
 	},
 	{
 		"id": "cosmic",
-		"word": "宇宙の、無限に広い、コスミック",
+		"word": "Cosmic",
 		"era": "Greek kosmos",
 		"etymology": {
 			"components": [
@@ -175562,11 +175873,12 @@ const WORDS = [
 			"points": [
 				"存在の階層。"
 			]
-		}
+		},
+		"meaning": "宇宙の、無限に広い、コスミック"
 	},
 	{
 		"id": "cosmology",
-		"word": "宇宙論、コスモロジー",
+		"word": "Cosmology",
 		"era": "Greek kosmos + logos",
 		"etymology": {
 			"components": [
@@ -175585,11 +175897,12 @@ const WORDS = [
 			"points": [
 				"存在の階層。"
 			]
-		}
+		},
+		"meaning": "宇宙論、コスモロジー"
 	},
 	{
 		"id": "cosmopolitan",
-		"word": "世界的な、国境にこだわらない(人)、コスモポリタン",
+		"word": "Cosmopolitan",
 		"era": "Greek kosmos + polis",
 		"etymology": {
 			"components": [
@@ -175608,7 +175921,8 @@ const WORDS = [
 			"points": [
 				"存在の階層。"
 			]
-		}
+		},
+		"meaning": "世界的な、国境にこだわらない(人)、コスモポリタン"
 	},
 	{
 		"id": "cos-voice",
@@ -175660,7 +175974,7 @@ const WORDS = [
 	},
 	{
 		"id": "meteor",
-		"word": "流星、メテオ",
+		"word": "Meteor",
 		"era": "Greek meteoros",
 		"etymology": {
 			"components": [
@@ -175679,7 +175993,8 @@ const WORDS = [
 			"points": [
 				"存在の階層。"
 			]
-		}
+		},
+		"meaning": "流星、メテオ"
 	},
 	{
 		"id": "met-voice",
@@ -175731,7 +176046,7 @@ const WORDS = [
 	},
 	{
 		"id": "credible",
-		"word": "信じられる、信頼できる、クリディブル",
+		"word": "Credible",
 		"era": "Latin credo",
 		"etymology": {
 			"components": [
@@ -175750,11 +176065,12 @@ const WORDS = [
 			"points": [
 				"存在の責務。"
 			]
-		}
+		},
+		"meaning": "信じられる、信頼できる、クリディブル"
 	},
 	{
 		"id": "fidelity",
-		"word": "忠実、貞節、(再生)の再現度、フィデリティ",
+		"word": "Fidelity",
 		"era": "Latin fides",
 		"etymology": {
 			"components": [
@@ -175773,11 +176089,12 @@ const WORDS = [
 			"points": [
 				"存在の責務。"
 			]
-		}
+		},
+		"meaning": "忠実、貞節、(再生)の再現度、フィデリティ"
 	},
 	{
 		"id": "confederation",
-		"word": "同盟、連合、連邦、コンフェデレーション",
+		"word": "Confederation",
 		"era": "Latin con + fides",
 		"etymology": {
 			"components": [
@@ -175797,7 +176114,8 @@ const WORDS = [
 			"points": [
 				"存在の責務。"
 			]
-		}
+		},
+		"meaning": "同盟、連合、連邦、コンフェデレーション"
 	},
 	{
 		"id": "fid-voice",
@@ -175825,7 +176143,7 @@ const WORDS = [
 	},
 	{
 		"id": "laboratory",
-		"word": "研究所、実験室、ラボラトリー",
+		"word": "Laboratory",
 		"era": "Latin labor",
 		"etymology": {
 			"components": [
@@ -175844,7 +176162,8 @@ const WORDS = [
 			"points": [
 				"存在の責務。"
 			]
-		}
+		},
+		"meaning": "研究所、実験室、ラボラトリー"
 	},
 	{
 		"id": "lab-voice",
@@ -175920,7 +176239,7 @@ const WORDS = [
 	},
 	{
 		"id": "seminar",
-		"word": "セミナー、演習、会合",
+		"word": "Seminar",
 		"era": "Latin semen",
 		"etymology": {
 			"components": [
@@ -175938,11 +176257,12 @@ const WORDS = [
 			"points": [
 				"存在の萌芽。"
 			]
-		}
+		},
+		"meaning": "セミナー、演習、会合"
 	},
 	{
 		"id": "seminal",
-		"word": "種子の、精液の、(将来に)影響力の大きい、セミナル",
+		"word": "Seminal",
 		"era": "Latin semen",
 		"etymology": {
 			"components": [
@@ -175961,7 +176281,8 @@ const WORDS = [
 			"points": [
 				"存在の萌芽。"
 			]
-		}
+		},
+		"meaning": "種子の、精液の、(将来に)影響力の大きい、セミナル"
 	},
 	{
 		"id": "sem-voice",
@@ -175989,7 +176310,7 @@ const WORDS = [
 	},
 	{
 		"id": "germ",
-		"word": "細菌、胚、(発達の)兆し、ジャーム",
+		"word": "Germ",
 		"era": "Latin germen",
 		"etymology": {
 			"components": [
@@ -176007,7 +176328,8 @@ const WORDS = [
 			"points": [
 				"存在の萌芽。"
 			]
-		}
+		},
+		"meaning": "細菌、胚、(発達の)兆し、ジャーム"
 	},
 	{
 		"id": "ger-voice",
