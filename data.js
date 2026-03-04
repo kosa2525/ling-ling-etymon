@@ -171590,5 +171590,309 @@ const WORDS = [
 				"存在の息吹。"
 			]
 		}
+	},
+	{
+		"id": "contemporary",
+		"word": "同時代の、現代の、(……と)同時代の人",
+		"era": "Latin con + tempus",
+		"etymology": {
+			"components": [
+				"con- (together)",
+				"tempus (time)"
+			],
+			"original_statement": "From Late Latin contemporarius, from Latin con- 'together' + tempus 'time'."
+		},
+		"concept": "Together in time (同じ時間を共有すること。孤独な二つの『主権（ステータス）』が一つの共有という名の台座（アーカイブ）へと降り立ち、一分一秒の淀みもなく自らの旋律（トーン）を同じ座標（ドット）の上にマージ（同期）させ合う、生の最もダイナミックな共鳴)",
+		"thinking": "「（宇宙という名の広大な孤独（アイソレーション）を、自分という名の磁場によって埋め尽くすために）共に（Con-）」「（一撃の同じ呼吸（ブレス）を合わせた）時間を（Tempor- / Tempus）」「共有する品質（-ary）」。それは単なる「同じ時代（データ）」ではありません。あなたが宇宙の「分離（アイソレーション）」を拒絶（レジスト）し、そこに自分たちが放つ「不滅のネットワーク（同期）」という名の設計図を打ち立て、屹立（スタンド）させ通している際の、魂の最高度の「デリバリー」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "時間と秩序の軌跡。",
+		"example": "Order is the change of time.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の変容。"
+			]
+		}
+	},
+	{
+		"id": "temporal",
+		"word": "時間的な、俗世の、現世の、こめかみの",
+		"era": "Latin tempus",
+		"etymology": {
+			"components": [
+				"tempus / temporis (time)",
+				"-al (related to)"
+			],
+			"original_statement": "From Old French temporel, from Latin temporalis 'pertaining to time', from tempus 'time'."
+		},
+		"concept": "Related to time (時間に関する品質。不滅の『ロゴス（真理）』を、物理的な『肉体』という名のビークル（有限）を通して、この世界の質量（ウェイト）へと具現化（コンバート）させるための不屈の制約)",
+		"thinking": "「（内なる深淵（ソース）を、あの日呼ばれた奇跡（トーン）とともに）、（一分一秒の淀みもなく）時間という枠組みの上に（Tempor- / Tempus）」「（一撃の確信のみをウェイトにして）屹立させた品質（-al）」。それは単なる「一時的（ソフト）」ではありません。あなたが「傍観者（スペクテイター）」であることを卒業し、自らが「宇宙の唯一の主権者（クリエイター）」として、世界を「自分という名の磁場が支配する制限された調和」へとコンバート（変容）させて（アップデートして）しまった瞬間の、知性の最高度の「掌握」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "時間と秩序の軌跡。",
+		"example": "Order is the change of time.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の変容。"
+			]
+		}
+	},
+	{
+		"id": "extempore",
+		"word": "即座の、即興の、準備なしの",
+		"era": "Latin ex + tempus",
+		"etymology": {
+			"components": [
+				"ex- (out of)",
+				"tempus (time)"
+			],
+			"original_statement": "From Latin ex tempore 'out of time / at the moment', from ex 'out of' + tempore, ablative of tempus 'time'."
+		},
+		"concept": "Out of time (（決められた）時間外に。準備という名の『安穏なスクリプト（設計図）』を粉砕（デストラクト）し、剥き出しの『今（パルス）』という名の深淵に対し、理知という名の冷徹なメスを一瞬で射し込み、宇宙の核心（ロゴス）を即座に再屹立させること)",
+		"thinking": "「（明日という名の絶望を愛撫するのをやめ、宇宙の深淵（ソース）から飛来する驚愕（パルス）だけを）、時間という制約を（Tempore）」「（一撃で）突き破って、外へと（Ex-）」。それは単なる「アドリブ」ではない。あなたが宇宙の「不在（アブセンス）」を拒絶（レジスト）し、そこに自分という名の「唯一無二の光源（センター）」を打ち立て、屹立（スタンド）させ通している（パシストしている）際の、魂の最高度の「跳躍」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "時間と秩序の軌跡。",
+		"example": "Order is the change of time.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の変容。"
+			]
+		}
+	},
+	{
+		"id": "tense",
+		"word": "時制、緊張した、張り詰めた、テンス",
+		"era": "Latin tempus (time) / tendere (stretch)",
+		"etymology": {
+			"components": [
+				"tempus (time)",
+				"tendere (to stretch)"
+			],
+			"original_statement": "Grammatical sense 'time' is from Old French tens, from Latin tempus 'time'. Sense 'stretched' is from Latin tensus, past participle of tendere 'to stretch'."
+		},
+		"concept": "Time or Stretched state (時間（時制）、あるいは引き伸ばされた状態。自らの呼吸（ブレス）という名の唯一の筆致を一瞬の標高（テンス）に固定するか、あるいは『ロゴス（真理）』という名の弦を極限まで引き絞り、宇宙という真理のアーカイブを射抜く準備を整えること)",
+		"thinking": "「（この虚無という名の、あの冷酷な絶壁の上に、自分の全質量（ウェイト）を射出するために）、時間そのもの（Tens- / Tempus）」。それは単なる「グラマー（マテリアル）」ではない。あなたが自らの「呼吸（ブレス）」を一分一秒の淀みもなく「光という名のベクトル」へと変換し、この荒野を「自分という名の磁場が支配する不滅のオーダー」へと一気にコンバート（変容）させる（アップデートする）際の、魂の最高度の「集中」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "時間と秩序の軌跡。",
+		"example": "Order is the change of time.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の変容。"
+			]
+		}
+	},
+	{
+		"id": "tem-voice",
+		"word": "Tem@Voice",
+		"meaning": "時の声、沈黙を刻限に変える不滅の咆哮、時間の響き",
+		"era": "Latin tempus + vox",
+		"etymology": {
+			"components": [
+				"tem (time / season / portion)",
+				"voice (sound / soul)"
+			],
+			"original_statement": "Coined during synthesis."
+		},
+		"concept": "The timely sound (時間としての音。放たれた瞬間、自らの呼吸（ブレス）を一筋の『光の刻印（ロゴス）』へと変換（コンバート）し、宇宙という真理のアーカイブの一角を、永遠に支配（ホールド）するデリバリー)",
+		"thinking": "「（自分のちっぽけな存在（ドット）の中に眠っていた、あの巨大な真理を）、（一撃の確信（アトラクション）を伴って）叫ぶ、時の声（Vox）」。ただの「叫び（エキスペル）」ではない。その声が響いた瞬間、周囲を覆っていた「虚無（アブセンス）」が物理的に一掃され、そこに「誰もが見落としていたたった一つの『今』という意味」が、戦慄という名のトーン（響き）を伴って再屹立（リリー・スタンド）してしまうような、生の最も峻烈な「射出」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "時間と秩序の軌跡。",
+		"example": "Order is the change of time.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の変容。"
+			]
+		}
+	},
+	{
+		"id": "tem-life",
+		"word": "Tem@Life",
+		"meaning": "時間としての生、一瞬一瞬を自己刻限の遷移として生きる一生",
+		"era": "Latin tempus + Germanic life",
+		"etymology": {
+			"components": [
+				"tem (time / season / portion)",
+				"life"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "The life of time (刻み続ける一生。一つの場所に安住する（アイソレーション）のを拒絶し、常に宇宙の最新の標高（アヴァン）へと自らを更新し続け、不滅 of 物語（スクリプト）を描き続ける不屈の遷移)",
+		"thinking": "「（明日という名の絶望（ブラックアウト）を愛撫するのをやめ、宇宙の深淵（ソース）から飛来する理知（ロゴス）だけを）」「（自らの魂を礎（ベース）にして）刻み続け、存在し続け（Tem- / Tempus）」「生き抜く（Life）」。あなたは自分の「呼吸（ブレス）」を、ただ無為に「消費（エキスペンド）」しているのではない。あなたが今日という日、どの「欺瞞（ノイズ）」を砕いて「新しい真理という名の座標（ドット）」を救い出し、どの「驚愕（パルス）」を自らの主権（ステータス）を屹立させるための「不動（ピース）」へと変貌（コンバート）させたか。そのすべての「記憶（デリバリー）」の軌跡が、宇宙という名の不変 of アーカイブの上に、あなたの「存在という名の不滅 of ロゴス」として、物理的な質量を持って刻まれ続けているのだ。時間としての生。それは、あなたが「宇宙の主権者（クリエイター）」として, この荒野を「美しき変革（ピース）」へと変容させ通した際の, 魂の最高度の「抱擁」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "時間と秩序の軌跡。",
+		"example": "Order is the change of time.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の変容。"
+			]
+		}
+	},
+	{
+		"id": "ordain",
+		"word": "(神などが)定める、(……を)授任する",
+		"era": "Latin ordo",
+		"etymology": {
+			"components": [
+				"ordo / ordinis (order)"
+			],
+			"original_statement": "From Old French ordener, from Latin ordinare 'to set in order / arrange / appoint', from ordo 'order'."
+		},
+		"concept": "To set in order / Appoint (秩序立てること、あるいは任命すること。主権という名の『王座（ステーション）』から放たれる不可避な咆哮。宇宙のアーカイブに対し、自らの『ロゴス（正義）』を、不動の質量を伴って屹立させる神聖な公式)",
+		"thinking": "「（宇宙という名の広大なキャンバスの上に、自分の筆致（スクリプト）を法として）、（一撃の情熱（アトラクション）を伴って）秩序づける、定める（Ord- / Ordo）」。それは単なる「予約」ではない。あなたが、宇宙という名のアーカイブの上に刻まれる唯一の「主権者（クリエイター）」であることを確信し、不条理という名の「ゴミ（ノイズ）」を粉砕し終えた際の、存在の最も峻烈な「凱旋」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "時間と秩序の軌跡。",
+		"example": "Order is the change of time.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の変容。"
+			]
+		}
+	},
+	{
+		"id": "ord-voice",
+		"word": "Ord@Voice",
+		"meaning": "整える声、沈黙を秩序に変える不滅の咆哮、配置の響き",
+		"era": "Latin ordo + vox",
+		"etymology": {
+			"components": [
+				"ord (order / rank / series / sequence)",
+				"voice (sound / soul)"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "The ordering sound (秩序としての音。放たれた瞬間、自らの呼吸（ブレス）を一筋の『光の王座（ロゴス）』へと変換（コンバート）し、宇宙という真理のアーカイブの一角を、永遠に支配（ホールド）するデリバリー)",
+		"thinking": "「（自分のちっぽけな存在（ドット）の中に眠っていた、あの巨大な真理を）、（一撃の情熱（アトラクション）を伴って）叫ぶ、秩の声（Vox）」。ただの「叫び（エキスペル）」ではない。その声が響いた瞬間、周囲を覆っていた「虚無（アブセンス）」が物理的に一掃され、そこに「誰もが見落としていたたった一つの意味」が、戦慄という名のトーン（響き）を伴って再屹立（リリー・スタンド）してしまうような、生の最も峻烈な「射出」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "時間と秩序の軌跡。",
+		"example": "Order is the change of time.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の変容。"
+			]
+		}
+	},
+	{
+		"id": "ord-life",
+		"word": "Ord@Life",
+		"meaning": "秩序としての生、一瞬一瞬を自己配置の遷移として生きる一生",
+		"era": "Latin ordo + Germanic life",
+		"etymology": {
+			"components": [
+				"ord (order / rank / series / sequence)",
+				"life"
+			],
+			"original_statement": "Coined during synthesis."
+		},
+		"concept": "The life of order (整え続ける一生。一つの場所に安住する（アイソレーション）のを拒絶し、常に宇宙の最新の標高（アヴァン）へと自らを更新し続け、不滅 of 物語（スクリプト）を描き続ける不屈의 遷移)",
+		"thinking": "「（明日という名の絶望（ブラックアウト）を愛撫するのをやめ、宇宙の深淵（ソース）から飛来する理知（ロゴス）だけを）」「（自らの魂を礎（ベース）にして）整え続け、存在し続け（Ord- / Ordo）」「生き抜く（Life）」。あなたは自分の「呼吸（ブレス）」を、ただ無為に「消費（エキスペンド）」しているのではない。あなたが今日という日、どの「欺瞞（ノイズ）」を砕いて「新しい真理という名の座標（ドット）」を救い出し、どの「驚愕（パルス）」を自らの主権（ステータス）を屹立させるための「不動（ピース）」へと変貌（コンバート）させたか。そのすべての「秩序（デリバリー）」の軌跡が、宇宙という名の不変 of アーカイブの上に、あなたの「存在という名の不滅 of ロゴス」として、物理的な質量を持って刻まれ続けているのだ。秩序としての生。それは、あなたが「宇宙の主権者（クリエイター）」として, この荒野を「美しき変革（ピース）」へと変容させ通した際の, 魂の最高度の「抱擁」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "時間と秩序の軌跡。",
+		"example": "Order is the change of time.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の変容。"
+			]
+		}
+	},
+	{
+		"id": "mutation",
+		"word": "変化、変異、突発的な変化、ミューテーション",
+		"era": "Latin mutare",
+		"etymology": {
+			"components": [
+				"mutare (to change)",
+				"-ation (state / result)"
+			],
+			"original_statement": "From Latin mutationem 'a changing / alteration / mutation', from mutatus, past participle of mutare 'to change / exchange / substitute'."
+		},
+		"concept": "The act of changing (変化すること。宇宙のステイシス（停滞）という名の『闇』に対し、一撃の跳躍という名の『驚愕（パルス）』を射出し、存在の形式（ロゴス）を一気に新しい標高（アヴァン）へと書き換えてしまう（コンバートする）こと)",
+		"thinking": "「（漂流していた、あの不確かな震え（パルス）を一分一秒の淀みもなくインスペクト（視認）し）、（一撃の情熱を伴って）変える（Mut- / Mutare）」「という、完了した確定の状態（-ation）」。それは単なる「おまけ（ソフト）」ではありません。あなたが宇宙の「不在（アブセンス）」を拒絶（レジスト）し、そこに自分という名の「唯一無二の物語（スクリプト）」を打ち立て、全世界の断片を「自分のための不滅のトーン」へと変容（コンバート）させて（屹立させて）しまった瞬間の、生の最高度の「躍動」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "時間と秩序の軌跡。",
+		"example": "Order is the change of time.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の変容。"
+			]
+		}
+	},
+	{
+		"id": "mutual",
+		"word": "相互の、共通の、共済の、ミューチュアル",
+		"era": "Latin mutare",
+		"etymology": {
+			"components": [
+				"mutare (to change)",
+				"-al (related to)"
+			],
+			"original_statement": "From Old French mutuel, from Latin mutuus 'reciprocal / done in return / borrowed', related to mutare 'to change'."
+		},
+		"concept": "Reciprocal / Exchanged (相互に（交換されるように）働き合う品質。孤独な二つの『主権（ステータス）』が一つの共有という名の台座（アーカイブ）へと降り立ち、一分一秒の淀みもなく自らの旋律（トーン）を『貸し借り（交換）』という名のロゴスによって同期（マージ）させ合う峻烈な共鳴)",
+		"thinking": "「（宇宙という名の広大な孤独（アイソレーション）を、自分という名の磁場によって埋め尽くすために）、相互に交換する（Mut- / Mutare）」「という品質（-al）」。それは単なる「お互い様（ソフト）」ではありません。あなたが宇宙の「分離（アイソレーション）」を拒絶（レジスト）し、そこに自分たちが放つ「不滅のネットワーク（交換）」という名の設計図を打ち立て、屹立（スタンド）させ通している際の、魂の最高度の「デリバリー」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "時間と秩序の軌跡。",
+		"example": "Order is the change of time.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の変容。"
+			]
+		}
+	},
+	{
+		"id": "mut-voice",
+		"word": "Mut@Voice",
+		"meaning": "変える声、沈黙を驚愕に変える不滅の咆哮、変異の響き",
+		"era": "Latin mutare + vox",
+		"etymology": {
+			"components": [
+				"mut (to change / substitute / exchange / shift)",
+				"voice (sound / soul)"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "The changing sound (変えるための音。放たれた瞬間、自らの呼吸（ブレス）を一筋の『光の矢（ベクトル）』へと変換（コンバート）し、宇宙という真理のアーカイブの一角を、永遠に躍動させるデリバリー)",
+		"thinking": "「（自分のちっぽけな存在（ドット）の中に眠っていた、あの巨大な真理を）、（一撃の情熱（アトラクション）を伴って）叫ぶ、変成の声（Vox）」。ただの「叫び（エキスペル）」ではない。その声が響いた瞬間、周囲を覆っていた「虚無（アブセンス）」が物理的に一掃され、そこに「誰もが見落としていたたった一つの『新しい秩序』の意味」が、戦慄という名のトーン（響き）を伴って再屹立（リリー・スタンド）してしまうような、生の最も峻烈な「射出」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "時間と秩序の軌跡。",
+		"example": "Order is the change of time.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の変容。"
+			]
+		}
+	},
+	{
+		"id": "mut-life",
+		"word": "Mut@Life",
+		"meaning": "変容としての生、一瞬一瞬を自己更新の遷移として生きる一生",
+		"era": "Latin mutare + Germanic life",
+		"etymology": {
+			"components": [
+				"mut (to change / substitute / exchange / shift)",
+				"life"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "The life of change (変容し続ける一生。一つの場所に安住する（アイソレーション）のを拒絶し、常に宇宙の最新の標高（アヴァン）へと自らを更新し続け、不滅 of 物語（スクリプト）を描き続ける不屈の遷移)",
+		"thinking": "「（明日という名の絶望（ブラックアウト）を愛撫するのをやめ、宇宙の深淵（ソース）から飛来する理知（ロゴス）だけを）」「（自らの魂を礎（ベース）にして）変わり続け、更新し続け（Mut- / Mutare）」「生き抜く（Life）」。あなたは自分の「呼吸（ブレス）」を、ただ無為に「消費（エキスペンド）」しているのではない。あなたが今日という日、どの「欺瞞（ノイズ）」を砕いて「新しい真理という名の座標（ドット）」を救い出し、どの「驚愕（パルス）」を自らの主権（ステータス）を屹立させるための「不動（ピース）」へと変貌（コンバート）させたか。そのすべての「更新（デリバリー）」の軌跡が、宇宙という名の不変 of アーカイブの上に、あなたの「存在という名の不滅 of ロゴス」として、物理的な質量を持って刻まれ続けているのだ。変容としての生。それは、あなたが「宇宙の主権者（クリエイター）」として, この荒野を「美しき変革（ピース）」へと変容させ通した際の, 魂の最高度の「抱擁」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "時間と秩序の軌跡。",
+		"example": "Order is the change of time.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の変容。"
+			]
+		}
 	}
 ];
