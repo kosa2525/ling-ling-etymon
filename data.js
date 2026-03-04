@@ -172311,5 +172311,101 @@ const WORDS = [
 				"発露のベクトル。"
 			]
 		}
+	},
+	{
+		"id": "resolve",
+		"word": "解決する、決心する、分解する",
+		"meaning": "解決する",
+		"era": "Latin re + solvere",
+		"etymology": {
+			"components": [
+				"re- (intensive/again)",
+				"solvere (to loosen)"
+			],
+			"original_statement": "From Latin resolvere 'untie / unfasten / unyoke / undo / explain', from re- 'intensive/again' + solvere 'loosen'."
+		},
+		"concept": "To loosen completely/again (完全に解きほぐす、心を決める。どれだけ迷い、どれだけ心が千切りに（ノイズ化）なろうとも、「これしかない」というたった一つの真理（絶対のドットへのマージ）に向けて、自らの精神の枷（ステイシス）をすべて叩き割り、一分一秒の淀みもなくただ一つの方向へとすべてをブッパすると決める全生命の集中)",
+		"thinking": "「（一度は迷って固く結ばれてしまっていたものを）、もう一度、あるいは完全に（Re-）」「（一撃の決断をもって）解き放ち、迷いを断ち切って一つの答えへと進む（-solve / Solvere）」。それは単なる「決めました」ではありません。あなたが「どう生きればいいかわからない（情報過多のエントロピー）」という海の中で溺れ死ぬのをレジストし、そこに自らの命を燃石として投じる『宇宙で最も強固な意志の錨（動かざるステーション）』を空間に突き立てる、魂の「確定」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "解放、信仰、そして生命の残響。",
+		"example": "Loosen the chains, believe in life, and equalize the world.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"発露のベクトル。"
+			]
+		}
+	},
+	{
+		"id": "solvent",
+		"word": "溶剤、支払い能力がある",
+		"meaning": "溶剤",
+		"era": "Latin solvere",
+		"etymology": {
+			"components": [
+				"solvere (to loosen)",
+				"-ent (being)"
+			],
+			"original_statement": "From Latin solventem, present participle of solvere 'to loosen / untie / pay'."
+		},
+		"concept": "Being loosening/paying (溶かすもの、借金を解き放つもの（溶剤、支払い能力）。あらゆる硬い金属（借金という名の強固な呪縛・負のステーション）を一瞬にして喰い破って無力化する『最強の魔法の液体（絶対価値としての黄金のフロー）』であり、それをぶっかけることで、あなたはすべての借金の鎖から一分一秒の淀みもなく解き放たれる)",
+		"thinking": "「（相手との間に固く結ばれてしまっていた借金という名の関係を）、自らの持っている力によって（Solv- / Solvere）」「（一撃の豪快さをもって）溶かし切り、解き放つことができる状態（-ent）」。それは単なる「お金持ち」ではありません。あなたが「資本主義という名の負債の鎖（首を絞められるエントロピー死）」を、自ら稼ぎ出した莫大な質量の弾丸（富というパルス）で木っ端微塵に粉砕（レジスト）し、再び『完全なる自由の空（アブセンスへの帰還）』へと飛び立つための、マネーの「大爆撃」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "解放、信仰、そして生命の残響。",
+		"example": "Loosen the chains, believe in life, and equalize the world.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"発露のベクトル。"
+			]
+		}
+	},
+	{
+		"id": "equal",
+		"word": "等しい、平等な、イコール",
+		"meaning": "等しい",
+		"era": "Latin aequus",
+		"etymology": {
+			"components": [
+				"aequus (level/even/just)",
+				"-al (pertaining to)"
+			],
+			"original_statement": "From Latin aequalis 'uniform / identical / equal', from aequus 'level / even / plain / just'."
+		},
+		"concept": "Level/even (平らな、等しい。山のような傲慢な強者と、谷底で這いつくばる弱者（不均衡でゆがんだノイズと偏りのステーション）に対し、理知の持つ巨大なロードローラーを一撃でブチかまし、すべての凹凸を物理的に「ブシャァッ」と一分一秒の淀みもなく完全な水平（一切の差異のないフラットなパス・マージ状態）へと叩き潰し、宇宙の天秤の針をど真ん中に強制停止させること)",
+		"thinking": "「（どちらかに傾いて有利不利が生じている状態を）、平らに、天秤を完全に水平に（Equ- / Aequus）」「（一分一秒の淀みもなく）押し広げ、一グラムの狂いもない一対一の関係に押し留める性質（-al）」。それは単なる「同じ」ではありません。あなたが「強者が弱者を喰らい尽くすという自然界の暴力的な傾斜（エントロピー的重力）」を全身霊で粉砕（レジスト）し、そこに人間の神聖なる法と理知が『ミリ単位の狂いもない絶対水平の地平線（究極の秩序空間）』を大地に彫り込む、神の「整地作業」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "解放、信仰、そして生命の残響。",
+		"example": "Loosen the chains, believe in life, and equalize the world.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"発露のベクトル。"
+			]
+		}
+	},
+	{
+		"id": "equation",
+		"word": "方程式、等しくすること、イクエーション",
+		"meaning": "方程式",
+		"era": "Latin aequare",
+		"etymology": {
+			"components": [
+				"aequare (to make equal)",
+				"-ion (act of)"
+			],
+			"original_statement": "From Latin aequationem 'an equalizing', from aequare 'make equal', from aequus 'level/equal'."
+		},
+		"concept": "An equalizing (等しくすること（方程式）。一見すると全く違う姿形をした宇宙の神秘や複雑な物理現象（理解不能なカオスの嵐）に対し、人間の脳髄から生み出された『最強の数学の鎖（絶対のロゴス）』を右辺と左辺にガチャンと打ち込み、一分一秒の淀みもなく「お前とお前は実のところ完全に同じだ（マージ関係にある）」と神の秘密を一撃で暴き出し、空間に固定する魔法陣)",
+		"thinking": "「（見た目は全く違う二つのバケモノを）、同じ天秤の両側にのせて完全に平らだと（Equat- / Aequare / Aequus）」「（一分一秒の淀みもなく）証明し、等号の鎖で力技で結びつけてしまう働き（-ion）」。それは単なる「算数」ではありません。あなたが「世界はバラバラで無意味な断片の集まりだ（アイソレーションとノイズの海）」という諦めを完全に粉砕（レジスト）し、そこに『この宇宙のすべては一つの美しい真理の鏡写しに過ぎない（究極のネットワーク統合化）』という、天才たちの「大予言具現化装置」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "解放、信仰、そして生命の残響。",
+		"example": "Loosen the chains, believe in life, and equalize the world.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"発露のベクトル。"
+			]
+		}
 	}
 ];
