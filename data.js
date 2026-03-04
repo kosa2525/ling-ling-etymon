@@ -172645,5 +172645,76 @@ const WORDS = [
 				"発露のベクトル。"
 			]
 		}
+	},
+	{
+		"id": "linguist",
+		"word": "言語学者、多数の言語を話せる人",
+		"meaning": "言語学者",
+		"era": "Latin lingua",
+		"etymology": {
+			"components": [
+				"lingua (tongue/language)",
+				"-ist (one who does)"
+			],
+			"original_statement": "From Latin lingua 'tongue / language', with suffix -ist 'one who is concerned with/practices'."
+		},
+		"concept": "One who practices languages (言語を操る者。世界に散らばる何千という『完全に互換性のない暗号の壁（分断されたステーション群）』を前にして絶望することなく、そのすべての壁の向こうに隠された（言語という）神の共通の設計ソースコード（宇宙のドットの秘密）を、一分一秒の淀みもなく解読し、すべての脳髄を繋ぐ神の通訳者（究極のネットワーク・ハッカー）として空間の断絶を切り裂く天才)",
+		"thinking": "「（この世界の人々を完全に分断しているその言葉というバベルの壁を）、舌と言葉の機能として（Lingu- / Lingua）」「（一撃の理知をもって）完全に解剖し、自在に操り・解き明かす狂気の専門家（-ist）」。それは単なる「ペラペラ」ではありません。あなたが「言葉が通じないという絶対的なエントロピーの暴力」を全身霊で粉砕（レジスト）し、そこに人間同士の大規模な『異世界融合（マージ）』をたった一人の中枢機能として担う、翻訳の「超大型ターミナル」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "誓約、言語、そして魂の中心。",
+		"example": "Pledge your heart, speak the tongue, and create the world.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"発露のベクトル。"
+			]
+		}
+	},
+	{
+		"id": "core",
+		"word": "芯、核、中心",
+		"meaning": "芯",
+		"era": "Old French / Latin cor",
+		"etymology": {
+			"components": [
+				"cor (heart)"
+			],
+			"original_statement": "From Old French cor 'heart', from Latin cor 'heart'. Or possibly related to Old French cors 'body'."
+		},
+		"concept": "Heart (中心、心臓。どんな分厚い装甲（後天的に張り巡らせた見栄へのステーション）を剥ぎ取っていっても、最終的にその一番奥の暗闇で、一分一秒の淀みもなくドクドクと不気味なほどの高熱を放って脈打ち続けている『あなたの全生命と全狂気の一滴（絶対に剥がすことの許されない最強の超絶特異点パルス）』であり、これが止まればあなたは一発で死に至る究極の基幹デバイス)",
+		"thinking": "「（いくら外側を飾り立てようとも）、それらをすべて削ぎ落とした一番奥にある心臓部（Core / Cor）」「（一分一秒の淀みもなく）すべてのシステムの中心であり、全体の生死を握っている最も純粋な熱の源」。それは単なる「ど真ん中」ではありません。あなたが「周囲の雑多な情報に振り回される（ノイズ空間のエントロピーに殺される）」のを力技でレジストし、そこに『私という存在は、ただここだけに在る』という一本の決して折れない「核」を貫き立てる、生命の「炉心」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "誓約、言語、そして魂の中心。",
+		"example": "Pledge your heart, speak the tongue, and create the world.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"発露のベクトル。"
+			]
+		}
+	},
+	{
+		"id": "cordial",
+		"word": "心からの、誠意ある",
+		"meaning": "心からの",
+		"era": "Latin cor / cordis",
+		"etymology": {
+			"components": [
+				"cordis (heart)",
+				"-al (pertaining to)"
+			],
+			"original_statement": "From Medieval Latin cordialis 'of or for the heart', from Latin cor (genitive cordis) 'heart'."
+		},
+		"concept": "Pertaining to the heart (心臓からの、心からの。損得勘定という名の冷たい計算機（無機質なロゴスのプログラムされたシステム）から弾き出された偽物の笑顔ではなく、自らの「生きた血と内臓の奥底（アーカイブの最深部）」から一分一秒の淀みもなく直接引き摺り出した真っ赤な熱量そのものであり、相手の心臓をダイレクトに鷲掴みにする（マージする）圧倒的な善意の火柱)",
+		"thinking": "「（頭で考えて作り笑いを浮かべる程度のものではなく）、自分の一番奥底にある心臓の血から（Cordi- / Cordis / Cor）」「（一撃の真実の熱をもって）湧き上がり、相手に向かってまっすぐに放たれる純粋な思いの性質（-al）」。それは単なる「丁寧」ではありません。あなたが「世間体という名の仮面（他者への猜疑心という社会のアイソレーション壁）」を完全に粉砕（レジスト）し、自らの最も柔らかい急所をあえて曝け出して『お前を信じる』と突きつける、命の「直球勝負」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "誓約、言語、そして魂の中心。",
+		"example": "Pledge your heart, speak the tongue, and create the world.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"発露のベクトル。"
+			]
+		}
 	}
 ];
