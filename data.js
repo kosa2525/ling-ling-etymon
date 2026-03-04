@@ -157526,5 +157526,597 @@ const WORDS = [
 				"未知の語源、既知の感動。"
 			]
 		}
+	},
+	{
+		"id": "deceive",
+		"word": "Deceive",
+		"meaning": "欺く、だます、思い違いをさせる",
+		"era": "Latin capere",
+		"etymology": {
+			"components": [
+				"de- (away)",
+				"capere (to take)"
+			],
+			"original_statement": "From Old French decevoir, from Latin decipere 'to ensnare / take away / deceive', from de- 'from / way' + capere 'to take'."
+		},
+		"concept": "Taking away / trapping (罠に掴むこと。視線を真実から『遠ざける』捕獲)",
+		"thinking": "「相手の目線を（De-）」「掴んで逸らす（Capere）」。相手の判断力を捕らえて、本来の正しい道から「引き離し（De-）」、誤った結論という名の檻へと閉じ込めること。欺くとは、単なる嘘ではなく、相手という物語の「操縦桿」を、本人の知らない間にこっそりと奪い取ってしまうという、知的な海賊行為なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "except",
+		"word": "Except",
+		"meaning": "…を除いて、除外する",
+		"era": "Latin capere",
+		"etymology": {
+			"components": [
+				"ex- (out)",
+				"capere (to take)"
+			],
+			"original_statement": "From Latin exceptus, from excipere 'to take out / withdraw / except', from ex- 'out' + capere 'to take'."
+		},
+		"concept": "Taking out (外へ連れ出すこと。典型からの慎重な引き抜き)",
+		"thinking": "「外へ（Ex-）」「取り出す（Capere）」。全体という名の巨大な袋の中から、特定の要素だけを「掴んで」外へ出し、別の場所に置くこと。例外（エクセプト）は、一様であるはずの世界を峻別し、ルールの及ばない「聖域」や「特異点」を創り出すことで、世界の複雑な「手触り」を維持するための理性の剪定作業なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "percieve",
+		"word": "Perceive",
+		"meaning": "知覚する、気づく、理解する",
+		"era": "Latin capere",
+		"etymology": {
+			"components": [
+				"per- (thoroughly)",
+				"capere (to take)"
+			],
+			"original_statement": "From Old French percevoir, from Latin percipere 'to obtain / gather / perceive / seize with the mind', from per- 'thoroughly' + capere 'to take'."
+		},
+		"concept": "Taking thoroughly (徹底的に掴むこと。意識による情報の完遂)",
+		"thinking": "「五感のすべてを通り抜けて（Per-）」「掴み尽くす（Capere）」。ただ目に映るだけでなく、対象の「本質」の隅ーまでに意識の手を伸ばし、自分の理解という名の器にしっかりと収めること。知覚（パーシーヴ）とは、外の世界のノイズを、あなたの魂が「意味」として完全に捕捉した際の、最も深い静止状態のことなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "precept",
+		"word": "Precept",
+		"meaning": "教訓、訓令、処方箋、(法)令状",
+		"era": "Latin capere",
+		"etymology": {
+			"components": [
+				"prae- (before)",
+				"capere (to take)"
+			],
+			"original_statement": "From Latin praeceptum 'maxim / rule / order', literally 'thing taken beforehand', from praecipere 'to advise / warn / instruct', from prae- 'before' + capere 'to take'."
+		},
+		"concept": "Taken beforehand (事前に掴まれたもの。迷いのない行動の定規)",
+		"thinking": "「事に及ぶより先に（Prae-）」「掴んでおくべきこと（Capere）」。戦いや困難が起きる前に、あらかじめ「これだけは守れ」と言い渡された、不動の行動原理。教訓とは、混乱の中で視界が霞んだ時、手探りでも掴めるようにあらかじめ用意された、あなたの精神の「命綱」そのものなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "susceptible",
+		"word": "Susceptible",
+		"meaning": "影響を受けやすい、感受性の強い、許容できる",
+		"era": "Latin capere",
+		"etymology": {
+			"components": [
+				"sub- (under)",
+				"capere (to take)"
+			],
+			"original_statement": "From Latin susceptibilis, from suscipere 'to take up / support / sustain', from sub- 'under' + capere 'to take'."
+		},
+		"concept": "Able to be taken from under (下から掴まれやすい。門戸を開放した脆弱な美)",
+		"thinking": "「（相手の）下から（Sub-）」「掴まれる（Capere）」「可能性がある（-able）」。頑固に自分を閉ざすのではなく、外からの刺激や他者の情緒を、自分の懐深く（下から）スッと迎え入れてしまうこと。それは弱さではなく、世界の変化という風を全身で受け止めようとする、生命の最も「感じやすい」高潔な露出状態なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "capacity",
+		"word": "Capacity",
+		"meaning": "収容能力、容積、能力、資格",
+		"era": "Latin capere",
+		"etymology": {
+			"components": [
+				"capere (to take / hold)"
+			],
+			"original_statement": "From Latin capacitas 'breadth / width / capacity', from capax 'able to hold / broad', from capere 'to take / hold'."
+		},
+		"concept": "Being able to hold (収容できるという事実。満たされるのを待つ空虚)",
+		"thinking": "「掴み、保持すること（Capere）」の「度合い（-ity）」。あなたが今どれほど空っぽで、どれほど巨大な真実を、あるいはどれほど重い沈黙を、自分の内側に「そのままの形で」留めておけるか。容量（キャパシティ）とは、あなたがこれからの人生で「何者」になり得るかを規定する、内なる透明な建築物の広さを指しているのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "fact",
+		"word": "Fact",
+		"meaning": "事実、現実、真実",
+		"era": "Latin facere",
+		"etymology": {
+			"components": [
+				"facere (to do / make)"
+			],
+			"original_statement": "From Latin factum 'a thing done', originally from facere 'to do / make'."
+		},
+		"concept": "A thing done (成されたこと。不動の『結果』としての世界)",
+		"thinking": "「成された（Fact-）」こと。誰かがその手で作り出し、歴史という名の石版に刻んでしまった「確定した出来事」。事実は、あなたの解釈や願望を一切寄せ付けず、すでに「完成」してそこに存在している。事実を直視することは、世界の剥き出しの「結末（形）」と誠実に対話することなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "defect",
+		"word": "Defect",
+		"meaning": "欠点、欠陥、不足、亡命する",
+		"era": "Latin de- + facere",
+		"etymology": {
+			"components": [
+				"de- (away)",
+				"facere (to do / make)"
+			],
+			"original_statement": "From Latin defectus 'a deficiency / failure / revolt', originally 'a falling away / lack', from deficere 'to fail / leave / revolt', from de- 'away' + facere 'to do / make'."
+		},
+		"concept": "Undone / falling away (成されるべきことが『離れた』状態、不在という傷)",
+		"thinking": "「あるべき場所から（De-）」「作り（Facere）」が欠けている。完成へ向かうはずのプロセスが、何らかの理由で途切れ、そこに「空虚（穴）」が生まれてしまったこと。欠陥とは単なる「間違い」ではなく、あなたの意志が届かなかった「空白の叫び」であり、その不完全さこそが、次に何を「成すべきか」を教えてくれる指針となるのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "infect",
+		"word": "Infect",
+		"meaning": "感染させる、汚染する、(感情が)うつる",
+		"era": "Latin in- + facere",
+		"etymology": {
+			"components": [
+				"in- (into)",
+				"facere (to do / make)"
+			],
+			"original_statement": "From Latin infectus 'stained / dyed / corrupted', originally 'put into / dipped into', from inficere 'to dip into / stain / taint', from in- 'into / in' + facere 'to do / make'."
+		},
+		"concept": "Doing into (内側へ作り込むこと、他者の物語への密かな染料)",
+		"thinking": "「（相手の）内部へ（In-）」「染め上げる（Facere）」。本来は布を染料に「浸す」こと。自分の中にある色（情熱、あるいは毒）を、他者の細胞や精神の深奥へと「染み込ませ」、変容させてしまうこと。感染（インフェクト）とは、良い意味でも悪い意味でも、隔離されていた個体が、他者の本質と不可逆的に「混じり合ってしまう」瞬間の震えなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "fashion",
+		"word": "Fashion",
+		"meaning": "ファッション、流行、やり方、(形を)作る",
+		"era": "Latin factionem",
+		"etymology": {
+			"components": [
+				"facere (to do / make)"
+			],
+			"original_statement": "From Old French fasson 'face / appearance / design / shape / beauty / manner / characteristic', from Latin factionem 'a making / group of people', from facere 'to do / make'."
+		},
+		"concept": "A making / shaping (形作ること、時代の空気を纏うための身振り)",
+		"thinking": "「作る（Facere）」ことによって生まれた「形（Fasso-）」。単なる衣服ではなく、自分という内面を、社会という舞台に向けてどのような「姿」として「作り（塑造）」、提示するか。ファッションとは、言葉を使わずに自分を世界へ翻訳するための、最も即興的で、最も美的な「形作り（メイキング）」の術なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "faculty",
+		"word": "Faculty",
+		"meaning": "能力、機能、学部、教職員陣",
+		"era": "Latin facilis",
+		"etymology": {
+			"components": [
+				"facere (to do / make)"
+			],
+			"original_statement": "From Old French faculte, from Latin facultatem 'power / ability / resources / abundance', from facilis 'easy (to do)', from facere 'to do / make'."
+		},
+		"concept": "Ease of doing (成すことの容易さ、磨き上げられた生得的な力)",
+		"thinking": "「成すこと（Facere）」の「容易さ（Facil-）」。努力して四苦八苦するのではなく、そこにあるべき必然的な力として、サラリと世界に影響を及ぼせる「熟練した機能」。学部（ファカルティ）とは、その特定の「成し方」を極めた者たちが集い、世界を解析するための「専用の回路（知性）」を共有する聖域のことなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "benefit",
+		"word": "Benefit",
+		"meaning": "利益、恩恵、便益、給付金",
+		"era": "Latin bene + facere",
+		"etymology": {
+			"components": [
+				"bene (well)",
+				"facere (to do / make)"
+			],
+			"original_statement": "From Old French benefice, from Latin beneficium 'a kindness / favor / benefit', from bene 'well' + facere 'to do / make'."
+		},
+		"concept": "Well-done / doing well (善きことが成されること、命を潤す正の循環)",
+		"thinking": "「善きことを（Bene）」「成す（Facere）」。誰かの犠牲の上に成り立つ計算上の得（プロフィット）ではなく、世界全体に「恵みの雨」を降らせるような、本質的な善の連鎖。恩恵（ベネフィット）とは、あなたが誰かのために動いた熱量が、時を越えて別の誰かの「生きる力」へと変換され、巡り巡ってあなたの宇宙をも豊かにする、理性の祝福そのものなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "feat",
+		"word": "Feat",
+		"meaning": "偉業、功績、妙技",
+		"era": "Latin facere",
+		"etymology": {
+			"components": [
+				"facere (to do / make)"
+			],
+			"original_statement": "From Old French fait 'deed / action / fact', from Latin factum 'thing done'."
+		},
+		"concept": "The thing done (成されたこと、一瞬の火花が刻んだ永遠の証)",
+		"thinking": "「成された（Fact-）」こと。単なる作業ではない。困難を打ち破り、それまでの限界を越えて、世界に新しい「事実」を一つ書き足してしまったという勇気ある行いのこと。偉業（フィート）とは、あなたがその一瞬にすべてを懸け、運命を自分の方へ無理やり引き寄せることで作り上げた、最も輝かしい「生」の彫刻なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "attain",
+		"word": "Attain",
+		"meaning": "達成する、到達する、手に入れる",
+		"era": "Latin ad- + tangere",
+		"etymology": {
+			"components": [
+				"ad- (at)",
+				"tangere (to touch)"
+			],
+			"original_statement": "From Old French ateindre, from Latin attingere 'to touch / reach / arrive at', from ad- 'at' + tangere 'to touch'."
+		},
+		"concept": "Touching at (そこに触れること、指先が捉えた目的地の温度)",
+		"thinking": "「目的地に（Ad-）」「触れる（Tangere）」。遠くから眺めていた理想や目標に、ようやく自分の指先が触れ、その実体（温度や手触り）を確信できる瞬間のこと。達成（アテイン）とは、距離という名の不確実性をすべて踏破し、世界と自分が「一点」で完全に合流した、という物理的な歓喜の謂いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "contact",
+		"word": "Contact",
+		"meaning": "接触、連絡、コネ",
+		"era": "Latin con- + tangere",
+		"etymology": {
+			"components": [
+				"con- (together)",
+				"tangere (to touch)"
+			],
+			"original_statement": "From Latin contactus 'a touching / contact', from contingere 'to touch / reach', from con- 'together' + tangere 'to touch'."
+		},
+		"concept": "Touching together (共に触れ合うこと。二つの宇宙を繋ぐ火花)",
+		"thinking": "「共に（Con-）」「触れる（Tangere）」。隔離されていた二つの孤独な存在が、お互いの境界線を越えて「肌を合わせる」こと。それは単なる物理現象ではなく、情報の交換、感情の伝播、そして新しい関係性の誕生を告げる、沈黙の中の「最初の火花」なのです。触れた瞬間に、あなたはもう、一人のあなたではなくなります。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "contagion",
+		"word": "Contagion",
+		"meaning": "伝染、接触感染、(感情などの)感化、悪い影響",
+		"era": "Latin con- + tangere",
+		"etymology": {
+			"components": [
+				"con- (together)",
+				"tangere (to touch)"
+			],
+			"original_statement": "From Latin contagio 'a touching / contact', from contingere 'to touch / seize / happen', from con- 'together' + tangere 'to touch'."
+		},
+		"concept": "A touching together (共に触れること、見えない境界の消失と侵入)",
+		"thinking": "「共に（Con-）」「触れる（Tangere）」ことによって引き起こされる連鎖。ある特定の「状態」が、他者の器の中へと溢れ出し、混じり合ってしまうこと。それは恐怖の対象かもしれませんが、本質的には、私たちが「触れ合う」ことでお互いの物語を共有し、拒絶しようのない一つの「大きな生命のうねり」の中にある、という事実の激しい確認でもあるのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "contingent",
+		"word": "Contingent",
+		"meaning": "不測の、……に依存する、(軍隊の)分遣隊",
+		"era": "Latin con- + tangere",
+		"etymology": {
+			"components": [
+				"con- (together)",
+				"tangere (to touch)"
+			],
+			"original_statement": "From Latin contingentem 'happening / touching', from contingere 'to touch / participate / happen', from con- 'together' + tangere 'to touch'."
+		},
+		"concept": "Touching together (共に触れていること、隣接が生む不確かな連動)",
+		"thinking": "「何かに（Con-）」「くっついている（Tangere）」。それ自体で完結しておらず、隣にある別の事象に「触れている」からこそ、その運命が決まってしまうような、もろくも切ない「依存」の状態。不測（コンティンジェント）とは、世界が網の目のように触れ合っているからこそ起きる「予測不能なダンス」の一部なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "entire",
+		"word": "Entire",
+		"meaning": "全体の、完全な、そっくりの",
+		"era": "Latin in- + tangere",
+		"etymology": {
+			"components": [
+				"in- (not)",
+				"tangere (to touch)"
+			],
+			"original_statement": "From Old French entier, from Latin integrum 'whole / complete', literally 'untouched', from in- 'not' + tangere 'to touch'."
+		},
+		"concept": "Untouched (触れられていないこと。傷なき原初の完璧さ)",
+		"thinking": "「誰にも（In-）」「触れられていない（Tangere）」。外部からの干渉や搾取、あるいは時の風化によって一欠片も削り取られていない、原初のままの「清浄」な塊。全体（エンタイア）とは、単なる「全部」ではなく、何者にもその本質を侵されていない、穢れなき一つの「完成された物語」のことを指しているのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "intact",
+		"word": "Intact",
+		"meaning": "無傷の、損なわれていない、手つかずの",
+		"era": "Latin in- + tangere",
+		"etymology": {
+			"components": [
+				"in- (not)",
+				"tangere (to touch)"
+			],
+			"original_statement": "From Latin intactus 'untouched / uninjured / whole', from in- 'not' + tangere 'to touch'."
+		},
+		"concept": "Not touched (触れられていない。外敵から守り抜かれた静止)",
+		"thinking": "「一度も（In-）」「触れられたことがない（Tangere）」。激しい嵐や時代の変遷を潜り抜けながらも、その芯にある大切な部分は、誰の指も、誰の視線も届かぬまま、奇跡的に守り抜かれていること。無傷である（インタクタル）とは、外部というノイズに対して、断固として自分を渡し（明け渡し）ていないという、誇り高い「孤立の美」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "integrity",
+		"word": "Integrity",
+		"meaning": "誠実、真摯、整合性、完全な状態",
+		"era": "Latin integer",
+		"etymology": {
+			"components": [
+				"integer (whole / untouched)"
+			],
+			"original_statement": "From Latin integritas 'soundness / wholeness / integrity', from integer 'whole / untouched', from in- 'not' + tangere 'to touch'."
+		},
+		"concept": "The state of wholeness (完全であること。裏表のない無垢な魂の重み)",
+		"thinking": "「誰にも削り取られていない（Integer）」ことの「度合い（-ity）」。自分の信念の一部を誰かに売り渡したり、状況によって自分を切り売りしたりせず、どこから視られても一つの「一貫した塊」として存在し続ける強さ。誠実（インテグリティ）とは、自分という物語を、誰の指先（誘惑や恐怖）にも汚させない、という魂の「防護壁」そのものなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "tangent",
+		"word": "Tangent",
+		"meaning": "接線、タンジェント、(話が)急にそれる",
+		"era": "Latin tangere",
+		"etymology": {
+			"components": [
+				"tangere (to touch)"
+			],
+			"original_statement": "From Latin tangentem, present participle of tangere 'to touch'."
+		},
+		"concept": "Touching (触れている一線、接点という名の刹那の共生)",
+		"thinking": "「（一瞬だけ）触れている（Tange-）」こと。円の周りをかすめるように、ただ「一点」だけで外部の世界とコンタクトをとり、そのまま未知の方向へと走り去る直線。脱線（タンジェント）は間違いではなく、メインの物語という円の境界線に一瞬だけ触れ、そこから全く別の「宇宙」を切り裂こうとする、知性の急な方向転換のスリルなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "tactful",
+		"word": "Tactful",
+		"meaning": "機転の利く、気が利く、如才ない",
+		"era": "Latin tangere",
+		"etymology": {
+			"components": [
+				"tact (touch)",
+				"-ful (full of)"
+			],
+			"original_statement": "From tact + -ful, originally from Latin tactus 'a touching / sense of touch', from tangere 'to touch'."
+		},
+		"concept": "Full of the sense of touch (触覚に満ちている。心の手触りを察する知性)",
+		"thinking": "「触れる感覚（Tact）」が「充満している（-ful）」。相手の心の薄い膜を、土足で踏みにじるのではなく、そっと、絹のような繊細な「指先の感覚」で撫でるように、今の空気を察知し、最適な一言を置くこと。気が利く（タクトフル）とは、見えない「心という肌」に対する、最も親密で高度な「礼儀」としての知性なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "tactile",
+		"word": "Tactile",
+		"meaning": "触覚の、触れる、感触のある",
+		"era": "Latin tangere",
+		"etymology": {
+			"components": [
+				"tangere (to touch)"
+			],
+			"original_statement": "From Latin tactilis 'that may be touched', from tactus 'a touching'."
+		},
+		"concept": "Of the sense of touch (触れることの、指先から始まる思考)",
+		"thinking": "「触れること（Tact-）」にまつわる知覚。言葉や論理が届かない場所に、あなたは直接指を伸ばし、世界の「凹凸」や「滑らかさ」を読み取っていく。触覚的（タクタイル）な経験は、あなたの中にある最も原始的な「信頼の回路」を揺り起こし、世界が自分とは別の「生きた実体」であることを、血液の温度を通して教えてくれるのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "contiguity",
+		"word": "Contiguity",
+		"meaning": "隣接、接触、近接性",
+		"era": "Latin con- + tangere",
+		"etymology": {
+			"components": [
+				"con- (together)",
+				"tangere (to touch)"
+			],
+			"original_statement": "From Latin contiguitas, from contiguus 'bordering on / touching', from contingere 'to touch'."
+		},
+		"concept": "Touching together (共に触れ合っていること、連続する空間の糸)",
+		"thinking": "「お互いに（Con-）」「触れ合っている（Tangere）」状態。バラバラの個体が、その境界線を接点（インターフェース）として共有し、一つの「流れ」や「列」を形成していること。隣接（コンティギュイティ）は、孤立を拒否した物質たちの「親密さの総計」であり、世界をバラバラの破片に分解させないための、見えない「表面張力」のような愛の引力なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "intangible",
+		"word": "Intangible",
+		"meaning": "触れることができない、無形の、不可解な",
+		"era": "Latin in- + tangere",
+		"etymology": {
+			"components": [
+				"in- (not)",
+				"tangere (to touch)"
+			],
+			"original_statement": "From Latin intangibilis, from in- 'not' + tangibilius 'touchable'."
+		},
+		"concept": "Not able to be touched (触れることが叶わないもの、光や想いの深淵)",
+		"thinking": "「指先で（Tangere）」「触れようとしても（-able）」「届かない、またはすり抜ける（In-）」。それは幽霊のようであり、愛のようでもあり、あるいは宇宙の真理のようです。無形である（インタンジブル）ことは欠落ではなく、あなたが物質という檻に囚われず、ただ「感じる」ことだけでその高貴な美しさを享受しなさい、という世界からの優しい呼びかけなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
 	}
 ];
