@@ -167105,5 +167105,445 @@ const WORDS = [
 				"存在の質感。"
 			]
 		}
+	},
+	{
+		"id": "credit",
+		"word": "信用、クレジット、名誉、(……の)功績を認める",
+		"era": "Latin credere",
+		"etymology": {
+			"components": [
+				"credere (to believe / trust)"
+			],
+			"original_statement": "From Latin creditum 'a loan / thing entrusted to another', past participle of credere 'to believe'."
+		},
+		"concept": "That which is trusted (信じられたもの。不確かな『カオス』の海に、自らの質量（ウェイト）という名の『信頼の錨（ロゴス）』を投げ込み、接続（マージ）を確定させること)",
+		"thinking": "「（この不毛な荒野（アイソレーション）において、他者の breath（呼吸）を一粒の真実（ソース）として）信じる（Cred- / Credere）」。それは単なる「安心（セーフティ）」ではない。あなたが自分の「主権（ステータス）」の一部を他者の魂へと預け（デリバリーし）、宇宙に新しい「見えない絆という名のネットワーク」を屹立（スタンド）させた際の、知性の最高度の「誓約」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "信頼の糸を紡ぎ出す。",
+		"example": "Trust is the foundation of all systems.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の祈り。"
+			]
+		}
+	},
+	{
+		"id": "incredible",
+		"word": "信じられない、驚くべき、信じがたいほど素晴らしい",
+		"era": "Latin in + credere",
+		"etymology": {
+			"components": [
+				"in- (not)",
+				"credere (to believe)",
+				"-ible (capable of)"
+			],
+			"original_statement": "From Latin incredibilis 'unbelievable', from in- 'not' + credere 'to believe'."
+		},
+		"concept": "Unable to be believed (信じることが不可能な。既存の『理知（ロゴス）』という名の檻を、一撃で粉砕し、脳がその存在（エグジスタンス）を理解するのを拒絶するほどの、圧倒的な瞬き)",
+		"thinking": "「（これまでの設計図（スクリプト）という名の、平穏なアーカイブの上に）信じ（Cred- / Credere）」「ることが可能な品質（-ible）」「を、一瞬でオーバーフロー（拒絶）させる存在（In-）」。それは「間違い」ではない。あなたが宇宙の「真の標高（アヴァン）」を真正面から浴び、自らの「貧弱な想像力（フィルター）」が、未知という名の巨大な引力（パワー）によって粉砕（デストラクト）された瞬間の、生の最も峻烈な「驚愕」の謂いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "信頼の糸を紡ぎ出す。",
+		"example": "Trust is the foundation of all systems.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の祈り。"
+			]
+		}
+	},
+	{
+		"id": "creed",
+		"word": "信念、信条、教義",
+		"era": "Latin credere",
+		"etymology": {
+			"components": [
+				"credere (to believe / trust)"
+			],
+			"original_statement": "From Latin credo 'I believe', from credere 'to believe'."
+		},
+		"concept": "The thing believed (信じていることそのもの。カオスという名の大地の上に、自らの呼吸（ブレス）を一筋の鋼の心棒（ロゴス）に変えて、絶対に譲らぬように打ち込んだ『不滅の杭』)",
+		"thinking": "「（流行という名の、あの軽薄な引力（グラビティ）を拒絶（レジスト）し）、自らの魂の深淵（ソース）にのみ繋ぎ合わされた、不変の『信条』（Cred- / Credere）」。それは単なる「意見」ではない。あなたが「宇宙の孤独」を自分という名の唯一のコンパスで切り裂き、そこに一生かけて屹立（スタンド）させ通す（パシストする）と誓った、主権の最も峻烈で、最も高貴な「物語（スクリプト）」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "信頼の糸を紡ぎ出す。",
+		"example": "Trust is the foundation of all systems.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の祈り。"
+			]
+		}
+	},
+	{
+		"id": "credential",
+		"word": "証書、資格、信用証明物",
+		"era": "Latin credere",
+		"etymology": {
+			"components": [
+				"credere (to believe)",
+				"-ial (related to)"
+			],
+			"original_statement": "From Medieval Latin credentialis, from Latin credentia 'belief / trust', from credere 'to believe'."
+		},
+		"concept": "Related to trust (信頼に関するもの。一人の人間という名の『未知（カオス）』の背景（バックグラウンド）に、客観的な『真実（ロゴス）』という名の品質（トーン）を授け、接続を許可するための鍵)",
+		"thinking": "「（他者が自らの孤独なテリトリー（領土）のゲートを開き、あなたという他者を招き入れる（インポートする）ために必要な）、信頼（Cred- / Credere）」という名の「物理的な証拠（-ential）」。それは単なる「紙切れ」ではありません。あなたがこれまでの人生（遷移）において、どのような「責任（ウェイト）」を背負い、どのような「アチーブメント（達成）」を射出（プロジェクト）し続けてきたか、その全歴史の集大成を「一粒の輝き（ロゴス）」へと結晶化させた、魂の最も実利的な「評価（ステータス）」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "信頼の糸を紡ぎ出す。",
+		"example": "Trust is the foundation of all systems.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の祈り。"
+			]
+		}
+	},
+	{
+		"id": "credulous",
+		"word": "信じやすい、だまされやすい",
+		"era": "Latin credere",
+		"etymology": {
+			"components": [
+				"credere (to believe)",
+				"-ulous (full of)"
+			],
+			"original_statement": "From Latin credulus 'believing / trusting / easy of belief', from credere 'to believe'."
+		},
+		"concept": "Full of belief (信じることに満ち溢れていること。理知という名の『防壁（レジスト）』を解除しすぎてしまい、他者の放つ『毒（インパルス）』や『虚偽（ノイズ）』さえも、自らの呼吸の一部として無防備に招き入れてしまう標高)",
+		"thinking": "「（他者の吐き出す、その不確かな言葉という名のカオスを、一切のインスペクション（視認）なしに）信じること（Cred- / Credere）」「に、あまりにも満ち溢れている（-ulous）」。それは「優しさ」ではありません。あなたが自らの「思考という名の主導（アヴァン）」を放棄し、他者の放つ「物語（スクリプト）」という名の引力（グラビティ）に、ただ受動的（パッシブ）に飲み込まれてしまっている、生の最も危うく「柔らかな」状態の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "信頼の糸を紡ぎ出す。",
+		"example": "Trust is the foundation of all systems.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の祈り。"
+			]
+		}
+	},
+	{
+		"id": "discredit",
+		"word": "信用を落とす、疑う、不信",
+		"era": "Latin dis + credere",
+		"etymology": {
+			"components": [
+				"dis- (apart / away)",
+				"credit (trust)"
+			],
+			"original_statement": "From French discréditer, from des- (dis-) 'apart' + créditer 'to believe'."
+		},
+		"concept": "Taking away trust (信頼を切り離し、遠ざけること。かつて繋ぎ合わされていた『絆（ロゴス）』という名の糸を、疑惑という名のメスで峻烈に切断し、存在を再び『孤独な虚無（カオス）』へと突き落とすこと)",
+		"thinking": "「（他者の屹立（スタンド）という標高（ステータス）を支えていた、あの信頼という名の台座を）離れた方向へと、あるいは破壊するように（Dis-）」「（一撃の否定（ノイズ）で）粉砕（デストラクト）し、信じることをやめる（Credit- / Credere）」。それは単なる「悪評」ではない。あなたが宇宙の「共鳴（コンカレンス）」を拒絶（レジスト）し、そこに「一つの断絶（カット）」という名の闇を射出し、かつての美しき物語を「ゴミという名のアーカイブ」へと変換（コバート）してしまった、理性の最も冷徹な「審判」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "信頼の糸を紡ぎ出す。",
+		"example": "Trust is the foundation of all systems.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の祈り。"
+			]
+		}
+	},
+	{
+		"id": "credence",
+		"word": "信用、信頼、(……を)信じること",
+		"era": "Latin credere",
+		"etymology": {
+			"components": [
+				"credere (to believe)",
+				"-ence (state)"
+			],
+			"original_statement": "From Old French credence, from Medieval Latin credentia 'belief / trust', from credere 'to believe'."
+		},
+		"concept": "The state of belief (信じているという、確定した状態。宙に浮いた言葉（パルス）が、自らの魂（スピリット）という理知の器（ベッセル）で受け止められ、不変の『真実（ロゴス）』へと結晶化したプロセス)",
+		"thinking": "「（ある特定の人物、あるいは事象という名の座標が、自分の生の設計図（スクリプト）の中に正しく組み込まれ）」「信じ、委ねられている（Cred- / Credere）」「という、継続的な屹立（-ence）」。それは単なる「確信」の欠片（フラグメント）ではない。あなたが宇宙の「孤独（アイソレーション）」を、信頼という名の「冷たい、しかし温かなロゴス」で埋め尽くし、世界を「自分という名の磁場が支配する安心（ピース）」へと強制的に変容させ終えた、という魂の最高度の「定数（ドット）」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "信頼の糸を紡ぎ出す。",
+		"example": "Trust is the foundation of all systems.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の祈り。"
+			]
+		}
+	},
+	{
+		"id": "cred-voice",
+		"word": "Cred@Voice",
+		"meaning": "信じる者の声、魂を繋ぎ合わす不滅の信頼の響き",
+		"era": "Latin credere + vox",
+		"etymology": {
+			"components": [
+				"cred (to believe / trust)",
+				"voice (sound / soul)"
+			],
+			"original_statement": "Coined during synthesis."
+		},
+		"concept": "The trusting sound (信じるための音。放たれた瞬間、周囲の『不信（カオス）』という名の霧を粉砕し、聴く者の魂に直接、信頼という名の『不滅の杭』を打ち込むデリバリー)",
+		"thinking": "「（自分と他者という名の、この隔絶された二つの宇宙（ユニバース）の間に）、一撃の真実という名の信頼を持って、言葉を繋ぎ合わせる（Cred-）」「声（Vox）」。ただの「情報（データ）」のデバリーではない。その声が響いた瞬間、聴く者は、自分の内なる「孤独（アイソレーション）」が物理的に溶解（ディゾルブ）されるのをインスペクト（視認）し、もはやあなたの「パルス（震え）」を自らの呼吸（ブレス）の一部として受け入れ（アクセプトし）、共に「一つの新しい物語（ロゴス）」を構築せずにはいられなくなるような、生の最も峻烈な「共鳴」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "信頼の糸を紡ぎ出す。",
+		"example": "Trust is the foundation of all systems.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の祈り。"
+			]
+		}
+	},
+	{
+		"id": "cred-life",
+		"word": "Cred@Life",
+		"meaning": "信じ抜く生、不確かな荒野を信頼の羅針盤で歩む遷移",
+		"era": "Latin credere + Germanic life",
+		"etymology": {
+			"components": [
+				"cred (to believe / trust)",
+				"life"
+			],
+			"original_statement": "Coined during synthesis."
+		},
+		"concept": "The life of belief (信じる一生。宇宙という名の虚無（カオス）にあっても、見えない絆（ロゴス）という名の設計図（スクリプト）を自分の一筆で描き続け、存在の質量を屹立させ続ける峻烈な遷移)",
+		"thinking": "「（明日という名の絶望（ブラックアウト）を愛撫するのをやめ、宇宙の深淵（ソース）から飛来する理知（ロゴス）だけを）」「（自らの魂を礎（ベース）にして）信じ抜き（Cred- / Credere）」「生き抜く（Life）」。あなたは自分の「呼吸（ブレス）」を、ただ無為に「消費（エキスペンド）」しているのではない。あなたが今日という日、どの「欺瞞（ノイズ）」を拒絶（レジスト）して「真実という名の座標（ドット）」を救い出し、どの「孤独」を自らの主権（ステータス）を屹立させるための「信頼」へと変貌（コンバート）させたか。そのすべての「誓約（アトラクション）」の軌跡が、あなたの人生という名の不滅のアーカイブの上に、世界で唯一無二の「不滅のロゴス」として、物理的な質量を持って刻まれ続けているのだ。信じ抜く生。それは、あなたが「宇宙の主権者（クリエイター）」として、この荒野を「美しき合意（ピース）」へと変容させ通した際の、魂の最高度の「抱擁」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "信頼の糸を紡ぎ出す。",
+		"example": "Trust is the foundation of all systems.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の祈り。"
+			]
+		}
+	},
+	{
+		"id": "pray",
+		"word": "祈る、願う、懇願する",
+		"era": "Latin precari",
+		"etymology": {
+			"components": [
+				"precari (to pray / entreat / beg)"
+			],
+			"original_statement": "From Old French preier 'to pray / beg', from Latin precari 'to pray / entreat / beg / beseech'."
+		},
+		"concept": "Entreating (懇願すること。自らの『孤独（アイソレーション）』という名の檻の中から、宇宙の深淵（ソース）という名の巨大な標高に向かって、救済を求めて射出される微かな呼吸（パルス）)",
+		"thinking": "「（この不毛な荒野（カオス）において、自分というちっぽけな存在（ドット）では支えきれなくなった運命（ウェイト）を）、宇宙の巨大な引力に向かって（向かって）」「（震えるような声（トーン）で）願い、繋ぎを求める（Pre- / Precari）」。それは「宗教」という名のシステム（設計図）の問題ではない。あなたが自らの「限界（リミット）」を理知的に認め、自らの呼吸（ブレス）を一筋の「希望という名の光（ベクトル）」へと変換し、暗闇の中に「あの日呼ばれた奇跡」を、もう一度だけデリバリー（射出）しようともがき屹立（スタンド）させた際の、魂の最も峻烈な「叫び」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "信頼の糸を紡ぎ出す。",
+		"example": "Trust is the foundation of all systems.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の祈り。"
+			]
+		}
+	},
+	{
+		"id": "deprecate",
+		"word": "不賛成を唱える、軽視する、非難する",
+		"era": "Latin de + precare",
+		"etymology": {
+			"components": [
+				"de- (away / off - reverse)",
+				"precare (to pray / ward off by prayer)"
+			],
+			"original_statement": "From Latin deprecatus, past participle of deprecari 'to ward off by prayer / entreat against / avert', from de- 'off' + precari 'to pray'."
+		},
+		"concept": "Praying away (祈って遠ざけること。ある特定の『価値（ステータス）』や『存在』を、自らの内なる正義という名のロゴスから剥ぎ取り、峻烈に『拒絶（レジスト）』の闇へと押し戻すこと)",
+		"thinking": "「（他者が掲げている、あの傲慢という名の偽りの標高を）離れた方向へと、あるいは下の方へと（De-）」「（そんなものは消えてしまえ、という呪いという名の祈りを込めて）遠ざけ、軽視する（Precat- / Precari）」。それは単なる「嫌悪（ディスライク）」ではない。あなたが宇宙の「美しき秩序（コンストラクション）」を守る（セーフガードする）ために、その不穏な「ノイズ（不整合）」を自らの主権という名のメスで切り裂き（カットし）、アーカイブの底へと放棄（エキスペンド）しようとする、理性の最も冷徹な「審判」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "信頼の糸を紡ぎ出す。",
+		"example": "Trust is the foundation of all systems.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の祈り。"
+			]
+		}
+	},
+	{
+		"id": "precatory",
+		"word": "懇願の、祈りの",
+		"era": "Latin precare",
+		"etymology": {
+			"components": [
+				"precare (to pray)",
+				"-ary (related to)"
+			],
+			"original_statement": "From Latin precatus, past participle of precari 'to pray'."
+		},
+		"concept": "Related to prayer (祈りに関する。理知という名の『武器』を捨て、ただ一人の脆弱な存在（エグジスタンス）として、宇宙の沈黙に一撃の震え（パルス）を投げかける品質)",
+		"thinking": "「（他者の心を、強制的な命令という名の鋼（ロゴス）で動かすのではなく）、（自らの脆さ（センス）をマテリアルにして）懇願し、祈る（Precat- / Precari）」「という、切実なトーン（-ory）」。それは「屈服（イレース）」ではありません。あなたが、他者の自発的な「愛（アトラクション）」という名の引力を引き出すために、あえて自分を「一筋の光（ベクトル）」へと細く、細く研ぎ澄ませて、相手の魂の深淵（ソース）へとデリバリー（射出）させた際の、知性の最も優雅な「献呈」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "信頼の糸を紡ぎ出す。",
+		"example": "Trust is the foundation of all systems.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の祈り。"
+			]
+		}
+	},
+	{
+		"id": "prayer",
+		"word": "祈り、祈答、祈願、プレイヤー",
+		"era": "Latin precare",
+		"etymology": {
+			"components": [
+				"precare (to pray)"
+			],
+			"original_statement": "From Old French preiere, from Latin precare 'to pray'."
+		},
+		"concept": "The act of praying (祈るという行為そのもの。沈黙（サイレンス）を一撃のロゴスで塗り替えるための、生の最も原始的な『射出（プロジェクト）』の形式)",
+		"thinking": "「（この呪われた現実（カオス）の中にあって、自分の呼吸（ブレス）を一時的に停止させ）、（宇宙の不変の真理（ソース）に向かって）祈り、願うこと（Pray- / Precari）」。それは単なる「願い事」ではない。あなたが「宇宙の孤独」を自らの主権という名の「不滅のロゴス」で埋め尽くそうとする、魂の最も峻烈な「挑戦（チャレンジ）」の谓い。祈りとは、あなたが「自分がただの塵（フラグメント）ではないこと」を、宇宙という名のアーカイブの上に物理的な質量（ウェイト）を持ってマニフェスト（表明）し通すための、生の最高度の「儀式（ステーション）」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "信頼の糸を紡ぎ出す。",
+		"example": "Trust is the foundation of all systems.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の祈り。"
+			]
+		}
+	},
+	{
+		"id": "prec-voice",
+		"word": "Prec@Voice",
+		"meaning": "祈りの声、沈黙を震わす懇願の咆哮、魂のデリバリー",
+		"era": "Latin precare + vox",
+		"etymology": {
+			"components": [
+				"prec (to pray / entreat)",
+				"voice (sound / soul)"
+			],
+			"original_statement": "Coined during synthesis."
+		},
+		"concept": "The praying sound (祈るための音。放たれた瞬間、自らの呼吸（ブレス）を、宇宙を貫く一筋の『光の矢（ベクトル）』へと変換し、目的地へと届くように射出されるデリバリー)",
+		"thinking": "「（自分のちっぽけな存在（ドット）では支えきれなくなった真実を）、（宇宙の巨大な耳（アーカイブ）に向かって、命懸け（パーフェクトに（で）））祈り、叫ぶ（Prec-）」「一撃の声（Vox）」。ただの「情報（データ）」のデリバリーではない。その声が響いた瞬間、周囲を覆っていた「虚無（アブセンス）」が物理的に一掃され、そこに「奇跡という名の新しい引力（アトラクション）」を引き寄せ、世界を「自分という名の磁場が支配する聖域」へとコンバート（変容）させてしまう、魂の最高度の「射出」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "信頼の糸を紡ぎ出す。",
+		"example": "Trust is the foundation of all systems.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の祈り。"
+			]
+		}
+	},
+	{
+		"id": "prec-life",
+		"word": "Prec@Life",
+		"meaning": "祈りとしての生、一瞬一瞬を救済の願いとして歩む遷移",
+		"era": "Latin precare + Germanic life",
+		"etymology": {
+			"components": [
+				"prec (to pray / beg)",
+				"life"
+			],
+			"original_statement": "Coined during synthesis."
+		},
+		"concept": "The life of prayer (祈る一生。この不毛な荒野（カオス）にあっても、見えない救い（ロゴス）という名の設計図（スクリプト）を描き続け、存在の質量を屹立させ続ける不屈の遷移)",
+		"thinking": "「（明日という名の絶望（ブラックアウト）を愛撫するのをやめ、宇宙の深淵（ソース）から飛来する理知（ロゴス）だけを）」「（自らの魂を礎（ベース）にして）祈り続け（Prec- / Precari）」「生き抜く（Life）」。あなたは自分の「呼吸（ブレス）」を、ただ無為に「消費（エキスペンド）」しているのではない。あなたが今日という日、どの「絶望（カオス）」を拒絶（レジスト）して「希望という名の座標（ドット）」を救い出し、どの「祈り」を自らの主権（ステータス）を屹立させるための「燃料（インパルス）」へと変貌（コンバート）させたか。そのすべての「願い（トーン）」の軌跡が、あなたの人生という名の不滅のアーカイブの上に、世界で唯一無二の「不滅のロゴス」として、物理的な質量を持って刻まれ続けているのだ。祈りとしての生。それは、あなたが「宇宙の主権者（クリエイター）」として、この荒野を「美しき合意（ピース）」へと変容させ通した際の、魂の最高度の「抱擁」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "信頼の糸を紡ぎ出す。",
+		"example": "Trust is the foundation of all systems.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の祈り。"
+			]
+		}
+	},
+	{
+		"id": "repetitive",
+		"word": "繰り返しの、何度も繰り返される",
+		"era": "Latin re + petere",
+		"etymology": {
+			"components": [
+				"re- (back / again)",
+				"petere (to seek / aim at)"
+			],
+			"original_statement": "From Latin repetitus, past participle of repetere 'to do or say again / attack again / seek again'."
+		},
+		"concept": "Seeking again and again (何度も、何度も、後ろを向いて追い求めること。一瞬の『瞬き（パルス）』で満足するのを拒絶し、同じ目的（ターゲット）へと向かって、不屈のリズム（トーン）で鋼の意志を射出し続けること)",
+		"thinking": "「（一度は掴み損ねた、あるいは一度は完了したはずの、あの標高に向かって）もう一度、後ろを向いて（Re-）」「（執念深く）追い求め、繰り返す（Petit- / Petere）」「という性質（-ive）」。それは単なる「飽き（ノイズ）」ではない。あなたが宇宙の「忘却（アイソレーション）」を拒絶（レジスト）し、そこに「不変の運動（サイクル）という名の、一つの不強固な設計図（スクリプト）」を構築（コンストラクト）し、自分という名の「呼吸（ブレス）」を、この荒野を一糸乱れぬ「不滅の旋律」へと変容させ通している際の、魂の最も峻烈な「持久」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "信頼の糸を紡ぎ出す。",
+		"example": "Trust is the foundation of all systems.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の祈り。"
+			]
+		}
+	},
+	{
+		"id": "perpetual",
+		"word": "永久の、絶え間のない、終身の",
+		"era": "Latin per + petere",
+		"etymology": {
+			"components": [
+				"per- (through)",
+				"petere (to seek / aim at)"
+			],
+			"original_statement": "From Latin perpetualis 'universal', from perpetuus 'continuous / universal', from per- 'through' + petere 'to seek / go to'."
+		},
+		"concept": "Seeking through (貫いて求め続けること。時間の終わり（デッドライン）さえも一撃で貫通（スルー）し、宇宙の全歴史を一つの『不変のロゴス（真理）』として支配し続ける、圧倒的な継続性)",
+		"thinking": "「（一時的な「瞬き（パルス）」という名の甘えを焼き捨て）、（永遠という名の、あの絶壁（アヴァン）を）貫いて、最後まで（Per-）」「（一点の曇りもなく（パーフェクトに））追い求め、射出し続ける（Pet- / Petere）」「という品質（-ual）」。それは単なる「長い（ロング）」ことではない。あなたが自らの「呼吸（ブレス）」を「宇宙の法（グレート・ルール）」そのものと一致させ（コンカレンスさせ）、自分の主権（ステータス）を、宇宙という名のアーカイブの上に「永遠の真理（ドット）」として不変に屹立（スタンド）させ通して（パシストして）いる、生の最も高貴で、最も峻烈な「完成」の謂いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "信頼の糸を紡ぎ出す。",
+		"example": "Trust is the foundation of all systems.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の祈り。"
+			]
+		}
+	},
+	{
+		"id": "pet-voice",
+		"word": "Pet@Voice",
+		"meaning": "求めゆく声、真理を射抜く執念の咆哮、嘆願の響き",
+		"era": "Latin petere + vox",
+		"etymology": {
+			"components": [
+				"pet (to seek / aim at / beg)",
+				"voice (sound / soul)"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "The seeking sound (求めるための音。放たれた瞬間、自らの呼吸（ブレス）を、宇宙の深淵（ソース）を貫く一筋の『光の矢（ベクトル）』へと変換し、目的地へと届くように射出されるデリバリー)",
+		"thinking": "「（自分のちっぽけな存在（ドット）では支えきれなくなった真実を）、（宇宙の巨大な耳（アーカイブ）に向かって、命懸け（パーフェクトに（で）））追い求め、叫ぶ（Pet-）」「一撃の声（Vox）」。ただの「情報（データ）」のデリバリーではない。その声が響いた瞬間、周囲を覆っていた「虚無（アブセンス）」が物理的に一掃され、そこに「奇跡という名の新しい引力（アトラクション）」を引き寄せ、世界を「自分という名の磁場が支配する聖域」へとコンバート（変容）させてしまう、魂の最高度の「射出」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "信頼の糸を紡ぎ出す。",
+		"example": "Trust is the foundation of all systems.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の祈り。"
+			]
+		}
+	},
+	{
+		"id": "pet-life",
+		"word": "Pet@Life",
+		"meaning": "求めゆく生、常に何かを射抜こうとする執念の遷移",
+		"era": "Latin petere + Germanic life",
+		"etymology": {
+			"components": [
+				"pet (to seek / aim at / rush)",
+				"life"
+			],
+			"original_statement": "Coined during synthesis."
+		},
+		"concept": "The life of seeking (求める一生。宇宙という名の虚無（カオス）にあっても、見えない救い（ロゴス）という名の設計図（スクリプト）を描き続け、存在の質量を屹立させ続ける不屈の遷移)",
+		"thinking": "「（明日という名の絶望（ブラックアウト）を愛撫するのをやめ、宇宙の深淵（ソース）から飛来する理知（ロゴス）だけを）」「（自らの魂を礎（ベース）にして）追い求め続け（Pet- / Petere）」「生き抜く（Life）」。あなたは自分の「呼吸（ブレス）」を、ただ無為に「消費（エキスペンド）」しているのではない。あなたが今日という日、どの「絶望（カオス）」を拒絶（レジスト）して「希望という名の座標（ドット）」を救い出し、どの「祈り」を自らの主権（ステータス）を屹立させるための「燃料（インパルス）」へと変貌（コンバート）させたか。そのすべての「願い（トーン）」の軌跡が、あなたの人生という名の不滅のアーカイブの上に、世界で唯一無二の「不滅のロゴス」として、物理的な質量を持って刻まれ続けているのだ。求めゆく生。それは、あなたが「宇宙の主権者（クリエイター）」として、この荒野を「美しき合意（ピース）」へと変容させ通した際の、魂の最高度の「抱擁」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "信頼の糸を紡ぎ出す。",
+		"example": "Trust is the foundation of all systems.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の祈り。"
+			]
+		}
 	}
 ];
