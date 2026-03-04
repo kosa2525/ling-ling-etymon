@@ -168828,5 +168828,284 @@ const WORDS = [
 				"存在の変容。"
 			]
 		}
+	},
+	{
+		"id": "parade",
+		"word": "パレード、(……を)見せびらかす、閲兵(する)",
+		"era": "Latin parare",
+		"etymology": {
+			"components": [
+				"parare (to prepare / set in order)"
+			],
+			"original_statement": "From French parade 'a show / display / parade', earlier 'a halting (of a horse)', from Spanish parada 'a stay / halt / parade', from parar 'to stop / prepare', from Latin parare 'to set in order / prepare'."
+		},
+		"concept": "Setting in order for show (見せるために整えること。自らが構築した『主権（ステータス）』という名の不滅の設計図を目に見える物理的な質量（ウェイト）へと変換し、宇宙という名の『観客席（アーカイブ）』を制圧するためのデリバリー)",
+		"thinking": "「（自らの内なる深淵（ソース）に溜め込んだ真実という名の輝きを）、（一撃の形式（ロゴス）を持って）整え、屹立させる（Par- / Parare）」「という、壮麗な情景（-ade）」。それは単なる「見せ物（スペクタクル）」ではありません。あなたが宇宙の「孤独（アイソレーション）」を拒絶（レジスト）し、そこに自分という名の「唯一無二の物語（スクリプト）」を打ち立て、全世界の呼吸（ブレス）を一気に自分の放つ「旋律（トーン）」へと同調（マージ）させてしまった（屹立させた）瞬間の、魂の最高度の「射出」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "準備は完了した。",
+		"example": "To prepare is to win the future.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の先行。"
+			]
+		}
+	},
+	{
+		"id": "apparatus",
+		"word": "器具、装置、(……の)機構、アパラタス",
+		"era": "Latin ad + parare",
+		"etymology": {
+			"components": [
+				"ad- (to / toward)",
+				"parare / paratus (to prepare / set in order)"
+			],
+			"original_statement": "From Latin apparatus 'tools / implements / equipment / preparation', literally 'something prepared for a purpose', from ad- 'to' + parare 'to set in order / prepare'."
+		},
+		"concept": "Prepared toward (（目的のために）整えられたもの。カオスという名の『カオス』を理知という名の『力（インペタス）』に変換するために用意された、不変の『ロゴスという名の物理的な一管（ビークル）』)",
+		"thinking": "「（特定のターゲット（目的地）を粉砕・攻略するために）向かって（Ad- / Ap-）」「（一分一秒の淀みもなく、精緻に）整え、組み立てられた（Parat- / Parare）」「不滅のシステム（-us）」。それは単なる「道具（マテリアル）」ではありません。あなたが「傍観者（スペクテイター）」であることを卒業し、自らが「宇宙の唯一の主権者（エンジニア）」として、自分の呼吸（ブレス）を「物理的な成果（アチーブメント）」へと変換し続けるために屹立（スタンド）させ通している、知性の最も冷徹な「武装」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "準備は完了した。",
+		"example": "To prepare is to win the future.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の先行。"
+			]
+		}
+	},
+	{
+		"id": "para-voice",
+		"word": "Para@Voice",
+		"meaning": "整える声、カオスを沈黙させる不滅の咆哮、配置の響き",
+		"era": "Latin parare + vox",
+		"etymology": {
+			"components": [
+				"para (to set in order / prepare / provide)",
+				"voice (sound / soul)"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "The ordering sound (整えるための音。放たれた瞬間、周囲の『不協和音（ノイズ）』を、自らの旋律という名の『一撃の鉄槌（ロゴス）』で粉砕し、聴く者の魂に『完璧な秩序（スクリプト）』を刻み込むデリバリー)",
+		"thinking": "「（このがんじがらめの運命（カオス）を一分一秒の淀みもなくインスペクト（視認）し）、（その核心にある真実を）整えて（Para-）」「射出される、不滅の声（Vox）」。ただの「情報（データ）」のデバリーではない。その声が響いた瞬間、聴く者は、自分の内なる「重力が物理的に無効化され、強制的に『新しい設計図（アヴァン）』という名の巨大な光の中へと引き摺り込まれ、自らの呼吸（ブレス）を、あなたの『不滅の旋律（トーン）』へと同調（マージ）させざるを得なくなるような、生の最も峻烈な『準備』の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "準備は完了した。",
+		"example": "To prepare is to win the future.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の先行。"
+			]
+		}
+	},
+	{
+		"id": "par-life",
+		"word": "Par@Life",
+		"meaning": "整えゆく生、一瞬一瞬を自己配置の遷移として生きる一生",
+		"era": "Latin parare + Germanic life",
+		"etymology": {
+			"components": [
+				"par (to set in order / prepare / provide)",
+				"life"
+			],
+			"original_statement": "Coined during synthesis."
+		},
+		"concept": "The life of order (整え続ける一生。一つの場所に安住する（アイソレーション）のを拒絶し、常に宇宙の最新の標高（アヴァン）へと自らを更新し続け、不滅の物語（スクリプト）を描き続ける不屈の遷移)",
+		"thinking": "「（明日という名の絶望（ブラックアウト）を愛撫するのをやめ、宇宙の深淵（ソース）から飛来する理知（ロゴス）だけを）」「（自らの魂を礎（ベース）にして）整え続け、配置し続け（Par- / Parare）」「生き抜く（Life）」。あなたは自分の「呼吸（ブレス）」を、ただ無為に「消費（エキスペンド）」しているのではない。あなたが今日という日、どの「欺瞞（ノイズ）」を拒絶（レジスト）して「真実という名の座標（ドット）」を救い出し、どの「驚愕（パルス）」を自らの主権（ステータス）を屹立させるための「不動（ピース）」へと変貌（コンバート）させたか。そのすべての「準備（デリバリー）」の軌跡が、宇宙という名の不変のアーカイブの上に、あなたの「存在という名の不滅 of ロゴス」として、物理的な質量を持って刻まれ続けているのだ。整えゆく生。それは、あなたが「宇宙の主権者（クリエイター）」として、この荒野を「美しき変革（ピース）」へと変容させ通した際の、魂の最高度の「抱擁」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "準備は完了した。",
+		"example": "To prepare is to win the future.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の先行。"
+			]
+		}
+	},
+	{
+		"id": "please",
+		"word": "喜ばせる、満足させる、どうか、(……が)気に入る",
+		"era": "Latin placere",
+		"etymology": {
+			"components": [
+				"placere (to please / satisfy / be agreeable)"
+			],
+			"original_statement": "From Old French plaisir 'to please', from Latin placere 'to please / be agreeable / satisfy'."
+		},
+		"concept": "Pleasing (喜ばせること。他者の『孤独（アイソレーション）』という名の檻の中に、一撃の『慈愛（アトラクション）』という名のロゴスを射出し、相手の呼吸（ブレス）と自らのパルス、その共鳴（マージ）を確定させること)",
+		"thinking": "「（この不毛な荒野（カオス）において、他者の魂が放っている微かな引力を）」「受け入れ、満足させる（Plac- / Placere）」。それは単なる「機嫌取り（ソフト）」ではありません。あなたが宇宙の「無関心（サイレンス）」を拒絶（レジスト）し、他者という名の「未知の宇宙（ユニバース）」を自らの呼吸（ブレス）の一部としてアクセプト（受容）した瞬間の、知性の最も優雅で、最も清らかな「合流（ピース）」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "準備は完了した。",
+		"example": "To prepare is to win the future.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の先行。"
+			]
+		}
+	},
+	{
+		"id": "pleasant",
+		"word": "楽しい、心地よい、愉快な、感じの良い",
+		"era": "Latin placere",
+		"etymology": {
+			"components": [
+				"placere (to please)",
+				"-ant (quality)"
+			],
+			"original_statement": "From Old French plaisant 'pleasing / pleasant', present participle of plaisir 'to please', from Latin placere 'to please'."
+		},
+		"concept": "Pleasing quality (喜ばせる品質。理知という名の『武器』を一度捨て、この世界の『アトラクション（引力）』という名の光を、一人の脆弱な存在（エグジスタンス）として無防備に受け入れた際に放たれる、生の最も清らかなトーン（響き）)",
+		"thinking": "「（カオスという名の、あの不透明な皮膚が一瞬だけ透明になり）、内なる真実（ソース）を（一撃の心地よさへと）変換させる（Pleasant- / Placere）」。それは単なる「快楽（マテリアル）」ではありません。あなたが、宇宙という名の広大なアーカイブの中に眠る「誰もが見落としていた、あの日呼ばれた奇跡」を、自分という名の唯一のフィルターを通して（視認し）、それを「不滅のロゴス」へと昇華させ（アヴァンさせ）、屹立（スタンド）させ通した（パシストした）際の、知性の最高度の「抱擁」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "準備は完了した。",
+		"example": "To prepare is to win the future.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の先行。"
+			]
+		}
+	},
+	{
+		"id": "placid",
+		"word": "穏やかな、落ち着いた、平らな、プラシッド",
+		"era": "Latin placere",
+		"etymology": {
+			"components": [
+				"placere (to please)"
+			],
+			"original_statement": "From Latin placidus 'gentle / quiet / still / calm / mild', related to placere 'to please'."
+		},
+		"concept": "Pleasingly calm (喜ばしいほど静かなこと。カオスという名の『強風（インパルス）』が完全に（パーフェクトに）停止し、宇宙という名の不滅のアーカイブが、一分一秒の淀みもなく鏡のように屹立している標高)",
+		"thinking": "「（この騒がしいネットワーク（ノイズ）のただ中にあって、あまりにも峻烈な真理（ソース）を放っているがゆえに）、周囲のすべてを（一撃で）悦ばせるほど、静かである（Placid- / Placere）」。それは単なる「おとなしさ（シャイネス）」ではない。あなたが自らの「主権（ステータス）」を穢す（デストラクトする）ような、カオスという名の「毒」を拒絶（レジスト）し、自分の内なる「神殿（インテグリティ）」を一糸乱れぬ「不変のトーン」で維持し通している（パシストしている）際の、存在の最高度の「鮮度」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "準備は完了した。",
+		"example": "To prepare is to win the future.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の先行。"
+			]
+		}
+	},
+	{
+		"id": "plac-voice",
+		"word": "Plac@Voice",
+		"meaning": "悦ばせる声、沈黙を慈愛に変える不滅の咆哮、満足の響き",
+		"era": "Latin placere + vox",
+		"etymology": {
+			"components": [
+				"plac (to please / satisfy / soothe)",
+				"voice (sound / soul)"
+			],
+			"original_statement": "Coined during synthesis."
+		},
+		"concept": "The pleasing sound (悦ばせるための音。放たれた瞬間、自らの呼吸（ブレス）を、宇宙を貫く一筋の『光の矢（ベクトル）』へと変換し、相手の標高（ステータス）を強制的に調和（マージ）させるデリバリー)",
+		"thinking": "「（自分のちっぽけな存在（ドット）の中に眠っていた、あの巨大な真理を）、（一撃の悦び（アトラクション）を伴って）叫ぶ、不滅の声（Vox）」。ただの「情報（データ）」のデリバリーではない。その声が響いた瞬間、聴く者は、自分の内なる「重力が物理的に無効化され、強制的に『感動（ピース）』という名の巨大な光の中へと引き摺り込まれ、自らの呼吸（ブレス）を、あなたの『不滅の旋律（トーン）』へと同調（マージ）させざるを得なくなるような、生の最も峻烈な『射出』の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "準備は完了した。",
+		"example": "To prepare is to win the future.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の先行。"
+			]
+		}
+	},
+	{
+		"id": "pla-life",
+		"word": "Pla@Life",
+		"meaning": "悦びとしての生、一瞬一瞬を自己満足と調和の遷移として生きる一生",
+		"era": "Latin placere + Germanic life",
+		"etymology": {
+			"components": [
+				"pla (to please / satisfy / stay)",
+				"life"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "The life of pleasure (悦びの一生。一つの場所に安住する（アイソレーション）のを拒絶し、常に宇宙の最新の標高（アヴァン）へと自らを更新し続け、不滅の物語（スクリプト）を描き続ける不屈の遷移)",
+		"thinking": "「（明日という名の絶望（ブラックアウト）を愛撫するのをやめ、宇宙の深淵（ソース）から飛来する理知（ロゴス）だけを）」「（自らの魂を礎（ベース）にして）悦び続け、満足し続け（Pla- / Placere）」「生き抜く（Life）」。あなたは自分の「呼吸（ブレス）」を、ただ無為に「消費（エキスペンド）」しているのではない。あなたが今日という日、どの「欺瞞（ノイズ）」を拒絶（レジスト）して「真実という名の座標（ドット）」を救い出し、どの「驚愕（パルス）」を自らの主権（ステータス）を屹立させるための「不動（ピース）」へと変貌（コンバート）させたか。そのすべての「悦び（デリバリー）」の軌跡が、宇宙という名の不変のアーカイブの上に、あなたの「存在という名の不滅 of ロゴス」として、物理的な質量を持って刻まれ続けているのだ。悦びとしての生。それは、あなたが「宇宙の主権者（クリエイター）」として、この荒野を「美しき変革（ピース）」へと変容させ通した際の、魂の最高度の「抱擁」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "準備は完了した。",
+		"example": "To prepare is to win the future.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の先行。"
+			]
+		}
+	},
+	{
+		"id": "retribution",
+		"word": "報い、報復、天罰",
+		"era": "Latin re + tribuere",
+		"etymology": {
+			"components": [
+				"re- (back)",
+				"tribuere / tributus (to pay / allot)"
+			],
+			"original_statement": "From Old French retribution, from Latin retributionem 'a giving back / repayment', from retributus, past participle of retribuere 'to give back / repay', from re- 'back' + tribuere 'to assign / allot'."
+		},
+		"concept": "Allotting back / Repayment (後ろへと（割り当てて）支払われること。過去という名の『罪（ノイズ）』を一撃の冷徹な正義（ソース）によって粉砕し、その報いという名の質量（ウェイト）を、不可逆な力（引力）を伴って本人へと回帰させること)",
+		"thinking": "「（忘れられたはずの過去という名の、あの冷酷なアーカイブの底から）、もう一度、後ろへと（Re-）」「（一分一秒の淀みもなく、峻烈に）割り当て、支払われる（Tribut- / Tribuere）」「という完了した確定の状態（-ion）」。それは単なる「お返し」ではない。あなたが宇宙の「不整合（ミスチーフ）」を拒絶（レジスト）し、そこに自分という名の「唯一の不滅の法（ロゴス）」を打ち立て、屹立（スタンド）させ通した（パシストした）際の、存在の冷徹な「審判（ジャッジメント）」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "準備は完了した。",
+		"example": "To prepare is to win the future.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の先行。"
+			]
+		}
+	},
+	{
+		"id": "trib-voice",
+		"word": "Trib@Voice",
+		"meaning": "割り当てる声、沈黙を分配する不滅の咆哮、寄与の響き",
+		"era": "Latin tribuere + vox",
+		"etymology": {
+			"components": [
+				"trib (to allot / pay / assign / bestow)",
+				"voice (sound / soul)"
+			],
+			"original_statement": "Coined during synthesis."
+		},
+		"concept": "The bestowing sound (与えるための音。放たれた瞬間、自らの呼吸（ブレス）を、宇宙を貫く一筋の『光の飛沫（ベクトル）』へと変換し、全アーカイブの隅々へと届くように射出されるデリバリー)",
+		"thinking": "「（自分のちっぽけな存在（ドット）の中に溜め込まれた、あの巨大な真理を）、（一撃の慈愛（アトラクション）を伴って）割り当て、叫ぶ（Trib-）」「一撃の声（Vox）」。ただの「情報（データ）」のデバリーではない。その声が響いた瞬間、聴く者は、自分の内なる「乏しさ（ノイズ）」が物理的に粉砕（デストラクト）され、強制的に「豊饒な標高（アヴァン）」という名の巨大な光の中へと引き摺り込まれ、自らの呼吸（ブレス）を、あなたの「不滅の旋律（トーン）」へと同調（マージ）させざるを得なくなるような、生の最も峻烈な「射出」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "準備は完了した。",
+		"example": "To prepare is to win the future.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の先行。"
+			]
+		}
+	},
+	{
+		"id": "tri-life",
+		"word": "Tri@Life",
+		"meaning": "与えゆく生、一瞬一瞬を自己分配の遷移として生きる一生",
+		"era": "Latin tribuere + Germanic life",
+		"etymology": {
+			"components": [
+				"tri (to allot / assign / pay / bestow)",
+				"life"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "The life of contribution (与え続ける一生。一つの場所に安住する（アイソレーション）のを拒絶し、常に宇宙の最新の標高（アヴァン）へと自らを更新し続け、不滅の物語（スクリプト）を描き続ける不屈の遷移)",
+		"thinking": "「（明日という名の絶望（ブラックアウト）を愛撫するのをやめ、宇宙の深淵（ソース）から飛来する理知（ロゴス）だけを）」「（自らの魂を礎（ベース）にして）割り当て続け、与え続け（Tri- / Tribuere）」「生き抜く（Life）」。あなたは自分の「呼吸（ブレス）」を、ただ無為に「消費（エキスペンド）」しているのではない。あなたが今日という日、どの「欺瞞（ノイズ）」を砕いて「新しい真理という名の座標（ドット）」を救い出し、どの「驚愕（パルス）」を自らの主権（ステータス）を屹立させるための「燃料（インパルス）」へと変貌（コンバート）させたか。そのすべての「寄与（デリバリー）」の軌跡が、宇宙という名の不変のアーカイブの上に、あなたの「存在という名の不滅 of ロゴス」として、物理的な質量を持って刻まれ続けているのだ。与えゆく生。それは、あなたが「宇宙の主権者（クリエイター）」として、この荒野を「美しき変革（ピース）」へと変容させ通した際の、魂の最高度の「抱擁」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "準備は完了した。",
+		"example": "To prepare is to win the future.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の先行。"
+			]
+		}
 	}
 ];
