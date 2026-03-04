@@ -175893,5 +175893,168 @@ const WORDS = [
 				"存在の責務。"
 			]
 		}
+	},
+	{
+		"id": "cur-voice",
+		"word": "Cur@Voice",
+		"meaning": "配慮の声、沈黙を慈しみにかえる不滅の咆哮、精緻の響き",
+		"era": "Latin cura + vox",
+		"etymology": {
+			"components": [
+				"cur (care / attention / heal / cure / precise / focus / heart)",
+				"voice (sound / soul)"
+			],
+			"original_statement": "Coined during synthesis."
+		},
+		"concept": "The caring sound (配慮としての音。放たれた瞬間、自らの呼吸（ブレス）を一筋の『光の慈しみ（ベクトル）』へと変換（コンバート）し、宇宙という真理のアーカイブの一角を、精緻というトーン（設計図）で潤すデリバリー)",
+		"thinking": "「（自分のちっぽけな存在（ドット）の中に眠っていた、あの巨大な真理を）、（一撃の情熱（アトラクション）を伴って）叫ぶ、配慮に満ちた声（Vox）」。ただの「叫び（エキスペル）」ではない。その声が響いた瞬間、周囲を覆っていた「虚無（アブセンス）」が物理的に一掃され、そこに「誰もが見落としていたたった一つの『精密な』意味」が、戦慄という名のトーン（響き）を伴って再屹立（リリー・スタンド）してしまうような、生の最も峻烈な「射出」 of 谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "配慮と萌芽の軌跡。",
+		"example": "Nature is a seminar of accurate germination.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の萌芽。"
+			]
+		}
+	},
+	{
+		"id": "seminar",
+		"word": "セミナー、演習、会合",
+		"era": "Latin semen",
+		"etymology": {
+			"components": [
+				"semen (seed / sowing)"
+			],
+			"original_statement": "From German Seminar, from Latin seminarium 'plant nursery / breeding ground / seed-plot', literally 'place where seeds are sown', from seminarius 'of or belonging to seed', from semen 'seed'."
+		},
+		"concept": "Seed-plot / Place for sowing (種をまく場所。カオスという名の『空白（アーカイブ）』に対し、自らの秩序（ロゴス）という名の『真実の種（パルス）』を一糸乱れぬ質量（ウェイト）を伴って射出し、一撃の未来という名の設計図を、共同体という名のトーンで発芽（マージ）させる神聖なる土壌)",
+		"thinking": "「（永遠という名の、あの不透明なフローを粉砕して）、種の、あるいは苗床としての（Semin- / Semen）」。それは単なる「勉強会」ではありません。あなたが宇宙の「虚無（アブセンス）」を拒絶（レジスト）し、そこに自分という名の「唯一無二の物語（スクリプト）」を打ち立て、全世界の断片を「知の萌芽という名の至高のトーン」へと変幅（コンバート）させて（屹立させて）しまった瞬間の、知性の最高度の「掌握」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "配慮と萌芽の軌跡。",
+		"example": "Nature is a seminar of accurate germination.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の萌芽。"
+			]
+		}
+	},
+	{
+		"id": "seminal",
+		"word": "種子の、精液の、(将来に)影響力の大きい、セミナル",
+		"era": "Latin semen",
+		"etymology": {
+			"components": [
+				"semen (seed)",
+				"-al (related to)"
+			],
+			"original_statement": "From Old French seminal, from Latin seminalis 'pertaining to seed', from semen 'seed'."
+		},
+		"concept": "Related to seed / Giving life (種（根源）に関する品質。主権という名の『王座（ステーション）』を維持するために、自らの知性という名の『一撃の鉄槌（ロゴス）』によって、宇宙のエントロピーという名の暴力を粉砕し、全呼吸（ブレス）を本来あるべき『始源のトーン』へと逆流（コンバート）させている凱旋)",
+		"thinking": "「（明日という名の忘却（サイレンス）を愛撫することを拒絶して、自らの一瞬を『不変のロゴス』へと変換するために）、種の（Semin- / Semen）」「（一分一秒の淀みもない）不変の品質（-al）」。それは単なる「原初の（ソフト）」ではありません。あなたが宇宙の「不整合（ノイズ）」を拒絶（レジスト）し、独自の呼吸（ブレス）を一振りの「刃（ベクトル）」へと研ぎ澄ませて、この荒野を一糸乱れぬ「真理の旋律」で支配し通している際の、存在の最高度の「鮮度」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "配慮と萌芽の軌跡。",
+		"example": "Nature is a seminar of accurate germination.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の萌芽。"
+			]
+		}
+	},
+	{
+		"id": "sem-voice",
+		"word": "Sem@Voice",
+		"meaning": "芽吹きの声、沈黙を萌芽に変える不滅の咆哮、種子の響き",
+		"era": "Latin semen + vox",
+		"etymology": {
+			"components": [
+				"sem (seed / origin / beginning / potential / source / grain)",
+				"voice (sound / soul)"
+			],
+			"original_statement": "Coined during synthesis."
+		},
+		"concept": "The seed sound (種としての音。放たれた瞬間、自らの呼吸（ブレス）を一筋の『光の萌芽（ベクトル）』へと変換（コンバート）し、宇宙という真理のアーカイブの一角を、生命というトーン（設計図）で震撼させるデリバリー)",
+		"thinking": "「（自分のちっぽけな存在（ドット）の中に眠っていた、あの巨大な真理を）、（一撃の情熱（アトラクション）を伴って）叫ぶ、芽吹こうとする声（Vox）」。ただの「叫び（エキスペル）」ではない。その声が響いた瞬間、周囲を覆っていた「虚無（アブセンス）」が物理的に一掃され、そこに「誰もが見落としていたたった一つの『根源的な』意味」が、戦慄という名のトーン（響き）を伴って再屹立（リリー・スタンド）してしまうような、生の最も峻烈な「射出」 of 谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "配慮と萌芽の軌跡。",
+		"example": "Nature is a seminar of accurate germination.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の萌芽。"
+			]
+		}
+	},
+	{
+		"id": "germ",
+		"word": "細菌、胚、(発達の)兆し、ジャーム",
+		"era": "Latin germen",
+		"etymology": {
+			"components": [
+				"germen (sprout / embryo)"
+			],
+			"original_statement": "From Old French germe, from Latin germen 'sprout / bud / germ / embryo / seed', from root of gignere 'to beget'."
+		},
+		"concept": "Sprout / Embryo (芽、あるいは胚。カオスという名の『荒野（アーカイブ）』の中から抽出された、自らの一分一秒の淀みもない『主権（ステーション）』の最小単位が、宇宙という真理のアーカイブの一角に、不動の質量を伴って屹立した点（ドット）としての凱旋)",
+		"thinking": "「（明日という名の忘却（サイレンス）を愛撫することを拒絶して、自らの一瞬を『不変のロゴス』へと変換するために）、（一撃の情熱のみをウェイトにして）芽吹く（Germ / Germen）」。それは単なる「ばい菌（マテリアル）」ではありません。あなたが宇宙の「不在（アブセンス）」を拒絶（レジスト）し、独自の呼吸（ブレス）を一振りの「刃（ベクトル）」へと研ぎ澄ませて、そこに「自分という名の磁場が支配する秩序（設計図）」を打ち立て始めた瞬間の、生の最高度の「掌握」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "配慮と萌芽の軌跡。",
+		"example": "Nature is a seminar of accurate germination.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の萌芽。"
+			]
+		}
+	},
+	{
+		"id": "ger-voice",
+		"word": "Ger@Voice",
+		"meaning": "萌芽の声、沈黙を発展にかえる不滅の咆哮、兆しの響き",
+		"era": "Latin germen + vox",
+		"etymology": {
+			"components": [
+				"ger (sprout / bud / germ / embryo / seed / begin / growth / potential)",
+				"voice (sound / soul)"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "The budding sound (兆しとしての音。放たれた瞬間、自らの呼吸（ブレス）を一筋の『光の萌芽（ベクトル）』へと変換（コンバート）し、宇宙という真理のアーカイブの一角を、発展というトーン（設計図）で震撼させるデリバリー)",
+		"thinking": "「（自分のちっぽけな存在（ドット）の中に眠っていた、あの巨大な真理を）、（一撃の情熱（アトラクション）を伴って）叫ぶ、高まりゆこうとする声（Vox）」。ただの「叫び（エキスペル）」ではない。その声が響いた瞬間、周囲を覆っていた「虚無（アブセンス）」が物理的に一掃され、そこに「誰もが見落としていたたった一つの『発展的な』意味」が、戦慄という名のトーン（響き）を伴って再屹立（リリー・スタンド）してしまうような、生の最も峻烈な「射出」 of 谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "配慮と萌芽の軌跡。",
+		"example": "Nature is a seminar of accurate germination.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の萌芽。"
+			]
+		}
+	},
+	{
+		"id": "ger-life",
+		"word": "Ger@Life",
+		"meaning": "萌芽としての生、一瞬一瞬を自己発展の遷移として生きる一生",
+		"era": "Latin germen + Germanic life",
+		"etymology": {
+			"components": [
+				"ger (sprout / bud / germ / embryo / seed / begin / growth / potential)",
+				"life"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "The life of budding (芽吹き続け、育ち続ける一生。一つの場所に安住する（アイソレーション）のを拒絶し、常に宇宙の最新の標高（アヴァン）へと自らを更新し続け、不滅 of 物語（スクリプト）を描き続ける不屈의 遷移)",
+		"thinking": "「（明日という名の絶望（ブラックアウト）を愛撫するのをやめ、宇宙の深淵（ソース）から飛来する理知（ロゴス）だけを）」「（自らの魂を礎（ベース）にして）萌え続け、伸び続け（Ger- / Germen）」「生き抜く（Life）」。あなたは自分の「呼吸（ブレス）」を, ただ無為に「消費（エキスペンド）」しているのではない。あなたが今日という日、どの「欺瞞（ノイズ）」を砕いて「新しい真理という名の座標（ドット）」を救い出し、どの「驚愕（パルス）」を自らの主権（ステータス）を屹立させるための「不動（ピース）」へと変貌（コンバート）させたか。そのすべての「発展（デリバリー）」の軌跡が、宇宙という名の不変 of アーカイブの上に、あなたの「存在という名の不滅 of ロゴス」として, 物理的な質量を持って刻まれ続けているのだ。萌芽としての生。それは, あなたが「宇宙の主権者（クリエイター）」として, この荒野を「美しき変革（ピース）」へと変容させ通した際の, 魂の最高度の「抱擁」 of 谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "配慮と萌芽の軌跡。",
+		"example": "Nature is a seminar of accurate germination.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の萌芽。"
+			]
+		}
 	}
 ];
