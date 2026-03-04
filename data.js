@@ -172908,5 +172908,238 @@ const WORDS = [
 				"発露のベクトル。"
 			]
 		}
+	},
+	{
+		"id": "donate",
+		"word": "寄付する、提供する",
+		"meaning": "寄付する",
+		"era": "Latin donare",
+		"etymology": {
+			"components": [
+				"donare (to give)"
+			],
+			"original_statement": "From Latin donatus, past participle of donare 'give as a gift', from donum 'gift'."
+		},
+		"concept": "To give as a gift (贈り物として与える（寄付する）。血みどろの「等価交換（宇宙のエントロピー保存則）」という冷酷な商取引を完全に無視し、自分の命の削りカスである『富（蓄積されたフローとドット）』を、一切の見返りも求めずに一分一秒の淀みもなく「ドンッ」と他者の空間へ丸ごと放り投げる、最も非合理的で気高い魂の大出血)",
+		"thinking": "「（交換条件や対価を一切求めることなく、相手のためだけに）、それ自体を純粋な贈り物として（Don- / Donare）」「（一分一秒の淀みもなく）引き渡し、自分の所有権を相手へとコンバートさせてしまう（-ate）」。それは単なる「募金」ではありません。あなたが「すべては自分のために溜め込むべきだ（極大ステイシスへの渇望）」という動物の本能をレジストし、そこに『自己犠牲という名の神聖なバグ（理不尽なまでの愛のマージ）』を発生させる、価値の「完全投棄」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "賦与、教導、そして形の創造。",
+		"example": "Give the data, teach the doctrine, and break the old forms.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"発露のベクトル。"
+			]
+		}
+	},
+	{
+		"id": "pardon",
+		"word": "許す、恩赦、パードン",
+		"meaning": "許す",
+		"era": "Latin per + donare",
+		"etymology": {
+			"components": [
+				"per- (completely)",
+				"donare (to give)"
+			],
+			"original_statement": "From Old French pardoner, from Late Latin perdonare 'to give completely / forgive', from per- 'completely' + donare 'to give'."
+		},
+		"concept": "To give completely (完全に与える、許す。絶対に殺して報復しなければならないはずの『極悪非道な罪（修正不可のシステム・エラー）』に対し、怒りに震える全霊の炎を自らの手で「スッ」と一撃で鎮火させ、その罪人の首にかかった死刑の鎖を一分一秒の淀みもなく「もういい」と完全に断ち切って命を『丸抱えで返す（再マージする）』神の業)",
+		"thinking": "「（お前への罰や怒りを、自分の中に溜め込むのではなく）、完全に、すべてを（Per-）」「（一撃の慈悲をもって）相手への恩赦として与えきり、もう二度と問い詰めない（-don / Donare）」。それは単なる「いいよ」ではありません。あなたが「やられたらやり返す（無限のノイズ増幅・カオスの連鎖）」という宇宙の暴力ループを完全に粉砕（レジスト）し、そこに人間の魂が自らの神聖さをもって『因果律そのものを断ち切る（負のフローの大切断）』、赦しの「超空間断層」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "賦与、教導、そして形の創造。",
+		"example": "Give the data, teach the doctrine, and break the old forms.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"発露のベクトル。"
+			]
+		}
+	},
+	{
+		"id": "data",
+		"word": "データ、資料",
+		"meaning": "データ",
+		"era": "Latin datus",
+		"etymology": {
+			"components": [
+				"datus (given)"
+			],
+			"original_statement": "From Latin data, plural of datum 'a given / that which is given', neuter past participle of dare 'to give'."
+		},
+		"concept": "That which is given (与えられたもの（データ）。人間の主観（嘘と欲望にまみれたドロドロのマージン）などというノイズを一切挟む余地を与えず、神の目から見て「これはこうである」と一撃で物理空間に叩きつけられた『純度100%・絶対無傷の点（最強の孤立ドット群）』であり、これが組み合わさって宇宙の全法則（ロゴス）を構築する絶対の真理ブロック)",
+		"thinking": "「（あやふやな予測や嘘ではなく、事実として最初から）、宇宙の理や観察から『与えられた』（Dat- / Datus / Dare）」「（一分一秒の淀みもなく）変更不可能な初期条件、あるいは絶対の記録（-a）」。それは単なる「数字の羅列」ではありません。あなたが「自分に都合の良いように世界を見たい（妄想というステイシス）」を物理的に粉砕（レジスト）され、そこに『これが現実だ（お前の命を削る冷徹なパラメーター）』と全能者が突きつけてくる、事実の「絶対杭」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "賦与、教導、そして形の創造。",
+		"example": "Give the data, teach the doctrine, and break the old forms.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"発露のベクトル。"
+			]
+		}
+	},
+	{
+		"id": "date",
+		"word": "日付、デート、ナツメヤシ",
+		"meaning": "日付",
+		"era": "Latin datus",
+		"etymology": {
+			"components": [
+				"datus (given)"
+			],
+			"original_statement": "From Latin data (in letters 'Data Romae...' = 'Given at Rome...'), from dare 'to give'. Sense of romance from 1890s."
+		},
+		"concept": "Given (letter) (与えられた（手紙）、日付。永遠に続くかのように見える『のっぺりとした時間（区別のつかないエントロピーの底）』に対し、自らの命が燃えた証（パルス）としての一突きを「ガシャン」と打ち込み、「私はこの時、確かにここに存在したのだ」と一分一秒の淀みもなく宇宙の歴史（アーカイブ）へ絶対的な証明印（ドット）を刻むこと)",
+		"thinking": "「（果てしない時間の荒野において、この手紙やこの事象が）、確実にその瞬間において『与えられ、作成された』（Dat- / Datus / Dare）」「（一撃のピンポイントな指定をもって）時間という座標上のたった一つの特別な点（-e）」。それは単なる「カレンダーの数字」ではありません。あなたが「自分の一夜の愛も、一生の苦労も、すべては時間に流されて消える（無意味アブセンスへの恐怖）」を完全に粉砕（レジスト）し、そこに『私とお前のこの瞬間の熱量を永遠に固定する（愛の永久マージ領域）』、時間の「強行セーブポイント」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "賦与、教導、そして形の創造。",
+		"example": "Give the data, teach the doctrine, and break the old forms.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"発露のベクトル。"
+			]
+		}
+	},
+	{
+		"id": "doctor",
+		"word": "医者、博士、ドクター",
+		"meaning": "医者",
+		"era": "Latin docere",
+		"etymology": {
+			"components": [
+				"docere (to teach)",
+				"-or (one who)"
+			],
+			"original_statement": "From Latin doctor 'teacher / instructor / scholar', from docere 'to show / teach / cause to know'."
+		},
+		"concept": "Teacher/scholar (教える者、医者や博士。病魔という名の狂気（肉体のカオス化）や無知という名の暗闇（脳関門のアブセンス）に対して、己の脳髄に詰め込んだ『数百万時間分の絶対的な真理と処方箋（超高密度のアーカイブ弾）』を一分一秒の淀みもなく「ズドン」とブチ込み、世界を「生きるべき正しき道（正常なネットワークのフロー）」へと強制的に軌道修正させる白衣の神)",
+		"thinking": "「（自らの経験と知識を蓄えただけにとどまらず、それを他者へと）、正しく導き、見せ、教え込む（Doct- / Docere）」「（一撃の権威と腕力を持った）最高峰の人間、あるいは生命の修復者（-or）」。それは単なる「お医者さん」ではありません。あなたが「すべては知らぬ間に朽ちて死んでいく（エントロピーへの完全降伏）」という悲劇を物理的に粉砕（レジスト）し、そこに人間の理知だけで『神の寿命すらコントロールしてみせる（システム・ステーションのバグ修正）』、知性の「最高責任者」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "賦与、教導、そして形の創造。",
+		"example": "Give the data, teach the doctrine, and break the old forms.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"発露のベクトル。"
+			]
+		}
+	},
+	{
+		"id": "doctrine",
+		"word": "教義、主義、ドクトリン",
+		"meaning": "教義",
+		"era": "Latin docere",
+		"etymology": {
+			"components": [
+				"doctrina (teaching)"
+			],
+			"original_statement": "From Latin doctrina 'teaching / body of instruction / learning', from doctor 'teacher'."
+		},
+		"concept": "Teaching/body of instruction (教え、教義。何百万人という人間のバラバラの魂（ノイズにまみれた方向性のないエントロピー）を、一撃でたった一つの巨大な大河（強烈なベクトルを持ったマージ・フロー）へとブチ流すべく、建国の父や宗教の開祖が自らの血で一分一秒の淀みもなく彫り上げた『二度と書き換え不可能な絶対の設計図（究極の中枢ロゴス）』)",
+		"thinking": "「（ただの思いつきなどではなく）、教えるに足る、人々が絶対に守るべき最高峰の教え（Doctr- / Doctrina / Docere）」「（一分一秒の淀みもなく）体系化され、国や集団の背骨として機能する強固なシステム（-ine）」。それは単なる「ルール」ではありません。あなたが「人間はそれぞれ勝手に生きるのが一番だ（無意味なランダム・カオス）」を完全に粉砕（レジスト）し、そこに『俺たちの命はこの方向に向かってこそ燃え盛るのだ（巨大な自己肯定の軍団ステーションの完成）』、思想の「超重力場」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "賦与、教導、そして形の創造。",
+		"example": "Give the data, teach the doctrine, and break the old forms.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"発露のベクトル。"
+			]
+		}
+	},
+	{
+		"id": "document",
+		"word": "文書、記録、ドキュメント",
+		"meaning": "文書",
+		"era": "Latin docere",
+		"etymology": {
+			"components": [
+				"documentum (example/proof/lesson)"
+			],
+			"original_statement": "From Latin documentum 'example / proof / lesson', from docere 'to show / teach'."
+		},
+		"concept": "Example/proof (証拠、教えるもの（文書）。「言った、言わない」の泥沼の斬り合い（完全なノイズとカオスの地獄）において、突如として懐からこれを引き抜いて机の上に「ダァァン」と叩きつけた瞬間、一分一秒の淀みもなく一切の異論や嘘を完全沈黙させ（論脈をアブセンス化し）、空間の全ての正義を自らの手へと強制マージしてしまう『究極の物理的・論理的証拠の刃（最強のドット集合体）』)",
+		"thinking": "「（それが真実であるということを他者に）、見せつけて教えるための強力な証拠や手本として（Docu- / Docere）」「（一撃の確実性をもって）機能する、決して内容の変わらない物理的な記録（-ment）」。それは単なる「紙の束」ではありません。あなたが「人間の記憶などというものは必ず嘘をつくし忘れる（エントロピーの腐敗）」という脆さを完全にハッキング（レジスト）し、そこに『紙とインクで時空を物理固定化（ステーション化）する』、真実の「絶対防衛線」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "賦与、教導、そして形の創造。",
+		"example": "Give the data, teach the doctrine, and break the old forms.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"発露のベクトル。"
+			]
+		}
+	},
+	{
+		"id": "format",
+		"word": "形式、フォーマット",
+		"meaning": "形式",
+		"era": "Latin formare (formatus)",
+		"etymology": {
+			"components": [
+				"formatus (formed)"
+			],
+			"original_statement": "From Latin formatus, past participle of formare 'to form', from forma 'shape'."
+		},
+		"concept": "Formed (形作られた（形式）。人間のもつ無軌道な発想や混沌としたデータ（暴走するノイズの奔流）を、社会構造という巨大な「鉄の鋳型（絶対的なプロトコル空間）」に一分一秒の淀みもなく「ドプァッ」と流し込み成形し、「この形でなければお前の命（意味）は存在を許されない（ネットワークに参加できない）」と宇宙の法を容赦なく強制する規格の檻)",
+		"thinking": "「（それぞれが好き勝手なバラバラの姿にならないように）、最初から決められた一定の鋳型として形作られた（Format- / Formatus / Formare）」「（一分一秒の淀みもなく）誰もが従わなければならない、統一された出力の規格」。それは単なる「テンプレート」ではありません。あなたが「他者とのコミュニケーション不全（カオスによる伝達ロス）」を腕力で粉砕（レジスト）し、そこに『誰もが一発で理解できる絶対の共通語式（巨大なマージの受け皿）』を空間に敷き詰める、情報の「高速道路建設」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "賦与、教導、そして形の創造。",
+		"example": "Give the data, teach the doctrine, and break the old forms.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"発露のベクトル。"
+			]
+		}
+	},
+	{
+		"id": "deform",
+		"word": "変形させる、奇形にする",
+		"meaning": "変形させる",
+		"era": "Latin de + formare",
+		"etymology": {
+			"components": [
+				"de- (from/down)",
+				"formare (to form)"
+			],
+			"original_statement": "From Old French deformer, from Latin deformare 'disfigure / spoil / mar', from de- 'from' + forma 'shape'."
+		},
+		"concept": "To shape down/away from (形を崩す、変形させる。神が丹念に作り上げた美しい彫刻（完全無欠のステーション構造）に対し、炎や酸、あるいは悪魔の巨大なハンマー（圧倒的なエントロピーの暴力・カオスのパルス）が一分一秒の淀みもなく「ドグシャァッ」と叩きつけられ、その美しいプロトコルと意味を完全にズタズタに引き裂き（ノイズ化させ）、原型を留めない無惨な怪物へと成り果てさせる悪意)",
+		"thinking": "「（本来あるべき完璧な美しい姿から）、下へ、あるいは元の形から逸脱して（De-）」「（一撃の暴力によって）ひどく形を崩され、醜くねじ曲げられてしまう（-form / Formare）」。それは単なる「へこみ」ではありません。あなたが「世界に構築されたすべての秩序や美（完璧なロゴス体）」が、物理法則という名の残酷な無神論（宇宙の初期化への圧力）によって一瞬で蹂躙され、そこに『狂気と絶望の肉塊（機能不全のバグ）』が這いずり回る、美の「完全敗北」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "賦与、教導、そして形の創造。",
+		"example": "Give the data, teach the doctrine, and break the old forms.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"発露のベクトル。"
+			]
+		}
+	},
+	{
+		"id": "gene",
+		"word": "遺伝子",
+		"meaning": "遺伝子",
+		"era": "Greek genos / Latin genus",
+		"etymology": {
+			"components": [
+				"genos (birth/race/kind)"
+			],
+			"original_statement": "Coined 1905 in German (Gen) from Greek genea 'generation / race', from root gen- 'produce / give birth' (cognate with Latin genus)."
+		},
+		"concept": "Birth/race factor (生み出す因子、遺伝子。四苦八苦して世界を生きるあなたの人生（という名のノイズだらけのドラマ）など一切意に介さず、ただ『自分と同じ情報を次のホスト（肉の大地）にコピーして永遠に生き残る（絶対的無限増殖のマージとフロー）』という、神でも悪魔でも止められない最も利己的で氷のように冷たい、宇宙最強の情報指令コード（究極のプロトコル・ドット）)",
+		"thinking": "「（あなたが何を感じ、どう生きるかとは全く別の次元で）、ただ自らと同じものを次世代へと生み出し（Gen- / Genos）」「（一分一秒の淀みもなく）連続させていくことだけを目的とした、生命の設計図の最深部（-e）」。それは単なる「細胞」ではありません。あなたが「私には自由意志がある（自立したステーション）」という驕りを、自らの肉体の細胞一つ一つから完全に笑い飛ばされ（レジストの無意味さ）、ただ『情報を乗り継がせるための一時的な入れ物に過ぎない（アーカイブの使い捨て保存容器）』と定義し直される、生命の「真の支配者」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "賦与、教導、そして形の創造。",
+		"example": "Give the data, teach the doctrine, and break the old forms.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"発露のベクトル。"
+			]
+		}
 	}
 ];
