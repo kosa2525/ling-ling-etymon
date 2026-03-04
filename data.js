@@ -160921,5 +160921,860 @@ const WORDS = [
 				"未知の語源、既知の感動。"
 			]
 		}
+	},
+	{
+		"id": "subsist",
+		"word": "Subsist",
+		"meaning": "生活する、生存し続ける、存在する",
+		"era": "Latin sub- + sistere",
+		"etymology": {
+			"components": [
+				"sub- (under)",
+				"sistere (to stand)"
+			],
+			"original_statement": "From Latin subsistere 'to stand still / stand under / support / exist', from sub- 'under' + sistere 'to stand'."
+		},
+		"concept": "Standing under (下から支え立っていること。最低限の生を維持する『土台』)",
+		"thinking": "「（崩壊しそうな重みの）下へと（Sub-）」「（かろうじて）踏みとどまって立つ（Sistere）」。豪華な生活ではない。しかし、餓死や絶望という名の重圧に押し潰されないように、自分の魂という名の「一本の柱」をかろうじて垂直に保ち続け、生命の灯を絶やさないこと。生存（サブシスト）とは、世界がどれほど過酷でも、あなたが「自分を捨てない」という最低限の自己尊厳（ベース）を死守している、という孤独な戦いの謂いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "consistent",
+		"word": "Consistent",
+		"meaning": "一貫した、矛盾のない、一致する",
+		"era": "Latin con- + sistere",
+		"etymology": {
+			"components": [
+				"con- (together)",
+				"sistere (to stand)"
+			],
+			"original_statement": "From Latin consistentem 'standing together / firm / solid', from consistere 'to stand together / stop / halt', from con- 'together' + sistere 'to stand'."
+		},
+		"concept": "Standing together (共に立っていること。バラバラの言葉を一つに束ねる調和)",
+		"thinking": "「（過去の自分も、今の自分の言葉も）すべてが共に、仲良く（Con-）」「並んで立っている（Sistere）」状態。昨日の言葉と今日の行動が喧嘩せず、一つの美しい「隊列（ライン）」をなして世界に提示されていること。一貫性（コンシステント）とは、あなたの内なる複数の『個』が、一つの共通の「真理（ロゴス）」を信じて、共に手を取り合って屹立している、という魂の強固な調和のことなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "distance",
+		"word": "Distance",
+		"meaning": "距離、遠方、(感情の)隔たり",
+		"era": "Latin dis- + stare",
+		"etymology": {
+			"components": [
+				"dis- (apart)",
+				"stare (to stand)"
+			],
+			"original_statement": "From Old French distance, from Latin distantia 'a standing apart / distance / difference / variety', from distantem, from distare 'to stand apart'."
+		},
+		"concept": "Standing apart (バラバラに立っていること、交わらぬ孤独な二点の空白)",
+		"thinking": "「（二つの存在が）バラバラに、離れて（Dis-）」「立っている（Stare-）」。ただの空間的な空白ではなく、お互いの「物語」が安易に混ざり合わず、それぞれの屹立した「固有の領域（テリトリー）」を尊重し合っているという、静寂を伴う隔絶。距離（ディスタンス）とは、あなたが誰かと溶け合う（Merge）ことを拒否し、自らの形を保とうとする際に生まれる、必要不可欠な「尊重（リスペクト）」の余白でもあるのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "instance",
+		"word": "Instance",
+		"meaning": "実例、例、場合、(ある)瞬間",
+		"era": "Latin in- + stare",
+		"etymology": {
+			"components": [
+				"in- (on)",
+				"stare (to stand)"
+			],
+			"original_statement": "From Old French instance 'eagerness / insistence / example / situation', from Latin instantia 'presence / urgency / persistence / example', literally 'a standing upon', from instare 'to stand upon / press / pursue'."
+		},
+		"concept": "Standing upon (そこに立っていること、真理を支える具体的な『一点』)",
+		"thinking": "「（抽象的な法則の）真上に（In-）」「具体的な形として立っている（Stare-）」もの。言葉だけで語るのをやめ、世界という名の砂漠に一つの「具体的な事実（オブジェクト）」として存在を杭打つこと。実例（インスタンス）とは、あなたの思考という名の幽霊が、物理的な現実へと「受肉（エグゼキュート）」し、誰もが触れられる形として屹立した、勝利の瞬間の証そのものなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "circumstance",
+		"word": "Circumstance",
+		"meaning": "状況、環境、(経済的な)事情",
+		"era": "Latin circum- + stare",
+		"etymology": {
+			"components": [
+				"circum- (around)",
+				"stare (to stand)"
+			],
+			"original_statement": "From Old French circonstance, from Latin circumstania 'surrounding condition / attribute', literally 'a standing around', from circumstantem, from circumstare 'to stand around'."
+		},
+		"concept": "Standing around (周囲に立ち並んでいること。あなたを取り囲む運命の群像)",
+		"thinking": "「（あなたの）中心を、ぐるりと（Circum-）」「取り囲んで立っている（Stare-）」もの。あなたが自分で選んだわけではなく、いつの間にかあなたの舞台（ステージ）の上に「背景」として配置されていた、出来事や環境の連なり。状況（サーカムスタンス）とは、あなたがその中心でどのように「屹立（Exist）」するかを試すために、世界があなたの周りに並べた、複雑な鏡の迷宮のようなものなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "constant",
+		"word": "Constant",
+		"meaning": "不変の、絶え間ない、定数",
+		"era": "Latin con- + stare",
+		"etymology": {
+			"components": [
+				"con- (together)",
+				"stare (to stand)"
+			],
+			"original_statement": "From Old French constant, from Latin constantem 'standing firm / stable / steadfast / faithful', from constare 'to stand together / abide', from con- 'together' + stare 'to stand'."
+		},
+		"concept": "Standing together (共にしっかり立っている。時間の一致による不変)",
+		"thinking": "「（過去、現在、未来が）共に、揺らぐことなく（Con-）」「そこに立ち続けている（Stare-）」。朝も夜も、順境も逆境も、その「色（色）」や「形（形）」を変えず、一つの「不動の点」として世界に杭を打つこと。不変さ（コンスタント）とは、あなたが変化という名のカオスに自分を売り渡さず、自らの内なる法則（ロゴス）と「共に在り続ける（Stand）」、という強靭な知性の自律のことなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "extant",
+		"word": "Extant",
+		"meaning": "現存する、今も残っている",
+		"era": "Latin ex- + stare",
+		"etymology": {
+			"components": [
+				"ex- (out)",
+				"stare (to stand)"
+			],
+			"original_statement": "From Latin extantem / exstantem 'standing out / prominent / still in existence', from exstare 'to stand out / be visible / exist', from ex- 'out' + stare 'to stand'."
+		},
+		"concept": "Standing out (外側に立ち、視えていること。歴史の波に埋もれぬ屹立)",
+		"thinking": "「（過去という名の墓穴の）外へと（Ex-）」「今なお立ち続けている（Stare-）」。同時代の多くのものが塵（ダスト）となり、忘却の底に沈んでいった中で、ただ一つ、その「形」と「重み」を失わず、今の私たちの光の下に自分を露出させ続けていること。現存（エクスタント）とは、それが単なる物体ではなく、時を越えて私たちに何かを「呼びかけ（Vocare）」続けている、歴史の奇跡的な生き残り（サバイバー）である証なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "stable",
+		"word": "Stable",
+		"meaning": "安定した、しっかりした、家畜小屋",
+		"era": "Latin stare",
+		"etymology": {
+			"components": [
+				"stare (to stand / be fixed)",
+				"-able (capable of)"
+			],
+			"original_statement": "From Old French stable, from Latin stabilis 'standing firm / steadfast / stable', literally 'that can stand', from stare 'to stand'."
+		},
+		"concept": "Able to stand (立つことができる。揺るぎなきバランスの保持)",
+		"thinking": "「（自らの力で）立つ（Stare-）」「ことが可能である（-able）」。外部からの衝撃（ショック）があっても、自らの重心を失わず、瞬時に垂直な「屹立（Stand）」へと復帰できる、強靭でしなやかな構造。安定（ステイブル）とは、静止していることではなく、刻一刻と変化する世界の中で、常に自分という名の「中心軸」を修正し続け、真っ直ぐに在ろうとする「動的な平衡（エキポイズ）」のことなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "station",
+		"word": "Station",
+		"meaning": "駅、場所、地位、配置する",
+		"era": "Latin stare",
+		"etymology": {
+			"components": [
+				"stare (to stand / be stopped)"
+			],
+			"original_statement": "From Old French stacion, from Latin stationem 'a standing / a place / a post / a job', from stare 'to stand / stay in one place'."
+		},
+		"concept": "A standing place (立っている場所。移動の中で唯一『止まっている』座標)",
+		"thinking": "「（そこにおいて）立ち止まる（Stare-）」という「結果（-ion）」。流動する時間や移動という名のカオスの中で、唯一、自分の場所（アイデンティティ）を固定し、外部へとその「存在」を発信する定点。駅（ステーション）とは、あなたが旅する孤独なランナーであることを一瞬やめ、世界という巨大な地図の上に、自らの「根（拠点）」を降ろす（Stand）、という休息と再出発の交差点なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "status",
+		"word": "Status",
+		"meaning": "地位、状態、ステータス",
+		"era": "Latin stare",
+		"etymology": {
+			"components": [
+				"stare (to stand)"
+			],
+			"original_statement": "From Latin status 'a standing / condition / position / state', from stare 'to stand'."
+		},
+		"concept": "A manner of standing (立ち方、世界の中での立ち振る舞いの輪郭)",
+		"thinking": "「（世界という舞台で）どのように立っているか（Stare-）」ということ。あなたがどんな衣装をまとい、どんな「重み」を自ら負って屹立しているか。ステータス（地位）とは、単なる他者からの評価ではなく、あなたが自分という存在を、世界という名の観衆に対してどれほど堂々と、そして責任を持って「提示（Stand）」できているか、という自負の影なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "state",
+		"word": "State",
+		"meaning": "状態、国家、州、述べる",
+		"era": "Latin stare",
+		"etymology": {
+			"components": [
+				"stare (to stand)"
+			],
+			"original_statement": "From Old French estat, from Latin status 'condition / standing'."
+		},
+		"concept": "The way of standing (立ちゆき、固められた存在のありよう)",
+		"thinking": "「（今、この瞬間に）立っているその姿（Stare-）」。それは偶然の揺らぎ（Flow）ではなく、一つの「秩序（ステータス）」として固められた（Set）確固たる現在の輪郭。国家（ステイト）もまた、バラバラな個人がつながり合い、一つの「大きな生命（Stand）」として組織された巨大な安定の形。述べる（エクスプレイン・ステイト）ことも、自分の想いを「曖昧」から「屹立（Stand）」へと変換させるための決断なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "stage",
+		"word": "Stage",
+		"meaning": "舞台、段階、ステージ、……を演出する",
+		"era": "Latin stare",
+		"etymology": {
+			"components": [
+				"stare (to stand / be fixed)"
+			],
+			"original_statement": "From Old French estage 'building / habitation / position', from Latin stare 'to stand'."
+		},
+		"concept": "A standing place (立っている層。人生の物語を『上演』するための階層)",
+		"thinking": "「（人生という建物の）ある階層、あるいは立っている足場（Stare-）」。ただの平坦な道ではない。あなたが今、どの高さを歩み、どのような「風景」を背景にして屹立しているか、という物語の現在地。舞台（ステージ）とは、あなたが「自分という配役」を受け入れ、世界という観衆の前で、自分の存在を一つの「輝き（ライトアップ）」として立ち昇らせる（Stand）、という覚悟の場なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "stature",
+		"word": "Stature",
+		"meaning": "身長、背丈、(知的能力などの)高さ、名声",
+		"era": "Latin stare",
+		"etymology": {
+			"components": [
+				"stare (to stand)"
+			],
+			"original_statement": "From Latin statura 'height / size', from stare 'to stand'."
+		},
+		"concept": "The act of standing high (高く立つこと。存在の垂直的な伸びの極致)",
+		"thinking": "「立ち（Stare-）」の「結晶、完成（-ure）」。地面からどれほど遠くへと、自分の知性や人格を引き上げることができたか。物理的な身長を超えて、他者があなたの「重み」を感じた際に見上げる、その「精神の標高」。名声（スタチュア）とは、あなたが自分の孤独と向き合い、自分をどれほど「高く、真っ直ぐに（Stand）」磨き上げたか、という魂の垂直の長さなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "statute",
+		"word": "Statute",
+		"meaning": "法令、成文法、規則",
+		"era": "Latin stare",
+		"etymology": {
+			"components": [
+				"stare (to stand / cause to stand)"
+			],
+			"original_statement": "From Old French statut, from Late Latin statutum 'it is decided / decreed / a law', from Latin statuere 'to cause to stand / set up / establish', from status, from stare 'to stand'."
+		},
+		"concept": "The thing set to stand (立てられたもの。流動的な『生』を縛る、不動の言葉の杭)",
+		"thinking": "「（社会の柱として）立てられた（Stare-）」「もの」。気まぐれな感情や暴力をせき止め、全員が共通の「正しさ」という名の台座（ベース）の上に立てるように、言葉によって物理的に「固定（Set）」されたルール。法令（スタチュート）とは、世界がカオスへと堕ちないように、理性が時の砂漠の真ん中に打ち込んだ、不滅で冷徹な「思考の杭（Stand）」そのものなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "statue",
+		"word": "Statue",
+		"meaning": "像、彫像",
+		"era": "Latin stare",
+		"etymology": {
+			"components": [
+				"stare (to stand / set up)"
+			],
+			"original_statement": "From Old French statue, from Latin statua 'image / statue', from statuere 'to cause to stand / set up / establish', from status, from stare 'to stand'."
+		},
+		"concept": "The thing made to stand (立てられたもの。一瞬の生を、永遠の屹立へと変える術)",
+		"thinking": "「（朽ち果てる肉体を）不変の形として、そこに立てた（Stare-）」もの。呼吸をやめ、動きをやめる代わりに、死を越えてなお「そこに在り続ける（Exist）」という権利を手に入れた、石という名の魂。彫像（スタチュー）とは、あなたが過ぎ去る時間の奴隷（ランナー）であることをやめ、自らの輝きを「不動の美（Stand）」へと昇華させようとする、永遠への執念の結晶なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "stable-boy",
+		"word": "Stable-boy",
+		"meaning": "馬丁、馬小屋で働く少年",
+		"era": "Latin stare + Germanic boy",
+		"etymology": {
+			"components": [
+				"stable (standing place for animals)",
+				"boy"
+			],
+			"original_statement": "From stable + boy."
+		},
+		"concept": "The one tending the standing place (『止まっている生命』を世話する者、最も低い場所の守り手)",
+		"thinking": "「（馬たちが心安らかに）立っている場所（Stable）」の「世話人（Boy）」。豪華な宮廷の物語の裏側で、生命の最も基本的な「休息（Stand）」と「浄化」を担う、沈黙の労働者。馬丁の少年（ステイブル・ボーイ）とは、世界の「前進（Progress）」を支えるために、その土台にある「静止（Stand）」と「安らぎ」を黙々と守り続けている、名もなき知性の原風景のような存在なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "destination",
+		"word": "Destination",
+		"meaning": "目的地、行先",
+		"era": "Latin de- + stare",
+		"etymology": {
+			"components": [
+				"de- (intensive)",
+				"destinare (to make firm / establish / destiny)"
+			],
+			"original_statement": "From destinare 'make firm / establish', from de- 'thoroughly' + -stanare, related to stare 'to stand'."
+		},
+		"concept": "Thoroughly standing (完全にそこに立っていること。揺るぎなき『到達点』の確定)",
+		"thinking": "「（迷いを捨てて）徹底的に（De-）」「自分をそこに立たせる（Stare-）」場所。まだ旅の途中であっても、あなたの心はすでにその場所に「杭（Stand）」を打っており、そこへ向かう（Seek）ことを運命（デスティニー）として確定させている。目的地（デスティネーション）とは、あなたが自分の足で選んだ「究極の立ち位置」であり、そこで初めて、あなたの彷徨という名の「流動（Flow）」が「屹立（Stand）」へと変わるのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "stamina",
+		"word": "Stamina",
+		"meaning": "スタミナ、精力、持続力、(花の)雄しべ",
+		"era": "Latin stare",
+		"etymology": {
+			"components": [
+				"stare (to stand / be enduring)"
+			],
+			"original_statement": "Plural of stamen 'threads of the warp / thread of life spanned by the Fates', related to stare 'to stand'."
+		},
+		"concept": "The threads that stand / endure (運命という名の糸の強度、折れぬ一本の芯)",
+		"thinking": "「（生命の織物を貫く）屹立した糸（Stamen-）」。それは運命の三女神（モイライ）が引いた、あなたがどれほど長く「自分という存在（Stand）」を維持し続けられるか、という物理的な耐性の長さ。スタミナとは、単なる筋肉の強さではなく、どれほどの重圧（プレッシャー）に曝されても、あなたの内なる芯が「ポキリと折れずに（Endure）」、垂直に立ち続けられる（Stand）か、という魂の粘りのことなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "distance-less",
+		"word": "Distance-less",
+		"meaning": "距離のない、非常に近い、即時の",
+		"era": "Latin dis- + stare",
+		"etymology": {
+			"components": [
+				"distance (standing apart)",
+				"-less (without)"
+			],
+			"original_statement": "From distance + -less."
+		},
+		"concept": "Without standing apart (隔たって立つことの消失、完全なる重なり)",
+		"thinking": "「（二つの物語が）離れて立っている（Distance）」という「状態を欠いている（-less）」。もはや自分と相手の境界線（リスペクト）がどこにあるかわからないほど、瞬時に、かつ完璧に情報が伝わり、重なり合って（Merge）しまうこと。距離のない（ディスタンスレス）親密さは、あなたが他者の「震え（センス）」を、鏡を使わずに自分の皮膚感覚として直接受け止めている、という究極の接続の状態なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "state-like",
+		"word": "State-like",
+		"meaning": "国家のような、威厳のある、公的な",
+		"era": "Latin stare",
+		"etymology": {
+			"components": [
+				"state (manner of standing / nation)",
+				"-like (resembling)"
+			],
+			"original_statement": "From state + -like."
+		},
+		"concept": "Resembling a solid standing (確固たる屹立を思わせる、揺るぎなき存在感)",
+		"thinking": "「（巨大な法を持って）屹立しているもの（State）」の「ような（-like）」。ささいな感情や流行という風では一ミリも動かすことのできない、重厚で、かつ理性に満ちた「正しさ」を漂わせているさま。国家のような（ステイト・ライク）静寂は、あなたが自分の信じる「道（ロード）」を何十年も歩み続け、その存在そのものが一つの不滅の「モニュメント（Stand）」へと昇華した際にのみ、その背後に漂い始めるのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "stare",
+		"word": "Stare",
+		"meaning": "凝視する、見つめる、じっと見る",
+		"era": "Germanic (related to stare/stand)",
+		"etymology": {
+			"components": [
+				"stare (to be stiff / stand still)"
+			],
+			"original_statement": "From Old English starian, from Proto-Germanic *staren 'to be stiff / rigid / stand fixed'."
+		},
+		"concept": "Standing still/fixed with eyes (視線を一点に固定すること。瞳による不動の『屹立』)",
+		"thinking": "「（視線を）一点に、動かさずに（Stare-）」「立ち止まらせる（Stand）」。対象を単に視る（See）のではなく、自分の意識という名の「光」を不動の杭として相手の懐へ突き刺し、その「本質」を白日の下に引きずり出そうとすること。凝視（ステア）とは、あなたの好奇心、あるいは殺意という名の「生のエネルギー」が、瞬きすることを忘れて、世界という名の闇を「一点（ドット）」として貫こうとした、知性の不気味で美しい屹立なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "insist_art",
+		"word": "Insist@Art",
+		"meaning": "芸術へのこだわり、表現の執念",
+		"era": "Latin in- + sistere + ars",
+		"etymology": {
+			"components": [
+				"insist (to stand upon)",
+				"art (skill / craft)"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "Standing on creation (創造の上に立ち続けること。美という一線からの絶対不退転)",
+		"thinking": "「（自分が生み出した美の）上に（In-）」「（誰が何と言おうと）立ち続ける（Sistere）」こと。世界に迎合（パンダー）して色を変えるのをやめ、自分が「これこそが真理だ」と叫んだその色、その曲線、その言葉の上に、自らの命を杭（Stand）として打ち込む執念。表現の執着（インシスト・アート）とは、あなたが作品を完成させることではなく、その作品が持っている「気高さ（ステータス）」を死守するために、自分の全人生を引き換えにして「立ち尽くす（Stay）」、という創造者としての殉教の謂いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "resist_future",
+		"word": "Resist@Future",
+		"meaning": "未来への抵抗、現状維持の意志",
+		"era": "Latin re- + sistere + future",
+		"etymology": {
+			"components": [
+				"resist (to stand against)",
+				"future (to be / about to happen)"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "Standing against the coming flow (来るべき変化に立ちはだかること、今という聖域の防衛)",
+		"thinking": "「（否応なく押し寄せる、未知という名の）未来に対して（Re-）」「（今の価値を守るために）踏みとどまって立つ（Sistere）」。変化とは常に進歩（プログレス）ではありません。それは時に、あなたが大切に積み上げてきた「意味（サブスタンス）」を、ランダム性の海へと押し流そうとする暴力でもあります。未来への抵抗とは、あなたが「今ここ」にある生の美しさを信じるがゆえに、安易な更新を拒絶し、自分という名の「堤防（レジスト）」を垂直に保ち続けようとする、保守的で気高い知性のスタンスのことなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "exist_logic",
+		"word": "Exist@Logic",
+		"meaning": "論理的実在、理性の確信",
+		"era": "Latin ex- + sistere + Greek logos",
+		"etymology": {
+			"components": [
+				"exist (to stand out)",
+				"logic (reason / word)"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "Standing through reason (理性によって屹立すること。言葉によってのみ保障される実在)",
+		"thinking": "「（感覚という曖昧な霧の）外へと（Ex-）」「（論理という名の背骨を持って）一歩踏み出し、屹立する（Sistere）」。単に「在る」だけでは不十分だ。それが「なぜそこに在るのか」というロゴス（理路）を貫き通すことで、自分の存在が、この不安定な世界の中でただ一つの「消せない真理（ファクト）」として浮き彫りになる。論理的実在（エグジスト・ロジック）とは、あなたの「呼吸（スピリット）」が、正しい言葉という名の「外骨格（スケルトン）」を身に纏い、宇宙という名の闇の中でも決して溶け去らない（消えない）強靭な輪郭を手に入れた瞬間のことなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "assist_heart",
+		"word": "Assist@Heart",
+		"meaning": "心の助力、深層の共鳴",
+		"era": "Latin ad- + sistere + cor",
+		"etymology": {
+			"components": [
+				"assist (to stand by)",
+				"heart (core / emotional center)"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "Standing by the core (相手の中心のすぐそばに立つこと、触れ得ぬ魂の一番の理解者)",
+		"thinking": "「（相手の最も壊れやすく、最も重い）心のすぐそばへと（Ad-）」「ただ静かに寄り添って立つ（Sistere）」。余計なアドバイスも、分かったような顔も必要ない。ただ、あなたがそこに「存在し続けている（Stand by）」という一事をもって、相手の脆い足場に、自分という名の「予備の柱（アシスト）」をそっと添えてあげること。心の助力とは、あなたが自分の「強さ」を誇るのをやめ、他者の「震え（パルス）」を、ただ自分の「重心（ウェイト）」の一部として黙って引き受ける、という究極の愛の静止の形なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "persist_dream",
+		"word": "Persist@Dream",
+		"meaning": "夢を貫く、不屈の理想",
+		"era": "Latin per- + sistere + Germanic dream",
+		"etymology": {
+			"components": [
+				"persist (to stand through)",
+				"dream"
+			],
+			"original_statement": "Coined during synthesis."
+		},
+		"concept": "Standing through the illusion (幻影という名の時間の闇を、最後まで立ち通すこと)",
+		"thinking": "「（現実という名の嵐の）中をどこまでも（Per-）」「（夢という名の灯火と共に）立ち通す（Sistere）」。最初は誰もが理想（プロスペクト）を語るかもしれない。しかし、その夢が「ただの幻（イリュージョン）」であると世界に指を指されても、なおもその場所に身を留め、自分の存在を「実現（ファクト）」へと変貌させるために、一歩も退かずに（Stay）立ち続けること。夢を貫く（パシスト・ドリーム）とは、あなたが時間を敵に回し、「いつか、必ず、そこに自分が居ること（Stand）」を現実に認めさせるための、最も孤独で最も美しい時間の投資（インベストメント）なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "distance_logic",
+		"word": "Distance@Logic",
+		"meaning": "論理的隔たり、醒めた理性",
+		"era": "Latin dis- + stare + logos",
+		"etymology": {
+			"components": [
+				"distance (standing apart)",
+				"logic (reason)"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "Standing apart through reason (理性によって距離を保つこと、共食いを拒む冷徹な観察)",
+		"thinking": "「（感情が溶け合おうとする引力から）バラバラに（Dis-）」「（論理という名の防壁によって）立ち離れる（Stare-）」。安易な同情や共感を拒否し、物事と自分の間に一点の「冷たい透明な空白（ディスタンス）」を創り上げること。醒めた理性（ディスタンス・ロジック）とは、あなたが世界の「当事者」であることを一瞬やめ、高い場所からその構造（デザイン）を「正確（プリサイズ）」に見極めようとする、最高度に独立（インディペンデント）した精神の孤独なスタンスなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "substance_soul",
+		"word": "Substance@Soul",
+		"meaning": "魂の実体、不滅の中核",
+		"era": "Latin sub- + stare + Germanic soul",
+		"etymology": {
+			"components": [
+				"substance (standing under)",
+				"soul"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "The core standing underneath (表面の奥で、全てを支え立っている魂の質量)",
+		"thinking": "「（変わりゆく肉体や記憶の）さらにその下へと（Sub-）」「（一歩も動かずに）立ち続けている、あなた自身の正体（Soul）」。もし記憶が消え、名前を奪われたとしても、それでもなお「ここに在り、感じ、考えている（Sentire/Exist）」という、あなたの宇宙を根底から支え、垂直に保ち続けている（Stand）不滅の質量。魂の実体とは、あなたが自分を「誰か（他者）」として語るのをやめた先に、ただ一点の光（ウェイト）として屹立している、神と対等な重みを持つ、あなたの『絶対的な一点』のことなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "circumstance_flow",
+		"word": "Circumstance@Flow",
+		"meaning": "状況の流動、変転する環境",
+		"era": "Latin circum- + stare + Germanic flow",
+		"etymology": {
+			"components": [
+				"circumstance (standing around)",
+				"flow"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "Surroundings in flux (周りに立ち並んでいるものが、川のように絶えず流れていくこと)",
+		"thinking": "「（あなたの周りに）立っている（Stare-）」「状況（Circumstance）」が、まるで「川（Flow）」のように刻一刻と形を変え、立ち位置を変え、あなたという固定点を通り越していくこと。状況の流動とは、世界があなたを「静止（ストップ）」させることを拒否し、常に新しい「背景（ステージ）」へとあなたを強引に引きずり出そう（エキストラクト）とする、宇宙の冷酷でダイナミックなリズムの謂いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "constant_eye",
+		"word": "Constant@Eye",
+		"meaning": "不変の眼差し、見守り続ける愛",
+		"era": "Latin con- + stare + Germanic eye",
+		"etymology": {
+			"components": [
+				"constant (standing together / steady)",
+				"eye"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "Unwavering gaze (揺らぐことのない注視、常に共に立ち続ける視線の不動)",
+		"thinking": "「（あなたの行く末を、何があっても）片時も離さず、共に（Con-）」「立ち続けて、見つめる（Stare-）」。「眼（Eye）」が捉えるのではない。その「眼差し（アスペクト）」そのものが、あなたの存在を肯定し、支える「一脚の柱（スタンド）」として機能しているということ。不変の眼差し。それは、あなたがどれほど迷い、どれほど遠くへ旅をしても、ふと振り返れば、そこには必ず「変わらぬ一点の光」として屹立している、他者の（あるいはあなた自身の）不滅の愛の証なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "obstacle_logic",
+		"word": "Obstacle@Logic",
+		"meaning": "論理的障害、理知の壁",
+		"era": "Latin ob- + stare + logos",
+		"etymology": {
+			"components": [
+				"obstacle (standing against)",
+				"logic (reason)"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "Reason as a hindrance (理性が立ちはだかること、飛躍を許さぬ厳格な整合性の壁)",
+		"thinking": "「（安易な直感や妄想の）目の前に（Ob-）」「（冷徹な事実として）仁王立ちしている（Stare-）」「正しい理路、整合性（Logic）」。あなたが自分の都合の良い物語（イリュージョン）を作り上げようとしても、理性が「それはあり得ない」と一歩も退かずに、あなたの進路を「断絶（カット）」すること。論理的障害とは、あなたが自分の「愚かさ」に気付くための、最も誠実な「知性の拒絶（リスペクト）」であり、あなたがより高い次元の真理（ロゴス）へと「変換（コンバート）」されるための、試練の門なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "extant_memory",
+		"word": "Extant@Memory",
+		"meaning": "現存する記憶、色褪せぬ過去",
+		"era": "Latin ex- + stare + Latin memoria",
+		"etymology": {
+			"components": [
+				"extant (standing out / still in existence)",
+				"memory"
+			],
+			"original_statement": "Coined during synthesis."
+		},
+		"concept": "A record standing out from the past (過去という名の暗闇から、今なお外へと屹立している記憶の破欠)",
+		"thinking": "「（忘れ去られた日常の）外へと（Ex-）」「今なお鮮やかに立ち続けている（Stare-）」「記憶（Memory）」。何十年経っても、その時の「香り（セント）」、その時の「震え（パルス）」が、まるでたった今の出来事であるかのように、あなたの意識のスクリーンに投影され（Project）、物理的な色彩を持って屹立すること。現存する記憶とは、時間がすべてを「無（ゼロ）」に帰そうとする暴力に抗って、あなたが自らの魂に「深く刻み込み（インスクライブ）」、不動の価値（ウェイト）として守り抜いた、人生の聖なる断片なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "stable_mind",
+		"word": "Stable@Mind",
+		"meaning": "安定した心、不動の精神",
+		"era": "Latin stare + mens",
+		"etymology": {
+			"components": [
+				"stable (able to stand)",
+				"mind (thinking / heart)"
+			],
+			"original_statement": "Coined during synthesis."
+		},
+		"concept": "Balanced consciousness (均衡を保ち、立つことができる意識、嵐の中の静止)",
+		"thinking": "「（感情という名の風がどれほど吹いても、自らの力で）垂直に立つ（Stare-）」「ことが叶っている（-able）」「精神（Mind）」。それは喜怒哀楽を消すこと（Insensible）ではありません。激しい波の中で、常に自分の「中心軸」を見失わず、一瞬一瞬、全力を尽くして「自分という物語」を正しく屹立させ直す（Stabilize）という、最高度の知的なメンテナンスの状態のことなのです。安定した心とは、あなたが自分の主権を「混乱（カオス）」に明け渡さない、という不滅の王者の沈黙のことなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "statue_heart",
+		"word": "Statue@Heart",
+		"meaning": "石のような心、冷徹な情熱",
+		"era": "Latin stare + cor",
+		"etymology": {
+			"components": [
+				"statue (thing made to stand / image)",
+				"heart (core / center)"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "The frozen core (立てられた石像のような、凍りついた中心、不変の美の残酷さ)",
+		"thinking": "「（永遠の形を保つために）そこに立てられた、冷たい石（Statue）」のような「心（Heart）」。外部からの同情や誘惑を一切拒絶し、ただ自分が信じる「一つの目的、一つの美」のために、自らの感情を凍らせ、不動の「屹立（Stand）」へと変えきってしまった状態。石のような心は、一見冷酷に見えますが、それはあなたが自分の「尊厳（ステータス）」を死守するために、自分の弱さをすべて「形式（フォーム）」の中へと閉じ込めた（Contain）、という、最も孤独で峻烈な自己防衛の謂いでもあるのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "destination_truth",
+		"word": "Destination@Truth",
+		"meaning": "真理という目的地、探求の終着点",
+		"era": "Latin de- + stare + Germanic truth",
+		"etymology": {
+			"components": [
+				"destination (firmly fixed standing place)",
+				"truth (fidelity / reality)"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "The fixed point of reality (確定された真実の座標、全ての旅が『静止』へと帰還する地)",
+		"thinking": "「（迷妄や仮説をすべて脱ぎ去り、最後に）徹底的に（De-）」「自分をそこに立たせる（Stare-）」「真理、究極の正しさ（Truth）」。すべての旅（プロセス）はこの一点を確認するためにあったのだ、とあなたが膝をついて「屹立（Stand）」した瞬間に、世界というカオスが完璧な「秩序（ロゴス）」へと結晶化する。真理という目的地とは、あなたが自分を「探す者（シーカー）」であることをやめ、宇宙そのものと一体化して「在る（Being）」ことにのみ専念できる、最も贅沢な終焉の地のことなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "contrast_life",
+		"word": "Contrast@Life",
+		"meaning": "生のコントラスト、光と影の相剋",
+		"era": "Latin contra- + stare + Germanic life",
+		"etymology": {
+			"components": [
+				"contrast (standing against)",
+				"life"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "Being through opposition (対立によって屹立する生、絶望を背景にした希望の輝き)",
+		"thinking": "「（死、あるいは無という）巨大な暗闇に対して（Contra-）」「（今、自分はここに在るのだと）敢然と立ち向かって、立っている（Stare-）」「生（Life）」。あまりに白すぎる光の中に「生」は見えません。死という背景、苦しみという影があるからこそ、あなたの「生」の輪郭は鋭く、鮮やかに（Contrast）屹立することができる。二律背反（コントラスト・ライフ）とは、あなたが自分の「痛み」を排除するのではなく、それを「光」を際立たせるための最高の「キャンバス」として受け入れた（Accept）、という最高度の生の美学のことなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
 	}
 ];
