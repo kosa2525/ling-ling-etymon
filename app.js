@@ -2141,8 +2141,12 @@ function renderSynthesizer() {
                 </div>
                 
                 <!-- Alchemy Table -->
-                <div style="flex:1.5 1 500px; display:flex; flex-direction:column; align-items:center; position:relative;">
+                <div style="flex:1.5 1 500px; display:flex; flex-direction:column; align-items:center; position:relative; margin-top:100px;">
                     
+                    <div class="synth-icon-container">
+                        <canvas id="concept-icon-canvas" width="200" height="200"></canvas>
+                    </div>
+
                     <div style="background:var(--color-surface); padding:3rem 1.5rem; border-radius:24px; border:1px solid var(--color-border); box-shadow: 0 12px 40px rgba(0,0,0,0.5); width:100%; display:flex; justify-content:center; align-items:center; gap:1.5%; background-image: radial-gradient(circle at center, rgba(245,158,11,0.08) 0%, transparent 60%);">
                         
                         <div class="drop-zone" data-type="prefix" style="width:23%; aspect-ratio:1/1; max-height:130px; border:2px dashed #22c55e; border-radius:16px; display:flex; flex-direction:column; align-items:center; justify-content:center; transition:all 0.3s; position:relative; background:rgba(34,197,94,0.05);">
@@ -2180,7 +2184,10 @@ function renderSynthesizer() {
         </div>
         `;
 
-    setTimeout(setupDragAndDrop, 100);
+    setTimeout(() => {
+        setupDragAndDrop();
+        updateConceptIcon();
+    }, 100);
 }
 
 function setupDragAndDrop() {
@@ -2228,6 +2235,8 @@ function setupDragAndDrop() {
                         <button onclick="clearSynthSlot('${data.type}', ${slot || 'null'})" style="position:absolute; top:5px; right:5px; background:none; border:none; color:rgba(255,255,255,0.5); cursor:pointer;">✕</button>
                     `;
                     z.style.borderStyle = 'solid';
+                    z.classList.add('active-icon');
+                    updateConceptIcon();
                 } else {
                     showToast('Incorrect piece type for this slot.');
                 }
@@ -2249,6 +2258,8 @@ window.clearSynthSlot = function (type, slot) {
 
     z.innerHTML = `<span style="opacity:0.4; font-size:0.8rem; text-align:center;">${label}</span>`;
     z.style.borderStyle = 'dashed';
+    z.classList.remove('active-icon');
+    updateConceptIcon();
 };
 
 window.executeSynthesis = function () {
@@ -2359,4 +2370,77 @@ function playSynthFx() {
         else ctx.clearRect(0, 0, canvas.width, canvas.height);
     }
     animate();
+}
+
+/** 
+ * Concept Iconography Implementation 
+ **/
+function updateConceptIcon() {
+    const canvas = document.getElementById('concept-icon-canvas');
+    if (!canvas) return;
+    const ctx = canvas.getContext('2d');
+    const s = window.synthState;
+    const cx = 100, cy = 100;
+
+    ctx.clearRect(0, 0, canvas.width, canvas.height);
+
+    // Draw Suffix Frame if exists
+    if (s.suffix) drawIconPart(ctx, cx, cy, s.suffix.id, 'suffix');
+
+    // Draw Root(s) in center
+    if (s.root1) drawIconPart(ctx, cx, cy, s.root1.id, 'root');
+    if (s.root2) drawIconPart(ctx, cx, cy, s.root2.id, 'root');
+
+    // Draw Prefix symbol
+    if (s.prefix) drawIconPart(ctx, cx, cy, s.prefix.id, 'prefix');
+
+    // Idle pulse if empty
+    if (!s.prefix && !s.root1 && !s.root2 && !s.suffix) {
+        ctx.strokeStyle = 'rgba(255,255,255,0.1)';
+        ctx.setLineDash([5, 5]);
+        ctx.beginPath(); ctx.arc(cx, cy, 40, 0, Math.PI * 2); ctx.stroke();
+        ctx.setLineDash([]);
+    }
+}
+
+function drawIconPart(ctx, cx, cy, id, type) {
+    ctx.lineWidth = 2.5;
+    ctx.lineCap = 'round';
+    ctx.lineJoin = 'round';
+
+    // Use part colors
+    if (type === 'prefix') ctx.strokeStyle = '#22c55e';
+    else if (type === 'root') ctx.strokeStyle = resolveColor('var(--color-premium)');
+    else if (type === 'suffix') ctx.strokeStyle = '#ef4444';
+
+    ctx.beginPath();
+
+    const icons = {
+        'pre-ab': () => { ctx.arc(cx - 30, cy - 30, 20, 0, Math.PI * 2); },
+        'pre-com': () => { for (let i = 0; i < 4; i++) { ctx.moveTo(cx + Math.cos(i * 1.5) * 50, cy + Math.sin(i * 1.5) * 50); ctx.lineTo(cx, cy); } },
+        'pre-re': () => { ctx.arc(cx, cy, 50, 0.5, 5.8); ctx.moveTo(cx + 45, cy + 8); ctx.lineTo(cx + 50, cy - 5); ctx.lineTo(cx + 35, cy - 5); },
+        'pre-in': () => { ctx.moveTo(cx, cy - 70); ctx.lineTo(cx - 15, cy - 40); ctx.lineTo(cx + 15, cy - 40); ctx.closePath(); },
+        'pre-ex': () => { ctx.moveTo(cx, cy - 40); ctx.lineTo(cx - 15, cy - 70); ctx.lineTo(cx + 15, cy - 70); ctx.closePath(); },
+        'pre-ad': () => { ctx.moveTo(cx, cy - 80); ctx.lineTo(cx, cy - 40); ctx.lineTo(cx - 10, cy - 55); ctx.moveTo(cx, cy - 40); ctx.lineTo(cx + 10, cy - 55); },
+        'pre-pro': () => { ctx.moveTo(cx - 80, cy); ctx.lineTo(cx - 40, cy); ctx.lineTo(cx - 55, cy - 10); ctx.moveTo(cx - 40, cy); ctx.lineTo(cx - 55, cy + 10); },
+
+        'root-duc': () => { ctx.moveTo(cx - 25, cy + 25); ctx.lineTo(cx + 25, cy - 25); ctx.moveTo(cx + 15, cy - 25); ctx.lineTo(cx + 25, cy - 25); ctx.lineTo(cx + 25, cy - 15); },
+        'root-tract': () => { ctx.moveTo(cx - 20, cy - 30); ctx.lineTo(cx - 20, cy + 10); ctx.arc(cx, cy + 10, 20, Math.PI, 0, true); },
+        'root-spect': () => { ctx.ellipse(cx, cy, 35, 20, 0, 0, Math.PI * 2); ctx.moveTo(cx + 10, cy); ctx.arc(cx, cy, 10, 0, Math.PI * 2); },
+        'root-ject': () => { ctx.moveTo(cx - 40, cy + 20); ctx.quadraticCurveTo(cx, cy - 60, cx + 40, cy + 20); },
+        'root-mit': () => { ctx.arc(cx, cy, 5, 0, Math.PI * 2); ctx.moveTo(cx, cy); ctx.lineTo(cx + 40, cy); ctx.moveTo(cx, cy); ctx.lineTo(cx - 30, cy + 30); ctx.moveTo(cx, cy); ctx.lineTo(cx - 30, cy - 30); },
+        'root-gen': () => { for (let i = 0; i < 30; i++) { let r = i * 1.5; ctx.lineTo(cx + Math.cos(i * 0.5) * r, cy + Math.sin(i * 0.5) * r); } },
+        'root-cap': () => { ctx.rect(cx - 25, cy - 25, 50, 50); },
+        'root-port': () => { ctx.moveTo(cx - 40, cy + 10); ctx.lineTo(cx + 40, cy + 10); ctx.rect(cx - 20, cy - 15, 40, 25); },
+
+        'suf-ion': () => { ctx.arc(cx, cy, 85, 0, Math.PI * 2); ctx.setLineDash([10, 5]); },
+        'suf-able': () => { for (let i = 0; i < 6; i++) { ctx.lineTo(cx + Math.cos(i * Math.PI * 2 / 6) * 90, cy + Math.sin(i * Math.PI * 2 / 6) * 90); } ctx.closePath(); },
+        'suf-or': () => { ctx.moveTo(cx - 95, cy - 20); ctx.lineTo(cx - 95, cy + 20); ctx.moveTo(cx + 95, cy - 20); ctx.lineTo(cx + 95, cy + 20); },
+        'suf-ive': () => { ctx.moveTo(cx - 85, cy - 85); ctx.lineTo(cx + 85, cy + 85); ctx.moveTo(cx + 85, cy - 85); ctx.lineTo(cx - 85, cy + 85); },
+        'suf-al': () => { ctx.arc(cx, cy, 90, 0, Math.PI * 2); ctx.moveTo(cx, cy); ctx.arc(cx, cy, 95, 0, Math.PI * 2); }
+    };
+
+    if (icons[id]) icons[id]();
+    ctx.stroke();
+    ctx.setLineDash([]); // Reset dash
 }
