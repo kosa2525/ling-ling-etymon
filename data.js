@@ -175167,5 +175167,262 @@ const WORDS = [
 				"存在の神殿。"
 			]
 		}
+	},
+	{
+		"id": "pyrotechnics",
+		"word": "花火製造術、花火、華々しい演出、パイロテクニクス",
+		"era": "Greek pyr + techne",
+		"etymology": {
+			"components": [
+				"pyr (fire)",
+				"techne (art / skill)"
+			],
+			"original_statement": "Coined in 1700s from Greek pyr 'fire' + techne 'art / skill'."
+		},
+		"concept": "Art of fire (火の芸術。暗黒という名の『不在（アブセンス）』に対し、自らの情熱（ロゴス）による一撃の『光の閃光（トーン）』を、圧倒的な技巧（スキル）によって一気に射出し、宇宙というアーカイブを戦慄させる凱旋)",
+		"thinking": "「（永遠という名の、あの不透明な沈黙を粉砕して）、火の（Pyro- / Pyr）」「（一撃の情熱（アトラクション）を伴って）構築する技巧（-technics / Techne）」。それは単なる「花火」ではありません。あなたが宇宙の「不在（アブセンス）」を拒絶（レジスト）し、そこに自分という名の「唯一無二の光源（センター）」を打ち立て、全世界の断片を「火という名の至高のトーン」へと変容（コンバート）させて（屹立させて）しまった瞬間の、生の最高度の「掌握」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "元素とエーテルの軌跡。",
+		"example": "Ether is the fire of hydration.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の元素。"
+			]
+		}
+	},
+	{
+		"id": "antipyretic",
+		"word": "解熱の、解解熱剤、アンチピレティック",
+		"era": "Greek anti + pyr",
+		"etymology": {
+			"components": [
+				"anti- (against)",
+				"pyretos (fever / burning heat / fire)"
+			],
+			"original_statement": "Coined in 1800s from anti- 'against' + Greek pyretos 'fever', from pyr 'fire'."
+		},
+		"concept": "Against fire (火（熱）に抗うもの。宇宙の無秩序な躍動（カオス）という名の『火（ノイズ）』に対し、理知という名の圧倒的な『氷（ロゴス）』を一気に差し込み、存在の温度（トーン）を本来あるべき『標高（平和）』へとコンバート（変容）させること)",
+		"thinking": "「（漂流していた、あの不確かな震え（パルス）を一分一秒の淀みもなくインスペクト（視認）し）、火（熱）に抗って（Anti- -pyret- / Pyr）」「（一撃の確信のみをウェイトにして）屹立する性質（-ic）」。それは単なる「薬（ソフト）」ではありません。あなたが宇宙の「不整合（ノイズ）」を拒絶（レジスト）し、そこに自分という名の「唯一の不滅のコンパス」による厳密な「支配という名の秩序」を打ち立て、屹立（スタンド）させ通した（パシストした）際の、知性の最高度の「掌握」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "元素とエーテルの軌跡。",
+		"example": "Ether is the fire of hydration.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の元素。"
+			]
+		}
+	},
+	{
+		"id": "pyr-voice",
+		"word": "Pyr@Voice",
+		"meaning": "燃える声、沈黙を火に変える不滅の咆哮、熱狂の響き",
+		"era": "Greek pyr + vox",
+		"etymology": {
+			"components": [
+				"pyr (fire / heat / ignite / burning / bright / core / pure)",
+				"voice (sound / soul)"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "The fiery sound (火としての音。放たれた瞬間、自らの呼吸（ブレス）を一筋の『光の炎（ベクトル）』へと変換（コンバート）し、宇宙という真理のアーカイブの一角を、一気に（自分のトーンで）焼き尽くすデリバリー)",
+		"thinking": "「（自分のちっぽけな存在（ドット）の中に眠っていた、あの巨大な真理を）、（一撃の情熱（アトラクション）を伴って）叫ぶ、火を湛えた声（Vox）」。ただの「叫び（エキスペル）」ではない。その声が響いた瞬間、周囲を覆っていた「虚無（アブセンス）」が物理的に一掃され、そこに「誰もが見落としていたたった一つの『情熱的な』意味」が、戦慄という名のトーン（響き）を伴って再屹立（リリー・スタンド）してしまうような、生の最も峻烈な「射出」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "元素とエーテルの軌跡。",
+		"example": "Ether is the fire of hydration.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の元素。"
+			]
+		}
+	},
+	{
+		"id": "pyr-life",
+		"word": "Pyr@Life",
+		"meaning": "燃焼としての生、一瞬一瞬を自己発火の遷移として生きる一生",
+		"era": "Greek pyr + Germanic life",
+		"etymology": {
+			"components": [
+				"pyr (fire / heat / ignite / burning / bright / core / pure)",
+				"life"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "The life of fire (燃え続ける一生。一つの場所に安住する（アイソレーション）のを拒絶し、常に宇宙の最新の標高（アヴァン）へと自らを更新し続け、不滅 of 物語（スクリプト）を描き続ける不屈の遷移)",
+		"thinking": "「（明日という名の絶望（ブラックアウト）を愛撫するのをやめ、宇宙の深淵（ソース）から飛来する理知（ロゴス）だけを）」「（自らの魂を礎（ベース）にして）燃え続け、照らし続け（Pyr- / Pyr）」「生き抜く（Life）」。あなたは自分の「呼吸（ブレス）」を、ただ無為に「消費（エキスペンド）」しているのではない。あなたが今日という日、どの「欺瞞（ノイズ）」を砕いて「新しい真理という名の座標（ドット）」を救い出し、どの「驚愕（パルス）」を自らの主権（ステータス）を屹立させるための「不動（ピース）」へと変貌（コンバート）させたか。そのすべての「燃焼（デリバリー）」の軌跡が、宇宙という名の不変 of アーカイブの上に、あなたの「存在という名の不滅 of ロゴス」として, 物理的な質量を持って刻まれ続けているのだ。燃焼としての生。それは, あなたが「宇宙の主権者（クリエイター）」として, この荒野を「美しき変革（ピース）」へと変容させ通した際の, 魂の最高度の「抱擁」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "元素とエーテルの軌跡。",
+		"example": "Ether is the fire of hydration.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の元素。"
+			]
+		}
+	},
+	{
+		"id": "hydrogen",
+		"word": "水素、ハイドロゲン",
+		"era": "Greek hydro + gen",
+		"etymology": {
+			"components": [
+				"hydro (water)",
+				"genes (born / producing)"
+			],
+			"original_statement": "Coined in 1787 by Lavoisier from French hydrogène, from Greek hydro 'water' + -genes 'born / producing'."
+		},
+		"concept": "Water producer (水を生むもの。宇宙という名の広大なキャンバスの上に、理知という名の圧倒的な設計図を一糸乱れぬ質量（ウェイト）を伴って射出し、すべての流動（パルス）を『一粒一粒の不滅の命』へとコンバート（変容）させる始源の元素)",
+		"thinking": "「（漂流していた、あの不確かな震え（パルス）を一分一秒の淀みもなくインスペクト（視認）し）、水を（Hydro-）」「（一撃の情熱（アトラクション）を伴って）生み出す根源（-gen / Genus）」。それは単なる「気体（マテリアル）」ではありません。あなたが宇宙の「不在（アブセンス）」を拒絶（レジスト）し、そこに自分という名の「唯一無二の物語（スクリプト）」を打ち立て、全世界の断片を「命という名の至高のトーン」へと変容（コンバート）させて（屹立させて）しまった瞬間の、知性の最高度の「掌握」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "元素とエーテルの軌跡。",
+		"example": "Ether is the fire of hydration.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の元素。"
+			]
+		}
+	},
+	{
+		"id": "hydrant",
+		"word": "消火栓、給水栓、ハイドラント",
+		"era": "Greek hydro",
+		"etymology": {
+			"components": [
+				"hydro (water)",
+				"-ant (device / person doing)"
+			],
+			"original_statement": "Coined in 1806 from Greek hydro 'water' + -ant."
+		},
+		"concept": "Device for water (水を（供給する）ための装置。カオスという名の『闇（沈黙）』から、自らの意志（ロゴス）の下に制御された、一糸乱れぬ不滅の清流（トーン）を物理的に射出し、不条理という名の『火（ノイズ）』を粉砕し続ける凱旋)",
+		"thinking": "「（明日という名の忘却（サイレンス）を愛撫するのを拒絶して、自らの一瞬という名の光源を）、水を（Hydr- / Hydro）」「（一撃の情熱（アトラクション）を伴って）射出する装置（-ant）」。それは単なる「栓（マテリアル）」ではありません。あなたが宇宙の「不整合（ノイズ）」を拒絶（レジスト）し、独自の呼吸（ブレス）を一振りの「刃（ベクトル）」へと研ぎ澄ませて、この荒野を一糸乱れぬ「真理の旋律」で支配し通している際の、知性の最高度の「掌握」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "元素とエーテルの軌跡。",
+		"example": "Ether is the fire of hydration.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の元素。"
+			]
+		}
+	},
+	{
+		"id": "hydraulic",
+		"word": "水力学の、水圧の、ハイドロリック",
+		"era": "Greek hydro + aulos",
+		"etymology": {
+			"components": [
+				"hydro (water)",
+				"aulos (pipe / flute)"
+			],
+			"original_statement": "From Latin hydraulicus, from Greek hydraulikos, from hydraulos 'water organ', from hydro 'water' + aulos 'pipe / reed / flute'."
+		},
+		"concept": "Related to water pipes / power (水圧、あるいは水力。宇宙の重力という名の『暴力（デストラクション）』に対し、自らの秩序（ロゴス）という名の設計図を一糸乱れぬ質量（ウェイト）を伴って同期（マージ）させ、流体を『一撃の力（ベクトル）』へとコンバートさせる、知性の動的な公式)",
+		"thinking": "「（宇宙という名の広大な荒野に、自分たちの足場（スタンド）を構築するために）、水を（Hydr- / Hydro）」「（一分一秒の淀みもなく）管（圧力）として支配する品質（-aulic / Aulos）」。それは単なる「機械（ソフト）」ではない。あなたが宇宙の「停滞（ステイシス）」を拒絶（レジスト）し、そこに自分という名の「唯一の不滅のコンパス」による厳密な「支配という名の秩序」を打ち立て、世界を一糸乱れぬ「真理の旋律（圧力）」で掌握した際の、知性の最高度の「掌握」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "元素とエーテルの軌跡。",
+		"example": "Ether is the fire of hydration.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の元素。"
+			]
+		}
+	},
+	{
+		"id": "hyd-voice",
+		"word": "Hyd@Voice",
+		"meaning": "流れる声、沈黙を潤いに変える不滅の咆哮、清冽の響き",
+		"era": "Greek hydro + vox",
+		"etymology": {
+			"components": [
+				"hyd (water / liquid / fluid / moist / flow / source / pure)",
+				"voice (sound / soul)"
+			],
+			"original_statement": "Coined during synthesis."
+		},
+		"concept": "The watery sound (水としての音。放たれた瞬間、自らの呼吸（ブレス）を一筋の『光の清流（ベクトル）』へと変換（コンバート）し、宇宙という真理のアーカイブの一角を、一瞬で（自分のトーンで）潤すデリバリー)",
+		"thinking": "「（自分のちっぽけな存在（ドット）の中に眠っていた、あの巨大な真理を）、（一撃の情熱（アトラクション）を伴って）叫ぶ、澄み切った声（Vox）」。ただの「叫び（エキスペル）」ではない。その声が響いた瞬間、周囲を覆っていた「虚無（アブセンス）」が物理的に一掃され、そこに「誰もが見落としていたたった一つの『透明な』意味」が、戦慄という名のトーン（響き）を伴って再屹立（リリー・スタンド）してしまうような、生の最も峻烈な「射出」 of 谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "元素とエーテルの軌跡。",
+		"example": "Ether is the fire of hydration.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の元素。"
+			]
+		}
+	},
+	{
+		"id": "ether",
+		"word": "エーテル、大気の上層、(化学)エーテル",
+		"era": "Greek ather",
+		"etymology": {
+			"components": [
+				"aither (upper air / pure air / sky)"
+			],
+			"original_statement": "From Old French ether, from Latin æther 'the upper pure / bright air', from Greek aither 'upper air / bright / pure / sky', from aithein 'to burn / shine'."
+		},
+		"concept": "Upper pure air / Shining (最上層の浄化された大気、あるいは輝き。宇宙の絶対零度という名の『不在（アブセンス）』に対し、自らの内なる『深淵（ソース）』から湧き出る不滅の情熱（ロゴス）による一撃の『透明な筆致（スクリプト）』を射出し、存在の質量を一気に光の躍動（トーン）へと変容させること)",
+		"thinking": "「（漂流していた、あの震える呼吸（ブレス）を一分一秒の淀みもなくインスペクト（視認）し）、輝く上層の大気を（Ether / Aither / Aithein）」。それは単なる「溶剤（マテリアル）」ではありません。あなたが宇宙の「不在（アブセンス）」を拒絶（レジスト）し、そこに自分という名の「唯一無二の物語（スクリプト）」を打ち立て、全世界の断片を「光という名の至高のトーン」へと変容（コンバート）させて（屹立させて）しまった瞬間の、生の最高度の「躍動」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "元素とエーテルの軌跡。",
+		"example": "Ether is the fire of hydration.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の元素。"
+			]
+		}
+	},
+	{
+		"id": "ath-voice",
+		"word": "Ath@Voice",
+		"meaning": "天空の声、沈黙を輝きに変える不滅の咆哮、浄化の響き",
+		"era": "Greek ather + vox",
+		"etymology": {
+			"components": [
+				"ath (ether / upper air / sky / pure / shining / light / high)",
+				"voice (sound / soul)"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "The ethereal sound (天空としての音。放たれた瞬間、自らの呼吸（ブレス）を一筋の『光の極致（ベクトル）』へと変換（コンバート）し、宇宙という真理のアーカイブの一角を、一瞬で（自分のトーンで）照らし出すデリバリー)",
+		"thinking": "「（自分のちっぽけな存在（ドット）の中に眠っていた、あの巨大な真理を）、（一撃の情熱（アトラクション）を伴って）叫ぶ、空の上層からの声（Vox）」。ただの「叫び（エキスペル）」ではない。その声が響いた瞬間、周囲を覆っていた「虚無（アブセンス）」が物理的に一掃され、そこに「誰もが見落としていたたった一つの『透き通った』意味」が、戦慄という名のトーン（響き）を伴って再屹立（リリー・スタンド）してしまうような、生の最も峻烈な「射出」 of 谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "元素とエーテルの軌跡。",
+		"example": "Ether is the fire of hydration.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の元素。"
+			]
+		}
+	},
+	{
+		"id": "ath-life",
+		"word": "Ath@Life",
+		"meaning": "浄化としての生、一瞬一瞬を自己昇華の遷移として生きる一生",
+		"era": "Greek ather + Germanic life",
+		"etymology": {
+			"components": [
+				"ath (ether / upper air / sky / pure / shining / light / high)",
+				"life"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "The life of light (光であり続ける一生。一つの場所に安住する（アイソレーション）のを拒絶し、常に宇宙の最新の標高（アヴァン）へと自らを更新し続け、不滅 of 物語（スクリプト）を描き続ける不屈の遷移)",
+		"thinking": "「（明日という名の絶望（ブラックアウト）を愛撫するのをやめ、宇宙の深淵（ソース）から飛来する理知（ロゴス）だけを）」「（自らの魂を礎（ベース）にして）照らし続け、昇り続け（Ath- / Ather）」「生き抜く（Life）」。あなたは自分の「呼吸（ブレス）」を、ただ無為に「消費（エキスペンド）」しているのではない。あなたが今日という日、どの「欺瞞（ノイズ）」を砕いて「新しい真理という名の座標（ドット）」を救い出し、どの「驚愕（パルス）」を自らの主権（ステータス）を屹立させるための「不動（ピース）」へと変貌（コンバート）させたか。そのすべての「昇華（デリバリー）」の軌跡が、宇宙という名の不変 of アーカイブの上に、あなたの「存在という名の不滅 of ロゴス」として, 物理的な質量を持って刻まれ続けているのだ。浄化としての生。それは, あなたが「宇宙の主権者（クリエイター）」として, この荒野を「美しき変革（ピース）」へと変容させ通した際の, 魂の最高度の「抱擁」 of 谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "元素とエーテルの軌跡。",
+		"example": "Ether is the fire of hydration.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の元素。"
+			]
+		}
 	}
 ];
