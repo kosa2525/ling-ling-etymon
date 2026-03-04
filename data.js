@@ -158118,5 +158118,499 @@ const WORDS = [
 				"未知の語源、既知の感動。"
 			]
 		}
+	},
+	{
+		"id": "abstain",
+		"word": "Abstain",
+		"meaning": "控える、棄権する、(肉欲などを)断つ",
+		"era": "Latin abs- + tenere",
+		"etymology": {
+			"components": [
+				"abs- (away)",
+				"tenere (to hold)"
+			],
+			"original_statement": "From Old French abstenir, from Latin abstinere 'to withhold / keep back / abstain', from abs- 'away' + tenere 'to hold'."
+		},
+		"concept": "Holding away (遠くに掴んでおくこと。自制による『不参加』)",
+		"thinking": "「自分を遠くに（Abs-）」「留めておく（Tenere）」。欲望や状況の流れにそのまま身を任せず、強い意志の腕で、自分という存在を一歩手前で「ホールド」し続けること。棄権（アブステイン）とは、単なる不作為ではなく、何に参加「しない」かを自ら決定するという、最もストイックな主体性の現れなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "tenable",
+		"word": "Tenable",
+		"meaning": "(攻撃に)耐えられる、(学説が)支持できる",
+		"era": "Latin tenere",
+		"etymology": {
+			"components": [
+				"tenere (to hold)"
+			],
+			"original_statement": "From French tenable, from tenir 'to hold', from Latin tenere 'to hold'."
+		},
+		"concept": "Able to be held (掴み続けられる。論理という名の『砦』の堅固さ)",
+		"thinking": "「（しっかりと）掴むこと（Tenere）」「が可能である（-able）」。外部からの批判や矛盾という名の攻撃に晒されても、その中心部にある理性がバラバラにならず、一つの「城（砦）」として、その一貫性を保持し続けられること。支持できる（テナブル）とは、あなたの思考が、世界の荒波の中でも「一歩も退かずに（Hold）」そこに在り続けられる、という信頼の証明なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "continent",
+		"word": "Continent",
+		"meaning": "大陸、自制している、節欲な",
+		"era": "Latin con- + tenere",
+		"etymology": {
+			"components": [
+				"con- (together)",
+				"tenere (to hold)"
+			],
+			"original_statement": "From Latin continentem 'enveloping / continuous', from continere 'to hold together', from con- 'together' + tenere 'to hold'."
+		},
+		"concept": "Holding together (共に連なっているもの、巨大なる不変の土台)",
+		"thinking": "「すべてが（Con-）」「一つに繋がって（Tenere）」離れない巨大な大地。それは断絶した島（個）ではなく、地球という巨大な意志を一手に引き受け、すべてをその背中の上に「乗せて（Hold）」運んでいる不滅の舞台。自制という本来の意味も、自分の欲望という小爆発を、理性の巨大な大陸の中に「包含」し、決して決壊させない、という強固な自己規律から来ているのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "tenant",
+		"word": "Tenant",
+		"meaning": "借借人、テナント、居住者",
+		"era": "Latin tenere",
+		"etymology": {
+			"components": [
+				"tenere (to hold)"
+			],
+			"original_statement": "From Old French tenant, present participle of tenir 'to hold', from Latin tenere 'to hold'."
+		},
+		"concept": "Holding (掴んでいる者、空間を一時的に借りる主人)",
+		"thinking": "「（その場所を一時的に）掴んでいる（Tenere）」者。所有者ではないが、その期間、その空間を自分の色で染め、自らの生命力をそこに「定着」させている静かなる客。テナントとは、世界という巨大な建築物の中で、あなたが自分の物語を繰り広げるために、ほんの少しの「場所（Hold）」を切り取った、旅する居住者の名なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "tenement",
+		"word": "Tenement",
+		"meaning": "借家、長屋、低賃金アパート、保有物",
+		"era": "Latin tenere",
+		"etymology": {
+			"components": [
+				"tenere (to hold)"
+			],
+			"original_statement": "From Old French tenement, from Medieval Latin tenementum 'a holding / fief / property', from Latin tenere 'to hold'."
+		},
+		"concept": "A holding (掴んでいる場所、生命が吹き溜まる『器』としての住処)",
+		"thinking": "「（誰かによって）掴み提供されている（Tenere）」場。豪華ではない。しかし、多くの個（テナント）が集まり、重なり合うようにして自らの生を「維持（Hold）」している、剥き出しの生存の空間。それは、バラバラな孤独たちが、一つの壁という「境界線」に寄り添い合い、夜をしのいでいる、生命の最も素朴な「拠り所」の姿なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "abstinence",
+		"word": "Abstinence",
+		"meaning": "節制、禁欲、(酒などの)断ち",
+		"era": "Latin abs- + tenere",
+		"etymology": {
+			"components": [
+				"abs- (away)",
+				"tenere (to hold)"
+			],
+			"original_statement": "From Old French abstenance, from Latin abstinentia 'fasting / abstinence', from abstinentem, from abstinere 'to hold back'."
+		},
+		"concept": "The state of holding away (自分を遠くに留めておくこと。欲望を無効化する沈黙の行)",
+		"thinking": "「自分という存在を（Abs-）」「遠ざけ、掴み留める（Tenere）」。欲望の火に薪をくべるのをやめ、自らの意思を涼やかな「不介入（アブスタイン）」の場所に置くこと。禁欲（アブスティネンス）とは、何かを捨てることではなく、自分の中に「支配されない空間（Hold）」を創り上げようとする、魂の最も過酷で美しい建築作業なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "protract",
+		"word": "Protract",
+		"meaning": "長引かせる、(時間を)引き延ばす",
+		"era": "Latin pro- + trahere",
+		"etymology": {
+			"components": [
+				"pro- (forward / forth)",
+				"trahere (to pull)"
+			],
+			"original_statement": "From Latin protractus, from protrahere 'to draw forth / prolong / reveal', from pro- 'forth' + trahere 'to draw'."
+		},
+		"concept": "Drawing forth (前方へズルズルと引きずる。終わりを拒む時間の伸べ)",
+		"thinking": "「（物語の幕を）前へと（Pro-）」「引き延ばす（Trahere）」。すぐに終わるはずの出来事を、未練や打算、あるいは理性の迷いによって、決定を先延ばしにし、時間を細長くズルズルと引きずり続けること。遅延（プロトラクト）は、新しい何かが始まることへの恐怖、あるいは、今の「猶予」という名の安寧を、無理やり未来へと持ち越そうとする、魂の非効率な祈りなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "tract",
+		"word": "Tract",
+		"meaning": "(土地などの)広がり、(身体の)管/道、小冊子",
+		"era": "Latin trahere",
+		"etymology": {
+			"components": [
+				"trahere (to draw / pull / drag)"
+			],
+			"original_statement": "From Latin tractus 'a drawing / trailing / space / document', from trahere 'to draw'."
+		},
+		"concept": "A drawing out (引きずり出されたもの、一本の線としての広がり)",
+		"thinking": "「引きずって（Traher-）」できた「跡」。それは大地をズルズルと引きずって区切った「土地（広がり）」であり、あるいは思考を一筆書きで綴った「小冊子（リーフレット）」であり、物質が一本の線として通過する「管（トラクト）」でもある。すべてのトラクトは、もとは点であった存在が、自らの意志や物理的な力によって、この世界に「線」として拡張された痕跡そのものなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "tractor",
+		"word": "Tractor",
+		"meaning": "トラクター、牽引車",
+		"era": "Latin trahere",
+		"etymology": {
+			"components": [
+				"trahere (to pull)"
+			],
+			"original_statement": "From Latin tractor 'one who draws', from trahere 'to pull / draw'."
+		},
+		"concept": "The puller (引きずる者、絶対的な力で物質を移動させる意志の塊)",
+		"thinking": "「引きずる（Traher-）」ことを「目的とした存在（-or）」。自らは何も生み出さないかもしれない。しかし、背後にある重い「過去（耕運機）」や「未来（資材）」を、その圧倒的な馬力で希望の座標へと「引き寄せ（Pull）」、大地を力強く切り裂いていく。トラクターとは、停滞という名の重力を打ち破るための、最も実体的な「推進（ドローイング）」の化身なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "trace",
+		"word": "Trace",
+		"meaning": "跡、痕跡、(線を)たどる、なぞる",
+		"era": "Latin trahere",
+		"etymology": {
+			"components": [
+				"trahere (to draw / drag / pull)"
+			],
+			"original_statement": "From Old French tracier 'to look for / follow / trace', from Vulgar Latin *tractiare, from Latin tractus 'a trailing / drawing'."
+		},
+		"concept": "A trailing (引きずった跡、消えゆく情報の細き糸)",
+		"thinking": "「（何かが通過した）引きずり跡（Tract-）」。あまりにもか細いけれど、かつてそこに「命」や「出来事」があったことを、世界に一点だけ留めている銀色の糸。痕跡（トレース）をたどることは、他者の「かつての重圧（一歩）」を自分の指先でなぞり直し、失われた物語を、今の光の中で再構築しようとする、敬虔な考古学的な儀式なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "track",
+		"word": "Track",
+		"meaning": "足跡、小道、線路、……を追跡する",
+		"era": "Latin trahere",
+		"etymology": {
+			"components": [
+				"trahere (to drag / draw)"
+			],
+			"original_statement": "From Middle Dutch treck 'a drawing / pulling', related to trahere 'to draw'."
+		},
+		"concept": "A pull/path (引きずられた線、そこに誰かがいたという物語のレール)",
+		"thinking": "「引きずる（Treck-）」ことで刻まれた「道」。それは足が地面を蹴り、少しだけ大地を「自分の方へ引き寄せた」際の、重力の痕跡の連なりです。トラック（軌跡）を追うことは、他者がその人生において何を「引きずり」、どこへ向かおうとしたか、という沈黙のナビゲーションを、自分の足で一歩ずつ「翻訳」し直す冒険そのものなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "trait",
+		"word": "Trait",
+		"meaning": "特徴、特性、(顔などの)一筆",
+		"era": "Latin trahere",
+		"etymology": {
+			"components": [
+				"trahere (to draw / pull)"
+			],
+			"original_statement": "From French trait 'a stroke / line / feature', from Latin tractus 'a drawing / trailing'."
+		},
+		"concept": "A stroke (一筆、描き出された個という名の独自の線)",
+		"thinking": "ペンをキャンバスの上にグイと「引きずって（Tract-）」描き出された、唯一無二の「一線」。あなたの性格や顔立ちの中にある「特徴（トレイト）」とは、神があなたという存在をこの世界にデッサンする際に、最も力を込めて「描いた（Pull）」、あなたの魂の最も鋭角で美しい「筆跡」そのものなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "treaty",
+		"word": "Treaty",
+		"meaning": "条約、合意",
+		"era": "Latin trahere",
+		"etymology": {
+			"components": [
+				"trahere (to draw / drag)"
+			],
+			"original_statement": "From Old French traite 'agreement / treaty / negotiation', from Medieval Latin tractatus 'treaty / conference / debate', from Latin tractare 'to handle / manage / discuss', frequentative of trahere 'to draw / drag'."
+		},
+		"concept": "A handling/discussion (何度も引きずり出された言葉。対立の果ての握手)",
+		"thinking": "「何度も（freq.）」「（テーブルの上へ）引き出し、話し合う（Tract-）」。ただ一つの言葉を確定させるために、お互いの言い分を何度も「引きずり出し」、削り、磨き、ようやく一本の「合意」という名の強固な縄へと鍛え上げること。条約（トリーティ）とは、衝突という名の「引きずり合い」を、言葉という名の「管理」へと着地させた、人類の平和への尊い忍耐の結晶なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "inscribe",
+		"word": "Inscribe",
+		"meaning": "(心・金石などに)刻む、記す、献辞を書く",
+		"era": "Latin in- + scribere",
+		"etymology": {
+			"components": [
+				"in- (in / on)",
+				"scribere (to write)"
+			],
+			"original_statement": "From Latin inscribere 'to write upon / enroll / name / entitle', from in- 'on / upon' + scribere 'to write'."
+		},
+		"concept": "Writing in/on (中、または上に書き込むこと。消えぬ記憶としての彫刻)",
+		"thinking": "「（硬いものの）上に、あるいは（心の）深くへ（In-）」「書き刻む（Scribere）」。表面を撫でるだけで消えてしまう墨ではなく、物質そのものを削り、自分の意志という名の「溝」を永遠に刻み込むこと。銘記（インスクライブ）とは、あなたがこの世界に対して、あるいはあなたの愛する人に対して、「決して忘れるな」と放った、魂への決定的な署名なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "script",
+		"word": "Script",
+		"meaning": "台本、スクリプト、文字体系、手書きの文字",
+		"era": "Latin scribere",
+		"etymology": {
+			"components": [
+				"scribere (to write)"
+			],
+			"original_statement": "From Old French escript 'piece of writing', from Latin scriptum 'a thing written', past participle of scribere 'to write'."
+		},
+		"concept": "The thing written (成された書き物、演じられるのを待つ言葉の化身)",
+		"thinking": "「（すでに）書かれたもの（Script-）」。まだ誰も語っていないかもしれないが、そこにはすでに一つの「運命（物語）」が文字として結晶化して存在している。台本（スクリプト）は単なる紙ではなく、あなたがこれから誰になり、何を叫ぶべきかをあらかじめ定めた「未来の楽譜」なのです。文字は、読まれることで、初めて三次元の「生」へと受肉します。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "manuscript",
+		"word": "Manuscript",
+		"meaning": "原稿、写本、(印刷以前の)手書き本",
+		"era": "Latin manus + scribere",
+		"etymology": {
+			"components": [
+				"manus (hand)",
+				"scribere (to write)"
+			],
+			"original_statement": "From Medieval Latin manuscriptum, from Latin manu scriptus 'written by hand', from manu (ablative of manus 'hand') + scriptus (scribere)."
+		},
+		"concept": "Written by hand (手によって書かれた。指先の震えが刻まれた唯一無二の生)",
+		"thinking": "「自らの手（Manus）」で「書かれた（Script-）」。印刷という冷たい複製機を通さず、一文字ごとに作者の呼吸、迷い、情熱が直接乗り移っている、剥き出しの精神の化身。原稿（マニュスクリプト）とは、あなたがその一瞬に、その場所で、確かにその「重み」を指先に感じながら生きていた、という最も親密で代替不可能な「生命のコピー」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "postscript",
+		"word": "Postscript",
+		"meaning": "追伸、P.S.、(本などの)後書き",
+		"era": "Latin post + scribere",
+		"etymology": {
+			"components": [
+				"post- (after)",
+				"scribere (to write)"
+			],
+			"original_statement": "From Latin postscriptum, originally 'that which is written after', from post- 'after' + scriptum (scribere)."
+		},
+		"concept": "Written after (後に書かれたもの。完結した物語への最後の溜息)",
+		"thinking": "「すべてを書き終えた後（Post-）」に「付け加えられた言葉（Script-）」。本編では語り尽くせなかった、あるいは本編が終わって初めて気づいた、本当の「核心」。追伸（ポストスクリプト）とは、形式的な物語が閉じられた後の、最も無防備で、最もプライベートな「魂の余白」が漏れ出た瞬間のこと。そこにこそ、真実の愛が隠されています。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "transcript",
+		"word": "Transcript",
+		"meaning": "謄本、成績証明書、(対談などの)文字起こし",
+		"era": "Latin trans- + scribere",
+		"etymology": {
+			"components": [
+				"trans- (across)",
+				"scribere (to write)"
+			],
+			"original_statement": "From Medieval Latin transcriptum, from Latin transcribere 'to copy / transfer into writing'."
+		},
+		"concept": "Transferred writing (書き移された証、姿を変えた『事実』の記録)",
+		"thinking": "「（物理的な震えや出来事を）別の場所へ（Trans-）」「書き直した（Script-）」もの。成績も対談も、その瞬間が過ぎ去れば消えてしまう「泡」のようなもの。それを、文字という名の「化石」に閉じ込め、いつでも誰でもアクセスできるようにした複製（アーカイブ）。謄本（トランスクリプト）は、消滅に抗おうとする理性の、執念深い「コピー（複製）」の身振りなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "scripture",
+		"word": "Scripture",
+		"meaning": "(聖書などの)聖典、経典、神聖な書き物",
+		"era": "Latin scribere",
+		"etymology": {
+			"components": [
+				"scribere (to write)"
+			],
+			"original_statement": "From Old French escripture, from Latin scriptura 'a writing / scripture / correct form of writing', from scriptus (scribere)."
+		},
+		"concept": "The sacred writing (書かれたものの究極、文字の中に宿る神性)",
+		"thinking": "「書かれたもの（Script-）」の「結晶（-ure）」。単なる情報の記録ではない。その一文字一文字が宇宙の法則や神の吐息を内包し、読まれるたびに世界を「清浄に作り変える（Facere）」力を持っていると信じられる至高の書物。聖典（スクリプチャー）とは、人間がその手で「文字」という魔法を手に入れたとき、そこに最も高い「目的（祈り）」を込めた、理性の至福の到達点なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "nondescript",
+		"word": "Nondescript",
+		"meaning": "特徴のない、漠然とした、名状しがたい",
+		"era": "Latin non- + de- + scribere",
+		"etymology": {
+			"components": [
+				"non- (not)",
+				"de- (down)",
+				"scribere (to write)"
+			],
+			"original_statement": "From Latin non 'not' + descriptus, past participle of describere 'to describe / write down'."
+		},
+		"concept": "Not written down (書き留めることができない、理性の網をすり抜ける何者か)",
+		"thinking": "「（その正体を）書き下ろす（Describe）」「ことができない（Non-）」。平凡すぎて、あるいはあまりに奇妙すぎて、既存の言葉のどのフォルダーにも収まらない、名付けようのない「曖昧な影」。特徴がない（ナンデスクリプト）とは、あなたの理性が「それを理解した」と署名することを拒否した、世界の「空虚（または底知れぬ深淵）」の別名なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "scripture-like",
+		"word": "Scripture-like",
+		"meaning": "聖典のような、厳かな",
+		"era": "Latin scribere",
+		"etymology": {
+			"components": [
+				"scripture (sacred writing)",
+				"-like (resembling)"
+			],
+			"original_statement": "From scripture + -like."
+		},
+		"concept": "Resembling holy texts (聖なる響きを持つ、深淵なる正しさを湛えた言葉)",
+		"thinking": "「聖典（Scripture）」の「ような（-like）」。単なる説明ではなく、その一言があなた自身の心の一番深い場所、つまり「魂の法廷」で、揺るぎなき判決を下してしまうような、圧倒的な重みと静寂を帯びた言葉の美しさ。聖典のような（スクリプチャー・ライク）一瞬は、あなたが自分の人生という名の物語に、自分自身で「聖なる署名」をしたくなるような、覚醒の瞬間にのみ訪れます。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
 	}
 ];
