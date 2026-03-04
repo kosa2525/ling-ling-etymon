@@ -171791,5 +171791,288 @@ const WORDS = [
 				"発露のベクトル。"
 			]
 		}
+	},
+	{
+		"id": "fuse",
+		"word": "融合させる、溶ける、導火線、ヒューズ",
+		"meaning": "融合する、溶ける",
+		"era": "Latin fundere",
+		"etymology": {
+			"components": [
+				"fundere (to pour/melt)"
+			],
+			"original_statement": "From Latin fusus, past participle of fundere 'to pour / melt'."
+		},
+		"concept": "To melt/pour together (溶かす、融合する。全く異なる性質を持った硬い鉱石たち（孤立したドット群）に対し、人間の狂熱（一万度のパルス）を浴びせかけてドロドロの液体（カオス）に還元し、一分一秒の淀みもなくそれを宇宙でただ一つの『全く新しい最強の合金（マージされた超ネットワーク）』へと叩き直すこと)",
+		"thinking": "「（それぞれが別々の形を保ち続けるのをやめ）、熱と圧力によって溶け合い（Fus- / Fundere）」「（一分一秒の淀みもなく）一つに混ざり合う、液状化して流れ込む（-e）」。それは単なる「合体」ではありません。あなたが「これ以上は変わらないという冷え切った状態（エントロピーの死）」を力技で拒絶（レジスト）し、命の炎で対象を『無限の可能性を持ったドロドロの魂（再構築のための原形質）』へとコンバートする、創世の「坩堝」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "奔流と破壊、そして駆動力。",
+		"example": "Pour your energy, break the limits, and drive the future.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"発露のベクトル。"
+			]
+		}
+	},
+	{
+		"id": "transfuse",
+		"word": "輸血する、注入する、移し替える",
+		"meaning": "輸血する",
+		"era": "Latin trans + fundere",
+		"etymology": {
+			"components": [
+				"trans- (across)",
+				"fundere (to pour)"
+			],
+			"original_statement": "From Latin transfusus, past participle of transfundere 'pour from one vessel to another', from trans- 'across' + fundere 'pour'."
+		},
+		"concept": "To pour across (横切って注ぐ（輸血する）。自立した別々の命（孤立した二つのステーション）の間に、強引に『赤い光の管（直接のバイパス）』を突き刺し、一方の燃えたぎる生きた血（絶対的な生命のウェイトとフロー）を、空間を横切ってもう一方へと一分一秒の淀みもなく直接ドクドクと移し替える禁断の儀式)",
+		"thinking": "「（一つの器から別の器へと）、空間と境界を横切って直接（Trans-）」「（一分一秒の淀みもなく）注ぎ込み、命そのものを移し替える（-fuse / Fundere）」。それは単なる「献血」ではありません。あなたが「個体と個体は決して交われない」という宇宙の悲しい法則（アイソレーション）を完全に粉砕（レジスト）し、そこに理科と愛の権化として『二つの心臓を一つの循環ネットワークへと強引に統合（マージ）させる』、命の「直結工事」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "奔流と破壊、そして駆動力。",
+		"example": "Pour your energy, break the limits, and drive the future.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"発露のベクトル。"
+			]
+		}
+	},
+	{
+		"id": "suffuse",
+		"word": "覆う、満たす、広がって浸す",
+		"meaning": "覆う、満たす",
+		"era": "Latin sub + fundere",
+		"etymology": {
+			"components": [
+				"sub- (under/up from under)",
+				"fundere (to pour)"
+			],
+			"original_statement": "From Latin suffusus, past participle of subfundere 'pour below or from below / overspread', from sub- 'under' + fundere 'pour'."
+		},
+		"concept": "To pour up from under (下から注ぐ、表面を覆い尽くす。冷たく青白い『死の顔面（無表情のアーカイブ）』に対し、皮膚の奥底（最も深い感情の炉心）から突如として熱水（恥じらいや怒鳴というパルス）が湧き上がり、下から上へと一撃で溢れ出して、全体を紅の炎（完全なカオス色）で満たし尽くすこと)",
+		"thinking": "「（表面から塗りつけるのではなく）、その対象の奥底、下の方からじわじわと（Suf- / Sub-）」「（一分一秒の淀みもなく）注がれて湧き上がり、全体を隅々まで浸し切る（-fuse / Fundere）」。それは単なる「赤面」ではありません。あなたが「感情を押し殺して平然を装う（ステイシスへの偽装）」ことを体の内側からの巨大な熱量で粉砕され、そこに人間の魂の『制御不能の美しき暴走（ウェイトの完全発露）』を強引に引き出されてしまう現象なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "奔流と破壊、そして駆動力。",
+		"example": "Pour your energy, break the limits, and drive the future.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"発露のベクトル。"
+			]
+		}
+	},
+	{
+		"id": "foundry",
+		"word": "鋳造所、ファウンドリー",
+		"meaning": "鋳造所",
+		"era": "Latin fundere (via French)",
+		"etymology": {
+			"components": [
+				"fundere (to pour)",
+				"-ry (place of)"
+			],
+			"original_statement": "From Middle French fonderie, from fondre 'to melt / cast', from Latin fundere 'to pour / melt'."
+		},
+		"concept": "Place of pouring/melting (溶かして注ぐ場所。自然界から掘り出したただの『岩くれ（無機質なカオスの泥）』を、灼熱の大釜（一万度のアーカイブの炉心）にブチ込んで真っ赤な泥（無限の可能性のフロー）に変え、人間の望む無敵の強固な形（剣や歯車としての新たなドット）へと一分一秒の淀みもなく『流し込み（コンバートし）、錬成する』奇跡の神殿)",
+		"thinking": "「（硬く冷たい金属を跡形もなく溶かし）、型に向かって真っ赤な命を（Found- / Fundere）」「（一撃の怒号と汗とともに）注ぎ込んで決まった形を産み落とす、その炎の修羅場（-ry）」。それは単なる「工場」ではありません。あなたが「自然のままにあるがままで死ぬ（エントロピーの奴隷）」ことを完全に拒絶し、そこにある種の『神を殺して自らが創造主となるための暴力的な工房（ステーション）』を現出させる、鋼の「子宮」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "奔流と破壊、そして駆動力。",
+		"example": "Pour your energy, break the limits, and drive the future.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"発露のベクトル。"
+			]
+		}
+	},
+	{
+		"id": "funnel",
+		"word": "漏斗(ろうと)、じょうご",
+		"meaning": "漏斗",
+		"era": "Latin fundere (via Provencal/French)",
+		"etymology": {
+			"components": [
+				"fundere (to pour)"
+			],
+			"original_statement": "From Old Provencal founilh or Old French founil, from Late Latin infundibulum 'a funnel', from infundere 'pour into', from in- + fundere."
+		},
+		"concept": "Instrument for pouring (注ぐための道具。だばだばと無思慮に拡散（エントロピー的に散乱）しようとする『価値ある液体の暴走（カオスの塊）』を、その広大な口で一滴残らず受け止め、一分一秒の淀みもなく絶対の理知の経路（狭く鋭い一本のパス）へと強引に整流し、極小の目的の穴脈へと一撃で押し込む（コンバートする）強制収束器)",
+		"thinking": "「（周囲に溢れ出して無駄に消えてしまうはずだった流れを）、ただ一つの極点に向かって（Fun- / Fundere）」「（一分一秒の淀みもなく）絞り込むように注ぎ入れていくための器具（-nel）」。それは単なる「プラスチックの筒」ではありません。あなたが「拡散という名の存在の散佚（アイソレーション）」を完全にレジストし、そこにある種の『一点突破の破壊力（フォーカスのドット化）』を生み出すための、物理学の「超特化レンズ」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "奔流と破壊、そして駆動力。",
+		"example": "Pour your energy, break the limits, and drive the future.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"発露のベクトル。"
+			]
+		}
+	},
+	{
+		"id": "futile",
+		"word": "無益な、無駄な、くだらない",
+		"meaning": "無益な",
+		"era": "Latin fundere",
+		"etymology": {
+			"components": [
+				"fundere (to pour)"
+			],
+			"original_statement": "From Latin futilis / futtilis 'vain / worthless / easily pouring out / leaky', from root of fundere 'to pour'."
+		},
+		"concept": "Easily pouring out / leaky (漏れ出やすい（無駄な）。あなたが心臓の血を絞るようにして注ぎ込んだ『無限の努力や愛情（絶対的光のパルス）』が、相手の器にもともと空いている底なしの暗黒の穴（完全なるアブセンス）から、一分一秒の淀みもなくそのまま『虚無』へとダダ漏れになり続け、何一つ世界に積み上がらない（マージされない）地獄の徒労)",
+		"thinking": "「（どれだけの凄まじい熱やエネルギーを注ぎ込もうとも）、器の底が抜けていて容易に（Fut- / Fundere）」「（一分一秒の淀みもなく）こぼれ落ちて消え去ってしまう、完全に価値を生まない性質（-ile）」。それは単なる「骨折り損」ではありません。あなたが「世界に自分の証を刻みつける（ステーションを築く）」という必死の祈りを、宇宙のエントロピー（絶対の死）がせせら笑いながら、すべてを『何の意味もないノイズの泡』へとコンバートしてしまう、理不尽さの「どん底」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "奔流と破壊、そして駆動力。",
+		"example": "Pour your energy, break the limits, and drive the future.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"発露のベクトル。"
+			]
+		}
+	},
+	{
+		"id": "erupt",
+		"word": "噴火する、勃発する、イラプト",
+		"meaning": "噴火する",
+		"era": "Latin e + rumpere",
+		"etymology": {
+			"components": [
+				"e- (out)",
+				"rumpere (to break)"
+			],
+			"original_statement": "From Latin eruptus, past participle of erumpere 'break out / burst forth', from ex- 'out' + rumpere 'to break'."
+		},
+		"concept": "To break out (外へ破って出る（噴火する）。地下何千キロという『超高圧の暗黒の独房（絶対ステイシスのアブセンス）』の底で、何万年も煮え滾らされてきた真っ赤な怒り（マグマという名のカオス）が、ついに大地の蓋（分厚いアーカイブ）を一撃でブチ破り、空高くまで『紅蓮の怨霊の柱（極大のパルス）』となって天空へと吐き出される破滅の反逆)",
+		"thinking": "「（地の奥底で永遠に封じ込められていた灼熱の抑圧が）、完全に限界を超えて外の世界へと（E- / Ex-）」「（一分一秒の淀みもなく大地を）ブチ破って、ドバァッと噴き上げる（-rupt / Rumpere）」。それは単なる「火山の活動」ではありません。あなたが「抑えつけておけば永遠に黙っているだろう（理知の支配の傲慢）」という甘えを完全に粉砕（レジスト）し、そこに荒ぶる地球そのものの『狂神の雄叫び（ウェイトの全放出）』を現出させる、惑星の「大流血」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "奔流と破壊、そして駆動力。",
+		"example": "Pour your energy, break the limits, and drive the future.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"発露のベクトル。"
+			]
+		}
+	},
+	{
+		"id": "corrupt",
+		"word": "堕落した、腐敗した、買収する、コラプト",
+		"meaning": "堕落した",
+		"era": "Latin con + rumpere",
+		"etymology": {
+			"components": [
+				"con- (completely)",
+				"rumpere (to break)"
+			],
+			"original_statement": "From Latin corruptus, past participle of corrumpere 'destroy / ruin / falsify / corrupt', from com- 'completely' + rumpere 'to break'."
+		},
+		"concept": "Completely broken (完全に壊れる（堕落した）。かつては白百合のように純潔だった『神聖なる魂や高潔な機関（光のステーション）』の奥底に、黄金の魔力や名誉欲という猛毒（エントロピーの種）が一滴投下され、その内部の結合（ロゴス）が泥のようにどろどろに腐り果て、一分一秒の淀みもなく外観だけを取り繕った『中身は完全に死骸の化け物（最悪のカオス）』へと成り果てること)",
+		"thinking": "「（部分的な傷ではなく、内側の芯から）、完全に、何もかもが（Cor- / Con-）」「（一分一秒の淀みもなく）壊れ果て、崩れ、悪臭を放つ泥へと還元されてしまった（-rupt / Rumpere）」。それは単なる「ズルい」ではありません。あなたが「人間は法と理知で正しく生きられる（ネットワークの無謬性）」という誇りを完全に粉砕（レジスト失敗）され、欲望の重力（ウェイト）に負けて自ら魂の自爆ボタンを押し、正義を『ドス黒いヘドロ（アブセンスの沼）』へとコンバートしてしまう、理性の「大腐乱死体」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "奔流と破壊、そして駆動力。",
+		"example": "Pour your energy, break the limits, and drive the future.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"発露のベクトル。"
+			]
+		}
+	},
+	{
+		"id": "bankrupt",
+		"word": "破産した、破産者、バンクラプト",
+		"meaning": "破産した",
+		"era": "Italian banca + Latin rupta",
+		"etymology": {
+			"components": [
+				"banca (bench/bank)",
+				"ruptus (broken/broken)"
+			],
+			"original_statement": "From Italian bancarotta 'broken bench', from banca 'bench' + rotta 'broken', from Latin rupta, past participle of rumpere."
+		},
+		"concept": "Broken bench/bank (壊れたベンチ（破産した）。自らの全存在（生命と威信）を賭き金にして積み上げた『黄金の塔（欲望のアーカイブ）』が、計算外のたった一つの負債の嵐（カオスの一撃）に直撃され、ガラスのように粉々にへし折られ、一分一秒の淀みもなく借金の泥沼（完全なる評価システムのゼロ化・アブセンス）へと地獄へ転落すること)",
+		"thinking": "「（金を貸し借りして膨れ上がらせていた商人の）、その証である看板や商売の台（Bank-）」「（一分一秒の淀みもなく致命的な一撃で）完全に叩き割られ、すべてが無に還ってしまった（-rupt / Rumpere）」。それは単なる「お金がない」ではありません。あなたが「資本主義という名の無限増殖装置（永遠のフロー）」の神に完全に見放され、あなたがこの世界に存在していた『一切の価値と信用（ネットワークのリンク）』を、容赦なく根こそぎ引きちぎり（ステイシスの底へ）消去されてしまう、社会の「公開処刑」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "奔流と破壊、そして駆動力。",
+		"example": "Pour your energy, break the limits, and drive the future.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"発露のベクトル。"
+			]
+		}
+	},
+	{
+		"id": "route",
+		"word": "道、ルート",
+		"meaning": "道",
+		"era": "Old French / Latin rumpere",
+		"etymology": {
+			"components": [
+				"rupta (broken)"
+			],
+			"original_statement": "From Old French rute 'road / way', from Vulgar Latin rapta (via), from Latin rupta (via) 'a beaten (broken) way', from ruptus, past participle of rumpere 'to break'."
+		},
+		"concept": "A broken way (切り開かれた道（ルート）。誰一人として足を踏み入れたことのない『鬱蒼とした漆黒の処女林（絶対不可能のカオス）』に対して、自らの血流と腕力（パルス）を頼りに斧で木々をブチ折り続け、一撃、また一撃と闇を「破壊」することで、ついに未来の目的地（光のステーション）へと開通させた人間の執念の軌跡)",
+		"thinking": "「（木も岩もそのままの自然の障害物に対して）、自らの手でそれらをなぎ倒し、物理的に（Rout- / Ruptus / Rumpere）」「（一分一秒の淀みもなく空間を）破壊し、切り拓き抜いてできた一本の確かな道」。それは単なる「道路」ではありません。あなたが「大自然の拒絶（エントロピーの高い壁）」を完全に粉砕（レジスト）し、そこに人間の魂と理知が『安全に生き延びるための絶対の導線（巨大なフローのチューブ）』を、暴力によって大地に彫り付けた「開拓の傷跡」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "奔流と破壊、そして駆動力。",
+		"example": "Pour your energy, break the limits, and drive the future.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"発露のベクトル。"
+			]
+		}
+	},
+	{
+		"id": "rout",
+		"word": "敗走させる、完敗、大群、暴動",
+		"meaning": "完敗",
+		"era": "Anglo-French / Latin rumpere",
+		"etymology": {
+			"components": [
+				"ruptus (broken)"
+			],
+			"original_statement": "From Middle English route 'group / band / defeat', from Old French route 'a troop / a breaking', from Latin rupta, past participle of rumpere 'to break'."
+		},
+		"concept": "A breaking (of ranks) (軍陣の崩壊（完敗・敗走）。強固な意思と盾で結ばれていたはずの『無敵の大隊（マージされた完璧なネットワーク）』が、恐怖と絶望の圧倒的な一撃（カオスの直撃）によって心の鎖を粉々にブチ折られ（破断され）、蜘蛛の子を散らすように我先にと逃げ惑う、秩序の完全なる溶融状態)",
+		"thinking": "「（一つに固まって戦っていた軍隊の陣形が）、圧倒的な力によって完全に（Rout / Ruptus / Rumpere）」「（一分一秒の淀みもなく）ブチ壊され、木っ端微塵の個のバラバラな破片へと解体されて逃げ惑う悲惨な群れ」。それは単なる「負け」ではありません。あなたが「人間としての誇りと絆（ロゴスとステーションの維持）」を恐怖というエントロピーの前に完全に手放し（レジスト失敗）、そこに『ただ己の命だけを惜しむ動物的な細胞の破裂（アイソレーションのカオス）』を現出させる、軍隊の「大流血の爆散」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "奔流と破壊、そして駆動力。",
+		"example": "Pour your energy, break the limits, and drive the future.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"発露のベクトル。"
+			]
+		}
+	},
+	{
+		"id": "actual",
+		"word": "現実の、実際の、アクチュアル",
+		"meaning": "現実の",
+		"era": "Latin agere",
+		"etymology": {
+			"components": [
+				"actus (done/driven)",
+				"-al (pertaining to)"
+			],
+			"original_statement": "From Old French actuel, from Late Latin actualis 'active / pertaining to acts', from Latin actus 'an act'. Evolved to mean 'existing in fact'."
+		},
+		"concept": "Pertaining to acts / existing in fact (行為に関する、現実に存在する。口先だけの幻影や、決して辿り着けない『雲の上の見果てぬイデア（アブセンスの妄想）』を、人間の汗と血（極限のウェイト）によって大地に力ずくで降ろさせ、触れば熱く、殴れば血が出る『一切の言い訳が通用しない絶対の現実（目の前のドット）』として空間に固定し切った姿)",
+		"thinking": "「（頭で考えた絵空事ではなく、この世界で実際にあなたによって）（Actu- / Actus / Agere）」「（一分一秒の淀みもなく）為され、確固たる質量をもって目の前にぶちまけられている状態（-al）」。それは単なる「リアル」ではありません。あなたが「無責任なもしも（可能性という名のノイズ）」を粉砕し、そこに「これが今、お前が生きているこの場所の真理だ」という逃げ場のない『冷徹なる物理法則（ステーションの重圧）』を突きつける、真実の「確定申告」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "奔流と破壊、そして駆動力。",
+		"example": "Pour your energy, break the limits, and drive the future.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"発露のベクトル。"
+			]
+		}
 	}
 ];
