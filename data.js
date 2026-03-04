@@ -169440,5 +169440,195 @@ const WORDS = [
 			]
 		},
 		"meaning": "細菌、胚、(発達の)兆し、ジャーム"
+	},
+	{
+		"id": "specific",
+		"word": "明確な、具体的な、特定の、スペシフィック",
+		"meaning": "具体的な、特定の",
+		"era": "Latin species + facere",
+		"etymology": {
+			"components": [
+				"species (kind / sort)",
+				"facere (to make)"
+			],
+			"original_statement": "From Late Latin specificus 'constituting a kind / specific', from species 'kind / sort' + root of facere 'to make'."
+		},
+		"concept": "Making a kind / Particular (特定の種を作ること（具体的な）。カオスという名の『ぼやけた全体（アーカイブ）』に対し、理知という名の冷徹な刃を一気に差し込み、ただ一つの一糸乱れぬ『座標（ドット）』だけを切り出して提示すること)",
+		"thinking": "「（抽象という名の逃げ道を粉砕して）、特定の種、あるいは形を（Speci- / Species）」「（一撃の確信をもって）作り出すこと（-fic / Facere）」。それは単なる「細かい（ソフト）」ことではありません。あなたが「誤解の余地」をレジストし、そこにある真理を「誰もが指差せる唯一の不動の形」へとコンバートした、知性の「結晶化」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "視座と引力の軌跡。",
+		"example": "Observation is a function of perspective.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の解釈。"
+			]
+		}
+	},
+	{
+		"id": "intractable",
+		"word": "手に負えない、強情な、(病気が)治りにくい",
+		"meaning": "手に負えない",
+		"era": "Latin in + tractare",
+		"etymology": {
+			"components": [
+				"in- (not)",
+				"tractare (to handle)"
+			],
+			"original_statement": "From Latin intractabilis 'unmanageable / rough', from in- 'not' + tractabilis 'that may be touched or handled'."
+		},
+		"concept": "Not able to be handled / pulled (引く（扱う）ことができない。あらゆる理知（ロゴス）による説得や引力（アトラクション）をもってしても、全く動じず、自らの強固な『孤立（アイソレーション）』を一糸乱れぬ質量で屹立させ続ける不屈（あるいは強情）の塊)",
+		"thinking": "「（いくら力を加えても）、操作する、あるいは引くことが（-tract- / Trahere）」「（完全に）できない品質（In- ... -able）」。それは単なる「わがまま」ではありません。あなたが放つ「支配のネットワーク」を相手が完全に拒絶（レジスト）し、そこにある種の「絶対的な非干渉領域」が形成されてしまった、対話の「粉砕」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "視座と引力の軌跡。",
+		"example": "Observation is a function of perspective.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の解釈。"
+			]
+		}
+	},
+	{
+		"id": "treat",
+		"word": "扱う、治療する、おごる、ごちそう、トリート",
+		"meaning": "扱う、ごちそう",
+		"era": "Latin tractare",
+		"etymology": {
+			"components": [
+				"tractare (to handle / manage)"
+			],
+			"original_statement": "From Old French traitier 'deal with / act towards', from Latin tractare 'manage / handle / deal with', frequentative of trahere 'to draw / pull'."
+		},
+		"concept": "To handle / pull about (何度も引く（扱う）。対象（パルス）に対し、自らの意志（ロゴス）をもって物理的に何度も介入・操作し、やがてそれを『治癒』や『喜び（ごちそう）』という名の新たな恩恵（トーン）へと変容させること)",
+		"thinking": "「（対象をただ放置するのではなく）、（手荒に、あるいは適切に）何度も引くように扱う（Treat / Tractare）」。それは単なる「接客」ではありません。あなたが「傍観者（スペクテイター）」であることを卒業し、自らが「介入者（クリエイター）」として対象と格闘し、世界に「恩恵という名の特別な体験」を屹立させる、行為の最高の「実践」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "視座と引力の軌跡。",
+		"example": "Observation is a function of perspective.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の解釈。"
+			]
+		}
+	},
+	{
+		"id": "trail",
+		"word": "通った跡、小道、引きずる、追跡する、トレイル",
+		"meaning": "通った跡、小道",
+		"era": "Latin trahere",
+		"etymology": {
+			"components": [
+				"trahere (to draw)"
+			],
+			"original_statement": "From Old French trailler 'to tow / drag', from Vulgar Latin tragulare 'to drag', related to Latin trahere 'to pull'."
+		},
+		"concept": "Something dragged behind (引きずられたもの（跡）。前を歩く『巨大な引力（先駆者）』が、カオスという名の『荒野（アーカイブ）』を力技で切り裂きながら進んだ後につくられた、踏み固められた一本の『光の道（パス）』)",
+		"thinking": "「（重いものを無理やり前へ進めた結果として）、後ろへと引きずられた軌跡（Trail / Trahere）」。それは単なる「道」ではありません。あなたが孤独（アイソレーション）を恐れず、誰も歩んだことのない世界へ「自分という名の磁場」を突破させたことで残された、後続の者たちへの「不滅の設計図」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "視座と引力の軌跡。",
+		"example": "Observation is a function of perspective.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の解釈。"
+			]
+		}
+	},
+	{
+		"id": "pending",
+		"word": "未定の、懸案中の、〜の待ち合わせ中、ペンディング",
+		"meaning": "未定の、懸案中の",
+		"era": "Latin pendere",
+		"etymology": {
+			"components": [
+				"pendere (to hang)",
+				"-ing (action state)"
+			],
+			"original_statement": "Anglicized from French pendant 'during / pending', from Latin pendere 'to hang'."
+		},
+		"concept": "Hanging (ぶら下がっている状態（未定）。結論という名の『地面（確定）』にまだ到達せず、宙ぶらりんのまま、あらゆる可能性が一つのロープにぶら下がって揺れ続けている、最も緊張をはらんだ『保留の空間』)",
+		"thinking": "「（イエスかノーかの決着を引くことを拒絶し）、宙空に（Pend- / Pendere）」「（一分一秒の淀みもなく）ぶら下がり続けている状態（-ing）」。それは単なる「後回し」ではありません。あなたが「早すぎる確定」によるリスクを拒絶（レジスト）し、事象の質量（ウェイト）が自然に落ちる瞬間を、嵐の中でじっと見上げている「凝視のステイシス（停滞）」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "視座と引力の軌跡。",
+		"example": "Observation is a function of perspective.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の解釈。"
+			]
+		}
+	},
+	{
+		"id": "expense",
+		"word": "費用、出費、犠牲、エクスぺンス",
+		"meaning": "費用、出費",
+		"era": "Latin ex + pendere",
+		"etymology": {
+			"components": [
+				"ex- (out)",
+				"pendere (to weigh / pay)"
+			],
+			"original_statement": "From Old French expense, from Latin expensa (pecunia) 'money spent', past participle of expendere."
+		},
+		"concept": "Money weighed out (量り出されたお金（費用）。宇宙という名の絶壁に自らの『王座（ステーション）』を建立するために、どうしても引き受けなければならない、自らの質量（ウェイト）の物理的な喪失としての痛み)",
+		"thinking": "「（代償として）、外へ量り出されたもの（Expens- / Expendere）」。それは単なる「レシートの数字」ではありません。あなたが何か新しい「価値（ロゴス）」をこの荒野に屹立させるためなら、文字通り身を切ることもいとわないという、血を伴った「覚悟」の証なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "視座と引力の軌跡。",
+		"example": "Observation is a function of perspective.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の解釈。"
+			]
+		}
+	},
+	{
+		"id": "dispense",
+		"word": "分配する、(薬を)調剤する、無しですませる、ディスペンス",
+		"meaning": "分配する、調剤する",
+		"era": "Latin dis + pendere",
+		"etymology": {
+			"components": [
+				"dis- (out / apart)",
+				"pendere (to weigh)"
+			],
+			"original_statement": "From Old French dispenser 'give out', from Latin dispensare 'disburse / administer / distribute (by weight)', frequentative of dispendere 'weigh out', from dis- 'out' + pendere 'to weigh'."
+		},
+		"concept": "To weigh out / distribute (量り分ける。己の中にある『巨大なリソース（アーカイブ）』を、精緻な理知の天秤によって一粒一粒の『正確な質量（ドット）』へと分解し、必要とするすべての暗闇へ向かって一気に放射（デリバリー）すること)",
+		"thinking": "「（一箇所に溜め込むのではなく）、それぞれに別々に（Dis-）」「（一撃の情熱をもって）量り出すこと（-pense / Pendere）」。それは単なる「お配り」ではありません。あなたが宇宙の「滞留（ステイシス）」を粉砕し、自らの手で「必要なところに、必要なだけの命（薬や富）」を届けるという、配分の「統治」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "視座と引力の軌跡。",
+		"example": "Observation is a function of perspective.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の解釈。"
+			]
+		}
+	},
+	{
+		"id": "indispensable",
+		"word": "不可欠な、絶対必要な",
+		"meaning": "不可欠な、絶対必要な",
+		"era": "Latin in + dis + pendere",
+		"etymology": {
+			"components": [
+				"in- (not)",
+				"dispensable (able to be done without)"
+			],
+			"original_statement": "Coined in 1500s from Medieval Latin indispensabilis, from in- 'not' + dispensabilis 'that can be dispersed with', from dispensare."
+		},
+		"concept": "Not able to be dispensed with (無しで済ませられない。宇宙の無数の『パラメータ』の中で、それを抜き取った瞬間、自らの構築した『完璧な設計図（ロゴス）』が音を立てて崩壊してしまうほどの、絶対座標たる『唯一神（キーパーツ）』)",
+		"thinking": "「（他のものでは絶対に替えが効かず）、無しで済ますことが（In- ... -able）」「（一分一秒の淀みもなく）量り落とせない（-dispens- / Pendere）」。それは単なる「大事（ソフト）」ではありません。あなたが「それ」を失うという孤立（アイソレーション）を全身霊で拒絶し、それを「自分の生命維持装置」として永遠に抱え込む、依存の「極致」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "視座と引力の軌跡。",
+		"example": "Observation is a function of perspective.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の解釈。"
+			]
+		}
 	}
 ];
