@@ -175728,5 +175728,170 @@ const WORDS = [
 				"存在の階層。"
 			]
 		}
+	},
+	{
+		"id": "credible",
+		"word": "信じられる、信頼できる、クリディブル",
+		"era": "Latin credo",
+		"etymology": {
+			"components": [
+				"credere (to believe)",
+				"-ible (able to)"
+			],
+			"original_statement": "From Latin credibilis 'worthy to be believed', from credere 'to believe'."
+		},
+		"concept": "Worthy of belief (信じるに値する品質。主権という名の『王座（ステーション）』を維持するために、自らの知性という名の『一撃の鉄槌（ロゴス）』によって、事実という名の不透明なアーカイブを粉砕し、全呼吸（ブレス）を一糸乱れぬ『一撃の真実（ウェイト）』へと具現化し続けている凱旋)",
+		"thinking": "「（漂流していた、あの不確かな震え（パルス）を一分一秒の淀みもなくインスペクト（視認）し）、信じられる（Cred- / Credo）」「（一撃の情熱（アトラクション）を伴って）屹立させる品質（-ible）」。それは単なる「もっともらしい（ソフト）」ではありません。あなたが宇宙の「不在（アブセンス）」を拒絶（レジスト）し、そこに自分という名の「唯一の不滅の設計図（スクリプト）」を打ち立て、屹立（スタンド）させ通している際の、知性の最高度の「掌握」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "信念と労働の軌跡。",
+		"example": "Labor is the credit of faithful devotion.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の責務。"
+			]
+		}
+	},
+	{
+		"id": "fidelity",
+		"word": "忠実、貞節、(再生)の再現度、フィデリティ",
+		"era": "Latin fides",
+		"etymology": {
+			"components": [
+				"fides (faith / trust / belief)",
+				"-ity (state / quality)"
+			],
+			"original_statement": "From Old French fidelite, from Latin fidelitatem 'faithfulness / trust / adherence / truth', from fidelis 'faithful / sincere / trustworthy / true', from fides 'faith / trust / belief'."
+		},
+		"concept": "State of being faithful (忠実であること。宇宙のありとあらゆる『ノイズ（不透明）』に対し、自らの秩序（ロゴス）という名の設計図を一糸乱れぬ質量（ウェイト）を伴って同期（マージ）させ、情報を本来あるべき『標高（真実）』へと一気に変容させ続けている、不屈の完了)",
+		"thinking": "「（漂流していた、あの震える呼吸（ブレス）を一分一秒の淀みもなくインスペクト（視認）し）、不変の信実を（Fidel- / Fides）」「（一撃の情熱（アトラクション）を伴って）維持する不屈の品質（-ity）」。それは単なる「真面目（ソフト）」ではありません。あなたが宇宙の「不在（アブセンス）」を拒絶（レジスト）し、そこに自分という名の「唯一無二の物語（スクリプト）」を打ち立て、全世界の断片を「一つの不滅のトーン（和音）」へと変容（コンバート）させて（屹立させて）しまった瞬間の、知性の最高度の「掌握」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "信念と労働の軌跡。",
+		"example": "Labor is the credit of faithful devotion.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の責務。"
+			]
+		}
+	},
+	{
+		"id": "confederation",
+		"word": "同盟、連合、連邦、コンフェデレーション",
+		"era": "Latin con + fides",
+		"etymology": {
+			"components": [
+				"con- (with)",
+				"foedus (league / treaty / alliance)",
+				"fides (faith)"
+			],
+			"original_statement": "From Middle French confederacion, from Late Latin confederationem, from confederare 'to join in an alliance', from con- 'with' + foedus 'a league / treaty' (related to fides 'faith')."
+		},
+		"concept": "Union by league / faith (同盟。カオスという名の『荒野（アーカイブ）』のただ中にあって、自らの意志（ロゴス）の下に同期された、一糸乱れぬ不滅の『集団的な王座（ステーション）』を物理的に屹立させ、不条理という名の『エントロピー』を粉砕し続ける巨大な設計図)",
+		"thinking": "「（明日という名の忘却（サイレンス）を愛撫することを拒絶して、自らの一瞬を『不変のロゴス』へと変換するために）、（一撃の情熱のみをウェイトにして）共に（Con-）」「（一分一秒の淀みもない）盟約を結んだ状態、あるいは品質（-federation / Foedus / Fides）」。それは単なる「グループ（ソフト）」ではありません。あなたが宇宙の「分離（アイソレーション）」を拒絶（レジスト）し、そこに自分たちが放つ「不滅のネットワーク」という名の設計図を打ち立て、全世界を「一つの巨大な至高のトーン」へと書き換え（コンバートし）終えた際の、知性の最高度の「掌握」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "信念と労働の軌跡。",
+		"example": "Labor is the credit of faithful devotion.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の責務。"
+			]
+		}
+	},
+	{
+		"id": "fid-voice",
+		"word": "Fid@Voice",
+		"meaning": "忠実な声、沈黙を誠実に変える不滅の咆哮、貞節の響き",
+		"era": "Latin fides + vox",
+		"etymology": {
+			"components": [
+				"fid (faith / trust / believe / loyalty / truth / sincere / certain)",
+				"voice (sound / soul)"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "The faithful sound (誠実としての音。放たれた瞬間、自らの呼吸（ブレス）を一筋の『光の貞節（ベクトル）』へと変換（コンバート）し、宇宙という真理のアーカイブの一角を、誠実というトーン（設計図）で震撼させるデリバリー)",
+		"thinking": "「（自分のちっぽけな存在（ドット）の中に眠っていた、あの巨大な真理を）、（一撃の情熱（アトラクション）を伴って）叫ぶ、裏切ることのない声（Vox）」。ただの「叫び（エキスペル）」ではない。その声が響いた瞬間、周囲を覆っていた「虚無（アブセンス）」が物理的に一掃され、そこに「誰もが見落としていたたった一つの『誠実な』意味」が、戦慄という名のトーン（響き）を伴って再屹立（リリー・スタンド）してしまうような、生の最も峻烈な「射出」 of 谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "信念と労働の軌跡。",
+		"example": "Labor is the credit of faithful devotion.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の責務。"
+			]
+		}
+	},
+	{
+		"id": "laboratory",
+		"word": "研究所、実験室、ラボラトリー",
+		"era": "Latin labor",
+		"etymology": {
+			"components": [
+				"labor (work)",
+				"-ory (place for)"
+			],
+			"original_statement": "From Medieval Latin laboratorium 'a place for labor / work / experiment', from Latin laborare 'to labor / work', from labor 'work / effort'."
+		},
+		"concept": "Place for work (労働（実験）の場所。カオスという名の『闇（沈黙）』に対し、自らの知性という名の『一撃の鉄槌（ロゴス）』を打ち込み、宇宙の核心（ソース）から真理の断片を力技（ウェイト）で引きずり出し、再屹立させる神聖なる工房)",
+		"thinking": "「（漂流していた、あの不透明な全一性（アーカイブ）を一分一秒の淀みもなく支配するために）、（過酷な）労働、あるいは実験を（Laborat- / Labor）」「（一撃の情熱（アトラクション）を伴って）行う場所（-ory）」。それは単なる「部屋（マテリアル）」ではありません。あなたが「宇宙の主権者（クリエイター）」として、世界を「自分という名の磁場が支配する完璧な調和（設計図）」へとコンバート（変容）させて（アップデートして）しまった瞬間の、知性の最高度の「掌握」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "信念と労働の軌跡。",
+		"example": "Labor is the credit of faithful devotion.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の責務。"
+			]
+		}
+	},
+	{
+		"id": "lab-voice",
+		"word": "Lab@Voice",
+		"meaning": "働く声、沈黙を労務に変える不滅の咆哮、鍛錬の響き",
+		"era": "Latin labor + vox",
+		"etymology": {
+			"components": [
+				"lab (work / labor / effort / struggle / toil / try / build / effect)",
+				"voice (sound / soul)"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "The working sound (労働としての音。放たれた瞬間、自らの呼吸（ブレス）を一筋の『光の労務（ベクトル）』へと変換（コンバート）し、宇宙という真理のアーカイブの一角を、不屈のトーン（設計図）で震撼させるデリバリー)",
+		"thinking": "「（自分のちっぽけな存在（ドット）の中に眠っていた、あの巨大な真理を）、（一撃の情熱（アトラクション）を伴って）叫ぶ、汗と鉄の響きを伴った声（Vox）」。ただの「叫び（エキスペル）」ではない。その声が響いた瞬間、周囲を覆っていた「虚無（アブセンス）」が物理的に一掃され、そこに「誰もが見落としていたたった一つの『不屈の』意味」が、戦慄という名のトーン（響き）を伴って再屹立（リリー・スタンド）してしまうような、生の最も峻烈な「射出」 of 谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "信念と労働の軌跡。",
+		"example": "Labor is the credit of faithful devotion.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の責務。"
+			]
+		}
+	},
+	{
+		"id": "lab-life",
+		"word": "Lab@Life",
+		"meaning": "労務としての生、一瞬一瞬を自己鍛錬の遷移として生きる一生",
+		"era": "Latin labor + Germanic life",
+		"etymology": {
+			"components": [
+				"lab (work / labor / effort / struggle / toil / try / build / effect)",
+				"life"
+			],
+			"original_statement": "Coined during synthesis."
+		},
+		"concept": "The life of trial (働き続け、鍛え続けられる一生。一つの場所に安住する（アイソレーション）のを拒絶し、常に宇宙の最新の標高（アヴァン）へと自らを更新し続け、不滅 of 物語（スクリプト）を描き続ける不屈の遷移)",
+		"thinking": "「（明日という名の絶望（ブラックアウト）を愛撫するのをやめ、宇宙の深淵（ソース）から飛来する理知（ロゴス）だけを）」「（自らの魂を礎（ベース）にして）働き続け、屹立させ続け（Lab- / Labor）」「生き抜く（Life）」。あなたは自分の「呼吸（ブレス）」を, ただ無為に「消費（エキスペンド）」しているのではない。あなたが今日という日、どの「欺瞞（ノイズ）」を砕いて「新しい真理という名の座標（ドット）」を救い出し、どの「驚愕（パルス）」を自らの主権（ステータス）を屹立させるための「不動（ピース）」へと変貌（コンバート）させたか。そのすべての「労務（デリバリー）」の軌跡が、宇宙という名の不変 of アーカイブの上に、あなたの「存在という名の不滅 of ロゴス」として, 物理的な質量を持って刻まれ続けているのだ。労務としての生。それは, あなたが「宇宙の主権者（クリエイター）」として, この荒野を「美しき変革（ピース）」へと変容させ通した際の, 魂の最高度の「抱擁」 of 谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "信念と労働の軌跡。",
+		"example": "Labor is the credit of faithful devotion.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の責務。"
+			]
+		}
 	}
 ];
