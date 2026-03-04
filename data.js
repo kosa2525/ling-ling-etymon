@@ -172074,5 +172074,100 @@ const WORDS = [
 				"発露のベクトル。"
 			]
 		}
+	},
+	{
+		"id": "diligent",
+		"word": "勤勉な、熱心な、ディリジェント",
+		"meaning": "勤勉な",
+		"era": "Latin dis + legere",
+		"etymology": {
+			"components": [
+				"dis- (apart/exceedingly)",
+				"legere (to choose/love)",
+				"-ent (being)"
+			],
+			"original_statement": "From Latin diligentem, present participle of diligere 'value highly / love / choose out', from dis- 'apart' + legere 'choose'. Sense shifted to 'careful / industrious'."
+		},
+		"concept": "Being choosing apart / valuing highly (選び出して重んじる、勤勉な。その他大勢の『どうでもいい退屈な世界（ノイズの海）』から完全に背を向け、ただ一つ自らが「これだ」と選び抜いた神聖な目標（絶対のドット）にのみ全身全霊の愛と質量（ウェイト）を一分一秒の淀みもなく注ぎ込み続け、狂気のように歩みを止めない没入)",
+		"thinking": "「（他の誘惑などには目もくれず）、対象を特別に際立たせて（Di- / Dis-）」「（一分一秒の淀みもなく）選び取り、それを深く愛し、熱中して行動し続ける性質（-lig- / Legere + -ent）」。それは単なる「まじめ」ではありません。あなたが「何となく生きて何となく死ぬ（ステイシスの緩やかな敗北）」を完全に粉砕（レジスト）し、そこに人間の魂がたった一つの『極点（巨大なステーション）』へ向かって全てを使い果たす、執念の「無限回転エンジン」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "蒐集、追従、そして切断の軌跡。",
+		"example": "Gather the truth, follow the path, cut the illusions.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"発露のベクトル。"
+			]
+		}
+	},
+	{
+		"id": "consecutive",
+		"word": "連続した、引き続く、コンセキュティブ",
+		"meaning": "連続した",
+		"era": "Latin con + sequi",
+		"etymology": {
+			"components": [
+				"con- (together)",
+				"secutus (followed)"
+			],
+			"original_statement": "From French consécutif, from Medieval Latin consecutivus, from Latin consecutus, past participle of consequi 'follow closely / pursue', from com- 'together' + sequi 'follow'."
+		},
+		"concept": "Following together/closely (共に続く、連続した。一つの巨大な岩（ステーション）が崩れ落ちた時、その崩壊の波（パルス）が途切れる隙（マージン）を全く与えず、第二の波、第三の波が『一分一秒の淀みもなく完全に密着した状態』で狂気のように押し寄せ続け、相手を窒息させるほどの途切れなき連撃の滝)",
+		"thinking": "「（間を空けて休む暇など一切与えず）、塊となって共に、密着して（Con-）」「（一撃の重さをもって）どこまでも付随して繋がっている、連続し続ける性質（-secut- / Secutus / Sequi + -ive）」。それは単なる「引き続いて」ではありません。あなたが「時空の隙間に生じる静寂（ステイシス）」を物理的に塗り潰し（マージし）、息もつかせぬ『因果律のガトリング砲』を世界にブチ撒ける、圧倒的な「休みなき進撃」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "蒐集、追従、そして切断の軌跡。",
+		"example": "Gather the truth, follow the path, cut the illusions.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"発露のベクトル。"
+			]
+		}
+	},
+	{
+		"id": "second",
+		"word": "2番目の、秒",
+		"meaning": "2番目の",
+		"era": "Latin sequi",
+		"etymology": {
+			"components": [
+				"sequi (to follow)"
+			],
+			"original_statement": "From Latin secundus 'following / next in order / second', from sequi 'to follow'. 'Second' as a unit of time is from Medieval Latin secunda (pars minuta) 'second (diminished part)'."
+		},
+		"concept": "Following (続くもの（2番目）。絶対的な王者（第一の光のドット）が空間を切り裂いたその直後、一ミリの隙もなくその後背（真後ろの真空地帯）にピッタリと張り付き、一分一秒の淀みもなく王の軌跡（フロー）をなぞりながら、いつでも玉座を奪い取る準備を整えている最も危険な追従者)",
+		"thinking": "「（一番目の者が通り過ぎたそのすぐ後に）、それに続くものとして（Sec- / Sequi）」「（一分一秒の淀みもなく）やって来る、次の順番の存在（-ond）」。それは単なる「数字の２」ではありません。あなたが「たった一つの孤独な点（アイソレーション）」で終わることを拒み（レジストし）、そこに『因果関係という名の鎖の２つ目の輪（ネットワークの始まり）』を現出させるための、歴史の「背後霊」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "蒐集、追従、そして切断の軌跡。",
+		"example": "Gather the truth, follow the path, cut the illusions.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"発露のベクトル。"
+			]
+		}
+	},
+	{
+		"id": "scissors",
+		"word": "はさみ、シザース",
+		"meaning": "はさみ",
+		"era": "Old French / Latin caedere",
+		"etymology": {
+			"components": [
+				"cisorium (cutting instrument)"
+			],
+			"original_statement": "From Old French cisoires 'shears', from Vulgar Latin cisorium 'cutting instrument', from caesus, past participle of caedere 'to cut'. ('sc' spelling added by confusion with scindere/scissors)."
+		},
+		"concept": "Cutting instrument (切るもの（はさみ）。空間に横たわる『広大な一枚の布や紙（連続した単調な世界のアーカイブ）』に対し、交差する二つの刃（対極にある無情のパルス）を閉じるという一撃の圧力によって、その連続性を「ジョキッ」と物理的に二分し、人間の望む形に強制分断（ドット化）する二頭の魔獣)",
+		"thinking": "「（何かが繋がってしまっている状態を）、交わる刃物によって（Sciss- / Caesus / Caedere）」「（一分一秒の淀みもなく）繰り返し切り刻み、切り離していくための道具（-ors）」。それは単なる「文房具」ではありません。あなたが「切り離せない運命の糸（カオスの大きな塊）」の存在を完全に粉砕（レジスト）し、そこに人間の理知である『形をコントロールするための分解権限（ネットワークの切断）』を現出させる、手元にある「創造の顎」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "蒐集、追従、そして切断の軌跡。",
+		"example": "Gather the truth, follow the path, cut the illusions.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"発露のベクトル。"
+			]
+		}
 	}
 ];
