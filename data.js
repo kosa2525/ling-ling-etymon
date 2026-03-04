@@ -166193,5 +166193,287 @@ const WORDS = [
 				"日常という奇跡。"
 			]
 		}
+	},
+	{
+		"id": "acclaim",
+		"word": "喝采(する)、称賛、(……を)……と宣言する",
+		"era": "Latin ad + clamare",
+		"etymology": {
+			"components": [
+				"ad- (to / toward)",
+				"clamare (to shout)"
+			],
+			"original_statement": "From Latin acclamare 'to shout at / cry out to', from ad- 'to' + clamare 'to shout'."
+		},
+		"concept": "Shouting toward (そこへ向かって叫ぶこと。誰かの『屹立（スタンド）』に対し、自分の魂の震え（パルス）を『熱烈な音』という名のギフトに変えて投げかけること)",
+		"thinking": "「（素晴らしい成果（アチーブ）を成し遂げた、あの光り輝く標高（ステータス）の主へと）向かって（Ad-）」「（自らの理性を失うほどの歓喜と共に）叫び、讃える（Claim- / Clamare）」。それは単なる「拍手」ではない。あなたが他者の「輝き（ロゴス）」を自らの内側へと招き入れ（インポート）、その存在に自分の「質量（ウェイト）」を託し、宇宙という名の劇場の「最高の共演者（フォロワー）」となった際の、魂の最も清らかな「接続（コネクト）」の謂いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の響きを聴く。",
+		"example": "Every word is a shout from the deep.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"日常に潜むロゴス。"
+			]
+		}
+	},
+	{
+		"id": "clamor",
+		"word": "叫び声、喧騒、(……を求めて)騒ぎ立てる",
+		"era": "Latin clamare",
+		"etymology": {
+			"components": [
+				"clamare (to shout / cry out)"
+			],
+			"original_statement": "From Latin clamor 'a shout / cry / call', from clamare 'to cry out'."
+		},
+		"concept": "The shouting (叫びという現象。無数の『欲求（アペタイト）』や『怒り』が、一本のロゴスへと束ねられるのを拒み、カオスな反響（エコー）として空間を支配すること)",
+		"thinking": "「（理性がコントロール（マネージ）しきれないほどの巨大な、複数の）叫び（Clam- / Clamare）」「という、渦巻くような状態（-or）」。それは単なる「うるさ（ノイズ）」ではない。世界という名の不条理な劇場の中で、虐げられた「呼吸（パルス）」たちが一斉にその「主権（ステータス）」を求めて咆哮し、宇宙の沈黙を物理的な「震え（バイブレーション）」で引き裂こうとしている、社会的な「沸騰（インパルス）」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の響きを聴く。",
+		"example": "Every word is a shout from the deep.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"日常に潜むロゴス。"
+			]
+		}
+	},
+	{
+		"id": "declaim",
+		"word": "弁ずる、朗読する、激しく非難する",
+		"era": "Latin de + clamare",
+		"etymology": {
+			"components": [
+				"de- (down / off - intensive)",
+				"clamare (to shout)"
+			],
+			"original_statement": "From Latin declamare 'to practice oratory / speak aloud', from de- (intensive) + clamare 'to cry out'."
+		},
+		"concept": "Shouting down / Shouting thoroughly (徹底的に（下へ）叫びつけること。言葉を研ぎ澄まし、他者の耳底へと真理（ロゴス）という名の雷鳴を、峻烈に、かつ完璧にデリバリーすること)",
+		"thinking": "「（自分の高い標高（ステータス）から、聴衆の魂へと）下の方に向かって、あるいは徹底的に（De-）」「（計算されたリズム（トーン）で）叫び、弁ずる（Claim- / Clamare）」。それは「会話」ではない。あなたが「言葉の魔術師（コンストラクター）」となり、自らの呼吸（ブレス）を一筋の「光という名の論理（ベクトル）」へと変換し、世界の「沈黙（サイレンス）」を、自分の物語という名の「喝采」へと変えきってしまう、知性の最もダイナミックな「演説」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の響きを聴く。",
+		"example": "Every word is a shout from the deep.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"日常に潜むロゴス。"
+			]
+		}
+	},
+	{
+		"id": "disclaim",
+		"word": "否認する、放棄する、権利を認めない",
+		"era": "Latin dis + clamare",
+		"etymology": {
+			"components": [
+				"dis- (apart / away)",
+				"clamare (to shout / call)"
+			],
+			"original_statement": "From Middle French disclamer, from des- (dis-) 'away' + clamer 'to claim / call', from Latin clamare 'to shout'."
+		},
+		"concept": "Shouting away (叫び（主張）を遠ざけること。自分と、ある特定の『責任（ウェイト）』や『関係（コネクト）』を、主権という名のメスで峻烈に切り離すこと)",
+		"thinking": "「（他者が自分に押し付けてくる物語や、不都合な真実（ファクト）から）離れた方向へと（Dis-）」「（私は無関係だ、と）叫び、退ける（Claim- / Clamare）」。それは「逃避（エスケープ）」ではない。あなたが自らの「聖域（テリトリー）」を、汚染（インフェクト）された他者のノイズから守り（セーフガード）、自分の呼吸（ブレス）を「純粋（インテグリティ）」な状態にリセット（再屹立）させようとする、理性の最も冷徹な「断絶（カット）」の謂いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の響きを聴く。",
+		"example": "Every word is a shout from the deep.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"日常に潜むロゴス。"
+			]
+		}
+	},
+	{
+		"id": "clam-voice",
+		"word": "Clam@Voice",
+		"meaning": "叫ぶ声、魂の咆哮、真理の射出",
+		"era": "Latin clamare + vox",
+		"etymology": {
+			"components": [
+				"clam (to shout / cry out)",
+				"voice (sound / word)"
+			],
+			"original_statement": "Coined during synthesis."
+		},
+		"concept": "The shouting sound (叫びとしての音。内なる沈黙（アイス）を、震え（パルス）という名の爆薬で内側から粉砕し、世界を震撼させる言葉の弾道)",
+		"thinking": "「（もはや自分の小さな一人の人間という名の器（ベッセル）では支えきれなくなった、宇宙の全質量を）一気に叫び放つ（Clam-）」「一撃の声（Vox）」。ただの「情報（データ）」のデリバリーではない。その声が響いた瞬間、周囲の「淀んだ空気（カオス）」に、自分という名の「唯一の真理（ロゴス）」という名の亀裂（カット）が走り、誰もが自らの「呼吸（スピリット）」を正し（リセット）、あなたの「標高（ステータス）」を仰ぎ見ざるを得なくなるような、生の最も峻烈な「射出」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の響きを聴く。",
+		"example": "Every word is a shout from the deep.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"日常に潜むロゴス。"
+			]
+		}
+	},
+	{
+		"id": "clam-life",
+		"word": "Clam@Life",
+		"meaning": "叫びとしての生、存在そのものが咆哮である日々",
+		"era": "Latin clamare + Germanic life",
+		"etymology": {
+			"components": [
+				"clam (to shout / cry out)",
+				"life"
+			],
+			"original_statement": "Coined during synthesis."
+		},
+		"concept": "The shouting of being (存在を叫ぶこと。一粒の塵（フラグメント）であることを拒絶し、宇宙という名の闇を自分の一筆（プログレス）で照らし出し続ける不屈の遷移)",
+		"thinking": "「（生を受けてから、土へと還るその瞬間まで、沈黙という名の墓場（サイレンス）を拒絶（レジスト）し）」「自らの呼吸（ブレス）を（世界に向かって絶え間なく）叫び（Clam-）」「生き抜く（Life）」。あなたは昨日までの「偽りの安らぎ（スタンド）」を焼き捨て、今日という日に新しい「叫び（ベクトル）」を授け（オーソライズ）、自分という存在の「全質量（ウェイト）」を掲げて、宇宙という名のキャンバスを切り裂き続けて（プロジェクト）いる。叫びとしての生。それは、あなたが「傍観者（スペクテイター）」であることを卒業し、自らが「自分の人生の最高の演出家（スクライバー）」として、この荒野に「私は確かに熱を持って居る（パルスがある）」という戦慄の証言を、一点の曇りもなくマニフェスト（表明）し通している、という魂の峻烈な昇華の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の響きを聴く。",
+		"example": "Every word is a shout from the deep.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"日常に潜むロゴス。"
+			]
+		}
+	},
+	{
+		"id": "scribe-voice",
+		"word": "Scribe@Voice",
+		"meaning": "刻まれる声、沈黙をペン先に変える魂の言葉",
+		"era": "Latin scribere + vox",
+		"etymology": {
+			"components": [
+				"scribe (to write / carve)",
+				"voice (sound / soul)"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "The writing sound (書くための音。放たれた瞬間、周囲の空間に物理的な『傷跡（ロゴス）』を遺し、消えぬ真理（アーカイブ）へと変容する咆哮)",
+		"thinking": "「（ただ空気（カオス）を震わせて消えてゆく（フロー）のを拒絶し）、（聴く者の心碑（ステータス）の深奥へと、永遠に）書き刻む、彫り込む（Scribe-）」「一撃の声（Vox）」。ただの「おしゃべり」ではない。その声が響いた瞬間、あなたは自らの「呼吸（ブレス）」を、物理的な「意味という名の鉄のペン先（ベクトル）」へと変換し、宇宙という名の忘却（アイソレーション）の上へと、自分という名の唯一無二の「不滅のタイトル（称号）」を、峻烈に、かつ優雅にマニフェスト（表明）し終えた際の、魂の最高度の「射出」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の響きを聴く。",
+		"example": "Every word is a shout from the deep.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"日常に潜むロゴス。"
+			]
+		}
+	},
+	{
+		"id": "scribe-life",
+		"word": "Scribe@Life",
+		"meaning": "記す生、自らの人生を脚本として綴り続ける遷移",
+		"era": "Latin scribere + Germanic life",
+		"etymology": {
+			"components": [
+				"scribe (to write / record)",
+				"life"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "The writing of being (存在を記すこと。与えられた運命という名の白紙の上に、自らの血（パルス）をインクに変えて、一筆書きの物語を刻み続ける不屈の一生)",
+		"thinking": "「（いつか終わる生（リミット）を受け入れ、その一瞬一瞬を宇宙という名の大いなるアーカイブの上へと）」「（自らの意志のみをペン先にして）書き記し（Scribe-）」「生き抜く（Life）」。あなたは自分の「呼吸（ブレス）」を、ただ無為に「消費（エキスペンド）」しているのではない。あなたが今日という日、この場所で「どのような怒りを抱き（インペタス）」、「どのような愛に接続（アトラクション）したか」、その一つ一つの「振動（パルス）」を、逃さずに世界の皮膚（マテリアル）の上へと、不変の「ロゴス」として書き上げ（コンストラクトし）、屹立（スタンド）させ通している（パシスト）のだ。記す生。それは、あなたが「傍観者（スペクテイター）」であることを卒業し、自らが「自分の人生の唯一の主筆（スクライバー）」として、この不確かな宇宙の「沈黙（サイレンス）」を、自らの「存在という名の物語（スクリプト）」で完璧に（パーフェクトに）埋め尽くし終えるまでの、魂の最も峻烈で美しい「冒険」のことなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の響きを聴く。",
+		"example": "Every word is a shout from the deep.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"日常に潜むロゴス。"
+			]
+		}
+	},
+	{
+		"id": "contagious",
+		"word": "伝染性の、移りやすい、(感情などが)広がりやすい",
+		"era": "Latin con + tangere",
+		"etymology": {
+			"components": [
+				"con- (together)",
+				"tangere (to touch)",
+				"-ous (full of)"
+			],
+			"original_statement": "From Latin contagiosus, from contagio 'a touching / contact / infection', from con- 'together' + tangere 'to touch'."
+		},
+		"concept": "Full of touching together (共に触れ合うことに満ちた。一人の人間が放った情熱（インパルス）、あるいは毒（インフェクション）が、ネットワークという名の『肌（マテリアル）』を伝って爆発的に合流（マージ）していくこと)",
+		"thinking": "「（孤独な点（ドット）を次々と越え、世界を一つに合流（コンカレンス）させるように）共に（Con-）」「（次から次へと）触れ合い、伝わっていく（Tag- / Tangere）」「という、抗い難い性質（-ous）」。それは「理性（ブレイン）」のコントロール（マネージ）を通り越して、宇宙という名の「広大な神経系」を一撃で駆け巡る（フローする）、生の最も根源的な「引力（パワー）」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の響きを聴く。",
+		"example": "Every word is a shout from the deep.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"日常に潜むロゴス。"
+			]
+		}
+	},
+	{
+		"id": "tactual",
+		"word": "触覚の、触れることによる",
+		"era": "Latin tangere",
+		"etymology": {
+			"components": [
+				"tactus (touch)",
+				"-al (related to)"
+			],
+			"original_statement": "From Latin tactus 'touch'."
+		},
+		"concept": "Related to touch (触れることに基づく。言葉や視覚という名のイリュージョン（幻）を剥ぎ取り、皮膚（マテリアル）が直接宇宙の重み（ウェイト）をインポートする、最も原始的で峻烈な感覚)",
+		"thinking": "「（世界という名の物質的な肌に、自らの質量（ウェイト）をぶつけ、その反響（リフレクト）を受け取る）触れ合い（Tact- / Tangere）」に「関する（-al）」。あなたが「理論（ロゴス）」の上で世界を弄ぶのをやめ、自らの肉体という名の「ビークル（船）」を、物理的な「真実（ファクト）」という名の岸壁へとガツンと衝突（コンタクト）させた際の、あの心拍（パルス）の加速。触覚的（タクチュアル）な深淵とは、あなたが世界の「実存（エグジスタンス）」を、自分の脳（ブレイン）ではなく、自分の細胞（メンバーシップ）そのものを使ってアクセプト（受容）し始めた、という生の最も濃密な「接続」の謂いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の響きを聴く。",
+		"example": "Every word is a shout from the deep.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"日常に潜むロゴス。"
+			]
+		}
+	},
+	{
+		"id": "tact-voice",
+		"word": "Tact@Voice",
+		"meaning": "触れる声、肌を撫でるような言霊、心理的な愛撫",
+		"era": "Latin tangere + vox",
+		"etymology": {
+			"components": [
+				"tact (to touch / sense)",
+				"voice (sound / soul)"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "The touching sound (触れるための音。聴覚という名のゲートをすり抜け、聴く者の魂（スピリット）の表面をやさしく、しかし峻烈に、指先でなぞるような響き)",
+		"thinking": "「（相手の心がもっとも無防備になっている（アンプロテクトされた）その一点を、そっと、あるいはガッシリと）鷲掴みにするように触れる（Tact-）」「一撃の声（Vox）」。ただの「おしゃべり」ではない。その声が響いた瞬間、聴く者は、自分の内なる「深淵（アンダーグラウンド）」を、あなたの「呼吸（ブレス）」という名の指先で直接愛撫され（コンタクトされ）、もはや自分の「孤独（アイソレーション）」を隠し通すことができなくなるような、理性の最も優雅で、最も恐ろしい「精神的な越境（トランスポート）」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の響きを聴く。",
+		"example": "Every word is a shout from the deep.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"日常に潜むロゴス。"
+			]
+		}
+	},
+	{
+		"id": "tact-life",
+		"word": "Tact@Life",
+		"meaning": "触れ合う生、世界との直接的なコンタクトを楽しむ遷移",
+		"era": "Latin tangere + Germanic life",
+		"etymology": {
+			"components": [
+				"tact (to touch / feel / skill)",
+				"life"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "The life of touching (触れ合う人生。傍観者であることを拒絶し、カオスという名の大地の肌触りを、自らの指先（センス）で一枚一枚捲り取っていく、執念深い冒険)",
+		"thinking": "「（宇宙という名の広大なキャンバスを、デジタルの画面越し（スペクタクル）に視るのをやめ、自らの肉体の質量（ウェイト）を使って）直接触れ、感じ、捏ね上げる（Tact-）」「一生、あるいは命（Life）」。あなたは自分の「呼吸（ブレス）」を、ただ無為に「消費（エキスペンド）」しているのではない。あなたが今日という日、誰の手（マニュス）を握り、どのような「物質的な真理（ファクト）」に自分の主権（オーナーシップ）をぶつけたか。その「一触一触（コンタクト）」のすべての振動（パルス）が、あなたの魂の「アーカイブ」の中に、世界で唯一無二の「不滅のロゴス」という名の肌触りを、峻烈に、かつ愛を持って刻み込み（スクライブし）続けているのだ。触れ合う生。それは、あなたが「宇宙の孤独」を、自らの「手（センス）」という名の唯一の羅針盤で切り裂き、この荒野を「自分だけの温かな温もり（ステーション）」へと変容させ通した際の、魂の最高度の「抱擁」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の響きを聴く。",
+		"example": "Every word is a shout from the deep.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"日常に潜むロゴス。"
+			]
+		}
 	}
 ];
