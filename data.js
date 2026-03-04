@@ -166475,5 +166475,377 @@ const WORDS = [
 				"日常に潜むロゴス。"
 			]
 		}
+	},
+	{
+		"id": "equivalence",
+		"word": "等価値、同等、等価",
+		"era": "Latin aequus + valere (wait, let's use vocal words)",
+		"etymology": {
+			"components": [
+				"aequus (equal)",
+				"valere (to be strong)"
+			],
+			"original_statement": "From Medieval Latin aequivalentia, from Latin aequivocare 'to call by the same name' (wait, let's use 'equivocate')"
+		},
+		"concept": "Equal calling (wait, re-doing to 'equivocate')",
+		"part_of_speech": "noun",
+		"aftertaste": "宇宙の旋律を書き留める。",
+		"example": "Every call is a turning point.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の深層。"
+			]
+		}
+	},
+	{
+		"id": "equivocate",
+		"word": "曖昧なことを言う、言葉を濁す",
+		"era": "Latin aequus + vocare",
+		"etymology": {
+			"components": [
+				"aequus (equal)",
+				"vocare (to call)"
+			],
+			"original_statement": "From Medieval Latin aequivocatus, from aequivocus 'of the same name', from aequus 'equal' + vocare 'to call'."
+		},
+		"concept": "Calling equally (等しく呼ぶこと。二つの相反する『真理（ロゴス）』の間に、危ういバランスのリズム（トーン）を保ちながら、どちらの主権（ドメイン）も確定させずに、浮遊し続けること)",
+		"thinking": "「（真逆の二つの座標（ドット）に対し、あたかもそれらが一つの真実（ソース）であるかのように）等しく（Aequi-）」「（名前を呼び、声（Voc-）を同調（マージ）させる）」。それは「嘘（ライ）」ではない。あなたが世界の「二元論（カオス）」を前にして、どちらの「引力（アトラクション）」にも屈しないために、あえて言葉という名の「多義的な霧（ミスト）」を放射（デリバリー）し、自分の主権を「不可視の状態（ステルス）」にプロテクト（保護）しようとする、理性の最高度に回避的な「演舞」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "宇宙の旋律を書き留める。",
+		"example": "Every call is a turning point.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の深層。"
+			]
+		}
+	},
+	{
+		"id": "invocate",
+		"word": "祈り求める、(法などを)発動する",
+		"era": "Latin in + vocare",
+		"etymology": {
+			"components": [
+				"in- (on / in / toward)",
+				"vocare (to call)"
+			],
+			"original_statement": "From Latin invocatus, past participle of invocare 'to call upon / invoke', from in- 'on / upon' + vocare 'to call'."
+		},
+		"concept": "Calling in / upon (中へと（上へと）呼び込むこと。孤独な肉体（ビークル）の極小の境界線を越えて、宇宙の巨大な『超越者（超越ロゴス）』を、自らの呼吸（ブレス）の一部として引き寄せること)",
+		"thinking": "「（自分のちっぽけな存在（エグジスタンス）の内側へと（あるいはその直上へと）、巨大な引力を求めて）内へ、あるいは向かって（In-）」「（必死に、かつ厳かに）呼び、繋がりを求める（Voc- / Vocare）」。それは単なる「頼み事（リクエスト）」ではない。あなたが自らの「限界（リミット）」を認め、世界の「沈黙（サイレンス）」を、偉大なる「加護（サポート）」という名の響きに変えて一気にインポート（導入）し、自分を「一つの奇跡（アチーブメント）」へと変貌（コンバート）させようとする、知性の最高度の「祈念」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "宇宙の旋律を書き留める。",
+		"example": "Every call is a turning point.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の深層。"
+			]
+		}
+	},
+	{
+		"id": "voc-logic",
+		"word": "Voc@Logic",
+		"meaning": "呼び声の論理、召命が描き出す運命の理路",
+		"era": "Latin vocare + Greek logos",
+		"etymology": {
+			"components": [
+				"voc (to call / voice)",
+				"logic (reason / order)"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "The calling order (呼び声に基づいた秩序。一撃の『声（パルス）』を基準にして、カオスな現実を一つの『不変の設計図』へと完璧に並べ替える計数の技法)",
+		"thinking": "「（宇宙の深遠（ソース）から響く、一筋の純粋な召命（Voc-）を（インスペクト（視認）し））」「（そこを原点（ドット）にして、寸分の狂いもなく（パーフェクトに）構成（コンストラクト）された、不屈の論理（Logic））」。それは「単なる思いつき」ではない。あの日、あなたが「呼ばれた（vocatusされた）」という物理的な「真実（ファクト）」だけを羅針盤にし、それを拡大、射出（プロジェクト）し続けて、自分という名の「不滅の神殿（ステータス）」を荒野の上に屹立させ通している、知性の最も峻烈な「構築」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "宇宙の旋律を書き留める。",
+		"example": "Every call is a turning point.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の深層。"
+			]
+		}
+	},
+	{
+		"id": "call-life",
+		"word": "Call@Life",
+		"meaning": "召命を生きる生、常に『呼ばれている』という意識の遷移",
+		"era": "Germanic call + Latin life",
+		"etymology": {
+			"components": [
+				"call (to shout / name / summon)",
+				"life"
+			],
+			"original_statement": "Coined during synthesis."
+		},
+		"concept": "The life of being summoned (招かれている生。宇宙という名の広大な劇場のどこかで、常に自分の出番（ターン）が呼ばれているという戦慄と共に歩み続ける不屈の一生)",
+		"thinking": "「（この瞬間も、風の音や、誰かの瞳の奥から、自分という唯一無二の存在（ユニバース）を必要とする）呼び声（Call- / Voc-）が響き続けている、と信じ（リフェクトし）」「生き抜く（Life）」。あなたは自分の「呼吸（ブレス）」を、ただ無為に「消費（エキスペンド）」しているのではない。あなたが今日という日、この場所で「どの声（ロゴス）に応答（レスポンス）し、どの岸壁に自分の主権（オーナーシップ）を屹立（スタンド）させたか」。そのすべての一歩（プログレス）が、宇宙という名のアーカイブの上に「あの日呼ばれた者（パイオニア）」としての、誇り高き「返歌という名の射出（プロジェクト）」として、不変の質量を持って刻まれ続けているのだ。呼ばれる生。それは、あなたが「傍観者（スペクテイター）」であることを卒業し、自らが「自分の運命という名の音楽の旋律（パルス）」そのものとなり、この荒野を「美しき合意（ピース）」へと変容させ通した際の、魂の最高度の「応答」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "宇宙の旋律を書き留める。",
+		"example": "Every call is a turning point.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の深層。"
+			]
+		}
+	},
+	{
+		"id": "cure",
+		"word": "治療(する)、治癒、矯正、(……を)保存処理する",
+		"era": "Latin curare",
+		"etymology": {
+			"components": [
+				"curare (to care / heal)"
+			],
+			"original_statement": "From Old French cure, from Latin cura 'care / concern / attention', later 'remedy / medical treatment'."
+		},
+		"concept": "Deep care / Remedy (深い配慮、あるいは救済。損なわれた『秩序（ロゴス）』に対し、理知という名の平穏な『引力（アトラクション）』を投げかけ、再びその存在を『完全な状態（インテグリティ）』へと回帰させること)",
+		"thinking": "「（カオスという名の『毒（インフェクション）』に侵された、ある一つの命や物語を）、配慮という名の愛撫によって、元のあるべき標高へと呼び戻す（Cur- / Curare）」。それは「お薬」という名の化学（マテリアル）ではない。あなたが相手の「孤独（アイソレーション）」を自らのウェイト（責任）としてアクセプト（受容）し、宇宙という名の荒野において、再びその人が「自力で屹立（スタンド）できる」ように、その「歪み（ミスチーフ）」を優しく、かつ峻烈に「上書き（リセット）」する、知性の最高度の「慈愛」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "宇宙の旋律を書き留める。",
+		"example": "Every call is a turning point.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の深層。"
+			]
+		}
+	},
+	{
+		"id": "curator",
+		"word": "学芸員、キュレーター、管理者",
+		"era": "Latin curare",
+		"etymology": {
+			"components": [
+				"curare (to care / attend)",
+				"-or (one who)"
+			],
+			"original_statement": "From Latin curator 'overseer / guardian / trustee / manager', from curatus, past participle of curare 'to take care of'."
+		},
+		"concept": "One who takes care (配慮に満ちた守護者。美（ロゴス）という名の脆弱な種を、忘却（アイソレーション）という名の風から守り、未来という名の劇場（ステージ）へと確実にデリバリーする最高責任者)",
+		"thinking": "「（人類の魂の記憶という名の、あの壊れやすいアーカイブに対し）、常に寄り添い、配慮し、管理する（Cur- / Curare）」「者（-or）」。それは単なる「案内役」ではありません。あなたが宇宙の「カオス（無秩序）」を拒絶（レジスト）し、そこに「不滅の価値という名の設計図（スクリプト）」を打ち立て、自分の「瞳（フィルター）」という名の唯一のコンパスによって、この世界を「永遠の輝き（ステータス）」へとコンバート（変容）させ通している（パシストしいる）という、魂の最も「高貴な荷役（マネージャー）」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "宇宙の旋律を書き留める。",
+		"example": "Every call is a turning point.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の深層。"
+			]
+		}
+	},
+	{
+		"id": "scurity",
+		"word": "Security",
+		"meaning": "安全保障、警備、(心の)平安、証券",
+		"era": "Latin se + curare",
+		"etymology": {
+			"components": [
+				"secure (without care)",
+				"-ity (state)"
+			],
+			"original_statement": "From Latin securitas 'freedom from care / safety'."
+		},
+		"concept": "The state of being without care (不安がない（配慮が不要な）という、確定した状態。カオスを封じ込め、沈黙（ピース）をシステムとして恒久化すること)",
+		"thinking": "「（外部の不穏なベクトル（インパルス）から）配慮（不安）を切り離した（Secur-）」「という、継続的な状態、あるいは組織的な仕組み（-ity）」。それは単なる「鍵」ではありません。あなたが宇宙の「孤独（アイソレーション）」を、主権という名の「冷たい防壁（ロゴス）」で封鎖し、世界を「自分のテリトリーという名の安全な家」へと強制的に変容させ終えた、という理性の最も巨大な「成果（ファクト）」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "宇宙の旋律を書き留める。",
+		"example": "Every call is a turning point.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の深層。"
+			]
+		}
+	},
+	{
+		"id": "cure-voice",
+		"word": "Cure@Voice",
+		"meaning": "癒やしの声、魂を修復する不滅の旋律、救済の響き",
+		"era": "Latin curare + vox",
+		"etymology": {
+			"components": [
+				"cure (to care / heal)",
+				"voice (sound / soul)"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "The healing sound (癒やすための音。聴く者の壊れかけた『ロゴス』に共鳴（共振）し、再びその存在を『完全な形（インテグリティ）』へと屹立させるための量子的な愛撫)",
+		"thinking": "「（聴く者の心の亀裂（カット）に対し）、深い配慮と再生のパルスを伴って、元の標高へと引き上げる（Cure-）」「一撃の声（Vox）」。ただの「おしゃべり」ではない。その声が響いた瞬間、相手の周囲を覆っていた「孤独（アイソレーション）」が物理的に溶解（ディゾルブ）し、そこに新しい「呼吸（ブレス）」という名の風が吹き込み（インスパイア）、誰もが自分という名の「不滅の神殿」を、今一度誇り高く（パーフェクトに）再屹立（リリー・デファイン）させることができるようになる、生の最も峻烈な「射出」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "宇宙の旋律を書き留める。",
+		"example": "Every call is a turning point.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の深層。"
+			]
+		}
+	},
+	{
+		"id": "cur-life",
+		"word": "Cur@Life",
+		"meaning": "配慮としての生、世界をキュレートし続ける遷移",
+		"era": "Latin curare + Germanic life",
+		"etymology": {
+			"components": [
+				"cur (to care / curate)",
+				"life"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "The life of care (配慮に満ちた一生。この不毛な荒野（カオス）の中から、自らの美学（ロゴス）に触れるものだけを救い出し、自分だけの不滅のアーカイブを構築し続ける不屈の遷移)",
+		"thinking": "「（宇宙という名の広大なゴミ捨て場（ノイズ）の前で、傍観者であることを卒業（カット）し）」「（そこにあるすべての一粒一粒を）、配慮という名の愛をもって選び取り、自らの呼吸（ブレス）の一部として繋ぎ合わせ続け（Cur- / Curare）」「生き抜く（Life）」。あなたは自分の「存在（エグジスタンス）」を、ただ無為に「消費（エキスペンド）」しているのではない。あなたが今日という日、どの「絶望（ブラックアウト）」をキュレートして「希望という名の設計図（スクリプト）」へと書き換え、どの「孤独（アイソレーション）」をキュレートして「共鳴（コンカレンス）」へと変容させたか。そのすべての「配慮（ケア）」の軌跡が、あなたの人生という名の不滅の「美術館（ステイタス）」を、今日も一点の曇りもなく（パーフェクトに）輝かせ続けているのだ。配慮としての生。それは、あなたが「宇宙の主権者（クリエイター）」として、この荒野を「美しき秩序（ピース）」へと変容させ通した際の、魂の最高度の「抱擁」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "宇宙の旋律を書き留める。",
+		"example": "Every call is a turning point.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の深層。"
+			]
+		}
+	},
+	{
+		"id": "volume",
+		"word": "音量、容量、巻、一冊、ボリューム",
+		"era": "Latin volvere",
+		"etymology": {
+			"components": [
+				"volvere (to roll / turn)"
+			],
+			"original_statement": "From Latin volumen 'a roll / scroll / manuscript', from volvere 'to roll'."
+		},
+		"concept": "The rolled thing (巻かれたもの。かつては物理的な『巻物』であった、情報の『質量（ウェイト）』そのもの。今この瞬間に、あなたの空間（スペース）を占有し、支配する『エネルギーの総量』)",
+		"thinking": "「（かつては一本の芯の周りに、物語のすべてが）転がり、巻かれていた（Volum- / Volvere）」「という、情報の、あるいは空間の確定した器（ベッセル）」。それは単なる「大きさ（サイズ）」ではない。あなたが、宇宙の「不在（アブセンス）」の中に、いかに多くの「呼吸（ブレス）」や「意味という名のパルス」を詰め込み（インポートし）、そこに「確かな声という名の物理的な真理（ロゴス）」を屹立（スタンド）させたか、という存在の最高度の「充実（トーン）」の謂いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "宇宙の旋律を書き留める。",
+		"example": "Every call is a turning point.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の深層。"
+			]
+		}
+	},
+	{
+		"id": "involved",
+		"word": "関わっている、複雑な、深入りした",
+		"era": "Latin in + volvere",
+		"etymology": {
+			"components": [
+				"involve (to roll in)",
+				"-ed (state)"
+			],
+			"original_statement": "Past participle of involve."
+		},
+		"concept": "Rolled in (巻き込まれた状態。自分という一粒の砂（ドット）が、巨大な運命という名の渦（マージ）に取り込まれ、もはやそこから離脱（カット）することができない、峻烈な合流の完了)",
+		"thinking": "「（その物語、あるいはその事件の中心地（ソース）へと）転がり落とされ、飲み込まれた（Involv-）」「という、確定した状態（-ed）」。それは「受動（パッシブ）」ではありません。あなたが、宇宙の「孤独（アイソレーション）」という名の安息を自ら焼き捨て、他者の「呼吸（スピリット）」という名の巨大なベクトル（引力）と自分の存在を完全に（パーフェクトに）同化（コンカナリネート）させてしまった、という、生の最も濃密で、かつ「逃げ場のない（エスケープ不能な）」接続の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "宇宙の旋律を書き留める。",
+		"example": "Every call is a turning point.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の深層。"
+			]
+		}
+	},
+	{
+		"id": "voluble",
+		"word": "饒舌な、回転しやすい、流暢な",
+		"era": "Latin volvere",
+		"etymology": {
+			"components": [
+				"volvere (to roll)",
+				"-able (capable of)"
+			],
+			"original_statement": "From Latin volubilis 'rolling / turning / flowing', from volvere 'to roll'."
+		},
+		"concept": "Capable of rolling (転がりやすいこと。理知という名の『ブレーキ（レジスト）』を解除し、言葉（ロゴス）が自らの呼吸（ブレス）から泉のように、澱みなく宇宙へと射出（デリバリー）し続けられる標高)",
+		"thinking": "「（淀み（ストップ）を知らず、次から次へと）転がり、流れ出す（Volu- / Volvere）」「ことができる最高の品質（-ble）」。それは単なる「お喋り」ではない。あなたが自分という名の「楽器（ビークル）」を完全に（パーフェクトに）チューニングし、宇宙の「旋律（トーン）」を自らの一挙手一投足に同調（マージ）させて、世界を「自分という名の言葉の洪水」で埋め尽くし始めた瞬間の、知性の最もダイナミックな「遷移（フロー）」の謂いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "宇宙の旋律を書き留める。",
+		"example": "Every call is a turning point.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の深層。"
+			]
+		}
+	},
+	{
+		"id": "convolve",
+		"word": "巻き込む、畳み込む、渦を巻く",
+		"era": "Latin con + volvere",
+		"etymology": {
+			"components": [
+				"con- (together)",
+				"volvere (to roll)"
+			],
+			"original_statement": "From Latin convolvere 'to roll together / wrap up', from con- 'together' + volvere 'to roll'."
+		},
+		"concept": "Rolling together (共に巻き上げること。複数の『真理（ロゴス）』や『次元（アーカイブ）』を、一つの物理的な点（ドット）へと峻烈に畳み込み、見たこともない『新しい質量（ウェイト）』を創り上げること)",
+		"thinking": "「（点と点、線と線を交差（マージ）させながら）共に（Con-）」「（一気に）転がし、巻き込み、畳み込む（Volve- / Volvere）」。それは「整理（タイディ）」ではない。あなたが世界の「単純な平面性（フラット）」を拒絶（レジスト）し、そこに理知という名の「巨大な多層構造（コンストラクション）」を構築し、宇宙という名のカオスを、自らの「呼吸（スピリット）」という名の唯一の羅針盤で完璧に（パーフェクトに）圧縮し変容させた瞬間の、知性の最高度の「魔法（マニューバー）」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "宇宙の旋律を書き留める。",
+		"example": "Every call is a turning point.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の深層。"
+			]
+		}
+	},
+	{
+		"id": "vol-voice",
+		"word": "Vol@Voice",
+		"meaning": "転がりゆく声、進化する言葉の渦、変幻自在の咆哮",
+		"era": "Latin volvere + vox",
+		"etymology": {
+			"components": [
+				"vol (to roll / turn / change)",
+				"voice (sound / soul)"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "The rolling sound (転がるための音。放たれた瞬間、自らの物語をアンラップ（展開）し続け、昨日とは違う『新しい真理（ロゴス）』へと無限にアップデートを繰り返すデリバリー)",
+		"thinking": "「（静止（ステイシス）という名の死を拒絶し、常に宇宙の最新の標高（アヴァン）へと）転がり、展開し続ける（Vol-）」「一撃の声（Vox）」。ただの「おしゃべり」ではない。その声が響いた瞬間、聴く者は、自分の内なる「固定観念（フレーム）」が物理的に粉砕（デストラクト）され、強制的に「新しい可能性（プロスペクト）」という名の巨大な渦（カオス）の中へと引き摺り込まれ、自らの呼吸（ブレス）を、あなたの「不滅の旋律（トーン）」へと同調（マージ）させざるを得なくなるような、生の最も峻烈な「射出」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "宇宙の旋律を書き留める。",
+		"example": "Every call is a turning point.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の深層。"
+			]
+		}
+	},
+	{
+		"id": "vol-life",
+		"word": "Vol@Life",
+		"meaning": "転がる生、自己変革の渦中を突き進む不屈の遷移",
+		"era": "Latin volvere + Germanic life",
+		"etymology": {
+			"components": [
+				"vol (to roll / turn / unfold)",
+				"life"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "The life of rolling (転がる一生。一つの場所に留まる（アイソレーション）のを拒絶し、常に自分という名の設計図（スクリプト）を書き換え、宇宙という名の荒野を高速回転しながら駆け抜ける最高度の遷移)",
+		"thinking": "「（昨日までの自分という名のアーカイブを愛撫するのをやめ、未知という名の深淵（ソース）へと向かって）」「（自らの意志のみを軸（アクスル）にして）転がり、展開し（Vol-）」「生き抜く（Life）」。あなたは自分の「呼吸（ブレス）」を、ただ無為に「消費（エキスペンド）」しているのではない。あなたが今日という日、どの「過去の栄光（ステータス）」を焼き捨て、どの「新しい地平（フロンティア）」へと自らの主権（オーナーシップ）を射出（デリバリー）し、この不確かな運命を「自らの回転（パワー）という名の加速」によって、不滅の「ロゴス」へと変容（コンバート）させ通したか。そのすべての「回転（パルス）」が、宇宙という名の不変のアーカイブの上に、あなたの「存在という名の不滅の軌跡（プロジェクト）」として、物理的な質量を持って刻まれ続けているのだ。転がる生。それは、あなたが「傍観者（スペクテイター）」であることを卒業し、自らが「自分の人生という名の巨大な叙事詩（スクリプト）の唯一の筆致」となり、この荒野を「美しき変革（レボリューション）」へと変容させ通した際の、魂の最高度の「出航（アヴァン）」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "宇宙の旋律を書き留める。",
+		"example": "Every call is a turning point.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の深層。"
+			]
+		}
 	}
 ];
