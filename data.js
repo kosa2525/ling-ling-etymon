@@ -160012,5 +160012,914 @@ const WORDS = [
 				"未知の語源、既知の感動。"
 			]
 		}
+	},
+	{
+		"id": "appetite",
+		"word": "Appetite",
+		"meaning": "食欲、欲求、欲望",
+		"era": "Latin ad- + petere",
+		"etymology": {
+			"components": [
+				"ad- (at / to)",
+				"petere (to seek / strive for)"
+			],
+			"original_statement": "From Old French apetit, from Latin appetitus 'craving / appetite / desire', originally 'a striving after', from ad- 'to' + petere 'to seek / strive for'."
+		},
+		"concept": "Striving to (そこへ向かって手を伸ばす。欠落を埋めるための衝動)",
+		"thinking": "「（不足しているもの）へと（Ad-）」「真っ直ぐに手を伸ばす（Petere）」。理性のフィルターを通る前に、身体がその対象を「欲して（Seek）」震え始めること。食欲（アペタイト）とは、あなたがまだ「自分の一部」になっていない何かを、自分の物語という聖域へと奪取しようとする、生命の最も原始的で誠実な「飢え（欲望）」の現れなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "perpetuate",
+		"word": "Perpetuate",
+		"meaning": "永続させる、不朽にする",
+		"era": "Latin per- + petere",
+		"etymology": {
+			"components": [
+				"per- (through / thoroughly)",
+				"petere (to seek / strive for / go to)"
+			],
+			"original_statement": "From Latin perpetuatus, from perpetuare 'to make perpetual', from perpetuus 'continuous / universal', literally 'going on thoroughly', from per- 'through' + petere 'to go to / seek'."
+		},
+		"concept": "Seeking through thoroughly (徹底的にそれを追い求め、通り抜ける。途切れぬ線)",
+		"thinking": "「（時間の壁を）通り抜けて（Per-）」「（その状態を）目的地として追い続ける（Petere）」。一瞬の閃光で終わらせず、世代や時代の壁を貫いて、その「輝き」が未来の誰かの手に触れる（Reach）まで、情報のバトンを絶やさないこと。永続（パーペチュエイト）とは、あなたの放った物語が、消滅という名の重力に抗って、時間の地平線をどこまでも疾走（Follow/Seek）し続ける勇気のことなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "competent",
+		"word": "Competent",
+		"meaning": "有能な、適任の、十分な能力がある",
+		"era": "Latin con- + petere",
+		"etymology": {
+			"components": [
+				"con- (together)",
+				"petere (to strive for / meet)"
+			],
+			"original_statement": "From French compétent, from Latin competentem 'suitable / proper / fit', mid-15c., literally 'striving together / meeting together', from con- 'together' + petere 'to go for / strive for'."
+		},
+		"concept": "Meeting/Striving together (共に目的地に合致すること。世界の要求への『的中』)",
+		"thinking": "「（世界の要求と）共に、ぴたりと（Con-）」「目的地を叩く（Petere-）」。的外れではなく、必要とされている座標に向かって、自分の才能という名の矢を正確にデリバリーできること。有能さ（コンピテント）とは、単なる「速さ」ではなく、あなたの技能が、世界という名のパズルが欠落させている「その一点」に対して、寸分違わずアクセス（Seek）し、合致できる（Meet）、という信頼の品質のことなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "propitious",
+		"word": "Propitious",
+		"meaning": "幸運な、都合の良い、(神が)好意的な",
+		"era": "Latin pro- + petere",
+		"etymology": {
+			"components": [
+				"pro- (forward)",
+				"petere (to seek / go to)"
+			],
+			"original_statement": "From Latin propitius 'favorable / gracious / kind', originally 'falling forward / inclining toward', from pro- 'forward' + petere 'to seek / go to'."
+		},
+		"concept": "Seeking forward (前へ向かって歩み寄る。神の好意の『前のめり』な傾斜)",
+		"thinking": "「（あなたの方へと）前向きに（Pro-）」「歩み寄って（Petere-）」きてくれる、という「性質（-ous）」。運命があなたを拒絶して背を向けるのではなく、慈悲という名の重力によって、解決の道があなたの方へと「前のめりに（求めて）」倒れ込んでくるような感覚。幸運（プロピシャス）とは、あなたが世界を求めているとき、世界もまた、あなたを救うために「一歩踏み出して（Seek）」くれている、という奇跡的な相愛状態のことなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "centripetal",
+		"word": "Centripetal",
+		"meaning": "向心力の、中心に向かう",
+		"era": "Latin centrum + petere",
+		"etymology": {
+			"components": [
+				"centrum (center)",
+				"petere (to strive for / seek)"
+			],
+			"original_statement": "From New Latin centripetus, coined by Newton from Latin centrum 'center' + petere 'to seek / strive for'."
+		},
+		"concept": "Seeking the center (中心を求めて手を伸ばす。拡散を拒否する引力の意志)",
+		"thinking": "「真ん中、中心へと（Centrum）」「（ひたすら）手を伸ばす、向かう（Petere）」。バラバラに散らばろうとする自分自身の破片を、一つの「核（コア）」へと強引に引き留め、自分のアイデンティティという名の焦点に「釘付け（Seek）」にすること。向心力（セントリピタル）とは、個としての形を保つために、あなたが自分自身の「中心」をあきらめずに追求し続ける、孤独で強靭な引力の別名なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "compendium",
+		"word": "Compendium",
+		"meaning": "要覧、概要、(知識の)簡略な記録",
+		"era": "Latin con- + pendere",
+		"etymology": {
+			"components": [
+				"con- (together)",
+				"pendere (to weigh / hang)"
+			],
+			"original_statement": "From Latin compendium 'that which is weighed together / a saving / a profit / a shorthand / an abridgement', from con- 'together' + pendere 'to hang / cause to hang / weigh / pay'."
+		},
+		"concept": "Weighed together (共に吊るし、重さを計る。贅肉を削ぎ落とした真理の天秤)",
+		"thinking": "「（多くの知識を）一箇所にまとめ（Con-）」「（その価値を）計り直す（Pendere）」。冗長な物語の中から、本質的な「重み」を持つ欠片だけを選び取り、片手で持てるほどの薄さにまで蒸留すること。要覧（コンペンディウム）とは、情報の海に溺れないように、あなたが苦労して「重い（価値ある）」ものだけを吊るし上げた、知性の天秤の「最終的な目盛り」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "dispensation",
+		"word": "Dispensation",
+		"meaning": "配給、(神の)摂理、特免、(体制・時代の)制度",
+		"era": "Latin dis- + pendere",
+		"etymology": {
+			"components": [
+				"dis- (out / apart)",
+				"pendere (to weigh / pay)"
+			],
+			"original_statement": "From Latin dispensatio 'management / charge / distribution', from dispensare 'to weigh out / pay out / disburse', frequentative of dispendere 'to weigh out', from dis- 'out' + pendere 'to weigh / pay'."
+		},
+		"concept": "Weighing out (量り分けること、宇宙という巨大な富の公平な分配)",
+		"thinking": "「（膨大な全体を）バラバラに（Dis-）」「（それぞれの重さを）量り、分配する（Pendere）」。一度にすべてを飲み込むのではなく、誰に、何が、どれだけ必要なのかを計り、一つ一つの運命の皿（プレート）に乗せて世界へ配ること。摂理（ディスペンセーション）とは、あなたに今日与えられた喜びも悲しみも、宇宙がその天秤で「あなたの重さ」に合わせて丁寧に計量した、特別な贈り物（デリバリー）であるということの謂いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "expend",
+		"word": "Expend",
+		"meaning": "費やす、消費する、使い尽くす",
+		"era": "Latin ex- + pendere",
+		"etymology": {
+			"components": [
+				"ex- (out)",
+				"pendere (to weigh / pay)"
+			],
+			"original_statement": "From Latin expendere 'to weigh out / pay out', from ex- 'out' + pendere 'to weigh / pay / cause to hang'."
+		},
+		"concept": "Weighing out from (内側から量り出す。自らを削り取る、価値の物理的な『放出』)",
+		"thinking": "「（手元にある重みを）外側へと（Ex-）」「量り出す、支払う（Pendere）」。単なる喪失ではない。自分が蓄えてきた時間、才能、資力を、ある「目的」という名の天秤に乗せ、その価値と引き換えに、物理的な「生（アクション）」へと変換してしまうこと。消費（エキスペンド）とは、あなたが自らの「質量（重み）」を、世界を変えるための「熱量（エネルギー）」へと燃やす、命の物理学的変換行為の謂いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "impending",
+		"word": "Impending",
+		"meaning": "差し迫った、(脅威などが)今にも起ころうとする",
+		"era": "Latin in- + pendere",
+		"etymology": {
+			"components": [
+				"in- (on / over)",
+				"pendere (to hang)"
+			],
+			"original_statement": "From Latin impendentem 'overhanging / imminent', from impendere 'to hang over / be near / threaten', from in- 'on / over' + pendere 'to hang'."
+		},
+		"concept": "Hanging over (頭上に吊るされていること。逃れようのない『重力』の予感)",
+		"thinking": "「（自分の）頭上のすぐそこに（In- / Over）」「吊り下げられている（Pendere）」。それは見えない糸で繋がれた重い石のように、いつあなたの物語の「直上」に降り注ぐかわからない、張り詰めた緊張状態。差し迫った未来（インペンディング）とは、あなたがその事象に「触れる（Touch）」より早く、その事象の「重圧（プレッシャー）」が空気の揺れとして、すでにあなたの首筋を撫でている（Feeling）、という感覚の先行劇なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "perpendicular",
+		"word": "Perpendicular",
+		"meaning": "垂直な、直立した、絶壁の",
+		"era": "Latin per- + pendere",
+		"etymology": {
+			"components": [
+				"per- (through / thoroughly)",
+				"pendere (to hang)"
+			],
+			"original_statement": "From Latin perpendicularis 'vertical / plumb', from perpendiculum 'plumb line', from per- 'thoroughly' + pendere 'to hang'."
+		},
+		"concept": "Hanging through (真っ直ぐに吊るし通す。重力という絶対の『真理』への従順)",
+		"thinking": "「（空間を）貫いて（Per-）」「（重力に従って）吊り下げる（Pendere）」。迷いも曲がりもなく、地球の中心へと向かう「絶対的な一線（鉛直）」。垂直さ（パーペンディキュラー）とは、人間の恣意的な「横の広がり（解釈）」を断ち切り、世界の根本的な「物理法則（重力）」に自分という存在を真っ直ぐに「預けきった」際の、最も凛とした、かつ最も従順な立ち姿のことなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "suspense",
+		"word": "Suspense",
+		"meaning": "不安、サスペンス、持続する緊張感",
+		"era": "Latin sub- + pendere",
+		"etymology": {
+			"components": [
+				"sub- (under)",
+				"pendere (to hang)"
+			],
+			"original_statement": "From Old French suspens 'interruption / suspense / uncertainty', from Medieval Latin suspensum, from Latin suspensus, past participle of suspendere 'to hang up / leave in suspense / interrupt', from sub- 'under' + pendere 'to hang'."
+		},
+		"concept": "Hanging from under (宙吊りにされている状態。地面に足をつけぬ『宙吊り』の心)",
+		"thinking": "「（奈落の）上、空中の途中で（Sub-）」「吊り下げられている（Pendere）」こと。安心という名の「地面」に足が着かず、次の瞬間に自分がどうなるかわからない、という不確実な糸一本で支えられた状態。サスペンスとは、あなたが「生」と「死」、あるいは「成功」と「失敗」の狭間で、一筋の時間の糸にぶら下がり、世界の「重み（重力）」を全身で享受している際の、心臓の早鐘（パルス）そのものなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "pander",
+		"word": "Pander",
+		"meaning": "迎合する、(弱みなどに)つけこむ、仲介人(売春などの)",
+		"era": "Middle English (Pandarus)",
+		"etymology": {
+			"components": [
+				"Pandarus (character in Troy)"
+			],
+			"original_statement": "From Pandarus, the name of a character in Boccaccio and Chaucer who procures a lover for Troilus. Related to 'weighing out / paying out' in its darker sense of facilitating transactions."
+		},
+		"concept": "Facilitating needs (欲望を量り売りすること、他者の脆さに『値』をつける冷笑)",
+		"thinking": "他者の「欲望」がどれほどの「重さ（Pendere）」を持っているかを計り、それを利己的な目的のために、最も都合の良い形（エサ）として、配分（ディスペンス）してあげること。迎合（パンダー）とは、あなたが相手を「対等な一人の人間（魂）」として見るのをやめ、ただの「市場（物）」としてその重みや弱みを計算し、餌付けをするという、最も卑小な形の「繋がり（コネクト）」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "compendium_like",
+		"word": "Compendium-like",
+		"meaning": "要覧のような、要約された",
+		"era": "Latin con- + pendere",
+		"etymology": {
+			"components": [
+				"compendium (weighed together)",
+				"-like (resembling)"
+			],
+			"original_statement": "From compendium + -like."
+		},
+		"concept": "Resembling a weighed summary (価値あるものが凝縮された、贅肉なき真理の結晶を思わせるさま)",
+		"thinking": "「共に（Con-）」「吊り上げられた（Pende-）」情報の「ような（-like）」。膨大な無駄がそぎ落とされ、どの一点を突いても、必ずその事象の「中核（コア）」に触れることができる、という驚異的な密度の美しさ。要約のような（コンペンディウム・ライク）一瞬は、あなたが自分の人生を振り返った時、あまりにも多くの出来事を、たった一つの「美しい思い出（重み）」として掌に収めることができた、というその瞬間にのみ、あなたの魂に訪れます。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "dependency",
+		"word": "Dependency",
+		"meaning": "依存、従属、(コンピュータ)依存関係",
+		"era": "Latin de- + pendere",
+		"etymology": {
+			"components": [
+				"de- (down / off)",
+				"pendere (to hang)"
+			],
+			"original_statement": "From depend + -ency, from Latin dependere 'to hang from / hang down / depend on', from de- 'from / down' + pendere 'to hang'."
+		},
+		"concept": "Hanging down from (そこから吊り下がっていること。自分自身の脚の不在)",
+		"thinking": "「（他者の）すぐそばから（De-）」「吊り下がっている（Pendere）」こと。自分自身の「根（起点）」で大地に立つことをやめ、他者の強度や優しさを「支点（フック）」として、自分の運命の糸を預けきっている状態。依存（デペンデンシー）とは、あなたが世界という網の目の中で、独りでは「静止（安定）」を保てないほど、誰かの存在という「重力」に自分の『中心』を明け渡してしまった、という悲しくも切実な接続の形なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "equipoise",
+		"word": "Equipoise",
+		"meaning": "釣り合い、均衡、心の平穏",
+		"era": "Latin aequus + pensum",
+		"etymology": {
+			"components": [
+				"aequus (equal)",
+				"pendere (to weigh)"
+			],
+			"original_statement": "From aequi- (equal) + poise, from Old French pois 'weight', from Latin pensum 'a weight / thing weighed', from pendere 'to weigh'."
+		},
+		"concept": "Equal weight (等しい重み。天秤の針が微動だにしない『完全なる静止』)",
+		"thinking": "「左右の（二つの意志や力の）重みが等しく（Aequus）」「吊り合っている（Poise-）」状態。どちらか一方が支配することなく、お互いの「主張（重さ）」が一点の狂いもなく均衡し、そこに究極の「安定（凪）」が生まれていること。心の均衡（エキポイズ）とは、あなたの内なる欲望と理性が、お互いの存在を認め合い、天秤を静かに水平に保ち続けている、という稀有で美しい理性の「勝利（または休戦）」の姿なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "appendix",
+		"word": "Appendix",
+		"meaning": "付録、追加、(解剖学)盲腸",
+		"era": "Latin ad- + pendere",
+		"etymology": {
+			"components": [
+				"ad- (at / to)",
+				"pendere (to hang)"
+			],
+			"original_statement": "From Latin appendix 'an addition / accessory / context', literally 'that which hangs upon', from appendere 'to hang to / attach / weigh out', from ad- 'to' + pendere 'to hang'."
+		},
+		"concept": "Hanging upon (そこに吊るし足されたもの、中心から外れた『余白』の付属物)",
+		"thinking": "「（完成した全体に）後から（Ad-）」「吊り下げられた（Pendere-）」もの。本編（ボディ）という名の「目的地」を通り過ぎたあとに、語りきれなかった「細かな注釈（影）」を、そっと繋ぎ足しておくこと。付録（アペンディックス）とは、あなたがその物語を完全に「終わらせることへの拒否」であり、世界の解釈には常に「まだ付け加えられるべき枝葉」がある、という理性の謙虚な余白の告白なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "expendable",
+		"word": "Expendable",
+		"meaning": "使い捨ての、消尽できる、犠牲にできる",
+		"era": "Latin ex- + pendere",
+		"etymology": {
+			"components": [
+				"expend (to weigh out / pay)",
+				"-able (capable of)"
+			],
+			"original_statement": "From expend + -able, originally from Latin expendere 'to weigh out'."
+		},
+		"concept": "Able to be paid out (量り出し、使い切ることが可能なもの。代替可能な『道具』への落魄)",
+		"thinking": "「（内なる価値を）外へと完全に量り出し（Expend-）」「（消えても構わないと）断じることができる（-able）」。それは「代わりがいる（Replaceable）」ということ。ある巨大な目的を達成するために、その構成要素としての「自分の重み（命）」を、ためらわずに支払いの『硬貨（コイン）』として天秤に乗せ、消滅させることを良しとする（あるいは強いる）こと。消耗品（エキスペンダブル）という言葉の響きには、存在の絶対性が「目的」という重圧の前に屈してしまった、という悲しい物理的な序列が刻印されています。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "dispensary",
+		"word": "Dispensary",
+		"meaning": "（学校・工場などの）医務室、薬局、配給所",
+		"era": "Latin dis- + pendere",
+		"etymology": {
+			"components": [
+				"dispense (to weigh out / distribute)",
+				"-ary (place for)"
+			],
+			"original_statement": "From Medieval Latin dispensarium 'place where things are given out', from Latin dispensare 'to weigh out / disburse'."
+		},
+		"concept": "Place for weighing out (量り分けるための場所。救いと癒やしが『分量』として確定する空間)",
+		"thinking": "「（癒やしという名の富を）バラバラに量って（Dispens-）」「（提供する）場所（-ary）」。カオス（苦痛や混沌）を一度受け止め、それを理性の天秤で「これだけあれば救われる」という精密な「分量（処方）」へと変容させ、再び個々の人間（テナント）へと送り戻す（Remit）変換のゲート。医務室（ディスペンサリー）とは、あなたが剥き出しの「傷（重み）」を持って訪れた際、それを世界の「秩序（計量）」へと繋ぎ戻してくれる、最初の安息の足場なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "pension",
+		"word": "Pension",
+		"meaning": "年金、(ヨーロッパの)下宿屋",
+		"era": "Latin pendere",
+		"etymology": {
+			"components": [
+				"pendere (to pay / weigh)"
+			],
+			"original_statement": "From Old French pension 'a payment', from Latin pensionem 'a payment / installment / rent', from pensus, past participle of pendere 'to hang / cause to hang / weigh / pay'."
+		},
+		"concept": "A payment (支払うこと、過去の重みが『今の支え』へと変換された硬貨)",
+		"thinking": "「（かつて働いた、あるいは預けた）重みを（Pen-）」「（時間をかけて）支払い戻すこと（-ion）」。若い頃にあなたが世界という名の天秤に「積み上げた（掛金）」努力が、時を越えて、今度はあなたが「支えられる（Hold）」ための物理的な重み（お金）として、一定の律動（リズム）を持って手元へと「帰還（レシーヴ）」してくること。年金（ペンション）とは、過去のあなたの「呼吸（スピリット）」が、未来のあなたを温めるための「焚き木（コイン）」へと結晶化した、時間の慈悲深い貯蔵庫なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "pensile",
+		"word": "Pensile",
+		"meaning": "吊り下がった、懸垂する",
+		"era": "Latin pendere",
+		"etymology": {
+			"components": [
+				"pendere (to hang)"
+			],
+			"original_statement": "From Latin pensilis 'hanging / pendant', from pendere 'to hang'."
+		},
+		"concept": "Characterized by hanging (吊り下がっている、という性質。重力への優雅な委ね)",
+		"thinking": "「（空中に）吊り下がっている（Pens-）」という「性質（-ile）」。自分の足で地面を蹴ることをやめ、ある一点からの「繋がり（フック）」だけを信じて、自分の全質量を重力という名の「透明な腕」に丸ごと預けている状態。垂れ下がる（ペンサイル）姿は、一見すると無防備ですが、それは世界という巨大な「秩序（バランス）」の流れに、一点の抵抗もなく自分を沿わせている、という究極の「信頼（サレンダー）」の形でもあるのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "stipend",
+		"word": "Stipend",
+		"meaning": "奨学金、給料、生活費、(特に聖職者の)俸給",
+		"era": "Latin stips + pendere",
+		"etymology": {
+			"components": [
+				"stips (contribution / gift / coin)",
+				"pendere (to pay / weigh)"
+			],
+			"original_statement": "From Latin stipendium 'a tax / tribute / pay / salary', originally 'a weighing of coins', from stips 'gift / contribution / coin' + pendere 'to pay / weigh'."
+		},
+		"concept": "Weighing coins as a gift (硬貨を量って支払うこと。高貴な使命に対する『最低限の重み』の保証)",
+		"thinking": "「（人々の志から集まった）硬貨（Stips）」の「重さを計り（Pendere）」「（それを成し遂げる者へと）渡す」こと。市場での「労働の対価」ではなく、あなたがその「高貴な使命（ヴォケーション）」に専念できるように、社会という天秤があなたに用意した、最低限の、しかし決定的な「命の燃料」。俸給（ステイペンド）とは、あなたが世界を「変える（コンバート）」ための活動が、経済という名の重力に押し潰されないように、知性が用意した「見えない翼（支え）」の一種なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "prepense",
+		"word": "Prepense",
+		"meaning": "あらかじめ計画された、(殺意などが)故意の",
+		"era": "Latin prae + pendere",
+		"etymology": {
+			"components": [
+				"prae- (before)",
+				"pendere (to weigh / think)"
+			],
+			"original_statement": "From Old French purpense 'premeditated', from purpenser 'to think of / intend', from pur- 'thoroughly' + penser 'to think', from Latin pensare, frequentative of pendere 'to weigh'."
+		},
+		"concept": "Thinking thoroughly before (事前に徹底的に量られた。暗闇での冷静な重量計算)",
+		"thinking": "「（その行動を起こす）前に（Prae-）」「（その結果の重みを）計り終えて（Pense-）」いること。一瞬の感情（ブレス）に流されるのではなく、冷酷なまでに「その先にある結末」を天秤にかけ、納得した上で引き金を引くこと。故意（プリペンス）という響きには、あなたが衝動（インペトゥス）の犠牲者ではなく、自らの「闇の計画（シナリオ）」を完全に支配し（コントロール）、遂行（エグゼキュート）した「主人」である、という冷淡な主権の誇示が込められています。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "expenditure",
+		"word": "Expenditure",
+		"meaning": "支出、(資源などの)消費、経費",
+		"era": "Latin ex- + pendere",
+		"etymology": {
+			"components": [
+				"expend (to weigh out)",
+				"-ure (act / result)"
+			],
+			"original_statement": "From expend + -iture, from Latin expendere 'to weigh out'."
+		},
+		"concept": "The act of weighing out (量り出すこと。あなたという資産が『世界』へと溶け出す流出の跡)",
+		"thinking": "「（内なる重みを）外へと（Ex-）」「量り出し（Pend-）」たという「確定した事実（-ure）」。どれほどのお金を使い、どれほどの時間を消費したか。それは単なるマイナスの数字ではなく、あなたがこの世界に対して「どれほどコミット（関与）し、自らの質量を注入（インジェクト）したか」という、活動の物理的なフットプリントなのです。支出（エキスペンディチュア）とは、あなたがその目的のために「失うことを決めた」という、あなたの覚悟の物理的な測定値そのものなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "compel_at",
+		"word": "Compel@at",
+		"meaning": "引きつけ、強いる力",
+		"era": "Latin con- + pellere",
+		"etymology": {
+			"components": [
+				"compel (to drive together)",
+				"@at (at)"
+			],
+			"original_statement": "Compound coined in synthesis to reflect irresistible attraction."
+		},
+		"concept": "Forced attraction (抗いがたい引力、強制的に引き寄せられる衝動)",
+		"thinking": "「共に（Con-）」「駆り立てる（Pellere）」強大な力と、「一点（At）」という目的地が出離した際。あなたが自らの意志でそこへ向かう（Seek）のではなく、世界という名の巨大な「重力」が、あなたという存在を物言わぬ弾丸として、その一点へと「強制的にデリバリー（射出）」してしまうこと。それは、愛の形をした「暴力的で美しい誘拐」にも似た、生命の最も幸福な降伏の瞬間の謂いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "dispel_script",
+		"word": "Dispel Script",
+		"meaning": "言葉を散らす、沈黙の真実",
+		"era": "Latin dis- + pellere + scribere",
+		"etymology": {
+			"components": [
+				"dispel (to drive apart)",
+				"script (thing written)"
+			],
+			"original_statement": "Coined during synthesis."
+		},
+		"concept": "Scattered word (散らされた言葉たち、文字の檻を脱した純粋な震え)",
+		"thinking": "「バラバラに（Dis-）」「追い払われた（Pellere）」「書き物（Script）」。あなたがこれまで積み上げてきた理屈や、誰かが書いた「正しい教科書（スクリプト）」を、一陣の風（ディスペル）によって四方八方へと吹き飛ばし、そこに剥き出しの「沈黙という名の真実（センス）」だけを残すこと。それは言葉という名の「呪縛」を解き放つ、精神の最も乱暴で最も清々しい「白紙化」の儀式なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "expel_voice",
+		"word": "Expel Voice",
+		"meaning": "声を突き出す、魂の叫び",
+		"era": "Latin ex- + pellere + vox",
+		"etymology": {
+			"components": [
+				"expel (to drive out)",
+				"voice (sound / utterance)"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "Outward driving sound (外へと突き出された声、肉体という檻を破る爆発)",
+		"thinking": "「外側へと（Ex-）」「突き出す（Pellere）」「声（Vox）」。ただ話すのではない。内側に溜め込んだ絶望、あるいは歓喜という名の飽和した熱量を、肺と喉のエンジンのすべてを使い、自分という境界線の向こう側へと「強制的（パワー）」に射出すること。叫び（エキスペル・ヴォイス）とは、あなたの内なる宇宙が、現在の肉体という「器」の形に耐えきれず、世界という名の海へと無理やり浸出しようとした（インフェクト）瞬間の、最も高密度な生の噴火なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "impel_spirit",
+		"word": "Impel Spirit",
+		"meaning": "魂を駆り立てる、根源的な推進力",
+		"era": "Latin in- + pellere + spiritus",
+		"etymology": {
+			"components": [
+				"impel (to drive into)",
+				"spirit (breath / soul)"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "Driving the breath (呼吸を突き動かすこと、魂という帆への追い風)",
+		"thinking": "「（存在の）核心へと（In-）」「強く突き動かす（Pellere）」「息、魂（Spirit）」。あなたが論理（ロゴス）で考えを深める前に、あなたの「生命のリズム（ブレス）」そのものが、運命という名の座標に向かってドクンと「脈打った（パルス）」瞬間のこと。魂の駆り立て（インペル・スピリット）とは、あなたが宇宙から貸し与えられた「命という名の燃料」を、今この瞬間にすべて燃やし尽くしてでも前へ進む（Seek）、という、生命が本来持っている「最も健全な発狂」の姿なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "propel_future",
+		"word": "Propel Future",
+		"meaning": "未来を推進する、未来を切り拓く力",
+		"era": "Latin pro- + pellere",
+		"etymology": {
+			"components": [
+				"propel (to drive forward)",
+				"future (to be / about to happen)"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "Forward driving the next moment (次の瞬間を前へと押し出す力、時間の開拓)",
+		"thinking": "「前へと（Pro-）」「突き出す（Pellere）」「まだ来ぬ時（Future）」。未来とはただやってくるのを待つものではない。あなたの今この瞬間の「全力の一打（プッシュ）」が、不透明な未来という霧を物理的に切り裂き、そこに自分の「足跡（トラック）」を投影して、無理やり現実（ファクト）へと変貌させていく、その「加速度（スピード）」そのもの。未来を推し進めることは、あなたがこの世界の「傍観者（スペクテイター）」であることをやめ、時間を自分の「呼吸（リズム）」で支配し始めた、という王者の自覚の謂いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "repel_darkness",
+		"word": "Repel Darkness",
+		"meaning": "闇を退ける、光の防衛",
+		"era": "Latin re- + pellere",
+		"etymology": {
+			"components": [
+				"repel (to drive back)",
+				"darkness"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "Driving back the shadow (影を後ろへ押し返すこと、内なる光の『磁界』)",
+		"thinking": "「（迫りくる虚無を）後ろへと（Re-）」「突き返す（Pellere）」。自分を蝕もうとする不安、絶望、あるいは沈黙。それらに対して、自分の中にある「生きたい（Seek）」という名の小さな火を爆発（パルス）させ、その周囲に、いかなる闇も侵食できない「拒絶の境界線（リスペクト）」を創り上げること。闇を退けることは、あなたが自分の魂という名の「聖域」の門番（スクライブ）として、一切の不純を許さない、と決断（ディサイド）した際の、凛とした魂の「拒絶の美」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "pulse_history",
+		"word": "Pulse History",
+		"meaning": "歴史を脈打つ、鼓動する時間",
+		"era": "Latin pellere + Greek historia",
+		"etymology": {
+			"components": [
+				"pulse (beating)",
+				"history (inquiry / exploration)"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "The beating record (鼓動する記録、流動する過去の脈動)",
+		"thinking": "「打ち、突き動かす（Pellere-）」ことが「積み重なった過去（History）」。歴史とは死んだ石碑の罗列ではない。それは一人の人間、一つの細胞が、「今この瞬間に（At）」発した一回きりの「生（パルス）」が、何十億回も繰り返され、連綿と続いてきた「巨大な心音」の記録なのです。歴史を脈打つこと（パルス・ヒストリー）とは、あなたが今この瞬間に発した一打（プッシュ）が、数千年後の誰かの「呼吸（スピリット）」を揺らすための、最初の「震え（ソース）」になる、という広大な時間の共鳴の謂いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "propulsion_heart",
+		"word": "Propulsion Heart",
+		"meaning": "心の推進力、行動の原動力",
+		"era": "Latin pro- + pellere + cor",
+		"etymology": {
+			"components": [
+				"propulsion (force for forward driving)",
+				"heart (core / center)"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "Diving force from the core (中心から湧き上がる前方への力、情熱のエンジン)",
+		"thinking": "「前へと自分を押し出す力（Propulsion）」の「源泉（Heart）」。論理的な有利不利ではなく、あなたの肉体の中心部（コア）が、目的地に向かってドクンと「質量を移動させた」際の、その物理的な「衝動（ベクトル）」。心の推進力とは、あなたが「まだ見ぬ景色（プロスペクト）」に対して、自分の全人生という名の重み（ウェイト）を、ためらわずに「前のめり（プロピシャス）」に倒し込むことができる、という魂の勇気の計測不能な馬力の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "pulsate_life",
+		"word": "Pulsate Life",
+		"meaning": "生命を脈打つ、生きる実感",
+		"era": "Latin pellere + bios",
+		"etymology": {
+			"components": [
+				"pulsate (repeated beating)",
+				"life (living thing)"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "The rhythmic manifestation of being (存在の律動的な現れ、命の執拗なるリフレイン)",
+		"thinking": "「何度も（freq.）」「突き動かされる（Pellere-）」「生命（Life）」。生とは静止した名詞ではなく、一瞬の「生（プッシュ）」と一瞬の「死（ポーズ）」が、絶え間なく交互に繰り返される「動的なリズム（パルス）」そのもの。生命を脈打つことは、あなたが過去の栄光や未来の不安に閉じこもらず、今この瞬間にあなたの心臓が刻んでいる「たった一つの音（トーン）」に、自分の全人生を預け切る（コミット）、という最も誠実な世界との「握手（コンタクト）」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "repulsion_fear",
+		"word": "Repulsion Fear",
+		"meaning": "恐怖への反発、勇気の源",
+		"era": "Latin re- + pellere + timidus",
+		"etymology": {
+			"components": [
+				"repulsion (reaction of driving back)",
+				"fear"
+			],
+			"original_statement": "Coined during synthesis."
+		},
+		"concept": "Reaction against trembling (震えに対する押し返しの力、防衛的な飛躍)",
+		"thinking": "「（恐怖という名の重圧を）後ろへと（Re-）」「突き返す（Pellere）」ことによる「反動（エネルギー）」。恐怖はあなたを麻痺（ストップ）させるのではなく、むしろ自分を必死に「守り抜こう（リスペクト）」とする魂が放った、爆発的な「拒絶の熱（反発力）」なのです。恐怖への反発（リパルジョン・フィアー）とは、あなたが自分の足元に引いた「これ以上は一歩も退かない」という名の境界線が、外界からの圧力と衝突し、そこで巨大な「生への意志（パワー）」が閃光として散った、その一瞬の奇跡のことなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "appeal_nature",
+		"word": "Appeal Nature",
+		"meaning": "自然の魅力、魂の帰還",
+		"era": "Latin ad- + pellere + natura",
+		"etymology": {
+			"components": [
+				"appeal (driving toward / calling to)",
+				"nature (birth / essence)"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "Calling back to the essence (本質への呼びかけ、原初の『生』への回帰の誘い)",
+		"thinking": "「（ありのままの自分）へと（Ad-）」「意識を駆り立て、呼び寄せる（Pellere）」「自然、本来の姿（Nature）」。都会の喧騒や記号の檻から脱し、あなたの細胞が本来持っていた「呼吸（ブレス）」や「感覚（センス）」の領域へと、魂を優しく、しかし抗いがたく呼び戻す力。自然の魅力とは、あなたが「何者であるべきか」という重圧を捨て、「ただここに在る（Being）」ことの至福を思い出すための、森や海という名の広大な「記憶（リテイン）」からの招待状なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "repeal_limit",
+		"word": "Repeal Limit",
+		"meaning": "限界を撤回する、無限の可能性",
+		"era": "Latin re- + pellere + limes",
+		"etymology": {
+			"components": [
+				"repeal (calling back / revoking)",
+				"limit (boundary / edge)"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "Revoking the boundary (境界線を無効にすること、物語の『書き換え』)",
+		"thinking": "「（自分が決めた、あるいは世界が決めた）限界（Limit）」を「後ろへ呼び戻し、白紙にする（Repeal）」。これ以上は無理だ、という「自分勝手な決断（ディサイド）」を、自らの最高度の主権（パワー）によって取り消して、再び「無限の荒野（カオス）」を自分の前に創り直すこと。限界の撤回（リピール・リミット）とは、あなたが自分の物語の「最後の一行（エンド）」を書き換える権利を、決してあきらめない、という理性の不屈の反抗心のことなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "pulsion_mind",
+		"word": "Pulsion Mind",
+		"meaning": "心の衝動、思考の原動力",
+		"era": "Latin pellere + mens",
+		"etymology": {
+			"components": [
+				"pulsion (the drive)",
+				"mind (thinking / intellect)"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "The drive of consciousness (意識の突き出し、思考を前へと押し流す激流)",
+		"thinking": "「理性の檻を突き破る（Pellere-）」「心、思考（Mind）」の「突き出し（-ion）」。静かな思索（ペンシヴ）が、ある限界値を超えたとき、それはもはや「考え」ではなく、あなたという存在を物理的に「動かして」しまう、爆発的な「生のエネルギー（ベクトル）」へと変質する。心の衝動とは、あなたの知識が「知恵」へと変容し、その知恵が「世界に触れたい（コンタクト）」という切実な願いを持って、あなたの指先を一気に押し出した、その震える一瞬の初動のことなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "impulsive_art",
+		"word": "Impulsive Art",
+		"meaning": "衝動的芸術、瞬間の美の捉え",
+		"era": "Latin in- + pellere + ars",
+		"etymology": {
+			"components": [
+				"impulsive (full of driving into)",
+				"art (skill / craft)"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "Spontaneous creation (内なる突き上げによる創造、計算なき筆致)",
+		"thinking": "「（自分の中にあるカオスへと）内側から突かれた（Impulse-）」勢いを、そのままの熱量で「形（Art）」へと結晶化させること。完成を急がず、かといってためらうこともなく、ただ今この瞬間の「生の震え」をキャンバスへと「転写（トランススクライブ）」し切ること。衝動的芸術とは、あなたが「作り手（メーカー）」であることをやめ、ただの「風（スピリット）」となり、あなたという肉体を通り抜けた世界の震えを、物質に刻み込む、という透明な降伏の軌跡なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "pulse-beat",
+		"word": "Pulse-beat",
+		"meaning": "鼓動、生のリズム",
+		"era": "Latin pellere + Germanic beat",
+		"etymology": {
+			"components": [
+				"pulse (pushing)",
+				"beat (striking)"
+			],
+			"original_statement": "From pulse + beat."
+		},
+		"concept": "The rhythmic strike of being (存在の律動的な一打、時間の原子としての響き)",
+		"thinking": "「（心臓が血液を）押し出す（Pulse）」際の「一打（Beat）」。あなたが意識しようとしまいと、宇宙はあなたを「生きさせよう」として、一定のリズムであなたの人生という名の太鼓を叩き続けている。パルス・ビートとは、あなたが世界の「沈黙」を拒絶し、自分の「存在という名の音楽（トーン）」を世界という空間に刻み込み続けている、生命の最も誠実で執拗な「自己主張」そのものなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
 	}
 ];
