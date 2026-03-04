@@ -173506,5 +173506,420 @@ const WORDS = [
 				"存在の収束。"
 			]
 		}
+	},
+	{
+		"id": "village",
+		"word": "村、村落、ビレッジ",
+		"era": "Latin villa",
+		"etymology": {
+			"components": [
+				"villa (farm / country house)",
+				"-age (collection / state)"
+			],
+			"original_statement": "From Old French village, from villa 'farm / country house' + -age."
+		},
+		"concept": "Collection of farmhouses (農家の集まり。カオスという名の『荒野（不在）』の中から抽出された、自らの一分一秒の淀みもない『生存の拠点（ドット）』が物理的に屹立した聖域としての集落)",
+		"thinking": "「（永遠という名の、あの不透明なフローを粉砕して）、一つの拠点を（Vill- / Villa）」「（一撃の情熱（アトラクション）を伴って）集め、同期させた不滅の情景（-age）」。それは単なる「田舎（ソフト）」ではありません。あなたが宇宙の「孤独（アイソレーション）」を拒絶（レジスト）し、そこに自分たちが放つ「不滅のネットワーク」という名の設計図を打ち立て、全世界の断片を「一つの共有という名のトーン」へと変容（コンバート）させて（屹立させて）しまった瞬間の、生の最高度の「抱擁」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "集落と文明の軌跡。",
+		"example": "Politics is the civil of the village.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の共同体。"
+			]
+		}
+	},
+	{
+		"id": "villain",
+		"word": "悪党、悪役、かたき、ビラン",
+		"era": "Latin villa",
+		"etymology": {
+			"components": [
+				"villa (farm)"
+			],
+			"original_statement": "From Old French vilain 'peasant / churl / villain', from Medieval Latin villanus 'farm servant', from villa 'farm'."
+		},
+		"concept": "Peasant (originally) -> Scoundrel (農民の（転じて悪党の）。既存の『高貴な全一性（アーカイブ）』に対し、自らの『剥き出しのパルス（欲望）』という名の刃を一気に射出し、社会という名の設計図を粉砕しようとする、知性の最も峻烈な反逆)",
+		"thinking": "「（漂流していた、あの震える呼吸（ブレス）を一分一秒の淀みもなくインスペクト（視認）し）、村の住人、あるいは下層の者（Vill- / Villa）」「という蔑称としての状態（-ain）」。それは単なる「悪い奴（マテリアル）」ではありません。あなたが宇宙の「偽善（ノイズ）」を拒絶（レジスト）し、独自の呼吸（ブレス）を一振りの「刃（ベクトル）」へと研ぎ澄ませて、この荒野を一糸乱れぬ「自分だけの真理」で支配しようとした際の、周囲からの最も痛ましい「不整合（イレース）」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "集落と文明の軌跡。",
+		"example": "Politics is the civil of the village.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の共同体。"
+			]
+		}
+	},
+	{
+		"id": "villa",
+		"word": "別荘、邸宅、郊外の家、ビラ",
+		"era": "Latin villa",
+		"etymology": {
+			"components": [
+				"villa (farm / country house)"
+			],
+			"original_statement": "From Latin villa 'country house / farm / estate'."
+		},
+		"concept": "Country house (邸宅。自らの王座（ステーション）から射出される不可避な不滅の設計図（スクリプト）。孤独という名の絶壁を、一撃の『優雅（ロゴス）』という名の建築に変えて、宇宙のアーカイブの上に不動の質量（ウェイト）を伴って屹立させること)",
+		"thinking": "「（明日という名の忘却（サイレンス）を愛撫するのを拒絶して、自らの一瞬という名の光源を）、一つの拠点として（Vill- / Villa）」。それは単なる「豪華な家（マテリアル）」ではありません。あなたが「宇宙の主権者（クリエイター）」として、世界を「自分という名の磁場が支配する完璧な調和」へとコンバート（変容）させて（アップデートして）しまった瞬間の、知性の最高度の「掌握」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "集落と文明の軌跡。",
+		"example": "Politics is the civil of the village.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の共同体。"
+			]
+		}
+	},
+	{
+		"id": "villager",
+		"word": "村人",
+		"era": "Latin villa",
+		"etymology": {
+			"components": [
+				"village (collection of farms)",
+				"-er (person who)"
+			],
+			"original_statement": "From English village + -er."
+		},
+		"concept": "Person of the village (村の住人。特定の『共有という名のロゴス（設計図）』の下に一気に同期（マージ）され、自らの呼吸（ブレス）をその共同体（ステーション）の一部として一糸乱れぬ質量を伴って屹立させている不屈の者)",
+		"thinking": "「（この騒がしいネットワーク（フロー）を粉砕して）、（一撃の情熱（アトラクション）を伴って）集落に属する者（Villag- / Villa）」。それは単なる「田舎者」ではない。あなたが宇宙の「分離（アイソレーション）」を拒絶（レジスト）し、そこに自分たちが放つ「不滅のネットワーク」という名の設計図を打ち立て、全世界を「一つの巨大な至高のトーン」へと書き換え（コンバート）させてしまった瞬間の、知性の最高度の「連帯」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "集落と文明の軌跡。",
+		"example": "Politics is the civil of the village.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の共同体。"
+			]
+		}
+	},
+	{
+		"id": "vil-voice",
+		"word": "Vil@Voice",
+		"meaning": "集う声、沈黙を連帯に変える不滅の咆哮、集落の響き",
+		"era": "Latin villa + vox",
+		"etymology": {
+			"components": [
+				"vil (farm / house / collection / people / community)",
+				"voice (sound / soul)"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "The communal sound (集まりとしての音。放たれた瞬間、自らの呼吸（ブレス）を一筋の『光の王座（ロゴス）』へと変換（コンバート）し、宇宙という真理のアーカイブの一角を、共同体というトーン（設計図）で照らし出すデリバリー)",
+		"thinking": "「（自分のちっぽけな存在（ドット）の中に眠っていた、あの巨大な真理を）、（一撃の情熱（アトラクション）を伴って）叫ぶ、集落の声（Vox）」。ただの「叫び（エキスペル）」ではない。その声が響いた瞬間、周囲を覆っていた「虚無（アブセンス）」が物理的に一掃され、そこに「誰もが見落としていたたった一つの『連帯された』意味」が、戦慄という名のトーン（響き）を伴って再屹立（リリー・スタンド）してしまうような、生の最も峻烈な「射出」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "集落と文明の軌跡。",
+		"example": "Politics is the civil of the village.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の共同体。"
+			]
+		}
+	},
+	{
+		"id": "vil-life",
+		"word": "Vil@Life",
+		"meaning": "連帯としての生、一瞬一瞬を自己集落の遷移として生きる一生",
+		"era": "Latin villa + Germanic life",
+		"etymology": {
+			"components": [
+				"vil (farm / house / collection / people / community)",
+				"life"
+			],
+			"original_statement": "Coined during synthesis."
+		},
+		"concept": "The life of community (集落であり続ける一生。一つの場所に安住する（アイソレーション）のを拒絶し、常に宇宙の最新の標高（アヴァン）へと自らを更新し続け、不滅 of 物語（スクリプト）を描き続ける不屈の遷移)",
+		"thinking": "「（明日という名の絶望（ブラックアウト）を愛撫するのをやめ、宇宙の深淵（ソース）から飛来する理知（ロゴス）だけを）」「（自らの魂を礎（ベース）にして）集い続け、存在し続け（Vil- / Villa）」「生き抜く（Life）」。あなたは自分の「呼吸（ブレス）」を、ただ無為に「消費（エキスペンド）」しているのではない。あなたが今日という日、どの「欺瞞（ノイズ）」を砕いて「新しい真理という名の座標（ドット）」を救い出し、どの「驚愕（パルス）」を自らの主権（ステータス）を屹立させるための「不動（ピース）」へと変貌（コンバート）させたか。そのすべての「連帯（デリバリー）」の軌跡が、宇宙という名の不変 of アーカイブの上に、あなたの「存在という名の不滅 of ロゴス」として、物理的な質量を持って刻まれ続けているのだ。連帯としての生。それは、あなたが「宇宙の主権者（クリエイター）」として, この荒野を「美しき変革（ピース）」へと変容させ通した際の, 魂の最高度の「抱擁」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "集落と文明の軌跡。",
+		"example": "Politics is the civil of the village.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の共同体。"
+			]
+		}
+	},
+	{
+		"id": "policy",
+		"word": "政策、方針、手段、ポリシー",
+		"era": "Greek polis",
+		"etymology": {
+			"components": [
+				"polis (city / state)"
+			],
+			"original_statement": "From Old French policie 'civil administration', from Latin politia, from Greek politeia 'citizenship / government / constitution of a state', from polites 'citizen', from polis 'city'."
+		},
+		"concept": "Governance of a city (都市の統治（方針）。宇宙のあらゆる『暴力（カオス）』に対し、自らの知性という名の『一撃の鉄槌（ロゴス）』によって境界線を引き、全呼吸（ブレス）を一つの物理的な意思（ウェイト）へと結晶化させて屹立させた不滅の設計図)",
+		"thinking": "「（ばらばらに漂流していた、あの不確かなベクトル（ノイズ）を粉砕して）、（一つの不滅のロゴスを支える）都市の秩序を（Polic- / Polis）」「（一分一秒の淀みもなく）固定した不屈の意思（-y）」。それは単なる「決まり（ソフト）」ではありません。あなたが宇宙の「不整合（ノイズ）」を拒絶（レジスト）し、独自の呼吸（ブレス）を一振りの「刃（ベクトル）」へと研ぎ澄ませて、この荒野を一糸乱れぬ「真理の旋律」で支配し通している際の、知性の最高度の「掌握」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "集落と文明の軌跡。",
+		"example": "Politics is the civil of the village.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の共同体。"
+			]
+		}
+	},
+	{
+		"id": "police",
+		"word": "警察、(警察による)取り締まり、ポリス",
+		"era": "Greek polis",
+		"etymology": {
+			"components": [
+				"polis (city)"
+			],
+			"original_statement": "From Middle French police 'city government', from Latin politia, from Greek politeia."
+		},
+		"concept": "City government / Regulation (都市の規制（警察）。宇宙という名の広大なキャンバスのただ中にあって、理知という名の冷徹なメスによって一気に『境界線（ホールド）』を射出し、不条理という名の『ゴミ（ノイズ）』を粉砕（デストラクト）して回る、知性の最も峻烈な番人)",
+		"thinking": "「（この虚無という名の、あの冷酷なアーカイブのただ中にあって）、都市の安全を（Polic- / Polis）」「（一分一秒の淀みもなく）守り抜く情熱（-e）」。それは単なる「制服（マテリアル）」ではありません。あなたが宇宙の「無秩序（カオス）」を拒絶（レジスト）し、そこに自分という名の「唯一の不滅のコンパス」による厳密な「支配という名の秩序」を打ち立て、屹立（スタンド）させ通した（パシストした）際の、知性の最高度の「掌握」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "集落と文明の軌跡。",
+		"example": "Politics is the civil of the village.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の共同体。"
+			]
+		}
+	},
+	{
+		"id": "politics",
+		"word": "政治(学)、政策、駆け引き、ポリティクス",
+		"era": "Greek polis",
+		"etymology": {
+			"components": [
+				"polis (city)",
+				"-ics (study / practice)"
+			],
+			"original_statement": "From Greek politika 'affairs of state / politics', from polites 'citizen', from polis 'city'."
+		},
+		"concept": "Affairs of the city (都市の事柄。孤独な二つの『主権（ステータス）』という名の座標を一撃の『理知（ロゴス）』という名の設計図によって引き寄せ、強制的に同期（マージ）させて、宇宙のアーカイブの上に一つの『完璧な和音』を屹立させる動的な凱旋)",
+		"thinking": "「（漂流していた、あの震える呼吸（ブレス）を一分一秒の淀みもなく同期（マージ）させるために）、都市の事柄（Polit- / Polis）」「（一撃の情熱を伴って）実践する学問（-ics）」。それは単なる「選挙（ソフト）」ではありません。あなたが宇宙の「分離（アイソレーション）」を拒絶（レジスト）し、そこに自分たちが放つ「不滅のネットワーク」という名の設計図を打ち立て、全世界を「一つの巨大な法という名のトーン」へと書き換え（コンバートし）終えた際の、知性の最高度の「掌握」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "集落と文明の軌跡。",
+		"example": "Politics is the civil of the village.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の共同体。"
+			]
+		}
+	},
+	{
+		"id": "metropolitan",
+		"word": "大都市の、首都の、(本国の)母国の、メトロポリタン",
+		"era": "Greek meter (mother) + polis",
+		"etymology": {
+			"components": [
+				"meter (mother)",
+				"polis (city)"
+			],
+			"original_statement": "From Late Latin metropolitanus, from Greek metropolis 'mother city', from meter 'mother' + polis 'city'."
+		},
+		"concept": "Mother city (母なる都市。不滅の『ロゴス（正義）』を、物理的な『巨大建築（アーカイブ）』という名のビークルを通して、宇宙という真理のアーカイブの中心（ソース）へと一気に可視化させ、屹立させている凱旋)",
+		"thinking": "「（内なる深淵（ソース）を、あの日呼ばれた奇跡（トーン）とともに）、母なる都市としての（Metropolit- / Meter + Polis）」「（一分一秒の淀みもなく）毅然と存在する品質（-an）」。それは単なる「都会風（ソフト）」ではありません。あなたが「傍観者（スペクテイター）」であることを卒業し、自らが「宇宙の唯一の主権者（クリエイター）」として、世界を「自分という名の磁場が支配する圧倒的な秩序（設計図）」へとコンバート（変容）させて（アップデートして）しまった瞬間の、知性の最高度の「掌握」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "集落と文明の軌跡。",
+		"example": "Politics is the civil of the village.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の共同体。"
+			]
+		}
+	},
+	{
+		"id": "pol-voice",
+		"word": "Pol@Voice",
+		"meaning": "都市の声、沈黙を秩序に変える不滅の咆哮、文明の響き",
+		"era": "Greek polis + vox",
+		"etymology": {
+			"components": [
+				"pol (city / state / civilization / policy / politics)",
+				"voice (sound / soul)"
+			],
+			"original_statement": "Coined during synthesis."
+		},
+		"concept": "The civilized sound (都市としての音。放たれた瞬間、自らの呼吸（ブレス）を一筋の『光の王座（ロゴス）』へと変換（コンバート）し、宇宙という真理のアーカイブの一角を、永遠に支配（ホールド）するデリバリー)",
+		"thinking": "「（自分のちっぽけな存在（ドット）の中に眠っていた、あの巨大な真理を）、（一撃の情熱（アトラクション）を伴って）叫ぶ、都市の喧騒を貫く声（Vox）」。ただの「叫び（エキスペル）」ではない。その声が響いた瞬間、周囲を覆っていた「虚無（アブセンス）」が物理的に一掃され、そこに「誰もが見落としていたたった一つの『文明的な』意味」が、戦慄という名のトーン（響き）を伴って再屹立（リリー・スタンド）してしまうような、生の最も峻烈な「射出」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "集落と文明の軌跡。",
+		"example": "Politics is the civil of the village.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の共同体。"
+			]
+		}
+	},
+	{
+		"id": "pol-life",
+		"word": "Pol@Life",
+		"meaning": "文明としての生、一瞬一瞬を自己統治の遷移として生きる一生",
+		"era": "Greek polis + Germanic life",
+		"etymology": {
+			"components": [
+				"pol (city / state / civilization / policy / politics)",
+				"life"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "The life of civilization (都市であり、文明であり続ける一生。一つの場所に安住する（アイソレーション）のを拒絶し、常に宇宙の最新の標高（アヴァン）へと自らを更新し続け、不滅 of 物語（スクリプト）を描き続ける不屈의 遷移)",
+		"thinking": "「（明日という名の絶望（ブラックアウト）を愛撫するのをやめ、宇宙の深淵（ソース）から飛来する理知（ロゴス）だけを）」「（自らの魂を礎（ベース）にして）統治し続け、存在し続け（Pol- / Polis）」「生き抜く（Life）」。あなたは自分の「呼吸（ブレス）」を、ただ無為に「消費（エキスペンド）」しているのではない。あなたが今日という日、どの「欺瞞（ノイズ）」を砕いて「新しい真理という名の座標（ドット）」を救い出し、どの「驚愕（パルス）」を自らの主権（ステータス）を屹立させるための「不動（ピース）」へと変貌（コンバート）させたか。そのすべての「文明（デリバリー）」の軌跡が、宇宙という名の不変 of アーカイブの上に、あなたの「存在という名の不滅 of ロゴス」として、物理的な質量を持って刻まれ続けているのだ。文明としての生。それは、あなたが「宇宙の主権者（クリエイター）」として, この荒野を「美しき変革（ピース）」へと変容させ通した際の, 魂の最高度の「抱擁」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "集落と文明の軌跡。",
+		"example": "Politics is the civil of the village.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の共同体。"
+			]
+		}
+	},
+	{
+		"id": "civil",
+		"word": "市民の、民間の、礼儀正しい、シビル",
+		"era": "Latin civis",
+		"etymology": {
+			"components": [
+				"civis (citizen)",
+				"-il (related to)"
+			],
+			"original_statement": "From Old French civil, from Latin civilis 'pertaining to citizens / civil / polite / courteous', from civis 'citizen'."
+		},
+		"concept": "Related to citizens (市民に関する品質。宇宙の絶対零度という名の『不在（アブセンス）』に対し、自らの秩序（ロゴス）という名の設計図を一糸乱れぬ質量（ウェイト）を伴って同期（マージ）させ、存在を本来あるべき『標高（礼儀）』へと躍動させる不屈の形式)",
+		"thinking": "「（漂流していた、あの震える呼吸（ブレス）を一分一秒の淀みもなくインスペクト（視認）し）、市民としての（Civ- / Civis）」「という、不屈の品質（-il）」。それは単なる「一般の（ソフト）」ではありません。あなたが宇宙の「虚無（アブセンス）」を拒絶（レジスト）し、そこに自分という名の「唯一無二の物語（スクリプト）」を打ち立て、全世界の断片を「一つの不滅のトーン（和音）」へと変容（コンバート）させて（屹立させて）しまった瞬間の、生の最高度の「掌握」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "集落と文明の軌跡。",
+		"example": "Politics is the civil of the village.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の共同体。"
+			]
+		}
+	},
+	{
+		"id": "city",
+		"word": "都市、市、都会、シティ",
+		"era": "Latin civitas",
+		"etymology": {
+			"components": [
+				"civis (citizen)"
+			],
+			"original_statement": "From Old French cite, from Latin civititatem (nominative civitas) 'state / city-state / body of citizens', from civis 'citizen'."
+		},
+		"concept": "Body of citizens / City-state (市民の集合体、あるいは都市。カオスという名の『荒野（アーカイブ）』の中から抽出された、自らの一分一秒の淀みもない『主権（ステーション）』の集積が、宇宙という真理のアーカイブの上に一つの『巨大な神殿』として屹立した遷移)",
+		"thinking": "「（この不透明な、あの冷酷な全一性（アーカイブ）を一分一秒の淀みもなく支配するために）、（一つの巨大な）都市を（Ci- / Civ- / Civitas）」。それは単なる「コンクリートの塊（マテリアル）」ではありません。あなたが宇宙の「分離（アイソレーション）」を拒絶（レジスト）し、そこに自分たちが放つ「不滅のネットワーク」という名の設計図を打ち立て、全世界を「一つの巨大な法という名のトーン」へと書き換え（コンバートし）終えた際の、知性の最高度の「掌握」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "集落と文明の軌跡。",
+		"example": "Politics is the civil of the village.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の共同体。"
+			]
+		}
+	},
+	{
+		"id": "civilize",
+		"word": "文明化する、洗練させる、シビライズ",
+		"era": "Latin civis",
+		"etymology": {
+			"components": [
+				"civil (pertaining to citizens)",
+				"-ize (to make)"
+			],
+			"original_statement": "Coined in 1600s from French civiliser, from Latin civilis 'of a citizen'."
+		},
+		"concept": "To make civil (文明化すること。宇宙の『暴力（カオス）』に対し、自らの知性という名の『一撃の鉄槌（ロゴス）』によって、野蛮という名のアーカイブを粉砕し、全呼吸（ブレス）を『唯一無二の秩序』へと変容（コンバート）させて屹立させること)",
+		"thinking": "「（このがんじがらめのネットワーク（フロー）を粉砕して）、（一撃の情熱（アトラクション）を伴って）文明的に作り上げる（Civil- / Civis）」「という完了した確定の情景（-ize）」。それは単なる「教育（ソフト）」ではありません。あなたが宇宙の「不整合（ノイズ）」を拒絶（レジスト）し、独自の呼吸（ブレス）を一振りの「刃（ベクトル）」へと研ぎ澄ませて、この荒野を「自分という名の磁場が支配する完璧な調和（設計図）」へと一気に書き換えてしまった瞬間の、知性の最高度の「凱旋」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "集落と文明の軌跡。",
+		"example": "Politics is the civil of the village.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の共同体。"
+			]
+		}
+	},
+	{
+		"id": "civility",
+		"word": "礼儀正しいこと、丁寧さ",
+		"era": "Latin civis",
+		"etymology": {
+			"components": [
+				"civil (polite)",
+				"-ity (state)"
+			],
+			"original_statement": "From Old French civilite, from Latin civilitatem 'courtesy / politeness', from civilis 'of a citizen'."
+		},
+		"concept": "State of being civil (礼儀正しさ。主権という名の『王座（ステーション）』を維持するために、自らの知性という名の『一撃の鉄槌（ロゴス）』によって、他者の標高（ステータス）を本来あるべき『不滅の形式』において受理し続ける凱旋)",
+		"thinking": "「（宇宙という名の広大なキャンバスの上に、自分の筆致（スクリプト）を描くために）、市民らしさ（Civil- / Civis）」「という（一分一秒の淀みもない）不変の品質（-ity）」。それは単なる「愛想（ソフト）」ではありません。あなたが宇宙の「腐敗（ノイズ）」を拒絶（レジスト）し、自らの呼吸（ブレス）を一振りの「刃（ベクトル）」へと研ぎ澄ませて、この荒野を一糸乱れぬ「真理の旋律」で支配し通している（パシストしている）際の、存在の最高度の「鮮度」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "集落と文明の軌跡。",
+		"example": "Politics is the civil of the village.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の共同体。"
+			]
+		}
+	},
+	{
+		"id": "civ-voice",
+		"word": "Civ@Voice",
+		"meaning": "市民の声、沈黙を文明に変える不滅の咆哮、礼節の響き",
+		"era": "Latin civis + vox",
+		"etymology": {
+			"components": [
+				"civ (citizen / city / state / civil / polite / law)",
+				"voice (sound / soul)"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "The civil sound (市民としての音。放たれた瞬間、自らの呼吸（ブレス）を一筋の『光の王座（ロゴス）』へと変換（コンバート）し、宇宙という真理のアーカイブの一角を、礼節というトーン（設計図）で震撼させるデリバリー)",
+		"thinking": "「（自分のちっぽけな存在（ドット）の中に眠っていた、あの巨大な真理を）、（一撃の情熱（アトラクション）を伴って）叫ぶ、礼を弁えた声（Vox）」。ただの「叫び（エキスペル）」ではない。その声が響いた瞬間、周囲を覆っていた「虚無（アブセンス）」が物理的に一掃され、そこに「誰もが見落としていたたった一つの『洗練された』意味」が、戦慄という名のトーン（響き）を伴って再屹立（リリー・スタンド）してしまうような、生の最も峻烈な「射出」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "集落と文明の軌跡。",
+		"example": "Politics is the civil of the village.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の共同体。"
+			]
+		}
+	},
+	{
+		"id": "civ-life",
+		"word": "Civ@Life",
+		"meaning": "礼節としての生、一瞬一瞬を自己洗練の遷移として生きる一生",
+		"era": "Latin civis + Germanic life",
+		"etymology": {
+			"components": [
+				"civ (citizen / city / state / civil / polite / law)",
+				"life"
+			],
+			"original_statement": "Coined during synthesis."
+		},
+		"concept": "The life of civility (洗練し続ける一生。一つの場所に安住する（アイソレーション）のを拒絶し、常に宇宙の最新の標高（アヴァン）へと自らを更新し続け、不滅 of 物語（スクリプト）を描き続ける不屈の遷移)",
+		"thinking": "「（明日という名の絶望（ブラックアウト）を愛撫するのをやめ、宇宙の深淵（ソース）から飛来する理知（ロゴス）だけを）」「（自らの魂を礎（ベース）にして）洗練し続け、存在し続け（Civ- / Civis）」「生き抜く（Life）」。あなたは自分の「呼吸（ブレス）」を、ただ無為に「消費（エキスペンド）」しているのではない。あなたが今日という日、どの「欺瞞（ノイズ）」を砕いて「新しい真理という名の座標（ドット）」を救い出し、どの「驚愕（パルス）」を自らの主権（ステータス）を屹立させるための「不動（ピース）」へと変貌（コンバート）させたか。そのすべての「礼節（デリバリー）」の軌跡が、宇宙という名の不変 of アーカイブの上に、あなたの「存在という名の不滅 of ロゴス」として, 物理的な質量を持って刻まれ続けているのだ。礼節としての生。それは, あなたが「宇宙の主権者（クリエイター）」として, この荒野を「美しき変革（ピース）」へと変容させ通した際の, 魂の最高度の「抱擁」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "集落と文明の軌跡。",
+		"example": "Politics is the civil of the village.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の共同体。"
+			]
+		}
 	}
 ];
