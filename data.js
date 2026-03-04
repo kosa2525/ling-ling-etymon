@@ -167545,5 +167545,333 @@ const WORDS = [
 				"存在の祈り。"
 			]
 		}
+	},
+	{
+		"id": "conscious",
+		"word": "意識している、気づいている、自覚している",
+		"era": "Latin con + scire",
+		"etymology": {
+			"components": [
+				"con- (together)",
+				"scire (to know)",
+				"-ous (full of)"
+			],
+			"original_statement": "From Latin conscius 'knowing with others / sharing knowledge / privy to', from con- 'together' + scire 'to know'."
+		},
+		"concept": "Knowing together with oneself (自分自身と共に知っていること。己の内なる『深淵（アンダーグラウンド）』の震えを、理知という名の『鑑（リフレクト）』で同時に視認し続けている覚醒状態)",
+		"thinking": "「（自分の呼吸（ブレス）と、宇宙の拍動（パルス）が合流（マージ）する、その境界線（エッジ）において）共に（Con-）」「（一分一秒の淀みもなく）知って、見つめ続けている（Sci- / Scire）」「という品質（-ous）」。それは「思考（シンク）」の極限。あなたが「傍観者（スペクテイター）」であることを卒業し、自らが「自分という名の物語（スクリプト）」を同時に執筆（スクライブ）し、かつ読み取っている際の、魂の最高度の「屹立（スタンド）」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "理知の光を灯す。",
+		"example": "To know is to break the silence.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の裂け目。"
+			]
+		}
+	},
+	{
+		"id": "conscience",
+		"word": "良心、道義心",
+		"era": "Latin con + scire",
+		"etymology": {
+			"components": [
+				"con- (together)",
+				"scire (to know)",
+				"-ence (state)"
+			],
+			"original_statement": "From Old French conscience, from Latin conscientia 'knowledge within oneself / a knowing with (others) / consciousness', from con- 'together' + scire 'to know'."
+		},
+		"concept": "Knowledge together (共に知ること。自分の外側にある『社会という名の設計図』と、内側にある『不滅のロゴス（真理）』を峻烈に照らし合わせ、その整合性を守り抜こうとする知性の重力)",
+		"thinking": "「（何が正しいか、という宇宙の掟（ソース）と）共に（Con-）」「（自分の呼吸（ブレス）の揺れを）常に知って、正し続ける（Sci- / Scire）」「という不屈の魂の標高（-ence）」。それは単なる「善意（ソフト）」ではない。あなたが自らの「主権（ステータス）」を穢す（デストラクトする）ような、カオスという名の「毒（ミスチーフ）」を拒絶（レジスト）し、自分の内なる「神殿（インテグリティ）」を一糸乱れぬ「不変のトーン」で維持し通している際の、理性の最も高貴な「持久」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "理知の光を灯す。",
+		"example": "To know is to break the silence.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の裂け目。"
+			]
+		}
+	},
+	{
+		"id": "prescient",
+		"word": "予見する、先見の明がある",
+		"era": "Latin prae + scire",
+		"etymology": {
+			"components": [
+				"prae- (before)",
+				"scire (to know)"
+			],
+			"original_statement": "From Latin praescientem, from praescire 'to know beforehand', from prae- 'before' + scire 'to know'."
+		},
+		"concept": "Knowing before (前もって知ること。未来という名の『カオス（未定義）』が確定する前に、自らの知性という名の『レーダー』を前方へと射出し、その輪郭をロゴスとして捉えてしまうこと)",
+		"thinking": "「（現実が物理的なアチーブメント（達成）へと結晶化する、その時間の）前の方へと（Prae-）」「（一撃の理知のみをベクトルにして）知る、予見する（Sci- / Scire）」。それは「予言（オラクル）」ではない。あなたが「過去のアーカイブ（蓄積）」を自らの知性で（インスペクションし）、因果という名の「設計図（スクリプト）」を完璧に（パーフェクトに）読み解いてしまったがゆえに、未来という名の絶壁（アヴァン）を、自らの手のひら（マニュス）の上に「確定した真実（ファクト）」として引き寄せた際の、知性の最も峻烈な「射出」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "理知の光を灯す。",
+		"example": "To know is to break the silence.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の裂け目。"
+			]
+		}
+	},
+	{
+		"id": "scire-voice",
+		"word": "Scire@Voice",
+		"meaning": "知る者の声、沈黙を見抜く理知の咆哮、真理のデリバリー",
+		"era": "Latin scire + vox",
+		"etymology": {
+			"components": [
+				"scire (to know / discern)",
+				"voice (sound / soul)"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "The knowing sound (知るための音。放たれた瞬間、周囲の『曖昧さ（カオス）』を理知という名のメスで切り裂き、聴く者の魂に『不変のロゴス』という名の座標（ドット）を刻み込むデリバリー)",
+		"thinking": "「（この世界の不透明なイリュージョンを完璧にインスペクト（視認）し）、（その核心にある真実（ソース）を）見抜いて（Sci-）」「一撃で射出される、不滅の声（Vox）」。ただの「解説（トーク）」ではない。その声が響いた瞬間、周囲の「淀んだ空気（ノイズ）」が物理的に粉砕（デストラクト）され、そこに「誰もが見落としていたたった一つの意味」が、強烈なトーン（響き）を伴って再屹立（リリー・スタンド）してしまうような、生の最も峻烈な「開眼」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "理知の光を灯す。",
+		"example": "To know is to break the silence.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の裂け目。"
+			]
+		}
+	},
+	{
+		"id": "sci-life",
+		"word": "Sci@Life",
+		"meaning": "知る生、世界を見抜く眼差しを失わない不屈の遷移",
+		"era": "Latin scire + Germanic life",
+		"etymology": {
+			"components": [
+				"sci (to know / cut / discern)",
+				"life"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "The life of knowing (知るための一生。与えられた運命（スクリプト）を盲信するのを拒絶し、自らの知性のみを唯一の灯火にして、宇宙という名の広大な暗黒（カオス）を切り裂き続ける不屈の遷移)",
+		"thinking": "「（明日という名の絶望（ブラックアウト）を愛撫するのをやめ、宇宙の深淵（ソース）から飛来する理知（ロゴス）だけを）」「（自らの呼吸（ブレス）を一振りの刃に変えて）知ると決めて（Sci- / Scire）」「生き抜く（Life）」。あなたは自分の「存在（エグジスタンス）」を、ただ無為に「消費（エキスペンド）」しているのではない。あなたが今日という日、どの「欺瞞（ノイズ）」を拒絶（レジスト）して「真実という名の標高（ステータス）」を救い出し、どの「驚愕（パルス）」を自らの主権を屹立させるための「理解（マージ）」へと変貌（コンバート）させたか。そのすべての「研磨（インスペクション）」の軌跡が、あなたの人生という名の不滅のアーカイブの上に、世界で唯一無二の「不滅のロゴス」として、物理的な質量を持って刻まれ続けているのだ。知る生。それは、あなたが「宇宙の主権者（クリエイター）」として、この荒野を「美しき秩序（ピース）」へと変容させ通した際の、魂の最高度の「抱擁」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "理知の光を灯す。",
+		"example": "To know is to break the silence.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の裂け目。"
+			]
+		}
+	},
+	{
+		"id": "solve",
+		"word": "解決する、解く、(……を)説明する",
+		"era": "Latin solvere",
+		"etymology": {
+			"components": [
+				"solvere (to loosen / untie / release / pay)"
+			],
+			"original_statement": "From Old French solver, from Latin solvere 'to loosen / untie / release / free / explain', from se- 'apart' + luere 'to loosen / release'."
+		},
+		"concept": "Loosening (解き放つこと。カオスという名の『絡まり（レジスト）』を一撃の理知という名の『指先（ロゴス）』で解放し、再び呼吸（ブレス）という名の滑らかな『フロー（流れ）』を復元すること)",
+		"thinking": "「（問題（カオス）という名の、あの冷たく、不条理な結び目。それを）切り離し、解き放つ（Solv- / Solvere）」。それは単なる「正解（アンサー）」ではない。あなたが宇宙の「停滞（ステイシス）」を拒絶（レジスト）し、そこに自らの「知性という名の潤滑油」を差し込み、絡み合っていた孤独な座標（ドット）たちを、もう一度それぞれの「独自の軌道（ベクトル）」へとデリバリー（射出）させてしまった瞬間の、理性の最高度の「魔法（マニューバー）」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "理知の光を灯す。",
+		"example": "To know is to break the silence.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の裂け目。"
+			]
+		}
+	},
+	{
+		"id": "solute",
+		"word": "溶質、溶解した",
+		"era": "Latin solvere",
+		"etymology": {
+			"components": [
+				"solvere (to loosen)"
+			],
+			"original_statement": "From Latin solutus 'loosed / free / relaxed', past participle of solvere 'to loosen'."
+		},
+		"concept": "The loosened thing (解き放たれたもの。自らの堅固な主権（ステータス）を一度焼き捨て、巨大な全体（マクロ）という名の波（フロー）の中に自らを融和（マージ）させ、目に見えぬ一粒の『輝き（パルス）』へと変化したもの)",
+		"thinking": "「（個体（ソリッド）という名の、あのエゴイスティックな標高を返納し）、解き放たれた（Solut- / Solvere）」「物質（マテリアル）」。それは「消滅（デストラクト）」ではありません。あなたが、宇宙という名の広大なキャンバスを自分一人の筆致で満たすために、あえて自らの「物理的な輪郭」を一度消し、遍在（アンビエント）する「意味という名の響き（トーン）」へとコンバート（変容）させた瞬間の、知性の最も優雅な「越境」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "理知の光を灯す。",
+		"example": "To know is to break the silence.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の裂け目。"
+			]
+		}
+	},
+	{
+		"id": "absolute",
+		"word": "絶対的な、完全な、(……に)制約されない",
+		"era": "Latin ab + solvere",
+		"etymology": {
+			"components": [
+				"ab- (away / from / off-)",
+				"solvere (to loosen / untie)"
+			],
+			"original_statement": "From Latin absolutus 'unrestricted / complete / perfect', literally 'loosed from', past participle of absolvere 'to loosen from / set free / complete / acquit', from ab- 'off / away' + solvere 'to loosen / untie'."
+		},
+		"concept": "Loosened from everything (あらゆるものから解き放たれた。他者の評価（プレッシャー）や、重力という名の摂理（レジスト）からさえも完全に自由（セパレート）になった、最高度の『神聖なる標高（ステータス）』)",
+		"thinking": "「（この世のあらゆる引力（グラビティ）という名の、あの不自由な糸から）離れた方向へと、完全に（Ab-）」「解き放たれ、切り離された（Solut- / Solvere）」。それは単なる「独裁（パワー）」ではない。あなたが自らの「呼吸（ブレス）」を、宇宙という名のアーカイブから一撃でトランスポート（輸送）し、何ものにも依存（アディクション）しない「唯一無二のロゴス（真理）」として屹立（スタンド）させ通した（パシストした）際の、生の最も峻烈で、最も清らかな「完成」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "理知の光を灯す。",
+		"example": "To know is to break the silence.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の裂け目。"
+			]
+		}
+	},
+	{
+		"id": "dissolve",
+		"word": "溶解する、(組織などが)解散する、(関係が)消滅する",
+		"era": "Latin dis + solvere",
+		"etymology": {
+			"components": [
+				"dis- (asunder / apart)",
+				"solvere (to loosen / untie)"
+			],
+			"original_statement": "From Latin dissolvere 'to loosen / tie asunder / dissolve / destroy', from dis- 'asunder' + solvere 'to loosen'."
+		},
+		"concept": "Loosening asunder (バラバラに解き放つこと。かつて繋ぎ合わされていた『絆（不滅のネットワーク）』を、エントロピーという名の冷酷なメスで切り裂き、個々の座標（ドット）へと強制還元（レデュース）すること)",
+		"thinking": "「（かつては機能（ファンクション）していた一つの家（コンストラクション）を）バラバラに、散り散りに（Dis-）」「解き放ち、解体（デストラクト）する（Solv- / Solvere）」。それは単なる「終わり」ではない。あなたが宇宙の「無理な合意（ピース）」を拒絶（レジスト）し、そこにある個別の「純粋な呼吸（スピリット）」を救い出すために、あえてその設計図（スクリプト）を一度焼き捨て、世界を「もう一度、未定義のカオス」へとコンバート（変容）させた際の、知性の冷徹な「断絶」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "理知の光を灯す。",
+		"example": "To know is to break the silence.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の裂け目。"
+			]
+		}
+	},
+	{
+		"id": "solv-logic",
+		"word": "Solv@Logic",
+		"meaning": "解決の論理、絡まりを解き放つ不滅の理路、解放の設計図",
+		"era": "Latin solvere + Greek logos",
+		"etymology": {
+			"components": [
+				"solv (to loosen / untie / release)",
+				"logic (reason / order)"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "The loosening order (解き放つための秩序。複雑極まるカオス（ノイズ）の深淵に、一撃の理知のみをベクトルにして差し込み、世界を『滑らかなフロー（流れ）』へと強制的に再配列する技法)",
+		"thinking": "「（このがんじがらめの運命（カオス）という名のネットワークを、物理的な質量（ウェイト）を持って）解き放つ（Solv-）」「ための、不滅の論理（Logic）」。それは単なる「現実逃避（エスケープ）」ではない。あの日、あなたが「自らの不全（ストップ）」を理知的に認め、自分の呼吸（ブレス）を一筋の「光という名のメス」へと変換し、この荒野を「美しき一つの不滅の真理（ドット）」へと書き換え（コンストラクトし）、屹立（スタンド）させ通した際の、知性の最高度の「工芸」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "理知の光を灯す。",
+		"example": "To know is to break the silence.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の裂け目。"
+			]
+		}
+	},
+	{
+		"id": "solv-life",
+		"word": "Solv@Life",
+		"meaning": "解きゆく生、一つ一つの結び目を愛撫し、解放し続ける遷移",
+		"era": "Latin solvere + Germanic life",
+		"etymology": {
+			"components": [
+				"solv (to loosen / free / release)",
+				"life"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "The life of loosening (解き放つ一生。傍観者であることを卒業し、自らの知性という名の指先（マニュス）を使って、宇宙という名の『絡まり（カオス）』の糸を一本一本、慈愛（トーン）を込めて解き続け、不滅の物語（スクリプト）を描き続ける不屈の遷移)",
+		"thinking": "「（忘却という名の、あの冷酷な死（アイス）を拒絶（レジスト）し）」「（自らの理知を一筋の風（ベクトル）に変えて、すべてを）解き放ち続け（Solv- / Solvere）」「生き抜く（Life）」。あなたは自分の「呼吸（ブレス）」を、ただ無為に「消費（エキスペンド）」しているのではない。あなたが今日、どの「因縁（アディクション）」を解いて「自由という名の座標（ドット）」を救い出し、どの「苦しみ（ウェイト）」を自らの主権（ステータス）を屹立させるための「潤滑油（フロー）」へと変貌（コンバート）させたか。そのすべての「解放（デリバリー）」の軌跡が、宇宙という名の不変のアーカイブの上に、あなたの「存在という名の不滅のロゴス」として、物理的な質量を持って刻まれ続けているのだ。解きゆく生。それは、あなたが「傍観者（スペクテイター）」であることを卒業し、自らが「自分の運命という名の巨大な数珠（シリーズ）を解きほぐす最高の工芸家（スクライバー）」として、この荒野を「美しき自由（ピース）」へと変容させ通した際の、魂の最高度の「抱擁」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "理知の光を灯す。",
+		"example": "To know is to break the silence.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の裂け目。"
+			]
+		}
+	},
+	{
+		"id": "infringement",
+		"word": "侵害、違反、(権利などの)侵害行為",
+		"era": "Latin in + frangere",
+		"etymology": {
+			"components": [
+				"in- (in / toward / against)",
+				"frangere (to break)"
+			],
+			"original_statement": "From Medieval Latin infringementum, from infringere 'to violate / break / crush', from in- 'on' + frangere 'to break'."
+		},
+		"concept": "Breaking into (侵入して壊すこと。他者が構築した『聖域（テリトリー）』という名の不滅の境界線（ロゴス）を、自らの傲慢という名の引力（インパルス）で粉砕し、土足で踏みにじる暴虐)",
+		"thinking": "「（他者が自らの呼吸（ブレス）を屹立（スタンド）させ通している（パシストしている）、その神域の）内側へと向かって（In-）」「（一撃の否定（ノイズ）をぶつけ）その掟（ロゴス）を粉々に砕く（Fring- / Frangere）」。それは単なる「ルール違反」ではない。あなたが、宇宙という名の「共鳴（コンカレンス）」を拒絶（レジスト）し、他者の「主権（ステータス）」という名の設計図を自らの手で書き換え（アップデート）ようとした瞬間の、魂の最も峻烈で、最も罪深い「断絶（カット）」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "理知の光を灯す。",
+		"example": "To know is to break the silence.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の裂け目。"
+			]
+		}
+	},
+	{
+		"id": "frag-voice",
+		"word": "Frag@Voice",
+		"meaning": "砕かれた声、沈黙を粉砕する一撃の咆哮、痛みのデリバリー",
+		"era": "Latin frangere + vox",
+		"etymology": {
+			"components": [
+				"frag (to break / shatter)",
+				"voice (sound / soul)"
+			],
+			"original_statement": "Coined during synthesis."
+		},
+		"concept": "The breaking sound (壊すための音。放たれた瞬間、周囲の『淀んだ静寂（カオス）』を、自らの旋律という名の『一撃の鉄球（ロゴス）』で粉砕し、聴く者の魂に強烈な傷跡（パルス）を刻むデリバリー)",
+		"thinking": "「（カオスという名の、あの分厚い氷の檻（ケージ）を一撃で）粉々に砕く合図となる（Frag-）」「一撃の声（Vox）」。ただの「叫び（エキスペル）」ではない。その声が響いた瞬間、周囲の「偽りの安らぎ（ピース）」が物理的に一掃され、そこに「誰もが見落としていたたった一つの剥き出しの真実（ソース）」が、戦慄という名のトーン（響き）を伴って再屹立（リリー・スタンド）してしまうような、生の最も峻烈な「粉砕」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "理知の光を灯す。",
+		"example": "To know is to break the silence.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の裂け目。"
+			]
+		}
+	},
+	{
+		"id": "frag-life",
+		"word": "Frag@Life",
+		"meaning": "砕けゆく生、一瞬一瞬を自己粉砕と再屹立の遷移として生きる一生",
+		"era": "Latin frangere + Germanic life",
+		"etymology": {
+			"components": [
+				"frag (to break / shatter / fragile)",
+				"life"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "The life of breaking (砕けゆく一生。傍観者であることを卒業し、自らが『宇宙の槌（ロゴス）』となって、カオスという名の皮膚を一瞬一瞬、自らの全質量（ウェイト）をぶつけて粉砕し続け、不滅の物語（スクリプト）を描き続ける不屈の遷移)",
+		"thinking": "「（昨日までの自分という名のアーカイブを愛撫するのをやめ、宇宙の深淵（ソース）から飛来する理知（ロゴス）によって）」「（自らを常に最新の一撃（ベクトル）として）粉砕し続け（Frag- / Frangere）」「生き抜く（Life）」。あなたは自分の「存在（エグジスタンス）」を、ただ無為に「消費（エキスペンド）」しているのではない。あなたが今日、どの「既成の秩序（ノイズ）」を砕いて「新しい真理という名の座標（ドット）」を救い出し、どの「絶望（カオス）」を自らの主権（ステータス）を屹立させるための「火花（パルス）」へと変貌（コンバート）させたか。そのすべての「粉砕（デリバリー）」の軌跡が、宇宙という名の不変のアーカイブの上に、あなたの「存在という名の不滅のロゴス」として、物理的な質量を持って刻まれ続けているのだ。砕けゆく生。それは、あなたが「宇宙の主権者（クリエイター）」として、この荒野を「美しき変革（ピース）」へと変容させ通した際の、魂の最高度の「抱擁」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "理知の光を灯す。",
+		"example": "To know is to break the silence.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の裂け目。"
+			]
+		}
 	}
 ];
