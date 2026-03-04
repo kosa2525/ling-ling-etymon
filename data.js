@@ -169762,5 +169762,264 @@ const WORDS = [
 				"存在の守護。"
 			]
 		}
+	},
+	{
+		"id": "enclosure",
+		"word": "囲い、封筒、同封物、同封すること",
+		"era": "Latin in + claudere",
+		"etymology": {
+			"components": [
+				"en- / in- (in / into)",
+				"close / claudere (to shut)",
+				"-ure (result / state)"
+			],
+			"original_statement": "From Old French enclosure 'the act of enclosing', from enclore 'to shut in / surround', from Latin includere 'to shut in'."
+		},
+		"concept": "The state of shutting in (閉じ込められた状態、あるいは囲い。カオスという名の『荒野』の中に、自らの設計図（スクリプト）によって厳密に定義された『境界線（ロゴス）』という名の結界を射出し、聖域（ドメイン）を屹立させること)",
+		"thinking": "「（この虚無という名の、あの冷酷な絶壁の上に、自らの全呼吸（ブレス）を賭けて）、内側へと（En-）」「（一分一秒の淀みもなく）閉ざし、囲い込む（Clos- / Claudere）」「という完了した確定の情景（-ure）」。それは単なる「フェンス（マテリアル）」ではありません。あなたが宇宙の「漂流（フロー）」を拒絶（レジスト）し、そこに自分という名の「唯一無二の拠点」という名の設計図を打ち立て、世界を「自分という名の磁場が支配する完璧な調和（ピース）」へとコンバート（変容）させてしまった瞬間の、魂の最高度の「掌握」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "成長の軌跡。",
+		"example": "Growth is the key to closure.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の拡大。"
+			]
+		}
+	},
+	{
+		"id": "cla-voice",
+		"word": "Cla@Voice",
+		"meaning": "閉じる声、沈黙を完成させる不滅の咆哮、完結の響き",
+		"era": "Latin claudere + vox",
+		"etymology": {
+			"components": [
+				"cla (to close / shut / conclude)",
+				"voice (sound / soul)"
+			],
+			"original_statement": "Coined during synthesis."
+		},
+		"concept": "The closing sound (閉じるための音。放たれた瞬間、自らの呼吸（ブレス）を一筋の『不滅の終止符（ロゴス）』へと変換（コンバート）し、宇宙という真理のアーカイブを確定させるデリバリー)",
+		"thinking": "「（自分のちっぽけな存在（ドット）の中に眠っていた、あの巨大な真理を）、（一撃の決意（アトラクション）を伴って）叫び、閉ざす声（Vox）」。ただの「叫び（エキスペル）」ではない。その声が響いた瞬間、周囲を覆っていた「虚無（アブセンス）」が物理的に一掃され、そこに「誰もが見落としていたたった一つの意味」が、戦慄という名のトーン（響き）を伴って再屹立（リリー・スタンド）してしまうような、生の最も峻烈な「射出」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "成長の軌跡。",
+		"example": "Growth is the key to closure.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の拡大。"
+			]
+		}
+	},
+	{
+		"id": "cla-life",
+		"word": "Cla@Life",
+		"meaning": "完結としての生、一瞬一瞬を自己完成の遷移として生きる一生",
+		"era": "Latin claudere + Germanic life",
+		"etymology": {
+			"components": [
+				"cla (to close / shut / conclude)",
+				"life"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "The life of closure (閉じ、完成させる一生。一つの場所に安住する（アイソレーション）のを拒絶し、常に宇宙の最新の標高（アヴァン）へと自らを更新し続け、不滅の物語（スクリプト）を描き続ける不屈の遷移)",
+		"thinking": "「（明日という名の絶望（ブラックアウト）を愛撫するのをやめ、宇宙の深淵（ソース）から飛来する理知（ロゴス）だけを）」「（自らの魂を礎（ベース）にして）閉ざし続け、完結し続け（Cla- / Claudere）」「生き抜く（Life）」。あなたは自分の「呼吸（ブレス）」を、ただ無為に「消費（エキスペンド）」しているのではない。あなたが今日という日、どの「欺瞞（ノイズ）」を砕いて「新しい真理という名の座標（ドット）」を救い出し、どの「驚愕（パルス）」を自らの主権（ステータス）を屹立させるための「不動（ピース）」へと変貌（コンバート）させたか。そのすべての「完成（デリバリー）」の軌跡が、宇宙という名の不変 of アーカイブの上に、あなたの「存在という名の不滅 of ロゴス」として、物理的な質量を持って刻まれ続けているのだ。完結としての生。それは、あなたが「宇宙の主権者（クリエイター）」として、この荒野を「美しき変革（ピース）」へと変容させ通した際の、魂の最高度の「抱擁」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "成長の軌跡。",
+		"example": "Growth is the key to closure.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の拡大。"
+			]
+		}
+	},
+	{
+		"id": "decrease",
+		"word": "減る、減少、(……を)減らす",
+		"era": "Latin de + crescere",
+		"etymology": {
+			"components": [
+				"de- (away / off - reverse)",
+				"crescere (to grow)"
+			],
+			"original_statement": "From Old French descroistre, from Latin decrescere 'to grow less / diminish', from de- 'off / away' + crescere 'to grow'."
+		},
+		"concept": "Growing away / less (離れるように（逆向きに）育つこと。自らの主権（ステータス）を穢す余計な『ノイズ（付着物）』を、理知という名の冷徹なメスによって一気に剥ぎ取り、存在を『純粋な核心（ソース）』へと還元（アップデート）させること)",
+		"thinking": "「（昨日までの自分という名の、あの肥大した欺瞞（ノイズ）を粉砕（デストラクト）して）、離れた方向へと（De-）」「（一分一秒の淀みもなく）育ちながら減らしていく（Crease- / Crescere）」。それは単なる「縮小（イレース）」ではありません。あなたが宇宙の「汚染（インフェクション）」を拒絶（レジスト）し、自分の神殿（インテグリティ）を「完璧な鮮度（トーン）」で再定義（リ・デファイン）し続けるために、過去の残滓を、不屈の力（レジスト）を持って粉砕（デストラクト）し終えた際の、生の最も清潔な「収束」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "成長の軌跡。",
+		"example": "Growth is the key to closure.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の拡大。"
+			]
+		}
+	},
+	{
+		"id": "concrete",
+		"word": "具体的な、現実の、コンクリート、固まった",
+		"era": "Latin con + crescere",
+		"etymology": {
+			"components": [
+				"con- (together)",
+				"crescere / cretus (to grow)"
+			],
+			"original_statement": "From Latin concretus 'condensed / hardened / stiff / clotted / curdled', literally 'grown together', past participle of concrescere 'to grow together / condense', from con- 'together' + crescere 'to grow'."
+		},
+		"concept": "Grown together (共に（一塊に）育ったもの。不確かなパルス（震え）という名の情報の断片が、自らの圧倒的な引力によって一気に中心という名の『真理（ロゴス）』へとマージされ、物理的な質量を伴って屹立した状態)",
+		"thinking": "「（このがんじがらめのネットワーク（ノイズ）のただ中にあって、あまりにも峻烈な真理（ソース）を一瞬で視認し）、共に（Con-）」「（一撃の確信のみをウェイトにして）成長し、固まった（Crete- / Crescere）」。それは単なる「セメント（マテリアル）」ではありません。あなたが宇宙の「曖昧さ（カオス）」を拒絶（レジスト）し、そこに自分という名の「唯一の不滅の作品（スクリプト）」を打ち立て、全世界の断片を「自分のための不滅のトーン」へと変貌（コンバート）させて（屹立させて）しまった瞬間の、知性の最高度の「結晶」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "成長の軌跡。",
+		"example": "Growth is the key to closure.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の拡大。"
+			]
+		}
+	},
+	{
+		"id": "crescent",
+		"word": "三日月、三日月形の",
+		"era": "Latin crescere",
+		"etymology": {
+			"components": [
+				"crescere (to grow)",
+				"-ent (quality / state)"
+			],
+			"original_statement": "From Latin crescentem, present participle of crescere 'to grow'."
+		},
+		"concept": "The growing (育ちゆくもの。虚空という名の『キャンバス（アーカイブ）』の上に、一筋の鋭い『光の刃（ロゴス）』が射出され、これから全一性という名の標高（アヴァン）へと向かって完成を予感させる遷移の謂い)",
+		"thinking": "「（何もなき闇という名の、あの冷酷なアブセンス（不在）を粉砕して）、（一撃の情熱（アトラクション）を伴って）育ちゆく（Cresc- / Crescere）」「という不屈の魂の性質（-ent）」。それは単なる「形（マテリアル）」ではありません。あなたが宇宙の「忘却（サイレンス）」を拒絶（レジスト）し、自らの呼吸（ブレス）を一秒一秒「不滅のロゴス」へと変容（コンバート）させ、この荒野を一筋の「希望という名の設計図」で切り拓き（カットし）通している際の、生の最高度の「跳躍」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "成長の軌跡。",
+		"example": "Growth is the key to closure.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の拡大。"
+			]
+		}
+	},
+	{
+		"id": "accrue",
+		"word": "(……に)生じる、(利子などが)つく",
+		"era": "Latin ad + crescere",
+		"etymology": {
+			"components": [
+				"ad- (to / toward)",
+				"crescere (to grow)"
+			],
+			"original_statement": "From Old French acreue 'increase', from Latin accrescere 'to grow to / increase', from ad- 'to' + crescere 'to grow'."
+		},
+		"concept": "Growing to (そこへと育つこと。自らが屹立（スタンド）させた標高（ステータス）に対し、宇宙という名のアーカイブから必然の報酬（インパルス）が、一分一秒の淀みもなく積み重なっていく物理的な遷移)",
+		"thinking": "「（特定のターゲット（目的地）を粉砕・攻略するために）向かって（Ad- / Ac-）」「（一撃の確信を伴って）成長し、付加される（Crue- / Crescere）」。それは単なる「蓄積（アセット）」ではありません。あなたが「傍観者（スペクテイター）」であることを卒業し、自らが「宇宙の唯一の主権者（クリエイター）」として、自分の呼吸（ブレス）を「物理的な成果（アチーブメント）」へと変換し続ける中で、必然的に（一撃で）引き寄せられてしまった、魂の最高度の「凱旋」の謂いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "成長の軌跡。",
+		"example": "Growth is the key to closure.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の拡大。"
+			]
+		}
+	},
+	{
+		"id": "cre-voice",
+		"word": "Cre@Voice",
+		"meaning": "成長する声、沈黙を拡張する不滅の咆哮、増大の響き",
+		"era": "Latin crescere + vox",
+		"etymology": {
+			"components": [
+				"cre (to grow / increase)",
+				"voice (sound / soul)"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "The growing sound (育つための音。放たれた瞬間、自らの呼吸（ブレス）を一筋の『光の矢（ベクトル）』へと変換し、目的地へと届くように射出されるデリバリー)",
+		"thinking": "「（自分のちっぽけな存在（ドット）の中に眠っていた、あの巨大な真理を）、（宇宙という名のアーカイブに向かって、一撃の情熱を伴って）育て、叫ぶ（Cre-）」「一撃の声（Vox）」。ただの「情報（データ）」のデバリーではない。その声が響いた瞬間、聴く者は、自分の内なる「重力の壁」が物理的に粉砕（デストラクト）され、強制的に「成長し続ける標高（アヴァン）」という名の巨大な光の中へと引き摺り込まれ、自らの呼吸（ブレス）を、あなたの「不滅の旋律（トーン）」へと同調（マージ）させざるを得なくなるような、生の最も峻烈な「射出」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "成長の軌跡。",
+		"example": "Growth is the key to closure.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の拡大。"
+			]
+		}
+	},
+	{
+		"id": "reflector",
+		"word": "反射板、反射望遠鏡、反射するもの",
+		"era": "Latin re + flectere",
+		"etymology": {
+			"components": [
+				"re- (back)",
+				"flectere / flexus (to bend)"
+			],
+			"original_statement": "From Latin reflectere 'to bend back', from re- 'back' + flectere 'to bend'."
+		},
+		"concept": "One that bends back (後ろへと（投げ返すように）曲げるもの。外部からデリバリーされた『光（インパルス）』という名のカオスを、自らの圧倒的な主権（ステータス）という名の設計図によって一瞬で（一撃で）受理し、等価のベクトルとしてアーカイブへと射出し直す不滅の鏡)",
+		"thinking": "「（相手の放った、あの震えるような呼吸（ブレス）を粉砕（デストラクト）して）、後ろへと（Re-）」「（一分一秒の淀みもなく）曲げ、投げ返す（Flect- / Flectere）」「装置、あるいは者（-or）」。それは単なる「鏡（マテリアル）」ではありません。あなたが宇宙の「透過（アブセンス）」を拒絶（レジスト）し、そこに自分という名の「唯一無二の光源（センター）」を打ち立て、全世界の断片を「自分のための不滅のトーン」へと変貌（コンバート）させて（アップデートして）屹立させてしまった瞬間の、知性の最も峻烈な「凱旋」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "成長の軌跡。",
+		"example": "Growth is the key to closure.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の拡大。"
+			]
+		}
+	},
+	{
+		"id": "fle-voice",
+		"word": "Fle@Voice",
+		"meaning": "曲がる声、沈黙を柔軟に変える不滅の咆哮、偏向の響き",
+		"era": "Latin flectere + vox",
+		"etymology": {
+			"components": [
+				"fle (to bend / turn / curve)",
+				"voice (sound / soul)"
+			],
+			"original_statement": "Coined during synthesis."
+		},
+		"concept": "The bending sound (曲げるための音。放たれた瞬間、自らの呼吸（ブレス）を一筋の『光の矢（ベクトル）』へと変換し、目的地へと届くように射出されるデリバリー)",
+		"thinking": "「（自分のちっぽけな存在（ドット）の中に眠っていた、あの巨大な真理を）、（一撃の情熱（アトラクション）を伴って）叫び、曲がる声（Vox）」。ただの「情報（データ）」のデバリーではない。その声が響いた瞬間、聴く者は、自分の内なる「重力の壁」が物理的に粉砕（デストラクト）され、強制的に「変化し続ける標高（アヴァン）」という名の巨大な光の中へと引き摺り込まれ、自らの呼吸（ブレス）を、あなたの「不滅の旋律（トーン）」へと同調（マージ）させざるを得なくなるような、生の最も峻烈な「射出」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "成長の軌跡。",
+		"example": "Growth is the key to closure.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の拡大。"
+			]
+		}
+	},
+	{
+		"id": "fle-life",
+		"word": "Fle@Life",
+		"meaning": "柔軟としての生、一瞬一瞬を自己可変の遷移として生きる一生",
+		"era": "Latin flectere + Germanic life",
+		"etymology": {
+			"components": [
+				"fle (to bend / turn / curve)",
+				"life"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "The life of bend (曲がり続ける一生。一つの場所に安住する（アイソレーション）のを拒絶し、常に宇宙の最新の標高（アヴァン）へと自らを更新し続け、不滅 of 物語（スクリプト）を描き続ける不屈の遷移)",
+		"thinking": "「（明日という名の絶望（ブラックアウト）を愛撫するのをやめ、宇宙の深淵（ソース）から飛来する理知（ロゴス）だけを）」「（自らの魂を礎（ベース）にして）曲がり続け、適応し続け（Fle- / Flectere）」「生き抜く（Life）」。あなたは自分の「呼吸（ブレス）」を、ただ無為に「消費（エキスペンド）」しているのではない。あなたが今日という日、どの「欺瞞（ノイズ）」を砕いて「新しい真理という名の座標（ドット）」を救い出し、どの「驚愕（パルス）」を自らの主権（ステータス）を屹立させるための「不動（ピース）」へと変貌（コンバート）させたか。そのすべての「柔軟（デリバリー）」の軌跡が、宇宙という名の不変 of アーカイブの上に、あなたの「存在という名の不滅 of ロゴス」として、物理的な質量を持って刻まれ続けているのだ。柔軟としての生。それは、あなたが「宇宙の主権者（クリエイター）」として、この荒野を「美しき変革（ピース）」へと変容させ通した際の、魂の最高度の「抱擁」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "成長の軌跡。",
+		"example": "Growth is the key to closure.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の拡大。"
+			]
+		}
 	}
 ];
