@@ -2075,12 +2075,17 @@ window.drawMapRoute = function (rootKey) {
 const SYNTH_PIECES = {
     prefixes: [
         { id: 'pre-ab', text: 'ab-', meaning: 'away (離れて)', color: '#22c55e' },
-        { id: 'pre-com', text: 'com-', meaning: 'together (共に)', color: '#22c55e' },
+        { id: 'pre-com', text: 'com- / con-', meaning: 'together (共に)', color: '#22c55e' },
         { id: 'pre-re', text: 're-', meaning: 'back, again (後ろに、再び)', color: '#22c55e' },
         { id: 'pre-in', text: 'in-', meaning: 'into / not (中に、否定)', color: '#22c55e' },
         { id: 'pre-ex', text: 'ex-', meaning: 'out (外に)', color: '#22c55e' },
         { id: 'pre-ad', text: 'ad-', meaning: 'to, toward (〜へ、向かって)', color: '#22c55e' },
-        { id: 'pre-pro', text: 'pro-', meaning: 'forward (前へ)', color: '#22c55e' }
+        { id: 'pre-pro', text: 'pro-', meaning: 'forward (前へ)', color: '#22c55e' },
+        { id: 'pre-sub', text: 'sub-', meaning: 'under (下に)', color: '#22c55e' },
+        { id: 'pre-trans', text: 'trans-', meaning: 'across (越えて)', color: '#22c55e' },
+        { id: 'pre-dis', text: 'dis-', meaning: 'apart / not (離れて、否定)', color: '#22c55e' },
+        { id: 'pre-per', text: 'per-', meaning: 'through (越えて、完全に)', color: '#22c55e' },
+        { id: 'pre-de', text: 'de-', meaning: 'down / away (下に、離れて)', color: '#22c55e' }
     ],
     roots: [
         { id: 'root-duc', text: 'duc / duct', meaning: 'to lead (導く)', color: 'var(--color-premium)' },
@@ -2090,14 +2095,43 @@ const SYNTH_PIECES = {
         { id: 'root-mit', text: 'mit / miss', meaning: 'to send (送る)', color: 'var(--color-premium)' },
         { id: 'root-gen', text: 'gen', meaning: 'to birth, produce (生む)', color: 'var(--color-premium)' },
         { id: 'root-cap', text: 'cap / capt', meaning: 'to take, hold (掴む)', color: 'var(--color-premium)' },
-        { id: 'root-port', text: 'port', meaning: 'to carry (運ぶ)', color: 'var(--color-premium)' }
+        { id: 'root-port', text: 'port', meaning: 'to carry (運ぶ)', color: 'var(--color-premium)' },
+        { id: 'root-fac', text: 'fac / fic', meaning: 'to make (作る)', color: 'var(--color-premium)' },
+        { id: 'root-scrib', text: 'scrib / script', meaning: 'to write (書く)', color: 'var(--color-premium)' },
+        { id: 'root-ced', text: 'ced / cess', meaning: 'to go (行く)', color: 'var(--color-premium)' },
+        { id: 'root-ven', text: 'ven / vent', meaning: 'to come (来る)', color: 'var(--color-premium)' },
+        { id: 'root-pon', text: 'pon / posit', meaning: 'to put / place (置く)', color: 'var(--color-premium)' },
+        { id: 'root-fer', text: 'fer', meaning: 'to carry / bear (運ぶ、産む)', color: 'var(--color-premium)' },
+        { id: 'root-vis', text: 'vid / vis', meaning: 'to see (見る)', color: 'var(--color-premium)' },
+        { id: 'root-voc', text: 'voc / vok', meaning: 'to call (呼ぶ)', color: 'var(--color-premium)' },
+        { id: 'root-anthrop', text: 'anthrop', meaning: 'human (人間)', color: 'var(--color-premium)' },
+        { id: 'root-bio', text: 'bio', meaning: 'life (生命)', color: 'var(--color-premium)' },
+        { id: 'root-chron', text: 'chron', meaning: 'time (時間)', color: 'var(--color-premium)' },
+        { id: 'root-morph', text: 'morph', meaning: 'form (形)', color: 'var(--color-premium)' },
+        { id: 'root-path', text: 'path', meaning: 'feeling (感情)', color: 'var(--color-premium)' },
+        { id: 'root-phil', text: 'phil', meaning: 'love (愛)', color: 'var(--color-premium)' },
+        { id: 'root-phob', text: 'phob', meaning: 'fear (恐怖)', color: 'var(--color-premium)' },
+        { id: 'root-poly', text: 'poly', meaning: 'many (多く)', color: 'var(--color-premium)' },
+        { id: 'root-mono', text: 'mono', meaning: 'one (一つ)', color: 'var(--color-premium)' },
+        { id: 'root-auto', text: 'auto', meaning: 'self (自己)', color: 'var(--color-premium)' }
     ],
     suffixes: [
         { id: 'suf-ion', text: '-ion', meaning: 'act or state (こと、状態)', color: '#ef4444' },
         { id: 'suf-able', text: '-able', meaning: 'capable of (できる)', color: '#ef4444' },
         { id: 'suf-or', text: '-or', meaning: 'one who does (する人)', color: '#ef4444' },
         { id: 'suf-ive', text: '-ive', meaning: 'tending to (〜の性質の)', color: '#ef4444' },
-        { id: 'suf-al', text: '-al', meaning: 'relating to (〜に関する)', color: '#ef4444' }
+        { id: 'suf-al', text: '-al', meaning: 'relating to (〜に関する)', color: '#ef4444' },
+        { id: 'suf-ous', text: '-ous', meaning: 'full of (〜に満ちた)', color: '#ef4444' },
+        { id: 'suf-ment', text: '-ment', meaning: 'action or result (行為、結果)', color: '#ef4444' },
+        { id: 'suf-ate', text: '-ate', meaning: 'to cause or be (〜にする)', color: '#ef4444' },
+        { id: 'suf-ence', text: '-ence / -ance', meaning: 'state or quality (状態、性質)', color: '#ef4444' },
+        { id: 'suf-logy', text: '-logy', meaning: 'study of (学問)', color: '#ef4444' },
+        { id: 'suf-phobia', text: '-phobia', meaning: 'fear of (恐怖)', color: '#ef4444' },
+        { id: 'suf-philia', text: '-philia', meaning: 'love of (愛)', color: '#ef4444' },
+        { id: 'suf-ism', text: '-ism', meaning: 'belief / practice (主義、慣行)', color: '#ef4444' },
+        { id: 'suf-ist', text: '-ist', meaning: 'one who does (〜する人)', color: '#ef4444' },
+        { id: 'suf-ize', text: '-ize', meaning: 'to make (〜化する)', color: '#ef4444' },
+        { id: 'suf-ic', text: '-ic', meaning: 'relating to (〜に関する)', color: '#ef4444' }
     ]
 };
 
@@ -2141,12 +2175,8 @@ function renderSynthesizer() {
                 </div>
                 
                 <!-- Alchemy Table -->
-                <div style="flex:1.5 1 500px; display:flex; flex-direction:column; align-items:center; position:relative; margin-top:100px;">
+                <div style="flex:1.5 1 500px; display:flex; flex-direction:column; align-items:center; position:relative;">
                     
-                    <div class="synth-icon-container">
-                        <canvas id="concept-icon-canvas" width="200" height="200"></canvas>
-                    </div>
-
                     <div style="background:var(--color-surface); padding:3rem 1.5rem; border-radius:24px; border:1px solid var(--color-border); box-shadow: 0 12px 40px rgba(0,0,0,0.5); width:100%; display:flex; justify-content:center; align-items:center; gap:1.5%; background-image: radial-gradient(circle at center, rgba(245,158,11,0.08) 0%, transparent 60%);">
                         
                         <div class="drop-zone" data-type="prefix" style="width:23%; aspect-ratio:1/1; max-height:130px; border:2px dashed #22c55e; border-radius:16px; display:flex; flex-direction:column; align-items:center; justify-content:center; transition:all 0.3s; position:relative; background:rgba(34,197,94,0.05);">
@@ -2184,10 +2214,7 @@ function renderSynthesizer() {
         </div>
         `;
 
-    setTimeout(() => {
-        setupDragAndDrop();
-        updateConceptIcon();
-    }, 100);
+    setTimeout(setupDragAndDrop, 100);
 }
 
 function setupDragAndDrop() {
@@ -2235,8 +2262,6 @@ function setupDragAndDrop() {
                         <button onclick="clearSynthSlot('${data.type}', ${slot || 'null'})" style="position:absolute; top:5px; right:5px; background:none; border:none; color:rgba(255,255,255,0.5); cursor:pointer;">✕</button>
                     `;
                     z.style.borderStyle = 'solid';
-                    z.classList.add('active-icon');
-                    updateConceptIcon();
                 } else {
                     showToast('Incorrect piece type for this slot.');
                 }
@@ -2258,8 +2283,6 @@ window.clearSynthSlot = function (type, slot) {
 
     z.innerHTML = `<span style="opacity:0.4; font-size:0.8rem; text-align:center;">${label}</span>`;
     z.style.borderStyle = 'dashed';
-    z.classList.remove('active-icon');
-    updateConceptIcon();
 };
 
 window.executeSynthesis = function () {
@@ -2367,80 +2390,6 @@ function playSynthFx() {
             }
         });
         if (alive) requestAnimationFrame(animate);
-        else ctx.clearRect(0, 0, canvas.width, canvas.height);
     }
     animate();
-}
-
-/** 
- * Concept Iconography Implementation 
- **/
-function updateConceptIcon() {
-    const canvas = document.getElementById('concept-icon-canvas');
-    if (!canvas) return;
-    const ctx = canvas.getContext('2d');
-    const s = window.synthState;
-    const cx = 100, cy = 100;
-
-    ctx.clearRect(0, 0, canvas.width, canvas.height);
-
-    // Draw Suffix Frame if exists
-    if (s.suffix) drawIconPart(ctx, cx, cy, s.suffix.id, 'suffix');
-
-    // Draw Root(s) in center
-    if (s.root1) drawIconPart(ctx, cx, cy, s.root1.id, 'root');
-    if (s.root2) drawIconPart(ctx, cx, cy, s.root2.id, 'root');
-
-    // Draw Prefix symbol
-    if (s.prefix) drawIconPart(ctx, cx, cy, s.prefix.id, 'prefix');
-
-    // Idle pulse if empty
-    if (!s.prefix && !s.root1 && !s.root2 && !s.suffix) {
-        ctx.strokeStyle = 'rgba(255,255,255,0.1)';
-        ctx.setLineDash([5, 5]);
-        ctx.beginPath(); ctx.arc(cx, cy, 40, 0, Math.PI * 2); ctx.stroke();
-        ctx.setLineDash([]);
-    }
-}
-
-function drawIconPart(ctx, cx, cy, id, type) {
-    ctx.lineWidth = 2.5;
-    ctx.lineCap = 'round';
-    ctx.lineJoin = 'round';
-
-    // Use part colors
-    if (type === 'prefix') ctx.strokeStyle = '#22c55e';
-    else if (type === 'root') ctx.strokeStyle = resolveColor('var(--color-premium)');
-    else if (type === 'suffix') ctx.strokeStyle = '#ef4444';
-
-    ctx.beginPath();
-
-    const icons = {
-        'pre-ab': () => { ctx.arc(cx - 30, cy - 30, 20, 0, Math.PI * 2); },
-        'pre-com': () => { for (let i = 0; i < 4; i++) { ctx.moveTo(cx + Math.cos(i * 1.5) * 50, cy + Math.sin(i * 1.5) * 50); ctx.lineTo(cx, cy); } },
-        'pre-re': () => { ctx.arc(cx, cy, 50, 0.5, 5.8); ctx.moveTo(cx + 45, cy + 8); ctx.lineTo(cx + 50, cy - 5); ctx.lineTo(cx + 35, cy - 5); },
-        'pre-in': () => { ctx.moveTo(cx, cy - 70); ctx.lineTo(cx - 15, cy - 40); ctx.lineTo(cx + 15, cy - 40); ctx.closePath(); },
-        'pre-ex': () => { ctx.moveTo(cx, cy - 40); ctx.lineTo(cx - 15, cy - 70); ctx.lineTo(cx + 15, cy - 70); ctx.closePath(); },
-        'pre-ad': () => { ctx.moveTo(cx, cy - 80); ctx.lineTo(cx, cy - 40); ctx.lineTo(cx - 10, cy - 55); ctx.moveTo(cx, cy - 40); ctx.lineTo(cx + 10, cy - 55); },
-        'pre-pro': () => { ctx.moveTo(cx - 80, cy); ctx.lineTo(cx - 40, cy); ctx.lineTo(cx - 55, cy - 10); ctx.moveTo(cx - 40, cy); ctx.lineTo(cx - 55, cy + 10); },
-
-        'root-duc': () => { ctx.moveTo(cx - 25, cy + 25); ctx.lineTo(cx + 25, cy - 25); ctx.moveTo(cx + 15, cy - 25); ctx.lineTo(cx + 25, cy - 25); ctx.lineTo(cx + 25, cy - 15); },
-        'root-tract': () => { ctx.moveTo(cx - 20, cy - 30); ctx.lineTo(cx - 20, cy + 10); ctx.arc(cx, cy + 10, 20, Math.PI, 0, true); },
-        'root-spect': () => { ctx.ellipse(cx, cy, 35, 20, 0, 0, Math.PI * 2); ctx.moveTo(cx + 10, cy); ctx.arc(cx, cy, 10, 0, Math.PI * 2); },
-        'root-ject': () => { ctx.moveTo(cx - 40, cy + 20); ctx.quadraticCurveTo(cx, cy - 60, cx + 40, cy + 20); },
-        'root-mit': () => { ctx.arc(cx, cy, 5, 0, Math.PI * 2); ctx.moveTo(cx, cy); ctx.lineTo(cx + 40, cy); ctx.moveTo(cx, cy); ctx.lineTo(cx - 30, cy + 30); ctx.moveTo(cx, cy); ctx.lineTo(cx - 30, cy - 30); },
-        'root-gen': () => { for (let i = 0; i < 30; i++) { let r = i * 1.5; ctx.lineTo(cx + Math.cos(i * 0.5) * r, cy + Math.sin(i * 0.5) * r); } },
-        'root-cap': () => { ctx.rect(cx - 25, cy - 25, 50, 50); },
-        'root-port': () => { ctx.moveTo(cx - 40, cy + 10); ctx.lineTo(cx + 40, cy + 10); ctx.rect(cx - 20, cy - 15, 40, 25); },
-
-        'suf-ion': () => { ctx.arc(cx, cy, 85, 0, Math.PI * 2); ctx.setLineDash([10, 5]); },
-        'suf-able': () => { for (let i = 0; i < 6; i++) { ctx.lineTo(cx + Math.cos(i * Math.PI * 2 / 6) * 90, cy + Math.sin(i * Math.PI * 2 / 6) * 90); } ctx.closePath(); },
-        'suf-or': () => { ctx.moveTo(cx - 95, cy - 20); ctx.lineTo(cx - 95, cy + 20); ctx.moveTo(cx + 95, cy - 20); ctx.lineTo(cx + 95, cy + 20); },
-        'suf-ive': () => { ctx.moveTo(cx - 85, cy - 85); ctx.lineTo(cx + 85, cy + 85); ctx.moveTo(cx + 85, cy - 85); ctx.lineTo(cx - 85, cy + 85); },
-        'suf-al': () => { ctx.arc(cx, cy, 90, 0, Math.PI * 2); ctx.moveTo(cx, cy); ctx.arc(cx, cy, 95, 0, Math.PI * 2); }
-    };
-
-    if (icons[id]) icons[id]();
-    ctx.stroke();
-    ctx.setLineDash([]); // Reset dash
 }

@@ -14624,7 +14624,8 @@ const WORDS = [
 		"word": "Baffle",
 		"part_of_speech": "verb",
 		"meaning": "困惑させる、妨げる",
-		"core": "期待や論理を裏切る障害によって、理解や進行を完全にストップさせること"
+		"core": "期待や論理を裏切る障害によって、理解や進行を完全にストップさせること",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "bag",
@@ -14729,7 +14730,8 @@ const WORDS = [
 		"word": "Baleful",
 		"part_of_speech": "adjective",
 		"meaning": "不吉な、悪意に満ちた",
-		"core": "災い（bale）を予感させ、見た者に破壊的な恐怖を抱かせるような様子"
+		"core": "災い（bale）を予感させ、見た者に破壊的な恐怖を抱かせるような様子",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "ballad",
@@ -15223,7 +15225,8 @@ const WORDS = [
 		"word": "Bashful",
 		"part_of_speech": "adjective",
 		"meaning": "恥ずかしがりの、内気な",
-		"core": "他者の視線に圧倒され（abash）、自分を小さな殻の中に閉じ込めてしまおうとする様子"
+		"core": "他者の視線に圧倒され（abash）、自分を小さな殻の中に閉じ込めてしまおうとする様子",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "bathos",
@@ -15365,7 +15368,8 @@ const WORDS = [
 		"word": "Beckon",
 		"part_of_speech": "verb",
 		"meaning": "手招きする、誘う",
-		"core": "言葉を使わず、身振りや魅力で相手をこちら側へと引き寄せる静かな呼びかけ"
+		"core": "言葉を使わず、身振りや魅力で相手をこちら側へと引き寄せる静かな呼びかけ",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "bedlam",
@@ -15576,14 +15580,16 @@ const WORDS = [
 		"word": "Beguile",
 		"part_of_speech": "verb",
 		"meaning": "欺く、魅了する",
-		"core": "巧妙な魅力や嘘（guile）を用いて、相手の正気を失わせ、自分の意のままに操ること"
+		"core": "巧妙な魅力や嘘（guile）を用いて、相手の正気を失わせ、自分の意のままに操ること",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "behold",
 		"word": "Behold",
 		"part_of_speech": "verb",
 		"meaning": "注視する、見守る",
-		"core": "単に「見る」のではなく、その存在の重みをしっかりと意識に繋ぎ止める（hold）ように見つめること"
+		"core": "単に「見る」のではなく、その存在の重みをしっかりと意識に繋ぎ止める（hold）ように見つめること",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "belated",
@@ -15688,7 +15694,8 @@ const WORDS = [
 		"word": "Belie",
 		"part_of_speech": "verb",
 		"meaning": "矛盾する、裏切る",
-		"core": "外見や言動が、その背後にある真実や本質と全く食い違っている状態"
+		"core": "外見や言動が、その背後にある真実や本質と全く食い違っている状態",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "believe",
@@ -15744,14 +15751,16 @@ const WORDS = [
 		"word": "Belittle",
 		"part_of_speech": "verb",
 		"meaning": "軽んじる、過小評価する",
-		"core": "価値のあるものを、意図的に「小さく（little）」見せかけることで、その重要性を貶めること"
+		"core": "価値のあるものを、意図的に「小さく（little）」見せかけることで、その重要性を貶めること",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "bellicose",
 		"word": "Bellicose",
 		"part_of_speech": "adjective",
 		"meaning": "好戦的な",
-		"core": "理性よりも闘争本能が勝ち、常に衝突のきっかけを探しているような攻撃性"
+		"core": "理性よりも闘争本能が勝ち、常に衝突のきっかけを探しているような攻撃性",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "belligerent",
@@ -15999,21 +16008,24 @@ const WORDS = [
 		"word": "Bequeath",
 		"part_of_speech": "verb",
 		"meaning": "遺贈する、残す",
-		"core": "死に際して、自分の所有物や意志を言葉（queth）にして次世代へと手渡すこと"
+		"core": "死に際して、自分の所有物や意志を言葉（queth）にして次世代へと手渡すこと",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "berate",
 		"word": "Berate",
 		"part_of_speech": "verb",
 		"meaning": "厳しく叱り飛ばす",
-		"core": "相手を圧倒するほどの激しい言葉で、その過ちや無能さを徹底的に責め立てること"
+		"core": "相手を圧倒するほどの激しい言葉で、その過ちや無能さを徹底的に責め立てること",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "bereave",
 		"word": "Bereave",
 		"part_of_speech": "verb",
 		"meaning": "奪う、先立たれる",
-		"core": "死などによって、大切な人を強引に（rob）奪い去られ、心に大きな穴が開いた状態にすること"
+		"core": "死などによって、大切な人を強引に（rob）奪い去られ、心に大きな穴が開いた状態にすること",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "berserk",
@@ -16066,7 +16078,8 @@ const WORDS = [
 		"word": "Beseech",
 		"part_of_speech": "verb",
 		"meaning": "嘆願する、切に願う",
-		"core": "プライドを捨て、必死に（seek）相手の慈悲を求める、魂の叫びに近い願い"
+		"core": "プライドを捨て、必死に（seek）相手の慈悲を求める、魂の叫びに近い願い",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "bespoke",
@@ -16123,7 +16136,8 @@ const WORDS = [
 		"word": "Bestow",
 		"part_of_speech": "verb",
 		"meaning": "授ける、贈る",
-		"core": "ふさわしい場所（stow）に置くように、敬意を持って大切なものを他者に与えること"
+		"core": "ふさわしい場所（stow）に置くように、敬意を持って大切なものを他者に与えること",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "betray",
@@ -16278,7 +16292,8 @@ const WORDS = [
 		"word": "Bias",
 		"part_of_speech": "noun",
 		"meaning": "偏見、傾向",
-		"core": "公平な中心から斜めに（bias）逸れ、特定の方向へと思考が傾いている状態"
+		"core": "公平な中心から斜めに（bias）逸れ、特定の方向へと思考が傾いている状態",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "biblio-",
@@ -16727,14 +16742,16 @@ const WORDS = [
 		"word": "Bizarre",
 		"part_of_speech": "adjective",
 		"meaning": "風変わりな、奇怪な",
-		"core": "常識の枠を大きく踏み出し、説明がつかないほど不気味で奇妙な様子"
+		"core": "常識の枠を大きく踏み出し、説明がつかないほど不気味で奇妙な様子",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "bland",
 		"word": "Bland",
 		"part_of_speech": "adjective",
 		"meaning": "味気ない、穏やかな",
-		"core": "刺激や特徴が一切なく、滑らかすぎて記憶に残らないほど平坦な様子"
+		"core": "刺激や特徴が一切なく、滑らかすぎて記憶に残らないほど平坦な様子",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "blasphemy",
@@ -16878,7 +16895,8 @@ const WORDS = [
 		"word": "Blemish",
 		"part_of_speech": "noun/verb",
 		"meaning": "傷、欠点",
-		"core": "完璧な美しさの中に生じた、色を濁らせ（pale）価値を損なう小さな汚れ"
+		"core": "完璧な美しさの中に生じた、色を濁らせ（pale）価値を損なう小さな汚れ",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "blink",
@@ -16931,7 +16949,8 @@ const WORDS = [
 		"word": "Bliss",
 		"part_of_speech": "noun",
 		"meaning": "至福、無上の喜び",
-		"core": "何の迷いも苦しみもなく、ただ存在することそのものが喜びに満ちた究極の精神状態"
+		"core": "何の迷いも苦しみもなく、ただ存在することそのものが喜びに満ちた究極の精神状態",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "blithe",
@@ -16983,7 +17002,8 @@ const WORDS = [
 		"word": "Blunder",
 		"part_of_speech": "noun/verb",
 		"meaning": "大失敗、うっかりミス",
-		"core": "盲目（blind）になったかのように、初歩的で致命的な間違いを犯してしまうこと"
+		"core": "盲目（blind）になったかのように、初歩的で致命的な間違いを犯してしまうこと",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "boggle",
@@ -18644,7 +18664,8 @@ const WORDS = [
 		"word": "Calamity",
 		"part_of_speech": "noun",
 		"meaning": "大惨事、不幸",
-		"core": "平穏な日常を一瞬で破壊し、深い悲しみをもたらす予測不能な災厄"
+		"core": "平穏な日常を一瞬で破壊し、深い悲しみをもたらす予測不能な災厄",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "calculate",
@@ -18809,7 +18830,8 @@ const WORDS = [
 		"word": "Callous",
 		"part_of_speech": "adjective",
 		"meaning": "冷淡な、無情な",
-		"core": "皮膚がタコのように硬くなる（callus）ように、他者の痛みに反応しなくなった感情の麻痺"
+		"core": "皮膚がタコのように硬くなる（callus）ように、他者の痛みに反応しなくなった感情の麻痺",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "callow",
@@ -19039,7 +19061,8 @@ const WORDS = [
 		"word": "Candor",
 		"part_of_speech": "noun",
 		"meaning": "率直、公平",
-		"core": "光が輝く（candere）ように、包み隠さず真実を語る潔さと純粋さ"
+		"core": "光が輝く（candere）ように、包み隠さず真実を語る潔さと純粋さ",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "capable",
@@ -19102,7 +19125,8 @@ const WORDS = [
 		"word": "Capitulate",
 		"part_of_speech": "verb",
 		"meaning": "降伏する",
-		"core": "条件を項目（chapter）ごとに整理し、抵抗を止めて相手の軍門に降ること"
+		"core": "条件を項目（chapter）ごとに整理し、抵抗を止めて相手の軍門に降ること",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "cappuccino",
@@ -20108,7 +20132,8 @@ const WORDS = [
 		"word": "Catalyst",
 		"part_of_speech": "noun",
 		"meaning": "触媒、きっかけ",
-		"core": "それ自体は変化せず、周囲に劇的な反応や変化を引き起こす引き金"
+		"core": "それ自体は変化せず、周囲に劇的な反応や変化を引き起こす引き金",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "catastrophe",
@@ -20883,7 +20908,8 @@ const WORDS = [
 			"source": "Oxford English Dictionary",
 			"date": "2026-03-01",
 			"era": "1st Century BCE, Latin origin"
-		}
+		},
+		"era": "Latin"
 	},
 	{
 		"id": "cenotaph",
@@ -20946,7 +20972,8 @@ const WORDS = [
 		"word": "Censure",
 		"part_of_speech": "verb/noun",
 		"meaning": "非難（する）",
-		"core": "公的な立場から、誰かの行動を不適切として厳しく咎め、審判を下すこと"
+		"core": "公的な立場から、誰かの行動を不適切として厳しく咎め、審判を下すこと",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "cereal",
@@ -20999,7 +21026,8 @@ const WORDS = [
 		"word": "Cerebral",
 		"part_of_speech": "adjective",
 		"meaning": "脳の、知的な",
-		"core": "感情や肉体性よりも、論理や思考といった「頭脳」の領域を重視する冷徹な態度"
+		"core": "感情や肉体性よりも、論理や思考といった「頭脳」の領域を重視する冷徹な態度",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "certainty",
@@ -21222,14 +21250,16 @@ const WORDS = [
 		"word": "Chagrin",
 		"part_of_speech": "noun",
 		"meaning": "悔しさ、無念",
-		"core": "自分の失敗や不手際によって自尊心が傷つき、悶々とするような苦々しい感情"
+		"core": "自分の失敗や不手際によって自尊心が傷つき、悶々とするような苦々しい感情",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "chaos",
 		"word": "Chaos",
 		"part_of_speech": "noun",
 		"meaning": "混沌、無秩序",
-		"core": "あらゆる秩序が崩壊し、意味や予測が成り立たない真っ暗な「空虚」の状態"
+		"core": "あらゆる秩序が崩壊し、意味や予測が成り立たない真っ暗な「空虚」の状態",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "character",
@@ -21277,7 +21307,8 @@ const WORDS = [
 		"word": "Charisma",
 		"part_of_speech": "noun",
 		"meaning": "カリスマ、神の贈り物",
-		"core": "理屈を超えて人々を惹きつけ、従わせてしまう、天性の魅力という名の「才能」"
+		"core": "理屈を超えて人々を惹きつけ、従わせてしまう、天性の魅力という名の「才能」",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "charlatan",
@@ -21909,7 +21940,8 @@ const WORDS = [
 		"word": "Chivalry",
 		"part_of_speech": "noun",
 		"meaning": "騎士道、礼儀",
-		"core": "弱者を守り、信義を重んじる、戦士としての誇りと洗練された礼節"
+		"core": "弱者を守り、信義を重んじる、戦士としての誇りと洗練された礼節",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "chocolate",
@@ -22014,14 +22046,16 @@ const WORDS = [
 		"word": "Chronic",
 		"part_of_speech": "adjective",
 		"meaning": "慢性の、長引く",
-		"core": "時間（chronos）の経過と共に根を張り、解決することなく付き合い続けなければならない苦痛"
+		"core": "時間（chronos）の経過と共に根を張り、解決することなく付き合い続けなければならない苦痛",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "chronicle",
 		"word": "Chronicle",
 		"part_of_speech": "noun/verb",
 		"meaning": "年代記、記録",
-		"core": "流れる時間を言葉で繋ぎ止め、歴史の連なりとして保存しようとする試み"
+		"core": "流れる時間を言葉で繋ぎ止め、歴史の連なりとして保存しようとする試み",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "chthonic",
@@ -22120,7 +22154,8 @@ const WORDS = [
 		"word": "Cipher",
 		"part_of_speech": "noun",
 		"meaning": "暗号、ゼロ、無価値な人",
-		"core": "表面的な数字の裏に真実を隠すこと。あるいは、それ自体は何の意味も持たない「空」の状態"
+		"core": "表面的な数字の裏に真実を隠すこと。あるいは、それ自体は何の意味も持たない「空」の状態",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "circuitous",
@@ -22569,7 +22604,8 @@ const WORDS = [
 		"word": "Clarity",
 		"part_of_speech": "noun",
 		"meaning": "明晰、透明度",
-		"core": "曇りや混じり気が一切なく、対象の本質が光を透かして見えるような明快さ"
+		"core": "曇りや混じり気が一切なく、対象の本質が光を透かして見えるような明快さ",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "classification",
@@ -22688,7 +22724,8 @@ const WORDS = [
 		"word": "Clemency",
 		"part_of_speech": "noun",
 		"meaning": "寛大、慈悲",
-		"core": "罰を与える権利を持つ者が、あえてそれを和らげ、許しを与えるという権力の優しい行使"
+		"core": "罰を与える権利を持つ者が、あえてそれを和らげ、許しを与えるという権力の優しい行使",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "cliché",
@@ -22740,7 +22777,8 @@ const WORDS = [
 		"word": "Climax",
 		"part_of_speech": "noun",
 		"meaning": "最高潮、頂点",
-		"core": "階段（climax）を登り詰め、緊張と物語が限界に達する爆発的な瞬間"
+		"core": "階段（climax）を登り詰め、緊張と物語が限界に達する爆発的な瞬間",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "clinamen",
@@ -23138,14 +23176,16 @@ const WORDS = [
 		"word": "Cogent",
 		"part_of_speech": "adjective",
 		"meaning": "説得力のある、有力な",
-		"core": "バラバラな事実を力強く（co-agere）まとめ上げ、反対する余地を与えない論理の鋭さ"
+		"core": "バラバラな事実を力強く（co-agere）まとめ上げ、反対する余地を与えない論理の鋭さ",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "cognition",
 		"word": "Cognition",
 		"part_of_speech": "noun",
 		"meaning": "認知、認識",
-		"core": "外部の世界を脳内に取り込み、それが何であるかを「知る」という能動的なプロセス"
+		"core": "外部の世界を脳内に取り込み、それが何であるかを「知る」という能動的なプロセス",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "cognitive",
@@ -23202,7 +23242,8 @@ const WORDS = [
 		"word": "Coherent",
 		"part_of_speech": "adjective",
 		"meaning": "一貫した、筋の通った",
-		"core": "すべての要素が互いに固く結びつき、矛盾なく一つの論理として自立している様子"
+		"core": "すべての要素が互いに固く結びつき、矛盾なく一つの論理として自立している様子",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "cohesion",
@@ -80640,14 +80681,16 @@ const WORDS = [
 		"word": "Jab",
 		"part_of_speech": "verb/noun",
 		"meaning": "突き刺す、ジャブ",
-		"core": "鋭利なもので不意に、しかし正確に突く動作"
+		"core": "鋭利なもので不意に、しかし正確に突く動作",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "jackpot",
 		"word": "Jackpot",
 		"part_of_speech": "noun",
 		"meaning": "大当たり、大成功",
-		"core": "蓄積されたものが一気に手に入る、運命の逆転"
+		"core": "蓄積されたものが一気に手に入る、運命の逆転",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "jaded",
@@ -80864,7 +80907,8 @@ const WORDS = [
 		"word": "Jaunt",
 		"part_of_speech": "noun",
 		"meaning": "遠足、小旅行",
-		"core": "目的よりも過程を楽しむ、気軽な外出"
+		"core": "目的よりも過程を楽しむ、気軽な外出",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "jaunty",
@@ -81004,14 +81048,16 @@ const WORDS = [
 		"word": "Jeer",
 		"part_of_speech": "verb",
 		"meaning": "あざける、野次を飛ばす",
-		"core": "言葉を投げつけて、相手の尊厳を削り取ろうとする冷笑"
+		"core": "言葉を投げつけて、相手の尊厳を削り取ろうとする冷笑",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "jejune",
 		"word": "Jejune",
 		"part_of_speech": "adjective",
 		"meaning": "中身のない、幼稚な",
-		"core": "栄養不足（空腹）のように、深みも面白みも欠けていること"
+		"core": "栄養不足（空腹）のように、深みも面白みも欠けていること",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "jeopardize",
@@ -81119,14 +81165,16 @@ const WORDS = [
 		"word": "Jerk",
 		"part_of_speech": "verb/noun",
 		"meaning": "急に動かす、嫌な奴",
-		"core": "滑らかさを欠いた、突発的で不快な動きや人物"
+		"core": "滑らかさを欠いた、突発的で不快な動きや人物",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "jest",
 		"word": "Jest",
 		"part_of_speech": "noun/verb",
 		"meaning": "冗談、悪ふざけ",
-		"core": "真実を一時的に棚上げして遊ぶ、言葉の遊戯"
+		"core": "真実を一時的に棚上げして遊ぶ、言葉の遊戯",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "jettison",
@@ -81176,7 +81224,8 @@ const WORDS = [
 		"word": "Jibe",
 		"part_of_speech": "verb",
 		"meaning": "一致する、調和する",
-		"core": "パズルの破片がカチリと噛み合うような、矛盾のない統合"
+		"core": "パズルの破片がカチリと噛み合うような、矛盾のない統合",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "jibe",
@@ -81327,7 +81376,8 @@ const WORDS = [
 		"word": "Jitters",
 		"part_of_speech": "noun",
 		"meaning": "いらいら、極度の緊張",
-		"core": "神経が震え、身体が微細に制御を失っている状態"
+		"core": "神経が震え、身体が微細に制御を失っている状態",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "jocose",
@@ -81520,14 +81570,16 @@ const WORDS = [
 		"word": "Jolt",
 		"part_of_speech": "verb/noun",
 		"meaning": "激しく揺さぶる、衝撃",
-		"core": "眠っている意識を強制的に目覚めさせる、突然の衝撃"
+		"core": "眠っている意識を強制的に目覚めさせる、突然の衝撃",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "journal",
 		"word": "Journal",
 		"part_of_speech": "noun",
 		"meaning": "日記、定期刊行物",
-		"core": "日々の光（jour）を言葉として刻み、記録する行為"
+		"core": "日々の光（jour）を言葉として刻み、記録する行為",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "journey",
@@ -81618,7 +81670,8 @@ const WORDS = [
 		"word": "Joy",
 		"part_of_speech": "noun",
 		"meaning": "喜び、歓喜",
-		"core": "魂が内側から光を放ち、存在を全肯定する感情"
+		"core": "魂が内側から光を放ち、存在を全肯定する感情",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "jubilant",
@@ -81815,7 +81868,8 @@ const WORDS = [
 		"word": "Judiciary",
 		"part_of_speech": "noun",
 		"meaning": "司法府、裁判官",
-		"core": "法の言葉を維持し、正義を執行する組織的な守護者"
+		"core": "法の言葉を維持し、正義を執行する組織的な守護者",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "judicious",
@@ -81911,7 +81965,8 @@ const WORDS = [
 		"word": "Jumble",
 		"part_of_speech": "noun/verb",
 		"meaning": "ごちゃ混ぜ、乱雑",
-		"core": "秩序が失われ、多様なものが無作為に混ざり合っているカオス"
+		"core": "秩序が失われ、多様なものが無作為に混ざり合っているカオス",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "jump",
@@ -82477,7 +82532,8 @@ const WORDS = [
 		"word": "Juvenile",
 		"part_of_speech": "adjective/noun",
 		"meaning": "若者の、未熟な",
-		"core": "生命の春にあり、まだ形が定まっていない未完成の輝き"
+		"core": "生命の春にあり、まだ形が定まっていない未完成の輝き",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "juxtapose",
@@ -82637,7 +82693,8 @@ const WORDS = [
 		"word": "Karma",
 		"part_of_speech": "noun",
 		"meaning": "業、因果応報",
-		"core": "過去の行動が現在の自分を縛り、未来を規定するという逃れられない法則"
+		"core": "過去の行動が現在の自分を縛り、未来を規定するという逃れられない法則",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "keen",
@@ -82687,7 +82744,8 @@ const WORDS = [
 		"word": "Kempt",
 		"part_of_speech": "adjective",
 		"meaning": "手入れの行き届いた",
-		"core": "櫛でとかしたように整然とし、秩序が保たれた美しさ"
+		"core": "櫛でとかしたように整然とし、秩序が保たれた美しさ",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "ken",
@@ -82966,35 +83024,40 @@ const WORDS = [
 		"word": "Kettle",
 		"part_of_speech": "noun",
 		"meaning": "やかん、釜",
-		"core": "内に熱を閉じ込め、沸点に達した瞬間に声を上げる器"
+		"core": "内に熱を閉じ込め、沸点に達した瞬間に声を上げる器",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "keyboard",
 		"word": "Keyboard",
 		"part_of_speech": "noun",
 		"meaning": "鍵盤、キーボード",
-		"core": "指先の小さな打鍵（Key）が、無限の言葉や旋律を生む入口"
+		"core": "指先の小さな打鍵（Key）が、無限の言葉や旋律を生む入口",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "keynote",
 		"word": "Keynote",
 		"part_of_speech": "noun",
 		"meaning": "基調、基本方針",
-		"core": "全体を支配する音色。すべての議論や旋律の基準となる核"
+		"core": "全体を支配する音色。すべての議論や旋律の基準となる核",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "keystone",
 		"word": "Keystone",
 		"part_of_speech": "noun",
 		"meaning": "要石、基本原理",
-		"core": "アーチの頂点にあり、全体を支え、崩壊を防ぐ最も重要な一点"
+		"core": "アーチの頂点にあり、全体を支え、崩壊を防ぐ最も重要な一点",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "kiln",
 		"word": "Kiln",
 		"part_of_speech": "noun",
 		"meaning": "窯、炉",
-		"core": "高熱によって物質を焼き固め、新しい形と強度を与える変容の場"
+		"core": "高熱によって物質を焼き固め、新しい形と強度を与える変容の場",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "kilter",
@@ -83137,7 +83200,8 @@ const WORDS = [
 		"word": "Kindred",
 		"part_of_speech": "adjective",
 		"meaning": "同族の、志を同じくする",
-		"core": "血の流れや魂の形が似ている、説明不要の近しさ"
+		"core": "血の流れや魂の形が似ている、説明不要の近しさ",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "kinetic",
@@ -83189,14 +83253,16 @@ const WORDS = [
 		"word": "Kinetics",
 		"part_of_speech": "noun",
 		"meaning": "動力学、活動力",
-		"core": "静止した状態を打ち破り、運動と変化を生み出すエネルギーの研究"
+		"core": "静止した状態を打ち破り、運動と変化を生み出すエネルギーの研究",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "kink",
 		"word": "Kink",
 		"part_of_speech": "noun",
 		"meaning": "ねじれ、妙な癖",
-		"core": "真っ直ぐな流れの中に生じた、予期せぬ歪みやこだわり"
+		"core": "真っ直ぐな流れの中に生じた、予期せぬ歪みやこだわり",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "kinship",
@@ -83246,14 +83312,16 @@ const WORDS = [
 		"word": "Kipper",
 		"part_of_speech": "verb",
 		"meaning": "塩漬けにして燻製にする",
-		"core": "時間を止めるための保存の知恵。風味を凝縮させるプロセス"
+		"core": "時間を止めるための保存の知恵。風味を凝縮させるプロセス",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "kismet",
 		"word": "Kismet",
 		"part_of_speech": "noun",
 		"meaning": "宿命、運命",
-		"core": "自分の意志を超えた場所で決まっている、逃れられない天命"
+		"core": "自分の意志を超えた場所で決まっている、逃れられない天命",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "kiss",
@@ -83361,21 +83429,24 @@ const WORDS = [
 		"word": "Klaxon",
 		"part_of_speech": "noun",
 		"meaning": "けたたましい警笛",
-		"core": "平穏を破り、緊急事態を脳に直接叩き込む鋭い警告音"
+		"core": "平穏を破り、緊急事態を脳に直接叩き込む鋭い警告音",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "kleptomania",
 		"word": "Kleptomania",
 		"part_of_speech": "noun",
 		"meaning": "窃盗癖",
-		"core": "必要性ではなく、所有そのものに取り憑かれた精神の飢餓"
+		"core": "必要性ではなく、所有そのものに取り憑かれた精神の飢餓",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "knack",
 		"word": "Knack",
 		"part_of_speech": "noun",
 		"meaning": "コツ、巧妙な手際",
-		"core": "理屈ではなく、身体が覚えている直感的で鮮やかな技術"
+		"core": "理屈ではなく、身体が覚えている直感的で鮮やかな技術",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "knave",
@@ -83515,7 +83586,8 @@ const WORDS = [
 		"word": "Knead",
 		"part_of_speech": "verb",
 		"meaning": "こねる、練り上げる",
-		"core": "圧力をかけ、異なる要素を一体化させて粘りと弾力を生み出す行為"
+		"core": "圧力をかけ、異なる要素を一体化させて粘りと弾力を生み出す行為",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "knell",
@@ -83565,14 +83637,16 @@ const WORDS = [
 		"word": "Knight",
 		"part_of_speech": "noun",
 		"meaning": "騎士、守護者",
-		"core": "忠誠を誓い、命を懸けて自らの信念や主君を守り抜く象徴"
+		"core": "忠誠を誓い、命を懸けて自らの信念や主君を守り抜く象徴",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "knob",
 		"word": "Knob",
 		"part_of_speech": "noun",
 		"meaning": "取っ手、こぶ",
-		"core": "何かに干渉し、変化を起こすための小さな突起"
+		"core": "何かに干渉し、変化を起こすための小さな突起",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "knobkerrie",
@@ -83629,7 +83703,8 @@ const WORDS = [
 		"word": "Knot",
 		"part_of_speech": "noun/verb",
 		"meaning": "結び目、紛糾",
-		"core": "二つの流れが固く絡まり合い、容易には解けない複雑な状態"
+		"core": "二つの流れが固く絡まり合い、容易には解けない複雑な状態",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "knowledge",
@@ -83731,7 +83806,8 @@ const WORDS = [
 		"word": "Kudos",
 		"part_of_speech": "noun",
 		"meaning": "称賛、栄誉",
-		"core": "優れた業績に対し、公に与えられる輝かしい評価"
+		"core": "優れた業績に対し、公に与えられる輝かしい評価",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "labyrinth",
@@ -84288,14 +84364,16 @@ const WORDS = [
 		"word": "Lavish",
 		"part_of_speech": "adjective",
 		"meaning": "贅沢な、惜しみない",
-		"core": "雨が降り注ぐように（lave）、際限なく与え、費やすこと"
+		"core": "雨が降り注ぐように（lave）、際限なく与え、費やすこと",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "lax",
 		"word": "Lax",
 		"part_of_speech": "adjective",
 		"meaning": "だらしない、緩い",
-		"core": "規律や緊張が弛緩し、あるべき形を失っている状態"
+		"core": "規律や緊張が弛緩し、あるべき形を失っている状態",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "lead",
@@ -84450,21 +84528,24 @@ const WORDS = [
 		"word": "Legacy",
 		"part_of_speech": "noun",
 		"meaning": "遺産、受け継がれたもの",
-		"core": "死者が生者へ、過去が未来へと送り出す、形を変えた意志"
+		"core": "死者が生者へ、過去が未来へと送り出す、形を変えた意志",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "legend",
 		"word": "Legend",
 		"part_of_speech": "noun",
 		"meaning": "伝説、読み物",
-		"core": "語り継がれるべき（leg-）物語。歴史と空想が溶け合った英雄譚"
+		"core": "語り継がれるべき（leg-）物語。歴史と空想が溶け合った英雄譚",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "legible",
 		"word": "Legible",
 		"part_of_speech": "adjective",
 		"meaning": "判読できる、読みやすい",
-		"core": "符号が意味へと変換可能な、解読を拒まない明瞭さ"
+		"core": "符号が意味へと変換可能な、解読を拒まない明瞭さ",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "leisure",
@@ -84619,14 +84700,16 @@ const WORDS = [
 		"word": "Lenient",
 		"part_of_speech": "adjective",
 		"meaning": "寛大な、情け深い",
-		"core": "厳格さを和らげ（lenis）、過ちを包み込むような柔らかさ"
+		"core": "厳格さを和らげ（lenis）、過ちを包み込むような柔らかさ",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "lethal",
 		"word": "Lethal",
 		"part_of_speech": "adjective",
 		"meaning": "致命的な、致死の",
-		"core": "忘却の川（レテ）へ引きずり込むような、不可避の死をもたらす力"
+		"core": "忘却の川（レテ）へ引きずり込むような、不可避の死をもたらす力",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "lethargic",
@@ -84830,14 +84913,16 @@ const WORDS = [
 		"word": "Liable",
 		"part_of_speech": "adjective",
 		"meaning": "責任がある、〜しがちな",
-		"core": "法や因果の鎖に縛られ（lig-）、逃れられない立場にあること"
+		"core": "法や因果の鎖に縛られ（lig-）、逃れられない立場にあること",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "liberal",
 		"word": "Liberal",
 		"part_of_speech": "adjective",
 		"meaning": "自由な、寛大な",
-		"core": "奴隷ではなく自由な（liber）人間として、偏見なく広く受け入れる姿勢"
+		"core": "奴隷ではなく自由な（liber）人間として、偏見なく広く受け入れる姿勢",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "liberty",
@@ -84890,7 +84975,8 @@ const WORDS = [
 		"word": "Libido",
 		"part_of_speech": "noun",
 		"meaning": "性欲、生命衝動",
-		"core": "存在を突き動かす、根源的で渇望に近い欲望のエネルギー"
+		"core": "存在を突き動かす、根源的で渇望に近い欲望のエネルギー",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "library",
@@ -85130,7 +85216,8 @@ const WORDS = [
 		"word": "Linger",
 		"part_of_speech": "verb",
 		"meaning": "名残惜しそうに留まる",
-		"core": "去るべき時が過ぎても、影のようにその場に漂い続けること"
+		"core": "去るべき時が過ぎても、影のようにその場に漂い続けること",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "listen",
@@ -85183,7 +85270,8 @@ const WORDS = [
 		"word": "Lithe",
 		"part_of_speech": "adjective",
 		"meaning": "しなやかな、柔軟な",
-		"core": "柳の枝のように、抵抗せず、しかし折れずに美しく曲がる様子"
+		"core": "柳の枝のように、抵抗せず、しかし折れずに美しく曲がる様子",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "loaf",
@@ -85288,7 +85376,8 @@ const WORDS = [
 		"word": "Loathe",
 		"part_of_speech": "verb",
 		"meaning": "ひどく嫌う、忌み嫌う",
-		"core": "生理的な拒絶を伴い、存在そのものを汚らわしいと感じる憎悪"
+		"core": "生理的な拒絶を伴い、存在そのものを汚らわしいと感じる憎悪",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "locate",
@@ -85591,7 +85680,8 @@ const WORDS = [
 		"word": "Longevity",
 		"part_of_speech": "noun",
 		"meaning": "長寿、寿命",
-		"core": "長い（long-）時間を生き抜き、時代を跨いで存続する生命の粘り"
+		"core": "長い（long-）時間を生き抜き、時代を跨いで存続する生命の粘り",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "loquacious",
@@ -85641,14 +85731,16 @@ const WORDS = [
 		"word": "Lore",
 		"part_of_speech": "noun",
 		"meaning": "伝承、知識",
-		"core": "教え（learn）られた、特定の集団に深く根ざした知恵や物語"
+		"core": "教え（learn）られた、特定の集団に深く根ざした知恵や物語",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "loyal",
 		"word": "Loyal",
 		"part_of_speech": "adjective",
 		"meaning": "忠実な、誠実な",
-		"core": "法（lex）や契約を超えた、魂のレベルでの裏切らない約束"
+		"core": "法（lex）や契約を超えた、魂のレベルでの裏切らない約束",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "lucid",
@@ -85926,7 +86018,8 @@ const WORDS = [
 		"word": "Lure",
 		"part_of_speech": "verb/noun",
 		"meaning": "誘惑する、おとり",
-		"core": "抗いがたい魅力で、本能を罠へと引き寄せる静かな呼び声"
+		"core": "抗いがたい魅力で、本能を罠へと引き寄せる静かな呼び声",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "lurid",
@@ -86067,14 +86160,16 @@ const WORDS = [
 		"word": "Lyrical",
 		"part_of_speech": "adjective",
 		"meaning": "叙情的な、熱情的な",
-		"core": "竪琴（lyre）の調べのように、溢れる感情がメロディとなって響く様子"
+		"core": "竪琴（lyre）の調べのように、溢れる感情がメロディとなって響く様子",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "macabre",
 		"word": "Macabre",
 		"part_of_speech": "adjective",
 		"meaning": "死を連想させる、不気味な",
-		"core": "死の舞踏（danse macabre）のように、死を恐ろしくもどこか滑稽な美しさで描く様子"
+		"core": "死の舞踏（danse macabre）のように、死を恐ろしくもどこか滑稽な美しさで描く様子",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "magnanimous",
@@ -86468,14 +86563,16 @@ const WORDS = [
 		"word": "Malice",
 		"part_of_speech": "noun",
 		"meaning": "悪意、恨み",
-		"core": "他者の不幸を望み、積極的に害を与えようとする歪んだ精神のエネルギー"
+		"core": "他者の不幸を望み、積極的に害を与えようとする歪んだ精神のエネルギー",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "malign",
 		"word": "Malign",
 		"part_of_speech": "verb/adjective",
 		"meaning": "中傷する、有害な",
-		"core": "悪い（mal-）本質を持って生まれ、毒を吐くことで相手の評価や命を汚すこと"
+		"core": "悪い（mal-）本質を持って生まれ、毒を吐くことで相手の評価や命を汚すこと",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "malleable",
@@ -86525,7 +86622,8 @@ const WORDS = [
 		"word": "Mammoth",
 		"part_of_speech": "adjective",
 		"meaning": "巨大な、マンモスのような",
-		"core": "圧倒的な質量と規模を持ち、それ以前の基準を無効にするほどの巨大さ"
+		"core": "圧倒的な質量と規模を持ち、それ以前の基準を無効にするほどの巨大さ",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "manage",
@@ -86690,7 +86788,8 @@ const WORDS = [
 		"word": "Mandatory",
 		"part_of_speech": "adjective",
 		"meaning": "義務的な、強制的な",
-		"core": "手（manus）渡された命令に従わなければならない、逃れられない社会的な契約"
+		"core": "手（manus）渡された命令に従わなければならない、逃れられない社会的な契約",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "maniac",
@@ -86955,7 +87054,8 @@ const WORDS = [
 		"word": "Mar",
 		"part_of_speech": "verb",
 		"meaning": "台無しにする、傷つける",
-		"core": "完璧な表面を不注意や悪意で汚し、本来の価値を損なわせてしまうこと"
+		"core": "完璧な表面を不注意や悪意で汚し、本来の価値を損なわせてしまうこと",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "marcescent",
@@ -87014,14 +87114,16 @@ const WORDS = [
 		"word": "Marginal",
 		"part_of_speech": "adjective",
 		"meaning": "境界の、取るに足りない",
-		"core": "中心から外れた縁（margin）に位置し、あってもなくても大勢に影響しないような状態"
+		"core": "中心から外れた縁（margin）に位置し、あってもなくても大勢に影響しないような状態",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "martyr",
 		"word": "Martyr",
 		"part_of_speech": "noun",
 		"meaning": "殉教者、犠牲者",
-		"core": "自分の信念の正しさを証明するために、苦痛や死を引き受ける「証人（martur）」"
+		"core": "自分の信念の正しさを証明するために、苦痛や死を引き受ける「証人（martur）」",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "marzipan",
@@ -87130,21 +87232,24 @@ const WORDS = [
 		"word": "Masquerade",
 		"part_of_speech": "noun/verb",
 		"meaning": "仮面舞踏会、見せかけ",
-		"core": "仮面（mask）を被り、自分ではない別の何かを演じることで、本性を隠蔽する行為"
+		"core": "仮面（mask）を被り、自分ではない別の何かを演じることで、本性を隠蔽する行為",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "maudlin",
 		"word": "Maudlin",
 		"part_of_speech": "adjective",
 		"meaning": "涙もろい、感傷的な",
-		"core": "酔いや感傷によって理性が曇り、自分に酔いしれながら涙を流す、やや不快な情緒不安定さ"
+		"core": "酔いや感傷によって理性が曇り、自分に酔いしれながら涙を流す、やや不快な情緒不安定さ",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "maverick",
 		"word": "Maverick",
 		"part_of_speech": "noun",
 		"meaning": "異端児、一匹狼",
-		"core": "誰の刻印も押されていない子牛のように、組織や慣習に縛られず、独自のルールで動く者"
+		"core": "誰の刻印も押されていない子牛のように、組織や慣習に縛られず、独自のルールで動く者",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "maximize",
@@ -87260,7 +87365,8 @@ const WORDS = [
 		"word": "Meander",
 		"part_of_speech": "verb",
 		"meaning": "曲がりくねる、とりとめもなく進む",
-		"core": "小川が蛇行するように、目的を急がず、寄り道を繰り返しながら緩やかに流れる時間"
+		"core": "小川が蛇行するように、目的を急がず、寄り道を繰り返しながら緩やかに流れる時間",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "measurement",
@@ -87829,14 +87935,16 @@ const WORDS = [
 		"word": "Mediocre",
 		"part_of_speech": "adjective",
 		"meaning": "平凡な、良くも悪くもない",
-		"core": "山のちょうど中腹（medius）で止まってしまったような、卓越性も個性もない中途半端さ"
+		"core": "山のちょうど中腹（medius）で止まってしまったような、卓越性も個性もない中途半端さ",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "meditate",
 		"word": "Meditate",
 		"part_of_speech": "verb",
 		"meaning": "瞑想する、深く考える",
-		"core": "心の「尺度（med-）」を測るように、静寂の中で自分の内側をじっと見つめ直す知的な訓練"
+		"core": "心の「尺度（med-）」を測るように、静寂の中で自分の内側をじっと見つめ直す知的な訓練",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "meditation",
@@ -87989,7 +88097,8 @@ const WORDS = [
 		"word": "Mellifluous",
 		"part_of_speech": "adjective",
 		"meaning": "甘く流れるような（声・音楽）",
-		"core": "蜂蜜（mel）が流れる（flu-）ように、聴く者の耳に心地よく溶け込んでくる滑らかな響き"
+		"core": "蜂蜜（mel）が流れる（flu-）ように、聴く者の耳に心地よく溶け込んでくる滑らかな響き",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "mellifluous.",
@@ -88294,7 +88403,8 @@ const WORDS = [
 		"word": "Mentor",
 		"part_of_speech": "noun",
 		"meaning": "指導者、恩師",
-		"core": "自身の経験と知恵を惜しみなく注ぎ、他者の成長という未踏の旅を支える精神的な導き手"
+		"core": "自身の経験と知恵を惜しみなく注ぎ、他者の成長という未踏の旅を支える精神的な導き手",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "meraki",
@@ -88347,7 +88457,8 @@ const WORDS = [
 		"word": "Mercenary",
 		"part_of_speech": "adjective/noun",
 		"meaning": "金目当ての、傭兵",
-		"core": "信念や情熱ではなく、ただ報酬（merces）という対価のためだけに動く、冷徹な利害関係"
+		"core": "信念や情熱ではなく、ただ報酬（merces）という対価のためだけに動く、冷徹な利害関係",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "mercurial",
@@ -88496,7 +88607,8 @@ const WORDS = [
 		"word": "Metamorphosis",
 		"part_of_speech": "noun",
 		"meaning": "変態、変容",
-		"core": "姿（morph-）が根本から変化（meta-）し、昨日までの自分とは全く別の生き物へと生まれ変わること"
+		"core": "姿（morph-）が根本から変化（meta-）し、昨日までの自分とは全く別の生き物へと生まれ変わること",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "metanoia",
@@ -88826,7 +88938,8 @@ const WORDS = [
 		"word": "Mimic",
 		"part_of_speech": "verb",
 		"meaning": "真似る、模倣する",
-		"core": "他者の特徴や声を忠実に再現することで、オリジナルの本質を暴き出したり、滑稽に見せたりすること"
+		"core": "他者の特徴や声を忠実に再現することで、オリジナルの本質を暴き出したり、滑稽に見せたりすること",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "minimization",
@@ -89059,7 +89172,8 @@ const WORDS = [
 		"word": "Misnomer",
 		"part_of_speech": "noun",
 		"meaning": "誤称、不適切な名前",
-		"core": "本質を捉え違えた名前（nomer）を付けてしまうことで生じる、認識と現実のズレ"
+		"core": "本質を捉え違えた名前（nomer）を付けてしまうことで生じる、認識と現実のズレ",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "mitigate",
@@ -91051,7 +91165,8 @@ const WORDS = [
 		"word": "Nausea",
 		"part_of_speech": "noun",
 		"meaning": "吐き気、嫌悪感",
-		"core": "船（naus）に揺られて酔うように、存在や状況に対して身体が拒絶反応を起こす不快感"
+		"core": "船（naus）に揺られて酔うように、存在や状況に対して身体が拒絶反応を起こす不快感",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "navigate",
@@ -91269,7 +91384,8 @@ const WORDS = [
 		"word": "Nebulous",
 		"part_of_speech": "adjective",
 		"meaning": "星雲状の、ぼんやりした",
-		"core": "雲（nebula）の中に包まれているように、形が曖昧で捉えどころのない様子"
+		"core": "雲（nebula）の中に包まれているように、形が曖昧で捉えどころのない様子",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "nectar",
@@ -91370,7 +91486,8 @@ const WORDS = [
 		"word": "Negate",
 		"part_of_speech": "verb",
 		"meaning": "否定する、無効にする",
-		"core": "「No」と突きつけ、それまで存在していた価値や効果を打ち消し、ゼロに戻すこと"
+		"core": "「No」と突きつけ、それまで存在していた価値や効果を打ち消し、ゼロに戻すこと",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "neglect",
@@ -91425,7 +91542,8 @@ const WORDS = [
 		"word": "Negligible",
 		"part_of_speech": "adjective",
 		"meaning": "無視できる、些細な",
-		"core": "拾い上げる（leg-）価値さえないほど小さく、全体に何の影響も与えないような存在"
+		"core": "拾い上げる（leg-）価値さえないほど小さく、全体に何の影響も与えないような存在",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "negotiate",
@@ -91681,7 +91799,8 @@ const WORDS = [
 		"word": "Nepotism",
 		"part_of_speech": "noun",
 		"meaning": "親族登用、身内びいき",
-		"core": "能力ではなく、自分の甥（nephew）や家族であることを理由に地位や利権を与える、不公平な依怙贔屓"
+		"core": "能力ではなく、自分の甥（nephew）や家族であることを理由に地位や利権を与える、不公平な依怙贔屓",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "nerd",
@@ -91734,7 +91853,8 @@ const WORDS = [
 		"word": "Nerve",
 		"part_of_speech": "noun/verb",
 		"meaning": "神経、勇気、厚かましさ",
-		"core": "肉体の深部を走り、痛みと同時に行動への活力を伝える、強靭な糸のような力"
+		"core": "肉体の深部を走り、痛みと同時に行動への活力を伝える、強靭な糸のような力",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "nescience",
@@ -91791,7 +91911,8 @@ const WORDS = [
 		"word": "Nettle",
 		"part_of_speech": "verb",
 		"meaning": "イライラさせる、怒らせる",
-		"core": "イラクサ（nettle）の棘に触れた時のように、チクチクとした小さな不快感で神経を逆撫ですること"
+		"core": "イラクサ（nettle）の棘に触れた時のように、チクチクとした小さな不快感で神経を逆撫ですること",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "neutral",
@@ -91902,7 +92023,8 @@ const WORDS = [
 		"word": "Nexus",
 		"part_of_speech": "noun",
 		"meaning": "繋がり、絆、核心",
-		"core": "無数の要素が一点で結びつき（bind）、全体を構成するための不可欠な接点"
+		"core": "無数の要素が一点で結びつき（bind）、全体を構成するための不可欠な接点",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "nice",
@@ -91961,7 +92083,8 @@ const WORDS = [
 		"word": "Niche",
 		"part_of_speech": "noun",
 		"meaning": "適所、隙間市場、壁龕",
-		"core": "自分にしか収まらない、心地よく守られた「小さな窪み」のような居場所"
+		"core": "自分にしか収まらない、心地よく守られた「小さな窪み」のような居場所",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "nickname",
@@ -92071,7 +92194,8 @@ const WORDS = [
 		"word": "Niggardly",
 		"part_of_speech": "adjective",
 		"meaning": "ケチな、出し惜しむ",
-		"core": "必要最低限のものさえ与えるのを渋り、狭い器の中で溜め込もうとする卑屈な態度"
+		"core": "必要最低限のものさえ与えるのを渋り、狭い器の中で溜め込もうとする卑屈な態度",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "nightmare",
@@ -92173,21 +92297,24 @@ const WORDS = [
 		"word": "Nimble",
 		"part_of_speech": "adjective",
 		"meaning": "素早い、機転の利く",
-		"core": "獲物を捕らえる（nim）時のように、身体や思考が軽やかで、無駄のない動きをすること"
+		"core": "獲物を捕らえる（nim）時のように、身体や思考が軽やかで、無駄のない動きをすること",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "nirvana",
 		"word": "Nirvana",
 		"part_of_speech": "noun",
 		"meaning": "涅槃、解脱、至福の境地",
-		"core": "煩悩の火が吹き消され（blow out）、苦しみから完全に解放された究極の静寂"
+		"core": "煩悩の火が吹き消され（blow out）、苦しみから完全に解放された究極の静寂",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "nocturnal",
 		"word": "Nocturnal",
 		"part_of_speech": "adjective",
 		"meaning": "夜行性の、夜の",
-		"core": "太陽が沈んだ後の、闇と静寂が支配する時間にだけ活動を開始する性質"
+		"core": "太陽が沈んだ後の、闇と静寂が支配する時間にだけ活動を開始する性質",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "noesis",
@@ -92286,21 +92413,24 @@ const WORDS = [
 		"word": "Nomadic",
 		"part_of_speech": "adjective",
 		"meaning": "放浪の、遊牧の",
-		"core": "一つの場所に定住せず、糧を求めて（nem-）境界を越え続け、彷徨い歩く生き方"
+		"core": "一つの場所に定住せず、糧を求めて（nem-）境界を越え続け、彷徨い歩く生き方",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "nomenclature",
 		"word": "Nomenclature",
 		"part_of_speech": "noun",
 		"meaning": "学名、命名法",
-		"core": "名前（nomen）を呼び（cal-）分けることで、混沌とした世界に秩序とラベルを与えるシステム"
+		"core": "名前（nomen）を呼び（cal-）分けることで、混沌とした世界に秩序とラベルを与えるシステム",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "nonchalant",
 		"word": "Nonchalant",
 		"part_of_speech": "adjective",
 		"meaning": "無関心な、平然とした",
-		"core": "熱く（chal-）ならず、何が起きても顔色一つ変えずに涼しげに振る舞う態度"
+		"core": "熱く（chal-）ならず、何が起きても顔色一つ変えずに涼しげに振る舞う態度",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "noosphere",
@@ -92363,14 +92493,16 @@ const WORDS = [
 		"word": "Norm",
 		"part_of_speech": "noun",
 		"meaning": "規範、標準、平均",
-		"core": "大工の直角定規（norma）のように、社会の形を整え、逸脱を許さない共通の基準"
+		"core": "大工の直角定規（norma）のように、社会の形を整え、逸脱を許さない共通の基準",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "nostalgia",
 		"word": "Nostalgia",
 		"part_of_speech": "noun",
 		"meaning": "郷愁、追憶",
-		"core": "故郷へ帰りたい（nost-）という願いと、それが叶わない苦しみ（algia）が混ざり合った、甘く切ない痛み"
+		"core": "故郷へ帰りたい（nost-）という願いと、それが叶わない苦しみ（algia）が混ざり合った、甘く切ない痛み",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "notation",
@@ -92685,7 +92817,8 @@ const WORDS = [
 		"word": "Notorious",
 		"part_of_speech": "adjective",
 		"meaning": "悪名高い、周知の",
-		"core": "広く知られている（not-）が、その理由は決して称賛されるようなものではない、負の有名性"
+		"core": "広く知られている（not-）が、その理由は決して称賛されるようなものではない、負の有名性",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "noumenon.",
@@ -92738,7 +92871,8 @@ const WORDS = [
 		"word": "Novelty",
 		"part_of_speech": "noun",
 		"meaning": "斬新さ、目新しさ、珍品",
-		"core": "今までになかった新しい（nov-）性質。一時の驚きをもたらすが、やがて日常に溶けて消える煌めき"
+		"core": "今までになかった新しい（nov-）性質。一時の驚きをもたらすが、やがて日常に溶けて消える煌めき",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "nozzle",
@@ -129490,7 +129624,8 @@ const WORDS = [
 		"id": "test2",
 		"word": "Test2",
 		"author": "test_user",
-		"date": "2026-03-01"
+		"date": "2026-03-01",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "tether",
@@ -134673,21 +134808,24 @@ const WORDS = [
 		"word": "Vague",
 		"part_of_speech": "adjective",
 		"meaning": "曖昧な、漠然とした",
-		"core": "形が定まらず、霧の中にあるように輪郭がはっきりしない状態"
+		"core": "形が定まらず、霧の中にあるように輪郭がはっきりしない状態",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "valiant",
 		"word": "Valiant",
 		"part_of_speech": "adjective",
 		"meaning": "勇敢な、価値ある",
-		"core": "困難を前にしても折れない強さ（value）を持った精神の輝き"
+		"core": "困難を前にしても折れない強さ（value）を持った精神の輝き",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "valid",
 		"word": "Valid",
 		"part_of_speech": "adjective",
 		"meaning": "妥当な、有効な",
-		"core": "論理や法に基づいて、正当な力（value）を持っていると認められること"
+		"core": "論理や法に基づいて、正当な力（value）を持っていると認められること",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "valuable",
@@ -134846,56 +134984,64 @@ const WORDS = [
 		"word": "Vanish",
 		"part_of_speech": "verb",
 		"meaning": "消え去る、見えなくなる",
-		"core": "そこにいた痕跡さえ残さず、空（void）の中へと溶け込むように去ること"
+		"core": "そこにいた痕跡さえ残さず、空（void）の中へと溶け込むように去ること",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "vanity",
 		"word": "Vanity",
 		"part_of_speech": "noun",
 		"meaning": "虚栄心、うぬぼれ",
-		"core": "中身が空っぽ（vain）であることを隠すための、虚しい装飾と自己愛"
+		"core": "中身が空っぽ（vain）であることを隠すための、虚しい装飾と自己愛",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "vanquish",
 		"word": "Vanquish",
 		"part_of_speech": "verb",
 		"meaning": "打ち負かす、克服する",
-		"core": "相手を徹底的に制圧し、勝利（victory）を確定させること"
+		"core": "相手を徹底的に制圧し、勝利（victory）を確定させること",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "vapid",
 		"word": "Vapid",
 		"part_of_speech": "adjective",
 		"meaning": "気の抜けた、退屈な",
-		"core": "風味や刺激という蒸気（vapor）が失われ、ただ平坦で面白みのない状態"
+		"core": "風味や刺激という蒸気（vapor）が失われ、ただ平坦で面白みのない状態",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "variable",
 		"word": "Variable",
 		"part_of_speech": "adjective/noun",
 		"meaning": "変わりやすい、変数",
-		"core": "条件によって姿を変え、一つの形に留まらない流動的な性質"
+		"core": "条件によって姿を変え、一つの形に留まらない流動的な性質",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "vast",
 		"word": "Vast",
 		"part_of_speech": "adjective",
 		"meaning": "広大な、膨大な",
-		"core": "視界の端まで届かないほど広く、人の理解を超えた巨大な空隙（void）"
+		"core": "視界の端まで届かないほど広く、人の理解を超えた巨大な空隙（void）",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "vehement",
 		"word": "Vehement",
 		"part_of_speech": "adjective",
 		"meaning": "激しい、熱烈な",
-		"core": "制御できないほどの力（vehe-）で、感情や意志が外へと噴き出す様子"
+		"core": "制御できないほどの力（vehe-）で、感情や意志が外へと噴き出す様子",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "velocity",
 		"word": "Velocity",
 		"part_of_speech": "noun",
 		"meaning": "速度、速さ",
-		"core": "目的を持って、空間を飛び去る（vol-）スピードとその方向性"
+		"core": "目的を持って、空間を飛び去る（vol-）スピードとその方向性",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "venerable",
@@ -134945,14 +135091,16 @@ const WORDS = [
 		"word": "Venom",
 		"part_of_speech": "noun",
 		"meaning": "毒、悪意",
-		"core": "他者を内側から蝕み、死や苦痛をもたらす、生き物が放つ攻撃的な物質"
+		"core": "他者を内側から蝕み、死や苦痛をもたらす、生き物が放つ攻撃的な物質",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "venture",
 		"word": "Venture",
 		"part_of_speech": "noun/verb",
 		"meaning": "冒険、思い切ってやる",
-		"core": "リスクを承知で、まだ見ぬ未来（adventure）の可能性に賭ける行為"
+		"core": "リスクを承知で、まだ見ぬ未来（adventure）の可能性に賭ける行為",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "veracity",
@@ -135097,14 +135245,16 @@ const WORDS = [
 		"word": "Verdict",
 		"part_of_speech": "noun",
 		"meaning": "評決、判断",
-		"core": "真実（ver-）を語る（dict-）こと。長く複雑な議論の末に導き出された最終的な答え"
+		"core": "真実（ver-）を語る（dict-）こと。長く複雑な議論の末に導き出された最終的な答え",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "verge",
 		"word": "Verge",
 		"part_of_speech": "noun/verb",
 		"meaning": "瀬戸際、境界、〜しそうになる",
-		"core": "今にも別の状態へ転落、あるいは飛躍しようとするギリギリの端"
+		"core": "今にも別の状態へ転落、あるいは飛躍しようとするギリギリの端",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "verify",
@@ -135272,28 +135422,32 @@ const WORDS = [
 		"word": "Versatile",
 		"part_of_speech": "adjective",
 		"meaning": "多才な、万能の",
-		"core": "状況に応じて自在に向き（vers-）を変え、どんな役割もこなせる適応力"
+		"core": "状況に応じて自在に向き（vers-）を変え、どんな役割もこなせる適応力",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "vessel",
 		"word": "Vessel",
 		"part_of_speech": "noun",
 		"meaning": "容器、船、血管",
-		"core": "何か大切なもの（命、水、積荷）を運び、包み込んでおくための器"
+		"core": "何か大切なもの（命、水、積荷）を運び、包み込んでおくための器",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "vestige",
 		"word": "Vestige",
 		"part_of_speech": "noun",
 		"meaning": "痕跡、名残",
-		"core": "かつて存在した巨大なものが、時間の経過とともに消え入りそうに残した小さな足跡"
+		"core": "かつて存在した巨大なものが、時間の経過とともに消え入りそうに残した小さな足跡",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "vex",
 		"word": "Vex",
 		"part_of_speech": "verb",
 		"meaning": "イライラさせる、悩ませる",
-		"core": "解決できない小さな問題が、執拗に神経を揺さぶり（shake）、心を乱すこと"
+		"core": "解決できない小さな問題が、執拗に神経を揺さぶり（shake）、心を乱すこと",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "viable",
@@ -136100,7 +136254,8 @@ const WORDS = [
 		"word": "Vivid",
 		"part_of_speech": "adjective",
 		"meaning": "鮮やかな、生き生きとした",
-		"core": "生命（viv-）の輝きに満ち、まるで目の前に実在するかのように強烈な印象を与えること"
+		"core": "生命（viv-）の輝きに満ち、まるで目の前に実在するかのように強烈な印象を与えること",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "vocabulary",
@@ -144243,189 +144398,216 @@ const WORDS = [
 		"word": "Quack",
 		"part_of_speech": "noun",
 		"meaning": "薮医者、ペテン師",
-		"core": "鴨の鳴き声（quack）のように騒がしく、根拠のない治療法を売りつける偽物"
+		"core": "鴨の鳴き声（quack）のように騒がしく、根拠のない治療法を売りつける偽物",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "quadrant",
 		"word": "Quadrant",
 		"part_of_speech": "noun",
 		"meaning": "四分円、扇形",
-		"core": "全体を四つに分けた（quad-）うちの一つ。特定の領域やセクター"
+		"core": "全体を四つに分けた（quad-）うちの一つ。特定の領域やセクター",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "quaff",
 		"word": "Quaff",
 		"part_of_speech": "verb",
 		"meaning": "一気に飲み干す",
-		"core": "喉を鳴らしながら、溢れんばかりの飲み物を豪快に楽しんで飲み込むこと"
+		"core": "喉を鳴らしながら、溢れんばかりの飲み物を豪快に楽しんで飲み込むこと",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "qualm",
 		"word": "Qualm",
 		"part_of_speech": "noun",
 		"meaning": "不安、良心の呵責",
-		"core": "自分の行動に対して、ふと胸をかすめる一瞬の気分の悪さや、道徳的なためらい"
+		"core": "自分の行動に対して、ふと胸をかすめる一瞬の気分の悪さや、道徳的なためらい",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "quartet",
 		"word": "Quartet",
 		"part_of_speech": "noun",
 		"meaning": "四重奏、四人組",
-		"core": "四つの異なる個性が調和し、一つの音楽や活動を作り上げる完璧な最小集団"
+		"core": "四つの異なる個性が調和し、一つの音楽や活動を作り上げる完璧な最小集団",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "quaver",
 		"word": "Quaver",
 		"part_of_speech": "verb",
 		"meaning": "震える、震え声で話す",
-		"core": "恐怖や興奮、あるいは老いによって、声や身体が細かく不安定に揺れ動くこと"
+		"core": "恐怖や興奮、あるいは老いによって、声や身体が細かく不安定に揺れ動くこと",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "quay",
 		"word": "Quay",
 		"part_of_speech": "noun",
 		"meaning": "波止場、岸壁",
-		"core": "陸と海の境界。旅立ちと帰還を静かに見守る、石造りの頑丈な接点"
+		"core": "陸と海の境界。旅立ちと帰還を静かに見守る、石造りの頑丈な接点",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "queasy",
 		"word": "Queasy",
 		"part_of_speech": "adjective",
 		"meaning": "吐き気がする、不安な",
-		"core": "胃のあたりが落ち着かず、何かが決定的に間違っていると感じる時の不快な予感"
+		"core": "胃のあたりが落ち着かず、何かが決定的に間違っていると感じる時の不快な予感",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "quicken",
 		"word": "Quicken",
 		"part_of_speech": "verb",
 		"meaning": "加速する、活気づける",
-		"core": "生命（quick）が吹き込まれたように、スピードが上がり、脈拍が速まり、活力が漲ること"
+		"core": "生命（quick）が吹き込まれたように、スピードが上がり、脈拍が速まり、活力が漲ること",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "quiescent",
 		"word": "Quiescent",
 		"part_of_speech": "adjective",
 		"meaning": "静止した、休止中の",
-		"core": "エネルギーを内側に秘めたまま、表面上は静かに眠り、嵐の前の静けさを保っている状態"
+		"core": "エネルギーを内側に秘めたまま、表面上は静かに眠り、嵐の前の静けさを保っている状態",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "quietude",
 		"word": "Quietude",
 		"part_of_speech": "noun",
 		"meaning": "静寂、平穏",
-		"core": "外側の騒音だけでなく、内側の思考の波さえも収まった、深く透き通るような心の落ち着き"
+		"core": "外側の騒音だけでなく、内側の思考の波さえも収まった、深く透き通るような心の落ち着き",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "waive",
 		"word": "Waive",
 		"part_of_speech": "verb",
 		"meaning": "（権利などを）放棄する",
-		"core": "当然持っているはずの権利や主張を、自らの意志で脇へ退けること"
+		"core": "当然持っているはずの権利や主張を、自らの意志で脇へ退けること",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "wallow",
 		"word": "Wallow",
 		"part_of_speech": "verb",
 		"meaning": "転げ回る、溺れる",
-		"core": "泥や感情の渦の中にどっぷりと浸かり、そこから抜け出そうとせず、その感触を享受し続けること"
+		"core": "泥や感情の渦の中にどっぷりと浸かり、そこから抜け出そうとせず、その感触を享受し続けること",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "wane",
 		"word": "Wane",
 		"part_of_speech": "verb",
 		"meaning": "衰える",
-		"core": "光や力がピークを過ぎ、影が徐々に濃くなっていく静かな減退のプロセス"
+		"core": "光や力がピークを過ぎ、影が徐々に濃くなっていく静かな減退のプロセス",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "ward",
 		"word": "Ward",
 		"part_of_speech": "verb/noun",
 		"meaning": "かわす、防ぐ、病棟",
-		"core": "攻撃や災厄を遠ざけるために、境界線を引いて守りを固めること"
+		"core": "攻撃や災厄を遠ざけるために、境界線を引いて守りを固めること",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "warp",
 		"word": "Warp",
 		"part_of_speech": "verb/noun",
 		"meaning": "歪める、反らす",
-		"core": "本来あるべき真っ直ぐな形や性質が、熱や偏見によってねじ曲がってしまうこと"
+		"core": "本来あるべき真っ直ぐな形や性質が、熱や偏見によってねじ曲がってしまうこと",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "warrant",
 		"word": "Warrant",
 		"part_of_speech": "noun/verb",
 		"meaning": "正当な理由、保証する",
-		"core": "ある行動や判断を下すための、法的な、あるいは道徳的な「根拠」となるもの"
+		"core": "ある行動や判断を下すための、法的な、あるいは道徳的な「根拠」となるもの",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "wayward",
 		"word": "Wayward",
 		"part_of_speech": "adjective",
 		"meaning": "我がままな、予測不能な",
-		"core": "決められた道（way）から外れ（away）、自分の気分次第でどこへ行くか分からない強情さ"
+		"core": "決められた道（way）から外れ（away）、自分の気分次第でどこへ行くか分からない強情さ",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "weary",
 		"word": "Weary",
 		"part_of_speech": "adjective",
 		"meaning": "疲れ果てた、飽き飽きした",
-		"core": "長い旅や繰り返される日常によって、肉体と精神の「貯金」を使い果たしてしまった状態"
+		"core": "長い旅や繰り返される日常によって、肉体と精神の「貯金」を使い果たしてしまった状態",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "weld",
 		"word": "Weld",
 		"part_of_speech": "verb",
 		"meaning": "溶接する、密着させる",
-		"core": "異なる二つのものを、熱と圧力によって溶け合わせ、切り離せない一つの全体に作り変えること"
+		"core": "異なる二つのものを、熱と圧力によって溶け合わせ、切り離せない一つの全体に作り変えること",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "wellbeing",
 		"word": "Well-being",
 		"part_of_speech": "noun",
 		"meaning": "幸福、健康、安寧",
-		"core": "心身ともに健やかで、自分が自分であることを心から肯定できている満たされた状態"
+		"core": "心身ともに健やかで、自分が自分であることを心から肯定できている満たされた状態",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "wheedle",
 		"word": "Wheedle",
 		"part_of_speech": "verb",
 		"meaning": "言葉巧みに丸め込む",
-		"core": "甘い言葉や愛想笑いを使って、相手をいい気分にさせ、自分の思い通りに動かそうとすること"
+		"core": "甘い言葉や愛想笑いを使って、相手をいい気分にさせ、自分の思い通りに動かそうとすること",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "whimsical",
 		"word": "Whimsical",
 		"part_of_speech": "adjective",
 		"meaning": "気まぐれな",
-		"core": "現実の重力を無視し、空想と遊び心だけで形作られたような軽やかな不思議さ"
+		"core": "現実の重力を無視し、空想と遊び心だけで形作られたような軽やかな不思議さ",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "wisdom",
 		"word": "Wisdom",
 		"part_of_speech": "noun",
 		"meaning": "知恵、賢明さ",
-		"core": "単なる知識を超え、経験を通じて得た「どう生きるべきか」を正しく見分ける深い洞察力"
+		"core": "単なる知識を超え、経験を通じて得た「どう生きるべきか」を正しく見分ける深い洞察力",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "withdraw",
 		"word": "Withdraw",
 		"part_of_speech": "verb",
 		"meaning": "撤退する、引きこもる",
-		"core": "関わりを持っていた場所や関係から、自分の意志で手を引き、内側の安全な領域へと戻ること"
+		"core": "関わりを持っていた場所や関係から、自分の意志で手を引き、内側の安全な領域へと戻ること",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "wither",
 		"word": "Wither",
 		"part_of_speech": "verb",
 		"meaning": "しおれる、枯れる",
-		"core": "水分や情熱といった「潤い」が失われ、生気を失って小さく干からびていく悲劇的な変化"
+		"core": "水分や情熱といった「潤い」が失われ、生気を失って小さく干からびていく悲劇的な変化",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "woe",
 		"word": "Woe",
 		"part_of_speech": "noun",
 		"meaning": "悲痛、災難",
-		"core": "叫び声（wa!）を上げたくなるような、逃れようのない深い悲しみや不幸の連鎖"
+		"core": "叫び声（wa!）を上げたくなるような、逃れようのない深い悲しみや不幸の連鎖",
+		"era": "Unknown Era"
 	},
 	{
 		"id": "quotidian",
@@ -150235,5 +150417,78 @@ const WORDS = [
 		},
 		"source": "Merriam-Webster",
 		"era": "Old English (from Latin)"
+	},
+	{
+		"id": "husband",
+		"word": "Husband",
+		"meaning": "夫、主人",
+		"era": "Old Norse husbondi",
+		"concept": "House-dweller (家に住む主)",
+		"thinking": "家の主人、あるいはその土地に住み根を下ろす者。定住と管理が、かつての男性の根幹的な役割でした。",
+		"etymology": {
+			"components": [
+				"hus (house)",
+				"bondi (dweller)"
+			],
+			"original_statement": "From Old Norse husbondi, from hus 'house' + bondi 'dweller, householder'."
+		},
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の向こう側にある歴史の鼓動を感じてみてください。",
+		"example": "Etymology is a window to the ancient world.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"古き語源の中に、知の断片が隠されています。"
+			]
+		}
+	},
+	{
+		"id": "avatar",
+		"word": "Avatar",
+		"meaning": "化身、アバター",
+		"era": "Sanskrit avatāra",
+		"concept": "Descent (神の降臨)",
+		"thinking": "神々の「降臨」を示す重層的な言葉です。今ではデジタルの分身を指しますが、その背後には神話的な垂直の次元が隠れています。",
+		"etymology": {
+			"components": [
+				"ava (down)",
+				"tar- (to cross)"
+			],
+			"original_statement": "From Sanskrit avatāra, meaning 'descent'."
+		},
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の向こう側にある歴史の鼓動を感じてみてください。",
+		"example": "Etymology is a window to the ancient world.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"古き語源の中に、知の断片が隠されています。"
+			]
+		}
+	},
+	{
+		"id": "dandelion",
+		"word": "Dandelion",
+		"meaning": "タンポポ",
+		"era": "Old French dent de lion",
+		"concept": "Lion's tooth (ライオンの歯)",
+		"thinking": "ギザギザした葉がライオンの牙に見えたことから。道端の草花にすら、野生の荒々しさを見出す詩的な眼差しがあります。",
+		"etymology": {
+			"components": [
+				"dent (tooth)",
+				"de (of)",
+				"lion (lion)"
+			],
+			"original_statement": "From Old French dent-de-lion, literally 'lion's tooth'."
+		},
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の向こう側にある歴史の鼓動を感じてみてください。",
+		"example": "Etymology is a window to the ancient world.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"古き語源の中に、知の断片が隠されています。"
+			]
+		}
 	}
 ];
