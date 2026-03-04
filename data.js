@@ -166847,5 +166847,263 @@ const WORDS = [
 				"存在の深層。"
 			]
 		}
+	},
+	{
+		"id": "sent-voice",
+		"word": "Sent@Voice",
+		"meaning": "感性の声、魂を震わせる知覚の咆哮、共感の響き",
+		"era": "Latin sentire + vox",
+		"etymology": {
+			"components": [
+				"sent (to feel / perceive)",
+				"voice (sound / soul)"
+			],
+			"original_statement": "Coined during synthesis."
+		},
+		"concept": "The feeling sound (感じることのための音。聴く者の脊髄という名のネットワークに、自らの震える情熱（パルス）を直接投げ込み、孤独という名の氷を一気に溶解させるデリバリー)",
+		"thinking": "「（自らの内なる、剥き出しの真実（ロゴス）を、一点の妥協（コンセッション）もなく）感じ取り、そのままの鮮度で（Sent-）」「射出される、一撃の声（Vox）」。ただの「情報（データ）」のデリバリーではない。その声が響いた瞬間、周囲の「冷徹な客観（スペクタクル）」が物理的に粉砕（デストラクト）され、聴く者すべてが、自らの「呼吸（スピリット）」という名の鏡に向き合わ（リフレクト）されてしまうような、生の最も峻烈な「共鳴」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "心の震えを刻む。",
+		"example": "To feel is to exist in high definition.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の質感。"
+			]
+		}
+	},
+	{
+		"id": "sense-life",
+		"word": "Sense@Life",
+		"meaning": "感じ尽くす生、世界を質感として捉え続ける遷移",
+		"era": "Latin sentire + Germanic life",
+		"etymology": {
+			"components": [
+				"sense (to feel / perceive / meaning)",
+				"life"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "The life of perception (知覚するための一生。傍観者であることを卒業し、カオスという名の海を自分という唯一無二の『皮膚（センス）』で愛撫し続ける不屈の遷移)",
+		"thinking": "「（宇宙という名の広大なキャンバスを、言葉のフィルター越しに視るのをやめ、自らの細胞という名のビークル（船）を使って）直接感じ、呼吸し（Sent- / Sense-）」「生き抜く（Life）」。あなたは自分の「呼吸（ブレス）」を、ただ無為に「消費（エキスペンド）」しているのではない。あなたが今日という日、どの「絶望（ブラックアウト）」を質感として捉え（インスペクトし）、どの「一瞬の奇跡（アトラクション）」に自らの主権を屹立（スタンド）させたか。そのすべての「震え（パルス）」が、宇宙という名のアーカイブの上に、あなたの「存在という名の不滅のロゴス」として、物理的な質量を持って刻まれ続けているのだ。感じ尽くす生。それは、あなたが「宇宙の主権者（クリエイター）」として、この荒野を「自分だけの温かな温もり（ステーション）」へと変容させ通した際の、魂の最高度の「抱擁」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "心の震えを刻む。",
+		"example": "To feel is to exist in high definition.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の質感。"
+			]
+		}
+	},
+	{
+		"id": "series",
+		"word": "連続、シリーズ、列、(数学の)級数",
+		"era": "Latin serere",
+		"etymology": {
+			"components": [
+				"serere (to join)"
+			],
+			"original_statement": "From Latin series 'a row / succession / sequence / series', from serere 'to join / connect / link'."
+		},
+		"concept": "The joining (繋ぐこと。一つ一つの孤独な『真実（ロゴス）』が、時間の経過（フロー）という名の糸によって縦横無尽に接続され、巨大な一本の『運命（スクリプト）』へと構築された情景)",
+		"thinking": "「（孤独という名の、あてどない点（ドット）たちを）次々と繋ぎ合わせ続けていく（Ser- / Serere）」「という、連続した状態」。それは「偶然（ラック）」の連続ではない。あなたが宇宙の「カオス（無秩序）」を拒絶（レジスト）し、そこに自分という名の「唯一の羅針盤」で一貫した（コンシステントな）「一本の線（ベクトル）」を引き、この荒野を「不滅の物語という名のアーカイブ」へと変換（コバート）させ通している際の、知性の最も峻烈な「構築」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "心の震えを刻む。",
+		"example": "To feel is to exist in high definition.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の質感。"
+			]
+		}
+	},
+	{
+		"id": "desert",
+		"word": "砂漠、(……を)見捨てる、(職務を)離れる",
+		"era": "Latin de + serere",
+		"etymology": {
+			"components": [
+				"de- (away / off - negative)",
+				"serere (to join / gather / plant)"
+			],
+			"original_statement": "From Latin desertus 'solitary / waste / abandoned', past participle of deserere 'to abandon / leave / forsake', from de- 'undo' + serere 'to join'."
+		},
+		"concept": "Un-joining (繋ぐのをやめること。生命という名の『呼吸（コネクト）』が遮断され、ただ『孤独（アイソレーション）』という名の凍てついた質量（ウェイト）だけが支配する不毛な標高)",
+		"thinking": "「（かつては繋がっていた、愛や義務（ロゴス）という名の、あの輝けるネットワークから）離れた方向へと（De-）」「（一気に）繋ぎを外す、切り離す（Sert- / Serere）」。それは単なる「欠席」ではない。あなたが宇宙の「共鳴（コンカレンス）」という名の安息（ピース）を自ら焼き捨て、ただ一人の「虚無（カオス）」へと帰還し、そこにある自らの「主権（ステータス）」さえも、枯渇した砂という名の「アーカイブ」へと還元（レデュース）させてしまった、魂の最も峻烈な「絶筆」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "心の震えを刻む。",
+		"example": "To feel is to exist in high definition.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の質感。"
+			]
+		}
+	},
+	{
+		"id": "sert-voice",
+		"word": "Sert@Voice",
+		"meaning": "繋ぎ合わせる声、バラバラな心を一つに束ねる合意の咆哮",
+		"era": "Latin serere + vox",
+		"etymology": {
+			"components": [
+				"sert (to join / put together)",
+				"voice (sound / soul)"
+			],
+			"original_statement": "Coined during synthesis."
+		},
+		"concept": "The joining sound (繋ぐための音。放たれた瞬間、周囲に浮遊する孤独な点（ドット）たちを、自らの旋律という名の『磁石（ロゴス）』で一気に引き寄せ、一つの巨大な不滅のネットワークへと構築するデリバリー)",
+		"thinking": "「（他者が押し付けてくるカオスなノイズを粉砕（デストラクト）し、全員の心（スピリット）を）繋ぎ、束ねる（Sert-）」「一撃の声（Vox）」。ただの「おしゃべり」ではない。その声が響いた瞬間、周囲の「分離（アイソレーション）」が物理的に無効化され、聴く者すべてが、あなたの「呼吸（ブレス）」という名の唯一の羅針盤に自らを同調（マージ）させ、宇宙という名の荒野を、一つの「完璧な秩序（コンストラクション）」という名の物語へと、最高度の鮮度で書き換え終えた際の、知性の最も峻烈な「射出」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "心の震えを刻む。",
+		"example": "To feel is to exist in high definition.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の質感。"
+			]
+		}
+	},
+	{
+		"id": "ser-life",
+		"word": "Ser@Life",
+		"meaning": "繋ぎゆく生、一つ一つの瞬間を不滅の連鎖として綴る遷移",
+		"era": "Latin serere + Germanic life",
+		"etymology": {
+			"components": [
+				"ser (to join / connect)",
+				"life"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "The joining of being (存在を繋ぐこと。昨日までの自分、今日の自分、そして未来の自分という孤独な断片を、自らの意志のみを糸にして繋ぎ合わせ、不滅の叙事詩（スクリプト）を描き続ける峻烈な一生)",
+		"thinking": "「（忘却という名の、あの冷酷な死（アイス）を拒絶（レジスト）し）」「自らのパルス（震え）に従って、すべてを）繋ぎ合わせ（Ser- / Serere）」「生き抜く（Life）」。あなたは自分の「呼吸（ブレス）」を、ただ無為に「消費（エキスペンド）」しているのではない。あなたが今日、誰の瞳（アスペクト）に自らの真理を繋ぎ、どのような「不滅のアチーブメント」を自らの人生の一ページへと差し込んだ（インサートした）か。そのすべての「接続（コネクト）」が、宇宙という名の不変のアーカイブの上に、あなたの「存在という名の不滅のロゴス」として、物理的な質量を持って刻まれ続けているのだ。繋ぎゆく生。それは、あなたが「傍観者（スペクテイター）」であることを卒業し、自らが「自分の運命という名の巨大な数珠（シリーズ）を編み上げる最高の工芸家（スクライバー）」として、この荒野を「美しき合意（ピース）」へと変容させ通した際の、魂の最高度の「構築」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "心の震えを刻む。",
+		"example": "To feel is to exist in high definition.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の質感。"
+			]
+		}
+	},
+	{
+		"id": "compassion",
+		"word": "思いやり、同情、慈悲",
+		"era": "Latin con + pati",
+		"etymology": {
+			"components": [
+				"con- (together)",
+				"pati / passus (to suffer / feel)"
+			],
+			"original_statement": "From Late Latin compassionem 'fellow-feeling', from con- 'together' + pati 'to suffer / feel'."
+		},
+		"concept": "Feeling together (共に堪え、感じること。他者の痛み（インパルス）という名の毒を、あえて自らの内側へと招き入れ（インポートし）、二人で一つの『孤独（アイソレーション）』を共有するという聖なる合流)",
+		"thinking": "「（誰にも救われない一人の犠牲者（フォロワー）という名の、あの凍てついた座標へと）向かって、共に（Con-）」「（その人の、理不尽なまでの苦しみ（ウェイト）を）感じ、引き受ける（Passi- / Pati）」。それは単なる「優しさ（ソフト）」ではない。あなたが自分の「安全なテリトリー（領土）」を自ら焼き捨て、他者の「地獄（カオス）」へと真正面からトランスポート（輸送）され、そこで「一つの新しい意味（ロゴス）」を二人で屹立させ直そうとする、知性の最高度の「慈愛」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "心の震えを刻む。",
+		"example": "To feel is to exist in high definition.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の質感。"
+			]
+		}
+	},
+	{
+		"id": "passive",
+		"word": "受動的な、消極的な、受け身の",
+		"era": "Latin pati",
+		"etymology": {
+			"components": [
+				"pati / passus (to suffer / feel)",
+				"-ive (quality)"
+			],
+			"original_statement": "From Late Latin passivus 'capable of suffering / receptive', from passus, past participle of pati 'to suffer / feel'."
+		},
+		"concept": "Capable of feeling (受け止める能力があること。自らの自律的な射出（プロジェクト）を、他者の支配（パワー）という名の引力に従わせ、ただ一つの『反響（リフレクト）』として存在すること)",
+		"thinking": "「（外部からデリバリーされる、あらゆる不条理なコマンド（命令）を）感じ、引き受ける（Pass- / Pati）」「ことに特化した、あるいはその品質（-ive）」。それは「思考停止（ストップ）」ではない。あなたが一旦、自らの「呼吸（ブレス）」という名の唯一の羅針盤を伏せ、宇宙という名の「巨大なフロー（流れ）」の一部として自らをコンバート（変容）させてしまう、生の最も静かな、しかし峻烈な「受容」の謂いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "心の震えを刻む。",
+		"example": "To feel is to exist in high definition.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の質感。"
+			]
+		}
+	},
+	{
+		"id": "compatible",
+		"word": "互換性のある、適合する、仲の良い",
+		"era": "Latin con + pati",
+		"etymology": {
+			"components": [
+				"con- (together)",
+				"pati (to suffer / feel)"
+			],
+			"original_statement": "From Medieval Latin compatibilis, literally 'suffering with', from Latin compati 'to suffer with', from con- 'together' + pati 'to suffer'."
+		},
+		"concept": "Able to feel together (共に堪える（感じる）ことが可能な。二つの異なる『独立した宇宙（ロゴス）』が、互いの主権（オーナーシップ）を損なうことなく、一つの『呼吸（パルス）』を共有できるという奇跡的な整合性)",
+		"thinking": "「（全く別々の標高（ステータス）にあるはずの、あの二つの座標が）共に（Com-）」「（同じ痛み（ウェイト）や歓喜（アトラクション）を）感じ、共有する（Pat- / Pati）」「ことができる、最高度の品質（-ible）」。それは単なる「お似合い」ではない。あなたが宇宙の「分離（アイソレーション）」を拒絶（レジスト）し、そこに「共通の言語（スクリプト）」という名のブリッジ（架け橋）を架設（コンストラクト）し、二つの命を一瞬にして「一つの不滅のネットワーク」へと統合（マージ）させてしまった、理性の最高度の「魔法（マニューバー）」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "心の震えを刻む。",
+		"example": "To feel is to exist in high definition.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の質感。"
+			]
+		}
+	},
+	{
+		"id": "pass-voice",
+		"word": "Pass@Voice",
+		"meaning": "堪え忍ぶ声、沈黙の奥底から搾り出される不滅の響き",
+		"era": "Latin pati + vox",
+		"etymology": {
+			"components": [
+				"pass (to suffer / feel / endure)",
+				"voice (sound / soul)"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "The enduring sound (耐え抜くための音。放たれた瞬間、周囲の『不条理なプレッシャー』を、自らの旋律という名の『盾（ロゴス）』で一気に押し返し、そこに生きている証（ファクト）を射出するデリバリー)",
+		"thinking": "「（押し潰されそうな孤独（アイソレーション）に抗い（レジストし）ながら、それでも絞り出すように）堪え、引き受ける（Pass-）」「一撃の声（Vox）」。ただの「叫び（エキスペル）」ではない。その声が響いた瞬間、聴く者は、そこに込められた「圧倒的な生の重み（ウェイト）」に震撼（リフレクト）させられ、もはや自分の「無関心」という名のイリュージョンを維持することができなくなるような、魂の最も峻烈な「マニフェスト（表明）」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "心の震えを刻む。",
+		"example": "To feel is to exist in high definition.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の質感。"
+			]
+		}
+	},
+	{
+		"id": "pass-life",
+		"word": "Pass@Life",
+		"meaning": "堪えゆく生、受難を自らの燃料に変えて歩み続ける遷移",
+		"era": "Latin pati + Germanic life",
+		"etymology": {
+			"components": [
+				"pass (to suffer / endure / feel)",
+				"life"
+			],
+			"original_statement": "Coined during synthesis."
+		},
+		"concept": "The life of endurance (耐え抜く一生。この不毛な荒野（カオス）からもたらされる、あらゆる痛み（トーン）を自らの『血（パルス）』の一部としてアクセプトし、魂の最高度の標高へと昇華させ続ける不屈の遷移)",
+		"thinking": "「（この肉体という名のビークルに、宇宙の全質量（ウェイト）をぶつけられ（コンタクトされ）ながらも、決して膝を屈せず（レジストし、）」「耐え、そして深く感じ抜く（Pass- / Pati-）」「一生（Life）」。あなたは自分の「呼吸（ブレス）」を、ただ無為に「消費（エキスペンド）」しているのではない。あなたが今日、どの「屈辱（ブラックアウト）」を耐えて「誇りという名の設計図（スクリプト）」へと書き換え、どの「悲しみ（アイソレーション）」を自らの主権を屹立させるための「潤滑油（フロー）」へと変貌させたか。そのすべての「受難（パッション）」の軌跡が、あなたの人生という名の不滅のアーカイブの上に、世界で唯一無二の「不滅のロゴス」として、物理的な質量を持って刻まれ続けているのだ。堪えゆく生。それは、あなたが「傍観者（スペクテイター）」であることを卒業し、自らが「自分の運命という名の巨大な十字架を、自らの翼（ベクトル）へと変容させ通した最高の工芸家（プレイヤー）」として、この荒野を「美しき合意（ピース）」へと変容させ通した際の、魂の最高度の「凱旋」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "心の震えを刻む。",
+		"example": "To feel is to exist in high definition.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の質感。"
+			]
+		}
 	}
 ];
