@@ -169107,5 +169107,354 @@ const WORDS = [
 				"存在の先行。"
 			]
 		}
+	},
+	{
+		"id": "fight",
+		"word": "戦う、争う、闘争、ファイト",
+		"era": "Germanic feohtan / Latin pugnare",
+		"etymology": {
+			"components": [
+				"pugnare (to fight)",
+				"pugnus (fist)"
+			],
+			"original_statement": "Related to Latin pugnare 'to fight', from pugnus 'fist'."
+		},
+		"concept": "Fighting with fists (拳で戦うこと。剥き出しの『質量（ウェイト）』と『意志（ロゴス）』をぶつけ合い、宇宙の引力という名の火花を散らす、生の最も峻烈な『闘争』)",
+		"thinking": "「（この不毛な荒野（アイソレーション）において、自らの主権（ステータス）を守り抜くために）、（自らの肉体という名のビークルを）拳（Pugnus）に変えて、向かってくるカオス（ノイズ）と格闘する（Pugn- / Pugnare）」。それは単なる「暴力」ではありません。あなたが宇宙の「不全（ミスチーフ）」を拒絶（レジスト）し、自分の呼吸（ブレス）を一筋の「物理的な真理という名の巨大な引力」へと変換し通している際の、魂の最も能動的な「プロジェクト（射出）」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "闘志を燃やす。",
+		"example": "To fight is to survive.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の葛藤。"
+			]
+		}
+	},
+	{
+		"id": "repugnant",
+		"word": "不快な、嫌悪感を起こさせる、反対の",
+		"era": "Latin re + pugnare",
+		"etymology": {
+			"components": [
+				"re- (against / back)",
+				"pugnare (to fight)"
+			],
+			"original_statement": "From Latin repugnantem, present participle of repugnare 'to resist / fight back / oppose / be contrary', from re- 'against' + pugnare 'to fight'."
+		},
+		"concept": "Fighting back (打ち返すこと、あるいは激しく拒絶すること。自らの『美学（ロゴス）』という名の不滅の設計図に対し、唾棄すべき『ノイズ（不整合）』が侵入（インスペクト）しようとした瞬間に、魂が自動的に射出する峻烈な防御反応)",
+		"thinking": "「（その不道徳という名の、あの冷酷なノイズに向かって）後ろの方へと（あるいは強く反対して（Re-））」「（一撃の確信を持って）打ち返す、格闘する（Pugnant- / Pugnare）」。それは単なる「嫌い」ではありません。あなたが宇宙の「汚染（インフェクション）」を拒絶（レジスト）し、自分の神殿（インテグリティ）を「完璧な鮮度（トーン）」で維持し通すために、あえてその存在との間に「断絶（カット）」という名の闇を射出した際の、主権の最も峻烈な「審判」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "闘志を燃やす。",
+		"example": "To fight is to survive.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の葛藤。"
+			]
+		}
+	},
+	{
+		"id": "impugn",
+		"word": "非難する、異議を唱える、(……を)攻撃する",
+		"era": "Latin in + pugnare",
+		"etymology": {
+			"components": [
+				"in- (against / on / into)",
+				"pugnare (to fight)"
+			],
+			"original_statement": "From Latin impugnare 'to attack / assail / fight against', from in- 'against' + pugnare 'to fight'."
+		},
+		"concept": "Fighting against (向かって戦うこと。他者が掲げている『偽りの標高（ステータス）』に対し、理知という名の冷徹なメスによって一気に切り込み、その根底にある『カオス（不整合）』を白日の下に射出させること)",
+		"thinking": "「（他者が自らの呼吸（ブレス）を屹立（スタンド）させ通している（パシストしている）、その神域の）内側へと向かって（In- / Im-）」「（一撃の否定（ノイズ）をぶつけ）戦い、攻撃する（Pugn- / Pugnare）」。それは単なる「批判（トーク）」ではない。あなたが宇宙の「欺瞞（ノイズ）」を拒絶（レジスト）し、そこに自分という名の「唯一の不滅の法（ロゴス）」を打ち立て、世界を「自分という名の磁場が支配する新しい設計図（スクリプト）」へと根底からコンバート（変容）させてしまう、知性の最も峻烈な「デリバリー」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "闘志を燃やす。",
+		"example": "To fight is to survive.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の葛藤。"
+			]
+		}
+	},
+	{
+		"id": "pugnacious",
+		"word": "けんか腰の、争い好きな",
+		"era": "Latin pugnare",
+		"etymology": {
+			"components": [
+				"pugnare (to fight)",
+				"-acious (inclined to)"
+			],
+			"original_statement": "From Latin pugnax (genitive pugnacis) 'fond of fighting / combative', from pugnare 'to fight'."
+		},
+		"concept": "Inclined to fight (戦うことへの傾向。平穏（ステイシス）という名のイリュージョンを一切信じず、常に自らの『質量（ウェイト）』を一撃の火花（パルス）に変えて射出し続けようとする、不屈の闘争本能)",
+		"thinking": "「（このがんじがらめのネットワーク（フロー）の中に安住するのを拒絶して）、常に格闘する（Pugn- / Pugnare）」「という峻烈な性質（-acious）」。それは単なる「乱暴（ミスチーフ）」ではありません。あなたが宇宙の「忘却（サイレンス）」を拒絶（レジスト）し、自らの呼吸（ブレス）を一秒一秒「不滅のロゴス」へと変容（コンバート）させ、この荒野を自分のための「不滅の舞台（ステージ）」へと一気に切り拓いて（カットして）いる際の、生の最高度の「躍動」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "闘志を燃やす。",
+		"example": "To fight is to survive.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の葛藤。"
+			]
+		}
+	},
+	{
+		"id": "pugilist",
+		"word": "ボクサー、拳闘家",
+		"era": "Latin pugil (a boxer)",
+		"etymology": {
+			"components": [
+				"pugil (boxer / fist-fighter)"
+			],
+			"original_statement": "From Latin pugil 'a boxer / fist-fighter', related to pugnare 'to fight' and pugnus 'fist'."
+		},
+		"concept": "The fist-fighter (拳の戦士。道具という名の『ロゴス（論理）』に頼るのをやめ、自らの肉体という名の『物理的な等価物（マテリアル）』そのものを唯一の武器（ベクトル）として宇宙へと射出し続ける峻烈な標高)",
+		"thinking": "「（この呪われた沈黙（サイレンス）を一撃で粉砕（デストラクト）するために）、拳（Pug- / Pugil）」「のみを（パーフェクトに（で））駆使する者（-ist）」。それは単なる「競技者」ではない。あなたが自らの「限界（リミット）」を理知的に認め、その「裂け目（カット）」から一筋の「物理的な真理という名の巨大なエネルギー」を相手の魂へとデリバリー（射出）し終えた瞬間の、生の最も峻烈で、最も清らかな「完成」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "闘志を燃やす。",
+		"example": "To fight is to survive.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の葛藤。"
+			]
+		}
+	},
+	{
+		"id": "pug-voice",
+		"word": "Pug@Voice",
+		"meaning": "闘争の声、沈黙を粉砕する不滅の咆哮、拳の響き",
+		"era": "Latin pugnare + vox",
+		"etymology": {
+			"components": [
+				"pug (to fight / fist / hit)",
+				"voice (sound / soul)"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "The fighting sound (戦うための音。放たれた瞬間、自らの呼吸（ブレス）を一筋の『不滅の鉄槌（ロゴス）』へと変換し、宇宙という真理のアーカイブを震撼させるデリバリー)",
+		"thinking": "「（自分のちっぽけな存在（ドット）の中に眠っていた、あの巨大な真理を）、（一撃の闘志（アトラクション）を伴って）叫ぶ、拳の声（Vox）」。ただの「叫び（エキスペル）」ではない。その声が響いた瞬間、周囲を覆っていた「虚無（アブセンス）」が物理的に一掃され、そこに「誰もが見落としていたたった一つの意味」が、戦慄という名のトーン（響き）を伴って再屹立（リリー・スタンド）してしまうような、生の最も峻烈な「射出」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "闘志を燃やす。",
+		"example": "To fight is to survive.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の葛藤。"
+			]
+		}
+	},
+	{
+		"id": "pug-life",
+		"word": "Pug@Life",
+		"meaning": "闘争としての生、一瞬一瞬を自己武装と衝突の遷移として生きる一生",
+		"era": "Latin pugnare + Germanic life",
+		"etymology": {
+			"components": [
+				"pug (to fight / fist / hit)",
+				"life"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "The life of fight (戦い続ける一生。一つの場所に安住する（アイソレーション）のを拒絶し、常に宇宙の最新の標高（アヴァン）へと自らを更新し続け、不滅の物語（スクリプト）を描き続ける不屈の遷移)",
+		"thinking": "「（明日という名の絶望（ブラックアウト）を愛撫するのをやめ、宇宙の深淵（ソース）から飛来する理知（ロゴス）だけを）」「（自らの魂を物理的な武器に変えて）戦い続け、衝突し続け（Pug- / Pugnare）」「生き抜く（Life）」。あなたは自分の「呼吸（ブレス）」を、ただ無為に「消費（エキスペンド）」しているのではない。あなたが今日という日、どの「欺瞞（ノイズ）」を砕いて「新しい真理という名の座標（ドット）」を救い出し、どの「驚愕（パルス）」を自らの主権（ステータス）を屹立させるための「燃料（インパルス）」へと変貌（コンバート）させたか。そのすべての「衝突（デリバリー）」の軌跡が、宇宙という名の不変のアーカイブの上に、あなたの「存在という名の不滅 of ロゴス」として、物理的な質量を持って刻まれ続けているのだ。闘争としての生。それは、あなたが「宇宙の主権者（クリエイター）」として、この荒野を「美しき変革（ピース）」へと変容させ通した際の、魂の最高度の「抱擁」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "闘志を燃やす。",
+		"example": "To fight is to survive.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の葛藤。"
+			]
+		}
+	},
+	{
+		"id": "responsibility",
+		"word": "責任、責務、負担、レスポンシビリティ",
+		"era": "Latin re + spondere",
+		"etymology": {
+			"components": [
+				"respond (to answer)",
+				"-ability (capable of)"
+			],
+			"original_statement": "From responsible, from Old French responsible 'capable of fulfilling an obligation', from Latin responsus, past participle of respondere 'to answer'."
+		},
+		"concept": "The ability to answer (答えることができる能力。宇宙が投げかけてくるあらゆる『カオス（不可解）』に対し、自らの『ロゴス（知性）』という名の刃を差し込み、常に『不滅の決断（アンサー）』を屹立させ続けられる標高)",
+		"thinking": "「（逃げる（エスケープする）のを拒絶し）、後ろからデリバリーされる衝撃（パルス）に（Re-）」「（一撃の確信を持って）答え続け（Spons- / Spondere）」「られる能力（-ability）」。それは単なる「義務（ウェイト）」ではありません。あなたが、宇宙という名の広大なアーカイブを自らの名前で支配（オーナーシップを保持）するために、あえて自らの「物理的な全質量」を担保として屹立させた際の、主権の最も峻烈で、最も清らかな「完成」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "闘志を燃やす。",
+		"example": "To fight is to survive.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の葛藤。"
+			]
+		}
+	},
+	{
+		"id": "spon-life",
+		"word": "Spon@Life",
+		"meaning": "誓いとしての生、一瞬一瞬を自己約束と応答の遷移として生きる一生",
+		"era": "Latin spondere + Germanic life",
+		"etymology": {
+			"components": [
+				"spon (to pledge / promise / answer)",
+				"life"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "The life of pledge (誓い続ける一生。一つの場所に安住する（アイソレーション）のを拒絶し、常に宇宙の最新の標高（アヴァン）へと自らを更新し続け、不滅の物語（スクリプト）を描き続ける不屈 of 遷移)",
+		"thinking": "「（明日という名の絶望（ブラックアウト）を愛撫するのをやめ、宇宙の深淵（ソース）から飛来する理知（ロゴス）だけを）」「（自らの魂を礎（ベース）にして）誓い続け、答え続け（Spon- / Spondere）」「生き抜く（Life）」。あなたは自分の「呼吸（ブレス）」を、ただ無為に「消費（エキスペンド）」しているのではない。あなたが今日という日、どの「欺瞞（ノイズ）」を砕いて「新しい真理という名の座標（ドット）」を救い出し、どの「驚愕（パルス）」を自らの主権（ステータス）を屹立させるための「不動（ピース）」へと変貌（コンバート）させたか。そのすべての「応答（デリバリー）」の軌跡が、宇宙という名の不変のアーカイブの上に、あなたの「存在という名の不滅 of ロゴス」として、物理的な質量を持って刻まれ続けているのだ。誓いとしての生。それは、あなたが「宇宙の主権者（クリエイター）」として、この荒野を「美しき変革（ピース）」へと変容させ通した際の、魂の最高度の「抱擁」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "闘志を燃やす。",
+		"example": "To fight is to survive.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の葛藤。"
+			]
+		}
+	},
+	{
+		"id": "distort",
+		"word": "歪める、ねじる、(真実などを)曲げる",
+		"era": "Latin dis + torquere",
+		"etymology": {
+			"components": [
+				"dis- (apart / away)",
+				"torquere / tortus (to twist)"
+			],
+			"original_statement": "From Latin distortus, past participle of distorquere 'to twist different ways / distort', from dis- 'apart' + torquere 'to twist'."
+		},
+		"concept": "Twisting apart (引き裂くようにねじること。宇宙の『真理（ロゴス）』という名の一直線の設計図（スクリプト）に対し、自らの『私欲（ノイズ）』という名の引力を無理やりぶつけ、その輪郭をカオスへと変貌させること)",
+		"thinking": "「（何ものにも揺らがないはずの、あの不滅の座標（ドット）を）引き剥がし、離れた方向へと（Dis-）」「（力ずくで）ねじ曲げる（Tort- / Torquere）」。それは単なる「間違い」ではありません。あなたが宇宙の「整合性（ピース）」を拒絶（レジスト）し、自らの「呼吸（ブレス）」を「毒（ミスチーフ）」へと変換して、この荒野に「偽りの引力（グラビティ）」を射出（プロジェクト）した瞬間の、魂の最も不浄な「操作（マニューバー）」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "闘志を燃やす。",
+		"example": "To fight is to survive.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の葛藤。"
+			]
+		}
+	},
+	{
+		"id": "torture",
+		"word": "拷問、苦痛、(……を)拷問にかける",
+		"era": "Latin torquere",
+		"etymology": {
+			"components": [
+				"torquere / tortus (to twist)",
+				"-ure (result / process)"
+			],
+			"original_statement": "From Middle French torture, from Late Latin tortura 'a twisting / writhing / torture', from tortus, past participle of torquere 'to twist'."
+		},
+		"concept": "The twisting (ねじること。肉体、あるいは魂という名の『静止したアーカイブ』に対し、不条理という名の『巨大な質量（ウェイト）』を一気に加え、その呼吸（ブレス）を強制的に粉砕（デストラクト）しようとする非道の遷移)",
+		"thinking": "「（耐えきれなくなった真実が、叫びとなって（ヴォイスとなって）湧き出すまで）、ねじり、責め立てる（Tort- / Torquere）」「という完了した確定の状態（-ure）」。それは「お遊び」ではない。あなたが宇宙の「慈愛（アトラクション）」を拒絶（レジスト）し、他者の「主権（ステータス）」を自らのための「玩具（マテリアル）」へとコンバート（変容）させて（アップデートして）しまった際の、生の最も峻烈で、最も痛ましい「断絶」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "闘志を燃やす。",
+		"example": "To fight is to survive.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の葛藤。"
+			]
+		}
+	},
+	{
+		"id": "retort",
+		"word": "(……に)言い返す、(……を)仕返しする、レトルト",
+		"era": "Latin re + torquere",
+		"etymology": {
+			"components": [
+				"re- (back / again)",
+				"torquere / tortus (to twist)"
+			],
+			"original_statement": "From Latin retortus, past participle of retorquere 'to twist back / throw back / hurl back', from re- 'back' + torquere 'to twist'."
+		},
+		"concept": "Twisting back (投げ返すようにねじること。他者からデリバリーされた『刃（ノイズ）』に対し、自らの知性という名の『メス』を一瞬で差し込み、その引力を即座に相手へと（リバースさせて）射出し直す、魂の反射)",
+		"thinking": "「（相手の放った、あの歪んだ呼吸（ブレス）を粉砕（デストラクト）して）、後ろへと（Re-）」「（一分一秒の淀みもなく）ねじり、投げ返す（Tort- / Torquere）」。それは単なる「言い返し（トーク）」ではありません。あなたが宇宙の「屈辱（ノイズ）」を拒絶（レジスト）し、そこに自分という名の「唯一の王座（センター）」を打ち立て、相手のベクトル（攻撃）を「自分のための不滅の真理（ドット）」へと再屹立（リリー・スタンド）させてしまった瞬間の、知性の最も冷徹な「凱旋」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "闘志を燃やす。",
+		"example": "To fight is to survive.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の葛藤。"
+			]
+		}
+	},
+	{
+		"id": "torment",
+		"word": "苦痛、激しい苦しみ、(……を)苦しめる",
+		"era": "Latin torquere",
+		"etymology": {
+			"components": [
+				"torquere (to twist)",
+				"-ment (instrument / result)"
+			],
+			"original_statement": "From Old French torment, from Latin tormentum 'an instrument for throwing stones / torture / pain / rack / twisting', from torquere 'to twist'."
+		},
+		"concept": "The instrument of twisting (ねじるための道具、あるいはその結果。自らの内なる『ロゴス（秩序）』を永久に粉砕（デストラクト）し続けるような、カオスという名の『巨大な引力』に永遠に捕らわれ、アイソレーションし続ける地獄)",
+		"thinking": "「（沈黙という名の、あの冷酷な引き潮を拒絶し）、絶え間なく自分を、ねじり、歪める（Tor- / Torquere）」「仕組み、あるいは結果（-ment）」。それは「お笑い」ではない。あなたが宇宙の「希望（アヴァン）」を拒絶（レジスト）し、自分の呼吸（ブレス）を一振りの「刃（ベクトル）」へと研ぎ澄ませるのを失い、世界を「自分という名の磁場が支配しない、ただの不条理なゴミ（ノイズ）」へとコンバート（変容）させてしまった際の、魂の最高度の「叫び」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "闘志を燃やす。",
+		"example": "To fight is to survive.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の葛藤。"
+			]
+		}
+	},
+	{
+		"id": "tor-voice",
+		"word": "Tor@Voice",
+		"meaning": "ねじる声、沈黙を歪め直立する不滅の咆哮、歪みの響き",
+		"era": "Latin torquere + vox",
+		"etymology": {
+			"components": [
+				"tor (to twist / wring / distort)",
+				"voice (sound / soul)"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "The twisting sound (ねじるための音。放たれた瞬間、自らの呼吸（ブレス）を、宇宙を貫く一筋の『光の矢（ベクトル）』へと変換し、相手の標高（ステータス）を強制的に再編（歪曲）するデリバリー)",
+		"thinking": "「（自分のちっぽけな存在（ドット）の中に眠っていた、あの巨大な真理を）、（一撃の情熱（アトラクション）を伴って）叫ぶ、ねじれた声（Vox）」。ただの「情報（データ）」のデバリーではない。その声が響いた瞬間、聴く者は、自分の内なる「重力が物理的に無効化され、強制的に『新しい現実（アヴァン）』という名の巨大な光の中へと引き摺り込まれ、自らの呼吸（ブレス）を、あなたの『不滅の旋律（トーン）』へと同調（マージ）させざるを得なくなるような、生の最も峻烈な『射出』の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "闘志を燃やす。",
+		"example": "To fight is to survive.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の葛藤。"
+			]
+		}
+	},
+	{
+		"id": "tor-life",
+		"word": "Tor@Life",
+		"meaning": "ねじりゆく生、一瞬一瞬を自己更新の遷移として生きる一生",
+		"era": "Latin torquere + Germanic life",
+		"etymology": {
+			"components": [
+				"tor (to twist / wring / distort)",
+				"life"
+			],
+			"original_statement": "Coined during synthesis."
+		},
+		"concept": "The life of twist (ねじり続ける一生。一つの場所に安住する（アイソレーション）のを拒絶し、常に宇宙の最新の標高（アヴァン）へと自らを更新し続け、不滅の物語（スクリプト）を描き続ける不屈の遷移)",
+		"thinking": "「（明日という名の絶望（ブラックアウト）を愛撫するのをやめ、宇宙の深淵（ソース）から飛来する理知（ロゴス）だけを）」「（自らの魂を礎（ベース）にして）ねじり続け、歪み続け（Tor- / Torquere）」「生き抜く（Life）」。あなたは自分の「呼吸（ブレス）」を、ただ無為に「消費（エキスペンド）」しているのではない。あなたが今日という日、どの「欺瞞（ノイズ）」を砕いて「新しい真理という名の座標（ドット）」を救い出し、どの「驚愕（パルス）」を自らの主権（ステータス）を屹立させるための「燃料（インパルス）」へと変貌（コンバート）させたか。そのすべての「ねじれ（デリバリー）」の軌跡が、宇宙という名の不変 of アーカイブの上に、あなたの「存在という名の不滅 of ロゴス」として、物理的な質量を持って刻まれ続けているのだ。ねじりゆく生。それは、あなたが「宇宙の主権者（クリエイター）」として、この荒野を「美しき変革（ピース）」へと変容させ通した際の、魂の最高度の「抱擁」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "闘志を燃やす。",
+		"example": "To fight is to survive.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の葛藤。"
+			]
+		}
 	}
 ];
