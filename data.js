@@ -153914,5 +153914,1000 @@ const WORDS = [
 			]
 		},
 		"part_of_speech": "noun"
+	},
+	{
+		"id": "recipe",
+		"word": "Recipe",
+		"meaning": "調理法、処方、秘訣",
+		"era": "Latin recipere",
+		"etymology": {
+			"components": [
+				"re- (back)",
+				"capere (to take)"
+			],
+			"original_statement": "Imperative of Latin recipere 'to take / receive / take back', from re- 'back' + capere 'to take'."
+		},
+		"concept": "Take this (これを受け取れ。託された知恵の命令形)",
+		"thinking": "医師が処方箋の冒頭に書いた「Take（受け取れ！）」という命令形が語源です。食材をどう選び、どう扱うか。それは誰かが長い時間をかけて見出した、健康と喜びへの「確かな導き」を、命令という強い意志であなたに託したものなのです。",
+		"aftertaste": "古いノートのレシピ。そこには、誰かがあなたを想った優しさが書き込まれています。",
+		"example": "This chocolate cake recipe is very easy to follow.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kap",
+					"meaning": "take / hold"
+				}
+			],
+			"points": [
+				"Receive, Receipt, Accept と同根",
+				"もとは料理ではなく、医学用語としての出発でした"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "discipline",
+		"word": "Discipline",
+		"meaning": "規律、しつけ、学問分野、鍛錬",
+		"era": "Latin discipulus",
+		"etymology": {
+			"components": [
+				"discere (to learn)"
+			],
+			"original_statement": "From Latin disciplina 'instruction given to a disciple', from discipulus 'pupil', from discere 'to learn'."
+		},
+		"concept": "The way of the pupil (弟子の道、学び続けるための刃)",
+		"thinking": "「学ぶ者（Discipulus）」として分をわきまえ、教えを自分の血肉にすること。規律とは、外部からの拘束ではなく、自分がより高い高みに登るために、自らの中に作り出した「知の階段」なのです。自分を律することが、最大の自律を生みます。",
+		"aftertaste": "あなたの「規律」は、あなたを縛っていますか？それとも、あなたを自由（高み）へと導いていますか？",
+		"example": "Self-discipline is key to achieving your goals.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "dek",
+					"meaning": "to take / accept"
+				}
+			],
+			"points": [
+				"Disciple (弟子), Doctor と同根",
+				"13世紀、宗教的な僧院生活のあり方を指す言葉として定着"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "domestic",
+		"word": "Domestic",
+		"meaning": "家庭の、国内の、飼い慣らされた",
+		"era": "Latin domus",
+		"etymology": {
+			"components": [
+				"domus (house)"
+			],
+			"original_statement": "From Latin domesticus 'belonging to the household', from domus 'house'."
+		},
+		"concept": "Of the house (家の内側、安らぎと秩序の空間)",
+		"thinking": "「家（Domus）」に属するもの。外の風から守られ、家族という最も小さな社会のルールが支配する場所。そこは外の世界と戦うための「拠点」であり、最も素の自分に戻れる聖域でもあります。",
+		"aftertaste": "あなたの家の灯り。それは世界からあなたを隠し、守ってくれる優しさです。",
+		"example": "Daily domestic chores like cooking and cleaning.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "dom",
+					"meaning": "house"
+				}
+			],
+			"points": [
+				"Dome, Domain, Dominate と同根",
+				"15世紀にフランス語から借用され定着"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "cancel",
+		"word": "Cancel",
+		"meaning": "取り消す、中止する、格子状に線を引く",
+		"era": "Latin cancellare",
+		"etymology": {
+			"components": [
+				"cancelli (lattice / crossbars)"
+			],
+			"original_statement": "From Latin cancellare 'to make like a lattice / strike out', from cancelli 'lattice / crossbars'."
+		},
+		"concept": "Lattice marking (格子線で消す。境界を越える抹消)",
+		"thinking": "文字の上に「格子（Cancelli）」のように×印や線を引いて、その効力を否定すること。かつて、記録の重みを物理的な「檻（格子）」の中に閉じ込めるような身振りであり、一つの可能性を閉じて、別の流れを創り出すための断絶です。",
+		"aftertaste": "消すことは、新しい空白（可能性）を作ること。迷わず「×」を引いて、次へ進みましょう。",
+		"example": "He decided to cancel his subscription.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kark",
+					"meaning": "bend / lattice"
+				}
+			],
+			"points": [
+				"Cancer (蟹座: 格子状の甲羅), Chancellor (格子の中で働く人) と同根",
+				"14世紀、法律文書を無効にする際の物理的な所作が語源"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "salaryman",
+		"word": "Salaryman",
+		"meaning": "サラリーマン、給与生活者",
+		"era": "Japanese English (Latin sal)",
+		"etymology": {
+			"components": [
+				"sal (salt)",
+				"man (person)"
+			],
+			"original_statement": "Pseudo-English coined in Japan, combining Latin salary 'salt-money' + English man."
+		},
+		"concept": "Salt-earning man (塩を稼ぐ人、安定という名の誇り高き労働)",
+		"thinking": "和製英語。かつてのローマ兵士が「塩（Sal）」を求めたように、現代の戦士たちも安定という糧を求めて企業という戦場で戦う。それは決して嘲笑されるべきものではなく、自らの生命力を社会の歯車として、着実に価値へと変換させる静かなる強さを指しています。",
+		"aftertaste": "今日も誰かのために、自分の時間を「塩」に変えて生活を支える。その誇り高き尊厳を。",
+		"example": "The life of a typical salaryman is often busy.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sal",
+					"meaning": "salt"
+				}
+			],
+			"points": [
+				"和製英語特有の『組織に属して安定を得る人』というイメージの定着",
+				"Salary の語源を最も端的に体現した現代用語"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "vacation",
+		"word": "Vacation",
+		"meaning": "休暇、休み、空位",
+		"era": "Latin vacatio",
+		"etymology": {
+			"components": [
+				"vacare (to be empty / free)"
+			],
+			"original_statement": "From Latin vacatio 'freedom from duty / leisure', from vacare 'to be empty / free'."
+		},
+		"concept": "Being empty (空っぽであること。役割を脱ぎ捨てた純粋な空白)",
+		"thinking": "自分の中にある義務や責任を一度「空っぽ（Vac）」にすること。埋めるための「物」ではなく、単なる「空き（空白）」そのものを楽しむ時間。何者でもなくなることで、あなたは初めて、本来の自分自身の呼吸を取り戻すことができます。",
+		"aftertaste": "空っぽであるからこそ、新しい風がそこを吹き抜けることができます。",
+		"example": "We are planning a vacation to Hawaii this summer.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "eue",
+					"meaning": "empty"
+				}
+			],
+			"points": [
+				"Vacuum, Vacant, Void と同根",
+				"14世紀から『自由であること』を指すポジティブな言葉へ"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "parlor",
+		"word": "Parlor",
+		"meaning": "居間、談話室、店",
+		"era": "Old French parler",
+		"etymology": {
+			"components": [
+				"parler (to speak)"
+			],
+			"original_statement": "From Old French parloir 'place for speaking', from parler 'to speak'."
+		},
+		"concept": "A place for speaking (言葉が交わされる場所、心の交流点)",
+		"thinking": "「話す（Parler）」ための場所。単なる部屋ではなく、人々が集まり、互いの声を反響させ、新しい物語を紡ぎ出すための神聖な「対話の受け皿」です。沈黙を破り、誰かと繋がるための最初の入り口です。",
+		"aftertaste": "あなたの心の「パーラー」に、今日は誰を招き入れてお喋りしますか？",
+		"example": "We sat in the parlor and sipped tea.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "parl",
+					"meaning": "speak"
+				}
+			],
+			"points": [
+				"Parliament (議会), Parley と同根",
+				"13世紀、僧院の面会室が語源でした"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "refrigerator",
+		"word": "Refrigerator",
+		"meaning": "冷蔵庫",
+		"era": "Latin refrigeratus",
+		"etymology": {
+			"components": [
+				"re- (intensive)",
+				"frigus (cold)"
+			],
+			"original_statement": "From Latin refrigeratus, past participle of refrigerare 'to cool / make cold', from frigus 'cold'."
+		},
+		"concept": "Making cold again (時の流れを凍らせる。生命の保存装置)",
+		"thinking": "徹底的に「冷やす（Frig）」。それは単なる温度の低下ではなく、生命の腐敗という時間の残酷な歩みを、一時的に「凍らせて」止めること。命という名の、壊れやすい恵みを守り続ける、献身的な冷たい心臓です。",
+		"aftertaste": "扉を開けるたび、あなたは過去に託された食材という名の時間を、今へと引き戻しています。",
+		"example": "Keep the milk in the refrigerator.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "srig",
+					"meaning": "cold / ice"
+				}
+			],
+			"points": [
+				"Frigid, Refresh と繋がる",
+				"17世紀以前は『高熱を下げる薬』を指すことも"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "pajama",
+		"word": "Pajama",
+		"meaning": "パジャマ、寝巻き",
+		"era": "Persian pay-jama",
+		"etymology": {
+			"components": [
+				"pay- (leg)",
+				"jama (garment / clothing)"
+			],
+			"original_statement": "From Hindi pajama, from Persian pae-jamah, literally 'leg garment'."
+		},
+		"concept": "Leg garment (足を包む布、リラックスへの境界線)",
+		"thinking": "本来はペルシア語の「足（Pay）」を包む「布（Jama）」。一日の義務という鎧を脱ぎ捨てて、自分という存在を、最も柔らかく、最も自由な状態へと戻すための緩衝材です。眠りという深淵に旅立つための、心の準備運動でもあります。",
+		"aftertaste": "パジャマに着替える時、あなたは一旦「役職」も「役割」も捨てて、ただの自分に戻ります。",
+		"example": "She wore comfortable pajamas to bed.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "pod / ped",
+					"meaning": "foot"
+				}
+			],
+			"points": [
+				"Persian 'pa' is related to Latin 'ped'",
+				"19世紀にイギリス人がインドから持ち帰って流行"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "utensil",
+		"word": "Utensil",
+		"meaning": "用具、器具、(特に)家庭用品",
+		"era": "Latin utensils",
+		"etymology": {
+			"components": [
+				"uti (to use)"
+			],
+			"original_statement": "From Old French utensile, from Latin utensilis 'fit for use / useful', from uti 'to use'."
+		},
+		"concept": "Fit for use (使うために存在する、機能の化身)",
+		"thinking": "単にそこにあるのではなく、ある目的を果たすために、その形へと収束した「器」。それは人間が世界と道具を通して関わり、自らの意思を具体的な形に変えてきた、数千年の試行錯誤の結晶です。",
+		"aftertaste": "道具を大切に扱うこと。それは、それを作った者の知恵、そしてそれを使う自分の機能を愛することです。",
+		"example": "Kitchen utensils like knives and spoons.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "oi",
+					"meaning": "believe / use / take"
+				}
+			],
+			"points": [
+				"Use, Utility, Usual と同根",
+				"14世紀に『家の中の便利なもの』を指して定着"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "envelope",
+		"word": "Envelope",
+		"meaning": "封筒、包み、(ウイルスなどの)外殻",
+		"era": "Old French envelopper",
+		"etymology": {
+			"components": [
+				"en- (in)",
+				"voluper (to wrap)"
+			],
+			"original_statement": "From Old French envelopper 'to wrap up / cover / surround', related to voluper 'to fold'."
+		},
+		"concept": "Folding inside (内側に包み込むこと。秘密と安全の皮膜)",
+		"thinking": "「中へ（En）」「包み（Volup）」込む。大切な言葉や想いを、外部のノイズから隔離し、目的地に届くまで完璧な「静寂」の中に封印すること。それは他者の視線から自分の一部を守り抜く、謙虚で慎重な境界線です。",
+		"aftertaste": "開ける前の期待。それは封筒という名の皮膚が、中身という魂を守り抜いているために生まれる甘美な予感です。",
+		"example": "Place the letter inside the envelope.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "wel",
+					"meaning": "turn / roll / wrap"
+				}
+			],
+			"points": [
+				"Volume, Revolution, Valve と同根",
+				"17世紀、手紙が公的にやり取りされるようになって生まれた言葉"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "towel",
+		"word": "Towel",
+		"meaning": "タオル、手拭き",
+		"era": "Frankish twahila",
+		"etymology": {
+			"components": [
+				"thwahan (to wash)"
+			],
+			"original_statement": "From Frankish twahila 'washing cloth', from Proto-Germanic root thwahan 'to wash'."
+		},
+		"concept": "The washing cloth (洗うための布、水気を吸い取る慈しみ)",
+		"thinking": "「洗う（Thwah）」ための道具。濡れた自分をそのままにせず、その水分を自らの繊維で吸い取り、優しく乾いた状態へと戻してくれるもの。それは自分以外の誰かから差し出される、最もシンプルで直接的な「介抱」の形です。",
+		"aftertaste": "乾いた清潔なタオル。その柔らかさは、あなたが再び世界を歩き出すための準備です。",
+		"example": "Dry your hands with a clean towel.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "tew",
+					"meaning": "wash"
+				}
+			],
+			"points": [
+				"13世紀、中世ヨーロッパの清潔への意識の芽生えと共に定着",
+				"現代の柔らかいパイル地への進化の歴史"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "pouch",
+		"word": "Pouch",
+		"meaning": "小袋、ポーチ、(有袋類の)育児嚢",
+		"era": "Old French poche",
+		"etymology": {
+			"components": [
+				"poke (bag / sac)"
+			],
+			"original_statement": "From Old French poche 'bag / pocket / purse'."
+		},
+		"concept": "The little pocket (小さな袋、守るべき場所)",
+		"thinking": "もとは「ポケット（Poche）」と同じ。身体の外側にありながら、自分の大切なものを一つに纏め、移動しても離さない「外部の胃袋」のような役割。それは自分の所有物を一つの「意味」へと凝縮し、守り抜くための自律した空間です。",
+		"aftertaste": "あなたのポーチの中の小物たち。それはあなたの「今」を支えるために選ばれた精鋭部隊です。",
+		"example": "He kept his coins in a small leather pouch.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "beu",
+					"meaning": "to swell / blow"
+				}
+			],
+			"points": [
+				"Pocket, Poke (つつく→袋に入れる), Budget と実は同格の根",
+				"膨らんだ形そのものを指す言葉"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "fever",
+		"word": "Fever",
+		"meaning": "熱、発熱、熱狂",
+		"era": "Latin febris",
+		"etymology": {
+			"components": [
+				"febris (fever / heat)"
+			],
+			"original_statement": "From Latin febris 'fever', related to fovere 'to warm / cherish / heat'."
+		},
+		"concept": "The cherishing heat (内なる浄化の火、生命の守護的燃焼)",
+		"thinking": "身体が「温まる（Fovere）」こと。それは単なる体温の上昇ではなく、内部に不純物を感じ取った時、自らを「火」という極限状態に置くことで、すべてを焼き尽くし、清浄に戻そうとする生命の賢明で激しい「防衛のサイン」なのです。",
+		"aftertaste": "熱が出る時、あなたの身体はあなたのために戦っている愛の炎であふれています。",
+		"example": "He took some medicine to reduce his fever.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "dhegh",
+					"meaning": "burn"
+				}
+			],
+			"points": [
+				"Day (日が輝く時間) とも遠い親戚",
+				"古代では神が身体を浄化している印とも信じられました"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "medicine",
+		"word": "Medicine",
+		"meaning": "薬、医学、呪術",
+		"era": "Latin mederi",
+		"etymology": {
+			"components": [
+				"mederi (to heal / cure / take measures)"
+			],
+			"original_statement": "From Latin medicina 'the healing art', from medicus 'physician', from mederi 'to heal / cure'."
+		},
+		"concept": "The art of measuring (測り修復すること、調和を取り戻す処置)",
+		"thinking": "「適切な処置を講じる（Mederi）」こと。単なる物質ではなく、崩れた均衡を測り直し、元の正しい位置に「据え直す」知恵の体系を指します。それは不完全な存在である人間が、自然の理（ことわり）と和解するための、最も高度な手続きです。",
+		"aftertaste": "治癒とは、自然界との契約を更新し、再び世界との調和を誓うことです。",
+		"example": "You should take your medicine with water.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "med",
+					"meaning": "take measures / counsel / heal"
+				}
+			],
+			"points": [
+				"Meditation (瞑想), Moderate, Modest と同格の根",
+				"14世紀以前は宗教的な『魔力』も内包していました"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "patient",
+		"word": "Patient",
+		"meaning": "忍耐強い、我慢強い、患者",
+		"era": "Latin pati",
+		"etymology": {
+			"components": [
+				"pati (to suffer / endure)"
+			],
+			"original_statement": "From Latin patientem 'suffering / enduring', from pati 'to endure / undergo / suffer'."
+		},
+		"concept": "The suffering one (耐え忍ぶ者、受容という名の強さ)",
+		"thinking": "静かに「耐える（Pati）」こと。他者の助けを借りなければならない、あるいは時間の経過を待たなければならない時、自らの無力さを認め、ただひたすらに状況を受け入れる謙虚さ、そして、屈しない意志の姿を体現しています。待つことは、意志の最高形態です。",
+		"aftertaste": "病床に伏す時も、何かの成果を待つ時も、あなたは力強く「生きる」という忍耐を貫いています。",
+		"example": "The doctor has many patients in the waiting room.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "pei",
+					"meaning": "hurt / harm / suffer"
+				}
+			],
+			"points": [
+				"Passion (受難), Pathos と親戚",
+				"能動的な『活動』の対極としての『受容性』"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "clinic",
+		"word": "Clinic",
+		"meaning": "クリニック、診療所、実地教育",
+		"era": "Ancient Greek kline",
+		"etymology": {
+			"components": [
+				"kline (bed)"
+			],
+			"original_statement": "From French clinique, from Latin clinicus 'physician that visits patients in bed', from Greek kline 'bed / couch'."
+		},
+		"concept": "Beside the bed (枕元に寄り添う知、安らぎの地)",
+		"thinking": "病者の「ベッド（Kline）」を囲んで、そこにある具体的な苦痛と向き合うこと。大学の講堂ではなく、一人の人間が横たわるその場所こそが、知識が「救い」へと変容する最も尊い最前線です。",
+		"aftertaste": "寄り添うこと。そこからすべての「治癒」は始まります。",
+		"example": "A walk-in clinic provides immediate care.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "klei",
+					"meaning": "to lean / bend / slope"
+				}
+			],
+			"points": [
+				"Inclination, Recline, Climax と繋がる",
+				"寄りかかるための場所＝安らぎ"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "hygiene",
+		"word": "Hygiene",
+		"meaning": "衛生、清潔、健康法",
+		"era": "Ancient Greek Hygieia",
+		"etymology": {
+			"components": [
+				"Hygieia (Goddess of Health)"
+			],
+			"original_statement": "From Greek hygieia 'health', from Hygieia, the goddess of health, daughter of Asclepius."
+		},
+		"concept": "Living in health (健康の女神の祝福、清涼なる生の維持)",
+		"thinking": "健康の女神「ヒュギエイア（Hygieia）」に由来します。それは病気を治すことではなく、最初から健やかで「生命力に満ちている」状態。汚れを落とす行為は、ただの作業ではなく、あなたの命の清らかな輝きを守り抜くための儀式なのです。",
+		"aftertaste": "清潔さは、自分の命を、そして他者の命を、神聖なものとして扱う最初の一歩です。",
+		"example": "Good personal hygiene prevents the spread of germs.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "gwiy",
+					"meaning": "to live"
+				}
+			],
+			"points": [
+				"Quick, Zodiac, Biology と共有する根",
+				"医学そのものよりも『予防』を重視した女神の概念"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "tonic",
+		"word": "Tonic",
+		"meaning": "滋養強壮剤、元気づけるもの、主音、緊張の",
+		"era": "Ancient Greek tonos",
+		"etymology": {
+			"components": [
+				"tonos (tension / tone / stretching)"
+			],
+			"original_statement": "From Greek tonikos 'of stretching', from tonos 'tension / tone / stretching', from teinein 'to stretch'."
+		},
+		"concept": "Stretching into health (ピンと張り詰めた生命感、回復する旋律)",
+		"thinking": "緩みきった弦を「ピンと張る（Tein）」こと。トニックとは、生命の「張り」を取り戻し、全身に凛としたリズムを響かせるための刺激です。音楽も薬も、本質的には魂のチューニングを整えるための共通の「音」なのです。",
+		"aftertaste": "あなたの魂。今日はどの音にチューニングして、新しい一日を奏でますか？",
+		"example": "A brisk walk is a good tonic for the mind.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ten",
+					"meaning": "stretch"
+				}
+			],
+			"points": [
+				"Tendency, Intense, Extend と同根",
+				"17世紀に筋肉の緊張を促す薬として名付けられました"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "virus",
+		"word": "Virus",
+		"meaning": "ウイルス、毒、病原体",
+		"era": "Latin virus",
+		"etymology": {
+			"components": [
+				"uis (slimy liquid / poison)"
+			],
+			"original_statement": "From Latin virus 'poison / sap of plants / slimy liquid'."
+		},
+		"concept": "The potent slime (強烈なる毒、生命をもどかしき境界)",
+		"thinking": "本来は植物が放つ「ねばねばした毒（Uis）」。生命でもなく、非生命でもない。ただ情報の「毒」として、私たちの生命というホストの中に侵入し、自らを複製し続ける謎。それは宇宙が私たちに課した、最も根源的で不可解な「試練」の一形態なのかもしれません。",
+		"aftertaste": "強き毒は、時としてそれを乗り越えた者に「新しい強さ（免疫）」を授けます。",
+		"example": "The computer virus infected all the files.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "weis",
+					"meaning": "to melt / flow"
+				}
+			],
+			"points": [
+				"Viscous (粘り気のある), Ooze と同根",
+				"医学的な存在が証明される数千年前から『毒』として呼ばれていました"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "menu",
+		"word": "Menu",
+		"meaning": "メニュー、献立、選択範囲",
+		"era": "Latin minūtus",
+		"etymology": {
+			"components": [
+				"minūtus (small)"
+			],
+			"original_statement": "From French menu 'detailed list', literally 'small / minute', from Latin minutus 'small / lessened'."
+		},
+		"concept": "The minute list (細密なる一覧、無限の中の有限なる選択)",
+		"thinking": "もとは「詳細な（Minute）」一覧。膨大な可能性の中から、その時に提供し得る「小さな（Menu）」選りすぐりをリストにしたもの。選択肢があることは自由の証であり、メニューを選ぶことは、自分の未来を自分で「決定」する楽しみでもあります。",
+		"aftertaste": "あなたの今日。どんな一日にするか、最高の『メニュー』を自分で作ってみませんか？",
+		"example": "Can I see the lunch menu, please?",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "mei",
+					"meaning": "small / lessen"
+				}
+			],
+			"points": [
+				"Minute, Minus, Minimum と同根",
+				"1710年、フランスの宴会の詳細リストから広まりました"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "restaurant",
+		"word": "Restaurant",
+		"meaning": "レストラン、飲食店",
+		"era": "Latin restaurare",
+		"etymology": {
+			"components": [
+				"re- (again)",
+				"staurare (to set up / establish)"
+			],
+			"original_statement": "From French restaurant 'a restorative', from restaurer 'to restore / provide food for', from Latin restaurare 'restore / repair / renew'."
+		},
+		"concept": "The restorative place (回復の場所、魂を再び立て直す聖域)",
+		"thinking": "「再び（Re）」「立て直す（Staur）」。18世紀のフランスで、滋養強壮に良いスープ（レストラン＝回復させるもの）を出し、疲れた胃腸を癒やしたことが始まりです。外食とは、単なる満腹のためではなく、疲れ果てた自分を「復元」させるための特別な場所なのです。",
+		"aftertaste": "美味しい料理と静かな時間。あなたは今日、そこで何を取り戻しましたか？",
+		"example": "They decided to open a small French restaurant.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "st",
+					"meaning": "to stand"
+				}
+			],
+			"points": [
+				"Restore, Store, Stable と共通の根",
+				"1765年、スープ売りのブーランジェが命名"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "napkin",
+		"word": "Napkin",
+		"meaning": "ナプキン、手拭き",
+		"era": "Latin mappa",
+		"etymology": {
+			"components": [
+				"nappe (tablecloth)",
+				"-kin (little)"
+			],
+			"original_statement": "From Old French nappe 'tablecloth' + Middle English diminutive suffix -kin 'little'."
+		},
+		"concept": "The little tablecloth (小さな食卓の布、指先の尊厳を守るもの)",
+		"thinking": "「テーブルクロス（Nappe）」の「小さな（-kin）」版。食事という神聖な（しかし汚れやすい）行為において、自分と他者の視線の境界線を清潔に保つための最低限の配慮を指します。汚れを拭い去る布は、あなたの所作という美意識の「盾」なのです。",
+		"aftertaste": "ナプキンを膝に広げる。その一瞬の仕草に、あなたという人間の気品が宿ります。",
+		"example": "He folded his napkin and placed it on the table.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "map",
+					"meaning": "cloth / signal"
+				}
+			],
+			"points": [
+				"Map (地図: もとは布に描いたもの) と語源が同じ",
+				"14世紀、汚れを隠すための実用品からマナーへ"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "spoon",
+		"word": "Spoon",
+		"meaning": "スプーン、匙(さじ)",
+		"era": "Old English spon",
+		"etymology": {
+			"components": [
+				"spon (chip of wood)"
+			],
+			"original_statement": "From Old English spon 'chip of wood / thin piece of wood'."
+		},
+		"concept": "A chip of wood (木の一片、流体を掬うための掌の拡張)",
+		"thinking": "もとは「木のかけら（Spon）」。手のひらだけでは零れてしまう大切な液体を、器用に掬い上げ、零さずに自分の内へと運ぶための「掌（たなごころ）の洗練された拡張」です。もっとも古い、温かな食事を支えてきた素朴な道具です。",
+		"aftertaste": "熱いスープを一口。木の一片から始まったその繊細な器が、今日もあなたの命を温めます。",
+		"example": "He used a silver spoon to eat the soup.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "spe",
+					"meaning": "long piece of wood"
+				}
+			],
+			"points": [
+				"German language 'Span' (木片) と同根",
+				"金属製になる前、人々は森の一部を掬い取って食べていました"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "utensils",
+		"word": "Utensils",
+		"meaning": "調理器具、用具",
+		"era": "Latin uti",
+		"etymology": {
+			"components": [
+				"uti (to use)"
+			],
+			"original_statement": "From Latin utensilis 'fit for use', related to uti 'to use'."
+		},
+		"concept": "Form for use (機能が具現化した形、目的に従う美)",
+		"thinking": "すべては「使う（Uti）」という明快な目的のために。切る、掬う、挟む、混ぜる。人間が世界と道具を通して関わってきた数千年の工夫が、その形一つひとつに、嘘のない「機能美」として刻み込まれています。",
+		"aftertaste": "道具の名前を一つ一つ呼んでみる。そこには、使うことを喜びとした人類の歴史が宿っています。",
+		"example": "Kitchen utensils should be organized well.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ut",
+					"meaning": "to use"
+				}
+			],
+			"points": [
+				"Useful, Utility と同根",
+				"14世紀にフランス語から借用"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "cork",
+		"word": "Cork",
+		"meaning": "コルク、栓",
+		"era": "Latin quercus",
+		"etymology": {
+			"components": [
+				"quercus (oak)"
+			],
+			"original_statement": "From Spanish corcho, from Latin quercus 'oak tree'."
+		},
+		"concept": "The skin of the oak (オークの樹皮、保存される時間と空気の断絶)",
+		"thinking": "オーク（樫の木）の樹皮。植物は、外部の過酷な環境から自らの水分と生命を守るために、自らの「外皮」を厚く、弾力のあるものへと進化させました。それは今、美味しい物語（ワインや薬）を時の劣化から守るための、最後の「門番」として君臨しています。",
+		"aftertaste": "コルクを抜く音。それは、封印されていた過去の時間が、今という空気に触れて目覚める合図です。",
+		"example": "The wine cork was hard to remove.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kerp",
+					"meaning": "bark"
+				}
+			],
+			"points": [
+				"14世紀末にスペイン語・低地ドイツ語経由で定着",
+				"樹木が自らを守るための防御機能の利用"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "candle",
+		"word": "Candle",
+		"meaning": "ろうそく",
+		"era": "Latin candere",
+		"etymology": {
+			"components": [
+				"candere (to shine / be white)"
+			],
+			"original_statement": "From Latin candere 'to shine / be white / glow'."
+		},
+		"concept": "Pure glowing white (白く輝くもの、闇を裂く一点の誠実な炎)",
+		"thinking": "「白く輝く（Candere）」こと。自分の身を少しずつ「消費」し、それをすべて「光」へと変換し続ける献身的な美しさ。それは太陽が降り注ぐような万能な光ではなく、足元の一歩、あるいは目の前の大切な人の横顔だけを照らし出す、謙虚で誠実な光なのです。",
+		"aftertaste": "自らを燃やして誰かを照らす。その潔い消滅の中に、究極の存在意義が宿ります。",
+		"example": "A single candle lit up the dark room.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kand",
+					"meaning": "glow / white"
+				}
+			],
+			"points": [
+				"Candid (率直な), Candidate (候補者: 白い服を着た人) と同根",
+				"古英語の時代から神聖な光の象徴でした"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "aisle",
+		"word": "Aisle",
+		"meaning": "通路、側廊",
+		"era": "Latin ala",
+		"etymology": {
+			"components": [
+				"ala (wing)"
+			],
+			"original_statement": "From Old French ele, from Latin ala 'wing'."
+		},
+		"concept": "The wing path (翼の下の通り道、飛翔するための助走空間)",
+		"thinking": "教会の「脇道」を「翼（Ala）」に見立てた。それは正面の権威的な空間から少し外れた、静かで個人的な思索のための「翼」の下の通り道。今では店の一列を指す実務的な言葉となりましたが、そこには今も、羽ばたく前の静止した空気感が、どこか漂っています。",
+		"aftertaste": "何かと何かの間に、空虚という名の。しかし大切な通り道（翼）があります。",
+		"example": "Please keep the aisle clear for passengers.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ak",
+					"meaning": "sharp / point"
+				}
+			],
+			"points": [
+				"Alary (翼の), Axillary (脇の下の) と同根",
+				"15世紀、建築の『側廊』としてイギリスに定着"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "grocery",
+		"word": "Grocery",
+		"meaning": "食料雑貨、食料品店",
+		"era": "Latin grossus",
+		"etymology": {
+			"components": [
+				"grossus (large / gross)"
+			],
+			"original_statement": "From Old French grossier, from Latin grossus 'thick / coarse / large'. Original sense of 'wholesaler' (one who sells in gross)."
+		},
+		"concept": "Dealing in gross (一括して扱うこと、命の総量を司る場所)",
+		"thinking": "本来は「まとめて（Gross）」売る「卸売」のこと。個々の小さな食材を、一つの店舗という大きな器に、膨大な総量として集約したもの。それは家庭という小さなユニットが、世界という巨大な食糧供給のネットワークと出会う、最も基本的で賑やかな窓口なのです。",
+		"aftertaste": "袋いっぱいの食材。そこには、一週間という時間を豊かに生き延びるための、命の総量が詰まっています。",
+		"example": "He went to the grocery store to buy some bread.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ghuer",
+					"meaning": "heavy / gross"
+				}
+			],
+			"points": [
+				"Gross (粗い/総計), Engross (夢中にさせる＝すべて飲み込む) と同根",
+				"14世紀、大規模な取引を行う商人ギルドを指して誕生"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "discount",
+		"word": "Discount",
+		"meaning": "割引、軽視する",
+		"era": "Latin dis- + computare",
+		"etymology": {
+			"components": [
+				"dis- (away)",
+				"computare (to count)"
+			],
+			"original_statement": "From Old French descompter, from dis- 'away' + compter 'to count', from Latin computare 'to calculate / count together'."
+		},
+		"concept": "Counting away (計算から外すこと、不要なものを削ぎ落とした純粋な価値)",
+		"thinking": "本来の計算から「一部を（Dis-）」「数え（Count）」ないこと。価値を減らすことではなく、不要なマージンや期待（重み）を取り除き、今この瞬間に取引可能な、最も「身軽な」価格へと価値を再定義すること。それは、現実的な一致点を探るための、お互いの譲歩という名の知恵です。",
+		"aftertaste": "安くなったから買う。それは、あなたがそのものの「剥き出しの価値」を選び取ったということです。",
+		"example": "The store offers a substantial discount on all items.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "pe",
+					"meaning": "count"
+				}
+			],
+			"points": [
+				"Counter, Compute, Accountability と繋がる",
+				"17世紀の商業革命と共に広まった合理的な概念"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "receipt",
+		"word": "Receipt",
+		"meaning": "レシート、領収書、受け取ること、処方箋",
+		"era": "Latin recipere",
+		"etymology": {
+			"components": [
+				"re- (back)",
+				"capere (to take)"
+			],
+			"original_statement": "From Latin receptum 'received', past participle of recipere 'to take back / receive'."
+		},
+		"concept": "Taken back (受け取られた証、完了した契約の化身)",
+		"thinking": "「受け取られた（Recept）」ことの記録。単なる紙片ではなく、自分から離れた財力と、新しく迎え入れた物質（あるいは体験）が、この世界で正しく「交換」されたことを証明する、極めて法的な信頼の結晶です。交換によって、物語は完結します。",
+		"aftertaste": "財布の中のレシート。それは、あなたが今日、誰と何を、どのような想いで交換したかという、一日の日記でもあります。",
+		"example": "Always ask for a receipt as proof of purchase.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kap",
+					"meaning": "take / hold"
+				}
+			],
+			"points": [
+				"Recipe (レシピ), Receive と完全に同意。受け取れ！という命令がレシピに、受け取った証がレシートに",
+				"16世紀以前は、医学の処方箋そのものを指していました"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "door",
+		"word": "Door",
+		"meaning": "ドア、扉、入り口",
+		"era": "Old English duru",
+		"etymology": {
+			"components": [
+				"duru (gate / entrance)"
+			],
+			"original_statement": "From Old English duru, related to Proto-Germanic root dur- 'gate'."
+		},
+		"concept": "The threshold of passage (境界線の通過、二つの世界を分かつ面)",
+		"thinking": "「通過（Dur）」そのもの。扉は壁ではなく、ある世界から全く別の世界へと「移動する」ための装置です。開けることは冒険を、閉じることは安全を意味する。私たちは一日の中で、無数の扉を、自らの手で「選択」し、潜り抜けることで運命を動かしているのです。",
+		"aftertaste": "扉を閉める音。それは一つの物語が終わり、新しい時間が自分を待っている合図です。",
+		"example": "Please close the door behind you.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "dhwer",
+					"meaning": "door / gate / doorway"
+				}
+			],
+			"points": [
+				"Foreign (門の外の), Forum (門の前) と同格の根",
+				"すべての文明に共通する、境界と通過の象徴"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "stair",
+		"word": "Stair",
+		"meaning": "階段、段位",
+		"era": "Old English stæger",
+		"etymology": {
+			"components": [
+				"stigan (to climb)"
+			],
+			"original_statement": "From Old English stæger, from Proto-Germanic root stigan 'to climb'."
+		},
+		"concept": "The climbing path (登るための道、重力を克服する歩みの集積)",
+		"thinking": "一歩一歩「登る（Stigan）」。階段は、一足飛びには行けない「高み」を、人間の身の丈に合わせた「小さな一段」に分割して、目的へと導いてくれる慈悲深い装置です。自分の限界を超えて上昇し、視点を変えるための、垂直なる努力の痕跡です。",
+		"aftertaste": "最後の一段。そこを登りきった時にだけ見える新しい景色。それを信じて、今の一段を着実に。",
+		"example": "We took the stairs instead of the elevator.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "steigh",
+					"meaning": "to stride / climb"
+				}
+			],
+			"points": [
+				"Stile, Sty (豚小屋: もとは登って入るもの) と同根",
+				"垂直移動を可能にした、建築史上最も重要な発明の一つ"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "mirror",
+		"word": "Mirror",
+		"meaning": "鏡、反映、手本",
+		"era": "Latin mirari",
+		"etymology": {
+			"components": [
+				"mirari (to wonder at / admire)"
+			],
+			"original_statement": "From Old French mireoir, from Latin mirari 'to wonder at / look at with amazement'."
+		},
+		"concept": "To wonder at (驚いて見つめる。自己を他者として眺める奇跡)",
+		"thinking": "自分の外見を客観的に「驚きをもって眺める（Mirari）」ための道具。鏡とは、決して自分自身そのものではなく、光という名の仲介者を通して映し出された、自らの「写し鏡（Reflect）」。他者の目というフィルターを借りて、自分の「在り方」を再点検する、内省のための装置なのです。",
+		"aftertaste": "鏡に映る自分。その瞳の奥にいる「本当のあなた」に、今日、挨拶しましたか？",
+		"example": "The mirror on the wall was framed in gold.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "smeiros",
+					"meaning": "to smile / wonder"
+				}
+			],
+			"points": [
+				"Smile (驚いて微笑む), Miracle, Marvel と同根",
+				"13世紀、それまでの池の水面や金属板に代わる反射装置として登場"
+			]
+		},
+		"part_of_speech": "noun"
 	}
 ];
