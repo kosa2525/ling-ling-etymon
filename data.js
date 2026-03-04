@@ -164519,5 +164519,426 @@ const WORDS = [
 				"日常という名の、驚異的な建築。"
 			]
 		}
+	},
+	{
+		"id": "subtraction",
+		"word": "引き算、控除、減少",
+		"era": "Latin sub + trahere",
+		"etymology": {
+			"components": [
+				"sub- (under / below)",
+				"trahere (to pull / draw)"
+			],
+			"original_statement": "From Latin subtractionem, from subtrahere 'to draw away from under / withdraw / take away', from sub- 'under' + trahere 'to draw'."
+		},
+		"concept": "Pulling from under (下から引き抜くこと。積み上げた『積み木』の底を抜き、全体を賢明にスリム化する技法)",
+		"thinking": "「（目の前にある山のような質量（マテリアル）の）下の方から（Sub-）」「（不必要な断片を）引き抜く（Tract-）」「行為（-ion）」。それは単なる「欠落（ルーズ）」ではない。あなたが「足し算（アディクション）」という名の装飾に耽るのをやめ、余計な「贅肉（ウェイト）」をそぎ落とす（カット）ことで、物事の「真の姿（スケルトン）」をより鮮明に、より峻烈に屹立（スタンド）させようとする、知的な「そぎ落とし」の美学。引き算（サブトラクション）とは、あなたが「持つこと」の虚無（カオス）を悟り、何がない（Less）がゆえに豊かであるか（リッチ）を発見（ディスカバー）した、という理性の逆転した「獲得」の形式なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Everyday words are the pulleys of civilization.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"日常に潜む、凄まじい引力。"
+			]
+		}
+	},
+	{
+		"id": "attract-voice",
+		"word": "Attract@Voice",
+		"meaning": "引き寄せる声、魂を揺さぶる言葉の重力",
+		"era": "Latin ad + trahere + vox",
+		"etymology": {
+			"components": [
+				"attract (to draw toward)",
+				"voice (sound / soul)"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "The gravitational sound (重力を持った音。聴く者の理性を奪い、話し手という中心点へとなだれ込ませる響き)",
+		"thinking": "「（聴く者の心を）こちらへと（Ad-）」「強烈に引き寄せる（Tract-）」「声（Vox）」。ただの「情報（データ）」のデリバリーではない。その声が響いた瞬間、周囲の空間（ネットワーク）に変歪（インフレクション）が生じ、そこにいた人々が、あたかも不可視の糸で操られる（マニピュレート）かのように、その「言葉の源泉（ソース）」へと意識を一気に滑落（スリップ）させてしまうこと。引き寄せる声。それは、あなたが自らの「呼吸（ブレス）」を「巨大な磁場（マグネット）」へと変換し、世界の「沈黙（サイレンス）」を自分の物語のための「拍手（アプローズ）」へと変えきってしまった際の、魂の最も根源的な「引力（パワー）」のことなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Everyday words are the pulleys of civilization.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"日常に潜む、凄まじい引力。"
+			]
+		}
+	},
+	{
+		"id": "tract-spirit",
+		"word": "Tract@Spirit",
+		"meaning": "魂の牽引力、不屈の意思の糸",
+		"era": "Latin trahere + spiritus",
+		"etymology": {
+			"components": [
+				"tract (to pull / draw)",
+				"spirit (breath / soul)"
+			],
+			"original_statement": "Coined during synthesis."
+		},
+		"concept": "The pulling power of the breath (呼吸が描き出す引く力。絶望を過去へと引きずり去り、未来を現在へと手繰り寄せる力)",
+		"thinking": "「（重苦しい沈黙という名の泥沼から、自分自身の生を）力強く引きずり出し（Tract-）」「（明日という名の地平線へと繋ぎ止める）呼吸、あるいは魂（Spirit）」。あなたは、運命という名の「荒馬（カオス）」に引きずられているのではない（受動的なアディクトではない）。自らの魂という名の「一本の鋼のワイヤー（ロゴス）」を未来に打ち込み、そこを拠点にして、自分の「現在の質量（ウェイト）」を、自分の望む「高度（ステータス）」へと一歩ずつ、しかし猛烈な力で「引き寄せ（アトラクト）」ているのだ。魂の牽引力。それは、あなたが世界の「抵抗（レジスト）」を自らの燃料へと変換（コンバート）し、この不毛な荒野を「自分のための物語」へと書き換える（スクライブ）ための、知性の最も「力強い歩み（プログレス）」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Everyday words are the pulleys of civilization.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"日常に潜む、凄まじい引力。"
+			]
+		}
+	},
+	{
+		"id": "vehicle",
+		"word": "車両、乗り物、手段、(薬の)賦形剤",
+		"era": "Latin vehere",
+		"etymology": {
+			"components": [
+				"vehere (to carry / travel)",
+				"-cle (small / tool)"
+			],
+			"original_statement": "From French véhicule, from Latin vehiculum 'means of transport / carriage / vehicle', from vehere 'to carry'."
+		},
+		"concept": "A tool for carrying (運ぶための装置。肉体の脆弱な足（ペド）を、機械的な速度（インペタス）へと変換する船)",
+		"thinking": "「（自分や荷物を）運ぶ（Veh-）」「ための具体的な道具（-icle）」。それは単なる「便利な物」ではありません。あなたが「一歩一歩（グラデーション）」の労力をスキップ（エクスペダイト）し、空間という名の「抵抗（レジスト）」を理知の力で切り裂いて、自分の望む目的地（デスティネーション）へと自分の「生命（パルス）」を最短距離で射出（プロジェクト）するための、拡張された「翼（ウィング）」。乗り物（ビークル）とは、あなたが大地の「重力（グラビティ）」という名の主権をあえて無視し、自らの「意志（ロゴス）」を動力へと変換して、世界全域を自分の「庭（テリトリー）」へと変えてしまった（エクスプロア）、という文明の最も峻烈な「成果（ファクト）」の謂いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Everyday words are the pulleys of civilization.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"日常に潜む、凄まじい引力。"
+			]
+		}
+	},
+	{
+		"id": "conveyance",
+		"word": "輸送(機)、運搬、譲渡証書(法律)",
+		"era": "Latin con + vehere",
+		"etymology": {
+			"components": [
+				"convey (to carry along)",
+				"-ance (act / state)"
+			],
+			"original_statement": "From convey + -ance."
+		},
+		"concept": "The act of carrying (運ぶという行為、あるいはその具体的な入れ物。自分を越境させるための、信頼という名の船)",
+		"thinking": "「（大切なものを、目的地へと）共に運び、送り届ける（Convey-）」「という一回きりの、あるいは永続的な行為、あるいはそのための具体的な手段（-ance）」。それは単なる「荷役」ではなく、ある場所から別の場所へと「価値（ステータス）」を移動させる（トランスポート）という、理性の神聖な「契約（コントラクト）」の遂行。輸送（コンベイヤンス）とは、あなたが世界の「距離（ディスタンス）」という名の壁を、言葉や機械という名の「船（ベッセル）」を使って無力化し、自らの「意志（ロゴス）」を宇宙という広大なキャンバスのあらゆる点へと「デリバリー（配布）」し終えた、という文明的な「勝利（アチーブメント）」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Everyday words are the pulleys of civilization.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"日常に潜む、凄まじい引力。"
+			]
+		}
+	},
+	{
+		"id": "vehicular",
+		"word": "車両の、(病気が)乗り物媒介の、(文)硬い文体の",
+		"era": "Latin vehere",
+		"etymology": {
+			"components": [
+				"vehicle (tool for carrying)",
+				"-ar (of / related to)"
+			],
+			"original_statement": "From vehicle + -ar."
+		},
+		"concept": "Of the carrying tool (運ぶ装置に関する。肉体の美しさではなく、動力と効率という名の『外骨格』)",
+		"thinking": "「（物理的な移動や、あるいは思想の伝達を司る）車両、あるいは手段（Vehicul-）」に「関する（-ar）」。あなたが「自分の足（ペド）」で地面の泥を噛み締めて（コンタクト）歩くのをやめ、機械という名の「補助輪（アシスト）」や、流行という名の「既存の物語（プラットフォーム）」に乗って、自らの生を効率的に（エフィシェント）トランスポート（輸送）しようとしている状態。車両に関する（ビヒキュラーな）視点とは、あなたが自らの「人間的な温かみ（トーン）」を一瞬保留（ホールド）し、社会という名の「巨大な交通システム（ネットワーク）」の中の一つの「記号（パルス）」として、冷静に（ディスタンス）機能し始めた、という理性の「機能的な（ファンクショナル）」な変貌の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Everyday words are the pulleys of civilization.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"日常に潜む、凄まじい引力。"
+			]
+		}
+	},
+	{
+		"id": "inveigh",
+		"word": "猛烈に抗議する、痛烈に非難する",
+		"era": "Latin in + vehere",
+		"etymology": {
+			"components": [
+				"in- (against / in)",
+				"vehere (to carry / attack)"
+			],
+			"original_statement": "From Latin invehi 'to attack with words / scold', literally 'to be carried into / against', from in- 'against' + vehere 'to carry'."
+		},
+		"concept": "Being carried against (向かって運ばれる、突撃すること。言葉という名の戦車を走らせ、正しさを粉砕する猛攻)",
+		"thinking": "「（不正や偽善が行われている現場の）中へと（In-）」「（怒りという名の重力に身を任せて、自分自身の言葉を）突進させ、運びぶつける（Veigh- / Vehere）」。それは「上品な反論（コントラディクション）」ではない。あなたの「存在の全質量（ウェイト）」を、相手の立てた「偽りの台座（ペデスタル）」へと真っ向から一気に激突させ、そこに充満している「欺瞞という名の空気（カオス）」を、真実という名の「衝撃（インパルス）」で粉砕（デストラクト）すること。猛烈に抗議する（インベイ）とは、あなたが沈黙という名の「墓場（サイレンス）」を自らの叫び（ヴォックス）で拒絶（レジスト）し、宇宙の「法（ロゴス）」を取り戻すために自らを「一筋の光（ベクトル）」へと変えきった、という魂の峻烈な「射出」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Everyday words are the pulleys of civilization.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"日常に潜む、凄まじい引力。"
+			]
+		}
+	},
+	{
+		"id": "vexation",
+		"word": "不手際、苛立ちの種、悩み、(法律)嫌がらせの訴訟",
+		"era": "Latin vehere",
+		"etymology": {
+			"components": [
+				"vex (to shake / trouble)",
+				"-ation (state / result)"
+			],
+			"original_statement": "From Latin vexationem, from vexare 'to shake / trouble'."
+		},
+		"concept": "The state of being shaken (揺さぶられたという事実。安らぎという名の『船』が、執拗なノイズ（嵐）によってバランスを失った情景)",
+		"thinking": "「（自らの意志という名の舵が効かないほど、外部から執拗に）揺さぶられ、乱暴に運ばれ（Vex-）」「てしまった、という確定した心の状態（-ation）」。それは単なる「一時的な怒り」ではなく、あなたの日常という名の「きれいな整列（コンシステント）」が、誰かの悪意（ミシュチーフ）や世界の理不尽（カオス）によって、何度もバラバラに引き裂かれ（ディストラクト）、自分の「重心（ベース）」という名の不変の平和を「失って（ルーズ）」しまったという、静かなる敗北の謂い。苛立ち（ベキセーション）という言葉には、あなたが宇宙という名の「荒波」の前で、自らの「脆弱な実在（エグジスタンス）」を再び視認（インスペクション）せざるを得なくなった、という理性の悲しい「再教育（リカピチュレーション）」が刻まれています。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Everyday words are the pulleys of civilization.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"日常に潜む、凄まじい引力。"
+			]
+		}
+	},
+	{
+		"id": "convex",
+		"word": "凸面の、膨らんだ、(数学)凸の",
+		"era": "Latin con + vehere",
+		"etymology": {
+			"components": [
+				"con- (together)",
+				"vehere (to carry / travel)"
+			],
+			"original_statement": "From Latin convexus 'vaulted / arched / rounded', literally 'carried together / brought together (to a point)', from convehere 'to bring together'."
+		},
+		"concept": "Carried together to a point (一点に向かって運び寄せられた。外に向かって誇らしく屹立する、エネルギーの集積体)",
+		"thinking": "「（中心点から外の世界へと、あらゆる力が）共に（Con-）」「運び出され（Veh-）、盛り上がり、一つの曲面を描いている」「姿」。それは「閉鎖（クローズ）」や「縮小（リセッション）」ではなく、あなたの内なる「生の熱量（エクセス）」が、自らの輪郭（フレーム）を外へと押し広げ（エクスパンド）、世界に対して「私はここに居る（エグジスト）」と、力強く、かつ優雅にマニフェスト（表明）している、という物理的な「存在の膨張（アチーブメント）」。凸面（コンベックス）とは、あなたが世界の「重圧（プレッシャー）」を自らの「内なる力」で跳ね返し、誇らしげに「外へと（Ex-）」「屹立（スタンド）」した、という生命の最もポジティブな「彫刻（アスペクト）」のことなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Everyday words are the pulleys of civilization.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"日常に潜む、凄まじい引力。"
+			]
+		}
+	},
+	{
+		"id": "concave",
+		"word": "凹面の、窪んだ、(数学)凹の",
+		"era": "Latin con + cavus",
+		"etymology": {
+			"components": [
+				"con- (together)",
+				"cavus (hollow)"
+			],
+			"original_statement": "From Latin concavus 'hollow / arched', from con- 'together' (intensive) + cavus 'hollow'."
+		},
+		"concept": "Completely hollow (完全に空洞であること。エネルギーが内側へと吸い込まれ（リセッション）、世界を『受け入れる』ための沈黙の器)",
+		"thinking": "「（中心部の密度が希薄になり、外部の力を）共に（Con-）」「（包み込むように）受け入れる、空っぽの（Cave-）」「安定した曲面」。それは「欠落（ルーズ）」ではありません。あなたが自らの「傲慢な突起（コンベックス）」をあえて引っ込め（リトラクト）、世界の「光」や他者の「呼吸（ブレス）」を自分の内なる宇宙へとそっと招き入れる（インポート）ための、慈悲深い「受容の港（ポート）」。凹面（コンケイブ）とは、あなたが「一本の矢」であることをやめ、宇宙のすべてを自分の質量（ウェイト）で優しく「抱擁（ホールド）」しようとした際の、魂の最も優雅な「後退（リセッション）」という名の「空間（余白）」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Everyday words are the pulleys of civilization.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"日常に潜む、凄まじい引力。"
+			]
+		}
+	},
+	{
+		"id": "convey-logic",
+		"word": "Convey@Logic",
+		"meaning": "伝達の論理、他者へと届く理路",
+		"era": "Latin con + vehere + Greek logos",
+		"etymology": {
+			"components": [
+				"convey (to carry together / transmit)",
+				"logic (reason / order)"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "The transmitting order (運ばれる秩序。孤独な思考が、他者の魂と接続（マージ）するための共通の言語)",
+		"thinking": "「（自分一人の頭の中に閉じ込めておくのをやめ、世界へと、他者の脳へと）共に運び、送り届ける（Convey-）」「ための、美しく強靭な秩序、あるいは理路（Logic）」。ただの「叫び（エキスペル）」ではない。相手の「歩み（プログレス）」や「高さ（ステータス）」を計算し（マニューバー）、自分の最も深い「真実（ファクト）」を相手が咀嚼できる（アクセプトできる）「形（フォーム）」へと正確にボトリング（翻訳）して、その掌（パーム）へと丁寧にデリバリーすること。伝達の論理。それは、あなたが「孤独（アイソレーション）」という名の檻の鍵を、自らの言葉という名の「ビークル（乗り物）」を使って開け放ち、宇宙という広大な「共同体（コングレス）」の中へと自らを射出した（プロジェクションした）、という知性の最も崇高な「接続」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Everyday words are the pulleys of civilization.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"日常に潜む、凄まじい引力。"
+			]
+		}
+	},
+	{
+		"id": "vect-spirit",
+		"word": "Vect@Spirit",
+		"meaning": "魂のベクトル、加速する呼吸",
+		"era": "Latin vehere + spiritus",
+		"etymology": {
+			"components": [
+				"vect (to carry / move / direct)",
+				"spirit (breath / soul)"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "The directed breath (向きを持った呼吸。停滞を拒み、常に『未知』へと自らを運び続ける生の勢い)",
+		"thinking": "「（過去の未練（リテイン）や、今の安寧（ステーション）に留まることを潔しとせず、自分をどこまでも遠くへ、未来へ、高みへと）運び、射出し続ける（Vect-）」「呼吸、あるいは魂（Spirit）」。あなたは、風に吹かれるだけの「落ち葉（オブジェクト）」ではない。自らの「内なる炎（エネルギー）」を動力（インペタス）へと変換し、宇宙という名の広大なキャンバスを、自分という名の「一筋の光（ベクトル）」で、自らの手で描き、切り裂いていく勇気ある「軌跡（トラック）」。魂のベクトル。それは、あなたが世界の「どこかに辿り着く（アチーヴ）」ことよりも、自らを「運び、更新（アップデート）し続ける」という旅路そのものに、自分の全存在という名の「重み（ウェイト）」を託した際の、生の最も峻烈で美しい「疾走（プロセス）」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Everyday words are the pulleys of civilization.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"日常に潜む、凄まじい引力。"
+			]
+		}
+	},
+	{
+		"id": "veh-life",
+		"word": "Veh@Life",
+		"meaning": "人生という名の乗り物、魂を運ぶ長い旅",
+		"era": "Latin vehere + Germanic life",
+		"etymology": {
+			"components": [
+				"veh (to carry / travel)",
+				"life"
+			],
+			"original_statement": "Coined during synthesis."
+		},
+		"concept": "Life as a carrier (魂を時間という荒野へ運ぶための馬車。肉体を燃料に、不変の真理へと辿り着くための遷移)",
+		"thinking": "「（生を受けてから、土へと還るその瞬間まで、自分という意識を運び続け（Veh-））（決して止まることを許されない）」「一生、あるいは命（Life）」。この肉体（ボディ）は、あなたが宇宙という長い長い物語を「一人前の当事者（パイオニア）」として駆け抜けるために貸し与えられた、一回きりの「特注のビークル（車両）」。あなたは、この車（生）をどのように操作（マニューバー）し、どのような景色を自分のアーカイブ（記憶）へとインポート（輸入）し、最終的にどのような「場所」へと自分の魂をデリバリーするのか。人生という名の乗り物。それは、あなたが世界の「傍観者（スペクテイター）」であることをやめ、自らの「呼吸（スピリット）」を唯一のコンパスにして、カオスという名の海を渡り切るための、誇らしき理性の「航海（トランスポート）」そのものなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Everyday words are the pulleys of civilization.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"日常に潜む、凄まじい引力。"
+			]
+		}
+	},
+	{
+		"id": "deject",
+		"word": "落胆させる、(気分が)沈んだ",
+		"era": "Latin de + jacere",
+		"etymology": {
+			"components": [
+				"de- (down)",
+				"jacere (to throw)"
+			],
+			"original_statement": "From Latin dejectus, past participle of deicere 'to throw down / cast down', from de- 'down' + jacere 'to throw'."
+		},
+		"concept": "Throwing down (下の方へと投げ落とすこと。高潔な希望（プロスペクト）を、絶望という名の深淵へと滑落させる物理的な打撃)",
+		"thinking": "「（未来という名の天空へ向かって高く掲げようとした（アチーブ）あなたの呼吸（スピリット）を）下の方へと（De-）」「（冷酷に、あるいは偶然に）投げ落とし、地面に叩きつける（Ject-）」。それは単なる「悲しみ」ではなく、あなたの存在という名の「重み（ウェイト）」そのものが、宇宙の重力（グラビティ）に負け、自らの「物語（スクリプト）」を継続（パシスト）する力を一時的に失って（ルーズ）しまった、という存在の「沈下（レセッション）」。落胆（ディジェクト）という響きには、あなたが世界の「沈黙」に対して、もはや言葉（ヴォックス）を投げ放つ（プロジェクション）気力を剥奪（デカピテート）され、ただ静かな「暗闇（カオス）」の一部へと回帰（リターン）せざるを得なくなった、魂の最も深い「静止（ストップ）」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Everyday words are the pulleys of civilization.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"日常に潜む、凄まじい引力。"
+			]
+		}
+	},
+	{
+		"id": "abject",
+		"word": "絶望的な、悲惨な、卑屈な、(地位などが)どん底の",
+		"era": "Latin ab + jacere",
+		"etymology": {
+			"components": [
+				"ab- (away / off)",
+				"jacere (to throw)"
+			],
+			"original_statement": "From Latin abjectus 'downcast / disheartened / humble', literally 'thrown away / cast off', past participle of abicere 'to throw away / cast off', from ab- 'away' + jacere 'to throw'."
+		},
+		"concept": "Thrown away (遠くへ放り出された、あるいは見捨てられたこと。自らの『中心（ステーション）』を剥奪された、生のゴミ捨て場)",
+		"thinking": "「（祝福された命という名の物語から、遥か外の方へと（Ab-）」「（価値なきマテリアル（素材）として）放り出され、捨てられた（Ject-）」。それは単なる「貧困（リミット）」ではない。あなたが「一人の人間（ユニバース）」として誰かの瞳に反射（リフレクト）される（リスペクト）のをやめられ、世界という名のシステムの「死角（アイソレーション）」へと物理的に、あるいは精神的に「投棄（エキスパンド）」されてしまった、という究極の「不在（アブセンス）」。どん底（アブジェクト）な状態とは、あなたが自らの「声（ヴォックス）」を放つべき目的地（ターゲット）を完全に見失い（ルーズ）、ただ宇宙の冷たい「重力（カオス）」にその身を任せるしかない、という存在の最も深い「凍結（アイス）」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Everyday words are the pulleys of civilization.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"日常に潜む、凄まじい引力。"
+			]
+		}
+	},
+	{
+		"id": "interject",
+		"word": "不意に差し挟む、(言葉を)投げ込む、不意に言う",
+		"era": "Latin inter + jacere",
+		"etymology": {
+			"components": [
+				"inter- (between)",
+				"jacere (to throw)"
+			],
+			"original_statement": "From Latin interjectus, past participle of interjicere 'to throw between / interpose', from inter- 'between' + jacere 'to throw'."
+		},
+		"concept": "Throwing between (（誰かの話の）間に投げ込むこと。他者の順序あるロゴスを、自らの呼吸（パルス）で不意打ちに引き裂くこと)",
+		"thinking": "「（他者が丁寧に編み上げている言葉という名の鎖の）その隙間、中間へと（Inter-）」「（自分の咄嗟の思い、あるいは叫びを）不意に投げ入れる（Ject-）」。それは「丁寧な質疑応答（ダイアローグ）」ではない。相手の「リズム（フロー）」を自分の「一瞬の閃き（インスピレーション）」によって物理的に中断させ（ストップ）、そこに自分の「実在という名の重み（ウェイト）」を無理やり楔として打ち込むこと。差し挟む（インタージェクト）とは、あなたが「聞き手（スペクテイター）」であることを一時的に拒絶（レジスト）し、世界の沈黙（あるいは饒舌）を自らの「生（ブレス）」によって強制的に「編集（エディト）」しようとした際の、瞬発的な知性の「介入（コンタクト）」の謂いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Everyday words are the pulleys of civilization.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"日常に潜む、凄まじい引力。"
+			]
+		}
+	},
+	{
+		"id": "ject-voice",
+		"word": "Ject@Voice",
+		"meaning": "投げ放たれる声、言霊の射出",
+		"era": "Latin jacere + vox",
+		"etymology": {
+			"components": [
+				"ject (to throw / hurl / project)",
+				"voice (sound / soul)"
+			],
+			"original_statement": "Coined during synthesis."
+		},
+		"concept": "The hurdled sound (自分から猛スピードで離れていく音。言葉を物理的な『質量』として空間に叩き込む衝撃)",
+		"thinking": "「（飲み込んでいた真実を、もはや自分の呼吸（ブレス）では支えきれなくなり、爆発的な力で世界へ向けて）投げ放つ（Ject-）」「一撃の声（Vox）」。それは単なる「会話（チャット）」ではない。放たれた瞬間、あなたは自分の「内なる秘密（アーカイブ）」を完全に公共（パブリック）へと譲り渡し（アブディケート）、その言葉がどのような「破壊（デストラクト）」や「建設（コンストラクト）」を引き起こすかという責任を、宇宙の重力（グラビティ）に丸ごと託してしまうこと。投げ放たれる声。それは、あなたが「沈黙という名の檻（クローズ）」を自らの叫び（エキスペル）によって内側から突き破り、自分という存在の「全質量」を一筋の「光の矢（ロゴス）」へと変えきって、未知の誰かの魂を貫きに行った（コンタクトした）、という生の最も峻烈な「射出」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Everyday words are the pulleys of civilization.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"日常に潜む、凄まじい引力。"
+			]
+		}
+	},
+	{
+		"id": "life-ject",
+		"word": "Life@Ject",
+		"meaning": "未来への生の射出、不退転の自己投写",
+		"era": "Latin jacere + Germanic life",
+		"etymology": {
+			"components": [
+				"life",
+				"ject (to throw / project)"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "The projection of being (人生を投げ出すこと。明日という名の空白に向かって、自らの歴史を全力で投げ放つ一瞬)",
+		"thinking": "「（昨日までの自分という名の骸を脱ぎ捨てて）命、あるいは人生（Life）を」「（まだ見ぬ目的地へと）力強く、かつ迷いなく投げ放つ（Ject-）」こと。あなたは自分の生を、穏やかな「流動（フロー）」に任せているのではない（受動的なアディクトではない）。自らが「作者（スクライバー）」となり、今日という名の「点（ドット）」から、明日という名の「無限のキャンバス」に向かって、自分自身の「質量（ウェイト）」そのものを、唯一無二の「弾道（軌道）」として射出し（プロジェクト）続けているのだ。生の射出。それは、あなたが「いつか終わる生」という残酷な真理（ファクト）を受け入れた（アクセプト）上で、その限られた時間を「不滅の意志（ロゴス）」へと変換（コンバート）し、宇宙という名の闇の中に、自分という名の「一筋の輝き」を無理やり刻み込もうとする、魂の最も果敢で、最も美しい「賭け」のことなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Everyday words are the pulleys of civilization.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"日常に潜む、凄まじい引力。"
+			]
+		}
 	}
 ];
