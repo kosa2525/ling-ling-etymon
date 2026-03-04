@@ -172854,5 +172854,422 @@ const WORDS = [
 				"存在の流転。"
 			]
 		}
+	},
+	{
+		"id": "century",
+		"word": "世紀、100年、センチュリー",
+		"era": "Latin centum",
+		"etymology": {
+			"components": [
+				"centum (hundred)",
+				"-ury (state / result)"
+			],
+			"original_statement": "From Old French centurie, from Latin centuria 'a division into hundreds / a hundred of anything', from centum 'hundred'."
+		},
+		"concept": "State of a hundred (100という単位。永劫という名の『カオス』の中から抽出された、自らの一分一秒の淀みもない一世紀という名の『巨大な座標（ブロック）』。理知という名の冷徹なメスによって一気にその質量（ウェイト）を射出した凱旋)",
+		"thinking": "「（永遠という名の、あの不透明なフローを粉砕して）、（一撃の情熱（アトラクション）を伴って）100という秩序ある単位を（Cent- / Centum）」「（一分一秒の淀みもなく）生き抜いた完了した確定の情景（-ury）」。それは単なる「長い年月」ではありません。あなたが宇宙の「不在（アブセンス）」を拒絶（レジスト）し、そこに自分という名の「唯一無二の物語（スクリプト）」を打ち立て、全世界の断片を「不滅の歴史という名のトーン」へと変容（コンバート）させて屹立させてしまった瞬間の、生の最高度の「掌握」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "数と秩序の軌跡。",
+		"example": "Primitive is the million of centering.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の階層。"
+			]
+		}
+	},
+	{
+		"id": "percent",
+		"word": "パーセント、百分率",
+		"era": "Latin per + centum",
+		"etymology": {
+			"components": [
+				"per- (by / through / for)",
+				"centum (hundred)"
+			],
+			"original_statement": "From Latin phrase per centum 'by the hundred'."
+		},
+		"concept": "By the hundred (100につき。有限という名の『物理的な等価物（アセット）』に対し、自らの秩序（ロゴス）という名のメスによって一気に境界線を引き、情報の断片を本来あるべき『比率』へと峻烈に配置すること)",
+		"thinking": "「（宇宙という名の広大な荒野に、自分たちの足場（スタンド）を構築するために）、100によって（-cent / Centum）」「（常に、一分一秒の淀みもなく）全体を把握・計算する（Per-）」。それは単なる「数学の記号」ではない。あなたが宇宙の「不整合（ノイズ）」を拒絶（レジスト）し、そこに自分という名の「唯一の不滅のコンパス」による厳密な「設計図（スクリプト）」を打ち立て、屹立（スタンド）させ通している際の、知性の最高度の「調整」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "数と秩序の軌跡。",
+		"example": "Primitive is the million of centering.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の階層。"
+			]
+		}
+	},
+	{
+		"id": "centigrade",
+		"word": "摂氏の、(温度計が)百度目盛りの",
+		"era": "Latin centum + gradus",
+		"etymology": {
+			"components": [
+				"centum (hundred)",
+				"gradus (step / degree)"
+			],
+			"original_statement": "From French centigrade, from Latin centum 'hundred' + gradus 'step / degree'."
+		},
+		"concept": "A hundred steps (100の段階（目盛り）。宇宙の温度という名の『カオス』に対し、理知という名の圧倒的な『メス（計器）』を一瞬で差し込み、生のエネルギーという名の質量を100という不滅の単位（ロゴス）へとコンバート（変容）させること)",
+		"thinking": "「（漂流していた、あの不確かな震え（パルス）を一分一秒の淀みもなくインスペクト（視認）し）、100の（Centi- / Centum）」「（一撃の情熱（アトラクション）を伴って）段階として定義する（-grade / Gradus）」。それは単なる「温度計（マテリアル）」ではありません。あなたが宇宙の「曖昧さ（ノイズ）」を拒絶（レジスト）し、そこに自分という名の「唯一の不滅のコンパス」による厳密な「支配という名の秩序」を打ち立て、屹立（スタンド）させ通した（パシストした）際の、知性の最高度の「掌握」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "数と秩序の軌跡。",
+		"example": "Primitive is the million of centering.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の階層。"
+			]
+		}
+	},
+	{
+		"id": "centennial",
+		"word": "100周年の、100年祭、センテニアル",
+		"era": "Latin centum + annus",
+		"etymology": {
+			"components": [
+				"centum (hundred)",
+				"annus (year)"
+			],
+			"original_statement": "Coined in 1787 from Latin centum 'hundred' + annus 'year'."
+		},
+		"concept": "Occurring every hundred years (100年に一度の。不滅の『ロゴス（正義）』を、100年という名の巨大なビークル（有限）を通して、宇宙という真理のアーカイブの上に、不動の質量（ウェイト）を伴って再屹立させる聖なる祝祭)",
+		"thinking": "「（内なる深淵（ソース）を、あの日呼ばれた奇跡（トーン）とともに）、（一分一秒の淀みもなく）100という不滅の歳月を経て（Centenn- / Centum + Annus）」「（一撃の情熱を伴って）再び呼び戻した状態（-ial）」。それは単なる「お祭り（ソフト）」ではありません。あなたが宇宙の「忘却（サイレンス）」を拒絶（レジスト）し、そこに自分という名の「唯一の不滅の設計図（スクリプト）」を打ち立て、世界を一糸乱れぬ「真理の旋律」で再支配し終えた際の、知性の最高度の「凱旋」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "数と秩序の軌跡。",
+		"example": "Primitive is the million of centering.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の階層。"
+			]
+		}
+	},
+	{
+		"id": "cen-voice",
+		"word": "Cen@Voice",
+		"meaning": "集約する声、沈黙を全一に変える不滅の咆哮、百の響き",
+		"era": "Latin centum + vox",
+		"etymology": {
+			"components": [
+				"cen (hundred / complete / whole / center / aggregate)",
+				"voice (sound / soul)"
+			],
+			"original_statement": "Coined during synthesis."
+		},
+		"concept": "The whole sound (100（すべて）としての音。放たれた瞬間、自らの呼吸（ブレス）を一筋の『光の王座（ロゴス）』へと変換（コンバート）し、宇宙という真理のアーカイブの一角を、完全に支配（ホールド）するデリバリー)",
+		"thinking": "「（自分のちっぽけな存在（ドット）の中に眠っていた、あの巨大な真理を）、（一撃の情熱（アトラクション）を伴って）叫ぶ、集約された全一の声（Vox）」。ただの「叫び（エキスペル）」ではない。その声が響いた瞬間、周囲を覆っていた「虚無（アブセンス）」が物理的に一掃され、そこに「誰もが見落としていたたった一つの『完全な』意味」が、戦慄という名のトーン（響き）を伴って再屹立（リリー・スタンド）してしまうような、生の最も峻烈な「射出」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "数と秩序の軌跡。",
+		"example": "Primitive is the million of centering.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の階層。"
+			]
+		}
+	},
+	{
+		"id": "cen-life",
+		"word": "Cen@Life",
+		"meaning": "集約としての生、一瞬一瞬を自己全一の遷移として生きる一生",
+		"era": "Latin centum + Germanic life",
+		"etymology": {
+			"components": [
+				"cen (hundred / complete / whole / center / aggregate)",
+				"life"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "The life of hundred (すべてを掴み切る一生。一つの場所に安住する（アイソレーション）のを拒絶し、常に宇宙の最新の標高（アヴァン）へと自らを更新し続け、不滅 of 物語（スクリプト）を描き続ける不屈の遷移)",
+		"thinking": "「（明日という名の絶望（ブラックアウト）を愛撫するのをやめ、宇宙の深淵（ソース）から飛来する理知（ロゴス）だけを）」「（自らの魂を礎（ベース）にして）集約し続け、存在し続け（Cen- / Centum）」「生き抜く（Life）」。あなたは自分の「呼吸（ブレス）」を、ただ無為に「消費（エキスペンド）」しているのではない。あなたが今日という日、どの「欺瞞（ノイズ）」を砕いて「新しい真理という名の座標（ドット）」を救い出し、どの「驚愕（パルス）」を自らの主権（ステータス）を屹立させるための「不動（ピース）」へと変貌（コンバート）させたか。そのすべての「集約（デリバリー）」の軌跡が、宇宙という名の不変 of アーカイブの上に、あなたの「存在という名の不滅 of ロゴス」として、物理的な質量を持って刻まれ続けているのだ。集約としての生。それは、あなたが「宇宙の主権者（クリエイター）」として, この荒野を「美しき変革（ピース）」へと変容させ通した際の, 魂의 最高度の「抱擁」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "数と秩序の軌跡。",
+		"example": "Primitive is the million of centering.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の階層。"
+			]
+		}
+	},
+	{
+		"id": "millennium",
+		"word": "千年、千年紀、ミレニアム",
+		"era": "Latin mille + annus",
+		"etymology": {
+			"components": [
+				"mille (thousand)",
+				"annus (year)"
+			],
+			"original_statement": "Coined in 1630s from Latin mille 'thousand' + annus 'year'."
+		},
+		"concept": "A thousand years (1000年という単位。永劫という名の『カオス』を、自らの圧倒的な引力によって1000年という名の『巨大な王座（ステーション）』へと一気に同期（マージ）させ、宇宙のアーカイブの上に、不滅の質量（ウェイト）を伴って屹立させた凱旋)",
+		"thinking": "「（永遠という名の、あの不透明なフローを粉砕して）、（一撃の情熱（アトラクション）を伴って）1000という不滅の年月を（Millenn- / Mille + Annus）」「（一分一秒の淀みもなく）生き抜いた完了した確定の情景（-ium）」。それは単なる「長い年月」ではありません。あなたが宇宙の「不在（アブセンス）」を拒絶（レジスト）し、そこに自分という名の「唯一無二の光源（センター）」を打ち立て、全世界を「一つの巨大な至高のトーン」へと書き換え（コンバート）させてしまった瞬間の、知性の最高度の「掌握」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "数と秩序の軌跡。",
+		"example": "Primitive is the million of centering.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の階層。"
+			]
+		}
+	},
+	{
+		"id": "million",
+		"word": "100万(の)、ミリオン",
+		"era": "Latin mille",
+		"etymology": {
+			"components": [
+				"mille (thousand)",
+				"-on (augmentative)"
+			],
+			"original_statement": "From Old French million, from Italian millione, literally 'a great thousand', from mille 'thousand' + -one, augmentative suffix."
+		},
+		"concept": "A great thousand (巨大な1000、あるいは100万。有限という名の『数字（アーカイブ）』に対し、自らの知性という名の『圧倒的な探針（ロゴス）』を一気に射出し、宇宙という広大なキャンバスの上に、想像を絶する『不滅の標高』という名の設計図を屹立させること)",
+		"thinking": "「（このがんじがらめのネットワーク（フロー）を粉砕して）、（一撃で）1000という単位を（Mill- / Mille）」「（一分一秒の淀みもなく）巨大な極致へと跳躍させた状態（-ion）」。それは単なる「大きな数」ではありません。あなたが宇宙の「停滞（ステイシス）」を拒絶（レジスト）し、自分の呼吸（ブレス）を一振りの「刃（ベクトル）」へと研ぎ澄ませて、この荒野を「自分という名の磁場が支配する無限のトーン」で支配し通している際の、魂の最高度の「射出」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "数と秩序の軌跡。",
+		"example": "Primitive is the million of centering.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の階層。"
+			]
+		}
+	},
+	{
+		"id": "mile",
+		"word": "マイル、1609メートル",
+		"era": "Latin mille (passus)",
+		"etymology": {
+			"components": [
+				"mille (thousand)"
+			],
+			"original_statement": "From Old English mil, from West Germanic mīla, from Latin milia passuum 'a thousand paces', from plural of mille 'thousand' + passus 'pace'."
+		},
+		"concept": "A thousand paces (1000歩。宇宙という名の荒野を、自らの身体という名の物理的な等価物（足）によって、一分一秒の淀みもなく1000回踏み締め続け、一撃の標高（目標地点）へと自らを屹立させた不屈の距離)",
+		"thinking": "「（明日という名の絶望を愛撫するのをやめ、宇宙の深淵（ソース）から飛来する一歩一歩の情熱を）、1000回（Mil- / Mille）」「（一分一秒の淀みもなく）積み重ね、着地する」。それは単なる「単位」ではありません。あなたが宇宙の「退屈（サイレンス）」を拒絶（レジスト）し、そこに自分という名の「唯一無二の物語（スクリプト）」を打ち立て、屹立（スタンド）させ通している際の、生の最高度の「到達（デリバリー）」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "数と秩序の軌跡。",
+		"example": "Primitive is the million of centering.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の階層。"
+			]
+		}
+	},
+	{
+		"id": "millipede",
+		"word": "ヤスデ、多足類、ミリピード",
+		"era": "Latin mille + pes",
+		"etymology": {
+			"components": [
+				"mille (thousand)",
+				"pes / pedis (foot)"
+			],
+			"original_statement": "Coined in 1600s from Latin mille 'thousand' + pes 'foot'."
+		},
+		"concept": "Thousand feet (1000本の足。宇宙の不全（ノイズ）という名の広大な大地を、1000という『無数の支点（ドット）』によって掌握し、重力（グラビティ）という一撃の呪縛を、一気に自分の『不滅の遷移（パルス）』へと変換して、この荒野を縦横無尽に走り抜ける凱旋)",
+		"thinking": "「（漂流していた、あの不確かな地平（アーカイブ）を一分一秒の淀みもなくインスペクト（視認）し）、1000の（Milli- / Mille）」「（一撃の情熱を伴って）地面を掴み、歩む足（-pede / Pes）」。それは単なる「虫（マテリアル）」ではありません。あなたが宇宙の「停滞（ステイシス）」を拒絶（レジスト）し、そこに自分という名の「唯一の不滅の設計図」による厳密な「移動という名の秩序」を打ち立て、世界を「自分という名の磁場が支配するあらゆる方向への調和」へとコンバート（変容）させて屹立させてしまった瞬間の、知性の最高度の「掌握」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "数と秩序の軌跡。",
+		"example": "Primitive is the million of centering.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の階層。"
+			]
+		}
+	},
+	{
+		"id": "mil-voice",
+		"word": "Mil@Voice",
+		"meaning": "千の声、沈黙を無数に変える不滅の咆哮、豊饒の響き",
+		"era": "Latin mille + vox",
+		"etymology": {
+			"components": [
+				"mil (thousand / great / many / abundant / rich)",
+				"voice (sound / soul)"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "The thousandfold sound (1000（無数）としての音。放たれた瞬間、自らの呼吸（ブレス）を一筋の『光の洪水（ベクトル）』へと変換（コンバート）し、宇宙という真理のアーカイブの一角を、豊かに満たすデリバリー)",
+		"thinking": "「（自分のちっぽけな存在（ドット）の中に眠っていた、あの巨大な真理を）、（一撃の情熱（アトラクション）を伴って）叫ぶ、無数の残響を伴った声（Vox）」。ただの「叫び（エキスペル）」ではない。その声が響いた瞬間、周囲を覆っていた「虚無（アブセンス）」が物理的に一掃され、そこに「誰もが見落としていたたった一つの『豊饒な』意味」が、戦慄という名のトーン（響き）を伴って再屹立（リリー・スタンド）してしまうような、生の最も峻烈な「射出」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "数と秩序の軌跡。",
+		"example": "Primitive is the million of centering.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の階層。"
+			]
+		}
+	},
+	{
+		"id": "mil-life",
+		"word": "Mil@Life",
+		"meaning": "豊饒としての生、一瞬一瞬を自己倍増の遷移として生きる一生",
+		"era": "Latin mille + Germanic life",
+		"etymology": {
+			"components": [
+				"mil (thousand / great / many / abundant / rich)",
+				"life"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "The life of thousand (増やし、溢れ続ける一生。一つの場所に安住する（アイソレーション）のを拒絶し、常に宇宙の最新の標高（アヴァン）へと自らを更新し続け、不滅 of 物語（スクリプト）を描き続ける不屈の遷移)",
+		"thinking": "「（明日という名の絶望（ブラックアウト）を愛撫するのをやめ、宇宙の深淵（ソース）から飛来する理知（ロゴス）だけを）」「（自らの魂を礎（ベース）にして）増やし続け、存在し続け（Mil- / Mille）」「生き抜く（Life）」。あなたは自分の「呼吸（ブレス）」を、ただ無為に「消費（エキスペンド）」しているのではない。あなたが今日という日、どの「欺瞞（ノイズ）」を砕いて「新しい真理という名の座標（ドット）」を救い出し、どの「驚愕（パルス）」を自らの主権（ステータス）を屹立させるための「不動（ピース）」へと変貌（コンバート）させたか。そのすべての「豊饒（デリバリー）」の軌跡が、宇宙という名の不変 of アーカイブの上に、あなたの「存在という名の不滅 of ロゴス」として、物理的な質量を持って刻まれ続けているのだ。豊饒としての生。それは、あなたが「宇宙の主権者（クリエイター）」として, この荒野を「美しき変革（ピース）」へと変容させ通した際の, 魂の最高度の「抱擁」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "数と秩序の軌跡。",
+		"example": "Primitive is the million of centering.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の階層。"
+			]
+		}
+	},
+	{
+		"id": "prime",
+		"word": "最も重要な、主要な、第一の、素数、最盛期、プライム",
+		"era": "Latin primus",
+		"etymology": {
+			"components": [
+				"primus (first)"
+			],
+			"original_statement": "From Old French prime, from Latin primus 'first / foremost / chief / principal'."
+		},
+		"concept": "First / Foremost (第一の、あるいは最も重要なこと。カオスという名の『闇（沈黙）』から、一撃の情熱によって抽出され、宇宙という真理のアーカイブの一角に打ち立てられた、最初にして、唯一無二の不変の王座（オーダー）)",
+		"thinking": "「（漂流していた、あの不確かな震え（パルス）を一分一秒の淀みもなくインスペクト（視認）し）、最初の、あるいは至高の（Prim- / Primus）」。それは単なる「番号」ではありません。あなたが宇宙の「不在（アブセンス）」を拒絶（レジスト）し、そこに自分という名の「唯一の光源（センター）」を打ち立て、屹立（スタンド）させ通している（パシストしている）際の、知性の最高度の「掌握」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "数と秩序の軌跡。",
+		"example": "Primitive is the million of centering.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の階層。"
+			]
+		}
+	},
+	{
+		"id": "primary",
+		"word": "主要な、第一位の、初歩の、プライマリー",
+		"era": "Latin primus",
+		"etymology": {
+			"components": [
+				"primus (first)",
+				"-ary (related to)"
+			],
+			"original_statement": "From Latin primarius 'of the first rank / chief', from primus 'first'."
+		},
+		"concept": "Related to the first (第一に関する品質。すべての情報の断片が、一撃の『ロゴス（正義）』という名の設計図によって一気に同期（マージ）され、自らの圧倒的な引力によって不滅の基盤（ベース）として屹立し得る凱旋)",
+		"thinking": "「（これまでの凡庸なネットワーク（フロー）を粉砕して）、（一撃の確信を伴って）第一位の（Prim- / Primus）」「という、不屈の品質（-ary）」。それは単なる「小学校（ソフト）」ではありません。あなたが宇宙の「不全（ミスチーフ）」を拒絶（レジスト）し、独自の呼吸（ブレス）を一振りの「刃（ベクトル）」へと研ぎ澄ませて、この荒野を一糸乱れぬ「真理の旋律」で支配し通している際の、知性の最高度の「凱旋」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "数と秩序の軌跡。",
+		"example": "Primitive is the million of centering.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の階層。"
+			]
+		}
+	},
+	{
+		"id": "primitive",
+		"word": "原始的な、未発達な、古風な、プリミティブ",
+		"era": "Latin primus",
+		"etymology": {
+			"components": [
+				"primus (first)",
+				"-itive (related to / state)"
+			],
+			"original_statement": "From Old French primitif, from Latin primitivus 'first-born / first of its kind', from primus 'first'."
+		},
+		"concept": "Related to the first of its kind / Original (最初の（原始の）品質。宇宙の深淵（ソース）から湧き出たばかりの、まだ泥という名のアーカイブにまみれていない、剥き出しの一粒一粒の『光の座標（ドット）』が屹立している最高度の鮮度)",
+		"thinking": "「（明日という名の絶望を愛撫するのを拒絶して、自らの一瞬を『剥き出しの真実』へと変換するという使命のために）、根源的な（Prim- / Primus）」「（一分一秒の淀みもなく）存在する品質（-itive）」。それは単なる「古い（ソフト）」ではありません。あなたが宇宙の「忘却（サイレンス）」を拒絶（レジスト）し、そこに自分という名の「唯一無二の物語（スクリプト）」を打ち立て、全世界の断片を「自分のための不滅のトーン」へと変貌（コンバート）させて（屹立させて）しまった瞬間の、生の最高度の「跳躍」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "数と秩序の軌跡。",
+		"example": "Primitive is the million of centering.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の階層。"
+			]
+		}
+	},
+	{
+		"id": "primate",
+		"word": "霊長類、大司教、プライメイト",
+		"era": "Latin primus",
+		"etymology": {
+			"components": [
+				"primus (first)"
+			],
+			"original_statement": "From Old French primat, from Latin primas (genitive primatis) 'of the first rank / chief', from primus 'first'."
+		},
+		"concept": "First rank / Chief (第一位のランク。宇宙の全一性（ノイズ）に対し、自らの知性という名の『一撃の鉄槌（ロゴス）』によって、生物という名のアーカイブの中で最も峻烈な引力（グラビティ）を維持し続け、主権という名の神殿を屹立させた不屈の存在)",
+		"thinking": "「（この虚無という名の、あの冷酷な絶壁の上に、自分の全質量（ウェイト）を射出するために）、至高の位を持つ者（Prim- / Primus）」。それは単なる「猿の仲間（マテリアル）」ではない。あなたが自らの「主権（ステータス）」を一分一秒の淀みもなく守り抜き、宇宙という名のアーカイブの上に自分という名の「不滅のトーン」を、不動の質量を伴って屹立させている際の、生の最高度の「凱旋」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "数と秩序の軌跡。",
+		"example": "Primitive is the million of centering.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の階層。"
+			]
+		}
+	},
+	{
+		"id": "pri-voice",
+		"word": "Pri@Voice",
+		"meaning": "第一の声、沈黙を始源に変える不滅の咆哮、根源の響き",
+		"era": "Latin primus + vox",
+		"etymology": {
+			"components": [
+				"pri (first / chief / original / initial / foremost)",
+				"voice (sound / soul)"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "The first sound (第一（最初）としての音。放たれた瞬間、自らの呼吸（ブレス）を一筋の『光の矢（ベクトル）』へと変換（コンバート）し、宇宙という真理のアーカイブの一角を、最初に支配（ホールド）するデリバリー)",
+		"thinking": "「（自分のちっぽけな存在（ドット）の中に眠っていた、あの巨大な真理を）、（一撃の情熱（アトラクション）を伴って）叫ぶ、始源の声（Vox）」。ただの「叫び（エキスペル）」ではない。その声が響いた瞬間、周囲を覆っていた「虚無（アブセンス）」が物理的に一掃され、そこに「誰もが見落としていたたった一つの『最初の』意味」が、戦慄という名のトーン（響き）を伴って再屹立（リリー・スタンド）してしまうような、生の最も峻烈な「射出」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "数と秩序の軌跡。",
+		"example": "Primitive is the million of centering.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の階層。"
+			]
+		}
+	},
+	{
+		"id": "pri-life",
+		"word": "Pri@Life",
+		"meaning": "始源としての生、一瞬一瞬を自己開拓の遷移として生きる一生",
+		"era": "Latin primus + Germanic life",
+		"etymology": {
+			"components": [
+				"pri (first / chief / original / initial / foremost)",
+				"life"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "The life of origin (始まりであり続ける一生。一つの場所に安住する（アイソレーション）のを拒絶し、常に宇宙の最新の標高（アヴァン）へと自らを更新し続け、不滅 of 物語（スクリプト）を描き続ける不屈の遷移)",
+		"thinking": "「（明日という名の絶望（ブラックアウト）を愛撫するのをやめ、宇宙の深淵（ソース）から飛来する理知（ロゴス）だけを）」「（自らの魂を礎（ベース）にして）始まり続け、存在し続け（Pri- / Primus）」「生き抜く（Life）」。あなたは自分の「呼吸（ブレス）」を、ただ無為に「消費（エキスペンド）」しているのではない。あなたが今日という日、どの「欺瞞（ノイズ）」を砕いて「新しい真理という名の座標（ドット）」を救い出し、どの「驚愕（パルス）」を自らの主権（ステータス）を屹立させるための「不動（ピース）」へと変貌（コンバート）させたか。そのすべての「始源（デリバリー）」の軌跡が、宇宙という名の不変 of アーカイブの上に、あなたの「存在という名の不滅 of ロゴス」として、物理的な質量を持って刻まれ続けているのだ。始源としての生。それは、あなたが「宇宙の主権者（クリエイター）」として, この荒野を「美しき変革（ピース）」へと変容させ通した際の, 魂の最高度の「抱擁」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "数と秩序の軌跡。",
+		"example": "Primitive is the million of centering.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の階層。"
+			]
+		}
 	}
 ];
