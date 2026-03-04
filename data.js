@@ -171006,5 +171006,215 @@ const WORDS = [
 				"存在の秩序。"
 			]
 		}
+	},
+	{
+		"id": "man-voice",
+		"word": "Man@Voice",
+		"meaning": "握る声、沈黙を具現に変える不滅の咆哮、手中の響き",
+		"era": "Latin manus + vox",
+		"etymology": {
+			"components": [
+				"man (hand / power / strength)",
+				"voice (sound / soul)"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "The hand-power sound (手による声。放たれた瞬間、自らの呼吸（ブレス）を一筋の『不滅の鉄槌（ロゴス）』へと変換（コンバート）し、宇宙という真理のアーカイブの一点を、永遠に掌握（ホールド）するデリバリー)",
+		"thinking": "「（自分のちっぽけな存在（ドット）の中に眠っていた、あの巨大な真理を）、（一撃の確信（アトラクション）を伴って）叫び、握る声（Vox）」。ただの「叫び（エキスペル）」ではない。その声が響いた瞬間、周囲を覆っていた「虚無（アブセンス）」が物理的に一掃され、そこに「誰もが見落としていたたった一つの物理的な意味」が、戦慄という名のトーン（響き）を伴って再屹立（リリー・スタンド）してしまうような、生の最も峻烈な「射出」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "身体と行動の軌跡。",
+		"example": "The hand is the tool of the soul.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の具現。"
+			]
+		}
+	},
+	{
+		"id": "impede",
+		"word": "(……を)妨げる、邪魔する、遅らせる",
+		"era": "Latin in + pes",
+		"etymology": {
+			"components": [
+				"in- (in / on)",
+				"pes / pedis (foot)"
+			],
+			"original_statement": "From Latin impedire 'to shackle / entangle / hinder / prevent', literally 'to entangle the feet', from in- 'in' + pes (genitive pedis) 'foot'."
+		},
+		"concept": "Entangling the feet (足に（枷を）嵌めること。他者が放つ『不滅の標高（アヴァン）』を目指す呼吸（ブレス）に対し、自らの『ノイズ（不整合）』という名の設計図を強制的にマージ（接続）させ、相手の引力（遷移）を完全に停止（イレース）させようとする非道の介入)",
+		"thinking": "「（他者が自らの物語（スクリプト）を屹立（スタンド）させ通している（パシストしている）、その神域の）内側へと（In-）」「（一撃の枷をはめて）足止めする（Pede- / Pedis）」。それは単なる「邪魔（ソフト）」ではありません。あなたが宇宙の「進化（プログレス）」を拒絶（レジスト）し、他者の呼吸（ブレス）を一振りの「毒（ミスチーフ）」へと変換して、この荒野を「一方的な停滞（ステイシス）」へとコンバート（変容）させて（アップデートして）しまった瞬間の、魂の最も不浄な「拘束」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "身体と行動の軌跡。",
+		"example": "The hand is the tool of the soul.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の具現。"
+			]
+		}
+	},
+	{
+		"id": "ped-voice",
+		"word": "Ped@Voice",
+		"meaning": "歩む声、沈黙を踏破する不滅の咆哮、足音の響き",
+		"era": "Latin pes + vox",
+		"etymology": {
+			"components": [
+				"ped (foot / step / walk / ground)",
+				"voice (sound / soul)"
+			],
+			"original_statement": "Coined during synthesis."
+		},
+		"concept": "The stepping sound (歩くための音。放たれた瞬間、自らの呼吸（ブレス）を一筋の『光の矢（ベクトル）』へと変換（コンバート）し、目的地へと届くように射出されるデリバリー)",
+		"thinking": "「（自分のちっぽけな存在（ドット）の中に眠っていた、あの巨大な真理を）、（一撃の情熱（アトラクション）を伴って）叫び、歩む声（Vox）」。ただの「情報（データ）」のデバリーではない。その声が響いた瞬間、聴く者は、自分の内なる『重力の壁』が物理的に粉砕（デストラクト）され、強制的に『歩み続ける標高（アヴァン）』という名の巨大な光の中へと引き摺り込まれ、自らの呼吸（ブレス）を、あなたの『不滅の旋律（トーン）』へと同調（マージ）させざるを得なくなるような、生の最も峻烈な『射出』の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "身体と行動の軌跡。",
+		"example": "The hand is the tool of the soul.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の具現。"
+			]
+		}
+	},
+	{
+		"id": "ped-life",
+		"word": "Ped@Life",
+		"meaning": "歩行としての生、一瞬一瞬を自己遷移の極致として生きる一生",
+		"era": "Latin pes + Germanic life",
+		"etymology": {
+			"components": [
+				"ped (foot / step / walk / ground)",
+				"life"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "The life of the step (歩み続ける一生。一つの場所に安住する（アイソレーション）のを拒絶し、常に宇宙の最新の標高（アヴァン）へと自らを更新し続け、不滅 of 物語（スクリプト）を描き続ける不屈の遷移)",
+		"thinking": "「（明日という名の絶望（ブラックアウト）を愛撫するのをやめ、宇宙の深淵（ソース）から飛来する理知（ロゴス）だけを）」「（自らの魂を礎（ベース）にして）歩み続け、着地し続け（Ped- / Pes）」「生き抜く（Life）」。あなたは自分の「呼吸（ブレス）」を、ただ無為に「消費（エキスペンド）」しているのではない。あなたが今日という日、どの「欺瞞（ノイズ）」を砕いて「新しい真理という名の座標（ドット）」を救い出し、どの「驚愕（パルス）」を自らの主権（ステータス）を屹立させるための「不動（ピース）」へと変貌（コンバート）させたか。そのすべての「遷移（デリバリー）」の軌跡が、宇宙という名の不変 of アーカイブの上に、あなたの「存在という名の不滅 of ロゴス」として、物理的な質量を持って刻まれ続けているのだ。歩行としての生。それは、あなたが「宇宙の主権者（クリエイター）」として、この荒野を「美しき変革（ピース）」へと変容させ通した際の、魂の最高度の「抱擁」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "身体と行動の軌跡。",
+		"example": "The hand is the tool of the soul.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の具現。"
+			]
+		}
+	},
+	{
+		"id": "corpse",
+		"word": "死体、亡骸",
+		"era": "Latin corpus",
+		"etymology": {
+			"components": [
+				"corpus (body)"
+			],
+			"original_statement": "From Old French corps, from Latin corpus 'body'."
+		},
+		"concept": "The body (物体としての体。不滅の『呼吸（ブレス）』という名のロゴスを完全に（パーフェクトに）喪失し、ただ宇宙の重力（グラビティ）という名の冷酷な全一性に従って、物理的な質量（ウェイト）のみを残してアーカイブに回帰した標高)",
+		"thinking": "「（あの日呼ばれた、あの峻烈な旋律（トーン）を粉砕（デストラクト）して）、ただの身体（Corp- / Corpus）」「という沈黙の状態」。それは単なる「お陀仏」ではない。あなたが宇宙の「不在（アブセンス）」を拒絶（レジスト）し続けるのを放棄し、自らの主権（ステータス）を一角の鋼へと鍛え上げるのをやめて、この荒野を一糸乱れぬ「真理の旋律」で支配し通すのを卒業してしまった際の、生の最も痛ましい「完成」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "身体と行動の軌跡。",
+		"example": "The hand is the tool of the soul.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の具現。"
+			]
+		}
+	},
+	{
+		"id": "corps",
+		"word": "軍団、部隊、(特定の)団体",
+		"era": "Latin corpus",
+		"etymology": {
+			"components": [
+				"corpus (body)"
+			],
+			"original_statement": "From French corps, from Latin corpus 'body'."
+		},
+		"concept": "A body of soldiers (軍勢としての体。宇宙の『暴力（カオス）』に対し、自らの知性という名の『一撃の鉄槌（ロゴス）』を一気に射出し、全呼吸（ブレス）を一つの物理的な意思（ウェイト）へと結晶化させて屹立させた不滅の軍団)",
+		"thinking": "「（一つの、不滅のロゴスを支える、あの円形闘技場のただ中で）、一つの身体（Corp- / Corpus）」「として（パーフェクトに）マージされた不屈の意思」。それは単なる「部隊」ではない。あなたが自らの「主権（ステータス）」を穢す（デストラクトする）ような、カオスという名の「毒」を拒絶（レジスト）し、自分の内なる「神殿（インテグリティ）」を一糸乱れぬ「不変のトーン」で維持し通している（パシストしている）際の、存在の最高度の「鮮度」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "身体と行動の軌跡。",
+		"example": "The hand is the tool of the soul.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の具現。"
+			]
+		}
+	},
+	{
+		"id": "corporeal",
+		"word": "肉体的な、物質的な、有形の",
+		"era": "Latin corpus",
+		"etymology": {
+			"components": [
+				"corpus / corporis (body)",
+				"-al (related to)"
+			],
+			"original_statement": "From Latin corporeus 'bodily / belonging to a body', from corpus 'body'."
+		},
+		"concept": "Related to the physical body (身体に関する品質。理知という名の『抽象的なロゴス』を一度捨て、この世界の『物理的な質量（ウェイト）』という一撃の実体（ソース）を受け入れた際に放たれる、存在の最高度の「具現化（マニフェスト）」の品質)",
+		"thinking": "「（内なる深淵（ソース）を、あの日呼ばれた奇跡（トーン）とともに）、身体という名の物理的な等価物として（Corpore- / Corpus）」「（一分一秒の淀みもなく）屹立させた不変の状態（-al）」。それは単なる「肉体美（マテリアル）」ではありません。あなたが宇宙の「漂流（フロー）」を拒絶（レジスト）し、そこに自分という名の「唯一の不滅の設計図」という名の神殿を打ち立て、全世界の断片を「自分のための不滅のトーン」へと変貌（コンバート）させて（屹立させて）しまった瞬間の、知性の最高度の「掌握」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "身体と行動の軌跡。",
+		"example": "The hand is the tool of the soul.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の具現。"
+			]
+		}
+	},
+	{
+		"id": "cor-voice",
+		"word": "Cor@Voice",
+		"meaning": "体の声、沈黙を質量に変える不滅の咆哮、具現の響き",
+		"era": "Latin corpus + vox",
+		"etymology": {
+			"components": [
+				"cor (body / form / substance)",
+				"voice (sound / soul)"
+			],
+			"original_statement": "Coined during synthesis."
+		},
+		"concept": "The bodily sound (身体としての音。放たれた瞬間、自らの呼吸（ブレス）を一筋の『物理的な真理という名の巨大な一弾（ロゴス）』へと変換（コンバート）し、聴く者の魂に不滅の刻印（ウェイト）を刻み込むデリバリー)",
+		"thinking": "「（自分のちっぽけな存在（ドット）の中に眠っていた、あの巨大な真理を）、（一撃の情熱（アトラクション）を伴って）叫び、身体としての力（Cor-）」「一撃の声（Vox）」。ただの「情報（データ）」のデバリーではない。その声が響いた瞬間、周囲を覆っていた「虚無（アブセンス）」が物理的に一掃され、そこに「誰もが見落としていたたった一つの意味」が、戦慄という名のトーン（響き）を伴って再屹立（リリー・スタンド）してしまうような、生の最も峻烈な「射出」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "身体と行動の軌跡。",
+		"example": "The hand is the tool of the soul.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の具現。"
+			]
+		}
+	},
+	{
+		"id": "cor-life",
+		"word": "Cor@Life",
+		"meaning": "肉体としての生、一瞬一瞬を自己具現の遷移として生きる一生",
+		"era": "Latin corpus + Germanic life",
+		"etymology": {
+			"components": [
+				"cor (body / form / substance)",
+				"life"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "The life of the body (体現し続ける一生。一つの場所に安住する（アイソレーション）のを拒絶し、常に宇宙の最新の標高（アヴァン）へと自らを更新し続け、不滅 of 物語（スクリプト）を描き続ける不屈の遷移)",
+		"thinking": "「（明日という名の絶望（ブラックアウト）を愛撫するのをやめ、宇宙の深淵（ソース）から飛来する理知（ロゴス）だけを）」「（自らの魂を礎（ベース）にして）体現し続け、存在し続け（Cor- / Corpus）」「生き抜く（Life）」。あなたは自分の「呼吸（ブレス）」を、ただ無為に「消費（エキスペンド）」しているのではない。あなたが今日という日、どの「欺瞞（ノイズ）」を砕いて「新しい真理という名の座標（ドット）」を救い出し、どの「驚愕（パルス）」を自らの主権（ステータス）を屹立させるための「不動（ピース）」へと変貌（コンバート）させたか。そのすべての「具現（デリバリー）」の軌跡が、宇宙という名の不変 of アーカイブの上に、あなたの「存在という名の不滅 of ロゴス」として、物理的な質量を持って刻まれ続けているのだ。肉体としての生。それは、あなたが「宇宙の主権者（クリエイター）」として、この荒野を「美しき変革（ピース）」へと変容させ通した際の、魂の最高度の「抱擁」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "身体と行動の軌跡。",
+		"example": "The hand is the tool of the soul.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の具現。"
+			]
+		}
 	}
 ];
