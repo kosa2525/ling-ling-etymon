@@ -169630,5 +169630,174 @@ const WORDS = [
 				"存在の解釈。"
 			]
 		}
+	},
+	{
+		"id": "adverse",
+		"word": "不利な、逆境の、敵対的な",
+		"meaning": "不利な",
+		"era": "Latin ad + vertere",
+		"etymology": {
+			"components": [
+				"ad- (against/to)",
+				"vertere (to turn)"
+			],
+			"original_statement": "From Old French advers, from Latin adversus 'turned against / hostile', past participle of advertere 'turn towards', from ad 'to' + vertere 'to turn'."
+		},
+		"concept": "Turned against (逆らって向かってくる（不利な）。自分という名の『光のベクトル』に対し、宇宙の理不尽な意志（カオス）が真っ向から激突（アトラクション）を仕掛けてきて、こちらの前進を力技で押し潰そうとする圧力状態)",
+		"thinking": "「（こちらを応援するのではなく）、真っ向から敵対して、あるいはこちらに向かって（Ad-）」「（一分一秒の淀みもなく）敵意の顔を向けられている状態（-verse / Vertere）」。それは単なる「不運」ではありません。あなたがこの荒野で「主権（ステータス）」を屹立させようとしたときに必ず立ち塞がる、重力という名の「試練」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "力と方向の軌跡。",
+		"example": "Movement is the proof of the existence of power.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在のベクトル。"
+			]
+		}
+	},
+	{
+		"id": "vertical",
+		"word": "垂直な、縦の、バーティカル",
+		"meaning": "垂直な",
+		"era": "Latin vertex",
+		"etymology": {
+			"components": [
+				"vertex (highest point / turning point)",
+				"vertere (to turn)"
+			],
+			"original_statement": "From Middle French vertical, from Late Latin verticalis 'overhead', from Latin vertex 'highest point / pole of the sky', from vertere 'to turn'."
+		},
+		"concept": "Overhead / Highest point (頂点に向かう（垂直な）。重力に這いつくばる『地面（ノイズ）』という平面的な次元から一気に離陸し、理知という名の一本の鋭い軸（ベクトル）となって、宇宙の上方（光）へ向かって直接屹立する空間の切開)",
+		"thinking": "「（天空の回転軸、あるいは一番高い頂点の向きへ）、上へ向かって直立し（Vertic- / Vertex / Vertere）」「（一分一秒の淀みもない）性質（-al）」。それは単なる「縦」ではありません。あなたが「水平的で退屈な広がり（アイソレーション）」を拒絶し、天と地を結ぶたった一本の「不滅の柱（ロゴス）」を、自らの意志によってこの荒野に打ち立てた、空間の「支配」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "力と方向の軌跡。",
+		"example": "Movement is the proof of the existence of power.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在のベクトル。"
+			]
+		}
+	},
+	{
+		"id": "vertigo",
+		"word": "めまい、バーティゴ",
+		"meaning": "めまい",
+		"era": "Latin vertere",
+		"etymology": {
+			"components": [
+				"vertere (to turn)"
+			],
+			"original_statement": "From Latin vertigo 'a whirling or spinning movement / dizziness', from vertere 'to turn'."
+		},
+		"concept": "Whirling movement (回転、めまい。宇宙の不変の『座標（王座）』が突如として足元から消失し、自らの肉体を含めた全世界がエントロピーに飲み込まれて、カオスの渦の中でコントロール不能のまま回転（崩壊）し続けるという、神経の強烈な悲鳴)",
+		"thinking": "「（自分が立っている大地が一瞬にして消え去ったかのように）、激しく回転し（Vert- / Vertere）」「（理知が追いつかないほどの）旋回状態（-igo）」。それは単なる「体調不良」ではありません。あなたが「確信して疑わなかった常識（アーカイブ）」を失い、自分の主権（ステータス）が世界の中にただの「振り回される点」として露呈したときの、肉体の「驚愕」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "力と方向の軌跡。",
+		"example": "Movement is the proof of the existence of power.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在のベクトル。"
+			]
+		}
+	},
+	{
+		"id": "repulse",
+		"word": "撃退する、拒絶する、反感を持たせる",
+		"meaning": "撃退する、拒絶する",
+		"era": "Latin re + pellere",
+		"etymology": {
+			"components": [
+				"re- (back)",
+				"pellere (to drive / push)"
+			],
+			"original_statement": "From Latin repulsus, past participle of repellere 'to drive back / repel'."
+		},
+		"concept": "Driven back (押し戻された状態（撃退、強い拒絶）。対象の放つ『醜い波動（カオス）』に自らの魂が耐え切れず、強烈な嫌悪感という名の『一撃の盾（ロゴス）』で相手を後ろへ激しく突き飛ばし、絶対の侵入不可領域を屹立させること)",
+		"thinking": "「（到底受け入れることのできない生理的嫌悪を伴って）、後方へと激しく（Re-）」「跳ね返す、あるいはその衝撃（-pulse / Pellere）」。それは単なる「お断り」ではありません。あなたが宇宙の「穢れ」を拒絶（レジスト）し、独自の神聖な空間（ステーション）にノイズが侵入するのを、身体の震え（ホラー）とともに本能で叩き落とす「絶対遮断」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "力と方向の軌跡。",
+		"example": "Movement is the proof of the existence of power.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在のベクトル。"
+			]
+		}
+	},
+	{
+		"id": "expulsion",
+		"word": "追放、除名、排出",
+		"meaning": "追放、除名",
+		"era": "Latin ex + pellere",
+		"etymology": {
+			"components": [
+				"ex- (out)",
+				"pellere (to drive / push)",
+				"-ion (action/state)"
+			],
+			"original_statement": "From Latin expulsionem 'a driving out', noun of action from past participle of expellere 'drive out'."
+		},
+		"concept": "Action of driving out (外へ押し出す行為。自らの『組織の法（完璧な設計図）』に抵触した異端（ノイズ）に対し、もはや修復の余地はないと一撃で断定し、権力のシステムをもって空間の外側（虚無）へと完全に弾き飛ばす非情の完了)",
+		"thinking": "「（すでに回復不能なエラー因子を）、システムの外部へと（Ex-）」「押し出す、あるいは追放する（-puls- / Pellere）」「（一分一秒の淀みもない）法的・物理的な執行（-ion）」。それは単なる「仲間外れ」ではありません。あなたが「秩序（ステータス）」を維持するため、身を切る痛みを伴って行われる、社会の「隔離手術」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "力と方向の軌跡。",
+		"example": "Movement is the proof of the existence of power.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在のベクトル。"
+			]
+		}
+	},
+	{
+		"id": "repulsive",
+		"word": "反発する、ひどく不快な、嫌悪感を抱かせる",
+		"meaning": "反発する、不快な",
+		"era": "Latin re + pellere",
+		"etymology": {
+			"components": [
+				"re- (back)",
+				"pellere (to drive)",
+				"-ive (tending to)"
+			],
+			"original_statement": "Coined in 15th c. 'driving back / repelling', from Latin repuls-, past participle stem of repellere, plus -ive."
+		},
+		"concept": "Tending to drive back (押し返すような品質（不快な）。その姿や匂いが宇宙における『調和の法（トーン）』を著しく破壊しており、視界に捉えた瞬間、魂のレベルで『遠ざけたい』と激震させるような圧倒的なマイナス質量)",
+		"thinking": "「（近づくことすら耐えがたいほど）、思わず後ろへと（Re-）」「相手を押し返してしまう、後退させてしまうような（-puls- / Pellere）」「（一分一秒の淀みもない）強烈な性質（-ive）」。それは単なる「見栄えが悪い」ことではありません。あなたが「自らの美意識（ロゴス）」を護るために放つ、全細胞が拒絶し悲鳴を上げるレベルの、感性の「シャットアウト」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "力と方向の軌跡。",
+		"example": "Movement is the proof of the existence of power.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在のベクトル。"
+			]
+		}
+	},
+	{
+		"id": "compulsory",
+		"word": "義務的な、強制的な、必修の、コンパルソリー",
+		"meaning": "義務的な",
+		"era": "Latin con + pellere",
+		"etymology": {
+			"components": [
+				"con- (together)",
+				"pellere (to drive / urge)"
+			],
+			"original_statement": "From Medieval Latin compulsorius, from Latin compulsus, past participle of compellere 'to drive together / compel'."
+		},
+		"concept": "Having the quality of compelling (強制する品質を持った。個人の『意思や好みのグラデーション（多様性）』を粉砕し、社会や法という名の『巨大なシステム（アーカイブ）』から上意下達で放たれた、絶対服従の回避不能な一撃のルール)",
+		"thinking": "「（例外を一切認めず）、全体を一つに括って（Com- / Con-）」「（一分一秒の淀みもなく）押し進める、強要するような（-pulsory / Pellere）」。それは単なる「決まり」ではありません。あなたが宇宙の「カオスへの脱線」を拒絶し、そこにある種の「全体行動としての不滅の足並み」を強制し維持するための、システムの「鎖」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "力と方向の軌跡。",
+		"example": "Movement is the proof of the existence of power.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在のベクトル。"
+			]
+		}
 	}
 ];
