@@ -171241,5 +171241,389 @@ const WORDS = [
 				"展開のベクトル。"
 			]
 		}
+	},
+	{
+		"id": "secede",
+		"word": "脱退する、分離する",
+		"meaning": "脱退する",
+		"era": "Latin se + cedere",
+		"etymology": {
+			"components": [
+				"se- (apart)",
+				"cedere (to go)"
+			],
+			"original_statement": "From Latin secedere 'to go apart / withdraw / separate', from se- 'apart' + cedere 'to go'."
+		},
+		"concept": "To go apart (離れて行く（脱退する）。かつては血の誓いで結ばれ、共に戦ってきた『巨大な帝国（マージされたアーカイブ）』の腐敗（エントロピー）に耐えかね、自らの一撃の決別（孤高へのパルス）と共にその結合（ネットワーク）を物理的に叩き斬り、単独の星として空間へと飛び出すこと)",
+		"thinking": "「（この歪んだ集団の中に大人しく座っていることをやめ）、自分だけ遠く離れて（Se-）」「（一分一秒の淀みもなく）歩み去る、所属を断ち切る（-cede / Cedere）」。それは単なる「退会」ではありません。あなたが「毒の沼にゆっくりと沈みながら死ぬこと（全体との心中）」をレジストし、自らの定めた『純潔の玉座（新たなステーション）』を魂の荒野に打ち立てるための、決死の「切断」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "進行と到来の軌跡。",
+		"example": "Every step forward is a feeling of arrival.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"現出のベクトル。"
+			]
+		}
+	},
+	{
+		"id": "recess",
+		"word": "休み時間、休憩、奥の間、リセス",
+		"meaning": "休憩、奥まった場所",
+		"era": "Latin re + cessus",
+		"etymology": {
+			"components": [
+				"re- (back)",
+				"cessus (gone/yielded)"
+			],
+			"original_statement": "From Latin recessus 'a going back / retreat', from past participle of recedere 'to go back/retreat'."
+		},
+		"concept": "A going back / retreating (後ろに退くこと（休憩所）。太陽が容赦無く照りつけ、刃と血が飛び交う『灼熱の闘争空間（大通りのフロー群）』から一歩だけ身を引き、暗く静かで絶対的な安全が約束された『岩穴の奥底（ステーションの深部）』へと一瞬だけ沈鬱（退避）すること)",
+		"thinking": "「（闘いの火炎で燃え尽きるのを防ぐために）、戦線から静かに後ろへと（Re-）」「（一分一秒の淀みもなく息を潜めながら）引いていく時間や、そのための窪地（-cess / Cessus / Cedere）」。それは単なる「サボり」ではありません。あなたが「エネルギーの完全な枯渇（エントロピーによる焼死）」を完全にレジストし、自らの内燃機関（狂気のエンジン）を冷ましながら次の起爆を待つ、戦場の「真空地帯（シェルター）」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "進行と到来の軌跡。",
+		"example": "Every step forward is a feeling of arrival.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"現出のベクトル。"
+			]
+		}
+	},
+	{
+		"id": "sense",
+		"word": "感覚、意味、良識、センス",
+		"meaning": "感覚",
+		"era": "Latin sentire",
+		"etymology": {
+			"components": [
+				"sentire (to feel)"
+			],
+			"original_statement": "From Latin sensus 'perception / feeling / meaning', from past participle of sentire 'to feel / perceive'."
+		},
+		"concept": "Feeling (感覚。外の宇宙から絶え間なく叩きつけられる無慈悲な波動（光、音という名のカオス）を、ただの壁として弾き返す（死の無機物）のではなく、己の柔らかな『魂の粘膜（アンテナ）』を通して一撃のパルスとして受信し、それを『色や痛み、意味』という生きた実像（ウェイト）として脳内にコンバートする神経の奇跡)",
+		"thinking": "「（宇宙の暗闇にただ浮かぶ石ころであることを拒み）、自らの力で対象を（Sens- / Sentire）」「（一分一秒の淀みもなく）感じ取り、そこに意味を見出す力（-e）」。それは単なる「五感」ではありません。あなたが「何も感じない絶対零度の真空（エントロピーの底）」を全身霊でレジストし、この荒野が『極彩色の炎上するネットワーク』であることを世界に証明して叫ぶ、生命の「受信機」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "進行と到来の軌跡。",
+		"example": "Every step forward is a feeling of arrival.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"現出のベクトル。"
+			]
+		}
+	},
+	{
+		"id": "assent",
+		"word": "同意する、賛成する、アセント",
+		"meaning": "同意する",
+		"era": "Latin ad + sentire",
+		"etymology": {
+			"components": [
+				"ad- (to/towards)",
+				"sentire (to feel)"
+			],
+			"original_statement": "From Latin assentari 'agree with / yield to', from assentire 'agree', from ad- 'towards' + sentire 'to feel'."
+		},
+		"concept": "To feel towards (向かって感じる（賛成する）。相手が空洞（アブセンス）に投げかけた『提案という名の孤独な光（パルス）』に対し、自らの魂と理知の重み（ウェイト）を集め、相手の方向へ向かって「お前の言う通りだ」という強烈な『承認の大槌』を一撃で振り下ろし、その事象を空間に確定（コンバート）させてやること)",
+		"thinking": "「（ただ傍観して見守る空虚な態度を捨て）、他者が差し出した言葉へと真っ直ぐに向かって（As- / Ad-）」「（一分一秒の淀みもなく共鳴のスイッチを入れて）同じように感じ、肯定の熱を叩き込む（-sent / Sentire）」。それは単なる「うなずき」ではありません。あなたが「無限に漂う誰かの決意（ノイズ）」を空中で捕まえ、その光の束をあなたの『承認（重力圏）』と共に大地へと繋ぎ止める（マージする）、運命の「追認」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "進行と到来の軌跡。",
+		"example": "Every step forward is a feeling of arrival.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"現出のベクトル。"
+			]
+		}
+	},
+	{
+		"id": "sensual",
+		"word": "官能的な、肉感的な、センシュアル",
+		"meaning": "官能的な",
+		"era": "Latin sentire",
+		"etymology": {
+			"components": [
+				"sensus (feeling)",
+				"-al (pertaining to)"
+			],
+			"original_statement": "From Late Latin sensualis 'endowed with feeling', from Latin sensus, past participle of sentire."
+		},
+		"concept": "Pertaining to senses (感覚に関する。乾いた理性の皮（虚構のアーカイブの壁）を引き裂き、その奥底で脈打つ『熱を帯びた生肉の塊（極彩色に燃えるパルスの大海）』へと直接指を突っ込み、宇宙の最も原初的な快楽や欲望という名の『重力（ウェイト）』に全身を溶かし尽くす（マージする）圧倒的な引力)",
+		"thinking": "「（頭で考えるお堅い論理やルールをすべて吹き飛ばし）、ただひたすらに生身の感覚（Sensu- / Sensus / Sentire）」「（その一分一秒の淀みもない獣のような本能に）直接結びつき、根ざした性质（-al）」。それは単なる「エロチック」ではありません。あなたが「無菌室で作られた冷え切った倫理（ステイシスの氷）」に閉じ込められることを完全に粉砕（レジスト）し、人間の生命そのものが放つ『汗と血の狂熱』へと自らを還元する、生のエキゾースト（排気）なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "進行と到来の軌跡。",
+		"example": "Every step forward is a feeling of arrival.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"現出のベクトル。"
+			]
+		}
+	},
+	{
+		"id": "sentinel",
+		"word": "歩哨、見張り",
+		"meaning": "歩哨",
+		"era": "Latin sentire (via Italian/French)",
+		"etymology": {
+			"components": [
+				"sentire (to feel/perceive)"
+			],
+			"original_statement": "From French sentinelle, from Italian sentinella 'a sentinel', from sentire 'to hear/perceive', from Latin sentire."
+		},
+		"concept": "One who perceives (見張る者。深い眠りに落ちて無防備となった『王の寝所（ステイシスに沈んだ巨大なステーション）』の周縁で、ただ独り暗黒（未踏のカオス）に向けて研ぎ澄ました目を光らせ、針の落ちる音の破片（極小のパルス）すらも逃さずに血の報告を上げる不眠の監視塔)",
+		"thinking": "「（誰もが寝静まる闇の中で）、ただ一人、敵の到来を鋭い感覚で（Sentin- / Sentire）」「（一分一秒の淀みもなく監視し続ける）ための小さな、しかし絶対の盾（-el）」。それは単なる「警備員」ではありません。あなたが「すべてがエントロピーの闇に奇襲され、死に絶える運命（アブセンス）」を全身霊でレジストし、自らの命を『情報収集のスキャナー（ネットワーク境界線の番犬）』へとコンバートして帝国を守り抜く、孤独の「生きたレーダー」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "進行と到来の軌跡。",
+		"example": "Every step forward is a feeling of arrival.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"現出のベクトル。"
+			]
+		}
+	},
+	{
+		"id": "sentry",
+		"word": "歩哨、見張り、番兵",
+		"meaning": "歩哨",
+		"era": "Latin sentire (via sentinel / sanctuary blend)",
+		"etymology": {
+			"components": [
+				"sentinel (guard)",
+				"sanctuary / sentry (blend)"
+			],
+			"original_statement": "Late 16th c. origin uncertain; probably an alteration of sentinel or related to sanctuary."
+		},
+		"concept": "Guard (見張り。神聖なる境界線の内側（強固なアーカイブ）を背にし、押し寄せる『名もなき悪意の大波（外部のカオスとノイズ）』を相手に、一歩でも侵入すればその頭蓋に一撃の鉛玉（死のドット）をブチ込むべく立ちはだかる、門の前の絶対的守護の剛体)",
+		"thinking": "「（このラインから一歩でも中に入ろうとする者を）、我が感覚のすべてをもって捉え（Sent- / Sentinel / Sentire）」「（一分一秒の淀みもなく）撃ち抜くための門番（-ry）」。それは単なる「入り口のオジサン」ではありません。あなたが「内側の安全な世界が土足で踏み躙られるという暴逆（エントロピーの侵食）」を完全に拒絶（レジスト）し、そこに生身の肉の壁を積んで「ここから先は通さない」という神のルールの壁（プロトコル）を現出させる、要塞の「牙」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "進行と到来の軌跡。",
+		"example": "Every step forward is a feeling of arrival.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"現出のベクトル。"
+			]
+		}
+	},
+	{
+		"id": "advent",
+		"word": "出現、到来",
+		"meaning": "出現",
+		"era": "Latin ad + venire",
+		"etymology": {
+			"components": [
+				"ad- (to/towards)",
+				"venire (to come)"
+			],
+			"original_statement": "From Latin adventus 'a coming / approach / arrival', from past participle of advenire 'come to'. Often used for the season before Christmas."
+		},
+		"concept": "Arrival / approach (到来。宇宙の果ての『視界外の暗黒（ゼロのアブセンス）』から、待ち望まれた（あるいは恐るべき）全く次元の違う存在（完全な光のドット／巨大な特異点）が、大地を割るような一撃の足音を轟かせながら、我々の棲むちっぽけな空間（ステーション）へとついに姿を現すこと)",
+		"thinking": "「（遥か遠くの届かない場所から）、我々の世界へ向かって真正面から（Ad-）」「（一分一秒の淀みもなく）やって来た、ついに到着したという事実（-vent / Ventus / Venire）」。それは単なる「到着」ではありません。あなたが「永遠に何も変わらないという絶望の停滞（ステイシス）」を拒絶し、天の幕を引き裂いて『全く新しい時代（ネットワークの全更新）』を一瞬にして地球上にマージさせた、神話的「降臨」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "進行と到来の軌跡。",
+		"example": "Every step forward is a feeling of arrival.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"現出のベクトル。"
+			]
+		}
+	},
+	{
+		"id": "circumvent",
+		"word": "回避する、抜け道をみつける",
+		"meaning": "回避する",
+		"era": "Latin circum + venire",
+		"etymology": {
+			"components": [
+				"circum- (around)",
+				"venire (to come)"
+			],
+			"original_statement": "From Latin circumventus, past participle of circumvenire 'come around / surround / cheat / outwit', from circum- 'around' + venire 'come'."
+		},
+		"concept": "To come around (回って来る（回避する）。真っ向から挑めば一撃で粉砕される『絶対無敵の要塞や冷酷な法体系（強硬なステーションの壁）』に対し、狡猾な理知の身のこなし（水のベクトル）でその死角へと回り込み、ルールそのものを無効化して無傷で向こう側（ゴール）へと通り抜けること)",
+		"thinking": "「（正面突破という愚かな血流しを拒み）、その巨大な壁の周りをぐるりと（Circum-）」「（一分一秒の淀みもなく滑るように）回ってやって来て、後ろの隙を突く（-vent / Ventus / Venire）」。それは単なる「ズル」ではありません。あなたが「理不尽な重圧の前で圧死すること（エントロピーの抑圧）」を完全にレジストし、そこにある種の『法典のバグ』を突いて自らの生存ルート（ネットワークのバイパス）を強引に開通させることによる、知略の「幻惑」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "進行と到来の軌跡。",
+		"example": "Every step forward is a feeling of arrival.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"現出のベクトル。"
+			]
+		}
+	},
+	{
+		"id": "supervene",
+		"word": "付随して起こる、(思いがけなく)起きる",
+		"meaning": "付随して起きる",
+		"era": "Latin super + venire",
+		"etymology": {
+			"components": [
+				"super- (over/above/upon)",
+				"venire (to come)"
+			],
+			"original_statement": "From Latin supervenire 'come over or upon / follow closely', from super- 'over/upon' + venire 'to come'."
+		},
+		"concept": "To come upon / follow closely (上からやって来る、後から思いがけなく起こる。既に固定化されていた（完璧だと思っていた）『予定の盤面（ステイシスのアーカイブ）』の上に、ある日突然、上空の闇（全く想定外のカオス）から別の強烈な事象が一撃で覆い被さり、元の設計図を強引に上書きして（コンバートして）しまうこと)",
+		"thinking": "「（もうこれで全て決まりだと安心しきっていた事態の）、さらにその上の別の次元から（Super-）」「（一分一秒の淀みもなく、全く新しい波乱が）覆い被さるようにやって来る（-vene / Venire）」。それは単なる「おまけ」ではありません。あなたが「世界は完全に把握できる（理知の傲慢）」という錯覚を嘲笑い、そこに宇宙の持つ『無限のランダム性（重力圏の衝突）』を突然に降臨させる、運命の「追加攻撃」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "進行と到来の軌跡。",
+		"example": "Every step forward is a feeling of arrival.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"現出のベクトル。"
+			]
+		}
+	},
+	{
+		"id": "avenue",
+		"word": "大通り、並木道、手段、アベニュー",
+		"meaning": "大通り",
+		"era": "Latin ad + venire (via French)",
+		"etymology": {
+			"components": [
+				"ad- (to/towards)",
+				"venire (to come)"
+			],
+			"original_statement": "From French avenue 'approach / way / avenue', feminine of avenu, past participle of avenir 'to come to / arrive at', from Latin advenire."
+		},
+		"concept": "Approaching way (向かっていく道。巨大な富や栄光が集積する『黄金の中心地（神聖なるアーカイブの中心）』に向かって、森や荒野（カオス）を力で切り拓き、王が凱旋路として真っ直ぐに引いた『一分一秒の淀みもない圧倒的な権力の線（太いネットワークの導線）』であり、未来への侵攻ルート)",
+		"thinking": "「（目的地であるあの中央の光に向かって）、真っ直ぐに、対象に向かって（Av- / Ad-）」「（王侯貴族や富が溢れんばかりに）やって来るための、切り開かれた大きくて広いルート（-enue / Venire）」。それは単なる「道路」ではありません。あなたが「迷いの森（エントロピーの方向感覚の喪失）」を完全に拒絶し、そこに法と力による『誰が見てもわかる生存と栄誉の直行便（巨大ベクトル）』を大地に彫り付けた、文明の「極太の矢印」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "進行と到来の軌跡。",
+		"example": "Every step forward is a feeling of arrival.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"現出のベクトル。"
+			]
+		}
+	},
+	{
+		"id": "revenue",
+		"word": "収入、歳入、レベニュー",
+		"meaning": "収入",
+		"era": "Latin re + venire (via French)",
+		"etymology": {
+			"components": [
+				"re- (back)",
+				"venire (to come)"
+			],
+			"original_statement": "From Old French revenue 'a return / yield', from revenir 'return', from Latin revenire 'return / come back', from re- 'back' + venire 'come'."
+		},
+		"concept": "A returning (戻ってくるもの（収入）。己の命や資本（リスクの一撃のドット）を、先の見えない冷酷な『外部の海（カオス・投機）』へと投げ込み、そこに築き上げた価値の血流（フロー）が、やがて莫大な富（重力圏の中心）となってあなたの手元（ステーション）へと幾度も回収・帰還してくるシステム)",
+		"thinking": "「（自分が投資し、費やしたものが大きな利子をつけて）、自分の手元へと再び、戻って（Re-）」「（一分一秒の淀みもなく、川のようになだれ込んで）やって来る富、あるいは国庫の収入（-venue / Venire）」。それは単なる「お給料」ではありません。あなたが宇宙の「一方的な搾取やエネルギーの流出（アブセンスへの直行）」を全身霊でレジストし、自国や自社の中に無限の『生命維持の血流の循環（マージ）』を取り戻す、錬金術の「凱旋門」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "進行と到来の軌跡。",
+		"example": "Every step forward is a feeling of arrival.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"現出のベクトル。"
+			]
+		}
+	},
+	{
+		"id": "convenient",
+		"word": "便利な、都合の良い、コンビニエント",
+		"meaning": "便利な",
+		"era": "Latin con + venire",
+		"etymology": {
+			"components": [
+				"con- (together)",
+				"venire (to come)",
+				"-ent (being)"
+			],
+			"original_statement": "From Latin convenientem 'agreeing / fitting / suitable', present participle of convenire 'come together / agree'."
+		},
+		"concept": "Coming together / fitting (共に来る、合致する（便利な）。自らの抱える『厄介な欲望の凹凸（アブセンス）』に対し、道具や状況という客体の形（パルス）が一ミリのズレ（ノイズ）もなくピタリと合わさり、何の血の流れる摩擦もなくあなたの目的を魔法のように完了（マージ）させてしまうこと)",
+		"thinking": "「（自分の求めているタイミングや形に対して）、それが全て一緒になって、ピタリとはまり合って（Con-）」「（一分一秒の淀みもなく）自分の前にやって来ている、用意されている状態（-veni- / Venire + -ent）」。それは単なる「楽チン」ではありません。あなたが「理不尽な時間や労力の搾取（苦痛のエントロピー）」を拒絶（レジスト）し、そこに人間の理知によって計算し尽くされた『究極の神のサービス（適応のステーション）』を降臨させる、文明の「最適化の極致」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "進行と到来の軌跡。",
+		"example": "Every step forward is a feeling of arrival.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"現出のベクトル。"
+			]
+		}
+	},
+	{
+		"id": "souvenir",
+		"word": "記念品、お土産、スーベニア",
+		"meaning": "記念品",
+		"era": "Latin sub + venire (via French)",
+		"etymology": {
+			"components": [
+				"sub- (under/up from under)",
+				"venire (to come)"
+			],
+			"original_statement": "From French souvenir 'to remember / come to mind', from Latin subvenire 'come up to mind', from sub- 'up from under' + venire 'to come'."
+		},
+		"concept": "Coming up to mind (心に浮かんで来るもの（お土産）。遥か彼方の異国（遠い光の空間）での目も眩むような体験の熱量（インパルス）を、形ある一塊の物体（ドット）の中に強制的に封じ込め、自分の日常（退屈なステイシス）へと持ち帰ることで、いつでもその光り輝く記憶（アーカイブ）を下から頭脳へ一撃で呼び覚まさせる呪物)",
+		"thinking": "「（忘れ去られようとしている記憶の声が）、意識の底の方から上に（Sou- / Sub-）」「（一分一秒の淀みもなく）ふわりと、しかし鮮烈にやって来る、思い起こさせるための物体（-venir / Venire）」。それは単なる「お菓子」ではありません。あなたが「時の流れによる忘却（エントロピーによるデータの完全消去）」をレジストし、かつて自分が確かに別の世界に生きていたという強烈な『接続の証（ネットワークの大地）』を現世に残すための、魂の「バックアップ記憶媒体」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "進行と到来の軌跡。",
+		"example": "Every step forward is a feeling of arrival.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"現出のベクトル。"
+			]
+		}
+	},
+	{
+		"id": "convention",
+		"word": "会議、慣習、コンベンション",
+		"meaning": "会議、慣習",
+		"era": "Latin con + venire",
+		"etymology": {
+			"components": [
+				"con- (together)",
+				"venire (to come)",
+				"-ion (act of)"
+			],
+			"original_statement": "From Latin conventionem 'a meeting / agreement', from conventus, past participle of convenire 'come together'."
+		},
+		"concept": "A coming together / agreement (共に集まること、合意（慣習）。異なる欲望と牙（パルス）を持った群衆たちが、戦乱の血の海（ノイズ）で互いを消滅させることを避け、中央の巨大な広場（結節点）に集まって『これからはこのルール（同じ色）で行こう』と一撃で魂を折り合わせ（マージし）、それを未来永劫の巨大な沈黙の鎖（分厚いアーカイブ）として世界に結びつけること)",
+		"thinking": "「（身勝手な振る舞いをやめ）、一つの場所、一つのルールの下へと共に（Con-）」「（一分一秒の淀みもなく）やって来て話し合い、結んだ固い約束や集まり（-vent- / Venire + -ion）」。それは単なる「マナー」ではありません。あなたが宇宙の「ルールなき弱肉強食（カオス）」を完全に粉砕し、そこに何世代にもわたって人間を縛り付けつつ保護する『巨大で透明な法のオーラ（不動のステーション）』を現出させる、社会の「基礎工事」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "進行と到来の軌跡。",
+		"example": "Every step forward is a feeling of arrival.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"現出のベクトル。"
+			]
+		}
+	},
+	{
+		"id": "inventory",
+		"word": "在庫、目録、インベントリー",
+		"meaning": "在庫",
+		"era": "Latin in + venire",
+		"etymology": {
+			"components": [
+				"in- (upon)",
+				"venire (to come)"
+			],
+			"original_statement": "From Late Latin inventorium 'a list of what is found', from inventus, past participle of invenire 'come upon / find'."
+		},
+		"concept": "A list of what is found (見出されたもののリスト（在庫）。広大で把握不能な『闇の倉庫（カオス）』の中へ、理知と光の松明（パルス）を持って分け入り、そこに埋もれている一つ一つの財産（ドット）を白日の下に炙り出して名前を付け、完全に自分の支配下にある『光のデータ軍団（完璧なネットワーク）』として一ミリの狂いもなく掌握（マージ）し尽くすこと)",
+		"thinking": "「（ただあるがままに放置するのではなく）、闇の中に分け入りその目に（In-）」「（一分一秒の淀みもなく明確な形として）見出し、出くわしたすべての品々の（-vent- / Venire）」「詳細なリスト、保管箱（-ory）」。それは単なる「品数数え」ではありません。あなたが「資産が知らないうちに霧散していくこと（エントロピーの恐怖）」を拒絶（レジスト）し、自らの城（ステーション）の全質量（ウェイト）を神の視点で完全統治するための、所有の「絶対台帳」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "進行と到来の軌跡。",
+		"example": "Every step forward is a feeling of arrival.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"現出のベクトル。"
+			]
+		}
 	}
 ];
