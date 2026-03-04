@@ -154909,5 +154909,478 @@ const WORDS = [
 			]
 		},
 		"part_of_speech": "noun"
+	},
+	{
+		"id": "strategy",
+		"word": "Strategy",
+		"meaning": "戦略、計略",
+		"era": "Ancient Greek stratos + agein",
+		"etymology": {
+			"components": [
+				"stratos (army / multitude)",
+				"agein (to lead)"
+			],
+			"original_statement": "From Greek strategia 'office of a general', from strategos 'a general', from stratos 'army' + agein 'to lead'."
+		},
+		"concept": "Leading the multitude (大勢を導くこと。勝利への地図)",
+		"thinking": "「軍勢（Stratos）」を「導く（Agein）」。目の前の一戦（戦術）で勝つことではなく、全体を俯瞰し、限られた資源で最終的な目的を達成するための、長期的な展望と決断の芸術です。混沌の中に、意思という一本の道を通す行為を指します。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "crisis",
+		"word": "Crisis",
+		"meaning": "危機、重大局面、(病気の)転機",
+		"era": "Ancient Greek krinein",
+		"etymology": {
+			"components": [
+				"krinein (to decide / judge / separate)"
+			],
+			"original_statement": "From Greek krisis 'a deciding / judgment / event / outcome', from krinein 'to separate / decide'."
+		},
+		"concept": "The point of decision (決断の時、峻別される運命)",
+		"thinking": "「見極め決める（Krinein）」こと。危機とは単なる災難ではなく、それまでの曖昧さが許されなくなり、右か左か、生か死かという「決断」を迫られる分水嶺です。闇の中で、何が本当に重要かを峻別した時、危機は救いへと変わります。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "authentic",
+		"word": "Authentic",
+		"meaning": "本物の、確実な、信頼できる",
+		"era": "Ancient Greek autos",
+		"etymology": {
+			"components": [
+				"autos (self)",
+				"hentes (doer / worker)"
+			],
+			"original_statement": "From Greek authentikos 'original / genuine / principal', from authentes 'one who acts with his own authority', from autos 'self' + hentes 'doer / worker'."
+		},
+		"concept": "Self-doer (自ら成す者、自己に根ざした真実)",
+		"thinking": "「自分自身（Autos）」で「行う（Hentes）」こと。誰かの模倣ではなく、自分の権威と責任において、自らの内側から湧き出た意志を形にすること。本物であることは、自分を偽らず、自分の生命の根源に誠実であることでしか達成できません。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "stadium",
+		"word": "Stadium",
+		"meaning": "競技場、スタジアム、段階",
+		"era": "Ancient Greek stadion",
+		"etymology": {
+			"components": [
+				"histánai (to stand)"
+			],
+			"original_statement": "From Greek stadion 'a measure of length / a running track', literally 'a fixed place', from histanai 'to make to stand'."
+		},
+		"concept": "A fixed place to stand (立つべき場所、定められた距離の舞台)",
+		"thinking": "「立つ場所（Histánai）」。定められた長さ（約180m）のトラック。それは、人間がその可能性を極限まで引き出し、一瞬の火花を散らすために用意された、限定された「聖域」です。限られた空間だからこそ、そこでの歩みは強烈な意味を持ちます。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "athlete",
+		"word": "Athlete",
+		"meaning": "競技者、アスリート、運動選手",
+		"era": "Ancient Greek athlon",
+		"etymology": {
+			"components": [
+				"athlon (prize / contest)"
+			],
+			"original_statement": "From Greek athletes 'combatant / champion', from athlein 'to contest for a prize', from athlon 'a prize'."
+		},
+		"concept": "Competitor for a prize (賞を求めて戦う者、克己の苦闘)",
+		"thinking": "「賞品（Athlon）」を求めて競う者。しかし真の賞品とは物質ではなく、戦いの中で手に入れる、磨き上げられた「自分自身」なのです。苦しみ（Agony）を伴う修練の果てに、ただ一人でその限界へと立ち向かう者の気高き姿を指します。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "museum",
+		"word": "Museum",
+		"meaning": "博物館、美術館、(比喩的に)宝庫",
+		"era": "Ancient Greek Mousa",
+		"etymology": {
+			"components": [
+				"Mousa (Muse)"
+			],
+			"original_statement": "From Greek mouseion 'place of the Muses / seat of study / library'."
+		},
+		"concept": "Seat of the Muses (ミューズの居所、美と知心の神殿)",
+		"thinking": "美と学問を司る女神「ミューズ（Mousa）」の聖域。そこは単なる展示場ではなく、人類がこれまでに手にした最高度の「感動」と「知恵」を保存し、再び魂にインスピレーションを吹き込むための対話の場でした。時を越えた魂との邂逅の場所です。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "academy",
+		"word": "Academy",
+		"meaning": "学園、学会、学問の殿堂",
+		"era": "Greek Akademos",
+		"etymology": {
+			"components": [
+				"Akademos (a local hero)"
+			],
+			"original_statement": "From Greek Akademia 'the grove of Akademos', where Plato taught."
+		},
+		"concept": "The grove of wisdom (知の木立、思索の森)",
+		"thinking": "英雄アカデモスの「森（Akademia）」。かつてプラトンが弟子たちと歩き、語らい、宇宙の真理を探求したあの静かな庭園の名です。学問とは密室で独りで行うものではなく、美しい環境の中で共に問い、共に歩む「プロセス」そのものなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "idiom",
+		"word": "Idiom",
+		"meaning": "慣用句、特有の表現、方言",
+		"era": "Ancient Greek idios",
+		"etymology": {
+			"components": [
+				"idios (own / private / peculiar)"
+			],
+			"original_statement": "From Greek idioma 'peculiarity / specific property / unique mode of expression', from idiousthai 'to appropriate to oneself', from idios 'own / private'."
+		},
+		"concept": "Own property (自分自身のもの、特定の共同体の秘密の記号)",
+		"thinking": "「自分の（Idios）」固有の表現。直訳すれば意味をなさない、その言葉を共有する者たちだけが理解できる「秘密の合言葉」。それは共同体のアイデンティティを繋ぎ止めるための、最も親密で、最も誇り高い「私的な言語」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "fantasy",
+		"word": "Fantasy",
+		"meaning": "空想、ファンタジー、幻想",
+		"era": "Ancient Greek phainein",
+		"etymology": {
+			"components": [
+				"phainein (to show / reveal)"
+			],
+			"original_statement": "From Greek phantasia 'appearance / image / imagination', from phantazesthai 'to picture to oneself', from phainein 'to show / bring to light'."
+		},
+		"concept": "Bringing to light (光の中へ出すこと、心の中の景色を映し出す盾)",
+		"thinking": "「映し出し、見せる（Phainein）」。現実にないものではなく、心の奥底で蠢いている「目に見えない真実」を、光の下へ引きずり出し、誰もが見える形（像）として提示すること。空想とは、現実という鏡に映らない「魂の輪郭」を可視化するための装置です。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "syndrome",
+		"word": "Syndrome",
+		"meaning": "症候群、シンドローム、集団的な現象",
+		"era": "Ancient Greek sun- + dramein",
+		"etymology": {
+			"components": [
+				"sun- (together)",
+				"dramein (to run)"
+			],
+			"original_statement": "From Greek syndrome 'concurrence', literally 'a running together', from sun- 'together' + dramein 'to run'."
+		},
+		"concept": "Running together (共に走ること、同時多発的な予兆)",
+		"thinking": "「共に（Sun）」「走る（Dramein）」。バラバラの不快な兆候たちが、ある目的（病）のために示し合わせたように一斉に駆け寄ってくること。原因が一つに特定できなくても、それらが「共に現れる」という事実そのものが、隠れた真実の姿を浮き彫りにします。合流する現象。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "symphony",
+		"word": "Symphony",
+		"meaning": "交響曲、シンフォニー、調和",
+		"era": "Ancient Greek sun- + phone",
+		"etymology": {
+			"components": [
+				"sun- (together)",
+				"phone (voice / sound)"
+			],
+			"original_statement": "From Greek symphonia 'concord of sound', from sun- 'together' + phone 'voice / sound'."
+		},
+		"concept": "Voices together (共に響く声、不協和音を超えた融合)",
+		"thinking": "「共に（Sun）」「響く（Phone）」。バラバラの楽器、バラバラの旋律が、ひとつの大きな目的のために、その個性を消すことなく巨大な一つの「共鳴」へと溶け合うこと。多様性が、摩擦ではなく「美」として結実した、最も豊かな平和の形を指しています。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "telescope",
+		"word": "Telescope",
+		"meaning": "望遠鏡、テレスコープ",
+		"era": "Ancient Greek tele- + skopos",
+		"etymology": {
+			"components": [
+				"tele- (far off)",
+				"skopos (watcher / watcher / to aim at)"
+			],
+			"original_statement": "From Modern Latin telescopium, from Greek tele- 'far off' + -skopos 'one who watches / aims at', from skopein 'to look at / examine'."
+		},
+		"concept": "Watcher from far off (遠くを見守る者、空間の境界を超える眼差)",
+		"thinking": "「遠く（Tele）」を「視る（Skop）」。肉体という檻を飛び出し、何万光年の彼方にある光を、今この瞳へと招き入れること。それは、あまりに孤独で広大な宇宙に対して、人間が「知る」という名の橋を架け、世界を我が物（理解）にするための果敢な挑戦です。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "microscope",
+		"word": "Microscope",
+		"meaning": "顕微鏡、マイクロスコープ",
+		"era": "Ancient Greek mikros + skopos",
+		"etymology": {
+			"components": [
+				"mikros (small)",
+				"skopos (to see)"
+			],
+			"original_statement": "From Modern Latin microscopium, from Greek mikros 'small' + skopein 'to look at / examine'."
+		},
+		"concept": "Watcher of the small (微細なものを視る者、極小の宇宙への侵入)",
+		"thinking": "「小さきもの（Mikros）」を「視る（Skop）」。目には見えない一滴の水の中に、無数の生命が蠢いている。当たり前だと思っていた世界の「足元」に、もうひとつの広大な宇宙が広がっていることを発見する知性。細部への執着は、真理への最短距離です。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "autobiography",
+		"word": "Autobiography",
+		"meaning": "自叙伝、自伝",
+		"era": "Ancient Greek autos + bios + graphia",
+		"etymology": {
+			"components": [
+				"autos (self)",
+				"bios (life)",
+				"graphia (writing)"
+			],
+			"original_statement": "From Greek auto- 'self' + bios 'life' + graphein 'to write'."
+		},
+		"concept": "Self-life-writing (自ら綴る生命の記録、自らの物語への署名)",
+		"thinking": "「自分（Autos）」の「生（Bios）」を「書く（Graph）」。他者の評価や歴史家の視線ではなく、他ならぬ自分自身の内側から見た「真実の変遷」を、言葉としてこの世に定着させること。それは、自分の人生を、自分だけの「作品」として完成させるための最後の聖域です。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "epilogue",
+		"word": "Epilogue",
+		"meaning": "結びの言葉、エピローグ、後書き",
+		"era": "Ancient Greek epi- + logos",
+		"etymology": {
+			"components": [
+				"epi- (upon / in addition to)",
+				"logos (speech / word)"
+			],
+			"original_statement": "From Greek epilogos 'conclusion of a speech', from epi- 'upon / beside' + logos 'speech'."
+		},
+		"concept": "Speech upon (語りの上に置く、余韻としての言葉)",
+		"thinking": "「物語の上（Epi）」に置かれる「言葉（Logos）」。すべての物語が終わり、幕が降りた後に、静かに添えられる最後の溜息、あるいは祝福。それは、体験したすべての激動を、静かなる「智慧」として自分の心に定着させるための、大切な時間の余韻です。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "prologue",
+		"word": "Prologue",
+		"meaning": "序幕、序論、プロローグ、前触れ",
+		"era": "Ancient Greek pro- + logos",
+		"etymology": {
+			"components": [
+				"pro- (before)",
+				"logos (speech / word)"
+			],
+			"original_statement": "From Greek prologos 'introduction', from pro- 'before' + logos 'speech'."
+		},
+		"concept": "Speech before (語りの前に置く、予感の言葉)",
+		"thinking": "「物語の前（Pro）」にある「言葉（Logos）」。これから始まる未知の体験に向けて、観客、あるいは自分自身の心を「開く」ための儀式。それは単なる説明ではなく、これから起きるすべてを予感させ、期待という名の灯火を心に灯すための、最初の震えです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "anemic",
+		"word": "Anemic",
+		"meaning": "貧血の、無気力な、元気のない",
+		"era": "Ancient Greek a- + haima",
+		"etymology": {
+			"components": [
+				"a- (without)",
+				"haima (blood)"
+			],
+			"original_statement": "From Greek anaimos 'bloodless', from a- 'not / without' + haima 'blood'."
+		},
+		"concept": "Without blood (血が足りない、生命力の枯渇)",
+		"thinking": "「血（Haima）」が「無い（A-）」。肉体を巡り、酸素と熱を運ぶはずの「赤い流れ」が途絶えている。それは単なる病状ではなく、何かを成し遂げようとする「情熱」や「野心」をも失い、存在そのものが薄まり、透明になっていくような、静かなる危機を指しています。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "hemodynamics",
+		"word": "Hemodynamics",
+		"meaning": "血液動態、血行動態",
+		"era": "Ancient Greek haima + dunamis",
+		"etymology": {
+			"components": [
+				"haima (blood)",
+				"dunamis (power)"
+			],
+			"original_statement": "From Greek haima 'blood' + dunamis 'power / force'."
+		},
+		"concept": "The power of blood (血の力、巡り続ける生命の拍動)",
+		"thinking": "「血（Haima）」という「力（Dunamis）」。単なる液体ではなく、心臓というエンジンの拍動を受け、血管という迷路を凄まじいエネルギーで駆け巡る「力」の流れ。それは、静止を拒否し、一瞬も休むことなく新陳代謝を繰り返す、生命のダイナミズムそのものを数値化したものです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "hypnotherapy",
+		"word": "Hypnotherapy",
+		"meaning": "催眠療法、ヒプノセラピー",
+		"era": "Ancient Greek hupnos + therapeia",
+		"etymology": {
+			"components": [
+				"hupnos (sleep)",
+				"therapeia (healing / service / treatment)"
+			],
+			"original_statement": "From Greek hupnos 'sleep' + therapeia 'healing / service'."
+		},
+		"concept": "Healing through sleep (眠りによる治癒、深層意識の修復)",
+		"thinking": "「眠り（Hupnos）」を用いた「癒やし（Therapeia）」。意識という番人が眠りについた隙に、深層心理という広大な庭園に忍び込み、そこに植わった心のトゲを一本ずつ抜いていくこと。眠りは死に似ていますが、最も深い場所での「再生」の時間でもあります。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "therapy",
+		"word": "Therapy",
+		"meaning": "療法、テラピー、癒やし、奉仕",
+		"era": "Ancient Greek therapeia",
+		"etymology": {
+			"components": [
+				"therapeuein (to wait on / attend / serve)"
+			],
+			"original_statement": "From Greek therapeia 'healing / medical treatment / attendance', from therapeuein 'to wait on / serve / attend'."
+		},
+		"concept": "Serving and waiting (仕え、待つこと。寄り添う治癒の姿)",
+		"thinking": "「仕える、付き添う（Therapeuein）」。単なる命令や処置ではなく、病者に寄り添い、その回復を「待つ」という献身的なサービス。癒やしとは他者が与えるものではなく、適切な環境を整え、仕え続けることで、対象自らが立ち上がる力、その機が熟すのを見守る忍耐の別名です。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
 	}
 ];
