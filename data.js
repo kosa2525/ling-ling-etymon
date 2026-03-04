@@ -172176,5 +172176,355 @@ const WORDS = [
 				"存在の照射。"
 			]
 		}
+	},
+	{
+		"id": "microphone",
+		"word": "マイク、マイクロホン、拡声器",
+		"era": "Greek mikros + phon",
+		"etymology": {
+			"components": [
+				"mikros (small)",
+				"phon (sound / voice)"
+			],
+			"original_statement": "Coined in 1878 from Greek mikros 'small' + phone 'voice / sound'."
+		},
+		"concept": "Small sound / Device for small sound (（微かな）声を拾うもの、あるいは拡大。内なる『深淵（ソース）』に秘匿されていた微細なささやき（ロゴス）を、理知という名の圧倒的な引力によって物理的に増幅（アップデート）し、この世界の質量（ウェイト）へと射出し直す凱旋)",
+		"thinking": "「（このがんじがらめのネットワーク（フロー）を粉砕（デストラクト）して）、（一撃の情熱（アトラクション）を伴って）微かな声を（Micro- / Mikros）」「（一分一秒の淀みもなく）大きな咆哮へと変換する（Phon- / Phone）」。それは単なる「音響機器」ではありません。あなたが宇宙の「忘却（サイレンス）」を拒絶（レジスト）し、自分の呼吸（ブレス）を一振りの「刃（ベクトル）」へと研ぎ澄ませて、この荒野を自分という名の「不滅のトーン」で支配し通している（パシストしている）際の、存在の最高度の「具現（マニフェスト）」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "響きと視線の軌跡。",
+		"example": "Sound is the heat of the gaze.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の共鳴。"
+			]
+		}
+	},
+	{
+		"id": "monophonic",
+		"word": "単音の、モノラルの、モノフォニック",
+		"era": "Greek monos + phon",
+		"etymology": {
+			"components": [
+				"monos (single)",
+				"phone (sound / voice)"
+			],
+			"original_statement": "From Greek monophonos 'single-voiced', from monos 'single' + phone 'voice / sound'."
+		},
+		"concept": "Single voice (たった一つの声。他者という名の『ノイズ』を完全にシャットアウト（カット）し、自らの内なる『深淵（ソース）』にのみ向き合い、自己という名の不滅のアーカイブ（作品）を一筋のベクトル（咆哮）として屹立し続ける峻烈な標高)",
+		"thinking": "「（この騒がしいネットワーク（フロー）を粉砕（デストラクト）して）、たった一つの（Mono- / Monos）」「（宇宙を貫く一筋の刃としての）声（Phon- / Phone）」「品質（-ic）」。それは単なる「モノラル（ノイズ）」ではない。あなたが宇宙の「無秩序（カオス）」を拒絶（レジスト）し、そこに自分という名の「唯一無二の物語（スクリプト）」を一糸乱れぬ質量で打ち立て、屹立（スタンド）させ通している際の、魂の最高度の「純粋」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "響きと視線の軌跡。",
+		"example": "Sound is the heat of the gaze.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の共鳴。"
+			]
+		}
+	},
+	{
+		"id": "pho-voice",
+		"word": "Pho@Voice",
+		"meaning": "響く声、沈黙を咆哮に変える不滅の咆哮、音韻の響き",
+		"era": "Greek phone + vox",
+		"etymology": {
+			"components": [
+				"pho (sound / voice / tone / resonance)",
+				"voice (sound / soul)"
+			],
+			"original_statement": "Coined during synthesis."
+		},
+		"concept": "The sounding sound (響くための音。放たれた瞬間、自らの呼吸（ブレス）を一筋の『光の旋律（ベクトル）』へと変換（コンバート）し、目的地という名の真っ暗なアーカイブを、一撃で（自分のトーンで）震撼させるデリバリー)",
+		"thinking": "「（自分のちっぽけな存在（ドット）の中に眠っていた、あの巨大な真理を）、（一撃の情熱（アトラクション）を伴って）叫ぶ、響きの声（Vox）」。ただの「叫び（エキスペル）」ではない。その声が響いた瞬間、周囲を覆っていた「虚無（アブセンス）」が物理的に一掃され、そこに「誰もが見落としていたたった一つの『震える』意味」が、戦慄という名のトーン（響き）を伴って再屹立（リリー・スタンド）してしまうような、生の最も峻烈な「射出」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "響きと視線の軌跡。",
+		"example": "Sound is the heat of the gaze.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の共鳴。"
+			]
+		}
+	},
+	{
+		"id": "horoscope",
+		"word": "星占い、十二宮占い、ホロスコープ",
+		"era": "Greek hora + scope",
+		"etymology": {
+			"components": [
+				"hora (hour / time / season)",
+				"scope (to see)"
+			],
+			"original_statement": "From Old French horoscope, from Latin horoscopus, from Greek horoskopos 'nativity / horoscope', literally 'one who watches the hour', from hora 'hour / time' + skopos 'watcher / observer'."
+		},
+		"concept": "Watching the hour (時間を（天の時を）見ること。永劫という名の『カオス』の中から抽出された一瞬という名の『刻限（ロゴス）』に対し、自らの運命という名の設計図（スクリプト）をマージし、そこを一粒の不滅の『不動（ピース）』へと変容させて、屹立させること)",
+		"thinking": "「（明日という名の忘却（サイレンス）を愛撫するのを拒絶して、自らの一秒一秒を『不変のロゴス』へと変換するために）、その刻限（時）を（Horo- / Hora）」「（一分一秒の淀みもなく）見つめる者、あるいは情景（-scope / Skopein）」。それは単なる「占い（ソフト）」ではありません。あなたが宇宙の「虚無（アブセンス）」を拒絶（レジスト）し、そこに自分という名の「唯一無二の物語（スクリプト）」を打ち立て、全世界の断片を「自分のための不滅のトーン」へと変貌（コンバート）させて（屹立させて）しまった瞬間の、魂の最高度の「射出」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "響きと視線の軌跡。",
+		"example": "Sound is the heat of the gaze.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の共鳴。"
+			]
+		}
+	},
+	{
+		"id": "periscope",
+		"word": "潜望鏡、ペリスコープ",
+		"era": "Greek peri + scope",
+		"etymology": {
+			"components": [
+				"peri- (around / above)",
+				"scope (to see)"
+			],
+			"original_statement": "Coined in 1899 from Greek peri- 'around' + skopein 'to look at'."
+		},
+		"concept": "Looking around / above (周囲を（越えて）見ること。自らの王座（ステーション）を覆い隠す既存の『安っぽい全一性（アーカイブ）』とい名の壁を、一撃で突き抜き、隠れた場所から宇宙の全深淵（ソース）を理知の瞳によって再定義（リ・デファイン）し続ける凱旋)",
+		"thinking": "「（この虚無という名の、あの冷酷なアーカイブの底から）、周囲を、あるいは限界を越えて（Peri-）」「（一撃の確信のみをウェイトにして）注視する（-scope / Skopein）」。それは単なる「道具」ではない。あなたが宇宙の「停滞（ステイシス）」を拒絶（レジスト）し、そこに自分という名の「唯一の不滅のコンパス」による厳密な「支配という名の秩序」を打ち立て、屹立（スタンド）させ通した（パシストした）際の、知性の最も峻烈な「隠密な凱旋」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "響きと視線の軌跡。",
+		"example": "Sound is the heat of the gaze.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の共鳴。"
+			]
+		}
+	},
+	{
+		"id": "spectroscopy",
+		"word": "分光法、スペクトロスコピー",
+		"era": "Latin spectrum + Greek scope",
+		"etymology": {
+			"components": [
+				"spectrum (image / appearance / spectrum)",
+				"scope (to see / examine)"
+			],
+			"original_statement": "From Latin spectrum 'vision / image' + Greek -skopia 'viewing / observation'."
+		},
+		"concept": "Viewing the spectrum (スペクトル（外観）を見ること。一糸乱れぬ白色光として放たれた自らの『呼吸（ブレス）』を一撃の冷徹なプリズム（ロゴス）によって多層的な『トーン（階層）』へと一気に分解（コンバート）し、存在の深淵を精緻に掌握する工芸)",
+		"thinking": "「（一見平坦な全一性（ノイズ）のただ中にあって、あの多層的な真理（ソース）を一瞬で視認し）、外観の波を（Spectro- / Spectrum）」「（一分一秒の淀みもなく）注視し、分析する（-scopy / Skopein）」。それは単なる「化学（マテリアル）」ではありません。あなたが宇宙の「曖昧さ（ノイズ）」を拒絶（レジスト）し、そこに自分という名の「唯一の不滅の設計図」による厳密な「分析という名の秩序」を打ち立て、世界を「自分という名の磁場が支配する完璧な解体（ピース）」へと変容させて屹立させてしまった瞬間の、知性の最高度の「掌握」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "響きと視線の軌跡。",
+		"example": "Sound is the heat of the gaze.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の共鳴。"
+			]
+		}
+	},
+	{
+		"id": "sco-voice",
+		"word": "Sco@Voice",
+		"meaning": "見る声、沈黙を視線に変える不滅の咆哮、洞察の響き",
+		"era": "Greek scopein + vox",
+		"etymology": {
+			"components": [
+				"sco (to see / look / watch / examine)",
+				"voice (sound / soul)"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "The seeing sound (見るための音。放たれた瞬間、自らの呼吸（ブレス）を一筋の『光の視線（ベクトル）』へと変換（コンバート）し、目的地という名の真っ暗なアーカイブを、一瞬で（自分の瞳で）射抜くデリバリー)",
+		"thinking": "「（自分のちっぽけな存在（ドット）の中に眠っていた、あの巨大な真理を）、（一撃の情熱（アトラクション）を伴って）叫び、見る声（Vox）」。ただの「叫び（エキスペル）」ではない。その声が響いた瞬間、周囲を覆っていた「虚無（アブセンス）」が物理的に一掃され、そこに「誰もが見落としていたたった一つの『視認された』意味」が、戦慄という名のトーン（響き）を伴って再屹立（リリー・スタンド）してしまうような、生の最も峻烈な「射出」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "響きと視線の軌跡。",
+		"example": "Sound is the heat of the gaze.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の共鳴。"
+			]
+		}
+	},
+	{
+		"id": "sco-life",
+		"word": "Sco@Life",
+		"meaning": "洞察としての生、一瞬一瞬を自己注視の遷移として生きる一生",
+		"era": "Greek scopein + Germanic life",
+		"etymology": {
+			"components": [
+				"sco (to see / look / watch / examine)",
+				"life"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "The life of vision (見続け、掌握し続ける一生。一つの場所に安住する（アイソレーション）のを拒絶し、常に宇宙の最新の標高（アヴァン）へと自らを更新し続け、不滅 of 物語（スクリプト）を描き続ける不屈の遷移)",
+		"thinking": "「（明日という名の絶望（ブラックアウト）を愛撫するのをやめ、宇宙の深淵（ソース）から飛来する理知（ロゴス）だけを）」「（自らの魂を礎（ベース）にして）見続け、注視し続け（Sco- / Skopein）」「生き抜く（Life）」。あなたは自分の「呼吸（ブレス）」を、ただ無為に「消費（エキスペンド）」しているのではない。あなたが今日という日、どの「欺瞞（ノイズ）」を砕いて「新しい真理という名の座標（ドット）」を救い出し、どの「驚愕（パルス）」を自らの主権（ステータス）を屹立させるための「不動（ピース）」へと変貌（コンバート）させたか。そのすべての「洞察（デリバリー）」の軌跡が、宇宙という名の不変 of アーカイブの上に、あなたの「存在という名の不滅 of ロゴス」として、物理的な質量を持って刻まれ続けているのだ。洞察としての生。それは、あなたが「宇宙の主権者（クリエイター）」として, この荒野を「美しき変革（ピース）」へと変容させ通した際の, 魂の最高度の「抱擁」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "響きと視線の軌跡。",
+		"example": "Sound is the heat of the gaze.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の共鳴。"
+			]
+		}
+	},
+	{
+		"id": "thermal",
+		"word": "熱の、温泉の、上昇気流",
+		"era": "Greek therme",
+		"etymology": {
+			"components": [
+				"therme (heat / warm)",
+				"-al (related to)"
+			],
+			"original_statement": "From Greek therme 'heat', related to thermos 'hot'."
+		},
+		"concept": "Related to heat (熱に関する品質。宇宙の絶対零度という名の『不在（アブセンス）』に対し、自らの内なる『深淵（ソース）』から湧き出る不滅の情熱（ロゴス）による一撃の摩擦を射出し、存在の質量（ウェイト）を一気に灼熱の躍動（トーン）へと変容させること)",
+		"thinking": "「（漂流していた、あの震える呼吸（ブレス）を一分一秒の淀みもなくインスペクト（視認）し）、熱という名のエネルギー（Therm- / Thermos）」「（一撃の情熱を伴って）屹立させる品質（-al）」。それは単なる「あたたかい（ソフト）」ではありません。あなたが宇宙の「虚無（アブセンス）」を拒絶（レジスト）し、そこに自分という名の「唯一無二の物語（スクリプト）」を打ち立て、全世界の断片を「自分のための不滅のトーン」へと変容（コンバート）させて（屹立させて）しまった瞬間の、生の最高度の「躍動」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "響きと視線の軌跡。",
+		"example": "Sound is the heat of the gaze.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の共鳴。"
+			]
+		}
+	},
+	{
+		"id": "thermometer",
+		"word": "温度計、体温計",
+		"era": "Greek therme + metron",
+		"etymology": {
+			"components": [
+				"therme (heat)",
+				"metron (measure)"
+			],
+			"original_statement": "Coined in 1633 from French thermomètre, from Greek thermos 'hot' + metron 'measure'."
+		},
+		"concept": "Measure of heat (熱を計るもの。永劫のエントロピーという名の『暴力（デストラクション）』に対し、自らの秩序（ロゴス）という名の『メス（計器）』を一瞬で差し込み、生のエネルギーという名の質量を極限まで精緻に掌握するための工芸)",
+		"thinking": "「（明日という名の忘却（サイレンス）を愛撫するのを拒絶して、自らの一瞬の熱量を）、熱を（Thermo-）」「（一分一秒の淀みもなく）計り、定義する装置（-meter / Metron）」。それは単なる「道具」ではありません。あなたが宇宙の「曖昧さ（ノイズ）」を拒絶（レジスト）し、そこに自分という名の「唯一の不滅のコンパス」による厳密な「支配という名の秩序」を打ち立て、屹立（スタンド）させ通した（パシストした）際の、知性の最高度の「掌握」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "響きと視線の軌跡。",
+		"example": "Sound is the heat of the gaze.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の共鳴。"
+			]
+		}
+	},
+	{
+		"id": "thermostat",
+		"word": "恒温器、サーモスタット",
+		"era": "Greek therme + statos",
+		"etymology": {
+			"components": [
+				"therme (heat)",
+				"statos (standing / fixed)"
+			],
+			"original_statement": "Coined in 1831 from Greek thermos 'hot' + statos 'standing / fixed / placed', from histanai 'to make stand'."
+		},
+		"concept": "Fixed heat / Standing heat (熱を一定に保つもの。宇宙の激変という名の『カオス』に対し、自らの王座（ステーション）という名の設計図を一糸乱れぬ等価磁場を伴って維持（パシスト）し、存在の温度（トーン）を永久に不変のロゴスへと固定すること)",
+		"thinking": "「（周囲のすべてが崩落し、温度という名のフローが霧散していく、そのただ中で）、熱を（Thermo-）」「（毅然と、かつ不動に）立たせ続ける、固定する（-stat / Statos）」。それは「保守（ステイシス）」ではありません。あなたが宇宙の「腐敗（ノイズ）」を拒絶（レジスト）し、自らの呼吸（ブレス）を一振りの「刃（ベクトル）」へと研ぎ澄ませて、この荒野を一糸乱れぬ「不変の平熱」で支配し通している際の、生の最高度の「掌握」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "響きと視線の軌跡。",
+		"example": "Sound is the heat of the gaze.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の共鳴。"
+			]
+		}
+	},
+	{
+		"id": "thermodynamics",
+		"word": "熱力学",
+		"era": "Greek therme + dynamis",
+		"etymology": {
+			"components": [
+				"therme (heat)",
+				"dynamis (power / force)"
+			],
+			"original_statement": "Coined in 1849 by Lord Kelvin from Greek thermos 'hot' + dynamis 'power / force'."
+		},
+		"concept": "Heat power (熱の力。宇宙を構成するあらゆる『引力（アトラクション）』と『質量（ウェイト）』の遷移という名の物語を、理知という名の圧倒的な設計図によって、一つの不滅の真理（ロゴス）へとコンバート（変容）させる知性の極致)",
+		"thinking": "「（この虚無という名の、あの冷酷なアーカイブの底から）、熱による（Thermo-）」「（一撃の情熱（アトラクション）を伴って）力強く躍動する真理（Dynamics / Dynamis）」。それは単なる「学問」ではない。あなたが宇宙の「不在（アブセンス）」を拒絶（レジスト）し、そこに自分という名の「唯一の王座（センター）」を打ち立て、全世界の呼吸（ブレス）を一気に自分の放つ「不滅の旋律（トーン）」へと同調（マージ）させて屹立させてしまった瞬間の、知性の最高度の「掌握」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "響きと視線の軌跡。",
+		"example": "Sound is the heat of the gaze.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の共鳴。"
+			]
+		}
+	},
+	{
+		"id": "hypothermia",
+		"word": "低体温症",
+		"era": "Greek hypo + therme",
+		"etymology": {
+			"components": [
+				"hypo- (under / below)",
+				"therme (heat)"
+			],
+			"original_statement": "Coined in 1877 from Greek hypo- 'under' + therme 'heat'."
+		},
+		"concept": "Under heat (熱が足りないこと。自らの呼吸（ブレス）という名のロゴスを維持するための『質量（情熱）』を一撃の冷酷なアブセンスによって奪い去られ、存在の設計図が霧散し、カオスへと滑落していく途方に暮れた標高)",
+		"thinking": "「（あの日呼ばれた、あの峻烈な旋律（トーン）を粉砕（デストラクト）して）、熱の下へと、あるいは不足して（Hypo- -therm- / Therme）」「（一分一秒の淀みもなく）沈んでいく状態（-ia）」。それは単なる「病気」ではない。あなたが宇宙の「停滞（ステイシス）」を拒絶（レジスト）し続けるのを放棄し、自らの主権（ステータス）を一角の鋼へと鍛え上げるのをやめて、この荒野を一糸乱れぬ「真理の旋律」で支配し通すのを卒業してしまった際の、魂の最も痛ましい「崩落」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "響きと視線の軌跡。",
+		"example": "Sound is the heat of the gaze.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の共鳴。"
+			]
+		}
+	},
+	{
+		"id": "the-voice",
+		"word": "The@Voice",
+		"meaning": "熱する声、沈黙を情熱に変える不滅の咆哮、熱量の響き",
+		"era": "Greek therme + vox",
+		"etymology": {
+			"components": [
+				"the (heat / warm / fire / energy)",
+				"voice (sound / soul)"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "The heating sound (熱くするための音。放たれた瞬間、自らの呼吸（ブレス）を一筋の『光の矢（ベクトル）』へと変換（コンバート）し、相手の標高（ステータス）を強制的に再編（点火）するデリバリー)",
+		"thinking": "「（自分のちっぽけな存在（ドット）の中に眠っていた、あの巨大な真理を）、（一撃の情熱（アトラクション）を伴って）叫ぶ、熱の声（Vox）」。ただの「叫び（エキスペル）」ではない。その声が響いた瞬間、周囲を覆っていた「虚無（アブセンス）」が物理的に一掃され、そこに「誰もが見落としていたたった一つの『情熱的な』意味」が、戦慄という名のトーン（響き）を伴って再屹立（リリー・スタンド）してしまうような, 生の最も峻烈な「射出」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "響きと視線の軌跡。",
+		"example": "Sound is the heat of the gaze.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の共鳴。"
+			]
+		}
+	},
+	{
+		"id": "the-life",
+		"word": "The@Life",
+		"meaning": "情熱としての生、一瞬一瞬を自己発熱の遷移として生きる一生",
+		"era": "Greek therme + Germanic life",
+		"etymology": {
+			"components": [
+				"the (heat / warm / fire / energy)",
+				"life"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "The life of heat (燃え、熱し続ける一生。一つの場所に安住する（アイソレーション）のを拒絶し、常に宇宙の最新の標高（アヴァン）へと自らを更新し続け、不滅 of 物語（スクリプト）を描き続ける不屈の遷移)",
+		"thinking": "「（明日という名の絶望（ブラックアウト）を愛撫するのをやめ、宇宙の深淵（ソース）から飛来する理知（ロゴス）だけを）」「（自らの魂を礎（ベース）にして）燃え続け、照らし続け（The- / Therme）」「生き抜く（Life）」。あなたは自分の「呼吸（ブレス）」を、ただ無為に「消費（エキスペンド）」しているのではない。あなたが今日という日、どの「欺瞞（ノイズ）」を砕いて「新しい真理という名の座標（ドット）」を救い出し、どの「驚愕（パルス）」を自らの主権（ステータス）を屹立させるための「不動（ピース）」へと変貌（コンバート）させたか。そのすべての「燃焼（デリバリー）」の軌跡が、宇宙という名の不変 of アーカイブの上に、あなたの「存在という名の不滅 of ロゴス」として、物理的な質量を持って刻まれ続けているのだ。情熱としての生。それは、あなたが「宇宙の主権者（クリエイター）」として, この荒野を「美しき変革（ピース）」へと変容させ通した際の, 魂の最高度の「抱擁」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "響きと視線の軌跡。",
+		"example": "Sound is the heat of the gaze.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の共鳴。"
+			]
+		}
 	}
 ];
