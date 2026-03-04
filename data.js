@@ -170520,5 +170520,366 @@ const WORDS = [
 				"存在の指針。"
 			]
 		}
+	},
+	{
+		"id": "confer",
+		"word": "話し合う、(称号などを)授与する、コンファー",
+		"meaning": "話し合う、授与する",
+		"era": "Latin con + ferre",
+		"etymology": {
+			"components": [
+				"con- (together)",
+				"ferre (to carry)"
+			],
+			"original_statement": "From Latin conferre 'bring together / collect / compare / consult', from com- 'together' + ferre 'to carry'."
+		},
+		"concept": "To bring together (共に持ち寄る（協議する、授与する）。複数の独立した『王座（ステーション）』が、それぞれの手元にある『知恵や権利という名の質量（ウェイト）』を一つの祭壇（中心）へと持ち寄り、火花を散らせながら新たな『決定（大きな一つの光）』へとマージさせる儀式)",
+		"thinking": "「（一人で抱え込んでいても始まらないため）、互いの考えや証拠を共に（Con-）」「（一撃の真剣さをもって）持ち寄る、すり合わせる（-fer / Ferre）」。それは単なる「相談」ではありません。あなたが「孤独な独断（アイソレーション）」を粉砕し、複数の引力圏を融合させることで、宇宙における『より強大なベクトル（権力や方針）』を物理的に誕生させる、血の通った「錬成」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "運搬と変転の軌跡。",
+		"example": "Motion is the essence of life and change.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"作用のベクトル。"
+			]
+		}
+	},
+	{
+		"id": "elate",
+		"word": "有頂天にさせる、元気づける",
+		"meaning": "有頂天にさせる",
+		"era": "Latin e + latus",
+		"etymology": {
+			"components": [
+				"e- (out)",
+				"latus (carried)"
+			],
+			"original_statement": "From Latin elatus 'uplifted / exalted', past participle of efferre 'bring forth / elevate', from ex- 'out' + latus 'carried'."
+		},
+		"concept": "Carried out / Exalted (外に運ばれた、高みに上げられた（有頂天にさせる）。絶望や日常という名の泥のように重い『重力の底（ステイシス）』から、突如として放たれた歓喜の爆炎（パルス）が相手の魂を一撃で鷲掴みにし、そのまま宇宙の成層圏（光の絶頂）へと物理的に打ち上げ（キャリーオーバーし）てしまうこと)",
+		"thinking": "「（暗く縮こまっていた底辺の場所から）、外へ、そして圧倒的な高みへと（E-）」「（歓喜の力によって）持ち運び上げられた状態（-late / Latus / Ferre）」。それは単なる「嬉しい」ではありません。あなたが「どうせダメだという自己否定の泥沼（アイソレーション）」を完全に破壊し、自らを光り輝く玉座（ステーション）へと一瞬にしてコンバートさせる、魂の「急速浮上」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "運搬と変転の軌跡。",
+		"example": "Motion is the essence of life and change.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"作用のベクトル。"
+			]
+		}
+	},
+	{
+		"id": "legislate",
+		"word": "法律を制定する、法規を立てる",
+		"meaning": "法律を制定する",
+		"era": "Latin lex + latus",
+		"etymology": {
+			"components": [
+				"lex (law)",
+				"latus (carried / brought forward)"
+			],
+			"original_statement": "Back-formation from legislator, from Latin legislator 'proposer of a law', from legis (genitive of lex 'law') + lator 'proposer', from latus 'carried'."
+		},
+		"concept": "To carry / bring forward a law (法を運び出す（立法する）。弱肉強食という名の『血まみれのカオス（荒野）』に対し、人類の理知と闘争の果てに組み上げた『絶対に侵してはならない大地のルール（ロゴス）』という名の巨大な石碑を、世界の中央へ一撃でドンと運び（据え）置くこと)",
+		"thinking": "「（暴力の嵐が吹き荒れる空間に）、法やルールという絶対的な秩序を（Legis- / Lex）」「（一分一秒の淀みもなく）持ち運び、据え付ける（-late / Latus / Ferre）」。それは単なる「ルール作り」ではありません。あなたが「力のある者がすべてを奪う無秩序（エントロピー）」を徹底的に拒絶（レジスト）し、そこに人間の精神が到達した究極の「防衛線（ネットワークのプロトコル）」を実装する、文明の「建立」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "運搬と変転の軌跡。",
+		"example": "Motion is the essence of life and change.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"作用のベクトル。"
+			]
+		}
+	},
+	{
+		"id": "collate",
+		"word": "照合する、ページ順を揃える、コルート",
+		"meaning": "照合する",
+		"era": "Latin con + latus",
+		"etymology": {
+			"components": [
+				"con- (together)",
+				"latus (carried)"
+			],
+			"original_statement": "From Latin collatus 'brought together', past participle of conferre 'bring together'."
+		},
+		"concept": "Carried together (共に運ばれた（照合する）。無数に飛び散って『乱舞する断片（ノイズ）』に対し、理知の指先（ピンセット）を超高速で走らせ、それらが本来あるべき『正しい配列という一枚の完璧な絵（アーカイブ）』へと物理的に持ち寄り・縫合（マージ）し直す執念の復元作業)",
+		"thinking": "「（順番がグチャグチャになったものを）、すべて一つにまとめて（Col- / Con-）」「（本来の場所へと一撃の正確さをもって）運び合わせる、揃える（-late / Latus / Ferre）」。それは単なる「整理整頓」ではありません。あなたが宇宙の「自然崩壊していくバラバラの散逸（エントロピー）」を完全にレジストし、失われた秩序（ロゴスの流れ）を自らの手で完全復活させる、知の「蘇生」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "運搬と変転の軌跡。",
+		"example": "Motion is the essence of life and change.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"作用のベクトル。"
+			]
+		}
+	},
+	{
+		"id": "oblate",
+		"word": "扁平な、(宗教的な)奉献者",
+		"meaning": "扁平な、奉献者",
+		"era": "Latin ob + latus",
+		"etymology": {
+			"components": [
+				"ob- (against/before)",
+				"latus (carried)"
+			],
+			"original_statement": "From Latin oblatus 'offered / brought before', serving as past participle of offerre 'offer'. In geometry, from modern Latin oblatus 'flattened'. Meaning depends on context."
+		},
+		"concept": "Carried / Offered against (差し出された、平たくされた。神の祭壇（究極のステーション）の前に、自らの人生のすべてを『絶対の生贄（パルス）』として運び出して（持ち出して）ひれ伏す行為。または、宇宙の巨大な引力によって真円の光が『ひしゃげて』定着した剛体)",
+		"thinking": "「（神や圧し掛かる巨大な力の極致に向かって）、その手前に（Ob-）」「（一分一秒の淀みもなく）運び出され、差し出されたもの（-late / Latus / Ferre）」。それは単なる「献身」あるいは「形」ではありません。あなたが「自分一人のためだけの小さな自由（アイソレーション）」を粉砕し、より巨大で圧倒的な質量（全体）の前に、自らの形を書き換えられながらも（コンバートして）全存在を委ねる、服従の「極北」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "運搬と変転の軌跡。",
+		"example": "Motion is the essence of life and change.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"作用のベクトル。"
+			]
+		}
+	},
+	{
+		"id": "motor",
+		"word": "モーター、原動機、運動神経の",
+		"meaning": "モーター",
+		"era": "Latin movere",
+		"etymology": {
+			"components": [
+				"movere (to move)",
+				"-or (thing that)"
+			],
+			"original_statement": "From Latin motor 'mover', agent noun from motus, past participle of movere. Meaning 'engine' adopted late 19th c."
+		},
+		"concept": "Thing that moves (動かすもの（原動機）。重くて冷たい『無機物の塊（死の質量）』に対し、狂気のごとき回転の熱量（インパルス）を無限に注ぎ込み続け、それに擬似的な『生命と狂奔の力（ベクトル）』を与えて世界を爆走させる機械の心臓)",
+		"thinking": "「（自らは動けない巨大な物体を）、強力な力で（Mot- / Movere）」「（一分一秒の休みもなく）動かし続ける装置（-or）」。それは単なる「機械部品」ではありません。あなたが「人間個体の弱々しい肉体エネルギーの限界」を拒絶（レジスト）し、宇宙の電気と炎を喰らって永遠の推進力（フロー）を生み出す、人類の「鋼の動力源」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "運搬と変転の軌跡。",
+		"example": "Motion is the essence of life and change.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"作用のベクトル。"
+			]
+		}
+	},
+	{
+		"id": "demote",
+		"word": "降格させる、地位を下げる",
+		"meaning": "降格させる",
+		"era": "Latin de + movere (via English)",
+		"etymology": {
+			"components": [
+				"de- (down)",
+				"promote (move forward)"
+			],
+			"original_statement": "Coined in late 19th c. in American English as an opposite to promote, using de- 'down' + -mote (from movere 'to move')."
+		},
+		"concept": "To move down (下へ動かす（降格）。高くそびえる『特権の王座（ステーション）』にふんぞり返り、自らの重力（実力）を失ってしまった者に対し、権力のメス（ロゴス）による一撃の冷酷な断罪を下し、階層の底（暗黒のカオス）へと強制的に蹴り落とすこと)",
+		"thinking": "「（その高貴な座にふさわしくないと判断し）、下の低い階層へと（De-）」「（一分一秒の淀みもなく）引きずり下ろし、動かす（-mote / Movere）」。それは単なる「人事異動」ではありません。あなたが「実力なき者が支配する腐敗のステイシス」を完全に拒絶（レジスト）し、組織という巨大なマシンの健全な血流（フロー）を取り戻すための、痛みを伴う「切り捨て」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "運搬と変転の軌跡。",
+		"example": "Motion is the essence of life and change.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"作用のベクトル。"
+			]
+		}
+	},
+	{
+		"id": "moment",
+		"word": "瞬間、時、重要性、モーメント",
+		"meaning": "瞬間",
+		"era": "Latin movere",
+		"etymology": {
+			"components": [
+				"movere (to move)",
+				"-ment (result of)"
+			],
+			"original_statement": "From Latin momentum 'movement / moving power / brief instant', contraction of *movimentum, from movere 'to move'."
+		},
+		"concept": "Result of moving / instant (動きの結果、ほんの一瞬。悠久の時間を流れる何光年もの『巨大な川（フロー）』の中で、天秤（歴史）がほんのわずかに、しかし決定的に『ガクンと動いた（傾いた）』その一撃の『不可逆の特異点（ドット）』)",
+		"thinking": "「（止まっていた天秤が）、（一撃の質量をもって決定的に）動いた（Mo- / Movere）」「（一分一秒の淀みもない）その結果、あるいは極小の時間（-ment）」。それは単なる「一秒」ではありません。あなたが「延々と続く退屈（ステイシス）」を拒絶し、宇宙の運命がガラリと別の軌道（ネットワーク）へとコンバートされた、その「魔法が発動した刹那」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "運搬と変転の軌跡。",
+		"example": "Motion is the essence of life and change.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"作用のベクトル。"
+			]
+		}
+	},
+	{
+		"id": "immobile",
+		"word": "動かせない、固定された、不動の",
+		"meaning": "動かせない",
+		"era": "Latin in + movere",
+		"etymology": {
+			"components": [
+				"in- (not)",
+				"movere (to move)",
+				"-ile (capable of)"
+			],
+			"original_statement": "From Old French immobile, from Latin immobilis 'immovable', from in- 'not' + mobilis 'movable', from movere."
+		},
+		"concept": "Not capable of moving (動かすことができない。いかに嵐が吹き荒れ、万物が吹き飛ばされる『荒くれの宇宙（カオス）』の中にあっても、自らの根本に絶対的なアンカー（光の楔）を打ち込んでいるため、天地が引っくり返ろうとも一ミリたりともそこから動じない不動の岩山の威容)",
+		"thinking": "「（周りのあらゆるものを吹き飛ばす力をもってしても）、決して対象を動かすことが（Im- / In- + Mob- / Movere）」「（一分一秒の隙を突いても）できないという圧倒的な重さ（-ile）」。それは単なる「重たい物体」ではありません。あなたが流行や脅し（エントロピーのノイズ）に流されることを完全に拒絶（レジスト）し、独自の確信（アーカイブ）という砦（ステーション）に魂を縛り付けた、究極の「絶対据え置き」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "運搬と変転の軌跡。",
+		"example": "Motion is the essence of life and change.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"作用のベクトル。"
+			]
+		}
+	},
+	{
+		"id": "mutiny",
+		"word": "反乱、暴動",
+		"meaning": "反乱",
+		"era": "Latin movere (via French)",
+		"etymology": {
+			"components": [
+				"movere (to move)"
+			],
+			"original_statement": "From French mutinerie 'a revolt / mutiny', from mutin 'rebellious', from meute 'a revolt', from Vulgar Latin movita, from Latin motus, past participle of movere."
+		},
+		"concept": "Movement/revolt against authority (動かされること、反乱。船という名の『逃げ場のない鉄の牢獄（絶対的なロゴス）』において、暴君の理不尽に耐えかねた船員たちの血（カオス）が怒りで沸騰し、既存の法則（ステーション）のすべてに対し一撃でハンマーを振り下ろして秩序を転覆させる、命懸けの爆発)",
+		"thinking": "「（耐え忍んで静かに従うことをやめ）、（これまでの上の者を叩き潰すべく）激しい怒りの動きを（Mutin- / Movere）」「（一分一秒の淀みもなく）起こすこと（-y）」。それは単なる「ルール違反」ではありません。あなたが「言いなりにされるという名の緩やかな死（アイソレーション）」を全身霊で拒絶（レジスト）し、自らの手で『新しい自由の舵（主権）』を力技で奪い取る、血塗られた「再起動」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "運搬と変転の軌跡。",
+		"example": "Motion is the essence of life and change.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"作用のベクトル。"
+			]
+		}
+	},
+	{
+		"id": "factory",
+		"word": "工場、製造所、ファクトリー",
+		"meaning": "工場",
+		"era": "Latin facere",
+		"etymology": {
+			"components": [
+				"facere (to make)",
+				"-ory (place for)"
+			],
+			"original_statement": "From Late Latin factorium 'place of doing / press for oil', from factor 'doer / maker', from facere 'to do / make'."
+		},
+		"concept": "Place for making (作る場所（工場）。生々しい土や鉄といった『混沌とした素材（エントロピー）』を飲み込み、その内部で燃え盛る理知の炎（システム）と機械の一撃（プレス）によって、世界が欲する『完璧な結晶（プロダクト）』を無限にコンバートし続ける鋼の神殿)",
+		"thinking": "「（自然のものをそのまま放置せず）、（一分一秒の淀みもない機械の力で）延々と作り続ける（Fact- / Facere）」「（炎と鉄の）密室、場所（-ory）」。それは単なる「作業場」ではありません。あなたが「不足（アブセンス）」を完全に拒絶（レジスト）し、人類の欲望を満たすための莫大な『質量（ウェイト）』を宇宙に屹立させ続ける、錬金術の「巨大な口」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "運搬と変転の軌跡。",
+		"example": "Motion is the essence of life and change.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"作用のベクトル。"
+			]
+		}
+	},
+	{
+		"id": "profit",
+		"word": "利益、収益、利益を得る、プロフィット",
+		"meaning": "利益",
+		"era": "Latin pro + facere",
+		"etymology": {
+			"components": [
+				"pro- (forward)",
+				"facere (to do/make)"
+			],
+			"original_statement": "From Old French prufit 'advance / profit', from Latin profectus 'advance / success', past participle of proficere 'to make progress / be useful', from pro- 'forward' + facere 'make'."
+		},
+		"concept": "Fact of making progress / advance (前進して作られたもの（利益）。己の血の汗と資本（リスクの塊）を暗黒の未知（カオス）へとブチ込み、そこで理知と闘争（パルス）を繰り広げた果てに、元の質量よりも大きく膨れ上がって『手元（ステーション）』に凱旋してきた、勝利の戦利品)",
+		"thinking": "「（今より先の、より豊かな状態という前方へと向けて）（Pro-）」「（一撃の闘志をもって行動を起こし）、作り上げられた、前進した成果（-fit / -fectus / Facere）」。それは単なる「儲け」ではありません。あなたが「何も行動せず飢え死にする世界（ステイシス）」を拒絶（レジスト）し、未来の空間を切り拓くことで世界から分捕った『新天地の拡張（アーカイブの巨大化）』の証なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "運搬と変転の軌跡。",
+		"example": "Motion is the essence of life and change.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"作用のベクトル。"
+			]
+		}
+	},
+	{
+		"id": "suffice",
+		"word": "十分である、足りる、サファイス",
+		"meaning": "十分である",
+		"era": "Latin sub + facere",
+		"etymology": {
+			"components": [
+				"sub- (under)",
+				"facere (to make)"
+			],
+			"original_statement": "From Latin sufficere 'supply / be adequate', from sub- 'under/up' + facere 'make'. Meaning evolved to 'meet the need'."
+		},
+		"concept": "To make (something) hold up from under (（要求を）下から作り上げる、満たす（十分である）。底なしの『欲望という名のブラックホール（アブセンス）』の口に対し、その内圧をピタリと相殺するだけの『完璧な質量の蓋（ウェイト）』を一撃で下からハメ込み、世界の渇きを黙らせること)",
+		"thinking": "「（求められている要求の基準に対して）、そのすぐ下から底を支え満たすように（Suf- / Sub-）」「（必要なだけの量を一分一秒の淀みもなく）作り出し、供給する（-fice / Facere）」。それは単なる「間に合わせ」ではありません。あなたが「満たされない飢餓（無限のエントロピー）」を拒絶し、そこに法と理知による『完璧な均衡（ステーションの安定）』を物理的にもたらす、補給の「完了宣告」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "運搬と変転の軌跡。",
+		"example": "Motion is the essence of life and change.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"作用のベクトル。"
+			]
+		}
+	},
+	{
+		"id": "deficient",
+		"word": "不足している、不十分な",
+		"meaning": "不足している",
+		"era": "Latin de + facere",
+		"etymology": {
+			"components": [
+				"de- (down/away)",
+				"facere (to make)",
+				"-ent (being)"
+			],
+			"original_statement": "From Latin deficientem, present participle of deficere 'to fail / fall short / be wanting', from de- 'down/away' + facere 'make'."
+		},
+		"concept": "Being made down / falling short (作られるのが下回っている（不足している）。生命システム（ネットワーク）を稼働させるために絶対に不可欠な『一本の強靭なワイヤー（成分や能力）』が欠落しており、そこから漏れ出すエネルギーの損失（死の静けさ）によって、肉体や組織の全体が崩壊（エントロピー）の危機に瀕していること)",
+		"thinking": "「（必要な全体の枠組みから）、決定的な何かが下回る、欠け落ちて（De-）」「（不完全なままに）作られてしまっている状態（-ficient / Facere）」。それは単なる「足りない」ではありません。あなたが「完全な光の球体（ロゴス）」を維持しようとしながらも、自らの内側に潜む『虚無の穴（アブセンス）』をどうしても埋めきれないという、存在の「構造的悲鳴」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "運搬と変転の軌跡。",
+		"example": "Motion is the essence of life and change.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"作用のベクトル。"
+			]
+		}
+	},
+	{
+		"id": "difficult",
+		"word": "難しい、困難な、ディフィカルト",
+		"meaning": "難しい",
+		"era": "Latin dis + facere",
+		"etymology": {
+			"components": [
+				"dis- (not)",
+				"facere (to do/make)"
+			],
+			"original_statement": "Based on Latin difficultas 'difficulty / distress', from difficilis 'hard to do', from dis- 'not' + facilis 'easy to do' (from facere 'do')."
+		},
+		"concept": "Not easy to do (行うのが容易でない（難しい）。自らの未熟な理知（刃）を何千回叩きつけても、一ミリも傷一つつかないほど『圧倒的な硬度を持つ岩壁（絶望のアーカイブ）』が、真正面からあなたの道を一撃の暴力で塞いでおり、血の小便を流すほどの熱量（パルス）を要求してくること)",
+		"thinking": "「（スラスラと何の抵抗もなく）行うことができるという状態を、完全に打ち消して（Dif- / Dis-）」「（一分一秒の淀みもない力技を使っても）なすことが困難であるという壁（-ficult / Facilis / Facere）」。それは単なる「めんどくさい」ではありません。あなたが「簡単な道（安易なる死へのステイシス）」を拒絶（レジスト）し、そこにある種の『試練という名の巨大な引力圏』に自らの魂（ウェイト）をマージさせる、成長のための「修羅場」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "運搬と変転の軌跡。",
+		"example": "Motion is the essence of life and change.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"作用のベクトル。"
+			]
+		}
 	}
 ];
