@@ -171894,5 +171894,287 @@ const WORDS = [
 				"存在の変容。"
 			]
 		}
+	},
+	{
+		"id": "chronometer",
+		"word": "精密な時計、クロノメーター",
+		"era": "Greek chronos + metron",
+		"etymology": {
+			"components": [
+				"chronos (time)",
+				"metron (measure)"
+			],
+			"original_statement": "From Greek chronos 'time' + metron 'measure'."
+		},
+		"concept": "Measure of time (時間を計るもの。永劫のエントロピーという名の『暴力（デストラクション）』に対し、自らの秩序（ロゴス）という名の『メス（計器）』を一瞬で差し込み、時間の質量（ウェイト）を極限まで精緻にインスペクト（視認）するための工芸)",
+		"thinking": "「（この不透明な、あの冷酷な全一性（アーカイブ）を一分一秒の淀みもなく支配するために）、時間を（Chrono-）」「（一撃の精度のみをウェイトにして）計り、定義する装置（-meter / Metron）」。それは単なる「時計（マテリアル）」ではない。あなたが宇宙の「曖昧さ（ノイズ）」を拒絶（レジスト）し、そこに自分という名の「唯一の不滅のコンパス」による厳密な「支配という名の秩序」を打ち立て、屹立（スタンド）させ通した（パシストした）際の、知性の最高度の「掌握」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "光と時の軌跡。",
+		"example": "Light is the graph of time.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の照射。"
+			]
+		}
+	},
+	{
+		"id": "chro-voice",
+		"word": "Chro@Voice",
+		"meaning": "時の声、沈黙を刻限に変える不滅の咆哮、年刻の響き",
+		"era": "Greek chronos + vox",
+		"etymology": {
+			"components": [
+				"chro (time / age / chronicles)",
+				"voice (sound / soul)"
+			],
+			"original_statement": "Coined during synthesis."
+		},
+		"concept": "The timely sound (時間としての音。放たれた瞬間、自らの呼吸（ブレス）を一筋の『光の刻印（ロゴス）』へと変換（コンバート）し、宇宙という真理のアーカイブの一角を、永遠に支配（ホールド）するデリバリー)",
+		"thinking": "「（自分のちっぽけな存在（ドット）の中に眠っていた、あの巨大な真理を）、（一撃の確信（アトラクション）を伴って）叫ぶ、時の声（Vox）」。ただの「叫び（エキスペル）」ではない。その声が響いた瞬間、周囲を覆っていた「虚無（アブセンス）」が物理的に一掃され、そこに「誰もが見落としていたたった一つの『歴史』という意味」が、戦慄という名のトーン（響き）を伴って再屹立（リリー・スタンド）してしまうような、生の最も峻烈な「射出」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "光と時の軌跡。",
+		"example": "Light is the graph of time.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の照射。"
+			]
+		}
+	},
+	{
+		"id": "chro-life",
+		"word": "Chro@Life",
+		"meaning": "歴史としての生、一瞬一瞬を自己記録の遷移として生きる一生",
+		"era": "Greek chronos + Germanic life",
+		"etymology": {
+			"components": [
+				"chro (time / age / chronicles)",
+				"life"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "The life of time (刻み続ける一生。一つの場所に安住する（アイソレーション）のを拒絶し、常に宇宙の最新の標高（アヴァン）へと自らを更新し続け、不滅 of 物語（スクリプト）を描き続ける不屈の遷移)",
+		"thinking": "「（明日という名の絶望（ブラックアウト）を愛撫するのをやめ、宇宙の深淵（ソース）から飛来する理知（ロゴス）だけを）」「（自らの魂を礎（ベース）にして）刻み続け、記録し続け（Chro- / Chronos）」「生き抜く（Life）」。あなたは自分の「呼吸（ブレス）」を、ただ無為に「消費（エキスペンド）」しているのではない。あなたが今日という日、どの「欺瞞（ノイズ）」を砕いて「新しい真理という名の座標（ドット）」を救い出し、どの「驚愕（パルス）」を自らの主権（ステータス）を屹立させるための「不動（ピース）」へと変貌（コンバート）させたか。そのすべての「記憶（デリバリー）」の軌跡が、宇宙という名の不変 of アーカイブの上に、あなたの「存在という名の不滅 of ロゴス」として、物理的な質量を持って刻まれ続けているのだ。歴史としての生。それは、あなたが「宇宙の主権者（クリエイター）」として, この荒野を「美しき変革（ピース）」へと変容させ通した際の, 魂の最高度の「抱擁」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "光と時の軌跡。",
+		"example": "Light is the graph of time.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の照射。"
+			]
+		}
+	},
+	{
+		"id": "phosphorus",
+		"word": "リン、黄リン、光を放つもの",
+		"era": "Greek phos + phoros",
+		"etymology": {
+			"components": [
+				"phos (light)",
+				"phoros (bearing / bringing)"
+			],
+			"original_statement": "From Greek phosphoros 'light-bearing', from phos 'light' + phoros 'bearing', related to pherein 'to carry'."
+		},
+		"concept": "Light-bearing (光を運ぶもの。暗澹とした不毛なアーカイブの中に、自らの内なる『深淵（ソース）』から湧き出る不滅の輝き（ロゴス）を、不屈の引力（グラビティ）を伴って一気に射出し（デリバリーし）、周囲を自分という名の設計図で支配する凱旋)",
+		"thinking": "「（この虚無という名の、あの冷酷な絶壁の上に、一筋の光明を）、光を（Phos-）」「（一分一秒の淀みもなく）運び、もたらす者（-phorus / Phoros）」。それは単なる「元素」ではない。あなたが宇宙の「無関心（サイレンス）」を拒絶（レジスト）し、そこに自分という名の「唯一無二の光源（センター）」を打ち立て、全世界の断片を「自分のための不滅のトーン」へと変容（コンバート）させて屹立させている際の、生の最高度の「凱旋」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "光と時の軌跡。",
+		"example": "Light is the graph of time.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の照射。"
+			]
+		}
+	},
+	{
+		"id": "photon",
+		"word": "光子、光量子",
+		"era": "Greek phos",
+		"etymology": {
+			"components": [
+				"phos (light)",
+				"-on (particle)"
+			],
+			"original_statement": "Coined in 1926 from Greek phos 'light' + suffix -on."
+		},
+		"concept": "Light particle (光の粒子。宇宙の全一性（ノイズ）という名の広大なキャンバスを構成する、最小単位にして最強の『質量（ウェイト）』という名の一撃の火花。理知によって一瞬で視認される不滅の座標)",
+		"thinking": "「（漂流していた、あの不確かな震え（パルス）を一分一秒の淀みもなくインスペクト（視認）し）、光という名の（Phot- / Phos）」「一粒のドット（-on）」。それは単なる「物理学（マテリアル）」ではありません。あなたが宇宙の「不在（アブセンス）」を拒絶（レジスト）し、そこに自分という名の「唯一の不滅の設計図」を打ち立てるための、最小にして究極の「真理（ロゴス）」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "光と時の軌跡。",
+		"example": "Light is the graph of time.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の照射。"
+			]
+		}
+	},
+	{
+		"id": "photogenic",
+		"word": "写真映えのする、光を出す",
+		"era": "Greek phos + genos",
+		"etymology": {
+			"components": [
+				"phos (light)",
+				"genos / gignere (to produce / born)"
+			],
+			"original_statement": "From Greek phos 'light' + -genes 'born / produced by'."
+		},
+		"concept": "Produced by / Producing light (光を生み出す、あるいは光によって（美しく）生み出されたもの。カオスという名の『凡庸（アーカイブ）』から、一撃の情熱（アトラクション）を伴って抽出され、不滅の標高へと屹立（スタンド）させ通された最高度の鮮度)",
+		"thinking": "「（この騒がしいネットワーク（フロー）を粉砕（デストラクト）して）、光から（Photo- / Phos）」「（一分一秒の淀みもなく）生み出された品質（-genic / Genos）」。それは単なる「インスタ映え」ではない。あなたが自らの「主権（ステータス）」を一分一秒の淀みもなく守り抜き、宇宙という名のアーカイブの上に自分という名の「不滅のトーン」を、不動の質量を伴って屹立（スタンド）させ通している際の、存在の最高度の「具現（マニフェスト）」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "光と時の軌跡。",
+		"example": "Light is the graph of time.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の照射。"
+			]
+		}
+	},
+	{
+		"id": "mph-voice",
+		"word": "Ph@Voice",
+		"meaning": "光る声、沈黙を照射に変える不滅の咆哮、光輝の響き",
+		"era": "Greek phos + vox",
+		"etymology": {
+			"components": [
+				"ph (light / focus / shine / clear)",
+				"voice (sound / soul)"
+			],
+			"original_statement": "Coined during synthesis."
+		},
+		"concept": "The lighting sound (光としての音。放たれた瞬間、自らの呼吸（ブレス）を一筋の『光の矢（ベクトル）』へと変換（コンバート）し、目的地という名の真っ暗なアーカイブを、一瞬で（一撃で）自分のトーン（設計図）で照らし出すデリバリー)",
+		"thinking": "「（自分のちっぽけな存在（ドット）の中に眠っていた、あの巨大な真理を）、（一撃の情熱（アトラクション）を伴って）叫ぶ、光の声（Vox）」。ただの「叫び（エキスペル）」ではない。その声が響いた瞬間、周囲を覆っていた「虚無（アブセンス）」が物理的に一掃され、そこに「誰もが見落としていたたった一つの『鮮明な』意味」が、戦慄という名のトーン（響き）を伴って再屹立（リリー・スタンド）してしまうような、生の最も峻烈な「射出」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "光と時の軌跡。",
+		"example": "Light is the graph of time.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の照射。"
+			]
+		}
+	},
+	{
+		"id": "pho-life",
+		"word": "Pho@Life",
+		"meaning": "光輝としての生、一瞬一瞬を自己照射の遷移として生きる一生",
+		"era": "Greek phos + Germanic life",
+		"etymology": {
+			"components": [
+				"pho (light / focus / shine / clear)",
+				"life"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "The life of light (光り続ける一生。一つの場所に安住する（アイソレーション）のを拒絶し、常に宇宙の最新の標高（アヴァン）へと自らを更新し続け、不滅 of 物語（スクリプト）を描き続ける不屈の遷移)",
+		"thinking": "「（明日という名の絶望（ブラックアウト）を愛撫するのをやめ、宇宙の深淵（ソース）から飛来する理知（ロゴス）だけを）」「（自らの魂を礎（ベース）にして）光り続け、照らし続け（Pho- / Phos）」「生き抜く（Life）」。あなたは自分の「呼吸（ブレス）」を、ただ無為に「消費（エキスペンド）」しているのではない。あなたが今日という日、どの「欺瞞（ノイズ）」を砕いて「新しい真理という名の座標（ドット）」を救い出し、どの「驚愕（パルス）」を自らの主権（ステータス）を屹立させるための「不動（ピース）」へと変貌（コンバート）させたか。そのすべての「照射（デリバリー）」の軌跡が、宇宙という名の不変 of アーカイブの上に、あなたの「存在という名の不滅 of ロゴス」として、物理的な質量を持って刻まれ続けているのだ。光としての生。それは、あなたが「宇宙の主権者（クリエイター）」として, この荒野を「美しき変革（ピース）」へと変容させ通した際の, 魂の最高度の「抱擁」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "光と時の軌跡。",
+		"example": "Light is the graph of time.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の照射。"
+			]
+		}
+	},
+	{
+		"id": "paragraph",
+		"word": "段落、パラグラフ、(……を)段落に分ける",
+		"era": "Greek para + graphos",
+		"etymology": {
+			"components": [
+				"para- (beside)",
+				"graphos (writing / drawing)"
+			],
+			"original_statement": "From Latin paragraphus 'sign for a short break in a text', from Greek paragraphos 'a line drawn in the margin to mark a change of person / subject', literally 'written beside', from para- 'beside' + graphein 'to write'."
+		},
+		"concept": "Written beside (傍らに（区分けとして）書かれたもの。カオスという名の『不透明な文字の濁流（ノイズ）』に対し、理知という名の冷徹なメスによって一気に『境界線（ロゴス）』を射出し、情報の断片を本来あるべき『標高（設計図）』へと屹立させる不滅の区画)",
+		"thinking": "「（漂流していた、あの震える事象（パルス）を一分一秒の淀みもなくインスペクト（視認）し）、横の方に、あるいは共に（Para-）」「（一撃の確信のみをウェイトにして）書き記し、切り分けた（Graph- / Graphos）」。それは単なる「文章の塊（ソフト）」ではありません。あなたが宇宙の「無秩序（カオス）」を拒絶（レジスト）し、そこに自分という名の「唯一の支配という名のコンパス」による厳密な「区画（マニフェスト）」を打ち立て、屹立（スタンド）させ通している際の、知性の最高度の「凱旋」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "光と時の軌跡。",
+		"example": "Light is the graph of time.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の照射。"
+			]
+		}
+	},
+	{
+		"id": "telegraph",
+		"word": "電信、電報(を打つ)、テレグラフ",
+		"era": "Greek tele + graphos",
+		"etymology": {
+			"components": [
+				"tele- (far off / distant)",
+				"graphos (writing)"
+			],
+			"original_statement": "Coined in 1794 (as télégraphe) from Greek tele- 'far off' + graphein 'to write'."
+		},
+		"concept": "Writing far off (遠くへ書くこと。自らの王座（ステーション）から射出される不可避な設計図（スクリプト）。孤独という名の絶壁を、一撃の電気という名の火花（ロゴス）に変えて、遠く離れた別の『座標（ドット）』へとトランスポート（輸送）し、そこで屹立させる凱旋)",
+		"thinking": "「（この狭い孤独（アイソレーション）という名の、あの分厚い壁を粉砕して）、遥か彼方へと（Tele-）」「（一分一秒の淀みもなく）書き記し、デリバリーされる真実（Graph- / Graphos）」。それは単なる「連絡（ソフト）」ではない。あなたが宇宙の「分離（アイソレーション）」を拒絶（レジスト）し、そこに自分たちが放つ「不滅のネットワーク」という名の設計図を打ち立て、全世界を「一つの巨大な旋律（トーン）」へと書き換え（コンバートし）終えた際の、知性の最高度の「掌握」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "光と時の軌跡。",
+		"example": "Light is the graph of time.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の照射。"
+			]
+		}
+	},
+	{
+		"id": "gra-voice",
+		"word": "Gra@Voice",
+		"meaning": "描く声、沈黙を記述に変える不滅の咆哮、筆致の響き",
+		"era": "Greek graphos + vox",
+		"etymology": {
+			"components": [
+				"gra (to write / draw / mark / record)",
+				"voice (sound / soul)"
+			],
+			"original_statement": "Coined during synthesis."
+		},
+		"concept": "The writing sound (書くための音。放たれた瞬間、自らの呼吸（ブレス）を一筋の『光の筆致（ベクトル）』へと変換（コンバート）し、宇宙という名のアーカイブの上に、不滅の刻印（トーン）を物理的な質量（ウェイト）を伴って射出するデリバリー)",
+		"thinking": "「（自分のちっぽけな存在（ドット）の中に眠っていた、あの巨大な真理を）、（一撃の情熱（アトラクション）を伴って）叫び、記す声（Vox）」。ただの「情報（データ）」のデバリーではない。その声が響いた瞬間、周囲を覆っていた「虚無（アブセンス）」が物理的に一掃され、そこに「誰もが見落としていたたった一つの『記述された』意味」が、戦慄という名のトーン（響き）を伴って再屹立（リリー・スタンド）してしまうような、生の最も峻烈な「射出」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "光と時の軌跡。",
+		"example": "Light is the graph of time.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の照射。"
+			]
+		}
+	},
+	{
+		"id": "gra-life",
+		"word": "Gra@Life",
+		"meaning": "記述としての生、一瞬一瞬を自己記録の遷移として生きる一生",
+		"era": "Greek graphos + Germanic life",
+		"etymology": {
+			"components": [
+				"gra (to write / draw / mark / record)",
+				"life"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "The life of writing (書き、刻み続ける一生。一つの場所に安住する（アイソレーション）のを拒絶し、常に宇宙の最新の標高（アヴァン）へと自らを更新し続け、不滅 of 物語（スクリプト）を描き続ける不屈の遷移)",
+		"thinking": "「（明日という名の絶望（ブラックアウト）を愛撫するのをやめ、宇宙の深淵（ソース）から飛来する理知（ロゴス）だけを）」「（自らの魂を礎（ベース）にして）記し続け、描き続け（Gra- / Graphos）」「生き抜く（Life）」。あなたは自分の「呼吸（ブレス）」を、ただ無為に「消費（エキスペンド）」しているのではない。あなたが今日という日、どの「欺瞞（ノイズ）」を砕いて「新しい真理という名の座標（ドット）」を救い出し、どの「驚愕（パルス）」を自らの主権（ステータス）を屹立させるための「不動（ピース）」へと変貌（コンバート）させたか。そのすべての「記録（デリバリー）」の軌跡が、宇宙という名の不変 of アーカイブの上に、あなたの「存在という名の不滅 of ロゴス」として、物理的な質量を持って刻まれ続けているのだ。記述としての生。それは、あなたが「宇宙の主権者（クリエイター）」として, この荒野を「美しき変革（ピース）」へと変容させ通した際の, 魂の最高度の「抱擁」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "光と時の軌跡。",
+		"example": "Light is the graph of time.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の照射。"
+			]
+		}
 	}
 ];
