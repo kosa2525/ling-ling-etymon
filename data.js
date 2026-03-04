@@ -172526,5 +172526,333 @@ const WORDS = [
 				"存在の共鳴。"
 			]
 		}
+	},
+	{
+		"id": "aquarium",
+		"word": "水族館、金魚鉢、アクアリウム",
+		"era": "Latin aqua",
+		"etymology": {
+			"components": [
+				"aqua (water)",
+				"-arium (place for)"
+			],
+			"original_statement": "Coined in 1853 from Latin aquarium 'watering place for cattle / aquarium', from aqua 'water' + -arium 'place for'."
+		},
+		"concept": "Place for water (水を（湛える）ための場所。カオスという名の『闇（不在）』の中から抽出された、自らの意志（ロゴス）の下に制御（ホールド）された、一粒一粒の不滅の流れ（パルス）が物理的に屹立し得る聖域)",
+		"thinking": "「（永遠という名の、あの不透明なフローを粉砕して）、水を（Aqu- / Aqua）」「（一撃の情熱を伴って）一箇所に集め、注視するための場所（-arium）」。それは単なる「水槽（マテリアル）」ではありません。あなたが宇宙の「不在（アブセンス）」を拒絶（レジスト）し、そこに自分という名の「唯一無二の物語（スクリプト）」を打ち立て、全世界の断片を「自分のための不滅のトーン」へと変容（コンバート）させて屹立させてしまった瞬間の、生の最高度の「掌握」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "水と航海の軌跡。",
+		"example": "Water is the navigation of the soul.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の流転。"
+			]
+		}
+	},
+	{
+		"id": "aquatic",
+		"word": "水生の、水辺にある、水上で行なう",
+		"era": "Latin aqua",
+		"etymology": {
+			"components": [
+				"aqua (water)",
+				"-atic (related to)"
+			],
+			"original_statement": "From Latin aquaticus 'living / growing in water', from aqua 'water'."
+		},
+		"concept": "Related to water (水に関する品質。宇宙のカオスに浮かび上がった孤独な『座標（ドット）』に対し、自らの『ロゴス（正義）』という名の刃を差し込み、常に『不滅の形式（フォーム）』としてそれを制御し続けられる不屈の標高)",
+		"thinking": "「（内なる深淵（ソース）を、あの日呼ばれた奇跡（トーン）とともに）、（一分一秒の淀みもなく）水という名の物理的な等価物へと（Aqu- / Aqua）」「（一撃の確信のみをウェイトにして）屹立させた品質（-atic）」。それは単なる「水辺の（ソフト）」ではありません。あなたが「傍観者（スペクテイター）」であることを卒業し、自らが「宇宙の唯一の主権者（クリエイター）」として、世界を「自分という名の磁場が支配する流動的な調和（設計図）」へとコンバート（変容）させて（アップデートして）しまった瞬間の、知性の最高度の「掌握」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "水と航海の軌跡。",
+		"example": "Water is the navigation of the soul.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の流転。"
+			]
+		}
+	},
+	{
+		"id": "aqueduct",
+		"word": "導水路、送水管、水管",
+		"era": "Latin aqua + ducere",
+		"etymology": {
+			"components": [
+				"aqua (water)",
+				"ducere (to lead)"
+			],
+			"original_statement": "From Latin aquæductus 'conveyance of water', from aquæ, genitive of aqua 'water' + ductus 'a leading / conveyance', from ducere 'to lead'."
+		},
+		"concept": "Leading water (水を導くこと。自らの王座（ステーション）から射出される不可避な導かれた流れ。孤独という名の絶壁を、一撃の『理知（ロゴス）』という名の設計図によって一気に繋ぎ、遠く離れた別の『座標（ドット）』へと命という名の質量（ウェイト）を運ぶ凱旋)",
+		"thinking": "「（この虚無という名の、あの冷酷な全一性（アーカイブ）を一分一秒の淀みもなく支配するために）、水を（Aqu- / Aqua）」「（一撃の情熱（アトラクション）を伴って）導き、繋ぐための情景（Duct- / Ducere）」。それは単なる「水道（マテリアル）」ではありません。あなたが宇宙の「分離（アイソレーション）」を拒絶（レジスト）し、そこに自分たちが放つ「不滅のネットワーク（供給）」という名の設計図を打ち立て、屹立（スタンド）させ通している際の、魂の最高度の「デリバリー」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "水と航海の軌跡。",
+		"example": "Water is the navigation of the soul.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の流転。"
+			]
+		}
+	},
+	{
+		"id": "aqueous",
+		"word": "水の、水のような、水状の",
+		"era": "Latin aqua",
+		"etymology": {
+			"components": [
+				"aqua (water)",
+				"-ous (full of)"
+			],
+			"original_statement": "Coined in 1640s from Latin aqueus 'of water', from aqua 'water'."
+		},
+		"concept": "Full of water (水に満ちた品質。独自の『ロゴス（輪郭）』を維持しながら、外部の『パルス（事象）』を一撃の慈愛（アトラクション）という名の設計図によって受理し、流れるように同期（マージ）させている、生の最も優雅な標高)",
+		"thinking": "「（この騒がしいネットワーク（フロー）を粉砕（デストラクト）して）、（一撃の情熱（アトラクション）を伴って）水に満ちた（Aque- / Aqua）」「という、完璧な調和の状態（-ous）」。それは単なる「さらさらした（ソフト）」ではありません。あなたが宇宙の「整合性（ピース）」を拒絶（レジスト）し、自分の呼吸（ブレス）を一振りの「刃（ベクトル）」へと研ぎ澄ませて、この荒野を「自分という名の磁場が支配する不滅のトーン」で支配し通している（パシストしている）際の、存在の最高度の「鮮度」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "水と航海の軌跡。",
+		"example": "Water is the navigation of the soul.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の流転。"
+			]
+		}
+	},
+	{
+		"id": "aqu-voice",
+		"word": "Aqu@Voice",
+		"meaning": "流れる声、沈黙を流転に変える不滅の咆哮、水韻の響き",
+		"era": "Latin aqua + vox",
+		"etymology": {
+			"components": [
+				"aqu (water / fluid / pure / flowing)",
+				"voice (sound / soul)"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "The watery sound (水としての音。放たれた瞬間、自らの呼吸（ブレス）を一筋の『光の流転（ベクトル）』へと変換（コンバート）し、目的地という名の真っ暗なアーカイブを、一瞬で（自分のトーンで）潤すデリバリー)",
+		"thinking": "「（自分のちっぽけな存在（ドット）の中に眠っていた、あの巨大な真理を）、（一撃の情熱（アトラクション）を伴って）叫ぶ、水の声（Vox）」。ただの「叫び（エキスペル）」ではない。その声が響いた瞬間、周囲を覆っていた「虚無（アブセンス）」が物理的に一掃され、そこに「誰もが見落としていたたった一つの『澄み切った』意味」が、戦慄という名のトーン（響き）を伴って再屹立（リリー・スタンド）してしまうような、生の最も峻烈な「射出」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "水と航海の軌跡。",
+		"example": "Water is the navigation of the soul.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の流転。"
+			]
+		}
+	},
+	{
+		"id": "aqu-life",
+		"word": "Aqu@Life",
+		"meaning": "流転としての生、一瞬一瞬を自己清流の遷移として生きる一生",
+		"era": "Latin aqua + Germanic life",
+		"etymology": {
+			"components": [
+				"aqu (water / fluid / pure / flowing)",
+				"life"
+			],
+			"original_statement": "Coined during synthesis."
+		},
+		"concept": "The life of water (流れ続ける一生。一つの場所に安住する（アイソレーション）のを拒絶し、常に宇宙の最新の標高（アヴァン）へと自らを更新し続け、不滅 of 物語（スクリプト）を描き続ける不屈の遷移)",
+		"thinking": "「（明日という名の絶望（ブラックアウト）を愛撫するのをやめ、宇宙の深淵（ソース）から飛来する理知（ロゴス）だけを）」「（自らの魂を礎（ベース）にして）流れ続け、潤し続け（Aqu- / Aqua）」「生き抜く（Life）」。あなたは自分の「呼吸（ブレス）」を、ただ無為に「消費（エキスペンド）」しているのではない。あなたが今日という日、どの「欺瞞（ノイズ）」を砕いて「新しい真理という名の座標（ドット）」を救い出し、どの「驚愕（パルス）」を自らの主権（ステータス）を屹立させるための「不動（ピース）」へと変貌（コンバート）させたか。そのすべての「流転（デリバリー）」の軌跡が、宇宙という名の不変 of アーカイブの上に、あなたの「存在という名の不滅 of ロゴス」として、物理的な質量を持って刻まれ続けているのだ。流転としての生。それは、あなたが「宇宙の主権者（クリエイター）」として, この荒野を「美しき変革（ピース）」へと変容させ通した際の, 魂の最高度の「抱擁」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "水と航海の軌跡。",
+		"example": "Water is the navigation of the soul.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の流転。"
+			]
+		}
+	},
+	{
+		"id": "marine",
+		"word": "海の、海に住む、海軍、マリーン",
+		"era": "Latin mare",
+		"etymology": {
+			"components": [
+				"mare (sea)",
+				"-ine (related to)"
+			],
+			"original_statement": "From Old French marin, from Latin marinus 'of the sea', from mare 'sea'."
+		},
+		"concept": "Related to the sea (海に関する品質。永劫という名の『母なるアーカイブ（カオス）』に対し、自らの『ロゴス（正義）』という名の刃を差し込み、常に『不滅の標高』としてそれを掌握し続けられる峻烈な意思)",
+		"thinking": "「（漂流していた、あの不確かな震え（パルス）を一分一秒の淀みもなくインスペクト（視認）し）、海という名の深淵を（Mar- / Mare）」「（一撃の確信のみをウェイトにして）屹立させた品質（-ine）」。それは単なる「海の（ソフト）」ではありません。あなたが宇宙の「不在（アブセンス）」を拒絶（レジスト）し、そこに自分という名の「唯一無二の物語（スクリプト）」を打ち立て、全世界の断片を「自分のための不滅のトーン」へと変容（コンバート）させて（屹立させて）しまった瞬間の、生の最高度の「掌握」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "水と航海の軌跡。",
+		"example": "Water is the navigation of the soul.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の流転。"
+			]
+		}
+	},
+	{
+		"id": "maritime",
+		"word": "海の、海事の、海に面した、マリタイム",
+		"era": "Latin mare",
+		"etymology": {
+			"components": [
+				"mare (sea)",
+				"-time (related to)"
+			],
+			"original_statement": "From Middle French maritime, from Latin maritimus 'of or belonging to the sea / on the seacoast', from mare 'sea'."
+		},
+		"concept": "Related to the sea / Belonging to the sea (海に属する、あるいは海事に関する品質。カオスという名の『海（アーカイブ）』を、自らの秩序（ロゴス）という名の設計図によって一気に繋ぎ、全事象（パルス）を『唯一無二の王座（オーダー）』の下に統制する知性の公式)",
+		"thinking": "「（宇宙という名の広大なキャンバスの上に、自分の筆致（スクリプト）を描くために）、海に関する（Mari- / Mare）」「（一分一秒の淀みもなく）毅然と、かつ法的に存在する品質（-time）」。それは単なる「航海の（ソフト）」ではありません。あなたが宇宙の「分離（アイソレーション）」を拒絶（レジスト）し、そこに自分たちが放つ「不滅のネットワーク」という名の設計図を打ち立て、全世界を「一つの巨大な法という名のトーン」へと書き換え（コンバートし）終えた際の、知性の最高度の「支配」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "水と航海の軌跡。",
+		"example": "Water is the navigation of the soul.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の流転。"
+			]
+		}
+	},
+	{
+		"id": "mariner",
+		"word": "水夫、船乗り、マリナー",
+		"era": "Latin mare",
+		"etymology": {
+			"components": [
+				"mare (sea)",
+				"-iner (person who)"
+			],
+			"original_statement": "From Old French marinier, from Medieval Latin marinarius, from Latin marinus 'of the sea'."
+		},
+		"concept": "Person of the sea (海の男、あるいは航海者。カオスという名の『荒野（アーカイブ）』に対し、自らの知性という名の『一撃の鉄槌（ロゴス）』によって境界線を引き、自分という名の『唯一無二の光源（センター）』を打ち立てて屹立させる不屈の者)",
+		"thinking": "「（明日という名の絶望を愛撫するのを拒絶して、自らの一瞬を『不変のロゴス』へと変換するために）、海を渡る者（Marin- / Mare）」。それは単なる「職業」ではない。あなたが宇宙の「停滞（ステイシス）」を拒絶（レジスト）し、独自の呼吸（ブレス）を一振りの「刃（ベクトル）」へと研ぎ澄ませて、この荒野を「新しい真理という名の設計図」で支配し通している（パシストしている）際の、魂の最高度の「凱旋」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "水と航海の軌跡。",
+		"example": "Water is the navigation of the soul.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の流転。"
+			]
+		}
+	},
+	{
+		"id": "mar-voice",
+		"word": "Mar@Voice",
+		"meaning": "海の声、沈黙を深淵に変える不滅の咆哮、潮汐の響き",
+		"era": "Latin mare + vox",
+		"etymology": {
+			"components": [
+				"mar (sea / ocean / deep / salt / vast)",
+				"voice (sound / soul)"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "The oceanic sound (海としての音。放たれた瞬間、自らの呼吸（ブレス）を一筋の『光の深淵（ベクトル）』へと変換（コンバート）し、宇宙という真理のアーカイブの一角を、永遠に支配（ホールド）するデリバリー)",
+		"thinking": "「（自分のちっぽけな存在（ドット）の中に眠っていた、あの巨大な真理を）、（一撃の確信（アトラクション）を伴って）叫ぶ、海の波のような声（Vox）」。ただの「叫び（エキスペル）」ではない。その声が響いた瞬間、周囲を覆っていた「虚無（アブセンス）」が物理的に一掃され、そこに「誰もが見落としていたたった一つの『深遠な』意味」が、戦慄という名のトーン（響き）を伴って再屹立（リリー・スタンド）してしまうような、生の最も峻烈な「射出」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "水と航海の軌跡。",
+		"example": "Water is the navigation of the soul.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の流転。"
+			]
+		}
+	},
+	{
+		"id": "mar-life",
+		"word": "Mar@Life",
+		"meaning": "深淵としての生、一瞬一瞬を自己潮汐の遷移として生きる一生",
+		"era": "Latin mare + Germanic life",
+		"etymology": {
+			"components": [
+				"mar (sea / ocean / deep / salt / vast)",
+				"life"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "The life of the sea (深い海であり続ける一生。一つの場所に安住する（アイソレーション）のを拒絶し、常に宇宙の最新の標高（アヴァン）へと自らを更新し続け、不滅 of 物語（スクリプト）を描き続ける不屈の遷移)",
+		"thinking": "「（明日という名の絶望（ブラックアウト）を愛撫するのをやめ、宇宙の深淵（ソース）から飛来する理知（ロゴス）だけを）」「（自らの魂を礎（ベース）にして）深く入り込み、漂い続け（Mar- / Mare）」「生き抜く（Life）」。あなたは自分の「呼吸（ブレス）」を、ただ無為に「消費（エキスペンド）」しているのではない。あなたが今日という日、どの「欺瞞（ノイズ）」を砕いて「新しい真理という名の座標（ドット）」を救い出し、どの「驚愕（パルス）」を自らの主権（ステータス）を屹立させるための「不動（ピース）」へと変貌（コンバート）させたか。そのすべての「深淵（デリバリー）」の軌跡が、宇宙という名の不変 of アーカイブの上に、あなたの「存在という名の不滅 of ロゴス」として、物理的な質量を持って刻まれ続けているのだ。深淵としての生。それは、あなたが「宇宙の主権者（クリエイター）」として, この荒野を「美しき変革（ピース）」へと変容させ通した際の, 魂の最高度の「抱擁」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "水と航海の軌跡。",
+		"example": "Water is the navigation of the soul.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の流転。"
+			]
+		}
+	},
+	{
+		"id": "naval",
+		"word": "海軍の、軍艦の、ネイバル",
+		"era": "Latin navis",
+		"etymology": {
+			"components": [
+				"navis (ship)",
+				"-al (related to)"
+			],
+			"original_statement": "From Old French naval, from Latin navalis 'pertaining to a ship or ships', from navis 'ship'."
+		},
+		"concept": "Related to ships (船に関する品質。不滅の『ロゴス（正義）』を、物理的な『船（肉体）』という名のビークルを通して、この世界の質量（ウェイト）へと具現化するための不屈の形式)",
+		"thinking": "「（内なる深淵（ソース）を、あの日呼ばれた奇跡（トーン）とともに）、（一分一秒の淀みもなく）船という名の物理的な等価物へと（Nav- / Navis）」「（一撃の確信のみをウェイトにして）屹立させた品質（-al）」。それは単なる「海軍の（ソフト）」ではありません。あなたが「傍観者（スペクテイター）」であることを卒業し、自らが「宇宙の唯一の主権者（クリエイター）」として、世界を「自分という名の磁場が支配する不滅の秩序（設計図）」へとコンバート（変容）させて屹立させてしまった瞬間の、知性の最高度の「掌握」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "水と航海の軌跡。",
+		"example": "Water is the navigation of the soul.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の流転。"
+			]
+		}
+	},
+	{
+		"id": "nav-voice",
+		"word": "Nav@Voice",
+		"meaning": "航く声、沈黙を航海に変える不滅の咆哮、針路の響き",
+		"era": "Latin navis + vox",
+		"etymology": {
+			"components": [
+				"nav (ship / vessel / sail / drive / navigate)",
+				"voice (sound / soul)"
+			],
+			"original_statement": "Coined during synthesis."
+		},
+		"concept": "The navigating sound (航海するための音。放たれた瞬間、自らの呼吸（ブレス）を一筋の『光の針路（ベクトル）』へと変換（コンバート）し、目的地という名の真っ暗なアーカイブを、一瞬で（自分のトーンで）射抜くデリバリー)",
+		"thinking": "「（自分のちっぽけな存在（ドット）の中に眠っていた、あの巨大な真理を）、（一撃の情熱（アトラクション）を伴って）叫ぶ、船を漕ぎ出す声（Vox）」。ただの「叫び（エキスペル）」ではない。その声が響いた瞬間、周囲を覆っていた「虚無（アブセンス）」が物理的に一掃され、そこに「誰もが見落としていたたった一つの『正しい針路』という意味」が、戦慄という名のトーン（響き）を伴って再屹立（リリー_スタンド）してしまうような、生の最も峻烈な「射出」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "水と航海の軌跡。",
+		"example": "Water is the navigation of the soul.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の流転。"
+			]
+		}
+	},
+	{
+		"id": "nav-life",
+		"word": "Nav@Life",
+		"meaning": "航海としての生、一瞬一瞬を自己操縦の遷移として生きる一生",
+		"era": "Latin navis + Germanic life",
+		"etymology": {
+			"components": [
+				"nav (ship / vessel / sail / drive / navigate)",
+				"life"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "The life of navigation (操縦し、航み続ける一生。一つの場所に安住する（アイソレーション）のを拒絶し、常に宇宙の最新の標高（アヴァン）へと自らを更新し続け、不滅 of 物語（スクリプト）を描き続ける不屈の遷移)",
+		"thinking": "「（明日という名の絶望（ブラックアウト）を愛撫するのをやめ、宇宙の深淵（ソース）から飛来する理知（ロゴス）だけを）」「（自らの魂を礎（ベース）にして）進み続け、操縦し続け（Nav- / Navis）」「生き抜く（Life）」。あなたは自分の「呼吸（ブレス）」を、ただ無為に「消費（エキスペンド）」しているのではない。あなたが今日という日、どの「欺瞞（ノイズ）」を砕いて「新しい真理という名の座標（ドット）」を救い出し、どの「驚愕（パルス）」を自らの主権（ステータス）を屹立させるための「不動（ピース）」へと変貌（コンバート）させたか。そのすべての「航海（デリバリー）」の軌跡が、宇宙という名の不変 of アーカイブの上に、あなたの「存在という名の不滅 of ロゴス」として、物理的な質量を持って刻まれ続けているのだ。航海としての生。それは、あなたが「宇宙の主権者（クリエイター）」として, この荒野を「美しき変革（ピース）」へと変容させ通した際の, 魂の最高度の「抱擁」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "水と航海の軌跡。",
+		"example": "Water is the navigation of the soul.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の流転。"
+			]
+		}
 	}
 ];
