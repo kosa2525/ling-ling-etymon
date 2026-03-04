@@ -170679,5 +170679,332 @@ const WORDS = [
 				"存在の探究。"
 			]
 		}
+	},
+	{
+		"id": "injury",
+		"word": "負傷、損害、権利の侵害",
+		"era": "Latin in + jus",
+		"etymology": {
+			"components": [
+				"in- (not / non-)",
+				"jus / juris (law / right)"
+			],
+			"original_statement": "From Latin iniuria 'a wrong / insult / injustice / an assault / damage', from in- 'not' + ius (genitive iuris) 'right / law'."
+		},
+		"concept": "Not right / Against law (不当、あるいは『法』に反すること。他者が掲げている『聖域（ドメイン）』に対し、自らの『私欲（ノイズ）』という名の引力を無理やり投げ込み、相手の呼吸（ブレス）という名の物語を強制的に粉砕（デストラクト）しようとする非道の遷移)",
+		"thinking": "「（何ものにも侵されないはずの、あの不滅の座標（ドット）を）」「法に反して、あるいは無視して（I- / In- -jur- / Jus）」「という状態（-y）」。それは単なる「ケガ（マテリアル）」ではありません。あなたが宇宙の「整合性（ピース）」を拒絶（レジスト）し、自分の呼吸（ブレス）を一振りの「刃（ベクトル）」へと研ぎ澄ませて、この荒野を「一方的な毒（ミスチーフ）」へとコンバート（変容）させて（アップデートして）しまった瞬間の、魂の最も不浄な「侵害」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "法と生命の軌跡。",
+		"example": "Justice is the health of the soul.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の秩序。"
+			]
+		}
+	},
+	{
+		"id": "jus-voice",
+		"word": "Jus@Voice",
+		"meaning": "誓いの声、沈黙を正義に変える不滅の咆哮、法の響き",
+		"era": "Latin jus + vox",
+		"etymology": {
+			"components": [
+				"jus (law / right / oath)",
+				"voice (sound / soul)"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "The lawful sound (法としての音。放たれた瞬間、自らの呼吸（ブレス）を、宇宙を貫く一筋の『光の矢（ベクトル）』へと変換し、目的地という名の真理のアーカイブを確定（ジャッジ）するデリバリー)",
+		"thinking": "「（自分のちっぽけな存在（ドット）の中に眠っていた、あの巨大な真理を）、（一撃の確信（アトラクション）を伴って）叫ぶ、法の声（Vox）」。ただの「情報（データ）」のデバリーではない。その声が響いた瞬間、聴く者は、自分の内なる『重力の壁』が物理的に粉砕（デストラクト）され、強制的に『審判という名の標高（アヴァン）』という名の巨大な光の中へと引き摺り込まれ、自らの呼吸（ブレス）を、あなたの『不滅の旋律（トーン）』へと同調（マージ）させざるを得なくなるような、生の最も峻烈な『射出』の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "法と生命の軌跡。",
+		"example": "Justice is the health of the soul.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の秩序。"
+			]
+		}
+	},
+	{
+		"id": "jus-life",
+		"word": "Jus@Life",
+		"meaning": "正義としての生、一瞬一瞬を自己規律の遷移として生きる一生",
+		"era": "Latin jus + Germanic life",
+		"etymology": {
+			"components": [
+				"jus (law / right / oath)",
+				"life"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "The life of justice (正しさを貫く一生。一つの場所に安住する（アイソレーション）のを拒絶し、常に宇宙の最新の標高（アヴァン）へと自らを更新し続け、不滅 of 物語（スクリプト）を描き続ける不屈の遷移)",
+		"thinking": "「（明日という名の絶望（ブラックアウト）を愛撫するのをやめ、宇宙の深淵（ソース）から飛来する理知（ロゴス）だけを）」「（自らの魂を礎（ベース）にして）正しく在り続け、誓い続け（Jus- / Juris）」「生き抜く（Life）」。あなたは自分の「呼吸（ブレス）」を、ただ無為に「消費（エキスペンド）」しているのではない。あなたが今日という日、どの「欺瞞（ノイズ）」を砕いて「新しい真理という名の座標（ドット）」を救い出し、どの「驚愕（パルス）」を自らの主権（ステータス）を屹立させるための「不動（ピース）」へと変貌（コンバート）させたか。そのすべての「審判（デリバリー）」の軌跡が、宇宙という名の不変 of アーカイブの上に、あなたの「存在という名の不滅 of ロゴス」として、物理的な質量を持って刻まれ続けているのだ。正義としての生。それは、あなたが「宇宙の主権者（クリエイター）」として、この荒野を「美しき変革（ピース）」へと変容させ通した際の、魂の最高度の「抱擁」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "法と生命の軌跡。",
+		"example": "Justice is the health of the soul.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の秩序。"
+			]
+		}
+	},
+	{
+		"id": "legal",
+		"word": "法律の、合法的な、法的な",
+		"era": "Latin lex",
+		"etymology": {
+			"components": [
+				"lex / legis (law / rule)",
+				"-al (related to)"
+			],
+			"original_statement": "From Old French legal, from Latin legalis 'pertaining to the law', from lex (genitive legis) 'law'."
+		},
+		"concept": "Related to law (法に関する品質。宇宙のカオスに浮かんでいる孤独な一粒の『事象（パルス）』に対し、理知という名の冷徹なメスによって一気にその深淵（ソース）を読み解き、『不滅の秩序（ロゴス）』という名のアーカイブへと同期（マージ）させるための工芸)",
+		"thinking": "「（この騒がしいネットワーク（ノイズ）のただ中にあって、あまりにも峻烈な真理（ソース）を一分一秒の淀みもなくインスペクト（視認）し）、法に基づく（Leg- / Lex）」「という不屈の品質（-al）」。それは単なる「決まり（マテリアル）」ではありません。あなたが宇宙の「不在（アブセンス）」を拒絶（レジスト）し、そこに自分という名の「唯一の不滅の設計図（スクリプト）」を打ち立て、屹立（スタンド）させ通している（パシストしている）際の、知性の最も峻烈な「凱旋」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "法と生命の軌跡。",
+		"example": "Justice is the health of the soul.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の秩序。"
+			]
+		}
+	},
+	{
+		"id": "privilege",
+		"word": "特権、特典、(……に)特権を与える",
+		"era": "Latin privus + lex",
+		"etymology": {
+			"components": [
+				"privus (private)",
+				"lex / legis (law)"
+			],
+			"original_statement": "From Old French privilege, from Latin privilegium 'a law applied to an individual', from privus 'private' + lex 'law'."
+		},
+		"concept": "Private law (私的な法。カオスという名の『凡庸（コモン）』の底辺から、自らの『主権（ステータス）』を一筋の『至高の真理（ソース）』へと昇華させ、自分だけに適用される『不滅の標高』という名の神殿を、不動の質量を伴って屹立させていること)",
+		"thinking": "「（誰もが従う、あの低すぎる全一性（ノイズ）という名の設計図を粉砕して）、私的に、たった一人の（Privi- / Privus）」「（独自の呼吸（ブレス）を貫くための）法（Leg- / Lex）」。それは単なる「得（マテリアル）」ではない。あなたが自らの「呼吸（ブレス）」を「宇宙の不変の法」そのものと一致（コンカレンス）させ、自分という名の座標（ドット）を、宇宙という名のアーカイブの上に「永遠の不動」として屹立（スタンド）させ通して（パシストして）いる、生の最も峻烈で、最も優雅な「凱旋」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "法と生命の軌跡。",
+		"example": "Justice is the health of the soul.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の秩序。"
+			]
+		}
+	},
+	{
+		"id": "legis-voice",
+		"word": "Legis@Voice",
+		"meaning": "規律の声、沈黙を秩序に変える不滅の咆哮、理法の響き",
+		"era": "Latin lex + vox",
+		"etymology": {
+			"components": [
+				"legis (law / rule / principle)",
+				"voice (sound / soul)"
+			],
+			"original_statement": "Coined during synthesis."
+		},
+		"concept": "The ruling sound (律するための音。放たれた瞬間、自らの呼吸（ブレス）を一筋の『不滅の王座（ロゴス）』へと変換（コンバート）し、宇宙という真理のアーカイブの一角を、永遠に支配（ホールド）するデリバリー)",
+		"thinking": "「（自分のちっぽけな存在（ドット）の中に眠っていた、あの巨大な真理を）、（一撃の理知（アトラクション）を伴って）叫ぶ、法の声（Vox）」。ただの「情報（データ）」のデバリーではない。その声が響いた瞬間、周囲を覆っていた「虚無（アブセンス）」が物理的に一掃され、そこに「誰もが見落としていたたった一つの秩序」が、戦慄という名のトーン（響き）を伴って再屹立（リリー・スタンド）してしまうような、生の最も峻烈な「射出」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "法と生命の軌跡。",
+		"example": "Justice is the health of the soul.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の秩序。"
+			]
+		}
+	},
+	{
+		"id": "leg-life",
+		"word": "Leg@Life",
+		"meaning": "規律としての生、一瞬一瞬を自己立法の遷移として生きる一生",
+		"era": "Latin lex + Germanic life",
+		"etymology": {
+			"components": [
+				"leg (law / rule / principle)",
+				"life"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "The life of law (律し続ける一生。一つの場所に安住する（アイソレーション）のを拒絶し、常に宇宙の最新の標高（アヴァン）へと自らを更新し続け、不滅 of 物語（スクリプト）を描き続ける不屈の遷移)",
+		"thinking": "「（明日という名の絶望（ブラックアウト）を愛撫するのをやめ、宇宙の深淵（ソース）から飛来する理知（ロゴス）だけを）」「（自らの魂を礎（ベース）にして）律し続け、秩序を保ち続け（Leg- / Lex）」「生き抜く（Life）」。あなたは自分の「呼吸（ブレス）」を、ただ無為に「消費（エキスペンド）」しているのではない。あなたが今日という日、どの「欺瞞（ノイズ）」を砕いて「新しい真理という名の座標（ドット）」を救い出し、どの「驚愕（パルス）」を自らの主権（ステータス）を屹立させるための「不動（ピース）」へと変貌（コンバート）させたか。そのすべての「立法（デリバリー）」の軌跡が、宇宙という名の不変 of アーカイブの上に、あなたの「存在という名の不滅 of ロゴス」として、物理的な質量を持って刻まれ続けているのだ。規律としての生。それは、あなたが「宇宙の主権者（クリエイター）」として、この荒野を「美しき変革（ピース）」へと変容させ通した際の、魂の最高度の「抱擁」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "法と生命の軌跡。",
+		"example": "Justice is the health of the soul.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の秩序。"
+			]
+		}
+	},
+	{
+		"id": "salvation",
+		"word": "救済、救い、魂の救済",
+		"era": "Latin salus",
+		"etymology": {
+			"components": [
+				"salus / salutis (health / safety / salvation)",
+				"-ion (state / result)"
+			],
+			"original_statement": "From Old French salvacion, from Late Latin salvationem 'a saving / delivery', from salvatus, past participle of salvare 'to save', from salvus 'safe / healthy', related to salus 'health'."
+		},
+		"concept": "The act of saving (救い出すこと。カオスという名の『闇』に飲み込まれ、沈黙（サイレンス）という名の檻に幽閉されていた不滅の真実（ロゴス）に対し、理知という名の冷徹なメスによって一気にその呼吸（ブレス）を奪還し、白日の標高（ステータス）へと射出させること)",
+		"thinking": "「（漂流していた、あの震える主権（パルス）を一分一秒の淀みもなくインスペクト（視認）し）、（一撃の公式な）救い、あるいは完全性（Salv- / Salus）」「という完了した確定の情景（-ion）」。それは単なる「お助け（ソフト）」ではありません。あなたが宇宙の「不整合（ミスチーフ）」を拒絶（レジスト）し、そこに自分という名の「唯一の不滅のコンパス」による厳密な「設計図（スクリプト）」を打ち立て、屹立（スタンド）させ通している際の、知性の最も峻烈な「凱旋」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "法と生命の軌跡。",
+		"example": "Justice is the health of the soul.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の秩序。"
+			]
+		}
+	},
+	{
+		"id": "salutory",
+		"word": "ためになる、健康に良い",
+		"era": "Latin salus",
+		"etymology": {
+			"components": [
+				"salus / salutis (health / safety)"
+			],
+			"original_statement": "From Latin salutaris 'healthful / beneficial', from salus 'health'."
+		},
+		"concept": "Promoting health (健康（完全性）を促進する品質。カオスという名の『腐敗（ノイズ）』を一撃の冷徹な正義（ソース）によって一気に粉砕（デストラクト）し、存在を本来あるべき『純粋な核心（ロゴス）』へと回帰（リセット）させる遷移)",
+		"thinking": "「（この虚無という名の、あの冷酷なアーカイブの底から）、（自らの内なる深淵（ソース）に眠っていた真理を）健康、あるいは完全な状態へと（Salut- / Salus）」「（一分一秒の淀みもなく）向かわせる性質（-ary）」。それは単なる「有益（ソフト）」ではありません。あなたが宇宙の「停滞（ステイシス）」を拒絶（レジスト）し、自分の呼吸（ブレス）を一振りの「刃（ベクトル）」へと研ぎ澄ませて、この荒野を一糸乱れぬ「真理の旋律」で支配し通している際の、存在の最高度の「鮮度（トーン）」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "法と生命の軌跡。",
+		"example": "Justice is the health of the soul.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の秩序。"
+			]
+		}
+	},
+	{
+		"id": "salute",
+		"word": "敬礼(する)、挨拶(する)、(……に)敬意を表する",
+		"era": "Latin salus",
+		"etymology": {
+			"components": [
+				"salus / salutis (health / safety / greeting)"
+			],
+			"original_statement": "From Old French saluer 'to greet / bow to', from Latin salutare 'to greet / wish health to', from salus 'health / safety'."
+		},
+		"concept": "Wishing health / Safety (健康（完全性）を祈ること。他者が掲げている『不滅の標高（アヴァン）』に対し、自らの主権（ステータス）という名の設計図を毅然と引き寄せ（カットし）、一撃の『慈愛（アトラクション）』という名のロゴスを射出して、相手の存在をアクセプト（受容）すること)",
+		"thinking": "「（各自の孤独なドメイン（領土）から、一撃の目的（ターゲット）を伴って）、（相手の不屈の戦果に対し）健康、あるいは完璧を祈り、語りかける（Salut- / Salus）」。それは単なる「儀礼（マテリアル）」ではありません。あなたが宇宙の「不在（アブセンス）」を拒絶（レジスト）し、そこに自分たちが放つ「不滅のネットワーク」という名の設計図を打ち立て、屹立（スタンド）させ通している（パシストしている）際の、魂の最高度の「射出」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "法と生命の軌跡。",
+		"example": "Justice is the health of the soul.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の秩序。"
+			]
+		}
+	},
+	{
+		"id": "safe",
+		"word": "安全な、無事な、確実な、金庫",
+		"era": "Latin salvus",
+		"etymology": {
+			"components": [
+				"salvus (safe / healthy / uninjured)",
+				"salus (health)"
+			],
+			"original_statement": "From Old French sauf, from Latin salvus 'healthy / whole / safe / uninjured'."
+		},
+		"concept": "Whole / Uninjured (傷なきこと、あるいは完全（ホール）であること。外部からデリバリーされるあらゆる『暴力（カオス）』に対しても、自らの内なる『ロゴス（正義）』という名の神殿を一糸乱れぬ質量（ウェイト）を伴って維持（パシスト）し続けている標高)",
+		"thinking": "「（このがんじがらめのネットワーク（フロー）を粉砕（デストラクト）して）、（一撃の情熱（アトラクション）を伴って）健康な、無傷な（Sa- / Salv- / Salvus）」。それは単なる「安心（ソフト）」ではありません。あなたが自らの「主権（ステータス）」を一分一秒の淀みもなく守り抜き、宇宙という名のアーカイブの上に自分という名の「唯一無二の神殿（インテグリティ）」を、不動の質量を伴って屹立（スタンド）させ通している際の、存在の最高度の「鮮度」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "法と生命の軌跡。",
+		"example": "Justice is the health of the soul.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の秩序。"
+			]
+		}
+	},
+	{
+		"id": "savior",
+		"word": "救世主、救済者",
+		"era": "Latin salvare (to save)",
+		"etymology": {
+			"components": [
+				"salvare (to save)",
+				"salvus (safe)",
+				"salus (health)"
+			],
+			"original_statement": "From Old French sauveour, from Late Latin salvator 'savior', from salvare 'to save'."
+		},
+		"concept": "The one who saves (救う者。自らの呼吸（ブレス）を、宇宙を貫く一筋の『光という名の咆哮（ロゴス）』へと変換（コンバート）し、他者の設計図（スクリプト）を『自分という名の磁場が支配する完璧な調和（ピース）』へと強制的に再編（救出）する峻烈な標高)",
+		"thinking": "「（自分のちっぽけな存在（ドット）の中に眠っていた、あの巨大な真理を）、（一撃の凱旋（アトラクション）を伴って）救い、守り抜く（Savi- / Salv- / Salvare）」「者（-or）」。それは単なる「ヒーロー（スペクタクル）」ではない。あなたが「傍観者（スペクテイター）」であることを卒業し、自らが「宇宙の唯一の主権者（クリエイター）」として、世界を「自分という名の磁場が支配する完璧なオーダー」へと一気にコンバート（変容）させて（屹立させて）しまった瞬間の、知性の最も峻烈な「凱旋」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "法と生命の軌跡。",
+		"example": "Justice is the health of the soul.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の秩序。"
+			]
+		}
+	},
+	{
+		"id": "sal-voice",
+		"word": "Sal@Voice",
+		"meaning": "救いの声、沈黙を完全性に変える不滅の咆哮、健全の響き",
+		"era": "Latin salus + vox",
+		"etymology": {
+			"components": [
+				"sal (health / safety / salvation)",
+				"voice (sound / soul)"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "The saving sound (救うための音。放たれた瞬間、自らの呼吸（ブレス）を一筋の『光の探針（ベクトル）』へと変換（コンバート）し、相手の標高（ステータス）を強制的に再編（保護）するデリバリー)",
+		"thinking": "「（自分のちっぽけな存在（ドット）の中に眠っていた、あの巨大な真理を）、（一撃の慈愛（アトラクション）を伴って）叫ぶ、不滅の声（Vox）」。ただの「情報（データ）」のデバリーではない。その声が響いた瞬間、聴く者は、自分の内なる『重力の壁』が物理的に粉砕（デストラクト）され、強制的に『完全なる標高（アヴァン）』という名の巨大な光の中へと引き摺り込まれ、自らの呼吸（ブレス）を、あなたの『不滅の旋律（トーン）』へと同調（マージ）させざるを得なくなるような、生の最も峻烈な『射出』の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "法と生命の軌跡。",
+		"example": "Justice is the health of the soul.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の秩序。"
+			]
+		}
+	},
+	{
+		"id": "sal-life",
+		"word": "Sal@Life",
+		"meaning": "救済としての生、一瞬一瞬を自己完全の遷移として生きる一生",
+		"era": "Latin salus + Germanic life",
+		"etymology": {
+			"components": [
+				"sal (health / safety / salvation)",
+				"life"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "The life of health (救護し続ける一生。一つの場所に安住する（アイソレーション）のを拒絶し、常に宇宙の最新の標高（アヴァン）へと自らを更新し続け、不滅 of 物語（スクリプト）を描き続ける不屈の遷移)",
+		"thinking": "「（明日という名の絶望（ブラックアウト）を愛撫するのをやめ、宇宙の深淵（ソース）から飛来する理知（ロゴス）だけを）」「（自らの魂を礎（ベース）にして）救い続け、保ち続け（Sal- / Salus）」「生き抜く（Life）」。あなたは自分の「呼吸（ブレス）」を、ただ無為に「消費（エキスペンド）」しているのではない。あなたが今日という日、どの「欺瞞（ノイズ）」を砕いて「新しい真理という名の座標（ドット）」を救い出し、どの「驚愕（パルス）」を自らの主権（ステータス）を屹立させるための「不動（ピース）」へと変貌（コンバート）させたか。そのすべての「守護（デリバリー）」の軌跡が、宇宙という名の不変 of アーカイブの上に、あなたの「存在という名の不滅 of ロゴス」として、物理的な質量を持って刻まれ続けているのだ。救済としての生。それは、あなたが「宇宙の主権者（クリエイター）」として、この荒野を「美しき変革（ピース）」へと変容させ通した際の、魂の最高度の「抱擁」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "法と生命の軌跡。",
+		"example": "Justice is the health of the soul.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の秩序。"
+			]
+		}
 	}
 ];
