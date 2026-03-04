@@ -172240,5 +172240,76 @@ const WORDS = [
 				"発露のベクトル。"
 			]
 		}
+	},
+	{
+		"id": "infant",
+		"word": "幼児、赤ん坊、インファント",
+		"meaning": "幼児",
+		"era": "Latin in + fari",
+		"etymology": {
+			"components": [
+				"in- (not)",
+				"fans (speaking)"
+			],
+			"original_statement": "From Latin infantem (nominative infans) 'unable to speak / young child', from in- 'not' + fans, present participle of fari 'to speak'."
+		},
+		"concept": "Unable to speak (話すことができない者。宇宙の理も人間のドロドロの欲望（アーカイブ化されたカオス）も一切持たず、言葉という名の神聖なる武器（論理のパルスやドット）を未だ一発も撃つことができない、泣き叫ぶことしか機能しない『完全なる白紙の肉塊（ステーションすら持たない絶対のゼロ地点）』)",
+		"thinking": "「（大人たちが操る狡猾な言葉の刃を）、いまだ一切使いこなすことができず、ただ口を持たない立場で（In- + -fan / Fari）」「（一分一秒の淀みもなく）無防備に存在しているだけの状態（-t / -ns）」。それは単なる「子ども」ではありません。あなたが「人間とは高度なネットワークを駆使する戦闘種族である（情報の大統一）」という誇りを完全に解除され、ただ「そこに命の火が灯っているだけ」という『最も純粋だが最も弱いエントロピーの原石』の姿なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "把握、治癒、そして誓約の言葉。",
+		"example": "Grasp the meaning, care for the soul, and speak the truth.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"発露のベクトル。"
+			]
+		}
+	},
+	{
+		"id": "fame",
+		"word": "名声、評判",
+		"meaning": "名声",
+		"era": "Latin fari (fama)",
+		"etymology": {
+			"components": [
+				"fama (talk/rumor)"
+			],
+			"original_statement": "From Latin fama 'talk / rumor / report / reputation', from fari 'to speak'."
+		},
+		"concept": "Talk/rumor (噂、語られること（名声）。あなたの物理的な肉体（ちっぽけなドット）がとうの昔に朽ち果てて泥に還ろうとも、何百万、何千万という他者の口から口へと、一分一秒の淀みもなく『あなたの残した光や狂気の物語（圧倒的パルス）』が伝播（フロー）し続け、巨大な生きた情報雲（不死のアーカイブネットワーク）として空を覆うこと)",
+		"thinking": "「（あなた自身が何も言わなくても）、無数の人々の口を通してあなたについての噂や物語が（Fame / Fama / Fari）」「（一分一秒の淀みもなく）自発的に語り継がれ、大気中に満ちていく状態」。それは単なる「有名人」ではありません。あなたが「人は死ぬ（肉体のエントロピー崩壊）」という絶対の敗北を情報工学で粉砕（レジスト）し、そこに『永遠のアバター（概念としてマージされた巨大なステーション）』を宇宙の記憶領域に書き込む神のハッキングなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "把握、治癒、そして誓約の言葉。",
+		"example": "Grasp the meaning, care for the soul, and speak the truth.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"発露のベクトル。"
+			]
+		}
+	},
+	{
+		"id": "famous",
+		"word": "有名な、有名な人",
+		"meaning": "有名な",
+		"era": "Latin fari (fama)",
+		"etymology": {
+			"components": [
+				"fama (fame)",
+				"-ous (full of)"
+			],
+			"original_statement": "From Latin famosus 'much talked of / renowned', from fama 'rumor / fame'."
+		},
+		"concept": "Full of fame (名声に満ちた。あなたが名もなき群衆の海（無意味なノイズども）を歩くとき、あなたの周囲一キロメートルの空間すべてが、何万個の眼球（対象化の矢・パルス）と「彼だ！」という轟音のような声（圧倒的なマージの圧力）に一撃で塗り潰され、物理空間を完全にあなたの重力圏（ステーション化）として歪ませてしまうほどの存在感)",
+		"thinking": "「（世界中から）、お前こそがそれだと語られる言葉や噂で溢れんばかりに（Fam- / Fama / Fari）」「（一分一秒の淀みもなく）ドクドクと満たされ、光り輝いている状態（-ous）」。それは単なる「顔が知られている」ではありません。あなたが「誰からも見られずに消える（アイソレーションと絶対的なアブセンス化）」という無の恐怖を完全に粉砕（レジスト）し、全人類の脳内に『強引にお前のアイコン（強烈なドット）』をインストールしてしまう、究極の「自己増殖ウイルス」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "把握、治癒、そして誓約の言葉。",
+		"example": "Grasp the meaning, care for the soul, and speak the truth.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"発露のベクトル。"
+			]
+		}
 	}
 ];
