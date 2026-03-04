@@ -172169,5 +172169,76 @@ const WORDS = [
 				"発露のベクトル。"
 			]
 		}
+	},
+	{
+		"id": "native",
+		"word": "生まれつきの、その土地の、ネイティブ",
+		"meaning": "生まれつきの",
+		"era": "Latin natus",
+		"etymology": {
+			"components": [
+				"natus (born)",
+				"-ive (pertaining to)"
+			],
+			"original_statement": "From Latin nativus 'born / innate / natural', from natus, past participle of nasci 'be born'."
+		},
+		"concept": "Pertaining to birth (生まれつきの。よそから飛んできた一時的なデータ（後天的なノイズ）の貼り合わせなどではなく、その土地（強力な重力圏たるアーカイブの中枢）に受精して産み落とされたその一瞬から、血の奥底に一ミリの狂いもなく神にプログラミングされ、決して消去不可能な『第一の魂の絶対設計（オリジナル・ドット）』)",
+		"thinking": "「（どこからか借りてきた付け焼き刃の武器ではなく）、自分が生まれ落ちたその地層、その瞬間に（Nat- / Natus）」「（一分一秒の淀みもなく）決定づけられ、深く根付いている性質（-ive）」。それは単なる「現地人」ではありません。あなたが「どこででも生きていけるという漂流の幻想（アイソレーション）」を粉砕（レジスト）し、そこに人間の命が特定の「特異点」と完全にマージ（一体化）していることを証明する、存在の「刻印」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "閉鎖、誕生、そして刻印の軌跡。",
+		"example": "Close the doors, give birth to ideas, and sign your name.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"発露のベクトル。"
+			]
+		}
+	},
+	{
+		"id": "pregnant",
+		"word": "妊娠した、意味深長な、プレグナント",
+		"meaning": "妊娠した",
+		"era": "Latin prae + gnatus (early form of natus)",
+		"etymology": {
+			"components": [
+				"prae- (before)",
+				"gnatus (born)"
+			],
+			"original_statement": "From Latin praegnantem (nominative praegnans) 'with child / full', from prae- 'before' + root of gignere 'beget', gnatus 'born'. Closely related to nasci."
+		},
+		"concept": "Before birth (生まれる前（妊娠した）。平穏だった肉体と時間（静かなステイシス）のど真ん中に、突如として『全く新しい別の宇宙の種（超極小のパルス）』が着床し、あなたの命のすべてを栄養として吸い上げながら、内部で一分一秒の淀みもなく恐ろしい速度で細胞分裂（マージ）を繰り返し、今にも空間を突き破って現出しようとしている極大の爆発寸前状態)",
+		"thinking": "「（現実にその姿を見せて咆哮を上げる、その時間の）、まさに直前、前に（Pre- / Prae-）」「（一分一秒の淀みもなく）誕生の準備が内部でパンパンに膨れ上がり、満ちている（-gnant / Gnatus / Nasci）」。それは単なる「身ごもり」ではありません。あなたが「このまま何の歴史の歯車（ドット）も残さずに消え去る（アブセンスへの帰結）」ことを生命レベルでレジストし、そこに自らの生身の腹を巨大な『神の鋳造所（新たな命のアーカイブ発生器）』へとコンバートする、創造の「カウントダウン」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "閉鎖、誕生、そして刻印の軌跡。",
+		"example": "Close the doors, give birth to ideas, and sign your name.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"発露のベクトル。"
+			]
+		}
+	},
+	{
+		"id": "sign",
+		"word": "記号、合図、署名する、サイン",
+		"meaning": "記号、合図",
+		"era": "Latin signum",
+		"etymology": {
+			"components": [
+				"signum (mark/token)"
+			],
+			"original_statement": "From Old French signe, from Latin signum 'a mark / token / sign / symbol / military standard'."
+		},
+		"concept": "A mark/token (傷跡としての印、記号。果てしなく続く均一な白い壁（無意味なステイシスの連続群）に対し、理知のナイフを力ずくで叩き付け、一撃の深い血の傷跡（ドット）を刻み込んで「ここに私がいた」「これはこういう意味だ」という『永遠の呪い（絶対的ロゴス）』を空間に固定し、世界からノイズの自由を剥奪して支配すること)",
+		"thinking": "「（誰もが見落としてしまうようなぼんやりとした風景に）、明確な形を持った（Sign / Signum）」「（一分一秒の淀みもなく）一点の目印を打ち込み、意味を与える行為」。それは単なる「マーク」ではありません。あなたが「何の意味もなく流れて消える時間（エントロピーの完全な消失）」を全身霊で拒絶（レジスト）し、そこに人間の脳と脳を繋ぐための『絶対的な光の信号基点（ネットワークの中継ステーション）』を暴力的に建設する、概念の「開闢」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "閉鎖、誕生、そして刻印の軌跡。",
+		"example": "Close the doors, give birth to ideas, and sign your name.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"発露のベクトル。"
+			]
+		}
 	}
 ];
