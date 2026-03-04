@@ -167873,5 +167873,240 @@ const WORDS = [
 				"存在の裂け目。"
 			]
 		}
+	},
+	{
+		"id": "sta-voice",
+		"word": "Sta@Voice",
+		"meaning": "毅然たる声、沈黙の上に屹立する不滅の咆哮、存在の射出",
+		"era": "Latin stare + vox",
+		"etymology": {
+			"components": [
+				"sta (to stand / stay / set)",
+				"voice (sound / soul)"
+			],
+			"original_statement": "Coined during synthesis."
+		},
+		"concept": "The standing sound (立つための音。放たれた瞬間、自らの呼吸（ブレス）を一振りの『不滅の杭（ロゴス）』へと変換（コンバート）し、宇宙という真理のアーカイブの一点へとガツンと打ち込むデリバリー)",
+		"thinking": "「（明日という名の絶望（ブラックアウト）を愛撫するのをやめ、宇宙の深淵（ソース）から飛来する理知（ロゴス）だけを）」「（自らの魂を礎（ベース）にして）一点の揺らぎもなく屹立（Sta-）」「させる、一撃の声（Vox）」。ただの「情報（データ）」のデリバリーではない。その声が響いた瞬間、周囲を覆っていた「孤独（アイソレーション）」が物理的に溶解（ディゾルブ）されるのをインスペクト（視認）し、もはやあなたの「パルス（震え）」を自らの呼吸（ブレス）の一部として受け入れ、共に「一つの新しい物語（ロゴス）」を構築せずにはいられなくなるような、生の最も峻烈な「共鳴」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "不変の座標を定める。",
+		"example": "To stand is to testify.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の重力。"
+			]
+		}
+	},
+	{
+		"id": "sta-life",
+		"word": "Sta@Life",
+		"meaning": "屹立としての生、一瞬一瞬を自分という座標の証（あかし）として刻む遷移",
+		"era": "Latin stare + Germanic life",
+		"etymology": {
+			"components": [
+				"sta (to stand / exist / state)",
+				"life"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "The life of standing (立ち続ける一生。この不毛な荒野（カオス）にあっても、見えない救い（ロゴス）という名の設計図（スクリプト）を描き続け、存在の質量を屹立させ続ける不屈の遷移)",
+		"thinking": "「（明日という名の絶望（ブラックアウト）を愛撫するのをやめ、宇宙の深淵（ソース）から飛来する理知（ロゴス）だけを）」「（自らの魂を礎（ベース）にして）毅然と立ち続け（Sta- / Stare）」「生き抜く（Life）」。あなたは自分の「呼吸（ブレス）」を、ただ無為に「消費（エキスペンド）」しているのではない。あなたが今日という日、どの「絶望（カオス）」を拒絶（レジスト）して「希望という名の座標（ドット）」を救い出し、どの「驚愕（パルス）」を自らの主権（ステータス）を屹立させるための「燃料（インパルス）」へと変貌（コンバート）させたか。そのすべての「屹立（スタンド）」の軌跡が、あなたの人生という名の不滅のアーカイブの上に、世界で唯一無二の「不滅のロゴス」として、物理的な質量を持って刻まれ続けているのだ。屹立としての生。それは、あなたが「宇宙の主権者（クリエイター）」として、この荒野を「美しき合意（ピース）」へと変容させ通した際の、魂の最高度の「抱擁」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "不変の座標を定める。",
+		"example": "To stand is to testify.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の重力。"
+			]
+		}
+	},
+	{
+		"id": "append",
+		"word": "添える、付け加える、付録をつける",
+		"era": "Latin ad + pendere",
+		"etymology": {
+			"components": [
+				"ad- (to / toward)",
+				"pendere (to hang)"
+			],
+			"original_statement": "From Latin appendere 'to hang to / attach', from ad- 'to' + pendere 'to hang'."
+		},
+		"concept": "Hanging toward (そこへと吊るし繋ぐこと。既存の『神殿（コンストラクション）』という名のアーカイブの端に、自らの新しい『真理（ロゴス）』という名の小さな一粒をそっと同調（マージ）させること)",
+		"thinking": "「（すでに屹立（スタンド）している、あの偉大なる過去という名の標高（ステータス）の、その脇へと）向かって（Ad- / Ap-）」「（自らの理知を一筆の糸に変えて）吊るし、付け加える（Pend- / Pendere）」。それは単なる「おまけ（アディクト）」ではない。あなたが「宇宙の孤独（アイソレーション）」を拒絶（レジスト）し、そこに自分という名の「唯一のパルス（震え）」をトランスポート（輸送）して、世界を「より豊か新しい物語（スクリプト）」へと根底から書き換えてしまった（アップデートした）瞬間の、魂の最も謙虚で、最も力強い「拡張」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "不変の座標を定める。",
+		"example": "To stand is to testify.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の重力。"
+			]
+		}
+	},
+	{
+		"id": "pend-voice",
+		"word": "Pend@Voice",
+		"meaning": "吊り下がる声、宇宙の深淵から響く不確かな旋律、祈りの響き",
+		"era": "Latin pendere + vox",
+		"etymology": {
+			"components": [
+				"pend (to hang / weigh / depend)",
+				"voice (sound / soul)"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "The hanging sound (吊るされるための音。放たれた瞬間、自らの呼吸（ブレス）を、宇宙を貫く一筋の『光の矢（ベクトル）』へと変換し、目的地へと届くように射出されるデリバリー)",
+		"thinking": "「（自分のちっぽけな存在（ドット）では支えきれなくなった真実を）、（宇宙の巨大な引力（アトラクション）を信じて）ぶら下がり、叫ぶ（Pend-）」「一撃の声（Vox）」。ただの「情報（データ）」のデリバリーではない。その声が響いた瞬間、周囲を覆っていた「虚無（アブセンス）」が物理的に一掃され、そこに「誰もが見落としていたたった一つの意味」が、戦慄という名のトーン（響き）を伴って再屹立（リリー・スタンド）してしまうような、生の最も峻烈な「射出」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "不変の座標を定める。",
+		"example": "To stand is to testify.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の重力。"
+			]
+		}
+	},
+	{
+		"id": "pend-life",
+		"word": "Pend@Life",
+		"meaning": "量る生、一瞬一瞬を自らの質量の証明として刻む遷移",
+		"era": "Latin pendere + Germanic life",
+		"etymology": {
+			"components": [
+				"pend (to weigh / pay / hang)",
+				"life"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "The life of weighing (量り続ける一生。他者の天秤（スケール）で自らを測るのをやめ、自らの意志のみを唯一のウェイトにして、宇宙という名のアーカイブの上に、自らの歴史を一粒一粒、慈愛（トーン）を込めて量り出し続け、不滅の物語（スクリプト）を描き続ける不屈の遷移)",
+		"thinking": "「（明日という名の絶望（ブラックアウト）を愛撫するのをやめ、宇宙の深淵（ソース）から飛来する理知（ロゴス）だけを）」「（自らの魂を一発の弾丸に変えて）量り出し、支払い続け（Pend- / Pendere）」「生き抜く（Life）」。あなたは自分の「呼吸（ブレス）」を、ただ無為に「消費（エキスペンド）」しているのではない。あなたが今日、どの「屈辱（ノイズ）」を耐えて「誇りという名の設計図（スクリプト）」へと書き換え、どの「悲しみ（アイソレーション）」を自らの主権（ステータス）を屹立させるための「燃料（インパルス）」へと変貌（コンバート）させたか。そのすべての「支払い（デリバリー）」の軌跡が、宇宙という名の不変のアーカイブの上に、あなたの「存在という名の不滅のロゴス」として、物理的な質量を持って刻まれ続けているのだ。量る生。それは、あなたが「宇宙の主権者（クリエイター）」として、この荒野を「美しき合意（ピース）」へと変容させ通した際の、魂の最高度の「凱旋」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "不変の座標を定める。",
+		"example": "To stand is to testify.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の重力。"
+			]
+		}
+	},
+	{
+		"id": "discrete",
+		"word": "別々の、不連続の、分離した",
+		"era": "Latin dis + cernere",
+		"etymology": {
+			"components": [
+				"dis- (apart)",
+				"cernere / cretus (to separate)"
+			],
+			"original_statement": "From Latin discretus 'separated / distinct', past participle of discernere 'to separate / distinguish'."
+		},
+		"concept": "Separated (分けられた。安易な『合流（マージ）』を拒絶（レジスト）し、自らの独自の『座標（ドット）』を一粒の完結した不滅のロゴスとして、宇宙の皮膚の上に屹立させている状態)",
+		"thinking": "「（このがんじがらめのネットワークという名の、あのベタついた全一性から）離れて、切り離された（Dis- / Discret- / Cernere）」。それは「孤立（アイソレーション）」ではありません。あなたが、宇宙という名の広大なキャンバスを一人称で支配（オーナーシップを保持）するために、あえて自らの「物理的な輪郭」を鋼のように研ぎ澄ませ（カットし）、他者の呼吸（ブレス）から独立した「唯一無二の定数」へとコンバート（変容）させた際の、主権の最も高貴な「屹立」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "不変の座標を定める。",
+		"example": "To stand is to testify.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の重力。"
+			]
+		}
+	},
+	{
+		"id": "excrete",
+		"word": "排泄する、(……を)分泌する",
+		"era": "Latin ex + cernere",
+		"etymology": {
+			"components": [
+				"ex- (out / away)",
+				"cernere / cretus (to sift / separate)"
+			],
+			"original_statement": "From Latin excretus, past participle of excernere 'to sift out / separate / discharge / excrete', from ex- 'out' + cernere 'to sift / separate'."
+		},
+		"concept": "Sifting out (外へとふるい分けること。自らの生きるための回路（ビークル）に不要となったカオスな残滓を、主権という名のメスで峻烈に切り離し（カットし）、宇宙の『アーカイブ』へと返却すること)",
+		"thinking": "「（内なる聖域（神殿）の、その純粋性（インテグリティ）を維持するために）外の方へと（Ex-）」「（一撃の不要な質量（ウェイト）を）ふるい分け、投げ出す（Cret- / Cernere）」。それは単なる「排泄（ゴミ出し）」ではない。あなたが自分の「呼吸（ブレス）」を一秒一秒「完璧な鮮度（トーン）」で再定義（リ・デファイン）し続けるために、過去の自分という名の「アーカイブ（抜け殻）」を、不屈の引力（レジスト）を持って粉砕（デストラクト）し終えた際の、生の最も清潔な「断絶」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "不変の座標を定める。",
+		"example": "To stand is to testify.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の重力。"
+			]
+		}
+	},
+	{
+		"id": "certain",
+		"word": "確実な、確信して、一定の、ある(一つの)",
+		"era": "Latin cernere",
+		"etymology": {
+			"components": [
+				"cernere (to decide / sift / see)"
+			],
+			"original_statement": "From Old French certain, from Vulgar Latin certanus, from Latin certas, originally 'determined / resolved / fixed / settled', from certus, past participle of cernere 'to sift / separate / decide'."
+		},
+		"concept": "The decided thing (ふるい分けられ、決定されたこと。カオスという名の『疑惑』を一撃の理知のメスで切り裂き、唯一残った『不滅のロゴス（真理）』という名の、揺るぎなき標高)",
+		"thinking": "「（この呪われた不確かさ（カオス）の中にあって）、自らの理知（インスペクション）という名の網（フィルター）を通過し、残った（Cert- / Cernere）」「唯一の真実（ファクト）」。それは単なる「間違いなし」という名のデータではない。あなたが宇宙の「孤独（アイソレーション）」を、主権という名の「冷たい、しかし温かなロゴス」で埋め尽くし、世界を「自分という名の磁場が支配する安心（ピース）」へと強制的に変容させ終えた、という存在の最も峻烈な「定数（ドット）」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "不変の座標を定める。",
+		"example": "To stand is to testify.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の重力。"
+			]
+		}
+	},
+	{
+		"id": "cern-voice",
+		"word": "Cern@Voice",
+		"meaning": "見抜く声、カオスの深淵を切り分ける理知の咆哮、決断の響き",
+		"era": "Latin cernere + vox",
+		"etymology": {
+			"components": [
+				"cern (to sift / separate / see)",
+				"voice (sound / soul)"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "The sifting sound (ふるい分けるための音。放たれた瞬間、周囲の『淀んだ空気（ノイズ）』を理知という名のメスで一気に切り裂き、聴く者の魂に『完璧な真理（ロゴス）』という名の不滅の座標を刻み込むデリバリー)",
+		"thinking": "「（世界のイリュージョンを完璧にインスペクト（視認）し）、（その核心にある不滅の一粒（ソース）を）ふるい分け、見抜いて（Cern-）」「射出される、一撃の声（Vox）」。ただの「解説（トーク）」ではない。その声が響いた瞬間、聴く者は、自分の内なる「迷い（ストップ）」が物理的に粉砕（デストラクト）され、強制的に「新しい標高（アヴァン）」という名の巨大な光の中へと引き摺り込まれ、自らの呼吸（ブレス）を、あなたの「不滅の旋律（トーン）」へと同調（マージ）させざるを得なくなるような、生の最も峻烈な「開眼」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "不変の座標を定める。",
+		"example": "To stand is to testify.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の重力。"
+			]
+		}
+	},
+	{
+		"id": "cre-life",
+		"word": "Cre@Life",
+		"meaning": "ふるい分けゆく生、一瞬一瞬を自己決断と真理探究の遷移として生きる一生",
+		"era": "Latin cernere + Germanic life",
+		"etymology": {
+			"components": [
+				"cre (to sift / separate / decide / see)",
+				"life"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "The life of sifting (ふるい分ける一生。傍観者であることを卒業し、自らが『宇宙の網（フィルター）』となって、カオスという名の海を自分という唯一無二の『知性（センス）』で愛撫し続け、不滅の物語（スクリプト）を描き続ける不屈の遷移)",
+		"thinking": "「（明日という名の絶望（ブラックアウト）を愛撫するのをやめ、宇宙の深淵（ソース）から飛来する理知（ロゴス）だけを）」「（自らの理知を一振りのメスに変えて、すべてを）ふるい分け、見抜き（Cern- / Cre-）」「生き抜く（Life）」。あなたは自分の「呼吸（ブレス）」を、ただ無為に「消費（エキスペンド）」しているのではない。あなたが今日、どの「欺瞞（ノイズ）」を砕いて「新しい真理という名の座標（ドット）」を救い出し、どの「孤独（アイソレーション）」を自らの主権（ステータス）を屹立させるための「燃料（インパルス）」へと変貌（コンバート）させたか。そのすべての「研磨（インスペクション）」の軌跡が、宇宙という名の不変のアーカイブの上に、あなたの「存在という名の不滅のロゴス」として、物理的な質量を持って刻まれ続けているのだ。ふるい分けゆく生。それは、あなたが「宇宙の主権者（クリエイター）」として、この荒野を「美しき自由（ピース）」へと変容させ通した際の、魂の最高度の「抱擁」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "不変の座標を定める。",
+		"example": "To stand is to testify.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の重力。"
+			]
+		}
 	}
 ];
