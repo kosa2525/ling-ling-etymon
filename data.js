@@ -171163,7 +171163,7 @@ const WORDS = [
 	},
 	{
 		"id": "incur",
-		"word": "(負債・危険などを)招く、負う",
+		"word": "Incur",
 		"meaning": "招く",
 		"era": "Latin in + currere",
 		"etymology": {
@@ -172117,7 +172117,7 @@ const WORDS = [
 	},
 	{
 		"id": "second",
-		"word": "2番目の、秒",
+		"word": "Second",
 		"meaning": "2番目の",
 		"era": "Latin sequi",
 		"etymology": {
