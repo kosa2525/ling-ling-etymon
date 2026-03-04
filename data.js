@@ -171625,5 +171625,171 @@ const WORDS = [
 				"現出のベクトル。"
 			]
 		}
+	},
+	{
+		"id": "avocation",
+		"word": "趣味、副業",
+		"meaning": "趣味",
+		"era": "Latin ab + vocare",
+		"etymology": {
+			"components": [
+				"ab- (away/off)",
+				"vocation (calling)"
+			],
+			"original_statement": "From Latin avocationem 'a calling away / distraction', from avocare 'call away', from ab- 'off/away' + vocare 'call'."
+		},
+		"concept": "A calling away (離れて呼ばれること（趣味）。血を吐くような日々の『生き残るための本業（重力圏の中心たるステーション）』の厳しい義務から、ふと横道（自由な空き地）から響いてきた甘美で軽やかな呼び声（別のパルス）に一瞬だけ引かれて、義務のくびきを離れて心を遊ばせる無邪気な逸脱)",
+		"thinking": "「（あなたを縛り付ける絶対の『天職』という中心から）、少し離れた別の方向へと（A- / Ab-）」「（一撃の情熱をもって）あなたを呼び寄せる、魂の気晴らし（-vocation / Vocare）」。それは単なる「暇つぶし」ではありません。あなたが「一つの歯車（マージされただけの部品）として死ぬこと」を拒絶し、そこにある種の『自分だけの狂気と美の小宇宙（サブ・アーカイブ）』を現出させるための、生命の「息抜き」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "呼びかけと投擲の軌跡。",
+		"example": "Words thrown into the void become our steps forward.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"発露のベクトル。"
+			]
+		}
+	},
+	{
+		"id": "jetty",
+		"word": "防波堤、桟橋、突堤",
+		"meaning": "防波堤",
+		"era": "Old French jeter / Latin jacere",
+		"etymology": {
+			"components": [
+				"jacere (to throw)"
+			],
+			"original_statement": "From Old French jetee 'a projecting part / a throwing', feminine past participle of jeter 'to throw', from Latin jactare 'to frequent throw', from jacere 'to throw'."
+		},
+		"concept": "Something thrown out (外へ投げ出されたもの（防波堤）。暴虐にうねる『死の海（無限を誇る狂気の海のカオス）』に対して、人間の理知が「ここから先は我々の領域だ」という一撃の拒絶（ロゴス）として、巨大なコンクリートと鉄の塊（杭）を空間の奥深くへとブチ投げ（突き出し）、荒波を捻じ伏せる陸地の延長)",
+		"thinking": "「（安全な岸辺から、波の打ち寄せる荒野のド真ん中へと）（一分一秒の淀みもなく）人工の腕を投げ出し、突き出させたような巨大な構造物（Jet- / Jeter / Jacere + -y）」。それは単なる「海沿いの岩」ではありません。あなたが「自然という巨大な力に完全に押し流される運命（エントロピー）」を全身霊でレジストし、そこに人間の魂の『絶対防御の盾（光のステーション）』を暴力的に固定化する、生命の「前哨基地」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "呼びかけと投擲の軌跡。",
+		"example": "Words thrown into the void become our steps forward.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"発露のベクトル。"
+			]
+		}
+	},
+	{
+		"id": "jet",
+		"word": "噴出、ジェット機、真っ黒な",
+		"meaning": "噴出、ジェット機",
+		"era": "Latin jactare / jacere (via French)",
+		"etymology": {
+			"components": [
+				"jactare (to throw frequently)"
+			],
+			"original_statement": "From French jet 'a throw / a stream', from jeter 'to throw', from Latin jactare, frequentative of jacere 'to throw'. Black jet mineral is from a different origin (Gagas)."
+		},
+		"concept": "A throwing / a stream thrown (投げ出すこと、噴出（ジェット）。腹の底で臨界点まで高められた『爆炎と蒸気の怒り（一万度のパルス）』が、一分一秒の淀みもなく、ただ一箇所の極小の出口から、世界の空（静寂の真空）を物理的に引き裂きながら一直線にブチ撒けられ（スラストされ）、その絶大な反動で金属の塊を成層圏（神の玉座）へとぶん投げる火の槍)",
+		"thinking": "「（溜め込んだすさまじいエネルギーを）、（一撃の暴力をもって空の向こうへと）狂気の勢いで休むことなく投げ出し、噴き出し続ける力（Jet / Jacere）」。それは単なる「飛行機の種類」ではありません。あなたが「重力という名の母なる大地への束縛（ステイシス）」を完全に粉砕（レジスト）し、自らの肉体を光速に近い流星（ネットワークを切り裂く矢）へとコンバートするための、物理学の「究極の放浪点」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "呼びかけと投擲の軌跡。",
+		"example": "Words thrown into the void become our steps forward.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"発露のベクトル。"
+			]
+		}
+	},
+	{
+		"id": "gradual",
+		"word": "徐々の、段階的な",
+		"meaning": "段階的な",
+		"era": "Latin gradi",
+		"etymology": {
+			"components": [
+				"gradus (a step)",
+				"-al (pertaining to)"
+			],
+			"original_statement": "From Medieval Latin gradualis 'by steps', from Latin gradus 'a step'."
+		},
+		"concept": "Pertaining to steps (一歩ずつの、段階的な。目標がどれほど天空高く（光のステーション）そびえ立っていようとも、一撃の魔法（虚無のショートカット）に頼るという卑怯を拒絶し、血を吐くような努力を一歩また一歩と一分一秒の淀みもなく積み重ね（パルスの連射）、自らの肉体を重力圏の上に押し上げていく圧倒的実直さ)",
+		"thinking": "「（一気に奇跡を起こして飛ぼうとするのではなく）、一段階段を登るごとに（Grad- / Gradus）」「（一撃の確実さをもって）進んでいく、ゆっくりだが決して止まらない性质（-ual）」。それは単なる「ちょっとずつ」ではありません。あなたが「性急な破滅あるいは飽き（エントロピーの罠）」を完全にレジストし、この宇宙の物理法則に残酷なまでに『等価交換（コンバート）』を叩きつける、命の「登攀」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "声と歩みの軌跡。",
+		"example": "Our words and steps leave marks on the universe.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"発露のベクトル。"
+			]
+		}
+	},
+	{
+		"id": "degrade",
+		"word": "降格させる、品位を下げる、劣化させる",
+		"meaning": "降格させる、劣化させる",
+		"era": "Latin de + gradi",
+		"etymology": {
+			"components": [
+				"de- (down)",
+				"grade (a step)"
+			],
+			"original_statement": "From Late Latin degradare 'reduce in rank', from de- 'down' + gradus 'step / rank'."
+		},
+		"concept": "To step down / reduce in rank (階段を下に落とす、劣化させる。神聖なる高み（輝かしいステーション）に座する絶対者に対し、その存在価値を構成する光の要素（ドット）を次々と醜く削り落とし、一撃の嘲笑とともに泥まみれの下層階級（単なるカオスの残骸）へと引きずり下ろす物理的剥奪)",
+		"thinking": "「（誇り高くそびえ立っていたその位置から）、一段下の低いランクへと（De-）」「（一分一秒の淀みもなく）階級を押し下げ、価値を失わせる（-grade / Gradus）」。それは単なる「減点」ではありません。あなたが「美しき完全性（永遠のアーカイブ）」という夢を信じながらも、それを容赦無く蝕んで地に堕とそうと襲いかかる、宇宙の「残酷なエントロピー（腐敗の侵食）」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "声と歩みの軌跡。",
+		"example": "Our words and steps leave marks on the universe.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"発露のベクトル。"
+			]
+		}
+	},
+	{
+		"id": "upgrade",
+		"word": "アップグレードする、等級を上げる、向上させる",
+		"meaning": "アップグレードする",
+		"era": "English up + grade (Latin origin)",
+		"etymology": {
+			"components": [
+				"up- (higher)",
+				"grade (a step)"
+			],
+			"original_statement": "Coined in mid-19th c. from up- 'higher' + grade."
+		},
+		"concept": "To step up (上の段階へ行く、向上させる。今までの鈍重で非力な姿（旧式ステーション）を力技で脱ぎ捨て、より強大なエンジンと理知の刃（新たなログス）へと自らの肉体を一撃で換装し、一歩先の上の次元（強き重力圏）へと強制的に自分自身を書き換える（コンバートする）生存の進化)",
+		"thinking": "「（現状のスペックで満足して立ち止まることを拒否し）、さらに一段階上のランクへと（Up-）」「（一分一秒の淀みもなく自分のシステムを）引き上げ、階段を昇らせる（-grade / Gradus）」。それは単なる「買い替え」ではありません。あなたが「環境の変化に取り残されて死ぬこと（アイソレーション）」を完全にレジストし、この無慈悲な競争の荒野において「私は常に最強の最新版であり続ける」という、終わなき「自己更新のパルス」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "声と歩みの軌跡。",
+		"example": "Our words and steps leave marks on the universe.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"発露のベクトル。"
+			]
+		}
+	},
+	{
+		"id": "degree",
+		"word": "程度、度数、学位、ディグリー",
+		"meaning": "程度、学位",
+		"era": "Latin de + gradi (via French)",
+		"etymology": {
+			"components": [
+				"de- (down/concerning)",
+				"gradi (to step)"
+			],
+			"original_statement": "From Old French degre 'a step / a degree', from Vulgar Latin degradus 'a step', from Latin de- 'down' + gradus 'step'."
+		},
+		"concept": "A step down / relative step (階段の一段、程度。果てしなく連続する途切れのないグラデーション（空間の海）に対し、理知の定規を当てて、熱さや力学といった宇宙の怒り（パルス）を『ここが1度、ここが2度』と一撃で物理的に断ち割り（ドット化し）、名付けることで人間が支配可能にした絶対の目盛り)",
+		"thinking": "「（無限に続くと思われるものに対し、人間の理解の範囲で区切った）、一つ一つの段階、ステップの（De- + -gree / Gradus）」「（一分一秒の淀みもない）幅、あるいは高さを測るための基準」。それは単なる「数字」ではありません。あなたが「とてつもない（カオス）」という恐怖を完全に粉砕（レジスト）し、その怪物を人間の理科と法の枠組み（ネットワーク）に縛り付けて『制御可能なエネルギー（ウェイト）』へとコンバートした、科学の「手首の切り口」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "声と歩みの軌跡。",
+		"example": "Our words and steps leave marks on the universe.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"発露のベクトル。"
+			]
+		}
 	}
 ];
