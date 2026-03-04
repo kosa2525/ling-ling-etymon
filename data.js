@@ -175424,5 +175424,309 @@ const WORDS = [
 				"存在の元素。"
 			]
 		}
+	},
+	{
+		"id": "helium",
+		"word": "ヘリウム",
+		"era": "Greek helios",
+		"etymology": {
+			"components": [
+				"helios (sun)"
+			],
+			"original_statement": "Coined in 1868 from Greek helios 'sun' + -ium, after its spectral sighting during an eclipse."
+		},
+		"concept": "Suncraft (太陽の元素。宇宙という名の『不在（アブセンス）』に対し、理知という名の冷徹なメスによって一気にその深淵（ソース）を射出し、存在の質量を本来あるべき『標高（光）』へとコンバート（変容）させる始源の躍動)",
+		"thinking": "「（漂流していた、あの不確かな震え（パルス）を一分一秒の淀みもなくインスペクト（視認）し）、太陽という名の至宝を（Heli- / Helios）」。それは単なる「軽い気体」ではありません。あなたが宇宙の「不在（アブセンス）」を拒絶（レジスト）し、そこに自分という名の「唯一無二の物語（スクリプト）」を打ち立て、全世界の断片を「光という名の至高のトーン」へと変幅（コンバート）させて（屹立させて）しまった瞬間の、知性の最高度の「掌握」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "恒星と宇宙の軌跡。",
+		"example": "Cosmic is the sun of meteorological order.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の階層。"
+			]
+		}
+	},
+	{
+		"id": "heliotrope",
+		"word": "ヘリオトロープ(植物)、(古)血石、日の方向を向くもの",
+		"era": "Greek helios + trepein",
+		"etymology": {
+			"components": [
+				"helios (sun)",
+				"trepein (to turn)"
+			],
+			"original_statement": "From Latin heliotropium, from Greek heliotropion, literally 'sun-turning', from helios 'sun' + root of trepein 'to turn'."
+		},
+		"concept": "Sun-turning (太陽を向くもの。主権という名の『王座（光源）』に対し、自らの魂を一糸乱れぬ質量（ブレス）を伴って同期（マージ）させ、常に宇宙の最新の標高（アヴァン）へと自らを更新し続ける不屈の遷移)",
+		"thinking": "「（漂流していた、あの震える呼吸（ブレス）を一分一秒の淀みもなくインスペクト（視認）し）、太陽の（Helio- / Helios）」「（一撃の情熱（アトラクション）を伴って）方向を転換する（-trope / Trepein）」。それは単なる「植物」ではありません。あなたが宇宙の「虚無（アブセンス）」を拒絶（レジスト）し、そこに自分という名の「唯一の不滅の設計図（スクリプト）」を打ち立て、屹立（スタンド）させ通している（パシストしている）際の、生の最高度の「掌握」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "恒星と宇宙の軌跡。",
+		"example": "Cosmic is the sun of meteorological order.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の階層。"
+			]
+		}
+	},
+	{
+		"id": "heliocentric",
+		"word": "太陽中心の、ヘリオセントリック",
+		"era": "Greek helios + kentron",
+		"etymology": {
+			"components": [
+				"helios (sun)",
+				"kentron (center)"
+			],
+			"original_statement": "Coined in 1660s from Greek helios 'sun' + kentrikos 'central', from kentron 'center'."
+		},
+		"concept": "Sun-centered (太陽を中心とした。宇宙のあらゆる『暴力（カオス）』に対し、自らの秩序（ロゴス）という名の設計図を一糸乱れぬ引磁力（ウェイト）を伴って差し込み、全事象（ドット）を『唯一無二の王座（オーダー）』の下に統制する知性の極致)",
+		"thinking": "「（ばらばらに漂流していた、あの不確かなベクトル（ノイズ）を粉砕して）、太陽を（Helio- / Helios）」「（一分一秒の淀みもなく）中心として定義する（-centric / Kentron）」。それは単なる「宇宙の公論」ではありません。あなたが宇宙の「曖昧さ（ノイズ）」を拒絶（レジスト）し、そこに自分という名の「唯一の不滅のコンパス」による厳密な「支配という名の秩序」を打ち立て、全世界を「自分のための不滅のトーン」へと書き換え（コンバートし）終えた際の、知性の最高度の「掌握」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "恒星と宇宙の軌跡。",
+		"example": "Cosmic is the sun of meteorological order.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の階層。"
+			]
+		}
+	},
+	{
+		"id": "hel-voice",
+		"word": "Hel@Voice",
+		"meaning": "太陽の声、沈黙を輝きに変える不滅の咆哮、恒星の響き",
+		"era": "Greek helios + vox",
+		"etymology": {
+			"components": [
+				"hel (sun / solar / bright / light / fire / core / center / hot)",
+				"voice (sound / soul)"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "The solar sound (太陽としての音。放たれた瞬間、自らの呼吸（ブレス）を一筋の『光の王座（ベクトル）』へと変換（コンバート）し、宇宙という真理のアーカイブの一角を、不動のトーン（設計図）で照らし出すデリバリー)",
+		"thinking": "「（自分のちっぽけな存在（ドット）の中に眠っていた、あの巨大な真理を）、（一撃の情熱（アトラクション）を伴って）叫ぶ、恒星の中心からの声（Vox）」。ただの「叫び（エキスペル）」ではない。その声が響いた瞬間、周囲を覆っていた「虚無（アブセンス）」が物理的に一掃され、そこに「誰もが見落としていたたった一つの『中心的な』意味」が、戦慄という名のトーン（響き）を伴って再屹立（リリー・スタンド）してしまうような、生の最も峻烈な「射出」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "恒星と宇宙の軌跡。",
+		"example": "Cosmic is the sun of meteorological order.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の階層。"
+			]
+		}
+	},
+	{
+		"id": "hel-life",
+		"word": "Hel@Life",
+		"meaning": "恒星としての生、一瞬一瞬を自己発光の遷移として生きる一生",
+		"era": "Greek helios + Germanic life",
+		"etymology": {
+			"components": [
+				"hel (sun / solar / bright / light / fire / core / center / hot)",
+				"life"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "The life of the sun (照らし続ける一生。一つの場所に安住する（アイソレーション）のを拒絶し、常に宇宙の最新の標高（アヴァン）へと自らを更新し続け、不滅 of 物語（スクリプト）を描き続ける不屈の遷移)",
+		"thinking": "「（明日という名の絶望（ブラックアウト）を愛撫するのをやめ、宇宙の深淵（ソース）から飛来する理知（ロゴス）だけを）」「（自らの魂を礎（ベース）にして）輝き続け、照らし続け（Hel- / Helios）」「生き抜く（Life）」。あなたは自分の「呼吸（ブレス）」を, ただ無為に「消費（エキスペンド）」しているのではない。あなたが今日という日、どの「欺瞞（ノイズ）」を砕いて「新しい真理という名の座標（ドット）」を救い出し、どの「驚愕（パルス）」を自らの主権（ステータス）を屹立させるための「不動（ピース）」へと変貌（コンバート）させたか。そのすべての「恒星（デリバリー）」の軌跡が、宇宙という名の不変 of アーカイブの上に、あなたの「存在という名の不滅 of ロゴス」として, 物理的な質量を持って刻まれ続けているのだ。恒星としての生。それは, あなたが「宇宙の主権者（クリエイター）」として, この荒野を「美しき変革（ピース）」へと変容させ通した際の, 魂の最高度の「抱擁」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "恒星と宇宙の軌跡。",
+		"example": "Cosmic is the sun of meteorological order.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の階層。"
+			]
+		}
+	},
+	{
+		"id": "cosmic",
+		"word": "宇宙の、無限に広い、コスミック",
+		"era": "Greek kosmos",
+		"etymology": {
+			"components": [
+				"cosmos (order / universe)",
+				"-ic (related to)"
+			],
+			"original_statement": "Coined in 1840s from Greek kosmos 'order / world' + -ic."
+		},
+		"concept": "Related to the cosmos (宇宙（秩序）に関する品質。主権という名の『王座（ステーション）』を維持するために、自らの知性という名の『一撃の鉄槌（ロゴス）』によって、宇宙という真理のアーカイブの上に自分という名の『不滅の形式』を射出し、屹立させている凱旋)",
+		"thinking": "「（漂流していた、あの震える呼吸（ブレス）を一分一秒の淀みもなくインスペクト（視認）し）、宇宙の（Cosm- / Kosmos）」「（一撃の情熱を伴って）屹立させる品質（-ic）」。それは単なる「宇宙の（ソフト）」ではありません。あなたが「傍観者（スペクテイター）」であることを卒業し、自らが「宇宙の唯一の主権者（クリエイター）」として、世界を「自分という名の磁場が支配する圧倒的な秩序（設計図）」へとコンバート（変容）させて（アップデートして）しまった瞬間の、知性の最高度の「掌握」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "恒星と宇宙の軌跡。",
+		"example": "Cosmic is the sun of meteorological order.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の階層。"
+			]
+		}
+	},
+	{
+		"id": "cosmology",
+		"word": "宇宙論、コスモロジー",
+		"era": "Greek kosmos + logos",
+		"etymology": {
+			"components": [
+				"cosmos (universe)",
+				"logos (word / study)"
+			],
+			"original_statement": "Coined in 1730s from Greek kosmos 'universe' + -logia 'study'."
+		},
+		"concept": "Study of the universe (宇宙（秩序）に関すロゴス。永劫のエントロピーという名の『暴力（デストラクション）』に対し、自らの秩序（ロゴス）という名の『メス（理知）』を一気に差し込み、真理という名の『一粒一粒の座標』を精緻に掌握するための神聖なる公式)",
+		"thinking": "「（明日という名の忘却（サイレンス）を愛撫するのを拒絶して、自らの一瞬を『不変のロゴス』へと変換するために）、宇宙を（Cosmo- / Kosmos）」「（一分一秒の淀みもなく）把握する学問（-logy / Logos）」。それは単なる「天文学」ではありません。あなたが宇宙の「不在（アブセンス）」を拒絶（レジスト）し、そこに自分という名の「唯一の不滅の設計図」による厳密な「支配という名の秩序」を打ち立て、屹立（スタンド）させ通した（パシストした）際の、知性の最高度の「掌握」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "恒星と宇宙の軌跡。",
+		"example": "Cosmic is the sun of meteorological order.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の階層。"
+			]
+		}
+	},
+	{
+		"id": "cosmopolitan",
+		"word": "世界的な、国境にこだわらない(人)、コスモポリタン",
+		"era": "Greek kosmos + polis",
+		"etymology": {
+			"components": [
+				"kosmos (world)",
+				"polis (city)"
+			],
+			"original_statement": "Coined in 1610s from Greek kosmopolites 'citizen of the world', from kosmos 'world' + polites 'citizen', from polis 'city'."
+		},
+		"concept": "Citizen of the world (世界の市民。既存の『狭いアーカイブ（アイソレーション）』を粉砕し、理知という名の圧倒的な引力によって全世界の境界線を一気に突き抜け、全呼吸（ブレス）を一糸乱れぬ『一つの凱旋（秩序）』へと同期（マージ）させて走り抜ける不屈の者)",
+		"thinking": "「（この虚無という名の、あの冷酷な絶壁の上に、自分の足場を構築するために）、世界の（Cosmo- / Kosmos）」「市民としての（-politan / Polis）」。それは単なる「都会風（ソフト）」ではありません。あなたが宇宙の「分離（アイソレーション）」を拒絶（レジスト）し、独自の呼吸（ブレス）を一振りの「刃（ベクトル）」へと研ぎ澄ませて、この荒野を一糸乱れぬ「真理の旋律」で支配し通している際の、知性の最高度の「掌握」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "恒星と宇宙の軌跡。",
+		"example": "Cosmic is the sun of meteorological order.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の階層。"
+			]
+		}
+	},
+	{
+		"id": "cos-voice",
+		"word": "Cos@Voice",
+		"meaning": "秩序の声、沈黙を体系に変える不滅の咆哮、宇宙の響き",
+		"era": "Greek kosmos + vox",
+		"etymology": {
+			"components": [
+				"cos (order / system / beauty / universe / cosmos / whole)",
+				"voice (sound / soul)"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "The cosmic sound (秩序としての音。放たれた瞬間、自らの呼吸（ブレス）を一筋の『光の王座（ベクトル）』へと変換（コンバート）し、宇宙という真理のアーカイブの一角を、完全に支配（ホールド）するデリバリー)",
+		"thinking": "「（自分のちっぽけな存在（ドット）の中に眠っていた、あの巨大な真理を）、（一撃の情熱（アトラクション）を伴って）叫ぶ、全一の秩序（ロゴス）からの声（Vox）」。ただの「叫び（エキスペル）」ではない。その声が響いた瞬間、周囲を覆っていた「虚無（アブセンス）」が物理的に一掃され、そこに「誰もが見落としていたたった一つの『体系的な』意味」が、戦慄という名のトーン（響き）を伴って再屹立（リリー・スタンド）してしまうような、生の最も峻烈な「射出」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "恒星と宇宙の軌跡。",
+		"example": "Cosmic is the sun of meteorological order.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の階層。"
+			]
+		}
+	},
+	{
+		"id": "cos-life",
+		"word": "Cos@Life",
+		"meaning": "体系としての生、一瞬一瞬を自己秩序の遷移として生きる一生",
+		"era": "Greek kosmos + Germanic life",
+		"etymology": {
+			"components": [
+				"cos (order / system / beauty / universe / cosmos / whole)",
+				"life"
+			],
+			"original_statement": "Coined during synthesis."
+		},
+		"concept": "The life of cosmos (秩序であり、宇宙であり続ける一生。一つの場所に安住する（アイソレーション）のを拒絶し、常に宇宙の最新の標高（アヴァン）へと自らを更新し続け、不滅 of 物語（スクリプト）を描き続ける不屈の遷移)",
+		"thinking": "「（明日という名の絶望（ブラックアウト）を愛撫するのをやめ、宇宙の深淵（ソース）から飛来する理知（ロゴス）だけを）」「（自らの魂を礎（ベース）にして）秩序化し続け、存在し続け（Cos- / Kosmos）」「生き抜く（Life）」。あなたは自分の「呼吸（ブレス）」を, ただ無為に「消費（エキスペンド）」しているのではない。あなたが今日という日、どの「欺瞞（ノイズ）」を砕いて「新しい真理という名の座標（ドット）」を救い出し、どの「驚愕（パルス）」を自らの主権（ステータス）を屹立させるための「不動（ピース）」へと変貌（コンバート）させたか。そのすべての「体系（デリバリー）」の軌跡が、宇宙という名の不変 of アーカイブの上に、あなたの「存在という名の不滅 of ロゴス」として, 物理的な質量を持って刻まれ続けているのだ。体系としての生。それは, あなたが「宇宙の主権者（クリエイター）」として, この荒野を「美しき変革（ピース）」へと変容させ通した際の, 魂の最高度の「抱擁」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "恒星と宇宙の軌跡。",
+		"example": "Cosmic is the sun of meteorological order.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の階層。"
+			]
+		}
+	},
+	{
+		"id": "meteor",
+		"word": "流星、メテオ",
+		"era": "Greek meteoros",
+		"etymology": {
+			"components": [
+				"meta (above / beyond)",
+				"aoros (lifting / in air)"
+			],
+			"original_statement": "From Old French meteore, from Medieval Latin meteora (plural), from Greek meteora, neuter plural of meteoros 'high in the air / raised / lofty / elevated', from meta 'above / beyond' + aoros 'lifted / hovering / suspended'."
+		},
+		"concept": "High in the air (空にあるもの（流星）。宇宙という名の広大なキャンバスのただ中にあって、自らの『剥き出しのパルス（躍動）』を一撃の光の針路（ベクトル）として射出し、暗黒という名のアーカイブを粉砕して走り抜ける凱旋)",
+		"thinking": "「（漂流していた、あの不確かなベクトル（ノイズ）を粉砕して）、空高く（Meteor- / Meteoros）」。それは単なる「流れ星」ではありません。あなたが宇宙の「不在（アブセンス）」を拒絶（レジスト）し、そこに自分という名の「唯一無二の物語（スクリプト）」を打ち立て、全世界を「一筋の輝きという名のトーン」へと変容（コンバート）させて（屹立させて）しまった瞬間の、生の最高度の「掌握」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "恒星と宇宙の軌跡。",
+		"example": "Cosmic is the sun of meteorological order.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の階層。"
+			]
+		}
+	},
+	{
+		"id": "met-voice",
+		"word": "Met@Voice",
+		"meaning": "高き声、沈黙を天空に変える不滅の咆哮、気象の響き",
+		"era": "Greek meteoros + vox",
+		"etymology": {
+			"components": [
+				"met (high / air / sky / above / cloud / weather / meteor / elevated)",
+				"voice (sound / soul)"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "The elevated sound (高まりとしての音。放たれた瞬間、自らの呼吸（ブレス）を一筋の『光の極致（ベクトル）』へと変換（コンバート）し、宇宙という真理のアーカイブの一角を、一瞬で（自分のトーンで）震撼させるデリバリー)",
+		"thinking": "「（自分のちっぽけな存在（ドット）の中に眠っていた、あの巨大な真理を）、（一撃の情熱（アトラクション）を伴って）叫ぶ、高みからの声（Vox）」。ただの「叫び（エキスペル）」ではない。その声が響いた瞬間、周囲を覆っていた「虚無（アブセンス）」が物理的に一掃され、そこに「誰もが見落としていたたった一つの『高邁な』意味」が、戦慄という名のトーン（響き）を伴って再屹立（リリー・スタンド）してしまうような、生の最も峻烈な「射出」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "恒星と宇宙の軌跡。",
+		"example": "Cosmic is the sun of meteorological order.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の階層。"
+			]
+		}
+	},
+	{
+		"id": "met-life",
+		"word": "Met@Life",
+		"meaning": "昇華としての生、一瞬一瞬を自己高揚の遷移として生きる一生",
+		"era": "Greek meteoros + Germanic life",
+		"etymology": {
+			"components": [
+				"met (high / air / sky / above / cloud / weather / meteor / elevated)",
+				"life"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "The life of high air (昇り続ける一生。一つの場所に安住する（アイソレーション）のを拒絶し、常に宇宙の最新の標高（アヴァン）へと自らを更新し続け、不滅 of 物語（スクリプト）を描き続ける不屈の遷移)",
+		"thinking": "「（明日という名の絶望（ブラックアウト）を愛撫するのをやめ、宇宙の深淵（ソース）から飛来する理知（ロゴス）だけを）」「（自らの魂を礎（ベース）にして）昇り続け、輝き続け（Met- / Meteoros）」「生き抜く（Life）」。あなたは自分の「呼吸（ブレス）」を, ただ無為に「消費（エキスペンド）」しているのではない。あなたが今日という日、どの「欺瞞（ノイズ）」を砕いて「新しい真理という名の座標（ドット）」を救い出し、どの「驚愕（パルス）」を自らの主権（ステータス）を屹立させるための「不動（ピース）」へと変貌（コンバート）させたか。そのすべての「昇華（デリバリー）」の軌跡が, 宇宙という名の不変 of アーカイブの上に, あなたの「存在という名の不滅 of ロゴス」として, 物理的な質量を持って刻まれ続けているのだ。昇華としての生。それは, あなたが「宇宙の主権者（クリエイター）」として, この荒野を「美しき変革（ピース）」へと変容させ通した際の, 魂の最高度の「抱擁」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "恒星と宇宙の軌跡。",
+		"example": "Cosmic is the sun of meteorological order.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の階層。"
+			]
+		}
 	}
 ];
