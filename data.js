@@ -155382,5 +155382,922 @@ const WORDS = [
 				"未知の語源、既知の感動。"
 			]
 		}
+	},
+	{
+		"id": "ambassador",
+		"word": "Ambassador",
+		"meaning": "大使、特使、使節",
+		"era": "Latin ambactus",
+		"etymology": {
+			"components": [
+				"ambi- (around)",
+				"agere (to drive / lead)"
+			],
+			"original_statement": "From Latin ambactus 'servant / vassal', from Celtic *amb-ag-to 'one who moves about', from ambi- 'around' + agere 'to drive / lead'."
+		},
+		"concept": "One who moves about (駆け巡る者、境界を越える奉仕者)",
+		"thinking": "「周囲を（Ambi）」「駆け巡る（Agere）」者。かつて王の意図を伝え、情報を持ち帰るために国境を越え続けた、最も機動力のある奉仕者。それは単なる役職ではなく、一国の「声」となり「顔」となって、他者という未知の世界へと果敢に飛び込む勇気の象徴です。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "vassal",
+		"word": "Vassal",
+		"meaning": "家臣、家来、臣下、属国",
+		"era": "Celtic *uasso-",
+		"etymology": {
+			"components": [
+				"uasso (young man / servant)"
+			],
+			"original_statement": "From Old French vassal 'subordinate / servant', from Medieval Latin vassallus, from Celtic *uasso- 'young man / servant'."
+		},
+		"concept": "The young man (若き従者。誓いによる献身の絆)",
+		"thinking": "「若き者（Uasso）」。未熟ゆえに保護を求め、その代償として誠実な奉仕を誓った人々。上下関係は単なる「支配」ではなく、生命という重みを託し、守り抜くという、かつての騎士道精神に基づいた重層的で双方向な「約束」の形でした。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "governor",
+		"word": "Governor",
+		"meaning": "知事、統治者、ガバナー、調速機",
+		"era": "Ancient Greek kubernan",
+		"etymology": {
+			"components": [
+				"kubernan (to steer / pilot)"
+			],
+			"original_statement": "From Old French governeur, from Latin gubernator, from Greek kubernan 'to steer / pilot a ship / direct'."
+		},
+		"concept": "The pilot (舵を取る者、時代の荒波を渡る指針)",
+		"thinking": "「舵を取る（Kubernan）」。嵐の中でも船（組織）を沈ませず、目的地へと導こうとする強い意志。ガバナーとは、力で押さえつける者ではなく、均衡を保ち、全体の「速度」と「方向」を調整して、調和を守り抜くという、高度なバランス感覚の持ち主の名です。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "servant",
+		"word": "Servant",
+		"meaning": "使用人、奉仕者、公務員",
+		"era": "Latin servire",
+		"etymology": {
+			"components": [
+				"servus (slave / servant)"
+			],
+			"original_statement": "From Old French servant, present participle of servir 'to serve', from Latin servire 'be a slave / be of use / serve'."
+		},
+		"concept": "One who is of use (役に立つ者、献身という名の静かなる力)",
+		"thinking": "「仕える（Servire）」。名誉を求めるのではなく、誰かの必要を満たし、その存在を支えることに、自らの生命力を注ぎ込むこと。真の奉仕とは、他者の幸福を自らの喜びとすることで、自己という境界線を溶かし、大きな愛へと繋がる最も謙虚な道なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "attendant",
+		"word": "Attendant",
+		"meaning": "付添人、案内係、従事者",
+		"era": "Latin attendere",
+		"etymology": {
+			"components": [
+				"ad- (to)",
+				"tendere (to stretch)"
+			],
+			"original_statement": "From Old French atendant, from atendre 'to wait for / expect / pay attention to', from Latin attendere 'give heed to', from ad- 'to' + tendere 'to stretch'."
+		},
+		"concept": "Stretching toward (意識を向けること。予感に満ちた付き添い)",
+		"thinking": "「向こう側へ（Ad-）」「意識を伸ばす（Tendere）」。相手が何を必要としているか、次の一歩で何が起きるか。その気配を敏感に察知し、先回りして寄り添うこと。付き添いとは、自分という中心を捨て、他者のリズムという一点へ、自らの魂を「引き延ばす」高貴な忍耐です。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "assistant",
+		"word": "Assistant",
+		"meaning": "助手、アシスタント、補助者",
+		"era": "Latin assistere",
+		"etymology": {
+			"components": [
+				"ad- (at / near)",
+				"sistere (to stand / take a position)"
+			],
+			"original_statement": "From Old French assistant, from assister 'stand by', from Latin assistere 'stand by / aid', from ad- 'at' + sistere 'to stand'."
+		},
+		"concept": "Standing by (側に立つ者、不在の存在感を支える盾)",
+		"thinking": "「そばに（Ad-）」「立つ（Sistere）」。主役の影に隠れ、しかし決してたたらを踏ませない。必要な時にだけ手が伸び、不要な時は静かに姿を隠す。アシスタントとは、自分が「無」になることで、他者の「有（成功）」を最大限に引き出す、透明で堅固な盾となることです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "minister",
+		"word": "Minister",
+		"meaning": "大臣、牧師、仕える者",
+		"era": "Latin minor",
+		"etymology": {
+			"components": [
+				"minor (less / smaller)"
+			],
+			"original_statement": "From Old French ministre, from Latin minister 'servant / priest's assistant', from minor 'less / smaller'."
+		},
+		"concept": "The lesser one (より小さき者、低きに降りての奉仕)",
+		"thinking": "「より小さい（Minor）」。上に立つ「マグニステル（大きい者）」に対し、自らを「より小さき者（ミニステル）」と定義して、全体に仕えること。大臣も牧師も、本来は頂点に君臨する者ではなく、最も低い場所に降りて、人々の重荷を背負い、その足を洗う奉仕者の称号でした。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "steward",
+		"word": "Steward",
+		"meaning": "世話役、幹事、(飛行機などの)乗務員、執事",
+		"era": "Old English stig + weard",
+		"etymology": {
+			"components": [
+				"stig (house / hall)",
+				"weard (guard / keeper)"
+			],
+			"original_statement": "From Old English stiward, from stig 'house / hall' + weard 'guard / keeper'."
+		},
+		"concept": "Hall-keeper (広間の守り手、託された場所の巡回者)",
+		"thinking": "「広間（Stig）」の「守り手（Weard）」。その場所の所有者ではない。しかし、他者から託された貴重な資産や空間を、その美しさを損なわぬよう、細心の注意と責任をもって管理すること。スチュワードとは、自分を通るものが豊かであるように見守る、誠実な「管律者」の名です。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "clerk",
+		"word": "Clerk",
+		"meaning": "事務員、店員、(かつては)聖職者",
+		"era": "Ancient Greek kleros",
+		"etymology": {
+			"components": [
+				"kleros (allotment / lot)"
+			],
+			"original_statement": "From Old French clerc, from Latin clericus, from Greek klerikos, from kleros 'a lot / allotment'."
+		},
+		"concept": "Of the chosen lot (選ばれし分与、知の継承者)",
+		"thinking": "「くじ・分与（Kleros）」。かつて世俗の財産を捨て、文字という「神の遺産」を分与された聖職者。事務仕事の本質は、単なる計算ではなく、バラバラな記録を整理し、未来へ繋ぐ「知の連鎖」を孤独に守り抜く聖域のような義務でした。読み書きができる、ということがかつては神聖な義務だったのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "vicar",
+		"word": "Vicar",
+		"meaning": "教区牧師、代理者、代行者",
+		"era": "Latin vicis",
+		"etymology": {
+			"components": [
+				"vicis (change / turn / stead)"
+			],
+			"original_statement": "From Latin vicarius 'a substitute / deputy', from vicis 'change / stead / room'."
+		},
+		"concept": "Substitute (代理者、不在の誰かの代わりに立つ重圧)",
+		"thinking": "「交代、場所（Vicis）」。自分がそこにいるのは、自分自身のためではなく、真の主人や価値観の「代理」としてそこに立っていること。その謙虚な自覚は、逆説的に、自分という個人の好き嫌いを超えた、大いなる意志を代弁するための驚異的な強さと誠実さを授けます。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "deputy",
+		"word": "Deputy",
+		"meaning": "代理人、副官、代議員",
+		"era": "Latin deputare",
+		"etymology": {
+			"components": [
+				"de- (away)",
+				"putare (to think / prune / count)"
+			],
+			"original_statement": "From French député, from Late Latin deputatus 'assigned', from Latin deputare 'to prune / cut off / consider', from de- 'away' + putare 'to think'."
+		},
+		"concept": "Pruned away (切り出された存在、託された使命の権限)",
+		"thinking": "「切り分ける（Putare）」。本体から特定の権限を切り出し、別の個体へと託すこと。代理（デピュティ）とは、本体が不在であっても、その「意思」が途切れることなく機能するように切り分けられた、もう一人の自分、つまり、信頼によって分身した「使命の欠片」そのものです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "delegate",
+		"word": "Delegate",
+		"meaning": "代表者、委任する、派遣する",
+		"era": "Latin de- + legare",
+		"etymology": {
+			"components": [
+				"de- (away)",
+				"legare (to send with a commission)"
+			],
+			"original_statement": "From Latin delegatus, from delegare 'send away with a commission / entrust', from de- 'from' + legare 'to send / dispatch'."
+		},
+		"concept": "Sent away with trust (信頼と共に送り出されること、使命の飛脚)",
+		"thinking": "「遠くへ（De-）」「送り出す（Legare）」。単なる伝言係ではなく、送り手の「権威」そのものを背負い、未知の場所で決断を下す重責。デリゲートとは、自分の欲望を横に置き、託された大きな「公共の意志」を遠き地へと運ぶための、言葉の飛脚を指しています。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "legion",
+		"word": "Legion",
+		"meaning": "軍団、レギオン、多数、多勢",
+		"era": "Latin legere",
+		"etymology": {
+			"components": [
+				"legere (to gather / choose)"
+			],
+			"original_statement": "From Latin legio 'a body of soldiers / levy', from legere 'to choose / levy / gather'."
+		},
+		"concept": "The chosen gathering (選ばれし集い、圧倒的な質を持つ多数)",
+		"thinking": "「選び集める（Legere）」。ただの群衆（クラウド）ではない。ある厳格な基準によって選抜され、一つの目的のもとに統率された「結晶化した力」の塊。 legion とは、個人の弱さが、全体という名の巨大な秩序へと「選び取られる」ことで得られる、神聖で恐るべき圧倒的高密度を指します。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "colonel",
+		"word": "Colonel",
+		"meaning": "大佐",
+		"era": "Latin columna",
+		"etymology": {
+			"components": [
+				"columna (column / pillar)"
+			],
+			"original_statement": "From Italian colonnello 'commander of a column', from colonna 'column'."
+		},
+		"concept": "Commander of the pillar (円柱の指揮官、軍勢を支える大黒柱)",
+		"thinking": "「円柱（Columna）」。軍隊を縦の列（コラム）として一つの強固な「柱」へと鍛え上げ、そこから全体を指揮すること。コロンネル（大佐）とは、単なる階級ではなく、混乱する戦場において、部下たちが拠り所とすべき、揺るぎなき「心の支柱」となれる者の名です。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "marshal",
+		"word": "Marshal",
+		"meaning": "元帥、整列させる、集める",
+		"era": "Old High German marah + scalc",
+		"etymology": {
+			"components": [
+				"marah (horse)",
+				"scalc (servant)"
+			],
+			"original_statement": "From Old French mareschal 'stable officer / farrier', from Frankish *marhskalk 'horse-servant', from marah 'horse' + scalc 'servant'."
+		},
+		"concept": "Horse-servant (馬の従者。機動力とともに上昇した権威)",
+		"thinking": "「馬（Marah）」の「従者（Scalc）」。もとは王の馬小屋を管理する低位の職でしたが、馬という機動力が国家の命運を分ける時代、その管理者はいつしか全軍を統率する「元帥」へと登り詰めました。始まりを忘れず、現場という「土」と「獣」に寄り添い続けた者だけが、最高の栄誉を掴むのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "capital",
+		"word": "Capital",
+		"meaning": "資本、首都、大文字、極めて重大な、死に値する",
+		"era": "Latin caput",
+		"etymology": {
+			"components": [
+				"caput (head)"
+			],
+			"original_statement": "From Latin capitalis 'of the head / chief / first', from caput (gen. capitis) 'head'."
+		},
+		"concept": "Of the head (頭としての、生命と価値の中心地)",
+		"thinking": "「頭（Caput）」。全ての指示が発せられ、生命の維持に不可欠な中心。資本（キャピタル）とは、単なる「お金の量」ではなく、その経済活動を動かす「頭脳」であり、新しい価値を生み出すための「源泉」そのものを指しています。死刑（Capital Punishment）も、その中心（首）を断つという意味。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "chapter",
+		"word": "Chapter",
+		"meaning": "章、区切り、(歴史の)重要な一節、聖職者会議",
+		"era": "Latin capitulum",
+		"etymology": {
+			"components": [
+				"caput (head)"
+			],
+			"original_statement": "From Old French chapitre, from Latin capitulum 'a small head / division', diminutive of caput 'head'."
+		},
+		"concept": "Small head (小さな頭。区切られた智慧の頂点)",
+		"thinking": "「小さな頭（Capitulum）」。膨大な物語を、理解可能なサイズに「区切られた断片」。一章一章を読み進めることは、一つの「頭（思考）」を完結させ、次の次元へと登っていくステップです。あなたの人生という本もまた、今日という名の新しい「小さな頭」を書き続けている過程なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "precipice",
+		"word": "Precipice",
+		"meaning": "絶壁、崖っぷち、危機一髪",
+		"era": "Latin praeceps",
+		"etymology": {
+			"components": [
+				"prae- (before)",
+				"caput (head)"
+			],
+			"original_statement": "From Latin praecipitium 'a steep place', from praeceps 'headlong / steep', from prae- 'before' + caput 'head'."
+		},
+		"concept": "Headfirst (頭から突き出すこと、前傾した生命の限界点)",
+		"thinking": "「頭（Caput）」が「前（Prae）」に行き過ぎること。バランスを失い、前方へと転落しそうになるその「瀬戸際」。崖っぷちとは、恐怖の場所であると同時に、自分がどれほど前傾姿勢で、どれほど真剣に世界へと突き進んできたかを、最も鮮烈に教えてくれる覚醒の場所でもあります。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "captain",
+		"word": "Captain",
+		"meaning": "船長、機長、キャプテン、隊長",
+		"era": "Latin caput",
+		"etymology": {
+			"components": [
+				"caput (head)"
+			],
+			"original_statement": "From Old French capitain, from Late Latin capitaneus 'chief / prominent', from caput 'head'."
+		},
+		"concept": "The head (頭である者。全体の意思と責任を担う一点)",
+		"thinking": "「頭（Caput）」。船やチーム全体の「脳」となって判断を下し、全員の生命と未来に責任を持つ者。キャプテンとは、最も重い王冠を被りながら、誰よりも早く目覚め、誰よりも遅く眠り、そして、沈みゆく船から最後に立ち去る、孤独な意志の勇躍そのものの名です。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "chef",
+		"word": "Chef",
+		"meaning": "料理長、シェフ",
+		"era": "French chef",
+		"etymology": {
+			"components": [
+				"caput (head)"
+			],
+			"original_statement": "From French chef 'head / chief / leader', from Latin caput 'head'."
+		},
+		"concept": "The head (頭としての料理長、味の宮殿の統率者)",
+		"thinking": "「頭（Caput）」。単に「作る人」ではなく、厨房という戦場において、数多の食材と火、そして人々の連携を、一皿の「美」へと結晶化させる指揮官。シェフとは、自らの哲学（舌）を信じ、それを完璧に再現するために細部を律し続ける、最もストイックな「思想家」の一側面でもあります。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "chief",
+		"word": "Chief",
+		"meaning": "首長、最高位の、主要な",
+		"era": "French chef",
+		"etymology": {
+			"components": [
+				"caput (head)"
+			],
+			"original_statement": "From Old French chef 'leader / ruler / head', from Latin caput 'head'."
+		},
+		"concept": "The head (頭。最も重要な、あるいは支配的な中心)",
+		"thinking": "「頭（Caput）」。あらゆる組織や概念において、その本質を決定づける最上位のピース。チーフ（首長）は、命令する者である以上に、全体を「代表」して他者という異物と向き合い、自らの身体（組織）を守り抜くという、生命的なプロテクターとしての役割を持っています。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "mischief",
+		"word": "Mischief",
+		"meaning": "いたずら、害、不運、災難",
+		"era": "Old French mes- + chef",
+		"etymology": {
+			"components": [
+				"mes- (badly / ill)",
+				"chef (head / result)"
+			],
+			"original_statement": "From Old French meschief 'misfortune / harm / trouble / bad result', from mes- 'badly' + chef 'head / end / result'."
+		},
+		"concept": "Bad head (悪い結果、期待外れの幕切れ)",
+		"thinking": "「頭（結果＝Chef）」が「悪い（Mes-）」。計画が予期せぬ方向へねじ曲がり、滑稽な、あるいは迷惑な「結末」を迎えること。いたずらとは、世界の厳格な秩序に対して、ほんの少しの「悪い頭（逆転の発想）」を差し込むことで、均衡を崩そうとする、生命の未熟で奔放な反逆なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "biceps",
+		"word": "Biceps",
+		"meaning": "上腕二頭筋、力こぶ、筋力",
+		"era": "Latin bi- + caput",
+		"etymology": {
+			"components": [
+				"bi- (two)",
+				"caput (head)"
+			],
+			"original_statement": "From Latin biceps 'two-headed', from bi- 'two' + caput 'head'."
+		},
+		"concept": "Two heads (二つの頭、筋肉の分岐する頂点)",
+		"thinking": "「頭（Caput）」が「二つ（Bi-）」。筋肉の起始部が二つに分かれ、それぞれが骨にしっかりと噛み付いている様子。それは、一つの目的（力を出すこと）のために、二つの「根（頭）」を張り、力を集約させるという、身体の執拗なまでの機能的な美しさを物語っています。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "cape",
+		"word": "Cape",
+		"meaning": "岬、ケープ(衣服)",
+		"era": "Latin caput",
+		"etymology": {
+			"components": [
+				"caput (head)"
+			],
+			"original_statement": "From French cap, from Latin caput 'head / peak'."
+		},
+		"concept": "The head projection (突き出した頭、大地と海の接点)",
+		"thinking": "「頭、または峰（Caput）」。大海原に向かって、勇気を持ってグイと突き出された大地の先端。そこは常に強い風に晒され、波の咆哮を正面から受け止める場所。岬とは、不動の大地が、流動する世界と「対話（衝突）」するための、最も誇り高い「顔」そのものなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "carat",
+		"word": "Carat",
+		"meaning": "カラット(宝石の重量単位)",
+		"era": "Ancient Greek keration",
+		"etymology": {
+			"components": [
+				"keras (horn)"
+			],
+			"original_statement": "From French carat, from Arabic qirat, from Greek keration 'small horn / carob seed (used as a weight)'."
+		},
+		"concept": "Small horn (小さな角。不変の重みの最小単位)",
+		"thinking": "「小さな角（Keration）」。イナゴマメの種子が、どれもほぼ等しい重さ（0.2g）であったことから、宝石の価値を測る究極の基準となりました。カラットとは、自然界が偶然に用意した「不変性」に感謝し、それを人間の欲望を測るための「天秤」とした、謙虚で繊細な知恵の記憶です。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "cornet",
+		"word": "Cornet",
+		"meaning": "コルネット(金管楽器)、円錐、円錐形の包み",
+		"era": "Latin cornu",
+		"etymology": {
+			"components": [
+				"cornu (horn)"
+			],
+			"original_statement": "From Old French cornet 'little horn', diminutive of corn 'horn', from Latin cornu 'horn'."
+		},
+		"concept": "Little horn (小さな角。高らかに響く螺旋の叫び)",
+		"thinking": "「小さな角（Cornu）」。かつて動物の角を吹き鳴らした、あの原始的な「叫び」の記憶。その形を真鍮という金属で磨き上げ、繊細なピストンという知恵を加えることで、自然の咆哮を、甘美で高貴な「旋律」へと昇華させたもの。形は変わっても、そこには野生への憧憬が響いています。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "unicorn",
+		"word": "Unicorn",
+		"meaning": "一角獣、ユニコーン",
+		"era": "Latin unus + cornu",
+		"etymology": {
+			"components": [
+				"unus (one)",
+				"cornu (horn)"
+			],
+			"original_statement": "From Latin unicornis, from unus 'one' + cornu 'horn'."
+		},
+		"concept": "One horn (一つの角、唯一無二の純粋な意志)",
+		"thinking": "「角（Cornu）」が「一つ（Unus）」。力（角）が両側に分かれず、一本の鋭い「真理」として額から真っ直ぐに突き出されている。それは、いかなる矛盾も許さない純粋さ、そして孤独。一角獣とは、自分自身を唯一の法と定め、穢れのない処女（真実）の膝の上でしか眠らない、高貴な魂の化身です。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "corner",
+		"word": "Corner",
+		"meaning": "隅、角、角地、追い詰める",
+		"era": "Latin cornu",
+		"etymology": {
+			"components": [
+				"cornu (horn / point)"
+			],
+			"original_statement": "From Old French corniere, from Latin cornu 'horn / point / corner'."
+		},
+		"concept": "The horn-point (角の先端、空間が折れ曲がる急所)",
+		"thinking": "「角（Cornu）」。空間という布地が、鋭く折れ曲がって一点に「突き出す」場所。隅っこは、自分が他者から背を向け、静かに思考するための「盾（角）」となり、同時に、誰かをそれ以上逃がさぬための「追い詰める牙（角）」にもなる。空間において最もドラマチックな「急所」の名です。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "cornucopia",
+		"word": "Cornucopia",
+		"meaning": "豊穣の角、豊富",
+		"era": "Latin cornu + copia",
+		"etymology": {
+			"components": [
+				"cornu (horn)",
+				"copia (abundance)"
+			],
+			"original_statement": "From Latin cornu copiae 'horn of plenty', from cornu 'horn' + copia 'plenty / abundance / power'."
+		},
+		"concept": "Horn of abundance (溢れ出す角、無尽蔵の生命の祝祭)",
+		"thinking": "「豊かさ（Copia）」が「角（Cornu）」から溢れ出す。ギリシャ神話のヤギの角。それは、折れてもなお豊饒の象徴となり、黄金の林檎や花々を無限に供給し続ける、奇跡の器。豊かさとは、奪い合うものではなく、内なる生命力が飽和し、自然と外へとこぼれ落ちてくる「祝福」の状態を指します。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "copy",
+		"word": "Copy",
+		"meaning": "コピー、写し、部数、模倣する",
+		"era": "Latin copia",
+		"etymology": {
+			"components": [
+				"copia (abundance / plenty)"
+			],
+			"original_statement": "From Latin copia 'plenty / abundance / power / opportunity'. Original sense in English was 'to give abundance', from the idea of providing multiple transcripts."
+		},
+		"concept": "From abundance (豊かさから生み出された数多、複製の力)",
+		"thinking": "「豊かさ（Copia）」。コピーすることの本来の意味は、唯一の真実を「薄める」ことではなく、一つの貴重な種を「数多（豊か）」に増やし、誰の手にも届くようにすること。知識や物語が、この世界で爆発的に「豊か」になっていくための、最も基本的で強力な「拡散」の身振りなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "count",
+		"word": "Count",
+		"meaning": "数える、重要である、(裁判などの)起訴状の一部、伯爵",
+		"era": "Latin computare",
+		"etymology": {
+			"components": [
+				"com- (with / together)",
+				"putare (to think / reckon)"
+			],
+			"original_statement": "From Latin computare 'to calculate / reckon / count', from com- 'together' + putare 'to think / reckon / prune'."
+		},
+		"concept": "Reckoning together (共に考え算えること、重要性を測る鎖)",
+		"thinking": "「共に（Com）」「考える（Putare）」。単なる数字の読み上げではなく、何が自分にとって価値があり、どれが優先されるべきかを、一つひとつ「剪定（Pruning）」しながら整理し、意味ある「総計」を導き出すこと。数えることは、混沌とした世界に、あなたの「価値基準」を刻む行為です。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "depute",
+		"word": "Depute",
+		"meaning": "委任する、代行させる",
+		"era": "Latin de- + putare",
+		"etymology": {
+			"components": [
+				"de- (away)",
+				"putare (to reckon / consider)"
+			],
+			"original_statement": "From Latin deputare 'to prune / cut off / select / assign', from de- 'away' + putare 'to think'."
+		},
+		"concept": "Thinking away / assigning (切り出して託すこと、権限の選別された分与)",
+		"thinking": "「切り離す（Putare）」こと。自分の持つ膨大な役割の中から、これという一部分を「選別」し、他者へと託す。それは信頼という名のナイフで、自分という存在を美しく「剪定（Pruning）」し、他者がそこで新しい葉を広げられるように、「空間（責任）」を譲る勇気ある身振りです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "dispute",
+		"word": "Dispute",
+		"meaning": "論争、紛争、異議を唱える",
+		"era": "Latin dis- + putare",
+		"etymology": {
+			"components": [
+				"dis- (apart / in different directions)",
+				"putare (to think / reckon)"
+			],
+			"original_statement": "From Latin disputare 'to weigh / examine / discuss / argue', from dis- 'apart' + putare 'to think / count / settle / prune'."
+		},
+		"concept": "Thinking apart (バラバラに考えること、思考の衝突と検証)",
+		"thinking": "思考を「バラバラ（Dis-）」にする。一つの事象に対して、異なる方向からの「計算」をぶつけ合い、どれが真実として生き残るべきかを、激しく「剪定（Putare）」し合うこと。論争とは攻撃ではなく、お互いの誤謬という枯れ枝を切り落とし、一つの真理という大樹を健やかに育てるための対話。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "impute",
+		"word": "Impute",
+		"meaning": "帰する、負わせる、なすりつける",
+		"era": "Latin in- + putare",
+		"etymology": {
+			"components": [
+				"in- (into)",
+				"putare (to reckon / count)"
+			],
+			"original_statement": "From Latin imputare 'to count / enter into an account / charge', from in- 'in / into' + putare 'to reckon / count / think'."
+		},
+		"concept": "Counting into (勘定へ投げ入れる。責任の所在を定める計算)",
+		"thinking": "ある出来事を、特定の誰かの「勘定（Putare）」の中に「入れる（In-）」。それは単なる責任転嫁ではなく、因果関係という名の複雑な糸を解きほぐし、その結果が誰の「意志」から生まれたものかを、論理によって一意に特定し、確定させるという、峻烈な審判の行為です。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "repute",
+		"word": "Repute",
+		"meaning": "評判、名声、みなす",
+		"era": "Latin re- + putare",
+		"etymology": {
+			"components": [
+				"re- (again)",
+				"putare (to think / reckon)"
+			],
+			"original_statement": "From Latin reputare 'to count over / reckon / consider', from re- 'repeatedly' + putare 'to think / reckon / count'."
+		},
+		"concept": "Repeated thinking (繰り返される評価、社会の総計としての影)",
+		"thinking": "人々が「何度も（Re-）」「計算、評価（Putare）」し直した結果。一時の流行ではなく、長い年月をかけて他者の心の中で何度もふるいにかけられ、残った「残像」こそが評判です。それはあなたそのものではないかもしれない。しかし、世界があなたをどう「数えた」かという、冷厳な記録なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "amputate",
+		"word": "Amputate",
+		"meaning": "(手術で手足を)切断する、切り落とす",
+		"era": "Latin ambi- + putare",
+		"etymology": {
+			"components": [
+				"ambi- (around)",
+				"putare (to prune / cut / think)"
+			],
+			"original_statement": "From Latin amputatus, from amputare 'to prune / lopping off / trim', from ambi- 'around' + putare 'to prune / lop / cut'."
+		},
+		"concept": "Pruning around (周囲を切り払うこと、生のための峻烈な切断)",
+		"thinking": "「周りを（Ambi-）」「切り落とす（Putare）」。本来はブドウの木などの「剪定」を指しました。全体が生き延びるために、毒された、あるいは不要な一部分を、断腸の思いで切り離すこと。痛みは大きいが、それは未来の「生」を確保するための、知性と決断による最も重い治療的行為です。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "potent",
+		"word": "Potent",
+		"meaning": "強力な、効能のある、説得力のある",
+		"era": "Latin potens",
+		"etymology": {
+			"components": [
+				"posse (to be able)"
+			],
+			"original_statement": "From Latin potens 'powerful / able / capable / having power'."
+		},
+		"concept": "Having power (力を持っていること、現実に影響を及ぼす濃度)",
+		"thinking": "「できる（Pot-）」状態にあること。単なる可能性（ポテンシャル）ではなく、今まさに他者を動かし、事態を変容させ得る「高密度な力」を帯びていること。言葉、薬、あるいは眼差し。それらがポテントである時、そこには宇宙の法則の一部が、あなたの意志として結晶化しています。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "impossible",
+		"word": "Impossible",
+		"meaning": "不可能な、ありえない、耐え難い",
+		"era": "Latin in- + possibilis",
+		"etymology": {
+			"components": [
+				"in- (not)",
+				"posse (to be able)"
+			],
+			"original_statement": "From Latin impossibilis, from in- 'not' + possibilis 'that can be done', from posse 'to be able'."
+		},
+		"concept": "Not able to be (成し遂げ得ないこと、理性が引いた最後の境界)",
+		"thinking": "「できる（Posse）」ことの「否定（In-）」。それは壁ではなく、あなたの既存の知識や経験が「今はここまでだ」と教えてくれている安全装置、あるいは挑戦状です。不可能だと思った瞬間に、思考は停止し、その事象はあなたの宇宙の外側へと追放されます。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "despotic",
+		"word": "Despotic",
+		"meaning": "専制的な、独裁的な、横暴な",
+		"era": "Ancient Greek despotes",
+		"etymology": {
+			"components": [
+				"domos (house)",
+				"potis (master)"
+			],
+			"original_statement": "From Greek despotes 'master / lord / absolute ruler', from domos 'house' + potis 'master / able'."
+		},
+		"concept": "Master of the house (家の主人としての振る舞い、絶対的な支配)",
+		"thinking": "「家（Domos）」の「主人（Potis）」。家の中では自分の言葉がそのまま法となり、誰にも異論を挟ませない。その家長的な絶対権力を、国家や社会全体にまで拡張しようとする偏執的な身振り。対話の可能性を閉ざし、自らの「椅子（座）」を絶対視する者の末路です。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
 	}
 ];
