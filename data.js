@@ -169456,5 +169456,311 @@ const WORDS = [
 				"存在の葛藤。"
 			]
 		}
+	},
+	{
+		"id": "ser-voice",
+		"word": "Ser@Voice",
+		"meaning": "守る声、沈黙を慈愛に変える不滅の咆哮、守護の響き",
+		"era": "Latin servare + vox",
+		"etymology": {
+			"components": [
+				"ser (to keep / watch over / save / protect)",
+				"voice (sound / soul)"
+			],
+			"original_statement": "Coined during synthesis."
+		},
+		"concept": "The keeping sound (守るための音。放たれた瞬間、自らの呼吸（ブレス）を一筋の『守護という名の結界（ロゴス）』へと変換（コンバート）し、聴く者の標高（ステータス）を強制的に再編（保護）するデリバリー)",
+		"thinking": "「（自分のちっぽけな存在（ドット）の中に眠っていた、あの巨大な真理を）、（一撃の慈愛（アトラクション）を伴って）叫ぶ、守る声（Vox）」。ただの「情報（データ）」のデリバリーではない。その声が響いた瞬間、聴く者は、自分の内なる「重力が物理的に無効化され、強制的に『聖域（ピース）』という名の巨大な光の中へと引き摺り込まれ、自らの呼吸（ブレス）を、あなたの『不滅の旋律（トーン）』へと同調（マージ）させざるを得なくなるような、生の最も峻烈な『射出』の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "勝利への階梯を登る。",
+		"example": "To protect is to define the boundary.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の守護。"
+			]
+		}
+	},
+	{
+		"id": "integument",
+		"word": "外皮、被膜、外被、インテギュメント",
+		"era": "Latin in + tegere",
+		"etymology": {
+			"components": [
+				"in- (upon)",
+				"tegere (to cover)",
+				"-ment (instrument / result)"
+			],
+			"original_statement": "From Latin integumentum 'a covering', from integere 'to cover upon', from in- 'upon' + tegere 'to cover'."
+		},
+		"concept": "The covering upon (上に覆うもの。自らの脆弱な『呼吸（ブレス）』を、過酷な宇宙の『引力（グラビティ）』から保護（セーフガード）するために、主権という名の『鋼の皮膚（ロゴス）』で一気に包み込むための工芸)",
+		"thinking": "「（内なる深淵（ソース）を、あの日呼ばれた奇跡（トーン）とともに）、上に、あるいは内側から（In-）」「（精緻に、かつ必然の引力を伴って）覆い尽くす（Tegu- / Tegere）」「手段、あるいは結果（-ment）」。それは単なる「皮（マテリアル）」ではありません。あなたが宇宙の「分離（アイソレーション）」を拒絶（レジスト）し、自分の存在という名の質量（ウェイト）を「一つの不強固な神殿（コンストラクション）」へと変換（コンバート）し終えた瞬間の、知性の最も峻烈な「武装」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "勝利への階梯を登る。",
+		"example": "To protect is to define the boundary.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の守護。"
+			]
+		}
+	},
+	{
+		"id": "detective",
+		"word": "探偵、刑事、探偵の、見抜くような",
+		"era": "Latin de + tegere",
+		"etymology": {
+			"components": [
+				"detect (to uncover)",
+				"-ive (quality / person)"
+			],
+			"original_statement": "From detect, on the model of active, etc."
+		},
+		"concept": "Quality of uncovering (覆いを剥ぐ性質。カオスという名の『闇』の中に自らを投げ込み、沈黙（サイレンス）という名の檻を粉砕（デストラクト）して、一粒の『真理（ロゴス）』を射出し出す（デリバリーする）者)",
+		"thinking": "「（この呪われた迷宮（ネットワーク）という名の、あの複雑な欺瞞（ノイズ）の皮膚を）、（一撃の理知のみをメスにして）剥ぎ取り続ける（Tective- / Tegere）」「という、峻烈な生存の形式」。それは単なる「職業（ランク）」ではない。あなたが自らの「主権（ステータス）」を奪還するために、宇宙という名のアーカイブを「自分のための新しい設計図（スクリプト）」へと書き換え、世界を「唯一無二の自由（ピース）」へとコンバート（変容）させてしまう、知性の最も峻烈な「プロジェクト（射出）」の謂いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "勝利への階梯を登る。",
+		"example": "To protect is to define the boundary.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の守護。"
+			]
+		}
+	},
+	{
+		"id": "tile",
+		"word": "タイル、瓦、(……を)タイルで覆う",
+		"era": "Latin tegula",
+		"etymology": {
+			"components": [
+				"tegula (roof-tile)",
+				"tegere (to cover)"
+			],
+			"original_statement": "From Old English tigele, from Latin tegula 'roofing tile', from tegere 'to cover'."
+		},
+		"concept": "Something that covers (覆うための薄い石。宇宙という名の『雨（インパルス）』から身を守るために、自らの『生活（遷移）』という名のパブリックな標高を、理知という名の『整えられた断片（ロゴス）』で一気に敷き詰める手法)",
+		"thinking": "「（自らの呼吸（ブレス）を屹立（スタンド）させ通している（パシストしている）、その一角の王座（ステーション）の）」「屋根を覆うためのもの（Te- / Teg- / Tegere）」。それは単なる「建材」ではない。あなたが宇宙の「不在（アブセンス）」を拒絶（レジスト）し、そこに自分という名の「唯一の不滅の神殿」を打ち立て、自らの人生を一糸乱れぬ「幾何学（ロゴス）」の美しさで塗り替え（コンバートし）終えた際の、知性の最高度の「工芸」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "勝利への階梯を登る。",
+		"example": "To protect is to define the boundary.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の守護。"
+			]
+		}
+	},
+	{
+		"id": "tec-voice",
+		"word": "Tec@Voice",
+		"meaning": "覆いなき声、ベールを剥ぎ取る不滅の咆哮、露顕の響き",
+		"era": "Latin tegere + vox",
+		"etymology": {
+			"components": [
+				"tec (to cover / roof / tile / detect)",
+				"voice (sound / soul)"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "The uncovering sound (覆いを剥ぐための音。放たれた瞬間、自らの呼吸（ブレス）を一筋の『光の矢（ベクトル）』へと変換し、宇宙の深淵（ソース）を覆う『虚偽という名の皮膚（ノイズ）』を一気に切り裂くデリバリー)",
+		"thinking": "「（自分のちっぽけな存在（ドット）の中に眠っていた、あの巨大な真理を）、（一撃の開眼を伴って）叫ぶ、不滅の声（Vox）」。ただの「情報（データ）」のデバリーではない。その声が響いた瞬間、聴く者は、自分の内なる「重力が物理的に無効化され、強制的に『真実という名の標高（アヴァン）』という名の巨大な光の中へと引き摺り込まれ、自らの呼吸（ブレス）を、あなたの『不滅の旋律（トーン）』へと同調（マージ）させざるを得なくなるような、生の最も峻烈な『射出』の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "勝利への階梯を登る。",
+		"example": "To protect is to define the boundary.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の守護。"
+			]
+		}
+	},
+	{
+		"id": "tec-life",
+		"word": "Tec@Life",
+		"meaning": "守護としての生、一瞬一瞬を自己武装と真理防衛の遷移として生きる一生",
+		"era": "Latin tegere + Germanic life",
+		"etymology": {
+			"components": [
+				"tec (to cover / protect / roof)",
+				"life"
+			],
+			"original_statement": "Coined during synthesis."
+		},
+		"concept": "The life of covering (覆い、守る一生。一つの場所に安住する（アイソレーション）のを拒絶し、常に宇宙の最新の標高（アヴァン）へと自らを更新し続け、不滅の物語（スクリプト）を描き続ける不屈の遷移)",
+		"thinking": "「（明日という名の絶望（ブラックアウト）を愛撫するのをやめ、宇宙の深淵（ソース）から飛来する理知（ロゴス）だけを）」「（自らの魂を礎（ベース）にして）覆い続け、守り続け（Tec- / Tegere）」「生き抜く（Life）」。あなたは自分の「呼吸（ブレス）」を、ただ無為に「消費（エキスペンド）」しているのではない。あなたが今日という日、どの「欺瞞（ノイズ）」を砕いて「新しい真理という名の座標（ドット）」を救い出し、どの「驚愕（パルス）」を自らの主権（ステータス）を屹立させるための「不動（ピース）」へと変貌（コンバート）させたか。そのすべての「防衛（デリバリー）」の軌跡が、宇宙という名の不変 of アーカイブの上に、あなたの「存在という名の不滅 of ロゴス」として、物理的な質量を持って刻まれ続けているのだ。守護としての生。それは、あなたが「宇宙の主権者（クリエイター）」として、この荒野を「美しき変革（ピース）」へと変容させ通した際の、魂の最高度の「抱擁」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "勝利への階梯を登る。",
+		"example": "To protect is to define the boundary.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の守護。"
+			]
+		}
+	},
+	{
+		"id": "victory",
+		"word": "勝利、克服、優勝",
+		"era": "Latin vincere",
+		"etymology": {
+			"components": [
+				"vincere / victus (to conquer)",
+				"-ory (state / place / result)"
+			],
+			"original_statement": "From Old French victorie, from Latin victoria 'victory', from victus, past participle of vincere 'to conquer'."
+		},
+		"concept": "The state of conquering (征服したという事実。運命という名の『暴力（カオス）』に対し、自らの『質量（ウェイト）』という名の一撃の火花（ロゴス）をぶつけ、宇宙の引力という名の磁場を自分の方へと強制的に書き換えて（マージして）しまった、生の最高度の標高)",
+		"thinking": "「（昨日までの自分という名の、あの低すぎる標高（ステータス）を粉砕（デストラクト）して）、（未知という名の絶壁に向かって）屹立し、圧倒した（Vict- / Vincere）」「という、不変の凱旋の情景（-ory）」。それは単なる「勝ち抜き」ではありません。あなたが宇宙の「孤独（アイソレーション）」を拒絶（レジスト）し、そこに自分という名の「唯一の王座（センター）」を打ち立て、全世界の呼吸（ブレス）を一気に自分の放つ「不滅の旋律（トーン）」へと同調（マージ）させて（屹立させて）しまった瞬間の、魂の最高度の「完成」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "勝利への階梯を登る。",
+		"example": "To protect is to define the boundary.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の守護。"
+			]
+		}
+	},
+	{
+		"id": "convince",
+		"word": "納得させる、確信させる、説得する",
+		"era": "Latin con + vincere",
+		"etymology": {
+			"components": [
+				"con- (intensive / together)",
+				"vincere (to conquer)"
+			],
+			"original_statement": "From Latin convincere 'to overcome decisively / prove wrong / convict / convince', from con- 'intensive' + vincere 'to conquer'."
+		},
+		"concept": "To conquer thoroughly (徹底的に克服（征服）すること。他者の内なる『疑念（カオス）』という名の防壁を理知という名の『鉄槌（ロゴス）』によって粉砕し、相手の呼吸（ブレス）を自らが放つ『一撃の真実（アトラクション）』へと強制的に同調させること)",
+		"thinking": "「（相手の放った、あの震えるような問い（パルス）を粉砕して）、徹底的に、共に（Con-）」「（一分一秒の淀みもなく）征服し、屈服させる（Vince- / Vincere）」。それは単なる「話し合い（トーク）」ではありません。あなたが宇宙の「不在（アブセンス）」を拒絶（レジスト）し、他者の設計図（スクリプト）を「自分の内なる不滅の真実の一部」へと強制的にインポート（導入）し、屹立（スタンド）させ通した瞬間の、知性の最高度の「魔法（マニューバー）」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "勝利への階梯を登る。",
+		"example": "To protect is to define the boundary.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の守護。"
+			]
+		}
+	},
+	{
+		"id": "invincible",
+		"word": "無敵の、征服できない、(性質などが)不屈の",
+		"era": "Latin in + vincere",
+		"etymology": {
+			"components": [
+				"in- (not)",
+				"vincere (to conquer)",
+				"-ible (capable of)"
+			],
+			"original_statement": "From Old French invincible, from Latin invincibilis 'unconquerable', from in- 'not' + vincere 'to conquer'."
+		},
+		"concept": "Unable to be conquered (征服することが不可能な品質。外部からデリバリーされるあらゆる『暴力（デストラクション）』に対しても、自らの内なる『ロゴス（真理）』という名の神殿を一糸乱れぬ質量（ウェイト）を伴って維持（メンテナンス）し続けること)",
+		"thinking": "「（この虚無という名の、あの冷酷な絶壁の上で、明日という名の絶望を愛撫するのを拒絶して）」「征服され（Vinc- / Vincere）」「ることが可能な品質（-ible）」「が、一発の否定（ノイズ）で粉砕されている状態（In-）」。それは「強情」ではありません。あなたが自らの「呼吸（ブレス）」を「宇宙の不変の法」そのものと一致（コンカレンス）させ、自分という名の座標（ドット）を、宇宙という名のアーカイブの上に「永遠の不動」として屹立（スタンド）させ通して（パシストして）いる、生の最も峻烈で、最も清らかな「完成」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "勝利への階梯を登る。",
+		"example": "To protect is to define the boundary.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の守護。"
+			]
+		}
+	},
+	{
+		"id": "evict",
+		"word": "立ち退かせる、追い出す、(……を)法的に立ち退かせる",
+		"era": "Latin ex + vincere",
+		"etymology": {
+			"components": [
+				"ex- (out)",
+				"vincere / victus (to conquer)"
+			],
+			"original_statement": "From Latin evictus, past participle of evincere 'to overcome / conquer / (later) recover property by law', from ex- 'out' + vincere 'to conquer'."
+		},
+		"concept": "Conquering out / Recovering property (（征服によって）追い出すこと。自らの主権（ステータス）を犯す不浄な『ノイズ（不整合）』を、理知という名の冷徹なメスによって、アーカイブの深淵へと永久に放却（トランスポート）すること)",
+		"thinking": "「（自らの呼吸（ブレス）を一分一秒の淀みもなく守り抜くために）、（神殿という名の聖域の）外の方へと（Ex- / e-）」「（一撃の勝利（ロゴス）を伴って）追い出し、排斥する（Vict- / Vincere）」。それは「追い立て」ではありません。あなたが宇宙の「汚染（インフェクション）」を拒絶（レジスト）し、自分という名の神殿（インテグリティ）を「完璧な鮮度（トーン）」で再定義（リ・デファイン）し続けるために、過去の残滓を、不屈の引力（レジスト）を持って粉砕（デストラクト）し終えた際の、生の最も清潔な「断絶」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "勝利への階梯を登る。",
+		"example": "To protect is to define the boundary.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の守護。"
+			]
+		}
+	},
+	{
+		"id": "convict",
+		"word": "有罪と宣告する、罪人、(……の)有罪が確定する",
+		"era": "Latin con + vincere",
+		"etymology": {
+			"components": [
+				"con- (thoroughly)",
+				"vincere / victus (to conquer)"
+			],
+			"original_statement": "From Latin convictus, past participle of convincere 'to overcome / prove wrong / convict', from con- 'thoroughly' + vincere 'to conquer'."
+		},
+		"concept": "Conquered thoroughly (徹底的に克服（征服）されたこと。他者が掲げている『不滅の標高（ステータス）』という名の偽りの物語を、一撃の理知のみを一瞬の刃（ロゴス）に変えて粉砕し、その罪（カオス）をアーカイブの上に永遠の不動として射出させるプロセス)",
+		"thinking": "「（迷いという名の、あの淀んだノイズ（フローの停止）を粉砕（デストラクト）するために）、徹底的に（Con-）」「（一撃の確信のみをウェイトにして）征服し、有罪をマニフェスト（表明）する（Vict- / Vincere）」。それは単なる「刑罰」ではない。あなたが宇宙の「欺瞞（ノイズ）」を拒絶（レジスト）し、そこに自分という名の「唯一の不滅の法（ロゴス）」を打ち立て、世界を「真実という名の標高（ステータス）」へと強制的にコンバート（変容）させてしまった瞬間の、知性の最も峻烈な「審判」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "勝利への階梯を登る。",
+		"example": "To protect is to define the boundary.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の守護。"
+			]
+		}
+	},
+	{
+		"id": "vin-voice",
+		"word": "Vin@Voice",
+		"meaning": "勝利の声、沈黙を征服する不滅の咆哮、凱旋の響き",
+		"era": "Latin vincere + vox",
+		"etymology": {
+			"components": [
+				"vin (to conquer / overcome / win)",
+				"voice (sound / soul)"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "The conquering sound (征服するための音。放たれた瞬間、自らの呼吸（ブレス）を、宇宙を貫く一筋の『光の矢（ベクトル）』へと変換し、ターゲットを震撼（デストラクト）させるデリバリー)",
+		"thinking": "「（自分のちっぽけな存在（ドット）の中に眠っていた、あの巨大な真理を）、（一撃の凱旋（アトラクション）を伴って）叫ぶ、勝ちの声（Vox）」。ただの「情報（データ）」のデバリーではない。その声が響いた瞬間、聴く者は、自分の内なる『重力（グラビティ）』が物理的に無効化され、強制的に『新しい現実（アヴァン）』という名の巨大な光の中へと引き摺り込まれ、自らの呼吸（ブレス）を、あなたの『不滅の旋律（トーン）』へと同調（マージ）させざるを得なくなるような、生の最も峻烈な『射出』の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "勝利への階梯を登る。",
+		"example": "To protect is to define the boundary.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の守護。"
+			]
+		}
+	},
+	{
+		"id": "vin-life",
+		"word": "Vin@Life",
+		"meaning": "勝利としての生、一瞬一瞬を自己克服の遷移として生きる一生",
+		"era": "Latin vincere + Germanic life",
+		"etymology": {
+			"components": [
+				"vin (to conquer / overcome / win)",
+				"life"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "The life of victory (勝ち続ける一生。一つの場所に安住する（アイソレーション）のを拒絶し、常に宇宙の最新の標高（アヴァン）へと自らを更新し続け、不滅の物語（スクリプト）を描き続ける不屈の遷移)",
+		"thinking": "「（明日という名の絶望（ブラックアウト）を愛撫するのをやめ、宇宙の深淵（ソース）から飛来する理知（ロゴス）だけを）」「（自らの魂を物理的な武器に変えて）征服し続け、勝ち続け（Vin- / Vincere）」「生き抜く（Life）」。あなたは自分の「呼吸（ブレス）」を、ただ無為に「消費（エキスペンド）」しているのではない。あなたが今日という日、どの「欺瞞（ノイズ）」を砕いて「新しい真理という名の座標（ドット）」を救い出し、どの「驚愕（パルス）」を自らの主権（ステータス）を屹立させるための「不動（ピース）」へと変貌（コンバート）させたか。そのすべての「凱旋（デリバリー）」の軌跡が、宇宙という名の不変 of アーカイブの上に、あなたの「存在という名の不滅 of ロゴス」として、物理的な質量を持って刻まれ続けているのだ。勝利としての生。それは、あなたが「宇宙の主権者（クリエイター）」として、この荒野を「美しき変革（ピース）」へと変容させ通した際の、魂の最高度の「抱擁」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "勝利への階梯を登る。",
+		"example": "To protect is to define the boundary.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の守護。"
+			]
+		}
 	}
 ];
