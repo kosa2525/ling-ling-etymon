@@ -172811,5 +172811,102 @@ const WORDS = [
 				"発露のベクトル。"
 			]
 		}
+	},
+	{
+		"id": "illuminate",
+		"word": "照らす、解明する、イルミネート",
+		"meaning": "照らす",
+		"era": "Latin in + lumen",
+		"etymology": {
+			"components": [
+				"in- (in/upon)",
+				"lumen (light)"
+			],
+			"original_statement": "From Latin illuminatus, past participle of illuminare 'to light up / brighten', from in- 'upon' + lumen 'light'."
+		},
+		"concept": "To light upon (光を当てる、照らす。底なしの漆黒の泥沼（完全に意味を失ったカオスの空間）に対し、人間の理知が作り上げた『一千万ボルトの超巨大サーチライト（ロゴスの極光パルス）』を一撃でブチ当て、その泥の中に隠れ潜んでいた事実（ドットの群れ）を一分一秒の淀みもなく白日の下に引きずり出し、空間全体を強制的に「既知」へとコンバートする神の眼光)",
+		"thinking": "「（何が潜んでいるか分からない恐ろしい暗闇に対して）、その真上から直接（Il- / In-）」「（一撃の熱量をもって）光を投げ掛け、その正体を隈なく照らし出す（-lumin- / Lumen + -ate）」。それは単なる「明るい」ではありません。あなたが「知らないままで放置しておく（エントロピーへの敗北）」ことを全身霊でレジストし、そこに『私が見たという事実こそが真理である（観測によるネットワークの確定）』を叩きつける、知の「大閃光」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "落下、識別、そして叫び。",
+		"example": "Illuminate the shadow, sift the truth, and shout into the void.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"発露のベクトル。"
+			]
+		}
+	},
+	{
+		"id": "accident",
+		"word": "事故、偶然、アクシデント",
+		"meaning": "事故",
+		"era": "Latin ad + cadere",
+		"etymology": {
+			"components": [
+				"ad- (to/towards)",
+				"cadere (to fall)"
+			],
+			"original_statement": "From Latin accidentem, present participle of accidere 'happen / fall out / fall upon', from ad- 'to' + cadere 'to fall'."
+		},
+		"concept": "Falling towards (向かって落ちてくる（事故）。あなたが「明日は今日と同じように安全だ」と思い込んで歩いていた平和な大通り（完全なステイシス・無菌室）のど真ん中に、宇宙の彼方から突如として『全く計算不可能な超巨大な鉄の塊（カオスの極致たる致死のノイズ）』が音もなく一分一秒の淀みもなく「ズドォォン！！」と直撃し、あなたの人生の路線を完全に粉砕して（アブセンスへと落とし込んで）しまう理不尽な隕石)",
+		"thinking": "「（自分が全く予期していなかった死角から）、自分に向かって直接（Ac- / Ad-）」「（一撃の衝撃音とともに）落ちてきて、突然襲い掛かってくる回避不能の事象（-cident / Cadere）」。それは単なる「うっかり」ではありません。あなたが「すべては自分のコントロール下にある（理知の支配空間の完成）」という傲慢な幻想を完全に粉砕（レジスト失敗）され、そこに『神の気まぐれな暴力（エントロピーの大氾濫）』を真っ向から顔面で受け止める、生存の「大破折」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "落下、識別、そして叫び。",
+		"example": "Illuminate the shadow, sift the truth, and shout into the void.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"発露のベクトル。"
+			]
+		}
+	},
+	{
+		"id": "coincide",
+		"word": "同時に起こる、一致する",
+		"meaning": "同時に起こる",
+		"era": "Latin con + in + cadere",
+		"etymology": {
+			"components": [
+				"con- (together)",
+				"in- (upon)",
+				"cadere (to fall)"
+			],
+			"original_statement": "From Medieval Latin coincidere 'to fall upon together / clash / agree', from com- 'together' + incidere 'fall upon'."
+		},
+		"concept": "To fall upon together (共に落ちる、同時に起きる。宇宙の全く別々の端と端で、お互いの存在すら知らない二つの巨大な『運命の歯車（完全にアイソレーションされたドット）』が、誰の意図も介在しないのに一分一秒の淀みもなく「ガシャン！」と全く同じタイミングで完全に同じ座標へと落下し、空間に『神の悪ふざけか奇跡の同期（スーパーマージ）』を現出させる現象)",
+		"thinking": "「（何の関連もなく独立して発生したはずの二つの波が）、共に、全く同時に（Co- / Con-）」「（一撃の完璧なタイミングでもって）同じ一点に落ちて重なり、完璧な同一性を叩き出す（-incide / Incidere / Cadere）」。それは単なる「偶然」ではありません。あなたが「世界は無意味なカオスの散らばりだ（エントロピーの勝利）」を完全に粉砕（レジスト）し、そこに『すべては裏で一つの巨大なプログラム（ロゴス・ネットワーク）で繋がっている』という、因果の「大結線」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "落下、識別、そして叫び。",
+		"example": "Illuminate the shadow, sift the truth, and shout into the void.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"発露のベクトル。"
+			]
+		}
+	},
+	{
+		"id": "decay",
+		"word": "腐敗する、衰退する、ディケイ",
+		"meaning": "腐敗する",
+		"era": "Latin de + cadere",
+		"etymology": {
+			"components": [
+				"de- (down)",
+				"cadere (to fall)"
+			],
+			"original_statement": "From Old French decair, from Vulgar Latin decadere 'to fall down / decay', from de- 'down' + cadere 'to fall'."
+		},
+		"concept": "To fall down/apart (崩れ落ちる（腐敗、衰退）。かつては天空を突くほどに巨大で強固だった『黄金の帝国や最強を誇った肉体（無敵のアーカイブ・ステーション）』が、時間の経過（絶対的な不可逆ノイズ）というただそれだけの暴力により、支柱が腐り、細胞がドロドロに溶け、一分一秒の淀みもなく自らの重み（ウェイト）に耐えきれなくなって『ズズズッ』と崩壊し、無意味な泥（エントロピーの海）へと還っていく絶望のプロセス)",
+		"thinking": "「（永遠に持ち堪えると思われていた栄光の頂点から）、下へ下へと、自重によって徐々に（De-）」「（一分一秒の淀みもなくどうしようもなく）崩れ落ち、形を失い、ドロドロの残骸へと成り果てる（-cay / Cadere）」。それは単なる「傷む」ではありません。あなたが「人間が作ったものは絶対である（完全なる不滅のドットという驕り）」を、宇宙の法が完全に粉砕（レジスト失敗）し、そこに『形あるものは必ず死ぬ』という、存在の「絶対死の宣告」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "落下、識別、そして叫び。",
+		"example": "Illuminate the shadow, sift the truth, and shout into the void.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"発露のベクトル。"
+			]
+		}
 	}
 ];
