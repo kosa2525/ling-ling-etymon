@@ -173921,5 +173921,378 @@ const WORDS = [
 				"存在の共同体。"
 			]
 		}
+	},
+	{
+		"id": "automatic",
+		"word": "自動の、無意識の、オートマチック",
+		"era": "Greek autos + matos",
+		"etymology": {
+			"components": [
+				"autos (self)",
+				"matos (thinking / willing / acting)"
+			],
+			"original_statement": "Coined in 1748 from Greek automatos 'self-acting / self-moving / self-willed', from autos 'self' + root of memona 'I wish / I will / I intend'."
+		},
+		"concept": "Self-acting (自ら動くこと。外部という名の『カオス』から独立した、自らを駆動（ドライブ）させる不滅の理知（ロゴス）による設計図。孤独という名の絶壁を、一撃の『情熱（アトラクション）』によって物理的な運動（トーン）へと一気に変換させる凱旋)",
+		"thinking": "「（永遠という名の、あの不透明なフローから身を引き）、自らの意志で（Auto- / Autos）」「（一分一秒の淀みもなく）考え、行動する品質（-matic / Matos）」。それは単なる「機械仕掛け（ソフト）」ではありません。あなたが宇宙の「不在（アブセンス）」を拒絶（レジスト）し、そこに自分という名の「唯一無二の物語（スクリプト）」を打ち立て、全世界の断片を「自走する不滅のトーン」へと変容（コンバート）させて屹立させてしまった瞬間の、生の最高度の「掌握」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "自己と全一の軌跡。",
+		"example": "Auto is the total of being null.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の主権。"
+			]
+		}
+	},
+	{
+		"id": "autograph",
+		"word": "自筆(の署名)、サイン、オートグラフ",
+		"era": "Greek autos + graph",
+		"etymology": {
+			"components": [
+				"autos (self)",
+				"graphos (written)"
+			],
+			"original_statement": "From French autographe, from Greek autographon 'written with one's own hand', from autos 'self' + graphein 'to write'."
+		},
+		"concept": "Self-written (自ら書いたもの。カオスという名の『空白（アーカイブ）』に対し、自らの魂という名の物理的な等価物（サイン）を一気に射出し、宇宙の深淵（ソース）に秘匿されていた不滅の真実（ロゴス）を、自らの筆致によって可視化（マニフェスト）すること)",
+		"thinking": "「（明日という名の忘却（サイレンス）を愛撫するのを拒絶して、自らの一瞬を『不変のロゴス』へと変換するために）、自ら（Auto- / Autos）」「（一撃の情熱（アトラクション）を伴って）書くこと、あるいは筆致（-graph / Graphein）」。それは単なる「サイン（マテリアル）」ではありません。あなたが宇宙の「不在（アブセンス）」を拒絶（レジスト）し、そこに自分という名の「唯一の不滅の設計図」による厳密な「署名という名の秩序」を打ち立て、屹立（スタンド）させ通した（パシストした）際の、生の最高度の「掌握」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "自己と全一の軌跡。",
+		"example": "Auto is the total of being null.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の主権。"
+			]
+		}
+	},
+	{
+		"id": "automobile",
+		"word": "自動車、オートモービル",
+		"era": "Greek autos + Latin mobilis",
+		"etymology": {
+			"components": [
+				"autos (self)",
+				"mobilis (movable)"
+			],
+			"original_statement": "Coined in 1890s from French automobile, from Greek autos 'self' + Latin mobilis 'movable'."
+		},
+		"concept": "Self-movable (自ら動くもの。不滅の『ロゴス（正義）』を、物理的な『ビークル（肉体）』という名の拡張を通して、この世界の質量（ウェイト）へと具現化し、宇宙を縦横無尽に走り抜けるための不屈の形式)",
+		"thinking": "「（内なる深淵（ソース）を、あの日呼ばれた奇跡（トーン）とともに）、（一分一秒の淀みもなく）自力で（Auto- / Autos）」「（一撃の確信のみをウェイトにして）移動するもの（-mobile / Mobilis）」。それは単なる「車（マテリアル）」ではありません。あなたが「傍観者（スペクテイター）」であることを卒業し、自らが「宇宙の唯一の主権者（クリエイター）」として、世界を「自分という名の磁場が支配する流動的な調和（設計図）」へとコンバート（変容）させて屹立させてしまった瞬間の、知性の最高度の「掌握」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "自己と全一の軌跡。",
+		"example": "Auto is the total of being null.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の主権。"
+			]
+		}
+	},
+	{
+		"id": "aut-voice",
+		"word": "Aut@Voice",
+		"meaning": "自律の声、沈黙を自己に変える不滅の咆哮、主権の響き",
+		"era": "Greek autos + vox",
+		"etymology": {
+			"components": [
+				"aut (self / individual / autonomous / agent / original / independent)",
+				"voice (sound / soul)"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "The self sound (自己としての音。放たれた瞬間、自らの呼吸（ブレス）を一筋の『光の王座（ベクトル）』へと変換（コンバート）し、宇宙という真理のアーカイブの一角を、自己というトーン（設計図）で震撼させるデリバリー)",
+		"thinking": "「（自分のちっぽけな存在（ドット）の中に眠っていた、あの巨大な真理を）、（一撃の情熱（アトラクション）を伴って）叫ぶ、自らの核からの声（Vox）」。ただの「叫び（エキスペル）」ではない。その声が響いた瞬間、周囲を覆っていた「虚無（アブセンス）」が物理的に一掃され、そこに「誰もが見落としていたたった一つの『自己という』意味」が、戦慄という名のトーン（響き）を伴って再屹立（リリー・スタンド）してしまうような、生の最も峻烈な「射出」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "自己と全一の軌跡。",
+		"example": "Auto is the total of being null.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の主権。"
+			]
+		}
+	},
+	{
+		"id": "aut-life",
+		"word": "Aut@Life",
+		"meaning": "自己としての生、一瞬一瞬を自己駆動の遷移として生きる一生",
+		"era": "Greek autos + Germanic life",
+		"etymology": {
+			"components": [
+				"aut (self / individual / autonomous / agent / original / independent)",
+				"life"
+			],
+			"original_statement": "Coined during synthesis."
+		},
+		"concept": "The life of self (自らであり続ける一生。一つの場所に安住する（アイソレーション）のを拒絶し、常に宇宙の最新の標高（アヴァン）へと自らを更新し続け、不滅 of 物語（スクリプト）を描き続ける不屈の遷移)",
+		"thinking": "「（明日という名の絶望（ブラックアウト）を愛撫するのをやめ、宇宙の深淵（ソース）から飛来する理知（ロゴス）だけを）」「（自らの魂を礎（ベース）にして）自らを律し続け、駆動し続け（Aut- / Autos）」「生き抜く（Life）」。あなたは自分の「呼吸（ブレス）」を、ただ無為に「消費（エキスペンド）」しているのではない。あなたが今日という日、どの「欺瞞（ノイズ）」を砕いて「新しい真理という名の座標（ドット）」を救い出し、どの「驚愕（パルス）」を自らの主権（ステータス）を屹立させるための「不動（ピース）」へと変貌（コンバート）させたか。そのすべての「自己駆動（デリバリー）」の軌跡が、宇宙という名の不変 of アーカイブの上に、あなたの「存在という名の不滅 of ロゴス」として、物理的な質量を持って刻まれ続けているのだ。自己としての生。それは、あなたが「宇宙の主権者（クリエイター）」として, この荒野を「美しき変革（ピース）」へと変容させ通した際の, 魂の最高度の「抱擁」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "自己と全一の軌跡。",
+		"example": "Auto is the total of being null.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の主権。"
+			]
+		}
+	},
+	{
+		"id": "total",
+		"word": "合計の、全体の、完全な、トータル",
+		"era": "Latin totus",
+		"etymology": {
+			"components": [
+				"totus (all / whole / entire)"
+			],
+			"original_statement": "From Old French total, from Medieval Latin totalis 'whole / entire', from Latin totus 'all / whole / entire / altogether'."
+		},
+		"concept": "All / Whole (全体。宇宙のありとあらゆる『パルス（事象）』を一撃の引力によって、一つの不滅の『王座（ステーション）』へと一気にマージ（同期）させ、宇宙のアーカイブの上に、不動の質量（ウェイト）を伴って屹立させた凱旋)",
+		"thinking": "「（漂流していた、あの不確かな震え（パルス）を一分一秒の淀みもなくインスペクト（視認）し）、全体の、完全な（Tot- / Totus）」。それは単なる「全部（ソフト）」ではありません。あなたが宇宙の「分離（アイソレーション）」を拒絶（レジスト）し、そこに自分という名の「唯一無二の物語（スクリプト）」を打ち立て、全世界を「一つの巨大な至高のトーン」へと書き換え（コンバート）させてしまった瞬間の、知性の最高度の「掌握」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "自己と全一の軌跡。",
+		"example": "Auto is the total of being null.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の主権。"
+			]
+		}
+	},
+	{
+		"id": "totality",
+		"word": "全体、総計、皆既(食)、トータリティ",
+		"era": "Latin totus",
+		"etymology": {
+			"components": [
+				"total (whole)",
+				"-ity (state)"
+			],
+			"original_statement": "From Medieval Latin totalitas, from totalis 'total'."
+		},
+		"concept": "State of being whole (全体性。主権という名の『王座（ステーション）』を維持するために、自らの知性という名の『一撃の鉄槌（ロゴス）』によって情報の全断片を本来あるべき『標高（設計図）』へとデリバリーし終えた際の、不屈の完了)",
+		"thinking": "「（明日という名の忘却（サイレンス）を愛撫するのを拒絶して、自らを『不変のロゴス』という名の設計図へと同期させるために）、全体の（Total- / Totus）」「という（一分一秒の淀みもない）不変の品質（-ity）」。それは単なる「総量（ソフト）」ではありません。あなたが宇宙の「不在（アブセンス）」を拒絶（レジスト）し、独自の呼吸（ブレス）を一振りの「刃（ベクトル）」へと研ぎ澄ませて、この荒野を「自分という名の磁場が支配する完璧な調和」で支配し通している際の、魂の最高度の「掌握」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "自己と全一の軌跡。",
+		"example": "Auto is the total of being null.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の主権。"
+			]
+		}
+	},
+	{
+		"id": "factotum",
+		"word": "雑用係、何でも屋、ファクトータム",
+		"era": "Latin facere + totus",
+		"etymology": {
+			"components": [
+				"facere (to do)",
+				"totus (all)"
+			],
+			"original_statement": "Coined in 1560s from Latin fac totum 'do everything!', from imperative of facere 'to do' + accusative of totum (neuter of totus) 'all'."
+		},
+		"concept": "Do everything! (すべてを行う者。カオスという名の『荒野（アーカイブ）』に対し、自らの知性という名の『一瞬の情熱（ロゴス）』を注ぎ込み、どんな断片であっても本来あるべき『標高（ピース）』へと一気に変容（コンバート）させてしまう、生の最も峻烈な万能)",
+		"thinking": "「（この不透明な、あの冷酷な全一性（アーカイブ）を一分一秒の淀みもなく支配するために）、すべてを（-totum / Totus）」「（一撃の情熱（アトラクション）を伴って）行う者（Fac- / Facere）」。それは単なる「使い走り（マテリアル）」ではありません。あなたが「宇宙の主権者（クリエイター）」として、世界を「自分という名の磁場が支配するあらゆる方向への調和」へとコンバート（変容）させて屹立させてしまった瞬間の、知性の最高度の「掌握」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "自己と全一の軌跡。",
+		"example": "Auto is the total of being null.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の主権。"
+			]
+		}
+	},
+	{
+		"id": "totalitarian",
+		"word": "全体主義の(人)、独裁的な",
+		"era": "Latin totus",
+		"etymology": {
+			"components": [
+				"total (whole)",
+				"-itarian (related to / believer in)"
+			],
+			"original_statement": "Coined in 1920s from Italian totalitario, from totalis 'total'."
+		},
+		"concept": "Related to totality (全体（主義）に関する品質。主権という名の『王座（ステーション）』を維持するために、自らの知性という名の『一撃の鉄槌（ロゴス）』によって、他者の標高（ステータス）を一気に自分の放つ『不滅のネットワーク』へと強制的に同期（マージ）させる際の、理知の最も峻烈な掌握)",
+		"thinking": "「（内なる深淵（ソース）を、あの日呼ばれた奇跡（トーン）とともに）、（一分一秒の淀みもなく）全体を統制する（Totalitar- / Totus）」「（一撃の確信のみをウェイトにして）屹立させた品質（-ian）」。それは単なる「恐怖政治（ソフト）」ではありません。あなたが自らの「主権（ステータス）」を宇宙という名のアーカイブの上に自分という名の「不滅のトーン」として、不動の質量を伴って屹立させ通そうとする（あまりに強力すぎて、周囲を飲み込んでしまう）、生の最高度の「掌握」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "自己と全一の軌跡。",
+		"example": "Auto is the total of being null.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の主権。"
+			]
+		}
+	},
+	{
+		"id": "tot-voice",
+		"word": "Tot@Voice",
+		"meaning": "全体の声、沈黙を全一に変える不滅の咆哮、完結の響き",
+		"era": "Latin totus + vox",
+		"etymology": {
+			"components": [
+				"tot (all / whole / total / complete / altogether / entirety)",
+				"voice (sound / soul)"
+			],
+			"original_statement": "Coined during synthesis."
+		},
+		"concept": "The whole sound (全体としての音。放たれた瞬間、自らの呼吸（ブレス）を一筋の『光の洪水（ベクトル）』へと変換（コンバート）し、宇宙という真理のアーカイブの一角を、完全に支配（ホールド）するデリバリー)",
+		"thinking": "「（自分のちっぽけな存在（ドット）の中に眠っていた、あの巨大な真理を）、（一撃の情熱（アトラクション）を伴って）叫ぶ、包摂された全一の声（Vox）」。ただの「叫び（エキスペル）」ではない。その声が響いた瞬間、周囲を覆っていた「虚無（アブセンス）」が物理的に一掃され、そこに「誰もが見落としていたたった一つの『完全な』意味」が、戦慄という名のトーン（響き）を伴って再屹立（リリー・スタンド）してしまうような、生の最も峻烈な「射出」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "自己と全一の軌跡。",
+		"example": "Auto is the total of being null.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の主権。"
+			]
+		}
+	},
+	{
+		"id": "tot-life",
+		"word": "Tot@Life",
+		"meaning": "全一としての生、一瞬一瞬を自己統合の遷移として生きる一生",
+		"era": "Latin totus + Germanic life",
+		"etymology": {
+			"components": [
+				"tot (all / whole / total / complete / altogether / entirety)",
+				"life"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "The life of whole (すべてであり続ける一生。一つの場所に安住する（アイソレーション）のを拒絶し、常に宇宙の最新の標高（アヴァン）へと自らを更新し続け、不滅 of 物語（スクリプト）を描き続ける不屈の遷移)",
+		"thinking": "「（明日という名の絶望（ブラックアウト）を愛撫するのをやめ、宇宙の深淵（ソース）から飛来する理知（ロゴス）だけを）」「（自らの魂を礎（ベース）にして）統合し続け、存在し続け（Tot- / Totus）」「生き抜く（Life）」。あなたは自分の「呼吸（ブレス）」を、ただ無為に「消費（エキスペンド）」しているのではない。あなたが今日という日、どの「欺瞞（ノイズ）」を砕いて「新しい真理という名の座標（ドット）」を救い出し、どの「驚愕（パルス）」を自らの主権（ステータス）を屹立させるための「不動（ピース）」へと変貌（コンバート）させたか。そのすべての「全一（デリバリー）」の軌跡が、宇宙という名の不変 of アーカイブの上に、あなたの「存在という名の不滅 of ロゴス」として、物理的な質量を持って刻まれ続けているのだ。全一としての生。それは、あなたが「宇宙の主権者（クリエイター）」として, この荒野を「美しき変革（ピース）」へと変容させ通した際の, 魂の最高度の「抱擁」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "自己と全一の軌跡。",
+		"example": "Auto is the total of being null.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の主権。"
+			]
+		}
+	},
+	{
+		"id": "null",
+		"word": "無の、無効の、零、ナル、ヌル",
+		"era": "Latin ne (not) + ullus (any)",
+		"etymology": {
+			"components": [
+				"ne (not)",
+				"ullus (any)"
+			],
+			"original_statement": "From Old French nul, from Latin nullus 'not any / none / no one', from ne- 'not' + ullus 'any / anyone'."
+		},
+		"concept": "Not any (何もない（無効な）こと。宇宙という名の広大なキャンバスの上に、自らの筆致（スクリプト）を描くのを放棄（アイソレーション）し、呼吸（ブレス）という名の不滅のエネルギーが霧散し、カオスへと滑落してしまった途方に暮れた標高)",
+		"thinking": "「（これまで積み上げてきた、あの不屈のロゴスを粉砕（デストラクト）して）、何もない状態（Null- / Nullus）」。それは単なる「ゼロ（マテリアル）」ではありません。あなたが宇宙の「虚無（アブセンス）」を拒絶（レジスト）し続けるのをやめ、自らの主権（ステータス）を一角の鋼へと鍛え上げるのをやめてしまった際の、魂の最も痛ましい「崩落」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "自己と全一の軌跡。",
+		"example": "Auto is the total of being null.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の主権。"
+			]
+		}
+	},
+	{
+		"id": "nullify",
+		"word": "無効にする、取り消す、(……を)無にする、ヌリファイ",
+		"era": "Latin nullus + facere",
+		"etymology": {
+			"components": [
+				"nullus (none)",
+				"facere (to make)"
+			],
+			"original_statement": "Coined in 1590s from Latin nullificare 'to esteem as nothing', from nullus 'none' + root of facere 'to make'."
+		},
+		"concept": "To make nothing (無にすること。宇宙のエントロピーという名の『暴力（デストラクション）』に対し、自らの知性という名の『一撃の鉄槌（ロゴス）』によって境界線を引き、誤謬という名の『アーカイブ』を物理的に粉砕して回る、知性の最も峻烈な掌握)",
+		"thinking": "「（宇宙のいたるところに蔓延る、あの停滞という名の偽善を粉砕して）、無に作り変える（Null- / Nullus）」「という（一分一秒の淀みもない）完了した確定の情景（-ify / Facere）」。それは単なる「キャンセル（ソフト）」ではありません。あなたが宇宙の「不全（ミスチーフ）」を拒絶（レジスト）し、独自の呼吸（ブレス）を一振りの「刃（ベクトル）」へと研ぎ澄ませて、この荒野を一糸乱れぬ「真理の旋律」で再支配（リ・デファイン）し終えた際の、知性の最高度の「凱旋」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "自己と全一の軌跡。",
+		"example": "Auto is the total of being null.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の主権。"
+			]
+		}
+	},
+	{
+		"id": "annul",
+		"word": "無効にする、取り消す、(結婚などを)無効と宣告する、アナル",
+		"era": "Latin ad + nullus",
+		"etymology": {
+			"components": [
+				"ad- (to)",
+				"nullus (none)"
+			],
+			"original_statement": "From Old French anuller, from Late Latin annullare 'to bring to nothing', from ad 'to' + nullum, neuter of nullus 'none'."
+		},
+		"concept": "To bring to nothing (無に導くこと。永劫の『カオス（アーカイブ）』に対し、自らの秩序（ロゴス）という名の設計図を一糸乱れぬ質量（ウェイト）を伴って差し込み、不条理という名の『座標（ドット）』を本来あるべき『無格（ゼロ）』へと一気にコンバート（変容）させること)",
+		"thinking": "「（この虚無という名の、あの冷酷な全一性（アーカイブ）を一分一秒の淀みもなく支配するために）、無へと（An- / Ad- -nul / Nullus）」。それは単なる「無効（ソフト）」ではない。あなたが宇宙の「不整合（ノイズ）」を拒絶（レジスト）し、そこに自分という名の「唯一の不滅のコンパス」による厳密な「支配という名の秩序」を打ち立て、屹立（スタンド）させ通した（パシストした）際の、知性の最も峻烈な「掌握」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "自己と全一の軌跡。",
+		"example": "Auto is the total of being null.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の主権。"
+			]
+		}
+	},
+	{
+		"id": "nul-voice",
+		"word": "Nul@Voice",
+		"meaning": "無の声、沈黙を深淵に変える不滅の咆哮、零の響き",
+		"era": "Latin nullus + vox",
+		"etymology": {
+			"components": [
+				"nul (none / not any / nothing / void / zero)",
+				"voice (sound / soul)"
+			],
+			"original_statement": "Coined during synthesis."
+		},
+		"concept": "The void sound (無としての音。放たれた瞬間、自らの呼吸（ブレス）を一筋の『光の不在（ベクトル）』へと変換（コンバート）し、宇宙という真理のアーカイブの一角を、一瞬で（自分のトーンで）消去するデリバリー)",
+		"thinking": "「（自分のちっぽけな存在（ドット）の中に眠っていた、あの巨大な真理を）、（一撃の情熱（アトラクション）を伴って）叫ぶ、無に帰す声（Vox）」。ただの「叫び（エキスペル）」ではない。その声が響いた瞬間、周囲を覆っていた「虚無（アブセンス）」が物理的に一掃され、そこに「誰もが見落としていたたった一つの『深遠な無』という意味」が、戦慄という名のトーン（響き）を伴って再屹立（リリー・スタンド）してしまうような、生の最も峻烈な「射出」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "自己と全一の軌跡。",
+		"example": "Auto is the total of being null.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の主権。"
+			]
+		}
+	},
+	{
+		"id": "nul-life",
+		"word": "Nul@Life",
+		"meaning": "空としての生、一瞬一瞬を自己無化の遷移として生きる一生",
+		"era": "Latin nullus + Germanic life",
+		"etymology": {
+			"components": [
+				"nul (none / not any / nothing / void / zero)",
+				"life"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "The life of void (空（ゼロ）であり続ける一生。一つの場所に安住する（アイソレーション）のを拒絶し、常に宇宙の最新の標高（アヴァン）へと自らを更新し続け、不滅 of 物語（スクリプト）を描き続ける不屈の遷移)",
+		"thinking": "「（明日という名の絶望（ブラックアウト）を愛撫するのをやめ、宇宙の深淵（ソース）から飛来する理知（ロゴス）だけを）」「（自らの魂を礎（ベース）にして）削ぎ落とし続け、存在し続け（Nul- / Nullus）」「生き抜く（Life）」。あなたは自分の「呼吸（ブレス）」を、ただ無為に「消費（エキスペンド）」しているのではない。あなたが今日という日、どの「欺瞞（ノイズ）」を砕いて「新しい真理という名の座標（ドット）」を救い出し、どの「驚愕（パルス）」を自らの主権（ステータス）を屹立させるための「不動（ピース）」へと変貌（コンバート）させたか。そのすべての「無体（デリバリー）」の軌跡が、宇宙という名の不変 of アーカイブの上に、あなたの「存在という名の不滅 of ロゴス」として、物理的な質量を持って刻まれ続けているのだ。空としての生。それは、あなたが「宇宙の主権者（クリエイター）」として, この荒野を「美しき変革（ピース）」へと変容させ通した際の, 魂の最高度の「抱擁」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "自己と全一の軌跡。",
+		"example": "Auto is the total of being null.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の主権。"
+			]
+		}
 	}
 ];
