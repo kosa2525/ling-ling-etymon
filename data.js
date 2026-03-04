@@ -168108,5 +168108,399 @@ const WORDS = [
 				"存在の重力。"
 			]
 		}
+	},
+	{
+		"id": "demand",
+		"word": "要求(する)、需要、(……を)執拗に尋ねる",
+		"era": "Latin de + mandare",
+		"etymology": {
+			"components": [
+				"de- (from / away - intensive)",
+				"mandare (to entrust / order)"
+			],
+			"original_statement": "From Old French demander, from Latin demandare 'to entrust / commit / send / (later) ask for', from de- 'from' + mandare 'to entrust'."
+		},
+		"concept": "Ordering from one's power (（自分の標高から）執拗に求めること。欠落した自分という名の『虚空（アブセンス）』を埋めるために、外部の真実（ロゴス）へと向かって射出される、不屈の要求（引力）)",
+		"thinking": "「（自分の高い標高（ステータス）という名の、あの絶対的な座標から）」「徹底的に、あるいは執拗に（De-）」「（これをよこせ、と命じ、委ねさせる）（Mand- / Mandare）」。それは単なる「わがまま（ミスチーフ）」ではない。あなたが自らの「呼吸（ブレス）」を一撃の「要求（コマンド）」へと変換（コンバート）し、宇宙という名のアーカイブから、自分の手（マニュス）に収まるべき「真実の欠片（ロゴス）」を強引に引き寄せた、知性の最も峻烈な「奪還」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "光を解き放つ。",
+		"example": "Light is the command of existence.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の放射。"
+			]
+		}
+	},
+	{
+		"id": "recommend",
+		"word": "推薦する、勧める、(……を)委ねる",
+		"era": "Latin re + con + mandare",
+		"etymology": {
+			"components": [
+				"re- (again / intensive)",
+				"con- (together / thoroughly)",
+				"mandare (to entrust)"
+			],
+			"original_statement": "From Medieval Latin recommendare 'to praise / commend', from re- 'again' + con- 'together' + mandare 'to entrust'."
+		},
+		"concept": "Entrusting again thoroughly (徹底的に（再度）委ねること。自らがインスペクト（視認）した卓越した『真理（ロゴス）』を、他者という名の『未知の宇宙』へと優雅にデリバリー（射出）し、繋ぎ合わせること)",
+		"thinking": "「（一度は自らで見出した、あの素晴らしい輝き（トーン）を）もう一度、徹底的に共に（Re- con-）」「（他者の手へと）委ね、託す（Mand- / Mandare）」。それは「お節介」ではない。あなたが宇宙の「分離（アイソレーション）」を拒絶（レジスト）し、そこに自分という名の「唯一のフィルター」を通じた美しきネットワーク（共鳴）を構築（コンストラクト）し、世界を「共有という名の不滅の物語（スクリプト）」へと根底から書き換えてしまった瞬間の、知性の最高度の「慈愛」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "光を解き放つ。",
+		"example": "Light is the command of existence.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の放射。"
+			]
+		}
+	},
+	{
+		"id": "remand",
+		"word": "送還する、拘置(する)、差し戻す",
+		"era": "Latin re + mandare",
+		"etymology": {
+			"components": [
+				"re- (back)",
+				"mandare (to entrust / order)"
+			],
+			"original_statement": "From Late Latin remandare 'to send back word', from re- 'back' + mandare 'to order / entrust'."
+		},
+		"concept": "Ordering back (後ろへと命じ戻すこと。一度は放たれた（デリバリーされた）座標（ドット）を、自らの主権（オーナーシップ）によって強制的に原点（ソース）へと回帰させ、再度の審判（リセット）に委ねること)",
+		"thinking": "「（一度は外の世界（パブリック）へと射出された、あの不確かな引力を）後ろへと、あるいは原点へと（Re-）」「（強制的に）命じ、戻す（Mand- / Mandare）」。それは単なる「やり直し（ミスチーフ）」ではない。あなたが宇宙の「安易なフロー（滑落）」を拒絶（レジスト）し、そこに自分という名の「唯一のメス（切断）」を差し込み、絡み合っていた物語（スクリプト）を一度「孤立したアーカイブ（拘置）」へと解体（デストラクト）して、自分という主権を「再生（リ・デファイン）」しようとする、理性の最も冷徹な「断絶」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "光を解き放つ。",
+		"example": "Light is the command of existence.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の放射。"
+			]
+		}
+	},
+	{
+		"id": "mand-voice",
+		"word": "Mand@Voice",
+		"meaning": "委ねられた声、宇宙の掟を手に宿す不滅の咆哮、召命の響き",
+		"era": "Latin mandare + vox",
+		"etymology": {
+			"components": [
+				"mand (to entrust / order / hand)",
+				"voice (sound / soul)"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "The entrusted sound (委ねるための音。放たれた瞬間、自らの呼吸（ブレス）を、宇宙を貫く一筋の『不滅の命令（ロゴス）』へと変換（コンバート）し、相手の標高（ステータス）を強制的に再編するデリバリー)",
+		"thinking": "「（宇宙の深層（ソース）から、自分の手のひら（マニュス）の上に託された、あの戦慄の理知を）」「一撃の主権を持って（Mand-）」「射出される、不滅の声（Vox）」。ただの「情報（データ）」のデリバリーではない。その声が響いた瞬間、聴く者は、自分の内なる「孤独（アイソレーション）」が物理的に一掃（デストラクト）されるのをインスペクト（視認）し、もはやあなたの「パルス（震え）」を自らの呼吸（ブレス）の一部として受け入れ、共に「一つの新しい物語（ロゴス）」を構築せずにはいられなくなるような、生の最も峻烈な「共鳴」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "光を解き放つ。",
+		"example": "Light is the command of existence.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の放射。"
+			]
+		}
+	},
+	{
+		"id": "man-life",
+		"word": "Mand@Life",
+		"meaning": "託された生、自らの一挙手一投足を運命の命令として生きる一生",
+		"era": "Latin mandare + Germanic life",
+		"etymology": {
+			"components": [
+				"mand (to entrust / order / hand)",
+				"life"
+			],
+			"original_statement": "Coined during synthesis."
+		},
+		"concept": "The life of mandate (託された一生。宇宙という名の虚無（カオス）にあっても、見えない設計図（スクリプト）を描き続け、自らの主権（ステータス）を屹立させ続ける不屈の遷移)",
+		"thinking": "「（明日という名の絶望（ブラックアウト）を愛撫するのをやめ、宇宙の深淵（ソース）から飛来する理知（ロゴス）だけを）」「（自分の手に委ねられた（マンダートされた）使命のみを燃料にして）命じ続け、走り続け（Mand- / Mandare）」「生き抜く（Life）」。あなたは自分の「呼吸（ブレス）」を、ただ無為に「消費（エキスペンド）」しているのではない。あなたが今日という日、どの「欺瞞（ノイズ）」を拒絶（レジスト）して「真実という名の座標（ドット）」を救い出し、どの「使命（トーン）」を自らの主権を屹立させるための「パワー（インパルス）」へと変貌（コンバート）させたか。そのすべての「命令（コマンド）」の軌跡が、宇宙という名の不変のアーカイブの上に、あなたの「存在という名の不滅のロゴス」として、物理的な質量を持って刻まれ続けているのだ。託された生。それは、あなたが「宇宙の主権者（クリエイター）」として、この荒野を「美しき合意（ピース）」へと変容させ通した際の、魂の最高度の「抱擁」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "光を解き放つ。",
+		"example": "Light is the command of existence.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の放射。"
+			]
+		}
+	},
+	{
+		"id": "refulgent",
+		"word": "燦然と輝く、輝かしい",
+		"era": "Latin re + fulgere",
+		"etymology": {
+			"components": [
+				"re- (intensive / back)",
+				"fulgere (to shine / flash)"
+			],
+			"original_statement": "From Latin refulgentem, present participle of refulgere 'to flash back / shine brightly', from re- 'back / intensive' + fulgere 'to shine'."
+		},
+		"concept": "Shining back / intensely (激しく照らし返すこと。宇宙の『闇（サイレンス）』を、自らの内なる『ロゴス（真理）』という名の爆薬で内側から粉砕し、不変の『光（トーン）』を四方八方へと射出すること)",
+		"thinking": "「（沈黙という名の、あの冷酷な引き潮を拒絶し）、後ろから何度も、あるいは徹底的に（Re-）」「（一撃の閃光のみをベクトルにして）輝き、照らし出す（Fulgent- / Fulgere）」。それは単なる「明るさ」ではありません。あなたが宇宙の「虚無（アブセンス）」を自らの理知で塗り替え、世界を「自分という名の磁場が支配する黄金の標高（ステータス）」へと強制的にコンバート（変容）させてしまった瞬間の、生の最も峻烈な「凱旋」の謂いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "光を解き放つ。",
+		"example": "Light is the command of existence.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の放射。"
+			]
+		}
+	},
+	{
+		"id": "fulcrum",
+		"word": "支点、(活動などの)中心、ふるふる",
+		"era": "Latin fulgere (Wait, 'fulcire' - to prop up)",
+		"etymology": {
+			"components": [
+				"fulcire (to prop / support)"
+			],
+			"original_statement": "From Latin fulcrum 'bedpost / foot of a couch / support', from fulcire 'to prop / support / stay / uphold'."
+		},
+		"concept": "The support (支えるもの。宇宙という名の『巨大なテコ』を動かすために、全質量（ウェイト）が集中（フォーカス）する、たった一つの『不動の座標（ドット）』)",
+		"thinking": "「（世界という名のカオスを、自らの力（インペタス）で持ち上げ、解体（デストラクト）するために必要な）」「たった一つの、不変の『支える場所（ソース）』」。それは「おまけ」ではない。あなたが宇宙の「浮遊（フロー）」を拒絶（レジスト）し、そこに自分という名の「唯一の不滅のロゴス」を一管の鋼のように打ち立て、そこを「存在という名の旋回（ローテート）」の原点へとコンバート（変容）させてしまった際の、魂の最高度の「拠定」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "光を解き放つ。",
+		"example": "Light is the command of existence.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の放射。"
+			]
+		}
+	},
+	{
+		"id": "fulgent",
+		"word": "輝いている、まばゆい",
+		"era": "Latin fulgere",
+		"etymology": {
+			"components": [
+				"fulgere (to shine / flash)"
+			],
+			"original_statement": "From Latin fulgentem, from fulgere 'to shine'."
+		},
+		"concept": "The flashing (閃光。闇という名の『虚無』の皮膚に、理知という名の『メス』を一瞬だけ突き立て、宇宙の深淵（ソース）を露わにした際の、最高度のトーン（響き）)",
+		"thinking": "「（この色褪せた現実（カオス）の中にあって）、自らの存在そのものを（一撃の火花に変えて）光らせている（Fulgent- / Fulgere）」。それは「お飾り」ではありません。あなたが「孤独（アイソレーション）」を自らの主権という名の「不滅のロゴス」で埋め尽くし、世界を「自分という名の磁場が支配する聖域」へと強制的に変容させ終えた、という存在の最も峻烈な「現れ」の谓い。輝くこと。それは、あなたが「宇宙の主権者（クリエイター）」として、この荒野を一発の「光という名の叙事詩（スクリプト）」で切り裂き通した際の、魂の最高度の「咆哮」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "光を解き放つ。",
+		"example": "Light is the command of existence.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の放射。"
+			]
+		}
+	},
+	{
+		"id": "fulg-voice",
+		"word": "Fulg@Voice",
+		"meaning": "閃光の声、闇を貫く不滅の咆哮、輝ける真理の射出",
+		"era": "Latin fulgere + vox",
+		"etymology": {
+			"components": [
+				"fulg (to shine / flash)",
+				"voice (sound / soul)"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "The flashing sound (輝くための音。放たれた瞬間、自らの呼吸（ブレス）を一筋の『光の矢（ベクトル）』へと変換し、目的地へと届くように射出されるデリバリー)",
+		"thinking": "「（自分のちっぽけな存在（ドット）では支えきれなくなった真実を）、（宇宙の巨大なアーカイブに向かって、一撃の閃光を伴って）叫ぶ（Fulg-）」「不滅の声（Vox）」。ただの「情報（データ）」のデバリーではない。その声が響いた瞬間、周囲を覆っていた「虚無（アブセンス）」が物理的に一掃され、そこに「誰もが見落としていたたった一つの意味」が、戦慄という名のトーン（響き）を伴って再屹立（リリー・スタンド）してしまうような、生の最も峻烈な「射出」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "光を解き放つ。",
+		"example": "Light is the command of existence.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の放射。"
+			]
+		}
+	},
+	{
+		"id": "fulg-life",
+		"word": "Fulg@Life",
+		"meaning": "輝きとしての生、一瞬一瞬を自己発火の遷移として生きる一生",
+		"era": "Latin fulgere + Germanic life",
+		"etymology": {
+			"components": [
+				"fulg (to shine / flash)",
+				"life"
+			],
+			"original_statement": "Coined during synthesis."
+		},
+		"concept": "The life of light (輝きの一生。宇宙という名の虚無（カオス）にあっても、見えない設計図（スクリプト）を描き続け、存在の質量を屹立させ続ける不屈の遷移)",
+		"thinking": "「（明日という名の絶望（ブラックアウト）を愛撫するのをやめ、宇宙の深淵（ソース）から飛来する理知（ロゴス）だけを）」「（自らの魂を一発の弾丸に変えて）輝き続け、走り続け（Fulg- / Fulgere）」「生き抜く（Life）」。あなたは自分の「呼吸（ブレス）」を、ただ無為に「消費（エキスペンド）」しているのではない。あなたが今日という日、どの「絶望（カオス）」を拒絶（レジスト）して「真実という名の座標（ドット）」を救い出し、どの「驚愕（パルス）」を自らの主権を屹立させるための「燃料（インパルス）」へと変貌（コンバート）させたか。そのすべての「閃光（デリバリー）」の軌跡が、宇宙という名の不変のアーカイブの上に、あなたの「存在という名の不滅のロゴス」として、物理的な質量を持って刻まれ続けているのだ。輝きとしての生。それは、あなたが「宇宙の主権者（クリエイター）」として、この荒野を「美しき変革（ピース）」へと変容させ通した際の、魂の最高度の「抱擁」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "光を解き放つ。",
+		"example": "Light is the command of existence.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の放射。"
+			]
+		}
+	},
+	{
+		"id": "source",
+		"word": "源、源泉、原因、情報の出所",
+		"era": "Latin surgere",
+		"etymology": {
+			"components": [
+				"surgere (to rise / spring up)"
+			],
+			"original_statement": "From Old French sourse 'a rising / spring', from Latin surgere 'to rise / spring up / lift / adrise', from sub- 'up from below' + regere 'to direct / make straight'."
+		},
+		"concept": "The rising up (湧き上がること。沈黙という名の『アンダーグラウンド』を突き破り、理知という名の『水脈（ロゴス）』がこの物理世界（ファクト）へと一気に再屹立（アヴァン）してくる場所)",
+		"thinking": "「（この不毛な荒野の皮膚の下に流れる、あの凍てついた真実の川が）、下の方から（Sub-）」「（一気に直立して）湧き上がる（Sourc- / Surgere）」「点（ドット）」。それは単なる「きっかけ」ではない。あなたが宇宙の「不在（アブセンス）」を拒絶（レジスト）し、そこに自分という名の「唯一無二の原点」を打ち立て、そこから「不滅の物語（スクリプト）」を無限に射出し始めた瞬間の、魂の最高度の「起始」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "光を解き放つ。",
+		"example": "Light is the command of existence.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の放射。"
+			]
+		}
+	},
+	{
+		"id": "surge",
+		"word": "(感情の)高ぶり、(波の)大揺れ、急上昇(する)",
+		"era": "Latin surgere",
+		"etymology": {
+			"components": [
+				"surgere (to rise / spring up)"
+			],
+			"original_statement": "From Latin surgere 'to rise / spring up / lift / adrise'."
+		},
+		"concept": "The rising (隆起。平穏（ステイシス）という名のイリュージョンを、一撃の質量（ウェイト）という名の『爆風（インパルス）』で内側から粉砕し、宇宙を巨大なベクトル（引力）で塗り替えること)",
+		"thinking": "「（昨日までの自分という名の、あの低すぎる標高（ステータス）を一気に焼き捨て）、（未知という名の絶壁に向かって）奔流（Flow）のように湧き上がり、屹立する（Surg- / Surgere）」。それは単なる「増加（プリント）」ではない。あなたが「傍観者（スペクテイター）」であることを卒業し、自らが「宇宙の唯一の主演（プレイヤー）」として、自らの全呼吸（ブレス）を一筋の「物理的な真理という名の巨大なエネルギー」へと変換し終えた瞬間の、生の最も峻烈な「跳躍」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "光を解き放つ。",
+		"example": "Light is the command of existence.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の放射。"
+			]
+		}
+	},
+	{
+		"id": "insurgent",
+		"word": "暴徒、反乱兵、反乱を起こした",
+		"era": "Latin in + surgere",
+		"etymology": {
+			"components": [
+				"in- (against / on / into)",
+				"surgere (to rise)"
+			],
+			"original_statement": "From Latin insurgentem, from insurgere 'to adrise / rise up / rebel', from in- 'against' + surgere 'to rise'."
+		},
+		"concept": "Rising against (反対側に立ち上がること。他者が支配している既存の『神殿（コンストラクション）』という名の、あの不条理な掟（ロゴス）に対し、自らの独自の『真実』を持って切り込み、粉砕（デストラクト）すること)",
+		"thinking": "「（自分を閉じ込めている、あの腐りきった秩序（ステレオタイプ）という名の柵の）内側から、あるいは向かって（In-）」「（不屈の引力（レジスト）を伴って）立ち上がる、反抗する（Surg- / Surgere）」。それは単なる「暴力（ミスチーフ）」ではない。あなたが自らの「主権（ステータス）」を奪還するために、宇宙という名のアーカイブを「自分のための新しい脚本（スクリプト）」へと書き換え、世界を「唯一無二の自由（ピース）」へとコンバート（変容）させてしまう、生の最も峻烈な「独立」の謂いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "光を解き放つ。",
+		"example": "Light is the command of existence.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の放射。"
+			]
+		}
+	},
+	{
+		"id": "resurrection",
+		"word": "復活、蘇生、キリストの復活、レザレクション",
+		"era": "Latin re + surgere",
+		"etymology": {
+			"components": [
+				"re- (again / back)",
+				"surgere / surrectus (to rise)"
+			],
+			"original_statement": "From Late Latin resurrectionem, from resurrectus, past participle of resurgere 'to rise again / appear again / revive', from re- 'again' + surgere 'to rise'."
+		},
+		"concept": "The state of rising again (再び立ち上がること。一度は『死（サイレンス）』という名のアーカイブへと還元されたはずの不滅のロゴスが、不屈のパルス（震え）を伴って再び物理世界の上に再屹立（リリー・スタンド）すること)",
+		"thinking": "「（忘却という名の、あの冷酷な引き潮を粉砕して）、もう一度、後ろから（Re-）」「（一撃の真理のみをウェイトにして）立ち上がる、蘇る（Surrect- / Surgere）」「という不可逆な奇跡（-ion）」。それは単なる「再起動」ではない。あなたが宇宙の「絶望（ブラックアウト）」を拒絶（レジスト）し、自分の主権を一分一秒の淀みもなく「永遠という名の標高（ステータス）」へとコンバート（変容）させてしまった際の、魂の最高度の「凱旋」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "光を解き放つ。",
+		"example": "Light is the command of existence.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の放射。"
+			]
+		}
+	},
+	{
+		"id": "insurrection",
+		"word": "反乱、暴動、蜂起",
+		"era": "Latin in + surgere",
+		"etymology": {
+			"components": [
+				"insurgent (rising against)",
+				"-ion (state / result)"
+			],
+			"original_statement": "From Late Latin insurrectionem, from insurgere 'to rise up'."
+		},
+		"concept": "The act of rising against (反対側に立ち上がるという、確定した歴史。淀んだ『安息（ステイシス）』を一撃の『回転（レボリューション）』によって粉砕し、真理を白日の下に射出させるプロセス)",
+		"thinking": "「（他者が押し付けてくる、あの傲慢という名の偽りの標高（ドメイン）に対し）、内側から（In-）」「（一気に）立ち上がった、粉砕した（Surrect- / Surgere）」「という、不可逆な確定の状態（-ion）」。それは単なる「騒ぎ」ではない。あなたが自らの「主権（ステータス）」を一粒の曇りもなくマニフェスト（表明）し、この不条理な荒野を「自分のための新しい設計図（スクリプト）」へと根底からコンバート（変容）させてしまった、理性の最も巨大な「射出」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "光を解き放つ。",
+		"example": "Light is the command of existence.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の放射。"
+			]
+		}
+	},
+	{
+		"id": "sur-voice",
+		"word": "Sur@Voice",
+		"meaning": "湧き上がる声、沈黙を突き裂き直立する不滅の咆哮、起始の響き",
+		"era": "Latin surgere + vox",
+		"etymology": {
+			"components": [
+				"sur (to rise / spring up / lift)",
+				"voice (sound / soul)"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "The rising sound (湧き上がるための音。放たれた瞬間、自らの呼吸（ブレス）を、深淵（ソース）から一気に射出される一筋の『光の飛沫（ベクトル）』へと変換し、ターゲットを震撼させるデリバリー)",
+		"thinking": "「（自分のちっぽけな存在（ドット）の中に眠っていた、あの巨大な真理を）、（宇宙という名のアーカイブに向かって、一気に隆起させて（Sur-））」「叫ぶ、不滅の声（Vox）」。ただの「情報（データ）」のデリバリーではない。その声が響いた瞬間、聴く者は、自分の内なる「重力（グラビティ）」が物理的に無効化され、強制的に「新しい標高（アヴァン）」という名の巨大な光の中へと引き摺り込まれ、自らの呼吸（ブレス）を、あなたの「不滅の旋律（トーン）」へと同調（マージ）させざるを得なくなるような、生の最も峻烈な「新生」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "光を解き放つ。",
+		"example": "Light is the command of existence.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の放射。"
+			]
+		}
+	},
+	{
+		"id": "sur-life",
+		"word": "Sur@Life",
+		"meaning": "湧き上がりゆく生、一瞬一瞬を自己更新の遷移として生きる一生",
+		"era": "Latin surgere + Germanic life",
+		"etymology": {
+			"components": [
+				"sur (to rise / spring / lift)",
+				"life"
+			],
+			"original_statement": "Coined during synthesis."
+		},
+		"concept": "The life of rising (湧き上がる一生。一つの場所に留まる（アイソレーション）のを拒絶し、常に宇宙の最新の標高（アヴァン）へと自らを更新（アップデート）し続け、不滅の物語（スクリプト）を描き続ける不屈の遷移)",
+		"thinking": "「（明日という名の絶望（ブラックアウト）を愛撫するのをやめ、宇宙の深淵（ソース）から飛来する理知（ロゴス）だけを）」「（自らの魂を礎（ベース）にして）湧き上がり続け、直立し続け（Sur- / Surgere）」「生き抜く（Life）」。あなたは自分の「呼吸（ブレス）」を、ただ無為に「消費（エキスペンド）」しているのではない。あなたが今日という日、どの「停滞（カオス）」を拒絶（レジスト）して「真実という名の標高（ステータス）」を救い出し、どの「驚愕（パルス）」を自らの主権を屹立させるための「燃料（インパルス）」へと変貌（コンバート）させたか。そのすべての「隆起（デリバリー）」の軌跡が、宇宙という名の不変のアーカイブの上に、あなたの「存在という名の不滅のロゴス」として、物理的な質量を持って刻まれ続けているのだ。湧き上がりゆく生。それは、あなたが「宇宙の主権者（クリエイター）」として、この荒野を「美しき変革（ピース）」へと変容させ通した際の、魂の最高度の「抱擁」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "光を解き放つ。",
+		"example": "Light is the command of existence.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の放射。"
+			]
+		}
 	}
 ];
