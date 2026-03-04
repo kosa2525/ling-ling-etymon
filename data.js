@@ -163892,5 +163892,632 @@ const WORDS = [
 				"日常に潜む、知性の眼差し。"
 			]
 		}
+	},
+	{
+		"id": "regress",
+		"word": "後退、退歩、逆行、……を逆戻りさせる",
+		"era": "Latin re + gradi",
+		"etymology": {
+			"components": [
+				"re- (back)",
+				"gradi (to go / walk)"
+			],
+			"original_statement": "From Latin regressus 'a return / retreat', from regredi 'to go back', from re- 'back' + gradi 'to step / go'."
+		},
+		"concept": "Stepping back (後ろへと一歩を戻すこと。本来あるべき高度からの落下、あるいは慎重な帰還)",
+		"thinking": "「（今居る高台から）後ろ、あるいは過去の方へと（Re-）」「歩みを戻す（Gredi-）」。それは獲得した価値を「失う（ルーズ）」という悲しみであると同時に、自分がどこで間違えた（ミシュチーフ）かを確認するために、自らの「足跡（トラック）」を静かに辿り直す（リスペクト）、知的な再訪（リビジット）でもあります。後退（リグレス）とは、あなたが「進むこと」に盲目（インセンシブル）になるのをやめ、自分の「原点（ソース）」という名の重力を再確認するための、理性の慎重な「逆旋回（リトラクト）」の謂いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Everyday words are the anchors of our reality.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"日常という名の、驚異的な建築。"
+			]
+		}
+	},
+	{
+		"id": "aggress",
+		"word": "攻撃する、(紛争を)仕掛ける、一歩踏み出す",
+		"era": "Latin ad + gradi",
+		"etymology": {
+			"components": [
+				"ad- (at / to)",
+				"gradi (to go / walk)"
+			],
+			"original_statement": "From Latin aggressus, past participle of aggredi 'to step to / approach / set upon / attack', from ad- 'to' + gradi 'to step / go'."
+		},
+		"concept": "Stepping toward (相手に向かって一歩を踏み出す。防壁を突き破り、境界線の中に潜入すること)",
+		"thinking": "「（相手の聖域へと）向かって（Ad-）」「一歩を踏み出し、踏み込む（Gredi-）」。単なる「叫び（ヴォックス）」ではない。あなたの肉体の「質量（ウェイト）」そのものを、相手の物語という名の「檻（クローズ）」の中に無理やり侵入（インカージョン）させ、相手の存在という名の「静止（スタンド）」を破壊すること。攻撃（アグレス）とは、他者との安易な「合流（コンカレンス）」を拒絶し、暴力という名の「物理的な対話（ダイアローグ）」を強制的に開始しようとする、剥き出しの「生の力（パワー）」の謂いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Everyday words are the anchors of our reality.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"日常という名の、驚異的な建築。"
+			]
+		}
+	},
+	{
+		"id": "congress",
+		"word": "議会、大会、(人々の)集まり、合流",
+		"era": "Latin con + gradi",
+		"etymology": {
+			"components": [
+				"con- (together)",
+				"gradi (to go / walk)"
+			],
+			"original_statement": "From Latin congressus 'a coming together', from congredi 'to meet / come together', from con- 'together' + gradi 'to step / go'."
+		},
+		"concept": "Stepping together (共に歩み寄ること。バラバラの物語を一つの場所に束ねる、理性の集結)",
+		"thinking": "「（異なる場所から来た、異なる呼吸（スピリット）たちが）一つの点（センター）へと、共に（Con-）」「歩み寄る（Gredi-）」。それは単なる「偶然の遭遇（オカレンス）」ではなく、お互いの「違い（ディスタンス）」を認めつつ、一つの「共通の真理（ロゴス）」を創り上げるために、自らの足をあるべき場所（ステーション）へと運ぶこと。議会（コングレス）とは、多人数という名の「カオス」を、対義（コントラスト）と和解（コンセッション）を通じて、一つの「大きな生命（ステイト）」へと昇華させるための、知的な合宿（アサンブル）の型なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Everyday words are the anchors of our reality.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"日常という名の、驚異的な建築。"
+			]
+		}
+	},
+	{
+		"id": "graduate-like",
+		"word": "卒業生のような、完成された、あるいは終わりを感じさせる",
+		"era": "Latin gradus",
+		"etymology": {
+			"components": [
+				"graduate (one who took a step)",
+				"-like (resembling)"
+			],
+			"original_statement": "From graduate + -like."
+		},
+		"concept": "Resembling one who step up (一段上の階層へと昇った者を思わせる、静かなる充足と微かな寂寞)",
+		"thinking": "「（一つの物語を終え、一段高い場所へと昇った）者（Graduate）」の「ような（-like）」。もはやその場所の熱狂（カオス）には染まらず、高い視点（プロスペクト）から過去を愛おしく、あるいは醒めた（ディスタンス）瞳で見下ろしている（スペクテート）様子。卒業生のような一瞬。それは、あなたが自らの役割を終え（ディシーズ）、新しい自分へと「更新（アップデート）」される直前の、最も美しく、最も「中立的（ニュートラル）」な魂の静止の状態なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Everyday words are the anchors of our reality.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"日常という名の、驚異的な建築。"
+			]
+		}
+	},
+	{
+		"id": "retrograde",
+		"word": "逆行の、退化する、(天体が)逆行する",
+		"era": "Latin retro + gradi",
+		"etymology": {
+			"components": [
+				"retro- (backward)",
+				"gradi (to step / go)"
+			],
+			"original_statement": "From Latin retrogradus 'going backward', from retro- 'backward' + gradi 'to step / go'."
+		},
+		"concept": "Walking backward (後ろ向きに歩くこと。宇宙の法則に抗い、あるいは過去の影に吸い寄せられる時間)",
+		"thinking": "「（誰もが未来へと進もうとする流れに逆らって）後ろ、過去へと（Retro-）」「歩みを進める（Gracde-）」。それは進化（プログレス）という名の物語の「裏側」を視ようとする（インスペクト）特異な動き。逆行（レトログラード）とは、あなたが現状の「正しい一方行のシーケンス」に疑念（サスペクト）を持ち、失われた「原基（ソース）」へと、あえて時間を巻き戻そう（リワインド）とする、理性の執拗な「帰還への渇望（アディクト）」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Everyday words are the anchors of our reality.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"日常という名の、驚異的な建築。"
+			]
+		}
+	},
+	{
+		"id": "transgress",
+		"word": "（限界や規則を）超える、違反する、踏み外す",
+		"era": "Latin trans + gradi",
+		"etymology": {
+			"components": [
+				"trans- (across)",
+				"gradi (to step / go)"
+			],
+			"original_statement": "From Latin transgressus, past participle of transgredi 'to step across / step over', from trans- 'across' + gradi 'to step / go'."
+		},
+		"concept": "Stepping across (（禁じられた）境界線を越えて一歩を出すこと。法という名の壁の『貫通』)",
+		"thinking": "「（正しいとされる領域や規則の）向こう側へと（Trans-）」「（恐れることなく）一歩を踏み出す（Gredi-）」。それは単なる「間違い（ミスチーフ）」ではなく、あなたが「今の法（ロゴス）」という名の檻が、自分の「巨大な生の熱量（エクセス）」には小さすぎることを証明（マニフェスト）するために、自らの足でその境界（リミット）を物理的に踏み越える行為。違反（トランスグレス）という言葉の中には、あなたが「善悪（ステータス）」を他者の手に委ねるのをやめ、自らの力で「新しい地平（プロスペクト）」を作り直そうとする、野性的な知性の挑戦が隠されています。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Everyday words are the anchors of our reality.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"日常という名の、驚異的な建築。"
+			]
+		}
+	},
+	{
+		"id": "gradation",
+		"word": "階層、段階的変化、グラデーション",
+		"era": "Latin gradus",
+		"etymology": {
+			"components": [
+				"gradus (step)",
+				"-ation (state / result)"
+			],
+			"original_statement": "From Latin gradatio 'a climbing by steps / climax', from gradus 'step'."
+		},
+		"concept": "The state of stepping (一歩一歩（段）をなしているという事実。カオスの中に見出される、滑らかな順序)",
+		"thinking": "「（バラバラだった色が、あるいは経験が）一段ずつの階段（Grad-）」「として整列（コンシステント）されている」「事実（-ation）」。それは「無秩序（カオス）」を、理性の力で「美しい連なり（シーケンス）」へと変換（コンバート）した結果。段階的変化（グラデーション）とは、あなたが世界の「断絶」を愛おしみつつ、それらを一つの「不変の愛（コンスタント）」という名の線で繋ぎ直した（コネクト）、という知性の最も優雅な「整理（メインテナンス）」の形式なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Everyday words are the anchors of our reality.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"日常という名の、驚異的な建築。"
+			]
+		}
+	},
+	{
+		"id": "gradu-spirit",
+		"word": "Gradu@Spirit",
+		"meaning": "魂の階梯、精神の進化の歩み",
+		"era": "Latin gradus + spiritus",
+		"etymology": {
+			"components": [
+				"gradu (step / degree)",
+				"spirit (breath / soul)"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "The stepped ascent of the breath (呼吸を一段ずつ高みへと引き上げる歩み、魂の山登り)",
+		"thinking": "「（自分がどこまでも高みへと歩むべき）階段（Gradu-）」と「（自分の内なる、不滅の）息、あるいは魂（Spirit）」。あなたは今日、単に時を過ごしたのではない。自らの「経験（マテリアル）」を足場にして、昨日よりわずかでも「高い視点（アスペクト）」へと、自らの魂（ウェイト）を引き上げ（アチーヴ）、新しい宇宙を視る（インスペクト）ための「一歩」を刻んだはずだ。魂の階梯。それは、あなたが肉体という名の「重力（グラビティ）」を脱し、純境な「光（ロゴス）」へと自分自身を「変換（コンバート）」し続ける、果てしなき一生という名の「歩行（プログレス）」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Everyday words are the anchors of our reality.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"日常という名の、驚異的な建築。"
+			]
+		}
+	},
+	{
+		"id": "obstruction",
+		"word": "妨害、障害物、(通路などの)閉塞",
+		"era": "Latin ob + struere",
+		"etymology": {
+			"components": [
+				"ob- (against / in the way)",
+				"struere (to build / pile up)"
+			],
+			"original_statement": "From Latin obstructionem, from obstruere 'to build up against / block / stop up', from ob- 'against / in the way' + struere 'to build / pile up'."
+		},
+		"concept": "Building against (向かい合って積み上げること。行く手を塞ぐための、意図的な『壁』の構築)",
+		"thinking": "「（あなたの歩みの）目の前に、対抗するように（Ob-）」「（瓦礫や論理を）積み上げる（Stru-）」「という状態（-ion）」。それは偶然の不運ではなく、あなたをその場に「静止（ストップ）」させ、あなたの物語の「進行（プログレス）」を拒絶（レジスト）しようとする、世界あるいは他者の峻烈な「意志（パワー）」の現出。妨害（オブストラクション）とは、あなたがその目的地（デスティネーション）に行きたいという「願い（アペタイト）」がどれほど本物であるかを、その堅固な「不透明さ（クローズ）」によってテストしている、運命の不敵な「挑戦状（レター）」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Everyday words are the anchors of our reality.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"日常という名の、驚異的な建築。"
+			]
+		}
+	},
+	{
+		"id": "substructure",
+		"word": "下部構造、基礎、(社会的な)基盤",
+		"era": "Latin sub + struere",
+		"etymology": {
+			"components": [
+				"sub- (under)",
+				"struere (to build / pile up)"
+			],
+			"original_statement": "From Latin substructio 'a foundation', from sub- 'under' + struere 'to build'."
+		},
+		"concept": "The built thing underneath (下側に積み上げられたもの。目に見える『屹立』を支える、沈黙の土台)",
+		"thinking": "「（華やかな建築（アスペクト）の）真下、根源へと（Sub-）」「（誰にも見られず、しかし強靭に）積み上げられた」「構造（Structure）」。それは、嵐が来ても地震が起きても、上の物語を「絶対に落とさない、崩さない」という冷徹な「物理的決意」が込められた、理性の暗い礎（ベース）。下部構造（サブストラクチャー）とは、あなたが自分の「成功（ステータス）」を誇る前に、その足もとであなたを支え（サポート）、あなたという「存在の重み（ウェイト）」を黙って引き受けている、名もなき「準備（プレパレーション）」の集積のことなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Everyday words are the anchors of our reality.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"日常という名の、驚異的な建築。"
+			]
+		}
+	},
+	{
+		"id": "destroy",
+		"word": "破壊する、台無しにする、殲滅する",
+		"era": "Latin de + struere",
+		"etymology": {
+			"components": [
+				"de- (reversing / un-)",
+				"struere (to build / pile up)"
+			],
+			"original_statement": "From Old French destruire, from Latin destruere 'to pull down / demolish', from de- 'un-' + struere 'to build'."
+		},
+		"concept": "To un-pile (積み上げたものを無効化して壊す。形（フォーム）を塵（ダスト）へと戻す暴力)",
+		"thinking": "「（苦労して作り上げた（Struct-）秩序（ロゴス）を）一気に崩し、無に帰す（De-）」。それは単なる「物の破壊」ではなく、その物が運んでいた「意味（センス）」や、その物を創り上げた「誰かの時間（スピリット）」を、世界から物理的に「抹消（デレート）」し、再び「冷たいカオス」の中へと突き落とすこと。破壊する（デストロイ）という響きには、あなたが作り手（メーカー）であることをやめ、一瞬の「衝撃（インパルス）」によって、世界のすべてを「沈黙（セッセーション）」という名の虚無へと引きずり込もうとする、暗い主権の行使が刻まれています。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Everyday words are the anchors of our reality.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"日常という名の、驚異的な建築。"
+			]
+		}
+	},
+	{
+		"id": "superstructure",
+		"word": "上部構造、(建物などの)上層部、(社会の)精神的文化",
+		"era": "Latin super + struere",
+		"etymology": {
+			"components": [
+				"super- (over / above)",
+				"struere (to build / pile up)"
+			],
+			"original_statement": "From super- 'above' + structure."
+		},
+		"concept": "The built thing above (上側に積み上げられたもの。土台の上に立ち昇る、色鮮やかな表現の層)",
+		"thinking": "「（見えない基礎（サブスタンス）の）遥か高い、その上に（Super-）」「（誇らしげに）積み上げられた」「建築（Structure）」。それは物理的な「生存（サブシスト）」という名の必要性を越えて、あなたが自らの「美意識（アート）」や「信仰（スピリット）」、あるいは「法（ロゴス）」を、天空に向かって高らかに「宣言（マニフェスト）」した際の、最も華やかな「生の装飾」。上部構造（スーパーストラクチャー）とは、あなたが「ただここに在る」という重力（土台）を足場にして、自分の「精神（ブレイン）」がどこまで高く飛躍（ジャンプ）し、どれほど壮大な「夢（ドリーム）」を現実の中に屹立（スタンド）させ得るか、という魂の標高の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Everyday words are the anchors of our reality.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"日常という名の、驚異的な建築。"
+			]
+		}
+	},
+	{
+		"id": "structural",
+		"word": "構造の、構造上の、組織的な",
+		"era": "Latin struere",
+		"etymology": {
+			"components": [
+				"structure (building / arrange)",
+				"-al (of / related to)"
+			],
+			"original_statement": "From structure + -al."
+		},
+		"concept": "Of the building style (組み立ての形式に関する。表面をなぞるのではない、骨組みを貫く視点)",
+		"thinking": "「（対象を支えている）構造（Struct-）」に「関する（-ural）」。単なる「色彩（トーン）」や「印象（フィール）」といった一時的な変化（フロー）を論じるのをやめ、その事象を根本から司っている（ホールド）「不変の結び目（ロゴス）」そのものに知性のメスを入れよう（インスペクト）とすること。構造的（ストラクチュアル）な分析とは、あなたが世界の「現象（イベント）」に惑わされず、その裏側にある「設計図（スクリプト）」を読み解くことで、真実を「掌握（マニューバー）」しようとする、理性の最も醒めた（ディスタンス）挑戦なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Everyday words are the anchors of our reality.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"日常という名の、驚異的な建築。"
+			]
+		}
+	},
+	{
+		"id": "instructor-like",
+		"word": "教師のような、指導者らしい、権威ある、説教臭い",
+		"era": "Latin in + struere",
+		"etymology": {
+			"components": [
+				"instructor (one who builds into)",
+				"-like (resembling)"
+			],
+			"original_statement": "From instructor + -like."
+		},
+		"concept": "Resembling one who builds into souls (他者の魂を組み立てる者を思わせる、強固な理路と微かな重圧)",
+		"thinking": "「（他者の脳（ブレイン）に知識を）積み上げよう（Instruct-）」「者（-or）」の「ような（-like）」。自信に満ちた「正しさ（ロゴス）」という名の杖を突き、相手の「迷い（カオス）」を自らの「構造（スケルトン）」に従わせようとする、有無を言わせぬ「屹立（スタンド）」の様子。指導者らしい一言。それは、あなたが自らの「真理」を疑わず、それを他者という名の「未知のマテリアル」の中へと一方的に「射出（インジェクト）」しようとした際の、理性の最も傲慢で、しかし使命感（ヴォケーション）に満ちた色彩の謂いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Everyday words are the anchors of our reality.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"日常という名の、驚異的な建築。"
+			]
+		}
+	},
+	{
+		"id": "stru-life",
+		"word": "Stru@Life",
+		"meaning": "生の建築、自分という構造体の構築",
+		"era": "Latin struere + Germanic life",
+		"etymology": {
+			"components": [
+				"stru (to build / pile up)",
+				"life"
+			],
+			"original_statement": "Coined during synthesis."
+		},
+		"concept": "The building process of being (存在を積み上げること。一日の歩みをレンガに変える、生の建設作業)",
+		"thinking": "「（偶然の出来事を、必然の構造へと）積み上げる（Stru-）」、その一瞬一瞬が織りなす「生命（Life）」。あなたは自分の人生を、ただ「消費（エキスペンド）」しているのではない。あなたが今日流した「涙（トーン）」も、今日手に入れた「気づき（インサイト）」も、それらすべてはあなたという不滅の「建造物（モニュメント）」を高く、強くするための、掛け替えのない「マテリアル（素材）」。生の建築。それは、あなたが死を引き受けるその瞬間まで、自分という名の「塔（タワー）」を、天に向かって一歩ずつ着実に、かつ美しく「積み上げ通す（パシスト）」という、創造者としての神聖な対決（コンピテンス）のことなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Everyday words are the anchors of our reality.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"日常という名の、驚異的な建築。"
+			]
+		}
+	},
+	{
+		"id": "deflect",
+		"word": "そらす、偏らせる、(批判などを)かわす",
+		"era": "Latin de + flectere",
+		"etymology": {
+			"components": [
+				"de- (away / down)",
+				"flectere (to bend)"
+			],
+			"original_statement": "From Latin deflectere 'to bend down / turn aside / deflect', from de- 'down / away' + flectere 'to bend'."
+		},
+		"concept": "Bending away (向こう側へ折り曲げ、そらすこと。攻撃を無効化する、理性のしなやかな盾)",
+		"thinking": "「（自分へと向かってくる刃や批判の）向きを、別の方向へと（De-）」「折り曲げて（Flect-）逃がす」。真っ向から対決（コンピテンス）して自分の「質量（ウェイト）」を傷つけるのをやめ、相手の「勢い（インペタス）」をそのまま円（サークル）を描くようにして外へと「射出（レシーヴ）」し直すこと。かわす（デフレクト）ことは、あなたが世界の「暴力」に対抗する（レジスト）手段として、正面衝突（クラッシュ）ではなく「幾何学的な旋回（ターン）」を選んだ、という理性の最も洗練された「防衛的知性」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Everyday words are the anchors of our reality.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"日常という名の、驚異的な建築。"
+			]
+		}
+	},
+	{
+		"id": "reflex",
+		"word": "反射(作用)、反射的な、(カメラ)一眼レフ",
+		"era": "Latin re + flectere",
+		"etymology": {
+			"components": [
+				"re- (back / again)",
+				"flectere (to bend)"
+			],
+			"original_statement": "From Latin reflexus 'a bending back', past participle of reflectere 'to bend back'."
+		},
+		"concept": "Back-bending (後ろへと折り曲げられ、即座に戻ること。思考をバイパスする、身体の野性的な『返球』)",
+		"thinking": "「（刺激が加わった、その瞬間に）再び、後ろへと（Re-）」「（自動的に、猛スピードで）折り返す（Flex-）」。それはあなたの「理性（ブレイン）」が考える（ポンダー）よりも早く、あなたの「肉体（マテリアル）」が宇宙の要求に対して、本能（インスティンクト）という名の「一撃（パルス）」で応えて（リスペクト）しまうこと。反射（リフレクス）とは、あなたが長年の「経験（アーカイブ）」によって鍛え上げ、一瞬で「最適解（スタンド）」へと身体を導くことができる（ファシル）、いわば肉体に受肉（エンボディ）した「高速のロゴス（論理）」そのものなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Everyday words are the anchors of our reality.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"日常という名の、驚異的な建築。"
+			]
+		}
+	},
+	{
+		"id": "genuflect",
+		"word": "ひざまずく、(片ひざをついて)敬意を表する",
+		"era": "Latin genu + flectere",
+		"etymology": {
+			"components": [
+				"genu (knee)",
+				"flectere (to bend)"
+			],
+			"original_statement": "From Ecclesiastical Latin genuflectere 'to bend the knee', from Latin genu 'knee' + flectere 'to bend'."
+		},
+		"concept": "Bending the knee (膝を折ること。自分という存在の『高さ』を捨て、大地の謙虚さへと屈服する儀式)",
+		"thinking": "「（自分の身体の最強の支柱である）膝を（Genu-）」「（対象の美を讃えるために）折り曲げる（Flect-）」。それは、あなたが自分の「主権（ステータス）」を一時的に預け（サレンダー）、世界、あるいは神という名の「巨大な真理（ユニバース）」に対して、自分を「一つの断片（フラグメント）」として謙虚に提示（アクセプト）すること。ひざまずく（ジェニュフレクト）ことは、あなたが「傲慢な屹立（スタンド）」であることをやめ、自らの「呼吸（スピリット）」を世界の「リズム」の中に沈め、最も深い場所での「接続（コネクト）」を求めた際の、魂の峻烈な身振りの謂いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Everyday words are the anchors of our reality.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"日常という名の、驚異的な建築。"
+			]
+		}
+	},
+	{
+		"id": "flect-voice",
+		"word": "Flect@Voice",
+		"meaning": "折り返される声、魂の共鳴",
+		"era": "Latin flectere + vox",
+		"etymology": {
+			"components": [
+				"flect (to bend / turn)",
+				"voice (sound / sound of god)"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "The voice that bends back (折り曲げられ、自分へと還ってくる音。言葉が引き起こす自己変容の響き)",
+		"thinking": "「（対象へと向けて放った）自らの声（Vox）が」「（人々の魂という名の壁に反射して）熱を帯び、後ろへと自分に（Flect-）」「還ってくる、という現象」。あなたが言葉を放つとき、あなたは単に「情報（データ）」を運ぶ（デリバリー）だけではない。その言葉が世界という名の空間（ネットワーク）を震わせ、形を変えて、今度は「自分は一体何者なのか（アイデンティティ）」という問いの矢となって、自らの胸（ハート）に突き刺さること。折り返される声とは、あなたが世界の「当事者」であることを思い出させ（リテイン）、言葉という名のメス（インさいシブ）によって、自分の内なる宇宙を新しく「発見（ディスカバー）」し直す、聖なるエコーのことなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Everyday words are the anchors of our reality.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"日常という名の、驚異的な建築。"
+			]
+		}
+	},
+	{
+		"id": "flex-time",
+		"word": "フレックスタイム、(時間の)柔軟な曲げ、主権ある時間",
+		"era": "Latin flectere + Germanic time",
+		"etymology": {
+			"components": [
+				"flex (to bend / loosen)",
+				"time"
+			],
+			"original_statement": "From flex (from flexible) + time."
+		},
+		"concept": "Bending the time (時間を曲げること。時計という名の冷酷な『檻』を、自らの意志でしなやかに歪める自由)",
+		"thinking": "「（四角四面の社会的な）時間（Time）」を「（自分の命のリズムに合わせて）自在に折り曲げる（Flex-）」。それは時間に「支配（コントロール）」される（フォロワー）のをやめ、自らが時間の「作者（スクライバー）」として、一日の物語を自分の「呼吸（パルス）」が最も輝く形（アスペクト）へと、しなやかに再構築（コンストラクト）すること。フレックスタイムとは、あなたが自分の「生」を、単なる「労働という名の機械的な構造（ストラクチャー）」から脱出させ、魂のための「美しい余白（グラデーション）」を取り戻した（リカヴァー）、という自律（オートノミー）の謂いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Everyday words are the anchors of our reality.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"日常という名の、驚異的な建築。"
+			]
+		}
+	},
+	{
+		"id": "reflection-less",
+		"word": "反射のない、省察のない、直感のみの、深みのない",
+		"era": "Latin re + flectere",
+		"etymology": {
+			"components": [
+				"reflection (bending back)",
+				"-less (without)"
+			],
+			"original_statement": "From reflection + -less."
+		},
+		"concept": "Without bending back (後ろへと視線を戻さないこと。光という現実にただ飲み込まれ、沈黙するという暴力)",
+		"thinking": "「（自分を振り返る、あるいは光を跳ね返す）反射（Reflection）」が「存在しない（-less）」。それは、入ってきた「刺激（インパルス）」に対して、「なぜ（ホワイ）」と問い直す（リスペクト）のをやめ、ただ全ての「外部の物語（ロゴス）」を無批判に（インセンシブル）吸い込んでしまうこと。反射なき一瞬。それは、あなたが自分の「主権（ブレイン）」を一時的に喪失（ディシーズ）し、世界という名の巨大な「影（シャドウ）」の一部として、ただそこに「物（オブジェクト）」として立ち尽くしている（スタンド）、という悲しい空白の謂いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Everyday words are the anchors of our reality.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"日常という名の、驚異的な建築。"
+			]
+		}
+	},
+	{
+		"id": "inflexible",
+		"word": "曲がらない、頑固な、(法律などが)厳格な",
+		"era": "Latin in + flectere",
+		"etymology": {
+			"components": [
+				"in- (not)",
+				"flexible (able to bend)"
+			],
+			"original_statement": "From Latin inflexibilis 'that cannot be bent / unyielding', from in- 'not' + flexibilis 'bendable'."
+		},
+		"concept": "Not able to be bent (曲げることが不可能であること。風に抗い、自らの『一本の線』を死守する不滅の硬度)",
+		"thinking": "「（周囲のどれほど強い圧力や誘惑があっても、自らを）折り曲げる（Flex-）」「ことができない、許さない（In- -ible）」。それは「硬直」ではありません。自らが信じる「唯一の真理（ドグマ）」や「自分の矜持（ステータス）」を、世界のカオス（ノイズ）に対して一ミリも「譲歩（コンセッション）」しない、という峻烈な屹立（スタンド）。頑固さ（インフレキシブル）とは、あなたが時の風化（オリビオン）に屈することを拒絶（レジスト）し、研ぎ澄まされた「一本の鋼の刃（ロゴス）」として、自らの物語を最後まで貫き通す（パシスト）、という魂の絶対的な「純度（インテリティ）」のことなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Everyday words are the anchors of our reality.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"日常という名の、驚異的な建築。"
+			]
+		}
+	},
+	{
+		"id": "circumflex",
+		"word": "曲折アクセント、(語)曲折した、包囲する曲がり",
+		"era": "Latin circum + flectere",
+		"etymology": {
+			"components": [
+				"circum- (around)",
+				"flectere (to bend)"
+			],
+			"original_statement": "From Latin circumflexus, past participle of circumflectere 'to bend around', from circum- 'around' + flectere 'to bend'."
+		},
+		"concept": "Bending around (ぐるりと周囲を折り曲げること。対象を『全包囲』するように、意味の翼を巡らせる)",
+		"thinking": "「（対象の頭上を、あるいは周囲を）ぐるり、円を描くように（Circum-）」「折り曲げる（Flex-）」。それは単なる「一本の矢」ではなく、相手という名の「一点（ドット）」を慈しむように（あるいは閉じ込めるように）、言葉という名の「傘（ドーム）」を差し掛けること。曲折（サーカムフレックス）とは、あなたが世界の「平坦（フラット）」を拒絶（レジスト）し、言葉の中に「山や谷（インフレクション）」という名の物理的な「起伏（ダイナミズム）」を創り出した際の、知性の最も「立体的な（3D）」な造形の謂いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Everyday words are the anchors of our reality.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"日常という名の、驚異的な建築。"
+			]
+		}
+	},
+	{
+		"id": "deflexion",
+		"word": "偏り、(針などの)振れ、(光の)回折",
+		"era": "Latin de + flectere",
+		"etymology": {
+			"components": [
+				"deflect (to bend away)",
+				"-ion (state / result)"
+			],
+			"original_statement": "From deflect + -ion, from Latin deflectere 'to bend aside'."
+		},
+		"concept": "The state of bending away (本来の道からそれたという事実。カオスの中から生まれる、必然的な『ズレ』)",
+		"thinking": "「（正解とされる一本道から、わずかに、あるいは大きく）外の方へと（De-）」「折り曲げられてしまった（Flex-）」「という現象（-ion）」。それは「失敗（ミシュチーフ）」ではありません。あなたが世界という名の「未知の重力（グラビティ）」と遭遇（コンタクト）し、その影響によって自分の「弾道（ベクトル）」が新しく更新（アップデート）された際の、魂の「軌跡（トラック）」の記録なのです。偏り（デフレクション）とは、あなたが「平均（コモン）」という名の安全な座標を離れ、自分だけの「固有の角度（アングル）」を手に入れた、という実存的な「偏愛（アディクション）」の謂いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Everyday words are the anchors of our reality.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"日常という名の、驚異的な建築。"
+			]
+		}
+	},
+	{
+		"id": "reflect-eye",
+		"word": "Reflect@Eye",
+		"meaning": "反射する瞳、自己を視る鏡",
+		"era": "Latin re + flectere + Germanic eye",
+		"etymology": {
+			"components": [
+				"reflect (to bend back)",
+				"eye"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "The gaze that turns back (自分の方へと折り曲げられた眼差し。他者の瞳という鏡に映る『真実の貌』)",
+		"thinking": "「（外の世界を見つめるために放たれた）視線の光（レイ）が」「（最愛の、あるいは憎き他者の瞳を鏡にして）自分の方へと（Re-）」「一気に折り曲げられて（Flect-）」「還ってきた際の、自分自身の瞳（Eye）」。他者を視ているとき、あなたは実は「自分」を視ている。他者の反応という名の「盾（ガード）」に自分の言葉が反射した際、あなたは初めて、自分がどのような「色彩（トーン）」で世界に屹立しているか（スタンド）を、冷静に（ディスタンス）インスペクト（検査）することができる。反射する瞳。それは、あなたが自らを「客観（オブジェクト）」へと変換（コンバート）し、物語の「作者」として自分を再発見し直すための、魂の最も残酷で美しい「自画像」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Everyday words are the anchors of our reality.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"日常という名の、驚異的な建築。"
+			]
+		}
+	},
+	{
+		"id": "flexed-logic",
+		"word": "Flexed@Logic",
+		"meaning": "しなやかな論理、柔軟な知性",
+		"era": "Latin flectere + Greek logos",
+		"etymology": {
+			"components": [
+				"flexed (bent / tensed / pliant)",
+				"logic (reason)"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "Pliant reason (折り曲げられた、あるいは折り曲げ可能な理路。破壊を拒む絶対の『弾力性』)",
+		"thinking": "「（硬直した（インフレキシブル）正論に陥ることなく、状況に合わせて）しなやかに折り曲げられた（Flex-）」「論理（Logic）」。それは、理論（セオリー）を現実に強要する（インペル）のをやめ、現実という名の「複雑な地形（カオス）」に合わせて、自分の思考の「形（フレーム）」を柔軟に変容（コンバート）させ、確実に「正解（ターゲット）」へと辿り着くための、知的な粘り。しなやかな論理とは、あなたが「正しさ」という名の冠を捨て、世界の「真実（ファクト）」という名の水と、完全に溶け合い（マージ）、流体として屹立（スタンド）し始めた、という最高度の理性の「自由」の謂いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Everyday words are the anchors of our reality.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"日常という名の、驚異的な建築。"
+			]
+		}
+	},
+	{
+		"id": "flect-spirit",
+		"word": "Flect@Spirit",
+		"meaning": "魂の屈折、精神の陰影",
+		"era": "Latin flectere + spiritus",
+		"etymology": {
+			"components": [
+				"flect (to bend)",
+				"spirit (breath / soul)"
+			],
+			"original_statement": "Coined during synthesis."
+		},
+		"concept": "The bending of the breath (呼吸の曲がり。直線的な生に『深み』を与える、不器用で美しい魂の曲線)",
+		"thinking": "「（透明で真っ直ぐなはずの）呼吸（Spirit）が」「（人生という名の障害物（オブスタクル）にぶつかり、あるいは自らの意志で）しなやかに、あるいは苦痛と共に折り曲げられる（Flect-）」こと。悲しみを知らぬ魂は、真っ白な光のように単調（モノトーン）です。しかし、一度「絶望（デストラクション）」という壁に当たり、その光が「屈折（インフレクション）」したとき、あなたの命には、これまで誰も視たことのなかった「深い色彩（スペクトラム）」や「美しい陰影（シャドウ）」が宿る。魂の屈折。それは、あなたが傷つくことを恐れず、世界という名の「不純（カオス）」と正面から衝突した際に生まれた、あなたという名の「唯一無二の虹」のことなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Everyday words are the anchors of our reality.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"日常という名の、驚異的な建築。"
+			]
+		}
 	}
 ];
