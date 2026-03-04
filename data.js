@@ -163474,5 +163474,423 @@ const WORDS = [
 				"日常に潜む、壮大な語源。"
 			]
 		}
+	},
+	{
+		"id": "spectator",
+		"word": "Spectator",
+		"meaning": "観客、見物人、目撃者",
+		"era": "Latin spectare",
+		"etymology": {
+			"components": [
+				"spectare (to look at / watch)",
+				"-or (one who)"
+			],
+			"original_statement": "From Latin spectator 'an observer / watcher', from spectare 'to view / watch', frequentative of specere 'to look'."
+		},
+		"concept": "One who watches (視る者。舞台という名のカオスを、安全な場所から消費する人)",
+		"thinking": "「（世界という劇場を）じっと見つめる（Spect-）」「者（-ator）」。自らは物理的な痛みを負わず（アシスト）、ただ視界（ビジョン）に入る「快感や恐怖」を情報の断片として受け取る（レシーヴ）存在。観客（スペクテイター）とは、あなたが物語の「当事者」であることを一瞬保留（ホールド）し、世界を「客観的な法則（ロゴス）」として、あるいは「一時の娯楽（エンターテインメント）」として距離を保って注視している、という静かなる特権の謂いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Everyday words are the windows to history.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"日常に潜む、知性の眼差し。"
+			]
+		}
+	},
+	{
+		"id": "spectrum",
+		"word": "Spectrum",
+		"meaning": "スペクトル、範囲、(連なりの中の)ある一色",
+		"era": "Latin specere",
+		"etymology": {
+			"components": [
+				"specere (to look / see)"
+			],
+			"original_statement": "From Latin spectrum 'an appearance / image / apparition / specter', from specere 'to look'."
+		},
+		"concept": "Appearance / Image (視えるもの、あるいは幻。光が分解されて屹立する階層の連なり)",
+		"thinking": "「視える（Spec-）」という「形（-trum）」。光という名の「一つの真理（ユニバース）」が、プリズムという名の「知性のフィルター」を通ったとき、それが虹という名の「無数の階層（グレード）」へと分光され、目の前に「美しき階段（シーケンス）」として屹立（スタンド）すること。範囲（スペクトラム）とは、白黒（ゼロイチ）ではない広大な「あわい（グラデーション）」の中に、あなた自身の「今、ここ、この色」を再発見するための、宇宙の広大なカラーチャート（地図）なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Everyday words are the windows to history.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"日常に潜む、知性の眼差し。"
+			]
+		}
+	},
+	{
+		"id": "special",
+		"word": "特別な、特有の、大事な",
+		"era": "Latin specere",
+		"etymology": {
+			"components": [
+				"species (kind / appearance)",
+				"specere (to look)"
+			],
+			"original_statement": "From Old French special, from Latin specialis 'individual / particular', from species 'kind / sort / appearance', from specere 'to look'."
+		},
+		"concept": "Particular appearance (独特の外見。他と混ざり合わぬ、唯一無二の『屹立』)",
+		"thinking": "「一目でそれだと視（Spec-）」「分けることができるほどの、際立った形（-ial）」。その他大勢（コモン）という名のカオスの中に埋もれることなく、独自の「色彩（トーン）」や「固有の重量（ウェイト）」を持って、世界という舞台の中央にポツリと、しかし堂々と屹立していること。特別さ（スペシャル）とは、あなたが誰かの「フォロワー（追随者）」であることをやめ、自らの「存在（エグジスト）」そのものを一つの「法則（ロゴス）」へと昇華させた際の、その気高い「孤独」の別名なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Everyday words are the windows to history.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"日常に潜む、知性の眼差し。"
+			]
+		}
+	},
+	{
+		"id": "perspicacious",
+		"word": "洞察力のある、明敏な、眼力の鋭い",
+		"era": "Latin per + specere",
+		"etymology": {
+			"components": [
+				"per- (through)",
+				"specere (to look)"
+			],
+			"original_statement": "From Latin perspicax 'sharp-sighted / penetrating', from perspicere 'to look through / examine', from per- 'through' + specere 'to look'."
+		},
+		"concept": "Looking through (透かし視ること。闇を貫き、不変の『中心核』を射止める瞳)",
+		"thinking": "「（混乱や嘘という名の分厚い壁を）完全に貫いて（Per-）」「（その奥にある本質を）視る（Spec-）」という「卓越した能力（-acious）」。表面の「貌（アスペクト）」に目を奪われず、その事象を司っている「中心的な重力（サブスタンス）」を一気に射抜くこと。洞察（パースピケイシャス）とは、あなたが「情報の量（ボリューム）」に溺れるのをやめ、世界という名のパズルの中から、たった一つの「解（ソース）」という名の鍵を、一瞬で見つけ出した（ディスカバー）際の、知性の冷たい輝きのことなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Everyday words are the windows to history.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"日常に潜む、知性の眼差し。"
+			]
+		}
+	},
+	{
+		"id": "spec-voice",
+		"word": "Spec@Voice",
+		"meaning": "視覚化された声、真実を射抜く言葉",
+		"era": "Latin specere + vox",
+		"etymology": {
+			"components": [
+				"spec (to look / reveal)",
+				"voice (sound / utterance)"
+			],
+			"original_statement": "Coined during synthesis."
+		},
+		"concept": "The revealing sound (曝け出された音。聴く者を『立ち尽くさせる』ほどの強烈な真実の重み)",
+		"thinking": "「（心の中に隠された闇を）白日の下に視えるようにする（Spec-）」「（一撃の）声（Vox）」。ただの「おしゃべり（チャット）」ではない。放たれた瞬間、周囲の「沈黙」を物理的に引き裂き（デシジョン）、そこにいる人々の理性を一瞬で「静止（スタンド）」させ、その出来事の「最も重い核（サブスタンス）」を強制的に人々の瞳に焼き付けてしまう、予言的な旋律。視覚化された声とは、あなたが自分の「呼吸（ブレス）」を「一筋の光（ビーム）」へと練り上げ、世界の「嘘（イリュージョン）」を一瞬で蒸発（ディスペル）させてしまった際の、魂の最も峻烈な「叫び（エキスペル）」のことなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Everyday words are the windows to history.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"日常に潜む、知性の眼差し。"
+			]
+		}
+	},
+	{
+		"id": "dictator",
+		"word": "独裁者、支配者",
+		"era": "Latin dictare",
+		"etymology": {
+			"components": [
+				"dict (to tell / order)",
+				"-ator (one who)"
+			],
+			"original_statement": "From Latin dictator 'a person exercising absolute authority', originally a title for a magistrate given power in emergencies, from dictare 'to repeat / suggest / dictate', frequentative of dicere 'to say'."
+		},
+		"concept": "One who dictates (命令を語る者。自分の声を、唯一の『法律（ロゴス）』へと暴力的に変換する人)",
+		"thinking": "「（自分のわがままを、命令という形で）何度も語り聞かせる（Dicta-）」「者（-tor）」。他者との「対話（ダイアローグ）」や「合流（コンカレンス）」を拒絶し、自分という一人の「喉（ヴォックス）」から放たれる「震え（パルス）」だけで、世界全体の「色彩（トーン）」や「法則」を決定（ディサイド）しようとすること。独裁者（ディクテイター）とは、あなたが「一人の共同体のメンバー」であることをやめ、自らの「呼吸（スピリット）」を宇宙そのものの「命令（コマンド）」へと無理やり同化させようとする、理性の最も肥大した孤独な「狂気」の謂いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Everyday words are the windows to history.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"日常に潜む、知性の眼差し。"
+			]
+		}
+	},
+	{
+		"id": "edict",
+		"word": "勅令、法令、公示",
+		"era": "Latin ex + dicere",
+		"etymology": {
+			"components": [
+				"e- / ex- (out)",
+				"dict (to say / tell)"
+			],
+			"original_statement": "From Latin edictum 'proclamation / ordinance / edict', from edicere 'to publish / proclaim', from e- 'out' + dicere 'to say'."
+		},
+		"concept": "Telling out (外へと語り出すこと。内なる決定を、世界の不動の『枠組み』として曝け出す宣戦)",
+		"thinking": "「（密室での決定を）外の世界へと（Ex-）」「（遮るものなく）語り放つ（Dict-）」。ただの「つぶやき（レシーヴ）」ではない。それは放たれた瞬間、すべての国民、すべての事象に対して「このように在れ（Be as such）」という峻烈な「型（スクリプト）」を授け、逃れようのない「物理的な重圧（サーカムスタンス）」を創り上げてしまう、言葉による「世界開闢」。勅令（エディクト）とは、一人の「主権（オーナー）」の意志が、文字（スクリプト）という翼（ウィング）を得て、広大な大地全域を「支配（コントロール）」し始めた瞬間の、冷酷で美しい「ロゴス」の爆発なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Everyday words are the windows to history.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"日常に潜む、知性の眼差し。"
+			]
+		}
+	},
+	{
+		"id": "indict",
+		"word": "起訴する、告発する",
+		"era": "Latin in + dicere",
+		"etymology": {
+			"components": [
+				"in- (against / in)",
+				"dict (to say / write)"
+			],
+			"original_statement": "From Anglo-French enditer, from Old French enditer 'to dictate / write / accuse', from Latin indicere 'to proclaim / declare', or from in- 'against' + dictare 'to suggest / write'."
+		},
+		"concept": "Proclaiming against (誰かに対して高らかに告げること。言葉を刃に変えて、罪を暴き出す攻撃)",
+		"thinking": "「（罪を犯したとされる者の）目の前に（In-）」「（お前の罪を）語り、宣告する（Dict-）」。それは単なる「悪口（ディスパイズ）」ではなく、社会という名の「法（ロゴス）」に基づき、相手の現在という名の「立場（スタンド）」を「不当なもの」として公的に定義し直す（リミット）、知的な一撃。起訴（インダイト）とは、あなたが沈黙という名の共犯を拒絶（レジスト）し、言葉という名の「光（インスペクト）」を使い、隠された汚濁（ミシュチーフ）を世界の裁壇（ペデスタル）の上に引きずり出した（エキストラクト）際の、勇気ある「宣告（プロクラメーション）」の謂いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Everyday words are the windows to history.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"日常に潜む、知性の眼差し。"
+			]
+		}
+	},
+	{
+		"id": "diction",
+		"word": "言葉遣い、用語の選択、発声法",
+		"era": "Latin dicere",
+		"etymology": {
+			"components": [
+				"dict (to say / tell)",
+				"-ion (act / state)"
+			],
+			"original_statement": "From Latin dictio 'a saying / expression / word', from dictus, past participle of dicere 'to say'."
+		},
+		"concept": "The act of telling (語ること、そのもの。思考という名のカオスを、音へと結晶化させる技法)",
+		"thinking": "「語る（Dict-）」という「行為、あるいは品質（-ion）」。あなたがどんな「言葉（ワード）」を選び、それをどのような「強さ（ウェイト）」や「響き（トーン）」で世界へと放つ（デリバリー）か。ディクション（言葉遣い）とは、単なる規則（文法）ではなく、あなたという人間の「内なる美学」が、唯一の「自分という名の楽器」を通して、世界という空間に刻み込もうとしている「生の手触り（センス）」、そのもののことなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Everyday words are the windows to history.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"日常に潜む、知性の眼差し。"
+			]
+		}
+	},
+	{
+		"id": "malediction",
+		"word": "呪い、悪口、中傷",
+		"era": "Latin male + dicere",
+		"etymology": {
+			"components": [
+				"male (badly)",
+				"dict (to say / tell)"
+			],
+			"original_statement": "From Late Latin maledictio 'a curse', from maledicere 'to speak ill of / curse', from male 'badly' + dicere 'to say'."
+		},
+		"concept": "Telling badly (悪く語ること。言葉に『毒』を乗せ、相手の生を内側から腐らせる呪縛)",
+		"thinking": "「（相手の最も深く、柔らかい場所に対して）悪いこと、醜きことを（Male-）」「（執拗に、あるいは冷酷に）語る（Dict-）」。それは相手の存在という名の「尊厳（ステータス）」を言葉によって物理的に「汚染（インフェクト）」し、相手の立ち位置（スタンド）を「崩壊（カオス）」へと導こうとする、最も卑小で破壊的な「逆の創造（デストラクション）」。呪い（マレディクション）とは、あなたが自らの「声（ヴォックス）」を、他者の魂を貫く「黒い棘（スティグマ）」へと研ぎ澄ませ、世界を憎しみという名の「重圧（プレッシャー）」で満たそうとした際の、理性の最も暗い「咆哮（エキスペル）」のことなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Everyday words are the windows to history.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"日常に潜む、知性の眼差し。"
+			]
+		}
+	},
+	{
+		"id": "abdicate",
+		"word": "退位する、見捨てる、(権利などを)放棄する",
+		"era": "Latin ab + dicare",
+		"etymology": {
+			"components": [
+				"ab- (away / from)",
+				"dicare (to proclaim)"
+			],
+			"original_statement": "From Latin abdicatus, past participle of abdicare 'to renounce / reject / disown', originally 'to proclaim away from oneself', from ab- 'away' + dicare 'to proclaim / declare'."
+		},
+		"concept": "Proclaiming away (自分を遠ざけることを宣言する。絶対的な主権という名の『冠』を自ら脱ぎ捨てること)",
+		"thinking": "「（今まで自分を支えていた最高の地位や権利）から（Ab-）」「（私はもうそこには居ない、と）高らかに宣言する（Dicate-）」。それは、他者に奪われる（ディシーズ）のを待つのではなく、自らの主権（パワー）によって「自分という物語の主人公であること」を一旦終了させ、名もなき「一人の人間、あるいは沈黙（サイレンス）」へと自らを返還（リターン）すること。退位（アブディケート）とは、あなたが自分の「立場（スタンド）」を、自らの最高度の知的な決断（ディサイド）によって空位にする、という最も峻烈で最も自由な「自己否定（リセッション）」の謂いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Everyday words are the windows to history.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"日常に潜む、知性の眼差し。"
+			]
+		}
+	},
+	{
+		"id": "dicta-life",
+		"word": "Dicta@Life",
+		"meaning": "生の宣言、存在の打刻",
+		"era": "Latin dictare + Germanic life",
+		"etymology": {
+			"components": [
+				"dicta (things said / orders)",
+				"life"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "The command of being (存在そのものが放つ命令。自分はこのように生きるのだ、という不退転の響き)",
+		"thinking": "「（昨日までの迷いを断ち切って）命（Life）そのものが放つ」「（宇宙への）絶対的な命令、あるいは宣言（Dicta-）」。それは単なる「独り言」ではない。あなたがその一歩を踏み出し、その言葉を放った瞬間、もはや「昨日までの自分」には戻れない（レジストできない）ほど、現実の風景があなたを中心に「新しく結晶化（コンシグニファイ）」し始めること。生の宣言（ディクタ・ライフ）とは、あなたが自分の運命を他者に委ねる（アディクト）のをやめ、自らの「声（ヴォックス）」を宇宙の「唯一の正義（ロゴス）」として、この荒野に高らかに響かせた、その勝利の瞬間の震えのことなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Everyday words are the windows to history.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"日常に潜む、知性の眼差し。"
+			]
+		}
+	},
+	{
+		"id": "portion",
+		"word": "部分、分け前、(1人分の)料理、運命",
+		"era": "Latin portare",
+		"etymology": {
+			"components": [
+				"portare (to provide / carry)",
+				"pars (part)"
+			],
+			"original_statement": "From Old French porcion, from Latin portionem 'a part / share', related to parare 'to prepare' and portare 'to provide / bring forward'."
+		},
+		"concept": "A shared part (運ばれてきた分け前。全体の中から自分だけに授けられた、一回きりの『重み』)",
+		"thinking": "「（宇宙という巨大な富から、一人の皿の上へと）運ばれてきた（Port-）」「分け前、断片（-ion）」。それはあなたの権利（ステータス）であると同時に、あなただけに与えられた「宿命（デスティニー）」でもある。他者の持っている「分け前（ポーション）」を羨むのをやめ、自分の皿の上にデリバリーされたその「一欠片の生」を、どれほど深く咀嚼（フィール）し、どれほど美しく「屹立（スタンド）」させるか。部分（ポーション）とは、あなたが巨大な全体（ユニバース）の一部であることを思い出すための、神聖な「配給（ディスペンセーション）」の謂いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Everyday words are the windows to history.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"日常に潜む、知性の眼差し。"
+			]
+		}
+	},
+	{
+		"id": "portent",
+		"word": "予兆、前兆、驚くべきもの",
+		"era": "Latin pro + tendere",
+		"etymology": {
+			"components": [
+				"pro- (forward)",
+				"tendere (to stretch)"
+			],
+			"original_statement": "From Latin portentum 'a sign / omen / monster / marvelous thing', literally 'that which is stretched out before', from portendere 'to presage / foretell', from pro- 'forward' + tendere 'to stretch / hold out'. Often associated with 'carrying (port-)' a message from the future."
+		},
+		"concept": "Stretching out before (前方に差し出されたもの。未来という名の地平線から、今へとしなる『影の触手』)",
+		"thinking": "「（未来という真っ暗な森から）こちらへと（Pro-）」「（警告や期待という名の腕を）差し出す、伸ばす（Tendere / Port-）」。それはまだ言葉（ロゴス）にはなっていない（インセンシブル）。しかし、あなたの皮膚（センス）は、その不気味で美しい「驚き（マーベル）」を予感（プレゼンティメント）し、あなたの呼吸（ブレス）を一時的に静止（ストップ）させる。予兆（ポーテント）とは、世界があなたに対して「これから起きるべき物語」の予告編を、物理的な「震え（パルス）」として一足先にデリバリーしてきた、という運命の不敵な「挨拶（コンタクト）」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Everyday words are the windows to history.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"日常に潜む、知性の眼差し。"
+			]
+		}
+	},
+	{
+		"id": "opportune",
+		"word": "適切な、好都合な、時宜を得た",
+		"era": "Latin ob + portus",
+		"etymology": {
+			"components": [
+				"ob- (toward)",
+				"portus (port / harbor)"
+			],
+			"original_statement": "From Latin opportunus 'favorable / convenient / suitable', originally '(of wind) blowing toward the port', from ob- 'toward' + portus 'port / harbor'."
+		},
+		"concept": "Toward the port (港に向かう風。迷える自分を、安らぎと成功の『岸辺』へと運んでくれる慈悲)",
+		"thinking": "「（嵐の真っ只中で、救いという名の）港（Portus）に」「（自分を乗せた船を）真っ直ぐに運んでくれるような、前方への向き（Ob-）」。あなたが自分の力で必死に漕ぐ（マニューバー）のをやめたとき、宇宙がふと、「ここだよ」と正しい方向へ向かう「風（スピリット）」を吹かせてくれる、その奇跡的なタイミング。好都合（オポチュン）とは、あなたの「意志（プロスペクト）」と世界の「リズム（パルス）」が、一点の狂いもなく噛み合い（コンカレンス）、あなたがただ「流れ（フロー）」に身を任せるだけで正しい目的地（ゴール）へと屹立できる、という最も幸福な時間の贈り物のことなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Everyday words are the windows to history.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"日常に潜む、知性の眼差し。"
+			]
+		}
+	},
+	{
+		"id": "purport",
+		"word": "……と称する、意味する、意味(名詞)",
+		"era": "Latin pro + portare",
+		"etymology": {
+			"components": [
+				"pro- (forth / forward)",
+				"portare (to carry)"
+			],
+			"original_statement": "From Old French purporter 'to contain / involve / signify', from pur- (pro-) 'forth' + porter 'to carry', from Latin portare 'to carry'."
+		},
+		"concept": "Carrying forth (前方へ運び出すこと。言葉の表面が、その内側に『何を運んでいるか』という真意)",
+		"thinking": "「（語られた言葉が、自分の身体の）前方へと（Pro-）」「運び出そうとしている、重み（Portare）」。それは直接的な定義（ディクショナリー）ではなく、その響き（トーン）や文脈（コンテクスト）の中に隠されて（コンテイン）いる、話し手の「真の目的（メイン）」や「意図（インテンション）」。主旨（パーポート）とは、あなたが情報の枝葉を捨て去り、その言葉が最終的に「どこを目的地（ターゲット）として、何を物理的に変えようとしているか」という、言葉の持っている「弾道（ベクトル）」そのものの谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Everyday words are the windows to history.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"日常に潜む、知性の眼差し。"
+			]
+		}
+	},
+	{
+		"id": "portugal",
+		"word": "ポルトガル",
+		"era": "Latin portus + Cale",
+		"etymology": {
+			"components": [
+				"portus (port / harbor)",
+				"Cale (ancient city name)"
+			],
+			"original_statement": "From Medieval Latin Portus Cale 'Port of Cale' (the modern city of Porto)."
+		},
+		"concept": "The harbor city (港の街。あらゆる物語が海へと運ばれ、世界へと拡散していく『出発の定点』)",
+		"thinking": "「（未知への扉である）港（Portus）」の「土地」。そこは大地の終わりであり、同時に宇宙へと開かれた「最初の一歩（パイオニア）」の場所。ポルトガルとは、単なる「国名」ではなく、あなたが自分の「閉じた安寧（ステーション）」を捨て、自分の質量（ウェイト）を未知の波へと預けて、世界という名の「大きな海（ユニバース）」の中へと、自分を「運び出す（エクスポート）」という、人類の越境の意志が刻まれた、地図上の「聖なるゲート（門）」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Everyday words are the windows to history.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"日常に潜む、知性の眼差し。"
+			]
+		}
+	},
+	{
+		"id": "port-spirit",
+		"word": "Port@Spirit",
+		"meaning": "魂の港、安らぎと出立の地",
+		"era": "Latin portus + spiritus",
+		"etymology": {
+			"components": [
+				"port (harbor / gate)",
+				"spirit (breath / soul)"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "The harbor for the breath (呼吸を安らわせ、また新たな旅へと送り出す、魂の『聖なる停留所』)",
+		"thinking": "「（彷徨える、傷ついたあなたの）呼吸（Spirit）が」「（嵐を逃れて）辿り着き、静止（スタンド）できる、安らぎの港（Port）」。それは特定の場所ではなく、あなたを無条件に肯定（イエス）し、あなたの存在という名の船に、再び「未来を夢見る（プロスペクト）」ための「燃料（インスパイア）」を補給（サポート）してくれる、誰かの瞳や、あるいは一冊の本（スクリプト）のこと。魂の港。そこは、あなたが「旅路の苦しみ」を捨て去り、再び自分という名の「最高の贈り物（ギフト）」を世界へ向けて「運び出す（エクスポート）」ための、再生という名の「静かなる旋回（ターン）」の場所なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Everyday words are the windows to history.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"日常に潜む、知性の眼差し。"
+			]
+		}
 	}
 ];
