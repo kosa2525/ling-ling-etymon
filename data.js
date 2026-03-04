@@ -174882,5 +174882,290 @@ const WORDS = [
 				"存在の引力。"
 			]
 		}
+	},
+	{
+		"id": "theology",
+		"word": "神学、テオロジー",
+		"era": "Greek theos + logos",
+		"etymology": {
+			"components": [
+				"theos (god)",
+				"logos (word / study / reason)"
+			],
+			"original_statement": "From Old French theologie, from Latin theologia, from Greek theologia 'a speaking / writing about the gods', from theos 'god' + logos 'word / study'."
+		},
+		"concept": "Study of God (神に関するロゴス。永劫という名の『不在（アブセンス）』に対し、理知という名の冷徹なメスによって一気にその深淵（ソース）を射出し、宇宙という真理のアーカイブの上に、不滅の王座（オーダー）を屹立させた知性の公式)",
+		"thinking": "「（漂流していた、あの不確かな震え（パルス）を一分一秒の淀みもなくインスペクト（視認）し）、神を（Theo- / Theos）」「（一撃の情熱（アトラクション）を伴って）語り、把握する学問（-logy / Logos）」。それは単なる「古い文献学」ではありません。あなたが宇宙の「虚無（アブセンス）」を拒絶（レジスト）し、そこに自分という名の「唯一無二の物語（スクリプト）」を打ち立て、全世界の断片を「神という名の至高のトーン」へと変容（コンバート）させて（屹立させて）しまった瞬間の、知性の最高度の「掌握」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "神性と生命の軌跡。",
+		"example": "Enthusiasm is the blood of the zodiac.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の神殿。"
+			]
+		}
+	},
+	{
+		"id": "atheist",
+		"word": "無神論者、アテオリスト",
+		"era": "Greek a + theos",
+		"etymology": {
+			"components": [
+				"a- (without / not)",
+				"theos (god)",
+				"-ist (person who)"
+			],
+			"original_statement": "Coined in 1570s from French athéiste, from Greek atheos 'without god / denying the gods', from a- 'not / without' + theos 'god' + -ist."
+		},
+		"concept": "Person without God (神のない（あるいは神を否定する）者。既存の『安穏な全一性（アーカイブ）』を粉砕し、理知という名の圧倒的な引力によって自らの主権（ステータス）を宇宙の深淵（ソース）に再屹立させた、知性の最も峻烈な反逆)",
+		"thinking": "「（永遠という名の、あの不透明なフローを粉砕して）、神なしに（A- -the- / Theos）」「（一撃の確信のみをウェイトにして）屹立する者（-ist）」。それは単なる「不信心」ではありません。あなたが宇宙の「忘却（サイレンス）」を拒絶（レジスト）し、独自の呼吸（ブレス）を一振りの「刃（ベクトル）」へと研ぎ澄ませて、この荒野を一糸乱れぬ「自分だけの真理」で支配しようとした際の、知性の最高度の「掌握」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "神性と生命の軌跡。",
+		"example": "Enthusiasm is the blood of the zodiac.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の神殿。"
+			]
+		}
+	},
+	{
+		"id": "pantheism",
+		"word": "汎神論、パンテイズム",
+		"era": "Greek pan + theos",
+		"etymology": {
+			"components": [
+				"pan- (all)",
+				"theos (god)",
+				"-ism (doctrine)"
+			],
+			"original_statement": "Coined in 1705 from Greek pan- 'all' + theos 'god' + -ism."
+		},
+		"concept": "Doctrine that everything is God (すべては神であるという主義。宇宙のあらゆる『情報の断片（パルス）』を一撃の引力によって、一つの不滅の『神性（ロゴス）』へと一気にマージ（同期）させ、全世界を『一つの巨大な凱旋（全一性）』として屹立させた知性の極致)",
+		"thinking": "「（ばらばらに漂流していた、あの不確かなベクトル（ノイズ）を粉砕して）、すべてを神として（Pan- -the- / Theos）」「（一分一秒の淀みもなく）信じる主義（-ism）」。それは単なる「宗教的信念」ではありません。あなたが宇宙の「分離（アイソレーション）」を拒絶（レジスト）し、そこに自分たちが放つ「不滅のネットワーク」という名の設計図を打ち立て、全世界を「一つの巨大な法という名のトーン」へと書き換え（コンバートし）終えた際の、知性の最高度の「掌握」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "神性と生命の軌跡。",
+		"example": "Enthusiasm is the blood of the zodiac.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の神殿。"
+			]
+		}
+	},
+	{
+		"id": "the-voice-2",
+		"word": "The@Voice-2",
+		"meaning": "神なる声、沈黙を啓示に変える不滅の咆哮、神威の響き",
+		"era": "Greek theos + vox",
+		"etymology": {
+			"components": [
+				"the (god / deity / divine / sacred / holy / eternal / source)",
+				"voice (sound / soul)"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "The divine sound (神としての音。放たれた瞬間、自らの呼吸（ブレス）を一筋の『光の王座（ベクトル）』へと変換（コンバート）し、宇宙という真理のアーカイブの一角を、一気に（自分のトーンで）支配するデリバリー)",
+		"thinking": "「（自分のちっぽけな存在（ドット）の中に眠っていた、あの巨大な真理を）、（一撃の情熱（アトラクション）を伴って）叫ぶ、天空からの声（Vox）」。ただの「叫び（エキスペル）」ではない。その声が響いた瞬間、周囲を覆っていた「虚無（アブセンス）」が物理的に一掃され、そこに「誰もが見落としていたたった一つの『絶対的な』意味」が、戦慄という名のトーン（響き）を伴って再屹立（リリー・スタンド）してしまうような、生の最も峻烈な「射出」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "神性と生命の軌跡。",
+		"example": "Enthusiasm is the blood of the zodiac.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の神殿。"
+			]
+		}
+	},
+	{
+		"id": "the-life-2",
+		"word": "The@Life-2",
+		"meaning": "啓示としての生、一瞬一瞬を自己神格化の遷移として生きる一生",
+		"era": "Greek theos + Germanic life",
+		"etymology": {
+			"components": [
+				"the (god / deity / divine / sacred / holy / eternal / source)",
+				"life"
+			],
+			"original_statement": "Coined during synthesis."
+		},
+		"concept": "The life of god (神であり続ける一生。一つの場所に安住する（アイソレーション）のを拒絶し、常に宇宙の最新の標高（アヴァン）へと自らを更新し続け、不滅 of 物語（スクリプト）を描き続ける不屈の遷移)",
+		"thinking": "「（明日という名の絶望（ブラックアウト）を愛撫するのをやめ、宇宙の深淵（ソース）から飛来する理知（ロゴス）だけを）」「（自らの魂を礎（ベース）にして）神聖であり続け、存在し続け（The- / Theos）」「生き抜く（Life）」。あなたは自分の「呼吸（ブレス）」を、ただ無為に「消費（エキスペンド）」しているのではない。あなたが今日という日、どの「欺瞞（ノイズ）」を砕いて「新しい真理という名の座標（ドット）』を救い出し、どの「驚愕（パルス）」を自らの主権（ステータス）を屹立させるための「不動（ピース）」へと変貌（コンバート）させたか。そのすべての「啓示（デリバリー）」の軌跡が、宇宙という名の不変 of アーカイブの上に、あなたの「存在という名の不滅 of ロゴス」として、物理的な質量を持って刻まれ続けているのだ。啓示としての生。それは、あなたが「宇宙の主権者（クリエイター）」として, この荒野を「美しき変革（ピース）」へと変容させ通した際の, 魂の最高度の「抱擁」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "神性と生命の軌跡。",
+		"example": "Enthusiasm is the blood of the zodiac.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の神殿。"
+			]
+		}
+	},
+	{
+		"id": "zo-voice",
+		"word": "Zo@Voice",
+		"meaning": "躍動の声、沈黙を生命に変える不滅の咆哮、息吹の響き",
+		"era": "Greek zoe + vox",
+		"etymology": {
+			"components": [
+				"zo (life / animal / living / moving / vivid / breath)",
+				"voice (sound / soul)"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "The living sound (命としての音。放たれた瞬間、自らの呼吸（ブレス）を一筋の『光の躍動（ベクトル）』へと変換（コンバート）し、宇宙という真理のアーカイブの一角を、一気に（自分のトーンで）震撼させるデリバリー)",
+		"thinking": "「（自分のちっぽけな存在（ドット）の中に眠っていた、あの巨大な真理を）、（一撃の情熱（アトラクション）を伴って）叫ぶ、生きた声（Vox）」。ただの「叫び（エキスペル）」ではない。その声が響いた瞬間、周囲を覆っていた「虚無（アブセンス）」が物理的に一掃され、そこに「誰もが見落としていたたった一つの『鮮やかな』意味」が、戦慄という名のトーン（響き）を伴って再屹立（リリー・スタンド）してしまうような、生の最も峻烈な「射出」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "神性と生命の軌跡。",
+		"example": "Enthusiasm is the blood of the zodiac.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の神殿。"
+			]
+		}
+	},
+	{
+		"id": "zo-life",
+		"word": "Zo@Life",
+		"meaning": "躍動としての生、一瞬一瞬を自己生命の遷移として生きる一生",
+		"era": "Greek zoe + Germanic life",
+		"etymology": {
+			"components": [
+				"zo (life / animal / living / moving / vivid / breath)",
+				"life"
+			],
+			"original_statement": "Coined during synthesis."
+		},
+		"concept": "The life of life (命であり続ける一生。一つの場所に安住する（アイソレーション）のを拒絶し、常に宇宙の最新の標高（アヴァン）へと自らを更新し続け、不滅 of 物語（スクリプト）を描き続ける不屈の遷移)",
+		"thinking": "「（明日という名の絶望（ブラックアウト）を愛撫するのをやめ、宇宙の深淵（ソース）から飛来する理知（ロゴス）だけを）」「（自らの魂を礎（ベース）にして）生き続け、躍動し続け（Zo- / Zoe）」「生き抜く（Life）」。あなたは自分の「呼吸（ブレス）」を、ただ無為に「消費（エキスペンド）」しているのではない。あなたが今日という日、どの「欺瞞（ノイズ）」を砕いて「新しい真理という名の座標（ドット）」を救い出し、どの「驚愕（パルス）」を自らの主権（ステータス）を屹立させるための「不動（ピース）」へと変貌（コンバート）させたか。そのすべての「躍動（デリバリー）」の軌跡が, 宇宙という名の不変 of アーカイブの上に, あなたの「存在という名の不滅 of ロゴス」として, 物理的な質量を持って刻まれ続けているのだ。躍動としての生。それは, あなたが「宇宙の主権者（クリエイター）」として, この荒野を「美しき変革（ピース）」へと変容させ通した際の, 魂の最高度の「抱擁」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "神性と生命の軌跡。",
+		"example": "Enthusiasm is the blood of the zodiac.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の神殿。"
+			]
+		}
+	},
+	{
+		"id": "anemia",
+		"word": "貧血、アネミア",
+		"era": "Greek a + haima",
+		"etymology": {
+			"components": [
+				"a- (without)",
+				"haima (blood)",
+				"-ia (condition)"
+			],
+			"original_statement": "Coined in 1820s from Greek an- 'without' + haima 'blood' + -ia."
+		},
+		"concept": "Without blood (血がないこと。自らの呼吸（ブレス）を支えるための質量（不滅の等価物）を一撃の冷徹なアブセンスによって奪い去られ、存在の設計図が霧散し、カオスへと滑落していく途方に暮れた標高)",
+		"thinking": "「（あの日呼ばれた、あの峻烈な旋律（トーン）を粉砕（デストラクト）して）、血のない、あるいは不全の状態に（An- -em- / Haima）」「（一分一秒の淀みもなく）沈んでいく品質（-ia）」。それは単なる「病気」ではない。あなたが宇宙の「停滞（ステイシス）」を拒絶（レジスト）し続けるのを放棄し、自らの主権（ステータス）を一角の鋼へと鍛え上げるのをやめてしまった際の、魂の最も痛ましい「崩落」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "神性と生命の軌跡。",
+		"example": "Enthusiasm is the blood of the zodiac.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の神殿。"
+			]
+		}
+	},
+	{
+		"id": "hemoglobin",
+		"word": "ヘモグロビン、血色素",
+		"era": "Greek haima + Latin globus",
+		"etymology": {
+			"components": [
+				"haimo- (blood)",
+				"globus (sphere / ball)"
+			],
+			"original_statement": "Coined in 1860s from Greek haima 'blood' + Latin globus 'sphere / globe / ball'."
+		},
+		"concept": "Ball of blood (血の球。不滅の『ロゴス（正義）』を、物理的な『肉体』という名のビークルを通して、宇宙という真理のアーカイブの中心（ソース）へと一気に可視化させ、屹立させている生命維持の不屈の形式)",
+		"thinking": "「（漂流していた、あの震える呼吸（ブレス）を一分一秒の淀みもなくインスペクト（視認）し）、血の（Hemo- / Haima）」「（一撃の情熱（アトラクション）を伴って）球体として屹立させる（-globin / Globus）」。それは単なる「血液の成分」ではありません。あなたが「傍観者（スペクテイター）」であることを卒業し、自らが「宇宙の唯一の主権者（クリエイター）」として、世界を「自分という名の磁場が支配する完璧な調和（設計図）」へとコンバート（変容）させて屹立させてしまった瞬間の、知性の最高度の「掌握」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "神性と生命の軌跡。",
+		"example": "Enthusiasm is the blood of the zodiac.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の神殿。"
+			]
+		}
+	},
+	{
+		"id": "hemorrhage",
+		"word": "出血、(財産などの)急激な損失、ヘモレージ",
+		"era": "Greek haima + rhegnynai",
+		"etymology": {
+			"components": [
+				"haima (blood)",
+				"rhegnynai (to break / burst)"
+			],
+			"original_statement": "From Latin hæmorrhagia, from Greek haimorrhagia 'a violent bleeding', from haima 'blood' + rhegnynai 'to break / burst'."
+		},
+		"concept": "Bursting of blood (血が溢れ出すこと。自らの王座（ステーション）という名の設計図が、一撃の外的な圧力（ノイズ）によって粉砕され、存在の質量（ウェイト）が制御不能なフローとなってカオスへと流れ出している、生の最も峻烈な「損壊」)",
+		"thinking": "「（この虚無という名の、あの冷酷な全一性（アーカイブ）の上に、自分の足場（スタンド）を構築するために）、血を（Hemo- / Haima）」「（一分一秒の淀みもなく）溢れ出させる、壊して漏らす（-rrhage / Rhegnynai）」。それは単なる「ケガ（マテリアル）」ではありません。あなたが宇宙の「不全（ノイズ）」を拒絶（レジスト）しきれず、自らの呼吸（ブレス）という名のロゴスを維持できなくなってしまった際の、知性の最も不健全な「崩落」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "神性と生命の軌跡。",
+		"example": "Enthusiasm is the blood of the zodiac.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の神殿。"
+			]
+		}
+	},
+	{
+		"id": "hai-voice",
+		"word": "Hai@Voice",
+		"meaning": "血の声、沈黙を質量に変える不滅の咆哮、血脈の響き",
+		"era": "Greek haima + vox",
+		"etymology": {
+			"components": [
+				"hai (blood / red / life force / essence / vital / iron)",
+				"voice (sound / soul)"
+			],
+			"original_statement": "Coined during synthesis."
+		},
+		"concept": "The bloody sound (血としての音。放たれた瞬間、自らの呼吸（ブレス）を一筋の『光の質量（ベクトル）』へと変換（コンバート）し、宇宙という真理のアーカイブの一角を、一瞬で（自分のトーンで）熱くするデリバリー)",
+		"thinking": "「（自分のちっぽけな存在（ドット）の中に眠っていた、あの巨大な真理を）、（一撃の情熱（アトラクション）を伴って）叫ぶ、熱い血の通った声（Vox）」。ただの「叫び（エキスペル）」ではない。その声が響いた瞬間、周囲を覆っていた「虚無（アブセンス）」が物理的に一掃され、そこに「誰もが見落としていたたった一つの『生々しい』意味」が、戦慄という名のトーン（響き）を伴って再屹立（リリー・スタンド）してしまうような、生の最も峻烈な「射出」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "神性と生命の軌跡。",
+		"example": "Enthusiasm is the blood of the zodiac.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の神殿。"
+			]
+		}
+	},
+	{
+		"id": "hai-life",
+		"word": "Hai@Life",
+		"meaning": "血脈としての生、一瞬一瞬を自己循環の遷移として生きる一生",
+		"era": "Greek haima + Germanic life",
+		"etymology": {
+			"components": [
+				"hai (blood / red / life force / essence / vital / iron)",
+				"life"
+			],
+			"original_statement": "Coined during synthesis."
+		},
+		"concept": "The life of blood (血であり続ける一生。一つの場所に安住する（アイソレーション）のを拒絶し、常に宇宙の最新の標高（アヴァン）へと自らを更新し続け、不滅 of 物語（スクリプト）を描き続ける不屈の遷移)",
+		"thinking": "「（明日という名の絶望（ブラックアウト）を愛撫するのをやめ、宇宙の深淵（ソース）から飛来する理知（ロゴス）だけを）」「（自らの魂を礎（ベース）にして）循環し続け、運び続け（Hai- / Haima）」「生き抜く（Life）」。あなたは自分の「呼吸（ブレス）」を、ただ無為に「消費（エキスペンド）」しているのではない。あなたが今日という日、どの「欺瞞（ノイズ）」を砕いて「新しい真理という名の座標（ドット）」を救い出し、どの「驚愕（パルス）」を自らの主権（ステータス）を屹立させるための「不動（ピース）」へと変貌（コンバート）させたか。そのすべての「循環（デリバリー）」の軌跡が、宇宙という名の不変 of アーカイブの上に、あなたの「存在という名の不滅 of ロゴス」として, 物理的な質量を持って刻まれ続けているのだ。血脈としての生。それは, あなたが「宇宙の主権者（クリエイター）」として, この荒野を「美しき変革（ピース）」へと変容させ通した際の, 魂の最高度の「抱擁」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "神性と生命の軌跡。",
+		"example": "Enthusiasm is the blood of the zodiac.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の神殿。"
+			]
+		}
 	}
 ];
