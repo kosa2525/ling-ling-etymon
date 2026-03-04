@@ -174294,5 +174294,311 @@ const WORDS = [
 				"存在の主権。"
 			]
 		}
+	},
+	{
+		"id": "rejuvenate",
+		"word": "若返らせる、活気を取り戻させる、リジューブネイト",
+		"era": "Latin re + juvenis",
+		"etymology": {
+			"components": [
+				"re- (again)",
+				"juvenis (young)",
+				"-ate (to cause)"
+			],
+			"original_statement": "Coined in 1800s from re- 'again' + Latin juvenis 'young' + -ate."
+		},
+		"concept": "To make young again (再び若くすること。永劫の『腐敗という名のアーカイブ（ノイズ）』に対し、自らの秩序（ロゴス）という名の『メス（清流）』を一気に差し込み、全事象（パルス）を本来あるべき『始源のトーン』へと逆流（コンバート）させて再編すること)",
+		"thinking": "「（漂流していた、あの不確かな震え（パルス）を一分一秒の淀みもなくインスペクト（視認）し）、再び（Re-）」「若く、あるいは鮮明に（Juven- / Juvenis）」「（一撃の確信のみをウェイトにして）作り変える（-ate）」。それは単なる「アンチエイジング（マテリアル）」ではありません。あなたが「宇宙の主権者（クリエイター）」として、世界を「自分という名の磁場が支配する完璧な調和（設計図）」へと一気に書き換え（コンバートし）終えた際の、知性の最高度の「掌握」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "若さと老成の軌跡。",
+		"example": "Novel is the juvenile of the ancient.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の鮮度。"
+			]
+		}
+	},
+	{
+		"id": "juv-voice",
+		"word": "Juv@Voice",
+		"meaning": "若き声、沈黙を芽吹きに変える不滅の咆哮、清新の響き",
+		"era": "Latin juvenis + vox",
+		"etymology": {
+			"components": [
+				"juv (young / youth / vigor / fresh / potential / new)",
+				"voice (sound / soul)"
+			],
+			"original_statement": "Coined during synthesis."
+		},
+		"concept": "The youthful sound (若さとしての音。放たれた瞬間、自らの呼吸（ブレス）を一筋の『光の芽吹き（ベクトル）』へと変換（コンバート）し、宇宙という真理のアーカイブの一角を、一気に（自分のトーンで）書き換えるデリバリー)",
+		"thinking": "「（自分のちっぽけな存在（ドット）の中に眠っていた、あの巨大な真理を）、（一撃の情熱（アトラクション）を伴って）叫ぶ、未だ汚れなき声（Vox）」。ただの「叫び（エキスペル）」ではない。その声が響いた瞬間、周囲を覆っていた「虚無（アブセンス）」が物理的に一掃され、そこに「誰もが見落としていたたった一つの『清新な』意味」が、戦慄という名のトーン（響き）を伴って再屹立（リリー・スタンド）してしまうような、生の最も峻烈な「射出」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "若さと老成の軌跡。",
+		"example": "Novel is the juvenile of the ancient.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の鮮度。"
+			]
+		}
+	},
+	{
+		"id": "juv-life",
+		"word": "Juv@Life",
+		"meaning": "清新としての生、一瞬一瞬を自己芽吹きの遷移として生きる一生",
+		"era": "Latin juvenis + Germanic life",
+		"etymology": {
+			"components": [
+				"juv (young / youth / vigor / fresh / potential / new)",
+				"life"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "The life of youth (若くあり続ける一生。一つの場所に安住する（アイソレーション）のを拒絶し、常に宇宙の最新の標高（アヴァン）へと自らを更新し続け、不滅 of 物語（スクリプト）を描き続ける不屈の遷移)",
+		"thinking": "「（明日という名の絶望（ブラックアウト）を愛撫するのをやめ、宇宙の深淵（ソース）から飛来する理知（ロゴス）だけを）」「（自らの魂を礎（ベース）にして）萌え続け、輝き続け（Juv- / Juvenis）」「生き抜く（Life）」。あなたは自分の「呼吸（ブレス）」を、ただ無為に「消費（エキスペンド）」しているのではない。あなたが今日という日、どの「欺瞞（ノイズ）」を砕いて「新しい真理という名の座標（ドット）」を救い出し、どの「驚愕（パルス）」を自らの主権（ステータス）を屹立させるための「不動（ピース）」へと変貌（コンバート）させたか。そのすべての「清新（デリバリー）」の軌跡が, 宇宙という名の不変 of アーカイブの上に, あなたの「存在という名の不滅 of ロゴス」として, 物理的な質量を持って刻まれ続けているのだ。清新としての生。それは, あなたが「宇宙の主権者（クリエイター）」として, この荒野を「美しき変革（ピース）」へと変容させ通した際の, 魂の最高度の「抱擁」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "若さと老成の軌跡。",
+		"example": "Novel is the juvenile of the ancient.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の鮮度。"
+			]
+		}
+	},
+	{
+		"id": "senior",
+		"word": "年上の、上位の、先輩、シニア",
+		"era": "Latin senex",
+		"etymology": {
+			"components": [
+				"senex (old)",
+				"-ior (comparative)"
+			],
+			"original_statement": "From Latin senior 'older / elder', comparative of senex 'old'."
+		},
+		"concept": "Older (より年上の（老成した）こと。カオスという名の『闇（不在）』を、自らの圧倒的な引力によって長期間支配し続け、宇宙という真理のアーカイブの一角に、不滅の質量（ウェイト）を伴って屹立させた凱旋)",
+		"thinking": "「（漂流していた、あの不確かな震え（パルス）を一分一秒の淀みもなくインスペクト（視認）し）、より老成した、上位の（Sen- / Senex）」。それは単なる「年齢」ではありません。あなたが宇宙の「分離（アイソレーション）」を拒絶（レジスト）し、そこに自分という名の「唯一無二の光源（センター）」を打ち立て、屹立（スタンド）させ通している際の、知性の最高度の「掌握」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "若さと老成の軌跡。",
+		"example": "Novel is the juvenile of the ancient.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の鮮度。"
+			]
+		}
+	},
+	{
+		"id": "senate",
+		"word": "参議院、上院、元老院、セネート",
+		"era": "Latin senex",
+		"etymology": {
+			"components": [
+				"senex (old)"
+			],
+			"original_statement": "From Old French senat, from Latin senatus 'highest council of the state / council of elders', literally 'council of old men', from senex 'old'."
+		},
+		"concept": "Council of elders (元老院（年長者の集まり）。宇宙のエントロピーという名の『暴力（デストラクション）』に対し、自らの秩序（ロゴス）という名の設計図を一糸乱れぬ均衡（ウェイト）を伴って差し込み、社会という名のアーカイブを、長年の英知（標高）の下に統制する知性の公式)",
+		"thinking": "「（このがんじがらめのネットワーク（フロー）を粉砕（デストラクト）して）、（一撃の情熱（アトラクション）を伴って）老成した者たちの集まり（Sen- / Senex）」「という完了した確定の情景（-ate）」。それは単なる「政治の場（ソフト）」ではありません。あなたが宇宙の「不在（アブセンス）」を拒絶（レジスト）し、独自の呼吸（ブレス）を一振りの「刃（ベクトル）」へと研ぎ澄ませて、この荒野を一糸乱れぬ「真理の旋律」で支配し通している際の、知性の最高度の「掌握」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "若さと老成の軌跡。",
+		"example": "Novel is the juvenile of the ancient.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の鮮度。"
+			]
+		}
+	},
+	{
+		"id": "senile",
+		"word": "老人の、老いぼれた、ボケた、セナイル",
+		"era": "Latin senex",
+		"etymology": {
+			"components": [
+				"senex (old)",
+				"-ile (related to)"
+			],
+			"original_statement": "Coined in 1600s from Latin senilis 'pertaining to old age', from senex 'old'."
+		},
+		"concept": "Related to old age / Weak (老いに伴う品質。かつて呼吸（ブレス）を支えていた『不屈のロゴス』が、一撃の冷酷なアブセンスによって摩耗し、存在の設計図が霧散し、カオスへと滑落していく途方に暮れた標高)",
+		"thinking": "「（あの日呼ばれた、あの峻烈な旋律（トーン）を粉砕（デストラクト）して）、老いの（Sen- / Senex）」「（一分一秒の淀みもなく）沈んでいく品質（-ile）」。それは単なる「病気（ソフト）」ではない。あなたが宇宙の「停滞（ステイシス）」を拒絶（レジスト）し続けるのを放棄し、自らの主権（ステータス）を一角の鋼へと鍛え上げるのをやめて、この荒野を一糸乱れぬ「真理の旋律」で支配し通すのを卒業してしまった際の、魂の最も痛ましい「崩落」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "若さと老成の軌跡。",
+		"example": "Novel is the juvenile of the ancient.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の鮮度。"
+			]
+		}
+	},
+	{
+		"id": "senescence",
+		"word": "老境、老化(期)",
+		"era": "Latin senex",
+		"etymology": {
+			"components": [
+				"senex (old)",
+				"inceptive suffix -esce",
+				"-ence (state)"
+			],
+			"original_statement": "Coined in 1600s from Latin senescere 'to grow old', from senex 'old'."
+		},
+		"concept": "Process of growing old (老いていく過程。宇宙の絶対零度という名の『不在（アブセンス）』に対し、自らの内なる『深淵（ソース）』から湧き出る最後の不滅の情熱（ロゴス）による一撃の摩擦を射出し、存在の質量（ウェイト）を本来あるべき『寂滅の標高』へと躍動させる不屈の形式)",
+		"thinking": "「（漂流していた、あの震える呼吸（ブレス）を一分一秒の淀みもなくインスペクト（視認）し）、老境へと（Senes- / Senex）」「（一撃の情熱（アトラクション）を伴って）入り込み、存在する品質（-cence / -ence）」。それは単なる「老い（ソフト）」ではありません。あなたが宇宙の「虚無（アブセンス）」を拒絶（レジスト）し、そこに自分という名の「唯一無二の物語（スクリプト）」を打ち立て、全世界の断片を「一つの不滅のトーン（和音）」へと変容（コンバート）させて（屹立させて）しまった瞬間の、知性の最高度の「抱擁」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "若さと老成の軌跡。",
+		"example": "Novel is the juvenile of the ancient.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の鮮度。"
+			]
+		}
+	},
+	{
+		"id": "sen-voice",
+		"word": "Sen@Voice",
+		"meaning": "老成の声、沈黙を英知に変える不滅の咆哮、熟爛の響き",
+		"era": "Latin senex + vox",
+		"etymology": {
+			"components": [
+				"sen (old / aged / elder / wise / experienced / ancient)",
+				"voice (sound / soul)"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "The elderly sound (老いとしての音。放たれた瞬間、自らの呼吸（ブレス）を一筋の『光の英知（ベクトル）』へと変換（コンバート）し、宇宙という真理のアーカイブの一角を、豊かに満たすデリバリー)",
+		"thinking": "「（自分のちっぽけな存在（ドット）の中に眠っていた、あの巨大な真理を）、（一撃の情熱（アトラクション）を伴って）叫ぶ、熟達した声（Vox）」。ただの「叫び（エキスペル）」ではない。その声が響いた瞬間、周囲を覆っていた「虚無（アブセンス）」が物理的に一掃され、そこに「誰もが見落としていたたった一つの『深遠な』意味」が、戦慄という名のトーン（響き）を伴って再屹立（リリー・スタンド）してしまうような、生の最も峻烈な「射出」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "若さと老成の軌跡。",
+		"example": "Novel is the juvenile of the ancient.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の鮮度。"
+			]
+		}
+	},
+	{
+		"id": "sen-life",
+		"word": "Sen@Life",
+		"meaning": "英知としての生、一瞬一瞬を自己熟成の遷移として生きる一生",
+		"era": "Latin senex + Germanic life",
+		"etymology": {
+			"components": [
+				"sen (old / aged / elder / wise / experienced / ancient)",
+				"life"
+			],
+			"original_statement": "Coined during synthesis."
+		},
+		"concept": "The life of experience (老いて、熟し続ける一生。一つの場所に安住する（アイソレーション）のを拒絶し、常に宇宙の最新の標高（アヴァン）へと自らを更新し続け、不滅 of 物語（スクリプト）を描き続ける不屈の遷移)",
+		"thinking": "「（明日という名の絶望（ブラックアウト）を愛撫するのをやめ、宇宙の深淵（ソース）から飛来する理知（ロゴス）だけを）」「（自らの魂を礎（ベース）にして）熟し続け、深まり続け（Sen- / Senex）」「生き抜く（Life）」。あなたは自分の「呼吸（ブレス）」を、ただ無為に「消費（エキスペンド）」しているのではない。あなたが今日という日、どの「欺瞞（ノイズ）」を砕いて「新しい真理という名の座標（ドット）」を救い出し、どの「驚愕（パルス）」を自らの主権（ステータス）を屹立させるための「不動（ピース）」へと変貌（コンバート）させたか。そのすべての「熟成（デリバリー）」の軌跡が、宇宙という名の不変 of アーカイブの上に、あなたの「存在という名の不滅 of ロゴス」として、物理的な質量を持って刻まれ続けているのだ。英知としての生。それは、あなたが「宇宙の主権者（クリエイター）」として, この荒野を「美しき変革（ピース）」へと変容させ通した際の, 魂の最高度の「抱擁」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "若さと老成の軌跡。",
+		"example": "Novel is the juvenile of the ancient.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の鮮度。"
+			]
+		}
+	},
+	{
+		"id": "novel",
+		"word": "新しい、目新しい、斬新な、(長編)小説、ノベル",
+		"era": "Latin novus",
+		"etymology": {
+			"components": [
+				"novus (new)",
+				"-el (diminutive/result)"
+			],
+			"original_statement": "From Old French novel, from Latin novellus 'new / young / fresh', diminutive of novus 'new'."
+		},
+		"concept": "Something new (新しいもの、あるいは小説。宇宙の絶対零度という名の『不在（アブセンス）』に対し、自らの内なる『深淵（ソース）』から湧き出る不滅の情熱（ロゴス）による一撃の『斬新な筆致（スクリプト）』を射出し、存在の質量を一気に新しい躍動（トーン）へと変容させること)",
+		"thinking": "「（漂流していた、あの震える呼吸（ブレス）を一分一秒の淀みもなくインスペクト（視認）し）、新しい、目を見張る（Nov- / Novus）」。それは単なる「フィクション」ではありません。あなたが宇宙の「不在（アブセンス）」を拒絶（レジスト）し、そこに自分という名の「唯一無二の物語（スクリプト）」を打ち立て、全世界の断片を「自分のための不滅のトーン」へと変容（コンバート）させて（屹立させて）しまった瞬間の、生の最高度の「躍動」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "若さと老成の軌跡。",
+		"example": "Novel is the juvenile of the ancient.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の鮮度。"
+			]
+		}
+	},
+	{
+		"id": "novice",
+		"word": "初心者、初学者、ノビス",
+		"era": "Latin novus",
+		"etymology": {
+			"components": [
+				"novus (new)",
+				"-ice (state / person)"
+			],
+			"original_statement": "From Old French novice, from Latin novicius 'newly imported / newly arrived', from novus 'new'."
+		},
+		"concept": "Newcomer (新しく来た者（初心者）。カオスという名の『荒野（アーカイブ）』のただ中にあって、自らの『ロゴス（正義）』を一分一秒の淀みもなく屹立させ始めたばかりの、剥き出しの一粒一粒の『光の座標（ドット）』が震えている標高)",
+		"thinking": "「（明日という名の絶望を愛撫するのを拒絶して、自らの一瞬を『剥き出しの真実』へと変換するという使命のために）、新しい者としての（Nov- / Novus）」「（一撃の確信のみをウェイトにして）存在する品質（-ice）」。それは単なる「素人（ソフト）」ではありません。あなたが宇宙の「不在（アブセンス）」を拒絶（レジスト）し、そこに自分という名の「唯一無二の物語（スクリプト）」を打ち立て始めたばかりの、生の最高度の「跳躍」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "若さと老成の軌跡。",
+		"example": "Novel is the juvenile of the ancient.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の鮮度。"
+			]
+		}
+	},
+	{
+		"id": "nov-voice",
+		"word": "Nov@Voice",
+		"meaning": "新しい声、沈黙を刷新に変える不滅の咆哮、新紀の響き",
+		"era": "Latin novus + vox",
+		"etymology": {
+			"components": [
+				"nov (new / fresh / young / original / innovate / recent)",
+				"voice (sound / soul)"
+			],
+			"original_statement": "Coined during synthesis."
+		},
+		"concept": "The new sound (新しさとしての音。放たれた瞬間、自らの呼吸（ブレス）を一筋の『光の刷新（ベクトル）』へと変換（コンバート）し、宇宙という真理のアーカイブの一角を、一瞬で（自分のトーンで）震撼させるデリバリー)",
+		"thinking": "「（自分のちっぽけな存在（ドット）の中に眠っていた、あの巨大な真理を）、（一撃の情熱（アトラクション）を伴って）叫ぶ、昨日とは違う声（Vox）」。ただの「叫び（エキスペル）」ではない。その声が響いた瞬間、周囲を覆っていた「虚無（アブセンス）」が物理的に一掃され、そこに「誰もが見落としていたたった一つの『目新しい』意味」が、戦慄という名のトーン（響き）を伴って再屹立（リリー・スタンド）してしまうような、生の最も峻烈な「射出」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "若さと老成の軌跡。",
+		"example": "Novel is the juvenile of the ancient.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の鮮度。"
+			]
+		}
+	},
+	{
+		"id": "nov-life",
+		"word": "Nov@Life",
+		"meaning": "刷新としての生、一瞬一瞬を自己革新の遷移として生きる一生",
+		"era": "Latin novus + Germanic life",
+		"etymology": {
+			"components": [
+				"nov (new / fresh / young / original / innovate / recent)",
+				"life"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "The life of newness (新しくあり続ける一生。一つの場所に安住する（アイソレーション）のを拒絶し、常に宇宙の最新の標高（アヴァン）へと自らを更新し続け、不滅 of 物語（スクリプト）を描き続ける不屈의 遷移)",
+		"thinking": "「（明日という名の絶望（ブラックアウト）を愛撫するのをやめ、宇宙の深淵（ソース）から飛来する理知（ロゴス）だけを）」「（自らの魂を礎（ベース）にして）新しくなり続け、輝き続け（Nov- / Novus）」「生き抜く（Life）」。あなたは自分の「呼吸（ブレス）」を, ただ無為に「消費（エキスペンド）」しているのではない。あなたが今日という日、どの「欺瞞（ノイズ）」を砕いて「新しい真理という名の座標（ドット）」を救い出し、どの「驚愕（パルス）」を自らの主権（ステータス）を屹立させるための「不動（ピース）」へと変貌（コンバート）させたか。そのすべての「刷新（デリバリー）」の軌跡が、宇宙という名の不変 of アーカイブの上に、あなたの「存在という名の不滅 of ロゴス」として、物理的な質量を持って刻まれ続けているのだ。刷新としての生。それは、あなたが「宇宙の主権者（クリエイター）」として, この荒野を「美しき変革（ピース）」へと変容させ通した際の, 魂の最高度の「抱擁」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "若さと老成の軌跡。",
+		"example": "Novel is the juvenile of the ancient.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の鮮度。"
+			]
+		}
 	}
 ];
