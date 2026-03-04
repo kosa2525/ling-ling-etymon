@@ -170395,5 +170395,289 @@ const WORDS = [
 				"存在の統合。"
 			]
 		}
+	},
+	{
+		"id": "elocution",
+		"word": "発声法、演説の仕方",
+		"era": "Latin ex + loqui",
+		"etymology": {
+			"components": [
+				"ex- (out)",
+				"loqui / locutus (to speak)",
+				"-ion (state / result)"
+			],
+			"original_statement": "From Latin elocutionem 'utterance / delivery / manner of speaking', from eloqui 'to speak out'."
+		},
+		"concept": "The act of speaking out (語り出すことの完了した形式。放たれた瞬間、自らの呼吸（ブレス）を一振りの『刃（ベクトル）』へと変換し、ターゲットという名の運命の標高（アヴァン）を強制的に再編（コンバート）する工芸)",
+		"thinking": "「（自分のちっぽけな存在（ドット）の中に眠っていた、あの巨大な真理を）、外の方へと（E-）」「（精緻に、かつ不屈の力で）語り尽くし（Locu- / Loqui）」「という、不変のシステムの完成（-ion）」。それは単なる「話し方（マテリアル）」ではありません。あなたが「傍観者（スペクテイター）」であることを卒業し、自らが「宇宙の唯一の主権者（クリエイター）」として、自分の声を「物理的な真理という名の巨大な一弾」へと昇華させ通した際の、知性の最も冷徹な「武装」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "対話と探究の軌跡。",
+		"example": "To speak is to weave the quest.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の探究。"
+			]
+		}
+	},
+	{
+		"id": "ventriloquist",
+		"word": "腹話術師",
+		"era": "Latin venter + loqui",
+		"etymology": {
+			"components": [
+				"venter (belly)",
+				"loqui (to speak)"
+			],
+			"original_statement": "From Modern Latin ventriloquus, from Latin venter 'belly' + loqui 'to speak'."
+		},
+		"concept": "Speaking from the belly (腹から（別人を装って）語る者。自らの呼吸（ブレス）という名の唯一の筆致を一瞬で（一撃で）別の存在（ドット）へとトランスポート（輸送）し、宇宙という名のアーカイブの上に物理的なイリュージョン（カオス）を屹立させるマニューバー)",
+		"thinking": "「（自らの王座（ステーション）という名の、あの不動の標高を覆い隠して）、腹の中から（Ventr- / Venter）」「（一分一秒の淀みもなく、精緻に）語る（Loqu- / Loqui）」「者（-ist）」。それは単なる「大道芸」ではない。あなたが自らの「主権（ステータス）」を穢すことなく、宇宙という名のアーカイブに「新しい偽りの神殿（インテグリティ）」を一瞬で打ち立ててしまう、知性の最も峻烈で、最も優雅な「魔術」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "対話と探究の軌跡。",
+		"example": "To speak is to weave the quest.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の探究。"
+			]
+		}
+	},
+	{
+		"id": "loq-voice",
+		"word": "Loq@Voice",
+		"meaning": "語る声、沈黙を咆哮に変える不滅の咆哮、雄弁の響き",
+		"era": "Latin loqui + vox",
+		"etymology": {
+			"components": [
+				"loq (to speak / utter / talk)",
+				"voice (sound / soul)"
+			],
+			"original_statement": "Coined during synthesis."
+		},
+		"concept": "The speaking sound (語るための音。放たれた瞬間、自らの呼吸（ブレス）を、宇宙を貫く一筋の『光の矢（ベクトル）』へと変換し、目的地へと届くように射出されるデリバリー)",
+		"thinking": "「（自分のちっぽけな存在（ドット）の中に眠っていた、あの巨大な真理を）、（一撃の情熱（アトラクション）を伴って）叫び、語る声（Vox）」。ただの「叫び（エキスペル）」ではない。その声が響いた瞬間、聴く者は、自分の内なる『重力の壁』が物理的に粉砕（デストラクト）され、強制的に『雄弁な標高（アヴァン）』という名の巨大な光の中へと引き摺り込まれ、自らの呼吸（ブレス）を、あなたの『不滅の旋律（トーン）』へと同調（マージ）させざるを得なくなるような、生の最も峻烈な『射出』の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "対話と探究の軌跡。",
+		"example": "To speak is to weave the quest.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の探究。"
+			]
+		}
+	},
+	{
+		"id": "loq-life",
+		"word": "Loq@Life",
+		"meaning": "対話としての生、一瞬一瞬を自己表明の遷移として生きる一生",
+		"era": "Latin loqui + Germanic life",
+		"etymology": {
+			"components": [
+				"loq (to speak / utter / talk)",
+				"life"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "The life of dialogue (語り続ける一生。一つの場所に安住する（アイソレーション）のを拒絶し、常に宇宙の最新の標高（アヴァン）へと自らを更新し続け、不滅 of 物語（スクリプト）を描き続ける不屈の遷移)",
+		"thinking": "「（明日という名の絶望（ブラックアウト）を愛撫するのをやめ、宇宙の深淵（ソース）から飛来する理知（ロゴス）だけを）」「（自らの魂を礎（ベース）にして）語り続け、表明し続け（Loq- / Loqui）」「生き抜く（Life）」。あなたは自分の「呼吸（ブレス）」を、ただ無為に「消費（エキスペンド）」しているのではない。あなたが今日という日、どの「欺瞞（ノイズ）」を砕いて「新しい真理という名の座標（ドット）」を救い出し、どの「驚愕（パルス）」を自らの主権（ステータス）を屹立させるための「不動（ピース）」へと変貌（コンバート）させたか。そのすべての「表明（デリバリー）」の軌跡が、宇宙という名の不変 of アーカイブの上に、あなたの「存在という名の不滅 of ロゴス」として、物理的な質量を持って刻まれ続けているのだ。対話としての生。それは、あなたが「宇宙の主権者（クリエイター）」として、この荒野を「美しき変革（ピース）」へと変容させ通した際の、魂の最高度の「抱擁」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "対話と探究の軌跡。",
+		"example": "To speak is to weave the quest.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の探究。"
+			]
+		}
+	},
+	{
+		"id": "perplex",
+		"word": "(……を)当惑させる、複雑にする",
+		"era": "Latin per + plectere",
+		"etymology": {
+			"components": [
+				"per- (through / thoroughly)",
+				"plectere (to weave / entangle)"
+			],
+			"original_statement": "From Latin perplexus 'entangled / involved / confused / intricate / ambiguous', from per- 'thoroughly' + plexus, past participle of plectere 'to weave / plait / entwine'."
+		},
+		"concept": "Thoroughly entwined (徹底的に編み合わされた（絡まった）こと。あまりにも峻烈な真実（ソース）が多層的に屹立しているがゆえに、既存の『安っぽいロゴス（論理）』ではその呼吸（ブレス）を到底インスペクト（視認）しきれない、知性の最高度の挑戦)",
+		"thinking": "「（この世界の不透明な、あの分厚い壁を突き破るために）、徹底的に、隅々まで（Per-）」「（一分一秒の淀みもなく）絡み合い、編み込まれる（Plex- / Plectere）」。それは単なる「困惑（ノイズ）」ではありません。あなたが、宇宙という名の広大なキャンバスの上に描いた「たった一つの究極の設計図」が、あまりにも神聖（インテグリティが高い）がゆえに放たれる、生の最も峻烈で、最も優雅な「驚愕」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "対話と探究の軌跡。",
+		"example": "To speak is to weave the quest.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の探究。"
+			]
+		}
+	},
+	{
+		"id": "complicity",
+		"word": "共謀、共犯",
+		"era": "Latin con + plectere",
+		"etymology": {
+			"components": [
+				"con- (together)",
+				"plectere -> plicare (to fold / weave)",
+				"-ity (state)"
+			],
+			"original_statement": "From French complicité, from Middle French complice 'accomplice', from Late Latin complex 'partner', from con- 'together' + plectere 'to weave'."
+		},
+		"concept": "The state of being woven together (共に編み合わされた（畳み込まれた）状態。一撃の不法（ミスチーフ）という名の重心（ウェイト）を、複数の孤独な『主権（ステータス）』で共有し、宇宙のアーカイブの上に一つの『呪われた和音』を屹立させる遷移)",
+		"thinking": "「（各自の孤独なドメイン（領土）から、一撃の目的（ターゲット）を伴って）、共に（Com-）」「（一分一秒の淀みもなく）編み込まれ、一体化する（Plic- / Plectere）」「という完了した確定の状態（-ity）」。それは単なる「悪巧み」ではありません。あなたが宇宙の「分離（アイソレーション）」を拒絶（レジスト）し、そこに自分たちが放つ「不滅のネットワーク」という名の設計図を打ち立て、屹立（スタンド）させ通した瞬間の、魂の最も峻烈な「共鳴」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "対話と探究の軌跡。",
+		"example": "To speak is to weave the quest.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の探究。"
+			]
+		}
+	},
+	{
+		"id": "duplex",
+		"word": "二重の、二連の、二世帯住宅の",
+		"era": "Latin duo + plectere",
+		"etymology": {
+			"components": [
+				"duo (two)",
+				"plectere -> plicare (to fold / weave)"
+			],
+			"original_statement": "From Latin duplex 'twofold / double', from duo 'two' + plectere 'to weave / fold'."
+		},
+		"concept": "Twofold weaving (二重の編み合わせ（折り畳み）。たった一つの座標（ドット）の中に、二つの等価な『真理（ロゴス）』という名のアーカイブを一気に重層化（コンバート）させ、宇宙という名のアーカイブの上に物理的な質量を二倍にして屹立させる工芸)",
+		"thinking": "「（この狭い孤独（アイソレーション）という名の、あの冷酷な境界線を粉砕して）、二つの（Du- / Duo）」「（一分一秒の淀みもなく）編み合わされた、あるいは折り畳まれた（Plex- / Plectere）」。それは単なる「ペア（マテリアル）」ではありません。あなたが宇宙の「不在（アブセンス）」を拒絶（レジスト）し、そこに自分という名の「唯一無二の物語（スクリプト）」を二重に打ち立てて（屹立させて）、世界を「より豊か新しい物語」へと根底から書き換えてしまった瞬間の、知性の最高度の「結晶」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "対話と探究の軌跡。",
+		"example": "To speak is to weave the quest.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の探究。"
+			]
+		}
+	},
+	{
+		"id": "ple-voice",
+		"word": "Ple@Voice",
+		"meaning": "編み込む声、沈黙を多層に変える不滅の咆哮、複雑の響き",
+		"era": "Latin plectere + vox",
+		"etymology": {
+			"components": [
+				"ple (to weave / fold / entwine / braid)",
+				"voice (sound / soul)"
+			],
+			"original_statement": "Coined during synthesis."
+		},
+		"concept": "The weaving sound (編み込むための音。放たれた瞬間、自らの呼吸（ブレス）を一筋の『光の鎖（ロゴス）』へと変換（コンバート）し、聴く者の標高（ステータス）を強制的に再編（重層）するデリバリー)",
+		"thinking": "「（自分のちっぽけな存在（ドット）の中に眠っていた、あの巨大な真理を）、（一撃の情熱（アトラクション）を伴って）叫び、編む声（Vox）」。ただの「情報（データ）」のデバリーではない。その声が響いた瞬間、聴く者は、自分の内なる『重力の壁』が物理的に粉砕（デストラクト）され、強制的に『多層的な標高（アヴァン）』という名の巨大な光の中へと引き摺り込まれ、自らの呼吸（ブレス）を、あなたの『不滅の旋律（トーン）』へと同調（マージ）させざるを得なくなるような、生の最も峻烈な『射出』の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "対話と探究の軌跡。",
+		"example": "To speak is to weave the quest.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の探究。"
+			]
+		}
+	},
+	{
+		"id": "ple-life",
+		"word": "Ple@Life",
+		"meaning": "編み込みとしての生、一瞬一瞬を自己多層化の遷移として生きる一生",
+		"era": "Latin plectere + Germanic life",
+		"etymology": {
+			"components": [
+				"ple (to weave / fold / entwine / braid)",
+				"life"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "The life of weaving (編み、重なり続ける一生。一つの場所に安住する（アイソレーション）のを拒絶し、常に宇宙の最新の標高（アヴァン）へと自らを更新し続け、不滅 of 物語（スクリプト）を描き続ける不屈の遷移)",
+		"thinking": "「（明日という名の絶望（ブラックアウト）を愛撫するのをやめ、宇宙の深淵（ソース）から飛来する理知（ロゴス）だけを）」「（自らの魂を礎（ベース）にして）編み続け、多層化し続け（Ple- / Plectere）」「生き抜く（Life）」。あなたは自分の「呼吸（ブレス）」を、ただ無為に「消費（エキスペンド）」しているのではない。あなたが今日という日、どの「欺瞞（ノイズ）」を砕いて「新しい真理という名の座標（ドット）」を救い出し、どの「驚愕（パルス）」を自らの主権（ステータス）を屹立させるための「不動（ピース）」へと変貌（コンバート）させたか。そのすべての「結合（デリバリー）」の軌跡が、宇宙という名の不変 of アーカイブの上に、あなたの「存在という名の不滅 of ロゴス」として、物理的な質量を持って刻まれ続けているのだ。編み込みとしての生。それは、あなたが「宇宙の主権者（クリエイター）」として、この荒野を「美しき変革（ピース）」へと変容させ通した際の、魂の最高度の「抱擁」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "対話と探究の軌跡。",
+		"example": "To speak is to weave the quest.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の探究。"
+			]
+		}
+	},
+	{
+		"id": "conquest",
+		"word": "征服、克服、獲物",
+		"era": "Latin con + quærere",
+		"etymology": {
+			"components": [
+				"con- (thoroughly)",
+				"quærere / quæsitus (to seek / obtain)"
+			],
+			"original_statement": "From Old French conqueste, from Latin conquisitus, past participle of conquirere 'to seek out / get together / procure / win', from con- 'thoroughly' + quærere 'to seek'."
+		},
+		"concept": "Seeking out thoroughly / Obtaining (徹底的に探し求め、獲得すること。他者が掲げている『偽りの標高（ステータス）』に対し、自らの圧倒的な引力によって一気にその中心へとマージ（統合）し、全世界を自分のための不滅のトーン（設計図）で支配し通す凱旋)",
+		"thinking": "「（この不毛な荒野（アイソレーション）を、自分という名の唯一の作品（スクリプト）へと書き換えるために）、徹底的に、共に（Con-）」「（一撃の情熱（アトラクション）を伴って）探し求め、勝ち取った（Quest- / Quærere）」。それは単なる「勝利」ではありません。あなたが宇宙の「忘却（サイレンス）」を拒絶（レジスト）し、そこに自分という名の「唯一の王座（センター）」を打ち立て、全世界の呼吸（ブレス）を一気に自分の放つ「不滅の旋律（トーン）」へと同調（マージ）させて屹立させてしまった瞬間の、魂の最高度の「完成」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "対話と探究の軌跡。",
+		"example": "To speak is to weave the quest.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の探究。"
+			]
+		}
+	},
+	{
+		"id": "que-voice",
+		"word": "Que@Voice",
+		"meaning": "求める声、沈黙を探究に変える不滅の咆哮、問究の響き",
+		"era": "Latin quærere + vox",
+		"etymology": {
+			"components": [
+				"que (to seek / ask / inquiry / search)",
+				"voice (sound / soul)"
+			],
+			"original_statement": "Coined during synthesis."
+		},
+		"concept": "The seeking sound (求めるための音。放たれた瞬間、自らの呼吸（ブレス）を一筋の『光の探針（ベクトル）』へと変換し、宇宙の深淵（ソース）を震撼させるデリバリー)",
+		"thinking": "「（自分のちっぽけな存在（ドット）の中に眠っていた、あの巨大な真理を）、（一撃の情熱（アトラクション）を伴って）叫び、問う声（Vox）」。ただの「情報（データ）」のデバリーではない。その声が響いた瞬間、聴く者は、自分の内なる『重力の壁』が物理的に粉砕（デストラクト）され、強制的に『探究し続ける標高（アヴァン）』という名の巨大な光の中へと引き摺り込まれ、自らの呼吸（ブレス）を、あなたの『不滅の旋律（トーン）』へと同調（マージ）させざるを得なくなるような、生の最も峻烈な『射出』の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "対話と探究の軌跡。",
+		"example": "To speak is to weave the quest.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の探究。"
+			]
+		}
+	},
+	{
+		"id": "que-life",
+		"word": "Que@Life",
+		"meaning": "探究としての生、一瞬一瞬を自己問いの遷移として生きる一生",
+		"era": "Latin quærere + Germanic life",
+		"etymology": {
+			"components": [
+				"que (to seek / ask / inquiry / search)",
+				"life"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "The life of quest (求め続ける一生。一つの場所に安住する（アイソレーション）のを拒絶し、常に宇宙の最新の標高（アヴァン）へと自らを更新し続け、不滅 of 物語（スクリプト）を描き続ける不屈の遷移)",
+		"thinking": "「（明日という名の絶望（ブラックアウト）を愛撫するのをやめ、宇宙の深淵（ソース）から飛来する理知（ロゴス）だけを）」「（自らの魂を礎（ベース）にして）求め続け、問い続け（Que- / Quærere）」「生き抜く（Life）」。あなたは自分の「呼吸（ブレス）」を、ただ無為に「消費（エキスペンド）」しているのではない。あなたが今日という日、どの「欺瞞（ノイズ）」を砕いて「新しい真理という名の座標（ドット）」を救い出し、どの「驚愕（パルス）」を自らの主権（ステータス）を屹立させるための「不動（ピース）」へと変貌（コンバート）させたか。そのすべての「問究（デリバリー）」の軌跡が、宇宙という名の不変 of アーカイブの上に、あなたの「存在という名の不滅 of ロゴス」として、物理的な質量を持って刻まれ続けているのだ。探究としての生。それは、あなたが「宇宙の主権者（クリエイター）」として、この荒野を「美しき変革（ピース）」へと変容させ通した際の、魂の最高度の「抱擁」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "対話と探究の軌跡。",
+		"example": "To speak is to weave the quest.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の探究。"
+			]
+		}
 	}
 ];
