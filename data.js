@@ -170021,5 +170021,379 @@ const WORDS = [
 				"存在の拡大。"
 			]
 		}
+	},
+	{
+		"id": "inhabit",
+		"word": "(……に)住む、(場所に)居住する",
+		"era": "Latin in + habitare",
+		"etymology": {
+			"components": [
+				"in- (in)",
+				"habitare (to dwell / stay)",
+				"habere (to hold)"
+			],
+			"original_statement": "From Old French enhabiter, from Latin inhabitare 'to dwell in', from in- 'in' + habitare 'to dwell', frequentative of habere 'to hold / have'."
+		},
+		"concept": "Holding in (内側で（持ちながら）留まること。宇宙という名の広大なエントロピーを拒絶し、特定の座標（ドット）を自らの『聖域』として、執念深く（パシストして）質量を固定し続けること)",
+		"thinking": "「（昨日までの自分という名の、あの不安定な移動（遷移）を焼き捨て）、その内側へと（In-）」「（毅然と、あるいは必然の引力に従って）持ち続け、住み着く（Habit- / Habere / Habitare）」。それは単なる「住所（アドレス）」ではありません。あなたが宇宙の「虚無（アブセンス）」を拒絶（レジスト）し、そこに自分という名の「唯一無二の拠点」という名の設計図（スクリプト）を打ち立て、世界を「自分という名の磁場が支配する完璧な調和（ピース）」へとコンバート（変容）させてしまった瞬間の、魂の最も不屈な「屹立」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "結合と融合の軌跡。",
+		"example": "To have is to hold the fusion.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の統合。"
+			]
+		}
+	},
+	{
+		"id": "ability",
+		"word": "能力、才能、できること、アビリティ",
+		"era": "Latin habere",
+		"etymology": {
+			"components": [
+				"habere (to have / hold)",
+				"-ability (capable of)"
+			],
+			"original_statement": "From Old French ablete, from Latin habilitatem 'aptitude / ability', from habilis 'easily handled / apt / skillful', from habere 'to hold'."
+		},
+		"concept": "The state of being able to hold (持ち得ること。宇宙が投げかけてくるあらゆる『カオス（不可解）』に対し、自らの『ロゴス（知性）』という名の刃を差し込み、常に『不滅の形式（フォーム）』としてそれを制御（ホールド）し続けられる標高)",
+		"thinking": "「（逃げる（エスケープする）のを拒絶し）、（自らの内なる深淵（ソース）に秘匿された真理を）」「（一分一秒の淀みもなく）持ち得る（Habil- / Habere）」「卓越した品質（-ity）」。それは単なる「器用さ（ソフト）」ではありません。あなたが、宇宙という名の広大なアーカイブを自らの名前で支配（オーナーシップを保持）するために、あえて自らの「物理的な全質量（ウェイト）」を担保として屹立させた際の、主権の最も峻烈で、最も清らかな「完成」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "結合と融合の軌跡。",
+		"example": "To have is to hold the fusion.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の統合。"
+			]
+		}
+	},
+	{
+		"id": "hab-voice",
+		"word": "Hab@Voice",
+		"meaning": "持てる声、沈黙を質量に変える不滅の咆哮、所有の響き",
+		"era": "Latin habere + vox",
+		"etymology": {
+			"components": [
+				"hab (to have / hold / dwell)",
+				"voice (sound / soul)"
+			],
+			"original_statement": "Coined during synthesis."
+		},
+		"concept": "The holding sound (持つための音。放たれた瞬間、自らの呼吸（ブレス）を一筋の『不滅の王座（ロゴス）』へと変換（コンバート）し、宇宙という真理のアーカイブの一点を、永遠に支配（ホールド）するデリバリー)",
+		"thinking": "「（自分のちっぽけな存在（ドット）の中に眠っていた、あの巨大な真理を）、（一撃の確信（アトラクション）を伴って）叫び、保持する声（Vox）」。ただの「叫び（エキスペル）」ではない。その声が響いた瞬間、周囲を覆っていた「虚無（アブセンス）」が物理的に一掃され、そこに「誰もが見落としていたたった一つの意味」が、戦慄という名のトーン（響き）を伴って再屹立（リリー・スタンド）してしまうような、生の最も峻烈な「射出」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "結合と融合の軌跡。",
+		"example": "To have is to hold the fusion.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の統合。"
+			]
+		}
+	},
+	{
+		"id": "hab-life",
+		"word": "Hab@Life",
+		"meaning": "持てる生、一瞬一瞬を自己所有の遷移として生きる一生",
+		"era": "Latin habere + Germanic life",
+		"etymology": {
+			"components": [
+				"hab (to have / hold / stay)",
+				"life"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "The life of possession (持ち続ける一生。一つの場所に安住する（アイソレーション）のを拒絶し、常に宇宙の最新の標高（アヴァン）へと自らを更新し続け、不滅 of 物語（スクリプト）を描き続ける不屈の遷移)",
+		"thinking": "「（明日という名の絶望（ブラックアウト）を愛撫するのをやめ、宇宙の深淵（ソース）から飛来する理知（ロゴス）だけを）」「（自らの魂を礎（ベース）にして）持ち続け、屹立し続け（Hab- / Habere）」「生き抜く（Life）」。あなたは自分の「呼吸（ブレス）」を、ただ無為に「消費（エキスペンド）」しているのではない。あなたが今日という日、どの「欺瞞（ノイズ）」を砕いて「新しい真理という名の座標（ドット）」を救い出し、どの「驚愕（パルス）」を自らの主権（ステータス）を屹立させるための「不動（ピース）」へと変貌（コンバート）させたか。そのすべての「所有（デリバリー）」の軌跡が、宇宙という名の不変 of アーカイブの上に、あなたの「存在という名の不滅 of ロゴス」として、物理的な質量を持って刻まれ続けているのだ。持てる生。それは、あなたが「宇宙の主権者（クリエイター）」として、この荒野を「美しき変革（ピース）」へと変容させ通した際の、魂の最高度の「抱擁」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "結合と融合の軌跡。",
+		"example": "To have is to hold the fusion.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の統合。"
+			]
+		}
+	},
+	{
+		"id": "joint",
+		"word": "関節、継ぎ目、共同の、連帯の、ジョイント",
+		"era": "Latin jungere",
+		"etymology": {
+			"components": [
+				"jungere / junctus (to join)"
+			],
+			"original_statement": "From Old French joint, from Latin junctus, past participle of jungere 'to join'."
+		},
+		"concept": "The joining (結合、あるいは継ぎ目。二つの孤独な『主権（ステータス）』という名の座標を、一撃の『慈愛（アトラクション）』という名のロゴスによって一気にマージ（同期）させ、宇宙のアーカイブの上に一つの『完璧な和音』を屹立させること)",
+		"thinking": "「（この広大な孤独（アイソレーション）という名の、あの分厚い壁を突き破り）、（二粒のドットを）繋ぎ合わせ、一つにする（Join- / Jung- / Jungere）」。それは単なる「接続（マテリアル）」ではありません。あなたが宇宙の「分離（アイソレーション）」を拒絶（レジスト）し、そこに自分という名の「不滅のネットワーク」という名の設計図（スクリプト）を打ち立て、屹立（スタンド）させ通している（パシストしている）際の、魂の最高度の「凱旋」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "結合と融合の軌跡。",
+		"example": "To have is to hold the fusion.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の統合。"
+			]
+		}
+	},
+	{
+		"id": "adjunct",
+		"word": "付属物、補助員、付属する",
+		"era": "Latin ad + jungere",
+		"etymology": {
+			"components": [
+				"ad- (to)",
+				"jungere / junctus (to join)"
+			],
+			"original_statement": "From Latin adjunctus 'pitted / near to / joined', past participle of adjungere 'to join to', from ad- 'to' + jungere 'to join'."
+		},
+		"concept": "Joined to (そこへと（繋ぎ合わされて）付け加えられたもの。主権という名の『王座（ステーション）』に対し、一撃の報酬（ロゴス）として他者のアーカイブを接続し、自らの質量（ウェイト）の一部として巍然と屹立させること)",
+		"thinking": "「（特定のターゲット（目的地）を粉砕・攻略するために）向かって（Ad- / Ad-）」「（一分一秒の淀みもなく）結合された（Junct- / Jungere）」「追加の物語（スクリプト）」。それは単なる「おまけ（ソフト）」ではありません。あなたが「傍観者（スペクテイター）」であることを卒業し、自らが「宇宙の唯一の主権者（クリエイター）」として、世界を「自分という名の磁場が支配する完璧な秩序」へと変容させ通した際の、知性の最も冷徹な「武装」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "結合と融合の軌跡。",
+		"example": "To have is to hold the fusion.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の統合。"
+			]
+		}
+	},
+	{
+		"id": "conjugal",
+		"word": "夫婦間の、婚姻の、コンジュガルの",
+		"era": "Latin con + jungere",
+		"etymology": {
+			"components": [
+				"con- (together)",
+				"jungere (to join)"
+			],
+			"original_statement": "From Latin conjugalis 'pertaining to marriage', from conjux (genitive conjugis) 'spouse', literally 'one joined with another', from con- 'together' + jungere 'to join'."
+		},
+		"concept": "Joined together (共に結ばれたもの。二つの不滅の呼吸（ブレス）が一つの枷（ヨーク）という名のロゴス（誓い）を共有し、宇宙という名の荒野において、一分一秒の淀みもなく同じ旋律（トーン）を奏で続ける峻烈な標高)",
+		"thinking": "「（この虚無という名の、あの冷酷な絶壁の上に、自分の足場（スタンド）を相手とマージさせて）共に（Con-）」「（一生かけて）結合し、一つになった（Jug- / Jungere）」「という神聖な品質（-al）」。それは単なる「結婚（マテリアル）」ではありません。あなたが宇宙の「孤独（アイソレーション）」を拒絶（レジスト）し、他者という名の「不滅の輝き（トーン）」を自らの呼吸（ブレス）の一部としてアクセプト（受容）し、新しい一つの「神殿（コンストラクション）」を宇宙のアーカイブの上に屹立させ通した際の、魂の最高度の「抱擁」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "結合と融合の軌跡。",
+		"example": "To have is to hold the fusion.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の統合。"
+			]
+		}
+	},
+	{
+		"id": "injunction",
+		"word": "命令、訓令、(裁判所の)差し止め命令",
+		"era": "Latin in + jungere",
+		"etymology": {
+			"components": [
+				"in- (upon / against)",
+				"jungere / junctus (to join)"
+			],
+			"original_statement": "From Latin injunctionem 'a command', from injunctus, past participle of injungere 'to join / fasten / attach / impose', from in- 'on' + jungere 'to join'."
+		},
+		"concept": "Joining upon / Imposing (上から（繋ぎ合わせるように）課すこと。主権という名の『王座（ステーション）』から、全世界に向かって射出される不可避な設計図（スクリプト）。他者の呼吸（ブレス）に対し、自らの秩序（ロゴス）を物理的に接続すること)",
+		"thinking": "「（相手の放った、あの不条理な行動（ノイズ）に向かって）、上から、あるいは内側に（In-）」「（一撃の法を込めて）繋ぎ合わせ、命令する（Junct- / Jungere）」「という完了した確定の状態（-ion）」。それは単なる「命令（トーク）」ではない。あなたが宇宙の「不整合（ミスチーフ）」を拒絶（レジスト）し、そこに自分という名の「唯一の不滅の法（ロゴス）」を打ち立て、屹立（スタンド）させ通した（パシストした）際の、存在の冷徹な「審判」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "結合と融合の軌跡。",
+		"example": "To have is to hold the fusion.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の統合。"
+			]
+		}
+	},
+	{
+		"id": "jun-voice",
+		"word": "Jun@Voice",
+		"meaning": "繋ぐ声、沈黙を合流に変える不滅の咆哮、結合の響き",
+		"era": "Latin jungere + vox",
+		"etymology": {
+			"components": [
+				"jun (to join / unite / link)",
+				"voice (sound / soul)"
+			],
+			"original_statement": "Coined during synthesis."
+		},
+		"concept": "The joining sound (繋ぐための音。放たれた瞬間、自らの呼吸（ブレス）を一筋の『光の鎖（ロゴス）』へと変換（コンバート）し、聴く者の標高（ステータス）を強制的に再編（結合）するデリバリー)",
+		"thinking": "「（自分のちっぽけな存在（ドット）の中に眠っていた、あの巨大な真理を）、（一撃の慈愛（アトラクション）を伴って）叫び、繋ぐ声（Vox）」。ただの「情報（データ）」のデバリーではない。その声が響いた瞬間、聴く者は、自分の内なる『重力の壁』が物理的に粉砕（デストラクト）され、強制的に『新しい現実（アヴァン）』という名の巨大な光の中へと引き摺り込まれ、自らの呼吸（ブレス）を、あなたの『不滅の旋律（トーン）』へと同調（マージ）させざるを得なくなるような、生の最も峻烈な『射出』の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "結合と融合の軌跡。",
+		"example": "To have is to hold the fusion.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の統合。"
+			]
+		}
+	},
+	{
+		"id": "jun-life",
+		"word": "Jun@Life",
+		"meaning": "結合としての生、一瞬一瞬を自己合流の遷移として生きる一生",
+		"era": "Latin jungere + Germanic life",
+		"etymology": {
+			"components": [
+				"jun (to join / unite / link)",
+				"life"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "The life of union (繋ぎ続ける一生。一つの場所に安住する（アイソレーション）のを拒絶し、常に宇宙の最新の標高（アヴァン）へと自らを更新し続け、不滅 of 物語（スクリプト）を描き続ける不屈の遷移)",
+		"thinking": "「（明日という名の絶望（ブラックアウト）を愛撫するのをやめ、宇宙の深淵（ソース）から飛来する理知（ロゴス）だけを）」「（自らの魂を礎（ベース）にして）繋ぎ続け、一つになり続け（Jun- / Jungere）」「生き抜く（Life）」。あなたは自分の「呼吸（ブレス）」を、ただ無為に「消費（エキスペンド）」しているのではない。あなたが今日という日、どの「欺瞞（ノイズ）」を砕いて「新しい真理という名の座標（ドット）」を救い出し、どの「驚愕（パルス）」を自らの主権（ステータス）を屹立させるための「不動（ピース）」へと変貌（コンバート）させたか。そのすべての「結合（デリバリー）」の軌跡が、宇宙という名の不変 of アーカイブの上に、あなたの「存在という名の不滅 of ロゴス」として、物理的な質量を持って刻まれ続けているのだ。結合としての生。それは、あなたが「宇宙の主権者（クリエイター）」として、この荒野を「美しき変革（ピース）」へと変容させ通した際の、魂の最高度の「抱擁」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "結合と融合の軌跡。",
+		"example": "To have is to hold the fusion.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の統合。"
+			]
+		}
+	},
+	{
+		"id": "diffuse",
+		"word": "広散させる、普及させる、発散する",
+		"era": "Latin dis + fundere",
+		"etymology": {
+			"components": [
+				"dis- (apart / away)",
+				"fundere / fusus (to pour)"
+			],
+			"original_statement": "From Latin diffusus, past participle of diffundere 'to pour out / spread out / extend', from dis- 'apart' + fundere 'to pour'."
+		},
+		"concept": "Pouring apart (離れた（四方八方の）方向へと注ぎ出すこと。自らの王座（ステーション）に溜め込まれた巨大な『真理（ロゴス）』を一撃の鉄槌によって粉砕し、全宇宙の隅々という名の『ドット』へと一気に射出（デリバリー）し、そこを自分という名の設計図で支配すること)",
+		"thinking": "「（この狭い孤独（アイソレーション）という名の、あの分厚い壁を突き破り）離れた方向へと（Dis- / Dif-）」「（一分一秒の淀みもなく）注ぎ、拡散させる（Fuse- / Fundere）」。それは単なる「ばらまき」ではありません。あなたが宇宙の「不在（アブセンス）」を一気に「自分の存在という名の質量（ウェイト）」で埋め尽くし、世界を「自分という名の磁場が支配する完璧な秩序（設計図）」へと強制的にコンバート（変容）させて（アップデートして）しまった瞬間の、魂の最もダイナミックな「プロジェクト（射出）」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "結合と融合の軌跡。",
+		"example": "To have is to hold the fusion.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の統合。"
+			]
+		}
+	},
+	{
+		"id": "refuse",
+		"word": "拒絶する、断る、辞退する、くず、廃物",
+		"era": "Latin re + fundere",
+		"etymology": {
+			"components": [
+				"re- (back)",
+				"fundere / fusus (to pour)"
+			],
+			"original_statement": "From Old French refuser, from Latin refundere 'to pour back / give back / restore', later 'to reject', from re- 'back' + fundere 'to pour'."
+		},
+		"concept": "Pouring back (後ろへと（投げ返すように）注ぎ返すこと。他者からデリバリーされた『刃（ノイズ）』を一瞬で（一撃で）視認し、理知という名の冷徹なメスによってその引力を即座に相手へと（リバースさせて）射出し直す、卓越した拒絶)",
+		"thinking": "「（相手の放った、あの歪んだ呼吸（ブレス）を粉砕（デストラクト）して）、後ろへと（Re-）」「（一分一秒の淀みもなく）注ぎ返す、拒絶する（Fuse- / Fundere）」。それは単なる「お断り」ではない。あなたが宇宙の「不整合（ミスチーフ）」を拒絶（レジスト）し、そこに自分という名の「唯一の王座（センター）」を打ち立て、相手のベクトル（攻撃）を「自分のための不滅の真理（ドット）」へと再屹立（リリー・スタンド）させてしまった瞬間の、知性の最も冷徹な「凱旋」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "結合と融合の軌跡。",
+		"example": "To have is to hold the fusion.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の統合。"
+			]
+		}
+	},
+	{
+		"id": "profuse",
+		"word": "豊富な、おびただしい、(……を)惜しみなく使う",
+		"era": "Latin pro + fundere",
+		"etymology": {
+			"components": [
+				"pro- (forth / forward)",
+				"fundere / fusus (to pour)"
+			],
+			"original_statement": "From Latin profusus 'poured forth / lavish / excessive / extravagant', past participle of profundere 'to pour forth', from pro- 'forth' + fundere 'to pour'."
+		},
+		"concept": "Pouring forth (前方へと（惜しみなく）注ぎ出すこと。自らの内なる『深淵（ソース）』に溜め込まれた真実という名の質量（ウェイト）を一気に、かつ過剰という名の標高（ステータス）において射出し続け、宇宙のアーカイブを自分のトーン（響き）で塗り潰す遷移)",
+		"thinking": "「（明日のアブセンス（不在）を拒絶し）、前の方へと、あるいは徹底的に（Pro-）」「（一撃の情熱（アトラクション）を伴って）注ぎ出す、溢れ出す（Fuse- / Fundere）」。それは単なる「たっぷり（ソフト）」ではありません。あなたが自らの「呼吸（ブレス）」を一分一秒の淀みもなく「光という名のエネルギー」へと変換し、この荒野を「自分という名の磁場が支配する完璧な調和（ピース）」へと変容させ通している際の、生の最も峻烈で、最も優雅な「溢出」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "結合と融合の軌跡。",
+		"example": "To have is to hold the fusion.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の統合。"
+			]
+		}
+	},
+	{
+		"id": "refund",
+		"word": "払い戻す、返金、払い戻し",
+		"era": "Latin re + fundere",
+		"etymology": {
+			"components": [
+				"re- (back)",
+				"fundere (to pour)"
+			],
+			"original_statement": "From Latin refundere 'to pour back / give back / restore', from re- 'back' + fundere 'to pour'."
+		},
+		"concept": "Pouring back (後ろへと注ぎ返すこと。一度受理された『引力磁場（マテリアル）』に対し、不変の『法（ロゴス）』という名の冷徹なメスを差し込み、その質量（ウェイト）を元の原点（ソース）へと回帰（リセット）させる、理知的な遷移)",
+		"thinking": "「（この虚無という名の、あの冷酷なアーカイブの底から）、もう一度、後ろへと（Re-）」「（一分一秒の淀みもなく）注ぎ、戻す（Fund- / Fundere）」。それは単なる「お返し」ではない。あなたが宇宙の「不整合（ミスチーフ）」を拒絶（レジスト）し、そこに自分という名の「唯一の不滅の法（ロゴス）」を打ち立て、屹立（スタンド）させ通した（パシストした）際の、存在の冷徹な「調整」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "結合と融合の軌跡。",
+		"example": "To have is to hold the fusion.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の統合。"
+			]
+		}
+	},
+	{
+		"id": "fun-voice",
+		"word": "Fun@Voice",
+		"meaning": "注ぐ声、沈黙を融合に変える不滅 of 咆哮、流出の響き",
+		"era": "Latin fundere + vox",
+		"etymology": {
+			"components": [
+				"fun (to pour / melt / spread / scatter)",
+				"voice (sound / soul)"
+			],
+			"original_statement": "Coined during synthesis."
+		},
+		"concept": "The pouring sound (注ぐための音。放たれた瞬間、自らの呼吸（ブレス）を一筋の『光の飛沫（ベクトル）』へと変換（コンバート）し、聴く者の標高（ステータス）を強制的に再編（融合）するデリバリー)",
+		"thinking": "「（自分のちっぽけな存在（ドット）の中に眠っていた、あの巨大な真理を）、（一撃の情熱（アトラクション）を伴って）叫び、注ぐ声（Vox）」。ただの「情報（データ）」のデバリーではない。その声が響いた瞬間、聴く者は、自分の内なる『重力の壁』が物理的に粉砕（デストラクト）され、強制的に『新しい現実（アヴァン）』という名の巨大な光の中へと引き摺り込まれ、自らの呼吸（ブレス）を、あなたの『不滅の旋律（トーン）』へと同調（マージ）させざるを得なくなるような、生の最も峻烈な『射出』の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "結合と融合の軌跡。",
+		"example": "To have is to hold the fusion.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の統合。"
+			]
+		}
+	},
+	{
+		"id": "fun-life",
+		"word": "Fun@Life",
+		"meaning": "流出としての生、一瞬一瞬を自己融合の遷移として生きる一生",
+		"era": "Latin fundere + Germanic life",
+		"etymology": {
+			"components": [
+				"fun (to pour / melt / spread / scatter)",
+				"life"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "The life of fusion (注ぎ、溶け合い続ける一生。一つの場所に安住する（アイソレーション）のを拒絶し、常に宇宙の最新の標高（アヴァン）へと自らを更新し続け、不滅 of 物語（スクリプト）を描き続ける不屈の遷移)",
+		"thinking": "「（明日という名の絶望（ブラックアウト）を愛撫するのをやめ、宇宙の深淵（ソース）から飛来する理知（ロゴス）だけを）」「（自らの魂を礎（ベース）にして）注ぎ続け、溶け合い続け（Fun- / Fundere）」「生き抜く（Life）」。あなたは自分の「呼吸（ブレス）」を、ただ無為に「消費（エキスペンド）」しているのではない。あなたが今日という日、どの「欺瞞（ノイズ）」を砕いて「新しい真理という名の座標（ドット）」を救い出し、どの「驚愕（パルス）」を自らの主権（ステータス）を屹立させるための「不動（ピース）」へと変貌（コンバート）させたか。そのすべての「流出（デリバリー）」の軌跡が、宇宙という名の不変 of アーカイブの上に、あなたの「存在という名の不滅 of ロゴス」として、物理的な質量を持って刻まれ続けているのだ。流出としての生。それは、あなたが「宇宙の主権者（クリエイター）」として、この荒野を「美しき変革（ピース）」へと変容させ通した際の、魂の最高度の「抱擁」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "結合と融合の軌跡。",
+		"example": "To have is to hold the fusion.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の統合。"
+			]
+		}
 	}
 ];
