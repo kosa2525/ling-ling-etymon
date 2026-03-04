@@ -156299,5 +156299,641 @@ const WORDS = [
 				"未知の語源、既知の感動。"
 			]
 		}
+	},
+	{
+		"id": "preclude",
+		"word": "Preclude",
+		"meaning": "排除する、遮断する、あらかじめ妨げる",
+		"era": "Latin claudere",
+		"etymology": {
+			"components": [
+				"prae- (before)",
+				"claudere (to shut)"
+			],
+			"original_statement": "From Latin praecludere 'to shut off / close / hinder', from prae- 'before' + claudere 'to shut'."
+		},
+		"concept": "Shutting before (事前に閉ざすこと、先回りの封鎖)",
+		"thinking": "事が起きるより「前（Prae）」に、その道を「閉ざす（Claudere）」。単なる拒絶ではなく、ある可能性が芽生えることさえ許さない、徹底した先制攻撃的な防御です。空白を埋める前に、そこへのアクセスという権利を剥奪する、冷徹で合理的な決断の名です。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "cloisters",
+		"word": "Cloisters",
+		"meaning": "回廊、修道院、隠遁の場",
+		"era": "Latin claustrum",
+		"etymology": {
+			"components": [
+				"claudere (to shut)"
+			],
+			"original_statement": "From Old French cloistre, from Latin claustrum 'an enclosure / a shut-up place', from claudere 'to shut'."
+		},
+		"concept": "The enclosure (閉じられた静寂、思索のための囲い込み)",
+		"thinking": "「閉ざされた（Claudere）」場所。外界の喧騒から物理的に隔離され、静かな歩みと内省だけが許された聖域。そこは孤独の檻ではなく、自分の魂を「守り抜く」ための、最も贅沢で、最も厳格な知の揺りかごでした。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "close",
+		"word": "Close",
+		"meaning": "閉じる、終わる、近い、親密な",
+		"era": "Latin claudere",
+		"etymology": {
+			"components": [
+				"claudere (to shut)"
+			],
+			"original_statement": "From Old French clos, from Latin clausus, past participle of claudere 'to shut / close'."
+		},
+		"concept": "Closing the boundary (境界を閉じる。終わりの美学と隣接の重み)",
+		"thinking": "「閉じる（Claudere）」。それは一つの物語を完成させ、新しい物語への扉を開くための、必須の通過儀礼です。また、距離が「近い」ことも、自分と他者の境界が閉じていくような、あの「親密さ」という名の脆弱性を孕んだ熱を帯びています。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "clause",
+		"word": "Clause",
+		"meaning": "節、(条約などの)条項",
+		"era": "Latin clausula",
+		"etymology": {
+			"components": [
+				"claudere (to shut)"
+			],
+			"original_statement": "From Old French clause, from Medieval Latin clausa 'a close / conclusion', from Latin clausula 'a close / conclusion of a section', from claudere 'to shut'."
+		},
+		"concept": "Closing the point (一点を閉じること、完結した意味の箱)",
+		"thinking": "「完結（Clausa）」。文や法律の中で、それだけで一つの独立した意味を成し、閉じられた小宇宙。それは思考の海に打ち込まれた「目」のようなもので、そこを起点にして全体へと広がるための、最も確かな、最も閉じられた真実の一片です。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "access",
+		"word": "Access",
+		"meaning": "アクセス、接近、通路、発作",
+		"era": "Latin ad- + cedere",
+		"etymology": {
+			"components": [
+				"ad- (to)",
+				"cedere (to go)"
+			],
+			"original_statement": "From Latin accessus 'a coming to / an approach', from accedere 'to approach / go to', from ad- 'to' + cedere 'to go'."
+		},
+		"concept": "Going to (近づくこと。核心への第一歩)",
+		"thinking": "「そこへ（Ad-）」「行く（Cedere）」。ただ眺めるのではなく、自らの足で境界を越え、対象の「内部」へと自らを潜り込ませようとする意志。アクセスとは、未知への「扉」を叩き、情報の海へと飛び込むための、最も初期的な、しかし決定的な「接触の瞬間」そのものです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "recede",
+		"word": "Recede",
+		"meaning": "離れていく、遠ざかる、(髪が)薄くなる",
+		"era": "Latin re- + cedere",
+		"etymology": {
+			"components": [
+				"re- (back)",
+				"cedere (to go)"
+			],
+			"original_statement": "From Latin recedere 'to go back / withdraw / depart', from re- 'back' + cedere 'to go'."
+		},
+		"concept": "Going back (後ろへ行くこと、静かなる潮引きと消滅)",
+		"thinking": "「後ろへ（Re-）」「行く（Cedere）」。かつてあんなに近くに見えていた風景や、豊かさを誇っていたものが、抗いがたい時間の引き潮のように、自分から静かに離れていく。それは喪失ではなく、新しい舞台を用意するための、古い役者の「名残惜しい退場」の調べなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "necessity",
+		"word": "Necessity",
+		"meaning": "必要、必然性、不可欠なもの",
+		"era": "Latin ne- + cedere",
+		"etymology": {
+			"components": [
+				"ne- (not)",
+				"cedere (to yield / withdraw)"
+			],
+			"original_statement": "From Latin necessitas, from necesse 'unavoidable / necessary', literally 'that which does not yield / withdraw', from ne- 'not' + cedere 'to yield / give way'."
+		},
+		"concept": "That which does not yield (決して譲らぬもの、抗いがたき運命の楔)",
+		"thinking": "「譲る（Cedere）」ことが「ない（Ne-）」。理屈や個人の願望ではどうにも動かせない、世界の剥き出しの「不変性」のこと。必要とは、自由な選択の贅沢を捨て、その一点を守り抜かなければすべてが崩壊するという、生命の「崖っぷちの真実」の別名なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "intercede",
+		"word": "Intercede",
+		"meaning": "仲裁する、取りなす",
+		"era": "Latin inter- + cedere",
+		"etymology": {
+			"components": [
+				"inter- (between)",
+				"cedere (to go)"
+			],
+			"original_statement": "From Latin intercedere 'to come between / intervene', from inter- 'between' + cedere 'to go'."
+		},
+		"concept": "Going between (間に割って入ること、衝突する二つを繋ぐ盾)",
+		"thinking": "「間に（Inter-）」「行く（Cedere）」。激しく衝突し、対立し合う二つの物語の裂け目へ、自らを「楔」として打ち込むこと。仲裁とは勇気ではありません。自分が傷つくことを厭わずに、そこに一つの「冷静な空間（間）」を作り出そうとする、利他的な理性の「介入」のことです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "decease",
+		"word": "Decease",
+		"meaning": "死亡、逝去",
+		"era": "Latin de- + cedere",
+		"etymology": {
+			"components": [
+				"de- (away)",
+				"cedere (to go)"
+			],
+			"original_statement": "From Old French deces 'death / departure', from Latin decessus, from decedere 'to depart / die', literally 'to go away / withdraw', from de- 'away' + cedere 'to go'."
+		},
+		"concept": "Going away (遠くへ立ち去ること。生命という舞台からの静かな退場)",
+		"thinking": "「遠くへ（De-）」「行く（Cedere）」。死を「終わり」ではなく、単なる「場所の移動（退場）」と捉える優雅な視点。与えられた役割を演じきり、衣装を脱いで、観客の拍手（あるいは静寂）の中を、舞台の袖へと消えていく。その立ち去る姿そのものが、一つの完結した美を物語ります。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "cease",
+		"word": "Cease",
+		"meaning": "やめる、終わる、途絶える",
+		"era": "Latin cedere",
+		"etymology": {
+			"components": [
+				"cedere (to yield / withdraw)"
+			],
+			"original_statement": "From Old French cesser, from Latin cessare 'to stop / cease / be idle / loiter', from cedere 'to yield / withdraw'."
+		},
+		"concept": "Yielding to the end (譲り停止すること。騒々しさが消えた後の静寂)",
+		"thinking": "「譲り（Cede-）」「停止する（Cess-）」。動こうとする慣性を、自らの意志で、あるいは世界の限界によって、そっと「手放す」こと。それは断絶ではなく、役目を終えた生命力が、静かに元の場所（静止）へ譲歩して戻っていく様子。やめることは、新しい何かが始まるための「空間」を空ける行為でもあります。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "excess",
+		"word": "Excess",
+		"meaning": "過剰、超過、(道徳的な)不摂生",
+		"era": "Latin excedere",
+		"etymology": {
+			"components": [
+				"ex- (out)",
+				"cedere (to go)"
+			],
+			"original_statement": "From Old French exces, from Latin excessus 'a going out / departure / going beyond', from excedere 'to go out / go beyond', from ex- 'out' + cedere 'to go'."
+		},
+		"concept": "Going out the limit (余白という名の外側。生命の飽和状態)",
+		"thinking": "「外へ（Ex-）」「行く（Cedere）」。器からこぼれ落ちてしまう液体のように、必要な量を超えて溢れ出してしまったもの。それは時に「無駄」と呼ばれますが、生命のエネルギーが余り、ただ「在ること」の喜びを世界に向かって放射している、贅沢で美しい「祝祭」の状態でもあるのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "cessation",
+		"word": "Cessation",
+		"meaning": "休止、中断、停止",
+		"era": "Latin cessatio",
+		"etymology": {
+			"components": [
+				"cedere (to yield / stop)"
+			],
+			"original_statement": "From Latin cessatio 'a tarrying / staying / idleness', from cessare 'to stop / cease / be idle', freq. of cedere 'to yield / withdraw'."
+		},
+		"concept": "Tarrying after yielding (譲歩して留まること、活動の狭間に生まれる空白)",
+		"thinking": "「しつこく（Cess-）」「留まる（-ation）」。単なる一瞬の停止ではなく、活動という線がぷつりと途切れ、そこに「何もない時間」が横たわっている状態。休止（セセーション）は、次の行動への「溜め（タミング）」であり、嵐の前の静けさが持つ、あの研ぎ澄まされた緊張感を含んでいます。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "cession",
+		"word": "Cession",
+		"meaning": "譲渡、(権利などの)割譲",
+		"era": "Latin cedere",
+		"etymology": {
+			"components": [
+				"cedere (to yield / give way)"
+			],
+			"original_statement": "From Latin cessio 'a giving up / surrendering', from cedere 'to yield / withdraw / give way'."
+		},
+		"concept": "Yielding the position (座を譲ること。平和のための撤退)",
+		"thinking": "「譲る（Cedere）」こと。力で奪い取るのではなく、法や合意の名のもとに、自らの領土や権利を「手放し」、他者に託す身振り。それは一見すると損失ですが、対立を終わらせ、新しい「安定」を築くための、理性の最高度の「譲歩」であり、知的な撤退なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "accedence",
+		"word": "Accedence",
+		"meaning": "同意、加盟、王位承継",
+		"era": "Latin accedere",
+		"etymology": {
+			"components": [
+				"ad- (to)",
+				"cedere (to go / yield)"
+			],
+			"original_statement": "From Latin accedens, from accedere 'to approach / go toward / agree to'."
+		},
+		"concept": "Approaching the post (使命へ向かうこと、運命の引き受け)",
+		"thinking": "「そこへ（Ad-）」「行く（Cedere）」。ただの「同意」以上の重みを、歴史という文脈において背負うこと。承継（アセデンス）とは、自分がこれまで歩んできた自由な小径を捨て、大いなる連綿たる物語の「本流」へと、自らを溶かし込ませようとする厳かな「合流」の姿なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "ancestress",
+		"word": "Ancestress",
+		"meaning": "女性の先祖、祖先(女)",
+		"era": "Latin ante- + cedere",
+		"etymology": {
+			"components": [
+				"ante- (before)",
+				"cedere (to go)",
+				"-ess (female suffix)"
+			],
+			"original_statement": "From ancestor + -ess, originally from Latin antecessor 'one who goes before'."
+		},
+		"concept": "Woman who went before (先に行った女性。生命の揺りかごを繋ぐ鎖)",
+		"thinking": "「前に（Ante-）」「行く（Cedere）」女性。彼女たちが、どれほど多くの夜を耐え、どれほど多くの愛を繋ぎ、今のあなたの命の灯火を消さずに運んできてくれたか。その静かな、しかし強靭な歩みの繰り返しが、数千年の時を越えて、今のあなたの呼吸を支える「母なる優しさの鎖」となっているのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "discursion",
+		"word": "Discursion",
+		"meaning": "脱線、(理性が)転々とした推論",
+		"era": "Latin discurrere",
+		"etymology": {
+			"components": [
+				"dis- (apart)",
+				"currere (to run)"
+			],
+			"original_statement": "From Latin discursus 'a running about', from discurrere 'to run to and fro', from dis- 'apart' + currere 'to run'."
+		},
+		"concept": "Running apart (バラバラに走り回ること。思考の自由な放浪)",
+		"thinking": "思考が「バラバラ（Dis-）」な方向へ「走る（Currere）」。一直線の答えを目指すのではなく、寄り道をし、あちこちを走り回ることで、世界の複雑な全貌を、多角的に浮かび上がらせようとする知性の躍躍。それは「脱線」ではなく、真理を取り囲むための「包囲網」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "cursor",
+		"word": "Cursor",
+		"meaning": "カーソル、(計算尺の)遊標",
+		"era": "Latin currere",
+		"etymology": {
+			"components": [
+				"currere (to run)"
+			],
+			"original_statement": "From Latin cursor 'runner', from root of currere 'to run'."
+		},
+		"concept": "The runner (走る者、意思の最先端で瞬く影)",
+		"thinking": "「走る者（Cursor）」。かつて物理的な空間を駆け抜けた使者のように、今、デジタルの海の中で、あなたの「意志」が次にどこへ着地するかを、チカチカと瞬きながら先導してくれる案内人。それは、止まることを許されない「今」この瞬間の座標を指し示す、誠実なランナーの姿そのものです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "concurrent",
+		"word": "Concurrent",
+		"meaning": "同時の、合致する、併発する",
+		"era": "Latin con- + currere",
+		"etymology": {
+			"components": [
+				"con- (together)",
+				"currere (to run)"
+			],
+			"original_statement": "From Latin concurrentem, from concurrere 'to run together / clash / agree', from con- 'together' + currere 'to run'."
+		},
+		"concept": "Running together (共に走ること。秩序ある偶然の合流)",
+		"thinking": "「共に（Con-）」「走る（Currere）」。別々の場所から出発した物語や時間が、ある物理的な「一点」で奇跡的に交差し、同じリズムを奏でること。それは偶然の一致ではなく、世界を貫く大きな潮の流れが、同じ方向にすべてを押し流そうとしている、静かなる「合流」の意志なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "recursion",
+		"word": "Recursion",
+		"meaning": "再帰、リカーション、繰り返されること",
+		"era": "Latin re- + currere",
+		"etymology": {
+			"components": [
+				"re- (back / again)",
+				"currere (to run)"
+			],
+			"original_statement": "From Latin recursus 'a running back', from recurrere 'to run back', from re- 'back' + currere 'to run'."
+		},
+		"concept": "Running back (後ろへ走り戻ること。自己へと回帰する無限の輪)",
+		"thinking": "「後ろへ、再び（Re-）」「走る（Currere）」。ある答えを導き出すために、再び「自分自身の出発点」へと走り戻り、それを繰り返すこと。それは足踏みではなく、螺旋階段を登るように、自分を深掘りし続ける、内省的で数学的な「悟り」へのアプローチなのです。自分の中に、自分を見つけ続ける旅。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "curriculum",
+		"word": "Curriculum",
+		"meaning": "カリキュラム、教育課程",
+		"era": "Latin currere",
+		"etymology": {
+			"components": [
+				"currere (to run)"
+			],
+			"original_statement": "From Latin curriculum 'a running / course / career', from currere 'to run'."
+		},
+		"concept": "The course to run (走るべきコース。知という競技場の一周)",
+		"thinking": "「走る道（Curriculum）」。かつての戦車競走（チャリオット）のトラックの名です。教育とは、ただ知識を詰め込むことではなく、定められた一学期という円環を、脱落せずに最後まで走り抜くことで、自分の精神を「完遂」させるためのコースそのものなのです。あなたの走った跡が、そのままあなたの「学（まなび）」になります。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "corridor",
+		"word": "Corridor",
+		"meaning": "廊下、コリドー、地政学的回廊",
+		"era": "Latin currere",
+		"etymology": {
+			"components": [
+				"currere (to run)"
+			],
+			"original_statement": "From Italian corridore, from correre 'to run', from Latin currere 'to run'."
+		},
+		"concept": "The running place (走るための場所、空間と空間を繋ぐ細き管)",
+		"thinking": "「走るための場所（Corridor）」。部屋という「静止」の世界を繋ぎ合わせるための、「移動」のためだけに存在する純粋な空間。そこには装飾は要らない。ただ、向こう側へ、そしてこちら側へ。生命（呼吸）が途切れることなく循環するための、建築という肉体の「血管」のような場所なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "courier",
+		"word": "Courier",
+		"meaning": "運び屋、クーリエ、特使",
+		"era": "Latin currere",
+		"etymology": {
+			"components": [
+				"currere (to run)"
+			],
+			"original_statement": "From Old French courier 'runner / messenger', from Latin currere 'to run'."
+		},
+		"concept": "The runner with a message (メッセージを運ぶ走者、生命の最前線)",
+		"thinking": "「走る者（Courier）」。ただ走るのではない。その背中には、誰かの愛、あるいは宣戦布告、あるいは国家の運命を左右する「言葉の結晶」が背負われている。彼が足を止めることは、情報の死を意味する。クーリエとは、自分の命を、一つの「重みある言葉」へと捧げた、疾走する影の名です。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "occurrence",
+		"word": "Occurrence",
+		"meaning": "出来事、発生、出現",
+		"era": "Latin ob- + currere",
+		"etymology": {
+			"components": [
+				"ob- (against / in front of)",
+				"currere (to run)"
+			],
+			"original_statement": "From Latin occurrentem, from occurrere 'to run to meet / run against / appear / occur', from ob- 'toward' + currere 'to run'."
+		},
+		"concept": "Running against (前に走り寄ってくること、不意の遭遇)",
+		"thinking": "「目の前へ（Ob-）」「走り寄る（Currere）」。何かが向こうから、挨拶もなしに自分の方へと走ってきて、真正面からぶつかること。出来事（オカレンス）とは、静止した日常を突き破る「動的な衝突」であり、世界があなたに対して、否応なしにコンタクトを取ってきた証なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "currency",
+		"word": "Currency",
+		"meaning": "通貨、流布、普及",
+		"era": "Latin currere",
+		"etymology": {
+			"components": [
+				"currere (to run)"
+			],
+			"original_statement": "From Latin currentem 'running / flowing', from currere 'to run'."
+		},
+		"concept": "The thing that flows (流れるもの。価値という名の血液)",
+		"thinking": "「流れている（Curr-）」こと。貨幣の真の価値は、金庫に眠っている時ではなく、他者の手を渡り、市場という巨大な海を「駆け巡っている」時にだけ生まれます。通貨とは、社会という身体を維持するために、価値と信頼を末端まで届ける、目に見えない「流れの力」そのものなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "cursory",
+		"word": "Cursory",
+		"meaning": "大急ぎの、ぞんざいな、表面的な",
+		"era": "Latin currere",
+		"etymology": {
+			"components": [
+				"currere (to run)"
+			],
+			"original_statement": "From Late Latin cursorius 'of running / a runner', from Latin currere 'to run'."
+		},
+		"concept": "Of running (走るように。深入りせぬ軽やかな一瞥)",
+		"thinking": "「走るような（Cursor-）」。一箇所に留まって深く潜るのではなく、表面をなでるように、ただ通り過ぎていく。それは「ぞんざい」とも取れますが、膨大な情報の群れの中から、必要な「気配」だけを素早くキャッチし、次の獲物へと走り去る、狩人のような機敏さをも含んでいるのです。一点に留まらない自由の代償。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "course",
+		"word": "Course",
+		"meaning": "道筋、進路、過程、講座、料理のコース",
+		"era": "Latin currere",
+		"etymology": {
+			"components": [
+				"currere (to run)"
+			],
+			"original_statement": "From Old French cours, from Latin cursus 'a running / course / career', from currere 'to run'."
+		},
+		"concept": "A path for running (走るための道筋、宿命づけられた線)",
+		"thinking": "「走った跡（Cursus）」。道なき道ではなく、誰かが走ったことで生まれた、あるいはこれから走るべき「一本の線」。料理のコースも、教育のコースも、それは混乱を排し、あなたをある目的（完成）へと誘うための、最も効率的で美しい「知の軌道」そのものなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "incursion",
+		"word": "Incursion",
+		"meaning": "不意の乱入、侵入、襲撃",
+		"era": "Latin in- + currere",
+		"etymology": {
+			"components": [
+				"in- (in / against)",
+				"currere (to run)"
+			],
+			"original_statement": "From Latin incursionem 'a running against / an attack', from incurrere, from in- 'into / against' + currere 'to run'."
+		},
+		"concept": "Running into (内側へ走り込むこと。静寂を破る暴力的な侵入)",
+		"thinking": "「内側へ（In-）」「走り込む（Currere）」。相手の領域、安全地帯を無視して、スピードを持って中心部へと突進すること。それは単なる訪問ではなく、境界線を無効化し、自らの存在を「力」として相手の物語に強制加入させる、剥き出しの躍動の一形態です。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
 	}
 ];
