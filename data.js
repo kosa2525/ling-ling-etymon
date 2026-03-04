@@ -158612,5 +158612,620 @@ const WORDS = [
 				"未知の語源、既知の感動。"
 			]
 		}
+	},
+	{
+		"id": "convoke",
+		"word": "Convoke",
+		"meaning": "召集する、(会議などを)開く",
+		"era": "Latin con- + vocare",
+		"etymology": {
+			"components": [
+				"con- (together)",
+				"vocare (to call)"
+			],
+			"original_statement": "From Latin convocare 'to call together', from con- 'together' + vocare 'to call'."
+		},
+		"concept": "Calling together (共に呼ぶこと、バラバラの孤独を『目的』へと束ねる音)",
+		"thinking": "「全員を（Con-）」「呼び出す（Vocare）」。各々が自分の物語の中に閉じこもっている時、一つの巨大な「声」を放ち、全員の歩みを一つの焦点、あるいは一つの議論という名のテーブルへと無理やり向かわせること。召集（コンヴォーク）とは、バラバラの『個』を一つの『公』という名の物語に強制的に接続する、秩序の合図なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "vociferous",
+		"word": "Vociferous",
+		"meaning": "大声で叫ぶ、やかましい、執拗な抗議の",
+		"era": "Latin vocare + ferre",
+		"etymology": {
+			"components": [
+				"vox (voice)",
+				"ferre (to carry)"
+			],
+			"original_statement": "From Latin vociferari 'to shout / cry out / vociferate', from vox 'voice' + ferre 'to carry'."
+		},
+		"concept": "Voice-carrying (声を運んでくること、空間を圧倒する『音』の飽和)",
+		"thinking": "「声（Vox）」を「（全身で）運んでくる（Ferre）」。ただ話すのではなく、自らの肉体そのものを拡声器に変え、周囲の空気を自分の「主張」という名の暴力的な振動で満たし尽くすこと。やかましい（ヴォシフェラス）とは、あなたがどれほどそのことに「執着（または絶望）」しており、世界がそれを無視することを断固として拒否している、という魂の激しい噴火なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "voice",
+		"word": "Voice",
+		"meaning": "声、意見、(動詞の)相",
+		"era": "Latin vox",
+		"etymology": {
+			"components": [
+				"vox (voice / sound)"
+			],
+			"original_statement": "From Old French voiz, from Latin vox 'voice / sound / utterance / language / word'."
+		},
+		"concept": "The utterance (内なる震えの外出、存在の最も直接的なサイン)",
+		"thinking": "「声（Vox）」。単なる物理的な振動ではない。あなたの肉体の深層にある沈黙が、喉という名の「劇場」を通り抜け、初めて他者の耳、あるいは世界という空気に触れるための「実体」を持った瞬間。声を発することは、あなたが自分という孤独な島を脱出し、世界を自分の「響き（周波数）」で塗り替えようとする、最も原始的で最も勇気ある自己定義の行為なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "vocal",
+		"word": "Vocal",
+		"meaning": "声の、ボーカルの、(不満などを)はっきり述べる",
+		"era": "Latin vox",
+		"etymology": {
+			"components": [
+				"vox (voice / sound)"
+			],
+			"original_statement": "From Latin vocalis 'sounding / having a voice', from vox 'voice'."
+		},
+		"concept": "Of the voice (声にまつわること、震えを言葉へと結晶化させる質)",
+		"thinking": "「声（Vox）」に「満ちている、備わっている（-al）」。内に秘めるのではなく、ためらわずに「振動（音）」へと自らを変換させて放出すること。はっきり述べる（ボーカル）とは、あなたの思考がもはや頭の中という檻に留まることができず、「物理的な力（声）」として世界を物理的に揺らし始めてしまった、という意思の飽和状態のことを指しているのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "vowel",
+		"word": "Vowel",
+		"meaning": "母音、母音字",
+		"era": "Latin vocalis",
+		"etymology": {
+			"components": [
+				"vox (voice)"
+			],
+			"original_statement": "From Old French vouel, from Latin vocalis 'vocal / sounding', from vox 'voice'."
+		},
+		"concept": "The sounding thing (響くもの、言語の骨格に血を通わせる『生』の息吹)",
+		"thinking": "「声（Vox）」そのものを「形成するもの（Vocal-）」。子音（Consonant）という名の「歯止め」がない、自由奔放に響き渡る純粋な息の震え。母音（バウエル）とは、言葉という肉体に「命の響き（色彩）」を与えるための液体のようであり、それを欠けば言語はただの乾いた骨（記号）の羅致へと堕してしまう、生命の最も柔らかい中核なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "vouch",
+		"word": "Vouch",
+		"meaning": "保証する、断言する、立て替える",
+		"era": "Latin vocare",
+		"etymology": {
+			"components": [
+				"vocare (to call / summon)"
+			],
+			"original_statement": "From Old French vochier 'to call / summon / invoke', from Latin vocare 'to call'."
+		},
+		"concept": "To call on/summon (証言のために呼び出す、自らの信頼という名の一筆)",
+		"thinking": "「証人として（法律の場へ）」「呼び出す（Vocare）」。他者の誠実さや事実の真実性に対して、自分の全人格、全財産、そして全人生を「担保」として法廷（または世間）へと差し出し、「これは正しい」と叫ぶこと。保証（バウチ）するとは、他者の物語の重荷の一部を、自らの誇り高い声で「共に」引き受ける、という究極の連帯の誓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "avow",
+		"word": "Avow",
+		"meaning": "公言する、認める、白状する",
+		"era": "Latin ad- + vocare",
+		"etymology": {
+			"components": [
+				"ad- (to)",
+				"vocare (to invoke / vow)"
+			],
+			"original_statement": "From Old French avouer, from Latin advocare 'to call to', via a separate evolutionary path through 'vow / solemn promise'."
+		},
+		"concept": "Calling as a vow (誓いとして呼ぶこと。自分を呪縛する真実の宣言)",
+		"thinking": "「そこへ（Ad-）」「誓い（Vow）の声を発する（Vocare）」。密かに思うのではなく、衆人環視の中で、逃げ出せない「公（パブリック）」な事実として、自分の信念や過ちを一点の曇りもなく「声」にすること。公言（アヴォウ）とは、自分の言葉に自分自身を縛り付け、そこから一歩も退かないという、真実に対する最も峻烈で、最も清々しい「自決」の身振りなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "divert",
+		"word": "Divert",
+		"meaning": "そらす、転換する、楽しませる、流用する",
+		"era": "Latin dis- + vertere",
+		"etymology": {
+			"components": [
+				"dis- (apart)",
+				"vertere (to turn)"
+			],
+			"original_statement": "From Old French divertir, from Latin divertere 'to turn in separate directions / turn aside', from dis- 'apart' + vertere 'to turn'."
+		},
+		"concept": "Turning apart (バラバラに向きを変える。一本道の『脱線』による救済)",
+		"thinking": "「一直線の流れから（Dis-）」「横へと向きを変える（Vertere）」。押し寄せすぎて辛い現実から、ほんの少しだけ視線や目的を「そらして」、別の場所へと自分を逃がしてあげること。気晴らし（ダイバート）とは、逃避ではなく、一本道の物語が持っている「強制力」から、自分という自由を奪い返し、遊び（余白）という名の「別の旋回」を楽しむ高度な知恵なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "invert",
+		"word": "Invert",
+		"meaning": "逆にする、反転させる",
+		"era": "Latin in- + vertere",
+		"etymology": {
+			"components": [
+				"in- (in / upon)",
+				"vertere (to turn)"
+			],
+			"original_statement": "From Latin invertere 'to turn upside down / turn inside out', from in- 'in' + vertere 'to turn'."
+		},
+		"concept": "Turning in/upon (内側へ、あるいは反対へとひっくり返すこと)",
+		"thinking": "「本来の向きを（In-）」「ひっくり返す（Vertere）」。上を下に、外を内に。世界の常識や正しい順序を、あえて「真逆（インバート）」にすることで、隠されていた裏側の真実や、構造の脆弱性を露呈させること。反転とは、あなたが世界の「絶対性」を疑い、自分の手でその風景を自在に「裏返す（ターン）」ことができる、という自由な主権の行使なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "pervert",
+		"word": "Pervert",
+		"meaning": "歪める、誤用する、堕落させる、変質者",
+		"era": "Latin per- + vertere",
+		"etymology": {
+			"components": [
+				"per- (away / thoroughly)",
+				"vertere (to turn)"
+			],
+			"original_statement": "From Old French pervertir, from Latin pervertere 'to turn about / overthrow / corrupt', from per- 'away' + vertere 'to turn'."
+		},
+		"concept": "Turning away (あらぬ方向へ、徹底的に向きをそらすこと)",
+		"thinking": "「正しい道から完全に（Per-）」「（あらぬ方向へ）向きを変える（Vertere）」。本来の目的や神聖なものを、自分の歪んだ欲望や目的のために無理やり「ねじ曲げて」しまうこと。歪曲（パーバート）とは、対象の美しさをそのまま視ることを拒否し、自分の「闇」の中へと強制的に旋回させてしまう、知的な暴力、あるいは魂の迷走の別名なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "revert",
+		"word": "Revert",
+		"meaning": "戻る、復帰する、(法)復帰する",
+		"era": "Latin re- + vertere",
+		"etymology": {
+			"components": [
+				"re- (back)",
+				"vertere (to turn)"
+			],
+			"original_statement": "From Old French revertir, from Latin revertere 'to turn back / return', from re- 'back' + vertere 'to turn'."
+		},
+		"concept": "Turning back (後ろへ向きを戻すこと、起点への再旋回)",
+		"thinking": "「再び元の場所へ（Re-）」「向きを戻す（Vertere）」。変化の果てに迷い込んだ未知の平原から、自分を一番よく知っていた「あの頃」や「あの場所」へと、勇気を持ってハンドルを切ること。復帰（リバート）とは、後退ではなく、数多くの新しい景色を視た後に、あえて「始まり」の価値を再発見しようとする、螺旋階段のような深い再訪なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "version",
+		"word": "Version",
+		"meaning": "版、バージョン、……の説明、翻案",
+		"era": "Latin vertere",
+		"etymology": {
+			"components": [
+				"vertere (to turn)"
+			],
+			"original_statement": "From Medieval Latin versio 'a turning / translation', from past participle of vertere 'to turn'."
+		},
+		"concept": "A turning (一つの旋回、ある一点から視た別の『向き』の真実)",
+		"thinking": "「ある原典を、別の方向へと（Ver-）」「向きを変えたもの（-ion）」。物語は一つかもしれない。しかし、それを誰が語り、どの時代の光が当たるかによって、その「見え方（ターン）」は無限に生まれ変わる。バージョン（版）とは、同じ宇宙という名の巨大な石を、今までとは違う角度から「一回転（ターン）」させて視せた、新しい発見の試行のことなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "adversity",
+		"word": "Adversity",
+		"meaning": "逆境、不運",
+		"era": "Latin ad- + vertere",
+		"etymology": {
+			"components": [
+				"ad- (against)",
+				"vertere (to turn)"
+			],
+			"original_statement": "From Old French adversite, from Latin adversitas 'unfavorable / hardship / opposition', from adversus 'turned against', from ad- 'against' + vertere 'to turn'."
+		},
+		"concept": "Turning against (自分の方へ立ち向かってくる向き、敵意ある旋回)",
+		"thinking": "「自分に対して（Ad-）」「牙を剥くように向いている（Vertere）」状況。風が目の前から吹き、すべての道があなたを拒絶しているかのように感じる時間の重み。逆境（アドバーシティ）とは、世界があなたの「意志の固さ」を試すために、あえてあなたへと「不都合な向き（ターン）」で立ち現れている、最も過酷で最も成長を促すトレーニングの場なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "avert",
+		"word": "Avert",
+		"meaning": "(視線・事故などを)そらす、防ぐ、避ける",
+		"era": "Latin ab- + vertere",
+		"etymology": {
+			"components": [
+				"ab- (away)",
+				"vertere (to turn)"
+			],
+			"original_statement": "From Latin avertere 'to turn away / drive away', from ab- 'away' + vertere 'to turn'."
+		},
+		"concept": "Turning away (遠くへ向きを変える。破滅からの緊急旋回)",
+		"thinking": "「（迫り来る凶事から）遠くへ（Ab-）」「向きを変える（Vertere）」。突き進めば衝突する運命にある「線」を、寸前のところで別の宇宙へと「旋回」させて、最悪のシナリオを無効化すること。回避（アバート）とは、恐怖に竦んで立ち止まるのではなく、自らの手で「運命のハンドル」をあきらめずに回し続ける、生命の土壇場での必死な抵抗なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "controversy",
+		"word": "Controversy",
+		"meaning": "論争、議論",
+		"era": "Latin contra- + vertere",
+		"etymology": {
+			"components": [
+				"contra- (against)",
+				"vertere (to turn)"
+			],
+			"original_statement": "From Latin controversia 'a dispute / debate / contention', from controversus 'turned against / disputed', from contra- 'against' + vertere 'to turn'."
+		},
+		"concept": "Turning against each other (お互いに対立して向き合う。衝突する二つの向き)",
+		"thinking": "「（お互いの主張が）反対の向きから（Contra-）」「激しく向き合っている（Vertere）」状態。一つの正しさをめぐって、二つの異なる「旋回（ターン）」が激しく火花を散らし、どちらが世界の中心を占めるべきかを競い合っていること。論争（コントロバーシー）は不毛な戦いではなく、お互いの「向き」の本質をさらけ出し、より高い次元での「合意という名の新しい旋回」を創り出すための、知的な格闘なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "divorce",
+		"word": "Divorce",
+		"meaning": "離婚、分離、切り離す",
+		"era": "Latin di- + vertere",
+		"etymology": {
+			"components": [
+				"dis- (apart)",
+				"vertere (to turn)"
+			],
+			"original_statement": "From Old French divorce, from Latin divortium 'separation / divorce', from divertere 'to separate / turn aside', from dis- 'apart' + vertere 'to turn'."
+		},
+		"concept": "Turning apart / departure (バラバラに向きを変えて去ること。共有された旋回の終焉)",
+		"thinking": "「（共に歩んでいた一線から）バラバラに（Dis-）」「向きを変える（Vertere）」。二つで一つの円を描いていた共生の旋回が、ある一点でプツンと途切れ、それぞれが全く別の「孤独な軌道（ターン）」へと旅立っていくこと。離婚（デヴォース）とは、単なる決別ではなく、一つの完結した物語という檻を脱し、自分自身の固有の「向き」を再発見するための、痛みを伴う再出発の儀式なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "reverse",
+		"word": "Reverse",
+		"meaning": "反対の、逆の、(車を)バックさせる、逆転させる",
+		"era": "Latin re- + vertere",
+		"etymology": {
+			"components": [
+				"re- (back)",
+				"vertere (to turn)"
+			],
+			"original_statement": "From Old French revers 'the back / opposite', from Latin reversus, from revertere 'to turn back'."
+		},
+		"concept": "Turning back / opposite (後ろへ向きを返すこと、鏡写しの旋回)",
+		"thinking": "「後ろを向くように（Re-）」「向きをひっくり返す（Vertere）」。前進という名の傲慢さを一瞬停止させ、自らの過去、あるいは自らの「裏側（対義）」へと向き直ること。逆転（リバース）とは、一方的な時間の矢を拒否し、常に世界の「もう一つの可能性（反対向き）」を視野に留めておこうとする、理性の公正で批判的な眼差しなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "consequence",
+		"word": "Consequence",
+		"meaning": "結果、影響、結末、重大さ",
+		"era": "Latin con- + sequi",
+		"etymology": {
+			"components": [
+				"con- (together)",
+				"sequi (to follow)"
+			],
+			"original_statement": "From Old French consequence, from Latin consequentia 'a following after', from con- 'together' + sequi 'to follow'."
+		},
+		"concept": "Following together (共に付き従ってくるもの、影のように離れぬ結果)",
+		"thinking": "「（あなたの行動の）すぐ後に、共に（Con-）」「付き従ってくる（Sequi）」もの。あなたが放った矢には、必ずそれに見合った「着弾（結末）」が影のように付きまとう。結果（コンシクエンス）とは、あなたが世界に対して何をしたか、という「返答」が、時間の向こうから忠実に歩み寄って（Follow）あなたと再会する瞬間のことなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "subsequent",
+		"word": "Subsequent",
+		"meaning": "その後の、次に起こる",
+		"era": "Latin sub- + sequi",
+		"etymology": {
+			"components": [
+				"sub- (under / close after)",
+				"sequi (to follow)"
+			],
+			"original_statement": "From Latin subsequentem, from subsequi 'to follow close after', from sub- 'after' + sequi 'to follow'."
+		},
+		"concept": "Following close behind (すぐ真下、あるいは後に続くこと)",
+		"thinking": "「（前の出来事の）すぐ真下、あるいは至近距離を（Sub-）」「追いかけてくる（Sequi）」。前の物語の余韻が消えぬうちに、その正当な「続き」として姿を現す新しい出来事。次なるもの（サブセクエント）とは、世界が断絶せず、一つの息苦しいほどの密度を持って、未来へとその筆致を「継ぎ足して（Follow）」いく、連続性の美学なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "obsequious",
+		"word": "Obsequious",
+		"meaning": "へつらう、卑屈な、用心深く従う",
+		"era": "Latin ob- + sequi",
+		"etymology": {
+			"components": [
+				"ob- (against / toward)",
+				"sequi (to follow)"
+			],
+			"original_statement": "From Latin obsequiosus 'compliant / obedient', from obsequium 'compliance / service', from obsequi 'to accommodate oneself to / yield / follow', from ob- 'toward' + sequi 'to follow'."
+		},
+		"concept": "Following toward too much (相手の方へと過剰に付き従う。主体性を欠いた影)",
+		"thinking": "「相手の顔色の方へと（Ob-）」「（自分を捨ててまで）付き従う（Sequi） 」。相手の機嫌という名の不安定な光に、自分の影（意志）を無理やり「適合（フォロワー）」させ、自らをただの『部品』へと落としめてしまうこと。卑屈（オブセキアス）とは、あなたが自分の物語の主人であることを放棄し、他者の余白としての「生」を甘受してしまっている、悲しい「服従（フォロー）」の姿なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "sect",
+		"word": "Sect",
+		"meaning": "宗派、分派、セクト、学派",
+		"era": "Latin sequi",
+		"etymology": {
+			"components": [
+				"sequi (to follow)"
+			],
+			"original_statement": "From Old French secte, from Latin secta 'a way / mode / manner / school of thought', literally 'a following', from sequi 'to follow'."
+		},
+		"concept": "A following / a way (付き従う人々、特定の『道』を選ぶ少数派)",
+		"thinking": "「（特定の師や教えに）付き従う（Sequi）」人々。巨大な全体から離れ、自分たちが「これこそが真理だ」と信じる、より狭く、より峻烈な「一本の道（フォロー）」を独占的に歩もうとする集団。セクト（宗派）とは、広い荒野の中で、迷うことを拒否し、ただ一つの「足跡」を盲目的に（あるいは狂信的に）たどり続ける、純化された「孤独な連帯」の形なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "suite",
+		"word": "Suite",
+		"meaning": "(ホテルの)スイートルーム、組曲、続き部屋",
+		"era": "Latin sequi",
+		"etymology": {
+			"components": [
+				"sequi (to follow)"
+			],
+			"original_statement": "From French suite 'a following / attendance / sequence', from Old French suite, from Latin sequi 'to follow'."
+		},
+		"concept": "A following / sequence (あとに続く部屋の連なり、調和したひと揃え)",
+		"thinking": "「（一つのコンセプトに）従い、あとに続く（Sequi）」部屋（または曲）の連なり。一つの部屋で終わらず、扉を開ければまた次の、そしてその次の「続き（フォロー）」が待っている、あの贅沢な連続性。スイート（組曲）とは、各々の要素が独立していながら、全体として一つの「気高き物語（テーマ）」を共有し、互いに惹かれ合い、寄り添い合っている（Follow）、秩序ある美の集積なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "suit",
+		"word": "Suit",
+		"meaning": "スーツ、(トランプの)組、訴訟、……に似合う/適する",
+		"era": "Latin sequi",
+		"etymology": {
+			"components": [
+				"sequi (to follow)"
+			],
+			"original_statement": "From Old French suite, from Latin sequi 'to follow'."
+		},
+		"concept": "A following (付き従うこと、上から下まで『一貫した』装い/要求)",
+		"thinking": "「（ある一人の主人、あるいは目的を）完璧に追い切って（Sequi）」「出来上がったもの」。上着からズボンまで、同じ「糸」が付き従うように貫かれている衣服（スーツ）。あるいは、法廷の場で、一人の人間が真実を「どこまでも（Follow）」追い求める行為（訴訟）。適する（スーツ）とは、あなたの形と、世界の要求が、一点の隙もなく「重なり合い、寄り添っている（フォロー）」という、完璧な整合性の状態のことなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "suitor",
+		"word": "Suitor",
+		"meaning": "求婚者、(企業の)買収側、訴訟当事者",
+		"era": "Latin sequi",
+		"etymology": {
+			"components": [
+				"sequi (to follow)"
+			],
+			"original_statement": "From Anglo-French seutour, from sequi 'to follow'."
+		},
+		"concept": "The follower (追いかける者、愛、あるいは利を求めて『影』となる者)",
+		"thinking": "「（愛する人の後を）どこまでも付き従い（Sequi）」「追い求める者（-or）」。自分の孤独を埋めるために、他者という名の「光」の周りをグルグルと旋回し、その懐に入り込もうと機を伺う、情熱的なフォロワー。求婚者（スイーター）とは、自分の現在という「無」を、他者という名の「実（フル）」によって満たそうとする、最も謙虚で、最も利己的な「追跡者」の名なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "suitable",
+		"word": "Suitable",
+		"meaning": "ふさわしい、適切な",
+		"era": "Latin sequi",
+		"etymology": {
+			"components": [
+				"suit (to follow)",
+				"-able (capable of)"
+			],
+			"original_statement": "From suit + -able, originally from Latin sequi 'to follow'."
+		},
+		"concept": "Able to follow / fit (付き従い、ぴったり合うことができる。不協和音なき隣接)",
+		"thinking": "「（対象に）寄り添い、従うこと（Sequi）」「が可能である（-able）」。強引にねじ込むのではなく、まるであつらえた（Suit）かのように、その場を支配する「法」や「空気」と調和して（Follow）、自然にそこに在り続けられること。ふさわしい（スータブル）とは、あなたがその場所において「ノイズ」であることをやめ、世界の美しい「背景」の一部と同化した、静かなる勝利の状態のことなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "nonsensical",
+		"word": "Nonsensical",
+		"meaning": "無意味な、ばかげた",
+		"era": "Latin non- + sentire",
+		"etymology": {
+			"components": [
+				"non- (not)",
+				"sentire (to feel / perceive)"
+			],
+			"original_statement": "From non- + sense + -ical, originally from Latin non 'not' + sentire 'to feel / sense'."
+		},
+		"concept": "Not feeling / sensing (感覚が通っていないこと、理性の『呼吸』の停止)",
+		"thinking": "「感覚（Sense）」が「通っていない（Non-）」。文字は並んでいる。声は聞こえる。しかし、あなたの「心という肌（フィール）」が、そこに何の温度も、何の重みも、何の脈動も感じ取ることができない状態。無意味（ナンセンシカル）とは、言葉という名の「死骸」がただそこに並んでいるだけで、生命という名の「意味（センサー）」が宿ることを拒否した、凍りついた思考の不毛地帯なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
 	}
 ];
