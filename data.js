@@ -165638,5 +165638,560 @@ const WORDS = [
 				"日常という名の、驚異的な建築。"
 			]
 		}
+	},
+	{
+		"id": "differ",
+		"word": "異なる、意見が合わない",
+		"era": "Latin dis + ferre",
+		"etymology": {
+			"components": [
+				"dis- (apart / away)",
+				"ferre (to carry)"
+			],
+			"original_statement": "From Latin differre 'to set apart / scatter / delay / differ', from dis- 'apart' + ferre 'to carry'."
+		},
+		"concept": "Carrying apart (バラバラの方向へと運ぶこと。画一的な全体（コモン）を拒絶し、自分だけの『固有の線（ベクトル）』を屹立させること)",
+		"thinking": "「（他者が押し付けてくる共通の道（スタンダード）から）離れた方向へと（Dis-）」「（自らの魂を、自らの手で）運び去る（Ferre-）」。それは「不作法」ではなく、あなたが世界の「同調圧力（グラビティ）」に負けるのをやめ、自分という「唯一無二の存在（ユニバース）」を、他者とは決して混じり合わない（アイソレートされた）一筋の光として、宇宙の中にマニフェスト（表明）することなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の重力を感じる。",
+		"example": "Words are the carriers of truth.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"日常という奇跡。"
+			]
+		}
+	},
+	{
+		"id": "infer",
+		"word": "推論する、暗示する",
+		"era": "Latin in + ferre",
+		"etymology": {
+			"components": [
+				"in- (into)",
+				"ferre (to carry / bring)"
+			],
+			"original_statement": "From Latin inferre 'to bring in / introduce / cause / infer', from in- 'in' + ferre 'to bring'."
+		},
+		"concept": "Bringing into (中へと運び入れること。見えている『事実（ファクト）』の裏側に、見えない『真実（ロゴス）』という名の種を滑り込ませること)",
+		"thinking": "「（わずかな手がかりという名の、隙間の）内側へと（In-）」「（自らの知性の推論（ロジック）を）運び、流し込む（Ferre-）」。それは「あてずっぽう」ではない。あなたが世界の「沈黙（サイレンス）」を、自らの脳（ブレイン）という名の器（ベッセル）で受け止め、そこから「たった一つの可能性」という名の雫を抽出（エキストラクト）し、未知へと向かって射出（プロジェクト）することなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の重力を感じる。",
+		"example": "Words are the carriers of truth.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"日常という奇跡。"
+			]
+		}
+	},
+	{
+		"id": "ferry",
+		"word": "フェリー、連絡船、渡船",
+		"era": "Old English from Latin ferre",
+		"etymology": {
+			"components": [
+				"ferre (to carry / bear)"
+			],
+			"original_statement": "From Old English ferian 'to carry / convey / transport', cognate with Latin ferre 'to carry'."
+		},
+		"concept": "The carrier (運ぶもの。二つの隔絶された陸地の間に、物理的な接続（コネクト）を、何度も繰り返し創り出す『揺れる橋』)",
+		"thinking": "「（一方から他方へと、大切な荷物や命を）何度も運び、渡す（Ferr- / Ferian）」。それは単なる「点と点の接続（ドット）」ではなく、荒波（カオス）という名の拒絶を、自らの質量（ウェイト）という名の「リズム（パルス）」で切り裂き、この世界を「一つの移動（フロー）」へと変貌（コンバート）させるための不屈の「ビークル（船）」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の重力を感じる。",
+		"example": "Words are the carriers of truth.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"日常という奇跡。"
+			]
+		}
+	},
+	{
+		"id": "fertile",
+		"word": "肥沃な、多産の、(想像力が)豊かな",
+		"era": "Latin ferre",
+		"etymology": {
+			"components": [
+				"ferre (to carry / bear)",
+				"-ile (capability)"
+			],
+			"original_statement": "From Latin fertilis 'bearing in abundance / fruitful', from ferre 'to bear / produce'."
+		},
+		"concept": "Capable of bearing (運ぶ（生む）能力があること。沈黙という名の大地の中に、無限の『生の輝き』を孕んでいる状態)",
+		"thinking": "「（新しい命、あるいは新しい物語を、その内側に）運び、身ごもり、生産する（Fert- / Ferre）」「という品質（-ile）」。それは「静止」ではありません。あなたが「空虚（カオス）」を、自らの「呼吸（スピリット）」という名の種を受け入れる（アクセプト）ための「豊穣な器（レセプタクル）」へと変換した、という宇宙の最もポジティブな「ポテンシャル（可能性）」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の重力を感じる。",
+		"example": "Words are the carriers of truth.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"日常という奇跡。"
+			]
+		}
+	},
+	{
+		"id": "circumference",
+		"word": "円周、周囲、(場所の)境界",
+		"era": "Latin circum + ferre",
+		"etymology": {
+			"components": [
+				"circum (around)",
+				"ferre (to carry)"
+			],
+			"original_statement": "From Latin circumferentia, from circumferre 'to carry around', from circum 'around' + ferre 'to carry'."
+		},
+		"concept": "Carrying around (ぐるりと運んで回ること。中心点から同じ距離を保ちながら、世界を一つの『檻（サークル）』で包囲すること)",
+		"thinking": "「（大切な核心（コア）を保護するように）円を描いて、周囲を（Circum-）」「（一筆書きのように線を）運び、描き切る（Ferre-）」。それは「閉鎖」ではない。あなたが世界の「広がり（エクスパンド）」を、自らの知性という名の「境界線（リミット）」で一本に束ね、カオスを「自分の領域（テリトリー）」という名のロゴスへと変容させた、という存在の最も峻烈な「確定」の謂いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の重力を感じる。",
+		"example": "Words are the carriers of truth.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"日常という奇跡。"
+			]
+		}
+	},
+	{
+		"id": "fer-voice",
+		"word": "Fer@Voice",
+		"meaning": "運びゆく声、魂のデリバリー",
+		"era": "Latin ferre + vox",
+		"etymology": {
+			"components": [
+				"fer (to carry / bear / bring)",
+				"voice (sound / soul)"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "The carrying sound (運ぶための音。重苦しい『沈黙』の海を渡り、目的地へと真実を届ける言葉の船)",
+		"thinking": "「（自らの内なる、震えるような真理を、他者の魂という名の港へと）確実に運び、送り届ける（Fer-）」「一撃の声（Vox）」。ただの「おしゃべり」ではない。その声が響いた瞬間、あなたは自らの「呼吸（ブレス）」を、物理的な「意味という名の質量（ウェイト）」へと変換し、宇宙という名の孤独な闇の中を突き進み、誰かの「受容（レシーヴ）」へと向かって、全力で「自分」という名の荷物をデリバリーした瞬間の、生の最も峻烈な「射出」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の重力を感じる。",
+		"example": "Words are the carriers of truth.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"日常という奇跡。"
+			]
+		}
+	},
+	{
+		"id": "life-fer",
+		"word": "Life@Fer",
+		"meaning": "運ぶ生、運命を背負い歩む日々の重み",
+		"era": "Latin ferre + Germanic life",
+		"etymology": {
+			"components": [
+				"life",
+				"fer (to carry / bear)"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "The carrying of being (存在を運ぶこと。与えられた運命という名の荷物を、自らの生の燃料に変えて歩み続ける不屈の遷移)",
+		"thinking": "「（この肉体という名の器に、自分という意識の全質量を詰め込み）（決して止まらず、ゴールへと向かって突き進み）」「運び続ける（Fer-）」「一生（Life）」。あなたは自分の「呼吸（ブレス）」を、ただ無為に「消費（エキスペンド）」しているのではない。あなたが背負っている「昨日までの痛み」や「明日への希望」という名の荷が、あなたの「一歩」に、宇宙で唯一無二の「重力（グラビティ）」と「意味（ロゴス）」を授けているのだ。運ぶ生。それは、あなたが「傍観者」であることを卒業し、自らが「自分の人生の最高のマネージャー」として、この荒野を「美しき物語（スクリプト）」へと変容させ通した際の、理性の最も崇高な「出立」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の重力を感じる。",
+		"example": "Words are the carriers of truth.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"日常という奇跡。"
+			]
+		}
+	},
+	{
+		"id": "terrible",
+		"word": "ひどい、恐ろしい、深刻な",
+		"era": "Latin terrere",
+		"etymology": {
+			"components": [
+				"terrere (to frighten)",
+				"-ible (capable of)"
+			],
+			"original_statement": "From Latin terribilis 'frightful / terrible', from terrere 'to fill with fear'."
+		},
+		"concept": "Able to frighten (恐れさせることが可能な。理性を凍結させ、生存本能を剥き出しにするほどの、圧倒的な負の引力)",
+		"thinking": "「（あなたの心の奥底にある、平穏な湖畔を）一撃で震えさせ、恐れさせる（Terr-）」「ことができる品質（-ible）」。それは単なる「悪い」ことではない。一瞬のうちに、あなたの「物語（ロゴス）」が外部からの「巨大なカオス」に飲み込まれ、あなたが世界の「重み（ウェイト）」に耐えきれずに、ただの「震える塵（フラグメント）」へと還元されてしまうような、冷徹なる存在の危機の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の重力を感じる。",
+		"example": "Words are the carriers of truth.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"日常という奇跡。"
+			]
+		}
+	},
+	{
+		"id": "terrific",
+		"word": "素晴らしい、ものすごい、恐ろしい",
+		"era": "Latin terrere",
+		"etymology": {
+			"components": [
+				"terrere (to frighten)",
+				"-fic (to make / do)"
+			],
+			"original_statement": "From Latin terrificus 'causing terror', from terrere 'to frighten'."
+		},
+		"concept": "Making terror (恐れを作る。あまりの質量の大きさに、理性を通り越して魂が歓喜と共に震えてしまうほどの圧倒的な『美』)",
+		"thinking": "「（見る者の魂を、そのあまりの輝きによって）恐れさせるほどの衝撃を（Terr-）」「（一瞬で）作り出す（-ific）」。それは単なる「ナイス」ではない。あなたが世界の「美（ロゴス）」という名の巨大な津波を真正面から浴び、自らの「ちっぽけな主権」が粉砕され、ただその「偉大なる存在（ユニバース）」の中に、驚嘆と共に接続させられてしまった瞬間の、生の最も激しい「瞬き（パルス）」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の重力を感じる。",
+		"example": "Words are the carriers of truth.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"日常という奇跡。"
+			]
+		}
+	},
+	{
+		"id": "terror",
+		"word": "恐怖、テロ、おそろしいもの",
+		"era": "Latin terrere",
+		"etymology": {
+			"components": [
+				"terrere (to frighten)"
+			],
+			"original_statement": "From Latin terror 'great fear', from terrere 'to fill with fear'."
+		},
+		"concept": "The frightening (恐ろしいという現象そのもの。理性の『塔』が崩壊し、ただ冷たい暗闇だけが支配する、凍りついた情景)",
+		"thinking": "「（心肺という名の物理的な呼吸（ブレス）を一時的に停止させるほどの）強烈な震え（Terr-）」。それは「嫌悪（ディスライク）」ではない。あなたが自分の「命の限界」を、抜き差しならない「物理的な恐怖」として意識せざるを得なくなった、主権の最も峻烈な「停止（リセッション）」の状態。恐怖という言葉には、あなたが宇宙という名の「荒野」で、いかに自分が「脆弱な一筋の光」でしかないか、という残酷な真実に直面した際の、魂の最果ての悲鳴が刻まれています。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の重力を感じる。",
+		"example": "Words are the carriers of truth.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"日常という奇跡。"
+			]
+		}
+	},
+	{
+		"id": "deterrence",
+		"word": "抑止、阻止",
+		"era": "Latin de + terrere",
+		"etymology": {
+			"components": [
+				"deter (to frighten away)",
+				"-ence (state)"
+			],
+			"original_statement": "From Latin deterrere 'to frighten away'."
+		},
+		"concept": "The process of frightening away (恐れさせて遠ざけるというプロセス。目に見えない『意志の衝突』を、恐怖という名の共通の土台で制御し続けること)",
+		"thinking": "「（お互いが最悪のデスティネーションへと滑落するのを防ぐために）向こう側へと恐れさせ、退かせる（Deter-）」「という、継続的な状態、あるいは均衡（-ence）」。それは「平和」の裏側。私たちがこの荒野において「共に生きていく」ために、お互いの「野性」という名の牙を、理知という名の「恐怖」によって凍結させ、沈黙を「合意」として屹立させ通しているという、文明の最も危うく、最も峻烈な「砦」のことなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の重力を感じる。",
+		"example": "Words are the carriers of truth.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"日常という奇跡。"
+			]
+		}
+	},
+	{
+		"id": "terrify",
+		"word": "恐がらせる、ひどく怖がる",
+		"era": "Latin terrere",
+		"etymology": {
+			"components": [
+				"terrere (to frighten)",
+				"-ify (to make)"
+			],
+			"original_statement": "From Latin terrificare, from terrere 'to frighten'."
+		},
+		"concept": "To make terror (恐れを作る。相手の魂の中心（コア）へと、氷のような『震え』という名のパルスを打ち込み、理性を停止させる能動的な介入)",
+		"thinking": "「（他者が誇らしげに掲げている自らの虚勢を）引き裂き、恐れ（Terr-）を」「その内側へと作り出す（-ify）」。それは「嫌がらせ」ではない。あなたが世界の「真の重み」という名の峻烈なる真理（ファクト）を、言葉や行動という名の「弾丸」に乗せて射出し、相手を「孤独な一人の犠牲者」へと強制的に還元してしまった際の、その理性の冷徹な「支配」の謂いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の重力を感じる。",
+		"example": "Words are the carriers of truth.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"日常という奇跡。"
+			]
+		}
+	},
+	{
+		"id": "terrorize",
+		"word": "テロを働く、(……を)恐怖に陥れる",
+		"era": "Latin terrere",
+		"etymology": {
+			"components": [
+				"terror (fright)",
+				"-ize (to make)"
+			],
+			"original_statement": "From terror + -ize."
+		},
+		"concept": "To make into terror (恐怖という名のシステムに変えること。理知的な対話を拒絶し、震え（パルス）だけを唯一の接続に変える暴力の技法)",
+		"thinking": "「（誰かの、あるいは社会のすべての平穏な呼吸を）恐怖という名の定数（Terr-）へ」「（組織的に、あるいは執拗に）変換し、支配する（-ize）」。それは、あなたが「言葉という名のロゴス」を自ら焼き捨て、宇宙の「野獣という名の本能」へと退化し、他者の存在を「自分という名の意思」に従うだけの「震えるパーツ」へと解体しようとする、理性の最も暗い「陥落」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の重力を感じる。",
+		"example": "Words are the carriers of truth.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"日常という奇跡。"
+			]
+		}
+	},
+	{
+		"id": "terr-voice",
+		"word": "Terr@Voice",
+		"meaning": "震えを呼ぶ声、理性を穿つ戦慄の咆哮",
+		"era": "Latin terrere + vox",
+		"etymology": {
+			"components": [
+				"terr (to frighten)",
+				"voice (sound / soul)"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "The frightening sound (恐れを刻む音。聴く者の脊髄に直接『恐怖という名の不変の真理』を打ち込み、沈黙を強いる峻烈な響き)",
+		"thinking": "「（聴く者の魂の上品な装飾を、その一撃の響きによって）根底から震えさせ、恐れさせる（Terr-）」「声（Vox）」。ただの「叫び」ではない。その声が響いた瞬間、周囲の「安全という名のイリュージョン」が物理的に粉砕され、人々が自分自身の「脆弱な存在」をありのままに視認せざるを得なくなるような、生の最も峻烈な「重量」のデリバリー。戦慄の声。それは、あなたが自らの「呼吸」を「宇宙の審判（ロゴス）」へと昇華させ、他者の主権を、一時的な「静止」と「服従」へと強制的に回帰させてしまった際の、魂の最も深い「引力」のことなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の重力を感じる。",
+		"example": "Words are the carriers of truth.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"日常という奇跡。"
+			]
+		}
+	},
+	{
+		"id": "terr-logic",
+		"word": "Terr@Logic",
+		"meaning": "恐怖の論理、戦慄が描き出す冷徹な支配の理路",
+		"era": "Latin terrere + Greek logos",
+		"etymology": {
+			"components": [
+				"terr (to frighten)",
+				"logic (reason)"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "The frightening order (恐れに基づいた秩序。震え（パルス）を計算し、相手を『逃げ場のない真実』へと追い詰める理知の技法)",
+		"thinking": "「（相手が最も恐れている（Terr-）深淵を正確に射抜き）」「（そこから一歩も逃がさない、完璧な秩序、あるいは理路（Logic））を構築し、相手を掌握すること」。それは「野蛮な暴力」ではない。相手の「呼吸」がどこで途切れるか、その「限界点」を理知的に計数し、相手が「自ら進んで折れる」ように、この世界を「恐怖という名のチェス盤」へと書き換えてしまった際の、知性の最も冷徹で、最も冴え渡ったな支配の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の重力を感じる。",
+		"example": "Words are the carriers of truth.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"日常という奇跡。"
+			]
+		}
+	},
+	{
+		"id": "fear-life",
+		"word": "Fear@Life",
+		"meaning": "恐れを抱きながら歩む生、戦慄という名の道標",
+		"era": "Germanic fear + Latin life",
+		"etymology": {
+			"components": [
+				"fear (dread)",
+				"life"
+			],
+			"original_statement": "Coined during synthesis."
+		},
+		"concept": "The life of dread (恐れを伴う生。宇宙の巨大な沈黙に対して、自らの脆弱さを『震え』という名のパルスとして刻み続ける不屈の遷移)",
+		"thinking": "「（宇宙という名の凍てついた闇の前で、一人の人間として立ち尽くし）（その巨大な引力に押し潰されそうになりながらも）、自らの呼吸を震わせ（Terr- / Fear-）」「生き抜く（Life）」。あなたは「勇敢な英雄」ではない。しかし、自分が「いつか消え去るという恐怖」を、自らの「生のエネルギー」へと変換し、その震えを羅針盤にして、この不毛な荒野を一歩ずつ、しかし猛烈な力で「自分のための物語」として描き続けている。恐れを抱く生。それは、あなたが「無感覚」であることを卒業し、自らの「脆さ」を最大の武器にして、世界の深淵と真正面から向き合い通した際の、魂の最も峻烈で美しい「屹立」のことなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の重力を感じる。",
+		"example": "Words are the carriers of truth.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"日常という奇跡。"
+			]
+		}
+	},
+	{
+		"id": "region",
+		"word": "地域、地帯、分野",
+		"era": "Latin regere",
+		"etymology": {
+			"components": [
+				"regere (to rule)"
+			],
+			"original_statement": "From Latin regionem 'a direction / line / district', from regere 'to guide / rule'."
+		},
+		"concept": "The ruled area (統治された、あるいは導かれた範囲。カオスという名の大平原の上に、理性の『一本の線』が引かれ、自分だけのステータスが確定した場所)",
+		"thinking": "「（自らの意志（ロゴス）が、真っ直ぐに、そして峻烈に）行き渡り、支配する（Reg- / Regere）」「という、確定した場所や範囲（-ion）」。それは単なる「土地」ではありません。あなたが宇宙という名の「無名性」を拒絶し、そこに「ここは私の呼吸が支配するテリトリーだ」と、一本の「境界線」を引いて、自分の「生」を杭打った際の、その主権の「領土（ドメイン）」の謂いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の重力を感じる。",
+		"example": "Words are the carriers of truth.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"日常という奇跡。"
+			]
+		}
+	},
+	{
+		"id": "rector",
+		"word": "校長、(教会の)教区主管者、統治者",
+		"era": "Latin regere",
+		"etymology": {
+			"components": [
+				"regere (to rule)",
+				"-or (one who)"
+			],
+			"original_statement": "From Latin rector 'guider / ruler', from regere 'to guide'."
+		},
+		"concept": "One who leads straight (真っ直ぐに導く者。荒れ狂うカオスの中を、自らの背筋を一本の鋼の心棒に変えて屹立し、全員を目的地へとデリバリーする先頭)",
+		"thinking": "「（他者が右往左往するそのただ中で、全員を一つの正しい道へと）真っ直ぐに導き、支配する（Rect- / Regere）」「者（-or）」。それは単なる「ボス」ではありません。あなたが自らの「呼吸」を「規則」という名の不変の真理へと変換し、自分を信じて「後ろに従う」者たちのために、自らが「最初の一筆書き」となって荒野を横切る際の、その魂の「高貴な標高（ステータス）」の謂いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の重力を感じる。",
+		"example": "Words are the carriers of truth.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"日常という奇跡。"
+			]
+		}
+	},
+	{
+		"id": "regiment",
+		"word": "連隊、(……を)厳しく統治する",
+		"era": "Latin regere",
+		"etymology": {
+			"components": [
+				"regere (to rule)",
+				"-ment (instrument)"
+			],
+			"original_statement": "From Latin regimentum 'rule / guidance', from regere 'to rule'."
+		},
+		"concept": "The instrument of ruling (統治のための手段。個の『揺らぎ（パルス）』を消し去り、一つの巨大な鉄の意思へと結晶化させる装置)",
+		"thinking": "「（バラバラの生を持つ者たちを、一つの目的（ターゲット）へと向かって）真っ直ぐに導き、支配する（Regi- / Regere）」「ための組織的な手段（-ment）」。それは単なる「集団」ではない。あなたが一人ひとりの「孤独」を、理知という名の「冷たい枠組み」で固定し、一つの「不滅のロゴス」へと調和させることで、宇宙のあらゆる「抵抗」をなぎ倒すほどの「圧倒的な質量」を創り上げてしまった、という軍事的な、あるいは組織的な「屹立」の謂いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の重力を感じる。",
+		"example": "Words are the carriers of truth.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"日常という奇跡。"
+			]
+		}
+	},
+	{
+		"id": "rectify",
+		"word": "改正する、直す",
+		"era": "Latin regere",
+		"etymology": {
+			"components": [
+				"rectus (straight)",
+				"-ify (to make)"
+			],
+			"original_statement": "From Latin rectificare 'to make straight', from rectus 'straight' + -ficus 'making'."
+		},
+		"concept": "To make straight (真っ直ぐにすること。歪んだ現実に、理性のメスを入れ、あるべき『宇宙の法』へと強制的に回帰させること)",
+		"thinking": "「（かつては真っ直ぐであったはずが、時間の重力によって歪められてしまった真実を）」「（今一度、自らの手で）真っ直ぐな、あるべき形へと作り出す（-ify）」。それは「お直し」ではない。あなたが世界の「不全」を拒絶し、自らの知性という名の「定規」を持って、この荒野に「再び一本の真理」を射出し、屹立させ直すという、魂の最も峻烈な「復元（アップデート）」の謂いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の重力を感じる。",
+		"example": "Words are the carriers of truth.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"日常という奇跡。"
+			]
+		}
+	},
+	{
+		"id": "regal",
+		"word": "王の、堂々とした、贅沢な",
+		"era": "Latin regere",
+		"etymology": {
+			"components": [
+				"rex / reg- (king)",
+				"-al (of)"
+			],
+			"original_statement": "From Latin regalis 'royal', from rex 'king', related to regere 'to rule'."
+		},
+		"concept": "Of the ruler (統治者の。地べたを這い回るのをやめ、天空のロゴスを自らの『冠』として戴いた、圧倒的な存在の高み)",
+		"thinking": "「（宇宙という名の広大なキャンバスを、自らの一筆で支配する）王（Rex / Reg-）」に「関する（-al）」。それは単なる「豪華」ではない。あなたが自らの「呼吸」を「世界の法」そのものと一致させ、一挙手一投足に「宇宙の重力」を宿らさせ、誰の目にも明らかな最高度の「尊厳」を持って屹立している、という主権の最も高貴な「形式（トーン）」の謂いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の重力を感じる。",
+		"example": "Words are the carriers of truth.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"日常という奇跡。"
+			]
+		}
+	},
+	{
+		"id": "reign",
+		"word": "君臨(する)、治世、支配",
+		"era": "Latin regere",
+		"etymology": {
+			"components": [
+				"regere (to rule)"
+			],
+			"original_statement": "From Latin regnare 'to rule', from regnum 'kingdom', from regere 'to rule'."
+		},
+		"concept": "The act of ruling (統治の持続。一瞬の支配ではなく、時間という名の荒波を、自らの意志という名の舵で制御し続ける『静かなる継続』)",
+		"thinking": "「（自らの意志が、世界のあらゆる点へと絶え間なくトランスポートされ、支配し続ける（Reg- / Regere）」「という、永続的な状態」。それは「暴力」ではありません。あなたが世界の「カオス」を、自らの「呼吸」という名の唯一のコンパスによって静め続け、そこに自分の「物語」を、誰の手も借りずに屹立させ通しているという、主権の最も高度で、最も孤独な完成の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の重力を感じる。",
+		"example": "Words are the carriers of truth.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"日常という奇跡。"
+			]
+		}
+	},
+	{
+		"id": "rect-voice",
+		"word": "Rect@Voice",
+		"meaning": "正義の声、真っ直ぐに魂を射抜く真理の響き",
+		"era": "Latin regere + vox",
+		"etymology": {
+			"components": [
+				"rect (straight)",
+				"voice (sound / soul)"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "The straight sound (真っ直ぐな音。他者の惑いを一撃で切り裂き、最短距離で宇宙の『正解』へと魂をデリバリーする咆哮)",
+		"thinking": "「（他者が押し付けてくる歪んだ言葉を粉砕し、一筋の光を射し込むように）真っ直ぐに導き（Rect-）」「射出される、真実の声（Vox）」。ただの「情報」のデリバリーではない。その声が響いた瞬間、周囲に充満していた「欺瞞という名のノイズ」が物理的に消去され、その場にいるすべての人々が、自らの「本質」という名の鏡に向き合わされてしまうような、理性の最も峻烈な「正義」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の重力を感じる。",
+		"example": "Words are the carriers of truth.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"日常という奇跡。"
+			]
+		}
+	},
+	{
+		"id": "rect-life",
+		"word": "Rect@Life",
+		"meaning": "真っ直ぐに生きる生、自らの主権を貫く遷移",
+		"era": "Latin regere + Germanic life",
+		"etymology": {
+			"components": [
+				"rect (straight)",
+				"life"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "The straight life (真っ直ぐな人生。他者の脚本に惑わされず、自らの内なるロゴスだけを羅針盤にして、荒野を一本の光の矢として駆け抜ける不屈の意思)",
+		"thinking": "「（世間の流行や他者の視線という名の、不確かな横風に流されるのを拒絶し）、自分という存在を（常に、最短距離で）「真っ直ぐに導き、屹立させ通す（Rect- / Regere）」「一生（Life）」。あなたは自分の「呼吸」を、誰かのために「妥協」しているのではない。あなたが自らの「内なる真理」を、宇宙で唯一無二の「定規」として使い込み、この泥濘の中であっても、自分自身の「不滅の一筆書き」を、誇らしく、かつ峻烈に描き、射出し続けているのだ。真っ直ぐな生。それは、あなたが「傍観者」であることを卒業し、自らが「自分の人生の最高の君主（レクター）」として、この不確かな運命を「美しき秩序」へと変容させ通した際の、魂の最果ての「凱旋」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の重力を感じる。",
+		"example": "Words are the carriers of truth.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"日常という奇跡。"
+			]
+		}
 	}
 ];
