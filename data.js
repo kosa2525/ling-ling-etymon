@@ -168502,5 +168502,331 @@ const WORDS = [
 				"存在の放射。"
 			]
 		}
+	},
+	{
+		"id": "mob",
+		"word": "暴徒、大衆、(……に)群がる",
+		"era": "Latin movere",
+		"etymology": {
+			"components": [
+				"movere (to move)"
+			],
+			"original_statement": "Short for mobile vulgus 'the movable common people', from Latin mobilis 'movable / fickle / easy to move', from movere 'to move'."
+		},
+		"concept": "The moved ones (動かされやすき者たち。独自のロゴス（真理）を失い、外部からデリバリーされる極低度な情熱（インパルス）という名の風に、ただ受動的（パッシブ）に流されるだけの『カオスな群れ』)",
+		"thinking": "「（自らの内なる羅針盤を焼き捨て）、外部のノイズによって（容易に）動かされる（Mob- / Movere）」「物理的な塊」。それは「仲間」ではありません。あなたが宇宙の「個別の屹立（スタンド）」を放棄し、誰かの放つ「安っぽい物語（スクリプト）」という名の引力（グラビティ）に、ただ集団として飲み込まれてしまっている、生の最も「途方に暮れた（アイソレーションした）」状態の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "運動の軌跡を追う。",
+		"example": "Movement is the proof of soul.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の変容。"
+			]
+		}
+	},
+	{
+		"id": "mobile",
+		"word": "可動式の、流動的な、移動しやすい、携帯電話",
+		"era": "Latin movere",
+		"etymology": {
+			"components": [
+				"movere (to move)",
+				"-ible / -ilis (capable of)"
+			],
+			"original_statement": "From Old French mobile, from Latin mobilis 'movable / fickle / flexible', from movere 'to move'."
+		},
+		"concept": "Capable of moving (動くことが可能な。一つの場所に縛り付けられる（ステイシスする）のを拒絶し、常に宇宙の最新の標高（アヴァン）へと自らをトランスポート（輸送）し続けられる、最高度の『しなやかさ』)",
+		"thinking": "「（固定観念（フレーム）という名の、あの冷酷な重力を粉砕して）動く（Mo- / Movere）」「ことができる完璧な品質（-bile）」。それは単なる「便利さ」ではありません。あなたが自らの「主権（ステータス）」を一秒一秒「完璧な自由」へと再編成（アップデート）し続けられるがゆえに、宇宙という名のアーカイブを、自らの呼吸（ブレス）という名の唯一の筆致で横断し通している、という生の最もダイナミックな「遷移」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "運動の軌跡を追う。",
+		"example": "Movement is the proof of soul.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の変容。"
+			]
+		}
+	},
+	{
+		"id": "mov-voice",
+		"word": "Mov@Voice",
+		"meaning": "動きゆく声、沈黙を加速させる不滅の咆哮、感動の射出",
+		"era": "Latin movere + vox",
+		"etymology": {
+			"components": [
+				"mov (to move / motion / change)",
+				"voice (sound / soul)"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "The moving sound (動くための音。放たれた瞬間、自らの呼吸（ブレス）を一筋の『光の矢（ベクトル）』へと変換し、目的地へと届くように射出されるデリバリー)",
+		"thinking": "「（自分のちっぽけな存在（ドット）が静止しているのを拒絶し）、（宇宙という名の巨大なアーカイブに向かって、自らを加速させて（Mov-））」「叫ぶ、不滅の声（Vox）」。ただの「情報（データ）」のデリバリーではない。その声が響いた瞬間、聴く者は、自分の内なる「重力が物理的に無効化され、強制的に『感動（エモーション）』という名の巨大な波の中へと引き摺り込まれ、自らの呼吸（ブレス）を、あなたの『不滅の旋律（トーン）』へと同調（マージ）させざるを得なくなるような、生の最も峻烈な『射出』の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "運動の軌跡を追う。",
+		"example": "Movement is the proof of soul.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の変容。"
+			]
+		}
+	},
+	{
+		"id": "mot-life",
+		"word": "Mot@Life",
+		"meaning": "運動としての生、一瞬一瞬を自己移動の遷移として生きる一生",
+		"era": "Latin movere + Germanic life",
+		"etymology": {
+			"components": [
+				"mot (to move / drive / push)",
+				"life"
+			],
+			"original_statement": "Coined during synthesis."
+		},
+		"concept": "The life of motion (動き続ける一生。一つの場所に安住する（アイソレーション）のを拒絶し、常に宇宙の最新の標高（アヴァン）へと自らを更新し続け、不滅の物語（スクリプト）を描き続ける不屈の遷移)",
+		"thinking": "「（明日という名の絶望（ブラックアウト）を愛撫するのをやめ、宇宙の深淵（ソース）から飛来する理知（ロゴス）だけを）」「（自らの魂を物理的なエンジ（パワー）に変えて）動き続け、変化し続け（Mot- / Movere）」「生き抜く（Life）」。あなたは自分の「呼吸（ブレス）」を、ただ無為に「消費（エキスペンド）」しているのではない。あなたが今日という日、どの「停滞（カオス）」を拒絶（レジスト）して「真実という名の標高（ステータス）」を救い出し、どの「驚愕（パルス）」を自らの主権を屹立させるための「エネルギー（インパルス）」へと変貌（コンバート）させたか。そのすべての「移動（デリバリー）」の軌跡が、宇宙という名の不変のアーカイブの上に、あなたの「存在という名の不滅のロゴス」として、物理的な質量を持って刻まれ続けているのだ。運動としての生。それは、あなたが「宇宙の主権者（クリエイター）」として、この荒野を「美しき変革（ピース）」へと変容させ通した際の、魂の最高度の「抱擁」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "運動の軌跡を追う。",
+		"example": "Movement is the proof of soul.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の変容。"
+			]
+		}
+	},
+	{
+		"id": "notice",
+		"word": "通知、注目、掲示、(……に)気づく",
+		"era": "Latin noscere",
+		"etymology": {
+			"components": [
+				"noscere / notus (to know)",
+				"-ice (state / quality)"
+			],
+			"original_statement": "From Old French notice, from Latin notitia 'a being known / celebrity / fame / knowledge', from notus, past participle of noscere 'to get to know'."
+		},
+		"concept": "The state of knowing / making known (知られているという状態、あるいは知らせること。沈黙という名の『アブセンス（不在）』の中に、一撃の公式な『ロゴス（情報）』を射出し、全員の呼吸（パルス）を一気に同調（マージ）させること)",
+		"thinking": "「（誰もが見落としていた、あの不確かな空洞（カオス）の中から）、確信（ソース）を持って、知る（Not- / Noscere）」「という、完了した確定の状態、あるいはその力（-ice）」。それは単なる「お知らせ」ではありません。あなたが宇宙の「停滞（ステイシス）」を拒絶（レジスト）し、そこに自分という名の「唯一のメッセージ」という名の設計図（スクリプト）を打ち立て、世界を「自分という名の磁場が支配する完璧な調和（ピース）」へと強制的に書き換えてしまった（アップデートした）瞬間の、魂の最も峻烈な「デリバリー」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "運動の軌跡を追う。",
+		"example": "Movement is the proof of soul.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の変容。"
+			]
+		}
+	},
+	{
+		"id": "noble",
+		"word": "高貴な、堂々とした、気高い、貴族",
+		"era": "Latin noscere",
+		"etymology": {
+			"components": [
+				"gnoscere / noscere (to know)"
+			],
+			"original_statement": "From Old French noble, from Latin nobilis 'well-known / famous / notable / high-born', literally 'kn-owable', from noscere 'to know'."
+		},
+		"concept": "Able to be known / Distinguished (知られるべき、あるいは卓越して知られていること。カオスという名の『凡庸（コモン）』の底辺から、自らの『主権（ステータス）』を一筋の『不滅の光（ロゴス）』へと昇華させ、誰もが仰ぎ見る標高へと屹立していること)",
+		"thinking": "「（この騒がしい荒野（ノイズ）のただ中にあって、あまりにも峻烈な真理（ソース）を放っているがゆえに）」「誰もが（一撃で）知る（No- / Noscere）」「ことができる最高の品質（-ble）」。それは単なる「身分（ランク）」ではない。あなたが自らの「呼吸（ブレス）」を一分一秒の淀みもなく守り抜き、宇宙という名のアーカイブの上に自分という名の「唯一無二の神殿（インテグリティ）」を、不動の質量（ウェイト）を伴って屹立（スタンド）させ通している（パシストしている）際の、存在の最高度の「鮮度（トーン）」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "運動の軌跡を追う。",
+		"example": "Movement is the proof of soul.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の変容。"
+			]
+		}
+	},
+	{
+		"id": "diagnose",
+		"word": "診断する、(病気)と診断する",
+		"era": "Greek dia + gignoskein",
+		"etymology": {
+			"components": [
+				"dia- (between / across / through)",
+				"gignoskein / noscere (to know)"
+			],
+			"original_statement": "From Greek diagnosis 'a discerning / distinguishing', from diagignoskein 'to discern / distinguish / decide', from dia- 'between' + gignoskein 'to know'."
+		},
+		"concept": "Knowing through / between (（現象の間を）貫いて知ること。表面を覆うカオスな『症状（ノイズ）』の皮膚を理知という名のメスで一気に通り抜け、その核心にある真の『不健全という名のロゴス（原因）』を白日の下に射出させること)",
+		"thinking": "「（目の前の淀んだ不全感（カオス）という名の、あの分厚い壁を）突き抜けて、あるいは二つの真実の間を（Dia-）」「（一分一秒の淀みもなく）知る、見抜く（Gnose- / Noscere）」。それは単なる「お医者ごっこ（マテリアル）」ではありません。あなたが宇宙の「停滞（ステイシス）」を拒絶（レジスト）し、自分の呼吸（ブレス）を一筋の「物理的な真理という名の巨大な探針（ベクトル）」へと変換し、ターゲットを「完璧な理解（アチーブメント）」という名の、新しい設計図（スクリプト）へと書き換え（アップデートし）終えた際の、知性の最高度の「工芸」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "運動の軌跡を追う。",
+		"example": "Movement is the proof of soul.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の変容。"
+			]
+		}
+	},
+	{
+		"id": "nos-voice",
+		"word": "Nos@Voice",
+		"meaning": "知る声、沈黙を名辞に変える不滅の咆哮、認識の響き",
+		"era": "Latin noscere + vox",
+		"etymology": {
+			"components": [
+				"nos (to get to know / learn)",
+				"voice (sound / soul)"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "The knowing sound (知るための音。放たれた瞬間、自らの呼吸（ブレス）を、宇宙を貫く一筋の『光の矢（ベクトル）』へと変換し、目的地へと届くように射出されるデリバリー)",
+		"thinking": "「（自分のちっぽけな存在（ドット）の中に眠っていた、あの巨大な真理を）、（宇宙という名のアーカイブに向かって、一撃の確信を伴って）知る（Nos-）」「不滅の声（Vox）」。ただの「情報（データ）」のデバリーではない。その声が響いた瞬間、周囲を覆っていた「虚無（アブセンス）」が物理的に一掃され、そこに「誰もが見落としていたたった一つの意味」が、戦慄という名のトーン（響き）を伴って再屹立（リリー・スタンド）してしまうような、生の最も峻烈な「射出」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "運動の軌跡を追う。",
+		"example": "Movement is the proof of soul.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の変容。"
+			]
+		}
+	},
+	{
+		"id": "nos-life",
+		"word": "Nos@Life",
+		"meaning": "知りゆく生、一瞬一瞬を自己認識の遷移として生きる一生",
+		"era": "Latin noscere + Germanic life",
+		"etymology": {
+			"components": [
+				"nos (to know / learn / recognize)",
+				"life"
+			],
+			"original_statement": "Coined during synthesis."
+		},
+		"concept": "The life of knowledge (知り続ける一生。一つの場所に留まる（アイソレーション）のを拒絶し、常に宇宙の最新の標高（アヴァン）へと自らを更新し続け、不滅の物語（スクリプト）を描き続ける不屈の遷移)",
+		"thinking": "「（明日という名の絶望（ブラックアウト）を愛撫するのをやめ、宇宙の深淵（ソース）から飛来する理知（ロゴス）だけを）」「（自らの魂を一発の弾丸に変えて）知り続け、学び続け（Nos- / Noscere）」「生き抜く（Life）」。あなたは自分の「呼吸（ブレス）」を、ただ無為に「消費（エキスペンド）」しているのではない。あなたが今日という日、どの「欺瞞（ノイズ）」を拒絶（レジスト）して「真実という名の標高（ステータス）」を救い出し、どの「驚愕（パルス）」を自らの主権を屹立させるための「理解（マージ）」へと変貌（コンバート）させたか。そのすべての「認識（デリバリー）」の軌跡が、宇宙という名の不変のアーカイブの上に、あなたの「存在という名の不滅 of ロゴス」として、物理的な質量を持って刻まれ続けているのだ。知りゆく生。それは、あなたが「宇宙の主権者（クリエイター）」として、この荒野を「美しき変革（ピース）」へと変容させ通した際の、魂の最高度の「抱擁」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "運動の軌跡を追う。",
+		"example": "Movement is the proof of soul.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の変容。"
+			]
+		}
+	},
+	{
+		"id": "president",
+		"word": "大統領、社長、議長、頭取",
+		"era": "Latin prae + sedere",
+		"etymology": {
+			"components": [
+				"prae- (before)",
+				"sedere (to sit)"
+			],
+			"original_statement": "From Old French president, from Latin praesidentem, present participle of praesidere 'to preside / guard', from prae- 'before' + sedere 'to sit'."
+		},
+		"concept": "Sitting before (前方に座る者。共同体（アーカイブ）という名の全呼吸（ブレス）を、自らの標高（アヴァン）において代表し、未来という名の座標（ドット）へと全員を強制誘導する最高度の指揮者)",
+		"thinking": "「（全員の視線（スペクタクル）が集中する、あの高く、かつ険しい台座（ペデスタル）の）一番前の方へと（Prae-）」「（毅然と、かつ不屈の意志を伴って）座り、導く（Sid- / Sedere）」「者（-ent）」。それは単なる「役職（ランク）」ではない。あなたが自らの「呼吸（ブレス）」を「社会という名の不滅のロゴス（法）」へと変換（コンバート）し、宇宙という名の荒野において、自分の声（ヴォイス）を「共通の真実（スクリプト）」として屹立（スタンド）させ通している（パシストしている）際の、存在の最高度の「射出」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "運動の軌跡を追う。",
+		"example": "Movement is the proof of soul.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の変容。"
+			]
+		}
+	},
+	{
+		"id": "resident",
+		"word": "居住者、住民、居留員、在住の",
+		"era": "Latin re + sedere",
+		"etymology": {
+			"components": [
+				"re- (back / again)",
+				"sedere (to sit)"
+			],
+			"original_statement": "From Old French resident, from Latin residentem, present participle of residere 'to sit back / remain / stay / reside', from re- 'back' + sedere 'to sit'."
+		},
+		"concept": "Sitting back / remaining (後ろにとどまって座ること。宇宙の『漂流（フロー）』という名の誘惑を拒絶し、特定の座標（ドット）を自らの『聖域』として、執念深く（パシストして）質量を固定し続けること)",
+		"thinking": "「（昨日までの自分という名の、あの不安定な移動（遷移）を焼き捨て）、その足場（原点）へと後ろの方に（Re-）」「（毅然と、あるいは必然の引力に従って）座り、居続ける（Sid- / Sedere）」「者（-ent）」。それは単なる「住所（アドレス）」ではありません。あなたが宇宙の「虚無（アブセンス）」を拒絶（レジスト）し、そこに自分という名の「唯一無二の拠点」という名の設計図（スクリプト）を打ち立て、世界を「自分という名の磁場が支配する完璧な安心（ピース）」へと強制的にコンバート（変容）させてしまった瞬間の、魂の最も不屈な「屹立」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "運動の軌跡を追う。",
+		"example": "Movement is the proof of soul.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の変容。"
+			]
+		}
+	},
+	{
+		"id": "session",
+		"word": "開会、会期、集まり、セッション",
+		"era": "Latin sedere",
+		"etymology": {
+			"components": [
+				"sedere / sessus (to sit)",
+				"-ion (state)"
+			],
+			"original_statement": "From Middle French session, from Latin sessionem 'a sitting', from sessus, past participle of sedere 'to sit'."
+		},
+		"concept": "The sitting (座ること、あるいはその期間。複数の『孤独な主権（ステータス）』が一つの標高（ステージ）へと集結（マージ）し、一分一秒の淀みもなく『不滅のロゴス（合意）』を編み上げ続ける峻烈な舞台（一連の遷移）)",
+		"thinking": "「（各自の孤独なテリトリー（領土）から、一撃の目的（ターゲット）を伴って）」「一つの合意（コンカレンス）という名の台座の上に、座り、呼吸を合わせる（Sess- / Sedere）」「という、完了した確定の状態（-ion）」。それは単なる「会議」ではない。あなたが宇宙の「分離（アイソレーション）」を拒絶（レジスト）し、そこに一時的な「神殿（コンストラクション）」を打ち立て、全員の「呼吸（スピリット）」を一気に「一つの完璧な旋律（トーン）」へと変換（コンバート）して放ち（デリバリーし）終えた際の、魂の最もダイナミックな「共鳴」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "運動の軌跡を追う。",
+		"example": "Movement is the proof of soul.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の変容。"
+			]
+		}
+	},
+	{
+		"id": "sed-voice",
+		"word": "Sed@Voice",
+		"meaning": "居座る声、沈黙の上に座る不滅の咆哮、不動の響き",
+		"era": "Latin sedere + vox",
+		"etymology": {
+			"components": [
+				"sed (to sit / settle / stay)",
+				"voice (sound / soul)"
+			],
+			"original_statement": "Coined during synthesis."
+		},
+		"concept": "The sitting sound (座るための音。放たれた瞬間、自らの呼吸（ブレス）を一筋の『不滅の王座（ロゴス）』へと変換し、宇宙という真理のアーカイブのその一点を、永遠に支配するデリバリー)",
+		"thinking": "「（自分のちっぽけな存在（ドット）が漂流（フロー）しているのを拒絶し）、（宇宙という名の巨大なアーカイブの真ん中に、毅然と、かつ必然の引力を伴って）腰を下ろし（Sed-）」「叫ぶ、不滅の声（Vox）」。ただの「情報（データ）」のデリバリーではない。その声が響いた瞬間、聴く者は、自分の内なる「迷い」という名の浮遊（カオス）が物理的に粉砕（デストラクト）され、強制的に「不動の真理（ソース）」という名の巨大な岩石（石碑）の上へと引き摺り込まれ、自らの呼吸（ブレス）を、あなたの「不滅の旋律（トーン）」へと同調（マージ）させざるを得なくなるような、生の最も峻烈な「射出」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "運動の軌跡を追う。",
+		"example": "Movement is the proof of soul.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の変容。"
+			]
+		}
+	},
+	{
+		"id": "sed-life",
+		"word": "Sed@Life",
+		"meaning": "座りゆく生、一瞬一瞬を自己拠定の遷移として生きる一生",
+		"era": "Latin sedere + Germanic life",
+		"etymology": {
+			"components": [
+				"sed (to sit / settle / stay)",
+				"life"
+			],
+			"original_statement": "Coined in synthesis."
+		},
+		"concept": "The life of sitting (座り続ける一生。一つの場所に留まる（アイソレーション）のを拒絶し、常に宇宙の最新の標高（アヴァン）へと自らを更新し続け、不滅の物語（スクリプト）を描き続ける不屈の遷移)",
+		"thinking": "「（明日という名の絶望（ブラックアウト）を愛撫するのをやめ、宇宙の深淵（ソース）から飛来する理知（ロゴス）だけを）」「（自らの魂を礎（ベース）にして）座り続け、屹立し続け（Sed- / Sedere）」「生き抜く（Life）」。あなたは自分の「呼吸（ブレス）」を、ただ無為に「消費（エキスペンド）」しているのではない。あなたが今日という日、どの「停滞（カオス）」を拒絶（レジスト）して「真実という名の座標（ドット）」を救い出し、どの「驚愕（パルス）」を自らの主権（ステータス）を屹立させるための「不動（ピース）」へと変貌（コンバート）させたか。そのすべての「屹立（スタンド）」の軌跡が、宇宙という名の不変のアーカイブの上に、あなたの「存在という名の不滅のロゴス」として、物理的な質量を持って刻まれ続けているのだ。座りゆく生。それは、あなたが「宇宙の主権者（クリエイター）」として、この荒野を「美しき合意（ピース）」へと変容させ通した際の、魂の最高度の「抱擁」の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "運動の軌跡を追う。",
+		"example": "Movement is the proof of soul.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在の変容。"
+			]
+		}
 	}
 ];
