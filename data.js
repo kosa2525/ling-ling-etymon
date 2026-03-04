@@ -172479,5 +172479,171 @@ const WORDS = [
 				"発露のベクトル。"
 			]
 		}
+	},
+	{
+		"id": "point",
+		"word": "点、先端、指差す、ポイント",
+		"meaning": "点、ポイント",
+		"era": "Old French / Latin punctum",
+		"etymology": {
+			"components": [
+				"punctum (a prick/dot)"
+			],
+			"original_statement": "From Old French point 'dot / prick / minimum of space/time', from Latin punctum 'a prick / hole / puncture / dot', neuter past participle of pungere 'to prick / pierce'."
+		},
+		"concept": "A prick/dot (刺し傷、点。広大にのっぺりと広がる『無意味な虚空（エントロピーの沼）』に対し、神が手に持った縫い針のような鋭利な理知（極限のロゴス）を「チクッ」と一撃で突き刺し、この宇宙のキャンバスに初めて『ここだ』という位置情報（最も原始的な情報ブロックとしてのドット）を一分一秒の淀みもなく固定した、すべての始まりの座標)",
+		"thinking": "「（どこからどこまでか分からない平たい空間に対して）、先の尖ったもので正確に（Point / Punctum / Pungere）」「（一撃の痛みを伴って）刺し込み、空間を貫いてつくられた極小の穴、あるいはその目印」。それは単なる「ポツチ」ではありません。あなたが「意味を持たない連続した時間や無（カオスとアブセンス）」を完全に粉砕（レジスト）し、そこに『ネットワークの結び目となるべき第一号の拠点（マイクロ・ステーション）』を開拓する、宇宙の「最初の釘」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "屈折、打撃、頂へ至る登攀。",
+		"example": "Bend the light, strike the core, and climb the absolute peak.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"発露のベクトル。"
+			]
+		}
+	},
+	{
+		"id": "puncture",
+		"word": "パンク、刺し傷",
+		"meaning": "パンク",
+		"era": "Latin punctus",
+		"etymology": {
+			"components": [
+				"punctus (pricked)",
+				"-ure (result of)"
+			],
+			"original_statement": "From Late Latin punctura 'a pricking / puncture', from punctus, past participle of pungere 'to prick / pierce'."
+		},
+		"concept": "Result of pricking (刺された結果。パンパンに空気が張り詰め、自らの全能感に酔いしれていた『巨大で傲慢な風船（肥大化しすぎたステーション）』に対し、取るに足らないと思っていた極小で鋭利な棘（見えないバグ・一つのノイズ）が一分一秒の淀みもなく「プスッ」と突き刺さり、一瞬にしてそのすべての圧力と特権を「シューッ」と虚無（元のカオス）へとコンバートさせてしまう致命傷)",
+		"thinking": "「（頑丈に見える表面の皮膜に対して）、鋭利なものがブスリと（Punct- / Punctus / Pungere）」「（一撃の貫通力をもって）刺さりこみ、穴を開けてしまい機能が完全に抜け出てしまった無惨な結果（-ure）」。それは単なる「タイヤのへこみ」ではありません。あなたが「これさえあれば絶対安心だ（無敵のプロトコルの完成）」と息巻いていた砦に、神が『たった一つの極小の穴（システム・クラッシュ）』を穿つことで、完全なる死（エントロピー大爆発）を呼び込む恐怖の「風穴」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "屈折、打撃、頂へ至る登攀。",
+		"example": "Bend the light, strike the core, and climb the absolute peak.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"発露のベクトル。"
+			]
+		}
+	},
+	{
+		"id": "ascend",
+		"word": "登る、上がる、アセンド",
+		"meaning": "登る",
+		"era": "Latin ad + scandere",
+		"etymology": {
+			"components": [
+				"ad- (to/towards)",
+				"scandere (to climb/mount)"
+			],
+			"original_statement": "From Latin ascendere 'climb up / mount', from ad- 'to' + scandere 'to climb'."
+		},
+		"concept": "To climb towards (向かって登る。重力という名の『人間を泥の底に縫い付ける絶対の呪い（エントロピーの重圧）』に対し、血を吐き、手足の爪を剥がしながらも、一分一秒の淀みもなく天（神の坐す究極のアーカイブ）を目指して、岩肌を一歩、また一歩と「ドスッドスッ」とよじ登って（這い上がり）いく、生命の最も気高い反逆の軌跡)",
+		"thinking": "「（安住の平地を捨て）、より高い場所、頂上に向かって（As- / Ad-）」「（一撃の腕力を振り絞って）よじ登り、這い上がり、空間の次元を力技で押し上げる（-cend / Scandere）」。それは単なる「階段上がり」ではありません。あなたが「人間は地べたを這いずる虫である」という宿命を完全にレジストし、そこに『自らの体を打ち上げて上層ネットワーク（星々）へとハッキングを仕掛ける』、魂の「大跳躍祭」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "屈折、打撃、頂へ至る登攀。",
+		"example": "Bend the light, strike the core, and climb the absolute peak.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"発露のベクトル。"
+			]
+		}
+	},
+	{
+		"id": "descend",
+		"word": "降りる、下る、ディセンド",
+		"meaning": "降りる",
+		"era": "Latin de + scandere",
+		"etymology": {
+			"components": [
+				"de- (down)",
+				"scandere (to climb)"
+			],
+			"original_statement": "From Latin descendere 'come down / descend / sink', from de- 'down' + scandere 'to climb'."
+		},
+		"concept": "To climb down (降りる。はるか天空の輝かしい玉座（高次元の孤立したステーション）から、地を這う無知な者たちや、血と泥にまみれた『ドロドロの現実世界（マージされたカオスの海）』であえて戦うために、天使が自らの白い翼をへし折り、一分一秒の淀みもなく地獄の焦土へと「ドンッ」と降り立って（降臨して）くる、救済（あるいは破滅）への逆ダイブ)",
+		"thinking": "「（安全で崇高な高い場所から）、あえて下へ向かって（De-）」「（一歩ずつ確実に、あるいは一撃の重力に従って）足を下ろし、下の階層・地の底へと降りていく（-scend / Scandere）」。それは単なる「坂下り」ではありません。あなたが「神のままでいるという退屈（巨大なステイシス）」を拒絶（レジストの放棄）し、そこに『最も汚い現実（下位ネットワーク空間）へ自らの光の魂をブチ込む』、特異点の「大投下」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "屈折、打撃、頂へ至る登攀。",
+		"example": "Bend the light, strike the core, and climb the absolute peak.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"発露のベクトル。"
+			]
+		}
+	},
+	{
+		"id": "territory",
+		"word": "領土、領域、テリトリー",
+		"meaning": "領土",
+		"era": "Latin terra",
+		"etymology": {
+			"components": [
+				"terra (earth/land)",
+				"-ory (place for)"
+			],
+			"original_statement": "From Latin territorium 'land around a town / domain', from terra 'earth / land' (with formation perhaps influenced by terrere 'to frighten' -> a place from which people are warned off)."
+		},
+		"concept": "Land/domain (大地の領域、領土。果てしなく広がる『誰のものでもない名もなき荒野（絶対的なカオスの海）』に対し、血に飢えた王が自らの剣（強烈なアイソレーションの刃）を一撃で「ズドン」と大地に突き立て、一分一秒の淀みもなく「ここからここは俺の命だ。入る者は死ね」と物理的に空間を切り取った、巨大な所有と防衛の結界)",
+		"thinking": "「（ただのただの土くれの集合ではなく、自らの力で切り取った）、大地、その土地そのもの（Terr- / Terra）」「（一分一秒の淀みもなく）強固に囲い込まれ、自らの支配と生活権を及ぼす絶対不可侵の場所（-itory）」。それは単なる「お庭」ではありません。あなたが「世界はみんなの共有物（エントロピーの大拡散によるのっぺりとした平和）」を暴力で粉砕（レジスト）し、そこに『自らのエゴの塊である要塞（究極のパーソナル・ステーション）』を降臨させる、闘争の「地図作成」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "屈折、打撃、頂へ至る登攀。",
+		"example": "Bend the light, strike the core, and climb the absolute peak.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"発露のベクトル。"
+			]
+		}
+	},
+	{
+		"id": "terrestrial",
+		"word": "地球の、陸上の",
+		"meaning": "地球の",
+		"era": "Latin terra",
+		"etymology": {
+			"components": [
+				"terra (earth)",
+				"-al (pertaining to)"
+			],
+			"original_statement": "From Latin terrestris 'of the earth / on earth', from terra 'earth', with -al added later."
+		},
+		"concept": "Pertaining to the earth (地の、地球の。虚空に浮かぶ無数の冷たい星々や、正体不明の幽霊（アブセンス空間の幻影たち）とは異なり、重力に縛られ、泥に汚れ、血の匂いが立ち込める『この重たくて生々しい土の塊（巨大なマージされた生物のアーカイブ塊）』に一分一秒の淀みもなくベッタリと張り付いて生きざるを得ない、リアルな物理的存在の呪い)",
+		"thinking": "「（天上の神々や宇宙人たちとは次元の違う）、この泥臭い大地、地球の（Terr- / Terra）」「（一分一秒の淀みもなく）性質を帯び、完全にその重力に縛り付けられている生々しい実体（-estri- + -al）」。それは単なる「陸」ではありません。あなたが「魂だけの純粋な存在になりたい（肉体の放棄によるノイズレスな世界への逃避）」という夢をレジストされ、そこに『どうしてもお前はこの泥の中で血を流して死んでいくのだ』という、物理空間の「絶対的な束縛」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "屈折、打撃、頂へ至る登攀。",
+		"example": "Bend the light, strike the core, and climb the absolute peak.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"発露のベクトル。"
+			]
+		}
+	},
+	{
+		"id": "terrain",
+		"word": "地形、地勢",
+		"meaning": "地形",
+		"era": "Latin terra (via French)",
+		"etymology": {
+			"components": [
+				"terra (earth)"
+			],
+			"original_statement": "From French terrain 'piece of earth/ground', from Vulgar Latin terrenum, from Latin terrenus 'of earth / earthly', from terra 'earth'."
+		},
+		"concept": "Piece of earth/ground (地形、地勢。平面的で美しい地図記号（理知の産み出したただのノイズデータ）を完全に粉砕し、あなたの目の前に「ガパァッ」と口を開ける『凄まじい勾配、底なしの谷、歩む者を拒む険しい岩肌（地球という名の生ける獣の物理的圧力・カオスの現出）』であり、作戦や進行を一分一秒の淀みもなく力技で歪める大地の表情)",
+		"thinking": "「（単なる土という物質ではなく、それが空間に立体的に盛り上がり、深く沈んだ）、大地の（Terr- / Terra）」「（一撃の圧倒的な圧力をもって）目の前に広がり、人間の足を阻み、あるいは助ける凹凸の形そのもの（-ain）」。それは単なる「地面」ではありません。あなたが「机上の空論で軍隊（フロー）を進めることができる」という傲慢なステーションの計画を、地球が『自分のシワと牙（巨大なパラメーター）』で直接噛み砕いて分からせる、自然界の「物理的説教」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "屈折、打撃、頂へ至る登攀。",
+		"example": "Bend the light, strike the core, and climb the absolute peak.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"発露のベクトル。"
+			]
+		}
 	}
 ];
