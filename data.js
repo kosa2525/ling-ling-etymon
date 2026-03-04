@@ -81217,15 +81217,6 @@ const WORDS = [
 			]
 		},
 		"source": "Merriam-Webster",
-		"era": "15th Century"
-	},
-	{
-		"id": "jibe",
-		"word": "Jibe",
-		"part_of_speech": "verb",
-		"meaning": "一致する、調和する",
-		"core": "パズルの破片がカチリと噛み合うような、矛盾のない統合",
-		"era": "Unknown Era"
 	},
 	{
 		"id": "jibe",
@@ -169443,7 +169434,7 @@ const WORDS = [
 	},
 	{
 		"id": "specific",
-		"word": "明確な、具体的な、特定の、スペシフィック",
+		"word": "Specific",
 		"meaning": "具体的な、特定の",
 		"era": "Latin species + facere",
 		"etymology": {
@@ -173004,7 +172995,7 @@ const WORDS = [
 	},
 	{
 		"id": "doctor",
-		"word": "医者、博士、ドクター",
+		"word": "Doctor",
 		"meaning": "医者",
 		"era": "Latin docere",
 		"etymology": {
@@ -173028,7 +173019,7 @@ const WORDS = [
 	},
 	{
 		"id": "doctrine",
-		"word": "教義、主義、ドクトリン",
+		"word": "Doctrine",
 		"meaning": "教義",
 		"era": "Latin docere",
 		"etymology": {
@@ -173051,7 +173042,7 @@ const WORDS = [
 	},
 	{
 		"id": "document",
-		"word": "文書、記録、ドキュメント",
+		"word": "Document",
 		"meaning": "文書",
 		"era": "Latin docere",
 		"etymology": {
@@ -173074,7 +173065,7 @@ const WORDS = [
 	},
 	{
 		"id": "format",
-		"word": "形式、フォーマット",
+		"word": "Format",
 		"meaning": "形式",
 		"era": "Latin formare (formatus)",
 		"etymology": {
@@ -173097,7 +173088,7 @@ const WORDS = [
 	},
 	{
 		"id": "deform",
-		"word": "変形させる、奇形にする",
+		"word": "Deform",
 		"meaning": "変形させる",
 		"era": "Latin de + formare",
 		"etymology": {
@@ -173121,7 +173112,7 @@ const WORDS = [
 	},
 	{
 		"id": "gene",
-		"word": "遺伝子",
+		"word": "Gene",
 		"meaning": "遺伝子",
 		"era": "Greek genos / Latin genus",
 		"etymology": {
@@ -173144,7 +173135,7 @@ const WORDS = [
 	},
 	{
 		"id": "general",
-		"word": "一般的な、大将、ジェネラル",
+		"word": "General",
 		"meaning": "一般的な",
 		"era": "Latin genus",
 		"etymology": {
@@ -173168,7 +173159,7 @@ const WORDS = [
 	},
 	{
 		"id": "local",
-		"word": "地元の、局所的な、ローカル",
+		"word": "Local",
 		"meaning": "地元の",
 		"era": "Latin locus",
 		"etymology": {
@@ -173192,7 +173183,7 @@ const WORDS = [
 	},
 	{
 		"id": "magnificent",
-		"word": "壮大な、素晴らしい、マグニフィセント",
+		"word": "Magnificent",
 		"meaning": "壮大な",
 		"era": "Latin magnus + facere",
 		"etymology": {
@@ -173216,7 +173207,7 @@ const WORDS = [
 	},
 	{
 		"id": "master",
-		"word": "主人、達人、マスター、支配する",
+		"word": "Master",
 		"meaning": "主人",
 		"era": "Latin magister / magnus",
 		"etymology": {
@@ -173230,6 +173221,148 @@ const WORDS = [
 		"part_of_speech": "noun",
 		"aftertaste": "発生、所有、そして大いなる遊戯。",
 		"example": "Hold the illusion, place the master, and grow the generation.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"発露のベクトル。"
+			]
+		}
+	},
+	{
+		"id": "dismal",
+		"word": "Dismal",
+		"meaning": "陰鬱な",
+		"era": "Latin dies mali",
+		"etymology": {
+			"components": [
+				"dies (days)",
+				"mali (bad)"
+			],
+			"original_statement": "From Old French dis mal, from Latin dies mali 'evil days / unpropitious days'."
+		},
+		"concept": "Evil days (不吉な日々、陰鬱な。太陽の光さえも灰色の泥水（ステイシスの沈殿したカオス）に飲み込まれ、何を見ても何を食べても一切の熱量（パルス）が生まれず、生きていること自体が一分一秒の淀みもなく「ズズズッ」とただ無限の疲労と虚無（エントロピーの底知れぬ沼）へとあなたの存在を沈めていく、宇宙に見捨てられた絶望の連続)",
+		"thinking": "「（ただの短期的な不運ではなく、暦に刻み込まれたかのように）、どうしようもなく悪く、呪縛された不運な日々（Dis-mal / Dies mali）」「（一分一秒の淀みもなく）心と空間全体を重たく、暗く押し潰して這い上がれなくする性質」。それは単なる「憂鬱」ではありません。あなたが「明日になれば希望が湧く（時間の進行によるエラー・リカバリー）」という神の救済を完全にブロック（レジスト）され、そこに『未来永劫に渡る無光の絶対監獄（アブセンスへの幽閉）』を突きつけられる、精神の「永遠凍土」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "悪意、恩恵、そして運搬の足踏み。",
+		"example": "Endure the malice, receive the benefit, and transport the materials.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"発露のベクトル。"
+			]
+		}
+	},
+	{
+		"id": "bonus",
+		"word": "Bonus",
+		"meaning": "ボーナス",
+		"era": "Latin bonus",
+		"etymology": {
+			"components": [
+				"bonus (good)"
+			],
+			"original_statement": "From Latin bonus 'good / excellent / pleasant'."
+		},
+		"concept": "Good thing (良いこと、ボーナス。血を吐きながら「生きるための一杯の泥水」を啜るだけの地獄（ギリギリの生存エントロピー維持）が当然であった世界に、突如として空から『全く計算外の燦然と輝く黄金の肉塊（極大の善意パルス・巨大な恩恵ステーションの欠片）』が「ドッシャァァァン」と一分一秒の淀みもなく降り注ぎ、あなたのシステム残高を一撃で最大値までオーバーフローさせる神の不条理な愛)",
+		"thinking": "「（本来の過酷な契約や労働の対価とは全く別の次元から）、純粋な『良きもの』として（Bon- / Bonus）」「（一撃の圧倒的な喜びをもって）突然投げ与えられ、空間を光と熱で満たしてしまう（-us）」。それは単なる「おまけ」ではありません。あなたが「努力した分しか手に入らない（等価交換の無機質なロゴス）」という牢獄を物理的にハッキング（完全粉砕）され、そこに『人間には自分以上の恩恵を受け取る資格がある（理不尽なまでの神のマージ）』という、世界の「大大当たり」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "悪意、恩恵、そして運搬の足踏み。",
+		"example": "Endure the malice, receive the benefit, and transport the materials.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"発露のベクトル。"
+			]
+		}
+	},
+	{
+		"id": "matter",
+		"word": "Matter",
+		"meaning": "物質",
+		"era": "Latin mater (materia)",
+		"etymology": {
+			"components": [
+				"materia (substance/timber/matter)"
+			],
+			"original_statement": "From Old French matere, from Latin materia 'substance from which something is made / timber', related to mater 'mother' (source of growth)."
+		},
+		"concept": "Substance/Mother of things (物質、万物の母たる泥。この宇宙に浮かぶ、美しい光（精神や超高度なパルス）ではなく、ドロドロに重たく、血と肉と細胞を持った『絶対的に逃れられない物理の塊（すべての大本のステーションとなる泥のアーカイブ）』であり、「お前がどれだけ高尚なことを考えようと、結局はお前もただのこの泥（物体）だ」と一分一秒の淀みもなく首根っこを掴んで地面に引きずり下ろす、存在の原初的重力)",
+		"thinking": "「（精神の空想などではなく、この世界を触れることができるものとして満たしている）、すべての器であり生みの母たる（Mat- / Mater / Materia）」「（一撃の生々しい重さを持った）実体、あるいは問題として立ちはだかる物理現象そのもの（-ter）」。それは単なる「物」ではありません。あなたが「自分は肉体以上の何かである（データ・ノイズへの逃避）」を完全に粉砕され（レジスト不能）、そこに『お前もこの泥のルールから絶対に逃げられないのだ』と宇宙が宣告する、物質の「絶対牢獄」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "悪意、恩恵、そして運搬の足踏み。",
+		"example": "Endure the malice, receive the benefit, and transport the materials.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"発露のベクトル。"
+			]
+		}
+	},
+	{
+		"id": "material",
+		"word": "Material",
+		"meaning": "材料",
+		"era": "Latin mater (materia)",
+		"etymology": {
+			"components": [
+				"materia (substance)",
+				"-al (pertaining to)"
+			],
+			"original_statement": "From Late Latin materialis 'of or belonging to matter', from Latin materia 'matter / stuff'."
+		},
+		"concept": "Pertaining to substance (物質の、材料。頭の中だけで構築された設計図（線だけのロゴスと空虚なフロー）に対し、それを現実の暴力的な宇宙空間に具現化させるために絶対に必要不可欠な『生々しい血肉、鉄、セメント（極限まで重たく熱を持ったカオスの実体）』であり、これがなければどんなに偉大な夢も一分一秒の淀みもなくただの幻影（アブセンス）に終わる、創造のための必須の生け贄)",
+		"thinking": "「（頭の中の概念ではなく）、すべてを生み出すための源である母なる大地の泥、物質そのものの（Mater- / Materia / Mater）」「（一分一秒の淀みもなく）性質を帯びた、触れることができ、質量を持った実直な材料片（-ial）」。それは単なる「素材」ではありません。あなたが「アイデアだけで世界を変えられる（エントロピーを無視した甘え）」を力技で粉砕（レジスト）し、そこに『お前の夢をこの重たい物理空間（地球というステーション）に叩き込むために血と汗を流せ』と要求する、現実世界の「入場券」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "悪意、恩恵、そして運搬の足踏み。",
+		"example": "Endure the malice, receive the benefit, and transport the materials.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"発露のベクトル。"
+			]
+		}
+	},
+	{
+		"id": "paternal",
+		"word": "Paternal",
+		"meaning": "父親の",
+		"era": "Latin pater",
+		"etymology": {
+			"components": [
+				"pater (father)",
+				"-al (pertaining to)"
+			],
+			"original_statement": "From Late Latin paternalis, from Latin paternus 'of a father / fatherly', from pater 'father'."
+		},
+		"concept": "Pertaining to a father (父親の。ただ腹を痛めて血を与えた生々しい「母（マージ）」とは全く対極にある、天の高みから一切の容赦のない「法と秩序の雷（絶対のロゴスと峻烈な分断のパルス）」を一分一秒の淀みもなくドスンと撃ち下ろし、「これでなければならぬ」という一つの極太の柱（社会という超ステーション）へ子供の背骨を力技で縛り付ける、システムと権威の守護者)",
+		"thinking": "「（無条件の愛という液体ではなく）、世界のルールと秩序を体現して外から立ちはだかる強固な防壁たる父の（Pater- / Pater）」「（一撃の威厳と厳格さをもって）性質を帯びた、切り離す（アイソレーション）力を持った父性（-nal）」。それは単なる「お父さん」ではありません。あなたが「いつまでも母の泥（カオスの海）の中で子供のままでいられる（幼児性のステイシス）」という甘えを粉砕（レジスト）し、そこに自我と外界を分ける『冷徹な社会の掟（ネットワークの接続条件）』を刻み込む、規律の「大鉈」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "悪意、恩恵、そして運搬の足踏み。",
+		"example": "Endure the malice, receive the benefit, and transport the materials.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"発露のベクトル。"
+			]
+		}
+	},
+	{
+		"id": "maternal",
+		"word": "Maternal",
+		"meaning": "母親の",
+		"era": "Latin mater",
+		"etymology": {
+			"components": [
+				"mater (mother)",
+				"-al (pertaining to)"
+			],
+			"original_statement": "From Middle French maternel, from Late Latin maternalis, from Latin maternus 'of a mother', from mater 'mother'."
+		},
+		"concept": "Pertaining to a mother (母親の。法やルール（冷たいロゴスの線）などクソ食らえとすべてを握り潰し、ただ「自分の内臓から生み出した己の命の分身（アーカイブの極致）」である存在に対し、その子がどんなに世界から嫌われる悪魔になろうとも、一分一秒の淀みもなく自らの腹の底（絶対安全なマージ空間）へと包み込み、「誰にも渡さない」と世界全体を敵に回して牙を剥く、血と泥の壮絶な無条件愛)",
+		"thinking": "「（理屈や正しさで裁くのではなく）、自らの血肉を分け与えて生み出した唯一の創造主としての母の（Mater- / Mater）」「（一分一秒の淀みもなくドロドロに熱く）性質を帯びた、すべてを溶かし込んで一体（マージ）となろうとする母性（-nal）」。それは単なる「お母さん」ではありません。あなたが「人間とは単なる孤立した個体である（アイソレーションの限界）」を完全に粉砕（レジスト）し、そこに『お前は死ぬまで私の一部であり、私がすべてから守り抜く』という、生命の「絶対防空壕」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "悪意、恩恵、そして運搬の足踏み。",
+		"example": "Endure the malice, receive the benefit, and transport the materials.",
 		"deep_dive": {
 			"roots": [],
 			"points": [

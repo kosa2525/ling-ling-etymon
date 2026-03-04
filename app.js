@@ -219,7 +219,13 @@ async function renderToday() {
                 <div class="etymology-box">
                     <span class="section-label">Structure ${!State.isPremium ? '🔒' : ''}</span>
                     <div class="etymology-breakdown" style="font-size: 1.1rem; margin-top:0.5rem;">
-                        ${word.etymology.breakdown.map(b => {
+                        ${(word.etymology.breakdown || (word.etymology.components ? word.etymology.components.map(c => {
+        if (typeof c === 'string') {
+            const parts = c.split(' (');
+            return { text: parts[0], meaning: parts[1] ? parts[1].replace(')', '') : '', type: 'root' };
+        }
+        return c;
+    }) : [])).map(b => {
         const b_type = (b.type || '').toLowerCase();
         const color = b_type.includes('prefix') ? PART_COLORS.prefix
             : (b_type.includes('suffix') ? PART_COLORS.suffix
@@ -247,7 +253,7 @@ async function renderToday() {
                 </div>
             </header>
 
-            <section class="section"><span class="section-label">Essence</span><p class="concept-text" style="font-size: 1.25rem;">${word.core_concept?.ja || ''}</p></section>
+            <section class="section"><span class="section-label">Essence</span><p class="concept-text" style="font-size: 1.25rem;">${word.core_concept?.ja || word.concept || ''}</p></section>
             
             <section class="section">
                 <div style="display:flex; justify-content:space-between; align-items:center;">
@@ -255,7 +261,7 @@ async function renderToday() {
                     ${State.isPremium ? `<button onclick="toggleTTS('${btoa(unescape(encodeURIComponent(word.thinking_layer)))}')" class="chip" style="background:var(--color-premium-bg); color:var(--color-premium); border:1px solid var(--color-premium);">🔊 Listen (Echo)</button>` : ''}
                 </div>
                 <div class="thinking-text" style="font-size: 1.1rem; line-height: 1.8;">
-                    ${(word.thinking_layer || '').split('\n').map(l => l.trim() ? `<p style="margin-bottom:1.2rem;">${l}</p>` : '').join('')}
+                    ${(word.thinking_layer || word.thinking || '').split('\n').map(l => l.trim() ? `<p style="margin-bottom:1.2rem;">${l}</p>` : '').join('')}
                 </div>
             </section>
             
@@ -739,7 +745,7 @@ function updateArchiveGrid() {
                     ${w.part_of_speech ? `<span style="font-size:0.7rem; font-style:italic; opacity:0.5; border:1px solid rgba(255,255,255,0.1); padding:2px 6px; border-radius:4px;">${w.part_of_speech}</span>` : ''}
                 </div>
                 <div style="font-size:0.9rem; color:var(--color-text); font-weight:500; margin-bottom:0.8rem;">${w.meaning || ''}</div>
-                <div style="font-size:0.85rem; opacity:0.6; line-height:1.4; display:-webkit-box; -webkit-line-clamp:2; -webkit-box-orient:vertical; overflow:hidden;">${w.core_concept?.ja || ''}</div>
+                <div style="font-size:0.85rem; opacity:0.6; line-height:1.4; display:-webkit-box; -webkit-line-clamp:2; -webkit-box-orient:vertical; overflow:hidden;">${w.core_concept?.ja || w.concept || ''}</div>
             </div>
             <div style="font-size:0.75rem; opacity:0.4; text-align:right; border-top: 1px solid rgba(255,255,255,0.05); padding-top:0.8rem; margin-top:auto;">
                 by <b style="opacity:1;">${w.author || 'etymon_official'}</b>
