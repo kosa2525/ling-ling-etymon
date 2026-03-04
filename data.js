@@ -172716,5 +172716,100 @@ const WORDS = [
 				"発露のベクトル。"
 			]
 		}
+	},
+	{
+		"id": "join",
+		"word": "参加する、結びつける、ジョイン",
+		"meaning": "結びつける",
+		"era": "Latin jungere (via French)",
+		"etymology": {
+			"components": [
+				"jungere (to join/yoke)"
+			],
+			"original_statement": "From Old French joindre 'to join / connect / unite', from Latin jungere 'to join together / yoke'."
+		},
+		"concept": "To yoke/join (結びつける、参加する。完全に無関係で遠く離れていた二つの巨大な歯車（孤立したアイソレーション・システム）を引きずり寄せ、その間に血と汗にまみれた太い鎖（マージ用の絶対パス）を一分一秒の淀みもなく「ガッシャァァァン」と噛み合わせ、二度と引き剥がせない一つの暴力的な運命共有体へと仕立て上げる力技)",
+		"thinking": "「（それぞれが勝手にバラバラに動くことを許さず）、物理的に一つの軛（くびき）で（Join / Jungere）」「（一撃の拘束力をもって）繋ぎ合わせ、運命を共に引き摺るように結びつける」。それは単なる「入会」ではありません。あなたが「すべては孤独に死んでいく（エントロピーによる分離）」という宇宙のルールを腕力で粉砕（レジスト）し、そこに『お前の痛みは俺の痛みだ』という、命の「強制ネットワーク接続」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "結合、愛情、そして自然の理。",
+		"example": "Join the elements, love the world, and ignite the fire.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"発露のベクトル。"
+			]
+		}
+	},
+	{
+		"id": "amiable",
+		"word": "愛想のよい、好意的な",
+		"meaning": "愛想のよい",
+		"era": "Latin amicus/amare",
+		"etymology": {
+			"components": [
+				"amicus (friend)",
+				"-able (capable of being)"
+			],
+			"original_statement": "From Old French amiable, from Late Latin amicabilis 'friendly', from Latin amicus 'friend' / amare 'to love'."
+		},
+		"concept": "Capable of being loved/friendly (愛されることができる（愛想のよい）。周囲の空気を泥のように重くする憎悪と猜疑心（カオスの棘だらけの荒野空間）に対し、その人がそこに「ポンッ」と存在するだけで、自らの内部から放つ温かい春の陽射し（無抵抗で柔らかい愛のパルス）によって、一分一秒の淀みもなく周囲の氷（ステイシス）をドロドロに溶かしてしまう魔法の火種)",
+		"thinking": "「（人を突き放すような攻撃的なノイズを一切持たず）、誰もが自然と（Ami- / Amicus / Amare）」「（一分一秒の淀みもなく）友として受け入れ、愛したくなるような温かい性質（-able）」。それは単なる「ニコニコしている」ではありません。あなたが「人間は本来、他国を侵略する獣である（万人の万人に対する闘争というアイソレーション）」を完全に武装解除（レジスト）させ、そこに『平和な花畑（究極の安全ネットワーク）』を空間に現出させる、最強の「非暴力テロ」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "結合、愛情、そして自然の理。",
+		"example": "Join the elements, love the world, and ignite the fire.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"発露のベクトル。"
+			]
+		}
+	},
+	{
+		"id": "annual",
+		"word": "一年の、年次、アニュアル",
+		"meaning": "一年の",
+		"era": "Latin annus",
+		"etymology": {
+			"components": [
+				"annus (year)",
+				"-al (pertaining to)"
+			],
+			"original_statement": "From Latin annualis 'yearly', from annus 'year'."
+		},
+		"concept": "Pertaining to a year (一年の。地球という巨大な岩の塊（数兆トンのステーション）が、狂ったような速度で太陽の周り（宇宙の重力パス）を一周（コンバート）する毎に、一分一秒の淀みもなく「ガコンッ」と時を刻み（ドットを打ち）、それが何百万回と虚空に繰り返されてきたという、生命の寿命を測る大時計の冷酷な目盛り)",
+		"thinking": "「（単なる気まぐれなタイミングではなく）、狂いなく運行する星の周期、すなわち一年の（Annu- / Annus）」「（一分一秒の淀みもなく）性質を帯びて、繰り返される絶対の時のリズム（-al）」。それは単なる「毎年のイベント」ではありません。あなたが「時間は永遠で、俺も永遠に生きる（命の傲慢というノイズ）」を完全に粉砕（レジスト）させられ、そこに『お前の時計（システムリソース）は確実に削られているぞ』と宇宙が突きつける、生命の「定期検診」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "結合、愛情、そして自然の理。",
+		"example": "Join the elements, love the world, and ignite the fire.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"発露のベクトル。"
+			]
+		}
+	},
+	{
+		"id": "diary",
+		"word": "日記、手帳",
+		"meaning": "日記",
+		"era": "Latin dies",
+		"etymology": {
+			"components": [
+				"dies (day)",
+				"-ary (place for)"
+			],
+			"original_statement": "From Latin diarium 'daily allowance / journal', from dies 'day'."
+		},
+		"concept": "Place for daily records (日々の記録の場。あなたの脳から記憶の血が刻一刻と流れ出し（エントロピーの暴力で完全忘却のアブセンスへ沈む）すべてが泥化する絶望の波に対し、毎晩毎晩、泥のような眠気（ステイシス）と戦いながら、今日自分が生きたという生々しい血の痕跡（大量のドット）を、一分一秒の淀みもなく紙という強固な祭壇（アーカイブ）へ力技で磔にし続ける、存在の延命装置)",
+		"thinking": "「（何もしなければ溶けて消えてしまうだけの）、その日一日の（Di- / Dies）」「（一撃のインクをもって）記憶を書き留め、保存しておくための場所（-ary）」。それは単なる「お小遣い帳」ではありません。あなたが「昨日の自分は今日の自分とは別の死体である」という哲学の恐怖（自己の断絶・完全なるアイソレーション）をレジストし、そこに『私という連続した魂のフロー』を物理空間に縫い付ける、時間の「永久保存瓶」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "結合、愛情、そして自然の理。",
+		"example": "Join the elements, love the world, and ignite the fire.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"発露のベクトル。"
+			]
+		}
 	}
 ];
