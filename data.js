@@ -156935,5 +156935,596 @@ const WORDS = [
 				"未知の語源、既知の感動。"
 			]
 		}
+	},
+	{
+		"id": "compel",
+		"word": "Compel",
+		"meaning": "強いる、無理やり…させる、強要する",
+		"era": "Latin pellere",
+		"etymology": {
+			"components": [
+				"com- (together / intensive)",
+				"pellere (to drive / push)"
+			],
+			"original_statement": "From Latin compellere 'to drive together / force / compel', from com- 'together' + pellere 'to drive'."
+		},
+		"concept": "Driving together (一箇所へ追い込むこと、回避不能な衝動)",
+		"thinking": "「共に、完全に（Com-）」「駆り立てる（Pellere）」。バラバラの逃げ道をすべて塞ぎ、ただ一つの方向へと強制的に背中を「押し出す」こと。強要（コンペル）は、論理や状況の圧倒的な重圧によって、あなたの「否」という声を無力化し、行動へと駆り立てる逆らえぬ風のようなものです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "dispel",
+		"word": "Dispel",
+		"meaning": "(不安などを)追い払う、晴らす、散らす",
+		"era": "Latin pellere",
+		"etymology": {
+			"components": [
+				"dis- (apart)",
+				"pellere (to drive / push)"
+			],
+			"original_statement": "From Latin dispellere 'to drive asunder / scatter', from dis- 'apart' + pellere 'to drive'."
+		},
+		"concept": "Driving apart (バラバラに追い出すこと。暗雲を裂く一陣の風)",
+		"thinking": "「バラバラに（Dis-）」「追い払う（Pellere）」。胸の中に淀んでいた不安や迷い、あるいは立ち込める霧を、強い意志（風）によって四方八方へと散らしてしまうこと。それは破壊ではなく、光を通すための「空間の浄化」であり、不透明な現状をリセットするための知的な身振りです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "impel",
+		"word": "Impel",
+		"meaning": "駆り立てる、推進する、(感情が)促す",
+		"era": "Latin pellere",
+		"etymology": {
+			"components": [
+				"in- (into / toward)",
+				"pellere (to drive / push)"
+			],
+			"original_statement": "From Latin impellere 'to push against / drive forward', from in- 'on / against' + pellere 'to drive'."
+		},
+		"concept": "Driving into (内側から押し出すこと、内なるエンジンへの点火)",
+		"thinking": "「内側から（In-）」「突き動かす（Pellere）」。外側からの強制ではなく、自分の心という中心から湧き出た衝動が、身体を前方へと強く押し出すこと。予感、あるいは使命感。それらがあなた自身の背中を「ドン」と叩く時、あなたは世界を変えるための一つの力強き矢（プロジェクタイル）となります。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "repel",
+		"word": "Repel",
+		"meaning": "追い払う、(攻撃などを)退ける、嫌悪感を与える",
+		"era": "Latin pellere",
+		"etymology": {
+			"components": [
+				"re- (back)",
+				"pellere (to drive / push)"
+			],
+			"original_statement": "From Latin repellere 'to drive back / reject', from re- 'back' + pellere 'to drive'."
+		},
+		"concept": "Driving back (後ろへ押し返すこと、不進入の断固たる意思)",
+		"thinking": "「後ろへ（Re-）」「突き返す（Pellere）」。自分の領域（聖域）を侵そうとする者に対して、毅然としてその手を「押し戻す」こと。それは単なる拒否ではなく、自分が何者であり、何を許さないかを示す「境界線」の再確認です。撥ねつけた瞬間に生まれる、凛とした磁界のような緊張感。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "pulse",
+		"word": "Pulse",
+		"meaning": "脈拍、鼓動、パルス、リズム",
+		"era": "Latin pellere",
+		"etymology": {
+			"components": [
+				"pellere (to drive / beat)"
+			],
+			"original_statement": "From Latin pulsus 'a beating / striking / pulsing', from pellere 'to drive / beat'."
+		},
+		"concept": "The beat (突き動かすこと、生命という名の断続的な衝撃)",
+		"thinking": "「突き動かすこと（Pellere）」。生命とは、滑らかな線ではなく、心臓というエンジンの「一打一打」の爆発（プッシュ）によって運ばれている。パルスとは、一瞬の沈黙と、一瞬の爆発的な「生」の交替。そのリズムこそが、宇宙があなたに与えた、世界で最も正確な「存在の証明」です。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "propulsion",
+		"word": "Propulsion",
+		"meaning": "推進力、推進",
+		"era": "Latin pellere",
+		"etymology": {
+			"components": [
+				"pro- (forward)",
+				"pellere (to drive)"
+			],
+			"original_statement": "From Latin propulsio, from propellere 'to drive forward'."
+		},
+		"concept": "Force for forward driving (前へ進むための根源的な力)",
+		"thinking": "「前へ（Pro-）」「突き出す（Pellere）」ための物理。目的地に到達しようとする「想い」が、現実の空間を歪め、質量を移動させるための「力」へと変換された姿。推進力（プロパルジョン）を持つということは、もはや環境の犠牲者ではなく、自らが望む場所へと世界を再定義する側（主体）になったということです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "pulsate",
+		"word": "Pulsate",
+		"meaning": "脈打つ、鼓動する、活気に満ちる",
+		"era": "Latin pellere",
+		"etymology": {
+			"components": [
+				"pellere (to drive / beat)"
+			],
+			"original_statement": "From Latin pulsatus, past participle of pulsare 'to beat / strike / push', freq. of pellere 'to drive'."
+		},
+		"concept": "Repeated beating (繰り返される打撃。生命のしつこき輝き)",
+		"thinking": "「何度も（freq.）」「突き動かす（Pellere-）」。一回きりの衝動ではなく、執拗に、律動的に、自分の存在を世界に叩きつけ続けること。脈打つこと（パルセイト）は、あなたが今この瞬間も「生きよう」という強烈な意思を、細胞レベルで放棄していないという、生命の力強い宣言なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "repulsion",
+		"word": "Repulsion",
+		"meaning": "嫌悪、反発、(物理)斥力",
+		"era": "Latin pellere",
+		"etymology": {
+			"components": [
+				"re- (back)",
+				"pellere (to drive)"
+			],
+			"original_statement": "From Latin repulsio, from repellere 'to drive back'."
+		},
+		"concept": "Reaction of driving back (押し返す反応、魂の防衛的な不快感)",
+		"thinking": "「後ろへ（Re-）」「突き返す（Pellere）」ことによる反動。物理的な衝突だけでなく、生理的な「嫌悪感」もまた、自分の本質を汚されないための、魂という名の磁石の「N極とN極」の反発に似ています。嫌いだと思うことは、自分のコアを正しく理解するための重要な「拒絶のサイン」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "appeal",
+		"word": "Appeal",
+		"meaning": "訴える、魅了する、アピールする",
+		"era": "Latin ad- + pellere",
+		"etymology": {
+			"components": [
+				"ad- (to)",
+				"pellere (to drive)"
+			],
+			"original_statement": "From Old French apeler 'to call / summon', from Latin appellare 'to address / accost / call by name / appeal to', originally 'to drive toward', from ad- 'to' + pellere 'to drive'."
+		},
+		"concept": "Driving toward (誰かの方へ駆り立てること、心への接近戦)",
+		"thinking": "「相手の方へ（Ad-）」「（意識や声を）駆り立てる（Pellere）」。単なる呼びかけではなく、相手の心の奥底へ向けて自分の願いや魅力を「突き刺し」、振り向かせること。アピールとは、自分という存在が持つ「力」を、他者という未踏の地へと、勇気を持ってデリバリーする行為のことなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "repeal",
+		"word": "Repeal",
+		"meaning": "(法律などを)廃止する、撤回する",
+		"era": "Latin re- + ad- + pellere",
+		"etymology": {
+			"components": [
+				"re- (back)",
+				"appellare (to call)"
+			],
+			"original_statement": "From Old French rapeler 'to call back / revoke', from re- 'back' + apeler 'to call'."
+		},
+		"concept": "Calling back (呼び戻すこと。放たれた矢の回収)",
+		"thinking": "「後ろへ（Re-）」「呼び戻す（Apel-）」。一度は社会に放たれ、法として機能（疾走）していた言葉を、その役割を終えさせ、再び自分の手元へと「引き戻す」こと。撤回とは、自分の間違い（あるいは時代の変化）を認め、言葉という名の「放たれた矢」を、責任を持って回収しようとする誠実な後退です。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "pulsion",
+		"word": "Pulsion",
+		"meaning": "衝動、心の駆り立て",
+		"era": "Latin pellere",
+		"etymology": {
+			"components": [
+				"pellere (to drive)"
+			],
+			"original_statement": "From Latin pulsio, from pellere 'to drive'."
+		},
+		"concept": "The drive (駆り立て。理由なき生命の突き出し)",
+		"thinking": "「突き動かすこと（Pellere）」。理性が言語化する前に、内臓の奥深くから湧き上がってくる、純粋な「動きたい」という物理的なエネルギー。それは生命が、重力という静止の呪縛から逃れ、次の瞬間の「自分」へと変容するために必要とする、最も原始的な燃料補給の瞬間です。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "impulsive",
+		"word": "Impulsive",
+		"meaning": "衝動的な、直情的な",
+		"era": "Latin pellere",
+		"etymology": {
+			"components": [
+				"in- (into)",
+				"pellere (to drive)"
+			],
+			"original_statement": "From Latin impulsus, past participle of impellere 'to drive into / push forward'."
+		},
+		"concept": "Full of driving into (内へと突き動かされる。思考を追い越す身体)",
+		"thinking": "「内側から（In-）」「強く突かれた（Puls-）」状態。計算という「ブレーキ」が効く前に、身体がすでに「外」へと突き出されてしまっている。それは向こう見ずな危うさであると同時に、打算のない純粋な「今のあなた」が、世界に対して最も正直にコンタクトを取った際のはちきれんばかりの躍動感でもあるのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "pulse-rate",
+		"word": "Pulse-rate",
+		"meaning": "脈拍数",
+		"era": "Latin pellere + ratio",
+		"etymology": {
+			"components": [
+				"pulsus (beating)",
+				"ratio (count / proportion)"
+			],
+			"original_statement": "From pulse + rate."
+		},
+		"concept": "Count of beats (生命の一打の計測、時間の価値を測る定規)",
+		"thinking": "「打撃（Pulsus）」を「数える（Ratio）」。生命がどれほどのスピードで、今という「瞬間」を消費し、未来へと自らを突き出し（プッシュ）続けているか。その数値は、あなたという存在が発している「熱さ」そのものであり、宇宙時間の流れを、自分だけの固有の「生のリズム」として切り取った、最も個人的な定規なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "retrospect",
+		"word": "Retrospect",
+		"meaning": "追想、回想、過去を振り返ること",
+		"era": "Latin retro- + specere",
+		"etymology": {
+			"components": [
+				"retro- (backwards)",
+				"specere (to look)"
+			],
+			"original_statement": "From Latin retrospicere 'to look back', from retro- 'backwards' + specere 'to look'."
+		},
+		"concept": "Looking backwards (後ろに視線を投げること、過去という名の風景の再発見)",
+		"thinking": "「後ろを（Retro-）」「視る（Specere）」。かつて駆け抜けた、あるいは置き去りにしてきた時間を、今という安全な場所からじっくりと眺め直すこと。追想とは、記憶という名の古びた写真を現像し、当時は気づかなかった「意味（光）」という隠し味を、今のあなたの感性で付け加える、最も贅沢な「時間の再翻訳」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "specter",
+		"word": "Specter",
+		"meaning": "幽霊、亡霊、心の不安",
+		"era": "Latin specere",
+		"etymology": {
+			"components": [
+				"specere (to look)"
+			],
+			"original_statement": "From Latin spectrum 'an appearance / image / apparition / specter', from specere 'to look'."
+		},
+		"concept": "An appearance only (「現れ」だけの存在、実像なき視覚の残像)",
+		"thinking": "視ることはできる。しかし触れることはできない。死んだはずのもの、あるいは恐ろしい予感が、視覚的な「像（Spectrum）」として自分に迫ってくること。幽霊とは、失われた過去が、今という時間を「視線」だけで支配しようとする非実体的な暴力であり、あなたの「視る力（想像力）」が作り出した、美しくも恐ろしい影なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "suspicion",
+		"word": "Suspicion",
+		"meaning": "疑い、容疑、疑念",
+		"era": "Latin sub- + specere",
+		"etymology": {
+			"components": [
+				"sub- (under)",
+				"specere (to look)"
+			],
+			"original_statement": "From Old French suspicion, from Latin suspicio 'distrust / suspicion / opinion', from suspicere 'to look up at / admire / distrust', from sub- 'under' + specere 'to look'."
+		},
+		"concept": "Looking from under (下から視ること、物陰から覗き込む不安)",
+		"thinking": "「下から、密かに（Sub-）」「視る（Specere）」。正面から真実と向き合わず、隠れて、あるいは斜め下の暗がりから相手の綻びを伺うこと。疑念とは、自分の視線が透明であることを信じきれず、世界に対して「裏があるはずだ」と、自分が「下（物陰）」に潜り込んでしまう、精神の孤独な矮小化でもあるのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "specimen",
+		"word": "Specimen",
+		"meaning": "標本、見本、サンプル",
+		"era": "Latin specere",
+		"etymology": {
+			"components": [
+				"specere (to look)"
+			],
+			"original_statement": "From Latin specimen 'a mark / example / sign / evidence', from specere 'to look'."
+		},
+		"concept": "That by which one sees (それによって視るためのもの、典型という名の証言)",
+		"thinking": "「視る（Specere）」ための手がかり。全体を知るために、その典型的な一部分を「印（しるし）」として切り出したもの。標本とは、流動する生命を「静止」させ、永遠に観察可能な「視覚的な事実」へと変容させることで、私たちが世界の背後にある「普遍的な型」を視認するための、最初の踏み台なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "species",
+		"word": "Species",
+		"meaning": "種、種類、人類、(論理学)種概念",
+		"era": "Latin specere",
+		"etymology": {
+			"components": [
+				"specere (to look)"
+			],
+			"original_statement": "From Latin species 'a particular sort / kind / type / appearance / looks', originally 'a sight / look', from specere 'to look'."
+		},
+		"concept": "The outward appearance (外見、目に映る『型』としての存在)",
+		"thinking": "「目に映る形（Species）」。その生物が、どのような「現れ（ルックス）」を持ってこの世界に立ち現れているか。種とは、個体としての違いを超えて、私たちが一瞥しただけで「あ、これは鳥だ」「人間だ」と判断できる、その不変で美しい「デザインの極致」のことを指しています。視線によって、世界は分類される。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "despise",
+		"word": "Despise",
+		"meaning": "軽蔑する、ひどく嫌う",
+		"era": "Latin de- + specere",
+		"etymology": {
+			"components": [
+				"de- (down)",
+				"specere (to look)"
+			],
+			"original_statement": "From Old French despire, from Latin despicere 'to look down upon / disdain / abandon', from de- 'down' + specere 'to look'."
+		},
+		"concept": "Looking down (見下すこと、相手の価値を『下に』置く眼差し)",
+		"thinking": "「下を（De-）」「（見下ろすように）視る（Specere）」。自分を高い場所（あるいは中心）に置き、相手を矮小で、価値のないもの（ゴミ）として一瞥すること。軽蔑とは、相手の物語を読み取ることを拒否し、ただの「物体」として視覚から追放してしまおうとする、傲慢な絶交の身振りなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "intermit",
+		"word": "Intermit",
+		"meaning": "一時中断する、間欠的に起こる",
+		"era": "Latin inter- + mittere",
+		"etymology": {
+			"components": [
+				"inter- (between)",
+				"mittere (to let go / send)"
+			],
+			"original_statement": "From Latin intermittere 'to leave an interval / leave off / pause', from inter- 'between' + mittere 'to let go / send'."
+		},
+		"concept": "Sending in between (間に送り込むこと。連続性を断ち切る隙間)",
+		"thinking": "「間に（Inter-）」「送り放つ（Mittere）」。ずっと続いていた流れの中に、あえて「空虚（ポーズ）」を送り込み、一度リセットすること。間欠的（インターミテント）な活動は、全力の疾走と、深い休息を交互に繰り返すことで、生命というエンジンを焼き付かせないための、時間に対する最高の「知恵」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "remit",
+		"word": "Remit",
+		"meaning": "送金する、(罪などを)免除する、緩和する、委ねる",
+		"era": "Latin re- + mittere",
+		"etymology": {
+			"components": [
+				"re- (back)",
+				"mittere (to send)"
+			],
+			"original_statement": "From Latin remittere 'to send back / let go back / abate / forgive', from re- 'back' + mittere 'to send / let go'."
+		},
+		"concept": "Sending back (後ろへ送り返す。元に戻すことによる救済)",
+		"thinking": "「元の場所へ（Re-）」「送り戻す（Mittere）」。膨らんだ借金を元のゼロに戻し（免除）、あるいは遠き地にいる大切な誰かへ価値を戻す（送金）。リミット（免除）とは、時間の経過によって生じた「歪み」や「負債」を、慈悲という名の船に乗せて、本来あるべき「清浄な起点」へと還してあげることなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "missile",
+		"word": "Missile",
+		"meaning": "ミサイル、飛び道具",
+		"era": "Latin mittere",
+		"etymology": {
+			"components": [
+				"mittere (to send / throw)"
+			],
+			"original_statement": "From Latin missilis 'that may be thrown', from missus, past participle of mittere 'to send / throw'."
+		},
+		"concept": "That which is sent/thrown (送られる、または投げられるもの。回収不能な一撃)",
+		"thinking": "「送られるべき（Mittere）」運命を背負わされた物質。一度手を離れれば、自らの質量と速度によって目的の場所へと突き進む、単機能の「死の使者」。しかし、もとは単なる「投げられた石」でした。自らの手を離れた言葉も、時に誰かの心を貫く「ミサイル」になり得るということを、私たちは忘れてはなりません。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "submissive",
+		"word": "Submissive",
+		"meaning": "服従的な、従順な、控えめな",
+		"era": "Latin sub- + mittere",
+		"etymology": {
+			"components": [
+				"sub- (under)",
+				"mittere (to put / send)"
+			],
+			"original_statement": "From Latin submissus, past participle of submittere 'to lower / let down / yield / put under'."
+		},
+		"concept": "Condition of being sent under (下に置かれた状態。抵抗を捨てた柔和の極致)",
+		"thinking": "「誰かの下に（Sub-）」「送り置かれた（Miss-）」状態。自分を「主（マスター）」として主張するのをやめ、他者の色の下で生きることを選んだ静かな強さ。それは屈辱ではなく、衝突を避けて調和を保とうとする、水のようになめらかな「受容」という名の高い精神性の現れでもあるのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "mission",
+		"word": "Mission",
+		"meaning": "任務、使命、ミッション、伝道、使節団",
+		"era": "Latin mittere",
+		"etymology": {
+			"components": [
+				"mittere (to send)"
+			],
+			"original_statement": "From Latin missio 'a sending / a releasing / a dispatching', from mittere 'to send'."
+		},
+		"concept": "The act of sending (送ること、送られる側が背負う『一点』の理由)",
+		"thinking": "「送り出すこと（Missio）」。目的地も、やるべきことも、すべてはあなたを「送り出した者（あるいは天命）」によって定められている。使命（ミッション）とは、自分の欲望のために動くのではなく、ある「大いなる意志」の代弁者（飛脚）として、この世界を駆け抜けることの誇りと重圧のことなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "missive",
+		"word": "Missive",
+		"meaning": "手紙、信書、公文書",
+		"era": "Latin mittere",
+		"etymology": {
+			"components": [
+				"mittere (to send)"
+			],
+			"original_statement": "From Latin missivus 'sent', from mittere 'to send'."
+		},
+		"concept": "That which is sent (送られたもの。想いを封じ込めた沈黙の使者)",
+		"thinking": "「送られた（Miss-）」もの。口頭の言葉が空気を震わせて消えていくのに対し、手紙（ミッシヴ）は、自らの想いを文字という名の「重み」に変え、時空を越えて確実に相手の元へ届くように仕組まれた「沈黙の爆弾」です。封を切った瞬間に、かつてのあなたの情熱が、相手の心の中で今の声として蘇ります。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
 	}
 ];
