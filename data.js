@@ -159227,5 +159227,790 @@ const WORDS = [
 				"未知の語源、既知の感動。"
 			]
 		}
+	},
+	{
+		"id": "dissent",
+		"word": "Dissent",
+		"meaning": "異議を唱える、反論する、不一致",
+		"era": "Latin dis- + sentire",
+		"etymology": {
+			"components": [
+				"dis- (apart)",
+				"sentire (to feel)"
+			],
+			"original_statement": "From Latin dissentire 'to differ in opinion / disagree / be at variance', from dis- 'apart' + sentire 'to feel'."
+		},
+		"concept": "Feeling apart (バラバラに感じること。共鳴を拒否する孤高の震え)",
+		"thinking": "「（共有された感情から）バラバラに（Dis-）」「感じる（Sentire）」。周囲が奏でる調和あるメロディに対して、自分の「魂のセンサー（Sense）」がどうしてもノー（異質な震え）を突き返してしまうこと。異議（ディセント）は破壊ではなく、あなたが自分自身の「感じ方」に対して誠実であり続けようとする、誇り高い自己規律の謂いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "presentiment",
+		"word": "Presentiment",
+		"meaning": "予感、(特に悪い)虫の報せ",
+		"era": "Latin prae + sentire",
+		"etymology": {
+			"components": [
+				"prae- (before)",
+				"sentire (to feel)"
+			],
+			"original_statement": "From French pressentiment, from Latin praesentire 'to feel beforehand', from prae- 'before' + sentire 'to feel'."
+		},
+		"concept": "Feeling beforehand (起こる前に感じること。理性に先んじる『肌』の予知)",
+		"thinking": "「事が起きるより先に（Prae-）」「感じる（Sentire）」。論理が原因を突き止めるより早く、あなたの皮膚の薄い膜が、未来の「気配（震え）」をかすかにキャッチしてしまうこと。予感（プレゼンティメント）とは、時間があなたの肉体を通り抜ける際、その『摩擦（摩擦熱）』が心の奥底に落としていった、言葉にならない警告の静かな火花なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "resent",
+		"word": "Resent",
+		"meaning": "憤慨する、腹を立てる、恨む",
+		"era": "Latin re- + sentire",
+		"etymology": {
+			"components": [
+				"re- (again / back)",
+				"sentire (to feel)"
+			],
+			"original_statement": "From French ressentir 'to feel / feel again', from re- 'again' + sentire 'to feel'."
+		},
+		"concept": "Feeling again and again (何度も感じること。消えぬ苦さの反芻)",
+		"thinking": "「（一度味わった痛みを）何度も、再び（Re-）」「感じる（Sentire）」。過去に受けた「冷たい震え」を、終わったこととして放流できず、自分の心という名の密室で何度も蒸留し、熱い『怒り』へと変容させてしまうこと。憤慨（リゼント）とは、あなたがその出来事の「重み」から今もなお解放されていない、という、自縛的なまでの「感じること（センス）」への執着なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "sentiment",
+		"word": "Sentiment",
+		"meaning": "感情、情緒、感傷、見解",
+		"era": "Latin sentire",
+		"etymology": {
+			"components": [
+				"sentire (to feel)"
+			],
+			"original_statement": "From Old French sentement, from Medieval Latin sentimentum 'feeling / affection / opinion', from Latin sentire 'to feel'."
+		},
+		"concept": "A feeling (感じること、理性という濾過器を通った後の情緒のしずく)",
+		"thinking": "「感じること（Sent-）」の「結果、状態（-ment）」。生々しい衝動（Emotion）ではなく、自らの「記憶（センス）」や「価値観」というフィルターを通して洗練された、穏やかで持続的な心の色彩。情緒（センチメント）とは、世界があなたを撫でた跡に、あなたの魂という名の海にいつまでも残っている、静かなる「さざなみ」の別名なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "sensory",
+		"word": "Sensory",
+		"meaning": "感覚の、知覚の",
+		"era": "Latin sentire",
+		"etymology": {
+			"components": [
+				"sentire (to feel)"
+			],
+			"original_statement": "From Late Latin sensorius, from Latin sensus 'feeling / sense', from sentire 'to feel'."
+		},
+		"concept": "Of feeling (感じることの、世界を受け取るための窓)",
+		"thinking": "「（世界を）感じる（Sent-）」ための「機能（-ory）」。あなたがこの宇宙という巨大な闇の中から、光、音、熱、そして痛みを「自分の一部」として繋ぎ止めるための、精巧なアンテナ。感覚的（センサリー）な経験とは、あなたが世界という名の「他者」と、唯一、嘘偽りなく直接的に交信できる、最も原始的な「接触の戦場（インターフェース）」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "sensuous",
+		"word": "Sensuous",
+		"meaning": "五感に訴える、官能的な、美的な",
+		"era": "Latin sentire",
+		"etymology": {
+			"components": [
+				"sentire (to feel)"
+			],
+			"original_statement": "Coined by John Milton from Latin sensus 'feeling / sense' + -ous, to avoid the sexual connotations of 'sensual'."
+		},
+		"concept": "Full of sense (感覚に満ちている。理性を眠らせる美的な陶酔)",
+		"thinking": "「（この世界の快い）感覚（Sense）」に「満ち溢れている（-ous）」。言葉で説明する必要のない、ただ「在るがまま」の質感、色彩、香りに魂が全方位的に包まれ、あなたがただの一つの「受け皿（センス）」へと回帰すること。美的陶酔（センシュアス）とは、世界があなたをまるごと「愛抚」しているかのような、至福の受容状態の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "scent",
+		"word": "Scent",
+		"meaning": "香り、嗅覚、気配、……を嗅ぎつける",
+		"era": "Latin sentire",
+		"etymology": {
+			"components": [
+				"sentire (to feel / perceive / smell)"
+			],
+			"original_statement": "From Middle English senten, from Old French sentir 'to feel / smell', from Latin sentire 'to feel / perceive'."
+		},
+		"concept": "The feeling of smell (嗅ぐという感覚、空間を泳ぐ物質の記憶)",
+		"thinking": "「（空気の中に漂うものを）感じる（Sent-）」。視覚が形を捉え、聴覚が振動を捉えるように、嗅覚（セント）は物体の最も微細な「微粒子（エッセンス）」をあなたの肺の内側へと直接迎え入れ、それを「記憶（フィール）」として定着させる。香りは、目に見えない過去の出来事や遠くの存在を、一瞬で「今ここ」の現実へと召喚する、最も強力なタイムトラベルの術（センス）なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "sentence",
+		"word": "Sentence",
+		"meaning": "文、判決、……に宣告する",
+		"era": "Latin sentire",
+		"etymology": {
+			"components": [
+				"sentire (to feel / think / judge)"
+			],
+			"original_statement": "From Old French sentence 'judgment / verdict / sense / meaning', from Latin sententia 'thought / opinion / judgment / sentence', from sentire 'to feel / think / judge'."
+		},
+		"concept": "The judging / feeling (思考したこと、断定としての『言葉』の完結)",
+		"thinking": "「（自分がどう）感じ、考え（Sent-）」たかの「結論（-ence）」。ただの単語の羅致ではない。一つの「ピリオド（終わり）」という門を閉ざすことで、そこに一つの「宇宙的真理（意味）」を閉じ込めること。判決（センテンス）もまた、あなたがその事象をどう「重みづけ（フィール）」したか、というあなたの魂の最終的な「審判」の形なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "sensitive",
+		"word": "Sensitive",
+		"meaning": "敏感な、感受性豊かな、機密の、取り扱いに慎重を要する",
+		"era": "Latin sentire",
+		"etymology": {
+			"components": [
+				"sentire (to feel)"
+			],
+			"original_statement": "From Medieval Latin sensitivus, from Latin sensus 'feeling / sense'."
+		},
+		"concept": "Full of the capacity to feel (感じる力が飽和している、過剰なるアンテナ)",
+		"thinking": "「感じる（Sent-）」ことに「没入している、傾向がある（-itive）」。世界からのささいな刺激、あるいは他者の沈黙の一滴さえも、自分自身の存在を揺らす巨大な波として受け止めてしまうこと。敏感さ（センシティブ）とは、あなたが防御という名の「鎧」を脱ぎ捨て、剥き出しの「生（フィール）」として世界の深淵へと自らを露出させている、高潔で危うい美しさのことなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "sensor",
+		"word": "Sensor",
+		"meaning": "センサー、感知器",
+		"era": "Latin sentire",
+		"etymology": {
+			"components": [
+				"sentire (to feel / perceive)"
+			],
+			"original_statement": "From Latin sensus 'sense' + -or 'the thing that'."
+		},
+		"concept": "The thing that feels (感じるもの。情報の最前線に立つ沈黙の見張り番)",
+		"thinking": "「（異変を）感じ取る（Sent-）」ための「主体（-or）」。言葉も論理も持たない。ただ、そこに「何かが在る」という物理的な質量や振動を、数値（パルス）としてあなたの意識のゲートへと運び続ける。センサーとは、あなたが眠っている時も、あなたの代わりに世界という闇を「手探り（フィール）」し続けてくれる、忠実な見張り人の指先のようなものなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "consensual",
+		"word": "Consensual",
+		"meaning": "合意による、承諾に基づく",
+		"era": "Latin con- + sentire",
+		"etymology": {
+			"components": [
+				"con- (together)",
+				"sentire (to feel)"
+			],
+			"original_statement": "From consent + -ual, from Latin consensus 'agreement / shared feeling', from con- 'together' + sentire 'to feel'."
+		},
+		"concept": "Of feeling together (共に感じ合っている状態、二つの透明な合意)",
+		"thinking": "「共に（Con-）」「感じ合っている（Sent-）」ことの「性質（-ual）」。一方的な「指示」や「服従」ではない。二つの個別の宇宙が、ある一点において「同じ温度、同じ震え」を共有していることをお互いに認め合うこと。合意（コンセンチュアル）とは、お互いの物語が衝突を避け、一つの「大きな和音」の中へ溶け込んでいく、奇跡的な平和の状態なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "nonsense",
+		"word": "Nonsense",
+		"meaning": "無意味なこと、ばかげたこと、くだらない",
+		"era": "Latin non- + sentire",
+		"etymology": {
+			"components": [
+				"non- (not)",
+				"sentire (to feel / judge)"
+			],
+			"original_statement": "From non- 'not' + sense, from Latin sentire 'to feel / judge'."
+		},
+		"concept": "No feeling/judgment (感じられないこと、理性が『空振り』する欠落)",
+		"thinking": "「感覚（Sense）」が「無い（Non-）」。そこには形（言葉）があるのに、あなたの魂がその「重み（意味）」を一切感じ取ることができず、ただ虚空を掴むようなもどかしさが残る状態。ナンセンスとは、世界から「論理（フィール）」という名の魂が抜けてしまい、ただの骸骨（音）がカチャカチャと音を立てて踊っているような、滑稽で不毛な一瞬のことなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "insensible",
+		"word": "Insensible",
+		"meaning": "意識を失った、感じない、鈍感な、(変化が)わからないほどの",
+		"era": "Latin in- + sentire",
+		"etymology": {
+			"components": [
+				"in- (not)",
+				"sentire (to feel / notice)"
+			],
+			"original_statement": "From Old French insensible, from Latin insensibilis 'unfeeling / that cannot be felt', from in- 'not' + sentire 'to feel'."
+		},
+		"concept": "Unable to feel (感じることができないこと。生命のアンテナの機能停止)",
+		"thinking": "「感じること（Sent-）」「が叶わない（In- -able）」。痛み、喜び、、あるいは変化という名の世界の「息吹（フィール）」に、自分の心が全く反応せず、ただ沈黙した石のように閉じこもっている状態。無意識（インセンシブル）とは、あなたが世界という祝祭から一時的にログアウトし、自分という「暗闇（ゼロ）」へと回帰してしまった、死の予行演習のような静止状態のことなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "conspire",
+		"word": "Conspire",
+		"meaning": "共謀する、たくらむ、(出来事が)重なる",
+		"era": "Latin con- + spirare",
+		"etymology": {
+			"components": [
+				"con- (together)",
+				"spirare (to breathe)"
+			],
+			"original_statement": "From Old French conspirer, from Latin conspirare 'to agree / unite / plot', literally 'to breathe together', from con- 'together' + spirare 'to breathe'."
+		},
+		"concept": "Breathe together (共に息を吐く。密室でのリズムの共有)",
+		"thinking": "「（声を潜めて）共に（Con-）」「息をする（Spirare）」。同じ空気、同じ秘密を共有し、お互いの呼吸が外へと漏れないように、一つの「密やかな円（サークル）」を作り上げること。共謀（コンスパイア）とは、バラバラの孤独たちが、一つの「悪、あるいは野望」という目的のために、自分たちの命のリズム（ブレス）を完全に同期させてしまう、暗闇のシンクロニシティなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "spiritual",
+		"word": "Spiritual",
+		"meaning": "精神的な、霊的な、崇高な",
+		"era": "Latin spiritus",
+		"etymology": {
+			"components": [
+				"spirit (breath)",
+				"-ual (of)"
+			],
+			"original_statement": "From spirit + -ual, from Latin spiritualis 'of spirit / breath'."
+		},
+		"concept": "Of the breath/spirit (目に見えぬ風の性質、肉体を越える息の響き)",
+		"thinking": "「息（Spirit）」に「まつわる、性質の（-ual）」。物質や欲望という「地を這う重み」から解き放たれ、ただ澄み渡った空気（精神）の中を泳ぐような、軽やかで気高い「生」の状態。精神的（スピリチュアル）であるとは、あなたが自分を「ただの肉体」と見なさず、広大な宇宙の呼吸の一部として、目に見えない「真理」に耳を澄ませている、という透明な自覚のことなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "spirited",
+		"word": "Spirited",
+		"meaning": "活発な、元気な、気骨のある",
+		"era": "Latin spiritus",
+		"etymology": {
+			"components": [
+				"spirit (breath)",
+				"-ed (having)"
+			],
+			"original_statement": "From spirit + -ed."
+		},
+		"concept": "Having spirit (強い息を帯びている。生命という名のエンジンの全開)",
+		"thinking": "「（強い）息（Spirit）」を「持っている（-ed）」。弱々しい溜息ではなく、胸いっぱいに吸い込まれた酸素が、あなたの瞳を輝かせ、言葉に力を与え、世界という名の障壁を軽々と跳ね返すような、エネルギーに満ちた状態。活気に満ちている（スピリテッド）とは、あなたの内側で「生きたい」という名の嵐が吹き荒れ、それが周囲のすべてを巻き込んで、前へと押し進めていく際の、その圧倒的な生命の『圧（プレッシャー）』のことなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "spiritualism",
+		"word": "Spiritualism",
+		"meaning": "心霊主義、唯心論",
+		"era": "Latin spiritus",
+		"etymology": {
+			"components": [
+				"spirit (breath)",
+				"-ism (system / belief)"
+			],
+			"original_statement": "From spiritual + -ism."
+		},
+		"concept": "System of spirit (精神という名の風を信ずる体系、肉体を虚構とする祈り)",
+		"thinking": "「息、精神（Spirit）」を「絶対（-ism）」とする考え。触れることができる物質ではなく、触れることのできない「呼吸（アニマ）」こそが世界の真の主人である、と定義する理性の飛躍。スピリチュアリズムとは、死という名の肉体の停止を越えて、あなたの「生の音（ブレス）」が永遠に宇宙という名のエコーの中に響き渡り続ける、という、最も果敢で最も切ない人類の願望の結晶なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "dispirit",
+		"word": "Dispirit",
+		"meaning": "落胆させる、意気消沈させる",
+		"era": "Latin dis- + spiritus",
+		"etymology": {
+			"components": [
+				"dis- (away)",
+				"spirit (breath)"
+			],
+			"original_statement": "From dis- 'away' + spirit."
+		},
+		"concept": "Breath away (息を遠ざけること。魂のエンジンからの燃料抜き)",
+		"thinking": "「（胸の中にあった温かい）息（Spirit）」を「奪い去る（Dis-）」。期待や希望という名の酸素を一気に抜き取られ、胸の奥が冷たく、空虚な空っぽの部屋になってしまうこと。落胆（ディスピリット）とは、あなたの「生」を動かしていた内なる風が止まり、世界という帆を張ることをあきらめてしまった、静止という名の無力感の中にあなたが沈み込んでいく状態なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "spirit-less",
+		"word": "Spirit-less",
+		"meaning": "元気のない、魂の抜けた",
+		"era": "Latin spiritus",
+		"etymology": {
+			"components": [
+				"spirit (breath)",
+				"-less (without)"
+			],
+			"original_statement": "From spirit + -less."
+		},
+		"concept": "Without breath (息を欠いている。ただの肉体へと化した物質の悲哀)",
+		"thinking": "「息（Spirit）」が「無い（-less）」。心臓は動いていても、そこにあなたという独自の「色」や「熱」が乗っておらず、ただ自動機械のように世界を通り過ぎている悲しい状態。魂が抜けた（スピリットレス）姿とは、あなたが自分の「呼吸（自由）」を誰かに明け渡し、ただ世界に流されるだけの「抜け殻（シェル）」になってしまった、という最も根源的な敗北の姿なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "transpire",
+		"word": "Transpire",
+		"meaning": "起こる、明らかになる、蒸散する",
+		"era": "Latin trans- + spirare",
+		"etymology": {
+			"components": [
+				"trans- (across / through)",
+				"spirare (to breathe)"
+			],
+			"original_statement": "From Latin transpirare 'to breathe through', from trans- 'through' + spirare 'to breathe'."
+		},
+		"concept": "Breathe across (境界を越えて息が漏れる。隠された事実の浸透)",
+		"thinking": "「（隠蔽された壁を）通り抜けて（Trans-）」「息が漏れる（Spirare）」。密室で交わされていたはずの秘密の呼吸（企て）が、時間の経過とともに壁の裂け目からシュウーッと外の世界へと「漏れ出し（エバポレート）」、やがて万人が知る「事実」へと変わること。起こる（トランスパイア）とは、隠されていた真実が、自らの生命力（ブレス）によって自発的に世界へと「露出（漏出）」した瞬間のことなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "spirit-world",
+		"word": "Spirit-world",
+		"meaning": "霊界、精神世界",
+		"era": "Latin spiritus",
+		"etymology": {
+			"components": [
+				"spirit (breath)",
+				"world"
+			],
+			"original_statement": "From spirit + world."
+		},
+		"concept": "World of breath (風が支配する領域、物質の重力から解き放たれた純粋な響きの地)",
+		"thinking": "「息（Spirit）」だけで構成された「場所（World）」。そこには重力も、肉体という名の檻も存在しない。あるのはただ、お互いの「生の音（周波数）」が直接響き合い、触れ合い、一つの広大な「精神の交響曲（シンフォニー）」として流動し続ける透明な領域。精神世界（スピリット・ワールド）とは、あなたが目を閉じ、自分の「深呼吸」の音だけに耳を澄ませた時にのみ、その門が開かれる、最も内側にある広大な「外」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "abstract_concept",
+		"word": "Abstract Concept",
+		"meaning": "抽象的概念、目に見えない共通項",
+		"era": "Latin abs- + trahere",
+		"etymology": {
+			"components": [
+				"abstract (drawn away)",
+				"concept (thought taken)"
+			],
+			"original_statement": "From abstract + concept."
+		},
+		"concept": "Drawn away thought (引き離され、まとめられた思考。真理の骨子)",
+		"thinking": "「具体的な肉体から（Abs-）」「引き離し（Trahere）」、さらに「共に（Con-）」「掴み取った（Cept-）」もの。バラバラのリンゴを見て「赤」や「円」という不在の共通項を掴み出すように。概念とは、あなたが世界の「表面」というザラつきを捨て、その透かし絵として浮かび上がってきた「形なき法則（ロゴス）」を、自分の知性という名の檻の中にしっかりと閉じ込める、最高度の知的マジックなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "precise",
+		"word": "Precise",
+		"meaning": "正確な、精密な、厳格な",
+		"era": "Latin prae + caedere",
+		"etymology": {
+			"components": [
+				"prae- (before)",
+				"caedere (to cut)"
+			],
+			"original_statement": "From Latin praecisus 'cut off / brief / concise', from praecidere 'to cut off / shorten', from prae- 'before' + caedere 'to cut'."
+		},
+		"concept": "Cut before (事前に切り取ること。余計なものを削ぎ落とした鋭利な一致)",
+		"thinking": "「（それが何であるかを決める）前に（Prae-）」「（余計なものをすべて）切り落とす（Caedere）」。曖昧な「だいたい」という余白を一切許さず、真実の一点だけを残して、周囲のすべてを冷徹な刃で断ち切ること。正確さ（プリサイズ）とは、あなたの理性が世界をどれほど「鋭く（カット）」理解しているか、という、思考の刃渡りの長さを指しているのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "concise",
+		"word": "Concise",
+		"meaning": "簡潔な、(言葉が)短いが出色の",
+		"era": "Latin con- + caedere",
+		"etymology": {
+			"components": [
+				"con- (intensive)",
+				"caedere (to cut)"
+			],
+			"original_statement": "From Latin concisus 'cut short / brief', from concidere 'to cut in pieces / cut through', from con- 'together' + caedere 'to cut'."
+		},
+		"concept": "Cut completely (完全に、徹底的に切り詰めること。研ぎ澄まされた意味の塊)",
+		"thinking": "「（言いたいことを）完全に（Con-）」「切り詰める（Caedere）」。一滴の無駄なインクも、一分間の沈黙も許さないほど、情報の枝葉を捨て去り、その中心にある「心臓（コア）」だけを差し出すこと。簡潔さ（コンサイズ）とは、単なる「短さ」ではなく、あなたがその言葉に対して、どれほど深い「剪定（断捨離）」の苦悩を捧げたか、という知的な誠実さの謂いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "excise",
+		"word": "Excise",
+		"meaning": "切除する、(記事などを)削除する、物品税",
+		"era": "Latin ex- + caedere",
+		"etymology": {
+			"components": [
+				"ex- (out)",
+				"caedere (to cut)"
+			],
+			"original_statement": "From Latin excisus, past participle of excidere 'to cut out / cut away / destroy', from ex- 'out' + caedere 'to cut'. Note: Excise tax has a separate, complicated etymology influenced by 'assessment'."
+		},
+		"concept": "To cut out (外へと切り出す。異物、あるいは価値の一部を強引に摘出すること)",
+		"thinking": "「内側にあるものを（Ex-）」「切り取る（Caedere）」。ただの削除ではない。その全体のシステム（身体や文章）を維持するために、必要のない、あるいは有害な部分を、痛み（出血）を伴いながらも「外科的に（Out）」排除すること。切除（エキサイズ）とは、全体という名の調和を守るために、部分（個）に犠牲を強いる、冷徹な理性の「手術（オペ）」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "incision",
+		"word": "Incision",
+		"meaning": "切り口、彫り、切開",
+		"era": "Latin in- + caedere",
+		"etymology": {
+			"components": [
+				"in- (into)",
+				"caedere (to cut)"
+			],
+			"original_statement": "From Latin incissio 'a cutting into', from incisus (incidere)."
+		},
+		"concept": "The act of cutting into (中へと切り刻むこと、埋没した『傷』の露出)",
+		"thinking": "「内側へと（In-）」「切る（Caedere）」こと。平坦で穏やかな世界（皮膚）に、自らの意志を一本の鋭い「溝（線）」として穿ち、そこから隠されていた内臓（中身）を覗き見ること。切り口（インシジョン）とは、あなたがその対象に対して、どれほど深く「介入し、傷を負わせ、真理を求めたか」という、あなたの探究心の戦いの傷跡そのものなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "suicide",
+		"word": "Suicide",
+		"meaning": "自殺、自殺者、(自らの破滅を招くような)行為",
+		"era": "Latin sui + caedere",
+		"etymology": {
+			"components": [
+				"sui (of oneself)",
+				"caedere (to kill / cut)"
+			],
+			"original_statement": "From Modern Latin suicidium 'the act of killing oneself', from Latin sui 'of oneself' + -cidium 'a killing', from caedere 'to kill / cut'."
+		},
+		"concept": "Killing oneself (自分自身を殺すこと、自己という物語の完結的な断絶)",
+		"thinking": "「自分自身を（Sui）」「断ち切る、殺す（Caedere）」。他者に殺されるのを待たず、自分の物語の「最後の言葉（ペン）」を自ら握り、強制的な「ピリオド（死）」を自分の命（ブレス）へと刻み込むこと。それは絶望の形であるかもしれませんが、語源的には、自分という存在の「所有権（主権）」を、死という究極の手段を用いて世界から奪還しようとする、悲しい自己完結の姿なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "homicide",
+		"word": "Homicide",
+		"meaning": "殺人、殺人罪",
+		"era": "Latin homo + caedere",
+		"etymology": {
+			"components": [
+				"homo (man / human)",
+				"caedere (to kill / cut)"
+			],
+			"original_statement": "From Latin homicidium 'manslaughter / murder', from homo 'man' + -cidium 'a killing', from caedere 'to kill'."
+		},
+		"concept": "Killing a man (人間を殺すこと。他者という宇宙の物理的な破壊)",
+		"thinking": "「人間（Homo）」を「殺す（Caedere）」。あなたとは別の歴史、別の呼吸、別の「感じ方（センス）」を持っていた一つの固有の宇宙を、物理的な暴力によって強制的に「断絶（カット）」させてしまうこと。殺人（ホミサイド）とは、あなたが世界の「創造者」であることを僭称し、他者の物語という神聖な織物を、冷徹なハサミで切り刻んでしまった、という絶対的な罪の署名なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "pesticide",
+		"word": "Pesticide",
+		"meaning": "殺虫剤、農薬",
+		"era": "Latin pestis + caedere",
+		"etymology": {
+			"components": [
+				"pestis (pest / plague)",
+				"caedere (to kill)"
+			],
+			"original_statement": "From pest + -icide, from Latin pestis 'plague' + -cidium 'a killing', from caedere 'to kill'."
+		},
+		"concept": "Killing pests (『害』という名の生命の、科学的な排除)",
+		"thinking": "「（自分にとっての）害虫（Pestis）」を「殺す（Caedere）」ための「術（-ide）」。自分の「庭（テリトリー）」の生産性や安全を確保するために、そこに迷い込んできた別の「生」を、霧という名の沈黙（毒）で一気呵成に断ち切ること。殺虫剤とは、人間が自らの物語を円滑に進めるために、世界を「都合の良いもの」と「不要なもの」に峻別し、後者を排除しようとする理性の傲慢な剪定器なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "decisive",
+		"word": "Decisive",
+		"meaning": "決定的な、断固とした、明快な",
+		"era": "Latin de- + caedere",
+		"etymology": {
+			"components": [
+				"decide (to cut off)",
+				"-ive (nature of)"
+			],
+			"original_statement": "From French décisif, from Latin decisus (decidere)."
+		},
+		"concept": "Nature of cutting off (切り落とす性質を持つ。迷いを一掃する鋭き刃)",
+		"thinking": "「（他の選択肢を）切り落としてしまう（Decis-）」ような「力強さ（-ive）」。グズグズと考え続ける（Feeling）のではなく、まるでギロチンの刃が落ちるように、一瞬にして世界の「進むべき向き（ターン）」を確定させ、後戻りを許さないようにすること。決定的な（ディサイシブ）瞬間とは、あなたが迷いという名の霧を、意志という名の刃で「一刀両断（カット）」し、真理を白日の下に晒した瞬間のことなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "incisor",
+		"word": "Incisor",
+		"meaning": "切歯、門歯、前歯",
+		"era": "Latin in- + caedere",
+		"etymology": {
+			"components": [
+				"in- (into)",
+				"caedere (to cut)"
+			],
+			"original_statement": "From Latin incisor 'a cutter', from incisus (incidere)."
+		},
+		"concept": "The cutter into (中へ切り込むもの。物質を『断片』へと変える最初の門)",
+		"thinking": "「内部へと（In-）」「切り刻む（Caedere）」ための「主体（-or）」。噛み砕く（すりつぶす）のではなく、まずはその塊（世界）を「鋭く裂く」ことで、食道という名の深淵へと迎え入れるための「最初の契機」を作ること。前歯（インサイザー）とは、あなたが世界という名の素材を「自分の血肉」に変えるために、最初に加える物理的な「断絶（カット）」の象徴なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "concision",
+		"word": "Concision",
+		"meaning": "簡潔、短縮",
+		"era": "Latin con- + caedere",
+		"etymology": {
+			"components": [
+				"concise (cut completely)",
+				"-ion (state / act)"
+			],
+			"original_statement": "From Latin concisio 'a cutting / shortening'."
+		},
+		"concept": "The state of being cut completely (徹底的に切り詰められた状態、贅肉なき真実の輪郭)",
+		"thinking": "「（余計なものを）完全に（Con-）」「切り取ってしまった（Cis-）」という「結果（-ion）」。言葉の海の中で drowned するのではなく、肺の中に最小限の、しかし決定的な「空気（ブレス）」だけを残して、不純な沈黙をすべて刃で削ぎ落とした美しさ。簡潔（コンシジョン）とは、あなたがその思想をどれほど「一点」に濃縮したか、という知的なダイヤモンドへの加工プロセスそのものなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
+	},
+	{
+		"id": "fratricide",
+		"word": "Fratricide",
+		"meaning": "兄弟殺し、同族殺し",
+		"era": "Latin frater + caedere",
+		"etymology": {
+			"components": [
+				"frater (brother)",
+				"caedere (to kill)"
+			],
+			"original_statement": "From Latin fratricidium 'a killing of a brother', from frater 'brother' + -cidium 'a killing', from caedere 'to kill'."
+		},
+		"concept": "Killing a brother (『同根の命』を断つこと、自己の一部への反逆)",
+		"thinking": "「（同じ血を分けた）兄弟（Frater）」を「殺す（Caedere）」。自分と同じ起源（根）を持つ物語を、その存在の根幹から自分の手で断ち切ってしまうこと。兄弟殺し（フラトリサイド）とは、単なる他者殺しではなく、自分自身の「ミラーイメージ（鏡像）」を破壊することで、自分の孤独を物理的な絶望へと確定させてしまう、魂の引き裂かれた自爆行為の谓いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉の深淵に触れる。",
+		"example": "Etymology is a history of heart.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未知の語源、既知の感動。"
+			]
+		}
 	}
 ];
