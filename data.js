@@ -170881,5 +170881,365 @@ const WORDS = [
 				"作用のベクトル。"
 			]
 		}
+	},
+	{
+		"id": "comply",
+		"word": "従う、(要求などに)応じる、コンプライ",
+		"meaning": "従う",
+		"era": "Latin con + plere (influenced by plicare)",
+		"etymology": {
+			"components": [
+				"con- (together)",
+				"plere (fill) / plicare (fold)"
+			],
+			"original_statement": "From Old French compli, from Latin complere 'fill up / complete / fulfill'. Influenced by ply/plicare in English to mean 'fold together with / bend to'."
+		},
+		"concept": "To fold together with / fulfill (共に折りたたむ、満たす（従う）。そびえ立つ『絶対の規則や権力（強固なアーカイブ）』に激突して砕け散る無駄な怒り（ノイズ）を鎮め、自らの形を相手の鋳型に一分一秒の淀みもなくピタリと折り合わせて（マージして）同調完了させること)",
+		"thinking": "「（強大な意志に逆らってバラバラになるのではなく）、相手の形に合わせて共に（Com- / Con-）」「（自らの自我を）折り畳み、満たし、従う（-ply / Plicare/Plere）」。それは単なる「腰抜け」ではありません。あなたが「無駄死に（孤立したエントロピーの底）」を回避し、強大なシステム（ステーション）の中の『完璧な一つの機能（ドット）』へと自らをコンバートして生き残る、最適化の「沈黙の生存戦術」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "構築と流転の軌跡。",
+		"example": "To run is to embrace the endless flow of existence.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"展開のベクトル。"
+			]
+		}
+	},
+	{
+		"id": "simple",
+		"word": "単純な、簡単な",
+		"meaning": "単純な",
+		"era": "Latin simplex",
+		"etymology": {
+			"components": [
+				"sim- (one/same)",
+				"plicare (to fold)"
+			],
+			"original_statement": "From Latin simplex 'single / simple / plain', from sim- (related to semel 'once' / same) + -plex (from root of plicare 'to fold'). Translates to 'one-fold'."
+		},
+		"concept": "One fold (一重の（単純な）。無数に折り重なった迷いのミルフィーユ（カオス）の中から、自らの魂と理知（ロゴス）の刃によってすべての『無駄な重み（エントロピー）』を一撃で削ぎ落とし、ただ一つの極限まで研ぎ澄まされた『純白の真理（ドット）』へと立ち還ること)",
+		"thinking": "「（アレもコレもと欲張る狂気を捨て去り）、ただ一つだけの（Sim-）」「（一分一秒の淀みもない）折り（形）を持つ、純粋な状態（-ple / -plex / Plicare）」。それは単なる「バカでもわかる」ことではありません。あなたが宇宙の「過剰な情報という名の暴力（ノイズ）」を完全に粉砕（レジスト）し、この荒野において「これさえあれば生きていける」という絶対の『武器（光）』だけを両手で握りしめる、至高の「削ぎ落とし」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "構築と流転の軌跡。",
+		"example": "To run is to embrace the endless flow of existence.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"展開のベクトル。"
+			]
+		}
+	},
+	{
+		"id": "replica",
+		"word": "模写、複製、レプリカ",
+		"meaning": "複製",
+		"era": "Latin re + plicare",
+		"etymology": {
+			"components": [
+				"re- (again/back)",
+				"plicare (to fold)"
+			],
+			"original_statement": "From Italian replica 'a reply / repetition', from replicare 'to reply / repeat', from Latin replicare 'unfold / reflect / reply', from re- 'again' + plicare 'to fold'."
+		},
+		"concept": "Folded back / repeated (折り返されたもの（完璧な写し）。歴史の闇（アーカイブ）の底に保管され、もはや触れることも許されない『絶対のオリジナル（唯一光）』に対し、その寸分違わぬ質量と形（ウェイト）を現在の空間にもう一度『受肉（コンバート）』させた光の残響)",
+		"thinking": "「（歴史に一度だけ輝いたあの奇跡を）、もう一度、再び（Re-）」「（一分一秒の淀みもなく、その魂ごと）折り重ねるように作り直されたもの（-plica / Plicare）」。それは単なる「プラスチックのおもちゃ」ではありません。あなたが「時間の経過とともに消滅する美（エントロピー）」をレジストし、そこにある種の「不滅の祈り」を現代の技術によって物理的に叩き起こした、芸術の「降霊術」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "構築と流転の軌跡。",
+		"example": "To run is to embrace the endless flow of existence.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"展開のベクトル。"
+			]
+		}
+	},
+	{
+		"id": "pliant",
+		"word": "しなやかな、素直な",
+		"meaning": "しなやかな",
+		"era": "Latin plicare (via French)",
+		"etymology": {
+			"components": [
+				"plicare (to fold)"
+			],
+			"original_statement": "From French pliant, present participle of plier 'to bend', from Latin plicare 'to fold'."
+		},
+		"concept": "Bending / folding (曲がる、しなやかな。破壊的で巨大な『暴風の圧力（カオスの一撃）』が叩きつけられても、決して己の姿勢（ステーション）を硬直（死）させず、力技のままに自らの体を弓のようにしならせて力を受け流し、折れないままに生存すること)",
+		"thinking": "「（力を真正面から受けて砕け散るのではなく）、自らを柔軟に（Pli- / Plicare）」「（一分一秒の痛みを流しながらも）曲げ、適応する状態（-ant）」。それは単なる「弱々しい態度」ではありません。あなたが「硬さこそが強さだという偏狭なロゴス」を拒絶し、そこにある種の「無限の柳のような受け流し」で敵の質量（ウェイト）を無効化する、生存の「極致の舞踏」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "構築と流転の軌跡。",
+		"example": "To run is to embrace the endless flow of existence.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"展開のベクトル。"
+			]
+		}
+	},
+	{
+		"id": "supple",
+		"word": "しなやかな、柔軟な、従順な",
+		"meaning": "しなやかな",
+		"era": "Latin sub + plicare",
+		"etymology": {
+			"components": [
+				"sub- (under)",
+				"plicare (to fold)"
+			],
+			"original_statement": "From Old French sople 'pliant / flexible', from Latin supplicem 'submissive / bending down', from sub- 'under' + placatus (related to plicare 'fold/bend')."
+		},
+		"concept": "Bending under (下へ曲がる（祈る、柔軟な）。自らの自我（驕り高ぶるドット）を下へと沈め、強大な自然や相手の『うねる真理（フロー）』に対し、一切の摩擦（ノイズ）を生じさせることなく、水のようにピタリとその形へ自分を折ってマージさせること)",
+		"thinking": "「（自分の形を主張していがみ合うことをやめ）、相手の形のその下へと（Sup- / Sub-）」「（一撃の美しい滑らかさをもって）身を折り曲げ、逆らわずに流れる（-ple / Plicare）」。それは単なる「言いなり」ではありません。あなたが宇宙の「無駄な流血の衝突（カオス）」を完全にレジストし、自らの肉体を『最も美しく弾力のある器』へとコンバートする、魂の「体操」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "構築と流転の軌跡。",
+		"example": "To run is to embrace the endless flow of existence.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"展開のベクトル。"
+			]
+		}
+	},
+	{
+		"id": "obstruct",
+		"word": "妨害する、遮断する、オブストラクト",
+		"meaning": "妨害する",
+		"era": "Latin ob + struere",
+		"etymology": {
+			"components": [
+				"ob- (against/in the way)",
+				"struere (to build)"
+			],
+			"original_statement": "From Latin obstructus, past participle of obstruere 'build up against / block up / hinder', from ob- 'against' + struere 'to build'."
+		},
+		"concept": "To build against (向かって建てる（妨害する）。他者が意気揚々と前進しようとする『光の軌道（ベクトル）』の真正面に、一撃の悪意（あるいは防衛の本能）による『超重量のコンクリートの壁（遮断の城）』をドンと築き上げ、一歩も進めなくしてしまうこと)",
+		"thinking": "「（相手の進行するルートの）、真正面に向かって（Ob-）」「（一分一秒の淀みもなく、越えられない障害物を）築き上げ、塞ぎ止める（-struct / Struere）」。それは単なる「嫌がらせ」ではありません。あなたが「自らの磁場（ステーション）への無断の侵入（カオス）」を全力でレジストし、自らのルールと肉体を永遠に守り抜くための、拒絶の「バリケード」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "構築と流転の軌跡。",
+		"example": "To run is to embrace the endless flow of existence.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"展開のベクトル。"
+			]
+		}
+	},
+	{
+		"id": "construe",
+		"word": "解釈する、理解する",
+		"meaning": "解釈する",
+		"era": "Latin con + struere",
+		"etymology": {
+			"components": [
+				"con- (together)",
+				"struere (to build)"
+			],
+			"original_statement": "From Latin construere 'make / construct', via Late Latin meaning 'to interpret / explain the construction of (a sentence)'."
+		},
+		"concept": "To build together / interpret (共に組み立てる（解釈する）。バラバラに放たれて意味不明な『言葉の破片（カオスのノイズ）』に対し、自らの理知と経験のアーカイブから文脈の糸を引き出し、一分一秒の淀みもなく『こういう意味だ』という確定した城（ドットへのマージ）を脳内に屹立させること)",
+		"thinking": "「（ただ聞こえた音や文字の断片を）、自分の頭の中で一つに合わせて（Con-）」「（一撃の明快さをもって）論理の建物を組み上げ（意味を理解する）（-strue / Struere）」。それは単なる「推理」ではありません。あなたが「意味の崩壊（アブセンス）」を拒絶し、他者の放ったパルスを、自らの内なる宇宙（ステーション）の法則のもとで「再建築」する、知の「翻訳」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "構築と流転の軌跡。",
+		"example": "To run is to embrace the endless flow of existence.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"展開のベクトル。"
+			]
+		}
+	},
+	{
+		"id": "reconstruct",
+		"word": "再建する、復元する",
+		"meaning": "再建する",
+		"era": "Latin re + con + struere",
+		"etymology": {
+			"components": [
+				"re- (again)",
+				"construct (build together)"
+			],
+			"original_statement": "Coined from re- 'again' + construct."
+		},
+		"concept": "To build together again (再び共に建てる。炎と絶望の嵐（エントロピー）によって完全に塵と化し、吹き飛ばされた『かつての栄光（アーカイブ）』に対し、自らの血を吐きながらも記憶の破片（ドット）を拾い集め、もう一度その姿を同じ空に立ち昇らせる（屹立させる）不屈の蘇生術)",
+		"thinking": "「（すべてが灰燼に帰した絶望の果てに）、もう一度、再び（Re-）」「（一撃の情熱をもって、すべての破片を共に）積み上げ、形を取り戻す（-construct / Struere）」。それは単なる「修理」ではありません。あなたが「死による完全な敗北（アブセンス）」を全身霊でレジストし、そこにある種の「奇跡のループ」をこの宇宙に叩きつける、魂の「第二の創世」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "構築と流転の軌跡。",
+		"example": "To run is to embrace the endless flow of existence.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"展開のベクトル。"
+			]
+		}
+	},
+	{
+		"id": "indestructible",
+		"word": "破壊できない、不滅の",
+		"meaning": "破壊できない",
+		"era": "Latin in + de + struere",
+		"etymology": {
+			"components": [
+				"in- (not)",
+				"destruct (pull down)",
+				"-ible (capable of)"
+			],
+			"original_statement": "Coined in late 16th c. from in- 'not' + destruct + -ible."
+		},
+		"concept": "Not capable of being pulled down (破壊することができない。宇宙の雷鳴や時の風化（究極のカオス）などといった『ちっぽけな暴力』では傷一つ付けることができず、神の作った理知（ステーション）の殻の奥底に、半永久的に己の光（ウェイト）を留め続ける絶対剛体)",
+		"thinking": "「（それが下へと引き剥がされ）、破壊されるということが（In- ... -ible）」「（一分一秒の隙を突かれても）絶対に不可能であるような完全な構築（-destruct- / Struere）」。それは単なる「頑丈」ではありません。あなたが「すべては消え去るという虚無の法則」を完全に粉砕（レジスト）し、自らの定めた『存在の座標（ドット）』が未来永劫そこから消えないと宣告する、命の「不滅宣言」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "構築と流転の軌跡。",
+		"example": "To run is to embrace the endless flow of existence.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"展開のベクトル。"
+			]
+		}
+	},
+	{
+		"id": "instructive",
+		"word": "ためになる、教育的な、教訓的な",
+		"meaning": "ためになる",
+		"era": "Latin in + struere",
+		"etymology": {
+			"components": [
+				"instruct (build into)",
+				"-ive (pertaining to)"
+			],
+			"original_statement": "Coined in 15th c. from Late Latin instructivus, from instructus (past participle of instruere)."
+		},
+		"concept": "Pertaining to building into (中に築き上げる性質（ためになる）。あなたの未熟な心（空っぽのアーカイブ）の中へと滑り込み、ただの情報を超えた『実体のある真理（光のパルス）』を一つ一つ強固に組み上げて、あなたの人生の解像度（武器の鋭さ）を一気に跳ね上げてくれる体験の質量)",
+		"thinking": "「（ただの時間の無駄ではなく）、その人の脳内や魂の中へと（In-）」「（一撃の理知をもって新しい法則を）築き上げ、与えてくれる性質（-structive / Struere）」。それは単なる「便利」ではありません。あなたが「無知なままのカオス」という闇を切り裂き、そこに「あなた自身のアップグレード（コンバート）」という強烈な恩恵を注入する、知識の「起爆剤」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "構築と流転の軌跡。",
+		"example": "To run is to embrace the endless flow of existence.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"展開のベクトル。"
+			]
+		}
+	},
+	{
+		"id": "obstructive",
+		"word": "妨害する、邪魔な",
+		"meaning": "妨害する",
+		"era": "Latin ob + struere",
+		"etymology": {
+			"components": [
+				"obstruct (build against)",
+				"-ive (pertaining to)"
+			],
+			"original_statement": "Coined in 16th c. from Late Latin obstructivus, from obstructus (past participle of obstruere)."
+		},
+		"concept": "Pertaining to building against (向かって建てる性質（妨害する）。あなたの放つ希望の光（ベクトル）の真正面に、ただ純粋な悪意かあるいは鈍重なシステムとして『一ミリも動かない鉛の壁（ステイシス）』のように立ちはだかり、前進のエネルギーをすべて吸い取って物理的に停止させる呪い)",
+		"thinking": "「（こちらの進行ルートの真正面へと向かって）（Ob-）」「（一分一秒の淀みもなく障害物を）築き上げ、道を塞ぐような性質（-structive / Struere）」。それは単なる「面倒くさい」ことではありません。あなたが「スムーズな展開（全体のマージ）」を求めているにもかかわらず、そこにある種の「絶対的な隔離（アイソレーションへの幽閉）」を強制してくる、冷酷なる「壁の圧迫」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "構築と流転の軌跡。",
+		"example": "To run is to embrace the endless flow of existence.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"展開のベクトル。"
+			]
+		}
+	},
+	{
+		"id": "recur",
+		"word": "再発する、繰り返す、戻る",
+		"meaning": "再発する",
+		"era": "Latin re + currere",
+		"etymology": {
+			"components": [
+				"re- (again/back)",
+				"currere (to run)"
+			],
+			"original_statement": "From Latin recurrere 'run back / return / come back', from re- 'back/again' + currere 'to run'."
+		},
+		"concept": "To run again/back (再び走る、戻る（再発する）。一度は退治して闇の奥底（アーカイブの底）へ沈めたはずの『過去の亡霊や病（カオス）』が、不滅のエントロピーの掟に従って、時間を超えて再びあなたの元へと一撃の足音を鳴らして這い戻ってくる（リピートする）呪い)",
+		"thinking": "「（すでに終わって消え去ったはずのものが）、時間を超えて再び、戻って（Re-）」「（一分一秒の淀みもなく）自分のところへ走り込んでくる（-cur / Currere）」。それは単なる「繰り返し」ではありません。あなたが「完全な勝利（絶対のステイシス）」を手にしたという錯覚をレジストし、そこにある種の「因果のループ（逃れられないフロー）」が存在することを証明する、運命の「追撃」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "構築と流転の軌跡。",
+		"example": "To run is to embrace the endless flow of existence.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"展開のベクトル。"
+			]
+		}
+	},
+	{
+		"id": "incur",
+		"word": "(負債・危険などを)招く、負う",
+		"meaning": "招く",
+		"era": "Latin in + currere",
+		"etymology": {
+			"components": [
+				"in- (into/upon)",
+				"currere (to run)"
+			],
+			"original_statement": "From Latin incurrere 'run into or against / rush at / make an attack', from in- 'into/upon' + currere 'to run'."
+		},
+		"concept": "To run into (中に走り込む（招く、負う）。自らの無知や傲慢という名の『狂ったハンドルさばき（ロゴスの欠如）』によって、破滅の罠（借金や怒りのカオス）のど真ん中へと、ブレーキを踏む間もなく一撃のフルアクセルで突っ込み、その全質量（ペナルティのウェイト）をモロに顔面で受け止めること)",
+		"thinking": "「（避けるべきだったにもかかわらず）、自らその厄介な状況の中へと（In-）」「（一分一秒の淀みもなく）全速力で走り込んでしまう、突っ込む（-cur / Currere）」。それは単なる「ミス」ではありません。あなたが「安全圏という名のアイソレーション」を自ら破壊し、法と力（宇宙の反作用）によって裁きの炎をその身に『受肉』させてしまう、自滅の「突撃」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "構築と流転の軌跡。",
+		"example": "To run is to embrace the endless flow of existence.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"展開のベクトル。"
+			]
+		}
+	},
+	{
+		"id": "cursive",
+		"word": "筆記体(の)、続け字(の)",
+		"meaning": "筆記体",
+		"era": "Latin currere",
+		"etymology": {
+			"components": [
+				"currere (to run)",
+				"-ive (pertaining to)"
+			],
+			"original_statement": "From Medieval Latin cursivus 'running', from Latin cursus, past participle of currere 'to run'."
+		},
+		"concept": "Running (走るような字（筆記体）。一つ一つ独立した『冷たく四角い活字（孤立したドット）』の静止（ステイシス）を拒み、魂と手の震え（ブレス）がその間を縫うように途切れることなく連なり（マージし）、紙の上を超高速の川（フロー）のように流れる生きた文字の奔流)",
+		"thinking": "「（文字と文字の間で一つずつペンを止めることなく）、一筆書きのように言葉が走って（Curs- / Currere）」「（一分一秒の淀みもなく）つながっていく性質（-ive）」。それは単なる「読みにくい字」ではありません。あなたが「機械的な分断（ノイズ）」を粉砕し、書き手の思考（ロゴス）が途切れることなく一つに流転していることを証明する、文字の「大動脈」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "構築と流転の軌跡。",
+		"example": "To run is to embrace the endless flow of existence.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"展開のベクトル。"
+			]
+		}
+	},
+	{
+		"id": "precursor",
+		"word": "先駆者、前兆、前触れ",
+		"meaning": "先駆者",
+		"era": "Latin prae + currere",
+		"etymology": {
+			"components": [
+				"prae- (before)",
+				"currere (to run)"
+			],
+			"original_statement": "From Latin praecursor 'forerunner', from praecursus, past participle of praecurrere 'to run before', from prae- 'before' + currere 'to run'."
+		},
+		"concept": "Forerunner (前に走る者（先駆者）。誰も足を踏み入れたことのない残酷な『絶対零度の荒野（未開のカオス）』に対し、後続の者たちが安全に進めるように、自らの肉体を切り裂かれながらも世界で一番最初に『光の軌道（ロゴス）』を強引に走り抜けた、歴史上の狂気と栄光の特攻者)",
+		"thinking": "「（他の誰もが一歩も動けないような怯えの中で）、誰よりも先に時間を越えて前方へと（Pre- / Prae-）」「（一撃の情熱をもって）走り抜け、道を切り開いた者（-cursor / Currere）」。それは単なる「昔の人」ではありません。あなたが宇宙の「無変化（エントロピーへの降伏）」を全身霊で拒絶（レジスト）し、そこに人間の新しい進化（ステーション）の旗を誰より早く打ち立てた、文明の「第一投槍」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "構築と流転の軌跡。",
+		"example": "To run is to embrace the endless flow of existence.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"展開のベクトル。"
+			]
+		}
 	}
 ];
