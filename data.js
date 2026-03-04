@@ -172407,5 +172407,77 @@ const WORDS = [
 				"発露のベクトル。"
 			]
 		}
+	},
+	{
+		"id": "ignorant",
+		"word": "無知な、知らない",
+		"meaning": "無知な",
+		"era": "Latin in + gno- / noscere",
+		"etymology": {
+			"components": [
+				"in- (not)",
+				"gnorare / noscere (to know)"
+			],
+			"original_statement": "From Latin ignorantem 'not knowing', from ignorare 'not to know / be unacquainted', from in- 'not' + old Latin gnarus 'knowing'."
+		},
+		"concept": "Not knowing (知らない（無知な）。足元に何百という地雷（致命的なノイズや破滅の運命線）が埋まり、空からは『巨大な槍（悲劇のパルス）』が降り注いでいるという世界の「本当の殺意」を知る由もなく、自らの閉じた小さな箱庭（無防備なステイシス）の中でただ一人、一分一秒の淀みもなく脳天気に「私は安全だ」とヘラヘラ笑いながら次の瞬間に消え去る、絶望的に滑稽な魂の盲目状態)",
+		"thinking": "「（知っておくべき真理や、そこに迫っている危険を）、全く、一切（In- / Ig-）」「（一切れの知識も持たず）知ることなく、暗闇の中で生きてしまっている致命的な欠落状態（-norant / Gnorare / Noscere）」。それは単なる「おバカさん」ではありません。あなたが「世界に張り巡らされた複雑なルールと法則（ネットワーク化されたロゴス）」の読み取りを放棄（レジストの完全な失敗）し、そこに『自らの命をいつ奪われても文句は言えないまな板の上の鯉（エントロピーのエサ）』へと、自らを喜んでランクダウンさせる、知の「完全敗北」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "認識、境界、耐え忍ぶ情熱。",
+		"example": "Know the limits, endure the pain, and stand firm in truth.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"発露のベクトル。"
+			]
+		}
+	},
+	{
+		"id": "fine",
+		"word": "素晴らしい、細かい、罰金",
+		"meaning": "素晴らしい",
+		"era": "Latin finire / finis",
+		"etymology": {
+			"components": [
+				"finis (end/extreme limit)"
+			],
+			"original_statement": "From Old French fin 'perfected / of highest quality', from Latin finis 'end/limit/boundary'. The sense 'penalty' comes from 'an end to a dispute by payment'."
+		},
+		"concept": "Brought to a finish/perfection (極限まで仕上げられた（素晴らしい、細かい）。大雑把なヤスリ（粗悪なノイズ）の世界を完全に抜け出し、職人が一切の妥協（マージン）を許さず、ミクロンの限界点（ドットの限界解像度）まで魂を削り続けて一分一秒の淀みもなく『到達可能な最も美しい完全無欠の極北（究極のステーション）』にまで磨き上げられたこと)",
+		"thinking": "「（これ以上手を掛ける余地が全くなくなるまで）、最後の限界点の極みまで（Fin- / Finis）」「（一撃の狂気をもって）仕上げられ、研ぎ澄まされて細かくなり、完璧な美へと至った（-e）」。それは単なる「良い天気」ではありません。あなたが「凡庸さと妥協（ステイシスというぬるま湯）」をレジストし、そこに宇宙の限界値ギリギリまで『自らの腕力と神の理知の針を近づける（絶対的なロゴス化）』、美の「頂上決戦」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "認識、境界、耐え忍ぶ情熱。",
+		"example": "Know the limits, endure the pain, and stand firm in truth.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"発露のベクトル。"
+			]
+		}
+	},
+	{
+		"id": "definite",
+		"word": "明確な、確かな",
+		"meaning": "明確な",
+		"era": "Latin de + finire",
+		"etymology": {
+			"components": [
+				"de- (completely)",
+				"finire (to bound)",
+				"-ite (state of)"
+			],
+			"original_statement": "From Latin definitus 'defined / bounded / distinct', past participle of definire."
+		},
+		"concept": "State of being completely bounded (完全に限界が定められた（明確な）。一切の煙幕（カオスのマージン）もごまかしも存在させず、白日の下に引きずり出されて「これとこれ以外には絶対に何もない」と一分一秒の淀みもなく断じ切られた、最も純粋で最も冷酷な（しかし絶対の拠り所となる）『刃物のように研ぎ澄まされた輪郭線（強固なドットの輪郭）』)",
+		"thinking": "「（それが間違っているかもしれないという一切の言い訳を粉砕し）、完全に（De-）」「（一分一秒の淀みもなく）境界と限界が定められ、他の何物でもないと確定し切っている状態（-finit- / Finire / Finis + -e / -ite）」。それは単なる「はっきり」ではありません。あなたが「人間が常に抱く迷いと恐れ（ノイズへの恐怖のステイシス）」から魂を完全に解き放ち（レジストし）、そこに『宇宙にあるただ一つの絶対座標（不変のステーション）』を暴力的に打ち付ける、決断の「極北」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "認識、境界、耐え忍ぶ情熱。",
+		"example": "Know the limits, endure the pain, and stand firm in truth.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"発露のベクトル。"
+			]
+		}
 	}
 ];
