@@ -180808,5 +180808,352 @@ const WORDS = [
 			]
 		},
 		"part_of_speech": "noun"
+	},
+	{
+		"id": "cell",
+		"word": "Cell",
+		"meaning": "細胞、小部屋、電池",
+		"era": "12th Century Old French/Latin cella",
+		"etymology": {
+			"components": [
+				"cella (small room, store room)"
+			],
+			"original_statement": "From Latin cella (small room, store room, hut). Robert Hooke applied it in 1665 to biological cells because they resembled monks' quarters."
+		},
+		"concept": "A small enclosed room (小さく区切られた個室)",
+		"thinking": "コルクの顕微鏡写真を見たフックが、それが修道士たちの『小さな個室（cell）』に似ていることから名付けました。生命の最小単位は、小さな部屋だったのです。",
+		"aftertaste": "生命はこの小さな部屋から、無限の増築を繰り返す。",
+		"example": "Red blood cells carry oxygen throughout the body.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kel-",
+					"meaning": "to cover, conceal"
+				}
+			],
+			"points": [
+				"conceal（隠す）や hell（地獄：隠された場所）と同じルーツを持ちます。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "membrane",
+		"word": "Membrane",
+		"meaning": "細胞膜、薄膜",
+		"era": "15th Century Latin membrana",
+		"etymology": {
+			"components": [
+				"membrum (limb, member of the body)"
+			],
+			"original_statement": "From Latin membrana (skin, parchment, membrane covering parts of the body), from membrum (limb, part of the body)."
+		},
+		"concept": "Skin covering a member (器官を覆い包む薄い皮)",
+		"thinking": "内なる世界（細胞内）と外なる世界を隔てる『薄く柔軟な境界線』。すべてを遮断する壁ではなく、必要な物だけを通す（半透膜）という極めて知的な門番です。",
+		"aftertaste": "内と外を分かつ、柔らかで厳格な国境線。",
+		"example": "The cell membrane regulates what enters and exits the cell.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "mems-",
+					"meaning": "flesh, meat"
+				}
+			],
+			"points": [
+				"member（メンバー/手足）と同じ語源です。構成員という意味もここから。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "mitochondria",
+		"word": "Mitochondria",
+		"meaning": "ミトコンドリア(細胞のエネルギー工場)",
+		"era": "19th Century Greek mitos + chondrion",
+		"etymology": {
+			"components": [
+				"mitos (thread)",
+				"chondrion (little granule)"
+			],
+			"original_statement": "Coined in 1898 by Carl Benda from Greek mitos (thread) + chondrion (little granule), as they looked like threads and granules under a microscope."
+		},
+		"concept": "Thread-like granules (糸と粒)",
+		"thinking": "顕微鏡で見えたそのままの『糸（mito）と粒（chondria）』という名前。しかし彼らは元々別の細菌であり、大昔に私たちの細胞に侵入（共生）して、エネルギー工場として働くようになった異邦人です。",
+		"aftertaste": "細胞の奥に潜む、太古からの異星の住民。",
+		"example": "Mitochondria are often referred to as the powerhouses of the cell.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "mei-",
+					"meaning": "to tie, bind"
+				}
+			],
+			"points": [
+				"母親からのみ遺伝する『ミトコンドリア・イブ』というロマンチックな概念でも知られます。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "genome",
+		"word": "Genome",
+		"meaning": "ゲノム、全遺伝情報",
+		"era": "20th Century German Genom",
+		"etymology": {
+			"components": [
+				"gen (gene)",
+				"-ome (mass/chromosome)"
+			],
+			"original_statement": "Coined by Hans Winkler in 1920, portmanteau of gene and chromosome."
+		},
+		"concept": "The complete set of genes (遺伝子の総体)",
+		"thinking": "一つ一つの遺伝子（gene）の働きではなく、その生物が持つ遺伝情報の『すべて（-ome）』のセット。全図鑑。人間という存在をコードで書き表した絶対的な辞書。",
+		"aftertaste": "三十億文字で書かれた、あなたの取扱説明書。",
+		"example": "The Human Genome Project mapped all human genes.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "gene-",
+					"meaning": "give birth"
+				}
+			],
+			"points": [
+				"biome（バイオーム/生物群系）などの -ome と同じ『全体・総体』の意です。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "photosynthesis",
+		"word": "Photosynthesis",
+		"meaning": "光合成",
+		"era": "19th Century Greek photo- + synthesis",
+		"etymology": {
+			"components": [
+				"photo- (light)",
+				"syn- (together)",
+				"thesis (putting)"
+			],
+			"original_statement": "Coined from Greek phos (light) + synthesis (a putting together)."
+		},
+		"concept": "Putting together with light (光を使って合成すること)",
+		"thinking": "無機物である二酸化炭素と水から、太陽の「光」のエネルギーを使って、生命の源である「ブドウ糖（有機物）」を「組み立てる（synthesis）」地球最大の錬金術。",
+		"aftertaste": "葉は光を食べる沈黙の錬金術師。",
+		"example": "Plants absorb energy from the sun during photosynthesis.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "bha-",
+					"meaning": "to shine"
+				},
+				{
+					"term": "dhe-",
+					"meaning": "to put"
+				}
+			],
+			"points": [
+				"photo- は photograph（光の絵＝写真）などでお馴染みです。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "respiration",
+		"word": "Respiration",
+		"meaning": "呼吸、(細胞の)呼吸作用",
+		"era": "14th Century Latin respiratio",
+		"etymology": {
+			"components": [
+				"re- (again)",
+				"spirare (to breathe)"
+			],
+			"original_statement": "From Latin respirationem, from respirare (to breathe again, breathe in and out), from re- (again) + spirare (to breathe)."
+		},
+		"concept": "Breathing continuously (絶え間なく息をすること)",
+		"thinking": "空気を吸って吐く行為。しかし細胞レベルでの呼吸（Cellular respiration）は、有機物を燃やしてエネルギーを取り出すダイナミックな燃焼のことを指します。",
+		"aftertaste": "一息ごとに、細胞の中で小さな火が燃える。",
+		"example": "Cellular respiration produces ATP, the energy currency of cells.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "spirare",
+					"meaning": "to breathe"
+				}
+			],
+			"points": [
+				"spirit（魂＝息）や inspire（息を吹き込む）、expire（息を引き取る）の兄弟です。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "mutualism",
+		"word": "Mutualism",
+		"meaning": "相利共生",
+		"era": "19th Century French mutualisme",
+		"etymology": {
+			"components": [
+				"mutuus (reciprocal, done in exchange)"
+			],
+			"original_statement": "From French mutualisme, from Latin mutuus (reciprocal, borrowed), related to mutare (to change, exchange)."
+		},
+		"concept": "Reciprocal exchange of life benefits (生存の利益を相互に交換すること)",
+		"thinking": "ミツバチが花の蜜をもらう代わりに花粉を運ぶように、全く違う種族がお互いに『Win-Win』の関係を築く奇跡。自然界の美しいギブアンドテイク。",
+		"aftertaste": "花は蜜を準備し、蜂の羽ばたきを待つ。",
+		"example": "The relationship between bees and flowers is a classic example of mutualism.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "mei-",
+					"meaning": "to change, exchange"
+				}
+			],
+			"points": [
+				"migrate（移動する）や mutate（変化する）と同根の『交換・変化』がベースです。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "commensalism",
+		"word": "Commensalism",
+		"meaning": "片利共生(一方が利益を得て、片方は害も益も受けない関係)",
+		"era": "19th Century Latin",
+		"etymology": {
+			"components": [
+				"com- (together)",
+				"mensa (table)"
+			],
+			"original_statement": "From Medieval Latin commensalis (sharing a table), from com- (together) + mensa (table)."
+		},
+		"concept": "Eating at the same table (同じ食卓について食べる)",
+		"thinking": "一方は利益を得るが、もう一方は特に迷惑をしていない関係（サメのおこぼれをもらうコバンザメなど）。『同じテーブルについてご飯を食べる（けど別に相手の分は奪わない）』というおだやかな語源。",
+		"aftertaste": "同じテーブルで、静かにおこぼれを頂戴する。",
+		"example": "Barnacles riding on a whale's skin is a form of commensalism.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "mensa",
+					"meaning": "table"
+				}
+			],
+			"points": [
+				"『同じ釜の飯を食う』の西洋版です。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "host",
+		"word": "Host",
+		"meaning": "宿主、(パーティーなどの)主催者",
+		"era": "13th Century Old French/Latin hospes",
+		"etymology": {
+			"components": [
+				"hospes (guest, host, stranger)"
+			],
+			"original_statement": "From Old French oste (host, guest), from Latin hospes (guest, stranger, host), from PIE *ghos-ti- (stranger, guest, host)."
+		},
+		"concept": "One who receives strangers (よそ者を受け入れる者)",
+		"thinking": "パラサイト（寄生虫）やウイルスに「住み着かれる側」の生物を生物学ではホストと呼びます。語源は『見知らぬ客をもてなす主人』。ウイルスさえも客として受け入れざるを得ない体の悲劇。",
+		"aftertaste": "望まぬ客でさえ、体内（ホテル）に招き入れてしまう。",
+		"example": "A virus needs a host cell to replicate.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ghosti-",
+					"meaning": "stranger, guest, host"
+				}
+			],
+			"points": [
+				"guest（客）と host（主人）は実は全く同じ語源。ホスピタリティ（hospitality）もここからです。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "prey",
+		"word": "Prey",
+		"meaning": "獲物、犠牲者",
+		"era": "13th Century Old French/Latin praeda",
+		"etymology": {
+			"components": [
+				"praeda (booty, plunder)"
+			],
+			"original_statement": "From Old French preie (booty, animal taken in hunting), from Latin praeda (booty, plunder)."
+		},
+		"concept": "Booty or plunder (狩りや戦の戦利品)",
+		"thinking": "捕食者（predator）の対義語。残酷な自然界において、強者の胃袋に収まることを運命づけられた存在。人間社会でも、詐欺などの「食い物にされる犠牲者」として用いられます。",
+		"aftertaste": "牙を向けられた瞬間、すべての命は等しく戦利品となる。",
+		"example": "The eagle swooped down to catch its prey.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ghend-",
+					"meaning": "to seize"
+				}
+			],
+			"points": [
+				"pray（祈る）と発音は同じですが、全く関係ありません。祈っても彼らは逃げられないのです。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "extinction",
+		"word": "Extinction",
+		"meaning": "絶滅、消滅、(火や光の)消灯",
+		"era": "15th Century Latin extinctio",
+		"etymology": {
+			"components": [
+				"ex- (out)",
+				"stinguere (to prick, quench)"
+			],
+			"original_statement": "From Latin extinctionem (a quenching, putting out), from extinguere (put out, destroy), from ex- (out) + stinguere (to quench). "
+		},
+		"concept": "The extinguishing of a flame (火が完全に消し止められること)",
+		"thinking": "元々は「ろうそくなどの火を（水をかけて）ジュッと消す」という意味。ある生物種の最後の生き残りが死に絶え、地球の歴史上からその命の「火がプツンと消えて永遠の闇になる」こと。",
+		"aftertaste": "最後の一匹の火が消え、冷たい図鑑に記録される。",
+		"example": "Dinosaurs faced a mass extinction 65 million years ago.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "steig-",
+					"meaning": "to stick, prick"
+				}
+			],
+			"points": [
+				"火を消す extinguisher（消火器）と同じ言葉です。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "genus",
+		"word": "Genus",
+		"meaning": "属(ぞく)、部類",
+		"era": "16th Century Latin genus",
+		"etymology": {
+			"components": [
+				"genus (birth, descent, origin)"
+			],
+			"original_statement": "Directly from Latin genus (birth, descent, origin, kind, family)."
+		},
+		"concept": "Family or descent group (生まれ・血筋によるグループ)",
+		"thinking": "Species（種）の一つ上の分類。見た目の違い（外見）であるspeciesに対し、Genusは「同じ血筋・生まれ（birth）である親戚の集まり」という、より深いルーツに着目した言葉です。",
+		"aftertaste": "見た目が違えど、遠き祖先を同じくする兄弟。",
+		"example": "Humans belong to the genus Homo.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "gene-",
+					"meaning": "to give birth, beget"
+				}
+			],
+			"points": [
+				"general（一般的な：全体に共通する）や generate（発生する）などの、あらゆる誕生の源流です。"
+			]
+		},
+		"part_of_speech": "noun"
 	}
 ];
