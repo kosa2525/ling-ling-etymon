@@ -181562,5 +181562,173 @@ const WORDS = [
 			]
 		},
 		"part_of_speech": "noun"
+	},
+	{
+		"id": "muse",
+		"word": "Muse",
+		"meaning": "ミューズ(芸術の女神)、インスピレーションの源",
+		"era": "14th Century Old French/Latin/Greek Mousa",
+		"etymology": {
+			"components": [
+				"Mousa (Muse)"
+			],
+			"original_statement": "From Old French muse, from Latin musa, from Greek Mousa (the Muses, goddesses of inspiration, poetry, and art), possibly related to *men- (to think)."
+		},
+		"concept": "The goddess of inspiration (インスピレーションの女神)",
+		"thinking": "ギリシャ神話で、芸術家たちに突如として素晴らしいアイデアを吹き込む九柱の女神たち。転じて、芸術家が「創作活動の源・インスピレーションの対象とする実在の人物（しばしば恋人など）」を指します。",
+		"aftertaste": "彼女が微笑んだ時、キャンバスに色が落ちた。",
+		"example": "The young artist considered his wife to be his primary muse.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "men-",
+					"meaning": "to think"
+				}
+			],
+			"points": [
+				"museum（博物館：ミューズの神殿）や music（音楽：ミューズの芸術）の語源です。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "pigment",
+		"word": "Pigment",
+		"meaning": "顔料、色素",
+		"era": "14th Century Latin pigmentum",
+		"etymology": {
+			"components": [
+				"pingere (to paint)"
+			],
+			"original_statement": "From Latin pigmentum (color, paint, dye), from pingere (to paint, decorate), from PIE root *peig- (to cut, mark by incision)."
+		},
+		"concept": "Something used to paint (塗るために使われるもの)",
+		"thinking": "鉱物や植物から抽出された、世界に『色』を与えるための魔法の粉。細胞に含まれるメラニンなどの「色素」も指します。古代の絵画は「彫り込む・刻み込む（peig-）」行為と等しかったという古い印欧語の記憶を残しています。",
+		"aftertaste": "砕かれた鉱物が、壁の上に永遠の青を刻む。",
+		"example": "Many ancient pigments were derived from crushed rocks and minerals.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "peig-",
+					"meaning": "to mark by incision, paint"
+				}
+			],
+			"points": [
+				"paint（塗る）や picture（絵）と同じルーツから生まれた『顔料』です。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "fresco",
+		"word": "Fresco",
+		"meaning": "フレスコ画(漆喰が乾ききらないうちに描く壁画)",
+		"era": "16th Century Italian affresco",
+		"etymology": {
+			"components": [
+				"fresco (fresh)"
+			],
+			"original_statement": "From Italian (dipinto) a fresco (painted 'in the fresh'), referring to painting on wet, freshly laid plaster."
+		},
+		"concept": "Painted on the fresh plaster (新鮮な漆喰の上に描かれたもの)",
+		"thinking": "壁に塗られた漆喰（セメントのようなもの）が、まだ乾かずに「新鮮（fresh）」で濡れているうちに急いで色（pigment）を染み込ませて描く最高難度の技法。壁そのものが絵になるため、何百年も色が落ちません。",
+		"aftertaste": "壁が乾く前に、神々の命を染み込ませよ。",
+		"example": "Michelangelo's frescoes in the Sistine Chapel are world-renowned.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "fresco",
+					"meaning": "fresh"
+				}
+			],
+			"points": [
+				"まさに fresh（新鮮な）と同じゲルマン系の源流です。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "mosaic",
+		"word": "Mosaic",
+		"meaning": "モザイク(多数の小片を寄せ合わせて絵や模様としたもの)",
+		"era": "14th Century Old French/Medieval Latin musaicus",
+		"etymology": {
+			"components": [
+				"Mousa (Muse)"
+			],
+			"original_statement": "From Old French mosaïque, from Medieval Latin musaicus (work of the Muses), an alteration of Late Latin musivum (opus) (mosaic work), ultimately from Greek Mousa (Muse)."
+		},
+		"concept": "Work of the Muses (ミューズの芸術作品)",
+		"thinking": "小さなガラスや石の破片を無数に並べて作られた絵。驚くことに、語源は美術館（museum）や音楽（music）と同じく、芸術の女神「ミューズ（Mousa）」の御業（みわざ）という言葉です。",
+		"aftertaste": "砕かれた数万の石が、集まって女神の顔になる。",
+		"example": "The bathhouse was decorated with an intricate Roman mosaic.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "men-",
+					"meaning": "to think"
+				}
+			],
+			"points": [
+				"全く関係ない言葉に見えて、music と姉妹だというのが言語の面白さです。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "caricature",
+		"word": "Caricature",
+		"meaning": "風刺画、カリカチュア、デフォルメされた絵",
+		"era": "18th Century Italian caricatura",
+		"etymology": {
+			"components": [
+				"caricare (to load, exaggerate)"
+			],
+			"original_statement": "From Italian caricatura (a satirical picture, an overloading), from caricare (to load, exaggerate), from Late Latin carricare (to load a cart), from carrus (wagon, cart)."
+		},
+		"concept": "An overloaded picture (荷物が積みすぎられた絵＝誇張された絵)",
+		"thinking": "その人の特徴的なパーツ（大きな鼻やりんかく等）の情報を、馬車に荷物を積みすぎるように『これでもかと過剰に詰め込んで（caricare）誇張した』絵や文章。風刺やユーモアの強力な武器です。",
+		"aftertaste": "笑いという名の、過酷な荷物を背負わされた肖像。",
+		"example": "The newspaper published a cruel caricature of the prime minister.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kers-",
+					"meaning": "to run (car)"
+				}
+			],
+			"points": [
+				"charge（荷物/充電/突撃）や car（車/荷車）と同じく『重く積む』という意味です。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "chorus",
+		"word": "Chorus",
+		"meaning": "コーラス、合唱、(劇などの)コロス、サビ",
+		"era": "16th Century Latin/Greek khoros",
+		"etymology": {
+			"components": [
+				"khoros (dance, band of dancers and singers)"
+			],
+			"original_statement": "From Latin chorus, from Greek khoros (dance in a ring, band of dancers and singers), perhaps related to khoros (enclosed place)."
+		},
+		"concept": "A band of dancers and singers (踊り歌う人々の集団)",
+		"thinking": "元々古代ギリシャの演劇で、円になって踊りながら劇の背景や神の意志を『一斉に歌う集団』のことでした。そのため、みんなで一斉に歌う合唱や、ポップスの『みんなで歌い上げる一番盛り上がる箇所（サビ）』をコーラスと呼びます。",
+		"aftertaste": "一人の声が十人に、百人に。円陣になって歌う。",
+		"example": "Everybody joined in singing the chorus.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "gher-",
+					"meaning": "to enclose"
+				}
+			],
+			"points": [
+				"choreography（振り付け・ダンスの記譜）という言葉にもこの『踊りの円（khoros）』が含まれています。"
+			]
+		},
+		"part_of_speech": "noun"
 	}
 ];
