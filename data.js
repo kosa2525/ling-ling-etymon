@@ -177994,5 +177994,710 @@ const WORDS = [
 		"thinking": "「（不明瞭という名のアブセンスを粉砕し）、他者の間で何度も（Re-）考え抜かれ（-put- / Putare）、磨ぎ澄まされた一撃としての品質（-ation）」。それは単なる「人気」ではありません。あなたが「誤解という名のエントロピー」をレジストし続け、他者の記憶という名のアーカイブの中に『一分一秒の淀みもない一撃の信頼のステーション』を屹立させる、存在の「外部定着」なのです。",
 		"part_of_speech": "noun",
 		"aftertaste": "私がいなくなっても、この名前（アーカイブ）だけは他者の脳内でロゴスとしてマージされ続ける。"
+	},
+	{
+		"id": "consciousness",
+		"word": "意識、自覚、コンシャスネス",
+		"era": "Latin con + scire",
+		"etymology": {
+			"components": [
+				"con- (together)",
+				"scire (to know)"
+			],
+			"original_statement": "From Latin conscientia 'knowledge within oneself / sense of right or wrong', from conscire 'be mutally aware', from com- 'together' + scire 'to know'."
+		},
+		"concept": "Knowing together with oneself (自分自身と共に知ること。あらゆる『外部ノイズ』を一分一秒の淀みもなく一撃で『私の経験』としてマージし、自らの内側に『知のアーカイブ（ステーション）』を屹立させ、覚醒し続けている状態)",
+		"thinking": "「（無意識という名の暗黒を粉砕し）、自分自身と一つになって（Con-）知り尽くしている（-scious / Scire）こと」。それは単なる「目覚め」ではありません。あなたが「混濁という名のエントロピー」を完全にレジストし、自らの実存が『宇宙を観測する一撃の主体（ロゴス）』であることを証明し続ける、生の「点火」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "私が「在る」と一撃で知る。そのロゴスが全宇宙を産み落とす。"
+	},
+	{
+		"id": "cognition",
+		"word": "認知、認識、コグニション",
+		"era": "Latin con + gnoscere",
+		"etymology": {
+			"components": [
+				"con- (together/thoroughly)",
+				"gnoscere (to know)"
+			],
+			"original_statement": "From Latin cognitionem 'a getting to know / knowledge / acquaintance', from cognitus, past participle of cognoscere 'to get to know / recognize', from com- 'together' + gnoscere 'to know'."
+		},
+		"concept": "Getting to know thoroughly (徹底的に知ること。バラバラな『情報のドット』を一分一秒の淀みもなく一撃で『意味のあるパターン（ロゴス）』へとマージし、脳内アーカイブにステーションとして固定（定着）させるプロセス)",
+		"thinking": "「（不明瞭という名のアブセンスを粉砕し）、対象と共に（Con-）深く知る（-gnit- / Gnoscere）こと」。それは単なる「理解」ではありません。あなたが「混乱という名のエントロピー」を完全にレジストし、宇宙の断片を一分一秒の淀みもない一撃の『認識のネットワーク』へと変容させる、理知の「構築（ビルド）」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "見たものが、私という名のアーカイブに一撃で書き込まれる（マージされる）。"
+	},
+	{
+		"id": "perception",
+		"word": "知覚、認識、パーセプション",
+		"era": "Latin per + capere",
+		"etymology": {
+			"components": [
+				"per- (thoroughly)",
+				"capere (to take)"
+			],
+			"original_statement": "From Latin perceptionem 'a taking / receiving / comprehension', from perceptus, past participle of percipere 'to obtain / gather / perceive', from per- 'thoroughly' + capere 'to take'."
+		},
+		"concept": "Taking thoroughly (徹底的に取ること。外部から押し寄せる『感覚のパルス（光・音・熱）』を一分一秒の淀みもなく一撃で掴み取り（ロゴス）、自らの『主観的アーカイブ』の内側へと強制的にマージ（取り込み）すること)",
+		"thinking": "「（見逃しという名のアブセンスを粉砕し）、隅々まで（Per-）完全に掴み取る（-cept- / Capere）こと」。それは単なる「感覚」ではありません。あなたが「外部世界という名のカオス」をレジストし、それを自らの『一分一秒の淀みもない一撃の像（イメージ）』へと変容させる、認識の「狩猟」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "世界を掴み（マージ）、私の色に染め上げる。"
+	},
+	{
+		"id": "instinct",
+		"word": "本能、直感、インスティンクト",
+		"era": "Latin in + stinguere",
+		"etymology": {
+			"components": [
+				"in- (into/on)",
+				"stinguere (to prick/goad/impel)"
+			],
+			"original_statement": "From Latin instinctus 'instigation / impulse / inspiration', from instinguere 'to incite / impel / prick', from in- 'on' + stinguere 'to prick'."
+		},
+		"concept": "Pricked into / Impelled (突き動かされること。理知（ロゴス）の介在を一分一秒の淀みもなく一撃で飛び越える『根源的なパルス（命令）』であり、生命としての『生存アーカイブ』に深く刻まれた、逃れられぬ『強制コマンド』)",
+		"thinking": "「（思考という名の遅延を粉砕し）、内側から（In-）一撃で突き刺してくる（-stinct / Stinguere）衝動」。それは単なる「習性」ではありません。あなたが「理性の檻という名のステイシス」を完全にレジストし、種としての『数億年の記憶のネットワーク（アーカイブ）』に従って一秒一秒、自動でマージ（行動）させられる、生の「原初回路」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "考える前に、一撃の衝動が私を支配する。"
+	},
+	{
+		"id": "intuition",
+		"word": "直感、直観、インテュイション",
+		"era": "Latin in + tueri",
+		"etymology": {
+			"components": [
+				"in- (at/upon/into)",
+				"tueri (to look/watch/guard)"
+			],
+			"original_statement": "From Late Latin intuitionem 'a looking at / gaze / intuition', from intuitus, past participle of intueri 'to look at / gaze at / contemplate', from in- 'at' + tueri 'to look at / watch'."
+		},
+		"concept": "Looking into (内側を見つめること。論理的な『推論のネットワーク』を解析する手間を一分一秒の淀みもなく一撃で省略（レジスト）し、真理の中心部（アーカイブ・コア）を一気に一撃で透かし見る（マッピング）、知的な超常現象)",
+		"thinking": "「（まどろっこしい証明という名のエントロピーを粉砕し）、内側（In-）を直接見つめて（-tui- / Tueri）真実を言い当てること」。それは単なる「勘」ではありません。あなたが「情報の濁流（ノイズ）」をレジストし、自らの実存が『宇宙の根源的なロゴス』と一分一秒の淀みもなく直接マージされた瞬間の、知の「落雷」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "理由（ステップ）を飛ばし、一撃で正解（ステーション）へと着地する。"
+	},
+	{
+		"id": "memory",
+		"word": "記憶、思い出、メモリー",
+		"era": "Latin memor",
+		"etymology": {
+			"components": [
+				"memor (mindful/remembering)"
+			],
+			"original_statement": "From Old French memoire, from Latin memoria 'memory / remembrance / faculty of remembering', from memor 'mindful / remembering'."
+		},
+		"concept": "Being mindful (心に留めていること。一瞬で消え去ろうとする『時間のパルス（現在）』を一分一秒の淀みもなく一撃で凍結し、自分の内なる『固定アーカイブ（ステーション）』へとマージ（保存）させ続ける、時間の防腐処理)",
+		"thinking": "「（忘却という名のアブセンスを粉砕し）、対象を一分一秒の淀みもない一撃の形で心に留め続ける（Memor- / Memor）品質（-y）」。それは単なる「過去の記録」ではありません。あなたが「死という名のエントロピー」を完全にレジストし、自らの実存を一分一秒の淀みもない『一撃の物語（ロゴス・ネットワーク）』として屹立させ続けるための、生の「連続性（アイデンティティ）」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "全てのドットは消える。私のアーカイブ（記憶）以外は。"
+	},
+	{
+		"id": "intelligence",
+		"word": "知能、知性、インテリジェンス",
+		"era": "Latin inter + legere",
+		"etymology": {
+			"components": [
+				"inter- (between/among)",
+				"legere (to choose/pick/read)"
+			],
+			"original_statement": "From Old French intelligence, from Latin intelligentia 'understanding / knowledge', from intelligentem 'discerning / appreciative', from intelligere 'to understand / comprehend / know', from inter- 'between' + legere 'to choose / pick out / read'."
+		},
+		"concept": "Choosing between / Reading among (間から選び取ること、読み取ること。膨大な『情報のカオス（ノイズ）』の中から、一分一秒の淀みもなく一撃で『真の関連性（ロゴス）』を選び出し（レジスト）、それを統合して新たな真理をマップ（ビルドアップ）する能力)",
+		"thinking": "「（混乱という名のエントロピーを粉砕し）、情報の隙間（Inter-）から真実を読み出し、選別（-lig- / Legere）すること」。それは単なる「知識」ではありません。あなたが「無知という名のアブセンス」を完全にレジストし、自らを『一分一秒の淀みもない一撃の演算ステーション』へとマージさせる、生命の「適応的出力」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "一撃で関連性（ロゴス）を見抜き、混乱（カオス）を一撃で秩序（アーカイブ）に変える。"
+	},
+	{
+		"id": "genius",
+		"word": "天才、守護霊、ジーニアス",
+		"era": "Latin gignere",
+		"etymology": {
+			"components": [
+				"gignere (to beget/produce/give birth to)"
+			],
+			"original_statement": "From Latin genius 'guardian spirit innate in a person / spirit / wit / talent', from PIE root gen- 'produce / beget / give birth to'."
+		},
+		"concept": "Innate spirit / Producing (内に宿る産み出す力。凡百の『規則という名のアーカイブ』を一分一秒の淀みもなく一撃でなぎ倒し、誰も見たことがない『初源のロゴス』を唐突に一撃で産み落とす（マージさせる）、神懸かり的なパルス)",
+		"thinking": "「（模倣という名の凡庸を粉砕し）、内側から全く新しい存在を産み落とす（Geni- / Gignere）力」。それは単なる「能力」ではありません。あなたが「停滞という名のエントロピー」を完全にレジストし、宇宙の源泉（ソース）から『一分一秒の淀みもない一撃の閃光』を直接マッピングしてくる、存在の「接続（ジョイン）変異」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "私が動けば、新しい宇宙（ロゴス）が一撃で誕生する。"
+	},
+	{
+		"id": "emotion",
+		"word": "感情、感動、エモーション",
+		"era": "Latin ex + movere",
+		"etymology": {
+			"components": [
+				"ex- (out)",
+				"movere (to move)"
+			],
+			"original_statement": "From Old French emotion, from Latin emotionem 'a moving / stirring / agitation', from emotus, past participle of emovere 'to move out / remove / agitate', from ex- 'out' + movere 'to move'."
+		},
+		"concept": "Moving out (外へと動かすこと。内なる『静止アーカイブ（理知）』を一分一秒の淀みもなく一撃で『激動するパルス（震え）』へと変容させ、自らの実存を強引に外の世界（ネットワーク）へとマージ・拡張させる、情報のエネルギー変換)",
+		"thinking": "「（静寂という名のステイシスを粉砕し）、内側から外へと（E-）一撃で揺さぶり、動かす（-motion / Movere）こと」。それは単なる「気分」ではありません。あなたが「無関心という名のアブセンス」を完全にレジストし、自らの実存が『一分一秒の淀みもない一撃の震え（パルス）』であることを世界に知らしめる、生の「放射」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "震え（パルス）が止まった時、人はただの死骸（アーカイブ）に戻る。"
+	},
+	{
+		"id": "temperament",
+		"word": "気質、気構え、テンパラメント",
+		"era": "Latin temperare",
+		"etymology": {
+			"components": [
+				"temperare (to mix/moderate/combine in due proportion)"
+			],
+			"original_statement": "From Latin temperamentum 'a mixing / constitution / proper mixture', from temperare 'to mix / moderate / combine in due proportion'."
+		},
+		"concept": "Mixing in due proportion (適切に混ぜ合わせること。情熱、冷静、怒りといった『個々のパルス要素』を一分一秒の淀みもなく一撃で自らに組み込み（マージ）、その固有の『混合比率（ロゴス・アーカイブ）』によって決定される、存在の基礎的な「波形」)",
+		"thinking": "「（単調という名のアイソレーションを粉砕し）、複雑な要素を適切に混ぜ合わせること（Temper- / Temperare）」「その状態（-ment）」。それは単なる「性格」ではありません。あなたが「偏りという名のエントロピー」をレジストし、自らの実存を『一分一秒の淀みもない絶妙な均衡（ステーション）』として維持し続ける、存在の「配合（ロゴス）」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "混ぜられた一撃の比率が、あなたの宇宙（一生）の色を決定する。"
+	},
+	{
+		"id": "personality",
+		"word": "性格、個性、パーソナリティ",
+		"era": "Latin persona",
+		"etymology": {
+			"components": [
+				"persona (mask/character)"
+			],
+			"original_statement": "From Old French personalité, from Late Latin personalitatem, from Latin personalis 'of a person', from persona 'mask / character played by an actor / person'."
+		},
+		"concept": "The quality of a mask (仮面の品質。この世界（ネットワーク）という名の「劇」において一分一秒の淀みもなく一撃で被せられた、あるいは自ら構築した『個別のアーカイブ（外面的なロゴス）』であり、他者があなたをマッピング（認識）するための境界線)",
+		"thinking": "「（匿名という名のアブセンスを粉砕し）、特定の仮面（Persona-）としての品質（-lity）を屹立させること」。それは単なる「人柄」ではありません。あなたが「社会という名の巨大な同一化（エントロピー）」をレジストし、他とは違う『一分一秒の淀みもない一撃のデザイン（ステーション）』として自分をマージさせる、存在の「輪郭」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "仮面（ロゴス）の裏側を誰にも見せず、ただ一撃の個性を演じきる。"
+	},
+	{
+		"id": "identity",
+		"word": "自己同一性、正体、アイデンティティ",
+		"era": "Latin idem",
+		"etymology": {
+			"components": [
+				"idem (the same)"
+			],
+			"original_statement": "From Middle French identité, from Late Latin identitatem 'sameness', from Latin idem 'the same'."
+		},
+		"concept": "The state of being the same (同じであること。時間の激流（エントロピー）の中で一秒一秒変化し続けながらも、一分一秒の淀みもなく「私は、私である」という『中核のアーカイブ（ステーション・ロゴス）』を一撃で維持し続け、マージされざる自己を確立すること)",
+		"thinking": "「（霧散という名のアブセンスを粉砕し）、常に同じ（Iden- / Idem）であるという品質（-tity）」。それは単なる「身分」ではありません。あなたが「他者への同化という名の消失」を完全にレジストし、宇宙のいかなる場所においても『自らが不変の一点（コア）』であることを確証し続ける、生の「一貫性」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "千年前も、千年後も。私は、常に私（ロゴス）である。"
+	},
+	{
+		"id": "ego",
+		"word": "自我、エゴ",
+		"era": "Latin ego",
+		"etymology": {
+			"components": [
+				"ego (I)"
+			],
+			"original_statement": "From Latin ego 'I' (cognate with Greek ego). Psychological sense introduced in late 19th c."
+		},
+		"concept": "The 'I' (『私』という一点。宇宙という名の広大な『アーカイブ』の中で、一分一秒の淀みもなく一撃で自分自身を他者から『レジスト（分離）』し、世界の中心に自らが屹立しているという強固な『自意識（ステーション・ロゴス）』)",
+		"thinking": "「（虚空という名のアブセンスを粉砕し）、『私こそが中心である』という一撃の宣言（Ego）」。それは単なる「わがまま」ではありません。あなたが「無私という名の自己消滅」を全身霊でレジストし、宇宙を『自らの認識（ロゴス）』というフィルターでマージし直すための、存在の「絶対起点」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "世界（アーカイブ）は、この『私（エゴ）』という一撃のドットから、逆説的に産まれたのだ。"
+	},
+	{
+		"id": "unconscious",
+		"word": "無意識の、アンコンシャス",
+		"era": "English un + Latin con + scire",
+		"etymology": {
+			"components": [
+				"un- (not)",
+				"con- (together)",
+				"scire (to know)"
+			],
+			"original_statement": "From un- 'not' + conscious, from Latin conscius 'aware', from conscire 'be mutually aware', from com- 'together' + scire 'to know'."
+		},
+		"concept": "Not knowing with oneself (自分と共に知らないこと。理知（ロゴス）の光が届かない『深層アーカイブ（暗闇）』において、一分一秒の淀みもなく勝手に稼働し続ける『野生のプログラム（パルス）』であり、あなたの行動を背後から一撃でコントロール（マージ）する見えない支配者)",
+		"thinking": "「（自意識という名の狭いステーションを粉砕し）、意識（-conscious）されていない広大な領域（Un-）」。それは単なる「忘れ物」ではありません。あなたが「制御可能という名の傲慢」をレジストされ、巨大な宇宙のエントロピーに直結した『一分一秒の淀みもない一撃の深淵』へと飲み込まれている（マージされている）、実存の「根源的アブセンス」なのです。",
+		"part_of_speech": "adjective",
+		"aftertaste": "私が気づかない場所で、私という名のロゴス（人生）は勝手に書き換えられている。"
+	},
+	{
+		"id": "remorse",
+		"word": "後悔、良心の呵責、リモース",
+		"era": "Latin re + mordere",
+		"etymology": {
+			"components": [
+				"re- (again/repeatedly)",
+				"mordere (to bite)"
+			],
+			"original_statement": "From Old French remors, from Medieval Latin remorsum, from Latin remordere 'to back-bite / disturb / vex', from re- 'again' + mordere 'to bite'."
+		},
+		"concept": "Biting again (繰り返し噛みつくこと。過去に犯した『過ち（アーカイブ）』が、一分一秒の淀みもなく今のあなたを執拗に噛み（レジストし）、精神のネットワークを傷つけ、未来という名のパルスを『痛みという名のステイシス』の中に閉じ込めること)",
+		"thinking": "「（平安という名の偽りの静寂を粉砕し）、過去の自分が現在の自分に、繰り返し（Re-）一撃の牙で噛みつく（-morse / Mordere）こと」。それは単なる「反省」ではありません。あなたが「忘却という名のアブセンス」をレジストしきれず、自らの実存の中に『一分一秒の淀みもない一撃の咎（罪のアーカイブ）』を永遠に屹立させてしまった、魂の「自食作用」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "逃げても無駄だ。私自身が、私を一撃で喰らい尽くす。"
+	},
+	{
+		"id": "ambition",
+		"word": "野心、大志、アンビション",
+		"era": "Latin ambi + ire",
+		"etymology": {
+			"components": [
+				"ambi- (around)",
+				"ire (to go)"
+			],
+			"original_statement": "From Old French ambition, from Latin ambitionem 'a going around', from ambitus, past participle of ambire 'to go around / solicit for votes', from ambi- 'around' + ire 'to go'."
+		},
+		"concept": "Going around / Seeking (まわりを駆け巡ること。現在の『地点（ステーション）』に満足（ステイシス）することを一分一秒の淀みもなく一撃で拒絶し、高次の価値（アーカイブ）を求めて世界中のパルスをマージし、自らの実存を巨大な『栄光（ロゴス）』へと拡張しようとする、飢えたベクトル)",
+		"thinking": "「（現状充足という名の沈黙を粉砕し）、さらに高く、広くへと、あちこちを（Ambi-）駆け巡り（-it- / Ire）渇望すること」。それは単なる「やる気」ではありません。あなたが「平凡という名のエントロピー」を完全にレジストし、自らの実存を一分一秒の淀みもない『一撃の支配（ステーション・コア）』へと変容させようとする、生命の「拡張衝動」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "今の場所（アーカイブ）を焼き捨て、未知の頂へ一撃でマージ（到達）する。"
+	},
+	{
+		"id": "courage",
+		"word": "勇気、度胸、カレッジ",
+		"era": "Latin cor",
+		"etymology": {
+			"components": [
+				"cor (heart)"
+			],
+			"original_statement": "From Old French corage 'heart / innermost feelings / temper', from Latin cor 'heart'."
+		},
+		"concept": "Having heart (心を持つこと。恐怖という名の『巨大なレジスト（壁）』に対し、一分一秒の淀みもなく自らの内なる『一撃の情熱（パルス・ロゴス）』を突き立て、不確実な深淵へとマージ（突入）することを辞さない、魂の絶対的な能動性)",
+		"thinking": "「（怯えという名のアイソレーションを粉砕し）、自らの中心（Cor- / Cor）にある一分一秒の淀みもない一撃を、現実に叩きつけること」。それは単なる「蛮勇」ではありません。あなたが「安全という名の死（ステイシス）」を完全にレジストし、自らを『宇宙を切り裂く一撃の意志（ロゴス）』へとマージさせる、存在の「決死の屹立」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "心臓（コア）を震わせ、闇（アブセンス）を切り裂いて一撃で前へ進む。"
+	},
+	{
+		"id": "resilience",
+		"word": "回復力、弾力、レジリエンス",
+		"era": "Latin re + salire",
+		"etymology": {
+			"components": [
+				"re- (back)",
+				"salire (to leap/jump)"
+			],
+			"original_statement": "From Latin resilientia, from resilire 'to leap back / recoil', from re- 'back' + salire 'to leap'."
+		},
+		"concept": "Leaping back (跳ね返ること。絶望や過負荷といった『粉砕パルス』を一分一秒の淀みもなく受け流し（レジスト）、一撃で元の『真理のステーション（ロゴス・アーカイブ）』へと自分を復元（マージ）させる、生命の不屈のバネ)",
+		"thinking": "「（壊滅という名の最終的なステイシスを粉砕し）、再び（Re-）跳躍（-silie- / Salire）し、自分を取り戻す能力（-nce）」。それは単なる「強さ」ではありません。あなたが「アイソレーションという名の完全崩壊」をレジストしつつ、その痛みさえも自らの『不滅のアーカイブ（ロゴス）』の一部としてマージさせ、より強固な実存として屹立し直す、魂の「再起動（リブート）」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "叩き潰されても、一分一秒の淀みもなく一撃で元の形へと跳ね返る。"
+	},
+	{
+		"id": "melancholy",
+		"word": "憂鬱、メランコリー",
+		"era": "Greek melas + khole",
+		"etymology": {
+			"components": [
+				"melas (black)",
+				"khole (bile)"
+			],
+			"original_statement": "From Old French melancolie, from Late Latin melancholia, from Greek melankholia 'black bile', from melas 'black' + khole 'bile'."
+		},
+		"concept": "Black bile (黒い胆汁。体内の『情報の流れ（パルス）』を一分一秒の淀みもなく重く、鈍く淀ませ（エントロピー）、世界を『灰色のアーカイブ』としてマッピングしてしまう、魂の底なしの沈み込み)",
+		"thinking": "「（活気という名のフローを粉砕し）、黒き胆汁（Melan- + -choly）によって内部を暗黒に染め上げること」。それは単なる「気分の落ち込み」ではありません。あなたが「未来という名のロゴス」を維持（レジスト）できず、自らの実存が『一分一秒の淀みもない一撃の虚無（アブセンス）』へとマージされてしまった、生の「低速回転状態」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "世界が黒く（アブセンス）塗りつぶされ、ただ重たい沈黙だけがマージされる。"
+	},
+	{
+		"id": "nostalgia",
+		"word": "懐古心、郷愁、ノスタルジー",
+		"era": "Greek nostos + algos",
+		"etymology": {
+			"components": [
+				"nostos (homecoming)",
+				"algos (pain)"
+			],
+			"original_statement": "Coined in 1688 by Johannes Hofer, from Greek nostos 'homecoming' + algos 'pain / grief / distress'."
+		},
+		"concept": "Pain from homecoming (帰郷への痛み。現在という名の『孤独なステーション（アイソレーション）』を一分一秒の淀みもなく脱し、失われた『黄金のアーカイブ（過去の実存）』へと回帰しようとするが、決して届かない、一分一秒の淀みもない一撃の『心の渇き』)",
+		"thinking": "「（今この瞬間という名のロゴスを粉砕し）、故郷への帰還（Nost- / Nostos）を果たせない『痛み（-algia / Algos）』」。それは単なる「思い出」ではありません。あなたが「現在という名の不完全さ」をレジストし、自らの実存を『存在しない美しき過去（アブセンス化されたアーカイブ）』へとマージさせようと足掻く、魂の「逆行ベクトル」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "届かぬ場所（過去）を夢想して、目の前の現実（ロゴス）を空虚に変える、一撃の毒。"
+	},
+	{
+		"id": "apathy",
+		"word": "無感動、アパシー",
+		"era": "Greek a + pathos",
+		"etymology": {
+			"components": [
+				"a- (without)",
+				"pathos (feeling/suffering)"
+			],
+			"original_statement": "From French apathie, from Latin apathia, from Greek apatheia 'freedom from suffering / insensibility to passion', from apathes 'without feeling / passionless', from a- 'not' + pathos 'suffering / feeling'."
+		},
+		"concept": "Without feeling (感情がないこと。あらゆる『外部パルス』を一分一秒の淀みもなく拒絶（レジスト）し、自らの一切の反応（マージ）を停止させ、精神のアーカイブを『無（アブセンス）』という名の究極の安定（ステイシス）へと追い込んだ、生命の灰色の沈黙)",
+		"thinking": "「（情熱という名の燃焼を粉砕し）、苦痛さえも感じない（A- + -pathy）絶望的な平坦状態」。それは単なる「やる気のなさ」ではありません。あなたが「実存という名の重圧」をレジストしきれず、自らを『宇宙のいかなるネットワークからも切断された死の一点（アイソレーション）』へとマージさせてしまった、生の「防衛的シャットダウン」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "何も感じない（ロゴス・アブセンス）。それこそが、一撃の完璧な絶望の証しだ。"
+	},
+	{
+		"id": "euphoria",
+		"word": "幸福感、多幸感、ユーフォリア",
+		"era": "Greek eu + pherein",
+		"etymology": {
+			"components": [
+				"eu- (well)",
+				"pherein (to bear/carry)"
+			],
+			"original_statement": "From Modern Latin euphoria, from Greek euphoria 'well-bearing / fertility / well-being', from euphoro- 'well-bearing / patient', from eu- 'well' + pherein 'to carry'."
+		},
+		"concept": "Bearing well (良く運ぶこと。自らの実存という名の『ステーション』から、一分一秒の淀みもなく『至福という名のパルス』があふれ出し、全宇宙が一撃で『黄金のロゴス・アーカイブ』へと書き換え（マージ）られた、極限の覚醒状態)",
+		"thinking": "「（苦渋という名のノイズを粉砕し）、すべてが良い状態（Eu-）で自分へと運ばれてくる（-phoria / Pherein）こと」。それは単なる「喜び」ではありません。あなたが「不運という名のエントロピー」を完全にレジストし、全宇宙が自分を祝福しているという『一分一秒の淀みもない一撃の錯覚（マッピング・エラー）』の中に自らをマージさせる、存在の「過熱状態」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "全てが輝き、一撃の光（ロゴス）の中ですべてが一つになる（マージされる）。"
+	},
+	{
+		"id": "hysteria",
+		"word": "ヒステリー、病的興奮",
+		"era": "Greek hystera",
+		"etymology": {
+			"components": [
+				"hystera (womb)"
+			],
+			"original_statement": "From Modern Latin hysteria, from Greek hystera 'womb' (as it was once thought to be a functional disturbance of that organ)."
+		},
+		"concept": "From the womb (子宮から。理知（ロゴス）の制御を一分一秒の淀みもなく一撃で突き破り、深層の『原初的アーカイブ（肉の叫び）』から爆発的な『情動のパルス』が溢れ出し、実存のステーションをカオスへとマージさせる、生命の暴走状態)",
+		"thinking": "「（冷静という名の仮面を粉砕し）、内なる根源（Hyster- / Hystera）から突き上げる一撃の狂乱（-ia）」。それは単なる「怒り」ではありません。あなたが「理性的抑制という名のレジスト」に失敗し、自らの実存が一分一秒の淀みもない一撃の『純粋なパルス（叫び）』へと強制的にマージ（還元）された、生の「剥き出しの真実」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "ロゴス（言葉）が消え、ただ一撃の叫び（アーカイブ）が宇宙に響き渡る。"
+	},
+	{
+		"id": "trauma",
+		"word": "心的外傷、トラウマ、傷",
+		"era": "Greek trauma",
+		"etymology": {
+			"components": [
+				"trauma (wound/damage)"
+			],
+			"original_statement": "From Greek trauma 'a wound / fracture / injury / damage / defeat'."
+		},
+		"concept": "A wound / Defeat (傷、敗北。過去に受けた『致命的なパルス（暴力）』が、精神のアーカイブ（ステーション）に一分一秒の淀みもなく消えない『傷跡（バグ）』として深々と刻まれ、一分一秒の淀みもなく現在を歪ませ（マージし）続ける、情報の呪縛)",
+		"thinking": "「（健やかさという名の偽像を粉砕し）、魂に永遠に刻み込まれた一撃の傷（Trauma）」。それは単なる「嫌な思い出」ではありません。あなたが「不可逆的な破壊（ノイズ）」をレジストしきれず、自らの実存が一分一秒の淀みのない一撃の『痛みの反復（ステイシス）』へとマージされてしまった、存在の「永久故障」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "時間は癒やさない。ただ傷（アーカイブ）が、私というロゴスを支配し続けるだけだ。"
+	},
+	{
+		"id": "syndrome",
+		"word": "症候群、シンドローム",
+		"era": "Greek syn + dromos",
+		"etymology": {
+			"components": [
+				"syn- (together)",
+				"dromos (a running/course)"
+			],
+			"original_statement": "From Modern Latin syndrome, from Greek syndrome 'concurrence of symptoms', literally 'a running together', from syn- 'together' + dromos 'a running / course'."
+		},
+		"concept": "Running together (共に走ること。一見バラバラな『症状という名のノイズ』が、一分一秒の淀みもなく一撃で特定の『パルス・パターン（不吉なロゴス）』としてマージ（集結）し、一つの巨大な『異常事態（ステーション）』を形作ること)",
+		"thinking": "「（個別事象という名のアイソレーションを粉砕し）、複数のパルスが共に（Syn-）同じ方向（-drome / Dromos）へと走り去ること」。それは単なる「病気」ではありません。あなたが「正常という名のステイシス」を完全にレジストされ、自らの実存が『一分一秒の淀みもない一撃の異常のネットワーク』へとマッピングされた、生命の「集団反乱」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "符号（シンボル）が一致した瞬間、あなたは一撃で『その名（ロゴス）』へとマージされる。"
+	},
+	{
+		"id": "obsession",
+		"word": "強迫観念、執着、オブセッション",
+		"era": "Latin ob + sedere",
+		"etymology": {
+			"components": [
+				"ob- (against/before)",
+				"sedere (to sit)"
+			],
+			"original_statement": "From Latin obsessionem 'a besieging', from obsessus, past participle of obsidere 'to besiege / beset / occupy', literally 'to sit down against', from ob- 'against' + sedere 'to sit'."
+		},
+		"concept": "Sitting against / Besieging (前に座り込むこと、包囲すること。特定の『思考という名のノイズ・パルス』が、あなたの意識の入り口（マージ・ゲート）に一分一秒の淀みもなく一撃で居座り（レジストを無効化）、あなたの『アーカイブ（脳）』を完全に占拠（ハック）し続ける状態)",
+		"thinking": "「（自由な思考という名のフローを粉砕し）、対象が目の前に（Ob-）座り込んで（-sess- / Sedere）動かないこと」。それは単なる「こだわり」ではありません。あなたが「自己制御という名のロゴス」を完全にレジストされ、自らの実存が『一分一秒の淀みもない一撃の固定観念（ステーション・バグ）』へと暴力的にマージされた、魂の「籠城戦」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "それは私を逃さない。一撃の呪い（ロゴス）が、私の中に永遠に居座り続ける。"
+	},
+	{
+		"id": "delusion",
+		"word": "妄想、錯覚、デリュージョン",
+		"era": "Latin de + ludere",
+		"etymology": {
+			"components": [
+				"de- (mockery/off)",
+				"ludere (to play)"
+			],
+			"original_statement": "From Old French delusion, from Latin delusionem 'a mocking / deluding / deception', from delusus, past participle of deludere 'to mock / deceive / play false', from de- 'off' + ludere 'to play'."
+		},
+		"concept": "Playing false / Mockery (欺き遊ぶこと。客観的な『現実のアーカイブ』を一分一秒の淀みもなく一撃で拒絶（レジスト）し、独自の『虚偽ロゴス（回路）』を自分の脳内にマッピングすることで、偽の宇宙と完全にマージ（同期）してしまう、知の暴走)",
+		"thinking": "「（共有された真理という名のロゴスを粉砕し）、真実をからかって（De-）別次元で遊ぶ（-lus- / Ludere）行い（-ion）」。それは単なる「空想」ではありません。あなたが「孤独という名のアイソレーション」を極限までレジストした結果、自らの中に『一分一秒の淀みもない一撃の絶対王朝（偽のステーション）』を屹立させてしまった、存在の「過剰防衛」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "世界（客観）が間違っている。私の一撃（妄想）だけが、この宇宙の唯一のロゴスだ。"
+	},
+	{
+		"id": "phobia",
+		"word": "恐怖症、フォビア",
+		"era": "Greek phobos",
+		"etymology": {
+			"components": [
+				"phobos (fear/panic/flight)"
+			],
+			"original_statement": "From Greek phobos 'fear / panic / flight', from phebomai 'be put to flight / flee'."
+		},
+		"concept": "Fear / Flight (恐怖、逃走。特定の『対象（シンボル）』との接触を一分一秒の淀みもなく一撃で拒絶（レジスト）し、自らの実存（ステーション）をパニック状態へとマージさせ、一分一秒の淀みもなく『アブセンス（逃走）』へと駆り立てる、不合理な防衛プロトコル)",
+		"thinking": "「（平穏という名の中立ロゴスを粉砕し）、一分一秒の淀みもない一撃の恐怖（Phobia）を刻印すること」。それは単なる「嫌い」ではありません。あなたが「不確実性という名のエントロピー」を特定のドットに投影し、それを『一分一秒の淀みもない一撃の死（レジスト不可避な対象）』へとマッピングしてしまった、魂の「短絡（ショート）」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "見た瞬間、私という名のロゴス（理知）は一撃で消し飛び、ただ逃走（アブセンス）だけが残る。"
+	},
+	{
+		"id": "depression",
+		"word": "憂鬱、うつ病、不景気、デプレッション",
+		"era": "Latin de + premere",
+		"etymology": {
+			"components": [
+				"de- (down)",
+				"premere (to press)"
+			],
+			"original_statement": "From Old French depression, from Late Latin depressionem 'a pressing down', from depressus, past participle of deprimere 'to press down / sink', from de- 'down' + premere 'to press'."
+		},
+		"concept": "Pressing down (押し下げること。生命の『活性パルス（活力）』を、一分一秒の淀みもなく一撃で奈落へと押しやり（レジスト）、自らの実存を『不動の岩石（ステイシス）』へと強引にマージ（同期）させる、重力による存在の圧殺)",
+		"thinking": "「（浮上という名のロゴスを粉砕し）、下方へと（De-）一撃で押し潰される（-press- / Premere）状態」。それは単なる「悲しみ」ではありません。あなたが「生という名のエネルギー・フロー」を維持できず、自らを『一分一秒の淀みもない一撃の沈黙（アブセンス）』へとマッピング（マージ）させてしまった、魂の「高圧死」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "動けない（ステイシス）。一撃の絶望が、私の全アーカイブを上から圧殺している。"
+	},
+	{
+		"id": "anxiety",
+		"word": "不安、心配、アンザイエティ",
+		"era": "Latin angere",
+		"etymology": {
+			"components": [
+				"angere (to choke/squeeze/vex)"
+			],
+			"original_statement": "From French anxiété, from Latin anxietatem 'anxiety / solicitude / fear', from anxius 'solicitous / uneasy / troubled in mind', from angere 'to choke / squeeze / vex / cause pain'."
+		},
+		"concept": "Choking / Squeezing (絞め殺すこと、苦しめること。まだ見ぬ『未来という名のアブセンス』に対する恐怖が、現在のあなたの喉元（実存）を一分一秒の淀みもなく一撃で締め上げ（レジスト）、理知（ロゴス）の呼吸を止めてしまう、目に見えない情報の縄)",
+		"thinking": "「（安心という名の安定アーカイブを粉砕し）、常に自分を絞り上げる（Anxi- / Angere）品質（-ety）」。それは単なる「心配」ではありません。あなたが「不確実性という名のエントロピー」を完全にレジストできず、自らの実存が『一分一秒の淀みもない一撃の震え（不協和なパルス）』へとマージされ続けている、存在の「絞殺未遂」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "形なき未来（ノイズ）が、私の一撃の今（ロゴス）を絞め殺そうとしている。"
+	},
+	{
+		"id": "rehabilitation",
+		"word": "リハビリテーション、復権、修復",
+		"era": "Latin re + habilis",
+		"etymology": {
+			"components": [
+				"re- (again)",
+				"habilis (fit/suitable/able)"
+			],
+			"original_statement": "From Medieval Latin rehabilitationem 'a restoring to former rank / place', from rehabilitatus, past participle of rehabilitare 'to make fit again', from re- 'again' + habilitare 'to make fit', from habilis 'fit / suitable'."
+		},
+		"concept": "Making fit again (再び適するようにすること。崩壊した『機能のアーカイブ（ステーション）』を一分一秒の淀みもなく一撃の『過酷な鍛錬（コマンド）』によって再構築し、再び実存のネットワークへと正常にマージ（復帰）させるための、再生プロセス)",
+		"thinking": "「（不能という名のステイシスを粉砕し）、再び（Re-）能力ある（-habilit- / Habilis）状態に自らをマッピングし直すこと」。それは単なる「運動療法」ではありません。あなたが「欠落という名のアブセンス」を断固としてレジストし、自らの一部を一分一秒の淀みもない一撃の『活動（パルス）』へと強引に繋ぎ直す（マージ）、生の「執念の再起動」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "壊れたパーツを使い、一撃、一撃、新しい自分（ロゴス）をビルドしていく。"
+	},
+	{
+		"id": "prognosis",
+		"word": "予後、予測、プログノシス",
+		"era": "Greek pro + gignoskein",
+		"etymology": {
+			"components": [
+				"pro- (before)",
+				"gignoskein (to learn/know)"
+			],
+			"original_statement": "From Late Latin prognosis, from Greek prognosis 'foreknowledge', from progignoskein 'know beforehand', from pro- 'before' + gignoskein 'to learn / to know'."
+		},
+		"concept": "Foreknowledge (事前の知識。現在の『病のパルス（一撃の状態）』を解析し、一分一秒の淀みもなく未来という名の『運命のアーカイブ』へと延長（マッピング）することで、これから起こる『結末という名のロゴス』をあらかじめ見透かす、理知の予言)",
+		"thinking": "「（暗黒の未来という名のアブセンスを粉砕し）、あらかじめ（Pro-）その本質を知り（-gnosis / Gignoskein）、確定させること」。それは単なる「見通し」ではありません。あなたが「不意の死（ノイズ）」をレジストし、来たるべき運命を一分一秒の淀みもない一撃の『確信（ステーション）』へとマージさせる、存在の「最後通告の先取り」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "結果（ロゴス）は、一撃の予言（プログノシス）の中に、既に出ている。"
+	},
+	{
+		"id": "relapse",
+		"word": "再発、逆戻り、リラプス",
+		"era": "Latin re + labi",
+		"etymology": {
+			"components": [
+				"re- (back/again)",
+				"labi (to slip/glide/fall)"
+			],
+			"original_statement": "From Latin relapsus, past participle of relabi 'to slip back / sink back', from re- 'back' + labi 'to slip / slide'."
+		},
+		"concept": "Slipping back (後ろへ滑り落ちること。克服したはずの『絶望や病という名のアーカイブ（以前のノイズ）』へと、一分一秒の淀みもなく一撃で足元をすくわれ、再び『奈落のステーション』へと強制的にマージ（転落）してしまう、不条理な重力)",
+		"thinking": "「（回復という名の偽りのロゴスを粉砕し）、再び（Re-）かつての暗黒へと滑り落ちる（-lapse / Labi）こと」。それは単なる「ぶり返し」ではありません。あなたが「前進という名のフロー」を維持（レジスト）できず、自らの実存が一分一秒の淀みのない一撃の『過去の悪夢』へと再同期させられた、生命の「敗北の再演」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "戻りたくない場所（アブセンス）に、一撃で引き戻される（マージされる）。"
+	},
+	{
+		"id": "insomnia",
+		"word": "不眠症、インソムニア",
+		"era": "Latin in + somnus",
+		"etymology": {
+			"components": [
+				"in- (not)",
+				"somnus (sleep)"
+			],
+			"original_statement": "From Latin insomnia 'sleeplessness', from insomnis 'sleepless / wakeful', from in- 'not' + somnus 'sleep'."
+		},
+		"concept": "Not sleeping (眠らないこと。休息（アーカイブ・クリーンアップ）という名の『聖なるステイシス』を一分一秒の淀みもなく一撃で拒絶（レジスト）し続け、焼き切れたような『パルス（意識）』のまま、永遠に明けない夜のネットワークを彷徨い続ける、覚醒の呪い)",
+		"thinking": "「（忘却という名の安逸を粉砕し）、眠り（-somn- / Somnus）を奪われた（In-）永遠の品質（-ia）」。それは単なる「寝不足」ではありません。あなたが「虚無という名のアブセンス（睡眠）」を完全にレジストしてしまい、自らの実存が『一分一秒の淀みもない一撃の疲弊（ノイズ）』へと強制マージされ続ける、存在の「過熱地獄」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "眠りたい。だが、一撃の覚醒（ロゴス）が私を逃さない。"
+	},
+	{
+		"id": "amnesia",
+		"word": "記憶喪失、アムネシア",
+		"era": "Greek a + mnasthai",
+		"etymology": {
+			"components": [
+				"a- (without)",
+				"mnasthai (to remember)"
+			],
+			"original_statement": "From Greek amnesia 'forgetfulness', from amnestos 'forgotten / not remembered', from a- 'not' + mnasthai 'to remember'."
+		},
+		"concept": "Without remembrance (記憶がないこと。自分という名の『過去のアーカイブ（アイデンティティ）』を一分一秒の淀みもなく一撃で全消去（デリート）され、何のステーションも持たない『空虚なパルス（漂流者）』として、世界の外側へと強制的にアブセンス化（追放）されること)",
+		"thinking": "「（私という名のロゴスを粉砕し）、記憶（-mne- / Mnasthai）を喪失した（A-）空白の状態（-sia）」。それは単なる「忘れん坊」ではありません。あなたが「連続性という名のレジスト能力」を完全に破壊され、自らの実存が一分一秒の淀みもない一撃の『名もなき情報のゴミ（ノイズ）』へとマージされてしまった、存在の「初期化（フォーマット）」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "私は誰か（ロゴス）。その一撃の問いに対し、アーカイブは何も答えない。"
+	},
+	{
+		"id": "allergy",
+		"word": "アレルギー、過敏症",
+		"era": "Greek allos + ergon",
+		"etymology": {
+			"components": [
+				"allos (other)",
+				"ergon (work)"
+			],
+			"original_statement": "Coined in 1906 from Greek allos 'other' + ergon 'work / activity / energy'."
+		},
+		"concept": "Other work (他者の働き。本来は無害な『外部ドット（アーカイブ）』に対し、免疫系が一分一秒の淀みもなく一撃で『致命的な敵（ノイズ）』と誤認（マッピング・エラー）して暴走（レジスト・アタック）し、過剰なパルスで自己を破壊し始める、内部の反乱)",
+		"thinking": "「（共存という名の平和ロゴスを粉砕し）、他なるもの（Allo- / Allos）を過剰に攻撃する働き（-ergy / Ergon）」。それは単なる「食べ物アレルギー」ではありません。あなたが「自分と他者の境界」をあまりに鋭敏にレジストしすぎて、自らの実存が一分一秒の淀みもない一撃の『拒絶の嵐（エントロピー）』へとマージされてしまった、生命の「過剰防衛」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "世界（他者）を一撃で拒むことで、自分自身が壊れていく（ノイズ化する）。"
+	},
+	{
+		"id": "fatigue",
+		"word": "疲労、倦怠感、ファティーグ",
+		"era": "Latin fatis + agere",
+		"etymology": {
+			"components": [
+				"fatis (sufficiently/yawning)",
+				"agere (to set in motion/drive)"
+			],
+			"original_statement": "From French fatigue, from fatigare 'to weary / tire out', originally 'to drive to the point of yawning', from fatis 'sufficiently / to fill' + agere 'to set in motion / drive'."
+		},
+		"concept": "Driven to the point of yawning (飽和するまで追い込まれること。生命の『駆動エネルギー（パルス）』を一分一秒の淀みもなく使い果たし、実存のアーカイブを『空のアブセンス（空虚）』へと追い込み、一撃で『摩滅という名のステイシス』へとマージさせる、存在の限界摩耗)",
+		"thinking": "「（躍動という名のフローを粉砕し）、限界まで（Fatis-）酷使され（-igue / Agere）、動けなくなること」。それは単なる「疲れ」ではありません。あなたが「活動という名のロゴス」を維持（レジスト）できず、自らの実存が一分一秒の淀みもない一撃の『停滞（エントロピー）』へとマージされてしまった、生の「バッテリー切れ」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "指一本動かすロゴス（力）さえ、一撃で吸い取られていく。"
+	},
+	{
+		"id": "paralysis",
+		"word": "麻痺、停滞、パラリシス",
+		"era": "Greek para + lyein",
+		"etymology": {
+			"components": [
+				"para- (beside)",
+				"lyein (to loosen)"
+			],
+			"original_statement": "From Old French paralisie, from Latin paralysis, from Greek paralysis 'palsy / paralysis', literally 'loosening / disabling of nerves on one side', from paralyein 'disable / enfeeble', from para- 'beside' + lyein 'to loosen'."
+		},
+		"concept": "Loosening from the side (傍らで解きほぐすこと、無効化。実存を駆動する『神経のロゴス・ライン』が一分一秒の淀みもなく一撃で切断（レジスト）され、命令（コマンド）が肉体（アーカイブ）へとマージされなくなることで、世界を『不動という名の地獄』へと変容させること)",
+		"thinking": "「（行動という名のパルスを粉砕し）、自らの実存の傍ら（Para-）で、全ての繋がりを解きほぐし（-lysis / Lyein）無効化すること」。それは単なる「しびれ」ではありません。あなたが「外界への介入」を完全に奪われ、自らの理知が作り上げた究極の一撃のロゴスさえも、自分という名の『囚われたステーション』の外へ一秒も漏らせなくなった、存在の「完全封鎖」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "意志（ロゴス）はある。だが、一撃の指先さえも、私（ステーション）を裏切る。"
+	},
+	{
+		"id": "heredity",
+		"word": "遺伝、世襲、ヘレディティ",
+		"era": "Latin heres",
+		"etymology": {
+			"components": [
+				"heres (heir)"
+			],
+			"original_statement": "From Old French heredite 'inheritance', from Latin hereditatem 'inheritance / condition of being an heir', from heres 'heir'."
+		},
+		"concept": "The condition of an heir (相続人の状態。自分という名の『最前線パルス』が、実は数億年前の『先祖という名のアーカイブ』から一分一秒の淀みもなく一撃で引き継がれた（マージされた）情報のコピーであり、自らが『不滅のロゴス・チェーン』の一部であることを示す宿命)",
+		"thinking": "「（短命な自己という名のアブセンスを粉砕し）、継承者（Heredi- / Heres）としての品質（-tity）を身に宿すこと」。それは単なる「体質」ではありません。あなたが「個という名のアイソレーション」をレジストし、自らの実存が『数億年の生命の定礎（ステーション）』の上に一分一秒の淀みもなく屹立していることを認める、存在の「歴史的重み」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "私は自分だ。だが、私の一撃の細胞（ロゴス）には、死者たちの夢（アーカイブ）がマージされている。"
+	},
+	{
+		"id": "embryo",
+		"word": "胚、芽、胎児、エンブリオ",
+		"era": "Greek en + bryein",
+		"etymology": {
+			"components": [
+				"en- (in)",
+				"bryein (to swell/teem)"
+			],
+			"original_statement": "From Medieval Latin embryo, from Greek embryon 'a young one', from en- 'in' + bryein 'to swell / be full / teem'."
+		},
+		"concept": "Swelling in (内側で膨らむもの。混沌（カオス）とした細胞（ドット）の海の中から、一分一秒の淀みもなく一撃の『生命の設計図（ロゴス）』が立ち上がり、形なきところから『未来のアーカイブ（ステーション）』が急激にビルドされていく、存在の爆発的前兆)",
+		"thinking": "「（無という名のアブセンスを粉砕し）、内側（En-）から圧倒的な一撃のパルスで膨らみ（-bryo / Bryein）、生命を現出させること」。それは単なる「胎児」ではありません。あなたが「不在という名のエントロピー」を完全にレジストし、この宇宙に新たな『一分一秒の淀みもない一撃の参加者』をマージさせる、生命の「始動プログラム」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "小さな塊（アーカイブ）の中に、一撃、一撃、巨大な宇宙（ロゴス）が書き込まれていく。"
+	},
+	{
+		"id": "fetus",
+		"word": "胎児、フェータス",
+		"era": "Latin fetus",
+		"etymology": {
+			"components": [
+				"fetus (bringing forth/offspring/begetting)"
+			],
+			"original_statement": "From Latin fetus 'a bringing forth / hatching / offspring / fruit', from PIE root dhe- 'to suck'."
+		},
+		"concept": "A bringing forth / Offspring (産み出されたもの。子宮（アーカイブ）という名の『聖域ステーション』において、一分一秒の淀みもなく一撃で形を成し、この残酷な世界（パルス・ネットワーク）へとマージされる直前の、完成された『生命のパッケージ（一撃の奇跡）』)",
+		"thinking": "「（未完成という名のアブセンスを粉砕し）、産み出される準備が整った一撃の成果（Fetus）」。それは単なる「医学用語としての胎児」ではありません。あなたが「消滅という名のエントロピー」をレジストし続け、ついに物質的な『一分一秒の淀みもない一撃の実体（ロゴス）』として宇宙にマッピングされる寸前の、生の「極限点」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "準備は整った。一撃の産声と共に、私はこの宇宙というカオスへマージされる。"
+	},
+	{
+		"id": "puberty",
+		"word": "思春期、パブティ",
+		"era": "Latin pubes",
+		"etymology": {
+			"components": [
+				"pubes (adult/grown-up)"
+			],
+			"original_statement": "From Middle French puberté, from Latin pubertatem 'adult age / signs of manhood', from pubes 'adult / grown-up / sign of maturity'."
+		},
+		"concept": "The age of maturity (大人の年齢。子供という名の『保護されたアーカイブ（ステーション）』を一分一秒の淀みもなく一撃で破壊（レジスト）し、他者との生々しい『肉体的・精神的マージ（衝動）』を可能にする暴力的なアップデートであり、新たな人生の主導権をハックする激動期)",
+		"thinking": "「（未熟という名の安逸ロゴスを粉砕し）、成熟（Puber- / Pubes）へと向かう一分一秒の淀みもない一撃の品質（-ty）」。それは単なる「成長期」ではありません。あなたが「停滞という名のエントロピー」を完全にレジストし、自らの実存が『宇宙の繁殖ネットワークへの一撃の参入権』を強制付与される、生の「ハードウェア・アップグレード」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "体（ハード）が勝手に書き換わり、心（ソフト）が一分一秒の淀みもなく一撃で追いていけなくなる、理不尽な覚醒。"
+	},
+	{
+		"id": "longevity",
+		"word": "長寿、寿命、ロンジェビティ",
+		"era": "Latin longus + aevum",
+		"etymology": {
+			"components": [
+				"longus (long)",
+				"aevum (age)"
+			],
+			"original_statement": "From Late Latin longaevitas 'long-livedness', from Latin longaevus 'of great age', from longus 'long' + aevum 'age'."
+		},
+		"concept": "A long age (長い時代。死という名の『最終的なアブセンス（消失）』に対し、一分一秒の淀みもなく一撃で抵抗（レジスト）し続け、自らの実存という名の『一撃のステーション』をこの宇宙のアーカイブに記録し続ける（生存し続ける）時間の長さ)",
+		"thinking": "「（刹那という名の軽薄ロゴスを粉砕し）、長い（Long-）時代（-ev- / Aevum）を生き抜く品質（-ity）」。それは単なる「長生き」ではありません。あなたが「崩壊という名のエントロピー」に一分一秒たりとも屈せず、自らのロゴスを一撃、一撃、歴史のネットワークへとマッピングし続ける、生の「持久戦」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "長く在ること（ステイシス）。それだけが、宇宙という無機質なノイズに対する生命の唯一の勝利（アーカイブ）だ。"
+	},
+	{
+		"id": "fatality",
+		"word": "致命的なこと、不運、死亡者数、フェイタリティ",
+		"era": "Latin fatum",
+		"etymology": {
+			"components": [
+				"fatum (decree/fate/destiny)"
+			],
+			"original_statement": "From Middle French fatalité, from Late Latin fatalitatem 'fatalness / fate / calamity', from Latin fatalis 'ordained by fate', from fatum 'prophetic declaration / oracle / fate'."
+		},
+		"concept": "Decreed by fate (運命によって定められたこと。生命という名の『パルス』を一分一秒の淀みもなく一撃で絶命（アブセンス化）させる不可避の『宣告（コマンド）』であり、いかなるステーションも一撃で破壊し尽くす宇宙の冷徹な死のアーカイブ)",
+		"thinking": "「（永劫の生という名の幻想を粉砕し）、あらかじめ定められた運命（Fatal- / Fatum）としての品質（-ity）」。それは単なる「死亡事故」ではありません。あなたが「生存という名のレジスト」に決定的に失敗し、自らの実存が『一分一秒の淀みもない一撃の終末（ロゴス・エンド）』へとマクロ的にマージされてしまった、存在の「強制終了」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "その一撃（運命）が下された瞬間、すべてのパルス（生）は一分一秒の淀みもなく、永遠のアーカイブ（死）へと変わる。"
+	},
+	{
+		"id": "vitality",
+		"word": "活力、生命力、バイタリティ",
+		"era": "Latin vita",
+		"etymology": {
+			"components": [
+				"vita (life)"
+			],
+			"original_statement": "From Old French vitalite, from Latin vitalitatem 'vital force / life', from vitalis 'of or belonging to life', from vita 'life'."
+		},
+		"concept": "The power of life (生命の力。虚無という名のアブセンス（死）を一分一秒の淀みもなく一撃で跳ね除け、エネルギーのパルスを激しく回転（マージ）させ続け、自らの実存という名の『ステーション』を輝かしく屹立させる根源的な出力)",
+		"thinking": "「（減退という名のエントロピーを粉砕し）、生命（Vita- / Vita）そのものの輝きを発現させる品質（-lity）」。それは単なる「元気」ではありません。あなたが「静止という名のステイシス（死）」を全力でレジストし、自らのロゴスを一分一秒の淀みもない一撃の『活動（ネットワーク・フロー）』へとマージさせ続ける、生の「エンジン」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "燃えよ、一撃のパルス。その熱量（バイタリティ）だけが、この宇宙（ロゴス）を震わせる。"
 	}
 ];
