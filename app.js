@@ -2315,37 +2315,66 @@ function synthLevenshtein(a, b) {
     return dp[m][n];
 }
 
-function findSimilarWords(combined, parts) {
+function findSimilarWords(variants, parts) {
     if (typeof WORDS === 'undefined') return [];
-    const partTexts = parts.map(p => p.text.replace(/[-\/]/g, '').trim().toLowerCase().split(/\s+/)[0]);
+
+    // Extract all possible text variations for each part (e.g. "com- / con-" -> ["com", "con"])
+    const partExtracts = parts.map(p => {
+        return p.text.replace(/-/g, '').toLowerCase().split('/').map(s => s.trim()).filter(Boolean);
+    });
+
     const scored = [];
 
     for (const w of WORDS) {
         const wl = (w.word || '').toLowerCase();
         if (!wl || wl.length < 3) continue;
 
-        // Score based on component matching
+        // Component matching score
         let componentScore = 0;
-        for (const pt of partTexts) {
-            if (pt.length >= 2 && wl.includes(pt)) componentScore += 3;
-            else if (pt.length >= 3 && wl.includes(pt.substring(0, 3))) componentScore += 1;
+        let matchedPartsCount = 0;
+
+        for (const options of partExtracts) {
+            let matched = false;
+            for (const opt of options) {
+                if (opt.length >= 2 && wl.includes(opt)) {
+                    matched = true;
+                    // Bonus if it matches at boundaries
+                    if (wl.startsWith(opt) || wl.endsWith(opt)) {
+                        componentScore += 5;
+                    } else {
+                        componentScore += 3;
+                    }
+                    break;
+                }
+            }
+            if (matched) matchedPartsCount++;
         }
 
-        // Score based on Levenshtein distance
-        const dist = synthLevenshtein(combined, wl);
-        const maxLen = Math.max(combined.length, wl.length);
-        const similarity = 1 - (dist / maxLen);
+        // Levenshtein distance against the BEST variant
+        let maxSimilarity = 0;
+        for (const v of variants) {
+            const dist = synthLevenshtein(v, wl);
+            const maxLen = Math.max(v.length, wl.length);
+            const similarity = 1 - (dist / maxLen);
+            if (similarity > maxSimilarity) maxSimilarity = similarity;
+        }
 
-        // Combined score
-        const totalScore = componentScore * 2 + similarity * 5;
+        // Skip if largely irrelevant
+        if (matchedPartsCount === 0 && maxSimilarity < 0.6) continue;
 
-        if (componentScore >= 1 || similarity >= 0.6) {
-            scored.push({ word: w.word, id: w.id, score: totalScore, componentScore, similarity });
+        // Combined score weighting
+        let totalScore = componentScore * 2 + maxSimilarity * 30;
+        if (matchedPartsCount === parts.length && parts.length > 0) totalScore += 50; // Huge bonus for containing all parts
+        else if (matchedPartsCount > 0) totalScore += matchedPartsCount * 5;
+
+        if (componentScore >= 1 || maxSimilarity >= 0.5) {
+            scored.push({ word: w.word, id: w.id, score: totalScore, componentScore, similarity: maxSimilarity });
         }
     }
 
+    // Sort descending by calculated relevance score
     scored.sort((a, b) => b.score - a.score);
-    return scored.slice(0, 8);
+    return scored.slice(0, 10);
 }
 
 // --- Phonetic variation generator ---
@@ -2503,8 +2532,8 @@ window.executeSynthesis = function () {
                 </div>
             `;
         } else {
-            // Find similar existing words
-            const similar = findSimilarWords(primaryCombined, parts);
+            // Find similar existing words comparing against all variants
+            const similar = findSimilarWords(variants, parts);
 
             const pred = parts.map(x => {
                 const m = x.mean;
