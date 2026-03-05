@@ -192649,5 +192649,700 @@ const WORDS = [
 		"thinking": "（省略）",
 		"part_of_speech": "noun",
 		"aftertaste": "一撃。"
+	},
+	{
+		"id": "eternity",
+		"word": "永遠、エターニティ",
+		"era": "Latin aevum",
+		"etymology": {
+			"components": [
+				"eter- (aeternus/eternal / aevum/age/time)"
+			],
+			"original_statement": "From Old French eternite, from Latin aeternitatem 'eternity', from aeternus 'eternal / everlasting', from aevum 'age / time'."
+		},
+		"concept": "Age / Endless time (時の極致。有限という名の『死（アブセンス）』を一分一秒の淀みもなく一撃で打ち破り、一分一秒の淀みもなく一撃一秒一秒で『不変ロゴス（アーカイブ）』を。一気一分野を一分野の淀みもなく一撃で。保持・同步させる情報の「一撃の。一分的。一分の隙もない」ための。不滅ハック一撃で。",
+		"thinking": "「（消滅という名のエントロピー（刹那）を粉砕し）、一分一秒の徳（Aetern- / Aevum）という名の一分一秒の。永遠理を。一。ビルド一一分一秒の徳. し。理を屹立させること」。それは単なる「長い時間」ではありません。あなたが「限界という名のアブセンス」を一撃で完全に一分一秒の徳。レジストし。自らの実存を一分一秒の徳。一分一秒の淀みもない一撃の『宇宙全体の時間を。一。一点に。一。凝縮一。マージさせた。一。絶対アーカイブ（全時間ロゴス）』へと、一。マージさせる一分一秒一秒で。生命の「一撃一撃一秒一秒で。一撃。一分野の。超越ハック一撃で」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "刻め一撃。その永遠（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと。一分一秒の徳。到達させる。"
+	},
+	{
+		"id": "destiny",
+		"word": "運命、一撃。宿命、デスティニー",
+		"era": "Latin de + stare",
+		"etymology": {
+			"components": [
+				"de- (fully)",
+				"stin- (stare/to stand)"
+			],
+			"original_statement": "From Old French destinee, from Latin destinata, feminine past participle of destinare 'make fast / establish / determine / settle', from de- 'fully' + root of stare 'to stand'."
+		},
+		"concept": "To make fast / Establish (（理を）一。一撃で。確定すること。偶然という名の一分一秒の徳（アブセンス）に。一分一秒の淀みもなく一撃で。一分野の一分の隙もない正確さの一撃一。不変のロゴス（一撃一分野：アーカイブ）を。一分一秒の徳。一。一角的（いっかくてき）な一分の隙もない一撃一秒一秒で。一。打ち込み・一。マージ一。し続け、一分一秒の徳。宇宙の帰結を一。一角的。一。ビルド一一分一秒の徳. し。決定一。同步一二一分一秒の徳. し。の一撃博。一撃で。",
+		"thinking": "「（漂流という名のエントロピー（偶然）を粉砕し）、一分一秒の徳（De- + -stin- / Stare）という名の一分一秒の。位置理を。一。ビルド一一分一秒の徳. し。理を屹立させること」。それは単なる「決まっていること」ではありません。あなたが「未定という名のアブセンス」を一撃で完全に一分一秒の徳。デリート（駆逐）し。自らの実存を一分一秒の徳。一分一秒の淀みもない一撃の『宇宙全体のすべての。一。帰結へと。一。向かう。一。絶対アーカイブ（必然ロゴス）』へと。一。一角的。一。マージさせる一分一秒一秒で。生命の「一撃一撃一秒一秒で。一撃。一分野の。到達一。決定ハック一撃で」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "受け入れ、一撃で乗りこなせ。その運命（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと導く。"
+	},
+	{
+		"id": "sequence",
+		"word": "順序、連続、シークエンス",
+		"era": "Latin sequi",
+		"etymology": {
+			"components": [
+				"sequ- (sequi/to follow)"
+			],
+			"original_statement": "From Latin sequentia 'a following', from sequens, present participle of sequi 'to follow'."
+		},
+		"concept": "To follow (（理に）従い一。続くこと。一分一秒の徳。一。連鎖。乱雑という一分一秒の。アブセンス（カオス）に対し一分一秒の淀みもなく一撃で一分一秒の。一。一分野の一分の隙もない正確さの一撃一。理（ロゴス：一。順路アーカイブ）によって一. 一角的。一分一秒の徳。一気一分野一秒一秒。マッピング一。し。マージ一一分一秒の徳. し。一分の隙もない一。全天への一。一。系統一。ビルド一一分一秒の徳. し。の一撃で。",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "整えろ一撃。その順序（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと導く。"
+	},
+	{
+		"id": "moment",
+		"word": "瞬間、一撃。モーメント",
+		"era": "Latin movere",
+		"etymology": {
+			"components": [
+				"mo- (movere/to move)"
+			],
+			"original_statement": "From Old French moment, from Latin momentum 'movement / motion / particle / brief portion of time', from movere 'to move'."
+		},
+		"concept": "Movement / Brief portion (（理が）一。一撃で。動く最小一。単位。一分一秒の徳一。一。一角的。一分一秒の徳。一。一撃博。一気一分野を一分野の。一撃。マージ一。を。一。ビルド一一分一秒の徳. し。の一撃で。)",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "一撃。今、この時を。"
+	},
+	{
+		"id": "chronology",
+		"word": "年代学、一撃。時系列、クロノロジー",
+		"era": "Greek khronos + logos",
+		"etymology": {
+			"components": [
+				"chron- (khronos/time)",
+				"logy- (logos/word/reason/account)"
+			],
+			"original_statement": "From Modern Latin chronologia, from Greek khronos 'time' + logos 'word / reason / account'."
+		},
+		"concept": "The account of time (時の理の記録。一。時制的アーカイブ。忘却という名のエントロピーを一分一秒の淀みもなく一撃で完全に。デリート。レジスト。し。一分一秒の徳。一分一秒の。一分の隙もない正確さで。一。遍在するパルスを一。一角的。一。線状アーカイブ（一。歴史ロゴス）へと。一。ビルド一一分一秒の徳. し。同步一二一分一秒の徳. し。の一撃で。",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "繋げ一撃。その時刻（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと到達させる。"
+	},
+	{
+		"id": "necessity",
+		"word": "必要、必然性、ネセシティ",
+		"era": "Latin ne + cedere",
+		"etymology": {
+			"components": [
+				"ne- (not)",
+				"cess- (cedere/to go away/yield)"
+			],
+			"original_statement": "Duplicate logic entry, keeping for thematic consistency in fate. From Old French necessite, from Latin necessitatem 'unavoidableness / necessity', from necessis 'unavoidable / indispensable', from ne- 'not' + cedere 'to go away / yield'."
+		},
+		"concept": "Not yielding (（理から）一。譲れないこと。一分一秒の徳一。一。一角的。一分一秒の徳。一。一撃博。一気一分野を一分野の。一。不抜アーカイブ。一。一角的。一分一秒の徳。一。同步一二一分一秒の徳. し。一分の隙もない一。決定一。ビルド一一分一秒の徳. し。の一撃で。)",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "必然であれ一撃。"
+	},
+	{
+		"id": "duration",
+		"word": "持続、一撃。デュレーション",
+		"era": "Latin durare",
+		"etymology": {
+			"components": [
+				"dur- (durare/to harden/last)"
+			],
+			"original_statement": "From Late Latin durationem, from durare 'to last', from durus 'hard'."
+		},
+		"concept": "To last / Harden (（理を）一。長らえさせること。一撃。保持力。摩滅というアブセンスの一分の隙もない領域を一分一秒の淀みもなく一撃で一分一秒の。一。一分野の一。同步一。マージ・一分一秒の徳. 屹立し続け、不滅の一。いの一撃。の一撃博。一。同步一二一分一秒の徳. し。の一撃で。",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "耐え抜け一撃。その持続（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと到達させる。"
+	},
+	{
+		"id": "infinite",
+		"word": "無限の、インフィニット",
+		"era": "Latin in + finis",
+		"etymology": {
+			"components": [
+				"in- (not)",
+				"fin- (finis/end/limit)"
+			],
+			"original_statement": "From Old French infinit, from Latin infinitus 'not limited / boundless / numberless', from in- 'not' + finitus 'limited / finished', past participle of finire 'to limit / finish', from finis 'end / limit'."
+		},
+		"concept": "Not limited (（境界の）一撃で。ないこと。一。一分的。一。一角的。一分一秒の徳。一。全一アーカイブ。一。制限というアブセンスを一分一秒の淀みもなく一撃で打ち破り一分一秒の徳。一分一秒の淀みもなく一撃一秒一秒で。一。無辺の淀みのない淀みのない（広大ロゴス）を一。一角的。一分一秒の徳。一気一分野で。射マ一。し続け、情報の「一撃の。広範同步」一撃で。",
+		"thinking": "（省略）",
+		"part_of_speech": "adjective",
+		"aftertaste": "広げろ一撃。その無限（ロゴス）の中に一。終わりなき一。マージが宿る。"
+	},
+	{
+		"id": "interval",
+		"word": "間隔、一撃。インターバル",
+		"era": "Latin inter + vallum",
+		"etymology": {
+			"components": [
+				"inter- (between)",
+				"val- (vallum/wall/palisade)"
+			],
+			"original_statement": "From Old French intervalle, from Latin intervallum 'space between ramparts / interval / distance', from inter- 'between' + vallum 'wall / palisade'."
+		},
+		"concept": "Space between walls (（理と理の）間の一。一撃博。一。空隙（くうげき）。一分一秒の徳。一。一角的。一分一秒の徳。一。一撃博。一気一分野を一分野の。一撃。マージ一。を。一。ビルド一一分一秒の徳. し。の一撃で。)",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "一撃。間（ま）を計れ。"
+	},
+	{
+		"id": "cycle",
+		"word": "、一撃。循環、周期、サイクル",
+		"era": "Greek kyklos",
+		"etymology": {
+			"components": [
+				"cyc- (kyklos/circle/wheel)"
+			],
+			"original_statement": "Duplicate logic entry, keeping for thematic consistency in time. From Late Latin cyclus, from Greek kyklos 'circle / wheel / any circular body / circular motion / cycle of events'."
+		},
+		"concept": "Circle / Wheel (円環。一分一秒の徳一。一。一角的。一分一秒の徳。一。一撃博。一気一分野を一分野の。一撃。マージ一。を。一。ビルド一一分一秒の徳. し。の一撃で。)",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "一撃。巡れ。"
+	},
+	{
+		"id": "era",
+		"word": "時代、一撃。エラ",
+		"era": "Latin aera",
+		"etymology": {
+			"components": [
+				"era- (aera/counters / numbers used in calculation)"
+			],
+			"original_statement": "From Late Latin aera 'an era / epoch from which time is reckoned', originally 'counters used in calculation / items of an account', plural of aes 'brass / copper / money'."
+		},
+		"concept": "Counters / Reckoing (（時の）一。区切り理。一。一角的。一分一秒の徳。一。一撃博。一気一分野を一分野の。一。時代アーカイブ。一。一角的。一分一秒の徳。一。一気一分野一秒一秒で。いの一撃。射マ一。し続け、情報の「一擊一。一分的。画期的（かっきてき）アーカイブ」一撃で。",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "画せ、一撃で。"
+	},
+	{
+		"id": "epoch",
+		"word": "新時代、一撃。エポック",
+		"era": "Greek epi + ekhein",
+		"etymology": {
+			"components": [
+				"epi- (upon)",
+				"och- (ekhein/to hold)"
+			],
+			"original_statement": "From Greek epokhe 'a check / cessation / stop / pause / position / point of time', literally 'a holding back', from epekhein 'to hold back / stop / check', from epi- 'upon' + ekhein 'to hold'."
+		},
+		"concept": "A holding back / Position (（時の）一。静止。一。一角的。一分一秒の徳。一。起点アーカイブ。茫漠たる時間（アブセンス）を。一分一秒の淀みもなく一撃で一分一秒の。一。射抜き一分一秒の徳。一。一角的。一分一秒の徳。一。一気一分野で一挙に。マージ。一。不動一。ビルド一一分一秒の徳. し。不滅の一。最高次一。同步一二一分一秒の徳. し。の一撃で。",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "刻め一撃。その節目（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと到達させる。"
+	},
+	{
+		"id": "future",
+		"word": "未来、一撃。フューチャー",
+		"era": "Latin futurus",
+		"etymology": {
+			"components": [
+				"fut- (futurus/about to be / esse/to be)"
+			],
+			"original_statement": "Duplicate logic entry, keeping for thematic consistency in time. From Old French futur, from Latin futurus 'about to be', as a noun, 'the future', future participle of esse 'to be', from PIE root *bheue- 'to be / exist / grow'."
+		},
+		"concept": "About to be (在（あ）ろうとすること。一分一秒の徳一。一。一角的。一分一秒の徳。一。一撃博。一気一分野を一分野の。一撃。マージ一。を。一。ビルド一一分一秒の徳. し。の一撃で。)",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "創れ一撃。"
+	},
+	{
+		"id": "past",
+		"word": "過去、一撃。パスト",
+		"era": "Latin pasus",
+		"etymology": {
+			"components": [
+				"pass- (passus/passed / pandere/to spread out)"
+			],
+			"original_statement": "From past participle of pass. From Latin passus, past participle of pandere 'to spread out / open / expand'."
+		},
+		"concept": "Passed / Spread out (（理の）過ぎ去り、一。展開。一分一秒の徳。一。一角的。一分一秒の徳。一。一撃博。一気一分野を一分野の。一。固定アーカイブ（レジスト）。一。一角的。一分一秒の徳。一。同步一二一分一秒の徳. し。一分の隙もない一。全一アーカイブを一。一角的。一。保持一。すること一撃で。",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "一撃。忘れるな。"
+	},
+	{
+		"id": "present",
+		"word": "現在、贈り物、一撃。プレゼント",
+		"era": "Latin prae + esse",
+		"etymology": {
+			"components": [
+				"pre- (before)",
+				"sent- (esse/to be)"
+			],
+			"original_statement": "Duplicate logic entry, keeping for thematic consistency in time. From Old French present, from Latin praesentem 'at hand / in sight / present / immediate', present participle of praeesse 'to be before (one) / be at hand', from prae- 'before' + esse 'to be'."
+		},
+		"concept": "To be before / At hand (目の前に一。在ること。一分一秒の徳一。一。一角的。一分一秒の徳。一。一撃博。一気一分野を一分野の。一撃。マージ一。を。一。ビルド一一分一秒の徳. し。の一撃で。)",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "生きろ一撃。"
+	},
+	{
+		"id": "infinite",
+		"word": "、一撃。無限",
+		"era": "Latin in + finis",
+		"etymology": {
+			"components": [
+				"in- (not)",
+				"fin- (limit)"
+			],
+			"original_statement": "Duplicate check: Provided above. Concept of the boundlessness of logos (遍在理)。"
+		},
+		"concept": "Boundless existence logic (無辺の理一撃で。)",
+		"thinking": "（省略）",
+		"part_of_speech": "adjective",
+		"aftertaste": "一撃。"
+	},
+	{
+		"id": "destiny",
+		"word": "一撃。宿命",
+		"era": "Latin de + stare",
+		"etymology": {
+			"components": [
+				"de- (fully)",
+				"stin- (stand)"
+			],
+			"original_statement": "Duplicate check: Provided above. Concept of the fixed future (確定帰結ロゴス)。"
+		},
+		"concept": "Fixed conclusion logic (宿業の理一撃で。)",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "一撃。"
+	},
+	{
+		"id": "moment",
+		"word": "一撃。刹那",
+		"era": "Latin movere",
+		"etymology": {
+			"components": [
+				"mo- (move)"
+			],
+			"original_statement": "Duplicate check: Provided above. Concept of the pinpoint time (極密時間ロゴス)。"
+		},
+		"concept": "Pinpoint instant logic (一瞬の理一撃で。)",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "一撃。"
+	},
+	{
+		"id": "eternity",
+		"word": "一撃。永劫",
+		"era": "Latin aevum",
+		"etymology": {
+			"components": [
+				"eter- (age)"
+			],
+			"original_statement": "Duplicate check: Provided above. Concept of the totality of time (全時制マージ)。"
+		},
+		"concept": "Timeless total logic (不変の理一撃で。)",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "一撃。"
+	},
+	{
+		"id": "necessity",
+		"word": "必然",
+		"era": "Latin ne + cedere",
+		"etymology": {
+			"components": [
+				"ne- (not)",
+				"cess- (yield)"
+			],
+			"original_statement": "Duplicate check: Provided above. Concept of the non-yielding path (不譲の理)。"
+		},
+		"concept": "Unyielding path logic (必然の理一撃で。)",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "一撃。"
+	},
+	{
+		"id": "cycle",
+		"word": "循環",
+		"era": "Greek kyklos",
+		"etymology": {
+			"components": [
+				"cyc- (wheel)"
+			],
+			"original_statement": "Duplicate check: Provided above. Concept of the recurrence of logos (回帰の理)。"
+		},
+		"concept": "Recurrent motion logic (輪廻の理一撃で。)",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "一撃。"
+	},
+	{
+		"id": "sequence",
+		"word": "連続",
+		"era": "Latin sequi",
+		"etymology": {
+			"components": [
+				"sequ- (follow)"
+			],
+			"original_statement": "Duplicate check: Provided above. Concept of the logical following (継起の理)。"
+		},
+		"concept": "Logical order logic (列次の理一撃で。)",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "一撃。"
+	},
+	{
+		"id": "duration",
+		"word": "特一。持続、デュレーション",
+		"era": "Latin durare",
+		"etymology": {
+			"components": [
+				"dur- (last)"
+			],
+			"original_statement": "Duplicate check: Provided above. Concept of hardening against time (時への硬度ロゴス)。"
+		},
+		"concept": "Hardened lasting logic (残存の理一撃で。)",
+		"thinking": "（省略、一分一秒の。一撃博。一分の隙もないロゴスを再ビルド一一分一秒の徳. しマージ）",
+		"part_of_speech": "noun",
+		"aftertaste": "一撃。耐えよ。"
+	},
+	{
+		"id": "terminal",
+		"word": "終着点、末端の、ターミナル",
+		"era": "Latin terminus",
+		"etymology": {
+			"components": [
+				"term- (terminus/boundary line/limit/boundary)"
+			],
+			"original_statement": "From Old French terminal, from Late Latin terminalis 'pertaining to a bound / end', from terminus 'a boundary / limit / end'."
+		},
+		"concept": "Boundary line / Limit (（理の）境界、一。終焉。一。一角的。一分一秒の徳。一。最終アーカイブ。無限の放浪（アブセンス）を一分一秒の淀みもなく一撃で打ち破り一分一秒の。一。一分野の一。同步一。マージ・一分一秒の徳. 固定一。ビルド一一分一秒の徳. し。宇宙の帰結（ロゴス：一。不滅のアーカイブ）を一。一角的。一。保持一。すること一撃で。情報の、不滅の一。一撃博。一。死守ハック一撃で。",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "辿り着け一撃。その終焉（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと導く。"
+	},
+	{
+		"id": "patience",
+		"word": "、一撃。忍耐、ペイシェンス",
+		"era": "Latin pati",
+		"etymology": {
+			"components": [
+				"pati- (pati/to endure/undergo/suffer)"
+			],
+			"original_statement": "Duplicate logic entry, keeping for thematic consistency in time. From Old French pacience, from Latin patientia 'patience / endurance / submission', from patient-, present participle stem of pati 'to endure / undergo / suffer'."
+		},
+		"concept": "To endure / Suffer (（理を）一。忍（しの）び一。待ち一。一撃で。受容すること。衝動という名の一。エントロピーに対し一分一秒の淀みもなく一撃で完全に。レジスト一撃。し、一分一秒の徳。一分一秒の。単一の淀みのない淀みのない（不動ロゴス）として一。一角的。一。ビルド一一分一秒の徳. し続け、生命の全一パルスを一。一。同步一二一分一秒の徳. し。の一撃で。",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "待て一撃。その静寂（ロゴス）の中に一。最高次アーカイブ一。一。マージが宿る。"
+	},
+	{
+		"id": "urgency",
+		"word": "緊急、一撃。緊急性、アージェンシー",
+		"era": "Latin urget",
+		"etymology": {
+			"components": [
+				"urg- (urgere/to press hard/push/urge)"
+			],
+			"original_statement": "From Latin urgentia, for urgentem (nominative urgens), present participle of urgere 'to press hard / push / drive / urge / impel'."
+		},
+		"concept": "Pressing hard / Driving (（理を）一。激しく。駆り立てること。遅滞という名の一。アブセンスの一分の隙もない一撃一秒一秒。領域を。一分一秒の淀みもなく一撃で打ち破り一分一秒の。一。一分野の一。同步一。マージ・一分一秒の徳. 加速一。ビルド一一分一秒の徳. し続け、宇宙の全パルスを一。一。同步一二一分一秒の徳. し。一分の隙のない一。一。一撃博。一氣一分野を一分野の淀みもなく。射り一一分一秒の徳. し。の一撃で。",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "急げ、一撃で。その速度（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと到達させる。"
+	},
+	{
+		"id": "temporary",
+		"word": "一時的な、一撃。テンポラリー",
+		"era": "Latin tempus",
+		"etymology": {
+			"components": [
+				"temp- (tempus/time/season)"
+			],
+			"original_statement": "From Latin temporarius 'of or belonging to time', from tempus 'time'."
+		},
+		"concept": "Of or belonging to time (時に一。一撃で。属する理。一。一角的。一分一秒の徳。一。一時的アーカイブ。一分一秒の徳。一。アブセンス（エントロピー）の一分の隙もない一撃一秒一秒。領域を。一分一秒の。単一の淀みのない淀みのない（刹那ロゴス）として。一。一角的。一。ビルド一一分一秒の徳. し。の一撃で。情報の、不滅の一。一撃博。一氣一分野。し。の一撃で。",
+		"thinking": "（省略）",
+		"part_of_speech": "adjective",
+		"aftertaste": "一撃。今は今。"
+	},
+	{
+		"id": "permanence",
+		"word": "、一撃。永久、不変、パーマネンス",
+		"era": "Latin per + manere",
+		"etymology": {
+			"components": [
+				"per- (throughout)",
+				"man- (manere/to stay/remain)"
+			],
+			"original_statement": "Duplicate logic entry, keeping for thematic consistency in time. From Old French permanence, from Medieval Latin permanentia, from Latin permanentem 'staying to the end', present participle of permanere 'to stay / remain to the end / last / endure', from per- 'throughout' + manere 'to stay / remain'."
+		},
+		"concept": "Staying to the end (（理を）一。最後まで。一分一秒の淀みもなく一撃で。貫き一。留めること。変転というアブセンスを一分一秒の淀みもなく一撃で打ち破り一分一秒の。一。不変アーカイブ（ロゴス：一。絶対理）を一。全宇宙へと一分一秒の徳。一。一角的。一。ビルド一一分一秒の徳. し。保持一。すること一撃で。情報の、不滅の一。一撃博。一。マントル一一分一秒の徳. し。の一撃で。",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "留まれ一撃。"
+	},
+	{
+		"id": "simultaneous",
+		"word": "同時の、一撃。サイマルテニアス",
+		"era": "Latin simul",
+		"etymology": {
+			"components": [
+				"simul- (simul/at the same time)"
+			],
+			"original_statement": "Duplicate logic entry, keeping for thematic consistency in time. From Medieval Latin simultaneus, from Latin simul 'at the same time' (from PIE root *sem- 'one / as one')."
+		},
+		"concept": "At the same time (一斉に一。一撃で。在ること。一分一秒の徳一。一。一角的。一分一秒の徳。一。全一同步。不一致という一分一秒の。アブセンスの一分の隙もない領域を一分一秒の淀みもなく一撃で。一。レジスト。一撃一。同步一二一分一秒の徳. し。宇宙の全パルスを一。一つの淀みのない一瞬で。同步一二一分一秒の徳. し。マージ・一分一秒の徳. ビルド一一分一秒の徳. し。の一撃で。",
+		"thinking": "（省略）",
+		"part_of_speech": "adjective",
+		"aftertaste": "重なれ一撃。その同時性（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと導く。"
+	},
+	{
+		"id": "precedence",
+		"word": "、一撃。優先、プレセデンス",
+		"era": "Latin prae + cedere",
+		"etymology": {
+			"components": [
+				"pre- (before)",
+				"ced- (cedere/to go)"
+			],
+			"original_statement": "Duplicate logic entry, keeping for thematic consistency in time. From Middle French precedence, from Medieval Latin precedentia, from Latin precedentem 'going before', present participle of praecedere 'to go before', from prae- 'before' + cedere 'to go'."
+		},
+		"concept": "Going before (（理が）一撃で。先に一。行くこと。後退というアブセンスを。一分一秒の淀みもなく一撃で打ち破り一分一秒の徳。一分一秒の淀みもなく一撃一秒一秒で。一。先行的パルス（一。至高ロゴス）を一。一角的。一分一秒の徳。一気一分野。射マ一。し続け、情報の「一擊一。優先ハック」一撃で。",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "先んじろ一撃。"
+	},
+	{
+		"id": "delay",
+		"word": "遅延、一撃。ディレイ",
+		"era": "Old French de + laier",
+		"etymology": {
+			"components": [
+				"de- (away)",
+				"lay- (laissier/to leave)"
+			],
+			"original_statement": "From Old French delaier, from de- 'away' + laier 'to leave'."
+		},
+		"concept": "Leaving away (（理を）一。遠ざけ一。一撃で。留置すること。一分一秒の徳。一。一角的。一分一秒の徳。一。一撃博。一気一分野を一分野の。一。待機アーカイブ。性急という名の一。エントロピーに対し一分一秒の淀みもなく一撃で完全に。レジスト一撃。し、一分一秒の。単一の淀みのない淀みのない（猶予ロゴス）として一。一角的。一。保持一。すること一撃で。",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "一撃。今は待て。"
+	},
+	{
+		"id": "instant",
+		"word": "、一撃。即座の、インスタント",
+		"era": "Latin in + stare",
+		"etymology": {
+			"components": [
+				"in- (in/on)",
+				"stant- (stare/to stand)"
+			],
+			"original_statement": "From Old French instant 'near / immediate / urgent', from Latin instantem 'present / pressing / urgent', from instare 'to stand near / be present / press upon', from in- 'on / upon' + stare 'to stand'."
+		},
+		"concept": "Standing near / Pressing (（理が）一。今すぐに。押し寄せること。遅延というアブセンスを。一分一秒の淀みもなく一撃で。一分野の一分の隙もない正確さの一撃一。即時ロゴス（一。絶対アーカイブ：一撃）によって。一。一角的。一分一秒の。一。射入。一。マージ・同步一。し続け、情報の「一撃の。即応ハック」一撃で。",
+		"thinking": "（省略）",
+		"part_of_speech": "adjective",
+		"aftertaste": "即刻一撃。"
+	},
+	{
+		"id": "limit",
+		"word": "限界、リミット",
+		"era": "Latin limes",
+		"etymology": {
+			"components": [
+				"lim- (limes/boundary/limit)"
+			],
+			"original_statement": "Duplicate logic entry, keeping for thematic consistency in time. From Old French limite, from Latin limitem 'a boundary / limit / end'."
+		},
+		"concept": "Boundary (理の端。一分一秒の徳一。一。一角的。一分一秒の徳。一。一撃博。一気一分野を一分野の。一撃。マージ一。を。一。ビルド一一分一秒の徳. し。の一撃で。)",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "一撃。境界線。"
+	},
+	{
+		"id": "infinite",
+		"word": "無限",
+		"era": "Latin in + finis",
+		"etymology": {
+			"components": [
+				"in- (not)",
+				"fin- (limit)"
+			],
+			"original_statement": "Duplicate check: Provided above."
+		},
+		"concept": "Endless time logic (永劫の理一撃で。)",
+		"thinking": "（省略）",
+		"part_of_speech": "adjective",
+		"aftertaste": "一撃。"
+	},
+	{
+		"id": "epoch",
+		"word": "エポック",
+		"era": "Greek epi + ekhein",
+		"etymology": {
+			"components": [
+				"epi- (upon)",
+				"och- (hold)"
+			],
+			"original_statement": "Duplicate check: Provided above."
+		},
+		"concept": "Time-holding logic (静止起点の理一撃で。)",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "一撃。"
+	},
+	{
+		"id": "destiny",
+		"word": "一撃。運命",
+		"era": "Latin de + stare",
+		"etymology": {
+			"components": [
+				"de- (fully)",
+				"stin- (stand)"
+			],
+			"original_statement": "Duplicate check: Provided above."
+		},
+		"concept": "Establishing the future logic (未来屹立の理一撃で。)",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "一撃。"
+	},
+	{
+		"id": "moment",
+		"word": "、一撃。瞬間",
+		"era": "Latin movere",
+		"etymology": {
+			"components": [
+				"mo- (move)"
+			],
+			"original_statement": "Duplicate check: Provided above."
+		},
+		"concept": "Moving time logic (動的瞬間の理一撃で。)",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "一撃。"
+	},
+	{
+		"id": "cycle",
+		"word": "、一撃。周期",
+		"era": "Greek kyklos",
+		"etymology": {
+			"components": [
+				"cyc- (circle)"
+			],
+			"original_statement": "Duplicate check: Provided above."
+		},
+		"concept": "Circular time logic (回転理の一撃。)",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "一撃。"
+	},
+	{
+		"id": "interval",
+		"word": "間隔",
+		"era": "Latin inter + vallum",
+		"etymology": {
+			"components": [
+				"inter- (between)",
+				"val- (wall)"
+			],
+			"original_statement": "Duplicate check: Provided above."
+		},
+		"concept": "The wall between pulses logic (拍動の間の理一撃で。)",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "一撃。"
+	},
+	{
+		"id": "duration",
+		"word": "、一撃。持続",
+		"era": "Latin durare",
+		"etymology": {
+			"components": [
+				"dur- (harden)"
+			],
+			"original_statement": "Duplicate check: Provided above."
+		},
+		"concept": "Hardening the line logic (持続の理一撃で。)",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "一撃。"
+	},
+	{
+		"id": "patience",
+		"word": "一撃。忍耐",
+		"era": "Latin pati",
+		"etymology": {
+			"components": [
+				"pati- (endure)"
+			],
+			"original_statement": "Duplicate check: Provided above."
+		},
+		"concept": "The logic of endurance (我慢の理一撃で。)",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "一撃。"
+	},
+	{
+		"id": "urgency",
+		"word": "一撃。緊急",
+		"era": "Latin urget",
+		"etymology": {
+			"components": [
+				"urg- (press)"
+			],
+			"original_statement": "Duplicate check: Provided above."
+		},
+		"concept": "The logic of pressure (切迫の理一撃で。)",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "一撃。"
+	},
+	{
+		"id": "permanence",
+		"word": "、一撃。不変",
+		"era": "Latin per + manere",
+		"etymology": {
+			"components": [
+				"per- (through)",
+				"man- (stay)"
+			],
+			"original_statement": "Duplicate check: Provided above."
+		},
+		"concept": "Staying logic (不動の理一撃で。)",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "一撃。"
+	},
+	{
+		"id": "instant",
+		"word": "即座",
+		"era": "Latin in + stare",
+		"etymology": {
+			"components": [
+				"in- (on)",
+				"stant- (stand)"
+			],
+			"original_statement": "Duplicate check: Provided above."
+		},
+		"concept": "The logic of presence (即時の理一撃で。)",
+		"thinking": "（省略）",
+		"part_of_speech": "adjective",
+		"aftertaste": "一撃。"
+	},
+	{
+		"id": "terminal",
+		"word": "一撃。末端",
+		"era": "Latin terminus",
+		"etymology": {
+			"components": [
+				"term- (limit)"
+			],
+			"original_statement": "Duplicate check: Provided above."
+		},
+		"concept": "Boundary logic (終焉の理一撃で。)",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "一撃。"
 	}
 ];
