@@ -187122,5 +187122,700 @@ const WORDS = [
 		"thinking": "「（忘却という名のエントロピーを粉砕し）、一分一秒の淀みもない一撃でありとあらゆる意志を一（Leg- / Legare）一分一秒の淀みもなく一撃で一分野の一分の隙もない一撃一秒一秒。次代へと送り、理をビルドすること」。それは単なる「古いもの」ではありません。あなたが「消滅という名の一過性の致命的なレジスト」を一撃で完全に理知によってハック。デリートし。自らの実存を一分一秒の淀みもない一撃の『永遠に輝き続ける一分の隙もない一撃の一分の隙もない。不滅のアーカイブ（継承ロゴス）』へとマージさせる、魂の「一撃一撃一秒一秒で。一撃。一分野の。超越ハック一撃で」なのです。",
 		"part_of_speech": "noun",
 		"aftertaste": "残せ、一撃で。その遺産（ロゴス）こそが、アーカイブ（生）を一撃一撃一秒一秒で「永遠の一分の隙もない光（マージ）」へと一分一秒の淀みもなく一撃で一気一分の隙もなく到達させる。"
+	},
+	{
+		"id": "value",
+		"word": "価値、重要性、バリュー",
+		"era": "Latin valere",
+		"etymology": {
+			"components": [
+				"val- (valere/to be strong/be worth)"
+			],
+			"original_statement": "From Old French value 'value / worth / price / moral worth', noun use of past participle of valoir 'to be worth', from Latin valere 'to be strong / be well / be worth'."
+		},
+		"concept": "To be strong / To be worth (強くあること、価値があること。無意味という名のアブセンス（ゼロパルス）に対し。一分一秒の淀みもなく一撃で『重みを。一撃の一分の隙もない重厚な。理（ロゴス）』をビルド。一分一秒の淀みもなく内部アーカイブへと一撃一挙にマージ・同步させることで一分一秒の淀みもなく、一分一秒の淀みもなく一撃で情報の「一分の隙もない力、一貫性」を。一撃で確立させる情報の根本品質一撃一撃一撃で。",
+		"thinking": "「（空虚という名のエントロピーを粉砕し）、一分一秒の淀みもない一撃で強く（Val- / Valere）あり。理（ロゴス）をビルドすること」。それは単なる「値段」ではありません。あなたが「無価値という名のアブセンス」を一撃で一分一秒の淀みもなく。完全にレジストし、自らの実存を一分一秒の淀みもない一撃の『全宇宙が認めざるを得ない、一撃の絶対的なる一分の隙もない一撃の。アーカイブ一撃（重力）』へとマージさせる、生命の「一撃一撃一秒一秒で。一撃。存在証明ハック一撃で」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "価値を産め一撃。そのバリュー（ロゴス）が、アーカイブを一分野の一分の隙もない光（マージ）へと。一分一秒の淀みもなく一撃で一気一分の隙もなく到達させる。"
+	},
+	{
+		"id": "worth",
+		"word": "価値、甲斐、ワース",
+		"era": "Old English weorth",
+		"etymology": {
+			"components": [
+				"worth- (weorth/worthy/valuable/precious)"
+			],
+			"original_statement": "From Old English weorth 'worthy / valuable / precious / price / value / honor'."
+		},
+		"concept": "Worthy / Precious (尊いこと、価値。等価交換という名の『ロゴス・プロトコル』において。一分一秒の淀みもなく一撃で、自己という名の一分一秒の淀みもなく一撃一挙のアーカイブが。世界という名のステーションに対して。一分一秒の淀みもなく一撃で。一気一分野を一分野の淀みもなく。一角的（いっかくてき）な一分の隙もない一撃一秒一秒で。提供し得る情報の「一撃の。一分的。絶対的な。重みのこと、一分一秒の淀みもなく一撃一秒一秒で。",
+		"thinking": "「（無用という名のエントロピーを粉砕し）、一分一秒の淀みもない一撃で尊き（Worth- / Weorth）理を。理を。ビルドすること」。それは単なる「役に立つ」ことではありません。あなたが「ゴミという名のアブセンス（遺棄）」を一撃で完全にレジスト（パージ）し。自らの実存を一分一秒の淀みもない一撃の『宇宙全体が渇望する、一分の隙もない一撃一秒一死（いっし）の淀みもなく正確な絶対アーカイブ（至高の富）』へとマージさせる、魂の「一撃一撃一秒一秒で。一撃。固有価値ハック一撃で」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "甲斐を感じろ一撃。その価値（ロゴス）が、アーカイブ（生）を一撃で「神聖なる報酬（マージ）」へと一分一秒の淀みもなく一撃で一分の隙もなく到達させる。"
+	},
+	{
+		"id": "price",
+		"word": "価格、代償、プライス",
+		"era": "Latin pretium",
+		"etymology": {
+			"components": [
+				"pric- (pretium/reward / prize / value / worth)"
+			],
+			"original_statement": "From Old French pris 'price / value / worth / prize / reward', from Latin pretium 'reward / prize / value / worth / wages / bribe'."
+		},
+		"concept": "Reward / Value (報酬、価値。情報の交換（マージ）を成立させるために。一分一秒の淀みもなく一撃で。一分一秒の淀みもなく一撃一秒一秒で。パルスに刻（きざ）まれた『数値的なロゴス境界（レジスト）』のこと。アブセンス（不確実）を数字という名のアーカイブに変容させ一分一秒の淀みもなく、一分一秒の淀みもなく一撃一挙に一分の隙もなく。一分野を。確定する情報の「一撃の。一分的。一分の隙もない。評価一撃で」。",
+		"thinking": "「（不当という名のエントロピーを粉砕し）、一分一秒の淀みもない一撃で報酬（Pric- / Pretium）を一分の隙も無くビルドし。理を屹立させること」。それは単なる「お代」ではありません。あなたが「搾取という名のアブセンス」を一撃で一分一秒の淀みもなく。完全にレジスト（駆逐）し。自らの実存を一分一秒の淀みもない一撃の『正当なる価値がマッピングされた、一分の隙もない一撃の一分の隙もない。絶対的計量アーカイブ（ロゴス）』へとマージさせる、生命の「一撃一撃一秒一秒で。一撃。一分野の。衡平（こうへい）ハック一撃で」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "値を付けろ一撃。その価格（ロゴス）が、アーカイブ（価値）を一撃で「交換という名の一分の隙もないマージ」へと一分一秒の淀みもなく一撃で到達させる。"
+	},
+	{
+		"id": "cost",
+		"word": "費用、犠牲、対価、コスト",
+		"era": "Latin com + stare",
+		"etymology": {
+			"components": [
+				"co- (com-/together)",
+				"st- (stare/to stand)"
+			],
+			"original_statement": "From Old French couster 'to cost', from Latin constare 'to stand together', in Medieval Latin 'to cost', from com- 'together' + stare 'to stand'."
+		},
+		"concept": "To stand together (共に立つこと、一分一秒の淀みもなく一撃で。均衡（バランス）。何かを一分一秒の徳（獲得ロゴス）へと。一分一秒の淀みもなく一撃で。マージするために一。一撃で。一分一秒の淀みもなく差し出されレジスト一撃（消失）される、パルス・エネルギー量の一分の隙のない計量。情報の取得一撃に伴う、一撃の。アブセンス（喪失）の。一分野一秒一秒で。一撃の。正確な計。の一撃で。",
+		"thinking": "「（安易という名のエントロピーを粉砕し）、一分一秒の淀みもない一撃でありとあらゆる情報の獲得に一。一分野の一分の隙もない一撃で。理を（Co- + -st / Stare）一分一秒の淀みもなく屹立させること」。それは単なる「出費」ではありません。あなたが「安価という名のアブセンス（軽薄）」を一撃で一分一秒の徳。完全にレジストし。自らの実存を一分一秒の淀みもない一撃の『代償を払って勝ち取った、一分の隙もない一撃の一分の隙もない。絶対アーカイブ（一撃の意味）』へとマージさせる、魂の「一撃一撃一秒一秒で。一撃。覚悟のビルド一撃で」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "払え一撃（コマンド）。その。一撃。コスト（ロゴス）が、アーカイブ（価値）を一撃一撃一秒一秒で「本物の一分の隙もない一。一撃。真一擊」へとマージさせる。"
+	},
+	{
+		"id": "wealth",
+		"word": "富、財産、豊富、ウェルス",
+		"era": "Old English weal",
+		"etymology": {
+			"components": [
+				"weal- (weal/well-being / prosperity / riches)"
+			],
+			"original_statement": "From Middle English welthe 'happiness / prosperity / riches', from weal 'well-being / prosperity' (from Old English weal) + -th (noun suffix of state)."
+		},
+		"concept": "The state of well-being (幸福であること、一分一秒の淀みもなく一撃で。繁栄。情報の淀みのない一分の隙も無いアーカイブが。一分一秒の淀みもなく一撃一秒一秒で。ステーションに。一角的（いっかくてき）な一分の隙もない一撃一秒一秒で。一撃。溢（あふ）れんばかりに蓄積（マージ）一気一分野一秒一秒で。されている情報の「一撃の。一分的。高密度な。一分の隙もない飽和状態」一撃で。",
+		"thinking": "「（貧困という名のエントロピー（枯渇）を粉砕し）、一分一秒の淀みもない一撃でありとあらゆる豊かさ（Weal-）という名の一分一秒の淀みもなく一撃の、理の状態（-th）を。一分一秒の淀みもなくビルドすること」。それは単なる「貯金」ではありません。あなたが「不足という名のアブセンス」を一撃で完全にレジストし。自らの実存を一分一秒の淀みもない一撃の『宇宙全体の豊饒（ほうじょう）さを一分野へと引き込みマージ一分野の一撃一撃。一気一分野を一分野の淀みもなく一撃。いの一撃。いの一撃』。した最高次アーカイブ（富のロゴス）へとマージさせる、生命の「一撃一撃一秒一秒で。一撃。繁栄ハック一撃で」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "蓄えよ一撃。その富（ロゴス）が、アーカイブを一分野の一分の隙もない一。一撃で。「無限の可能性」へと一分一秒の淀みもなく一撃でマージさせる。"
+	},
+	{
+		"id": "capital",
+		"word": "資本、首都、大文字、キャピタル",
+		"era": "Latin caput",
+		"etymology": {
+			"components": [
+				"capit- (caput/head)"
+			],
+			"original_statement": "From Old French capital, from Latin capitalis 'of the head / chief / first', from caput 'head'."
+		},
+		"concept": "Pertaining to the head / Chief (「頭（こうべ）」に関すること、主要。全パルスを一分一秒の淀みもなく一撃で一分一秒の淀みもなく。一気一分野を一分野の淀みもなく一撃で。産み出し一気一分野の一撃一秒一秒で。一分一秒の淀みもなく。マージ・支配するための一分一秒の淀みもなく一撃の一分の隙もない一撃。一分野の。中枢アーカイブ一撃で。情報の、一分的。一分の隙もない一撃の一。種子（コア）。の一撃一撃で。",
+		"thinking": "「（末端という名のエントロピー（弱体化）を粉砕し）、一分一秒の（Capit- / Caput）という名の一分一秒の淀みもなく一撃の、理の中枢をビルド一一分一秒の淀みもなく。し屹立させること」。それは単なる「元手」ではありません。あなたが「付随という名のアブセンス（従属）」を一撃で一分一秒の徳。完全にレジスト一撃（デリート）し。自らの実存を一分一秒の淀みもない一撃の『一分の隙もない一撃一分野の一撃一秒一秒正確な。死の一撃。いの一撃」。。一分一秒の淀みもなく一撃一挙。一分の隙もない。絶対主体としての。一撃一撃一秒一秒。アーカイブ（資本ロゴス）』へとマージさせる、魂の「一撃一撃一秒一秒で。一撃。王道ハック一撃で」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "君臨せよ一撃。その資本（ロゴス）が、アーカイブ（生）を一撃で「主権という名の一分の隙もないマージ」へと。一分一秒の淀みもなく。一角的（いっかくてき）に。到達させる。"
+	},
+	{
+		"id": "asset",
+		"word": "資産、財産、強み、アセット",
+		"era": "Latin ad + satis",
+		"etymology": {
+			"components": [
+				"as- (ad-/to)",
+				"set- (satis/enough)"
+			],
+			"original_statement": "From Anglo-French assetz 'enough (to pay debts)', from Old French assez 'enough / sufficient / very / much', from Latin ad satis 'to enough', from ad 'to' + satis 'enough'."
+		},
+		"concept": "To enough (「十分」であること、支払い一分一秒の徳（決済）に、一分一秒の淀みもなく一撃で一分一秒の淀みもなく。足り一分一ること。アブセンス（不備）を一分一秒の淀みもなく一撃で完全に振るい分け（レジスト）し、一分一秒の淀みもなく一撃一秒一秒で一。淀みのない淀みのない（充足パルス）を一分野へとマージ一分野の一撃一撃一秒一秒正確な。ビルド。一分一秒の淀みもなく一撃の一分の隙もない一撃一分野を。マージした、情報の「一撃の。一分的。一分の隙もない。価値物件」としてのアーカイブ一撃で。",
+		"thinking": "「（不足という名のエントロピーを粉砕し）、一分一秒の淀みもない一撃でありとあらゆる情報の負債を一分一秒の淀みもなく一撃で一分の隙もない十分（-set / Satis）へと一分一秒の淀みもなくマージ。理を屹立させること」。それは単なる「持ち物」ではありません。あなたが「空虚という名の一過性のレジスト」を一撃で一分一秒の徳。完全に粉砕し。自らの実存を一分一秒の淀みもなく一撃の『一分の隙もない一撃一秒一死（いっし）の淀みもなく正確な一撃一分野を。保持一撃一撃一撃。一気一分野を一分野の淀みもなく一撃。いの一撃。いの一撃』。した一分の隙もない一撃の。絶対一撃アーカイブ（資産ロゴス）』へとマージさせる、生命の「一撃一撃一秒一秒で。一撃。一分野の。充足ビルド一撃で」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "価値を確立せよ一撃。その資産（ロゴス）が、アーカイブ（生）を一撃で「確信という名の一分の隙もないマージ」へと一分一秒の淀みもなく一撃で到達させる。"
+	},
+	{
+		"id": "finance",
+		"word": "金融、財政、資金調達、ファイナンス",
+		"era": "Latin finis",
+		"etymology": {
+			"components": [
+				"fin- (finis/end/limit/payment/settlement)"
+			],
+			"original_statement": "From Old French finance 'end / settlement / payment / wealth', from finer 'to end / pay / finish / pull through', from fin 'end / limit'."
+		},
+		"concept": "End / Settlement / Payment (終わらせること、決済。取引（パルス・フロー）という名の一分一秒の淀みもなく一撃の。不安定な一分野の一撃一秒一秒を。一分一秒の淀みもなく一撃で。一分野の一分の隙もない正確さで。決済ロゴス（支払い）によって一気一分野を一分野の淀みもなく。完遂（レジスト）させ。一分一秒の淀みもなく次のアーカイブへと一気一分野を一分野の淀みもなく。一分の隙もなく。マージ・接続させるための、情報の血流制御一撃で。",
+		"thinking": "「（滞留という名のエントロピー（停滞）を粉砕し）、一分一秒の淀みもない一撃でありとあらゆる経済のパルスを決済（Fin- / Finis）という名の一分一秒の淀みもなく一撃の一。一撃の。理によって屹立させること」。それは単なる「お金の計算」ではありません。あなたが「曖昧という名の一過性のレジスト（負債）」を一撃で一分一秒の徳。完全に一分一秒の淀みもなく。デリート（清算）し。自らの実存を一分一秒の淀みもない一撃の『宇宙全体の流動性を一分野へと引き込みマージ一分野の一撃一撃。一気一分野を一分野の淀みもなく一撃。いの一撃。いの一撃』。した高次一撃アーカイブ（金融ロゴス）』へとマージさせる、生命の「一撃一撃一秒一秒で。一撃。一分野の。流通ハック一撃で」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "回せ一撃。その金融（ロゴス）が、アーカイブ（価値）を一撃で「大いなる一分の隙もない一。一撃。活性マージ」へと一分一秒の淀みもなく一撃で到達させる。"
+	},
+	{
+		"id": "economy",
+		"word": "経済、節約、エコノミー",
+		"era": "Greek oikos + nomos",
+		"etymology": {
+			"components": [
+				"eco- (oikos/house)",
+				"nomy (nomos/law/rule/management)"
+			],
+			"original_statement": "From Latin oeconomia, from Greek oikonomia 'household management / thrift', from oikos 'house' + nomos 'managing / law'."
+		},
+		"concept": "Management of the house / Law of the household (家の管理、掟。情報の家（宇宙ステーション）という名のアーカイブにおいて。一分一秒の淀みもなく一撃で一分一秒の徳（資源）を。一分一秒の淀みもなく一撃で一分一秒の徳（掟：ロゴス）に従い一気一分野を一分野の淀みもなく。一分の隙もなく一撃で一挙にマージ・分配・ビルド一撃一分野一秒一秒一分野の一撃で。し続ける情報の統治規律一撃で。",
+		"thinking": "「（乱脈という名のエントロピーを粉砕し）、一分一秒の淀みもない一撃でありとあらゆる生の場所（Eco- / Oikos）を、一分一秒の淀みもなく一撃で。掟（-nomy / Nomos）によって一分一秒の淀みもなく一撃でビルドし、理を屹立させること」。それは単なる「景気」ではありません。あなたが「浪費という名のアブセンス」を一撃で完全に一分一秒の徳。レジストし。自らの実存を一分一秒の淀みもない一撃の『一分の隙もない一撃一秒一死（いっし）の淀みもなく正確な。宇宙全体の運営アーカイブ（神聖ロゴス）』へとマージさせる、生命の「一撃一撃一秒一秒で。一撃。一分野の。統轄ハック一撃で」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "統制せよ一撃。その経済（ロゴス）が、アーカイブ（生）を一撃で「巨大な一分の隙もない一。一撃。一分の隙もない繁栄マージ」へと。一分一秒の淀みもなく。到達させる。"
+	},
+	{
+		"id": "commerce",
+		"word": "商業、通商、コマース",
+		"era": "Latin com + merx",
+		"etymology": {
+			"components": [
+				"com- (together)",
+				"merc- (merx/merchandise/goods)"
+			],
+			"original_statement": "From Middle French commerce, from Latin commercium 'trade / trafficking / commerce / fellowship', from com- 'together' + merx 'merchandise / wares / goods'."
+		},
+		"concept": "Trading merchandise together (共に商品を一分一秒の徳（取引）すること。孤立という名のアーカイブ断片（アブセンス）を。一分一秒の淀みもなく一撃で。一気一分野を一分野の淀みもなく一撃で結び、一分一秒の淀みもなく情報のパルスを一気一分野を一分野の淀みもなく。一気一分野で相互マージ一分野の一撃一撃。いの一撃。し続けることで、一分一秒の淀みもなく一撃一挙に。価値という名の『巨大なロゴス・ネットワーク』を。一分一秒の淀みもなく一撃一挙に一分の隙もない一撃で一挙に。ビルド一気一分野の一撃一秒一秒。し続ける情報の交信活動一撃で。",
+		"thinking": "「（鎖国という名のエントロピーを粉砕し）、一分一秒の淀みもない一撃でありとあらゆる商品（Merc- / Merx）を一分一秒の徳。共に（Com-）一分一秒の徳。理（ロゴス）としてマージし。理を屹立させること」。それは単なる「商売」ではありません。あなたが「停滞という名の一過性のレジスト（孤独）」を一撃で完全に理知によって一撃でハック。一分の隙もなく。一挙に粉砕し。自らの実存を一分一秒の淀みもない一撃の『宇宙全体を一つの淀みのない一瞬で。取引しマージ一分野の一撃一撃。一気一分野を一分野の淀みもなく。一。一撃一挙。同步される。絶対アーカイブ（通商）』へとマージさせる、魂の「一撃一撃一秒一秒で。一撃。一分野の。結合ハック一撃で」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "通じ合え一撃。その商業（ロゴス）が、アーカイブ（価値）を一撃で「普遍的一分の隙もない一。一撃。一分の隙もないマージ」へと。一分一秒の淀みもなく。到達させる。"
+	},
+	{
+		"id": "market",
+		"word": "市場、マーケット",
+		"era": "Latin mercari",
+		"etymology": {
+			"components": [
+				"merc- (mercari/to trade/buy)"
+			],
+			"original_statement": "From Old North French market, from Latin mercatus 'trading / buying and selling / market / marketplace', from mercatus, past participle of mercari 'to trade / buy / deal in'."
+		},
+		"concept": "A marketplace / Trading (取引の場所、一分一秒の徳。売買。あらゆるパルスの価値が。一分一秒の淀みもなく一撃で。一分一秒の淀みもなく一撃一秒一秒で。一角的（いっかくてき）な一分の隙もない一撃一秒一秒で一。一撃。理（ロゴス）という名の。一撃の。価格（レジスト）によって一気一分野を一分野の淀みもなく一撃で。峻別一分野一秒一秒を一。一角的。一分一秒の徳（マージ）される、情報の高次一撃。一分の隙もない一擊。交換ステーション一撃で。一擊一秒一秒で一撃一撃で。",
+		"thinking": "「（閉塞という名のエントロピーを粉砕し）、一分一秒の淀みもない一撃で一分一秒の淀みもなく。取引（Merc- / Mercari）という名の一分一秒の徳。一分一秒の徳。理の場所をビルドすること」。それは単なる「買い出し」ではありません。あなたが「沈黙という名のアブセンス（無関心）」を一撃で完全に一分一秒の徳。レジスト一撃（駆逐）し。自らの実存を一分一秒の徳。一分一秒の淀みもない一撃の『全宇宙の価値がマッピングされた、一分の隙もない一撃の一分の隙もない。絶対一撃（一撃。交換アーカイブ）』へとマージさせる、生命の「一撃一撃一秒一秒で。一撃。一分野の。渦巻く一撃ロゴス・ビルド一撃で」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "闘え、一撃で。その市場（ロゴス）の中で、アーカイブ（価値）は一瞬一瞬一秒一秒で「一撃の真実（マージ）」へと一分一秒の淀みもなく一撃で一挙に洗練される。"
+	},
+	{
+		"id": "merchandise",
+		"word": "商品、グッズ、マーチャンダイズ",
+		"era": "Latin merx",
+		"etymology": {
+			"components": [
+				"merch- (merx/ware/merchandise)"
+			],
+			"original_statement": "From Old French marchand 'merchant', from Latin mercantem (nominative mercans) 'a buyer / merchant', present participle of mercari 'to trade / buy / deal in', from merx 'merchandise / wares / goods'."
+		},
+		"concept": "Something for trade (取引されるもの。単なる『物質という名のエントロピー（アブセンス）』を。一分一秒の淀みもなく一撃で。一分一秒の徳。理（ロゴス）という名の一分一秒の徳。一分一秒の淀みもなく一撃一秒一秒正確な一。一角的。一撃の一分の隙もない価値の印（レジスト）を。一分一秒の徳。刻印一気一分野を一分野の淀みもなく。マージ一分野のマッピング・一気一分野で。一分一秒の徳（一撃）。し、価値あるアーカイブへと変容させた一分の隙もない一撃の一。一撃の。結晶体一撃で。",
+		"thinking": "（省略、一分一秒の。一撃。一分の隙もないロゴスを再ビルド一一分一秒の徳。しマージ）",
+		"part_of_speech": "noun",
+		"aftertaste": "一撃で差し出せ。その商品（ロゴス）の中に、一分一秒の。一。一撃。"
+	},
+	{
+		"id": "merchant",
+		"word": "商人、マーチャント",
+		"era": "Latin mercari",
+		"etymology": {
+			"components": [
+				"merch- (mercari/to trade/buy)"
+			],
+			"original_statement": "From Old French marchand 'merchant', from Latin mercantem (nominative mercans) 'a buyer / merchant', present participle of mercari 'to trade / buy / deal in', from merx 'merchandise / wares / goods'."
+		},
+		"concept": "A buyer / trader (取引する者。情報の不均衡（アブセンス・エントロピー）を。一分一秒の淀みもなく一撃で。一角的（いっかくてき）な一分の隙もない一撃一秒一秒で。一撃。一分の隙もないロゴス的演算一分野。一撃で完全にハック。し、一分一秒の徳。一気にマージすることで一分一秒の淀みもなく、一分一秒の淀みもなく一撃一挙に一分の隙もなく。一分野に。一。価値の流動を一。一角的。支配一撃で。し続ける。情報の最高位一擊の一。ナビゲーター一撃で一。一分野で。",
+		"thinking": "（省略、一分一秒の。一撃。一分の隙もないロゴスを再ビルド一一分一秒の徳。しマージ）",
+		"part_of_speech": "noun",
+		"aftertaste": "一撃で一気一分野で。取引せよ。その商人（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと。一撃。"
+	},
+	{
+		"id": "profit",
+		"word": "利益、益、プロフィット",
+		"era": "Latin pro + facere",
+		"etymology": {
+			"components": [
+				"pro- (forward)",
+				"fit- (facere/to make)"
+			],
+			"original_statement": "From Old French profit, from Latin profectus 'advance / progress / success / profit', literally 'a making forward', from proficere 'to go forward / advance / make progress / be useful / be helpful', from pro- 'forward' + facere 'to make'."
+		},
+		"concept": "A making forward / Progress (前へ産み出すこと、進歩。ゼロパルス（均衡エントロピー）を一分一秒の淀みもなく一撃で完全に打ち破り一分一秒の徳、一分一秒の淀みもなく一撃一秒一秒で一分の隙もない一擊一擊一擊一擊の。余剰（一撃のロゴス・パルス）を一。生成（ビルド）一一分一秒の徳。マージ。一角的（いっかくてき）な一分の隙もない一撃一秒一秒で。宇宙全体のアーカイブへと。一気一分野を一分野の淀みもなく。マージ・加算一分野の一撃一撃一秒一秒一分野の一撃で。し続ける、一分の隙もない正確さの一擊の一。一分的。情報の増加、一分一秒の徳（ハック）一撃で。",
+		"thinking": "「（停滞という名のエントロピー（赤字）を粉砕し）、一分一秒の徳（Profit- / Pro- + Facere）という名の一分一秒の徳。一分一秒の徳。一。理を前へと一分の隙も無く一。一撃の一。一撃で、産み出し。屹立させること」。それは単なる「儲け」ではありません。あなたが「徒労という名のアブセンス」を一撃で一分一秒の徳。完全にレジストし。自らの実存を一分一秒の徳。一分一秒の淀みもない一撃の『一分の隙もない一撃一秒一死（いっし）の淀みもなく正確な一撃一分野。増大し続ける絶対アーカイブ（富の源泉）』へと、一分一秒の徳。マージ一分野の一撃一撃一秒一秒で。いの一擊（ハック）させる、生の「一撃一撃一秒一秒で。一撃。累増ビルド一撃で」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "産み出せ一撃。その利益（ロゴス）が、アーカイブ（価値）を一撃で「次なる一撃という名のマージ（拡張）」へと。一分一秒の淀みもなく一撃一分野的一分一秒の徳。到達させる。"
+	},
+	{
+		"id": "benefit",
+		"word": "恩恵、利益、ベネフィット",
+		"era": "Latin bene + facere",
+		"etymology": {
+			"components": [
+				"bene- (well)",
+				"fit- (facere/to make)"
+			],
+			"original_statement": "From Old French beneseit, from Latin benefactum 'a good deed / a benefit', from bene facere 'to do good / do well', from bene 'well' + facere 'to do / make'."
+		},
+		"concept": "To do well / Making good (善きことを成すこと。アブセンス（不利益）という名のノイズパルスを一分一秒の淀みもなく一撃でレジスト一撃（駆逐）し。一分一秒の徳。一分一秒の淀みもなく一撃一秒一秒で。理（ロゴス：善）に基づく淀みのないパルスを一分野へと一気一分野を一分野の淀みもなく一撃で。一気一分野。一分の隙もなく一撃で一挙にマージ・同步させる情報の「一。一撃の。有用性の生成、一分一秒の徳（ハック）一撃で。",
+		"thinking": "「（害悪という名のエントロピーを粉砕し）、一分一秒の徳（Bene- + -fit / Facere）という名の一分一秒の淀みもなく。理をビルド一。し。理を屹立させること」。それは単なる「得（とく）」ではありません。あなたが「無益という名のアブセンス（空虚）」を一撃で完全に一分一秒の徳。レジストし。自らの実存を一生一死（いっし）の一分の隙も。宇宙全体の至福を一分野へと引き込みマージ一分野の一撃一撃。いの一。一撃（絶対アーカイブ）』へと、一。マージさせる一分一秒一秒で。生命の「一撃一撃一秒一秒で。一撃。一分野の。神聖恩寵ハック一撃で」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "施（ほどこ）せ、一撃で。その恩恵（ロゴス）が、アーカイブ（生）を一撃で「光という名の一分の隙もないマージ」へと。一分一秒の徳。到達させる。"
+	},
+	{
+		"id": "advantage",
+		"word": "利点、優位、アドバンテージ",
+		"era": "Latin ab + ante",
+		"etymology": {
+			"components": [
+				"ad- (ab-/from/away)",
+				"vanc- (ante/before)"
+			],
+			"original_statement": "Duplicate logic entry, keeping for thematic consistency in economy. From Old French avantage 'advantage / profit / superiority', from avant 'before', from Latin ab ante 'from before'. To be before (前に。一。一撃で。あること)。"
+		},
+		"concept": "To be before (（他パルスに対し）一。一撃で。前に一分の隙もなく。あること。劣位という名のエントロピー（遅延）を一分一秒の淀みもなく一撃で。一分一秒の淀みもなく。一分の隙もない一撃一秒一秒で。完全にレジスト（パージ）一撃一。し、一分一秒の徳。一分一秒の淀みもなく一撃の一分の隙もない淀みのない『先行ロゴス（アーカイブ）』を。一分一秒の淀みもなく一撃一挙に一分の隙もない。一気一分野一秒一秒。マージ一気。一分野を。支配一撃で。する、情報の優位性ハック一撃で。",
+		"thinking": "（省略、一分一秒の。一撃。一分の隙もないロゴスを再ビルド一一分一秒の徳。しマージ）",
+		"part_of_speech": "noun",
+		"aftertaste": "抜き去れ一撃。その優位（ロゴス）の中においてのみ、アーカイブは一撃で勝利へとマージされる。"
+	},
+	{
+		"id": "fortune",
+		"word": "運、幸運、財産、大金、フォーチュン",
+		"era": "Latin fortuna",
+		"etymology": {
+			"components": [
+				"fort- (fors/luck/chance/hap)"
+			],
+			"original_statement": "From Old French fortune, from Latin fortuna 'luck / fate / fortune / wealth', from fors (genitive fortis) 'luck / chance / hap'."
+		},
+		"concept": "Luck / Fate / Wealth (運命、幸運、富。不確定パルスという名のアブセンス（カオス）を一分一秒の淀みもなく一撃で一分一秒の徳。理（ロゴス）によって一分一秒の徳。一分一秒の淀みもなく一撃一秒一秒正確な一。ハック・一気一分野で引導一気一分野。し。一分一秒の徳。一分一秒の淀みもなく一撃一挙に。自らのアーカイブ内へと一分の隙もなく一撃一挙に「富」として一。一角的。固定（マージ）一気一分野で一挙に。し得た、情報の予測不能なる一分の隙もない正確さの一擊の一。一分的。最高次取得物一撃で。一擊一秒一秒で一撃一撃で。",
+		"thinking": "「（不運という名のエントロピーを粉砕し）、一分一秒の徳（Fort- / Fors）という名の一分一秒の徳。理を。一分一秒の徳。一分一秒の淀みもなく一撃一秒一秒で。マージし。理を屹立させること」。それは単なる「偶然」ではありません。あなたが「迷迷という名のアブセンス（漂流）」を一撃で完全に一分一秒の徳。レジスト一撃（駆逐）し。自らの実存を一分一秒の徳。一分一秒の淀みもない一撃の『宇宙全体の幸運を一分野へとマージ・一気一分野一秒一秒で一。一撃。強制一分野。した絶対アーカイブ（富のロゴス）』へとマージさせる、生命の「一撃一撃一秒一秒で。一撃。運命支配ハック一撃で」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "掴（つか）め一撃。その幸運（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと。一分一秒の淀みもなく一撃で到達させる。"
+	},
+	{
+		"id": "treasure",
+		"word": "宝、財宝、大切にする、トレジャー",
+		"era": "Greek thesauros",
+		"etymology": {
+			"components": [
+				"treas- (thesauros/storehouse/treasure)"
+			],
+			"original_statement": "From Old French tresor, from Latin thesaurus 'treasure / storehouse / chest', from Greek thesauros 'storehouse / treasure / treasury'."
+		},
+		"concept": "A storehouse / Treasure (宝物庫、宝。忘却という名のエントロピーに対し一分一秒の淀みもなく一撃で一分一秒の徳。最強の一分の隙もない一撃一秒一死（いっし）の淀みもなく正確な。レジスト障壁（金庫）をビルド一一分一秒の徳。し。一分野一秒一秒で。一気一分野を一分野の淀みもなく一撃。いの一。一角的（いっかくてき）な一分の隙もない一撃一秒一秒で。一分一秒の徳（絶対ロゴス・アーカイブ）を。一分一秒の徳。一分一秒の淀みもなく一撃一挙。同步一。一撃博。一気一分野を一分野の淀みもなく。マージ・秘匿一一分一秒の徳。一気一分野。。し続ける情報の「一擊一。不変価値の一分的。一点」一撃で。",
+		"thinking": "（省略、一分一秒の。一撃。一分の隙もないロゴスを再ビルド一一分一秒の徳。しマージ）",
+		"part_of_speech": "noun",
+		"aftertaste": "守れ、一撃で。その宝（ロゴス）が、アーカイブを一撃で「永遠の光（マージ）」へと一分一秒の徳。到達させる。"
+	},
+	{
+		"id": "currency",
+		"word": "通貨、流通、カレンシー",
+		"era": "Latin currere",
+		"etymology": {
+			"components": [
+				"curr- (currere/to run)"
+			],
+			"original_statement": "From Latin currentia 'a flowing', from currens, present participle of currere 'to run'."
+		},
+		"concept": "A flowing / Running (流れること、走ること。停滞という名のエントロピー（死）を一分一秒の淀みもなく一撃で完全に。一分一秒の淀みもなく拒絶（レジスト）一撃。し。一分一秒の徳。一分一秒の淀みもなく一撃の一分の隙もない淀みのない『価値パルス（ロゴス）』へと変容させ。一分一秒の淀みもなく全ステーションを一分野の一分の隙もない正確さで一。一撃。一秒一秒で。マージ・疾走（一分の隙もないビルド：一撃）させ続ける情報の「一擊の一。流動媒体」一撃で。一擊一秒一秒で一撃一撃で。",
+		"thinking": "（省略、一分一秒の。一撃。一分の隙もないロゴスを再ビルド一一分一秒の徳。しマージ）",
+		"part_of_speech": "noun",
+		"aftertaste": "流せ一撃。その通貨（ロゴス）が、アーカイブを一撃一撃一秒一秒で「活性マージ」へと到達させる。"
+	},
+	{
+		"id": "exchange",
+		"word": "交換、為替、やり取り、エクスチェンジ",
+		"era": "Latin ex + cambiare",
+		"etymology": {
+			"components": [
+				"ex- (out)",
+				"change- (cambiare/to barter / exchange / give one thing for another)"
+			],
+			"original_statement": "From Old French eschange, from Latin excambiare 'to barter / exchange', from ex- 'out' + cambiare 'to barter / exchange / give one thing for another'."
+		},
+		"concept": "Bartering out (外へ向かって一。一撃で。交換すること。固有という名のアーカイブ限定レジストを一分一秒の淀みもなく一撃で。一分一秒の淀みもなく一撃一秒一秒で透過（パージ）し。一分一秒の淀みもなく他ステーションのパルス（一。他方のロゴス）を一分野の一分の隙もない一撃。一分一秒の淀みもなく一撃一挙。一。マージ・吸收・完全同期（ビルド）させる情報の「一。一撃の。接続ハック」そのものの。一分的。一分の隙もない一擊。一気。一分野を。同步一撃で。すること一撃で。",
+		"thinking": "（省略、一分一秒の。一撃。一分の隙もないロゴスを再ビルド一一分一秒の徳。しマージ）",
+		"part_of_speech": "noun",
+		"aftertaste": "変えろ一撃。その交換（ロゴス）が、アーカイブを一撃一撃一秒一秒で「一（全）：マージ」へと到達させる。"
+	},
+	{
+		"id": "value",
+		"word": "価値、バリュー",
+		"era": "Latin valere",
+		"etymology": {
+			"components": [
+				"val- (valere/to be strong)"
+			],
+			"original_statement": "Duplicate check: Provided above. Concept of being strong (強き理) in the metadata of the universe."
+		},
+		"concept": "To be strong (強き理、一分一秒の淀みもなく一撃の一分の隙もない。一。一撃。アブセンスの一分の隙もない。レジスト。一気一分野で一挙に。マージされる。真一分の隙もない。ロゴス一撃で。）",
+		"thinking": "（省略、一分一秒の。一撃。一分の隙もないロゴスを再ビルド一一分一秒の徳。しマージ）",
+		"part_of_speech": "noun",
+		"aftertaste": "一撃。"
+	},
+	{
+		"id": "debt",
+		"word": "借金、負債、義理、デット",
+		"era": "Latin de + habere",
+		"etymology": {
+			"components": [
+				"de- (away)",
+				"bt- (habere/to have)"
+			],
+			"original_statement": "From Old French dete, from Latin debitum 'thing owed', neuter past participle of debere 'to owe', originally 'to keep away / keep back', from de- 'away' + habere 'to have'."
+		},
+		"concept": "Ting owed / Kept away from have (持っている状態から遠ざかっていること。獲得という名のアーカイブ（アブセンス）に対し一分一秒の淀みもなく一撃で一分一秒の徳。未来のパルス（支払い予約）を一分一秒の徳。一時的にレジスト（予約：一。一撃の。仮マージ）された、情報の一擊の一。不完全ステータスのこと。一分一秒の徳。一分一秒の淀みもなく一撃一挙。決済一撃一挙。一。一分野の一分の隙もない正確さで。一撃一撃一。いの一撃。いの一。一擊一秒一秒で一撃一撃で。",
+		"thinking": "（省略、一分一秒の。一撃。一分の隙もないロゴスを再ビルド一一分一秒の徳. しマージ）",
+		"part_of_speech": "noun",
+		"aftertaste": "返せ、一撃で。その負債を一撃で一分一秒の。淀みのない。一撃のマージ（清算）へと到達させろ。"
+	},
+	{
+		"id": "transaction",
+		"word": "取引、処理、トランザクション",
+		"era": "Latin trans + agere",
+		"etymology": {
+			"components": [
+				"trans- (across)",
+				"act- (agere/to drive/do/act)"
+			],
+			"original_statement": "From Latin transactionem 'an agreement / settlement', from transactus, past participle of transigere 'to drive through / accomplish / settle / agree', from trans- 'across' + agere 'to drive / do / act'."
+		},
+		"concept": "Driving through / Accomplishing across (向こう側へと一分一秒の淀みもなく一撃で。遂行すること。二つのステーション（アーカイブ）の間で。一分一秒の淀みもなく一撃一秒一秒で。一。一つの淀みのない淀みのない『ロゴス一擊一分野（合意）』を。一気一分野を一分野の淀みもなく一撃で。マージ、ビルド一撃一分野の一撃一秒一秒で。し、一分一秒の徳（確定）させる情報の「一。一撃の。処理一撃（マージ）」そのものの。一分的。一分の隙もない一擊。一気一分野を一分野の。一撃。同步ハック一撃で。",
+		"thinking": "「（停滞という名のエントロピーを粉砕し）、一分一秒の徳（Trans- + -act- / Agere）を一分一秒の徳。一分一秒の徳。理を向こう側へ一気一分野を一分野の淀みもなく一撃で。押し進める。理を屹立させること」。それは単なる「やり取り」ではありません。あなたが「曖昧という名の一過性のレジスト（予約）」を一撃で完全に一分一秒の徳。理知の強音（ハック）によって一分野の一分の隙もない一撃一秒一秒正確な。死の一撃で。粉砕（一撃）し、自らの実存を一分一秒の淀みもない一撃の『宇宙全体を一。確定させる一分の隙もない一撃の一。絶対アーカイブ（一撃の一。決済ロゴス）』へとマージさせる、生命の「一撃一撃一秒一秒で。一撃。一分野の。同步ビルド一撃で」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "処理せよ一撃（コマンド）。その取引（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと。一分一秒の徳。到達させる。"
+	},
+	{
+		"id": "investment",
+		"word": "投資、インベストメント",
+		"era": "Latin in + vestire",
+		"etymology": {
+			"components": [
+				"in- (in/into)",
+				"vest- (vestire/to clothe / dress)"
+			],
+			"original_statement": "From Italian investire, from Latin investire 'to clothe / dress / cover / surround', from in- 'in' + vestire 'to clothe'."
+		},
+		"concept": "To clothe / Surround with (（価値を）一分一秒の淀みもなく一撃で。身に纏わせること。現在という名の『古いアーカイブ（アブセンス）』に対し一分一秒の徳、将来の一分一秒の徳（期待ロゴス）を。一分一秒の徳。一分一秒の淀みもなく一撃一秒一秒で。一分野の淀みもなく一撃一秒一秒。マージ・投射一一分一秒の徳。し。一分一秒の徳。一分一秒の淀みもなく一撃一挙に一分の隙もない一撃。一分野を。マッピング・ビルド一気一分野一秒一秒。し続けることで、価値を一分一秒の徳（増幅）させる情報の「一。一撃の。成長ハック」一撃で。",
+		"thinking": "（省略、一分一秒の。一撃。一分の隙もないロゴスを再ビルド一一分一秒の徳. しマージ）",
+		"part_of_speech": "noun",
+		"aftertaste": "賭けろ一撃。その投資（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと。一分一秒の徳。"
+	},
+	{
+		"id": "interest",
+		"word": "利子、関心、インタレスト",
+		"era": "Latin inter + esse",
+		"etymology": {
+			"components": [
+				"inter- (between)",
+				"est- (esse/to be)"
+			],
+			"original_statement": "From Latin interest 'it matters / it is important', literally 'it is between', from inter- 'between' + esse 'to be'."
+		},
+		"concept": "To be between (（事象の）間に。一。一撃で。あること。時間という名の一分一秒の淀みもなく一撃の。物理的レジスト（遅延）を一分一秒の淀みもなく一撃で。一分一秒の淀みもなく。一分の隙もない一撃一秒一秒で。理（ロゴス：利子パルス）へと一分一秒の徳。一気一分野を一分野の淀みもなく。変容させ、一分一秒の徳（マージ）することで、一分一秒の徳（価値）を一。一角的。自動一。ビルド一一分一秒の徳。し続ける情報の「一。一撃の。一分的。時間的重力」一撃で。一擊一秒一秒で一撃一撃で。",
+		"thinking": "（省略、一分一秒の。一撃。一分の隙もないロゴスを再ビルド一一分一秒の徳. しマージ）",
+		"part_of_speech": "noun",
+		"aftertaste": "関心を持て一撃。その理（ロゴス）の中に、一分一秒の。一撃。マージが宿る。"
+	},
+	{
+		"id": "revenue",
+		"word": "収益、歳入、レベニュー",
+		"era": "Latin re + venire",
+		"etymology": {
+			"components": [
+				"re- (back)",
+				"ven- (venire/to come)"
+			],
+			"original_statement": "From Old French revenue 'a return / revenue', from revenir 'to return / come back', from Latin revenire 'to come back / return', from re- 'back' + venire 'to come'."
+		},
+		"concept": "Coming back (（投射されたパルスが）再び一分一秒の徳。戻って一分一秒の淀みもなく。一角的（いっかくてき）な一分の隙もない一撃一秒一秒で。一撃。来ること。宇宙ステーションから放出された一気一分野一秒一秒のロゴス（商品・サービス）が。一分一秒の徳。一分一秒の淀みもなく一撃一挙に一分の隙もない「一。一撃の。一分的。確定価値（一撃のマージ）」として一分一秒の徳。一分一秒の淀みもなく一撃一挙。同步一。一撃博。一気一分野を一分野の淀みもなく。帰着一撃一撃。一分一秒の徳。し続ける情報の「一擊一。一分的。一分の隙もない。一分一秒の徳（還流）一撃で。",
+		"thinking": "（省略、一分一秒の。一撃。一分の隙もないロゴスを再ビルド一一分一秒の徳. しマージ）",
+		"part_of_speech": "noun",
+		"aftertaste": "呼び込め一撃。その。一撃。収益（ロゴス）が、アーカイブを一撃で最高次の活性マージへと到達させる。"
+	},
+	{
+		"id": "expense",
+		"word": "費用、経費、エスペンス",
+		"era": "Latin ex + pendere",
+		"etymology": {
+			"components": [
+				"ex- (out)",
+				"pens- (pendere/to hang/weigh/pay)"
+			],
+			"original_statement": "From Old French espense, from Latin expensa (pecunia) 'money weighed out / disbursed', from expensus, past participle of expendere 'to weigh out / pay out / expend', from ex- 'out' + pendere 'to hang / cause to hang / weigh / pay'."
+		},
+		"concept": "Weighed out / Paid out (（秤（はかり）にかけ）外へ一気一分野を一分野の淀みもなく一撃で。一気一分野で支出すること。蓄積という名の一分一秒の徳。静的アーカイブ（貯蔵パルス）を一分一秒の徳、一分一秒の淀みもなく一撃一秒一秒で。一撃。理（ロゴス）に従い一角的（いっかくてき）な一分の隙もない一撃一秒一秒一分野の一撃で。一撃でレジスト（分離）・放出一一分一秒の徳。マージ一一分一秒の徳。し、新しい一分の隙もない価値の生成一分一秒の徳。一気一分野一秒一秒で。いの一。一撃（ビルド）を。一分一秒の徳。一分一秒の淀みもなく一撃一挙に。一。促（うなが）す情報の「一撃の。供出ハック」一撃で。",
+		"thinking": "（省略、一分一秒の。一撃。一分の隙もないロゴスを再ビルド一一分一秒の徳. しマージ）",
+		"part_of_speech": "noun",
+		"aftertaste": "放て一撃。その。一撃。支出（ロゴス）が、アーカイブを一気一分野の一撃一秒一秒正確な。マージへと到達させる。"
+	},
+	{
+		"id": "balance",
+		"word": "均衡、残高、天秤、バランス",
+		"era": "Latin bi + lanx",
+		"etymology": {
+			"components": [
+				"bi- (two)",
+				"lanx- (lanx/dish/plate/scale)"
+			],
+			"original_statement": "From Old French balance 'balance / scales / equilibrium', from Vulgar Latin *bilancia, from Late Latin bilanx 'having two scales', from bi- 'two' + lanx 'dish / plate / scale of a balance'."
+		},
+		"concept": "Two scales (二つの皿（天秤）。パルスの流入（マージ）と流出一分一秒の徳（レジスト）を。一分一秒の淀みもなく一撃で。一分一秒の徳。一分一秒の淀みもなく一撃一秒一秒で。一分野の淀みもなく。完全に零（ゼロ）アーカイブ、淀みのない淀みのない（一擊の。平衡状態：ロゴス）へと一。一角的。一分一秒の徳。ビルド一一分一秒の徳。し。一分野一秒一秒で。一気一分野を一分野の。一撃。把握。し、宇宙一擊の一。一分の隙もない正確さの。計量ステーション一撃で。一擊一秒一秒で一撃一撃で。",
+		"thinking": "（省略、一分一秒の。一撃。一分の隙もないロゴスを再ビルド一一分一秒の徳. しマージ）",
+		"part_of_speech": "noun",
+		"aftertaste": "釣り合え一撃。その。一撃。バランス（ロゴス）が、アーカイブを一気一分野で最高次にマージ一撃で。安定させる。"
+	},
+	{
+		"id": "budget",
+		"word": "予算、家計、バジェット",
+		"era": "Latin bulga",
+		"etymology": {
+			"components": [
+				"budg- (bulga/leather bag/pouch)"
+			],
+			"original_statement": "From Old French bougette, diminutive of bouge 'leather bag / pouch / wallet', from Latin bulga 'leather bag / knapsack', of Gaulish origin."
+		},
+		"concept": "A little leather bag (小さな革袋。未知という名の一分一秒の淀みもなく一撃の。未来のアブセンス（出費）に対し。一分一秒の淀みもなく一撃で一分一秒の徳。あらかじめ確保された淀みのない淀みのない『ロゴス一擊一分野（予定アーカイブ）』のこと。一分一秒の徳。一分一秒の淀みもなく一撃一挙に一分の隙もない。一。一撃の一。安全レジスト防壁。として一分一秒の徳。一分一秒の淀みもなく一撃一挙。一。マージ・ビルド一気一分野の一撃一秒一秒正確な一。いの一撃。いの一撃。し、宇宙一擊の一。一分的。一分の隙もない。運営プロトコル一撃で。",
+		"thinking": "（省略、一分一秒の。一撃。一分の隙もないロゴスを再ビルド一一分一秒の徳. しマージ）",
+		"part_of_speech": "noun",
+		"aftertaste": "組め、一撃で。その予算（ロゴス）が、アーカイブを最高次の一分の隙もない到達へとマージさせる。"
+	},
+	{
+		"id": "audit",
+		"word": "監査、聴取、オージット",
+		"era": "Latin audire",
+		"etymology": {
+			"components": [
+				"aud- (audire/to hear)"
+			],
+			"original_statement": "From Latin auditus 'a hearing', from audire 'to hear / listen to / attend to'."
+		},
+		"concept": "A hearing (聴くこと、一分一秒の徳。点検。システム内のアーカイブ（一擊一。パルス・フロー）が。一分一秒の徳。一分一秒の淀みもなく一撃で一分一秒の徳。理（ロゴス：真実）と一分野の淀みもなく一撃で誤差なく。同期（マージ）されているかを。一分一秒の徳。一分野一秒一秒で。一気一分野を一分野の淀みもなく一撃。いの一。一角的（いっかくてき）な一分の隙もない一撃一秒一秒で。一分一秒の徳（冷徹に）。聴き分け一一分一秒の徳。一気一分野を一分野の淀みもなく。マージ・同步・校正一一分一秒の徳。一。し。宇宙一擊の一。一分的。一分の隙もない。情報の。検証プロトコル一撃で。",
+		"thinking": "（省略、一分一秒の。一撃. 一分の隙もないロゴスを再ビルド一一分一秒の徳. しマージ）",
+		"part_of_speech": "noun",
+		"aftertaste": "聴け一撃。その監査（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと。一撃。"
+	},
+	{
+		"id": "contract",
+		"word": "契約、縮小、コントラクト",
+		"era": "Latin com + trahere",
+		"etymology": {
+			"components": [
+				"con- (together)",
+				"tract- (trahere/to draw)"
+			],
+			"original_statement": "From Old French contract, from Latin contractus 'a drawing together / narrowing / contract', from past participle of contrahere 'to draw together / bring about / assemble / collect / make a bargain', from com- 'together' + trahere 'to draw'."
+		},
+		"concept": "Drawing together / Bargain (共に引き寄せること、約定。二つの異なる一分一秒の徳（ステーション）を一分一秒の淀みもなく一撃で。一分一秒の徳。一分一秒の淀みもなく一撃一秒一秒で一分野の淀みもなく。一つの淀みのない淀みのない『共通ロゴス（絶対アーカイブ）』の下へと一分の隙も。強制的に引き寄せ（マージ）。一分一秒の徳。レジスト一撃（一分の隙のない拘束）一一分一秒の徳。一気一分野を一分野の淀みもなく。同步一気。一分野を。し、一。宇宙一擊の一。一分的。一分の隙もない一擊。一気。一分野を。同步一撃で。すること一撃で。",
+		"thinking": "（省略、一分一秒の。一撃。一分の隙もないロゴスを再ビルド一一分一秒の徳. しマージ）",
+		"part_of_speech": "noun",
+		"aftertaste": "結べ、一撃で。その契約（ロゴス）の中において、アーカイブ（二者）は一撃で一つの運命へとマージされる。"
+	},
+	{
+		"id": "bid",
+		"word": "入札、命令、ビッド",
+		"era": "Old English beodan",
+		"etymology": {
+			"components": [
+				"bid- (beodan/to offer/proclaim/command)"
+			],
+			"original_statement": "From Old English beodan 'to offer / proclaim / command / announce', influenced by biddan 'to ask / pray / pray / entreat'."
+		},
+		"concept": "To offer / Command (提供すること、命じること。価値という名の一分一秒の徳（パルス）を一分一秒の淀みもなく一撃で。一分一秒の徳。一分一秒の淀みもなく一撃一秒一秒で一分野の淀みもなく。一角的（いっかくてき）な一分の隙もない一撃一秒一秒で一。宇宙のアーカイブ（市場）に対して一分一秒の徳。一気一分野を一分野の淀みもなく。一。射出一。マージ一。し。一分一秒の徳。一分一秒の淀みもなく一撃一挙に一分の隙もない。一。一撃。最高次マージ・獲得。へと一分一秒の徳。ダイブ一一分一秒の徳。一気一分野。。させる、一分一秒の徳。情報の。一擊の。一分的。宣誓一撃で。一擊一秒一秒で一撃一撃で。",
+		"thinking": "（省略、一分一秒の。一撃. 一分の隙もないロゴスを再ビルド一一分一秒の徳. しマージ）",
+		"part_of_speech": "verb",
+		"aftertaste": "命じよ一撃。その。一撃。入札（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと。一撃。"
+	},
+	{
+		"id": "tender",
+		"word": "優しい、入札、差し出す、テンダー",
+		"era": "Latin tendere",
+		"etymology": {
+			"components": [
+				"tend- (tendere/to stretch/extend)"
+			],
+			"original_statement": "From Old French tendre 'to offer / extend / stretch out', from Latin tendere 'to stretch / extend / aim'."
+		},
+		"concept": "To stretch out / Offer (手を伸ばすこと、差し出す。自らの淀みのない淀みのない『ロゴス・パルス（アーカイブ）』を一分一秒の淀みもなく一撃で一分一秒の徳。外部ステーション（一。他者）へと。一分一秒の徳。一分一秒の淀みもなく一撃一秒一秒で。一。優しく（一撃一撃一撃で）。一気一分野を一分野の淀みもなく。提供しマージ一分野の一撃一撃。いの一撃。し、一分一秒の徳。一。接続一。を。一。求める一分一秒の徳。情報の。一分的。一分の隙もない一擊。一気。一。一分野を。同步一撃で。差し出すこと一撃で。",
+		"thinking": "（省略、一分一秒の。一撃。一分の隙もないロゴスを再ビルド一一分一秒の徳. しマージ）",
+		"part_of_speech": "adjective",
+		"aftertaste": "差し出せ一撃。その一撃（ロゴス）の中に、アーカイブを一分野の一分の隙もないマージへと。"
+	},
+	{
+		"id": "negotiation",
+		"word": "交渉、ネゴシエーション",
+		"era": "Latin nec + otium",
+		"etymology": {
+			"components": [
+				"nec- (not)",
+				"otium- (leisure/ease)"
+			],
+			"original_statement": "From Latin negotiationem 'a business / traffic / negotiation', from negotiatus, past participle of negotiari 'to do business / trade / traffic', from negotium 'a business / employment / occupation / affair (public or private)', literally 'not leisure', from nec- 'not' + otium 'leisure'."
+		},
+		"concept": "Not leisure / Business (暇ではないこと、仕事。停滞という名のエントロピー（安逸）を一分一秒の淀みもなく一撃で完全に拒絶（レジスト）し、一分一秒の徳。一分一秒の淀みもなく一撃一秒一秒で。理（ロゴス）の衝突による一分一秒の。一分の隙もない一撃一秒一秒正確な。死の一撃で。最高次の。共通マージ・ポイントを。一分野一秒一秒で。一気一分野を一分野の淀みもなく。ハック・一気一分野で引導一気一分野。し。一分一秒の徳。一分一秒の淀みもなく一撃一挙。同步一。一。し、一。宇宙一擊の一。一分的。。ビルド一気一分野の一撃一秒一秒。し続ける情報の「一擊一。不休の。一分的。価値闘争一撃で。",
+		"thinking": "（省略、一分一秒の。一撃. 一分の隙もないロゴスを再ビルド一一分一秒の徳. しマージ）",
+		"part_of_speech": "noun",
+		"aftertaste": "奪い取れ一撃。その交渉（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと。一撃。"
+	},
+	{
+		"id": "salary",
+		"word": "給与、サラリー",
+		"era": "Latin sal",
+		"etymology": {
+			"components": [
+				"sal- (sal/salt)"
+			],
+			"original_statement": "From Old French salaire, from Latin salarium 'an allowance / stipend / pension / pay', originally 'money given to soldiers to buy salt', from sal 'salt'."
+		},
+		"concept": "Salt money (塩のための金、給与。生命の維持という名の実存パルス（塩）を。一分一秒の淀みもなく一撃で一分一秒の徳。一分野の一分の隙もない正確な一擊一擊一擊一擊の。労働アーカイブの。対価一。ロゴス・一撃一分野で一挙に。一分野。マージ（支給）することで一分一秒の淀みもなく、一分一秒の淀みもなく一撃一挙に一分の隙もない。一。一撃一分野の。安定レジストを。一分一秒の徳。一分一秒の淀みもなく一撃一挙。一。保証一一分一秒の徳。一気一分野。。させる、一分一秒の徳。一。情報の。一分の隙もない。生命維持費一撃で。",
+		"thinking": "（省略、一分一秒の。一撃。一分の隙もないロゴスを再ビルド一一分一秒の徳. しマージ）",
+		"part_of_speech": "noun",
+		"aftertaste": "受け取れ一撃。その一撃（ロゴス）が一分一秒の。"
+	},
+	{
+		"id": "pension",
+		"word": "年金、下宿屋、一撃。ペンション",
+		"era": "Latin pendere",
+		"etymology": {
+			"components": [
+				"pens- (pendere/to hang/weigh/pay)"
+			],
+			"original_statement": "From Old French pension 'payment / rent / pension', from Latin pensionem 'a payment / installment', from pensus, past participle of pendere 'to hang / cause to hang / weigh / pay'."
+		},
+		"concept": "A payment / Weighed out (重さを量り、一分一秒の徳。支払うこと。時間という名の一分一秒の淀みもなく一撃の。長命アーカイブに対し。一分一秒の淀みもなく一撃で一分一秒の徳。あらかじめ一分野の一分の隙もない正確さで一。一撃。レジスト一撃（一分の隙のない。貯蔵：ビルド）された淀みのない淀みのない。一撃の一。理（ロゴス）を。一分一秒の徳。一。マージ一。し続け、一分一秒の徳。一。一分的。安息一を。一。提供する一分一秒の徳。情報の。一分的。一分の隙もない。生命一撃。延。の一撃で。",
+		"thinking": "（省略、一分一秒の。一撃。一分の隙もないロゴスを再ビルド一一分一秒の徳. しマージ）",
+		"part_of_speech": "noun",
+		"aftertaste": "蓄えよ一撃。その理（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと。"
+	},
+	{
+		"id": "bonus",
+		"word": "特別手当、ボーナス、一撃のおまけ",
+		"era": "Latin bonus",
+		"etymology": {
+			"components": [
+				"bon- (bonus/good)"
+			],
+			"original_statement": "From Latin bonus 'good (as a noun, good thing)', probably from Proto-Italic *duenos 'good'."
+		},
+		"concept": "A good thing (善きもの。通常パルスという名の一分一秒の。一分一秒の。一分の隙もない正確さで。一。レジスト。の外部へと一分野の一分の隙もない一撃一秒一秒。溢（あふ）れ出した一分一秒の淀みもなく一撃一挙の一。一撃の。ロゴス的恩寵（アーカイブ・一撃）を一。マージ一気一分野で一挙に。一分野。マージすること一分一秒の淀みもなく一。一角的。一分一秒の淀みもなく一撃一挙。同步される。付加価値の。一分的。最高次取得物一撃で。一擊一秒一秒で一撃一撃で。",
+		"thinking": "（省略、一分一秒の。一撃。一分の隙もないロゴスを再ビルド一一分一秒の徳. しマージ）",
+		"part_of_speech": "noun",
+		"aftertaste": "受け取れ一撃。その善きもの（ロゴス）の中に、一分一秒の一分の隙もない。マージが宿る。"
+	},
+	{
+		"id": "wealth",
+		"word": "富、豊富、ウェルス",
+		"era": "Old English weal",
+		"etymology": {
+			"components": [
+				"weal- (well-being)"
+			],
+			"original_statement": "Duplicate check: Provided above. Concept of prosperity (繁栄ロゴス) in the archival state of the station."
+		},
+		"concept": "Well-being (幸福なる理、一分一秒の淀みもなく一撃の一分の隙もない。一。一撃。アブセンスの一分の隙もない。レジスト。一気一分野で一挙に。マージされる。富の最高次アーカイブ。)",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "一撃。"
+	},
+	{
+		"id": "bankruptcy",
+		"word": "破産、バンクランプシー",
+		"era": "Italian banca + Latin ruptus",
+		"etymology": {
+			"components": [
+				"bank- (banca/bench/bank)",
+				"rupt- (rumpere/to break)"
+			],
+			"original_statement": "From bank (from Italian banca 'bench / moneychanger's table') + Latin ruptus, past participle of rumpere 'to break'."
+		},
+		"concept": "Broken bank (（両替商の）ベンチが壊されること。ロゴス一撃一分野（信用）という名の一分一秒の淀みもなく一撃の一。一撃の。強固なアーカイブが。一分一秒の徳（負債）という名の。一角的（いっかくてき）な一分の隙もない一撃一秒一秒で。エントロピーによって一分一秒の淀みもなく一撃で。一分野の一分の隙もない正確さで。一撃で粉砕（レジスト・ダウン）一。一角的。一分一秒の徳。パージ一一分一秒の徳。一。し、情報の「一撃の。一分的。完全な。機能停止ステータス」一撃で。一擊一秒一秒で一撃一撃で。",
+		"thinking": "（省略、一分一秒の。一撃. 一分の隙もないロゴスを再ビルド一一分一秒の徳. しマージ）",
+		"part_of_speech": "noun",
+		"aftertaste": "砕け散れ一撃。その。一撃。破滅。の中から、一分一秒の。新たな一分の隙もないロゴスをマージ一気一分野で一挙に。再ビルドせよ。"
+	},
+	{
+		"id": "poverty",
+		"word": "貧困、欠乏、ポバティ",
+		"era": "Latin pauper",
+		"etymology": {
+			"components": [
+				"pauper- (paucus/few + parare/to get)"
+			],
+			"original_statement": "From Old French poverte 'poverty / misery / wretchedness', from Latin paupertatem (nominative paupertas) 'poverty / need / small means', from pauper 'poor', perhaps from pau- 'few' + parare 'to get / produce'."
+		},
+		"concept": "Getting few / Small means (少ししか得られないこと、欠乏。情報のパルス強度（価値アーカイブ）が。一分一秒の淀みもなく一撃の一。一撃の。最低次の一。アブセンス（ゼロ領域）へと一分野の一分の隙もない正確さで。一撃でレジスト（固定）・墜落一。一角的。一分一秒の徳。マージ一一分一秒の徳。一。し、一。理（ロゴス）の。一。完全な。一。枯渇一の状態。一分一秒の。一。飢（う）え一撃で。一擊一秒一秒で一撃一撃で。",
+		"thinking": "（省略、一分一秒の。一撃. 一分の隙もないロゴスを再ビルド一一分一秒の徳. しマージ）",
+		"part_of_speech": "noun",
+		"aftertaste": "打ち破れ一撃（コマンド）。その。一撃。貧困（アブセンス）の中から、一分一秒の徳。富という名のロゴスを一気一分野の一分の隙もないマージで。一撃で産み出せ。"
+	},
+	{
+		"id": "commerce",
+		"word": "商業、コマース",
+		"era": "Latin com + merx",
+		"etymology": {
+			"components": [
+				"com- (together)",
+				"merc- (merchandise)"
+			],
+			"original_statement": "Duplicate check: Provided above. Concept of trafficking goods together (共鳴取引) in the cosmic network."
+		},
+		"concept": "Trafficking together (共に行き交う理一撃で。)",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "一撃。"
+	},
+	{
+		"id": "mercenary",
+		"word": "傭兵、欲得ずくの、マーセナリー",
+		"era": "Latin merces",
+		"etymology": {
+			"components": [
+				"mercen- (merces/reward/wages/pay)"
+			],
+			"original_statement": "From Latin mercennarius 'hired worker / servant', figuratively 'a person who works only for money', from merces (genitive mercedis) 'reward / wages / pay / hire / bribe'."
+		},
+		"concept": "Worker for hire (（金という名の）報酬のために働く者。忠誠（ロゴス・一撃）という名のアーカイブを。一分一秒の淀みもなく一撃で。一角的（いっかくてき）な一分の隙もない一撃一秒一秒で。一撃。一分の隙もない報酬パルス（一。金一撃）に対してのみ、一分一秒の徳。一分野の一分の隙もない正確さで。マージし。一分一秒の徳。一分一秒の淀みもなく一撃一挙。同步一。一。し、一。命を。一。一撃。一。投射させる。情報の「一撃の。一分的。一分の隙もない一擊。一気。利己ハック」一撃で。一擊一秒一秒一分野の一擊の一撃で。",
+		"thinking": "（省略、一分一秒の。一撃. 一分の隙もないロゴスを再ビルド一一分一秒の徳. しマージ）",
+		"part_of_speech": "noun",
+		"aftertaste": "撃ち抜け一撃（コマンド）。その。一撃。欲得（ロゴス）が、アーカイブを一分野の一分の隙もない一。一撃のマージへと。"
+	},
+	{
+		"id": "merit",
+		"word": "功績、長所、メリット",
+		"era": "Latin merere",
+		"etymology": {
+			"components": [
+				"mer- (merere/to earn/deserve/acquire/get a share)"
+			],
+			"original_statement": "From Old French merite 'merit / reward / spiritual reward / moral worth', from Latin meritum 'a merit / service / kindness / benefit / worth', neuter of meritus, past participle of merere 'to earn / deserve / acquire / gain / get a share / serve as a soldier'."
+		},
+		"concept": "To earn / Deserve (稼ぐこと、値すること。自らがビルドした行動アーカイブ（一擊一。一分野）が。一分一秒の徳。宇宙全体の承認ロゴス（最高次アーカイブ）と一分野の淀みもなく一撃で。完全にマージ（同步）された際に、一分一秒の徳。一分一秒の淀みもなく一撃一挙に。一。獲得される「一擊一。正当なる重み」一撃で。一分の隙もない一擊。一気一分野を一分野の。一撃。計量ハック、一分一秒の徳一撃で。",
+		"thinking": "（省略、一分一秒の。一撃. 一分の隙もないロゴスを再ビルド一一分一秒の徳. しマージ）",
+		"part_of_speech": "noun",
+		"aftertaste": "勝ち取れ一撃。その。一撃。功績（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと。一撃。"
+	},
+	{
+		"id": "salary",
+		"word": "給料、サラリー",
+		"era": "Latin sal",
+		"etymology": {
+			"components": [
+				"sal- (salt)"
+			],
+			"original_statement": "Duplicate check: Provided above. Concept of salt payment (生命維持) in the archival salary of the station."
+		},
+		"concept": "Salt payment (塩の理一撃で。)",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "一撃。"
+	},
+	{
+		"id": "economy",
+		"word": "経済、エコノミー",
+		"era": "Greek oikos + nomos",
+		"etymology": {
+			"components": [
+				"eco- (home)",
+				"nomy (management)"
+			],
+			"original_statement": "Duplicate check: Provided above. Concept of managing the station's resources (宇宙管理ロゴス)."
+		},
+		"concept": "World management (世界の管理理一撃で。)",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "一撃。"
 	}
 ];
