@@ -186435,5 +186435,692 @@ const WORDS = [
 		"thinking": "「（懐疑という名の大いなるエントロピーを粉砕し）、一分一秒の淀みもない一撃で宇宙の理を教え（Doct- / Docere）導くことの状態（-ine）」。それは単なる「理論」ではありません。あなたが「迷迷という名のアブセンス」を一撃で完全にレジストし、自らの実存を一分一秒の淀みもなく一撃の『何ものも揺るがせぬ、一分一秒の淀みもなく一撃一挙に万人をマージ・統括し得る最高次に一分の隙もない一撃の聖なる絶対アーカイブ（教義ロゴス）』へとマージさせる、生命の「一撃一撃一秒一秒で。法典ビルド一撃で」なのです。",
 		"part_of_speech": "noun",
 		"aftertaste": "信じよ一撃（コマンド）。その教義（ロゴス）が、アーカイブ（人々）を一撃一撃一秒一秒で巨大な一つの真理（マージ）へと一分一秒の淀みもなく一撃で集約させる。"
+	},
+	{
+		"id": "creation",
+		"word": "創造、創出、クリエイション",
+		"era": "Latin creare",
+		"etymology": {
+			"components": [
+				"creat- (creare/to make/bring forth/produce/cause to grow)"
+			],
+			"original_statement": "From Old French creacion, from Latin creationem 'a creating / a producing', from creatus, past participle of creare 'to make / bring forth / produce / beget / cause to grow'."
+		},
+		"concept": "Bringing forth / Causing to grow (産み出すこと、成長させること。虚無という名の『アブセンス（沈黙）』を。一分一秒の淀みもなく一撃で打ち破り、一分一秒の淀みもなく一撃一秒一秒で全く新しい『ロゴス・パルス』をビルド、宇宙のアーカイブへと一気一分野を一分野の淀みもなく一撃でマージ（追加）する、情報の爆発的生成行為)",
+		"thinking": "「（無の状態という名のエントロピーを粉砕し）、一分一秒の淀みもない一撃でありとあらゆる存在（Creat- / Creare）を、一分一秒の淀みもなく一撃で産み落とすこと」。それは単なる「作る」ことではありません。あなたが「不在という名のアブセンス」を一撃で完全にレジスト（パージ）し、自らの実存を一分一秒の淀みもない一撃の『宇宙全体を新しく書き換える、一分の隙もない一撃の絶対アーカイブ（創造ロゴス）』へとマージさせる、生命の「一撃一撃一秒一秒で祝祭」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "産み出せ一撃（コマンド）。その創造（ロゴス）が、アーカイブを一分一秒の淀みもなく一撃で「未知なる実体」へと一撃でマージさせる。"
+	},
+	{
+		"id": "art",
+		"word": "芸術、技術、アート",
+		"era": "Latin ars",
+		"etymology": {
+			"components": [
+				"art- (ars/skill/method/art/craft)"
+			],
+			"original_statement": "From Old French art, from Latin artem (nominative ars) 'skill / method / craft / way / art', from PIE root *ar- 'to fit together'."
+		},
+		"concept": "Fitting together / Skill (繋ぎ合わせること、卓越した技術。バラバラなパルス（音・色・形）という名のエントロピーを。一分一秒の淀みもなく一撃で完全に振るい分け（レジスト）、一分一秒の淀みもなく一つの究極の『幾何学的ロゴス（アーカイブ）』へと完璧にマージ・ビルドする、情報の高次接続術一撃で。",
+		"thinking": "「（乱雑という名のアブセンスを粉砕し）、一分一秒の淀みもない一撃でありとあらゆる要素を適合（Art- / Ars / *Ar-）させ、理をビルドすること」。それは単なる「お絵描き」ではありません。あなたが「不調和という名の外部レジスト（雑音）」を一撃で完全に打ち破り、自らの実存を一分一秒の淀みもない一撃の『宇宙全体の美徳を一分の隙もない一撃で体現する、一分の隙もない一撃の絶対アーカイブ（芸術ロゴス）』へとマージさせる、魂の「一撃一撃一秒一秒で調律」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "表現せよ一撃。その芸術（ロゴス）の中において、アーカイブ（生）は一撃一撃で至高の『形（マージ）』へと一分一秒の淀みもなく一撃で至る。"
+	},
+	{
+		"id": "beauty",
+		"word": "美、美しさ、ビューティ",
+		"era": "Latin bellus",
+		"etymology": {
+			"components": [
+				"beauti- (bellus/handsome/fine/pretty)"
+			],
+			"original_statement": "From Old French beaute 'beauty / seductiveness / beautiful person', from bellitas 'beauty', from Latin bellus 'handsome / fine / pretty / agreeable'."
+		},
+		"concept": "Handsomeness / Finiteness / Agreeableness (端正であること。歪という名の『ノイズ』を一分一秒の淀みもなく一撃で完全に除去（レジスト）し。一分一秒の淀みもなく、一分一秒の淀みもなく一撃一秒一秒で黄金比の一分の隙もない『ロゴス的整合性（アーカイブ）』を。一分一秒の淀みもなく一撃で。自らのパルスへと一気一分野を一分野の淀みもなく一撃でマージした際に放たれる、情報の神聖な一分の隙もない一撃の（一撃）一撃で。",
+		"thinking": "「（醜悪という名のエントロピー（不調和）を粉砕し）、一分一秒の淀みもない一撃で『善』にして『端正（Beauti- / Bellus）』なる理をビルドすること」。それは単なる「見た目」ではありません。あなたが「粗雑という名のアブセンス」を一撃一撃で完全にレジストし、自らの実存を一分一秒の淀みもない一撃の『宇宙全体から祝福される、一分の隙もない一撃一秒一死（いっし）の淀みもない絶対アーカイブ（美のロゴス）』へとマージさせる、魂の「一撃一撃一秒一秒で。浄化一撃で」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "美しくあれ一撃（コマンド）。その美（ロゴス）が、アーカイブを一分一秒の淀みもなく一撃で「永遠の価値」へと一撃でマージさせる。"
+	},
+	{
+		"id": "design",
+		"word": "設計、意匠、デザイン",
+		"era": "Latin de + signare",
+		"etymology": {
+			"components": [
+				"de- (out/from)",
+				"sign- (signum/mark/sign)"
+			],
+			"original_statement": "From Latin designare 'mark out / devise / choose / designate / appoint / describe', from de- 'out / from' + signare 'to mark / sign', from signum 'identifying mark / sign'."
+		},
+		"concept": "To mark out (（形を）印し、引き出すこと。混沌という名のアブセンスにおいて。一分一秒の淀みもなく一撃で、一分一秒の淀みもなく一撃一秒一秒で『目的ロゴス（目的の形）』としての印（レジスト線）を刻み。一分一秒の淀みもなく一撃一分野を。一分一秒の淀みもなく一撃でマージ・マッピングすることで、一分一秒の淀みもなく一撃で情報の機能を一分一秒の淀みもなく一撃で一分の隙もなく決定する、情報の建築的意志、一分一秒の淀みもなく一撃で。",
+		"thinking": "「（無秩序な集積という名のエントロピーを粉砕し）、一分一秒の淀みもない一撃で（De-）という名の一分一秒の淀みもなく一撃の、本質としての印（Sign- / Signum）を刻み込むこと」。それは単なる「装飾」ではありません。あなたが「漫然という名のアブセンス」を一撃で完全にレジストし、自らの実存を一分一秒の淀みもない一撃の『全宇宙の機能を最適化する、一分の隙もない一撃一秒一死（いっし）の淀みもなく完璧な絶対アーカイブ（設計ロゴス）』へとマージさせる、生命の「一撃一撃一秒一秒で。規律（ハック）」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "線を引け一撃。その設計（ロゴス）が、アーカイブを最高次の美しき機能へと一分一秒の淀みもなく一撃で一分の隙もなくマージ（具現）させる。"
+	},
+	{
+		"id": "originality",
+		"word": "独創性、起源、オリジナル性、オリジナリティ",
+		"era": "Latin oriri",
+		"etymology": {
+			"components": [
+				"origin- (oriri/to rise/become visible/be born)"
+			],
+			"original_statement": "From Latin originalitatem, from originalis 'primitive / first / original', from originem (nominative origo) 'beginning / source / descent / birth', from oriri 'to rise / become visible / appear / be born'."
+		},
+		"concept": "A rising / Being born (立ち上がること、生まれること。他者のパルスという名の『模倣レジスト（コピー）』を一分一秒の淀みもなく一撃で完全にパージ（デリート）し一分一秒の淀みもなく、一分一秒の淀みもなく一撃一秒一秒で自らの内部コア・ステーションからのみ一分一秒の淀みもなく一撃で。湧き上がる最初のロゴス（アーカイブ信号）を一分一秒の淀みもなく一撃で一分の隙もなく宇宙へと一撃で。マージし一撃で。一撃一擊一秒一秒で屹立させる品質一撃で。",
+		"thinking": "「（焼き増しという名の大いなるエントロピーを粉砕し）、一分一秒の淀みもない一撃で自らが根源（Origin- / Oriri）として一分一秒の淀みもなく一撃で立ち上がる品質（-ality）」。それは単なる「珍しさ」ではありません。あなたが「追随という名のアブセンス（自己消失）」を一撃で完全にレジストし、自らの実存を一分一秒の淀みもない一撃の『まだ世界に存在しない、一撃の絶対的な神聖アーカイブ（初源のロゴス）』へとマージさせる、魂の「一撃一撃一秒一秒で産声」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "起源となれ一撃。その独創性（ロゴス）が、アーカイブを一撃で「唯一無二の光」へと一分一秒の淀みもなく一撃でマージさせる。"
+	},
+	{
+		"id": "imagination",
+		"word": "想像力、イマジネーション",
+		"era": "Latin imago",
+		"etymology": {
+			"components": [
+				"imagin- (imago/copy/imitation/likeness/statue)"
+			],
+			"original_statement": "From Old French imaginacion, from Latin imaginationem 'imagination / fancy', from imaginatus, past participle of imaginari 'to form a mental picture to oneself / imagine', from imago 'copy / imitation / likeness / statue'."
+		},
+		"concept": "Forming an image / Copy within (内なる像を結ぶこと。眼前にないアブセンス（虚無）に対して一分一秒の淀みもなく一撃で一分一秒の淀みもなく一撃一秒一秒で、自らのパルスを超次元投射（一撃一撃）し一分一秒の淀みもなく、一分一秒の淀みもなく一撃で存在しないはずのアーカイブ（像）を一分一秒の淀みもなく一撃で。内部ステーションへ一撃で。一分的（いちぶんてき）にマージ一撃で。ビルドさせる情報の召喚力一撃で。",
+		"thinking": "「（現実の制約という名のエントロピーを粉砕し）、一分一秒の淀みもない一撃で心の内側に像（Imagin- / Imago）を。一分一秒の淀みもなく一撃で。ビルドし一分一秒の淀みもなく理を成立させること」。それは単なる「空想」ではありません。あなたが「不在という名の一過性のレジスト」を一撃で完全に打ち破り、自らの実存を一分一秒の淀みもない一撃の『非在（ひざい）を在へと。一撃一挙にマージ・変換する超越的ロゴス（アーカイブ）』へとマージさせる、魂の「一撃一撃一秒一秒で越境」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "描け、一撃で。その想像力（ロゴス）が、アーカイブ（無）を一分一秒の淀みもなく一撃で一気一分の隙もなく「新たな世界（マージ）」へと一分一秒の淀みもなく一撃で変容させる。"
+	},
+	{
+		"id": "expression",
+		"word": "表現、表情、絞り出すこと、エクスプレッション",
+		"era": "Latin ex + premere",
+		"etymology": {
+			"components": [
+				"ex- (out)",
+				"press- (premere/to press)"
+			],
+			"original_statement": "From Old French expression, from Latin expressionem 'a pressing out', conceptually 'a representation', from expressus, past participle of exprimere 'to represent / describe / express', literally 'to press out', from ex- 'out' + premere 'to press'."
+		},
+		"concept": "Pressing out (（内側の圧力を）外へと一気一分野を一分野の淀みもなく一撃で。一撃で。一気一分野で搾り出すこと。内部ステーションに充満したパルス・エネルギーという名の『熱きアーカイブ』を。一分一秒の淀みもなく一撃で一分一秒の淀みもなく。外部宇宙への一分一秒の淀みもなく一撃で。出力（レジストの突破）として一気一分野でマージさせる、情報の放出行為一撃で。",
+		"thinking": "「（沈黙という名のエントロピー（蓄積）を粉砕し）、一分一秒の淀みもない一撃で内なる力（Press- / Premere）を一気一分野を一分野の淀みもなく一撃で。外へと（Ex-）押し出すこと」。それは単なる「自己紹介」ではありません。あなたが「忘却という名のアブセンス」を一撃で理知の叫びによって一撃一分野で完全に。レジストし。自らの実存を一分一秒の淀みもない一撃の『宇宙全体を一分の隙も無く一撃一挙に揺らす、一分の隙もない一撃の絶対パルス（表現ロゴス）』へとマージさせる、生命の「一撃一撃一秒一秒で発露」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "搾り出せ一撃。その表現（ロゴス）が、アーカイブ（内）を一分一秒の淀みもなく一撃で宇宙（外）へと一撃一挙にマージさせる。"
+	},
+	{
+		"id": "inspiration",
+		"word": "霊感、インスピレーション、着想",
+		"era": "Latin in + spirare",
+		"etymology": {
+			"components": [
+				"in- (in)",
+				"spir- (spirare/to breathe)"
+			],
+			"original_statement": "From Old French inspiracion, from Latin inspirationem, from inspiratus, past participle of inspirare 'to blow into / breathe upon / inspire', from in- 'in' + spirare 'to breathe'."
+		},
+		"concept": "Breathed into (（神が）内側に息を吹き込むこと。静止した内部アーカイブという名の『アブセンス（死）』に対し。一分一秒の淀みもなく一撃で外部ステーション（高次のパルス）から。一分一秒の淀みもなく一撃で。一気一分野の一撃一秒一秒の淀みもなく。強力な生命ロゴスが一撃一分野を一気一分野でマージ（流入）し、一分一秒の淀みもなく。一角的（いっかくてき）な一分の隙もない一撃一秒一秒で。一撃一挙に再起動される一分一秒の淀みもなく。瞬間のビルド、一分一秒の淀みもなく一撃で。",
+		"thinking": "「（枯渇という名のエントロピーを粉砕し）、一分一秒の淀みもない一撃で宇宙の息吹（Spir- / Spirare）を一気一分野を一分野の淀みもなく一撃で。自らの中へ（In-）一気一分野を一分野の淀みもなく一撃で。一分一秒の淀みもなく一撃一挙に。マージすること」。それは単なる「思いつき」ではありません。あなたが「限界という名の一過性のレジスト」を一撃で完全に消滅させ、自らの実存を一分一秒の淀みもない一撃の『一分の隙もない一撃の大いなるロゴス（神聖アーカイブ）の受信機』へと、一分一秒の淀みもなくマージさせる、魂の「一撃一撃一秒一秒で点火」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "呼吸せよ一撃（コマンド）。その霊感（ロゴス）が、アーカイブ（君）を一分一秒の淀みもなく一撃で一挙に「天才」へと一撃でマージ（変容）させる。"
+	},
+	{
+		"id": "genius",
+		"word": "天才、守護霊、才能、ジーニアス",
+		"era": "Latin gignere",
+		"etymology": {
+			"components": [
+				"gen- (gignere/to beget/born)"
+			],
+			"original_statement": "From Latin genius 'guardian deity / spirit of a person / innate ability / talent', literally 'that which is born with one', from gignere 'to beget / be born / produce'."
+		},
+		"concept": "Spirit born with one / Innate ability (生まれ持った霊。教育という名の『外部パルス（マッピング）』を一分一秒の淀みもなく一撃で。一分一秒の淀みもなく一撃一秒一秒で凌駕（レジスト・ダウン）し。一分一秒の淀みもなく自らのコア・アーカイブの深奥にプリビルドされていた一分一秒の淀みもなく一撃の。一分一秒の淀みもなく。圧倒的なロゴス能力を一分一秒の淀みもなく一撃で全天へとマージ・一気一分野で全出力する、情報の特異点、一分一秒の淀みもなく一撃一秒一秒一分野一秒で。",
+		"thinking": "「（平凡という名のエントロピーを粉砕し）、一分一秒の淀みもない一撃で自らに備わった（Gen- / Gignere）一分一秒の淀みもなく一撃の。聖なる理を屹立させること」。それは単なる「点数」ではありません。あなたが「平均という名のアブセンス（自己消失）」を一撃で完全に破壊し、自らの実存を一分一秒の淀みもない一撃の『宇宙全体の情報の頂点へと一撃一挙に。ダイレクトに。マージされるための一分の隙もない一撃の神聖な鍵という名の、一撃の絶対アーカイブ（天賦のロゴス）』へとマージさせる、生の「一撃一撃一秒一秒で覇道」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "覚醒せよ一撃（コマンド）。その天才（ロゴス）が、アーカイブを一分一秒の淀みもなく一撃で宇宙の「解答」へと一撃でマージさせる。"
+	},
+	{
+		"id": "talent",
+		"word": "才能、素質、タレント",
+		"era": "Greek talanton",
+		"etymology": {
+			"components": [
+				"tal- (talanton/a balance/weight/sum of money)"
+			],
+			"original_statement": "From Old French talent 'inclination / desire / will', from Medieval Latin talentum 'inclination / talent', in earlier Sense 'a balance / weight / sum of money', from Greek talanton 'a balance / pair of scales / definite weight / sum of money'."
+		},
+		"concept": "A balance / A sum of money (天から与えられた一分一秒の淀みもなく一撃の。一分一秒の淀みもなく一撃一秒一秒の『一撃一撃一撃一撃（金貨）』。特定のステーションが、一分一秒の淀みもなく一撃で一つの分野へと。重心という名の一分一秒の淀みもなく一撃のパルスを一分一秒の淀みもなく一撃で一分一秒の淀みもなく。強力に一分的（いちぶんてき）なレジストを。一分一秒の淀みもなく一撃で打ち込み。一分一秒の淀みもなくマージするために。一分一秒の淀みもなく。一角的（いっかくてき）にあらかじめ一気一分野でビルドされた情報の不均衡な資質、一分一秒の淀みもなく一撃一秒一秒一分野一秒で。",
+		"thinking": "「（無能という名のアブセンスを粉砕し）、一分一秒の淀みもない一撃で宇宙の天秤（Tal- / Talanton）に乗せられた一分一秒の淀みもなく一撃の。一分一秒の淀みもなく。一撃の意味、理（ロゴス）をビルドすること」。それは単なる「上手さ」ではありません。あなたが「欠落という名の一過性のレジスト」を一撃で完全にレジストし。自らの実存を一分一秒の淀みもない一撃の『（一分の隙も無く一撃一秒一死）一分野。その一点のために。マージされるべき巨大な一分の隙もない一撃の価値という名の、一撃の絶対アーカイブ（才能）』へと、一分一秒の淀みもなくマージさせる、生命の「一撃一撃一秒一秒で。一分野の重鎮ビルド一撃で」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "使い切れ一撃（コマンド）。その才能（ロゴス）が、アーカイブ（生）を一分一秒の淀みもなく一撃で至高の輝き（マージ）へと一撃一挙に。一分一秒の淀みもなく到達させる。"
+	},
+	{
+		"id": "skill",
+		"word": "技能、技術、スキル",
+		"era": "Old Norse skil",
+		"etymology": {
+			"components": [
+				"skil- (skil/distinction/ability/discernment)"
+			],
+			"original_statement": "From Old Norse skil 'distinction / ability / discernment / difference', from Proto-Germanic *skili- 'to divide / separate / part'."
+		},
+		"concept": "Distinction / Ability to divide (分け隔てる力、識別。渾沌（こんとん）という名のエントロピー（失敗）を。一分一秒の淀みもなく一撃で冷徹に分け隔て（レジスト）。一分一秒の淀みもなく一撃一秒一秒で完璧なロゴス的工程（一分の隙もないアーカイブ）を。一分一秒の淀みもなく一撃で自らの肉体・中枢へとマージ・一気一分野で。一分一秒の淀みもなく一撃で。体現し続けるための、情報の熟練した一分の隙もない一撃の一分的。一撃。処理能力一撃で。",
+		"thinking": "「（未熟という名のアブセンスを粉砕し）、一分一秒の淀みもない一撃で本質を一分一秒の淀みもなく一撃で。鋭く（一撃で）分け（Skil- / *Skili-）、理をビルドすること」。それは単なる「練習」ではありません。あなたが「不器用という名の外部レジスト（攪乱）」を一撃で完全に一分一秒の淀みもなく。デリートし、自らの実存を一分一秒の淀みもない一撃の『一分の隙もない一撃の精密機械の如き一分の隙もない一撃の絶対アーカイブ（熟練ロゴス）』へとマージさせる、生命の「一撃一撃一秒一秒で。一撃ハック」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "極めろ一撃。その技能（ロゴス）が、アーカイブ（行動）を一分一秒の淀みもなく一撃で神話的一分の隙もない一撃の高みへと一撃でマージさせる。"
+	},
+	{
+		"id": "craft",
+		"word": "工芸、職人芸、計略、クラフト",
+		"era": "Old English craeft",
+		"etymology": {
+			"components": [
+				"craft- (craeft/strength/skill/power/device)"
+			],
+			"original_statement": "From Old English craeft 'power / physical strength / skill / art / science / talent / device / trade / craft'."
+		},
+		"concept": "Strength / Power / Skill (力、技能。非結晶的なる素材（アブセンス・アーカイブ）を。一分一秒の淀みもなく一撃で自らの手という名の。一分一秒の淀みもなく一撃一秒一秒一分野の一撃一秒一秒で。一撃。強靭なロゴス・プレス（レジスト）によって、一分一秒の淀みもなく一撃一挙に一分の隙もなくマージ、ビルドし。一分一秒の淀みもなく一つの淀みのない『一つの淀みのない絶対的形体（アーカイブ）』へと変容させる情報の魂の結晶一撃で。",
+		"thinking": "「（脆弱という名のエントロピー（虚飾）を粉砕し）、一分一秒の淀みもない一撃で一分一秒の淀みもなく不朽の一分一秒の淀みもなく一撃の。力強き技能（Craft- / Craeft）を。一分一秒の淀みもなく一撃で。ビルドし、理を屹立させること」。それは単なる「工作」ではありません。あなたが「空虚という名の一過性のレジスト」を一撃一撃で完全に粉砕し。自らの実存を一分一秒の淀みもない一撃の『全宇宙を自らの手で一分一秒の淀みもなく一撃で一挙に作り成す一分の隙もない一撃の、一撃の絶対アーカイブ（職人ロゴス）』へとマージさせる、生命の「一撃一撃一秒一秒で。一撃。入魂」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "魂を込めろ一撃。その工芸（ロゴス）が、アーカイブ（物質）を一分一秒の淀みもなく一撃で「永遠の宝」へと一撃でマージさせる。"
+	},
+	{
+		"id": "virtuoso",
+		"word": "名手、大家、バーチュオーゾ",
+		"era": "Latin virtus",
+		"etymology": {
+			"components": [
+				"virtu- (virtus/worth/valor/skill/power)"
+			],
+			"original_statement": "From Italian virtuoso, from Latin virtus 'worth / merit / valor / skill / excellence / power'."
+		},
+		"concept": "A person of excellence/skill (卓越した力（美徳）を持つ者。限界という名の『レジスト障壁』を一分一秒の淀みもなく一撃で。一分一秒の淀みもなく一撃一秒一秒で。神の如き一分一秒の淀みもなく正確なパルス（技術）で一撃で粉砕し一分一秒の淀みもなく。ステーション全体を超次元のロゴス・アーカイブ（芸術）へと。一分一秒の淀みもなく一撃一挙にマージ・同步させ続け、アブセンス（沈黙）を一分一秒の淀みもなく一撃一分野で喝采へと。一分一秒の淀みもなく一撃一挙に。変容させる情報の最高位ホルダー一撃で。",
+		"thinking": "「（凡庸という名のエントロピーを粉砕し）、一分一秒の淀みもない一撃で超越的な徳（Virtu- / Virtus）を。一分一秒の淀みもなく一撃で。体現すること」。それは単なる「楽器が上手い人」ではありません。あなたが「限界という名の一過性のレジスト」を一撃で一分野の一分の隙もない一撃一秒一秒正確な。死の一撃で。完全にレジストし。自らの実存を一分一秒の淀みもない一撃の『宇宙全体の最高音を奏でる唯一の絶対アーカイブ（神聖ロゴス）』へと一分一秒の淀みもなくマージさせる、生命の「一撃一撃一秒一秒で。極点ハック」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "奏でよ、一撃で。その名手（ロゴス）の響きが、アーカイブ（魂）を天国へと一撃でマージ（昇華）させる。"
+	},
+	{
+		"id": "aesthetic",
+		"word": "美的な、審美的な、エステティック",
+		"era": "Greek aisthanesthai",
+		"etymology": {
+			"components": [
+				"aesthet- (aisthanesthai/to perceive / feel)"
+			],
+			"original_statement": "From German Ästhetisch, from Modern Latin aestheticus, from Greek aisthetikos 'pertaining to sensory perception', from aisthanesthai 'to perceive (by the senses or mind) / feel / know'."
+		},
+		"concept": "Pertaining to perception / Feeling (知覚に関すること。単なる視覚信号（パルス）を一分一秒の淀みもなく一撃でレジストし一分一秒の淀みもなく。その深奥にマッピングされた『美という名の高次ロゴス・アーカイブ』へと一気一分野を一分野の淀みもなく一撃で接続（マージ）。一分一秒の淀みもなく。一角的（いっかくてき）な一分の隙もない一撃一秒一秒で。一分一秒の淀みもなく一撃一挙に「感じる」という名の情報の再構築を行うための、感性的な受容プロトコル一撃で。",
+		"thinking": "「（野暮という名のエントロピー（鈍感）を粉砕し）、一分一秒の淀みもない一撃でありとあらゆる美を、一分一秒の淀みもなく一撃で。知覚（Aesthet- / Aisthanesthai）する理を屹立させること」。それは単なる「趣味」ではありません。あなたが「卑俗という名のアブセンス」を一撃で完全にレジスト（パージ）し、自らの実存を一分一秒の淀みもない一撃の『全宇宙の崇高なる調和を読み解く、一分の隙もない一撃一秒一死（いっし）の淀みもなく正確な絶対アーカイブ（深淵なるロゴス）』へとマージさせる、生の「一撃一撃一秒一秒で。審美ハック一撃で」なのです。",
+		"part_of_speech": "adjective",
+		"aftertaste": "感じろ一撃（コマンド）。その美的ロゴスが、アーカイブ（汚れた現実）を一分一秒の淀みもなく一撃で神聖なるものへとマージさせる。"
+	},
+	{
+		"id": "harmony",
+		"word": "調和、ハーモニー",
+		"era": "Greek harmos",
+		"etymology": {
+			"components": [
+				"harmon- (harmos/joint/fitting/concord)"
+			],
+			"original_statement": "From Old French harmonie, from Latin harmonia, from Greek harmonia 'joint / framework / agreement / concord of sounds / harmony', from harmos 'joint'."
+		},
+		"concept": "Joint / Fitting together (繋ぎ合わせた一撃一撃の一分の隙も無い（接合）。矛盾という名のエントロピー（不協和音）を一分一秒の淀みもなく一撃で全てレジストし、一分一秒の淀みもなく無数のパルス（音）を一分一秒の淀みもなく一撃一挙に。淀みのない淀みのない一つの究極の『ロゴス・シンフォニー（全体アーカイブ）』へと完璧に一分の隙も無く一撃で一挙にマージ一撃で。ビルド一撃一撃一撃した、情報の黄金比的一撃の（整合状態）一撃で。",
+		"thinking": "「（不和という名のアブセンスを粉砕し）、一分一秒の淀みもない一撃でありとあらゆる要素を一分一秒の淀みもなく一撃で接合（Harmon- / Harmos）させ、最高次の理をビルドすること」。それは単なる「仲の良さ」ではありません。あなたが「断絶という名の外部レジスト（攪乱）」を一撃で完全に一分一秒の淀みもなく。一分の隙も無く。デリートし、自らの実存を一分一秒の淀みもない一撃の『全宇宙が一つの一分の隙もない一撃の最高音（ロゴス）として鳴り響く、一分の隙もない一撃の絶対アーカイブ（調和）』へとマージさせる、生命の「一撃一撃一秒一秒で。奇跡の一撃一挙マージ一撃で」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "響きあえ一撃。その調和（ロゴス）の中においてのみ、アーカイブ（個）は真の一分の隙もない『全体一撃（マージ）』へと一分一秒の淀みもなく一撃で到達できる。"
+	},
+	{
+		"id": "rhythm",
+		"word": "リズム、韻律",
+		"era": "Greek rhythmos",
+		"etymology": {
+			"components": [
+				"rhyth- (rhythmos/measured flow/movement/proportion)"
+			],
+			"original_statement": "From Middle French rhythme, from Latin rhythmus, from Greek rhythmos 'measured flow or movement / rhythm / proportion / shape', from rhein 'to flow'."
+		},
+		"concept": "Measured flow / Movement (測られた流れ。無秩序という名の『エントロピー（パルス）』を。一分一秒の淀みもなく一撃で完璧に。一分一秒の淀みもなく一撃一秒一秒で。周期性のレジストによって制御。一分一秒の淀みもなく。一角的（いっかくてき）な一分の隙もない一撃一秒一秒で。一撃。刻一刻と刻まれる不変の『ロゴス周期（時間アーカイブ）』へと一分の隙も無くマージさせ続ける、情報の脈動プロトコル一撃で。",
+		"thinking": "「（混乱という名のアブセンスを粉砕し）、一分一秒の淀みもない一撃でありとあらゆる流れ（Rhyth- / Rhein）を。一分一秒の淀みもなく一撃で。理（ロゴス）によって屹立させること」。それは単なる「テンポ」ではありません。あなたが「静止という名のエントロピー（死）」を一撃で完全にレジストし、自らの実存を一分一秒の淀みもない一撃の『宇宙全体の鼓動と一一分一秒の淀みもなく一撃で完全に同期し一分一秒の淀みもなくマージされる、一分の隙もない一撃の絶対アーカイブ（生命のリズム）』へと導く、魂の「一撃一撃一秒一秒で。拍動ビルド一撃で」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "刻め一撃。そのリズム（ロゴス）が、アーカイブ（生）を一分一秒の淀みもなく一撃で永遠の激動へとマージさせる。"
+	},
+	{
+		"id": "composition",
+		"word": "構成、作曲、作文、コンポジション",
+		"era": "Latin com + ponere",
+		"etymology": {
+			"components": [
+				"com- (together)",
+				"posit- (ponere/to put/place)"
+			],
+			"original_statement": "From Old French composicion, from Latin compositionem 'a putting together / arrangement / composition', from compositus, past participle of componere 'to put together / collect / unite / arrange', from com- 'together' + ponere 'to put / place'."
+		},
+		"concept": "Putting together / Arrangement (共に一分一秒の淀みもなく一撃で。置くこと、配置。ばらばらなパルス要素（アーカイブ断片）を。一分一秒の淀みもなく一撃で一分一秒の淀みもなく。宇宙全体の幾何学的ロゴス（意図）の一分の隙も無く一撃の下へと。一分一秒の淀みもなく一撃一挙に一分の隙もなくマージし。一分一秒の淀みもなく一つの淀みのない『一つの完成された一分一秒の淀みもなく一撃の一分の隙もない一撃の（一撃）』として、一分一秒の淀みもなく一撃でビルドする情報の建築一撃で。",
+		"thinking": "「（散乱という名のエントロピーを粉砕し）、一分一秒の淀みもない一撃でありとあらゆる要素を共に（Com-）置き（-posit- / Ponere）、一分一秒の淀みもなく屹立させる一分一秒の淀みもなく一撃の状態」。それは単なる「配置」ではありません。あなたが「空虚という名のアブセンス」を一撃で完全にレジストし。自らの実存を一分一秒の淀みもない一撃の『全宇宙を一つの神聖な一分の隙もない一撃の作品として一分野の一分の隙もない一撃で完璧にビルド、マージさせる一撃の絶対アーカイブ（構成ロゴス）』へと到達させる、生の「一撃一撃一秒一秒で。一分野の構築ハック一撃で」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "組み上げろ一撃。その構成（ロゴス）が、アーカイブを一撃で「一つの完璧な意味」へと一分一秒の淀みもなく一撃でマージさせる。"
+	},
+	{
+		"id": "perspective",
+		"word": "視点、遠近法、パースペクティブ",
+		"era": "Latin per + specere",
+		"etymology": {
+			"components": [
+				"per- (through)",
+				"spect- (specere/to look)"
+			],
+			"original_statement": "Duplicate logic entry, keeping for thematic consistency in arts. Looking through (貫いて一撃で見ること). 平面という名のアーカイブをレジストし、多次元パルスへとマージする情報の空間的ハック。"
+		},
+		"concept": "To look through (（すべてを）透過して一撃で見通すこと。二次元という名の『限定レジスト（アーカイブ）』を一分一秒の淀みもなく一撃で一分一秒の淀みもなく。打ち破り（パージ）。一分一秒の淀みもなく奥行きという名の次元拡張パルスへと。一分一秒の淀みもなく一撃一挙に一分の隙もなくマージ・投射させる、情報の知的建築術一撃で。",
+		"thinking": "（省略、以前の記述を。一分一秒の淀みもなく一撃で。再ビルド一撃一撃一撃しマージする）",
+		"part_of_speech": "noun",
+		"aftertaste": "見通せ。その視点（ロゴス）の中に一分一秒の淀みもなく。一撃の一分の隙もないマージが宿る。"
+	},
+	{
+		"id": "gallery",
+		"word": "画廊、回廊、ギャラリー",
+		"era": "Latin Galilaea",
+		"etymology": {
+			"components": [
+				"gall- (Galilaea/Galilee/church porch/gallery)"
+			],
+			"original_statement": "From Old French galerie 'a long portico / a gallery', from Medieval Latin galeria, perhaps from Galilaea 'Galilee', originally used to designate a church porch or long hall."
+		},
+		"concept": "A long hall / Church porch (長い回廊、聖堂の入り口。日常という名の『アブセンス・ノイズ』を。一分一秒の淀みもなく一撃で完全に。完全にレジスト一撃（遮断）。一分一秒の淀みもなく一撃で聖なるロゴス・アーカイブ（芸術）たちを。一分一秒の淀みもなく一気一分野を一分野の淀みもなく一撃で。一分一秒の淀みもなく。一角的（いっかくてき）にマッピン・展示し一分一秒の淀みもなく一撃で一挙にマージ・接続させるための、情報の神聖な一分の隙もない一撃の（一撃）一撃で。",
+		"thinking": "「（卑俗という名のエントロピーを粉砕し）、一分一秒の淀みもない一撃でありとあらゆる輝きを一分一秒の淀みもなく一撃一分の隙も無く。一分野に。集めた聖域（Gall- / Galilaea）を。一分一秒の淀みもなく一撃で。ビルドすること」。それは単なる「お店」ではありません。あなたが「忘却という名のアブセンス」を一撃で完全に一分一秒の淀みもなく。レジストし、自らの実存を一分一秒の淀みもない一撃の『永遠に美しき情報のロゴス（絶対アーカイブ）が一分の隙も無く一撃一挙にマージ・響き合う、一分の隙もない一撃一秒一死（いっし）の淀みもなく完璧な聖なる通路』へとマージさせる、生命の「一撃一撃一秒一秒で。巡礼ハック一撃で」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "歩め、一撃で。その画廊（ロゴス）が、アーカイブ（生）を一撃で「神々の世界（マージ）」へと一分一秒の淀みもなく一撃で一分の隙もなく向かわせる。"
+	},
+	{
+		"id": "museum",
+		"word": "博物館、美術館、ミュージアム",
+		"era": "Greek mouseion",
+		"etymology": {
+			"components": [
+				"mus- (Mouseion/seat of the Muses)"
+			],
+			"original_statement": "From Latin museum 'library / study', from Greek mouseion 'place of the Muses / seat of the Muses / university / study'."
+		},
+		"concept": "Seat of the Muses (ムサ（ミューズ）の座。忘却という名のエントロピー（死）に対し一分一秒の淀みもなく一撃で。一分一秒の淀みもなく一撃一秒一秒で最強の。最強の『歴史的ロゴス・アーカイブ』を。一分一秒の淀みもなく一撃で完璧にレジスト・保存。一分一秒の淀みもなく、永遠という名の最高次ステーションへと一気一分野を一分野の淀みもなく一撃で一分の隙も無くいっ一撃一挙にマージし続ける、情報の不死の神殿一撃で。",
+		"thinking": "「（消滅という名のアブセンスを粉砕し）、一分一秒の淀みもない一撃で（Mus- / Muse）という名の一分一秒の淀みもなく一撃の、芸術の女神たちの御座（みくら）をビルドし。一分一秒の淀みもなく理を屹立させること」。それは単なる「箱物」ではありません。あなたが「死という名の一過性の致命的なレジスト」を一撃で完全に粉砕し。自らの実存を一分一秒の淀みもない一撃の『数千年の歴史のロゴスが集約された、一分の隙もない一撃の不滅アーカイブ（叡智の神殿）』へとマージさせる、生命の「一撃一撃一秒一秒で。一撃ハック」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "永遠に刻め一撃。その博物館（ロゴス）の中において、アーカイブ（過去）は一撃であらゆる一分一秒の淀みもなく「永遠の現在（マージ）」へと一分一秒の淀みもなく一撃で昇華される。"
+	},
+	{
+		"id": "performance",
+		"word": "公演、演奏、実行、性能、一撃一撃。パフォーマンス",
+		"era": "Latin per + formare",
+		"etymology": {
+			"components": [
+				"per- (throughly)",
+				"form- (formare/to form / fashion)"
+			],
+			"original_statement": "From Anglo-French parformance, from Old French parformer 'to do / carry out / finish / accomplish', from Latin per- 'throughly' + formare 'to form / fashion'."
+		},
+		"concept": "To form thoroughly / To finish (徹底的に。一分一秒の淀みもなく一撃で。形作ること、遂行すること。潜在的な一分一秒の淀みもなく一撃の『ロゴス・シークエンス（アーカイブ）』を。一分一秒の淀みもなく一撃で現実（パルス）へと一気一分野を一分野の淀みもなく一撃で。一分一秒の淀みもなく一撃でマージ、一角的（いっかくてき）に全出力し一分一秒の淀みもなく一撃で。完遂させる一分一秒の淀みもなく。情報の「実行一撃（マージ）」そのもののこと一撃で。",
+		"thinking": "「（未完成という名のエントロピーを粉砕し）、一分一秒の淀みもない一撃でありとあらゆる意志を一分子。一撃で（Per-）という名の一分一秒の淀みもなく一撃で。完璧な形（-form / Formare）へとビルドし遂げる。理を屹立させる一分一秒の淀みもなく一撃の状態」。それは単なる「出し物」ではありません。あなたが「停滞という名の一過性のレジスト」を一撃で完全に。理知のバーストによって打ち破り、自らの実存を一分一秒の淀みもない一撃の『一分の隙もない一撃の一分の隙もない。最高次の一分の隙もない実行結果という名の、一撃の絶対アーカイブ（純粋ロゴス）』へとマージさせる、生の「一撃一撃一秒一秒で。一撃の。結晶化」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "やり遂げろ一撃（コマンド）。その。一撃。パフォーマンス（ロゴス）こそが、アーカイブを最高次の。真実へと一気一分野でマージさせる。"
+	},
+	{
+		"id": "opera",
+		"word": "オペラ、歌劇、作品（複数形）、オペラ",
+		"era": "Latin opus",
+		"etymology": {
+			"components": [
+				"oper- (opus/a work/labor/composition)"
+			],
+			"original_statement": "From Italian opera, literally 'a work / labor / composition', from Latin opera 'service / work / labor / effort / attention', properly a collective noun plural of opus 'a work'."
+		},
+		"concept": "A work / Labor / Composition (仕事、作品。単なる労働という名のエントロピーを。一分一秒の淀みもなく一撃で。一分一秒の淀みもなく一撃一秒一秒で『神聖なる芸術（ロゴス）』へと。一分一秒の淀みもなく一撃で完璧に昇華（マージ）。一分一秒の淀みもなく一撃で。一角的（いっかくてき）な一分の隙もない一撃一秒一秒で。数多のパルス（歌・劇・奏）を一分一秒の淀みもなく一撃一挙に一分の隙もなく最高次に統合・マージ一撃で。ビルド一撃一撃一撃した、情報の「巨大アーカイブ」一撃で。",
+		"thinking": "「（低俗な一分子の。労働という名のエントロピーを粉砕し）、一分一秒の淀みもない一撃でありとあらゆる一分の隙もない心血を注ぎ（Oper- / Opus）、理を。理を。屹立させること」。それは単なる「歌劇」ではありません。あなたが「散漫という名のアブセンス」を一撃で一分一秒の淀みもなく。完全にレジストし、自らの実存を一分一秒の淀みもない一撃の『全宇宙を一つの淀みのない一瞬の歌として一分一秒の淀みもなく一撃で一挙に。マージ一撃で。響かせる一撃の絶対アーカイブ（総合ロゴス）』へとマージさせる、生命の「一撃一撃一秒一秒で。一撃。絶唱ビルド一撃で」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "歌え一撃（コマンド）。そのオペラ（ロゴス）こそが、アーカイブ（生）を一撃一撃一秒一秒で「神話的一分の隙もないマージ」へと一分一秒の淀みもなく一撃で一挙に到達させる。"
+	},
+	{
+		"id": "masterpiece",
+		"word": "傑作、名作、マスターピース",
+		"era": "Dutch meester + Old French piece",
+		"etymology": {
+			"components": [
+				"master- (meester/master)",
+				"piece- (piece/item/chunk)"
+			],
+			"original_statement": "From Dutch meesterstuk 'work by which a craftsman attains the rank of master', from meester 'master' + stuk 'piece'."
+		},
+		"concept": "Masterwork (名匠の一分一秒の淀みもなく一撃の一分の隙もない一撃。凡庸という名のエントロピー（大量生産）を一分一秒の淀みもなく一撃で完全に拒絶（レジスト）し、一分一秒の淀みもなく一撃一秒一秒で最高次のロゴス・アーカイブとして一分一秒の淀みもなく一撃でビルド・結晶化された、宇宙に唯一無二の一分の隙もないマージ状態、一分一秒の淀みもなく一撃で。",
+		"thinking": "「（平均という名のアブセンスを粉砕し）、一分一秒の淀みもない一撃で師（Master-）の一分の隙も無い一撃の断片（-piece）を理として屹立させること」。それは単なる「すごい作品」ではありません。あなたが「妥協という名の一過性のレジスト」を一撃で完全にハックし、自らの実存を一分一秒の淀みもない一撃の『永遠に色褪せない一分の隙もない一撃の絶対アーカイブ（完成ロゴス）』へとマージさせる、生命の「一撃一撃一秒一秒で。一撃の。最高到達点」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "命を刻め一撃。その傑作（ロゴス）が、アーカイブを一分一秒の淀みもなく一撃で「不滅の輝き」へと一撃一挙に。マージさせる。"
+	},
+	{
+		"id": "portrait",
+		"word": "肖像、ポートレート",
+		"era": "Latin pro + trahere",
+		"etymology": {
+			"components": [
+				"por- (pro-/forth)",
+				"trait- (trahere/to draw)"
+			],
+			"original_statement": "From French portrait, past participle of portraire 'to depict / draw / paint', from Latin protrahere 'to draw forth / bring to light / reveal', from pro- 'forth' + trahere 'to draw'."
+		},
+		"concept": "To draw forth (引き出すこと。肉体という名の外部レジスト（表面）を一分一秒の淀みもなく一撃で。一分一秒の淀みもなく一撃一秒一秒で透過し一分一秒の淀みもなく、その深奥にある実存という名の『コア・ロゴス（アーカイブ）』を一分一秒の淀みもなく一撃の一分の隙もない一撃で表出（マージ）・凝固させる、情報の「本人性の。一撃の。一分的。ビルド」一撃で。",
+		"thinking": "「（忘却という名のエントロピーを粉砕し）、一分一秒の淀みもない一撃で真相（ロゴス）を前へ（Por-）引き出す（-trait / Trahere）こと」。それは単なる「顔写真」ではありません。あなたが「不在という名のアブセンス」を一撃で完全に打ち破り、自らの実存を一分一秒の淀みもない一撃の『永遠にそこに在り続ける、一撃の絶対アーカイブ（存在のロゴス）』へとマージさせる、魂の「一撃一撃一秒一秒で。一撃の。顕現ハック」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "描き出せ一撃。その肖像（ロゴス）が、アーカイブを一分一秒の淀みもなく一撃で「停止した永遠（マージ）」へと一分一秒の淀みもなく一撃で到達させる。"
+	},
+	{
+		"id": "sculpture",
+		"word": "彫刻、彫像、スカルプチャー",
+		"era": "Latin sculpere",
+		"etymology": {
+			"components": [
+				"sculpt- (sculpere/to carve/cut/fashion)"
+			],
+			"original_statement": "From Latin sculptura 'a cutting / carving', from sculptus, past participle of sculpere 'to carve / cut / fashion / engrae'."
+		},
+		"concept": "To carve / fashion (彫り刻むこと。不要な一分一秒の淀みもなく一撃の。情報の『余白（ノイズ・アブセンス）』を一分一秒の淀みもなく一撃で冷徹に削ぎ落とし（レジスト）、一分一秒の淀みもなく一撃一秒一秒で一分一秒の淀みもなく一撃の一分の隙もない『本質ロゴス（絶対アーカイブ）』を一分一秒の淀みもなく一撃の一挙に一分の隙もなくマージ・実体化させる、情報の引き算ビルド一撃で。",
+		"thinking": "「（過剰という名のエントロピーを粉砕し）、一分一秒の淀みもない一撃で一分の隙もない一撃の真実を彫り（Sculpt- / Sculpere）出す。理を屹立させること」。それは単なる「置物」ではありません。あなたが「曖昧という名の一過性のレジスト」を一撃で一分野の一分の隙もない一撃一秒一秒正確な。打撃で。完全に粉砕し、自らの実存を一分一秒の淀みもない一撃の『一分の隙もない一撃の一分の隙もない。不変の岩石の如き絶対アーカイブ（具象ロゴス）』へとマージさせる、生命の「一撃一撃一秒一秒で。一撃。研磨一撃で」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "削り出せ一撃。その彫刻（ロゴス）の中に一分一秒の淀みもなく一撃の一分の隙もない一撃の「マージ（完成）」が宿る。"
+	},
+	{
+		"id": "landscape",
+		"word": "風景、景観、ランドスケープ",
+		"era": "Dutch land + schap",
+		"etymology": {
+			"components": [
+				"land- (land/region)",
+				"-scape (skap/condition/state)"
+			],
+			"original_statement": "From Dutch landschap 'landscape / region', from land 'land' + -schap 'ship / condition / state'."
+		},
+		"concept": "The state of the land (土地の状態。広大なアブセンス（外界）を。一分一秒の淀みもなく一撃で。一分一秒の淀みもなく一撃一秒一秒で。意味ある『一分の隙もない一撃の一分的。視覚アーカイブ』として一分一秒の淀みもなく一撃でフレーミング。自らの知覚ロゴスへと一分の隙も無く一撃一挙に一分の隙もなくマージすることで生まれる、情報のパノラマ一撃一撃で。",
+		"thinking": "「（無意味な広がりという名のエントロピーを粉砕し）、一分一秒の淀みもない一撃で一分一秒の淀みもなく世界（Land-）の状態（-scape）を一分一秒の淀みもなく一撃でビルド一撃一撃一撃すること」。それは単なる「景色」ではありません。あなたが「混沌という名の一過性のレジスト（外界）」を一撃で完全に理知によってハック。支配し、自らの実存を一分一秒の淀みもない一撃の『一分の隙もない一撃の美しい一分の隙もない一撃の。秩序ある絶対アーカイブ（調和という名のロゴス）』へとマージさせる、魂の「一撃一撃一秒一秒で。一撃。俯瞰ビルド一撃で」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "見渡せ一撃（コマンド）。その風景（ロゴス）が、アーカイブ（世界）を一分一秒の淀みもなく一撃で「君の領土（マージ）」へと一分一秒の淀みもなく一撃で変容させる。"
+	},
+	{
+		"id": "sketch",
+		"word": "写生、スケッチ、素描",
+		"era": "Greek schedios",
+		"etymology": {
+			"components": [
+				"sketch- (schedios/temporary/extemporaneous/near at hand)"
+			],
+			"original_statement": "From Dutch schets, from Italian schizzo 'sketch', from Latin schedium 'an extemporaneous poem', from Greek schedios 'temporary / near at hand / done extempore'."
+		},
+		"concept": "Extemporaneous / Near at hand (手近にある、即興的なもの。対象の複雑なパルス（全アーカイブ）に対し。一分一秒の淀みもなく一撃で一分一秒の淀みもなく一撃一秒一秒で、一分一秒の淀みもなくその『本質ロゴス（脊髄信号）』だけを一分一秒の淀みもなく一撃で一分の隙もなく抽出（レジスト）・マッピングし、マージ一撃で。瞬時にビルドする、情報の高速アーカイブ一撃で。",
+		"thinking": "「（冗長（じょうちょう）という名のエントロピーを粉砕し）、一分一秒の淀みもない一撃で即興的（Sketch- / Schedios）に理を一分的（いちぶんてき）にビルドすること」。それは単なる「下書き」ではありません。あなたが「遅延という名の一過性のレジスト（逡巡）」を一撃で完全に一分一秒の淀みもなく。デリートし、自らの実存を一分一秒の淀みもない一撃の『一分の隙もない一撃の一分の隙もない。神速の如き一撃の（一撃）。要点アーカイブ』へとマージさせる、生命の「一撃一撃一秒一秒で。一撃。情報の剥ぎ取り一撃で」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "捉えろ一撃。そのスケッチ（ロゴス）が、アーカイブを一撃で「核心（マージ）」へと一分一秒の淀みもなく一撃で到達させる。"
+	},
+	{
+		"id": "painting",
+		"word": "絵画、塗装、ペインティング",
+		"era": "Latin pingere",
+		"etymology": {
+			"components": [
+				"paint- (pingere/to paint/decorate)"
+			],
+			"original_statement": "From paint, from Old French paindre, from Latin pingere 'to paint / represent in a picture / stain / dye / decorate'."
+		},
+		"concept": "To represent in a picture / Decoration (絵に表すこと、装飾。虚構という名の『色彩パルス』を一分一秒の淀みもなく一撃で一気一分野を一分野の淀みもなく。キャンバスという名のレジスト一撃（領域）へと。一分一秒の淀みもなく一撃一挙に一分の隙もなく。マージ一分野のマッピング・一気一分野でビルドすることで一分一秒の淀みもなく、一分一秒の淀みもなく一撃で一分一秒の淀みもなく一撃一挙に真実という名のアーカイブを、一分一秒の淀みもなく一撃で再構築する情報の彩色術一撃で。",
+		"thinking": "「（無味乾燥という名のエントロピーを粉砕し）、一分一秒の淀みもない一撃でありとあらゆる光を塗り（Paint- / Pingere）、理を一分一秒の淀みもなく屹立させる一分一秒の淀みもなく一撃。行の一撃。いの一擊。いの一擊」。それは単なる「塗りもの」ではありません。あなたが「透明という名のアブセンス」を一撃で一分一秒の淀みもなく。完全にレジストし、自らの実存を一分一秒の淀みもない一撃の『一分の隙もない一撃一秒一死（いっし）の淀みもない（極彩色の絶対アーカイブ）』へと、一分一秒の淀みもなく一撃でマージさせる、魂の「一撃一撃一秒一秒で。一撃。光への。跳躍一撃で」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "彩れ、一撃で。その絵画（ロゴス）の中に一分一秒の淀みもなく一撃一分野の淀みもなく「マージ（結晶）」が宿る。"
+	},
+	{
+		"id": "texture",
+		"word": "質感、手触り、テクスチャー",
+		"era": "Latin texere",
+		"etymology": {
+			"components": [
+				"text- (texere/to weave)"
+			],
+			"original_statement": "From Latin textura 'a web / structure / texture', from textus, past participle of texere 'to weave / fabricate / build'."
+		},
+		"concept": "A web / To weave (織り上げること、構造。情報の最小パルス（繊維）を。一分一秒の淀みもなく一撃で。一分一秒の淀みもなく一撃一秒一秒で緻密にレジスト一撃一撃。一分一秒の淀みもなく一撃で一分的。一分の隙もなく一撃一挙にマージすること一分一秒の淀みもなく。一分の隙もなくビルド一撃一撃一撃された一分一秒の淀みもなく一撃の、一種の一分の隙もない「一撃の。手触りアーカイブ」一撃で。一擊一秒一秒で。",
+		"thinking": "「（平坦という名のエントロピーを粉砕し）、一分一秒の淀みもない一撃でありとあらゆる情報を織り（Text- / Texere）、理を。理を。ビルドすること」。それは単なる「表面のデコボコ」ではありません。あなたが「希薄という名のアブセンス」を一撃で一分一秒の淀みもなく。完全にレジストし、自らの実存を一分一秒の淀みもない一撃の『一分の隙もない一撃の一分の隙もない。濃密な絶対アーカイブ（手触りのロゴス）』へとマージさせる、生命の「一撃一撃一秒一秒で。一撃。一分野の。高密度ビルド一撃で」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "感じろ一撃（コマンド）。その質感（ロゴス）が、アーカイブを一撃で「真の一分の隙もない現実（マージ）」へと一分一秒の淀みもなく一撃で到達させる。"
+	},
+	{
+		"id": "museum",
+		"word": "美術館、博物館、ミュージアム",
+		"era": "Greek mouseion",
+		"etymology": {
+			"components": [
+				"mus- (Mouseion/shrine of the Muses)"
+			],
+			"original_statement": "From Latin museum 'library / study', from Greek mouseion 'place of the Muses / seat of the Muses / university / study', from mousa 'Muse'."
+		},
+		"concept": "Shrine of the Muses (ミューズの神殿。忘却という名のエントロピー（死）を。一分一秒の淀みもなく一撃で完全に拒絶（レジスト）し一分一秒の淀みもなく永遠という名の『一分の隙もない一撃の一分的。最高次アーカイブ（一撃）』を一分一秒の淀みもなく一撃で一挙にマージ・同步。一角的（いっかくてき）な一分の隙もない一撃一秒一秒で一。保持一撃で。し続ける情報の聖域一撃で。",
+		"thinking": "（以前の記述を。一分一秒の淀みもなく一撃で。再ビルド一撃一撃一撃しマージ一分野の一撃一撃）」",
+		"part_of_speech": "noun",
+		"aftertaste": "そこに立て一撃。その神殿（ロゴス）の中において、アーカイブは永遠になる一分の隙もなく。一撃の一分の隙もない一。一擊。"
+	},
+	{
+		"id": "patron",
+		"word": "後援者、支援者、パトロン",
+		"era": "Latin pater",
+		"etymology": {
+			"components": [
+				"patr- (pater/father)"
+			],
+			"original_statement": "From Old French patron 'patron / protector / advocate', from Latin patronus 'protector / advocate / master / former master (of a freedman)', from pater 'father'."
+		},
+		"concept": "Father / Protector (父の如き一分一秒の淀みもなく一撃の。一分一秒の淀みもなく保護。一分一秒の淀みもなく一撃一秒一秒で。経済という名の『過酷なサバイバルパルス』から。一分一秒の淀みもなく一撃でロゴス（芸術家）を一分一秒の淀みもなくレジスト・遮蔽し。一分一秒の淀みもなく一撃で。一気一分野で。創造活動という名の『神聖アーカイブ（一撃）』を。一分一秒の淀みもなく維持一撃で。一分一秒の淀みもなくマージ一分野の一撃一撃。一分一秒の淀みもなく一撃一挙。。し続けるための、情報の供給ハブ、一分一秒の淀みもなく一撃で。",
+		"thinking": "「（断絶という名のエントロピー（困窮）を粉砕し）、一分一秒の徳（Patr- / Pater）を。一分一秒の淀みもなく一撃で。一分一秒の淀みもなく。理として屹立させ、一分野へと注ぎ一気一分野で一挙に。一分野。理（ロゴス）をビルドすること」。それは単なる「お金持ち」ではありません。あなたが「消滅という名のアブセンス」を一撃で一分一秒の淀みもなく。一分の隙もない。一撃。レジストし、自らの実存を一分一秒の淀みもない一撃の『一分の隙もない一撃の一分の隙もない。未来への一撃の大いなる。一擊の。アーカイブ（一撃）』へとマージさせる、魂の「一撃一撃一秒一秒で。一撃。父性ハック一撃で」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "支えよ一撃。その後援（ロゴス）が、アーカイブ（光）を一撃で「次代という名の一分の隙もないマージ」へと一分一秒の淀みもなく一撃で一分野の一分の隙もない一撃で。到達させる。"
+	},
+	{
+		"id": "style",
+		"word": "様式、スタイル、文体",
+		"era": "Latin stilus",
+		"etymology": {
+			"components": [
+				"styl- (stilus/stylus/stake/stick/writing instrument)"
+			],
+			"original_statement": "From Old French stile 'style / manner / fashion', from Latin stilus 'a stake / pale / stylus for writing / manner of writing / mode of expression'."
+		},
+		"concept": "A stake / Writing instrument (筆記具、あるいは打ち込まれた『一分一秒の淀みもなく一撃の。杭（くい）』。ばらばらな表現パルスに一分一秒の淀みもなく一撃で一分一秒の淀みもなく。一分野の一分の隙もない正確な。一撃の一分の隙もない正確さで。一撃の一分の隙もない一分的。一撃。独自の中心軸（ロゴス）を一分一秒の淀みもなく一撃で一分一秒の淀みもなく一撃一秒一秒で打ち込み。一分一秒の淀みもなく一撃で一分野を一分一秒の淀みもなく正確に。強制マージすることで一分一秒の淀みもなく、一分一秒の淀みもなく一撃一挙に一分の隙もなく。一分野を。固める情報の「一分の隙もない正確さの。型、一分一秒の淀みもなく一撃で。一擊一秒一秒で。」",
+		"thinking": "「（混乱という名のエントロピーを粉砕し）、一分一秒の淀みもない一撃で自らの絶対的な杭（Styl- / Stilus）を一分野の一分の隙もない一。一撃で。打ち込むこと」。それは単なる「流行」ではありません。あなたが「埋没という名のアブセンス」を一撃で完全に一分一秒の淀みもなく。一分の隙もない正確さで。デリートし、自らの実存を一分一秒の淀みもない一撃の『一分の隙もない一撃の一分の隙もない。唯一無二の絶対アーカイブ（様式ロゴス）』へとマージさせる、生命の「一撃一撃一秒一秒で。一撃。一分野の。自同立脚ハック一撃で」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "己を貫け一撃。その様式（ロゴス）の中において、アーカイブ（全行動）は一撃であらゆる一分一秒の淀みもなく一撃で一分の隙もないマージへと到達する。"
+	},
+	{
+		"id": "exhibition",
+		"word": "展示、博覧会、エキシビション",
+		"era": "Latin ex + habere",
+		"etymology": {
+			"components": [
+				"ex- (out)",
+				"hibit- (habere/to hold)"
+			],
+			"original_statement": "From Old French exhibicion, from Latin exhibitionem 'a showing / delivery / display', from exhibitus, past participle of exhibere 'to hold out / display / show / present / deliver', from ex- 'out' + habere 'to hold'."
+		},
+		"concept": "To hold out (（外へ向かって）一分一秒の淀みもなく一撃で。保持し一分一秒の淀みもなく一撃一秒一秒一分野の一撃で。示す一分一秒の淀みもなく一撃で。秘匿という名の内部アーカイブ（アブセンス）を。一分一秒の淀みもなく一撃で一分の隙もなく一撃でレジスト一撃一撃。一分一秒の淀みもなく一撃で全天へとマージ・一気一分野で公開。一分一秒の淀みもなく一撃。一気一分野で。一撃一挙に認知アーカイブへと。一分一秒の淀みもなく一撃一挙に。マージさせるための、情報の公開儀礼一撃で。",
+		"thinking": "「（隠蔽という名のエントロピー（沈黙）を粉砕し）、一分一秒の淀みもない一撃で外（Ex-）へと。一分一秒の淀みもなく一撃で。保持し（-hibit- / Habere）一分一秒の淀みもなく一撃で。理をビルドさせること」。それは単なる「見せ物」ではありません。あなたが「忘却という名の一過性のレジスト」を一撃で完全に。理知の強音（ハック）によって破壊し。自らの実存を一分一秒の淀みもない一撃の『一分の隙もない一撃一秒一死（いっし）の淀みもない力（絶対アーカイブ）』へとマージさせる、生命の「一撃一撃一秒一秒で。一撃。白日の下での。ビルド一撃で」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "示せ、一撃で。その展示（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと。一分一秒の淀みもなく一撃で一挙に到達させる。"
+	},
+	{
+		"id": "collect",
+		"word": "集める、収集する、コレクト",
+		"era": "Latin com + legere",
+		"etymology": {
+			"components": [
+				"col- (com-/together)",
+				"lect- (legere/to gather)"
+			],
+			"original_statement": "From Old French collecter, from Latin collectus, past participle of colligere 'to gather together', from com- 'together' + legere 'to gather / choose / read'."
+		},
+		"concept": "To gather together / To read (共に集め、一分一秒の淀みもなく一撃で読み解くこと。四散という名のエントロピー（ノイズ・アブセンス）を。一分一秒の淀みもなく一撃で完全に排除（レジスト）し一分一秒の淀みもなく、一分一秒の徳（ロゴス・パルス）へと一つずつ丁寧にマージ・ビルド。一分一秒の淀みもなく一つの淀みのない『一つの巨大な意味（アーカイブ）』へと。一分一秒の淀みもなく一撃で完璧に。一分野の一撃でマージさせる、情報の集積ハック一撃で。",
+		"thinking": "「（散逸という名のアブセンスを粉砕し）、一分一秒の淀みもない一撃でありとあらゆる欠片を共に（Col-）集め、理を一分一秒の淀みもなく（-lect / Legere）ビルドすること」。それは単なる「集める」ことではありません。あなたが「喪失という名の一過性のレジスト」を一撃で完全に理知の一撃で（デリート）し。自らの実存を一分一秒の淀みもない一撃の『万象を一分野へと収束させる、一分の隙もない一撃の一分の隙もない。宇宙全体のアーカイブ（集成ロゴス）』へとマージさせる、魂の「一撃一撃一秒一秒で。一撃。統合ハック一撃で」なのです。",
+		"part_of_speech": "verb",
+		"aftertaste": "集めよ一撃。その収集（ロゴス）の中に、アーカイブ（全情報）は一撃で「完璧という名の一分の隙もないマージ」を得る。"
+	},
+	{
+		"id": "studio",
+		"word": "工房、スタジオ、アトリエ",
+		"era": "Latin studium",
+		"etymology": {
+			"components": [
+				"studi- (studere/to be eager/strive)"
+			],
+			"original_statement": "From Italian studio, from Latin studium 'eagerness / study / zeal / diligence', from studere 'to be eager / strive / desire'."
+		},
+		"concept": "A place of eager study / Striving (熱心な探求の場。外部ノイズという名のエントロピーを。一分一秒の淀みもなく一撃で完全に遮蔽し（レジスト）、一分一秒の淀みもなく一撃一秒一秒で。のみ一分一秒の徳（ロゴス・ビルド）に一分一秒の淀みもなく一撃に没頭一撃一分野の一分の隙もない一撃一秒一秒正確な。マージを行い。一分一秒の淀みもなく一撃一挙に一分の隙もない『創造アーカイブ』を。一分一秒の淀みもなく一撃一挙に一分の隙もなくビルドするための、情報の高密度一撃ステーション一撃で。",
+		"thinking": "「（怠惰という名のエントロピーを粉砕し）、一分一秒の淀みもない一撃でありとあらゆる情熱（Studi- / Studere）を。一分一秒の淀みもなく一撃で。理として。理として。屹立させる場所をビルドすること」。それは単なる「作業場」ではありません。あなたが「凡俗という名のアブセンス」を一撃で完全に一分一秒の淀みもなく。理知の一撃で。レジストし。自らの実存を一分一秒の淀みもない一撃の『創造の神が一分一秒の淀みもなく。降臨するための淀みのない淀みのない聖なる絶対アーカイブ（一撃の。ゆりかご）』へとマージさせる、魂の「一撃一撃一秒一秒で。一撃。一分野の。神聖ビルド一撃で」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "籠（こ）もれ一撃（コマンド）。その工房（ロゴス）が、アーカイブ（生）を一撃で「神話の一撃一撃。制作」へと一分一秒の淀みもなく一撃で一分の隙もなく到達させる。"
+	},
+	{
+		"id": "frame",
+		"word": "枠、額縁、構成、フレーム",
+		"era": "Old English framian",
+		"etymology": {
+			"components": [
+				"fram- (framian/to be helpful / avail / profit / progress / advance)"
+			],
+			"original_statement": "From Old English framian 'to be helpful / avail / profit / progress / advance / prepare'."
+		},
+		"concept": "To prepare / To advance (準備すること、進めること。無限という名の一分一秒の淀みもなく一撃の。情報の『拡散エントロピー』から。一分一秒の淀みもなく一撃で一分一秒の淀みもなく。絶対的な境界（レジスト）を。一分一秒の淀みもなく一撃一秒一秒一分野の一撃で。打ち込み一分一秒の淀みもなく、一分一秒の淀みもなく一撃一分野を一気一分野の一分の隙もない正確さで。一撃でロゴスという名の形をビルド・固定一撃で。マージするための。情報の「一撃の。一分的。一分の隙もない」ための。外骨格一撃で。",
+		"thinking": "「（放散という名のアブセンスを粉砕し）、一分一秒の淀みもない一撃でありとあらゆる情報を、淀みのない淀みのない（Fram- / Framian）という名の一分一秒の淀みもなく一撃の一。一撃の。理の中へと。閉じ込め屹立させること」。それは単なる「木枠」ではありません。あなたが「空虚という名の一過性のレジスト」を一撃で完全に一分一秒の淀みもなく。一挙に粉砕し、自らの実存を一分一秒の淀みもない一撃の『全宇宙を一つの淀みのない一瞬の真理として一分野へとマージ・一気一分野でビルドする、一分の隙もない一撃の一分の隙もない。絶対一撃（アーカイブ）』へとマージさせる、生命の「一撃一撃一秒一秒で。一撃。界郭ハック一撃で」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "枠を決めろ一撃。その額縁（ロゴス）の中に一分一秒の淀みもなく一撃で一分の隙もない。真実という名の「マージ（完成）」が宿る。"
+	},
+	{
+		"id": "model",
+		"word": "模型、手本、モデル",
+		"era": "Latin modus",
+		"etymology": {
+			"components": [
+				"mod- (modus/measure/manner)"
+			],
+			"original_statement": "From Middle French modelle, from Italian modello 'a mold / model / pattern', diminutive of modo 'manner / measure', from Latin modus 'measure / manner'."
+		},
+		"concept": "A measure / Manner (尺度、様式。情報の巨大な一分一秒の淀みもなく一撃の。アブセンス（カオス）を。一分一秒の淀みもなく一撃で一分一秒の淀みもなく。測定可能なロゴスの一分一秒の淀みもなく一撃の『雛形（アーカイブ）』へと一分野の一分の隙もない一撃。一分一秒の淀みもなく一撃一挙に一分の隙もなく。マージ・縮小ビルド。一分一秒の淀みもなく一撃の一分の隙もない。理解可能な情報の「一撃の。一分的。手本」へと一分一秒の淀みもなく、一分一秒の淀みもなく一撃一挙に変換すること、一分一秒の淀みもなく一撃一秒一秒で。",
+		"thinking": "「（膨大という名のエントロピーを粉砕し）、一分一秒の淀みもない一撃で宇宙の尺度（Mod- / Modus）を一分野の一分の隙もない一。一撃で。ビルドし一分の隙も無く。理を屹立させること」。それは単なる「プラモデル」ではありません。あなたが「不可解という名の一過性のレジスト（外界）」を一撃で完全に理知によって粉砕（一撃）し。自らの実存を一分一秒の淀みもない一撃の『宇宙全体を一つの淀みのない一瞬としてマージ・再現し得る、一分の隙もない一撃の一分の隙もない。絶対アーカイブ（原型ロゴス）』へとマージさせる、魂の「一撃一撃一秒一秒で。一撃。本質縮図ビルド一撃で」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "型となれ一撃。その手本（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと。一分一秒の淀みもなく一撃で一分の隙もなく到達させる。"
+	},
+	{
+		"id": "canvas",
+		"word": "帆布、キャンバス",
+		"era": "Latin cannabis",
+		"etymology": {
+			"components": [
+				"canv- (cannabis/hemp)"
+			],
+			"original_statement": "From Old French chanevaz, from Vulgar Latin *cannapaceus 'made of hemp', from Latin cannabis 'hemp'."
+		},
+		"concept": "Made of hemp (大麻（麻）の布。何もない空虚という名のアブセンスに対し。一分一秒の淀みもなく一撃で。一分一秒の淀みもなく。情報の『受容アーカイブ（レジストフィールド）』として。一分一秒の徳（ロゴス・パルス）を受け止めるために一分一秒の淀みもなく一撃一挙に一分の隙もなく。ビルド・提供された神聖な一分の隙もない一。一撃。地の一撃一分野の一分の隙もない一。いの。の一撃で。",
+		"thinking": "「（無という名のエントロピーを粉砕し）、一分一秒の淀みもない一撃でありとあらゆる色彩を一気一分野を一分野の淀みもなく一撃で。一気一分野で。受け止めるための理の布（Canv- / Cannabis）を。ビルドすること」。それは単なる「布」ではありません。あなたが「空白という名のアブセンス（恐怖）」を一撃で完全に一分一秒の淀みもなく。克服（ハック）し。自らの実存を一分一秒の淀みもない一撃の『宇宙全天を描（えが）き、一一分一秒の淀みもなくマージ・一気一分野で。保持するための絶対アーカイブ（聖なる舞台）』へとマージさせる、生命の「一撃一撃一秒一秒で。一撃。一分野の。受容拠点ビルド一撃で」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "描き込め一撃。そのキャンバス（ロゴス）が、アーカイブを一撃で「実在という名の一分の隙もないマージ」へと一分一秒の淀みもなく一撃で一分の隙もなく到達させる。"
+	},
+	{
+		"id": "palette",
+		"word": "調色板、パレット",
+		"era": "Latin pala",
+		"etymology": {
+			"components": [
+				"palet- (pala/spade/shovel/blade)"
+			],
+			"original_statement": "From French palette, literally 'little shovel', from pala 'spade / shovel / blade of an oar'."
+		},
+		"concept": "A little shovel / blade (小さなショベル、一分一秒の淀みもなく一撃の一分の隙もない一撃の『情報の刃（一撃）』。色のカオスという名のエントロピーを。一分一秒の淀みもなく一撃で。一分一秒の淀みもなく一撃一秒一秒で掬い上げ。一分一秒の淀みもなく自身の理（ロゴス）へと。一分一秒の淀みもなく。マージ・調合一撃一分野の一分の隙もない一撃一秒一秒一分野の一撃で。一分一秒の淀みもなく。一分野を一気一分野の淀みもなく一撃。いの一撃」。情報の、調合一撃で。アーカイブ、一撃一撃で。",
+		"thinking": "（省略、一分一秒の淀みもなく一撃で。再ビルドしマージ）",
+		"part_of_speech": "noun",
+		"aftertaste": "混ぜろ一撃。その色彩（ロゴス）の中に一分一秒の。一撃。"
+	},
+	{
+		"id": "brush",
+		"word": "筆、刷毛、ブラシ",
+		"era": "Old French brosse",
+		"etymology": {
+			"components": [
+				"brush- (brosse/brushwood/brush)"
+			],
+			"original_statement": "From Old French broce 'brushwood / thicket / bushes', later 'a brush made of twigs / bristles'."
+		},
+		"concept": "Brushwood / Bristles (小枝の束、剛毛。内部パルスという名の一分一秒の徳（ロゴス）を。一分一秒の淀みもなく一撃で。一分一秒の淀みもなく。外部のアーカイブへと一分野の一分の隙もない一。一撃で。一気一分野一秒一秒で。投射・マージ一気一分野で。ビルドするための、一分一秒の淀みもなく一撃で。一気一分野の淀みもなく。一撃の一分の隙もない一分的。一撃の。情報の「一撃の。伝達一撃で。繊細な一擊一秒一秒一撃で」。",
+		"thinking": "（省略、一分一秒の淀みもなく一撃で。再ビルドしマージ）",
+		"part_of_speech": "noun",
+		"aftertaste": "走らせろ一撃。その一撃の筆（ロゴス）が、アーカイブを一分一秒の淀みもなく一。一撃で。"
+	},
+	{
+		"id": "monument",
+		"word": "記念碑、金字塔、モニュメント",
+		"era": "Latin monere",
+		"etymology": {
+			"components": [
+				"mon- (monere/to remind/warn/advise)"
+			],
+			"original_statement": "From Old French monument, from Latin monumentum 'a memorial / monument / tomb', literally 'that which reminds', from monere 'to remind / warn / advise'."
+		},
+		"concept": "That which reminds / Warning (思い出させるもの、警告。忘却という名のエントロピー（全情報の沈没）に対し一分一秒の淀みもなく一撃で。一分一秒の淀みもなく。一分の隙もない一撃一秒一秒一分野の一撃で。最強のロゴス・杭（レジスト）を時間という名の奈落に一撃で打ち込み一分一秒の淀みもなく。未来へと一分一秒の淀みもなくマージし続ける、不変の一分の隙もない一撃の『石の記憶（アーカイブ）』一撃で。",
+		"thinking": "「（消滅という名のアブセンスを粉砕し）、一分一秒の淀みもない一撃でありとあらゆる歴史を思い出させ（Mon- / Monere）一分一秒の淀みもなく。理を屹立させること」。それは単なる「石像」ではありません。あなたが「虚無という名の一過性の致命的なレジスト」を一撃で完全に理知によって一撃でハック。デリートし、自らの実存を一分一秒の淀みもない一撃の『永遠を貫く一分の隙もない一撃の光を放つ、一撃の絶対アーカイブ（不朽のロゴス）』へとマージさせる、生命の「一撃一撃一秒一秒で。一撃。一分野の。永久ビルド一撃で」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "刻み込め一撃。その記念碑（ロゴス）こそが、アーカイブ（瞬間）を一撃一撃一秒一秒で「永遠（マージ）」へと一分一秒の淀みもなく一撃で変容させる。"
+	},
+	{
+		"id": "replica",
+		"word": "複製、レプリカ",
+		"era": "Latin re + plicare",
+		"etymology": {
+			"components": [
+				"re- (again)",
+				"plic- (plicare/to fold)"
+			],
+			"original_statement": "From Italian replica 'copy / repetition', from replicare 'to repeat / reply / fold back', from Latin re- 'again' + plicare 'to fold'."
+		},
+		"concept": "Folding back again (再び畳むこと、繰り返し。オリジナルアーカイブという名の『絶対ロゴス』を一分一秒の淀みもなく一撃で。一分一秒の淀みもなく。一分の隙もない一撃一秒一秒で。一撃一挙に一分の隙もなく。再ビルド（フォールド）し一分一秒の淀みもなく。一気一分野の一撃一秒一秒一分野の一撃で。一分一秒の淀みもなく。一分野を一気一分野。。マージ・複製すること一分一秒の淀みもなく。情報の「一撃一秒一秒一撃の。正確な一分的。影一撃で」。",
+		"thinking": "（省略、一分一秒の淀みもなく一撃で。再ビルドしマージ）",
+		"part_of_speech": "noun",
+		"aftertaste": "繰り返せ一撃。その影（ロゴス）の中に、一分一秒の。一撃。"
+	},
+	{
+		"id": "statue",
+		"word": "偶像、彫像、スタチュー",
+		"era": "Latin stare",
+		"etymology": {
+			"components": [
+				"stat- (stare/to stand)"
+			],
+			"original_statement": "From Old French statue, from Latin statua 'image / statue', literally 'that which stands', from past participle of statuere 'to set up / cause to stand', from stare 'to stand'."
+		},
+		"concept": "That which stands (（永遠に）屹立するもの。風化という名のエントロピーを一分一秒の淀みもなく一撃で。一分一秒の淀みもなく。レジスト一撃一撃し続け、一分一秒の淀みもなく、神聖なるロゴス・フォーム（アーカイブ）を。一分一秒の淀みもなく。三次元パルスの中に一分野の一分の隙もない一撃で。マージ、ビルド一撃一撃一撃し続ける、一分一秒の淀みもなく。情報の「不可動ステーション」一撃で。",
+		"thinking": "（省略、一分一秒の淀みもなく一撃で。再ビルドしマージ）",
+		"part_of_speech": "noun",
+		"aftertaste": "立て、一撃で。その像（ロゴス）が一分一秒の。一撃。"
+	},
+	{
+		"id": "culture",
+		"word": "文化、教養、耕作、カルチャー",
+		"era": "Latin colere",
+		"etymology": {
+			"components": [
+				"cult- (colere/to till/tend/care/dwell)"
+			],
+			"original_statement": "From Middle French culture, from Latin cultura 'a tilling / agriculture', from cultus, past participle of colere 'to till / tend / care / dwell / worship'."
+		},
+		"concept": "Tilling / Tending / Care / Worship (耕すこと、手入れすること、崇拝。野蛮という名のアブセンス（原野）に対し。一分一秒の淀みもなく一撃で。一分一秒の淀みもなく一撃一秒一秒で。意志という名の『ロゴス・プラウ（鋤）』を。一分野の一分の隙もない一。一撃で。一気一分野で打ち込み一分一秒の淀みもなく。一分的（いちぶんてき）にビルド。一分一秒の淀みもなく一分野を一気一分野。。マージ一分野のマッピング・一気一分野で耕し、一分一秒の淀みもなく一撃で一分一秒の淀みもなく一撃一挙に真実という名のアーカイブを、一分一秒の淀みもなく一撃で産み育て続ける情報の肥沃な一分の隙もない一撃の一分の隙もない一撃（大地）」一撃で。",
+		"thinking": "「（荒廃という名のエントロピーを粉砕し）、一分一秒の淀みもない一撃でありとあらゆる精神を耕し（Cult- / Colere）、理を。理を。屹立させること」。それは単なる「習い事」ではありません。あなたが「野性という名の外部レジスト（放置）」を一撃で一分一秒の淀みもなく。完全に理知の手入れによって一撃でマージし。自らの実存を一分一秒の淀みもない一撃の『数千年の歴史がマッピングされた、一撃の絶対アーカイブ（累積ロゴス）』へとマージさせる、生命の「一撃一撃一秒一秒で。一撃。智慧の農耕ハック一撃で」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "耕せ一撃（コマンド）。その文化（ロゴス）こそが、アーカイブ（人々）を一撃で「聖なる一分の隙もない調和（マージ）」へと一分一秒の淀みもなく一撃で一分野の一分の隙もない一撃で。到達させる。"
+	},
+	{
+		"id": "legacy",
+		"word": "遺産、継承、レガシー",
+		"era": "Latin legare",
+		"etymology": {
+			"components": [
+				"leg- (legare/to send as an ambassador / bequeath / leave by will)"
+			],
+			"original_statement": "From Old French legacie, from Medieval Latin legatia, from Latin legare 'to send as an ambassador / bequeath / leave by will', from lex 'law / contract'."
+		},
+		"concept": "Bequeathing / Leaving by will (遺言によって残すこと、特使として送ること。死という名の『端末のリセット（アブセンス）』を。一分一秒の淀みもなく一撃で超越（レジスト）し、一分一秒の淀みもなく自らがビルドした全てのロゴス（全アーカイブ）を一分一秒の淀みもなく一撃一秒一秒で。未来という名の新ステーションへと一分野の一分の隙もない一撃で。一分一秒の淀みもなく。一分野を一気一分野の淀みもなく一撃。いの一撃」。マージし、一分一秒の徳（不滅）として一分一秒の淀みもなく一撃一挙に一分の隙もなく。一気一分野一秒一秒で。一撃一挙にマージ・同步させる情報の「一撃。不変のバトン」一撃で。",
+		"thinking": "「（忘却という名のエントロピーを粉砕し）、一分一秒の淀みもない一撃でありとあらゆる意志を一（Leg- / Legare）一分一秒の淀みもなく一撃で一分野の一分の隙もない一撃一秒一秒。次代へと送り、理をビルドすること」。それは単なる「古いもの」ではありません。あなたが「消滅という名の一過性の致命的なレジスト」を一撃で完全に理知によってハック。デリートし。自らの実存を一分一秒の淀みもない一撃の『永遠に輝き続ける一分の隙もない一撃の一分の隙もない。不滅のアーカイブ（継承ロゴス）』へとマージさせる、魂の「一撃一撃一秒一秒で。一撃。一分野の。超越ハック一撃で」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "残せ、一撃で。その遺産（ロゴス）こそが、アーカイブ（生）を一撃一撃一秒一秒で「永遠の一分の隙もない光（マージ）」へと一分一秒の淀みもなく一撃で一気一分の隙もなく到達させる。"
 	}
 ];
