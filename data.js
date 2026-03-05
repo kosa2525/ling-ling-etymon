@@ -182091,5 +182091,66 @@ const WORDS = [
 			]
 		},
 		"part_of_speech": "noun"
+	},
+	{
+		"id": "harbor",
+		"word": "Harbor",
+		"meaning": "港、避難所、(思いを)抱く",
+		"era": "12th Century Old English herberge",
+		"etymology": {
+			"components": [
+				"here (army)",
+				"beorg (shelter)"
+			],
+			"original_statement": "From Old English herebeorg (shelter, lodging, guest house), from here (army) + beorg (shelter, refuge)."
+		},
+		"concept": "A shelter for an army (軍隊のための避難所・野営地)",
+		"thinking": "もともとは「船の港」ではなく「軍隊（here）」が夜に体を休めるための「野営地・避難所（beorg）」を指していました。外の荒ぶる海から守られ、深呼吸できる場所。転じて、心の中にそっと大切な思いや願いを『抱き続ける（harboring a feeling）』という意味にもなりました。",
+		"aftertaste": "荒波を超えて。静かな入り江に、すべての重荷を降ろす。",
+		"example": "The small fishing boats sought harbor before the storm broke.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "koro-",
+					"meaning": "war, army"
+				},
+				{
+					"term": "bhergh-",
+					"meaning": "to protect"
+				}
+			],
+			"points": [
+				"herald（使者：軍の命令を伝える者）の her- も同じルーツ。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "feather",
+		"word": "Feather",
+		"meaning": "羽、羽毛、軽微なもの",
+		"era": "Old English feðer",
+		"etymology": {
+			"components": [
+				"pet- (to fly, rush)"
+			],
+			"original_statement": "From Old English feðer, from Proto-Germanic *fethrō- (feather), from PIE *pet- (to fly, rush)."
+		},
+		"concept": "The instrument of flying (空飛ぶための道具、飛翔の片鱗)",
+		"thinking": "空を飛ぶための極限まで軽量化された、美しくも機能的な一枚の部品。それは「軽さ」の象徴であり、一陣の風にすら惑わされる心の不確かさを表すこともあれば、空高く羽ばたく自由を約束する証（しるし）でもあります。",
+		"aftertaste": "重力に抗う意志が、一枚の柔らかな繊維に凝縮されている。",
+		"example": "A single white feather lay quietly in the palm of her hand.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "pet-",
+					"meaning": "to rush, fly"
+				}
+			],
+			"points": [
+				"petition（請願：突進して求める）や pen（ペン：羽ペン）の pet- は『飛ぶ・急ぐ』という同じ勢いの語源。"
+			]
+		},
+		"part_of_speech": "noun"
 	}
 ];
