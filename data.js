@@ -173050,5 +173050,727 @@ const WORDS = [
 				"存在の指針。"
 			]
 		}
+	},
+	{
+		"id": "luminary",
+		"word": "Luminary",
+		"meaning": "発光体、権威者、指導者",
+		"era": "Latin lumen",
+		"etymology": {
+			"components": [
+				"lumen (light)",
+				"-ary (pertaining to)"
+			],
+			"original_statement": "From Latin luminare 'light / torch / lamp', from lumen 'light'."
+		},
+		"concept": "A source of light (光の源。漆黒の虚無（カオス）に包まれたこの世界において、自らの内なる知性と情熱を燃料として一分一秒の淀みもなく燃焼させ、周囲に『意味の光（ロゴス）』を撒き散らす絶対的な中心点)",
+		"thinking": "「（闇に屈することを拒絶し）、自らが光そのものとなって（Lumin- / Lumen）」「（一撃の情熱をもって）他者を導く存在（-ary）」。それは単なる「有名人」ではありません。あなたが「絶望という名の闇（アブセンス）」を粉砕し、そこに自らの存在を『不滅の灯台（ステーション）』として屹立させる、生の「発光」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "闇を切り裂く、理知の光。"
+	},
+	{
+		"id": "radiance",
+		"word": "Radiance",
+		"meaning": "光輝、きらめき、放たれる喜び",
+		"era": "Latin radius",
+		"etymology": {
+			"components": [
+				"radius (ray)",
+				"-ance (state/quality)"
+			],
+			"original_statement": "From Latin radiantia, from radiare 'to beam / shine', from radius 'ray'."
+		},
+		"concept": "Emitting rays (放射される光。中心（コア）に秘匿された膨大なエネルギーが、一分一秒の淀みもなく全方位へと爆発し、空間の隅々までを『自らの色（アイデンティティ）』で塗り替えていく、攻撃的なまでの美しさ)",
+		"thinking": "「（中心に留まることを物理的に不可能にし）、外側へと矢のように放たれる（Radi- / Radius）」「（一撃の純粋さをもって）溢れ出す品質（-ance）」。それは単なる「明るさ」ではありません。あなたが「卑屈な沈黙（ステイシス）」をレジストし、自らの生命力を『光の嵐（フロー）』としてこの荒野に叩きつける、魂の「拡張」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "中心から放たれる、生命の矢。"
+	},
+	{
+		"id": "visionary",
+		"word": "Visionary",
+		"meaning": "空想家、先見の明がある人、幻想的な",
+		"era": "Latin videre",
+		"etymology": {
+			"components": [
+				"visio (vision)",
+				"-ary (pertaining to)"
+			],
+			"original_statement": "From Latin visio 'act of seeing / sight', from videre 'to see'."
+		},
+		"concept": "One who sees the unseen (見えないものを見る者。まだ誰も『データ（アーカイブ）』として認識していない未来の断片を、一分一秒の淀みもなく脳内に現出させ、それを現世に引きずり下ろして固定しようとする狂気の予言者)",
+		"thinking": "「（物理的な肉眼の限界を超え）、真理の姿を直接その目に捉え（Vis- / Videre）」「（一撃の情熱をもって）それを現実へとコンバートする者（-ary）」。それは単なる「夢想家」ではありません。あなたが「目に見えるものだけの奴隷（ノイズの海）」になることを完全に粉砕（レジスト）し、そこに『まだ見ぬ新世界（ステーション）』を自らの脳髄に強制建国する、認識の「開拓」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "視線を、未来の断崖へ。"
+	},
+	{
+		"id": "insight",
+		"word": "Insight",
+		"meaning": "洞察、見通す力、インサイト",
+		"era": "Middle English / Old English",
+		"etymology": {
+			"components": [
+				"in- (into)",
+				"sight (vision)"
+			],
+			"original_statement": "Common Germanic formation, from in + sight."
+		},
+		"concept": "Sight into the depth (深淵を覗き込む視線。表面を覆い飾る『虚飾のテクスチャ（ノイズ）』を一撃で剥ぎ取り、その一番奥に隠された『不滅のロジック（核）』を一分一秒の淀みもなく直視し、捉えること)",
+		"thinking": "「（表面を撫でることをやめ）、対象の完全な内部へと（In-）」「（一撃の理知をもって）視線を突き刺し、理解する（Sight）」。それは単なる「理解」ではありません。あなたが「情報の濁流（カオス）」に溺れることをレジストし、そこに『真理の骨組み（ロゴス）』を明確に抽出する、精神の「レントゲン」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "表面を剥ぎ、核を穿つ視線。"
+	},
+	{
+		"id": "epiphany",
+		"word": "Epiphany",
+		"meaning": "突然のひらめき、啓示、公現祭",
+		"era": "Greek epiphaneia",
+		"etymology": {
+			"components": [
+				"epi- (upon/to)",
+				"phainein (to show)"
+			],
+			"original_statement": "From Greek epiphaneia 'appearance / manifestation', from epiphainesthai 'to appear / come into view', from epi- 'upon/to' + phainein 'to show'."
+		},
+		"concept": "A showing upon (突如として示されること。厚い雲（退屈なステイシス）が空間を一撃で切り裂き、そこから神の指先のような『究極の答え（パルス）』が脳髄へと直接ダウンロードされる、不可逆的な認識の爆発)",
+		"thinking": "「（自分の努力の延長線上にない場所から）、不意に上から（Epi-）」「（一分一秒の淀みもなく）真理がその姿を全開にして現れる（-phany / Phainein）」。それは単なる「思いつき」ではありません。あなたが「思考の迷路（アイソレーション）」で彷徨い死ぬのを宇宙が憐れみ、そこに『絶対的な出口（ステーション）』を強制的にライトアップする、知の「奇跡」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "突如として訪れる、光の全開。"
+	},
+	{
+		"id": "diligent",
+		"word": "Diligent",
+		"meaning": "勤勉な、入念な、ディリジェント",
+		"era": "Latin di + legere",
+		"etymology": {
+			"components": [
+				"di- (asunder)",
+				"legere (to choose)"
+			],
+			"original_statement": "From Latin diligentem 'attentive / careful', from diligere 'single out / value / love / choose', from di- 'asunder' + legere 'choose'."
+		},
+		"concept": "To choose apart (選び分けること。有象無象の『無価値な誘惑（ノイズ）』を力技で一撃で粉砕し、ただ一つ自分にとって絶対価値のある『使命（アーカイブ）』のみを愛し抜き、一分一秒の淀みもなくそれを磨き続ける狂気の持続性)",
+		"thinking": "「（どっちつかずの状態を拒絶し）、バラバラな選択肢からこれだけを明確に分かち（Di-）」「（一撃の情熱をもって）選び取り、愛し、注力する（-ligent / Legere）」。それは単なる「真面目」ではありません。あなたが「怠慢という名のエントロピー」に飲み込まれるのを全身霊でレジストし、そこに自らの『魂の結晶（ステーション）』を彫り込み続ける、意志の「研磨」なのです。",
+		"part_of_speech": "adjective",
+		"aftertaste": "選び取り、磨き上げる、沈黙の愛。"
+	},
+	{
+		"id": "persistent",
+		"word": "Persistent",
+		"meaning": "粘り強い、固執する、永続的な",
+		"era": "Latin per + sistere",
+		"etymology": {
+			"components": [
+				"per- (through)",
+				"sistere (to stand)"
+			],
+			"original_statement": "From Latin persistentem, from persistere 'continue steadfastly', from per- 'through' + sistere 'take a stand', from stare 'to stand'."
+		},
+		"concept": "To stand through (貫いて立つこと。宇宙から降り注ぐ『あらゆる逆境と時間という名の劣化（ノイズ）』に対し、そのすべてを真正面からレジストし、一分一秒の淀みもなく当初の『地点（ステーション）』に一撃の杭のように屹立し続けること)",
+		"thinking": "「（どんな圧力や風化が襲おうとも）、最初から最後まで貫いて（Per-）」「（一撃の狂気をもって）同じ場所に立ち続ける（-sistent / Sistere）」。それは単なる「しつこい」ではありません。あなたが「諦めという名の消失（アブセンス）」を粉砕し、そこに自らの存在の『絶対的な不変性（ロゴス）』を証明し続ける、生の「要塞」なのです。",
+		"part_of_speech": "adjective",
+		"aftertaste": "嵐の中に打ち込まれた、不滅の杭。"
+	},
+	{
+		"id": "resilience",
+		"word": "Resilience",
+		"meaning": "回復力、弾力、レジリエンス",
+		"era": "Latin re + salire",
+		"etymology": {
+			"components": [
+				"re- (back)",
+				"salire (to jump)"
+			],
+			"original_statement": "From Latin resiliens 'to recoil / rebound', from resilire 'to leap back', from re- 'back' + salire 'to jump / leap'."
+		},
+		"concept": "To jump back (跳ね返ること。外部からの猛烈な『打撃（一撃のカオス）』によって一度はグシャグシャに押し潰されようとも、自らの深層に秘められた『最強の原形質（アーカイブ・コア）』の力で、一分一秒の淀みもなく元の『完成された形（ステーション）』へと跳ね起き、再生すること)",
+		"thinking": "「（どん底まで突き落とされても）、再び元の場所へ向かって（Re-）」「（一撃の爆発力をもって）跳ね、立ち上がる性質（-silience / Salire）」。それは単なる「打たれ強さ」ではありません。あなたが「破壊という名の敗北（エントロピー）」をレジストし、そこに自らの魂が持っている『無限の自己復元プログラム（ロゴス）』を発動させる、生命の「再起動」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "屈辱をバネにする、魂の跳躍。"
+	},
+	{
+		"id": "integrity",
+		"word": "Integrity",
+		"meaning": "誠実さ、完全性、不分割性",
+		"era": "Latin integer",
+		"etymology": {
+			"components": [
+				"integer (whole/untouched)"
+			],
+			"original_statement": "From Latin integritatem 'soundness / wholeness', from integer 'whole / untouched / complete', from in- 'not' + tag- (root of tangere 'to touch')."
+		},
+		"concept": "The state of being untouched/whole (触れられていない完全な状態。妥協や嘘といった『外部の汚れ（ノイズ）』によって自分の魂を一ミリも粉砕されず、一分一秒の淀みもなく『最初から持っていた純粋な設計図（ロゴス）』のまま一塊の岩（ステーション）として屹立している状態)",
+		"thinking": "「（他人の評価や都合といった指先に）、決して触れられず、汚されず（In- + Tang- / Integer）」「（一撃の純粋さをもって）分かたれぬ一つの全体であることを保つ（-ity）」。それは単なる「正直」ではありません。あなたが「自分を売り渡すという裏切り（エントロピー）」を完全にレジストし、そこに自らの存在を『絶対的に不可侵な聖域（アーカイブ）』として完成させる、美の「不分割」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "誰の指先も届かない、高潔な全体。"
+	},
+	{
+		"id": "authentic",
+		"word": "Authentic",
+		"meaning": "本物の、信頼できる、オーセンティック",
+		"era": "Greek authentikos",
+		"etymology": {
+			"components": [
+				"autos (self)",
+				"hentes (doer/worker)"
+			],
+			"original_statement": "From Greek authentikos 'original / genuine', from authentes 'one acting on one's own authority', from autos 'self' + hentes 'doer / being'."
+		},
+		"concept": "Derived from the self (自己から発するもの。他人の受け売り（コピー・アーカイブ）を拒絶し、自らの深層から湧き出た一撃の『独自の熱量（パルス）』だけで構築された、一点の曇りもない『真実の在り方（ステーション）』)",
+		"thinking": "「（誰かの操り人形でなく）、自分自身の手で（Auto- / Autos）」「（一分一秒の淀みもなく）やり遂げられ、産み落とされた真正なもの（-hentic / Hentes）」。それは単なる「本物っぽさ」ではありません。あなたが「平均化された凡庸なノイズ」を粉砕し、そこに宇宙で唯一無二の『私という名の原典（ロゴス）』を屹立させる、存在の「自署」なのです。",
+		"part_of_speech": "adjective",
+		"aftertaste": "借り物の言葉を捨て、自己を握る。"
+	},
+	{
+		"id": "harmony",
+		"word": "Harmony",
+		"meaning": "調和、和声、ハーモニー",
+		"era": "Greek harmos",
+		"etymology": {
+			"components": [
+				"harmos (joint/fitting together)"
+			],
+			"original_statement": "From Old French armonie, from Latin harmonia, from Greek harmonia 'joint / agreement / concord', from harmos 'joint / shoulder'."
+		},
+		"concept": "A fitting together (繋ぎ合わされること。バラバラで互いを攻撃し合う『孤立したパルス群（カオス）』に対し、理知による巨大な『共通の旋律（マージ・プロトコル）』を導入し、一分一秒の淀みもなくそれらを一つの巨大な『美しき全体（ネットワーク）』へと統合すること)",
+		"thinking": "「（互いのエゴをぶつけ合うことをやめ）、ぴったりと繋ぎ合わされ（Harm- / Harmos）」「（一撃の円滑さをもって）共鳴し合う状態（-ony）」。それは単なる「仲良し」ではありません。あなたが「不協和音という名のエネルギーロス（ノイズ）」を粉砕し、そこに複数の引力を一つの『完璧な公転軌道（ロゴス）』へと集束させる、宇宙の「精密調整」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "互いの隙間に滑り込み、一つの曲を奏でる。"
+	},
+	{
+		"id": "synergy",
+		"word": "Synergy",
+		"meaning": "相乗効果、シナジー",
+		"era": "Greek syn + ergon",
+		"etymology": {
+			"components": [
+				"syn- (together)",
+				"ergon (work)"
+			],
+			"original_statement": "From Greek synergia 'a working together', from synergos 'working together', from syn- 'together' + ergon 'work'."
+		},
+		"concept": "Working together (共に働くこと。独立した二つの『ステーション』が結合（マージ）した際、単なる足し算（ノイズの累積）ではなく、それぞれの引力が干渉し合って一分一秒の淀みもなく『全く新しい第三の巨大な爆発力（超ベクトル）』を生み出す神秘的な現象)",
+		"thinking": "「（バラバラに戦うのをやめ）、共に（Syn-）」「（一撃の情熱をもって）働き、相互作用する（-ergy / Ergon）」。それは単なる「協力」ではありません。あなたが「個体の限界という名の壁（アイソレーション）」を完全にレジストし、複数の波を一つに束ねることで『物理法則を超越した巨大な一撃（ロゴス化された奇跡）』をこの荒野に叩き出す、存在の「掛け算」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "一と一が混ざり、三の雷鳴を轟かせる。"
+	},
+	{
+		"id": "catalyst",
+		"word": "Catalyst",
+		"meaning": "触媒、きっかけとなる人",
+		"era": "Greek kata + lyein",
+		"etymology": {
+			"components": [
+				"kata- (down)",
+				"lyein (loosen)"
+			],
+			"original_statement": "From chemical term catalysis (1835), from Greek katalysis 'dissolution / a loosening', from katalyein 'to dissolve', from kata- 'down' + lyein 'to loosen'."
+		},
+		"concept": "To loosen down (解きほぐし、反応を加速させるもの。停滞し、冷え切った『死のようなステイシス』の世界に一撃で投入され、硬い因果の鎖を一分一秒の淀みもなく「スッ」と解きほぐして、劇的な『変容（メタモルフォーゼ）』への引き金を引く狂気のスパイス)",
+		"thinking": "「（膠着状態を維持しようとするエントロピーを）、下から崩して（Kata-）」「（一撃の鮮烈さをもって）解き放ち、爆発的な変化を導くもの（-lyst / Lyein）」。それは単なる「きっかけ」ではありません。あなたが「変わることへの恐怖（レジスト）」を粉砕し、対象の中に眠っている『全生命エネルギー』を一瞬で引き出し、別の形へとコンバートさせる、運命の「酵素」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "一石を投じ、淀んだ水面を沸騰させる。"
+	},
+	{
+		"id": "momentum",
+		"word": "勢い、弾み、モメンタム",
+		"era": "Latin movere",
+		"etymology": {
+			"components": [
+				"movere (to move)",
+				"-mentum (instrument/state)"
+			],
+			"original_statement": "From Latin momentum 'movement / moving power / instant', contraction of movimentum, from movere 'to move'."
+		},
+		"concept": "Moving power (動く力。静止して腐っていく『死のステイシス』を完全に粉砕し、一度火がついたら何ものにも止められない一撃の『巨大な質量の奔流（ベクトル）』となって、空間を一分一秒の淀みもなく突き進んでいく絶対的な慣性)",
+		"thinking": "「（留まることを罪と定義し）、動き出し（Mo- / Movere）」「（一撃の衝撃力を伴って）その速度を維持し続ける証（-mentum）」。それは単なる「スピード」ではありません。あなたが「摩擦という名の抵抗（ノイズ）」を完全にレジストし、自らの存在を『止まらない一撃（ロゴス化された暴走）』へと昇華させ、目的地（ステーション）へと肉薄する、生の「加速」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "止まれば死、進めば光。"
+	},
+	{
+		"id": "velocity",
+		"word": "速度、速さ、ベロシティ",
+		"era": "Latin velox",
+		"etymology": {
+			"components": [
+				"velox (swift)",
+				"-ity (state/quality)"
+			],
+			"original_statement": "From Latin velocitatem 'swiftness / speed', from velox 'swift / rapid'."
+		},
+		"concept": "The state of being swift (速いこと。時間の壁を一撃でぶち抜き、一分一秒の淀みもなく『地点Aから地点B（新たなアーカイブ）』へと自らを転送し終えるという、空間の制約に対する物理的な勝利)",
+		"thinking": "「（のっそりと流れる退屈な時間を切り裂いて）、神の如き速さで（Veloc- / Velox）」「（一撃の精度をもって）その速さを体現する品質（-ity）」。それは単なる「キロメートル毎時」ではありません。あなたが「停滞という名の重力」を全身霊で粉砕（レジスト）し、そこに自らの命を『一閃の光（ロゴス）』へと変えて空間を蹂躙する、知性の「疾風」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "景色を置き去りにし、一瞬で彼方へ。"
+	},
+	{
+		"id": "gravity",
+		"word": "重力、重大さ、真剣さ",
+		"era": "Latin gravis",
+		"etymology": {
+			"components": [
+				"gravis (heavy)",
+				"-ity (state/quality)"
+			],
+			"original_statement": "From Latin gravitatem 'weight / heaviness / dreadness', from gravis 'heavy / serious'."
+		},
+		"concept": "Heaviness (重さ。あらゆるものを自らの中心（ステーション）へと引き寄せ、一分一秒の淀みもなく地面へと縛り付ける『宇宙の冷徹な法（アーカイブ）』。あるいは、軽薄な『浮ついた言葉（ノイズ）』を一撃で黙らせる、存在の圧倒的な『質量（ウェイト）』)",
+		"thinking": "「（ふわふわと逃げ去ることを許さず）、地面へと重く垂直に（Grav- / Gravis）」「（一撃の真剣さと恐怖を伴って）そこに根ざす性質（-ity）」。それは単なる「引力」ではありません。あなたが「浮ついた空虚さ（アブセンス）」を粉砕し、自らの足元に『絶対的な中心核（ロゴス）』を打ち立て、すべてを自分の磁場に強制マージさせる、存在の「引力」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "地に足をつけ、宇宙を引き寄せる。"
+	},
+	{
+		"id": "horizon",
+		"word": "地平線、視野、限界、ホライズン",
+		"era": "Greek horos",
+		"etymology": {
+			"components": [
+				"horizein (to limit/boundary)",
+				"horos (boundary)"
+			],
+			"original_statement": "From Greek horizon (kyklos) 'bounding (circle)', from horizein 'to bound / limit / divide', from horos 'boundary / limit'."
+		},
+		"concept": "A bounding limit (境界を定めるもの。天と野（カオスとロゴス）の間に一分一秒の淀みもなく引かれた『最終的な防衛線（絶対のステーション）』であり、そこから先はまだ誰も知らない『未知のアーカイブ』が始まるという、希望と絶望の交差点)",
+		"thinking": "「（際限なく広がる不安な空間に対し）、ここが限界だという線を（Horiz- / Horos）」「（一撃の明確さをもって）引き、二つの世界を分断するもの」。それは単なる「景色」ではありません。あなたが「無限という名の迷子状態（アイソレーション）」を粉砕し、そこに自らの認識が届き得る『最果ての壁（ロゴス）』を設定する、視界の「統治」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "線の向こう、まだ見ぬ光を睨む。"
+	},
+	{
+		"id": "zenith",
+		"word": "天頂、頂点、絶頂",
+		"era": "Arabic samt ar-ras",
+		"etymology": {
+			"components": [
+				"samt (path)",
+				"ar-ras (the head)"
+			],
+			"original_statement": "From Old French zenith, from Medieval Latin cenit, a misreading of Arabic samt (ar-ras) 'path (over the head)'."
+		},
+		"concept": "Point over head (頭上の道、頂点。自らの『登攀（アクション）』が到達し得る、一分一秒の淀みもない物理的な最高高度（ステーション）。そこから見下ろせば、あらゆる『下位のノイズ』は米粒のように小さく粉砕される)",
+		"thinking": "「（地面を這うことを完全に拒絶し）、天の真ん中、自分自身の頭上へと貫かれた（Zenith / Samt）」「（一撃の情熱によってのみ到達可能な）最高の極点」。それは単なる「ピーク」ではありません。あなたが「地上の凡庸さ（重力）」を全身霊でレジストし、自らの魂を『宇宙の真芯（ロゴス）』へと最も近づけた瞬間の、栄光の「戴冠」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "真上を見上げ、太陽の冠を盗む。"
+	},
+	{
+		"id": "pinnacle",
+		"word": "尖塔、頂上、最高峰",
+		"era": "Latin pinna",
+		"etymology": {
+			"components": [
+				"pinna (wing/feather/point)",
+				"-cle (diminutive)"
+			],
+			"original_statement": "From Late Latin pinnaculum 'a peak / gable', from pinna 'wing / feather / fin / battlement'."
+		},
+		"concept": "A small wing/point (尖った頂き。雲を突き抜けて一分一秒の淀みもなく鋭利に屹立する、天を切り裂くナイフのような『最終到達点（ステーション）』。それは孤独（アイソレーション）と隣り合わせの、最も純粋な存在の形)",
+		"thinking": "「（丸まって収まることをやめ）、針のように鋭く一点を指して（Pinn- / Pinna）」「（一撃の完成度をもって）空を突くような構造（-acle）」。それは単なる「屋根の上の飾り」ではありません。あなたが「曖昧さという名の妥協」を粉砕し、自らの努力を『一滴の神聖な針先』へと凝縮させて空間を支配する、理知の「切っ先」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "鋭く、冷たく、最も高い場所。"
+	},
+	{
+		"id": "apex",
+		"word": "頂点、先端、アペックス",
+		"era": "Latin apex",
+		"etymology": {
+			"components": [
+				"apex (summit/peak)"
+			],
+			"original_statement": "From Latin apex 'the top / summit / peak / tip'."
+		},
+		"concept": "The absolute tip (絶対的な先端。三角形のような『構造体（ロゴス）』が、一分一秒の淀みもなくその全質量（ウェイト）をたった一つの『ドット（特異点）』へと集束させ、宇宙にその存在を証明する、最も峻烈な意思の結実)",
+		"thinking": "「（広がって薄まることを拒絶し）、一点の狂いもない最上部へと（Apex）」「（一撃の密度をもって）収束された力」。それは単なる「一番上」ではありません。あなたが「分散という名のエントロピー」を完全にレジストし、自らの全生命を『一本の光の矢の先端』へとマージして、存在の壁を突破する、進化の「最前線」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "全てを集め、一点で天を突く。"
+	},
+	{
+		"id": "abyss",
+		"word": "深淵、奈落、深み",
+		"era": "Greek a + byssos",
+		"etymology": {
+			"components": [
+				"a- (without)",
+				"byssos (bottom)"
+			],
+			"original_statement": "From Greek abyssos 'bottomless', from a- 'without' + byssos 'bottom of the sea'."
+		},
+		"concept": "Bottomless void (底のない空虚。どれだけ視線を投げ入れようとも、一分一秒の淀みもなく暗黒（カオス）が吸い込み続け、決してそこから『情報（アーカイブ）』が返ってこない、宇宙の絶対的な欠落地点（アブセンス）)",
+		"thinking": "「（足がかりを探すことを嘲笑い）、底を完全に欠いた（A- + Byss-）」「（一撃の暗黒をもって）どこまでも滑り落ちていく虚無の状態（-oss）」。それは単なる「深い穴」ではありません。あなたが「理解できるという傲慢（ロゴス）」を粉砕され、そこに自らのちっぽけな存在（ノイズ）が飲み込まれて消失していくという、存在の「絶対無」の恐怖なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "視線さえ返らぬ、暗黒の垂直線。"
+	},
+	{
+		"id": "profound",
+		"word": "深い、深遠な、重大な",
+		"era": "Latin pro + fundus",
+		"etymology": {
+			"components": [
+				"pro- (before/forth)",
+				"fundus (bottom)"
+			],
+			"original_statement": "From Old French profond, from Latin profundus 'deep / vast / obscure / profound', from pro- 'forth' + fundus 'bottom'."
+		},
+		"concept": "Deep bottom / Forth from bottom (底まで届くこと、あるいは底から湧き上がること。表面のさざ波（浅いノイズ）を一分一秒の淀みもなく突き抜け、物の怪が潜むような『真理の最深層（ステーション）』にまで一撃で到達している重厚な知性)",
+		"thinking": "「（浅瀬でチャプチャプ遊ぶのをやめ）、真の底、一番深い場所へと（-found / Fundus）」「（一撃の沈黙を伴って）突き進んだ状態（Pro-）」。それは単なる「難しい」ではありません。あなたが「常識という名の薄氷（ステイシス）」を力技で粉砕し、その下の『暗冷な、しかし確固たるロゴスの地平（深淵）』へとダイブして真理を抱え上げる、知の「潜水」なのです。",
+		"part_of_speech": "adjective",
+		"aftertaste": "浅瀬を捨て、暗い底の真実を掴む。"
+	},
+	{
+		"id": "abstract",
+		"word": "抽象的な、抽象画、アブストラクト",
+		"era": "Latin ab + trahere",
+		"etymology": {
+			"components": [
+				"ab- (away)",
+				"trahere (to draw)"
+			],
+			"original_statement": "From Latin abstractus 'drawn away', past participle of abstrahere 'to drag away / detach / pull away / divert', from ab- 'away' + trahere 'to draw'."
+		},
+		"concept": "Drawn away from (引き出されたもの。泥臭い『具体的な現実（カオス）』の不純物を一分一秒の淀みもなく取り除き、そこから本質的な『骨組み（ロゴス・アーカイブ）』だけを一撃で「スッ」と空中へと引き抜き、純粋な形に固定すること)",
+		"thinking": "「（個々のノイズに惑わされることをやめ）、そこから共通の核を遠ざけて引き抜く（Ab- + Tract- / Trahere）」。それは単なる「わかりにくい」ではありません。あなたが「情報の濁流（ウェイト）」をレジストし、そこに自らの理知が作り上げた『一分一秒の淀みもない絶対の形式（ステーション）』を屹立させる、思考の「蒸留」なのです。",
+		"part_of_speech": "adjective",
+		"aftertaste": "肉を削ぎ落とし、骨（ロゴス）だけを残す。"
+	},
+	{
+		"id": "concrete",
+		"word": "具体的な、固まった、コンクリート",
+		"era": "Latin con + crescere",
+		"etymology": {
+			"components": [
+				"con- (together)",
+				"crescere (to grow)"
+			],
+			"original_statement": "From Latin concretus 'condensed / hardened / thick / hard', past participle of concrescere 'to grow together / condense', from com- 'together' + crescere 'to grow'."
+		},
+		"concept": "Grown together (共に成長し、固まったもの。空中を漂う『曖昧な概念（ノイズ・パルス）』たちを、一分一秒の淀みもなく一つの場所にマージ（結合）させ、触れることも壊すこともできない強固な『現実（ステーション）』へと結晶化させること)",
+		"thinking": "「（バラバラに消え去ることを拒絶し）、すべてを一つに合わせて（Con-）」「（一撃の質量をもって）固め、成長させた形（-crete / Crescere）」。それは単なる「セメントの塊」ではありません。あなたが「虚無という名のアブセンス」を粉砕し、そこに自らの手で『確かに触知できる不滅の大地（ロゴス）』を強引に産み落とす、存在の「受肉」なのです。",
+		"part_of_speech": "adjective",
+		"aftertaste": "思考を、硬い現実に叩きつける。"
+	},
+	{
+		"id": "manifest",
+		"word": "明らかな、表明する、マニフェスト",
+		"era": "Latin manus + fers",
+		"etymology": {
+			"components": [
+				"manus (hand)",
+				"festus/fendere (struck/seized)"
+			],
+			"original_statement": "From Latin manifestus 'plainly visible / evident / palpable', literally 'seized by hand', from manus 'hand' + -festus 'struck'."
+		},
+		"concept": "Struck by hand / Seized (手で掴めるほど目の前にあること。隠されていた『真実（アーカイブ）』が、一分一秒の淀みもなくその覆いを引き剥がされ、誰もが否定できない一撃の『絶対的な事実（ステーション）』として空間に現出している状態)",
+		"thinking": "「（曖昧な噂話を粉砕し）、この手で直接（Manu- / Manus）」「（一撃の確信をもって）引っ掴み、固定し、示したもの（-fest / Fenders）」。それは単なる「明らか」ではありません。あなたが「隠蔽という名の闇」を全身霊でレジストし、そこに自らの意志を『不特定多数に突きつける挑戦状（ロゴス）』として公然と屹立させる、真実の「抜刀」なのです。",
+		"part_of_speech": "adjective",
+		"aftertaste": "言い訳を絶ち、目の前の事実で語る。"
+	},
+	{
+		"id": "latent",
+		"word": "潜在的な、潜んでいる",
+		"era": "Latin latere",
+		"etymology": {
+			"components": [
+				"latere (to lie hidden)"
+			],
+			"original_statement": "From Latin latentem 'hidden / concealed / secret', from latere 'to lie hidden'."
+		},
+		"concept": "Lying hidden (潜んでいること。表面上は何の変化もない『静止（ステイシス）』を装いながら、その深層（アーカイブ・コア）には今にも爆発せんとする『巨大な熱量（パルス）』を一分一秒の淀みもなく溜め込み、目覚めの時を待っている不気味な静寂)",
+		"thinking": "「（派手に見せびらかすことを嘲笑い）、奥底に深く身を潜めている（Latent / Latere）」。それは単なる「隠れている」ではありません。あなたが「早まった露出（ノイズ化）」を完全にレジストし、自らの牙を『絶対的な一撃の牙（ロゴス）』として研ぎ澄ませながら、一瞬の隙を狙って牙を剥くための、力の「圧縮」なのです。",
+		"part_of_speech": "adjective",
+		"aftertaste": "静寂の奥、爆発の種火を抱く。"
+	},
+	{
+		"id": "potential",
+		"word": "潜在能力、可能性、ポテンシャル",
+		"era": "Latin potentia",
+		"etymology": {
+			"components": [
+				"potis (powerful/able)",
+				"-ent (being)"
+			],
+			"original_statement": "From Latin potentialis, from potentia 'power / might / force', from potens 'powerful', from potis 'able / powerful'."
+		},
+		"concept": "Being powerful (力を持っていること。まだ『行動（ベクトル）』としては発現していないが、魂のアーカイブに一分一秒の淀みもなくストックされた『無限の爆発エネルギー（ウェイト）』であり、それが解放されれば世界を粉砕し再構築できるという予感)",
+		"thinking": "「（今はまだ静止しているが）、内に秘められた絶大なる力（Potenti- / Potis）」「（一撃の解放を待つ）状態（-al）」。それは単なる「できそう」ではありません。あなたが「自分はこの程度だという限界（アイソレーション）」を粉砕し、自らの内なる深淵（ソース）に『神の如き全能感（ロゴス）』を充填し続ける、存在の「充電」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "まだ放たれぬ、最強の一撃の予感。"
+	},
+	{
+		"id": "kinetic",
+		"word": "運動の、動的な、キネティック",
+		"era": "Greek kinein",
+		"etymology": {
+			"components": [
+				"kinein (to move)"
+			],
+			"original_statement": "From Greek kinetikos 'moving / putting in motion', from kinetos 'moved', from kinein 'to move'."
+		},
+		"concept": "Putting in motion (動かすこと。溜め込まれた『潜在エネルギー（ポテンシャル）』が、一分一秒の淀みもなく『物理的破壊力（インパクト）』へと変換され、空間をマッハで突き進んで対象を粉砕し始める、生の爆発的発露)",
+		"thinking": "「（静かに眠っていることを拒絶し）、爆発的な動きへと転換された（Kinet- / Kinein）」「（一撃の推進力を伴う）性質（-ic）」。それは単なる「動いている」ではありません。あなたが「死という名の静止（ステイシス）」を物理的にレジストし、自らの全質量を『止められない弾丸（ロゴス）』へと変え、運命を無理やり押し広げる、生命の「躍動」なのです。",
+		"part_of_speech": "adjective",
+		"aftertaste": "概念を捨て、肉体と化して飛翔する。"
+	},
+	{
+		"id": "static",
+		"word": "静止した、静的な、静電気",
+		"era": "Greek statikos",
+		"etymology": {
+			"components": [
+				"stasis (standing/stoppage)"
+			],
+			"original_statement": "From Greek statikos 'causing to stand', from statos 'placed / standing', from histasthai 'to stand'."
+		},
+		"concept": "Weight causing to stand (立ち止まらせる重み。一分一秒の淀みもなく激動する宇宙の中で、あえて『その場所（ステーション）』に一撃の杭のように踏み止まり、微塵も動かずに周囲に蓄積（アーカイブ）し続ける、恐るべき維持の力)",
+		"thinking": "「（フラフラと流されることを粉砕し）、その場に屹立し続ける（Stat- / Stasis）」「（一撃の不動心を伴う）状態（-ic）」。それは単なる「止まっている」ではありません。あなたが「無意味な変化という名のノイズ」を全身霊でレジストし、自らの信念を『絶対不動の基神（ロゴス）』として空間に固定し続ける、存在の「固持」なのです。",
+		"part_of_speech": "adjective",
+		"aftertaste": "流転を拒み、一地点を死守する。"
+	},
+	{
+		"id": "dynamic",
+		"word": "活動的な、動的な、ダイナミック",
+		"era": "Greek dynamis",
+		"etymology": {
+			"components": [
+				"dynamis (power/force)"
+			],
+			"original_statement": "From French dynamique, from Greek dynamikos 'powerful', from dynamis 'power / might / strength'."
+		},
+		"concept": "Full of power (力に満ち溢れていること。一分一秒の淀みもなく形を変え、膨張し、常に『新しいアーカイブ』を産み落とし続ける、宇宙のエントロピー（増大）にさえ打ち勝つほどの、生の圧倒的で無秩序なまでの駆動力)",
+		"thinking": "「（形骸化した過去の設計図を粉砕し）、常に新しいエネルギーを爆発させ続ける（Dynam- / Dynamis）」「（一撃の変化を伴う）品質（-ic）」。それは単なる「元気」ではありません。あなたが「古びた安定（ステイシス）」を全身霊でレジストし、自らを『常に燃焼し続ける太陽（ロゴス）』へと変貌させ、世界を焼き尽くし再構築する、生の「連鎖反応」なのです。",
+		"part_of_speech": "adjective",
+		"aftertaste": "安定を殺し、変化の中に永遠を見る。"
+	},
+	{
+		"id": "equilibrium",
+		"word": "平衡、均衡、心の平穏",
+		"era": "Latin aequus + libra",
+		"etymology": {
+			"components": [
+				"aequus (equal)",
+				"libra (weight/balance)"
+			],
+			"original_statement": "From Latin aequilibris 'at equal weight / even-balanced', from aequus 'equal' + libra 'weight / balance'."
+		},
+		"concept": "Equal weight (等しい重さ。荒れ狂う『カオス（外部のノイズ）』と、自らを貫く『ロゴス（内部の法）』が、一分一秒の淀みもなく拮抗し合い、天秤の針がど真ん中で一撃の不動（ステーション）として停止している、最高度の緊張状態)",
+		"thinking": "「（どちらかに傾いて有利不利が生じるのを拒絶し）、水平に、平らに（Equi- / Aequus）」「（一撃の精密さをもって）重さを釣り合わせる（-librium / Libra）」。それは単なる「バランス」ではありません。あなたが「感情の暴走（不安定なパルス）」を全身霊でレジストし、そこに自らの知性が作り上げた『絶対平衡の地平（アーカイブ）』を屹立させる、精神の「極限調整」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "嵐の中心、完璧に静止した天秤。"
+	},
+	{
+		"id": "entropy",
+		"word": "エントロピー、無秩序、衰退",
+		"era": "Greek en + trope",
+		"etymology": {
+			"components": [
+				"en- (in)",
+				"trope (turn)"
+			],
+			"original_statement": "Coined in 1865 by Clausius on model of energy, from Greek en- 'in' + trope 'a turning / change'."
+		},
+		"concept": "A turning inward (内部への転落、無秩序化。放っておけばすべての『美しいロゴス（秩序あるアーカイブ）』は粉砕され、一分一秒の淀みもなく温い『ドロドロのスープ（死のカオス）』へと還っていくという、宇宙の最も残酷な絶対死の方向性)",
+		"thinking": "「（外への成長を諦め）、内側へと崩れ落ちていく変化（En- + Trope）」。それは単なる「不潔」や「乱雑」ではありません。あなたが「生きるための努力（レジスト）」を止めた瞬間に襲いかかる、存在が『情報のゴミ』へと成り果てるための、宇宙の「溶解タイマー」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "静かに進む、秩序の処刑。"
+	},
+	{
+		"id": "cosmos",
+		"word": "宇宙、秩序、コスモス",
+		"era": "Greek kosmos",
+		"etymology": {
+			"components": [
+				"kosmos (order/adornment)"
+			],
+			"original_statement": "From Greek kosmos 'order / good order / orderly arrangement / the world / the universe'."
+		},
+		"concept": "Orderly arrangement (整った配置。無限に広がる『死のカオス』の中に、理知という名の強靭な鎖を打ち込んで一分一秒の淀みもなく統合（マージ）し、一撃の美しい『法（ロゴス）が支配する巨大ネットワーク（アーカイブ）』として屹立させたもの)",
+		"thinking": "「（無意味に飛び散る星々を粉砕し）、すべてに正しい場所と意味を与える理知（Cosmos / Kosmos）」「（一撃の完璧さをもって）装飾され、構築された世界」。それは単なる「銀河」ではありません。あなたが「虚無という名の暗黒（アブセンス）」を全身霊で拒絶（レジスト）し、そこに自らの理知が作り上げた『一分一秒の淀みもない完璧な箱庭（ステーション）』を降臨させる、存在の「勝利の全体像」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "カオスを縛り、美しき檻（秩序）を作る。"
+	},
+	{
+		"id": "chaos",
+		"word": "混沌、無秩序、カオス",
+		"era": "Greek chaos",
+		"etymology": {
+			"components": [
+				"chaos (abyss/void/gaping)"
+			],
+			"original_statement": "From Greek khaos 'abyss / that which gapes wide / is vast and empty'."
+		},
+		"concept": "A gaping void (大きく口を開けた虚無。何の意味も形も持たず、一分一秒の淀みもなくただ『ドロドロとランダムなパルス』が飛び交い、あらゆる『ロゴス（秩序）』を粉砕し、飲み込んでしまう、宇宙の原初の絶望)",
+		"thinking": "「（形あるすべてのものを嘲笑い）、意味の不在という奈落へと引きずり込む（Chaos / Khaos）」。それは単なる「散らかっている」状態ではありません。あなたが「理知という名の武器（ステーション）」を失った瞬間に、自らの存在が『一分一秒の淀みもない情報のノイズ』へと還元され、消滅してしまうという、生の「絶対零度」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "全てを溶かす、暗黒の産湯。"
+	},
+	{
+		"id": "logic",
+		"word": "論理、理屈、ロジック",
+		"era": "Greek logos",
+		"etymology": {
+			"components": [
+				"logos (word/reason)"
+			],
+			"original_statement": "From Old French logique, from Latin logica, from Greek logike (techne) 'reasoning (art)', from logos 'word / reason / discourse / idea'."
+		},
+		"concept": "The art of reason / Word (言葉と理知の技法。感情や状況といった『不定形のノイズ（カオス）』に対し、一撃の強靭な『思考の骨組み（ロゴス・アーカイブ）』をぶち込み、一分一秒の淀みもなく「AならばB」という『鋼の連鎖（ネットワーク）』を構築すること)",
+		"thinking": "「（感覚でふわふわ捉えることを粉砕し）、言葉によって世界を一撃で串刺しにする（Log- / Logos）」「（一分一秒の淀みもない）思考の技術（-ic）」。それは単なる「屁理屈」ではありません。あなたが「カオスへの恐怖」を全身霊でレジストし、自分とこの宇宙を繋ぐための『絶対に折れない不滅の軌道（ステーション）』を思考の荒野に彫り込む、知性の「骨格」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "感情を殺し、冷たい真理の糸を紡ぐ。"
+	},
+	{
+		"id": "intuition",
+		"word": "直感、直観、インテュイション",
+		"era": "Latin in + tueri",
+		"etymology": {
+			"components": [
+				"in- (at/on)",
+				"tueri (to watch/guard)"
+			],
+			"original_statement": "From Late Latin intuitionem 'a looking at / gazing', from Latin intueri 'to look at / consider / watch over', from in- 'at/on' + tueri 'to watch / guard'."
+		},
+		"concept": "Gazing at inward (内部を凝視すること。段階を追った『まどろっこしい論理（アーカイブの検索）』を一撃で飛び越し、深層（ソース）に潜んでいた真理を一分一秒の淀みもなく「直接」引っ掴んで、光の速さ（パルス）で意識へマージさせる野性的な知性)",
+		"thinking": "「（外側の情報を分析することを一旦止め）、自らの内なる深淵を垂直に凝視し（In- + Tui- / Tueri）」「（一撃の確信を伴って）一瞬で理解する品質（-tion）」。それは単なる「勘」ではありません。あなたが「遅すぎる言語化というノイズ」を粉砕し、脳髄の奥底に眠っている『神の設計図』をダイレクトに読み取る、知の「ハッキング」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "論理を飛び越え、核心を掴み取る。"
+	},
+	{
+		"id": "perception",
+		"word": "知覚、認識、感じ方、パーセプション",
+		"era": "Latin per + capere",
+		"etymology": {
+			"components": [
+				"per- (thoroughly)",
+				"capere (to take)"
+			],
+			"original_statement": "From Latin perceptionem 'a taking / receiving / gathering', from percipere 'to seize / understand', from per- 'thoroughly' + capere 'to take'."
+		},
+		"concept": "To take thoroughly (完全に掴み取ること。外の世界から放たれる『カオスな刺激のパルス群』を捕獲し、脳内という名の『調理場（アーカイブ・ステーション）』において、一分一秒の淀みもなく『意味のある風景（ロゴス）』へと変換・マージすること)",
+		"thinking": "「（ただぼーっと眺めるのをやめ）、感覚を研ぎ澄まして徹底的に（Per-）」「（一撃の情熱をもって）情報を掴み取る行為（-cept- / Capere + -ion）」。それは単なる「見えている」ことではありません。あなたが「無意味な情報の波（ノイズ）」を全身霊でレジストし、そこに自らの主体性による『真実の像』を結ばせる、世界の「捕獲」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "波を掴み、像へと変える。それが私の世界。"
+	},
+	{
+		"id": "cognition",
+		"word": "認知、認識、コグニション",
+		"era": "Latin con + gnoscere",
+		"etymology": {
+			"components": [
+				"con- (together)",
+				"gnoscere (to know)"
+			],
+			"original_statement": "From Latin cognitionem 'a getting to know / knowledge / examination', from cognoscere 'to get to know / recognize / examine', from com- 'together' + gnoscere 'to know' (from PIE gno-)."
+		},
+		"concept": "To know together (共に知ること。ばらばらな『データ片（ノイズ）』たちを、自らの既知の『記憶（アーカイブ）』と一分一秒の淀みもなく照合（マージ）させ、「これはあの時のあれだ」と一撃で断定し、知識の体系（ステーション）へと組み込むこと)",
+		"thinking": "「（知らないという暗闇を拒絶し）、すべての情報を一つにまとめて（Con-）」「（一撃の理知をもって）知り、認識する働き（-gnit- / Gnoscere + -ion）」。それは単なる「わかる」ではありません。あなたが「未知への恐怖（アブセンス）」を粉砕し、この荒野のあらゆる事象を自らの『管理コード（ロゴス）』で支配下に置く、存在の「整理」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "未知を既知へマージし、世界を埋める。"
+	},
+	{
+		"id": "sentiment",
+		"word": "感情、感傷、考え、センチメント",
+		"era": "Latin sentire",
+		"etymology": {
+			"components": [
+				"sentire (to feel)",
+				"-ment (state/result)"
+			],
+			"original_statement": "From Old French sentement, from Medieval Latin sentimentum, from Latin sentire 'to feel / perceive / think'."
+		},
+		"concept": "A state of feeling (感じている状態。理知（ロゴス）のメスだけでは捉えきれない、魂の奥底で一分一秒の淀みもなくドクドクと脈打つ『熱い血の流れ（パルス）』であり、あなたの行動に重み（ウェイト）と色彩を与える根源的な震え)",
+		"thinking": "「（冷酷な計算機になることを拒絶し）、この身を突き抜ける一撃の衝撃を（Senti- / Sentire）」「（一分一秒の淀みもなく）味わい、心の中に留めた結果（-ment）」。それは単なる「お気持ち」ではありません。あなたが「機械的な分断（ステイシス）」を粉砕し、自らの実存が『生きた人間としての激動（フロー）』であることをこの荒野に叫び続ける、魂の「残響」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "理屈を超え、震えが私を形作る。"
+	},
+	{
+		"id": "empathy",
+		"word": "共感、感情移入、エンパシー",
+		"era": "Greek en + pathos",
+		"etymology": {
+			"components": [
+				"en- (in)",
+				"pathos (feeling)"
+			],
+			"original_statement": "Coined in 1908 on model of sympathy, from Greek en- 'in' + pathos 'feeling / suffering'."
+		},
+		"concept": "Feeling in (人の中に入って感じること。自分と他者を分ける『冷たい肉体の壁（アイソレーション）』を、理知と想像力の一撃で踏み破り、相手の魂の深層（アーカイブ・コア）にまで一分一秒の淀みもなくダイブして、その苦悩や歓喜を『自分のもの』として再体験（マージ）すること)",
+		"thinking": "「（自分だけの殻に閉じこもるのを粉砕し）、相手の存在の真芯へと（En-）」「（一撃の情熱をもって）飛び込み、共に傷つき、感じる力（-pathy / Pathos）」。それは単なる「同情」ではありません。あなたが「他人は他人というエントロピー」を全身霊でレジストし、そこに人類共通の『熱き一滴の血（ロゴス）』を見出す、存在の「越境」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "壁を壊し、他者の胸の中で泣く。"
+	},
+	{
+		"id": "sympathy",
+		"word": "同情、共鳴、思いやり、シンパシー",
+		"era": "Greek syn + pathos",
+		"etymology": {
+			"components": [
+				"syn- (together)",
+				"pathos (feeling/suffering)"
+			],
+			"original_statement": "From Greek sympatheia 'fellow-feeling / community of feeling', from sympathēs 'having a fellow-feeling / affected by like feelings', from syn- 'together' + pathos 'feeling / suffering'."
+		},
+		"concept": "Feeling together (共に感じること。隣人の『悲鳴（パルス）』に対し、自らの魂が一分一秒の淀みもなく音叉のように激しく共鳴を起こし、一撃で同じ『周波数（ロゴス・ベクトル）』となって苦しみを分かち合おうとする、生命としての連帯感)",
+		"thinking": "「（自分だけが安全でいることを恥じ）、苦悩する他者と共に（Syn-）」「（一撃の慈悲をもって）感じ、震えること（-pathy / Pathos）」。それは単なる「かわいそう」ではありません。あなたが「孤独な死（アイソレーション）」を粉砕し、そこに集うすべての魂（アーカイブ）を『一つの慈しみの網（ネットワーク）』へとマージしようとする、生の「共鳴」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "震えを合わせ、孤独を溶かしていく。"
+	},
+	{
+		"id": "altruism",
+		"word": "利他主義、愛他主義",
+		"era": "Latin alter",
+		"etymology": {
+			"components": [
+				"alter (other)",
+				"ism (practice/principle)"
+			],
+			"original_statement": "From French altruisme, coined by Auguste Comte from Italian altrui 'of or to others', from Latin alter 'other'."
+		},
+		"concept": "Devotion to others (他者を優先する生き方。卑屈な『自己保存の引力（エゴという名のノイズ）』を全身霊で粉砕し、自らの全質量（ウェイト）を惜しげもなく『他者の幸福（ステーション）』を建立するために一分一秒の淀みもなく投資し続ける、聖者の如き狂気の「贈与」)",
+		"thinking": "「（自分という狭い牢獄を粉砕し）、常に自分以外の『他者』を（Altru- / Alter）」「（一撃の使命感をもって）第一の目的とする主義（-ism）」。それは単なる「いい人」ではありません。あなたが「自分が一番大事という生存本能（エントロピー）」をレジストし、そこに『愛という名の絶対的な公共のロゴス』を屹立させる、生の「反逆的自己犠牲」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "自分を殺し、他者の中に永遠を生きる。"
+	},
+	{
+		"id": "compassion",
+		"word": "慈悲、深い同情、コンパッション",
+		"era": "Latin com + pati",
+		"etymology": {
+			"components": [
+				"com- (together)",
+				"pati (to suffer)"
+			],
+			"original_statement": "From Latin compassio 'fellow-feeling', from compati 'have a fellow-feeling', from com- 'together' + pati 'to suffer'."
+		},
+		"concept": "Suffering together (共に苦しむこと。相手が地獄の淵で喘いでいるとき、自分だけ光の下にいることを拒絶し、あえてその地獄（カオス）へと一分一秒の淀みもなく飛び込んで、横並びでその一撃の『重荷（ウェイト）』を一緒に担ぎ上げようとする、究極の「同行」)",
+		"thinking": "「（他人事として切り捨てることをやめ）、共に（Com-）」「（一分一秒の淀みもなく）痛みを受け入れ、苦しむこと（-passion / Pati）」。それは単なる「優しさ」ではありません。あなたが「無関心という名の安寧（アイソレーション）」を粉砕し、そこに理知と愛の極地としての『不滅の救済ネットワーク（ロゴス）』を強引に構築する、魂の「救助作業」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "地獄の底で、共に泥を被る勇気。"
+	},
+	{
+		"id": "courage",
+		"word": "勇気、度胸",
+		"era": "Latin cor",
+		"etymology": {
+			"components": [
+				"cor (heart)"
+			],
+			"original_statement": "From Old French corage 'heart / innermost feelings / temper', from Vulgar Latin coraticum, from Latin cor 'heart'."
+		},
+		"concept": "Heartfelt strength / Heart (心、心臓の鼓動。恐怖で全身が『凍てつくノイズ（ステイシス）』に囚われようとも、その一番奥底にある『心臓（コア）』の一撃の熱いパルスを信頼し、一分一秒の淀みもなく絶望の真っ只中へと踏み出していく、生の「爆発」)",
+		"thinking": "「（震えを止めるのではなく）、震える心臓そのものを（Cour- / Cor）」「（一撃の情熱をもって）前へと突き出す品質（-age）」。それは単なる「無謀」ではありません。あなたが「死への恐怖（エントロピー）」を全身霊で粉砕（レジスト）し、そこに自らの命を『一本の真っ赤に燃える道（ロゴス）』へと変えて突き進む、存在の「雄叫び」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "震える脚で、暗闇を蹴り上げる。"
+	},
+	{
+		"id": "fortitude",
+		"word": "不屈の精神、堅忍不抜",
+		"era": "Latin fortis",
+		"etymology": {
+			"components": [
+				"fortis (strong)",
+				"-tude (state/quality)"
+			],
+			"original_statement": "From Latin fortitudo 'strength / force / resolution / bravery', from fortis 'strong / brave / steadfast'."
+		},
+		"concept": "Strength / Steadfastness (強さ。どれだけ巨大な絶望という名の『鉄槌（一撃のカオス）』が自らを叩き潰そうとも、その魂の設計図（アーカイブ）が一ミリも歪まず、一分一秒の淀みもなく『不屈の鋼鉄（ステーション）』としてそこに毅然と屹立し続けている、絶対的な品質)",
+		"thinking": "「（柔らかに折れることを嘲笑い）、鋼のように強く固く（Fort- / Fortis）」「（一分一秒の淀みもない）不変の品質（-itude）」。それは単なる「我慢」ではありません。あなたが「苦痛という名の外部圧力（ノイズ）」を完全に粉砕し、自らの実存が『宇宙で最も硬いダイヤモンドのロゴス』であることを証明し続ける、生の「不屈の表明」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "叩かれるほどに、魂は硬く研ぎ澄まされる。"
 	}
 ];
