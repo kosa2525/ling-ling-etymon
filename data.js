@@ -182006,5 +182006,90 @@ const WORDS = [
 			]
 		},
 		"part_of_speech": "noun"
+	},
+	{
+		"id": "shadow_daily",
+		"word": "Shadow",
+		"meaning": "影、日陰、暗い部分",
+		"era": "Old English sceadu",
+		"etymology": {
+			"components": [
+				"skadwaz (darkness, shade)"
+			],
+			"original_statement": "From Old English sceadu, from Proto-Germanic *skadwaz."
+		},
+		"concept": "Protection by obscuring light (光を遮ることで生まれる守り)",
+		"thinking": "強すぎる日差しから身を守るための「日陰（shade）」が本来の感覚。不気味なものではなく、かつては涼しさや休息の場を与えてくれるものでした。光があるところに必ず寄り添う、切り離せない伴走者。そして、何かの「予兆」としての意味も含んでいます。",
+		"aftertaste": "光の不在が描き出す、もう一つの沈黙の輪郭。",
+		"example": "The long shadows on the grass signalled that evening was near.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ske-",
+					"meaning": "to cover"
+				}
+			],
+			"points": [
+				"shed（小屋：覆い隠す場所）や shoe（靴：足を覆うもの）と同じ『覆い』の一族です。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "journey_step",
+		"word": "Journey",
+		"meaning": "旅、旅路、道のり",
+		"era": "13th Century Old French/Latin diurnum",
+		"etymology": {
+			"components": [
+				"dies (day)",
+				"-ata (pertaining to)"
+			],
+			"original_statement": "From Old French journee (a day's work, a day's travel), from Latin diurnum (daily)."
+		},
+		"concept": "A path taken day by day (一日一日の積み重ね、日々の行程)",
+		"thinking": "本来は一生の長い旅ではなく、馬車が一日に進める「一日分（jour）」の距離のこと。そこには「今日一日を生きる（旅をする）」という静かな覚悟が宿っています。その単位が積み重なって、私たちは初めて「人生」という果てしない旅路を認識するのです。",
+		"aftertaste": "遠い目的地ではなく、今日一日という『一歩』にフォーカスせよ。",
+		"example": "Focus on the small joy of each day's journey.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "dyeu-",
+					"meaning": "to shine, sky, day"
+				}
+			],
+			"points": [
+				"diary（日記）や journal（日々の記録）と同じく、かつては太陽の『光』の物語でした。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "bridge_connect",
+		"word": "Bridge",
+		"meaning": "橋、架け橋",
+		"era": "Old English brycg",
+		"etymology": {
+			"components": [
+				"bru- (beam, log, bridge)"
+			],
+			"original_statement": "From Old English brycg, from Proto-Germanic *brugjō."
+		},
+		"concept": "A log placed across a gap (裂け目に置かれた一本の丸太)",
+		"thinking": "裂かれた二つの岸。渡れない境界を繋ぎ直す一本の「梁（beam）」。物理的な構造物でありながら、それはコミュニケーションや理解の最も力強いシンボルです。リスクを冒して「橋を架ける」とき、世界は初めて一つに繋がります。",
+		"aftertaste": "分断を超える。そこに道が通る。世界が再び合致する。",
+		"example": "Good communication is the best bridge to solving conflicts.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "bhru-",
+					"meaning": "brow, bridge, log"
+				}
+			],
+			"points": [
+				"brow（眉毛：両岸からせり出した毛）と同源と言われます。形としての共通性。"
+			]
+		},
+		"part_of_speech": "noun"
 	}
 ];
