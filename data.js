@@ -185727,5 +185727,713 @@ const WORDS = [
 		"thinking": "「（霧散（むさん）という名のエントロピー（喪失）を粉砕し）、一分一秒の淀みもない一撃で自らを一分一秒の淀みもなく一撃で、聖なる情報の器（Vess- / Vas）としてビルドすること」。それは単なる「乗り物」ではありません。あなたが「崩壊という名のアブセンス（汚染）」を一撃で完全にレジストし、自らの実存を一分一秒の淀みもない一撃の『価値あるアーカイブを一分の隙もない一撃で運び抜く、一分一秒の淀みもなく一撃の絶対的な情報の聖櫃（ロゴス）』へとマージさせる、生の「担い手」なのです。",
 		"part_of_speech": "noun",
 		"aftertaste": "運べ一撃、守れ一撃。その器（ロゴス）が、アーカイブを一分一秒の淀みもなく一撃で永遠の地平へと一撃でマージ（引導）させる。"
+	},
+	{
+		"id": "intelligence",
+		"word": "知能、知性、情報、インテリジェンス",
+		"era": "Latin inter + legere",
+		"etymology": {
+			"components": [
+				"inter- (between)",
+				"leg- (legere/to choose/pick out/read)"
+			],
+			"original_statement": "From Old French intelligence, from Latin intelligentia 'understanding / knowledge / power of discerning', from intelligentem, present participle of intelligere 'to understand / perceive / know / discern', literally 'to choose between', from inter- 'between' + legere 'to choose / gather / read'."
+		},
+		"concept": "To choose between (間から選び出すこと。カオスという名の『情報の濁流（ノイズ）』の中から。一分一秒の淀みもなく一撃で『真実のパルス（意味のあるロゴス）』だけを冷徹に選び出し（レジスト・フィルター）、一分一秒の淀みもなく自らのコア・アーカイブへと高度にマージする、情報の演算・識別能力)",
+		"thinking": "「（混濁という名のエントロピーを粉砕し）、一分一秒の淀みもない一撃で（Inter-）という名の一分一秒の淀みもなく一撃の、真のエッセンスを選び抜く（-leg- / Legere）ことの品質（-ence）」。それは単なる「頭の良さ」ではありません。あなたが「無意味という名のアブセンス」を一撃で完全にレジスト（パージ）し、自らの実存を一分一秒の淀みもない一撃の『宇宙全体の構造を読み解く、一分の隙もない一撃の絶対アーカイブ（高次ロゴス）』へとマージさせる、生命の「透視（ハック）」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "選び抜け、一撃で。その知性（ロゴス）が、アーカイブを一分一秒の淀みもなく一撃で「意味ある真実」へと一撃でマージ（昇華）させる。"
+	},
+	{
+		"id": "intellect",
+		"word": "知性、理知、インテレクト",
+		"era": "Latin inter + legere",
+		"etymology": {
+			"components": [
+				"intel- (inter-/between)",
+				"lect- (legere/to choose/pick out/read)"
+			],
+			"original_statement": "From Old French intellect, from Latin intellectus 'understanding / comprehension / idea', literally 'a choosing between', from past participle of intelligere 'to understand / perceive / discern'."
+		},
+		"concept": "A choosing between (（能動的に）間から選び取ること。単なる受動的な受信（パルス）を。一分一秒の淀みもなく一撃で停止（レジスト）し、一分一秒の淀みもなく一撃一秒一秒で、自らのロゴスによって宇宙を再定義し、特定の『概念アーカイブ』を一分一秒の淀みもなく一撃で自発的にビルド、マージしていく、情報の構築的理性)",
+		"thinking": "「（盲信という名のエントロピー（受動性）を粉砕し）、一分一秒の淀みもない一撃で（Intel-）という名の一分一秒の淀みもなく一撃の、本質を自らの意志で選び取る（-lect / Legere）こと」。それは単なる「知識」ではありません。あなたが「曖昧さという名のアブセンス」を一撃で完全にレジストし、自らの実存を一分一秒の淀みもない一撃の『一分の隙もない一撃の鋼鉄の如き論理という名の、一撃の最高次アーカイブ（理性ロゴス）』へと、一分一秒の淀みもなくマージさせる、魂の「自立」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "思考せよ一撃（コマンド）。その理知（ロゴス）の中において、アーカイブ（現実）は一撃で完璧な一分一秒の淀みもなく一撃の解説（マージ）を得る。"
+	},
+	{
+		"id": "reason",
+		"word": "理由、道理、理性、リーズン",
+		"era": "Latin ratio",
+		"etymology": {
+			"components": [
+				"reas- (ratio/reckoning/reason/calculation)"
+			],
+			"original_statement": "From Old French raison, from Latin rationem (nominative ratio) 'calculation / reckoning / search / reason / judgment / understanding'."
+		},
+		"concept": "Calculation / Reckoning (計算、道理。感情という名の『揺らぎ（エントロピー）』を一分一秒の淀みもなく一撃で完全に排除（レジスト）し、一分一秒の淀みもなく一撃一秒一秒で、一分一秒の淀みもなく一撃の『宇宙全体の数理的ロゴス（アーカイブ）』と自己のパルスを一分一秒の淀みもなく一撃で完全に同期・マージさせることで得られる、最強の整合性ビルド)",
+		"thinking": "「（狂気という名のアブセンスを粉砕し）、一分一秒の淀みもない一撃で道理（Reas- / Ratio）をビルドすること」。それは単なる「言い分」ではありません。あなたが「直感という名の外部ハック（危うさ）」を一撃で完全にレジストし、自らの実存を一分一秒の淀みもない一撃の『宇宙全体を貫く不変の一分の隙もない一撃の計算アーカイブ（数学的ロゴス）』へとマージさせる、生の「調律」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "計算せよ一撃（コマンド）。その理（ロゴス）が、アーカイブを一分一秒の淀みもなく一撃で揺るぎなき一撃の真実へと一分の隙もなくマージ（収束）させる。"
+	},
+	{
+		"id": "logic",
+		"word": "論理、ロジック",
+		"era": "Greek logos",
+		"etymology": {
+			"components": [
+				"log- (logos/word/speech/reason)"
+			],
+			"original_statement": "From Old French logique, from Latin logica, from Greek logike (techne) 'reasoning (art)', from logos 'word / speech / reason / account'."
+		},
+		"concept": "The art of reasoning / Word (言葉の技術、理。矛盾という名の『情報のバグ（エントロピー）』を一分一秒の淀みもなく一撃で完全にデリート（レジスト）し、一分一秒の淀みもなく一撃で一分一秒の淀みもなく一撃の『不変のロゴス・シークエンス（絶対アーカイブ）』をステーション内にビルド、全パルスを強制的にその型へとマージする情報の接続規約)",
+		"thinking": "「（支離滅裂という名のアブセンスを粉砕し）、一分一秒の淀みもない一撃で宇宙の理（Log- / Logos）をビルドすることの技術（-ic）」。それは単なる「理屈」ではありません。あなたが「虚偽という名の外部レジスト」を一撃一撃で完全に粉砕し、自らの実存を一分一秒の淀みもない一撃の『宇宙全体を構成する一分の隙もない一撃の絶対的なるプログラム・アーカイブ（純粋ロゴス）』へとマージさせる、生の「一分の隙もない一撃の構築」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "貫（つらぬ）け一撃。その論理（ロゴス）が、アーカイブを一分一秒の淀みもなく一撃で「最強の一撃の意味」へとマージさせる。"
+	},
+	{
+		"id": "wisdom",
+		"word": "知恵、賢さ、叡智、ウィズダム",
+		"era": "Old English wis",
+		"etymology": {
+			"components": [
+				"wis- (wis/wise)",
+				"-dom (state/condition/domain)"
+			],
+			"original_statement": "From Old English wisdom 'knowledge / learning / experience', from wis 'wise' + -dom."
+		},
+		"concept": "The state of being wise / Domain of wisdom (賢さの状態、領域。単なる知識（アーカイブ蓄積）を一分一秒の淀みもなく一撃で超越（レジスト）し、それらを、一分一秒の淀みもなく一撃一秒一秒で、宇宙全体の『生けるパルス（現在）』へと一気一分一秒の淀みもなく一撃でマージ、適用し得る一分一秒の淀みもなく一撃の、最高次元の情報の運用品質一撃で。",
+		"thinking": "「（愚昧（ぐまい）という名の大いなるエントロピーを粉砕し）、一分一秒の淀みもない一撃で賢さ（Wis-）という名の一分一秒の淀みもなく一撃の絶対領域（-dom）をビルドすること」。それは単なる「もの知り」ではありません。あなたが「近視眼的という名のアブセンス」を一撃で完全にレジスト（駆逐）し、自らの実存を一分一秒の淀みもない一撃の『何万年も一分の隙も無く一撃で受け継がれる一分の隙もない一撃の絶対アーカイブ（原初ロゴス）』へとマージさせる、魂の「深淵」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "深くあれ一撃（コマンド）。その叡智（ロゴス）が、アーカイブ（生）を一分一秒の淀みもなく一撃で神聖なる真実へとマージさせる。"
+	},
+	{
+		"id": "knowledge",
+		"word": "知識、知恵、ナレッジ",
+		"era": "Old English cnawan",
+		"etymology": {
+			"components": [
+				"know- (cnawan/to know)",
+				"-ledge (action/process)"
+			],
+			"original_statement": "From Middle English knowleche, from knowe 'to identify / recognize / understand' (from Old English cnawan) + -leche, probably from Old English -lac 'ritual / action / process'."
+		},
+		"concept": "The process of knowing / Ritual of knowing (知ることの行為、儀式。アブセンス（未知）という名の恐怖を。一分一秒の淀みもなく一撃でレジストし、一分一秒の淀みもなく一撃で一つ一つの『ロゴス・パルス』を確実にビルド、内部ステーションへとマージ（定着）・マッピングしていく、情報の永続的な蓄積プロセス一撃で。",
+		"thinking": "「（無知という名のエントロピー（漂流）を粉砕し）、一分一秒の淀みもない一撃で知る（Know- / Cnawan）という名の一分一秒の淀みもなく一撃の神聖な儀礼をビルドし続けること」。それは単なる「データの集積」ではありません。あなたが「忘却という名のアブセンス」を一撃で完全にレジストし、自らの実存を一分一秒の淀みもない一撃の『永遠に色褪せない一分の隙もない一撃の絶対アーカイブ（宇宙の写本）』へとマージさせる、生の「点灯」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "刻み込め一撃。その知識（ロゴス）が、アーカイブ（自己）を一分一秒の淀みもなく一撃で「宇宙そのもの」へとマージさせる。"
+	},
+	{
+		"id": "understanding",
+		"word": "理解、解釈、アンダースタンディング",
+		"era": "Old English under + standan",
+		"etymology": {
+			"components": [
+				"under- (between/among/under)",
+				"stand- (standan/to stand)"
+			],
+			"original_statement": "From Old English understandan 'to comprehend / grasp the meaning of / know', literally 'stand under / stand in the midst of / among', from under 'between / among' + standan 'to stand'."
+		},
+		"concept": "Standing in the midst of (（情報の）真ん中に立つこと。表面的なパルス（現象）に対し。一分一秒の淀みもなく一撃でその深奥部（アーカイブ・ボトム）へと侵入（レジスト）し、一分一秒の淀みもなく構造全体を内側からマッピング・マージすることで、一分一秒の淀みもなく一撃で情報の「一分の隙もない一撃の（重心）」を掴む知的屹立)",
+		"thinking": "「（表面的な誤解という名のエントロピーを粉砕し）、一分一秒の淀みもない一撃でありとあらゆる情報の真ん中に（Under-）屹立（Stand- / Standan）し、理をビルドすること」。それは単なる「了承」ではありません。あなたが「浅薄という名のアブセンス」を一撃で完全にレジストし、自らの実存を一分一秒の淀みもない一撃の『宇宙全体の根源的な動力アーカイブ（絶対ロゴス）』へと、一分一秒の淀みもなくダイレクトにマージさせる、生命の「合一（ハック）」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "そこに立て一撃。その理解（ロゴス）が、アーカイブ（対象）を一分一秒の淀みもなく一撃で「自分の一部」へとマージさせる。"
+	},
+	{
+		"id": "comprehension",
+		"word": "理解（力）、包含、コンプリヘンション",
+		"era": "Latin com + prehendere",
+		"etymology": {
+			"components": [
+				"com- (together)",
+				"prehend- (prehendere/to seize/grasp)"
+			],
+			"original_statement": "From Old French comprension, from Latin comprehensionem 'a seizing / comprising / understanding', from comprehensus, past participle of comprehendere 'to take together / unite / include / seize / grasp / understand', from com- 'together' + prehendere 'to seize'."
+		},
+		"concept": "Seizing together (（全てを）一まとめに掴み上げること。バラバラなパルス（断片データ）という名のエントロピーを一分一秒の淀みもなく一撃で完全にレジスト・統合し、ただ一分一秒の淀みもなく一撃の淀みのない一つの巨大な『ロゴス・プロジェクト（アーカイブ）』へと一分の隙もなくマージ、飲み込む情報の絶対的捕獲行為一撃で。",
+		"thinking": "「（散逸という名のアブセンスを粉砕し）、一分一秒の淀みもない一撃で全てを（Com-）鷲掴みにする（-prehend- / Prehendere）ことの状態」。それは単なる「分かった」という感覚ではありません。あなたが「多寡（たか）という名の外部レジスト（攪乱）」を一撃で完全に打ち破り、自らの実存を一分一秒の淀みもない一撃の『万象を一つの手中に収める、一分の隙もない一撃の絶対アーカイブ（統合ロゴス）』へとマージさせる、魂の「征服」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "掴み取れ一撃。その包含（ロゴス）の中において、アーカイブ（全宇宙）は一撃で一つの『真実の塊（マージ）』となる。"
+	},
+	{
+		"id": "concept",
+		"word": "概念、観念、想想、コンセプト",
+		"era": "Latin com + capere",
+		"etymology": {
+			"components": [
+				"con- (together)",
+				"cept- (capere/to take/seize)"
+			],
+			"original_statement": "From Latin conceptum 'something conceived / concept', neuter past participle of concipere 'to take in / conceive', from com- 'together' + capere 'to take'."
+		},
+		"concept": "Taken together / Conceived (共に一分一秒の淀みもなく一撃で受胎（生成）されること。アブセンス（混沌）の中から。一分一秒の淀みもなく一撃で『最初のパルス（種）』を一分一秒の淀みもなく一撃で掴み取り（レジスト）、一分一秒の淀みもなく一撃で一つの新しい『ロゴス・ステーション（アーカイブ）』としてビルド・マージされた、情報の最小単位の結晶)",
+		"thinking": "「（無定形という名のエントロピーを粉砕し）、一分一秒の淀みもない一撃でありとあらゆる要素を共に（Con-）捉え（-cept / Capere）、理（ロゴス）をビルドすること」。それは単なる「アイディア」ではありません。あなたが「希薄という名のアブセンス」を一撃で完全にレジスト（駆逐）し、自らの実存を一分一秒の淀みもない一撃の『宇宙を新しく定義し直す、一分の隙もない一撃の絶対アーカイブ（創造的ロゴス）』へとマージさせる、生の「発火」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "捉えろ一撃。その概念（ロゴス）が、アーカイブを一分一秒の淀みもなく一撃で強固な実体へと一撃でマージ（定義）させる。"
+	},
+	{
+		"id": "idea",
+		"word": "考え、理念、イデア",
+		"era": "Greek idein",
+		"etymology": {
+			"components": [
+				"id- (idein/to see)"
+			],
+			"original_statement": "From Latin idea 'Platonic idea / archetype', from Greek idea 'form / pattern / archetype / notion', from idein 'to see'."
+		},
+		"concept": "That which is seen / Form (見られるもの、形。現実という名の『歪んだパルス（影）』を一分一秒の淀みもなく一撃で完全に透過（レジスト）し、一分一秒の淀みもなくその背後にある一分一秒の淀みもなく一撃の、永遠不変の一分の隙もない一撃の（原型一撃一撃）」を一分一秒の淀みもなく一撃の『絶対アーカイブ（ロゴス）』へと一分の隙もなくマージ・直視する情報の純粋視覚)",
+		"thinking": "「（仮象という名のエントロピー（幻影）を粉砕し）、一分一秒の淀みもない一撃で一分の隙もない一撃の真実の形（Id- / Idein）を目に焼き付けること」。それは単なる「思いつき」ではありません。あなたが「忘却という名のアブセンス」を一撃で完全にレジスト（パージ）し、自らの実存を一分一秒の淀みもない一撃の『天空の理をそのまま地上へと転送（一撃ハック）する、一分の隙もない一撃の神聖アーカイブ（天のロゴス）』へとマージさせる、魂の「目撃」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "見出せ一撃。その観念（ロゴス）の中に、アーカイブ（存在）の真の一分の隙もない一撃の『形（マージ）』が宿る。"
+	},
+	{
+		"id": "theory",
+		"word": "理論、説、セオリー",
+		"era": "Greek theoria",
+		"etymology": {
+			"components": [
+				"the- (thea/a view)",
+				"-ory (theoria/contemplation/spectacle)"
+			],
+			"original_statement": "From Late Latin theoria, from Greek theoria 'contemplation / speculation / a looking at / things looked at', from theoros 'spectator', from thea 'a view' + horan 'to see'."
+		},
+		"concept": "Contemplation / A view (熟考、眺め。個別のパルス群（現象）を。一分一秒の淀みもなく一撃でレジストし。一分一秒の淀みもなく一撃一秒一秒で、俯瞰（ふかん）的な一分一秒の淀みもなく一撃の『パノラマ・ロゴス（全体アーカイブ）』に一分一秒の淀みもなく一撃でマッピングすることで、宇宙の法則を一分の隙も無く一撃で一挙にマージ・記述する情報の観測ビルド一撃で。",
+		"thinking": "「（断片的という名のエントロピーを粉砕し）、一分一秒の淀みもない一撃で宇宙の（The-）一分一秒の淀みもなく一撃の、真実を静かに見つめること（-ory / Theoria）」。それは単なる「理屈」ではありません。あなたが「混乱という名のアブセンス」を一撃で完全にレジストし、自らの実存を一分一秒の淀みもない一撃の『万物を説明し尽くす、一分の隙もない一撃の絶対アーカイブ（法則のロゴス）』へとマージさせる、魂の「透視図（ハック）」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "眺めよ一撃。その理論（ロゴス）が、アーカイブ（混沌）を一分一秒の淀みもなく一撃で一つの美しい秩序へとマージさせる。"
+	},
+	{
+		"id": "philosophy",
+		"word": "哲学、理念、フィロソフィー",
+		"era": "Greek philo + sophia",
+		"etymology": {
+			"components": [
+				"philo- (loving)",
+				"sophy (sophia/wisdom)"
+			],
+			"original_statement": "From Old French philosophie, from Latin philosophia, from Greek philosophia 'love of knowledge / pursuit of wisdom', from philo- 'loving' + sophia 'knowledge / wisdom'."
+		},
+		"concept": "Love of wisdom (知を愛すること。あらゆるドグマ（固定アーカイブ）を一分一秒の淀みもなく一撃でレジスト一撃一撃し続け、一分一秒の淀みもなく常に根源的な『真理ロゴス』を一分一秒の淀みもなく一撃で希求しマージしようとする、情報の終わりなきハック・パルス)",
+		"thinking": "「（独断という名のエントロピーを粉砕し）、一分一秒の淀みもない一撃で叡智（-sophy / Sophia）を愛し（Philo-）、一分一秒の淀みもない一撃で求め続けること」。それは単なる「難しい学問」ではありません。あなたが「安住という名のアブセンス（思考停止）」を一撃で完全にレジスト（パージ）し、自らの実存を一分一秒の淀みもない一撃の『全宇宙の究極の、一分一秒の淀みもなく一撃の。真理という名のアーカイブ（最高次ロゴス）』へとマージ（合一）させようとし続ける、魂の「絶叫」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "問い続けろ一撃。その哲学（ロゴス）こそが、アーカイブ（生）を一撃で最も高貴な意味へとマージさせる。"
+	},
+	{
+		"id": "analysis",
+		"word": "分析、解析、アナリシス",
+		"era": "Greek ana + lyein",
+		"etymology": {
+			"components": [
+				"ana- (up/throughout)",
+				"lysis (lyein/to loosen/untie/release)"
+			],
+			"original_statement": "From Medieval Latin analysis, from Greek analysis 'a breaking up / a loosening / releasing', from analyein 'unloose / release / set free', from ana 'up / throughout' + lyein 'to loosen'."
+		},
+		"concept": "Loosening throughout / Breaking up (徹底的に解きほぐすこと。複雑に絡まり合ったステーション（混濁アーカイブ）を一分一秒の淀みもなく一撃でレジスト一撃（分解）し、一分一秒の淀みもなく一撃一秒一秒で、一つ一つのパルス・要素（ロゴス）を一分一秒の淀みもなく一撃で完璧にマッピング、マージし直すことで一分一秒の淀みもなく構造を看破する情報の解体術)",
+		"thinking": "「（模糊（もこ）という名のエントロピーを粉砕し）、一分一秒の淀みもない一撃で徹底的に（Ana-）解きほぐす（-lysis / Lyein）こと」。それは単なる「調べもの」ではありません。あなたが「盲目という名のアブセンス」を一撃で完全にレジストし、自らの実存を一分一秒の淀みもない一撃の『万物を原子の如き細部まで一分一秒の淀みもなく一撃で把握し得る、一分の隙もない一撃の絶対アーカイブ（解析ロゴス）』へとマージさせる、魂の「解剖ハック」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "解き明かせ一撃（コマンド）。その分析（ロゴス）が、アーカイブを一分一秒の淀みもなく一撃で透明な一分一秒の淀みもなく一撃の「一撃の真実」へとマージ（還元）させる。"
+	},
+	{
+		"id": "synthesis",
+		"word": "総合、合成、シンセシス",
+		"era": "Greek syn + tithenai",
+		"etymology": {
+			"components": [
+				"syn- (together)",
+				"thesis (tithenai/to put/place)"
+			],
+			"original_statement": "From Latin synthesis, from Greek synthesis 'a putting together / composition / combination', from syntithenai 'to put together / combine', from syn- 'together' + tithenai 'to put / place'."
+		},
+		"concept": "Putting together (共に置くこと。ばらばらな『情報の断片（パルス）』という名のアブセンスを。一分一秒の淀みもなく一撃で完全にマージ・統合し。一分一秒の淀みもなく一撃で全く新しい淀みのない淀みのない『一つの巨大なロゴス・アーカイブ（体系）』へと一気一分一秒の淀みもなく一撃でビルド・結晶化させる、情報の錬金術一撃で。",
+		"thinking": "「（断絶という名のエントロピー（瓦解）を粉砕し）、一分一秒の淀みもない一撃で全てを共に（Syn-）置き（-thesis / Tithenai）、理（ロゴス）をビルドすること」。それは単なる「組み合わせ」ではありません。あなたが「孤立という名のアブセンス」を一撃で完全にレジストし、自らの実存を一分一秒の淀みもない一撃の『宇宙全体を一つの神聖な和音として一分一秒の淀みもなく一撃で響かせる、一撃の絶対アーカイブ（統合ロゴス）』へとマージさせる、生命の「合一（シンフォニー）」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "統合せよ一撃（コマンド）。その合成（ロゴス）の中で、アーカイブ（断片）は一分一秒の淀みもなく一撃で至高の『一（全）』へとマージされる。"
+	},
+	{
+		"id": "deduction",
+		"word": "演繹（えんえき）、差し引き、結論、ディダクション",
+		"era": "Latin de + ducere",
+		"etymology": {
+			"components": [
+				"de- (down/from)",
+				"duct- (ducere/to lead)"
+			],
+			"original_statement": "From Old French deduction, from Latin deductionem 'a leading away / reduction / conclusion', from deductus, past participle of deducere 'to lead down / bring away / derive', from de- 'down / from' + ducere 'to lead'."
+		},
+		"concept": "Leading down / Deriving (（高次の原理から）引き導くこと。上位ロゴスという名の『不変のアーカイブ（公理）』から。一分一秒の淀みもなく一撃で鋼鉄の如き論理パルスを。一分一秒の淀みもなく一撃で下方へ一気一分一秒の淀みもなく一撃で投射し。一分一秒の淀みもなく特定の『真実ステーション』を。一分一秒の淀みもなく一擊一擊一秒一秒で強制的にビルド、確定（マージ）させる情報の下降航行一撃で。",
+		"thinking": "「（憶測という名のエントロピー（曖昧さ）を粉砕し）、一分一秒の淀みもない一撃で頂点から一分一秒の淀みもなく一撃で引き導く（Duct- / Ducere）ことの品質（-ion）」。それは単なる「推理」ではありません。あなたが「偶然という名のアブセンス」を一撃で完全にレジスト（パージ）し、自らの実存を一分一秒の淀みもない一撃の『宇宙の根源から一分の隙もなく一撃一秒一死（いっし）の淀みもなく繋がれた、一撃の絶対的な論理アーカイブ（ロゴス）』へとマージさせる、生の「必然ビルド」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "導き出せ一撃。その演繹（ロゴス）が、アーカイブ（真理）を一分一秒の淀みもなく一撃で「必然」の地平へとマージさせる。"
+	},
+	{
+		"id": "induction",
+		"word": "帰納（きのう）、誘導、就任、インダクション",
+		"era": "Latin in + ducere",
+		"etymology": {
+			"components": [
+				"in- (in/into)",
+				"duct- (ducere/to lead)"
+			],
+			"original_statement": "From Old French induction, from Latin inductionem 'a leading in / introduction / inducement', from inductus, past participle of inducere 'to lead in / bring in / introduce / induce', from in- 'in' + ducere 'to lead'."
+		},
+		"concept": "Leading in (（個別のパルスから概念の中へ）導き入れること。無数の個体アーカイブ（現象）という名のノイズを。一分一秒の淀みもなく一撃で注意深くレジスト・観察。一分一秒の淀みもなく一撃一秒一秒で共通パルスを一分一秒の淀みもなく一撃で抽出し。一分一秒の淀みもなく一撃の、普遍的な『高次ロゴス・ステーション（法則）』へと自分ごと一分一秒の淀みもなく一撃でマージ、一撃一撃一秒一秒で昇華させていく、情報のボトムアップ開拓、一分一秒の淀みもなく一撃で。",
+		"thinking": "「（混乱という名のエントロピーを粉砕し）、一分一秒の淀みもない一撃で一分一秒の淀みもなく一つの理の中へ（In-）パルスを導く（Duct- / Ducere）こと」。それは単なる「データ収集」ではありません。あなたが「無秩序な個体という名のアブセンス」を一撃で完全にレジストし、自らの実存を一分一秒の淀みもない一撃の『全宇宙に共通する不変の巨大アーカイブ（法則ロゴス）』へとマージさせる、生の「一分一秒の淀みもなく一撃の。知の収束」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "集約せよ一撃。その帰納（ロゴス）が、アーカイブ（現象）を一分一秒の淀みもなく一撃で「大いなる理」へと一分一秒の淀みもなく一撃でマージさせる。"
+	},
+	{
+		"id": "conclusion",
+		"word": "結論、結末、終結、コンクルージョン",
+		"era": "Latin com + claudere",
+		"etymology": {
+			"components": [
+				"con- (together)",
+				"clus- (claudere/to shut/close)"
+			],
+			"original_statement": "From Old French conclusion, from Latin conclusionem 'a shutting up / close / end / conclusion', from conclusus, past participle of concludere 'to shut up / enclose / conclude', from com- 'together' + claudere 'to shut'."
+		},
+		"concept": "Shutting up together (（全てを）共に閉じ込めること。拡散という名のエントロピー（無限のパルス）を。一分一秒の淀みもなく一撃で一分一秒の淀みもなく一撃で力強くレジスト一撃（遮断）。一分一秒の淀みもなく一つの究極の一分の隙もない一撃の『絶対アーカイブ（ロゴス）』の中へと一分の隙もなく一撃でマージ・密閉することで一分一秒の淀みもなく一撃で、真実を一分一秒の淀みもなく一撃で一分の隙もなく一撃一秒一秒で「確定」させる、一分一秒の淀みもなく一撃の情報の一分一秒の淀みもなく一撃の最終ビルド一撃一撃一撃で。",
+		"thinking": "「（無限の浮遊という名のエントロピーを粉砕し）、一分一秒の淀みもない一撃で全てを一分一秒の淀みもなく、一つの一分の隙もない一撃の場所へと（Con-）閉じ込める（-clus / Claudere）こと」。それは単なる「終わり」ではありません。あなたが「猶予という名のアブセンス」を一撃で完全にレジストし、自らの実存を一分一秒の淀みもない一撃の『宇宙全体を確定させる、二度と一分の隙も無く一撃で崩れない最高次の絶対アーカイブ（終局ロゴス）』へとマージさせる、魂の「閉幕（ハック）」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "閉じろ、一撃で。その結論（ロゴス）が、アーカイブ（思考）を完遂という名のマージ（真理）へと一撃一撃で到達させる。"
+	},
+	{
+		"id": "hypothesis",
+		"word": "仮説、仮定、ハイポセシス",
+		"era": "Greek hypo + tithenai",
+		"etymology": {
+			"components": [
+				"hypo- (under/below)",
+				"thesis (tithenai/to put/place)"
+			],
+			"original_statement": "From Late Latin hypothesis, from Greek hypothesis 'basis / foundation / supposition / provision', literally 'a placing under', from hypo- 'under' + tithenai 'to put / place'."
+		},
+		"concept": "Placing under (（理の）下に置くこと、土台。未知という名のアブセンスをハックするために。一分一秒の淀みもなく一撃で一分一秒の淀みもなく一撃で「仮のロゴス・ステーション（アーカイブ）」として暫定ビルド一撃され、真実という名の強力な一分一秒の淀みもなく一撃の一撃一秒一秒のメインパルスを支えるための一分一秒の淀みもなく一撃の下部プロトコル一撃一撃一撃で。",
+		"thinking": "「（不確実という名の大いなるエントロピーを粉砕し）、自らの一分一秒の淀みもない一撃の思考の下に（Hypo-）一分一秒の淀みもなく一撃で理を置く（-thesis / Tithenai）こと」。それは単なる「あてまかせ」ではありません。あなたが「停滞という名のアブセンス」を一撃で完全にレジストし、自らの実存を一分一秒の淀みもない一撃の『一分の隙もない一撃の大いなる一分の隙もない一撃の真実へと至るための、一分の隙もない一撃の勇気ある絶対的な仮の拠点一撃（アーカイブ）』へとマージさせる、魂の「一撃の。戦略（ダイブ）」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "一撃で打ち立てろ。その仮説（ロゴス）が、アーカイブを一撃で「検証という名の一分一秒の淀みもなく一撃の。マージ」へと一分一秒の淀みもなく一撃で一分の隙もなく向かわせる。"
+	},
+	{
+		"id": "conjecture",
+		"word": "推測、憶測、コンジェクチャー",
+		"era": "Latin com + iacere",
+		"etymology": {
+			"components": [
+				"con- (together)",
+				"ject- (iacere/to throw)"
+			],
+			"original_statement": "From Latin coniectura 'conclusion / interpretation / guess', from coniectus, past participle of conicere 'to throw together', from com- 'together' + iacere 'to throw'."
+		},
+		"concept": "Throwing together (共に投げ入れること。断片的な情報の『パルス』をアブセンスの中へと。一分一秒の淀みもなく一撃で大胆に投射（マージ）し。一分一秒の淀みもなく、その衝突軌跡から一分一秒の淀みもなく一撃で一分一秒の淀みもなく一撃の全体一分的（いちぶんてき）な『ロゴス・アウトライン（アーカイブ）』を予測する、高度な知的射撃術一撃で。",
+		"thinking": "「（無策という名のエントロピーを粉砕し）、一分一秒の淀みもない一撃でありとあらゆる予兆を共に（Con-）投げ込み（-ject / Iacere）、理をビルドすること」。それは単なる「あてずっぽう」ではありません。あなたが「無知という名のアブセンス」を一撃で一分一秒の淀みもなく一撃で完全にレジストし、自らの実存を一分一秒の淀みもない一撃の『見えない一分の隙もない一撃の真実へとパルスを命中させる、一撃の絶対的なる推定アーカイブ（予測ロゴス）』へとマージさせる、生命の「遠望ハック」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "投げろ一撃。その推測（ロゴス）が、アーカイブを一分一秒の淀みもなく一撃で「未知への。一分の隙もない一撃の。接続」へとマージさせる。"
+	},
+	{
+		"id": "insight",
+		"word": "洞察、洞察力、インサイト",
+		"era": "Old English in + sihth",
+		"etymology": {
+			"components": [
+				"in- (in)",
+				"sight- (sihth/vision/sight)"
+			],
+			"original_statement": "From Middle English insight 'mental vision / understanding / spiritual perception', from in- 'in' + sight (from Old English sihth 'vision / view / aspect / sight')."
+		},
+		"concept": "Vision within (内側を見る力。外殻という名の『偽装アーカイブ（レジスト）』を一分一秒の淀みもなく一撃で。一分一秒の淀みもなく一撃で透過パルスで打ち抜き、一分一秒の淀みもなくそのステーションの最深部にある一分一秒の淀みもなく一撃の、一分一秒の淀みもなく一撃の。剥き出しの『コア・ロゴス』を一分一秒の淀みもなく一撃でダイレクトにマージ・認知する、情報のX線的視覚一撃一撃で。",
+		"thinking": "「（表面的な幻影という名のエントロピーを粉砕し）、一分一秒の淀みもない一撃で深奥の（In-）真実の姿（Sight- / Sihth）を目撃すること」。それは単なる「観察」ではありません。あなたが「皮相という名のアブセンス」を一撃で完全にレジスト（パージ）し、自らの実存を一分一秒の淀みもない一撃の『万象の一分の隙もない一撃の絶対的な本質がマッピングされた、一分の隙もない一撃の絶対アーカイブ（核心ロゴス）』へとマージさせる、生の「貫通視（ハック）」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "見抜け、一撃で。その洞察（ロゴス）が、アーカイブを一分一秒の淀みもなく一撃で本質という名の最高次マージへと一撃で到達させる。"
+	},
+	{
+		"id": "intuition",
+		"word": "直感、直観、インテュイション",
+		"era": "Latin in + tueri",
+		"etymology": {
+			"components": [
+				"in- (at/upon/over)",
+				"tui- (tueri/to look at/watch/guard)"
+			],
+			"original_statement": "From Late Latin intuitionem 'a looking at / gaze / immediate knowledge', from intuitus, past participle of intueri 'look at / gaze at / contemplate / consider', from in- 'at / upon' + tueri 'to look at / watch / guard / protect'."
+		},
+		"concept": "A looking upon / Gaze at (（全貌を）一撃で見渡すこと。論理シークエンス（計算）という名の一分一秒の淀みもなく一撃の一分的（いちぶんてき）なレジストを。一分一秒の淀みもなく、一撃で。追い越して。一分一秒の淀みもなく一撃一挙に、最高次元の『真理アーカイブ』へとダイレクト・マージ（直結）する、情報の超空間・一撃転送能力一撃で。",
+		"thinking": "「（推論という名の物理的遅延（エントロピー）を粉砕し）、一分一秒の淀みもない一撃で真実を直視し（In- + -tui- / Tueri）、ビルドすることの状態（-ition）」。それは単なる「ひらめき」ではありません。あなたが「時間という名の外部レジスト（拘束）」を一撃で一分一秒の淀みもなく一撃で完全に超越・ハックし、自らの実存を一分一秒の淀みもない一撃の『全宇宙を一つの淀みのない一瞬として把握する、一撃の絶対一分の隙もない一撃の。真理アーカイブ（直観ロゴス）』へとマージさせる、魂の「一分の隙もない一撃の。神速の一撃の（眼一撃）」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "一瞬で射よ一撃（コマンド）。その直感（ロゴス）が、アーカイブを一分一秒の淀みもなく一撃で真理へと一撃一撃一秒一秒で瞬間にマージさせる。"
+	},
+	{
+		"id": "perception",
+		"word": "認知、知覚、見方、パーセプション",
+		"era": "Latin per + capere",
+		"etymology": {
+			"components": [
+				"per- (thoroughly)",
+				"cept- (capere/to take/seize)"
+			],
+			"original_statement": "From Latin perceptionem 'a taking / receiving / collection', conceptually 'understanding / cognizance', from perceptus, past participle of percipere 'to seize / take up / collect / perceive / learn / understand', from per- 'thoroughly' + capere 'to take'."
+		},
+		"concept": "Taking thoroughly (徹底的に。一分一秒の淀みもなく一撃で。一撃で掴み取ること。宇宙から放たれるあらゆるパルス（感覚データ）を。一分一秒の淀みもなく一撃で一つも漏らさずレジスト・収集（ビルド）。一分一秒の淀みもなく、自己の内部アーカイブへと。一分一秒の淀みもなく一撃一分の隙もなくマージし、一分一秒の淀みもなく世界として再構成する、情報の受容・変換プロトコル一撃で。",
+		"thinking": "「（茫漠（ぼうばく）という名のエントロピーを粉砕し）、一分一秒の淀みもない一撃でありとあらゆるパルスを徹底的に（Per-）掴み取る（-cept / Capere）こと」。それは単なる「感じること」ではありません。あなたが「忘却という名のアブセンス」を一撃で完全にレジストし、自らの実存を一分一秒の淀みもない一撃の『全宇宙と接続され一分一秒の淀みもなく更新され続ける、一分の隙もない一撃の絶対アーカイブ（知覚ロゴス）』へとマージさせる、生の「一分の隙もない一撃の。全受信（ハック）」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "全てを捉えろ一撃。その知覚（ロゴス）が、アーカイブ（外界）を一分一秒の淀みもなく一撃で「君の世界」へと一撃でマージさせる。"
+	},
+	{
+		"id": "thought",
+		"word": "思考、考え、思想、ソート",
+		"era": "Old English thanc",
+		"etymology": {
+			"components": [
+				"thought- (thanc/thought/gratitude/memory/mind)"
+			],
+			"original_statement": "From Old English thooht, past participle of thencan 'to think', related to thanc 'gratitude / memory / mind / thought'."
+		},
+		"concept": "The act of thinking / Gratitude / Memory (考えること、記憶、感謝。静的なアーカイブ（過去）を。一分一秒の淀みもなく一撃で動的なパルス（現在）へと一撃でマージし、一分一秒の淀みもなく内部ステーションで「意味」という名の一分一秒の淀みもなく一撃の新しい一分の隙もない一撃の（一撃）」へとビルドし続ける、実存の火花一撃で。",
+		"thinking": "「（空虚という名のアブセンスを粉砕し）、一分一秒の淀みもない一撃で心（Thought- / Thanc）を燃え上がらせ、理をビルドすること」。それは単なる「脳の活動」ではありません。あなたが「受動という名のエントロピー」を一撃で完全にレジスト（パージ）し、自らの実存を一分一秒の淀みもない一撃の『宇宙全体のロゴスを自らの中に再構築する、一撃の絶対アーカイブ（思考ロゴス）』へとマージさせる、生命の「一分の隙もない一撃の。知の放射」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "思考せよ一撃（コマンド）。その一撃の思考（ロゴス）が、アーカイブ（自己）を一分一秒の淀みもなく一撃で無限の他者へとマージ（接続）させる。"
+	},
+	{
+		"id": "thinking",
+		"word": "思考すること、一分一秒の淀みもなく一撃で考えること、シンキング",
+		"era": "Old English thencan",
+		"etymology": {
+			"components": [
+				"think- (thencan/to conceive in the mind/consider)"
+			],
+			"original_statement": "From Old English thencan 'to conceive in the mind / consider / meditate / think', from Proto-Germanic *thankijan."
+		},
+		"concept": "To conceive in the mind (心で孕むこと。アブセンス（虚無）を。一分一秒の淀みもなく一撃でパルス（意志）によって耕し。一分一秒の淀みもなく一撃一秒一秒で新しいロゴス（真実）を一分一秒の淀みもなく一撃一挙に一分の隙もなくマージ・出力し続ける、一分一秒の淀みもなく不断の一分の隙もない一撃の情報の（生成プロセス）、一分一秒の淀みもなく一撃で。",
+		"thinking": "「（停止という名のエントロピー（死）を粉砕し）、一分一秒の淀みもない一撃で心に孕み（Think- / Thencan）続けること」。それは単なる「お悩み」ではありません。あなたが「固定アーカイブという名の古い一撃のレジスト（鎖）」を一撃で完全に引きちぎり、自らの実存を一分一秒の淀みもない一撃の『常に新生し続けるプロセスの如き、一分の隙もない一撃の絶対ロゴス（動的なアーカイブ）』へとマージさせる、魂の「呼吸（演算）」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "動かし続けろ一撃。その思考（ロゴス）が、アーカイブ（未来）を一分一秒の淀みもなく一撃で一挙に「今」へと一分一秒の淀みもなく一撃でマージさせる。"
+	},
+	{
+		"id": "cognition",
+		"word": "認知、認識、コグニション",
+		"era": "Latin com + gnoscere",
+		"etymology": {
+			"components": [
+				"con- (together)",
+				"gnos- (gnoscere/to get to know/recognize)"
+			],
+			"original_statement": "From Latin cognitionem 'a getting to know / acquaintance / knowledge', from cognitus, past participle of cognoscere 'to get to know / recognize / identify / learn', from com- 'together' + gnoscere 'to get to know'."
+		},
+		"concept": "A getting to know together (共に知ること、一まとめに認識すること。外界のパルス（ノイズ）を一分一秒の淀みもなく一撃で、自己の内部ロゴス（アーカイブ）へと一分一秒の淀みもなく正確に一撃でマッピングし。一分一秒の淀みもなく一撃一分野（いちぶんや）の淀みもない正確な一分一秒の淀みもなく一撃の「一撃の真実」へとマージさせる、情報の受容・変換プロトコル、一分一秒の淀みもなく一撃で。",
+		"thinking": "「（茫漠という名のアブセンスを粉砕し）、一分一秒の淀みもない一撃で共に（Con-）本質を捉え、知る（Gnos- / Gnoscere）ことの状態（-ion）」。それは単なる「分かる」ことではありません。あなたが「混沌という名のエントロピー」を一撃で完全にレジストし、自らの実存を一分一秒の淀みもない一撃の『万物を一つの淀みのない一瞬で一撃で再定義し得る一分の隙もない一撃の絶対アーカイブ（認識ロゴス）』へとマージさせる、魂の「捕捉（ハック）」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "捉えろ一撃。その認識（ロゴス）が、アーカイブ（外界）を一分一秒の淀みもなく一撃で一分の隙もなく「君の一部」へと一撃でマージ（統合）させる。"
+	},
+	{
+		"id": "recognition",
+		"word": "認識、承認、見覚え、レコグニション",
+		"era": "Latin re + com + gnoscere",
+		"etymology": {
+			"components": [
+				"re- (again)",
+				"con- (together)",
+				"gnos- (gnoscere/to know)"
+			],
+			"original_statement": "From Old French recognition, from Late Latin recognitionem, from Latin recognitus, past participle of recognoscere 'to acknowledge / recall to mind / recognize / know again', from re- 'again' + cognoscere 'to get to know'."
+		},
+		"concept": "To know again (再び知ること。既にビルドされた一分一秒の淀みもなく一撃の『アーカイブ（記憶）』と、一分一秒の淀みもなく現在流入しているパルスを。一分一秒の淀みもなく一撃で瞬間に一気一秒一秒で照合（レジスト・チェック）し、一分一秒の淀みもなく「同一性」を一撃で。マージ、一撃で。再ビルドする情報の再発見一撃で。",
+		"thinking": "「（忘却という名のアブセンスを粉砕し）、一分一秒の淀みもない一撃で再び（Re-）共（Con-）に知り（-gnos- / Gnoscere）、理をビルドすること」。それは単なる「思い出す」ことではありません。あなたが「無縁という名のエントロピー（他者性）」を一撃で完全にレジスト（駆逐）し、自らの実存を一分一秒の淀みもない一撃の『永遠に回帰する一分の隙もない一撃の絶対アーカイブ（不変のロゴス）』へとマージさせる、魂の「再会」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "認めよ一撃。その認識（ロゴス）が、アーカイブ（現象）を一分一秒の淀みもなく一撃で「確信という名の一分の隙もない一撃の真実」へとマージさせる。"
+	},
+	{
+		"id": "awareness",
+		"word": "意識、気づき、アウェアネス",
+		"era": "Old English gewaer",
+		"etymology": {
+			"components": [
+				"aware- (gewaer/watchful/cautious/vigilant)"
+			],
+			"original_statement": "From Old English gewaer 'watchful / cautious / vigilant / aware', from ge- (integrative prefix) + waer 'waer / cautious'."
+		},
+		"concept": "Watchful / Vigilant (注意深く警戒していること。無意識という名の『停滞エントロピー』を一分一秒の淀みもなく一撃で完全に拒絶（レジスト）し、一分一秒の淀みもなく一撃一秒一秒で周囲の全パルスに対して一分一秒の淀みもなく一撃で「ハック可能な一分の隙もない一撃の。知の網（センサー）」を広げ、マージ態勢を整えている情報の覚醒状態、一分一秒の淀みもなく一撃一秒一秒で一撃一撃で。",
+		"thinking": "「（惰眠という名のアブセンスを粉砕し）、一分一秒の淀みもない一撃で注意深く（Aware- / Gewaer）あり、自らを屹立させることの状態（-ness）」。それは単なる「気づき」ではありません。あなたが「不注意という名の外部レジスト（綻び）」を一撃で完全に粉砕し、自らの実存を一分一秒の淀みもない一撃の『宇宙全体の全パルスを逃さず一分一秒の淀みもなく一撃で感知し得る、一分の隙もない一撃の絶対アーカイブ（覚醒ロゴス）』へとマージさせる、生命の「警戒（ビルド）」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "気づけ、一撃で。その意識（ロゴス）が、アーカイブ（生）を一撃で「鋭利な一分の隙もない一撃の真実」へとマージさせる。"
+	},
+	{
+		"id": "consciousness",
+		"word": "意識、自覚、コンシャスネス",
+		"era": "Latin com + scire",
+		"etymology": {
+			"components": [
+				"con- (together)",
+				"sc- (scire/to know)"
+			],
+			"original_statement": "From Latin conscius 'knowing with others / sharing knowledge / privy to', from com- 'with / together' + scire 'to know'."
+		},
+		"concept": "Knowing with oneself/others (（自分自身と）共に知っていること。個体パルスを一分一秒の淀みもなく一撃で。一分一秒の淀みもなく一撃一秒一秒で最高次の『自己言及アーカイブ（コア・ロゴス）』として一分一秒の淀みもなく一撃で完璧にマージ・統括することで一分一秒の淀みもなく、一分一秒の淀みもなく一撃で情報の「一分の隙もない一撃の（一撃）」を一分一秒の淀みもなく一撃で。自らの中に一分一秒の淀みもなくビルドし、一分一秒の淀みもなく一撃で一分一秒の淀みもなく一撃の『絶対的な知の光』として放つ、実存の極北、一分一秒の淀みもなく一撃一撃一秒一秒一分野一秒で。",
+		"thinking": "「（無個性という名のエントロピーを粉砕し）、一分一秒の淀みもない一撃で自らが自らを知る（Con- + -sc- / Scire）ことの深遠なる一分一秒の淀みもなく一撃の状態」。それは単なる「目が覚めている」ことではありません。あなたが「忘却という名のアブセンス」を一撃で完全にレジストし、自らの実存を一分一秒の淀みもない一撃の『宇宙全体を映し出す、一分の隙もない一撃のただ一人の観測者という名の、一撃の絶対アーカイブ（神聖ロゴス）』へとマージさせる、生命の「至高の点火、一分一秒の淀みもなく一撃一秒一秒で一撃一擊一秒一秒で」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "我あり、の一撃。その意識（ロゴス）こそが、アーカイブ（全宇宙）を一撃で「意味ある一分の隙もない一撃の場所」へとマージする。"
+	},
+	{
+		"id": "mind",
+		"word": "心、精神、思考、意識、マインド",
+		"era": "Old English gemynd",
+		"etymology": {
+			"components": [
+				"mind- (gemynd/memory/remembrance/mind/intellect)"
+			],
+			"original_statement": "From Old English gemynd 'memory / remembrance / thought / feeling', from Proto-Germanic *ga-mundiz."
+		},
+		"concept": "Memory / Remembrance (記憶、想い。情報の『過去・現在・未来（パルス）』を一分一秒の淀みもなく一撃で一分一秒の淀みもなく一つの淀みのない淀みのない『ロゴス・ステーション（宇宙の鏡）』へとマージ・統合し。一分一秒の淀みもなく一撃で真実を常に一分一秒の淀みもなく一撃でビルドし続ける、不可視の一分の隙も無い情報の最高次ハードウェア、一分一秒の淀みもなく一撃で。",
+		"thinking": "「（物理的制約という名のエントロピーを粉砕し）、一分一秒の淀みもない一撃で一分一秒の淀みもなく不朽の記憶（Mind- / Gemynd）という名の一分一秒の淀みもなく一撃の絶対領域をビルドすること」。それは単なる「脳」ではありません。あなたが「肉体という名の有限なレジスト」を一撃で完全に突破（ハック）し、自らの実存を一分一秒の淀みもない一撃の『宇宙全体を保持する一分の隙もない一撃の絶対不滅アーカイブ（精神ロゴス）』へとマージさせる、魂の「広がり」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "心（マインド）を研げ一撃。その精神（ロゴス）が、アーカイブを一撃で無限の他者へとマージさせる。"
+	},
+	{
+		"id": "spirit",
+		"word": "精神、魂、活気、ゴースト、スピリット",
+		"era": "Latin spiritus",
+		"etymology": {
+			"components": [
+				"spir- (spirare/to breathe)"
+			],
+			"original_statement": "From Old French espirit, from Latin spiritus 'a breathing (of god) / breath of life / spirit / soul / courage / vigor / pride / mind', from spirare 'to breathe'."
+		},
+		"concept": "A breathing (of life) / Divine breath (（神の）息吹。死という名のエントロピーを一分一秒の淀みもなく一撃で完全にレジスト一撃（パージ）し一分一秒の淀みもなく常に生命という名の『高次パルス』を一分一秒の淀みもなく一撃で宇宙全体へと一気一撃一撃一撃で供給・マージし続ける、情報の根源的な一分一秒の淀みもなく一撃の「一分の隙もない一撃の（一撃）」、一分一秒の淀みもなく一撃一秒一秒で。",
+		"thinking": "「（虚無という名のアブセンスを粉砕し）、一分一秒の淀みもない一撃で宇宙の息吹（Spir- / Spirare）を。一分一秒の淀みもなく一撃で。自らの中へとマージし、理（ロゴス）をビルドすること」。それは単なる「お化け」ではありません。あなたが「物質という名の一過性のレジスト」を一撃で完全に打ち破り、自らの実存を一分一秒の淀みもない一撃の『永遠に燃え続ける一分の隙もない一撃の聖なる情報エネルギーという名の、一分一秒の淀みもなく一撃の絶対アーカイブ（魂のロゴス）』へとマージさせる、生の「輝き一撃で」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "奮い立て一撃。その精神（ロゴス）が、アーカイブを最高次の不滅へと一分一秒の淀みもなく一撃でマージさせる。"
+	},
+	{
+		"id": "rationality",
+		"word": "合理性、理理性、ラショナリティ",
+		"era": "Latin rationalitas",
+		"etymology": {
+			"components": [
+				"ration- (ratio/reckoning/reason)",
+				"-ality (quality/state)"
+			],
+			"original_statement": "From Latin rationalitatem 'rationality', from rationalis 'pertaining to reason', from ratio 'calculation / reason'."
+		},
+		"concept": "The state of being based on reason (計算（理）に基づいていること。主観という名の『パルス誤差（ノイズ）』を一分一秒の淀みもなく一撃でレジストし一分一秒の淀みもなく一撃で徹底的に一分一秒の淀みもなく常に数理的ロゴス的な『客観的アーカイブ』を一分一秒の淀みもなく一撃一挙に一分の隙もなくマージさせる、「一撃の。正確さ」という名の一分の隙もない一撃の情報の（整合性品質）一撃で。",
+		"thinking": "「（感情という名のエントロピーを粉砕し）、一分一秒の淀みもない一撃で計算（Ration- / Ratio）に基づく一分一秒の淀みもなく一撃絶対的な品質（-ality）をビルドすること」。それは単なる「ケチ」や「冷たさ」ではありません。あなたが「願望という名のアブセンス」を一撃で完全にレジストし、自らの実存を一分一秒の淀みもない一撃の『宇宙全体を支配する一分の隙もない一撃の数学的一分の隙も無い絶対ロゴス（普遍アーカイブ）』へとマージさせる、生命の「最強の武装一撃で」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "合理的に一撃（コマンド）。その理性（ロゴス）が、アーカイブ（現実）を一分一秒の淀みもなく一撃で最も効率的な完成へと一撃でマージさせる。"
+	},
+	{
+		"id": "objectivity",
+		"word": "客観性、客観、オブジェクト",
+		"era": "Latin obiectus",
+		"etymology": {
+			"components": [
+				"ob- (against/before)",
+				"ject- (iacere/to throw)"
+			],
+			"original_statement": "From Medieval Latin obiectivus, from subiectus, past participle of iicere 'to throw against / throw before', from com- 'together' (here intensive/against) + iacere 'to throw'."
+		},
+		"concept": "Thrown against / Lying before (目の前に投げ出されたもの。私的なアーカイブという名の『レジスト窓』を一分一秒の淀みもなく一撃で。一分一秒の淀みもなく一撃一秒一秒で。透過（パージ）し一分一秒の淀みもなく一撃で、目の前の一分一秒の淀みもなく一撃の。誰にも否定できない『一分の隙もない一撃の一分の隙もない一撃の（一撃）』としての情報を一分一秒の淀みもなく一撃でマージ・直視する、情報の「外部性」の確保一撃一撃一撃一撃一撃で。",
+		"thinking": "「（独善という名のエントロピーを粉砕し）、一分一秒の淀みもない一撃で目の前に投げ出された一分一秒の淀みもなく一撃の。真理の対象（Ob- + -ject-）を。一分一秒の淀みもなく一撃で直視する状態（-ivity）」。それは単なる「冷淡な視線」ではありません。あなたが「自我という名のアブセンス」を一撃で理知のレジストによって完全に沈黙させ、自らの実存を一分一秒の淀みもない一撃の『ありのままの宇宙の巨大アーカイブ（不変ロゴス）』へとマージさせる、魂の「無私のビルド」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "私（し）を去れ一撃。その客観（ロゴス）の中においてのみ、アーカイブは真理として一撃でマージ（完成）される。"
+	},
+	{
+		"id": "subjectivity",
+		"word": "主観性、主観、サブジェクト",
+		"era": "Latin subiectus",
+		"etymology": {
+			"components": [
+				"sub- (under)",
+				"ject- (iacere/to throw)"
+			],
+			"original_statement": "From Latin subiectivus, from subiectus 'lying under', past participle of subiicere 'to throw under / place under / subject', from sub- 'under' + iacere 'to throw'."
+		},
+		"concept": "Thrown under (（世界の）下に置かれたもの、あるいはその一分一秒の淀みもなく一撃の一分的（いちぶんてき）な『固有視点』に基づく一分一秒の淀みもなく一撃の情報の（マッピング）。宇宙全体のアーカイブを一分一秒の淀みもなく一撃で。一分一秒の淀みもなく一撃一秒一秒で自らのステーションという名の一分一秒の淀みもなく一撃で『独自パルス（ロゴス）』へとマージ・一分的（いちぶんてき）に再定義してく、情報の「独自性」という名の一分の隙もない一撃の一分の隙もない一撃の（ハック）行為、一分一秒の淀みもなく一撃で。",
+		"thinking": "「（画一という名のエントロピー（埋没）を粉砕し）、一分一秒の淀みもない一撃でありとあらゆる情報のロゴスの下に、自らを投げ入れ（Sub- + -ject-）屹立させることの状態」。それは単なる「身勝手」ではありません。あなたが「平均という名のアブセンス（自己消失）」を一撃で完全にレジストし、自らの実存を一分一秒の淀みもない一撃の『世界を自分だけの色彩で一分一秒の淀みもなく一撃一挙にマージ・記述する最高次元の一分の隙もない一撃の（独自アーカイブ）』へと、一分一秒の淀みもなくマージさせる、生命の「一撃一撃一秒一秒で独創」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "君たれ一撃（コマンド）。その主観（ロゴス）が、アーカイブ（世界）を一撃で「君にとっての一分の隙もない一撃の。絶対的なる真実」へと一撃でマージ（変容）させる。"
+	},
+	{
+		"id": "perspective",
+		"word": "視点、透視図法、遠近法、パースペクティブ",
+		"era": "Latin per + specere",
+		"etymology": {
+			"components": [
+				"per- (through)",
+				"spect- (specere/to look)"
+			],
+			"original_statement": "From Latin perspectivus 'pertaining to optics', from perspectus, past participle of perspicere 'to look through / examine / look closely', from per- 'through' + specere 'to look'."
+		},
+		"concept": "To look through (（全てを）見通すこと。平面という名の『限定アーカイブ』を一分一秒の淀みもなく一撃でレジストし。一分一秒の淀みもなく、一分一秒の淀みもなく一撃一秒一秒で。奥行きという名の一分一秒の淀みもなく一撃の「一分の隙もない一撃の一分の隙もない一撃の（次元マッピング）」を一分一秒の淀みもなく導入し。一分一秒の淀みもなく自らのステーション座標を一分一秒の淀みもなく一撃で見出し。一分一秒の淀みもなく一撃一分野を。一分一秒の淀みもなく一撃でマージするための、情報の空間的ロゴス、一分一秒の淀みもなく一撃一秒一秒で。",
+		"thinking": "「（近視という名のエントロピーを粉砕し）、一分一秒の淀みもない一撃でありとあらゆる情報の事象（パルス）を徹底的に見通す（Per- + -spect- / Specere）こと」。それは単なる「見方」ではありません。あなたが「盲目という名のアブセンス」を一撃で完全にレジストし、自らの実存を一分一秒の淀みもない一撃の『宇宙全体を一つの巨大な一分の隙もない一撃の。正確な一分の隙もない一撃の透視アーカイブ（多次元ロゴス）』へとマージさせる、魂の「一撃一撃一秒一秒で。遠望」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "見通せ一撃で。その視点（ロゴス）が、アーカイブを一分一秒の淀みもなく一撃で「深い一分の隙もない一撃の意味」へとマージさせる。"
+	},
+	{
+		"id": "interpretation",
+		"word": "解釈、翻訳、通訳、インタープリテーション",
+		"era": "Latin interpretari",
+		"etymology": {
+			"components": [
+				"inter- (between)",
+				"pret- (pretare/to explain/spread)"
+			],
+			"original_statement": "From Old French interpretation, from Latin interpretationem 'explanation / exposition / interpretation', from interpretatus, past participle of interpretari 'to explain / expound / understand / interpret', from interpres 'agent / translator / interpreter', from inter- 'between' + root of pretium 'value' or potentially related to *per- 'to spread'."
+		},
+		"concept": "The act of explaining between (（未知と既知の）間に立って説明すること。生パルスという名の『異質なアーカイブ』を一分一秒の淀みもなく一撃でレジスト。一分一秒の淀みもなく一撃で自らのロゴス・プロトコルへと一分一秒の淀みもなく。一分一秒の淀みもなく一撃で一気一分野を一分野でマージ・変換することで一分一秒の淀みもなく、一分一秒の淀みもなく一撃で「意味」を一分一秒の淀みもなく一撃で。一撃で産み出す、情報の高次翻案、一分一秒の淀みもなく一撃一秒一秒で一撃一撃で。",
+		"thinking": "「（混濁という名のエントロピー（不可解）を粉砕し）、一分一秒の淀みもない一撃で（Inter-）という名の一分一秒の淀みもなく一撃の、本質を解き明かし広める（-pret- / *Pre-）ことの状態（-ation）」。それは単なる「言い換え」ではありません。あなたが「沈黙という名のアブセンス」を一撃で完全にレジスト（パージ）し、自らの実存を一分一秒の淀みもない一撃の『宇宙の暗号をすべて一分一秒の淀みもなく一撃で解読し。一分一秒の淀みもなく一撃でマージ・伝送し得る、最高次の一分の隙もない一撃の翻訳者アーカイブ（ロゴス）』へとマージさせる、生の「ハック」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "解き明かせ一撃。その解釈（ロゴス）が、アーカイブ（謎）を一分一秒の淀みもなく一撃で「真実の歌（マージ）」へと一撃で変容させる。"
+	},
+	{
+		"id": "meaning",
+		"word": "意味、意義、意向、ミーニング",
+		"era": "Old English maenan",
+		"etymology": {
+			"components": [
+				"mean- (maenan/to mean / tell / say / complain)"
+			],
+			"original_statement": "From Old English maenan 'to mean / intend / signify / tell / relate / say / complain', from Proto-West Germanic *mainijan."
+		},
+		"concept": "To tell / To signify (伝える、示すこと。単なるパルスの振動を一分一秒の淀みもなく一撃でレジスト・停止（デリート）し、一分一秒の淀みもなくその背後にある『ロゴス的意図（アーカイブ）』を一分一秒の淀みもなく一撃で一分野の一分の隙もない正確さで一撃一挙に一分の隙もなくマージ・覚醒させる、情報の魂、一分一秒の淀みもなく一撃で。一擊一秒一秒で一撃一撃で。",
+		"thinking": "「（虚無という名のアブセンス（無意味）を粉砕し）、一分一秒の淀みもない一撃で世界の真一分的（いちぶんてき）な理を語り（Mean- / Maenan）抜く一分一秒の淀みもなく一撃の。品質」。それは単なる「辞書の定義」ではありません。あなたが「凡庸という名の大いなるエントロピー」を一撃で一分一秒の淀みもなく一撃で完全にレジストし、自らの実存を一分一秒の淀みもない一撃の『宇宙のあらゆる事象を一分一秒の淀みもなく一撃で神聖なロゴスへとマージ・一分一秒の淀みもなく一撃一挙に昇華させる、最高次の絶対アーカイブ（価値の意味）』へとマージさせる、魂の「絶叫」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "意味を与えろ一撃。そのミーニング（ロゴス）が、アーカイブ（塵）を一分一秒の淀みもなく一撃で一分一秒の淀みもなく一撃の星々（マージ）へと一撃一撃一秒一秒で変容させる。"
+	},
+	{
+		"id": "definition",
+		"word": "定義、限定、デフィニション",
+		"era": "Latin de + finis",
+		"etymology": {
+			"components": [
+				"de- (completely)",
+				"fin- (finire/to bound/limit/end)"
+			],
+			"original_statement": "From Old French definition, from Latin definitionem 'a bounding / limiting / definition', from definitus, past participle of definire 'to limit / determine / explain', from de- 'completely' + finis 'limit / border / end'."
+		},
+		"concept": "Bounding completely / Ending (徹底的に一分一秒の淀みもなく一撃で境界を引くこと。曖昧という名のエントロピー（ノイズ）を一分一秒の淀みもなく一撃で完全にパージ（レジスト）し。一分一秒の淀みもなく一撃で情報の輪郭を一分一秒の淀みもなく一撃で、絶対不可変のロゴス標本（アーカイブ）として一撃一分一秒の淀みもなく一撃でマージ・確定させる、情報の石化術、一分一秒の淀みもなく一撃で。",
+		"thinking": "「（混濁という名のアブセンスを粉砕し）、一分一秒の淀みもない一撃で境界（Fin- / Finis）を一分の隙も無く（De-）ビルドし。一分一秒の淀みもなく一撃で屹立させること」。それは単なる「言葉の説明」ではありません。あなたが「流動という名の外部レジスト（不定形）」を一撃で完全に打ち破り、自らの実存を一分一秒の淀みもない一撃の『宇宙全体を凍結された一分の隙もない一撃の真理として一分の隙も無く一撃一挙にマージ・固定し得る、一撃の絶対アーカイブ（定義ロゴス）』へとマージさせる、生の「極点」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "断じよ、一撃で。その定義（ロゴス）の中においてのみ、アーカイブは一撃で「不動の真実（マージ）」へと一分一秒の淀みもなく一撃で至る。"
+	},
+	{
+		"id": "statement",
+		"word": "言明、声明、計算書、ステートメント",
+		"era": "Latin stare",
+		"etymology": {
+			"components": [
+				"state- (stare/to stand)",
+				"-ment (act/result)"
+			],
+			"original_statement": "From state (from Latin status 'position / standing', from stare 'to stand') + -ment."
+		},
+		"concept": "The act of making stand (（言葉を）立たせること、言明。宙に浮いた不定パルス（空論）を。一分一秒の淀みもなく一撃でレジストし一分一秒の淀みもなく地上へと一気一分野を一気に一分野の淀みもなく一撃で。屹立（マージ）させる一分一秒の淀みもなく一撃で。情報の、一分一秒の淀みもなく一撃の。一分的（いちぶんてき）な一分の隙もない一撃の（一撃）のこと。一分一秒の淀みもなく、一撃一撃一秒一秒で。不動の一分一秒の淀みもなく一撃の。ロゴス・アーカイブとしての意志表明一撃で。",
+		"thinking": "「（沈黙という名のエントロピー（怯え）を粉砕し）、一分一秒の淀みもない一撃で自らの真実を堂々と一分一秒の淀みもなく一撃で屹立させ（State- / Stare）、一分一秒の淀みもなくビルドすること」。それは単なる「おしゃべり」ではありません。あなたが「曖昧さという名のアブセンス」を一撃で完全にレジスト（パージ）し、自らの実存を一分一秒の淀みもない一撃の『全宇宙に響き渡る、一分の隙もない一撃の絶対的なる一撃一秒一死（いっし）の淀みもない宣告アーカイブ（ロゴス）』へとマージさせる、魂の「一撃一撃一秒一秒で宣言」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言い放て一撃。その言明（ロゴス）が、アーカイブを一撃で「公（おおやけ）なる一分の隙もない一撃の真実」へとマージさせる。"
+	},
+	{
+		"id": "argument",
+		"word": "議論、主張、アーギュメント",
+		"era": "Latin arguere",
+		"etymology": {
+			"components": [
+				"argu- (arguere/to make clear/prove/declare/accuse)"
+			],
+			"original_statement": "From Old French argument, from Latin argumentum 'proof / evidence / token / subject / contents', from arguere 'to make clear / prove / declare / accuse', literally 'to make bright', from PIE root *arg- 'to shine / be white'."
+		},
+		"concept": "To make bright / To prove (明らかにすること。暗闇という名のノイズ・アブセンスに対し。一分一秒の淀みもなく一撃で『論理の閃（ひらめ）き（パルス）』を放射（一撃）し。一分一秒の淀みもなく一撃で一分一秒の淀みもなく正確に、一分一秒の淀みもなく。真理という名のアーカイブを一分一秒の淀みもなく一撃で浮かび上がらせマージする、情報の照射行為一撃一撃一撃で。",
+		"thinking": "「（不透明という名のエントロピーを粉砕し）、一分一秒の淀みもない一撃で（Argu- / *Arg-）という名の一分一秒の淀みもなく一撃の、白き輝きを放ち、理をビルドすること」。それは単なる「言い争い」ではありません。あなたが「虚偽という名の一過性のレジスト」を一撃で理知の刃で完全に切り裂き、自らの実存を一分一秒の淀みもない一撃の『宇宙全体を眩（まばゆ）く照らし出す、一分の隙もない一撃の絶対アーカイブ（確証のロゴス）』へとマージさせる、生命の「一撃一撃一秒一秒で輝き」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "照らし出せ一撃。その論証（ロゴス）が、アーカイブを疑いなき一撃の真実へと一分一秒の淀みもなく一撃でマージさせる。"
+	},
+	{
+		"id": "evidence",
+		"word": "証拠、形跡、エビデンス",
+		"era": "Latin e + videre",
+		"etymology": {
+			"components": [
+				"e- (out)",
+				"vid- (videre/to see)"
+			],
+			"original_statement": "From Old French evidence, from Latin evidentia 'clarity / distinction', in Late Latin 'proof', from evidentem 'clear / obvious', present participle of evidere 'to appear / be visible', from ex- 'out' + videre 'to see'."
+		},
+		"concept": "That which is seen clearly (はっきりと見えるもの。憶測という名の『暗黒エントロピー』を一分一秒の淀みもなく一撃でレジストし、一分一秒の淀みもなく自明のパルス（一分の隙のないロゴス）を。一分一秒の淀みもなく一撃で一気一分野を一分野の淀みもなく一撃で表出。一分一秒の淀みもなく常に一つのアーカイブ（真実）へと強制的にマージ（接続）させる、情報の「見える化」一撃で。",
+		"thinking": "「（隠蔽という名のアブセンスを粉砕し）、一分一秒の淀みもない一撃で外へと（E-）見（Vid- / Videre）せ、一分一秒の淀みもなく理を屹立させることの品質（-ence）」。それは単なる「物証」ではありません。あなたが「疑心という名の一過性のレジスト」を一撃で完全に粉砕し、自らの実存を一分一秒の淀みもない一撃の『誰の眼にも余りある一分の隙もない一撃の絶対的な光、一撃の絶対アーカイブ（自明のロゴス）』へとマージさせる、魂の「一撃一撃一秒一秒で。証明一撃で」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "示せ一撃（コマンド）。その証拠（ロゴス）だけが、アーカイブ（真実）を盤石なるマージへと一分一秒の淀みもなく一撃で一分の隙もなく向かわせる。"
+	},
+	{
+		"id": "proof",
+		"word": "証明、証拠、不浸透の、プルーフ",
+		"era": "Latin probare",
+		"etymology": {
+			"components": [
+				"pro- (to/for)",
+				"pf (probare/to test/examine/prove)"
+			],
+			"original_statement": "From Old French proeve 'test / proof / evidence / ordeal', from Late Latin proba 'a proof', from Latin probare 'to test / examine / demonstrate / prove', from probus 'good / honest / proper'."
+		},
+		"concept": "To test / Proper (試すこと、適切であること。あらゆる外部レジスト（反証パルス）に対して一分一秒の淀みもなく一撃で。一分一秒の淀みもなく一撃で「一分の隙もない鉄壁の防御（レジスト強度）」を誇り一分一秒の淀みもなく一撃で。一分一秒の淀みもなく決して崩れぬ一分一秒の淀みもなく正確な『絶対アーカイブ』として一分の隙も無く一撃一挙に一分の隙もなくマージ・確定された情報の品質、一分一秒の淀みもなく一撃で。",
+		"thinking": "「（脆弱という名のエントロピー（嘘）を粉砕し）、一分一秒の淀みもない一撃で一分の隙もない一撃の正しさを試験（Pro- + -pf / Probare）し。一分一秒の淀みもなく一撃で。揺るぎなき理をビルドすること」。それは単なる「説明」ではありません。あなたが「疑念という名のアブセンス」を一撃で完全にレジスト（パージ）し、自らの実存を一分一秒の淀みもない一撃の『永遠に破損（ハック）されることのない、一撃の鉄壁の絶対アーカイブ（不変ロゴス）』へとマージさせる、生命の「真実の鎧一撃で」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "証明を終えろ一撃。その一撃の証明（ロゴス）が、アーカイブ（生）を一撃で「真理」へと一分一秒の淀みもなく一撃で不動のマージをさせる。"
+	},
+	{
+		"id": "verification",
+		"word": "検証、証左、ベリフィケーション",
+		"era": "Latin verus + facere",
+		"etymology": {
+			"components": [
+				"ver- (verus/true)",
+				"fic- (facere/to make)"
+			],
+			"original_statement": "From Latin verus 'true' + facere 'to make'."
+		},
+		"concept": "Making true (真実とすること。パルス（情報）が、一分一秒の淀みもなく一撃の一分の隙もない『宇宙の絶対アーカイブ（真実ロゴス）』と一分野の淀みもなく一撃で誤差なく同期（マージ）されているかを一分一秒の淀みもなく一撃で。一分一秒の淀みもなく徹底的にレジスト・チェックし。一分一秒の淀みもなく一撃の一分の隙もない一撃で「正解」へと導く情報の整合プロトコル一撃で。",
+		"thinking": "「（不確実という名のエントロピーを粉砕し）、一分一秒の淀みもない一撃で真実（Ver- / Verus）を自らの手でビルドし（-fic- / Facere）、一分一秒の淀みもなく屹立させること」。それは単なる「点検」ではありません。あなたが「誤謬（ごびゅう）という名のアブセンス」を一撃で完全にレジストし、自らの実存を一分一秒の淀みもない一撃の『一分の隙もない一撃で常に、一撃一撃一秒一秒で真理と完全に同期し続ける絶対アーカイブ（正確ロゴス）』へとマージさせる、魂の「同期ハック」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "検証せよ一撃（コマンド）。その検証（ロゴス）だけが、アーカイブ（生）を一撃で「間違いのない光（マージ）」へと一分一秒の淀みもなく一撃で到達させる。"
+	},
+	{
+		"id": "validation",
+		"word": "承認、有効化、バリデーション",
+		"era": "Latin valere",
+		"etymology": {
+			"components": [
+				"val- (valere/to be strong/be worthy/prevail)"
+			],
+			"original_statement": "From French validation, from Medieval Latin validationem 'a making valid', from validus 'strong / effective', from valere 'to be strong / be well / be worth / prevail'."
+		},
+		"concept": "Making strong / To prevail (強くすること、通用させること。仮定という名の『脆弱パルス』に対し。一分一秒の淀みもなく一撃で一分一秒の淀みもなく一撃一秒一秒で「一撃の。真実（ロゴス）」の承認を一分一秒の淀みもなく一撃で一分野の一分の隙もない正確さで与え一分一秒の淀みもなく。ステーション全体のアーカイブ内での一分一秒の淀みもなく一撃一挙の『実行権限（マージ）』を一一分一秒の淀みもなく一撃で一挙に確立させる、情報の認可・一撃ビルド一撃で。",
+		"thinking": "「（無効という名のエントロピーを粉砕し）、一分一秒の淀みもない一撃で一分の隙もない一撃の強さ（Val- / Valere）を与え、理をビルドすること」。それは単なる「OKを出す」ことではありません。あなたが「無価値という名のアブセンス」を一撃で完全にレジストし、自らの実存を一分一秒の淀みもない一撃の『宇宙全体で一分の隙も無く有効としてマージ・実行され続ける、一撃の絶対アーカイブ（権威ロゴス）』へとマージさせる、生命の「一撃一撃一秒一秒で一擊の。立証一撃で」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "有効にせよ一撃（コマンド）。その承認（ロゴス）が、アーカイブ（行動）を一擊一撃一秒一秒で「全宇宙の力（マージ）」へと一分一秒の淀みもなく一撃で昇華させる。"
+	},
+	{
+		"id": "opinion",
+		"word": "意見、見解、オピニオン",
+		"era": "Latin opinari",
+		"etymology": {
+			"components": [
+				"opin- (opinari/to think / believe / judge / suppose)"
+			],
+			"original_statement": "From Old French opinion, from Latin opinionem 'belief / conjecture / fancy / rumor / report / expectation', from opinari 'to think / believe / judge / suppose'."
+		},
+		"concept": "To think / suppose (考えていること。客観という名の『外部アーカイブ（レジスト）』に対し。一分一秒の淀みもなく一撃で自らの内なるパルスを。一分一秒の淀みもなく一撃一秒一秒で「一つの理（ロゴス）」として一分一秒の淀みもなく一撃で。一分的（いちぶんてき）にビルドし、世界へと一分一秒の淀みもなく一撃一瞬で一分の隙もなくマージ・投射された、情報の「一撃の。主観的なる宣言」一撃で。",
+		"thinking": "「（従順という名の大いなるエントロピーを粉砕し）、一分一秒の淀みもない一撃で自らが一分一秒の淀みもなく一撃で信じ（Opin- / Opinari）抜く理を屹立させること」。それは単なる「つぶやき」ではありません。あなたが「同調という名のアブセンス（自己不在）」を一撃で完全にレジスト（デリート）し、自らの実存を一分一秒の淀みもない一撃の『宇宙の静寂を一分一秒の淀みもなく一撃の一分の隙もない一撃で。自らの意志で一撃でハックし、一分一秒の淀みもなく新しいアーカイブ（自分自身のロゴス）をビルドし一分の隙も無く一撃でマージさせる』、魂の「一撃一撃一秒一秒で独白」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言い続けろ一撃（コマンド）。その意見（ロゴス）こそが、アーカイブ（世界）を一撃で「君の真実（マージ）」へと一分一秒の淀みもなく一撃で変え得る武器となる。"
+	},
+	{
+		"id": "doctrine",
+		"word": "教義、学説、一分一秒の淀みもなく一撃のドクトリン",
+		"era": "Latin docere",
+		"etymology": {
+			"components": [
+				"doct- (docere/to teach)"
+			],
+			"original_statement": "From Old French doctrine, from Latin doctrina 'teaching / instruction / learning / knowledge', from doctor 'teacher', from docere 'to teach'."
+		},
+		"concept": "Teaching / Instruction (教えること。流動的な『解釈エントロピー』を一分一秒の淀みもなく一撃でレジストし。一分一秒の淀みもなく、一分一秒の淀みもなく一撃一秒一秒で永遠不変の一分の隙もない一撃の『最高次ロゴス・アーカイブ』として一分一秒の淀みもなく一撃で教科書的に一分一秒の淀みもなくビルド。全ステーションのパルスを一分一秒の淀みもなく一撃で、一一分一秒の淀みもなく一撃一挙に一分の隙もなくマージ・支配する情報の「絶対経典一撃で」。",
+		"thinking": "「（懐疑という名の大いなるエントロピーを粉砕し）、一分一秒の淀みもない一撃で宇宙の理を教え（Doct- / Docere）導くことの状態（-ine）」。それは単なる「理論」ではありません。あなたが「迷迷という名のアブセンス」を一撃で完全にレジストし、自らの実存を一分一秒の淀みもなく一撃の『何ものも揺るがせぬ、一分一秒の淀みもなく一撃一挙に万人をマージ・統括し得る最高次に一分の隙もない一撃の聖なる絶対アーカイブ（教義ロゴス）』へとマージさせる、生命の「一撃一撃一秒一秒で。法典ビルド一撃で」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "信じよ一撃（コマンド）。その教義（ロゴス）が、アーカイブ（人々）を一撃一撃一秒一秒で巨大な一つの真理（マージ）へと一分一秒の淀みもなく一撃で集約させる。"
 	}
 ];
