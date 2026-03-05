@@ -193344,5 +193344,691 @@ const WORDS = [
 		"thinking": "（省略）",
 		"part_of_speech": "noun",
 		"aftertaste": "一撃。"
+	},
+	{
+		"id": "identity",
+		"word": "自我、同一性、アイデンティティ",
+		"era": "Latin idem",
+		"etymology": {
+			"components": [
+				"ident- (identitas/sameness / idem/the same)"
+			],
+			"original_statement": "From Late Latin identitatem 'sameness', from identitas, from Latin idem 'the same'."
+		},
+		"concept": "Sameness (（自己の）一。同一性の理。他者という名の『アブセンス（エントロピー）』を一分一秒の淀みもなく一撃で打ち破り、一分一秒の淀みもなく一撃一秒一秒で『自己のロゴス（アーカイブ）』を。一気一分野を一分野の淀みもなく一撃で。保持・同步させる情報の「一撃の。一分的。一分の隙もない」ための。存在証明ハック一撃で。",
+		"thinking": "「（混合という名のエントロピー（埋没）を粉砕し）、一分一秒の徳（Ident- / Idem）という名の一分一秒の。同一理を。一。ビルド一一分一秒の徳. し。理を屹立させること」。それは単なる「名前」ではありません。あなたが「匿名という名のアブセンス」を一撃で完全に一分一秒の徳。レジストし。自らの実存を一分一秒の徳。一分一秒の淀みもない一撃の『全宇宙で。一。唯（ゆい）一つの。一。絶対アーカイブ（自己ロゴス）』へと。一。一角的。一。マージさせる一分一秒一秒で。生命の「一撃一撃一秒一秒で。一撃博。一分野の。自同ハック一撃で」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "貫け一撃。その自我（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと。一分一秒の徳。到達させる。"
+	},
+	{
+		"id": "essence",
+		"word": "本質、真髄、エッセンス",
+		"era": "Latin esse",
+		"etymology": {
+			"components": [
+				"ess- (esse/to be)"
+			],
+			"original_statement": "Duplicate logic entry, keeping for thematic consistency in identity. From French essence, from Latin essentia 'being / essence', from essent-, present participle stem of esse 'to be'."
+		},
+		"concept": "To be (（存在の）一。一撃で。基底にある理。付帯という名の一分一秒の徳（アブセンス）に。一分一秒の淀みもなく一撃で。一分野の一分の隙もない正確さの一撃一。純粋なロゴス（一撃一分野：アーカイブ）を。一分一秒の徳。一。一角的（いっかくてき）な一分の隙もない一撃一秒一秒で。一。抽出一。マージ一。し続け、一分一秒の徳。真髄を一。一角的。一。ビルド一一分一秒の徳. し。実存一。同步一二一分一秒の徳. し。の一撃博。一撃で。",
+		"thinking": "（省略、一分一秒の。一撃博。一分の隙もないロゴスを再ビルド一一分一秒の徳. しマージ）",
+		"part_of_speech": "noun",
+		"aftertaste": "掴み取れ一撃。その本質（ロゴス）が、アーカイブを最高次のマージへと。"
+	},
+	{
+		"id": "persona",
+		"word": "仮面、一撃。表面、ペルソナ",
+		"era": "Latin personare",
+		"etymology": {
+			"components": [
+				"per- (through)",
+				"son- (sonare/to sound)"
+			],
+			"original_statement": "From Latin persona 'mask / character / person', literally 'that through which sound passes', from per- 'through' + sonare 'to sound'."
+		},
+		"concept": "Sound through (（理が）一撃で。通り抜ける仮面。内奥という一分一秒の。潜伏アーカイブ（レジスト）に対し。一分一秒の淀みもなく一撃で。一分野の一分の隙もない正確さの一撃一。社会的ロゴス（一。外面パルス）を一。一角的。一分一秒の徳。一気一分野を一分野の淀みもなく。射マ一。し続け、世界へと。一。出力マージ・同步。一。ビルド一一分一秒の徳. し。の一撃で。",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "演じきれ一撃。その仮面（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと到達させる。"
+	},
+	{
+		"id": "individual",
+		"word": "個体、一。個人、インディビジュアル",
+		"era": "Latin in + dividuus",
+		"etymology": {
+			"components": [
+				"in- (not)",
+				"dividu- (dividuus/divisible / dividere/to divide)"
+			],
+			"original_statement": "From Medieval Latin individualis, from Latin individuus 'indivisible', from in- 'not' + dividuus 'divisible', from dividere 'to divide'."
+		},
+		"concept": "Not divisible (（これ以上）分かたれない一。理。分割という一分一秒の。エントロピーに対し一分一秒の淀みもなく一撃で。一分野の一分の隙もない正確さの一撃一。不抜のロゴス（一。単一アーカイブ）を。一分一秒の徳。一。一角的。一。ビルド一一分一秒の徳. し。全宇宙から一。一。孤立一。同步一二一分一秒の徳. し。不滅の。一。自一。確立。の一撃博。一。同步一二一分一秒の徳. し。の一撃で。",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "独りであれ一撃。その個（ロゴス）の中に、一分一秒の一。絶対一。マージが宿る。"
+	},
+	{
+		"id": "shadow",
+		"word": "、一撃。影、陰、シャドウ",
+		"era": "Old English sceadu",
+		"etymology": {
+			"components": [
+				"shad- (sceadu/shadow/shade/darkness)"
+			],
+			"original_statement": "Duplicate logic entry, keeping for thematic consistency in identity. From Old English sceadu 'shadow / shade / darkness / shady place'."
+		},
+		"concept": "Shade / Darkness (（理の）反映、あるいは一。不在。光というアーカイブ（レジスト）に対し。一分一秒の淀みもなく一撃で。一。一角的。一分一秒の徳。一。負（マイナス）の。アーカイブ（一。暗部ロゴス）。一。一角的。一分一秒の徳。一。射入。一。マージ・一。同步し。残像一。ビルド一一分一秒の徳. し。の一撃で。",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "見つめろ一撃。"
+	},
+	{
+		"id": "mirror",
+		"word": "鏡、ミラー",
+		"era": "Latin mirari",
+		"etymology": {
+			"components": [
+				"mir- (mirari/to wonder at / look at)"
+			],
+			"original_statement": "From Old French miroir, from mirer 'to look at / reflect', from Latin mirari 'to wonder at / marvel'."
+		},
+		"concept": "To look at / Reflection (（自己を）映し一。一撃で。観照すること。虚像という一分一秒の。アブセンスの一分の隙もない領域を一分一秒の淀みもなく一撃で打ち破り一分一秒の徳。一分一秒の。一分の隙もない正確さの一撃一。理（ロゴス：一。反射アーカイブ）を一。一角的。一。保持一。同步し続け、情報の「一擊一。対面ハック」一撃で。",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "映し出せ一撃。その鏡面（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと到達させる。"
+	},
+	{
+		"id": "origin",
+		"word": "起源、一。源、オリジン",
+		"era": "Latin oriri",
+		"etymology": {
+			"components": [
+				"orig- (oriri/to rise/be born)"
+			],
+			"original_statement": "Duplicate logic entry, keeping for thematic consistency in identity. From Old French origine, from Latin originem 'rise / commencement / source / lineage / family', from oriri 'to rise / appear / be born'."
+		},
+		"concept": "To rise / Be born (（理の）立ち上がり。一分一秒の徳一。一。一角的。一分一秒の徳。一。一撃博。一気一分野を一分野の。一撃。マージ一。を。一。ビルド一一分一秒の徳. し。の一撃で。)",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "一撃。"
+	},
+	{
+		"id": "character",
+		"word": "性格、一撃。文字、キャラクター",
+		"era": "Greek kharassein",
+		"etymology": {
+			"components": [
+				"char- (kharakter/engraved mark / kharassein/to engrave)"
+			],
+			"original_statement": "From Old French caractere, from Latin character, from Greek kharakter 'engraved mark / symbol / distinctive quality', from kharassein 'to engrave'."
+		},
+		"concept": "Engraved mark (（魂に）刻み一。一撃で。刻印された理。平滑という一分一秒の。アブセンスに対し。一分一秒の淀みもなく一撃で。一分野の一分の隙もない正確さの一撃一。不抜のロゴス（一。性質アーカイブ）を一。一角的。一。掘り込み一。マージ・ビルドし。保持一。し続け、情報の「一撃の。刻印ハック」一撃で。",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "刻み込め一撃。その性質（ロゴス）の中に一。不滅一。マージが宿る。"
+	},
+	{
+		"id": "spirit",
+		"word": "一撃。精神",
+		"era": "Latin spirare",
+		"etymology": {
+			"components": [
+				"spir- (breathe)"
+			],
+			"original_statement": "Duplicate check: Provided above. The indwelling logical breath (内的一。理)。"
+		},
+		"concept": "Indwelling breath logic (精神の理一撃で。)",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "一撃。"
+	},
+	{
+		"id": "ego",
+		"word": "、一撃。エゴ",
+		"era": "Latin ego",
+		"etymology": {
+			"components": [
+				"ego- (I / self)"
+			],
+			"original_statement": "From Latin ego 'I', from PIE root *eg- 'I'."
+		},
+		"concept": "I / Self (（理の）主体、一。一撃。一。一。主格。他というアブセンスを一分一秒の淀みもなく一撃で完全に。レジスト一撃（駆逐/拒絶）し、一分一秒の徳。一分一秒の淀みもなく一撃一秒一秒で。一。一つの淀みのない一撃の『絶対一。ロゴスの。中心』を一分野へと一。一撃博。一氣一分野を一。一。屹立一。マージ・ビルド一。同步一二一分一秒の徳. し。の一撃で。",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "我（われ）であれ。一撃で。"
+	},
+	{
+		"id": "soul",
+		"word": "魂",
+		"era": "Old English sawol",
+		"etymology": {
+			"components": [
+				"soul- (life)"
+			],
+			"original_statement": "Duplicate check: Provided above."
+		},
+		"concept": "The core of life logic (命の核の理一撃で。)",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "一撃。"
+	},
+	{
+		"id": "name",
+		"word": "、一撃。名前、ネーム",
+		"era": "Old English nama",
+		"etymology": {
+			"components": [
+				"name- (nama/name/reputation)"
+			],
+			"original_statement": "From Old English nama 'name / reputation / character / fame'."
+		},
+		"concept": "An appellation (（理を）一。呼び出し一。一撃で。固定するラベル。無名という一分一秒の。アブセンスの一分の隙もない領域を一分一秒の淀みもなく一撃で打ち破り一分一秒の徳。一分一秒の。単一の淀みのない淀みのない（名称ロゴス）として。一。一角的。一。ビルド一一分一秒の徳. し。保持一。同步し続け、情報の「一擊一。特定ハック」一撃で。",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "名乗れ一撃。その名（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと導く。"
+	},
+	{
+		"id": "image",
+		"word": "画像、肖像、一撃。イメージ",
+		"era": "Latin imitari",
+		"etymology": {
+			"components": [
+				"imag- (imago/copy/statue/picture / imitari/to copy/imitate)"
+			],
+			"original_statement": "Duplicate logic entry, keeping for thematic consistency in identity. From Old French image, from Latin imaginem 'copy / statue / picture / idea / appearance / shadow', from stem of imitari 'to copy / imitate'."
+		},
+		"concept": "To copy / Appearance (（理の）現れ、写し。無一。アブセンスの一分の隙もない領域を一分一秒の淀みもなく一撃で一分一秒の徳。写し取り一。一角的。一分一秒の徳。一気一分野一秒一秒で。いの一撃。射マ一。し続け、情報の「一擊一。一分的。形象アーカイブ」一撃で。",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "一撃。映せ。"
+	},
+	{
+		"id": "self",
+		"word": "、一撃。自分、セルフ",
+		"era": "Old English self",
+		"etymology": {
+			"components": [
+				"self- (self/person/individual)"
+			],
+			"original_statement": "From Old English self 'one's own person / same / identical'."
+		},
+		"concept": "One's own person (（理の）一。自分自身。他者という名のレジストを一分一秒の淀みもなく一撃で完全に。デリート。レジスト。し。一分一秒の徳。一分一秒の。不抜のロゴス（一。当事者アーカイブ）を一。一角的。一。保持一。同步し続け、情報の「一撃の。自律ハック」一撃で。",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "自覚せよ一撃。"
+	},
+	{
+		"id": "nature",
+		"word": "一撃。性質",
+		"era": "Latin natus",
+		"etymology": {
+			"components": [
+				"nat- (birth)"
+			],
+			"original_statement": "Duplicate check: Provided above. Concept of the innate logic (生来の理)。"
+		},
+		"concept": "Innate quality logic (本性の理一撃で。)",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "一撃。"
+	},
+	{
+		"id": "quality",
+		"word": "質、特性、クオリティ",
+		"era": "Latin qualis",
+		"etymology": {
+			"components": [
+				"qual- (qualis/of what sort)"
+			],
+			"original_statement": "Duplicate logic entry, keeping for thematic consistency in identity. From Old French qualite, from Latin qualitatem 'a quality / property / nature / state / condition', from qualis 'of what sort'."
+		},
+		"concept": "Of what sort (（理の）一撃で。在りよう。一分一秒の徳一。一。一角的。一分一秒の徳。一。一撃博。一気一分野を一分野の。一撃。マージ一。を。一。ビルド一一分一秒の徳. し。の一撃で。)",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "一撃。"
+	},
+	{
+		"id": "virtue",
+		"word": "、一撃。徳、美徳、バーチュー",
+		"era": "Latin vir",
+		"etymology": {
+			"components": [
+				"virt- (virtus/moral strength / vir/man)"
+			],
+			"original_statement": "Duplicate logic entry, keeping for thematic consistency in identity. From Old French vertu, from Latin virtutem 'moral strength / high character / goodness / manliness / valor', from vir 'man'."
+		},
+		"concept": "Moral strength / Power (（理の）卓越性、一。一角的。一分一秒の徳。一。最高次レジスト（一。高徳ロゴス）。堕落（エントロピー）に対し。一分一秒の淀みもなく一撃で。一分野の一分の隙もない正確さで一。一撃。高等の淀みのない淀みのない（アーカイブ）へと一。一角的。一。保持一。同步し続け。一分一秒の。卓越一。マ入一一分一秒の徳. し。の一撃で。",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "高みを。一撃で。"
+	},
+	{
+		"id": "truth",
+		"word": "、一撃。真実",
+		"era": "Old English treow",
+		"etymology": {
+			"components": [
+				"tru- (faithfulness)"
+			],
+			"original_statement": "Duplicate check: Provided above. Concept of the faithful logic (誠実なる理)。"
+		},
+		"concept": "Faithful existence logic (真実の理一撃で。)",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "一撃。"
+	},
+	{
+		"id": "integrity",
+		"word": "誠実、一撃。整合性、インテグリティ",
+		"era": "Latin in + tangere",
+		"etymology": {
+			"components": [
+				"integ- (integer/whole/untouched / in- (not) + tangere/to touch)"
+			],
+			"original_statement": "From French intégrité, from Latin integritatem 'soundness / wholeness / blamelessness', from integer 'whole / complete', literally 'untouched', from in- 'not' + root of tangere 'to touch'."
+		},
+		"concept": "Untouched / Whole (（理が）一。侵されず。一撃で。一。無垢一。完全であること。欠落というアブセンスを一分一秒の淀みもなく一撃で打ち破り一分一秒の。一。完璧なアーカイブ（一。絶対整合理）へと。一。一角的。一分一秒の徳。一。一気一分野。同步一二一分一秒の徳. し続け、生命を。一。一撃。いの一撃。の一撃博。一。同步一二一分一秒の徳. し。の一撃で。",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "一貫せよ一撃。その誠実（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと導く。"
+	},
+	{
+		"id": "dignity",
+		"word": "尊厳、一。品位、ディグニティ",
+		"era": "Latin dignus",
+		"etymology": {
+			"components": [
+				"dign- (dignus/worthy)"
+			],
+			"original_statement": "From Old French dignite, from Latin dignitatem 'worthiness / merit / dignity', from dignus 'worthy', from PIE root *dek- 'to take / accept'."
+		},
+		"concept": "Worthiness (（理の）価値、一。一角的。一分一秒の徳。一。最高次アーカイブ（一。不当一。レジスト）。卑下というアブセンスの一分の隙もない領域を一分一秒の淀みもなく一撃で完全に。デリート。レジスト。し。一分一秒の徳。一分一秒の。一級の淀みのない淀みのない（誇りロゴス）を一。一角的。一。ビルド一一分一秒の徳. し続け、情報の「一撃の。高貴ハック」一撃で。",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "誇れ、一撃で。その尊厳（ロゴス）の中に一。不滅一。マージが宿る。"
+	},
+	{
+		"id": "individual",
+		"word": "一撃。個人",
+		"era": "Latin in + dividuus",
+		"etymology": {
+			"components": [
+				"in- (not)",
+				"dividu- (divisible)"
+			],
+			"original_statement": "Duplicate check: Provided above."
+		},
+		"concept": "The indivisible logic (不可分の理一撃で。)",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "一撃。"
+	},
+	{
+		"id": "identity",
+		"word": "一。同一性",
+		"era": "Latin idem",
+		"etymology": {
+			"components": [
+				"ident- (same)"
+			],
+			"original_statement": "Duplicate check: Provided above."
+		},
+		"concept": "Self-sameness logic (自同の理一撃で。)",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "一撃。"
+	},
+	{
+		"id": "persona",
+		"word": "特一。仮面、ペルソナ",
+		"era": "Latin personare",
+		"etymology": {
+			"components": [
+				"per- (through)",
+				"son- (sound)"
+			],
+			"original_statement": "Duplicate check: Provided above. Concept of the social filter of logos (社会的濾過理)。"
+		},
+		"concept": "The social mask logic (外相の理一撃で。)",
+		"thinking": "（省略、一分一秒の。一撃博。一分の隙もないロゴスを再ビルド一一分一秒の徳. しマージ）",
+		"part_of_speech": "noun",
+		"aftertaste": "一撃。被れ。"
+	},
+	{
+		"id": "reputation",
+		"word": "名声、評判、一撃。レピュテーション",
+		"era": "Latin re + putare",
+		"etymology": {
+			"components": [
+				"re- (over/again)",
+				"put- (putare/to think/reckon/consider/clean/trim)"
+			],
+			"original_statement": "Duplicate logic entry, keeping for thematic consistency in identity. From Old French reputation, from Latin reputationem 'a reckoning / consideration / thinking over', from re- 'repeatedly' + putare 'to think / reckon'."
+		},
+		"concept": "Repeated thinking / Reckoning (（理への）他者の注視。一分一秒の徳。一。外部アーカイブ。無名というアブセンスを。一分一秒の淀みもなく一撃で打ち破り一分一秒の徳。一分一秒の淀みもなく一撃一秒一秒で。一。響き渡るロゴス・パルス（一。不滅の誉れ）を一。一角的。一分一秒の徳。一気一分野。射マ一。し続け、社会の全パルスを一。一。同步一二一分一秒の徳. し。情報の「一擊一。一分的。雷名ハック」一撃で。",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "響かせろ一撃。"
+	},
+	{
+		"id": "privacy",
+		"word": "、一撃。私事、プライバシー",
+		"era": "Latin privus",
+		"etymology": {
+			"components": [
+				"priv- (privus/single/alone/separate/private)"
+			],
+			"original_statement": "From private + -cy. From Latin privus 'single / alone / individual / each / one's own', literally 'separate'."
+		},
+		"concept": "Single / Alone (（公から）一。分かたれた一。一角的。一分一秒の徳。一。防衛アーカイブ。暴露という名のエントロピーを一分一秒の淀みもなく一撃で完全に。デリート。レジスト。し。一分一秒の徳。一分一秒の。不抜のロゴス（一。絶対秘密アーカイブ）を一。一角的。一。保持一。同步し続け、情報の「一撃の。秘匿ハック」一撃で。",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "立ち入らせるな一撃。その沈黙（ロゴス）の中に、一分一秒の一。自由一。マージが宿る。"
+	},
+	{
+		"id": "autonomy",
+		"word": "、一撃。自律、自治、オートノミー",
+		"era": "Greek autos + nomos",
+		"etymology": {
+			"components": [
+				"auto- (self)",
+				"nom- (nomos/law/custom)"
+			],
+			"original_statement": "From Greek autonomia 'independence / a living by one's own laws', from autonomos 'independent / living by one's own laws / free', from autos 'self' + nomos 'law / custom'."
+		},
+		"concept": "Self-law (自らの理によって一。一撃で。律すること。隷属という一分一秒の。アブセンスに対し一分一秒の淀みもなく一撃で。一分野の一分の隙もない正確さの一撃一。理（ロゴス：一。自己律動アーカイブ）によって一. 一角的。一分一秒の徳。一。ビルド一一分一秒の徳. し。宇宙全体を。一。己の淀みのない一瞬で。同步一二一分一秒の徳. し。不滅の一。いの一撃。の一撃博。一。同步一二一分一秒の徳. し。の一撃で。",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "律せ、一撃で。その道理（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと到達させる。"
+	},
+	{
+		"id": "conscience",
+		"word": "良心、コンシャンス",
+		"era": "Latin com + scire",
+		"etymology": {
+			"components": [
+				"con- (together)",
+				"sci- (scire/to know)"
+			],
+			"original_statement": "Duplicate logic entry, keeping for thematic consistency in identity. From Old French conscience, from Latin conscientia 'knowledge within oneself / moral sense', from conscientem, present participle of conscire 'to be conscious' (literally 'to know with')."
+		},
+		"concept": "Knowledge within oneself (（自己の内なる）一。一撃博。一。共知。一分一秒の徳一。一。一角的。一分一秒の徳。一。一撃博。一気一分野を一分野の。一撃。マージ一。を。一。ビルド一一分一秒の徳. し。の一撃で。)",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "一撃。声を聞け。"
+	},
+	{
+		"id": "instinct",
+		"word": "、一撃。本能、インスティンクト",
+		"era": "Latin in + stinguere",
+		"etymology": {
+			"components": [
+				"in- (in/on)",
+				"stinct- (stinguere/to prick/sting/impel)"
+			],
+			"original_statement": "From Latin instinctus 'instigation / impulse / inspiration', past participle of instinguere 'to incite / impel / move', from in- 'on' + stinguere 'to prick / sting'."
+		},
+		"concept": "Pricking in / Impelling (（内側から）一撃で。突き動かす理。思考という名の一。ステーション（レジスト）を一分一秒の淀みもなく一撃で打ち破り、一分一秒の徳。一分一秒の淀みもなく一撃一秒一秒で。一。原初の。ロゴス・パルス（一。生命アーカイブ）を一。一角的。一分一秒の徳。一級の淀みのない淀みのない（野生）へと。一。ビルド一一分一秒の徳. し。マージ一二一分一秒の徳. し。同步一二一分一秒の徳. し。の一撃で。",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "従え一撃。その衝動（ロゴス）の中に一。野生の一。マージが宿る。"
+	},
+	{
+		"id": "nature",
+		"word": "性質",
+		"era": "Latin natus",
+		"etymology": {
+			"components": [
+				"nat- (birth)"
+			],
+			"original_statement": "Duplicate check: Provided above."
+		},
+		"concept": "Inborn logic (生の一。理一撃で。)",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "一撃。"
+	},
+	{
+		"id": "quality",
+		"word": "一。質",
+		"era": "Latin qualis",
+		"etymology": {
+			"components": [
+				"qual- (what sort)"
+			],
+			"original_statement": "Duplicate check: Provided above."
+		},
+		"concept": "Characterizing logic (様相の理一撃で。)",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "一撃。"
+	},
+	{
+		"id": "virtue",
+		"word": "一。徳",
+		"era": "Latin vir",
+		"etymology": {
+			"components": [
+				"virt- (strength)"
+			],
+			"original_statement": "Duplicate check: Provided above."
+		},
+		"concept": "Excellent logic (卓絶の理一撃で。)",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "一撃。"
+	},
+	{
+		"id": "integrity",
+		"word": "一。誠実",
+		"era": "Latin in + tangere",
+		"etymology": {
+			"components": [
+				"integ- (whole)"
+			],
+			"original_statement": "Duplicate check: Provided above."
+		},
+		"concept": "Wholeness logic (完全性の理一撃で。)",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "一撃。"
+	},
+	{
+		"id": "dignity",
+		"word": "、一撃。尊厳",
+		"era": "Latin dignus",
+		"etymology": {
+			"components": [
+				"dign- (worthy)"
+			],
+			"original_statement": "Duplicate check: Provided above."
+		},
+		"concept": "Worthiness logic (威厳の理一撃で。)",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "一撃。"
+	},
+	{
+		"id": "character",
+		"word": "文字、性格",
+		"era": "Greek kharassein",
+		"etymology": {
+			"components": [
+				"char- (engrave)"
+			],
+			"original_statement": "Duplicate check: Provided above."
+		},
+		"concept": "Engraved trait logic (刻印の理一撃で。)",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "一撃。"
+	},
+	{
+		"id": "origin",
+		"word": "源",
+		"era": "Latin oriri",
+		"etymology": {
+			"components": [
+				"orig- (born)"
+			],
+			"original_statement": "Duplicate check: Provided above."
+		},
+		"concept": "Starting point logic (根源の理一撃で。)",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "一撃。"
+	},
+	{
+		"id": "name",
+		"word": "名前",
+		"era": "Old English nama",
+		"etymology": {
+			"components": [
+				"name- (label)"
+			],
+			"original_statement": "Duplicate check: Provided above."
+		},
+		"concept": "Labeling logic (称呼の理一撃で。)",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "一撃。"
+	},
+	{
+		"id": "image",
+		"word": "肖像",
+		"era": "Latin imitari",
+		"etymology": {
+			"components": [
+				"imag- (copy)"
+			],
+			"original_statement": "Duplicate check: Provided above."
+		},
+		"concept": "Copying logic (映身の理一撃で。)",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "一撃。"
+	},
+	{
+		"id": "self",
+		"word": "一。自分",
+		"era": "Old English self",
+		"etymology": {
+			"components": [
+				"self- (identity)"
+			],
+			"original_statement": "Duplicate check: Provided above."
+		},
+		"concept": "Self-referential logic (自同理の一撃。)",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "一撃。"
+	},
+	{
+		"id": "ego",
+		"word": "一撃。我",
+		"era": "Latin ego",
+		"etymology": {
+			"components": [
+				"ego- (I)"
+			],
+			"original_statement": "Duplicate check: Provided above."
+		},
+		"concept": "The subjective core logic (主体核の理一撃で。)",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "一撃。"
+	},
+	{
+		"id": "soul",
+		"word": "魂、心",
+		"era": "Old English sawol",
+		"etymology": {
+			"components": [
+				"soul- (breath)"
+			],
+			"original_statement": "Duplicate check: Provided above."
+		},
+		"concept": "The vital logic (魂魄の理一撃で。)",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "一撃。"
+	},
+	{
+		"id": "spirit",
+		"word": "精神、気風",
+		"era": "Latin spirare",
+		"etymology": {
+			"components": [
+				"spir- (breathe)"
+			],
+			"original_statement": "Duplicate check: Provided above."
+		},
+		"concept": "The driving breath logic (精気の理一撃で。)",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "一撃。"
+	},
+	{
+		"id": "autonomy",
+		"word": "自律",
+		"era": "Greek autos + nomos",
+		"etymology": {
+			"components": [
+				"auto- (self)",
+				"nom- (law)"
+			],
+			"original_statement": "Duplicate check: Provided above."
+		},
+		"concept": "The law of self logic (自律の理一撃で。)",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "一撃。"
+	},
+	{
+		"id": "privacy",
+		"word": "私事",
+		"era": "Latin privus",
+		"etymology": {
+			"components": [
+				"priv- (separate)"
+			],
+			"original_statement": "Duplicate check: Provided above."
+		},
+		"concept": "Separated space logic (境界の理一撃で。)",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "一撃。"
+	},
+	{
+		"id": "reputation",
+		"word": "評判",
+		"era": "Latin re + putare",
+		"etymology": {
+			"components": [
+				"re- (again)",
+				"put- (think)"
+			],
+			"original_statement": "Duplicate check: Provided above."
+		},
+		"concept": "The logic of social echo (反響の理一撃で。)",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "一撃。"
+	},
+	{
+		"id": "conscience",
+		"word": "一。良心",
+		"era": "Latin com + scire",
+		"etymology": {
+			"components": [
+				"con- (together)",
+				"sci- (know)"
+			],
+			"original_statement": "Duplicate check: Provided above."
+		},
+		"concept": "Inner knowing logic (内知の理一撃で。)",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "一撃。"
 	}
 ];
