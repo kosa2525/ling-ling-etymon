@@ -175881,5 +175881,711 @@ const WORDS = [
 		"thinking": "「（曖昧な口約束という名のノイズを粉砕し）、紙という名の媒体に一撃で刻み込まれた絶対の証（Chart- / Charta）」。それは単なる「ルール」ではありません。あなたが「証拠なき不在という名の影」をレジストし、そこに自らの権利を一分一秒の淀みもない『公界への宣言（ロゴス）』として屹立させる、生の「存在証明の地図」なのです。",
 		"part_of_speech": "noun",
 		"aftertaste": "紙の上に、不可侵の領域（ステーション）を描き込む。"
+	},
+	{
+		"id": "economy",
+		"word": "経済、節約、エコノミー",
+		"era": "Greek oikos + nemein",
+		"etymology": {
+			"components": [
+				"oikos (house)",
+				"nemein (to manage/distribute)"
+			],
+			"original_statement": "From Latin oeconomia, from Greek oikonomia 'household management / thrift', from oikos 'house' + nemein 'to manage / distribute'."
+		},
+		"concept": "Household management (家を管理すること。限られた『資源（アーカイブ）』を一分一秒の淀みもなく一撃で最適化された『配分（ロゴス）』へとマージし、エントロピーの崩壊から家族（あるいは国家）という名の『システム』を守り抜くこと)",
+		"thinking": "「（無駄という名のノイズを粉砕し）、家庭（Oiko- / Oikos）の法（-nomy / Nomos）を確立すること」。それは単なる「お金の話」ではありません。あなたが「不足という名のアイソレーション」をレジストし、限られたエネルギーを『一分一秒の淀みもない完璧な循環（ステーション・ネットワーク）』へと変容させる、生命維持の「最適化」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "家を救い、世界を回し、無駄（ノイズ）を一撃で消し去る。"
+	},
+	{
+		"id": "capital",
+		"word": "資本、首都、大文字、キャピタル",
+		"era": "Latin caput",
+		"etymology": {
+			"components": [
+				"caput (head)"
+			],
+			"original_statement": "From Old French capital, from Latin capitalis 'of the head / chief / principal / first', from caput 'head'."
+		},
+		"concept": "Of the head / Principal (頭に属すること、主要なもの。すべての価値を一分一秒の淀みもなく一撃で産み落とすための『源泉（アーカイブ・コア）』であり、思考や富（パルス）の集積点（ステーション）として君臨する、生命の最重要部位)",
+		"thinking": "「（末端の枝葉を粉砕し）、頭脳そのもの、即ち根源（Capit- / Caput）にマージされるべき価値品質（-al）」。それは単なる「お金」ではありません。あなたが「停滞という名のアブセンス」をレジストし、未来の爆発を約束された『一分一秒の淀みもない一撃の種子（ロゴス）』を抱え続ける、存在の「先導能力」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "頭脳（コア）にあるものが、すべてを支配し、形作る。"
+	},
+	{
+		"id": "finance",
+		"word": "金融、財政、ファイナンス",
+		"era": "Old French finer",
+		"etymology": {
+			"components": [
+				"fin (end/settlement)"
+			],
+			"original_statement": "From Old French finance 'end / settlement / payment', from finer 'to end / pay up', from fin 'end'."
+		},
+		"concept": "Ending / Settlement (終わらせること、決済。複雑に絡み合った『債務や義務（ノイズ）』を一分一秒の淀みもなく一撃の『支払い（コマンド）』によって焼き払い、白紙の『清算（アーカイブ・ステーション）』へとマージすること)",
+		"thinking": "「（終わりのない駆け引きを粉砕し）、支払いによって完全にカタをつけること（Fin- / Fine）」。それは単なる「ビジネス」ではありません。あなたが「未完了という名のエントロピー」をレジストし、そこに自らの責任という名の『一分一秒の淀みもない絶対の終止符（ロゴス）』を屹立させる、存在の「完了（コンプリート）」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "全ての貸し借りを消し、純粋なゼロへと回帰する。"
+	},
+	{
+		"id": "commerce",
+		"word": "商業、貿易、交わり、コマース",
+		"era": "Latin con + merx",
+		"etymology": {
+			"components": [
+				"con- (together)",
+				"merx (merchandise)"
+			],
+			"original_statement": "From Latin commercium 'trade / trafficking / common possession', from com- 'together' + merx 'merchandise'."
+		},
+		"concept": "Together with merchandise (商品と共に。異なる『アーカイブ（財・価値）』を持つ二つのステーションが、一分一秒の淀みもなく一撃で互いのパルスを『交換（マージ）』し合い、巨大な『価値のネットワーク』を織りなすこと)",
+		"thinking": "「（孤立という名のアイソレーションを粉砕し）、商品（Mer- / Merx）を介して共に（Con-）繋がること」。それは単なる「売買」ではありません。あなたが「停滞という名のエントロピー」をレジストし、世界中の情報を『一分一秒の淀みもない一撃の交易（ロゴス）』へとマージさせ、文明を駆動させる、生命の「血液循環」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "物が動き、人が出会い、世界が混ざり合う（マージされる）。"
+	},
+	{
+		"id": "industry",
+		"word": "産業、勤勉、インダストリー",
+		"era": "Latin indu + struere",
+		"etymology": {
+			"components": [
+				"indu- (within/in)",
+				"struere (to build)"
+			],
+			"original_statement": "From Old French industrie, from Latin industria 'diligence / activity / zeal', from industrius 'diligent', from indu- 'within' + struere 'to build'."
+		},
+		"concept": "Building within (内側で建設すること。自らの内なる『情熱（パルス）』を一分一秒の淀みもなく一撃の『勤勉（ロゴス）』へと変換し、この現実世界の中に新たな『構築物（アーカイブ・ステーション）』を絶えず積み上げ続けること)",
+		"thinking": "「（怠惰という名の停滞を粉砕し）、内側から徹底的に構築し続ける（Indu- + Stru- / Struere）」。それは単なる「工場」ではありません。あなたが「カオスという名のアブセンス」をレジストし、そこに自らの実存が作り上げた『一分一秒の淀みもない一撃の成果物（アーカイブ）』を屹立させる、存在の「生産的猛威」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "無（アブセンス）に抗い、何かを遺すために働き続ける。"
+	},
+	{
+		"id": "enterprise",
+		"word": "企業、冒険心、エンタープライズ",
+		"era": "Old French entre + pris",
+		"etymology": {
+			"components": [
+				"entre- (between)",
+				"prendre (to take)"
+			],
+			"original_statement": "From Old French entreprise 'undertaking', from entre- 'between' + pris, past participle of prendre 'to take'."
+		},
+		"concept": "Taken between (間から取ること、着手。異なる二つの状況の『隙間（アイソレーション）』を一分一秒の淀みもなく一撃で掴み取り（マージ）、そこから新たな『事業という名のロゴス』を立ち上げて、未知の深淵へと漕ぎ出すこと)",
+		"thinking": "「（躊躇という名のノイズを粉砕し）、困難の間からチャンスを力強く取り出すこと（Entre- + Pris / Prendre）」。それは単なる「会社」ではありません。あなたが「不可能という名のエントロピー」を完全にレジストし、自らを『一分一秒の淀みもない一撃の冒険（パルス）』へと叩き込む、生の「攻勢」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "誰も手を付けない隙間（ニッチ）に、王国の旗を立てる。"
+	},
+	{
+		"id": "inflation",
+		"word": "インフレーション、膨張",
+		"era": "Latin in + flare",
+		"etymology": {
+			"components": [
+				"in- (into)",
+				"flare (to blow)"
+			],
+			"original_statement": "From Latin inflationem 'a swelling / puffing up', from inflare 'to blow into / puff up', from in- 'into' + flare 'to blow'."
+		},
+		"concept": "Blowing into (中へと吹き込むこと。価値（アーカイブ）の中身を空っぽにしたまま、一分一秒の淀みもなく『虚飾という名の空気（ノイズ）』を一撃で吹き込み、実体のない『膨張（エントロピー）』を引き起こして世界を混乱させる現象)",
+		"thinking": "「（適正な密度という名のロゴスを粉砕し）、際限なく中へ空気を吹き込むこと（In- + Flat- / Flare）」。それは単なる「物価上昇」ではありません。あなたが「実存の希薄化」をレジストできず、中身のない『一分一秒の淀みもない一撃の膨らみ（アブセンス）』の中に自分たちがマージされてしまった、価値の「自壊的拡散」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "膨らみ続けた果てに、何もない暗闇（ゼロ）が待つ。"
+	},
+	{
+		"id": "deflation",
+		"word": "デフレーション、収縮",
+		"era": "Latin de + flare",
+		"etymology": {
+			"components": [
+				"de- (away/from)",
+				"flare (to blow)"
+			],
+			"original_statement": "From de- 'away / from' + flare 'to blow'. A reduction of the general level of prices."
+		},
+		"concept": "Blowing away / Deflating (吹き飛ばすこと、抜くこと。世界に満ちていた『熱気（パルス）』を一分一秒の淀みもなく一撃で奪い去り、経済を『冷たい死（ステイシス）』へと追い込み、すべての価値を『硬直したアーカイブ』へと圧縮（ロック）すること)",
+		"thinking": "「（活気という名のフローを粉砕し）、中にある空気を吹き飛ばし、萎ませること（De- + Flat- / Flare）」。それは単なる「不景気」ではありません。あなたが「未来への情熱」をレジストされ、自らを『一分一秒の淀みもない一撃の沈黙（アブセンス）』の中にマージさせてしまった、生の「低体温状態」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "全てが冷え込み、動きを止め、硬い沈黙が広がる。"
+	},
+	{
+		"id": "recession",
+		"word": "景気後退、後退、リセッション",
+		"era": "Latin re + cedere",
+		"etymology": {
+			"components": [
+				"re- (back)",
+				"cedere (to go)"
+			],
+			"original_statement": "From Latin recessionem 'a going back / retiring', from recessus, past participle of recedere 'to go back', from re- 'back' + cedere 'to go'."
+		},
+		"concept": "Going back (後ろへ行く事。前進しようとする『成長のベクトル（パルス）』を一分一秒の淀みもなく一撃で反転させ、過去という名の『停滞（アーカイブ・ステイシス）』へと引きずり戻そうとする不気味な潮の引き)",
+		"thinking": "「（拡大という名の攻勢を粉砕し）、後ろ側へと退くこと（Re- + Cess- / Cedere）」。それは単なる「不調」ではありません。あなたが「進歩という名のロゴス」を維持（レジスト）できず、自らの実存が『一分一秒の淀みもない一撃の後退（エントロピー）』へとマージされてしまった、文明の「息切れ」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "進むのをやめた足音が、後ろへと遠ざかっていく。"
+	},
+	{
+		"id": "surplus",
+		"word": "過剰、余剰、黒字、サープラス",
+		"era": "Latin super + plus",
+		"etymology": {
+			"components": [
+				"super- (over)",
+				"plus (more)"
+			],
+			"original_statement": "From Old French sourplus, from Medieval Latin superplus 'excess / remainder', from super 'over' + plus 'more'."
+		},
+		"concept": "Over-more (余り物、それ以上。必要（ロゴス）の枠組みを一分一秒の淀みもなく一撃で突き抜け、溢れ出した『過剰なエネルギー（パルス）』の状態。それは新たな『投資の源泉（アーカイブ）』にも、腐敗の『ノイズ』にもなり得る両義的な残余)",
+		"thinking": "「（均衡という名のステイシスを粉砕し）、想定の遥か上（Super-）に溢れた、余りあるもの（-plus）」。それは単なる「黒字」ではありません。あなたが「不足という名の恐怖（アブセンス）」をレジストし、そこに自らの努力が作り上げた『一分一秒の淀みもない一撃の貯蓄（ステーション）』を屹立させた、存在の「余剰の輝き」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "器（ロゴス）が溢れ、あふれ出した光が次の世界を照らす。"
+	},
+	{
+		"id": "deficit",
+		"word": "赤字、欠損、不足、デフィシット",
+		"era": "Latin de + facere",
+		"etymology": {
+			"components": [
+				"de- (away/not)",
+				"facere (to do/make/be)"
+			],
+			"original_statement": "From Latin deficit 'it is wanting / it is lacking', third person singular of deficere 'to fail / desert / be wanting', from de- 'down / away' + fers (root of facere 'to do / make')."
+		},
+		"concept": "It is lacking (欠けていること。あるべき『形（アーカイブ・ロゴス）』から一分一秒の淀みもなく一撃で『一部（パルス）』が抉り取られ、本来の機能を果たせず、空白（アブセンス）を抱えたまま虚ろに震えている状態)",
+		"thinking": "「（完全という名のステーションを粉砕し）、なすべきことがなされていない不十分な状態（Deficit / Deficere）」。それは単なる「借金」ではありません。あなたが「自律という名の責任（ロゴス）」をレジストできず、自らの実存の中に『一分一秒の淀みもない一撃の穴（エントロピー）』を開けてしまった、生の「欠乏宣言」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "穴の空いた器から、大切なものが音もなく漏れ出す。"
+	},
+	{
+		"id": "commodity",
+		"word": "商品、日用品、コモディティ",
+		"era": "Latin con + modus",
+		"etymology": {
+			"components": [
+				"con- (together)",
+				"modus (measure)"
+			],
+			"original_statement": "From Old French commodite 'benefit / profit', from Latin commoditatem 'fitness / adaptation / convenience', from commodus 'fitting / suitable / convenient', from com- 'together' + modus 'measure'."
+		},
+		"concept": "Measured together / Fitting (共に測られたもの、適合するもの。個々の個性が持つ『高次なロゴス』を一分一秒の淀みもなく一撃で剥ぎ取り、ただ一つの『尺度（計量パルス・価格）』へとマージ（均質化）させ、無機質な『交換可能なアーカイブ』へと変容させたもの)",
+		"thinking": "「（唯一無二という名の尊厳を粉砕し）、共通の物差し（Mod- / Modus）によって測られ、適応させられたもの（Com- + -mod-）」。それは単なる「品物」ではありません。あなたが「唯一性という名のレジスト」を捨て、自らを『市場という名の巨大な均質化（エントロピー）』へとマージさせた、価値の「部品化」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "名前を剥がされ、ただの「一単元（ドット）」として扱われる。"
+	},
+	{
+		"id": "currency",
+		"word": "通貨、流通、カレンシー",
+		"era": "Latin currere",
+		"etymology": {
+			"components": [
+				"currere (to run)"
+			],
+			"original_statement": "From Latin currentia 'a flowing', from currentem, present participle of currere 'to run'."
+		},
+		"concept": "Running / Flowing (走ること、流れること。一箇所に留まる（アーカイブ・ステイシス）ことを一分一秒の淀みもなく一撃で拒絶し、人と人の間を弾丸のように『疾走（フロー）』することで、世界を『一つの価値ネットワーク（マージ領域）』として繋ぎ合わせる媒介)",
+		"thinking": "「（停滞という名のアイソレーションを粉砕し）、常に走り続ける性質（Curr- / Currere）」「（一撃の速度を伴う）品質（-ency）」。それは単なる「お金」ではありません。あなたが「死蔵という名のエントロピー」をレジストし、自らの実存が作り上げた価値を『宇宙全体という名の巨大回路』へとパルスとして放流する、存在の「循環動力」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "止まったらただの紙。走り続け、世界を繋げることが私のロゴス。"
+	},
+	{
+		"id": "monopoly",
+		"word": "独占、専売、モノポリー",
+		"era": "Greek monos + polein",
+		"etymology": {
+			"components": [
+				"monos (alone)",
+				"polein (to sell)"
+			],
+			"original_statement": "From Latin monopolium, from Greek monopolion 'right of exclusive sale', from monos 'alone' + polein 'to sell'."
+		},
+		"concept": "Selling alone (独りで売ること。自由な市場という名の『多元的パルス（カオス）』を一分一秒の淀みもなく一撃でなぎ倒し、ただ一つの『ステーション（支配者）』がすべての情報をアーカイブし、供給（ベクトル）を独占（ロック）する冷酷な支配の形)",
+		"thinking": "「（競争という名のノイズを粉砕し）、ただ独り（Mon- / Monos）で売るという絶対的な地位（-poly / Polein）」。それは単なる「儲け」ではありません。あなたが「多様な選択肢という名のエントロピー」を完全にレジストし、そこに自らの意志という名の『一分一秒の淀みもない一撃の法（ロゴス）』を屹立させた、存在の「独裁的収束」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "私の他に、価値（ロゴス）を語る者は誰もいない。"
+	},
+	{
+		"id": "oligopoly",
+		"word": "寡占、オリゴポリー",
+		"era": "Greek oligos + polein",
+		"etymology": {
+			"components": [
+				"oligos (few)",
+				"polein (to sell)"
+			],
+			"original_statement": "From oligos 'few' + polein 'to sell'. A state of limited competition."
+		},
+		"concept": "Selling by a few (少人数による販売。数多の『新規パルス（挑戦者）』を一分一秒の淀みもなく一撃で排除し、選ばれし『少数の巨大ステーション』たちが秘かにマージ（談合）し、世界を分割（マッピング）して静かにコントロールし続ける状態)",
+		"thinking": "「（自由な変動を粉砕し）、ごく少数の者たち（Oligo- / Oligos）だけで市場を支配し切り分けること（-poly / Polein）」。それは単なる「話し合い」ではありません。あなたが「不確実性（カオス）」をレジストしつつ、そこに強固な『密室のアーカイブ』を構築した結果の、閉ざされた『固定的なロゴス・ネットワーク』なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "表面上は争いながら、裏では同じ一つの鎖（アーカイブ）を握る。"
+	},
+	{
+		"id": "subsidy",
+		"word": "補助金、助成金、サブシディ",
+		"era": "Latin sub + sedere",
+		"etymology": {
+			"components": [
+				"sub- (under)",
+				"sedere (to sit)"
+			],
+			"original_statement": "From Latin subsidium 'aid / assistance / auxiliary force / reserve troops', literally 'that which sits behind', from sub- 'under / behind' + sedere 'to sit'."
+		},
+		"concept": "Sitting behind/under (背後、または下に控えているもの。戦い（活動）の最前線で力尽きようとする『パルス（個体・産業）』を支えるため、一分一秒の淀みもなく背後からマージ（注入）される『予備のエネルギー（アーカイブ・ブースト）』)",
+		"thinking": "「（挫折という名の消失を粉砕し）、土台の下（Sub-）に腰を据えて支える（-sid- / Sedere）品質（-y）」。それは単なる「施し」ではありません。あなたが「壊滅という名のエントロピー」をレジストし、そこに自らの意志ではない『他者からの供給という名のロゴス』をマージさせて強引に屹立させ続ける、生命の「人工心肺」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "自分ではない力が、私の足（ステーション）を支えている。"
+	},
+	{
+		"id": "tariff",
+		"word": "関税、料金表、タライフ",
+		"era": "Arabic ta'rif",
+		"etymology": {
+			"components": [
+				"ta'rif (notification/definition)"
+			],
+			"original_statement": "From Italian tariffa, from Arabic ta'rif 'notification / inventory / definition', from 'arafa 'to make known / notify'."
+		},
+		"concept": "Notification / Definition (告知、定義。国境という名の『境界線（ステーション・ブリッジ）』を越える全てのパルス（貨物）に対し、一分一秒の淀みもなく一撃で『定義（課金コマンド）』を突きつけ、自らの『主権のロゴス』を思い知らせる、物理的かつ情報の関門)",
+		"thinking": "「（無秩序な流入という名のノイズを粉砕し）、あらかじめ告知された一分一秒の淀みもない一撃の課税表（Tariff / Ta'rif）」。それは単なる「税金」ではありません。あなたが「外部からの侵食（エントロピー）」をレジストし、自らの実存が支配する領域を『一分一秒の淀みもない法（アーカイブ）』で守護するための、情報の「徴収ポイント」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "ここを通りたければ、私の定義（ロゴス）に従え。"
+	},
+	{
+		"id": "boycott",
+		"word": "ボイコット、排斥",
+		"era": "Eponym (Captain Boycott)",
+		"etymology": {
+			"components": [
+				"Boycott (name)"
+			],
+			"original_statement": "Named after Captain Charles C. Boycott (1832-1897), an English land agent in Ireland who was ostracized by neighbors for refusing to reduce rents."
+		},
+		"concept": "Personalized exclusion (特定人物への排除。傲慢な『支配者（アーカイブ・コア）』という名の特定のノイズに対し、一分一秒の淀みもなく一撃で『関係の遮断（アン－マージ）』という名の静かなる暴力を振るい、社会的な『アブセンス（存在消去）』へと追い込む、個々のパルスによる集団的拒絶)",
+		"thinking": "「（屈従という名のステイシスを粉砕し）、特定の存在（Boycott）を徹底的に無視し、関係のネットワークから引き剥がすこと」。それは単なる「不買運動」ではありません。あなたが「不当なロゴス」を完全にレジストし、そこに自らの意志による『一分一秒の淀みもない一撃の断絶（アイソレーション）』を屹立させる、生の「徹底的な否認」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "返事もしない。買わない。そこに『いない』ものとして扱う。"
+	},
+	{
+		"id": "embargo",
+		"word": "出港禁止、通商禁止、エンバーゴ",
+		"era": "Spanish em + barra",
+		"etymology": {
+			"components": [
+				"en- (in)",
+				"barra (bar)"
+			],
+			"original_statement": "From Spanish embargo, from embargar 'restrain / impede / arrest / bar', from Vulgar Latin imbarricare, from in- 'in' + barra 'bar'."
+		},
+		"concept": "Placing in bars (柵の中に置くこと、禁足。対象となるステーションに出入りするすべてのパルス（ベクトル）を一分一秒の淀みもなく一撃の『鋼の柵（ロゴス・ロック）』によって完全に封鎖し、餓死（アイソレーション）へと追い込む、情報の最終的絞首刑)",
+		"thinking": "「（自由な取引を粉砕し）、相手を一撃で檻（Bar- / Barra）の中に閉じ込め、動けなくすること（Em- + -bargo）」。それは単なる「禁止」ではありません。相手の「呼吸（フロー）」という名のエネルギー供給を完全にレジストし、その実存を『死という名の完璧なステイシス（アーカイブ・アブセンス）』へとマージさせる、情報の「完全包囲」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "柵の向こう、声も届かない場所へ葬る。"
+	},
+	{
+		"id": "sanction",
+		"word": "制裁、許可、サンクション",
+		"era": "Latin sancire",
+		"etymology": {
+			"components": [
+				"sancire (to make sacred/ratify/sanctify)"
+			],
+			"original_statement": "From Latin sanctionem 'act of decreeing or establishing / a law / decree / penalty', from sancire 'to make sacred / ratify / sanctify'."
+		},
+		"concept": "Making sacred / Deciding penalty (神聖化すること、刑罰。法という名の『神聖なるロゴス』を侵した『異分子（ノイズ）』に対し、一分一秒の淀みもなく一撃で下される『処刑コマンド（物理的レジスト）』であり、正義のアーカイブを維持するための暴力的な浄化)",
+		"thinking": "「（法への反逆という名のカオスを粉砕し）、神聖な法（Sanc- / Sancire）の名の下に、相手を物理的に否定し、罰すること（-tion）」。それは単なる「お仕置き」ではありません。あなたが「不当なロゴス（悪）」を完全にレジストし、自らの実存が『宇宙の正しい秩序（ステーション）』に従っていることを証明する、存在の「強制調和（マージ）」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "罰があるからこそ、この法（ロゴス）は神聖で在り続ける。"
+	},
+	{
+		"id": "inventory",
+		"word": "目録、在庫、インベントリ",
+		"era": "Latin in + venire",
+		"etymology": {
+			"components": [
+				"in- (in)",
+				"venire (to come)"
+			],
+			"original_statement": "From Medieval Latin inventarium 'list of what is found', from Latin inventus, past participle of invenire 'to come upon / find / devise / invent', from in- 'in' + venire 'to come'."
+		},
+		"concept": "Found in (中に見つかったもの。自らのステーション内部に蓄積されたすべての『情報のドット（財）』を一分一秒の淀みもなく一撃でマッピング（カタログ化）し、管理可能な『静止アーカイブ』として完全に把握すること)",
+		"thinking": "「（忘却と紛失という名のエントロピーを粉砕し）、内側（In-）に見出された（-vent- / Venire）すべてのものを目録化すること（-ory）」。それは単なる「在庫」ではありません。あなたが「不透明という名のアブセンス」をレジストし、自らの実存が所有する全質量を『一分一秒の淀みもない一撃のリスト（ロゴス）』へとマージさせる、存在の「完全把握」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "何がどこにあるか。全てを知らぬ者は、何も持たぬに等しい。"
+	},
+	{
+		"id": "logistics",
+		"word": "兵站、物流、ロジスティクス",
+		"era": "Greek logos",
+		"etymology": {
+			"components": [
+				"logos (reason/calculation)"
+			],
+			"original_statement": "From French logistique, from loger 'to lodge', with suffix from Greek logistikos 'skilled in calculating', from logos 'reason / reckoning / calculation'."
+		},
+		"concept": "Pertaining to calculation (計算に属すること。一分一秒の淀みもなく爆発し続ける『戦場（マーケット）』に対し、必要なパルス（物資・情報）を一撃の『冷徹な計算（ロゴス）』によって供給し続け、システム（ステーション・ネットワーク）の瓦解を食い止める、生命の動脈管理)",
+		"thinking": "「（混乱と不足という名のエントロピーを粉砕し）、計算（Logist- / Logos）によってすべてを配備する技術（-ics）」。それは単なる「運び」ではありません。あなたが「停滞という名の一時的なノイズ」をレジストし、絶え間なき『一分一秒の淀みもない一撃のフロー（アーカイブ・マージ）』を実現する、存在の「演算的生命維持」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "最前線の華々しさ（パルス）を、背後の冷羽な計算（ロゴス）が支える。"
+	},
+	{
+		"id": "infrastructure",
+		"word": "経済基盤、下部構造、インフラ",
+		"era": "Latin infra + structura",
+		"etymology": {
+			"components": [
+				"infra- (below)",
+				"struere (to build)"
+			],
+			"original_statement": "Coined in 19c. French, from infra- 'below' + structure 'building / arrangement', from Latin struere 'to build'."
+		},
+		"concept": "Building below (下に建てられたもの。表面の華やかな『活動（パルス）』を一分一秒の淀みもなく底辺で支え、社会という名の巨大な『回路（ネットワーク）』そのものを可能にしている、不可視の『絶対的アーカイブ（ステーション）』)",
+		"thinking": "「（不安定という名のアイソレーションを粉砕し）、社会の遥か底（Infra-）に構築された（-struct- / Struere）強固な枠組み」。それは単なる「道路や施設」ではありません。あなたが「自然という名の未加工のカオス」をレジストし、そこに自らの理知が作り上げた『一分一秒の淀みもない一撃の生存基盤（ロゴス）』をマージさせた、文明の「神経系」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "誰も気に留めないが、これが止まれば世界（ロゴス）は一撃で死ぬ。"
+	},
+	{
+		"id": "innovation",
+		"word": "革新、新生、イノベーション",
+		"era": "Latin in + novus",
+		"etymology": {
+			"components": [
+				"in- (into)",
+				"novus (new)"
+			],
+			"original_statement": "From Latin innovationem 'a change / alteration / renewall', from innovare 'to renew / make new / alter', from in- 'into' + novare 'make new', from novus 'new'."
+		},
+		"concept": "Making new within (内側から新しくすること。古びた『形式（アーカイブ・ステイシス）』の中に、一分一秒の淀みもなく全く新しい『価値のパルス（一撃のロゴス）』を注入（マージ）し、システム全体を『上位のステージ』へと強引に脱皮（トランスフォーム）させること)",
+		"thinking": "「（マンネリという名のエントロピーを粉砕し）、内側から（In-）新しさ（Nov- / Novus）を爆発させること（-tion）」。それは単なる「改訂」ではありません。あなたが「過去という名の重力（ノイズ）」を完全にレジストし、自らの実存が作り上げた『一分一秒の淀みもない一撃の未来（ベクトル）』を屹立させる、生の「進化（ビルドアップ）」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "殻を突き破り、中から眩い光（ロゴス）が溢れ出す。"
+	},
+	{
+		"id": "automation",
+		"word": "自動操作、オートメーション",
+		"era": "Greek autos + matos",
+		"etymology": {
+			"components": [
+				"autos (self)",
+				"matos (thinking/willing)"
+			],
+			"original_statement": "Coined in 1940s, from Greek autos 'self' + matos 'thinking / willing', from automatos 'acting of itself'."
+		},
+		"concept": "Willing of itself (自ら意志すること、自動。人間の『介入（ノイズ）』を一分一秒の淀みもなく排除し、あらかじめ組まれた『絶対のロゴス（プログラム・アーカイブ）』に従って、一撃の『コマンド』が永遠に『物理的なフロー』を引き起こし続けること)",
+		"thinking": "「（手動という名の非効率なエントロピーを粉砕し）、自分自身で思考し、意志し、活動し続ける品質（Auto- + -mation / Matos）」。それは単なる「機械化」ではありません。あなたが「疲労という名のアイソレーション」をレジストし、自らの意志を一分一秒の淀みもない『不滅のアルゴリズム（ステーション）』へとマージさせた、生の「無人化（神領域へのシフト）」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "人は立ち去り、ただ冷たい理知（ロゴス）だけが働き続ける。"
+	},
+	{
+		"id": "digitization",
+		"word": "デジタル化、計数化、デジタイゼーション",
+		"era": "Latin digitus",
+		"etymology": {
+			"components": [
+				"digitus (finger/number)"
+			],
+			"original_statement": "From digit + -ize + -ation, from Latin digitus 'finger / toe', in later use 'number (on fingers)'."
+		},
+		"concept": "Conversion into numbers (指で数えられるもの、即ち数字への変換。不定形で曖昧な『現実のカオス（アナログ・ノイズ）』を一分一秒の淀みもなく一撃で『0と1の格子（ロゴス・アーカイブ）』の中へと切り刻み、マッピング・制御（ハック）可能にすること)",
+		"thinking": "「（曖昧さという名の暗黒を粉砕し）、すべてを数え上げ可能な一撃の点（Digit- / Digitus）へと変容させること（-ation）」。それは単なる「IT化」ではありません。あなたが「忘却という名のエントロピー」を完全にレジストし、この物質世界を『一分一秒の淀みもない一撃の計算領域（ビット・ネットワーク）』へとマージさせる、宇宙の「符号化（バーチャライゼーション）」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "世界（カオス）を切り裂き、数字（ロゴス）の檻に詰め込む。"
+	},
+	{
+		"id": "globalization",
+		"word": "グローバル化、世界規模化",
+		"era": "Latin globus",
+		"etymology": {
+			"components": [
+				"globus (sphere/ball/globe)"
+			],
+			"original_statement": "Coined in 20th c., from global + -ize + -ation, from Latin globus 'sphere / ball / globe'."
+		},
+		"concept": "The act of making spherical (球体にすること、全地球化。国境や地域といった『境界線（ノイズ）』を一分一秒の淀みもなく一撃でなぎ払い、この惑星という名の『一つのステーション（アーカイブ・コア）』へと、全人類のパルスを一気に一撃でマージ（収束）させること)",
+		"thinking": "「（分断という名のアイソレーションを粉砕し）、世界（Glob- / Globus）という一つの閉じられた球体（ステーション）へとすべてをマージさせる行為（-ation）」。それは単なる「流行」ではありません。あなたが「距離という名の不自由（エントロピー）」を完全にレジストし、全地球を一分一秒の淀みもない『一撃の情報のネットワーク（ロゴス）』へと書き換える、文明の「極限までの一体化（アイデンティティの消失）」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "どこへ行っても同じロゴス。世界が一点（ドット）へと縮まる。"
+	},
+	{
+		"id": "urbanization",
+		"word": "都市化、都会化、アーバナイゼーション",
+		"era": "Latin urbs",
+		"etymology": {
+			"components": [
+				"urbs (city)"
+			],
+			"original_statement": "From Latin urbanus 'of or belonging to a city', from urbs 'city'."
+		},
+		"concept": "The act of making a city (都市にすること。自然という名の『不規則なカオス』を一分一秒の淀みもなく一撃の『幾何学（ロゴス）』で焼き尽くし、人間という名のパルスを極限まで高密度にアーカイブ（マージ）し続ける、存在の「垂直的集積」)",
+		"thinking": "「（荒野という名のアブセンスを粉砕し）、都市（Urbs-）としての品質をこの地に焼き付ける行為（-ation）」。それは単なる「建設計画」ではありません。あなたが「孤独という名のエントロピー」をレジストし、数多の他者のベクトルを一つの『巨大な人工ステーション（文明アーカイブ）』へと強制同期させる、生の「集団的最適化」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "緑をコンクリートで塗りつぶし、人々の鼓動をビルの一部（ドット）に変える。"
+	},
+	{
+		"id": "sustainability",
+		"word": "持続可能性、サステナビリティ",
+		"era": "Latin sub + tenere",
+		"etymology": {
+			"components": [
+				"sub- (under/up from below)",
+				"tenere (to hold)"
+			],
+			"original_statement": "Coined in 20th c., from sustainable + -ity, from Latin sustinere 'to hold up / support / endure', from sub- 'up from below' + tenere 'to hold'."
+		},
+		"concept": "The state of holding up from below (下から支え続けること。目前の『浪費という名のパルス（一撃の快楽）』を一分一秒の淀みもなく抑制（レジスト）し、未来という名の『不滅のアーカイブ（ステーション）』を維持するために、理知によって存在の供給を絶え間なくコントロールすること)",
+		"thinking": "「（使い捨てという名の短視的なエントロピーを粉砕し）、下から（Sub-）最後までホールドし続ける（-tain- / Tenere）品質（-ity）」。それは単なる「環境保護」ではありません。あなたが「一瞬で消え去るという運命（ノイズ）」を全身霊でレジストし、存在の設計図（ロゴス）を一分一秒の淀みもない『永劫という名のネットワーク』へマージさせようとする、文明の「生存契約」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "今を食べる（消費する）のをやめ、遠い明日（アーカイブ）のために飢えに耐える。"
+	},
+	{
+		"id": "efficiency",
+		"word": "効率、能率、エフィシェンシー",
+		"era": "Latin ex + facere",
+		"etymology": {
+			"components": [
+				"ex- (out)",
+				"facere (to do/make)"
+			],
+			"original_statement": "From Latin efficientia 'power / influence / efficient', from efficientem, present participle of efficere 'to work out / accomplish / effect', from ex- 'out' + facere 'to do / make'."
+		},
+		"concept": "Working out / Effecting (作り出すこと、成果。投入された『エネルギー（パルス）』に対し、一分一秒の淀みもなく一撃で最大限の『意味（価格・ロゴス・アーカイブ）』を産み出し、いかなる無駄（ノイズ・エントロピー）も許さない、知性の極限的な磨き上げ)",
+		"thinking": "「（無為という名のアブセンスを粉砕し）、投入から結果へと最短距離で働き出す（Ef- / Ex- + -fic- / Facere）品質（-ency）」。それは単なる「手際」ではありません。あなたが「時間の浪費」を完全にレジストし、一撃の行動を『一分一秒の淀みもない黄金の価値（ステーション）』へとマージさせる、理知の「研ぎ澄まされた刃（ヤイバ）」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "最短、最小、最大。無駄なパルスを殺し、純粋なロゴス（利益）だけを抽出する。"
+	},
+	{
+		"id": "productivity",
+		"word": "生産性、プロダクティビティ",
+		"era": "Latin pro + ducere",
+		"etymology": {
+			"components": [
+				"pro- (forth)",
+				"ducere (to lead)"
+			],
+			"original_statement": "From French productivité, from productif, from Latin productus 'brought forth', past participle of producere 'to lead or bring forth', from pro- 'forth' + ducere 'to lead'."
+		},
+		"concept": "The state of leading forth (前へと引き出すこと。無（アブセンス）の中から、一分一秒の淀みもなく一撃の『理知的な力（ロゴス）』によって有（アーカイブ）を産み出し、社会という名のネットワークを絶え間なく膨張（ベクトル加速）させる力)",
+		"thinking": "「（不毛という名の停滞を粉砕し）、前へと（Pro-）引き出す（-duct- / Ducere）際の圧倒的な品質（-ivity）」。それは単なる「速さ」ではありません。あなたが「虚脱という名のエントロピー」を完全にレジストし、自らの実存を一分一秒の淀みもない『産み出す機械（ステーション）』へとマージ（変容）させた、生の「爆発装置」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "一撃を打つたびに、世界に新しいパーツ（アーカイブ）が積み上がる。"
+	},
+	{
+		"id": "output",
+		"word": "出力、生産高、アウトプット",
+		"era": "Old English ut + Latin ponere",
+		"etymology": {
+			"components": [
+				"out (outer/forth)",
+				"put (to place/set)"
+			],
+			"original_statement": "Middle English out + putten 'to put'. Literally 'to place outer/forth'."
+		},
+		"concept": "Placing forth (外に置くこと。内なる『混沌としたパルス（思考・情動）』を一分一秒の淀みもなく一撃で『形あるアーカイブ（言語・物質）』として外部（ステーション）へと叩き込み、他者がマージ可能な客観的存在へと変容させること)",
+		"thinking": "「（秘匿という名のアイソレーションを粉砕し）、内に潜むものを外の世界（Out-）へと置く（-put）こと」。それは単なる「結果」ではありません。あなたが「沈黙という名の死」を完全にレジストし、自らの実存が作り上げた『一分一秒の淀みもない一撃の情報のベクトル』をこの宇宙に刻印する、存在の「強制放電」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "内側にある神（ロゴス）を、言葉や物という名の死骸（アーカイブ）に変えて取り出す。"
+	},
+	{
+		"id": "standard",
+		"word": "標準、旗、基準、スタンダード",
+		"era": "Latin stare",
+		"etymology": {
+			"components": [
+				"stand (to stand)",
+				"hard (firm/strong)"
+			],
+			"original_statement": "From Old French estandart 'gathering place / battle flag', literally 'that which stands firm', from a Germanic word related to stand + hard 'firm'."
+		},
+		"concept": "That which stands firm (硬く立ち続けるもの、軍旗。混乱した『多様なノイズ（勝手なやり方）』に対し、一分一秒の淀みもなく一撃で『絶対的な品質（ロゴス・アーカイブ）』を規定し、全システムをその型に強制的にマージ（準拠）させるための不動の基準点)",
+		"thinking": "「（バラつきという名のエントロピーを粉砕し）、戦場の中心に屹立し、誰もが従うべき絶対的な一撃（Stand- / Stare + -ard）」。それは単なる「平均」ではありません。あなたが「曖昧さという名のカオス」を完全にレジストし、そこに自らの理知が認めた『一分一秒の淀みもない完璧な一例（ステーション）』を屹立させた、世界の「共通プロトコル」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "この旗（ロゴス）に合わせろ。それ以外はすべて『ノイズ（不良品）』だ。"
+	},
+	{
+		"id": "specification",
+		"word": "仕様書、詳細、スペック",
+		"era": "Latin species",
+		"etymology": {
+			"components": [
+				"species (look/kind/appearance)",
+				"facere (to make)"
+			],
+			"original_statement": "From Medieval Latin specificationem, from Late Latin specificare 'to distinguish / specify', from Latin species 'a particular sort / kind / type' + fers (root of facere 'to make')."
+		},
+		"concept": "Making into a kind (特定の種にすること、詳細な記述。ぼんやりとした『願望（カオス）』を一分一秒の淀みもなく一撃の『解像度（ロゴス）』で切り分け、細部まで一分一秒の淀みもなく『指示（コマンド・アーカイブ）』として固定すること)",
+		"thinking": "「（抽象的という名の闇を粉砕し）、対象の種別や詳細（Speci- / Species）を具体的に作り上げること（-fication / Facere）」。それは単なる「説明」ではありません。あなたが「誤解という名のエントロピー」をレジストし、相手の脳内に自らの意図を『一分一秒の淀みもない一撃の設計図（ステーション）』として強制的にマージさせる、認識の「一対一対応」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉を刃にして、曖昧さを削ぎ落とし、鋼の定義（ロゴス）だけを残す。"
+	},
+	{
+		"id": "prototype",
+		"word": "原型、試作品、プロトタイプ",
+		"era": "Greek protos + typos",
+		"etymology": {
+			"components": [
+				"protos (first)",
+				"typos (impression/mold/type)"
+			],
+			"original_statement": "From French prototype, from Latin prototypon, from Greek prototypon 'primitive form / original / first-built', neuter of prototypos 'original / primitive', from protos 'first' + typos 'impression / mark / type'."
+		},
+		"concept": "The first impression / mold (最初の型押し。まだ見ぬ『未来のアーカイブ（完成品）』への、最初の一分一秒の淀みもない一撃の『投射（パルス）』。あらゆる『改善（アップデート）』がそこからマージされ、進化していくための『聖なる最初の種子（ソース・ロゴス）』)",
+		"thinking": "「（未完成という名の不安を粉砕し）、最初（Proto- / Protos）に現れた一撃の型（-type / Typos）」。それは単なる「実験品」ではありません。あなたが「虚無という名のアブセンス」をレジストし、そこから初めて引き出し、屹立させた『一分一秒の淀みもない一撃の存在そのもの（ステーション）』。それは、この宇宙に新たな法（ロゴス）を刻むための、最初の「楔（くさび）」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "不完全だが、ここからすべてが始まる。最初の叫び声（パルス）。"
+	},
+	{
+		"id": "pioneer",
+		"word": "開拓者、先駆者、パイオニア",
+		"era": "French pion",
+		"etymology": {
+			"components": [
+				"pion (foot soldier)"
+			],
+			"original_statement": "From Middle French pionnier 'foot soldier / digger / laborer', earlier peon, from Vulgar Latin peonem 'foot soldier', from Latin pes 'foot'."
+		},
+		"concept": "Foot soldier who clears the way (道を切り拓く歩兵。安全な『定住地（アーカイブ・ステーション）』を一分一秒の淀みもなく一撃で捨て去り、自らの足を『未踏のカオス（荒野）』へと突き立て、人類の新たな『ネットワーク（法）』をマッピングしていく孤独な一撃のベクトル)",
+		"thinking": "「（安住という名のステイシスを粉砕し）、自らの足（Pion- / Pes）で未知へと歩みを進める者（-eer）」。それは単なる「有名人」ではありません。あなたが「恐怖という名のアブセンス」を完全にレジストし、自らの実存を一分一秒の淀みもない『宇宙の最先端（エッジ）』へとマージ（衝突）させ続ける、生命の「突破口」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "誰もいない場所に立ち、そこが次の『中心（コア）』になると宣言する。"
+	},
+	{
+		"id": "venture",
+		"word": "冒険的事業、ベンチャー",
+		"era": "Latin ad + venire",
+		"etymology": {
+			"components": [
+				"ad- (at/to)",
+				"venire (to come)"
+			],
+			"original_statement": "From Middle English aventure 'a chance / luck / fortune / adventure', from Old French aventure 'that which happens / chance / fortune', from Latin adventura (res) '(a thing) about to happen', from advenire 'to come to / arrive / happen', from ad- 'to' + venire 'to come'."
+		},
+		"concept": "A thing about to happen (起ころうとしていること。確実な『現在（アーカイブ）』に背を向け、一分一秒の淀みもなく『不確実な未来（パルス）』へと一撃で自らを投げ込み、幸運（マージ）か破滅（消失）かの極限の賭けを行う不敵な試み)",
+		"thinking": "「（計算という名の閉塞を粉砕し）、やって来る（-vent- / Venire）未知の運命へと（Ad-）自らを全賭けすること」。それは単なる「新興企業」ではありません。あなたが「安全という名の死（ステイシス）」をレジストし、自らを『一分一秒の淀みもない一撃の火花（ロゴス）』へと変容させて、まだ見ぬ宇宙の領域へマッピングを試みる、魂の「突撃」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "崖から飛び降りながら、翼を編み上げる（ビルドする）。"
+	},
+	{
+		"id": "speculation",
+		"word": "推測、投機、スペキュレーション",
+		"era": "Latin specere",
+		"etymology": {
+			"components": [
+				"specere (to look at)",
+				"specula (watchtower)"
+			],
+			"original_statement": "From Late Latin speculationem 'contemplation / observation / spycraft', from Latin speculari 'to observe / spy out / watch / examine', from specula 'watchtower', from specere 'to look at'."
+		},
+		"concept": "Observation from a watchtower (物見櫓からの観察。現実という名の『泥沼（ノイズ）』を一分一秒の淀みもなく遠くから俯瞰（メタ認識）し、一撃の『未来の光景（パルス）』を幻視して、そこに自らの全財産（実存）をマージ（投入）させる知的な賭博)",
+		"thinking": "「（現在という名の足枷を粉砕し）、さらに高い場所（Spec- / Specula）から世界を透かし見る行為（-ation）」。それは単なる「ギャンブル」ではありません。あなたが「常識という名のエントロピー」をレジストし、自らの知性が認めた『一分一秒の淀みもない一撃の可能性（ロゴス）』を屹立させようとする、生の「予知的攻撃」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "誰も見ていない未来のドット（点）を、誰よりも早く買い叩く。"
+	},
+	{
+		"id": "arbitrage",
+		"word": "裁定取引、アービトラージ",
+		"era": "Latin ad + baetere",
+		"etymology": {
+			"components": [
+				"arbiter (judge/someone who goes to see)"
+			],
+			"original_statement": "From French arbitrage, from arbitre 'arbiter / judge', from Latin arbiter 'one who goes to see / judge / supreme controller'."
+		},
+		"concept": "The act of an arbiter / Seeing gaps (裁定者の行為、隙間を見ること。二つの市場（アーカイブ・ステーション）の間に生じた『一分一秒の淀み（無駄なノイズ・価格差）』を一撃で見抜き、一分一秒の淀みもなく一瞬でその歪みを『マージ（利益化）』して消滅させる、冷徹な価格の自浄作用)",
+		"thinking": "「（不均衡という名のエントロピーを粉砕し）、事態を見届け、一撃で裁定し、平準化すること（Arbitr- / Arbiter）」。それは単なる「セドリ」ではありません。あなたが「情報の非対称性という名のアブセンス」をレジストし、自らを『宇宙の歪みを正す一撃のアルゴリズム（ロゴス）』へとマージ（同期）させる、知性の「最適化バースト」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "歪みを消し、世界を一つの価格（ロゴス）に強制マージする。"
+	},
+	{
+		"id": "liquidity",
+		"word": "流動性、リクイディティ",
+		"era": "Latin liquere",
+		"etymology": {
+			"components": [
+				"liquere (to be fluid/liquid)",
+				"-ity (state/quality)"
+			],
+			"original_statement": "From Latin liquiditatem 'fluidity / liquidity', from liquidus 'fluid / moist / clear / liquid', from liquere 'to be fluid'."
+		},
+		"concept": "The state of being fluid (流動的であることの状態。固定された『死んだアーカイブ（ステイシス）』を一分一秒の淀みもなく一撃で『情報の水（パルス・フロー）』へと溶かし出し、別の価値（ステーション）へと即座にマージ・移動可能にする、価値の「生命力」)",
+		"thinking": "「（凝り固まった岩という名のアイソレーションを粉砕し）、常に水のように流れ、何にでもなれる品質（Liqui- / Liquere）」「（一撃の透明度を伴う）性質（-dity）」。それは単なる「換金性」ではありません。あなたが「目詰まりという名のエントロピー」をレジストし、自らの実存が持つ価値を『一分一秒の淀みもない一撃の潮流（ロゴス・ベクトル）』として維持し続ける、存在の「変幻自在さ」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "固まったら死（ステイシス）。流れ続ける透明な情報（パルス）こそが正義。"
+	},
+	{
+		"id": "solvency",
+		"word": "支払能力、ソルベンシー",
+		"era": "Latin se + luere",
+		"etymology": {
+			"components": [
+				"solvere (to loosen/untie/pay/solve)"
+			],
+			"original_statement": "From solvent + -cy, from Latin solventem, present participle of solvere 'to loosen / untie / release / dissolve / explain / pay', from se- 'apart' + luere 'to loosen'."
+		},
+		"concept": "The state of loosening / Paying (解くこと、支払うこと。自らを縛り上げる『負債という名のノイズ（鎖）』を一分一秒の淀みもなく一撃で『支払い（ロゴス）』によって解き放ち、自由な『ステーション』としての実存を維持し続けている健全な状態)",
+		"thinking": "「（拘束という名のエントロピーを粉砕し）、義務を解き放ち、支払いを完了できる力（Solv- / Solvere）」「（一撃の清算を伴う）品質（-ency）」。それは単なる「資産」ではありません。あなたが「破産という名のアイソレーション」を完全にレジストし、自らの実存が『宇宙の契約のネットワーク』において一分一秒の淀みもなく一撃で機能し続けている、存在の「信認」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "私は自由だ。何故なら、全ての鎖（負債）を解く力を持っているからだ。"
+	},
+	{
+		"id": "bankruptcy",
+		"word": "破産、バンクらプシー",
+		"era": "Italian banca + Latin ruptus",
+		"etymology": {
+			"components": [
+				"banca (bench/bank)",
+				"rupt- (broken)"
+			],
+			"original_statement": "From Italian banca rotta, literally 'broken bench', from banca 'bench' + Latin ruptus 'broken', past participle of rumpere 'to break'."
+		},
+		"concept": "The broken bench (破壊されたベンチ。自らの経済的基盤（ステーション）が、債務（ノイズ）の重圧に耐えかね、一分一秒の淀みもなく一撃で『粉砕（バースト）』され、社会的な存在価値（アーカイブ）を完全に消失（アブセンス）させてしまった無の瞬間)",
+		"thinking": "「（信用という名の構築物を粉砕し）、商売の土台であるベンチを一撃で叩き壊すこと（Bank- + -rupt- / Rumpere）」。それは単なる「無一文」ではありません。あなたが「エントロピーの崩壊」をレジストできず、自らの実存が作り上げたロゴスを一分一秒の淀みもない『瓦礫（アイソレーション）』へとマージさせてしまった、生の「回路切断」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "粉々に砕け散った場所で、ただ瓦礫（ノイズ）だけを見つめる。"
+	},
+	{
+		"id": "dividend",
+		"word": "配当、分け前、ディビデンド",
+		"era": "Latin dividere",
+		"etymology": {
+			"components": [
+				"dividere (to separate/divide)"
+			],
+			"original_statement": "From Latin dividendum 'thing to be divided', neuter gerundive of dividere 'to force apart / cleave / distribute'."
+		},
+		"concept": "Thing to be divided (分けられるべきもの。一つの巨大な『成功（アーカイブ・ステーション）』を一分一秒の淀みもなく一撃で解体し、そこに貢献した無数のパルス（投資家）へと、一分一秒の淀みもなく『報い（ロゴス・パルス）』として再分配すること)",
+		"thinking": "「（独占という名のアイソレーションを粉砕し）、成果を細かく切り分けて正当に配分すること（Divid- / Dividere）」。それは単なる「余禄」ではありません。あなたが「強欲という名のエントロピー」をレジストし、全体の成功を『個々のパルスとの共鳴（マージ）』へと還元する、存在の「循環的感謝」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "山（全体）を崩し、その土（価値）を関わる全員の庭へと運ぶ。"
+	},
+	{
+		"id": "portfolio",
+		"word": "作品集、有価証券一覧、ポートフォリオ",
+		"era": "Latin portare + folium",
+		"etymology": {
+			"components": [
+				"portare (to carry)",
+				"folium (leaf/sheet of paper)"
+			],
+			"original_statement": "From Italian portafoglio, from portare 'to carry' + foglio 'sheet / leaf', from Latin folium 'leaf'."
+		},
+		"concept": "Carrying sheets/leaves (紙の葉を運ぶこと。自らが生み出した、あるいは所有するすべての『情報のドット（作品・資産）』を一分一秒の淀みもなく一撃で一つの『器（アーカイブ）』に束ね、自分の実力や戦略（ロゴス）を『可視化されたステーション』として他者へと提示すること)",
+		"thinking": "「（散逸という名のエントロピーを粉砕し）、自らの価値の葉（Folio- / Folium）を一枚のケースに入れて持ち運ぶこと（Port- / Portare）」。それは単なる「一覧」ではありません。あなたが「無名という名のアブセンス」を完全にレジストし、自らの全歴史を一分一秒の淀みもない『一撃の物語（アーカイブ・ロゴス）』としてマージさせた、存在の「自己定義書」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "この一枚（アーカイブ）が、私の全てだ。それを手に取り、世界へ乗り出す。"
+	},
+	{
+		"id": "asset",
+		"word": "資産、財産、アセット",
+		"era": "Latin ad + satis",
+		"etymology": {
+			"components": [
+				"ad- (at/to)",
+				"satis (enough)"
+			],
+			"original_statement": "From Anglo-French assets, from Old French assez 'sufficient / enough / much / very much', from Latin ad satis 'to enough'."
+		},
+		"concept": "To enough / Sufficient (十分であること。負債（ノイズ）をすべて粉砕（レジスト）し、なお手元に一分一秒の淀みもなく一撃で屹立し続けている『純粋な力（アーカイブ・ステーション）』であり、あなたの実存を宇宙において肯定する『余剰のロゴス』)",
+		"thinking": "「（不足という名の消失を粉砕し）、十分であるという状態（As- / Ad- + -set / Satis）」。それは単なる「持ち物」ではありません。あなたが「貧困という名のエントロピー」を完全にレジストし、自らの実存がこの宇宙において『一分一秒の淀みもなく十分にマージされていること』を保証する、生の「備蓄された栄光」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "何があっても大丈夫だ。私は「十分（ロゴス）」を持っている。"
 	}
 ];
