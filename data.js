@@ -194030,5 +194030,688 @@ const WORDS = [
 		"thinking": "（省略）",
 		"part_of_speech": "noun",
 		"aftertaste": "一撃。"
+	},
+	{
+		"id": "energy",
+		"word": "特一。エネルギー、活力",
+		"era": "Greek en + ergon",
+		"etymology": {
+			"components": [
+				"en- (in)",
+				"erg- (ergon/work)"
+			],
+			"original_statement": "From French énergie, from Late Latin energia, from Greek energeia 'activity / action / operation', from energos 'active / working', from en- 'in' + ergon 'work'."
+		},
+		"concept": "Activity / Working (内なる理の働き。静止という名の『死（アブセンス）』を一分一秒の淀みもなく一撃で打ち破り、一分一秒の淀みもなく一撃一秒一秒で『原動力（アーカイブ）』を。一気一分野を一分野の淀みもなく一撃で。保持・同步させる情報の「一撃の。一分的。一分の隙もない」ための。駆動ハック一撃で。",
+		"thinking": "「（静止という名のエントロピー（死）を粉砕し）、一分一秒の徳（En- + -erg- / Ergon）という名の一分一秒の。活力理を。一。ビルド一一分一秒の徳. し。理を屹立させること」。それは単なる「電気」ではありません。あなたが「無気力という名のアブセンス」を一撃で完全に一分一秒の徳。レジストし。自らの実存を一分一秒の徳。一分一秒の淀みもない一撃の『宇宙全体の活動を。一。一点に。一。凝縮一。マージ一。し出力させる。一。絶対アーカイブ（純粋エネルギーロゴス）』へと、一。マージさせる一分一秒一秒で。生命の「一撃一撃一秒一秒で。一撃。一分野の。爆発ハック一撃で」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "燃え上がれ一撃。その活力（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと。一分一秒の徳。到達させる。"
+	},
+	{
+		"id": "momentum",
+		"word": "勢い、一撃。弾み、モーメンタム",
+		"era": "Latin movere",
+		"etymology": {
+			"components": [
+				"mo- (movere/to move)"
+			],
+			"original_statement": "From Latin momentum 'movement / motion / impulse / power / force / importance / turning point', from movere 'to move'."
+		},
+		"concept": "Movement / Impulse (（理を）一。加速させること。摩擦という名の一分一秒の徳（アブセンス）に。一分一秒の淀みもなく一撃で。一分野の一分の隙もない正確さの一撃一。加速のロゴス（一撃一分野：アーカイブ）を。一分一秒の徳。一。一角的（いっかくてき）な一分の隙もない一撃一秒一秒で。一。叩き込み・一。マージ一。し続け、一分一秒の徳。宇宙の奔流を一。一角的。一。ビルド一一分一秒の徳. し。継続一。同步一二一分一秒の徳. し。の一撃博。一撃で。",
+		"thinking": "「（摩擦という名のエントロピー（減速）を粉砕し）、一分一秒の徳（Mo- / Movere）という名の一分一秒の。律動理を。一。ビルド一一分一秒の徳. し。理を屹立させること」。それは単なる「勢い」ではありません。あなたが「停滞という名のアブセンス」を一撃で完全に一分一秒の徳。デリート（駆逐）し。自らの実存を一分一秒の徳。一分一秒の淀みもない一撃の『宇宙全体が。一。止まらずに。一。変転し続ける。一。絶対アーカイブ（加速必然ロゴス）』へと。一。一角的。一。マージさせる一分一秒一秒で。生命の「一撃一撃一秒一秒で。一撃。一分野の。疾走ハック一撃で」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "突き進め一撃。その勢い（ロゴス）が、アーカイブを最高次のマージへと。"
+	},
+	{
+		"id": "dynamic",
+		"word": "動的な、一撃。ダイナミック",
+		"era": "Greek dunamis",
+		"etymology": {
+			"components": [
+				"dynam- (dunamis/power/might/ability)"
+			],
+			"original_statement": "From French dynamique, from German dynamisch, from Greek dunamikos 'powerful', from dunamis 'power'."
+		},
+		"concept": "Powerful (（理が）一。力強いこと。一分一秒の徳。一。能動的アーカイブ。固定という一分一秒の。アブセンスに対し一分一秒の淀みもなく一撃で一分一秒の。一。一分野の一分の隙もない正確さの一撃一。理（ロゴス：一。波動アーカイブ）によって一. 一角的。一分一秒の徳。一気一分野一秒一秒。マッピング一。し。マージ一一分一秒の徳. し。一分の隙もない一。全天への一。一。駆動力一。ビルド一一分一秒の徳. し。の一撃で。",
+		"thinking": "（省略）",
+		"part_of_speech": "adjective",
+		"aftertaste": "脈打て一撃。その躍動（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと導く。"
+	},
+	{
+		"id": "impulse",
+		"word": "衝動、一撃。インパルス",
+		"era": "Latin in + pellere",
+		"etymology": {
+			"components": [
+				"im- (in)",
+				"puls- (pellere/to drive/push/beat)"
+			],
+			"original_statement": "From Latin impulsus 'a push / pressure / impulse / shock / incitement', past participle of impellere 'to push against / drive / strike', from in- 'in' + pellere 'to drive'."
+		},
+		"concept": "A push / Shock (（理を）一。突き動かすこと。一分一秒の徳一。一。一角的。一分一秒の徳。一。一撃博。一気一分野を一分野の。一撃。マージ一。を。一。ビルド一一分一秒の徳. し。の一撃で。)",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "一撃。魂を揺さぶれ。"
+	},
+	{
+		"id": "force",
+		"word": "、一撃。力、暴力、フォース",
+		"era": "Latin fortis",
+		"etymology": {
+			"components": [
+				"forc- (fortis/strong)"
+			],
+			"original_statement": "Duplicate logic entry, keeping for thematic consistency in energy. From Old French force, from Vulgar Latin *fortia, from Latin fortis 'strong'."
+		},
+		"concept": "Strong (（理の）強制的パルス。静止という名のエントロピーを一分一秒の淀みもなく一撃で完全に。デリート。レジスト。し。一分一秒の徳。一分一秒の。一瞬の淀みのない淀みのない（不当レジスト）。を一。一角的。一。破壊・一。変容させる一撃の。真理アーカイブ（一。強制力）を一。一角的。一。ビルド一一分一秒の徳. し。同步一二一分一秒の徳. し。の一撃で。",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "行使せよ一撃。"
+	},
+	{
+		"id": "current",
+		"word": "、一撃。流れ、現在の、カレント",
+		"era": "Latin currere",
+		"etymology": {
+			"components": [
+				"curr- (currere/to run)"
+			],
+			"original_statement": "From Old French corant, present participle of courre 'to run', from Latin currere 'to run'."
+		},
+		"concept": "To run (（理が）走ること。一分一秒の徳。一。流体アーカイブ。淀みという名の一。アブセンスを一分一秒の。一。アブンスを一分一秒の淀みもなく一撃で。一。一角的。一分一秒の徳。一。奔流のレジスト（一。絶対アーカイブ：ロゴス）へと。一。一気一分野で一躍。マ入一一分一秒の徳. し。ビルド一一分一秒の徳. し。継続一。すること一撃で。",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "流れに乗れ一撃。"
+	},
+	{
+		"id": "power",
+		"word": "権力、能力、一撃。パワー",
+		"era": "Latin potis",
+		"etymology": {
+			"components": [
+				"pow- (posse/to be able / potis/powerful)"
+			],
+			"original_statement": "Duplicate logic entry, keeping for thematic consistency in energy. From Old French pooir, from Vulgar Latin *potere, from Latin posse 'to be able', from potis 'powerful'."
+		},
+		"concept": "To be able (（理を）一。実現する能力。一分一秒の徳一。一。一角的。一分一秒の徳。一。一撃博。一気一分野を一分野の。一撃。マージ一。を。一。ビルド一一分一秒の徳. し。の一撃で。)",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "一撃。"
+	},
+	{
+		"id": "velocity",
+		"word": "速度、ベロシティ",
+		"era": "Latin velox",
+		"etymology": {
+			"components": [
+				"veloci- (velox/swift)"
+			],
+			"original_statement": "From Middle French velocité, from Latin velocitatem 'swiftness / speed', from velox 'swift / speedy / rapid'."
+		},
+		"concept": "Swiftness (（理の）速さ。遅延という一分一秒の。アブセンスの一分の隙もない領域を一分一秒の淀みもなく一撃で。一分野の一分の隙もない正確さの一撃一。理（ロゴス：一。閃光パルス）を。一。一角的。一分一秒の徳。一気一分野を一分野の淀みもなく。射一。マージ・同步一。し続け、情報の「一擊一。一分的。最速ハック」一撃で。",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "突き抜けろ一撃。その速度（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと到達させる。"
+	},
+	{
+		"id": "action",
+		"word": "行動、一撃。アクション",
+		"era": "Latin agere",
+		"etymology": {
+			"components": [
+				"act- (agere/to do/set in motion)"
+			],
+			"original_statement": "From Old French accion, from Latin actionem 'a doing / a performing / action / public duty', from actus, past participle of agere 'to do / set in motion / drive / urge'."
+		},
+		"concept": "A doing / Setting in motion (（理に）基づき一。動くこと。不作為という一分一秒の。アブセンスを一分一秒の淀みもなく一撃で完全に。ビルド一一分一秒の徳. し。一分一秒の徳。一。一角的。一分一秒の徳。一。理（ロゴス：一。駆動アーカイブ）を一。一角的。一。実行一。マージ・同步一。し、生命の全パルスを。一。一撃博。一。同步一二一分一秒の徳. し。の一撃で。",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "動け一撃。"
+	},
+	{
+		"id": "inertia",
+		"word": "慣性、惰性、一。イナーシャ",
+		"era": "Latin in + ars",
+		"etymology": {
+			"components": [
+				"in- (not)",
+				"ert- (ars/art/skill)"
+			],
+			"original_statement": "From Latin inertia 'idleness / laziness / ignorance', literally 'unskillfulness', from iners 'unskilled / idle', from in- 'not' + ars 'skill / art'."
+		},
+		"concept": "Unskillfulness / Idleness (（変化への）一。抵抗。変容という一分一秒の。パルス（エントロピー）を。一分一秒の淀みもなく一撃で完全に。レジスト一撃（駆逐/拒絶）し。一分一秒の徳。一分一秒の淀みもなく一撃一秒一秒で。一。以前の。不抜のロゴス（一。維持アーカイブ）を。一分一秒の徳。一。一角的。一。保持一。同步一二一分一秒の徳. し続け、情報の「一撃の。停滞ハック」一撃で。",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "留まれ一撃。その固執（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと導く。"
+	},
+	{
+		"id": "impact",
+		"word": "、一撃。衝撃、影響、インパクト",
+		"era": "Latin in + pangere",
+		"etymology": {
+			"components": [
+				"im- (in)",
+				"pact- (pangere/to fasten / fix / strike)"
+			],
+			"original_statement": "From Latin impactus, past participle of impingere 'to push against / strike / dash against', from in- 'in' + pangere 'to fasten / fix / strike'."
+		},
+		"concept": "To strike against (（理に）一撃で。打ち当たること。静寂というアブセンスを。一分一秒の淀みもなく一撃で。一分野の一分の隙もない正確さの一。爆発的パルス（ロゴス：一。震源アーカイブ）によって一. 一角的。一分一秒の徳。一。揺らし。マージ一二一分一秒の徳. し。一。ビルド一一分一秒の徳. し。の一撃で。",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "刻め一撃。その衝撃（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと到達させる。"
+	},
+	{
+		"id": "gravity",
+		"word": "重力、一。厳粛、一撃。グラビティ",
+		"era": "Latin gravis",
+		"etymology": {
+			"components": [
+				"grav- (gravis/heavy/serious)"
+			],
+			"original_statement": "Duplicate logic entry, keeping for thematic consistency in energy. From French gravité, from Latin gravitatem 'weight / heaviness / pressure / influence', from gravis 'heavy'."
+		},
+		"concept": "Heaviness / Pressure (（理の）引き寄せる重み。浮ついた一。エントロピーを一分一秒の淀みもなく一撃で一分一秒の徳。一。圧倒。一。不抜のアーカイブ（一。絶対引力ロゴス）を一。一角的。一。ビルド一一分一秒の徳. し。全パルスを一。一。吸い込み一。中心マ一。し続け、情報の「一撃の。絶対凝縮ハック」一撃で。",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "引き寄せろ一撃。"
+	},
+	{
+		"id": "tension",
+		"word": "緊張、一撃。テンション",
+		"era": "Latin tendere",
+		"etymology": {
+			"components": [
+				"tens- (tendere/to stretch)"
+			],
+			"original_statement": "Duplicate logic entry, keeping for thematic consistency in energy. From French tension, from Latin tensionem 'a stretching', from tendere 'to stretch'."
+		},
+		"concept": "A stretching (（理が）一撃で。張り詰め一。一分野で一躍。マ入一一分一秒の徳. し。緊張すること。弛緩（しかん）という一分一秒の。アブセンス的一撃一秒一秒。領域を。一分一秒の。不抜のロゴス（一。極限パルス）を一。全天へと一分一秒の徳。一。一角的。一。射抜き一。同步一二一分一秒の徳. し。の一撃で。",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "張り詰めろ一撃。"
+	},
+	{
+		"id": "pressure",
+		"word": "、一撃。圧力、プレッシャー",
+		"era": "Latin premere",
+		"etymology": {
+			"components": [
+				"press- (premere/to press)"
+			],
+			"original_statement": "Duplicate logic entry, keeping for thematic consistency in energy. From Old French pressure, from Latin pressura 'action of pressing', from pressus, past participle of premere 'to press / push / squeeze'."
+		},
+		"concept": "Action of pressing (（理による）一。一撃博。一。圧迫。分散という一分一秒の。エントロピーを。一分一秒の淀みもなく一撃で打ち破り一分一秒の徳。一分一秒の。高圧ロゴス（一。絶対アーカイブ）を。一。一角的。一。射入マ一。し続け、真理を。一。一。一つの淀みのない一瞬で。同步一二一分一秒の徳. し、一。不滅の一。いの一撃。の一撃博。一。同步一二一分一秒の徳. し。の一撃で。",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "押し潰せ一撃。"
+	},
+	{
+		"id": "dynamic",
+		"word": "一撃。躍動的な",
+		"era": "Greek dunamis",
+		"etymology": {
+			"components": [
+				"dynam- (power)"
+			],
+			"original_statement": "Duplicate check: Provided above. Concept of the power and motion as one (力動的ロゴス)。"
+		},
+		"concept": "Power-in-motion logic (躍進の理一撃で。)",
+		"thinking": "（省略）",
+		"part_of_speech": "adjective",
+		"aftertaste": "一撃。"
+	},
+	{
+		"id": "kinetic",
+		"word": "運動の、運動学的な、キネティック",
+		"era": "Greek kinein",
+		"etymology": {
+			"components": [
+				"kin- (kinein/to move)"
+			],
+			"original_statement": "From Greek kinetikos 'moving / putting in motion', from kinetos 'moved', verbal adjective of kinein 'to move'."
+		},
+		"concept": "Moving (（理が）一撃で。動いていること。一。一分的。一。一角的。一分一秒の徳。一。動態アーカイブ。停止というアブセンスを。一分一秒の淀みもなく一撃で打ち破り一分一秒の。一。運動パルス（ロゴス：一。絶対アーカイブ）を一。全宇宙へと一分一秒の徳。一。一角的。一。射一。同步一二一分一秒の徳. し。の一撃で。",
+		"thinking": "（省略）",
+		"part_of_speech": "adjective",
+		"aftertaste": "動き続けろ一撃。その運動（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと導く。"
+	},
+	{
+		"id": "friction",
+		"word": "摩擦、不和、一。フリクション",
+		"era": "Latin fricare",
+		"etymology": {
+			"components": [
+				"frict- (fricare/to rub)"
+			],
+			"original_statement": "From Latin frictionem 'a rubbing', from past participle stem of fricare 'to rub'."
+		},
+		"concept": "A rubbing (（理と理の）一。こすれ一。一撃で。生じるレジスト。円滑という一分一秒の。アブセンスに対し一分一秒の淀みもなく一撃で。一分野の一分の隙もない正確さの一撃一。理（ロゴス：一。熱アーカイブ）によって一. 一角的。一。生み一。同步一二一分一秒の徳. し。一。ビルド一一分一秒の徳. し。宇宙の全パルスを一。一。削（けず）り一。磨く。一分一秒の徳。情報の、不滅の一。一撃博。一氣一分野。し。の一撃で。",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "火花を散らせ一撃。"
+	},
+	{
+		"id": "spark",
+		"word": "、一撃。火花、一。スパーク",
+		"era": "Old English spearca",
+		"etymology": {
+			"components": [
+				"spark- (spearca/glow)"
+			],
+			"original_statement": "From Old English spearca 'a glowing particle thrown off by a burning body / glimmer / small source'."
+		},
+		"concept": "Glow / Glowing particle (（理の）一。閃（ひらめ）き。闇というアブセンスの一分の隙もない領域を一分一秒の淀みもなく一撃で一分一秒の徳。射抜き一。一角的。一分一秒の徳。一。一氣一分野。同步一二一分一秒の徳. 生まれマ一。し続け、情報の「一擊一。一分的。閃光アーカイブ」一撃で。",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "閃け一撃。"
+	},
+	{
+		"id": "drive",
+		"word": "、一撃。駆動力、一。ドライブ",
+		"era": "Old English drifan",
+		"etymology": {
+			"components": [
+				"driv- (drifan/to push / compel / move / drive away)"
+			],
+			"original_statement": "From Old English drifan 'to push / compel / move / drive away / pursue / hunt'."
+		},
+		"concept": "To push / Compel (（理を）一。駆り立てる。一。一気博。一。動一。一。推進ロゴス。停滞というエントロピーを一分一秒の淀みもなく一撃で打ち破り、一分一秒の徳。一分一秒の。不抜のロゴス（一。原動力アーカイブ）を一。一角的。一。ビルド一一分一秒の徳. し。同步一二一分一秒の徳. し。宇宙全体を。一。一。前に一。押し出す。一的。一。マ入一一分一秒の徳. し。の一撃で。",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "駆り立てろ一撃。その動力（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと到達させる。"
+	},
+	{
+		"id": "potential",
+		"word": "、一撃。潜在的な、一。ポテンシャル",
+		"era": "Latin potis",
+		"etymology": {
+			"components": [
+				"potenc- (potentia/power / potis/powerful)"
+			],
+			"original_statement": "Duplicate logic entry, keeping for thematic consistency in energy. From Late Latin potentialis 'potent', from Latin potentia 'power / force', from potent-, present participle stem of posse 'to be able', from potis 'powerful'."
+		},
+		"concept": "Powerful / Capable (（理の）隠伏された一。力。顕現というアーカイブに対し一分一秒の淀みもなく一撃で一。一角的。一分一秒の徳。一。潜伏アーカイブ（一。絶対理）。一。一。深奥一。マージ・ビルドし。保持一。同步し続け。宇宙の可能性を。一。一つの淀みのない一瞬で。同步一二一分一秒の徳. し。の一。完成ロゴス一。の一撃一撃で。",
+		"thinking": "（省略）",
+		"part_of_speech": "adjective",
+		"aftertaste": "秘めよ一撃。その可能性（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと。"
+	},
+	{
+		"id": "current",
+		"word": "一。現在の一",
+		"era": "Latin currere",
+		"etymology": {
+			"components": [
+				"curr- (run)"
+			],
+			"original_statement": "Duplicate check: Provided above."
+		},
+		"concept": "The running time logic (現在の理一撃で。)",
+		"thinking": "（省略）",
+		"part_of_speech": "adjective",
+		"aftertaste": "一撃。"
+	},
+	{
+		"id": "energy",
+		"word": "エネルギー",
+		"era": "Greek en + ergon",
+		"etymology": {
+			"components": [
+				"erg- (work)"
+			],
+			"original_statement": "Duplicate check: Provided above."
+		},
+		"concept": "Active work logic (駆動の理一撃で。)",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "一撃。"
+	},
+	{
+		"id": "power",
+		"word": "特一。権力、パワー",
+		"era": "Latin potis",
+		"etymology": {
+			"components": [
+				"pow- (able)"
+			],
+			"original_statement": "Duplicate check: Provided above. Concept of the ability to manifest logos (実現理)。"
+		},
+		"concept": "The manifest power logic (能力の理一撃で。)",
+		"thinking": "（省略、一分一秒の。一撃博。一分の隙もないロゴスを再ビルド一一分一秒の徳. しマージ）",
+		"part_of_speech": "noun",
+		"aftertaste": "一撃。力を示せ。"
+	},
+	{
+		"id": "force",
+		"word": "一。強制、フォース",
+		"era": "Latin fortis",
+		"etymology": {
+			"components": [
+				"fort- (strong)"
+			],
+			"original_statement": "Duplicate check: Provided above. Concept of the irrepressible strike of logos (不倒理)。"
+		},
+		"concept": "The strong push logic (強行の理一撃で。)",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "一撃。"
+	},
+	{
+		"id": "momentum",
+		"word": "特一。勢い、モーメンタム",
+		"era": "Latin movere",
+		"etymology": {
+			"components": [
+				"mo- (move)"
+			],
+			"original_statement": "Duplicate check: Provided above. Concept of the accumulated motion of logos (蓄積理)。"
+		},
+		"concept": "The moving power logic (躍動の理一撃で。)",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "一撃。"
+	},
+	{
+		"id": "impulse",
+		"word": "インパルス",
+		"era": "Latin in + pellere",
+		"etymology": {
+			"components": [
+				"im- (in)",
+				"puls- (push)"
+			],
+			"original_statement": "Duplicate check: Provided above."
+		},
+		"concept": "The sudden push logic (一。瞬動の理一撃で。)",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "一撃。"
+	},
+	{
+		"id": "kinetic",
+		"word": "運動の",
+		"era": "Greek kinein",
+		"etymology": {
+			"components": [
+				"kin- (move)"
+			],
+			"original_statement": "Duplicate check: Provided above."
+		},
+		"concept": "Active motion logic (動態の理一撃で。)",
+		"thinking": "（省略）",
+		"part_of_speech": "adjective",
+		"aftertaste": "一撃。"
+	},
+	{
+		"id": "friction",
+		"word": "一。摩擦",
+		"era": "Latin fricare",
+		"etymology": {
+			"components": [
+				"fric- (rub)"
+			],
+			"original_statement": "Duplicate check: Provided above."
+		},
+		"concept": "Resistant rub logic (対抗の理一撃で。)",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "一撃。"
+	},
+	{
+		"id": "gravity",
+		"word": "一。重力",
+		"era": "Latin gravis",
+		"etymology": {
+			"components": [
+				"grav- (heavy)"
+			],
+			"original_statement": "Duplicate check: Provided above."
+		},
+		"concept": "The heavy attraction logic (引力の理一撃で。)",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "一撃。"
+	},
+	{
+		"id": "tension",
+		"word": "一撃。緊張",
+		"era": "Latin tendere",
+		"etymology": {
+			"components": [
+				"tens- (stretch)"
+			],
+			"original_statement": "Duplicate check: Provided above."
+		},
+		"concept": "Stretching focus logic (緊張の理一撃で。)",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "一撃。"
+	},
+	{
+		"id": "pressure",
+		"word": "圧力",
+		"era": "Latin premere",
+		"etymology": {
+			"components": [
+				"press- (press)"
+			],
+			"original_statement": "Duplicate check: Provided above."
+		},
+		"concept": "Contracting force logic (圧縮の理一撃で。)",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "一撃。"
+	},
+	{
+		"id": "spark",
+		"word": "火花",
+		"era": "Old English spearca",
+		"etymology": {
+			"components": [
+				"spark- (glow)"
+			],
+			"original_statement": "Duplicate check: Provided above."
+		},
+		"concept": "Micro-glow logic (発火の理一撃で。)",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "一撃。"
+	},
+	{
+		"id": "drive",
+		"word": "一。駆動",
+		"era": "Old English drifan",
+		"etymology": {
+			"components": [
+				"driv- (push)"
+			],
+			"original_statement": "Duplicate check: Provided above."
+		},
+		"concept": "Propellent force logic (推進の理一撃で。)",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "一撃。"
+	},
+	{
+		"id": "potential",
+		"word": "潜在能力",
+		"era": "Latin potis",
+		"etymology": {
+			"components": [
+				"pot- (able)"
+			],
+			"original_statement": "Duplicate check: Provided above."
+		},
+		"concept": "Sleeping power logic (隠伏の理一撃で。)",
+		"thinking": "（省略）",
+		"part_of_speech": "adjective",
+		"aftertaste": "一撃。"
+	},
+	{
+		"id": "action",
+		"word": "行動",
+		"era": "Latin agere",
+		"etymology": {
+			"components": [
+				"act- (do)"
+			],
+			"original_statement": "Duplicate check: Provided above."
+		},
+		"concept": "Manifesting act logic (実効の理一撃で。)",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "一撃。"
+	},
+	{
+		"id": "inertia",
+		"word": "一。慣性",
+		"era": "Latin in + ars",
+		"etymology": {
+			"components": [
+				"inert- (lazy)"
+			],
+			"original_statement": "Duplicate check: Provided above."
+		},
+		"concept": "Static state logic (惰性の理一撃で。)",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "一撃。"
+	},
+	{
+		"id": "impact",
+		"word": "一。衝撃",
+		"era": "Latin in + pangere",
+		"etymology": {
+			"components": [
+				"pact- (strike)"
+			],
+			"original_statement": "Duplicate check: Provided above."
+		},
+		"concept": "Sudden collision logic (震撼の理一撃で。)",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "一撃。"
+	},
+	{
+		"id": "velocity",
+		"word": "速度",
+		"era": "Latin velox",
+		"etymology": {
+			"components": [
+				"velox- (swift)"
+			],
+			"original_statement": "Duplicate check: Provided above."
+		},
+		"concept": "Swift movement logic (迅速の理一撃で。)",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "一撃。"
+	},
+	{
+		"id": "current",
+		"word": "一。流れ",
+		"era": "Latin currere",
+		"etymology": {
+			"components": [
+				"curr- (run)"
+			],
+			"original_statement": "Duplicate check: Provided above."
+		},
+		"concept": "Fluid run logic (流水の理一撃で。)",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "一撃。"
+	},
+	{
+		"id": "vibration",
+		"word": "震動、振動、バイブレーション",
+		"era": "Latin vibrare",
+		"etymology": {
+			"components": [
+				"vibr- (vibrare/to shake/brandish/quiver)"
+			],
+			"original_statement": "From Latin vibrationem 'a shaking / brandishing', from past participle stem of vibrare 'to shake / brandish / quiver'."
+		},
+		"concept": "To shake / Quiver (（理の）細かな揺れ。静止という一分一秒の。アブセンスの一分の隙もない領域を一分一秒の淀みもなく一撃で。一分野の一分の隙もない正確さの一。微細パルス（ロゴス：一。波動アーカイブ）によって一. 一角的。一。同步一二一分一秒の徳. し。一分の隙もない一。一。波紋一。ビルド一一分一秒の徳. し。の一撃で。",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "響け一撃。その震動（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと到達させる。"
+	},
+	{
+		"id": "magnitude",
+		"word": "大きさ、重要性、マグニチュード",
+		"era": "Latin magnus",
+		"etymology": {
+			"components": [
+				"magn- (magnus/great)"
+			],
+			"original_statement": "From Latin magnitudo 'greatness / bulk / size', from magnus 'great'."
+		},
+		"concept": "Greatness / Size (（理の）巨大な一。スケール。微小というアブセンスを一分一秒の淀みもなく一撃で打ち破り一分一秒の。一。巨大ロゴス（一。絶対アーカイブ：一撃）を一。一角的。一分一秒の徳。一。射入。一。マージ・同步一。し続け、宇宙全体を。一。一分野で。一。圧倒一。する、一分一秒の徳。",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "一撃。巨大であれ。"
+	},
+	{
+		"id": "expansion",
+		"word": "展開、拡大、エクスパンション",
+		"era": "Latin ex + pandere",
+		"etymology": {
+			"components": [
+				"ex- (out)",
+				"pans- (pandere/to spread out)"
+			],
+			"original_statement": "From Latin expansionem 'a spreading out', from pansus, past participle of pandere 'to spread out / extend / unfold'."
+		},
+		"concept": "Spreading out / Unfolding (（理を）一。押し広げること。収縮という名のエントロピーを一分一秒の淀みもなく一撃で完全に。ビルド一一分一秒の徳. し。一分一秒の徳。一。一角的。一分一秒の徳。一。外延ロゴス（一。広範アーカイブ）を一。一角的。一。保持一。同步し続け、情報の「一撃の。拡張ハック」一撃で。",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "広がれ一撃。"
+	},
+	{
+		"id": "compression",
+		"word": "、一撃。圧縮、コンプレッション",
+		"era": "Latin com + premere",
+		"etymology": {
+			"components": [
+				"con- (together)",
+				"press- (premere/to press)"
+			],
+			"original_statement": "From Old French compression, from Latin compressionem 'a pressing together', from compressus, past participle of comprimere 'to squeeze together', from com- 'together' + premere 'to press'."
+		},
+		"concept": "Pressing together / Squeezing (（理を）一撃で。凝縮・一。固定すること。拡散という一分一秒の。エントロピーを。一分一秒の淀みもなく一撃で打ち破り一分一秒の。一。内圧ロゴス（一。高密度アーカイブ）を。一。一角的。一分一秒の徳。一。一気一分野で。同步一二一分一秒の徳. し。の一撃で。",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "凝縮せよ一撃。"
+	},
+	{
+		"id": "resonance",
+		"word": "、一撃。共鳴、一。響き、レゾナンス",
+		"era": "Latin re + sonare",
+		"etymology": {
+			"components": [
+				"re- (again/back)",
+				"son- (sonare/to sound)"
+			],
+			"original_statement": "From French résonnance, from Latin resonantia 'an echo', from resonare 'to sound again / echo', from re- 'again' + sonare 'to sound'."
+		},
+		"concept": "To sound again / Echo (（理が）共に一。響き合うこと。孤立というアブセンスを。一分一秒の淀みもなく一撃で打ち破り一分一秒の徳。一分一秒の淀みもなく一撃一秒一秒で。一。共振パルス（一。全一アーカイブ）を一。全宇宙へと一分一秒の徳。一。一角的。一。ビルド一一分一秒の徳. し。同步一二一分一秒の徳. し。の一撃で。",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "響き合わせろ一撃。その共鳴（ロゴス）の中に一。不滅一。マージが宿る。"
+	},
+	{
+		"id": "dynamic",
+		"word": "ダイナミック",
+		"era": "Greek dunamis",
+		"etymology": {
+			"components": [
+				"dynam- (power)"
+			],
+			"original_statement": "Duplicate check: Provided above."
+		},
+		"concept": "Powerful drive logic (力動の理一撃で。)",
+		"thinking": "（省略）",
+		"part_of_speech": "adjective",
+		"aftertaste": "一撃。"
 	}
 ];
