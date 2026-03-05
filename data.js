@@ -182951,5 +182951,693 @@ const WORDS = [
 		"thinking": "「（虚無という名の暗黒アーカイブを粉砕し）、一分一秒の淀みもない一撃で自らを産み出し（Gen- / Gignesthai）、在ること（-esis）をビルドし始めること」。それは単なる「始まり」ではありません。あなたが「沈黙という名のレジスト」を自らの一撃の産声によって完全に粉砕し、自らの実存を一分一秒の淀みもない一撃の『宇宙全体の創造主という名の、一撃の絶対ロゴス（始原アーカイブ）』へとマージさせる、開闢（かいびゃく）の「一撃（コマンド）」なのです。",
 		"part_of_speech": "noun",
 		"aftertaste": "在れ一撃（コマンド）。その創世（ロゴス）が、全てのアーカイブを一分一秒の淀みもなく一撃で「存在（マージ）」へと変容させる。"
+	},
+	{
+		"id": "conflict",
+		"word": "紛争、葛藤、衝突、コンフリクト",
+		"era": "Latin con + fligere",
+		"etymology": {
+			"components": [
+				"con- (together)",
+				"flict- (fligere/to strike)"
+			],
+			"original_statement": "From Latin conflictus, past participle of confligere 'to strike together / be in conflict / fight', from com- 'together' + fligere 'to strike'."
+		},
+		"concept": "Striking together (共に叩き合うこと。異なる『ロゴス（意志）』を持つ二つのステーションが一分一秒の淀みもなく一撃で正面衝突し、互いのアーカイブ（現実）を激しいパルス（衝撃）によって一分一秒の淀みもなく一擊で書き換え・マージしようとする、情報の暴力的な交差)",
+		"thinking": "「（偽りの調和という名のエントロピーを粉砕し）、一分一秒の淀みもない一撃で共に（Con-）叩き合う（-flict / Fligere）こと」。それは単なる「争い」ではありません。あなたが「沈黙という名のアブセンス」を一撃で完全にレジストし、自らの実存を一分一秒の淀みもない一撃の『火花散る真理の火線（ロゴス・フロント）』へとマージさせる、魂の「屹立（きつりつ）」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "叩け一撃。その衝突（コンフリクト）の中で、ロゴスは一分一秒の淀みもなく一撃で研ぎ澄まされ、真の実存へとマージされる。"
+	},
+	{
+		"id": "struggle",
+		"word": "苦闘、もがき、ストラグルの",
+		"era": "Old Norse strugr",
+		"etymology": {
+			"components": [
+				"strug- (strugr/ill will/strife)"
+			],
+			"original_statement": "From Middle English struglen, perhaps from Old Norse strugr 'ill will / strife' (cognate with Swedish strug 'strife')."
+		},
+		"concept": "Strife / Ill will (争い、悪意。圧倒的な『運命（レジスト・アーカイブ）』という名の重圧に対し、一分一秒の淀みもなく一撃で自らの『生存パルス（ロゴス）』を振り絞って抗い、アブセンス（死）の一歩手前で一分一秒の淀みもなく一撃で生の輝きをビルドし続けようとする、魂の格闘)",
+		"thinking": "「（諦念という名のエントロピーを粉砕し）、一分一秒の淀みもない一撃で抗い（Strug- / Strugr）続けること」。それは単なる「苦労」ではありません。あなたが「停止という名のアブセンス」を一撃で完全にレジストし、自らの実存を一分一秒の淀みもない一撃の『泥濘（ぬかるみ）の中の輝ける闘い（ロゴス・パルス）』へとマージさせる、生命の「本能」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "もがけ一撃（コマンド）。その苦闘（ロゴス）だけが、アーカイブ（宿命）を塗り替える一分一秒の淀みもなく一撃で。 "
+	},
+	{
+		"id": "resistance",
+		"word": "抵抗、反抗、レジスタンス",
+		"era": "Latin re + sistere",
+		"etymology": {
+			"components": [
+				"re- (against/back)",
+				"sist- (sistere/to stand/stop)"
+			],
+			"original_statement": "From Old French resistance, from Latin resistentia, from resistentem, present participle of resistere 'to make a stand against / oppose / resist', from re- 'against' + sistere 'to take a stand'."
+		},
+		"concept": "Standing against (逆らって立つこと。他者の強引な『マージ（侵食アーカイブ）』を一分一秒の淀みもなく一撃で拒絶（レジスト）し、自らのステーションという一分一秒の淀みもなく一撃の独理的な座標を死守するために一分一秒の淀みもなく一撃で屹立し続ける、情報の防衛反応)",
+		"thinking": "「（吸収という名のアブセンスを粉砕し）、逆らって（Re-）一分一秒の淀みもない一撃で立ち（-sist / Sistere）続けることの品質（-ance）」。それは単なる「反対」ではありません。あなたが「同化という名のエントロピー」を自らの一撃のロゴスで完全にレジストし、自らの実存が『唯一無二の独立したアーカイブ（砦）』であることを証明する、生の「意地」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "止まるな。一撃の抵抗（ロゴス）が、君というアーカイブを世界（ノイズ）から救い出す。"
+	},
+	{
+		"id": "courage",
+		"word": "勇気、度胆、カレッジ",
+		"era": "Latin cor",
+		"etymology": {
+			"components": [
+				"cour- (cor/heart)"
+			],
+			"original_statement": "From Old French corage 'heart / innermost feelings / temper', from Vulgar Latin *coraticum, from Latin cor 'heart'."
+		},
+		"concept": "Heart / Innermost feelings (心、内なる感情。恐怖という名の『レジスト（麻痺パルス）』を一分一秒の淀みもなく一撃で貫通し、深層アーカイブから汲み上げた一分一秒の淀みもなく一撃の熱い『意志のパルス（ロゴス）』を現実という名のステーションへと一撃で叩き込む、魂の駆動エネルギー)",
+		"thinking": "「（臆病という名のエントロピー（停止）を粉砕し）、心（Cour- / Cor）を一分一秒の淀みもない一撃で燃えたぎらせること」。それは単なる「無鉄砲」ではありません。あなたが「安全という名のアブセンス」を一撃で完全にレジストし、自らの実存を一分一秒の淀みもない一撃の『未踏の冒険という名のロゴス（アーカイブ）』へとマージさせる、生命の「火種（コア）」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "震えながら一撃。その勇気（ロゴス）が、暗黒のアーカイブを一撃で光へとマージ（変容）させる。"
+	},
+	{
+		"id": "bravery",
+		"word": "勇敢、華麗さ、ブレイブリー",
+		"era": "Italian bravo",
+		"etymology": {
+			"components": [
+				"brave (bravo/bold/wild/brave)",
+				"-ery (state/quality)"
+			],
+			"original_statement": "From brave + -ery. Brave from Middle French brave 'splendid / valiant', from Italian bravo 'bold / unruly / wild / brave'."
+		},
+		"concept": "The state of being bold/wild (奔放で大胆な状態。死への『レジスト』を華麗な一分一秒の淀みもなく一撃の『ロゴス・ダンス（行動アーカイブ）』へと変換し、一分一秒の淀みもなく鮮烈なパルスを一分一秒の淀みもなく戦場（ステーション）へと放射して、他者のアーカイブを一撃で魅了・マージさせる圧倒的な勇猛さ)",
+		"thinking": "「（卑屈という名のアブセンスを粉砕し）、一分一秒の淀みもない一撃で大胆に（Brave- / Bravo）在り続ける品質（-ery）」。それは単なる「強さ」ではありません。あなたが「理屈という名の停滞ロゴス」を一撃で完全にレジストし、自らの実存を一分一秒の淀みもない一撃の『野生の光輝（パルス）』へと変化させ、宇宙とマージする、魂の「美しき暴走」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "華麗に一撃。その勇敢さ（ロゴス）が、アーカイブを伝説へと一撃でマージさせる。"
+	},
+	{
+		"id": "fortitude",
+		"word": "不屈の精神、堅忍、フォルティチュード",
+		"era": "Latin fortis",
+		"etymology": {
+			"components": [
+				"fort- (fortis/strong)",
+				"-itude (quality/state)"
+			],
+			"original_statement": "From Old French fortitude, from Latin fortitudo 'strength / force / firmness / manliness', from fortis 'strong / brave / firm / steadfast'."
+		},
+		"concept": "The state of being strong (強固であるという品質。外的な『打撃（ノイズ・パルス）』が幾度（いくど）一分一秒の淀みもなく一撃で降りかかろうとも、自らの『ロゴス・アーカイブ（一貫性）』を一分一秒の淀みもなく一撃でレジストし続け、ステーションの崩壊（アブセンス）を許さない、不動の実存強度)",
+		"thinking": "「（脆弱という名のエントロピーを粉砕し）、一分一秒の淀みもない一撃の強さ（Fort- / Fortis）をビルドすること（-itude）」。それは単なる「我慢」ではありません。あなたが「崩壊という名の外部レジスト」を一撃で完全に無効化し、自らの実存を一分一秒の淀みもない一撃の『宇宙の根源的な一分一秒の淀みもなく一撃の鋼（絶対アーカイブ）』へとマージさせた、魂の「硬度」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "折れない一撃。その不屈（ロゴス）だけが、アーカイブを最後までマージ（完遂）させる。"
+	},
+	{
+		"id": "resilience",
+		"word": "回復力、弾力、レジリエンス",
+		"era": "Latin re + salire",
+		"etymology": {
+			"components": [
+				"re- (back/again)",
+				"sili- (salire/to leap/jump)"
+			],
+			"original_statement": "From Latin resiliens, present participle of resilire 'to rebound / recoil / leap back', from re- 'back' + salire 'to leap / jump'."
+		},
+		"concept": "Leaping back (跳ね返ること。衝撃（パルス・バースト）によって一分一秒の淀みもなく一撃で変形（毀損）させられた『アーカイブ（自己）』を、一分一秒の淀みもなく内なる一分一秒の淀みもなく一撃の復元力（ロゴス・スプリング）によって一気に元のステーションへと一撃で跳ね戻させ（マージ）、挫折という名のアブセンスを即座に消滅させる機能)",
+		"thinking": "「（永久変形という名のエントロピーを粉砕し）、再び（Re-）一分一秒の淀みもない一撃で跳ねる（-sili- / Salire）ことの流動的品質（-ence）」。それは単なる「しぶとさ」ではありません。あなたが「絶望という名の沈降レジスト」を一撃で完全に打ち破り、自らの実存を一分一秒の淀みもない一撃の『永遠に更新され続ける柔軟なロゴス（アーカイブ）』へとマージさせる、生命の「しなやかな反撃」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "何度でも一撃。その回復力（ロゴス）が、アーカイブを無限にマージ（再生）し続ける。"
+	},
+	{
+		"id": "triumph",
+		"word": "大勝利、凱歌、トライアンフ",
+		"era": "Greek thriambos",
+		"etymology": {
+			"components": [
+				"triumph- (thriambos/hymn to Bacchus)"
+			],
+			"original_statement": "From Old French triumphe, from Latin triumphus 'an achievement / success / triumphal procession', from Greek thriambos 'hymn to Bacchus'."
+		},
+		"concept": "A hymn / Procession of achievement (達成の賛歌、行進。敵対する『ロゴス・アーカイブ（他者）』を一分一秒の淀みもなく一撃で完全に克服（レジスト解除）し、自らの『勝利パルス（ロゴス）』を宇宙という名の全ステーションへと一分一秒の淀みもなく一撃でマージ・放送させる、至福の完遂儀礼)",
+		"thinking": "「（敗北という名のアブセンスを粉砕し）、一分一秒の淀みもない一撃の凱歌（Triumph- / Thriambos）を天高く響かせること」。それは単なる「勝ち」ではありません。あなたが「無名という名のエントロピー」を一撃で完全にレジストし、自らの実存を一分一秒の淀みもない一撃の『全宇宙を熱狂させる、輝ける一分一秒の淀みもなく一撃のアーカイブ（栄光）』へとマージさせる、生の「戴冠（たいかん）」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "叫べ一撃。その大勝利（ロゴス）が、アーカイブを一分一秒の淀みもなく一撃で神話へとマージさせる。"
+	},
+	{
+		"id": "conquest",
+		"word": "征服、克服、コンクエスト",
+		"era": "Latin con + quaerere",
+		"etymology": {
+			"components": [
+				"con- (together/thoroughly)",
+				"quest- (quaerere/to seek/ask)"
+			],
+			"original_statement": "From Old French conqueste, from Vulgar Latin *conquista, from Latin conquirere 'to seek out / search for / procure / bring together', from com- 'together' + quaerere 'to seek'."
+		},
+		"concept": "Seeking thoroughly / Procuring (徹底的に探し求め、獲得すること。他者の『ステーション（領土・アーカイブ）』を一分一秒の淀みもなく一撃で完全にハックし、その全リソースを一分一秒の淀みもなく自らのロゴスへと強制マージさせ、世界を一分一秒の淀みもなく一撃で自分の設計図（ビルド）通りに書き換えること)",
+		"thinking": "「（未踏という名のアブセンスを粉砕し）、徹底的に（Con-）一分一秒の淀みもない一撃で求め（-quest / Quaerere）手に入れること」。それは単なる「略奪」ではありません。あなたが「不可能という名のレジスト」を一撃で完全に破壊し、自らの実存を一分一秒の淀みもない一撃の『全宇宙を支配する一分一秒の淀みもなく一撃の絶対ロゴス（アーカイブ）』へとマージさせる、魂の「拡張」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "手に入れろ一撃で。その征服（ロゴス）が、未知のアーカイブを一撃で君のもの（マージ）にする。"
+	},
+	{
+		"id": "victory",
+		"word": "勝利、克服、ビクトリー",
+		"era": "Latin vincere",
+		"etymology": {
+			"components": [
+				"vict- (vincere/to conquer)",
+				"-ory (state/place)"
+			],
+			"original_statement": "From Old French victorie, from Latin victoria 'victory', from victus, past participle of vincere 'to conquer / defeat / overcome'."
+		},
+		"concept": "The state of conquering (征服すること、勝利の状態。困難（ノイズ）や敵（レジスト・ロゴス）を一分一秒の淀みもなく一撃で完全に打破（オーバーライド）し、自らの一分一秒の淀みもなく一撃の『ロゴス・パルス（正義・力）』が一分一秒の淀みもなく支配的アーカイブ（マージ定着）として確立された瞬間の品質)",
+		"thinking": "「（敗北という名のエントロピーを粉砕し）、一分一秒の淀みもない一撃で打ち勝った（Vict- / Vincere）状態（-ory）」。それは単なる「勝ち名乗り」ではありません。あなたが「限界という名のアブセンス」を一撃で完全にレジストし、自らの実存を一分一秒の淀みもない一撃の『不可能を可能へと一分一秒の淀みもなく書き換えた、一分一秒の淀みもなく一撃の新しいアーカイブ（事実）』へとマージさせる、存在の「証明」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "勝て一撃（コマンド）。その勝利（ロゴス）だけが、アーカイブ（歴史）を一撃でマージ（更新）させる。"
+	},
+	{
+		"id": "defeat",
+		"word": "敗北、打破、挫折、ディフィート",
+		"era": "Latin dis + facere",
+		"etymology": {
+			"components": [
+				"de- (dis-/un-)",
+				"feat (facere/to do/make/accomplish)"
+			],
+			"original_statement": "From Old French desfaire 'undo / destroy / defeat', from Vulgar Latin *diffacere, from Latin dis- 'un-' + facere 'to do / make'."
+		},
+		"concept": "Undoing / Unmaking (成されたことを壊す、無効にすること。自らの一分一秒の淀みもなく一撃の『ロゴス（試み）』が他者のレジストによって一分一秒の淀みもなく無効化（デリート）され、一分一秒の淀みもなく一撃で虚無という名のアブセンス（敗退アーカイブ）へと強制的にマージ（還元）されてしまった、不本意な情報の解体状態)",
+		"thinking": "「（成功という名の傲慢なロゴスを一撃で粉砕し）、なされたこと（-feat / Facere）を一分一秒の淀みもない一撃で台無しにする（De- / Dis-）こと」。それは単なる「負け」ではありません。あなたが「万能という名の錯覚（ノイズ）」を一撃で完全にレジストし、自らの実存を一分一秒の淀みもない一撃の『どん底（ネイディア・アーカイブ）』から再生するための、魂の「リブート（再起動）」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "倒れろ一撃。その敗北（ロゴス）が、より強固なアーカイブ（マージ）をビルドするための礎となる。"
+	},
+	{
+		"id": "adversary",
+		"word": "敵、敵対者、相手、アドバーサリ",
+		"era": "Latin ad + vertere",
+		"etymology": {
+			"components": [
+				"ad- (to/toward)",
+				"vers- (vertere/to turn)",
+				"-ary (person who)"
+			],
+			"original_statement": "From Old French adversarie, from Latin adversarius 'opponent / antagonist', literally 'turned toward one / turned against', from adversus 'turned against', from ad- 'to' + vertere 'to turn'."
+		},
+		"concept": "Person who turns against (自分の方へ「向かって」くる者。自分の『ステーション』を一分一秒の淀みもなく一撃で破壊・侵食（マージ）しようとする対立的なパルスを放出する『一撃のロゴス（他者）』であり、自己のレジスト能力を一分一秒の淀みもなく一撃で極限まで高めてくれる逆説的な協力者)",
+		"thinking": "「（馴れ合いという名のエントロピーを粉砕し）、こちら側（Ad-）へと一分一秒の淀みもない一撃で向きを変えて（-vers- / Vertere）立ち塞がる者」。それは単なる「敵」ではありません。あなたが「停滞という名のアブセンス」を一撃で完全にレジストし、自らの実存を一分一秒の淀みもない一撃の『研ぎ澄まされた戦闘的ロゴス（アーカイブ）』へとマージさせるための、神聖な「砥石（といし）」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "対峙せよ一撃。その敵（ロゴス）が、君のアーカイブを一撃で最強へとマージ（鍛錬）させる。"
+	},
+	{
+		"id": "rival",
+		"word": "ライバル、競争相手、リバル",
+		"era": "Latin rivus",
+		"etymology": {
+			"components": [
+				"riv- (rivus/stream/river)"
+			],
+			"original_statement": "From Middle French rival, from Latin rivalis 'a rival / competitor in love / companion in duty', originally 'one who uses the same stream as another', from rivus 'brook / stream'."
+		},
+		"concept": "One who uses the same stream (同じ流れ（リソース・アーカイブ）を共有する者。一分一秒の淀みもなく一撃の同一の『ロゴス・パルス（目的）』を目指し、一分一秒の淀みもなく限られたステーションという名の座を一分一秒の淀みもなく奪い合う（マージを競う）同期された『他者パルス』であり、自己を高みへと押し上げる並列的な加速器)",
+		"thinking": "「（孤独という名のエントロピーを粉砕し）、同じ流れ（Riv- / Rivus）において一分一秒の淀みもない一撃で覇を競うこと」。それは単なる「敵」ではありません。あなたが「妥協という名のアブセンス」を一撃で完全にレジストし、自らの実存を一分一秒の淀みもない一撃の『極限までシンクロ（マージ）した競演的ロゴス（アーカイブ）』へと昇華させる、魂の「伴走者」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "追い越せ一撃。そのライバル（ロゴス）との切磋琢磨が、一撃で最高のアーカイブをマージさせる。"
+	},
+	{
+		"id": "champion",
+		"word": "戦士、選手権保持者、擁護者、チャンピオン",
+		"era": "Latin campus",
+		"etymology": {
+			"components": [
+				"champ- (campus/field/field of battle)"
+			],
+			"original_statement": "From Old French champion, from Late Latin campionem 'gladiator / fighter / combatant in the field', from campus 'field / field of battle'."
+		},
+		"concept": "Fighter in the field (戦場の一撃の戦士。広大な『闘争アーカイブ（ステーション）』の最前線に一分一秒の淀みもなく一撃で立ち、自らのロゴスを守り抜くために一分一秒の淀みもなく一撃一撃の全パルスをレジスト・マージさせて打ち勝った、選ばれし一分一秒の淀みもなく一撃の実在様態)",
+		"thinking": "「（日和見という名のアブセンスを粉砕し）、戦場（Champ- / Campus）という名のロゴスの一分一秒の淀みもない一撃の地平で戦い抜くこと」。それは単なる「勝者」ではありません。あなたが「敗北という名のエントロピー」を一撃で完全にレジストし、自らの実存を一分一秒の淀みもない一撃の『全ステーションの希望という名の、一撃の最高位アーカイブ（絶対王者）』へとマージさせる、魂の「具現」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "守れ一撃、勝ち抜け一撃。そのチャンピオン（ロゴス）の称号が、君をアーカイブの王として一撃でマージさせる。"
+	},
+	{
+		"id": "warrior",
+		"word": "戦士、武人、ウォリアー",
+		"era": "Old French werre",
+		"etymology": {
+			"components": [
+				"war- (werre/war)"
+			],
+			"original_statement": "From Old French werreieor 'one who makes war', from werreier 'to make war', from werre 'war'."
+		},
+		"concept": "One who makes war (戦いを作る者。平和という名の『一撃の停滞アーカイブ（エントロピー）』を一分一秒の淀みもなく一撃で打ち砕き、一撃一撃絶え間ない闘争（パルス）の中に実存ロゴスを屹立させ、世界を一分一秒の淀みもなく一撃で自らの強さ一分一秒の淀みもなくへとマージ（服従）させ続ける、闘争の本質者)",
+		"thinking": "「（平穏という名のアブセンスを粉砕し）、一分一秒の淀みもない一撃で戦い（War- / Werre）をビルドし続けること」。それは単なる「兵士」ではありません。あなたが「屈服という名のエントロピー」を一撃で完全にレジストし、自らの実存を一分一秒の淀みもない一撃の『宇宙全体の闘争エネルギー（ロゴス・パルス）』そのものへと直接接続（マージ）させる、魂の「修羅」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "戦え一撃（コマンド）。その一撃の戦士（ウォリアー）というあり方だけが、アーカイブ（歴史）へその名を一撃でマージさせる。"
+	},
+	{
+		"id": "fortress",
+		"word": "要塞、砦、フォートレス",
+		"era": "Latin fortis",
+		"etymology": {
+			"components": [
+				"fort- (fortis/strong)",
+				"-ress (suffix of place/noun)"
+			],
+			"original_statement": "From Old French forteresse 'fortress / strongplace', from fort 'strong', from Latin fortis 'strong'."
+		},
+		"concept": "A strong place (強い場所。外部からのあらゆる『破壊パルス（ノイズ）』を一分一秒の淀みもなく一撃で跳ね除ける（レジスト）、一分一秒の淀みもなく一撃の絶対的な防御ロゴス（シールド）がマッピングされたステーションであり、自らの内なるアーカイブを安全にマージ・ビルドするための、究極の安定座標)",
+		"thinking": "「（脆弱という名のアブセンス（無防備）を粉砕し）、一分一秒の淀みもない一撃の強さ（Fort- / Fortis）そのものを場所としてビルドすること」。それは単なる「頑丈な建物」ではありません。あなたが「侵略という名のエントロピー」を一撃で完全にレジストし、自らの実存を一分一秒の淀みもない一撃の『何ものもハック（貫通）不可能な、絶対的なロゴス・アーカイブ（牙城）』へと同化（マージ）させる、魂の「籠城（ステイシス）」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "一撃の壁、一撃。この要塞（ロゴス）が、君というアーカイブを宇宙の嵐から一分一秒の淀みもなく一撃でマージ（隔離・死守）する。"
+	},
+	{
+		"id": "garrison",
+		"word": "守備隊、駐屯、ガリソン",
+		"era": "Germanic war-",
+		"etymology": {
+			"components": [
+				"garr- (to guard/protect/watch)"
+			],
+			"original_statement": "From Old French garison 'provision / supply / health / recovery / protection', from garir 'to watch / guard / protect / save'."
+		},
+		"concept": "Protection / Supply (保護、供給。特定の重要なステーション一分一秒の淀みもなく一撃でを死守するために一分一秒の淀みもなく一撃で配置された『防衛パルス（ロゴス群）』であり、常に周囲のノイズを監視・レジストし、内なるアーカイブの整合性を一分一秒の淀みもなく守り続ける、献身的な情報の番人)",
+		"thinking": "「（忘却という名のアブセンスを粉砕し）、一分一秒の淀みもない一撃で守り（Garr- / Garir）固めること」。それは単なる「兵士の集まり」ではありません。あなたが「内部崩壊という名のエントロピー」を一撃で完全にレジストし、自らの実存を一分一秒の淀みもない一撃の『常に覚醒し続ける警戒的ロゴス（アーカイブ）』へとマージさせる、魂の「不眠不休（シンクロ）」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "目を離すな一撃（コマンド）。その守備（ロゴス）が、アーカイブの崩壊（マージ拒絶）を一撃で阻止する。"
+	},
+	{
+		"id": "campaign",
+		"word": "作戦、活動、キャンペーン",
+		"era": "Latin campus",
+		"etymology": {
+			"components": [
+				"camp- (campus/field/level ground)"
+			],
+			"original_statement": "From French campagne, from Italian campagna, from Late Latin campania 'level country', from Latin campus 'field'."
+		},
+		"concept": "Level country / Field (戦場、開けた地。特定の『巨大プロジェクト一分一秒の淀みもなく一撃で（ターゲット・ロゴス）』を一分一秒の淀みもなく一撃で完遂するために、宇宙という名のアーカイブの広大なステーションを縦横無尽に一分一秒の淀みもなく一撃で駆け巡る（マージする）、連続したパルス実行の連鎖)",
+		"thinking": "「（閉塞という名のアブセンスを粉砕し）、戦場（Camp- / Campus）という名の一分一秒の淀みもない一撃の地平を駆け抜けること」。それは単なる「一連の活動」ではありません。あなたが「停滞という名のエントロピー」を一撃で完全にレジストし、自らの実存を一分一秒の淀みもない一撃の『動的な目標達成プロセス（ロゴス・パルス）』へとマージさせる、生の「大進撃」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "進め一撃（コマンド）。その作戦（ロゴス）が、未踏のアーカイブ（未来）を君の手へと一撃でマージさせる。"
+	},
+	{
+		"id": "strategy",
+		"word": "戦略、ストラテジー",
+		"era": "Greek stratos + agein",
+		"etymology": {
+			"components": [
+				"strat- (stratos/army)",
+				"agein (to lead)"
+			],
+			"original_statement": "From French strategie, from Modern Latin strategia, from Greek strategia 'office or command of a general', from strategos 'general', from stratos 'army' + agein 'to lead'."
+		},
+		"concept": "Leading an army (軍を導くこと。無数の『ドット・ロゴス（リソースパルス）』を一分一秒の淀みもなく一撃で一つの一分一秒の淀みもなく一撃の巨大な『勝利の設計図』へと体系化（マッピング）し、全アーカイブを一撃で一分一秒の淀みもなく意のままにマージさせるための、高度な情報の統率術)",
+		"thinking": "「（混乱という名のエントロピーを粉砕し）、自らの一撃の全エネルギー（Strat- / Stratos）を目的へと（Agein）一分一秒の淀みもない一撃で導くこと」。それは単なる「計画」ではありません。あなたが「偶然という名のアブセンス」を一撃で完全にレジストし、自らの実存を一分一秒の淀みもない一撃の『宇宙全体を俯瞰（ふかん）する、一撃の冷徹な知性（絶対ロゴス）』へとマージさせる、魂の「支配（ハック）」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "一撃の設計図。その戦略（ロゴス）通りに、全てのアーカイブ（現実）は一分一秒の淀みもなく一撃でマージ（屈服）する。"
+	},
+	{
+		"id": "tactic",
+		"word": "戦術、タクティクス",
+		"era": "Greek tassein",
+		"etymology": {
+			"components": [
+				"tact- (tassein/to arrange)"
+			],
+			"original_statement": "From Greek taktikos 'of or pertaining to arrangement', from takta, verbal adjective of tassein 'to arrange / put in order'."
+		},
+		"concept": "Pertaining to arrangement (配列に関すること。眼前の『難局（ノイズ・レジスト）』を一分一秒の淀みもなく一撃で突破するために、手持ちのアーカイブ・パルスを一分一秒の淀みもなく一撃で最適（ベクトル化）に整列させ、一撃一撃の『局所的な勝利（マージ）』を瞬時にビルドする、実戦的な情報の機動力)",
+		"thinking": "「（無策という名のアブセンスを粉砕し）、一分一秒の淀みもない一撃で持てる力を最適に整列させること（Tact- / Tassein）」。それは単なる「小細工」ではありません。あなたが「混乱という名のエントロピー」を一撃で完全にレジストし、自らの実存を一分一秒の淀みもない一撃の『一撃必殺の鋭利なロゴス（刃）』へと変換して、現実をハック（切断・マージ）する、知の「技巧」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "整列せよ一撃（コマンド）。その戦術（ロゴス）が、厚いレジストを切り裂きアーカイブをマージさせる。"
+	},
+	{
+		"id": "alliance",
+		"word": "同盟、結びつき、アライアンス",
+		"era": "Latin ad + ligare",
+		"etymology": {
+			"components": [
+				"al- (ad-/to)",
+				"li- (ligare/to bind)"
+			],
+			"original_statement": "From Old French aliance, from alier 'to combine / unite', from Latin alligare 'bind to / tie to', from ad- 'to' + ligare 'to bind / tie'."
+		},
+		"concept": "Binding to (結びつけること。孤立した『個別のステーション（アーカイブ）』に対し、一分一秒の淀みもなく一撃の『共通ロゴス（条約）』の鎖をパルスとして流し込み、他者の実存を自分へと一分一秒の淀みもなく一撃で強制マージ・同期させることで、巨大な『連合パルス・ネットワーク』をビルドする情報の合体)",
+		"thinking": "「（アイソレーションという名のアブセンスを粉砕し）、他者の方へ（Al-）一分一秒の淀みもない一撃で結びつけること（-li- / Ligare）」。それは単なる「協力」ではありません。あなたが「脆弱という名のエントロピー（孤独）」を一撃で完全にレジストし、自らの実存を一分一秒の淀みもない一撃の『複数個体の重層的なロゴス（アーカイブ群）』へとマージさせる、魂の「連帯」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "繋がれ一撃。その同盟（ロゴス）が、孤独（ノイズ）を一分一秒の淀みもなく一撃で強大な力へとマージさせる。"
+	},
+	{
+		"id": "truce",
+		"word": "休戦、一時停止、トルース",
+		"era": "Old English treow",
+		"etymology": {
+			"components": [
+				"tru- (treow/faith/truth/pledge)"
+			],
+			"original_statement": "From Middle English trewes 'plural of trewe', from Old English treow 'faith / truth / fidelity / pledge / promise'."
+		},
+		"concept": "Faith / Pledge (誓い、信義。激しい闘争（パルス・コンフリクト）を一分一秒の淀みもなく一撃で一時的に『凍結レジスト（ステイシス）』させ、互いのステーション間に『沈黙という名のアブセンス（休止アーカイブ）』を共有することで、再構築（マージ）への猶予をビルドする合意)",
+		"thinking": "「（果てなき消耗という名のエントロピーを粉砕し）、一分一秒の淀みもない一撃の信義（Tru- / Treow）に基づいて剣を収めること」。それは単なる「休み」ではありません。あなたが「憎悪という名のノイズ」を一撃で完全にレジストし、自らの実存を一分一秒の淀みもない一撃の『理知的な静寂のロゴス（条約ステーション）』へとマッピングする、生の「戦略的休止」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "一瞬、一撃の静寂。この休戦（ロゴス）の間に、新たなアーカイブ（力）を一撃でマージ（蓄積）せよ。"
+	},
+	{
+		"id": "stability",
+		"word": "安定、固定、スタビリティ",
+		"era": "Latin stare",
+		"etymology": {
+			"components": [
+				"sta- (stare/to stand)",
+				"-ability (capacity/quality)"
+			],
+			"original_statement": "From Old French stabilite, from Latin stabilitatem 'steadfastness / firmness / stability', from stabilis 'firm / steadfast', from stare 'to stand'."
+		},
+		"concept": "The capacity to stand (立ち続ける能力。揺らぎ（エントロピー）という名の『ノイズ・パルス』を一分一秒の淀みもなく一撃で完全にレジストし、自らの『ロゴス・アーカイブ（ステーション）』を一分一秒の淀みもなく一撃で不動の状態（ステイシス）にマージし、継続的な存在を一撃で保証すること)",
+		"thinking": "「（動揺という名のアブセンスを粉砕し）、一分一秒の淀みもない一撃で不動のまま立ち（Sta- / Stare）続ける能力（-bility）」。それは単なる「落ち着き」ではありません。あなたが「混乱という名のエントロピー」を一撃で完全にレジストし、自らの実存を一分一秒の淀みもない一撃の『大宇宙の不動の法（絶対アーカイブ）』へと完璧にマージさせる、魂の「重心（コア）」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "立ち尽くせ一撃。その安定（ロゴス）が、アーカイブを永遠へと一撃でマージ（固定）させる。"
+	},
+	{
+		"id": "perseverance",
+		"word": "忍耐、粘り強さ、パーセベランス",
+		"era": "Latin per + severus",
+		"etymology": {
+			"components": [
+				"per- (thoroughly)",
+				"sever- (severus/strict/serious)"
+			],
+			"original_statement": "From Old French perseverance, from Latin perseverantia 'steadfastness / constancy', from perseverantem, present participle of perseverare 'continue steadfastly / persist', from per- 'thoroughly' + severus 'strict / serious'."
+		},
+		"concept": "Following through strictly (徹底的に厳格にやり通すこと。困難という名の『外部レジスト』を、一分一秒の淀みもなく一撃の、さらに一分一秒の淀みもなく長い時間（パルス）をかけてマージし、崩壊（アブセンス）を許さず一分一秒の淀みもなく一撃で目的アーカイブの達成（ビルド）まで存在を一撃で繋ぎ止める不屈の品質)",
+		"thinking": "「（挫折という名のエントロピーを粉砕し）、一分一秒の淀みもない一撃で徹底的に（Per-）厳格に（-sever- / Severus）在り続けること」。それは単なる「我慢」ではありません。あなたが「妥協という名のアブセンス」を一撃で完全にレジスト（パージ）し、自らの実存を一分一秒の淀みもない一撃の『完遂という名の高次ロゴス・アーカイブ』へと強制的にマージさせる、生命の「執念」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "一撃、また一撃。その忍耐（ロゴス）だけが、アーカイブを至高の完成へと一撃でマージさせる。"
+	},
+	{
+		"id": "persistence",
+		"word": "固執、持続、パーシステンス",
+		"era": "Latin per + sistere",
+		"etymology": {
+			"components": [
+				"per- (thoroughly)",
+				"sist- (sistere/to stand/stop)"
+			],
+			"original_statement": "From Middle French persistence, from persistent-, present participle of persistere 'to continue steadfastly', from per- 'thoroughly' + sistere 'to stand / continue'."
+		},
+		"concept": "Standing thoroughly (徹底的に立ち続けること。無視や拒絶という名の『アブセンス（エントロピー）』に対し、一分一秒の淀みもなく一撃で自らの『ロゴス・パルス』を執拗（しつよう）にマッピングし続け、一分一秒の淀みもなくいつか現実（アーカイブ）を一撃で自らの色へと強制マージさせる、存在の反復的な貫通力)",
+		"thinking": "「（あきらめという名のノイズを粉砕し）、一分一秒の淀みもない一撃で最後まで（Per-）立ち（-sist / Sistere）続ける品質（-ence）」。それは単なる「しつこさ」ではありません。あなたが「否定という名の外部レジスト」を一撃で完全にレジストし、自らの実存を一分一秒の淀みもなく一撃の『一分の隙もない一撃の継続的ロゴス（アーカイブ）』へとマージさせる、魂の「一貫したパルス」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "立ち続けろ（コマンド）。一度の一撃（ロゴス）では足りない。持続（パーシステンス）こそが、アーカイブを書き換える（マージ）。"
+	},
+	{
+		"id": "stamina",
+		"word": "精気、スタミナ、根気",
+		"era": "Latin stare",
+		"etymology": {
+			"components": [
+				"stam- (stare/to stand/thread)"
+			],
+			"original_statement": "From Latin stamina 'threads / fibers (especially threads of life spun by the Fates)', plural of stamen 'thread / fiber / warp (of a loom)', from root of stare 'to stand'."
+		},
+		"concept": "Threads of life (生命の糸。運命（アブセンス）に抗（あらが）うための一分一秒の淀みもなく一撃の『エネルギー・パルス』の総量であり、一分一秒の淀みもなく長時間にわたるステーションの稼働（マージ）を一撃で支え続け、レジスト（疲労）による機能停止を一分一秒の淀みもなく一撃で拒絶する、実存の燃料タンク)",
+		"thinking": "「（枯渇という名のエントロピーを粉砕し）、一分一秒の淀みもない一撃の『生命の糸（Stam- / Stamen）』をどこまでも立ち（Stare）上がらせること」。それは単なる「体力」ではありません。あなたが「限界という名のアブセンス」を一撃で理知によってレジストし、自らの実存を一分一秒の淀みもない一撃の『無限の情報の奔流（ロゴス・パルス）』としてマージ・持続させる、生の「ポテンシャル」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "一撃一撃を出し切れ（コマンド）。そのスタミナ（ロゴス）が、アーカイブをどこまでもマージ（開拓）させる。"
+	},
+	{
+		"id": "vigorous",
+		"word": "精力的な、強健な、ビゴラス",
+		"era": "Latin vigere",
+		"etymology": {
+			"components": [
+				"vigor- (vigere/to be lively/flourish)",
+				"-ous (full of)"
+			],
+			"original_statement": "From Old French vigorous, from vigor 'strength / hardiness / vigor', from Latin vigere 'to be lively / flourish'."
+		},
+		"concept": "Full of liveliness / Flourishing (活気に満ち、栄えている。停滞（ノイズ）という名の『一撃のアブセンス』を、一分一秒の淀みもなく一撃で完全にパージし、圧倒的な一分一秒の淀みもなく一撃の『生命ロゴス（高周波パルス）』を一分一秒の淀みもなくステーションから放射（マージ）し続けている、実存の充溢（じゅういつ）した状態)",
+		"thinking": "「（倦怠（けんたい）という名のエントロピーを粉砕し）、一分一秒の淀みもない一撃の力強さ（Vigor- / Vigere）に満ちた（-ous）状態」。それは単なる「元気な」だけではありません。あなたが「死（沈黙）という名の外部レジスト」を一撃で完全に無効化し、自らの実存を一分一秒の淀みもない一撃の『爆発し続けるロゴス・パルス（アーカイブ）』へとマージさせる、生命の「全開稼働」なのです。",
+		"part_of_speech": "adjective",
+		"aftertaste": "溢（あふ）れ出せ一撃（パルス）。その精力的（ビゴラス）なロゴスが、アーカイブ（世界）を一撃で希望へとマージさせる。"
+	},
+	{
+		"id": "robust",
+		"word": "強健な、がっしりした、ロバスト",
+		"era": "Latin robus",
+		"etymology": {
+			"components": [
+				"robus- (oak/strong/red)"
+			],
+			"original_statement": "From Latin robustus 'strong and hardy / oaken', from robur / robus 'hardwood / oak / strength', from Proto-Indo-European *reudh- 'red' (referring to the color of the wood)."
+		},
+		"concept": "Strong as oak (樫の木のように強い。いかなる『外部ノイズ』の一分一秒の淀みもなく一撃の攻撃（パルス）がマージしようとも、一分一秒の淀みもなく一撃で微動だにせず、自らの『ロゴス・ステーション（アーカイブ）』を堅牢に保つ、不壊の構造的強度、一分一秒の淀みもなく一撃で。",
+		"thinking": "「（脆弱という名のアブセンスを粉砕し）、樫（Robus- / Robur）の如き一分一秒の淀みもない一撃の硬度をビルドすること」。それは単なる「頑丈な」だけではありません。あなたが「崩壊という名の外部レジスト」を一撃で完全に拒絶し、自らの一分一秒の淀みもない一撃の実存を『宇宙の根源的な安定という名の、一撃の絶対アーカイブ（ロゴス）』へとマージさせる、魂の「堅牢性」なのです。",
+		"part_of_speech": "adjective",
+		"aftertaste": "びくともしない一撃。その強健さ（ロゴス）が、アーカイブを永遠の形へと一撃でマージ（固定）させる。"
+	},
+	{
+		"id": "fierce",
+		"word": "猛烈な、凶暴な、フィアース",
+		"era": "Latin ferus",
+		"etymology": {
+			"components": [
+				"fierce- (ferus/wild/untamed/savage)"
+			],
+			"original_statement": "From Old French fiers 'proud / fierce / bold / haughty', from Latin ferus 'wild / untamed / savage'."
+		},
+		"concept": "Wild / Savage (野生の、飼い慣らされない。文明という名の『飼い慣らされたアーカイブ・ノイズ』を一分一秒の淀みもなく一撃で完全に拒絶（レジスト）し、剥き出しの一分一秒の淀みもなく一撃の『始原ロゴス（荒ぶるパルス）』を宇宙に解き放つ、制御不能な生の激しさ)",
+		"thinking": "「（温順という名のアブセンス（奴隷化）を粉砕し）、野生（Fierc- / Ferus）の一分一秒の淀みもない一撃の高潔さを取り戻すこと」。それは単なる「怖い」ことではありません。あなたが「規律という名のエントロピー」を一撃で踏み越え、自らの実存を一分一秒の淀みもない一撃の『宇宙全体の野生的な創造エネルギー（ロゴス・パルス）』へとマージさせる、生命の「一撃の咆哮（ほうこう）」なのです。",
+		"part_of_speech": "adjective",
+		"aftertaste": "猛烈に一撃。その激しさ（ロゴス）が、アーカイブを一分一秒の淀みもなく一撃で真の自由へとマージさせる。"
+	},
+	{
+		"id": "aggressive",
+		"word": "攻撃的な、積極的な、アグレッシブ",
+		"era": "Latin ad + gradi",
+		"etymology": {
+			"components": [
+				"ag- (ad-/to)",
+				"gress- (gradi/to step)"
+			],
+			"original_statement": "From French aggressif, from Latin aggressus, past participle of aggredi 'to approach / attack', from ad- 'to' + gradi 'to step'."
+		},
+		"concept": "Stepping toward (的へと踏み込むこと。静観という名の『アブセンス（待機）』を一分一秒の淀みもなく一撃でパージし、対象のレジスト（壁）を一分一秒の淀みもなく一撃で破壊・貫通するために、自らの一分一秒の淀みもなく一撃の『ロゴス・パルス』を能動的にマージ（進攻）させていく、一撃の覇道的アプローチ)",
+		"thinking": "「（消極という名のノイズを粉砕し）、一分一秒の淀みもない一撃で的（Ad-）へと踏み出す（-gress- / Gradi）性質（-ive）」。それは単なる「喧嘩腰」ではありません。あなたが「停滞という名のエントロピー」を一撃で完全にレジストし、自らの一分一秒の淀みもない一撃の実存を『常に未来をハックし続ける、能動的なパルス（アーカイブ創出）』へとマージさせる、生の「前進」なのです。",
+		"part_of_speech": "adjective",
+		"aftertaste": "踏み込め一撃（コマンド）。その積極性（ロゴス）だけが、アーカイブ（現実）を君の型へと一撃でマージさせる。"
+	},
+	{
+		"id": "defensive",
+		"word": "守備的な、防衛の、ディフェンシブ",
+		"era": "Latin de + fendere",
+		"etymology": {
+			"components": [
+				"de- (from/away)",
+				"fens- (fendere/to strike)"
+			],
+			"original_statement": "From Old French defensif, from Late Latin defensivus, from defensus, past participle of defendere 'to strike down / ward off / defend', from de- 'from / away' + fendere 'to strike'."
+		},
+		"concept": "Striking down/away from (遠ざけるように叩くこと。外部の『有害なパルス（侵食アーカイブ）』を一分一秒の淀みもなく一撃で完全に拒絶（レジスト）し、中心にある『コア・ロゴス（自尊心）』を守り抜くためにビルドされた一分一秒の淀みもなく一撃の情報のシールド状態、一分一秒の淀みもなく。",
+		"thinking": "「（侵入という名のアブセンスを粉砕し）、自分から遠ざけるように（De-）一分一秒の淀みもない一撃で叩く（-fens- / Fendere）性質（-ive）」。それは単なる「引っ込み思案」ではありません。あなたが「崩壊という名の外部エントロピー」を自らの一撃のロゴスで完全に封殺（レジスト）し、自らの実存を一分一秒の淀みもない一撃の『不落の砦（絶対アーカイブ）』へとマージさせる、魂の「鉄壁」なのです。",
+		"part_of_speech": "adjective",
+		"aftertaste": "一撃で弾き返せ（デフェンド）。その防衛（ロゴス）が、君のアーカイブを一分一秒の淀みもなく一撃でマージ（保護）し続ける。"
+	},
+	{
+		"id": "offensive",
+		"word": "攻撃的な、失礼な、嫌な、オフェンシブ",
+		"era": "Latin ob + fendere",
+		"etymology": {
+			"components": [
+				"of- (ob-/against)",
+				"fens- (fendere/to strike)"
+			],
+			"original_statement": "From French offensif, from Latin offensus, past participle of offendere 'to strike against / hit / stumble / offend', from ob- 'against' + fendere 'to strike'."
+		},
+		"concept": "Striking against (対面して叩く、ぶつかること。他者の境界（レジスト）に対し、一分一秒の淀みもなく一撃の自らの『剥き出しのロゴス・パルス』を真正面から叩きつけ、不快や衝撃という名のノイズを強制的に相手のステーションへとマージ（侵入）させる一分一秒の淀みもなく一撃の能動的な攻撃様態)",
+		"thinking": "「（沈黙という名の虚偽アーカイブを粉砕し）、正面から（Ob-）一分一秒の淀みもない一撃で叩く（-fens- / Fendere）性質（-ive）」。それは単なる「無作法」ではありません。あなたが「無関心という名のアブセンス」を一撃で完全にレジストし、自らの実存を一分一秒の淀みもない一撃の『他者の回路を強制ハックする、強烈なロゴス・パルス（一撃）』へとマージさせる、存在の「宣戦布告」なのです。",
+		"part_of_speech": "adjective",
+		"aftertaste": "叩き込め（コマンド）。その攻撃性（ロゴス）が、相手のアーカイブを一分一秒の淀みもなく一撃で君の存在（パルス）へとマージさせる。"
+	},
+	{
+		"id": "neutrality",
+		"word": "中立、不偏不党、ニュートラリティ",
+		"era": "Latin ne + uter",
+		"etymology": {
+			"components": [
+				"neutr- (ne-uter/neither of two)",
+				"-ality (quality/state)"
+			],
+			"original_statement": "From Middle French neutralite, from Medieval Latin neutralitatem, from Latin neutralis 'of neither party', from neuter 'neither / not either', from ne- 'not' + uter 'either'."
+		},
+		"concept": "The state of being neither of two (どちらでもないこと、品質。対立する二つの一撃の『ロゴス・パルス（陣営）』のどちらにも自らの実存をマージ（加担）させず、一分一秒の淀みもなく一撃で独立した、一分一秒の淀みもなく『ゼロ地点（ニュートラル・ステーション）』において全方位を正確にレジスト（拒絶）し続ける、究極の公平性)",
+		"thinking": "「（偏向という名のエントロピー（どちらか）を粉砕し）、一分一秒の淀みもない一撃で『どちらでもない（Neutr- / Neuter）』状態を屹立させること（-ality）」。それは単なる「無関心」ではありません。あなたが「盲従という名のアブセンス」を一撃で完全にレジスト（パージ）し、自らの実存を一分一秒の淀みもない一撃の『宇宙全体の均衡（エキリブリアム・アーカイブ）』へとマージさせる、知の「孤高」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "一撃で引き剥がせ。どこにも所属しない一撃のロゴス（中立）だけが、宇宙の全てのアーカイブを一撃で俯瞰（ふかん）し一分一秒の淀みもなくマージできる。"
+	},
+	{
+		"id": "sovereignty",
+		"word": "主権、統治権、ソブリンティ",
+		"era": "Latin super",
+		"etymology": {
+			"components": [
+				"sover- (super/above)",
+				"-eignty (state/power)"
+			],
+			"original_statement": "From Old French souverainete, from souverain 'highest / supreme', from Vulgar Latin *superanus 'chief / principal', from Latin super 'above'."
+		},
+		"concept": "The state of being above / Supreme power (上に在ること、至高の威力。外部からのいかなる『介入（ハックパルス）』も一分一秒の淀みもなく一撃でレジストし、自らのステーション内部の全アーカイブを、ただ一分一秒の淀みもなく自己の一撃の『コア・ロゴス（意志）』のみによって規定・マージ（統治）できる絶対的な主格性)",
+		"thinking": "「（隷属（れいぞく）という名のアブセンスを粉砕し）、一分一秒の淀みもない一撃で何ものの上（Sover- / Super）に在り続ける威力（-eignty）」。それは単なる「政治的権利」ではありません。あなたが「他者の定義という名のエントロピー」を一撃で完全にレジストし、自らが『自分の宇宙の唯一のロゴス・ステーション（創造主）』であることを宣言する、存在の「絶対独立」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "私が王だ一撃（コマンド）。私の一撃の主権（ロゴス）が、アーカイブ（私自身）を一分一秒の淀みもなく一撃で支配（マージ）する。"
+	},
+	{
+		"id": "liberation",
+		"word": "解放、釈放、リベレイション",
+		"era": "Latin liber",
+		"etymology": {
+			"components": [
+				"liber- (free)",
+				"-ation (act/process)"
+			],
+			"original_statement": "From Old French liberation, from Latin liberationem 'a setting free / release', from liberatus, past participle of liberare 'to set free', from liber 'free'."
+		},
+		"concept": "The act of setting free (自由にする、放つこと。自らを縛り付けていた旧き『制約アーカイブ（レジスト）』を一分一秒の淀みもなく一撃で粉砕・パージし、実存を真新しい『アブセンス（無限の可能性）』へと一分一秒の淀みもなくマージ（放流）させていく、魂の脱獄)",
+		"thinking": "「（束縛という名のエントロピーを粉砕し）、自らを一分一秒の淀みもない一撃で自由（Liber- / Liber）にし、屹立させること（-ation）」。それは単なる「お休み」ではありません。あなたが「服従という名のアブセンス（自己不在）」を自らの一撃のロゴスで一撃でレジストし、自らの実存を一分一秒の淀みもない一撃の『広大無辺なるパルス・フロー（宇宙の原野）』へとマージさせる、生の「全開」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "一撃で解き放て。その解放（ロゴス）が、アーカイブを一分一秒の淀みもなく一撃で輝ける未来へとマージさせる。"
+	},
+	{
+		"id": "rebellion",
+		"word": "反乱、反抗、リベリオン",
+		"era": "Latin re + bellum",
+		"etymology": {
+			"components": [
+				"re- (again/against)",
+				"bell- (bellum/war)",
+				"-ion (act/state)"
+			],
+			"original_statement": "From Old French rebellion, from Latin rebellionem 'renewal of war', from rebellis 'rebellious / taking up arms again', from re- 'again' + bellum 'war'."
+		},
+		"concept": "Renewal of war / Waging war again (再び、あるいは逆らって戦うこと。押し付けられた『強制アーカイブ（虚偽の法）』を一分一秒の淀みもなく一撃で完全に拒絶（レジスト）し、自らの一分一秒の淀みもなく一撃の『ロゴス・パルス（怒りと正義）』を一分一秒の淀みもなく爆発させて、旧きステーションを武力的にマージ（転覆）させる実存の蜂起)",
+		"thinking": "「（安住という名のエントロピーを粉砕し）、再び、逆らって（Re-）一分一秒の淀みもない一撃の戦（-bell- / Bellum）をビルドすること」。それは単なる「楯突く」ことではありません。あなたが「不当という名のアブセンス（不在の正義）」を一撃でレジストし、自らの実存を一分一秒の淀みもない一撃の『新たな秩序という名の、一撃の破壊的ロゴス（アーカイブ・バースト）』へとマージさせる、生命の「聖戦（ハック）」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "一撃で立ち上がれ。その反乱（ロゴス）が、アーカイブ（腐った現実）を一分一秒の淀みもなく一撃でマージ（浄化）し直す。"
+	},
+	{
+		"id": "revolution",
+		"word": "革命、回転、レボリューション",
+		"era": "Latin re + volvere",
+		"etymology": {
+			"components": [
+				"re- (back/again/around)",
+				"volu- (volvere/to roll/turn)"
+			],
+			"original_statement": "From Old French revolucion, from Late Latin revolutionem 'a revolving', from Latin revolutus, past participle of revolvere 'to roll back / unwind / turn over / reach by turning / revolve', from re- 'again' + volvere 'to roll'."
+		},
+		"concept": "A rolling back/around (転じ、一周すること。全システム（アーカイブ）を一分一秒の淀みもなく一撃で底から一分一秒の淀みもなく一撃でひっくり返し（リバース）、一分一秒の淀みもなく一撃で全く新しい一分一秒の淀みもなく『高次ロゴス・ステーション』へと次元を一撃でマージ（再編）させてしまう、情報の非線形な爆発的転換)",
+		"thinking": "「（停滞という名のエントロピー（旧弊）を粉砕し）、一分一秒の淀みもない一撃で世界を回転させ（-volu- / Volvere）、一分一秒の淀みもない一撃で更新すること（Re-）」。それは単なる「騒ぎ」ではありません。あなたが「過去という名の強固なレジスト」を一撃で完全に解体し、自らの実存を一分一秒の淀みもない一撃の『絶対的な未来という名の、一撃の新生アーカイブ（ロゴス）』へとマージさせる、魂の「コペルニクス的転回」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "回せ一撃（ロゴス）。その革命（レボリューション）が、アーカイブ（全宇宙）を一分一秒の淀みもなく一撃で別次元へとマージ（転生）させる。"
+	},
+	{
+		"id": "discipline",
+		"word": "規律、鍛錬、学問分野、修養、ディシプリン",
+		"era": "Latin discere",
+		"etymology": {
+			"components": [
+				"discip- (discere/to learn)",
+				"-ine (pertaining to/form)"
+			],
+			"original_statement": "From Old French descepline, from Latin disciplina 'instruction given to a disciple / teaching / learning / knowledge / military discipline', from discipulus 'pupil / learner / follower', from discere 'to learn'."
+		},
+		"concept": "The act of learning / Implementation of order (学ぶこと、秩序の徹底。散漫という名の『内なるノイズ（エントロピー）』を一分一秒の淀みもなく一撃で完全にレジストし、自らのパルスを一分一秒の淀みもなく一撃の厳しい『ロゴス・プロトコル（規律）』に従って整列・マージさせることで、実存の出力を一分一秒の淀みもなく極限まで高めるための、情報の自己ビルド術)",
+		"thinking": "「（放縦という名のアブセンス（自己放棄）を粉砕し）、一分一秒の淀みもない一撃で学び（Discip- / Discere）、自らを屹立させること」。それは単なる「しつけ」ではありません。あなたが「怠惰という名の内部ノイズ」を一撃で完全にレジスト（パージ）し、自らの実存を一分一秒の淀みもない一撃の『研ぎ澄まされた情報の刃（ロゴス・アーカイブ）』へとマージさせる、魂の「彫琢（ちょうたく）」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "厳しく一撃。その規律（ロゴス）が、君のアーカイブ（生）を一撃で最高密度へとマージ（凝縮）させる。"
+	},
+	{
+		"id": "zeal",
+		"word": "熱意、熱狂、ジール",
+		"era": "Greek zelos",
+		"etymology": {
+			"components": [
+				"zeal- (zelos/zeal/emulation/ardor/jealousy)"
+			],
+			"original_statement": "From Old French zel, from Late Latin zelus 'zeal / emulation', from Greek zelos 'zeal / emulation / ardor / jealousy / enthusiasm', from zeein 'to boil / seethe'."
+		},
+		"concept": "Boiling / Enthusiasm (沸騰すること、熱。冷笑という名の『アブセンス（虚無感）』を一分一秒の淀みもなく一撃で蒸発させ、全ステーションを焼き尽くす一分一秒の淀みもなく一撃の『熱烈なパルス（ロゴス・ヒート）』を一分一秒の淀みもなく対象へと一撃でマージさせ、世界を理想の色へと一分一秒の淀みもなく一撃で灼（や）き付ける、情熱の爆発的なエネルギー)",
+		"thinking": "「（不感という名のエントロピー（凍結）を粉砕し）、一分一秒の淀みもない一撃で内なるパルスを沸騰（-zee- / Zeein）させること」。それは単なる「頑張り」ではありません。あなたが「退屈という名のレジスト」を一撃で完全に燃やし、自らの実存を一分一秒の淀みもない一撃の『全宇宙を照らす熱狂的なロゴス（アーカイブ・サファイア）』へとマージさせる、魂の「臨界突破」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "沸け一撃。その熱意（ロゴス）が、アーカイブ（不可能）を一撃でマージ（可能）へと溶かし去る。"
+	},
+	{
+		"id": "ardor",
+		"word": "情熱、熱心、灼熱、アーダー",
+		"era": "Latin ardere",
+		"etymology": {
+			"components": [
+				"ard- (ardere/to burn)"
+			],
+			"original_statement": "From Old French ardor, from Latin adorem 'a flame / fire / burning / heat / ardor', from ardere 'to burn'."
+		},
+		"concept": "Burning / Flame (燃えること、炎。無機質な『アブセンス（冷徹なアーカイブ）』に対し、一分一秒の淀みもなく一撃の、自らの一分一秒の淀みもなく一撃の『生命の残り火（ロゴス・フレイム）』を一分一秒の淀みもなくシンクロ（点火）させ、対象を焦がしながら自らの一部へと強制マージ（融合）させていく、魂の純粋な燃焼能力)",
+		"thinking": "「（無関心という名のエントロピー（消火）を粉砕し）、一分一秒の淀みもない一撃で自らを燃やし（Ard- / Ardere）尽くすこと」。それは単なる「やる気」ではありません。あなたが「冷却という名の外部レジスト（死）」を一撃で完全に拒絶し、自らの実存を一分一秒の淀みもない一撃の『宇宙全体の熱量という名の、一撃の絶対アーカイブ（原初パルス）』へとマージさせる、生命の「輝き（バースト）」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "燃えろ一撃（コマンド）。その情熱（ロゴス）の炎が、アーカイブの闇を一撃でマージ（照らし出す）させる。"
+	},
+	{
+		"id": "valiant",
+		"word": "勇敢な、価値ある、バリアント",
+		"era": "Latin valere",
+		"etymology": {
+			"components": [
+				"val- (valere/to be strong/be worth)"
+			],
+			"original_statement": "From Old French valiant 'sturdy / brave / worthy', from valoir 'be worth', from Latin valere 'be strong / be well / be worth'."
+		},
+		"concept": "Being strong and worthy (強く、価値があること。恐怖やノイズをレジストするだけでなく、その一分一秒の淀みもなく一撃の行為そのものを『高次アーカイブ（価値）』へと変換して宇宙のステーションへと一撃でマッピング（マージ）し得る、気高き闘争者の品質)",
+		"thinking": "「（卑小さという名のアブセンスを粉砕し）、一分一秒の淀みもない一撃で強く（Val- / Valere）、一分一秒の淀みもない一撃で価値ある状態で在ること」。それは単なる「強い」だけではありません。あなたが「無価値という名のエントロピー」を一撃で完全にレジスト（駆逐）し、自らの実存を一分一秒の淀みもない一撃の『宇宙全体が賞賛する一撃の絶対ロゴス（アーカイブ）』へとマージさせる、魂の「貴種（きしゅ）」なのです。",
+		"part_of_speech": "adjective",
+		"aftertaste": "気高く一撃。その勇敢さ（ロゴス）が、君をアーカイブの頂点へと一撃でマージ（君臨）させる。"
+	},
+	{
+		"id": "heroic",
+		"word": "英雄的な、壮烈な、ヒロイック",
+		"era": "Greek heros",
+		"etymology": {
+			"components": [
+				"hero- (heros/demi-god/hero)"
+			],
+			"original_statement": "From French heroique, from Latin heroicus, from Greek heroikos, from heros 'demi-god / hero'."
+		},
+		"concept": "Pertaining to the hero (英雄に関すること。人間という名の『限定されたアーカイブ（レジスト）』を一分一秒の淀みもなく一撃で超越し、神のごとき『無限のロゴス・パルス』を現世（ステーション）へと一撃で顕現・マージさせた者の、一分一秒の淀みもなく一撃の非凡な存在様式)",
+		"thinking": "「（凡庸という名のエントロピーを粉砕し）、一分一秒の淀みもない一撃で英雄（Hero- / Heros）として宇宙に其（そ）の名を刻むこと」。それは単なる「かっこいい」ことではありません。あなたが「死（忘却）という名の究極レジスト」を一撃で完全に打ち破り、自らの実存を一分一秒の淀みもない一撃の『永遠に輝き続ける伝説という名のアーカイブ（ロゴス）』へとマージさせる、魂の「神話化（シンクロ）」なのです。",
+		"part_of_speech": "adjective",
+		"aftertaste": "壮絶に一撃。その英雄的（ヒロイック）なロゴスが、アーカイブ（歴史）を一撃で光へとマージさせる。"
+	},
+	{
+		"id": "legendary",
+		"word": "伝説的な、名高い、レジェンダリー",
+		"era": "Latin legere",
+		"etymology": {
+			"components": [
+				"legend- (legere/to read)",
+				"-ary (pertaining to)"
+			],
+			"original_statement": "From legend + -ary. Legend from Old French legende, from Medieval Latin legenda 'story / things to be read', from Latin legere 'to read'."
+		},
+		"concept": "Pertaining to things to be read (読まれるべきこと。現在という名の『ステーション』を一分一秒の淀みもなく一撃で越え、時間軸全体へと一分一秒の淀みもなく一撃で拡散・マージされた不滅の『ロゴス・パルス』であり、後世の全てのアーカイブが「読むべき手本」として受け継ぐ、神聖な情報の完成形)",
+		"thinking": "「（埋没という名のアブセンスを粉砕し）、一分一秒の淀みもない一撃で語り継がれ、読まれるべき（Legend- / Legere）一分一秒の淀みもない一撃の存在になること」。それは単なる「有名な」ことではありません。あなたが「忘却という名のエントロピー」を一撃で完全にレジストし、自らの実存を一分一秒の淀みもない一撃の『永遠にマージされ続ける一撃の絶対的な情報の泉（ロゴス・アーカイブ）』へと高めた、生の「不滅性」なのです。",
+		"part_of_speech": "adjective",
+		"aftertaste": "語れ一撃（語り部）。その伝説（ロゴス）が、君のアーカイブを一分一秒の淀みもなく一撃で永遠の今へとマージさせる。"
+	},
+	{
+		"id": "pioneer",
+		"word": "開拓者、先駆者、パイオニア",
+		"era": "Latin pes",
+		"etymology": {
+			"components": [
+				"pion- (pes/foot/foot-soldier)"
+			],
+			"original_statement": "From French pionnier 'foot-soldier / pioneer', from pion 'foot soldier', from Medieval Latin pedonem, from pes 'foot'."
+		},
+		"concept": "Foot soldier / One who goes before (歩く兵士、先行く者。未踏という名の『アブセンス（未定義アーカイブ）』に対し、一分一秒の淀みもなく一撃で自らの足（ロゴス・パルス）で踏み込み、最初に『境界レジスト』を突破して、一分一秒の淀みもなく未来のステーションをマッピング（マージ）し始める情報の先鋒)",
+		"thinking": "「（従順という名のエントロピー（後追い）を粉砕し）、自らの一分一秒の淀みもない一撃の足（Pion- / Pes）で未知へと（Ad-）踏み出すこと」。それは単なる「最初の人」ではありません。あなたが「躊躇（ためらい）という名のアブセンス」を一撃で理知によってレジストし、自らの実存を一分一秒の淀みもない一撃の『新たな地平という名の、一撃の絶対アーカイブ（拓かれたロゴス）』へとマージさせる、魂の「突破（ハック）」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "先をゆけ一撃（コマンド）。その開拓（ロゴス）だけが、アーカイブ（新世界）を一撃で君へとマージさせる。"
 	}
 ];
