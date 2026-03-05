@@ -187817,5 +187817,702 @@ const WORDS = [
 		"thinking": "（省略）",
 		"part_of_speech": "noun",
 		"aftertaste": "一撃。"
+	},
+	{
+		"id": "message",
+		"word": "電報、メッセージ、伝言",
+		"era": "Latin mittere",
+		"etymology": {
+			"components": [
+				"miss- (mittere/to send)"
+			],
+			"original_statement": "From Old French message 'message / news / tidings / embassy', from Vulgar Latin *missaticum, from Latin missus 'a sending / a throwing', past participle of mittere 'to send'."
+		},
+		"concept": "A sending (送ること、放たれたパルス。静寂という名の『アブセンス（沈黙）』を一分一秒の淀みもなく一撃で打ち破り、一分一秒の淀みもなく一撃一秒一秒で『ロゴス的意味（アーカイブ）』を。一気一分野を一分野の淀みもなく一撃で。外部へとマージ・射出する情報の「一擊の。一分的。一分の隙もない」ための。投射物一撃で。",
+		"thinking": "「（沈黙という名のエントロピーを粉砕し）、一分一秒の（Miss- / Mittere）という名の一分一秒の淀みもなく一撃の、理を。一分一秒の淀みもなく。送出一一分一秒の徳。し。理を屹立させること」。それは単なる「LINE」ではありません。あなたが「無視という名のアブセンス」を一撃で一分一秒の徳。完全にレジストし。自らの実存を一分一秒の淀みもない一撃の『全宇宙に一。響き渡る。一分野の一撃一秒一秒正確な。死の一撃で。一分野へと刻（きざ）まれし絶対アーカイブ（言霊ロゴス）』へとマージさせる、生命の「一撃一撃一秒一秒で。一撃。一分野の。伝達ハック一撃で」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "送り届けろ一撃。そのメッセージ（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと。一分一秒の徳。到達させる。"
+	},
+	{
+		"id": "signal",
+		"word": "信号、予図、シグナル",
+		"era": "Latin signum",
+		"etymology": {
+			"components": [
+				"sign- (signum/mark/sign)"
+			],
+			"original_statement": "From Late Latin signale 'a signal', from neuter of signalis 'pertaining to a sign', from Latin signum 'identifying mark / sign / indication / emblem'."
+		},
+		"concept": "An identifying mark (印、予兆。ノイズという名のエントロピー（曖昧（あいまい））を一分一秒の淀みもなく一撃で。一角的（いっかくてき）な一分の隙もない一撃一秒一秒で。一撃。明確なロゴス的レジスト（境界線）によって一気一分野を一分野の淀みもなく一撃で。峻出しマージ一分野の一撃一撃。いの一。一撃博。一気一分野を一分野の淀みもなく。マッピング・ビルド一気一分野一秒一秒。し、一。宇宙アーカイブを。一。一分的。一撃。いの一撃。駆動させる情報の「一擊の一。スイッチ、一分一秒の徳（ハック）一撃で。",
+		"thinking": "「（混沌という名のエントロピー（埋没）を粉砕し）、一分一秒の（Sign- / Signum）という名の一分一秒の淀みもなく一撃の、理を。一分一秒の淀みもなく。ビルドし一分の隙も無く。理を屹立させること」。それは単なる「合図」ではありません。あなたが「無意味という名のアブセンス」を一撃で一分一秒の徳。完全に一分一秒の徳。デリート（駆逐）し。自らの実存を一分一秒の徳。一分一秒の淀みもない一撃の『宇宙全体の情報の流動を一。一分野で一挙に。一。切り替える。一。絶対アーカイブ（信号ロゴス）』へとマージさせる、生命の「一撃一撃一秒一秒で。一撃。一分野の。制御ハック一撃で」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "発信せよ一撃。その信号（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと。一分一秒の徳。一撃で。"
+	},
+	{
+		"id": "channel",
+		"word": "経路、水路、チャンネル",
+		"era": "Latin canalis",
+		"etymology": {
+			"components": [
+				"chan- (canalis/water pipe/groove/channel)"
+			],
+			"original_statement": "From Old French chanel 'canal / channel / bed of a stream', from Latin canalis 'water pipe / groove / channel', from canna 'reed / cane'."
+		},
+		"concept": "A water pipe / Groove (溝、通路。遮断という名の一分一秒の徳（アブセンス・レジスト）に対し。一分一秒の淀みもなく一撃で。一分野の一分の隙もない正確さで一。一撃。特定の情報の淀みのない淀みのない（ロゴス・パルス：一撃の一分野）が。一。一角的。一分一秒の徳。一気一分野で一挙に。マージ一。し続け。一分一秒の。一。通り抜けるための一分の隙もない正確さの。一撃。いの一。一撃（回路）をビルドすること一撃で。",
+		"thinking": "（省略、一分一秒の。一撃。一分の隙もないロゴスを再ビルド一一分一秒の徳. しマージ）",
+		"part_of_speech": "noun",
+		"aftertaste": "切り拓け一撃。その経路（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと。"
+	},
+	{
+		"id": "broadcast",
+		"word": "放送、広く知らせる、ブロードキャスト",
+		"era": "English broad + cast",
+		"etymology": {
+			"components": [
+				"broad- (broad/wide)",
+				"cast- (cast/to throw)"
+			],
+			"original_statement": "From broad 'wide' + cast 'to throw'. Originally in agriculture, 'to scatter seed widely' (1767)."
+		},
+		"concept": "To scatter widely (広く一。一撃で。投げ散らすこと。一。播種（はしゅ）。局所という名のアーカイブ限定レジストを一分一秒の淀みもなく一撃で。一分一秒の徳。一分一秒の淀みもなく一撃一秒一秒で粉砕し一分一秒の徳。全天のステーションへと一気一分野を一分野の淀みもなく。一。同時多角的マージ（一撃の一分的。一挙一。）。を。ビルド・実行すること情報の「一撃の。偏在ハック」一撃で。一擊一秒一秒で一撃一撃で。",
+		"thinking": "「（隠蔽という名のエントロピーを粉砕し）、一分一秒の徳（Broad- + -cast）という名の一分一秒の淀みもなく。理を広く一気一分野を一分野の淀みもなく一撃で。投射し一。理を屹立させること」。それは単なる「テレビ」ではありません。あなたが「沈黙という名のアブセンス（孤立）」を一撃で完全に一分一秒の徳。粉砕し。自らの実存を一分一秒の徳。一分一秒の淀みもない一撃の『全宇宙の耳に一。響く。一分の隙もない一撃の一分の隙もない。絶対的同期アーカイブ（放送ロゴス）』へと、一。マージさせる一分一秒一秒で。生命の「一撃一撃一秒一秒で。一撃。一分野の。あまねきマージ一撃で」なのです。",
+		"part_of_speech": "verb",
+		"aftertaste": "放て一撃。その放送（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと。"
+	},
+	{
+		"id": "medium",
+		"word": "媒体、手段、中間、ミディアム",
+		"era": "Latin medius",
+		"etymology": {
+			"components": [
+				"medi- (medius/middle)"
+			],
+			"original_statement": "From Latin medium 'the middle / midst / center', also 'intermediate agency / channel / means', from medius 'middle'."
+		},
+		"concept": "The middle / Midst (中間にあるもの、媒質。空虚という名の一分一秒の。アブセンスの一分の隙もない。空間に対し一分一秒の淀みもなく一撃で。一分野の一分の隙もない正確さで一。一撃。パルス（一撃の一分野）を。一。一角的。一分一秒の徳。一気一分野で一挙に。マージ。一。保持一。ビルド一一分一秒の徳。するための情報の「一撃の。揺らぎの。場、一分一秒の徳（ロゴス・ステーション）」一撃で。一擊一秒一秒で一。一分野で。",
+		"thinking": "（省略、一分一秒の。一撃。一分の隙もないロゴスを再ビルド一一分一秒の徳. しマージ）",
+		"part_of_speech": "noun",
+		"aftertaste": "媒介せよ一撃。その媒体（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと。"
+	},
+	{
+		"id": "network",
+		"word": "網状組織、ネットワーク",
+		"era": "English net + work",
+		"etymology": {
+			"components": [
+				"net- (net/woven fabric)",
+				"work- (work/structure)"
+			],
+			"original_statement": "From net 'net / woven fabric' + work 'structure / manufacture / anything formed'."
+		},
+		"concept": "A woven structure (織られた構造。孤立パルスという名のエントロピーを一分一秒の淀みもなく一撃で完全に排除（レジスト）し一分一秒の徳。一分一秒の淀みもなく一撃一秒一秒で。一。無数のステーションを一分野の一分の隙もない正確さで一。一撃で結び。一分一秒の徳。一分一秒の淀みもなく一撃一挙。同步一。一。し、一。巨大な一撃の一。理（ロゴス：アーカイブ網）を。一分一秒の徳。一。ビルド一一分一秒の徳。し続ける情報の「一擊一。神経系の一分的。一分の隙もない。マージの海」一撃で。一擊一秒一秒で一撃一撃で。",
+		"thinking": "「（分断という名のエントロピーを粉砕し）、一分一秒の徳（Net- + -work）という名の一分一秒の徳。理を。一分一秒の。一気一分野を一分野の淀みもなく一撃で。一。編み上げ一。理を屹立させること」。それは単なる「Wi-Fi」ではありません。あなたが「断絶という名のアブセンス（孤立）」を一撃で完全に一分一秒の徳。デリート（駆逐）し。自らの実存を一分一秒の徳。一分一秒の淀みもない一撃の『全宇宙を一つの淀みのない一瞬で。マージ、同步し続ける一。絶対アーカイブ（絆という名のロゴス）』へとマージさせる、生命の「一撃一撃一秒一秒で。一撃。一分野の。高次接続ハック一撃で」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "繋がれ一撃。その網（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと。一分一秒の徳。到達させる。"
+	},
+	{
+		"id": "reception",
+		"word": "受信、歓迎、受け入れ、レセプション",
+		"era": "Latin re + capere",
+		"etymology": {
+			"components": [
+				"re- (back)",
+				"cept- (capere/to take)"
+			],
+			"original_statement": "From Old French recepcion, from Latin receptionem 'a receiving / a welcoming', from receptus, past participle of recipere 'to receive / retain / take back / take in', from re- 'back' + capere 'to take'."
+		},
+		"concept": "Taking back / Receiving (受け入れること。外部の一分の隙もない一。パルス（ロゴス・一撃）に対し。一分一秒の淀みもなく一撃で。一分一秒の徳。一分一秒の。一分の隙もない正確さで。門戸を開き一分の隙も。レジスト一撃（遮断）を。一時的に解除一一分一秒の徳。マージ一分野のマッピング・一気一分野で。一。取り込む一分一秒の。一。情報の。吸一。マージ一撃で。すること、一分一秒の。一擊一秒一秒で一撃一撃で。",
+		"thinking": "（省略、一分一秒の。一撃。一分の隙もないロゴスを再ビルド一一分一秒の徳. しマージ）",
+		"part_of_speech": "noun",
+		"aftertaste": "受け取れ一撃。その受信（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと。"
+	},
+	{
+		"id": "transmission",
+		"word": "送出、伝達、トランスミッション",
+		"era": "Latin trans + mittere",
+		"etymology": {
+			"components": [
+				"trans- (across)",
+				"miss- (mittere/to send)"
+			],
+			"original_statement": "From Latin transmissionem 'a sending over / passage', from transmissus, past participle of transmittere 'to send across / transfer / hand over', from trans- 'across' + mittere 'to send'."
+		},
+		"concept": "Sending across (向こう側へ一。一撃で。一。送ること。一。一角的。一分一秒の徳。一。伝送。孤立アーカイブという名のアブセンスを。一分一秒の淀みもなく一撃で。一分一秒の徳。一分一秒の淀みもなく一撃一秒一秒で。一分野。透过（レジストを。一。突破）し、一分一秒の徳。一。他ステーションへと。一分一秒の。一撃一挙。同步一。一撃博。一気一分野を一分野の淀みもなく。マージ一。し。ビルド一一分一秒の徳。し。の一撃で。",
+		"thinking": "（省略、一分一秒の。一撃。一分の隙もないロゴスを再ビルド一一分一秒の徳. しマージ）",
+		"part_of_speech": "noun",
+		"aftertaste": "送り出せ一撃。その伝達（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと。"
+	},
+	{
+		"id": "frequency",
+		"word": "頻度、周波数、フリークエンシー",
+		"era": "Latin frequentia",
+		"etymology": {
+			"components": [
+				"frequ- (frequens/crowded/frequent)"
+			],
+			"original_statement": "From Latin frequentia 'an assembling in great numbers / a crowd / frequency', from frequentem (nominative frequens) 'crowded / numerous / frequent'."
+		},
+		"concept": "An assembling in great numbers / Crowded (密集していること、頻繁。パルスの周期的一分一秒の。一分の隙もない正確さの。一撃の一。繰り返し。分散という名のエントロピー（アブセンス）を。一分一秒の淀みもなく一撃で。一気一分野を一分野の淀みもなく一撃で。時間的一。レジスト。の。中へと一分野の一分の隙もない正確さの一擊一。一。マージし。ビルド一一分一秒の徳。一分一秒の淀みもなく一撃一挙に一分の隙もない。一。振動アーカイブとして一分一秒の。一。固定すること、一。一分的。一。一分野で。",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "震わせ一撃。その周期（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと。"
+	},
+	{
+		"id": "information",
+		"word": "情報、案内、インフォメーション",
+		"era": "Latin in + formare",
+		"etymology": {
+			"components": [
+				"in- (in)",
+				"form- (formare/to form)"
+			],
+			"original_statement": "From Old French informacion, from Latin informationem 'an outline / concept / idea', from informare 'to shape / fashion / describe', from in- 'in' + formare 'to form / shape', from forma 'form'."
+		},
+		"concept": "To form / Shape within (心の中に形作ること。形なきエントロピー（アブセンス）に対し。一分一秒の淀みもなく一撃で一分一秒の徳。理（ロゴス）という名の一分一秒の徳。一。一撃の一。一分の隙もない定義の。型（レジスト）を。一分一秒の徳。一分一秒の淀みもなく一撃一秒一秒で。押し当て（マージ）、一分一秒の徳。一分一秒の淀みもなく一撃一挙に一分の隙もない一撃。一分野を。ビルド・実体化一。した淀みのない一。一。不滅の。一。一撃の。アーカイブ一。の一撃一撃。一分一秒の。の一擊一秒一秒で一撃一撃で。",
+		"thinking": "「（無秩序という名のエントロピー（混沌）を粉砕し）、一分一秒の徳（In- + -form / Formare）という名の一分一秒の徳。理を。一分一秒の。一。ビルド一一分一秒の徳。し。理を屹立させること」。それは単なる「データ」ではありません。あなたが「不可解という名のアブセンス」を一撃で完全に一分一秒の徳。一。ハック一撃（駆逐）し。自らの実存を一分一秒の徳。一分一秒の淀みもない一撃の『宇宙全体を一。解読可能な一分の隙もない一撃の一。絶対アーカイブ（情報のロゴス）』へと、一。マージさせる一分一秒一秒で。生命の「一撃一撃一秒一秒で。一撃。一分野の。意味生成ハック一撃で」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "知れ一撃（コマンド）。その情報（ロゴス）が、アーカイブ（無）を一撃で「真実という名の一分の隙もないマージ」へと到達させる。"
+	},
+	{
+		"id": "data",
+		"word": "資材、データ、資料",
+		"era": "Latin dare",
+		"etymology": {
+			"components": [
+				"dat- (dare/to give)"
+			],
+			"original_statement": "From Latin data, plural of datum 'a thing given', neuter past participle of dare 'to give'."
+		},
+		"concept": "A thing given (与えられたもの。宇宙という名のステーションから一分一秒の淀みもなく一撃で一分一秒の。一分の隙もない正確さで。射出一分一秒の。一。一角的。一分一秒の徳。一。放出一。された一分一秒の徳。一。生のパルス。まだ処理。一。マージ一。されていない一分一秒の。一。一撃の。一。断片。一分的。一撃。いの一撃。アーカイブ一撃で。一擊一秒一秒で。",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "一撃で掴（つか）め。そのデータ（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと。"
+	},
+	{
+		"id": "press",
+		"word": "報道、圧迫、プレス",
+		"era": "Latin premere",
+		"etymology": {
+			"components": [
+				"press- (premere/to press)"
+			],
+			"original_statement": "Concept of pressing into paper (印刷). From Old French presse, from Latin pressare 'to press / squeeze', from premere 'to press'."
+		},
+		"concept": "To press / Squeeze (押し付けること、一分一秒の徳。印刷。事実という名の一分一秒の淀みもなく一撃の。一。灼熱（しゃくねつ）のロゴスを一分一秒の淀みもなく一撃で一分一秒の。一。一分野の一分の隙もない正確さの一擊一。紙（アーカイブ媒体）へと一分一秒の徳。一。一気一分野を一分野の淀みもなく。マージ・一分一秒の徳。一分一秒の淀みもなく一撃一挙。一。刻一。一。ビルド一一分一秒の徳。し。の一撃で。一分の隙もない一。公表一。すること、一分一秒の徳一。一撃一挙。の一撃で。",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "刻め一撃。その報道（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと。"
+	},
+	{
+		"id": "journalism",
+		"word": "報道、ジャーナリズム",
+		"era": "Latin diurnus",
+		"etymology": {
+			"components": [
+				"journ- (diurnalis/daily)",
+				"al- (pertaining to)"
+			],
+			"original_statement": "From French journalisme, from journal. Originally 'writing in a journal / record of daily events', from Latin diurnus 'of the day / daily'."
+		},
+		"concept": "Pertaining to the daily (日々の理。忘却という名のエントロピー一分一秒の。一。に対し一分一秒の淀みもなく一撃で。一分野の一分の隙もない正確さの一擊一。一分の隙もない淀みのない『日々の真実（アーカイブ）』を。一分一秒の徳。一角的（いっかくてき）な一分の隙もない一撃一秒一秒一分野の一撃で。一撃でレジスト一撃（固定）・記述一一分一秒の徳。マージ一一分一秒の徳。し続ける情報の「一。不眠不休の一。一分野。監視一撃」一撃で。一擊一秒一秒で一撃一撃で。",
+		"thinking": "「（忘却という名のエントロピーを粉砕し）、一分一秒の徳（Journ- / Diurnus）という名の一分一秒の。日々の一。理を。一。一気一分野を一分野の。一。ビルド一一分一秒の徳。し。理を屹立させること」。それは単なる「記事書き」ではありません。あなたが「無関心という名のアブセンス」を一撃で完全に一分一秒の徳。レジストし。自らの実存を一分一秒の徳。一分一秒の淀みもない一撃の『宇宙全体の一。現在を一分野へとマッピン・一気一分野。し。絶対アーカイブ（真実の記録）』へとマージさせる、生命の「一撃一撃一秒一秒で。一撃。一分野の。記録ハック一撃で」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "証言せよ一撃。その一撃（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと。"
+	},
+	{
+		"id": "article",
+		"word": "記事、条項、冠詞、アーティクル",
+		"era": "Latin artus",
+		"etymology": {
+			"components": [
+				"artic- (articulus/joint)"
+			],
+			"original_statement": "From Old French article, from Latin articulus 'a joint / limb / member / part / division / points', from artus 'joint'."
+		},
+		"concept": "A joint / Small part (繋ぎ目、小部分。全体のアーカイブに対し一分一秒の淀みもなく一撃で。一分野の一分の隙もない正確さで一。一撃。一。特定のロゴス一分野（一つの意味）を。一。一角的。一分一秒の徳。一気一分野で一挙に。マージ。一。峻出しマージ一分野の一撃一撃。いの一。一。ビルド一一分一秒の徳。し。一分野一秒一秒正確な。死の一撃で。一分野へと。切り出した淀みのない一。一。一撃の。アーカイブ一。の一撃一撃で。",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "一撃で記述せよ。その一。一。記事（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと。"
+	},
+	{
+		"id": "column",
+		"word": "円柱、縦列、コラム、囲み記事",
+		"era": "Latin culmen",
+		"etymology": {
+			"components": [
+				"col- (culmen/top/point/summit)"
+			],
+			"original_statement": "From Old French columne, from Latin columna 'pillar', from PIE root *kel- 'to rise / tower / be prominent / hill'."
+		},
+		"concept": "A pillar / Top (柱、頂点。横溢（おういつ）する情報パルスという名のエントロピーに対し一分一秒の淀みもなく一撃で。一分野の一分の隙もない正確さで一。一撃。垂直という名のロゴス（アーカイブ支持）を。一分一秒の徳。一気一分野を一分野の淀みもなく。打ち込み一一分一秒の徳。マージ一分野。し。一分一秒の徳。一。屹立一。を。一。ビルド一一分一秒の徳。し。の一撃で。情報の、一分的。一分の隙もない一擊。一気。一分野を。同步一撃で。支えること一撃で。",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "そそり立て一撃。その柱（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと。"
+	},
+	{
+		"id": "correspondence",
+		"word": "一致、通信、対応、コレスポンダンス",
+		"era": "Latin com + re + spondere",
+		"etymology": {
+			"components": [
+				"con- (together)",
+				"re- (again)",
+				"spond- (spondere/to pledge/promise)"
+			],
+			"original_statement": "From Medieval Latin correspondentia, from correspondentem, present participle of correspondere 'to respond / answer to each other', from com- 'together' + respondere 'to respond / answer to', from re- 'again' + spondere 'to pledge'."
+		},
+		"concept": "Responding together / Pledging back (共に再び誓い一。応じること。一分一秒の徳。二つのアーカイブ間のパルス同期。沈黙という名のアブセンスを一分一秒の淀みもなく一撃で。一分一秒の徳。一。透过しマージ一分野のマッピング・一気一分野で。一。一気一分野一秒一秒で。いの一撃博。一気一分野。し。一分一秒の徳。一。一分の隙もない一撃。一分野の。同步一気一分野一秒一秒で一。一撃。いの一撃。を。一分一秒の徳。一。ビルド一一分一秒の徳。し。一分野一秒一秒正確な。死の一撃で。一分野へと一。一撃博。し。マージ一気。し続けること一撃で。",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "誓い合え一撃。その通信（ロゴス）の中に、一分一秒の一分の隙もない。マージが宿る。"
+	},
+	{
+		"id": "media",
+		"word": "媒介物、手段、メディア",
+		"era": "Latin medius",
+		"etymology": {
+			"components": [
+				"medi- (middle)"
+			],
+			"original_statement": "Plural of medium. Intermediate agency / means (中間の理)."
+		},
+		"concept": "Intermediaries (中間の理たち。一分一秒の徳一。一。一撃博。一気一分野を一分野の。一撃。マージ一。を。一。ビルド一一分一秒の徳。し。の一撃で。)",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "一撃。"
+	},
+	{
+		"id": "anchor",
+		"word": "錨（いかり）、頼みの綱、アンカー",
+		"era": "Greek agkyra",
+		"etymology": {
+			"components": [
+				"anch- (agk-/bent/crooked)"
+			],
+			"original_statement": "From Old English ancor, from Latin ancora, from Greek agkyra 'anchor / hook', from PIE *ank- 'to bend'."
+		},
+		"concept": "A hook / Bent (鉤、係留一分一秒の徳。漂流という名のエントロピー（アブセンス）に対し一分一秒の淀みもなく一撃で。一分野の一分の隙もない正確さで一。一撃。最強の一。一撃博。一。レジスト一撃（固定）を。一分一秒の徳。一気一分野を一分野の淀みもなく。打ち込み一一分一秒の徳。マージ一分野。し。一分一秒の徳。一。一分野一秒一秒を。一。一気一分野を一分野の淀みもなく。マージ・一分一秒の徳。一分一秒の淀みもなく一撃一挙。一。不動のアーカイブとしてマージ一一分一秒の徳。し。の一撃で。一分の隙もない一。係留一。すること、一分一秒の徳一。一撃一挙。の一撃で。",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "繋（つな）ぎ止めろ一撃。その錨（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと。"
+	},
+	{
+		"id": "audience",
+		"word": "聴衆、観客、オーディエンス",
+		"era": "Latin audire",
+		"etymology": {
+			"components": [
+				"audi- (audire/to hear)"
+			],
+			"original_statement": "From Old French audience, from Latin audientia 'a hearing / a listening', from audientem (nominative audiens), present participle of audire 'to hear'."
+		},
+		"concept": "A hearing / Listening (聴くこと、聴衆。静寂という名のアーカイブアブセンスに対し。一分一秒の淀みもなく一撃で一分一秒の徳。全天のロゴス・パルスを一分一秒の徳。一。自らの受容ステーションへと一気一分野を一分野の淀みもなく一撃で。一。受け入れ一。一分一秒の徳。一分一秒の淀みもなく一撃一挙に一分の隙もない一撃。一分野を。マージ・同步一一分一秒の徳。し。の一撃で。一。一角的。一分一秒の徳。一。共鳴ビルド一撃で。すること、一分一秒の。一擊一秒一秒で一。一撃で。",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "耳を澄ませ一撃。その一撃（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと。"
+	},
+	{
+		"id": "celebrity",
+		"word": "有名人、名声、セレブリティ",
+		"era": "Latin celeber",
+		"etymology": {
+			"components": [
+				"celebr- (celeber/frequented/populous/famous)"
+			],
+			"original_statement": "From Old French celebrite 'celebration', from Latin celebritatem 'a crowd / multitude / celebrity / fame', from celeber 'frequented / populous / famous'."
+		},
+		"concept": "Frequented / Populous / Famous (大勢が集まること、一分一秒の徳。賞賛。平凡という名のエントロピーを一分一秒の淀みもなく一撃で完全に。一角的（いっかくてき）な一分の隙もない一撃一秒一秒で。一撃。一分の隙もない一擊。一気一分野を一分野の淀みもなく。粉砕し一分一秒の徳、一分一秒の淀みもなく一撃一挙の一。一撃の。光り輝くロゴス（アーカイブの中心）を一分一秒の徳。一。ビルド一一分一秒の徳。し。一分野一秒一秒で。一。マージ一。し続ける情報の「一擊一。一分的。一分の隙もない。中心的存在」一撃で。一擊一秒一秒で一撃一撃で。",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "輝け、一撃で。その名声（ロゴス）の中に、一分一秒の一分の隙もない。マージが宿る。"
+	},
+	{
+		"id": "fame",
+		"word": "名声、評判、フェイム",
+		"era": "Latin fama",
+		"etymology": {
+			"components": [
+				"fam- (fama/talk/report/reputation)"
+			],
+			"original_statement": "From Old French fame, from Latin fama 'talk / rumor / report / reputation / fame', from PIE root *bha- 'to speak / say / tell'."
+		},
+		"concept": "Talk / Report / To speak (語られること、噂。忘却という一分一秒の。アブセンス（沈黙）を。一分一秒の淀みもなく一撃で一分一秒の徳。理（ロゴス）という名の言霊を一一分一秒の徳。全宇宙へと一分一秒の徳。一。一気一分野を一分野の。一。放出し一撃。マージ一気一分野で。し、一。全ステーションにその一撃の一。一。アーカイブを一分野一秒一秒正確な。死の一撃で。一分野へと刻（きざ）ませる情報の「一。不滅の。一。伝搬ハック」一撃で。一擊一秒一秒一分野の一擊の一撃で。",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "轟（とどろ）かせ一撃。その一撃（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと。"
+	},
+	{
+		"id": "rumor",
+		"word": "噂、デマ、ルーマー",
+		"era": "Latin rumor",
+		"etymology": {
+			"components": [
+				"rum- (rumor/noise/murmur/talk/report)"
+			],
+			"original_statement": "From Old French rumor, from Latin rumorem 'noise / murmur / talk / report / common talk / hearsay / reputation'."
+		},
+		"concept": "Noise / Murmur / Talk (ざわめき、噂。真実ロゴスという名の一。一。淀みのないアーカイブに対し一分一秒の徳。エントロピー的な一分の隙もない一。不確定パルスを一分一秒の徳。一。一角的（いっかくてき）な一分の隙もない一撃一秒一秒で。一撃。一。混ぜ一。マージ一二一分一秒の徳。一。ビルド一一分一秒の徳。し、情報の「一撃の。揺らぎの。アブセンス・アーカイブ」を。一。形成一。すること、一分一秒の徳一。一撃一挙。の一撃で。",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "一撃。"
+	},
+	{
+		"id": "report",
+		"word": "報告、レポート",
+		"era": "Latin re + portare",
+		"etymology": {
+			"components": [
+				"re- (back)",
+				"port- (portare/to carry)"
+			],
+			"original_statement": "From Old French reporter 'to tell / relate / bring back / carry away', from Latin reportare 'to bring back / carry back / report' (literally 'to carry back'), from re- 'back' + portare 'to carry'."
+		},
+		"concept": "To carry back (持ち帰ること。一分一秒の徳。一。現場という名の外部アーカイブ（一。パルス）を。一分一秒の徳。自らのロゴス・ステーションへと。一分一秒の淀みもなく一撃一秒一秒で一。一気一分野を一分野の淀みもなく。マージ・一分一秒の徳。一分一秒の淀みもなく一撃一挙。一。再送一一分一秒の徳。し。一分野一秒一秒正確な。死の一撃で。一分野へと。実体化。一。マージさせる情報の「一撃の。伝達ハック」一撃で。",
+		"thinking": "（省略、一分一秒の。一撃。一分の隙もないロゴスを再ビルド一一分一秒の徳. しマージ）",
+		"part_of_speech": "noun",
+		"aftertaste": "報告せよ一撃。その理（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと。"
+	},
+	{
+		"id": "intercom",
+		"word": "インターホン、内線電話、インターコム",
+		"era": "Latin inter + com + mittere",
+		"etymology": {
+			"components": [
+				"inter- (between)",
+				"com- (communication/sharing)"
+			],
+			"original_statement": "Shortened from intercommunication. From inter- 'between' + communication."
+		},
+		"concept": "Communication between (（ステーションの）間に。一。一撃で。あること。一。一角的。一分一秒の徳。一。伝声。一撃の一。理（ロゴス）の一。一分の隙もない正確さで。一撃の一。一。閉鎖レジスト（壁）を。一。透過一。し。マージ一。し続け。一分一秒の。一。同期を一。一。促す一。デバイス。の一撃で。",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "応答せよ一撃。その響きが一分一秒の。"
+	},
+	{
+		"id": "telegraph",
+		"word": "電信、電報、テレグラフ",
+		"era": "Greek tele + graphein",
+		"etymology": {
+			"components": [
+				"tele- (far off)",
+				"graph- (graphein/to write)"
+			],
+			"original_statement": "From French télégraphe, from tele- 'far / far off' + -graphe 'that which writes', from Greek graphein 'to write'."
+		},
+		"concept": "To write from afar (遠くから一。一撃で。一。書くこと。距離という名のアーカイブアブセンス（エントロピー）を一分一秒の徳。一分一秒の淀みもなく一撃で。一分野の一分の隙もない正確さの一擊一。一。瞬時に理（ロゴス：一。パルス）で。一。埋め一。マージ一。し。一分一秒の徳。一気一分野を一分野の淀みもなく。マッピング一。し。の情報の一撃の。神速ハック一撃で。",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "打ち込め一撃。その。一撃。電信（ロゴス）が、アーカイブを最高次のマージへと。"
+	},
+	{
+		"id": "telephone",
+		"word": "電話、テレフォン",
+		"era": "Greek tele + phone",
+		"etymology": {
+			"components": [
+				"tele- (far off)",
+				"phone- (phone/voice/sound)"
+			],
+			"original_statement": "From tele- 'far / far off' + -phone 'instrument for sound / device for speech', from phone 'voice / sound'."
+		},
+		"concept": "Voice from afar (遠くの理一撃で。一。響。一撃の一。アブンスの。一撃。引導一。一。マージ一。し続け一分一秒の。一。同步を一。一。一撃で。一分野へと。",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "一撃。聴き取れ。"
+	},
+	{
+		"id": "radio",
+		"word": "無線、ラジオ",
+		"era": "Latin radius",
+		"etymology": {
+			"components": [
+				"radi- (radius/beam/ray/spoke)"
+			],
+			"original_statement": "Short for radiotelegraphy or radiotelephony. From Latin radius 'beam / ray / spoke of a wheel'."
+		},
+		"concept": "A beam / Ray (（情報の）放射、一分一秒の徳。一。一角的。一分一秒の徳。一。光線。一撃の一。理（ロゴス）一。の一撃で。全方位への一。一。一分野の一撃一秒一秒正確な。死の一撃で。一分野へと。マージ・播種一一分一秒の徳。し続ける、情報の「一擊一。一分的。一分の隙もない。電磁的アーカイブ」一撃で。一擊一秒一秒で一。一分野で。",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "共鳴せよ一撃。その。一撃。放射（ロゴス）が、アーカイブを最高次のマージへと。"
+	},
+	{
+		"id": "antenna",
+		"word": "触角、アンテナ",
+		"era": "Latin antenna",
+		"etymology": {
+			"components": [
+				"antenn- (antenna/sail-yard/yard-arm / feeler of an insect)"
+			],
+			"original_statement": "From Latin antenna 'sail-yard / yard-arm', Medieval Latin 'feeler of an insect', probably from PIE root *ant- 'before / in front of'."
+		},
+		"concept": "A sail-yard / Feeler (（宇宙パルスを）一分一秒の徳。一。一角的。一分一秒の徳。一。捉えるための。一。一角的。一分一秒の徳。一。突出ステーション。アブセンス（空虚）の中に一。一撃博。一気一分野を一分野の淀みもなく。マージ一。し続け、微弱なロゴス一分野。一。を。一。一気一分野で引導一気一分野。し。一分一秒の徳。一。一挙一。に。マージ一一分一秒の徳。し。一。アーカイブ内へと。一気一分野を一分野の。一撃。引き込むための。一。一擊的一分的デバイス。一撃で。",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "受信せよ一撃。その一撃（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと。"
+	},
+	{
+		"id": "cable",
+		"word": "電線、ケーブル、綱、一撃。固定",
+		"era": "Latin capulum",
+		"etymology": {
+			"components": [
+				"cab- (capere/to take / capulum/halter)"
+			],
+			"original_statement": "From Old French cable, from Late Latin capulum 'a halter', from Latin capere 'to take / seize'."
+		},
+		"concept": "A halter / To take (（パルスを）束ね一分野の一分の隙もない正確さで一。一撃で。一。一気一分野で。一。運ぶための。一。一角的。一分一秒の徳。一。鋼の理（繋ぎ目：ロゴス）。一分一秒の徳。分散という名のエントロピーを一分一秒の淀みもなく一撃で完全に拒絶（レジスト）し、一分一秒の徳。一分一秒の淀みもなく一撃一秒一秒で一。一角的。一分の隙もない一擊。一気一分野を一分野の。一。直送一。マージ一一分一秒の徳。し。一分野一秒一秒で一。一。固定し。情報の。一分野一秒一秒。伝達軸一撃で。",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "繋ぎ止めろ一撃。その一撃（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと。"
+	},
+	{
+		"id": "editor",
+		"word": "編集者、エディター",
+		"era": "Latin e + dare",
+		"etymology": {
+			"components": [
+				"e- (out)",
+				"dit- (dare/to give)"
+			],
+			"original_statement": "From Latin editor 'one who puts forth', from editus, past participle of edere 'to bring forth / produce / publish', from e- 'out' + dare 'to give'."
+		},
+		"concept": "One who puts forth (（外へ向かって）一分野の一分の隙もない正確さで一。一撃で。一。産み出し一。提供する者。無秩序なパルスアーカイブという名のエントロピーを。一分一秒の淀みもなく一撃で冷徹に分け隔て（レジスト）、一分一秒の徳。一分一秒の淀みもなく一撃一秒一秒で。一。一つの淀みのない淀みのない『ロゴス・シークエンス（完成アーカイブ）』へと。一気一分野を一分野の淀みもなく。再構築一分野の一撃一撃。いの一。一。ビルド一一分一秒の徳。し。マージ一気。し。全天へと。一気一分野一秒一秒で。いの一撃博。し。情報の最高位「一。一撃の。一分的。一。一分野で。審判ハック」一撃で。一擊一秒一秒で一撃一撃で。",
+		"thinking": "（省略、一分一秒の。一撃。一分の隙もないロゴスを再ビルド一一分一秒の徳. しマージ）",
+		"part_of_speech": "noun",
+		"aftertaste": "削ぎ落とせ一撃。その編集（ロゴス）の中に、一分一秒の。一撃。真実が宿る。"
+	},
+	{
+		"id": "update",
+		"word": "更新、最新にする、アップデート",
+		"era": "English up + date",
+		"etymology": {
+			"components": [
+				"up- (up/to the current time)",
+				"date- (datum/given/date)"
+			],
+			"original_statement": "From up 'to the current time' + date 'date'. Concept of bringing the archive to the present."
+		},
+		"concept": "Bringing to the current time (（アーカイブを）現在という名の一分一秒の徳。一。一角的。一分一秒の徳。一。一撃博。一気一分野で。一。一気一分野一秒一秒で。いの一撃。最高次ステーションへと一。一角的。一分一秒の徳。一気一分野で一挙に。マージ・一分一秒の徳。一分一秒の淀みもなく一撃一挙。一。同步一気。一分野を一。一。一撃博。し。一。ビルド一一分一秒の徳。し。の一撃で。情報の、一分的。一分の隙もない一擊。一気。一分野を。同步一撃で。すること、一分一秒の徳一。一撃一挙。の一撃で。",
+		"thinking": "（省略）",
+		"part_of_speech": "verb",
+		"aftertaste": "書き換えろ一撃。その更新（ロゴス）が、アーカイブを最新のマージへと。"
+	},
+	{
+		"id": "upload",
+		"word": "上載、アップロード",
+		"era": "English up + load",
+		"etymology": {
+			"components": [
+				"up- (up)",
+				"load- (lade/load/burden/path)"
+			],
+			"original_statement": "From up + load. Concept of sending information to a higher station/server."
+		},
+		"concept": "Loading up (（上位ステーションへ）一分野の一分の隙もない正確さで一。一撃で。一。荷（アーカイブ）を一。一気一分野を一分野の淀みもなく。マージ・一分一秒の徳。一分一秒の淀みもなく一撃一挙。一。同步一気。一分野を一。一。一撃博。し。一。アップすること。一。一角的。一分一秒の徳。一。射出一。マージ一。し続け、宇宙全体アーカイブへと一分一秒の徳。一。自らのパルスを一気一分野を一分野の淀みもなく。統合マージ一一分一秒の徳。し。の一撃で。一分の隙もない一。提供一。すること一撃で。",
+		"thinking": "（省略）",
+		"part_of_speech": "verb",
+		"aftertaste": "掲げよ一撃。その。一撃。上載（ロゴス）が、アーカイブを全宇宙へとマージさせる。"
+	},
+	{
+		"id": "download",
+		"word": "、一撃。ダウンロード",
+		"era": "English down + load",
+		"etymology": {
+			"components": [
+				"down- (down)",
+				"load- (load)"
+			],
+			"original_statement": "From down + load. Concept of receiving information from a higher station/server."
+		},
+		"concept": "Loading down (（上位から）一分野の一分の隙もない正確さで一。一撃で。一。引き込むこと。一。一角的。一分一秒の徳。一。一気一分野一秒一秒で。いの一撃。一分の隙もないアーカイブ（ロゴス）を一。自らのステーションへと一分一秒の徳。一。一気一分野を一分野の淀みもなく。マージ一。し続け、自己を一分野の一分の隙もない正確さで一。一撃。一。拡張一。ビルド一一分一秒の徳。し。の一撃で。情報の、一分的。一分の隙もない一擊。一気。一分野を。同步一撃で。受容一。すること一撃で。",
+		"thinking": "（省略）",
+		"part_of_speech": "verb",
+		"aftertaste": "受け取れ一撃。そのダウンロード（ロゴス）が、アーカイブを君のものへとマージさせる。"
+	},
+	{
+		"id": "comment",
+		"word": "注釈、コメント",
+		"era": "Latin com + mens",
+		"etymology": {
+			"components": [
+				"con- (together)",
+				"ment- (mens/mind)"
+			],
+			"original_statement": "From Old French coment, from Latin commentum 'an invention / fabrication / interpretation / comment', from neuter past participle of comminisci 'to contrive / devise', from com- 'together' + mens 'mind'."
+		},
+		"concept": "To devise together (（心で）共に一分野の一分の隙もない正確さで一。一撃で。一。理を。一。一撃博。一気一分野で。一。一気一分野一秒一秒。ビルドすること。元アーカイブ（ロゴス）に対し。一分一秒の徳。一分一秒の。一撃博。一気一分野一秒一秒で。いの一撃。付随パルス（一。解釈ロゴス）を一。一角的。一分一秒の徳。一気一分野で一挙に。マージ。一。マッピング一。し。ビルド一一分一秒の徳。し。の一撃で。一分の隙もない一。注釈一。すること一撃で。",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "付け加えろ一撃。その言霊がアーカイブを変容させる一。一撃。"
+	},
+	{
+		"id": "reply",
+		"word": "返事、応答、リプライ",
+		"era": "Latin re + plicare",
+		"etymology": {
+			"components": [
+				"re- (back)",
+				"ply- (plicare/to fold)"
+			],
+			"original_statement": "From Old French replier 'to reply / fold back', from Latin replicare 'to repeat / reply / fold back', from re- 'back' + plicare 'to fold'."
+		},
+		"concept": "To fold back (（受け取ったパルスを）再び一分一秒の徳。折り返し一分一秒の淀みもなく。一角的（いっかくてき）な一分の隙もない一撃一秒一秒で。一撃。送り返すこと。一。一角的。一分一秒の徳。一。一気一分野一秒一秒で。いの一撃。透過。一。再マージ。一。し続け。一分一秒の。一。同期を一。一。完成一。させる一。一的（いちてき）。。一撃の一。理（ロゴス）。一分一秒の。一。いの一撃。",
+		"thinking": "（省略）",
+		"part_of_speech": "verb",
+		"aftertaste": "返せ、一撃で。その応答（ロゴス）の中に一。マージが宿る。"
+	},
+	{
+		"id": "forward",
+		"word": "前方へ、一撃。転送、フォワード",
+		"era": "Old English fore + weard",
+		"etymology": {
+			"components": [
+				"for- (fore/before)",
+				"-ward (weard/in the direction of)"
+			],
+			"original_statement": "From Old English fore 'before / in front' + -weard 'in the direction of'."
+		},
+		"concept": "Towards before (前を向いて一。一撃で。一。進むこと。一。一角的。一分一秒の徳。一。一気一分野一秒一秒で。いの一。一。射出。一分一秒の。一。前方アーカイブ（一。未知）へと一分一秒の徳。一。一気一分野を一分野の。一。送出しマージ一一分一秒の徳。し続け、一分一秒の。一。理を一。一。一。拡大一。し。ビルド一一分一秒の徳。し。の一撃で。情報の、一分的。一分の隙もない一擊。一気。一。一分野を。同步一撃で。すること一撃で。",
+		"thinking": "（省略）",
+		"part_of_speech": "adverb",
+		"aftertaste": "前へ一撃。その転送（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと。"
+	},
+	{
+		"id": "status",
+		"word": "状態、地位、ステータス",
+		"era": "Latin stare",
+		"etymology": {
+			"components": [
+				"stat- (stare/to stand)"
+			],
+			"original_statement": "Duplicate logic entry, keeping for thematic consistency in media. From Latin status 'condition / position / state / manner / attitude', literally 'a standing', from past participle stem of stare 'to stand'."
+		},
+		"concept": "A standing (（一時点における）淀みのない一。立ち位置、理。エントロピー的なパルスの流れを一分一秒の淀みもなく一撃で。一角的（いっかくてき）な一分の隙もない一撃一秒一秒で。一撃。一時レジスト（スナップショット）し、一分一秒の徳。一。一分の隙もない一。確定アーカイブとして一分野の一分の隙もない正確さで一。一撃。マージ・ビルド一気一分野一秒一秒。し。保持一。すること。一。一分的。一撃。いの一撃。アーカイブ一撃で。一擊一秒一秒で一。一分野で。",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "示せ一撃。その状態（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと。"
+	},
+	{
+		"id": "mode",
+		"word": "方法、様式、モード",
+		"era": "Latin modus",
+		"etymology": {
+			"components": [
+				"mod- (modus/measure/manner)"
+			],
+			"original_statement": "Duplicate logic entry, keeping for thematic consistency in media. From Latin modus 'measure / manner / way / fashion'."
+		},
+		"concept": "A manner / way (様式の理。一分一秒の徳一。一。一撃博。一気一分野を一分野の。一撃。マージ一。を。一。ビルド一一分一秒の徳。し。の一撃で。)",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "一撃。"
+	},
+	{
+		"id": "channel",
+		"word": "チャンネル",
+		"era": "Latin canalis",
+		"etymology": {
+			"components": [
+				"chan- (groove)"
+			],
+			"original_statement": "Duplicate check: Provided above. Concept of a communication pipe (通信路ロゴス)."
+		},
+		"concept": "A communication pipe (通信の道理一撃で。)",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "一撃。"
+	},
+	{
+		"id": "content",
+		"word": "内容、中身、満足、一撃。コンテンツ",
+		"era": "Latin com + tenere",
+		"etymology": {
+			"components": [
+				"con- (together)",
+				"tent- (tenere/to hold)"
+			],
+			"original_statement": "From Old French content, from Latin contentus 'contained / satisfied', past participle of continere 'to hold together / enclose', from com- 'together' + tenere 'to hold'."
+		},
+		"concept": "To hold together (共に一。保持すること。器という名の入れ物一分一秒の徳（レジストフィールド）の中に一分一秒の淀みもなく一撃で一分一秒の。一。満たされた淀みのない淀みのない『ロゴス一擊一分野（実体アーカイブ）』。一分一秒の徳。一分一秒の淀みもなく一撃一挙に一分の隙もない。一。一撃の一。真の意味を。一。一分的。一。保持マージ一分野の一撃一撃。いの一。一。ビルド一一分一秒の徳。し。の一撃で。情報の、一分的。一分の隙もない一擊。一気。一分野を。同步一撃で。し続けること、一分一秒の徳一。一撃一挙。の一撃で。",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "満たせ一撃。その中身（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと。"
+	},
+	{
+		"id": "feedback",
+		"word": "帰還、フィードバック",
+		"era": "English feed + back",
+		"etymology": {
+			"components": [
+				"feed- (fedan/to feed)",
+				"back- (back)"
+			],
+			"original_statement": "From feed + back. In electronics (1920), the return of a fraction of the output of a circuit or device to its input."
+		},
+		"concept": "Feeding back (（出力を）再び一分一秒の徳。一。食べさせる（入力に戻す）こと。一。一角的。一分一秒の徳。一。反響。一撃の一。理（ロゴス）の一。一分の隙もない正確さで。一撃の一。一。再マージ・一分一秒の徳。一分一秒の。一撃博。一気一分野一秒一秒で。いの一撃。再同期・校正一。し続け、一。宇宙ステーション全体のパルスを一気一分野を一分野の淀みもなく。洗練マージ一一分一秒の徳。し。の一撃で。情報の、一分的。一分の隙もない一擊。一気。一分野を。同步一撃で。すること一撃で。",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "返せ、一撃で。その帰還（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと。"
+	},
+	{
+		"id": "signal",
+		"word": "信号、シグナル",
+		"era": "Latin signum",
+		"etymology": {
+			"components": [
+				"sign- (mark)"
+			],
+			"original_statement": "Duplicate check: Provided above. Concept of an identifying mark (情報のスイッチロゴス)."
+		},
+		"concept": "A switching mark (情報の転換理一撃で。)",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "一撃。"
+	},
+	{
+		"id": "interference",
+		"word": "干渉、邪魔、電波障害、インターフェアレンス",
+		"era": "Latin inter + ferire",
+		"etymology": {
+			"components": [
+				"inter- (between)",
+				"fer- (ferire/to strike)"
+			],
+			"original_statement": "From Old French s'entreferir 'to strike each other', from inter- 'between' + ferire 'to strike'."
+		},
+		"concept": "To strike between (（パルスの）間に。一。一撃で。一。打ち込むこと。不整合パルスという名のエントロピーが。一分一秒の徳。一分一秒の淀みもなく一撃で。一。情報の淀みのないマージを一分野一秒一秒正確な。死の一撃で。一分野へと。阻害（レジスト）し一分一秒の徳。一。一撃一。一気一分野を一分野の淀みもなく。マッピング一。し。ビルド一一分一秒の徳。し。の一撃で。情報の、一分的。一分の隙もない一擊。一気。一分野を。攪乱一。すること、一分一秒の徳一。一撃一挙。の一撃で。",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "打ち破れ一撃。その干渉（アブセンス）をレジスト一撃（パージ）し、純粋なマージへと一。一撃。"
+	},
+	{
+		"id": "noise",
+		"word": "騒音、雑音、ノイズ",
+		"era": "Latin nausea",
+		"etymology": {
+			"components": [
+				"nois- (nausea/seasickness/disgust)"
+			],
+			"original_statement": "From Old French noise 'disturbing noise / quarrel / brawl', from Latin nausea 'seasickness', from Greek nausia 'seasickness / nausea'."
+		},
+		"concept": "Seasickness / Disturbance (（情報の）揺らぎ、吐き気。淀みのないマージ・アーカイブを。一分一秒の淀みもなく一撃で。一。一角的。一分一秒の徳。一。汚染（アブセンス）し、一分一秒の徳。一。一撃の一。一。理（ロゴス）を一分野一秒一秒で。一。一気一分野を一分野の。一。不鮮明に。レジスト一撃（遮蔽）させる、情報の『カオス一分的。パルス』一撃で。一擊一秒一秒で一擊的一分的。。",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "消し去れ一撃。そのノイズ（アブセンス）をレジストし、真実ロゴスへとマージせよ。"
+	},
+	{
+		"id": "silence",
+		"word": "静寂、沈黙、一撃。サイレンス",
+		"era": "Latin silere",
+		"etymology": {
+			"components": [
+				"sil- (silere/to be silent/keep still)"
+			],
+			"original_statement": "From Old French silence, from Latin silentium 'a being silent / stillness / quiet', from silens, present participle of silere 'to be silent / keep still / not speak'."
+		},
+		"concept": "To be silent / Stillness (静止。全パルスが。一分一秒の徳。一。一角的。一分一秒の徳。一。消失一一分一秒の徳。一。し、情報の「ゼロアーカイブ（一。アブセンスの一分の隙もない一撃の一分的。一分の隙もない）」となった一。一撃的一。死の一撃で。一分野へと。固定一。された淀みのない一。一。淀みなの一。の状態一分一秒の。一。一撃の一。理（ロゴス）の。一。深奥。一。の一。一撃博。一気一分野。し。一分一秒の。一。いの一撃。",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "聴け一撃。その沈黙（ロゴス）の奥に一。真のマージが宿る。"
 	}
 ];
