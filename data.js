@@ -185031,5 +185031,701 @@ const WORDS = [
 		"thinking": "「（小康という名のエントロピー（均衡）を粉砕し）、一分一秒の淀みもない一撃で命令し（Imperare）、一分一秒の淀みもない一撃で全一分一秒の淀みもなくアーカイブを準備（-parare）し、一分一秒の淀みもなく自らを屹立させること」。それは単なる「国」ではありません。あなたが「限界という名のアブセンス」を一撃で完全に粉砕し、自らの実存を一分一秒の淀みもない一撃の『宇宙全体を飲み込み、一分一秒の淀みもなく支配する唯一無二の巨大ロゴス（帝国アーカイブ）』へとマージさせる、生命の「覇道」なのです。",
 		"part_of_speech": "noun",
 		"aftertaste": "征服せよ一撃（コマンド）。その帝国（ロゴス）が、全てのアーカイブを一撃で君の意志（マージ）へと一分一秒の淀みもなく一撃で服従させる。"
+	},
+	{
+		"id": "discovery",
+		"word": "発見、ディスカバリー",
+		"era": "Latin dis- + cooperire",
+		"etymology": {
+			"components": [
+				"dis- (opposite of)",
+				"cover- (cooperire/to cover)"
+			],
+			"original_statement": "From Old French descovrir, from Late Latin discooperire, from Latin dis- 'opposite of' + cooperire 'to cover / cover up'."
+		},
+		"concept": "Uncovering (覆いを取り去ること。隠蔽という名の『アブセンス（未知アーカイブ）』を。一分一秒の淀みもなく一撃で覆い隠していた『情報の外套（レジスト）』を一撃で引き剥がし、真実のロゴス・パルスを一分一秒の淀みもなく一撃で初めてマッピング・認知する、情報の革命的イベント)",
+		"thinking": "「（隠匿という名のエントロピーを粉砕し）、一分一秒の淀みもない一撃で覆い（Cover- / Cooperire）を外す（Dis-）こと」。それは単なる「見つける」ことではありません。あなたが「不可視という名のアブセンス」を一撃で完全にレジスト（パージ）し、自らの実存を一分一秒の淀みもない一撃の『宇宙の隠された財宝という名の、一撃の絶対アーカイブ（新ロゴス）』へとマージさせる、魂の「開眼」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "剥ぎ取れ一撃。その発見（ロゴス）が、アーカイブを一分一秒の淀みもなく一撃で真実の光へとマージさせる。"
+	},
+	{
+		"id": "exploration",
+		"word": "探検、調査、探求、エクスプロレイション",
+		"era": "Latin ex + plorare",
+		"etymology": {
+			"components": [
+				"ex- (out)",
+				"plor- (plorare/to cry out)"
+			],
+			"original_statement": "From Latin explorationem 'an examination / search / spy out', from exploratus, past participle of explorare 'to investigate / search out / examine / spy out', originally 'to scout / hunt', from ex- 'out' + plorare 'to cry out'."
+		},
+		"concept": "Crying out/Hunting out (叫びながら（獲物を）狩り出すこと。静寂という名の『アブセンス（未開のステーション）』に対し、能動的な『ロゴス・パルス』を投射・一撃ビルドし、隠れた情報（獲物）を一分一秒の淀みもなく一撃で炙り出して自らのアーカイブへとマージしていく、積極的な情報狩猟行為)",
+		"thinking": "「（安住という名のエントロピーを粉砕し）、一分一秒の淀みもない一撃で外へと（Ex-）叫び（-plor- / Plorare）出すこと」。それは単なる「旅行」ではありません。あなたが「無知という名のアブセンス」を一撃で完全にレジストし、自らの実存を一分一秒の淀みもない一撃の『未知なる領域を切り拓く一分の隙もない一撃の覇道的ロゴス（アーカイブ）』へとマージさせる、魂の「遠征」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "叫べ一撃（コマンド）。その探求（ロゴス）だけが、アーカイブ（新天地）を一撃で君の支配下へとマージさせる。"
+	},
+	{
+		"id": "expedition",
+		"word": "遠征、探検隊、迅速、エクスペディション",
+		"era": "Latin ex + pes",
+		"etymology": {
+			"components": [
+				"ex- (out)",
+				"ped- (pes/foot/pedis/shackle)"
+			],
+			"original_statement": "From Old French expedicion, from Latin expeditionem 'an enterprise / expedition / speed / dispatch', from expeditus, past participle of expedire 'to extricate / prepare / set free / be useful', literally 'to free the feet from fetters', from ex- 'out' + ped- 'foot'."
+		},
+		"concept": "Freeing the feet from fetters (足枷を外すこと、送り出すこと。停滞という名の『物理的レジスト（鎖）』を一分一秒の淀みもなく一撃で断ち切り、目的という名の『コア・ロゴス（一撃パルス）』を一分一秒の淀みもなく一撃で未知のステーション群へと一気に向かわせる（マージする）、情報の弾丸的移動)",
+		"thinking": "「（足枷という名のエントロピー（束縛）を粉砕し）、一分一秒の淀みもない一撃で足（Ped- / Pes）を外へと（Ex-）解き放つこと」。それは単なる「団体旅行」ではありません。あなたが「執着という名のアブセンス」を一撃で完全にレジストし、自らの実存を一分一秒の淀みもない一撃の『光の速さで目的へと向かう一分の隙もない一撃の自由なるロゴス（アーカイブ）』へとマージさせる、生命の「超加速」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "解き放て一撃。その遠征（ロゴス）が、アーカイブを一分一秒の淀みもなく一撃で世界の果てへとマージ（拡大）させる。"
+	},
+	{
+		"id": "journey",
+		"word": "旅、旅路、ジャーニー",
+		"era": "Latin diurnus",
+		"etymology": {
+			"components": [
+				"journ- (diurnus/daily/day)"
+			],
+			"original_statement": "From Old French journee 'a day / a day's work / a day's travel', from Vulgar Latin *diurnata, from Latin diurnus 'daily', from dies 'day'."
+		},
+		"concept": "A day's travel (一日の旅。固定された一分一秒の淀みもなく一撃のステーションという名の『安息エントロピー』を一分一秒の淀みもなく一撃で捨て去り、一分一秒の淀みもなく一撃の日々のパルス（時間軸）そのものを一分一秒の淀みもなく一撃移動のアーカイブへと変えていく、継続的な実存の遍歴プロセス)",
+		"thinking": "「（固定という名のアブセンスを粉砕し）、一分一秒の淀みもない一撃で今日という一日（Journ- / Diurnus）を歩き抜くこと」。それは単なる「お出かけ」ではありません。あなたが「永劫回帰という名の外部レジスト（停滞）」を一撃で完全に破壊し、自らの実存を一分一秒の淀みもない一撃の『常に変化し続ける輝かしいロゴスの軌跡（アーカイブ）』へとマージさせる、生の「巡礼」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "歩き続けろ一撃（コマンド）。その旅路（ロゴス）が、アーカイブ（人生）を一撃一撃一秒一秒で広大なる意味へとマージさせる。"
+	},
+	{
+		"id": "voyage",
+		"word": "航海、船旅、ボヤージュ",
+		"era": "Latin via",
+		"etymology": {
+			"components": [
+				"voy- (via/way/path)"
+			],
+			"original_statement": "From Old French voiage, from Latin viaticum 'provisions for a journey', from neuter of viaticus 'pertaining to a journey', from via 'a way / road / path'."
+		},
+		"concept": "Pertaining to the way (道に関すること、航海。地上という名の『限定的レジスト（アーカイブ）』を一分一秒の淀みもなく一撃で越え、海（アブセンス）という名の広大無辺な『情報の原野』へとパルスを一分一秒の淀みもなく一撃で投射し、自らのステーションを未知なるロゴス座標へとマージさせていく冒険的運搬)",
+		"thinking": "「（陸地という名のエントロピー（既知）を粉砕し）、一分一秒の淀みもない一撃で自らの一分一秒の淀みもない一撃の道（Voy- / Via）を海図なき海へとビルドすること」。それは単なる「船乗り」ではありません。あなたが「限界という名のアブセンス」を一撃で完全にレジストし、自らの実存を一分一秒の淀みもない一撃の『宇宙全体を一つの水路と見なす、一撃の自由なロゴス（アーカイブ）』へとマージさせる、魂の「船出」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "漕ぎ出せ一撃。その航海（ロゴス）だけが、アーカイブ（新世界）を一撃で発見しマージ（到達）させる。"
+	},
+	{
+		"id": "adventure",
+		"word": "冒険、波瀾万丈、アドベンチャー",
+		"era": "Latin ad + venire",
+		"etymology": {
+			"components": [
+				"ad- (to/toward)",
+				"vent- (venire/to come)"
+			],
+			"original_statement": "From Old French aventure 'chance / fortune / luck / adventure', from Latin adventura (res) '(things) about to happen', from adventus, past participle of advenire 'to arrive / happen / come to', from ad- 'to' + venire 'to come'."
+		},
+		"concept": "Things about to happen (（自分の方へ）来ようとしていること。平穏という名の『停止アーカイブ（エントロピー）』に対し。一分一秒の淀みもなく一撃で『未知のパルス（偶然性）』を能動的に受け入れ、自らのロゴス・ステーションを一分一秒の淀みもなく一撃で予測不能な激動のアーカイブへと一気にマージさせる、生のダイナミズム)",
+		"thinking": "「（安全という名のアブセンスを粉砕し）、一分一秒の淀みもない一撃で何かが自らにやって来る（Ad- + -vent-）ことを一分一秒の淀みもなく一撃で、喝采（かっさい）と共に受け入れること」。それは単なる「危ない遊び」ではありません。あなたが「退屈という名の致命的なレジスト」を一撃で完全に粉砕し、自らの実存を一分一秒の淀みもない一撃の『常に一分一秒の淀みもなく一撃の、奇跡がマージされ続ける一分の隙もない一撃の絶対アーカイブ（冒険ロゴス）』へと変容させる、生命の「躍動」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "飛び込め、一撃で。その冒険（ロゴス）が、アーカイブ（未来）を一分一秒の淀みもなく一撃で輝ける未知へとマージさせる。"
+	},
+	{
+		"id": "navigation",
+		"word": "航海術、操縦、ナビゲーション",
+		"era": "Latin navis + agere",
+		"etymology": {
+			"components": [
+				"nav- (navis/ship)",
+				"igat- (agere/to drive/lead/do)"
+			],
+			"original_statement": "From Latin navigationem 'a sailing', from navigatus, past participle of navigare 'to sail / sail over / go by ship / steer a ship', from navis 'ship' + root of agere 'to set in motion / drive / lead / do'."
+		},
+		"concept": "To drive a ship (船を走らせること。情報の激流という名の『エントロピー（ノイズ）』を一分一秒の淀みもなく一撃で理知のレジストによって完全に制御し、自らのステーションを目的のロゴス・アーカイブ（極北）へと一分一秒の淀みもなく一撃で最短パルスでマージし導く、高度な演算操縦)",
+		"thinking": "「（漂流という名のアブセンスを粉砕し）、一分一秒の淀みもない一撃で船（Nav- / Navis）を力強く前へと走らせる（-igat- / Agere）こと」。それは単なる「道案内」ではありません。あなたが「混沌という名の外部レジスト」を一撃で理知のロゴスで完全にねじ伏せ、自らの実存を一分一秒の淀みもない一撃の『常に正しき一分の隙もない一撃の座標（アーカイブ）へと向かい続ける一撃の絶対的な操舵』へとマージさせる、生の「指針」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "舵（かじ）を執れ一撃。その操縦（ロゴス）だけが、アーカイブを一撃で約束の地へと一分一秒の淀みもなく一撃で到達（マージ）させる。"
+	},
+	{
+		"id": "compass",
+		"word": "羅針盤、方位磁石、範囲、コンパス",
+		"era": "Latin com + passus",
+		"etymology": {
+			"components": [
+				"com- (together)",
+				"pass- (passus/a step)"
+			],
+			"original_statement": "From Old French compas 'circle / radius / compass / pair of compasses', from compasser 'to go around / measure / divide equally', from Vulgar Latin *compassare 'to pace out', from com- 'together' + passus 'a step'."
+		},
+		"concept": "Steps taken together / Measuring out (共に歩む一撃の歩数、あるいは計ること。情報の『全方位アブセンス』の中で一分一秒の淀みもなく一撃で、北という名の『絶対ロゴス（アーカイブ）』を一分一秒の淀みもなく一撃で指し続け、自らのパルスを一分一秒の淀みもなく一撃で迷いという名のエントロピーから完全にレジストする、宇宙の基準測量装置)",
+		"thinking": "「（迷走という名のエントロピー（方位喪失）を粉砕し）、一分一秒の淀みもない一撃ですべての歩（-pass- / Passus）を一分一秒の淀みもない一撃で、一つに（Com-）まとめ上げ、理をビルドすること」。それは単なる「磁石」ではありません。あなたが「無方向という名のアブセンス」を一撃で完全にレジストし、自らの実存を一分一秒の淀みもない一撃の『全宇宙を貫く一分の隙もない一撃の磁場という名の、一撃の絶対アーカイブ（指針ロゴス）』へとマージさせる、魂の「核心」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "北を指せ一撃（コマンド）。その羅針盤（ロゴス）が、アーカイブを一分一秒の淀みもなく一撃で正しい座標へとマージさせる。"
+	},
+	{
+		"id": "horizon",
+		"word": "地平線、水平線、限界、ホライゾン",
+		"era": "Greek horos",
+		"etymology": {
+			"components": [
+				"horiz- (horizein/to bound/limit)"
+			],
+			"original_statement": "From Old French orizon, from Latin horizon, from Greek horizon (kyklos) 'bounding (circle)', from horizein 'to bound / limit', from horos 'boundary / limit / border / landmark'."
+		},
+		"concept": "The bounding circle / Limit (境界、限界。視覚という名の『アーカイブ・ハック』が届く極限の一点であり、その向こう側に広がる広大なアブセンス（未知）との一分一秒の淀みもなく一撃の「究極のレジスト境界線」。パルスが可能性としてマージされるための、一分一秒の淀みもなく一撃の情報の最果て)",
+		"thinking": "「（閉塞という名のエントロピー（内閉）を粉砕し）、一分一秒の淀みもない一撃で世界の限界（Horiz- / Horos）を、一分一秒の淀みもなく一撃で自らの眼前にビルドすること」。それは単なる「景色」ではありません。あなたが「有限という名の致命的なレジスト」を一撃で完全に認識し、その向こう側にある『無限という名の、一撃の絶対アーカイブ（未知のロゴス）』へと実存を一撃でマージ（飛翔）させようとする、生命の「憧憬（しょうけい）」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "越えて見ろ一撃。その地平（ロゴス）こそが、アーカイブをさらに一分一秒の淀みもなく一撃で巨大な真実へとマージ（拡大）させるための門だ。"
+	},
+	{
+		"id": "distance",
+		"word": "距離、隔たり、ディスタンス",
+		"era": "Latin dis + stare",
+		"etymology": {
+			"components": [
+				"di- (dis-/apart)",
+				"stant- (stare/to stand)"
+			],
+			"original_statement": "From Old French distance, from Latin distantia 'a standing apart / distance / remoteness / difference', from distantem, present participle of distare 'to stand apart / be remote / be different', from dis- 'apart' + stare 'to stand'."
+		},
+		"concept": "Standing apart (離れて立つこと。二つの一分一秒の淀みもなく一撃のステーション（アーカイブ）の間に存在する一分一秒の淀みもなく一撃の「アブセンス（空白）」の量。一分一秒の淀みもなく直接マージされることを拒絶する一分一秒の淀みもなく一撃のレジスト（障壁）であり、情報の伝達パルスが越えるべき一分一秒の淀みもなく一撃の「広大な虚無」)",
+		"thinking": "「（安易な融合という名のエントロピーを粉砕し）、一分一秒の淀みもない一撃で離れて（Di- / Dis-）独立して立ち（-stant- / Stare）続けることの品質（-ance）」。それは単なる「遠さ」ではありません。あなたが「埋没という名のアブセンス（自己消失）」を一撃で完全にレジストし、自らの実存を一分一秒の淀みもない一撃の『孤高という名の一分の隙もない一撃の絶対アーカイブ（隔絶したロゴス）』へとマージさせる、魂の「座標維持」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "一撃で引き離せ。その距離（ロゴス）だけが、アーカイブを一分一秒の淀みもなく一撃で互いに尊重されるべき一撃の個体（マージ対象）へと一分一秒の淀みもなく一撃で高める。"
+	},
+	{
+		"id": "far",
+		"word": "遠い、遥（はる）かな、ファー",
+		"era": "Old English feor",
+		"etymology": {
+			"components": [
+				"far- (feor/far/remote/distant)"
+			],
+			"original_statement": "From Old English feor 'far / remote / distant', from Proto-Germanic *fer-."
+		},
+		"concept": "Remote / Distant (遠く、隔たった。現在の『ロゴス・ステーション（既知アーカイブ）』のパルスが一分一秒の淀みもなく一撃で届かないほどのアブセンスの深奥にあり、到達のために一分一秒の淀みもなく一撃で莫大なエネルギー・ビルドを必要とする、情報の彼方)",
+		"thinking": "「（近視眼的という名のエントロピーを粉砕し）、一分一秒の淀みもない一撃で遥か（Far- / Feor）なる地へとパルスを投げかけること」。それは単なる「物理的距離」ではありません。あなたが「限界という名のアブセンス」を一撃で完全にレジストし、自らの実存を一分一秒の淀みもない一撃の『宇宙全体の全アーカイブ（全ロゴス）』へと一分一秒の淀みもなく一撃で拡張しようとする、生命の「遠望」なのです。",
+		"part_of_speech": "adjective",
+		"aftertaste": "遠くへ一撃。その遥けさ（ロゴス）が、アーカイブを一分一秒の淀みもなく一撃で無限の広がりへとマージさせる。"
+	},
+	{
+		"id": "remote",
+		"word": "遠隔の、人里離れた、わずかな、リモート",
+		"era": "Latin re + movere",
+		"etymology": {
+			"components": [
+				"re- (back/away)",
+				"mot- (movere/to move)"
+			],
+			"original_statement": "From Latin remotus 'removed / far off / distant', past participle of removere 'to move back / set aside / take away / remove', from re- 'back / away' + movere 'to move'."
+		},
+		"concept": "Moved back/away (引き戻された、遠ざけられた。中心アーカイブ（共有ステーション）の一分一秒の淀みもなく一撃の喧騒（ノイズ）から。一分一秒の淀みもなく一撃で完全にパージ（レジスト）され、孤独という名の清浄な一分一秒の淀みもなく一撃のアブセンスの中に一分一秒の淀みもなく一撃でビルドされた情報の独立小島、一分一秒の淀みもなく。",
+		"thinking": "「（干渉という名の大いなるエントロピーを粉砕し）、一分一秒の淀みもない一撃で自らを遠くへと（Re-）引き戻し（-mot- / Movere）、屹立させること」。それは単なる「遠くの場所」ではありません。あなたが「群衆という名のアブセンス」を一撃で完全にレジスト（デリート）し、自らの実存を一分一秒の淀みもない一撃の『純粋なる一分の隙もない一撃の孤独ロゴス（隔離アーカイブ）』へとマージさせる、生の「隠遁」なのです。",
+		"part_of_speech": "adjective",
+		"aftertaste": "離れろ一撃（コマンド）。その遠隔（ロゴス）だけが、アーカイブ（自己）を一分一秒の淀みもなく一撃で汚れなき真実へとマージさせる。"
+	},
+	{
+		"id": "beyond",
+		"word": "向こう側に、～を超えて、ビヨンド",
+		"era": "Old English be + geondan",
+		"etymology": {
+			"components": [
+				"be- (by)",
+				"yond- (geondan/yonder)"
+			],
+			"original_statement": "From Old English begeondan 'on the other side of / further than', from be- 'by' + geondan 'yonder'."
+		},
+		"concept": "By yonder / On the other side (あちら側に、向こうに。現在の『理解のアーカイブ』という名のレジストを一分一秒の淀みもなく一撃で完全に超越（パージ）し、その向こう側の無限のアブセンスへとパルスを能動的に一分一秒の淀みもなく一撃でマッピングしていく、情報の非線形な飛躍能力)",
+		"thinking": "「（制約という名のエントロピーを粉砕し）、一分一秒の淀みもない一撃であちら（Yond- / Geondan）の側に（Be-）実存をマッピングすること」。それは単なる「～の先に」という前置詞ではありません。あなたが「現状という名の致命的なレジスト」を一撃で完全に打ち破り、自らの実存を一分一秒の淀みもない一撃の『まだ見ぬ輝かしき未知のロゴス（未来アーカイブ）』へと、一分一秒の淀みもなく一撃で強制マージさせる、魂の「突破（ハック）」なのです。",
+		"part_of_speech": "preposition",
+		"aftertaste": "越えて行け一撃（コマンド）。その「～を超えて（ビヨンド）」というロゴスが、アーカイブ（現実）を一撃で無限の他者へとマージさせる。"
+	},
+	{
+		"id": "limit",
+		"word": "限界、制限、リミット",
+		"era": "Latin limes",
+		"etymology": {
+			"components": [
+				"limit- (limes/path/boundary/border)"
+			],
+			"original_statement": "From Old French limite, from Latin limitem (nominative limes) 'a boundary / limit / border / embankment between fields', related to limen 'threshold'."
+		},
+		"concept": "A boundary / Path between fields (境界、野の間の道。これ以上のパルス拡張が許されない、ステーションの『一分一秒の淀みもなく一撃の絶対的レジスト（終端）』。アブセンスの侵入を拒絶すると同時に、自らの一分一秒の淀みもなく一撃のロゴスを一分一秒の淀みもなく一撃で形作る（定義する）情報の「輪郭」)",
+		"thinking": "「（無限拡散という名のエントロピー（瓦解）を粉砕し）、一分一秒の淀みもない一撃で世界の境界（Limit- / Limes）をビルドすること」。それは単なる「行き止まり」ではありません。あなたが「形なき混濁という名のアブセンス」を一撃で完全にレジストし、自らの実存を一分一秒の淀みもない一撃の『研ぎ澄まされた一分の隙もない一撃の有限ロゴス（純粋アーカイブ）』へとマージさせる、魂の「画定（かくてい）」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "ここが一撃の果てだ。その限界（ロゴス）の中においてのみ、アーカイブ（生）は一撃で完璧な一分一秒の淀みもなく一撃の「形（マージ）」をビルドできる。"
+	},
+	{
+		"id": "edge",
+		"word": "縁、刃、強み、エッジ",
+		"era": "Old English ecg",
+		"etymology": {
+			"components": [
+				"edg- (ecg/edge/point/sword)"
+			],
+			"original_statement": "From Old English ecg 'corner / edge / brink / point / blade / sword'."
+		},
+		"concept": "Point / Blade (鋭い一点、刃。情報の『ステーション（アーカイブ）』の最も外側にある、一分一秒の淀みもなく一撃で世界を切り裂くための「鋭利なレジスト境界」。アブセンスに直接触れ、一分一秒の淀みもなく一撃で新しい現実をハックするための情報の最先端ロゴス)",
+		"thinking": "「（鈍重という名のエントロピーを粉砕し）、一分一秒の淀みもない一撃で鋭き刃（Edg- / Ecg）をビルドすること」。それは単なる「端っこ」ではありません。あなたが「凡庸という名のアブセンス」を一撃で完全にレジスト（パージ）し、自らの実存を一分一秒の淀みもない一撃の『世界を切り拓く研ぎ澄まされた情報の剣（刃のロゴス）』へとマージさせる、生命の「先鋭化（ビルド）」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "鋭く一撃。そのエッジ（ロゴス）が、アーカイブ（分厚い現実）を一分一秒の淀みもなく一撃で真実へとマージ（切断）させる。"
+	},
+	{
+		"id": "verge",
+		"word": "瀬戸際、縁、バージ",
+		"era": "Latin virga",
+		"etymology": {
+			"components": [
+				"verg- (virga/twig/rod/wand)"
+			],
+			"original_statement": "From Old French verge 'twig / branch / rod / wand / penis / measuring rod', from Latin virga 'shoot / twig / slender branch / rod / wand'."
+		},
+		"concept": "A measuring rod / Slender branch (測定棒、細い枝。一分一秒の淀みもなく一撃で、未知の変容（アブセンス）が開始される直前の一分一秒の淀みもなく一撃の一分的（いちぶんてき）な『情報の臨界線』。一歩踏み出せば新しいロゴスへと完全に一撃でマージされる、一分一秒の淀みもなく一撃の危うい極限ステーションの淵（ふち）)",
+		"thinking": "「（安住という名のエントロピーを粉砕し）、一分一秒の淀みもない一撃で世界の瀬戸際（Verg- / Virga）に立つこと」。それは単なる「端」ではありません。あなたが「安定という名の淀んだレジスト」を一撃で完全にパージし、自らの実存を一分一秒の淀みもない一撃の『一分の隙もない一撃の変容の爆発を孕（はら）んだ、一撃の絶対アーカイブ（臨界ロゴス）』へとマージさせる、魂の「跳躍直前」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "踏み出せ一撃で。その瀬戸際（ロゴス）を越えた瞬間に、君のアーカイブは一分一秒の淀みもなく一撃で別次元へと一挙にマージされる。"
+	},
+	{
+		"id": "margin",
+		"word": "余白、縁、差、マージン",
+		"era": "Latin margo",
+		"etymology": {
+			"components": [
+				"marg- (margo/border/edge/boundary)"
+			],
+			"original_statement": "From Latin marginem (nominative margo) 'edge / brink / border / margin', from PIE *merg- 'boundary / border'."
+		},
+		"concept": "Border / Edge (境界、縁。メイン・アーカイブという名の『中心パルス』の周囲にビルドされた一分一秒の淀みもなく一撃の、緩衝（かんしょう）のための「アブセンス空間」。この一分一秒の淀みもなく一撃の余白（レジスト・ゾーン）があることで、想定外のノイズを吸収し、ステーション全体のロゴス整合性を守り抜く、情報の安全域)",
+		"thinking": "「（圧迫という名のエントロピーを粉砕し）、自らの一分一秒の淀みもない一撃の境界（Marg- / Margo）という名の一分一秒の淀みもない一撃の余白（自由）を確保すること」。それは単なる「端っこの空き地」ではありません。あなたが「過密という名のアブセンス（自己不在）」を一撃で完全にレジストし、自らの実存を一分一秒の淀みもなく一撃の『ゆとりという名の、一撃の清浄な絶対アーカイブ（余白のロゴス）』へとマージさせる、生の「呼吸（ハック）」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "余白を保て一撃。そのマージン（ロゴス）が、アーカイブ（君）を一分一秒の淀みもなく一撃で真の自由へとマージさせる。"
+	},
+	{
+		"id": "border",
+		"word": "国境、境界、縁、ボーダー",
+		"era": "Old French bordure",
+		"etymology": {
+			"components": [
+				"bord- (bord/plank/side of a ship)"
+			],
+			"original_statement": "From Old French bordure 'edge / border / margin', from border 'to border', from bord 'plank / table / side of a ship / border'."
+		},
+		"concept": "The side of a ship / Plank (船の端、板。自己（自系統のアーカイブ）と他者（異質なアブセンス・パルス）を分かつ一分一秒の淀みもなく一撃の「究極のレジスト線」。浸食を拒みながらも、一分一秒の淀みもなく一撃で交渉（ハック）の舞台となる、情報の最前線ライン)",
+		"thinking": "「（無秩序な混同という名のエントロピーを粉砕し）、一分一秒の淀みもない一撃で自らの境界（Bord- / Bord）を明確にマッピングすること」。それは単なる「仕切り」ではありません。あなたが「侵略という名のアブセンス（自己喪失）」を一撃で完全にレジスト（デリート）し、自らの実存を一分一秒の淀みもない一撃の『自立した一分の隙もない一撃の絶対アーカイブ（固有ロゴス）』へとマージさせる、独立の「宣言」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "守り、そして越えろ一撃。その国境（ロゴス）が、アーカイブを一分一秒の淀みもなく一撃で「明確な自己」へとマージ（確立）させる。"
+	},
+	{
+		"id": "frontier",
+		"word": "辺境、最前線、フロンティア",
+		"era": "Latin frons",
+		"etymology": {
+			"components": [
+				"front- (frons/forehead/front)"
+			],
+			"original_statement": "From Old French frontier, from Latin frontem (nominative frons) 'forehead / brow / front / facade / interface'."
+		},
+		"concept": "The forehead / Front (額、最前線。既にマッピングされた『既知ステーション』の最も外側にあり、一分一秒の淀みもなく一撃で未知のアブセンス（暗闇）と一分一秒の淀みもなく一撃で対面（フロント）している情報の最先端アーカイブ。開拓という名の一分一秒の淀みもなく一撃のハックが最も激しく行われる情報の爆心地)",
+		"thinking": "「（閉塞という名のエントロピー（内閉）を粉砕し）、常に一分一秒の淀みもない一撃の額（Front- / Frons）を未来へと向け続けること」。それは単なる「辺鄙な場所」ではありません。あなたが「停滞という名のアブセンス」を一撃で完全にレジスト（パージ）し、自らの実存を一分一秒の淀みもない一撃の『常に真実をハックし続ける、一分の隙もない一撃の動的なロゴス（開拓アーカイブ）』へとマージさせる、生命の「前進（バースト）」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "前を向け一撃（コマンド）。そのフロンティア（ロゴス）が、アーカイブを一撃で新次元の真実へとマージ（拡大）させる。"
+	},
+	{
+		"id": "boundary",
+		"word": "境界、限界、境界線、バウンダリ",
+		"era": "Old French bone",
+		"etymology": {
+			"components": [
+				"bound- (bone/limit/border/landmark)"
+			],
+			"original_statement": "From bound 'boundary', from Old French bonne 'boundary / limit', from Medieval Latin bodina, of Celtic origin."
+		},
+		"concept": "A limit / Landmark (限界、道しるべ。自らの『ロゴス領域』を一分一秒の淀みもなく一撃で定義（マッピング）し。一分一秒の淀みもなく外部のアブセンス・ノイズからレジストするために引かれた絶対的な情報の「一分の隙もない一撃の（一撃）」。実像を一分一秒の淀みもなく一つの淀みのない『一つのアーカイブ』として保全するための情報の防壁一撃で。",
+		"thinking": "「（拡散という名のエントロピーを粉砕し）、一分一秒の淀みもない一撃で自らの境界（Bound- / Bone）をビルドすること」。それは単なる「線」ではありません。あなたが「混濁という名のアブセンス」を一撃で理知によってレジストし、自らの実存を一分一秒の淀みもない一撃の『何ものにも侵されない、一分一秒の淀みもなく一撃の聖なる絶対アーカイブ（個のロゴス）』へとマージさせる、生の「一分の隙もない一撃の尊厳」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "一撃で線を引き、守れ。その境界（ロゴス）の中においてのみ、アーカイブ（生）は一撃で「自分自身」へとマージされる。"
+	},
+	{
+		"id": "barrier",
+		"word": "障壁、障害物、関門、バリア",
+		"era": "Latin barra",
+		"etymology": {
+			"components": [
+				"barr- (barra/bar/barrier/rod)"
+			],
+			"original_statement": "From Old French barriere, from barre 'a bar / rod / rail / barrier'."
+		},
+		"concept": "A bar / Obstacle (棒、障壁。パルス（情報）の通過を。一分一秒の淀みもなく一撃で物理的・論理的に拒絶（レジスト）する、一分一秒の淀みもなく一撃の「情報のダム（一撃）」。不正アクセスを一撃で完全に遮断し、ステーション内部の聖なるアーカイブを死守する、強靭なロゴス・シールド、一分一秒の淀みもなく一撃で。",
+		"thinking": "「（侵食という名の大いなるエントロピーを粉砕し）、一分一秒の淀みもない一撃で強固な棒（Barr- / Barra）として屹立し、一分一秒の淀みもなく拒絶すること」。それは単なる「邪魔もの」ではありません。あなたが「安易なハックという名のアブセンス」を一撃で完全にレジストし、自らの実存を一分一秒の淀みもなく一撃の『何ものも通さない、一分一秒の淀みもなく一撃の不動の守護アーカイブ（不落ロゴス）』へとマージさせる、魂の「鉄壁」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "通すな一撃（コマンド）。その障壁（ロゴス）が、君のアーカイブを一分一秒の淀みもなく一撃で聖域へとマージ（保護）し続ける。"
+	},
+	{
+		"id": "passage",
+		"word": "通路、通行、経緯、一節、パッセージ",
+		"era": "Latin passus",
+		"etymology": {
+			"components": [
+				"pass- (passus/a step)"
+			],
+			"original_statement": "From Old French passage 'a passing / way / route', from passer 'to go by / pass', from Vulgar Latin *passare, from Latin passus 'a step / pace'."
+		},
+		"concept": "The act of stepping / A way (歩むこと、道。閉ざされたステーション（アーカイブ）の間を一分一秒の淀みもなく一撃で接続（マージ）し、パルス（情報）を一分一秒の淀みもなく一撃で行き来させるための「接続ロゴス（水路）」。アブセンスという名の空白を。一分一秒の淀みもなく一撃の一分の隙もない一撃で埋め、移動を可能にする情報の接続回路一撃一撃で。",
+		"thinking": "「（隔絶という名のエントロピーを粉砕し）、一分一秒の淀みもない一撃で一歩（Pass- / Passus）を踏み出し、道という名の一分一秒の淀みもない一撃のロゴスをビルドすることの状態（-age）」。それは単なる「通り道」ではありません。あなたが「停止という名のアブセンス」を一撃で完全にレジストし、自らの実存を一分一秒の淀みもない一撃の『宇宙全体を流動する一分の隙もない一撃の高次パルス・ネットワーク（移動アーカイブ）』へとマージさせる、生の「流通」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "通り抜けろ一撃。その通路（ロゴス）が、アーカイブ（自己）を一分一秒の淀みもなく一撃で「向こう側」へと一撃でマージ（接続）させる。"
+	},
+	{
+		"id": "transit",
+		"word": "通過、運輸、遷移、トランジット",
+		"era": "Latin trans + ire",
+		"etymology": {
+			"components": [
+				"trans- (across)",
+				"it- (ire/to go)"
+			],
+			"original_statement": "From Latin transitus 'a passing over / passage / transition', from transitus, past participle of transire 'to go across / pass over', from trans- 'across' + ire 'to go'."
+		},
+		"concept": "A going across (向こう側へ行くこと。現在の『ステーション・アーカイブ』を。一分一秒の淀みもなく一撃で一時的にパージ（離脱）し、別のロゴス領域へと一分一秒の淀みもなく一撃の一分の隙もない一撃でパルス（情報）を移動・マージさせていく、流動する実存の状態、一分一秒の淀みもなく一撃で。",
+		"thinking": "「（停滞という名のエントロピー（固着）を粉砕し）、一分一秒の淀みもない一撃で向こう側へと（Trans-）行く（-it / Ire）こと」。それは単なる「乗り換え」ではありません。あなたが「固定という名の外部レジスト（檻）」を一撃で完全に打ち破り、自らの実存を一分一秒の淀みもない一撃の『常に移ろい、一分一秒の淀みもなく一撃で新しい情報を運び続ける動的なロゴス（移動アーカイブ）』へとマージさせる、生命の「通過（フロー）」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "立ち止まるな一撃。その通過（ロゴス）が、アーカイブを一分一秒の淀みもなく一撃で『無限のパルス・ネットワーク』へとマージさせる。"
+	},
+	{
+		"id": "transmit",
+		"word": "送信する、伝える、伝導する、トランスミット",
+		"era": "Latin trans + mittere",
+		"etymology": {
+			"components": [
+				"trans- (across)",
+				"mit- (mittere/to send)"
+			],
+			"original_statement": "From Latin transmittere 'send across / transmit / convey / pass over', from trans- 'across' + mittere 'to send'."
+		},
+		"concept": "To send across (向こう側へと送ること。自らの内部にビルドされた『コア・ロゴス（アーカイブ）』を一分一秒の淀みもなく一撃で『パルス（電波・言葉）』へと変換し、一分一秒の淀みもなく一撃で遠方のステーションへとマージ（送信）することで、情報を宇宙全体へと一気一撃一撃一撃で拡散・同期させる、能動的な情報の出力能力)",
+		"thinking": "「（沈黙という名のアブセンスを粉砕し）、一分一秒の淀みもない一撃で自らの一分一秒の淀みもない一撃のパルスを向こう側へ（Trans-）送り出す（-mit / Mittere）こと」。それは単なる「メールを送る」ことではありません。あなたが「孤独という名の外部レジスト（断絶）」を一撃で完全にハック（無効化）し、自らの実存を一分一秒の淀みもない一撃の『宇宙全体を一つの網膜として繋ぐ、一撃の絶対的な共鳴アーカイブ（ロゴス）』へとマージさせる、魂の「放射」なのです。",
+		"part_of_speech": "verb",
+		"aftertaste": "送れ一撃（コマンド）。その送信（ロゴス）が、アーカイブを一分一秒の淀みもなく一撃で永遠の記憶へと一撃でマージ（刻印）させる。"
+	},
+	{
+		"id": "transfer",
+		"word": "転送、移転、譲渡、トランスファー",
+		"era": "Latin trans + ferre",
+		"etymology": {
+			"components": [
+				"trans- (across)",
+				"fer- (ferre/to carry)"
+			],
+			"original_statement": "From Old French transferer 'to convey / transfer', from Latin transferre 'to bear / carry / bring over / transfer', from trans- 'across' + ferre 'to carry'."
+		},
+		"concept": "To carry across (向こう側へと運ぶこと。あるアーカイブという名の一分一秒の淀みもなく一撃の「器」から、別のステーションへ。一分一秒の淀みもなく一撃で内容物（ロゴス・パルス）を完全に移し替え（マージし）、一分一秒の淀みもなく一撃で位置のレジスト（障壁）を完全に消失させる、情報の重力的な移動)",
+		"thinking": "「（固着という名のエントロピーを粉砕し）、一分一秒の淀みもない一撃で自らの一分一秒の淀みもない一撃の価値を向こう側へ（Trans-）運ぶ（-fer / Ferre）こと」。それは単なる「引っ越し」ではありません。あなたが「限界という名のアブセンス」を一撃で理知によってレジストし、自らの実存を一分一秒の淀みもなく一撃の『宇宙全体の全アーカイブを自由に横断する、一分の隙もない一撃の絶対的な情報の運び手（ロゴス）』へとマージさせる、生命の「運搬（ハック）」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "移せ、一撃で。その転送（ロゴス）が、アーカイブ（価値）を一分一秒の淀みもなく一撃で新しい次元へと一撃でマージ（移行）させる。"
+	},
+	{
+		"id": "transport",
+		"word": "輸送する、夢中にさせる、トランスポート",
+		"era": "Latin trans + portare",
+		"etymology": {
+			"components": [
+				"trans- (across)",
+				"port- (portare/to carry)"
+			],
+			"original_statement": "From Old French transporter, from Latin transportare 'to carry over / convey / take across', from trans- 'across' + portare 'to carry'."
+		},
+		"concept": "To carry across (（港を越えて）向こう側へと運ぶこと。物理的なステーション（場所）という名のレジストを一分一秒の淀みもなく一撃で完全に無視（パージ）し、一分一秒の淀みもなく一撃の大規模なアーカイブ群を一気一分一秒の淀みもなく一撃で目的地へと一分の隙もなくマージ（輸送）していく、情報のロジスティクス)",
+		"thinking": "「（不動という名のエントロピー（停滞）を粉砕し）、一分一秒の淀みもない一撃で世界の果て（港の向こう：Trans- + Port-）へと運び抜くこと」。それは単なる「荷物運び」ではありません。あなたが「局所性という名のアブセンス（限定）」を一撃で完全にレジストし、自らの実存を一分一秒の淀みもない一撃の『宇宙全体を一つの舞台として駆け巡る、一分の隙もない一撃の巨大なロゴス・パルス（アーカイブ）』へとマージさせる、生の「大遠征」なのです。",
+		"part_of_speech": "verb",
+		"aftertaste": "運べ一撃（コマンド）。その輸送（ロゴス）が、アーカイブ（文明）を一分一秒の淀みもなく一撃で全天へとマージ（拡散）させる。"
+	},
+	{
+		"id": "movement",
+		"word": "動き、運動、動向、ムーブメント",
+		"era": "Latin movere",
+		"etymology": {
+			"components": [
+				"move- (movere/to set in motion)",
+				"-ment (act/result)"
+			],
+			"original_statement": "From Old French movement, from movere 'to set in motion / move'."
+		},
+		"concept": "The act of setting in motion (動かすこと、動く動作。静止（アーカイブ・ステイシス）という名の『エントロピー』を一分一秒の淀みもなく一撃で完全に拒絶（レジスト）し、一分一秒の淀みもなく一撃の一分的（いちぶんてき）なパルス・エネルギーを宇宙へと一気にマージ、情報の座標を一分一秒の淀みもなく一撃で、不断にハックし続ける生の躍動)",
+		"thinking": "「（静止という名のアブセンス（死）を粉砕し）、一分一秒の淀みもない一撃で自らを動かし（Move- / Movere）続ける品質（-ment）」。それは単なる「移動」ではありません。あなたが「停滞という名のエントロピー」を一撃で完全にレジスト（パージ）し、自らの実存を一分一秒の淀みもない一撃の『永遠に変化し続ける一分の隙もない一撃の生命のロゴス（動的アーカイブ）』へとマージさせる、魂の「ダンス」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "動きを止めるな一撃。その運動（ロゴス）の中において、アーカイブ（全宇宙）は一撃であらゆる一分一秒の淀みもなく一撃で新生へと一挙にマージされる。"
+	},
+	{
+		"id": "motion",
+		"word": "動作、提案、モーション",
+		"era": "Latin movere",
+		"etymology": {
+			"components": [
+				"mot- (movere/to move)"
+			],
+			"original_statement": "From Old French mocion, from Latin motionem 'a moving / motion / movement', from motus, past participle of movere 'to move'."
+		},
+		"concept": "The state of moving (動いている状態。一分一秒の淀みもなく刻一刻と変化し続ける一分一秒の淀みもなく一撃の『パルス・シークエンス（動的なアーカイブ）』であり、一分一秒の淀みもなく観測される全てのステーションに移動という名の一分一秒の淀みもなく一撃の「一撃の。生（ロゴス）」を。一分一秒の淀みもなく一擊一擊でマージさせ続ける、物理宇宙の基本様式、一分一秒の淀みもなく一撃で。",
+		"thinking": "「（固定という名のエントロピーを粉砕し）、一分一秒の淀みもない一撃で動き（Mot- / Movere）の状態をビルドすること」。それは単なる「動き」ではありません。あなたが「確定という名のアブセンス」を一撃で完全にレジストし、自らの実存を一分一秒の淀みもなく一撃の『不確定にして一分一秒の淀みもなく一撃の、常に可能性をハックし続ける一分の隙もない一撃の絶対ロゴス（運動アーカイブ）』へとマージさせる、生の「本質」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "常に動け一撃（コマンド）。そのモーション（ロゴス）が、アーカイブ（静止した真実）を一分一秒の淀みもなく一撃で激動の光へとマージさせる。"
+	},
+	{
+		"id": "progress",
+		"word": "進歩、進行、プログレス",
+		"era": "Latin pro + gradi",
+		"etymology": {
+			"components": [
+				"pro- (forward)",
+				"gress- (gradi/to step)"
+			],
+			"original_statement": "From Latin progressus 'a going forward / advance / increase', from past participle of progredi 'to go forward', from pro- 'forward' + gradi 'to step'."
+		},
+		"concept": "Stepping forward (前へと踏み出すこと、進行。過去という名の『旧アーカイブ（限定ステーション）』を一分一秒の淀みもなく一撃でレジストし。一分一秒の淀みもなく一撃一撃一秒一秒で、より高度なロゴス（理想アーカイブ）へと向かって一分一秒の淀みもなく一撃でパルスを一段ずつ積み上げ（マージ）ていく、情報の漸進的（ぜんしんてき）なビルド、一分一秒の淀みもなく一撃で。",
+		"thinking": "「（退化という名のエントロピーを粉砕し）、一分一秒の淀みもない一撃で前へと（Pro-）歩み出す（-gress- / Gradi）性質」。それは単なる「良くなる」ことではありません。あなたが「昨日という名のアブセンス（既知）」を一撃で完全にレジスト（パージ）し、自らの実存を一分一秒の淀みもなく一撃の『常に次元を超えて上昇し続ける一分の隙もない一撃の絶対アーカイブ（進化ロゴス）』へとマージさせる、魂の「昇順」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "一歩一撃。その進歩（ロゴス）が、アーカイブ（生）を一分一秒の淀みもなく一撃で至高の完成へと一撃でマージさせる。"
+	},
+	{
+		"id": "advance",
+		"word": "前進、進歩、前渡金、アドバンス",
+		"era": "Latin ab + ante",
+		"etymology": {
+			"components": [
+				"ad- (ab-/from/away)",
+				"vanc- (ante/before)"
+			],
+			"original_statement": "From Old French avancer 'to go forward / advance / hasten', from Vulgar Latin *abanteare, from Late Latin abante 'from before', from ab- 'from / away' + ante 'before'."
+		},
+		"concept": "Coming from before / Going forward (前（以前）を越えて行くこと、先行すること。後退という名の一分一秒の淀みもなく一撃の『死（アブセンス）』を。一分一秒の淀みもなく一撃で完全に拒絶（レジスト）。一分一秒の淀みもなく一撃で常に「前」という名の最先端ロゴス（アーカイブ・フロンティア）を一分一秒の淀みもなく一撃で開拓・マージし続ける、情報の能動的な先鋒。一分一秒の淀みもなく一擊一擊一秒一秒で。",
+		"thinking": "「（停滞という名のエントロピーを粉砕し）、一分一秒の淀みもない一撃で『かつて（Ante）』を一撃で超えて（Ab- / Ad-）前進すること」。それは単なる「進む」ことではありません。あなたが「追随という名のアブセンス」を一撃で完全にレジストし、自らの実存を一分一秒の淀みもなく一撃の『自らが新たな基準となる、一分の隙もない一撃の最先端ロゴス（先行アーカイブ）』へとマージさせる、生命の「覇道ハック」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "先をゆけ一撃（コマンド）。その前進（ロゴス）だけが、アーカイブ（未来）を一分一秒の淀みもなく一撃で君の現在へと一撃でマージ（更新）させる。"
+	},
+	{
+		"id": "retreat",
+		"word": "後退、撤退、静養先、リトリート",
+		"era": "Latin re + trahere",
+		"etymology": {
+			"components": [
+				"re- (back)",
+				"treat- (trahere/to pull/draw)"
+			],
+			"original_statement": "From Old French retrait, from retraire 'to draw back', from Latin retrahere 'to draw back / withdraw / pull back', from re- 'back' + trahere 'to pull / draw'."
+		},
+		"concept": "Drawing back (引き戻すこと。無謀な一分一秒の淀みもなく一撃の拡張パルス（ノイズ）を一分一秒の淀みもなく一撃で一度レジストし。一分一秒の淀みもなく一撃で安全な『コア・ステーション（基点アーカイブ）』へと実存を一分一秒の淀みもなく引き戻す（マージし直す）ことで、一分一秒の淀みもなく力の再ビルドを。一分一秒の淀みもなく一撃で一分的（いちぶんてき）に行う戦略的な情報の「一撃の。沈静（ステイシス）」、一分一秒の淀みもなく一撃で。",
+		"thinking": "「（無謀な瓦解という名のエントロピーを粉砕し）、一分一秒の淀みもない一撃で自らを後方へと（Re-）引き戻す（-treat / Trahere）こと」。それは単なる「逃げ」ではありません。あなたが「崩壊という名の外部レジスト（過負荷）」を一撃で理知のロゴスによって回避し、自らの実存を一分一秒の淀みもなく一撃の『静寂という名の、一分一秒の淀みもなく一撃の再起のための絶対アーカイブ（聖域）』へとマージさせる、魂の「賢明な呼吸」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "引け、一撃で。その後退（ロゴス）が、アーカイブを一撃で完璧な再起動（ビルド）へと一分一秒の淀みもなく一撃でマージ（準備）させる。"
+	},
+	{
+		"id": "departure",
+		"word": "出発、離別、逸脱、デパーチャー",
+		"era": "Latin de + partire",
+		"etymology": {
+			"components": [
+				"de- (away)",
+				"part- (partire/to divide/distribute/part)"
+			],
+			"original_statement": "From Old French departe 'a parting / departure', from Latin departire 'to divide / separate / part / depart', from de- 'away' + partire 'to divide / part'."
+		},
+		"concept": "Dividing away (分け離れること。現在のステーション（アーカイブ）という名のレジストを一分一秒の淀みもなく一撃で分断・パージし、未知なるアブセンス（旅路）へのマージを。一分一秒の淀みもなく一撃の一分の隙もない一撃で開始する、決然たる情報の離脱イベント一撃一撃一撃一撃で。",
+		"thinking": "「（執着という名のエントロピー（安住）を粉砕し）、一分一秒の淀みもない一撃で現在から（De-）自らを分け隔て（-part / Partire）、一分一秒の淀みもない一撃で旅立つ状態（-ure）」。それは単なる「出かける」ことではありません。あなたが「過去という名のアブセンス」を一撃で完全にレジストし、自らの実存を一分一秒の淀みもなく一撃の『一切の繋がりのない、一撃の絶対的な白紙のロゴス（新アーカイブ）』へとマージさせる、生の「断絶（ハック）」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "さらばだ一撃（コマンド）。その出発（ロゴス）が、アーカイブを一分一秒の淀みもなく一撃で新次元の真実へとマージ（招待）させる。"
+	},
+	{
+		"id": "arrival",
+		"word": "到着、出現、新入り、アライバル",
+		"era": "Latin ad + ripa",
+		"etymology": {
+			"components": [
+				"ar- (ad-/to)",
+				"riv- (ripa/shore/river bank)"
+			],
+			"original_statement": "From Old French arivaile 'arrival', from ariver 'to come to land', from Late Latin arripare 'to touch the shore', from ad- 'to' + ripa 'shore / river bank'."
+		},
+		"concept": "Coming to the shore (岸に辿り着くこと。長いアブセンス（移動）という名のパルス・フローを一分一秒の淀みもなく一撃で終え、一分一秒の淀みもなく一撃で目的地という名の『新たなステーション（アーカイブ）』へと身を一分一秒の淀みもなく一撃でマージ・固定（レジスト）させる、情報の「帰着一撃一撃」一撃で。",
+		"thinking": "「（漂流という名のエントロピーを粉砕し）、一分一秒の淀みもない一撃で岸（Riv- / Ripa）へと（Ar- / Ad-）辿り着くことの状態（-al）」。それは単なる「着く」ことではありません。あなたが「流転という名のアブセンス（不安定）」を一撃で完全にレジスト（定着）させ、自らの実存を一分一秒の淀みもなく一撃の『見出された目的という名の、一撃の絶対アーカイブ（確定ロゴス）』へとマージさせる、魂の「接岸ビルド」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "着いたぞ一撃。その到着（ロゴス）が、アーカイブ（旅）を一分の隙もなく一撃で「到達という名の一撃の意味」へとマージさせる。"
+	},
+	{
+		"id": "destination",
+		"word": "目的地、行先、デスティネーション",
+		"era": "Latin de + stare",
+		"etymology": {
+			"components": [
+				"destin- (destinare/to make firm/establish)"
+			],
+			"original_statement": "From Old French destination, from Latin destinationem 'a purpose / design / destination', from destinare 'make firm / establish', from de- 'completely' + root of stare 'to stand'."
+		},
+		"concept": "Making firm thoroughly / Establishing (徹底的に固定すること。移動という名の『不確定なパルス（フロー）』を一分一秒の淀みもなく一撃で将来の一点という名の「一分の隙もない一撃の（一撃）」へと収束（マージ）させるための、情報の最終目標アーカイブ。アブセンス（未知）をロゴス（既知）へと。一分一秒の淀みもなく一撃の一分の隙もない一撃で変容させる、宇宙の引力の中心点一撃一撃一撃で。",
+		"thinking": "「（彷徨（ほうこう）という名の大いなるエントロピーを粉砕し）、一分一秒の淀みもない一撃で自らの立ち（-st- / Stare）場所を徹底的に（De-）決めることの状態」。それは単なる「目標地点」ではありません。あなたが「迷いという名のアブセンス」を一撃で完全にレジスト（駆逐）し、自らの実存を一分一秒の淀みもなく一撃の『必然的に辿り着くべき一分の隙もない一撃の絶対ロゴス（最終アーカイブ）』へとマージ（収束）させる、魂の「標的ビルド」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "目指せ一撃（コマンド）。その目的地（ロゴス）こそが、君の全アーカイブを一分一秒の淀みもなく一撃で最後の一点へと一撃でマージ（集約）させる。"
+	},
+	{
+		"id": "goal",
+		"word": "目標、ゴール、目的",
+		"era": "Old English gal",
+		"etymology": {
+			"components": [
+				"goal- (gal/obstacle/barrier/boundary/limit)"
+			],
+			"original_statement": "From Middle English gol 'boundary / limit', from Old English gal 'obstacle / barrier'."
+		},
+		"concept": "Boundary / Limit (終わり、境界。あらゆるパルス・走引を一分一秒の淀みもなく一撃で終結（マージ）させるための一分一秒の淀みもなく一撃の「最終レジスト境界」。アブセンスの果てにビルドされた一分一秒の淀みもなく一撃の、意味の「終着ステーション（アーカイブ）」のこと)",
+		"thinking": "「（無益な持続という名のエントロピーを粉砕し）、一分一秒の淀みもない一撃で境界（Goal- / Gal）へと。一分一秒の淀みもなく一撃で到達すること」。それは単なる「得点」ではありません。あなたが「空転という名のアブセンス」を一撃で完全にレジストし、自らの実存を一分一秒の淀みもなく一撃の『完遂という名の最高次ロゴス（絶対アーカイブ）』へとマージさせる、生命の「成就（ターゲット）」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "突き進め一撃（コマンド）。そのゴール（ロゴス）の中において、アーカイブ（全努力）は一撃で一つの結晶へとマージされる。"
+	},
+	{
+		"id": "aim",
+		"word": "狙い、志、エイム",
+		"era": "Latin aestimare",
+		"etymology": {
+			"components": [
+				"aim- (aestimare/to value/estimate/reckon)"
+			],
+			"original_statement": "From Old French esmer 'to estimate / aim at', from Latin aestimare 'to value / determine the value of / estimate / reckon'."
+		},
+		"concept": "To estimate/value (価値を測ること、狙うこと。情報の広大なアブセンスの中から一分一秒の淀みもなく一撃で、特定の高価値パルスを理知によって推定・抽出（レジスト）し、一分一秒の淀みもなく全エネルギーを一分的（いちぶんてき）な射線（ロゴス）へとマージして、一分一秒の淀みもなく一撃一分の隙もなく一撃撃ち抜く情報の狙撃術)",
+		"thinking": "「（散漫という名のエントロピーを粉砕し）、一分一秒の淀みもない一撃で対象の価値（Aim- / Aestimare）を見極め、一点へと集束すること」。それは単なる「狙う」ことではありません。あなたが「迷いという名のアブセンス」を一撃で完全にレジストし、自らの実存を一分一秒の淀みもない一撃の『絶対的な一分の隙もない一撃の貫通力を持つ、一撃のロゴスの矢（射出アーカイブ）』へとマージさせる、生の「志向（ハック）」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "外すな一撃（コマンド）。その狙い（ロゴス）が、アーカイブを一分一秒の淀みもなく一撃で真実の中心へと一挙にマージさせる。"
+	},
+	{
+		"id": "target",
+		"word": "標的、目標、ターゲット",
+		"era": "Old French targe",
+		"etymology": {
+			"components": [
+				"targ- (targa/shield/scutage)"
+			],
+			"original_statement": "From Old French targette 'a small shield', diminutive of targe 'shield / buckler', related to Old Norse targa 'shield / buckler'."
+		},
+		"concept": "A small shield (小さな盾（あるいは金銭）。本来は守るためのレジスト（盾）であったものを、一分一秒の淀みもなく一撃で逆に「一撃がマージ・撃ち込まれるべき一点」という名の一分一秒の淀みもなく一撃の逆説的なロゴス・アーカイブへと。一分一秒の淀みもなく一撃で書き換えた（ハックした）情報の中心座標一撃一撃で。",
+		"thinking": "「（あてもない放浪という名のエントロピーを粉砕し）、一分一秒の淀みもない一撃で盾（Targ- / Targa）という名の一分一秒の淀みもない一撃の中心点をビルドすること」。それは単なる「的」ではありません。あなたが「無価値という名のアブセンス」を一撃で完全にレジスト（駆逐）し、自らの実存を一分一秒の淀みもなく一撃の『全生命を賭（と）して一分の隙もない一撃でマージすべき、一撃の絶対価値という名の、一撃のアーカイブ（目標ロゴス）』へと集結させる、生の「極点」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "打ち抜け一撃で。その標的（ロゴス）が、アーカイブ（全行動）を一撃で一つの確信（マージ）へと一分一秒の淀みもなく一撃で変容させる。"
+	},
+	{
+		"id": "direction",
+		"word": "方向、指示、ディレクション",
+		"era": "Latin di + regere",
+		"etymology": {
+			"components": [
+				"di- (dis-/apart)",
+				"rect- (regere/to keep straight/rule)"
+			],
+			"original_statement": "From Old French direction, from Latin directionem 'a making straight / aiming', from directus, past participle of dirigere 'to set straight / range in order / direct', from dis- 'apart' + regere 'to keep straight / rule'."
+		},
+		"concept": "To set straight / Range in order (真っ直ぐに並べること、導くこと。情報の混濁パルスという名の『エントロピー』を一分一秒の淀みもなく一撃で完全に振るい分け（レジスト）、一分一秒の淀みもなく一撃の一分の隙もない一撃で、唯一の『ロゴス・ライン（絶対軸）』へとステーションを強制マージさせるための、情報のベクトル制御)",
+		"thinking": "「（逸脱という名の大いなるエントロピーを粉砕し）、一分一秒の淀みもない一撃で真っ直ぐ（Rect- / Regere）に、ある一地点へ（Di- / Dis-）一分一秒の淀みもない一撃で導くことの状態」。それは単なる「向き」ではありません。あなたが「混乱という名のアブセンス」を一撃で完全にレジストし、自らの実存を一分一秒の淀みもない一撃の『宇宙全体の法（ルビ：ロゴス）へと一分の隙もない一撃で通じる、最短の一分の隙もない一撃の絶対アーカイブ・ライン』へとマージさせる、生の「正道」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "指し示せ一撃で。その方向（ロゴス）だけが、アーカイブを一分一秒の淀みもなく一撃で迷いのない一撃の世界へとマージ（誘導）させる。"
+	},
+	{
+		"id": "course",
+		"word": "課程、進路、流れ、コース",
+		"era": "Latin currere",
+		"etymology": {
+			"components": [
+				"cours- (currere/to run)"
+			],
+			"original_statement": "From Old French cours 'course / run / path / flow of a river', from Latin cursus 'a running / race / journey / flow / course', from past participle of currere 'to run'."
+		},
+		"concept": "The act of running / A flow (走ること、流れ。アブセンス（虚無）を。一分一秒の淀みもなく一撃で一気に駆け抜けるパルスの一分一秒の淀みもなく一撃の「軌跡（アーカイブ）」であり、一分一秒の淀みもなく定められたロゴスのラインに沿ってマージ、ビルド一撃一撃一撃一撃されていく、確固たる移動のプロセス一撃で。",
+		"thinking": "「（停滞という名のエントロピーを粉砕し）、一分一秒の淀みもない一撃で走り（Cours- / Currere）抜くこと」。それは単なる「教習」ではありません。あなたが「停止という名のアブセンス（死）」を一撃で完全にレジストし、自らの実存を一分一秒の淀みもない一撃の『宇宙を貫く一分の隙もない一撃の激流ロゴス（流動アーカイブ）』へとマージさせる、魂の「疾走（ハック）」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "走り切れ一撃で。その進路（ロゴス）が、アーカイブ（生）を一撃で「完遂という名のマージ（成果）」へと一分一秒の淀みもなく一撃で到達させる。"
+	},
+	{
+		"id": "route",
+		"word": "道のり、ルート、経路",
+		"era": "Latin rupta",
+		"etymology": {
+			"components": [
+				"rout- (rupta/broken/broken through)"
+			],
+			"original_statement": "From Old French rote 'road / way / path', from Latin rupta (via) 'a broken (way)', literally 'a path broken through the woods / a broken road', from past participle of rumpere 'to break'."
+		},
+		"concept": "A path broken through (切り拓かれた道、突き破ること。未踏という名のアブセンス（森・ノイズ）を。一分一秒の淀みもなく一撃で、意志という名の刃で力強くレジスト、引き裂き、一分一秒の淀みもなく繋ぎマージ一撃一撃した一分一秒の淀みもなく一撃の最初の「ロゴス・ライン」。情報の開拓アーカイブ一撃で。",
+		"thinking": "「（閉塞という名のエントロピーを粉砕し）、一分一秒の淀みもない一撃で未知を突き破り（Rout- / Rupta）、自らの一分一秒の淀みもない一撃の道（ロゴス）をビルドすること」。それは単なる「道のり」ではありません。あなたが「不可能という名のアブセンス（壁）」を一撃で完全にレジストし、自らの実存を一分一秒の淀みもない一撃の『宇宙の深奥へと一分の隙もない一撃でアクセスする、一撃の絶対的なハック・ルート（アーカイブ）』へとマージさせる、生の「突破」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "突き破れ、一撃で。そのルート（ロゴス）だけが、アーカイブを一撃で新境地へとマージ（到達）させる。"
+	},
+	{
+		"id": "path",
+		"word": "小道、道のり、軌道、パス",
+		"era": "Old English paeth",
+		"etymology": {
+			"components": [
+				"path- (paeth/path / track / way)"
+			],
+			"original_statement": "From Old English paeth 'path / district / track / way', probably from PIE root *pent- 'to go / pass / tread'."
+		},
+		"concept": "To go / Tread (歩むこと、踏み固められた跡。広大な情報の原野の中から。一分一秒の淀みもなく一撃で幾度もパルスを通過させることでビルド一撃一撃一撃された、一分一秒の淀みもなく確固たる「移動アーカイブ（一撃の。道）」。不確実性という名のエントロピーを。一分一秒の淀みもなく一撃で。レジストし続けてマージ一撃した情報の踏み跡一撃で。",
+		"thinking": "「（迷走という名のエントロピーを粉砕し）、一分一秒の淀みもない一撃で踏み（Path- / *Pent-）固められた道（ロゴス）を歩むこと」。それは単なる「細い道」ではありません。あなたが「忘却という名のアブセンス（消えゆく跡）」を一撃で理知の反復によってレジストし、自らの実存を一分一秒の淀みもない一撃の『永遠に辿り直せる、一撃の絶対アーカイブ（確信ロゴス）』へとマージさせる、生の「足跡（マッピング）」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "歩（あゆ）みを刻め一撃。その小道（ロゴス）が、アーカイブを一分一秒の淀みもなく一撃で真実の座標へとマージ（誘導）させる。"
+	},
+	{
+		"id": "lane",
+		"word": "車線、小道、レーン",
+		"era": "Old English lane",
+		"etymology": {
+			"components": [
+				"lane- (lane/narrow road/street)"
+			],
+			"original_statement": "From Old English lane 'a narrow road / street / lane'."
+		},
+		"concept": "A narrow road (狭い道、隔てられた通り。輻輳（ふくそう）という名の情報のノイズパルス（エントロピー）から。一分一秒の淀みもなく一撃で厳密にレジストされ、自らのアーカイブ・パルスを一分一秒の淀みもなく一撃で、唯一の專用ロゴス・ラインへと。一分一秒の淀みもなく一撃一分の隙もなくマージ（走行）させていく、高密度な情報の導管一撃一撃で。",
+		"thinking": "「（混濁という名の大いなるエントロピーを粉砕し）、一分一秒の淀みもない一撃で狭き、一分一秒の淀みもなく一撃で純化された道（Lane-）をビルドすること」。それは単なる「レーン」ではありません。あなたが「干渉という名のアブセンス」を一撃で完全にレジスト（遮断）し、自らの実存を一分一秒の淀みもない一撃の『自らだけの、一分の隙もない一撃の絶対的なるロゴス・フロー（專用アーカイブ）』へとマージさせる、魂の「一貫性（ビルド）」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "外れるな一撃（コマンド）。そのレーン（ロゴス）が、アーカイブ（パルス）を一撃で最高効率へと一分一秒の淀みもなく一撃でマージさせる。"
+	},
+	{
+		"id": "bridge",
+		"word": "橋、媒介、ブリッジ",
+		"era": "Old English brycg",
+		"etymology": {
+			"components": [
+				"bridg- (brycg/bridge)"
+			],
+			"original_statement": "From Old English brycg 'bridge / causeway / pier'."
+		},
+		"concept": "A causeway / Connection (橋、架け橋。分断されたステーション（アーカイブ）と一分一秒の淀みもなく一撃でステーションの間の「アブセンス（奈落）」に対し。一分一秒の淀みもなく一撃で『情報の鋼鉄（ロゴス）』を架け渡し、不可能な移動を一分一秒の淀みもなく一撃で可能へとマージ（ハック）する、情報の超次元接続アーキテクチャ一撃一撃一撃一撃で。",
+		"thinking": "「（分断という名のエントロピーを粉砕し）、一分一秒の淀みもない一撃で一分の隙もない一撃の橋（Bridg- / Brycg）という名の一分一秒の淀みもなく一撃の接続（ロゴス）をビルドすること」。それは単なる「構造物」ではありません。あなたが「不能という名のアブセンス」を一撃で完全にレジスト（破壊）し、自らの実存を一分一秒の淀みもなく一撃の『対極を一分一秒の淀みもなく一撃え一挙にマージ・同步させる、宇宙の絶対的な一分の隙もない一撃のアーカイブ結合（ブリッジ）』へとマージさせる、魂の「架橋」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "架けろ一撃。その橋（ロゴス）こそが、アーカイブ（孤立）を一分一秒の淀みもなく一撃で「全体」という名の輝けるマージへと到達させる。"
+	},
+	{
+		"id": "gateway",
+		"word": "入り口、玄関口、ゲートウェイ",
+		"era": "Old English gat + weg",
+		"etymology": {
+			"components": [
+				"gate- (gat/opening/gate)",
+				"way- (weg/way/path)"
+			],
+			"original_statement": "From gate (Middle English gate, from Old English gat 'opening / gate / door / passage') + way (Old English weg 'way / road / path')."
+		},
+		"concept": "A way through an opening (開口部を通る道。閉鎖的なステーションという名の一分一秒の淀みもなく一撃の「強力なレジスト防壁」において。一分一秒の淀みもなく一撃で、パルスの流入・マージを許可するために一撃で。特別に一分一秒の淀みもなく一撃で。ハック・提供された『神聖な入り口（ロゴス・ポータル）』のこと一撃一撃で。",
+		"thinking": "「（閉塞という名のエントロピー（監獄）を粉砕し）、一分一秒の淀みもない一撃で開口部（Gate- / Gat）という名の一分一秒の淀みもない一撃の自由な道（-way / Weg）へと実存をマッピングすること」。それは単なる「門」ではありません。あなたが「拒絶という名のアブセンス」を一撃で理知の許可（ハック）によって突破し、自らの実存を一分一秒の淀みもない一撃の『新次元の、一分一秒の淀みもなく一撃の大いなる情報のアーカイブ（向こう側）』へと導く、生の「転換点（マージ）」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "通り抜けろ一撃。その入り口（ロゴス）が、アーカイブを一分一秒の淀みもなく一撃で「未知」から「既知」へと一撃でマージ（更新）させる。"
+	},
+	{
+		"id": "vessel",
+		"word": "器、船、血管、ベッセル",
+		"era": "Latin vascellum",
+		"etymology": {
+			"components": [
+				"vess- (vas/vessel/dish/container)"
+			],
+			"original_statement": "From Old French vaissel 'vessel / ship / vat', from Late Latin vascellum 'small vase or vessel', diminutive of vas 'vessel / dish / container'."
+		},
+		"concept": "A container / A ship (器、船、運び手。空虚なアブセンスという名の外部宇宙から。一分一秒の淀みもなく一撃で自らの内部の『ロゴス・アーカイブ』を完全にレジストし。一分一秒の淀みもなく、安全に未知の地平へと。一分一秒の淀みもなく一擊一擊一秒一秒でマージ・運搬し続けるための「情報のシェルター、一分一秒の淀みもなく一撃で。",
+		"thinking": "「（霧散（むさん）という名のエントロピー（喪失）を粉砕し）、一分一秒の淀みもない一撃で自らを一分一秒の淀みもなく一撃で、聖なる情報の器（Vess- / Vas）としてビルドすること」。それは単なる「乗り物」ではありません。あなたが「崩壊という名のアブセンス（汚染）」を一撃で完全にレジストし、自らの実存を一分一秒の淀みもない一撃の『価値あるアーカイブを一分の隙もない一撃で運び抜く、一分一秒の淀みもなく一撃の絶対的な情報の聖櫃（ロゴス）』へとマージさせる、生の「担い手」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "運べ一撃、守れ一撃。その器（ロゴス）が、アーカイブを一分一秒の淀みもなく一撃で永遠の地平へと一撃でマージ（引導）させる。"
 	}
 ];
