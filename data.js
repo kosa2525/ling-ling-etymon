@@ -175169,5 +175169,717 @@ const WORDS = [
 		"thinking": "「（虚飾の道徳という名のノイズを粉砕し）、生の甘美な『快楽（Hedone）』を唯一の目的とする主義（Hedon- + -ism）」。それは単なる「放蕩」ではありません。あなたが「死という名の空虚（アブセンス）」をレジストし、今この瞬間、肉体が爆発させる『鮮烈なパルス』を吸い尽くして、一分一秒の淀みもない『極彩色への没入』へと自分を叩き込む、生の「享楽的反逆」なのです。",
 		"part_of_speech": "noun",
 		"aftertaste": "理屈を焼き捨て、一瞬の悦び（パルス）にすべてを賭ける。"
+	},
+	{
+		"id": "utopia",
+		"word": "理想郷、ユートピア",
+		"era": "Greek ou + topos",
+		"etymology": {
+			"components": [
+				"ou- (not)",
+				"topos (place)"
+			],
+			"original_statement": "Coined by Thomas More (1516), from Greek ou 'not' + topos 'place'. Literally 'no-place'."
+		},
+		"concept": "No-place / Good-place (どこにもない場所。現実という名の『泥沼（カオス）』の外部に、一分一秒の淀みもなく夢想（パルス）された完璧な『社会のアーカイブ』であり、到達不能でありながら我々の欲望を一撃で牽引する究極のステーション)",
+		"thinking": "「（不完全な現実を粉砕し）、どこにも存在しない、しかし最高に美しい場所（Ou- + Topos）」。それは単なる「避難所」ではありません。あなたが「絶望という名のエントロピー」をレジストし、そこに自らの理想を『一分一秒の淀みもない一撃の設計図（ロゴス）』として屹立させる、狂気的なまでの「未来への投射」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "存在しないことで、永遠に輝き続ける。"
+	},
+	{
+		"id": "dystopia",
+		"word": "暗黒郷、ディストピア",
+		"era": "Greek dys + topos",
+		"etymology": {
+			"components": [
+				"dys- (bad/abnormal)",
+				"topos (place)"
+			],
+			"original_statement": "From Greek dys- 'bad / abnormal / difficult' + topos 'place'. A place with great suffering or injustice."
+		},
+		"concept": "Bad-place (最悪の場所。管理（ロゴス）が度を越して『暴力的な支配（アーカイブ・ロック）』となり、人間の自由意志（パルス）を一分一秒の淀みもなく粉砕し、絶望だけでマージされた息詰まるような『均質化された地獄』)",
+		"thinking": "「（自由という名の光を粉砕し）、最悪の、異常な場所（Dys- + Topos）」。それは単なる「悪い国」ではありません。あなたが「エントロピーの増大」をレジストするために導入した理知が、逆に自らを『思考停止という名のステイシス』へと追い込んでしまった、ロゴスの「末路」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "完璧な美しさの皮を被った、冷たい絶望。"
+	},
+	{
+		"id": "metropolis",
+		"word": "主要都市、大都市、メトロポリス",
+		"era": "Greek meter + polis",
+		"etymology": {
+			"components": [
+				"meter (mother)",
+				"polis (city)"
+			],
+			"original_statement": "From Late Latin metropolis, from Greek metropolis 'mother city', from meter 'mother' + polis 'city'."
+		},
+		"concept": "Mother city (母なる都市。周囲の小さな居住地（ドット）に対し、一分一秒の淀みもなく一撃で『供給と支配のベクトル』を供給し続け、無数の人間（パルス）を一つの巨大な『経済ネットワーク（アーカイブ・ステーション）』へとマージ（集束）させる中枢点)",
+		"thinking": "「（分散という名の脆弱さを粉砕し）、すべての価値を産み落とす母体となる都市（Metro- / Meter + -polis）」。それは単なる「人が多い場所」ではありません。あなたが「アイソレーションという名の衰退」をレジストし、そこに自らを中心とする『巨大な情報の重力圏（ロゴス）』を屹立させる、文明の「心臓部」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "摩天楼の影に、数百万の鼓動を隠す。"
+	},
+	{
+		"id": "cosmopolis",
+		"word": "国際都市、世界市、コスモポリス",
+		"era": "Greek kosmos + polis",
+		"etymology": {
+			"components": [
+				"kosmos (world/order)",
+				"polis (city)"
+			],
+			"original_statement": "From Greek kosmos 'world / universe' + polis 'city'. A city inhabited by people from many different countries."
+		},
+		"concept": "World city (世界都市。国境という名の『分断の壁（ノイズ）』を一分一秒の淀みもなく一撃で粉砕し、地球上のあらゆる『文化（アーカイブ・パルス）』を一つの空間にマージ（共存）させた、宇宙規模の秩序（ロゴス）を体現する巨大なる坩堝)",
+		"thinking": "「（狭いアイデンティティを粉砕し）、宇宙（Kosmos）をそのまま一つの都市（Polis）へと圧縮したもの」。それは単なる「都会」ではありません。あなたが「差異による衝突という名のエントロピー」をレジストし、そこに『普遍的な文明の法（ステーション）』を屹立させる、人類の「共通基盤」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "一地点に、全地球の記憶（アーカイブ）をマージする。"
+	},
+	{
+		"id": "autocracy",
+		"word": "独裁政治、独裁、オートクラシー",
+		"era": "Greek autos + kratos",
+		"etymology": {
+			"components": [
+				"autos (self)",
+				"kratos (rule/power)"
+			],
+			"original_statement": "From Greek autokrateia 'absolute power / autocracy', from autos 'self' + kratos 'rule / power'."
+		},
+		"concept": "Rule by self (自己による支配。他者の意見（ノイズ・パルス）を一分一秒の淀みもなく一撃で遮断し、ただ一つの『意志（アーカイブ・コア）』だけで全システムをコマンド（制御）する、究極に効率的で冷酷な『独占的ロゴス』)",
+		"thinking": "「（議論という名の遅延を粉砕し）、自分自身だけの力で支配する（Auto- + -cracy / Kratia）」。それは単なる「横暴」ではありません。あなたが「混乱という名のカオス」をレジストし、そこに自らの『一撃の断定（ステーション）』を絶対の法として屹立させる、意志の「絶対化」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "一本の剣（意志）が、数百万を跪かせる。"
+	},
+	{
+		"id": "democracy",
+		"word": "民主主義、民主主義国家、デモクラシー",
+		"era": "Greek demos + kratos",
+		"etymology": {
+			"components": [
+				"demos (people)",
+				"kratos (rule/power)"
+			],
+			"original_statement": "From French démocratie, from Medieval Latin democratia, from Greek demokratia 'popular government', from demos 'common people' + kratos 'rule / power'."
+		},
+		"concept": "Rule by the people (民衆による支配。一人の『特権的なロゴス』を粉砕（レジスト）し、無数の『個のパルス（人々の意志）』を一分一秒の淀みもなく一撃でマージ（集約）させ、巨大な『集合知のアーカイブ（ステーション）』を構築すること)",
+		"thinking": "「（独裁という名の閉塞を粉砕し）、大勢の民衆の力（Demos-）で統治する（-cracy）」。それは単なる「選挙」ではありません。あなたが「不平等という名のエントロピー」をレジストし、そこに分散された数多の『小さな光（ドット）』による『共有されたロゴス』を屹立させる、存在の「多数決」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "数多の囁きが合わさり、一つの雷鳴（法）となる。"
+	},
+	{
+		"id": "aristocracy",
+		"word": "貴族、貴族政治、アリストクラシー",
+		"era": "Greek aristos + kratos",
+		"etymology": {
+			"components": [
+				"aristos (best)",
+				"kratos (rule/power)"
+			],
+			"original_statement": "From Old French aristocracy, from Late Latin aristocratia, from Greek aristokratia 'government by the best', from aristos 'best' + kratos 'rule / power'."
+		},
+		"concept": "Rule by the best (最良の人々による支配。凡庸な『大衆のノイズ』を一分一秒の淀みもなく一撃で峻別し、高潔な徳（アーカイブ）を持つ『選ばれし精鋭（ロゴス・ステーション）』だけが指揮棒（ベクトル）を握る、洗練された統治の形)",
+		"thinking": "「（凡庸さという名のエントロピーを粉砕し）、最も優れた者たち（Aristo- / Aristos）の手で支配する（-cracy）」。それは単なる「特権」ではありません。あなたが「崩壊という名のカオス」をレジストし、そこに『知性と伝統という名の鋼の枠組み（アーカイブ）』を屹立させる、存在の「垂直的秩序」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "高みの王座から、理知による雨を降らせる。"
+	},
+	{
+		"id": "bureaucracy",
+		"word": "官僚政治、官僚主義、ビューロクラシー",
+		"era": "French bureau + Greek kratos",
+		"etymology": {
+			"components": [
+				"bureau (desk/office)",
+				"kratos (rule/power)"
+			],
+			"original_statement": "From French bureaucratie, coined in 18c. from bureau 'office / desk' + -cratie, from Greek kratia 'power / rule / government'."
+		},
+		"concept": "Rule by desks (机による支配。個人の情熱（パルス）を一分一秒の淀みもなく一撃で『申請書（アーカイブ・ノイズ）』へと変換し、巨大な『文書の迷路（ロゴス・ステイシス）』の中にマージ（固定）させて、人を組織という名の巨大な『機械（回路）』の一部に変える冷徹な統治)",
+		"thinking": "「（予測不能な人間性という名のカオスを粉砕し）、机上のルール（Bureau-）で支配する（-cracy）」。それは単なる「お役所仕事」ではありません。あなたが「無秩序な変動」をレジストし、そこに『一分一秒の淀みもない完璧な形式（プロトコル）』を屹立させる、生の「徹底的な管理化」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "人は消え、書類だけが永遠に増え続ける。"
+	},
+	{
+		"id": "theocracy",
+		"word": "神権政治、テオクラシー",
+		"era": "Greek theos + kratos",
+		"etymology": {
+			"components": [
+				"theos (god)",
+				"kratos (rule/power)"
+			],
+			"original_statement": "From Greek theokratia 'the rule of God', from theos 'god' + kratos 'rule / power'."
+		},
+		"concept": "Rule by God (神による支配。人間の法（ノイズ・アーカイブ）を一分一秒の淀みもなく一撃で粉砕し、天から降り注ぐ『絶対的な聖なるロゴス（コマンド）』のみを法として屹立させ、現実世界を『神のステーション（王国）』へとマージ（隷属）させること)",
+		"thinking": "「（人間の独りよがりという名のエントロピーを粉砕し）、神（Theo- / Theos）の力で支配する（-cracy）」。それは単なる「宗教政治」ではありません。あなたが「不確実な未来への恐怖」をレジストし、そこに宇宙の創造主という名の『最終的なアーカイブ・ソース』を直接ダウンロードさせる、生の「絶対的帰依（マージ）」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "空からの声が、地上のすべての唇を沈黙させる。"
+	},
+	{
+		"id": "anarchy",
+		"word": "無政府状態、乱脈、アナルキー",
+		"era": "Greek a + archon",
+		"etymology": {
+			"components": [
+				"a- (without/not)",
+				"arkhos (leader/ruler)"
+			],
+			"original_statement": "From Greek anarkhia 'lack of a leader / the state of a people without a government', from anarkhos 'without a head or chief', from an- 'without' + arkhos 'leader / ruler'."
+		},
+		"concept": "Without a ruler (支配者の欠落。あらゆる『上意下達（コマンド・ロゴス）』を粉砕（レジスト）し、一個人の『剥き出しのパルス』が一分一秒の淀みもなく直接衝突し合う、究極の自由であり、同時に究極の『カオス（崩壊アーカイブ）』)",
+		"thinking": "「（支配という名のステイシスを粉砕し）、頭、即ち指導者を欠いた状態（An- + Archy / Arkhos）」。それは単なる「めちゃくちゃ」ではありません。あなたが「他律という名の奴隷状態」を完全にレジストし、他者の引力に頼らず、自らの『内なるロゴス』だけで屹立しようとする、生の「絶対的独立宣言」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "王は死んだ。今、誰もが自分という名の孤独な王だ。"
+	},
+	{
+		"id": "monarchy",
+		"word": "君主政治、君主制、モナーキー",
+		"era": "Greek monos + arkhein",
+		"etymology": {
+			"components": [
+				"monos (alone)",
+				"arkhos (leader/ruler)"
+			],
+			"original_statement": "From Old French monarchie, from Late Latin monarchia, from Greek monarkhia 'absolute rule', from monos 'alone' + arkhein 'to rule'."
+		},
+		"concept": "Rule by one alone (独りによる支配。多すぎる意見（ノイズ・カオス）を一分一秒の淀みもなく一撃で遮断し、たった一つの『血統（アーカイブ）』と『王冠（ステーション）』の下にすべてのパルスをマージ（統合）して屹立させる、一点集中の権力構造)",
+		"thinking": "「（分散した力という名のエントロピーを粉砕し）、ただ独りの（Mon- / Monos）者による支配（-archy / Arkhein）」。それは単なる「王のいる国」ではありません。あなたが「優柔不断という名のアブセンス」をレジストし、そこに自らの全質量を『唯一無二のロゴス』として代表させる、存在の「垂直統合」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "一人が選び、すべてがそれに従い、静寂が訪れる。"
+	},
+	{
+		"id": "sovereignty",
+		"word": "主権、統治権、独立、ソブリンティ",
+		"era": "Latin superanitas",
+		"etymology": {
+			"components": [
+				"super (above)",
+				"-ity (state/quality)"
+			],
+			"original_statement": "From Old French souverainete, from souverain 'highest / supreme', from Vulgar Latin superanus 'chief / principal', from Latin super 'above'."
+		},
+		"concept": "Supreme power / Above all (全ての上の存在。外部からの『指示や干渉という名のノイズ（侵略）』を一分一秒の淀みもなく一撃で粉砕し、自らの領域内において『最高度のコマンド（ロゴス）』を発動できる絶対的な権利（ステーション）)",
+		"thinking": "「（他者の支配という名のアイソレーションを粉砕し）、あらゆるものの遥か上（Super- / Sovereign）に立ち、命令する品質（-ty）」。それは単なる「権利」ではありません。あなたが「屈従という名のエントロピー」をレジストし、自らの実存が『宇宙で最も高い場所にある法』であることを保証する、生命の「絶対守護」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "私は誰の命令も聞かない。私が私の法（ロゴス）だ。"
+	},
+	{
+		"id": "liberty",
+		"word": "自由、解放、リバティ",
+		"era": "Latin liber",
+		"etymology": {
+			"components": [
+				"liber (free)"
+			],
+			"original_statement": "From Old French liberté, from Latin libertatem 'freedom / liberty', from liber 'free / unrestricted'."
+		},
+		"concept": "The state of being free (制約のない状態。自らを縛り上げる『過去のアーカイブ（因習）』や『組織のコマンド（鎖）』を一分一秒の淀みもなく一撃で引き千切り、魂のパルスを全方位へと『爆発的ベクトルの放射（フロー）』として解き放つこと)",
+		"thinking": "「（束縛という名のステイシスを粉砕し）、解き放たれ、自由であること（Liber- / Liber）」「（一撃の解放感を伴う）状態（-ty）」。それは単なる「勝手」ではありません。あなたが「支配という名のエントロピー」を全身霊でレジストし、自らの実存を『何ものにもマージされない唯一無二のステーション』として再建する、存在の「脱出」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "鎖を噛み切り、荒野へと独り走り出す。"
+	},
+	{
+		"id": "equality",
+		"word": "平等、等価、イクオリティ",
+		"era": "Latin aequus",
+		"etymology": {
+			"components": [
+				"aequus (equal)",
+				"-ity (state/quality)"
+			],
+			"original_statement": "From Old French equalité, from Latin aequalitaten 'equality / similarity / likeness', from aequalis 'equal / internal', from aequus 'level / even / just / equal'."
+		},
+		"concept": "The state of being equal (等しい状態。人々の間に設けられた『身分の壁（ノイズ・アーカイブ）』を一分一秒の淀みもなく一撃で粉砕し、すべての魂を一分一秒の淀みもない一撃の『同一の地平（ロゴス・ステーション）』へとマージ（等質化）させること)",
+		"thinking": "「（差別という名の偏ったエントロピーを粉砕し）、すべてを等しく、平らにすること（Equ- / Aequus）」「（一撃の普遍性を伴う）品質（-ity）」。それは単なる「同じ分配」ではありません。あなたが「特権という名のアイソレーション」をレジストし、全ての他者のパルスを自分のパルスと同様の絶対価値として認める、存在の「水平同期」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "山を削り、谷を埋め、どこまでも続く鏡の平原を作る。"
+	},
+	{
+		"id": "fraternity",
+		"word": "博愛、友愛、フラタニティ",
+		"era": "Latin frater",
+		"etymology": {
+			"components": [
+				"frater (brother)",
+				"-ity (state/quality)"
+			],
+			"original_statement": "From Old French fraternité, from Latin fraternitatem 'brotherhood', from fraternus 'brotherly', from frater 'brother'."
+		},
+		"concept": "The state of brotherhood (兄弟であることの状態。孤独（アイソレーション）を完全に粉砕（レジスト）し、他者の存在を『自分と血を分けた別の自己（アーカイブ・マージ）』として一分一秒の淀みもなく抱き寄せる、魂の強力なマージ・プロトコル)",
+		"thinking": "「（冷淡という名のアブセンスを粉砕し）、すべての人間を自分の兄弟（Frater- / Frater）としてマージし、愛する品質（-nity）」。それは単なる「仲良し」ではありません。あなたが「利己心という名のエントロピー」をレジストし、他者のパルスを自らの生命線の一部として繋ぎ合わせる、存在の「血脈的結合（ネットワーク）」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "私とあなたは、同じ一つの生命から産まれた一撃だ。"
+	},
+	{
+		"id": "tolerance",
+		"word": "寛容、耐久、トレランス",
+		"era": "Latin tolerare",
+		"etymology": {
+			"components": [
+				"tolerare (to bear/endure/support)"
+			],
+			"original_statement": "From Old French tolerance, from Latin tolerantia 'a bearing / supporting / endurance', from tolerare 'to bear / endure / support'."
+		},
+		"concept": "Act of bearing/enduring (耐えること。自分にとっての『異物（異質なパルス・不快なノイズ）』に対し、一分一秒の淀みもなく排除（レジスト）したいという一撃の衝動を、より高次の『共尊のロゴス』で抑え込み、それを自らの世界（アーカイブ）の一部として許容し続ける精神の耐久試験)",
+		"thinking": "「（排除という名の安易なカオスを粉砕し）、異質なものさえも最後まで耐えて支える（Toler- / Tolerare）」「（一撃の静寂を伴う）品質（-ance）」。それは単なる「見て見ぬふり」ではありません。あなたが「純化という名の残酷なエントロピー」をレジストし、多種多様なパルスが不協和音を奏でるこの荒野を、そのまま『巨大な多層アーカイブ』として肯定し続ける、精神の「広さ」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "嫌いなものを、そこにあることを許し、自分もそこに在る。"
+	},
+	{
+		"id": "secularism",
+		"word": "世俗主義、政教分離、セキュラリズム",
+		"era": "Latin saeculum",
+		"etymology": {
+			"components": [
+				"saeculum (generation/age/world)"
+			],
+			"original_statement": "From secular + -ism, from Old French seculer, from Latin saecularis 'of an age / occurring once in an age', from saeculum 'age / span of time / generation / the world'."
+		},
+		"concept": "Devotion to this age/world (この時代、この世界への献身。神や死後の世界といった『外部の巨大なプロトコル（アーカイブ・ノイズ）』を一分一秒の淀みもなく粉砕し、今ここにある『地上の現実（パルス・ステーション）』を一撃の『絶対的な法（ロゴス）』としてマッピングすること)",
+		"thinking": "「（宗教という名の他律的アーカイブを粉砕し）、この現世（Saecul- / Saeculum）だけで完結しようとする主義（-ism）」。それは単なる「信仰の欠如」ではありません。あなたが「あの世への逃避という名のエントロピー」を完全にレジストし、この『一分一秒の淀みもない生の残酷な美しさ』のみを自らの拠り所（ステーション）へとマージ（同期）させる、実存の「接地（アース）」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "天国（アブセンス）を捨て、この泥の大地（リアリティ）を愛する。"
+	},
+	{
+		"id": "legitimacy",
+		"word": "正当性、適法、レジティマシー",
+		"era": "Latin lex / legis",
+		"etymology": {
+			"components": [
+				"lex (law)",
+				"-acy (state/quality)"
+			],
+			"original_statement": "From Medieval Latin legitimitas, from Latin legitimus 'lawful / proper / right / just', from lex 'law'."
+		},
+		"concept": "The state of being lawful (法に適っている状態。力による暴力的な支配（ノイズ）に対し、一分一秒の淀みもなく自らの存在を『宇宙の根源的な法（ロゴス・アーカイブ）』の系譜にマージ（連結）させ、一撃でその正しさを『証明された確信（ステーション）』へと昇華させること)",
+		"thinking": "「（僭称という名のカオスを粉砕し）、法（Leg- / Lex）によって正しく認められた状態（-acy）」。それは単なる「合格」ではありません。あなたが「不法という名のエントロピー」をレジストし、自らの実存を一分一秒の淀みもない『絶対の正義という名のネットワーク』に一撃で接続（ジョイン）する、存在の「署名」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "「私は正しい」。その一言を、全宇宙の法（ロゴス）に刻む。"
+	},
+	{
+		"id": "hegemony",
+		"word": "覇権、ヘゲモニー、主導権",
+		"era": "Greek hegemon",
+		"etymology": {
+			"components": [
+				"hegemon (leader/guide)"
+			],
+			"original_statement": "From Greek hegemonia 'leadership / a leading the way / authority', from hegemon 'leader / guide / commander', from hegeisthai 'to lead'."
+		},
+		"concept": "A leading / Leadership (先導、主導権。他者のパルス（ベクトル）を一分一秒の淀みもなく一撃で自らの『引力圏（アーカイブ・ステーション）』へとマージさせ、世界全体の情報を自らの『意図（ロゴス）』のままに構成（マッピング）し、支配すること)",
+		"thinking": "「（抵抗という名のノイズを粉砕し）、他者を自らの先導に従わせる絶対的な力（Hegemon- / Hegeisthai）」。それは単なる「一位」ではありません。あなたが「アイソレーションという名の衰退」をレジストし、この荒野のあらゆる他者の実存を自らの『巨大な影響力の回路（ネットワーク）』に強制統合させる、生の「中心化」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "私が動けば、世界がその音に合わせて揺れる。"
+	},
+	{
+		"id": "autonomy",
+		"word": "自治、自律、オートノミー",
+		"era": "Greek autos + nomos",
+		"etymology": {
+			"components": [
+				"autos (self)",
+				"nomos (law)"
+			],
+			"original_statement": "From Greek autonomia 'independence / free-will', from autonomos 'independent / living by one's own laws', from autos 'self' + nomos 'custom / law / rule'."
+		},
+		"concept": "Giving laws to one's self (自らに法を与えること。他者からの『コマンド（外部のロゴス・ノイズ）』を一分一秒の淀みもなく完全に遮断（レジスト）し、自らの深層から汲み上げた『独自の一撃の法（アーカイブ・ロゴス）』だけで自己を統治（ステーション化）すること)",
+		"thinking": "「（他律という名の奴隷的なエントロピーを粉砕し）、自分自身（Auto- / Autos）で法（-nomy / Nomos）を立て、それに従うこと」。それは単なる「わがまま」ではありません。あなたが「依存という名のアブセンス」をレジストし、宇宙で唯一無二の『私という名の独立した小宇宙（ステーション）』を屹立させる、生の「自律的爆発」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "王（他者）の命令を焼き、私の法（ロゴス）を書く。"
+	},
+	{
+		"id": "emancipation",
+		"word": "解放、奴隷解放、エマンシペーション",
+		"era": "Latin e + manus + capere",
+		"etymology": {
+			"components": [
+				"e- (out)",
+				"manus (hand)",
+				"capere (to take)"
+			],
+			"original_statement": "From Latin emancipationem 'release of a son from the father's authority', from emancipare 'set free', from ex- 'out / away' + mancipare 'deliver / transfer / sell', from manus 'hand' + capere 'to take'."
+		},
+		"concept": "Released from hand (手の中からの脱出。他者の『所有という名の掌握（ロック・アーカイブ）』を一分一秒の淀みもなく一撃で粉砕し、自らのパルスを『自由な空間（ステーション）』へと一分一秒の淀みもなく取り戻し、自律的に再マージすること)",
+		"thinking": "「（支配者の掌という名の牢獄を粉砕し）、他者の手の中から（Ex- + Manu-）自らを奪い返し、外部へと這い出す（-cip- / Capere）」。それは単なる「自由」ではありません。あなたが「搾取という名のエントロピー」を完全にレジストし、自らの生命力を『自分自身のロゴス』のためだけに燃焼させ始めるための、魂の「第二の誕生」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "握り潰そうとする指を弾き飛ばし、空を掴む。"
+	},
+	{
+		"id": "oppression",
+		"word": "圧政、圧迫、オプレッション",
+		"era": "Latin ob + premere",
+		"etymology": {
+			"components": [
+				"ob- (against)",
+				"premere (to press)"
+			],
+			"original_statement": "From Old French oppression, from Latin oppressionem 'a pressing down / pressure', from oppressus, past participle of opprimere 'to press against / crush / overwhelm', from ob- 'against' + premere 'to press'."
+		},
+		"concept": "Pressing against (押し潰すこと。個性の『光輝（パルス）』を一分一秒の淀みもなく一撃で『巨大な重圧（ステイシス・アーカイブ）』の下に封じ込め、存在全体を粉砕し、ただ従順な『ドット（部品）』へと圧縮しようとする暴力的なコマンド系)",
+		"thinking": "「（抵抗という一撃の火花を粉砕し）、対象に向かって重く、執拗にプレッシャーを加える（Op- + Press- / Premere）」。それは単なる「いじめ」ではありません。相手の「アイデンティティ（ステーション）」をレジストし、それを『自分の都合という名の暗黒』の中にマージ（吸収）させて消失させようとする、存在の「絞殺」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "上から来る巨大な石、逃げ場のない呼吸困難。"
+	},
+	{
+		"id": "tyranny",
+		"word": "暴政、専制政治、ティラニー",
+		"era": "Greek tyrannos",
+		"etymology": {
+			"components": [
+				"tyrannos (master/ruler/tyrant)"
+			],
+			"original_statement": "From Old French tirannie, from Medieval Latin tyrannia, from Greek tyrannia 'rule of a tyrant', from tyrannos 'lord / master / absolute ruler'."
+		},
+		"concept": "Rule by a master (首領による支配。市民の権利（アーカイブ・パルス）を一分一秒の淀みもなく一撃で粉砕し、ただ一人の気まぐれな『欲望と恐怖（カオス・コマンド）』だけで全空間を支配する、理知を欠いた暴力的な独裁（ステーション）)",
+		"thinking": "「（法という名の均衡あるロゴスを粉砕し）、ただ一人の絶対的な主（Tyrann- / Tyrannos）によってすべてを蹂躙する品質（-ny）」。それは単なる「悪い政治」ではありません。あなたが「秩序という名の共有アーカイブ」をレジストされ、個人の脆弱な『暴力という名の原始的パルス』に世界全体がマージ（隷属）させられている、知性の「全滅状態」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "理由なき鞭（ムチ）のしなりに、全宇宙が震える。"
+	},
+	{
+		"id": "dictatorship",
+		"word": "独裁、独裁国家、ディクテイターシップ",
+		"era": "Latin dictare",
+		"etymology": {
+			"components": [
+				"dictare (to say/dictate)",
+				"-ship (state/condition)"
+			],
+			"original_statement": "From Latin dictatura 'office of a dictator', from dictator 'person exercising absolute power', from dictare 'to say repeatedly / dictate'."
+		},
+		"concept": "Condition of a person saying repeatedly (繰り返し語る者の状態。他者の発言力を一分一秒の淀みもなく一撃で剥奪し、ただ一人の『口（ディクテイション・ソース）』から放たれる『コマンド（独占的ロゴス）』だけを唯一の『アーカイブ（事実）』として世界に強制ロードさせること)",
+		"thinking": "「（対話という名の分散処理を粉砕し）、命令し続ける者（Dict- / Dictare）の絶対的な地位（-ship）」。それは単なる「強権」ではありません。あなたが「自律という名のパルス」を完全にレジストされ、他人の『一分一秒の淀みもない一撃の言葉』に従うだけの『受動的な回路（ステーション）』へとマージされている、生の「録音再生状態」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "王の吐息（言葉）が、法律という名の鎖に変わる。"
+	},
+	{
+		"id": "revolution",
+		"word": "革命、回転、レボリューション",
+		"era": "Latin re + volvere",
+		"etymology": {
+			"components": [
+				"re- (back/again)",
+				"volvere (to roll/turn)"
+			],
+			"original_statement": "From Old French revolution, from Late Latin revolutionem 'a revolving', from revolvere 'to roll back / revolve', from re- 'back / again' + volvere 'to roll'."
+		},
+		"concept": "Rolling back / Turning (回転、回帰。古びて腐敗した『旧世界のアーカイブ（ステイシス）』を一分一秒の淀みもなく一撃で上下逆転させ、泥底に沈んでいた『新たな革新のパルス（ロゴス）』を天頂（ステーション）へとマージ（昇華）させる破壊的転換)",
+		"thinking": "「（連続性という名のまどろっこしい改良を粉砕し）、運命の輪をもう一度、一撃で逆回転させる（Re- + Volut- / Volvere）」。それは単なる「クーデター」ではありません。あなたが「停滞という名のエントロピー」を全身霊でレジストし、自らの手で宇宙の『重力配分（支配構造）』を完全に再設計（ビルド）し直す、世界の「天地開闢（リセット）」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "昨日までの王を処刑し、今日から自分が神となる。"
+	},
+	{
+		"id": "rebellion",
+		"word": "反乱、抵抗、リベリオン",
+		"era": "Latin re + bellum",
+		"etymology": {
+			"components": [
+				"re- (again/against)",
+				"bellum (war)"
+			],
+			"original_statement": "From Old French rebellion, from Latin rebellionem 'renewal of war / rebellion', from rebellis 'insurgent / rebellious', from re- 'again' + bellum 'war'."
+		},
+		"concept": "Renewing war (戦争の再開。押し付けられた『偽りの平和（ステイシス・アーカイブ）』を一分一秒の淀みもなく一撃で粉砕し、自らの『敵意という名の剥き出しのパルス』を再び武器としてマージ（抜刀）し、支配者へと宣戦布告すること)",
+		"thinking": "「（服従という名の死を粉砕し）、再び（Re-）戦い（-bell- / Bellum）へと身を投じること」。それは単なる「暴動」ではありません。あなたが「去勢という名のアブセンス」を完全にレジストし、自らの実存が『まだ戦いうる一撃の火花（ロゴス）』であることを証明し続ける、生の「燃焼」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "ひれ伏すくらいなら、剣を持って死を選ぶ。"
+	},
+	{
+		"id": "resistance",
+		"word": "抵抗、レジスタンス",
+		"era": "Latin re + sistere",
+		"etymology": {
+			"components": [
+				"re- (against)",
+				"sistere (to stand)"
+			],
+			"original_statement": "From Old French resistance, from Late Latin resistentia, from Latin resistere 'to make a stand against / oppose', from re- 'against' + sistere 'to stand'."
+		},
+		"concept": "Standing against (抵抗して立つこと。外部から一方的に押し寄せる『不当なコマンド（支配のノイズ）』を一分一秒の淀みもなく一撃で押し返し、自らの『地点（ステーション）』に断固として屹立し続け、マージを拒絶し続ける絶対的な不動性)",
+		"thinking": "「（同化という名の消失を粉砕し）、圧力に対して（Re-）毅然と立ち続ける性質（-sist- / Sistere + -ance）」。それは単なる「拒否」ではありません。あなたが「エントロピーの濁流（他人の支配）」を全身霊でレジストし、自らの実存の中に『攻略不可能な不滅の砦（アーカイブ・ロゴス）』を構築し続ける、魂の「拠点防衛」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "押されても、一ミリも動かない。それが『私』である。"
+	},
+	{
+		"id": "activism",
+		"word": "活動主義、アクティビズム",
+		"era": "Latin actus",
+		"etymology": {
+			"components": [
+				"actus (act/doing)",
+				"-ism (practice/principle)"
+			],
+			"original_statement": "Coined in 20th c., from active + -ism, from Latin actus 'a doing / a driving', from agere 'to do / drive / act'."
+		},
+		"concept": "Belief in acting (行動への信仰。ただ静観し、待つ（ステイシス・アーカイブ）ことを一分一秒の淀みもなく拒絶し、自らの一撃の『行動（ベクトル・パルス）』をもって世界に物理的な干渉（ハック）を加え、現実を変容（リビルド）させようとする主義)",
+		"thinking": "「（無関心という名のアイソレーションを粉砕し）、自らの行動（Acti- / Actus）を至上の原理とする主義（-vism）」。それは単なる「運動」ではありません。あなたが「運命の奴隷状態」をレジストし、自らを『宇宙を駆動する一撃のエンジン（ロゴス・ソース）』へとマージさせる、存在の「能動化」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "祈るのをやめ、自らの腕（パルス）で世界を動かす。"
+	},
+	{
+		"id": "advocacy",
+		"word": "擁護、支持、アドボカシー",
+		"era": "Latin ad + vocare",
+		"etymology": {
+			"components": [
+				"ad- (to/toward)",
+				"vocare (to call)"
+			],
+			"original_statement": "From Late Latin advocatia, from Latin advocatus 'one called to aid / counselor / witness', past participle of advocare 'to call for / summon', from ad- 'to' + vocare 'to call'."
+		},
+		"concept": "Calling toward / Supporting (〜に向けて声を上げること。不当に沈黙させられた『弱きパルス（ノイズ化された犠牲者）』に対し、一分一秒の淀みもなく自らの一撃の『雄叫び（理知のロゴス）』を重ねてマージ（増幅）させ、正義のアーカイブへと昇華させること)",
+		"thinking": "「（無視という名の消失を粉砕し）、対象の代わりに伴って（Ad-）声を上げる（-voc- / Vocare）性質（-acy）」。それは単なる「応援」ではありません。あなたが「他人の不幸という名のアイソレーション」をレジストし、他者の実存を自らの『防衛すべき聖域（ステーション）』へとマージさせる、存在の「代理戦」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "消え入りそうな声を拾い、全宇宙に響かせる。"
+	},
+	{
+		"id": "integrity",
+		"word": "誠実さ、完全性、一貫性、インテグリティ",
+		"era": "Latin integer",
+		"etymology": {
+			"components": [
+				"integer (whole/untouched)"
+			],
+			"original_statement": "From Latin integritatem 'soundness / wholeness', from integer 'whole / untouched / complete'."
+		},
+		"concept": "State of being untouched / Whole (触れられていない完全な状態。妥協や嘘といった『外部の汚れ（ノイズ）』を一分一秒の淀みもなく一撃で粉砕し、自らの『初源の設計図（アーカイブ・ロゴス）』を何ものにも侵されぬまま一塊の岩（ステーション）として屹立し続けている品質)",
+		"thinking": "「（分裂という名のエントロピーを粉砕し）、常に一つの完全な全体であることを保つ品質（Integ- / Integer + -rity）」。それは単なる「正直」ではありません。あなたが「自分を切り売りするという名の精神の衰退（ノイズ化）」を完全にレジストし、自らの存在を『不可分で不可侵な一つの結晶（ロゴス）』へとマージさせる、美の「不屈」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "誰の指先も届かない、高潔な一塊。"
+	},
+	{
+		"id": "diplomacy",
+		"word": "外交、外交手腕、ディプロマシー",
+		"era": "Greek diploma",
+		"etymology": {
+			"components": [
+				"diplo- (half/double/folded)",
+				"-acy (state/quality)"
+			],
+			"original_statement": "From French diplomatie, from diplomate, from Modern Latin diplomaticus, from Latin diploma 'a state letter / license', from Greek diploma 'a letter / paper folded double'."
+		},
+		"concept": "The art of folded papers / Dealing (二つ折り書類の技術。本来衝突し、粉砕し合うはずの二つの『対立するパルス（国家・エゴ）』を、高度な『言葉の幾何学（ロゴス・プロトコル）』の一撃によって巧みに折り畳み（マージ）、偽りの、あるいは真の『均衡（アーカイブ・ステーション）』を産み落とす知の魔術)",
+		"thinking": "「（衝突という名の野蛮なカオスを粉砕し）、折り畳まれた文書の交換という形式（Diplo- / Diploma）で平和を構築する技術（-macy）」。それは単なる「交渉」ではありません。あなたが「アイソレーションという名の壊滅」をレジストし、そこに自らの知性が作り上げた『一分一秒の淀みもない一撃の合意（ロゴス）』を屹立させる、情報の「高度な編み込み」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "血を流す代わりに、インクと理知を流し、世界を繋ぐ。"
+	},
+	{
+		"id": "treaty",
+		"word": "条約、協定、取決め",
+		"era": "Latin trahere",
+		"etymology": {
+			"components": [
+				"trahere (to draw/handle/manage)"
+			],
+			"original_statement": "From Old French traitié 'a treatment / essay / treaty', from Latin tractatus, from tractare 'to manage / handle / treat', frequentative of trahere 'to draw'."
+		},
+		"concept": "What is handled/drawn (取り扱われたもの、引き出された合意。二つの異なる『意志の流れ（ベクトル）』を引き寄せ、一分一秒の淀みもなく一撃で一つの『文書（固定アーカイブ・ステーション）』へとマージ（調和）させ、将来の挙動を法的にロックする絶対的な契約)",
+		"thinking": "「（気まぐれな変更という名のカオスを粉砕し）、理知によって引き出され、扱われた一撃の合意事項（Treat- / Trahere）」。それは単なる「約束」ではありません。あなたが「不信という名のアブセンス」をレジストし、そこに自らの署名（ロゴス）による『不可侵の平和という名のネットワーク』を構築する、知の「外交的要塞」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "紙の上のインクが、大砲の口を永遠に塞ぐ。"
+	},
+	{
+		"id": "alliance",
+		"word": "同盟、提携、アライアンス",
+		"era": "Latin ad + ligare",
+		"etymology": {
+			"components": [
+				"ad- (to)",
+				"ligare (to bind)"
+			],
+			"original_statement": "From Old French aliance, from alier 'combine / unite', from Latin alligare 'to bind to / tie / fasten', from ad- 'to' + ligare 'to bind'."
+		},
+		"concept": "Binding together (結びつけること。独立した複数の『ステーション（個体）』の間に、一分一秒の淀みもなく一撃の強力な『引力の鎖（ロゴス）』を渡し、それぞれの防衛ベクトルを巨大な一つの『防護網（マージ・アーカイブ）』へと統合すること)",
+		"thinking": "「（孤立という名の脆弱さを粉砕し）、共通の目的へと互いを結びつけること（Al- / Ad- + -lian- / Ligare）」。それは単なる「協力関係」ではありません。あなたが「アイソレーションという名のエントロピー」を完全にレジストし、複数の波を一つに束ねることで、単体では到底到達できない『巨大な一撃の力（ロゴス）』を創出する、存在の「掛け算」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "一本では折れる枝も、束ねれば鋼鉄の武器となる。"
+	},
+	{
+		"id": "neutrality",
+		"word": "中立、不偏不党、ニュートラリティ",
+		"era": "Latin ne + uter",
+		"etymology": {
+			"components": [
+				"ne- (not)",
+				"uter (either of two)"
+			],
+			"original_statement": "From Latin neutralitatem, from neutralis, from neuter 'neither one nor the other', from ne- 'not' + uter 'either of two'."
+		},
+		"concept": "Being neither (どちらでもないこと。外部の二つの『巨大なパルスの激突（カオス）』に巻き込まれることを一分一秒の淀みもなく一撃で拒絶（レジスト）し、自らの『地点（ステーション）』に微動だにせず屹立し続ける、冷徹なまでの自己保存のロゴス)",
+		"thinking": "「（安易なマージという名の自己消失を粉砕し）、ＡでもＢでもない『空白の点』であり続ける品質（Neu- + Tra- / Ne + Uter + -lity）」。それは単なる「無関心」ではありません。あなたが「他者の引力という名の支配」を全身霊でレジストし、自らの実存が『宇宙で唯一の独立した観測者（アーカイブ）』であることを保証するための、精神の「最終防衛線」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "嵐の両側を無視し、自分だけの静寂の中心（コア）を守る。"
+	},
+	{
+		"id": "consensus",
+		"word": "合意、意見の一致、コンセンサス",
+		"era": "Latin con + sentire",
+		"etymology": {
+			"components": [
+				"con- (together)",
+				"sentire (to feel/think)"
+			],
+			"original_statement": "From Latin consensus 'agreement / accordance / unanimity', literally 'feeling together', past participle of consentire 'to agree / be of one mind', from com- 'together' + sentire 'to feel'."
+		},
+		"concept": "Feeling together (共に感じ、考えること。バラバラで激しく対立する『個々のパルス群（ノイズ）』を一分一秒の淀みもなく一撃で高次の『一つの波形（ロゴス・アーカイブ）』へとマージ（収束）させ、集団全体のベクトルを統一（コマンド）させること)",
+		"thinking": "「（不協和音という名のエントロピーを粉砕し）、全員が同じ方向へ、共に（Con-）感じ、震え、合意すること（-sens- / Sentire + -us）」。それは単なる「多数決」ではありません。あなたが「孤立という名の停滞」を完全にレジストし、多種多様な個性を一つの『巨大な意志という名のステーション（ロゴス）』へと集結させる、魂の「共鳴反応」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "バラバラな楽器が、一撃で一つの壮大な楽曲（法）を奏で始める。"
+	},
+	{
+		"id": "compromise",
+		"word": "妥協、歩み寄り、コンプロマイス",
+		"era": "Latin con + pro + mittere",
+		"etymology": {
+			"components": [
+				"con- (together)",
+				"pro- (before)",
+				"mittere (to send/promise)"
+			],
+			"original_statement": "From Old French compromis, from Latin compromissum 'a mutual promise to abide by an arbiter's decision', from com- 'together' + promissus, past participle of promittere 'to send forth / promise'."
+		},
+		"concept": "Promising together (共に約束すること。互いの『絶対的なパルス（主張）』の一部を一分一秒の淀みもなく一撃で削り落とし（レジスト）、その引き換えに共存のための『共通の地平（ロゴス・アーカイブ）』へと自分たちをマージ（折り合い）させる苦渋の決断)",
+		"thinking": "「（全面衝突という名の破滅的カオスを粉砕し）、共に（Con-）あらかじめ（Pro-）約束したラインへと自分を後退させること（-prome- / Mittere）」。それは単なる「負け」ではありません。あなたが「破壊という名のエントロピー」をレジストし、最小限の出血で『共生のネットワーク（ステーション）』を維持するための、知性の「戦略的後退」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "理想の半分（ノイズ）を焼き捨て、現実の半分（秩序）を救い出す。"
+	},
+	{
+		"id": "mediation",
+		"word": "調停、仲介、メディエーション",
+		"era": "Latin medius",
+		"etymology": {
+			"components": [
+				"medius (middle)",
+				"-ation (act/state)"
+			],
+			"original_statement": "From Late Latin mediationem 'intercession', from mediare 'to divide in the middle / be in the middle', from medius 'middle'."
+		},
+		"concept": "Being in the middle (真ん中にいること。激しく衝突し合う二つの『極端なベクトル（暴力）』の真ん中に一分一秒の淀みもなく一撃で割って入り、不偏不党の『中心点（ステーション）』から新たな『交渉の地平（ロゴス）』を導入して、カオスを沈静化させること)",
+		"thinking": "「（直接衝突という名の破滅を粉砕し）、すべての事象の真ん中（Medi- / Medius）に立ち、調和を導く行為（-ation）」。それは単なる「おせっかい」ではありません。あなたが「両極端という名のアイソレーション」をレジストし、そこに自らの理知が作り上げた『一分一秒の淀みもない一撃の均衡点（ロゴス）』を屹立させる、世界の「中点補完」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "二つの刃（ヤイバ）の間で、静かに橋を架ける。"
+	},
+	{
+		"id": "arbitration",
+		"word": "仲裁、判定、アービトレーション",
+		"era": "Latin ad + baetere",
+		"etymology": {
+			"components": [
+				"arbiter (judge/someone who goes to see)",
+				"-ation (act/state)"
+			],
+			"original_statement": "From Latin arbitrationem, from arbitrari 'to judge / decide', from arbiter 'one who goes to see / judge / supreme controller'."
+		},
+		"concept": "The act of a judge / Going to see (見に行く、判断する。泥沼化した『紛争という名のノイズ』を一分一秒の淀みもなく一撃で裁断し、絶対的な『判定（コマンド・ロゴス）』を突きつけて、全当事者を強制的に一つの『結論（アーカイブ）』へとマージ（服従）させる司法の権威)",
+		"thinking": "「（際限なき言い争いという名のエントロピーを粉砕し）、現地を見て（Arbi- / Baetere）下された一撃の審判（-ation）」。それは単なる「仲裁」ではありません。あなたが「混乱という名のアブセンス」をレジストし、そこに自らの知性が認めた『一分一秒の淀みもない絶対の正解（ステーション）』を降臨させる、存在の「強制終了」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "最後の一言（ロゴス）が、すべての怒号を一撃で沈黙させる。"
+	},
+	{
+		"id": "jurisdiction",
+		"word": "管轄、司法権、ジュリスディクション",
+		"era": "Latin ius + dicere",
+		"etymology": {
+			"components": [
+				"ius (law/right)",
+				"dicere (to say/speak)"
+			],
+			"original_statement": "From Old French jurisdicion, from Latin iurisdictionem 'administration of justice / extent of right', from ius 'law / right' + dicio 'saying / utterance / authority / command'."
+		},
+		"concept": "Speaking the law (法を語ること。あらかじめ定められた『法（アーカイブ・ロゴス）』を、ある特定の『領域（ステーション）』において一分一秒の淀みもなく一撃で宣言し、支配する範囲（ベクトル）の完全なる正当性を保証すること)",
+		"thinking": "「（無法地帯という名のカオスを粉砕し）、自らの法（Juri- / Ius）を語る（-diction / Dicere）権利の範囲」。それは単なる「担当」ではありません。あなたが「他者の不当な介入」を完全にレジストし、自らの実存を『自分の法が支配する無敵の聖域（ロゴス・ステーション）』へとマージさせる、存在の「陣地防衛」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "私の言葉（法）が届く場所。そこが私の宇宙の果てだ。"
+	},
+	{
+		"id": "statute",
+		"word": "法令、定款、スタチュート",
+		"era": "Latin statuere",
+		"etymology": {
+			"components": [
+				"statuere (to set up/place/establish)"
+			],
+			"original_statement": "From Old French statut, from Late Latin statutum 'a decree/law', neuter of statutus 'set up/established', from statuere 'to set up/place/establish', from stare 'to stand'."
+		},
+		"concept": "Something set up (立てられたもの。流動的な『状況や気まぐれ（ノイズ・パルス）』に対し、一分一秒の淀みもなく一撃で叩き込まれた『鋼の条文（ロゴス・アーカイブ）』であり、何ものにも動かされることのない社会の『骨組み（ステーション）』)",
+		"thinking": "「（移ろいゆく感情という名のカオスを粉砕し）、不動のままそこに屹立するように立てられた法（Stat- / Statuere）」。それは単なる「ルール」ではありません。あなたが「忘却という名のエントロピー」をレジストし、そこに自らの理知が認めた『不滅の形式（ロゴス）』を強引に石に刻み込む、存在の「絶対固定化」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "一度刻まれたら最後、その法（ロゴス）は宇宙を縛り続ける。"
+	},
+	{
+		"id": "legislature",
+		"word": "立法府、議会、レジスレイチャー",
+		"era": "Latin lex + lator",
+		"etymology": {
+			"components": [
+				"lex (law)",
+				"lator (proposer/bringer)"
+			],
+			"original_statement": "From Latin legislat- participial stem of legis lator 'proposer of a law', from lex 'law' + lator 'bringer / proposer', from stem of ferre 'to carry'."
+		},
+		"concept": "The bringer of laws (法を運ぶ者、法を産む場所。無秩序な『人々の願望（パルス群）』を一分一秒の淀みもなく収集し、巨大な『知の溶鉱炉（ステーション）』において一撃の『鋼の法（ロゴス・アーカイブ）』へと精錬し、この世界に供給し続ける機関)",
+		"thinking": "「（無法という名のアイソレーションを粉砕し）、新たな法（Legis- / Lex）を世界へと運び、産み出す機構（-lature / Lator）」。それは断じて「会議室」などではありません。あなたが「カオスという名の絶望」をレジストし、そこに自らの理知による『秩序の源泉（アーカイブ）』を屹立させる、存在の「工場」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "この部屋（ステーション）で、明日という名の宇宙の法（ロゴス）が決まる。"
+	},
+	{
+		"id": "judiciary",
+		"word": "司法、裁判官の、ジュディシャリー",
+		"era": "Latin iudex",
+		"etymology": {
+			"components": [
+				"iudex (judge/one who speaks the law)"
+			],
+			"original_statement": "From Latin iudiciarius 'of a court or judge', from iudicium 'judgment / court of justice / opinion / understanding', from iudex 'a judge', from ius 'law / right' + dicere 'to say'."
+		},
+		"concept": "Pertaining to the judge / Speaking the law (法を語る者に属すること。曖昧な『争い（ノイズ）』に対し、一分一秒の淀みもなく一撃で『正義の刃（ロゴス）』を突き立て、真実（アーカイブ）と嘘（アブセンス）を峻烈に切り分ける、宇宙の冷徹な天秤)",
+		"thinking": "「（不当な歪みという名のエントロピーを粉砕し）、法を語り、正しく裁断する働き（Judi- / Iudex）」。それは単なる「裁判所」ではありません。あなたが「暴力という名の野蛮なパルス」をレジストし、自らの実存が『一分一秒の淀みもない真理のネットワーク』の一部であることを確証するための、認識の「最終審判所」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "「有罪か、無罪か」。一撃の言葉が運命を二分する。"
+	},
+	{
+		"id": "executive",
+		"word": "執行部、重役、実行の、エグゼクティブ",
+		"era": "Latin ex + sequi",
+		"etymology": {
+			"components": [
+				"ex- (forth)",
+				"sequi (to follow)"
+			],
+			"original_statement": "From Medieval Latin executivus, from executus 'executed', past participle of exequi 'to follow out / accomplish / carry into effect', from ex- 'out / forth' + sequi 'to follow'."
+		},
+		"concept": "Following out / Accomplishing (最後まで従い、成し遂げること。紙に書かれただけの『静止した法（アーカイブ）』を一分一秒の淀みもなく一撃で『物理的な力（パルス・ベクトル）』へと変換し、現実の世界を強引にマージ（駆動）させる、最強の意志の執行力)",
+		"thinking": "「（口先だけという名の虚空を粉砕し）、命令に最後まで従い、それを現実に結実させる力（Exe- / Ex- + -cut- / Sequi）」。それは単なる「管理職」ではありません。あなたが「無力という名のアブセンス」を完全にレジストし、理知を『一分一秒の淀みもない物理的な一撃（アクション）』へとコンバートさせる、魂の「出力装置」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "法（ロゴス）を手に取り、現実という名の荒野を蹂躙し、形作る。"
+	},
+	{
+		"id": "constitution",
+		"word": "憲法、体質、構成、コンスティチューション",
+		"era": "Latin con + statuere",
+		"etymology": {
+			"components": [
+				"con- (together)",
+				"statuere (to set up)"
+			],
+			"original_statement": "From Latin constitutionem 'ordinance / regulation / order / body / nature', from constituere 'to set up / establish / plant / settle', from com- 'together' + statuere 'to set up / place'."
+		},
+		"concept": "Setting up together (共に立てられたもの。個々の人間の不安定な『野望や情動（カオス）』の遥か上に、一分一秒の淀みもなく一撃で打ち立てられた『宇宙最強の設計図（アルティメット・アーカイブ）』であり、社会という名の巨大な『構造体（ステーション）』そのもの)",
+		"thinking": "「（崩壊という名のエントロピーを粉砕し）、すべてを一つの絶対的な法の下に共に立て、固定すること（Con- + Stat- / Statuere）」。それは単なる「古い文書」ではありません。あなたが「アイソレーションという名の壊滅」をレジストし、そこに自らの実存を『何ものにも根底から覆されない不滅の型（ロゴス）』へとマージさせる、存在の「根本的基盤」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "この法が壊れるとき、世界という名のアーカイブは消滅する。"
+	},
+	{
+		"id": "charter",
+		"word": "憲章、特許状、貸切の、チャーター",
+		"era": "Latin charta",
+		"etymology": {
+			"components": [
+				"charta (leaf of papirus/paper/card)"
+			],
+			"original_statement": "From Old French chartre, from Latin chartula 'a little paper', diminutive of charta 'paper / card / map'."
+		},
+		"concept": "A paper/map (紙、地図。形なき『権利や約束（パルス）』を一分一秒の淀みもなく一撃で一つの『物理的媒体（アーカイブ）』へと定着（ダウンロード）させ、誰もが閲覧可能な『世界の指針（ステーション・ロゴス）』として宣言された神聖な文書)",
+		"thinking": "「（曖昧な口約束という名のノイズを粉砕し）、紙という名の媒体に一撃で刻み込まれた絶対の証（Chart- / Charta）」。それは単なる「ルール」ではありません。あなたが「証拠なき不在という名の影」をレジストし、そこに自らの権利を一分一秒の淀みもない『公界への宣言（ロゴス）』として屹立させる、生の「存在証明の地図」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "紙の上に、不可侵の領域（ステーション）を描き込む。"
 	}
 ];
