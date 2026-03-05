@@ -2359,26 +2359,40 @@ function generatePhoneticVariants(pre, r1, r2, suf1, suf2, suf3) {
     // Prefix assimilation rules
     const prefixRules = [
         // in- assimilation
-        [/^in(?=[mlbp])/, (m) => 'im' + m.slice(2)],
-        [/^in(?=[lr])/, (m) => 'il' + m.slice(2)],
-        [/^in(?=[r])/, (m) => 'ir' + m.slice(2)],
-        // ad- assimilation
-        [/^ad(?=[cfgklnpqrst])/, (m) => m[2] + m[2] + m.slice(3)],
-        // com- assimilation
-        [/^com(?=[lrv])/, (m) => 'co' + m.slice(3)],
-        [/^com(?=[bmp])/, (m) => 'com' + m.slice(3)],
-        [/^con(?=[lbmp])/, (m) => 'com' + m.slice(3)],
+        [/^in([mbp])/, 'im$1'],
+        [/^in([l])/, 'il$1'],
+        [/^in([r])/, 'ir$1'],
+
+        // con- / com- assimilation
+        [/^con([mbp])/, 'com$1'],
+        [/^con([l])/, 'col$1'],
+        [/^con([r])/, 'cor$1'],
+        [/^con([aeiouhw])/, 'co$1'],
+        [/^com([l])/, 'col$1'],
+        [/^com([r])/, 'cor$1'],
+        [/^com([aeiouhw])/, 'co$1'],
+
+        // ad- assimilation (ac, af, ag, al, an, ap, ar, as, at)
+        [/^ad([cfglpnqrst])/, 'a$1$1'],
+
+        // sub- assimilation (suc, suf, sug, sup, sur, sum)
+        [/^sub([cfmpgr])/, 'su$1$1'],
+
+        // ob- assimilation (oc, of, op)
+        [/^ob([cfp])/, 'o$1$1'],
+
         // ex- assimilation
-        [/^ex(?=[fsc])/, (m) => 'e' + m.slice(2)],
-        // dis- reduction
-        [/^dis(?=[fsl])/, (m) => 'di' + m.slice(3)],
-        // sub- assimilation
-        [/^sub(?=[cfgmprt])/, (m) => 'su' + m[3] + m.slice(3)],
+        [/^ex([f])/, 'ef$1'],
+        [/^ex([bdgjmnrv])/, 'e$1'],
+
+        // dis- assimilation
+        [/^dis([f])/, 'dif$1'],
+        [/^dis([bdglmnrv])/, 'di$1']
     ];
 
-    for (const [regex, transform] of prefixRules) {
+    for (const [regex, replacement] of prefixRules) {
         if (regex.test(base)) {
-            variants.add(transform(base));
+            variants.add(base.replace(regex, replacement));
         }
     }
 
