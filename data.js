@@ -181837,5 +181837,61 @@ const WORDS = [
 			]
 		},
 		"part_of_speech": "noun"
+	},
+	{
+		"id": "flower",
+		"word": "Flower",
+		"meaning": "花、開花する、全盛期",
+		"era": "13th Century Old French/Latin flōs",
+		"etymology": {
+			"components": [
+				"flōs (flower)"
+			],
+			"original_statement": "From Old French flor, from Latin flōrem (flower, blossom)."
+		},
+		"concept": "The blossoming peak (開花の絶頂、生命の美の追求)",
+		"thinking": "生命が次世代へ繋ぐために、持てるエネルギーをすべて注ぎ込んで作り出した最高に美しい「表現」。そこから、才能が満開になる「全盛、フィジカルな美」を指します。いつか散るという儚さも、この言葉に含まれる美の一部です。",
+		"aftertaste": "一瞬の輝き。それが種子へ至るために必要な、命の乱舞。",
+		"example": "Spring is the season when all the flowers begin to bloom.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "bhel-",
+					"meaning": "to bloom, flourish, swell"
+				}
+			],
+			"points": [
+				"flourish（栄える）や blade（葉/刀の身）と同じく、豊かに広がる『膨らみ』がルーツ。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "river",
+		"word": "River",
+		"meaning": "川、河川、多量",
+		"era": "12th Century Old French/Latin ripa",
+		"etymology": {
+			"components": [
+				"ripa (bank, shore)"
+			],
+			"original_statement": "From Old French riviere, from Vulgar Latin *riparia (riverbank), from Latin ripa (bank)."
+		},
+		"concept": "That which has banks (岸辺を持っているもの)",
+		"thinking": "もともとは『流れている水』ではなく、『その流れている水を支えている岸（ripa）』を指していました。岸があるからこそ、水は散逸せずに一本の奔流となれるのです。人生の急流から、涙の河まで、一定の方向を向いた膨大な「流れ」を意味します。",
+		"aftertaste": "留まらないこと。岸を削りながら、ただ海へと急ぐ。",
+		"example": "The river flows gently through the quiet valley village.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "rei-",
+					"meaning": "to scratch, tear, cut"
+				}
+			],
+			"points": [
+				"write（書く：削って記す）や rival（ライバル：川の岸の住人同士）と同根の『削った跡（岸）』。"
+			]
+		},
+		"part_of_speech": "noun"
 	}
 ];
