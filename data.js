@@ -181155,5 +181155,122 @@ const WORDS = [
 			]
 		},
 		"part_of_speech": "noun"
+	},
+	{
+		"id": "subconscious",
+		"word": "Subconscious",
+		"meaning": "潜在意識",
+		"era": "19th Century English/French",
+		"etymology": {
+			"components": [
+				"sub- (under)",
+				"conscious"
+			],
+			"original_statement": "Formed from the prefix sub- (under, below) + conscious. Popularized mainly via psychological theory."
+		},
+		"concept": "Beneath the conscious awareness (意識より少し下の層)",
+		"thinking": "普段は意識していないけれど、記憶や感情が蓄えられていて、何かの拍子にスッと意識に上がってくることができる（あるいは夢に現れる）心の領域。氷山の水面下にある巨大な塊。",
+		"aftertaste": "あなたの選択は、水面下のあなたが既に決めている。",
+		"example": "Our fears are often rooted deep within the subconscious.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "upo",
+					"meaning": "under"
+				}
+			],
+			"points": [
+				"unconscious（無意識/気絶）とは区別され、『引き出そうと思えば引き出せる心の裏側』を指します。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "hypnosis",
+		"word": "Hypnosis",
+		"meaning": "催眠、催眠状態",
+		"era": "19th Century Greek hypnos",
+		"etymology": {
+			"components": [
+				"hypnos (sleep)",
+				"-osis (condition)"
+			],
+			"original_statement": "Coined in 1841 by Scottish physician James Braid, from Greek hypnos (sleep) + -osis (condition)."
+		},
+		"concept": "A sleep-like condition (睡眠状態のようなもの)",
+		"thinking": "暗示をかけて意識の一部を手放させる医療やショーの技法。「睡眠（hypnos）」という言葉を使っていますが、実際には脳が起きているまま一部の集中力が極限に高まった非常に特異な変性意識状態です。",
+		"aftertaste": "起きながら夢を見る、強制ハッキング。",
+		"example": "The therapist used hypnosis to help him quit smoking.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "swep-",
+					"meaning": "to sleep"
+				}
+			],
+			"points": [
+				"ギリシャの眠りの神『ヒュプノス』から。不眠症（insomnia）のsomniaと同じ印欧語根から分かれました。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "coincidence",
+		"word": "Coincidence",
+		"meaning": "偶然の暗合、同時発生、単なる偶然",
+		"era": "17th Century Medieval Latin coincidentia",
+		"etymology": {
+			"components": [
+				"com- (together)",
+				"in- (upon)",
+				"cadere (to fall)"
+			],
+			"original_statement": "From Medieval Latin coincidentia, from coincidere (to fall upon together), from com- (together) + in- (upon) + cadere (to fall)."
+		},
+		"concept": "Falling together upon the same spot (同じ場所に一緒に落ちること)",
+		"thinking": "全く無関係な二つの出来事が、偶然にも『全く同じ場所・同じ時間にヒュッと落ちてきて（incide）ピッタリ重なる（co-）』こと。そこに運命的な意味はなく、ただの確率的ないたずら（Mere coincidence）として使われます。",
+		"aftertaste": "二つの矢が、偶然同じマトを射抜いただけ。",
+		"example": "It was just a coincidence that we both wore blue shirts today.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kad-",
+					"meaning": "to fall"
+				}
+			],
+			"points": [
+				"incident（出来事：落ちてきたこと）や accident（事故）と同じく『コントロールできずに落ちてくるもの』です。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "synchronicity",
+		"word": "Synchronicity",
+		"meaning": "シンクロニシティ、意味のある偶然の一致、共時性",
+		"era": "20th Century Greek syn- + chronos",
+		"etymology": {
+			"components": [
+				"syn- (together)",
+				"chronos (time)"
+			],
+			"original_statement": "Coined in the 1950s by Swiss psychologist Carl Jung from synchrony (simultaneous occurrence), from Greek synchronos (happening at the same time)."
+		},
+		"concept": "Meaningful coincidence in time (時間軸で共に起きる、意味ある偶然)",
+		"thinking": "Coincidenceが「無意味な確率の結果」であるのに対し、ユングが提唱した「因果関係はないのに、まるでお互いが見えない集合的無意識で繋がっているかのように、同時に（syn-）時間（chronos）を共有して起きる深い意味を持った一致」。",
+		"aftertaste": "世界に響き渡る、見えない波長の共鳴。",
+		"example": "Thinking of an old friend right before they call is a common experience of synchronicity.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "chronos",
+					"meaning": "time"
+				}
+			],
+			"points": [
+				"chronicle（年代記）や chronic（慢性の：時間がかかる）の『時間（クロノス神）』です。"
+			]
+		},
+		"part_of_speech": "noun"
 	}
 ];
