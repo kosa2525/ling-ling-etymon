@@ -174495,5 +174495,679 @@ const WORDS = [
 		"thinking": "「（当たり前という名の無関心を粉砕し）、世界を心地よく、ありがたく思う（Grat- / Gratus）」「（一撃の純粋さを伴う）品質（-itude）」。それは単なる「お礼」ではありません。あなたが「不満という名のエントロピー」をレジストし、自分とこの宇宙を『一分一秒の淀みもない喜びのネットワーク』で繋ぎ直す、魂の「共鳴」なのです。",
 		"part_of_speech": "noun",
 		"aftertaste": "受け取った光を、倍にして宇宙へ。それが命の礼儀。"
+	},
+	{
+		"id": "concept",
+		"word": "概念、構想、コンセプト",
+		"era": "Latin con + capere",
+		"etymology": {
+			"components": [
+				"con- (together)",
+				"capere (to take)"
+			],
+			"original_statement": "From Latin conceptum 'something conceived', from concipere 'to take in / conceive', from com- 'together' + capere 'to take'."
+		},
+		"concept": "Taken together / Conceived (共に取ること、受胎。バラバラな『情報の断片（ノイズ）』を一分一秒の淀みもなく一つの『器（アーカイブ）』にまとめあげ、思考の種火（パルス）を一撃で形ある存在（ステーション）へと変容させること)",
+		"thinking": "「（無秩序なパルス群を粉砕し）、すべてを一つにまとめ取る（Con- + Cept- / Capere）」。それは単なる「用語」ではありません。あなたが「混沌という名のアブセンス」をレジストし、そこに自らの理知が作り上げた『一分一秒の淀みもない絶対の形式（ロゴス）』を屹立させる、思考の「受胎」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "形なきパルスを、言葉の器で捕獲する。"
+	},
+	{
+		"id": "theory",
+		"word": "理論、学説、セオリー",
+		"era": "Greek theo + horos",
+		"etymology": {
+			"components": [
+				"theorein (to look at/contemplate/view)"
+			],
+			"original_statement": "From Late Latin theoria, from Greek theoria 'contemplation / speculation / a looking at / things looked at', from theorein 'to consider / speculate / look at', from thearos 'spectator'."
+		},
+		"concept": "Contemplation / A looking at (凝視、観照。世界という名の『巨大な演劇（カオス）』に対し、一分一秒の淀みもなく観客席から一撃の『冷徹な視線（ロゴス・アーカイブ）』を投げかけ、その裏に隠された『鋼の法則（プログラム）』を暴き出し、体系化すること)",
+		"thinking": "「（場当たり的な解釈を粉砕し）、真理の姿を直接その目に捉え、観照する（Theo- / Theorein）」。それは単なる「理屈」ではありません。あなたが「現象の濁流（ノイズ）」を完全にレジストし、そこに自らの知性が作り上げた『不滅の論理体系（ステーション）』を屹立させる、世界の「透視図」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "舞台を降り、冷たい視線で法則を綴る。"
+	},
+	{
+		"id": "hypothesis",
+		"word": "仮説、仮定、ハイポセシス",
+		"era": "Greek hypo + tithenai",
+		"etymology": {
+			"components": [
+				"hypo- (under)",
+				"tithenai (to place)"
+			],
+			"original_statement": "From Late Latin hypothesis, from Greek hypothesis 'placing under / foundation / base / supposition', from hypo- 'under' + tithenai 'to place / put'."
+		},
+		"concept": "Placing under (下に置くこと。まだ証明されていない『不確かな真理（パルス）』を、思考の土台として一分一秒の淀みもなく一撃で『仮の地面（アーカイブ）』として叩き込み、そこから新たな『推論の構築（ビルド）』を開始するための足場)",
+		"thinking": "「（確証がないという停滞を粉砕し）、論理の底に仮に置く（Hypo- + Thesis / Tithenai）」。それは単なる「あて推量」ではありません。あなたが「無知という名の暗黒（アブセンス）」をレジストし、自らが生み出した『一分一秒の淀みもない仮のロゴス（ステーション）』を信じて暗闇へと踏み出す、知の「冒険的仮設」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "未踏の地に、仮の杭を打ち込む。"
+	},
+	{
+		"id": "axiom",
+		"word": "公理、格言、自明の理、アクシオム",
+		"era": "Greek axios",
+		"etymology": {
+			"components": [
+				"axios (worthy)",
+				"axioma (what is thought worthy)"
+			],
+			"original_statement": "From French axiome, from Latin axioma, from Greek axioma 'that which is thought worthy / fit / a self-evident principle', from axioun 'to think worthy', from axios 'worthy'."
+		},
+		"concept": "What is thought worthy (価値あるもの、自明の理。証明を必要としない『究極の核（コア・アーカイブ）』であり、すべての『論理（ネットワーク）』が一分一秒の淀みもなくそこから一撃で派生し、マージ（結合）されている絶対的な出発点)",
+		"thinking": "「（疑いの余地という名のノイズを粉砕し）、それ自体で絶対的に価値があり、自明なもの（Axio- / Axios）」。それは単なる「ルール」ではありません。あなたが「不確実性という名のエントロピー」をレジストし、思考の宇宙の真芯に『絶対不動の基神（ロゴス）』を屹立させる、存在の「大前提」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "証明の鎖を辿れば、必ずここに突き当たる。"
+	},
+	{
+		"id": "principle",
+		"word": "原理、原則、本質、プリンシプル",
+		"era": "Latin primus + capere",
+		"etymology": {
+			"components": [
+				"primus (first)",
+				"capere (to take)"
+			],
+			"original_statement": "From Old French principe, from Latin principium 'a beginning / first part / element', from princeps 'first in time or order', from primus 'first' + capere 'to take'."
+		},
+		"concept": "Taken first (最初に取られるもの。複雑な現象（カオス）の最深部に潜み、一分一秒の淀みもなく全体を一撃で制御（コマンド）している『最初の設計図（プロトコル・アーカイブ）』)",
+		"thinking": "「（表面の迷走を粉砕し）、最も初めに、根源的に取り入れるべきもの（Prin- / Primus + Cip- / Capere）」。それは単なる「決まり」ではありません。あなたが「妥協という名のエントロピー」をレジストし、自らの行動を一分一秒の淀みもない『絶対の軸（ロゴス・ステーション）』へとマージさせる、生の「根本則」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "揺らぐ枝葉を無視し、根の法（ロゴス）に従う。"
+	},
+	{
+		"id": "doctrine",
+		"word": "教義、主義、ドクトリン",
+		"era": "Latin docere",
+		"etymology": {
+			"components": [
+				"docere (to teach)",
+				"-ina (pertaining to)"
+			],
+			"original_statement": "From Latin doctrina 'a teaching / instruction / body of instruction / learning', from doctor 'teacher', from docere 'to teach'."
+		},
+		"concept": "What is taught (教え。一分一秒の淀みもなく継承されてきた『知のアーカイブ』であり、ある特定の『世界観（ステーション）』を一撃で強固に構築し、信者の行動を一糸乱れぬ『一方向のベクトル（パルス）』へとマージ（統合）させる教理体系)",
+		"thinking": "「（迷いという名のノイズを粉砕し）、教え込まれた絶対の形式（Doct- / Docere）」。それは単なる「考え」ではありません。あなたが「疑念という名のアブセンス」をレジストし、自らの実存を『強靭な集団知のロゴス』へとマージさせる、魂の「教理的統治」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "一本の杭が、数多の魂を一つに繋ぐ。"
+	},
+	{
+		"id": "dogma",
+		"word": "教義、定説、ドグマ",
+		"era": "Greek dokein",
+		"etymology": {
+			"components": [
+				"dokein (to seem/think)"
+			],
+			"original_statement": "From Latin dogma, from Greek dogma 'opinion / tenet / decree', literally 'that which seems true', from dokein 'to seem good / think'."
+		},
+		"concept": "That which seems true / Decree (正しいと思われること。証明や議論といった『時間の浪費（ノイズ）』を一分一秒の淀みもなく一撃で拒絶し、絶対的な『事実（アーカイブ）』として問答無用で魂の最深部にマージ（刻印）される強引な真理)",
+		"thinking": "「（反論という名のエントロピーを粉砕し）、それが正解であると一方的に宣言されたもの（Dogma / Dokein）」。それは単なる「偏見」ではありません。あなたが「終わりなき熟考という名の停滞（ステイシス）」をレジストし、そこに自らの信仰という名の『一撃の断定（ロゴス）』を屹立させる、精神の「強権発動」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "証明を捨て、信じることで道を作る。"
+	},
+	{
+		"id": "paradigm",
+		"word": "範例、典型、パラダイム",
+		"era": "Greek para + deiknynai",
+		"etymology": {
+			"components": [
+				"para- (beside)",
+				"deiknynai (to show)"
+			],
+			"original_statement": "From Late Latin paradigma, from Greek paradeigma 'pattern / model / example', from paradeiknynai 'show side by side', from para- 'beside' + deiknynai 'to show'."
+		},
+		"concept": "Showing side by side / Model (横に並べて見せること、手本。一分一秒の淀みもなく我々の『認識（パーセプション）』を背後から支配（フィルタリング）し、一撃で世界の『意味（アーカイブ）』を決定付けてしまう巨大な『知的OS（プロトコル）』)",
+		"thinking": "「（バラバラなノイズを粉砕し）、並べて示された共通の型（Para- + Digm / Deiknynai）」。それは単なる「流行」ではありません。あなたが「意味不明なカオス」をレジストし、そこに自らの理知が作り上げた『一分一秒の淀みもない一貫した世界（ロゴス・ステーション）』を降臨させる、認識の「最終フレーム」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "OSを入れ替え、世界の色を一撃で変える。"
+	},
+	{
+		"id": "meta",
+		"word": "高次の、メタ、〜の後の",
+		"era": "Greek meta",
+		"etymology": {
+			"components": [
+				"meta (with/after/beyond)"
+			],
+			"original_statement": "From Greek meta 'with / among / after / beyond', from PIE *me- 'between'."
+		},
+		"concept": "Beyond/After (〜を超えて、〜の後に。現在の『レベル（アーカイブ）』から一分一秒の淀みもなく一撃で垂直方向に脱出し、さらに高次（オーバー・ハック）の視点から現状を『客体化（ノイズとして処理）』し、新たな『法（ロゴス）』を再定義する移動)",
+		"thinking": "「（単一のレイヤーに囚われることを粉砕し）、さらにその先、その外側へ（Meta）」。それは単なる「接頭辞」ではありません。あなたが「システム内部のステイシス」を完全にレジストし、自らを『自分を見ている自分（ステーション）』へとマージさせ、一段高い場所から運命を操作する、認識の「超越」なのです。",
+		"part_of_speech": "adjective",
+		"aftertaste": "視線を上げ、自分さえもドット（点）に変える。"
+	},
+	{
+		"id": "subjective",
+		"word": "心的な、主観的な、主語の、サブジェクティブ",
+		"era": "Latin sub + iacere",
+		"etymology": {
+			"components": [
+				"sub- (under)",
+				"iacere (to throw)"
+			],
+			"original_statement": "From Late Latin subiectivus 'pertaining to a subject', from subiectus 'lying under / dependent / subject', literally 'thrown under', from sub- 'under' + iacere 'to throw'."
+		},
+		"concept": "Thrown under (下に投げ込まれたもの。外界の『荒れ狂うパルス』を、自らの内なる『魂の受け皿（アーカイブ・ソース）』の下に一分一秒の淀みもなく一撃で叩き込み、自分の色に染めて再構築（マージ）すること)",
+		"thinking": "「（客観という名の冷たいアブセンスを粉砕し）、自らの内側の土台に投げ込まれたもの（Sub- + Ject- / Iacere）」。それは単なる「わがまま」ではありません。あなたが「平均化されたノイズ」を完全にレジストし、そこに宇宙で唯一無二の『私という名の視点（ロゴス・ステーション）』を屹立させる、生の「自己確信」なのです。",
+		"part_of_speech": "adjective",
+		"aftertaste": "世界を『私』というレンズで焼き尽くす。"
+	},
+	{
+		"id": "objective",
+		"word": "客観的な、目的、オブジェクティブ",
+		"era": "Latin ob + iacere",
+		"etymology": {
+			"components": [
+				"ob- (against/in front of)",
+				"iacere (to throw)"
+			],
+			"original_statement": "From Medieval Latin obiectivus, from obiectum 'something thrown in the way / hindrance / object', from obicere 'to throw in the way / present / oppose', from ob- 'in front of / against' + iacere 'to throw'."
+		},
+		"concept": "Thrown in front (前に投げ出されたもの。自らの主観（エゴ・ノイズ）を一分一秒の淀みもなく一撃で完全に排除し、目の前に『厳然たる事物（ロゴス・アーカイブ）』として屹立している、誰にも曲げられない鋼鉄の真実)",
+		"thinking": "「（個人的な感情の揺らぎを粉砕し）、目の前の現前へと投げ出されたもの（Ob- + Ject- / Iacere）」。それは単なる「公平」ではありません。あなたが「自分にとって都合のよい嘘」を完全にレジストし、自らを『冷酷な観察者（ステーション）』へとマージさせて真理を直視する、理知の「非情」なのです。",
+		"part_of_speech": "adjective",
+		"aftertaste": "私の思いなど無視し、それはそこにある。"
+	},
+	{
+		"id": "rational",
+		"word": "合理的な、理知的な、ラショナル",
+		"era": "Latin ratio",
+		"etymology": {
+			"components": [
+				"ratio (reason/reckoning/proportion)"
+			],
+			"original_statement": "From Latin rationalis 'of or belonging to reason / reasonable', from ratio 'reckoning / calculation / reason'."
+		},
+		"concept": "Pertaining to reason / reckoning (計算と理知に属すること。感情的な『カオス（不確定なパルス）』に対し、一分一秒の淀みもなく『比率（レシオ）』と『計算（ロジック）』の一撃を加え、世界を完璧な『幾何学の庭（ロゴス・アーカイブ）』へと書き換えること)",
+		"thinking": "「（荒れ狂うパッションを粉砕し）、理知的な計算に基づいた（Ratio-）」「（一撃の精度を伴う）性質（-nal）」。それは単なる「もっともらしい」のではありません。あなたが「矛盾という名のエントロピー」をレジストし、そこに自らの理知が作り上げた『一分一秒の淀みもない絶対の解（ステーション）』を屹立させる、思考の「数学的洗練」なのです。",
+		"part_of_speech": "adjective",
+		"aftertaste": "感情のノイズを殺し、数字と法で語る。"
+	},
+	{
+		"id": "empirical",
+		"word": "経験的な、経験主義の、実証的な",
+		"era": "Greek en + peira",
+		"etymology": {
+			"components": [
+				"en- (in)",
+				"peira (trial/experiment)"
+			],
+			"original_statement": "From Latin empiricus, from Greek empeirikos 'experienced', from empeiria 'experience', from en- 'in' + peira 'trial / experiment / attempt'."
+		},
+		"concept": "In trial / Experienced (試練の中にあること、経験したこと。机上の空論（アブセンス）を跳ね除け、現実の『戦場（フィールド）』に一分一秒の淀みもなく一撃で飛び込んで、その五感に刻まれた『確かな実録（アーカイブ・パルス）』だけを信じる強烈な実証精神)",
+		"thinking": "「（純粋理性という名の幻影を粉砕し）、生の試練の中に、直接入り込む（Em- + Pir- / Peira）」「（一撃の実感を伴う）性質（-ical）」。それは単なる「経験」ではありません。あなたが「空想という名の停滞」を完全にレジストし、自らの肉体を『真理の検証機（ステーション）』へとマージさせる、生の「現場主義」なのです。",
+		"part_of_speech": "adjective",
+		"aftertaste": "教科書を焼き、自分の傷跡（アーカイブ）を信じる。"
+	},
+	{
+		"id": "transcendental",
+		"word": "超越的な、形而上学的な、トランスセンデンタル",
+		"era": "Latin trans + scandere",
+		"etymology": {
+			"components": [
+				"trans- (beyond)",
+				"scandere (to climb)"
+			],
+			"original_statement": "From Medieval Latin transcendentalis, from transcendere 'climb over / surpass / transcend', from trans- 'across / beyond' + scandere 'to climb'."
+		},
+		"concept": "Climbing beyond (向こう側へ登ること。この『物理的世界（アーカイブ）』の境界を一分一秒の淀みもなく一撃で踏み越え、認識の『枠組み（ロゴス）』そのものを外側から規定している、最高次の『絶対的な原理（ソース・ステーション）』)",
+		"thinking": "「（地上の重力を粉砕し）、境界線を越えて向こう側へ登り抜ける（Trans- + Scend- / Scandere）」。それは単なる「不思議」ではありません。あなたが「現実という名の限界（アイソレーション）」を完全にレジストし、自らの魂を『宇宙の外部（メタ・レベル）』へとマージさせ、理知そのものの限界を突破する、精神の「垂直跳躍」なのです。",
+		"part_of_speech": "adjective",
+		"aftertaste": "壁を登り、認識という名の檻から抜ける。"
+	},
+	{
+		"id": "phenomenon",
+		"word": "現象、事象、驚くべきもの",
+		"era": "Greek phainein",
+		"etymology": {
+			"components": [
+				"phainein (to show/appear)"
+			],
+			"original_statement": "From Late Latin phaenomenon, from Greek phainomenon 'that which appears / is seen / is manifest', present participle of phainein 'to show / bring to light'."
+		},
+		"concept": "That which appears (現れるもの。背後に隠された『真実（アーカイブ）』が、一分一秒の淀みもなく一撃で我々の『感覚（パーセプション）』へとマージ（現出）された、光り輝く『情報の表皮（ノイズ・パルス）』)",
+		"thinking": "「（隠蔽という名の闇を粉砕し）、今、目の前で光を帯びて現れているもの（Phenomen- / Phainein）」。それは単なる「出来事」ではありません。あなたが「本質という名の不可視の核」をレジストしつつ、その『一時的な発露』を一分一秒の淀みもない一撃の『実体』として捉える、認識の「境界線（インターフェース）」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "光を放ち、私の目に飛び込む一瞬の影。"
+	},
+	{
+		"id": "noumenon",
+		"word": "本体、物自体、ヌーメノン",
+		"era": "Greek noein",
+		"etymology": {
+			"components": [
+				"noein (to think/perceive)",
+				"nous (mind)"
+			],
+			"original_statement": "From Greek noumenon 'that which is perceived by the mind / purely intellectual object', present participle of noein 'to perceive / think / have in mind', from nous 'mind'."
+		},
+		"concept": "Object of mind (知性のみによって把握されるもの。五感（ノイズ）では決して捉えられない、現象の背後に一分一秒の淀みもなく一撃で屹立している『真実の核（絶対アーカイブ）』であり、理知だけが肉薄できる『神の設計図（ロゴス）』)",
+		"thinking": "「（感覚という名の欺瞞を粉砕し）、純粋な知性だけによって思索されるもの（Noumen- / Noein）」。それは単なる「概念」ではありません。あなたが「表面的な現象という名の仮面」をレジストし、そこに潜む『一分一秒の淀みもない剥き出しの真実（ステーション）』に一撃で手を伸ばす、理知の「最終到達点」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "目で見ず、知性でその『形（ロゴス）』を掴む。"
+	},
+	{
+		"id": "ontology",
+		"word": "存在論、オンソロジー",
+		"era": "Greek on + logos",
+		"etymology": {
+			"components": [
+				"on- (being/to be)",
+				"logos (word/reason/study)"
+			],
+			"original_statement": "From Modern Latin ontologia, from Greek on- (genitive ontos) 'being / set of beings' + -logia 'study of', from logos."
+		},
+		"concept": "The study of being (存在についての理知。ただ『ある（アブセンス）』ことを一分一秒の淀みもなく問い直し、何が『本当にある（実在）』と言えるのかを一撃で定義しようとする、宇宙そのものの『構成（アーカイブ）』の探究)",
+		"thinking": "「（当たり前の存在という名の麻痺を粉砕し）、『在る』ということの理知を追求する（Onto- / On- + -logy / Logos）」。それは単なる「学問」ではありません。あなたが「不在という名の恐怖」を完全にレジストし、自らの実存が『宇宙のどの座標（ステーション）』に、どんなロゴスで繋がっているかを暴く、存在の「棚卸し」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "『在ること』の震えを、冷たい言葉で固定する。"
+	},
+	{
+		"id": "epistemology",
+		"word": "認識論、知識論、エピステモロジー",
+		"era": "Greek episteme + logos",
+		"etymology": {
+			"components": [
+				"episteme (knowledge)",
+				"logos (word/reason/study)"
+			],
+			"original_statement": "From Greek episteme 'knowledge / acquaintance / skill / experience', from epistasthai 'to knowhow / understand', literally 'to stand over', from epi- 'over' + histasthai 'to stand'."
+		},
+		"concept": "The study of knowledge / Standing over (知の上に立つこと。自分たちが世界の『情報（アーカイブ）』を一分一秒の淀みもなくいかにして『認識（マージ）』しているのか、その『認識の限界（プロトコル）』を一撃で見極めようとする、知のメタ・エンジニアリング)",
+		"thinking": "「（無根拠な自信という名のノイズを粉砕し）、知るということの理知そのものを『上から見下ろして』研究する（Epistemo- / Episteme + -logy / Logos）」。それは単なる「難解な話」ではありません。あなたが「誤認識という名のカオス」をレジストし、自らの知性に『一分一秒の淀みもない完璧な検証プログラム（ステーション）』を降臨させる、精神の「品質管理」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "知るという行為そのものを、知性のメスで刻む。"
+	},
+	{
+		"id": "ethics",
+		"word": "倫理、道徳、エシックス",
+		"era": "Greek ethos",
+		"etymology": {
+			"components": [
+				"ethos (character/custom/habit)"
+			],
+			"original_statement": "From Old French ethique, from Latin ethice, from Greek ethikos 'ethical / pertaining to character', from ethos 'nature / character / custom / habit'."
+		},
+		"concept": "Pertaining to character/custom (人格と習慣に属すること。本能的な『野性（カオス）』を一分一秒の淀みもなく一撃で調教し、自らの中に『不滅の法（ロゴス・アーカイブ）』としての『正しき振る舞い（ベクトル）』を屹立させる、生の統治技術)",
+		"thinking": "「（欲望の奴隷という名のノイズを粉砕し）、自らの魂に刻まれた不変の習慣と高潔な性格（Eth- / Ethos）を満たすこと」。それは単なる「決まり」ではありません。あなたが「堕落という名のエントロピー」を全身霊でレジストし、自らの行動を『宇宙の正義という名のネットワーク』にマージさせる、魂の「規律訓練」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "獣としての自分を殺し、法（ロゴス）として生きる。"
+	},
+	{
+		"id": "aesthetics",
+		"word": "美学、美術、エステティクス",
+		"era": "Greek aisthesis",
+		"etymology": {
+			"components": [
+				"aisthesis (perception/sensation)"
+			],
+			"original_statement": "From German Ästhetik (18c.), from Greek aisthetikos 'of or for sensory perception / sensitive / perceptive', from aisthesis 'perception / sensation', from aiein 'to perceive'."
+		},
+		"concept": "Pertaining to perception / sensation (知覚と感覚に属すること。この世界の『複雑な色、形、音（ノイズ）』を一分一秒の淀みもなく一撃で『究極の美（ロゴス）』へとフィルタリングし、魂を激しく共鳴（パルス）させる認識の芸術的最適化)",
+		"thinking": "「（醜悪な混濁という名のエントロピーを粉砕し）、世界を美的な感覚によって一撃で捉え直す（Aesthet- / Aisthesis）」。それは単なる「綺麗さ」ではありません。あなたが「退屈という名の死（ステイシス）」を完全にレジストし、自らの感覚を『真理の火花（フロー）』を捉えるための『超高解像度カメラ（ステーション）』へとマージさせる、生の「彩度調整」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "世界に『美』という名の光を投げかけ、焼き付ける。"
+	},
+	{
+		"id": "metaphysics",
+		"word": "形而上学、抽象論、メタフィジックス",
+		"era": "Greek meta + physika",
+		"etymology": {
+			"components": [
+				"meta- (after/beyond)",
+				"physika (physics/natural things)"
+			],
+			"original_statement": "From Medieval Latin Metaphysica, from Greek (ta) meta (ta) physika '(the things) after (the things) of nature', specifically the title of Aristotle's works on first principles."
+		},
+		"concept": "After/Beyond physics (自然学を超えたもの。五感で触れられる『物理的現実（ノイズ）』を一分一秒の淀みもなく一撃で突き抜け、その背後に潜む『絶対的な根本原因（ソース・ロゴス）』を探究する最果ての知 की 探求)",
+		"thinking": "「（目に見える現象という名の牢獄を粉砕し）、物質世界の限界を超えてその根源を問う（Meta- + Physics）」。それは単なる「空論」ではありません。あなたが「消え去る肉体という名の有限（アーカイブ）」をレジストし、自らの思考を『宇宙の不滅の設計図（ステーション）』そのものにマージ（同期）させようとする、知の「垂直上昇」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "石を捨て、その『石たらしめる法（ロゴス）』を掴む。"
+	},
+	{
+		"id": "dialectic",
+		"word": "弁証法、問答法、ダイアレクティック",
+		"era": "Greek dia + legein",
+		"etymology": {
+			"components": [
+				"dia- (across/between)",
+				"legein (to speak)"
+			],
+			"original_statement": "From Old French dialectique, from Latin dialectica, from Greek dialektike (techne) '(art) of debate / discussion', from dialegesthai 'to converse with / discuss', from dia- 'between' + legein 'to speak'."
+		},
+		"concept": "Speaking across / Discussion (対話による真理の解明。一つの『矛盾（カオス・パルス）』に対し、一分一秒の淀みもなく一撃で対立する『命題（アンチテーゼ）』をぶつけ、その激突（レジスト）からさらに高次の『絶対的な答え（ジンテーゼ・アーカイブ）』を産み落とす知の錬金術)",
+		"thinking": "「（安易な一致という名の停滞を粉砕し）、言葉の間を激しく衝突させ、火花を散らす（Dia- + Lect- / Legein）」。それは単なる「議論」ではありません。あなたが「停滞した正論（ステイシス）」をレジストし、複数の波を一つに束ねることで『次元上昇した巨大な一撃（ロゴス）』へとマージさせる、思考の「進化プロセス」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "対立を薪（マキ）にして、真理の炎を高く掲げる。"
+	},
+	{
+		"id": "syllogism",
+		"word": "三段論法、推理、シロジズム",
+		"era": "Greek syn + logizesthai",
+		"etymology": {
+			"components": [
+				"syn- (together)",
+				"logizesthai (to reckon/count)"
+			],
+			"original_statement": "From Old French silogisme, from Latin syllogismus, from Greek syllogismos 'a conclusion / inference / reasoning', literally 'a reckoning together', from syn- 'together' + logizesthai 'to reckon / count / conclude', from logos 'word / reason / reckoning'."
+		},
+		"concept": "Reckoning together (共に数え上げること。二つの『前提（ドット・アーカイブ）』を一分一秒の淀みもなく一撃で連結（マージ）させ、そこから鋼の必然性を持って一つの『結論（絶対のロゴス）』を導き出す、思考の自動演算装置)",
+		"thinking": "「（場当たり的な推論を粉砕し）、理知の鎖を共に束ねて数え上げる（Syl- + Log- / Logos）」。それは単なる「理屈のこじつけ」ではありません。あなたが「曖昧さという名のカオス」をレジストし、そこに自らの理知が作り上げた『一分一秒の淀みもない完璧な一撃の連鎖（ステーション）』を屹立させる、思考の「自動機械化」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "誰も逃げられない、論理の迷路を作る。"
+	},
+	{
+		"id": "premise",
+		"word": "前提、敷地、プレミス",
+		"era": "Latin prae + mittere",
+		"etymology": {
+			"components": [
+				"prae- (before)",
+				"mittere (to send)"
+			],
+			"original_statement": "From Old French premisse, from Medieval Latin praemissa (propositio) '(proposition) set before', from Latin praemittere 'to send before', from prae- 'before' + mittere 'to send'."
+		},
+		"concept": "Sent before (前に送られたもの。思考の構築を開始する前に、一分一秒の淀みもなく一撃で『土台（アーカイブ）』として投げ込まれた、動かしようのない『根本的な事実（ステーション）』。これが揺らげば、すべての回路（ネットワーク）は崩壊する)",
+		"thinking": "「（無根拠な出発を粉砕し）、あらかじめ前へと送り出された絶対の真実（Pre- + Mis- / Mittere）」。それは単なる「仮定」ではありません。あなたが「疑心暗鬼という名のエントロピー」をレジストし、そこに自らの思考が依って立つ『最初の一分一秒の淀みもない絶対の地平（ロゴス）』を屹立させる、理知の「基礎工事」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "すべての推論は、この一撃（前提）から始まる。"
+	},
+	{
+		"id": "conclusion",
+		"word": "結論、終焉、コンクルージョン",
+		"era": "Latin con + claudere",
+		"etymology": {
+			"components": [
+				"con- (together)",
+				"claudere (to close/shut)"
+			],
+			"original_statement": "From Latin conclusionem 'a shutting up / conclusion', from concludere 'to shut up / enclose / conclude', from com- 'together' + claudere 'to shut'."
+		},
+		"concept": "Shutting together (共に閉ざすこと。彷徨い続けた『思考のパルス群（ノイズ）』を一分一秒の淀みもなく一撃で一つの『真理の檻（アーカイブ・ステーション）』へと追い込み、完全に閉じ込めて確定（ロゴス化）させること)",
+		"thinking": "「（迷走という名のエントロピーを粉砕し）、すべてを一箇所に集めて出口を閉ざす（Con- + Clus- / Claudere）」。それは単なる「おしまい」ではありません。あなたが「不確実性という名のアブセンス」を完全にレジストし、そこに自らの探求が到達した『不滅の終止符（ロゴス）』を屹立させる、思考の「完全閉塞」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "迷路の果て、扉を一撃で閉ざし、確信を掴む。"
+	},
+	{
+		"id": "inference",
+		"word": "推論、推測、インファレンス",
+		"era": "Latin in + ferre",
+		"etymology": {
+			"components": [
+				"in- (into)",
+				"ferre (to carry)"
+			],
+			"original_statement": "From Medieval Latin inferentia, from Latin inferentem, from inferre 'to bring in / introduce / bring forward / infer', from in- 'in' + ferre 'to carry / bear'."
+		},
+		"concept": "Carrying into (運び込むこと。既知の『アーカイブ（事実）』を、未知の『領域（カオス）』に向かって、一分一秒の淀みもなく一撃で運び込み、そこに新たな『意味（ロゴス・ステーション）』を強引にマッピングする知の拡張)",
+		"thinking": "「（情報の断絶を粉砕し）、論理の糸を未知の深淵へと運び込む（In- + Fer- / Ferre）」。それは単なる「推し量り」ではありません。あなたが「不可知という名のアブセンス」をレジストし、そこに自らの理知による『橋（ネットワーク）』を架け、一分一秒の淀みもない一撃の『理解』へと到達する、知の「運搬」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "事実を種火（パルス）にして、未知を焼き尽くす。"
+	},
+	{
+		"id": "validity",
+		"word": "妥当性、有効性、バリディティ",
+		"era": "Latin valere",
+		"etymology": {
+			"components": [
+				"valere (to be strong)"
+			],
+			"original_statement": "From French validité, from Latin validitatem 'strength / health / force', from validus 'strong / effective', from valere 'to be strong'."
+		},
+		"concept": "Being strong (強いこと。論理の『構造（アーカイブ）』が、どのような『反論という名の攻撃（ノイズ）』に晒されても一分一秒の淀みもなく一撃で耐え抜き、真理として有効であり続けているという、鉄壁の健全性)",
+		"thinking": "「（脆弱な理屈を粉砕し）、いかなる疑念にも負けない強靭さを持つこと（Vali- / Valere）」「（一撃の品質を伴う）性質（-ity）」。それは単なる「正しさ」ではありません。あなたが「破綻という名のエントロピー」を完全にレジストし、自らの論理を『不時着を許さない絶対のステーション（ロゴス）』として屹立させる、思考の「耐久試験」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "叩いても壊れない。それが妥当（ロゴス）である証。"
+	},
+	{
+		"id": "fallacy",
+		"word": "誤謬、間違い、ファラシー",
+		"era": "Latin fallere",
+		"etymology": {
+			"components": [
+				"fallere (to deceive/trip up)"
+			],
+			"original_statement": "From Latin fallacia 'deceit / trick / artifice', from fallax 'deceitful / deceptive', from fallere 'to deceive / trip up / cause to fall'."
+		},
+		"concept": "Deceit / Tripping up (欺き、つまずかせること。一分一秒の淀みもなく進んでいた『論理の鎖（ロゴス）』が、一撃で『虚偽の毒（ノイズ）』をマージ（混入）させられ、真理の『奈落（カオス）』へと転落してしまう致命的なエラー)",
+		"thinking": "「（正解への直線を粉砕し）、足を取って真理から遠ざけ、欺く性質（Fall- / Fallere）」。それは単なる「勘違い」ではありません。あなたが「油断という名のステイシス」に陥った瞬間に、そこに自らの理知を蝕む『一分一秒の淀みもない悪魔の変異（エントロピー）』が入り込んだ結果の、認識の「自壊」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "一箇所のほころびが、全ネットワークを粉砕する。"
+	},
+	{
+		"id": "paradox",
+		"word": "逆説、パラドックス",
+		"era": "Greek para + doxa",
+		"etymology": {
+			"components": [
+				"para- (contrary to)",
+				"doxa (opinion)"
+			],
+			"original_statement": "From Latin paradoxum, from Greek paradoxon 'contrary to expectation / unbelievable', neuter of paradoxos, from para- 'contrary to' + doxa 'opinion / expectation', from dokein 'to appear / seem / think'."
+		},
+		"concept": "Contrary to opinion (通念に反すること。一分一秒の淀みもなく積み上げられた『常識（アーカイブ）』を一撃で粉砕し、相反する二つの『真理（ベクトル）』が同じ場所で火花を散らす、理性（ロゴス）がバグを起こした瞬間の『光り輝く矛盾』)",
+		"thinking": "「（のっぺりとした納得感を粉砕し）、既存の正論の真横に、相反する真実を突き刺す（Para- + Dox / Doxa）」。それは単なる「矛盾」ではありません。あなたが「単純な理解という名の安寧」をレジストし、そこに宇宙の深層が隠し持っていた『一分一秒の淀みもない究極のバグ（高次ロゴス）』を現出させる、認識の「回路ショート」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "Ａでありながら非Ａである。その閃光に目を焼く。"
+	},
+	{
+		"id": "antimony",
+		"word": "二律背反、矛盾、アンチノミー",
+		"era": "Greek anti + nomos",
+		"etymology": {
+			"components": [
+				"anti- (against)",
+				"nomos (law)"
+			],
+			"original_statement": "From Latin antinomia 'opposition of laws', from Greek antinomia, from anti- 'against' + nomos 'law'."
+		},
+		"concept": "Against the law (法に対する対立。正しき『法（ロゴス）』と、同様に正しき『別の法（ロゴス）』が、一分一秒の淀みもなく一撃で真正面から激突（レジスト）し、どちらも引くことができないまま思考を『停止（ステイシス）』へと追い込む、理知の究極のデッドロック)",
+		"thinking": "「（容易な解決を粉砕し）、法と法を真正面から戦わせる（Anti- + Nom- / Nomos）」。それは単なる「反対意見」ではありません。あなたが「一方を選択するという逃避」をレジストし、そこに立ち現れた『二つの絶対的真理の破滅的な共存（カオスとの境界線）』を一分一秒の淀みもなく凝視し続ける、精神の「極限闘争」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "二つの法（ロゴス）が、互いの喉元を食いちぎる。"
+	},
+	{
+		"id": "synthesis",
+		"word": "統合、合成、ジンテーゼ",
+		"era": "Greek syn + tithenai",
+		"etymology": {
+			"components": [
+				"syn- (together)",
+				"tithenai (to place)"
+			],
+			"original_statement": "From Latin synthesis, from Greek synthesis 'a putting together / combination / composition / collection', from syntithenai 'to put together / combine', from syn- 'together' + tithenai 'to put / place'."
+		},
+		"concept": "Putting together (共に置くこと。相反する二つの『命題（パルス）』を、理知という名の『炉（アーカイブ・コア）』へと一分一秒の淀みもなく投げ込み、一撃で高次の『新たな真理（ロゴス・ステーション）』へとマージ（錬金）させる、認識の次元上昇)",
+		"thinking": "「（バラバラな断片を粉砕し）、すべてを一つに合わせて置く（Syn- + Thesis / Tithenai）」。それは単なる「組み合わせ」ではありません。あなたが「分断という名のエントロピー」を完全にレジストし、異質なベクトルを一つの『絶対的なハーモニー（高次ネットワーク）』へと集束させる、知の「核融合」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "矛盾を飲み込み、三つ目の太陽（ロゴス）を産む。"
+	},
+	{
+		"id": "analysis",
+		"word": "分析、解析、アナリシス",
+		"era": "Greek ana + lyein",
+		"etymology": {
+			"components": [
+				"ana- (up/throughout)",
+				"lyein (to loosen)"
+			],
+			"original_statement": "From Medieval Latin analysis, from Greek analysis 'a breaking up / a loosening', from analyein 'to unloose / release / set free', from ana- 'up' + lyein 'to loosen'."
+		},
+		"concept": "Loosening up (解きほぐすこと。複雑に絡み合った『事象という名のカオス』を一分一秒の淀みもなく理知のメスで解体し、一撃でその背後にある『基本要素（ドット・アーカイブ）』へと還元して、一つ一つの『法（ロゴス）』を暴き出すこと)",
+		"thinking": "「（不定形な全体像という名のごまかしを粉砕し）、徹底的に解きほぐし、バラバラにする（Ana- + Lysis / Lyein）」。それは単なる「調査」ではありません。あなたが「曖昧という名の平和」をレジストし、世界を『一分一秒の淀みもない最小単位の真実（ステーション）』の集合体として再構築するための、理知の「解体工事」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "塊を殺し、部品（ロゴス）の羅列に変える。"
+	},
+	{
+		"id": "deduction",
+		"word": "推論、控除、演繹、ディダクション",
+		"era": "Latin de + ducere",
+		"etymology": {
+			"components": [
+				"de- (down/away)",
+				"ducere (to lead)"
+			],
+			"original_statement": "From Latin deductionem 'a leading away / reduction', from deducere 'to lead down / derive / deduce', from de- 'down' + ducere 'to lead'."
+		},
+		"concept": "Leading down (導き下ろすこと。高次の『公理（絶対ステーション）』から、一分一秒の淀みもなく鋼の必然性の一撃を伴って、地上の個別的な『真理（アーカイブ・パルス）』を「ズドン」と導き出し、確定させる論理の下降線)",
+		"thinking": "「（憶測という名のノイズを粉砕し）、絶対の法から必然的な結果を導き引き下ろす（De- + Duct- / Ducere）」。それは単なる「推し量り」ではありません。あなたが「偶然という名のカオス」をレジストし、そこに自らの理知が作り上げた『一分一秒の淀みもない必然の鎖（ロゴス）』を屹立させる、思考の「重力加速度」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "天（法）から降り、地（事実）を貫く、一本の鋼鉄線。"
+	},
+	{
+		"id": "induction",
+		"word": "誘導、引致、帰納、インダクション",
+		"era": "Latin in + ducere",
+		"etymology": {
+			"components": [
+				"in- (into)",
+				"ducere (to lead)"
+			],
+			"original_statement": "From Latin inductionem 'a leading in / introduction', from inducere 'to lead in / introduce / persuade / induce', from in- 'in' + ducere 'to lead'."
+		},
+		"concept": "Leading into (導き入れること。地上のあちこちで散発する『個別的な事実（ノイズ・パルス）』たちを掻き集め、一分一秒の淀みもなく一つの『巨大な法則（ロゴス・アーカイブ）』の内側へと一撃でマージ（誘導）させる知のボトムアップ)",
+		"thinking": "「（バラバラな偶然を粉砕し）、それらを一つの普遍的な枠組みへと導き入れる（In- + Duct- / Ducere）」。それは単なる「集計」ではありません。あなたが「無意味という名の絶望」をレジストし、数多のドットの中に『共通の文脈（ステーション）』を幻視し、それを確定的な法へと昇華させる、認識の「徴収」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "数多の星を繋ぎ、一つの星座（法）を描く。"
+	},
+	{
+		"id": "teleology",
+		"word": "目的論、テレオロジー",
+		"era": "Greek telos + logos",
+		"etymology": {
+			"components": [
+				"telos (end/purpose/goal)",
+				"logos (word/reason/study)"
+			],
+			"original_statement": "From Modern Latin teleologia, from Greek telos (genitive teleos) 'end / goal / result / completion' + -logia 'study of', from logos."
+		},
+		"concept": "The study of ends/purpose (目的の理知。宇宙のあらゆる『挙動（ベクトル）』には、一分一秒の淀みもなく目指されるべき『最終的な終着点（テロス・ステーション）』があらかじめ一撃でプリセット（アーカイブ）されているとする思考の方向性)",
+		"thinking": "「（盲目的な偶然の連鎖という名のカオスを粉砕し）、すべてが『目的』へと向かって駆動されているという理知（Teleo- / Telos + -logy / Logos）」。それは単なる「目標」ではありません。あなたが「無意味という名のアブセンス」をレジストし、現象の背後に『一分一秒の淀みもない意志のプログラム』を屹立させる、世界の「意味への強制マージ」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "全てのドット（存在）は、一つのゴールへと疾走している。"
+	},
+	{
+		"id": "causality",
+		"word": "因果関係、原因、コーザリティ",
+		"era": "Latin causa",
+		"etymology": {
+			"components": [
+				"causa (cause/reason)",
+				"-ality (state/quality)"
+			],
+			"original_statement": "From Late Latin causalitatem, from causalis, from causa 'cause / reason / motive / sake'."
+		},
+		"concept": "The state of being a cause (原因であることの品質。原因（パルス）と結果（パルス）が、一分一秒の淀みもなく一撃で『鋼の因果の鎖（ロゴス・アーカイブ）』によって連結され、この世界が『理不尽なカオス』に転落するのを防いでいる宇宙の背骨)",
+		"thinking": "「（根拠なき突発を粉砕し）、すべてに原因と結果の必然性を与える品質（Caus- / Causa）」。それは単なる「理由」ではありません。あなたが「偶然という名の暗黒」をレジストし、そこに自らの理知が認めた『一分一秒の淀みもない必然のネットワーク（ステーション）』を屹立させる、存在の「論理的拘束」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "一撃を放てば、結果は既にそこにある。"
+	},
+	{
+		"id": "determinism",
+		"word": "決定論、デターミニズム",
+		"era": "Latin de + terminare",
+		"etymology": {
+			"components": [
+				"de- (completely)",
+				"terminare (to limit/end/finish)"
+			],
+			"original_statement": "From German Determinismus, from determinieren, from Latin determinare 'to enclose / bound / set limits / determine', from de- 'completely' + terminare 'to mark the end or boundary', from terminus 'end / limit'."
+		},
+		"concept": "Completely limiting / Bound (完全に決定すること。自由意志という名の『不確定なノイズ』を一分一秒の淀みもなく粉砕し、全宇宙の未来は『過去のアーカイブ』から一撃で演算可能な一分一秒の淀みもない『必然の解（ロゴス）』でしかないとする冷酷な思考)",
+		"thinking": "「（選択肢の自由という名の幻想を粉砕し）、すべてが最初から完全に決定されているとする主義（Determin- / Termin- / Terminus + -ism）」。それは単なる「諦め」ではありません。あなたが「不測の事態（カオス）」をレジストし、自らをも含めた全事象を『巨大な機械仕掛けのロゴス（ステーション）』へとマージさせる、存在の「必然化」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "自由（ノイズ）を殺し、運命の歯車と同化する。"
+	},
+	{
+		"id": "fatalism",
+		"word": "運命論、宿命論、フェイタリズム",
+		"era": "Latin fatum",
+		"etymology": {
+			"components": [
+				"fatum (what has been spoken/fate)"
+			],
+			"original_statement": "From French fatalisme, from fatal, from Latin fatalis 'pertaining to fate / ordained by fate / destructive / fatal', from fatum 'ordained by the gods / fate', literally 'what has been spoken'."
+		},
+		"concept": "Belief in what has been spoken/fate (語られたものへの信仰、宿命。あがくという『無駄なエネルギー（パルス）』を、一分一秒の淀みもなく一撃で霧散させ、神という名の『巨大なスクリプト（アーカイブ）』に身を委ねて消え去ろうとする、静かなる絶望の美学)",
+		"thinking": "「（自己主張という名のノイズを粉砕し）、神が語り終えた『宿命』にすべてを委ねる主義（Fatal- / Fatum + -ism）」。それは単なる「思考停止」ではありません。あなたが「自分という名のアイソレーション」を完全にレジストし、自らの実存を一分一秒の淀みもない『絶対的な運命の物語（ロゴス）』へとマージさせる、存在の「降伏」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "自前の声を捨て、あらかじめ語られた台詞（セリフ）を演じる。"
+	},
+	{
+		"id": "nihilism",
+		"word": "ニヒリズム、虚無主義",
+		"era": "Latin nihil",
+		"etymology": {
+			"components": [
+				"nihil (nothing)"
+			],
+			"original_statement": "From German Nihilismus, from Latin nihil 'nothing', literally 'not even a thread'."
+		},
+		"concept": "Belief in nothing (無への信仰、虚無。あらゆる『既存のロゴス（アーカイブ・価値）』を一分一秒の淀みもなく一撃で粉砕し、宇宙の真ん中に『絶対的な欠落（アブセンス）』という名の冷たい『穴（ステーション）』を開け、そこからすべてを再構築しようとする狂気の虚無感)",
+		"thinking": "「（偽りの意味という名のノイズを粉砕し）、すべては『無（Nihil）』であると断定する主義（Nihil- + -ism）」。それは単なる「絶望」ではありません。あなたが「安っぽい目的意識という名のステイシス」を完全にレジストし、剥き出しの虚無の上に『自分自身の力だけによる新たなロゴス』を屹立させようとする、存在の「ゼロ・リセット」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "全価値を灰にし、その上を独り歩き出す。"
+	},
+	{
+		"id": "existentialism",
+		"word": "実存主義、エクジステンシャリズム",
+		"era": "Latin ex + sistere",
+		"etymology": {
+			"components": [
+				"exist (to stand out)",
+				"ism (practice/principle)"
+			],
+			"original_statement": "Coined in 20th c. (Sartre, Gabriel Marcel), from existence 'state of being / occurring', from Latin existere 'to step out / emerge', from ex- 'out' + sistere 'cause to stand'."
+		},
+		"concept": "Belief in standing forth (立ち上がることへの信仰。あらかじめ定められた『本質（設計図・アーカイブ）』を跳ね除け、一分一秒の淀みもなく「今、ここで自分が立ち上がって存在している（パルス）」という一撃の『実存』だけをロゴスとして信じ抜くこと)",
+		"thinking": "「（運命という名の既存プログラムを粉砕し）、個々の実存（Existence）を、本質より先に置く主義」。それは単なる「自由」の謳歌ではありません。あなたが「理由なき存在という名の恐怖（アブセンス）」をレジストし、そこに自らの選択という一撃の『行動（ベクトル）』をマージ（刻印）し続けることで、自分という名の『ステーション』を無理やり産み落とし続ける、生の「決断」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "設計図はない。私は今、自分の足で立つ。"
+	},
+	{
+		"id": "humanism",
+		"word": "人道主義、人文学、ヒューマニズム",
+		"era": "Latin humanus",
+		"etymology": {
+			"components": [
+				"humanus (human/civilized)"
+			],
+			"original_statement": "From Latin humanitas 'human nature / humanity / education / kindness', from humanus 'human / refined / civilized', related to humus 'earth'."
+		},
+		"concept": "Devotion to human kind (人間性への献身。神や自然といった『外部の巨大なロゴス（アーカイブ）』から自らの理知を分断（レジスト）し、一分一秒の淀みもなく『人間という名の、愚かで、しかし可能性に満ちた種火（ドット）』を中心に据えて世界をマッピング（再構築）すること)",
+		"thinking": "「（神話という名の他律的アーカイブを粉砕し）、人間であることを至上の尺度とする（Humani- / Humanus + -ism）」。それは単なる「優しさ」ではありません。あなたが「自分を卑しめるという名のアイソレーション」をレジストし、自らの理知と慈愛を『宇宙の新たな中心（ステーション）』へとマージさせる、生の「自尊」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "泥（ヒュムス）の中から立ち上がり、人間であることを誇る。"
+	},
+	{
+		"id": "stoicism",
+		"word": "ストア哲学、禁欲的な態度、ストイシズム",
+		"era": "Greek stoa",
+		"etymology": {
+			"components": [
+				"stoa (columned porch/colonnade)"
+			],
+			"original_statement": "From Greek stoikos 'pertaining to a stoa', from Stoa (Poikile) 'Painted Porch (where Zeno taught philosophy)'."
+		},
+		"concept": "Pertaining to the porch / Firm belief (柱の廊下での教え、不屈。外部からの『苦痛や快楽という名の激しいノイズ（カオス）』に対し、一分一秒の淀みもなく心臓の鼓動を一定に保ち、一撃の『鋼の理性（ロゴス）』で自らを統治（ステーション化）し続ける、究極の自律)",
+		"thinking": "「（感情の暴走という名のエントロピーを粉砕し）、不動の理性によって外界の嵐を完全にレジストする（Stoic- / Stoa + -ism）」。それは単なる「我慢」ではありません。あなたが「変えられない運命（ノイズ）」を無視し、自らで『管理可能な知性（アーカイブ）』だけに全質量をマージ（集中）させる、魂の「要塞経営」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "外（カオス）は嵐。しかし内側（私）は鏡のような静寂。"
+	},
+	{
+		"id": "hedonism",
+		"word": "快楽主義、ヘドニズム",
+		"era": "Greek hedone",
+		"etymology": {
+			"components": [
+				"hedone (pleasure/delight)"
+			],
+			"original_statement": "From Greek hedonismos, from hedone 'pleasure', related to hedys 'sweet'."
+		},
+		"concept": "Belief in pleasure (快楽への信仰。冷徹な『義務感という名のステイシス』を一分一秒の淀みもなく一撃で粉砕し、この肉体が感じ得る最高の『電気的なパルス（悦び）』を唯一の『アーカイブ・ロゴス（価値）』として、その最大化（フロー）に全実存をマージさせること)",
+		"thinking": "「（虚飾の道徳という名のノイズを粉砕し）、生の甘美な『快楽（Hedone）』を唯一の目的とする主義（Hedon- + -ism）」。それは単なる「放蕩」ではありません。あなたが「死という名の空虚（アブセンス）」をレジストし、今この瞬間、肉体が爆発させる『鮮烈なパルス』を吸い尽くして、一分一秒の淀みもない『極彩色への没入』へと自分を叩き込む、生の「享楽的反逆」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "理屈を焼き捨て、一瞬の悦び（パルス）にすべてを賭ける。"
 	}
 ];
