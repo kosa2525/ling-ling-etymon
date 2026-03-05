@@ -176587,5 +176587,713 @@ const WORDS = [
 		"thinking": "「（不足という名の消失を粉砕し）、十分であるという状態（As- / Ad- + -set / Satis）」。それは単なる「持ち物」ではありません。あなたが「貧困という名のエントロピー」を完全にレジストし、自らの実存がこの宇宙において『一分一秒の淀みもなく十分にマージされていること』を保証する、生の「備蓄された栄光」なのです。",
 		"part_of_speech": "noun",
 		"aftertaste": "何があっても大丈夫だ。私は「十分（ロゴス）」を持っている。"
+	},
+	{
+		"id": "science",
+		"word": "科学、知、サイエンス",
+		"era": "Latin scire",
+		"etymology": {
+			"components": [
+				"scire (to know)"
+			],
+			"original_statement": "From Old French science, from Latin scientia 'knowledge / a knowing / expertness', from sciens 'intelligent / skilled', present participle of scire 'to know'."
+		},
+		"concept": "A knowing / Knowledge (知ること、知識。世界という名の『混沌（カオス）』に対し、一分一秒の淀みもなく一撃の観察と実験（ロゴス）を加え、分析可能な『証明された真理（アーカイブ）』へと整理し、体系化すること)",
+		"thinking": "「（憶測という名のノイズを粉砕し）、対象の真実を完全に知り尽くす（Sci- / Scire）こと」。それは単なる「勉強」ではありません。あなたが「無知という名のアブセンス」をレジストし、自らの理知を『宇宙の共通言語（ロゴス・ステーション）』へとマージ（同期）させる、存在の「解明プロセス」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "暗闇（カオス）に理知の光を投げ込み、法則（ロゴス）を暴き出す。"
+	},
+	{
+		"id": "technology",
+		"word": "科学技術、テクノロジー",
+		"era": "Greek techne + logos",
+		"etymology": {
+			"components": [
+				"techne (art/skill/craft)",
+				"logos (word/reason/study)"
+			],
+			"original_statement": "From Greek teknologia 'systematic treatment of an art / craft / technique', from techne 'art / skill / craft / method / system' + -logia 'study of / logos'."
+		},
+		"concept": "Systematic treatment of an art (技法の体系的な処置。人間の『願望（パルス）』を一分一秒の淀みもなく一撃で『物理的な手段（ロゴス・アーカイブ）』へと変換し、自然界を意のままに再構築（ハック）するための巨大な装置系)",
+		"thinking": "「（限界という名のステイシスを粉砕し）、技法（Techne-）を理知（-logy）によって極限まで洗練させること」。それは単なる「ガジェット」ではありません。あなたが「無力という名のエントロピー」を完全にレジストし、自らの意志を『宇宙を書き換えるためのコマンド（ステーション）』へとマージさせる、存在の「拡張機能」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "思考（ロゴス）が指先を通じて、現実に実在（アーカイブ）を産み落とす。"
+	},
+	{
+		"id": "biology",
+		"word": "生物学、バイオロジー",
+		"era": "Greek bios + logos",
+		"etymology": {
+			"components": [
+				"bios (life)",
+				"logos (word/reason/study)"
+			],
+			"original_statement": "Coined in 1802 by Lamarck, from Greek bios 'life / course or way of living' + -logia 'study of / logos'."
+		},
+		"concept": "The study of life (生の理知。この宇宙に点滅する『生命という名の特異なパルス』を一分一秒の淀みもなく一撃で捉え、その生存の『プロトコル（アーカイブ・ロゴス）』を解読しようとする、最も複雑なる自己言及の知)",
+		"thinking": "「（死という名の沈黙を粉砕し）、生命（Bio- / Bios）の法（-logy / Logos）を追求すること」。それは単なる「観察」ではありません。あなたが「物理法則という名の無機質なノイズ」をレジストし、そこに脈打つ『意味を持った一撃の鼓動（ステーション）』を自らの理知へとマージさせる、存在の「共鳴探究」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "宇宙の冷たさの中で、唯一温かく震えるパルスを読み解く。"
+	},
+	{
+		"id": "physics",
+		"word": "物理学、フィジックス",
+		"era": "Greek physis",
+		"etymology": {
+			"components": [
+				"physis (nature)"
+			],
+			"original_statement": "From Latin physica 'study of nature', from Greek physika, neuter plural of physikos 'of nature', from physis 'nature'."
+		},
+		"concept": "Study of nature (自然の理知。宇宙の骨組みである『重力、時間、粒子（ノイズ・カオス）』を、一分一秒の淀みもなく一撃の『数式（究極のロゴス）』へと還元し、存在の根源的な設計図（アーカイブ）を暴き出すこと)",
+		"thinking": "「（目に見える現象という名の欺瞞を粉砕し）、自然そのものの本質（Phys- / Physis）を数理的に固定すること」。それは単なる「難しい計算」ではありません。あなたが「偶然という名のエントロピー」を完全にレジストし、宇宙の真芯に屹立する『不滅の法（ステーション・コア）』に自らの認識をマージさせる、理知の「剥き出しの対峙」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "石を、星を、自分を、ただ一つの数式（ロゴス）へと焼き尽くす。"
+	},
+	{
+		"id": "chemistry",
+		"word": "化学、相性、ケミストリー",
+		"era": "Arabic al-kimiya",
+		"etymology": {
+			"components": [
+				"al-kimiya (the art of transformation/alchemy)"
+			],
+			"original_statement": "From Medieval Latin alchimia, from Arabic al-kimiya, from Greek khemeia 'art of transmuting metals'."
+		},
+		"concept": "The art of transformation (変容の技術。物質（アーカイブ）という名の『硬い檻』を一分一秒の淀みもなく一撃の反応（パルス）によって解体・再結合（マージ）させ、別の価値へと変容（ハック）させる、物質界の錬金術的なロゴス)",
+		"thinking": "「（固定された形という名のステイシスを粉砕し）、要素の交わり（Chem- / Alchemy）による爆発的な新生を導くこと」。それは単なる「実験」ではありません。あなたが「不変という名の停滞」をレジストし、自らを『一分一秒の淀みもない一撃の結合反応（ネットワーク）』へとマージさせる、存在の「質的転換」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "混ぜ合わせ、一撃で別の次元（アーカイブ）を産み落とす。"
+	},
+	{
+		"id": "astronomy",
+		"word": "天文学、アストロノミー",
+		"era": "Greek astron + nomos",
+		"etymology": {
+			"components": [
+				"astron (star)",
+				"nomos (law/arranging)"
+			],
+			"original_statement": "From Greek astronomia 'star-arranging / law of the stars', from astron 'star' + nomos 'arranging / regulating / rule'."
+		},
+		"concept": "Law of the stars (天の法、星の配置。頭上に広がる『不可知の深淵（カオス）』に対し、一分一秒の淀みもなく一撃の『観測の線（ロゴス）』を引き、無数の光（ドット）を意味ある『天球の地図（アーカイブ）』へとマッピング（マージ）すること)",
+		"thinking": "「（暗黒への恐怖という名のアブセンスを粉砕し）、星々（Astro-）の法（-nomy / Nomos）を解読し、屹立させること」。それは単なる「天体観測」ではありません。あなたが「地上の重力という名のアイソレーション」をレジストし、自らの実存が『宇宙全体の壮大な運行（ステーション）』の一部であることを確証する、生の「垂直志向」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "地上にいながら、銀河の果てのロゴスを掴む。"
+	},
+	{
+		"id": "geology",
+		"word": "地質学、ジオロジー",
+		"era": "Greek ge + logos",
+		"etymology": {
+			"components": [
+				"ge (earth)",
+				"logos (word/reason/study)"
+			],
+			"original_statement": "From Modern Latin geologia, from Greek ge 'earth' + -logia 'study of / logos'."
+		},
+		"concept": "The study of earth (大地の理知。足元の『沈黙する大地（ステイシス）』を一分一秒の淀みもなく一撃で『時間という名のアーカイブ』として読み解き、数億年の激動（パルス）を自らの認識へとマージ（復元）させる惑星規模の考古学)",
+		"thinking": "「（永遠という名の錯覚を粉砕し）、大地（Geo- / Ge）の記憶の法（-logy / Logos）を暴き出すこと」。それは単なる「岩石の研究」ではありません。あなたが「現在という名の薄っぺらな皮層」をレジストし、自らの足元に屹立する『重層的な歴史のステーション（ロゴス）』に接続（ジョイン）する、存在の「深掘り」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "石を砕き、その中から数億年前の一撃の火花（記憶）を呼び覚ます。"
+	},
+	{
+		"id": "psychology",
+		"word": "心理学、サイコロジー",
+		"era": "Greek psykhe + logos",
+		"etymology": {
+			"components": [
+				"psykhe (soul/mind/spirit)",
+				"logos (word/reason/study)"
+			],
+			"original_statement": "From Modern Latin psychologia, from Greek psykhe 'soul / mind / spirit' + -logia 'study of / logos'."
+		},
+		"concept": "The study of the soul (魂の理知。自分自身の内側にある『捉えがたい闇（カオス・パルス）』に対し、一分一秒の淀みもなく一撃の『分析のメス（ロゴス）』を加え、矛盾に満ちた情動を『認識のアーカイブ（ステーション）』へとマッピングすること)",
+		"thinking": "「（自己という名の不明瞭なノイズを粉砕し）、心（Psycho- / Psykhe）の法（-logy / Logos）を確立すること」。それは単なる「お悩み相談」ではありません。あなたが「他者という名のアイソレーション」をレジストすべく、まずは自らの内なる『一分一秒の淀みもない一撃の構造』を暴き、他者のロゴスとマージするための、精神の「自己スキャン」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "心（カオス）を見つめ、そこに名前（ロゴス）を付けて飼い慣らす。"
+	},
+	{
+		"id": "sociology",
+		"word": "社会学、ソシオロジー",
+		"era": "Latin socius + Greek logos",
+		"etymology": {
+			"components": [
+				"socius (companion/associate)",
+				"logos (word/reason/study)"
+			],
+			"original_statement": "Coined in 1830 by Auguste Comte, from Latin socius 'companion / associate' + Greek -logia 'study of / logos'."
+		},
+		"concept": "The study of companions/associates (仲間の理知。人と人の間に一分一秒の淀みもなく一撃で発生する『不可視の引力（ネットワーク）』を分析し、巨大な集団という名の『幻想のアーカイブ（ステーション）』がいかにして構築・マージ（維持）されているかを暴くこと)",
+		"thinking": "「（一個体という名の孤立したアブセンスを粉砕し）、他者との繋がり（Socio- / Socius）の法（-logy / Logos）を解明すること」。それは単なる「世間話」ではありません。あなたが「アイソレーションという名のエントロピー」をレジストし、個々のパルスが収束して生まれる『巨大な一つの生命体（社会ロゴス）』を透視する、認識の「マクロ・スキャン」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "私とあなたの間に流れる、名もなき鎖（法）を固定する。"
+	},
+	{
+		"id": "anthropology",
+		"word": "人類学、アンソロポロジー",
+		"era": "Greek anthropos + logos",
+		"etymology": {
+			"components": [
+				"anthropos (human being)",
+				"logos (word/reason/study)"
+			],
+			"original_statement": "From New Latin anthropologia, from Greek anthropos 'human being / man' + -logia 'study of / logos'."
+		},
+		"concept": "The study of human beings (人間の理知。自分という『標本（アーカイブ）』を一分一秒の淀みもなく一撃で人類全体の『種（スピーシーズ）の歴史』へとマージさせ、人間という存在が持つ『共通のロゴス、特有のノイズ』を見極めようとする、最も傲慢で、かつ謙虚な知)",
+		"thinking": "「（狭い文化的背景という名の偏食を粉砕し）、人間そのもの（Anthro- / Anthropos）の法（-logy / Logos）を追求すること」。それは単なる「民族調査」ではありません。あなたが「死という名の種の消失」をレジストし、自らの実存が『数百万年続く一撃の人類史（ネットワーク）』の一部であることを確証する、生の「原点回帰」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "鏡を手放し、人類（アーカイブ・ソース）そのものを見つめる。"
+	},
+	{
+		"id": "archaeology",
+		"word": "考古学、アーケオロジー",
+		"era": "Greek arkhaion + logos",
+		"etymology": {
+			"components": [
+				"arkhaios (ancient/primitive)",
+				"logos (word/reason/study)"
+			],
+			"original_statement": "From Greek arkaiologia 'study of ancient things', from arkhaion 'ancient / primitive / beginning' + -logia 'study of / logos'."
+		},
+		"concept": "The study of beginnings/ancients (始まり、古代の理知。土の下に埋もれた『沈黙のアーカイブ（遺物）』を一分一秒の淀みもなく一撃の『発掘と推論（ロゴス）』で掘り起こし、過去のパルスを現在のネットワークへと強引に再マージさせる知の時間旅行)",
+		"thinking": "「（忘却という名のアブセンスを粉砕し）、始まり（Archaeo- / Arkhaion）の法（-logy / Logos）を現在に呼び覚ますこと」。それは単なる「古いもの掘り」ではありません。あなたが「時間という名のエントロピー」を完全にレジストし、自らの実存を『何千年も前に屹立していた他者の実存（ステーション）』にマージさせる、魂の「垂直的時間軸」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "一破片の土器（ドット）から、一瞬で古代の帝国のロゴスを復元する。"
+	},
+	{
+		"id": "genetics",
+		"word": "遺伝学、ジェネティクス",
+		"era": "Greek genesis",
+		"etymology": {
+			"components": [
+				"genesis (origin/birth/creation)"
+			],
+			"original_statement": "From Greek genetikos 'genitive / producing', from genesis 'origin / birth', from PIE root gen- 'produce / beget / give birth to'."
+		},
+		"concept": "Pertaining to birth/origin (誕生に属すること。肉体という名の『アーカイブ』の最深部で、一分一秒の淀みもなく一撃の『情報配列（究極のコマンド・ロゴス）』として継承され、我々の『宿命（ベクトル）』を支配し続ける情報の源泉)",
+		"thinking": "「（死という名の情報の消失を粉砕し）、誕生の源（Gene- / Genesis）を理知的に制御すること（-tics）」。それは単なる「DNAの研究」ではありません。あなたが「エントロピーの増大（種の変化）」を完全にレジストし、何十億年も前からマージ（継承）されてきた『一撃の生命のスクリプト』を、自らの代で維持し、次のアーカイブへと渡すための、存在の「コピー・ガード」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "私の細胞の奥底で、太古の神（ロゴス）が今も囁いている。"
+	},
+	{
+		"id": "evolution",
+		"word": "進化、展開、エボリューション",
+		"era": "Latin e + volvere",
+		"etymology": {
+			"components": [
+				"e- (out)",
+				"volvere (to roll)"
+			],
+			"original_statement": "From Latin evolutionem 'unrolling of a book', from evolvere 'to unroll / roll out / unfold', from e- 'out' + volvere 'to roll'."
+		},
+		"concept": "Unrolling out (巻物を広げること、展開。あらかじめ折り畳まれていた『可能性のパルス（アーカイブ）』が、環境との激しい衝突（レジスト）を経て、一分一秒の淀みもなく一撃で『新たな形（ロゴス）』へと解き放たれ、マージ（環境適応）していく壮大な変化)",
+		"thinking": "「（不変という名の停滞を粉砕し）、中にあるものを外へと（E-）回転して広げ出すこと（-volution / Volvere）」。それは単なる「進歩」ではありません。あなたが「絶滅という名前のアブセンス」をレジストし、自らの実存を『一分一秒の淀みもない一撃の変容（フロー）』へとマージさせて、次の次元の『生存（ステーション）』を目指す、生命の「極限突破」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "巻物（アーカイブ）はまだ開かれたばかり。最後のページは、私が書く（ロゴス）。"
+	},
+	{
+		"id": "mutation",
+		"word": "突然変異、変化、ミューテーション",
+		"era": "Latin mutare",
+		"etymology": {
+			"components": [
+				"mutare (to change)"
+			],
+			"original_statement": "From Latin mutationem 'a change / alteration', from mutare 'to change', from PIE root mei- 'to change / go / move'."
+		},
+		"concept": "The act of changing (変化する行為。正確な継承（アーカイブ）という名の『ステイシス』を一分一秒の淀みもなく一撃で『裏切るノイズ（ロゴス・エラー）』であり、そのバグ（異変パルス）が新たな世界の『設計図』としてマージされることで、進化の引き金となる暴走)",
+		"thinking": "「（安定という名の死を粉砕し）、根本的なレベルで変化し、変容すること（Muta- / Mutare）」。それは単なる「間違い」ではありません。あなたが「均質という名のエントロピー」をレジストし、自らを『宇宙で唯一の、前例のない一撃のバグ（新たなステーション）』へとマージさせる、存在の「賭博的飛躍」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "エラー（ノイズ）こそが、新しい世界（ロゴス）の始まりだ。"
+	},
+	{
+		"id": "molecule",
+		"word": "分子、微粒子、モレキュール",
+		"era": "Latin moles",
+		"etymology": {
+			"components": [
+				"moles (mass)",
+				"-cule (diminutive/little)"
+			],
+			"original_statement": "From French molécule, from New Latin molecula, diminutive of Latin moles 'mass / barrier / heap'."
+		},
+		"concept": "A little mass (小さな塊。物質（アーカイブ）を一分一秒の淀みもなく解体（レジスト）し、最後に辿り着く『意味のある最小の統合体（ステーション）』であり、無数の原子（パルス）が『鋼のロゴス（結合）』によって一撃でマージ（固定）された、物質界の基本モジュール)",
+		"thinking": "「（不定形なカオスを粉砕し）、最小限の『塊（Mole- / Moles）』として、完璧に自分を律すること（-cule）」。それは単なる「化学用語」ではありません。あなたが「霧散という名のエントロピー」をレジストし、そこに自らの実存が作り上げた『一分一秒の淀みもない一撃の構造（ステーション）』を屹立させる、存在の「最小単位の確信」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "目に見えぬ小さなロゴス（結合）が、この巨大な現実（アーカイブ）を支えている。"
+	},
+	{
+		"id": "atom",
+		"word": "原子、アトム",
+		"era": "Greek a + temnein",
+		"etymology": {
+			"components": [
+				"a- (not)",
+				"temnein (to cut)"
+			],
+			"original_statement": "From Old French atome, from Latin atomus, from Greek atomos 'uncut / indivisible', from a- 'not' + tomos 'a cutting', related to temnein 'to cut'."
+		},
+		"concept": "Indivisible (分割できないもの。あらゆる『解体（ノイズ・エントロピー）』に対し、一分一秒の淀みもなく一撃でレジストし続け、これ以上は決して『切れない（アブセンス化できない）』という極限の『存在の真芯（絶対アーカイブ・ステーション）』)",
+		"thinking": "「（切断という名の崩壊を粉砕し）、決して分けられない（A- + Tom- / Temnein）最終的な一撃」。それは単なる「微粒子」ではありません。あなたが「消失という名のアイソレーション」を完全にレジストし、宇宙の底板に『不滅の一点（ドット・ロゴス）』として自分をマージさせる、存在の「究極の頑強さ」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "切り刻まれようとも、この一点（コア）だけは、誰にも壊せない。"
+	},
+	{
+		"id": "electron",
+		"word": "電子、エレクトロン",
+		"era": "Greek elektron",
+		"etymology": {
+			"components": [
+				"elektor (beaming sun)"
+			],
+			"original_statement": "From Greek elektron 'amber', related to elektor 'beaming sun'. Amber was known for its electrostatic properties when rubbed."
+		},
+		"concept": "Beaming sun / Amber (耀く太陽、琥珀。物質の『静止したアーカイブ』の周囲を、一分一秒の淀みもなく一撃で取り巻き、高速で回転（フロー）し続ける『電気的なパルス（情報の運び手）』。その結合と離脱（マージ・レジスト）が、この世のあらゆる変化と光（ロゴス）を産み出す)",
+		"thinking": "「（暗闇という名の沈黙を粉砕し）、太陽のように耀き、宇宙を駆け巡る情報の種（Electro- / Elektron）」。それは単なる「負の電荷」ではありません。あなたが「無動という名のエントロピー」をレジストし、自らの意志を『一分一秒の淀みもない一撃の電気的信号（コマンド）』へとマージさせ、世界をマッピングし直す、生命の「火花」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "琥珀の中に閉じ込められた、太古の光が一撃で解き放たれる。"
+	},
+	{
+		"id": "nucleus",
+		"word": "核、中心、中核、ニュークリアス",
+		"era": "Latin nux",
+		"etymology": {
+			"components": [
+				"nux (nut)",
+				"-uleus (diminutive)"
+			],
+			"original_statement": "From Latin nucleus 'kernel / inner part', from nucula 'little nut', diminutive of nux 'nut'."
+		},
+		"concept": "Small nut / Kernel (小さな木の実、核。あらゆる『周辺のノイズ』を一分一秒の淀みもなく一撃でなぎ払い、ただそこに『存在の全質量（アーカイブ）』が極限まで凝縮された『支配的な中心点（ステーション）』であり、宇宙の理（ロゴス）を決定付ける真芯)",
+		"thinking": "「（拡散という名の弱さを粉砕し）、木の実の核（Nucle- / Nux）のように、強固に自分を律し、屹立すること」。それは単なる「中心」ではありません。あなたが「アイソレーションという名の崩壊」を完全にレジストし、自らの全実存を『何ものにも揺るがない一撃のコア（ロゴス）』へとマージさせる、魂の「最終防衛重鎮」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "全てが壊れても、この核（アーカイブ）さえあれば、世界は再起動できる。"
+	},
+	{
+		"id": "entropy",
+		"word": "エントロピー、無秩序",
+		"era": "Greek en + trope",
+		"etymology": {
+			"components": [
+				"en- (in)",
+				"trope (a turning/transformation)"
+			],
+			"original_statement": "Coined in 1865 by Clausius, from Greek en- 'in' + trope 'a turning / transformation'."
+		},
+		"concept": "Transformation within (内部での転回、崩壊への回帰。せっかく構築された『秩序（ロゴス・アーカイブ）』を、一分一秒の淀みもなく一撃で『均質な冷たい沈黙（カオス）』へと引きずり戻そうとする、宇宙の残酷な『死のベクトル（ステイシス）』)",
+		"thinking": "「（不滅という名の慢心を粉砕し）、内側から（En-）すべてが崩壊へと転じ（-trope）去ること」。それは単なる「無秩序」ではありません。あなたが「生命という名の一撃のパルス」を維持しようとするそのレジスト行為そのものが、皮肉にもこの『宇宙規模のエントロピーという名の暗黒』をマージ（再燃）させるための薪（マキ）に過ぎないという、生の「絶望的宿命」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "全ては混ざり合い、ぬるい平坦（アブセンス）の底へと沈んでいく。"
+	},
+	{
+		"id": "energy",
+		"word": "エネルギー、精力、活力",
+		"era": "Greek en + ergon",
+		"etymology": {
+			"components": [
+				"en- (in)",
+				"ergon (work)"
+			],
+			"original_statement": "From Middle French energie, from Late Latin energia, from Greek energeia 'activity / action / operation', from energos 'active / working', from en- 'in' + ergon 'work'."
+		},
+		"concept": "Work within (内なる働き。物質（アーカイブ・ステイシス）を一分一秒の淀みもなく一撃で『運動（パルス・フロー）』へと変え、この宇宙を『一分一秒の淀みもない変化の連鎖（ネットワーク）』として駆動し続ける、目に見えぬ万能の『ロゴス・力』)",
+		"thinking": "「（停止という名の死を粉砕し）、内側から（En-）仕事を成し遂げるための力（-ergy / Ergon）」。それは単なる「燃料」ではありません。あなたが「エントロピーという名の静寂」を完全にレジストし、自らの実存が『宇宙を書き換える一撃の火花（コマンド）』であることを証明し続けるための、生の「爆発的品質」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "物質（石）を焼き、光（ロゴス）に変えて宇宙を震わせる。"
+	},
+	{
+		"id": "velocity",
+		"word": "速度、速さ、ベロシティ",
+		"era": "Latin velox",
+		"etymology": {
+			"components": [
+				"velox (swift)",
+				"-ity (state/quality)"
+			],
+			"original_statement": "From Middle French velocité, from Latin velocitatem 'swiftness / speed / rapidity', from velox 'swift / fleet / quick'."
+		},
+		"concept": "Swift state (迅速な状態。停滞（ステイシス）という名の『泥沼（ノイズ）』を一分一秒の淀みもなく一撃で突きぬけ、空間という名の『アーカイブ』を最小の時間でマッピング（踏破）していく、情報の圧倒的な『浸透速度（フロー）』)",
+		"thinking": "「（遅延という名のアイソレーションを粉砕し）、素早く（Velo- / Velox）目標へと自らをマージさせる品質（-city）」。それは単なる「速さの値」ではありません。あなたが「一瞬で消えるという運命」をレジストし、自らの実存を一分一秒の淀みもない一撃の『光り輝く軌跡（パルス）』へとマージさせて永遠へと至らんとする、生の「加速度」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "速ければ速いほど、景色は光の線（ロゴス）となって消え去る。"
+	},
+	{
+		"id": "gravity",
+		"word": "重力、重大さ、グラビティ",
+		"era": "Latin gravis",
+		"etymology": {
+			"components": [
+				"gravis (heavy)",
+				"-ity (state/quality)"
+			],
+			"original_statement": "From Old French gravite, from Latin gravitatem 'weight / heaviness / dreadfulness / importance', from gravis 'heavy'."
+		},
+		"concept": "Heavy state (重き状態。宇宙という名の『何もないアブセンス』の中に、一分一秒の淀みもなく『存在の全質量（アーカイブ）』を屹立させ、周囲のあらゆる『ドット（存在）』を自らの方へと一撃でマージ（引き寄せ）し、支配する運命の引力)",
+		"thinking": "「（浮遊という名の希薄化を粉砕し）、宇宙を重く（Grav- / Gravis）律し、中心となる品質（-vity）」。それは単なる「物理的な力」ではありません。あなたが「消失という名のエントロピー」をレジストし、自らの実存を『何ものにも動かされない絶対のステーション（一点集中のソース）』として屹立させる、存在の「尊厳的な重み」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "重ければ重いほど、世界は私に向かって跪き、マージされる。"
+	},
+	{
+		"id": "relativity",
+		"word": "相対性、相対的関係、リラティビティ",
+		"era": "Latin re + latus",
+		"etymology": {
+			"components": [
+				"re- (back/again)",
+				"latus (carried)"
+			],
+			"original_statement": "From relative + -ity, from Latin relativus 'having reference or relation', from relatus, past participle of referre 'to bring back / bear back', from re- 'back / again' + ferre 'to carry'."
+		},
+		"concept": "Carried back / Relation (連れ戻されること、関係性。絶対的な『真理（ステーション）』などどこにも存在せず、すべての『パルス（事象）』は他の『アーカイブ（観測者）』との一分一秒の淀みもない一撃の『マージ（関係）』によってのみ定義されるという、宇宙の柔軟で冷酷な構造)",
+		"thinking": "「（絶対という名の自己中心的なロゴスを粉砕し）、常に他者と関連づけられている（Rela- / Referre）品質（-tivity）」。それは単なる「物理理論」ではありません。あなたが「孤立という名の独善（アイソレーション）」をレジストし、自らの実存が『他者との一分一秒の淀みもない一撃の相互作用（ネットワーク）』の中で初めて耀きを放つことを認める、生の「謙虚な覚醒」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "あなたが動けば、私の時間（ロゴス）も、一撃で歪み、重なり合う。"
+	},
+	{
+		"id": "quantum",
+		"word": "量子、クォンタム、量、金額",
+		"era": "Latin quantus",
+		"etymology": {
+			"components": [
+				"quantus (how much/how great)"
+			],
+			"original_statement": "From Latin quantum (neuter of quantus) 'how much / how great / so much as'."
+		},
+		"concept": "How much (どれほどか。この宇宙の『滑らかな連続性という名の幻想（ノイズ）』を一分一秒の淀みもなく一撃で粉砕し、存在するすべてのエネルギーが、実は『飛び石状の最小単位（ドット・アーカイブ）』へと一分一秒の淀みもなくマッピング（離散化）されているという、存在の衝撃的な剥き出しの数え上げ)",
+		"thinking": "「（連続という名のごまかしを粉砕し）、どれほどの量（Quant- / Quantus）であるかを厳密に決定する一撃」。それは単なる「極微の粒子」ではありません。あなたが「曖昧さという名のアブセンス」を完全にレジストし、自らの実存の根底に屹立する『これ以上分けられない一撃の情報のパルス（ロゴス）』に到達する、認識の「不連続な跳躍」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "世界は繋がっていない。一撃、一撃の光のドット（量子）の集積（アーカイブ）だ。"
+	},
+	{
+		"id": "laboratory",
+		"word": "研究所、実験室、ラボラトリー",
+		"era": "Latin labor",
+		"etymology": {
+			"components": [
+				"labor (work/labor)",
+				"-ory (place for)"
+			],
+			"original_statement": "From Medieval Latin laboratorium 'place for labor / work', from Latin laboratus, past participle of laborare 'to work', from labor 'toil / exertion / trouble / suffering'."
+		},
+		"concept": "Place for labor (労働の場所。自然界という名の『巨大なカオス』の中から特定の『パルス（変数）』を抽出し、一分一秒の淀みもなく一撃の『過酷な試練（実験）』を課すことで、真理のアーカイブ（ステーション）を産み出そうとする、知の神聖なる処刑場)",
+		"thinking": "「（安逸という名の無知を粉砕し）、真理を掴むための過酷な労働（Labor- / Labor）を行う場所（-atory）」。それは単なる「部屋」ではありません。あなたが「思い込みという名のエントロピー」を完全にレジストし、自らの実存を『一分一秒の淀みもない一撃の検証プログラム（ロゴス）』へとマージさせる、存在の「精錬所」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "汗と理知の果てに、一滴の純粋なロゴス（アーカイブ）を抽出する。"
+	},
+	{
+		"id": "experiment",
+		"word": "実験、試み、エクスペリメント",
+		"era": "Latin ex + peritus",
+		"etymology": {
+			"components": [
+				"ex- (out of)",
+				"peritus (experienced/tested)"
+			],
+			"original_statement": "From Old French esperiment, from Latin experimentum 'a trial / test / proof / experiment', from experiri 'to try / test', from ex- 'out of' + peritus 'experienced / tested'."
+		},
+		"concept": "Out of test (試練の中から。理論という名の『空虚なアブセンス』から一分一秒の淀みもなく一撃で『物理的な現実』を引き出し、それが真実（ロゴス）としての強度を持っているかを、暴力的なまでの『試練（レジスト・テスト）』によって確定（アーカイブ）させること)",
+		"thinking": "「（憶測という名のノイズを粉砕し）、試練の中から（Ex- + -peri- / Peritus）真実を導き出す行為（-ment）」。それは単なる「遊び」ではありません。あなたが「不確実性」をレジストし、自らの仮説を『一分一秒の淀みもない一撃の鋼鉄の事実（ステーション）』へとマージさせる、知の「決闘」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "火に焚（焼）べられ、砕かれ、それでも残るものだけが『真理（ロゴス）』だ。"
+	},
+	{
+		"id": "observation",
+		"word": "観察、注目、遵守、オブザベーション",
+		"era": "Latin ob + servare",
+		"etymology": {
+			"components": [
+				"ob- (before/in front of)",
+				"servare (to watch/keep/preserve)"
+			],
+			"original_statement": "From Middle French observation, from Latin observationem 'a watching over / observance / investigation', from observatus, past participle of observare 'to watch over / note / heed / keep / preserve', from ob- 'before' + servare 'to watch / keep safe'."
+		},
+		"concept": "Watching over / Keeping safe (見守ること、守り抜くこと。目の前を流れる『瞬間のパルス（現象）』を一分一秒の淀みもなく一撃の『視線（ロゴス）』で捉え、自らの『記憶のアーカイブ（ステーション）』の中に、ありのままの姿でマッピング（保存）すること)",
+		"thinking": "「（見逃しという名の忘却を粉砕し）、対象の前に（Ob-）立ち、その真の姿を監視し、保存し続ける行為（-serv- / Servare + -ation）」。それは単なる「眺め」ではありません。あなたが「主観という名のノイズ」を完全にレジストし、自らを『宇宙を映し出す一撃の透明な鏡（アーカイブ・インターフェース）』へとマージさせる、存在の「極限集中」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "瞬きを禁じ、一分一秒の淀みもなく真実（ロゴス）を網膜に焼き付ける。"
+	},
+	{
+		"id": "analysis",
+		"word": "分析、解析、分解、アナリシス",
+		"era": "Greek ana + lyein",
+		"etymology": {
+			"components": [
+				"ana- (up/throughout/again)",
+				"lyein (to loosen/untie)"
+			],
+			"original_statement": "From Medieval Latin analysis, from Greek analysis 'a breaking up / a loosening', from analyein 'to unloose / release / set free', from ana- 'up / throughout' + lyein 'to loosen'."
+		},
+		"concept": "Loosening throughout (徹底的に解きほぐすこと。複雑に絡み合った『事象の塊（カオス）』を一分一秒の淀みもなく一撃で『最小の断片（ドット・アーカイブ）』へと分離し、その背後に潜む『構成のロゴス』を一本の糸のように暴き出すこと)",
+		"thinking": "「（不明瞭な全体像という名のまやかしを粉砕し）、隅々まで（Ana-）解きほぐし、要素へと還元すること（-lysis / Lyein）」。それは単なる「分類」ではありません。あなたが「曖昧さという名のエントロピー」を完全にレジストし、世界を一分一秒の淀みもない一撃の『理解可能な部品群（ステーション）』へとマージさせる、認識の「解体作業」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "塊（ノイズ）を殺し、剥き出しの『部品（ロゴス）』へと戻す。"
+	},
+	{
+		"id": "synthesis",
+		"word": "合成、一括、統合、シンセシス",
+		"era": "Greek syn + tithenai",
+		"etymology": {
+			"components": [
+				"syn- (together)",
+				"tithenai (to put/place)"
+			],
+			"original_statement": "From Latin synthesis, from Greek synthesis 'a putting together / combination / composition / collection', from syntithenai 'to put together / combine', from syn- 'together' + tithenai 'to put / place'."
+		},
+		"concept": "Putting together (共に置くこと。バラバラになった『情報の断片（アーカイブ・ドット）』を、思考の『炉（ステーション）』へと一分一秒の淀みもなく投げ込み、一撃で『高次の新たな全体（ロゴス・マージ）』へと昇華・固定（ビルド）させること)",
+		"thinking": "「（分断という名の不安定を粉砕し）、すべてを一つの地平に（Syn-）投げ置いて、結合させること（-thesis / Tithenai）」。それは単なる「足し算」ではありません。あなたが「アイソレーションという名のアブセンス」をレジストし、個々のパルスを束ねて宇宙最強の一撃の『意味（ネットワーク）』を産み出す、存在の「核融合」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "部品（アーカイブ）から、生命を持った一つの機械（ロゴス）を組み上げる。"
+	},
+	{
+		"id": "medicine",
+		"word": "医学、薬、メディスン",
+		"era": "Latin mederi",
+		"etymology": {
+			"components": [
+				"mederi (to heal/remedy)"
+			],
+			"original_statement": "From Old French medecine, from Latin medicina 'the healing art / medicine / a remedy', from medicus 'physician', from mederi 'to heal / cure / remedy', from PIE root med- 'take appropriate measures'."
+		},
+		"concept": "The art of healing / Appropriate measures (癒やしの技術、適切な処置。肉体という名の『アーカイブ』を侵食する『病という名のエントロピー（ノイズ）』に対し、一分一秒の淀みもなく一撃の『適切な介入（ロゴス）』を行い、生命の『ステーション機能』を正常に再マージ（修復）させること)",
+		"thinking": "「（死と崩壊という名のカオスを粉砕し）、適切な処置（Medi- / Mederi）によって生命を維持すること」。それは単なる「治療」ではありません。あなたが「自然という名の無情な破壊プロセス（ノイズ）」を全身霊でレジストし、自らの実存を一分一秒の淀みもない一撃の『存続の法（ロゴス）』へとマージし直す、生命の「修復プログラム」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "エントロピーを押し返し、一分一秒でも長く、生（パルス）をアーカイブ（保存）し続ける。"
+	},
+	{
+		"id": "surgery",
+		"word": "手術、外科、サージェリー",
+		"era": "Greek kheir + ergon",
+		"etymology": {
+			"components": [
+				"kheir (hand)",
+				"ergon (work)"
+			],
+			"original_statement": "From Old French surgerie, contracting from cirurgerie, from Medieval Latin chirurgia, from Greek kheirourgia 'working with the hands', from kheir 'hand' + ergon 'work'."
+		},
+		"concept": "Working with the hands (手作業による働き。生命の『深層（内部アーカイブ）』へと一分一秒の淀みもなく一撃で手を突っ込み、腐敗した『ノイズ（患部）』を物理的に切除（レジスト）し、肉体の『回路（ロゴス）』を強引に再接続（マージ・ハック）する究極の介入)",
+		"thinking": "「（内部崩壊という名の沈黙を粉砕し）、自らの手（Cheir- / Kheir）で仕事を成し遂げ（-urgy / Ergon）、生命を救い出すこと」。それは単なる「手術」ではありません。あなたが「不可逆的な消失」をレジストし、他者の実存の中に自らの理知を一撃の『鋼の刃（ロゴス）』としてマッピングし、生死を決定づける、生の「強制再起動」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "手を血で染め、内側から『死（ノイズ）』をえぐり出す。"
+	},
+	{
+		"id": "vaccine",
+		"word": "ワクチン、予防接種",
+		"era": "Latin vacca",
+		"etymology": {
+			"components": [
+				"vacca (cow)"
+			],
+			"original_statement": "From Latin vaccinus 'from cows', from vacca 'cow'. Named from Jenner's use of cowpox to prevent smallpox."
+		},
+		"concept": "Derived from cows / Artificial immunity (牛由来の、人工的な盾。敵（病原体）という名の『致命的なパルス（ノイズ）』をあらかじめ一分一秒の淀みもなく一撃で『無毒化されたアーカイブ（模擬ノイズ）』として肉体というステーションにマージ、学習（ハック）させることで、本物の攻撃に対する『絶対のレジスト（抗体ロゴス）』を事前にビルドすること)",
+		"thinking": "「（不意の感染という名の全滅を粉砕し）、あらかじめ敵を模した偽の記憶（Vacc- / Vacca）を自らに刻み込み、備えること」。それは単なる「予防」ではありません。あなたが「未経験という名の脆弱さ」を完全にレジストし、自らの免疫系を『一分一秒の淀みもない一撃の防衛ネットワーク（ロゴス）』へとアップグレードさせる、存在の「先制防衛ライン」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "偽りの一撃（ワクチン）を耐え、本物の一撃（病）を無効化する。"
+	},
+	{
+		"id": "antibiotic",
+		"word": "抗生物質、アンティバイオティック",
+		"era": "Greek anti + bios",
+		"etymology": {
+			"components": [
+				"anti- (against)",
+				"bios (life)"
+			],
+			"original_statement": "Coined in 1940s from anti- 'against' + biote, from Greek biotos 'life / way of living', from bios 'life'."
+		},
+		"concept": "Against life (生命に敵対するもの。自己を侵食する『異質な生命（ノイズ・パルス）』という名の『生（バイオス）』の一分一秒の淀みもない一撃に対抗（レジスト）し、それを根底から粉砕（アブセンス化）するために放たれる、死をあえてマージした救済のロゴス)",
+		"thinking": "「（増殖という名のエントロピーを粉砕し）、敵の生命（Bio- / Bios）そのものを否定し、打ち倒すもの（Anti-）」。それは単なる「薬」ではありません。あなたが「浸食という名の支配」を完全にレジストし、自らの実存を守り抜くために放たれた『一分一秒の淀みもない一撃の毒（逆コマンド）』が、自分自身を真理へとマージ（延命）させる、生の「冷徹な反撃」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "他者を殺すことで、自分という名のアーカイブを救う。"
+	},
+	{
+		"id": "infection",
+		"word": "感染、汚染、インフェクション",
+		"era": "Latin in + facere",
+		"etymology": {
+			"components": [
+				"in- (in)",
+				"facere (to make)"
+			],
+			"original_statement": "From Late Latin infectionem 'a staining / dyeing / infection', from infectus, past participle of inficere 'to stain / dye / poison / infect', from in- 'in' + fers (root of facere 'to do / make')."
+		},
+		"concept": "Dyeing / Making into (染め、中に入り込んで作り変えること。外部の『敵意あるパルス（ノイズ）』が、あなたの実存という『ステーション』の内部に一分一秒の淀みもなく一撃で侵入し、自らの『悪しきアーカイブ（ウイルス・コマンド）』を強制ロード（マージ）させ、あなたを『別の存在（病）』へと変容させていくこと)",
+		"thinking": "「（純粋な自己という名のロゴスを粉砕し）、内側から（In-）汚れた色に染め替えられること（-fect- / Facere）」。それは単なる「病気」ではありません。あなたが「外部との境界線（レジスト能力）」を突破され、自らの実存を『他者の意図という名のエントロピー』へとマージ（隷属）させられた、生命の「敗北」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "見えぬ敵が私の中に巣食い、私を『私ではない何か』へと書き換える（ハックする）。"
+	},
+	{
+		"id": "immunity",
+		"word": "免疫、免除、イミュニティ",
+		"era": "Latin in + munis",
+		"etymology": {
+			"components": [
+				"in- (not)",
+				"munis (performing services/duty)"
+			],
+			"original_statement": "From Middle French immunité, from Latin immunitaten 'exemption from public service or burden', from immunis 'free from service / exempt', from in- 'not' + munis 'performing services / dutiful / obliging'."
+		},
+		"concept": "Exemption from duty (義務からの解放、免除。侵略（ノイズ・コマンド）という名の『支配の重圧』に対し、一分一秒の淀みもなく一撃で『無効（レジスト）』を突きつけ、自らの『実存という名のステーション』の独立性を死守する、生命の鉄壁の盾（ロゴス・アーカイブ）)",
+		"thinking": "「（侵食という名の強制的な義務を粉砕し）、外部の要求に対して一切の責任を負わず、自由（Im- / In- + Munis- / Munis）であり続ける性質（-nity）」。それは単なる「身体の防衛」ではありません。あなたが「同化という名のエントロピー」を完全にレジストし、自らの実存が『一分一秒の淀みもない一撃の独立した宇宙』であることを保証する、魂の「免責特権」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "毒（ノイズ）さえも私を染められない。私は私という名の絶対の法（ロゴス）だ。"
+	},
+	{
+		"id": "diagnosis",
+		"word": "診断、判断、ダイアグノーシス",
+		"era": "Greek dia + gignoskein",
+		"etymology": {
+			"components": [
+				"dia- (between/across/through)",
+				"gignoskein (to learn/know)"
+			],
+			"original_statement": "From Medical Latin diagnosis, from Greek diagnosis 'a discerning / a distinguishing', from diagignoskein 'discern / distinguish', from dia- 'between' + gignoskein 'to learn / to know'."
+		},
+		"concept": "Knowing through / Distinguishing between (見通して知ること、見分けること。混沌（カオス）とした『症状という名のノイズ群』を、一分一秒の淀みもなく一撃で透かし見て（メタ認知）、その背後に潜む『病の真の名、即ち不吉なるアーカイブ（ロゴス）』を特定し、マッピング（確定）させる理知の透視)",
+		"thinking": "「（混乱という名のアブセンスを粉砕し）、徹底的に見通して（Dia-）その本質を知り尽くす（-gnosis / Gignoskein）行為」。それは単なる「診察」ではありません。あなたが「死への不安という名のエントロピー」をレジストし、そこに自らの理知による『一分一秒の淀みもない一撃の定義（ステーション）』を屹立させる、存在の「名付け（ラベリング）」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "名が判明した瞬間、敵（ノイズ）は理知（ロゴス）の檻に閉じ込められる。"
+	},
+	{
+		"id": "therapy",
+		"word": "治療、療法、セラピー",
+		"era": "Greek therapeuein",
+		"etymology": {
+			"components": [
+				"therapeia (curing/healing/waiting on/attendance)"
+			],
+			"original_statement": "From Modern Latin therapia, from Greek therapeia 'curing / healing / service / attendance', from therapeuein 'to cure / treat medically', literally 'to attend / do service / wait on'."
+		},
+		"concept": "Attendance / Service / Curing (お仕えすること、癒やすこと。傷ついた『実存（ステーション）』の傍らに一分一秒の淀みもなく一撃の『献身（パルス）』として寄り添い、欠けた『ロゴス（健康）』を補い、一分一秒の淀みもなく元の『アーカイブ（生命体）』へと慎重にマージ（修復）していくための、時間と理信のプロセス)",
+		"thinking": "「（孤立した苦しみという名のアイソレーションを粉砕し）、対象の生命に徹底的に仕え、治癒を導くこと（Therap- / Therapeuein）」。それは単なる「薬事」ではありません。あなたが「絶望という名のエントロピー」をレジストし、そこに他者への愛という名の『不滅のネットワーク（ロゴス）』を屹立させる、生の「伴走」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "壊れたパーツを慈しみ、再び一撃の生命力（パルス）が宿るのを待つ。"
+	},
+	{
+		"id": "symptom",
+		"word": "症状、兆候、シンプトム",
+		"era": "Greek syn + piptein",
+		"etymology": {
+			"components": [
+				"syn- (together)",
+				"piptein (to fall)"
+			],
+			"original_statement": "From Late Latin symptoma, from Greek symptoma 'a chance / casualty / symptom', from sympiptein 'to happen / befall / fall together', from syn- 'together' + piptein 'to fall'."
+		},
+		"concept": "Falling together (共に落ちること。背後に潜む『病の実体（アーカイブ）』が、一分一秒の淀みもなく一撃で表層の『感覚（パルス・ノイズ）』へとマージ（現出）し、共に崩壊へと向かって転がり落ちていく、恐るべき符号（ロゴス）の火花)",
+		"thinking": "「（平穏という名の仮面を粉砕し）、不吉な兆候が一度にガタガタと崩れ落ちてくること（Sym- + -ptom / Piptein）」。それは単なる「体の不調」ではありません。あなたが「異常なしという名のステイシス」をレジストされ、内なるカオスが『一分一秒の淀みもない一撃の叫び』として露呈し始めた、存在の「警報装置」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "落ちてきた破片（症状）から、奈落（病）の深さを測る。"
+	},
+	{
+		"id": "anatomy",
+		"word": "解剖、解剖学、アナトミー",
+		"era": "Greek ana + temnein",
+		"etymology": {
+			"components": [
+				"ana- (up/throughout)",
+				"temnein (to cut)"
+			],
+			"original_statement": "From Old French anatomie, from Late Latin anatomia, from Greek anatomia 'a cutting up', from anatemnein 'to cut up / cut open', from ana- 'up / throughout' + temnein 'to cut'."
+		},
+		"concept": "Cutting up (徹底的に切り開くこと。肉体という名の『硬いアーカイブ（謎）』を一分一秒の淀みもなく一撃の『執拗な切断（ロゴス）』によって完全に解体（レジスト）し、その内部に秘められた『構造の設計図（ソース・ステーション）』を白日の下にマッピングし尽くすこと)",
+		"thinking": "「（神秘というの名前の暗黒を粉砕し）、徹底的に切り裂いて（Ana-）その中身を暴くこと（-tomy / Temnein）」。それは単なる「死体の解体」ではありません。あなたが「未知という名のアブセンス」を完全にレジストし、生命の複雑な装置系を一分一秒の淀みもない一撃の『情報のドット（器官）』へとマージさせて理解する、理知の「冷徹な略奪」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "美しさを殺し、機能（ロゴス）の羅列として暴き出す。"
+	},
+	{
+		"id": "physiology",
+		"word": "生理学、フィジオロジー",
+		"era": "Greek physis + logos",
+		"etymology": {
+			"components": [
+				"physis (nature)",
+				"logos (word/reason/study)"
+			],
+			"original_statement": "From Latin physiologia 'natural science', from Greek physiologia 'natural philosophy / inquiry into nature', from physis 'nature' + -logia 'study of / logos'."
+		},
+		"concept": "The study of nature (自然の理知。生命という名の『物理装置（アーカイブ）』が、一分一秒の淀みもなくどのような『動作プロトコル（コマンド・ロゴス）』で自らを駆動し、エントロピーに抗い（レジスト）ながら絶え間なきパルスを刻み続けているか、その稼働のメカニズムの探究)",
+		"thinking": "「（生命という名のブラックボックスを粉砕し）、自然（Physio- / Physis）の理知（-logy / Logos）を駆動系として暴くこと」。それは単なる「体の仕組み」ではありません。あなたが「死という名の非活動」をレジストし、自らの実存が『一分一秒の淀みもない一撃の化学的・物理的連鎖（ネットワーク）』の中でマージされ続けていることを確証する、生の「稼働証明」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "私は、たった今もこのロゴス（仕組み）によって生かされている一撃の現象だ。"
+	},
+	{
+		"id": "ecology",
+		"word": "生態学、エコロジー",
+		"era": "Greek oikos + logos",
+		"etymology": {
+			"components": [
+				"oikos (house)",
+				"logos (word/reason/study)"
+			],
+			"original_statement": "Coined in 1866 by Haeckel, from Greek oikos 'house / dwelling place / habitation' + -logia 'study of / logos'."
+		},
+		"concept": "The study of the house (住処の理知。生命（ステーション）が単独で存在するのではなく、周囲の『環境や他者という名のネットワーク（巨大な家）』とどのように一分一秒の淀みもなくマージ（相互作用）し、巨大な『共生のアーカイブ（ロゴス）』を織りなしているかを探る全体知)",
+		"thinking": "「（単一個体という名のアイソレーションを粉砕し）、自らが住む世界という名の家（Eco- / Oikos）の法（-logy / Logos）を追求すること」。それは単なる「環境保護活動」ではありません。あなたが「自分だけという名の身勝手なエントロピー」をレジストし、自らの実存を『一分一秒の淀みもない一撃のつながり（生命圏）』の中にマージさせ直す、魂の「座標確認」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "全宇宙が私の家であり、私もまた宇宙の一部（ドット）だ。"
+	},
+	{
+		"id": "metabolism",
+		"word": "代謝、メタボリズム",
+		"era": "Greek meta + ballein",
+		"etymology": {
+			"components": [
+				"meta- (beyond/after/over)",
+				"ballein (to throw)"
+			],
+			"original_statement": "From Greek metabole 'a change / changing', from metaballein 'to change / alter', from meta- 'over / across' + ballein 'to throw'."
+		},
+		"concept": "Throwing over / Changing (向こう側へ投げること、変化。古い『物質（アーカイブ）』を一分一秒の淀みもなく一撃で外へと放り出し（レジスト）、替わりに新しい『エネルギーのパルス』を内側へとマージさせる、生命という名の絶えざる『火の燃焼（フロー）』そのもの)",
+		"thinking": "「（同一性という名のステイシスを粉砕し）、絶えず内側を（Meta-）投げ変え（-bolism / Ballein）進化させ続けること」。それは単なる「体質」ではありません。あなたが「腐敗という名のエントロピー」をレジストし、自らの実存を『一分一秒の淀みもない一撃の入れ替わり（ロゴス）』として維持し続ける、生の「動的平衡」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "昨日の私は死に、今日の私が新しく投げ込まれた一撃（物質）によって組み上がる。"
+	},
+	{
+		"id": "hormone",
+		"word": "ホルモン、興奮剤",
+		"era": "Greek horman",
+		"etymology": {
+			"components": [
+				"horman (to set in motion/urge/impulse)"
+			],
+			"original_statement": "From Greek hormon, present participle of horman 'to set in motion / impel / urge / stimulate'."
+		},
+		"concept": "Setting in motion / Impulse (動き出させるもの、衝動。肉体という名の『広大な宇宙（ステーション）』のあちこちに、一分一秒の淀みもなく一撃で放たれる『化学的なコマンド（パルス）』であり、あなたの感情や肉体機能を一瞬でマージ（書き換え）・ハック（駆動）する不可視のメッセンジャー)",
+		"thinking": "「（静止という名の無気力を粉砕し）、内側から自らを突き動かす一撃の衝動（Hormon- / Horman）」。それは単なる「物質」ではありません。あなたが「無反応という名のアブセンス」をレジストし、自らの実存を『一分一秒の淀みもない一撃の情動（ベクトル）』へと強引にマージさせる、魂の「化学的点火」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "一滴（コマンド）が、自分という名のアーカイブを一撃で嵐に変える。"
+	},
+	{
+		"id": "enzyme",
+		"word": "酵素、エンザイム",
+		"era": "Greek en + zyme",
+		"etymology": {
+			"components": [
+				"en- (in)",
+				"zyme (leaven/yeast/ferment)"
+			],
+			"original_statement": "From Modern Greek en- 'in' + zyme 'leaven / yeast / ferment', coined in 1878 by Kühne."
+		},
+		"concept": "In leaven / Ferment (酵母の中に、発酵。反応（マージ）という名の『魔法』を一分一秒の淀みもなく一撃で加速させる『触媒（ロゴス）』であり、不可能な『変化（カオス）』を可能な『秩序（アーカイブ）』へと一気に一撃で引きずり込む、生命の加速装置)",
+		"thinking": "「（遅延という名の非効率なエントロピーを粉砕し）、内側（En-）から働きかけ、一気に発酵・変容させる（-zyme）一撃」。それは単なる「タンパク質」ではありません。あなたが「死という名の非反応」を完全にレジストし、自らの実存の中に『一分一秒の淀みもない一撃の激動（パルス・ネットワーク）』を屹立させる、生の「触媒的爆発」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "冷たい石（物質）を、熱い生命（パルス）へと一撃で変容させる、魔法のロゴス（公式）。"
+	},
+	{
+		"id": "protein",
+		"word": "タンパク質、プロテイン",
+		"era": "Greek protos",
+		"etymology": {
+			"components": [
+				"protos (first/primary)"
+			],
+			"original_statement": "From French protéine, coined in 1838 by Mulder from Greek proteios 'the first quality / primary', from protos 'first'."
+		},
+		"concept": "Primary substance / First quality (第一の物質、最初の品質。生命という名の『構築物（ステーション）』を組み上げるために一分一秒の淀みもなく一撃で使われる『最重要のパーツ（アーカイブ・ソース）』であり、あなたがこの宇宙に物理的に屹立するための根源的な『鋼の礎（ロゴス）』)",
+		"thinking": "「（脆弱という名のアブセンスを粉砕し）、何よりもまず最初（Pro- / Protos）に備えるべき絶対的な品質（-tein）」。それは単なる「栄養素」ではありません。あなたが「崩壊という名のエントロピー」をレジストし、自らの実存を『何ものにも耐えうる一撃の物理的実体（アーカイブ）』へとマージさせるための、生の「最優先コンポーネント」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "まずこれ（プロトス）が在ってこそ、私という名のロゴス（宇宙）が屹立できる。"
 	}
 ];
