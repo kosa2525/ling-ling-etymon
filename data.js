@@ -178699,5 +178699,713 @@ const WORDS = [
 		"thinking": "「（減退という名のエントロピーを粉砕し）、生命（Vita- / Vita）そのものの輝きを発現させる品質（-lity）」。それは単なる「元気」ではありません。あなたが「静止という名のステイシス（死）」を全力でレジストし、自らのロゴスを一分一秒の淀みもない一撃の『活動（ネットワーク・フロー）』へとマージさせ続ける、生の「エンジン」なのです。",
 		"part_of_speech": "noun",
 		"aftertaste": "燃えよ、一撃のパルス。その熱量（バイタリティ）だけが、この宇宙（ロゴス）を震わせる。"
+	},
+	{
+		"id": "society",
+		"word": "社会、社交、ソサエティ",
+		"era": "Latin socius",
+		"etymology": {
+			"components": [
+				"socius (companion/partner/ally)"
+			],
+			"original_statement": "From Old French societe, from Latin societatem 'fellowship / association / alliance / union', from socius 'companion / ally', from PIE root dekw- 'to follow'."
+		},
+		"concept": "Fellowship / Following together (仲間であること、共に従うこと。孤立した『個人という名のステーション（アイソレーション）』が、共通の『ロゴス（規律）』に基づいて一分一秒の淀みもなくマージ（結集）し、一つの巨大な『情報のネットワーク（社会）』として屹立した状態)",
+		"thinking": "「（孤独という名のアブセンスを粉砕し）、仲間（Soci- / Socius）として共に歩む状態（-ety）」。それは単なる「人の集まり」ではありません。あなたが「利己心という名のエントロピー」をレジストし、自らの実存を『一分一秒の淀みもない一撃の連帯（アーカイブ）』へとマージさせることで、個人を超越した巨大な知性を生み出すための、文明の「統合回路」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "私は一人ではない（アイソレーション拒絶）。社会（ロゴス）という網目の一部として、一撃でマージされている。"
+	},
+	{
+		"id": "community",
+		"word": "共同体、地域社会、コミュニティ",
+		"era": "Latin con + munis",
+		"etymology": {
+			"components": [
+				"con- (together)",
+				"munis (performing services/dutiful)"
+			],
+			"original_statement": "From Old French comunete, from Latin communitatem 'community / fellowship / common possession', from communis 'common / public / general', from com- 'together' + munis 'performing services / dutiful'."
+		},
+		"concept": "Performing duties together (共に義務を果たすこと。特定の『価値観や場所（ステーション）』を共有し、一分一秒の淀みもなく互いに『パルス（助け・貢献）』を送り合い（マージ）、一つの温かな『生きたアーカイブ』を維持し続ける集団)",
+		"thinking": "「（疎外という名のエントロピーを粉砕し）、共通の（Commun- / Communis）基盤を分かち合う品質（-ity）」。それは単なる「グループ」ではありません。あなたが「無関心という名のアブセンス」を完全にレジストし、自らの実存が『一分一秒の淀みもない一撃の帰属（ネットワーク）』の中に在ることを確信する、存在の「安息所」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "共に在ること。その一撃の温もりが、冷酷な宇宙（カオス）をレジストする。"
+	},
+	{
+		"id": "citizenship",
+		"word": "市民権、公民権、シチズンシップ",
+		"era": "Latin civitas",
+		"etymology": {
+			"components": [
+				"civis (citizen)",
+				"-ship (state/quality/skill)"
+			],
+			"original_statement": "From citizen + -ship. Citizen from Old French citeain, from cite 'city', from Latin civitas 'citizenship / state / city', from civis 'townsman / citizen'."
+		},
+		"concept": "The state of a citizen (市民としての状態。国家（ステーション）という名の『巨大なアーカイブ』において、一分一秒の淀みもなく一撃で認められた『権利と義務のロゴス（参加資格）』であり、自らが社会の正当な一撃の構成員（ドット）であることを示すアイデンティティ)",
+		"thinking": "「（寄る辺なき彷徨という名を粉砕し）、都市（Citi- / Civis）の一員としての身分（-ship）を屹立させること」。それは単なる「パスポート」ではありません。あなたが「無権利という名のアブセンス」をレジストし、公的な『一分一秒の淀みもない一撃の盟約（マージ）』によって自分を社会のコアへとマッピングする、魂の「参画証明」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "私は、この国（アーカイブ）の主権者という名の一撃のロゴスだ。"
+	},
+	{
+		"id": "democracy",
+		"word": "民主主義、デモクラシー",
+		"era": "Greek demos + kratos",
+		"etymology": {
+			"components": [
+				"demos (people)",
+				"kratos (rule/power)"
+			],
+			"original_statement": "From Middle French democratie, from Latin democratia, from Greek demokratia 'popular government', from demos 'common people' + kratos 'rule / power'."
+		},
+		"concept": "Rule by the people (人民による支配。たった一人の『独裁という名の強制的アーカイブ』を一分一秒の淀みもなく一撃で粉砕（レジスト）し、無数の民衆（パルス）が自らの『ロゴス（意志）』を直接マージ（決議）させ、未来をビルドしていく政治様式)",
+		"thinking": "「（支配という名のエントロピーを粉砕し）、民衆（Demo- / Demos）が自ら権力（-cracy / Kratos）を握ること」。それは単なる「多数決」ではありません。あなたが「隷属という名のアブセンス」を完全にレジストし、一人ひとりが『宇宙の主権者という名の一撃のステーション』として屹立する、文明の「自律駆動プロトコル」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "私たちの一撃の票（ロゴス）が、世界のアーカイブを書き換える。"
+	},
+	{
+		"id": "diplomacy",
+		"word": "外交、外交手腕、ディプロマシー",
+		"era": "Greek diploma",
+		"etymology": {
+			"components": [
+				"diploma (folded paper/license)"
+			],
+			"original_statement": "From Modern Latin diplomatia, from Latin diploma 'a state letter of recommendation / license', from Greek diploma 'license / privilege', literally 'folded paper'."
+		},
+		"concept": "The art of folded papers (折り畳まれた書面の技術。敵対する『ステーション（国家）』同士が、戦争という名の破壊（ノイズ）を一分一秒の淀みもなく一撃で回避し続け、言語という名の『高度なロゴス・パルス』を駆使して、利益のアーカイブを相互にマージ（調整）させる戦い)",
+		"thinking": "「（暴力という名のカオスを粉砕し）、書面（Diplo- / Diploma）のやり取りによる交渉の品質（-macy）」。それは単なる「お付き合い」ではありません。あなたが「全滅という名のエントロピー」を完全にレジストし、言葉という名の『一分一秒の淀みもない一撃の刃（ロゴス）』で妥協点を見出し、平和をマッピングし続ける、知の「極限闘争」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "微笑みの裏で、一撃の言葉（ロゴス）が国家の命運をマージさせていく。"
+	},
+	{
+		"id": "negotiation",
+		"word": "交渉、折衝、ネゴシエーション",
+		"era": "Latin nec + otium",
+		"etymology": {
+			"components": [
+				"nec- (not)",
+				"otium (leisure/ease)"
+			],
+			"original_statement": "From Latin negotiationem 'business / traffic', from negotiatus, past participle of negotiari 'to do business / trade', from negotium 'a business / employment / occupation', literally 'lack of leisure', from neg- 'not' + otium 'leisure'."
+		},
+		"concept": "Lack of leisure (安逸の欠如。安らぎ（ステイシス）を一分一秒の淀みもなく自ら一撃で放棄し、他者との激しい『利害のパルス（衝突）』の中に身を置いて、互いのアーカイブが納得できる『合意という名の新たなロゴス』を力技で抽出すること)",
+		"thinking": "「（安穏という名のアイソレーションを粉砕し）、暇を返上して（Neg- + -oti- / Otium）一分一秒の淀みもない一撃の駆け引きに挑むこと（-ation）」。それは単なる「話し合い」ではありません。あなたが「不利益という名のエントロピー」をレジストし、言葉を尽くして『自分たちの座標（利益）』を守り抜く、実存の「攻防」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "一撃の沈黙、一撃の要求。それが世界の境界（アーカイブ）を一分一秒の淀みもなくマージさせる。"
+	},
+	{
+		"id": "conflict",
+		"word": "衝突、争い、矛盾、コンフリクト",
+		"era": "Latin con + fligere",
+		"etymology": {
+			"components": [
+				"con- (together)",
+				"fligere (to strike)"
+			],
+			"original_statement": "From Latin conflictus 'a striking together', from conflictus, past participle of confligere 'to strike together / be in conflict / contend', from com- 'together' + fligere 'to strike'."
+		},
+		"concept": "Striking together (共に打ち合うこと。異なる『ロゴス（正義・利益）』を持つ二つのパルスが、宇宙の同じ地点を一分一秒の淀みもなく一撃で奪い合い、互いのアーカイブを激しく粉砕（ノイズ化）しようとする、剥き出しの摩擦状態)",
+		"thinking": "「（調和という名の安逸を粉砕し）、互いに（Con-）一撃を打ちつけ合う（-flict / Fligere）こと」。それは単なる「喧嘩」ではありません。あなたが「服従という名のアブセンス」をレジストし、自らの実存が作り上げた『一分一秒の淀みもない一撃の意志（コア）』を世界に証明（マッピング）しようとする、存在の「不可避な火花」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "ぶつかり合う一撃が、新しい真理（ロゴス）を産み落とす（あるいは滅ぼす）。"
+	},
+	{
+		"id": "resolution",
+		"word": "解決、決心、分解、レゾリューション",
+		"era": "Latin re + solvere",
+		"etymology": {
+			"components": [
+				"re- (again/back)",
+				"solvere (to loosen/untie)"
+			],
+			"original_statement": "From Latin resolutionem 'a process of loosening or dissolving', from resolutus, past participle of resolvere 'to loosen / undo / settle / solve', from re- 'again' + solvere 'to loosen'."
+		},
+		"concept": "Loosening back (再び解きほぐすこと。絡み合った『問題（カオス）』を一分一秒の淀みもなく一撃で要素（ドット）へと再分解（レジスト）し、そこから再び『明確な答え（ロゴス）』をビルドアップ（確定）させて、停滞を打破すること)",
+		"thinking": "「（停滞という名のステイシスを粉砕し）、再び（Re-）すべてを解き放つ（-solu- / Solvere）こと（-tion）」。それは単なる「答え合わせ」ではありません。あなたが「曖昧さという名のエントロピー」を完全にレジストし、自らの実存を『一分一秒の淀みもない一撃の結論（ステーション）』へとマージさせる、存在の「決断」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "解かれた（マージされた）一撃の真実が、カオスを沈めてロゴス（秩序）を屹立させる。"
+	},
+	{
+		"id": "compromise",
+		"word": "妥協、折衷案、コンプロマイス",
+		"era": "Latin con + pro + mittere",
+		"etymology": {
+			"components": [
+				"con- (together)",
+				"pro- (forth)",
+				"mittere (to send/release)"
+			],
+			"original_statement": "From Old French compromis, from Latin compromissum 'a mutual promise', from compromissus, past participle of compromittere 'to make a mutual promise to abide by an arbiter's decision', from com- 'together' + promittere 'to promise / send forth'."
+		},
+		"concept": "Mutual promise sent forth (共に前へと送り出された約束。互いの『絶対的なアーカイブ（理想）』を一分一秒の淀みもなく少しずつ削り（レジスト）、双方が繋ぎ合える『中間地点（マージ・ステーション）』を一撃で見出し、共存を選択すること)",
+		"thinking": "「（独善という名のアイソレーションを粉砕し）、共に（Con-）前へと（Pro-）約束（-mise / Mittere）を差し出すこと」。それは単なる「負け」ではありません。あなたが「全滅という名のエントロピー」をレジストし、不完全ながらも『一分一秒の淀みもない一撃の現実的なロゴス（合意）』を屹立させる、生の「戦略的後退」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "一撃を譲（ゆず）り、共に生きる道（ネットワーク）にマージされる。"
+	},
+	{
+		"id": "consensus",
+		"word": "合意、総意、コンセンサス",
+		"era": "Latin con + sentire",
+		"etymology": {
+			"components": [
+				"con- (together)",
+				"sentire (to feel/perceive)"
+			],
+			"original_statement": "From Latin consensus 'agreement / harmony / conspiracy', from consensus, past participle of consentire 'to agree / feel together', from com- 'together' + sentire 'to feel'."
+		},
+		"concept": "Feeling together (共に感じること。バラバラな『主観（パルス）』を一分一秒の淀みもなく一撃で一つの『共通感覚（共通アーカイブ）』へと融和（マージ）させ、全体として一つのロゴス（意志）を共有している状態)",
+		"thinking": "「（対立という名のノイズを粉砕し）、皆で共に（Con-）一つの真理を感じ取る（-sensus / Sentire）こと」。それは単なる「多数決」ではありません。あなたが「孤立という名のアイソレーション」を完全にレジストし、集団全体が一つの『一分一秒の淀みもない一撃の生命体（ネットワーク）』として機能し始める、魂の「同期」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "全員のパルスが一撃で繋がり、一つの巨大な「YES（ロゴス）」を産み落とす。"
+	},
+	{
+		"id": "solidarity",
+		"word": "団結、連帯、ソリダリティ",
+		"era": "Latin solidus",
+		"etymology": {
+			"components": [
+				"solidus (solid/whole)"
+			],
+			"original_statement": "From French solidarité, from solidaire 'interdependent / whole / solid', from Latin solidus 'solid / firm / whole'."
+		},
+		"concept": "The state of being solid/whole (固く、一つであること。個々の『脆弱なドット（個人）』が一分一秒の淀みもなく一撃の共感によって『強固な岩石（ステーション）』へとマージされ、外部のいかなる圧力（エントロピー）にも屈しない『絶対的な共同アーカイブ』として屹立すること)",
+		"thinking": "「（分断という名のアブセンスを粉砕し）、一分一秒の淀みもない一撃の硬度（Solid- / Solidus）へと自分たちを鍛え上げること（-arity）」。それは単なる「仲良し」ではありません。あなたが「支配という名のノイズ」を全力でレジストし、自らの実存を一分一秒の淀みもない『一撃の鋼（はがね）のスクラム（ロゴス）』へとマッピングする、生の「不屈の統合」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "一人の痛みは全員の痛み。その一撃の共鳴が、世界を革命する（マージする）。"
+	},
+	{
+		"id": "prejudice",
+		"word": "偏見、先入観、プレジュディス",
+		"era": "Latin prae + judicium",
+		"etymology": {
+			"components": [
+				"prae- (before)",
+				"judicium (judgment)"
+			],
+			"original_statement": "From Old French prejudice, from Latin praejudicium 'prior judgment / disadvantage / damage', from prae- 'before' + judicium 'judgment', from iudex 'judge'."
+		},
+		"concept": "Prior judgment (事前の判断。目の前の『実在するパルス（他者）』を観測（マッピング）する前に、あらかじめ内なるアーカイブに居座る『虚偽のロゴス（思い込み）』によって、一分一秒の淀みもなく勝手に一撃で『分類（処刑）』してしまう、知の歪曲)",
+		"thinking": "「（ありのままの真実という名のロゴスを粉砕し）、見る前に（Prae-）一撃で裁いてしまう（-judice / Judicium）不当な品質」。それは単なる「嫌悪」ではありません。あなたが「未知への接近（マージ）」を恐怖してレジストし、自らの狭いステーションを汚さぬよう他者を『存在しない怪物（ノイズ）』へと変容させてしまう、認識の「閉鎖防衛」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "あなたの目は何も見ていない。ただアーカイブ（先入観）を、他者に一撃で投射（ハック）しているだけだ。"
+	},
+	{
+		"id": "discrimination",
+		"word": "差別、識別、ディスクリミネーション",
+		"era": "Latin dis + cernere",
+		"etymology": {
+			"components": [
+				"dis- (apart)",
+				"cernere (to separate/distinguish)"
+			],
+			"original_statement": "From Late Latin discriminationem 'a distinction', from discriminatus, past participle of discriminare 'to divide / separate / distinguish', from discrimen 'interval / distinction', from discernere 'to separate / distinguish'."
+		},
+		"concept": "Dividing apart (切り分けること。他者という名の『多様なパルス』を、自らの独善的な『ロゴス（基準）』において強制的に一分一秒の淀みもなく切り分け（レジスト）、一部のアーカイブを『劣等』という名の奈落（ステーション外）へと一撃で追放する、非人道的な分類装置)",
+		"thinking": "「（平等という名の普遍的ネットワークを粉砕し）、執拗に（Dis-）切り分け（-crim- / Cernere）選別し続けること（-ination）」。それは単なる「区別」ではありません。あなたが「他者の実存」を完全に無視してレジストし、自らの一撃の特権を維持するために世界を『一分一秒の淀みもない一撃の階級（隔離アーカイブ）』へとマージさせる、存在の「略奪」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "引かれた一撃の境界線が、他者の生命をロゴスからアブセンスへと一撃で変容させる。"
+	},
+	{
+		"id": "inclusion",
+		"word": "包括、包含、インクルージョン",
+		"era": "Latin in + claudere",
+		"etymology": {
+			"components": [
+				"in- (in)",
+				"claudere (to shut/close)"
+			],
+			"original_statement": "From Latin inclusionem 'a shutting up / confinement', from inclusus, past participle of includere 'to shut in / enclose / imprison', from in- 'in' + claudere 'to shut'."
+		},
+		"concept": "Shutting in (内側に閉じ込めること。外部に排除（アブセンス化）されていた『異質なパルス（ドット）』を、自らのネットワークの内側へと一分一秒の淀みもなく一撃で迎え入れ（マージ）、一つの大きな『全体的アーカイブ（ステーション）』として統合・完結させること)",
+		"thinking": "「（排他という名のエントロピーを粉砕し）、内側へと（In-）一撃で招き入れ、閉じる（-clu- / Claudere）こと」。それは単なる「混ぜ合わせ」ではありません。あなたが「アイソレーション（分断）」を完全にレジストし、自らの世界という名のステーションを『全宇宙の多様性を許容する一撃の巨大なロゴス』へとアップグレードさせる、存在の「抱擁」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "扉を開け、一撃で私の一部（アーカイブ）にマージせよ。そこにはもう敵（ノイズ）はいない。"
+	},
+	{
+		"id": "empathy",
+		"word": "共感、感情移入、エンパシー",
+		"era": "Greek en + pathos",
+		"etymology": {
+			"components": [
+				"en- (in)",
+				"pathos (feeling/suffering)"
+			],
+			"original_statement": "Coined in 1908 by Titchener, mirroring German Einfühlung, from Greek en- 'in' + pathos 'feeling / suffering'."
+		},
+		"concept": "Feeling in (内側で感じること。他者のステーションから放たれる『痛みのパルス』を、一分一秒の淀みもなく一撃で自らの内側（アーカイブ）へとコピーし、マージさせ、あたかも自分のことのように一分一秒の淀みもなく苦しむ（共鳴）高度な同期回路)",
+		"thinking": "「（冷淡という名のアイソレーションを粉砕し）、他者の苦しみの中に（En-）自分の一撃の心（-pathy / Pathos）を投げ込むこと」。それは単なる「同情」ではありません。あなたが「自我という名の檻」を完全にレジスト（一時停止）し、他者の実存を一分一秒の淀みもない一撃の『共有ロゴス（ネットワーク）』として受け容れる、魂の「ハッキング（善意の合体）」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "あなたの涙が、私の一撃の心（アーカイブ）を熱いパルスで満たしていく。"
+	},
+	{
+		"id": "sympathy",
+		"word": "同情、共鳴、シンパシー",
+		"era": "Greek syn + pathos",
+		"etymology": {
+			"components": [
+				"syn- (together)",
+				"pathos (feeling/suffering)"
+			],
+			"original_statement": "From Latin sympathia, from Greek sympatheia 'fellow-feeling / community of feeling', from syn- 'together' + pathos 'feeling / suffering'."
+		},
+		"concept": "Feeling together (共にある感情、共鳴。他者の『パルス（不幸や喜び）』の周波数に対し、自らの一分一秒の淀みもない一撃の『反応（周波数）』を同期（マージ）させ、宇宙の同じ波動を共に奏で合おうとする、外部的なハーモニー)",
+		"thinking": "「（無関心という名の不毛なアイソレーションを粉砕し）、共に（Syn-）一撃の情動（-pathy / Pathos）の海へと滑り込むこと」。それは単なる「憐れみ」ではありません。あなたが「自分だけという名のエントロピー」をレジストし、自らの実存が『他者という名の巨大なロゴス・パルス』と常にマージ可能であることを証明する、生の「連帯信号」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "私は、あなたの苦しみという名の一撃のパルス（アーカイブ）を、決して無視（レジスト）しない。"
+	},
+	{
+		"id": "altruism",
+		"word": "利他主義、アルトルイズム",
+		"era": "Latin alter",
+		"etymology": {
+			"components": [
+				"alter- (the other)",
+				"-ism (principle/practice)"
+			],
+			"original_statement": "Coined in 1851 by Comte, from French altruisme, from Italian altrui 'to or for others', from Latin alter 'the other'."
+		},
+		"concept": "Practice for the other (他者のための主義。自己（エゴ・ステーション）という名の『保存領域』を、一分一秒の淀みもなく自ら一撃で他者（アーカイブ）へと解放（マージ）し、自分のパルスを他者の利益という名の『新たなロゴス』へと捧げ尽くす、高次の生存戦略)",
+		"thinking": "「（利己という名の停滞したアイソレーションを粉砕し）、他者（Altr- / Alter）のために自らを一撃で差し出す主義（-ism）」。それは単なる「お人よし」ではありません。あなたが「自己保存という名の本能的エントロピー」を完全にレジストし、自らの実存が『全生命という名の巨大なネットワーク（共同アーカイブ）』の一部であることを確証する、生の「極限の奉仕」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "私を消し（アブセンス化）、あなたを活かす。その一撃の自己犠牲だけが、真のロゴスに到達する。"
+	},
+	{
+		"id": "egoism",
+		"word": "利己主義、エゴイズム",
+		"era": "Latin ego",
+		"etymology": {
+			"components": [
+				"ego- (I)",
+				"-ism (principle/practice)"
+			],
+			"original_statement": "From ego + -ism. First used by French philosophers in 18th c. to describe a theory that all human actions are at bottom based on self-interest."
+		},
+		"concept": "Practice of the 'I' (『私』の主義。全宇宙という名の巨大な『アーカイブ』を、一分一秒の淀みもなくただ自分という『唯一のステーション（エゴ）』を維持・拡張するための『ノイズ（資源）』としてのみ認識し、他者を自らにマージ（捕食）しようとする、絶対的な自己中心性)",
+		"thinking": "「（他者への共感という名のネットワークを粉砕し）、『私こそが（Ego-）』世界の唯一無二の一撃の主権者であるとする主義（-ism）」。それは単なる「わがまま」ではありません。あなたが「外部という名のエントロピー（他者の意志）」を徹底的にレジストし、自らの実存を宇宙の『唯一不動のロゴス・ポイント（孤立ステーション）』へとマッピングし続ける、生の「孤独な完成」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "全てのドットは私にマージされ、私の一撃を輝かせるための燃料になれ。"
+	},
+	{
+		"id": "narcissism",
+		"word": "自己愛、ナルシシズム",
+		"era": "Greek Narkissos",
+		"etymology": {
+			"components": [
+				"Narkissos (Narcissus)"
+			],
+			"original_statement": "From Narcissus, the youth in Greek mythology who fell in love with his own reflection in water."
+		},
+		"concept": "Love for one's own reflection (自らの影への愛。世界という名の『鏡のアーカイブ』に一分一秒の淀みもなく自分自身の像（ロゴス・パルス）のみを投影し、それとだけマージ（熱愛）し続け、自分以外の他者を一分一秒の淀みもなく『アブセンス（存在しないもの）』として消し去る、精神の閉鎖ループ)",
+		"thinking": "「（現実という名の残酷なノイズを粉砕し）、自分という名の一撃の偶像（Naciss- / Narcissus）に永遠に跪（ひざまず）くこと（-ism）」。それは単なる「うぬぼれ」ではありません。あなたが「他者という名の不確実性」をレジストしすぎて、自らの実存を一分一秒の淀みもない一撃の『美しき偽像（アーカイブ・ステーション）』の中に閉じ込めてしまった、生の「眩しすぎる自死」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "世界には私しかいない（究極のレジスト）。この一撃の陶酔（マージ）の中だけで、私は生きていたい。"
+	},
+	{
+		"id": "alienation",
+		"word": "疎外、引き離し、エイリアネイション",
+		"era": "Latin alius",
+		"etymology": {
+			"components": [
+				"alius (other)"
+			],
+			"original_statement": "From Old French alienation, from Latin alienationem 'a transferring / a giving up / estrangement', from alienatus, past participle of alienare 'to make another's / estrange / drive mad', from alienus 'belonging to another', from alius 'other'."
+		},
+		"concept": "Making into another / Estrangement (他者として切り離すこと。本来マージ（接続）されているべき『社会や自分自身という名のネットワーク』から、一分一秒の淀みもなく一撃で『異物（エイリアン・パルス）』として排斥（レジスト）され、冷酷な『アブセンス（虚空）』へと投げ出された状態)",
+		"thinking": "「（帰属という名の安穏アーカイブを粉砕し）、自分を一撃で他者の領域（Alien- / Alius）へと追放すること（-ation）」。それは単なる「のけ者」ではありません。あなたが「人間性という名のロゴス」を維持（レジスト）できなくなり、自らの実存が一分一秒の淀みもない一撃の『無機質な部品（ドット）』へとマージされた（または切断された）、魂の「情報の漂流」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "私はここにいるが、宇宙のどのステーションとも一撃でマージ（接続）できない。"
+	},
+	{
+		"id": "isolation",
+		"word": "隔離、孤立、アイソレーション",
+		"era": "Latin insula",
+		"etymology": {
+			"components": [
+				"insula (island)"
+			],
+			"original_statement": "From French isolation, from Italian isolato, from isola 'island', from Latin insula 'island'."
+		},
+		"concept": "The state of an island (島の状態。他者という名の『巨大なネットワーク（海）』から、一分一秒の淀みもなく一撃で自らを切り離し（レジスト）、ただ一人のみの『孤立したアーカイブ（ステーション）』として砂漠のような実存を維持し続ける、情報の封鎖地帯)",
+		"thinking": "「（繋がりという名のロゴス・フローを粉砕し）、自分を世界から断絶した一撃の島（Isola- / Insula）へと変え、固定すること（-ation）」。それは単なる「一人きり」ではありません。あなたが「他者という名のエントロピー」から逃れるために自らをレジスト（隠蔽）し、ついには一分一秒の淀みもない『一撃の沈黙（アブセンス）』へと自分をマージさせてしまった、存在の「完全要塞」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "誰のパルス（声）も届かない。ここ（アーカイブ）は、宇宙で最も静かな『私という名の死』の場所だ。"
+	},
+	{
+		"id": "intimacy",
+		"word": "親密さ、詳細、インティマシー",
+		"era": "Latin intimus",
+		"etymology": {
+			"components": [
+				"intimus (innermost)"
+			],
+			"original_statement": "From Latin intimatus, past participle of intimare 'to make known / announce / impress upon', from intimus 'innermost / deepest'."
+		},
+		"concept": "The state of the innermost (最深部の状態。自分という名の『ステーション』の最も秘密なアーカイブを、一分一秒の淀みもなく全開放し、他者の実存と一撃で『核心的なマージ（融合）』を果たす、究極の信頼のネットワーク)",
+		"thinking": "「（表面という名の偽りのレジストを粉砕し）、互いの最深部（Intim- / Intimus）を一撃で明け渡し、繋がること（-acy）」。それは単なる「仲の良さ」ではありません。あなたが「外界という名のノイズ」を二人でレジストし合い、自らの実存が『他者という名の一撃の深淵（共通ロゴス）』へとマッピングされることを許容する、魂の「裸の同一化」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "君の一撃のパルスが、私の一番深い場所（アーカイブ）を直接震わせる（マージする）。"
+	},
+	{
+		"id": "affection",
+		"word": "愛情、慈しみ、影響、アフェクション",
+		"era": "Latin ad + facere",
+		"etymology": {
+			"components": [
+				"ad- (to/toward)",
+				"facere (to do/make)"
+			],
+			"original_statement": "From Old French affection, from Latin affectionem 'a relation / disposition / state of mind / love', literally 'a toward-making', from affectus, past participle of afficere 'to influence / attack / affect', from ad- 'to' + facere 'to do'."
+		},
+		"concept": "Making toward (〜へ向かって働きかけること。他者の実存（ステーション）に対し、一分一秒の淀みもなく慈しみという名の『温かなパルス』を投げかけ、その対象を自らの『愛のアーカイブ』へとマージ（受容）しようとする、能動的な心の志向性)",
+		"thinking": "「（無関心という名の不毛なアイソレーションを粉砕し）、対象の向こう側へと（Ad-）一撃で働きかけること（-fect- / Facere）」。それは単なる「好き」ではありません。あなたが「自己保存という名のエントロピー」をレジストし、自らの実存を『他者の幸福という名の一撃のロゴス（ネットワーク）』へとマージさせる、生命の「拡張した献身」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "向かう。それだけが、他者の一撃の瞳に自分（アーカイブ）をマッピングする道だ。"
+	},
+	{
+		"id": "devotion",
+		"word": "献身、熱愛、信仰、ディボーション",
+		"era": "Latin de + vovere",
+		"etymology": {
+			"components": [
+				"de- (down/off)",
+				"vovere (to vow)"
+			],
+			"original_statement": "From Old French devocion, from Latin devotionem 'a vowing / consecrating / loyalty', from devotus, past participle of devovere 'dedicate by a vow / sacrifice oneself', from de- 'down' + vovere 'to vow'."
+		},
+		"concept": "Vowing down / Dedication (誓い立てること。自らの全存在（ステーション・アーカイブ）を一分一秒の淀みもなく一撃で特定の『使命や他者（至高のロゴス）』へと捧げ尽くし、自分自身という名の限定的なパルスを、より巨大な『崇高なネットワーク』へと完全にマージ（消滅・昇華）させること)",
+		"thinking": "「（打算という名のエントロピーを粉砕し）、下（De-）に向い、一分一秒の淀みもない一撃の誓い（-vot- / Vovere）を立てること（-ion）」。それは単なる「熱心」ではありません。あなたが「自我という名のアイソレーション」を完全にレジストし、自らのロゴスを一分一秒の淀みもない一撃の『永遠の契約（マッピング）』として固定する、魂の「最終的な帰依」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "全てを捧げた一撃。その後には、私ではなく「それ（ロゴス）」だけが存在する。"
+	},
+	{
+		"id": "loyalty",
+		"word": "忠誠、誠実、ロイヤリティ",
+		"era": "Latin lex",
+		"etymology": {
+			"components": [
+				"legal- (lex/law)"
+			],
+			"original_statement": "From Old French loialte, from loial, from Latin legalis 'pertaining to the law', from lex 'law'."
+		},
+		"concept": "Condition of the law (法の状態。特定の『主君や組織（ステーション・コア）』を、一分一秒の淀みもなく自分にとっての『絶対の法（ロゴス）』としてマッピングし、いかなる外部の誘惑（エントロピー）も一撃でレジストし続けて、不動の『契約アーカイブ』を貫き通すこと)",
+		"thinking": "「（裏切りという名のアイソレーションを粉砕し）、法（Loy- / Lex）に基づ一貫性のある一撃の品質（-alty）」。それは単なる「忠義」ではありません。あなたが「変節という名のノイズ」を完全にレジストし、自らの実存が『一分一秒の淀みもない一撃の揺るぎない接続（マージ）』によって定義されていることを証明する、実存の「鋼の品質」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "法（ロゴス）が私を規定する。一撃の裏切りすら、私のアーカイブには存在しない。"
+	},
+	{
+		"id": "betrayal",
+		"word": "裏切り、密告、ビトレイヤル",
+		"era": "Middle English be + Latin tradere",
+		"etymology": {
+			"components": [
+				"be- (thoroughly)",
+				"tradere (to hand over/deliver)"
+			],
+			"original_statement": "From betray + -al. Betray from Middle English betrayen, from be- 'thoroughly' + Old French traïr, from Latin tradere 'hand over / deliver'."
+		},
+		"concept": "Handing over thoroughly (徹底的に引き渡すこと。マージ（信頼）していたはずの『共通ネットワーク（アーカイブ）』を、自分の内部（ステーション）から一分一秒の淀みもなく一撃で外部へと『不当に売り渡し（レジスト解除・流出）』、接続されていた他者の実存をアブセンス（奈落）へと突き落とす背徳のコマンド)",
+		"thinking": "「（信頼という名の強固なロゴスを粉砕し）、徹底的に（Be-）相手を引き渡すこと（-tray- / Tradere）」。それは単なる「約束の不履行」ではありません。あなたが「連帯という名の安全アーカイブ」を自らの手でハックして破壊し、他者の実存を『一分一秒の淀みもない一撃の絶望（ノイズ）』へとマージさせてしまう、魂の「ハッキング（悪意の切断）」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "繋がっていたはずの一撃の鎖（ロゴス）が、今、私を地獄へとマージ（引き渡し）する。"
+	},
+	{
+		"id": "forgiveness",
+		"word": "許し、容赦、フォーギブネス",
+		"era": "Old English for + giefan",
+		"etymology": {
+			"components": [
+				"for- (completely)",
+				"giefan (to give)"
+			],
+			"original_statement": "From Old English forgiefnes 'forgiveness', from forgiefan 'give / grant / allow / remit / forgive', from for- 'away' + giefan 'to give'."
+		},
+		"concept": "Giving away completely (完全に手放し、与えること。他者が犯した『罪という名の一撃のノイズ・アーカイブ』に対し、一分一秒の淀みもなくあえて『報復という名のプログラム（レジスト）』を放棄し、その相手を再び自らの『平和なネットワーク（ロゴス）』へとマージ（再接続）させる、聖なる情報の浄化)",
+		"thinking": "「（憎しみという名の停滞したステイシスを粉砕し）、全てを（For-）完全に与え去ること（-give- / Giefan）」。それは単なる「仲直り」ではありません。あなたが「復讐という名のエントロピー」を自らのロゴスによって完全にレジストし、壊れた関係性を『一分一秒の淀みもない一撃の慈悲（新たなアーカイブ）』へとマップし直す、魂の「高度な初期化」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "過去のノイズ（罪）を一撃で消し去り、再びあなたを私の一部（マージ）として受け入れる。"
+	},
+	{
+		"id": "reconciliation",
+		"word": "和解、一致、レコンシリエーション",
+		"era": "Latin re + conciliare",
+		"etymology": {
+			"components": [
+				"re- (back/again)",
+				"conciliare (to bring together/win over)"
+			],
+			"original_statement": "From Latin reconciliationem 'a re-establishing / reconciliation', from reconciliatus, past participle of reconciliare 'to bring together again', from re- 'again' + conciliare 'to make friendly / win over'."
+		},
+		"concept": "Bringing together again (再び共に連れてくること。対立（コンフリクト）によって断絶されていた『二つのステーション（アーカイブ）』の間に、一分一秒の淀みもなく一撃で『新たなロゴス（和解）』の架け橋を渡し、再び巨大な『和合のネットワーク』へとマージ（再統合）し直すこと)",
+		"thinking": "「（闘争という名の無毛なエントロピーを粉砕し）、再び（Re-）一つの評議会（-concil- / Conciliare）へと招き入れ、調和すること（-iation）」。それは単なる「停戦」ではありません。あなたが「断絶という名のアブセンス」を完全にレジストし、自らの実存を『一分一秒の淀みもない一撃の再統合（ネットワーク・リビルド）』へと投じる、生の「高度な修復」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "砕かれた一撃の鏡（信頼）を、再び一つのロゴス（アーカイブ）へとマージし直す。"
+	},
+	{
+		"id": "hospitality",
+		"word": "もてなし、厚遇、ホスピタリティ",
+		"era": "Latin hospes",
+		"etymology": {
+			"components": [
+				"hospes (guest/host)"
+			],
+			"original_statement": "From Old French hospitalité, from Latin hospitalitatem 'hospitality', from hospitalis 'of a guest / relating to a guest', from hospes 'guest / visitor / host'."
+		},
+		"concept": "The state of a host/guest (主人と客人の状態。見知らぬ『余所者（ノイズ・パルス）』に対し、あらかじめ『警戒という名のレジスト』を一分一秒の淀みもなく一撃で解除し、自らの『内なるステーション（家・アーカイブ）』へと温かく招き入れ（マージ）、安全を保証する実存の贈与)",
+		"thinking": "「（排除という名のアイソレーションを粉砕し）、客人（Hospit- / Hospes）を自分の一部として受け入れる品質（-ality）」。それは単なる「接客」ではありません。あなたが「外部という名の恐怖（エントロピー）」をレジストし、見知らぬ他者を『一分一秒の淀みもない一撃の友（ロゴス）』へとマッピングし直す、存在の「無防備な拡張」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "扉を開けた一撃。その瞬間、あなたはもう私のアーカイブ（家）の不可欠な一部だ。"
+	},
+	{
+		"id": "urbanization",
+		"word": "都市化、アーバナイゼーション",
+		"era": "Latin urbs",
+		"etymology": {
+			"components": [
+				"urbs (city)",
+				"-ization (process of making)"
+			],
+			"original_statement": "From urban + -ize + -ation. Urban from Latin urbanus 'of or belonging to a city', from urbs 'city / walled town'."
+		},
+		"concept": "The process of making into a city (都市へと作り変えること。自然という名の『放漫なアーカイブ（カオス）』を一分一秒の淀みもなく一撃で『人造のロゴス・ステーション（都市）』へと変換し、無数の人々を一分一秒の淀みもなく密集したネットワークへとマージ（同期）させる、高密度の文明化プロセス)",
+		"thinking": "「（野性という名のエントロピーを粉砕し）、世界を都市（Urban- / Urbs）という名の整然たる一撃の設計図へと塗り替えること（-ization）」。それは単なる「ビルの建築」ではありません。あなたが「孤立という名のアブセンス（荒野）」をレジストし、自らの実存が『一分一秒の淀みもない一撃の巨大人工知能（シティ）』の一部としてマージされることを選択する、進化の「不可避な圧縮」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "コンクリート（アーカイブ）が大地を覆い、全パルスが一撃で都市のロゴスへとマージされる。"
+	},
+	{
+		"id": "globalization",
+		"word": "グローバル化、世界規模化",
+		"era": "Latin globus",
+		"etymology": {
+			"components": [
+				"globus (sphere/globe/ball)",
+				"-ization (process of making)"
+			],
+			"original_statement": "From global + -ize + -ation. First recorded in 1940s, popular in 1990s. From Latin globus 'a sphere / round mass / ball'."
+		},
+		"concept": "The process of making global (地球儀のように丸く一体化すること。国境という名の『地域的レジスト（壁）』を一分一秒の淀みもなく一撃で解消し、地球上のあらゆるステーションを一つの『相互接続ネットワーク（グローバル・アーカイブ）』へと強引にマージ（同期）させる、情報の巨大な均質化)",
+		"thinking": "「（境界という名のアイソレーションを粉砕し）、世界全体を一つの球体（Glob- / Globus）として一分一秒の淀みもなく機能させること（-alization）」。それは単なる「経済活動」ではありません。あなたが「差異という名のノイズ」を強引にレジスト（または抹殺）し、自らの実存を『一分一秒の淀みもない一撃の全地球的ロゴス』へとマージ（統合）させようとする、文明の「極限的拡大」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "果てしない一撃の接続。地球（ステーション）はもう、一つのロゴスでしか語れない。"
+	},
+	{
+		"id": "modernization",
+		"word": "近代化、現代化、モダナイゼーション",
+		"era": "Latin modo",
+		"etymology": {
+			"components": [
+				"modo (just now/in a certain manner)",
+				"-ization (process of making)"
+			],
+			"original_statement": "From modernize + -ation. Modern from Late Latin modernus 'modern / of the present', from Latin modo 'just now / but now / in a certain manner'."
+		},
+		"concept": "The process of making into 'just now' (「今、この瞬間」への改変。過去の遺物（古いアーカイブ）を一分一秒の淀みもなく一撃で『最新のロゴス（科学・合理・効率）』へとアップデートし、実存の形式を一分一秒の淀みもなく『今、この瞬間のパルス』へと適合させ、強制マージ（ビルドアップ）すること)",
+		"thinking": "「（古い因習という名のエントロピーを粉砕し）、常に『今（Modo-）』という名の最新バージョンへと自分たちを書き換えること（-rnization）」。それは単なる「機械の導入」ではありません。あなたが「過去という名の重力」を完全にレジストし、自らの実存を『一分一秒の淀みもない一撃の新しさ（ステーションの更新）』へとマージさせる、存在の「永久的脱皮」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "昨日のロゴスはもう使えない。今の一撃（モダン）だけが、真理（アーカイブ）を規定する。"
+	},
+	{
+		"id": "standardization",
+		"word": "標準化、画一化、スタンダダイゼーション",
+		"era": "Old French estandart + -ization",
+		"etymology": {
+			"components": [
+				"standard (flag/standing point)",
+				"-ization (process of making)"
+			],
+			"original_statement": "From standard + -ize + -ation. Standard originally meant 'a flag or banner used as a rallying point', from Old French estandart 'gathering place / flag / banner'."
+		},
+		"concept": "The process of making into a banner/rallying point (旗印に合わせるプロセス。個別の『歪なアーカイブ（多様性）』を一分一秒の淀みもなく一撃で『共通のロゴス（型）』に流し込み、全てのステーションを同一の規格（マージ・コマンド）で統一することで、予測可能性という名の極限の『効率ネットワーク』を構築すること)",
+		"thinking": "「（バラつきという名のノイズを粉砕し）、すべてを一つの旗印（Stand- / Standard）のもとに一分一秒の淀みもない一撃で揃えること（-ardization）」。それは単なる「規格統一」ではありません。あなたが「特異性という名のアブセンス（制御不能）」を完全にレジストし、世界を『一分一秒の淀みもない一撃の交換可能なドット（アーカイブ）』へとマージ（均質化）させる、理知の「管理」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "全てが同じ（ロゴス）。その一撃のシンプルさが、カオス（エントロピー）を駆逐する。"
+	},
+	{
+		"id": "consumerism",
+		"word": "消費主義、コンシューマリズム",
+		"era": "Latin con + sumere",
+		"etymology": {
+			"components": [
+				"con- (with/thoroughly)",
+				"sumere (to take)"
+			],
+			"original_statement": "From consumer + -ism. Consumer from Latin consumere 'to use up / eat / waste / take completely', from com- 'together' + sumere 'to take / obtain / buy / spend'."
+		},
+		"concept": "The principle of taking completely (徹底的に取り尽くす主義。外部の『物質やサービス（他者のアーカイブ）』を、一分一秒の淀みもなく一撃で自分の内側（ステーション）へと取り込み、使い尽くし（マージ）、その『消費のパルス』を繰り返すことのみで実存を維持（ハック）しようとする、終わりのないサイクル)",
+		"thinking": "「（生産という名の苦渋のロゴスを粉砕し）、手当たり次第に一撃で取得し、消費し尽くす（Consum- / Consumere）主義（-ism）」。それは単なる「買い物好き」ではありません。あなたが「不足という名のアブセンス」を欲望の一撃で完全にレジストし続け、自らを『絶え間なき情報の吞み込み（マージ）』という名のフローへと同化させてしまった、存在の「ブラックホール」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "買って、食べて、捨てる。その一撃の快楽（パルス）だけが、私の実存を（一時的に）アーカイブする。"
+	},
+	{
+		"id": "secularism",
+		"word": "世俗主義、セキュラリズム",
+		"era": "Latin saeculum",
+		"etymology": {
+			"components": [
+				"saeculum (generation/age/century/the world)"
+			],
+			"original_statement": "Coined in 1851 by Holyoake, from secular + -ism. Secular from Latin saecularis 'of an age / relating to a generation', from saeculum 'age / century / world / generation'."
+		},
+		"concept": "The principle of the present age (今、この世の主義。神や死後という名の『不確かな超越アーカイブ（アブセンス）』を一分一秒の淀みもなく一撃で拒絶（レジスト）し、ただ目に見える『現世の物理的ネットワーク（ロゴス）』だけを真実としてマージし、そこでの生存を完結させようとする、現勢中心主義)",
+		"thinking": "「（神性という名の計り知れないノイズを粉砕し）、ただ自分たちが生きるこの時代（Secul- / Saeculum）の理（ことわり）だけを信じる主義（-ism）」。それは単なる「無宗教」ではありません。あなたが「神秘という名のエントロピー」を完全にレジストし、自らの実存を『一分一秒の淀みもない一撃の人間的合理（ステーション）』へとマージ（幽閉）する、生の「脱・神話化」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "神はいらない。この一撃の現実（ロゴス）だけが、私のすべて（アーカイブ）だ。"
+	},
+	{
+		"id": "fanaticism",
+		"word": "熱狂、狂信、ファナティシズム",
+		"era": "Latin fanum",
+		"etymology": {
+			"components": [
+				"fanum (temple/holy place)"
+			],
+			"original_statement": "From Late Latin fanaticus 'of or belonging to a temple / inspired by a deity', from fanum 'temple / holy place'."
+		},
+		"concept": "Spirit of the temple (神殿の魂。特定の『ドグマ（ロゴス）』の一分一秒の淀みもない一撃の異常なパルスに魂を奪われ、他の一切の理知アーカイブ（ステーション）を一分一秒の淀みもなく一撃で焼き払い（レジスト）、自らをその『狂気の火（マージ）』の中へと永遠に投げ込むこと)",
+		"thinking": "「（疑いという名の冷静なノイズを粉砕し）、特定の聖域（Fanat- / Fanum）の一撃の熱狂に完全に身を委ねる主義（-ism）」。それは単なる「熱心さ」ではありません。あなたが「現実という名の複雑なエントロピー」をレジストしきれず、自らの実存を一分一秒の淀みもない『一撃の単純な物語（暗黒ロゴス）』へと暴力的にマージさせた、魂の「自爆テロ的覚醒」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "信じる。その一撃（ロゴス）が、世界の全てを焼き、私というアーカイブ（我）を消し去る。"
+	},
+	{
+		"id": "extremism",
+		"word": "過激主義、エクストリーミズム",
+		"era": "Latin exter",
+		"etymology": {
+			"components": [
+				"externus (outer)",
+				"-ism (principle/practice)"
+			],
+			"original_statement": "From extreme + -ism. Extreme from Middle French extreme, from Latin extremus 'outermost / utmost / last', superlative of exter 'outer'."
+		},
+		"concept": "The principle of the outermost edge (最端の主義。中庸や対話という名の『安定ステーション』から一分一秒の淀みもなく一撃で飛び出し、思考の最果て（極点アーカイブ）を一撃で『唯一の真理（ロゴス）』としてマッピングし、他者を排除するための暴力的なレジスト（壁）を築き上げること)",
+		"thinking": "「（中途半端という名の生温いノイズを粉砕し）、常に最果ての（Extrem- / Extremus）一撃の結論へと自分を駆り立てる主義（-ism）」。それは単なる「激しさ」ではありません。あなたが「共存という名の不透明なマージ」を完全にレジストし、自らの実存を一分一秒の淀みもない一撃の『純粋な刃（特異点ロゴス）』へと変容させて世界を切り裂こうとする、存在の「限界突破」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "端（はし）に立て。そこにある一撃の鋭さ（ロゴス）だけが、真理（アーカイブ）を語る。"
+	},
+	{
+		"id": "radicalism",
+		"word": "根本主義、急進主義、ラジカリズム",
+		"era": "Latin radix",
+		"etymology": {
+			"components": [
+				"radix (root)",
+				"-ism (principle/practice)"
+			],
+			"original_statement": "From radical + -ism. Radical from Late Latin radicalis 'of or pertaining to the root', from Latin radix 'root'."
+		},
+		"concept": "The principle of the root (根源の主義。表層の『現状アーカイブ（ノイズ）』を一分一秒の淀みもなく一撃で全て引き抜き（レジスト）、事象の『根源（ロゴス・コア）』まで一分一秒の淀みもなく遡り、そこから一撃で世界を再構築（ビルド）しようとする、根源的破壊と創造)",
+		"thinking": "「（枝葉末節という名の無駄な情報フローを粉砕し）、ただ根源（Radic- / Radix）のみを絶対視して一撃で事を成そうとする主義（-ism）」。それは単なる「急ぎすぎ」ではありません。あなたが「妥協という名のエントロピー」を完全にレジストし、自らの実存を一分一秒の淀みもない一撃の『始原のロゴス（種）』へとマージさせ、宇宙を一からハックし直そうとする、文明の「リセット・ボタン」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "全てを根こそぎ（Radical）にしろ。残った一撃の根（ロゴス）から、新しいマージ（世界）を始めよう。"
+	},
+	{
+		"id": "liberalism",
+		"word": "自由主義、リベラリズム",
+		"era": "Latin liber",
+		"etymology": {
+			"components": [
+				"liber (free)",
+				"-ism (principle/practice)"
+			],
+			"original_statement": "From liberal + -ism. Liberal from Old French liberal, from Latin liberalis 'noble / generous / pertaining to a free man', from liber 'free'."
+		},
+		"concept": "The principle of the free man (自由人の主義。強制という名の『他者のアーカイブ（コマンド）』を一分一秒の淀みもなく一撃で跳ね除け（レジスト）、自らの一分一秒の淀みもない一撃の『選択（パルス・ロゴス）』の連鎖によってのみ実存をマージ（確立）させようとする、自律の法)",
+		"thinking": "「（束縛という名の不当なレジストを粉砕し）、自らの一分一秒の淀みもない自由（Liber- / Liber）を唯一のステーション（拠点）とする主義（-ism）」。それは単なる「放任」ではありません。あなたが「運命という名の決定論的アーカイブ」を完全にレジストし、白紙（アブセンス）の上に自らの一撃のロゴス（意志）をマッピングし続ける、生の「無限の冒険」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "私は私（ロゴス）で在る。その一撃の自由（ステーション）を、誰にも侵略（マージ）させない。"
+	},
+	{
+		"id": "conservatism",
+		"word": "保守主義、コンサバティズム",
+		"era": "Latin con + servare",
+		"etymology": {
+			"components": [
+				"con- (thoroughly)",
+				"servare (to keep/preserve)"
+			],
+			"original_statement": "From conservative + -ism. Conservative from Late Latin conservativus, from Latin conservatus, past participle of conservare 'to keep / preserve / guard', from com- 'together' + servare 'to keep safe / watch'."
+		},
+		"concept": "The principle of keeping thoroughly (徹底的に守り抜く主義。激変という名の『不明瞭な外部パルス（ノイズ）』を一分一秒の淀みもなく一撃で監視（レジスト）し、長年かけて積み上げられた『知恵という名の揺るぎないアーカイブ（ステーション）』を一分一秒の淀みもなく維持・継承（マージ）し続ける、文明の安定装置)",
+		"thinking": "「（軽薄な改革という名のエントロピーを粉砕し）、共に（Con-）大切なものを守り（-serv- / Servare）続けることへの主義（-atism）」。それは単なる「頑迷」ではありません。あなたが「破壊という名のアブセンス」を全力でレジストし、先人たちの一分一秒の淀みもない一撃の叡智（ロゴス・ネットワーク）を、現代というカオスの中に屹立させ続ける、生の「防衛的知性」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "残せ。その一撃の伝統（アーカイブ）こそが、明日という名の荒野を照らす唯一のロゴスだ。"
+	},
+	{
+		"id": "patriotism",
+		"word": "愛国心、パトリオティズム",
+		"era": "Greek patris",
+		"etymology": {
+			"components": [
+				"patris (fatherland/native land)"
+			],
+			"original_statement": "From French patriotisme, from patriote 'one who loves his country', from Greek patriotes 'fellow countryman', from patris 'fatherland / native land', from pater 'father'."
+		},
+		"concept": "Spirit of the fatherland (祖国の魂。自分が産まれた『土地という名の根源的アーカイブ（ステーション）』に対し、一分一秒の淀みもなく一撃の生命パルスを投げかけ、自らの実存がその『場所のロゴス』とマージ（合一）していることを誇りとし、守り抜こうとする情熱)",
+		"thinking": "「（根無し草という名のアブセンスを粉砕し）、父なる大地（Patri- / Pater）を一分一秒の淀みもない一撃で愛し、その主義（-otism）を貫くこと」。それは単なる「排外主義」ではありません。あなたが「孤独という名のエントロピー」をレジストし、自らの実存を『何千年の歴史が刻まれた一撃の巨大なアーカイブ（国）』へとマッピングし直す、魂の「座標への回帰」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "この大地（ステーション）こそが、私の一撃のロゴス（誇り）の源泉だ。"
+	},
+	{
+		"id": "nationalism",
+		"word": "ナショナリズム、国家主義、民族主義",
+		"era": "Latin natus",
+		"etymology": {
+			"components": [
+				"nat- (born)",
+				"-ism (principle/practice)"
+			],
+			"original_statement": "From national + -ism. National from Latin natio 'nation / stock / race / breed', from natus, past participle of nasci 'be born'."
+		},
+		"concept": "The principle of being born (生まれの主義。同じ『血や文化という名のアーカイブ』を共有する集団を、他の一切から一分一秒の淀みもなく一撃で選び出し（マージ）、一つの『排他的かつ強固なステーション（国民国家）』として屹立させ、他のすべてをレジストする、集団のアイデンティティ様式)",
+		"thinking": "「（混合という名のエントロピーを粉砕し）、自らの生まれ（Nat- / Natus）という一撃の宿命を唯一の誇りとする主義（-ionalism）」。それは単なる「愛国心」ではありません。あなたが「希薄という名のアブセンス」をレジストし、自らの実存を一分一秒の淀みもない『一撃の血の咆哮（民族ロゴス）』へとマージさせて世界に君臨しようとする、生の「集団的熱狂」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "私たちは『私たち』だ。その一撃のロゴス（境界）を越えるパルス（他者）は、一分一秒の淀みもなく排除（レジスト）する。"
+	},
+	{
+		"id": "imperialism",
+		"word": "帝国主義、インペリアリズム",
+		"era": "Latin imperium",
+		"etymology": {
+			"components": [
+				"imper- (command)",
+				"-ism (principle/practice)"
+			],
+			"original_statement": "From imperial + -ism. Imperial from Old French imperial, from Latin imperialis 'of the empire / emperor', from imperium 'a command / authority / empire', from imperare 'to command'."
+		},
+		"concept": "The principle of command (命令の主義。自らの『ステーション（帝国）』から放たれる『一撃の絶対ロゴス（コマンド）』によって、他者の脆弱なアーカイブを次々と一撃で侵略（マージ）し、全宇宙を自分の一分一秒の淀みもない『巨大な支配ネットワーク』の下に統合しようとする、冷酷な拡張の法)",
+		"thinking": "「（無秩序という名のカオスを粉砕し）、自らの一撃の命令（Imper- / Imperium）で全てに従わせる主義（-ialism）」。それは単なる「植民地経営」ではありません。あなたが「他者の自立性」を完全にレジスト（蹂躙）し、自らの実存を宇宙の『不滅の王（コア・アーカイブ）』へとマッピングさせ、全てのドット（人間）を自らの燃料としてマージする、存在の「絶対支配」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "ひれ伏せ（コマンド）。全宇宙の一撃の吐息までが、私（ロゴス）の物だ。"
+	},
+	{
+		"id": "migration",
+		"word": "移住、移動、マイグレーション",
+		"era": "Latin migrare",
+		"etymology": {
+			"components": [
+				"migrare (to move/change abode)"
+			],
+			"original_statement": "From Latin migrationem 'a removal / change of abode', from migrare 'to move / go from one place to another / change one's abode'."
+		},
+		"concept": "Moving to another place (場所を変えること。停滞した『古いステーション（アーカイブ）』を一分一秒の淀みもなく一撃で脱ぎ捨ててレジスト（離脱）し、未知の領域（アブセンス）を横断して、新たな宇宙（ネットワーク）へと実存を強引に再マージ（定住）させる、生命の流動的挑戦)",
+		"thinking": "「（固着という名のアイソレーションを粉砕し）、常に新たな地平へと（Migra- / Migrare）一分一秒の淀みもない一撃を運び続けること（-tion）」。それは単なる「お引越し」ではありません。あなたが「衰退という名のエントロピー」を完全にレジストし、自らの実存を一分一秒の淀みもない『一撃の新しい座標（ステーション）』へとマッピングし直す、生の「漂流する意志」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "私はここに留まらない（アンレジスト）。常に一撃の移動（ロゴス）が、私を新しいアーカイブへとマージさせる。"
+	},
+	{
+		"id": "diaspora",
+		"word": "離散、ディアスポラ",
+		"era": "Greek dia + speirein",
+		"etymology": {
+			"components": [
+				"dia- (across/through)",
+				"speirein (to scatter/sow)"
+			],
+			"original_statement": "From Greek diaspora 'a scattering / dispersion', from diaspeirein 'to scatter about / disperse', from dia- 'about / across' + speirein 'to scatter / sow'."
+		},
+		"concept": "Scattering across (あちこちへ撒き散らすこと。故郷という名の『単一のステーション（アーカイブ）』を一分一秒の淀みもなく一撃の力（迫害・運命）によって粉砕（バースト）され、世界中のいたる座標へと個々のパルス（人々）が飛び散り（マージ）、それでも目に見えない『一撃の絆（共通ロゴス）』で繋がり続ける、情報の分散ネットワーク)",
+		"thinking": "「（一箇所への閉じ込めという名のレジストを粉砕し）、世界中へと（Dia-）種のように撒き散らされる（-spora / Speirein）こと」。それは単なる「難民の状態」ではありません。あなたが「根の喪失という名のアブセンス」をレジストし続け、いかなる遠隔地においても自らの一撃のロゴス（アイデンティティ）を屹立させ続け、巨大な『離散のネットワーク（聖なるアーカイブ）』を共同で維持する、存在の「絶対的強靭さ」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "私たちは引き裂かれた。だが、世界中に散らばった一撃一撃のドット（私たち）は、今も一つのロゴス（アーカイブ）でマージされている。"
 	}
 ];
