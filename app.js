@@ -2123,8 +2123,9 @@ const SYNTH_PIECES = {
     ],
     suffixes: [
         { id: 'suf-ion', text: '-ion', meaning: 'act or state (こと、状態)', color: '#ef4444' },
-        { id: 'suf-able', text: '-able', meaning: 'capable of (できる)', color: '#ef4444' },
-        { id: 'suf-or', text: '-or', meaning: 'one who does (する人)', color: '#ef4444' },
+        { id: 'suf-tion', text: '-tion', meaning: 'act or process (行為、過程)', color: '#ef4444' },
+        { id: 'suf-able', text: '-able / -ible', meaning: 'capable of (できる)', color: '#ef4444' },
+        { id: 'suf-or', text: '-or / -er', meaning: 'one who does (する人)', color: '#ef4444' },
         { id: 'suf-ive', text: '-ive', meaning: 'tending to (〜の性質の)', color: '#ef4444' },
         { id: 'suf-al', text: '-al', meaning: 'relating to (〜に関する)', color: '#ef4444' },
         { id: 'suf-ous', text: '-ous', meaning: 'full of (〜に満ちた)', color: '#ef4444' },
@@ -2137,14 +2138,19 @@ const SYNTH_PIECES = {
         { id: 'suf-ism', text: '-ism', meaning: 'belief / practice (主義、慣行)', color: '#ef4444' },
         { id: 'suf-ist', text: '-ist', meaning: 'one who does (〜する人)', color: '#ef4444' },
         { id: 'suf-ize', text: '-ize', meaning: 'to make (〜化する)', color: '#ef4444' },
-        { id: 'suf-ic', text: '-ic', meaning: 'relating to (〜に関する)', color: '#ef4444' }
+        { id: 'suf-ic', text: '-ic', meaning: 'relating to (〜に関する)', color: '#ef4444' },
+        { id: 'suf-ity', text: '-ity', meaning: 'state or quality (性質、状態)', color: '#ef4444' },
+        { id: 'suf-ness', text: '-ness', meaning: 'state of being (〜である状態)', color: '#ef4444' },
+        { id: 'suf-ful', text: '-ful', meaning: 'full of (〜に満ちた)', color: '#ef4444' },
+        { id: 'suf-less', text: '-less', meaning: 'without (〜なしの)', color: '#ef4444' },
+        { id: 'suf-ly', text: '-ly', meaning: 'in the manner of (〜のように)', color: '#ef4444' }
     ]
 };
 
-window.synthState = { prefix: null, root: null, suffix: null };
+window.synthState = { prefix: null, root: null, suffix1: null, suffix2: null, suffix3: null };
 
 function renderSynthesizer() {
-    window.synthState = { prefix: null, root1: null, root2: null, suffix: null };
+    window.synthState = { prefix: null, root1: null, root2: null, suffix1: null, suffix2: null, suffix3: null };
 
     const renderPiece = (p, type) => {
         return `<div class="synth-piece" draggable="true" data-id="${p.id}" data-type="${type}" data-text="${p.text}" data-mean="${p.meaning}" data-color="${p.color}" 
@@ -2183,28 +2189,32 @@ function renderSynthesizer() {
                 <!-- Alchemy Table -->
                 <div style="flex:1.5 1 500px; display:flex; flex-direction:column; align-items:center; position:relative;">
                     
-                    <div style="background:var(--color-surface); padding:3rem 1.5rem; border-radius:24px; border:1px solid var(--color-border); box-shadow: 0 12px 40px rgba(0,0,0,0.5); width:100%; display:flex; justify-content:center; align-items:center; gap:1.5%; background-image: radial-gradient(circle at center, rgba(245,158,11,0.08) 0%, transparent 60%);">
-                        
-                        <div class="drop-zone" data-type="prefix" style="width:23%; aspect-ratio:1/1; max-height:130px; border:2px dashed #22c55e; border-radius:16px; display:flex; flex-direction:column; align-items:center; justify-content:center; transition:all 0.3s; position:relative; background:rgba(34,197,94,0.05);">
-                            <span style="opacity:0.4; font-size:0.8rem; text-align:center;">Prefix<br>(Opt)</span>
+                    <div style="background:var(--color-surface); padding:2rem 1.5rem; border-radius:24px; border:1px solid var(--color-border); box-shadow: 0 12px 40px rgba(0,0,0,0.5); width:100%; background-image: radial-gradient(circle at center, rgba(245,158,11,0.08) 0%, transparent 60%);">
+                        <div style="display:flex; justify-content:center; align-items:center; gap:1.5%; margin-bottom:1rem;">
+                            <div class="drop-zone" data-type="prefix" style="width:18%; aspect-ratio:1/1; max-height:110px; border:2px dashed #22c55e; border-radius:16px; display:flex; flex-direction:column; align-items:center; justify-content:center; transition:all 0.3s; position:relative; background:rgba(34,197,94,0.05);">
+                                <span style="opacity:0.4; font-size:0.75rem; text-align:center;">Prefix<br>(Opt)</span>
+                            </div>
+                            <div style="font-size:1.5rem; opacity:0.3; font-weight:300;">+</div>
+                            <div class="drop-zone" data-type="root" data-slot="1" style="width:18%; aspect-ratio:1/1; max-height:110px; border:2px dashed var(--color-premium); border-radius:16px; display:flex; flex-direction:column; align-items:center; justify-content:center; transition:all 0.3s; position:relative; background:rgba(245,158,11,0.05);">
+                                <span style="opacity:0.4; font-size:0.75rem; text-align:center;">Root 1<br>(Req)</span>
+                            </div>
+                            <div style="font-size:1.5rem; opacity:0.3; font-weight:300;">+</div>
+                            <div class="drop-zone" data-type="root" data-slot="2" style="width:18%; aspect-ratio:1/1; max-height:110px; border:2px dashed var(--color-premium); border-radius:16px; display:flex; flex-direction:column; align-items:center; justify-content:center; transition:all 0.3s; position:relative; background:rgba(245,158,11,0.05);">
+                                <span style="opacity:0.4; font-size:0.75rem; text-align:center;">Root 2<br>(Opt)</span>
+                            </div>
                         </div>
-                        
-                        <div style="font-size:1.5rem; opacity:0.3; font-weight:300;">+</div>
-                        
-                        <div class="drop-zone" data-type="root" data-slot="1" style="width:23%; aspect-ratio:1/1; max-height:130px; border:2px dashed var(--color-premium); border-radius:16px; display:flex; flex-direction:column; align-items:center; justify-content:center; transition:all 0.3s; position:relative; background:rgba(245,158,11,0.05);">
-                            <span style="opacity:0.4; font-size:0.8rem; text-align:center;">Root 1<br>(Reg)</span>
-                        </div>
-                        
-                        <div style="font-size:1.5rem; opacity:0.3; font-weight:300;">+</div>
-
-                        <div class="drop-zone" data-type="root" data-slot="2" style="width:23%; aspect-ratio:1/1; max-height:130px; border:2px dashed var(--color-premium); border-radius:16px; display:flex; flex-direction:column; align-items:center; justify-content:center; transition:all 0.3s; position:relative; background:rgba(245,158,11,0.05);">
-                            <span style="opacity:0.4; font-size:0.8rem; text-align:center;">Root 2<br>(Opt)</span>
-                        </div>
-                        
-                        <div style="font-size:1.5rem; opacity:0.3; font-weight:300;">+</div>
-                        
-                        <div class="drop-zone" data-type="suffix" style="width:23%; aspect-ratio:1/1; max-height:130px; border:2px dashed #ef4444; border-radius:16px; display:flex; flex-direction:column; align-items:center; justify-content:center; transition:all 0.3s; position:relative; background:rgba(239,68,68,0.05);">
-                            <span style="opacity:0.4; font-size:0.8rem; text-align:center;">Suffix<br>(Opt)</span>
+                        <div style="display:flex; justify-content:center; align-items:center; gap:1.5%;">
+                            <div class="drop-zone" data-type="suffix" data-slot="1" style="width:18%; aspect-ratio:1/1; max-height:110px; border:2px dashed #ef4444; border-radius:16px; display:flex; flex-direction:column; align-items:center; justify-content:center; transition:all 0.3s; position:relative; background:rgba(239,68,68,0.05);">
+                                <span style="opacity:0.4; font-size:0.75rem; text-align:center;">Suffix 1<br>(Opt)</span>
+                            </div>
+                            <div style="font-size:1.5rem; opacity:0.3; font-weight:300;">+</div>
+                            <div class="drop-zone" data-type="suffix" data-slot="2" style="width:18%; aspect-ratio:1/1; max-height:110px; border:2px dashed #ef4444; border-radius:16px; display:flex; flex-direction:column; align-items:center; justify-content:center; transition:all 0.3s; position:relative; background:rgba(239,68,68,0.05);">
+                                <span style="opacity:0.4; font-size:0.75rem; text-align:center;">Suffix 2<br>(Opt)</span>
+                            </div>
+                            <div style="font-size:1.5rem; opacity:0.3; font-weight:300;">+</div>
+                            <div class="drop-zone" data-type="suffix" data-slot="3" style="width:18%; aspect-ratio:1/1; max-height:110px; border:2px dashed #ef4444; border-radius:16px; display:flex; flex-direction:column; align-items:center; justify-content:center; transition:all 0.3s; position:relative; background:rgba(239,68,68,0.05);">
+                                <span style="opacity:0.4; font-size:0.75rem; text-align:center;">Suffix 3<br>(Opt)</span>
+                            </div>
                         </div>
                     </div>
                     
@@ -2256,16 +2266,18 @@ function setupDragAndDrop() {
             z.style.background = '';
             try {
                 const data = JSON.parse(e.dataTransfer.getData('text/plain'));
-                if (z.dataset.type === data.type) {
+                const zoneType = z.dataset.type;
+                // Allow suffix into suffix slots, root into root slots, prefix into prefix slot
+                if (zoneType === data.type || (zoneType === 'suffix' && data.type === 'suffix') || (zoneType === 'prefix' && data.type === 'prefix')) {
                     const slot = z.dataset.slot;
-                    const stateKey = slot ? (data.type + slot) : data.type;
+                    const stateKey = slot ? (zoneType + slot) : zoneType;
                     window.synthState[stateKey] = data;
 
                     // Update visual in drop zone
                     z.innerHTML = `
-                        <div style="color:${data.color}; font-size:1.1rem; font-weight:bold; margin-bottom:5px; text-align:center;">${data.text}</div>
-                        <div style="color:var(--color-text-dim); font-size:0.7rem; text-align:center; line-height:1.2;">${data.mean}</div>
-                        <button onclick="clearSynthSlot('${data.type}', ${slot || 'null'})" style="position:absolute; top:5px; right:5px; background:none; border:none; color:rgba(255,255,255,0.5); cursor:pointer;">✕</button>
+                        <div style="color:${data.color}; font-size:1rem; font-weight:bold; margin-bottom:5px; text-align:center;">${data.text}</div>
+                        <div style="color:var(--color-text-dim); font-size:0.65rem; text-align:center; line-height:1.2;">${data.mean}</div>
+                        <button onclick="clearSynthSlot('${zoneType}', ${slot || 'null'})" style="position:absolute; top:5px; right:5px; background:none; border:none; color:rgba(255,255,255,0.5); cursor:pointer;">✕</button>
                     `;
                     z.style.borderStyle = 'solid';
                 } else {
@@ -2284,76 +2296,234 @@ window.clearSynthSlot = function (type, slot) {
 
     let label = "Drop Piece";
     if (type === 'prefix') label = "Prefix<br>(Opt)";
-    if (type === 'root') label = slot === 1 ? "Root 1<br>(Reg)" : "Root 2<br>(Opt)";
-    if (type === 'suffix') label = "Suffix<br>(Opt)";
+    if (type === 'root') label = slot == 1 ? "Root 1<br>(Req)" : "Root 2<br>(Opt)";
+    if (type === 'suffix') label = `Suffix ${slot || ''}<br>(Opt)`;
 
-    z.innerHTML = `<span style="opacity:0.4; font-size:0.8rem; text-align:center;">${label}</span>`;
+    z.innerHTML = `<span style="opacity:0.4; font-size:0.75rem; text-align:center;">${label}</span>`;
     z.style.borderStyle = 'dashed';
 };
 
+// --- Fuzzy matching helper ---
+function synthLevenshtein(a, b) {
+    const m = a.length, n = b.length;
+    const dp = Array.from({ length: m + 1 }, (_, i) => Array(n + 1).fill(0));
+    for (let i = 0; i <= m; i++) dp[i][0] = i;
+    for (let j = 0; j <= n; j++) dp[0][j] = j;
+    for (let i = 1; i <= m; i++)
+        for (let j = 1; j <= n; j++)
+            dp[i][j] = Math.min(dp[i - 1][j] + 1, dp[i][j - 1] + 1, dp[i - 1][j - 1] + (a[i - 1] !== b[j - 1] ? 1 : 0));
+    return dp[m][n];
+}
+
+function findSimilarWords(combined, parts) {
+    if (typeof WORDS === 'undefined') return [];
+    const partTexts = parts.map(p => p.text.replace(/[-\/]/g, '').trim().toLowerCase().split(/\s+/)[0]);
+    const scored = [];
+
+    for (const w of WORDS) {
+        const wl = (w.word || '').toLowerCase();
+        if (!wl || wl.length < 3) continue;
+
+        // Score based on component matching
+        let componentScore = 0;
+        for (const pt of partTexts) {
+            if (pt.length >= 2 && wl.includes(pt)) componentScore += 3;
+            else if (pt.length >= 3 && wl.includes(pt.substring(0, 3))) componentScore += 1;
+        }
+
+        // Score based on Levenshtein distance
+        const dist = synthLevenshtein(combined, wl);
+        const maxLen = Math.max(combined.length, wl.length);
+        const similarity = 1 - (dist / maxLen);
+
+        // Combined score
+        const totalScore = componentScore * 2 + similarity * 5;
+
+        if (componentScore >= 1 || similarity >= 0.6) {
+            scored.push({ word: w.word, id: w.id, score: totalScore, componentScore, similarity });
+        }
+    }
+
+    scored.sort((a, b) => b.score - a.score);
+    return scored.slice(0, 8);
+}
+
+// --- Phonetic variation generator ---
+function generatePhoneticVariants(pre, r1, r2, suf1, suf2, suf3) {
+    const variants = new Set();
+    const rootPart = r1 + r2;
+    const suffPart = suf1 + suf2 + suf3;
+    const base = pre + rootPart + suffPart;
+    variants.add(base);
+
+    // Prefix assimilation rules
+    const prefixRules = [
+        // in- assimilation
+        [/^in(?=[mlbp])/, (m) => 'im' + m.slice(2)],
+        [/^in(?=[lr])/, (m) => 'il' + m.slice(2)],
+        [/^in(?=[r])/, (m) => 'ir' + m.slice(2)],
+        // ad- assimilation
+        [/^ad(?=[cfgklnpqrst])/, (m) => m[2] + m[2] + m.slice(3)],
+        // com- assimilation
+        [/^com(?=[lrv])/, (m) => 'co' + m.slice(3)],
+        [/^com(?=[bmp])/, (m) => 'com' + m.slice(3)],
+        [/^con(?=[lbmp])/, (m) => 'com' + m.slice(3)],
+        // ex- assimilation
+        [/^ex(?=[fsc])/, (m) => 'e' + m.slice(2)],
+        // dis- reduction
+        [/^dis(?=[fsl])/, (m) => 'di' + m.slice(3)],
+        // sub- assimilation
+        [/^sub(?=[cfgmprt])/, (m) => 'su' + m[3] + m.slice(3)],
+    ];
+
+    for (const [regex, transform] of prefixRules) {
+        if (regex.test(base)) {
+            variants.add(transform(base));
+        }
+    }
+
+    // Suffix joining variations (e.g., vis + ible = visible, not visible)
+    // Remove duplicate vowels at junction points
+    if (rootPart && suffPart) {
+        const lastRoot = rootPart[rootPart.length - 1];
+        const firstSuf = suffPart[0];
+        // If root ends with same letter suffix starts with, deduplicate
+        if (lastRoot === firstSuf) {
+            variants.add(pre + rootPart + suffPart.slice(1));
+        }
+        // e-drop: if root ends with 'e' and suffix starts with vowel
+        if (lastRoot === 'e' && 'aeiou'.includes(firstSuf)) {
+            variants.add(pre + rootPart.slice(0, -1) + suffPart);
+        }
+    }
+
+    // -able / -ible alternation
+    for (const v of [...variants]) {
+        if (v.includes('able')) variants.add(v.replace('able', 'ible'));
+        if (v.includes('ible')) variants.add(v.replace('ible', 'able'));
+        // -tion / -sion alternation
+        if (v.includes('tion')) variants.add(v.replace('tion', 'sion'));
+        if (v.includes('sion')) variants.add(v.replace('sion', 'tion'));
+        // -ence / -ance alternation
+        if (v.includes('ence')) variants.add(v.replace('ence', 'ance'));
+        if (v.includes('ance')) variants.add(v.replace('ance', 'ence'));
+        // -or / -er alternation
+        if (v.endsWith('or')) variants.add(v.slice(0, -2) + 'er');
+        if (v.endsWith('er')) variants.add(v.slice(0, -2) + 'or');
+        // Double consonant before suffix (e.g., transmit + ion = transmission)
+        if (rootPart && suffPart && 'bcdfgklmnprst'.includes(rootPart[rootPart.length - 1])) {
+            variants.add(pre + rootPart + rootPart[rootPart.length - 1] + suffPart);
+        }
+        // Remove trailing 't' before '-ion' (e.g., duct + ion = duction not duction)
+        if (rootPart.endsWith('t') && suffPart.startsWith('ion')) {
+            variants.add(pre + rootPart.slice(0, -1) + suffPart);
+        }
+    }
+
+    return [...variants].map(v => v.toLowerCase());
+}
+
 window.executeSynthesis = function () {
     const s = window.synthState;
-    if (!s.root1 && !s.root2 && !s.prefix && !s.suffix) {
+    if (!s.root1 && !s.root2 && !s.prefix && !s.suffix1 && !s.suffix2 && !s.suffix3) {
         showToast("錬成する要素を配置してください。");
         return;
     }
 
-    const pre = s.prefix ? s.prefix.text.replace('-', '') : '';
-    const r1 = s.root1 ? s.root1.text.split('/')[0].trim() : '';
-    const r2 = s.root2 ? s.root2.text.split('/')[0].trim() : '';
-    const suf = s.suffix ? s.suffix.text.replace('-', '') : '';
+    const cleanText = (piece) => {
+        if (!piece) return '';
+        return piece.text.split('/')[0].trim().replace(/^-|-$/g, '').replace(/\s+/g, '');
+    };
 
-    let combined = (pre + r1 + r2 + suf).toLowerCase();
+    const pre = cleanText(s.prefix);
+    const r1 = cleanText(s.root1);
+    const r2 = cleanText(s.root2);
+    const sf1 = cleanText(s.suffix1);
+    const sf2 = cleanText(s.suffix2);
+    const sf3 = cleanText(s.suffix3);
 
-    // Phonetic smoothing
-    if (pre === 'in' && ((r1 || r2).startsWith('m') || (r1 || r2).startsWith('p'))) combined = combined.replace('in', 'im');
-    if (pre === 'com' && ((r1 || r2).startsWith('r') || (r1 || r2).startsWith('l'))) combined = combined.replace('com', 'co');
-    if (pre === 'ad' && (r1 || r2).startsWith('t')) combined = combined.replace('ad', 'at');
+    // Generate all phonetic variants
+    const variants = generatePhoneticVariants(pre, r1, r2, sf1, sf2, sf3);
+    const primaryCombined = variants[0]; // The raw combination
 
     const resultBox = document.getElementById('synth-result');
     playSynthFx();
 
     setTimeout(() => {
-        const localDictionary = ['abduct', 'conduct', 'deduct', 'product', 'reduce', 'produce', 'induce', 'abstract', 'contract', 'distract', 'retract', 'attract', 'extract', 'inspect', 'prospect', 'respect', 'suspect', 'aspect', 'reject', 'project', 'inject', 'object', 'subject', 'emit', 'submit', 'commit', 'remit', 'transmit', 'reduction', 'production', 'induction', 'conduction', 'abstraction', 'contraction', 'extraction', 'attraction', 'inspection', 'respectable', 'projector', 'objection', 'commission', 'submission', 'emission', 'abductor', 'conductor', 'tractor', 'spectator', 'capture', 'capacity', 'generation', 'portable', 'export', 'import', 'projection', 'rejection', 'inspector'];
-
-        const parts = [s.prefix, s.root1, s.root2, s.suffix].filter(Boolean);
-        const meaningStrEn = parts.map(x => x.mean).join(' + ');
+        const parts = [s.prefix, s.root1, s.root2, s.suffix1, s.suffix2, s.suffix3].filter(Boolean);
         const meaningStrJa = parts.map(x => {
             const m = x.mean;
             const match = m.match(/（(.*?)）/);
             return match ? match[1] : m;
         }).join(' + ');
 
-        const isReal = localDictionary.includes(combined) || (typeof WORDS !== 'undefined' && WORDS.some(w => w.word?.toLowerCase() === combined));
+        // Check all variants against WORDS and local dictionary
+        let matchedWord = null;
+        let matchedVariant = null;
+
+        // Build word lookup
+        const wordMap = {};
+        if (typeof WORDS !== 'undefined') {
+            WORDS.forEach(w => { if (w.word) wordMap[w.word.toLowerCase()] = w; });
+        }
+
+        for (const v of variants) {
+            if (wordMap[v]) {
+                matchedWord = wordMap[v];
+                matchedVariant = v;
+                break;
+            }
+        }
 
         let html = '';
-        if (isReal) {
+        if (matchedWord) {
             html = `
                 <div style="color:var(--color-premium); font-size:1.2rem; font-weight:bold; margin-bottom:10px;">✨ Alignment Reached (真理への到達) ✨</div>
-                <h3 style="font-size:2.8rem; margin:10px 0; color:#fff; letter-spacing:1px; text-transform:capitalize;">${combined}</h3>
+                <h3 style="font-size:2.8rem; margin:10px 0; color:#fff; letter-spacing:1px; text-transform:capitalize;">${matchedWord.word}</h3>
                 <p style="font-size:1rem; opacity:0.8; margin-bottom:15px; font-style:italic;">"${meaningStrJa}"</p>
+                ${matchedVariant !== primaryCombined ? `<p style="font-size:0.85rem; opacity:0.5; margin-bottom:10px;">音韻変化: ${primaryCombined} → ${matchedVariant}</p>` : ''}
                 <div style="background:rgba(255,255,255,0.05); padding:1rem; border-radius:12px; display:inline-block; text-align:left; max-width:500px;">
                     <span style="color:var(--color-accent); font-weight:bold;">Discovery Unlocked.</span> この単語は実在します！
                     <br><br>
-                    <button class="chip" onclick="searchToArchive('${combined}')">アーカイブで詳細を見る →</button>
+                    <button class="chip" onclick="searchToArchive('${matchedWord.word.toLowerCase()}')">アーカイブで詳細を見る →</button>
                 </div>
             `;
         } else {
-            // Predict meaning
+            // Find similar existing words
+            const similar = findSimilarWords(primaryCombined, parts);
+
             const pred = parts.map(x => {
                 const m = x.mean;
                 const match = m.match(/（(.*?)）/);
                 return match ? match[1] : m;
-            }).join('すること、あるいは〜');
+            }).join(' + ');
+
+            let similarHtml = '';
+            if (similar.length > 0) {
+                similarHtml = `
+                    <div style="margin-top:1.5rem; padding-top:1.5rem; border-top:1px solid rgba(255,255,255,0.1);">
+                        <div style="color:var(--color-accent); font-weight:bold; margin-bottom:0.8rem; font-size:0.95rem;">🔍 同じパーツを含む実在する単語:</div>
+                        <div style="display:flex; flex-wrap:wrap; gap:8px; justify-content:center;">
+                            ${similar.map(sw => `
+                                <button class="chip" onclick="searchToArchive('${sw.word.toLowerCase()}')" style="border:1px solid var(--color-premium); color:var(--color-premium); background:rgba(245,158,11,0.1); font-size:0.9rem;">
+                                    ${sw.word}
+                                </button>
+                            `).join('')}
+                        </div>
+                    </div>
+                `;
+            }
 
             html = `
                 <div style="color:var(--color-text-dim); font-size:1.2rem; font-weight:bold; margin-bottom:10px;">🌀 Hypothetical Construct (仮説的構成) 🌀</div>
-                <h3 style="font-size:2.8rem; margin:10px 0; color:var(--color-text-dim); letter-spacing:1px; text-transform:capitalize;">*${combined}</h3>
-                <p style="font-size:1rem; opacity:0.8; margin-bottom:15px; font-style:italic;">"${meaningStrJa}"</p>
+                <h3 style="font-size:2.8rem; margin:10px 0; color:var(--color-text-dim); letter-spacing:1px; text-transform:capitalize;">*${primaryCombined}</h3>
+                <p style="font-size:1rem; opacity:0.8; margin-bottom:8px; font-style:italic;">"${meaningStrJa}"</p>
+                ${variants.length > 1 ? `<p style="font-size:0.8rem; opacity:0.4; margin-bottom:15px;">検索した変化形: ${variants.slice(0, 5).join(', ')}${variants.length > 5 ? '...' : ''}</p>` : ''}
                 <div style="background:rgba(255,255,255,0.05); padding:1rem; border-radius:12px; display:inline-block; text-align:left; max-width:500px; color:rgba(255,255,255,0.7);">
-                    この単語は一般的ではありませんが、語源的には完璧に成立します。<br>
-                    予測される意味: <b>「${pred}に関連する状態や行為」</b>
+                    この単語は一般的ではありませんが、語源的には成立します。<br>
+                    予測される意味: <b>「${pred}」</b>
                 </div>
+                ${similarHtml}
             `;
         }
 
