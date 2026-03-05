@@ -184336,5 +184336,700 @@ const WORDS = [
 		"thinking": "「（次元という名のエントロピー（檻）を粉砕し）、向こう側へ（Trans-）一分一秒の淀みもない一撃で登り（-scend- / Scandere）越えることの品質（-ence）」。それは単なる「すごい」ことではありません。あなたが「人間という名の致命的なレジスト」を一撃で完全に打ち破り、自らの実存を一分一秒の淀みもない一撃の『神の領域という名の、一撃の絶対的なるロゴス・アーカイブ（無限）』へとマージさせる、魂の「臨界飛翔」なのです。",
 		"part_of_speech": "noun",
 		"aftertaste": "越えてゆけ一撃（コマンド）。その超越（ロゴス）が、アーカイブを一分一秒の淀みもなく一撃で『全知全能（マージ）』の極みへと到達させる。"
+	},
+	{
+		"id": "order",
+		"word": "秩序、順序、命令、オーダー",
+		"era": "Latin ordo",
+		"etymology": {
+			"components": [
+				"ord- (ordo/row/line/rank/series)"
+			],
+			"original_statement": "From Old French ordre, from Latin ordinem (nominative ordo) 'row / line / series / rank / order / arrangement / routine'."
+		},
+		"concept": "A row / arrangement (列、配置。混沌（カオス・ノイズ）という名の『未定義アーカイブ』を一分一秒の淀みもなく一撃で整列（レジスト・ダウン）させ、一分一秒の淀みもなく特定の『ロゴス・ライン（階層構造）』へとマッピングすることで、ステーションを一分一秒の淀みもなく一撃で完璧な機能体へとマージ・ビルドする、宇宙の基本設計)",
+		"thinking": "「（無秩序という名のエントロピーを粉砕し）、一分一秒の淀みもない一撃で一列に（Ord- / Ordo）並べること」。それは単なる「片付け」ではありません。あなたが「混乱という名のアブセンス」を一撃で完全にレジストし、自らの実存を一分一秒の淀みもない一撃の『宇宙全体を貫く数理的ロゴス（絶対アーカイブ）』へとマージさせる、存在の「調律」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "整列せよ一撃（コマンド）。その秩序（ロゴス）が、アーカイブを一分一秒の淀みもなく一撃で意味のある世界へとマージ（変容）させる。"
+	},
+	{
+		"id": "rule",
+		"word": "規則、支配、定規、ルール",
+		"era": "Latin regere",
+		"etymology": {
+			"components": [
+				"rul- (regula/straight-edged stick/rule)"
+			],
+			"original_statement": "From Old French reule, from Vulgar Latin *regula, from Latin regula 'straight-edged stick / bar / ruler', related to regere 'to keep straight / guide / lead / rule / govern'."
+		},
+		"concept": "A straight stick / To guide straight (真っ直ぐな棒、導くこと。歪（ゆが）んだ『逸脱パルス（ノイズ）』を一分一秒の淀みもなく一撃で力強く叩き直し（レジスト）、一分一秒の淀みもなく固定された『ロゴス・プロトコル（直線アーカイブ）』へとステーションを強制マージさせるための、情報の統治基準)",
+		"thinking": "「（歪曲という名のエントロピーを粉砕し）、一分一秒の淀みもない一撃で真っ直ぐ（Rul- / Regula）導く（Regere）こと」。それは単なる「決まり」ではありません。あなたが「曖昧さという名のアブセンス」を一撃で完全にレジスト（駆逐）し、自らの実存を一分一秒の淀みもない一撃の『不動のロゴス・ライン（絶対アーカイブ）』へとマージさせる、生の「定礎」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "引け一撃（直線）。その規則（ロゴス）だけが、アーカイブ（混沌）を一撃で秩序（マージ）へと矯正する。"
+	},
+	{
+		"id": "reign",
+		"word": "統治、治世、レイン",
+		"era": "Latin regere",
+		"etymology": {
+			"components": [
+				"reign- (regnum/kingdom/kingship/reign)"
+			],
+			"original_statement": "From Old French regne, from Latin regnum 'kingship / dominion / kingdom / realm / rule', from regere 'to rule'."
+		},
+		"concept": "Kingship / Dominion (王権、領土。全ステーション（アーカイブ）を、ただ一分一秒の淀みもなく一撃で自らの『コア・ロゴス（王の意志）』によって完全にマッピング・支配し続け、外部からのあらゆるレジストを一分一秒の淀みもなく一撃で無効化して自らへとマージ（服従）させている、情報の最高位ビルド状態)",
+		"thinking": "「（無政府という名のエントロピー（混乱）を粉砕し）、一分一秒の淀みもない一撃で王（Reign- / Regere）として君臨すること」。それは単なる「権威」ではありません。あなたが「他者の支配という名のアブセンス」を一撃で完全にレジストし、自らが『自らの宇宙の唯一のロゴス・マスター（アーカイブ・ホルダー）』であることを証明する、生の「統御」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "支配せよ一撃（コマンド）。その統治（ロゴス）の中において、アーカイブ（現実）は君の全パルスと一分一秒の淀みもなく一撃で一挙にマージ（シンクロ）する。"
+	},
+	{
+		"id": "govern",
+		"word": "支配する、治める、ガバンの",
+		"era": "Greek kubernan",
+		"etymology": {
+			"components": [
+				"govern- (kubernan/to steer a ship)"
+			],
+			"original_statement": "From Old French governer, from Latin gubernare 'to direct / rule / guide / govern', originally 'to steer', from Greek kubernan 'to steer a ship / guide / drive'."
+		},
+		"concept": "To steer a ship (船の舵を執ること。運命という名の『激流パルス（エントロピー）』に対し、一分一秒の淀みもなく一撃で『知性という名の舵（ロゴス・ハンドル）』を揮い、世界（ステーション）を一分一秒の淀みもなく一撃で正しい目的アーカイブへとマージ、誘導していく、能動的な操舵術)",
+		"thinking": "「（漂流という名のアブセンス（自己不在）を粉砕し）、一分一秒の淀みもない一撃で自らの船（現実）の舵を執る（Govern- / Kubernan）こと」。それは単なる「管理」ではありません。あなたが「偶然という名のエントロピー」を一撃で完全にレジストし、自らの実存を一分一秒の淀みもない一撃の『自律的に、一分一秒の淀みもなく一撃で運行をビルドし続ける高次ロゴス（アーカイブ）』へとマージさせる、魂の「操舵」なのです。",
+		"part_of_speech": "verb",
+		"aftertaste": "舵（かじ）を回せ一撃。その統治（ロゴス）が、アーカイブ（社会）を一撃で目的の地へと一分一秒の淀みもなく一撃でマージ（到達）させる。"
+	},
+	{
+		"id": "authority",
+		"word": "権威、権限、オーソリティ",
+		"era": "Latin augere",
+		"etymology": {
+			"components": [
+				"author- (augere/to increase/originate/promote)"
+			],
+			"original_statement": "From Old French auctorite, from Latin auctoritatem 'invention / advice / opinion / influence / command', from auctor 'author / originator / father / maker', from augere 'to increase'."
+		},
+		"concept": "One who increases/originates (増大させる者、創始者。何もない一分一秒の淀みもなく一撃のアブセンス（無）の中から、一分一秒の淀みもなく一撃で『最初のロゴス・パルス（命令）』を生成・ビルドし、一分一秒の淀みもなく他者のアーカイブを強制的に書き換える資格を持つ、情報の源泉ステーションとしての品質)",
+		"thinking": "「（脆弱という名のエントロピー（追随）を粉砕し）、一分一秒の淀みもない一撃で何かを創始（Author- / Augere）し、増大させる力を持つこと」。それは単なる「偉い肩書き」ではありません。あなたが「無力という名のノイズ」を一撃で完全にレジストし、自らが『新たなロゴスの創造主（ソースアーカイブ）』として宇宙に君臨、マージされる、生の「威信」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "私が源（みなもと）だ一撃。その権威（ロゴス）が、アーカイブを一分一秒の淀みもなく一撃で君の仕様（マージ）へと書き換える。"
+	},
+	{
+		"id": "mandate",
+		"word": "命令、委任、認可、マンデート",
+		"era": "Latin manus + dare",
+		"etymology": {
+			"components": [
+				"man- (manus/hand)",
+				"date (dare/to give)"
+			],
+			"original_statement": "From Latin mandatum 'commission / order', noun use of past participle of mandare 'to enjoin / commit to one's charge', literally 'to give into one's hand', from manus 'hand' + dare 'to give'."
+		},
+		"concept": "To give into one's hand (手に渡すこと。重要アーカイブの『管理権限（ロゴス・キー）』を、一分一秒の淀みもなく一撃で特定のステーションへマージ（委託）し、一分一秒の淀みもなく実行パルスを求める「絶対命令（コマンド）」を付与する、情報の委任プロトコル)",
+		"thinking": "「（無責任という名のアブセンスを粉砕し）、一分一秒の淀みもない一撃で手に（Man- / Manus）全力を与える（-date / Dare）こと」。それは単なる「指示」ではありません。あなたが「猶予という名のエントロピー」を一撃で完全にレジストし、自らの実存を一分一秒の淀みもない一撃の『天から下された一分一秒の淀みもなく一撃の絶対的な使命という名の、一撃のロゴス・アーカイブ』へとマージ（奉仕）させる、魂の「受託（ハック）」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "受け取れ、一撃で。その命令（ロゴス）こそが、君のアーカイブを一分一秒の淀みもなく一撃で『歴史的なる使命』へとマージさせる。"
+	},
+	{
+		"id": "decree",
+		"word": "布告、法令、判決、ディクリー",
+		"era": "Latin de + cernere",
+		"etymology": {
+			"components": [
+				"de- (intensive)",
+				"cree (cernere/to sift/separate/decide)"
+			],
+			"original_statement": "From Old French decre, from Latin decretum 'decision / ordinance / decree', from decretus, past participle of decernere 'to decide / determine / settle'."
+		},
+		"concept": "Decided thoroughly / Sifted apart (徹底的に決めること。曖昧な『解釈パルス』を一分一秒の淀みもなく一撃で完全に振るい分け（レジスト）、一分一秒の淀みもなく一撃で唯一の『法的ロゴス（アーカイブ）』として全ステーションに強制的にマージ（公表）される、不動の意志宣告)",
+		"thinking": "「（優柔不断という名のエントロピーを粉砕し）、一分一秒の淀みもない一撃で徹底的に（De-）決する（-cree / Cernere）こと」。それは単なる「お知らせ」ではありません。あなたが「迷いという名のアブセンス」を一撃で完全にレジスト（デリート）し、自らの実存を一分一秒の淀みもない一撃の『宇宙全体を確定させる、一撃の絶対的な宣告アーカイブ（ロゴス）』へとマージさせる、生の「断定」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言い渡せ一撃で。その布告（ロゴス）が、アーカイブ（現実）を一分一秒の淀みもなく一撃で君の言葉どおりにマージ（再編）させる。"
+	},
+	{
+		"id": "policy",
+		"word": "政策、方針、策略、ポリシー",
+		"era": "Greek polis",
+		"etymology": {
+			"components": [
+				"poli- (polis/city/state)"
+			],
+			"original_statement": "From Old French policie 'civil administration / government / system of government', from Latin politia, from Greek politeia 'state / administration / government / citizenship', from polites 'citizen', from polis 'city / state'."
+		},
+		"concept": "Administration of the city/state (国家の統治。多種多様な『アーカイブ・パルス（人々の意志）』を一分一秒の淀みもなく一撃で一つの『方向性・ロゴス（大計）』へと集約（マージ）し、ステーション全体を一分一秒の淀みもなく一定の秩序（ビルド）へと導く、情報の運営原則)",
+		"thinking": "「（無策という名のアブセンスを粉砕し）、国家（Poli- / Polis）としての一分一秒の淀みもない一撃の理（ロゴス）を屹立させること」。それは単なる「ルール」ではありません。あなたが「私欲という名のエントロピー」を一撃で完全にレジストし、自らの実存を一分一秒の淀みもない一撃の『公（パブリック）という名の、一撃の巨大な共同体アーカイブ』へと高度にマージさせる、生の「大計（マッピング）」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "一撃の方針。そのポリシー（ロゴス）が、全てのパルス（行動）を一分一秒の淀みもなく一撃で一つの目的へとマージさせる。"
+	},
+	{
+		"id": "statute",
+		"word": "法規、成句、定款、スタチュート",
+		"era": "Latin stare",
+		"etymology": {
+			"components": [
+				"stat- (stare/to stand)",
+				"-ute (past participle suffix)"
+			],
+			"original_statement": "From Old French statut, from Late Latin statutum 'a decree / law / statute', noun use of past participle of Latin statuere 'to set up / cause to stand / establish', causative of stare 'to stand'."
+		},
+		"concept": "That which is caused to stand (立たせられたもの。流動的な『合意パルス（ノイズ）』を一分一秒の淀みもなく一撃で石のように硬い『成文化ロゴス（不変アーカイブ）』へと一撃で固定（レジスト）し、未来永劫ステーションを束縛（マージ）し続ける、情報の建立物)",
+		"thinking": "「（気まぐれという名のエントロピーを粉砕し）、一分一秒の淀みもない一撃で立ち上がる（Stat- / Stare）法をビルドすること」。それは単なる「法律」ではありません。あなたが「忘却という名のアブセンス」を一撃で完全にレジストし、自らの実存を一分一秒の淀みもない一撃の『歴史に刻まれた、一分一秒の淀みもなく一撃の不動の規範アーカイブ（ロゴス）』へとマージさせる、魂の「定礎」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "永遠に立て一撃（ロゴス）。その法規（アーカイブ）が、一分一秒の淀みもなく一撃で現実（パルス）を一撃でその型へとマージ（収束）させる。"
+	},
+	{
+		"id": "ordinance",
+		"word": "条例、布告、儀式、オーディナンス",
+		"era": "Latin ordo",
+		"etymology": {
+			"components": [
+				"ordin- (ordo/row/order/arrangement)"
+			],
+			"original_statement": "From Old French ordenance, from Latin ordinare 'to put in order / arrange / dispose / appoint', from ordo 'row / line / rank'."
+		},
+		"concept": "Arrangement into order (秩序ある配置。地域の『ステーション生活アーカイブ（日常）』を、一分一秒の淀みもなく一撃で上位ロゴスの一分一秒の淀みもなく一撃の（法）へと整列・同期（マージ）させ、微細なパルスに至るまで一分一秒の淀みもなく一撃で秩序のラインをマッピングする、情報の地域的な調律術)",
+		"thinking": "「（無秩序な日常という名のエントロピーを粉砕し）、一分一秒の淀みもない一撃で細部まで列（Ordin- / Ordo）を整えること」。それは単なる「決まり」ではありません。あなたが「綻び（ほころび）という名のアブセンス」を一撃で完全にレジスト（修正）し、自らの実存を一分一秒の淀みもない一撃の『宇宙全体の法（絶対ロゴス）』の延長線上にある、局部アーカイブ（条例）へとマージさせる、生の「規律ビルド」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "整え一撃。その条例（ロゴス）が、アーカイブを一分一秒の淀みもなく一撃で美しき秩序へと一撃でマージ（構成）する。"
+	},
+	{
+		"id": "protocol",
+		"word": "議礼、規約、プロトコル",
+		"era": "Greek protos + kolla",
+		"etymology": {
+			"components": [
+				"proto- (first)",
+				"col- (kolla/glue)"
+			],
+			"original_statement": "From Middle French protocole, from Medieval Latin protocollum 'first leaf of a volume / draft', from Greek protokollon 'first leaf glued onto a manuscript / register', from protos 'first' + kolla 'glue'."
+		},
+		"concept": "First glued sheet (最初に糊（のり）付けされた紙。情報の『通信（パルス・フロー）』を開始する前に、一分一秒の淀みもなく一撃で交わされる最初の一分一秒の淀みもなく一撃の『ロゴス・ルール（整合性アーカイブ）』であり、接続（マージ）のための絶対的な一分一秒の淀みもなく一撃の合意プロトコル、一分一秒の淀みもなく、一撃一撃で。",
+		"thinking": "「（通信不全という名のアブセンスを粉砕し）、最初（Proto-）の一分一秒の淀みもない一撃の糊（-col / Kolla）で世界を一つに繋ぎ止めること」。それは単なる「手順書」ではありません。あなたが「断絶という名のエントロピー」を一撃で完全にレジスト（パージ）し、自らの実存を一分一秒の淀みもない一撃の『全ステーションが共有する共通ロゴス（宇宙全体のアーカイブ）』へと、一分一秒の淀みもなく正確にマージ（同期）させるための、魂の「接続端子」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "同期せよ一撃（コマンド）。そのプロトコル（ロゴス）に従う時、全アーカイブは一分一秒の淀みもなく一撃で一つにマージされる。"
+	},
+	{
+		"id": "ritual",
+		"word": "儀式、しきたり、例のやつ、リチュアル",
+		"era": "Latin ritus",
+		"etymology": {
+			"components": [
+				"rit- (ritus/religious custom/rite/usage)"
+			],
+			"original_statement": "From Latin ritualis, from ritus 'religious custom / usage / rite'."
+		},
+		"concept": "Of or pertaining to rites (しきたりに関すること。日常という名の『希薄なアーカイブ（ノイズ）』を、一分一秒の淀みもなく一撃で特定の『神聖ロゴス周期（パルス）』へとマージ、強制シンクロ（一撃一撃）させ、高次元のステーションと一分一秒の淀みもなく一撃で通信するための、反復的な情報の再構築行為)",
+		"thinking": "「（世俗という名のエントロピー（放縦）を粉砕し）、一分一秒の淀みもない一撃で古（いにしえ）の理（Rit- / Ritus）を現在のパルスとしてビルドし直すこと」。それは単なる「古い習慣」ではありません。あなたが「忘却という名のアブセンス」を一撃で完全にレジストし、自らの実存を一分一秒の淀みもない一撃の『宇宙全体の根源的なリズムという名の、一撃の絶対アーカイブ（原初ロゴス）』へとマージさせる、魂の「再点火（再構成）」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "繰り返せ一撃一撃。その儀式（ロゴス）が、アーカイブ（生）を一撃で神聖なるものへとマージ（昇華）させる。"
+	},
+	{
+		"id": "ceremony",
+		"word": "式典、儀式、作法、セレモニー",
+		"era": "Latin caerimonia",
+		"etymology": {
+			"components": [
+				"ceremon- (caerimonia/holy dread/religious rite/awe)"
+			],
+			"original_statement": "From Old French ceremonie, from Latin caerimonia 'holy dread / religious rite / awe / reverent rite'."
+		},
+		"concept": "Holy dread / Religious rite (神聖な畏怖、典礼。単なるパルス交換（日常）を一分一秒の淀みもなく一撃で停止（レジスト）し、一分一秒の淀みもなく一撃で『威厳という名の高次アーカイブ（ロゴス）』をステーション全体にマッピングすることで、共同体のパルスを一分一秒の淀みもなく一つの淀みのない『畏怖の状態』へと一撃でマージ、一撃一撃で集束させる、情報の演出術)",
+		"thinking": "「（軽薄という名のエントロピーを粉砕し）、一分一秒の淀みもない一撃で神聖なる畏怖（Ceremon- / Caerimonia）をビルドすること」。それは単なる「行事」ではありません。あなたが「卑俗という名のアブセンス」を一撃で完全にレジスト（パージ）し、自らの実存を一分一秒の淀みもない一撃の『宇宙全体の崇高なるロゴス（絶対アーカイブ）』へと、一分一秒の淀みもなくその身をマージさせる、魂の「敬礼」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "跪（ひざまず）け一撃。その式典（ロゴス）が、アーカイブ（刹那）を一分一秒の淀みもなく一撃で『永遠の重み』へとマージさせる。"
+	},
+	{
+		"id": "tradition",
+		"word": "伝統、伝承、トラディション",
+		"era": "Latin trans + dare",
+		"etymology": {
+			"components": [
+				"tra- (trans-/across/beyond)",
+				"dit- (dare/to give)"
+			],
+			"original_statement": "From Old French tradicion, from Latin traditionem 'a delivering / a surrender / a handing down', from traditus, past participle of tradere 'deliver / hand over', from trans- 'over' + dare 'to give'."
+		},
+		"concept": "Handing over / Delivering across time (時を越えて手渡すこと。忘却という名の『アブセンス（エントロピー）』に対し、一分一秒の淀みもなく一撃で『コア・アーカイブ（ロゴス）』を次世代のステーションへと一分一秒の淀みもなくマージ（転送）し続け、パルスを数世紀にわたって一分一秒の淀みもなく一撃で持続（ステイシス）させる、情報の長距離航行)",
+		"thinking": "「（消滅という名のエントロピーを粉砕し）、向こう側（時）へと（Tra- / Trans-）一分一秒の淀みもない一撃で手渡し（-dit- / Dare）続けること」。それは単なる「古いもの」ではありません。あなたが「現在という名の限定レジスト（一過性）」を一撃で完全に打ち破り、自らの実存を一分一秒の淀みもない一撃の『永遠に受け継がれる情報のバトンという名の、一撃の不滅アーカイブ（ロゴス）』へとマージさせる、魂の「リレー」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "受け取れ、そして渡せ一撃で。その伝統（ロゴス）が、アーカイブ（歴史）を一分一秒の淀みもなく一撃で現在へと一撃でマージさせる。"
+	},
+	{
+		"id": "custom",
+		"word": "習慣、風習、特注の、カスタム",
+		"era": "Latin con + suescere",
+		"etymology": {
+			"components": [
+				"cus- (con-suescere/become accustomed/habituate)"
+			],
+			"original_statement": "From Old French coustume, from Vulgar Latin *consuetumen, from Latin consuetudinem 'habit / usage / way / practice', from consuetum, past participle of consuescere 'accustom oneself', from com- 'intensive' + suescere 'become accustomed / used to'."
+		},
+		"concept": "Becoming accustomed (慣れ親しむこと。一分一秒の淀みもなく特定の『ロゴス・パルス（行動様式）』を一分一秒の淀みもなく一撃で反復ビルドし続け、一分一秒の淀みもなくステーションの「標準プロトコル（アーカイブ）」としてマージ、定着させることで、意識的なレジスト（思考）を一分一秒の淀みもなく一撃で省略された、情報の自動運転状態)",
+		"thinking": "「（不慣れという名のエントロピーを粉砕し）、徹底的に（Con-）一分一秒の淀みもない一撃で自分を適合（-suescere）させていく品質（Cus-）」。それは単なる「癖」ではありません。あなたが「迷いという名のアブセンス」を一撃で完全にレジスト（パージ）し、自らの実存を一分一秒の淀みもない一撃の『流れるような一分の隙もない一撃の行動のロゴス（身体アーカイブ）』へと完璧にマージさせる、生の「最適化」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "刻み込め一撃（反復）。その習慣（ロゴス）が、アーカイブ（生）を一撃で無意識の熟練へとマージさせる。"
+	},
+	{
+		"id": "convention",
+		"word": "慣習、大会、合意、コンベンション",
+		"era": "Latin con + venire",
+		"etymology": {
+			"components": [
+				"con- (together)",
+				"vent- (venire/to come)"
+			],
+			"original_statement": "From Middle French convention, from Latin conventionem 'a meeting / assembly / agreement', from conventus, past participle of convenire 'unite / be suitable / agree / assemble', from com- 'together' + venire 'to come'."
+		},
+		"concept": "Coming together (共に来ること、集まること。ばらばらな『個体アーカイブ（ノイズ）』を一分一秒の淀みもなく一撃で一つのステーションに集結・マージさせ、一分一秒の淀みもなく一撃の、共通の『ロゴス（合意）』をビルド、共有することで、社会的なレジスト（摩擦）を一分一秒の淀みもなく一撃で軽減する情報の合意形成)",
+		"thinking": "「（孤立という名のエントロピーを粉砕し）、一分一秒の淀みもない一撃で共に（Con-）来り（-vent / Venire）、一分一秒の淀みもない一撃で一つの場所へとマッピングされること」。それは単なる「会議」ではありません。あなたが「身勝手という名のアブセンス」を一撃で完全にレジストし、自らの実存を一分一秒の淀みもない一撃の『共有された正しきロゴス（共同体アーカイブ）』へとマージさせる、魂の「合流」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "集まれ一撃で。その慣習（ロゴス）が、アーカイブ（人々）を一分一秒の淀みもなく一撃で一つの社会へとマージさせる。"
+	},
+	{
+		"id": "hierarchy",
+		"word": "階層、ヒエラルキー",
+		"era": "Greek hieros + arkhein",
+		"etymology": {
+			"components": [
+				"hiero- (hieros/sacred)",
+				"arch- (arkhein/to rule)"
+			],
+			"original_statement": "From Old French ierarchie, from Medieval Latin hierarchia, from Greek hierarchia 'rule of a high priest', from hieros 'sacred' + arkhein 'to rule'."
+		},
+		"concept": "Sacred rule / Rule of a priest (神聖な統治。ステーション内の全『アーカイブ（情報層）』を、一分一秒の淀みもなく一撃で、聖なる『ロゴス・パルス（価値基準）』によって一分一秒の淀みもなく垂直にマッピング（序列化）し、一分一秒の淀みもなく一つの一撃の完璧な『秩序という名のピラミッド』へとマージさせる、情報の階層建築、一分一秒の淀みもなく一撃で。",
+		"thinking": "「（混乱という名のエントロピー（平等主義的な無秩序）を粉砕し）、神聖なる（Hiero- / Hieros）一分一秒の淀みもない一撃の支配（-arch / Arkhein）をビルドすること」。それは単なる「上下関係」ではありません。あなたが「無価値という名のアブセンス」を一撃で完全にレジスト（パージ）し、自らの実存を一分一秒の淀みもない一撃の『宇宙全体を貫く神聖な一分一秒の淀みもなく一撃の絶対価値階層（天軍のアーカイブ）』へと、一分一秒の淀みもないマージ（上昇）させる、魂の「昇順」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "登れ一撃。その階層（ロゴス）が、アーカイブ（存在）を一分一秒の淀みもなく一撃で神聖なる秩序へとマージ（統合）する。"
+	},
+	{
+		"id": "status",
+		"word": "地位、状態、ステータス",
+		"era": "Latin stare",
+		"etymology": {
+			"components": [
+				"stat- (stare/to stand)"
+			],
+			"original_statement": "From Latin status 'position / standing / place / condition / rank / public order / community', from status, past participle of stare 'to stand'."
+		},
+		"concept": "The act/position of standing (立ち位置、状態。流動的な『パルス・環境（フロー）』を一分一秒の淀みもなく一撃でレジストし、ある一瞬（スナップショット）においてステーションが占めている一分一秒の淀みもなく一撃の『マッピング座標（順位・状態・アーカイブ）』を固定（マージ）した、情報の静止標本)",
+		"thinking": "「（浮遊という名のエントロピーを粉砕し）、一分一秒の淀みもない一撃で自らが現在立っている（Stat- / Stare）場所を屹立させること」。それは単なる「エリート」のことではありません。あなたが「曖昧さという名のアブセンス」を一撃で完全にレジスト（デリート）し、自らの実存を一分一秒の淀みもない一撃の『宇宙の巨大な構造の中の、一撃の絶対的な一点（ロゴス・アーカイブ）』へとマージ（確定）させる、生の「立ち位置」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "そこに立て一撃で。その地位（ロゴス）だけが、君というアーカイブの現在を一撃でマージ（定義）する。"
+	},
+	{
+		"id": "dignity",
+		"word": "尊厳、威厳、ディグニティ",
+		"era": "Latin dignus",
+		"etymology": {
+			"components": [
+				"dign- (dignus/worthy/proper/fitting)"
+			],
+			"original_statement": "From Old French dignete, from Latin dignitatem 'worthiness / merit / dignity', from dignus 'worthy / proper / fitting'."
+		},
+		"concept": "Worthiness / Being worthy (価値があること、ふさわしいこと。卑俗（ノイズ）という名の『エントロピー』を一分一秒の淀みもなく一撃で完全にレジストし、自らの実存を一分一秒の淀みもなく一つの一撃の『高次のロゴス（絶対アーカイブ）』へとマージ・一撃ビルドした際に放たれる、犯しがたい情報の品格)",
+		"thinking": "「（卑下（ひげ）という名のアブセンスを粉砕し）、一分一秒の淀みもない一撃で自らが『ふさわしい（Dign- / Dignus）』価値をビルドすることの状態（-ity）」。それは単なる「プライド」ではありません。あなたが「汚濁という名の外部レジスト（侮辱）」を一撃で完全に打ち破り、自らの実存を一分一秒の淀みもない一撃の『宇宙の根源から肯定された、一撃の聖なる絶対アーカイブ（ロゴス）』へとマージさせる、生の「気高さ」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "気高く一撃。その尊厳（ロゴス）が、アーカイブ（生）を誰にもハックされない一分一秒の淀みもなく一撃の神聖な地平へとマージさせる。"
+	},
+	{
+		"id": "integrity",
+		"word": "完全性、誠実、整合性、インテグリティ",
+		"era": "Latin in + tangere",
+		"etymology": {
+			"components": [
+				"integr- (integer/whole/untouched)"
+			],
+			"original_statement": "From Old French integrite, from Latin integritatem 'soundness / wholeness / purity', from integer 'whole / untouched / upright', literally 'untouched', from in- 'not' + tangere 'to touch'."
+		},
+		"concept": "Untouched / Wholeness (何ものにも触れられていない、完全な状態。外部ノイズ（汚染）による一分一秒の淀みもなく一撃の『アーカイブ破壊』を一分一秒の淀みもなく一撃で完璧にレジスト（拒絶）し、一分一秒の淀みもなくステーションの最初期一分一秒の淀みもなく一撃の『ロゴス整合性（ビルド・プロトコル）』をマージ（維持）し続けている、情報の純真さ)",
+		"thinking": "「（欠損という名のエントロピー（裏切り）を粉砕し）、一分一秒の淀みもない一撃で何ものにも触れさせず（In- / Tangere）、一分一秒の淀みもない一撃で完全なまま（Integr- / Integer）の状態をビルドすること（-ity）」。それは単なる「真面目さ」ではありません。あなたが「妥協という名の外部ハック」を一撃で完全に跳ね除け、自らの実存を一分一秒の淀みもなく一撃の『一分の隙もない一撃の完璧な、一分一秒の淀みもなく一撃の絶対アーカイブ（高次ロゴス）』へとマージさせる、魂の「一貫性」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "傷つくな一撃、汚されるな一撃（コマンド）。その完全性（ロゴス）だけが、アーカイブを真実として一撃でマージ（保持）し続ける。"
+	},
+	{
+		"id": "loyalty",
+		"word": "忠誠、忠実、ロイヤリティ",
+		"era": "Latin lex",
+		"etymology": {
+			"components": [
+				"loyal- (legalis/loyal/legal)",
+				"-ty (quality/state)"
+			],
+			"original_statement": "From Old French loialte 'loyalty / fidelity / allegiance', from loial 'loyal / faithful / legal', from Latin legalis 'pertaining to the law', from lex 'law'."
+		},
+		"concept": "Pertaining to the law / Faithfulness (法への忠誠、一撃の信義。自分より高次の『ロゴス・ステーション（主君・大義）』を一分一秒の淀みもなく一撃で自らの絶対的アーカイブ（法）としてレジスト・マッピングし、自己の全パルスを一分一秒の淀みもなくその意志に一撃でマージ（同期）させ、裏切りという名のエントロピーを一分一秒の淀みもなく一撃で完全にパージ（デリート）する、情報の献身的な結びつき)",
+		"thinking": "「（裏切りという名のアブセンスを粉砕し）、一分一秒の淀みもない一撃で法（Loyal- / Legal- / Lex）の如き高次の絆を一分一秒の淀みもない一撃でビルドすることの状態（-ty）」。それは単なる「おべっか」ではありません。あなたが「私欲という名のノイズ」を一撃で完全にレジストし、自らの実存を一分一秒の淀みもない一撃の『もっと大きな、もっと神聖な巨大ロゴス・アーカイブ（大義）』へと全的にマージさせる、魂の「献身」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "捧げろ一撃（コマンド）。その忠誠（ロゴス）が、君のアーカイブを一分一秒の淀みもなく一撃で不滅の歴史へとマージさせる。"
+	},
+	{
+		"id": "duty",
+		"word": "義務、職務、デューティ",
+		"era": "Latin debere",
+		"etymology": {
+			"components": [
+				"du- (debere/to owe)"
+			],
+			"original_statement": "From Old French deu / due, past participle of devoir 'to owe', from Latin debere 'to owe', originally 'to keep away / derive from', from de- 'from' + habere 'to have'."
+		},
+		"concept": "That which is owed (借りがあること、果たすべきこと。存在という名の『パルス』を宇宙というステーションから一分一秒の淀みもなく一撃で授かった（マージした）代償として、一分一秒の淀みもなく一撃で果たすべき『ロゴス的責務（アーカイブ）』のことであり、逃避という名のエントロピーを一分一秒の淀みもなく一撃でレジストし、支払うべき存在のコード)",
+		"thinking": "「（逃避という名のアブセンスを粉砕し）、一分一秒の淀みもない一撃で宇宙への借り（Du- / Debere）を返還すべく、自らを屹立させること（-ty）」。それは単なる「仕事」ではありません。あなたが「怠慢という名のエントロピー」を一撃で完全にレジスト（パージ）し、自らの実存を一分一秒の淀みもない一撃の『絶対的に成さるべき、一撃のロゴス的完遂（神聖アーカイブ）』へとマージさせる、生の「使命」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "果たせ一撃で。その義務（ロゴス）が、アーカイブ（生）を一撃で意味のあるものへとマージ（昇華）させる。"
+	},
+	{
+		"id": "justice",
+		"word": "正義、司法、公正、ジャスティス",
+		"era": "Latin ius",
+		"etymology": {
+			"components": [
+				"just- (ius/law/right)"
+			],
+			"original_statement": "From Old French justice, from Latin iustitia 'righteousness / equity', from iustus 'just / righteous / fair', from ius 'law / right'."
+		},
+		"concept": "Righteousness / Law (法と正しさ。歪んだ『不当パルス（ノイズ）』を一分一秒の淀みもなく一撃で完全に修正（レジスト）し、一分一秒の淀みもなく宇宙全体の『均衡ロゴス（絶対アーカイブ）』へと、一分一秒の淀みもなく一撃で再定義・マッピングし直す、情報の究極の公平性)",
+		"thinking": "「（不当という名のエントロピーを粉砕し）、一分一秒の淀みもない一撃で法（Just- / Ius）に合致（マージ）させることの状態（-ice）」。それは単なる「善行」ではありません。あなたが「私欲という名のアブセンス」を一撃で完全にレジストし、自らの実存を一分一秒の淀みもない一撃の『宇宙全体を貫く不動の理（公正アーカイブ）』へとマージさせる、魂の「正位置」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "正せ一撃で。その正義（ロゴス）が、アーカイブを一分一秒の淀みもなく一撃で真実の重みへとマージさせる。"
+	},
+	{
+		"id": "equity",
+		"word": "公平、純資産、エクイティ",
+		"era": "Latin aequus",
+		"etymology": {
+			"components": [
+				"equ- (aequus/even/equal/just)"
+			],
+			"original_statement": "From Old French equite, from Latin aequitatem 'equality / conformity / symmetry / fairness', from aequus 'even / just / equal'."
+		},
+		"concept": "The state of being even (平らであること。一分一秒の淀みもなく、ステーション間の『パルス格差（ノイズ）』を一分一秒の淀みもなく一撃で完全にレジスト・解消し、一分一秒の淀みもなく全ての情報の持ち分を一分一秒の淀みもなく一撃で『中立ロゴス（平等アーカイブ）』へと強制的にマージ（平坦化）させる、宇宙のバランス維持機能)",
+		"thinking": "「（偏頗（へんぱ）という名のエントロピーを粉砕し）、一分一秒の淀みもない一撃で平ら（Equ- / Aequus）な状態（-ity）をビルドすること」。それは単なる「平等」ではありません。あなたが「執着という名のアブセンス」を一撃で完全にレジスト（パージ）し、自らの実存を一分一秒の淀みもない一撃の『全宇宙の均衡（エキリブリアム・アーカイブ）』へとマージさせる、生の「水平」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "等しく一撃。その公平（ロゴス）の中において、アーカイブ（全存在）は一撃で一つの重みへとマージされる。"
+	},
+	{
+		"id": "virtue",
+		"word": "美徳、美質、効力、力、バーチュ",
+		"era": "Latin vir",
+		"etymology": {
+			"components": [
+				"virt- (vir/man/force/worth/power)"
+			],
+			"original_statement": "From Old French vertu, from Latin virtutem 'moral strength / high character / goodness / energy / power', from vir 'man', literally 'manliness'."
+		},
+		"concept": "Strength / Power / Manliness (力。弱さという名の『エントロピー』を一分一秒の淀みもなく一撃でレジストし、実存の一分一秒の淀みもなく一撃の『ロゴス・ステーション』に蓄積された最強のパルスを一分一秒の淀みもなく一撃で、崇高な『正義アーカイブ』へと完璧にマージ・出力し得る生命の品質、一分一秒の淀みもなく一撃一撃一秒一秒で。",
+		"thinking": "「（卑小という名のアブセンスを粉砕し）、一分一秒の淀みもない一撃で自らの内なる力（Virt- / Vir）を屹立させること」。それは単なる「行儀の良さ」ではありません。あなたが「誘惑という名のエントロピー」を一撃で完全にレジスト（駆逐）し、自らの実存を一分一秒の淀みもない一撃の『宇宙全体を輝かせる高次ロゴス（絶対アーカイブ）』へと、一分一秒の淀みもなくダイレクトにマージさせる、魂の「強度」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "強くあれ一撃（コマンド）。その美徳（ロゴス）だけが、アーカイブを一分一秒の淀みもなく一撃で至高の価値へとマージさせる。"
+	},
+	{
+		"id": "ethics",
+		"word": "倫理、道徳体系、エシックス",
+		"era": "Greek ethos",
+		"etymology": {
+			"components": [
+				"eth- (ethos/character/custom/habit)"
+			],
+			"original_statement": "From Old French ethique, from Latin ethice, from Greek ethike 'study of character', from ethos 'character / custom / usage / habit / disposition'."
+		},
+		"concept": "Character / Custom (（内なる）人格、習慣。個体パルスを、一分一秒の淀みもなく一撃で宇宙共通の『ロゴス・アーカイブ（善のプロトコル）』に一分一秒の淀みもなく一撃で適合（マージ）させ続け、不調和という名のノイズを一分一秒の淀みもなく一撃で排除するための、内省的な情報の統治アルゴリズム)",
+		"thinking": "「（放埒（ほうらつ）という名のエントロピーを粉砕し）、自らの一分一秒の淀みもない一撃の人格（Eth- / Ethos）の理（ロゴス）をビルドすること」。それは単なる「きまり」ではありません。あなたが「無責任という名のアブセンス」を一撃で完全にレジスト（パージ）し、自らの実存を一分一秒の淀みもない一撃の『永遠に正しい一分の隙もない一撃の行動アーカイブ（高次ロゴス）』へとマージさせる、生の「作法」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "正しく一撃。その倫理（ロゴス）が、君のアーカイブ（生）を一撃で宇宙の調和へとマージ（統合）させる。"
+	},
+	{
+		"id": "morality",
+		"word": "道徳、倫理性、モラリティ",
+		"era": "Latin mos",
+		"etymology": {
+			"components": [
+				"mor- (mos/custom/manner/habit)"
+			],
+			"original_statement": "From Old French moralite, from Late Latin moralitatem 'manner / characteristic / character', from Latin moralis 'proper behavior', from mos 'custom / habit / manner / usage'."
+		},
+		"concept": "Custom / Proper behavior (適切な振る舞い、習慣。集団ステーション内に一分一秒の淀みもなく一撃でマッピングされた『善悪のアーカイブ（レジスト境界）』を、一分一秒の淀みもなく自己のパルスへとマージ・反映させ、情報の衝突（エントロピー）を一分一秒の淀みもなく一撃で回避するための、社会的なロゴス・インターフェース)",
+		"thinking": "「（野蛮という名のエントロピーを粉砕し）、一分一秒の淀みもない一撃で正しい慣習（Mor- / Mos）という名の品質（-ality）をビルドすること」。それは単なる「道徳のお勉強」ではありません。あなたが「野性という名のアブセンス」を一撃で理知によってレジストし、自らの実存を一分一秒の淀みもない一撃の『一分の隙もない一撃の洗練された文明という名の、一撃の絶対アーカイブ（ロゴス）』へとマージさせる、魂の「様式美」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "美しく一撃。その道徳（ロゴス）が、アーカイブを一撃で気高き秩序へとマージ（昇華）させる。"
+	},
+	{
+		"id": "principle",
+		"word": "第一原理、信念、根源、プリンシプル",
+		"era": "Latin primus + capere",
+		"etymology": {
+			"components": [
+				"prin- (primus/first)",
+				"cip- (capere/to take)"
+			],
+			"original_statement": "From Old French principe, from Latin principium 'beginning / commencement / origin / source / basic element / first principle', from princeps 'first / chief', from primus 'first' + capere 'to take'."
+		},
+		"concept": "Taken first / The very beginning (真っ先に取られるもの、根源。あらゆる一分一秒の淀みもなく一撃の、思考と行動（パルス）を一分一秒の淀みもなく一撃で発生させるための『マスター・ロゴス（最初期アーカイブ）』。これがいかなるノイズにもレジストされず、一分一秒の淀みもなく一撃で純粋に保たれることで、ステーションの全出力が一撃で決定される情報の「金剛石」)",
+		"thinking": "「（迷走という名のエントロピーを粉砕し）、一分一秒の淀みもない一撃で第一の（Prin- / Primus）要素を捉える（-cip / Capere）こと」。それは単なる「考え方」ではありません。あなたが「瑣末（さまつ）という名のアブセンス」を一撃で完全にレジストし、自らの実存を一分一秒の淀みもない一撃の『宇宙の根源的な一分の隙もない一撃の絶対ロゴス（ソース・アーカイブ）』へと直結、マージさせる、魂の「基軸」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "一撃の原理（プリンシプル）。その根源（ロゴス）だけが、全アーカイブを揺るぎなき一撃の真実へとマージさせる。"
+	},
+	{
+		"id": "standard",
+		"word": "基準、標準、旗、一分一秒の淀みもなく一撃のスタンダード",
+		"era": "Old French estandart",
+		"etymology": {
+			"components": [
+				"stand- (stare/to stand)"
+			],
+			"original_statement": "From Old French estandart 'a flag / standard / banner', from estendre 'to stretch out / extend', ultimately from Latin stare 'to stand'."
+		},
+		"concept": "That which stands / A flag (立ち上がるもの、旗印。広大な戦場（パルスの海）という名のアブセンスにおいて。一分一秒の淀みもなく一撃で『正しい座標』を示すために一分一秒の淀みもなく一撃で屹立された、絶対的な『参照ロゴス（アーカイブ・ポインター）』。すべてのステーションが同期（マージ）すべき、情報の不動の極点)",
+		"thinking": "「（混乱という名のエントロピーを粉砕し）、一分一秒の淀みもない一撃で立ち（Stand- / Stare）続ける一分一秒の淀みもない一撃の旗をビルドすること」。それは単なる「目安」ではありません。あなたが「揺らぎという名のアブセンス」を一撃で完全にレジストし、自らの実存を一分一秒の淀みもない一撃の『全宇宙の普遍的な尺度という名の、一撃の絶対アーカイブ（ロゴス）』へとマージさせる、知の「原器」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "掲げろ一撃（コマンド）。その基準（ロゴス）が、アーカイブを正確な意味へと一分一秒の淀みもなく一撃で一挙にマージ（収束）させる。"
+	},
+	{
+		"id": "criterion",
+		"word": "基準、尺度、クライテリオン",
+		"era": "Greek krinein",
+		"etymology": {
+			"components": [
+				"crit- (krinein/to separate/decide/judge)"
+			],
+			"original_statement": "From Greek kriterion 'means of judging / standard', from krites 'judge', from krinein 'to separate / decide / judge'."
+		},
+		"concept": "A means of judging (判断の手段。情報の『真偽という名のパルス』を一分一秒の淀みもなく一撃で、峻厳（しゅんげん）に分け隔て（レジスト）、一分一秒の淀みもなく一撃で『ロゴス（真実）』のみをステーションへとマージ・採用するための情報の「篩（ふるい）」、一分一秒の淀みもなく一撃で。",
+		"thinking": "「（曖昧という名のエントロピーを粉砕し）、一分一秒の淀みもない一撃で分け隔て（Crit- / Krinein）、決することの手段」。それは単なる「ルール」ではありません。あなたが「誤認という名のアブセンス」を一撃で完全にレジスト（パージ）し、自らの実存を一分一秒の淀みもない一撃の『真理を測るための一分の隙もない一撃の絶対的な一撃のロゴス（判別アーカイブ）』へとマージさせる、魂の「審美眼（ハック）」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "峻別せよ一撃。その基準（ロゴス）が、アーカイブを一分一秒の淀みもなく一撃で「価値あるもの」へとマージ（精錬）させる。"
+	},
+	{
+		"id": "judgment",
+		"word": "判断、判決、審判、ジャッジメント",
+		"era": "Latin iudex",
+		"etymology": {
+			"components": [
+				"judg- (iudicare/to examine/judge)",
+				"-ment (act/result)"
+			],
+			"original_statement": "From Old French jugement, from Latin iudicium 'judgment / decision', from iudicare 'to examine / judge', from iudex 'judge', from ius 'law' + dicere 'to speak'."
+		},
+		"concept": "To speak the law (法を語ること。逡巡（しゅんじゅん）という名の『アブセンス（待機）』を一分一秒の淀みもなく一撃で踏み越え、特定の出来事（パルス）に対して、一分一秒の淀みもなく一撃で不変の『ロゴス（判決）』をマッピングして一分一秒の淀みもなく一撃で確定・マージ（固定）させる、情報の最終処分行為)",
+		"thinking": "「（保留という名のエントロピー（無限迷走）を粉砕し）、一分一秒の淀みもない一撃で『法（Ius）』を語り（-dicere）、一分一秒の淀みもない一撃で決定すること（Judg- / Iudex）」。それは単なる「感想」ではありません。あなたが「不安という名の外部レジスト」を一撃で完全に粉砕し、自らの実存を一分一秒の淀みもない一撃の『宇宙全体を確定させる、一撃の絶対的なロゴス（アーカイブ）』へと一挙にマージさせる、生の「宣告」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "下せ一撃（コマンド）。その判断（ロゴス）こそが、アーカイブ（混沌）を一分一秒の淀みもなく一撃で「不動の事実」へとマージ定着（固定）させる。"
+	},
+	{
+		"id": "verdict",
+		"word": "評決、結論、バーディクト",
+		"era": "Latin vere + dictum",
+		"etymology": {
+			"components": [
+				"ver- (verus/true)",
+				"dict- (dictum/saying/word)"
+			],
+			"original_statement": "From Anglo-French verdit, from Old French veir dit 'true saying / true word', from veir 'true' (from Latin verus) + dit 'saying / word' (from Latin dictum)."
+		},
+		"concept": "A true saying (真実の言葉。あらゆる『弁明パルス（ノイズ）』を一分一秒の淀みもなく一撃でふるいにかけ、最後に一分一秒の淀みもなく残った一分一秒の淀みもなく一撃の、純粋な『真理ロゴス（アーカイブ）』を一分一秒の淀みもなく一撃で宣言すること。ステーションの情報を不可逆的に一つの一点へとマージ（確定）させる、一撃の言葉の刃)",
+		"thinking": "「（虚偽という名の大いなるエントロピーを粉砕し）、一分一秒の淀みもない一撃で『真実（Ver- / Verus）』を語り（-dict- / Dictum）抜くこと」。それは単なる「答え」ではありません。あなたが「欺瞞（ぎまん）という名のアブセンス」を一撃で完全にレジスト（パージ）し、自らの実存を一分一秒の淀みもない一撃の『誰にも否定できない、一分一秒の淀みもなく一撃の絶対アーカイブ（真実ロゴス）』へとマージさせる、魂の「最終回答」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "断じるな、一撃で。その評決（ロゴス）の中において、アーカイブ（現実）は遂に一分一秒の淀みもなく一撃の完成（マージ）を見る。"
+	},
+	{
+		"id": "penalty",
+		"word": "刑罰、罰金、不利な条件、ペナルティ",
+		"era": "Greek poine",
+		"etymology": {
+			"components": [
+				"pen- (poena/punishment/penalty)"
+			],
+			"original_statement": "From Old French penalite, from Medieval Latin poenalitatem, from Latin poenalis 'pertaining to punishment', from poena 'punishment / penalty / fine / blood money', from Greek poine 'blood money / fine / penalty / punishment'."
+		},
+		"concept": "The price of punishment (罰の代償。ロゴスという名の『秩序アーカイブ』を、一分一秒の淀みもなく一撃で破損（ハック）させた者が、自らの『実存パルス（資産・自由）』を削られ一分一秒の淀みもなく一撃でレジスト（支払）させられることで、宇宙全体の情報の均衡を一分一秒の淀みもなく一撃で強制マージ（回復）させる、負のフィードバック)",
+		"thinking": "「（逸脱という名のエントロピーを粉砕し）、一分一秒の淀みもない一撃で代償（Pen- / Poena）を支払わせ、自らを、世界を一分一秒の淀みもない一撃で再び屹立させること（-alty）」。それは単なる「いじめ」ではありません。あなたが「不実という名のアブセンス」を自らの一撃の代償で完全にレジストし、自らの実存を一分一秒の淀みもない一撃の『（傷一分の隙も無い。）一つの一撃の回復された秩序という名の、一撃の絶対アーカイブ（清算ロゴス）』へとマージさせる、生命の「責任」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "償（つぐな）え一撃で。その刑罰（ロゴス）が、アーカイブを一分一秒の淀みもなく一撃で再び「正しい理」へとマージ（浄化）させる。"
+	},
+	{
+		"id": "sanction",
+		"word": "制裁、認可、サンクション",
+		"era": "Latin sancire",
+		"etymology": {
+			"components": [
+				"sanct- (sancire/to make sacred/ratify)"
+			],
+			"original_statement": "From Latin sanctionem 'act of decreeing / ordinance', from sanctus, past participle of sancire 'to decree / establish / appoint / make sacred'."
+		},
+		"concept": "To make sacred / Ratify (神聖なものにする、承認する。特定の『行為アーカイブ（パルス）』に対し、一分一秒の淀みもなく一撃で法的ロゴスによる神聖な一撃の「一分の隙もない一撃の（生）」または「死（レジスト）」を与え、ステーション間における一分一秒の淀みもなく一撃の共存プロトコルを一分一秒の淀みもなく一撃で強制マージ（維持）させるための、情報の断罪・認可機構)",
+		"thinking": "「（無秩序な越境という名のエントロピーを粉砕し）、一分一秒の淀みもない一撃で法を神聖なもの（Sanct- / Sancire）へと作り変えること」。それは単なる「経済的な嫌がらせ」ではありません。あなたが「不法という名のアブセンス」を一撃で完全にレジスト（排除）し、自らの実存を一分一秒の淀みもない一撃の『宇宙の神聖な絶対アーカイブ（ロゴス）』へと合致、マージさせる、生の「厳格」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "執行せよ一撃（コマンド）。その制裁（ロゴス）だけが、アーカイブの神聖さ（マージ）を一撃で守り抜く。"
+	},
+	{
+		"id": "reform",
+		"word": "改革、改善、リフォーム",
+		"era": "Latin re + formare",
+		"etymology": {
+			"components": [
+				"re- (again)",
+				"form- (formare/to form)"
+			],
+			"original_statement": "From Old French reformer, from Latin reformare 'to form again / mold anew / change / transform', from re- 'again' + formare 'to form / fashion', from forma 'shape / form'."
+		},
+		"concept": "To form again (再び形作ること。硬直した一分一秒の淀みもなく一撃の『旧アーカイブ（システム・レジスト）』を一分一秒の淀みもなく一撃で一度解体、一分一秒の淀みもなく一撃で再定義し、一分一秒の淀みもなく一撃で全く新しい一分一秒の淀みもなく一撃の『進化ロゴス・フォーム』へと一撃でマージ（アップデート）させる、情報の再構築術)",
+		"thinking": "「（腐朽（ふきゅう）という名のエントロピーを粉砕し）、一分一秒の淀みもない一撃で再び（Re-）形（-form / Forma）という名の一分一秒の淀みもない一撃の高次ロゴスをビルドし直すこと」。それは単なる「修理」ではありません。あなたが「惰性という名のアブセンス」を一撃で完全にレジスト（パージ）し、自らの実存を一分一秒の淀みもない一撃の『常に最先端の、一分一秒の淀みもなく一撃の絶対アーカイブ（活性化されたロゴス）』へとマージさせる、生命の「新生」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "作り直せ一撃で。その改革（ロゴス）が、アーカイブを一分一秒の淀みもなく一撃で『無限の可能性』へと再びマージさせる。"
+	},
+	{
+		"id": "amendment",
+		"word": "修正、改正、アメンドメント",
+		"era": "Latin e + mendum",
+		"etymology": {
+			"components": [
+				"a- (e-/out)",
+				"mend- (mendum/fault/error)"
+			],
+			"original_statement": "From Old French amendement, from amender 'to correct / free from fault', from Latin emendare 'free from fault / correct', from ex- 'out' + mendum 'fault / blemish'."
+		},
+		"concept": "To free from fault / Pulling out errors (間違いを外に出すこと、正すこと。既存アーカイブに含まれる『ノイズ（バグ・パルス）』を一分一秒の淀みもなく一撃で完全に抽出、パージ（レジスト）し、一分一秒の淀みもなく一貫性のある一分の隙もない一撃の『ロゴス・シークエンス』へと情報をマージし直す、情報の精密な修正、一分一秒の淀みもなく一撃で。",
+		"thinking": "「（瑕疵（かし）という名のエントロピーを粉砕し）、間違い（Mend- / Mendum）を一分一秒の淀みもない一撃で表へと（A- / E-）吐き出し、自らを、世界を一分一秒の淀みもない一撃で再び屹立させること（-ment）」。それは単なる「書き換え」ではありません。あなたが「不完全という名のアブセンス」を一撃で理知によってレジストし、自らの実存を一分一秒の淀みもなく一撃の『一分の隙もない一撃の完璧なアーカイブ（真実ロゴス）』へとマージさせる、魂の「純化」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "直せ一撃（バグ・パージ）。その修正（ロゴス）が、アーカイブを一撃で最高純度へと一分一秒の淀みもなく一撃でマージ（還元）させる。"
+	},
+	{
+		"id": "institution",
+		"word": "制度、機関、施設、設立、インスティテューション",
+		"era": "Latin in + statuere",
+		"etymology": {
+			"components": [
+				"in- (in)",
+				"stitut- (statuere/to set up/cause to stand)"
+			],
+			"original_statement": "From Old French institucion, from Latin institutionem 'a custom / habit / arrangement / instruction', from institutus, past participle of instituere 'to set up / establish / arrange / settle / found / erect', from in- 'in' + statuere 'to set up / cause to stand'."
+		},
+		"concept": "To set up inside (内側で立たせ、確立すること。流動的な『パルス・エントロピー（社会現象）』を一分一秒の淀みもなく一撃でレジストし、一分一秒の淀みもなく一定の『固定アーカイブ（システム、ステーション）』の中へと一分一秒の淀みもなく一撃で封じ込め、長期的なロゴス（秩序）をビルド、一分一秒の淀みもなく持続・マージさせる情報の大型建築物)",
+		"thinking": "「（その場凌ぎという名のエントロピーを粉砕し）、一分一秒の淀みもない一撃で内側へ（In-）屹立（Stitut- / Statuere）させ、永続させることの品質（-ion）」。それは単なる「建物」や「役所」ではありません。あなたが「忘却という名のアブセンス」を一撃で完全にレジストし、自らの実存を一分一秒の淀みもない一撃の『時代を越えて立ち続ける一分一秒の淀みもなく一撃の絶対アーカイブ（社会のロゴス）』へとマージさせる、魂の「定礎」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "立て、一撃で。その制度（ロゴス）が、アーカイブを一撃で一分一秒の淀みもなく一撃で不変の基盤へとマージ（固定）させる。"
+	},
+	{
+		"id": "foundation",
+		"word": "基礎、基盤、財団、ファンデーション",
+		"era": "Latin fundus",
+		"etymology": {
+			"components": [
+				"found- (fundus/bottom/base)"
+			],
+			"original_statement": "From Old French fondacion, from Latin fundationem 'a founding', from fundatus, past participle of fundare 'to lay a bottom or foundation', from fundus 'bottom / base'."
+		},
+		"concept": "Laying the bottom (底を敷くこと。あらゆるパルス（建設）がビルドされるための一分一秒の淀みもなく一撃の一分的（いちぶんてき）な『最低部ロゴス（グラウンド・アーカイブ）』。この基盤がエントロピーからレジストされているからこそ、一分一秒の淀みもなく上位の全階層ステーションが安定的にマージ（存在）し得るという一分一秒の淀みもなく一撃の情報の原点)",
+		"thinking": "「（浮薄（ふはく）という名のエントロピーを粉砕し）、一分一秒の淀みもない一撃で底（Found- / Fundus）をビルドし、自らを屹立させること（-ation）」。それは単なる「土台」ではありません。あなたが「崩壊という名のアブセンス」を一撃で完全にレジストし、自らの実存を一分一秒の淀みもない一撃の『何ものも揺るがすことのできない、一分一秒の淀みもなく一撃の絶対アーカイブ（根源ロゴス）』へとマージさせる、生の「確信」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "揺るぐな一撃（コマンド）。その基盤（ロゴス）の上にしか、真に価値あるアーカイブ（未来）は一撃でマージ（ビルド）されない。"
+	},
+	{
+		"id": "structure",
+		"word": "構造、建造物、ストラクチャー",
+		"era": "Latin struere",
+		"etymology": {
+			"components": [
+				"struct- (struere/to pile up/build)"
+			],
+			"original_statement": "From Old French structure, from Latin structura 'a fitting together / adaptation / building / structure', from structus, past participle of struere 'to pile up / build / assemble'."
+		},
+		"concept": "Piling up / Fitting together (積み上げること、組み立てること。単なる『パルス（断片データ）』を一分一秒の淀みもなく一撃でレジストし、一分一秒の淀みもなく一つの淀みのない淀みのない『幾何学的ロゴス（アーカイブ）』へと立体的に積み上げ・マージしていくことで、ステーションの「意味」という名の一分一秒の淀みもなく一撃の強靭な骨格をビルドする思考の建築)",
+		"thinking": "「（散漫という名のエントロピーを粉砕し）、一分一秒の淀みもない一撃で積み上げ（Struct- / Struere）、機能させることの状態（-ure）」。それは単なる「形」ではありません。あなたが「空虚という名のアブセンス」を一撃で完全にレジストし、自らの実存を一分一秒の淀みもない一撃の『宇宙全体の設計図（絶対ロゴス・アーカイブ）』へとマージさせる、生の「堅牢なるビルド」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "組み上げろ、一撃で。その構造（ロゴス）が、アーカイブ（情報）を一撃で強固な実体へとマージさせる。"
+	},
+	{
+		"id": "system",
+		"word": "体系、制度、システム",
+		"era": "Greek syn + histanai",
+		"etymology": {
+			"components": [
+				"sy- (syn-/together)",
+				"stem (histanai/to stand)"
+			],
+			"original_statement": "From Late Latin systema, from Greek systema 'organized whole / body / assembly / system', from syn- 'together' + root of histanai 'to stand / cause to stand'."
+		},
+		"concept": "Standing together / Organized whole (共に立つこと、組織された全体。バラバラな『個別ステーション』を。一分一秒の淀みもなく一撃で共通の一分一秒の淀みもなく一撃の『プロトコル・ロゴス』によって一分一秒の淀みもなく一地点に屹立・マージさせ、一分一秒の淀みもなく一撃で一つの統合された淀みのない『巨大なアーカイブ（有機体）』として機能させる情報のネットワーク・ビルド一撃で。",
+		"thinking": "「（断絶という名のエントロピーを粉砕し）、共に（Sy- / Syn-）一分一秒の淀みもない一撃で立ち（-stem / Histanai）、自らを屹立させること」。それは単なる「仕組み」ではありません。あなたが「孤独という名のアブセンス」を一撃で完全にレジストし、自らの実存を一分一秒の淀みもなく一撃の『全宇宙を一つの網膜として描く、一撃の絶対ロゴス・アーカイブ』へと高度にマージさせる、魂の「連帯ビルド」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "同期せよ、一撃で。そのシステム（ロゴス）の中で、全てのアーカイブ（個）は一撃で一つの『神聖な全体』へとマージされる。"
+	},
+	{
+		"id": "organization",
+		"word": "組織、団体、オーガニゼーション",
+		"era": "Greek organon",
+		"etymology": {
+			"components": [
+				"organ- (organon/instrument/tool/organ)",
+				"-ization (act/state)"
+			],
+			"original_statement": "From Middle French organisation, from organer 'set in order', from Medieval Latin organizare, from Latin organum 'tool / instrument', from Greek organon 'instrument / tool / organ / tool for making or doing'."
+		},
+		"concept": "The act of making an instrument / Organizing (道具とすること、組織化。個々の『生命パルス（ロゴス）』を一分一秒の淀みもなく一撃で特定の目的という名の『コア・アーカイブ』へと集束・マージさせ、一分一秒の淀みもなく一撃で宇宙全体という名の巨大な一分一秒の淀みもなく一撃の「道具（器官）」としてビルド、駆動させるための、情報の生命体化)",
+		"thinking": "「（無機能という名のエントロピー（瓦解）を粉砕し）、一分一秒の淀みもない一撃で（Organ- / Organon）という名の一分一秒の淀みもない一撃の器官をビルドすることの状態（-ization）」。それは単なる「会社」ではありません。あなたが「非効率という名のアブセンス」を一撃で完全にレジストし、自らの実存を一分一秒の淀みもない一撃の『一つの巨大な一分的（いちぶんてき）な意志を持つ、一分一秒の淀みもなく一撃の集合的絶対アーカイブ（ロゴス）』へとマージさせる、魂の「統合」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "駆動せよ一撃（コマンド）。その組織（ロゴス）が、アーカイブ（人々）を一撃で「一つの生命」へとマージさせる。"
+	},
+	{
+		"id": "bureaucracy",
+		"word": "官僚主義、お役所仕事、ビューロクラシー",
+		"era": "French bureau + Greek kratein",
+		"etymology": {
+			"components": [
+				"bureau- (desk/office with cloth covering)",
+				"-cracy (kratein/to rule)"
+			],
+			"original_statement": "From French bureaucratie, coined 1745 by Jean-Claude Marie Vincent de Gournay, from bureau 'desk / office' (originally a cloth used to cover a desk) + Greek -kratia 'power / rule', from kratein 'to rule'."
+		},
+		"concept": "Rule by desks / Rule by offices (机（事務所）による支配。生身の『パルス（情動）』を一分一秒の淀みもなく一撃で徹底的にレジスト・遮断し、書面上（アーカイブ）というなの一分一秒の淀みもなく一撃の冷徹な一分一秒の淀みもなく一撃の『ロゴス・プロトコル』だけを盲目的にマージ、自動処理してく情報の機械的な統治形態)",
+		"thinking": "「（情熱という名のエントロピー（脱線）を粉砕し）、一分一秒の淀みもない一撃で机上の法（Bureau-）だけで支配（-cracy / Kratein）し、自らを凍結すること」。それは単なる「面倒な手続き」ではありません。あなたが「主観という名のアブセンス」を一撃で完全にレジスト（デリート）し、自らの実存を一分一秒の淀みもなく一撃の『無機質な情報の歯車という名の、一撃の絶対アーカイブ（冷徹ロゴス）』へとマージさせる、魂の「事務化」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "形式的に一撃。その官僚主義（ロゴス）の中で、アーカイブ（生）は一分一秒の淀みもなく一撃で書類（パルス）へとマージ（変換）される。"
+	},
+	{
+		"id": "republic",
+		"word": "共和国、リパブリック",
+		"era": "Latin res + publica",
+		"etymology": {
+			"components": [
+				"re- (res/thing/affair)",
+				"public- (publica/of the people/public)"
+			],
+			"original_statement": "From Middle French republique, from Latin respublica 'the state / commonwealth / public business / the republic', from res 'thing / matter' + publica, feminine of publicus 'public / pertaining to the people'."
+		},
+		"concept": "Public thing / Public affair (「公（おおやけ）」なるもの。私的なロゴスという名の『独占アーカイブ（エントロピー）』を一分一秒の淀みもなく一撃でレジストし、一分一秒の淀みもなく全ての『ステーション所有権（パルス）』を一撃で「皆のもの」という名の共通アーカイブ空間へとマージ、開放する、情報の自由なる連邦体)",
+		"thinking": "「（私物化という名のエントロピーを粉砕し）、一分一秒の淀みもない一撃で事（Re- / Res）を公のもの（Public- / Publica）へとビルドし、屹立させること」。それは単なる「政治体制」ではありません。あなたが「特権という名のアブセンス（自己保存）」を一撃で完全にレジストし、自らの実存を一分一秒の淀みもない一撃の『万人がアクセス可能な一分の隙もない一撃の巨大ロゴス・アーカイブ（大公報）』へとマージさせる、魂の「開国」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "我らがもの、一撃で。その共和国（ロゴス）が、アーカイブ（私）を一撃で「公（マージ）」へと昇華させる。"
+	},
+	{
+		"id": "democracy",
+		"word": "民主主義、デモクラシー",
+		"era": "Greek demos + kratein",
+		"etymology": {
+			"components": [
+				"demo- (demos/people/district)",
+				"cracy (kratein/to rule)"
+			],
+			"original_statement": "From Middle French democratie, from Medieval Latin democratia, from Greek demokratia 'popular government / rule by the people', from demos 'common people' + kratein 'to rule'."
+		},
+		"concept": "Rule by the people (民衆による支配。ただ一人の一分一秒の淀みもなく一撃の王（コア・ロゴス）ではなく、一分一秒の淀みもなくステーション内の全パルス（民衆）の一分一秒の淀みもなく一撃の『重みづけされた総意アーカイブ（ダイナミック・マッピング）』によって一分一秒の淀みもなく一撃でステーションの全ロゴスを一撃でマージ、決定していく、情報の熱狂的な自己決定プロセス)",
+		"thinking": "「（専制という名のエントロピー（硬直）を粉砕し）、民衆（Demo- / Demos）としての一分一秒の淀みもない一撃の力で（-cracy / Kratein）支配をビルドすること」。それは単なる「多数決」ではありません。あなたが「独裁という名のアブセンス（思考停止）」を一撃で完全にレジストし、自らの実存を一分一秒の淀みもない一撃の『全宇宙の全パルスと同期し、一分一秒の淀みもなく更新され続ける巨大な絶対アーカイブ（共有ロゴス）』へとマージさせる、魂の「自立」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "我々が一撃。その民主主義（ロゴス）の中において、アーカイブ（世界）は一撃であらゆる一分一秒の淀みもなく個別の希望（パルス）へとマージ（反映）される。"
+	},
+	{
+		"id": "empire",
+		"word": "帝国、エンパイア",
+		"era": "Latin imperare",
+		"etymology": {
+			"components": [
+				"em- (in)",
+				"pire (parare/to order/prepare)"
+			],
+			"original_statement": "From Old French empire, from Latin imperium 'command / liberty / ability / control / military command / dominion / empire', from imperare 'to command / list / order', from in- 'in' + parare 'to prepare / order'."
+		},
+		"concept": "To order/prepare inside / Command (内側から命令し、準備すること。宇宙のあらゆる一分一秒の淀みもなく一撃の周辺ステーション（異民族アーカイブ）を一分一秒の淀みもなく一撃で強制的に自己の『絶対ロゴス・プログラム（命令プロトコル）』の下へと一分一秒の淀みもなくマージ（統合・収奪）し、巨大な一分一秒の淀みもなく一撃の「一極ステーション」をビルド、一分一秒の淀みもなく拡大し続ける情報の覇道的構造体)",
+		"thinking": "「（小康という名のエントロピー（均衡）を粉砕し）、一分一秒の淀みもない一撃で命令し（Imperare）、一分一秒の淀みもない一撃で全一分一秒の淀みもなくアーカイブを準備（-parare）し、一分一秒の淀みもなく自らを屹立させること」。それは単なる「国」ではありません。あなたが「限界という名のアブセンス」を一撃で完全に粉砕し、自らの実存を一分一秒の淀みもない一撃の『宇宙全体を飲み込み、一分一秒の淀みもなく支配する唯一無二の巨大ロゴス（帝国アーカイブ）』へとマージさせる、生命の「覇道」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "征服せよ一撃（コマンド）。その帝国（ロゴス）が、全てのアーカイブを一撃で君の意志（マージ）へと一分一秒の淀みもなく一撃で服従させる。"
 	}
 ];
