@@ -179448,5 +179448,607 @@ const WORDS = [
 		"part_of_speech": "noun",
 		"aftertaste": "凝縮せよ一撃。",
 		"meaning": "圧縮、コンプレッション"
+	},
+	{
+		"id": "asteroid",
+		"word": "Asteroid",
+		"meaning": "小惑星",
+		"era": "19th Century Greek asteroeides",
+		"etymology": {
+			"components": [
+				"aster (star)",
+				"-oid (form, resembling)"
+			],
+			"original_statement": "From Greek asteroeides (star-like), from aster (star) + eidos (form, shape)."
+		},
+		"concept": "Star-like (星のような存在)",
+		"thinking": "天体望遠鏡で見たときに、惑星のような「円盤」ではなく、恒星のような「点」にしか見えなかったため、星に似たものと名付けられました。",
+		"aftertaste": "完全な星にはなれなかった、孤独な岩塊。",
+		"example": "The asteroid belt lies between Mars and Jupiter.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "aster",
+					"meaning": "star"
+				}
+			],
+			"points": [
+				"android（人間に似たもの）等の -oid と同じ接尾辞です。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "stellar",
+		"word": "Stellar",
+		"meaning": "星の、見事な、傑出した",
+		"era": "17th Century Late Latin stellaris",
+		"etymology": {
+			"components": [
+				"stella (star)"
+			],
+			"original_statement": "From Late Latin stellaris (pertaining to a star), from stella (star)."
+		},
+		"concept": "Of or relating to stars (星に属するもの)",
+		"thinking": "恒星のような自ら輝く存在であることを意味します。「星のように傑出した」という称賛のニュアンスを持つのは、人間の光への憧れを示しています。",
+		"aftertaste": "自ら燃える者の放つ、強烈な輝き。",
+		"example": "She gave a stellar performance in her debut film.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ster-",
+					"meaning": "star"
+				}
+			],
+			"points": [
+				"interstellar（恒星間の）という派生も有名です。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "solar",
+		"word": "Solar",
+		"meaning": "太陽の",
+		"era": "15th Century Latin solaris",
+		"etymology": {
+			"components": [
+				"sol (sun)"
+			],
+			"original_statement": "From Latin solaris (of the sun), from sol (sun)."
+		},
+		"concept": "Pertaining to the sun (太陽の属性)",
+		"thinking": "生命の源であり、全ての惑星を従える中心。絶対的な熱と光の象徴であり、エネルギーの究極の供給源を表します。",
+		"aftertaste": "万物を照らす、不屈の燃焼。",
+		"example": "Solar power is a key renewable energy source.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sawel-",
+					"meaning": "sun"
+				}
+			],
+			"points": [
+				"ヘリオス（ギリシャ語）とも遠い親戚関係にあります。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "dawn",
+		"word": "Dawn",
+		"meaning": "夜明け、始まり、(事実が)わかり始める",
+		"era": "12th Century Old English dagian",
+		"etymology": {
+			"components": [
+				"dagian (to become day)"
+			],
+			"original_statement": "From Old English dagian (to become day), related to dæg (day)."
+		},
+		"concept": "To become day (一日が生まれること)",
+		"thinking": "真っ暗な夜から最初の一筋の光が差し込む瞬間。新しい時代や出来事の「幕開け」、そして突然真実を「悟る」瞬間にも使われます。",
+		"aftertaste": "冷たい空気が、青白い光に温度を借る。",
+		"example": "The reality of the situation began to dawn on her.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "agh-",
+					"meaning": "a day"
+				}
+			],
+			"points": [
+				"英語の day（日）と深く結びついています。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "dusk",
+		"word": "Dusk",
+		"meaning": "夕暮れ、薄暗がり",
+		"era": "12th Century Old English dox",
+		"etymology": {
+			"components": [
+				"dox (dark, swarthy)"
+			],
+			"original_statement": "From Old English dox (dark, swarthy, obscure), evolved into meaning the darkening stage of twilight."
+		},
+		"concept": "The darkening stage (次第に暗闇へと沈みゆくさま)",
+		"thinking": "光が終わろうとする時間帯。twilightよりも少し暗く、夜が完全に支配を始める直前の、輪郭が全てぼやけていく時間帯を指します。",
+		"aftertaste": "すべての形が、影へと溶けてゆく。",
+		"example": "The streetlights flickered on at dusk.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "dus-",
+					"meaning": "bad, dark"
+				}
+			],
+			"points": [
+				"本来は『色が黒っぽい』という形容詞でした。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "planetary",
+		"word": "Planetary",
+		"meaning": "惑星の、地球規模の、放浪する",
+		"era": "16th Century Latin planetarius",
+		"etymology": {
+			"components": [
+				"planeta (wandering star)"
+			],
+			"original_statement": "From Latin planetarius (pertaining to planets), from Greek planetes (wanderer)."
+		},
+		"concept": "Of the wanderers (放浪者に関する)",
+		"thinking": "恒星のように空に固定されず、独自の軌道で動く星を彼らは「迷子」「放浪者」と呼びました。現在ではそのスケールの大きさから「地球規模の」という意味を帯びています。",
+		"aftertaste": "夜空を巡る、永遠の旅人。",
+		"example": "Climate change is a planetary crisis.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "pele-",
+					"meaning": "flat, to spread"
+				}
+			],
+			"points": [
+				"語源は『ふらふらと広がる・歩き回る』というイメージから来ています。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "stratosphere",
+		"word": "Stratosphere",
+		"meaning": "成層圏、最上層、最高段階",
+		"era": "20th Century French stratosphère",
+		"etymology": {
+			"components": [
+				"stratus (spread out, layer)",
+				"sphere"
+			],
+			"original_statement": "Coined by French meteorologist Teisserenc de Bort from Latin stratus (layer) + -sphere."
+		},
+		"concept": "The layered sphere (重なり合う層の圏)",
+		"thinking": "大気が層状に安定し、気象擾乱がほとんどない静かな高空。そこから転じて、「手の届かない超高レベルの状態（価格や名声）」の比喩としても使われます。",
+		"aftertaste": "乱気流を超越した、冷たく静かな高度。",
+		"example": "Real estate prices in the city have entered the stratosphere.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "stere-",
+					"meaning": "to spread"
+				}
+			],
+			"points": [
+				"ストリート（street / 舗装された層）と同根です。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "troposphere",
+		"word": "Troposphere",
+		"meaning": "対流圏",
+		"era": "20th Century French troposphère",
+		"etymology": {
+			"components": [
+				"tropos (turn, change)",
+				"sphere"
+			],
+			"original_statement": "Coined by Teisserenc de Bort from Greek tropos (turn, turn of direction) + -sphere, referring to upper convective currents."
+		},
+		"concept": "The turning sphere (かき混ぜられる変化の圏)",
+		"thinking": "私たち生き物が呼吸し、雲ができ、雨が降り、風が渦巻く、最もドラマチックで変化（tropos）に富んだ層。すべての地球上のドラマはここで起きます。",
+		"aftertaste": "混ざり合う大気、生命の舞台。",
+		"example": "Weather phenomena occur primarily in the troposphere.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "trep-",
+					"meaning": "to turn"
+				}
+			],
+			"points": [
+				"熱帯（tropics）も同じ『回転・変化』の語源を持っています。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "ionosphere",
+		"word": "Ionosphere",
+		"meaning": "電離層",
+		"era": "20th Century English",
+		"etymology": {
+			"components": [
+				"ion (going)",
+				"sphere"
+			],
+			"original_statement": "Coined by Robert Watson-Watt from 'ion' + 'sphere', describing the upper region ionized by solar radiation."
+		},
+		"concept": "The sphere of wandering particles (彷徨う粒子の圏)",
+		"thinking": "紫外線によって空気の分子が電気を帯びた粒子（イオン）に分かれる層。ここで電波が反射されるおかげで、人類は地球の裏側と通信することができました。",
+		"aftertaste": "目に見えない波が、空の鏡で反射する。",
+		"example": "Radio waves can bounce off the ionosphere.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ei-",
+					"meaning": "to go"
+				}
+			],
+			"points": [
+				"イオンの語源はギリシャ語の『行くもの・歩き回るもの』です。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "mesosphere",
+		"word": "Mesosphere",
+		"meaning": "中間圏",
+		"era": "20th Century English",
+		"etymology": {
+			"components": [
+				"mesos (middle)",
+				"sphere"
+			],
+			"original_statement": "Coined from Greek mesos (middle) + sphere."
+		},
+		"concept": "The middle sphere (真ん中の圏)",
+		"thinking": "成層圏と熱圏の間に挟まれた、極寒の層。大気圏の中で最も温度が低く、ここで多くの流星（メテオ）が燃え尽きます。地球の防護盾の最前線。",
+		"aftertaste": "燃え尽きる星屑たちを受け止める、冷たい壁。",
+		"example": "Meteors burn up when they enter the mesosphere.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "medhyo-",
+					"meaning": "middle"
+				}
+			],
+			"points": [
+				"メソポタミア（真ん中の川の土地）のメソと同根です。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "exosphere",
+		"word": "Exosphere",
+		"meaning": "外気圏",
+		"era": "20th Century English",
+		"etymology": {
+			"components": [
+				"exo- (outside)",
+				"sphere"
+			],
+			"original_statement": "Coined from Greek exo- (outside, outer) + sphere."
+		},
+		"concept": "The outermost sphere (一番外側の圏)",
+		"thinking": "大気が極端に薄くなり、空気の分子同士が衝突することなく、一部は重力を振り切って宇宙へ逃げていく脱出限界線。地球と宇宙の曖昧な溶け合い。",
+		"aftertaste": "分子たちが、静かに宇宙の海へ漕ぎ出す。",
+		"example": "Satellites orbit Earth in the exosphere.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "eghs",
+					"meaning": "out"
+				}
+			],
+			"points": [
+				"exit や exotic など、外へ向かう言葉と共通。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "lithosphere",
+		"word": "Lithosphere",
+		"meaning": "岩石圏、リソスフェア",
+		"era": "19th Century German Lithosphäre",
+		"etymology": {
+			"components": [
+				"lithos (stone)",
+				"sphere"
+			],
+			"original_statement": "From Greek lithos (stone) + sphere, denoting the rigid outer part of the earth."
+		},
+		"concept": "The stone sphere (石の球体)",
+		"thinking": "地球の固い外殻を示す言葉。地殻とマントル最上部のプレートのこと。私たちの文明はこの硬い岩石の上に建てられています。",
+		"aftertaste": "途方もない圧力を秘めた、沈黙の岩盤。",
+		"example": "Tectonic plates are fragments of the lithosphere.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "lithos",
+					"meaning": "stone"
+				}
+			],
+			"points": [
+				"モノリス（monolith）やリチウム（lithium）と同根。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "hydrosphere",
+		"word": "Hydrosphere",
+		"meaning": "水圏",
+		"era": "19th Century English",
+		"etymology": {
+			"components": [
+				"hydro- (water)",
+				"sphere"
+			],
+			"original_statement": "From Greek hydor (water) + sphere, encompassing all the earth's water."
+		},
+		"concept": "The water sphere (水の球界)",
+		"thinking": "海、川、湖、地下水、果ては雲の中の水蒸気まで。地球の表面を覆い、生命の維持に不可欠な絶えず循環する液体の層。",
+		"aftertaste": "常に姿を変えながら、地球を潤す脈動。",
+		"example": "The oceans make up the vast majority of the hydrosphere.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "wed-",
+					"meaning": "water, wet"
+				}
+			],
+			"points": [
+				"hydration（水分補給）と同じ由来。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "cryosphere",
+		"word": "Cryosphere",
+		"meaning": "雪氷圏",
+		"era": "20th Century English",
+		"etymology": {
+			"components": [
+				"kryos (cold, frost)",
+				"sphere"
+			],
+			"original_statement": "From Greek kryos (icy cold, frost) + sphere."
+		},
+		"concept": "The icy sphere (凍れる球界)",
+		"thinking": "氷河、氷山、永久凍土など、水が固体として存在するエリア。地球の温度を調節する巨大な鏡であり、気候変動を一番敏感に察知するセンサーです。",
+		"aftertaste": "何万年もの時間を閉じ込めた、白い記憶の貯蔵庫。",
+		"example": "Melting of the cryosphere contributes to sea-level rise.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kru-",
+					"meaning": "frozen"
+				}
+			],
+			"points": [
+				"cryogenics（極低温学）や crystal（結晶/氷）と同源です。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "hemisphere",
+		"word": "Hemisphere",
+		"meaning": "半球",
+		"era": "14th Century Latin hemisphaerium",
+		"etymology": {
+			"components": [
+				"hemi- (half)",
+				"sphere"
+			],
+			"original_statement": "From Late Latin hemisphaerium, from Greek hemisphairion, from hemi- (half) + sphaira (sphere)."
+		},
+		"concept": "Half of a sphere (球の半分)",
+		"thinking": "地球を北と南、あるいは東と西に二分するだけでなく、人間の脳の右半球・左半球のようにも用いられます。二元性を現す幾何学的な表現。",
+		"aftertaste": "丸い世界を分かつ、見えない一本の刃。",
+		"example": "The Northern Hemisphere experiences summer in July.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "semi-",
+					"meaning": "half"
+				}
+			],
+			"points": [
+				"ラテン系の semi- に対して、ギリシャ系の hemi- です。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "latitude",
+		"word": "Latitude",
+		"meaning": "緯度、(思想や行動の)自由、許容範囲",
+		"era": "14th Century Latin latitudo",
+		"etymology": {
+			"components": [
+				"latus (broad, wide)"
+			],
+			"original_statement": "From Latin latitudo (breadth, width, extent, size), from latus (wide, broad)."
+		},
+		"concept": "Breadth or width (幅の広さ)",
+		"thinking": "赤道から北や南への「広がり」。そこから比喩的に、規則でガチガチではない「行動や思考の自由な幅・ゆとり」という意味に使われるのが非常に詩的です。",
+		"aftertaste": "横への広がりは、心のゆとりの広がり。",
+		"example": "Employees are given a lot of latitude in how they complete their tasks.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "stel-",
+					"meaning": "to put, stand, broad"
+				}
+			],
+			"points": [
+				"航海時代、横（赤道からの距離・緯度）を図るのは比較的簡単でした。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "longitude",
+		"word": "Longitude",
+		"meaning": "経度",
+		"era": "15th Century Latin longitudo",
+		"etymology": {
+			"components": [
+				"longus (long)"
+			],
+			"original_statement": "From Latin longitudo (length, duration), from longus (long)."
+		},
+		"concept": "Length (縦の長さ)",
+		"thinking": "地球を縦に割る線。「緯度」が北極星などの角度から調べられたのに対して、「経度」を正確に測るには高精度な時計（クロノメーター）が必要であり、大航海時代最大の難問でした。",
+		"aftertaste": "時間を計らなければ、自分の縦位置は分からない。",
+		"example": "The prime meridian is at zero degrees longitude.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "longus",
+					"meaning": "long"
+				}
+			],
+			"points": [
+				"longevity（長寿）などと同じ語源を持っています。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "meridian",
+		"word": "Meridian",
+		"meaning": "子午線、経線、絶頂期",
+		"era": "14th Century Old French/Latin meridianus",
+		"etymology": {
+			"components": [
+				"meridies (midday, south)"
+			],
+			"original_statement": "From Latin meridianus (of midday, of noon), from meridies (midday), from medius (middle) + dies (day)."
+		},
+		"concept": "Midday or the point of highest noon (真昼、太陽が最も高く昇る線)",
+		"thinking": "太陽が真南にきて、一日の真ん中（昼の12時）を指し示す線。転じて、zenith同様に人生や国家の「最盛期」「絶頂」を意味します。AM/PM の M です。",
+		"aftertaste": "影が最も短くなる、眩しい頂点。",
+		"example": "He published his greatest novel at the meridian of his career.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "medhyo-",
+					"meaning": "middle"
+				},
+				{
+					"term": "dyeu-",
+					"meaning": "to shine, day"
+				}
+			],
+			"points": [
+				"ante meridiem (AM: 午前) / post meridiem (PM: 午後) の語源です。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "equator",
+		"word": "Equator",
+		"meaning": "赤道",
+		"era": "14th Century Latin aequator",
+		"etymology": {
+			"components": [
+				"aequare (to make equal)"
+			],
+			"original_statement": "From Medieval Latin aequator, from Latin aequare (to make equal), referring to the circle that equalizes day and night."
+		},
+		"concept": "The equalizer of day and night (昼と夜を等しくするもの)",
+		"thinking": "地球の真ん中を通る線。ここでは年間を通じて毎日、昼と夜の長さが常に12時間ずつ等しく（equal）なります。世界のバランスを取る中心線。",
+		"aftertaste": "地球を半分に分かつ、平等なる灼熱の帯。",
+		"example": "Ecuador is named after the equator that runs through it.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "aequus",
+					"meaning": "equal"
+				}
+			],
+			"points": [
+				"equation（方程式・等しくすること）から来た言葉です。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "tropics",
+		"word": "Tropics",
+		"meaning": "熱帯地方",
+		"era": "14th Century Late Latin/Greek tropikos",
+		"etymology": {
+			"components": [
+				"tropos (a turn, solstice)"
+			],
+			"original_statement": "From Late Latin tropicus (of the solstice), from Greek tropikos (of or pertaining to a turn or change or the solstice)."
+		},
+		"concept": "The regions of the turn (引き返す領域)",
+		"thinking": "太陽が真上を通過し、夏至・冬至に到達して「進行方向をUターンする」緯度（回帰線）の間の地域。常夏の暑い楽園のイメージを持つようになりました。",
+		"aftertaste": "太陽が踵を返す、光の満ちる場所。",
+		"example": "They went on vacation to the tropics to escape the winter.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "trep-",
+					"meaning": "to turn"
+				}
+			],
+			"points": [
+				"トロピカルフルーツの『トロピカル』は、天文学の方向転換から来ています。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "polar",
+		"word": "Polar",
+		"meaning": "極の、正反対の",
+		"era": "16th Century Middle French/Latin polaris",
+		"etymology": {
+			"components": [
+				"polus (end of an axis, pole)"
+			],
+			"original_statement": "From Medieval Latin polaris (heavenly) and Latin polus, from Greek polos (pivot, axis of the sky)."
+		},
+		"concept": "Pertaining to the pole or pivot (天の軸、あるいは極端な対立)",
+		"thinking": "地球の自転軸の末端という氷と雪の極地を意味するだけでなく、N極とS極のように「完全に相反する、対極的な」性質を表す言葉としても使われます。",
+		"aftertaste": "相容れない二極。だが、軸一つで繋がっている。",
+		"example": "Their political views are polar opposites.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kwel-",
+					"meaning": "to revolve, move around"
+				}
+			],
+			"points": [
+				"polarity（極性）、polarize（二極化させる）などの元です。"
+			]
+		},
+		"part_of_speech": "adjective"
 	}
 ];
