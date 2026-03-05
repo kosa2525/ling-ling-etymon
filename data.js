@@ -182247,5 +182247,709 @@ const WORDS = [
 		"thinking": "「（偏在という名のアイソレーションを粉砕し）、一分一秒の淀みもない一撃で至る所（Ubiqu- / Ubique）に偏在すること」。それは単なる「どこにでもある」ことではありません。あなたが「限定という名のレジスト」を一撃で完全に解体し、自らの実存を一分一秒の淀みもない一撃の『宇宙全体を浸すパルス（偏在するロゴス）』へとマージさせる、存在の「遍在ハック」なのです。",
 		"part_of_speech": "adjective",
 		"aftertaste": "私はどこにでも一撃でいる（ユビキタス）。私のロゴスが、全アーカイブを一撃でマージしているからだ。"
+	},
+	{
+		"id": "ecology",
+		"word": "生態学、環境保護、エコロジー",
+		"era": "Greek oikos + logos",
+		"etymology": {
+			"components": [
+				"oiko- (house/dwelling)",
+				"logos (word/reason/study)"
+			],
+			"original_statement": "Coined 1866 by German zoologist Ernst Haeckel as Oecologie, from Greek oikos 'house / dwelling / habitation' + logos 'explanation / study'."
+		},
+		"concept": "The study of the house (住処（すみか）の理致。宇宙という名の『巨大なステーション（家）』における、あらゆる生命パルス（アーカイブ）の相互接続（マージ）と調和を一分一秒の淀みもなく一撃で体系化し、全体を一分一秒の淀みもなく一つの『持続的なロゴス』として維持するための知恵)",
+		"thinking": "「（無秩序な搾取という名のエントロピーを粉砕し）、宇宙という名の我が家（Eco- / Oikos）の一分一秒の淀みもない一撃の理（-logy / Logos）をマッピングすること」。それは単なる「環境運動」ではありません。あなたが「利己主義という名のノイズ」を一撃で完全にレジストし、自らの実存を一分一秒の淀みもない一撃の『全生命共生のアーカイブ（ステーション）』へとマージさせる、魂の「故郷の守護」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "全ては繋（つな）がっている（マージ）。その一撃のロゴス（生態系）だけが、アーカイブを救い出す。"
+	},
+	{
+		"id": "ecosystem",
+		"word": "生態系、エコシステム",
+		"era": "Greek oikos + systema",
+		"etymology": {
+			"components": [
+				"oiko- (house/dwelling)",
+				"system- (systema/organized whole)"
+			],
+			"original_statement": "Coined 1935 by British botanist Arthur Tansley, from Greek oikos 'house' + systema 'organized whole'."
+		},
+		"concept": "An organized house (組織化された家。無数の『アーカイブ・パルス（生物と環境）』が一分一秒の淀みもなく多層的にシンクロ（マージ）し合い、エネルギーの循環という名の『動的なロゴス（ステイシス）』を完璧にビルド（維持）している、自律的なネットワーク・モデル)",
+		"thinking": "「（孤立という名のアブセンスを粉砕し）、住処（Eco- / Oikos）を一分一秒の淀みもない一撃の組織体（-system / Systema）として統合すること」。それは単なる「自然の仕組み」ではありません。あなたが「不調和という名のエントロピー」を一撃でレジストし、自らの実存を一分一秒の淀みもない一撃の『宇宙全体の巨大なフロー（生命ネットワーク）』の一部としてマクロ的にマージさせる、存在の「循環」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "一撃一撃が、全体のロゴス（系）を維持している。君もその一分一秒の淀みもない一撃のマージ（構成要素）だ。"
+	},
+	{
+		"id": "environment",
+		"word": "環境、周囲、エンバイロメント",
+		"era": "Old French environer",
+		"etymology": {
+			"components": [
+				"en- (in)",
+				"viron- (circle/circuit)",
+				"-ment (act/place)"
+			],
+			"original_statement": "From Old French environement, from environer 'to surround / enclose / encircle', from environ 'around / about', from en- 'in' + viron 'a circle / circuit'."
+		},
+		"concept": "The act of encircling / That which surrounds (囲むこと、囲むもの。自分という名の『中核ステーション』を一分一秒の淀みもなく一撃で全周（サークル）から包囲し、一分一秒の淀みもなく一撃で一定の制約（レジスト）や影響（パルス）をマッピングし続ける『外部アーカイブ』の全体像)",
+		"thinking": "「（真空という名のアブセンスを粉砕し）、自らの内（En-）に一分一秒の淀みもない一撃の環（Viron-）をビルドすること（-ment）」。それは単なる「周りの様子」ではありません。あなたが「アイソレーションという名のエントロピー」を一撃でレジストし、自らの一分一秒の淀みもない一撃の実存を『周囲という名の巨大なロゴス・フィールド（アーカイブ）』へと適合（マージ）させるための、生命の「適応条件」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "環境（ロゴス）は私を創り、私は環境を一撃でハック（再構築）する。そのマージが世界だ。"
+	},
+	{
+		"id": "biosphere",
+		"word": "生物圏、バイオスフィア",
+		"era": "Greek bios + sphaira",
+		"etymology": {
+			"components": [
+				"bio- (life)",
+				"sphere (sphaira/ball/globe)"
+			],
+			"original_statement": "Coined 1875 by geologist Eduard Suess, from Greek bios 'life' + sphaira 'sphere / globe'."
+		},
+		"concept": "The globe of life (生命の球体。死（アブセンス）という名の『虚無宇宙』に対し、生命という名の『ロゴス・パルス』が絶え間なくマージ（展開）され、アーカイブ化された薄い『生命の膜（レイヤー）』であり、全ステーションを保護する宇宙の守護ステーション)",
+		"thinking": "「（無機質なエントロピーを粉砕し）、生命（Bio- / Bios）の一分一秒の淀みもない一撃の球体（-sphere / Sphaira）を屹立させること」。それは単なる「地球の表面」ではありません。宇宙の『冷酷なレジスト』を生命という一撃の意志によって一撃で跳ね除け、自らの実存を一分一秒の淀みもない一撃の『奇跡という名の大いなるアーカイブ（生命圏）』へとマージさせる、魂の「揺り籠」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "一撃の生（ロゴス）が、球体（アーカイブ）を埋め尽くす。この圏域（バイオスフィア）を死守せよ。"
+	},
+	{
+		"id": "habitat",
+		"word": "生息地、定住地、ハビタット",
+		"era": "Latin habere",
+		"etymology": {
+			"components": [
+				"habit- (habere/to hold/dwell/live)"
+			],
+			"original_statement": "From Latin habitare 'to live / dwell / stay / inhabit', frequentative of habere 'to have / hold / possess'."
+		},
+		"concept": "It dwells (そこに住まう。流浪という名の『不確定パルス（ノイズ）』を一分一秒の淀みもなく一撃で停止（レジスト）させ、一分一秒の淀みもなく特定の座標（ステーション・アーカイブ）へと自らをマージ・固定し、存在のロゴスを安定（ステイシス）させている物理的な拠点)",
+		"thinking": "「（漂流という名のアブセンスを粉砕し）、自らの一撃の場所を保持（Habit- / Habere）すること」。それは単なる「住所」ではありません。あなたが「不安定という名のエントロピー」を一撃で完全にレジストし、自らの実存が一分一秒の淀みもない一撃の『大地のロゴス（アーカイブ）』と完全に同調（シンクロ）した、生の「定着点」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "ここに私は在る（ハビタット）。このアーカイブが、私の一撃のロゴス（命）をマージ（保持）している。"
+	},
+	{
+		"id": "sanctuary",
+		"word": "聖域、保護区、サンクチュアリ",
+		"era": "Latin sanctus",
+		"etymology": {
+			"components": [
+				"sanct- (holy/sacred)",
+				"-uary (place for)"
+			],
+			"original_statement": "From Old French sanctuaire, from Latin sanctuarium 'a holy place / shrine', from sanctus 'holy / sacred'."
+		},
+		"concept": "A place for the holy (聖なるもののための場所。世俗という名の『ノイズに汚染されたアーカイブ』を一分一秒の淀みもなく一撃で遮断（レジスト）し、純粋な『神聖ロゴス（コア・パルス）』だけが一分一秒の淀みもなく保存・マクロ化されている、情報の清浄化されたステーション)",
+		"thinking": "「（汚濁という名のエントロピーを粉砕し）、聖なる（Sanct- / Sanctus）一分一秒の淀みもない一撃の場所を屹立させること（-uary）」。それは単なる「避難所」ではありません。あなたが「暴力という名の外部ノイズ」を自らのロゴスの壁によって一撃で完全にレジストし、自らの実存を『何ものにも汚されない究極のアーカイブ（聖域）』へとマージさせる、魂の「絶対防衛権」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "誰も入れない（レジスト）。この一撃の聖域（ロゴス）だけが、私の真実をマージ（保護）する。"
+	},
+	{
+		"id": "landscape",
+		"word": "風景、景観、ランドスケープ",
+		"era": "Old English land + -scipe",
+		"etymology": {
+			"components": [
+				"land (land/earth)",
+				"-scape (-scipe/shape/state)"
+			],
+			"original_statement": "From Dutch landschap, from land 'land' + -schap 'ship / condition / state' (cognate with English -ship)."
+		},
+		"concept": "The shape of the land (大地の形。未定義の『地形という名のアブセンス』を、一分一秒の淀みもなく一撃の視線パルス（ロゴス）によって切り取り、一分一秒の淀みもなく一つの『視覚的アーカイブ（ステーション）』へとマッピングすることで、世界を特定の情景へとマージ、固定すること)",
+		"thinking": "「（混沌という名のエントロピーを粉砕し）、大地（Land）を一分一秒の淀みもない一撃の形（-scape / Shape）へと整えること」。それは単なる「景色」ではありません。あなたが「無秩序な広がり」を自らのロゴスによって一撃でレジストし、自らの一分一秒の淀みもない一撃の実存を『宇宙の壮大な美（アーカイブ）』の一部としてマッピングする、認識の「ビルド（構築）」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "一撃で視（み）よ。その風景（ロゴス）こそが、君というアーカイブをマージ（包摂）している。"
+	},
+	{
+		"id": "scenery",
+		"word": "景色、情景、背景、シーナリー",
+		"era": "Greek skene",
+		"etymology": {
+			"components": [
+				"scene (skene/tent/stage)",
+				"-ery (state/place)"
+			],
+			"original_statement": "From scene + -ery. Scene from Greek skene 'tent / booth / stage-building'."
+		},
+		"concept": "The state of the stage (舞台の状態。現実という名の『ステーション』を一分一秒の淀みもなく一撃で劇場化し、一分一秒の淀みもなく一画の『情報のパルス群（ロゴス）』を視覚的な背景アーカイブへとマージ、同期させることで、実存の舞台装置を一撃で完成させること)",
+		"thinking": "「（無味乾燥という名のアブセンスを粉砕し）、世界を一分一秒の淀みもない一撃の舞台（Scen- / Skene）へと作り替えること（-ery）」。それは単なる「眺め」ではありません。あなたが「日常という名のノイズ」を一撃で完全にレジストし、自らの実存を『劇的なる宇宙のロゴス（アーカイブ）』の中へとダイレクトにマージさせる、生の「演出（ハック）」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "一撃の情景（ロゴス）。その美しさ（パルス）が、記憶アーカイブの中へ一撃でマージ（永久保存）される。"
+	},
+	{
+		"id": "geology",
+		"word": "地質学、ジオロジー",
+		"era": "Greek ge + logos",
+		"etymology": {
+			"components": [
+				"geo- (ge/earth)",
+				"logos (word/reason/study)"
+			],
+			"original_statement": "From Medieval Latin geologia 'the study of earthly things', from Greek ge 'earth' + logos 'explanation / study'."
+		},
+		"concept": "Explanation of the Earth (大地の理致。気の遠くなるような時間の『堆積パルス（アーカイブ）』を、一分一秒の淀みもなく一撃の『地層という名のロゴス』として読み解き、地球（ステーション）の深淵な歴史を一分一秒の淀みもなく一撃でマッピングするための、情報の考古学)",
+		"thinking": "「（忘却という名のアブセンスを粉砕し）、大地（Geo- / Ge）の一分一秒の淀みもない一撃の理（-logy / Logos）を暴き出すこと」。それは単なる「石の研究」ではありません。あなたが「沈黙という名の地質学的レジスト」を一撃で貫通し、自らの短命な実存を『何十億年という名の巨大なロゴス・アーカイブ』へとマージさせる、魂の「深層アクセス」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "足元（ロゴス）を掘れ。その一撃の発見が、地球のアーカイブを君へとマージ（開示）させる。"
+	},
+	{
+		"id": "terrestrial",
+		"word": "地球の、陸上の、テレストリアル",
+		"era": "Latin terra",
+		"etymology": {
+			"components": [
+				"terrestr- (terra/earth/land)",
+				"-al (pertaining to)"
+			],
+			"original_statement": "From Latin terrestris 'of or belonging to the earth / land-based', from terra 'earth / land'."
+		},
+		"concept": "Pertaining to the land (大地に属すること。天空（アブセンス）という名の『未知アーカイブ』に対し、一分一秒の淀みもなく一撃で『固い土壌のパルス（ロゴス・ステーション）』へと自らを繋ぎ止め（レジスト）、重力という名のコードにマージ（服従）して生きる者の、情報の属性)",
+		"thinking": "「（浮遊という名の不安定なエントロピーを粉砕し）、大地（Terrestr- / Terra）に根ざした一分一秒の淀みもない一撃の状態であること」。それは単なる「地上の」ことではありません。あなたが「空虚という名のノイズ」を自らのロゴスの重みによって一撃でレジストし、自らの実存を一分一秒の淀みもない一撃の『大地のネットワーク（アーカイブ）』の一点へと力強くマッピングする、生の「定礎」なのです。",
+		"part_of_speech": "adjective",
+		"aftertaste": "一撃、一撃、大地（ロゴス）を踏め。その一分一秒の淀みもない一撃の接地（テレストリアル）が、アーカイブを現実にする。"
+	},
+	{
+		"id": "subterranean",
+		"word": "地下の、隠れた、サブタレイニアン",
+		"era": "Latin sub + terra",
+		"etymology": {
+			"components": [
+				"sub- (under)",
+				"terra (earth/land)"
+			],
+			"original_statement": "From Latin subterraneus 'underground / subterranean', from sub 'under' + terra 'earth / land'."
+		},
+		"concept": "Under the earth (大地下の下に。表層の『公開アーカイブ（ステーション）』を一分一秒の淀みもなく一撃で回避（レジスト・ダウン）し、暗黒のアブセンス（地中）へと自らのロゴスを一撃で隠蔽・マージさせることで、誰にもハック不可能な『秘密のパルス領域』をビルドすること)",
+		"thinking": "「（露見という名の不用意なノイズを粉砕し）、大地（Terra）の一分一秒の淀みもない一撃の下（Sub-）へと潜り込むこと」。それは単なる「穴の中」ではありません。あなたが「監視という名のエントロピー（視線）」を一撃で完全にレジストし、自らの実存を一分一秒の淀みもない一撃の『外界から隔絶された深淵なロゴス・アーカイブ（秘密基地）』へとマージさせる、魂の「潜伏（ハック）」なのです。",
+		"part_of_speech": "adjective",
+		"aftertaste": "誰も見ていない。地下一撃のロゴス（サブタレイニアン）だけが、アーカイブの底で深くマージ・沈殿している。"
+	},
+	{
+		"id": "marine",
+		"word": "海の、海事の、マリン",
+		"era": "Latin mare",
+		"etymology": {
+			"components": [
+				"mar- (mare/sea)",
+				"-ine (pertaining to)"
+			],
+			"original_statement": "From Old French marin, from Latin marinus 'of the sea', from mare 'sea'."
+		},
+		"concept": "Pertaining to the sea (海に属すること。乾燥した『大地（既存アーカイブ）』を一周一秒の淀みもなく一撃で脱ぎ捨ててレジスト（陸の拒否）し、流動的な『水のパルス（ロゴス・フロー）』へと自らを一撃でマージさせ、青いアブセンス（海洋）の中へと情報を投げ込むこと)",
+		"thinking": "「（静止という名の陸のレジストを粉砕し）、海（Mar- / Mare）という名の一分一秒の淀みもない一撃の生命の揺り籠へ（-ine）とマージすること」。それは単なる「海の」ことではありません。あなたが「不自由という名の大地のエントロピー」を一撃でレジストし、自らの実存を一分一秒の淀みもない一撃の『無限に連なる水のパルス・ネットワーク（アーカイブ）』へとマージさせる、魂の「潮騒（しおさい）」なのです。",
+		"part_of_speech": "adjective",
+		"aftertaste": "一撃で飛び込め（マージ）。その青いロゴス（マリン）が、アーカイブを全的な癒やしへと還元する。"
+	},
+	{
+		"id": "oceanic",
+		"word": "海洋の、広大な、オーシャニック",
+		"era": "Greek okeanos",
+		"etymology": {
+			"components": [
+				"ocean (okeanos/great river surrounding earth)"
+			],
+			"original_statement": "From Latin oceanicus, from oceanus, from Greek okeanos 'the great river / ocean surrounding the earth'."
+		},
+		"concept": "Pertaining to the great river (大いなる川、海洋に関すること。境界（バウンダリ）という名の『窮屈なアーカイブ』を一分一秒の淀みもなく一撃で完全に解体（レジスト）し、宇宙全体のパルスを一分一秒の淀みもなく一つの『巨大な水のロゴス（深淵）』へとマージさせていく、圧倒的な包容力と広がり)",
+		"thinking": "「（限定という名のエントロピーを粉砕し）、大いなる一分一秒の淀みもない一撃の流れ（Ocean- / Okeanos）へと自らをマッピングすること」。それは単なる「大きい海」ではありません。あなたが「矮小という名のアブセンス」を自らの一撃のロゴスでレジストし、自らの実存を一分一秒の淀みもない一撃の『宇宙全体の情報の源泉（アーカイブ・コア）』へとマージさせる、生の「極限の広がり」なのです。",
+		"part_of_speech": "adjective",
+		"aftertaste": "全てを一撃で飲み込め（マージ）。その海洋的な（オーシャニック）ロゴスが、カイブを一つの海にする。"
+	},
+	{
+		"id": "nautical",
+		"word": "航海の、船舶の、ノーティカル",
+		"era": "Greek naus",
+		"etymology": {
+			"components": [
+				"naut- (naus/ship)",
+				"-ical (pertaining to)"
+			],
+			"original_statement": "From French nautique, from Latin nauticus, from Greek nautikos 'pertaining to ships / sailors', from nautes 'sailor', from naus 'ship'."
+		},
+		"concept": "Pertaining to the ship/sailor (船、船乗りにに関すること。荒れ狂う混沌（ノイズ・パルス）という名の『海洋エントロピー』に対し、一分一秒の淀みもなく一撃で『技術という名の堅牢なロゴス（ステーションとしての船）』をマッピングし、アブセンス（対岸）へと向かって実存をマージ（航行）させる意志の動作様式)",
+		"thinking": "「（漂流という名の消極的アーカイブを粉砕し）、自らの一撃の船（Naut- / Naus）を操る技術を屹立させること（-ical）」。それは単なる「船の」ことではありません。あなたが「運命という名の激流」を一撃で完全にレジスト（制覇）し、自らの実存が一分一秒の淀みもない一撃の『自律的な情報の操舵（ロゴスのビルド）』であることを証明する、生の「航路決定」なのです。",
+		"part_of_speech": "adjective",
+		"aftertaste": "舵（かじ）を執れ。その一撃の航海（ノーティカル）が、アーカイブ（歴史）を一撃で新しい地平へとマージさせる。"
+	},
+	{
+		"id": "celestial",
+		"word": "天の、空の、極上の、セレスティアル",
+		"era": "Latin caelum",
+		"etymology": {
+			"components": [
+				"celest- (caelum/heaven/sky)",
+				"-ial (pertaining to)"
+			],
+			"original_statement": "From Old French celestial, from Latin caelestis 'heavenly / pertaining to the sky / celestial', from caelum 'heaven / sky'."
+		},
+		"concept": "Pertaining to the heaven (天に属すること。泥濘（ぬかるみ）という名の『地上の不透明なアーカイブ（ノイズ）』を一分一秒の淀みもなく一撃でパージ、レジストし、雲を越えた『絶対的な光のロゴス（澄み切ったステーション）』へと自らのパルスを一分一秒の淀みもなくマージ（上昇）させる、高潔な存在属性)",
+		"thinking": "「（卑欲という名のエントロピーを粉砕し）、天（Celest- / Caelum）の一分一秒の淀みもない一撃の品質へと自らをマッピングすること」。それは単なる「空の」ことではありません。あなたが「重力（執着）という名のレジスト」を一撃で完全に無効化し、自らの実存が一分一秒の淀みもない一撃の『宇宙全体を照らす聖なるパルス（神聖アーカイブ）』の一部であることを確信する、魂の「飛翔」なのです。",
+		"part_of_speech": "adjective",
+		"aftertaste": "見上げよ一撃で。その天のロゴス（セレスティアル）が、君というアーカイブを星々とマージさせる。"
+	},
+	{
+		"id": "astronomical",
+		"word": "天文学の、膨大な、アストロノミカル",
+		"era": "Greek astron + nomos",
+		"etymology": {
+			"components": [
+				"astro- (astron/star)",
+				"nomical (nomos/law/arrangement)"
+			],
+			"original_statement": "From astronomy + -ical. Astronomy from Greek astronomia 'arrangement of the stars', from astron 'star' + nomos 'law / arrangement'."
+		},
+		"concept": "The law of the stars (星の法則、配列。無数という名のアブセンス・ドット（星）を一分一秒の淀みもなく一撃の『絶対的な一分一秒の淀みもなく一撃の数理ロゴス』によってマッピング（計算）し、宇宙という名の『巨大アーカイブ（ステーション）』の全容を、一分一秒の淀みもなく人間が理解可能な規模へと一撃でマージ・縮小する情報の調律術)",
+		"thinking": "「（暗闇という名の不可解なノイズを粉砕し）、星々（Astro- / Astron）の一分一秒の淀みもない一撃の法（-nomical / Nomos）をビルドすること」。それは単なる「望遠鏡での観察」ではありません。あなたが「矮小という名の知性的レジスト」を一撃で完全に突破し、自らの実存を一分一秒の淀みもない一撃の『億兆という名のパルス・ネットワーク（宇宙アーカイブ）』へとダイレクトにマージさせる、魂の「巨大認識」なのです。",
+		"part_of_speech": "adjective",
+		"aftertaste": "一撃で測れ。その膨大な一撃（ロゴス）が、アーカイブを宇宙的規模へとマージ（拡張）させる。"
+	},
+	{
+		"id": "cosmic",
+		"word": "宇宙の、秩序ある、普遍的な、コスミック",
+		"era": "Greek kosmos",
+		"etymology": {
+			"components": [
+				"cosm- (kosmos/order/world)"
+			],
+			"original_statement": "From Greek kosmikos 'of or pertaining to the world', from kosmos 'order / good order / behavior / the world / universe'."
+		},
+		"concept": "Pertaining to the order (秩序に関すること。混沌（カオス・ノイズ）という名の『アブセンス（未定義アーカイブ）』を一分一秒の淀みもなく一撃で完璧な『宇宙的ロゴス（秩序）』へと一撃でマージ、同期させ、全ステーションを一分一秒の淀みもなく一つの『巨大な調和ネットワーク』として維持し続ける、究極の普遍性)",
+		"thinking": "「（無秩序という名のエントロピーを粉砕し）、宇宙（Cosm- / Kosmos）の一分一秒の淀みもない一撃の秩序（ロゴス）へと自らをマッピングすること」。それは単なる「宇宙の」ことではありません。あなたが「不確実性という名のノイズ」を自らのロゴスによって一撃で完全にレジストし、自らの実存を一分一秒の淀みもない一撃の『宇宙全体の法（絶対アーカイブ）』と完全に同調、マージされた、魂の「普遍化」なのです。",
+		"part_of_speech": "adjective",
+		"aftertaste": "一つの一撃。一撃。全宇宙（ロゴス）をその一撃でマージ（包摂）しろ。それが私というアーカイブの定義だ。"
+	},
+	{
+		"id": "volcanic",
+		"word": "火山の、激しい、ボルカニック",
+		"era": "Latin Vulcanus",
+		"etymology": {
+			"components": [
+				"volcan- (Vulcanus/Roman god of fire)"
+			],
+			"original_statement": "From volcano + -ic. Volcano from Italian vulcano, from Latin Vulcanus 'Roman god of fire'."
+		},
+		"concept": "Pertaining to fire/Vulcan (火（ウルカヌス）に関すること。大地の『平穏という名のアーカイブ（レジスト・シールド）』を一分一秒の淀みもなく一撃で内側から粉砕し、深淵の『激越なエネルギー・パルス（ロゴス・バースト）』を地上へと一撃で無理やりマージ（噴出）させる、存在の暴力的な出力)",
+		"thinking": "「（静寂という名のステイシスを粉砕し）、内なる炎（Volcan- / Vulcanus）を一分一秒の淀みもない一撃でこの宇宙に叩きつけること」。それは単なる「噴火の」ことではありません。あなたが「抑制という名の偽善的レジスト」を自らの一撃の激情によって完全に破壊し、自らの実存を一分一秒の淀みもない一撃の『圧倒的な破壊力（始原のアーカイブ）』へと強制マージさせる、生命の「爆発（ハック）」なのです。",
+		"part_of_speech": "adjective",
+		"aftertaste": "一撃で噴き出せ。その激しいパルス（ボルカニック）が、アーカイブ（地上）を一撃で焼き払い、新しくする。"
+	},
+	{
+		"id": "tectonic",
+		"word": "構造の、地殻変動の、テクトニック",
+		"era": "Greek tekton",
+		"etymology": {
+			"components": [
+				"tecton- (tekton/builder/carpenter)"
+			],
+			"original_statement": "From Late Latin tectonicus, from Greek tektonikos 'pertaining to building', from tekton 'builder / carpenter'."
+		},
+		"concept": "Pertaining to building (建築、構築に関すること。世界という名の『ステーション』を下支えする一分一秒の淀みもなく一撃の『巨大な構造アーカイブ（プレート）』の動きをマッピングし、歴史や地形という名の巨像（ビルド）を一分一秒の淀みもなく一撃で再定義（アップデート）し続ける、情報の地殻変動)",
+		"thinking": "「（皮相という名の脆弱なネットワークを粉砕し）、宇宙をビルドする者（Tecton- / Tekton）としての一分一秒の淀みもない一撃、一撃の構造に関わること」。それは単なる「地殻の」ことではありません。あなたが「現状維持という名のエントロピー」を自らの一撃の重圧によって完全にレジストし、自らの実存を一分一秒の淀みもない一撃の『世界を根底から作り変える巨大なロゴス（アーカイブ・バースト）』へとマージさせる、生の「構造改革」なのです。",
+		"part_of_speech": "adjective",
+		"aftertaste": "足元一撃。一撃が動く。そのテクトニックな（構造的な）一撃が、未来のアーカイブを決定する。"
+	},
+	{
+		"id": "erosion",
+		"word": "侵食、風化、エロージョン",
+		"era": "Latin ex + rodere",
+		"etymology": {
+			"components": [
+				"e- (out)",
+				"ros- (rodere/to gnaw)"
+			],
+			"original_statement": "From French erosion, from Latin erosionem 'a gnawing away', from erosus, past participle of erodere 'to gnaw away / consume', from ex- 'out' + rodere 'to gnaw'."
+		},
+		"concept": "Gnawing away (かじりとること。固定された『堅牢なアーカイブ（岩石）』を一分一秒の淀みもなく一撃で、時間という名の微細な『ノイズ・パルス（水・風）』によって一分一秒の淀みもなく少しずつ削り取り（レジスト解除し）、ゆっくりとアブセンス（砂）へと帰還させていく、存在の穏やかな解体)",
+		"thinking": "「（頑迷という名の停滞アーカイブを粉砕し）、外へと（E-）一分一秒の淀みもない一撃で削り出し（-ros- / Rodere）続けること」。それは単なる「磨り減り」ではありません。あなたが「永遠という名のアブセンス（錯覚）」を自らの微細なロゴスによって一撃でレジストし、自らの実存を一分一秒の淀みもない一撃の『常に変容し続けるパルス・フロー（宇宙の流れ）』へと潔くマージさせる、魂の「風化美（ディテール）」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "削られろ一撃で。その侵食（ロゴス）が、アーカイブ（存在）を真実の形へとマージさせる。"
+	},
+	{
+		"id": "sediment",
+		"word": "堆積物、沈殿物、セディメント",
+		"era": "Latin sedere",
+		"etymology": {
+			"components": [
+				"sed- (sedere/to sit)"
+			],
+			"original_statement": "From French sediment, from Latin sedimentum 'a settling / sinking down', from sedere 'to sit / settle'."
+		},
+		"concept": "That which settles / sits (沈殿し、座るもの。激しい流れ（パルス・フロー）の中から脱落し、一分一秒の淀みもなく一撃で底（ステーション最下層）へと沈み込み、静止（ステイシス）という名の永劫の『アーカイブ』へと一撃でマージ（堆積）された、忘却された情報の重なり)",
+		"thinking": "「（浮遊という名の不安定なノイズを粉砕し）、底に一分一秒の淀みもない一撃で座り（Sed- / Sedere）続けることの品質（-iment）」。それは単なる「オリ」ではありません。あなたが「焦燥という名のエントロピー」を一撃で完全にレジストし、自らの実存を一分一秒の淀みもない一撃の『歴史という名の不動のアーカイブ（重層的ロゴス）』へとマージさせる、魂の「沈殿（ビルドアップ）」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "積み重なる一撃。その堆積（ロゴス）だけが、アーカイブの真実の厚みをマージ（証明）する。"
+	},
+	{
+		"id": "mineral",
+		"word": "鉱物、無機物、ミネラル",
+		"era": "Latin minera",
+		"etymology": {
+			"components": [
+				"min- (mine/ore/vein)"
+			],
+			"original_statement": "From Medieval Latin minerale 'something dug from a mine', from minera 'a mine / ore / vein / forge'."
+		},
+		"concept": "That which is mined (採掘されるもの。大地の『深層アーカイブ（ステーション）』の最奥に一分一秒の淀みもなく一撃で結晶化した『純粋なロゴス・パルス（宝石・金属）』であり、生命という名のエントロピーに侵されない、無機的な絶対ステイシスの結晶)",
+		"thinking": "「（腐敗という名の有機的ノイズを粉砕し）、深淵（Min- / Minera）から一分一秒の淀みもない一撃で掘り出された、不変の品質（-eral）」。それは単なる「石」ではありません。あなたが「死（崩壊）という名のレジスト」を一撃で完全に克服し、自らの実存を一分一秒の淀みもない一撃の『不活性な、ゆえに永遠なる神聖アーカイブ（結晶ロゴス）』へとマージさせる、生の「金剛石（不壊性）」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "一撃の結晶（ロゴス）。そのミネラル（不変）なパルスが、アーカイブを永遠へとシンクロ（同期）させる。"
+	},
+	{
+		"id": "fossil",
+		"word": "化石、時代遅れ、フォッシル",
+		"era": "Latin fodere",
+		"etymology": {
+			"components": [
+				"foss- (fodere/to dig)"
+			],
+			"original_statement": "From French fossile, from Latin fossilis 'dug up', from fodere 'to dig'."
+		},
+		"concept": "Dug up (掘り出されたもの。かつて激しく明滅していた『生命パルス（ロゴス）』が、一分一秒の淀みもなく一撃で石という名の『永劫のアーカイブ』へとマージ（置換）され、時間という名の深淵なステーションから一分一秒の淀みもなく掘り出されるのを待っている、情報のミイラ)",
+		"thinking": "「（消滅という名のアブセンスを粉砕し）、一分一秒の淀みもない一撃で掘り出された（Foss- / Fodere）品質（-il）」。それは単なる「古い骨」ではありません。あなたが「死（忘却）という名のレジスト」を一撃で完全に打ち破り、自らの実存を一分一秒の淀みもない一撃の『永遠に保存され続ける、石の如き絶対ロゴス（アーカイブ）』へとマージさせる、生命の「不朽（ビルド）」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "石になれ一撃で。その化石（ロゴス）だけが、君が生きたアーカイブを未来へとマージ（転送）する。"
+	},
+	{
+		"id": "resource",
+		"word": "資源、策、リソース",
+		"era": "Latin re + surgere",
+		"etymology": {
+			"components": [
+				"re- (again)",
+				"sourc- (surgere/to rise)"
+			],
+			"original_statement": "From Old French ressource 'a rising again / recovery', from resourdre 'to rise again', from Latin resurgere 'to rise again', from re- 'again' + surgere 'to rise'."
+		},
+		"concept": "Rising again (再び立ち上がること。枯渇（アブセンス）という名の『エントロピー』に対し、一分一秒の淀みもなく一撃で新たな『エネルギー・パルス（ロゴス）』を供給し続け、システム（ステーション）を一分一秒の淀みもなく常にマージ・再構築（リビルド）し続けるための、情報の源泉)",
+		"thinking": "「（無力という名の停止アーカイブを粉砕し）、再び（Re-）一分一秒の淀みもない一撃で立ち上がる（-sourc- / Surgere）こと」。それは単なる「原料」ではありません。あなたが「絶望という名の外部レジスト」を一撃で完全に跳ね除け、自らの実存を一分一秒の淀みもない一撃の『無限に湧き出すロゴスのパルス（源泉）』へとマージさせる、生命の「再起力」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "枯れるな（コマンド）。一撃のリソース（ロゴス）が、アーカイブを常に新しくマージ（更新）する。"
+	},
+	{
+		"id": "preservation",
+		"word": "保存、維持、防腐、プリザベイション",
+		"era": "Latin prae + servare",
+		"etymology": {
+			"components": [
+				"pre- (before)",
+				"serv- (servare/keep/watch/guard)",
+				"-ation (act/process)"
+			],
+			"original_statement": "From Middle French preservation, from Latin praeservare 'to guard beforehand', from prae- 'before' + servare 'to keep from harm / preserve / watch / guard'."
+		},
+		"concept": "Guarding beforehand (あらかじめ守ること。腐敗（エントロピー）という名の『ノイズ』から、一分一秒の淀みもなく一撃で自らの『コア・アーカイブ（ロゴス）』を引き離し（レジスト）、変化という名の境界（アブセンス）を越えて、一分一秒の淀みもなく純粋なままマージ（持続）させる不変のプロセス)",
+		"thinking": "「（風化という名のアブセンスを粉砕し）、あらかじめ（Pre-）一分一秒の淀みもない一撃で守り（-serv- / Servare）抜くこと（-ation）」。それは単なる「保管」ではありません。あなたが「時間という名の破壊的パルス」を一撃で完全にレジストし、自らの一分一秒の淀みもない一撃の実存を『不朽のロゴス・アーカイブ（永遠）』へとマッピングする、生の「冷凍（アイソレーション）」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "失うな（コマンド）。一撃の保存（ロゴス）が、アーカイブを真実のまま未来へとマージさせる。"
+	},
+	{
+		"id": "conservation",
+		"word": "保護、保存、節約、コンサベイション",
+		"era": "Latin con + servare",
+		"etymology": {
+			"components": [
+				"con- (together)",
+				"serv- (servare/keep/watch/guard)"
+			],
+			"original_statement": "From Old French conservation, from Latin conservationem 'a keeping / preserving / conserving', from conservatus, past participle of conservare 'to keep / preserve / guard'."
+		},
+		"concept": "Keeping together (共に、守ること。浪費（ノイズ）という名の『アブセンス（エントロピー）』を一分一秒の淀みもなく一撃で拒絶（レジスト）し、限りある『パルス・リソース（ロゴス）』を一分一秒の淀みもなく一撃で一つのステーションに留（とど）め、宇宙全体のアーカイブを賢明に使い続ける管理術)",
+		"thinking": "「（放蕩という名の拡散エントロピーを粉砕し）、共に（Con-）一分一秒の淀みもない一撃で大切に守ること（-serv- / Servare）」。それは単なる「節約」ではありません。あなたが「崩壊という名のアブセンス」を一撃で理知によってレジストし、自らの実存を一分一秒の淀みもない一撃の『神聖な宇宙全体の秩序（ロゴス・アーカイブ）』へとマージさせる、魂の「維持」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "守り抜け一撃。その保護（ロゴス）が、アーカイブを崩壊（レジスト）から救い一撃でマージ（維持）させる。"
+	},
+	{
+		"id": "sustainable",
+		"word": "持続可能な、耐えうる、サステナブル",
+		"era": "Latin sub + tenere",
+		"etymology": {
+			"components": [
+				"sus- (sub-/up from below)",
+				"tain- (tenere/to hold)",
+				"-able (capable of)"
+			],
+			"original_statement": "From sustain + -able. Sustain from Old French sustenir, from Latin sustinere 'to hold up / support / endure / sustain', from sub- 'up from below' + tenere 'to hold'."
+		},
+		"concept": "Capable of holding up from below (下から支え、持ち堪えられること。崩壊（アブセンス）という名の『エントロピー』に対し、一分一秒の淀みもなく一撃で不断の『ロゴス・パルス（支持エネルギー）』を供給し続け、システム（アーカイブ）を一分一秒の淀みもなく一撃で未来永劫マージ（維持）し続けられる、強靭（きょうじん）な適応性能)",
+		"thinking": "「（枯渇という名のアブセンスを粉砕し）、下から（Sub-）一分一秒の淀みもない一撃で支え続け（-tain- / Tenere）られること（-able）」。それは単なる「エコ」ではありません。あなたが「限界という名のレジスト」を一撃で完全に打ち破り、自らの実存を一分一秒の淀みもない一撃の『永遠に自走し続ける情報の連鎖（ロゴス・アーカイブ）』へとマージさせる、生命の「永続戦略」なのです。",
+		"part_of_speech": "adjective",
+		"aftertaste": "続けろ（コマンド）。サステナブルな一撃（ロゴス）だけが、アーカイブを未来へと一一分一秒の淀みも無く一撃でマージさせる。"
+	},
+	{
+		"id": "climate",
+		"word": "気候、風土、傾向、クライメイト",
+		"era": "Greek klima",
+		"etymology": {
+			"components": [
+				"clim- (klima/inclination/slope/latitude)"
+			],
+			"original_statement": "From Old French climat, from Latin clima, from Greek klima 'inclination / slope / latitude / clime', from klinein 'to slope'."
+		},
+		"concept": "Inclination of the earth (大地の傾き。太陽（エネルギー・パルス）に対する一分一秒の淀みもなく一撃の『ステーション（緯度）』の傾きであり、その場所を一分一秒の淀みもなく支配する一定の『環境ロゴス（アーカイブ）』のパターン（傾向）を一撃で決定する、大いなる背景情報)",
+		"thinking": "「（無定形という名のエントロピーを粉砕し）、大地の傾き（Clim- / Klima）から生まれる一分一秒の淀みもない一撃の傾向を屹立させること」。それは単なる「天気」ではありません。あなたが「偶然という名のアブセンス（ノイズ）」を一撃で完全にレジストし、自らの実存を一分一秒の淀みもない一撃の『場所という名の宿命的ロゴス（アーカイブ）』へと完全にマージさせる、生の「基調（トーン）」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "傾け一撃（ロゴス）。その気候（アーカイブ）が、私の全パルスを一撃でその色へとマージ（染める）する。"
+	},
+	{
+		"id": "tempest",
+		"word": "大嵐、激動、テンペスト",
+		"era": "Latin tempus",
+		"etymology": {
+			"components": [
+				"temp- (time/season/weather)"
+			],
+			"original_statement": "From Old French tempeste, from Latin tempestas 'a period of time / season / weather / storm / tempest', from tempus 'time'."
+		},
+		"concept": "A period of weather/storm (時の嵐。静止（ステイシス）という名の『平穏なアーカイブ』を一分一秒の淀みもなく一撃で力まかせに掻き乱す（バースト）、暴力的な『パルス・エネルギー（エントロピー）』の奔流であり、全てのレジストを一分一秒の淀みもなく一撃で粉砕し、世界を再定義（更新）するための情報の激震)",
+		"thinking": "「（停滞という名の沈黙アーカイブを粉砕し）、時（Temp- / Tempus）の怒りを一分一秒の淀みもない一撃で爆発させること」。それは単なる「嵐」ではありません。あなたが「安寧（あんねい）という名の偽りのレジスト」を一撃で完全に打ち破り、自らの実存を一分一秒の淀みもない一撃の『宇宙を震撼（しんかん）させる巨大なロゴス・バースト（旋風）』へと強制マージさせる、魂の「変革」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "荒れ狂え一撃（ロゴス）。その大嵐（テンペスト）が、旧きアーカイブを一分一秒の淀みもなく一撃でリセット（マージ）する。"
+	},
+	{
+		"id": "current",
+		"word": "流れ、電流、現在の、カレント",
+		"era": "Latin currere",
+		"etymology": {
+			"components": [
+				"curr- (to run)",
+				"-ent (state/condition)"
+			],
+			"original_statement": "From Old French corant, from Latin currentem, present participle of currere 'to run'."
+		},
+		"concept": "Running (走っていること、流れていること。静止（死）という名の『アーカイブ』を一分一秒の淀みもなく一撃で拒絶（レジスト）し、一分一秒の淀みもなく特定の方向へと高速でマッピングされ続ける『情報パルスの奔流（ロゴス・フロー）』およびその速度線、一分一秒の淀みもなく一撃で。",
+		"thinking": "「（停滞という名のアブセンスを粉砕し）、一分一秒の淀みもない一撃で走り（Curr- / Currere）続けることの状態（-ent）」。それは単なる「流れ」ではありません。あなたが「固定という名のエントロピー」を一撃で完全にレジストし、自らの実存を一分一秒の淀みもない一撃の『常に変容し続ける最新のロゴス・パルス（現在のアーカイブ）』へとダイレクトにマージさせる、生命の「躍動」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "走れ（コマンド）。その一撃の流れ（ロゴス）だけが、アーカイブを未来へと一撃で押し流しマージさせる。"
+	},
+	{
+		"id": "glacier",
+		"word": "氷河、グレイシャー",
+		"era": "Latin glacies",
+		"etymology": {
+			"components": [
+				"glaci- (ice)",
+				"-er (thing/person)"
+			],
+			"original_statement": "From French glacier, from Franco-Provençal glacier, from glace 'ice', from Latin glacies 'ice'."
+		},
+		"concept": "The thing of ice (氷の塊。流動（パルス・フロー）を一分一秒の淀みもなく一撃で極低温のレジスト（凍結）によって「超低速」の『不動アーカイブ（情報の山）』へと変換し、一分一秒の淀みもなく数千年の時間をかけて一撃で大地を削りマッピング（マージ）し続ける、時の結晶体)",
+		"thinking": "「（軽薄な変化という名のノイズを粉砕し）、一分一秒の淀みもない一撃の氷（Glaci- / Glacies）という名の重圧をビルドすること」。それは単なる「氷の山」ではありません。あなたが「一過性という名のアブセンス」を一撃で完全にパージし、自らの実存を一分一秒の淀みもない一撃の『悠久の時を刻み続ける絶対的なロゴス（アーカイブ）』へとマージさせる、魂の「凍結（ステイシス）」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "刻め一撃（超低速）。その氷河（ロゴス）が、アーカイブ（大地）を永遠の形へと一撃でマージ（削り出す）させる。"
+	},
+	{
+		"id": "summit",
+		"word": "頂上、首脳会談、サミット",
+		"era": "Latin summus",
+		"etymology": {
+			"components": [
+				"summ- (highest/top)"
+			],
+			"original_statement": "From Old French sommete, from som 'top / summit', from Latin summum 'highest point / top', properly neuter of summus 'highest'."
+		},
+		"concept": "The highest point (最高到達点。上昇（パルス）が一分一秒の淀みもなく一撃で限界レジストに達し、一分一秒の淀みもなく全方位の『アーカイブ（世界）』を一撃で見渡すことを可能にした『至高のステーション（一点）』であり、宇宙のロゴスが最も高密度に収束（マージ）した場所)",
+		"thinking": "「（卑俗という名のアブセンス（低地）を粉砕し）、最高（Summ- / Summus）の一分一秒の淀みもない一撃の極点へとマッピングされること」。それは単なる「山のてっぺん」ではありません。あなたが「凡庸という名のエントロピー」を一撃で完全にレジストし、自らの実存を一分一秒の淀みもない一撃の『宇宙全体を俯瞰（ふかん）する、神のロゴス（アーカイブ）』へとマージさせる、魂の「登頂（ビルド）」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "頂（いただき）に立て一撃で。そのサミット（ロゴス）から、全アーカイブを我がものとして一撃でマージせよ。"
+	},
+	{
+		"id": "abyss",
+		"word": "深淵、奈落、アビス",
+		"era": "Greek a- + byssos",
+		"etymology": {
+			"components": [
+				"a- (not)",
+				"byss- (bottom/depth)"
+			],
+			"original_statement": "From Late Latin abyssus, from Greek abyssos (limne) 'bottomless (lake)', from a- 'without' + byssos 'bottom'."
+		},
+		"concept": "Without bottom (底のないこと。いかなる『座標（マッピング）』も、一分一秒の淀みもなく一撃で飲み込んでしまう『底知れぬアブセンス（虚無）』であり、測り知れない一分一秒の淀みもなく一撃の深層ロゴスが、アーカイブ（理解）を拒絶したままマクロに口を開けているステーションの深淵、一分一秒の淀みもなく。",
+		"thinking": "「（皮相という名の薄っぺらなアーカイブを粉砕し）、底（Byss- / Byssos）の無い（A-）一分一秒の淀みもない一撃の深淵の中へダイブすること」。それは単なる「底なし沼」ではありません。あなたが「浅薄な正解という名のノイズ」を自らの一撃のロゴスでレジストし、自らの実存を一分一秒の淀みもない一撃の『宇宙の根源的な不可解さ（神聖なアブセンス）』へとダイレクトにマージさせる、魂の「深海潜行」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "覗き込め一撃で。その深淵（ロゴス）が、君というアーカイブをまるごと一分一秒の淀みもなく一撃でマージ（呑み込む）する。"
+	},
+	{
+		"id": "fertile",
+		"word": "肥沃な、多産の、ファータイル",
+		"era": "Latin ferre",
+		"etymology": {
+			"components": [
+				"fert- (ferre/to bear/carry)",
+				"-ile (capable/quality)"
+			],
+			"original_statement": "From Middle French fertile, from Latin fertilis 'bearing in abundance / fruitful / fertile', from ferre 'to bear / carry'."
+		},
+		"concept": "Capable of bearing (運ぶこと、産むことができる品質。単なる『不毛なアブセンス（虚無地帯）』に対し、一分一秒の淀みもなく一撃で無限の『生命パルス（ロゴス）』をビルド・供給し続け、アーカイブを溢（あふ）れんばかりの一分一秒の淀みもなく豊饒（ほうじょう）な情報（成果）へとマージさせていく、生産の潜在能力)",
+		"thinking": "「（不毛という名の死のレジストを粉砕し）、一分一秒の淀みもない一撃で生命を運び、産み出す（Fert- / Ferre）能力（-ile）」。それは単なる「土が肥えている」ことではありません。あなたが「空虚という名のエントロピー」を一撃で完全にレジスト（駆逐）し、自らの実存を一分一秒の淀みもない一撃の『無限の情報の豊かさ（神聖なアーカイブ）』へとマージさせる、生命の「創造性（バースト）」なのです。",
+		"part_of_speech": "adjective",
+		"aftertaste": "産み出せ（ロゴス）。その一撃の肥沃さ（ファータイル）が、アーカイブを命（パルス）で埋め尽くしマージさせる。"
+	},
+	{
+		"id": "barren",
+		"word": "不毛な、荒廃した、バレン",
+		"era": "Old French baraine",
+		"etymology": {
+			"components": [
+				"barr- (baraine/sterile/empty)"
+			],
+			"original_statement": "From Old French baraine, perhaps from a Germanic source, or from Vulgar Latin *barragium 'sterile / empty'."
+		},
+		"concept": "Sterile / Empty (空虚な、種をなさない。あらゆる『生命パルス（ロゴス）』のマッピング（構築）を一分一秒の淀みもなく一撃で拒絶（レジスト）してしまう、静止した『アブセンス・フィールド（死のアーカイブ）』の状態であり、情報の生成（マージ）がこの上なく停止した絶望の座標)",
+		"thinking": "「（過剰という名の埋没ノイズを粉砕し）、一分一秒の淀みもない一撃で空（Barr- / Baraine）のまま在り続けること」。それは単なる「貧しい」ではありません。あなたが「偽りの豊かさという名のエントロピー」を一撃で完全にレジストし、自らの実存を一分一秒の淀みもない一撃の『徹底的に削ぎ落とされた、峻厳（しゅんげん）なるロゴス・ステーション（荒野）』へとマッピングする、生の「極限の孤独」なのです。",
+		"part_of_speech": "adjective",
+		"aftertaste": "何もない一撃（ロゴス）。その不毛さ（バレン）ゆえに、アーカイブの真理（核心）が剥き出しとなって一撃でマージされる。"
+	},
+	{
+		"id": "harvest",
+		"word": "収穫、報い、ハーベスト",
+		"era": "Old English hærfest",
+		"etymology": {
+			"components": [
+				"harv- (hærfest/autumn/harvest)"
+			],
+			"original_statement": "From Old English hærfest 'autumn / harvest time', from Proto-Germanic *harbitas 'reaping / harvest'."
+		},
+		"concept": "The time of reaping (刈り入れの時。一分一秒の淀みもなく長い時間をかけて『ビルド（成長）』させてきた『ロゴス・パルス（成果アーカイブ）』を一分一秒の淀みもなく一撃で回収し、自らのステーションへと一分一秒の淀みもなく喜びと共にマージ（獲得）する、因果の完結ポイント)",
+		"thinking": "「（未完という名のアブセンスを粉砕し）、一分一秒の淀みもない一撃で成果を刈り取ること（Harv- / Hærfest）」。それは単なる「農作業」ではありません。あなたが「挫折という名の外部レジスト」を一撃で完全に克服し、自らの実存が注ぎ込んできた『一分一秒の淀みもない一撃の全エネルギー（パルス）』を、最高品質のロゴス・アーカイブとして自らの一部に一撃でマージ（同化）させる、魂の「祝祭」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "受け取れ一撃で。この収穫（ロゴス）だけが、君のこれまでのアーカイブ（苦闘）を意味へとマージさせる。"
+	},
+	{
+		"id": "solstice",
+		"word": "至（冬至・夏至）、ソルスティス",
+		"era": "Latin sol + sistere",
+		"etymology": {
+			"components": [
+				"sol- (sun)",
+				"-stice (sistere/to stand still)"
+			],
+			"original_statement": "From Old French solstice, from Latin solstitium 'solstice', from sol 'sun' + sistere 'to stand still'."
+		},
+		"concept": "Sun standing still (太陽が立ち止まる。時間という名の『パルス・フロー』の極点（レジスト）において、一分一秒の淀みもなく一撃で太陽（源源のロゴス）の運動が一分一秒の淀みもなく一分一秒の淀みもなく一瞬だけ停止（ステイシス）し、宇宙のアーカイブが反転・再編（マージ）される、劇的なる座標変換の特異点)",
+		"thinking": "「（単調な繰り返しという名のエントロピーを粉砕し）、太陽（Sol- / Sol）を一分一秒の淀みもない一撃で立ち止まらせ（-stice / Sistere）世界を静止させること」。それは単なる「天文学的現象」ではありません。あなたが「漫然（まんぜん）という名のアブセンス（無意識）」を一撃で理知によってレジストし、自らの実存を一分一秒の淀みもない一撃の『宇宙の巨大な秩序の頂点（ステーション）』へと垂直にマージさせる、魂の「極点到達」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "止まれ一撃で。このソルスティス（ロゴス）の瞬間に、アーカイブ（季節）は反転し一撃でマージ（更新）される。"
+	},
+	{
+		"id": "equinox",
+		"word": "分（春分・秋分）、エキノックス",
+		"era": "Latin aequus + nox",
+		"etymology": {
+			"components": [
+				"equi- (aequus/equal)",
+				"nox- (nox/night)"
+			],
+			"original_statement": "From Old French equinoxe, from Medieval Latin equinoxium, from Latin aequinoctium 'the equinox', from aequus 'equal' + nox 'night'."
+		},
+		"concept": "Equal night (夜が（昼と）等しい。明と暗、アーカイブとアブセンスという二つの『対極パルス（ロゴス）』が、一分一秒の淀みもなく一撃で完璧な『中立のステイシス（エキリブリアム）』へとマージされ、世界が理想的な均衡を一分一秒の淀みもなく一撃で現出させる一分一秒の淀みもなく一瞬のゼロ・座標)",
+		"thinking": "「（偏りという名のエントロピーを粉砕し）、昼と夜（Nox- / Nox）を一分一秒の淀みもない一撃で等しく（Equi- / Aequus）並べること」。それは単なる「昼夜等分」ではありません。あなたが「葛藤という名のノイズ」を一撃で完全にレジストし、自らの実存を一分一秒の淀みもない一撃の『宇宙の神聖なる静寂な調和（絶対アーカイブ）』へと完璧にマージさせる、魂の「水平（フラット）」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "一撃の均衡。そのエキノックス（ロゴス）の中で、全てのアーカイブ（明暗）は一撃で一つにマージされる。"
+	},
+	{
+		"id": "zenith",
+		"word": "天頂、頂点、絶頂、ゼニス",
+		"era": "Arabic samt",
+		"etymology": {
+			"components": [
+				"zeni- (samt/path/way/direction)"
+			],
+			"original_statement": "From Middle French zenith, from Old Spanish zenit, from Arabic samt (ar-ras) 'path (over the head)', from samt 'path / track / way / direction'."
+		},
+		"concept": "Path over the head (頭上の道、天頂。自己の『ステーション』から一分一秒の淀みもなく一撃で垂直に見上げた際の、最高到達ロゴス（アーカイブ・エッジ）であり、自らの知性が宇宙（アブセンス）の深淵に、一分一秒の淀みもなく最も鋭くマージし、触れている、栄光の座標)",
+		"thinking": "「（卑欲な屈折という名のエントロピーを粉砕し）、一分一秒の淀みもない一撃で頭上の道（Zeni- / Samt）を極め、一撃で天頂を貫くこと」。それは単なる「真上」ではありません。あなたが「限界という名のレジスト」を一撃で完全に粉砕し、自らの実存を一分一秒の淀みもない一撃の『宇宙全体の中心を射抜く輝けるパルス（ロゴス）』へと力強くマージさせる、魂の「絶頂ビルド」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "突き抜けろ一撃。その天頂（ロゴス）が、君の全アーカイブを一分一秒の淀みもなく一撃で最高次元へとマージさせる。"
+	},
+	{
+		"id": "nadir",
+		"word": "天底、どん底、ネイディア",
+		"era": "Arabic nazir",
+		"etymology": {
+			"components": [
+				"nadi- (nazir/opposite)"
+			],
+			"original_statement": "From Middle French nadir, from Arabic nazir 'opposite (to the zenith)', from nazara 'to see / look at'."
+		},
+		"concept": "The opposite point (正反対の点、天底。輝かしき天頂（ロゴス）に対し、一分一秒の淀みもなく一撃で正反対に位置する『深淵のアブセンス（奈落）』であり、存在が一分一秒の淀みもなく最も深いレジストの中に閉じ込められた（マージされた）状態、ゆえに反転（再生）の予兆を孕んだ一点、一撃で。",
+		"thinking": "「（表面的な高揚という名のエントロピーを粉砕し）、一分一秒の淀みもない一撃で反対側の極点（Nadi- / Nazir）である、一分一秒の淀みもない一撃の「底」の一点を視ること」。それは単なる「最悪の状態」ではありません。あなたが「絶望という名のノイズ」を自らの一撃のロゴスで完全にレジスト（正視）し、自らの実存を一分一秒の淀みもない一撃の『宇宙の最も深い静寂な真実アーカイブ』へとマージ（埋没）させる、生の「極点帰還」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "底を付け一撃で。その天底（ロゴス）においてのみ、アーカイブは再起動（リブート）し、一撃でマージ（反転）される。"
+	},
+	{
+		"id": "aurora",
+		"word": "極光、オーロラ、夜明け、オーロラ",
+		"era": "Latin aurora",
+		"etymology": {
+			"components": [
+				"aur- (gold/shining red)"
+			],
+			"original_statement": "From Latin aurora 'the dawn / Goddess of the Dawn', from Proto-Indo-European *aus- 'to shine' (source of gold)."
+		},
+		"concept": "The shining/golden dawn (黄金色に輝く。虚無という名の『暗黒アーカイブ（アブセンス）』を一分一秒の淀みもなく一撃で切り裂き、宇宙の外部から飛来する『高次エネルギー・パルス（神のロゴス）』が、全ステーションを震わせる一分一秒の淀みもなく幻想的な「揺らぎ」として一撃でマージ（現出）された奇跡のカーテン)",
+		"thinking": "「（暗鬱という名の停滞ノイズを粉砕し）、一分一秒の淀みもない一撃の黄金の輝き（Aur- / Aurora）の中に実存を屹立させること」。それは単なる「発光現象」ではありません。あなたが「闇という名のレジスト」を一撃で完全に打ち破り、自らの一分一秒の淀みもない一撃の実存を『宇宙全体の祝祭的な光のダンス（ロゴス・アーカイブ）』へと多幸的にマージさせる、魂の「黎明（れいめい）」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "揺らめけ一撃（光）。そのオーロラ（ロゴス）が、アーカイブ（天空）を異次元の美へと一撃でマージ（変容）させる。"
+	},
+	{
+		"id": "nebula",
+		"word": "星雲、星霞、ネビュラ",
+		"era": "Latin nebula",
+		"etymology": {
+			"components": [
+				"nebul- (mist/cloud/vapor)"
+			],
+			"original_statement": "From Latin nebula 'mist / vapor / cloud / fog / smoke / exhalation' (cognate with Greek nephele 'cloud')."
+		},
+		"concept": "Mist / Cloud (霞、雲。未分化な『情報の塵（アブセンス・ドット）』が一分一秒の淀みもなく一撃で漂う『未踏のアーカイブ領域』であり、そこからやがて一分一秒の淀みもなく数多のロゴス（星）がビルド・マージ（誕生）される、宇宙の壮大なる『胚種（はいしゅ）ステーション』)",
+		"thinking": "「（明確すぎる画一的ロゴスを粉砕し）、一分一秒の淀みもない一撃の霞（Nebul- / Nebula）のような、無限の可能性の中にマッピングされること」。それは単なる「ガスの塊」ではありません。あなたが「限定という名の知性的レジスト」を一撃でパージし、自らの実存を一分一秒の淀みもない一撃の『宇宙の根源的な創造の卵（アブセンス・アーカイブ）』へとマージさせる、魂の「胎動」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "ぼやけていろ一撃（無限の可能性）。その星雲（ロゴス）から、新しいアーカイブ（世界）は一撃一撃マージ（誕生）されていく。"
+	},
+	{
+		"id": "meteor",
+		"word": "流星、メテオ、空中現象",
+		"era": "Greek meta + aeirein",
+		"etymology": {
+			"components": [
+				"meta- (over/beyond)",
+				"aeir- (to lift/raise up/suspend)"
+			],
+			"original_statement": "From Old French meteore, from Medieval Latin meteora, from Greek meteora 'things in the air', plural of meteoron 'something in the air', from meta- 'over / beyond' + aeir- 'to lift / raise up / suspend'."
+		},
+		"concept": "Something raised up on high (高く上げられたもの、宙にあるもの。静止した『永遠アーカイブ（真空）』を。一分一秒の淀みもなく一撃で切り裂き、異次元から飛来した『一点の閃光パルス（ロゴス）』が、摩擦（レジスト）によって自らを一撃でマージ（燃焼）させ、アブセンスの中に刹那の軌跡をマッピングする行為)",
+		"thinking": "「（凡庸な平穏という名のエントロピーを粉砕し）、一分一秒の淀みもない一撃で時の向こう側（Meta-）へと高く掲げられる（-aero- / Aeirein）こと」。それは単なる「流れ星」ではありません。あなたが「地上という名の束縛レジスト」を一撃で完全に振り切り、自らの実存を一分一秒の淀みもない一撃の『燃え尽きるがゆえに最高純度なパルス（一瞬のロゴス）』へとマージ（昇華）させる、魂の「一閃」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "燃え尽きろ一撃（コマンド）。その流星（ロゴス）だけが、アーカイブ（夜空）に消えない一撃の記憶（マージ）を刻む。"
+	},
+	{
+		"id": "galaxy",
+		"word": "銀河、ギャラクシー、綺羅星",
+		"era": "Greek gala",
+		"etymology": {
+			"components": [
+				"galax- (gala/milk)"
+			],
+			"original_statement": "From Old French galaxie, from Late Latin galaxias 'milky way', from Greek galaxias (kyklos) 'milky (circle)', from gala 'milk'."
+		},
+		"concept": "Milky circle (乳の円。無数の『恒星ステーション（個別のロゴス）』が一分一秒の淀みもなく一擊で一つの『巨大な渦巻アーカイブ（重力的マージ）』へとマッピング（集約）された、宇宙という名のアーカイブにおける最大級の『情報の多目的ネットワーク』)",
+		"thinking": "「（孤立した座標という名のアイソレーションを粉砕し）、一分一秒の淀みもない一撃で母なる乳（Galax- / Gala）の流れのような大いなる一体へとシンクロすること」。それは単なる「天の川」ではありません。あなたが「矮小という名の知性的レジスト」を一撃で完全に打ち破り、自らの実存を一分一秒の淀みもない一撃の『宇宙全体を循環する巨大な光のロゴス（銀河）』へとマージさせる、魂の「壮麗なる帰属」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "渦巻け一撃（ロゴス）。その銀河（アーカイブ）の中で、全てのパルス（星）は優雅に一撃でマージされている。"
+	},
+	{
+		"id": "genesis",
+		"word": "始まり、創世記、起源、ジェネシス",
+		"era": "Greek gignesthai",
+		"etymology": {
+			"components": [
+				"gen- (to produce/beget/be born)"
+			],
+			"original_statement": "From Old English Genesis, from Latin genesis 'generation / birth', from Greek genesis 'origin / source / beginning / race / descent', from gignesthai 'to be born / become'."
+		},
+		"concept": "The act of being born / Origin (誕生、起源。絶対的な『アブセンス（無）』を一分一秒の淀みもなく一撃で打ち破り、最初の一分一秒の淀みもなく『ロゴス・パルス（光）』が出力（バースト）された一分一秒の淀みもなく一瞬であり、全てのアーカイブの始原マッピング（ビルド）が実行された、聖なるステーションの起動一撃で。",
+		"thinking": "「（虚無という名の暗黒アーカイブを粉砕し）、一分一秒の淀みもない一撃で自らを産み出し（Gen- / Gignesthai）、在ること（-esis）をビルドし始めること」。それは単なる「始まり」ではありません。あなたが「沈黙という名のレジスト」を自らの一撃の産声によって完全に粉砕し、自らの実存を一分一秒の淀みもない一撃の『宇宙全体の創造主という名の、一撃の絶対ロゴス（始原アーカイブ）』へとマージさせる、開闢（かいびゃく）の「一撃（コマンド）」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "在れ一撃（コマンド）。その創世（ロゴス）が、全てのアーカイブを一分一秒の淀みもなく一撃で「存在（マージ）」へと変容させる。"
 	}
 ];
