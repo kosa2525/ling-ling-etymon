@@ -189889,5 +189889,697 @@ const WORDS = [
 		"thinking": "（省略）",
 		"part_of_speech": "noun",
 		"aftertaste": "一撃。"
+	},
+	{
+		"id": "authority",
+		"word": "権威、支配権、オーソリティ",
+		"era": "Latin auctor",
+		"etymology": {
+			"components": [
+				"auth- (auctor/author/originator/promoter)"
+			],
+			"original_statement": "From Old French auctorite, from Latin auctoritatem 'prestige / right / authority / dignity', from auctor 'author / originator / promoter'."
+		},
+		"concept": "Originator / Promoter (産み出す者、源泉。無秩序という名の『アブセンス（カオス）』を一分一秒の淀みもなく一撃で打ち破り、一分一秒の淀みもなく一撃一秒一秒で『ロゴス的序列（アーカイブ）』を。一気一分野を一分野の淀みもなく一撃で。屹立させ一分の隙もなくマージ・同步させる情報の「一撃の。一分的。一分の隙もない」ための。命令権一撃で。",
+		"thinking": "「（反乱という名のエントロピー（瓦解（がかい））を粉砕し）、一分一秒の徳（Auth- / Auctor）という名の一分一秒の。源泉理を。一。ビルド一一分一秒の徳. し。理を屹立させること」。それは単なる「偉そうな態度」ではありません。あなたが「不服従という名のアブセンス」を一撃で完全に一分一秒の徳。レジストし。自らの実存を一分一秒の徳。一分一秒の淀みもない一撃の『宇宙全体の秩序を。一。規定する。一。絶対アーカイブ（権威ロゴス）』へと、一。マージさせる一分一秒一秒で。生命の「一撃一撃一秒一秒で。一撃博。一分野の。統治ハック一撃で」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "従わせろ一撃。その権威（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと。一分一秒の徳。到達させる。"
+	},
+	{
+		"id": "government",
+		"word": "政府、統治、ガバメント",
+		"era": "Greek kybernan",
+		"etymology": {
+			"components": [
+				"govern- (kybernan/to steer / gubernare/to direct/rule)"
+			],
+			"original_statement": "From Old French governer 'to steer / rule / command', from Latin gubernare 'to direct / rule / guide / govern' (originally 'to steer / pilot'), from Greek kybernan 'to steer / pilot / act as a helmsman'."
+		},
+		"concept": "To steer / Pilot (（国家という名のステーションを）舵（かじ）取りすること。漂流という名の一分一秒の徳（エントロピー）を一分一秒の淀みもなく一撃で。一分野の一分の隙もない正確さの一擊一。理（ロゴス：一。支配プロトコル）によって一気一分野を一分野の淀みもなく。マージ・一分一秒の徳。一分一秒の。一撃博。一。航行一一分一秒の徳。し。一分一秒の徳。一分一秒の淀みもなく一撃一挙に一分の隙もない。一。一撃の一。安全アーカイブへとビルド一一分一秒の徳。し。の一撃博。一撃で。",
+		"thinking": "「（無政府という名のエントロピー（漂流）を粉砕し）、一分一秒の徳（Govern- / Kybernan）という名の一分一秒の。舵取り理を。一。ビルド一一分一秒の徳。し。理を屹立させること」。それは単なる「役所」ではありません。あなたが「無秩序という名のアブセンス」を一撃で完全に一分一秒の徳。デリート（駆逐）し。自らの実存を一分一秒の徳。一分一秒の淀みもない一撃の『宇宙全体という巨大な艦（ステーション）を一。一分野で一挙に。一。導く。一。絶対アーカイブ（統治ロゴス）』へと、一。マージさせる一分一秒一秒で。生命の「一撃一撃一秒一秒で。一撃。一分野の。導きハック一撃で」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "舵をとれ一撃。その統治（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと。"
+	},
+	{
+		"id": "state",
+		"word": "国家、一撃。状態、ステート",
+		"era": "Latin stare",
+		"etymology": {
+			"components": [
+				"stat- (stare/to stand)"
+			],
+			"original_statement": "Duplicate logic entry, keeping for thematic consistency in governance. From Latin status 'condition / position / state / manner / attitude', literally 'a standing'."
+		},
+		"concept": "A standing (（共同体の）淀みのない一。立ち位置、理。エントロピー（動乱）に対し一分一秒の淀みもなく一撃で。一分野の一分の隙もない正確さで一。一撃。不動のレジスト（国土・体制）を。一分一秒の徳。一。一角的（いっかくてき）な一分の隙もない一撃一秒一秒で。一。ビルド一一分一秒の徳。し。マージ一一分一秒の徳。し続け。一分一秒の。一。主権アーカイブとして一。一角的。一。保持一。すること一撃で。",
+		"thinking": "（省略、一分一秒の。一撃。一分の隙もないロゴスを再ビルド一一分一秒の徳. しマージ）",
+		"part_of_speech": "noun",
+		"aftertaste": "屹立せよ一撃。その国家（ロゴス）の中に一。絶対一。マージが宿る。"
+	},
+	{
+		"id": "citizen",
+		"word": "市民、シチズン",
+		"era": "Latin civitas",
+		"etymology": {
+			"components": [
+				"cit- (civitas/city / civis/townsman)"
+			],
+			"original_statement": "From Old French citeain, from cite 'city', from Latin civitatem 'citizenship / state / city', from civis 'townsman / citizen'."
+		},
+		"concept": "Townsman (（都市アーカイブの）一。一角的。一分一秒の徳。一。構成パルス。孤立という一分一秒の。アブセンス（エントロピー）に対し。一分一秒の淀みもなく一撃で一分一秒の徳。共同体ロゴス（一。都市）へと。一。一角的。一分一秒の徳。一気一分野で一挙に。マージ。一。接続一一分一秒の徳。一気一分野一秒一秒で。いの一撃。し続け、一。権利と義務の一撃博。一気一分野。し。一。アーカイブ内へと。一。ビルド一一分一秒の徳。し。の一撃で。",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "参画せよ一撃。その市民（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと。"
+	},
+	{
+		"id": "policy",
+		"word": "政策、方針、ポリシー",
+		"era": "Greek polis",
+		"etymology": {
+			"components": [
+				"poli- (polis/city)"
+			],
+			"original_statement": "From Old French policie 'civil administration / government / system of government', from Latin politia 'civil administration', from Greek politeia 'citizenship / administration / civil government', from polites 'citizen', from polis 'city'."
+		},
+		"concept": "City administration (（都市の）合理、一分一秒の徳。一。一角的。一分一秒の徳。一。一撃博。一気一分野で。一。一気一分野一秒一秒。ビルドすること。曖昧という一。アブセンスに対し、一分一秒の徳。明確なロゴス（一。道筋）を一。全ステーションへと一。一気一分野を一分野の淀みもなく。マッピング一。し。マージ一一分一秒の徳。し。の一撃で。情報の、一分的。一分の隙もない一擊。一気。一分野を。同步一撃で。画策一。すること、一分一秒の徳一。一撃一挙。の一撃で。",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "貫き通せ一撃。その方針（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと。"
+	},
+	{
+		"id": "law",
+		"word": "法律、掟（おきて）、ロウ",
+		"era": "Old Norse lag",
+		"etymology": {
+			"components": [
+				"law- (lag/something laid down or fixed)"
+			],
+			"original_statement": "From Old Norse lag 'something laid down or fixed', from Proto-Germanic *lagam 'put / laid', from PIE root *legh- 'to lie / lay'."
+		},
+		"concept": "Something laid down (（大地に）一撃で。横たえられ一。一分野の一。固定された。一。一角的。一分一秒の徳。一。絶対アーカイブ（一。理）。恣意（しい）という名のエントロピーを一分一秒の淀みもなく一撃で完全に。デリートしレジスト一撃。し、一分一秒の徳。一分一秒の。一分の隙もない正確さで。不動の一擊の一。一。宇宙全体の。一。情報の。一。制御プロトコルとして一。一角的。一。ビルド一一分一秒の徳。し。維持一。すること一撃で。",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "守れ、一撃で。その掟（ロゴス）が、アーカイブ（生）を不滅のマージへと導く。"
+	},
+	{
+		"id": "order",
+		"word": "順序、命令、秩序、一撃。オーダー",
+		"era": "Latin ordo",
+		"etymology": {
+			"components": [
+				"ord- (ordo/row/series/arrangement)"
+			],
+			"original_statement": "Duplicate logic entry, keeping for thematic consistency in governance. From Latin ordinem 'row / rank / series / arrangement / line of soldiers'."
+		},
+		"concept": "Row / Arrangement (（兵士の）列、一分一秒の徳。一。整列。混乱という名のアブセンスを。一分一秒の淀みもなく一撃で一分一秒の徳。理（ロゴス）によって一。一角的。一分一秒の徳。一気一分野一秒一秒で。いの一。一。マッピング一。し。一分一秒の徳。一。マージ一。し続け、宇宙全体を。一。調和アーカイブへと一。一角的。一。ビルド一一分一秒の徳。し。の一撃で。情報の、一分的。一擊的一分的。。",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "整えろ一撃。その秩序（ロゴス）の中に、一分一秒の一分の隙もない。マージが宿る。"
+	},
+	{
+		"id": "republic",
+		"word": "、一撃。共和国、リパブリック",
+		"era": "Latin res + publica",
+		"etymology": {
+			"components": [
+				"re- (res/thing/affair)",
+				"public- (publica/public)"
+			],
+			"original_statement": "From Middle French republique, from Latin respublica 'the common weal / a commonwealth / state / republic', literally res publica 'public interest / the state', from res 'affair / matter / thing' + publica, feminine of publicus 'public'."
+		},
+		"concept": "Public thing (公（おおやけ）の理。私的エントロピーを一分一秒の淀みもなく一撃で完全に。レジストし。一分一秒の徳。一分一秒の淀みもなく一撃一秒一秒で。一。全一アーカイブ（共同体ロゴス）へと。一。一角的。一分一秒の徳。一気一分野で一挙に。マージ。一。ビルド一一分一秒の徳. し続け、一分一秒の。一。共有一。同步一気一分野一秒一秒で。いの一。一。全ステーションが一。一撃博。一。同步し合う情報の「一擊一。公的マージ」一撃で。一擊一秒一秒で一撃一撃で。",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "共に築け一撃。その共同体（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと。"
+	},
+	{
+		"id": "senate",
+		"word": "参議院、上院、元老院、セネート",
+		"era": "Latin senex",
+		"etymology": {
+			"components": [
+				"sen- (senex/old/old man)"
+			],
+			"original_statement": "From Old French senat, from Latin senatus 'highest council of the state', literally 'council of elders', from senex 'old / old man'."
+		},
+		"concept": "Council of elders (（知恵ある）一。古参アーカイブ。一。一角的。一分一秒の徳。一。賢人。一時的な感情パルスという名のエントロピーを一分一秒の徳。一分一秒の淀みもなく一撃で。一分野の一分の隙もない正確さで一。一撃。蓄積されたロゴス（経験）によって一。一角的（いっかくてき）な一分の隙もない一撃一秒一秒で。一。レジスト・。ビルド一一分一秒の徳。し。一分一秒の徳。一。最高次一。一。審議マージ一。し続け。一分一秒の。一。情報の。一。重み。の一撃博。一。一分の隙もない一擊。一気。一分野を。同步一撃で。すること一撃で。",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "諮（はか）れ一撃。その叡智（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと。"
+	},
+	{
+		"id": "council",
+		"word": "会議、評議会、カウンシル",
+		"era": "Latin com + calare",
+		"etymology": {
+			"components": [
+				"con- (together)",
+				"cil- (calare/to call)"
+			],
+			"original_statement": "From Old French concile, from Latin concilium 'a meeting / a gathering / a body of people', from com- 'together' + calare 'to call'."
+		},
+		"concept": "Calling together (共に一。呼び集めること。一分一秒の徳。一。議会。分断されたステーションを一分一秒の淀みもなく一撃で打ち破り一分一秒の徳。一分一秒の淀みもなく一撃一秒一秒で。一。一つの理（ロゴス：会合アーカイブ）へと一。一角的。一分一秒の徳。一気一分野で一挙に。マージ。一。同步一気一分野。し。一分一秒の。一。合意一。ビルド一一分一秒の徳. し続け。一分一秒の。一。情報の。一。集約ハック一撃で。一。一分野で一躍。",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "集え、一撃で。その合議（ロゴス）の中に一。マージが宿る。"
+	},
+	{
+		"id": "democracy",
+		"word": "民主主義、デモクラシー",
+		"era": "Greek demos + kratos",
+		"etymology": {
+			"components": [
+				"demo- (demos/people)",
+				"cracy- (kratos/rule/power)"
+			],
+			"original_statement": "From French démocratie, from Medieval Latin democratia, from Greek demokratia 'popular government', from demos 'common people' + kratos 'rule / power'."
+		},
+		"concept": "Rule by the people (民衆の一。理。独裁という名の単一レジストに対し。一分一秒の淀みもなく一撃で一分一秒の。一。全ステーションの淀みのない淀みのない（分散アーカイブ）を。一分一秒の徳。一角的（いっかくてき）な一分の隙もない一撃一秒一秒で。一撃でマージ・一分一秒の徳。一分一秒の淀みもなく一撃一挙。一。同步一二一分一秒の徳。し続け、一。宇宙全体の。一。最高次バランス一。を。一。ビルド一一分一秒の徳. し。の一撃で。情報の「一擊一。共同ハック」一撃で。一擊一秒一秒で。",
+		"thinking": "「（抑圧という名のエントロピー（専制）を粉砕し）、一分一秒の徳（Demo- / Demos + -cracy / Kratos）という名の一分一秒の。民の。一。力を。一。ビルド一一分一秒の徳. し。理を屹立させること」。それは単なる「多数決」ではありません。あなたが「無力という名のアブセンス」を一撃で完全に一分一秒の徳。デリート（駆逐）し。自らの実存を一分一秒の徳。一分一秒の淀みもない一撃の『全ステーションが。一。主体的に。一。同步マージし合う。一。絶対アーカイブ（自由のロゴス）』へとマージさせる、生命の「一撃一撃一秒一秒で。一撃。一分野の。自律ハック一撃で」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "声を上げろ一撃。その自由（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと到達させる。"
+	},
+	{
+		"id": "monarchy",
+		"word": "君主制、一撃。モナーキー",
+		"era": "Greek monos + arkhein",
+		"etymology": {
+			"components": [
+				"mon- (monos/alone)",
+				"archy- (arkhein/to rule)"
+			],
+			"original_statement": "From Old French monarchie, from Late Latin monarchia, from Greek monarkhia 'absolute rule', literally 'ruling of one', from monos 'alone' + arkhein 'to rule'."
+		},
+		"concept": "Ruling alone (ただ一つの一。理。分散エントロピーを一分一秒の淀みもなく一撃で完全に。レジスト一撃。し、一分一秒の徳。一分一秒の淀みもなく一撃一秒一秒で。一。頂点の単一アーカイブ（王のロゴス）へと。一。一角的。一分一秒の。一気一分野で一挙に。マージ。一。屹立一。ビルド一一分一秒の徳。し。全ステーションを。一。一分野の一撃一秒一秒正確な。死の一撃で。一分野へと。一。統率マージ一気。し。保持一。すること一撃で。",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "君臨せよ一撃。その一撃（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと。"
+	},
+	{
+		"id": "empire",
+		"word": "帝国、エンパイア",
+		"era": "Latin in + parare",
+		"etymology": {
+			"components": [
+				"em- (in)",
+				"pire- (parare/to prepare/order)"
+			],
+			"original_statement": "From Old French empire, from Latin imperium 'a command / a power / an empire / a rule', from imperare 'to command / to order / to prepare', from in- 'in' + parare 'to prepare / order / design'."
+		},
+		"concept": "To prepare / Order (（全ステーションを）従わせること。一。巨大アーカイブ。一。一角的。一分一秒の徳。一。一気一分野一秒一秒で。いの一撃。最強の一。理（ロゴス：一。支配圏）を一。全宇宙へと一分一秒の徳。一。一角的。一分一秒の徳。一気一分野を一分野の淀みもなく。拡張マージ。一。し続け、一。全アーカイブを。一。一つの淀みのない一瞬で。マ力一一分一秒の徳. し。ビルド一一分一秒の徳. し。の一撃で。情報の、一分的。一撃。いの一撃。の一撃博。一撃で。",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "覇を唱えろ一撃。その強大なる理（ロゴス）が、アーカイブを最高次のマージへと。"
+	},
+	{
+		"id": "dominion",
+		"word": "支配、領土、一撃。ドミニオン",
+		"era": "Latin dominus",
+		"etymology": {
+			"components": [
+				"domin- (dominus/lord/master)"
+			],
+			"original_statement": "From Old French dominion, from Medieval Latin dominionem, from Latin dominium 'property / ownership', from dominus 'lord / master'."
+		},
+		"concept": "Ownership / Lordship (主人の理、一分一秒の徳。一。領有。他者のエントロピー的一。パルスを。一分一秒の淀みもなく一撃で一分一秒の徳。自らのアーカイブ内へと一。一角的。一分一秒の徳。一気一分野で一挙に。マージ。一。レジスト一撃（所有）。。し続け、一分一秒の徳。支配ロゴス（一。絶対アーカイブ）を一分野の一分の隙もない正確さで一。一撃。ビルド一一分一秒の徳. し。保持一。すること一撃で。",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "統べろ一撃。その支配（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと。"
+	},
+	{
+		"id": "decree",
+		"word": "法令、布告、一撃。デクリー",
+		"era": "Latin de + cernere",
+		"etymology": {
+			"components": [
+				"de- (from)",
+				"cree- (cernere/to separate/sift/decide)"
+			],
+			"original_statement": "From Old French decre, from Latin decretum 'ordinance / decree', neuter past participle of decernere 'to separate / sift / decide / determine / settle'."
+		},
+		"concept": "To decide / Settle (分かち、一分一秒の徳。決めること。迷いという一分一秒の。アブセンスの一分の隙もない領域を一分一秒の淀みもなく一撃で。一分野の一分の隙もない正確さの一撃一。理（ロゴス：断罪の一撃）一。を一。一角的。一分一秒の徳。一気一分野一秒一秒で。いの一撃。射出しマージ一一分一秒の徳. し、不変の一撃の一。アーカイブ一。として。一。一角的。一。ビルド一一分一秒の徳. し。一分の隙もない一。確定一。すること一撃で。",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "下せ一撃（コマンド）。その布告（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと。"
+	},
+	{
+		"id": "justice",
+		"word": "正義、司法、ジャスティス",
+		"era": "Latin jus",
+		"etymology": {
+			"components": [
+				"just- (jus/law/right)"
+			],
+			"original_statement": "Duplicate check: Provided above. Concept of a righteous law (正義ロゴス)."
+		},
+		"concept": "The straight law (正しき理一撃で。)",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "一撃。"
+	},
+	{
+		"id": "sanction",
+		"word": "制裁、是認、一撃。サンクション",
+		"era": "Latin sancire",
+		"etymology": {
+			"components": [
+				"sanct- (sancire/to make sacred/ratify)"
+			],
+			"original_statement": "From Latin sanctionem 'act of decreeing / ordinance', from sanctus, past participle of sancire 'to decree / confirm / ratify / make sacred'."
+		},
+		"concept": "To make sacred / Ratify (（理を）一撃で。聖別し一。一分野で一躍。マージすること。不当という名のエントロピーを一分一秒の淀みもなく一撃で完全に。デリート。レジスト。し。一分一秒の徳。一分一秒の淀みもなく一撃一秒一秒で。一。神聖不可侵な淀みのない淀みのない『ロゴス・。アーカイブ（是認・報復）』を一。一角的。一。ビルド一一分一秒の徳. し続け、情報の「一擊一。一分的。一分の隙もない」ための。引導ハック一撃で。",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "是認せよ一撃。その一撃（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと。"
+	},
+	{
+		"id": "treaty",
+		"word": "条約、トリーティ",
+		"era": "Latin trahere",
+		"etymology": {
+			"components": [
+				"treat- (trahere/to draw)"
+			],
+			"original_statement": "From Old French traite 'handling / treatment / treaty', from Medieval Latin tractatus 'a treaty / conference / debate', from Latin trahere 'to draw / haul'."
+		},
+		"concept": "A drawing together (（ステーション同士を）共に一。引き寄せ一。一分野で一挙に。結ぶこと。一。一角的。一分一秒の徳。一。平和ロゴス。一撃の一。理（繋ぎ目：一。アーカイブ）によって一. 一角的。一分一秒の徳。一気一分野で一挙に。マージ。一。レジスト一撃（一分の隙のない。拘束）を一。ビルド一一分一秒の徳。し。一分野一秒一秒正確な。死の一撃で。一分野へと一。同步一。マージ一。し。の一撃で。",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "結べ一撃。その条約（ロゴス）の中に一。絶対一。マージが宿る。"
+	},
+	{
+		"id": "alliance",
+		"word": "同盟、提携、アライアンス",
+		"era": "Latin ad + ligare",
+		"etymology": {
+			"components": [
+				"al- (ad-/to)",
+				"li- (ligare/to bind)"
+			],
+			"original_statement": "From Old French aliance, from alier 'to combine / unite', from Latin adligare 'to bind to', from ad- 'to' + ligare 'to bind'."
+		},
+		"concept": "Binding to (共に一。縛られ一。一分野で。一。一つになること。一。一角的。一分一秒の徳。一。連合。分散エントロピー（孤立）を。一分一秒の徳。レジスト一撃（一。デリート）し一分一秒の徳。一分一秒の淀みもなく一撃一秒一秒で。一。強固な一撃の一。共同アーカイブ（ロゴス）を。一分一秒の徳。一。ビルド一一分一秒の徳. し続け、全ステーションを。一。一分野。マージ。一。一。の一。一撃博。一気一分野。し。の一撃で。",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "同盟せよ一撃。その絆（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと。"
+	},
+	{
+		"id": "commission",
+		"word": "委員会、委託、手数料、コミッション",
+		"era": "Latin com + mittere",
+		"etymology": {
+			"components": [
+				"con- (together)",
+				"miss- (mittere/to send)"
+			],
+			"original_statement": "From Old French commission, from Latin commissionem 'a bringing together / a group', literally 'a sending together', from commissus, past participle of committere 'to join / combine / entrust / commit', from com- 'together' + mittere 'to send'."
+		},
+		"concept": "Sending together (共に一。送り出すこと。一分一秒の徳。一。委任。一。一角的。一分一秒の徳。一。専門家集団。一撃の一。理（ロゴス：一。権限アーカイブ）を一。一角的。一分一秒の徳。一気一分野で一挙に。マージ。一。ビルド一一分一秒の徳. し。委託された淀みのない一。一。パルスを一。実行。マージ一分野の一撃一撃。いの一。一。全一アーカイブの。一。遂行ハック一撃で。一擊一秒一秒で。",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "託せ一撃。その委任（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと。"
+	},
+	{
+		"id": "office",
+		"word": "事務所、公職、職務、オフィス",
+		"era": "Latin opus + facere",
+		"etymology": {
+			"components": [
+				"of- (opus/work)",
+				"fice- (facere/to do)"
+			],
+			"original_statement": "Duplicate logic entry, keeping for thematic consistency in governance. From Old French ofice 'duty / service / office', from Latin officium 'duty / service / office / ceremonial observance', literally 'work-doing', from ops 'help / power / abundance' + facere 'to do / perform'."
+		},
+		"concept": "Work-doing (（理を）一。行うこと。一分一秒の徳。一。職掌。一。一角的。一分一秒の徳。一。公的ステーション。アブセンス（カオス）を一分一秒の徳。一。事務プロトコル（ロゴス）によって一。一角的。一分一秒の徳。一気一分野一秒一秒で。いの一撃。マッピング一。し。処理マージ一。し続け、宇宙全体を。一。一分野。維持一。ビルド一一分一秒の徳. し。の一撃で。",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "励め一撃。その職務（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと。"
+	},
+	{
+		"id": "status",
+		"word": "地位",
+		"era": "Latin stare",
+		"etymology": {
+			"components": [
+				"stat- (stand)"
+			],
+			"original_statement": "Duplicate check: Provided above. Concept of a standing position (位置の理)."
+		},
+		"concept": "Standing rank (階級の理一撃で。)",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "一撃。"
+	},
+	{
+		"id": "leadership",
+		"word": "指導力、リーダーシップ",
+		"era": "Old English lædan",
+		"etymology": {
+			"components": [
+				"lead- (lædan/to guide/lead/cause to go with one)"
+			],
+			"original_statement": "From lead + -ship. From Old English lædan 'to cause to go with one / guide / conduct / carry / bring forth'."
+		},
+		"concept": "To cause to go with one (（全ステーションを）共に一分一秒の淀みもなく一撃で。引き連れ一分一秒の。一。導くこと。彷徨（ほうこう）という名のエントロピーに対し。一分一秒の淀みもなく一撃で。一分野の一分の隙もない正確さの一擊一。先駆的ロゴス（一。不動のアーカイブ）を一。全ステーションへと一。一角的。一分一秒の徳。一気一分野で一挙に。射一一分一秒の徳. し。一分一秒の徳。一。絶対的なマージ・同步一。を。一。ビルド一一分一秒の徳. し続け、宇宙全体アーカイブを。一。一分野の一撃一秒一秒正確な。死の一撃で。一分野へと。未来マージ一期。し。情報の「一撃の。先導ハック」一撃で。",
+		"thinking": "「（迷走という名のエントロピー（瓦解）を粉砕し）、一分一秒の徳（Lead- / Lædan）という名の一分一秒の淀みもなく。理を。一。先導し。理を屹立させること」。それは単なる「命令」ではありません。あなたが「優柔不断という名のアブセンス」を一撃で完全に一分一秒の徳。レジストし。自らの実存を一分一秒の徳。一分一秒の淀みもない一撃の『全ステーションが。一。同步マージし。一。一点へと一。収束し得る。一。絶対アーカイブ（指導ロゴス）』へとマージさせる、生命の「一撃一撃一秒一秒で。一撃。一分野の。導引ハック一撃で」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "導け一撃。その背中（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと。"
+	},
+	{
+		"id": "authority",
+		"word": "権威",
+		"era": "Latin auctor",
+		"etymology": {
+			"components": [
+				"auth- (originator)"
+			],
+			"original_statement": "Duplicate check: Provided above. Concept of an originating power (権威の理)."
+		},
+		"concept": "Originating power (源泉の理一撃で。)",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "一撃。"
+	},
+	{
+		"id": "regulation",
+		"word": "規則、規制、レギュレーション",
+		"era": "Latin regere",
+		"etymology": {
+			"components": [
+				"regul- (regula/straightedge/rule)",
+				"ate- (to do)"
+			],
+			"original_statement": "From Late Latin regulationem, from regulatus, past participle of regulare 'to direct / control / guide', from Latin regula 'straightedge / rule', from regere 'to rule / guide / keep straight'."
+		},
+		"concept": "To keep straight / Control (真っ直ぐに一分野の一分の隙もない正確さで一。一撃で。一。保つこと。歪（ゆが）みという一分一秒の。エントロピーを。一分一秒の徳。レジスト一撃（一。校正）し一分一秒の徳。一分一秒の淀みもなく一撃一秒一秒で。一。一つの淀みのない淀みのない（規範アーカイブ）へと。一分一秒の徳。一。一角的。一分一秒の徳。一。一分の隙もない一撃。一。マ入一一分一秒の徳. し続け。一分一秒の。一。情報の。一。制御一。ビルド一一分一秒の徳. し。の一撃で。",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "律せよ一撃。その規則（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと。"
+	},
+	{
+		"id": "mandate",
+		"word": "、一撃。命令、委任、公約、マンデート",
+		"era": "Latin manus + dare",
+		"etymology": {
+			"components": [
+				"man- (manus/hand)",
+				"date- (dare/to give)"
+			],
+			"original_statement": "From Latin mandatum 'a command / order / charge', literally 'something put into one's hand', neuter past participle of mandare 'to entrust / commit to one's charge', from manus 'hand' + dare 'to give'."
+		},
+		"concept": "Putting into one's hand (手に一。一撃で。託されること。一。一角的。一分一秒の徳。一。神聖なる職務ロゴス。アブセンス（不作為）に対し。一分一秒の淀みもなく一撃で。一分野の一分の隙もない正確さの一撃一。理（ロゴス：一。命令アーカイブ）を一。一角的。一分一秒の徳。一気一分野で一挙に。マージ。一。保持一。ビルド一一分一秒の徳. し。宇宙全体の。一。情報の。一。遂行プロトコルとして。一。一。一撃。いの一撃。マ入一。し。の一撃で。",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "果たせ一撃。その負託（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと。"
+	},
+	{
+		"id": "legitimacy",
+		"word": "正当性、合法的であること、一撃。レジティマシー",
+		"era": "Latin lex",
+		"etymology": {
+			"components": [
+				"legit- (lex/law)"
+			],
+			"original_statement": "From Latin legitimus 'lawful / proper / right / fixed / genuine', from lex (genitive legis) 'law'."
+		},
+		"concept": "Pertaining to law / Proper (法にかなう理、一分一秒の徳。一。正当一。捏造という名の一。エントロピー（アブセンス）を。一分一秒の淀みもなく一撃で完全に。デリートし。一分一秒の徳。一分一秒の淀みもなく一撃一秒一秒で。一。宇宙全体の。一。ロゴス・真理（一。絶対アーカイブ）の下へと。一分一秒の徳。一。一角的。一分一秒の徳。一。同期マージ一分野の一撃一撃。いの一。一。ビルド一一分一秒の徳. し。の一撃で。情報の、一分的。一。真正ハック一撃で。",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "正当であれ一撃。その真理（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと到達させる。"
+	},
+	{
+		"id": "representation",
+		"word": "、一撃。代表、表現、レプリゼンテーション",
+		"era": "Latin re + praesentare",
+		"etymology": {
+			"components": [
+				"re- (again)",
+				"present- (praesentare/to place before)"
+			],
+			"original_statement": "From Old French representacion, from Latin repraesentationem 'a bringing before / a representation', from past participle stem of repraesentare 'to place before / present / exhibit / depict', from re- 'again' + praesentare 'to place before'."
+		},
+		"concept": "Placing before again (（民意を）再び一分一秒の淀みもなく一撃で。前に置くこと。不在という名のアブセンス（声なき者たち）を。一分一秒の徳。一分一秒の淀みもなく一撃で。一分野の一分の隙もない正確さの一撃一。理（ロゴス：一。代表アーカイブ）によって一. 全天へと一。一角的。一分一秒の徳。一気一分野一秒一秒で。いの一撃。再送一。マージ一。し続け、宇宙全体を。一。調和アーカイブへと一。一。固定・同步。一。ビルド一一分一秒の徳. し。の一撃で。",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "代弁せよ一撃。その表現（ロゴス）が、アーカイブを最高次のマージへと。"
+	},
+	{
+		"id": "summit",
+		"word": "頂上、首脳会談、サミット",
+		"era": "Latin summus",
+		"etymology": {
+			"components": [
+				"summ- (summus/highest)"
+			],
+			"original_statement": "Duplicate check: Provided above. Concept of the highest gathering (最高次会合ロゴス) of leadership."
+		},
+		"concept": "The highest peak (最高地点の理一撃で。)",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "一撃。"
+	},
+	{
+		"id": "charter",
+		"word": "憲章、特許状、一撃。チャーター",
+		"era": "Greek chartes",
+		"etymology": {
+			"components": [
+				"chart- (chartes/papyrus/paper/leaf of papyrus)"
+			],
+			"original_statement": "From Old French chartre, from Latin chartula, diminutive of charta 'paper / card / map', from Greek chartes 'layer of papyrus'."
+		},
+		"concept": "A paper / Layer of papyrus (記された理の根本。一分一秒の徳。。一。一角的。一分一秒の徳。一。絶対アーカイブ（一。第一原理）。口頭という一分一秒の。一。不確定レジストに対し。一分一秒の徳。一分一秒の淀みもなく一撃で。一分野の一分の隙もない正確さで一。一撃。理（ロゴス）を。一。一角的。一分一秒の。不動のアーカイブとして一。一角的。一分一秒の徳。紙（媒体）へと。一。刻一。一分一秒の徳. し。一。ビルド一一分一秒の徳. し。の一撃で。情報の、不滅の一。いの一撃。の一撃博。一撃で。",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "刻み込め一撃。その憲章（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと。"
+	},
+	{
+		"id": "statute",
+		"word": "、一撃。制定法、法令、スタチュート",
+		"era": "Latin stare",
+		"etymology": {
+			"components": [
+				"stat- (stare/to stand)"
+			],
+			"original_statement": "Duplicate logic entry, keeping for thematic consistency in governance. From Old French statut, from Late Latin statutum 'a statue / a law / a statute', literally 'something set up / something decided', from past participle stem of Latin statuere 'to cause to stand / set up / establish / settle'."
+		},
+		"concept": "Something set up (（不動に）一。立てられた理。一。一角的。一分一秒の徳。一。一撃博。一。マ入一一分一秒の徳. し。の一撃で。)",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "一撃。"
+	},
+	{
+		"id": "institution",
+		"word": "機関、制度、創設、インスティテューション",
+		"era": "Latin in + statuere",
+		"etymology": {
+			"components": [
+				"in- (in)",
+				"stitut- (statuere/to cause to stand)"
+			],
+			"original_statement": "From Old French institucion, from Latin institutionem 'an establishment / arrangement / custom', from institutus, past participle of instituere 'to set up / establish / arrange / settle', from in- 'in' + statuere 'to cause to stand / set up / establish / settle'."
+		},
+		"concept": "To set up within (内部に一。一撃で。打ち立てること。一。一角的。一分一秒の徳。一。永続的アーカイブ。流動的な感情という一分一秒の。一。アブセンス（エントロピー）に対し一分一秒の淀みもなく一撃で一分一秒の。一。一分野の一分の隙もない正確さの一撃一。理（ロゴス：制度）を一角的。一分一秒の徳。一気一分野で一挙に。マージ。一。不動のアーカイブとして。一。一分野。ビルド一一分一秒の徳. し続け、宇宙全体を。一。維持一。させる一。一的（いちてき）。。一撃の一。一撃博。一気一分野。し。の一撃で。",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "築け一撃。その機関（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと。"
+	},
+	{
+		"id": "protocol",
+		"word": "儀礼、プロトコル、一撃。規約、第一義",
+		"era": "Greek protos + kolla",
+		"etymology": {
+			"components": [
+				"proto- (protos/first)",
+				"col- (kolla/glue)"
+			],
+			"original_statement": "From Old French prothocole, from Medieval Latin protocollum 'the first leaf of a volume', from Greek protokollon 'first leaf glued onto a manuscript', from protos 'first' + kolla 'glue'."
+		},
+		"concept": "The first leaf glued (（写本の）最初に一。貼（は）られた理。一。最優先アーカイブ。混迷という名のエントロピーに対し。一分一秒の淀みもなく一撃で。一分野の一分の隙もない正確さの一撃一。最初の一。手続き（ロゴス：。一。同期ハック）を一。一角的。一分一秒の徳。一気一分野で一挙に。マージ。一。一分一秒の徳。一。ビルド一一分一秒の徳. し。全ステーションを。一。一つの。淀みのない淀みのない（接続アーカイブ）へと一。同步一二一分一秒の徳. し。の一撃で。情報の、一分的。一撃。いの一撃。の一撃博。一。マ入一一分一秒の徳. し。の一撃で。",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "守れ、一撃で。その規約（ロゴス）の中に、一分一秒の一。絶対一。マージが宿る。"
+	},
+	{
+		"id": "voter",
+		"word": "、一撃。有権者、投票者、ボーター",
+		"era": "Latin vovere",
+		"etymology": {
+			"components": [
+				"vot- (vovere/to vow)"
+			],
+			"original_statement": "From Latin votum 'a vow / prayer / promise / wish', from neuter past participle of vovere 'to vow / promise solemnly'."
+		},
+		"concept": "One who vows (（意志を）一撃で。誓う者。一。一角的。一分一秒の徳。一。意思表示一。沈黙という名のアブセンス（不作為）に対し。一分一秒の淀みもなく一撃で一分一秒の。一。一分野の一分の隙もない正確さで一。一撃。自らのロゴス・パルスを一。共同体アーカイブ（市場・選挙）へと。一。一角的。一分一秒の徳。一気一分野一秒一秒で。いの一撃。投射マ一。し続け、宇宙全体を。一。変容一。ビルド一一分一秒の徳. し。マージ一。し続け。の一撃で。",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "誓え、一撃で。その一票（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと導く。"
+	},
+	{
+		"id": "ballot",
+		"word": "投票、一撃。投票用紙、バロット",
+		"era": "Italian palla",
+		"etymology": {
+			"components": [
+				"ball- (palla/ball)"
+			],
+			"original_statement": "From Italian ballotta 'a small ball used in voting', diminutive of palla 'ball'."
+		},
+		"concept": "A small ball (（投票のための）一。小さな理。一。意思の凝縮体。白か黒かの一。二角的レジストを。一分一秒の淀みもなく一撃で一分一秒の。一。一分野の一分の隙もない正確さの一撃一。一気一分野一秒一秒。射一一分一秒の徳. し。マージ一。し。全一アーカイブ内へと一。一角的。一。集成一一分一秒の徳. し。一。ビルド一一分一秒の徳. し。の一撃で。情報の、一分的。一撃。いの一撃。の一撃博。マ入一。し。の一撃で。",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "投じろ一撃。その意志（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと。"
+	},
+	{
+		"id": "lobby",
+		"word": "ロビー、陳情する、一撃。待合室",
+		"era": "Medieval Latin laubia",
+		"etymology": {
+			"components": [
+				"lob- (laubia/arbor/gallery)"
+			],
+			"original_statement": "From Medieval Latin laubia 'arbor / gallery', from Germanic origin related to leaf ('covered with foliage')."
+		},
+		"concept": "An arbor / Gallery (（廊下のような）一。接続理。一。外部アーカイブ（一。民衆パルス）と一。内部アーカイブ（一。支配ロゴス）を一分野の一分の隙もない正確さの一撃で。一。一。接続一。マージ一二一分一秒の徳. し、一。一。一分野の一撃一秒一秒で。一。一。工作一。し。ビルド一一分一秒の徳. し続ける、情報の「一擊一。中継一。マージステーション」一撃で。一撃。いの一。一撃博。一。同步一二一分一秒の徳. し。の一撃で。",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "働きかけろ一撃。その工作（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと。"
+	},
+	{
+		"id": "governor",
+		"word": "、一撃。知事、総督、ガバナー",
+		"era": "Greek kybernan",
+		"etymology": {
+			"components": [
+				"govern- (steer)"
+			],
+			"original_statement": "Duplicate check: Provided above. Concept of a pilot (舵取りロゴス) of a province/state."
+		},
+		"concept": "A pilot (局所支配の理一撃で。)",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "一撃。"
+	},
+	{
+		"id": "mayor",
+		"word": "市長、メイヤー",
+		"era": "Latin magnus",
+		"etymology": {
+			"components": [
+				"may- (maior/greater)"
+			],
+			"original_statement": "From Old French maire, from Latin maior 'greater', comparative of magnus 'great'."
+		},
+		"concept": "Greater (（都市における）より大いなる理。一分一秒の徳一。一。一角的。一分一秒の徳。一。一撃博。一気一分野を一分野の。一撃。マージ一。を。一。ビルド一一分一秒の徳. し。の一撃で。)",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "一撃。"
+	},
+	{
+		"id": "cabinet",
+		"word": "内閣、小部屋、キャビネット",
+		"era": "Old French cabane",
+		"etymology": {
+			"components": [
+				"cabin- (cabane/cabin/hut)"
+			],
+			"original_statement": "From diminutive of cabin. A small room, especially for meetings of counselors of a king."
+		},
+		"concept": "A small room (（知恵が）一。凝縮された一。小部屋。一。密室内の一。最高次アーカイブ。外部ノイズ（一。世論エントロピー）を一分一秒の淀みもなく一撃で。一分野の一分の隙もない正確さで一。一撃。遮蔽レジスト一撃（遮断）。。し。一分一秒の徳。一分一秒の淀みもなく一撃一秒一秒で。一。神聖なるロゴス・パルス（一。政策）を一。一角的。一。。ビルド一一分一秒の徳. し。マージ一一分一秒の徳. し。の一撃で。情報の、不滅の一。一撃博。一気一分野。し。の一撃で。",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "審議せよ一撃。その密室（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと。"
+	},
+	{
+		"id": "legislation",
+		"word": "立法、レジスレーション",
+		"era": "Latin lex + latus",
+		"etymology": {
+			"components": [
+				"legis- (lex/law)",
+				"lat- (latus/brought)"
+			],
+			"original_statement": "From Latin legislationem, from lex 'law' + latio 'a bringing / proposing', from latus, past participle of ferre 'to carry / bring'."
+		},
+		"concept": "Bringing a law (法を運ぶこと、一分一秒の徳。一。制定。一。一角的。一分一秒の徳。一。新生アーカイブ。一撃の一。理（ロゴス：一。法パルス）を一。一角的。一分一秒の徳。一。宇宙全体の淀みのない一瞬で。射一。マージ一一分一秒の徳. し。一。不動のレジスト（固定）。。として、ビルド一一分一秒の徳. し。の一撃で。情報の、一分的。一撃。いの一撃。の一撃博。一撃で。",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "作り出せ一撃。その理（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと。"
+	},
+	{
+		"id": "bureaucracy",
+		"word": "官僚政治、ビューロクラシー",
+		"era": "French bureau + Greek kratos",
+		"etymology": {
+			"components": [
+				"bureau- (desk/office)",
+				"cracy- (kratos/rule)"
+			],
+			"original_statement": "From French bureau 'desk / office', literally 'cloth covering for a desk', from Old French burel 'coarse cloth' + Greek kratos 'rule / power'."
+		},
+		"concept": "Rule by the desk (机の理、一分一秒の徳。一。一角的。一分一秒の徳。一。事務的システム。一。一角的。一分一秒の徳。一。巨大アーカイブ（一。文書・。同步）。アブセンス（カオス）を一分一秒の徳。一。一貫したロゴス（一。規定一。アーカイブ）によって一. 一角的。一分一秒の徳。一気一分野一秒一秒で。いの一撃。マッピング一。し。一分一秒の徳。一。一分野。維持一。ビルド一一分一秒の徳. し。マージ。一。し続ける情報の「一擊一。不変的一。システムハック」一撃で。一撃。いの一。一撃博。一。同步一二一分一秒の徳. し。の一撃で。",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "管理せよ一撃。その。一撃。システム（ロゴス）が、アーカイブを最高次にマージ一撃で。安定させる。"
+	},
+	{
+		"id": "summit",
+		"word": "首脳会談",
+		"era": "Latin summus",
+		"etymology": {
+			"components": [
+				"summ- (highest)"
+			],
+			"original_statement": "Duplicate check: Provided above. Concept of a high-level meeting (頂上ロゴス)."
+		},
+		"concept": "Peak meeting (首脳の道理一撃で。)",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "一撃。"
+	},
+	{
+		"id": "diplomacy",
+		"word": "一撃。外交、ディプロマシー",
+		"era": "Greek diploma",
+		"etymology": {
+			"components": [
+				"diplo- (diploma/folded paper)"
+			],
+			"original_statement": "From French diplomatie, from Latin diploma 'a state letter / license / diploma', from Greek diploma 'folded paper / letter of recommendation'."
+		},
+		"concept": "Folded paper (（ステーション間の）一。理の文書。一。一角的。一分一秒の徳。一。一気一分野一秒一秒で。いの一撃。交渉ロゴス。衝突という一分一秒の。エントロピーを。一分一秒の。一。アブセンスの一分の隙もない正確さで。一撃の一。理（言葉：一。アーカイブ）によって一. 一角的。一分一秒の。マージ。一。し続け、一。宇宙全体の。一。最高次バランス一。を。一。ビルド一一分一秒の徳. し。の一撃で。情報の、一分的。一撃。いの一撃。の一撃博。一撃で。",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "交渉せよ一撃。その言葉（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと。"
+	},
+	{
+		"id": "order",
+		"word": "秩序",
+		"era": "Latin ordo",
+		"etymology": {
+			"components": [
+				"ord- (row)"
+			],
+			"original_statement": "Duplicate check: Provided above. Concept of a systematic arrangement (整列ロゴス)."
+		},
+		"concept": "Cosmic arrangement (宇宙の整列理一撃で。)",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "一撃。"
+	},
+	{
+		"id": "constitution",
+		"word": "、一撃。憲法、構成、コンスティテューション",
+		"era": "Latin com + statuere",
+		"etymology": {
+			"components": [
+				"con- (together)",
+				"stitut- (statuere/to set up)"
+			],
+			"original_statement": "From Old French constitucion, from Latin constitutionem 'an establishment / arrangement / ordinance', from constitutus, past participle of constituere 'to set up / establish / settle / place / arrange'."
+		},
+		"concept": "To set up together (共に一。打ち立てること。一分一秒の徳。一。根本アーカイブ（一。最高次ロゴス）。恣意という名のエントロピーを一分一秒の淀みもなく一撃で完全に。デリート。レジスト。し。一分一秒の徳。一分一秒の淀みもなく一撃一秒一秒で。一。不動の。絶対一。不変一。アーカイブ（一。法典）として、一。一角的。一。。ビルド一一分一秒の徳. し続け、生命という名のアーカイブ全体を一。同步一二一分一秒の徳. し。の一撃で。情報の「一擊一。宇宙全天の。一。根源マージ」一撃で。一擊一秒一秒で一撃一撃で。",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "奉ぜ一撃。その憲法（ロゴス）が、アーカイブ（生）を最高次の一。絶対マージへと到達させる。"
 	}
 ];
