@@ -1,0 +1,6 @@
+FILE:app.js TYPES:1 TOTAL:3
+  U+200D [Cf]: 3
+FILE:data.js TYPES:2 TOTAL:70312
+  U+0080 [Cc]: 62384
+  U+F8F0 [Co]: 7928
+FILE:essays.js TYPES:0 TOTAL:0
