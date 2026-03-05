@@ -180168,5 +180168,645 @@ const WORDS = [
 			]
 		},
 		"part_of_speech": "noun"
+	},
+	{
+		"id": "architecture",
+		"word": "Architecture",
+		"meaning": "建築、構造、アーキテクチャ",
+		"era": "16th Century Latin/Greek arkhitektōn",
+		"etymology": {
+			"components": [
+				"arkhi- (chief)",
+				"tektōn (builder)"
+			],
+			"original_statement": "From Latin architectura, from Greek arkhitektōn (master builder, director of works), from arkhi- (chief) + tektōn (builder, carpenter)."
+		},
+		"concept": "The work of the master builder (大工の長の仕事)",
+		"thinking": "単なる家づくり（building）ではなく、「最高の技術と思想を束ねて、一つの秩序ある空間を組み上げる（architecture）」こと。転じて、複雑なシステムやソフトウェアの思想的骨組みをも意味する言葉となりました。",
+		"aftertaste": "石を積むのではない。空間に意味を積むのだ。",
+		"example": "He admired the classical architecture of the museum.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "tek-",
+					"meaning": "to make, build"
+				}
+			],
+			"points": [
+				"テクノロジー（technology）の『テク（技術）』と同じ語根です。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "scaffold",
+		"word": "Scaffold",
+		"meaning": "足場、(処刑の)断頭台",
+		"era": "14th Century Old Northern French",
+		"etymology": {
+			"components": [
+				"eschafaut (platform)"
+			],
+			"original_statement": "From Old Northern French escafaut (a platform), possibly from ex- + catafalicum (viewing stage)."
+		},
+		"concept": "A temporary elevated platform (一時的に高く組まれた木組み)",
+		"thinking": "建築の際に建物の周りに組まれる「一時的な支え」。本丸が完成すれば撤去されるもの。また、公開処刑のために急ごしらえで作られた「高い舞台（断頭台）」も意味する、少し血の匂いのする建設用語です。",
+		"aftertaste": "完成とともに取り壊される、影の立役者。",
+		"example": "Workers erected a scaffold to repair the roof.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "catafalque",
+					"meaning": "wooden framework"
+				}
+			],
+			"points": [
+				"教育で『学習者の支援（スキャフォールディング）』という用語でも使われます。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "blueprint",
+		"word": "Blueprint",
+		"meaning": "青写真、詳細な計画",
+		"era": "19th Century English",
+		"etymology": {
+			"components": [
+				"blue",
+				"print"
+			],
+			"original_statement": "Coined in the 1850s from the photographic process that produces white lines on a blue background."
+		},
+		"concept": "A detailed design or plan (詳細な設計図)",
+		"thinking": "フェリシアン化鉄を用いた古い複写技術で、青い紙の上に白い線で図面が浮かび上がったことから。現在では真っ白な紙に印刷されますが、言葉だけが『綿密な将来の計画』として残り続けています。",
+		"aftertaste": "未来の形を、青い夜空に白い線で描く。",
+		"example": "DNA is the blueprint of life.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"技術革新によって消えたものが、言葉の比喩として永遠に生き残る典型例です。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "asylum",
+		"word": "Asylum",
+		"meaning": "亡命、保護、(昔の)精神病院",
+		"era": "15th Century Latin/Greek asylon",
+		"etymology": {
+			"components": [
+				"a- (without)",
+				"sylon (right of seizure)"
+			],
+			"original_statement": "From Latin asylum (sanctuary), from Greek asylon (refuge, sanctuary), neuter of asylos (inviolable), from a- (without) + sylon (right of seizure)."
+		},
+		"concept": "A place without seizure (略奪や逮捕されない不可侵の場所)",
+		"thinking": "Sanctuaryと同じく不可侵の逃げ場を意味しますが、より政治的な「亡命の保護」の色が強い言葉。19世紀には社会から切り離された『精神病院』の呼称としても使われ、悲しい響きも帯びています。",
+		"aftertaste": "捕まることのない、冷たくて静かな避難場所。",
+		"example": "The political refugee sought asylum in a neighboring country.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sylon",
+					"meaning": "seizure"
+				}
+			],
+			"points": [
+				"文字通り『奪い取られる心配がない（a-sylon）場所』という意味です。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "arcade",
+		"word": "Arcade",
+		"meaning": "アーケード、(アーチ型の)連続した通路、ゲームセンター",
+		"era": "18th Century French/Latin arcus",
+		"etymology": {
+			"components": [
+				"arcus (arch, bow)"
+			],
+			"original_statement": "From French arcade, from Italian arcata (arch of a bridge), from Latin arcus (bow, arch)."
+		},
+		"concept": "A series of arches (連なるアーチ)",
+		"thinking": "元々は柱とアーチがずっと連続して続く回廊のこと。屋根がつくことで商店街となり、そこにある機械式ゲームが「アーケードゲーム」と呼ばれるようになるという、一風変わった進化を遂げた建築用語です。",
+		"aftertaste": "石のアーチの下を抜けた先に鳴り響く、電子音。",
+		"example": "We walked through the shopping arcade to stay out of the rain.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "arcus",
+					"meaning": "bow"
+				}
+			],
+			"points": [
+				"arch（アーチ）と同じ語源ですが、連続しているのが特徴です。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "atrium",
+		"word": "Atrium",
+		"meaning": "アトリウム、吹き抜けの中庭、(心臓の)心房",
+		"era": "16th Century Latin atrium",
+		"etymology": {
+			"components": [
+				"atrum (black, darkly stained)"
+			],
+			"original_statement": "From Latin atrium (central court of a Roman house), historically thought to be from ater (black), because the roof was blackened by the smoke from the central hearth."
+		},
+		"concept": "The central black room (黒く煤けられた中央の部屋)",
+		"thinking": "古代ローマの家で、天井に煙抜きの穴が開いていた中央の吹き抜け広場。料理の煙で天井が黒く煤（すす）けていた（atrum）ことから。今は明るいガラス張りの吹き抜けを指します。血が集まる心房という比喩にもなりました。",
+		"aftertaste": "煤けた煙の記憶が、現代のガラス張りの光に上書きされる。",
+		"example": "The hotel features a stunning glass-walled atrium.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ater",
+					"meaning": "black"
+				}
+			],
+			"points": [
+				"黒い（ater）が、現代の最も明るい空間（アトリウム）を意味するという皮肉な逆転です。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "vestibule",
+		"word": "Vestibule",
+		"meaning": "玄関ホール、前室",
+		"era": "17th Century French/Latin vestibulum",
+		"etymology": {
+			"components": [
+				"vestibulum (forecourt, entrance)"
+			],
+			"original_statement": "From Latin vestibulum (forecourt, entrance court), of uncertain origin but referring to the enclosed space in front of an entrance."
+		},
+		"concept": "An enclosed entrance area (外と内を区切る玄関の前室)",
+		"thinking": "完全に外でもなく、完全に室内でもない「緩衝地帯」。寒い空気を遮断したり、靴についた泥を落としたりする場所。オンとオフを切り替える心のバッファ空間。",
+		"aftertaste": "外の風を払い落とし、ゆっくりと扉を開ける。",
+		"example": "Please leave your wet umbrellas in the vestibule.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"『服（vest）を着替える場所』だったという民間語源説もあります。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "perimeter",
+		"word": "Perimeter",
+		"meaning": "周囲、周辺、(城などの)防衛線",
+		"era": "16th Century Latin/Greek perimetros",
+		"etymology": {
+			"components": [
+				"peri- (around)",
+				"metron (measure)"
+			],
+			"original_statement": "From Latin perimetros, from Greek perimetron (circumference), from peri- (around) + metron (measure)."
+		},
+		"concept": "Measuring around (ぐるりと測った周囲)",
+		"thinking": "対象を囲む「外縁部の長さ」という数学用語ですが、転じて軍事やセキュリティで「（侵入を防ぐために）ぐるりと警戒すべき外側の防衛線」という意味で使われます。",
+		"aftertaste": "外側の殻を守り切れ。内壁は脆い。",
+		"example": "Security guards patrolled the perimeter of the estate.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "me-",
+					"meaning": "to measure"
+				}
+			],
+			"points": [
+				"peri-（周囲）は periscope（潜望鏡）や periphery（周縁部）と同じ。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "bastion",
+		"word": "Bastion",
+		"meaning": "稜堡(りょうほ)、要塞、(思想などの)最後の砦",
+		"era": "16th Century French/Italian bastione",
+		"etymology": {
+			"components": [
+				"bastire (to build)"
+			],
+			"original_statement": "From French bastion, from Italian bastione (part of a fortress), from bastire (to build)."
+		},
+		"concept": "A built projection (突き出して建てられた防衛設備)",
+		"thinking": "城の側壁から外に三角形に突き出た部分。ここから敵の側面を攻撃し、城本体への接近を防ぐという極めて実用的な防御構造。転じて、「ある信念や権利を守る最後の難攻不落の砦」として使われます。",
+		"aftertaste": "突き出し、迎え撃つ。最後の一人になっても。",
+		"example": "The university is a bastion of academic freedom.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "bast-",
+					"meaning": "to build"
+				}
+			],
+			"points": [
+				"baste（縫いつける）と同根という説もあります。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "citadel",
+		"word": "Citadel",
+		"meaning": "城塞、要塞、最後の拠り所",
+		"era": "16th Century French/Italian cittadella",
+		"etymology": {
+			"components": [
+				"città (city)",
+				"-ella (diminutive)"
+			],
+			"original_statement": "From Middle French citadelle, from Italian cittadella (little city), diminutive of città (city)."
+		},
+		"concept": "The little city (小さな都市＝都市を見下ろす要塞)",
+		"thinking": "都市の中心の高台に作られ、都市全体が敵に占領されても、指導者たちが最後に立てこもるための強固な「小都市」。絶対的権力や、思想の最終防衛ラインの象徴。",
+		"aftertaste": "街が燃えても、この高台だけは明け渡さない。",
+		"example": "They retreated to the citadel after the outer walls fell.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kwi-",
+					"meaning": "rest, quiet, citizen"
+				}
+			],
+			"points": [
+				"city（都市）や citizen（市民）と同じ語源から派生した『強固な小都市』です。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "lintel",
+		"word": "Lintel",
+		"meaning": "まぐさ(窓やドアの上の水平な梁)",
+		"era": "14th Century Old French/Latin limentum",
+		"etymology": {
+			"components": [
+				"limen (threshold)"
+			],
+			"original_statement": "From Old French lintel, from Vulgar Latin *limitare, from Latin limen (threshold, crossing)."
+		},
+		"concept": "The upper threshold (上部の敷居)",
+		"thinking": "ドアの真上で開口部を支え、上部の壁の重さを左右の柱に逃がす一本の横木（梁）。地味ながら、これがないと空間を切り開く（ドアを作る）ことができない不可欠な水平パーツ。",
+		"aftertaste": "頭上で静かに、建築の重みに耐える力持ち。",
+		"example": "The carved stone lintel above the entrance is 800 years old.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "limen",
+					"meaning": "threshold"
+				}
+			],
+			"points": [
+				"threshold（足元の敷居）と対になる、頭上の限界線（limit）です。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "buttress",
+		"word": "Buttress",
+		"meaning": "控え壁(バットレス)、支える、補強する",
+		"era": "14th Century Old French/Old French boter",
+		"etymology": {
+			"components": [
+				"boter (to strike, thrust, push)"
+			],
+			"original_statement": "From Old French boteresse, from boter (to strike, push, thrust)."
+		},
+		"concept": "A pushing support (外側から押し返す支え)",
+		"thinking": "重たい石のアーチが開いて崩れないよう、ゴシック建築では建物の外側から「巨大なナナメの突っかい棒（壁）」で押し返しました。ここから「自論を外側の証拠で強固に『補強する』」という強力な動詞になりました。",
+		"aftertaste": "外側から全力で踏ん張る、ナナメの擁護者。",
+		"example": "He used statistics to buttress his argument.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "bhau-",
+					"meaning": "to strike"
+				}
+			],
+			"points": [
+				"button（ボタン: 押し出すもの）や beat（叩く）と同じルーツです。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "canopy",
+		"word": "Canopy",
+		"meaning": "天蓋(てんがい)、(森の)林冠",
+		"era": "14th Century Old French/Greek kōnōpeion",
+		"etymology": {
+			"components": [
+				"kōnōps (mosquito)"
+			],
+			"original_statement": "From Medieval Latin canopeum (net), from Greek kōnōpeion (bed with mosquito net), from kōnōps (mosquito)."
+		},
+		"concept": "A bed covering to keep off mosquitoes (元々は蚊帳)",
+		"thinking": "なんと語源は「蚊除けのネット」。それが王様の玉座やベッドを覆う豪華な布の「天蓋」になり、パラシュートの傘の部分や、アマゾンの熱帯雨林を覆う「葉の茂みの天井（林冠）」という壮大な広がりを見せました。",
+		"aftertaste": "玉座を飾る天蓋も、始まりはただの蚊帳だった。",
+		"example": "The jungle canopy blocks out most of the sunlight.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kōnōps",
+					"meaning": "mosquito"
+				}
+			],
+			"points": [
+				"建築物を覆い隠す布、あるいは自然の天井というロマンチックな使われ方をします。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "turret",
+		"word": "Turret",
+		"meaning": "小塔(タレット)、(戦車などの)砲塔",
+		"era": "14th Century Old French/Latin turris",
+		"etymology": {
+			"components": [
+				"turris (tower)",
+				"-et (diminutive)"
+			],
+			"original_statement": "From Old French torete, diminutive of tor, from Latin turris (tower)."
+		},
+		"concept": "A small tower (小さな塔)",
+		"thinking": "城の角に壁から突き出すように作られた小さな塔。ここから見張りや射撃を行いました。その回転して攻撃できる性質から、現代の戦車の「旋回用の砲塔部分」もタレットと呼ばれます。",
+		"aftertaste": "壁の角から睨みを効かせる、小さな監視眼。",
+		"example": "The medieval castle featured round turrets at each corner.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "turris",
+					"meaning": "tower"
+				}
+			],
+			"points": [
+				"tower（巨大な塔）に対して、屋根などにポコッと生えたちょっとかわいい小塔です。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "parapet",
+		"word": "Parapet",
+		"meaning": "胸壁(きょうへき)、欄干(らんかん)",
+		"era": "16th Century French/Italian parapetto",
+		"etymology": {
+			"components": [
+				"parare (to cover, shield)",
+				"petto (breast)"
+			],
+			"original_statement": "From Italian parapetto, from parare (to cover, defend) + petto (breast)."
+		},
+		"concept": "Shield for the breast (胸を守るもの)",
+		"thinking": "城の屋上や橋に作られた、胸の高さまでの低い壁。兵士が後ろに身を隠し、そこから銃や矢を撃ちました。「落ちない手すり」である前に「心臓（胸）を守る盾」だったという生々しい語源。",
+		"aftertaste": "胸の下の石壁が、命のリミッターになる。",
+		"example": "Soldiers crouched behind the parapet to avoid enemy fire.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "per-",
+					"meaning": "to produce, procure"
+				},
+				{
+					"term": "peg-",
+					"meaning": "breast"
+				}
+			],
+			"points": [
+				"ペクトラル（pectoral: 胸筋）のpettoと、パラソル（parasol: 太陽を防ぐ）のparaです。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "spire",
+		"word": "Spire",
+		"meaning": "尖塔(せんとう)、(教会の)尖り屋根",
+		"era": "Old English spir",
+		"etymology": {
+			"components": [
+				"spir (tall, slender stem of a plant)"
+			],
+			"original_statement": "From Old English spir (long, tall, slender stem of a plant), meaning expanded to a tapering roof or tower."
+		},
+		"concept": "A slender tapering upper part (細長く細まっていく頂部)",
+		"thinking": "植物の細く伸びる「茎」が語源。ゴシック教会の屋根の上に、そこからさらに空に向かって突き刺さるように乗せられた細長い尖塔。天へ到達したいという人々の宗教的渇望の形です。",
+		"aftertaste": "天へ。ただひたすらに、細く、高く。",
+		"example": "The cathedral's spire can be seen from miles away.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "spei-",
+					"meaning": "sharp point"
+				}
+			],
+			"points": [
+				"spike（スパイク・トゲ）や spit（串）と同じ『尖ったもの』のルーツです。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "vertex",
+		"word": "Vertex",
+		"meaning": "頂点、(頭の)頂、交点",
+		"era": "16th Century Latin vertex",
+		"etymology": {
+			"components": [
+				"vertere (to turn)"
+			],
+			"original_statement": "From Latin vertex (highest point, pole of the sky, whirlpool), from vertere (to turn)."
+		},
+		"concept": "The point around which something turns (何かが回転する中心の極み)",
+		"thinking": "天球が星空を回転させる中心の極（つむじ）、あるいは頭頂部。数学では二つの線が交わって方向転換（ターン）する「角（頂点）」という意味。数学やCGモデリングの基礎用語。",
+		"aftertaste": "線と線がぶつかり、新しい次元へ向きを変えるゼロ地点。",
+		"example": "A square has four vertices.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "wer-",
+					"meaning": "to turn, bend"
+				}
+			],
+			"points": [
+				"universe（宇宙: 一つにターンする）や reverse（反転する）と同じ vertere 族です。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "cornice",
+		"word": "Cornice",
+		"meaning": "軒蛇腹(のきじゃばら)、コーニス、雪庇(せっぴ)",
+		"era": "16th Century French/Italian cornice",
+		"etymology": {
+			"components": [
+				"korōnis (curved line, crown)"
+			],
+			"original_statement": "From Italian cornice, probably from Latin coronis, from Greek korōnis (a curved line, flourish), related to korōnē (crown)."
+		},
+		"concept": "A crowning curve (建物の最上部を冠する曲線の装飾)",
+		"thinking": "建物の壁の最上部、屋根のすぐ下を横に走る出っ張った帯状の装飾部分（頭の冠）。また、冬山で稜線から雪が庇のようにせり出した危険な「雪庇（せっぴ）」もコーニスと呼びます。",
+		"aftertaste": "壁を見下ろす、石の王冠。",
+		"example": "The ancient Greek temple has a beautifully carved cornice.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sker-",
+					"meaning": "to turn, bend"
+				}
+			],
+			"points": [
+				"crown（王冠）や corona（光冠）と同じ『丸く囲うもの』という源流です。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "frieze",
+		"word": "Frieze",
+		"meaning": "フリーズ(彫刻などで装飾された帯状の横壁)",
+		"era": "16th Century French frise",
+		"etymology": {
+			"components": [
+				"frise (border, decoration)"
+			],
+			"original_statement": "From French frise (border, decoration), of uncertain origin, perhaps related to Phrygian embroidery or Latin Phrygium (work in gold and silver)."
+		},
+		"concept": "A broad horizontal band of sculpted decoration (横に長く続く装飾的な帯)",
+		"thinking": "パルテノン神殿の壁上部にぐるりと彫られている、兵士や馬のパレードのような連続した浮き彫りの装飾面。建築の一部でありながら、巨大なキャンバスでもありました。",
+		"aftertaste": "石の壁に彫られた、永遠に終わらないパレード。",
+		"example": "The museum displays a replica of the Parthenon frieze.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"freeze（凍る）と発音は同じですが、全く関係ありません。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "portico",
+		"word": "Portico",
+		"meaning": "ポルティコ(列柱のある玄関のポーチ)",
+		"era": "17th Century Italian portico",
+		"etymology": {
+			"components": [
+				"porticus (porch, colonnade)"
+			],
+			"original_statement": "From Italian portico, from Latin porticus (porch, covered walk), from porta (gate, door)."
+		},
+		"concept": "A roofed porch with columns (柱で支えられた屋根付きの玄関)",
+		"thinking": "建物の玄関の前に作られた、円柱（柱廊）が並ぶ屋根付きの威厳あるアプローチ。ホワイトハウスなどの立派な建物の入り口を想像してください。ポーチ（porch）の豪華版。",
+		"aftertaste": "扉を開く前の、柱と影のプロローグ。",
+		"example": "The senator gave his speech from the portico of the capitol.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "per-",
+					"meaning": "to lead, pass over"
+				}
+			],
+			"points": [
+				"porta（門）、port（港/扉）、portal（入り口）とすべて同じ『通り抜ける道』です。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "pavilion",
+		"word": "Pavilion",
+		"meaning": "パビリオン、展示館、東屋、大型テント",
+		"era": "13th Century Old French/Latin papilio",
+		"etymology": {
+			"components": [
+				"papilio (butterfly, tent)"
+			],
+			"original_statement": "From Old French paveillon (tent), from Latin papilio (butterfly, tent), reflecting the flapping of the tent's canvas looking like a butterfly's wings."
+		},
+		"concept": "A tent resembling a butterfly (蝶の羽ばたきに似たテント)",
+		"thinking": "万博の「パビリオン」の語源は、なんと「蝶々」。中世の兵士が野営で張った大きなテントの布が風にバサバサと煽られる様を蝶の羽に見立てたという、非常にロマンチックなルーツです。",
+		"aftertaste": "風に舞う布の蝶が、いつしか鋼鉄の展示館になった。",
+		"example": "The Japanese pavilion at the Expo was a major attraction.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "papilio",
+					"meaning": "butterfly"
+				}
+			],
+			"points": [
+				"パピヨン（papillon: フランス語で蝶・犬の品種）と同じ言葉です。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "maze",
+		"word": "Maze",
+		"meaning": "迷路、迷宮、複雑に絡み合ったもの",
+		"era": "13th Century Middle English mased",
+		"etymology": {
+			"components": [
+				"masen (to confuse, bewilder)"
+			],
+			"original_statement": "From Middle English mase (confused state, delusion), from masen (to confuse, daze), of obscure origin."
+		},
+		"concept": "A confusing network of paths (人を混乱させる道のネットワーク)",
+		"thinking": "Labyrinthが「中に入って神聖な体験をする一本道の回廊」だったのに対し、Mazeは「行き止まりや分岐があり、騙して迷わせる（amaze）ためのパズル」。遊園地などの「迷路」はアミューズメントとしてのMazeです。",
+		"aftertaste": "行き止まりと錯覚で作られた、知恵の檻。",
+		"example": "The laboratory mice ran through the maze to find cheese.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "maze",
+					"meaning": "delusion, bewilderment"
+				}
+			],
+			"points": [
+				"『めっちゃ驚く、感嘆させる（amazing）』は、この『頭を混乱させる・迷宮に入れる』という感覚から来ています。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "terrace",
+		"word": "Terrace",
+		"meaning": "テラス、(斜面の)段丘、階段状の構造",
+		"era": "16th Century French terrasse",
+		"etymology": {
+			"components": [
+				"terra (earth, land)"
+			],
+			"original_statement": "From French terrasse (a raised level place), from Old Occitan terrassa, from Latin terra (earth)."
+		},
+		"concept": "A raised and leveled earth (平らに盛り上げられた土)",
+		"thinking": "大地（terra）に土を盛って作られた平らで少し高くなった場所。山の斜面の「段々畑（terraced fields）」や、家から庭に続く高台のこと。木で作られたデッキや空中バルコニーとは違い、ルーツは「土」です。",
+		"aftertaste": "大地を平らに削り、人間が歩くためのステージにする。",
+		"example": "We sat on the terrace sipping coffee and watching the sunset.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ters-",
+					"meaning": "to dry (terra means dry land)"
+				}
+			],
+			"points": [
+				"地球（terrestrial）や領土（territory）と同じ『土（terra）』ファミリーです。"
+			]
+		},
+		"part_of_speech": "noun"
 	}
 ];
