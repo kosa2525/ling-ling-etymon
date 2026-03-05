@@ -180050,5 +180050,123 @@ const WORDS = [
 			]
 		},
 		"part_of_speech": "adjective"
+	},
+	{
+		"id": "stereotype",
+		"word": "Stereotype",
+		"meaning": "固定観念、ステレオタイプ",
+		"era": "18th Century French stéréotype",
+		"etymology": {
+			"components": [
+				"stereo- (solid)",
+				"type (impression, mold)"
+			],
+			"original_statement": "Coined in French as stéréotype, literally 'solid type', referring to a method of printing from a solid metal plate."
+		},
+		"concept": "A solid metal impression (固められた印刷の型)",
+		"thinking": "元々は印刷技術の用語（鉛で固めた活版）。一度作ると変更がきかず、全く同じものを大量に印刷できることから、人間の思考においても『柔軟性を失って固まりきった（stereo）、型にはまった大量生産の他者認識』を意味するようになりました。",
+		"aftertaste": "個性を塗りつぶす、冷たい鉛の活字。",
+		"example": "He doesn't fit the stereotype of an accountant at all.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ster-",
+					"meaning": "stiff, solid"
+				}
+			],
+			"points": [
+				"ステレオ（立体音響）も『立体的で硬い・ソリッドな』という源流を持っています。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "myth",
+		"word": "Myth",
+		"meaning": "神話、作り話、根拠のない俗説",
+		"era": "19th Century Modern Latin/Greek mythos",
+		"etymology": {
+			"components": [
+				"mythos (speech, thought, story)"
+			],
+			"original_statement": "From Modern Latin mythus, from Greek mythos (word, speech, story, fiction)."
+		},
+		"concept": "A traditional story or speech (伝統的な物語、あるいは言葉そのもの)",
+		"thinking": "ギリシャ語で「ロゴス（論理・理性的な言葉）」に対して、「物語や伝承として語り継がれる言葉」。世界の成り立ちを説明する崇高な神話でありながら、現代では「都市伝説や根拠のない嘘」という意味でも使われます。",
+		"aftertaste": "論理（ロゴス）が届かない領域を埋める、物語（ミュートス）の力。",
+		"example": "It is a myth that lightning never strikes the same place twice.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "meudh-",
+					"meaning": "to reflect, think over (tentative)"
+				}
+			],
+			"points": [
+				"ロゴスと対比される太古の哲学的な対概念でした。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "ideology",
+		"word": "Ideology",
+		"meaning": "イデオロギー、観念形態、(政治・社会上の)根本的な思想",
+		"era": "18th Century French idéologie",
+		"etymology": {
+			"components": [
+				"idea",
+				"-logy (study of)"
+			],
+			"original_statement": "Coined in French as idéologie by Antoine Destutt de Tracy at the time of the French Revolution, literally 'the science of ideas'."
+		},
+		"concept": "The science of ideas (観念の科学)",
+		"thinking": "元々は「人間の観念はどう生まれるか」という中立的な哲学分野の名称でした。しかしナポレオンがそれを「空論」と嘲笑し、その後マルクスが「支配階級を正当化する虚偽の意識」と呼んだことで、集団を動かす強烈で固定化された思想体系という意味に変わりました。",
+		"aftertaste": "思想が刃となり、人々を分断する。",
+		"example": "Capitalism and communism are two opposing economic ideologies.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "weid-",
+					"meaning": "to see"
+				},
+				{
+					"term": "leg-",
+					"meaning": "to collect, speak"
+				}
+			],
+			"points": [
+				"元々はプラトンのイデア（Idea: 見える姿・原型）から派生した言葉です。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "theorem",
+		"word": "Theorem",
+		"meaning": "定理",
+		"era": "16th Century Late Latin/Greek theorema",
+		"etymology": {
+			"components": [
+				"theorein (to look at, consider)"
+			],
+			"original_statement": "From Late Latin theorema, from Greek theōrēma (spectacle, object of contemplation, principle), from theōrein (to look at)."
+		},
+		"concept": "Something to be looked at or proved (じっと眺め、考察し、証明されるべきもの)",
+		"thinking": "Axiom（公理＝証明不要の大前提）の上に立って論理を積み上げ、最終的に「観照・証明された」真理や法則。ピタゴラスの定理（Pythagorean theorem）など、数学的な確固たる結論です。",
+		"aftertaste": "公理という土台に組み上げられた、論理の芸術作品。",
+		"example": "He spent years trying to prove Fermat's Last Theorem.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "dheie-",
+					"meaning": "to see, look"
+				}
+			],
+			"points": [
+				"theory（理論）や theater（劇場）と同じ『見る場』という語源です。"
+			]
+		},
+		"part_of_speech": "noun"
 	}
 ];
