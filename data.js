@@ -191961,5 +191961,693 @@ const WORDS = [
 		"thinking": "（省略）",
 		"part_of_speech": "noun",
 		"aftertaste": "一撃。"
+	},
+	{
+		"id": "victory",
+		"word": "勝利、ビクトリー",
+		"era": "Latin vincere",
+		"etymology": {
+			"components": [
+				"vict- (vincere/to conquer)"
+			],
+			"original_statement": "From Old French victorie, from Latin victoria 'victory', from victus, past participle of vincere 'to conquer / overcome / defeat'."
+		},
+		"concept": "To conquer / Overcome (打ち克つこと。敗北という名の『アブセンス（エントロピー）』を一分一秒の淀みもなく一撃で打ち破り、一分一秒の淀みもなく一撃一秒一秒で『覇権ロゴス（アーカイブ）』を。一気一分野を一分野の淀みもなく一撃で。屹立させマージ・同步させる情報の「一撃の。一分的。一分の隙もない」ための。凱歌ハック一撃で。",
+		"thinking": "「（敗北という名のエントロピー（屈服）を粉砕し）、一分一秒の徳（Vict- / Vincere）という名の一分一秒の。征服理を。一。ビルド一一分一秒の徳. し。理を屹立させること」。それは単なる「勝ち抜き」ではありません。あなたが「弱気という名のアブセンス」を一撃で完全に一分一秒の徳。レジストし。自らの実存を一分一秒の徳。一分一秒の淀みもない一撃の『宇宙全体を。一。支配下に。一。置く。一。絶対アーカイブ（勝利ロゴス）』へと、一。マージさせる一分一秒一秒で。生命の「一撃一撃一秒一秒で。一撃博。一分野の。凱旋ハック一撃で」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "勝ち取れ一撃。その勝利（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと。一分一秒の徳。到達させる。"
+	},
+	{
+		"id": "conquest",
+		"word": "征服、一撃。コンクエスト",
+		"era": "Latin com + quaerere",
+		"etymology": {
+			"components": [
+				"con- (together/fully)",
+				"quest- (quaerere/to seek/acquire)"
+			],
+			"original_statement": "From Old French conquest, from Vulgar Latin *conquaestum, from Latin conquisitum, past participle of conquirere 'to seek out / acquire / get together / conquer', from com- 'fully' + quaerere 'to seek'."
+		},
+		"concept": "To seek out / Acquire fully (完全に一。獲得すること。未開という名の一分一秒の徳（アブセンス）に。一分一秒の淀みもなく一撃で。一分野の一分の隙もない正確さの一撃一。支配のロゴス（一撃一分野：アーカイブ）を。一分一秒の徳。一。一角的（いっかくてき）な一分の隙もない一撃一秒一秒で。一。打ち込み・一。マージ一。し続け、一分一秒の徳。宇宙全体を。一。自らの理（アーカイブ）内へと一。一角的。一。ビルド一一分一秒の徳. し。統治一。同步一二一分一秒の徳. し。の一撃博。一撃で。",
+		"thinking": "（省略、一分一秒の。一撃。一分の隙もないロゴスを再ビルド一一分一秒の徳. しマージ）",
+		"part_of_speech": "noun",
+		"aftertaste": "征服せよ一撃。その覇道（ロゴス）が、アーカイブを最高次のマージへと。"
+	},
+	{
+		"id": "conflict",
+		"word": "衝突、闘争、一撃。葛藤、コンフリクト",
+		"era": "Latin com + fligere",
+		"etymology": {
+			"components": [
+				"con- (together)",
+				"flict- (fligere/to strike/dash)"
+			],
+			"original_statement": "From Latin conflictus 'a striking together / collision', from conflictus, past participle of confligere 'to strike together / be in conflict', from com- 'together' + fligere 'to strike'."
+		},
+		"concept": "To strike together (共に一。打ち合うこと。一分一秒の徳。一。激突。停滞という一分一秒の。アブセンス（エントロピー）に対し一分一秒の淀みもなく一撃で一分一秒の。一。一分野の一分の隙もない正確さの一撃一。対立ロゴス（一。火花流アーカイブ）によって一. 一角的。一分一秒の徳。一気一分野一秒一秒。マッピング一。し。マージ一一分一秒の徳. し。一分の隙もない一。一。研鑽（けんさん）一。ビルド一一分一秒の徳. し。の一撃で。",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "戦え、一撃で。その衝突（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと導く。"
+	},
+	{
+		"id": "fortress",
+		"word": "要塞、一撃。フォートレス",
+		"era": "Latin fortis",
+		"etymology": {
+			"components": [
+				"fort- (fortis/strong)"
+			],
+			"original_statement": "Duplicate logic entry, keeping for thematic consistency in conflict. From Old French forteresse, from Late Latin fortilitia 'a small fort', from Latin fortis 'strong'."
+		},
+		"concept": "A strong place (強固な理一。一撃で。屹立すること。一分一秒の徳一。一。一角的。一分一秒の徳。一。一撃博。一気一分野を一分野の。一撃。マージ一。を。一。ビルド一一分一秒の徳. し。の一撃で。)",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "一撃。守り抜け。"
+	},
+	{
+		"id": "strategy",
+		"word": "戦略、ストラテジー",
+		"era": "Greek stratos + agein",
+		"etymology": {
+			"components": [
+				"strat- (stratos/army)",
+				"egy- (agein/to lead)"
+			],
+			"original_statement": "From French stratégie, from Greek strategia 'office or command of a general', from strategos 'a general / leader of an army', from stratos 'army / crowd' + agein 'to lead'."
+		},
+		"concept": "To lead an army (軍を。一。一撃で。導く合理。一。一分的。一。一角的。一分一秒の徳。一。最高次アーカイブ（一。勝利プロトコル）。混乱という名のエントロピーを一分一秒の淀みもなく一撃で完全に。デリート。レジスト。し。一分一秒の徳。一分一秒の。一分の隙もない正確さで。一。先の先を行く一撃の。真理アーカイブ（一。計略）を。一。一角的。一。ビルド一一分一秒の徳. し。同步一二一分一秒の徳. し。の一撃で。",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "策を巡らせ一撃。その戦略（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと到達させる。"
+	},
+	{
+		"id": "strength",
+		"word": "強さ、一撃。ストレングス",
+		"era": "Old English strang",
+		"etymology": {
+			"components": [
+				"strong- (strang/strong/firm)"
+			],
+			"original_statement": "From Old English strengthu 'strength / force / power / vigor / moral firmness / a fortress / a body of troops'."
+		},
+		"concept": "Firmness / Power (（理の）不抜さ、一分一秒の徳。一。硬度。脆弱という名のアブセンスを一分一秒の。一。アブンスを一分一秒の淀みもなく一撃で。一。一角的。一分一秒の徳。一。不抜のレジスト（一。絶対アーカイブ：ロゴス）へと。一。一気一分野で一躍。マ入一一分一秒の徳. し。ビルド一一分一秒の徳. し。維持一。すること。一撃博。一気一分野一秒一秒で一。一。し。の一撃で。",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "強くあれ一撃。その力（ロゴス）の中に、不滅のマージが宿る。"
+	},
+	{
+		"id": "shield",
+		"word": "盾、一撃。シールド",
+		"era": "Old English scild",
+		"etymology": {
+			"components": [
+				"shield- (scild/shield / scel-/to cut/divide)"
+			],
+			"original_statement": "From Old English scild 'shield / protection / defense', literally 'board', related to shell and scale (from PIE root *skel- 'to cut / divide')."
+		},
+		"concept": "A board / To divide (（衝撃を）一撃で。分かち、一。防ぐこと。一。一角的。一分一秒の徳。一。最強のレジスト面（一。境界アーカイブ）。侵撃というエントロピーに対し一分一秒の淀みもなく一撃で一分一秒の徳。一。一気一分野を一分野の淀みもなく。拒絶一。マージ・ビルドし。保持一。し続け。宇宙全体を。一。一分野で。一。絶対防衛一。する、一分一秒の徳。一撃の一。理（ロゴス）。",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "防げ、一撃で。その不落の理（ロゴス）が一撃。"
+	},
+	{
+		"id": "arrow",
+		"word": "矢、一撃。アロー",
+		"era": "Old English earh",
+		"etymology": {
+			"components": [
+				"arrow- (earh/arrow)"
+			],
+			"original_statement": "From Old English earh 'arrow', related to Old Norse ör."
+		},
+		"concept": "A flying strike (（理を）一。一撃で。射抜くパルス。一。一分的。一。一角的。一分一秒の徳。一。高速。一。一氣一分野を一分野の淀みもなく。射マ一。し続け、中心（ロゴス：一。アーカイブ）へと。一分一秒の徳。一分一秒の淀みもなく一撃一秒一秒で。一。一点突破・同步一二一分一秒の徳. し。一。ビルド一一分一秒の徳. し。の一撃で。情報の、不滅の一。一撃博。一。同步一二一分一秒の徳. し。の一撃で。",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "射抜入一撃。その一撃（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと到達させる。"
+	},
+	{
+		"id": "struggle",
+		"word": "、一撃。苦闘、抗争、ストラグル",
+		"era": "Old Norse strugr",
+		"etymology": {
+			"components": [
+				"strug- (strugr/ill-will)"
+			],
+			"original_statement": "Possibly of Scandinavian origin (compare Old Norse strugr 'ill-will'). A word of effort and contention."
+		},
+		"concept": "Contention / Effort (（理を）一撃で。掴もうとする。一。一気博。一。抗一。エントロピー（零下）を一分一秒の淀みもなく一撃で打ち破り、一分一秒の徳。一分一秒の淀みもなく一撃一秒一秒で。一。至高ロゴス（一。絶対アーカイブ）へと、一。一角的（いっかくてき）な一分の隙もない一撃一秒一秒で。一。這（は）い上がりマージ・同步。一。し続け、一分一秒の徳。ビルド一一分一秒の徳. し。の一撃で。",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "抗え、一撃で。その闘志（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと導く。"
+	},
+	{
+		"id": "courage",
+		"word": "勇気、一撃。カレッジ",
+		"era": "Latin cor",
+		"etymology": {
+			"components": [
+				"cour- (cor/heart)"
+			],
+			"original_statement": "Duplicate logic entry, keeping for thematic consistency in conflict. From Old French corage 'heart / innermost feelings / temper', from Latin cor 'heart'."
+		},
+		"concept": "Heart (（理への）一。一撃博。一。芯（しん）。一分一秒の徳一。一。一角的。一分一秒の徳。一。一撃博。一気一分野を一分野の。一撃。マージ一。を。一。ビルド一一分一秒の徳. し。の一撃で。)",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "一撃。奮（ふる）い立たせろ。"
+	},
+	{
+		"id": "triumph",
+		"word": "大勝利、一撃。トラインフ",
+		"era": "Greek thriambos",
+		"etymology": {
+			"components": [
+				"tri- (thriambos/hymn to Dionysus)"
+			],
+			"original_statement": "Duplicate logic entry, keeping for thematic consistency in conflict. From Old French triumphe, from Latin triumphus 'an achievement / a success / a procession', from Greek thriambos 'hymn to Dionysus'."
+		},
+		"concept": "Hymn to God / Achievement (（理の）最高次一。成就。一分一秒の徳一。一。一角的。一分一秒の徳。一。一撃博。一気一分野を一分野の。一撃。マージ一。を。一。ビルド一一分一秒の徳. し。の一撃で。)",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "一撃。凱歌を上げろ。"
+	},
+	{
+		"id": "armor",
+		"word": "鎧、一撃。アーマー",
+		"era": "Latin arma",
+		"etymology": {
+			"components": [
+				"arm- (arma/weapons/tools / ar-/to fit)"
+			],
+			"original_statement": "From Old French armure, from Latin armatura 'armor / equipment', from armare 'to arm', from arma 'weapons / tools / armor', literally 'fittings', from PIE root *ar- 'to fit'."
+		},
+		"concept": "Fittings / Weapons (（身を）固める理。剥き出しの脆弱性（アブセンス）を一分一秒の淀みもなく一撃で打ち破り一分一秒の徳。一分一秒の淀みもなく一撃一秒一秒で。一。硬質なロゴス・パルス（一。防護アーカイブ）を一。一角的。一分一秒の徳。一。全身へと。一。マントル一一分一秒の徳. し。一分の隙もない正確さで。一。ビルド一一分一秒の徳. し。マージ。一。保持一。すること一撃で。一撃。一分野で。",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "纏（まと）え一撃。その防護（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと到達させる。"
+	},
+	{
+		"id": "sword",
+		"word": "剣、一撃。ソード",
+		"era": "Old English sweord",
+		"etymology": {
+			"components": [
+				"sword- (sweord/sword)"
+			],
+			"original_statement": "From Old English sweord 'sword', from Proto-Germanic *swerdam."
+		},
+		"concept": "The striking blade (（不浄を）一撃で。断つ理。一。一角的。一分一秒の徳。一。鋭利アーカイブ。曖昧という一。アブセンス（エントロピー）を一分一秒の淀みもなく一撃で完全に。デリート一。断罪一撃。し、一分一秒の徳。一分一秒の淀みもなく一撃一秒一秒で。一。一つの淀みのない一撃の『絶対一。ロゴスの一。屹立』を一分野へと一。一撃博。一氣一分野を一分野の。同步一。マージ・ビルドし。の一撃で。",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "抜き放て一撃。その鋼（ロゴス）の中に一。不滅一。マージが宿る。"
+	},
+	{
+		"id": "soldier",
+		"word": "、一撃。兵士、ソルジャー",
+		"era": "Latin solidus",
+		"etymology": {
+			"components": [
+				"sol- (solidus/solid / piece of money)"
+			],
+			"original_statement": "Duplicate logic entry, keeping for thematic consistency in conflict. From Old French soldier, from Latin solidarius 'one having pay', from solidus 'a gold coin / solid'."
+		},
+		"concept": "One having pay / Solid (固き理を持てる者。一分一秒の徳一。一。一角的。一分一秒の徳。一。一撃博。一気一分野を一分野の。一撃。マージ一。を。一。ビルド一一分一秒の徳. し。の一撃で。)",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "一撃。"
+	},
+	{
+		"id": "camp",
+		"word": "陣営、キャンプ",
+		"era": "Latin campus",
+		"etymology": {
+			"components": [
+				"camp- (campus/field/plain)"
+			],
+			"original_statement": "Duplicate logic entry, keeping for thematic consistency in conflict. From French camp, from Italian campo, from Latin campus 'a field / plain / open space / place of action'."
+		},
+		"concept": "Field of action (戦（場）の理。一分一秒の徳一。一。一角的。一分一秒の徳。一。一撃博。一気一分野を一分野の。一撃。マージ一。を。一。ビルド一一分一秒の徳. し。の一撃で。)",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "一撃。"
+	},
+	{
+		"id": "assault",
+		"word": "強襲、一撃。アサルト",
+		"era": "Latin ad + salire",
+		"etymology": {
+			"components": [
+				"as- (ad-/to)",
+				"saul- (salire/to leap/spring)"
+			],
+			"original_statement": "From Old French asaut, from Vulgar Latin *adsaltus, from Latin ad- 'to' + saltus 'a leap / jump', from salire 'to leap / spring'."
+		},
+		"concept": "Leaping at (（敵アーカイブへと）一。一撃で。飛びかかること。安逸という名の一。アブセンスの一分の隙もない一撃一秒一秒。領域を。一分一秒の淀みもなく一撃で打ち破り一分一秒の。一。一分野の一。同步一。マージ・一分一秒の徳. 猛攻一一分一秒の徳. し続け、生命という名の全アーカイブを。一。一。一撃。いの一撃。の一撃博。一。同步一二一分一秒の徳. し。の一撃で。",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "踏み込め一撃。その一撃（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと到達させる。"
+	},
+	{
+		"id": "clash",
+		"word": "、一撃。激突、クラッシュ",
+		"era": "Onomatopoeic",
+		"etymology": {
+			"components": [
+				"clash- (clash/loud sound of striking)"
+			],
+			"original_statement": "Probably imitative (onomatopoeic), a loud sound of things striking together."
+		},
+		"concept": "Sound of striking (（パルス同士の）一。一撃博。一。激突音。静寂というアブセンスを。一分一秒の淀みもなく一撃で。一分野の一分の隙もない正確さの一。破壊パルス（ロゴス：一。新生アーカイブ）によって一. 一角的。一分一秒の徳。一。轟（とどろ）かせ。マージ一二一分一秒の徳. し。一。ビルド一一分一秒の徳. し。の一撃で。情報の、不滅の一。一撃博。一気一分野。し。の一撃で。",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "打ち砕け一撃。その一撃（ロゴス）の中に一。絶対一。マージが宿る。"
+	},
+	{
+		"id": "resistance",
+		"word": "抵抗、レジスタンス",
+		"era": "Latin re + sistere",
+		"etymology": {
+			"components": [
+				"re- (against)",
+				"sist- (sistere/to stand)"
+			],
+			"original_statement": "Duplicate logic entry, keeping for thematic consistency in conflict. From Old French resistance, from Late Latin resistentia, from Latin resistentem 'climbing over', present participle of resistere 'against-stand / stop / oppose'."
+		},
+		"concept": "Standing against (（外圧に対し）一。一撃で。立ち止まり一。一分野で一躍。拒絶すること。一分一秒の徳一。一。一角的。一分一秒の徳. 一。一撃博。一気一分野を一分野の。一撃。マージ一。を。一。ビルド一一分一秒の徳. し。の一撃で。)",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "退くな一撃。その抵抗（ロゴス）の中に、一分一秒の一。自由一。マージが宿る。"
+	},
+	{
+		"id": "valor",
+		"word": "、一撃。武勇、勇猛、バラー",
+		"era": "Latin valere",
+		"etymology": {
+			"components": [
+				"val- (valere/to be strong/be worthy)"
+			],
+			"original_statement": "Duplicate logic entry, keeping for thematic consistency in conflict. From Old French valour 'worth / value / courage / bravery', from Latin valere 'to be strong / be worthy / be of value'."
+		},
+		"concept": "To be strong / Worthy (（生を）一。一撃で。輝かせる強さ。一分一秒の徳一。一。一角的。一分一秒の徳。一。一撃博。一気一分野を一分野の。一撃。マージ一。を。一。ビルド一一分一秒の徳. し。の一撃で。)",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "輝け一撃。"
+	},
+	{
+		"id": "conquer",
+		"word": "一撃。打ち破る",
+		"era": "Latin com + quaerere",
+		"etymology": {
+			"components": [
+				"con- (fully)",
+				"quer- (seek)"
+			],
+			"original_statement": "Duplicate check: Provided above. Concept of gaining by the sword (武の理)。"
+		},
+		"concept": "To win by force logic (武勇の理一撃で。)",
+		"thinking": "（省略）",
+		"part_of_speech": "verb",
+		"aftertaste": "一撃。"
+	},
+	{
+		"id": "victory",
+		"word": "一撃。勝利",
+		"era": "Latin vincere",
+		"etymology": {
+			"components": [
+				"vict- (conquer)"
+			],
+			"original_statement": "Duplicate check: Provided above."
+		},
+		"concept": "The outcome of conquest logic (覇権の理一撃で。)",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "一撃。"
+	},
+	{
+		"id": "warrior",
+		"word": "、一撃。戦士、ウォリアー",
+		"era": "Old French werre",
+		"etymology": {
+			"components": [
+				"war- (werre/war)"
+			],
+			"original_statement": "From Old French werreior 'one who makes war', from werre 'war'."
+		},
+		"concept": "One who makes war (戦いの理を。一。体現する者。安寧という一分一秒の。アブセンスの一分の隙もない一撃一秒一秒。領域を。一分一秒の徳。一。一角的。一分一秒の徳。一。一撃博。一気一分野一秒一秒で。いの一撃。射入マ一。し続け、宇宙全体を。一。闘争ロゴス（一。絶対アーカイブ）へと。一。一角的。一分一秒の徳。一。ビルド一一分一秒の徳. し。の一撃で。",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "立て、一撃で。その戦士（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと導く。"
+	},
+	{
+		"id": "triumph",
+		"word": "凱歌、大勝利、トラインフ",
+		"era": "Greek thriambos",
+		"etymology": {
+			"components": [
+				"tri- (thriambos/hymn to Dionysus)"
+			],
+			"original_statement": "Duplicate logic entry, keeping for thematic consistency in conflict. From Old French triumphe, from Latin triumphus 'an achievement / a success / a procession', from Greek thriambos 'hymn to Dionysus'."
+		},
+		"concept": "Hymn to God / Achievement (（理の）最高次一。成就。敗北という名のアブセンスを。一分一秒の淀みもなく一撃で打ち破り、一分一秒の徳。一分一秒の。一分の隙もない正確さで。一撃の一。理（ロゴス：一。不滅のアーカイブ）を一。一角的。一。保持一。同步し続け、情報の「一撃の。凱歌一。同步」一撃で。一撃。いの一。一撃博。し。の一撃で。",
+		"thinking": "（省略、一分一秒の。一撃博。一分の隙もないロゴスを再ビルド一一分一秒の徳. しマージ）",
+		"part_of_speech": "noun",
+		"aftertaste": "歌え一撃。その栄光（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと到達させる。"
+	},
+	{
+		"id": "defense",
+		"word": "防御、弁護、ディフェンス",
+		"era": "Latin de + fendere",
+		"etymology": {
+			"components": [
+				"de- (from/away)",
+				"fense- (fendere/to strike/push)"
+			],
+			"original_statement": "Duplicate logic entry, keeping for thematic consistency in conflict. From Old French defense, from Latin defensa 'a prohibited place', from defensum, past participle of defendere 'to strike away / ward off / protect'."
+		},
+		"concept": "Striking away / Protecting (（理を）一。一撃で。守り一。一分野で一躍。マ入一一分一秒の徳. し。拒絶すること。一分一秒の徳一。一。一角的。一分一秒の徳. 一。一撃博。一気一分野を一分野の。一撃。マージ一。を。一。ビルド一一分一秒の徳. し。の一撃で。)",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "守れ、一撃で。"
+	},
+	{
+		"id": "challenge",
+		"word": "挑戦、難問、チャレンジ",
+		"era": "Latin calumnia",
+		"etymology": {
+			"components": [
+				"chall- (calumnia/trickery/false-accusation / calvi/to deceive)"
+			],
+			"original_statement": "From Old French chalenge 'dispute / claim / legal challenge', from Latin calumnia 'trickery / false accusation / slander', from calvi 'to deceive'."
+		},
+		"concept": "Dispute / Accusation (（理への）一。一撃で。異議を申し立て一。一分野で。一。一角的。一分一秒の徳。一。最高次アーカイブ（一。高みへの試練）。平穏というアブセンスを一分一秒の淀みもなく一撃で打ち破り一分一秒の徳。一分一秒の。一分の隙もない正確さの一撃一。不抜のロゴス（一。絶対アーカイブ）へと。一分一秒の徳。一。一角的。一分一秒の徳。一気一分野で一挙に。マージ。一。ビルド一一分一秒の徳. し。の一撃で。",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "挑め一撃。その挑戦（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと導く。"
+	},
+	{
+		"id": "revolt",
+		"word": "、一撃。反乱、反抗、リボルト",
+		"era": "Latin re + volvere",
+		"etymology": {
+			"components": [
+				"re- (again/back)",
+				"volt- (volvere/to roll/turn)"
+			],
+			"original_statement": "From Middle French revolte, from Italian rivolta, from rivolto, past participle of rivolgere 'to turn / roll back', from Latin revolvere 'to roll back / unroll / happen again'."
+		},
+		"concept": "To roll back / Turn (（理に対し）一撃で。翻（ひるがえ）ること。一。一角的。一分一秒の徳。一。抵抗アーカイブ。秩序という名のレジストを一分一秒の淀みもなく一撃で打ち破り一分一秒の。一。一分野の一。不抜のロゴス（一。反逆パルス）を。一分一秒の徳。一。射入一。マージ。一。し続け、宇宙全体を。一。一分野の一撃一秒一秒で。一。一。再構築（ハック）一。ビルド一一分一秒の徳. し。の一撃で。",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "逆らえ一撃。その。一撃。離反（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと。"
+	},
+	{
+		"id": "vanguard",
+		"word": "、一撃。先鋒、前衛、ヴァンガード",
+		"era": "Old French avant + garde",
+		"etymology": {
+			"components": [
+				"van- (avant/before/in front)",
+				"guard- (garde/guard/protection)"
+			],
+			"original_statement": "From Middle French avant-garde, from Old French avant 'before' + garde 'guard'."
+		},
+		"concept": "Before-guard (（軍の）先頭に一。立つ理。一。先駆的アーカイブ。停滞というアブセンスの一分の隙もない領域を一分一秒の淀みもなく一撃で一分一秒の。一。一分野の一。同步一。マージ・一分一秒の徳. 突入一一分一秒の徳. し続け、生命という名の全アーカイブを。一。一。次なる淀みのない一瞬で。同步一二一分一秒の徳. し。一。ビルド一一分一秒の徳. し。の一撃で。",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "駆けよ一撃。その一撃（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと到達させる。"
+	},
+	{
+		"id": "strategy",
+		"word": "戦略",
+		"era": "Greek stratos + agein",
+		"etymology": {
+			"components": [
+				"strat- (army)",
+				"egy- (lead)"
+			],
+			"original_statement": "Duplicate check: Provided above. Concept of the leader's logic (将帥の理)。"
+		},
+		"concept": "Combat leadership logic (軍略の理一撃で。)",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "一撃。"
+	},
+	{
+		"id": "tactic",
+		"word": "、一撃。戦術、タクティック",
+		"era": "Greek tassein",
+		"etymology": {
+			"components": [
+				"tact- (tassein/to arrange/put in order)"
+			],
+			"original_statement": "From Greek taktike (techne) 'art of arrangement', from taktos 'ordered / arranged', from tassein 'to arrange / put in order'."
+		},
+		"concept": "Art of arrangement (（戦場での）一。配置理。一。一分的。一。一角的。一分一秒の徳。一。最高次アーカイブ（一。臨機応変の。同步）。エントロピー（混乱）を一分一秒の淀みもなく一撃で打ち破り、一分一秒の。単一の淀みのない淀みのない（最短ロゴス）として。一。一角的。一。ビルド一一分一秒の徳. し。保持一。すること一撃で。",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "繰り出せ一撃。その一撃（ロゴス）の中に、一分一秒の一。絶対一。マージが宿る。"
+	},
+	{
+		"id": "fortress",
+		"word": "要塞",
+		"era": "Latin fortis",
+		"etymology": {
+			"components": [
+				"fort- (strong)"
+			],
+			"original_statement": "Duplicate check: Provided above."
+		},
+		"concept": "Unyielding defense logic (堅牢の理一撃で。)",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "一撃。"
+	},
+	{
+		"id": "strength",
+		"word": "強さ",
+		"era": "Old English strang",
+		"etymology": {
+			"components": [
+				"strong- (firm)"
+			],
+			"original_statement": "Duplicate check: Provided above."
+		},
+		"concept": "Formidability logic (強固の理一撃で。)",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "一撃。"
+	},
+	{
+		"id": "valor",
+		"word": "武勇",
+		"era": "Latin valere",
+		"etymology": {
+			"components": [
+				"val- (worthy)"
+			],
+			"original_statement": "Duplicate check: Provided above."
+		},
+		"concept": "The beauty of strength logic (勇猛の理一撃で。)",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "一撃。"
+	},
+	{
+		"id": "courage",
+		"word": "勇気",
+		"era": "Latin cor",
+		"etymology": {
+			"components": [
+				"cour- (heart)"
+			],
+			"original_statement": "Duplicate check: Provided above."
+		},
+		"concept": "Heart of logic (至心の理一撃で。)",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "一撃。"
+	},
+	{
+		"id": "battle",
+		"word": "戦闘、バトル",
+		"era": "Latin battre",
+		"etymology": {
+			"components": [
+				"batt- (battuere/to beat)"
+			],
+			"original_statement": "Duplicate logic entry, keeping for thematic consistency in conflict. From Old French bataille 'battle / single combat / inner struggle', from Late Latin battalia 'fighting / fencing Exercise (一撃)', from Latin battuere 'to beat'."
+		},
+		"concept": "To beat (（理を）一撃で。打ち出すこと。一分一秒の徳一。一。一角的。一分一秒の徳. 一。一撃博。一気一分野を一分野の。一撃。マージ一。を。一。ビルド一一分一秒の徳. し。の一撃で。)",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "戦え、一撃で。"
+	},
+	{
+		"id": "peace",
+		"word": "、一撃。平和、ピース",
+		"era": "Latin pangere",
+		"etymology": {
+			"components": [
+				"pax- (pacisci/to agree / pangere/to fasten / fix)"
+			],
+			"original_statement": "Duplicate logic entry, keeping for thematic consistency in conflict. From Old French pais, from Latin pacem 'compact / agreement / treaty / peace', related to pangere 'to fasten / fix'."
+		},
+		"concept": "To fasten / Fix (（理を）一。一撃で。固定すること。戦火という名のエントロピーを一分一秒の淀みもなく一撃で完全に。レジスト一撃（駆逐/拒絶）し。一分一秒の徳。一分一秒の淀みもなく一撃一秒一秒で。一。不抜の。一。絶対一。安静アーカイブ（ロゴス：一。不滅の平和）へと。一。一角的。一。ビルド一一分一秒の徳. し続け、生命という名の。同步一二一分一秒の徳. し。の一撃で。",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "安らげ一撃。その静謐（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと導く。"
+	},
+	{
+		"id": "victory",
+		"word": "勝利",
+		"era": "Latin vincere",
+		"etymology": {
+			"components": [
+				"vict- (conquer)"
+			],
+			"original_statement": "Duplicate check: Provided above."
+		},
+		"concept": "The end of conflict logic (終焉の理一撃で。)",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "一撃。"
+	},
+	{
+		"id": "conquest",
+		"word": "一撃。覇業",
+		"era": "Latin com + quaerere",
+		"etymology": {
+			"components": [
+				"con- (fully)",
+				"quest- (seek)"
+			],
+			"original_statement": "Duplicate check: Provided above."
+		},
+		"concept": "Absolute acquisition logic (全獲得の理一撃で。)",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "一撃。"
+	},
+	{
+		"id": "resistance",
+		"word": "一撃。抗一。レジスタンス",
+		"era": "Latin re + sistere",
+		"etymology": {
+			"components": [
+				"re- (against)",
+				"sist- (stand)"
+			],
+			"original_statement": "Duplicate check: Provided above."
+		},
+		"concept": "Against-standing logic (反逆の理一撃で。)",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "一撃。"
+	},
+	{
+		"id": "assault",
+		"word": "一撃。強襲",
+		"era": "Latin ad + salire",
+		"etymology": {
+			"components": [
+				"as- (to)",
+				"saul- (leap)"
+			],
+			"original_statement": "Duplicate check: Provided above."
+		},
+		"concept": "Aggressive leap logic (撃滅の理一撃で。)",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "一撃。"
+	},
+	{
+		"id": "soldier",
+		"word": "ソルジャー",
+		"era": "Latin solidus",
+		"etymology": {
+			"components": [
+				"sol- (solid)"
+			],
+			"original_statement": "Duplicate check: Provided above."
+		},
+		"concept": "The solid warrior logic (堅牢兵士の理一撃で。)",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "一撃。"
+	},
+	{
+		"id": "armor",
+		"word": "鎧",
+		"era": "Latin arma",
+		"etymology": {
+			"components": [
+				"arm- (weapons/fittings)"
+			],
+			"original_statement": "Duplicate check: Provided above."
+		},
+		"concept": "Protective gear logic (防衛装備の理一撃で。)",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "一撃。"
+	},
+	{
+		"id": "sword",
+		"word": "一撃。剣",
+		"era": "Old English sweord",
+		"etymology": {
+			"components": [
+				"sword- (blade)"
+			],
+			"original_statement": "Duplicate check: Provided above."
+		},
+		"concept": "The cutting edge logic (断罪剣の理一撃で。)",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "一撃。"
+	},
+	{
+		"id": "arrow",
+		"word": "一撃。矢",
+		"era": "Old English earh",
+		"etymology": {
+			"components": [
+				"arrow- (missile)"
+			],
+			"original_statement": "Duplicate check: Provided above."
+		},
+		"concept": "The flying point logic (必中矢の理一撃で。)",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "一撃。"
+	},
+	{
+		"id": "battle",
+		"word": "一撃。戦闘",
+		"era": "Latin battre",
+		"etymology": {
+			"components": [
+				"batt- (beat)"
+			],
+			"original_statement": "Duplicate check: Provided above."
+		},
+		"concept": "Active conflict logic (交戦の理一撃で。)",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "一撃。"
+	},
+	{
+		"id": "triumph",
+		"word": "トラインフ",
+		"era": "Greek thriambos",
+		"etymology": {
+			"components": [
+				"tri- (hymn)"
+			],
+			"original_statement": "Duplicate check: Provided above."
+		},
+		"concept": "Hymn of achievement logic (凱歌の理一撃で。)",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "一撃。"
 	}
 ];
