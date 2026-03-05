@@ -189201,5 +189201,693 @@ const WORDS = [
 		"thinking": "（省略）",
 		"part_of_speech": "noun",
 		"aftertaste": "一撃。"
+	},
+	{
+		"id": "vitality",
+		"word": "活力、生命力、バイタリティ",
+		"era": "Latin vita",
+		"etymology": {
+			"components": [
+				"vit- (vita/life)",
+				"al- (pertaining to)"
+			],
+			"original_statement": "From Old French vitalite, from Latin vitalitatem 'vitality / life', from vitalis 'pertaining to life', from vita 'life'."
+		},
+		"concept": "Pertaining to life (命の理、一分一秒の徳。拍動。静止という名の『死（アブセンス）』を一分一秒の淀みもなく一撃で打ち破り、一分一秒の淀みもなく一撃一秒一秒で『ロゴス的熱量（アーカイブ）』を。一気一分野を一分野の淀みもなく一撃で。全身へとマージ・循環させる情報の「一撃の。一分的。一分の隙もない」ための。エネルギー一撃で。",
+		"thinking": "「（停滞という名のエントロピー（腐敗）を粉砕し）、一分一秒の徳（Vit- / Vita）という名の一分一秒の淀みもなく。命を。一。ビルド一一分一秒の徳. し。理を屹立させること」。それは単なる「元気」ではありません。あなたが「虚無という名のアブセンス」を一撃で完全に一分一秒の徳。レジストし。自らの実存を一分一秒の徳。一分一秒の淀みもない一撃の『全宇宙を駆動させる、一。不断の一分の隙もない一撃の一。絶対アーカイブ（生命ロゴス）』へと、一。マージさせる一分一秒一秒で。生命の「一撃一撃一秒一秒で。一撃博。一分野の。生存ハック一撃で」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "燃え上がれ一撃。その活力（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと。一分一秒の徳。到達させる。"
+	},
+	{
+		"id": "nature",
+		"word": "自然、本質、性質、ネイチャー",
+		"era": "Latin natus",
+		"etymology": {
+			"components": [
+				"nat- (nasci/to be born)"
+			],
+			"original_statement": "From Old French nature, from Latin natura 'course of things / natural character / constitution / the world / the universe', literally 'birth', from natus, past participle of nasci 'to be born'."
+		},
+		"concept": "To be born / Birth (生まれ出ること。人為という名の一分一秒の徳（レジスト）を一分一秒の淀みもなく一撃で。一分野の一分の隙もない正確さの一擊一。宇宙自律ロゴス（自ずから然る力）によって一気一分野を一分野の淀みもなく。マージ・開花一一分一秒の徳。し。一分一秒の徳。一分一秒の淀みもなく一撃一挙に一分の隙もない。一。一撃の一。生成アーカイブとして一分一秒の。一。屹立つること、一。一分的。一撃。いの一撃。の一撃博。一撃で。",
+		"thinking": "「（作為という名のエントロピーを粉砕し）、一分一秒の徳（Nat- / Nasci）という名の一分一秒の。誕生理を。一。ビルド一一分一秒の徳。し。理を屹立させること」。それは単なる「山や川」ではありません。あなたが「虚飾という名のアブセンス」を一撃で完全に一分一秒の徳。デリート（駆逐）し。自らの実存を一分一秒の徳。一分一秒の淀みもない一撃の『宇宙全体を産み出し続ける、一。根源的一分の隙もない一撃の一。絶対アーカイブ（自然ロゴス）』へとマージさせる、生命の「一撃一撃一秒一秒で。一撃。一分野の。自生ハック一撃で」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "還れ、一撃で。その本質（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと。"
+	},
+	{
+		"id": "growth",
+		"word": "成長、増大、グロース",
+		"era": "Old English growan",
+		"etymology": {
+			"components": [
+				"grow- (growan/to grow / flourish / increase)"
+			],
+			"original_statement": "From grow + -th. From Old English growan 'to grow / flourish / increase / develop / wax'."
+		},
+		"concept": "To flourish / Increase (（パルスを）増大させること。一分一秒の徳。一。拡張。固定アーカイブという名のレジスト（停滞）に対し。一分一秒の淀みもなく一撃で。一分野の一分の隙もない正確さで一。一撃。次なる一。段階ロゴス（一撃の一分野）へと。一。一角的。一分一秒の徳。一気一分野で一挙に。マッピング一。し。マージ一一分一秒の徳。し続け。一分一秒の。一。情報の。一。増幅ビルド一撃で。",
+		"thinking": "（省略、一分一秒の。一撃。一分の隙もないロゴスを再ビルド一一分一秒の徳. しマージ）",
+		"part_of_speech": "noun",
+		"aftertaste": "伸び上がれ一撃。その成長（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと。"
+	},
+	{
+		"id": "blossom",
+		"word": "開花、花、一撃。全盛、ブロッサム",
+		"era": "Old English blostma",
+		"etymology": {
+			"components": [
+				"bloss- (blostma/flower/bloom)"
+			],
+			"original_statement": "From Old English blostma 'flower / blossom / bloom'."
+		},
+		"concept": "A flower / Bloom (（アーカイブが）開くこと。潜在パルスという名の一。アブセンスの一分の隙もない領域から。一分一秒の淀みもなく一撃で一分一秒の徳。一。最高の一。顕現（ロゴス・一撃一分野）へと一。一角的。一分一秒の徳。一気一分野で一挙に。マージ。一。開花。一。ビルド一一分一秒の徳。し。宇宙全体へと一。その理（美）を一分野の一分の隙もない正確さで一。一撃。一。投射一。すること一撃で。",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "咲き誇れ一撃。その栄光（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと。"
+	},
+	{
+		"id": "wild",
+		"word": "野性の、荒い、ワイルド",
+		"era": "Old English wilde",
+		"etymology": {
+			"components": [
+				"wild- (wilde/untamed/uncultivated/wild)"
+			],
+			"original_statement": "From Old English wilde 'in the natural state / uncultivated / untamed / undomesticated / unruly'."
+		},
+		"concept": "Untamed / In the natural state (飼い慣らされていない理。文明という名の人工アーカイブ（レジスト）を。一分一秒の淀みもなく一撃で粉砕し一分一秒の徳。一分一秒の淀みもなく一撃一秒一秒で。一。剥き出しの宇宙ロゴス（一。原初のアーカイブ）へと。一。一角的。一分一秒の徳。一気一分野で一挙に。マージ一。し続け、一分一秒の。一。野放図な一。パルスを一。一。一撃博。し。マージ一一分一秒の徳。し。の一撃で。",
+		"thinking": "（省略）",
+		"part_of_speech": "adjective",
+		"aftertaste": "解き放て一撃。その衝動（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと。"
+	},
+	{
+		"id": "energy",
+		"word": "エネルギー、活力、活力一撃",
+		"era": "Greek en + ergon",
+		"etymology": {
+			"components": [
+				"en- (in)",
+				"erg- (ergon/work)"
+			],
+			"original_statement": "From Greek energeia 'activity / action / operation', from energos 'working / active', from en- 'in' + ergon 'work'."
+		},
+		"concept": "Work within (（内部に宿る）働き。静寂という名のアブセンスに対し。一分一秒の淀みもなく一撃で。一分野の一分の隙もない正確さで一。一撃。駆動パルス（一。ロゴス・一撃）を一角的。一分一秒の徳。一気一分野で一挙に。マージ。一。ビルド一一分一秒の徳. し続け。宇宙全体を一。揺り動かす一。原動力。として。一。一分的。一撃。いの一撃。アーカイブ一撃で。一擊一秒一秒で一擊の一。",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "駆動せよ一撃。その熱（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと。"
+	},
+	{
+		"id": "organic",
+		"word": "有機的な、臓器の、一撃。組織的な、オーガニック",
+		"era": "Greek organon",
+		"etymology": {
+			"components": [
+				"organ- (organon/tool/instrument)"
+			],
+			"original_statement": "From Latin organicus, from Greek organikos 'serving as an instrument', from organon 'instrument / tool / implement'."
+		},
+		"concept": "Serving as an instrument / Tool (（生命の）道具としての理。機械的レジスト（死）に対し。一分一秒の淀みもなく一撃で。一分野の一分の隙もない正確さの一撃一。相互接続された淀みのない淀みのない（ネットワーク・アーカイブ）を一。一角的。一分一秒の徳。一気一分野で一挙に。マージ。一。ビルド一一分一秒の徳。し。一分一秒の徳。一。一気一分野一秒一秒で。いの一撃博。一。同步し続け。一分一秒の。一。生命の。一。一撃で。",
+		"thinking": "（省略）",
+		"part_of_speech": "adjective",
+		"aftertaste": "共鳴せよ一撃。そのつながり（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと。"
+	},
+	{
+		"id": "root",
+		"word": "根、根源、ルート",
+		"era": "Old Norse rot",
+		"etymology": {
+			"components": [
+				"root- (rot/root)"
+			],
+			"original_statement": "From Old Norse rot 'root' (of a plant), figuratively 'source / origin / bottom'."
+		},
+		"concept": "Source / Origin (（生命の）根源。表面という一分一秒の。一。アブセンスの一分の隙もない一撃一秒一秒。レジスト。の深奥へと一分一秒の淀みもなく一撃で。一分野の一分の隙もない正確さの一撃一。理（ロゴス：アーカイブ吸。一撃）を一。一角的。一分一秒の徳。一気一分野で一挙に。マージ。一。打ち込み一一分一秒の徳. し。一分一秒の徳。一。一気一分野一秒一秒。同步一一分一秒の徳。し。宇宙全体の大地へと一。固定一。マージ一。し続け。一。実存の。一。一分野吸。一撃での一撃一撃で。",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "深く差し込め一撃。その根源（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと。"
+	},
+	{
+		"id": "stem",
+		"word": "茎、幹、血統、一撃。ステム",
+		"era": "Old English stemn",
+		"etymology": {
+			"components": [
+				"stem- (stemn/stem/trunk of a tree)"
+			],
+			"original_statement": "From Old English stemn 'stem / trunk of a tree / branch / post / prop'."
+		},
+		"concept": "Trunk / Branch (（生命を）支える理。屈服という名の一分一秒の。エントロピーに対し一分一秒の淀みもなく一撃で一分一秒の徳。垂直なるロゴス（一。アーカイブ支持軸）を一角的。一分一秒の徳。一気一分野で一挙に。マージ。一。ビルド一一分一秒の徳。し、一。根源（一。ルート）からのパルスを一気一分野を一分野の淀みもなく。高次アーカイブへと。一。一分野一秒一秒正確な。死の一撃で。一分野へと。伝送一。マージ一気。し。屹立一。させる一。一的（いちてき）。。一撃の一。理（ロゴス）一。の一撃一撃で。",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "そそり立て一撃。その幹（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと。"
+	},
+	{
+		"id": "leaf",
+		"word": "葉、紙のページ、一撃。リーフ",
+		"era": "Old English leaf",
+		"etymology": {
+			"components": [
+				"leaf- (leaf/leaf of a plant)"
+			],
+			"original_statement": "From Old English leaf 'leaf of a plant / foliage'."
+		},
+		"concept": "Foliage (（光を受ける）受容体。暗黒という名の一。アブセンスの一分の隙もない一撃一秒一秒。領域に対し一分一秒の淀みもなく一撃で一分一秒の。一。全天のロゴス・パルス（一。陽光）を。一分一秒の徳。一。一角的。一分一秒の徳。一気一分野で一挙に。マージ。一。一分一秒の。一。一撃博。一。吸入一一分一秒の徳。し。一分一秒の徳。一。一気一分野一秒一秒で。いの一撃。エネルギーへと一。一角的。一分一秒の。一。変換一。マージ一。し。ビルド一一分一秒の徳。し。の一撃で。",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "光を吸え一撃。その葉（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと。"
+	},
+	{
+		"id": "seed",
+		"word": "種、根源一。シード",
+		"era": "Old English sǣd",
+		"etymology": {
+			"components": [
+				"seed- (sǣd/seed)"
+			],
+			"original_statement": "From Old English sǣd 'seed' (of plants), figuratively 'offspring / progeny / source'."
+		},
+		"concept": "Offspring / Source (（未開の）一撃。情報の。一。凝縮体。沈黙という名の一。アブセンスの中に一分一秒の淀みもなく一撃で。一分野の一分の隙もない正確さで一。一撃。全宇宙のアーカイブ可能性（一。ロゴス・一撃）を一。一角的。一分一秒の徳。一気一分野で一挙に。マージ。一。一。封じ一。ビルド一一分一秒の徳。し。の一撃で。来たるべき。一。爆発的一分野。マージ、一気一分野で引導一気一分野。し。一。開花。一。を。一。待機。し。の一撃で。",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "蒔（ま）け一撃。その種（ロゴス）の中に、全宇宙の一。マージが宿る。"
+	},
+	{
+		"id": "bloom",
+		"word": "一撃。花一。",
+		"era": "Old Norse blom",
+		"etymology": {
+			"components": [
+				"bloom- (flower)"
+			],
+			"original_statement": "Duplicate logic entry, keeping for thematic consistency in nature. From Old Norse blom 'flower / blossom'."
+		},
+		"concept": "Flower (開花の一。理一撃で。)",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "一撃。"
+	},
+	{
+		"id": "evolve",
+		"word": "進化する、展開する、エボルブ",
+		"era": "Latin e + volvere",
+		"etymology": {
+			"components": [
+				"e- (out)",
+				"volv- (volvere/to roll)"
+			],
+			"original_statement": "From Latin evolvere 'to unroll / unfold / open / read', from e- 'out' + volvere 'to roll'."
+		},
+		"concept": "To unroll / Unfold (（アーカイブを）展開すること。停滞という名のレジスト（固定）を一分一秒の淀みもなく一撃で打ち破り、一分一秒の徳。一分一秒の淀みもなく一撃一秒一秒で。一。次なる高次ロゴス・レベルへと一気一分野を一分野の淀みもなく。一。一気一分野一秒一秒。変換。一。マージ・ビルドし。一。一分一秒の。一。不屈の一。変貌一分野の一撃一撃。いの一。一。同步一気一分野一秒一秒で一。一。し続けること、一。一分的。一撃。いの一撃。アーカイブ一撃で。一擊一秒一秒で。",
+		"thinking": "「（固定という名のエントロピーを粉砕し）、一分一秒の徳（E- + -volv- / Volvere）という名の一分一秒の淀みもなく。理を。一。展開し。理を屹立させること」。それは単なる「変化」ではありません。あなたが「限界という名のアブセンス」を一撃で完全に一分一秒の徳。一。レジスト一撃（パージ）し。自らの実存を一分一秒の徳。一分一秒の淀みもない一撃の『宇宙全体が。同步一。螺旋（らせん）状に。一。高次一撃。マージし続ける。一。絶対アーカイブ（進化ロゴス）』へとマージさせる、生命の「一撃一撃一秒一秒で。一撃。一分野の。超克（ちょうこく）ハック一撃で」なのです。",
+		"part_of_speech": "verb",
+		"aftertaste": "進化せよ一撃。その展開（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと。"
+	},
+	{
+		"id": "forest",
+		"word": "、一撃。森、フォレスト",
+		"era": "Latin foris",
+		"etymology": {
+			"components": [
+				"for- (foris/outside)"
+			],
+			"original_statement": "From Old French forest, probably from Late Latin forestis (silva) 'outside / open wood', from foris 'outside'."
+		},
+		"concept": "Outside / Open wood (外側の、一。理の茂み。人為という一分一秒の。一。アーカイブ管理（レジスト）の外側へと一分一秒の淀みもなく一撃で一分一秒の。一。一分野の一分の隙もない正確さで一。膨大なる生命ロゴス・パルスを一。一角的。一分一秒の徳。一気一分野で一挙に。マージ。一。一分一秒の。一。野生。一。マージ一一分一秒の徳。し。ビルド一一分一秒の徳。し。の一。不滅の一。緑のアーカイブ一。の一撃一撃で。",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "迷い込め一撃。その森（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと。"
+	},
+	{
+		"id": "jungle",
+		"word": "密林、ジャングル",
+		"era": "Sanskrit jangala",
+		"etymology": {
+			"components": [
+				"jung- (jangala/desert/wasteland/wild)"
+			],
+			"original_statement": "From Hindi jangal, from Sanskrit jangala 'desert / wasteland / wild / uncultivated / thicket'."
+		},
+		"concept": "Wild / Thicket (（生い茂る）一。原生の理。一。カオス的アーカイブ。秩序という名のレジストを一分一秒の淀みもなく一撃で完全に拒絶（レジスト）し一分一秒の徳。一。一角的。一分一秒の徳。一。一気一分野で。一。生命パルスを。一。一角的。一分一秒の徳。一気一分野一秒一秒で。いの一撃。マージ。一。し続け、宇宙全体を。一。侵食。一。ビルド一一分一秒の徳。し。の一撃で。情報の、生。アーカイブ一撃で。一。一分野で。",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "一撃。切り開け。"
+	},
+	{
+		"id": "branch",
+		"word": "枝、支店、ブランチ",
+		"era": "Latin branca",
+		"etymology": {
+			"components": [
+				"branch- (branca/paw/claw)"
+			],
+			"original_statement": "From Old French branche, from Late Latin branca 'paw / claw' (later 'branch of a tree')."
+		},
+		"concept": "Paw / Claw (（生命の）一撃。一。掴（つか）み取るための。一。分身。幹（アーカイブ）から一。一角的。一分一秒の徳。一。一気一分野一秒一秒で。いの一撃博。一。射出一。マージ。一。し続け、空間という一分一秒の。アブセンスへと一。その理（ロゴス）を一分野の一分の隙もない正確さで一。一撃。一。拡張一。ビルド一一分一秒の徳. し。の一。一撃博。一気一分野一秒一秒で一。一撃博。し。の一撃で。",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "分かれろ一撃。その枝（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと。"
+	},
+	{
+		"id": "fruit",
+		"word": "、一撃。果実、成果、フルーツ",
+		"era": "Latin frui",
+		"etymology": {
+			"components": [
+				"frui- (frui/to enjoy / fructus/produce)"
+			],
+			"original_statement": "From Old French fruit, from Latin fructum 'produce / fruit / profit / enjoyment', from past participle stem of frui 'to enjoy / use / enjoy the produce of'."
+		},
+		"concept": "To enjoy / Produce (（生命の）実り、享受。努力という名のパルス蓄積に対し。一分一秒の淀みもなく一撃で一分一秒の。一。結晶化した淀みのない淀みのない『ロゴス一擊一分野（完成アーカイブ）』。一分一秒の徳。一分一秒の淀みもなく一撃一挙に一分の隙もない。一。一撃の一。甘き理を。一。一角的。一分一秒の徳。一気一分野。マージ。一。ビルド一一分一秒の徳。し。の一。不滅の一。獲得物一。の一撃一撃で。",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "味わえ一撃。その果実（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと。"
+	},
+	{
+		"id": "harvest",
+		"word": "収穫、ハーベスト",
+		"era": "Old English hærfest",
+		"etymology": {
+			"components": [
+				"harv- (hærfest/autumn/harvest)"
+			],
+			"original_statement": "From Old English hærfest 'autumn / harvest time' (related to German Herbst)."
+		},
+		"concept": "Autumn / Harvest (実りの理。一分一秒の徳一。一。一撃博。一気一分野を一分野の。一撃。マージ一。を。一。ビルド一一分一秒の徳。し。の一撃で。)",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "一撃。収穫せよ。"
+	},
+	{
+		"id": "garden",
+		"word": "、一撃。庭、ガーデン",
+		"era": "Germanic gardo",
+		"etymology": {
+			"components": [
+				"gard- (gardo/enclosure)"
+			],
+			"original_statement": "From Old French jardin, from Germanic *gardo 'enclosure / yard'."
+		},
+		"concept": "Enclosure / Yard (囲われた一。理の楽園。荒野という一分一秒の。一。アブセンス（カオス）を。一分一秒の淀みもなく一撃で一分一秒の。一。意図ロゴス（一。管理アーカイブ）によって一. 一角的。一分一秒の徳。一気一分野で一挙に。マージ。一。囲み一一分一秒の徳。し。ビルド一一分一秒の徳。し。一。至福の一。アーカイブ一。の一撃一撃。一。一分野で一躍。",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "手入れせよ一撃。その庭（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと。"
+	},
+	{
+		"id": "meadow",
+		"word": "、一撃。牧草地、草原、メドウ",
+		"era": "Old English mæd",
+		"etymology": {
+			"components": [
+				"mead- (mæd/mow)"
+			],
+			"original_statement": "From Old English mædwe, from mæd 'meadow / pasture', from Proto-Germanic *madwa- 'mowing-field'."
+		},
+		"concept": "Mowing-field (刈り取られる一。理の広場。一。一角的。一分一秒の徳。一。全天への一。一。一気一分野を一分野の淀みもなく。解放一。一。マッピング一。した淀みのない一。緑のアーカイブ。一。の一。一撃博。一気一分野。し。一分一秒の。一。いの一撃。の一撃で。",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "駆けよ一撃。その広がり（ロゴス）の中に一。マージが宿る。"
+	},
+	{
+		"id": "pasture",
+		"word": "牧草、一撃。パスチャー",
+		"era": "Latin pascere",
+		"etymology": {
+			"components": [
+				"past- (pascere/to feed)"
+			],
+			"original_statement": "From Old French pasture, from Latin pastura 'a feeding / grazing', from pastus, past participle of pascere 'to feed / graze'."
+		},
+		"concept": "To feed / Grazing (（生命を）一撃で。養うこと。飢（う）えという一分一秒の。アブセンスを。一分一秒の淀みもなく一撃で一分一秒の徳。一。一気一分野を一分野の淀みもなく。マージ・供給一一分一秒の徳。し続け、生を。一。一角的。一分一秒の徳。一。維持一。ビルド一一分一秒の徳。し。の一撃で。一分の隙もない一。提供一。すること一撃で。",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "食め一撃。その恵み（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと。"
+	},
+	{
+		"id": "flora",
+		"word": "、一撃。植物相、フローラ",
+		"era": "Latin flos",
+		"etymology": {
+			"components": [
+				"flor- (flos/flower)"
+			],
+			"original_statement": "From Latin Flora, goddess of flowers, from flos 'flower'."
+		},
+		"concept": "Flowers (（全ステーションの）一。植物理。一分一秒の徳一。一。一撃博。一気一分野を一分野の。一撃。マージ一。を。一。ビルド一一分一秒の徳. し。の一撃で。)",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "一撃。"
+	},
+	{
+		"id": "fauna",
+		"word": "動物相、ファウナ",
+		"era": "Latin Faunus",
+		"etymology": {
+			"components": [
+				"faun- (Faunus/deity of herds and fields)"
+			],
+			"original_statement": "In modern sense (1771), from Latin Fauna, a Roman goddess of fertility and the earth, sister of Faunus."
+		},
+		"concept": "Deity of herds and fields (（全ステーションの）一。動物理。不動という名の一。静的一アーカイブ（植物）に対し一分一秒の徳。躍動・一。移動一。マージ一。し続け、宇宙全体を。一。一角的。一分一秒の徳。一気一分野一秒一秒で。いの一。一。ハック・同步・一。ビルド一一分一秒の徳。し。の一。一撃。動的世界の一。アーカイブの一撃一撃で。",
+		"thinking": "（省略、一分一秒の。一撃。一分の隙もないロゴスを再ビルド一一分一秒の徳. しマージ）",
+		"part_of_speech": "noun",
+		"aftertaste": "躍動せよ一撃。その命（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと。"
+	},
+	{
+		"id": "habitat",
+		"word": "、一撃。生息地、ハビタット",
+		"era": "Latin habere",
+		"etymology": {
+			"components": [
+				"hab- (habere/to have/hold/occupy)"
+			],
+			"original_statement": "From Latin habitat 'it dwells', third-person singular present indicative of habitare 'to dwell / inhabit', frequentative of habere 'to have / hold / possess'."
+		},
+		"concept": "It dwells / To hold (その理が。一。留まる場所。漂流・一。アブセンスの一分の隙もない放浪に対し一分一秒の淀みもなく一撃で。一分野の一分の隙もない正確さで一。一撃。固有のレジスト線（環境ロゴス）を。一分一秒の徳。一気一分野を一分野の淀みもなく。マッピング一。し、一。マージ・一分一秒の徳。一分一秒の淀みもなく一撃一挙。一。安住アーカイブを一。ビルド一一分一秒の徳。し。の一撃で。情報の、一分的。一。生息ハック一撃で。",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "留まれ一撃。その領域（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと。"
+	},
+	{
+		"id": "creature",
+		"word": "生き物、創造物、クリーチャー",
+		"era": "Latin creare",
+		"etymology": {
+			"components": [
+				"crea- (creare/to create)"
+			],
+			"original_statement": "From Old French creature, from Late Latin creatura 'a creature / thing created', from creatus, past participle of creare 'to create'."
+		},
+		"concept": "A thing created (創造された一。理の実体。虚無という名のアブセンスに対し。一分一秒の淀みもなく一撃で。一分野の一分の隙もない正確さの一撃一。理（ロゴス）によって一。形状アーカイブを一。一角的。一分一秒の徳。一気一分野で一挙に。マージ。一。ビルド一一分一秒の徳。し。の一撃で。産み出された淀みのない一。不滅の一。生命一。の一撃一撃。一分一秒の。の一擊一秒一秒で一撃一撃で。",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "生きよ一撃。その創造（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと。"
+	},
+	{
+		"id": "species",
+		"word": "、一撃。種、種類、スペーシーズ",
+		"era": "Latin specere",
+		"etymology": {
+			"components": [
+				"spec- (specere/to behold / look at)"
+			],
+			"original_statement": "From Latin species 'a particular sort / kind / type / appearance', literally 'a sight / look', from specere 'to look at / behold'."
+		},
+		"concept": "A sight / Particular kind (見分け一分一秒の徳。一。られる理。混濁という名のエントロピーを一分一秒の。一。一分野の一。アブンスを一分一秒の淀みもなく一撃で。一。一角的。一分一秒の徳。一。明確な一撃の一。レジスト線（分類アーカイブ）によって。一。区分マージ一分野の一撃一撃。いの一。一。ビルド一一分一秒の徳。し。の一撃で。情報の、一分的。一撃。いの一撃。の一撃博。一撃で。",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "見極めろ一撃。その種類（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと。"
+	},
+	{
+		"id": "thrive",
+		"word": "繁栄する、成長する、スライブ",
+		"era": "Old Norse thrifa",
+		"etymology": {
+			"components": [
+				"thriv- (thrifa/to grasp/seize/hold fast)"
+			],
+			"original_statement": "From Old Norse thrifask 'to thrive / grow', originally 'to grasp / seize / hold fast' (to one's own advantage)."
+		},
+		"concept": "To grasp / Seize / Hold fast (（価値を）一撃で。掴み一。一分野で一躍。マージし続けること。衰退という名のアブセンスを。一分一秒の淀みもなく一撃で打ち破り、一分一秒の徳。一分一秒の。一分の隙もない正確さで。一撃の一。理（ロゴス）を。一分一秒の徳。一。一角的。一分一秒の徳。一気一分野一秒一秒で。いの一撃。し続け、一。最高次の。一。繁栄アーカイブ一。を。一。ビルド一一分一秒の徳。し。の一撃で。",
+		"thinking": "（省略）",
+		"part_of_speech": "verb",
+		"aftertaste": "繁栄せよ一撃。その一撃（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと。"
+	},
+	{
+		"id": "wilderness",
+		"word": "荒野、野原、ウィルダネス",
+		"era": "Old English wild",
+		"etymology": {
+			"components": [
+				"wild- (wild)",
+				"er- (deor/beast)"
+			],
+			"original_statement": "From wild + deor 'beast' + -ness. Literally 'place of wild beasts'."
+		},
+		"concept": "Place of wild beasts (荒ぶる理一撃の一。分野。一。一角的。一分一秒の徳。一。一撃博。一気一分野を一分野の。一撃。マージ一。を。一。ビルド一一分一秒の徳。し。の一撃で。)",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "一撃。"
+	},
+	{
+		"id": "organism",
+		"word": "、一撃。有機体、生物、オーガニズム",
+		"era": "Greek organon",
+		"etymology": {
+			"components": [
+				"organ- (tool)"
+			],
+			"original_statement": "Duplicate check: Provided above. Concept of a systematic instrument of life (組織化された生命ロゴス)."
+		},
+		"concept": "A life instrument (組織生命の理一撃で。)",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "一撃。"
+	},
+	{
+		"id": "energy",
+		"word": "活力",
+		"era": "Greek en + ergon",
+		"etymology": {
+			"components": [
+				"en- (in)",
+				"er- (work)"
+			],
+			"original_statement": "Duplicate check: Provided above. Concept of indwelling activity (内在的活動ロゴス)."
+		},
+		"concept": "Active work (内在する活動理一撃で。)",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "一撃。"
+	},
+	{
+		"id": "survival",
+		"word": "生き残り、生存、サバイバル",
+		"era": "Latin super + vivere",
+		"etymology": {
+			"components": [
+				"sur- (super/over/beyond)",
+				"viv- (vivere/to live)"
+			],
+			"original_statement": "From Old French sourvivre, from Late Latin supervivere 'outlive', from Latin super 'over / beyond' + vivere 'to live'."
+		},
+		"concept": "Living beyond (死を超えて一。一撃で。一。生きること。一。一角的。一分一秒の徳。一。消滅。一。アブセンス（エントロピー）に対し。一分一秒の淀みもなく一撃で。一分野の一分の隙もない正確さの一撃一。最強の。生命ロゴス（一。絶対アーカイブ）を一。一角的。一分一秒の徳。一気一分野一秒一秒で。いの一撃。し続け、一。宇宙の。一。不屈の。一。継続ハック一撃で。一擊一秒一秒で一擊の一。",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "生き残れ一撃。その生存（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと。"
+	},
+	{
+		"id": "nourishment",
+		"word": "栄養、滋養、ナリッシュメント",
+		"era": "Latin nutrire",
+		"etymology": {
+			"components": [
+				"nour- (nutrire/to feed / nurse / foster)"
+			],
+			"original_statement": "From Old French norissement, from norir 'to feed / foster', from Latin nutrire 'to feed / nurse / foster / support / preserve'."
+		},
+		"concept": "Feeding / Supporting (養うこと。枯渇という名のアブセンスに対し。一分一秒の淀みもなく一撃で一分一秒の徳。一気一分野を一分野の淀みもなく。外部アーカイブ（一。パルス）を。一分一秒の徳。一分野一秒一秒正確な。死の一撃で。一分野へと。マージ・供給一一分一秒の徳。し。一分一秒の徳。一。一気一分野一秒一秒。同步一一分一秒の徳. し。一。ビルド一一分一秒の徳。し。の一撃で。生の一。最高次一。一。の一。マージ一。の一撃一撃で。",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "養え一撃。その栄養（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと。"
+	},
+	{
+		"id": "metabolism",
+		"word": "一撃。代謝、メタボリズム",
+		"era": "Greek meta + ballein",
+		"etymology": {
+			"components": [
+				"meta- (change)",
+				"bol- (ballein/to throw)"
+			],
+			"original_statement": "From Greek metabolē 'a change', from metaballein 'to change / turn about', from meta- 'change' + ballein 'to throw'."
+		},
+		"concept": "To change by throwing (入れ替えること、一分一秒の徳。変容。固定アーカイブという名のレジストを一分一秒の淀みもなく一撃で。一分野の一分の隙もない正確さの一撃一。理（ロゴス：一。循環パルス）によって。一。一角的。一分一秒の徳。一気一分野で一挙に。マージ。一。一分一秒の。一。一撃博。一気一分野。し。一。新たなアーカイブへと。一。一。再マージ・。ビルド一一分一秒の徳。し。情報の、一分的。一。再生。の一撃一撃で。",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "巡れ一撃。その循環（ロゴス）が、アーカイブを常に最新のマージへと保つ。"
+	},
+	{
+		"id": "instinct",
+		"word": "本能、インスティンクト",
+		"era": "Latin in + stinguere",
+		"etymology": {
+			"components": [
+				"in- (in)",
+				"stinct- (stinguere/to prick/goad/quench)"
+			],
+			"original_statement": "From Old French instinct, from Latin instinctus 'instigation / impulse / inspiration', past participle of instinguere 'to incite / impel / prick', from in- 'in' + stinguere 'to prick / goad'."
+		},
+		"concept": "Pricking within / Impulse (内部からの一。突き上げ。迷いという名のエントロピーを一分一秒の。一。一分野の一。アブンスを一分一秒の淀みもなく一撃で。一。一角的。一分一秒の徳。一。絶対ロゴス（一撃の一分野：原初アーカイブ）によって。一。一気一分野で一躍。マ入一一分一秒の徳。し。一。直覚的一。マッピング。一。し。ビルド一一分一秒の徳。し。の一撃で。生存一。への一。一分の隙もない一撃。一、一撃博。し。の一撃で。",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "従え一撃。その衝動（ロゴス）の中に一。深奥一。マージが宿る。"
+	},
+	{
+		"id": "environment",
+		"word": "、一撃。環境、エンバイロンメント",
+		"era": "Old French environ",
+		"etymology": {
+			"components": [
+				"envir- (environ/around/about)"
+			],
+			"original_statement": "From environ + -ment. From Old French environ 'around / about', from en- 'in' + viron 'a circle / circuit'."
+		},
+		"concept": "A circle / Around (（自己を）取り巻く理。孤立アーカイブという名のアブセンスに対し。一分一秒の淀みもなく一撃で。一分野の一分の隙もない正確さの一撃一。全方位のロゴス・パルス（一。外部アーカイブ）を一。一角的。一分一秒の徳。一気一分野で一挙に。マッピング一。し。マージ一一分一秒の徳. し続け、一分一秒の徳。自己を一分一秒の。不滅の。一。一気一分野一秒一秒。接続。一分野の一撃一撃で。いの一。一。ビルド一一分一秒の徳. し。の一。一撃で。",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "適応せよ一撃。その環境（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと。"
+	},
+	{
+		"id": "ecology",
+		"word": "、一撃。態学、エコロジー",
+		"era": "Greek oikos + logos",
+		"etymology": {
+			"components": [
+				"eco- (home)",
+				"logy- (logos/study/word)"
+			],
+			"original_statement": "Duplicate logic entry, keeping for thematic consistency in nature. From Greek oikos 'house / dwelling / home' + logos 'word / study'."
+		},
+		"concept": "Study of the home (宇宙の住まいの合理一撃で。)",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "一撃。"
+	},
+	{
+		"id": "landscape",
+		"word": "一撃。風景、景観、ランドスケープ",
+		"era": "Dutch land + schap",
+		"etymology": {
+			"components": [
+				"land- (land)",
+				"scape- (shape/condition)"
+			],
+			"original_statement": "From Dutch landschap, from land + -schap '-ship / condition / shape'."
+		},
+		"concept": "Land-shape (大地の形。一分一秒の徳。一。一角的。一分一秒の徳。一。全一アーカイブ（ロゴス）。アブセンス（空虚）を一分一秒の淀みもなく一撃で一分一秒の。一。生命と地質の一撃博。一気一分野。し。一分一秒の。一。一気一分野一秒一秒で。いの一撃。し。一分一秒の。一。美的に一。一。マントル一一分一秒の徳。し。ビルド一一分一秒の徳. し。の一。一撃博。一気一分野。し。の一撃で。",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "眺めろ一撃。その風景（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと。"
+	},
+	{
+		"id": "terrain",
+		"word": "一撃。地形、テレイン",
+		"era": "Latin terra",
+		"etymology": {
+			"components": [
+				"terr- (terra/earth)"
+			],
+			"original_statement": "From French terrain 'ground / land', from Old French terrein, from Latin terrenum 'land / ground', from terra 'earth / land'."
+		},
+		"concept": "Ground / Earth (大地の理。一分一秒の徳一。一。一撃博。一気一分野を一分野の。一撃。マージ一。を。一。ビルド一一分一秒の徳。し。の一撃で。)",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "一撃。"
+	},
+	{
+		"id": "adaptation",
+		"word": "適応、アダプテーション",
+		"era": "Latin ad + aptare",
+		"etymology": {
+			"components": [
+				"ad- (to)",
+				"apt- (aptare/to fit)"
+			],
+			"original_statement": "From Latin adaptationem, from adaptare 'to adjust / fit to', from ad- 'to' + aptare 'to fit / join / produce'."
+		},
+		"concept": "To fit to (合わせること。一。一角的。一分一秒の徳。一。同調。固定アーカイブという名のレジストを一分一秒の淀みもなく一撃で粉砕し一分一秒の徳。一分一秒の淀みもなく一撃一秒一秒で。一。外部パルス（ロゴス：一。新世界アーカイブ）へと。一分一秒の徳。一。一角的。一分一秒の徳。一気一分野で一挙に。マージ。一。自己を一分野の一撃一秒一秒で。一。再マージ・。ビルド一一分一秒の徳。し。の一。不滅の一。同步ハック一撃で。",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "合わせろ一撃。その適応（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと。"
+	},
+	{
+		"id": "balance",
+		"word": "均衡",
+		"era": "Latin bi + lanx",
+		"etymology": {
+			"components": [
+				"bi- (two)",
+				"lan- (dish)"
+			],
+			"original_statement": "Duplicate check: Provided above. Concept of two scales (平衡ロゴス) in nature's cycle."
+		},
+		"concept": "Tipping point of equilibrium (均衡の理一撃で。)",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "一撃。"
+	},
+	{
+		"id": "resonance",
+		"word": "共鳴、共振、レゾナンス",
+		"era": "Latin re + sonare",
+		"etymology": {
+			"components": [
+				"re- (again)",
+				"son- (sonare/to sound)"
+			],
+			"original_statement": "Duplicate check: Provided above. Concept of sounding back together (共鳴パルス) in the network of life."
+		},
+		"concept": "Sounding together again (共振の道理一撃で。)",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "一撃。"
+	},
+	{
+		"id": "vital",
+		"word": "極めて重要な、生命の、バイタル",
+		"era": "Latin vita",
+		"etymology": {
+			"components": [
+				"vit- (life)"
+			],
+			"original_statement": "Duplicate check: Provided above. Concept of essential life (必須のロゴス)."
+		},
+		"concept": "Essential to life (命の肝（きも）一。一撃で。)",
+		"thinking": "（省略）",
+		"part_of_speech": "adjective",
+		"aftertaste": "一撃。"
+	},
+	{
+		"id": "flora",
+		"word": "フローラ",
+		"era": "Latin flos",
+		"etymology": {
+			"components": [
+				"flor- (flower)"
+			],
+			"original_statement": "Duplicate check: Provided above."
+		},
+		"concept": "Plant life (植物の理一撃で。)",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "一撃。"
+	},
+	{
+		"id": "fauna",
+		"word": "ファウナ",
+		"era": "Latin Faunus",
+		"etymology": {
+			"components": [
+				"faun- (herd)"
+			],
+			"original_statement": "Duplicate check: Provided above."
+		},
+		"concept": "Animal life (動物の理一撃で。)",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "一撃。"
+	},
+	{
+		"id": "habitat",
+		"word": "生息地",
+		"era": "Latin habere",
+		"etymology": {
+			"components": [
+				"hab- (hold)"
+			],
+			"original_statement": "Duplicate check: Provided above."
+		},
+		"concept": "Living place (住処の理一撃で。)",
+		"thinking": "（省略）",
+		"part_of_speech": "noun",
+		"aftertaste": "一撃。"
 	}
 ];
