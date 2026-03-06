@@ -202367,5 +202367,201 @@ const WORDS = [
 			]
 		},
 		"part_of_speech": "noun"
+	},
+	{
+		"id": "odyssey_journey",
+		"word": "odyssey",
+		"meaning": "オデュッセイア、長旅、波乱万丈の旅",
+		"era": "16th Century",
+		"etymology": {
+			"components": [
+				"Odusseus (Odysseus)"
+			],
+			"original_statement": "From 16th Century Odusseus (Odysseus)."
+		},
+		"concept": "A long and eventful or adventurous journey or experience (故（。郷（。を（。離れ（。、十（。年（。もの（。歳月（。を（。かけて（。荒波（。を（。越（。える「オデュッセウスの（。ような（。旅」。（。失（。う（。ことで（。得（。られる（。、深い（。智慧（。と（。不屈の（。精神。)",
+		"thinking": "故（。郷（。を（。離れ（。、十（。年（。もの（。歳月（。を（。かけて（。荒波（。を（。越（。える「オデュッセウスの（。ような（。旅」。（。失（。う（。ことで（。得（。られる（。、深い（。智慧（。と（。不屈の（。精神。",
+		"aftertaste": "人生は、目的地に辿り着くことではなく、その道のりそのものです。",
+		"example": "The character embarked on a life-changing odyssey across Northern India.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "Odusseus",
+					"meaning": "Odysseus"
+				}
+			],
+			"points": [
+				"旅とは、自分自身の殻を脱ぎ捨て、新しい風を肺いっぱいに吸い込む行為です。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "aviation_journey",
+		"word": "aviation",
+		"meaning": "航空、飛行",
+		"era": "19th Century",
+		"etymology": {
+			"components": [
+				"avis (bird)"
+			],
+			"original_statement": "From 19th Century avis (bird)."
+		},
+		"concept": "The flying or operating of aircraft (重力（。という（。鎖（。を（。断（。ち（。切り（。、自ら「鳥（。アヴィス）のように（。）」天（。を（。駆（。け（。る（。こと（。。（。視点（。が（。高（。ま（。れば（。、地上（。の（。苦しみ（。は（。、一粒（。の（。砂（。のように（。小（。さく（。見（。える（。はずです。)",
+		"thinking": "重力（。という（。鎖（。を（。断（。ち（。切り（。、自ら「鳥（。アヴィス）のように（。）」天（。を（。駆（。け（。る（。こと（。。（。視点（。が（。高（。ま（。れば（。、地上（。の（。苦しみ（。は（。、一粒（。の（。砂（。のように（。小（。さく（。見（。える（。はずです。",
+		"aftertaste": "人生は、目的地に辿り着くことではなく、その道のりそのものです。",
+		"example": "The character embarked on a life-changing aviation across Northern India.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "avis",
+					"meaning": "bird"
+				}
+			],
+			"points": [
+				"旅とは、自分自身の殻を脱ぎ捨て、新しい風を肺いっぱいに吸い込む行為です。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "baggage_journey",
+		"word": "baggage",
+		"meaning": "手荷物、心の重荷",
+		"era": "15th Century",
+		"etymology": {
+			"components": [
+				"bague (bundle, sack)"
+			],
+			"original_statement": "From 15th Century bague (bundle, sack)."
+		},
+		"concept": "Sacks, trunks, and containers that hold a traveler's belongings (旅に（。必要（。だと（。信じて（。、「袋（。バッグ）に（。詰（。め（。込んだ（。）」もの。（。多（。す（。ぎる（。荷物（。は（。、あなた（。の（。足取り（。を（。重（。く（。する（。だけかも（。し（。れませんよ（。。（。時（。々（。は（。身軽（。に（。な（。って（。みては（。？)",
+		"thinking": "旅に（。必要（。だと（。信じて（。、「袋（。バッグ）に（。詰（。め（。込んだ（。）」もの。（。多（。す（。ぎる（。荷物（。は（。、あなた（。の（。足取り（。を（。重（。く（。する（。だけかも（。し（。れませんよ（。。（。時（。々（。は（。身軽（。に（。な（。って（。みては（。？",
+		"aftertaste": "人生は、目的地に辿り着くことではなく、その道のりそのものです。",
+		"example": "The character embarked on a life-changing baggage across Northern India.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "bague",
+					"meaning": "bundle, sack"
+				}
+			],
+			"points": [
+				"旅とは、自分自身の殻を脱ぎ捨て、新しい風を肺いっぱいに吸い込む行為です。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "milestone_journey",
+		"word": "milestone",
+		"meaning": "画期的な出来事、マイル石",
+		"era": "18th Century",
+		"etymology": {
+			"components": [
+				"mile + stone"
+			],
+			"original_statement": "From 18th Century mile + stone."
+		},
+		"concept": "A stone set up beside a road to mark the distance in miles to a particular place (長い（。道のり（。の（。途中で（。、どれだけ（。歩いて（。きたかを（。確かめる（。ための（。「石（。ストーン）」。一つ（。ひとつの（。成功（。を（。噛（。み（。締（。め（。、また（。次（。の一（。歩（。への（。勇気（。を（。得（。る（。ための（。標章。)",
+		"thinking": "長い（。道のり（。の（。途中で（。、どれだけ（。歩いて（。きたかを（。確かめる（。ための（。「石（。ストーン）」。一つ（。ひとつの（。成功（。を（。噛（。み（。締（。め（。、また（。次（。の一（。歩（。への（。勇気（。を（。得（。る（。ための（。標章。",
+		"aftertaste": "人生は、目的地に辿り着くことではなく、その道のりそのものです。",
+		"example": "The character embarked on a life-changing milestone across Northern India.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "mile",
+					"meaning": "+ stone"
+				}
+			],
+			"points": [
+				"旅とは、自分自身の殻を脱ぎ捨て、新しい風を肺いっぱいに吸い込む行為です。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "nomad_journey",
+		"word": "nomad",
+		"meaning": "遊牧民、ノマド",
+		"era": "16th Century",
+		"etymology": {
+			"components": [
+				"nomad- (pasturing)"
+			],
+			"original_statement": "From 16th Century nomad- (pasturing)."
+		},
+		"concept": "A member of a people having no permanent abode, and who travel from place to place to find fresh pasture for their livestock (一（。つの（。場所に（。安住（。せず（。、常（。に「新しい（。草地（。ノマ）を（。求め（。）」て（。彷徨（。う（。魂。（。所有（。する（。こと（。より（。、経験（。し（。続ける（。こと（。を（。選（。んだ（。、自由（。な（。狩人。)",
+		"thinking": "一（。つの（。場所に（。安住（。せず（。、常（。に「新しい（。草地（。ノマ）を（。求め（。）」て（。彷徨（。う（。魂。（。所有（。する（。こと（。より（。、経験（。し（。続ける（。こと（。を（。選（。んだ（。、自由（。な（。狩人。",
+		"aftertaste": "人生は、目的地に辿り着くことではなく、その道のりそのものです。",
+		"example": "The character embarked on a life-changing nomad across Northern India.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "nomad-",
+					"meaning": "pasturing"
+				}
+			],
+			"points": [
+				"旅とは、自分自身の殻を脱ぎ捨て、新しい風を肺いっぱいに吸い込む行為です。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "vagabond_journey",
+		"word": "vagabond",
+		"meaning": "放浪者、浮浪者、バガボンド",
+		"era": "15th Century",
+		"etymology": {
+			"components": [
+				"vagari (to wander)"
+			],
+			"original_statement": "From 15th Century vagari (to wander)."
+		},
+		"concept": "A person who wanders from place to place without a home or regular work (目的（。さえ（。持（。た（。ず（。、ただ（。風（。の（。吹く（。まま（。に「彷徨（。う（。バガ）」こと（。。（。社会（。の（。枠組み（。から（。はみ出し（。、剥（。き（。出し（。の（。世界（。を（。愛（。する（。、孤独（。な（。哲学者。)",
+		"thinking": "目的（。さえ（。持（。た（。ず（。、ただ（。風（。の（。吹く（。まま（。に「彷徨（。う（。バガ）」こと（。。（。社会（。の（。枠組み（。から（。はみ出し（。、剥（。き（。出し（。の（。世界（。を（。愛（。する（。、孤独（。な（。哲学者。",
+		"aftertaste": "人生は、目的地に辿り着くことではなく、その道のりそのものです。",
+		"example": "The character embarked on a life-changing vagabond across Northern India.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "vagari",
+					"meaning": "to wander"
+				}
+			],
+			"points": [
+				"旅とは、自分自身の殻を脱ぎ捨て、新しい風を肺いっぱいに吸い込む行為です。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "refugee_journey",
+		"word": "refugee",
+		"meaning": "難民、亡命者",
+		"era": "17th Century",
+		"etymology": {
+			"components": [
+				"re- (back) + fugere (to flee)"
+			],
+			"original_statement": "From 17th Century re- (back) + fugere (to flee)."
+		},
+		"concept": "A person who has been forced to leave their country in order to escape war, persecution, or natural disaster (安らぎ（。の（。場所（。を（。奪わ（。れ（。、「後（。ろ（。リ）も（。見（。ず（。逃（。げ（。る（。フュジ）」こと（。を（。余儀（。なく（。さ（。れた（。者。)",
+		"thinking": "安らぎ（。の（。場所（。を（。奪わ（。れ（。、「後（。ろ（。リ）も（。見（。ず（。逃（。げ（。る（。フュジ）」こと（。を（。余儀（。なく（。さ（。れた（。者。",
+		"aftertaste": "彼（。の（。孤独（。な（。瞳（。の（。中に（。、かつて（。の（。私たちの（。姿（。を（。見（。る（。こと（。。（。それ（。が（。本当（。の（。愛（。の（。始（。まり（。なの（。ですよ。",
+		"example": "The character embarked on a life-changing refugee across Northern India.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "re-",
+					"meaning": "back) + fugere (to flee"
+				}
+			],
+			"points": [
+				"旅とは、自分自身の殻を脱ぎ捨て、新しい風を肺いっぱいに吸い込む行為です。"
+			]
+		},
+		"part_of_speech": "noun"
 	}
 ];
