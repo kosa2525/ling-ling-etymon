@@ -201331,5 +201331,173 @@ const WORDS = [
 			]
 		},
 		"part_of_speech": "noun"
+	},
+	{
+		"id": "mystic_mystery",
+		"word": "mystic",
+		"meaning": "神秘的な、神秘主義者",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"mustikos (secret, mystic)"
+			],
+			"original_statement": "From 14th Century mustikos (secret, mystic)."
+		},
+		"concept": "A person who seeks by contemplation and self-surrender to obtain unity with or absorption into the Deity or the absolute, or who believes in the spiritual apprehension of truths that are beyond the intellect (目（。に見える（。物理的な（。世界を超え（。、「沈黙（。ミュース）のうちに（。閉じ込められた（。）」神聖な（。真理を（。、魂の（。深い震えで（。捉えようと（。する者。)",
+		"thinking": "目（。に見える（。物理的な（。世界を超え（。、「沈黙（。ミュース）のうちに（。閉じ込められた（。）」神聖な（。真理を（。、魂の（。深い震えで（。捉えようと（。する者。",
+		"aftertaste": "謎は、明日を夢見るための最も美しいエッセンスです。",
+		"example": "The old manuscript was written in a mystic language that took years to decode.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "mustikos",
+					"meaning": "secret, mystic"
+				}
+			],
+			"points": [
+				"神秘とは、知性が沈黙したときに初めて聞こえてくる、宇宙の囁きです。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "enigmatic_mystery",
+		"word": "enigmatic",
+		"meaning": "謎めいた、不可解な",
+		"era": "17th Century",
+		"etymology": {
+			"components": [
+				"ainigma (riddle)"
+			],
+			"original_statement": "From 17th Century ainigma (riddle)."
+		},
+		"concept": "Difficult to interpret or understand; mysterious (一筋（。縄（。では（。行（。かない（。、「怪物（。スフィンクス（。が（。出す（。ような（。難問（。エニグマ）」に（。満ち（。て（。おり（。、思考（。の（。限界を（。軽（。やかに（。嘲笑（。する（。ような（。、深（。い（。奥行き。)",
+		"thinking": "一筋（。縄（。では（。行（。かない（。、「怪物（。スフィンクス（。が（。出す（。ような（。難問（。エニグマ）」に（。満ち（。て（。おり（。、思考（。の（。限界を（。軽（。やかに（。嘲笑（。する（。ような（。、深（。い（。奥行き。",
+		"aftertaste": "謎は、明日を夢見るための最も美しいエッセンスです。",
+		"example": "The old manuscript was written in a enigmatic language that took years to decode.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ainigma",
+					"meaning": "riddle"
+				}
+			],
+			"points": [
+				"神秘とは、知性が沈黙したときに初めて聞こえてくる、宇宙の囁きです。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "fissure_mystery",
+		"word": "fissure",
+		"meaning": "裂け目、割れ目",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"findere (to split)"
+			],
+			"original_statement": "From 14th Century findere (to split)."
+		},
+		"concept": "A long, narrow opening or line of breakage made by cracking or splitting, especially in rock or earth (強固（。な（。岩（。といえ（。ども（。、内部（。からの（。圧力（。によって（。「引き裂（。き（。フィス）割られた（。）」、その（。境界（。の（。痕跡。)",
+		"thinking": "強固（。な（。岩（。といえ（。ども（。、内部（。からの（。圧力（。によって（。「引き裂（。き（。フィス）割られた（。）」、その（。境界（。の（。痕跡。",
+		"aftertaste": "謎は、明日を夢見るための最も美しいエッセンスです。",
+		"example": "The old manuscript was written in a fissure language that took years to decode.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "findere",
+					"meaning": "to split"
+				}
+			],
+			"points": [
+				"神秘とは、知性が沈黙したときに初めて聞こえてくる、宇宙の囁きです。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "amulet_mystery",
+		"word": "amulet",
+		"meaning": "守護札、アミュレット",
+		"era": "16th Century",
+		"etymology": {
+			"components": [
+				"amuletum (an object that protects a person from trouble)"
+			],
+			"original_statement": "From 16th Century amuletum (an object that protects a person from trouble)."
+		},
+		"concept": "An ornament or small piece of jewelry thought to give protection against evil, danger, or disease (災い（。から（。持ち主（。を（。「遠ざけ（。アミュレート）守（。る（。）」ための（。、静かなる（。祈り（。の（。結晶（。。（。肌身（。離（。さず（。持つ（。ことで（。、心に（。聖域（。を作る（。もの。)",
+		"thinking": "災い（。から（。持ち主（。を（。「遠ざけ（。アミュレート）守（。る（。）」ための（。、静かなる（。祈り（。の（。結晶（。。（。肌身（。離（。さず（。持つ（。ことで（。、心に（。聖域（。を作る（。もの。",
+		"aftertaste": "謎は、明日を夢見るための最も美しいエッセンスです。",
+		"example": "The old manuscript was written in a amulet language that took years to decode.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "amuletum",
+					"meaning": "an object that protects a person from trouble"
+				}
+			],
+			"points": [
+				"神秘とは、知性が沈黙したときに初めて聞こえてくる、宇宙の囁きです。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "incantation_mystery",
+		"word": "incantation",
+		"meaning": "呪文、インカンテーション",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"in- (into) + cantare (to sing)"
+			],
+			"original_statement": "From 14th Century in- (into) + cantare (to sing)."
+		},
+		"concept": "A series of words said as a magic spell or charm (普通の（。言葉（。に（。魔力（。を「吹き込（。イン）み、歌（。う（。カント）ように（。唱える（。）」こと（。。（。音（。の（。振動（。によって（。、世界（。の（。法則（。を（。一時的に（。ねじ曲げ（。よう（。とする（。試み。)",
+		"thinking": "普通の（。言葉（。に（。魔力（。を「吹き込（。イン）み、歌（。う（。カント）ように（。唱える（。）」こと（。。（。音（。の（。振動（。によって（。、世界（。の（。法則（。を（。一時的に（。ねじ曲げ（。よう（。とする（。試み。",
+		"aftertaste": "謎は、明日を夢見るための最も美しいエッセンスです。",
+		"example": "The old manuscript was written in a incantation language that took years to decode.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "in-",
+					"meaning": "into) + cantare (to sing"
+				}
+			],
+			"points": [
+				"神秘とは、知性が沈黙したときに初めて聞こえてくる、宇宙の囁きです。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "hermit_mystery",
+		"word": "hermit",
+		"meaning": "隠者、世捨て人",
+		"era": "12th Century",
+		"etymology": {
+			"components": [
+				"eremos (desolate, lonely)"
+			],
+			"original_statement": "From 12th Century eremos (desolate, lonely)."
+		},
+		"concept": "A person living in solitude as a religious discipline (社会の（。喧騒（。を（。離（。れ（。、一人「荒野（。エレモス）に（。留まる（。）」こと（。を（。選（。んだ者（。。（。孤独（。という（。厳しい（。修行（。を（。通（。じて（。、内なる（。宇宙（。と（。対話（。し（。続ける（。存在。)",
+		"thinking": "社会の（。喧騒（。を（。離（。れ（。、一人「荒野（。エレモス）に（。留まる（。）」こと（。を（。選（。んだ者（。。（。孤独（。という（。厳しい（。修行（。を（。通（。じて（。、内なる（。宇宙（。と（。対話（。し（。続ける（。存在。",
+		"aftertaste": "謎は、明日を夢見るための最も美しいエッセンスです。",
+		"example": "The old manuscript was written in a hermit language that took years to decode.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "eremos",
+					"meaning": "desolate, lonely"
+				}
+			],
+			"points": [
+				"神秘とは、知性が沈黙したときに初めて聞こえてくる、宇宙の囁きです。"
+			]
+		},
+		"part_of_speech": "noun"
 	}
 ];
