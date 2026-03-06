@@ -206259,5 +206259,117 @@ const WORDS = [
 			]
 		},
 		"part_of_speech": "noun"
+	},
+	{
+		"id": "mythos_mask",
+		"word": "mythos",
+		"meaning": "神話、物語の体系、ミュトス",
+		"era": "18th Century",
+		"etymology": {
+			"components": [
+				"muthos (word, story)"
+			],
+			"original_statement": "From 18th Century muthos (word, story)."
+		},
+		"concept": "A traditional or recurrent narrative theme or plot structure (単なる（。フィクションではなく（。、民族（。の（。魂が（。紡（。ぎ（。出した「原初（。の（。言葉（。ミュトス）」。（。そこ（。には（。、宇宙の真理（。が（。、象徴（。という（。名の（。衣（。を（。纏（。い（。、静（。か（。に（。息（。づ（。いて（。いる（。のですよ。)",
+		"thinking": "単なる（。フィクションではなく（。、民族（。の（。魂が（。紡（。ぎ（。出した「原初（。の（。言葉（。ミュトス）」。（。そこ（。には（。、宇宙の真理（。が（。、象徴（。という（。名の（。衣（。を（。纏（。い（。、静（。か（。に（。息（。づ（。いて（。いる（。のですよ。",
+		"aftertaste": "仮面は、自らを守るための盾であり、同時に、別の自分を生きるための翼でもあります。",
+		"example": "The story uses the mythos of a hero's journey to explore the deeper aspects of human psychology.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "muthos",
+					"meaning": "word, story"
+				}
+			],
+			"points": [
+				"神話は、古い伝説ではなく、今もあなたの中で脈動している、原初のエナジーなのです。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "folklore_mask",
+		"word": "folklore",
+		"meaning": "民間伝承、フォークロア",
+		"era": "19th Century",
+		"etymology": {
+			"components": [
+				"folk + lore (learning)"
+			],
+			"original_statement": "From 19th Century folk + lore (learning)."
+		},
+		"concept": "The traditional beliefs, customs, and stories of a community, passed through the generations by word of mouth (名（。も（。な（。い（。人々が「学（。び（。ロア）伝えて（。きた（。）」、大地の（。智（。恵。（。風（。や（。土（。の（。匂（。いに（。、密（。かに（。宿る（。、その（。場所（。に（。生き（。た者（。たちの（。、無（。数（。の（。囁（。き。)",
+		"thinking": "名（。も（。な（。い（。人々が「学（。び（。ロア）伝えて（。きた（。）」、大地の（。智（。恵。（。風（。や（。土（。の（。匂（。いに（。、密（。かに（。宿る（。、その（。場所（。に（。生き（。た者（。たちの（。、無（。数（。の（。囁（。き。",
+		"aftertaste": "仮面は、自らを守るための盾であり、同時に、別の自分を生きるための翼でもあります。",
+		"example": "The story uses the folklore of a hero's journey to explore the deeper aspects of human psychology.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "folk",
+					"meaning": "+ lore (learning"
+				}
+			],
+			"points": [
+				"神話は、古い伝説ではなく、今もあなたの中で脈動している、原初のエナジーなのです。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "totem_mask",
+		"word": "totem",
+		"meaning": "トーテム、守護神",
+		"era": "18th Century",
+		"etymology": {
+			"components": [
+				"ototeman (his kinship group)"
+			],
+			"original_statement": "From 18th Century ototeman (his kinship group)."
+		},
+		"concept": "A natural object or animal believed by a particular society to have spiritual significance and adopted by it as an emblem (その（。族が「共に（。生きる（。テマン）絆（。）」の（。象徴（。。（。動（。物（。という（。名の（。兄弟が（。、あなた（。を（。、孤独（。な（。る（。荒野（。から（。、静（。か（。に（。守（。って（。くれて（。いる（。のですよ。)",
+		"thinking": "その（。族が「共に（。生きる（。テマン）絆（。）」の（。象徴（。。（。動（。物（。という（。名の（。兄弟が（。、あなた（。を（。、孤独（。な（。る（。荒野（。から（。、静（。か（。に（。守（。って（。くれて（。いる（。のですよ。",
+		"aftertaste": "仮面は、自らを守るための盾であり、同時に、別の自分を生きるための翼でもあります。",
+		"example": "The story uses the totem of a hero's journey to explore the deeper aspects of human psychology.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ototeman",
+					"meaning": "his kinship group"
+				}
+			],
+			"points": [
+				"神話は、古い伝説ではなく、今もあなたの中で脈動している、原初のエナジーなのです。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "scepter_mask",
+		"word": "scepter",
+		"meaning": "王笏（おうしゃく）、権威",
+		"era": "13th Century",
+		"etymology": {
+			"components": [
+				"skeptron (staff, literally: 'stick for leaning on')"
+			],
+			"original_statement": "From 13th Century skeptron (staff, literally: 'stick for leaning on')."
+		},
+		"concept": "An ornamented staff carried by rulers on ceremonial occasions as a symbol of sovereignty (一人（。では（。到底（。支（。え（。き（。れ（。ない（。巨大な（。責任（。を（。、支（。えるための「杖（。スケプ）」。（。そこ（。には（。、人（。々（。の（。願（。い（。と（。、統（。治（。という（。名の（。、重（。厚（。な（。る（。沈黙が（。宿（。って（。いる（。のですよ。)",
+		"thinking": "一人（。では（。到底（。支（。え（。き（。れ（。ない（。巨大な（。責任（。を（。、支（。えるための「杖（。スケプ）」。（。そこ（。には（。、人（。々（。の（。願（。い（。と（。、統（。治（。という（。名の（。、重（。厚（。な（。る（。沈黙が（。宿（。って（。いる（。のですよ。",
+		"aftertaste": "仮面は、自らを守るための盾であり、同時に、別の自分を生きるための翼でもあります。",
+		"example": "The story uses the scepter of a hero's journey to explore the deeper aspects of human psychology.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "skeptron",
+					"meaning": "staff, literally: 'stick for leaning on'"
+				}
+			],
+			"points": [
+				"神話は、古い伝説ではなく、今もあなたの中で脈動している、原初のエナジーなのです。"
+			]
+		},
+		"part_of_speech": "noun"
 	}
 ];
