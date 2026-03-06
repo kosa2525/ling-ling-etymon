@@ -208219,5 +208219,145 @@ const WORDS = [
 			]
 		},
 		"part_of_speech": "noun"
+	},
+	{
+		"id": "overtone_echo",
+		"word": "overtone",
+		"meaning": "倍音（ばいおん）、含み、オーバートーン",
+		"era": "19th Century",
+		"etymology": {
+			"components": [
+				"over + tone"
+			],
+			"original_statement": "From 19th Century over + tone."
+		},
+		"concept": "A musical tone that is a part of the harmonic series above a fundamental note and may be heard with it (主（。な（。旋律の「上（。オーバー）に（。う（。っ（。す（。ら（。と（。）」重（。な（。る（。、見（。え（。な（。い（。響（。き（。。（。そこ（。には（。、語（。ら（。れ（。な（。い（。真実（。が（。、密（。かに（。、宿（。って（。いる（。のですよ。)",
+		"thinking": "主（。な（。旋律の「上（。オーバー）に（。う（。っ（。す（。ら（。と（。）」重（。な（。る（。、見（。え（。な（。い（。響（。き（。。（。そこ（。には（。、語（。ら（。れ（。な（。い（。真実（。が（。、密（。かに（。、宿（。って（。いる（。のですよ。",
+		"aftertaste": "こだまは、過去の自分が今の自分に問いかけている、静かなる囁きなのですよ。",
+		"example": "The long overtone in the ancient cathedral enhanced the sacred and mystical atmosphere of the service.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "over",
+					"meaning": "+ tone"
+				}
+			],
+			"points": [
+				"聴くという行為は、単に音を捉えることではなく、自分自身を静止させて、世界の拍動を迎え入れることなのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "harmonic_echo",
+		"word": "harmonic",
+		"meaning": "倍音、和声的な、ハーモニック",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"harmos (joint, literal: 'fitting together')"
+			],
+			"original_statement": "From 14th Century harmos (joint, literal: 'fitting together')."
+		},
+		"concept": "Relating to or characterized by musical harmony (バラバラ（。な（。響（。きが（。、美し（。く「結（。び（。合（。わ（。さ（。れ（。ハルモ）」た（。もの（。。（。その（。整（。合（。性（。が（。、世界（。を（。、一（。つ（。の（。巨大（。な（。祈り（。へと（。、変（。え（。て（。いく（。のですよ。)",
+		"thinking": "バラバラ（。な（。響（。きが（。、美し（。く「結（。び（。合（。わ（。さ（。れ（。ハルモ）」た（。もの（。。（。その（。整（。合（。性（。が（。、世界（。を（。、一（。つ（。の（。巨大（。な（。祈り（。へと（。、変（。え（。て（。いく（。のですよ。",
+		"aftertaste": "こだまは、過去の自分が今の自分に問いかけている、静かなる囁きなのですよ。",
+		"example": "The long harmonic in the ancient cathedral enhanced the sacred and mystical atmosphere of the service.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "harmos",
+					"meaning": "joint, literal: 'fitting together'"
+				}
+			],
+			"points": [
+				"聴くという行為は、単に音を捉えることではなく、自分自身を静止させて、世界の拍動を迎え入れることなのですよ。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "recital_echo",
+		"word": "recital",
+		"meaning": "独（。奏（。会（。、暗（。唱（。、リサイタル",
+		"era": "16th Century",
+		"etymology": {
+			"components": [
+				"re- (again) + citare (to cite, literal: 'summon again')"
+			],
+			"original_statement": "From 16th Century re- (again) + citare (to cite, literal: 'summon again')."
+		},
+		"concept": "The performance of a program of music by a soloist or small group (かつて（。の（。旋律を（。、再び（。「呼び（。起こ（。す（。サイタル）」儀（。式（。。（。あなた（。の（。その（。真（。摯（。な（。る（。復（。唱（。が（。、停（。滞（。し（。た（。時間（。に、美（。し（。い（。脈動（。を（。与（。える（。のです。)",
+		"thinking": "かつて（。の（。旋律を（。、再び（。「呼び（。起こ（。す（。サイタル）」儀（。式（。。（。あなた（。の（。その（。真（。摯（。な（。る（。復（。唱（。が（。、停（。滞（。し（。た（。時間（。に、美（。し（。い（。脈動（。を（。与（。える（。のです。",
+		"aftertaste": "こだまは、過去の自分が今の自分に問いかけている、静かなる囁きなのですよ。",
+		"example": "The long recital in the ancient cathedral enhanced the sacred and mystical atmosphere of the service.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "re-",
+					"meaning": "again) + citare (to cite, literal: 'summon again'"
+				}
+			],
+			"points": [
+				"聴くという行為は、単に音を捉えることではなく、自分自身を静止させて、世界の拍動を迎え入れることなのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "hymn_echo",
+		"word": "hymn",
+		"meaning": "賛美歌、ヒム、聖歌",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"humnos (song of praise, literal: 'song')"
+			],
+			"original_statement": "From Old English humnos (song of praise, literal: 'song')."
+		},
+		"concept": "A religious song or poem, typically of praise to God or a god (天上の（。光を（。、地上（。の「言葉（。ヒム）に（。変（。えた（。）」歌（。。（。その（。清（。廉（。な（。る（。響（。き（。は（。、孤独（。な（。魂（。を（。、静（。か（。に（。、癒（。し（。て（。くれる（。のですよ。)",
+		"thinking": "天上の（。光を（。、地上（。の「言葉（。ヒム）に（。変（。えた（。）」歌（。。（。その（。清（。廉（。な（。る（。響（。き（。は（。、孤独（。な（。魂（。を（。、静（。か（。に（。、癒（。し（。て（。くれる（。のですよ。",
+		"aftertaste": "こだまは、過去の自分が今の自分に問いかけている、静かなる囁きなのですよ。",
+		"example": "The long hymn in the ancient cathedral enhanced the sacred and mystical atmosphere of the service.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "humnos",
+					"meaning": "song of praise, literal: 'song'"
+				}
+			],
+			"points": [
+				"聴くという行為は、単に音を捉えることではなく、自分自身を静止させて、世界の拍動を迎え入れることなのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "song_echo",
+		"word": "song",
+		"meaning": "歌、歌曲、ソング",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"sang (song)"
+			],
+			"original_statement": "From Old English sang (song)."
+		},
+		"concept": "A short poem or other set of words set to music or meant to be sung (言葉（。が（。、重力を（。振り切り（。、「飛翔（。サング）し（。始（。めた（。）」かたち（。。（。あなた（。が（。声（。を（。放（。つ（。とき（。、世界（。は（。、今（。一度（。、新（。しく（。産まれ（。変わる（。のですよ。)",
+		"thinking": "言葉（。が（。、重力を（。振り切り（。、「飛翔（。サング）し（。始（。めた（。）」かたち（。。（。あなた（。が（。声（。を（。放（。つ（。とき（。、世界（。は（。、今（。一度（。、新（。しく（。産まれ（。変わる（。のですよ。",
+		"aftertaste": "こだまは、過去の自分が今の自分に問いかけている、静かなる囁きなのですよ。",
+		"example": "The long song in the ancient cathedral enhanced the sacred and mystical atmosphere of the service.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sang",
+					"meaning": "song"
+				}
+			],
+			"points": [
+				"聴くという行為は、単に音を捉えることではなく、自分自身を静止させて、世界の拍動を迎え入れることなのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
 	}
 ];
