@@ -210627,5 +210627,117 @@ const WORDS = [
 			]
 		},
 		"part_of_speech": "noun"
+	},
+	{
+		"id": "excellence_virtue",
+		"word": "excellence",
+		"meaning": "卓越、優秀、エクセレンス",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"ex- (out) + cellere (to rise, literal: 'rising out')"
+			],
+			"original_statement": "From 14th Century ex- (out) + cellere (to rise, literal: 'rising out')."
+		},
+		"concept": "Outstanding quality (誰（。も（。が（。見上げる（。、「峻（。烈（。な（。る（。高（。み（。へと（。、自ら（。を（。、押し（。上げ（。た（。姿（。エクセル）』。（。それは（。、ただ（。一一点（。を（。追求（。し（。続け（。た（。、魂の（。、至高（。の（。る（。均衡の（。、果て（。に（。ある（。のですよ。)",
+		"thinking": "誰（。も（。が（。見上げる（。、「峻（。烈（。な（。る（。高（。み（。へと（。、自ら（。を（。、押し（。上げ（。た（。姿（。エクセル）』。（。それは（。、ただ（。一一点（。を（。追求（。し（。続け（。た（。、魂の（。、至高（。の（。る（。均衡の（。、果て（。に（。ある（。のですよ。",
+		"aftertaste": "尊厳は、誰かに与えられるものではない。自らの魂の純粋さを信じ抜いた者の背中に、静かに宿る光の輪なのですよ。",
+		"example": "The architectural excellence of the ancient temple was a testament to the advanced engineering skills of the civilization.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ex-",
+					"meaning": "out) + cellere (to rise, literal: 'rising out'"
+				}
+			],
+			"points": [
+				"かたちを整えることは、魂を整えること。メソッドとは、真理へと至るための、美しき巡礼の道なのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "renown_virtue",
+		"word": "renown",
+		"meaning": "名声、リナウン",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"re- (again) + nommer (to name, literal: 'named again')"
+			],
+			"original_statement": "From 14th Century re- (again) + nommer (to name, literal: 'named again')."
+		},
+		"concept": "Condition of being known by many (幾（。重（。にも（。繰（。り（。返（。し「その（。名前を（。呼ば（。れる（。リナウン）」こと（。。（。その（。眩（。し（。い（。余韻が（。、世界（。の（。すみ（。ず（。み（。に（。まで、響（。き（。渡（。っ（。ている（。、物語（。の（。証（。です。)",
+		"thinking": "幾（。重（。にも（。繰（。り（。返（。し「その（。名前を（。呼ば（。れる（。リナウン）」こと（。。（。その（。眩（。し（。い（。余韻が（。、世界（。の（。すみ（。ず（。み（。に（。まで、響（。き（。渡（。っ（。ている（。、物語（。の（。証（。です。",
+		"aftertaste": "尊厳は、誰かに与えられるものではない。自らの魂の純粋さを信じ抜いた者の背中に、静かに宿る光の輪なのですよ。",
+		"example": "The architectural renown of the ancient temple was a testament to the advanced engineering skills of the civilization.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "re-",
+					"meaning": "again) + nommer (to name, literal: 'named again'"
+				}
+			],
+			"points": [
+				"かたちを整えることは、魂を整えること。メソッドとは、真理へと至るための、美しき巡礼の道なのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "scheme_virtue",
+		"word": "scheme",
+		"meaning": "計画、体系、スキーム",
+		"era": "16th Century",
+		"etymology": {
+			"components": [
+				"skhema (form, figure, literal: 'the way it is')"
+			],
+			"original_statement": "From 16th Century skhema (form, figure, literal: 'the way it is')."
+		},
+		"concept": "A systematic plan or arrangement (ただの（。計画を（。越（。え（。た（。、「至高の（。設計（。図（。スキーム）』。（。その（。緻（。密（。な（。る（。繋（。が（。りの中に（。、宇宙の（。数学（。的（。な（。美（。し（。さが（。、静（。かに（。、宿（。って（。いる（。のですよ。)",
+		"thinking": "ただの（。計画を（。越（。え（。た（。、「至高の（。設計（。図（。スキーム）』。（。その（。緻（。密（。な（。る（。繋（。が（。りの中に（。、宇宙の（。数学（。的（。な（。美（。し（。さが（。、静（。かに（。、宿（。って（。いる（。のですよ。",
+		"aftertaste": "尊厳は、誰かに与えられるものではない。自らの魂の純粋さを信じ抜いた者の背中に、静かに宿る光の輪なのですよ。",
+		"example": "The architectural scheme of the ancient temple was a testament to the advanced engineering skills of the civilization.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "skhema",
+					"meaning": "form, figure, literal: 'the way it is'"
+				}
+			],
+			"points": [
+				"かたちを整えることは、魂を整えること。メソッドとは、真理へと至るための、美しき巡礼の道なのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "figure_virtue",
+		"word": "figure",
+		"meaning": "図形、姿、フィギュア",
+		"era": "13th Century",
+		"etymology": {
+			"components": [
+				"fingere (to form, fashion, literal: 'shaped thing')"
+			],
+			"original_statement": "From 13th Century fingere (to form, fashion, literal: 'shaped thing')."
+		},
+		"concept": "A number or shape (魂の（。エナジーを、美し（。い「かたち（。フィギュラ）』に（。落（。と（。し（。込（。ん（。だ（。姿（。（。その（。一一点（。の（。輪郭にこそ（。、真（。実（。の（。メッセージが（。、刻ま（。れて（。いる（。のですよ。)",
+		"thinking": "魂の（。エナジーを、美し（。い「かたち（。フィギュラ）』に（。落（。と（。し（。込（。ん（。だ（。姿（。（。その（。一一点（。の（。輪郭にこそ（。、真（。実（。の（。メッセージが（。、刻ま（。れて（。いる（。のですよ。",
+		"aftertaste": "尊厳は、誰かに与えられるものではない。自らの魂の純粋さを信じ抜いた者の背中に、静かに宿る光の輪なのですよ。",
+		"example": "The architectural figure of the ancient temple was a testament to the advanced engineering skills of the civilization.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "fingere",
+					"meaning": "to form, fashion, literal: 'shaped thing'"
+				}
+			],
+			"points": [
+				"かたちを整えることは、魂を整えること。メソッドとは、真理へと至るための、美しき巡礼の道なのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
 	}
 ];
