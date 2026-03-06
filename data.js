@@ -205279,5 +205279,145 @@ const WORDS = [
 			]
 		},
 		"part_of_speech": "noun"
+	},
+	{
+		"id": "prairie_nature_iv",
+		"word": "prairie",
+		"meaning": "大草原、プレーリー",
+		"era": "18th Century",
+		"etymology": {
+			"components": [
+				"pratum (meadow)"
+			],
+			"original_statement": "From 18th Century pratum (meadow)."
+		},
+		"concept": "A large open area of grassland (地（。平線（。まで（。続く「草原（。プラタム）」。（。風（。が（。吹き（。抜（。けるたびに（。、無数（。の（。命の（。囁（。きが（。、波波の（。ように（。押し寄（。せて（。くる（。、自由（。な（。る（。空間。)",
+		"thinking": "地（。平線（。まで（。続く「草原（。プラタム）」。（。風（。が（。吹き（。抜（。けるたびに（。、無数（。の（。命の（。囁（。きが（。、波波の（。ように（。押し寄（。せて（。くる（。、自由（。な（。る（。空間。",
+		"aftertaste": "自然は、私たちが自らの本質を思い出すための、巨大な鏡なのです。",
+		"example": "The cherry trees were in full prairie, attracting visitors from all over the country.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "pratum",
+					"meaning": "meadow"
+				}
+			],
+			"points": [
+				"生命とは、ただの生存の連鎖ではなく、宇宙が自らを知るための、眩しい実験なのです。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "reef_nature_iv",
+		"word": "reef",
+		"meaning": "岩礁、礁（しょう）、リーフ",
+		"era": "16th Century",
+		"etymology": {
+			"components": [
+				"rif (rib)"
+			],
+			"original_statement": "From 16th Century rif (rib)."
+		},
+		"concept": "A ridge of jagged rock, coral, or sand just above or below the surface of the sea (海（。の（。底（。に（。横たた（。わる「肋（。骨（。リフ）』のような（。岩石（。。（。寄（。せ（。来る（。波を（。受け（。止め（。、静（。か（。な（。る（。入り（。江（。を（。創（。り出（。す（。、大地の（。守護。)",
+		"thinking": "海（。の（。底（。に（。横たた（。わる「肋（。骨（。リフ）』のような（。岩石（。。（。寄（。せ（。来る（。波を（。受け（。止め（。、静（。か（。な（。る（。入り（。江（。を（。創（。り出（。す（。、大地の（。守護。",
+		"aftertaste": "自然は、私たちが自らの本質を思い出すための、巨大な鏡なのです。",
+		"example": "The cherry trees were in full reef, attracting visitors from all over the country.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "rif",
+					"meaning": "rib"
+				}
+			],
+			"points": [
+				"生命とは、ただの生存の連鎖ではなく、宇宙が自らを知るための、眩しい実験なのです。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "grotto_nature_iv",
+		"word": "grotto",
+		"meaning": "小さな洞窟、グロット",
+		"era": "16th Century",
+		"etymology": {
+			"components": [
+				"krupte (crypt, hidden place)"
+			],
+			"original_statement": "From 16th Century krupte (crypt, hidden place)."
+		},
+		"concept": "A small picturesque cave, especially an artificial one in a park or garden (暗い（。地下（。の「隠（。れた（。クリプ）場所（。）」。（。そこ（。に（。滴る（。一滴（。の（。水（。は（。、宇宙の（。深（。遠（。な（。智慧（。を（。、言葉を（。超（。え（。て（。伝えて（。くれる（。のですよ。)",
+		"thinking": "暗い（。地下（。の「隠（。れた（。クリプ）場所（。）」。（。そこ（。に（。滴る（。一滴（。の（。水（。は（。、宇宙の（。深（。遠（。な（。智慧（。を（。、言葉を（。超（。え（。て（。伝えて（。くれる（。のですよ。",
+		"aftertaste": "自然は、私たちが自らの本質を思い出すための、巨大な鏡なのです。",
+		"example": "The cherry trees were in full grotto, attracting visitors from all over the country.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "krupte",
+					"meaning": "crypt, hidden place"
+				}
+			],
+			"points": [
+				"生命とは、ただの生存の連鎖ではなく、宇宙が自らを知るための、眩しい実験なのです。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "puddle_nature_iv",
+		"word": "puddle",
+		"meaning": "水たまり、パドル",
+		"era": "13th Century",
+		"etymology": {
+			"components": [
+				"pudd (ditch, hole)"
+			],
+			"original_statement": "From 13th Century pudd (ditch, hole)."
+		},
+		"concept": "A small pool of liquid, especially of rain water on the ground (泥（。まみれ（。の（。大地（。に（。、不（。意（。に（。現（。れ（。た「小さな（。淵（。パッド）」。（。その（。濁った（。水面（。にも（。、天上（。の（。青い（。光が（。、等しく（。宿って（。いる（。のです。)",
+		"thinking": "泥（。まみれ（。の（。大地（。に（。、不（。意（。に（。現（。れ（。た「小さな（。淵（。パッド）」。（。その（。濁った（。水面（。にも（。、天上（。の（。青い（。光が（。、等しく（。宿って（。いる（。のです。",
+		"aftertaste": "自然は、私たちが自らの本質を思い出すための、巨大な鏡なのです。",
+		"example": "The cherry trees were in full puddle, attracting visitors from all over the country.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "pudd",
+					"meaning": "ditch, hole"
+				}
+			],
+			"points": [
+				"生命とは、ただの生存の連鎖ではなく、宇宙が自らを知るための、眩しい実験なのです。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "ore_nature_iv",
+		"word": "ore",
+		"meaning": "鉱石、粗金（あらがね）",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"āra (brass, copper, bronze)"
+			],
+			"original_statement": "From Old English āra (brass, copper, bronze)."
+		},
+		"concept": "A naturally occurring solid material from which a metal or valuable mineral can be profitably extracted (ただの（。石（。から（。、「金属（。アーラ）」と（。なる（。ための（。純粋（。な（。エッセンスを（。孕（。ん（。だ（。、不器（。用（。な（。存在（。。（。火（。に（。焼（。かれ（。、打（。た（。れる（。ことで（。、至宝（。へと（。至（。る（。の（。ですよ。)",
+		"thinking": "ただの（。石（。から（。、「金属（。アーラ）」と（。なる（。ための（。純粋（。な（。エッセンスを（。孕（。ん（。だ（。、不器（。用（。な（。存在（。。（。火（。に（。焼（。かれ（。、打（。た（。れる（。ことで（。、至宝（。へと（。至（。る（。の（。ですよ。",
+		"aftertaste": "自然は、私たちが自らの本質を思い出すための、巨大な鏡なのです。",
+		"example": "The cherry trees were in full ore, attracting visitors from all over the country.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "āra",
+					"meaning": "brass, copper, bronze"
+				}
+			],
+			"points": [
+				"生命とは、ただの生存の連鎖ではなく、宇宙が自らを知るための、眩しい実験なのです。"
+			]
+		},
+		"part_of_speech": "noun"
 	}
 ];
