@@ -208807,5 +208807,145 @@ const WORDS = [
 			]
 		},
 		"part_of_speech": "adjective"
+	},
+	{
+		"id": "verity_truth",
+		"word": "verity",
+		"meaning": "真実、真理、至言",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"veritas (truth)"
+			],
+			"original_statement": "From 14th Century veritas (truth)."
+		},
+		"concept": "A true principle or belief, especially one of fundamental importance (宇宙の（。全記憶を（。一（。つ（。の（。言葉に（。凝縮（。させた「真（。実（。ヴェリタス）』。（。それは（。、揺（。る（。ぎ（。な（。い（。一点（。の（。光（。として、あなた（。の（。魂を（。、永遠（。に（。、導（。き（。続け（。る（。のですよ。)",
+		"thinking": "宇宙の（。全記憶を（。一（。つ（。の（。言葉に（。凝縮（。させた「真（。実（。ヴェリタス）』。（。それは（。、揺（。る（。ぎ（。な（。い（。一点（。の（。光（。として、あなた（。の（。魂を（。、永遠（。に（。、導（。き（。続け（。る（。のですよ。",
+		"aftertaste": "公理は、疑うことをやめた場所にあるのではありません。信じ抜くことを決意した、峻烈なる一点にあるのですよ。",
+		"example": "The scientific community accepted the new verity after rigorous peer review and extensive replication experiments.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "veritas",
+					"meaning": "truth"
+				}
+			],
+			"points": [
+				"証明とは、他者を説得することではなく、自らの内なる宇宙との対話を、究極まで突き詰めることなのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "postulate_truth",
+		"word": "postulate",
+		"meaning": "仮定、自明のこととして仮定する、ポスチュレート",
+		"era": "16th Century",
+		"etymology": {
+			"components": [
+				"postulare (to demand, literal: 'to request')"
+			],
+			"original_statement": "From 16th Century postulare (to demand, literal: 'to request')."
+		},
+		"concept": "Suggest or assume the existence, fact, or truth of something as a basis for reasoning, discussion, or belief (真理に（。至る（。ために、まず「要（。件を（。求（。め（。る（。ポスチュル）」こと（。。（。その（。謙虚（。な（。る（。一歩（。が（。、未だ（。見（。ぬ（。世界（。への（。扉（。を（。、静（。か（。に（。、叩（。き（。開ける（。のですよ。)",
+		"thinking": "真理に（。至る（。ために、まず「要（。件を（。求（。め（。る（。ポスチュル）」こと（。。（。その（。謙虚（。な（。る（。一歩（。が（。、未だ（。見（。ぬ（。世界（。への（。扉（。を（。、静（。か（。に（。、叩（。き（。開ける（。のですよ。",
+		"aftertaste": "公理は、疑うことをやめた場所にあるのではありません。信じ抜くことを決意した、峻烈なる一点にあるのですよ。",
+		"example": "The scientific community accepted the new postulate after rigorous peer review and extensive replication experiments.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "postulare",
+					"meaning": "to demand, literal: 'to request'"
+				}
+			],
+			"points": [
+				"証明とは、他者を説得することではなく、自らの内なる宇宙との対話を、究極まで突き詰めることなのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "corollary_truth",
+		"word": "corollary",
+		"meaning": "系（。けい（。）」、当然の結果、コロラリー",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"corollarium (gift, literal: 'money for a small wreath')"
+			],
+			"original_statement": "From 14th Century corollarium (gift, literal: 'money for a small wreath')."
+		},
+		"concept": "A proposition that follows from (and is often appended to) one already proved (巨大な（。る（。真理に（。、そっと（。添え（。られた「小（。さな（。花冠（。コロラ）という（。名の（。贈り物』。（。その（。当然の（。る（。結末の中に（。、美（。し（。い（。調和（。が（。満た（。さ（。れて（。いる（。のですよ。)",
+		"thinking": "巨大な（。る（。真理に（。、そっと（。添え（。られた「小（。さな（。花冠（。コロラ）という（。名の（。贈り物』。（。その（。当然の（。る（。結末の中に（。、美（。し（。い（。調和（。が（。満た（。さ（。れて（。いる（。のですよ。",
+		"aftertaste": "公理は、疑うことをやめた場所にあるのではありません。信じ抜くことを決意した、峻烈なる一点にあるのですよ。",
+		"example": "The scientific community accepted the new corollary after rigorous peer review and extensive replication experiments.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "corollarium",
+					"meaning": "gift, literal: 'money for a small wreath'"
+				}
+			],
+			"points": [
+				"証明とは、他者を説得することではなく、自らの内なる宇宙との対話を、究極まで突き詰めることなのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "lemma_truth",
+		"word": "lemma",
+		"meaning": "補題（。ほだい（。）」、レマ、前提",
+		"era": "16th Century",
+		"etymology": {
+			"components": [
+				"lambanein (to take, literal: 'something taken')"
+			],
+			"original_statement": "From 16th Century lambanein (to take, literal: 'something taken')."
+		},
+		"concept": "A subsidiary proposition derived from another and used in a proof (真理（。への（。旅路で、「そっと（。受け（。取（。った（。レンマ）」、小（。さな（。る（。真実（。。（。その（。一（。つ（。一（。つ（。が（。、やがて（。、巨大（。な（。証明（。へと（。、繋（。が（。っ（。て（。いく（。のですよ。)",
+		"thinking": "真理（。への（。旅路で、「そっと（。受け（。取（。った（。レンマ）」、小（。さな（。る（。真実（。。（。その（。一（。つ（。一（。つ（。が（。、やがて（。、巨大（。な（。証明（。へと（。、繋（。が（。っ（。て（。いく（。のですよ。",
+		"aftertaste": "公理は、疑うことをやめた場所にあるのではありません。信じ抜くことを決意した、峻烈なる一点にあるのですよ。",
+		"example": "The scientific community accepted the new lemma after rigorous peer review and extensive replication experiments.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "lambanein",
+					"meaning": "to take, literal: 'something taken'"
+				}
+			],
+			"points": [
+				"証明とは、他者を説得することではなく、自らの内なる宇宙との対話を、究極まで突き詰めることなのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "oath_truth",
+		"word": "oath",
+		"meaning": "誓い、宣誓、オース",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"āth (oath)"
+			],
+			"original_statement": "From Old English āth (oath)."
+		},
+		"concept": "A solemn promise, often invoking a divine witness, regarding one's future action or behavior (沈黙という（。名の（。檻を（。破り（。、ただ（。一（。つ（。の「言葉（。オース）』に（。身を（。委（。ね（。る（。こと（。。（。その（。誓（。い（。が（。、あなた（。を（。、不（。可能（。を（。可能（。に（。する（。場所へと（。、誘（。い（。ます。)",
+		"thinking": "沈黙という（。名の（。檻を（。破り（。、ただ（。一（。つ（。の「言葉（。オース）』に（。身を（。委（。ね（。る（。こと（。。（。その（。誓（。い（。が（。、あなた（。を（。、不（。可能（。を（。可能（。に（。する（。場所へと（。、誘（。い（。ます。",
+		"aftertaste": "公理は、疑うことをやめた場所にあるのではありません。信じ抜くことを決意した、峻烈なる一点にあるのですよ。",
+		"example": "The scientific community accepted the new oath after rigorous peer review and extensive replication experiments.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "āth",
+					"meaning": "oath"
+				}
+			],
+			"points": [
+				"証明とは、他者を説得することではなく、自らの内なる宇宙との対話を、究極まで突き詰めることなのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
 	}
 ];
