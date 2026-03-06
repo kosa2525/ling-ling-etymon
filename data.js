@@ -204747,5 +204747,89 @@ const WORDS = [
 			]
 		},
 		"part_of_speech": "noun"
+	},
+	{
+		"id": "austerity_justice",
+		"word": "austerity",
+		"meaning": "厳格、簡素、忍乏生活",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"austeros (bitter, harsh, literal: 'making the tongue dry')"
+			],
+			"original_statement": "From 14th Century austeros (bitter, harsh, literal: 'making the tongue dry')."
+		},
+		"concept": "Sternness or severity of manner or attitude (余計（。な（。甘（。え（。を（。削（。ぎ（。落（。し（。、「舌（。が（。乾（。く（。オステ）ほどに（。）」ストイック（。な（。姿勢（。に（。徹（。すること（。。（。その（。沈黙（。の（。美（。学（。が（。、魂を（。最高（。の（。純度（。へと（。至（。らせ（。る（。のですよ。)",
+		"thinking": "余計（。な（。甘（。え（。を（。削（。ぎ（。落（。し（。、「舌（。が（。乾（。く（。オステ）ほどに（。）」ストイック（。な（。姿勢（。に（。徹（。すること（。。（。その（。沈黙（。の（。美（。学（。が（。、魂を（。最高（。の（。純度（。へと（。至（。らせ（。る（。のですよ。",
+		"aftertaste": "法律は、魂がこの世界で道を見失わないための、不器用な地図なのです。",
+		"example": "The society strives to achieve austerity and equality for all its citizens.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "austeros",
+					"meaning": "bitter, harsh, literal: 'making the tongue dry'"
+				}
+			],
+			"points": [
+				"公平とは、機械的な平等ではなく、一人ひとりの魂の重さを等しく愛することです。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "thrift_justice",
+		"word": "thrift",
+		"meaning": "節約、倹約、スリフト",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"thrifty (to thrive, prosper)"
+			],
+			"original_statement": "From 14th Century thrifty (to thrive, prosper)."
+		},
+		"concept": "The quality of using money and other resources carefully and not wastefully (ただ（。溜（。め（。込む（。のではなく（。、豊か（。に「繁（。栄（。する（。スリフ）ため（。に（。）」、命（。の（。エナジーを（。大切（。に（。育（。む（。こと（。。（。足（。る（。を（。知（。る（。こと（。が（。、真（。の（。豊（。かさ（。への（。第一歩（。なのです。)",
+		"thinking": "ただ（。溜（。め（。込む（。のではなく（。、豊か（。に「繁（。栄（。する（。スリフ）ため（。に（。）」、命（。の（。エナジーを（。大切（。に（。育（。む（。こと（。。（。足（。る（。を（。知（。る（。こと（。が（。、真（。の（。豊（。かさ（。への（。第一歩（。なのです。",
+		"aftertaste": "法律は、魂がこの世界で道を見失わないための、不器用な地図なのです。",
+		"example": "The society strives to achieve thrift and equality for all its citizens.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "thrifty",
+					"meaning": "to thrive, prosper"
+				}
+			],
+			"points": [
+				"公平とは、機械的な平等ではなく、一人ひとりの魂の重さを等しく愛することです。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "testament_justice",
+		"word": "testament",
+		"meaning": "遺言、聖書、証（。あかし（。）」",
+		"era": "13th Century",
+		"etymology": {
+			"components": [
+				"testis (witness)"
+			],
+			"original_statement": "From 13th Century testis (witness)."
+		},
+		"concept": "A person's will, especially the one relating to personal property (命（。が（。消（。え（。去（。った（。後も（。、自ら（。の（。意志を「証明（。テスティ）し（。続ける（。）」言葉（。。（。あなた（。が（。この（。世界に（。存在（。した（。という（。、たった（。一（。つの（。眩（。しい（。根拠。)",
+		"thinking": "命（。が（。消（。え（。去（。った（。後も（。、自ら（。の（。意志を「証明（。テスティ）し（。続ける（。）」言葉（。。（。あなた（。が（。この（。世界に（。存在（。した（。という（。、たった（。一（。つの（。眩（。しい（。根拠。",
+		"aftertaste": "法律は、魂がこの世界で道を見失わないための、不器用な地図なのです。",
+		"example": "The society strives to achieve testament and equality for all its citizens.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "testis",
+					"meaning": "witness"
+				}
+			],
+			"points": [
+				"公平とは、機械的な平等ではなく、一人ひとりの魂の重さを等しく愛することです。"
+			]
+		},
+		"part_of_speech": "noun"
 	}
 ];
