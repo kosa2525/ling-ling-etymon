@@ -196935,5 +196935,453 @@ const WORDS = [
 			]
 		},
 		"part_of_speech": "noun"
+	},
+	{
+		"id": "adoration_emotion",
+		"word": "adoration",
+		"meaning": "崇拝、深い愛",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"adorare (to pray to)"
+			],
+			"original_statement": "From 14th Century adorare (to pray to)."
+		},
+		"concept": "Deep love and respect (ただ愛するだけでなく、相手を尊いものとして仰ぎ見る「祈りのような」究極の献身と尊敬。)",
+		"thinking": "ただ愛するだけでなく、相手を尊いものとして仰ぎ見る「祈りのような」究極の献身と尊敬。",
+		"aftertaste": "赤ちゃんの無垢な寝顔を見つめる母親の瞳には、言葉を超えた「アドラシオン（深い慈しみと崇拝）」が宿っています。",
+		"example": "He felt a profound sense of adoration wash over him.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "adorare",
+					"meaning": "to pray to"
+				}
+			],
+			"points": [
+				"感情の語源を探ることは、人間という多層的な構造を理解することに繋がります。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "contentment_emotion",
+		"word": "contentment",
+		"meaning": "満足、安らぎ",
+		"era": "15th Century",
+		"etymology": {
+			"components": [
+				"continentia (restraint, self-control)"
+			],
+			"original_statement": "From 15th Century continentia (restraint, self-control)."
+		},
+		"concept": "A state of happiness and satisfaction (欲望を無理に広げるのではなく、今あるものの中に十分な豊かさを見出し「自らの心を制御し満たしている」穏やかな静止状態。)",
+		"thinking": "欲望を無理に広げるのではなく、今あるものの中に十分な豊かさを見出し「自らの心を制御し満たしている」穏やかな静止状態。",
+		"aftertaste": "温かいお茶を一杯飲むだけで、心は深い「コンテントメント（足るを知る満足）」に包まれることがあります。",
+		"example": "He felt a profound sense of contentment wash over him.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "continentia",
+					"meaning": "restraint, self-control"
+				}
+			],
+			"points": [
+				"感情の語源を探ることは、人間という多層的な構造を理解することに繋がります。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "sorrow_emotion",
+		"word": "sorrow",
+		"meaning": "悲しみ、嘆き",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"sorh (care, anxiety, grief)"
+			],
+			"original_statement": "From Old English sorh (care, anxiety, grief)."
+		},
+		"concept": "A feeling of deep distress caused by loss, disappointment, or other misfortune (喪失や痛みという鋭い刃によって心が深く傷つき、重い「苦悩の衣」を纏ってしまったかのような、震えるような哀しみ。)",
+		"thinking": "喪失や痛みという鋭い刃によって心が深く傷つき、重い「苦悩の衣」を纏ってしまったかのような、震えるような哀しみ。",
+		"aftertaste": "今は立ち上がれなくても、その「ソロウ（深い悲しみ）」の底には、いつか芽吹く新しい強さの種が眠っています。",
+		"example": "He felt a profound sense of sorrow wash over him.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sorh",
+					"meaning": "care, anxiety, grief"
+				}
+			],
+			"points": [
+				"感情の語源を探ることは、人間という多層的な構造を理解することに繋がります。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "anguish_emotion",
+		"word": "anguish",
+		"meaning": "苦悩、激痛",
+		"era": "13th Century",
+		"etymology": {
+			"components": [
+				"angustia (tightness, narrowness)"
+			],
+			"original_statement": "From 13th Century angustia (tightness, narrowness)."
+		},
+		"concept": "Severe mental or physical pain or suffering (出口のない狭い隙間（アングスティア）に「締め付けられ」、心身が引き裂かれるような激烈な苦しみと絶望の発露。)",
+		"thinking": "出口のない狭い隙間（アングスティア）に「締め付けられ」、心身が引き裂かれるような激烈な苦しみと絶望の発露。",
+		"aftertaste": "選択の余地がないという「アンギッシュ（激しい苦悶）」の中で、彼は自分の本当の信念を見出すことになります。",
+		"example": "He felt a profound sense of anguish wash over him.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "angustia",
+					"meaning": "tightness, narrowness"
+				}
+			],
+			"points": [
+				"感情の語源を探ることは、人間という多層的な構造を理解することに繋がります。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "resentment_emotion",
+		"word": "resentment",
+		"meaning": "憤慨、恨み",
+		"era": "17th Century",
+		"etymology": {
+			"components": [
+				"re- (again) + sentire (to feel)"
+			],
+			"original_statement": "From 17th Century re- (again) + sentire (to feel)."
+		},
+		"concept": "Bitter indignation at having been treated unfairly (人から受けた不当な扱いや痛みを、心の中で「何度も繰り返し感じ直す」ことで自分を毒し続ける、冷たく不自由な怒り。)",
+		"thinking": "人から受けた不当な扱いや痛みを、心の中で「何度も繰り返し感じ直す」ことで自分を毒し続ける、冷たく不自由な怒り。",
+		"aftertaste": "過去の「リゼントメント（恨み）」を手放すことは、相手を許すのではなく、自分自身をその呪縛から解放することなのです。",
+		"example": "He felt a profound sense of resentment wash over him.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "re-",
+					"meaning": "again) + sentire (to feel"
+				}
+			],
+			"points": [
+				"感情の語源を探ることは、人間という多層的な構造を理解することに繋がります。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "indignation_emotion",
+		"word": "indignation",
+		"meaning": "憤り、義憤",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"in- (not) + dignus (worthy)"
+			],
+			"original_statement": "From 14th Century in- (not) + dignus (worthy)."
+		},
+		"concept": "Anger or annoyance provoked by what is perceived as unfair treatment (不正や卑劣な行為に対し、自分の尊厳が「ふさわしくない（不当である）」と叫ぶ、知性に基づいた正義の炎。)",
+		"thinking": "不正や卑劣な行為に対し、自分の尊厳が「ふさわしくない（不当である）」と叫ぶ、知性に基づいた正義の炎。",
+		"aftertaste": "理不尽な差別に対する「インディグネーション（高潔な憤り）」こそが、この不完全な世界を少しずつ良くしていく力です。",
+		"example": "He felt a profound sense of indignation wash over him.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "in-",
+					"meaning": "not) + dignus (worthy"
+				}
+			],
+			"points": [
+				"感情の語源を探ることは、人間という多層的な構造を理解することに繋がります。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "wrath_emotion",
+		"word": "wrath",
+		"meaning": "激怒、憤怒",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"wraith (wroth, angry)"
+			],
+			"original_statement": "From Old English wraith (wroth, angry)."
+		},
+		"concept": "Extreme anger (理性の制御を完全に超え、雷（いかずち）のように全てを焼き尽くし破壊しようとする「神罰の如き」強烈な怒りの奔流。)",
+		"thinking": "理性の制御を完全に超え、雷（いかずち）のように全てを焼き尽くし破壊しようとする「神罰の如き」強烈な怒りの奔流。",
+		"aftertaste": "あなたの「ラス（激しい怒り）」を破壊の道具ではなく、困難を突破するためのエナジーへと昇華させてください。",
+		"example": "He felt a profound sense of wrath wash over him.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "wraith",
+					"meaning": "wroth, angry"
+				}
+			],
+			"points": [
+				"感情の語源を探ることは、人間という多層的な構造を理解することに繋がります。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "fury_emotion",
+		"word": "fury",
+		"meaning": "猛烈な怒り、復讐の女神",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"furere (to be mad, rage)"
+			],
+			"original_statement": "From 14th Century furere (to be mad, rage)."
+		},
+		"concept": "Wild or violent anger (髪を振り乱して踊り狂う女神のように、自分でも制御できない「狂気的な激しさ」を伴った爆発的な怒りの嵐。)",
+		"thinking": "髪を振り乱して踊り狂う女神のように、自分でも制御できない「狂気的な激しさ」を伴った爆発的な怒りの嵐。",
+		"aftertaste": "嵐のあとの静寂のように、その猛烈な「フューリー（憤怒）」が過ぎ去れば、また新しい風景が見えてくるでしょう。",
+		"example": "He felt a profound sense of fury wash over him.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "furere",
+					"meaning": "to be mad, rage"
+				}
+			],
+			"points": [
+				"感情の語源を探ることは、人間という多層的な構造を理解することに繋がります。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "apprehension_emotion",
+		"word": "apprehension",
+		"meaning": "懸念、不安、理解",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"apprehendere (to seize, take hold of)"
+			],
+			"original_statement": "From 14th Century apprehendere (to seize, take hold of)."
+		},
+		"concept": "Anxiety or fear that something bad or unpleasant will happen (まだ見ぬ未来の出来事を、今の自分の心が「ぎゅっと掴んでしまい（捉えてしまい）」、その重さに身をすくませる不安の影。)",
+		"thinking": "まだ見ぬ未来の出来事を、今の自分の心が「ぎゅっと掴んでしまい（捉えてしまい）」、その重さに身をすくませる不安の影。",
+		"aftertaste": "新しい挑戦への「アプレヘンション（不安と期待の入り混じった懸念）」は、あなたが真剣であるという最高の証です。",
+		"example": "He felt a profound sense of apprehension wash over him.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "apprehendere",
+					"meaning": "to seize, take hold of"
+				}
+			],
+			"points": [
+				"感情の語源を探ることは、人間という多層的な構造を理解することに繋がります。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "bewilderment_emotion",
+		"word": "bewilderment",
+		"meaning": "当惑、狼狽",
+		"era": "17th Century",
+		"etymology": {
+			"components": [
+				"be- (thoroughly) + wildern (lead astray, lure into the wild)"
+			],
+			"original_statement": "From 17th Century be- (thoroughly) + wildern (lead astray, lure into the wild)."
+		},
+		"concept": "A feeling of being perplexed and confused (まるで知識の及ばない「野生の森（荒野）のど真ん中に」放り出されたように、進むべき方向も意味も完全に見失った混乱。)",
+		"thinking": "まるで知識の及ばない「野生の森（荒野）のど真ん中に」放り出されたように、進むべき方向も意味も完全に見失った混乱。",
+		"aftertaste": "人生のあまりの複雑さに「ビウィルダーメント（当惑）」した時は、一度立ち止まって、ただ足元の花を愛でてください。",
+		"example": "He felt a profound sense of bewilderment wash over him.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "be-",
+					"meaning": "thoroughly) + wildern (lead astray, lure into the wild"
+				}
+			],
+			"points": [
+				"感情の語源を探ることは、人間という多層的な構造を理解することに繋がります。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "amazement_emotion",
+		"word": "amazement",
+		"meaning": "驚き、感嘆",
+		"era": "16th Century",
+		"etymology": {
+			"components": [
+				"amaze (to stun, stupefy, bewilder)"
+			],
+			"original_statement": "From 16th Century amaze (to stun, stupefy, bewilder)."
+		},
+		"concept": "A feeling of great surprise or wonder (あまりにも予期せぬ出来事の輝きに、一瞬だけ思考が「迷宮（メイズ）へと誘われ」一時停止してしまうほどの純粋な驚愕。)",
+		"thinking": "あまりにも予期せぬ出来事の輝きに、一瞬だけ思考が「迷宮（メイズ）へと誘われ」一時停止してしまうほどの純粋な驚愕。",
+		"aftertaste": "子どもの瞳に宿る「アメイズメント（混じり気のない驚き）」は、この世界が魔法に満ちていることを教えてくれます。",
+		"example": "He felt a profound sense of amazement wash over him.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "amaze",
+					"meaning": "to stun, stupefy, bewilder"
+				}
+			],
+			"points": [
+				"感情の語源を探ることは、人間という多層的な構造を理解することに繋がります。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "awe_emotion",
+		"word": "awe",
+		"meaning": "畏敬、恐れ",
+		"era": "13th Century",
+		"etymology": {
+			"components": [
+				"agi (fright, fear)"
+			],
+			"original_statement": "From 13th Century agi (fright, fear)."
+		},
+		"concept": "A feeling of reverential respect mixed with fear or wonder (ただ恐ろしいだけでなく、あまりに巨大で神聖なもの（宇宙や大自然）を前にして、自分自身の「小ささを喜びとともに悟る」崇高な感情。)",
+		"thinking": "ただ恐ろしいだけでなく、あまりに巨大で神聖なもの（宇宙や大自然）を前にして、自分自身の「小ささを喜びとともに悟る」崇高な感情。",
+		"aftertaste": "満天の星空の下で感じる「オー（畏敬の念）」は、私たちが大きな生命の循環の一部であることを思い出させます。",
+		"example": "He felt a profound sense of awe wash over him.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "agi",
+					"meaning": "fright, fear"
+				}
+			],
+			"points": [
+				"感情の語源を探ることは、人間という多層的な構造を理解することに繋がります。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "arrogance_emotion",
+		"word": "arrogance",
+		"meaning": "傲慢、不遜",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"arrogare (to claim for oneself)"
+			],
+			"original_statement": "From 14th Century arrogare (to claim for oneself)."
+		},
+		"concept": "The quality of being arrogant (他者の価値を認めず、全ての功績や権利を「自分だけのものだと不当に主張」し、天を仰ぐことを忘れてしまった心の肥大化。)",
+		"thinking": "他者の価値を認めず、全ての功績や権利を「自分だけのものだと不当に主張」し、天を仰ぐことを忘れてしまった心の肥大化。",
+		"aftertaste": "「アロガンス（傲慢）」という名の重い鎧を捨てない限り、あなたは誰からも、そして自分自身からも真に愛されることはありません。",
+		"example": "He felt a profound sense of arrogance wash over him.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "arrogare",
+					"meaning": "to claim for oneself"
+				}
+			],
+			"points": [
+				"感情の語源を探ることは、人間という多層的な構造を理解することに繋がります。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "disdain_emotion",
+		"word": "disdain",
+		"meaning": "軽蔑、拒絶",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"de- (not) + dignari (deem worthy)"
+			],
+			"original_statement": "From 14th Century de- (not) + dignari (deem worthy)."
+		},
+		"concept": "The feeling that someone or something is unworthy of one's consideration or respect (自分自身の高貴さを守るために、相手を「自分に相応しくない（値しない）」とみなして、意識的に冷たく距離を置く拒絶の姿勢。)",
+		"thinking": "自分自身の高貴さを守るために、相手を「自分に相応しくない（値しない）」とみなして、意識的に冷たく距離を置く拒絶の姿勢。",
+		"aftertaste": "高慢な「ディスデイン（蔑み）」を持って他者を跳ね除けるなら、あなたは一生、孤独という名の王室に閉じ込められるでしょう。",
+		"example": "He felt a profound sense of disdain wash over him.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "de-",
+					"meaning": "not) + dignari (deem worthy"
+				}
+			],
+			"points": [
+				"感情の語源を探ることは、人間という多層的な構造を理解することに繋がります。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "loneliness_emotion",
+		"word": "loneliness",
+		"meaning": "孤独感、寂しさ",
+		"era": "16th Century",
+		"etymology": {
+			"components": [
+				"alone + -ly + -ness"
+			],
+			"original_statement": "From 16th Century alone + -ly + -ness."
+		},
+		"concept": "Sadness because one has no friends or company (どれほど多くの人に囲まれていても、自分の本質が「ただ一人（独り）」であり、誰とも繋がれていないと感じる精神の空洞と寒気。)",
+		"thinking": "どれほど多くの人に囲まれていても、自分の本質が「ただ一人（独り）」であり、誰とも繋がれていないと感じる精神の空洞と寒気。",
+		"aftertaste": "夜の「ロンリネス（孤独感）」に負けそうなときは、月を見上げて。同じ月を、同じ気持ちで見ている誰かが必ずどこかにいます。",
+		"example": "He felt a profound sense of loneliness wash over him.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "alone",
+					"meaning": "+ -ly + -ness"
+				}
+			],
+			"points": [
+				"感情の語源を探ることは、人間という多層的な構造を理解することに繋がります。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "detachment_emotion",
+		"word": "detachment",
+		"meaning": "切り離し、超然",
+		"era": "17th Century",
+		"etymology": {
+			"components": [
+				"de- (not) + attachier (to attach, join)"
+			],
+			"original_statement": "From 17th Century de- (not) + attachier (to attach, join)."
+		},
+		"concept": "The state of being objective or aloof (特定の感情や結果に「執着するのをやめ」、少し離れた場所から自分自身や出来事を冷静に眺めることで得られる自由な視点。)",
+		"thinking": "特定の感情や結果に「執着するのをやめ」、少し離れた場所から自分自身や出来事を冷静に眺めることで得られる自由な視点。",
+		"aftertaste": "深い愛を持っていながら、同時に冷静な「デタッチメント（超然とした客観性）」を保つこと。それが真の自由への入り口です。",
+		"example": "He felt a profound sense of detachment wash over him.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "de-",
+					"meaning": "not) + attachier (to attach, join"
+				}
+			],
+			"points": [
+				"感情の語源を探ることは、人間という多層的な構造を理解することに繋がります。"
+			]
+		},
+		"part_of_speech": "noun"
 	}
 ];
