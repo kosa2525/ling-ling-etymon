@@ -209115,5 +209115,117 @@ const WORDS = [
 			]
 		},
 		"part_of_speech": "adjective"
+	},
+	{
+		"id": "cavern_space",
+		"word": "cavern",
+		"meaning": "洞窟、大洞穴（。だいどうけつ（。）」、キャバーン",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"cavus (hollow, literal: 'hollow place')"
+			],
+			"original_statement": "From 14th Century cavus (hollow, literal: 'hollow place')."
+		},
+		"concept": "A cave, or a chamber in a cave, typically a large one (大地（。の（。胎（。内（。に（。隠された（。「深（。い（。空洞（。キャヴァス）』。（。そこ（。には（。、目（。に（。見（。え（。な（。い（。歴史（。の（。響きが（。、静（。か（。に（。、反乱（。し（。て（。いる（。のですよ。)",
+		"thinking": "大地（。の（。胎（。内（。に（。隠された（。「深（。い（。空洞（。キャヴァス）』。（。そこ（。には（。、目（。に（。見（。え（。な（。い（。歴史（。の（。響きが（。、静（。か（。に（。、反乱（。し（。て（。いる（。のですよ。",
+		"aftertaste": "頂点に立つということは、同時に広大な虚空を見つめる勇気を持つということなのですよ。",
+		"example": "The rocket reached its cavern and began its descent back to Earth, providing stunning views of the cosmos.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "cavus",
+					"meaning": "hollow, literal: 'hollow place'"
+				}
+			],
+			"points": [
+				"外側の境界を押し広げることよりも、内側の奥行きを深めることの方が、真の旅に近いのかもしれません。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "alcove_space",
+		"word": "alcove",
+		"meaning": "凹（。おう（。）」室、アルコーブ",
+		"era": "17th Century",
+		"etymology": {
+			"components": [
+				"al-qubba (the vault, dome, literal: 'the arch')"
+			],
+			"original_statement": "From 17th Century al-qubba (the vault, dome, literal: 'the arch')."
+		},
+		"concept": "A recess, typically in the wall of a room or of a garden (壁に（。そ（。っ（。と（。作（。られた「小（。さな（。る（。円（。蓋（。クッバ）』のある（。場所（。（。そこ（。は、全（。ての（。喧（。騒から（。、あなた（。を（。優（。しく（。隔（。て（。て（。くれる（。、聖なる（。小（。宇宙なの（。ですよ。)",
+		"thinking": "壁に（。そ（。っ（。と（。作（。られた「小（。さな（。る（。円（。蓋（。クッバ）』のある（。場所（。（。そこ（。は、全（。ての（。喧（。騒から（。、あなた（。を（。優（。しく（。隔（。て（。て（。くれる（。、聖なる（。小（。宇宙なの（。ですよ。",
+		"aftertaste": "頂点に立つということは、同時に広大な虚空を見つめる勇気を持つということなのですよ。",
+		"example": "The rocket reached its alcove and began its descent back to Earth, providing stunning views of the cosmos.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "al-qubba",
+					"meaning": "the vault, dome, literal: 'the arch'"
+				}
+			],
+			"points": [
+				"外側の境界を押し広げることよりも、内側の奥行きを深めることの方が、真の旅に近いのかもしれません。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "realm_space",
+		"word": "realm",
+		"meaning": "領域、王国、レルム",
+		"era": "13th Century",
+		"etymology": {
+			"components": [
+				"regimen (government, system, literal: 'rule')"
+			],
+			"original_statement": "From 13th Century regimen (government, system, literal: 'rule')."
+		},
+		"concept": "A kingdom (ただ一（。つ（。の（。秩序（。に「支配（。レギ）さ（。れた（。）」、峻（。烈（。な（。る（。空間。（。あなた（。は（。、今（。、何（。色（。の（。法則（。に（。、身（。を（。委（。ね（。て（。いる（。の（。でしょうか。)",
+		"thinking": "ただ一（。つ（。の（。秩序（。に「支配（。レギ）さ（。れた（。）」、峻（。烈（。な（。る（。空間。（。あなた（。は（。、今（。、何（。色（。の（。法則（。に（。、身（。を（。委（。ね（。て（。いる（。の（。でしょうか。",
+		"aftertaste": "頂点に立つということは、同時に広大な虚空を見つめる勇気を持つということなのですよ。",
+		"example": "The rocket reached its realm and began its descent back to Earth, providing stunning views of the cosmos.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "regimen",
+					"meaning": "government, system, literal: 'rule'"
+				}
+			],
+			"points": [
+				"外側の境界を押し広げることよりも、内側の奥行きを深めることの方が、真の旅に近いのかもしれません。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "bulk_space",
+		"word": "bulk",
+		"meaning": "大部分、かさ、バルク",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"bulke (heap, cargo ship's hold)"
+			],
+			"original_statement": "From 14th Century bulke (heap, cargo ship's hold)."
+		},
+		"concept": "The mass or magnitude of something large (一（。つ（。の（。点（。に（。は（。収まり（。き（。ら（。ぬ（。、「巨大（。な（。る（。積み（。荷（。バルク）』。（。その（。圧倒（。的（。な（。物質（。性（。に（。、魂は（。、時（。に、畏（。敬（。の（。念を（。、抱（。か（。ざ（。る（。を（。得（。ない（。のですよ。)",
+		"thinking": "一（。つ（。の（。点（。に（。は（。収まり（。き（。ら（。ぬ（。、「巨大（。な（。る（。積み（。荷（。バルク）』。（。その（。圧倒（。的（。な（。物質（。性（。に（。、魂は（。、時（。に、畏（。敬（。の（。念を（。、抱（。か（。ざ（。る（。を（。得（。ない（。のですよ。",
+		"aftertaste": "頂点に立つということは、同時に広大な虚空を見つめる勇気を持つということなのですよ。",
+		"example": "The rocket reached its bulk and began its descent back to Earth, providing stunning views of the cosmos.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "bulke",
+					"meaning": "heap, cargo ship's hold"
+				}
+			],
+			"points": [
+				"外側の境界を押し広げることよりも、内側の奥行きを深めることの方が、真の旅に近いのかもしれません。"
+			]
+		},
+		"part_of_speech": "noun"
 	}
 ];
