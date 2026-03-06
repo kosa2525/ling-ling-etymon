@@ -194583,5 +194583,285 @@ const WORDS = [
 			]
 		},
 		"part_of_speech": "adjective"
+	},
+	{
+		"id": "gush_water_flow",
+		"word": "gush",
+		"meaning": "勢いよく流れ出る",
+		"era": "15th Century",
+		"etymology": {
+			"components": [
+				"guschen (to rush out violently)"
+			],
+			"original_statement": "From 15th Century guschen (to rush out violently)."
+		},
+		"concept": "Flow out of something in a rapid and plentiful stream (抑圧されていた水や感情が限界に達し、狭い出口から「勢いよく」暴力的に解放される瞬間のカタルシス。)",
+		"thinking": "抑圧されていた水や感情が限界に達し、狭い出口から「勢いよく」暴力的に解放される瞬間のカタルシス。",
+		"aftertaste": "喜びで「ガッシュ（あふれ出る）」するような涙は、どんな悲しい涙よりも美しく煌めきます。",
+		"example": "I watched the water gush gently.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "guschen (to rush out violently)",
+					"meaning": "known origin"
+				}
+			],
+			"points": [
+				"水の持つ「流れ・浸透・破壊」という多面的な性格。"
+			]
+		},
+		"part_of_speech": "verb"
+	},
+	{
+		"id": "spout_water_flow",
+		"word": "spout",
+		"meaning": "吹き出す、噴出する",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"spouten (to spit or spew)"
+			],
+			"original_statement": "From 14th Century spouten (to spit or spew)."
+		},
+		"concept": "Send out liquid forcefully in a stream (鯨の潮吹きのように、細い管を通って重力に逆らう高い圧力で空高く「吹き出す」生命のエネルギー。)",
+		"thinking": "鯨の潮吹きのように、細い管を通って重力に逆らう高い圧力で空高く「吹き出す」生命のエネルギー。",
+		"aftertaste": "愚痴を「スパウト（堰を切ったように喋る）」してすっきりした後は、また新しい明日を始めましょう。",
+		"example": "I watched the water spout gently.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "spouten (to spit or spew)",
+					"meaning": "known origin"
+				}
+			],
+			"points": [
+				"水の持つ「流れ・浸透・破壊」という多面的な性格。"
+			]
+		},
+		"part_of_speech": "verb"
+	},
+	{
+		"id": "seep_water_flow",
+		"word": "seep",
+		"meaning": "にじみ出る",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"sipian (to soak, macerate)"
+			],
+			"original_statement": "From Old English sipian (to soak, macerate)."
+		},
+		"concept": "Flow or leak slowly through porous material or small holes (岩の隙間や心の壁を見つけ出し、微量ながらも執拗に時間をかけて「にじみ出て」くる静かな力。)",
+		"thinking": "岩の隙間や心の壁を見つけ出し、微量ながらも執拗に時間をかけて「にじみ出て」くる静かな力。",
+		"aftertaste": "気づかないうちに「シープ（沁み透る）」してきた優しさが、いつしか心を完全に満たしていました。",
+		"example": "I watched the water seep gently.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sipian (to soak, macerate)",
+					"meaning": "known origin"
+				}
+			],
+			"points": [
+				"水の持つ「流れ・浸透・破壊」という多面的な性格。"
+			]
+		},
+		"part_of_speech": "verb"
+	},
+	{
+		"id": "ooze_water_flow",
+		"word": "ooze",
+		"meaning": "にじみ出る、漏れる",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"wos (juice, sap)"
+			],
+			"original_statement": "From Old English wos (juice, sap)."
+		},
+		"concept": "Slowly trickle or seep out of something (粘り気のある水や血が、傷口から重く、そして後戻りできない確実さで「ゆっくりと漏れ出す」様。)",
+		"thinking": "粘り気のある水や血が、傷口から重く、そして後戻りできない確実さで「ゆっくりと漏れ出す」様。",
+		"aftertaste": "自信が体の毛穴から「ウーズ（にじみ出る）」するような人こそが、本当の意味で美しいのです。",
+		"example": "I watched the water ooze gently.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "wos (juice, sap)",
+					"meaning": "known origin"
+				}
+			],
+			"points": [
+				"水の持つ「流れ・浸透・破壊」という多面的な性格。"
+			]
+		},
+		"part_of_speech": "verb"
+	},
+	{
+		"id": "drip_water_flow",
+		"word": "drip",
+		"meaning": "したたる",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"drippen (to fall in drops)"
+			],
+			"original_statement": "From 14th Century drippen (to fall in drops)."
+		},
+		"concept": "Fall or let fall in drops (液体が自らの重さに耐えきれなくなり、「一滴ずつ」切り離され落下していく等間隔の悲しいリズム。)",
+		"thinking": "液体が自らの重さに耐えきれなくなり、「一滴ずつ」切り離され落下していく等間隔の悲しいリズム。",
+		"aftertaste": "疲れた日は、雨の「ドリップ（ポタポタ落ちる音）」を聞きながらコーヒーを淹れる時間を大切に。",
+		"example": "I watched the water drip gently.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "drippen (to fall in drops)",
+					"meaning": "known origin"
+				}
+			],
+			"points": [
+				"水の持つ「流れ・浸透・破壊」という多面的な性格。"
+			]
+		},
+		"part_of_speech": "verb"
+	},
+	{
+		"id": "drain_water_flow",
+		"word": "drain",
+		"meaning": "排水する、消耗させる",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"drehnian (to strain, draw off)"
+			],
+			"original_statement": "From Old English drehnian (to strain, draw off)."
+		},
+		"concept": "Cause the water or other liquid in something to run out (不要になった液体を最後まで「引き抜いて」空っぽにすることで、新しいものを受け入れる準備を整えること。)",
+		"thinking": "不要になった液体を最後まで「引き抜いて」空っぽにすることで、新しいものを受け入れる準備を整えること。",
+		"aftertaste": "心まで「ドレイン（消耗）」されてしまう前に、休むという名の栓を閉める勇気を持ちましょう。",
+		"example": "I watched the water drain gently.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "drehnian (to strain, draw off)",
+					"meaning": "known origin"
+				}
+			],
+			"points": [
+				"水の持つ「流れ・浸透・破壊」という多面的な性格。"
+			]
+		},
+		"part_of_speech": "verb"
+	},
+	{
+		"id": "leak_water_flow",
+		"word": "leak",
+		"meaning": "漏れる",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"leken (to let water in or out)"
+			],
+			"original_statement": "From 14th Century leken (to let water in or out)."
+		},
+		"concept": "Accidentally lose or admit contents through a hole (厳重に守られていたはずの容器や秘密が、小さな穴から「意図せず」少しずつ外へ逃げ出してしまう失敗。)",
+		"thinking": "厳重に守られていたはずの容器や秘密が、小さな穴から「意図せず」少しずつ外へ逃げ出してしまう失敗。",
+		"aftertaste": "涙が「リーク（漏れ出る）」するのは、我慢という名のダムが正常に機能している証拠です。",
+		"example": "I watched the water leak gently.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "leken (to let water in or out)",
+					"meaning": "known origin"
+				}
+			],
+			"points": [
+				"水の持つ「流れ・浸透・破壊」という多面的な性格。"
+			]
+		},
+		"part_of_speech": "verb"
+	},
+	{
+		"id": "drench_water_flow",
+		"word": "drench",
+		"meaning": "びしょ濡れにする",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"drencan (to sink, drown, cause to drink)"
+			],
+			"original_statement": "From Old English drencan (to sink, drown, cause to drink)."
+		},
+		"concept": "Wet thoroughly; soak (水が対象のすべてを隙間なく支配し、元の重さや色を完全に奪い去るという、愛にも似た「圧倒的」な沈水。)",
+		"thinking": "水が対象のすべてを隙間なく支配し、元の重さや色を完全に奪い去るという、愛にも似た「圧倒的」な沈水。",
+		"aftertaste": "突然の雨に「ドレンチト（ずぶ濡れに）」になったからこそ、帰りのホットミルクが格別に美味しいのです。",
+		"example": "I watched the water drench gently.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "drencan (to sink, drown, cause to drink)",
+					"meaning": "known origin"
+				}
+			],
+			"points": [
+				"水の持つ「流れ・浸透・破壊」という多面的な性格。"
+			]
+		},
+		"part_of_speech": "verb"
+	},
+	{
+		"id": "soak_water_flow",
+		"word": "soak",
+		"meaning": "浸す、ずぶぬれにする",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"socian (to lie in liquid)"
+			],
+			"original_statement": "From Old English socian (to lie in liquid)."
+		},
+		"concept": "Make or allow something to become thoroughly wet by immersing it in liquid (長時間液体の中に身を置き、時間をかけて全体に「深く水分を染み込ませて」柔らかくすること。)",
+		"thinking": "長時間液体の中に身を置き、時間をかけて全体に「深く水分を染み込ませて」柔らかくすること。",
+		"aftertaste": "温泉に肩まで「ソーク（浸かる）」すれば、心の強張（こわば）りごと全て溶かして流してくれます。",
+		"example": "I watched the water soak gently.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "socian (to lie in liquid)",
+					"meaning": "known origin"
+				}
+			],
+			"points": [
+				"水の持つ「流れ・浸透・破壊」という多面的な性格。"
+			]
+		},
+		"part_of_speech": "verb"
+	},
+	{
+		"id": "steep_water_flow",
+		"word": "steep",
+		"meaning": "浸す、急な",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"stepen (to soak)"
+			],
+			"original_statement": "From 14th Century stepen (to soak)."
+		},
+		"concept": "Soak in water or other liquid so as to extract its flavor or to soften it (紅茶の茶葉が熱湯の中で少しずつ成分を放ち、全体をその味と色で「深く染め上げる」静寂の儀式。)",
+		"thinking": "紅茶の茶葉が熱湯の中で少しずつ成分を放ち、全体をその味と色で「深く染め上げる」静寂の儀式。",
+		"aftertaste": "歴史に「スティープト（深く浸された）」な古い町並みを歩くと、自分の人生も壮大な物語の一部に思えてきます。",
+		"example": "I watched the water steep gently.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "stepen (to soak)",
+					"meaning": "known origin"
+				}
+			],
+			"points": [
+				"水の持つ「流れ・浸透・破壊」という多面的な性格。"
+			]
+		},
+		"part_of_speech": "verb"
 	}
 ];
