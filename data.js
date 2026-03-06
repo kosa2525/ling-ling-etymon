@@ -206763,5 +206763,229 @@ const WORDS = [
 			]
 		},
 		"part_of_speech": "noun"
+	},
+	{
+		"id": "rampart_castle",
+		"word": "rampart",
+		"meaning": "城壁、防壁、ランパート",
+		"era": "16th Century",
+		"etymology": {
+			"components": [
+				"re- (again) + em- (in) + parare (to prepare, literal: 'to prepare as a defense')"
+			],
+			"original_statement": "From 16th Century re- (again) + em- (in) + parare (to prepare, literal: 'to prepare as a defense')."
+		},
+		"concept": "A defensive wall of a castle or walled city, having a broad top with a walkway and typically a stone parapet (日常（。の（。安（。ら（。ぎを（。守る（。ために、周囲（。を「再（。び（。リ）強固に（。整（。える（。パラ）」壁（。。（。その（。石（。の（。厚（。みは（。、そのまま（。、守（。られる（。命の（。重（。厚（。な（。る（。信頼（。なの（。ですよ。)",
+		"thinking": "日常（。の（。安（。ら（。ぎを（。守る（。ために、周囲（。を「再（。び（。リ）強固に（。整（。える（。パラ）」壁（。。（。その（。石（。の（。厚（。みは（。、そのまま（。、守（。られる（。命の（。重（。厚（。な（。る（。信頼（。なの（。ですよ。",
+		"aftertaste": "尖塔の一点は、地上の重力を振り切り、天上の光を直接言葉に変えるための祈りなのです。",
+		"example": "The knights took a final stand at the rampart, defending the king's chambers until the very end.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "re-",
+					"meaning": "again) + em- (in) + parare (to prepare, literal: 'to prepare as a defense'"
+				}
+			],
+			"points": [
+				"建築とは、ただの空間の仕切りではなく、魂がこの世界で居場所を見出すための、凍りついた旋律なのです。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "moat_castle",
+		"word": "moat",
+		"meaning": "堀、濠（ごう）、モート",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"mote (mound, embankment, literal: 'mound')"
+			],
+			"original_statement": "From 14th Century mote (mound, embankment, literal: 'mound')."
+		},
+		"concept": "A deep, wide ditch surrounding a castle, fort, or town, typically filled with water and intended as a defense (土（。を（。盛り（。上げた「山（。モート）』の（。はずが（。、いつしか（。深（。い（。奈（。落（。へと（。変（。貌（。し（。た（。もの（。。（。水（。を（。湛（。えた（。その（。静寂（。は（。、侵（。入（。者（。に（。、絶対（。的（。な（。る（。断絶を（。、静（。か（。に（。宣告（。し（。ます。)",
+		"thinking": "土（。を（。盛り（。上げた「山（。モート）』の（。はずが（。、いつしか（。深（。い（。奈（。落（。へと（。変（。貌（。し（。た（。もの（。。（。水（。を（。湛（。えた（。その（。静寂（。は（。、侵（。入（。者（。に（。、絶対（。的（。な（。る（。断絶を（。、静（。か（。に（。宣告（。し（。ます。",
+		"aftertaste": "尖塔の一点は、地上の重力を振り切り、天上の光を直接言葉に変えるための祈りなのです。",
+		"example": "The knights took a final stand at the moat, defending the king's chambers until the very end.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "mote",
+					"meaning": "mound, embankment, literal: 'mound'"
+				}
+			],
+			"points": [
+				"建築とは、ただの空間の仕切りではなく、魂がこの世界で居場所を見出すための、凍りついた旋律なのです。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "portcullis_castle",
+		"word": "portcullis",
+		"meaning": "落とし格子、格子門",
+		"era": "13th Century",
+		"etymology": {
+			"components": [
+				"porte (door) + coulisse (sliding, literal: 'sliding door')"
+			],
+			"original_statement": "From 13th Century porte (door) + coulisse (sliding, literal: 'sliding door')."
+		},
+		"concept": "A strong, heavy grating that can be lowered vertically of a gateway to a fortified town or castle (重（。厚（。な（。鉄（。の「扉（。ポルテ）が（。、音（。も（。なく（。滑（。り（。落ち（。る（。コリス）」瞬間（。（。一度（。下り（。れ（。ば（。、内（。と（。外（。は（。、永遠（。に（。隔（。て（。られ（。、そこ（。は（。、自給（。自足（。の（。完結（。し（。た（。宇宙（。と（。なり（。ます。)",
+		"thinking": "重（。厚（。な（。鉄（。の「扉（。ポルテ）が（。、音（。も（。なく（。滑（。り（。落ち（。る（。コリス）」瞬間（。（。一度（。下り（。れ（。ば（。、内（。と（。外（。は（。、永遠（。に（。隔（。て（。られ（。、そこ（。は（。、自給（。自足（。の（。完結（。し（。た（。宇宙（。と（。なり（。ます。",
+		"aftertaste": "尖塔の一点は、地上の重力を振り切り、天上の光を直接言葉に変えるための祈りなのです。",
+		"example": "The knights took a final stand at the portcullis, defending the king's chambers until the very end.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "porte",
+					"meaning": "door) + coulisse (sliding, literal: 'sliding door'"
+				}
+			],
+			"points": [
+				"建築とは、ただの空間の仕切りではなく、魂がこの世界で居場所を見出すための、凍りついた旋律なのです。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "battlement_castle",
+		"word": "battlement",
+		"meaning": "城壁の狭間（。はざま（。）」、銃眼（。を備えた（。胸（。壁（。、バトル（。メント",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"bastille (fortification)"
+			],
+			"original_statement": "From 14th Century bastille (fortification)."
+		},
+		"concept": "A parapet at the top of a wall, usually of a castle, or an outer wall with regularly spaced squared openings for shooting through (戦（。い（。のために（。用意（。さ（。れた（。、「ギザ（。ギザ（。の（。壁（。バ（。トル）』。（。その（。隙間（。から（。、誰（。かが（。、今（。も（。、見えない（。敵（。を（。、じっと（。見つめて（。いる（。の（。かも（。しれ（。ません。)",
+		"thinking": "戦（。い（。のために（。用意（。さ（。れた（。、「ギザ（。ギザ（。の（。壁（。バ（。トル）』。（。その（。隙間（。から（。、誰（。かが（。、今（。も（。、見えない（。敵（。を（。、じっと（。見つめて（。いる（。の（。かも（。しれ（。ません。",
+		"aftertaste": "尖塔の一点は、地上の重力を振り切り、天上の光を直接言葉に変えるための祈りなのです。",
+		"example": "The knights took a final stand at the battlement, defending the king's chambers until the very end.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "bastille",
+					"meaning": "fortification"
+				}
+			],
+			"points": [
+				"建築とは、ただの空間の仕切りではなく、魂がこの世界で居場所を見出すための、凍りついた旋律なのです。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "colonnade_castle",
+		"word": "colonnade",
+		"meaning": "コルナード、柱廊、列柱",
+		"era": "18th Century",
+		"etymology": {
+			"components": [
+				"columna (column)"
+			],
+			"original_statement": "From 18th Century columna (column)."
+		},
+		"concept": "A row of columns supporting a roof, an entablature, or a cornice (天を（。支（。える「柱（。コラム）の（。列（。）」。（。規則（。正しい（。その（。垂直（。性（。が（。、カオス（。な（。る（。大地に（。、峻（。烈（。な（。る（。秩序（。を（。もたら（。す（。のですよ。)",
+		"thinking": "天を（。支（。える「柱（。コラム）の（。列（。）」。（。規則（。正しい（。その（。垂直（。性（。が（。、カオス（。な（。る（。大地に（。、峻（。烈（。な（。る（。秩序（。を（。もたら（。す（。のですよ。",
+		"aftertaste": "尖塔の一点は、地上の重力を振り切り、天上の光を直接言葉に変えるための祈りなのです。",
+		"example": "The knights took a final stand at the colonnade, defending the king's chambers until the very end.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "columna",
+					"meaning": "column"
+				}
+			],
+			"points": [
+				"建築とは、ただの空間の仕切りではなく、魂がこの世界で居場所を見出すための、凍りついた旋律なのです。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "nave_castle",
+		"word": "nave",
+		"meaning": "（。教会の（。）」身廊、ネーブ",
+		"era": "17th Century",
+		"etymology": {
+			"components": [
+				"navis (ship)"
+			],
+			"original_statement": "From 17th Century navis (ship)."
+		},
+		"concept": "The central part of a church building, intended to accommodate most of the congregation (人々（。を（。乗せて（。、星の（。海へと（。漕（。ぎ（。出す「巨大な（。船（。ネイヴィ）」。（。その（。高い（。天井（。の（。下（。で（。、私たちは（。、一（。つ（。の（。エナジーへと（。、再び（。、還（。る（。のですよ。)",
+		"thinking": "人々（。を（。乗せて（。、星の（。海へと（。漕（。ぎ（。出す「巨大な（。船（。ネイヴィ）」。（。その（。高い（。天井（。の（。下（。で（。、私たちは（。、一（。つ（。の（。エナジーへと（。、再び（。、還（。る（。のですよ。",
+		"aftertaste": "尖塔の一点は、地上の重力を振り切り、天上の光を直接言葉に変えるための祈りなのです。",
+		"example": "The knights took a final stand at the nave, defending the king's chambers until the very end.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "navis",
+					"meaning": "ship"
+				}
+			],
+			"points": [
+				"建築とは、ただの空間の仕切りではなく、魂がこの世界で居場所を見出すための、凍りついた旋律なのです。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "transept_castle",
+		"word": "transept",
+		"meaning": "（。教会の（。）」袖廊、十字形部分の左右、トランセプト",
+		"era": "16th Century",
+		"etymology": {
+			"components": [
+				"trans- (across) + septum (enclosure, partition)"
+			],
+			"original_statement": "From 16th Century trans- (across) + septum (enclosure, partition)."
+		},
+		"concept": "Either of the two arms of a cross-shaped church, at right angles to the nave (身（。廊（。を「横（。切（。る（。トランス）よう（。に（。置（。かれた（。セプタム）」場所（。（。そこで（。、垂直（。な（。祈り（。と（。水平（。な（。日常が（。、美し（。く（。交差（。し（。、一（。つ（。の（。十字架（。を、描き出す（。のですよ。)",
+		"thinking": "身（。廊（。を「横（。切（。る（。トランス）よう（。に（。置（。かれた（。セプタム）」場所（。（。そこで（。、垂直（。な（。祈り（。と（。水平（。な（。日常が（。、美し（。く（。交差（。し（。、一（。つ（。の（。十字架（。を、描き出す（。のですよ。",
+		"aftertaste": "尖塔の一点は、地上の重力を振り切り、天上の光を直接言葉に変えるための祈りなのです。",
+		"example": "The knights took a final stand at the transept, defending the king's chambers until the very end.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "trans-",
+					"meaning": "across) + septum (enclosure, partition"
+				}
+			],
+			"points": [
+				"建築とは、ただの空間の仕切りではなく、魂がこの世界で居場所を見出すための、凍りついた旋律なのです。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "plaza_castle",
+		"word": "plaza",
+		"meaning": "広場、プラザ、ショッ（。ピ（。ングセンター",
+		"era": "17th Century",
+		"etymology": {
+			"components": [
+				"platea (broad street, literal: 'broad')"
+			],
+			"original_statement": "From 17th Century platea (broad street, literal: 'broad')."
+		},
+		"concept": "A public square, marketplace, or similar open space in a built-up area (建物（。に（。囲（。まれ（。た「広（。い（。プラ）平原（。）」。（。そこ（。には（。、人々（。の（。笑（。い声と（。、一（。時（。の（。安（。ら（。ぎが（。、眩（。しい（。光（。と（。共に（。、満（。ち（。溢（。れて（。いる（。のですよ。)",
+		"thinking": "建物（。に（。囲（。まれ（。た「広（。い（。プラ）平原（。）」。（。そこ（。には（。、人々（。の（。笑（。い声と（。、一（。時（。の（。安（。ら（。ぎが（。、眩（。しい（。光（。と（。共に（。、満（。ち（。溢（。れて（。いる（。のですよ。",
+		"aftertaste": "尖塔の一点は、地上の重力を振り切り、天上の光を直接言葉に変えるための祈りなのです。",
+		"example": "The knights took a final stand at the plaza, defending the king's chambers until the very end.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "platea",
+					"meaning": "broad street, literal: 'broad'"
+				}
+			],
+			"points": [
+				"建築とは、ただの空間の仕切りではなく、魂がこの世界で居場所を見出すための、凍りついた旋律なのです。"
+			]
+		},
+		"part_of_speech": "noun"
 	}
 ];
