@@ -201779,5 +201779,229 @@ const WORDS = [
 			]
 		},
 		"part_of_speech": "noun"
+	},
+	{
+		"id": "magnanimity_emo",
+		"word": "magnanimity",
+		"meaning": "度量の大きさ、寛大さ",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"magnus (great) + animus (mind, spirit)"
+			],
+			"original_statement": "From 14th Century magnus (great) + animus (mind, spirit)."
+		},
+		"concept": "Generosity in forgiving an insult or injury; free from petty resentiveness or vindictiveness (些細（。な（。侮辱（。や（。損害（。を（。飲み込み（。、さらに（。それを（。「巨大（。な（。マグナス）精神（。アニメ）」の（。海で（。中和（。して（。しまう（。、王者の（。ような（。心の（。広さ。)",
+		"thinking": "些細（。な（。侮辱（。や（。損害（。を（。飲み込み（。、さらに（。それを（。「巨大（。な（。マグナス）精神（。アニメ）」の（。海で（。中和（。して（。しまう（。、王者の（。ような（。心の（。広さ。",
+		"aftertaste": "心は、世界という巨大な海を渡るための、唯一の羅針盤です。",
+		"example": "Her presence radiated a sense of absolute magnanimity that comforted everyone around her.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "magnus",
+					"meaning": "great) + animus (mind, spirit"
+				}
+			],
+			"points": [
+				"感情は、魂が奏でる音楽の調べそのものです。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "audacity_emo",
+		"word": "audacity",
+		"meaning": "大胆さ、厚かましさ",
+		"era": "15th Century",
+		"etymology": {
+			"components": [
+				"audere (to dare)"
+			],
+			"original_statement": "From 15th Century audere (to dare)."
+		},
+		"concept": "The willingness to take bold risks (常識（。という（。ブレーキ（。を（。外し（。、未知（。なる（。深淵（。へと「あえて（。オード）挑（。む（。）」、若々（。しい（。魂の（。蛮勇。)",
+		"thinking": "常識（。という（。ブレーキ（。を（。外し（。、未知（。なる（。深淵（。へと「あえて（。オード）挑（。む（。）」、若々（。しい（。魂の（。蛮勇。",
+		"aftertaste": "心は、世界という巨大な海を渡るための、唯一の羅針盤です。",
+		"example": "Her presence radiated a sense of absolute audacity that comforted everyone around her.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "audere",
+					"meaning": "to dare"
+				}
+			],
+			"points": [
+				"感情は、魂が奏でる音楽の調べそのものです。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "modesty_emo",
+		"word": "modesty",
+		"meaning": "控えめな態度、謙虚",
+		"era": "16th Century",
+		"etymology": {
+			"components": [
+				"modus (measure, limit)"
+			],
+			"original_statement": "From 16th Century modus (measure, limit)."
+		},
+		"concept": "The quality or state of being unassuming or moderate in the estimation of one's abilities (自らの（。能力を（。ひけらかさず（。、常に「正しい（。節度（。モード）の（。中に（。）」自らを（。収（。め（。て（。おく（。ことの（。できる（。、大人（。の（。余裕。)",
+		"thinking": "自らの（。能力を（。ひけらかさず（。、常に「正しい（。節度（。モード）の（。中に（。）」自らを（。収（。め（。て（。おく（。ことの（。できる（。、大人（。の（。余裕。",
+		"aftertaste": "心は、世界という巨大な海を渡るための、唯一の羅針盤です。",
+		"example": "Her presence radiated a sense of absolute modesty that comforted everyone around her.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "modus",
+					"meaning": "measure, limit"
+				}
+			],
+			"points": [
+				"感情は、魂が奏でる音楽の調べそのものです。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "temperance_emo",
+		"word": "temperance",
+		"meaning": "節制、自制",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"temperare (to mix, restrain)"
+			],
+			"original_statement": "From 14th Century temperare (to mix, restrain)."
+		},
+		"concept": "Abstinence from objective alcoholic drink (極端（。な（。欲望（。の（。波を（。、理性という（。名の（。冷静（。な（。水で「絶妙に（。混ぜ（。合わせ（。テンパー）」、常に（。安定（。した（。中庸を（。保（。ち（。続ける（。、内なる（。調律。)",
+		"thinking": "極端（。な（。欲望（。の（。波を（。、理性という（。名の（。冷静（。な（。水で「絶妙に（。混ぜ（。合わせ（。テンパー）」、常に（。安定（。した（。中庸を（。保（。ち（。続ける（。、内なる（。調律。",
+		"aftertaste": "心は、世界という巨大な海を渡るための、唯一の羅針盤です。",
+		"example": "Her presence radiated a sense of absolute temperance that comforted everyone around her.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "temperare",
+					"meaning": "to mix, restrain"
+				}
+			],
+			"points": [
+				"感情は、魂が奏でる音楽の調べそのものです。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "veneration_emo",
+		"word": "veneration",
+		"meaning": "尊敬、崇拝",
+		"era": "15th Century",
+		"etymology": {
+			"components": [
+				"venus (love, beauty, charm)"
+			],
+			"original_statement": "From 15th Century venus (love, beauty, charm)."
+		},
+		"concept": "Great respect; reverence (相手の（。内側に（。ある（。聖なる「美（。ヴィーナス）」を（。見出し（。、それ（。に（。対して（。深く（。頭（。を（。下げる（。、魂の（。礼拝。)",
+		"thinking": "相手の（。内側に（。ある（。聖なる「美（。ヴィーナス）」を（。見出し（。、それ（。に（。対して（。深く（。頭（。を（。下げる（。、魂の（。礼拝。",
+		"aftertaste": "心は、世界という巨大な海を渡るための、唯一の羅針盤です。",
+		"example": "Her presence radiated a sense of absolute veneration that comforted everyone around her.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "venus",
+					"meaning": "love, beauty, charm"
+				}
+			],
+			"points": [
+				"感情は、魂が奏でる音楽の調べそのものです。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "ataraxy_emo",
+		"word": "ataraxy",
+		"meaning": "アタラクシア、心の平穏",
+		"era": "17th Century",
+		"etymology": {
+			"components": [
+				"a- (not) + tarassein (to disturb)"
+			],
+			"original_statement": "From 17th Century a- (not) + tarassein (to disturb)."
+		},
+		"concept": "A state of freedom from emotional disturbance and anxiety (感情（。の（。波風を「かき（。乱（。される（。タラッ）ことのない（。ア）」、完全（。なる（。内面の（。静寂（。。（。知性（。による（。、運命（。への（。静かなる（。勝利。)",
+		"thinking": "感情（。の（。波風を「かき（。乱（。される（。タラッ）ことのない（。ア）」、完全（。なる（。内面の（。静寂（。。（。知性（。による（。、運命（。への（。静かなる（。勝利。",
+		"aftertaste": "心は、世界という巨大な海を渡るための、唯一の羅針盤です。",
+		"example": "Her presence radiated a sense of absolute ataraxy that comforted everyone around her.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "a-",
+					"meaning": "not) + tarassein (to disturb"
+				}
+			],
+			"points": [
+				"感情は、魂が奏でる音楽の調べそのものです。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "eudaemonia_emo",
+		"word": "eudaemonia",
+		"meaning": "エウダイモニア、幸福、繁栄",
+		"era": "19th Century",
+		"etymology": {
+			"components": [
+				"eu- (good) + daimon (spirit)"
+			],
+			"original_statement": "From 19th Century eu- (good) + daimon (spirit)."
+		},
+		"concept": "A Greek word commonly translated as happiness or welfare (単なる（。快楽（。では（。なく（。、自らの（。内なる「良（。き（。エウ）霊魂（。ダイモン）」を（。輝（。か（。せ（。、自分（。本来（。の（。使命を（。生（。き（。切って（。いる（。とき（。の（。、深い（。充足感。)",
+		"thinking": "単なる（。快楽（。では（。なく（。、自らの（。内なる「良（。き（。エウ）霊魂（。ダイモン）」を（。輝（。か（。せ（。、自分（。本来（。の（。使命を（。生（。き（。切って（。いる（。とき（。の（。、深い（。充足感。",
+		"aftertaste": "心は、世界という巨大な海を渡るための、唯一の羅針盤です。",
+		"example": "Her presence radiated a sense of absolute eudaemonia that comforted everyone around her.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "eu-",
+					"meaning": "good) + daimon (spirit"
+				}
+			],
+			"points": [
+				"感情は、魂が奏でる音楽の調べそのものです。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "psyche_emo",
+		"word": "psyche",
+		"meaning": "精神、プシュケ、魂",
+		"era": "17th Century",
+		"etymology": {
+			"components": [
+				"psykhein (to breathe)"
+			],
+			"original_statement": "From 17th Century psykhein (to breathe)."
+		},
+		"concept": "The human soul, mind, or spirit (肉体（。の（。中を（。そっと（。通り（。抜（。ける「息（。プシュケ）」のような（。、（。目（。には（。見えない（。けれど（。、そこに（。ある（。、あなた（。を（。あなた（。たらし（。めて（。いる（。中心。)",
+		"thinking": "肉体（。の（。中を（。そっと（。通り（。抜（。ける「息（。プシュケ）」のような（。、（。目（。には（。見えない（。けれど（。、そこに（。ある（。、あなた（。を（。あなた（。たらし（。めて（。いる（。中心。",
+		"aftertaste": "心は、世界という巨大な海を渡るための、唯一の羅針盤です。",
+		"example": "Her presence radiated a sense of absolute psyche that comforted everyone around her.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "psykhein",
+					"meaning": "to breathe"
+				}
+			],
+			"points": [
+				"感情は、魂が奏でる音楽の調べそのものです。"
+			]
+		},
+		"part_of_speech": "noun"
 	}
 ];
