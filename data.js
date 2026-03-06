@@ -195571,5 +195571,61 @@ const WORDS = [
 			]
 		},
 		"part_of_speech": "verb"
+	},
+	{
+		"id": "crest_peak",
+		"word": "Crest",
+		"meaning": "山頂、波頭、(鳥の)冠羽、紋章",
+		"era": "14th Century Latin crista",
+		"etymology": {
+			"components": [
+				"crista (tuft, plume)"
+			],
+			"original_statement": "From Old French creste, from Latin crista (tuft, plume, comb), of unknown origin."
+		},
+		"concept": "Plume on top (「頭上（top）」に 誇り高く 「掲げられた（raised）」 生命の 「象徴（symbol）」)",
+		"thinking": "存在を最大限に主張し、躍動のエネルギーが弾（はじ）ける瞬間を捉えた、目に見える形の「名誉」. 語源は「とさか、羽飾り」. それは 静止した頂点ではなく 波や 生き物のように 常に 動きの中で 生み出される 輝かしい 頂（いただき）です.",
+		"aftertaste": "誇り高き冠. 誰かの顔色を 窺（うかが）わないで. あなたの内側にある 情熱が 頂点（クレスト）に 達したとき あなたは誰にも 真似できない 独自の 存在感（オーラ）を 放つことができるのだから.",
+		"example": "We watched the waves break, their white crests glistening under the light of the setting sun.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "unknown",
+					"meaning": "none"
+				}
+			],
+			"points": [
+				"和製英語の「クレスト（紋章）」の語源。自分の誇りを、形にする力。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "culminate_peak",
+		"word": "Culminate",
+		"meaning": "最高点に達する、ついには〜となる、(天体が)南中する",
+		"era": "17th Century Latin culmen",
+		"etymology": {
+			"components": [
+				"culmen (top, summit)"
+			],
+			"original_statement": "From Latin culminatus, past participle of culminare (to crown), from culmen (top, summit, peak), contraction of columen (pillar, top, summit)."
+		},
+		"concept": "Reaching the crown (「柱（pillar）」のように まっすぐ 「昇り詰め（climb up）」 最高の 「栄誉（crown）」を 得ること)",
+		"thinking": "一過性の爆発ではなく、全てのプロセスが必然として積み重なり、遂にその「意味の完成」へと至る、荘厳なドラマの結末. 語源は「冠、最高点」. それは 物語（人生）が 最も 濃密な 輝きを 放つ 最高の 瞬間を 指しています.",
+		"aftertaste": "完成の予感. 途中の 苦労を 嘆かないで. 全ての 出来事は あなたの人生が「カルミネイト（絶頂）」を 迎えるための 欠かせない 布石（ピース）なのだから.",
+		"example": "Years of research culminated in a groundbreaking discovery that changed the medical field forever.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kel-",
+					"meaning": "to rise, be high, hill"
+				}
+			],
+			"points": [
+				"column（柱）や hill（丘）と同じ。垂直方向への、意志の勝利。"
+			]
+		},
+		"part_of_speech": "verb"
 	}
 ];
