@@ -207659,5 +207659,145 @@ const WORDS = [
 			]
 		},
 		"part_of_speech": "noun"
+	},
+	{
+		"id": "sphinx_mystery",
+		"word": "sphinx",
+		"meaning": "スフィンクス、謎めいた人",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"sphingein (to bind tight, literal: 'strangler')"
+			],
+			"original_statement": "From 14th Century sphingein (to bind tight, literal: 'strangler')."
+		},
+		"concept": "An enigmatic person (立（。ち（。去（。ろ（。う（。と（。する（。者（。を「固く（。繋（。ぎ（。止める（。スフィン）』、謎（。の（。番（。人（。。（。その（。冷（。徹（。な（。る（。問い（。に（。答（。え（。て（。こそ（。、あなた（。は（。、自分（。自身（。の（。限界（。を（。、再（。認識（。する（。のですよ。)",
+		"thinking": "立（。ち（。去（。ろ（。う（。と（。する（。者（。を「固く（。繋（。ぎ（。止める（。スフィン）』、謎（。の（。番（。人（。。（。その（。冷（。徹（。な（。る（。問い（。に（。答（。え（。て（。こそ（。、あなた（。は（。、自分（。自身（。の（。限界（。を（。、再（。認識（。する（。のですよ。",
+		"aftertaste": "謎は、答えを見つけるための障害ではなく、問い続けることそのものに価値がある、聖なる誘いなのです。",
+		"example": "The ancient scrolls were written in an sphinx script that baffled even the most experienced scholars.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sphingein",
+					"meaning": "to bind tight, literal: 'strangler'"
+				}
+			],
+			"points": [
+				"隠されているということは、そこに何かが無いということではなく、語り尽くせないほどの饒舌な真実が溢れているということなのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "sybil_mystery",
+		"word": "sybil",
+		"meaning": "女（。预（。言者、シビル",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"Sibulla (prophetess)"
+			],
+			"original_statement": "From 14th Century Sibulla (prophetess)."
+		},
+		"concept": "A woman in ancient times supposed to be uttered the oracles and prophecies of a god (神（。々の（。囁（。きを（。、身（。を（。呈（。し（。て「降（。ろ（。し（。、言葉に（。変える（。シビ）』存在（。。（。その（。恍（。惚（。と（。した（。沈黙（。の中にこそ（。、未来（。という（。名の（。、眩（。し（。い（。光が（。、宿（。って（。いる（。のですよ。)",
+		"thinking": "神（。々の（。囁（。きを（。、身（。を（。呈（。し（。て「降（。ろ（。し（。、言葉に（。変える（。シビ）』存在（。。（。その（。恍（。惚（。と（。した（。沈黙（。の中にこそ（。、未来（。という（。名の（。、眩（。し（。い（。光が（。、宿（。って（。いる（。のですよ。",
+		"aftertaste": "謎は、答えを見つけるための障害ではなく、問い続けることそのものに価値がある、聖なる誘いなのです。",
+		"example": "The ancient scrolls were written in an sybil script that baffled even the most experienced scholars.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "Sibulla",
+					"meaning": "prophetess"
+				}
+			],
+			"points": [
+				"隠されているということは、そこに何かが無いということではなく、語り尽くせないほどの饒舌な真実が溢れているということなのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "warlock_mystery",
+		"word": "warlock",
+		"meaning": "魔法使い、魔術師、ワーロック",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"wær (faith, oath) + lēogan (to lie, literal: 'oath-breaker')"
+			],
+			"original_statement": "From Old English wær (faith, oath) + lēogan (to lie, literal: 'oath-breaker')."
+		},
+		"concept": "A man who practices witchcraft; a sorcerer (日常（。の「誓（。い（。ワー）を（。破（。り（。ロ）』、禁（。じ（。ら（。れた（。領域を（。歩（。く（。者（。。（。光（。も（。影（。も（。飲（。み（。込（。み（。、自（。分（。だけ（。の（。真実（。を（。創（。り（。出す（。、孤独（。な（。る（。反逆（。者。)",
+		"thinking": "日常（。の「誓（。い（。ワー）を（。破（。り（。ロ）』、禁（。じ（。ら（。れた（。領域を（。歩（。く（。者（。。（。光（。も（。影（。も（。飲（。み（。込（。み（。、自（。分（。だけ（。の（。真実（。を（。創（。り（。出す（。、孤独（。な（。る（。反逆（。者。",
+		"aftertaste": "謎は、答えを見つけるための障害ではなく、問い続けることそのものに価値がある、聖なる誘いなのです。",
+		"example": "The ancient scrolls were written in an warlock script that baffled even the most experienced scholars.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "wær",
+					"meaning": "faith, oath) + lēogan (to lie, literal: 'oath-breaker'"
+				}
+			],
+			"points": [
+				"隠されているということは、そこに何かが無いということではなく、語り尽くせないほどの饒舌な真実が溢れているということなのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "disciple_mystery",
+		"word": "disciple",
+		"meaning": "弟子、門徒、ディサイプル",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"discere (to learn)"
+			],
+			"original_statement": "From Old English discere (to learn)."
+		},
+		"concept": "A personal follower of Jesus during his life, especially one of the twelve Apostles (自（。ら（。の（。エゴ（。を（。捨て（。、ただ「学（。ぶ（。ディシ）こと」を（。選（。んだ（。者（。。（。師（。の（。背中を見（。つ（。め（。な（。がら（。、いつか（。自分（。の（。中（。に（。、眩（。し（。い（。光を（。、見（。出（。す（。のです。)",
+		"thinking": "自（。ら（。の（。エゴ（。を（。捨て（。、ただ「学（。ぶ（。ディシ）こと」を（。選（。んだ（。者（。。（。師（。の（。背中を見（。つ（。め（。な（。がら（。、いつか（。自分（。の（。中（。に（。、眩（。し（。い（。光を（。、見（。出（。す（。のです。",
+		"aftertaste": "謎は、答えを見つけるための障害ではなく、問い続けることそのものに価値がある、聖なる誘いなのです。",
+		"example": "The ancient scrolls were written in an disciple script that baffled even the most experienced scholars.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "discere",
+					"meaning": "to learn"
+				}
+			],
+			"points": [
+				"隠されているということは、そこに何かが無いということではなく、語り尽くせないほどの饒舌な真実が溢れているということなのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "saga_mystery",
+		"word": "saga",
+		"meaning": "サーガ、英雄物語",
+		"era": "18th Century",
+		"etymology": {
+			"components": [
+				"saga (story, literally: 'what is said')"
+			],
+			"original_statement": "From 18th Century saga (story, literally: 'what is said')."
+		},
+		"concept": "A long story of heroic achievement, especially a medieval Icelandic or Norwegian one (何（。代（。にも（。渡（。っ（。て「語（。り（。継（。が（。れた（。サーガ）」、巨大な（。記憶（。の（。連（。なり。（。あなた（。の（。一（。人（。の（。人生を（。越（。え（。た（。場所（。に、真（。の（。物語が（。、横（。たわ（。って（。いる（。のですよ。)",
+		"thinking": "何（。代（。にも（。渡（。っ（。て「語（。り（。継（。が（。れた（。サーガ）」、巨大な（。記憶（。の（。連（。なり。（。あなた（。の（。一（。人（。の（。人生を（。越（。え（。た（。場所（。に、真（。の（。物語が（。、横（。たわ（。って（。いる（。のですよ。",
+		"aftertaste": "謎は、答えを見つけるための障害ではなく、問い続けることそのものに価値がある、聖なる誘いなのです。",
+		"example": "The ancient scrolls were written in an saga script that baffled even the most experienced scholars.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "saga",
+					"meaning": "story, literally: 'what is said'"
+				}
+			],
+			"points": [
+				"隠されているということは、そこに何かが無いということではなく、語り尽くせないほどの饒舌な真実が溢れているということなのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
 	}
 ];
