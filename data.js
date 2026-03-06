@@ -210179,5 +210179,145 @@ const WORDS = [
 			]
 		},
 		"part_of_speech": "noun"
+	},
+	{
+		"id": "veranda_passage",
+		"word": "veranda",
+		"meaning": "ベランダ、縁側、正門の廊下",
+		"era": "18th Century",
+		"etymology": {
+			"components": [
+				"varanda (railing, balustrade, literal: 'fence')"
+			],
+			"original_statement": "From 18th Century varanda (railing, balustrade, literal: 'fence')."
+		},
+		"concept": "A roofed platform along the outside of a house, level with the ground floor (日常（。を（。優（。しく「囲（。う（。ヴァラ）』ための（。、開放（。的な（。る（。回廊（。（。風（。と（。光が（。、自由（。に（。、通（。り（。抜（。ける（。その（。場所（。は、魂の（。、最高（。の（。休息所（。なの（。ですよ。)",
+		"thinking": "日常（。を（。優（。しく「囲（。う（。ヴァラ）』ための（。、開放（。的な（。る（。回廊（。（。風（。と（。光が（。、自由（。に（。、通（。り（。抜（。ける（。その（。場所（。は、魂の（。、最高（。の（。休息所（。なの（。ですよ。",
+		"aftertaste": "通過するということは、何かを失うことではなく、新しい自分を受け入れるための、静かなる儀式なのですよ。",
+		"example": "The mysterious veranda led to a hidden garden that seemed untouched by time for centuries.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "varanda",
+					"meaning": "railing, balustrade, literal: 'fence'"
+				}
+			],
+			"points": [
+				"留まることは安らぎではなく、停滞であり、ただ歩き続けることこそが、唯一の休息なのかもしれません。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "foyer_passage",
+		"word": "foyer",
+		"meaning": "ホワイエ、ロビー、火（。の番（。の（。場所",
+		"era": "19th Century",
+		"etymology": {
+			"components": [
+				"focus (hearth, fireplace, literal: 'hearth')"
+			],
+			"original_statement": "From 19th Century focus (hearth, fireplace, literal: 'hearth')."
+		},
+		"concept": "An entrance hall or other open area in a building used by the public, especially a hotel or theater (かつて（。は「火（。を（。守る（。フォー）』場所（。であった（。、入口（。の（。大（。広間（。（。そこ（。には（。、客（。人を（。迎え（。る（。ための（。、温（。かな（。る（。灯（。が（。、今（。も（。、灯（。っ（。て（。いる（。のですよ。)",
+		"thinking": "かつて（。は「火（。を（。守る（。フォー）』場所（。であった（。、入口（。の（。大（。広間（。（。そこ（。には（。、客（。人を（。迎え（。る（。ための（。、温（。かな（。る（。灯（。が（。、今（。も（。、灯（。っ（。て（。いる（。のですよ。",
+		"aftertaste": "通過するということは、何かを失うことではなく、新しい自分を受け入れるための、静かなる儀式なのですよ。",
+		"example": "The mysterious foyer led to a hidden garden that seemed untouched by time for centuries.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "focus",
+					"meaning": "hearth, fireplace, literal: 'hearth'"
+				}
+			],
+			"points": [
+				"留まることは安らぎではなく、停滞であり、ただ歩き続けることこそが、唯一の休息なのかもしれません。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "lounge_passage",
+		"word": "lounge",
+		"meaning": "ラウンジ、ゆったり座る、休息室",
+		"era": "16th Century",
+		"etymology": {
+			"components": [
+				"Origin uncertain, possibly related to lungern (to idle)"
+			],
+			"original_statement": "From 16th Century Origin uncertain, possibly related to lungern (to idle)."
+		},
+		"concept": "A public room in a hotel, theater, or club, in which to sit and relax (何も（。せ（。ず（。、ただ「静（。か（。に（。微（。睡（。む（。ラウンジ）』ための（。場所（。（。その（。停（。滞（。した（。時間の（。中にこそ（。、真実（。の（。エナジーは（。、充（。填（。さ（。れて（。いく（。のですよ。)",
+		"thinking": "何も（。せ（。ず（。、ただ「静（。か（。に（。微（。睡（。む（。ラウンジ）』ための（。場所（。（。その（。停（。滞（。した（。時間の（。中にこそ（。、真実（。の（。エナジーは（。、充（。填（。さ（。れて（。いく（。のですよ。",
+		"aftertaste": "通過するということは、何かを失うことではなく、新しい自分を受け入れるための、静かなる儀式なのですよ。",
+		"example": "The mysterious lounge led to a hidden garden that seemed untouched by time for centuries.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "Origin",
+					"meaning": "uncertain, possibly related to lungern (to idle"
+				}
+			],
+			"points": [
+				"留まることは安らぎではなく、停滞であり、ただ歩き続けることこそが、唯一の休息なのかもしれません。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "loft_passage",
+		"word": "loft",
+		"meaning": "ロフト、屋根裏部屋、高み",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"loft (air, sky, literal: 'sky, height')"
+			],
+			"original_statement": "From Old English loft (air, sky, literal: 'sky, height')."
+		},
+		"concept": "A room or space directly under the roof of a house or other building, used for accommodation or storage (天上（。の「空（。ロフト）』に（。最も（。近（。い（。場所（。（。日常（。を（。眼下に（。見（。下（。し（。、ただ（。光（。だけを（。迎（。え（。入れる（。、孤独（。な（。る（。高み（。です。)",
+		"thinking": "天上（。の「空（。ロフト）』に（。最も（。近（。い（。場所（。（。日常（。を（。眼下に（。見（。下（。し（。、ただ（。光（。だけを（。迎（。え（。入れる（。、孤独（。な（。る（。高み（。です。",
+		"aftertaste": "通過するということは、何かを失うことではなく、新しい自分を受け入れるための、静かなる儀式なのですよ。",
+		"example": "The mysterious loft led to a hidden garden that seemed untouched by time for centuries.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "loft",
+					"meaning": "air, sky, literal: 'sky, height'"
+				}
+			],
+			"points": [
+				"留まることは安らぎではなく、停滞であり、ただ歩き続けることこそが、唯一の休息なのかもしれません。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "penthouse_passage",
+		"word": "penthouse",
+		"meaning": "ペントハウス、屋上家屋",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"apreidre (to attach) + haus (house, literal: 'appended house')"
+			],
+			"original_statement": "From 14th Century apreidre (to attach) + haus (house, literal: 'appended house')."
+		},
+		"concept": "An apartment on the top floor of a tall building (巨大（。な（。要（。塞の上に「そっと（。添え（。られた（。ペン（。ト）家（。ハウス）』。（。その（。峻（。烈（。な（。る（。孤立の中に（。、至高（。の（。自由が（。、宿（。って（。いる（。のですよ。)",
+		"thinking": "巨大（。な（。要（。塞の上に「そっと（。添え（。られた（。ペン（。ト）家（。ハウス）』。（。その（。峻（。烈（。な（。る（。孤立の中に（。、至高（。の（。自由が（。、宿（。って（。いる（。のですよ。",
+		"aftertaste": "通過するということは、何かを失うことではなく、新しい自分を受け入れるための、静かなる儀式なのですよ。",
+		"example": "The mysterious penthouse led to a hidden garden that seemed untouched by time for centuries.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "apreidre",
+					"meaning": "to attach) + haus (house, literal: 'appended house'"
+				}
+			],
+			"points": [
+				"留まることは安らぎではなく、停滞であり、ただ歩き続けることこそが、唯一の休息なのかもしれません。"
+			]
+		},
+		"part_of_speech": "noun"
 	}
 ];
