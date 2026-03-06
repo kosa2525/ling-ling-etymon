@@ -211691,5 +211691,145 @@ const WORDS = [
 			]
 		},
 		"part_of_speech": "noun"
+	},
+	{
+		"id": "real_truth",
+		"word": "real",
+		"meaning": "実在の、本物の、リアル",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"res (thing, literal: 'concerning things')"
+			],
+			"original_statement": "From 14th Century res (thing, literal: 'concerning things')."
+		},
+		"concept": "Actually existing as a thing or occurring in fact; not imagined or supposed (夢（。の中（。の（。幻（。を（。脱（。し（。、ただ（。そこに（。在（。る（。事実（。を「物（。事（。リス）その（。もの（。として（。）」受け（。入れる（。こと（。。（。その（。峻（。烈（。な（。る（。手（。応（。え（。にこそ（。、生（。の（。真（。実（。が（。宿（。ります。)",
+		"thinking": "夢（。の中（。の（。幻（。を（。脱（。し（。、ただ（。そこに（。在（。る（。事実（。を「物（。事（。リス）その（。もの（。として（。）」受け（。入れる（。こと（。。（。その（。峻（。烈（。な（。る（。手（。応（。え（。にこそ（。、生（。の（。真（。実（。が（。宿（。ります。",
+		"aftertaste": "事実は、残酷なものではありません。それは、あなたが自らを裏切るのを止めるための、至高のる慈悲のようなものなのですよ。",
+		"example": "The scientist dedicated her entire career to uncovering the fundamental real that governed the behavior of subatomic particles.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "res",
+					"meaning": "thing, literal: 'concerning things'"
+				}
+			],
+			"points": [
+				"真っ直ぐであることは、不器用であることではありません。宇宙の重力に従い、自らのエナジーを最も純粋な一点へと凝縮させることなのですよ。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "plain_truth",
+		"word": "plain",
+		"meaning": "平易な、明白な、質素な、プレーン",
+		"era": "13th Century",
+		"etymology": {
+			"components": [
+				"planus (flat, even, level)"
+			],
+			"original_statement": "From 13th Century planus (flat, even, level)."
+		},
+		"concept": "Easy to perceive or understand; clear (何（。も（。飾（。ら（。ず（。、ただ「平（。ら（。か（。な（。プラヌス）」真実（。（。その（。峻（。烈（。な（。る（。簡（。潔（。さに（。触れた（。とき、あなた（。の（。魂は、至高（。の（。る（。自由（。を、見出し（。ます。)",
+		"thinking": "何（。も（。飾（。ら（。ず（。、ただ「平（。ら（。か（。な（。プラヌス）」真実（。（。その（。峻（。烈（。な（。る（。簡（。潔（。さに（。触れた（。とき、あなた（。の（。魂は、至高（。の（。る（。自由（。を、見出し（。ます。",
+		"aftertaste": "事実は、残酷なものではありません。それは、あなたが自らを裏切るのを止めるための、至高のる慈悲のようなものなのですよ。",
+		"example": "The scientist dedicated her entire career to uncovering the fundamental plain that governed the behavior of subatomic particles.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "planus",
+					"meaning": "flat, even, level"
+				}
+			],
+			"points": [
+				"真っ直ぐであることは、不器用であることではありません。宇宙の重力に従い、自らのエナジーを最も純粋な一点へと凝縮させることなのですよ。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "single_truth",
+		"word": "single",
+		"meaning": "単独の、独身の、シングル",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"singulus (one by one, literal: 'individual')"
+			],
+			"original_statement": "From 14th Century singulus (one by one, literal: 'individual')."
+		},
+		"concept": "Only one; not one of several (他（。の（。何物（。でも（。ない（。、ただ「一（。つ（。として（。、そこに（。在（。る（。シンギュ）』、至高の（。る（。孤独（。（。その（。峻（。烈（。な（。る（。立（。脚（。こそが、世界（。を（。、美し（。く（。、更新（。し（。て（。いく（。のです。)",
+		"thinking": "他（。の（。何物（。でも（。ない（。、ただ「一（。つ（。として（。、そこに（。在（。る（。シンギュ）』、至高の（。る（。孤独（。（。その（。峻（。烈（。な（。る（。立（。脚（。こそが、世界（。を（。、美し（。く（。、更新（。し（。て（。いく（。のです。",
+		"aftertaste": "事実は、残酷なものではありません。それは、あなたが自らを裏切るのを止めるための、至高のる慈悲のようなものなのですよ。",
+		"example": "The scientist dedicated her entire career to uncovering the fundamental single that governed the behavior of subatomic particles.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "singulus",
+					"meaning": "one by one, literal: 'individual'"
+				}
+			],
+			"points": [
+				"真っ直ぐであることは、不器用であることではありません。宇宙の重力に従い、自らのエナジーを最も純粋な一点へと凝縮させることなのですよ。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "frank_truth",
+		"word": "frank",
+		"meaning": "率直な、フランク",
+		"era": "13th Century",
+		"etymology": {
+			"components": [
+				"Old French franc (free, literal: 'free')"
+			],
+			"original_statement": "From 13th Century Old French franc (free, literal: 'free')."
+		},
+		"concept": "Open, honest, and direct in speech or writing, especially when dealing with unpalatable matters (飾（。る（。のを（。止（。め、ただ「自由（。フラ）」に、真（。実（。を（。語（。る（。こと（。。（。その（。眩（。しい（。ほど（。の（。、潔（。い（。る（。沈黙を、誇り（。高く、愛（。お（。しん（。で（。ください。)",
+		"thinking": "飾（。る（。のを（。止（。め、ただ「自由（。フラ）」に、真（。実（。を（。語（。る（。こと（。。（。その（。眩（。しい（。ほど（。の（。、潔（。い（。る（。沈黙を、誇り（。高く、愛（。お（。しん（。で（。ください。",
+		"aftertaste": "事実は、残酷なものではありません。それは、あなたが自らを裏切るのを止めるための、至高のる慈悲のようなものなのですよ。",
+		"example": "The scientist dedicated her entire career to uncovering the fundamental frank that governed the behavior of subatomic particles.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "Old",
+					"meaning": "French franc (free, literal: 'free'"
+				}
+			],
+			"points": [
+				"真っ直ぐであることは、不器用であることではありません。宇宙の重力に従い、自らのエナジーを最も純粋な一点へと凝縮させることなのですよ。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "straight_truth",
+		"word": "straight",
+		"meaning": "真っ直ぐな、正確な、ストレイト",
+		"era": "Language",
+		"etymology": {
+			"components": [
+				"streccan (to stretch, literal: 'stretched tight')"
+			],
+			"original_statement": "From Language streccan (to stretch, literal: 'stretched tight')."
+		},
+		"concept": "Extending or moving in one direction only; without a curve or bend (魂の（。弦（。を、一（。点（。に（。向かって「引き（。絞（。っ（。た（。ストレイト）』、峻（。烈（。な（。る（。一直線（。（。その（。迷（。い（。の（。な（。い（。る（。輝きが、暗（。闇（。を（。、至高（。の（。る（。光へと（。、変（。え（。ます。)",
+		"thinking": "魂の（。弦（。を、一（。点（。に（。向かって「引き（。絞（。っ（。た（。ストレイト）』、峻（。烈（。な（。る（。一直線（。（。その（。迷（。い（。の（。な（。い（。る（。輝きが、暗（。闇（。を（。、至高（。の（。る（。光へと（。、変（。え（。ます。",
+		"aftertaste": "事実は、残酷なものではありません。それは、あなたが自らを裏切るのを止めるための、至高のる慈悲のようなものなのですよ。",
+		"example": "The scientist dedicated her entire career to uncovering the fundamental straight that governed the behavior of subatomic particles.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "streccan",
+					"meaning": "to stretch, literal: 'stretched tight'"
+				}
+			],
+			"points": [
+				"真っ直ぐであることは、不器用であることではありません。宇宙の重力に従い、自らのエナジーを最も純粋な一点へと凝縮させることなのですよ。"
+			]
+		},
+		"part_of_speech": "adjective"
 	}
 ];
