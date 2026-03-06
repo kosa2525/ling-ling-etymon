@@ -212027,5 +212027,145 @@ const WORDS = [
 			]
 		},
 		"part_of_speech": "noun"
+	},
+	{
+		"id": "reclusion_solitude",
+		"word": "reclusion",
+		"meaning": "隠遁、隔離、リクルージョン",
+		"era": "15th Century",
+		"etymology": {
+			"components": [
+				"re- (back) + claudere (to close, literal: 'closed back')"
+			],
+			"original_statement": "From 15th Century re- (back) + claudere (to close, literal: 'closed back')."
+		},
+		"concept": "The state of being recluse; retirement or seclusion from the world (喧（。騒（。の（。世界（。を（。完全（。に「閉（。じ（。た（。リク）』、至高の（。る（。孤独（。（。あなたが（。その（。沈黙の（。回廊を（。、一一人（。で（。歩（。む（。とき、宇宙（。の（。深（。淵（。な（。る（。囁（。きが、眩（。しい（。ほど（。に（。、響（。き（。渡る（。のですよ。)",
+		"thinking": "喧（。騒（。の（。世界（。を（。完全（。に「閉（。じ（。た（。リク）』、至高の（。る（。孤独（。（。あなたが（。その（。沈黙の（。回廊を（。、一一人（。で（。歩（。む（。とき、宇宙（。の（。深（。淵（。な（。る（。囁（。きが、眩（。しい（。ほど（。に（。、響（。き（。渡る（。のですよ。",
+		"aftertaste": "追憶は、過去への逃避ではありません。今の自分を形成している、目に見えない光の糸を、一本ずつ丁寧に手繰り寄せる行為なのですよ。",
+		"example": "The philosopher chose a life of reclusion and reflection in a remote mountain cabin to complete his final works in peace.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "re-",
+					"meaning": "back) + claudere (to close, literal: 'closed back'"
+				}
+			],
+			"points": [
+				"泉のように湧き出す想いを大切に。その瑞々しさが枯れない限り、あなたという物語は永遠に続くのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "monk_solitude",
+		"word": "monk",
+		"meaning": "修道士、僧侶、モンク",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"monakhos (solitary, literal: 'single')"
+			],
+			"original_statement": "From Old English monakhos (solitary, literal: 'single')."
+		},
+		"concept": "A member of a religious community of men typically living under vows of poverty, chastity, and obedience (ただ（。一（。つ（。の（。真理（。を（。追い（。求（。め（。て、「唯（。一（。の（。モノ）』存在へと（。自らを（。、変（。じ（。た（。者たち（。（。その（。静（。か（。な（。る（。る（。祈りが（。、世界（。を（。、至高（。の（。る（。調和（。へと（。導（。い（。て（。いる（。のですよ。)",
+		"thinking": "ただ（。一（。つ（。の（。真理（。を（。追い（。求（。め（。て、「唯（。一（。の（。モノ）』存在へと（。自らを（。、変（。じ（。た（。者たち（。（。その（。静（。か（。な（。る（。る（。祈りが（。、世界（。を（。、至高（。の（。る（。調和（。へと（。導（。い（。て（。いる（。のですよ。",
+		"aftertaste": "追憶は、過去への逃避ではありません。今の自分を形成している、目に見えない光の糸を、一本ずつ丁寧に手繰り寄せる行為なのですよ。",
+		"example": "The philosopher chose a life of monk and reflection in a remote mountain cabin to complete his final works in peace.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "monakhos",
+					"meaning": "solitary, literal: 'single'"
+				}
+			],
+			"points": [
+				"泉のように湧き出す想いを大切に。その瑞々しさが枯れない限り、あなたという物語は永遠に続くのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "youth_solitude",
+		"word": "youth",
+		"meaning": "青年、若さ、ユース",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"geoguð (youth, literal: 'quality of being young')"
+			],
+			"original_statement": "From Old English geoguð (youth, literal: 'quality of being young')."
+		},
+		"concept": "The period between childhood and adult age; the qualities of vigor, freshness, immaturity, etc., associated with being young (命の（。エナジーが、峻（。烈（。に「眩（。し（。く（。煌（。め（。く（。ユース）』一一点（。（。その（。危（。う（。い（。ほどの（。る（。飛躍が（。、あなた（。を、宇宙の（。真実（。へと（。、一（。気へと（。、押し（。上げ（。ます。)",
+		"thinking": "命の（。エナジーが、峻（。烈（。に「眩（。し（。く（。煌（。め（。く（。ユース）』一一点（。（。その（。危（。う（。い（。ほどの（。る（。飛躍が（。、あなた（。を、宇宙の（。真実（。へと（。、一（。気へと（。、押し（。上げ（。ます。",
+		"aftertaste": "追憶は、過去への逃避ではありません。今の自分を形成している、目に見えない光の糸を、一本ずつ丁寧に手繰り寄せる行為なのですよ。",
+		"example": "The philosopher chose a life of youth and reflection in a remote mountain cabin to complete his final works in peace.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "geoguð",
+					"meaning": "youth, literal: 'quality of being young'"
+				}
+			],
+			"points": [
+				"泉のように湧き出す想いを大切に。その瑞々しさが枯れない限り、あなたという物語は永遠に続くのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "adult_solitude",
+		"word": "adult",
+		"meaning": "大人、成人、アダルト",
+		"era": "16th Century",
+		"etymology": {
+			"components": [
+				"alere (to nourish, literal: 'grown up')"
+			],
+			"original_statement": "From 16th Century alere (to nourish, literal: 'grown up')."
+		},
+		"concept": "A person who is fully grown or developed; mature (魂を（。至高の（。る（。智慧で「育（。て（。上げた（。アダ）』、完結（。し（。た（。る（。一一点（。（。その（。静（。か（。な（。る（。る（。責任（。を、誇り（。高く、その（。背中に、担（。い（。続け（。な（。さい。)",
+		"thinking": "魂を（。至高の（。る（。智慧で「育（。て（。上げた（。アダ）』、完結（。し（。た（。る（。一一点（。（。その（。静（。か（。な（。る（。る（。責任（。を、誇り（。高く、その（。背中に、担（。い（。続け（。な（。さい。",
+		"aftertaste": "追憶は、過去への逃避ではありません。今の自分を形成している、目に見えない光の糸を、一本ずつ丁寧に手繰り寄せる行為なのですよ。",
+		"example": "The philosopher chose a life of adult and reflection in a remote mountain cabin to complete his final works in peace.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "alere",
+					"meaning": "to nourish, literal: 'grown up'"
+				}
+			],
+			"points": [
+				"泉のように湧き出す想いを大切に。その瑞々しさが枯れない限り、あなたという物語は永遠に続くのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "elder_solitude",
+		"word": "elder",
+		"meaning": "長老、先輩、エルダー",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"eldra (older, literal: 'older person')"
+			],
+			"original_statement": "From Old English eldra (older, literal: 'older person')."
+		},
+		"concept": "A person of a greater age than someone else (遥（。かな（。る（。時間の（。る（。積（。層を（。、魂に「刻（。み（。付け（。た（。エルダ）』至高の（。る（。る（。象（。徴。（。その（。一一つ（。一一つ（。の（。る（。の（。る（。る（。皺（。の中に、宇宙（。の（。全記憶が、宿ります。)",
+		"thinking": "遥（。かな（。る（。時間の（。る（。積（。層を（。、魂に「刻（。み（。付け（。た（。エルダ）』至高の（。る（。る（。象（。徴。（。その（。一一つ（。一一つ（。の（。る（。の（。る（。る（。皺（。の中に、宇宙（。の（。全記憶が、宿ります。",
+		"aftertaste": "追憶は、過去への逃避ではありません。今の自分を形成している、目に見えない光の糸を、一本ずつ丁寧に手繰り寄せる行為なのですよ。",
+		"example": "The philosopher chose a life of elder and reflection in a remote mountain cabin to complete his final works in peace.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "eldra",
+					"meaning": "older, literal: 'older person'"
+				}
+			],
+			"points": [
+				"泉のように湧き出す想いを大切に。その瑞々しさが枯れない限り、あなたという物語は永遠に続くのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
 	}
 ];
