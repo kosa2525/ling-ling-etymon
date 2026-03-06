@@ -213539,5 +213539,33 @@ const WORDS = [
 			]
 		},
 		"part_of_speech": "noun"
+	},
+	{
+		"id": "sound_mirror_iv",
+		"word": "sound",
+		"meaning": "音、健全な、サウンド",
+		"era": "13th Century",
+		"etymology": {
+			"components": [
+				"sonus (sound)"
+			],
+			"original_statement": "From 13th Century sonus (sound)."
+		},
+		"concept": "Vibrations that travel through the air or another medium and can be heard when they reach a person's or animal's ear (宇宙を（。峻（。烈（。に「一（。点（。に（。凝縮（。させた（。ソヌス）』、至高の（。る（。生命（。鼓動（。（。その（。眩（。し（。い（。ほどに（。る（。る（。る（。響（。き（。を（。、全身で（。、誇り（。高く、受け（。止めて（。ください。)",
+		"thinking": "宇宙を（。峻（。烈（。に「一（。点（。に（。凝縮（。させた（。ソヌス）』、至高の（。る（。生命（。鼓動（。（。その（。眩（。し（。い（。ほどに（。る（。る（。る（。響（。き（。を（。、全身で（。、誇り（。高く、受け（。止めて（。ください。",
+		"aftertaste": "こだまは、過去の音ではない。それは、あなたの発した祈りが、世界の壁を叩き、より大きな共鳴となってあなたの元へと還ってきた、祝福の形式なのですよ。",
+		"example": "The tranquil surface of the mountain lake acted as a perfect natural sound, duplicating the azure sky and the snow-capped peaks with breathtaking clarity.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sonus",
+					"meaning": "sound"
+				}
+			],
+			"points": [
+				"音が消えた後の静寂を愛してください。そこにこそ、真実の響きが今も余韻として漂っているのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
 	}
 ];
