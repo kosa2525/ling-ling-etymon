@@ -191699,5 +191699,397 @@ const WORDS = [
 			]
 		},
 		"part_of_speech": "verb"
+	},
+	{
+		"id": "ruminate_mind",
+		"word": "ruminate",
+		"meaning": "反芻する、思い返す",
+		"era": "16th Century",
+		"etymology": {
+			"components": [
+				"ruminare (to chew the cud)"
+			],
+			"original_statement": "From 16th Century ruminare (to chew the cud)."
+		},
+		"concept": "Think deeply about something (牛が草を噛み返すように、過去の出来事や言葉を二度も三度も噛み砕き、その真意を自らの血肉へと変えること。)",
+		"thinking": "牛が草を噛み返すように、過去の出来事や言葉を二度も三度も噛み砕き、その真意を自らの血肉へと変えること。",
+		"aftertaste": "他人から投げられたトゲのある言葉を「ルミネート（ずっと反芻）」して自分を傷つけるのはやめましょう。",
+		"example": "It is important to ruminate deeply on this matter.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ruminare",
+					"meaning": "to chew the cud"
+				}
+			],
+			"points": [
+				"私たちが世界を認識し、理解するための心のフィルターの数々。"
+			]
+		},
+		"part_of_speech": "verb"
+	},
+	{
+		"id": "deliberate_mind",
+		"word": "deliberate",
+		"meaning": "よく考える、意図的な",
+		"era": "15th Century",
+		"etymology": {
+			"components": [
+				"deliberare (to weigh well)"
+			],
+			"original_statement": "From 15th Century deliberare (to weigh well)."
+		},
+		"concept": "Engage in long consideration (感情の波に流されず、全ての起こり得る結果を客観的かつ冷徹に計算し尽くして石橋を叩くこと。)",
+		"thinking": "感情の波に流されず、全ての起こり得る結果を客観的かつ冷徹に計算し尽くして石橋を叩くこと。",
+		"aftertaste": "「デリバレイト（慎重で意図的）」な優しさは、時に天然の優しさよりも相手を深く救います。",
+		"example": "It is important to deliberate deeply on this matter.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "deliberare",
+					"meaning": "to weigh well"
+				}
+			],
+			"points": [
+				"私たちが世界を認識し、理解するための心のフィルターの数々。"
+			]
+		},
+		"part_of_speech": "verb"
+	},
+	{
+		"id": "surmise_mind",
+		"word": "surmise",
+		"meaning": "推測する、推測",
+		"era": "15th Century",
+		"etymology": {
+			"components": [
+				"surmise (an accusation)"
+			],
+			"original_statement": "From 15th Century surmise (an accusation)."
+		},
+		"concept": "Suppose something is true without evidence (確たる証拠が何もない荒野の中に、直感と経験だけを頼りに真実の城を「打ち立てる」勇敢な（あるいは無謀な）仮説。)",
+		"thinking": "確たる証拠が何もない荒野の中に、直感と経験だけを頼りに真実の城を「打ち立てる」勇敢な（あるいは無謀な）仮説。",
+		"aftertaste": "「サーマイズ（憶測）」だけで他人を裁くのは、自らの器の小ささを示す行為です。",
+		"example": "It is important to surmise deeply on this matter.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "surmise",
+					"meaning": "an accusation"
+				}
+			],
+			"points": [
+				"私たちが世界を認識し、理解するための心のフィルターの数々。"
+			]
+		},
+		"part_of_speech": "verb"
+	},
+	{
+		"id": "reckon_mind",
+		"word": "reckon",
+		"meaning": "計算する、推測する",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"gerecenian (to explain, recount)"
+			],
+			"original_statement": "From Old English gerecenian (to explain, recount)."
+		},
+		"concept": "Consider or think (直感と理性を両立させ、自分の中の「計算書」と照らし合わせて最終的な判断を下す、地に足の着いた判断。)",
+		"thinking": "直感と理性を両立させ、自分の中の「計算書」と照らし合わせて最終的な判断を下す、地に足の着いた判断。",
+		"aftertaste": "私は彼が絶対にやり遂げると「レコン（信じて見なす）」しています。",
+		"example": "It is important to reckon deeply on this matter.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "gerecenian",
+					"meaning": "to explain, recount"
+				}
+			],
+			"points": [
+				"私たちが世界を認識し、理解するための心のフィルターの数々。"
+			]
+		},
+		"part_of_speech": "verb"
+	},
+	{
+		"id": "appraise_mind",
+		"word": "appraise",
+		"meaning": "鑑定する、評価する",
+		"era": "16th Century",
+		"etymology": {
+			"components": [
+				"apprisen (to set a value on)"
+			],
+			"original_statement": "From 16th Century apprisen (to set a value on)."
+		},
+		"concept": "Assess the value or quality of (美術品や宝石の価値を見定めるように、対象の稀少性や真贋を専門的な眼差しで的確に見極める高い知性。)",
+		"thinking": "美術品や宝石の価値を見定めるように、対象の稀少性や真贋を専門的な眼差しで的確に見極める高い知性。",
+		"aftertaste": "あなたという存在の価値は、誰かに「アプレイズ（査定）」される筋合いのものではありません。",
+		"example": "It is important to appraise deeply on this matter.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "apprisen",
+					"meaning": "to set a value on"
+				}
+			],
+			"points": [
+				"私たちが世界を認識し、理解するための心のフィルターの数々。"
+			]
+		},
+		"part_of_speech": "verb"
+	},
+	{
+		"id": "assess_mind",
+		"word": "assess",
+		"meaning": "評価する、査定する",
+		"era": "15th Century",
+		"etymology": {
+			"components": [
+				"assessare (to fix a tax upon)"
+			],
+			"original_statement": "From 15th Century assessare (to fix a tax upon)."
+		},
+		"concept": "Evaluate or estimate the nature, ability, or quality of (対象の隣に「座り込んで」、その性質や影響力を時間をかけてじっくりと感じ取り、正確に見積もること。)",
+		"thinking": "対象の隣に「座り込んで」、その性質や影響力を時間をかけてじっくりと感じ取り、正確に見積もること。",
+		"aftertaste": "自分に何ができるかを冷静に「アセス（見積もる）」できれば、不要な失敗は避けられます。",
+		"example": "It is important to assess deeply on this matter.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "assessare",
+					"meaning": "to fix a tax upon"
+				}
+			],
+			"points": [
+				"私たちが世界を認識し、理解するための心のフィルターの数々。"
+			]
+		},
+		"part_of_speech": "verb"
+	},
+	{
+		"id": "hindsight_mind",
+		"word": "hindsight",
+		"meaning": "後知恵、あとになっての判断",
+		"era": "19th Century",
+		"etymology": {
+			"components": [
+				"hind + sight"
+			],
+			"original_statement": "From 19th Century hind + sight."
+		},
+		"concept": "Understanding of a situation or event only after it has happened (すべての結果が出揃った後から「後ろを振り返って」初めて見える、遅すぎて時に残酷な真実の視界。)",
+		"thinking": "すべての結果が出揃った後から「後ろを振り返って」初めて見える、遅すぎて時に残酷な真実の視界。",
+		"aftertaste": "「ハインドサイト（後知恵）」で過去の自分を責めるのは不公平です。あの時は最善を尽くしたのだから。",
+		"example": "It is important to hindsight deeply on this matter.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "hind",
+					"meaning": "+ sight"
+				}
+			],
+			"points": [
+				"私たちが世界を認識し、理解するための心のフィルターの数々。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "foresight_mind",
+		"word": "foresight",
+		"meaning": "先見の明",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"fore + sight"
+			],
+			"original_statement": "From 14th Century fore + sight."
+		},
+		"concept": "Ability to predict what will happen or be needed in the future (まだ見ぬ未来の出来事を、現在から「前方に視線を投げて」正確に予測し、備えを整える賢者の視力。)",
+		"thinking": "まだ見ぬ未来の出来事を、現在から「前方に視線を投げて」正確に予測し、備えを整える賢者の視力。",
+		"aftertaste": "「フォーサイト（先見性）」のあるリーダーは、嵐が来る前に静かに船の補強を終えています。",
+		"example": "It is important to foresight deeply on this matter.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "fore",
+					"meaning": "+ sight"
+				}
+			],
+			"points": [
+				"私たちが世界を認識し、理解するための心のフィルターの数々。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "sane_mind",
+		"word": "sane",
+		"meaning": "正気な、まともな",
+		"era": "17th Century",
+		"etymology": {
+			"components": [
+				"sanus (healthy)"
+			],
+			"original_statement": "From 17th Century sanus (healthy)."
+		},
+		"concept": "Of sound mind; not mad or mentally ill (極端な狂気や幻想に陥らず、現実社会と「健康」な関係を保ち続けることができるバランスの取れた精神状態。)",
+		"thinking": "極端な狂気や幻想に陥らず、現実社会と「健康」な関係を保ち続けることができるバランスの取れた精神状態。",
+		"aftertaste": "この狂った世界で「セイン（まとも）」であり続けるためには、時には適度に狂ってみせる柔軟さも必要です。",
+		"example": "It is important to sane deeply on this matter.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sanus",
+					"meaning": "healthy"
+				}
+			],
+			"points": [
+				"私たちが世界を認識し、理解するための心のフィルターの数々。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "insane_mind",
+		"word": "insane",
+		"meaning": "狂気の、常軌を逸した",
+		"era": "16th Century",
+		"etymology": {
+			"components": [
+				"insanus (unhealthy, mad)"
+			],
+			"original_statement": "From 16th Century insanus (unhealthy, mad)."
+		},
+		"concept": "In a state of mind which prevents normal perception, behavior (現実の鎖を完全に断ち切り、「健康」という常識概念を超越して果てしない妄想や狂熱の宇宙へと旅立ってしまった魂。)",
+		"thinking": "現実の鎖を完全に断ち切り、「健康」という常識概念を超越して果てしない妄想や狂熱の宇宙へと旅立ってしまった魂。",
+		"aftertaste": "天才と呼ばれる人たちの発想は、ほとんどの場合、凡人から見れば「インセイン（狂っている）」ものです。",
+		"example": "It is important to insane deeply on this matter.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "insanus",
+					"meaning": "unhealthy, mad"
+				}
+			],
+			"points": [
+				"私たちが世界を認識し、理解するための心のフィルターの数々。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "gullible_mind",
+		"word": "gullible",
+		"meaning": "だまされやすい",
+		"era": "19th Century",
+		"etymology": {
+			"components": [
+				"gull (to cheat)"
+			],
+			"original_statement": "From 19th Century gull (to cheat)."
+		},
+		"concept": "Easily persuaded to believe something (相手（あるいは鳥のヒナ）のように、喉に見せられたものを何の疑いもなく丸ごと飲み込んでしまう、悲しいほどの素直さ。)",
+		"thinking": "相手（あるいは鳥のヒナ）のように、喉に見せられたものを何の疑いもなく丸ごと飲み込んでしまう、悲しいほどの素直さ。",
+		"aftertaste": "「ガリブル（騙されやすい）」なのは愚かだからではなく、他者を信じたいという優しい願いの現れです。",
+		"example": "It is important to gullible deeply on this matter.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "gull",
+					"meaning": "to cheat"
+				}
+			],
+			"points": [
+				"私たちが世界を認識し、理解するための心のフィルターの数々。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "skeptical_mind",
+		"word": "skeptical",
+		"meaning": "懐疑的な",
+		"era": "17th Century",
+		"etymology": {
+			"components": [
+				"skeptikos (inquiring, reflecting)"
+			],
+			"original_statement": "From 17th Century skeptikos (inquiring, reflecting)."
+		},
+		"concept": "Not easily convinced; having doubts (安易に信じることを拒否し、自ら深く「探求し、観察する」ことでのみ真実に到達しようとする厳しい知性の姿勢。)",
+		"thinking": "安易に信じることを拒否し、自ら深く「探求し、観察する」ことでのみ真実に到達しようとする厳しい知性の姿勢。",
+		"aftertaste": "新しい情報には常に「スケプティカル（懐疑的）」にかまえることで、騙されるリスクを最小限に抑えられます。",
+		"example": "It is important to skeptical deeply on this matter.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "skeptikos",
+					"meaning": "inquiring, reflecting"
+				}
+			],
+			"points": [
+				"私たちが世界を認識し、理解するための心のフィルターの数々。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "shrewd_mind",
+		"word": "shrewd",
+		"meaning": "抜け目のない、鋭い",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"shrewe (evil person, scolding woman)"
+			],
+			"original_statement": "From 14th Century shrewe (evil person, scolding woman)."
+		},
+		"concept": "Having or showing sharp powers of judgment (かつては「悪意のある」とされたほど、状況や人間の弱点を鋭く見抜き、自らの利益のために完璧に状況を操る鋭敏さ。)",
+		"thinking": "かつては「悪意のある」とされたほど、状況や人間の弱点を鋭く見抜き、自らの利益のために完璧に状況を操る鋭敏さ。",
+		"aftertaste": "ビジネスの世界を生き抜くには、時には「シュルード（抜け目がなく鋭い）」な判断力を持たなければなりません。",
+		"example": "It is important to shrewd deeply on this matter.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "shrewe",
+					"meaning": "evil person, scolding woman"
+				}
+			],
+			"points": [
+				"私たちが世界を認識し、理解するための心のフィルターの数々。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "astute_mind",
+		"word": "astute",
+		"meaning": "機敏な、抜け目のない",
+		"era": "17th Century",
+		"etymology": {
+			"components": [
+				"astutus (clever, cunning)"
+			],
+			"original_statement": "From 17th Century astutus (clever, cunning)."
+		},
+		"concept": "Having an ability to accurately assess situations (都市の狡猾さを生き抜く力。周囲の微細な変化を誰よりも早く察知し、自分に最も有利な一手を一瞬で導き出す洗練された感覚。)",
+		"thinking": "都市の狡猾さを生き抜く力。周囲の微細な変化を誰よりも早く察知し、自分に最も有利な一手を一瞬で導き出す洗練された感覚。",
+		"aftertaste": "彼女の「アスチュート（本質を見抜いて素早い）」な洞察力のおかげで、チームは重大な危機を回避できました。",
+		"example": "It is important to astute deeply on this matter.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "astutus",
+					"meaning": "clever, cunning"
+				}
+			],
+			"points": [
+				"私たちが世界を認識し、理解するための心のフィルターの数々。"
+			]
+		},
+		"part_of_speech": "adjective"
 	}
 ];
