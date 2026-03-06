@@ -195401,5 +195401,117 @@ const WORDS = [
 			]
 		},
 		"part_of_speech": "noun"
+	},
+	{
+		"id": "aquiline_bird",
+		"word": "Aquiline",
+		"meaning": "ワシのような、(鼻が)鷲鼻(わしばな)の、鋭い",
+		"era": "17th Century Latin aquila",
+		"etymology": {
+			"components": [
+				"aquila (eagle)"
+			],
+			"original_statement": "From Latin aquilinus (of or pertaining to an eagle), from aquila (eagle)."
+		},
+		"concept": "Like an eagle (「鷲（eagle）」のように 「気高さ（nobility）」と 「鋭利さ（sharpness）」を 備えた 意志の形)",
+		"thinking": "地上の喧騒を見下ろし、一点の曇りもない視線で獲物（真実）を射抜く、圧倒的な尊厳と強さ. 語源は「鷲」. それは 妥協を排し、常に高みを目指そうとする 誇り高い魂の 輪郭（シルエット）でもあります. 鋭さは、誠実さの一つの形です.",
+		"aftertaste": "高潔なる視線. 群れの中に 埋もれないで. あなたの内側にある その「アキライン（鷲のような）」 鋭い知性を信じ 誰よりも高く、自由に 未来の空を 舞い上がってゆくのだから.",
+		"example": "He had a striking aquiline nose that gave him an air of natural authority and wisdom.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ak-",
+					"meaning": "sharp"
+				}
+			],
+			"points": [
+				"acute（鋭い）や acid（酸っぱい）と同じ。存在を射抜く力のルーツ。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "aviary_bird",
+		"word": "Aviary",
+		"meaning": "鳥舎、(大規模な)鳥類飼育場",
+		"era": "16th Century Latin avis",
+		"etymology": {
+			"components": [
+				"avis (bird)"
+			],
+			"original_statement": "From Latin aviarium (place for birds), from avis (bird)."
+		},
+		"concept": "Place for birds (「鳥（bird）」という 「飛翔（flight）」の 可能性を 「守り、育む（nurture）」 聖なる 空間)",
+		"thinking": "無限の空へと飛び立つための準備を整え、羽を休みめ、歌を練習するための、安全で慈悲深いシェルター. 語源は「鳥の場所」. それは 物理的な檻ではなく 可能性が 溢れ出すのを じっと待っている 聖なる 待合室（ウェイトルーム）のような 存在です.",
+		"aftertaste": "飛翔の揺籃. あなたの心の中に 聖なる「アビアリー（鳥舎）」を 持とう. 夢を 丁寧に育てることで 世界を驚かせる 最高の歌が いつか 響き渡ることになるのだから.",
+		"example": "The hotel featured a stunning glass aviary in the lobby, filled with exotic tropical birds.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "awi-",
+					"meaning": "bird"
+				}
+			],
+			"points": [
+				"aviation（航空）や avian（鳥の）と同じ。重力を超える知性のルーツ。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "plumage_bird",
+		"word": "Plumage",
+		"meaning": "羽毛、(鳥の)全羽、(人の)華やかな衣装",
+		"era": "14th Century Latin pluma",
+		"etymology": {
+			"components": [
+				"pluma (feather, down)"
+			],
+			"original_statement": "From Old French plumage, from plume (feather), from Latin pluma (feather, down, soft feather)."
+		},
+		"concept": "Collection of feathers (「羽（feather）」が 幾重にも 重なり合い 「美しさ（beauty）」と 「守護（protection）」を 纏う（まとう）こと)",
+		"thinking": "単なる装飾ではなく、空を飛ぶための機能（風を捉える力）と、自分を表現するための色彩が、完璧に融合した「生命の鎧」. 語源は「羽の集まり」. それは あなたがこの世界で 生き抜くための 誇り高い「看板」であり 慈愛に満ちた 柔らかな 防壁でもあります.",
+		"aftertaste": "彩りの鎧. 自分の美しさを 隠さないで. あなただけの 独自の「プルメージ（羽装）」を 存分に誇示することで 世界はもっと 豊かな色彩と 喜びに 満たされてゆくのだから.",
+		"example": "In certain bird species, the male develops much brighter plumage to attract a potential mate.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "pleus-",
+					"meaning": "to pluck, puff, blow"
+				}
+			],
+			"points": [
+				"plume（羽、煙の柱）と同じ。軽やかに、しかし確固として 存在を主張する力。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "migration_bird",
+		"word": "Migration",
+		"meaning": "移住、移動、(鳥などの)渡り、(データの)移行",
+		"era": "16th Century Latin migrare",
+		"etymology": {
+			"components": [
+				"migrare (to move from one place to another)"
+			],
+			"original_statement": "From Latin migrationem (a removal, change of abode), from migrare (to move, shift, migrate)."
+		},
+		"concept": "Action of moving (「今いる場所（here）」に 執着せず 「未知の約束の地（there）」へと 命を 運ぶ 壮大な 旅)",
+		"thinking": "安全な現状を捨て 星や 風の導きに従って 何千キロもの 孤独な 旅路へと 身を投じる 究極の「信頼」のアクション. 語源は「移動すること」. それは 生き延びるための 本能的な 知恵であり 未だ見ぬ 新しい自分（季節）を 探し求めて 絶え間なく 変容し続ける 生命の 宿命です.",
+		"aftertaste": "約束の旅路. 変化を 恐れないで. あなたの魂という 鳥が「マイグレーション（渡り）」を 始めたとき 宇宙は必ず 追い風を 送り 新しい 楽園へと 導いてくれるのだから.",
+		"example": "The annual migration of monarch butterflies is one of nature's most incredible and mysterious displays.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "mei-",
+					"meaning": "to change, go, move"
+				}
+			],
+			"points": [
+				"mutable（変わりやすい）や transmute（変質させる）と同じ。不変への抵抗。"
+			]
+		},
+		"part_of_speech": "noun"
 	}
 ];
