@@ -213035,5 +213035,61 @@ const WORDS = [
 			]
 		},
 		"part_of_speech": "noun"
+	},
+	{
+		"id": "gloss_radiance_ii",
+		"word": "gloss",
+		"meaning": "光沢、注釈、グロス",
+		"era": "16th Century",
+		"etymology": {
+			"components": [
+				"glōssa (tongue, word requiring explanation, literal: 'explanation')"
+			],
+			"original_statement": "From 16th Century glōssa (tongue, word requiring explanation, literal: 'explanation')."
+		},
+		"concept": "A shiny substance applied to the surface of something to give it a pleasing or attractive appearance (意味（。の（。皮（。膜を、峻（。烈（。な（。る「解（。釈（。グロス）』で、美し（。く（。装飾（。する（。こと（。（。その（。眩（。し（。い（。ほど（。に（。る（。滑（。らか（。さが、あなた（。を、真理（。へと（。導（。き（。ます。)",
+		"thinking": "意味（。の（。皮（。膜を、峻（。烈（。な（。る「解（。釈（。グロス）』で、美し（。く（。装飾（。する（。こと（。（。その（。眩（。し（。い（。ほど（。に（。る（。滑（。らか（。さが、あなた（。を、真理（。へと（。導（。き（。ます。",
+		"aftertaste": "艶を磨くことは、自分を偽ることではない。自らがこの宇宙の一部として、どれほど美しく調和できるかという、至高のる挑戦なのですよ。",
+		"example": "The historical artifacts were carefully restored to their original gloss, revealing the intricate craftsmanship of the ancient artisans.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "glōssa",
+					"meaning": "tongue, word requiring explanation, literal: 'explanation'"
+				}
+			],
+			"points": [
+				"磨き抜かれた一点は、宇宙全体の光を反射します。あなたという存在も、一滴の雫のように、世界を美しく写しだすことができるのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "polish_radiance_ii",
+		"word": "polish",
+		"meaning": "磨く、洗練、ポリッシュ",
+		"era": "13th Century",
+		"etymology": {
+			"components": [
+				"polire (to smooth, literal: 'to make smooth')"
+			],
+			"original_statement": "From 13th Century polire (to smooth, literal: 'to make smooth')."
+		},
+		"concept": "Make the surface of something smooth and shiny by rubbing it (日常の（。濁（。りを、峻（。烈（。な（。る（。る「研（。磨（。ポリ）』で、一（。つ（。ずつ、削（。ぎ（。落（。と（。す（。こと（。（。その（。静（。か（。な（。る（。る（。一一点の（。透明（。をを、誇り（。高く、手（。に（。入れて（。ください。)",
+		"thinking": "日常の（。濁（。りを、峻（。烈（。な（。る（。る「研（。磨（。ポリ）』で、一（。つ（。ずつ、削（。ぎ（。落（。と（。す（。こと（。（。その（。静（。か（。な（。る（。る（。一一点の（。透明（。をを、誇り（。高く、手（。に（。入れて（。ください。",
+		"aftertaste": "艶を磨くことは、自分を偽ることではない。自らがこの宇宙の一部として、どれほど美しく調和できるかという、至高のる挑戦なのですよ。",
+		"example": "The historical artifacts were carefully restored to their original polish, revealing the intricate craftsmanship of the ancient artisans.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "polire",
+					"meaning": "to smooth, literal: 'to make smooth'"
+				}
+			],
+			"points": [
+				"磨き抜かれた一点は、宇宙全体の光を反射します。あなたという存在も、一滴の雫のように、世界を美しく写しだすことができるのですよ。"
+			]
+		},
+		"part_of_speech": "verb"
 	}
 ];
