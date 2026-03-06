@@ -201499,5 +201499,285 @@ const WORDS = [
 			]
 		},
 		"part_of_speech": "noun"
+	},
+	{
+		"id": "oligarchy_soc",
+		"word": "oligarchy",
+		"meaning": "寡頭（かとう）政治",
+		"era": "16th Century",
+		"etymology": {
+			"components": [
+				"oligos (few) + arkhein (to rule)"
+			],
+			"original_statement": "From 16th Century oligos (few) + arkhein (to rule)."
+		},
+		"concept": "A small group of people having control of a country, organization, or institution (民衆（。を（。嘲笑（。し（。、特権（。を（。分け（。合う「少数の（。オリゴ）権力者（。アーク）」による（。、閉鎖（。的（。な（。支配（。。（。血（。と（。利権（。で（。固められた（。、変化（。を（。拒む（。権威。)",
+		"thinking": "民衆（。を（。嘲笑（。し（。、特権（。を（。分け（。合う「少数の（。オリゴ）権力者（。アーク）」による（。、閉鎖（。的（。な（。支配（。。（。血（。と（。利権（。で（。固められた（。、変化（。を（。拒む（。権威。",
+		"aftertaste": "社会とは、孤独な魂たちが寄り添って作り上げた、巨大な物語の集積です。",
+		"example": "The country's political oligarchy has undergone significant changes in recent years.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "oligos",
+					"meaning": "few) + arkhein (to rule"
+				}
+			],
+			"points": [
+				"秩序は、混沌を愛という名の毛布で包み込んだ結果です。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "federal_soc",
+		"word": "federal",
+		"meaning": "連邦の、同盟の",
+		"era": "17th Century",
+		"etymology": {
+			"components": [
+				"foedus (league, treaty, compact)"
+			],
+			"original_statement": "From 17th Century foedus (league, treaty, compact)."
+		},
+		"concept": "Relating to or denoting the central government of a federation (独立（。した（。個々（。の（。意志（。が（。、「信頼（。フィデス）という（。結び（。目（。）」によって（。一つ（。に（。繋（。が（。り（。、巨大（。な（。共同体（。へと（。進展（。した（。、知的な（。連帯の（。形。)",
+		"thinking": "独立（。した（。個々（。の（。意志（。が（。、「信頼（。フィデス）という（。結び（。目（。）」によって（。一つ（。に（。繋（。が（。り（。、巨大（。な（。共同体（。へと（。進展（。した（。、知的な（。連帯の（。形。",
+		"aftertaste": "社会とは、孤独な魂たちが寄り添って作り上げた、巨大な物語の集積です。",
+		"example": "The country's political federal has undergone significant changes in recent years.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "foedus",
+					"meaning": "league, treaty, compact"
+				}
+			],
+			"points": [
+				"秩序は、混沌を愛という名の毛布で包み込んだ結果です。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "municipal_soc",
+		"word": "municipal",
+		"meaning": "地方自治体の、市制の",
+		"era": "16th Century",
+		"etymology": {
+			"components": [
+				"munia (duties) + capere (to take up)"
+			],
+			"original_statement": "From 16th Century munia (duties) + capere (to take up)."
+		},
+		"concept": "Relating to a city or town or its governing body (遠（。い（。中心（。に（。頼（。らず（。、自ら（。の（。街の（。課題（。を「自分（。たちの（。崇高な（。義務（。ミューニア）として（。取（。り（。上げ（。る（。）」、最も（。身近（。な（。自律（。の（。輝き。)",
+		"thinking": "遠（。い（。中心（。に（。頼（。らず（。、自ら（。の（。街の（。課題（。を「自分（。たちの（。崇高な（。義務（。ミューニア）として（。取（。り（。上げ（。る（。）」、最も（。身近（。な（。自律（。の（。輝き。",
+		"aftertaste": "社会とは、孤独な魂たちが寄り添って作り上げた、巨大な物語の集積です。",
+		"example": "The country's political municipal has undergone significant changes in recent years.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "munia",
+					"meaning": "duties) + capere (to take up"
+				}
+			],
+			"points": [
+				"秩序は、混沌を愛という名の毛布で包み込んだ結果です。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "civic_soc",
+		"word": "civic",
+		"meaning": "市民の、公民の",
+		"era": "16th Century",
+		"etymology": {
+			"components": [
+				"civis (citizen)"
+			],
+			"original_statement": "From 16th Century civis (citizen)."
+		},
+		"concept": "Relating to a city or town, especially its administration; municipal (ただの（。居住者（。では（。なく（。、社会（。という（。建物（。の（。一部を「担（。う者（。シヴィス）」としての（。自覚（。と（。、公的（。な（。美徳（。への（。献身。)",
+		"thinking": "ただの（。居住者（。では（。なく（。、社会（。という（。建物（。の（。一部を「担（。う者（。シヴィス）」としての（。自覚（。と（。、公的（。な（。美徳（。への（。献身。",
+		"aftertaste": "社会とは、孤独な魂たちが寄り添って作り上げた、巨大な物語の集積です。",
+		"example": "The country's political civic has undergone significant changes in recent years.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "civis",
+					"meaning": "citizen"
+				}
+			],
+			"points": [
+				"秩序は、混沌を愛という名の毛布で包み込んだ結果です。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "pluralism_soc",
+		"word": "pluralism",
+		"meaning": "複数主義、多様性",
+		"era": "17th Century",
+		"etymology": {
+			"components": [
+				"plus (more)"
+			],
+			"original_statement": "From 17th Century plus (more)."
+		},
+		"concept": "A condition or system in which two or more states, groups, principles, sources of authority, etc., coexist (一（。つの（。正解（。へと（。他者を（。暴力（。的に（。染める（。のを（。止め（。、「より（。多く（。プルス）の（。価値観」が（。共生（。する（。ことを（。喜（。び（。、豊かさ（。を（。受け（。入（。れよう（。とする（。、知性の（。寛容。)",
+		"thinking": "一（。つの（。正解（。へと（。他者を（。暴力（。的に（。染める（。のを（。止め（。、「より（。多く（。プルス）の（。価値観」が（。共生（。する（。ことを（。喜（。び（。、豊かさ（。を（。受け（。入（。れよう（。とする（。、知性の（。寛容。",
+		"aftertaste": "社会とは、孤独な魂たちが寄り添って作り上げた、巨大な物語の集積です。",
+		"example": "The country's political pluralism has undergone significant changes in recent years.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "plus",
+					"meaning": "more"
+				}
+			],
+			"points": [
+				"秩序は、混沌を愛という名の毛布で包み込んだ結果です。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "consensuses_soc",
+		"word": "consensuses",
+		"meaning": "合意、コンセンサス",
+		"era": "19th Century",
+		"etymology": {
+			"components": [
+				"com- (together) + sentire (to feel)"
+			],
+			"original_statement": "From 19th Century com- (together) + sentire (to feel)."
+		},
+		"concept": "A general agreement (言葉（。による（。説得（。を（。超え（。、全員（。が「共に（。コン）感じ（。セン）取り（。）」、深い（。納得（。の（。うちに（。、一つの（。方向（。へと（。魂（。が（。向き（。揃（。う（。、調和（。の（。瞬間。)",
+		"thinking": "言葉（。による（。説得（。を（。超え（。、全員（。が「共に（。コン）感じ（。セン）取り（。）」、深い（。納得（。の（。うちに（。、一つの（。方向（。へと（。魂（。が（。向き（。揃（。う（。、調和（。の（。瞬間。",
+		"aftertaste": "社会とは、孤独な魂たちが寄り添って作り上げた、巨大な物語の集積です。",
+		"example": "The country's political consensuses has undergone significant changes in recent years.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "com-",
+					"meaning": "together) + sentire (to feel"
+				}
+			],
+			"points": [
+				"秩序は、混沌を愛という名の毛布で包み込んだ結果です。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "coalition_soc",
+		"word": "coalition",
+		"meaning": "連合、提携、連立",
+		"era": "17th Century",
+		"etymology": {
+			"components": [
+				"com- (together) + alescere (to grow)"
+			],
+			"original_statement": "From 17th Century com- (together) + alescere (to grow)."
+		},
+		"concept": "An alliance for combined action, especially a temporary alliance of political parties forming a government or of states (敵（。対（。して（。いた（。者（。同士が（。、共通の（。目標（。を（。求めて「共に（。コン）育（。ち（。アリ）始める（。）」、ダイナミック（。で（。戦略的な（。、一時的（。な（。融合。)",
+		"thinking": "敵（。対（。して（。いた（。者（。同士が（。、共通の（。目標（。を（。求めて「共に（。コン）育（。ち（。アリ）始める（。）」、ダイナミック（。で（。戦略的な（。、一時的（。な（。融合。",
+		"aftertaste": "社会とは、孤独な魂たちが寄り添って作り上げた、巨大な物語の集積です。",
+		"example": "The country's political coalition has undergone significant changes in recent years.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "com-",
+					"meaning": "together) + alescere (to grow"
+				}
+			],
+			"points": [
+				"秩序は、混沌を愛という名の毛布で包み込んだ結果です。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "partisan_soc",
+		"word": "partisan",
+		"meaning": "熱心な支持者、党派心の強い、パルチザン",
+		"era": "16th Century",
+		"etymology": {
+			"components": [
+				"part (part, share)"
+			],
+			"original_statement": "From 16th Century part (part, share)."
+		},
+		"concept": "A strong supporter of a party, cause, or person (全体（。を（。見る（。視力（。を（。一時（。的に（。捨て（。、自らが「分け（。られた（。パート）一部」で（。ある（。ことを（。誇（。り（。に（。し（。、特定（。の（。旗（。の（。ために（。身（。を（。投（。じる（。、狂熱（。の（。忠誠。)",
+		"thinking": "全体（。を（。見る（。視力（。を（。一時（。的に（。捨て（。、自らが「分け（。られた（。パート）一部」で（。ある（。ことを（。誇（。り（。に（。し（。、特定（。の（。旗（。の（。ために（。身（。を（。投（。じる（。、狂熱（。の（。忠誠。",
+		"aftertaste": "社会とは、孤独な魂たちが寄り添って作り上げた、巨大な物語の集積です。",
+		"example": "The country's political partisan has undergone significant changes in recent years.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "part",
+					"meaning": "part, share"
+				}
+			],
+			"points": [
+				"秩序は、混沌を愛という名の毛布で包み込んだ結果です。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "espionage_soc",
+		"word": "espionage",
+		"meaning": "スパイ活動、間諜",
+		"era": "18th Century",
+		"etymology": {
+			"components": [
+				"espion (spy)"
+			],
+			"original_statement": "From 18th Century espion (spy)."
+		},
+		"concept": "The practice of spying or of using spies, typically by governments, to obtain political and military information (公的（。な（。顔の（。裏側（。で（。、沈黙（。の（。闇を（。、「見（。張（。る（。エスパイ）」こと（。。（。情報（。という（。名の（。毒（。を（。抽出（。し（。、国家（。の（。運命（。を（。歪（。める（。、見えない（。手の（。動き。)",
+		"thinking": "公的（。な（。顔の（。裏側（。で（。、沈黙（。の（。闇を（。、「見（。張（。る（。エスパイ）」こと（。。（。情報（。という（。名の（。毒（。を（。抽出（。し（。、国家（。の（。運命（。を（。歪（。める（。、見えない（。手の（。動き。",
+		"aftertaste": "社会とは、孤独な魂たちが寄り添って作り上げた、巨大な物語の集積です。",
+		"example": "The country's political espionage has undergone significant changes in recent years.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "espion",
+					"meaning": "spy"
+				}
+			],
+			"points": [
+				"秩序は、混沌を愛という名の毛布で包み込んだ結果です。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "surveillance_soc",
+		"word": "surveillance",
+		"meaning": "監視、サーベイランス",
+		"era": "19th Century",
+		"etymology": {
+			"components": [
+				"sur- (over) + veiller (to watch)"
+			],
+			"original_statement": "From 19th Century sur- (over) + veiller (to watch)."
+		},
+		"concept": "Close observation, especially of a suspected spy or criminal (全ての（。行動を（。、「上（。シュール）から（。見つめ（。ヴェ）続ける（。）」、逃（。げ（。場（。の（。ない（。まなざし（。。（。安全法（。という（。名の（。檻（。と（。、自由（。という（。名の（。砂漠。)",
+		"thinking": "全ての（。行動を（。、「上（。シュール）から（。見つめ（。ヴェ）続ける（。）」、逃（。げ（。場（。の（。ない（。まなざし（。。（。安全法（。という（。名の（。檻（。と（。、自由（。という（。名の（。砂漠。",
+		"aftertaste": "社会とは、孤独な魂たちが寄り添って作り上げた、巨大な物語の集積です。",
+		"example": "The country's political surveillance has undergone significant changes in recent years.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sur-",
+					"meaning": "over) + veiller (to watch"
+				}
+			],
+			"points": [
+				"秩序は、混沌を愛という名の毛布で包み込んだ結果です。"
+			]
+		},
+		"part_of_speech": "noun"
 	}
 ];
