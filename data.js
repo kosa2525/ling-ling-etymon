@@ -195367,5 +195367,145 @@ const WORDS = [
 			]
 		},
 		"part_of_speech": "noun"
+	},
+	{
+		"id": "fluorescence_glow",
+		"word": "fluorescence",
+		"meaning": "蛍光",
+		"era": "19th Century",
+		"etymology": {
+			"components": [
+				"fluorite (a mineral)"
+			],
+			"original_statement": "From 19th Century fluorite (a mineral)."
+		},
+		"concept": "The visible or invisible radiation emitted by certain substances as a result of incident radiation of a shorter wavelength (外部から目に見えないエネルギーを受け取り、それを独自の毒々しくも魅力的な「極彩色の光」へと変換して反射する自己主張。)",
+		"thinking": "外部から目に見えないエネルギーを受け取り、それを独自の毒々しくも魅力的な「極彩色の光」へと変換して反射する自己主張。",
+		"aftertaste": "サイバーパンクな街並みに輝く「フルオレッセンス（蛍光色）」の看板は、眠らない欲望のサインです。",
+		"example": "I was mesmerized by its fluorescence.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "fluorite",
+					"meaning": "a mineral"
+				}
+			],
+			"points": [
+				"光の色や性質を区別することは、感受性の解像度を上げることです。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "bioluminescence_glow",
+		"word": "bioluminescence",
+		"meaning": "生物発光",
+		"era": "20th Century",
+		"etymology": {
+			"components": [
+				"bios (life) + luminescence"
+			],
+			"original_statement": "From 20th Century bios (life) + luminescence."
+		},
+		"concept": "The biochemical emission of light by living organisms (電気でも太陽でもなく、自らの体内で化学物質を調合し、暗黒の深海や夜空に生命の「意志の光」を灯す奇跡のメカニズム。)",
+		"thinking": "電気でも太陽でもなく、自らの体内で化学物質を調合し、暗黒の深海や夜空に生命の「意志の光」を灯す奇跡のメカニズム。",
+		"aftertaste": "ホタルの「バイオルミネッセンス（生命の光）」は、短い夏だけ開かれる光の儚いオーケストラです。",
+		"example": "I was mesmerized by its bioluminescence.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "bios",
+					"meaning": "life) + luminescence"
+				}
+			],
+			"points": [
+				"光の色や性質を区別することは、感受性の解像度を上げることです。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "opalescence_glow",
+		"word": "opalescence",
+		"meaning": "オパール光沢、乳白色の輝き",
+		"era": "19th Century",
+		"etymology": {
+			"components": [
+				"opalus (opal)"
+			],
+			"original_statement": "From 19th Century opalus (opal)."
+		},
+		"concept": "Exhibiting a milky iridescence like that of an opal (乳白色のベールの内部で、青やピンクの柔らかな光が雲の奥から差し込む太陽のように「ぼんやりと乱反射」する神秘性。)",
+		"thinking": "乳白色のベールの内部で、青やピンクの柔らかな光が雲の奥から差し込む太陽のように「ぼんやりと乱反射」する神秘性。",
+		"aftertaste": "朝霧に包まれた湖面は「オパレッセンス（乳白色の虹彩）」を放ち、現実世界を幻想のフィルムでおおいます。",
+		"example": "I was mesmerized by its opalescence.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "opalus",
+					"meaning": "opal"
+				}
+			],
+			"points": [
+				"光の色や性質を区別することは、感受性の解像度を上げることです。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "coruscation_glow",
+		"word": "coruscation",
+		"meaning": "きらめき、ひらめき",
+		"era": "15th Century",
+		"etymology": {
+			"components": [
+				"coruscare (to flash)"
+			],
+			"original_statement": "From 15th Century coruscare (to flash)."
+		},
+		"concept": "A sudden gleam or flash of light (ダイヤモンドが光を浴びたときのように、鋭く、鋭角的に「無数の閃光」をパラパラと周囲に弾き飛ばす硬質な美しさ。)",
+		"thinking": "ダイヤモンドが光を浴びたときのように、鋭く、鋭角的に「無数の閃光」をパラパラと周囲に弾き飛ばす硬質な美しさ。",
+		"aftertaste": "彼の天才的なアイデアは、退屈な会話の中で時折「コーラスケーション（鋭い閃光）」を放ち、場を魅了しました。",
+		"example": "I was mesmerized by its coruscation.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "coruscare",
+					"meaning": "to flash"
+				}
+			],
+			"points": [
+				"光の色や性質を区別することは、感受性の解像度を上げることです。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "scintillation_glow",
+		"word": "scintillation",
+		"meaning": "火花を散らすこと、才気煥発",
+		"era": "17th Century",
+		"etymology": {
+			"components": [
+				"scintilla (spark)"
+			],
+			"original_statement": "From 17th Century scintilla (spark)."
+		},
+		"concept": "A flash or sparkle of light (星の瞬きのように、チカチカと不規則に「細かく明滅」を繰り返し、対象の存在を捉えどころのない魅力的なものにする光のダンス。)",
+		"thinking": "星の瞬きのように、チカチカと不規則に「細かく明滅」を繰り返し、対象の存在を捉えどころのない魅力的なものにする光のダンス。",
+		"aftertaste": "ワイングラスの中で弾ける「シンティレーション（繊細な煌めき）」のように、私たちの会話もずっと美しく続きました。",
+		"example": "I was mesmerized by its scintillation.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "scintilla",
+					"meaning": "spark"
+				}
+			],
+			"points": [
+				"光の色や性質を区別することは、感受性の解像度を上げることです。"
+			]
+		},
+		"part_of_speech": "noun"
 	}
 ];
