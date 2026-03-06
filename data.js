@@ -195199,5 +195199,173 @@ const WORDS = [
 			]
 		},
 		"part_of_speech": "verb"
+	},
+	{
+		"id": "spin_fabric",
+		"word": "spin",
+		"meaning": "紡ぐ、回転する",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"spinnan (to draw out and twist fibers into thread)"
+			],
+			"original_statement": "From Old English spinnan (to draw out and twist fibers into thread)."
+		},
+		"concept": "Draw out and twist the fibers of wool, cotton, or other material to convert them into yarn (混沌とした羊毛の塊から、指先の回転と祈りのような繊細な引っ張りによって、一本の連続した「意味の糸」を引き出す原初の魔法。)",
+		"thinking": "混沌とした羊毛の塊から、指先の回転と祈りのような繊細な引っ張りによって、一本の連続した「意味の糸」を引き出す原初の魔法。",
+		"aftertaste": "おとぎ話の「スピン（糸紡ぎ）」の音が、過去から未来への途切れない物語を語り継いできたのです。",
+		"example": "I watched her gracefully spin the fabric.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "spinnan",
+					"meaning": "to draw out and twist fibers into thread"
+				}
+			],
+			"points": [
+				"布を織り、修繕する行為は、人間関係や歴史のメタファーです。"
+			]
+		},
+		"part_of_speech": "verb"
+	},
+	{
+		"id": "stitch_fabric",
+		"word": "stitch",
+		"meaning": "縫う、ひと針",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"stician (to stick, pierce)"
+			],
+			"original_statement": "From Old English stician (to stick, pierce)."
+		},
+		"concept": "Make, mend, or join something with stitches (布同士の隙間に鋭い針を「深く突き刺し」、糸を強引に通すことで二つの異なる端を縫合し、破れを愛で塞ぐ痛みを伴う修復。)",
+		"thinking": "布同士の隙間に鋭い針を「深く突き刺し」、糸を強引に通すことで二つの異なる端を縫合し、破れを愛で塞ぐ痛みを伴う修復。",
+		"aftertaste": "大笑いしすぎてお腹が「スティッチ（チクチク痛む）」のは、一番幸せな病気の症状です。",
+		"example": "I watched her gracefully stitch the fabric.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "stician",
+					"meaning": "to stick, pierce"
+				}
+			],
+			"points": [
+				"布を織り、修繕する行為は、人間関係や歴史のメタファーです。"
+			]
+		},
+		"part_of_speech": "verb"
+	},
+	{
+		"id": "sew_fabric",
+		"word": "sew",
+		"meaning": "縫う",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"siwian (to sew, mend)"
+			],
+			"original_statement": "From Old English siwian (to sew, mend)."
+		},
+		"concept": "Join, fasten, or repair something by making stitches with a needle and thread (ほころんだものを「一つの完全なる布地」へと修復し、着る者を風や冷たい視線から守る包容力を持った手作業。)",
+		"thinking": "ほころんだものを「一つの完全なる布地」へと修復し、着る者を風や冷たい視線から守る包容力を持った手作業。",
+		"aftertaste": "「ソウ（縫い合わせて修繕する）」されたぬいぐるみは、買ったばかりの新品よりも遥かに温かい魂を持っています。",
+		"example": "I watched her gracefully sew the fabric.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "siwian",
+					"meaning": "to sew, mend"
+				}
+			],
+			"points": [
+				"布を織り、修繕する行為は、人間関係や歴史のメタファーです。"
+			]
+		},
+		"part_of_speech": "verb"
+	},
+	{
+		"id": "embroider_fabric",
+		"word": "embroider",
+		"meaning": "刺繍する、話を誇張する",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"brouder (to embroider)"
+			],
+			"original_statement": "From 14th Century brouder (to embroider)."
+		},
+		"concept": "Decorate cloth by sewing patterns on it with thread (無地の退屈な布をキャンバスに見立て、色とりどりの糸で「本来そこになかった」新しい花や生命を幻術のように縫い付ける飾り立て。)",
+		"thinking": "無地の退屈な布をキャンバスに見立て、色とりどりの糸で「本来そこになかった」新しい花や生命を幻術のように縫い付ける飾り立て。",
+		"aftertaste": "事実を少しだけ「エンブロイダー（刺繍して誇張する）」して語る彼の昔話は、嘘だとしても魅力的で憎めません。",
+		"example": "I watched her gracefully embroider the fabric.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "brouder",
+					"meaning": "to embroider"
+				}
+			],
+			"points": [
+				"布を織り、修繕する行為は、人間関係や歴史のメタファーです。"
+			]
+		},
+		"part_of_speech": "verb"
+	},
+	{
+		"id": "patch_fabric",
+		"word": "patch",
+		"meaning": "継ぎ当て、つぎはぎ",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"pacche (piece of cloth)"
+			],
+			"original_statement": "From 14th Century pacche (piece of cloth)."
+		},
+		"concept": "A piece of cloth or other material used to mend or strengthen a torn or weak point (完璧な布が破れたとき、同じ布ではなく「あえて異なる布（色）」を当てて穴を塞ぎ、傷跡を新しいデザインとして肯定する生き方。)",
+		"thinking": "完璧な布が破れたとき、同じ布ではなく「あえて異なる布（色）」を当てて穴を塞ぎ、傷跡を新しいデザインとして肯定する生き方。",
+		"aftertaste": "お気に入りのジーンズに作られたいくつもの「パッチ（継ぎ接ぎ）」は、ともに歩んだ誇り高き勲章です。",
+		"example": "I watched her gracefully patch the fabric.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "pacche",
+					"meaning": "piece of cloth"
+				}
+			],
+			"points": [
+				"布を織り、修繕する行為は、人間関係や歴史のメタファーです。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "thread_fabric",
+		"word": "thread",
+		"meaning": "糸、筋道",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"thræd (thread)"
+			],
+			"original_statement": "From Old English thræd (thread)."
+		},
+		"concept": "A long, thin strand of cotton, nylon, or other fibers used in sewing or weaving (迷宮を進むテセウスのように、混乱の世界で自分を見失わないための「細いが切れない命綱」であり、物語を一本に繋ぐ論理の経路。)",
+		"thinking": "迷宮を進むテセウスのように、混乱の世界で自分を見失わないための「細いが切れない命綱」であり、物語を一本に繋ぐ論理の経路。",
+		"aftertaste": "どれほど複雑な議論の中でも、この一つの「スレッド（文脈の糸）」さえ見失わなければ必ず真理に辿り着けます。",
+		"example": "I watched her gracefully thread the fabric.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "thræd",
+					"meaning": "thread"
+				}
+			],
+			"points": [
+				"布を織り、修繕する行為は、人間関係や歴史のメタファーです。"
+			]
+		},
+		"part_of_speech": "noun"
 	}
 ];
