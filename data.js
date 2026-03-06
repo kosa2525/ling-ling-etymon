@@ -195627,5 +195627,62 @@ const WORDS = [
 			]
 		},
 		"part_of_speech": "verb"
+	},
+	{
+		"id": "silhouette_shadow",
+		"word": "Silhouette",
+		"meaning": "シルエット、影絵、輪郭、(不況時の)倹約",
+		"era": "18th Century Etienne de Silhouette",
+		"etymology": {
+			"components": [
+				"Etienne de Silhouette (French finance minister)"
+			],
+			"original_statement": "Named after Étienne de Silhouette (1709–1767), French controller-general of finances, possibly as a joke on his short tenure or his cheapness (shadow portraits being the cheapest portrait option)."
+		},
+		"concept": "Detailed shadow (「詳細（detail）」を 削ぎ落とし 「本質的な形（essence）」だけを 浮かび上がらせる 潔い 表現)",
+		"thinking": "色の鮮やかさや 表面の飾りに 惑わされず、その存在が持つ 根源的な「構え（スタンス）」を 一瞬で捉えること. 語源は「人の名前（倹約家）」. それは 最小限の要素で 最大限の意味を 伝えるという 究極の「引き算の美学」の 象徴です. 影は、嘘をつきません.",
+		"aftertaste": "本質の輪郭. 飾り立てることを やめてごらん. あなたが「シルエット（輪郭）」だけになったとき そこに立ち現れる 揺るぎない 意志こそが あなたという 存在の 正体（コア）なのだから.",
+		"example": "The profile of the ancient castle was visible as a dark silhouette against the fiery sunset.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "namesake",
+					"meaning": "history of language"
+				}
+			],
+			"points": [
+				"皮肉（安上がり）から生まれた言葉が、今や「洗練」の象徴へ。意味の変容のドラマ。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "subterranean_depth",
+		"word": "Subterranean",
+		"meaning": "地下の、潜行的な、隠れた、秘密の",
+		"era": "17th Century Latin sub- + terra",
+		"etymology": {
+			"components": [
+				"sub- (under)",
+				"terra (earth)"
+			],
+			"original_statement": "From Latin subterraneus (underground), from sub- (under) + terra (earth, land, ground)."
+		},
+		"concept": "Under the earth (「日常の地表（surface）」の 下で 「静かに（silently）」 進行している 巨大な 潮流)",
+		"thinking": "目に見える華やかさの背後で、文明や 命を 支えている 根源的な 仕組み（根っこ）. 語源は「土の下」. それは 隠蔽（ネガティブ）ではなく 表に出ることを 求めず 黙々と 本質的な役割を 果たし続ける 聖なる「伏流（アンダーグラウンド）」のアクションです.",
+		"aftertaste": "伏流の誇り. 表舞台で 拍手をもらわなくてもいい. あなたが「サブタレイニアン（地下）」で 必死に 張り巡らせた 努力の根っこが 世界を 支えているという 事実を 誇りに思っていいのだから.",
+		"example": "An ancient subterranean river was found flowing beneath the modern city's foundations.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ters-",
+					"meaning": "dry (possible for terra)"
+				}
+			],
+			"points": [
+				"territory（領土）や terrace（テラス）と同じ。存在の「足がかり」を 掘り下げる力。"
+			]
+		},
+		"part_of_speech": "adjective"
 	}
 ];
