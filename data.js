@@ -213147,5 +213147,61 @@ const WORDS = [
 			]
 		},
 		"part_of_speech": "noun"
+	},
+	{
+		"id": "expiration_essence_iv",
+		"word": "expiration",
+		"meaning": "満了、吐き出し、エクスピレーション",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"ex- (out) + spirare (to breathe, literal: 'breathing out')"
+			],
+			"original_statement": "From 14th Century ex- (out) + spirare (to breathe, literal: 'breathing out')."
+		},
+		"concept": "The ending of the period of time when something is valid (全（。てを（。受け（。入れ、至高（。の（。る（。力で「吐（。き（。出した（。エクス）』、物（。語（。の（。終（。わり（。（。その（。静（。か（。な（。る（。る（。沈黙こそが、宇宙（。の（。る（。る（。答え（。なの（。ですよ。)",
+		"thinking": "全（。てを（。受け（。入れ、至高（。の（。る（。力で「吐（。き（。出した（。エクス）』、物（。語（。の（。終（。わり（。（。その（。静（。か（。な（。る（。る（。沈黙こそが、宇宙（。の（。る（。る（。答え（。なの（。ですよ。",
+		"aftertaste": "志を持つことは、遠くの何かを追い求めることではありません。今、この一呼吸を、どれほど純粋に、自らの真実へと捧げられるかという挑戦なのですよ。",
+		"example": "The young artist found profound expiration for her latest masterpiece in the quiet, reflective moments spent watching the dawn light dance across the lake.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ex-",
+					"meaning": "out) + spirare (to breathe, literal: 'breathing out'"
+				}
+			],
+			"points": [
+				"息を吐ききる勇気を持ってください。空っぽになった瞬間にこそ、宇宙からの新しい煌めきが、あなたの内側へと満たされるのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "perspiration_essence_iv",
+		"word": "perspiration",
+		"meaning": "発汗、努力の成果、パースピレーション",
+		"era": "17th Century",
+		"etymology": {
+			"components": [
+				"per- (through) + spirare (to breathe, literal: 'breathing through')"
+			],
+			"original_statement": "From 17th Century per- (through) + spirare (to breathe, literal: 'breathing through')."
+		},
+		"concept": "The process of sweating (魂の（。エナジーが、峻（。烈（。な（。る（。る（。行為をを「突き（。抜（。け（。て（。溢（。れ（。出した（。パース）』至高の（。る（。る（。雫（。（。その（。眩（。しい（。ほどに、透明（。な（。る（。る（。る（。証を、誇り（。高く、愛（。で（。て（。ください。)",
+		"thinking": "魂の（。エナジーが、峻（。烈（。な（。る（。る（。行為をを「突き（。抜（。け（。て（。溢（。れ（。出した（。パース）』至高の（。る（。る（。雫（。（。その（。眩（。しい（。ほどに、透明（。な（。る（。る（。る（。証を、誇り（。高く、愛（。で（。て（。ください。",
+		"aftertaste": "志を持つことは、遠くの何かを追い求めることではありません。今、この一呼吸を、どれほど純粋に、自らの真実へと捧げられるかという挑戦なのですよ。",
+		"example": "The young artist found profound perspiration for her latest masterpiece in the quiet, reflective moments spent watching the dawn light dance across the lake.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "per-",
+					"meaning": "through) + spirare (to breathe, literal: 'breathing through'"
+				}
+			],
+			"points": [
+				"息を吐ききる勇気を持ってください。空っぽになった瞬間にこそ、宇宙からの新しい煌めきが、あなたの内側へと満たされるのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
 	}
 ];
