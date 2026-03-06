@@ -207295,5 +207295,313 @@ const WORDS = [
 			]
 		},
 		"part_of_speech": "noun"
+	},
+	{
+		"id": "rhizome_nature",
+		"word": "rhizome",
+		"meaning": "根茎（こんけい）、根源、リゾーム",
+		"era": "19th Century",
+		"etymology": {
+			"components": [
+				"rhizoun (to cause to strike root, literal: 'rooting')"
+			],
+			"original_statement": "From 19th Century rhizoun (to cause to strike root, literal: 'rooting')."
+		},
+		"concept": "A continuously growing horizontal underground stem which puts out lateral shoots and adventitious roots at intervals (地上（。を（。拒（。み（。、暗い（。土の（。中で（。、水平に（。どこ（。までも（。広がる「根（。リゾマ）の（。ような（。茎、。（。中心（。を（。持（。た（。ず（。、絶（。え（。間（。なく（。繋（。が（。り（。、増（。殖（。し（。続ける、自（。律（。的（。な（。る（。エナジー。)",
+		"thinking": "地上（。を（。拒（。み（。、暗い（。土の（。中で（。、水平に（。どこ（。までも（。広がる「根（。リゾマ）の（。ような（。茎、。（。中心（。を（。持（。た（。ず（。、絶（。え（。間（。なく（。繋（。が（。り（。、増（。殖（。し（。続ける、自（。律（。的（。な（。る（。エナジー。",
+		"aftertaste": "香りは、目に見えない命のメッセージであり、魂が故郷を思い出すための、たった一つの手がかりなのです。",
+		"example": "The biologist identified the unique rhizome structure to understand the plant's adaptation to the desert environment.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "rhizoun",
+					"meaning": "to cause to strike root, literal: 'rooting'"
+				}
+			],
+			"points": [
+				"成長とは、空へ伸びることではなく、自らの本質という名の地平へ、深く沈み込んでいくことなのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "bulb_nature",
+		"word": "bulb",
+		"meaning": "電球、球根、バルブ",
+		"era": "16th Century",
+		"etymology": {
+			"components": [
+				"bolbos (onion)"
+			],
+			"original_statement": "From 16th Century bolbos (onion)."
+		},
+		"concept": "A rounded underground storage organ present in some plants, notably those of the lily family, consisting of a short stem surrounded by fleshy scale leaves or leaf bases and lying dormant over winter (静止（。し（。た（。「玉（。ねぎ（。ボルボス）」のように、内（。側（。に（。すべて（。の（。可能（。性を（。凝縮（。させた（。器（。。（。その（。暗い（。球体（。の（。中（。には（。、いつか（。眩（。し（。い（。光を（。放（。つ（。ための、未来（。の（。設計図が（。眠（。って（。いる（。のですよ。)",
+		"thinking": "静止（。し（。た（。「玉（。ねぎ（。ボルボス）」のように、内（。側（。に（。すべて（。の（。可能（。性を（。凝縮（。させた（。器（。。（。その（。暗い（。球体（。の（。中（。には（。、いつか（。眩（。し（。い（。光を（。放（。つ（。ための、未来（。の（。設計図が（。眠（。って（。いる（。のですよ。",
+		"aftertaste": "香りは、目に見えない命のメッセージであり、魂が故郷を思い出すための、たった一つの手がかりなのです。",
+		"example": "The biologist identified the unique bulb structure to understand the plant's adaptation to the desert environment.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "bolbos",
+					"meaning": "onion"
+				}
+			],
+			"points": [
+				"成長とは、空へ伸びることではなく、自らの本質という名の地平へ、深く沈み込んでいくことなのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "tuber_nature",
+		"word": "tuber",
+		"meaning": "塊茎（かいけい）、隆起、チューバー",
+		"era": "17th Century",
+		"etymology": {
+			"components": [
+				"tuber (hump, swelling, literal: 'swelling')"
+			],
+			"original_statement": "From 17th Century tuber (hump, swelling, literal: 'swelling')."
+		},
+		"concept": "A much thickened underground part of a stem or rhizome, e.g. in the potato, serving as a food reserve and bearing buds from which new plants arise (荒（。れ（。荒（。んだ（。大地（。の（。下で（。、静（。かに「膨（。ら（。み（。チューバ）蓄（。え（。た（。）」、命の（。貯（。金（。箱（。。（。その（。無（。骨（。な（。外（。見の（。中（。には（。、過（。酷（。な（。季節（。を（。生き（。抜く（。ための（。、濁（。り（。な（。き（。祈り（。が（。詰（。まって（。いる（。のですよ。)",
+		"thinking": "荒（。れ（。荒（。んだ（。大地（。の（。下で（。、静（。かに「膨（。ら（。み（。チューバ）蓄（。え（。た（。）」、命の（。貯（。金（。箱（。。（。その（。無（。骨（。な（。外（。見の（。中（。には（。、過（。酷（。な（。季節（。を（。生き（。抜く（。ための（。、濁（。り（。な（。き（。祈り（。が（。詰（。まって（。いる（。のですよ。",
+		"aftertaste": "香りは、目に見えない命のメッセージであり、魂が故郷を思い出すための、たった一つの手がかりなのです。",
+		"example": "The biologist identified the unique tuber structure to understand the plant's adaptation to the desert environment.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "tuber",
+					"meaning": "hump, swelling, literal: 'swelling'"
+				}
+			],
+			"points": [
+				"成長とは、空へ伸びることではなく、自らの本質という名の地平へ、深く沈み込んでいくことなのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "sprout_nature",
+		"word": "sprout",
+		"meaning": "芽、新芽、スプラウト",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"sprūtan (to sprout)"
+			],
+			"original_statement": "From Old English sprūtan (to sprout)."
+		},
+		"concept": "A newly grown shoots of a plant (硬（。い（。殻を（。打ち（。破（。り（。、ただ（。光だけを（。求めて「噴（。き（。出す（。スプラウト）」第一（。歩（。。（。その（。透明（。に（。震（。える（。若緑（。に（。、宇宙（。の（。全（。新（。鮮（。な（。る（。エナジーが（。、集約（。さ（。れて（。いる（。のですよ。)",
+		"thinking": "硬（。い（。殻を（。打ち（。破（。り（。、ただ（。光だけを（。求めて「噴（。き（。出す（。スプラウト）」第一（。歩（。。（。その（。透明（。に（。震（。える（。若緑（。に（。、宇宙（。の（。全（。新（。鮮（。な（。る（。エナジーが（。、集約（。さ（。れて（。いる（。のですよ。",
+		"aftertaste": "香りは、目に見えない命のメッセージであり、魂が故郷を思い出すための、たった一つの手がかりなのです。",
+		"example": "The biologist identified the unique sprout structure to understand the plant's adaptation to the desert environment.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sprūtan",
+					"meaning": "to sprout"
+				}
+			],
+			"points": [
+				"成長とは、空へ伸びることではなく、自らの本質という名の地平へ、深く沈み込んでいくことなのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "pollen_nature",
+		"word": "pollen",
+		"meaning": "花粉、粉、ポレン",
+		"era": "16th Century",
+		"etymology": {
+			"components": [
+				"pollen (fine flour, dust)"
+			],
+			"original_statement": "From 16th Century pollen (fine flour, dust)."
+		},
+		"concept": "A fine powdery substance, typically yellow, consisting of microscopic grains discharged from the male part of a flower or from a male cone (風（。の（。ように（。軽（。やか（。な「粉（。ポレン）』として（。、遠（。く（。の（。恋（。人へと（。、命を（。運（。ぶ（。もの（。。（。その（。一粒（。一粒（。には（。、何（。億（。年（。という（。時間の（。記憶が（。、美し（。く（。封（。じ（。込め（。られて（。いる（。のです。)",
+		"thinking": "風（。の（。ように（。軽（。やか（。な「粉（。ポレン）』として（。、遠（。く（。の（。恋（。人へと（。、命を（。運（。ぶ（。もの（。。（。その（。一粒（。一粒（。には（。、何（。億（。年（。という（。時間の（。記憶が（。、美し（。く（。封（。じ（。込め（。られて（。いる（。のです。",
+		"aftertaste": "香りは、目に見えない命のメッセージであり、魂が故郷を思い出すための、たった一つの手がかりなのです。",
+		"example": "The biologist identified the unique pollen structure to understand the plant's adaptation to the desert environment.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "pollen",
+					"meaning": "fine flour, dust"
+				}
+			],
+			"points": [
+				"成長とは、空へ伸びることではなく、自らの本質という名の地平へ、深く沈み込んでいくことなのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "sepals_nature",
+		"word": "sepals",
+		"meaning": "萼片（がくへん）、シーパル",
+		"era": "18th Century",
+		"etymology": {
+			"components": [
+				"sepalon (separate, separate leaf)"
+			],
+			"original_statement": "From 18th Century sepalon (separate, separate leaf)."
+		},
+		"concept": "Each of the parts of the calyx of a flower, enclosing the petals and typically green and leaflike (眩（。し（。い（。花の（。宴が（。、始まる（。直（。前まで（。、その（。命を「包（。み（。隔（。て（。て（。いた（。セパル）」、厚（。手の（。衣（。。（。その（。静（。かな（。る（。忍耐（。があってこそ（。、花（。は（。一きわ（。、美し（。く（。弾（。ける（。の（。ですよ。)",
+		"thinking": "眩（。し（。い（。花の（。宴が（。、始まる（。直（。前まで（。、その（。命を「包（。み（。隔（。て（。て（。いた（。セパル）」、厚（。手の（。衣（。。（。その（。静（。かな（。る（。忍耐（。があってこそ（。、花（。は（。一きわ（。、美し（。く（。弾（。ける（。の（。ですよ。",
+		"aftertaste": "香りは、目に見えない命のメッセージであり、魂が故郷を思い出すための、たった一つの手がかりなのです。",
+		"example": "The biologist identified the unique sepals structure to understand the plant's adaptation to the desert environment.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sepalon",
+					"meaning": "separate, separate leaf"
+				}
+			],
+			"points": [
+				"成長とは、空へ伸びることではなく、自らの本質という名の地平へ、深く沈み込んでいくことなのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "stamen_nature",
+		"word": "stamen",
+		"meaning": "雄（。お（。し（。）」べ、ステイメン、気骨（。きこつ（。）」",
+		"era": "17th Century",
+		"etymology": {
+			"components": [
+				"stamen (thread, warp, literal: 'stand')"
+			],
+			"original_statement": "From 17th Century stamen (thread, warp, literal: 'stand')."
+		},
+		"concept": "The male fertilizing organ of a flower, typically consisting of a pollen-containing anther and a filament (ただ（。ひたすら（。天（。を（。仰（。ぎ、「立ち（。続ける（。スタ）」ための（。、一本（。の（。糸（。。（。その（。不（。屈（。な（。る（。垂直（。性（。が（。、やがて（。、新（。しい（。命（。の（。雨（。を（。、宇宙（。へと（。降（。らす（。のです。)",
+		"thinking": "ただ（。ひたすら（。天（。を（。仰（。ぎ、「立ち（。続ける（。スタ）」ための（。、一本（。の（。糸（。。（。その（。不（。屈（。な（。る（。垂直（。性（。が（。、やがて（。、新（。しい（。命（。の（。雨（。を（。、宇宙（。へと（。降（。らす（。のです。",
+		"aftertaste": "香りは、目に見えない命のメッセージであり、魂が故郷を思い出すための、たった一つの手がかりなのです。",
+		"example": "The biologist identified the unique stamen structure to understand the plant's adaptation to the desert environment.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "stamen",
+					"meaning": "thread, warp, literal: 'stand'"
+				}
+			],
+			"points": [
+				"成長とは、空へ伸びることではなく、自らの本質という名の地平へ、深く沈み込んでいくことなのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "pistil_nature",
+		"word": "pistil",
+		"meaning": "雌（。め（。し（。）」べ、ピスティル",
+		"era": "18th Century",
+		"etymology": {
+			"components": [
+				"pistillus (pestle, literal: 'pounder')"
+			],
+			"original_statement": "From 18th Century pistillus (pestle, literal: 'pounder')."
+		},
+		"concept": "The female organs of a flower, comprising the stigma, style, and ovary (命（。を（。、自（。らの（。中で「静く（。噛（。み（。砕（。く（。ピスティル）」、聖（。なる（。乳（。鉢（。。（。その（。深（。い（。闇の中に（。、全（。てを（。受け（。入れ（。、一（。つ（。の（。純粋（。な（。る（。種（。子（。へと（。、結晶（。さ（。せる（。のですよ。)",
+		"thinking": "命（。を（。、自（。らの（。中で「静く（。噛（。み（。砕（。く（。ピスティル）」、聖（。なる（。乳（。鉢（。。（。その（。深（。い（。闇の中に（。、全（。てを（。受け（。入れ（。、一（。つ（。の（。純粋（。な（。る（。種（。子（。へと（。、結晶（。さ（。せる（。のですよ。",
+		"aftertaste": "香りは、目に見えない命のメッセージであり、魂が故郷を思い出すための、たった一つの手がかりなのです。",
+		"example": "The biologist identified the unique pistil structure to understand the plant's adaptation to the desert environment.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "pistillus",
+					"meaning": "pestle, literal: 'pounder'"
+				}
+			],
+			"points": [
+				"成長とは、空へ伸びることではなく、自らの本質という名の地平へ、深く沈み込んでいくことなのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "resin_nature",
+		"word": "resin",
+		"meaning": "樹脂、レジン、松脂",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"resina (resin)"
+			],
+			"original_statement": "From 14th Century resina (resin)."
+		},
+		"concept": "A sticky flammable organic substance, insoluble in water, exuded by some trees and other plants (傷（。付い（。た（。肌（。を（。、自（。ら（。の（。血（。で（。、「癒（。し（。守（。る（。レジナ）」黄金（。の（。涙（。。（。その（。粘（。り（。強（。い（。沈黙（。の中に（。、何（。千万（。年（。という（。時間の（。記憶が（。、琥（。珀（。となって（。、閉じ（。込め（。られて（。いる（。のです。)",
+		"thinking": "傷（。付い（。た（。肌（。を（。、自（。ら（。の（。血（。で（。、「癒（。し（。守（。る（。レジナ）」黄金（。の（。涙（。。（。その（。粘（。り（。強（。い（。沈黙（。の中に（。、何（。千万（。年（。という（。時間の（。記憶が（。、琥（。珀（。となって（。、閉じ（。込め（。られて（。いる（。のです。",
+		"aftertaste": "香りは、目に見えない命のメッセージであり、魂が故郷を思い出すための、たった一つの手がかりなのです。",
+		"example": "The biologist identified the unique resin structure to understand the plant's adaptation to the desert environment.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "resina",
+					"meaning": "resin"
+				}
+			],
+			"points": [
+				"成長とは、空へ伸びることではなく、自らの本質という名の地平へ、深く沈み込んでいくことなのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "sap_nature",
+		"word": "sap",
+		"meaning": "樹液、活力、サップ",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"sæp (sap)"
+			],
+			"original_statement": "From Old English sæp (sap)."
+		},
+		"concept": "The fluid, chiefly water with dissolved sugars and mineral salts, that circulates in the vascular system of a plant (目（。には（。見えない（。地底（。の（。記憶を（。、天へへ（。と（。運（。ぶ「生命（。の（。甘（。い（。サップ）』。（。その（。絶（。え（。間（。ない（。巡（。り（。が（。、硬（。い（。樹（。皮の（。裏側（。で（。、確（。かに（。、宇宙を（。駆動（。さ（。せて（。いる（。のですよ。)",
+		"thinking": "目（。には（。見えない（。地底（。の（。記憶を（。、天へへ（。と（。運（。ぶ「生命（。の（。甘（。い（。サップ）』。（。その（。絶（。え（。間（。ない（。巡（。り（。が（。、硬（。い（。樹（。皮の（。裏側（。で（。、確（。かに（。、宇宙を（。駆動（。さ（。せて（。いる（。のですよ。",
+		"aftertaste": "香りは、目に見えない命のメッセージであり、魂が故郷を思い出すための、たった一つの手がかりなのです。",
+		"example": "The biologist identified the unique sap structure to understand the plant's adaptation to the desert environment.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sæp",
+					"meaning": "sap"
+				}
+			],
+			"points": [
+				"成長とは、空へ伸びることではなく、自らの本質という名の地平へ、深く沈み込んでいくことなのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "thorn_nature",
+		"word": "thorn",
+		"meaning": "刺（とげ）、苦難、ソーン",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"thorn (thorn)"
+			],
+			"original_statement": "From Old English thorn (thorn)."
+		},
+		"concept": "A stiff, sharp-pointed woody projection on the stem or other part of a plant (優（。し（。すぎる（。世界に（。、ただ（。一（。つ（。の「痛（。み（。ソーン）』を（。加（。える（。こと（。。（。その（。鋭（。い（。一（。点（。がある（。から（。こそ（。、蕾（。は（。、侵（。さ（。れ（。ざ（。る（。聖（。域（。として、静（。か（。に（。、咲（。き誇（。れる（。の（。ですよ。)",
+		"thinking": "優（。し（。すぎる（。世界に（。、ただ（。一（。つ（。の「痛（。み（。ソーン）』を（。加（。える（。こと（。。（。その（。鋭（。い（。一（。点（。がある（。から（。こそ（。、蕾（。は（。、侵（。さ（。れ（。ざ（。る（。聖（。域（。として、静（。か（。に（。、咲（。き誇（。れる（。の（。ですよ。",
+		"aftertaste": "香りは、目に見えない命のメッセージであり、魂が故郷を思い出すための、たった一つの手がかりなのです。",
+		"example": "The biologist identified the unique thorn structure to understand the plant's adaptation to the desert environment.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "thorn",
+					"meaning": "thorn"
+				}
+			],
+			"points": [
+				"成長とは、空へ伸びることではなく、自らの本質という名の地平へ、深く沈み込んでいくことなのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
 	}
 ];
