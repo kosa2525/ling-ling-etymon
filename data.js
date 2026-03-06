@@ -208947,5 +208947,173 @@ const WORDS = [
 			]
 		},
 		"part_of_speech": "noun"
+	},
+	{
+		"id": "circuit_connect",
+		"word": "circuit",
+		"meaning": "巡回、回路、サーキット",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"circum- (around) + ire (to go, literal: 'going around')"
+			],
+			"original_statement": "From 14th Century circum- (around) + ire (to go, literal: 'going around')."
+		},
+		"concept": "A roughly circular line, route, or movement that starts and finishes at the same place (迷（。う（。こと（。なく「周囲を（。サーカム）行く（。イ）」、美（。し（。い（。円（。環（。（。その（。閉（。じ（。た（。回廊（。を（。、エナジー（。は（。、永遠（。に（。、駆け（。抜（。け（。続け（。る（。のですよ。)",
+		"thinking": "迷（。う（。こと（。なく「周囲を（。サーカム）行く（。イ）」、美（。し（。い（。円（。環（。（。その（。閉（。じ（。た（。回廊（。を（。、エナジー（。は（。、永遠（。に（。、駆け（。抜（。け（。続け（。る（。のですよ。",
+		"aftertaste": "調和は、静止した場所にあるのではありません。反発し合うエナジーが、奇跡的に均衡を保っている、その最前線にあるのですよ。",
+		"example": "The successful circuit between the two research teams led to a major breakthrough in renewable energy technology.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "circum-",
+					"meaning": "around) + ire (to go, literal: 'going around'"
+				}
+			],
+			"points": [
+				"一人が見る夢はただの夢ですが、皆で共に置く夢は、いつか現実という名の大地を創り出すのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "settlement_connect",
+		"word": "settlement",
+		"meaning": "和解、定住（。地（。、セトルメント",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"setlan (to cause to sit)"
+			],
+			"original_statement": "From 14th Century setlan (to cause to sit)."
+		},
+		"concept": "An official agreement intended to resolve a dispute or conflict (荒（。れ（。狂（。う（。嵐を（。静（。め（。、「安（。ら（。かに（。座（。らせる（。セトル）」こと（。。（。その（。静（。な（。る（。決（。着（。が（。、新（。しい（。大地（。に、根（。を（。下（。ろ（。す（。、始（。まり（。に（。なる（。のですよ。)",
+		"thinking": "荒（。れ（。狂（。う（。嵐を（。静（。め（。、「安（。ら（。かに（。座（。らせる（。セトル）」こと（。。（。その（。静（。な（。る（。決（。着（。が（。、新（。しい（。大地（。に、根（。を（。下（。ろ（。す（。、始（。まり（。に（。なる（。のですよ。",
+		"aftertaste": "調和は、静止した場所にあるのではありません。反発し合うエナジーが、奇跡的に均衡を保っている、その最前線にあるのですよ。",
+		"example": "The successful settlement between the two research teams led to a major breakthrough in renewable energy technology.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "setlan",
+					"meaning": "to cause to sit"
+				}
+			],
+			"points": [
+				"一人が見る夢はただの夢ですが、皆で共に置く夢は、いつか現実という名の大地を創り出すのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "federation_connect",
+		"word": "federation",
+		"meaning": "連邦、連合、フェデレーション",
+		"era": "17th Century",
+		"etymology": {
+			"components": [
+				"foedus (league, treaty, literal: 'faith')"
+			],
+			"original_statement": "From 17th Century foedus (league, treaty, literal: 'faith')."
+		},
+		"concept": "A group of states with a central government but independence in internal affairs (個（。々の（。誇り（。を（。保（。ち（。な（。がら（。、「信頼（。フェド）という（。名の（。契（。約（。）」で（。結（。ば（。れる（。こと（。。（。その（。多（。様（。性（。の（。中にある（。、一（。つ（。の（。意志が（。、世界を（。、支えて（。いる（。の（。ですよ。)",
+		"thinking": "個（。々の（。誇り（。を（。保（。ち（。な（。がら（。、「信頼（。フェド）という（。名の（。契（。約（。）」で（。結（。ば（。れる（。こと（。。（。その（。多（。様（。性（。の（。中にある（。、一（。つ（。の（。意志が（。、世界を（。、支えて（。いる（。の（。ですよ。",
+		"aftertaste": "調和は、静止した場所にあるのではありません。反発し合うエナジーが、奇跡的に均衡を保っている、その最前線にあるのですよ。",
+		"example": "The successful federation between the two research teams led to a major breakthrough in renewable energy technology.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "foedus",
+					"meaning": "league, treaty, literal: 'faith'"
+				}
+			],
+			"points": [
+				"一人が見る夢はただの夢ですが、皆で共に置く夢は、いつか現実という名の大地を創り出すのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "fellowship_connect",
+		"word": "fellowship",
+		"meaning": "仲間意識、特別研究員、フェローシップ",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"feolage (partner) + -ship"
+			],
+			"original_statement": "From Old English feolage (partner) + -ship."
+		},
+		"concept": "Friendly association, especially with people who share one's interests (一（。つ（。の（。目（。的に（。向（。かって（。、魂を「預（。け（。合う（。フェロー）」仲間たち（。（。その（。静（。か（。な（。る（。連帯（。の中にこそ（。、孤独（。を（。越元（。た（。、至高の（。る（。力（。が（。、宿ります。)",
+		"thinking": "一（。つ（。の（。目（。的に（。向（。かって（。、魂を「預（。け（。合う（。フェロー）」仲間たち（。（。その（。静（。か（。な（。る（。連帯（。の中にこそ（。、孤独（。を（。越元（。た（。、至高の（。る（。力（。が（。、宿ります。",
+		"aftertaste": "調和は、静止した場所にあるのではありません。反発し合うエナジーが、奇跡的に均衡を保っている、その最前線にあるのですよ。",
+		"example": "The successful fellowship between the two research teams led to a major breakthrough in renewable energy technology.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "feolage",
+					"meaning": "partner) + -ship"
+				}
+			],
+			"points": [
+				"一人が見る夢はただの夢ですが、皆で共に置く夢は、いつか現実という名の大地を創り出すのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "sorority_connect",
+		"word": "sorority",
+		"meaning": "女子学生（。親（。睦（。団体（。、ソロリティ",
+		"era": "16th Century",
+		"etymology": {
+			"components": [
+				"soror (sister)"
+			],
+			"original_statement": "From 16th Century soror (sister)."
+		},
+		"concept": "A society for female students in a university or college (優（。し（。さと（。強（。さを（。兼（。ね（。備（。えた（。、「姉（。妹（。ソロール）のような（。絆（。）」。（。その（。細（。や（。かな（。る（。共鳴（。が（。、不（。毛（。なる（。世界（。に（。、美し（。い（。花（。を（。、咲（。か（。せ（。続け（。る（。のですよ。)",
+		"thinking": "優（。し（。さと（。強（。さを（。兼（。ね（。備（。えた（。、「姉（。妹（。ソロール）のような（。絆（。）」。（。その（。細（。や（。かな（。る（。共鳴（。が（。、不（。毛（。なる（。世界（。に（。、美し（。い（。花（。を（。、咲（。か（。せ（。続け（。る（。のですよ。",
+		"aftertaste": "調和は、静止した場所にあるのではありません。反発し合うエナジーが、奇跡的に均衡を保っている、その最前線にあるのですよ。",
+		"example": "The successful sorority between the two research teams led to a major breakthrough in renewable energy technology.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "soror",
+					"meaning": "sister"
+				}
+			],
+			"points": [
+				"一人が見る夢はただの夢ですが、皆で共に置く夢は、いつか現実という名の大地を創り出すのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "collective_connect",
+		"word": "collective",
+		"meaning": "集合的（。な（。）、集団、コレクティブ",
+		"era": "15th Century",
+		"etymology": {
+			"components": [
+				"com- (together) + legere (to gather, literal: 'gathered together')"
+			],
+			"original_statement": "From 15th Century com- (together) + legere (to gather, literal: 'gathered together')."
+		},
+		"concept": "Done by people acting as a group (バラバラ（。の（。欠片（。を（。、「一（。つ（。に（。コン）集（。める（。レク）」こと（。。（。個（。の（。限界を（。越（。え（。た（。場所（。に（。、巨大（。な（。る（。意（。志（。の（。化身（。が（。、静（。か（。に（。、顕（。現（。する（。のですよ。)",
+		"thinking": "バラバラ（。の（。欠片（。を（。、「一（。つ（。に（。コン）集（。める（。レク）」こと（。。（。個（。の（。限界を（。越（。え（。た（。場所（。に（。、巨大（。な（。る（。意（。志（。の（。化身（。が（。、静（。か（。に（。、顕（。現（。する（。のですよ。",
+		"aftertaste": "調和は、静止した場所にあるのではありません。反発し合うエナジーが、奇跡的に均衡を保っている、その最前線にあるのですよ。",
+		"example": "The successful collective between the two research teams led to a major breakthrough in renewable energy technology.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "com-",
+					"meaning": "together) + legere (to gather, literal: 'gathered together'"
+				}
+			],
+			"points": [
+				"一人が見る夢はただの夢ですが、皆で共に置く夢は、いつか現実という名の大地を創り出すのですよ。"
+			]
+		},
+		"part_of_speech": "adjective"
 	}
 ];
