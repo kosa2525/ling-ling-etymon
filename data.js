@@ -196763,5 +196763,33 @@ const WORDS = [
 			]
 		},
 		"part_of_speech": "verb"
+	},
+	{
+		"id": "thalassic_ocean",
+		"word": "Thalassic",
+		"meaning": "海の、海洋の、(特に内海や近海の)海洋に関する",
+		"era": "19th Century Greek thalassa",
+		"etymology": {
+			"components": [
+				"thalassa (sea)"
+			],
+			"original_statement": "From Greek thalassa (sea), of uncertain origin (possibly Pre-Greek)."
+		},
+		"concept": "Of the inner sea (「自己（self）」の 内側に 広がる 「内海（inner sea）」のように 温かく 交わりを 「育む」 領域)",
+		"thinking": "荒々しい 外洋 ではなく 私たちの 暮らしや 感情に 寄り添い、常に 反射と 変容を 繰り返している、近しい 海の 質感. 語源は「海（ギリシャ語）」. それは 遠い 神秘 ではなく 今、ここにある 命の 源泉（母なる海）への 尽きることのない 感謝と 接続の 表現です.",
+		"aftertaste": "母なる海. 孤独な 砂漠に 留まらないで. あなたの内なる「タラシック（海の）」な 豊かさを 思い出すことで 魂は いつでも 潤いと 輝きを 取り戻すことができるのだから.",
+		"example": "The Mediterranean is a prime example of a thalassic environment that has shaped human civilization for millennia.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "unknown",
+					"meaning": "none"
+				}
+			],
+			"points": [
+				"Thalassa（タラッサ：ギリシャの海の女神）の名を冠する。女性的な包容力。"
+			]
+		},
+		"part_of_speech": "adjective"
 	}
 ];
