@@ -195507,5 +195507,229 @@ const WORDS = [
 			]
 		},
 		"part_of_speech": "noun"
+	},
+	{
+		"id": "globe_shape",
+		"word": "globe",
+		"meaning": "球、地球、地球儀",
+		"era": "16th Century",
+		"etymology": {
+			"components": [
+				"globus (round mass, sphere)"
+			],
+			"original_statement": "From 16th Century globus (round mass, sphere)."
+		},
+		"concept": "The earth, or a spherical representation of the earth (ただの丸い物体ではなく、無数の生命と複雑な歴史をその表面に張り付けながら、宇宙を航海し続ける「青い奇跡の船」。)",
+		"thinking": "ただの丸い物体ではなく、無数の生命と複雑な歴史をその表面に張り付けながら、宇宙を航海し続ける「青い奇跡の船」。",
+		"aftertaste": "「グローブ（地球）」は誰かの所有物ではなく、私たち全員が一時的に間借りしている巨大なキャンバスです。",
+		"example": "He modeled a perfect globe.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "globus (round mass, sphere)",
+					"meaning": "known origin"
+				}
+			],
+			"points": [
+				"幾何学は、無秩序な世界に秩序を与えるための最も美しい言語。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "orb_shape",
+		"word": "orb",
+		"meaning": "球、宝珠、天体",
+		"era": "16th Century",
+		"etymology": {
+			"components": [
+				"orbis (ring, circle, globe)"
+			],
+			"original_statement": "From 16th Century orbis (ring, circle, globe)."
+		},
+		"concept": "A spherical body, typically an astronomical one or a royal emblem (太陽や月のように、暗闇の中で自らの意志で輝き、神秘的で呪術的な力すら帯びているように感じられる「聖なる玉」。)",
+		"thinking": "太陽や月のように、暗闇の中で自らの意志で輝き、神秘的で呪術的な力すら帯びているように感じられる「聖なる玉」。",
+		"aftertaste": "夜空に浮かぶ銀色の「オーブ（月）」は、古来より人々の祈りを一身に集める静かな宝石。",
+		"example": "He modeled a perfect orb.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "orbis (ring, circle, globe)",
+					"meaning": "known origin"
+				}
+			],
+			"points": [
+				"幾何学は、無秩序な世界に秩序を与えるための最も美しい言語。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "cylinder_shape",
+		"word": "cylinder",
+		"meaning": "円柱",
+		"era": "16th Century",
+		"etymology": {
+			"components": [
+				"kulindros (roller)"
+			],
+			"original_statement": "From 16th Century kulindros (roller)."
+		},
+		"concept": "A solid geometric figure with straight parallel sides and a circular or oval cross section (上下の完璧な円と、それらを真っ直ぐに繋ぐ直線要素が織りなす「回転と前進」のための効率的なデザイン。)",
+		"thinking": "上下の完璧な円と、それらを真っ直ぐに繋ぐ直線要素が織りなす「回転と前進」のための効率的なデザイン。",
+		"aftertaste": "レコード盤の溝は「シリンダー（円筒状）」の回転によって、過去の空気ごと今に再生します。",
+		"example": "He modeled a perfect cylinder.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kulindros (roller)",
+					"meaning": "known origin"
+				}
+			],
+			"points": [
+				"幾何学は、無秩序な世界に秩序を与えるための最も美しい言語。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "cone_shape",
+		"word": "cone",
+		"meaning": "円錐、松ぼっくり",
+		"era": "16th Century",
+		"etymology": {
+			"components": [
+				"konos (pine cone)"
+			],
+			"original_statement": "From 16th Century konos (pine cone)."
+		},
+		"concept": "A solid or hollow object that tapers from a circular or roughly circular base to a point (強固で安定した底面を持ちながらも、天の一点に向かって「永遠の上昇」と収束を目指す、力強く集中したベクトル。)",
+		"thinking": "強固で安定した底面を持ちながらも、天の一点に向かって「永遠の上昇」と収束を目指す、力強く集中したベクトル。",
+		"aftertaste": "「コーン（円錐形）」のアイスクリームは、終わりの尖った先っぽの一口が一番美味しいのです。",
+		"example": "He modeled a perfect cone.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "konos (pine cone)",
+					"meaning": "known origin"
+				}
+			],
+			"points": [
+				"幾何学は、無秩序な世界に秩序を与えるための最も美しい言語。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "cube_shape",
+		"word": "cube",
+		"meaning": "立方体、3乗",
+		"era": "16th Century",
+		"etymology": {
+			"components": [
+				"kubos (cube, die)"
+			],
+			"original_statement": "From 16th Century kubos (cube, die)."
+		},
+		"concept": "A symmetrical three-dimensional shape, either solid or hollow, contained by six equal squares (全ての角が含まれ、面と長さが完全に均等であるという「不自然なまでの四角い論理」が支配する、人間の作り出した究極の秩序。)",
+		"thinking": "全ての角が含まれ、面と長さが完全に均等であるという「不自然なまでの四角い論理」が支配する、人間の作り出した究極の秩序。",
+		"aftertaste": "人生は「キューブ（サイコロ）」のよう。出た目を受け入れ、それを使って最善のゲームをするしかないのです。",
+		"example": "He modeled a perfect cube.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kubos (cube, die)",
+					"meaning": "known origin"
+				}
+			],
+			"points": [
+				"幾何学は、無秩序な世界に秩序を与えるための最も美しい言語。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "prism_shape",
+		"word": "prism",
+		"meaning": "プリズム、角柱",
+		"era": "16th Century",
+		"etymology": {
+			"components": [
+				"prisma (something sawed)"
+			],
+			"original_statement": "From 16th Century prisma (something sawed)."
+		},
+		"concept": "A solid geometric figure whose two end faces are similar, equal, and parallel rectilinear figures (単なる透明な石の壁ではなく、平凡な白い光を「七色の鮮やかなスペクトル」へと解剖し分解して世界を塗り替える魔法のレンズ。)",
+		"thinking": "単なる透明な石の壁ではなく、平凡な白い光を「七色の鮮やかなスペクトル」へと解剖し分解して世界を塗り替える魔法のレンズ。",
+		"aftertaste": "「プリズム（分光器）」のように、一つの視点だけでなく多角的に相手を見れば、隠れた魅力が溢れ出ます。",
+		"example": "He modeled a perfect prism.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "prisma (something sawed)",
+					"meaning": "known origin"
+				}
+			],
+			"points": [
+				"幾何学は、無秩序な世界に秩序を与えるための最も美しい言語。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "spiral_shape",
+		"word": "spiral",
+		"meaning": "らせん、渦巻き",
+		"era": "16th Century",
+		"etymology": {
+			"components": [
+				"spira (coil)"
+			],
+			"original_statement": "From 16th Century spira (coil)."
+		},
+		"concept": "Winding in a continuous and gradually widening curve, either around a central point on a flat plane or about an axis so as to form a cone (全く同じ場所をグルグル回っているようでいて、実は「わずかずつ高く、あるいは深く」移動を続けているダイナミックな進化（または堕落）の軌跡。)",
+		"thinking": "全く同じ場所をグルグル回っているようでいて、実は「わずかずつ高く、あるいは深く」移動を続けているダイナミックな進化（または堕落）の軌跡。",
+		"aftertaste": "「スパイラル（螺旋的）」な成長こそが本物。時には後戻りしたように感じても、階層は確実に上がっています。",
+		"example": "He modeled a perfect spiral.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "spira (coil)",
+					"meaning": "known origin"
+				}
+			],
+			"points": [
+				"幾何学は、無秩序な世界に秩序を与えるための最も美しい言語。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "helix_shape",
+		"word": "helix",
+		"meaning": "らせん状のもの",
+		"era": "16th Century",
+		"etymology": {
+			"components": [
+				"helix (spiral)"
+			],
+			"original_statement": "From 16th Century helix (spiral)."
+		},
+		"concept": "An object having a three-dimensional shape like that of a wire wound uniformly in a single layer around a cylinder (生命の設計図であるDNAにも刻み込まれ、単独ではなく「二重になって互いに絡み合いながら」永遠に情報を繋いでいく聖なる螺旋の鎖。)",
+		"thinking": "生命の設計図であるDNAにも刻み込まれ、単独ではなく「二重になって互いに絡み合いながら」永遠に情報を繋いでいく聖なる螺旋の鎖。",
+		"aftertaste": "「ヘリックス（螺旋構造）」が示すように、私たちの人生も誰かの人生と美しく絡み合いながら進むのです。",
+		"example": "He modeled a perfect helix.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "helix (spiral)",
+					"meaning": "known origin"
+				}
+			],
+			"points": [
+				"幾何学は、無秩序な世界に秩序を与えるための最も美しい言語。"
+			]
+		},
+		"part_of_speech": "noun"
 	}
 ];
