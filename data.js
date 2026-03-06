@@ -192091,5 +192091,425 @@ const WORDS = [
 			]
 		},
 		"part_of_speech": "adjective"
+	},
+	{
+		"id": "attic_architecture",
+		"word": "attic",
+		"meaning": "屋根裏部屋",
+		"era": "16th Century",
+		"etymology": {
+			"components": [
+				"Attikos (Athenian)"
+			],
+			"original_statement": "From 16th Century Attikos (Athenian)."
+		},
+		"concept": "A space or room just below the roof (天井と空のわずかな隙間に挟まれ、忘れ去られた過去の記憶と埃だけがひっそりと眠るノスタルジーの聖域。)",
+		"thinking": "天井と空のわずかな隙間に挟まれ、忘れ去られた過去の記憶と埃だけがひっそりと眠るノスタルジーの聖域。",
+		"aftertaste": "心の「アティック（屋根裏）」に古い写真をしまっておくことで、私たちは明日へ進めます。",
+		"example": "The ancient attic stood tall against the changing seasons.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "Attikos",
+					"meaning": "Athenian"
+				}
+			],
+			"points": [
+				"空間を区切り、目的を与える「建築」という名の人間の意志表現。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "cellar_architecture",
+		"word": "cellar",
+		"meaning": "地下貯蔵庫",
+		"era": "13th Century",
+		"etymology": {
+			"components": [
+				"cellarium (storehouse)"
+			],
+			"original_statement": "From 13th Century cellarium (storehouse)."
+		},
+		"concept": "A room below ground level (時間という名の最高のスパイスを用いて、ワインや魂をゆっくりと成熟させるための暗く冷たい揺りかご。)",
+		"thinking": "時間という名の最高のスパイスを用いて、ワインや魂をゆっくりと成熟させるための暗く冷たい揺りかご。",
+		"aftertaste": "怒りや悲しみも、「セラー（地下貯蔵庫）」で寝かせれば、いずれ芳醇な愛へと変わります。",
+		"example": "The ancient cellar stood tall against the changing seasons.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "cellarium",
+					"meaning": "storehouse"
+				}
+			],
+			"points": [
+				"空間を区切り、目的を与える「建築」という名の人間の意志表現。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "courtyard_architecture",
+		"word": "courtyard",
+		"meaning": "中庭",
+		"era": "16th Century",
+		"etymology": {
+			"components": [
+				"cohors (yard) + yard"
+			],
+			"original_statement": "From 16th Century cohors (yard) + yard."
+		},
+		"concept": "An unroofed area (建物の壁によって外部の騒音を遮断し、自分たちだけの閉じられた空を切り取る秘密の楽園。)",
+		"thinking": "建物の壁によって外部の騒音を遮断し、自分たちだけの閉じられた空を切り取る秘密の楽園。",
+		"aftertaste": "「コートヤード（中庭）」に降り注ぐ光は、外のどこよりも優雅で親密な温かさを持っています。",
+		"example": "The ancient courtyard stood tall against the changing seasons.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "cohors",
+					"meaning": "yard) + yard"
+				}
+			],
+			"points": [
+				"空間を区切り、目的を与える「建築」という名の人間の意志表現。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "patio_architecture",
+		"word": "patio",
+		"meaning": "パティオ、中庭",
+		"era": "19th Century",
+		"etymology": {
+			"components": [
+				"Spanish (court)"
+			],
+			"original_statement": "From 19th Century Spanish (court)."
+		},
+		"concept": "A paved outdoor area (内と外の中間地点に位置し、自然の恵みを生活の一部としてカジュアルに楽しむための交差点。)",
+		"thinking": "内と外の中間地点に位置し、自然の恵みを生活の一部としてカジュアルに楽しむための交差点。",
+		"aftertaste": "天気の良い日は「パティオ（中庭）」に出て、ただ風の音に耳を傾けるだけで十分です。",
+		"example": "The ancient patio stood tall against the changing seasons.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "Spanish",
+					"meaning": "court"
+				}
+			],
+			"points": [
+				"空間を区切り、目的を与える「建築」という名の人間の意志表現。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "porch_architecture",
+		"word": "porch",
+		"meaning": "ポーチ、玄関廊",
+		"era": "13th Century",
+		"etymology": {
+			"components": [
+				"porticus (colonnade)"
+			],
+			"original_statement": "From 13th Century porticus (colonnade)."
+		},
+		"concept": "A covered shelter (外の世界へ出る前の最後の避難所であり、お客様を招き入れるための最初の安らぎの空間。)",
+		"thinking": "外の世界へ出る前の最後の避難所であり、お客様を招き入れるための最初の安らぎの空間。",
+		"aftertaste": "雨の日に「ポーチ（玄関先の屋根の下）」で雨宿りをする時間は、不思議な一体感を与えてくれます。",
+		"example": "The ancient porch stood tall against the changing seasons.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "porticus",
+					"meaning": "colonnade"
+				}
+			],
+			"points": [
+				"空間を区切り、目的を与える「建築」という名の人間の意志表現。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "awning_architecture",
+		"word": "awning",
+		"meaning": "日よけ、雨よけ",
+		"era": "17th Century",
+		"etymology": {
+			"components": [
+				"Unknown (sail)"
+			],
+			"original_statement": "From 17th Century Unknown (sail)."
+		},
+		"concept": "A sheet of canvas on a frame (過酷な日差しや雨の刃から、道行く人たちを一時的に守るために張り出された布の小さな慈悲。)",
+		"thinking": "過酷な日差しや雨の刃から、道行く人たちを一時的に守るために張り出された布の小さな慈悲。",
+		"aftertaste": "カフェの「オーニング（日よけ）」の下で雨宿りした偶然が、最高の恋の始まりになるかもしれません。",
+		"example": "The ancient awning stood tall against the changing seasons.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "Unknown",
+					"meaning": "sail"
+				}
+			],
+			"points": [
+				"空間を区切り、目的を与える「建築」という名の人間の意志表現。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "scaffolding_architecture",
+		"word": "scaffolding",
+		"meaning": "足場",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"escadafaut (scaffold)"
+			],
+			"original_statement": "From 14th Century escadafaut (scaffold)."
+		},
+		"concept": "A temporary structure (完成した美しさを生み出すために不可欠でありながら、完成後には跡形もなく撤去される運命にある無名の英雄たち。)",
+		"thinking": "完成した美しさを生み出すために不可欠でありながら、完成後には跡形もなく撤去される運命にある無名の英雄たち。",
+		"aftertaste": "子どもが自立するまでの間、親はただ見守るための「スキャフォールディング（足場）」となるのです。",
+		"example": "The ancient scaffolding stood tall against the changing seasons.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "escadafaut",
+					"meaning": "scaffold"
+				}
+			],
+			"points": [
+				"空間を区切り、目的を与える「建築」という名の人間の意志表現。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "layout_architecture",
+		"word": "layout",
+		"meaning": "配置、間取り",
+		"era": "19th Century",
+		"etymology": {
+			"components": [
+				"lay + out"
+			],
+			"original_statement": "From 19th Century lay + out."
+		},
+		"concept": "The way in which parts are arranged (空間や情報の各要素が互いにどう機能し合うかを俯瞰の視点で最適化し、美しい調和を生み出すデザインの核。)",
+		"thinking": "空間や情報の各要素が互いにどう機能し合うかを俯瞰の視点で最適化し、美しい調和を生み出すデザインの核。",
+		"aftertaste": "部屋の「レイアウト（配置）」を変えるだけで、驚くほど心が軽く、新しい自分に出会えます。",
+		"example": "The ancient layout stood tall against the changing seasons.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "lay",
+					"meaning": "+ out"
+				}
+			],
+			"points": [
+				"空間を区切り、目的を与える「建築」という名の人間の意志表現。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "shrine_architecture",
+		"word": "shrine",
+		"meaning": "神社、聖地",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"scrinium (chest for books)"
+			],
+			"original_statement": "From Old English scrinium (chest for books)."
+		},
+		"concept": "A place regarded as holy (神聖なものや遺物を保護するための箱が拡大し、空間全体を現世から隔離した清浄なアンタッチャブル・ゾーン。)",
+		"thinking": "神聖なものや遺物を保護するための箱が拡大し、空間全体を現世から隔離した清浄なアンタッチャブル・ゾーン。",
+		"aftertaste": "あなたの内なる平和を守る「シュライン（聖域）」には、どんな土足の侵入者も入れてはいけません。",
+		"example": "The ancient shrine stood tall against the changing seasons.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "scrinium",
+					"meaning": "chest for books"
+				}
+			],
+			"points": [
+				"空間を区切り、目的を与える「建築」という名の人間の意志表現。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "altar_architecture",
+		"word": "altar",
+		"meaning": "祭壇",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"altare (high place)"
+			],
+			"original_statement": "From Old English altare (high place)."
+		},
+		"concept": "The table in a Christian church (神と人間の交信のために高所に設けられた、究極の供犠（くぎ）と祈りが捧げられる聖なる結節点。)",
+		"thinking": "神と人間の交信のために高所に設けられた、究極の供犠（くぎ）と祈りが捧げられる聖なる結節点。",
+		"aftertaste": "愛という名の「オルター（祭壇）」の前では、誰もが自分の最も大切なものを喜んで捧げるのです。",
+		"example": "The ancient altar stood tall against the changing seasons.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "altare",
+					"meaning": "high place"
+				}
+			],
+			"points": [
+				"空間を区切り、目的を与える「建築」という名の人間の意志表現。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "steeple_architecture",
+		"word": "steeple",
+		"meaning": "（教会などの）尖塔",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"stepel (tower)"
+			],
+			"original_statement": "From Old English stepel (tower)."
+		},
+		"concept": "A church tower and spire (高い塔と尖塔が組み合わさり、街のどこからでも神の存在を見上げるための圧倒的な垂直のモニュメント。)",
+		"thinking": "高い塔と尖塔が組み合わさり、街のどこからでも神の存在を見上げるための圧倒的な垂直のモニュメント。",
+		"aftertaste": "夕焼けに染まる「スティープル（背の高い教会の塔）」を見上げると、一日のすべての罪が赦された気がします。",
+		"example": "The ancient steeple stood tall against the changing seasons.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "stepel",
+					"meaning": "tower"
+				}
+			],
+			"points": [
+				"空間を区切り、目的を与える「建築」という名の人間の意志表現。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "belfry_architecture",
+		"word": "belfry",
+		"meaning": "鐘楼（しょうろう）",
+		"era": "15th Century",
+		"etymology": {
+			"components": [
+				"berfroi (siege tower)"
+			],
+			"original_statement": "From 15th Century berfroi (siege tower)."
+		},
+		"concept": "The part of a bell tower (もとは敵を監視する塔であったが、やがて平和を告げ、時間を知らせる平和的な音の響きを空から降らす場所へと変容した。)",
+		"thinking": "もとは敵を監視する塔であったが、やがて平和を告げ、時間を知らせる平和的な音の響きを空から降らす場所へと変容した。",
+		"aftertaste": "「ベルフリー（鐘楼）」から響く鐘の音は、悲しみの中にある街のすべての人々に平等に降り注ぐ音の光です。",
+		"example": "The ancient belfry stood tall against the changing seasons.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "berfroi",
+					"meaning": "siege tower"
+				}
+			],
+			"points": [
+				"空間を区切り、目的を与える「建築」という名の人間の意志表現。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "cloister_architecture",
+		"word": "cloister",
+		"meaning": "回廊、修道院",
+		"era": "13th Century",
+		"etymology": {
+			"components": [
+				"claudere (to close)"
+			],
+			"original_statement": "From 13th Century claudere (to close)."
+		},
+		"concept": "A covered walk in a convent (外界の誘惑から完全に「閉ざされた」中庭をぐるりと囲み、神との対話だけをひたすらに繰り返すためのストイックな歩行路。)",
+		"thinking": "外界の誘惑から完全に「閉ざされた」中庭をぐるりと囲み、神との対話だけをひたすらに繰り返すためのストイックな歩行路。",
+		"aftertaste": "時には「クロイスター（回廊）」のように心を世間から切り離し、自分の内面の声だけを聴く散歩をしましょう。",
+		"example": "The ancient cloister stood tall against the changing seasons.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "claudere",
+					"meaning": "to close"
+				}
+			],
+			"points": [
+				"空間を区切り、目的を与える「建築」という名の人間の意志表現。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "catacomb_architecture",
+		"word": "catacomb",
+		"meaning": "地下墓地",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"catacumbae (underground cemetery)"
+			],
+			"original_statement": "From Old English catacumbae (underground cemetery)."
+		},
+		"concept": "An underground cemetery (生者たちの賑やかな街の地下に、死者たちが永遠の眠りにつきながら静かに広がり続ける見えないもう一つの都市。)",
+		"thinking": "生者たちの賑やかな街の地下に、死者たちが永遠の眠りにつきながら静かに広がり続ける見えないもう一つの都市。",
+		"aftertaste": "歴史の光が当たらない「カタコンベ（地下墓地）」にこそ、その時代の真実が生々しく保存されているものです。",
+		"example": "The ancient catacomb stood tall against the changing seasons.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "catacumbae",
+					"meaning": "underground cemetery"
+				}
+			],
+			"points": [
+				"空間を区切り、目的を与える「建築」という名の人間の意志表現。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "dungeon_architecture",
+		"word": "dungeon",
+		"meaning": "地下牢、どんじょん",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"dominus (lord)"
+			],
+			"original_statement": "From 14th Century dominus (lord)."
+		},
+		"concept": "A strong underground prison (城の最も防御が固い主塔であったものが、やがて敵を二度と光を見せない深い闇の底に幽閉する絶望の牢獄へと姿を変えた。)",
+		"thinking": "城の最も防御が固い主塔であったものが、やがて敵を二度と光を見せない深い闇の底に幽閉する絶望の牢獄へと姿を変えた。",
+		"aftertaste": "心の「ダンジョン（地下牢）」にトラウマを押し込めて鍵をかけると、それは闇の中でますます巨大なモンスターに育ちます。",
+		"example": "The ancient dungeon stood tall against the changing seasons.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "dominus",
+					"meaning": "lord"
+				}
+			],
+			"points": [
+				"空間を区切り、目的を与える「建築」という名の人間の意志表現。"
+			]
+		},
+		"part_of_speech": "noun"
 	}
 ];
