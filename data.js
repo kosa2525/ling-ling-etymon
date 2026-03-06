@@ -211971,5 +211971,61 @@ const WORDS = [
 			]
 		},
 		"part_of_speech": "noun"
+	},
+	{
+		"id": "tremor_wonder",
+		"word": "tremor",
+		"meaning": "震え、振動、トレマー",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"tremere (to tremble)"
+			],
+			"original_statement": "From 14th Century tremere (to tremble)."
+		},
+		"concept": "A quavering or vibratory motion, especially in the body of a person (宇宙の（。鼓動が（。、あなた（。という（。存在を「静（。か（。に（。揺（。さ（。ぶ（。る（。トレマー）』こと（。（。その（。峻（。烈（。な（。る（。共鳴を、魂で（。、一一点の（。曇り（。な（。く（。、感（。じ（。て（。いて（。ください。)",
+		"thinking": "宇宙の（。鼓動が（。、あなた（。という（。存在を「静（。か（。に（。揺（。さ（。ぶ（。る（。トレマー）』こと（。（。その（。峻（。烈（。な（。る（。共鳴を、魂で（。、一一点の（。曇り（。な（。く（。、感（。じ（。て（。いて（。ください。",
+		"aftertaste": "奇跡は、待っている者の元には訪れない。不可能という名の壁を、自らの魂で何度も叩き続けた者の前にだけ、静かに拓かれる扉なのですよ。",
+		"example": "The biological tremor that allowed the tiny seed to grow into a massive redwood tree baffled scientists for generations.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "tremere",
+					"meaning": "to tremble"
+				}
+			],
+			"points": [
+				"息を吐くこと。それは、魂が世界と一体になるための、最も根源的なる祈りの形式なのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "blast_wonder",
+		"word": "blast",
+		"meaning": "爆風、突風、ブラスト",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"blæst (blowing, breeze, literal: 'strong gust')"
+			],
+			"original_statement": "From Old English blæst (blowing, breeze, literal: 'strong gust')."
+		},
+		"concept": "A destructive wave of highly compressed air spreading outward from an explosion (沈黙を（。一（。瞬（。にして（。、「叩（。き（。壊（。す（。ブラスト）』、至高の（。る（。る（。息（。吹（。き（。（。その（。峻（。烈（。な（。る（。る（。激（。動の（。中にこそ（。、真実（。の（。輝きが（。、宿ります。)",
+		"thinking": "沈黙を（。一（。瞬（。にして（。、「叩（。き（。壊（。す（。ブラスト）』、至高の（。る（。る（。息（。吹（。き（。（。その（。峻（。烈（。な（。る（。る（。激（。動の（。中にこそ（。、真実（。の（。輝きが（。、宿ります。",
+		"aftertaste": "奇跡は、待っている者の元には訪れない。不可能という名の壁を、自らの魂で何度も叩き続けた者の前にだけ、静かに拓かれる扉なのですよ。",
+		"example": "The biological blast that allowed the tiny seed to grow into a massive redwood tree baffled scientists for generations.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "blæst",
+					"meaning": "blowing, breeze, literal: 'strong gust'"
+				}
+			],
+			"points": [
+				"息を吐くこと。それは、魂が世界と一体になるための、最も根源的なる祈りの形式なのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
 	}
 ];
