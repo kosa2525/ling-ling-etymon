@@ -197693,5 +197693,62 @@ const WORDS = [
 			]
 		},
 		"part_of_speech": "verb"
+	},
+	{
+		"id": "zenith_peak_fixed",
+		"word": "Zenith",
+		"meaning": "天頂、絶頂、極致、頂点",
+		"era": "14th Century Arabic samt",
+		"etymology": {
+			"components": [
+				"samt (way, path, direction)",
+				"samt ar-ras (way over the head)"
+			],
+			"original_statement": "From Old French zenith, from Medieval Latin cenit, from Arabic samt (way, path, direction), as in samt ar-ras (way over the head)."
+		},
+		"concept": "Way over head (「主観（subjective）」な 「限界（limit）」を 「垂直（vertical）」に 「超越（transcend）」し 「宇宙（cosmos）」の 「中心」と 繋がること)",
+		"thinking": "横に 広がる 成功 ではなく、自らの 精神を 極限まで 研ぎ澄まし（フォーカス）、天（ハイ・プレイス）と 直結した 瞬間に 到達する、孤高で 聖なる 絶頂の状態. 語源は「頭上の道」. それは ゴール ではなく 存在の 密度が 最大化し 宇宙の 意志と 同化した 瞬間の 表現です. 極致は、祈りです.",
+		"aftertaste": "頭上の輝き. 目先の 損得（よこみち）に 惑わさないで. あなたが 直向（ひたむ）きな 情熱で 自分の「ゼニス（天頂）」を 目指し続けるとき その 頂（いただき）から 見える 景色は あなたの 人生を 永遠の 祝福で 満たしてくれるのだから.",
+		"example": "At the zenith of his power, the emperor controlled a territory that stretched across three continents.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "unknown",
+					"meaning": "none"
+				}
+			],
+			"points": [
+				"nadir（天底：足の下の道）と 対になる 概念。垂直方向への 精神の 拡張。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "acme_peak",
+		"word": "Acme",
+		"meaning": "絶頂、最高点、(病気の)極期",
+		"era": "16th Century Greek akme",
+		"etymology": {
+			"components": [
+				"akme (highest point, peak, edge)"
+			],
+			"original_statement": "From Greek akme (highest point, peak, edge), from ake (point)."
+		},
+		"concept": "Sharpest point (「努力（effort）」が 「針の先（needle point）」のように 「凝縮（condense）」され 「完璧（perfect）」な 「形」を 成した 瞬間)",
+		"thinking": "膨大な 蓄積の 果てに 訪れる、これ以上 何も 足せず 何も 引けない（ミニマリズム）、極限の バランス点. 語源は「尖った先端、刃」. それは 安定 ではなく 鋭利な 知性と 緊張感の 果てに 産み出される 聖なる「完成（フィニッシュ）」の 表現です. 絶頂は、刃先です.",
+		"aftertaste": "完璧の刃先. 妥協して 途中で 投げ出さないで. あなたが 最後の 磨き（ポリッシュ）を 怠らず 自分の「アクミ（最高点）」に 到達しようと するとき その 鋭い 輝きは どんな 困難な 障壁も 切り裂く 聖なる 力に なるのだから.",
+		"example": "The artist felt that this symphony represented the acme of his creative achievements.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ak-",
+					"meaning": "sharp, pointed"
+				}
+			],
+			"points": [
+				"acid（酸：鋭い味）や acrobat（アクロバット：高い所の先端を行く人）と同じ。鋭さのルーツ。"
+			]
+		},
+		"part_of_speech": "noun"
 	}
 ];
