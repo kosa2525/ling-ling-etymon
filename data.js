@@ -183320,5 +183320,147 @@ const WORDS = [
 			]
 		},
 		"part_of_speech": "verb"
+	},
+	{
+		"id": "courage_bold",
+		"word": "Bold",
+		"meaning": "大胆な、勇敢な、不敵な",
+		"era": "Old English beald",
+		"etymology": {
+			"components": [
+				"bhel- (to swell, blow, puff up)"
+			],
+			"original_statement": "From Old English beald, from Proto-Germanic *balpaz (bold, strong), from PIE *bhel- (to swell)."
+		},
+		"concept": "Swollen with strength (力が膨らみ、「パンパン」に満ちている状態)",
+		"thinking": "ただ勇気があるだけでなく、自分の中の力や意志が極限まで「膨らみ（swell）」、内側からはち切れんばかりになっている様子。恐れを飲み込むほどの圧倒的なエネルギーの放射。デザインの『太字（Bold）』が目立つのと同じく、周囲を圧するほどの強い存在感の表明です。",
+		"aftertaste": "内側からはじける意志。世界を押し広げる、静かな爆発。",
+		"example": "He made a bold decision to quit his job and travel the world.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "bhel-",
+					"meaning": "to swell, bloom"
+				}
+			],
+			"points": [
+				"ball（ボール：膨らんだもの）や flower（花：開くもの）と同じルーツ。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "resilience_bold",
+		"word": "Resilience",
+		"meaning": "回復力、弾力、折れない心",
+		"era": "17th Century Latin resilire",
+		"etymology": {
+			"components": [
+				"re- (back)",
+				"salire (to jump, leap)"
+			],
+			"original_statement": "From Latin resilientia, from resilire (to rebound, recoil), from re- (back) + salire (to jump, leap)."
+		},
+		"concept": "To leap back (（打ちのめされても）跳ね返ってくること)",
+		"thinking": "硬い鉄のような強さではなく、柳の枝やゴム毬のような「しなやかさ」。強い圧力や衝撃を受けて形が変わっても、次の瞬間には元の姿へと「飛び跳ねて戻る（leap back）」力。何度倒されても、その衝撃をバネにして再び立ち上がる、生命の柔軟な逞しさです。",
+		"aftertaste": "折れない。ただ、しなやかに受け流し、再び高く跳ぶための準備をする。",
+		"example": "The community showed amazing resilience after the devastating earthquake.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sel-",
+					"meaning": "to jump"
+				}
+			],
+			"points": [
+				"result（結果：飛び出してくるもの）や saltatory（跳躍の）と同じ『跳ぶ』ルーツ。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "fortitude_bold",
+		"word": "Fortitude",
+		"meaning": "不屈の精神、忍耐、勇気",
+		"era": "14th Century Old French/Latin fortis",
+		"etymology": {
+			"components": [
+				"fortis (strong, brave, steadfast)"
+			],
+			"original_statement": "From Old French fortitude, from Latin fortitudo (strength, firmness, bravery), from fortis (strong)."
+		},
+		"concept": "Firmness and strength (堅牢な城塞のような精神の強さ)",
+		"thinking": "瞬間的な爆発力ではなく、長い苦難や逆境の中でも決して崩れない「持続的な強さ」。語源の fortis は「砦（fort）」と同じ。自分の内側に、外部の嵐を寄せ付けない強固な石造りの要塞を築き、静かに耐え抜き、守り抜く、気高き精神の背骨です。",
+		"aftertaste": "外は嵐。けれど、内側の砦は一欠片（ひとかけら）も崩れない。",
+		"example": "Dealing with chronic illness requires great mental fortitude.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "bhergh-",
+					"meaning": "high, mountain, tower"
+				}
+			],
+			"points": [
+				"force（力）や comfort（慰め：共に強くすること）と同じ。支柱としての強さ。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "venture_bold",
+		"word": "Venture",
+		"meaning": "冒険、ベンチャー、危険を冒して行く",
+		"era": "15th Century English adventure",
+		"etymology": {
+			"components": [
+				"adventure (that which is about to happen)"
+			],
+			"original_statement": "A shortened form of adventure, from Old French aventure, from Latin adventura (a thing about to happen), from advenire (to arrive)."
+		},
+		"concept": "What is about to arrive (やって来ようとしている未来への一歩)",
+		"thinking": "「やって来る（ad-venire）」ことが語源。待っているのではなく、自分から何かが起ころうとしている未知の領域へと、リスクを承知で「踏み出していく」こと。完全な予測ができないからこそ、そこにあるのは可能性という名の賭けであり、生命の輝かしい挑戦です。",
+		"aftertaste": "リスクの向こう側にしか、出会えない景色がある。",
+		"example": "The entrepreneurs decided to venture into the renewable energy market.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "gwā-",
+					"meaning": "to go, come"
+				}
+			],
+			"points": [
+				"avenue（並木道）や souvenir（思い出：下から湧き上がって来るもの）と同じファミリー。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "persevere_bold",
+		"word": "Persevere",
+		"meaning": "貫き通す、不屈の努力を続ける",
+		"era": "14th Century Old French/Latin per- + severus",
+		"etymology": {
+			"components": [
+				"per- (very, thoroughly)",
+				"severus (strict, serious)"
+			],
+			"original_statement": "From Old French perseverer, from Latin perseverare (continue steadfastly), from per- (very) + severus (strict, serious)."
+		},
+		"concept": "To be thoroughly strict with oneself (自分に対して徹底的に厳格であり続けること)",
+		"thinking": "やり遂げるまで、自分を決して甘やかさない「徹底した（per-）」「厳格さ（severus）」。途中で投げ出したいという誘惑を、重厚な真剣さ（seriousness）で撥ね退け、一歩一歩、終わりに向かって着実に歩みを進めること。その地味で孤独な継続こそが、奇跡への道です。",
+		"aftertaste": "派手さはない。ただ、最後の一秒まで止まらないという、静かな決意。",
+		"example": "Despite many setbacks, he persevered with his research for ten years.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "se-",
+					"meaning": "apart, aside (possible)"
+				}
+			],
+			"points": [
+				"severe（厳しい）や serious（真面目な）の仲間。遊びではない、生命の真剣勝負。"
+			]
+		},
+		"part_of_speech": "verb"
 	}
 ];
