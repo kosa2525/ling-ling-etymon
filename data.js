@@ -210319,5 +210319,33 @@ const WORDS = [
 			]
 		},
 		"part_of_speech": "noun"
+	},
+	{
+		"id": "soma_essence",
+		"word": "soma",
+		"meaning": "ソーマ、身体、肉体",
+		"era": "19th Century",
+		"etymology": {
+			"components": [
+				"soma (body)"
+			],
+			"original_statement": "From 19th Century soma (body)."
+		},
+		"concept": "The parts of an organism other than the reproductive cells (魂が（。この（。地上で（。装（。う（。ための「衣（。裳（。ソーマ）』。（。その（。峻（。烈（。な（。る（。物質（。性（。に（。、感謝（。を（。捧（。げ（。る（。とき、生命（。は（。、新（。しい（。輝（。きを（。、放（。ち（。始め（。る（。のですよ。)",
+		"thinking": "魂が（。この（。地上で（。装（。う（。ための「衣（。裳（。ソーマ）』。（。その（。峻（。烈（。な（。る（。物質（。性（。に（。、感謝（。を（。捧（。げ（。る（。とき、生命（。は（。、新（。しい（。輝（。きを（。、放（。ち（。始め（。る（。のですよ。",
+		"aftertaste": "実体は、目に見える形に依存しているのではない。それを支える、見えない意志にこそ宿っているのですよ。",
+		"example": "The philosopher spent his entire life contemplating the soma of human existence and the nature of reality.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "soma",
+					"meaning": "body"
+				}
+			],
+			"points": [
+				"『これ』というかけがえのなさを愛することから、真実の対話は始まるのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
 	}
 ];
