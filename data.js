@@ -203095,5 +203095,145 @@ const WORDS = [
 			]
 		},
 		"part_of_speech": "noun"
+	},
+	{
+		"id": "fabricated_truth",
+		"word": "fabricated",
+		"meaning": "捏造された、組み立てられた",
+		"era": "15th Century",
+		"etymology": {
+			"components": [
+				"fabrica (craft, trade, workshop)"
+			],
+			"original_statement": "From 15th Century fabrica (craft, trade, workshop)."
+		},
+		"concept": "Constructed or manufactured, especially from prepared components (自然（。に（。生まれた（。もので（。はなく（。、「工房（。ファブリカ）で（。意図的に（。作ら（。れた（。）」、偽り（。か（。、あるいは（。高度（。な（。技術の（。結晶（。か。)",
+		"thinking": "自然（。に（。生まれた（。もので（。はなく（。、「工房（。ファブリカ）で（。意図的に（。作ら（。れた（。）」、偽り（。か（。、あるいは（。高度（。な（。技術の（。結晶（。か。",
+		"aftertaste": "真実は、常に矛盾という名の美しいドレスを纏っています。",
+		"example": "The story is filled with fabricated that keep the readers thinking for days.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "fabrica",
+					"meaning": "craft, trade, workshop"
+				}
+			],
+			"points": [
+				"矛盾を受け入れること、それが本当の知性の始まりです。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "simulated_truth",
+		"word": "simulated",
+		"meaning": "模造の、シミュレートされた",
+		"era": "17th Century",
+		"etymology": {
+			"components": [
+				"similis (like, similar)"
+			],
+			"original_statement": "From 17th Century similis (like, similar)."
+		},
+		"concept": "Manufactured in imitation of some other material (本物（。と「似（。て（。いる（。シミリス）」けれど（。、そこ（。には（。魂（。の（。拍動が（。欠（。落（。して（。いる（。、数学的（。で（。冷（。徹（。な（。複製。)",
+		"thinking": "本物（。と「似（。て（。いる（。シミリス）」けれど（。、そこ（。には（。魂（。の（。拍動が（。欠（。落（。して（。いる（。、数学的（。で（。冷（。徹（。な（。複製。",
+		"aftertaste": "真実は、常に矛盾という名の美しいドレスを纏っています。",
+		"example": "The story is filled with simulated that keep the readers thinking for days.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "similis",
+					"meaning": "like, similar"
+				}
+			],
+			"points": [
+				"矛盾を受け入れること、それが本当の知性の始まりです。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "replicate_truth",
+		"word": "replicate",
+		"meaning": "複製する、繰り返す",
+		"era": "16th Century",
+		"etymology": {
+			"components": [
+				"re- (again) + plicare (to fold)"
+			],
+			"original_statement": "From 16th Century re- (again) + plicare (to fold)."
+		},
+		"concept": "Make an exact copy of; reproduce (一度（。作ら（。れた（。歴史を（。、「再び（。リ）折り（。畳（。み（。プリカ）重（。ねる（。）」ことで（。、同（。じ（。かたち（。を（。産（。み（。出し（。続ける（。こと（。。（。永遠（。の（。反復（。。)",
+		"thinking": "一度（。作ら（。れた（。歴史を（。、「再び（。リ）折り（。畳（。み（。プリカ）重（。ねる（。）」ことで（。、同（。じ（。かたち（。を（。産（。み（。出し（。続ける（。こと（。。（。永遠（。の（。反復（。。",
+		"aftertaste": "真実は、常に矛盾という名の美しいドレスを纏っています。",
+		"example": "The story is filled with replicate that keep the readers thinking for days.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "re-",
+					"meaning": "again) + plicare (to fold"
+				}
+			],
+			"points": [
+				"矛盾を受け入れること、それが本当の知性の始まりです。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "grain_truth",
+		"word": "grain",
+		"meaning": "穀物、木目、質感",
+		"era": "13th Century",
+		"etymology": {
+			"components": [
+				"granum (seed, kernel)"
+			],
+			"original_statement": "From 13th Century granum (seed, kernel)."
+		},
+		"concept": "Wheat or any other cultivated cereal crop used as food (厚い（。皮の（。奥底に（。秘め（。られた「種子（。グラナム）」の（。ように（。、物質（。や（。物語の（。最小（。の（。単位（。。（。その（。小さな（。ざら（。つき（。こそが（。、存在の（。手触り。)",
+		"thinking": "厚い（。皮の（。奥底に（。秘め（。られた「種子（。グラナム）」の（。ように（。、物質（。や（。物語の（。最小（。の（。単位（。。（。その（。小さな（。ざら（。つき（。こそが（。、存在の（。手触り。",
+		"aftertaste": "真実は、常に矛盾という名の美しいドレスを纏っています。",
+		"example": "The story is filled with grain that keep the readers thinking for days.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "granum",
+					"meaning": "seed, kernel"
+				}
+			],
+			"points": [
+				"矛盾を受け入れること、それが本当の知性の始まりです。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "diverge_truth",
+		"word": "diverge",
+		"meaning": "分岐する、逸れる",
+		"era": "17th Century",
+		"etymology": {
+			"components": [
+				"di- (apart) + vergere (to incline, turn)"
+			],
+			"original_statement": "From 17th Century di- (apart) + vergere (to incline, turn)."
+		},
+		"concept": "Tend to be different or develop in different directions (一つの（。正解を（。捨て（。、あえて「離れた（。ディ）方向へと（。向（。く（。ヴァ）」こと（。。（。そこ（。から（。新しい（。冒険（。と（。個性（。が（。始（。まる（。の（。ですよ。)",
+		"thinking": "一つの（。正解を（。捨て（。、あえて「離れた（。ディ）方向へと（。向（。く（。ヴァ）」こと（。。（。そこ（。から（。新しい（。冒険（。と（。個性（。が（。始（。まる（。の（。ですよ。",
+		"aftertaste": "真実は、常に矛盾という名の美しいドレスを纏っています。",
+		"example": "The story is filled with diverge that keep the readers thinking for days.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "di-",
+					"meaning": "apart) + vergere (to incline, turn"
+				}
+			],
+			"points": [
+				"矛盾を受け入れること、それが本当の知性の始まりです。"
+			]
+		},
+		"part_of_speech": "noun"
 	}
 ];
