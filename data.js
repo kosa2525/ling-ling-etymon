@@ -205419,5 +205419,173 @@ const WORDS = [
 			]
 		},
 		"part_of_speech": "noun"
+	},
+	{
+		"id": "apparition_ghost",
+		"word": "apparition",
+		"meaning": "出現、亡霊、離現（。りげん（。）」",
+		"era": "15th Century",
+		"etymology": {
+			"components": [
+				"ad- (to) + parere (to come forth, appear)"
+			],
+			"original_statement": "From 15th Century ad- (to) + parere (to come forth, appear)."
+		},
+		"concept": "A ghost or ghostlike image of a person (何（。も（。ない（。場所（。から（。、不（。意に「現（。れ（。て（。パラ）来る（。アド）」こと（。。（。それは（。、宇宙の（。深淵（。から（。届いた（。、一通（。の（。無（。言（。の（。手紙（。の（。ような（。存在。)",
+		"thinking": "何（。も（。ない（。場所（。から（。、不（。意に「現（。れ（。て（。パラ）来る（。アド）」こと（。。（。それは（。、宇宙の（。深淵（。から（。届いた（。、一通（。の（。無（。言（。の（。手紙（。の（。ような（。存在。",
+		"aftertaste": "影は、光が存在するというたった一つの証明であり、同時に魂の休息場所です。",
+		"example": "The old manor was said to be haunted by a quiet apparition that appeared during the full moon.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ad-",
+					"meaning": "to) + parere (to come forth, appear"
+				}
+			],
+			"points": [
+				"不在とは、単なる欠落ではなく、そこに何かが存在したという強烈な記憶のことなのです。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "residue_ghost",
+		"word": "residue",
+		"meaning": "残余、かす、レジデュー",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"re- (back) + sedere (to sit)"
+			],
+			"original_statement": "From 14th Century re- (back) + sedere (to sit)."
+		},
+		"concept": "A small amount of something that remains after the main part has gone or been taken or used (全（。てが（。去（。り（。行（。っ（。た（。後（。に（。、ただ（。そこに「後ろ向きに（。リ）座（。り（。続（。け（。て（。いる（。セド）」沈黙（。。（。それが（。、かつての（。烈（。しい（。情熱の（。、最後（。の（。証言（。なのです。)",
+		"thinking": "全（。てが（。去（。り（。行（。っ（。た（。後（。に（。、ただ（。そこに「後ろ向きに（。リ）座（。り（。続（。け（。て（。いる（。セド）」沈黙（。。（。それが（。、かつての（。烈（。しい（。情熱の（。、最後（。の（。証言（。なのです。",
+		"aftertaste": "影は、光が存在するというたった一つの証明であり、同時に魂の休息場所です。",
+		"example": "The old manor was said to be haunted by a quiet residue that appeared during the full moon.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "re-",
+					"meaning": "back) + sedere (to sit"
+				}
+			],
+			"points": [
+				"不在とは、単なる欠落ではなく、そこに何かが存在したという強烈な記憶のことなのです。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "haunt_ghost",
+		"word": "haunt",
+		"meaning": "（幽霊が）出没する、つきまとう、たまり場",
+		"era": "13th Century",
+		"etymology": {
+			"components": [
+				"ham (home) + et (little)"
+			],
+			"original_statement": "From 13th Century ham (home) + et (little)."
+		},
+		"concept": "Of a ghost manifest itself at a place regularly; be persistently in the mind of someone (かつて（。は（。安（。ら（。ぎの「小さな（。エ）家（。ハム）」だった（。はずの（。場所（。。（。今（。では（。、逃（。げ（。られ（。ない（。記憶（。の（。檻（。として（。、あなた（。を（。捕（。ら（。え（。続け（。て（。いる（。のですね。)",
+		"thinking": "かつて（。は（。安（。ら（。ぎの「小さな（。エ）家（。ハム）」だった（。はずの（。場所（。。（。今（。では（。、逃（。げ（。られ（。ない（。記憶（。の（。檻（。として（。、あなた（。を（。捕（。ら（。え（。続け（。て（。いる（。のですね。",
+		"aftertaste": "影は、光が存在するというたった一つの証明であり、同時に魂の休息場所です。",
+		"example": "The old manor was said to be haunted by a quiet haunt that appeared during the full moon.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ham",
+					"meaning": "home) + et (little"
+				}
+			],
+			"points": [
+				"不在とは、単なる欠落ではなく、そこに何かが存在したという強烈な記憶のことなのです。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "fixation_ghost",
+		"word": "fixation",
+		"meaning": "固執、固定、フィクセーション",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"figere (to fasten, fix)"
+			],
+			"original_statement": "From 14th Century figere (to fasten, fix)."
+		},
+		"concept": "An obsessive interest in or feeling about someone or something (時間（。の（。流れ（。を（。止め（。、ただ一（。点（。に「心（。を（。釘付け（。に（。する（。フィク）」こと（。。（。その（。凍（。り付（。いた（。情熱が（。、あなた（。の（。成長（。を（。、静（。か（。に（。阻（。んで（。いる（。の（。かも（。しれ（。ません。)",
+		"thinking": "時間（。の（。流れ（。を（。止め（。、ただ一（。点（。に「心（。を（。釘付け（。に（。する（。フィク）」こと（。。（。その（。凍（。り付（。いた（。情熱が（。、あなた（。の（。成長（。を（。、静（。か（。に（。阻（。んで（。いる（。の（。かも（。しれ（。ません。",
+		"aftertaste": "影は、光が存在するというたった一つの証明であり、同時に魂の休息場所です。",
+		"example": "The old manor was said to be haunted by a quiet fixation that appeared during the full moon.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "figere",
+					"meaning": "to fasten, fix"
+				}
+			],
+			"points": [
+				"不在とは、単なる欠落ではなく、そこに何かが存在したという強烈な記憶のことなのです。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "ruin_ghost",
+		"word": "ruin",
+		"meaning": "廃墟、破滅、ルイン",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"ruere (to fall down, rush)"
+			],
+			"original_statement": "From 14th Century ruere (to fall down, rush)."
+		},
+		"concept": "The physical destruction or disintegration of something or the state of disappearing or falling to pieces (かつて（。の（。栄（。光（。が（。、重力（。という（。名の（。運命に（。抗（。え（。ず（。、「崩（。れ（。落ち（。た（。ルエ）」姿（。。（。その（。沈黙（。の（。中に（。、私たちは（。時間（。の（。残酷（。さと（。慈愛（。を（。同時（。に（。見（。る（。のですよ。)",
+		"thinking": "かつて（。の（。栄（。光（。が（。、重力（。という（。名の（。運命に（。抗（。え（。ず（。、「崩（。れ（。落ち（。た（。ルエ）」姿（。。（。その（。沈黙（。の（。中に（。、私たちは（。時間（。の（。残酷（。さと（。慈愛（。を（。同時（。に（。見（。る（。のですよ。",
+		"aftertaste": "影は、光が存在するというたった一つの証明であり、同時に魂の休息場所です。",
+		"example": "The old manor was said to be haunted by a quiet ruin that appeared during the full moon.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ruere",
+					"meaning": "to fall down, rush"
+				}
+			],
+			"points": [
+				"不在とは、単なる欠落ではなく、そこに何かが存在したという強烈な記憶のことなのです。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "scar_ghost",
+		"word": "scar",
+		"meaning": "傷跡、スカー",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"eskhara (scab, fireplace)"
+			],
+			"original_statement": "From 14th Century eskhara (scab, fireplace)."
+		},
+		"concept": "A mark left on the skin or within body tissue where a wound, burn, or sore has not healed completely and fibrous connective tissue has developed (烈（。しい（。火（。に（。焼（。かれ（。た（。後の「燃（。え（。残り（。エス）」。（。痛み（。は（。消えても（。、そこ（。には（。、あなたが（。生き（。抜（。いた（。という（。、誇（。り（。高い（。勲（。章（。が（。刻ま（。れて（。いる（。のですよ。)",
+		"thinking": "烈（。しい（。火（。に（。焼（。かれ（。た（。後の「燃（。え（。残り（。エス）」。（。痛み（。は（。消えても（。、そこ（。には（。、あなたが（。生き（。抜（。いた（。という（。、誇（。り（。高い（。勲（。章（。が（。刻ま（。れて（。いる（。のですよ。",
+		"aftertaste": "影は、光が存在するというたった一つの証明であり、同時に魂の休息場所です。",
+		"example": "The old manor was said to be haunted by a quiet scar that appeared during the full moon.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "eskhara",
+					"meaning": "scab, fireplace"
+				}
+			],
+			"points": [
+				"不在とは、単なる欠落ではなく、そこに何かが存在したという強烈な記憶のことなのです。"
+			]
+		},
+		"part_of_speech": "noun"
 	}
 ];
