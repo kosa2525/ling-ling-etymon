@@ -189795,5 +189795,1125 @@ const WORDS = [
 			]
 		},
 		"part_of_speech": "adjective"
+	},
+	{
+		"id": "clatter_sound",
+		"word": "clatter",
+		"meaning": "カタカタ鳴る",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"clatrung (noise)"
+			],
+			"original_statement": "From Old English clatrung (noise)."
+		},
+		"concept": "Loud rattling (硬いもの同士がぶつかり合い、静寂を乱す不規則で攻撃的なリズム。)",
+		"thinking": "硬いもの同士がぶつかり合い、静寂を乱す不規則で攻撃的なリズム。",
+		"aftertaste": "心の中の「クラッター（カタカタ鳴る音）」を鎮め、深い静寂を取り戻しましょう。",
+		"example": "We could hear the clatter in the distance.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "clatrung",
+					"meaning": "noise"
+				}
+			],
+			"points": [
+				"音の響き（擬音語）がそのまま言葉の魂へ直結する世界。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "rustle_sound",
+		"word": "rustle",
+		"meaning": "カサカサ鳴る",
+		"era": "Middle English",
+		"etymology": {
+			"components": [
+				"roustle (susurrate)"
+			],
+			"original_statement": "From Middle English roustle (susurrate)."
+		},
+		"concept": "Soft crackling (乾いた葉が触れ合うような微細な摩擦音に宿る、気配という名のメッセージ。)",
+		"thinking": "乾いた葉が触れ合うような微細な摩擦音に宿る、気配という名のメッセージ。",
+		"aftertaste": "風の「ラッスル（かすかな絹鳴り）」に耳を澄ませば、不可視の存在を感じ取れます。",
+		"example": "We could hear the rustle in the distance.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "roustle",
+					"meaning": "susurrate"
+				}
+			],
+			"points": [
+				"音の響き（擬音語）がそのまま言葉の魂へ直結する世界。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "groan_sound",
+		"word": "groan",
+		"meaning": "うめく、きしむ",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"granian (to murmur, groan)"
+			],
+			"original_statement": "From Old English granian (to murmur, groan)."
+		},
+		"concept": "Deep moan of pain (声帯を通さずとも、内なる苦痛や軋み（きしみ）が物理的な重みを持って世界へ漏れ出ること。)",
+		"thinking": "声帯を通さずとも、内なる苦痛や軋み（きしみ）が物理的な重みを持って世界へ漏れ出ること。",
+		"aftertaste": "古い床が「グローン（きしむ）」ように、あなたの心の歪みも時には音を立てて悲鳴を上げます。",
+		"example": "We could hear the groan in the distance.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "granian",
+					"meaning": "to murmur, groan"
+				}
+			],
+			"points": [
+				"音の響き（擬音語）がそのまま言葉の魂へ直結する世界。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "creak_sound",
+		"word": "creak",
+		"meaning": "きしむ",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"kreken (to make a harsh noise)"
+			],
+			"original_statement": "From 14th Century kreken (to make a harsh noise)."
+		},
+		"concept": "Harsh squeaking (長年の負荷に耐えきれなくなった物質が発する、限界と悲鳴の交差点。)",
+		"thinking": "長年の負荷に耐えきれなくなった物質が発する、限界と悲鳴の交差点。",
+		"aftertaste": "「クリーク（きしむ音）」は、それが休む間もなくあなたを支え続けてきたという愛の証明です。",
+		"example": "We could hear the creak in the distance.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kreken",
+					"meaning": "to make a harsh noise"
+				}
+			],
+			"points": [
+				"音の響き（擬音語）がそのまま言葉の魂へ直結する世界。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "hiss_sound",
+		"word": "hiss",
+		"meaning": "シューッという音",
+		"era": "Middle English",
+		"etymology": {
+			"components": [
+				"hissen (to make a sibilant sound)"
+			],
+			"original_statement": "From Middle English hissen (to make a sibilant sound)."
+		},
+		"concept": "Sibilant sound (蒸気や怒りが、狭い隙間をこじ開けて噴出する暴力的な警告音。)",
+		"thinking": "蒸気や怒りが、狭い隙間をこじ開けて噴出する暴力的な警告音。",
+		"aftertaste": "ヘビの「ヒス（威嚇音）」は恐怖ではなく、不用意に近づくなという明確で親切な境界線です。",
+		"example": "We could hear the hiss in the distance.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "hissen",
+					"meaning": "to make a sibilant sound"
+				}
+			],
+			"points": [
+				"音の響き（擬音語）がそのまま言葉の魂へ直結する世界。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "sizzle_sound",
+		"word": "sizzle",
+		"meaning": "ジュージュー鳴る",
+		"era": "17th Century",
+		"etymology": {
+			"components": [
+				"sizzlen (imitative)"
+			],
+			"original_statement": "From 17th Century sizzlen (imitative)."
+		},
+		"concept": "Hissing while frying (熱と油という異なるエネルギーが衝突し、破壊と再生を繰り返す歓喜の叫び。)",
+		"thinking": "熱と油という異なるエネルギーが衝突し、破壊と再生を繰り返す歓喜の叫び。",
+		"aftertaste": "美味しい料理の「シズル（ジュージュー焼ける音）」は、命をいただく本能的な祝福です。",
+		"example": "We could hear the sizzle in the distance.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sizzlen",
+					"meaning": "imitative"
+				}
+			],
+			"points": [
+				"音の響き（擬音語）がそのまま言葉の魂へ直結する世界。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "thud_sound",
+		"word": "thud",
+		"meaning": "ドスッという音",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"thoden (a violent wind)"
+			],
+			"original_statement": "From Old English thoden (a violent wind)."
+		},
+		"concept": "Dull heavy sound (重力の法則に従い、質量を持った存在が容赦なく大地と激突する絶望的な響き。)",
+		"thinking": "重力の法則に従い、質量を持った存在が容赦なく大地と激突する絶望的な響き。",
+		"aftertaste": "失望が「サッド（鈍い音）」と共に落ちてきても、いずれその上に新しい花が咲きます。",
+		"example": "We could hear the thud in the distance.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "thoden",
+					"meaning": "a violent wind"
+				}
+			],
+			"points": [
+				"音の響き（擬音語）がそのまま言葉の魂へ直結する世界。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "splash_sound",
+		"word": "splash",
+		"meaning": "バシャッという音",
+		"era": "18th Century",
+		"etymology": {
+			"components": [
+				"plash (puddle)"
+			],
+			"original_statement": "From 18th Century plash (puddle)."
+		},
+		"concept": "Sound of liquid scattering (液体の表面張力が打ち砕かれ、無数の飛沫（しぶき）となって四方八方に拡散すること。)",
+		"thinking": "液体の表面張力が打ち砕かれ、無数の飛沫（しぶき）となって四方八方に拡散すること。",
+		"aftertaste": "「スプラッシュ（水しぶき）」を上げて、停滞した日常の水面に大きな波紋を起こしましょう。",
+		"example": "We could hear the splash in the distance.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "plash",
+					"meaning": "puddle"
+				}
+			],
+			"points": [
+				"音の響き（擬音語）がそのまま言葉の魂へ直結する世界。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "trickle_sound",
+		"word": "trickle",
+		"meaning": "したたる、ちょろちょろ流れる",
+		"era": "Middle English",
+		"etymology": {
+			"components": [
+				"triklen (to flow in drops)"
+			],
+			"original_statement": "From Middle English triklen (to flow in drops)."
+		},
+		"concept": "Flow in thin stream (細く、途切れそうになりながらも、決して止まることのない粘り強い生命の脈動。)",
+		"thinking": "細く、途切れそうになりながらも、決して止まることのない粘り強い生命の脈動。",
+		"aftertaste": "「トリックル（滴り）」ほどの小さな進歩でも、岩を穿つ（うがつ）だけの力を秘めています。",
+		"example": "We could hear the trickle in the distance.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "triklen",
+					"meaning": "to flow in drops"
+				}
+			],
+			"points": [
+				"音の響き（擬音語）がそのまま言葉の魂へ直結する世界。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "gurgle_sound",
+		"word": "gurgle",
+		"meaning": "ゴボゴボ鳴る",
+		"era": "15th Century",
+		"etymology": {
+			"components": [
+				"gurgulio (windpipe, gullet)"
+			],
+			"original_statement": "From 15th Century gurgulio (windpipe, gullet)."
+		},
+		"concept": "Bubbling sound (空気が液体を通り抜ける際に生じる、無邪気で生々しい身体的な共鳴。)",
+		"thinking": "空気が液体を通り抜ける際に生じる、無邪気で生々しい身体的な共鳴。",
+		"aftertaste": "小川の「ガーグル（うがいをするような音）」は、大地が楽しそうに笑っている声です。",
+		"example": "We could hear the gurgle in the distance.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "gurgulio",
+					"meaning": "windpipe, gullet"
+				}
+			],
+			"points": [
+				"音の響き（擬音語）がそのまま言葉の魂へ直結する世界。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "rumble_sound",
+		"word": "rumble",
+		"meaning": "ゴロゴロ鳴る",
+		"era": "Middle English",
+		"etymology": {
+			"components": [
+				"rumblen (to make a low heavy noise)"
+			],
+			"original_statement": "From Middle English rumblen (to make a low heavy noise)."
+		},
+		"concept": "Deep resonant sound (遠くの雷や地面の底から伝わってくる、抗うことのできない巨大な力の予兆。)",
+		"thinking": "遠くの雷や地面の底から伝わってくる、抗うことのできない巨大な力の予兆。",
+		"aftertaste": "お腹の「ランブル（腹の虫が鳴く音）」には、宇宙があなたに空腹を知らせる壮大な意志が宿ります。",
+		"example": "We could hear the rumble in the distance.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "rumblen",
+					"meaning": "to make a low heavy noise"
+				}
+			],
+			"points": [
+				"音の響き（擬音語）がそのまま言葉の魂へ直結する世界。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "roar_sound",
+		"word": "roar",
+		"meaning": "吠える、轟く",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"rarian (to wail, lament)"
+			],
+			"original_statement": "From Old English rarian (to wail, lament)."
+		},
+		"concept": "Loud deep cry (獣の王が自らの存在を誇示し、世界中の弱いものを服従させる圧倒的な音波の暴力。)",
+		"thinking": "獣の王が自らの存在を誇示し、世界中の弱いものを服従させる圧倒的な音波の暴力。",
+		"aftertaste": "「ロア（咆哮）」する海のように、時には自らの巨大なエネルギーを解放させてください。",
+		"example": "We could hear the roar in the distance.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "rarian",
+					"meaning": "to wail, lament"
+				}
+			],
+			"points": [
+				"音の響き（擬音語）がそのまま言葉の魂へ直結する世界。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "bellow_sound",
+		"word": "bellow",
+		"meaning": "怒鳴る",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"bylgan (to bluster)"
+			],
+			"original_statement": "From Old English bylgan (to bluster)."
+		},
+		"concept": "Shout in deep voice (言葉の形をとる前の、純粋な怒りや苦痛を肺の底から絞り出した原始的な叫び。)",
+		"thinking": "言葉の形をとる前の、純粋な怒りや苦痛を肺の底から絞り出した原始的な叫び。",
+		"aftertaste": "理性を無くして「ベロウ（怒鳴り続ける）」する前に、一度深く息を吸い込んで。",
+		"example": "We could hear the bellow in the distance.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "bylgan",
+					"meaning": "to bluster"
+				}
+			],
+			"points": [
+				"音の響き（擬音語）がそのまま言葉の魂へ直結する世界。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "squeak_sound",
+		"word": "squeak",
+		"meaning": "チューチュー鳴る、キーキーきしむ",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"squeken (imitative)"
+			],
+			"original_statement": "From 14th Century squeken (imitative)."
+		},
+		"concept": "Short high sound (取るに足らない小さな存在が、世界に対して必死に発している可憐なSOS。)",
+		"thinking": "取るに足らない小さな存在が、世界に対して必死に発している可憐なSOS。",
+		"aftertaste": "ドアの「スクィーク（きしみ）」をうるさがらずに、油（愛情）を注いで癒やしを与えてください。",
+		"example": "We could hear the squeak in the distance.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "squeken",
+					"meaning": "imitative"
+				}
+			],
+			"points": [
+				"音の響き（擬音語）がそのまま言葉の魂へ直結する世界。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "screech_sound",
+		"word": "screech",
+		"meaning": "金切り声を出す",
+		"era": "16th Century",
+		"etymology": {
+			"components": [
+				"scriken (to shriek)"
+			],
+			"original_statement": "From 16th Century scriken (to shriek)."
+		},
+		"concept": "Harsh piercing cry (金属が擦れ合うような破壊的な高音が、聴覚を通して大脳を直接ひっかく不快感。)",
+		"thinking": "金属が擦れ合うような破壊的な高音が、聴覚を通して大脳を直接ひっかく不快感。",
+		"aftertaste": "車のタイヤの「スクリーチ（ブレーキ音）」は、あなたを致命的な危険から引き戻す神の警告です。",
+		"example": "We could hear the screech in the distance.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "scriken",
+					"meaning": "to shriek"
+				}
+			],
+			"points": [
+				"音の響き（擬音語）がそのまま言葉の魂へ直結する世界。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "shriek_sound",
+		"word": "shriek",
+		"meaning": "悲鳴を上げる",
+		"era": "16th Century",
+		"etymology": {
+			"components": [
+				"schriken (to scream)"
+			],
+			"original_statement": "From 16th Century schriken (to scream)."
+		},
+		"concept": "High-pitched scream (恐怖や狂気が極限に達し、声帯を限界まで引き裂くように発せられる絶望の響き。)",
+		"thinking": "恐怖や狂気が極限に達し、声帯を限界まで引き裂くように発せられる絶望の響き。",
+		"aftertaste": "悪夢の中で「シュリーク（悲鳴）」を上げても、目覚めれば必ず静寂があなたを守ってくれます。",
+		"example": "We could hear the shriek in the distance.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "schriken",
+					"meaning": "to scream"
+				}
+			],
+			"points": [
+				"音の響き（擬音語）がそのまま言葉の魂へ直結する世界。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "wail_sound",
+		"word": "wail",
+		"meaning": "泣き叫ぶ",
+		"era": "Old Norse",
+		"etymology": {
+			"components": [
+				"veila (to weep)"
+			],
+			"original_statement": "From Old Norse veila (to weep)."
+		},
+		"concept": "Prolonged mournful cry (愛するものを失った喪失感が、終わりのない旋律となっていつまでも大気を震わせること。)",
+		"thinking": "愛するものを失った喪失感が、終わりのない旋律となっていつまでも大気を震わせること。",
+		"aftertaste": "悲しみの夜は、無理に声をおさえずに心ゆくまで「ウェイル（泣き叫んで）」してください。",
+		"example": "We could hear the wail in the distance.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "veila",
+					"meaning": "to weep"
+				}
+			],
+			"points": [
+				"音の響き（擬音語）がそのまま言葉の魂へ直結する世界。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "moan_sound",
+		"word": "moan",
+		"meaning": "うめく、嘆く",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"manan (to complain)"
+			],
+			"original_statement": "From Old English manan (to complain)."
+		},
+		"concept": "Low sound of grief (押し殺された苦痛が、低く波打つような持続音となって口から漏れ出ること。)",
+		"thinking": "押し殺された苦痛が、低く波打つような持続音となって口から漏れ出ること。",
+		"aftertaste": "風の「モーン（低いうめき声）」は、世界があなたの代わりに哀しみを肩代わりしている音です。",
+		"example": "We could hear the moan in the distance.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "manan",
+					"meaning": "to complain"
+				}
+			],
+			"points": [
+				"音の響き（擬音語）がそのまま言葉の魂へ直結する世界。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "gasp_sound",
+		"word": "gasp",
+		"meaning": "息をのむ、あえぐ",
+		"era": "Old Norse",
+		"etymology": {
+			"components": [
+				"geispa (to yawn)"
+			],
+			"original_statement": "From Old Norse geispa (to yawn)."
+		},
+		"concept": "Catch breath sharply (驚愕や恐怖により、世界から空気を吸い込むことすら一瞬忘れて硬直する無防備な状態。)",
+		"thinking": "驚愕や恐怖により、世界から空気を吸い込むことすら一瞬忘れて硬直する無防備な状態。",
+		"aftertaste": "美しい風景に出会ったときの「ギャスプ（息をのむ瞬間）」こそが、魂の深呼吸です。",
+		"example": "We could hear the gasp in the distance.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "geispa",
+					"meaning": "to yawn"
+				}
+			],
+			"points": [
+				"音の響き（擬音語）がそのまま言葉の魂へ直結する世界。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "pant_sound",
+		"word": "pant",
+		"meaning": "あえぐ、息を切らす",
+		"era": "15th Century",
+		"etymology": {
+			"components": [
+				"pantaisier (to be breathless)"
+			],
+			"original_statement": "From 15th Century pantaisier (to be breathless)."
+		},
+		"concept": "Breathe heavily (肉体の限界点に達した肺が、燃え尽きる前により多くの酸素を求めて行う無慈悲なピストン運動。)",
+		"thinking": "肉体の限界点に達した肺が、燃え尽きる前により多くの酸素を求めて行う無慈悲なピストン運動。",
+		"aftertaste": "犬の無邪気な「パント（あえぎ声）」は、喜びというエネルギーへの純粋なアクセスです。",
+		"example": "We could hear the pant in the distance.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "pantaisier",
+					"meaning": "to be breathless"
+				}
+			],
+			"points": [
+				"音の響き（擬音語）がそのまま言葉の魂へ直結する世界。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "puff_sound",
+		"word": "puff",
+		"meaning": "シュッシュッと吐く",
+		"era": "Middle English",
+		"etymology": {
+			"components": [
+				"puffen (imitative)"
+			],
+			"original_statement": "From Middle English puffen (imitative)."
+		},
+		"concept": "Short explosive burst (頬を膨らませて空気をため込み、一気に小さな爆発を伴ってそれを外世界へ解放すること。)",
+		"thinking": "頬を膨らませて空気をため込み、一気に小さな爆発を伴ってそれを外世界へ解放すること。",
+		"aftertaste": "タバコの煙を「パフ（ふかす）」ように、嫌な過去も肺の奥から遠くへ吹き飛ばして。",
+		"example": "We could hear the puff in the distance.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "puffen",
+					"meaning": "imitative"
+				}
+			],
+			"points": [
+				"音の響き（擬音語）がそのまま言葉の魂へ直結する世界。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "snort_sound",
+		"word": "snort",
+		"meaning": "鼻を鳴らす",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"snorten (imitative)"
+			],
+			"original_statement": "From 14th Century snorten (imitative)."
+		},
+		"concept": "Force breath through nose (鼻腔を通して荒々しく空気を噴射し、言葉にならない軽蔑や苛立ちを表現すること。)",
+		"thinking": "鼻腔を通して荒々しく空気を噴射し、言葉にならない軽蔑や苛立ちを表現すること。",
+		"aftertaste": "「スノート（鼻息荒く）」して怒ってばかりいないで、馬のように草原への解放を夢見てみては？",
+		"example": "We could hear the snort in the distance.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "snorten",
+					"meaning": "imitative"
+				}
+			],
+			"points": [
+				"音の響き（擬音語）がそのまま言葉の魂へ直結する世界。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "sniff_sound",
+		"word": "sniff",
+		"meaning": "匂いをかぐ、鼻をすする",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"snuffen (to draw mucus)"
+			],
+			"original_statement": "From 14th Century snuffen (to draw mucus)."
+		},
+		"concept": "Inhale through nose (大気中に漂う微小な情報分子を、鋭敏な感覚器官を用いて探り当てようとする好奇心。)",
+		"thinking": "大気中に漂う微小な情報分子を、鋭敏な感覚器官を用いて探り当てようとする好奇心。",
+		"aftertaste": "花束に顔を近づけて「スニフ（匂いを嗅ぐ）」する仕草は、生命への最も優雅なアプローチです。",
+		"example": "We could hear the sniff in the distance.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "snuffen",
+					"meaning": "to draw mucus"
+				}
+			],
+			"points": [
+				"音の響き（擬音語）がそのまま言葉の魂へ直結する世界。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "cough_sound",
+		"word": "cough",
+		"meaning": "咳をする",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"cohhian (imitative)"
+			],
+			"original_statement": "From Old English cohhian (imitative)."
+		},
+		"concept": "Expel air from lungs (喉に詰まった異物を排出するための、胸の奥底から込み上げる激しく乾いた震動。)",
+		"thinking": "喉に詰まった異物を排出するための、胸の奥底から込み上げる激しく乾いた震動。",
+		"aftertaste": "「カフ（咳払い）」で気まずい空気を誤魔化すのは、不器用な優しさの裏返しです。",
+		"example": "We could hear the cough in the distance.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "cohhian",
+					"meaning": "imitative"
+				}
+			],
+			"points": [
+				"音の響き（擬音語）がそのまま言葉の魂へ直結する世界。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "hiccup_sound",
+		"word": "hiccup",
+		"meaning": "しゃっくり",
+		"era": "16th Century",
+		"etymology": {
+			"components": [
+				"hickop (imitative)"
+			],
+			"original_statement": "From 16th Century hickop (imitative)."
+		},
+		"concept": "Involuntary spasm (横隔膜の痙攣が生み出す、リズムを無視した愛嬌のある予測不可能なノイズ。)",
+		"thinking": "横隔膜の痙攣が生み出す、リズムを無視した愛嬌のある予測不可能なノイズ。",
+		"aftertaste": "厄介な「ヒカップ（しゃっくり）」も、あなたの身体が一生懸命に働いている証拠です。",
+		"example": "We could hear the hiccup in the distance.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "hickop",
+					"meaning": "imitative"
+				}
+			],
+			"points": [
+				"音の響き（擬音語）がそのまま言葉の魂へ直結する世界。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "burp_sound",
+		"word": "burp",
+		"meaning": "げっぷをする",
+		"era": "1930s",
+		"etymology": {
+			"components": [
+				"burp (imitative)"
+			],
+			"original_statement": "From 1930s burp (imitative)."
+		},
+		"concept": "Eructation (胃の中に溜まった過剰な空気を、社会的なマナーを無視して解放してしまう本能的な安堵。)",
+		"thinking": "胃の中に溜まった過剰な空気を、社会的なマナーを無視して解放してしまう本能的な安堵。",
+		"aftertaste": "赤ちゃんが「バープ（げっぷ）」する姿は、どんな立派な言葉よりも安心と平和の象徴です。",
+		"example": "We could hear the burp in the distance.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "burp",
+					"meaning": "imitative"
+				}
+			],
+			"points": [
+				"音の響き（擬音語）がそのまま言葉の魂へ直結する世界。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "mumble_sound",
+		"word": "mumble",
+		"meaning": "もごもご言う",
+		"era": "Middle English",
+		"etymology": {
+			"components": [
+				"momelen (to mutter)"
+			],
+			"original_statement": "From Middle English momelen (to mutter)."
+		},
+		"concept": "Speak indistinctly (内容を明確に伝えることを放棄し、口ごもったまま自己完結する内向性の極み。)",
+		"thinking": "内容を明確に伝えることを放棄し、口ごもったまま自己完結する内向性の極み。",
+		"aftertaste": "自信のない「マンブル（もごもごとした話し方）」をやめれば、世界はもっとクリアにあなたの言葉を受け入れます。",
+		"example": "We could hear the mumble in the distance.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "momelen",
+					"meaning": "to mutter"
+				}
+			],
+			"points": [
+				"音の響き（擬音語）がそのまま言葉の魂へ直結する世界。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "mutter_sound",
+		"word": "mutter",
+		"meaning": "つぶやく",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"moteren (imitative)"
+			],
+			"original_statement": "From 14th Century moteren (imitative)."
+		},
+		"concept": "Speak in low voice (他者には聞こえない低いトーンで、不平不満や密かな真実を呪文のように反芻すること。)",
+		"thinking": "他者には聞こえない低いトーンで、不平不満や密かな真実を呪文のように反芻すること。",
+		"aftertaste": "怒りで「マター（ぶつぶつ言う）」する言葉は、あなたの奥底にある本当の願いを裏返したものです。",
+		"example": "We could hear the mutter in the distance.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "moteren",
+					"meaning": "imitative"
+				}
+			],
+			"points": [
+				"音の響き（擬音語）がそのまま言葉の魂へ直結する世界。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "growl_sound",
+		"word": "growl",
+		"meaning": "うなる",
+		"era": "Old French",
+		"etymology": {
+			"components": [
+				"groler (to grumble)"
+			],
+			"original_statement": "From Old French groler (to grumble)."
+		},
+		"concept": "Low guttural sound (喉の奥で震える振動音が、警告と剥き出しの敵意を伴って響き渡る野性のサイン。)",
+		"thinking": "喉の奥で震える振動音が、警告と剥き出しの敵意を伴って響き渡る野性のサイン。",
+		"aftertaste": "心の中の獣が「グロウル（低い唸り声）」を上げたときは、自分の領域が侵害されているサインです。を守って。",
+		"example": "We could hear the growl in the distance.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "groler",
+					"meaning": "to grumble"
+				}
+			],
+			"points": [
+				"音の響き（擬音語）がそのまま言葉の魂へ直結する世界。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "snarl_sound",
+		"word": "snarl",
+		"meaning": "歯をむき出して怒る",
+		"era": "16th Century",
+		"etymology": {
+			"components": [
+				"snar (to bind, entangle)"
+			],
+			"original_statement": "From 16th Century snar (to bind, entangle)."
+		},
+		"concept": "Growl showing teeth (歯をむき出しにして牙を誇示しながら、攻撃の意思を隠そうともしない極限の敵対。)",
+		"thinking": "歯をむき出しにして牙を誇示しながら、攻撃の意思を隠そうともしない極限の敵対。",
+		"aftertaste": "糸が絡まった「スナール（もつれ）」のように、怒りはあなたの思考を複雑に縛り付けます。ほどく努力を。",
+		"example": "We could hear the snarl in the distance.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "snar",
+					"meaning": "to bind, entangle"
+				}
+			],
+			"points": [
+				"音の響き（擬音語）がそのまま言葉の魂へ直結する世界。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "whine_sound",
+		"word": "whine",
+		"meaning": "哀れっぽい声を出す",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"hwinan (to whiz, squeak)"
+			],
+			"original_statement": "From Old English hwinan (to whiz, squeak)."
+		},
+		"concept": "Long, high-pitched complaining (高い周波数で延々と続く、同情を買うためや要求を通すための不愉快な哀願のノイズ。)",
+		"thinking": "高い周波数で延々と続く、同情を買うためや要求を通すための不愉快な哀願のノイズ。",
+		"aftertaste": "「ワイン（泣き言）」で現状を変えることはできません。毅然とした態度こそが鍵です。",
+		"example": "We could hear the whine in the distance.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "hwinan",
+					"meaning": "to whiz, squeak"
+				}
+			],
+			"points": [
+				"音の響き（擬音語）がそのまま言葉の魂へ直結する世界。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "whimper_sound",
+		"word": "whimper",
+		"meaning": "すすり泣く、クンクン鳴く",
+		"era": "16th Century",
+		"etymology": {
+			"components": [
+				"whymper (imitative)"
+			],
+			"original_statement": "From 16th Century whymper (imitative)."
+		},
+		"concept": "Series of low, feeble sounds (恐怖や痛みに屈し、もはや抵抗する気力すら失った無力で哀れな生命の残響。)",
+		"thinking": "恐怖や痛みに屈し、もはや抵抗する気力すら失った無力で哀れな生命の残響。",
+		"aftertaste": "傷ついた子犬の「ウィンパー（弱々しい鳴き声）」を無視しない優しさが、世界に平和をもたらします。",
+		"example": "We could hear the whimper in the distance.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "whymper",
+					"meaning": "imitative"
+				}
+			],
+			"points": [
+				"音の響き（擬音語）がそのまま言葉の魂へ直結する世界。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "guffaw_sound",
+		"word": "guffaw",
+		"meaning": "大笑いする",
+		"era": "18th Century",
+		"etymology": {
+			"components": [
+				"gawf (to laugh loud)"
+			],
+			"original_statement": "From 18th Century gawf (to laugh loud)."
+		},
+		"concept": "Loud and boisterous laugh (理性や品格の一切をかなぐり捨て、腹の底から馬鹿馬鹿しさを全身で肯定する痛快な爆発。)",
+		"thinking": "理性や品格の一切をかなぐり捨て、腹の底から馬鹿馬鹿しさを全身で肯定する痛快な爆発。",
+		"aftertaste": "上品に微笑むのも良いけれど、時には「ガフォー（高笑い）」で人生の悩みを吹き飛ばしましょう。",
+		"example": "We could hear the guffaw in the distance.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "gawf",
+					"meaning": "to laugh loud"
+				}
+			],
+			"points": [
+				"音の響き（擬音語）がそのまま言葉の魂へ直結する世界。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "cackle_sound",
+		"word": "cackle",
+		"meaning": "カハカハ笑う",
+		"era": "13th Century",
+		"etymology": {
+			"components": [
+				"kakelen (imitative)"
+			],
+			"original_statement": "From 13th Century kakelen (imitative)."
+		},
+		"concept": "Shrill laugh (魔女が呪いをかけるような、あるいはニワトリが卵を産んだような、甲高く乾いた非日常感のある笑い。)",
+		"thinking": "魔女が呪いをかけるような、あるいはニワトリが卵を産んだような、甲高く乾いた非日常感のある笑い。",
+		"aftertaste": "少し意地悪な「キャックル（嫌な笑い声）」を聞いたら、あなたは自分を信じてその場を立ち去るべきです。",
+		"example": "We could hear the cackle in the distance.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kakelen",
+					"meaning": "imitative"
+				}
+			],
+			"points": [
+				"音の響き（擬音語）がそのまま言葉の魂へ直結する世界。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "snicker_sound",
+		"word": "snicker",
+		"meaning": "忍び笑いする",
+		"era": "17th Century",
+		"etymology": {
+			"components": [
+				"snick (to cut, clip)"
+			],
+			"original_statement": "From 17th Century snick (to cut, clip)."
+		},
+		"concept": "Smothered laugh (相手を見下し、その失敗を密かに嘲笑しながらも表には出さない、卑屈で冷たい優越感。)",
+		"thinking": "相手を見下し、その失敗を密かに嘲笑しながらも表には出さない、卑屈で冷たい優越感。",
+		"aftertaste": "誰かに対する「スニッカー（忍び笑い）」は、いずれあなた自身の魂の気高さを切り刻んでしまいます。",
+		"example": "We could hear the snicker in the distance.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "snick",
+					"meaning": "to cut, clip"
+				}
+			],
+			"points": [
+				"音の響き（擬音語）がそのまま言葉の魂へ直結する世界。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "smirk_sound",
+		"word": "smirk",
+		"meaning": "ニヤニヤ笑う",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"smearcian (to smile)"
+			],
+			"original_statement": "From Old English smearcian (to smile)."
+		},
+		"concept": "Smile smugly (自惚れ（うぬぼれ）や小賢しい優越感を隠しきれず、顔の片隅に不自然に作られた歪んだ「笑顔」の偽物。)",
+		"thinking": "自惚れ（うぬぼれ）や小賢しい優越感を隠しきれず、顔の片隅に不自然に作られた歪んだ「笑顔」の偽物。",
+		"aftertaste": "勝利の後の「スマーク（ドヤ顔）」を控え、敗者への敬意を持つことこそが本当の勝者の姿です。",
+		"example": "We could hear the smirk in the distance.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "smearcian",
+					"meaning": "to smile"
+				}
+			],
+			"points": [
+				"音の響き（擬音語）がそのまま言葉の魂へ直結する世界。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "buzz_sound",
+		"word": "buzz",
+		"meaning": "ブンブンうなる",
+		"era": "17th Century",
+		"etymology": {
+			"components": [
+				"buzzen (imitative)"
+			],
+			"original_statement": "From 17th Century buzzen (imitative)."
+		},
+		"concept": "Continuous humming noise (無数の羽をもつ昆虫が空間を埋め尽くすような、焦燥感と熱気を含んだ途絶えることのない羽音。)",
+		"thinking": "無数の羽をもつ昆虫が空間を埋め尽くすような、焦燥感と熱気を含んだ途絶えることのない羽音。",
+		"aftertaste": "頭の中の過剰な情報の「バズ（羽音）」を一旦ストップして、静かな森を歩きましょう。",
+		"example": "We could hear the buzz in the distance.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "buzzen",
+					"meaning": "imitative"
+				}
+			],
+			"points": [
+				"音の響き（擬音語）がそのまま言葉の魂へ直結する世界。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "drone_sound",
+		"word": "drone",
+		"meaning": "単調な音を立てる",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"dran (male honeybee)"
+			],
+			"original_statement": "From Old English dran (male honeybee)."
+		},
+		"concept": "Continuous low humming (変化のない低い周波数が延々と鳴り響き、自我を麻痺させ眠りへと誘う没個性的なノイズ。)",
+		"thinking": "変化のない低い周波数が延々と鳴り響き、自我を麻痺させ眠りへと誘う没個性的なノイズ。",
+		"aftertaste": "「ドローン（単調な低い音）」のように退屈な講義も、目を閉じて瞑想の時間として有効活用できます。",
+		"example": "We could hear the drone in the distance.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "dran",
+					"meaning": "male honeybee"
+				}
+			],
+			"points": [
+				"音の響き（擬音語）がそのまま言葉の魂へ直結する世界。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "purr_sound",
+		"word": "purr",
+		"meaning": "のどをゴロゴロ鳴らす",
+		"era": "17th Century",
+		"etymology": {
+			"components": [
+				"purren (imitative)"
+			],
+			"original_statement": "From 17th Century purren (imitative)."
+		},
+		"concept": "Low continuous vibratory sound (恐怖や緊張から完全に解放され、極上の悦楽と満足感に満ちた時にだけ発動する内なる平和のエンジンの振動音。)",
+		"thinking": "恐怖や緊張から完全に解放され、極上の悦楽と満足感に満ちた時にだけ発動する内なる平和のエンジンの振動音。",
+		"aftertaste": "猫が膝の上で「パー（ゴロゴロ鳴る）」している間、この世のすべての不幸は一時停止ボタンを押されている。",
+		"example": "We could hear the purr in the distance.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "purren",
+					"meaning": "imitative"
+				}
+			],
+			"points": [
+				"音の響き（擬音語）がそのまま言葉の魂へ直結する世界。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "chirp_sound",
+		"word": "chirp",
+		"meaning": "チュンチュン鳴く",
+		"era": "Middle English",
+		"etymology": {
+			"components": [
+				"chirpen (imitative)"
+			],
+			"original_statement": "From Middle English chirpen (imitative)."
+		},
+		"concept": "Short high sound (世界は美しいという絶対的な確信を、短く鋭いリズムで無限に空へと放ち続ける小さな天使の歌声。)",
+		"thinking": "世界は美しいという絶対的な確信を、短く鋭いリズムで無限に空へと放ち続ける小さな天使の歌声。",
+		"aftertaste": "小鳥の「チャープ（さえずり）」は、毎朝無条件で与えられる自然からの最高にハッピーなモーニング・コール。",
+		"example": "We could hear the chirp in the distance.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "chirpen",
+					"meaning": "imitative"
+				}
+			],
+			"points": [
+				"音の響き（擬音語）がそのまま言葉の魂へ直結する世界。"
+			]
+		},
+		"part_of_speech": "noun"
 	}
 ];
