@@ -199539,5 +199539,537 @@ const WORDS = [
 			]
 		},
 		"part_of_speech": "noun"
+	},
+	{
+		"id": "amnesty_law",
+		"word": "amnesty",
+		"meaning": "恩赦、大赦",
+		"era": "16th Century",
+		"etymology": {
+			"components": [
+				"amnestia (forgetting)"
+			],
+			"original_statement": "From 16th Century amnestia (forgetting)."
+		},
+		"concept": "An official pardon for people who have been convicted of political offenses (過去の過ちをあえて「忘れ去る（アムネスティ）」ことで、新しい時代への歩みを共に始めようとする、文明社会の究極の寛容（。と許しの形式。)",
+		"thinking": "過去の過ちをあえて「忘れ去る（アムネスティ）」ことで、新しい時代への歩みを共に始めようとする、文明社会の究極の寛容（。と許しの形式。",
+		"aftertaste": "自分自身に対する「アムネスティ（許しのアムネスティ）」を宣言（。してください。昨日の自分を許して初めて、あなたは今日、新しい自分として呼吸できる（。のですから。",
+		"example": "The court was established to ensure that amnesty prevailed in the aftermath of the conflict.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "amnestia",
+					"meaning": "forgetting"
+				}
+			],
+			"points": [
+				"倫理は形式ではなく、心の奥底で鳴り響く共鳴の音楽です。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "counsel_law",
+		"word": "counsel",
+		"meaning": "助言、相談、弁護人",
+		"era": "13th Century",
+		"etymology": {
+			"components": [
+				"consilium (consultation, plan)"
+			],
+			"original_statement": "From 13th Century consilium (consultation, plan)."
+		},
+		"concept": "Advice, especially that given formally (一人で悩むのではなく、他者の知恵と「共に（コン）計画を練り（シリアン）」、最も賢明な出口を一緒に探し出そうとする、深い信頼に基づいた知的な伴走。)",
+		"thinking": "一人で悩むのではなく、他者の知恵と「共に（コン）計画を練り（シリアン）」、最も賢明な出口を一緒に探し出そうとする、深い信頼に基づいた知的な伴走。",
+		"aftertaste": "「カウンセル（賢明な助言）」とは、相手に命令することではなく、相手が自分自身の内なる（。答えに自ら辿り着けるよう、暗闇の中でそっと足元を照らしてあげることなのです。",
+		"example": "The court was established to ensure that counsel prevailed in the aftermath of the conflict.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "consilium",
+					"meaning": "consultation, plan"
+				}
+			],
+			"points": [
+				"倫理は形式ではなく、心の奥底で鳴り響く共鳴の音楽です。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "tribunal_law",
+		"word": "tribunal",
+		"meaning": "法廷、裁きの場",
+		"era": "16th Century",
+		"etymology": {
+			"components": [
+				"tribunus (tribune, leader of a tribe)"
+			],
+			"original_statement": "From 16th Century tribunus (tribune, leader of a tribe)."
+		},
+		"concept": "A court of justice or relevant body (かつて一族の長（トライブ）が正義の名の下に人々の争いを裁いたように、文明社会の「最高度の知性」が終結し、真理を決定しようとする（。神聖な審判の場。)",
+		"thinking": "かつて一族の長（トライブ）が正義の名の下に人々の争いを裁いたように、文明社会の「最高度の知性」が終結し、真理を決定しようとする（。神聖な審判の場。",
+		"aftertaste": "心の中の「トライブュナル（良心の法廷）」で、毎日自分を見つめ直してください。他（。の誰を欺けても、自分自身の瞳（。は決して欺くことはできないのですから。",
+		"example": "The court was established to ensure that tribunal prevailed in the aftermath of the conflict.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "tribunus",
+					"meaning": "tribune, leader of a tribe"
+				}
+			],
+			"points": [
+				"倫理は形式ではなく、心の奥底で鳴り響く共鳴の音楽です。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "breach_law",
+		"word": "breach",
+		"meaning": "（法・義務などの）違反、不義、侵害",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"brecan (to break)"
+			],
+			"original_statement": "From 14th Century brecan (to break)."
+		},
+		"concept": "An act of breaking or failing to observe a law, agreement, or code of conduct (約束という名の美しい橋を「叩（たた）き壊し（ブレイク）」、信頼という名の防壁に穴を開けてしまった、悲しくも取り返しのつかない裏切りの痕跡。)",
+		"thinking": "約束という名の美しい橋を「叩（たた）き壊し（ブレイク）」、信頼という名の防壁に穴を開けてしまった、悲しくも取り返しのつかない裏切りの痕跡。",
+		"aftertaste": "一度の「ブリーチ（信頼の破綻）」を修復するには、壊す時（。の何百倍もの時間と、誠実な積み重ねが必要になるのです。失う前に（。、その重みを想い返せますか？",
+		"example": "The court was established to ensure that breach prevailed in the aftermath of the conflict.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "brecan",
+					"meaning": "to break"
+				}
+			],
+			"points": [
+				"倫理は形式ではなく、心の奥底で鳴り響く共鳴の音楽です。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "tort_law",
+		"word": "tort",
+		"meaning": "不法行為",
+		"era": "13th Century",
+		"etymology": {
+			"components": [
+				"torquere (to twist, wring)"
+			],
+			"original_statement": "From 13th Century torquere (to twist, wring)."
+		},
+		"concept": "A wrongful act or an infringement of a right (真っ直ぐであるべき「正義の道を（。ツイスト）ねじ曲げ」て、他者に不当な苦しみを与えてしまった、理不尽で歪んだ（ゆがんだ）行為の総称。)",
+		"thinking": "真っ直ぐであるべき「正義の道を（。ツイスト）ねじ曲げ」て、他者に不当な苦しみを与えてしまった、理不尽で歪んだ（ゆがんだ）行為の総称。",
+		"aftertaste": "法律用語の「トート（不法行為）」という言葉の響きには、ねじ曲げられた（。人の心の痛みと、それを元に戻そうとする正義の執念が（。、同時に込められているのです。",
+		"example": "The court was established to ensure that tort prevailed in the aftermath of the conflict.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "torquere",
+					"meaning": "to twist, wring"
+				}
+			],
+			"points": [
+				"倫理は形式ではなく、心の奥底で鳴り響く共鳴の音楽です。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "felony_law",
+		"word": "felony",
+		"meaning": "重罪",
+		"era": "13th Century",
+		"etymology": {
+			"components": [
+				"felen (evil, wicked, treacherous)"
+			],
+			"original_statement": "From 13th Century felen (evil, wicked, treacherous)."
+		},
+		"concept": "A crime, typically one involving violence (人々の信頼を完膚なき（。までに「裏切り（フェロン）」、社会の調和を根底から揺るがしてしまった、取り返しのつかない大きな悪業の刻印。)",
+		"thinking": "人々の信頼を完膚なき（。までに「裏切り（フェロン）」、社会の調和を根底から揺るがしてしまった、取り返しのつかない大きな悪業の刻印。",
+		"aftertaste": "犯した罪は「フェロニー（重罪）」として記録されますが、その後のあなたの（。歩みが、いつかその汚れを拭い去れるほど、光に満ちたものに（。なることを、私は密かに願わずにはいられません。",
+		"example": "The court was established to ensure that felony prevailed in the aftermath of the conflict.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "felen",
+					"meaning": "evil, wicked, treacherous"
+				}
+			],
+			"points": [
+				"倫理は形式ではなく、心の奥底で鳴り響く共鳴の音楽です。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "misdemeanor_law",
+		"word": "misdemeanor",
+		"meaning": "軽罪、不作法",
+		"era": "15th Century",
+		"etymology": {
+			"components": [
+				"mis- (badly) + de- (from) + mener (to lead)"
+			],
+			"original_statement": "From 15th Century mis- (badly) + de- (from) + mener (to lead)."
+		},
+		"concept": "A minor wrongdoing (悪意というよりは、つい道を見失い、「好ましくない（ミス）振る舞い（ミーナー）」へと導かれてしまった、人間としての弱さと甘さのあらわれ。)",
+		"thinking": "悪意というよりは、つい道を見失い、「好ましくない（ミス）振る舞い（ミーナー）」へと導かれてしまった、人間としての弱さと甘さのあらわれ。",
+		"aftertaste": "人生の「ミスデミーナー（些細な過ち）」を数え上げて自分を責めるのをやめてください。失敗は、あなたがまだ『より良い生き方』を知るための教材（レッスン（。にすぎないのです。",
+		"example": "The court was established to ensure that misdemeanor prevailed in the aftermath of the conflict.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "mis-",
+					"meaning": "badly) + de- (from) + mener (to lead"
+				}
+			],
+			"points": [
+				"倫理は形式ではなく、心の奥底で鳴り響く共鳴の音楽です。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "litigation_law",
+		"word": "litigation",
+		"meaning": "訴訟",
+		"era": "16th Century",
+		"etymology": {
+			"components": [
+				"lis (dispute, lawsuit) + agere (to drive, incite)"
+			],
+			"original_statement": "From 16th Century lis (dispute, lawsuit) + agere (to drive, incite)."
+		},
+		"concept": "The process of taking legal action (言葉の剣（。をもって、争い（。を情報の戦場へと「駆り立て（アジテート）」、どちらが真理に近いかを公の場で証明しようとする、知的な戦い。)",
+		"thinking": "言葉の剣（。をもって、争い（。を情報の戦場へと「駆り立て（アジテート）」、どちらが真理に近いかを公の場で証明しようとする、知的な戦い。",
+		"aftertaste": "「リティゲーション（訴訟）」による解決は最後の手段です。互いに同じテーブルに座り、まだ（。心が通い合ううちに解決できる道（アヴェニュー）がないか、もう（。一度だけ探ってみませんか。",
+		"example": "The court was established to ensure that litigation prevailed in the aftermath of the conflict.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "lis",
+					"meaning": "dispute, lawsuit) + agere (to drive, incite"
+				}
+			],
+			"points": [
+				"倫理は形式ではなく、心の奥底で鳴り響く共鳴の音楽です。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "witness_law",
+		"word": "witness",
+		"meaning": "目撃者、証人、証言する",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"witt (knowledge, wit)"
+			],
+			"original_statement": "From Old English witt (knowledge, wit)."
+		},
+		"concept": "A person who sees an event, typically a crime or accident, take place (自らの「知性（ウィット・知）」をもって真実を捉え、自分の目が捉えた（。ありのままの光景を、社会の正義のために勇気を持って語り出す者。)",
+		"thinking": "自らの「知性（ウィット・知）」をもって真実を捉え、自分の目が捉えた（。ありのままの光景を、社会の正義のために勇気を持って語り出す者。",
+		"aftertaste": "あなたは自分自身の人生の最高の「ウィットネス（真実の目撃者）」です。他（。の誰があなたの価値を否定しても、あなたが自分自身を（。最後まで見捨てないでいて（。ください。",
+		"example": "The court was established to ensure that witness prevailed in the aftermath of the conflict.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "witt",
+					"meaning": "knowledge, wit"
+				}
+			],
+			"points": [
+				"倫理は形式ではなく、心の奥底で鳴り響く共鳴の音楽です。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "testimony_law",
+		"word": "testimony",
+		"meaning": "証言、証拠",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"testis (witness)"
+			],
+			"original_statement": "From 14th Century testis (witness)."
+		},
+		"concept": "A formal written or spoken statement, especially one given in a court of law (一人の人間の魂が、良心という名の下に「証人（テスティス）」として差し出した、改ざん（。のできない純粋で重みのある言葉の贈り物。)",
+		"thinking": "一人の人間の魂が、良心という名の下に「証人（テスティス）」として差し出した、改ざん（。のできない純粋で重みのある言葉の贈り物。",
+		"aftertaste": "あなたのこれまでの「テスティモニー（誠実な歩みの証（）」が、今、困難（。な状況にあるあなたを救い出すための、何よりも雄弁で（。最強の証拠になるはずですよ。",
+		"example": "The court was established to ensure that testimony prevailed in the aftermath of the conflict.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "testis",
+					"meaning": "witness"
+				}
+			],
+			"points": [
+				"倫理は形式ではなく、心の奥底で鳴り響く共鳴の音楽です。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "brief_law",
+		"word": "brief",
+		"meaning": "短い、要約、弁論趣意書",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"brevis (short)"
+			],
+			"original_statement": "From 14th Century brevis (short)."
+		},
+		"concept": "A concise statement or summary (膨大な事実や感情の中から、最も重要なエッセンスだけを「短く（ブレイヴ）」抽出し、誰にでも一瞬で伝わるように結晶化させた、知性の輝き。)",
+		"thinking": "膨大な事実や感情の中から、最も重要なエッセンスだけを「短く（ブレイヴ）」抽出し、誰にでも一瞬で伝わるように結晶化させた、知性の輝き。",
+		"aftertaste": "「ブリーフ（要約・簡潔な書面）」の中にこそ、書き手の真の教養と、相手（。への深い配慮が凝縮されています。冗長（。な言葉の森を抜け出し、この一行の真実を（。届けましょう。",
+		"example": "The court was established to ensure that brief prevailed in the aftermath of the conflict.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "brevis",
+					"meaning": "short"
+				}
+			],
+			"points": [
+				"倫理は形式ではなく、心の奥底で鳴り響く共鳴の音楽です。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "grievance_law",
+		"word": "grievance",
+		"meaning": "不満、苦情、不当な扱い",
+		"era": "13th Century",
+		"etymology": {
+			"components": [
+				"gravare (to weigh down)"
+			],
+			"original_statement": "From 13th Century gravare (to weigh down)."
+		},
+		"concept": "A real or imagined wrong or other cause for complaint or protest, especially unfair treatment (理不尽な重荷（。を負わされ、その「あまりの重さ（グレイヴ）」に、魂が押し潰（。されそうになりながらも、平穏を求めて叫ぶ不条理の訴え。)",
+		"thinking": "理不尽な重荷（。を負わされ、その「あまりの重さ（グレイヴ）」に、魂が押し潰（。されそうになりながらも、平穏を求めて叫ぶ不条理の訴え。",
+		"aftertaste": "心に溜まった「グリーヴァンス（心のしこり）」を、毒のまま自分（。の中に留め（。おかないでください。正しい言葉（。の形へと変換して、外へと解き放つことが、真の癒しの（。始まりなのです。",
+		"example": "The court was established to ensure that grievance prevailed in the aftermath of the conflict.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "gravare",
+					"meaning": "to weigh down"
+				}
+			],
+			"points": [
+				"倫理は形式ではなく、心の奥底で鳴り響く共鳴の音楽です。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "scrutinize_law",
+		"word": "scrutinize",
+		"meaning": "精査する、じろじろ見る",
+		"era": "17th Century",
+		"etymology": {
+			"components": [
+				"scruta (trash, rags, remnants)"
+			],
+			"original_statement": "From 17th Century scruta (trash, rags, remnants)."
+		},
+		"concept": "Examine or inspect closely and thoroughly (表面的な（。美しさに惑わされず、あえて「ゴミや屑（スクルー）」の山をかき分けるように、細部まで徹底的に疑い、真実を暴き出（。そうとする妥協なき眼差し。)",
+		"thinking": "表面的な（。美しさに惑わされず、あえて「ゴミや屑（スクルー）」の山をかき分けるように、細部まで徹底的に疑い、真実を暴き出（。そうとする妥協なき眼差し。",
+		"aftertaste": "自分自身の心を、勇気を持って「スクルーティナイズ（徹底的に精査）」して（。みてください。そこに隠れた小さなエゴを見つけた時、あなたは（。また一歩、真の強者（。への階段を登ることになるのですから。",
+		"example": "The court was established to ensure that scrutinize prevailed in the aftermath of the conflict.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "scruta",
+					"meaning": "trash, rags, remnants"
+				}
+			],
+			"points": [
+				"倫理は形式ではなく、心の奥底で鳴り響く共鳴の音楽です。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "validate_law",
+		"word": "validate",
+		"meaning": "有効にする、確認する、認める",
+		"era": "16th Century",
+		"etymology": {
+			"components": [
+				"valere (to be strong, be worth)"
+			],
+			"original_statement": "From 16th Century valere (to be strong, be worth)."
+		},
+		"concept": "Check or prove the validity or accuracy of (曖昧（。な疑念を、確かな証拠（エヴィデンス）によって「強固（。な価値（ヴァリュー）を持つもの」へと昇華させ、正式に命の色を与える認証（ライセンス）のプロセス。)",
+		"thinking": "曖昧（。な疑念を、確かな証拠（エヴィデンス）によって「強固（。な価値（ヴァリュー）を持つもの」へと昇華させ、正式に命の色を与える認証（ライセンス）のプロセス。",
+		"aftertaste": "誰かの痛みを「バリデート（その通りだと認める）」してあげること。それ（。だけで、その人はどれほど救われる（。か。否定する前に、まず『あなたの苦しみを私は信じる（。』という言葉を届けてください。",
+		"example": "The court was established to ensure that validate prevailed in the aftermath of the conflict.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "valere",
+					"meaning": "to be strong, be worth"
+				}
+			],
+			"points": [
+				"倫理は形式ではなく、心の奥底で鳴り響く共鳴の音楽です。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "impartial_law",
+		"word": "impartial",
+		"meaning": "公平な、偏らない",
+		"era": "16th Century",
+		"etymology": {
+			"components": [
+				"in- (not) + partial (favoring one side)"
+			],
+			"original_statement": "From 16th Century in- (not) + partial (favoring one side)."
+		},
+		"concept": "Treating all rivals or disputants equally; fair and just (特定の（。利害や感情という「一方（。パート）への加担」を完全に拒否（。し、透明で穏やかな湖面のように、すべての存在を平等に映し出す（。冷静なる俯瞰（ふかん）。)",
+		"thinking": "特定の（。利害や感情という「一方（。パート）への加担」を完全に拒否（。し、透明で穏やかな湖面のように、すべての存在を平等に映し出す（。冷静なる俯瞰（ふかん）。",
+		"aftertaste": "「インパーシャル（何者にも偏らない）」な視点を持つことは、孤独（。になる勇気を持つことでもあります。誰の顔色もうかがわ（。ず、ただ真理（。の声にだけ耳を澄ませる。それが賢者の（。義務（デューティー）なのです。",
+		"example": "The court was established to ensure that impartial prevailed in the aftermath of the conflict.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "in-",
+					"meaning": "not) + partial (favoring one side"
+				}
+			],
+			"points": [
+				"倫理は形式ではなく、心の奥底で鳴り響く共鳴の音楽です。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "ethical_law",
+		"word": "ethical",
+		"meaning": "倫理的な、道徳上の",
+		"era": "16th Century",
+		"etymology": {
+			"components": [
+				"ethos (habit, character, custom)"
+			],
+			"original_statement": "From 16th Century ethos (habit, character, custom)."
+		},
+		"concept": "Relating to moral principles or the branch of knowledge dealing with these (一瞬の（。感情に流されず、長い年月をかけて育まれた「魂の正しい習慣（。エトス）」に基づき、他者と世界に対して誠実に（。あろうとする（。、最も人間らしい生き方の形式。)",
+		"thinking": "一瞬の（。感情に流されず、長い年月をかけて育まれた「魂の正しい習慣（。エトス）」に基づき、他者と世界に対して誠実に（。あろうとする（。、最も人間らしい生き方の形式。",
+		"aftertaste": "「エシカル（倫理的である）」な選択は、一見（。損をしているように見える（。かもしれませんが、それはあなたの魂の品格（。を高め、一生揺るぎない（。自信という名の最高の富を（。もたらしてくれるのです。",
+		"example": "The court was established to ensure that ethical prevailed in the aftermath of the conflict.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ethos",
+					"meaning": "habit, character, custom"
+				}
+			],
+			"points": [
+				"倫理は形式ではなく、心の奥底で鳴り響く共鳴の音楽です。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "legitimate_law",
+		"word": "legitimate",
+		"meaning": "合法的な、正当な",
+		"era": "15th Century",
+		"etymology": {
+			"components": [
+				"lex (law)"
+			],
+			"original_statement": "From 15th Century lex (law)."
+		},
+		"concept": "Conforming to the laws or rules (単（。にルールに従っているだけでなく、その根源にある「法（。レックス）の精神」を完璧に体現（。しており、誰の目にも疑いようのない（。正しさと輝きを纏（まと）っている状態。)",
+		"thinking": "単（。にルールに従っているだけでなく、その根源にある「法（。レックス）の精神」を完璧に体現（。しており、誰の目にも疑いようのない（。正しさと輝きを纏（まと）っている状態。",
+		"aftertaste": "あなたが心（。の底からワクワク（。すること。それが、あなたの人生において最も「レジティメイト（正当な）」権利（。であり、果たすべき使命（ミッション）であることに（。、早く気づいてくださいね。",
+		"example": "The court was established to ensure that legitimate prevailed in the aftermath of the conflict.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "lex",
+					"meaning": "law"
+				}
+			],
+			"points": [
+				"倫理は形式ではなく、心の奥底で鳴り響く共鳴の音楽です。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "sovereign_law",
+		"word": "sovereign",
+		"meaning": "主権者、君主、至上の、独立した",
+		"era": "13th Century",
+		"etymology": {
+			"components": [
+				"super (above)"
+			],
+			"original_statement": "From 13th Century super (above)."
+		},
+		"concept": "A supreme ruler, especially a monarch (何者（。にも支配されず、自らの意志のみが「最高位（。スーパー）にある」ことを宣言（。する、究極の自律（。と自由を体現する、誇り高く（。孤独なる王者の魂。)",
+		"thinking": "何者（。にも支配されず、自らの意志のみが「最高位（。スーパー）にある」ことを宣言（。する、究極の自律（。と自由を体現する、誇り高く（。孤独なる王者の魂。",
+		"aftertaste": "あなたは自分自身（。の人生という王国の、唯一無二の「ソブリン（至高の主権者）」なのです。他（。の誰にも、あなたの玉座（。を明け渡しては（。絶対に（。なりませんよ。",
+		"example": "The court was established to ensure that sovereign prevailed in the aftermath of the conflict.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "super",
+					"meaning": "above"
+				}
+			],
+			"points": [
+				"倫理は形式ではなく、心の奥底で鳴り響く共鳴の音楽です。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "universal_law",
+		"word": "universal",
+		"meaning": "普遍的な、宇宙の、全般的な",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"unus (one) + vertere (to turn)"
+			],
+			"original_statement": "From 14th Century unus (one) + vertere (to turn)."
+		},
+		"concept": "Of, affecting, or done by all people or things in the world or in particular (特定の（。場所や時間を越え、全ての存在を「一つの方向へと（。回転させて）結びつける」ことができる（。、ダイヤモンドのような（。硬質で（。輝かしい不変の真理。)",
+		"thinking": "特定の（。場所や時間を越え、全ての存在を「一つの方向へと（。回転させて）結びつける」ことができる（。、ダイヤモンドのような（。硬質で（。輝かしい不変の真理。",
+		"aftertaste": "「ユニバーサル（普遍的な）」な価値観とは、他（。から押し付けられ（。るものではなく、あなたの心の奥底（。を深く深く深く掘（。っていった先で（。、人類全員が共有している（。黄金の泉に辿り着く（。プロセスそのものなのです。",
+		"example": "The court was established to ensure that universal prevailed in the aftermath of the conflict.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "unus",
+					"meaning": "one) + vertere (to turn"
+				}
+			],
+			"points": [
+				"倫理は形式ではなく、心の奥底で鳴り響く共鳴の音楽です。"
+			]
+		},
+		"part_of_speech": "adjective"
 	}
 ];
