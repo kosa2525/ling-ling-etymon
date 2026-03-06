@@ -202003,5 +202003,173 @@ const WORDS = [
 			]
 		},
 		"part_of_speech": "noun"
+	},
+	{
+		"id": "strife_harm",
+		"word": "strife",
+		"meaning": "論争、闘争、衝突",
+		"era": "13th Century",
+		"etymology": {
+			"components": [
+				"estrif (discord, conflict)"
+			],
+			"original_statement": "From 13th Century estrif (discord, conflict)."
+		},
+		"concept": "Angry or bitter disagreement over fundamental issues; conflict (ただの（。喧嘩（。ではなく（。、自らの（。信じる（。正義のために（。、「激しく（。努力（。し（。ストライブ）戦（。う（。）」こと（。。（。避（。け（。られない（。衝突（。が（。、魂を（。研（。ぎ（。澄（。ませ（。、新しい（。真実を（。引（。き（。ず（。り（。出す（。、苦着（。な（。陣痛。)",
+		"thinking": "ただの（。喧嘩（。ではなく（。、自らの（。信じる（。正義のために（。、「激しく（。努力（。し（。ストライブ）戦（。う（。）」こと（。。（。避（。け（。られない（。衝突（。が（。、魂を（。研（。ぎ（。澄（。ませ（。、新しい（。真実を（。引（。き（。ず（。り（。出す（。、苦着（。な（。陣痛。",
+		"aftertaste": "葛藤を恐れないでください。それは、新しい調和が生まれるための産声なのですから。",
+		"example": "The diplomat worked tirelessly to reach a lasting strife between the two nations.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "estrif",
+					"meaning": "discord, conflict"
+				}
+			],
+			"points": [
+				"調和とは、静止した状態ではなく、異なる命が激しくダンスを踊り続けている瞬間の奇跡です。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "turmoil_harm",
+		"word": "turmoil",
+		"meaning": "騒乱、混乱",
+		"era": "16th Century",
+		"etymology": {
+			"components": [
+				"Origin uncertain, possibly related to tremere (to tremble)"
+			],
+			"original_statement": "From 16th Century Origin uncertain, possibly related to tremere (to tremble)."
+		},
+		"concept": "A state of great disturbance, confusion, or uncertainty (秩序（。が（。崩れ（。、全てが（。予測不可能な（。うねりとなって（。、「震（。え（。トレム）狂（。って（。いる（。）」状態（。。（。古い（。建物（。（。を（。壊（。し（。、更（。地（。に（。する（。ための（。、運命の（。荒療治。)",
+		"thinking": "秩序（。が（。崩れ（。、全てが（。予測不可能な（。うねりとなって（。、「震（。え（。トレム）狂（。って（。いる（。）」状態（。。（。古い（。建物（。（。を（。壊（。し（。、更（。地（。に（。する（。ための（。、運命の（。荒療治。",
+		"aftertaste": "葛藤を恐れないでください。それは、新しい調和が生まれるための産声なのですから。",
+		"example": "The diplomat worked tirelessly to reach a lasting turmoil between the two nations.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "Origin",
+					"meaning": "uncertain, possibly related to tremere (to tremble"
+				}
+			],
+			"points": [
+				"調和とは、静止した状態ではなく、異なる命が激しくダンスを踊り続けている瞬間の奇跡です。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "orchestration_harm",
+		"word": "orchestration",
+		"meaning": "管弦楽、組織化",
+		"era": "19th Century",
+		"etymology": {
+			"components": [
+				"orkhestra (place for dancing)"
+			],
+			"original_statement": "From 19th Century orkhestra (place for dancing)."
+		},
+		"concept": "The planning or coordination of the elements of a situation to produce a desired effect (ただ（。並べる（。のではなく（。、各々（。が（。最高（。の（。パフォ（。ー（。マンス（。を（。発揮（。できる「舞（。台（。を（。整える（。オーケストラ）」こと（。。（。見えない（。指揮者（。の（。眼差し（。による（。、高度（。な（。秩序の（。構築。)",
+		"thinking": "ただ（。並べる（。のではなく（。、各々（。が（。最高（。の（。パフォ（。ー（。マンス（。を（。発揮（。できる「舞（。台（。を（。整える（。オーケストラ）」こと（。。（。見えない（。指揮者（。の（。眼差し（。による（。、高度（。な（。秩序の（。構築。",
+		"aftertaste": "葛藤を恐れないでください。それは、新しい調和が生まれるための産声なのですから。",
+		"example": "The diplomat worked tirelessly to reach a lasting orchestration between the two nations.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "orkhestra",
+					"meaning": "place for dancing"
+				}
+			],
+			"points": [
+				"調和とは、静止した状態ではなく、異なる命が激しくダンスを踊り続けている瞬間の奇跡です。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "armistice_harm",
+		"word": "armistice",
+		"meaning": "休戦、停戦協定",
+		"era": "17th Century",
+		"etymology": {
+			"components": [
+				"arma (arms, weapons) + sistere (to stand, stop)"
+			],
+			"original_statement": "From 17th Century arma (arms, weapons) + sistere (to stand, stop)."
+		},
+		"concept": "An agreement made by opposing sides in a war to stop fighting for a certain time; a truce (銃火（。を（。交（。わす（。のを（。止（。め（。、自らの「武器（。アルマ）を（。一度（。静止（。シスト）させる（。）」儀式（。。（。真（。の（。平和（。に（。至（。る（。前（。の（。、祈り（。に（。満ち（。た（。沈黙。)",
+		"thinking": "銃火（。を（。交（。わす（。のを（。止（。め（。、自らの「武器（。アルマ）を（。一度（。静止（。シスト）させる（。）」儀式（。。（。真（。の（。平和（。に（。至（。る（。前（。の（。、祈り（。に（。満ち（。た（。沈黙。",
+		"aftertaste": "葛藤を恐れないでください。それは、新しい調和が生まれるための産声なのですから。",
+		"example": "The diplomat worked tirelessly to reach a lasting armistice between the two nations.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "arma",
+					"meaning": "arms, weapons) + sistere (to stand, stop"
+				}
+			],
+			"points": [
+				"調和とは、静止した状態ではなく、異なる命が激しくダンスを踊り続けている瞬間の奇跡です。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "coherence_harm",
+		"word": "coherence",
+		"meaning": "一貫性、密着",
+		"era": "16th Century",
+		"etymology": {
+			"components": [
+				"com- (together) + haerere (to stick)"
+			],
+			"original_statement": "From 16th Century com- (together) + haerere (to stick)."
+		},
+		"concept": "The quality of being logical and consistent (言葉（。と（。行動が（。、磁石（。のように（。「共に（。コン）密着（。して（。ヘア）離れない（。）」状態（。。（。その（。ブレ（。のない（。姿勢（。が（。、周囲に（。圧倒的（。な（。信頼（。を（。産み出す。)",
+		"thinking": "言葉（。と（。行動が（。、磁石（。のように（。「共に（。コン）密着（。して（。ヘア）離れない（。）」状態（。。（。その（。ブレ（。のない（。姿勢（。が（。、周囲に（。圧倒的（。な（。信頼（。を（。産み出す。",
+		"aftertaste": "葛藤を恐れないでください。それは、新しい調和が生まれるための産声なのですから。",
+		"example": "The diplomat worked tirelessly to reach a lasting coherence between the two nations.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "com-",
+					"meaning": "together) + haerere (to stick"
+				}
+			],
+			"points": [
+				"調和とは、静止した状態ではなく、異なる命が激しくダンスを踊り続けている瞬間の奇跡です。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "repercussion_harm",
+		"word": "repercussion",
+		"meaning": "影響、反動、跳ね返り",
+		"era": "15th Century",
+		"etymology": {
+			"components": [
+				"re- (back) + per- (through) + quatere (to shake)"
+			],
+			"original_statement": "From 15th Century re- (back) + per- (through) + quatere (to shake)."
+		},
+		"concept": "An unintended consequence occurring some time after an event or action, especially an unwelcome one (放たれた（。衝撃（。が（。、壁（。を（。突（。き（。抜（。け（。、「再び（。リ）震（。え（。クッシュ）を（。伴（。って（。戻（。って（。くる（。）」こと（。。（。自分（。の（。投（。げ（。た（。石（。が（。、忘（。れた（。頃（。に（。大きな（。波紋（。となって（。、自ら（。を（。揺（。さぶ（。る（。こと。)",
+		"thinking": "放たれた（。衝撃（。が（。、壁（。を（。突（。き（。抜（。け（。、「再び（。リ）震（。え（。クッシュ）を（。伴（。って（。戻（。って（。くる（。）」こと（。。（。自分（。の（。投（。げ（。た（。石（。が（。、忘（。れた（。頃（。に（。大きな（。波紋（。となって（。、自ら（。を（。揺（。さぶ（。る（。こと。",
+		"aftertaste": "葛藤を恐れないでください。それは、新しい調和が生まれるための産声なのですから。",
+		"example": "The diplomat worked tirelessly to reach a lasting repercussion between the two nations.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "re-",
+					"meaning": "back) + per- (through) + quatere (to shake"
+				}
+			],
+			"points": [
+				"調和とは、静止した状態ではなく、異なる命が激しくダンスを踊り続けている瞬間の奇跡です。"
+			]
+		},
+		"part_of_speech": "noun"
 	}
 ];
