@@ -213651,5 +213651,33 @@ const WORDS = [
 			]
 		},
 		"part_of_speech": "noun"
+	},
+	{
+		"id": "speck_seed_ii",
+		"word": "speck",
+		"meaning": "小さな斑点、微塵、スペック",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"specca (speck, spot, literal: 'spot')"
+			],
+			"original_statement": "From Old English specca (speck, spot, literal: 'spot')."
+		},
+		"concept": "A small spot or patch of color",
+		"thinking": "極小であることは、無価値であることではありません。宇宙の巨大な幾何学も、結局は一つの微粒子の連なりから生まれている、至高のる事実を、魂で感じてください。",
+		"aftertaste": "一粒の種の中には、森全体の記憶が眠っている。あなたの中にある小さな想いも、いつか巨大な物語を紡ぎ出すための、聖なる核なのですよ。",
+		"example": "The scientist used an electron microscope to observe the fine specks of dust that had been collected from the surface of the asteroid during the space mission.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "specca",
+					"meaning": "speck, spot, literal: 'spot'"
+				}
+			],
+			"points": [
+				"微小なものに目を向けることは、細部を愛でること。そこに宿る宇宙の全記憶を、静かに読み解いていくのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
 	}
 ];
