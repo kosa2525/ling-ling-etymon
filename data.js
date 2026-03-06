@@ -207799,5 +207799,201 @@ const WORDS = [
 			]
 		},
 		"part_of_speech": "noun"
+	},
+	{
+		"id": "caravan_horizon",
+		"word": "caravan",
+		"meaning": "隊商、キャラバン、移動住宅",
+		"era": "16th Century",
+		"etymology": {
+			"components": [
+				"karwan (caravan, camel train)"
+			],
+			"original_statement": "From 16th Century karwan (caravan, camel train)."
+		},
+		"concept": "A group of people, especially traders or pilgrims, traveling together across a desert in Asia or North Africa (孤独（。な（。る（。荒野（。を（。、一つ（。の「群（。れ（。キャラバン）』となって（。進（。む（。こと（。。（。絶（。え（。間（。ない（。砂塵（。の（。中に（。、人（。々（。の（。絆（。が（。、美（。し（。い（。旋律（。を（。奏（。で（。て（。いる（。のですよ。)",
+		"thinking": "孤独（。な（。る（。荒野（。を（。、一つ（。の「群（。れ（。キャラバン）』となって（。進（。む（。こと（。。（。絶（。え（。間（。ない（。砂塵（。の（。中に（。、人（。々（。の（。絆（。が（。、美（。し（。い（。旋律（。を（。奏（。で（。て（。いる（。のですよ。",
+		"aftertaste": "水平線は、この世の終わりではなく、無限という名の未知の始まりを、静かに指し示しているのですよ。",
+		"example": "The scientific caravan discovered several new species in the uncharted reaches of the deep ocean.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "karwan",
+					"meaning": "caravan, camel train"
+				}
+			],
+			"points": [
+				"留まることは安らぎではなく、停滞であり、ただ歩き続けることこそが、唯一の休息なのかもしれません。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "waypoint_horizon",
+		"word": "waypoint",
+		"meaning": "経由地、ウェイポイント",
+		"era": "20th Century",
+		"etymology": {
+			"components": [
+				"way + point"
+			],
+			"original_statement": "From 20th Century way + point."
+		},
+		"concept": "A reference point in physical space used for purposes of navigation, otherwise known as a landmark (果て（。しない「道（。ウェイ）』の（。途中に（。、そっと（。置（。かれた「しるし（。ポイント）』。（。全（。ての（。通過（。点（。に、意味（。が（。宿（。って（。いる（。と（。知（。っ（。た（。とき（。、旅は（。至高の（。もの（。へと（。変（。わ（。り（。ます。)",
+		"thinking": "果て（。しない「道（。ウェイ）』の（。途中に（。、そっと（。置（。かれた「しるし（。ポイント）』。（。全（。ての（。通過（。点（。に、意味（。が（。宿（。って（。いる（。と（。知（。っ（。た（。とき（。、旅は（。至高の（。もの（。へと（。変（。わ（。り（。ます。",
+		"aftertaste": "水平線は、この世の終わりではなく、無限という名の未知の始まりを、静かに指し示しているのですよ。",
+		"example": "The scientific waypoint discovered several new species in the uncharted reaches of the deep ocean.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "way",
+					"meaning": "+ point"
+				}
+			],
+			"points": [
+				"留まることは安らぎではなく、停滞であり、ただ歩き続けることこそが、唯一の休息なのかもしれません。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "dock_horizon",
+		"word": "dock",
+		"meaning": "ドック、船渠（。せんきょ（。）」、着（。艦（。する（。、ドック",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"dokke (trough, channel)"
+			],
+			"original_statement": "From 14th Century dokke (trough, channel)."
+		},
+		"concept": "A structure extending from the shore into a body of water to which a boat is tied (旅の（。疲れ（。を（。癒（。し（。、自（。ら（。を（。整（。え（。る（。ための「深く（。静（。かな（。る（。場所に（。の（。ドック）』。（。そこ（。で（。、あなた（。は（。強個（。に（。な（。る（。再（。生を（。得（。て（。、再び（。宇宙へと（。、漕（。ぎ（。出す（。のですよ。)",
+		"thinking": "旅の（。疲れ（。を（。癒（。し（。、自（。ら（。を（。整（。え（。る（。ための「深く（。静（。かな（。る（。場所に（。の（。ドック）』。（。そこ（。で（。、あなた（。は（。強個（。に（。な（。る（。再（。生を（。得（。て（。、再び（。宇宙へと（。、漕（。ぎ（。出す（。のですよ。",
+		"aftertaste": "水平線は、この世の終わりではなく、無限という名の未知の始まりを、静かに指し示しているのですよ。",
+		"example": "The scientific dock discovered several new species in the uncharted reaches of the deep ocean.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "dokke",
+					"meaning": "trough, channel"
+				}
+			],
+			"points": [
+				"留まることは安らぎではなく、停滞であり、ただ歩き続けることこそが、唯一の休息なのかもしれません。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "helm_horizon",
+		"word": "helm",
+		"meaning": "舵（かじ）、兜、管理",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"helma (handle, helm)"
+			],
+			"original_statement": "From Old English helma (handle, helm)."
+		},
+		"concept": "A tiller or wheel and any associated equipment for steering a ship or boat (巨大（。な（。船（。の（。行（。く（。末を（。、ただ「一（。つ（。の（。手（。で（。の（。握（。り（。ヘラム）』で（。決（。定（。する（。こと（。。（。責任（。の（。重（。厚（。な（。る（。沈黙が（。、あなた（。の（。指（。先に（。、静か（。に（。宿（。って（。いる（。のですよ。)",
+		"thinking": "巨大（。な（。船（。の（。行（。く（。末を（。、ただ「一（。つ（。の（。手（。で（。の（。握（。り（。ヘラム）』で（。決（。定（。する（。こと（。。（。責任（。の（。重（。厚（。な（。る（。沈黙が（。、あなた（。の（。指（。先に（。、静か（。に（。宿（。って（。いる（。のですよ。",
+		"aftertaste": "水平線は、この世の終わりではなく、無限という名の未知の始まりを、静かに指し示しているのですよ。",
+		"example": "The scientific helm discovered several new species in the uncharted reaches of the deep ocean.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "helma",
+					"meaning": "handle, helm"
+				}
+			],
+			"points": [
+				"留まることは安らぎではなく、停滞であり、ただ歩き続けることこそが、唯一の休息なのかもしれません。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "buoy_horizon",
+		"word": "buoy",
+		"meaning": "ブイ、浮標（。ふひょう（。）」、浮（。か（。せる（。、ブイ",
+		"era": "13th Century",
+		"etymology": {
+			"components": [
+				"boye (buoy, signal, literal: 'fetter, chain')"
+			],
+			"original_statement": "From 13th Century boye (buoy, signal, literal: 'fetter, chain')."
+		},
+		"concept": "An anchored float serving as a navigation mark, to show reefs or other hazards, or for mooring (深淵（。の（。底（。に（。、静（。かな（。る「鎖（。ボイ）』で（。繋（。留（。さ（。れ（。た（。）」、光（。の（。シグナル。（。どんな（。荒（。波の中（。でも（。、浮か（。び（。続ける（。その（。姿に（。、旅人（。は（。一瞬の（。希（。望を（。見（。出（。す（。のですよ。)",
+		"thinking": "深淵（。の（。底（。に（。、静（。かな（。る「鎖（。ボイ）』で（。繋（。留（。さ（。れ（。た（。）」、光（。の（。シグナル。（。どんな（。荒（。波の中（。でも（。、浮か（。び（。続ける（。その（。姿に（。、旅人（。は（。一瞬の（。希（。望を（。見（。出（。す（。のですよ。",
+		"aftertaste": "水平線は、この世の終わりではなく、無限という名の未知の始まりを、静かに指し示しているのですよ。",
+		"example": "The scientific buoy discovered several new species in the uncharted reaches of the deep ocean.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "boye",
+					"meaning": "buoy, signal, literal: 'fetter, chain'"
+				}
+			],
+			"points": [
+				"留まることは安らぎではなく、停滞であり、ただ歩き続けることこそが、唯一の休息なのかもしれません。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "isthmus_horizon",
+		"word": "isthmus",
+		"meaning": "地峡（ちきょう）、イスムス",
+		"era": "16th Century",
+		"etymology": {
+			"components": [
+				"isthmos (neck, passage)"
+			],
+			"original_statement": "From 16th Century isthmos (neck, passage)."
+		},
+		"concept": "A narrow strip of land with sea on either side, forming a link between two larger areas of land (二（。つの（。大陸を（。、ギリギリ（。の（。ところで（。繋（。ぎ（。止める「首（。イスモス）』のような（。場所（。（。その（。危（。うい（。細（。道にこそ（。、世界を（。一（。つ（。に（。する（。ための（。、真（。実（。の（。架（。け（。橋が（。あります。)",
+		"thinking": "二（。つの（。大陸を（。、ギリギリ（。の（。ところで（。繋（。ぎ（。止める「首（。イスモス）』のような（。場所（。（。その（。危（。うい（。細（。道にこそ（。、世界を（。一（。つ（。に（。する（。ための（。、真（。実（。の（。架（。け（。橋が（。あります。",
+		"aftertaste": "水平線は、この世の終わりではなく、無限という名の未知の始まりを、静かに指し示しているのですよ。",
+		"example": "The scientific isthmus discovered several new species in the uncharted reaches of the deep ocean.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "isthmos",
+					"meaning": "neck, passage"
+				}
+			],
+			"points": [
+				"留まることは安らぎではなく、停滞であり、ただ歩き続けることこそが、唯一の休息なのかもしれません。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "sextant_horizon",
+		"word": "sextant",
+		"meaning": "六分儀（。ろくぶんぎ（。）」、セクスタント",
+		"era": "18th Century",
+		"etymology": {
+			"components": [
+				"sextans (a sixth part)"
+			],
+			"original_statement": "From 18th Century sextans (a sixth part)."
+		},
+		"concept": "An instrument with a graduated arc of 60° and a sighting mechanism, used for measuring the angular distances between objects and especially for taking altitudes in navigation (宇宙（。の（。全（。てを「六（。つ（。の（。一（。つ（。セクスタ）」として（。切り（。取り（。、自分（。の（。場所を（。知（。る（。ための（。秤（。（。星（。と（。海（。の（。間（。に、揺（。る（。ぎ（。な（。い（。一点を（。、見（。つけ（。て（。ください。)",
+		"thinking": "宇宙（。の（。全（。てを「六（。つ（。の（。一（。つ（。セクスタ）」として（。切り（。取り（。、自分（。の（。場所を（。知（。る（。ための（。秤（。（。星（。と（。海（。の（。間（。に、揺（。る（。ぎ（。な（。い（。一点を（。、見（。つけ（。て（。ください。",
+		"aftertaste": "水平線は、この世の終わりではなく、無限という名の未知の始まりを、静かに指し示しているのですよ。",
+		"example": "The scientific sextant discovered several new species in the uncharted reaches of the deep ocean.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sextans",
+					"meaning": "a sixth part"
+				}
+			],
+			"points": [
+				"留まることは安らぎではなく、停滞であり、ただ歩き続けることこそが、唯一の休息なのかもしれません。"
+			]
+		},
+		"part_of_speech": "noun"
 	}
 ];
