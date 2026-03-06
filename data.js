@@ -204831,5 +204831,145 @@ const WORDS = [
 			]
 		},
 		"part_of_speech": "noun"
+	},
+	{
+		"id": "neuron_flesh",
+		"word": "neuron",
+		"meaning": "神経細胞、ニューロン",
+		"era": "19th Century",
+		"etymology": {
+			"components": [
+				"neuron (sinew, nerve, fiber)"
+			],
+			"original_statement": "From 19th Century neuron (sinew, nerve, fiber)."
+		},
+		"concept": "A specialized cell transmitting nerve impulses; a nerve cell (情報を（。ただ（。流す（。だけでなく（。、魂の（。エナジーを（。一点へと「結ぶ（。ニューロ）繊維（。）」。（。その（。一本（。い（。っぽ（。ん（。の（。震（。えが（。、あなた（。という（。宇宙の（。意識を（。形（。作（。って（。いる（。のですよ。)",
+		"thinking": "情報を（。ただ（。流す（。だけでなく（。、魂の（。エナジーを（。一点へと「結ぶ（。ニューロ）繊維（。）」。（。その（。一本（。い（。っぽ（。ん（。の（。震（。えが（。、あなた（。という（。宇宙の（。意識を（。形（。作（。って（。いる（。のですよ。",
+		"aftertaste": "肉体は、魂がこの世界で踊るための、美しい衣裳に過ぎません。",
+		"example": "The study of human neuron reveals the incredible complexity of life.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "neuron",
+					"meaning": "sinew, nerve, fiber"
+				}
+			],
+			"points": [
+				"生命とは、ただの物質の集まりではなく、絶え間ない変化と調和の中に宿る、奇跡そのものです。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "cardiac_flesh",
+		"word": "cardiac",
+		"meaning": "心臓の、心臓病の",
+		"era": "16th Century",
+		"etymology": {
+			"components": [
+				"kardia (heart)"
+			],
+			"original_statement": "From 16th Century kardia (heart)."
+		},
+		"concept": "Of or relating to the heart (自覚（。する（。よりも（。遥（。かに（。深く（。、ひたすら（。ビート（。を（。刻（。み（。続ける「心（。カルディア）」の（。鼓動（。。（。生きて（。いる（。という（。こと（。の（。、残酷（。な（。までに（。眩（。しい（。根拠。)",
+		"thinking": "自覚（。する（。よりも（。遥（。かに（。深く（。、ひたすら（。ビート（。を（。刻（。み（。続ける「心（。カルディア）」の（。鼓動（。。（。生きて（。いる（。という（。こと（。の（。、残酷（。な（。までに（。眩（。しい（。根拠。",
+		"aftertaste": "肉体は、魂がこの世界で踊るための、美しい衣裳に過ぎません。",
+		"example": "The study of human cardiac reveals the incredible complexity of life.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kardia",
+					"meaning": "heart"
+				}
+			],
+			"points": [
+				"生命とは、ただの物質の集まりではなく、絶え間ない変化と調和の中に宿る、奇跡そのものです。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "arterial_flesh",
+		"word": "arterial",
+		"meaning": "動脈の、幹線の",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"arteria (windpipe, artery)"
+			],
+			"original_statement": "From 14th Century arteria (windpipe, artery)."
+		},
+		"concept": "Of or relating to an artery (酸素（。という（。名の（。希望を（。、全身へと（。運ぶ「生命（。の（。管（。アルテリア）」。（。そこ（。を（。流れる（。情熱が（。、あなた（。を（。常に（。新しい（。明日へと（。突き（。動かす（。の（。ですよ。)",
+		"thinking": "酸素（。という（。名の（。希望を（。、全身へと（。運ぶ「生命（。の（。管（。アルテリア）」。（。そこ（。を（。流れる（。情熱が（。、あなた（。を（。常に（。新しい（。明日へと（。突き（。動かす（。の（。ですよ。",
+		"aftertaste": "肉体は、魂がこの世界で踊るための、美しい衣裳に過ぎません。",
+		"example": "The study of human arterial reveals the incredible complexity of life.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "arteria",
+					"meaning": "windpipe, artery"
+				}
+			],
+			"points": [
+				"生命とは、ただの物質の集まりではなく、絶え間ない変化と調和の中に宿る、奇跡そのものです。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "stimulus_flesh",
+		"word": "stimulus",
+		"meaning": "刺激、スチムラス",
+		"era": "17th Century",
+		"etymology": {
+			"components": [
+				"stimulus (goad, prick, pointed stick)"
+			],
+			"original_statement": "From 17th Century stimulus (goad, prick, pointed stick)."
+		},
+		"concept": "A thing or event that evokes a specific functional reaction in an organ or tissue (退屈（。な（。日常に（。、不（。意（。に（。突（。き（。刺（。さ（。る「尖（。った（。棒（。スチラム）」。（。その（。鋭（。い（。痛みだけが（。、深い（。眠り（。の（。淵から（。、あなた（。を（。呼び（。覚（。ます（。の（。ですよ。)",
+		"thinking": "退屈（。な（。日常に（。、不（。意（。に（。突（。き（。刺（。さ（。る「尖（。った（。棒（。スチラム）」。（。その（。鋭（。い（。痛みだけが（。、深い（。眠り（。の（。淵から（。、あなた（。を（。呼び（。覚（。ます（。の（。ですよ。",
+		"aftertaste": "肉体は、魂がこの世界で踊るための、美しい衣裳に過ぎません。",
+		"example": "The study of human stimulus reveals the incredible complexity of life.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "stimulus",
+					"meaning": "goad, prick, pointed stick"
+				}
+			],
+			"points": [
+				"生命とは、ただの物質の集まりではなく、絶え間ない変化と調和の中に宿る、奇跡そのものです。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "volition_flesh",
+		"word": "volition",
+		"meaning": "意志、決断、ヴォリション",
+		"era": "17th Century",
+		"etymology": {
+			"components": [
+				"velle (to wish, will)"
+			],
+			"original_statement": "From 17th Century velle (to wish, will)."
+		},
+		"concept": "The faculty or power of using one's will (ただ（。流（。さ（。れる（。のを（。止め（。、自ら（。の（。内側から「願（。い（。ヴェレ）を（。絞（。り（。出す（。）」こと（。。（。その（。一瞬（。の（。決断（。が（。、あなたの（。運命（。を（。、永遠（。に（。書き（。換（。える（。のです。)",
+		"thinking": "ただ（。流（。さ（。れる（。のを（。止め（。、自ら（。の（。内側から「願（。い（。ヴェレ）を（。絞（。り（。出す（。）」こと（。。（。その（。一瞬（。の（。決断（。が（。、あなたの（。運命（。を（。、永遠（。に（。書き（。換（。える（。のです。",
+		"aftertaste": "肉体は、魂がこの世界で踊るための、美しい衣裳に過ぎません。",
+		"example": "The study of human volition reveals the incredible complexity of life.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "velle",
+					"meaning": "to wish, will"
+				}
+			],
+			"points": [
+				"生命とは、ただの物質の集まりではなく、絶え間ない変化と調和の中に宿る、奇跡そのものです。"
+			]
+		},
+		"part_of_speech": "noun"
 	}
 ];
