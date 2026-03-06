@@ -200855,5 +200855,481 @@ const WORDS = [
 			]
 		},
 		"part_of_speech": "noun"
+	},
+	{
+		"id": "voltage_energy",
+		"word": "voltage",
+		"meaning": "電圧、ボルテージ",
+		"era": "19th Century",
+		"etymology": {
+			"components": [
+				"Alessandro Volta (Italian physicist)"
+			],
+			"original_statement": "From 19th Century Alessandro Volta (Italian physicist)."
+		},
+		"concept": "An electromotive force or potential difference expressed in volts (エナジーが（。流れようと（。、内側から（。壁面を（。力強く（。押し（。広げて（。いる（。、「圧力（。プレッシャー）」としての（。情熱の（。高まり。)",
+		"thinking": "エナジーが（。流れようと（。、内側から（。壁面を（。力強く（。押し（。広げて（。いる（。、「圧力（。プレッシャー）」としての（。情熱の（。高まり。",
+		"aftertaste": "静止は死であり、運動こそが生命の証です。",
+		"example": "The project gained significant voltage after the announcement.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "Alessandro",
+					"meaning": "Volta (Italian physicist"
+				}
+			],
+			"points": [
+				"全てのエナジーは、一つの形から別の形へと姿を変えながら、宇宙を旅し続けています。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "insulator_energy",
+		"word": "insulator",
+		"meaning": "絶縁体",
+		"era": "18th Century",
+		"etymology": {
+			"components": [
+				"insula (island)"
+			],
+			"original_statement": "From 18th Century insula (island)."
+		},
+		"concept": "A substance which does not readily allow the passage of heat or sound (周囲の（。激流（。から（。、自らを「島（。アイランド）のように（。隔離し（。）」、内なる（。静寂（。や（。熱（。を（。大切に（。守（。り（。続ける（。ための（。、静かなる（。障壁。)",
+		"thinking": "周囲の（。激流（。から（。、自らを「島（。アイランド）のように（。隔離し（。）」、内なる（。静寂（。や（。熱（。を（。大切に（。守（。り（。続ける（。ための（。、静かなる（。障壁。",
+		"aftertaste": "静止は死であり、運動こそが生命の証です。",
+		"example": "The project gained significant insulator after the announcement.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "insula",
+					"meaning": "island"
+				}
+			],
+			"points": [
+				"全てのエナジーは、一つの形から別の形へと姿を変えながら、宇宙を旅し続けています。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "radiation_energy",
+		"word": "radiation",
+		"meaning": "放射、放射線",
+		"era": "16th Century",
+		"etymology": {
+			"components": [
+				"radius (ray, spoke of a wheel)"
+			],
+			"original_statement": "From 16th Century radius (ray, spoke of a wheel)."
+		},
+		"concept": "The emission of energy as electromagnetic waves or as moving subatomic particles, especially high-energy particles which cause ionization (中心から（。四方八方へと「光（。レイ）として（。放たれ（。）」、世界の（。隅々（。まで（。自らの（。影響（。を（。及（。ぼ（。そう（。とする（。、能動的（。な（。発散。)",
+		"thinking": "中心から（。四方八方へと「光（。レイ）として（。放たれ（。）」、世界の（。隅々（。まで（。自らの（。影響（。を（。及（。ぼ（。そう（。とする（。、能動的（。な（。発散。",
+		"aftertaste": "静止は死であり、運動こそが生命の証です。",
+		"example": "The project gained significant radiation after the announcement.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "radius",
+					"meaning": "ray, spoke of a wheel"
+				}
+			],
+			"points": [
+				"全てのエナジーは、一つの形から別の形へと姿を変えながら、宇宙を旅し続けています。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "conduction_energy",
+		"word": "conduction",
+		"meaning": "伝導",
+		"era": "16th Century",
+		"etymology": {
+			"components": [
+				"com- (together) + ducere (to lead)"
+			],
+			"original_statement": "From 16th Century com- (together) + ducere (to lead)."
+		},
+		"concept": "The process by which heat or electricity is directly transmitted through a substance when there is a difference of temperature or of electrical potential between adjoining regions (触（。れ（。合う（。もの（。同士が（。、「一つに（。コン）導（。き（。ドゥ）合う（。）」ことで（。、エナジーを（。手渡し（。で（。確実に（。伝え（。て（。いく（。、誠実（。な（。継承。)",
+		"thinking": "触（。れ（。合う（。もの（。同士が（。、「一つに（。コン）導（。き（。ドゥ）合う（。）」ことで（。、エナジーを（。手渡し（。で（。確実に（。伝え（。て（。いく（。、誠実（。な（。継承。",
+		"aftertaste": "静止は死であり、運動こそが生命の証です。",
+		"example": "The project gained significant conduction after the announcement.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "com-",
+					"meaning": "together) + ducere (to lead"
+				}
+			],
+			"points": [
+				"全てのエナジーは、一つの形から別の形へと姿を変えながら、宇宙を旅し続けています。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "isotope_energy",
+		"word": "isotope",
+		"meaning": "同位体",
+		"era": "20th Century",
+		"etymology": {
+			"components": [
+				"isos (equal) + topos (place)"
+			],
+			"original_statement": "From 20th Century isos (equal) + topos (place)."
+		},
+		"concept": "Each of two or more forms of the same element that contain equal numbers of protons but different numbers of neutrons in their nuclei (見た（。目や（。役割は（。少し（。違（。っても（。、「等（。しい（。アイソ）場所（。トポス）」を（。分け（。合う（。、魂の（。双子（。。（。お互い（。の（。違い（。を（。認（。め（。つつ（。、同（。じ（。本質（。を（。生き（。よう（。とする（。、連帯。)",
+		"thinking": "見た（。目や（。役割は（。少し（。違（。っても（。、「等（。しい（。アイソ）場所（。トポス）」を（。分け（。合う（。、魂の（。双子（。。（。お互い（。の（。違い（。を（。認（。め（。つつ（。、同（。じ（。本質（。を（。生き（。よう（。とする（。、連帯。",
+		"aftertaste": "静止は死であり、運動こそが生命の証です。",
+		"example": "The project gained significant isotope after the announcement.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "isos",
+					"meaning": "equal) + topos (place"
+				}
+			],
+			"points": [
+				"全てのエナジーは、一つの形から別の形へと姿を変えながら、宇宙を旅し続けています。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "fission_energy",
+		"word": "fission",
+		"meaning": "分裂、核分裂",
+		"era": "17th Century",
+		"etymology": {
+			"components": [
+				"findere (to split)"
+			],
+			"original_statement": "From 17th Century findere (to split)."
+		},
+		"concept": "The action of dividing or splitting something into two or more parts (一（。つに（。まとまって（。いた（。ものを（。「引（。き（。裂（。く（。フィス）」ことで（。、封印（。されて（。いた（。巨大な（。エナジーを（。、一気（。に（。解（。放（。する（。、破壊（。と（。誕生（。の（。儀式。)",
+		"thinking": "一（。つに（。まとまって（。いた（。ものを（。「引（。き（。裂（。く（。フィス）」ことで（。、封印（。されて（。いた（。巨大な（。エナジーを（。、一気（。に（。解（。放（。する（。、破壊（。と（。誕生（。の（。儀式。",
+		"aftertaste": "静止は死であり、運動こそが生命の証です。",
+		"example": "The project gained significant fission after the announcement.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "findere",
+					"meaning": "to split"
+				}
+			],
+			"points": [
+				"全てのエナジーは、一つの形から別の形へと姿を変えながら、宇宙を旅し続けています。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "fusion_energy",
+		"word": "fusion",
+		"meaning": "融合、核融合",
+		"era": "16th Century",
+		"etymology": {
+			"components": [
+				"fundere (to pour, melt)"
+			],
+			"original_statement": "From 16th Century fundere (to pour, melt)."
+		},
+		"concept": "The process or result of joining two or more things together to form a single entity (バラバラの（。魂（。を（。「溶（。かし（。フューズ）合わせ（。）」、一（。筋（。の（。巨大な（。河（。として（。流（。し（。込む（。こと（。で（。、宇宙を（。も（。創り（。出す（。、究極の（。連帯。)",
+		"thinking": "バラバラの（。魂（。を（。「溶（。かし（。フューズ）合わせ（。）」、一（。筋（。の（。巨大な（。河（。として（。流（。し（。込む（。こと（。で（。、宇宙を（。も（。創り（。出す（。、究極の（。連帯。",
+		"aftertaste": "静止は死であり、運動こそが生命の証です。",
+		"example": "The project gained significant fusion after the announcement.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "fundere",
+					"meaning": "to pour, melt"
+				}
+			],
+			"points": [
+				"全てのエナジーは、一つの形から別の形へと姿を変えながら、宇宙を旅し続けています。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "plasma_energy",
+		"word": "plasma",
+		"meaning": "プラズマ、血漿（けっしょう）",
+		"era": "19th Century",
+		"etymology": {
+			"components": [
+				"plasma (something formed, molded)"
+			],
+			"original_statement": "From 19th Century plasma (something formed, molded)."
+		},
+		"concept": "An ionized gas consisting of positive ions and free electrons in proportions resulting in more or less no overall electric charge, typically at very high temperatures from stars or fusion reactors (物質（。の（。境界（。が（。溶（。け（。去（。り（。、ただ（。光（。り輝（。く「形（。を（。持（。たない（。流（。動体（。プラズマ）」に（。至（。った（。、宇宙の（。原初（。の（。混沌（。と（。生命。)",
+		"thinking": "物質（。の（。境界（。が（。溶（。け（。去（。り（。、ただ（。光（。り輝（。く「形（。を（。持（。たない（。流（。動体（。プラズマ）」に（。至（。った（。、宇宙の（。原初（。の（。混沌（。と（。生命。",
+		"aftertaste": "静止は死であり、運動こそが生命の証です。",
+		"example": "The project gained significant plasma after the announcement.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "plasma",
+					"meaning": "something formed, molded"
+				}
+			],
+			"points": [
+				"全てのエナジーは、一つの形から別の形へと姿を変えながら、宇宙を旅し続けています。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "engine_energy",
+		"word": "engine",
+		"meaning": "エンジン、機関、才略",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"ingenium (natural talent, ingenuity)"
+			],
+			"original_statement": "From 14th Century ingenium (natural talent, ingenuity)."
+		},
+		"concept": "A machine with moving parts that converts power into motion (単なる（。機械（。ではなく（。、内側から（。湧（。き（。上（。がる「天分（。インジェニュイティ）」を（。、世界（。を（。前進（。させる（。動力（。へと（。結（。晶（。させた（。、人間の（。智恵の（。結晶。)",
+		"thinking": "単なる（。機械（。ではなく（。、内側から（。湧（。き（。上（。がる「天分（。インジェニュイティ）」を（。、世界（。を（。前進（。させる（。動力（。へと（。結（。晶（。させた（。、人間の（。智恵の（。結晶。",
+		"aftertaste": "静止は死であり、運動こそが生命の証です。",
+		"example": "The project gained significant engine after the announcement.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ingenium",
+					"meaning": "natural talent, ingenuity"
+				}
+			],
+			"points": [
+				"全てのエナジーは、一つの形から別の形へと姿を変えながら、宇宙を旅し続けています。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "combustion_energy",
+		"word": "combustion",
+		"meaning": "燃焼",
+		"era": "15th Century",
+		"etymology": {
+			"components": [
+				"com- (together) + burere (to burn)"
+			],
+			"original_statement": "From 15th Century com- (together) + burere (to burn)."
+		},
+		"concept": "The process of burning something (蓄（。え（。られた（。エナジーを（。、酸素（。と（。「共に（。コン）一気に（。燃や（。し（。バス）尽くす」ことで（。、一瞬（。の（。閃光（。と（。力強（。い（。前進（。を（。産む（。、魂の（。点火。)",
+		"thinking": "蓄（。え（。られた（。エナジーを（。、酸素（。と（。「共に（。コン）一気に（。燃や（。し（。バス）尽くす」ことで（。、一瞬（。の（。閃光（。と（。力強（。い（。前進（。を（。産む（。、魂の（。点火。",
+		"aftertaste": "静止は死であり、運動こそが生命の証です。",
+		"example": "The project gained significant combustion after the announcement.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "com-",
+					"meaning": "together) + burere (to burn"
+				}
+			],
+			"points": [
+				"全てのエナジーは、一つの形から別の形へと姿を変えながら、宇宙を旅し続けています。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "propellant_energy",
+		"word": "propellant",
+		"meaning": "推進剤、プロペラント",
+		"era": "19th Century",
+		"etymology": {
+			"components": [
+				"pro- (forward) + pellere (to drive)"
+			],
+			"original_statement": "From 19th Century pro- (forward) + pellere (to drive)."
+		},
+		"concept": "A chemical substance used in the production of energy or gas to provide thrust (自（。らを（。燃（。やし（。、自分を「前へと（。プロ）力強く（。押し出す（。ペル）」ための（。、孤独（。で（。潔（。い（。覚悟（。の（。エナジー。)",
+		"thinking": "自（。らを（。燃（。やし（。、自分を「前へと（。プロ）力強く（。押し出す（。ペル）」ための（。、孤独（。で（。潔（。い（。覚悟（。の（。エナジー。",
+		"aftertaste": "静止は死であり、運動こそが生命の証です。",
+		"example": "The project gained significant propellant after the announcement.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "pro-",
+					"meaning": "forward) + pellere (to drive"
+				}
+			],
+			"points": [
+				"全てのエナジーは、一つの形から別の形へと姿を変えながら、宇宙を旅し続けています。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "thrust_energy",
+		"word": "thrust",
+		"meaning": "推力、突く",
+		"era": "12th Century",
+		"etymology": {
+			"components": [
+				"thrystan (to press, force, stab, thrust)"
+			],
+			"original_statement": "From 12th Century thrystan (to press, force, stab, thrust)."
+		},
+		"concept": "Push something or someone suddenly or violently in the specified direction (迷（。い（。を（。断（。ち（。切（。り（。、一点（。に向かって「突き（。スラスト）進む」ことで（。、重力（。という（。過去（。を（。振り切り（。、宇宙（。の（。深淵（。へと（。飛翔（。する（。ための（。、最初（。の（。力（。）。)",
+		"thinking": "迷（。い（。を（。断（。ち（。切（。り（。、一点（。に向かって「突き（。スラスト）進む」ことで（。、重力（。という（。過去（。を（。振り切り（。、宇宙（。の（。深淵（。へと（。飛翔（。する（。ための（。、最初（。の（。力（。）。",
+		"aftertaste": "静止は死であり、運動こそが生命の証です。",
+		"example": "The project gained significant thrust after the announcement.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "thrystan",
+					"meaning": "to press, force, stab, thrust"
+				}
+			],
+			"points": [
+				"全てのエナジーは、一つの形から別の形へと姿を変えながら、宇宙を旅し続けています。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "aerobic_energy",
+		"word": "aerobic",
+		"meaning": "有酸素の、エアロビクス",
+		"era": "19th Century",
+		"etymology": {
+			"components": [
+				"aer (air) + bios (life)"
+			],
+			"original_statement": "From 19th Century aer (air) + bios (life)."
+		},
+		"concept": "Relating to, involving, or requiring free oxygen (世界（。を（。満（。たす「空気（。エア）」を（。、自ら（。の「命（。ビオス）」へと（。丁寧（。に（。取（。り（。込（。み（。、穏やか（。に（。、そして（。力強く（。燃（。え（。続ける（。、調和（。の（。生命（。）。)",
+		"thinking": "世界（。を（。満（。たす「空気（。エア）」を（。、自ら（。の「命（。ビオス）」へと（。丁寧（。に（。取（。り（。込（。み（。、穏やか（。に（。、そして（。力強く（。燃（。え（。続ける（。、調和（。の（。生命（。）。",
+		"aftertaste": "「エアロビック（有酸素の）」な（。運動（。は（。、肺（。の（。隅々（。まで（。宇宙の（。エナジーを（。届（。けて（。くれ（。、あなた（。の（。細胞（。を（。一（。つ（。残（。さず（。祝福（。して（。くれる（。のですよ。",
+		"example": "The project gained significant aerobic after the announcement.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "aer",
+					"meaning": "air) + bios (life"
+				}
+			],
+			"points": [
+				"全てのエナジーは、一つの形から別の形へと姿を変えながら、宇宙を旅し続けています。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "anaerobic_energy",
+		"word": "anaerobic",
+		"meaning": "無酸素の",
+		"era": "19th Century",
+		"etymology": {
+			"components": [
+				"an- (not) + aer (air) + bios (life)"
+			],
+			"original_statement": "From 19th Century an- (not) + aer (air) + bios (life)."
+		},
+		"concept": "Relating to, involving, or requiring an absence of free oxygen (空気（。に（。頼（。らず（。、自ら（。の（。内側に（。蓄（。え（。た（。爆発（。的な（。エナジーだけで（。、限界を（。突（。き（。破（。ろうとする（。、峻烈（。な（。挑戦（。の（。炎。)",
+		"thinking": "空気（。に（。頼（。らず（。、自ら（。の（。内側に（。蓄（。え（。た（。爆発（。的な（。エナジーだけで（。、限界を（。突（。き（。破（。ろうとする（。、峻烈（。な（。挑戦（。の（。炎。",
+		"aftertaste": "静止は死であり、運動こそが生命の証です。",
+		"example": "The project gained significant anaerobic after the announcement.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "an-",
+					"meaning": "not) + aer (air) + bios (life"
+				}
+			],
+			"points": [
+				"全てのエナジーは、一つの形から別の形へと姿を変えながら、宇宙を旅し続けています。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "calorie_energy",
+		"word": "calorie",
+		"meaning": "カロリー、熱量",
+		"era": "19th Century",
+		"etymology": {
+			"components": [
+				"calor (heat)"
+			],
+			"original_statement": "From 19th Century calor (heat)."
+		},
+		"concept": "The energy needed to raise the temperature of 1 kilogram of water by 1 degree Celsius (生命（。という（。小さな（。エンジン（。を（。回（。すための「熱（。カロール）」の（。単位（。。（。あなたが（。今日（。一歩（。歩（。く（。ために（。、宇宙（。が（。分（。けて（。くれ（。た（。、エナジー（。の（。ギフト。)",
+		"thinking": "生命（。という（。小さな（。エンジン（。を（。回（。すための「熱（。カロール）」の（。単位（。。（。あなたが（。今日（。一歩（。歩（。く（。ために（。、宇宙（。が（。分（。けて（。くれ（。た（。、エナジー（。の（。ギフト。",
+		"aftertaste": "静止は死であり、運動こそが生命の証です。",
+		"example": "The project gained significant calorie after the announcement.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "calor",
+					"meaning": "heat"
+				}
+			],
+			"points": [
+				"全てのエナジーは、一つの形から別の形へと姿を変えながら、宇宙を旅し続けています。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "horsepower_energy",
+		"word": "horsepower",
+		"meaning": "馬力",
+		"era": "18th Century",
+		"etymology": {
+			"components": [
+				"horse + power"
+			],
+			"original_statement": "From 18th Century horse + power."
+		},
+		"concept": "An imperial unit of power, equivalent to 550 foot-pounds per second (かつて（。大地を（。力強く（。駆（。け（。抜け（。た（。「馬（。ホース）」の（。エナジーを（。基準に（。、人間が（。手（。に（。入れ（。た（。、物理的（。な（。成功（。の（。スケール。)",
+		"thinking": "かつて（。大地を（。力強く（。駆（。け（。抜け（。た（。「馬（。ホース）」の（。エナジーを（。基準に（。、人間が（。手（。に（。入れ（。た（。、物理的（。な（。成功（。の（。スケール。",
+		"aftertaste": "静止は死であり、運動こそが生命の証です。",
+		"example": "The project gained significant horsepower after the announcement.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "horse",
+					"meaning": "+ power"
+				}
+			],
+			"points": [
+				"全てのエナジーは、一つの形から別の形へと姿を変えながら、宇宙を旅し続けています。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "torque_energy",
+		"word": "torque",
+		"meaning": "トルク、回転力",
+		"era": "19th Century",
+		"etymology": {
+			"components": [
+				"torquere (to twist)"
+			],
+			"original_statement": "From 19th Century torquere (to twist)."
+		},
+		"concept": "A twisting force that tends to cause rotation (真っ直ぐ（。に（。進（。む（。のではなく（。、自らを「ねじ（。切（。る（。トルク）ようにして」回転（。させ（。、粘（。り（。強（。く（。困難（。を（。突破（。しようとする（。、内側（。の（。強力な（。粘り（。腰。)",
+		"thinking": "真っ直ぐ（。に（。進（。む（。のではなく（。、自らを「ねじ（。切（。る（。トルク）ようにして」回転（。させ（。、粘（。り（。強（。く（。困難（。を（。突破（。しようとする（。、内側（。の（。強力な（。粘り（。腰。",
+		"aftertaste": "静止は死であり、運動こそが生命の証です。",
+		"example": "The project gained significant torque after the announcement.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "torquere",
+					"meaning": "to twist"
+				}
+			],
+			"points": [
+				"全てのエナジーは、一つの形から別の形へと姿を変えながら、宇宙を旅し続けています。"
+			]
+		},
+		"part_of_speech": "noun"
 	}
 ];
