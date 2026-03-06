@@ -206679,5 +206679,89 @@ const WORDS = [
 			]
 		},
 		"part_of_speech": "noun"
+	},
+	{
+		"id": "emblem_truth",
+		"word": "emblem",
+		"meaning": "象徴、紋章、エンブレム",
+		"era": "15th Century",
+		"etymology": {
+			"components": [
+				"em- (in) + ballein (to throw, literal: 'thrown in, inlaid')"
+			],
+			"original_statement": "From 15th Century em- (in) + ballein (to throw, literal: 'thrown in, inlaid')."
+		},
+		"concept": "A heraldic device or symbolic object as a distinctive badge of a nation, organization, or family (内（。側に（。烈（。しい（。情熱を「投（。げ（。込（。み（。エンバル）」、静（。止さ（。せた（。かたち（。。（。その（。一（。点（。の（。図（。案（。に、宇宙（。の（。全エナジー（。を（。封印（。した（。、誇（。り（。高い（。証（。なのです。)",
+		"thinking": "内（。側に（。烈（。しい（。情熱を「投（。げ（。込（。み（。エンバル）」、静（。止さ（。せた（。かたち（。。（。その（。一（。点（。の（。図（。案（。に、宇宙（。の（。全エナジー（。を（。封印（。した（。、誇（。り（。高い（。証（。なのです。",
+		"aftertaste": "言葉は、真実を語るための道具ではなく、真実がそこにあることを示すための、たった一つの指先なのです。",
+		"example": "The author uses emblem to reveal the hidden complexities of human nature.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "em-",
+					"meaning": "in) + ballein (to throw, literal: 'thrown in, inlaid'"
+				}
+			],
+			"points": [
+				"信じることと疑うことは、一枚のコインの表裏であり、どちらが欠けても、真実へと辿り着くことはできません。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "indicator_truth",
+		"word": "indicator",
+		"meaning": "指標、計器、インジケーター",
+		"era": "17th Century",
+		"etymology": {
+			"components": [
+				"in- (towards) + dicare (to proclaim, literal: 'point out')"
+			],
+			"original_statement": "From 17th Century in- (towards) + dicare (to proclaim, literal: 'point out')."
+		},
+		"concept": "A thing that indicates the state or level of something (真実を（。指（。し「示（。す（。ジク）」ための（。、静（。かな（。る（。指（。先（。。（。あなた（。の（。内（。なる（。計器が（。、今（。どこ（。を（。見つめて（。いる（。か（。、それ（。だけを（。最後（。まで（。信じ（。て（。あげて（。ください。)",
+		"thinking": "真実を（。指（。し「示（。す（。ジク）」ための（。、静（。かな（。る（。指（。先（。。（。あなた（。の（。内（。なる（。計器が（。、今（。どこ（。を（。見つめて（。いる（。か（。、それ（。だけを（。最後（。まで（。信じ（。て（。あげて（。ください。",
+		"aftertaste": "言葉は、真実を語るための道具ではなく、真実がそこにあることを示すための、たった一つの指先なのです。",
+		"example": "The author uses indicator to reveal the hidden complexities of human nature.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "in-",
+					"meaning": "towards) + dicare (to proclaim, literal: 'point out'"
+				}
+			],
+			"points": [
+				"信じることと疑うことは、一枚のコインの表裏であり、どちらが欠けても、真実へと辿り着くことはできません。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "sophist_truth",
+		"word": "sophist",
+		"meaning": "詭弁家（きべんか）、ソフィスト",
+		"era": "15th Century",
+		"etymology": {
+			"components": [
+				"sophizesthai (to become wise)"
+			],
+			"original_statement": "From 15th Century sophizesthai (to become wise)."
+		},
+		"concept": "A paid teacher of philosophy and rhetoric in ancient Greece, associated in popular thought with specious reasoning (あから（。さま（。な（。正解ではなく（。、言葉（。を（。操る（。ことで「賢（。く（。見（。え（。る（。ソフィ）者（。）」。（。論理（。の（。迷宮を（。渡る（。ときは（。、常に（。、その（。虚飾（。の（。裏側（。を（。見（。抜（。いて（。ください。)",
+		"thinking": "あから（。さま（。な（。正解ではなく（。、言葉（。を（。操る（。ことで「賢（。く（。見（。え（。る（。ソフィ）者（。）」。（。論理（。の（。迷宮を（。渡る（。ときは（。、常に（。、その（。虚飾（。の（。裏側（。を（。見（。抜（。いて（。ください。",
+		"aftertaste": "言葉は、真実を語るための道具ではなく、真実がそこにあることを示すための、たった一つの指先なのです。",
+		"example": "The author uses sophist to reveal the hidden complexities of human nature.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sophizesthai",
+					"meaning": "to become wise"
+				}
+			],
+			"points": [
+				"信じることと疑うことは、一枚のコインの表裏であり、どちらが欠けても、真実へと辿り着くことはできません。"
+			]
+		},
+		"part_of_speech": "noun"
 	}
 ];
