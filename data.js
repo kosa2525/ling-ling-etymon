@@ -208471,5 +208471,313 @@ const WORDS = [
 			]
 		},
 		"part_of_speech": "noun"
+	},
+	{
+		"id": "suede_silk",
+		"word": "suede",
+		"meaning": "スエード、裏革（うらがわ）",
+		"era": "19th Century",
+		"etymology": {
+			"components": [
+				"Suède (Sweden, literal: 'gants de Suède' gloves of Sweden)"
+			],
+			"original_statement": "From 19th Century Suède (Sweden, literal: 'gants de Suède' gloves of Sweden)."
+		},
+		"concept": "Leather with the flesh side rubbed to make a velvety nap (北欧（。の（。冷（。徹（。な（。る（。空気（。から（。届（。いた（。、「スウェーデン（。スエード）の（。贈り物』。（。その（。柔らか（。な（。る（。起（。毛が（。、あなた（。の（。肌（。を（。、優（。しく（。、守（。って（。くれる（。のですよ。)",
+		"thinking": "北欧（。の（。冷（。徹（。な（。る（。空気（。から（。届（。いた（。、「スウェーデン（。スエード）の（。贈り物』。（。その（。柔らか（。な（。る（。起（。毛が（。、あなた（。の（。肌（。を（。、優（。しく（。、守（。って（。くれる（。のですよ。",
+		"aftertaste": "宝石は、宇宙が孤独に耐えきれなくなって、自らの名前を呼ぶために点した、永遠の灯火なのですよ。",
+		"example": "The artisan chose the finest suede to complete the luxurious and durable upholstery project.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "Suède",
+					"meaning": "Sweden, literal: 'gants de Suède' gloves of Sweden"
+				}
+			],
+			"points": [
+				"触れるという行為は、世界を一方的に認識することではなく、自らの肌を通して、世界と愛を交わすことなのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "corduroy_silk",
+		"word": "corduroy",
+		"meaning": "コーデュロイ、コール天",
+		"era": "18th Century",
+		"etymology": {
+			"components": [
+				"cord + duroy (a coarse fabric)"
+			],
+			"original_statement": "From 18th Century cord + duroy (a coarse fabric)."
+		},
+		"concept": "A thick cotton fabric with velvety ribs (ただの（。布（。ではなく（。、一（。つ（。の（。畝（。（。うね（。）」が（。、「紐（。コード）を（。並（。べ（。た（。）」ような（。、強（。靭（。な（。る（。表情。（。その（。素朴（。な（。る（。温（。か（。みが（。、日常（。に（。安（。ら（。ぎを（。、与（。えて（。くれる（。のですよ。)",
+		"thinking": "ただの（。布（。ではなく（。、一（。つ（。の（。畝（。（。うね（。）」が（。、「紐（。コード）を（。並（。べ（。た（。）」ような（。、強（。靭（。な（。る（。表情。（。その（。素朴（。な（。る（。温（。か（。みが（。、日常（。に（。安（。ら（。ぎを（。、与（。えて（。くれる（。のですよ。",
+		"aftertaste": "宝石は、宇宙が孤独に耐えきれなくなって、自らの名前を呼ぶために点した、永遠の灯火なのですよ。",
+		"example": "The artisan chose the finest corduroy to complete the luxurious and durable upholstery project.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "cord",
+					"meaning": "+ duroy (a coarse fabric"
+				}
+			],
+			"points": [
+				"触れるという行為は、世界を一方的に認識することではなく、自らの肌を通して、世界と愛を交わすことなのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "tweed_silk",
+		"word": "tweed",
+		"meaning": "ツイード、スコットランド織",
+		"era": "19th Century",
+		"etymology": {
+			"components": [
+				"tweel (twill, misread for 'Tweed' river)"
+			],
+			"original_statement": "From 19th Century tweel (twill, misread for 'Tweed' river)."
+		},
+		"concept": "A rough, surfaced woolen cloth, typically of mixed flecked colors, originally manufactured in Scotland (スコットランド（。の（。荒（。れ（。狂（。う（。海（。の（。ように（。、烈（。し（。く（。織（。り（。上げ（。られた（。、「綾（。織（。ツイール）』。（。その（。不（。均（。一（。な（。色彩（。の中に（。、大地（。の（。記憶（。が（。、宿（。って（。いる（。のですよ。)",
+		"thinking": "スコットランド（。の（。荒（。れ（。狂（。う（。海（。の（。ように（。、烈（。し（。く（。織（。り（。上げ（。られた（。、「綾（。織（。ツイール）』。（。その（。不（。均（。一（。な（。色彩（。の中に（。、大地（。の（。記憶（。が（。、宿（。って（。いる（。のですよ。",
+		"aftertaste": "宝石は、宇宙が孤独に耐えきれなくなって、自らの名前を呼ぶために点した、永遠の灯火なのですよ。",
+		"example": "The artisan chose the finest tweed to complete the luxurious and durable upholstery project.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "tweel",
+					"meaning": "twill, misread for 'Tweed' river"
+				}
+			],
+			"points": [
+				"触れるという行為は、世界を一方的に認識することではなく、自らの肌を通して、世界と愛を交わすことなのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "flannel_silk",
+		"word": "flannel",
+		"meaning": "フランネル、ネル",
+		"era": "16th Century",
+		"etymology": {
+			"components": [
+				"gwlan (wool, literal: 'woolen cloth')"
+			],
+			"original_statement": "From 16th Century gwlan (wool, literal: 'woolen cloth')."
+		},
+		"concept": "A kind of soft woven fabric, typically made of wool or cotton and slightly milled and raised (柔らか（。な（。る（。魂の（。衣（。裳（。、「羊毛（。グランク）その（。もの（。）」。（。その（。優（。し（。い（。起毛が（。、凍（。て（。つく（。季節（。から（。、あなた（。の（。心を（。、静（。か（。に（。、温（。めて（。くれる（。のですよ。)",
+		"thinking": "柔らか（。な（。る（。魂の（。衣（。裳（。、「羊毛（。グランク）その（。もの（。）」。（。その（。優（。し（。い（。起毛が（。、凍（。て（。つく（。季節（。から（。、あなた（。の（。心を（。、静（。か（。に（。、温（。めて（。くれる（。のですよ。",
+		"aftertaste": "宝石は、宇宙が孤独に耐えきれなくなって、自らの名前を呼ぶために点した、永遠の灯火なのですよ。",
+		"example": "The artisan chose the finest flannel to complete the luxurious and durable upholstery project.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "gwlan",
+					"meaning": "wool, literal: 'woolen cloth'"
+				}
+			],
+			"points": [
+				"触れるという行為は、世界を一方的に認識することではなく、自らの肌を通して、世界と愛を交わすことなのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "matte_silk",
+		"word": "matte",
+		"meaning": "つや消しの、マットな",
+		"era": "17th Century",
+		"etymology": {
+			"components": [
+				"mat (dull, dead, literal: 'checked, checkmate')"
+			],
+			"original_statement": "From 17th Century mat (dull, dead, literal: 'checked, checkmate')."
+		},
+		"concept": "Of a color, paint, or surface) dull and flat, without a shine (光を（。拒（。み（。、ただ（。存在（。の（。重（。厚（。さを（。主張（。する「沈（。黙（。の（。マット）』。（。一度（。、眩（。し（。い（。虚飾（。を（。捨て（。去り（。、ただ（。静（。か（。な（。る（。本質（。へと（。還（。る（。ための（。、至高（。の（。質感（。です。)",
+		"thinking": "光を（。拒（。み（。、ただ（。存在（。の（。重（。厚（。さを（。主張（。する「沈（。黙（。の（。マット）』。（。一度（。、眩（。し（。い（。虚飾（。を（。捨て（。去り（。、ただ（。静（。か（。な（。る（。本質（。へと（。還（。る（。ための（。、至高（。の（。質感（。です。",
+		"aftertaste": "宝石は、宇宙が孤独に耐えきれなくなって、自らの名前を呼ぶために点した、永遠の灯火なのですよ。",
+		"example": "The artisan chose the finest matte to complete the luxurious and durable upholstery project.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "mat",
+					"meaning": "dull, dead, literal: 'checked, checkmate'"
+				}
+			],
+			"points": [
+				"触れるという行為は、世界を一方的に認識することではなく、自らの肌を通して、世界と愛を交わすことなのですよ。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "porcelain_silk",
+		"word": "porcelain",
+		"meaning": "磁器、ポーセリン",
+		"era": "16th Century",
+		"etymology": {
+			"components": [
+				"porcellana (cowrie shell, literal: 'little pig')"
+			],
+			"original_statement": "From 16th Century porcellana (cowrie shell, literal: 'little pig')."
+		},
+		"concept": "A white vitrified translucent ceramic; china (まるで「宝（。貝（。ポルチェラーナ）』のように（。、透（。き（。通（。り（。輝（。く（。地肌（。。（。土が（。、炎（。という（。名の（。試（。練（。を（。越（。えて（。、宝石（。へと（。、再び（。産まれ（。変わ（。っ（。た（。姿（。なの（。ですよ。)",
+		"thinking": "まるで「宝（。貝（。ポルチェラーナ）』のように（。、透（。き（。通（。り（。輝（。く（。地肌（。。（。土が（。、炎（。という（。名の（。試（。練（。を（。越（。えて（。、宝石（。へと（。、再び（。産まれ（。変わ（。っ（。た（。姿（。なの（。ですよ。",
+		"aftertaste": "宝石は、宇宙が孤独に耐えきれなくなって、自らの名前を呼ぶために点した、永遠の灯火なのですよ。",
+		"example": "The artisan chose the finest porcelain to complete the luxurious and durable upholstery project.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "porcellana",
+					"meaning": "cowrie shell, literal: 'little pig'"
+				}
+			],
+			"points": [
+				"触れるという行為は、世界を一方的に認識することではなく、自らの肌を通して、世界と愛を交わすことなのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "quartz_silk",
+		"word": "quartz",
+		"meaning": "石英、水晶、クォーツ",
+		"era": "18th Century",
+		"etymology": {
+			"components": [
+				"quarz (German, of uncertain origin)"
+			],
+			"original_statement": "From 18th Century quarz (German, of uncertain origin)."
+		},
+		"concept": "A hard white or colorless mineral consisting of silicon dioxide, found widely in igneous, sedimentary, and metamorphic rocks and often occurring as hexagonal transparent crystals (透明な（。幾（。何（。学の（。中で（。、ただ（。ひたすら「静（。か（。に（。眠（。る（。クォーツ）』大（。地（。の（。欠（。片（。。（。その（。一点（。の（。濁（。り（。も（。な（。い（。輝（。きは（。、宇宙の（。全（。純粋（。な（。る（。記憶（。を、物語っ（。て（。いる（。のですよ。)",
+		"thinking": "透明な（。幾（。何（。学の（。中で（。、ただ（。ひたすら「静（。か（。に（。眠（。る（。クォーツ）』大（。地（。の（。欠（。片（。。（。その（。一点（。の（。濁（。り（。も（。な（。い（。輝（。きは（。、宇宙の（。全（。純粋（。な（。る（。記憶（。を、物語っ（。て（。いる（。のですよ。",
+		"aftertaste": "宝石は、宇宙が孤独に耐えきれなくなって、自らの名前を呼ぶために点した、永遠の灯火なのですよ。",
+		"example": "The artisan chose the finest quartz to complete the luxurious and durable upholstery project.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "quarz",
+					"meaning": "German, of uncertain origin"
+				}
+			],
+			"points": [
+				"触れるという行為は、世界を一方的に認識することではなく、自らの肌を通して、世界と愛を交わすことなのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "emerald_silk",
+		"word": "emerald",
+		"meaning": "エメラルド、翠玉",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"smaragdos (green gem)"
+			],
+			"original_statement": "From 14th Century smaragdos (green gem)."
+		},
+		"concept": "A bright green precious stone consisting of a chromium-rich variety of beryl (深い（。森（。の（。奥底（。を（。、一粒（。の（。石に（。閉じ（。込め（。た「緑（。の（。瞳（。スマラグドス）』。（。見（。つ（。める（。たびに（。、あなた（。の（。魂は（。、生命（。の（。源（。へと（。、再び（。還（。る（。のですよ。)",
+		"thinking": "深い（。森（。の（。奥底（。を（。、一粒（。の（。石に（。閉じ（。込め（。た「緑（。の（。瞳（。スマラグドス）』。（。見（。つ（。める（。たびに（。、あなた（。の（。魂は（。、生命（。の（。源（。へと（。、再び（。還（。る（。のですよ。",
+		"aftertaste": "宝石は、宇宙が孤独に耐えきれなくなって、自らの名前を呼ぶために点した、永遠の灯火なのですよ。",
+		"example": "The artisan chose the finest emerald to complete the luxurious and durable upholstery project.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "smaragdos",
+					"meaning": "green gem"
+				}
+			],
+			"points": [
+				"触れるという行為は、世界を一方的に認識することではなく、自らの肌を通して、世界と愛を交わすことなのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "sapphire_silk",
+		"word": "sapphire",
+		"meaning": "サファイア、青玉",
+		"era": "13th Century",
+		"etymology": {
+			"components": [
+				"sappheiros (precious stone, blue, literal: 'beloved of Saturn')"
+			],
+			"original_statement": "From 13th Century sappheiros (precious stone, blue, literal: 'beloved of Saturn')."
+		},
+		"concept": "A transparent precious stone, typically blue, which is a variety of corundum (aluminum oxide) (夜空（。の（。深淵（。を（。、結晶（。さ（。せた「青（。い（。誓（。い（。サフィール）』。（。その（。冷（。徹（。な（。る（。眩（。し（。さが（。、あなた（。に（。、ゆる（。ぎ（。な（。い（。意志（。と（。、静（。か（。な（。る（。調和（。を（。、与（。えて（。くれる（。の（。ですよ。)",
+		"thinking": "夜空（。の（。深淵（。を（。、結晶（。さ（。せた「青（。い（。誓（。い（。サフィール）』。（。その（。冷（。徹（。な（。る（。眩（。し（。さが（。、あなた（。に（。、ゆる（。ぎ（。な（。い（。意志（。と（。、静（。か（。な（。る（。調和（。を（。、与（。えて（。くれる（。の（。ですよ。",
+		"aftertaste": "宝石は、宇宙が孤独に耐えきれなくなって、自らの名前を呼ぶために点した、永遠の灯火なのですよ。",
+		"example": "The artisan chose the finest sapphire to complete the luxurious and durable upholstery project.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sappheiros",
+					"meaning": "precious stone, blue, literal: 'beloved of Saturn'"
+				}
+			],
+			"points": [
+				"触れるという行為は、世界を一方的に認識することではなく、自らの肌を通して、世界と愛を交わすことなのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "ruby_silk",
+		"word": "ruby",
+		"meaning": "ルビー、紅玉",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"rubeus (red)"
+			],
+			"original_statement": "From 14th Century rubeus (red)."
+		},
+		"concept": "A precious stone consisting of corundum in color varieties varying from deep crimson or purple to pale rose (大地（。の（。血汐（。が（。、一（。点（。に（。凝縮（。し（。て（。産まれた「赤（。い（。ルベ）閃光。（。その（。烈（。し（。い（。情熱が（。、凍（。て（。つ（。い（。た（。日常に、眩（。しい（。ほどの（。、希望（。の（。火を（。灯（。す（。のです。)",
+		"thinking": "大地（。の（。血汐（。が（。、一（。点（。に（。凝縮（。し（。て（。産まれた「赤（。い（。ルベ）閃光。（。その（。烈（。し（。い（。情熱が（。、凍（。て（。つ（。い（。た（。日常に、眩（。しい（。ほどの（。、希望（。の（。火を（。灯（。す（。のです。",
+		"aftertaste": "宝石は、宇宙が孤独に耐えきれなくなって、自らの名前を呼ぶために点した、永遠の灯火なのですよ。",
+		"example": "The artisan chose the finest ruby to complete the luxurious and durable upholstery project.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "rubeus",
+					"meaning": "red"
+				}
+			],
+			"points": [
+				"触れるという行為は、世界を一方的に認識することではなく、自らの肌を通して、世界と愛を交わすことなのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "bronze_silk",
+		"word": "bronze",
+		"meaning": "青銅、ブロンズ",
+		"era": "17th Century",
+		"etymology": {
+			"components": [
+				"Brundisium (Brindisi, city in Italy)"
+			],
+			"original_statement": "From 17th Century Brundisium (Brindisi, city in Italy)."
+		},
+		"concept": "A yellowish-brown alloy of copper with up to one-third tin (かつて（。の「都市（。ブルンディシウム）』で（。磨（。き（。抜（。かれた（。、黄金（。色（。の（。均衡。（。時（。を（。経（。る（。たび（。に（。、緑青（。という（。名の（。、気高い（。る（。沈黙（。を（。纏（。っ（。て（。いく（。のですよ。)",
+		"thinking": "かつて（。の「都市（。ブルンディシウム）』で（。磨（。き（。抜（。かれた（。、黄金（。色（。の（。均衡。（。時（。を（。経（。る（。たび（。に（。、緑青（。という（。名の（。、気高い（。る（。沈黙（。を（。纏（。っ（。て（。いく（。のですよ。",
+		"aftertaste": "宝石は、宇宙が孤独に耐えきれなくなって、自らの名前を呼ぶために点した、永遠の灯火なのですよ。",
+		"example": "The artisan chose the finest bronze to complete the luxurious and durable upholstery project.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "Brundisium",
+					"meaning": "Brindisi, city in Italy"
+				}
+			],
+			"points": [
+				"触れるという行為は、世界を一方的に認識することではなく、自らの肌を通して、世界と愛を交わすことなのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
 	}
 ];
