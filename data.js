@@ -182723,5 +182723,28 @@ const WORDS = [
 			]
 		},
 		"part_of_speech": "noun"
+	},
+	{
+		"id": "honor",
+		"word": "Honor",
+		"meaning": "名誉、光栄、敬う",
+		"era": "12th Century Old French/Latin honos",
+		"etymology": {
+			"components": [
+				"honos (dignity, office, reputation, ornament)"
+			],
+			"original_statement": "From Latin honor/honos (reputation, public esteem, official dignity)."
+		},
+		"concept": "Public respect or ornament of character (公的な尊厳、魂を飾る気高き名声)",
+		"thinking": "もともとは、公職（公的な立場）にある人間の「品位（dignity）」を指しました。それは、周囲からの視線に耐えうる、一点の曇りもない誠実さと責任感によって形作られます。自分よりも大きなもののために尽くす決意が放つ、目に見えない飾り（ornament）のこと。",
+		"aftertaste": "誰の前でも、自分自身に嘘をつかずに立てる誇り。",
+		"example": "It is a great honor to be chosen as the leader of this team.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"honest（正直な）の hon- もその誠実さの仲間。"
+			]
+		},
+		"part_of_speech": "noun"
 	}
 ];
