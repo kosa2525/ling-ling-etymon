@@ -203375,5 +203375,257 @@ const WORDS = [
 			]
 		},
 		"part_of_speech": "noun"
+	},
+	{
+		"id": "rite_myth",
+		"word": "rite",
+		"meaning": "儀式、祭式、恒例行事",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"rite (carefully, in a proper manner)"
+			],
+			"original_statement": "From 14th Century rite (carefully, in a proper manner)."
+		},
+		"concept": "A religious or other solemn ceremony or act (ただの（。習慣（。を（。越え（。、魂を「正しい（。ライト）状態（。）」へと（。導（。く（。ための（。聖（。なる（。段取り（。。（。反復（。する（。こと（。で（。、昨日（。までの（。自分（。を（。脱（。ぎ（。捨て（。、新しい（。時間へと（。参入（。する（。ための（。門。)",
+		"thinking": "ただの（。習慣（。を（。越え（。、魂を「正しい（。ライト）状態（。）」へと（。導（。く（。ための（。聖（。なる（。段取り（。。（。反復（。する（。こと（。で（。、昨日（。までの（。自分（。を（。脱（。ぎ（。捨て（。、新しい（。時間へと（。参入（。する（。ための（。門。",
+		"aftertaste": "神話は、魂が宇宙という巨大な夢を見るための、共通の言語です。",
+		"example": "The hero's journey is a classic rite that appears in cultures all around the world.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "rite",
+					"meaning": "carefully, in a proper manner"
+				}
+			],
+			"points": [
+				"象徴とは、目に見えない巨大な真理を、目に見える小さな欠片の中に封印する行為です。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "sacrament_myth",
+		"word": "sacrament",
+		"meaning": "聖餐、秘跡、サクラメント",
+		"era": "12th Century",
+		"etymology": {
+			"components": [
+				"sacer (holy)"
+			],
+			"original_statement": "From 12th Century sacer (holy)."
+		},
+		"concept": "A religious ceremony or act of the Christian Church which is regarded as an outward and visible sign of inward and spiritual divine grace (日常の（。食事（。や（。行為の中に（。、「聖（。なる（。サケル）もの（。）」を（。招（。き（。入れ（。、自（。ら（。の（。命を（。宇宙の（。恩寵（。へと（。繋（。げる（。、至高（。の（。儀式。)",
+		"thinking": "日常の（。食事（。や（。行為の中に（。、「聖（。なる（。サケル）もの（。）」を（。招（。き（。入れ（。、自（。ら（。の（。命を（。宇宙の（。恩寵（。へと（。繋（。げる（。、至高（。の（。儀式。",
+		"aftertaste": "神話は、魂が宇宙という巨大な夢を見るための、共通の言語です。",
+		"example": "The hero's journey is a classic sacrament that appears in cultures all around the world.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sacer",
+					"meaning": "holy"
+				}
+			],
+			"points": [
+				"象徴とは、目に見えない巨大な真理を、目に見える小さな欠片の中に封印する行為です。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "deity_myth",
+		"word": "deity",
+		"meaning": "神、女神、尊称",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"deus (god)"
+			],
+			"original_statement": "From 14th Century deus (god)."
+		},
+		"concept": "A god or goddess (天上（。の高（。みに（。あり（。、世界を「支配（。デウス）する」絶対（。的な（。エナジー（。。（。その（。影（。を（。私たちは（。神々（。と（。呼（。び（。、その（。深遠（。な（。囁（。きを（。神話（。として（。綴（。って（。きた（。のです。)",
+		"thinking": "天上（。の高（。みに（。あり（。、世界を「支配（。デウス）する」絶対（。的な（。エナジー（。。（。その（。影（。を（。私たちは（。神々（。と（。呼（。び（。、その（。深遠（。な（。囁（。きを（。神話（。として（。綴（。って（。きた（。のです。",
+		"aftertaste": "神話は、魂が宇宙という巨大な夢を見るための、共通の言語です。",
+		"example": "The hero's journey is a classic deity that appears in cultures all around the world.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "deus",
+					"meaning": "god"
+				}
+			],
+			"points": [
+				"象徴とは、目に見えない巨大な真理を、目に見える小さな欠片の中に封印する行為です。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "cathedral_myth",
+		"word": "cathedral",
+		"meaning": "大聖堂、カテドラル",
+		"era": "13th Century",
+		"etymology": {
+			"components": [
+				"kathedra (seat, chair, literally: 'down' + 'sit')"
+			],
+			"original_statement": "From 13th Century kathedra (seat, chair, literally: 'down' + 'sit')."
+		},
+		"concept": "The principal church of a diocese, containing the bishop's throne (ただの（。巨大な（。建築物（。では（。なく（。、聖職者（。が「座（。る（。エドラ）場所（。カテ）」を（。中心（。とした（。、宇宙の（。権威（。の（。地上における（。投影。)",
+		"thinking": "ただの（。巨大な（。建築物（。では（。なく（。、聖職者（。が「座（。る（。エドラ）場所（。カテ）」を（。中心（。とした（。、宇宙の（。権威（。の（。地上における（。投影。",
+		"aftertaste": "神話は、魂が宇宙という巨大な夢を見るための、共通の言語です。",
+		"example": "The hero's journey is a classic cathedral that appears in cultures all around the world.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kathedra",
+					"meaning": "seat, chair, literally: 'down' + 'sit'"
+				}
+			],
+			"points": [
+				"象徴とは、目に見えない巨大な真理を、目に見える小さな欠片の中に封印する行為です。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "devotee_myth",
+		"word": "devotee",
+		"meaning": "愛好家、信奉者、熱中する人",
+		"era": "17th Century",
+		"etymology": {
+			"components": [
+				"de- (away, intensive) + vovere (to vow)"
+			],
+			"original_statement": "From 17th Century de- (away, intensive) + vovere (to vow)."
+		},
+		"concept": "A person who is very interested in and enthusiastic about someone or something (自（。ら（。の（。全（。てを「捧げる（。ヴォート）ことを（。誓（。った（。）」者（。。（。対象（。と（。同化（。する（。ほどまでに（。、エゴ（。を（。捨て（。去（。った（。果てに（。、真（。の（。歓喜を（。見出（。す（。のです。)",
+		"thinking": "自（。ら（。の（。全（。てを「捧げる（。ヴォート）ことを（。誓（。った（。）」者（。。（。対象（。と（。同化（。する（。ほどまでに（。、エゴ（。を（。捨て（。去（。った（。果てに（。、真（。の（。歓喜を（。見出（。す（。のです。",
+		"aftertaste": "神話は、魂が宇宙という巨大な夢を見るための、共通の言語です。",
+		"example": "The hero's journey is a classic devotee that appears in cultures all around the world.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "de-",
+					"meaning": "away, intensive) + vovere (to vow"
+				}
+			],
+			"points": [
+				"象徴とは、目に見えない巨大な真理を、目に見える小さな欠片の中に封印する行為です。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "shaman_myth",
+		"word": "shaman",
+		"meaning": "シャーマン、祈祷師",
+		"era": "17th Century",
+		"etymology": {
+			"components": [
+				"saman (monk, literally 'one who knows')"
+			],
+			"original_statement": "From 17th Century saman (monk, literally 'one who knows')."
+		},
+		"concept": "A person regarded as having access to, and influence in, the world of good and evil spirits (目（。に（。見え（。ない（。異世界（。と（。こちら（。を（。結ぶ（。、静（。かな（。な（。る「知（。る者（。サマン）」。（。魂の（。震（。えを（。言葉（。に（。変（。え（。、調和（。を（。取（。り（。戻（。そう（。とする（。、境界（。の（。守り（。人。)",
+		"thinking": "目（。に（。見え（。ない（。異世界（。と（。こちら（。を（。結ぶ（。、静（。かな（。な（。る「知（。る者（。サマン）」。（。魂の（。震（。えを（。言葉（。に（。変（。え（。、調和（。を（。取（。り（。戻（。そう（。とする（。、境界（。の（。守り（。人。",
+		"aftertaste": "神話は、魂が宇宙という巨大な夢を見るための、共通の言語です。",
+		"example": "The hero's journey is a classic shaman that appears in cultures all around the world.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "saman",
+					"meaning": "monk, literally 'one who knows'"
+				}
+			],
+			"points": [
+				"象徴とは、目に見えない巨大な真理を、目に見える小さな欠片の中に封印する行為です。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "sorcerer_myth",
+		"word": "sorcerer",
+		"meaning": "魔術師、魔法使い",
+		"era": "15th Century",
+		"etymology": {
+			"components": [
+				"sors (lot, fate, share)"
+			],
+			"original_statement": "From 15th Century sors (lot, fate, share)."
+		},
+		"concept": "A person who claims or is believed to have magical powers; a wizard (自分（。に（。分け（。与え（。られた「宿命（。ソルス）」に（。立ち向（。かい（。、それを（。自ら（。の（。意志で（。ねじ曲（。げ（。よう（。とする（。、孤独（。な（。挑戦者。)",
+		"thinking": "自分（。に（。分け（。与え（。られた「宿命（。ソルス）」に（。立ち向（。かい（。、それを（。自ら（。の（。意志で（。ねじ曲（。げ（。よう（。とする（。、孤独（。な（。挑戦者。",
+		"aftertaste": "神話は、魂が宇宙という巨大な夢を見るための、共通の言語です。",
+		"example": "The hero's journey is a classic sorcerer that appears in cultures all around the world.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sors",
+					"meaning": "lot, fate, share"
+				}
+			],
+			"points": [
+				"象徴とは、目に見えない巨大な真理を、目に見える小さな欠片の中に封印する行為です。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "apostle_myth",
+		"word": "apostle",
+		"meaning": "使徒、アポストル、主唱者",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"apo- (away) + stellein (to send)"
+			],
+			"original_statement": "From Old English apo- (away) + stellein (to send)."
+		},
+		"concept": "Each of the twelve chief disciples of Jesus Christ (自（。ら（。を（。主張（。する（。のではなく（。、遥（。か（。な（。る（。使命の（。ために「遠（。くへと（。アポ）送（。り（。出（。さ（。れた（。ステ）」者（。。（。その（。足取（。りには（。、委（。ね（。る（。こと（。の（。強さが（。宿（。って（。い（。ます。)",
+		"thinking": "自（。ら（。を（。主張（。する（。のではなく（。、遥（。か（。な（。る（。使命の（。ために「遠（。くへと（。アポ）送（。り（。出（。さ（。れた（。ステ）」者（。。（。その（。足取（。りには（。、委（。ね（。る（。こと（。の（。強さが（。宿（。って（。い（。ます。",
+		"aftertaste": "神話は、魂が宇宙という巨大な夢を見るための、共通の言語です。",
+		"example": "The hero's journey is a classic apostle that appears in cultures all around the world.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "apo-",
+					"meaning": "away) + stellein (to send"
+				}
+			],
+			"points": [
+				"象徴とは、目に見えない巨大な真理を、目に見える小さな欠片の中に封印する行為です。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "commandment_myth",
+		"word": "commandment",
+		"meaning": "戒律、命令、十戒",
+		"era": "13th Century",
+		"etymology": {
+			"components": [
+				"com- (intensive) + mandare (to entrust, commit to one's hand)"
+			],
+			"original_statement": "From 13th Century com- (intensive) + mandare (to entrust, commit to one's hand)."
+		},
+		"concept": "A divine rule, especially one of the Ten Commandments (自（。由を（。奪う（。鎖（。では（。なく（。、自（。らを（。正（。しく（。導く（。ための（。聖（。なる「手（。マヌス）委（。ね（。）」。（。正しい（。不（。自由（。こそが（。、真（。の（。自由を（。産（。み（。出す（。のですよ。)",
+		"thinking": "自（。由を（。奪う（。鎖（。では（。なく（。、自（。らを（。正（。しく（。導く（。ための（。聖（。なる「手（。マヌス）委（。ね（。）」。（。正しい（。不（。自由（。こそが（。、真（。の（。自由を（。産（。み（。出す（。のですよ。",
+		"aftertaste": "神話は、魂が宇宙という巨大な夢を見るための、共通の言語です。",
+		"example": "The hero's journey is a classic commandment that appears in cultures all around the world.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "com-",
+					"meaning": "intensive) + mandare (to entrust, commit to one's hand"
+				}
+			],
+			"points": [
+				"象徴とは、目に見えない巨大な真理を、目に見える小さな欠片の中に封印する行為です。"
+			]
+		},
+		"part_of_speech": "noun"
 	}
 ];
