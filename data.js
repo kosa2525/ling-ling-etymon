@@ -187863,5 +187863,929 @@ const WORDS = [
 			]
 		},
 		"part_of_speech": "noun"
+	},
+	{
+		"id": "stroll_action",
+		"word": "stroll",
+		"meaning": "散歩する、ぶらぶら歩く",
+		"era": "17th Century Germanic",
+		"etymology": {
+			"components": [
+				"strollen (to roam, wander)"
+			],
+			"original_statement": "From 17th Century Germanic strollen (to roam, wander)."
+		},
+		"concept": "Walking slowly (「目的（goal）」を持たず、ただ「空間（space）」の豊かさを味わうために足を運ぶ贅沢な時間の使い方。)",
+		"thinking": "「目的（goal）」を持たず、ただ「空間（space）」の豊かさを味わうために足を運ぶ贅沢な時間の使い方。",
+		"aftertaste": "生産性から離れ、「ストロール（散歩）」する時間こそが、心をリセットする最大の魔法です。",
+		"example": "He paused to stroll for a moment.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "strollen",
+					"meaning": "to roam, wander"
+				}
+			],
+			"points": [
+				"日常の些細な動作に宿る人間の本質。"
+			]
+		},
+		"part_of_speech": "verb"
+	},
+	{
+		"id": "gaze_action",
+		"word": "gaze",
+		"meaning": "じっと見つめる、凝視する",
+		"era": "14th Century Scandinavian",
+		"etymology": {
+			"components": [
+				"gapa (to gape, stare)"
+			],
+			"original_statement": "From 14th Century Scandinavian gapa (to gape, stare)."
+		},
+		"concept": "Looking intently (「対象（object）」の奥底にある「真実（truth）」を読み取ろうとする、静かで深い魂の交信。)",
+		"thinking": "「対象（object）」の奥底にある「真実（truth）」を読み取ろうとする、静かで深い魂の交信。",
+		"aftertaste": "表面だけでなく、「ゲイズ（見つめる）」することで、相手の本当の姿が見えてきます。",
+		"example": "He paused to gaze for a moment.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "gapa",
+					"meaning": "to gape, stare"
+				}
+			],
+			"points": [
+				"日常の些細な動作に宿る人間の本質。"
+			]
+		},
+		"part_of_speech": "verb"
+	},
+	{
+		"id": "nod_action",
+		"word": "nod",
+		"meaning": "うなずく、会釈する",
+		"era": "14th Century Middle English",
+		"etymology": {
+			"components": [
+				"nodden (to bow the head)"
+			],
+			"original_statement": "From 14th Century Middle English nodden (to bow the head)."
+		},
+		"concept": "Bowing head slightly (「相手（other）」の存在や言葉を「受容（accept）」し、肯定のサインを送る最小にして最強の仕草。)",
+		"thinking": "「相手（other）」の存在や言葉を「受容（accept）」し、肯定のサインを送る最小にして最強の仕草。",
+		"aftertaste": "言葉が出なくても、あなたの小さな「ノッド（うなずき）」が誰かの心を救います。",
+		"example": "He paused to nod for a moment.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "nodden",
+					"meaning": "to bow the head"
+				}
+			],
+			"points": [
+				"日常の些細な動作に宿る人間の本質。"
+			]
+		},
+		"part_of_speech": "verb"
+	},
+	{
+		"id": "sigh_action",
+		"word": "sigh",
+		"meaning": "ため息をつく",
+		"era": "13th Century Old English",
+		"etymology": {
+			"components": [
+				"sican (to sigh, yearn)"
+			],
+			"original_statement": "From 13th Century Old English sican (to sigh, yearn)."
+		},
+		"concept": "Exhaling deeply (「心（heart）」に溜まった「重圧（pressure）」を息と共に手放し、再び軽さを取り戻すための浄化。)",
+		"thinking": "「心（heart）」に溜まった「重圧（pressure）」を息と共に手放し、再び軽さを取り戻すための浄化。",
+		"aftertaste": "疲れたときは我慢せず、「サイ（ため息）」をついて心の換気をしましょう。",
+		"example": "He paused to sigh for a moment.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sican",
+					"meaning": "to sigh, yearn"
+				}
+			],
+			"points": [
+				"日常の些細な動作に宿る人間の本質。"
+			]
+		},
+		"part_of_speech": "verb"
+	},
+	{
+		"id": "shrug_action",
+		"word": "shrug",
+		"meaning": "肩をすくめる",
+		"era": "15th Century Unknown",
+		"etymology": {
+			"components": [
+				"shruggen (to draw up the shoulders)"
+			],
+			"original_statement": "From 15th Century Unknown shruggen (to draw up the shoulders)."
+		},
+		"concept": "Raising shoulders (「言葉（words）」では表現しきれない「曖昧さ（ambiguity）」や「無頓着（indifference）」を身体で示すこと。)",
+		"thinking": "「言葉（words）」では表現しきれない「曖昧さ（ambiguity）」や「無頓着（indifference）」を身体で示すこと。",
+		"aftertaste": "全てを理解できなくても、「シュラッグ（肩をすくめる）」して受け流す余裕を持ちましょう。",
+		"example": "He paused to shrug for a moment.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "shruggen",
+					"meaning": "to draw up the shoulders"
+				}
+			],
+			"points": [
+				"日常の些細な動作に宿る人間の本質。"
+			]
+		},
+		"part_of_speech": "verb"
+	},
+	{
+		"id": "grasp_action",
+		"word": "grasp",
+		"meaning": "つかむ、理解する、把握する",
+		"era": "14th Century Old English",
+		"etymology": {
+			"components": [
+				"græspan (to reach out, feel around)"
+			],
+			"original_statement": "From 14th Century Old English græspan (to reach out, feel around)."
+		},
+		"concept": "Holding tightly (「物理的（physical）」に手で掴むことから転じ、「抽象的（abstract）」な概念を心でしっかりと捉えること。)",
+		"thinking": "「物理的（physical）」に手で掴むことから転じ、「抽象的（abstract）」な概念を心でしっかりと捉えること。",
+		"aftertaste": "形のない思いも、しっかり「グラスプ（把握）」すれば確かな絆に変わります。",
+		"example": "He paused to grasp for a moment.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "græspan",
+					"meaning": "to reach out, feel around"
+				}
+			],
+			"points": [
+				"日常の些細な動作に宿る人間の本質。"
+			]
+		},
+		"part_of_speech": "verb"
+	},
+	{
+		"id": "toss_action",
+		"word": "toss",
+		"meaning": "軽く投げる、放り投げる",
+		"era": "16th Century Unknown",
+		"etymology": {
+			"components": [
+				"tossen (to throw, pitch)"
+			],
+			"original_statement": "From 16th Century Unknown tossen (to throw, pitch)."
+		},
+		"concept": "Throwing lightly (「重さ（weight）」を感じさせず、「気軽（casual）」に何かを手放す、あるいは相手に委ねること。)",
+		"thinking": "「重さ（weight）」を感じさせず、「気軽（casual）」に何かを手放す、あるいは相手に委ねること。",
+		"aftertaste": "重く考えすぎず、時には「トス（軽く投げる）」するように運命に任せてみて。",
+		"example": "He paused to toss for a moment.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "tossen",
+					"meaning": "to throw, pitch"
+				}
+			],
+			"points": [
+				"日常の些細な動作に宿る人間の本質。"
+			]
+		},
+		"part_of_speech": "verb"
+	},
+	{
+		"id": "swap_action",
+		"word": "swap",
+		"meaning": "交換する、取り替える",
+		"era": "14th Century Middle English",
+		"etymology": {
+			"components": [
+				"swappen (to strike hands in agreement)"
+			],
+			"original_statement": "From 14th Century Middle English swappen (to strike hands in agreement)."
+		},
+		"concept": "Exchanging things (「お互い（mutual）」の持ち物を交し合い、「新しい価値（new value）」を共有する平和的な取引。)",
+		"thinking": "「お互い（mutual）」の持ち物を交し合い、「新しい価値（new value）」を共有する平和的な取引。",
+		"aftertaste": "自分にないものを嘆くより、友人と「スワップ（交換）」して豊かさを分け合いましょう。",
+		"example": "He paused to swap for a moment.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "swappen",
+					"meaning": "to strike hands in agreement"
+				}
+			],
+			"points": [
+				"日常の些細な動作に宿る人間の本質。"
+			]
+		},
+		"part_of_speech": "verb"
+	},
+	{
+		"id": "peek_action",
+		"word": "peek",
+		"meaning": "のぞき見する、ちらっと見える",
+		"era": "14th Century Middle English",
+		"etymology": {
+			"components": [
+				"piken (to look quickly)"
+			],
+			"original_statement": "From 14th Century Middle English piken (to look quickly)."
+		},
+		"concept": "Looking briefly (「隠された（hidden）」ものに対する「好奇心（curiosity）」が、隙間からそっと顔を出す瞬間。)",
+		"thinking": "「隠された（hidden）」ものに対する「好奇心（curiosity）」が、隙間からそっと顔を出す瞬間。",
+		"aftertaste": "ほんの少し「ピーク（のぞき見）」するだけで、日常に隠された魔法が見つかります。",
+		"example": "He paused to peek for a moment.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "piken",
+					"meaning": "to look quickly"
+				}
+			],
+			"points": [
+				"日常の些細な動作に宿る人間の本質。"
+			]
+		},
+		"part_of_speech": "verb"
+	},
+	{
+		"id": "greet_action",
+		"word": "greet",
+		"meaning": "挨拶する、歓迎する",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"gretan (to welcome, approach)"
+			],
+			"original_statement": "From Old English gretan (to welcome, approach)."
+		},
+		"concept": "Welcoming someone (「他者（other）」の存在を認め、自分の領域に「平和的（peaceful）」に迎え入れる最初の儀式。)",
+		"thinking": "「他者（other）」の存在を認め、自分の領域に「平和的（peaceful）」に迎え入れる最初の儀式。",
+		"aftertaste": "「グリート（挨拶）」は、見知らぬ人との間に橋を架ける魔法の言葉です。",
+		"example": "He paused to greet for a moment.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "gretan",
+					"meaning": "to welcome, approach"
+				}
+			],
+			"points": [
+				"日常の些細な動作に宿る人間の本質。"
+			]
+		},
+		"part_of_speech": "verb"
+	},
+	{
+		"id": "drift_action",
+		"word": "drift",
+		"meaning": "漂う、流される",
+		"era": "13th Century Old Norse",
+		"etymology": {
+			"components": [
+				"drift (snowdrift, something driven)"
+			],
+			"original_statement": "From 13th Century Old Norse drift (snowdrift, something driven)."
+		},
+		"concept": "Floating aimlessly (「流れ（flow）」に身を任せ、「抵抗（resistance）」することをやめて自然の引力に委ねる状態。)",
+		"thinking": "「流れ（flow）」に身を任せ、「抵抗（resistance）」することをやめて自然の引力に委ねる状態。",
+		"aftertaste": "無理に逆らわず、海のような運命に「ドリフト（漂う）」する勇気も必要です。",
+		"example": "He paused to drift for a moment.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "drift",
+					"meaning": "snowdrift, something driven"
+				}
+			],
+			"points": [
+				"日常の些細な動作に宿る人間の本質。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "skip_action",
+		"word": "skip",
+		"meaning": "スキップする、軽く跳ぶ",
+		"era": "14th Century Old Norse",
+		"etymology": {
+			"components": [
+				"skopa (to skip, run)"
+			],
+			"original_statement": "From 14th Century Old Norse skopa (to skip, run)."
+		},
+		"concept": "Moving lightly (「重力（gravity）」を一時的に忘れ、「喜悅（joy）」を全身の弾むような動きで表現すること。)",
+		"thinking": "「重力（gravity）」を一時的に忘れ、「喜悅（joy）」を全身の弾むような動きで表現すること。",
+		"aftertaste": "心が沈んだときは、子どもの頃のように「スキップ」して心を軽くしましょう。",
+		"example": "He paused to skip for a moment.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "skopa",
+					"meaning": "to skip, run"
+				}
+			],
+			"points": [
+				"日常の些細な動作に宿る人間の本質。"
+			]
+		},
+		"part_of_speech": "verb"
+	},
+	{
+		"id": "lean_action",
+		"word": "lean",
+		"meaning": "もたれる、傾く",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"hleonian (to recline, lie down)"
+			],
+			"original_statement": "From Old English hleonian (to recline, lie down)."
+		},
+		"concept": "Resting against (「自立（independence）」の緊張を解き、信頼できる「支え（support）」に自らの重みを預けること。)",
+		"thinking": "「自立（independence）」の緊張を解き、信頼できる「支え（support）」に自らの重みを預けること。",
+		"aftertaste": "一人で立てないときは、誰かの肩に「リーン（もたれる）」してもいいのです。",
+		"example": "He paused to lean for a moment.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "hleonian",
+					"meaning": "to recline, lie down"
+				}
+			],
+			"points": [
+				"日常の些細な動作に宿る人間の本質。"
+			]
+		},
+		"part_of_speech": "verb"
+	},
+	{
+		"id": "blend_action",
+		"word": "blend",
+		"meaning": "混ぜる、溶け込む",
+		"era": "Old Norse",
+		"etymology": {
+			"components": [
+				"blanda (to mix)"
+			],
+			"original_statement": "From Old Norse blanda (to mix)."
+		},
+		"concept": "Mixing together (「異なる（different）」要素が互いの境界を無くし、「一つの調和（harmonic whole）」を創り出すこと。)",
+		"thinking": "「異なる（different）」要素が互いの境界を無くし、「一つの調和（harmonic whole）」を創り出すこと。",
+		"aftertaste": "周囲と無理に合わせるのではなく、自分らしさを保ちながら「ブレンド（溶け込む）」しましょう。",
+		"example": "He paused to blend for a moment.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "blanda",
+					"meaning": "to mix"
+				}
+			],
+			"points": [
+				"日常の些細な動作に宿る人間の本質。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "fade_action",
+		"word": "fade",
+		"meaning": "色あせる、消えていく",
+		"era": "14th Century Old French",
+		"etymology": {
+			"components": [
+				"fade (pale, weak)"
+			],
+			"original_statement": "From 14th Century Old French fade (pale, weak)."
+		},
+		"concept": "Disappearing slowly (「存在（existence）」が徐々に薄れ、「記憶（memory）」の領域へと静かに移行していく美しい過程。)",
+		"thinking": "「存在（existence）」が徐々に薄れ、「記憶（memory）」の領域へと静かに移行していく美しい過程。",
+		"aftertaste": "痛みが「フェード（薄れる）」していくように、悲しみもやがて美しい記憶に変わります。",
+		"example": "He paused to fade for a moment.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "fade",
+					"meaning": "pale, weak"
+				}
+			],
+			"points": [
+				"日常の些細な動作に宿る人間の本質。"
+			]
+		},
+		"part_of_speech": "verb"
+	},
+	{
+		"id": "glow_action",
+		"word": "glow",
+		"meaning": "ボーッと光る、白熱する",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"glowan (to shine as if red-hot)"
+			],
+			"original_statement": "From Old English glowan (to shine as if red-hot)."
+		},
+		"concept": "Shining warmly (「内側（inside）」から滲み出るような「温かい光（warm light）」が、周囲を優しく照らす状態。)",
+		"thinking": "「内側（inside）」から滲み出るような「温かい光（warm light）」が、周囲を優しく照らす状態。",
+		"aftertaste": "あなたの内なる「グロウ（輝き）」は、暗闇の中で誰かの道標になります。",
+		"example": "He paused to glow for a moment.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "glowan",
+					"meaning": "to shine as if red-hot"
+				}
+			],
+			"points": [
+				"日常の些細な動作に宿る人間の本質。"
+			]
+		},
+		"part_of_speech": "verb"
+	},
+	{
+		"id": "dip_action",
+		"word": "dip",
+		"meaning": "ちょっと浸す、下がる",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"dyppan (to plunge)"
+			],
+			"original_statement": "From Old English dyppan (to plunge)."
+		},
+		"concept": "Entering slightly (「未知（unknown）」の領域に、「少しだけ（a little bit）」触れて感触を確かめる慎重な行動。)",
+		"thinking": "「未知（unknown）」の領域に、「少しだけ（a little bit）」触れて感触を確かめる慎重な行動。",
+		"aftertaste": "恐れずに、少しだけ足先を「ディップ（浸す）」して新しい世界を体験してみて。",
+		"example": "He paused to dip for a moment.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "dyppan",
+					"meaning": "to plunge"
+				}
+			],
+			"points": [
+				"日常の些細な動作に宿る人間の本質。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "wipe_action",
+		"word": "wipe",
+		"meaning": "拭く、ぬぐう",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"wipian (to cleanse, map)"
+			],
+			"original_statement": "From Old English wipian (to cleanse, map)."
+		},
+		"concept": "Cleaning surface (「表面（surface）」の「汚れ（dirt）」を拭き取り、「純粋（pure）」な本来の姿を取り戻すこと。)",
+		"thinking": "「表面（surface）」の「汚れ（dirt）」を拭き取り、「純粋（pure）」な本来の姿を取り戻すこと。",
+		"aftertaste": "涙を「ワイプ（拭う）」した後は、きっと心もスッキリと晴れ渡るはずです。",
+		"example": "He paused to wipe for a moment.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "wipian",
+					"meaning": "to cleanse, map"
+				}
+			],
+			"points": [
+				"日常の些細な動作に宿る人間の本質。"
+			]
+		},
+		"part_of_speech": "verb"
+	},
+	{
+		"id": "sweep_action",
+		"word": "sweep",
+		"meaning": "掃く、一掃する",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"swapan (to sweep)"
+			],
+			"original_statement": "From Old English swapan (to sweep)."
+		},
+		"concept": "Cleaning broad area (「広範囲（broad area）」の障害や不要なものを、「一気（all at once）」に取り除き浄化すること。)",
+		"thinking": "「広範囲（broad area）」の障害や不要なものを、「一気（all at once）」に取り除き浄化すること。",
+		"aftertaste": "悩み事はほうきで「スイープ（一掃）」するように、頭の中から追い出しましょう。",
+		"example": "He paused to sweep for a moment.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "swapan",
+					"meaning": "to sweep"
+				}
+			],
+			"points": [
+				"日常の些細な動作に宿る人間の本質。"
+			]
+		},
+		"part_of_speech": "verb"
+	},
+	{
+		"id": "fold_action",
+		"word": "fold",
+		"meaning": "折る、畳む",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"fealdan (to fold)"
+			],
+			"original_statement": "From Old English fealdan (to fold)."
+		},
+		"concept": "Bending over (「広がり（expansion）」を「コンパクト（compact）」にまとめ、内側に守り込むような行動。)",
+		"thinking": "「広がり（expansion）」を「コンパクト（compact）」にまとめ、内側に守り込むような行動。",
+		"aftertaste": "思いを丁寧に「フォールド（折り畳む）」して胸の奥にしまっておくのも一つの愛です。",
+		"example": "He paused to fold for a moment.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "fealdan",
+					"meaning": "to fold"
+				}
+			],
+			"points": [
+				"日常の些細な動作に宿る人間の本質。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "stack_action",
+		"word": "stack",
+		"meaning": "積み重ねる",
+		"era": "13th Century Old Norse",
+		"etymology": {
+			"components": [
+				"stakkr (haystack)"
+			],
+			"original_statement": "From 13th Century Old Norse stakkr (haystack)."
+		},
+		"concept": "Piling up (「一つ一つ（one by one）」を「垂直（vertical）」に積み上げ、新しい構造を作り出すこと。)",
+		"thinking": "「一つ一つ（one by one）」を「垂直（vertical）」に積み上げ、新しい構造を作り出すこと。",
+		"aftertaste": "小さな努力を毎日「スタック（積み重ね）」すれば、やがて大きな山になります。",
+		"example": "He paused to stack for a moment.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "stakkr",
+					"meaning": "haystack"
+				}
+			],
+			"points": [
+				"日常の些細な動作に宿る人間の本質。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "peel_action",
+		"word": "peel",
+		"meaning": "皮をむく",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"pilian (to strictly peel, plunder)"
+			],
+			"original_statement": "From Old English pilian (to strictly peel, plunder)."
+		},
+		"concept": "Removing outer layer (「覆い（covering）」を取り除き、「核心（core）」にある真実の姿を露わに（あらわに）すること。)",
+		"thinking": "「覆い（covering）」を取り除き、「核心（core）」にある真実の姿を露わに（あらわに）すること。",
+		"aftertaste": "心についた見栄の皮を「ピール（むく）」して、本当の自分を見つめ直しましょう。",
+		"example": "He paused to peel for a moment.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "pilian",
+					"meaning": "to strictly peel, plunder"
+				}
+			],
+			"points": [
+				"日常の些細な動作に宿る人間の本質。"
+			]
+		},
+		"part_of_speech": "verb"
+	},
+	{
+		"id": "pour_action",
+		"word": "pour",
+		"meaning": "注ぐ、流れ出る",
+		"era": "14th Century Unknown",
+		"etymology": {
+			"components": [
+				"pouren (to empty out)"
+			],
+			"original_statement": "From 14th Century Unknown pouren (to empty out)."
+		},
+		"concept": "Flowing heavily (「容器（container）」から「中身（content）」を惜しみなく全て出し切る、豊かな流出。)",
+		"thinking": "「容器（container）」から「中身（content）」を惜しみなく全て出し切る、豊かな流出。",
+		"aftertaste": "あなたの愛情を、渇いた心を持つ人へたっぷりと「ポア（注ぐ）」してあげて。",
+		"example": "He paused to pour for a moment.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "pouren",
+					"meaning": "to empty out"
+				}
+			],
+			"points": [
+				"日常の些細な動作に宿る人間の本質。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "spill_action",
+		"word": "spill",
+		"meaning": "こぼす、あふれ出る",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"spillan (to destroy, waste)"
+			],
+			"original_statement": "From Old English spillan (to destroy, waste)."
+		},
+		"concept": "Flowing accidentally (「制御（control）」を超えて、「予期せず（unexpectedly）」感情や物質が外へ溢れ出ること。)",
+		"thinking": "「制御（control）」を超えて、「予期せず（unexpectedly）」感情や物質が外へ溢れ出ること。",
+		"aftertaste": "我慢できずに「スピル（こぼれ落ちた）」涙は、心が生きている証拠です。",
+		"example": "He paused to spill for a moment.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "spillan",
+					"meaning": "to destroy, waste"
+				}
+			],
+			"points": [
+				"日常の些細な動作に宿る人間の本質。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "stir_action",
+		"word": "stir",
+		"meaning": "かき混ぜる、かすかに動く",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"styrian (to move, agitate)"
+			],
+			"original_statement": "From Old English styrian (to move, agitate)."
+		},
+		"concept": "Mixing dynamically (「停滞（stagnation）」した状態に「動き（motion）」を与え、新しい変化を促すこと。)",
+		"thinking": "「停滞（stagnation）」した状態に「動き（motion）」を与え、新しい変化を促すこと。",
+		"aftertaste": "穏やかな毎日に少しの変化を「ステア（かき混ぜる）」することで、人生の味が深まります。",
+		"example": "He paused to stir for a moment.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "styrian",
+					"meaning": "to move, agitate"
+				}
+			],
+			"points": [
+				"日常の些細な動作に宿る人間の本質。"
+			]
+		},
+		"part_of_speech": "verb"
+	},
+	{
+		"id": "sip_action",
+		"word": "sip",
+		"meaning": "ちびちび飲む",
+		"era": "14th Century Old English",
+		"etymology": {
+			"components": [
+				"sypian (to drink in small quantities)"
+			],
+			"original_statement": "From 14th Century Old English sypian (to drink in small quantities)."
+		},
+		"concept": "Drinking slowly (「一気（at once）」に飲み込まず、「少しずつ（little by little）」味わいながら取り入れること。)",
+		"thinking": "「一気（at once）」に飲み込まず、「少しずつ（little by little）」味わいながら取り入れること。",
+		"aftertaste": "人生の喜びは、極上のワインのように「シップ（ちびちび飲む）」してゆっくり味わうべきです。",
+		"example": "He paused to sip for a moment.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sypian",
+					"meaning": "to drink in small quantities"
+				}
+			],
+			"points": [
+				"日常の些細な動作に宿る人間の本質。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "hum_action",
+		"word": "hum",
+		"meaning": "鼻歌を歌う、ブンブンいう",
+		"era": "14th Century Imitative",
+		"etymology": {
+			"components": [
+				"hummen (to make a murmuring sound)"
+			],
+			"original_statement": "From 14th Century Imitative hummen (to make a murmuring sound)."
+		},
+		"concept": "Singing without words (「言葉（words）」を介さず、「純粋な旋律（pure melody）」だけで内なる平和を表現すること。)",
+		"thinking": "「言葉（words）」を介さず、「純粋な旋律（pure melody）」だけで内なる平和を表現すること。",
+		"aftertaste": "心が静かなときは、自然と「ハム（鼻歌）」が出てくるような穏やかな時間を大切に。",
+		"example": "He paused to hum for a moment.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "hummen",
+					"meaning": "to make a murmuring sound"
+				}
+			],
+			"points": [
+				"日常の些細な動作に宿る人間の本質。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "applaud_action",
+		"word": "applaud",
+		"meaning": "拍手する、称賛する",
+		"era": "16th Century Latin",
+		"etymology": {
+			"components": [
+				"applaudere (to clap the hands at)"
+			],
+			"original_statement": "From 16th Century Latin applaudere (to clap the hands at)."
+		},
+		"concept": "Clapping in approval (「他者（other）」の努力や美しさに対し、「手（hands）」を打ち鳴らして敬意を表現すること。)",
+		"thinking": "「他者（other）」の努力や美しさに対し、「手（hands）」を打ち鳴らして敬意を表現すること。",
+		"aftertaste": "他人の成功を心から「アプロード（拍手称賛）」できる余裕こそが、本当の豊かさです。",
+		"example": "He paused to applaud for a moment.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "applaudere",
+					"meaning": "to clap the hands at"
+				}
+			],
+			"points": [
+				"日常の些細な動作に宿る人間の本質。"
+			]
+		},
+		"part_of_speech": "verb"
+	},
+	{
+		"id": "yawn_action",
+		"word": "yawn",
+		"meaning": "あくびする",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"geonian (to open wide, gape)"
+			],
+			"original_statement": "From Old English geonian (to open wide, gape)."
+		},
+		"concept": "Opening mouth wide (「退屈（boredom）」や「疲労（fatigue）」によって、体が無意識に空気を求める自然な反応。)",
+		"thinking": "「退屈（boredom）」や「疲労（fatigue）」によって、体が無意識に空気を求める自然な反応。",
+		"aftertaste": "無理をせず、大きな「ヨーン（あくび）」が出たら、それは休息を求めるサインです。",
+		"example": "He paused to yawn for a moment.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "geonian",
+					"meaning": "to open wide, gape"
+				}
+			],
+			"points": [
+				"日常の些細な動作に宿る人間の本質。"
+			]
+		},
+		"part_of_speech": "verb"
+	},
+	{
+		"id": "glare_action",
+		"word": "glare",
+		"meaning": "にらみつける、ギラギラ光る",
+		"era": "13th Century Middle English",
+		"etymology": {
+			"components": [
+				"glaren (to shine fiercely)"
+			],
+			"original_statement": "From 13th Century Middle English glaren (to shine fiercely)."
+		},
+		"concept": "Looking angrily (「怒り（anger）」や「敵意（hostility）」を込めて、刺すような視線で相手を射抜くこと。)",
+		"thinking": "「怒り（anger）」や「敵意（hostility）」を込めて、刺すような視線で相手を射抜くこと。",
+		"aftertaste": "心を閉ざしたままの「グレア（睨み）」は、相手だけでなく自分自身の魂をもすり減らします。",
+		"example": "He paused to glare for a moment.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "glaren",
+					"meaning": "to shine fiercely"
+				}
+			],
+			"points": [
+				"日常の些細な動作に宿る人間の本質。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "grin_action",
+		"word": "grin",
+		"meaning": "にやっと笑う、歯を見せて笑う",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"grennian (to bare the teeth)"
+			],
+			"original_statement": "From Old English grennian (to bare the teeth)."
+		},
+		"concept": "Smiling broadly (「抑えきれない喜び（uncontainable joy）」が、顔いっぱいに広がって歯を見せるほどの笑みになること。)",
+		"thinking": "「抑えきれない喜び（uncontainable joy）」が、顔いっぱいに広がって歯を見せるほどの笑みになること。",
+		"aftertaste": "言葉が通じなくても、最高の「グリン（満面の笑み）」があれば心は通じ合います。",
+		"example": "He paused to grin for a moment.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "grennian",
+					"meaning": "to bare the teeth"
+				}
+			],
+			"points": [
+				"日常の些細な動作に宿る人間の本質。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "giggle_action",
+		"word": "giggle",
+		"meaning": "クスクス笑う",
+		"era": "16th Century Imitative",
+		"etymology": {
+			"components": [
+				"gigglen (making quick high-pitched laughs)"
+			],
+			"original_statement": "From 16th Century Imitative gigglen (making quick high-pitched laughs)."
+		},
+		"concept": "Laughing excitedly (「無邪気さ（innocence）」と「高揚感（excitement）」が混ざり合った、子どもみたいな純粋な笑い。)",
+		"thinking": "「無邪気さ（innocence）」と「高揚感（excitement）」が混ざり合った、子どもみたいな純粋な笑い。",
+		"aftertaste": "大人になっても、友人と「ギグル（クスクス笑う）」できる時間はかけがえのない宝物です。",
+		"example": "He paused to giggle for a moment.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "gigglen",
+					"meaning": "making quick high-pitched laughs"
+				}
+			],
+			"points": [
+				"日常の些細な動作に宿る人間の本質。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "weep_action",
+		"word": "weep",
+		"meaning": "泣く、すすり泣く",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"wepan (to cry, bewail)"
+			],
+			"original_statement": "From Old English wepan (to cry, bewail)."
+		},
+		"concept": "Shedding tears (「深い悲しみ（deep sorrow）」が水となって溢れ出し、魂の奥底を「浄化（purify）」すること。)",
+		"thinking": "「深い悲しみ（deep sorrow）」が水となって溢れ出し、魂の奥底を「浄化（purify）」すること。",
+		"aftertaste": "強がらなくていい。一人きりで「ウィープ（涙を流す）」夜が、明日を生きる強さを作ります。",
+		"example": "He paused to weep for a moment.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "wepan",
+					"meaning": "to cry, bewail"
+				}
+			],
+			"points": [
+				"日常の些細な動作に宿る人間の本質。"
+			]
+		},
+		"part_of_speech": "verb"
 	}
 ];
