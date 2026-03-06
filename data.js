@@ -206035,5 +206035,173 @@ const WORDS = [
 			]
 		},
 		"part_of_speech": "noun"
+	},
+	{
+		"id": "chronos_epoch",
+		"word": "chronos",
+		"meaning": "クロノス、時、年代記",
+		"era": "17th Century",
+		"etymology": {
+			"components": [
+				"khronos (time)"
+			],
+			"original_statement": "From 17th Century khronos (time)."
+		},
+		"concept": "The personification of time in Greek mythology (客観（。的に（。流（。れる（。、「不可逆（。な（。数値（。クロノス）」としての（。時（。。（。それは（。、全（。てを（。等（。しく（。過去へと（。流（。し（。去（。る（。、冷（。徹（。な（。る（。河。)",
+		"thinking": "客観（。的に（。流（。れる（。、「不可逆（。な（。数値（。クロノス）」としての（。時（。。（。それは（。、全（。てを（。等（。しく（。過去へと（。流（。し（。去（。る（。、冷（。徹（。な（。る（。河。",
+		"aftertaste": "刹那とは、永遠が耐えきれなくなって、この世界に溢れ出した一滴の雫なのです。",
+		"example": "The philosopher meditated on the chronos of human existence and the fleeting nature of happiness.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "khronos",
+					"meaning": "time"
+				}
+			],
+			"points": [
+				"過去とは、失われたものではなく、現在という名の器を形作るための、見えない重力のことです。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "kairos_epoch",
+		"word": "kairos",
+		"meaning": "カイロス、好機、決定的な瞬間",
+		"era": "19th Century",
+		"etymology": {
+			"components": [
+				"kairos (right moment)"
+			],
+			"original_statement": "From 19th Century kairos (right moment)."
+		},
+		"concept": "A propitious moment for decision or action (単なる（。数字（。ではなく（。、魂が（。目覚（。め（。る「決定（。的な（。瞬間（。カイロス）」。（。運命の（。矢を（。放つ（。ための（。、たった（。一度きりの（。眩（。し（。い（。臨界（。点。)",
+		"thinking": "単なる（。数字（。ではなく（。、魂が（。目覚（。め（。る「決定（。的な（。瞬間（。カイロス）」。（。運命の（。矢を（。放つ（。ための（。、たった（。一度きりの（。眩（。し（。い（。臨界（。点。",
+		"aftertaste": "刹那とは、永遠が耐えきれなくなって、この世界に溢れ出した一滴の雫なのです。",
+		"example": "The philosopher meditated on the kairos of human existence and the fleeting nature of happiness.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kairos",
+					"meaning": "right moment"
+				}
+			],
+			"points": [
+				"過去とは、失われたものではなく、現在という名の器を形作るための、見えない重力のことです。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "reminiscence_epoch",
+		"word": "reminiscence",
+		"meaning": "追憶、回想、レミニセンス",
+		"era": "16th Century",
+		"etymology": {
+			"components": [
+				"re- (again) + mens (mind, literal: 'bring back to mind')"
+			],
+			"original_statement": "From 16th Century re- (again) + mens (mind, literal: 'bring back to mind')."
+		},
+		"concept": "A story told about a past event remembered by the narrator (忘（。れ（。去（。られた（。はずの（。記憶を（。、再び（。「心（。メンス）へと（。呼び戻（。す（。リ）」こと（。。（。その（。おぼ（。ろ（。げ（。な（。色彩（。の中に（。、真実（。の（。姿が（。隠（。されて（。いる（。のですよ。)",
+		"thinking": "忘（。れ（。去（。られた（。はずの（。記憶を（。、再び（。「心（。メンス）へと（。呼び戻（。す（。リ）」こと（。。（。その（。おぼ（。ろ（。げ（。な（。色彩（。の中に（。、真実（。の（。姿が（。隠（。されて（。いる（。のですよ。",
+		"aftertaste": "刹那とは、永遠が耐えきれなくなって、この世界に溢れ出した一滴の雫なのです。",
+		"example": "The philosopher meditated on the reminiscence of human existence and the fleeting nature of happiness.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "re-",
+					"meaning": "again) + mens (mind, literal: 'bring back to mind'"
+				}
+			],
+			"points": [
+				"過去とは、失われたものではなく、現在という名の器を形作るための、見えない重力のことです。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "antiquity_epoch",
+		"word": "antiquity",
+		"meaning": "古代、アンティーク、古物",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"ante (before) + -ity"
+			],
+			"original_statement": "From 14th Century ante (before) + -ity."
+		},
+		"concept": "The ancient past, especially the period before the Middle Ages (今（。より（。も「ずっと（。前（。アンテ）」に（。置（。かれた（。もの（。。（。その（。沈黙（。の（。重厚感（。が（。、現代（。の（。軽（。薄（。さを（。、静（。か（。に（。戒（。め（。て（。いる（。のです。)",
+		"thinking": "今（。より（。も「ずっと（。前（。アンテ）」に（。置（。かれた（。もの（。。（。その（。沈黙（。の（。重厚感（。が（。、現代（。の（。軽（。薄（。さを（。、静（。か（。に（。戒（。め（。て（。いる（。のです。",
+		"aftertaste": "刹那とは、永遠が耐えきれなくなって、この世界に溢れ出した一滴の雫なのです。",
+		"example": "The philosopher meditated on the antiquity of human existence and the fleeting nature of happiness.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ante",
+					"meaning": "before) + -ity"
+				}
+			],
+			"points": [
+				"過去とは、失われたものではなく、現在という名の器を形作るための、見えない重力のことです。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "instantaneous_epoch",
+		"word": "instantaneous",
+		"meaning": "即座の、瞬時の、インスタンテイニアス",
+		"era": "17th Century",
+		"etymology": {
+			"components": [
+				"in- (into, on) + stare (to stand)"
+			],
+			"original_statement": "From 17th Century in- (into, on) + stare (to stand)."
+		},
+		"concept": "Occurring or done in an instant or instantly (考え（。る（。暇（。さ（。え（。与（。えず（。、ただ「そこに（。イン）立ち（。現（。れる（。スタ）」こと（。。（。思考（。の（。鎖（。を（。断（。ち（。切り（。、純粋（。な（。直（。感（。へと（。至（。る（。、光速（。の（。飛躍。)",
+		"thinking": "考え（。る（。暇（。さ（。え（。与（。えず（。、ただ「そこに（。イン）立ち（。現（。れる（。スタ）」こと（。。（。思考（。の（。鎖（。を（。断（。ち（。切り（。、純粋（。な（。直（。感（。へと（。至（。る（。、光速（。の（。飛躍。",
+		"aftertaste": "刹那とは、永遠が耐えきれなくなって、この世界に溢れ出した一滴の雫なのです。",
+		"example": "The philosopher meditated on the instantaneous of human existence and the fleeting nature of happiness.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "in-",
+					"meaning": "into, on) + stare (to stand"
+				}
+			],
+			"points": [
+				"過去とは、失われたものではなく、現在という名の器を形作るための、見えない重力のことです。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "prompt_epoch",
+		"word": "prompt",
+		"meaning": "迅速な、刺激する、プロンプト",
+		"era": "15th Century",
+		"etymology": {
+			"components": [
+				"pro- (forward) + emere (to take, literal: 'take forward')"
+			],
+			"original_statement": "From 15th Century pro- (forward) + emere (to take, literal: 'take forward')."
+		},
+		"concept": "Done without delay (躊（。躇（。う（。こと（。を（。止め（。、ただ「前へ（。プロ）と（。進み（。出る（。プロ）」こと（。。（。その（。一歩（。の（。速やか（。さが（。、停滞（。の（。闇（。を（。打ち（。破（。り（。、新しい（。地平（。を（。拓（。く（。のだ（。と（。信（。じて（。ください。)",
+		"thinking": "躊（。躇（。う（。こと（。を（。止め（。、ただ「前へ（。プロ）と（。進み（。出る（。プロ）」こと（。。（。その（。一歩（。の（。速やか（。さが（。、停滞（。の（。闇（。を（。打ち（。破（。り（。、新しい（。地平（。を（。拓（。く（。のだ（。と（。信（。じて（。ください。",
+		"aftertaste": "刹那とは、永遠が耐えきれなくなって、この世界に溢れ出した一滴の雫なのです。",
+		"example": "The philosopher meditated on the prompt of human existence and the fleeting nature of happiness.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "pro-",
+					"meaning": "forward) + emere (to take, literal: 'take forward'"
+				}
+			],
+			"points": [
+				"過去とは、失われたものではなく、現在という名の器を形作るための、見えない重力のことです。"
+			]
+		},
+		"part_of_speech": "adjective"
 	}
 ];
