@@ -212979,5 +212979,61 @@ const WORDS = [
 			]
 		},
 		"part_of_speech": "adjective"
+	},
+	{
+		"id": "firmament_gravity_ii",
+		"word": "firmament",
+		"meaning": "大空、蒼（。穹（。、ファーマメント",
+		"era": "13th Century",
+		"etymology": {
+			"components": [
+				"firmamentum (support, strengthening, literal: 'strengthening support')"
+			],
+			"original_statement": "From 13th Century firmamentum (support, strengthening, literal: 'strengthening support')."
+		},
+		"concept": "The heavens or the sky, especially when regarded as a tangible thing (宇宙を（。峻（。烈（。に「支（。え（。る（。ための（。る（。土台（。ファマ）』としての、至高の（。る（。る（。天空（。（。その（。不（。動の（。る（。広野に、あなた（。の（。物語（。を、投影（。し（。て（。ください。)",
+		"thinking": "宇宙を（。峻（。烈（。に「支（。え（。る（。ための（。る（。土台（。ファマ）』としての、至高の（。る（。る（。天空（。（。その（。不（。動の（。る（。広野に、あなた（。の（。物語（。を、投影（。し（。て（。ください。",
+		"aftertaste": "軽やかに生きることは、不真面目であることではありません。絶望という名の重力に屈せず、一瞬の微笑みで世界を塗り替えようとする、至高のる反逆なのですよ。",
+		"example": "The ambassador's firmament and dignified presence in the international summit successfully bridged the gap between the conflicting nations.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "firmamentum",
+					"meaning": "support, strengthening, literal: 'strengthening support'"
+				}
+			],
+			"points": [
+				"天空を支える土台があるように、あなたの日常を支える見えない祈りがあることに、静かに気づいてください。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "mass_gravity_ii",
+		"word": "mass",
+		"meaning": "質量、固まり、大衆、マス",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"massa (kneaded dough, lump, literal: 'lump')"
+			],
+			"original_statement": "From 14th Century massa (kneaded dough, lump, literal: 'lump')."
+		},
+		"concept": "A large body of matter with no definite shape (何（。も（。語（。ら（。ず、ただ（。そこに（。在（。る「至高の（。塊（。マッサ）』。（。その（。圧倒（。的な（。る（。存在（。感に、魂は、静（。か（。に、跪（。き（。ます。)",
+		"thinking": "何（。も（。語（。ら（。ず、ただ（。そこに（。在（。る「至高の（。塊（。マッサ）』。（。その（。圧倒（。的な（。る（。存在（。感に、魂は、静（。か（。に、跪（。き（。ます。",
+		"aftertaste": "軽やかに生きることは、不真面目であることではありません。絶望という名の重力に屈せず、一瞬の微笑みで世界を塗り替えようとする、至高のる反逆なのですよ。",
+		"example": "The ambassador's mass and dignified presence in the international summit successfully bridged the gap between the conflicting nations.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "massa",
+					"meaning": "kneaded dough, lump, literal: 'lump'"
+				}
+			],
+			"points": [
+				"天空を支える土台があるように、あなたの日常を支える見えない祈りがあることに、静かに気づいてください。"
+			]
+		},
+		"part_of_speech": "noun"
 	}
 ];
