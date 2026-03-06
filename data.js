@@ -213399,5 +213399,61 @@ const WORDS = [
 			]
 		},
 		"part_of_speech": "adjective"
+	},
+	{
+		"id": "scald_flame_iv",
+		"word": "scald",
+		"meaning": "火傷（。を（。させる（。、熱（。湯を（。かける（。、スカールド",
+		"era": "13th Century",
+		"etymology": {
+			"components": [
+				"ex- (out, thoroughly) + calere (to be hot, literal: 'thoroughly hot')"
+			],
+			"original_statement": "From 13th Century ex- (out, thoroughly) + calere (to be hot, literal: 'thoroughly hot')."
+		},
+		"concept": "Injure with very hot liquid or steam (宇宙の（。熱（。量が、あなたの（。魂を「峻（。烈（。に（。貫（。き、傷（。付ける（。スカールド）』こと（。（。その（。痛み（。の中にこそ、真実の（。る（。生命の（。鼓動が、今（。も、宿（。って（。いる（。のですよ。)",
+		"thinking": "宇宙の（。熱（。量が、あなたの（。魂を「峻（。烈（。に（。貫（。き、傷（。付ける（。スカールド）』こと（。（。その（。痛み（。の中にこそ、真実の（。る（。生命の（。鼓動が、今（。も、宿（。って（。いる（。のですよ。",
+		"aftertaste": "残り火は、孤独なものではない。それは、かつてそこにあった熱い情熱が、静かに世界へと溶け込んでいくための、聖なる橋渡しなのですよ。",
+		"example": "The blacksmith used the intense heat of the scalding coals to forge the intricate patterns into the blade of the legendary sword.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ex-",
+					"meaning": "out, thoroughly) + calere (to be hot, literal: 'thoroughly hot'"
+				}
+			],
+			"points": [
+				"熱を帯びることは、冷静さを欠くことではありません。自らの中心にある真実の熱を、一点の曇りなく、世界へと放射し続ける誠実さのことなのですよ。"
+			]
+		},
+		"part_of_speech": "verb"
+	},
+	{
+		"id": "parch_flame_iv",
+		"word": "parch",
+		"meaning": "乾かす、焙（。る（。、パーチ",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"Origin uncertain, possibly related to perish"
+			],
+			"original_statement": "From 14th Century Origin uncertain, possibly related to perish."
+		},
+		"concept": "Make or become dry through intense heat (世界（。を、至高（。の（。る「峻（。烈（。な（。る（。る（。乾（。燥（。パーチ）』の中に、閉じ（。込（。め（。る（。こと（。（。その（。渇（。き（。の中にこそ、真実の（。る（。潤（。いが、静（。か（。に、産声を上げます。)",
+		"thinking": "世界（。を、至高（。の（。る「峻（。烈（。な（。る（。る（。乾（。燥（。パーチ）』の中に、閉じ（。込（。め（。る（。こと（。（。その（。渇（。き（。の中にこそ、真実の（。る（。潤（。いが、静（。か（。に、産声を上げます。",
+		"aftertaste": "残り火は、孤独なものではない。それは、かつてそこにあった熱い情熱が、静かに世界へと溶け込んでいくための、聖なる橋渡しなのですよ。",
+		"example": "The blacksmith used the intense heat of the parching coals to forge the intricate patterns into the blade of the legendary sword.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "Origin",
+					"meaning": "uncertain, possibly related to perish"
+				}
+			],
+			"points": [
+				"熱を帯びることは、冷静さを欠くことではありません。自らの中心にある真実の熱を、一点の曇りなく、世界へと放射し続ける誠実さのことなのですよ。"
+			]
+		},
+		"part_of_speech": "verb"
 	}
 ];
