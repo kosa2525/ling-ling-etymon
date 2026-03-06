@@ -212279,5 +212279,89 @@ const WORDS = [
 			]
 		},
 		"part_of_speech": "noun"
+	},
+	{
+		"id": "quidditative_essence_ii",
+		"word": "quidditative",
+		"meaning": "何性（。クィディティ（。）」に関する、本質的な、クィディタティブ",
+		"era": "17th Century",
+		"etymology": {
+			"components": [
+				"quidditas (quiddity, literal: 'what-ness')"
+			],
+			"original_statement": "From 17th Century quidditas (quiddity, literal: 'what-ness')."
+		},
+		"concept": "Relating to the quiddity or essence of a thing (対象の（。峻（。烈（。な（。る「何（。たる（。か（。を（。決定（。する（。クィディ）』、至高の（。る（。属性（。（。表面（。的な（。ゆらぎを（。、眩（。しい（。ほど（。に（。脱（。し（。た（。一一点（。を（。、魂で（。、確信（。し（。て（。ください。)",
+		"thinking": "対象の（。峻（。烈（。な（。る「何（。たる（。か（。を（。決定（。する（。クィディ）』、至高の（。る（。属性（。（。表面（。的な（。ゆらぎを（。、眩（。しい（。ほど（。に（。脱（。し（。た（。一一点（。を（。、魂で（。、確信（。し（。て（。ください。",
+		"aftertaste": "個であることを愛することは、世界を愛することと同じこと。一即多、多即一。その真理を、魂で感じてください。",
+		"example": "The philosopher argued that the quidditative qualities of an object are what truly define its existence in the higher realms of thought.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "quidditas",
+					"meaning": "quiddity, literal: 'what-ness'"
+				}
+			],
+			"points": [
+				"理屈を求めるのではなく、ただそこに在るという事実の重厚さに、静かに跪いてください。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "haecceitic_essence_ii",
+		"word": "haecceitic",
+		"meaning": "これ性（。エクセイティ（。）」に関する、個別性の、エクセイティック",
+		"era": "19th Century",
+		"etymology": {
+			"components": [
+				"haecceitas (haecceity, literal: 'this-ness')"
+			],
+			"original_statement": "From 19th Century haecceitas (haecceity, literal: 'this-ness')."
+		},
+		"concept": "Relating to the haecceity or this-ness of an object (今、ここに（。在（。る「これ（。エクセ）』という、峻（。烈（。な（。る（。固有（。性（。（。他（。の（。誰（。でも（。ない（。、あなた（。という（。物語の（。、代（。え（。の（。き（。か（。な（。い（。煌（。めき（。こそ（。が（。、真実（。なの（。ですよ。)",
+		"thinking": "今、ここに（。在（。る「これ（。エクセ）』という、峻（。烈（。な（。る（。固有（。性（。（。他（。の（。誰（。でも（。ない（。、あなた（。という（。物語の（。、代（。え（。の（。き（。か（。な（。い（。煌（。めき（。こそ（。が（。、真実（。なの（。ですよ。",
+		"aftertaste": "個であることを愛することは、世界を愛することと同じこと。一即多、多即一。その真理を、魂で感じてください。",
+		"example": "The philosopher argued that the haecceitic qualities of an object are what truly define its existence in the higher realms of thought.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "haecceitas",
+					"meaning": "haecceity, literal: 'this-ness'"
+				}
+			],
+			"points": [
+				"理屈を求めるのではなく、ただそこに在るという事実の重厚さに、静かに跪いてください。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "plane_essence_ii",
+		"word": "plane",
+		"meaning": "平面、水準、プレーン",
+		"era": "16th Century",
+		"etymology": {
+			"components": [
+				"planus (flat, level, literal: 'flat surface')"
+			],
+			"original_statement": "From 16th Century planus (flat, level, literal: 'flat surface')."
+		},
+		"concept": "A flat surface on which a straight line joining any two points on it would wholly lie (意味（。と（。意味（。を、美し（。く「広が（。ら（。せ（。た（。プレーン）』至高の（。る（。広野（。（。その（。二次元（。な（。る（。る（。沈黙（。の中にこそ（。、真（。の（。る（。秩序（。が、産（。声を（。上げます。)",
+		"thinking": "意味（。と（。意味（。を、美し（。く「広が（。ら（。せ（。た（。プレーン）』至高の（。る（。広野（。（。その（。二次元（。な（。る（。る（。沈黙（。の中にこそ（。、真（。の（。る（。秩序（。が、産（。声を（。上げます。",
+		"aftertaste": "個であることを愛することは、世界を愛することと同じこと。一即多、多即一。その真理を、魂で感じてください。",
+		"example": "The philosopher argued that the plane qualities of an object are what truly define its existence in the higher realms of thought.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "planus",
+					"meaning": "flat, level, literal: 'flat surface'"
+				}
+			],
+			"points": [
+				"理屈を求めるのではなく、ただそこに在るという事実の重厚さに、静かに跪いてください。"
+			]
+		},
+		"part_of_speech": "noun"
 	}
 ];
