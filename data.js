@@ -197090,5 +197090,62 @@ const WORDS = [
 			]
 		},
 		"part_of_speech": "adjective"
+	},
+	{
+		"id": "imbricate_web",
+		"word": "Imbricate",
+		"meaning": "重なり合った、鱗状に重なる、(屋根瓦のように)並べる",
+		"era": "17th Century Latin imbrex",
+		"etymology": {
+			"components": [
+				"imbrex (roof tile)",
+				"imber (rain)"
+			],
+			"original_statement": "From Latin imbricatus, from imbrex (a hollow roof tile for shedding rain), from imber (a rain shower)."
+		},
+		"concept": "Overlapping tiles (「過去（past）」の 経験を 「瓦（tile）」のように 「重ね合わせ（overlap）」 魂の 「屋根（protection）」を 築くこと)",
+		"thinking": "バラバラに 存在する 経験 を、隙間なく（シームレスに）重ね合わせることで、外部からの 攻撃（雨）を 防ぎ、内側の 温もりを 守り抜く、聖なる「積み重ね」の 営み. 語源は「雨除けの瓦」. それは 連続した 時間が 織りなす 圧倒的な 層（レイヤー）の 美しさであり 私たちが 歴史の 一部であることを 実感する アクションです.",
+		"aftertaste": "積み重ねの守護. 日々の 小さな 努力を 軽んじないで. それらが「インブリケイト（重なり合った）」な 瓦となって あなたの 魂を 守る 頑丈な 屋根を 築き上げ、どんな 嵐からも あなたを 守り抜くのだから.",
+		"example": "The scales of the pangolin are imbricate, providing a nearly impenetrable armor against predators.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "emb-",
+					"meaning": "moisture, rain (for imber)"
+				}
+			],
+			"points": [
+				"imbue（染み込ませる）と同じ。恵みの雨と共にある、守りの形。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "texture_web",
+		"word": "Texture",
+		"meaning": "質感、手触り、きめ、構造、筋合い",
+		"era": "15th Century Latin texere",
+		"etymology": {
+			"components": [
+				"texere (to weave)"
+			],
+			"original_statement": "From Latin textura (a web, texture, construction), from textus, past participle of texere (to weave)."
+		},
+		"concept": "Woven result (「無数の糸（countless threads）」が 「交差（cross）」した 「結果（result）」として 現れる 固有の 「手触り」)",
+		"thinking": "見かけの 形 ではなく その 表面の デコボコや 微細な 重なり合いが 産み出す、独特の 存在の 質感. 語源は「織ること、構築すること」. それは 人生の 一つ一つの 経験（糸）が 誠実に 編み合わされた 証拠であり 私たちが どんな 魂の 織物（テキスト）を 綴って（つづって）きたかという 聖なる「履歴」の 表現です.",
+		"aftertaste": "存在の手触り. 効率ばかりを 求めないで. あなたが 丁寧に 日々の 糸を 紡ぎ（つむぎ）「テクスチャー（質感）」を 豊かに していくことで あなたの 存在は 誰にも 真似できない 唯一無二の 輝きを 放つように なるのだから.",
+		"example": "The composer used a variety of instruments to create a rich polyphonic texture in his music.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "teks-",
+					"meaning": "to weave, fabricate"
+				}
+			],
+			"points": [
+				"text（文章：織り上げられたもの）や technology（技術：織る力）と同じ。文明のルーツ。"
+			]
+		},
+		"part_of_speech": "noun"
 	}
 ];
