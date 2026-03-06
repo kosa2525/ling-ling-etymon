@@ -209759,5 +209759,145 @@ const WORDS = [
 			]
 		},
 		"part_of_speech": "noun"
+	},
+	{
+		"id": "polarization_prism",
+		"word": "polarization",
+		"meaning": "偏光、偏極、ポラリゼーション",
+		"era": "19th Century",
+		"etymology": {
+			"components": [
+				"polus (pole, axis, literal: 'axis-making')"
+			],
+			"original_statement": "From 19th Century polus (pole, axis, literal: 'axis-making')."
+		},
+		"concept": "The action of restricting the vibrations of a transverse wave, especially light, wholly or partially to one direction (全（。方位へと（。散（。っ（。て（。いた（。光を、「一（。つ（。の（。軸（。ポラ）へと（。整える（。）」こと（。。（。その（。峻（。烈（。な（。る（。意志（。が（。、世界（。を（。、透明（。な（。る（。秩序（。へと（。導（。く（。のですよ。)",
+		"thinking": "全（。方位へと（。散（。っ（。て（。いた（。光を、「一（。つ（。の（。軸（。ポラ）へと（。整える（。）」こと（。。（。その（。峻（。烈（。な（。る（。意志（。が（。、世界（。を（。、透明（。な（。る（。秩序（。へと（。導（。く（。のですよ。",
+		"aftertaste": "虹は、光が自らの限界を認めて、世界と和解した瞬間の祝福なのですよ。",
+		"example": "The scientist used a powerful laser to study the polarization of atoms in the vacuum chamber.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "polus",
+					"meaning": "pole, axis, literal: 'axis-making'"
+				}
+			],
+			"points": [
+				"眩しすぎる光は、時として真実を隠してしまいます。微かなきらめきの中にこそ、真の物語が宿っているのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "sheen_prism",
+		"word": "sheen",
+		"meaning": "光沢、美しさ、シーン",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"sciene (bright, beautiful)"
+			],
+			"original_statement": "From 14th Century sciene (bright, beautiful)."
+		},
+		"concept": "A soft luster on a surface (表面（。を（。優（。しく（。滑（。る（。、「美（。し（。い（。シーン）光（。の（。衣（。裳（。。（。その（。滑（。らかな（。る（。陶（。酔（。が（。、見（。慣（。れ（。た（。日常を（。、一瞬（。にして（。、神殿（。へと（。変元（。て（。しまう（。の（。ですよ。)",
+		"thinking": "表面（。を（。優（。しく（。滑（。る（。、「美（。し（。い（。シーン）光（。の（。衣（。裳（。。（。その（。滑（。らかな（。る（。陶（。酔（。が（。、見（。慣（。れ（。た（。日常を（。、一瞬（。にして（。、神殿（。へと（。変元（。て（。しまう（。の（。ですよ。",
+		"aftertaste": "虹は、光が自らの限界を認めて、世界と和解した瞬間の祝福なのですよ。",
+		"example": "The scientist used a powerful laser to study the sheen of atoms in the vacuum chamber.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sciene",
+					"meaning": "bright, beautiful"
+				}
+			],
+			"points": [
+				"眩しすぎる光は、時として真実を隠してしまいます。微かなきらめきの中にこそ、真の物語が宿っているのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "glint_prism",
+		"word": "glint",
+		"meaning": "きらめき、反射、グリント",
+		"era": "18th Century",
+		"etymology": {
+			"components": [
+				"glentan (to flash, literal: 'flash')"
+			],
+			"original_statement": "From 18th Century glentan (to flash, literal: 'flash')."
+		},
+		"concept": "Give out or reflect small flashes of light (沈黙の（。暗黒（。を、一（。瞬だけ「切り（。裂（。く（。グリン）」、鋭（。利な（。る（。火花（。（。その（。一一点（。の（。瞬きにこそ（。、魂（。の（。叫（。びが（。、静（。か（。に（。、宿（。って（。いる（。のですよ。)",
+		"thinking": "沈黙の（。暗黒（。を、一（。瞬だけ「切り（。裂（。く（。グリン）」、鋭（。利な（。る（。火花（。（。その（。一一点（。の（。瞬きにこそ（。、魂（。の（。叫（。びが（。、静（。か（。に（。、宿（。って（。いる（。のですよ。",
+		"aftertaste": "虹は、光が自らの限界を認めて、世界と和解した瞬間の祝福なのですよ。",
+		"example": "The scientist used a powerful laser to study the glint of atoms in the vacuum chamber.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "glentan",
+					"meaning": "to flash, literal: 'flash'"
+				}
+			],
+			"points": [
+				"眩しすぎる光は、時として真実を隠してしまいます。微かなきらめきの中にこそ、真の物語が宿っているのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "twinkle_prism",
+		"word": "twinkle",
+		"meaning": "きらめき、またたき、トゥインクル",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"twinclin (to twinkle)"
+			],
+			"original_statement": "From Old English twinclin (to twinkle)."
+		},
+		"concept": "Shine with a gleam that varies repeatedly between bright and faint (遠（。い（。星の（。ように、優しく「震（。え（。続け（。る（。トゥイン）」光。（。その（。不（。安（。定（。な（。る（。美し（。さが（。、あなた（。を（。、永遠（。という（。名の（。、微（。睡（。みへと（。、誘（。う（。のですよ。)",
+		"thinking": "遠（。い（。星の（。ように、優しく「震（。え（。続け（。る（。トゥイン）」光。（。その（。不（。安（。定（。な（。る（。美し（。さが（。、あなた（。を（。、永遠（。という（。名の（。、微（。睡（。みへと（。、誘（。う（。のですよ。",
+		"aftertaste": "虹は、光が自らの限界を認めて、世界と和解した瞬間の祝福なのですよ。",
+		"example": "The scientist used a powerful laser to study the twinkle of atoms in the vacuum chamber.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "twinclin",
+					"meaning": "to twinkle"
+				}
+			],
+			"points": [
+				"眩しすぎる光は、時として真実を隠してしまいます。微かなきらめきの中にこそ、真の物語が宿っているのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "particle_prism",
+		"word": "particle",
+		"meaning": "粒子、微（。量（。、パーティクル",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"pars (part, literal: 'little part')"
+			],
+			"original_statement": "From 14th Century pars (part, literal: 'little part')."
+		},
+		"concept": "A minute portion of matter (全（。体（。を（。構成する（。、小（。さな（。なる「部分（。パル）』。（。その（。一粒（。一粒（。を（。愛（。お（。しむ（。とき（。、あなた（。は（。、巨大（。な（。る（。物（。語（。の、真実（。の（。肌（。触（。りに（。、触（。れる（。のです。)",
+		"thinking": "全（。体（。を（。構成する（。、小（。さな（。なる「部分（。パル）』。（。その（。一粒（。一粒（。を（。愛（。お（。しむ（。とき（。、あなた（。は（。、巨大（。な（。る（。物（。語（。の、真実（。の（。肌（。触（。りに（。、触（。れる（。のです。",
+		"aftertaste": "虹は、光が自らの限界を認めて、世界と和解した瞬間の祝福なのですよ。",
+		"example": "The scientist used a powerful laser to study the particle of atoms in the vacuum chamber.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "pars",
+					"meaning": "part, literal: 'little part'"
+				}
+			],
+			"points": [
+				"眩しすぎる光は、時として真実を隠してしまいます。微かなきらめきの中にこそ、真の物語が宿っているのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
 	}
 ];
