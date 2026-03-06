@@ -200603,5 +200603,257 @@ const WORDS = [
 			]
 		},
 		"part_of_speech": "noun"
+	},
+	{
+		"id": "easel_art",
+		"word": "easel",
+		"meaning": "画架、イーゼル",
+		"era": "17th Century",
+		"etymology": {
+			"components": [
+				"ezel (donkey)"
+			],
+			"original_statement": "From 17th Century ezel (donkey)."
+		},
+		"concept": "A wooden frame for holding an artist's work while it is being painted (重いキャンバスを黙々と（。しぶとく）支え続け（。、一歩も引かない頑丈さ。画家の（。魂の（。冒険を（。背負（。う、忠実な（。ロバ（。のような（。道具（。）。)",
+		"thinking": "重いキャンバスを黙々と（。しぶとく）支え続け（。、一歩も引かない頑丈さ。画家の（。魂の（。冒険を（。背負（。う、忠実な（。ロバ（。のような（。道具（。）。",
+		"aftertaste": "真っ白な「イーゼル（画架）」の（。前に（。立った（。とき（。、あなたは（。世界で（。一番（。孤独（。で（。、そして（。一番（。自由（。な（。創造主（。になれるのですよ。",
+		"example": "The museum houses a magnificent easel that dates back to the Renaissance.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ezel",
+					"meaning": "donkey"
+				}
+			],
+			"points": [
+				"創造とは、沈黙の中から光を引き出す行為です。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "relief_art",
+		"word": "relief",
+		"meaning": "浮き彫り、安堵、リリーフ",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"re- (back) + levare (to raise, lift)"
+			],
+			"original_statement": "From 14th Century re- (back) + levare (to raise, lift)."
+		},
+		"concept": "A sculptural technique where the sculpted elements remains attached to a solid background of the same material (平坦な（。背景（。から（。、一部（。を「再び（。リ）持ち上げる（。レヴェ）」ことで（。、影（。と（。奥行き（。を（。産み出し（。、平面（。に（。命（。を（。吹き込（。む（。技法（。）。)",
+		"thinking": "平坦な（。背景（。から（。、一部（。を「再び（。リ）持ち上げる（。レヴェ）」ことで（。、影（。と（。奥行き（。を（。産み出し（。、平面（。に（。命（。を（。吹き込（。む（。技法（。）。",
+		"aftertaste": "苦（。し（。み（。から（。解放（。された（。瞬間の「リリーフ（安堵）」は（。、あなたの（。人生の（。物語（。に（。、深（。い（。深（。い（。奥行き（。を（。与えて（。（。くれる（。、最高の（。贈り物（。なのですよ。",
+		"example": "The museum houses a magnificent relief that dates back to the Renaissance.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "re-",
+					"meaning": "back) + levare (to raise, lift"
+				}
+			],
+			"points": [
+				"創造とは、沈黙の中から光を引き出す行為です。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "ceramics_art",
+		"word": "ceramics",
+		"meaning": "陶磁器、セラミックス",
+		"era": "19th Century",
+		"etymology": {
+			"components": [
+				"keramos (potter's clay)"
+			],
+			"original_statement": "From 19th Century keramos (potter's clay)."
+		},
+		"concept": "Pots and other articles made from clay hardened by heat (柔らかい（。泥（。ケラモス）が（。、火（。の（。試練（。を（。受けて（。、宝石（。のような（。硬度（。と（。輝き（。を（。手（。に入（。れた（。、元素（。の（。錬金術（。）。)",
+		"thinking": "柔らかい（。泥（。ケラモス）が（。、火（。の（。試練（。を（。受けて（。、宝石（。のような（。硬度（。と（。輝き（。を（。手（。に入（。れた（。、元素（。の（。錬金術（。）。",
+		"aftertaste": "あなた（。の（。心（。の（。傷（。も（。、経験（。という（。火（。にく（。べ（。（。られ（。、長い（。時間（。を（。かければ（。、いつか（。「セラミックス（陶器）」のように（。、強くて（。美しい（。誇（。りに（。変わ（。ります。",
+		"example": "The museum houses a magnificent ceramics that dates back to the Renaissance.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "keramos",
+					"meaning": "potter's clay"
+				}
+			],
+			"points": [
+				"創造とは、沈黙の中から光を引き出す行為です。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "brushstroke_art",
+		"word": "brushstroke",
+		"meaning": "筆致、タッチ",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"brush + stroke"
+			],
+			"original_statement": "From Old English brush + stroke."
+		},
+		"concept": "A mark made by a paintbrush drawn across a surface (画家の（。筋肉（。の（。震（。え（。や（。、その（。時（。の（。呼吸（。が（。、そのまま（。物質（。として（。定着（。した（。、魂の（。筆跡（。。（。一筆（。の中に（。、全人格（。が（。宿る（。）。)",
+		"thinking": "画家の（。筋肉（。の（。震（。え（。や（。、その（。時（。の（。呼吸（。が（。、そのまま（。物質（。として（。定着（。した（。、魂の（。筆跡（。。（。一筆（。の中に（。、全人格（。が（。宿る（。）。",
+		"aftertaste": "あなた（。の一生（。懸（。命な（。「筆致（ブラッシュストローク）」を（。誰も（。（。見て（。いない（。と（。嘆（。かない（。で（。ください（。。（。世界（。という（。キャンバス（。には（。、あなた（。が（。描（。き（。残（。した（。勇気（。の（。跡（。が（。、確（。かに（。刻（。まれて（。いる（。のです。",
+		"example": "The museum houses a magnificent brushstroke that dates back to the Renaissance.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "brush",
+					"meaning": "+ stroke"
+				}
+			],
+			"points": [
+				"創造とは、沈黙の中から光を引き出す行為です。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "varnish_art",
+		"word": "varnish",
+		"meaning": "ワニス、上塗り、光沢",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"veronice (sandarac resin)"
+			],
+			"original_statement": "From 14th Century veronice (sandarac resin)."
+		},
+		"concept": "Resin dissolved in a liquid for applying on wood, metal, or other materials to form a hard, clear, shiny surface when dry (完成（。した（。努力（。の（。結晶（。を（。、外部（。の（。酸化（。から（。守り（。、深（。い（。光輝（。を（。与（。える（。ための（。、最後（。の（。透明な（。ヴェール（。）。)",
+		"thinking": "完成（。した（。努力（。の（。結晶（。を（。、外部（。の（。酸化（。から（。守り（。、深（。い（。光輝（。を（。与（。える（。ための（。、最後（。の（。透明な（。ヴェール（。）。",
+		"aftertaste": "丁寧（。な（。仕上（。げ（。こそが（。、作品（。に「ヴァニッシュ（永遠の光）」を（。灯（。します（。。（。最後の（。一（。手間（。を（。惜（。しまない（。その（。誠実（。さが（。、あなた（。を（。本物（。に（。する（。のです。",
+		"example": "The museum houses a magnificent varnish that dates back to the Renaissance.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "veronice",
+					"meaning": "sandarac resin"
+				}
+			],
+			"points": [
+				"創造とは、沈黙の中から光を引き出す行為です。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "lacquer_art",
+		"word": "lacquer",
+		"meaning": "漆（うるし）、ラッカー",
+		"era": "16th Century",
+		"etymology": {
+			"components": [
+				"laksha (one hundred thousand - referring to many insects)"
+			],
+			"original_statement": "From 16th Century laksha (one hundred thousand - referring to many insects)."
+		},
+		"concept": "A liquid made of shellac dissolved in alcohol, or of synthetic substances, that dries to form a hard protective coating for wood, metal, etc. (無数（。の（。命（。が（。紡（。ぎ（。出（。した（。樹脂（。を（。、何層（。にも（。塗（。り（。重（。ねる（。ことで（。、闇（。の（。中から（。最高（。の（。艶（。を（。引き出す（。、東洋の（。神秘（。的な（。被膜（。）。)",
+		"thinking": "無数（。の（。命（。が（。紡（。ぎ（。出（。した（。樹脂（。を（。、何層（。にも（。塗（。り（。重（。ねる（。ことで（。、闇（。の（。中から（。最高（。の（。艶（。を（。引き出す（。、東洋の（。神秘（。的な（。被膜（。）。",
+		"aftertaste": "漆（。のように（。、人生（。の（。苦（。し（。み（。を（。何度（。も「ラッカー（。漆）」として（。塗（。り（。重（。ねて（。ください（。。（。その（。厚（。み（。が（。、いつか（。鏡（。のように（。美（。しく（。、何物（。にも（。傷（。つか（。ない（。誇（。りに（。なり（。ます。",
+		"example": "The museum houses a magnificent lacquer that dates back to the Renaissance.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "laksha",
+					"meaning": "one hundred thousand - referring to many insects"
+				}
+			],
+			"points": [
+				"創造とは、沈黙の中から光を引き出す行為です。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "antique_art",
+		"word": "antique",
+		"meaning": "骨董品、アンティーク",
+		"era": "16th Century",
+		"etymology": {
+			"components": [
+				"antiquus (former, ancient)"
+			],
+			"original_statement": "From 16th Century antiquus (former, ancient)."
+		},
+		"concept": "A collectible object such as a piece of furniture or work of art that has a high value because of its considerable age (単に（。古い（。だけでなく（。、過ぎ去（。った（。「前の（。アンティ）時代（。）」の（。精神（。が（。、美し（。い（。形の（。まま（。保存（。され（。て（。いる（。、時（。の（。琥珀（。）。)",
+		"thinking": "単に（。古い（。だけでなく（。、過ぎ去（。った（。「前の（。アンティ）時代（。）」の（。精神（。が（。、美し（。い（。形の（。まま（。保存（。され（。て（。いる（。、時（。の（。琥珀（。）。",
+		"aftertaste": "あなた（。の（。中（。の「アンティーク（古（。き良き信念）」を（。、時代（。遅（。れ（。だと（。捨て（。ないで（。ください（。。（。新（。しい（。もの（。が（。一瞬（。で（。古（。び（。る（。中で（。、変わらない（。本物（。だけ（。が（。、最後（。まで（。価値（。を（。持（。ち（。続ける（。のですよ。",
+		"example": "The museum houses a magnificent antique that dates back to the Renaissance.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "antiquus",
+					"meaning": "former, ancient"
+				}
+			],
+			"points": [
+				"創造とは、沈黙の中から光を引き出す行為です。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "gothic_art",
+		"word": "gothic",
+		"meaning": "ゴシック、野蛮な、高貴な暗闇",
+		"era": "17th Century",
+		"etymology": {
+			"components": [
+				"Goths (Germanic tribe)"
+			],
+			"original_statement": "From 17th Century Goths (Germanic tribe)."
+		},
+		"concept": "Relating to a style of architecture which prevailed in Europe roughly from the 12th to the 16th centuries, characterized by pointed arches, rib vaults, and flying buttresses, together with large windows and elaborate tracery (かつて（。野蛮（。と（。された（。部族の精神が（。、天を突く（。尖塔（。と（。光り輝く（。ステンドグラス（。へと（。変貌（。した（。もの（。。（。暗闇（。と（。光（。が（。激しく（。交錯（。する（。、魂の（。峻烈（。な（。祈り（。）。)",
+		"thinking": "かつて（。野蛮（。と（。された（。部族の精神が（。、天を突く（。尖塔（。と（。光り輝く（。ステンドグラス（。へと（。変貌（。した（。もの（。。（。暗闇（。と（。光（。が（。激しく（。交錯（。する（。、魂の（。峻烈（。な（。祈り（。）。",
+		"aftertaste": "あなた（。の（。（。中に（。ある「ゴシック（高貴な暗闇）」を（。否定（。しないで（。ください（。。（。本当（。の（。光（。は（。、底（。無（。し（。の（。深い（。闇（。を（。知（。る（。者（。に（。だけ（。、その（。美（。しさ（。を（。あら（。わ（。す（。のですよ。",
+		"example": "The museum houses a magnificent gothic that dates back to the Renaissance.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "Goths",
+					"meaning": "Germanic tribe"
+				}
+			],
+			"points": [
+				"創造とは、沈黙の中から光を引き出す行為です。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "classic_art",
+		"word": "classic",
+		"meaning": "古典の、一流の、クラシック",
+		"era": "17th Century",
+		"etymology": {
+			"components": [
+				"classicus (belonging to the highest class of citizens)"
+			],
+			"original_statement": "From 17th Century classicus (belonging to the highest class of citizens)."
+		},
+		"concept": "Judged over a period of time to be of the highest quality and outstanding of its kind (時代（。の（。荒波（。に（。洗（。われ（。て（。も（。、決して（。古（。び（。ず（。、常に「最高順位（。クラス）」の（。座（。に（。留（。まり（。続ける（。、美（。と（。知性（。の（。不変（。の（。模範（。）。)",
+		"thinking": "時代（。の（。荒波（。に（。洗（。われ（。て（。も（。、決して（。古（。び（。ず（。、常に「最高順位（。クラス）」の（。座（。に（。留（。まり（。続ける（。、美（。と（。知性（。の（。不変（。の（。模範（。）。",
+		"aftertaste": "「クラシック（古典）」に（。触（。れる（。こと（。は（。、千（。年前（。の（。天才（。と（。、今（。この（。瞬間（。に（。対話（。する（。こと（。です（。。（。時（。の（。壁（。を（。軽（。やか（。に（。越（。える（。、その（。魔法（。を（。体験（。して（。ください。",
+		"example": "The museum houses a magnificent classic that dates back to the Renaissance.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "classicus",
+					"meaning": "belonging to the highest class of citizens"
+				}
+			],
+			"points": [
+				"創造とは、沈黙の中から光を引き出す行為です。"
+			]
+		},
+		"part_of_speech": "noun"
 	}
 ];
