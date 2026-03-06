@@ -195513,5 +195513,63 @@ const WORDS = [
 			]
 		},
 		"part_of_speech": "noun"
+	},
+	{
+		"id": "abyssal_depth",
+		"word": "Abyssal",
+		"meaning": "深海の、深淵の、測り知れない",
+		"era": "17th Century Greek a- + byssos",
+		"etymology": {
+			"components": [
+				"a- (without)",
+				"byssos (bottom)"
+			],
+			"original_statement": "From Late Latin abyssimus, from Greek abyssos (bottomless), from a- (without) + byssos (bottom)."
+		},
+		"concept": "Of the bottomless (「底（bottom）」が なく 「永遠に（eternally）」 降りてゆける 意識の 最深部)",
+		"thinking": "光すら届かない 圧倒的な 静寂と 圧力の中で 命の根源が 幽かに 脈動している 聖なる 揺籃（ようらん）. 語源は「底なしの」. それは 絶望であると同時に 私たちの 表面的な 意識を超えた 場所にある 宇宙的な 静止と 統一の 領域を 指しています. 深淵こそが、故郷です.",
+		"aftertaste": "最深部の対話. 孤独という名の「アビサル（深海）」へ 降りてゆこう. その絶対的な 静寂の中でしか 聞き取ることができない 宇宙の 真実のささやきが きっと あるはずだから.",
+		"example": "Strange and luminous creatures inhabit the abyssal zones of the ocean, adapted to extreme pressure.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "bhudh-",
+					"meaning": "bottom"
+				}
+			],
+			"points": [
+				"fundamental（根本的な）と同じ。最も深い場所こそが、全ての支え。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "inundate_ocean",
+		"word": "Inundate",
+		"meaning": "氾濫(はんらん)させる、浸水させる、(仕事などで)殺到する",
+		"era": "17th Century Latin in- + unda",
+		"etymology": {
+			"components": [
+				"in- (into, upon)",
+				"unda (wave)"
+			],
+			"original_statement": "From Latin inundatus, past participle of inundare (to overflow, flood), from in- (into, upon) + undare (to rise in waves), from unda (wave)."
+		},
+		"concept": "Moving in waves (「波（wave）」が 境界を 越えて 「溢れ出し（overflow）」 全てを 飲み込む 圧倒的な エネルギー)",
+		"thinking": "小さな堤防（エゴ）を軽々と飛び越え、世界を自らの色（水）で塗り替えていく、制御不能なほどの豊溢（ほういつ）. 語源は「波立つ」. それは 破壊であると同時に 淀んだ現状を 押し流し 新しい肥沃な大地（可能性）を もたらすための 荒々しい 祝福の儀式でもあります.",
+		"aftertaste": "溢れ出す情熱. 適度な 量に 留まらないで. 時には「イヌンデイト（殺到）」するほどの 圧倒的な エネルギーを 社会に 放ってごらん. その奔流が 古い壁を壊し 新しい時代を 創るのだから.",
+		"example": "We were inundated with thousands of applications for the single job opening within the first week.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "wed-",
+					"meaning": "water, wet"
+				}
+			],
+			"points": [
+				"water（水）や redundant（余分な：再び波立つ）と同じ。溢れ出る生命の源。"
+			]
+		},
+		"part_of_speech": "verb"
 	}
 ];
