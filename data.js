@@ -188787,5 +188787,1013 @@ const WORDS = [
 			]
 		},
 		"part_of_speech": "verb"
+	},
+	{
+		"id": "crisp_texture",
+		"word": "crisp",
+		"meaning": "ぱりっとした",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"crisp (curly, frizzy)"
+			],
+			"original_statement": "From Old English crisp (curly, frizzy)."
+		},
+		"concept": "Sharp and fresh (余分なものが何もない、研ぎ澄まされた清々しさ。)",
+		"thinking": "余分なものが何もない、研ぎ澄まされた清々しさ。",
+		"aftertaste": "冬の朝の「クリスプ（ぱりっとした）」な空気を深呼吸すれば、心まで透き通ります。",
+		"example": "The sensation felt remarkably crisp.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "crisp",
+					"meaning": "curly, frizzy"
+				}
+			],
+			"points": [
+				"私たちが物理世界（物質）と接する境界線の手触り。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "fluffy_texture",
+		"word": "fluffy",
+		"meaning": "ふわふわの",
+		"era": "16th Century",
+		"etymology": {
+			"components": [
+				"flue (down, nap)"
+			],
+			"original_statement": "From 16th Century flue (down, nap)."
+		},
+		"concept": "Light and soft (空気を含み、重力から解放されたような優しい感触。)",
+		"thinking": "空気を含み、重力から解放されたような優しい感触。",
+		"aftertaste": "「フラッフィー（ふわふわ）」の毛布に包まれる時間は、最高の癒やしです。",
+		"example": "The sensation felt remarkably fluffy.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "flue",
+					"meaning": "down, nap"
+				}
+			],
+			"points": [
+				"私たちが物理世界（物質）と接する境界線の手触り。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "sticky_texture",
+		"word": "sticky",
+		"meaning": "べたべたする",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"stician (to stick, adhere)"
+			],
+			"original_statement": "From Old English stician (to stick, adhere)."
+		},
+		"concept": "Adhesive (対象から離れたくても離れられない、強い執着と引力。)",
+		"thinking": "対象から離れたくても離れられない、強い執着と引力。",
+		"aftertaste": "人間関係も、時には「スティッキー（べたつく）」な執着を手放すことが大切です。",
+		"example": "The sensation felt remarkably sticky.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "stician",
+					"meaning": "to stick, adhere"
+				}
+			],
+			"points": [
+				"私たちが物理世界（物質）と接する境界線の手触り。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "slippery_texture",
+		"word": "slippery",
+		"meaning": "滑りやすい",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"slidor (slippery)"
+			],
+			"original_statement": "From Old English slidor (slippery)."
+		},
+		"concept": "Hard to catch (確かなものが何もなく、すぐに手の中からスルリと抜け落ちてしまう儚さ。)",
+		"thinking": "確かなものが何もなく、すぐに手の中からスルリと抜け落ちてしまう儚さ。",
+		"aftertaste": "「スリッパリー（滑りやすい）」な真実を無理に捕まえようとせず、時には見守る勇気を。",
+		"example": "The sensation felt remarkably slippery.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "slidor",
+					"meaning": "slippery"
+				}
+			],
+			"points": [
+				"私たちが物理世界（物質）と接する境界線の手触り。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "damp_texture",
+		"word": "damp",
+		"meaning": "湿った",
+		"era": "Middle Low German",
+		"etymology": {
+			"components": [
+				"damp (vapor, steam)"
+			],
+			"original_statement": "From Middle Low German damp (vapor, steam)."
+		},
+		"concept": "Slightly wet (完全に濡れているわけではなく、空気中に水分（エナジー）が満ちている状態。)",
+		"thinking": "完全に濡れているわけではなく、空気中に水分（エナジー）が満ちている状態。",
+		"aftertaste": "雨上がりの「ダンプ（湿った）」な土の匂いは、命の芽吹きを教えてくれます。",
+		"example": "The sensation felt remarkably damp.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "damp",
+					"meaning": "vapor, steam"
+				}
+			],
+			"points": [
+				"私たちが物理世界（物質）と接する境界線の手触り。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "brittle_texture",
+		"word": "brittle",
+		"meaning": "もろい",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"breoten (to break)"
+			],
+			"original_statement": "From 14th Century breoten (to break)."
+		},
+		"concept": "Easily broken (硬さはあるものの、内なる柔軟性を欠いているため、衝撃に弱い様。)",
+		"thinking": "硬さはあるものの、内なる柔軟性を欠いているため、衝撃に弱い様。",
+		"aftertaste": "強がるばかりで「ブリトル（もろく）」なる前に、弱さを認めるしなやかさを。",
+		"example": "The sensation felt remarkably brittle.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "breoten",
+					"meaning": "to break"
+				}
+			],
+			"points": [
+				"私たちが物理世界（物質）と接する境界線の手触り。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "sleek_texture",
+		"word": "sleek",
+		"meaning": "なめらかな",
+		"era": "Middle English",
+		"etymology": {
+			"components": [
+				"slik (smooth)"
+			],
+			"original_statement": "From Middle English slik (smooth)."
+		},
+		"concept": "Smooth and glossy (摩擦を極限まで減らし、周囲の抵抗を受け流す洗練された美。)",
+		"thinking": "摩擦を極限まで減らし、周囲の抵抗を受け流す洗練された美。",
+		"aftertaste": "「スリーク（なめらか）」な振る舞いは、どんな荒波も美しく乗り越えます。",
+		"example": "The sensation felt remarkably sleek.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "slik",
+					"meaning": "smooth"
+				}
+			],
+			"points": [
+				"私たちが物理世界（物質）と接する境界線の手触り。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "coarse_texture",
+		"word": "coarse",
+		"meaning": "粗い",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"cours (ordinary, common)"
+			],
+			"original_statement": "From 14th Century cours (ordinary, common)."
+		},
+		"concept": "Rough texture (過剰な装飾のない、本質そのものがむき出しになった野性味。)",
+		"thinking": "過剰な装飾のない、本質そのものがむき出しになった野性味。",
+		"aftertaste": "表面が「コース（粗く）」ても、その奥にある本当の優しさを見抜いてください。",
+		"example": "The sensation felt remarkably coarse.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "cours",
+					"meaning": "ordinary, common"
+				}
+			],
+			"points": [
+				"私たちが物理世界（物質）と接する境界線の手触り。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "bumpy_texture",
+		"word": "bumpy",
+		"meaning": "でこぼこの",
+		"era": "16th Century",
+		"etymology": {
+			"components": [
+				"bump (a swell, bulge)"
+			],
+			"original_statement": "From 16th Century bump (a swell, bulge)."
+		},
+		"concept": "Uneven surface (平坦ではなく、変化に富んだ道のりが生み出す豊かなリズム。)",
+		"thinking": "平坦ではなく、変化に富んだ道のりが生み出す豊かなリズム。",
+		"aftertaste": "「バンピー（でこぼこ）」な人生だからこそ、予想外の美しい景色に出会えます。",
+		"example": "The sensation felt remarkably bumpy.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "bump",
+					"meaning": "a swell, bulge"
+				}
+			],
+			"points": [
+				"私たちが物理世界（物質）と接する境界線の手触り。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "jagged_texture",
+		"word": "jagged",
+		"meaning": "ギザギザの",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"jag (a sharp projection)"
+			],
+			"original_statement": "From 14th Century jag (a sharp projection)."
+		},
+		"concept": "Uneven and sharp (整えられていない、刃のような不規則さが放つ強烈な個性。)",
+		"thinking": "整えられていない、刃のような不規則さが放つ強烈な個性。",
+		"aftertaste": "「ジャグド（ギザギザ）」な感情も、あなたのユニークな魅力の一部です。",
+		"example": "The sensation felt remarkably jagged.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "jag",
+					"meaning": "a sharp projection"
+				}
+			],
+			"points": [
+				"私たちが物理世界（物質）と接する境界線の手触り。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "rough_texture",
+		"word": "rough",
+		"meaning": "ざらざらした",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"ruh (rough, hairy)"
+			],
+			"original_statement": "From Old English ruh (rough, hairy)."
+		},
+		"concept": "Not smooth (洗練される前の、原石そのものが持つ計り知れないエネルギー。)",
+		"thinking": "洗練される前の、原石そのものが持つ計り知れないエネルギー。",
+		"aftertaste": "「ラフ（ざらざらした）」なくらいが、人間らしくてちょうどいいのかもしれません。",
+		"example": "The sensation felt remarkably rough.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ruh",
+					"meaning": "rough, hairy"
+				}
+			],
+			"points": [
+				"私たちが物理世界（物質）と接する境界線の手触り。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "stiff_texture",
+		"word": "stiff",
+		"meaning": "堅い",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"stif (rigid, inflexible)"
+			],
+			"original_statement": "From Old English stif (rigid, inflexible)."
+		},
+		"concept": "Hard to bend (外部からの力に屈服しない強さと、変化を恐れる硬直性の同居。)",
+		"thinking": "外部からの力に屈服しない強さと、変化を恐れる硬直性の同居。",
+		"aftertaste": "時には「スティフ（堅い）」な思考を柔らかくほぐす時間も必要です。",
+		"example": "The sensation felt remarkably stiff.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "stif",
+					"meaning": "rigid, inflexible"
+				}
+			],
+			"points": [
+				"私たちが物理世界（物質）と接する境界線の手触り。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "fuzzy_texture",
+		"word": "fuzzy",
+		"meaning": "ぼやけた",
+		"era": "16th Century",
+		"etymology": {
+			"components": [
+				"fuzz (loose fibers)"
+			],
+			"original_statement": "From 16th Century fuzz (loose fibers)."
+		},
+		"concept": "Indistinct (境界線が曖昧で、すべてがゆるやかに繋がっている暖かい状態。)",
+		"thinking": "境界線が曖昧で、すべてがゆるやかに繋がっている暖かい状態。",
+		"aftertaste": "答えが出ない日は、「ファジー（曖昧）」なまま眠りについても大丈夫です。",
+		"example": "The sensation felt remarkably fuzzy.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "fuzz",
+					"meaning": "loose fibers"
+				}
+			],
+			"points": [
+				"私たちが物理世界（物質）と接する境界線の手触り。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "grainy_texture",
+		"word": "grainy",
+		"meaning": "粒状の",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"granum (seed)"
+			],
+			"original_statement": "From 14th Century granum (seed)."
+		},
+		"concept": "Containing grains (一つ一つの小さな粒子（経験）が寄り集まって作られる確かな質感。)",
+		"thinking": "一つ一つの小さな粒子（経験）が寄り集まって作られる確かな質感。",
+		"aftertaste": "「グレイニー（粒状の）」な日々の積み重ねが、あなたの歴史を豊かにします。",
+		"example": "The sensation felt remarkably grainy.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "granum",
+					"meaning": "seed"
+				}
+			],
+			"points": [
+				"私たちが物理世界（物質）と接する境界線の手触り。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "sheer_texture",
+		"word": "sheer",
+		"meaning": "透き通るような",
+		"era": "Middle English",
+		"etymology": {
+			"components": [
+				"skere (bright, clear)"
+			],
+			"original_statement": "From Middle English skere (bright, clear)."
+		},
+		"concept": "Transparently thin (向こう側が透けて見えるほどの、隠し事を持たない絶対的な純粋さ。)",
+		"thinking": "向こう側が透けて見えるほどの、隠し事を持たない絶対的な純粋さ。",
+		"aftertaste": "「シアー（透き通る）」な心で世界を見れば、すべてが美しく輝いて見えます。",
+		"example": "The sensation felt remarkably sheer.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "skere",
+					"meaning": "bright, clear"
+				}
+			],
+			"points": [
+				"私たちが物理世界（物質）と接する境界線の手触り。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "dense_texture",
+		"word": "dense",
+		"meaning": "密集した",
+		"era": "15th Century",
+		"etymology": {
+			"components": [
+				"densus (thick, crowed)"
+			],
+			"original_statement": "From 15th Century densus (thick, crowed)."
+		},
+		"concept": "Closely compacted (情報や物質が高い密度で圧縮され、圧倒的な存在感を放つ状態。)",
+		"thinking": "情報や物質が高い密度で圧縮され、圧倒的な存在感を放つ状態。",
+		"aftertaste": "「デンス（密集した）」なスケジュールをこなし終えた後の達成感は格別です。",
+		"example": "The sensation felt remarkably dense.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "densus",
+					"meaning": "thick, crowed"
+				}
+			],
+			"points": [
+				"私たちが物理世界（物質）と接する境界線の手触り。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "solid_texture",
+		"word": "solid",
+		"meaning": "固体の",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"solidus (firm, whole)"
+			],
+			"original_statement": "From 14th Century solidus (firm, whole)."
+		},
+		"concept": "Firm and stable (中身が詰まっており、揺るぐことのない絶対的な信頼と安定感。)",
+		"thinking": "中身が詰まっており、揺るぐことのない絶対的な信頼と安定感。",
+		"aftertaste": "「ソリッド（確かな）」な友情は、どれだけ時間が経っても色褪せません。",
+		"example": "The sensation felt remarkably solid.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "solidus",
+					"meaning": "firm, whole"
+				}
+			],
+			"points": [
+				"私たちが物理世界（物質）と接する境界線の手触り。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "porous_texture",
+		"word": "porous",
+		"meaning": "多孔性の",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"porus (a pore, passage)"
+			],
+			"original_statement": "From 14th Century porus (a pore, passage)."
+		},
+		"concept": "Full of holes (無数の小さな穴（窓）を開け、外部と絶えず呼吸を交わし続ける開かれた状態。)",
+		"thinking": "無数の小さな穴（窓）を開け、外部と絶えず呼吸を交わし続ける開かれた状態。",
+		"aftertaste": "「ポーラス（隙間のある）」な心を持てば、新しいインスピレーションが絶えず流れ込みます。",
+		"example": "The sensation felt remarkably porous.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "porus",
+					"meaning": "a pore, passage"
+				}
+			],
+			"points": [
+				"私たちが物理世界（物質）と接する境界線の手触り。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "flaky_texture",
+		"word": "flaky",
+		"meaning": "剥がれやすい",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"flake (a large snowflake)"
+			],
+			"original_statement": "From 14th Century flake (a large snowflake)."
+		},
+		"concept": "Breaking into flakes (薄く層になり、はらはらと崩れ落ちていく美しさと儚さ。)",
+		"thinking": "薄く層になり、はらはらと崩れ落ちていく美しさと儚さ。",
+		"aftertaste": "「フレイキー（剥がれ落ちる）」な過去の殻を捨てて、新しい自分へと生まれ変わりましょう。",
+		"example": "The sensation felt remarkably flaky.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "flake",
+					"meaning": "a large snowflake"
+				}
+			],
+			"points": [
+				"私たちが物理世界（物質）と接する境界線の手触り。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "spongy_texture",
+		"word": "spongy",
+		"meaning": "スポンジ状の",
+		"era": "15th Century",
+		"etymology": {
+			"components": [
+				"spongia (sponge)"
+			],
+			"original_statement": "From 15th Century spongia (sponge)."
+		},
+		"concept": "Compressible and absorbent (柔らかく反発し、どんな経験も吸収しては元に戻る驚異の復元力。)",
+		"thinking": "柔らかく反発し、どんな経験も吸収しては元に戻る驚異の復元力。",
+		"aftertaste": "「スポンジー（吸収力のある）」な心で、世界中の美しいものを吸い込んで。",
+		"example": "The sensation felt remarkably spongy.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "spongia",
+					"meaning": "sponge"
+				}
+			],
+			"points": [
+				"私たちが物理世界（物質）と接する境界線の手触り。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "lush_texture",
+		"word": "lush",
+		"meaning": "青々とした",
+		"era": "15th Century",
+		"etymology": {
+			"components": [
+				"lasche (soft, loose)"
+			],
+			"original_statement": "From 15th Century lasche (soft, loose)."
+		},
+		"concept": "Luxuriant and abundant (生命力が溢れ（あふれ）、豊潤な恵みを惜しみなく与える深い緑の世界。)",
+		"thinking": "生命力が溢れ（あふれ）、豊潤な恵みを惜しみなく与える深い緑の世界。",
+		"aftertaste": "「ラッシュ（青々と茂った）」な森に迷い込んだような、豊かなインスピレーションをあなたに。",
+		"example": "The sensation felt remarkably lush.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "lasche",
+					"meaning": "soft, loose"
+				}
+			],
+			"points": [
+				"私たちが物理世界（物質）と接する境界線の手触り。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "sparse_texture",
+		"word": "sparse",
+		"meaning": "まばらな",
+		"era": "18th Century",
+		"etymology": {
+			"components": [
+				"spargere (to scatter)"
+			],
+			"original_statement": "From 18th Century spargere (to scatter)."
+		},
+		"concept": "Thinly dispersed (要素が少なく、一つ一つの存在が際立つ洗練されたミニマリズム。)",
+		"thinking": "要素が少なく、一つ一つの存在が際立つ洗練されたミニマリズム。",
+		"aftertaste": "情報が「スパース（まばら）」な場所ほど、本当の自分の声がクリアに聴こえます。",
+		"example": "The sensation felt remarkably sparse.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "spargere",
+					"meaning": "to scatter"
+				}
+			],
+			"points": [
+				"私たちが物理世界（物質）と接する境界線の手触り。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "muted_texture",
+		"word": "muted",
+		"meaning": "音を消した、和らげた",
+		"era": "16th Century",
+		"etymology": {
+			"components": [
+				"mutus (silent)"
+			],
+			"original_statement": "From 16th Century mutus (silent)."
+		},
+		"concept": "Not bright or loud (強さを抑えることで、かえって奥ゆかしい響きを際立たせる美的感覚。)",
+		"thinking": "強さを抑えることで、かえって奥ゆかしい響きを際立たせる美的感覚。",
+		"aftertaste": "「ミューテッド（和らげられた）」な色彩は、どんな激しい感情も静かに包み込みます。",
+		"example": "The sensation felt remarkably muted.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "mutus",
+					"meaning": "silent"
+				}
+			],
+			"points": [
+				"私たちが物理世界（物質）と接する境界線の手触り。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "sturdy_texture",
+		"word": "sturdy",
+		"meaning": "頑丈な",
+		"era": "13th Century",
+		"etymology": {
+			"components": [
+				"estordi (dazed, violent)"
+			],
+			"original_statement": "From 13th Century estordi (dazed, violent)."
+		},
+		"concept": "Solidly built (幾多の試練を耐え抜き、深く大地に根を下ろした不動の精神。)",
+		"thinking": "幾多の試練を耐え抜き、深く大地に根を下ろした不動の精神。",
+		"aftertaste": "「スターディ（頑丈な）」な土台さえあれば、どんな高い理想の塔も築くことができます。",
+		"example": "The sensation felt remarkably sturdy.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "estordi",
+					"meaning": "dazed, violent"
+				}
+			],
+			"points": [
+				"私たちが物理世界（物質）と接する境界線の手触り。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "plump_texture",
+		"word": "plump",
+		"meaning": "ふっくらした",
+		"era": "15th Century",
+		"etymology": {
+			"components": [
+				"plump (blunt, rounded)"
+			],
+			"original_statement": "From 15th Century plump (blunt, rounded)."
+		},
+		"concept": "Full and rounded (内側から豊かなエナジーが満ち溢れ、幸せの形となった丸み。)",
+		"thinking": "内側から豊かなエナジーが満ち溢れ、幸せの形となった丸み。",
+		"aftertaste": "「プランプ（ふっくらとした）」な果実の甘さは、太陽の愛を一身に浴びた証です。",
+		"example": "The sensation felt remarkably plump.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "plump",
+					"meaning": "blunt, rounded"
+				}
+			],
+			"points": [
+				"私たちが物理世界（物質）と接する境界線の手触り。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "scant_texture",
+		"word": "scant",
+		"meaning": "乏しい",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"skamt (short)"
+			],
+			"original_statement": "From 14th Century skamt (short)."
+		},
+		"concept": "Barely sufficient (ギリギリの量しかなく、だからこそ一滴の価値が際立つ貴重さ。)",
+		"thinking": "ギリギリの量しかなく、だからこそ一滴の価値が際立つ貴重さ。",
+		"aftertaste": "「スカント（乏しい）」な言葉から、背語に隠れた深い海のような思いを汲み取ってください。",
+		"example": "The sensation felt remarkably scant.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "skamt",
+					"meaning": "short"
+				}
+			],
+			"points": [
+				"私たちが物理世界（物質）と接する境界線の手触り。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "ample_texture",
+		"word": "ample",
+		"meaning": "十分な",
+		"era": "15th Century",
+		"etymology": {
+			"components": [
+				"amplus (large, wide)"
+			],
+			"original_statement": "From 15th Century amplus (large, wide)."
+		},
+		"concept": "Plentiful (制限を気にせず、全てを包み込んでなお余りある宇宙の豊かさ。)",
+		"thinking": "制限を気にせず、全てを包み込んでなお余りある宇宙の豊かさ。",
+		"aftertaste": "あなたには「アンプル（十分過ぎる）」な時間が残されています。焦らずゆっくり進みましょう。",
+		"example": "The sensation felt remarkably ample.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "amplus",
+					"meaning": "large, wide"
+				}
+			],
+			"points": [
+				"私たちが物理世界（物質）と接する境界線の手触り。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "frigid_texture",
+		"word": "frigid",
+		"meaning": "極寒の",
+		"era": "15th Century",
+		"etymology": {
+			"components": [
+				"frigidus (cold)"
+			],
+			"original_statement": "From 15th Century frigidus (cold)."
+		},
+		"concept": "Extremely cold (すべての活動を停止させ、時間を凍結させる圧倒的な静寂の低温。)",
+		"thinking": "すべての活動を停止させ、時間を凍結させる圧倒的な静寂の低温。",
+		"aftertaste": "「フリジッド（凍てつくような）」な厳しい冬の後には、必ず美しい春の光が訪れます。",
+		"example": "The sensation felt remarkably frigid.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "frigidus",
+					"meaning": "cold"
+				}
+			],
+			"points": [
+				"私たちが物理世界（物質）と接する境界線の手触り。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "tepid_texture",
+		"word": "tepid",
+		"meaning": "なまぬるい",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"tepidus (lukewarm)"
+			],
+			"original_statement": "From 14th Century tepidus (lukewarm)."
+		},
+		"concept": "Slightly warm (熱狂も絶望もない、平熱のまま進行する穏やかで残酷な停滞期。)",
+		"thinking": "熱狂も絶望もない、平熱のまま進行する穏やかで残酷な停滞期。",
+		"aftertaste": "時には「テピッド（なまぬるい）」な日常を抜け出し、心を燃やす冒険へと出かけましょう。",
+		"example": "The sensation felt remarkably tepid.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "tepidus",
+					"meaning": "lukewarm"
+				}
+			],
+			"points": [
+				"私たちが物理世界（物質）と接する境界線の手触り。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "scalding_texture",
+		"word": "scalding",
+		"meaning": "熱湯の",
+		"era": "13th Century",
+		"etymology": {
+			"components": [
+				"excaldare (to wash in warm water)"
+			],
+			"original_statement": "From 13th Century excaldare (to wash in warm water)."
+		},
+		"concept": "Extremely hot (触れるものすべてを痛めつけるほどの、過剰な情熱と怒りの沸点。)",
+		"thinking": "触れるものすべてを痛めつけるほどの、過剰な情熱と怒りの沸点。",
+		"aftertaste": "「スコーディング（焼け付くような）」な情熱は、劇薬のように取り扱いに注意が必要です。",
+		"example": "The sensation felt remarkably scalding.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "excaldare",
+					"meaning": "to wash in warm water"
+				}
+			],
+			"points": [
+				"私たちが物理世界（物質）と接する境界線の手触り。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "crispy_texture",
+		"word": "crispy",
+		"meaning": "サクサクした",
+		"era": "16th Century",
+		"etymology": {
+			"components": [
+				"crisp (curly)"
+			],
+			"original_statement": "From 16th Century crisp (curly)."
+		},
+		"concept": "Firm and brittle (水分のない乾いた状態が作り出す、軽快で小気味良いリズム。)",
+		"thinking": "水分のない乾いた状態が作り出す、軽快で小気味良いリズム。",
+		"aftertaste": "「クリスピー（サクサクの）」な落ち葉を踏む音で、世界の小さな変化を感じ取って。",
+		"example": "The sensation felt remarkably crispy.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "crisp",
+					"meaning": "curly"
+				}
+			],
+			"points": [
+				"私たちが物理世界（物質）と接する境界線の手触り。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "soggy_texture",
+		"word": "soggy",
+		"meaning": "水浸しの",
+		"era": "16th Century",
+		"etymology": {
+			"components": [
+				"sog (a swamp)"
+			],
+			"original_statement": "From 16th Century sog (a swamp)."
+		},
+		"concept": "Heavy with moisture (水分を吸いすぎて重くなり、形を保てなくなった悲しい飽和状態。)",
+		"thinking": "水分を吸いすぎて重くなり、形を保てなくなった悲しい飽和状態。",
+		"aftertaste": "涙で「ソギー（水浸し）」になった心のスポンジは、一度ぎゅっと絞って天日干ししましょう。",
+		"example": "The sensation felt remarkably soggy.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sog",
+					"meaning": "a swamp"
+				}
+			],
+			"points": [
+				"私たちが物理世界（物質）と接する境界線の手触り。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "brisk_texture",
+		"word": "brisk",
+		"meaning": "活発な",
+		"era": "16th Century",
+		"etymology": {
+			"components": [
+				"brusque (fierce)"
+			],
+			"original_statement": "From 16th Century brusque (fierce)."
+		},
+		"concept": "Active and fast (迷いのない足取りと冷たい風が織りなす、精神を覚醒させるスピード感。)",
+		"thinking": "迷いのない足取りと冷たい風が織りなす、精神を覚醒させるスピード感。",
+		"aftertaste": "「ブリスク（きびきびした）」な行動力は、淀んだ空気を一瞬で吹き飛ばします。",
+		"example": "The sensation felt remarkably brisk.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "brusque",
+					"meaning": "fierce"
+				}
+			],
+			"points": [
+				"私たちが物理世界（物質）と接する境界線の手触り。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "sluggish_texture",
+		"word": "sluggish",
+		"meaning": "怠惰な",
+		"era": "15th Century",
+		"etymology": {
+			"components": [
+				"slugge (lazy person)"
+			],
+			"original_statement": "From 15th Century slugge (lazy person)."
+		},
+		"concept": "Slow-moving (重力に逆らえず、泥の中を進むような精神と肉体の重い疲労感。)",
+		"thinking": "重力に逆らえず、泥の中を進むような精神と肉体の重い疲労感。",
+		"aftertaste": "「スラギッシュ（のろのろした）」な日は、宇宙があなたに休息を命じている日です。",
+		"example": "The sensation felt remarkably sluggish.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "slugge",
+					"meaning": "lazy person"
+				}
+			],
+			"points": [
+				"私たちが物理世界（物質）と接する境界線の手触り。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "buoyant_texture",
+		"word": "buoyant",
+		"meaning": "浮力のある",
+		"era": "16th Century",
+		"etymology": {
+			"components": [
+				"boya (a buoy)"
+			],
+			"original_statement": "From 16th Century boya (a buoy)."
+		},
+		"concept": "Able to float or rise (どんな重荷を背負っても、最終的には上へと浮かび上がる底抜けの明るさ。)",
+		"thinking": "どんな重荷を背負っても、最終的には上へと浮かび上がる底抜けの明るさ。",
+		"aftertaste": "「ボイアント（浮き上がる）」なユーモアのセンスは、絶望の海でもあなたを沈めません。",
+		"example": "The sensation felt remarkably buoyant.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "boya",
+					"meaning": "a buoy"
+				}
+			],
+			"points": [
+				"私たちが物理世界（物質）と接する境界線の手触り。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "leaden_texture",
+		"word": "leaden",
+		"meaning": "鉛色の、重たい",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"lead (heavy metal)"
+			],
+			"original_statement": "From Old English lead (heavy metal)."
+		},
+		"concept": "Heavy like lead (心が鉛のように重く沈み、光さえも届かない魂のどん底。)",
+		"thinking": "心が鉛のように重く沈み、光さえも届かない魂のどん底。",
+		"aftertaste": "心が「レドゥン（鉛のように重い）」時は、無理に浮かび上がろうとせず、底で静かに息を潜めて。",
+		"example": "The sensation felt remarkably leaden.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "lead",
+					"meaning": "heavy metal"
+				}
+			],
+			"points": [
+				"私たちが物理世界（物質）と接する境界線の手触り。"
+			]
+		},
+		"part_of_speech": "adjective"
 	}
 ];
