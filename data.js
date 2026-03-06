@@ -210487,5 +210487,145 @@ const WORDS = [
 			]
 		},
 		"part_of_speech": "noun"
+	},
+	{
+		"id": "stay_time",
+		"word": "stay",
+		"meaning": "滞在、停止、支え、ステイ",
+		"era": "15th Century",
+		"etymology": {
+			"components": [
+				"estare (to stand, literal: 'standing still')"
+			],
+			"original_statement": "From 15th Century estare (to stand, literal: 'standing still')."
+		},
+		"concept": "Remain in the same place (旅を（。一（。時（。中断（。し（。、ただ「その（。場に（。留（。まる（。ステイ）」こと（。。（。その（。停（。滞（。した（。時間の（。中に、宇宙の（。囁（。きを（。聴（。く（。ための、眩（。しい（。ほど（。の（。、チャンス（。が（。、横（。たわ（。って（。いる（。のですよ。)",
+		"thinking": "旅を（。一（。時（。中断（。し（。、ただ「その（。場に（。留（。まる（。ステイ）」こと（。。（。その（。停（。滞（。した（。時間の（。中に、宇宙の（。囁（。きを（。聴（。く（。ための、眩（。しい（。ほど（。の（。、チャンス（。が（。、横（。たわ（。って（。いる（。のですよ。",
+		"aftertaste": "一瞬の中に永遠を視、永遠の中に一瞬の自覚を持つ。その奇跡的な均衡の中に、真の生が宿るのですよ。",
+		"example": "The historical events followed a logical stay that eventually led to the collapse of the empire and the birth of a new era.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "estare",
+					"meaning": "to stand, literal: 'standing still'"
+				}
+			],
+			"points": [
+				"待つという行為は、無為な時間ではなく、真実が熟成されるための、至高の祈りなのかもしれません。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "chance_time",
+		"word": "chance",
+		"meaning": "機会、偶然、チャンス",
+		"era": "13th Century",
+		"etymology": {
+			"components": [
+				"cadere (to fall, literal: 'falling out')"
+			],
+			"original_statement": "From 13th Century cadere (to fall, literal: 'falling out')."
+		},
+		"concept": "A possibility of something happening (天から「不（。意に（。降（。り（。掛（。か（。っ（。た（。チャンス）」、幸（。運の（。欠片（。（。その（。脆（。く（。も（。美し（。い（。一瞬を、もしも（。掴（。み（。取る（。ならば（。、世界（。は（。、一瞬（。にして（。、新（。しく（。、塗り（。替（。わ（。り（。ます。)",
+		"thinking": "天から「不（。意に（。降（。り（。掛（。か（。っ（。た（。チャンス）」、幸（。運の（。欠片（。（。その（。脆（。く（。も（。美し（。い（。一瞬を、もしも（。掴（。み（。取る（。ならば（。、世界（。は（。、一瞬（。にして（。、新（。しく（。、塗り（。替（。わ（。り（。ます。",
+		"aftertaste": "一瞬の中に永遠を視、永遠の中に一瞬の自覚を持つ。その奇跡的な均衡の中に、真の生が宿るのですよ。",
+		"example": "The historical events followed a logical chance that eventually led to the collapse of the empire and the birth of a new era.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "cadere",
+					"meaning": "to fall, literal: 'falling out'"
+				}
+			],
+			"points": [
+				"待つという行為は、無為な時間ではなく、真実が熟成されるための、至高の祈りなのかもしれません。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "period_time",
+		"word": "period",
+		"meaning": "期間、世紀、結末、ピリオド",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"peri- (around) + hodos (way, literal: 'circuit, going around')"
+			],
+			"original_statement": "From 14th Century peri- (around) + hodos (way, literal: 'circuit, going around')."
+		},
+		"concept": "A length or portion of time (一（。つ（。の（。物（。語が「巡り（。を（。終（。え（。る（。ピリオド）」ための（。、静（。か（。な（。る（。回廊（。（。その（。完結（。の（。瞬間に（。、至高の（。る（。沈黙（。が、世界（。を（。、優（。しく（。、包み（。込み（。ます。)",
+		"thinking": "一（。つ（。の（。物（。語が「巡り（。を（。終（。え（。る（。ピリオド）」ための（。、静（。か（。な（。る（。回廊（。（。その（。完結（。の（。瞬間に（。、至高の（。る（。沈黙（。が、世界（。を（。、優（。しく（。、包み（。込み（。ます。",
+		"aftertaste": "一瞬の中に永遠を視、永遠の中に一瞬の自覚を持つ。その奇跡的な均衡の中に、真の生が宿るのですよ。",
+		"example": "The historical events followed a logical period that eventually led to the collapse of the empire and the birth of a new era.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "peri-",
+					"meaning": "around) + hodos (way, literal: 'circuit, going around'"
+				}
+			],
+			"points": [
+				"待つという行為は、無為な時間ではなく、真実が熟成されるための、至高の祈りなのかもしれません。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "term_time",
+		"word": "term",
+		"meaning": "用語、期間、条件、ターム",
+		"era": "13th Century",
+		"etymology": {
+			"components": [
+				"terminus (boundary, limit)"
+			],
+			"original_statement": "From 13th Century terminus (boundary, limit)."
+		},
+		"concept": "A fixed or limited period for which something, e.g., office, imprisonment, or investment, lasts or is intended to last (時間という（。名の（。広（。野（。に（。、峻（。烈（。に「打ち（。込ま（。れた（。杭（。ターミナス）』。（。その（。境界（。が（。ある（。か（。ら（。こそ（。、あなた（。の（。物（。語（。は、美し（。い（。秩序（。を（。、保（。つ（。ことが（。できる（。のですよ。)",
+		"thinking": "時間という（。名の（。広（。野（。に（。、峻（。烈（。に「打ち（。込ま（。れた（。杭（。ターミナス）』。（。その（。境界（。が（。ある（。か（。ら（。こそ（。、あなた（。の（。物（。語（。は、美し（。い（。秩序（。を（。、保（。つ（。ことが（。できる（。のですよ。",
+		"aftertaste": "一瞬の中に永遠を視、永遠の中に一瞬の自覚を持つ。その奇跡的な均衡の中に、真の生が宿るのですよ。",
+		"example": "The historical events followed a logical term that eventually led to the collapse of the empire and the birth of a new era.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "terminus",
+					"meaning": "boundary, limit"
+				}
+			],
+			"points": [
+				"待つという行為は、無為な時間ではなく、真実が熟成されるための、至高の祈りなのかもしれません。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "pause_time",
+		"word": "pause",
+		"meaning": "一時停止、休止、ポーズ",
+		"era": "15th Century",
+		"etymology": {
+			"components": [
+				"pauein (to stop)"
+			],
+			"original_statement": "From 15th Century pauein (to stop)."
+		},
+		"concept": "A temporary stop in action or speech (流（。れ（。る（。時間を、一（。時的に（。峻（。烈（。に「止（。め（。る（。ポーズ）」こと（。。（。その（。一瞬（。の（。沈黙（。の中にこそ（。、真実（。の（。智慧が、眩（。しい（。ほど（。に（。、産（。声を（。上げます。)",
+		"thinking": "流（。れ（。る（。時間を、一（。時的に（。峻（。烈（。に「止（。め（。る（。ポーズ）」こと（。。（。その（。一瞬（。の（。沈黙（。の中にこそ（。、真実（。の（。智慧が、眩（。しい（。ほど（。に（。、産（。声を（。上げます。",
+		"aftertaste": "一瞬の中に永遠を視、永遠の中に一瞬の自覚を持つ。その奇跡的な均衡の中に、真の生が宿るのですよ。",
+		"example": "The historical events followed a logical pause that eventually led to the collapse of the empire and the birth of a new era.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "pauein",
+					"meaning": "to stop"
+				}
+			],
+			"points": [
+				"待つという行為は、無為な時間ではなく、真実が熟成されるための、至高の祈りなのかもしれません。"
+			]
+		},
+		"part_of_speech": "noun"
 	}
 ];
