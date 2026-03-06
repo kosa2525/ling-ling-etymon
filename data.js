@@ -194769,5 +194769,61 @@ const WORDS = [
 			]
 		},
 		"part_of_speech": "noun"
+	},
+	{
+		"id": "rhythm_pattern",
+		"word": "Rhythm",
+		"meaning": "リズム、韻律、周期的な運動",
+		"era": "16th Century Greek rhein",
+		"etymology": {
+			"components": [
+				"rhein (to flow)"
+			],
+			"original_statement": "From Old French rithme, from Latin rhythmus, from Greek rhythmos (measured flow or movement, proportion), related to rhein (to flow)."
+		},
+		"concept": "Measured flow (「流れる（flow）」 命に 「形（measure）」を 与え 周期的な 「心地よさ」を 生むこと)",
+		"thinking": "静止することのない 生命（エネルギー）が 一定の周期を持って 繰り返されることで 生まれる 聖なる「脈動（パルス）」. 語源は「流れる」. それは 宇宙が刻む 壮大な鼓動であり 私たちがそのリズム（流体）に 身を委ねるとき 魂は 深い安らぎと 活力を 取り戻します.",
+		"aftertaste": "命の拍動. 焦って 自分のリズムを 崩さないで. 宇宙の流れるような 旋律（リズム）に 呼吸を合わせることで あなたの人生は より心地よく、豊かなものに 変わってゆくのだから.",
+		"example": "The rhythmic sound of the waves crashing against the shore felt deeply soothing to his tired mind.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sreu-",
+					"meaning": "to flow"
+				}
+			],
+			"points": [
+				"stream（小川）や rheology（流動学）と同じ。絶え間なき生成の歩幅。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "matrix_pattern",
+		"word": "Matrix",
+		"meaning": "基盤、母体、行列、金型",
+		"era": "14th Century Latin mater",
+		"etymology": {
+			"components": [
+				"mater (mother)"
+			],
+			"original_statement": "From Latin matrix (breeding-animal, source, origin), from mater (mother)."
+		},
+		"concept": "The womb (「母体（mother）」の ように あらゆる 「形（form）」を 育み、規定する 聖なる 「仕組み」)",
+		"thinking": "それ自体は 目に見えなくても あらゆる現象を 背後で支え 秩序（パターン）を 与え続けている 根源的な「格子（枠組み）」. 語源は「母親」. 私たちが生きる 社会や 概念の仕組み（マトリックス）を 理解することは その「産みの親」の 意志に触れる 旅でもあります.",
+		"aftertaste": "孵化の器. 今 あなたが立っている その場所（基盤）を 丁寧に 観察してごらん. 宇宙という 巨大な母体（マトリックス）が あなたという 唯一の命を 育むために 用意した 壮大な物語の舞台なのだから.",
+		"example": "Europe's cultural matrix was deeply influenced by the traditions of ancient Rome and Greece.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "māter-",
+					"meaning": "mother"
+				}
+			],
+			"points": [
+				"matter（物質：万物の母）や material（材料）と同じ。存在を裏支えする力。"
+			]
+		},
+		"part_of_speech": "noun"
 	}
 ];
