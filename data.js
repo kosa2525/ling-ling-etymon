@@ -190915,5 +190915,789 @@ const WORDS = [
 			]
 		},
 		"part_of_speech": "noun"
+	},
+	{
+		"id": "glitter_light",
+		"word": "glitter",
+		"meaning": "きらきら光る、きらめき",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"gliteren (to shine, be brilliant)"
+			],
+			"original_statement": "From 14th Century gliteren (to shine, be brilliant)."
+		},
+		"concept": "Sparkle brightly (無数の小さな光跡が織り成す、派手で冷たい人工的な華やかさ。)",
+		"thinking": "無数の小さな光跡が織り成す、派手で冷たい人工的な華やかさ。",
+		"aftertaste": "「グリッター（きらめき）」する全てが本物の黄金とは限りません。本質を見極めて。",
+		"example": "The beautiful glitter caught my eye immediately.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "gliteren",
+					"meaning": "to shine, be brilliant"
+				}
+			],
+			"points": [
+				"光と闇をどう捉えるかは、私たちの心の状態の投影です。"
+			]
+		},
+		"part_of_speech": "verb"
+	},
+	{
+		"id": "glisten_light",
+		"word": "glisten",
+		"meaning": "きらきら輝く、光る",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"glisnian (to gleam, glisten)"
+			],
+			"original_statement": "From Old English glisnian (to gleam, glisten)."
+		},
+		"concept": "Shine with a wet surface (涙や濡れた路面が反射する光のように、悲しみや感傷を含んだ艶やかな輝き。)",
+		"thinking": "涙や濡れた路面が反射する光のように、悲しみや感傷を含んだ艶やかな輝き。",
+		"aftertaste": "「グリスン（濡れて光る）」な瞳を持つ人は、世界中の優しさを知っている人です。",
+		"example": "The beautiful glisten caught my eye immediately.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "glisnian",
+					"meaning": "to gleam, glisten"
+				}
+			],
+			"points": [
+				"光と闇をどう捉えるかは、私たちの心の状態の投影です。"
+			]
+		},
+		"part_of_speech": "verb"
+	},
+	{
+		"id": "dazzle_light",
+		"word": "dazzle",
+		"meaning": "目を眩ませる、幻惑する",
+		"era": "15th Century",
+		"etymology": {
+			"components": [
+				"dasen (to grow dark, be dizzy)"
+			],
+			"original_statement": "From 15th Century dasen (to grow dark, be dizzy)."
+		},
+		"concept": "Blind temporarily with light (あまりの美しさや強烈な光で、理性や判断力を一時的に麻痺させてしまう狂気。)",
+		"thinking": "あまりの美しさや強烈な光で、理性や判断力を一時的に麻痺させてしまう狂気。",
+		"aftertaste": "彼女の「ダズル（眩いほどの）」な笑顔に、誰もが世界を愛おしく感じてしまうでしょう。",
+		"example": "The beautiful dazzle caught my eye immediately.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "dasen",
+					"meaning": "to grow dark, be dizzy"
+				}
+			],
+			"points": [
+				"光と闇をどう捉えるかは、私たちの心の状態の投影です。"
+			]
+		},
+		"part_of_speech": "verb"
+	},
+	{
+		"id": "sparkle_light",
+		"word": "sparkle",
+		"meaning": "火花を散らす、きらどく",
+		"era": "13th Century",
+		"etymology": {
+			"components": [
+				"sparkle (little spark)"
+			],
+			"original_statement": "From 13th Century sparkle (little spark)."
+		},
+		"concept": "Shine with small flashes (内側から湧き上がる生命力や喜びが、抑えきれずに小さな光の粒として弾ける様子。)",
+		"thinking": "内側から湧き上がる生命力や喜びが、抑えきれずに小さな光の粒として弾ける様子。",
+		"aftertaste": "「スパークル（弾ける光）」なあなたのアイデアは、退屈な日常に魔法をかけます。",
+		"example": "The beautiful sparkle caught my eye immediately.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sparkle",
+					"meaning": "little spark"
+				}
+			],
+			"points": [
+				"光と闇をどう捉えるかは、私たちの心の状態の投影です。"
+			]
+		},
+		"part_of_speech": "verb"
+	},
+	{
+		"id": "flash_light",
+		"word": "flash",
+		"meaning": "ぴかっと光る、閃光",
+		"era": "13th Century",
+		"etymology": {
+			"components": [
+				"flaschen (to splash)"
+			],
+			"original_statement": "From 13th Century flaschen (to splash)."
+		},
+		"concept": "Sudden burst of light (永遠の闇を暴力的なまでに切り裂き、瞬間的に真実の全貌を暴き出す神の怒り。)",
+		"thinking": "永遠の闇を暴力的なまでに切り裂き、瞬間的に真実の全貌を暴き出す神の怒り。",
+		"aftertaste": "インスピレーションは常に「フラッシュ（閃光）」のように現れ、そしてすぐに消え去ります。捕まえて。",
+		"example": "The beautiful flash caught my eye immediately.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "flaschen",
+					"meaning": "to splash"
+				}
+			],
+			"points": [
+				"光と闇をどう捉えるかは、私たちの心の状態の投影です。"
+			]
+		},
+		"part_of_speech": "verb"
+	},
+	{
+		"id": "flicker_light",
+		"word": "flicker",
+		"meaning": "ちらちらする、またたく",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"flicorian (to flutter)"
+			],
+			"original_statement": "From Old English flicorian (to flutter)."
+		},
+		"concept": "Burn unsteadily (風前の灯火のように、消えそうになりながらも必死に存在を主張する命のゆらぎ。)",
+		"thinking": "風前の灯火のように、消えそうになりながらも必死に存在を主張する命のゆらぎ。",
+		"aftertaste": "蝋燭の「フリッカー（ゆらめく光）」は、不安定だからこそ神秘的で美しいのです。",
+		"example": "The beautiful flicker caught my eye immediately.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "flicorian",
+					"meaning": "to flutter"
+				}
+			],
+			"points": [
+				"光と闇をどう捉えるかは、私たちの心の状態の投影です。"
+			]
+		},
+		"part_of_speech": "verb"
+	},
+	{
+		"id": "flare_light",
+		"word": "flare",
+		"meaning": "ぱっと燃え上がる、炎",
+		"era": "16th Century",
+		"etymology": {
+			"components": [
+				"flara (to flutter, stream in the wind)"
+			],
+			"original_statement": "From 16th Century flara (to flutter, stream in the wind)."
+		},
+		"concept": "Sudden brief blaze (隠していた情熱や抑圧された怒りが、酸素を得て一気に燃え広がる危険な上昇気流。)",
+		"thinking": "隠していた情熱や抑圧された怒りが、酸素を得て一気に燃え広がる危険な上昇気流。",
+		"aftertaste": "怒りの「フレア（燃え上がり）」に我を忘れる前に、ゆっくりとその炎を観察する余裕を。",
+		"example": "The beautiful flare caught my eye immediately.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "flara",
+					"meaning": "to flutter, stream in the wind"
+				}
+			],
+			"points": [
+				"光と闇をどう捉えるかは、私たちの心の状態の投影です。"
+			]
+		},
+		"part_of_speech": "verb"
+	},
+	{
+		"id": "shimmer_light",
+		"word": "shimmer",
+		"meaning": "ちらちら光る、揺らめき",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"scimerian (to gleam, shine)"
+			],
+			"original_statement": "From Old English scimerian (to gleam, shine)."
+		},
+		"concept": "Shine with a tremulous light (陽炎（かげろう）のように、現実の輪郭をあいまいにぼかしながら魅了する幽玄な光。)",
+		"thinking": "陽炎（かげろう）のように、現実の輪郭をあいまいにぼかしながら魅了する幽玄な光。",
+		"aftertaste": "水面の「シマー（揺らめき）」を見つめていると、世界と自分が溶け合っていくのがわかります。",
+		"example": "The beautiful shimmer caught my eye immediately.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "scimerian",
+					"meaning": "to gleam, shine"
+				}
+			],
+			"points": [
+				"光と闇をどう捉えるかは、私たちの心の状態の投影です。"
+			]
+		},
+		"part_of_speech": "verb"
+	},
+	{
+		"id": "shine_light",
+		"word": "shine",
+		"meaning": "輝く、光る",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"scinan (to shed light, be radiant)"
+			],
+			"original_statement": "From Old English scinan (to shed light, be radiant)."
+		},
+		"concept": "Give out bright light (自らが光源となり、他の存在の闇を払い、世界を無条件で照らし出す愛と肯定。)",
+		"thinking": "自らが光源となり、他の存在の闇を払い、世界を無条件で照らし出す愛と肯定。",
+		"aftertaste": "あなたが笑えば、太陽のように「シャイン（輝いて）」周囲のすべてを明るくします。",
+		"example": "The beautiful shine caught my eye immediately.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "scinan",
+					"meaning": "to shed light, be radiant"
+				}
+			],
+			"points": [
+				"光と闇をどう捉えるかは、私たちの心の状態の投影です。"
+			]
+		},
+		"part_of_speech": "verb"
+	},
+	{
+		"id": "radiate_light",
+		"word": "radiate",
+		"meaning": "四方に放つ、放射する",
+		"era": "17th Century",
+		"etymology": {
+			"components": [
+				"radiare (to emit rays)"
+			],
+			"original_statement": "From 17th Century radiare (to emit rays)."
+		},
+		"concept": "Send out rays (中心からのエネルギーが同心円状に広がり、あらゆるものを拒まず包み込んでいく無償の愛。)",
+		"thinking": "中心からのエネルギーが同心円状に広がり、あらゆるものを拒まず包み込んでいく無償の愛。",
+		"aftertaste": "彼女から「レイディエイト（純粋に放射される）」な優しさは、植物さえも生き生きとさせます。",
+		"example": "The beautiful radiate caught my eye immediately.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "radiare",
+					"meaning": "to emit rays"
+				}
+			],
+			"points": [
+				"光と闇をどう捉えるかは、私たちの心の状態の投影です。"
+			]
+		},
+		"part_of_speech": "verb"
+	},
+	{
+		"id": "blare_light",
+		"word": "blare",
+		"meaning": "鳴り響く、まぶしく光る",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"bleren (to wail, cry)"
+			],
+			"original_statement": "From 14th Century bleren (to wail, cry)."
+		},
+		"concept": "Loud harsh sound or light (デリカシーのかけらもなく、自己顕示欲によって他者の感覚器官を暴力的に制圧する強引さ。)",
+		"thinking": "デリカシーのかけらもなく、自己顕示欲によって他者の感覚器官を暴力的に制圧する強引さ。",
+		"aftertaste": "サイレンの「ブレア（やかましい響き）」は、日常の眠りから私たちを叩き起こす使者です。",
+		"example": "The beautiful blare caught my eye immediately.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "bleren",
+					"meaning": "to wail, cry"
+				}
+			],
+			"points": [
+				"光と闇をどう捉えるかは、私たちの心の状態の投影です。"
+			]
+		},
+		"part_of_speech": "verb"
+	},
+	{
+		"id": "dull_light",
+		"word": "dull",
+		"meaning": "鈍い、どんよりした",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"dol (stupid, dull)"
+			],
+			"original_statement": "From Old English dol (stupid, dull)."
+		},
+		"concept": "Lacking brightness (研磨を怠った刃や光を失った瞳のように、刺激を受け流し麻痺してしまった悲しい平穏。)",
+		"thinking": "研磨を怠った刃や光を失った瞳のように、刺激を受け流し麻痺してしまった悲しい平穏。",
+		"aftertaste": "心が「ダル（どんより重い）」な日は、何を感じてもいい。感じなくてもいい。ただ休んで。",
+		"example": "The beautiful dull caught my eye immediately.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "dol",
+					"meaning": "stupid, dull"
+				}
+			],
+			"points": [
+				"光と闇をどう捉えるかは、私たちの心の状態の投影です。"
+			]
+		},
+		"part_of_speech": "verb"
+	},
+	{
+		"id": "murky_light",
+		"word": "murky",
+		"meaning": "暗い、濁った",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"mirke (dark)"
+			],
+			"original_statement": "From 14th Century mirke (dark)."
+		},
+		"concept": "Dark and gloomy (泥が混ざり合い、底知れぬ恐怖や隠蔽された嘘が渦巻いている、不吉で近づきがたい領域。)",
+		"thinking": "泥が混ざり合い、底知れぬ恐怖や隠蔽された嘘が渦巻いている、不吉で近づきがたい領域。",
+		"aftertaste": "「マーキー（薄暗く濁った）」な人間関係からは、泥に足を取られる前に速やかに離脱して。",
+		"example": "The beautiful murky caught my eye immediately.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "mirke",
+					"meaning": "dark"
+				}
+			],
+			"points": [
+				"光と闇をどう捉えるかは、私たちの心の状態の投影です。"
+			]
+		},
+		"part_of_speech": "verb"
+	},
+	{
+		"id": "dim_light",
+		"word": "dim",
+		"meaning": "薄暗い、かすむ",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"dimm (dark, obscure)"
+			],
+			"original_statement": "From Old English dimm (dark, obscure)."
+		},
+		"concept": "Not bright or clear (光芒（こうぼう）を失い、すべてが灰色の影となって過去の記憶の中へ沈んでいく静寂なる衰退。)",
+		"thinking": "光芒（こうぼう）を失い、すべてが灰色の影となって過去の記憶の中へ沈んでいく静寂なる衰退。",
+		"aftertaste": "視界が「ディム（薄暗く）」になっても、心の目はより敏感に真実を捉え始めます。",
+		"example": "The beautiful dim caught my eye immediately.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "dimm",
+					"meaning": "dark, obscure"
+				}
+			],
+			"points": [
+				"光と闇をどう捉えるかは、私たちの心の状態の投影です。"
+			]
+		},
+		"part_of_speech": "verb"
+	},
+	{
+		"id": "gloomy_light",
+		"word": "gloomy",
+		"meaning": "憂鬱な、薄暗い",
+		"era": "16th Century",
+		"etymology": {
+			"components": [
+				"glom (twilight)"
+			],
+			"original_statement": "From 16th Century glom (twilight)."
+		},
+		"concept": "Dark and depressing (光を拒絶し、重苦しい空気をまとってすべてを自身の悲しみに巻き込む内向的な闇。)",
+		"thinking": "光を拒絶し、重苦しい空気をまとってすべてを自身の悲しみに巻き込む内向的な闇。",
+		"aftertaste": "「グルーミー（憂鬱な）」な天気の日こそ、温かい紅茶を入れて自分への最高のご褒美を。",
+		"example": "The beautiful gloomy caught my eye immediately.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "glom",
+					"meaning": "twilight"
+				}
+			],
+			"points": [
+				"光と闇をどう捉えるかは、私たちの心の状態の投影です。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "shadowy_light",
+		"word": "shadowy",
+		"meaning": "影の多い、実体のない",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"sceadwig (shady)"
+			],
+			"original_statement": "From Old English sceadwig (shady)."
+		},
+		"concept": "Full of shadows (光があるからこそ生まれる、実体を持たないが故に永遠に傷つくことのない自由な幻影。)",
+		"thinking": "光があるからこそ生まれる、実体を持たないが故に永遠に傷つくことのない自由な幻影。",
+		"aftertaste": "「シャドウイ（影に包まれた）」な路地裏には、大通りにはない特別な魅力が潜んでいます。",
+		"example": "The beautiful shadowy caught my eye immediately.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sceadwig",
+					"meaning": "shady"
+				}
+			],
+			"points": [
+				"光と闇をどう捉えるかは、私たちの心の状態の投影です。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "brilliant_light",
+		"word": "brilliant",
+		"meaning": "光り輝く、見事な",
+		"era": "17th Century",
+		"etymology": {
+			"components": [
+				"brillare (to sparkle)"
+			],
+			"original_statement": "From 17th Century brillare (to sparkle)."
+		},
+		"concept": "Exceptionally bright (ダイヤモンドのように多面的な反射を放ち、他者の追随を許さない圧倒的で完璧な知性。)",
+		"thinking": "ダイヤモンドのように多面的な反射を放ち、他者の追随を許さない圧倒的で完璧な知性。",
+		"aftertaste": "あなたの「ブリリアント（見事な）」な才能は、隠そうとしても隙間から光が漏れてしまいます。",
+		"example": "The beautiful brilliant caught my eye immediately.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "brillare",
+					"meaning": "to sparkle"
+				}
+			],
+			"points": [
+				"光と闇をどう捉えるかは、私たちの心の状態の投影です。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "lustrous_light",
+		"word": "lustrous",
+		"meaning": "光沢のある",
+		"era": "17th Century",
+		"etymology": {
+			"components": [
+				"lustre (gloss, radiance)"
+			],
+			"original_statement": "From 17th Century lustre (gloss, radiance)."
+		},
+		"concept": "Having a shine (内面から磨き上げられた自信と品格が、なめらかな光沢となって表面を覆っている豊かな輝度。)",
+		"thinking": "内面から磨き上げられた自信と品格が、なめらかな光沢となって表面を覆っている豊かな輝度。",
+		"aftertaste": "丁寧な手入れを受けた「ラストラス（光沢のある）」な家具は、時間そのものが美しく結晶化したものです。",
+		"example": "The beautiful lustrous caught my eye immediately.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "lustre",
+					"meaning": "gloss, radiance"
+				}
+			],
+			"points": [
+				"光と闇をどう捉えるかは、私たちの心の状態の投影です。"
+			]
+		},
+		"part_of_speech": "verb"
+	},
+	{
+		"id": "glaring_light",
+		"word": "glaring",
+		"meaning": "ぎらぎら光る、目立つ",
+		"era": "16th Century",
+		"etymology": {
+			"components": [
+				"glaren (to shine brightly)"
+			],
+			"original_statement": "From 16th Century glaren (to shine brightly)."
+		},
+		"concept": "Highly conspicuous (不快なほどに強烈で、無視したくても無視できない、欠点や痛烈な真実を突きつける残酷な光。)",
+		"thinking": "不快なほどに強烈で、無視したくても無視できない、欠点や痛烈な真実を突きつける残酷な光。",
+		"aftertaste": "「グレアリング（ぎらぎらとした）」な間違いは、誰よりも先に自分自身で気づいて直しましょう。",
+		"example": "The beautiful glaring caught my eye immediately.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "glaren",
+					"meaning": "to shine brightly"
+				}
+			],
+			"points": [
+				"光と闇をどう捉えるかは、私たちの心の状態の投影です。"
+			]
+		},
+		"part_of_speech": "verb"
+	},
+	{
+		"id": "blinding_light",
+		"word": "blinding",
+		"meaning": "目をくらませるほどの",
+		"era": "15th Century",
+		"etymology": {
+			"components": [
+				"blinden (to make blind)"
+			],
+			"original_statement": "From 15th Century blinden (to make blind)."
+		},
+		"concept": "So bright as to obscure vision (感覚の許容量を超えた光によって、逆説的に何も見えなくなる、悟りや狂気に近い強烈な体験。)",
+		"thinking": "感覚の許容量を超えた光によって、逆説的に何も見えなくなる、悟りや狂気に近い強烈な体験。",
+		"aftertaste": "「ブラインディング（目の眩むような）」な恋に落ちて、真実が見えなくなってしまわないように。",
+		"example": "The beautiful blinding caught my eye immediately.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "blinden",
+					"meaning": "to make blind"
+				}
+			],
+			"points": [
+				"光と闇をどう捉えるかは、私たちの心の状態の投影です。"
+			]
+		},
+		"part_of_speech": "verb"
+	},
+	{
+		"id": "twinkling_light",
+		"word": "twinkling",
+		"meaning": "きらきら光る、瞬く",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"twinkelen (to wink, blink)"
+			],
+			"original_statement": "From 14th Century twinkelen (to wink, blink)."
+		},
+		"concept": "Shining with a flickering light (星や無邪気な瞳が、暗闇の中で「ここにいるよ」とささやき続けるリズミカルな愛のサイン。)",
+		"thinking": "星や無邪気な瞳が、暗闇の中で「ここにいるよ」とささやき続けるリズミカルな愛のサイン。",
+		"aftertaste": "夜空の「トゥインクリング（瞬く）」な星々は、何千光年も昔からあなたにウィンクを送り続けています。",
+		"example": "The beautiful twinkling caught my eye immediately.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "twinkelen",
+					"meaning": "to wink, blink"
+				}
+			],
+			"points": [
+				"光と闇をどう捉えるかは、私たちの心の状態の投影です。"
+			]
+		},
+		"part_of_speech": "verb"
+	},
+	{
+		"id": "hazy_light",
+		"word": "hazy",
+		"meaning": "もやのかかった",
+		"era": "17th Century",
+		"etymology": {
+			"components": [
+				"haze (fog, thick mist)"
+			],
+			"original_statement": "From 17th Century haze (fog, thick mist)."
+		},
+		"concept": "Covered by a haze (記憶や視界が熱や霧に覆われ、はっきりとした輪郭を失って白昼夢の中を漂うようなまどろみ。)",
+		"thinking": "記憶や視界が熱や霧に覆われ、はっきりとした輪郭を失って白昼夢の中を漂うようなまどろみ。",
+		"aftertaste": "真夏の「ヘイジー（もやのかかった）」な蜃気楼の中で、過去の幻想が蘇ります。",
+		"example": "The beautiful hazy caught my eye immediately.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "haze",
+					"meaning": "fog, thick mist"
+				}
+			],
+			"points": [
+				"光と闇をどう捉えるかは、私たちの心の状態の投影です。"
+			]
+		},
+		"part_of_speech": "verb"
+	},
+	{
+		"id": "foggy_light",
+		"word": "foggy",
+		"meaning": "霧の深い、ぼんやりした",
+		"era": "16th Century",
+		"etymology": {
+			"components": [
+				"fog (thick mist)"
+			],
+			"original_statement": "From 16th Century fog (thick mist)."
+		},
+		"concept": "Full of or characterized by fog (湿気を含んだ分厚いベールが全方位の視界を遮り、孤独と迷いを強制的に突きつける自然の檻。)",
+		"thinking": "湿気を含んだ分厚いベールが全方位の視界を遮り、孤独と迷いを強制的に突きつける自然の檻。",
+		"aftertaste": "「フォギー（濃霧の）」な日は無理に進もうとせず、足元をしっかり見つめ直すための時間です。",
+		"example": "The beautiful foggy caught my eye immediately.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "fog",
+					"meaning": "thick mist"
+				}
+			],
+			"points": [
+				"光と闇をどう捉えるかは、私たちの心の状態の投影です。"
+			]
+		},
+		"part_of_speech": "verb"
+	},
+	{
+		"id": "misty_light",
+		"word": "misty",
+		"meaning": "かすみのかかった",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"mistig (misty)"
+			],
+			"original_statement": "From Old English mistig (misty)."
+		},
+		"concept": "Full of, covered with, or accompanied by mist (空気中の細かな水分が光を乱反射させ、世界を悲しげでノスタルジックなヴェールで包み込む優しさ。)",
+		"thinking": "空気中の細かな水分が光を乱反射させ、世界を悲しげでノスタルジックなヴェールで包み込む優しさ。",
+		"aftertaste": "涙で「ミスティ（かすんだ）」な瞳で見る景色は、いつもより少しだけ優しく感じられます。",
+		"example": "The beautiful misty caught my eye immediately.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "mistig",
+					"meaning": "misty"
+				}
+			],
+			"points": [
+				"光と闇をどう捉えるかは、私たちの心の状態の投影です。"
+			]
+		},
+		"part_of_speech": "verb"
+	},
+	{
+		"id": "cloudy_light",
+		"word": "cloudy",
+		"meaning": "曇った、不透明な",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"cludig (rocky, later cloudy)"
+			],
+			"original_statement": "From Old English cludig (rocky, later cloudy)."
+		},
+		"concept": "Covered with or characterized by clouds (明確な答えを出さずに、さまざまな思いが複雑に絡み合い、光と影の狭間で揺れ動く優柔不断な心。)",
+		"thinking": "明確な答えを出さずに、さまざまな思いが複雑に絡み合い、光と影の狭間で揺れ動く優柔不断な心。",
+		"aftertaste": "心が「クラウディ（曇り空）」な日でも、雲の向こうには必ず太陽が待っています。決して消えません。",
+		"example": "The beautiful cloudy caught my eye immediately.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "cludig",
+					"meaning": "rocky, later cloudy"
+				}
+			],
+			"points": [
+				"光と闇をどう捉えるかは、私たちの心の状態の投影です。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "blurry_light",
+		"word": "blurry",
+		"meaning": "ぼやけた",
+		"era": "19th Century",
+		"etymology": {
+			"components": [
+				"blur (to smear)"
+			],
+			"original_statement": "From 19th Century blur (to smear)."
+		},
+		"concept": "Not clearly visible (ピントが合わず、形や色が滲み合いながら混ざり合っていく、論理を超えた感情のグラデーション。)",
+		"thinking": "ピントが合わず、形や色が滲み合いながら混ざり合っていく、論理を超えた感情のグラデーション。",
+		"aftertaste": "疲れ切った「ブラリー（ぼやけた）」な視界を無理に凝らさず、目を閉じて眠りに落ちて。",
+		"example": "The beautiful blurry caught my eye immediately.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "blur",
+					"meaning": "to smear"
+				}
+			],
+			"points": [
+				"光と闇をどう捉えるかは、私たちの心の状態の投影です。"
+			]
+		},
+		"part_of_speech": "verb"
+	},
+	{
+		"id": "bleary_light",
+		"word": "bleary",
+		"meaning": "かすんだ、疲れた",
+		"era": "16th Century",
+		"etymology": {
+			"components": [
+				"blere (having watery eyes)"
+			],
+			"original_statement": "From 16th Century blere (having watery eyes)."
+		},
+		"concept": "Looking or feeling dull and unfocused (疲労や悲しみによって目元が重く沈み、現実を直視する気力を搾り取られてしまった痛々しい疲弊状態。)",
+		"thinking": "疲労や悲しみによって目元が重く沈み、現実を直視する気力を搾り取られてしまった痛々しい疲弊状態。",
+		"aftertaste": "ひとしきり泣いて「ブリアリー（目の赤い）」な顔になったら、冷たい水で洗い流して出直しましょう。",
+		"example": "The beautiful bleary caught my eye immediately.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "blere",
+					"meaning": "having watery eyes"
+				}
+			],
+			"points": [
+				"光と闇をどう捉えるかは、私たちの心の状態の投影です。"
+			]
+		},
+		"part_of_speech": "verb"
+	},
+	{
+		"id": "dusky_light",
+		"word": "dusky",
+		"meaning": "薄暗い、浅黒い",
+		"era": "16th Century",
+		"etymology": {
+			"components": [
+				"dusk (twilight)"
+			],
+			"original_statement": "From 16th Century dusk (twilight)."
+		},
+		"concept": "Darkish in color (日が沈みかけた空や影のように、完全に闇に呑まれる直前の、最も妖艶で謎めいた魅力を放つ色合い。)",
+		"thinking": "日が沈みかけた空や影のように、完全に闇に呑まれる直前の、最も妖艶で謎めいた魅力を放つ色合い。",
+		"aftertaste": "「ダスキー（薄暗がり）」な時間帯は、人々の心の仮面が少しだけ外れるマジックアワーです。",
+		"example": "The beautiful dusky caught my eye immediately.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "dusk",
+					"meaning": "twilight"
+				}
+			],
+			"points": [
+				"光と闇をどう捉えるかは、私たちの心の状態の投影です。"
+			]
+		},
+		"part_of_speech": "verb"
 	}
 ];
