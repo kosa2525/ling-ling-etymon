@@ -202563,5 +202563,425 @@ const WORDS = [
 			]
 		},
 		"part_of_speech": "noun"
+	},
+	{
+		"id": "reagent_matter",
+		"word": "reagent",
+		"meaning": "試薬、反応物",
+		"era": "18th Century",
+		"etymology": {
+			"components": [
+				"re- (back, again) + agere (to do, act)"
+			],
+			"original_statement": "From 18th Century re- (back, again) + agere (to do, act)."
+		},
+		"concept": "A substance or mixture for use in chemical analysis or other reactions (ただ（。そこに（。ある（。だけでなく（。、相手に（。刺激を与え「再び（。リ）動か（。し（。アグ）反応させる（。）」ための（。エッセンス（。。（。あなた（。の（。言葉が（。、誰（。かの（。心に（。火（。を（。つける（。、聖なる（。試薬と（。なる（。のですよ。)",
+		"thinking": "ただ（。そこに（。ある（。だけでなく（。、相手に（。刺激を与え「再び（。リ）動か（。し（。アグ）反応させる（。）」ための（。エッセンス（。。（。あなた（。の（。言葉が（。、誰（。かの（。心に（。火（。を（。つける（。、聖なる（。試薬と（。なる（。のですよ。",
+		"aftertaste": "物質は、魂が現実という舞台で踊るための、美しい衣裳です。",
+		"example": "The scientist added a drops of reagent to the solution to observe the reaction.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "re-",
+					"meaning": "back, again) + agere (to do, act"
+				}
+			],
+			"points": [
+				"変容とは、自分自身の本質を新しい光の下で再定義する行為です。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "vapor_matter",
+		"word": "vapor",
+		"meaning": "蒸気、気体、儚いもの",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"vapor (steam, warm exhalation)"
+			],
+			"original_statement": "From 14th Century vapor (steam, warm exhalation)."
+		},
+		"concept": "A substance diffused or suspended in the air, especially one normally liquid or solid (熱（。という（。エナジーによって（。、自ら（。の（。境界線を（。捨て（。、「天空へと（。昇（。る（。ヴェイパー）」、透明で（。自由な（。魂の（。吐息。)",
+		"thinking": "熱（。という（。エナジーによって（。、自ら（。の（。境界線を（。捨て（。、「天空へと（。昇（。る（。ヴェイパー）」、透明で（。自由な（。魂の（。吐息。",
+		"aftertaste": "物質は、魂が現実という舞台で踊るための、美しい衣裳です。",
+		"example": "The scientist added a drops of vapor to the solution to observe the reaction.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "vapor",
+					"meaning": "steam, warm exhalation"
+				}
+			],
+			"points": [
+				"変容とは、自分自身の本質を新しい光の下で再定義する行為です。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "silicon_matter",
+		"word": "silicon",
+		"meaning": "シリコン、ケイ素",
+		"era": "19th Century",
+		"etymology": {
+			"components": [
+				"silex (flint)"
+			],
+			"original_statement": "From 19th Century silex (flint)."
+		},
+		"concept": "The chemical element of atomic number 14, a nonmetal with semiconducting properties (太古の（。昔（。、人類が（。初めて（。火（。を（。手（。に入（。れた「火打石（。サイレックス）」の（。記憶。今（。では（。、世界（。の（。知性（。を（。司（。る（。、透明（。な（。回路（。の（。中核。)",
+		"thinking": "太古の（。昔（。、人類が（。初めて（。火（。を（。手（。に入（。れた「火打石（。サイレックス）」の（。記憶。今（。では（。、世界（。の（。知性（。を（。司（。る（。、透明（。な（。回路（。の（。中核。",
+		"aftertaste": "物質は、魂が現実という舞台で踊るための、美しい衣裳です。",
+		"example": "The scientist added a drops of silicon to the solution to observe the reaction.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "silex",
+					"meaning": "flint"
+				}
+			],
+			"points": [
+				"変容とは、自分自身の本質を新しい光の下で再定義する行為です。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "mercury_matter",
+		"word": "mercury",
+		"meaning": "水銀、マーキュリー",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"Mercurius (Roman god Mercury)"
+			],
+			"original_statement": "From 14th Century Mercurius (Roman god Mercury)."
+		},
+		"concept": "The chemical element of atomic number 80, a heavy silvery-white metal which is liquid at ordinary temperatures (死（。を（。意味（。する（。冷徹な（。重工（。感（。を（。持ち（。ながら（。、水（。のように（。自由に（。か（。たち（。を（。変える（。、神々の（。使者（。マーキュリー）のような（。、神（。秘（。的（。で（。危険（。な（。流動体。)",
+		"thinking": "死（。を（。意味（。する（。冷徹な（。重工（。感（。を（。持ち（。ながら（。、水（。のように（。自由に（。か（。たち（。を（。変える（。、神々の（。使者（。マーキュリー）のような（。、神（。秘（。的（。で（。危険（。な（。流動体。",
+		"aftertaste": "物質は、魂が現実という舞台で踊るための、美しい衣裳です。",
+		"example": "The scientist added a drops of mercury to the solution to observe the reaction.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "Mercurius",
+					"meaning": "Roman god Mercury"
+				}
+			],
+			"points": [
+				"変容とは、自分自身の本質を新しい光の下で再定義する行為です。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "toxin_matter",
+		"word": "toxin",
+		"meaning": "毒素、トキシン",
+		"era": "19th Century",
+		"etymology": {
+			"components": [
+				"toxikon (poison for arrows)"
+			],
+			"original_statement": "From 19th Century toxikon (poison for arrows)."
+		},
+		"concept": "An antigenic poison or venom of plant or animal origin, especially one produced by or derived from microorganisms and causing disease when present at low concentration in the body (元来（。は（。、自分（。を（。守（。る（。ための「弓（。用の（。毒（。トキシ）」。（。あまりに（。純粋（。な（。エナジーは（。、時に（。他（。人（。を（。傷つける（。刃（。になる（。ことを（。、忘れ（。ないで（。ください。)",
+		"thinking": "元来（。は（。、自分（。を（。守（。る（。ための「弓（。用の（。毒（。トキシ）」。（。あまりに（。純粋（。な（。エナジーは（。、時に（。他（。人（。を（。傷つける（。刃（。になる（。ことを（。、忘れ（。ないで（。ください。",
+		"aftertaste": "物質は、魂が現実という舞台で踊るための、美しい衣裳です。",
+		"example": "The scientist added a drops of toxin to the solution to observe the reaction.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "toxikon",
+					"meaning": "poison for arrows"
+				}
+			],
+			"points": [
+				"変容とは、自分自身の本質を新しい光の下で再定義する行為です。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "arsenic_matter",
+		"word": "arsenic",
+		"meaning": "ヒ素",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"arsenikon (yellow orpiment, literally 'masculine')"
+			],
+			"original_statement": "From 14th Century arsenikon (yellow orpiment, literally 'masculine')."
+		},
+		"concept": "The chemical element of atomic number 33, a brittle steel-gray metalloid (強力（。な（。エナジーを（。秘め（。た「男性的（。アーセニ）」な（。毒。（。古（。代（。の（。錬金術師（。たちは（。、この（。危険（。な（。黄色（。い（。輝（。きの（。中（。に（。、太陽の（。欠片（。を（。見（。て（。いた（。の（。ですよ。)",
+		"thinking": "強力（。な（。エナジーを（。秘め（。た「男性的（。アーセニ）」な（。毒。（。古（。代（。の（。錬金術師（。たちは（。、この（。危険（。な（。黄色（。い（。輝（。きの（。中（。に（。、太陽の（。欠片（。を（。見（。て（。いた（。の（。ですよ。",
+		"aftertaste": "物質は、魂が現実という舞台で踊るための、美しい衣裳です。",
+		"example": "The scientist added a drops of arsenic to the solution to observe the reaction.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "arsenikon",
+					"meaning": "yellow orpiment, literally 'masculine'"
+				}
+			],
+			"points": [
+				"変容とは、自分自身の本質を新しい光の下で再定義する行為です。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "uranium_matter",
+		"word": "uranium",
+		"meaning": "ウラン",
+		"era": "18th Century",
+		"etymology": {
+			"components": [
+				"Uranus (planet Uranus)"
+			],
+			"original_statement": "From 18th Century Uranus (planet Uranus)."
+		},
+		"concept": "The chemical element of atomic number 92, a gray dense radioactive metal used as a fuel in nuclear reactors (広大（。な「星空（。ウラヌス）」の（。記憶（。を（。、この（。小さな（。重（。い（。石（。の（。中に（。封印（。した（。もの（。。（。そこ（。から（。放（。た（。れる（。光（。は（。、世界（。を（。変える（。ほど（。の（。破壊（。と（。創造を（。孕んで（。いる（。のです。)",
+		"thinking": "広大（。な「星空（。ウラヌス）」の（。記憶（。を（。、この（。小さな（。重（。い（。石（。の（。中に（。封印（。した（。もの（。。（。そこ（。から（。放（。た（。れる（。光（。は（。、世界（。を（。変える（。ほど（。の（。破壊（。と（。創造を（。孕んで（。いる（。のです。",
+		"aftertaste": "物質は、魂が現実という舞台で踊るための、美しい衣裳です。",
+		"example": "The scientist added a drops of uranium to the solution to observe the reaction.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "Uranus",
+					"meaning": "planet Uranus"
+				}
+			],
+			"points": [
+				"変容とは、自分自身の本質を新しい光の下で再定義する行為です。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "radium_matter",
+		"word": "radium",
+		"meaning": "ラジウム",
+		"era": "19th Century",
+		"etymology": {
+			"components": [
+				"radius (ray)"
+			],
+			"original_statement": "From 19th Century radius (ray)."
+		},
+		"concept": "The chemical element of atomic number 88, a rare radioactive metal (暗闇（。の中から（。、絶え（。ず「一条の（。光（。レイ）」を（。放（。ち（。続ける（。、（。誇（。り（。高い（。存在（。。（。誰（。に（。褒（。め（。られ（。なく（。ても（。、自ら（。の（。内側から（。輝き（。を（。絞（。り（。出（。し（。つづ（。ける（。魂の（。象徴。)",
+		"thinking": "暗闇（。の中から（。、絶え（。ず「一条の（。光（。レイ）」を（。放（。ち（。続ける（。、（。誇（。り（。高い（。存在（。。（。誰（。に（。褒（。め（。られ（。なく（。ても（。、自ら（。の（。内側から（。輝き（。を（。絞（。り（。出（。し（。つづ（。ける（。魂の（。象徴。",
+		"aftertaste": "物質は、魂が現実という舞台で踊るための、美しい衣裳です。",
+		"example": "The scientist added a drops of radium to the solution to observe the reaction.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "radius",
+					"meaning": "ray"
+				}
+			],
+			"points": [
+				"変容とは、自分自身の本質を新しい光の下で再定義する行為です。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "argon_matter",
+		"word": "argon",
+		"meaning": "アルゴン",
+		"era": "19th Century",
+		"etymology": {
+			"components": [
+				"a- (not) + ergon (work)"
+			],
+			"original_statement": "From 19th Century a- (not) + ergon (work)."
+		},
+		"concept": "The chemical element of atomic number 18, an inert gaseous element of the noble gas series (誰（。とも（。交（。わらず（。、決して「働（。き（。エルゴン）かけ（。ない（。ア）」、冷（。徹（。で（。孤（。高（。な（。沈黙（。。（。その（。不動（。の（。姿勢（。の中に（。、宇宙の（。深遠（。な（。調和（。が（。宿（。って（。いる（。の（。ですよ。)",
+		"thinking": "誰（。とも（。交（。わらず（。、決して「働（。き（。エルゴン）かけ（。ない（。ア）」、冷（。徹（。で（。孤（。高（。な（。沈黙（。。（。その（。不動（。の（。姿勢（。の中に（。、宇宙の（。深遠（。な（。調和（。が（。宿（。って（。いる（。の（。ですよ。",
+		"aftertaste": "物質は、魂が現実という舞台で踊るための、美しい衣裳です。",
+		"example": "The scientist added a drops of argon to the solution to observe the reaction.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "a-",
+					"meaning": "not) + ergon (work"
+				}
+			],
+			"points": [
+				"変容とは、自分自身の本質を新しい光の下で再定義する行為です。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "neon_matter",
+		"word": "neon",
+		"meaning": "ネオン",
+		"era": "19th Century",
+		"etymology": {
+			"components": [
+				"neos (new)"
+			],
+			"original_statement": "From 19th Century neos (new)."
+		},
+		"concept": "The chemical element of atomic number 10, an inert gaseous element used in strip lamps (日常（。の（。退屈（。な（。景色（。の（。中を（。、眩（。いばかりの（。光波で（。、「新（。しく（。ネオス）」彩（。る（。、人工（。の（。オーロラ（。。（。都会の（。闇を（。希望の（。色で（。塗り（。替（。える（。、欲望と（。夢の（。道標。)",
+		"thinking": "日常（。の（。退屈（。な（。景色（。の（。中を（。、眩（。いばかりの（。光波で（。、「新（。しく（。ネオス）」彩（。る（。、人工（。の（。オーロラ（。。（。都会の（。闇を（。希望の（。色で（。塗り（。替（。える（。、欲望と（。夢の（。道標。",
+		"aftertaste": "物質は、魂が現実という舞台で踊るための、美しい衣裳です。",
+		"example": "The scientist added a drops of neon to the solution to observe the reaction.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "neos",
+					"meaning": "new"
+				}
+			],
+			"points": [
+				"変容とは、自分自身の本質を新しい光の下で再定義する行為です。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "platinum_matter",
+		"word": "platinum",
+		"meaning": "白金、プラチナ",
+		"era": "18th Century",
+		"etymology": {
+			"components": [
+				"platina (little silver)"
+			],
+			"original_statement": "From 18th Century platina (little silver)."
+		},
+		"concept": "A precious silvery-white metal (「銀（。銀（。の（。小粒（。プラチナ）」だと（。見（。く（。び（。られて（。いた（。過去（。を（。越え（。、今（。では（。不（。変（。の（。価値（。の（。代名詞と（。なった（。存在（。。（。あなたの（。中（。の（。小さな（。輝（。きを（。、最後（。まで（。信じ（。抜（。いて（。あげて（。ください。)",
+		"thinking": "「銀（。銀（。の（。小粒（。プラチナ）」だと（。見（。く（。び（。られて（。いた（。過去（。を（。越え（。、今（。では（。不（。変（。の（。価値（。の（。代名詞と（。なった（。存在（。。（。あなたの（。中（。の（。小さな（。輝（。きを（。、最後（。まで（。信じ（。抜（。いて（。あげて（。ください。",
+		"aftertaste": "物質は、魂が現実という舞台で踊るための、美しい衣裳です。",
+		"example": "The scientist added a drops of platinum to the solution to observe the reaction.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "platina",
+					"meaning": "little silver"
+				}
+			],
+			"points": [
+				"変容とは、自分自身の本質を新しい光の下で再定義する行為です。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "titanium_matter",
+		"word": "titanium",
+		"meaning": "チタン",
+		"era": "18th Century",
+		"etymology": {
+			"components": [
+				"Titans (giants in Greek mythology)"
+			],
+			"original_statement": "From 18th Century Titans (giants in Greek mythology)."
+		},
+		"concept": "The chemical element of atomic number 22, a hard silver-gray metal (「巨人（。タイタン）」の（。ような（。圧倒的（。な（。強（。さと（。耐（。久性を（。、信（。じ（。られ（。ない（。ほどの（。軽（。さの（。中に（。宿（。した（。、現代（。の（。鎧（。。（。しなやか（。で（。い（。て（。、折（。れ（。ない（。、強靭な（。意志。)",
+		"thinking": "「巨人（。タイタン）」の（。ような（。圧倒的（。な（。強（。さと（。耐（。久性を（。、信（。じ（。られ（。ない（。ほどの（。軽（。さの（。中に（。宿（。した（。、現代（。の（。鎧（。。（。しなやか（。で（。い（。て（。、折（。れ（。ない（。、強靭な（。意志。",
+		"aftertaste": "物質は、魂が現実という舞台で踊るための、美しい衣裳です。",
+		"example": "The scientist added a drops of titanium to the solution to observe the reaction.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "Titans",
+					"meaning": "giants in Greek mythology"
+				}
+			],
+			"points": [
+				"変容とは、自分自身の本質を新しい光の下で再定義する行為です。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "aluminum_matter",
+		"word": "aluminum",
+		"meaning": "アルミニウム",
+		"era": "19th Century",
+		"etymology": {
+			"components": [
+				"alumen (alum)"
+			],
+			"original_statement": "From 19th Century alumen (alum)."
+		},
+		"concept": "The chemical element of atomic number 13, a light silvery-white metal (かつて（。は（。黄金（。よりも（。貴（。重（。だった（。「明（。礬（。アルメン）」の（。精（。。（。空気（。を（。味方（。に（。し（。て（。、世界（。の（。距離を（。縮める（。翼（。へと（。変（。身（。した（。、知性の（。結晶。)",
+		"thinking": "かつて（。は（。黄金（。よりも（。貴（。重（。だった（。「明（。礬（。アルメン）」の（。精（。。（。空気（。を（。味方（。に（。し（。て（。、世界（。の（。距離を（。縮める（。翼（。へと（。変（。身（。した（。、知性の（。結晶。",
+		"aftertaste": "物質は、魂が現実という舞台で踊るための、美しい衣裳です。",
+		"example": "The scientist added a drops of aluminum to the solution to observe the reaction.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "alumen",
+					"meaning": "alum"
+				}
+			],
+			"points": [
+				"変容とは、自分自身の本質を新しい光の下で再定義する行為です。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "marble_matter",
+		"word": "marble",
+		"meaning": "大理石、マーブル",
+		"era": "12th Century",
+		"etymology": {
+			"components": [
+				"marmaros (shining stone)"
+			],
+			"original_statement": "From 12th Century marmaros (shining stone)."
+		},
+		"concept": "A hard crystalline metamorphic form of limestone, typically white with mottlings or streaks of color (大地の（。巨大な（。圧力（。に（。よって（。、ただの（。石（。が（。、「眩（。い（。ばかりに（。光（。り輝く（。マルマロス）神殿（。の（。魂」へと（。至（。った（。もの（。。（。そこ（。には（。、太（。古の（。海（。の（。囁（。き（。が（。、美し（。い（。模様（。として（。残（。って（。いる（。のですよ。)",
+		"thinking": "大地の（。巨大な（。圧力（。に（。よって（。、ただの（。石（。が（。、「眩（。い（。ばかりに（。光（。り輝く（。マルマロス）神殿（。の（。魂」へと（。至（。った（。もの（。。（。そこ（。には（。、太（。古の（。海（。の（。囁（。き（。が（。、美し（。い（。模様（。として（。残（。って（。いる（。のですよ。",
+		"aftertaste": "物質は、魂が現実という舞台で踊るための、美しい衣裳です。",
+		"example": "The scientist added a drops of marble to the solution to observe the reaction.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "marmaros",
+					"meaning": "shining stone"
+				}
+			],
+			"points": [
+				"変容とは、自分自身の本質を新しい光の下で再定義する行為です。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "tincture_matter",
+		"word": "tincture",
+		"meaning": "チンキ、色合い、気味",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"tingere (to dye, stain)"
+			],
+			"original_statement": "From 14th Century tingere (to dye, stain)."
+		},
+		"concept": "A medicine made by dissolving a drug in alcohol (ただ（。薬を（。溶（。かす（。だけでなく（。、魂を「染（。め（。上げ（。る（。ティン）」ほどの（。鮮烈（。な（。エッセンス（。。（。言葉（。にも（。、一滴（。の（。誠実（。な（。真理（。を（。混ぜて（。ください（。。（。それ（。だけで（。、退屈（。な（。日常（。は（。一瞬（。にして（。、色彩（。を（。取り戻（。す（。のですから。)",
+		"thinking": "ただ（。薬を（。溶（。かす（。だけでなく（。、魂を「染（。め（。上げ（。る（。ティン）」ほどの（。鮮烈（。な（。エッセンス（。。（。言葉（。にも（。、一滴（。の（。誠実（。な（。真理（。を（。混ぜて（。ください（。。（。それ（。だけで（。、退屈（。な（。日常（。は（。一瞬（。にして（。、色彩（。を（。取り戻（。す（。のですから。",
+		"aftertaste": "物質は、魂が現実という舞台で踊るための、美しい衣裳です。",
+		"example": "The scientist added a drops of tincture to the solution to observe the reaction.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "tingere",
+					"meaning": "to dye, stain"
+				}
+			],
+			"points": [
+				"変容とは、自分自身の本質を新しい光の下で再定義する行為です。"
+			]
+		},
+		"part_of_speech": "noun"
 	}
 ];
