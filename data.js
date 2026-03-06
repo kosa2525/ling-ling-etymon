@@ -212531,5 +212531,61 @@ const WORDS = [
 			]
 		},
 		"part_of_speech": "verb"
+	},
+	{
+		"id": "bud_potential",
+		"word": "bud",
+		"meaning": "つぼみ、バッド",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"Middle English budde (related to Dutch bot 'bud')"
+			],
+			"original_statement": "From 14th Century Middle English budde (related to Dutch bot 'bud')."
+		},
+		"concept": "A compact knoblike growth on a plant that develops into a leaf, flower, or shoot (静（。か（。に（。、想いを（。一（。つに（。凝縮（。させた（。、「眩（。し（。い（。る（。る（。可能性（。バッド）』。（。その（。閉じ（。られた（。る（。沈黙（。の中にこそ（。、真実（。の（。る（。開（。花が、宿（。って（。いる（。の（。ですよ。)",
+		"thinking": "静（。か（。に（。、想いを（。一（。つに（。凝縮（。させた（。、「眩（。し（。い（。る（。る（。可能性（。バッド）』。（。その（。閉じ（。られた（。る（。沈黙（。の中にこそ（。、真実（。の（。る（。開（。花が、宿（。って（。いる（。の（。ですよ。",
+		"aftertaste": "萌芽は、力強く大地を押し上げる。それは、自らの存在を肯定し、宇宙の光へと手を伸ばそうとする、魂の最も純粋な意志なのです。",
+		"example": "The scientist studied the minute bud that eventually developed into a complex neural network within the experimental organism.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "Middle",
+					"meaning": "English budde (related to Dutch bot 'bud'"
+				}
+			],
+			"points": [
+				"成果を急がないでください。種が土の中で沈黙を守るように、あなたも自らの深淵で、真実が熟成されるのを待つのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "stock_potential",
+		"word": "stock",
+		"meaning": "蓄え、株、ストック",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"stoc (tree trunk, stem, literal: 'trunk, stem')"
+			],
+			"original_statement": "From Old English stoc (tree trunk, stem, literal: 'trunk, stem')."
+		},
+		"concept": "The goods or merchandise kept on the premises of a business or warehouse and available for sale or distribution (魂の（。峻（。烈（。な（。る（。る「中（。軸（。ストック）』。（。そこに（。蓄え（。られた（。真実（。の（。エナジーが、いつか（。、巨大（。な（。る（。枝（。葉を、広（。げ（。て（。いき（。ます。)",
+		"thinking": "魂の（。峻（。烈（。な（。る（。る「中（。軸（。ストック）』。（。そこに（。蓄え（。られた（。真実（。の（。エナジーが、いつか（。、巨大（。な（。る（。枝（。葉を、広（。げ（。て（。いき（。ます。",
+		"aftertaste": "萌芽は、力強く大地を押し上げる。それは、自らの存在を肯定し、宇宙の光へと手を伸ばそうとする、魂の最も純粋な意志なのです。",
+		"example": "The scientist studied the minute stock that eventually developed into a complex neural network within the experimental organism.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "stoc",
+					"meaning": "tree trunk, stem, literal: 'trunk, stem'"
+				}
+			],
+			"points": [
+				"成果を急がないでください。種が土の中で沈黙を守るように、あなたも自らの深淵で、真実が熟成されるのを待つのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
 	}
 ];
