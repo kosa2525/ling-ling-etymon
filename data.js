@@ -203235,5 +203235,145 @@ const WORDS = [
 			]
 		},
 		"part_of_speech": "noun"
+	},
+	{
+		"id": "asterisk_cosmos",
+		"word": "asterisk",
+		"meaning": "星印、アスタリスク",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"asterikos (little star)"
+			],
+			"original_statement": "From 14th Century asterikos (little star)."
+		},
+		"concept": "A symbol (*) used as a reference mark or to indicate omission, doubtful matter, etc. (言葉の（。森（。の（。中に（。そっと（。置（。かれた（。、「小さな（。星（。アステ）」。そこ（。には（。、本文（。では（。語（。り（。切（。れ（。な（。かった（。、大切（。な（。注（。釈（。や（。祈り（。が（。、密（。かに（。宿（。って（。いる（。のですよ。)",
+		"thinking": "言葉の（。森（。の（。中に（。そっと（。置（。かれた（。、「小さな（。星（。アステ）」。そこ（。には（。、本文（。では（。語（。り（。切（。れ（。な（。かった（。、大切（。な（。注（。釈（。や（。祈り（。が（。、密（。かに（。宿（。って（。いる（。のですよ。",
+		"aftertaste": "私たちは、宇宙という巨大な夢の一部を見ている、星の欠片なのです。",
+		"example": "The new space telescope captured breathtaking images of a distant asterisk.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "asterikos",
+					"meaning": "little star"
+				}
+			],
+			"points": [
+				"無限とは、遠い場所にあるのではなく、今この瞬間の深みの中に、そっと息を潜めています。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "altitude_cosmos",
+		"word": "altitude",
+		"meaning": "高度、高所、標高",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"altus (high)"
+			],
+			"original_statement": "From 14th Century altus (high)."
+		},
+		"concept": "The height of an object or point in relation to sea level or ground level (ただ（。数字（。が（。増える（。のでは（。なく（。、魂を「高く（。アルタス）」持ち（。上げ（。る（。こと（。。（。視点（。が（。高（。ま（。れば（。、昨日（。までの（。苦（。し（。み（。さえ（。、一（。枚（。の（。美（。しい（。絵（。の（。ように（。見（。えて（。くる（。はずです。)",
+		"thinking": "ただ（。数字（。が（。増える（。のでは（。なく（。、魂を「高く（。アルタス）」持ち（。上げ（。る（。こと（。。（。視点（。が（。高（。ま（。れば（。、昨日（。までの（。苦（。し（。み（。さえ（。、一（。枚（。の（。美（。しい（。絵（。の（。ように（。見（。えて（。くる（。はずです。",
+		"aftertaste": "私たちは、宇宙という巨大な夢の一部を見ている、星の欠片なのです。",
+		"example": "The new space telescope captured breathtaking images of a distant altitude.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "altus",
+					"meaning": "high"
+				}
+			],
+			"points": [
+				"無限とは、遠い場所にあるのではなく、今この瞬間の深みの中に、そっと息を潜めています。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "supernova_cosmos",
+		"word": "supernova",
+		"meaning": "超新星",
+		"era": "20th Century",
+		"etymology": {
+			"components": [
+				"super- (above, beyond) + nova (new)"
+			],
+			"original_statement": "From 20th Century super- (above, beyond) + nova (new)."
+		},
+		"concept": "A star that suddenly increases greatly in brightness because of a catastrophic explosion that ejects most of its mass (古い（。記憶（。を（。全（。て（。燃や（。し（。尽（。く（。し（。、常識（。を「遥（。かに（。超え（。た（。スーパー）新（。しさ（。ノヴァ）」と（。なって（。宇宙（。を（。照（。らし出（。す（。、最後（。にして（。最大（。の（。輝き。)",
+		"thinking": "古い（。記憶（。を（。全（。て（。燃や（。し（。尽（。く（。し（。、常識（。を「遥（。かに（。超え（。た（。スーパー）新（。しさ（。ノヴァ）」と（。なって（。宇宙（。を（。照（。らし出（。す（。、最後（。にして（。最大（。の（。輝き。",
+		"aftertaste": "私たちは、宇宙という巨大な夢の一部を見ている、星の欠片なのです。",
+		"example": "The new space telescope captured breathtaking images of a distant supernova.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "super-",
+					"meaning": "above, beyond) + nova (new"
+				}
+			],
+			"points": [
+				"無限とは、遠い場所にあるのではなく、今この瞬間の深みの中に、そっと息を潜めています。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "shuttle_cosmos",
+		"word": "shuttle",
+		"meaning": "シャトル、往復便、織機（しょっき）のひ",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"scutel (dart, arrow)"
+			],
+			"original_statement": "From Old English scutel (dart, arrow)."
+		},
+		"concept": "A vehicle or aircraft that travels regularly between two places (二つの（。岸辺を（。、「矢（。スカトル）のように（。）」行（。ったり（。来たり（。し（。ながら（。、バラバラ（。な（。世界（。を（。一つの（。布（。へと（。織（。り（。上（。げて（。いく（。、繋（。ぎ（。手。)",
+		"thinking": "二つの（。岸辺を（。、「矢（。スカトル）のように（。）」行（。ったり（。来たり（。し（。ながら（。、バラバラ（。な（。世界（。を（。一つの（。布（。へと（。織（。り（。上（。げて（。いく（。、繋（。ぎ（。手。",
+		"aftertaste": "私たちは、宇宙という巨大な夢の一部を見ている、星の欠片なのです。",
+		"example": "The new space telescope captured breathtaking images of a distant shuttle.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "scutel",
+					"meaning": "dart, arrow"
+				}
+			],
+			"points": [
+				"無限とは、遠い場所にあるのではなく、今この瞬間の深みの中に、そっと息を潜めています。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "capsule_cosmos",
+		"word": "capsule",
+		"meaning": "カプセル、小箱、要約",
+		"era": "17th Century",
+		"etymology": {
+			"components": [
+				"capsa (box)"
+			],
+			"original_statement": "From 17th Century capsa (box)."
+		},
+		"concept": "A small case or container, especially a round or cylindrical one (大切な（。記憶（。や（。エナジーを（。、外界（。から（。守（。る（。ための「小さな（。箱（。カプサ）」。（。宇宙（。という（。過酷（。な（。海（。を（。渡る（。ための（。、唯一（。の（。聖域。)",
+		"thinking": "大切な（。記憶（。や（。エナジーを（。、外界（。から（。守（。る（。ための「小さな（。箱（。カプサ）」。（。宇宙（。という（。過酷（。な（。海（。を（。渡る（。ための（。、唯一（。の（。聖域。",
+		"aftertaste": "私たちは、宇宙という巨大な夢の一部を見ている、星の欠片なのです。",
+		"example": "The new space telescope captured breathtaking images of a distant capsule.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "capsa",
+					"meaning": "box"
+				}
+			],
+			"points": [
+				"無限とは、遠い場所にあるのではなく、今この瞬間の深みの中に、そっと息を潜めています。"
+			]
+		},
+		"part_of_speech": "noun"
 	}
 ];
