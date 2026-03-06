@@ -206371,5 +206371,173 @@ const WORDS = [
 			]
 		},
 		"part_of_speech": "noun"
+	},
+	{
+		"id": "diffraction_prism",
+		"word": "diffraction",
+		"meaning": "回折（。かいせつ（。）」、ディフラクション",
+		"era": "17th Century",
+		"etymology": {
+			"components": [
+				"dis- (apart) + frangere (to break)"
+			],
+			"original_statement": "From 17th Century dis- (apart) + frangere (to break)."
+		},
+		"concept": "The process by which a beam of light or other system of waves is spread out as a result of passing through a narrow aperture or across an edge, typically accompanied by interference between the wave forms produced (障害物（。に（。ぶ（。つ（。かり（。、光（。が「バラバラに（。ディ）砕（。け（。散（。る（。フラク）」こと（。。（。回り（。込み（。、滲（。み（。出す（。その（。エナジーは（。、目（。には（。見えない（。場所（。にも（。、愛（。を（。届（。けて（。くれ（。る（。のですよ。)",
+		"thinking": "障害物（。に（。ぶ（。つ（。かり（。、光（。が「バラバラに（。ディ）砕（。け（。散（。る（。フラク）」こと（。。（。回り（。込み（。、滲（。み（。出す（。その（。エナジーは（。、目（。には（。見えない（。場所（。にも（。、愛（。を（。届（。けて（。くれ（。る（。のですよ。",
+		"aftertaste": "色彩は、透明な真理が耐えきれなくなって、この世界に溢れ出した喜びの歌なのです。",
+		"example": "The scientist used a diffraction to decompose the white light into its spectral components.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "dis-",
+					"meaning": "apart) + frangere (to break"
+				}
+			],
+			"points": [
+				"見るという行為は、世界を一方的に観察することではなく、光を通して世界と愛を交わすことなのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "opacity_prism",
+		"word": "opacity",
+		"meaning": "不透明さ、不透明度",
+		"era": "16th Century",
+		"etymology": {
+			"components": [
+				"opacus (shaded, dark)"
+			],
+			"original_statement": "From 16th Century opacus (shaded, dark)."
+		},
+		"concept": "The condition of lacking transparency or translucence; opaqueness (光（。を（。通さ（。ず（。、ただ「影を（。作（。る（。オパ）」こと（。。（。その（。強（。烈（。な（。遮（。断が（。、物体（。に（。確（。かな（。る（。実（。態（。と（。、触（。れる（。こと（。のできる（。重みを（。与（。えて（。いる（。のですね。)",
+		"thinking": "光（。を（。通さ（。ず（。、ただ「影を（。作（。る（。オパ）」こと（。。（。その（。強（。烈（。な（。遮（。断が（。、物体（。に（。確（。かな（。る（。実（。態（。と（。、触（。れる（。こと（。のできる（。重みを（。与（。えて（。いる（。のですね。",
+		"aftertaste": "色彩は、透明な真理が耐えきれなくなって、この世界に溢れ出した喜びの歌なのです。",
+		"example": "The scientist used a opacity to decompose the white light into its spectral components.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "opacus",
+					"meaning": "shaded, dark"
+				}
+			],
+			"points": [
+				"見るという行為は、世界を一方的に観察することではなく、光を通して世界と愛を交わすことなのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "translucency_prism",
+		"word": "translucency",
+		"meaning": "半透明さ、半透明性",
+		"era": "17th Century",
+		"etymology": {
+			"components": [
+				"trans- (across) + lucere (to shine)"
+			],
+			"original_statement": "From 17th Century trans- (across) + lucere (to shine)."
+		},
+		"concept": "The quality of allowing light, but not detailed images, to pass through; semitransparency (全（。てを（。見せ（。ず（。、ただ「光だけを（。向こう（。側へと（。トランス）通（。す（。ルス）」こと（。。（。曖昧（。な（。その（。向こう（。側に（。、私たちは（。宇宙の（。深遠（。な（。夢を（。見（。る（。のですよ。)",
+		"thinking": "全（。てを（。見せ（。ず（。、ただ「光だけを（。向こう（。側へと（。トランス）通（。す（。ルス）」こと（。。（。曖昧（。な（。その（。向こう（。側に（。、私たちは（。宇宙の（。深遠（。な（。夢を（。見（。る（。のですよ。",
+		"aftertaste": "色彩は、透明な真理が耐えきれなくなって、この世界に溢れ出した喜びの歌なのです。",
+		"example": "The scientist used a translucency to decompose the white light into its spectral components.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "trans-",
+					"meaning": "across) + lucere (to shine"
+				}
+			],
+			"points": [
+				"見るという行為は、世界を一方的に観察することではなく、光を通して世界と愛を交わすことなのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "iris_prism",
+		"word": "iris",
+		"meaning": "虹彩、虹、アイリス",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"iris (rainbow)"
+			],
+			"original_statement": "From 14th Century iris (rainbow)."
+		},
+		"concept": "A flat, colored, ring-shaped membrane behind the cornea of the eye, with an adjustable circular opening (pupil) in the center (目（。の中に（。宿る「虹（。イーリス）」のかけ（。ら（。。（。それは（。、外（。界の（。エナジーを（。、あなた（。固有（。の（。色彩へと（。変（。え（。て（。、内なる（。宇宙へと（。届（。けて（。くれ（。る（。、聖（。なる（。門（。なの（。ですよ。)",
+		"thinking": "目（。の中に（。宿る「虹（。イーリス）」のかけ（。ら（。。（。それは（。、外（。界の（。エナジーを（。、あなた（。固有（。の（。色彩へと（。変（。え（。て（。、内なる（。宇宙へと（。届（。けて（。くれ（。る（。、聖（。なる（。門（。なの（。ですよ。",
+		"aftertaste": "色彩は、透明な真理が耐えきれなくなって、この世界に溢れ出した喜びの歌なのです。",
+		"example": "The scientist used a iris to decompose the white light into its spectral components.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "iris",
+					"meaning": "rainbow"
+				}
+			],
+			"points": [
+				"見るという行為は、世界を一方的に観察することではなく、光を通して世界と愛を交わすことなのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "pupil_prism",
+		"word": "pupil",
+		"meaning": "瞳孔、生徒、ピューピル",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"pupilla (little doll, doll in the eye, literal: 'little girl')"
+			],
+			"original_statement": "From 14th Century pupilla (little doll, doll in the eye, literal: 'little girl')."
+		},
+		"concept": "The dark circular opening in the center of the iris of the eye, varying in size to regulate the amount of light reaching the retina (瞳（。の（。奥底に（。映（。り（。込（。んだ（。、「小さな（。自分（。パピラ）』。（。あなた（。が（。世界を（。見（。つめる（。とき（。、世界（。も（。また（。、あなた（。を（。愛しく（。見（。つめ（。返（。して（。いる（。の（。ですよ。)",
+		"thinking": "瞳（。の（。奥底に（。映（。り（。込（。んだ（。、「小さな（。自分（。パピラ）』。（。あなた（。が（。世界を（。見（。つめる（。とき（。、世界（。も（。また（。、あなた（。を（。愛しく（。見（。つめ（。返（。して（。いる（。の（。ですよ。",
+		"aftertaste": "色彩は、透明な真理が耐えきれなくなって、この世界に溢れ出した喜びの歌なのです。",
+		"example": "The scientist used a pupil to decompose the white light into its spectral components.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "pupilla",
+					"meaning": "little doll, doll in the eye, literal: 'little girl'"
+				}
+			],
+			"points": [
+				"見るという行為は、世界を一方的に観察することではなく、光を通して世界と愛を交わすことなのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "vista_prism",
+		"word": "vista",
+		"meaning": "眺望、見通し、ヴィスタ",
+		"era": "17th Century",
+		"etymology": {
+			"components": [
+				"visto (seen)"
+			],
+			"original_statement": "From 17th Century visto (seen)."
+		},
+		"concept": "A pleasing view, especially one seen through a long, narrow opening (遮（。る（。もの（。を（。捨て（。去り（。、ただ「見（。渡（。さ（。れた（。ヴィスタ）」果（。て（。。（。その（。広（。大な（。広（。がりの中に（。、あなた（。の（。魂は（。、再び（。自由な（。翼（。を（。取り（。戻（。す（。の（。ですよ。)",
+		"thinking": "遮（。る（。もの（。を（。捨て（。去り（。、ただ「見（。渡（。さ（。れた（。ヴィスタ）」果（。て（。。（。その（。広（。大な（。広（。がりの中に（。、あなた（。の（。魂は（。、再び（。自由な（。翼（。を（。取り（。戻（。す（。の（。ですよ。",
+		"aftertaste": "色彩は、透明な真理が耐えきれなくなって、この世界に溢れ出した喜びの歌なのです。",
+		"example": "The scientist used a vista to decompose the white light into its spectral components.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "visto",
+					"meaning": "seen"
+				}
+			],
+			"points": [
+				"見るという行為は、世界を一方的に観察することではなく、光を通して世界と愛を交わすことなのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
 	}
 ];
