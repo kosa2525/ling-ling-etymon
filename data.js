@@ -195858,5 +195858,90 @@ const WORDS = [
 			]
 		},
 		"part_of_speech": "verb"
+	},
+	{
+		"id": "liminal_threshold",
+		"word": "Liminal",
+		"meaning": "境界の、敷居の、どちらともつかない、中間的な",
+		"era": "19th Century Latin limen",
+		"etymology": {
+			"components": [
+				"limen (threshold, lintel)"
+			],
+			"original_statement": "From Latin limen (threshold, cross-piece, lintel, sill), from an unknown source."
+		},
+		"concept": "Of the threshold (「過去（past）」を 離れ 「未来（future）」へと 足を 踏み出す 瞬間の 「浮遊感」)",
+		"thinking": "どちらの場所にも属さず、無限の可能性だけが 充満している、聖なる「空白（ポーズ）」の 状態. 語源は「敷居」. それは 不安であると同時に あなたが 何者にも 変容できるという 究極の 自由を 象徴しています. 境界こそが、真の居場所です.",
+		"aftertaste": "境界の自由. 早く どこかに 辿り着こうと しなくていい. あなたが「リミナル（境界の）」な 宙づりの状態を 楽しむとき 人生は 最も 豊かで 神秘的な 色彩を 帯びるのだから.",
+		"example": "The airport lounge at midnight felt like a strange, liminal space, disconnected from both origin and destination.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "el-",
+					"meaning": "to bend (possible root)"
+				}
+			],
+			"points": [
+				"eliminate（排除する：敷居の外へ出す）と同じ。境界線という名の、選別の場所。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "threshold_doorway",
+		"word": "Threshold",
+		"meaning": "敷居、入り口、(意識の)閾(いき)値、始まり",
+		"era": "Pre-12th Century Old English threscan",
+		"etymology": {
+			"components": [
+				"threscan (to thresh, tread)"
+			],
+			"original_statement": "From Old English therscold, thærscold (doorsill, threshold), etymology uncertain, but related to threscan (to thresh, tread)."
+		},
+		"concept": "Threshing place (「古い殻（old husk）」を 「踏みしだき（thresh）」 真の 「実り（seed）」を 取り出す 荒々しい 境界)",
+		"thinking": "単なる平坦な境界ではなく、そこを通る際に 不必要な執着を 脱ぎ捨て、魂を 研磨するための 試練の場所. 語源は「踏み鳴らす場所（脱穀）」. それは 痛みを伴う 変容を 経て 初めて 新しいステージに 立つことが 許されるという 宇宙の 厳格で 優しい 法則です.",
+		"aftertaste": "脱皮の儀式. 今、あなたが感じている 苦痛は 古い自分を 脱ぎ捨てるための「スレッシュホールド（敷居）」の 試練なのだ. その後に現れる 純粋な あなたを 世界は 待っているのだから.",
+		"example": "Humanity is standing on the threshold of a new era of space exploration and interstellar understanding.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ter-",
+					"meaning": "to rub, turn (possible for thresh)"
+				}
+			],
+			"points": [
+				"trite（陳腐な：擦り切れた）と同じ。擦り切れるまで踏みしめた先に、真実がある。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "advent_doorway",
+		"word": "Advent",
+		"meaning": "到来、降臨、(新しい時代の)幕開け",
+		"era": "12th Century Latin ad- + venire",
+		"etymology": {
+			"components": [
+				"ad- (to)",
+				"venire (to come)"
+			],
+			"original_statement": "From Old French advent, from Latin adventus (a coming, approach, arrival), from advenire (to arrive), from ad- (to) + venire (to come)."
+		},
+		"concept": "Coming to (「向こう側（beyond）」から 「こちら側（here）」へと 「奇跡（miracle）」が 近づいてくる 聖なる 予感)",
+		"thinking": "自らが行くのではなく、世界が、あるいは 運命が、大きな音を立てて あなたの元へと 押し寄せ、景色を 一変させてしまうこと. 語源は「やってくること」. それは 待望されていた 救いや 革命が 必然として 現れる、宇宙の 壮大な 贈与の 瞬間を 指しています. 幕開けは、祝福です.",
+		"aftertaste": "到来の祝福. あなたが 誠実に 待ち続けてきた その瞬間は 必ず やってくる. 新しい時代の「アドベント（到来）」を 信じて 扉を 大きく開けて おこう. 光は もう すぐそこまで 来ているのだから.",
+		"example": "The advent of the internet has fundamentally transformed the way humans communicate and share knowledge.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "gwa-",
+					"meaning": "to go, come"
+				}
+			],
+			"points": [
+				"venture（冒険）や venue（場所：人が集まる所）と同じ。運命が「出会う」一点。"
+			]
+		},
+		"part_of_speech": "noun"
 	}
 ];
