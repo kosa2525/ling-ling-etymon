@@ -205699,5 +205699,257 @@ const WORDS = [
 			]
 		},
 		"part_of_speech": "noun"
+	},
+	{
+		"id": "codex_ink",
+		"word": "codex",
+		"meaning": "写本、法典、コーデックス",
+		"era": "16th Century",
+		"etymology": {
+			"components": [
+				"caudex (trunk of a tree, book)"
+			],
+			"original_statement": "From 16th Century caudex (trunk of a tree, book)."
+		},
+		"concept": "An ancient manuscript text in book form",
+		"thinking": "言葉は、沈黙という名の広大な海に浮かぶ、美しき島々です。",
+		"aftertaste": "インクは、魂の叫びを静止させ、永遠という名の時間に刻み込むための血潮です。",
+		"example": "The scholar spent years translating the ancient codex to uncover the secrets of the lost civilization.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "caudex",
+					"meaning": "trunk of a tree, book"
+				}
+			],
+			"points": [
+				"書くとは、世界を一度殺し、紙の上に新しい命を産み落とす行為なのかもしれません。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "parchment_ink",
+		"word": "parchment",
+		"meaning": "羊皮紙、パーチメント",
+		"era": "13th Century",
+		"etymology": {
+			"components": [
+				"Pergamum (city in Asia Minor)"
+			],
+			"original_statement": "From 13th Century Pergamum (city in Asia Minor)."
+		},
+		"concept": "A stiff, flat, thin material made from the prepared skin of an animal and used as a durable surface for writing, painting, or pocketing (木（。簡を（。超え（。、動物の（。命を（。纏（。った「聖なる（。紙（。ペルガモン）」。（。そこ（。には（。、何（。百（。年（。という（。時間の（。荒波に（。耐（。え（。抜（。く（。、言葉（。の（。凄（。みが（。宿（。って（。いる（。のですよ。)",
+		"thinking": "木（。簡を（。超え（。、動物の（。命を（。纏（。った「聖なる（。紙（。ペルガモン）」。（。そこ（。には（。、何（。百（。年（。という（。時間の（。荒波に（。耐（。え（。抜（。く（。、言葉（。の（。凄（。みが（。宿（。って（。いる（。のですよ。",
+		"aftertaste": "インクは、魂の叫びを静止させ、永遠という名の時間に刻み込むための血潮です。",
+		"example": "The scholar spent years translating the ancient parchment to uncover the secrets of the lost civilization.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "Pergamum",
+					"meaning": "city in Asia Minor"
+				}
+			],
+			"points": [
+				"書くとは、世界を一度殺し、紙の上に新しい命を産み落とす行為なのかもしれません。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "vellum_ink",
+		"word": "vellum",
+		"meaning": "上質（。じょうしつ（。）」羊皮紙、ヴェラム",
+		"era": "15th Century",
+		"etymology": {
+			"components": [
+				"veal (calf)"
+			],
+			"original_statement": "From 15th Century veal (calf)."
+		},
+		"concept": "Fine parchment made originally from the skin of a calf (さらに（。若（。い（。命の（。肌を（。使った（。、「至高の（。紙（。ヴェール（。）」。（。透（。き（。通（。る（。ような（。滑（。らかさと（。、強（。靭（。さを（。併（。せ（。持（。つ（。、王（。侯（。貴族（。の（。ための（。聖域。)",
+		"thinking": "さらに（。若（。い（。命の（。肌を（。使った（。、「至高の（。紙（。ヴェール（。）」。（。透（。き（。通（。る（。ような（。滑（。らかさと（。、強（。靭（。さを（。併（。せ（。持（。つ（。、王（。侯（。貴族（。の（。ための（。聖域。",
+		"aftertaste": "インクは、魂の叫びを静止させ、永遠という名の時間に刻み込むための血潮です。",
+		"example": "The scholar spent years translating the ancient vellum to uncover the secrets of the lost civilization.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "veal",
+					"meaning": "calf"
+				}
+			],
+			"points": [
+				"書くとは、世界を一度殺し、紙の上に新しい命を産み落とす行為なのかもしれません。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "quill_ink",
+		"word": "quill",
+		"meaning": "（。鳥の（。）」羽（。ペン、羽軸、クイル",
+		"era": "16th Century",
+		"etymology": {
+			"components": [
+				"kiel (quill, stalk, literal: 'stalk')"
+			],
+			"original_statement": "From 16th Century kiel (quill, stalk, literal: 'stalk')."
+		},
+		"concept": "A pen made from a main wing or tail feather of a large bird (空（。を（。飛（。んでいた（。鳥の「一本の（。羽（。キール）』を（。、地上に（。真理を（。綴（。る（。ための（。杖（。へと（。変（。えた（。もの（。。（。その（。軽（。やかな（。一（。閃（。に（。、思考（。の（。風（。が（。宿（。る（。のですよ。)",
+		"thinking": "空（。を（。飛（。んでいた（。鳥の「一本の（。羽（。キール）』を（。、地上に（。真理を（。綴（。る（。ための（。杖（。へと（。変（。えた（。もの（。。（。その（。軽（。やかな（。一（。閃（。に（。、思考（。の（。風（。が（。宿（。る（。のですよ。",
+		"aftertaste": "インクは、魂の叫びを静止させ、永遠という名の時間に刻み込むための血潮です。",
+		"example": "The scholar spent years translating the ancient quill to uncover the secrets of the lost civilization.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kiel",
+					"meaning": "quill, stalk, literal: 'stalk'"
+				}
+			],
+			"points": [
+				"書くとは、世界を一度殺し、紙の上に新しい命を産み落とす行為なのかもしれません。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "stylus_ink",
+		"word": "stylus",
+		"meaning": "尖筆（。せんぴつ（。）」、レコード（。針、スタイラス",
+		"era": "18th Century",
+		"etymology": {
+			"components": [
+				"stilus (stake, pale, literal: 'pointed stick')"
+			],
+			"original_statement": "From 18th Century stilus (stake, pale, literal: 'pointed stick')."
+		},
+		"concept": "An ancient writing implement, consisting of a small rod with a pointed end for scratching letters on wax-covered tablets, and a blunt end for obliterating them (蝋（。の（。板（。に（。、魂の（。エナジーを「突（。き（。刺（。す（。スティ）」ことで（。刻（。み（。込（。む（。、鋭（。い（。意志（。。（。その（。一一点（。に、宇宙（。の（。全記憶（。を（。凝縮（。させた（。、尖（。端（。の（。知性。)",
+		"thinking": "蝋（。の（。板（。に（。、魂の（。エナジーを「突（。き（。刺（。す（。スティ）」ことで（。刻（。み（。込（。む（。、鋭（。い（。意志（。。（。その（。一一点（。に、宇宙（。の（。全記憶（。を（。凝縮（。させた（。、尖（。端（。の（。知性。",
+		"aftertaste": "インクは、魂の叫びを静止させ、永遠という名の時間に刻み込むための血潮です。",
+		"example": "The scholar spent years translating the ancient stylus to uncover the secrets of the lost civilization.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "stilus",
+					"meaning": "stake, pale, literal: 'pointed stick'"
+				}
+			],
+			"points": [
+				"書くとは、世界を一度殺し、紙の上に新しい命を産み落とす行為なのかもしれません。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "inscription_ink",
+		"word": "inscription",
+		"meaning": "碑文、刻銘、インスクリプション",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"in- (into, upon) + scribere (to write)"
+			],
+			"original_statement": "From 14th Century in- (into, upon) + scribere (to write)."
+		},
+		"concept": "Words inscribed, as on a monument or in a book (ただ（。の（。紙に（。ではなく（。、石（。や（。金属の（。表面（。に「刻（。み（。込（。まれ（。た（。スクリプト）中（。イン）」もの（。。（。それは（。、消（。し（。去（。ること（。の（。できない（。、永遠（。への（。誓（。い（。の（。証（。なのです。)",
+		"thinking": "ただ（。の（。紙に（。ではなく（。、石（。や（。金属の（。表面（。に「刻（。み（。込（。まれ（。た（。スクリプト）中（。イン）」もの（。。（。それは（。、消（。し（。去（。ること（。の（。できない（。、永遠（。への（。誓（。い（。の（。証（。なのです。",
+		"aftertaste": "インクは、魂の叫びを静止させ、永遠という名の時間に刻み込むための血潮です。",
+		"example": "The scholar spent years translating the ancient inscription to uncover the secrets of the lost civilization.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "in-",
+					"meaning": "into, upon) + scribere (to write"
+				}
+			],
+			"points": [
+				"書くとは、世界を一度殺し、紙の上に新しい命を産み落とす行為なのかもしれません。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "epitaph_ink",
+		"word": "epitaph",
+		"meaning": "墓碑銘、エピタフ",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"epi- (upon) + taphos (tomb, literal: 'on the tomb')"
+			],
+			"original_statement": "From 14th Century epi- (upon) + taphos (tomb, literal: 'on the tomb')."
+		},
+		"concept": "A phrase or statement written in memory of a person who has died, especially as an inscription on a tombstone (人生という（。物語が（。終わった（。後（。に（。、そっと「墓石の（。上へと（。エピ）置（。かれた（。）」最後（。の（。一行（。。（。死（。を（。越（。えた（。場所（。から（。届（。く（。、静（。かな（。る（。自己（。肯定。)",
+		"thinking": "人生という（。物語が（。終わった（。後（。に（。、そっと「墓石の（。上へと（。エピ）置（。かれた（。）」最後（。の（。一行（。。（。死（。を（。越（。えた（。場所（。から（。届（。く（。、静（。かな（。る（。自己（。肯定。",
+		"aftertaste": "インクは、魂の叫びを静止させ、永遠という名の時間に刻み込むための血潮です。",
+		"example": "The scholar spent years translating the ancient epitaph to uncover the secrets of the lost civilization.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "epi-",
+					"meaning": "upon) + taphos (tomb, literal: 'on the tomb'"
+				}
+			],
+			"points": [
+				"書くとは、世界を一度殺し、紙の上に新しい命を産み落とす行為なのかもしれません。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "footnote_ink",
+		"word": "footnote",
+		"meaning": "脚注、フットノート",
+		"era": "18th Century",
+		"etymology": {
+			"components": [
+				"foot + note"
+			],
+			"original_statement": "From 18th Century foot + note."
+		},
+		"concept": "An additional piece of information printed at the bottom of a page (思考の（。本流（。から（。一瞬（。外れ（。、頁の「足下（。フット）」へと（。そっと（。置（。かれた（。密（。かな（。囁（。き（。。（。そこ（。にこそ（。、著者（。の（。真（。実（。の（。想（。いが（。、隠（。されて（。いる（。の（。かも（。しれ（。ません。)",
+		"thinking": "思考の（。本流（。から（。一瞬（。外れ（。、頁の「足下（。フット）」へと（。そっと（。置（。かれた（。密（。かな（。囁（。き（。。（。そこ（。にこそ（。、著者（。の（。真（。実（。の（。想（。いが（。、隠（。されて（。いる（。の（。かも（。しれ（。ません。",
+		"aftertaste": "インクは、魂の叫びを静止させ、永遠という名の時間に刻み込むための血潮です。",
+		"example": "The scholar spent years translating the ancient footnote to uncover the secrets of the lost civilization.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "foot",
+					"meaning": "+ note"
+				}
+			],
+			"points": [
+				"書くとは、世界を一度殺し、紙の上に新しい命を産み落とす行為なのかもしれません。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "glyph_ink",
+		"word": "glyph",
+		"meaning": "象形文字、記号、グリフ",
+		"era": "18th Century",
+		"etymology": {
+			"components": [
+				"gluph- (to carve, hollow out, literal: 'to hollow out')"
+			],
+			"original_statement": "From 18th Century gluph- (to carve, hollow out, literal: 'to hollow out')."
+		},
+		"concept": "A hieroglyphic character or symbol (表面的な（。意味（。を（。環境（。を（。捨て（。、石（。を「彫（。り（。抜く（。グリフ）」ことで（。抽出（。さ（。れた（。、原初（。の（。かたち（。。（。その（。一（。点（。の（。窪（。みに（。、宇宙の（。全エナジー（。を（。、封印（。した（。もの。)",
+		"thinking": "表面的な（。意味（。を（。環境（。を（。捨て（。、石（。を「彫（。り（。抜く（。グリフ）」ことで（。抽出（。さ（。れた（。、原初（。の（。かたち（。。（。その（。一（。点（。の（。窪（。みに（。、宇宙の（。全エナジー（。を（。、封印（。した（。もの。",
+		"aftertaste": "インクは、魂の叫びを静止させ、永遠という名の時間に刻み込むための血潮です。",
+		"example": "The scholar spent years translating the ancient glyph to uncover the secrets of the lost civilization.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "gluph-",
+					"meaning": "to carve, hollow out, literal: 'to hollow out'"
+				}
+			],
+			"points": [
+				"書くとは、世界を一度殺し、紙の上に新しい命を産み落とす行為なのかもしれません。"
+			]
+		},
+		"part_of_speech": "noun"
 	}
 ];
