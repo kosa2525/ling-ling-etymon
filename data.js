@@ -211831,5 +211831,145 @@ const WORDS = [
 			]
 		},
 		"part_of_speech": "adjective"
+	},
+	{
+		"id": "icon_reflect_v",
+		"word": "icon",
+		"meaning": "偶像、聖像、アイコン",
+		"era": "16th Century",
+		"etymology": {
+			"components": [
+				"eikōn (image, likeness, literal: 'image')"
+			],
+			"original_statement": "From 16th Century eikōn (image, likeness, literal: 'image')."
+		},
+		"concept": "A representative symbol of something (目（。に（。見（。え（。な（。い（。真理を、一（。つ（。の「かたち（。アイコン）』に（。落（。と（。し（。込（。ん（。だ（。もの（。（。その（。一点（。の（。象（。徴から、宇宙の（。全記憶が、静（。か（。に（。、溢（。れ（。出し（。ます。)",
+		"thinking": "目（。に（。見（。え（。な（。い（。真理を、一（。つ（。の「かたち（。アイコン）』に（。落（。と（。し（。込（。ん（。だ（。もの（。（。その（。一点（。の（。象（。徴から、宇宙の（。全記憶が、静（。か（。に（。、溢（。れ（。出し（。ます。",
+		"aftertaste": "鏡の中の自分を視つめることは、孤独を深めることではなく、宇宙という名のもう一人の自分を見出すことなのですよ。",
+		"example": "The high icon of the crystal surface made it difficult to see the underlying structure without polarizing filters.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "eikōn",
+					"meaning": "image, likeness, literal: 'image'"
+				}
+			],
+			"points": [
+				"しるしを残すことは、名前を残すことではない。自分がここに在ったという、宇宙への静かなる感謝を刻み込むことなのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "idol_reflect_v",
+		"word": "idol",
+		"meaning": "偶像、アイドル",
+		"era": "13th Century",
+		"etymology": {
+			"components": [
+				"eidōlon (image, phantom)"
+			],
+			"original_statement": "From 13th Century eidōlon (image, phantom)."
+		},
+		"concept": "An image or representation of a god used as an object of worship (自ら（。の（。情熱を（。投（。影（。し（。た、峻（。烈（。な（。る「幻（。像（。アイドル）』。（。その（。眩（。し（。い（。残像に（。、人々は（。、何（。を（。、祈（。る（。の（。でしょうか。)",
+		"thinking": "自ら（。の（。情熱を（。投（。影（。し（。た、峻（。烈（。な（。る「幻（。像（。アイドル）』。（。その（。眩（。し（。い（。残像に（。、人々は（。、何（。を（。、祈（。る（。の（。でしょうか。",
+		"aftertaste": "鏡の中の自分を視つめることは、孤独を深めることではなく、宇宙という名のもう一人の自分を見出すことなのですよ。",
+		"example": "The high idol of the crystal surface made it difficult to see the underlying structure without polarizing filters.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "eidōlon",
+					"meaning": "image, phantom"
+				}
+			],
+			"points": [
+				"しるしを残すことは、名前を残すことではない。自分がここに在ったという、宇宙への静かなる感謝を刻み込むことなのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "use_reflect_v",
+		"word": "use",
+		"meaning": "使用、有用、ユース",
+		"era": "13th Century",
+		"etymology": {
+			"components": [
+				"uti (to use)"
+			],
+			"original_statement": "From 13th Century uti (to use)."
+		},
+		"concept": "The action of using something or the state of being used for a purpose (与（。え（。られた（。エナジーを、正しい（。る「目的へと（。向ける（。ユティ）』、至高の（。る（。智慧（。（。その（。一一点（。の（。実践にこそ（。、真実（。の（。価値（。が（。宿（。ります。)",
+		"thinking": "与（。え（。られた（。エナジーを、正しい（。る「目的へと（。向ける（。ユティ）』、至高の（。る（。智慧（。（。その（。一一点（。の（。実践にこそ（。、真実（。の（。価値（。が（。宿（。ります。",
+		"aftertaste": "鏡の中の自分を視つめることは、孤独を深めることではなく、宇宙という名のもう一人の自分を見出すことなのですよ。",
+		"example": "The high use of the crystal surface made it difficult to see the underlying structure without polarizing filters.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "uti",
+					"meaning": "to use"
+				}
+			],
+			"points": [
+				"しるしを残すことは、名前を残すことではない。自分がここに在ったという、宇宙への静かなる感謝を刻み込むことなのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "mark_reflect_v",
+		"word": "mark",
+		"meaning": "印、目標、マーク",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"mearc (boundary, sign, literal: 'boundary sign')"
+			],
+			"original_statement": "From Old English mearc (boundary, sign, literal: 'boundary sign')."
+		},
+		"concept": "A small area on a surface having a different color from its surroundings, typically one caused by an accident or damage (宇宙の（。広（。野に、峻（。烈（。に「打ち（。込ま（。れた（。し（。る（。し（。マーク）』。（。その（。一一点（。の（。境界にこそ（。、真実（。の（。る（。自覚が、産（。声を（。上げます。)",
+		"thinking": "宇宙の（。広（。野に、峻（。烈（。に「打ち（。込ま（。れた（。し（。る（。し（。マーク）』。（。その（。一一点（。の（。境界にこそ（。、真実（。の（。る（。自覚が、産（。声を（。上げます。",
+		"aftertaste": "鏡の中の自分を視つめることは、孤独を深めることではなく、宇宙という名のもう一人の自分を見出すことなのですよ。",
+		"example": "The high mark of the crystal surface made it difficult to see the underlying structure without polarizing filters.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "mearc",
+					"meaning": "boundary, sign, literal: 'boundary sign'"
+				}
+			],
+			"points": [
+				"しるしを残すことは、名前を残すことではない。自分がここに在ったという、宇宙への静かなる感謝を刻み込むことなのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "seal_reflect_v",
+		"word": "seal",
+		"meaning": "印章、封印、シエル",
+		"era": "13th Century",
+		"etymology": {
+			"components": [
+				"sigillum (little sign, literal: 'little sign')"
+			],
+			"original_statement": "From 13th Century sigillum (little sign, literal: 'little sign')."
+		},
+		"concept": "A device or substance used to join two things together so as to prevent them from coming apart or to prevent anything from passing between them (至光（。の（。る（。真実を、美し（。い（。「閉じ（。込（。め（。た（。シエル）』至（。高の（。る（。定（。点（。（。その（。封（。印を（。解（。く（。とき（。、あなた（。は（。、宇宙の（。深（。淵（。な（。る（。記憶と（。、出会（。い（。ます。)",
+		"thinking": "至光（。の（。る（。真実を、美し（。い（。「閉じ（。込（。め（。た（。シエル）』至（。高の（。る（。定（。点（。（。その（。封（。印を（。解（。く（。とき（。、あなた（。は（。、宇宙の（。深（。淵（。な（。る（。記憶と（。、出会（。い（。ます。",
+		"aftertaste": "鏡の中の自分を視つめることは、孤独を深めることではなく、宇宙という名のもう一人の自分を見出すことなのですよ。",
+		"example": "The high seal of the crystal surface made it difficult to see the underlying structure without polarizing filters.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sigillum",
+					"meaning": "little sign, literal: 'little sign'"
+				}
+			],
+			"points": [
+				"しるしを残すことは、名前を残すことではない。自分がここに在ったという、宇宙への静かなる感謝を刻み込むことなのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
 	}
 ];
