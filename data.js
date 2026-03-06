@@ -206203,5 +206203,61 @@ const WORDS = [
 			]
 		},
 		"part_of_speech": "adjective"
+	},
+	{
+		"id": "pulsar_stars",
+		"word": "pulsar",
+		"meaning": "パルサー、脈動変光星",
+		"era": "20th Century",
+		"etymology": {
+			"components": [
+				"pulse + -ar"
+			],
+			"original_statement": "From 20th Century pulse + -ar."
+		},
+		"concept": "A celestial object, thought to be a rapidly rotating neutron star, that emits regular pulses of radio waves and other electromagnetic radiation at rates of up to one thousand pulses per second (宇宙の（。深淵（。から（。、一寸（。の（。狂（。い（。もなく「脈動（。パルス）」を（。送り（。続ける（。、独（。り（。ぼっちの（。灯台（。（。その（。厳格（。な（。リズムが（。、虚無（。という（。名の（。闇を（。打ち（。破（。って（。いく（。のです。)",
+		"thinking": "宇宙の（。深淵（。から（。、一寸（。の（。狂（。い（。もなく「脈動（。パルス）」を（。送り（。続ける（。、独（。り（。ぼっちの（。灯台（。（。その（。厳格（。な（。リズムが（。、虚無（。という（。名の（。闇を（。打ち（。破（。って（。いく（。のです。",
+		"aftertaste": "銀河は、魂が再び一つに還る場所を夢見て、夜空に描き出したミルクの流れです。",
+		"example": "The astronomer studied the pulsar for signs of cosmic radiation and planetary formation.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "pulse",
+					"meaning": "+ -ar"
+				}
+			],
+			"points": [
+				"遠くの星が光って見えるのは、それが過去の輝きを今に届けているからなのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "quasar_stars",
+		"word": "quasar",
+		"meaning": "クエーサー、準星",
+		"era": "20th Century",
+		"etymology": {
+			"components": [
+				"quasi- (as if, almost) + stellar"
+			],
+			"original_statement": "From 20th Century quasi- (as if, almost) + stellar."
+		},
+		"concept": "A massive and extremely remote celestial object, emitting exceptionally large amounts of energy, and typically having a starlike image in a telescope (遥（。か（。な（。時空（。の（。果てで（。、まるで「星（。ステラ）の（。よう（。に（。クワシ）」振る舞（。う（。、巨大な（。エナジーの（。塊（。（。その（。眩（。し（。い（。咆（。哮（。は（。、宇宙の（。始まりの（。記憶を（。今に（。伝えて（。いる（。の（。ですよ。)",
+		"thinking": "遥（。か（。な（。時空（。の（。果てで（。、まるで「星（。ステラ）の（。よう（。に（。クワシ）」振る舞（。う（。、巨大な（。エナジーの（。塊（。（。その（。眩（。し（。い（。咆（。哮（。は（。、宇宙の（。始まりの（。記憶を（。今に（。伝えて（。いる（。の（。ですよ。",
+		"aftertaste": "銀河は、魂が再び一つに還る場所を夢見て、夜空に描き出したミルクの流れです。",
+		"example": "The astronomer studied the quasar for signs of cosmic radiation and planetary formation.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "quasi-",
+					"meaning": "as if, almost) + stellar"
+				}
+			],
+			"points": [
+				"遠くの星が光って見えるのは、それが過去の輝きを今に届けているからなのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
 	}
 ];
