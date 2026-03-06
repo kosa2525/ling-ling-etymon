@@ -195731,5 +195731,145 @@ const WORDS = [
 			]
 		},
 		"part_of_speech": "noun"
+	},
+	{
+		"id": "see_vision",
+		"word": "see",
+		"meaning": "見る、見える",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"seon (to see)"
+			],
+			"original_statement": "From Old English seon (to see)."
+		},
+		"concept": "Perceive with the eyes; discern visually (眼球というレンズを通して光を受け取り、ただ無意識に、受動的に、目の前の世界の表層を脳へと「入力させる」最も原始的な知覚。)",
+		"thinking": "眼球というレンズを通して光を受け取り、ただ無意識に、受動的に、目の前の世界の表層を脳へと「入力させる」最も原始的な知覚。",
+		"aftertaste": "目を開けてただ「シー（見ている）」だけでは、真実は絶対にあなたの心には届きません。",
+		"example": "Take a close see at this photograph.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "seon",
+					"meaning": "to see"
+				}
+			],
+			"points": [
+				"「見る」という行為のグラデーションこそが、世界の解像度を決定します。"
+			]
+		},
+		"part_of_speech": "verb"
+	},
+	{
+		"id": "look_vision",
+		"word": "look",
+		"meaning": "見る、目を向ける",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"locian (to look)"
+			],
+			"original_statement": "From Old English locian (to look)."
+		},
+		"concept": "Direct one's gaze toward someone or something or in a specified direction (視線を自らの強い意志で「特定の一点に向けて」動かし、対象の存在や状態を意図的に確認しようとする能動的なアクション。)",
+		"thinking": "視線を自らの強い意志で「特定の一点に向けて」動かし、対象の存在や状態を意図的に確認しようとする能動的なアクション。",
+		"aftertaste": "他人の意見など気にせず、自分が信じた道を真っ直ぐに「ルック（見据え）」ればいいのです。",
+		"example": "Take a close look at this photograph.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "locian",
+					"meaning": "to look"
+				}
+			],
+			"points": [
+				"「見る」という行為のグラデーションこそが、世界の解像度を決定します。"
+			]
+		},
+		"part_of_speech": "verb"
+	},
+	{
+		"id": "peep_vision",
+		"word": "peep",
+		"meaning": "のぞき見する",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"pipen (to pipe, chirp)"
+			],
+			"original_statement": "From 14th Century pipen (to pipe, chirp)."
+		},
+		"concept": "Look quickly and furtively at something, especially through a narrow opening (自分が安全な場所（隠れ家）にいることを確信しながら、壁の小さな穴から外の禁じられた世界を「こっそりと盗み見る」罪悪感と猛烈な好奇心。)",
+		"thinking": "自分が安全な場所（隠れ家）にいることを確信しながら、壁の小さな穴から外の禁じられた世界を「こっそりと盗み見る」罪悪感と猛烈な好奇心。",
+		"aftertaste": "ドアの隙間から「ピープ（覗き見）」したプレゼントの山のことで、朝まで興奮して一睡もできませんでした。",
+		"example": "Take a close peep at this photograph.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "pipen",
+					"meaning": "to pipe, chirp"
+				}
+			],
+			"points": [
+				"「見る」という行為のグラデーションこそが、世界の解像度を決定します。"
+			]
+		},
+		"part_of_speech": "verb"
+	},
+	{
+		"id": "peer_vision",
+		"word": "peer",
+		"meaning": "じっと見る、見を凝らす",
+		"era": "16th Century",
+		"etymology": {
+			"components": [
+				"piren (to look narrowly)"
+			],
+			"original_statement": "From 16th Century piren (to look narrowly)."
+		},
+		"concept": "Look keenly or with difficulty at someone or something (暗闇や濃霧の中など、極めて視界が悪い状況において、対象の形をなんとか捉えようと「目を細めて必死に」限界の知覚を試みること。)",
+		"thinking": "暗闇や濃霧の中など、極めて視界が悪い状況において、対象の形をなんとか捉えようと「目を細めて必死に」限界の知覚を試みること。",
+		"aftertaste": "どれほど分厚い老眼鏡の奥から「ピア（目を凝らす）」しても、彼にはもう昔の笑顔は見えませんでした。",
+		"example": "Take a close peer at this photograph.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "piren",
+					"meaning": "to look narrowly"
+				}
+			],
+			"points": [
+				"「見る」という行為のグラデーションこそが、世界の解像度を決定します。"
+			]
+		},
+		"part_of_speech": "verb"
+	},
+	{
+		"id": "scan_vision",
+		"word": "scan",
+		"meaning": "ざっと見る、スキャンする",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"scandere (to climb, read poetry)"
+			],
+			"original_statement": "From 14th Century scandere (to climb, read poetry)."
+		},
+		"concept": "Look at all parts of something carefully in order to detect some feature (文字や風景などの広範囲な情報を、まるで機械のように規則正しく「端から端までなぞって」、特定の意味や危険を一気に探し出そうとする検索。)",
+		"thinking": "文字や風景などの広範囲な情報を、まるで機械のように規則正しく「端から端までなぞって」、特定の意味や危険を一気に探し出そうとする検索。",
+		"aftertaste": "混雑したパーティー会場を「スキャン（素早く見回す）」して、たった一人を探す時のあの切実な気持ち。",
+		"example": "Take a close scan at this photograph.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "scandere",
+					"meaning": "to climb, read poetry"
+				}
+			],
+			"points": [
+				"「見る」という行為のグラデーションこそが、世界の解像度を決定します。"
+			]
+		},
+		"part_of_speech": "verb"
 	}
 ];
