@@ -207995,5 +207995,229 @@ const WORDS = [
 			]
 		},
 		"part_of_speech": "noun"
+	},
+	{
+		"id": "polygon_geometry",
+		"word": "polygon",
+		"meaning": "多角形、ポリゴン",
+		"era": "16th Century",
+		"etymology": {
+			"components": [
+				"polus (many) + gonia (angle)"
+			],
+			"original_statement": "From 16th Century polus (many) + gonia (angle)."
+		},
+		"concept": "A plane figure with at least three straight sides and angles, and typically five or more (無数（。の（。視点が（。「多（。く（。ポリス）の（。角（。ゴニア）」となって（。、一（。つ（。の（。図（。形を（。構築（。する（。こと（。。（。その（。鋭（。い（。輪郭（。の（。集（。積が（。、単（。純（。な（。空間に（。、複雑（。な（。る（。意味（。を（。産（。み（。出す（。のですよ。)",
+		"thinking": "無数（。の（。視点が（。「多（。く（。ポリス）の（。角（。ゴニア）」となって（。、一（。つ（。の（。図（。形を（。構築（。する（。こと（。。（。その（。鋭（。い（。輪郭（。の（。集（。積が（。、単（。純（。な（。空間に（。、複雑（。な（。る（。意味（。を（。産（。み（。出す（。のですよ。",
+		"aftertaste": "直線は人間の意志であり、曲線は神の慈悲です。その二つが交差するとき、そこに美しさが生まれるのですよ。",
+		"example": "The architect used a complex set of polygon equations to design the groundbreaking dome structure.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "polus",
+					"meaning": "many) + gonia (angle"
+				}
+			],
+			"points": [
+				"形があるということは、そこには必ず、それを支えるための見えない調和が宿っているということなのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "asymptote_geometry",
+		"word": "asymptote",
+		"meaning": "漸近線（。ぜんきんせん（。）」、アシンプトート",
+		"era": "17th Century",
+		"etymology": {
+			"components": [
+				"a- (not) + sun- (with, together) + piptein (to fall, literal: 'not falling together')"
+			],
+			"original_statement": "From 17th Century a- (not) + sun- (with, together) + piptein (to fall, literal: 'not falling together')."
+		},
+		"concept": "A line that a curve approaches, as it heads towards infinity (どこ（。まで（。も（。近（。づ（。き（。なが（。ら（。、ついに「（。共（。に（。サン）落（。ち（。る（。プトゥ）こと（。の（。な（。い（。ア）」、永遠（。の（。憧（。れ（。。（。届（。か（。な（。い（。から（。こそ（。、追求（。は（。、至高（。の（。エナジーを（。、放（。ち（。、続け（。る（。のです。)",
+		"thinking": "どこ（。まで（。も（。近（。づ（。き（。なが（。ら（。、ついに「（。共（。に（。サン）落（。ち（。る（。プトゥ）こと（。の（。な（。い（。ア）」、永遠（。の（。憧（。れ（。。（。届（。か（。な（。い（。から（。こそ（。、追求（。は（。、至高（。の（。エナジーを（。、放（。ち（。、続け（。る（。のです。",
+		"aftertaste": "直線は人間の意志であり、曲線は神の慈悲です。その二つが交差するとき、そこに美しさが生まれるのですよ。",
+		"example": "The architect used a complex set of asymptote equations to design the groundbreaking dome structure.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "a-",
+					"meaning": "not) + sun- (with, together) + piptein (to fall, literal: 'not falling together'"
+				}
+			],
+			"points": [
+				"形があるということは、そこには必ず、それを支えるための見えない調和が宿っているということなのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "parabola_geometry",
+		"word": "parabola",
+		"meaning": "放物線、パラボラ",
+		"era": "16th Century",
+		"etymology": {
+			"components": [
+				"para- (beside) + ballein (to throw, literal: 'throwing beside')"
+			],
+			"original_statement": "From 16th Century para- (beside) + ballein (to throw, literal: 'throwing beside')."
+		},
+		"concept": "A symmetrical open plane curve formed by the intersection of a cone with a plane parallel to its side (重力（。という（。名の（。抱擁（。を（。、ただ（。横へと「投げ（。投げ（。出す（。バロ）パラ）」ことで（。描（。か（。れる（。、美し（。い（。曲線（。。（。その（。放物（。の（。果てに（。、あなた（。は（。、全（。てを（。受け（。入れ（。る（。、無（。窮（。な（。る（。愛（。に（。辿（。り（。着（。く（。のです。)",
+		"thinking": "重力（。という（。名の（。抱擁（。を（。、ただ（。横へと「投げ（。投げ（。出す（。バロ）パラ）」ことで（。描（。か（。れる（。、美し（。い（。曲線（。。（。その（。放物（。の（。果てに（。、あなた（。は（。、全（。てを（。受け（。入れ（。る（。、無（。窮（。な（。る（。愛（。に（。辿（。り（。着（。く（。のです。",
+		"aftertaste": "直線は人間の意志であり、曲線は神の慈悲です。その二つが交差するとき、そこに美しさが生まれるのですよ。",
+		"example": "The architect used a complex set of parabola equations to design the groundbreaking dome structure.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "para-",
+					"meaning": "beside) + ballein (to throw, literal: 'throwing beside'"
+				}
+			],
+			"points": [
+				"形があるということは、そこには必ず、それを支えるための見えない調和が宿っているということなのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "hyperbola_geometry",
+		"word": "hyperbola",
+		"meaning": "双曲線、ハイパーボラ",
+		"era": "17th Century",
+		"etymology": {
+			"components": [
+				"huper- (over, beyond) + ballein (to throw, literal: 'excessive throwing')"
+			],
+			"original_statement": "From 17th Century huper- (over, beyond) + ballein (to throw, literal: 'excessive throwing')."
+		},
+		"concept": "A symmetrical open curve formed by the intersection of a circular cone with a plane at a smaller angle with its axis than the side of the cone (情熱が（。限界を「越（。え（。て（。ハイパー）投げ（。出さ（。れた（。バロ）」、二（。つの（。対（。極（。な（。る（。物語（。。（。決して（。交（。わ（。ら（。な（。い（。その（。間（。隙（。にこそ（。、宇宙の（。真（。実（。が（。、静（。か（。に（。、横（。たわ（。って（。いる（。のですよ。)",
+		"thinking": "情熱が（。限界を「越（。え（。て（。ハイパー）投げ（。出さ（。れた（。バロ）」、二（。つの（。対（。極（。な（。る（。物語（。。（。決して（。交（。わ（。ら（。な（。い（。その（。間（。隙（。にこそ（。、宇宙の（。真（。実（。が（。、静（。か（。に（。、横（。たわ（。って（。いる（。のですよ。",
+		"aftertaste": "直線は人間の意志であり、曲線は神の慈悲です。その二つが交差するとき、そこに美しさが生まれるのですよ。",
+		"example": "The architect used a complex set of hyperbola equations to design the groundbreaking dome structure.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "huper-",
+					"meaning": "over, beyond) + ballein (to throw, literal: 'excessive throwing'"
+				}
+			],
+			"points": [
+				"形があるということは、そこには必ず、それを支えるための見えない調和が宿っているということなのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "radius_geometry",
+		"word": "radius",
+		"meaning": "半径、スポーク、放射状のもの",
+		"era": "16th Century",
+		"etymology": {
+			"components": [
+				"radius (staff, spoke, ray, literal: 'spoke of a wheel')"
+			],
+			"original_statement": "From 16th Century radius (staff, spoke, ray, literal: 'spoke of a wheel')."
+		},
+		"concept": "A straight line from the center to the circumference of a circle or sphere (中心（。からの（。想（。いを（。、四方（。八（。方（。へと「一（。筋（。の（。光（。ラディ）として（。）」、放（。つ（。こと（。。（。あなた（。の（。その（。たった（。一本（。の（。意志（。が（。、世界（。の（。全（。周囲を（。、支（。えて（。いる（。のですよ。)",
+		"thinking": "中心（。からの（。想（。いを（。、四方（。八（。方（。へと「一（。筋（。の（。光（。ラディ）として（。）」、放（。つ（。こと（。。（。あなた（。の（。その（。たった（。一本（。の（。意志（。が（。、世界（。の（。全（。周囲を（。、支（。えて（。いる（。のですよ。",
+		"aftertaste": "直線は人間の意志であり、曲線は神の慈悲です。その二つが交差するとき、そこに美しさが生まれるのですよ。",
+		"example": "The architect used a complex set of radius equations to design the groundbreaking dome structure.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "radius",
+					"meaning": "staff, spoke, ray, literal: 'spoke of a wheel'"
+				}
+			],
+			"points": [
+				"形があるということは、そこには必ず、それを支えるための見えない調和が宿っているということなのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "diameter_geometry",
+		"word": "diameter",
+		"meaning": "直径、ダイアメーター",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"dia- (across) + metron (measure)"
+			],
+			"original_statement": "From 14th Century dia- (across) + metron (measure)."
+		},
+		"concept": "A straight line passing from side to side through the center of a body or figure, especially a circle or sphere (沈黙の（。中心（。を「貫（。き（。通（。して（。ダイア）測る（。メター）」こと（。。（。二（。つの（。極性（。を（。、最短（。の（。距離（。で（。繋（。ぎ（。合わせ（。た（。とき（。、そこ（。には（。、盤石（。な（。る（。均衡が（。、生まれる（。のですよ。)",
+		"thinking": "沈黙の（。中心（。を「貫（。き（。通（。して（。ダイア）測る（。メター）」こと（。。（。二（。つの（。極性（。を（。、最短（。の（。距離（。で（。繋（。ぎ（。合わせ（。た（。とき（。、そこ（。には（。、盤石（。な（。る（。均衡が（。、生まれる（。のですよ。",
+		"aftertaste": "直線は人間の意志であり、曲線は神の慈悲です。その二つが交差するとき、そこに美しさが生まれるのですよ。",
+		"example": "The architect used a complex set of diameter equations to design the groundbreaking dome structure.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "dia-",
+					"meaning": "across) + metron (measure"
+				}
+			],
+			"points": [
+				"形があるということは、そこには必ず、それを支えるための見えない調和が宿っているということなのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "segment_geometry",
+		"word": "segment",
+		"meaning": "断片、線分、セグメント",
+		"era": "16th Century",
+		"etymology": {
+			"components": [
+				"secare (to cut)"
+			],
+			"original_statement": "From 16th Century secare (to cut)."
+		},
+		"concept": "Each of the parts into which something is or may be divided (一（。つ（。の（。物（。語が（。、「切り（。離さ（。れた（。セグ）」小（。さな（。る（。欠片（。。（。その（。断片（。一（。つ（。を（。愛しく（。見（。つめる（。とき（。、あなた（。は（。、全体（。という（。名の（。宇宙に（。、再び（。触（。れる（。の（。ですよ。)",
+		"thinking": "一（。つ（。の（。物（。語が（。、「切り（。離さ（。れた（。セグ）」小（。さな（。る（。欠片（。。（。その（。断片（。一（。つ（。を（。愛しく（。見（。つめる（。とき（。、あなた（。は（。、全体（。という（。名の（。宇宙に（。、再び（。触（。れる（。の（。ですよ。",
+		"aftertaste": "直線は人間の意志であり、曲線は神の慈悲です。その二つが交差するとき、そこに美しさが生まれるのですよ。",
+		"example": "The architect used a complex set of segment equations to design the groundbreaking dome structure.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "secare",
+					"meaning": "to cut"
+				}
+			],
+			"points": [
+				"形があるということは、そこには必ず、それを支えるための見えない調和が宿っているということなのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "chord_geometry",
+		"word": "chord",
+		"meaning": "弦、和音、和弦、コード",
+		"era": "16th Century",
+		"etymology": {
+			"components": [
+				"khorde (string, catgut)"
+			],
+			"original_statement": "From 16th Century khorde (string, catgut)."
+		},
+		"concept": "A straight line joining the ends of an arc (二（。つの（。点を（。、見えない（。糸（。で「張り（。巡（。ら（。す（。コー）』こと（。。（。その（。一本（。の（。糸が（。、風（。に（。震（。える（。とき（。、世界（。は（。、自分（。だけの（。新（。し（。い（。旋律（。を（。、奏（。で（。始める（。のですよ。)",
+		"thinking": "二（。つの（。点を（。、見えない（。糸（。で「張り（。巡（。ら（。す（。コー）』こと（。。（。その（。一本（。の（。糸が（。、風（。に（。震（。える（。とき（。、世界（。は（。、自分（。だけの（。新（。し（。い（。旋律（。を（。、奏（。で（。始める（。のですよ。",
+		"aftertaste": "直線は人間の意志であり、曲線は神の慈悲です。その二つが交差するとき、そこに美しさが生まれるのですよ。",
+		"example": "The architect used a complex set of chord equations to design the groundbreaking dome structure.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "khorde",
+					"meaning": "string, catgut"
+				}
+			],
+			"points": [
+				"形があるということは、そこには必ず、それを支えるための見えない調和が宿っているということなのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
 	}
 ];
