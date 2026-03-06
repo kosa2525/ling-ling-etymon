@@ -204243,5 +204243,397 @@ const WORDS = [
 			]
 		},
 		"part_of_speech": "noun"
+	},
+	{
+		"id": "sonic_sound",
+		"word": "sonic",
+		"meaning": "音の、音速の、ソニック",
+		"era": "20th Century",
+		"etymology": {
+			"components": [
+				"sonus (sound)"
+			],
+			"original_statement": "From 20th Century sonus (sound)."
+		},
+		"concept": "Relating to or using sound waves (空気（。を（。震（。わせる（。、「響き（。ソヌス）」その（。もの（。。（。目（。には（。見えない（。けれど（。、確（。かに（。世界を（。揺さ（。ぶ（。って（。いる（。、不可視の（。エナジー。)",
+		"thinking": "空気（。を（。震（。わせる（。、「響き（。ソヌス）」その（。もの（。。（。目（。には（。見えない（。けれど（。、確（。かに（。世界を（。揺さ（。ぶ（。って（。いる（。、不可視の（。エナジー。",
+		"aftertaste": "音楽は、言葉が沈黙したときに初めて聞こえてくる、宇宙の囁きです。",
+		"example": "The orchestra performed a moving sonic that touched the hearts of the audience.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sonus",
+					"meaning": "sound"
+				}
+			],
+			"points": [
+				"音とは、静止した物質を、再びエナジーへと還すための魔法の振動なのです。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "acoustic_sound",
+		"word": "acoustic",
+		"meaning": "音響の、アコースティック",
+		"era": "17th Century",
+		"etymology": {
+			"components": [
+				"akouein (to hear)"
+			],
+			"original_statement": "From 17th Century akouein (to hear)."
+		},
+		"concept": "Relating to sound or the sense of hearing (道具（。に（。頼（。ら（。ず（。、ただ「聴（。く（。アコ）」こと（。を（。通じて（。、相手（。と（。直（。接（。繋（。が（。ろ（。う（。とする（。、誠実（。な（。響き。)",
+		"thinking": "道具（。に（。頼（。ら（。ず（。、ただ「聴（。く（。アコ）」こと（。を（。通じて（。、相手（。と（。直（。接（。繋（。が（。ろ（。う（。とする（。、誠実（。な（。響き。",
+		"aftertaste": "音楽は、言葉が沈黙したときに初めて聞こえてくる、宇宙の囁きです。",
+		"example": "The orchestra performed a moving acoustic that touched the hearts of the audience.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "akouein",
+					"meaning": "to hear"
+				}
+			],
+			"points": [
+				"音とは、静止した物質を、再びエナジーへと還すための魔法の振動なのです。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "metronome_sound",
+		"word": "metronome",
+		"meaning": "メトロノーム",
+		"era": "19th Century",
+		"etymology": {
+			"components": [
+				"metron (measure) + nomos (law)"
+			],
+			"original_statement": "From 19th Century metron (measure) + nomos (law)."
+		},
+		"concept": "A device used by musicians that marks time at a selected rate by giving a regular tick (時を（。恣意（。的に（。流（。す（。のを（。止め（。、厳格な「秩序（。ノモス）という（。度（。盛り（。メトロン）」に（。自らを（。律（。する（。こと（。。（。正確な（。反復（。が（。、自由な（。芸術（。を（。支（。える（。、静かなる（。背骨。)",
+		"thinking": "時を（。恣意（。的に（。流（。す（。のを（。止め（。、厳格な「秩序（。ノモス）という（。度（。盛り（。メトロン）」に（。自らを（。律（。する（。こと（。。（。正確な（。反復（。が（。、自由な（。芸術（。を（。支（。える（。、静かなる（。背骨。",
+		"aftertaste": "音楽は、言葉が沈黙したときに初めて聞こえてくる、宇宙の囁きです。",
+		"example": "The orchestra performed a moving metronome that touched the hearts of the audience.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "metron",
+					"meaning": "measure) + nomos (law"
+				}
+			],
+			"points": [
+				"音とは、静止した物質を、再びエナジーへと還すための魔法の振動なのです。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "symphonia_sound",
+		"word": "symphonia",
+		"meaning": "合奏、調和、シンフォニア",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"sun- (together) + phone (voice, sound)"
+			],
+			"original_statement": "From 14th Century sun- (together) + phone (voice, sound)."
+		},
+		"concept": "An instrumental interlude in a large-scale vocal work (異（。なる（。魂が（。、「共に（。サン）一つの（。響き（。フォン）」を（。奏（。で（。る（。こと（。。（。摩擦（。さえも（。、長い（。物語の（。中で（。、一つ（。の（。美（。しい（。線（。へと（。収束（。し（。て（。いく（。のです。)",
+		"thinking": "異（。なる（。魂が（。、「共に（。サン）一つの（。響き（。フォン）」を（。奏（。で（。る（。こと（。。（。摩擦（。さえも（。、長い（。物語の（。中で（。、一つ（。の（。美（。しい（。線（。へと（。収束（。し（。て（。いく（。のです。",
+		"aftertaste": "音楽は、言葉が沈黙したときに初めて聞こえてくる、宇宙の囁きです。",
+		"example": "The orchestra performed a moving symphonia that touched the hearts of the audience.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sun-",
+					"meaning": "together) + phone (voice, sound"
+				}
+			],
+			"points": [
+				"音とは、静止した物質を、再びエナジーへと還すための魔法の振動なのです。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "aria_sound",
+		"word": "aria",
+		"meaning": "アリア、独唱曲、詠唱",
+		"era": "18th Century",
+		"etymology": {
+			"components": [
+				"aer (air)"
+			],
+			"original_statement": "From 18th Century aer (air)."
+		},
+		"concept": "A long accompanied song for a solo voice, typically one in an opera or oratorio (物語（。を（。中（。断し（。、ただ「空気（。エア）その（。もの」と（。なって（。、自ら（。の（。情熱を（。高（。らかに（。歌（。い（。上げる（。こと（。。（。孤独（。な（。まで（。の（。、至高（。の（。自己（。肯定。)",
+		"thinking": "物語（。を（。中（。断し（。、ただ「空気（。エア）その（。もの」と（。なって（。、自ら（。の（。情熱を（。高（。らかに（。歌（。い（。上げる（。こと（。。（。孤独（。な（。まで（。の（。、至高（。の（。自己（。肯定。",
+		"aftertaste": "音楽は、言葉が沈黙したときに初めて聞こえてくる、宇宙の囁きです。",
+		"example": "The orchestra performed a moving aria that touched the hearts of the audience.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "aer",
+					"meaning": "air"
+				}
+			],
+			"points": [
+				"音とは、静止した物質を、再びエナジーへと還すための魔法の振動なのです。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "ensemble_sound",
+		"word": "ensemble",
+		"meaning": "アンサンブル、合議、一揃い",
+		"era": "18th Century",
+		"etymology": {
+			"components": [
+				"com- (together) + simul (at same time)"
+			],
+			"original_statement": "From 18th Century com- (together) + simul (at same time)."
+		},
+		"concept": "A group of musicians, actors, or dancers who perform together (個々の（。エゴ（。を（。手放（。し（。、「同時（。に（。シムル）共に（。コン）在（。る（。）」こと（。。（。そこ（。には（。、一（。人（。では（。辿（。り（。着（。け（。ない（。、巨大（。な（。調和（。の（。頂（。が（。あります。)",
+		"thinking": "個々の（。エゴ（。を（。手放（。し（。、「同時（。に（。シムル）共に（。コン）在（。る（。）」こと（。。（。そこ（。には（。、一（。人（。では（。辿（。り（。着（。け（。ない（。、巨大（。な（。調和（。の（。頂（。が（。あります。",
+		"aftertaste": "音楽は、言葉が沈黙したときに初めて聞こえてくる、宇宙の囁きです。",
+		"example": "The orchestra performed a moving ensemble that touched the hearts of the audience.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "com-",
+					"meaning": "together) + simul (at same time"
+				}
+			],
+			"points": [
+				"音とは、静止した物質を、再びエナジーへと還すための魔法の振動なのです。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "sonata_sound",
+		"word": "sonata",
+		"meaning": "ソナタ、奏鳴曲",
+		"era": "17th Century",
+		"etymology": {
+			"components": [
+				"sonare (to sound)"
+			],
+			"original_statement": "From 17th Century sonare (to sound)."
+		},
+		"concept": "A composition for an instrumental soloist, often with a piano accompaniment, typically in several movements with one or more in sonata form (言葉（。を（。持（。た（。ず（。、ただ（。純粋（。な「響き（。ソナ）だけ（。）」で（。、宇宙の（。真理を（。語（。ろ（。う（。とする（。、静（。か（。な（。る（。対話。)",
+		"thinking": "言葉（。を（。持（。た（。ず（。、ただ（。純粋（。な「響き（。ソナ）だけ（。）」で（。、宇宙の（。真理を（。語（。ろ（。う（。とする（。、静（。か（。な（。る（。対話。",
+		"aftertaste": "音楽は、言葉が沈黙したときに初めて聞こえてくる、宇宙の囁きです。",
+		"example": "The orchestra performed a moving sonata that touched the hearts of the audience.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sonare",
+					"meaning": "to sound"
+				}
+			],
+			"points": [
+				"音とは、静止した物質を、再びエナジーへと還すための魔法の振動なのです。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "requiem_sound",
+		"word": "requiem",
+		"meaning": "安魂曲、鎮魂歌、レクイエム",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"re- (again) + quies (rest, quiet)"
+			],
+			"original_statement": "From 14th Century re- (again) + quies (rest, quiet)."
+		},
+		"concept": "A Mass for the repose of the souls of the dead (戦（。い（。を（。終（。わ（。らせ（。、魂を「再び（。リ）静寂（。クイエ）へと（。）」誘（。う（。ための（。、最後（。の（。旋律（。。（。悲（。し（。み（。を（。越え（。て（。、命の（。軌跡を（。祝福（。する（。ための（。祈り。)",
+		"thinking": "戦（。い（。を（。終（。わ（。らせ（。、魂を「再び（。リ）静寂（。クイエ）へと（。）」誘（。う（。ための（。、最後（。の（。旋律（。。（。悲（。し（。み（。を（。越え（。て（。、命の（。軌跡を（。祝福（。する（。ための（。祈り。",
+		"aftertaste": "音楽は、言葉が沈黙したときに初めて聞こえてくる、宇宙の囁きです。",
+		"example": "The orchestra performed a moving requiem that touched the hearts of the audience.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "re-",
+					"meaning": "again) + quies (rest, quiet"
+				}
+			],
+			"points": [
+				"音とは、静止した物質を、再びエナジーへと還すための魔法の振動なのです。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "dissonance_sound",
+		"word": "dissonance",
+		"meaning": "不協和音、不一致、ディソナンス",
+		"era": "15th Century",
+		"etymology": {
+			"components": [
+				"dis- (apart) + sonare (to sound)"
+			],
+			"original_statement": "From 15th Century dis- (apart) + sonare (to sound)."
+		},
+		"concept": "A lack of harmony among musical notes; a tension or clash resulting from the combination of two disharmonious or unsuitable elements (お互いの（。響きが（。「離（。れて（。ディ）鳴（。る（。ソン）」こと（。。（。その（。鋭（。い（。摩擦（。が（。、いつか（。高（。次元な（。調和へと（。至（。る（。ための（。、不可避な（。プロセス（。なの（。ですよ。)",
+		"thinking": "お互いの（。響きが（。「離（。れて（。ディ）鳴（。る（。ソン）」こと（。。（。その（。鋭（。い（。摩擦（。が（。、いつか（。高（。次元な（。調和へと（。至（。る（。ための（。、不可避な（。プロセス（。なの（。ですよ。",
+		"aftertaste": "音楽は、言葉が沈黙したときに初めて聞こえてくる、宇宙の囁きです。",
+		"example": "The orchestra performed a moving dissonance that touched the hearts of the audience.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "dis-",
+					"meaning": "apart) + sonare (to sound"
+				}
+			],
+			"points": [
+				"音とは、静止した物質を、再びエナジーへと還すための魔法の振動なのです。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "polyphony_sound",
+		"word": "polyphony",
+		"meaning": "多声音楽、ポリフォニー",
+		"era": "19th Century",
+		"etymology": {
+			"components": [
+				"polu- (many) + phone (voice, sound)"
+			],
+			"original_statement": "From 19th Century polu- (many) + phone (voice, sound)."
+		},
+		"concept": "The style of simultaneously combining a number of parts, each forming an individual melody and harmonizing with each other (一（。つの（。正解（。に（。集約（。さ（。れ（。ず（。、「多（。くの（。ポリ）声（。フォン）」が（。バラバラに（。あり（。な（。がら（。、一つの（。タペストリーを（。織（。り（。上げて（。いく（。、自由な（。響き。)",
+		"thinking": "一（。つの（。正解（。に（。集約（。さ（。れ（。ず（。、「多（。くの（。ポリ）声（。フォン）」が（。バラバラに（。あり（。な（。がら（。、一つの（。タペストリーを（。織（。り（。上げて（。いく（。、自由な（。響き。",
+		"aftertaste": "音楽は、言葉が沈黙したときに初めて聞こえてくる、宇宙の囁きです。",
+		"example": "The orchestra performed a moving polyphony that touched the hearts of the audience.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "polu-",
+					"meaning": "many) + phone (voice, sound"
+				}
+			],
+			"points": [
+				"音とは、静止した物質を、再びエナジーへと還すための魔法の振動なのです。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "chromatic_sound",
+		"word": "chromatic",
+		"meaning": "半音階の、色彩豊かな、クロマチック",
+		"era": "17th Century",
+		"etymology": {
+			"components": [
+				"khroma (color)"
+			],
+			"original_statement": "From 17th Century khroma (color)."
+		},
+		"concept": "Relating to or using notes not belonging to the diatonic scale of the key in which a passage is written (単なる（。白（。と（。黒（。ではなく（。、数（。え（。切（。れ（。ない（。「色彩（。クロマ）」の（。中（。を（。縫（。い（。合わせる（。こと（。。（。全（。て（。の色を（。受け（。入れ（。、一歩（。一歩（。を（。大切に（。刻（。む（。姿勢。)",
+		"thinking": "単なる（。白（。と（。黒（。ではなく（。、数（。え（。切（。れ（。ない（。「色彩（。クロマ）」の（。中（。を（。縫（。い（。合わせる（。こと（。。（。全（。て（。の色を（。受け（。入れ（。、一歩（。一歩（。を（。大切に（。刻（。む（。姿勢。",
+		"aftertaste": "音楽は、言葉が沈黙したときに初めて聞こえてくる、宇宙の囁きです。",
+		"example": "The orchestra performed a moving chromatic that touched the hearts of the audience.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "khroma",
+					"meaning": "color"
+				}
+			],
+			"points": [
+				"音とは、静止した物質を、再びエナジーへと還すための魔法の振動なのです。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "vibrato_sound",
+		"word": "vibrato",
+		"meaning": "ビブラート、震え",
+		"era": "19th Century",
+		"etymology": {
+			"components": [
+				"vibrare (to shake)"
+			],
+			"original_statement": "From 19th Century vibrare (to shake)."
+		},
+		"concept": "A rapid, slight variation in pitch in singing or playing some musical instruments, producing a stronger or richer tone (一点（。に（。固（。執（。せず（。、魂を「震（。え（。ヴィブラ）させる（。）」こと（。。（。その（。ゆら（。ぎの中に（。、この（。世の（。あり（。と（。あらゆる（。情緒が（。宿（。って（。いる（。のですよ。)",
+		"thinking": "一点（。に（。固（。執（。せず（。、魂を「震（。え（。ヴィブラ）させる（。）」こと（。。（。その（。ゆら（。ぎの中に（。、この（。世の（。あり（。と（。あらゆる（。情緒が（。宿（。って（。いる（。のですよ。",
+		"aftertaste": "音楽は、言葉が沈黙したときに初めて聞こえてくる、宇宙の囁きです。",
+		"example": "The orchestra performed a moving vibrato that touched the hearts of the audience.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "vibrare",
+					"meaning": "to shake"
+				}
+			],
+			"points": [
+				"音とは、静止した物質を、再びエナジーへと還すための魔法の振動なのです。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "soprano_sound",
+		"word": "soprano",
+		"meaning": "ソプラノ、最高音域",
+		"era": "18th Century",
+		"etymology": {
+			"components": [
+				"supra (above)"
+			],
+			"original_statement": "From 18th Century supra (above)."
+		},
+		"concept": "The highest of the four standard singing voices (地上（。の（。泥（。から（。遥（。かに「上（。スープラ）の高み」へと（。至（。り（。、天の（。光を（。直（。接（。言葉（。に（。変える（。、純粋（。な（。る（。祈り。)",
+		"thinking": "地上（。の（。泥（。から（。遥（。かに「上（。スープラ）の高み」へと（。至（。り（。、天の（。光を（。直（。接（。言葉（。に（。変える（。、純粋（。な（。る（。祈り。",
+		"aftertaste": "あなた（。の中（。の（。最も（。高貴（。な（。エッセンスを（。、言葉（。という（。名の「ソプラノ」で（。世界に（。放（。って（。ください。",
+		"example": "The orchestra performed a moving soprano that touched the hearts of the audience.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "supra",
+					"meaning": "above"
+				}
+			],
+			"points": [
+				"音とは、静止した物質を、再びエナジーへと還すための魔法の振動なのです。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "tenor_sound",
+		"word": "tenor",
+		"meaning": "テノール、趣旨、持続",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"tenere (to hold)"
+			],
+			"original_statement": "From 14th Century tenere (to hold)."
+		},
+		"concept": "A singing voice between baritone and alto or countertenor, the highest of the ordinary adult male range (ただ（。歌う（。のではなく（。、物語（。の（。中核（。を「しっかりと（。把（。持（。して（。テネ）離（。さない（。）」、情熱的（。な（。る（。持続。)",
+		"thinking": "ただ（。歌う（。のではなく（。、物語（。の（。中核（。を「しっかりと（。把（。持（。して（。テネ）離（。さない（。）」、情熱的（。な（。る（。持続。",
+		"aftertaste": "音楽は、言葉が沈黙したときに初めて聞こえてくる、宇宙の囁きです。",
+		"example": "The orchestra performed a moving tenor that touched the hearts of the audience.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "tenere",
+					"meaning": "to hold"
+				}
+			],
+			"points": [
+				"音とは、静止した物質を、再びエナジーへと還すための魔法の振動なのです。"
+			]
+		},
+		"part_of_speech": "noun"
 	}
 ];
