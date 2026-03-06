@@ -212167,5 +212167,33 @@ const WORDS = [
 			]
 		},
 		"part_of_speech": "noun"
+	},
+	{
+		"id": "transmutation_change",
+		"word": "transmutation",
+		"meaning": "錬金（。変容、変換、トランスミューテーション",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"trans- (across) + mutare (to change, literal: 'changing across')"
+			],
+			"original_statement": "From 14th Century trans- (across) + mutare (to change, literal: 'changing across')."
+		},
+		"concept": "The action of changing or the state of being changed into another form (一（。つ（。の（。次元を（。越元（。て、「至高（。のへと（。、組み（。替（。える（。トランス）』こと（。（。鉛を（。金へと（。変（。え（。る（。ように、あなた（。の（。魂は、この（。不（。条理な（。る（。世界を、眩（。し（。い（。智慧へと（。変（。える（。のですよ。)",
+		"thinking": "一（。つ（。の（。次元を（。越元（。て、「至高（。のへと（。、組み（。替（。える（。トランス）』こと（。（。鉛を（。金へと（。変（。え（。る（。ように、あなた（。の（。魂は、この（。不（。条理な（。る（。世界を、眩（。し（。い（。智慧へと（。変（。える（。のですよ。",
+		"aftertaste": "錬金術は、外側に金を求めるための技術ではない。自らの内側にある不純な想いを、透明な祈りへと昇華させるための、至高のる道のりなのですよ。",
+		"example": "The scientist observed a rare genetic transmutation that had occurred spontaneously in the experimental population of fruit flies.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "trans-",
+					"meaning": "across) + mutare (to change, literal: 'changing across'"
+				}
+			],
+			"points": [
+				"昨日までの自画像に固執しないでください。一瞬ごとに新しく生まれ変わることこそが、宇宙の唯一の法則なのですから。"
+			]
+		},
+		"part_of_speech": "noun"
 	}
 ];
