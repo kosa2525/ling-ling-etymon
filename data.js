@@ -182405,5 +182405,33 @@ const WORDS = [
 			]
 		},
 		"part_of_speech": "noun"
+	},
+	{
+		"id": "bond",
+		"word": "Bond",
+		"meaning": "絆、結束、束縛、債券",
+		"era": "13th Century Old English/Old Norse band",
+		"etymology": {
+			"components": [
+				"bindan (to bind, tie)"
+			],
+			"original_statement": "From Middle English bond, an alteration of band (anything that binds), from the root of bindan (to bind)."
+		},
+		"concept": "That which ties things together (物事をつなぎとめるもの、縛るもの)",
+		"thinking": "「縛る（bind）」という物理的な行為が語源。それは自由を奪う「鎖」にもなれば、困難な時に絶対に離れない「絆」にもなります。二つの個体を、一つの運命として強固に結びつける、目に見えないほど細く、しかし鋼鉄より強い糸のこと。",
+		"aftertaste": "縛られているからこそ、孤独ではないという逆説。",
+		"example": "The shared experience created a permanent bond between the two soldiers.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "bhendh-",
+					"meaning": "to bind"
+				}
+			],
+			"points": [
+				"bundle（束）や bandwidth（帯域幅）と同じ。何かをギュッとまとめる力。"
+			]
+		},
+		"part_of_speech": "noun"
 	}
 ];
