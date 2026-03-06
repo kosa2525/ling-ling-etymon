@@ -209703,5 +209703,61 @@ const WORDS = [
 			]
 		},
 		"part_of_speech": "noun"
+	},
+	{
+		"id": "daydream_oracle",
+		"word": "daydream",
+		"meaning": "白昼夢、空想、デイドリーム",
+		"era": "16th Century",
+		"etymology": {
+			"components": [
+				"day + dream"
+			],
+			"original_statement": "From 16th Century day + dream."
+		},
+		"concept": "A series of pleasant thoughts that distract one's attention from the present (光（。溢（。れる（。日常（。の（。中で（。、ふ（。と（。視（。る「夢（。ドリーム）』。（。その（。危（。う（。い（。ほどの（。美し（。い（。虚像にこそ（。、あなた（。の（。魂が（。、本当に（。求めている（。真実が（。、宿（。って（。いる（。の（。かも（。しれ（。ません。)",
+		"thinking": "光（。溢（。れる（。日常（。の（。中で（。、ふ（。と（。視（。る「夢（。ドリーム）』。（。その（。危（。う（。い（。ほどの（。美し（。い（。虚像にこそ（。、あなた（。の（。魂が（。、本当に（。求めている（。真実が（。、宿（。って（。いる（。の（。かも（。しれ（。ません。",
+		"aftertaste": "記号は、目に見える世界と目に見えない世界を繋ぎ止めるための、ただ一つの鍵なのですよ。",
+		"example": "The ancient scrolls contained a mysterious daydream that spoke of a coming era of peace and enlightenment.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "day",
+					"meaning": "+ dream"
+				}
+			],
+			"points": [
+				"見ることが信じることなのではなく、信じることが見えることの始まり。その逆説の中に、真の視座があるのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "trance_oracle",
+		"word": "trance",
+		"meaning": "トランス、恍惚状態",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"transire (to go across, literal: 'crossing over')"
+			],
+			"original_statement": "From 14th Century transire (to go across, literal: 'crossing over')."
+		},
+		"concept": "A half-conscious state characterized by an absence of response to external stimuli, typically as induced by hypnosis or entered by a medium (意識（。という（。名の（。境界を「越（。え（。て（。トランス）行く（。）」こと（。。（。個（。の（。領域を（。完全（。に（。脱（。し（。、ただ（。光の（。粒子（。その（。ものに（。な（。る（。、至高（。の（。飛躍。)",
+		"thinking": "意識（。という（。名の（。境界を「越（。え（。て（。トランス）行く（。）」こと（。。（。個（。の（。領域を（。完全（。に（。脱（。し（。、ただ（。光の（。粒子（。その（。ものに（。な（。る（。、至高（。の（。飛躍。",
+		"aftertaste": "記号は、目に見える世界と目に見えない世界を繋ぎ止めるための、ただ一つの鍵なのですよ。",
+		"example": "The ancient scrolls contained a mysterious trance that spoke of a coming era of peace and enlightenment.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "transire",
+					"meaning": "to go across, literal: 'crossing over'"
+				}
+			],
+			"points": [
+				"見ることが信じることなのではなく、信じることが見えることの始まり。その逆説の中に、真の視座があるのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
 	}
 ];
