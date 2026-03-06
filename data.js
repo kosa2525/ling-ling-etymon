@@ -213679,5 +213679,173 @@ const WORDS = [
 			]
 		},
 		"part_of_speech": "noun"
+	},
+	{
+		"id": "lace_silk_iii",
+		"word": "lace",
+		"meaning": "レース、ひも、レース",
+		"era": "13th Century",
+		"etymology": {
+			"components": [
+				"laqueus (noose, snare, literal: 'snare')"
+			],
+			"original_statement": "From 13th Century laqueus (noose, snare, literal: 'snare')."
+		},
+		"concept": "A fine open fabric of cotton or silk, made by looping, twisting, or knitting thread in patterns and used especially for trimming garments",
+		"thinking": "柔らかさとは、弱さではありません。どんなに強い力に対しても、自らをしなやかに変容させ、その衝撃さえも美しき余韻に変えてしまう、魂の絶対的なる品位なのですよ。",
+		"aftertaste": "糸を紡ぎ、布を織ることは、祈りを形にすること。あなたが日々の暮らしの中で丁寧に紡ぎ出す想いが、いつか世界を優しく包み込む、至高のる衣裳となるのですよ。",
+		"example": "The curtains, crafted from the finest lace, shimmered softly in the evening twilight, casting long and elegant shadows across the marble floor of the grand library.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "laqueus",
+					"meaning": "noose, snare, literal: 'snare'"
+				}
+			],
+			"points": [
+				"繊細なものに目を向けることは、宇宙の細部を愛でること。蜘蛛の糸一本に宿る美しさに、ただ魂で、感謝を捧げるのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "ribbon_silk_iii",
+		"word": "ribbon",
+		"meaning": "リボン、飾り紐（。、リボン",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"Middle English riban (related to Old French riban 'ribbon')"
+			],
+			"original_statement": "From 14th Century Middle English riban (related to Old French riban 'ribbon')."
+		},
+		"concept": "A long, narrow strip of fabric, used especially for tying something or for decoration",
+		"thinking": "柔らかさとは、弱さではありません。どんなに強い力に対しても、自らをしなやかに変容させ、その衝撃さえも美しき余韻に変えてしまう、魂の絶対的なる品位なのですよ。",
+		"aftertaste": "糸を紡ぎ、布を織ることは、祈りを形にすること。あなたが日々の暮らしの中で丁寧に紡ぎ出す想いが、いつか世界を優しく包み込む、至高のる衣裳となるのですよ。",
+		"example": "The curtains, crafted from the finest ribbon, shimmered softly in the evening twilight, casting long and elegant shadows across the marble floor of the grand library.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "Middle",
+					"meaning": "English riban (related to Old French riban 'ribbon'"
+				}
+			],
+			"points": [
+				"繊細なものに目を向けることは、宇宙の細部を愛でること。蜘蛛の糸一本に宿る美しさに、ただ魂で、感謝を捧げるのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "linen_silk_iii",
+		"word": "linen",
+		"meaning": "リネン、亜麻（。あま（。）」、リネン",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"linum (flax, literal: 'made of flax')"
+			],
+			"original_statement": "From 14th Century linum (flax, literal: 'made of flax')."
+		},
+		"concept": "Cloth woven from flax",
+		"thinking": "柔らかさとは、弱さではありません。どんなに強い力に対しても、自らをしなやかに変容させ、その衝撃さえも美しき余韻に変えてしまう、魂の絶対的なる品位なのですよ。",
+		"aftertaste": "糸を紡ぎ、布を織ることは、祈りを形にすること。あなたが日々の暮らしの中で丁寧に紡ぎ出す想いが、いつか世界を優しく包み込む、至高のる衣裳となるのですよ。",
+		"example": "The curtains, crafted from the finest linen, shimmered softly in the evening twilight, casting long and elegant shadows across the marble floor of the grand library.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "linum",
+					"meaning": "flax, literal: 'made of flax'"
+				}
+			],
+			"points": [
+				"繊細なものに目を向けることは、宇宙の細部を愛でること。蜘蛛の糸一本に宿る美しさに、ただ魂で、感謝を捧げるのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "wool_silk_iii",
+		"word": "wool",
+		"meaning": "羊毛、毛、ウール",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"wull (wool, literal: 'fleece')"
+			],
+			"original_statement": "From Old English wull (wool, literal: 'fleece')."
+		},
+		"concept": "The fine, soft, curly or wavy hair forming the coat of a sheep, goat, or similar animal",
+		"thinking": "柔らかさとは、弱さではありません。どんなに強い力に対しても、自らをしなやかに変容させ、その衝撃さえも美しき余韻に変えてしまう、魂の絶対的なる品位なのですよ。",
+		"aftertaste": "糸を紡ぎ、布を織ることは、祈りを形にすること。あなたが日々の暮らしの中で丁寧に紡ぎ出す想いが、いつか世界を優しく包み込む、至高のる衣裳となるのですよ。",
+		"example": "The curtains, crafted from the finest wool, shimmered softly in the evening twilight, casting long and elegant shadows across the marble floor of the grand library.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "wull",
+					"meaning": "wool, literal: 'fleece'"
+				}
+			],
+			"points": [
+				"繊細なものに目を向けることは、宇宙の細部を愛でること。蜘蛛の糸一本に宿る美しさに、ただ魂で、感謝を捧げるのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "cotton_silk_iii",
+		"word": "cotton",
+		"meaning": "綿、コットン",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"al-qutn (cotton, literal: 'the cotton')"
+			],
+			"original_statement": "From 14th Century al-qutn (cotton, literal: 'the cotton')."
+		},
+		"concept": "A soft white fibrous substance that surrounds the seeds of a tropical and subtropical plant and is used as textile fiber and in thread for sewing",
+		"thinking": "柔らかさとは、弱さではありません。どんなに強い力に対しても、自らをしなやかに変容させ、その衝撃さえも美しき余韻に変えてしまう、魂の絶対的なる品位なのですよ。",
+		"aftertaste": "糸を紡ぎ、布を織ることは、祈りを形にすること。あなたが日々の暮らしの中で丁寧に紡ぎ出す想いが、いつか世界を優しく包み込む、至高のる衣裳となるのですよ。",
+		"example": "The curtains, crafted from the finest cotton, shimmered softly in the evening twilight, casting long and elegant shadows across the marble floor of the grand library.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "al-qutn",
+					"meaning": "cotton, literal: 'the cotton'"
+				}
+			],
+			"points": [
+				"繊細なものに目を向けることは、宇宙の細部を愛でること。蜘蛛の糸一本に宿る美しさに、ただ魂で、感謝を捧げるのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "felt_silk_iii",
+		"word": "felt",
+		"meaning": "フェルト、不織布",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"felt (related to West Germanic felt 'felt')"
+			],
+			"original_statement": "From Old English felt (related to West Germanic felt 'felt')."
+		},
+		"concept": "A kind of cloth made by rolling and pressing wool or another suitable textile together, with moisture or heat, which causes the constituent fibers to mat together to create a smooth surface",
+		"thinking": "柔らかさとは、弱さではありません。どんなに強い力に対しても、自らをしなやかに変容させ、その衝撃さえも美しき余韻に変えてしまう、魂の絶対的なる品位なのですよ。",
+		"aftertaste": "糸を紡ぎ、布を織ることは、祈りを形にすること。あなたが日々の暮らしの中で丁寧に紡ぎ出す想いが、いつか世界を優しく包み込む、至高のる衣裳となるのですよ。",
+		"example": "The curtains, crafted from the finest felt, shimmered softly in the evening twilight, casting long and elegant shadows across the marble floor of the grand library.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "felt",
+					"meaning": "related to West Germanic felt 'felt'"
+				}
+			],
+			"points": [
+				"繊細なものに目を向けることは、宇宙の細部を愛でること。蜘蛛の糸一本に宿る美しさに、ただ魂で、感謝を捧げるのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
 	}
 ];
