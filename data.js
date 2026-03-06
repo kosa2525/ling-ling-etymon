@@ -213091,5 +213091,61 @@ const WORDS = [
 			]
 		},
 		"part_of_speech": "verb"
+	},
+	{
+		"id": "hallway_threshold_ii",
+		"word": "hallway",
+		"meaning": "玄関、廊下、ホールウェイ",
+		"era": "19th Century",
+		"etymology": {
+			"components": [
+				"hall + way"
+			],
+			"original_statement": "From 19th Century hall + way."
+		},
+		"concept": "An interior passage or corridor onto which rooms open (物語（。と（。物語の（。間に（。作（。られた、至高の（。る「中（。間領域（。ホール）』。（。そこを（。通（。る（。た（。びに、魂は（。、日常の（。重みを、静（。か（。に（。脱（。して（。いく（。のです。)",
+		"thinking": "物語（。と（。物語の（。間に（。作（。られた、至高の（。る「中（。間領域（。ホール）』。（。そこを（。通（。る（。た（。びに、魂は（。、日常の（。重みを、静（。か（。に（。脱（。して（。いく（。のです。",
+		"aftertaste": "廊下を歩くことは、移動ではありません。昨日までの自分から明日の自分へと、徐々に魂の色を塗り替えていくための、至高のる儀式なのですよ。",
+		"example": "The long, dimly lit hallway seemed to echo with the whispers of the past, guiding the lone traveler toward the hidden library.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "hall",
+					"meaning": "+ way"
+				}
+			],
+			"points": [
+				"扉を叩くことを恐れないでください。その向こう側には、あなたがまだ知らない、眩しいほどに新しいあなたが待っているのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "deck_threshold_ii",
+		"word": "deck",
+		"meaning": "デッキ、甲板、舞台、デキ",
+		"era": "15th Century",
+		"etymology": {
+			"components": [
+				"decken (to cover, literal: 'covering, roof')"
+			],
+			"original_statement": "From 15th Century decken (to cover, literal: 'covering, roof')."
+		},
+		"concept": "A structure of planks or metal sections forming the floor of a ship or boat (荒波を（。峻（。烈（。に「覆（。い（。隠（。す（。デキ）』、至高の（。る（。舞台（。（。その（。一一点（。に（。立ち、あなた（。は（。、自（。らの（。運命（。という（。名の（。、舵を（。、引き（。受ける（。のですよ。)",
+		"thinking": "荒波を（。峻（。烈（。に「覆（。い（。隠（。す（。デキ）』、至高の（。る（。舞台（。（。その（。一一点（。に（。立ち、あなた（。は（。、自（。らの（。運命（。という（。名の（。、舵を（。、引き（。受ける（。のですよ。",
+		"aftertaste": "廊下を歩くことは、移動ではありません。昨日までの自分から明日の自分へと、徐々に魂の色を塗り替えていくための、至高のる儀式なのですよ。",
+		"example": "The long, dimly lit deck seemed to echo with the whispers of the past, guiding the lone traveler toward the hidden library.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "decken",
+					"meaning": "to cover, literal: 'covering, roof'"
+				}
+			],
+			"points": [
+				"扉を叩くことを恐れないでください。その向こう側には、あなたがまだ知らない、眩しいほどに新しいあなたが待っているのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
 	}
 ];
