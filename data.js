@@ -208779,5 +208779,33 @@ const WORDS = [
 			]
 		},
 		"part_of_speech": "noun"
+	},
+	{
+		"id": "precious_change",
+		"word": "precious",
+		"meaning": "貴重な、高価な、プレシャス",
+		"era": "13th Century",
+		"etymology": {
+			"components": [
+				"pretium (price)"
+			],
+			"original_statement": "From 13th Century pretium (price)."
+		},
+		"concept": "Of great value; not to be wasted or treated carelessly (単（。なる（。数値（。を（。越（。え（。た（。、「至高（。の（。価値（。プレティ）」を（。持（。った（。もの（。。（。その（。煌（。めきは（。、あなたが（。そ（。れ（。を（。、どれ（。ほど（。愛（。して（。いる（。か（。を（。、物（。語（。って（。いる（。のですよ。)",
+		"thinking": "単（。なる（。数値（。を（。越（。え（。た（。、「至高（。の（。価値（。プレティ）」を（。持（。った（。もの（。。（。その（。煌（。めきは（。、あなたが（。そ（。れ（。を（。、どれ（。ほど（。愛（。して（。いる（。か（。を（。、物（。語（。って（。いる（。のですよ。",
+		"aftertaste": "価値は、価格が決めるのではなく、あなたがそれをどれほど必要としているか、という魂の叫びが決めるのですよ。",
+		"example": "The biological process of precious allows organisms to survive in rapidly changing environments.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "pretium",
+					"meaning": "price"
+				}
+			],
+			"points": [
+				"昨日までの自分が、今の自分を裏切るたびに、世界は新しく産まれ変わるのですよ。"
+			]
+		},
+		"part_of_speech": "adjective"
 	}
 ];
