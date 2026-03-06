@@ -213567,5 +213567,61 @@ const WORDS = [
 			]
 		},
 		"part_of_speech": "noun"
+	},
+	{
+		"id": "pontiff_bridge_iv",
+		"word": "pontiff",
+		"meaning": "司教、教皇、ポンティフ",
+		"era": "16th Century",
+		"etymology": {
+			"components": [
+				"pons (bridge) + facere (to make, literal: 'bridge-maker')"
+			],
+			"original_statement": "From 16th Century pons (bridge) + facere (to make, literal: 'bridge-maker')."
+		},
+		"concept": "The Pope; a prelate (天（。と（。地を（。繋（。ぐ「架け（。橋を（。作る（。者（。ポンス・ファカーレ）』、至高の（。る（。媒介（。者（。（。その（。峻（。烈（。な（。る（。る（。祈りが（。、宇宙の（。深（。淵（。を、美し（。き（。る（。秩序へと（。、還（。し（。ます。)",
+		"thinking": "天（。と（。地を（。繋（。ぐ「架け（。橋を（。作る（。者（。ポンス・ファカーレ）』、至高の（。る（。媒介（。者（。（。その（。峻（。烈（。な（。る（。る（。祈りが（。、宇宙の（。深（。淵（。を、美し（。き（。る（。秩序へと（。、還（。し（。ます。",
+		"aftertaste": "埠頭に立つことは、境界を知ること。自分がどこから来て、どこへ行こうとしているのか、波の音を聴きながら、静かに自らに問いかけてみてください。",
+		"example": "The majestic pontiff spanned across the narrow valley, providing a vital transportation link between the isolated mountain villages and the bustling coastal city.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "pons",
+					"meaning": "bridge) + facere (to make, literal: 'bridge-maker'"
+				}
+			],
+			"points": [
+				"道を導くことは、自分を誇示することではありません。他者がそこを安全に渡れるように、自らが不変なる土台となる、至高のる慈悲の形式なのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "pier_bridge_iv",
+		"word": "pier",
+		"meaning": "桟橋、ピア",
+		"era": "12th Century",
+		"etymology": {
+			"components": [
+				"pera (stone, pillar, literal: 'stone structure')"
+			],
+			"original_statement": "From 12th Century pera (stone, pillar, literal: 'stone structure')."
+		},
+		"concept": "A structure leading out from the shore into a body of water, in particular (波（。をを「峻（。烈（。に（。受（。け（。止める（。ピア）』、至高の（。る（。る（。柱（。（。その（。不（。変（。の（。る（。る（。る（。る（。る（。忍耐（。をを、誇り（。高く、魂で、肯定（。し（。て（。ください。)",
+		"thinking": "波（。をを「峻（。烈（。に（。受（。け（。止める（。ピア）』、至高の（。る（。る（。柱（。（。その（。不（。変（。の（。る（。る（。る（。る（。る（。忍耐（。をを、誇り（。高く、魂で、肯定（。し（。て（。ください。",
+		"aftertaste": "埠頭に立つことは、境界を知ること。自分がどこから来て、どこへ行こうとしているのか、波の音を聴きながら、静かに自らに問いかけてみてください。",
+		"example": "The majestic pier spanned across the narrow valley, providing a vital transportation link between the isolated mountain villages and the bustling coastal city.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "pera",
+					"meaning": "stone, pillar, literal: 'stone structure'"
+				}
+			],
+			"points": [
+				"道を導くことは、自分を誇示することではありません。他者がそこを安全に渡れるように、自らが不変なる土台となる、至高のる慈悲の形式なのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
 	}
 ];
