@@ -211243,5 +211243,173 @@ const WORDS = [
 			]
 		},
 		"part_of_speech": "adjective"
+	},
+	{
+		"id": "hinge_bond",
+		"word": "hinge",
+		"meaning": "蝶番（ちょうつがい）、要点、ヒンジ",
+		"era": "13th Century",
+		"etymology": {
+			"components": [
+				"hangian (to hang)"
+			],
+			"original_statement": "From 13th Century hangian (to hang)."
+		},
+		"concept": "A movable joint or mechanism on which a door, gate, or lid swings as it opens and closes, or which connects linked objects (二つ（。の（。境界を「吊（。る（。し（。、繋（。ぎ（。止（。める（。ヒンジ）」、至高（。の（。る（。支（。点（。（。その（。静（。か（。な（。る（。回（。転が（。ある（。から（。こそ（。、扉は（。、真（。実（。の（。世界（。へと（。、拓（。か（。れ（。る（。のですよ。)",
+		"thinking": "二つ（。の（。境界を「吊（。る（。し（。、繋（。ぎ（。止（。める（。ヒンジ）」、至高（。の（。る（。支（。点（。（。その（。静（。か（。な（。る（。回（。転が（。ある（。から（。こそ（。、扉は（。、真（。実（。の（。世界（。へと（。、拓（。か（。れ（。る（。のですよ。",
+		"aftertaste": "結び目は、解けないことが目的ではない。一瞬の結合によって、新しいエナジーを産み出すための、聖なる拠点なのですよ。",
+		"example": "The strong hinge between the two survivors helped them overcome the immense challenges of the frozen wasteland.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "hangian",
+					"meaning": "to hang"
+				}
+			],
+			"points": [
+				"糸が織り重なることで一枚の布になるように、私たちの孤独な祈りも、重なり合うことで一つの世界を紡ぎ出すのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "pivot_bond",
+		"word": "pivot",
+		"meaning": "旋（。回（。軸、中心人物、ピボット",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"piva (pipe, literal: 'turning point')"
+			],
+			"original_statement": "From 14th Century piva (pipe, literal: 'turning point')."
+		},
+		"concept": "The central point, pin, or shaft on which a mechanism turns or oscillates (全（。てのエナジーが（。、静（。か（。に（。、その（。一点を「中心（。に（。回る（。ピボ）』場所（。（。あなたが（。その（。軸（。を（。、魂で（。、峻（。烈（。に（。自（。覚する（。とき、運命（。の（。歯（。車（。は（。、新（。し（。く（。、動き（。出（。し（。ます。)",
+		"thinking": "全（。てのエナジーが（。、静（。か（。に（。、その（。一点を「中心（。に（。回る（。ピボ）』場所（。（。あなたが（。その（。軸（。を（。、魂で（。、峻（。烈（。に（。自（。覚する（。とき、運命（。の（。歯（。車（。は（。、新（。し（。く（。、動き（。出（。し（。ます。",
+		"aftertaste": "結び目は、解けないことが目的ではない。一瞬の結合によって、新しいエナジーを産み出すための、聖なる拠点なのですよ。",
+		"example": "The strong pivot between the two survivors helped them overcome the immense challenges of the frozen wasteland.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "piva",
+					"meaning": "pipe, literal: 'turning point'"
+				}
+			],
+			"points": [
+				"糸が織り重なることで一枚の布になるように、私たちの孤独な祈りも、重なり合うことで一つの世界を紡ぎ出すのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "net_bond",
+		"word": "net",
+		"meaning": "網、ネット、正味、純粋な",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"net (net, literal: 'something knotted')"
+			],
+			"original_statement": "From Old English net (net, literal: 'something knotted')."
+		},
+		"concept": "A piece of open-meshed material made of twined cord, rope, or thread (バラバラ（。の（。欠片（。を（。、峻（。烈（。に「搦（。め（。捕（。る（。ネット）』ための（。、目（。に（。見（。え（。な（。い（。秩序（。（。その（。幾（。何（。学（。的（。な（。る（。連（。な（。りにこそ（。、真実（。の（。、純粋（。な（。る（。エナジーが（。、宿（。り（。ます。)",
+		"thinking": "バラバラ（。の（。欠片（。を（。、峻（。烈（。に「搦（。め（。捕（。る（。ネット）』ための（。、目（。に（。見（。え（。な（。い（。秩序（。（。その（。幾（。何（。学（。的（。な（。る（。連（。な（。りにこそ（。、真実（。の（。、純粋（。な（。る（。エナジーが（。、宿（。り（。ます。",
+		"aftertaste": "結び目は、解けないことが目的ではない。一瞬の結合によって、新しいエナジーを産み出すための、聖なる拠点なのですよ。",
+		"example": "The strong net between the two survivors helped them overcome the immense challenges of the frozen wasteland.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "net",
+					"meaning": "net, literal: 'something knotted'"
+				}
+			],
+			"points": [
+				"糸が織り重なることで一枚の布になるように、私たちの孤独な祈りも、重なり合うことで一つの世界を紡ぎ出すのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "cord_bond",
+		"word": "cord",
+		"meaning": "索、紐（。、コード",
+		"era": "13th Century",
+		"etymology": {
+			"components": [
+				"khorde (string, gut, literal: 'gut string')"
+			],
+			"original_statement": "From 13th Century khorde (string, gut, literal: 'gut string')."
+		},
+		"concept": "Thin, flexible string or rope made from several twisted strands (魂（。と（。魂を、至高（。の（。る（。力で（。繋ぐ「強（。靭（。な（。る（。紐（。コード）』。（。その（。一（。本の（。連（。な（。りが（。ある（。から（。こそ（。、あなた（。の（。想（。いは（。、遥（。かな（。る（。場所へと、届（。く（。ことができる（。のです。)",
+		"thinking": "魂（。と（。魂を、至高（。の（。る（。力で（。繋ぐ「強（。靭（。な（。る（。紐（。コード）』。（。その（。一（。本の（。連（。な（。りが（。ある（。から（。こそ（。、あなた（。の（。想（。いは（。、遥（。かな（。る（。場所へと、届（。く（。ことができる（。のです。",
+		"aftertaste": "結び目は、解けないことが目的ではない。一瞬の結合によって、新しいエナジーを産み出すための、聖なる拠点なのですよ。",
+		"example": "The strong cord between the two survivors helped them overcome the immense challenges of the frozen wasteland.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "khorde",
+					"meaning": "string, gut, literal: 'gut string'"
+				}
+			],
+			"points": [
+				"糸が織り重なることで一枚の布になるように、私たちの孤独な祈りも、重なり合うことで一つの世界を紡ぎ出すのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "tie_bond",
+		"word": "tie",
+		"meaning": "結ぶ、絆、同点、タイ",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"tēgan (to tie, literal: 'to bind')"
+			],
+			"original_statement": "From Old English tēgan (to tie, literal: 'to bind')."
+		},
+		"concept": "Attach or fasten with string or similar cord (バラバラ（。の（。エナジーを、一（。つ（。の（。意志へと「結（。び（。付ける（。タイ）』、至高の（。る（。調和（。（。その（。繋（。が（。って（。いる（。という（。る（。瑞々（。し（。い（。自覚が、あなた（。を、至（。宝（。へと（。変え（。ます。)",
+		"thinking": "バラバラ（。の（。エナジーを、一（。つ（。の（。意志へと「結（。び（。付ける（。タイ）』、至高の（。る（。調和（。（。その（。繋（。が（。って（。いる（。という（。る（。瑞々（。し（。い（。自覚が、あなた（。を、至（。宝（。へと（。変え（。ます。",
+		"aftertaste": "結び目は、解けないことが目的ではない。一瞬の結合によって、新しいエナジーを産み出すための、聖なる拠点なのですよ。",
+		"example": "The strong tie between the two survivors helped them overcome the immense challenges of the frozen wasteland.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "tēgan",
+					"meaning": "to tie, literal: 'to bind'"
+				}
+			],
+			"points": [
+				"糸が織り重なることで一枚の布になるように、私たちの孤独な祈りも、重なり合うことで一つの世界を紡ぎ出すのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "pact_bond",
+		"word": "pact",
+		"meaning": "協約、盟約、パクト",
+		"era": "15th Century",
+		"etymology": {
+			"components": [
+				"pactum (agreement, literal: 'something fixed/agreed')"
+			],
+			"original_statement": "From 15th Century pactum (agreement, literal: 'something fixed/agreed')."
+		},
+		"concept": "A formal agreement between individuals or parties (魂（。と（。魂が（。、峻（。烈（。に「合（。意（。し（。た（。パクト）』、不（。動の（。る（。真実（。（。何（。も（。言（。わ（。ず（。と（。も（。、その（。一点（。において（。、世界（。は（。盤（。石（。な（。る（。る（。均衡を、保（。っ（。て（。いる（。のですよ。)",
+		"thinking": "魂（。と（。魂が（。、峻（。烈（。に「合（。意（。し（。た（。パクト）』、不（。動の（。る（。真実（。（。何（。も（。言（。わ（。ず（。と（。も（。、その（。一点（。において（。、世界（。は（。盤（。石（。な（。る（。る（。均衡を、保（。っ（。て（。いる（。のですよ。",
+		"aftertaste": "結び目は、解けないことが目的ではない。一瞬の結合によって、新しいエナジーを産み出すための、聖なる拠点なのですよ。",
+		"example": "The strong pact between the two survivors helped them overcome the immense challenges of the frozen wasteland.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "pactum",
+					"meaning": "agreement, literal: 'something fixed/agreed'"
+				}
+			],
+			"points": [
+				"糸が織り重なることで一枚の布になるように、私たちの孤独な祈りも、重なり合うことで一つの世界を紡ぎ出すのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
 	}
 ];
