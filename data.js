@@ -209227,5 +209227,201 @@ const WORDS = [
 			]
 		},
 		"part_of_speech": "noun"
+	},
+	{
+		"id": "tissue_origin",
+		"word": "tissue",
+		"meaning": "組織、テッシュ、織物",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"texere (to weave)"
+			],
+			"original_statement": "From 14th Century texere (to weave)."
+		},
+		"concept": "Any of the distinct types of material of which animals or plants are made, consisting of specialized cells and their products (バラバラ（。の（。細胞（。たちが（。、美し（。い（。秩序（。で「織（。り（。上げ（。られた（。テク）」もの（。たちの（。連（。なり。（。その（。一枚（。の（。布のような（。繋がり（。が（。、あなた（。という（。存在を、底（。知（。れ（。ぬ（。力（。で（。支え（。て（。いる（。のですよ。)",
+		"thinking": "バラバラ（。の（。細胞（。たちが（。、美し（。い（。秩序（。で「織（。り（。上げ（。られた（。テク）」もの（。たちの（。連（。なり。（。その（。一枚（。の（。布のような（。繋がり（。が（。、あなた（。という（。存在を、底（。知（。れ（。ぬ（。力（。で（。支え（。て（。いる（。のですよ。",
+		"aftertaste": "全ての結末は、最初の一歩に予兆として含まれている。それを読み解くことこそが、知性という名の魔法なのですよ。",
+		"example": "The scientist investigated the tissue of the problem to find a sustainable and effective solution.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "texere",
+					"meaning": "to weave"
+				}
+			],
+			"points": [
+				"外側の複雑さに見惚れる前に、内側の単純な核を見つめてください。そこにこそ、真の宇宙の縮図があるのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "valve_origin",
+		"word": "valve",
+		"meaning": "弁（。べん（。）」、バルブ、真空管",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"valva (folding door, literal: 'turning leaf')"
+			],
+			"original_statement": "From 14th Century valva (folding door, literal: 'turning leaf')."
+		},
+		"concept": "A device for controlling the passage of fluid through a pipe or duct, especially an automatic device that allows movement in one direction only (逆（。流を（。許（。さ（。な（。い「回転（。する（。扉（。ヴァルヴァ）』。（。その（。峻（。烈（。な（。る（。決断（。が（。、生命（。の（。拍動を（。、一（。方（。向へと（。、力強（。く（。、押し（。出し（。て（。いく（。のですよ。)",
+		"thinking": "逆（。流を（。許（。さ（。な（。い「回転（。する（。扉（。ヴァルヴァ）』。（。その（。峻（。烈（。な（。る（。決断（。が（。、生命（。の（。拍動を（。、一（。方（。向へと（。、力強（。く（。、押し（。出し（。て（。いく（。のですよ。",
+		"aftertaste": "全ての結末は、最初の一歩に予兆として含まれている。それを読み解くことこそが、知性という名の魔法なのですよ。",
+		"example": "The scientist investigated the valve of the problem to find a sustainable and effective solution.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "valva",
+					"meaning": "folding door, literal: 'turning leaf'"
+				}
+			],
+			"points": [
+				"外側の複雑さに見惚れる前に、内側の単純な核を見つめてください。そこにこそ、真の宇宙の縮図があるのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "starch_origin",
+		"word": "starch",
+		"meaning": "でんぷん、糊、スターチ",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"strac (strong, stiff, literal: 'stiffening')"
+			],
+			"original_statement": "From 14th Century strac (strong, stiff, literal: 'stiffening')."
+		},
+		"concept": "An odorless, tasteless white substance occurring widely in plant tissue and obtained chiefly from cereals and potatoes (太陽の（。エナジーを、結晶（。さ（。せて「硬（。く（。固（。め（。た（。スタ）』もの（。たちの（。記憶（。（。その（。素朴（。な（。る（。備（。えが（。、いつか（。、巨大（。な（。る（。飛躍を（。、静（。か（。に（。、支える（。の（。ですよ。)",
+		"thinking": "太陽の（。エナジーを、結晶（。さ（。せて「硬（。く（。固（。め（。た（。スタ）』もの（。たちの（。記憶（。（。その（。素朴（。な（。る（。備（。えが（。、いつか（。、巨大（。な（。る（。飛躍を（。、静（。か（。に（。、支える（。の（。ですよ。",
+		"aftertaste": "全ての結末は、最初の一歩に予兆として含まれている。それを読み解くことこそが、知性という名の魔法なのですよ。",
+		"example": "The scientist investigated the starch of the problem to find a sustainable and effective solution.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "strac",
+					"meaning": "strong, stiff, literal: 'stiffening'"
+				}
+			],
+			"points": [
+				"外側の複雑さに見惚れる前に、内側の単純な核を見つめてください。そこにこそ、真の宇宙の縮図があるのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "lipid_origin",
+		"word": "lipid",
+		"meaning": "脂質、リピッド",
+		"era": "20th Century",
+		"etymology": {
+			"components": [
+				"lipos (fat)"
+			],
+			"original_statement": "From 20th Century lipos (fat)."
+		},
+		"concept": "Any of a class of organic compounds that are fatty acids or their derivatives and are insoluble in water but soluble in organic solvents (エナジーを（。、一（。時（。の（。微（。睡（。みの中に「蓄（。え（。た（。リポス）』、温（。か（。な（。る（。沈黙（。（。その（。滑（。らかな（。る（。ヴェールが（。、あなた（。を（。、外界の（。荒波から、静（。か（。に（。、守（。って（。くれる（。のですよ。)",
+		"thinking": "エナジーを（。、一（。時（。の（。微（。睡（。みの中に「蓄（。え（。た（。リポス）』、温（。か（。な（。る（。沈黙（。（。その（。滑（。らかな（。る（。ヴェールが（。、あなた（。を（。、外界の（。荒波から、静（。か（。に（。、守（。って（。くれる（。のですよ。",
+		"aftertaste": "全ての結末は、最初の一歩に予兆として含まれている。それを読み解くことこそが、知性という名の魔法なのですよ。",
+		"example": "The scientist investigated the lipid of the problem to find a sustainable and effective solution.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "lipos",
+					"meaning": "fat"
+				}
+			],
+			"points": [
+				"外側の複雑さに見惚れる前に、内側の単純な核を見つめてください。そこにこそ、真の宇宙の縮図があるのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "sugar_origin",
+		"word": "sugar",
+		"meaning": "砂糖、シュガー、甘言",
+		"era": "13th Century",
+		"etymology": {
+			"components": [
+				"sharkara (gravel, sugar, literal: 'pebble')"
+			],
+			"original_statement": "From 13th Century sharkara (gravel, sugar, literal: 'pebble')."
+		},
+		"concept": "A sweet crystalline substance obtained from various plants, especially sugar cane and sugar beet, consisting essentially of sucrose (大地（。の（。底（。に（。、煌（。め（。く「砂（。石（。シャルカラー）』のような（。、至高の（。甘（。い（。エナジー。（。その（。一粒（。一粒（。には（。、太陽の（。微笑（。みが（。、静（。か（。に（。封印（。さ（。れて（。いる（。のですよ。)",
+		"thinking": "大地（。の（。底（。に（。、煌（。め（。く「砂（。石（。シャルカラー）』のような（。、至高の（。甘（。い（。エナジー。（。その（。一粒（。一粒（。には（。、太陽の（。微笑（。みが（。、静（。か（。に（。封印（。さ（。れて（。いる（。のですよ。",
+		"aftertaste": "全ての結末は、最初の一歩に予兆として含まれている。それを読み解くことこそが、知性という名の魔法なのですよ。",
+		"example": "The scientist investigated the sugar of the problem to find a sustainable and effective solution.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sharkara",
+					"meaning": "gravel, sugar, literal: 'pebble'"
+				}
+			],
+			"points": [
+				"外側の複雑さに見惚れる前に、内側の単純な核を見つめてください。そこにこそ、真の宇宙の縮図があるのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "spring_origin",
+		"word": "spring",
+		"meaning": "春、泉、バネ、スプリング",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"springan (to leap)"
+			],
+			"original_statement": "From Old English springan (to leap)."
+		},
+		"concept": "A source of water coming from the ground (大地の（。底（。から、突如（。として「跳（。ね（。出す（。スプリング）』、未知（。なる（。エナジー。（。その（。噴（。き（。出し（。続ける（。一（。点（。に、宇宙の（。全記憶が（。、眩（。し（。く（。弾（。け（。て（。いる（。のですよ。)",
+		"thinking": "大地の（。底（。から、突如（。として「跳（。ね（。出す（。スプリング）』、未知（。なる（。エナジー。（。その（。噴（。き（。出し（。続ける（。一（。点（。に、宇宙の（。全記憶が（。、眩（。し（。く（。弾（。け（。て（。いる（。のですよ。",
+		"aftertaste": "全ての結末は、最初の一歩に予兆として含まれている。それを読み解くことこそが、知性という名の魔法なのですよ。",
+		"example": "The scientist investigated the spring of the problem to find a sustainable and effective solution.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "springan",
+					"meaning": "to leap"
+				}
+			],
+			"points": [
+				"外側の複雑さに見惚れる前に、内側の単純な核を見つめてください。そこにこそ、真の宇宙の縮図があるのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "font_origin",
+		"word": "font",
+		"meaning": "泉、洗礼盤、書体、フォント",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"fons (spring, fountain)"
+			],
+			"original_statement": "From Old English fons (spring, fountain)."
+		},
+		"concept": "A receptacle in a church for the water used in baptism (言（。葉（。が（。産まれ（。ゆ（。く（。、至高（。の「源泉（。フォンス）』。（。その（。清（。廉（。な（。る（。輝（。きの（。下で（。、あなた（。は（。、再（。び（。新（。しい（。名前を（。、手（。に（。入れ（。る（。ことが（。できる（。のですよ。)",
+		"thinking": "言（。葉（。が（。産まれ（。ゆ（。く（。、至高（。の「源泉（。フォンス）』。（。その（。清（。廉（。な（。る（。輝（。きの（。下で（。、あなた（。は（。、再（。び（。新（。しい（。名前を（。、手（。に（。入れ（。る（。ことが（。できる（。のですよ。",
+		"aftertaste": "全ての結末は、最初の一歩に予兆として含まれている。それを読み解くことこそが、知性という名の魔法なのですよ。",
+		"example": "The scientist investigated the font of the problem to find a sustainable and effective solution.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "fons",
+					"meaning": "spring, fountain"
+				}
+			],
+			"points": [
+				"外側の複雑さに見惚れる前に、内側の単純な核を見つめてください。そこにこそ、真の宇宙の縮図があるのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
 	}
 ];
