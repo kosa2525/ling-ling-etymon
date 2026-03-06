@@ -205951,5 +205951,89 @@ const WORDS = [
 			]
 		},
 		"part_of_speech": "noun"
+	},
+	{
+		"id": "causeway_bridge",
+		"word": "causeway",
+		"meaning": "堤道、土手道、コーズウェイ",
+		"era": "15th Century",
+		"etymology": {
+			"components": [
+				"calx (limestone, literal: 'paved way')"
+			],
+			"original_statement": "From 15th Century calx (limestone, literal: 'paved way')."
+		},
+		"concept": "A raised road or track across low or wet ground (泥（。まみれ（。の（。大地（。に（。、「石（。カルシ）で（。築（。き（。上げた（。）」、揺るぎ（。ない（。道（。。（。困難（。な（。季節（。を（。越える（。ための（。、あなた（。だけの（。聖（。なる（。足場。)",
+		"thinking": "泥（。まみれ（。の（。大地（。に（。、「石（。カルシ）で（。築（。き（。上げた（。）」、揺るぎ（。ない（。道（。。（。困難（。な（。季節（。を（。越える（。ための（。、あなた（。だけの（。聖（。なる（。足場。",
+		"aftertaste": "架け橋は、二つの異なる絶望を、一つの希望へと繋ぎ止めるための祈りです。",
+		"example": "The architectural firm specialized in designing elegant causeway that harmonized with the natural landscape.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "calx",
+					"meaning": "limestone, literal: 'paved way'"
+				}
+			],
+			"points": [
+				"境界とは、世界を分断するものではなく、二つの異なる美しさを繋ぎ止めるための接点なのです。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "thoroughfare_bridge",
+		"word": "thoroughfare",
+		"meaning": "幹線道路、公道、通り抜け",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"thorough (through) + fare (go)"
+			],
+			"original_statement": "From 14th Century thorough (through) + fare (go)."
+		},
+		"concept": "A road or path forming a route between two places (一箇所に（。留（。ま（。ら（。ず（。、世界（。を「貫（。き（。抜（。いて（。スルー）行く（。フェア）」ための（。大動脈（。。（。そこ（。には（。、絶（。え（。間（。ない（。出会いと（。別れが（。、美し（。い（。リズム（。を（。刻（。んで（。いる（。のですよ。)",
+		"thinking": "一箇所に（。留（。ま（。ら（。ず（。、世界（。を「貫（。き（。抜（。いて（。スルー）行く（。フェア）」ための（。大動脈（。。（。そこ（。には（。、絶（。え（。間（。ない（。出会いと（。別れが（。、美し（。い（。リズム（。を（。刻（。んで（。いる（。のですよ。",
+		"aftertaste": "架け橋は、二つの異なる絶望を、一つの希望へと繋ぎ止めるための祈りです。",
+		"example": "The architectural firm specialized in designing elegant thoroughfare that harmonized with the natural landscape.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "thorough",
+					"meaning": "through) + fare (go"
+				}
+			],
+			"points": [
+				"境界とは、世界を分断するものではなく、二つの異なる美しさを繋ぎ止めるための接点なのです。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "concierge_bridge",
+		"word": "concierge",
+		"meaning": "コンシェルジュ、門衛、案内人",
+		"era": "17th Century",
+		"etymology": {
+			"components": [
+				"com- (with) + servus (slave, keep, literal: 'fellow slave')"
+			],
+			"original_statement": "From 17th Century com- (with) + servus (slave, keep, literal: 'fellow slave')."
+		},
+		"concept": "A hotel staff member who helps guests by making a restaurant reservation, etc. (入り（。口（。で（。、旅人の「全（。てを（。共に（。コン）守り（。抜く（。シェルジュ）」者（。。（。あなた（。の（。不安（。を（。、一瞬の（。微笑みで（。安（。ら（。ぎへと（。変（。える（。、境界（。の（。守護者。)",
+		"thinking": "入り（。口（。で（。、旅人の「全（。てを（。共に（。コン）守り（。抜く（。シェルジュ）」者（。。（。あなた（。の（。不安（。を（。、一瞬の（。微笑みで（。安（。ら（。ぎへと（。変（。える（。、境界（。の（。守護者。",
+		"aftertaste": "架け橋は、二つの異なる絶望を、一つの希望へと繋ぎ止めるための祈りです。",
+		"example": "The architectural firm specialized in designing elegant concierge that harmonized with the natural landscape.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "com-",
+					"meaning": "with) + servus (slave, keep, literal: 'fellow slave'"
+				}
+			],
+			"points": [
+				"境界とは、世界を分断するものではなく、二つの異なる美しさを繋ぎ止めるための接点なのです。"
+			]
+		},
+		"part_of_speech": "noun"
 	}
 ];
