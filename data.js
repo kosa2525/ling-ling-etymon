@@ -210739,5 +210739,89 @@ const WORDS = [
 			]
 		},
 		"part_of_speech": "noun"
+	},
+	{
+		"id": "canon_balance",
+		"word": "canon",
+		"meaning": "規範、教義、カノン",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"kanōn (measuring rod, rule)"
+			],
+			"original_statement": "From 14th Century kanōn (measuring rod, rule)."
+		},
+		"concept": "A general law, rule, principle, or criterion by which something is judged (真理を（。測る（。ための「峻（。烈（。な（。る（。定（。規（。カノン）』。（。その（。一点（。の（。妥協（。も（。許（。さ（。な（。い（。律法が（。、あなた（。の（。魂を（。、正（。し（。い（。高（。みへと、再（。び（。、導（。く（。のですよ。)",
+		"thinking": "真理を（。測る（。ための「峻（。烈（。な（。る（。定（。規（。カノン）』。（。その（。一点（。の（。妥協（。も（。許（。さ（。な（。い（。律法が（。、あなた（。の（。魂を（。、正（。し（。い（。高（。みへと、再（。び（。、導（。く（。のですよ。",
+		"aftertaste": "規律は、自由を奪うものではない。自らの想いを、一つの形として結晶させるための、至高のる透明な器なのですよ。",
+		"example": "The architectural design achieved a perfect canon that conveyed both 5strength and elegance to the viewers.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kanōn",
+					"meaning": "measuring rod, rule"
+				}
+			],
+			"points": [
+				"正しい割合を保つこと。それは、宇宙の声に耳を傾け、自らの鼓動を、全体のリズムへと調律していく行為なのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "mold_balance",
+		"word": "mold",
+		"meaning": "型、金型、カビ、モールド",
+		"era": "13th Century",
+		"etymology": {
+			"components": [
+				"modulus (measure, literal: 'little measure')"
+			],
+			"original_statement": "From 13th Century modulus (measure, literal: 'little measure')."
+		},
+		"concept": "A hollow container used to give shape to molten or hot liquid material when it cools and hardens (不定（。形な（。る（。情念（。を、あらかじめ（。決められた「尺（。度（。モドゥ）』に（。流（。し（。込む（。こと（。。（。その（。かたちの（。中に、静（。か（。な（。る（。秩序（。が（。、産声を（。上げます。)",
+		"thinking": "不定（。形な（。る（。情念（。を、あらかじめ（。決められた「尺（。度（。モドゥ）』に（。流（。し（。込む（。こと（。。（。その（。かたちの（。中に、静（。か（。な（。る（。秩序（。が（。、産声を（。上げます。",
+		"aftertaste": "規律は、自由を奪うものではない。自らの想いを、一つの形として結晶させるための、至高のる透明な器なのですよ。",
+		"example": "The architectural design achieved a perfect mold that conveyed both 5strength and elegance to the viewers.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "modulus",
+					"meaning": "measure, literal: 'little measure'"
+				}
+			],
+			"points": [
+				"正しい割合を保つこと。それは、宇宙の声に耳を傾け、自らの鼓動を、全体のリズムへと調律していく行為なのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "stamp_balance",
+		"word": "stamp",
+		"meaning": "切手、印、刻印、スタンプ",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"stempan (to tread, crush, literal: 'trampling')"
+			],
+			"original_statement": "From Old English stempan (to tread, crush, literal: 'trampling')."
+		},
+		"concept": "To press a device against a surface in order to leave a mark or pattern (大地を（。力（。強く「踏（。み（。し（。め（。た（。ステン）』痕跡（。（。その（。峻（。烈（。な（。る（。刻印（。が、あなたが（。そこに（。確（。か（。に（。存在（。し（。た（。証を（。、永遠へと（。刻（。み（。続け（。る（。のですよ。)",
+		"thinking": "大地を（。力（。強く「踏（。み（。し（。め（。た（。ステン）』痕跡（。（。その（。峻（。烈（。な（。る（。刻印（。が、あなたが（。そこに（。確（。か（。に（。存在（。し（。た（。証を（。、永遠へと（。刻（。み（。続け（。る（。のですよ。",
+		"aftertaste": "規律は、自由を奪うものではない。自らの想いを、一つの形として結晶させるための、至高のる透明な器なのですよ。",
+		"example": "The architectural design achieved a perfect stamp that conveyed both 5strength and elegance to the viewers.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "stempan",
+					"meaning": "to tread, crush, literal: 'trampling'"
+				}
+			],
+			"points": [
+				"正しい割合を保つこと。それは、宇宙の声に耳を傾け、自らの鼓動を、全体のリズムへと調律していく行為なのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
 	}
 ];
