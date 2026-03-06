@@ -205055,5 +205055,229 @@ const WORDS = [
 			]
 		},
 		"part_of_speech": "noun"
+	},
+	{
+		"id": "mansion_home",
+		"word": "mansion",
+		"meaning": "大邸宅、館、マンション",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"manere (to dwell, remain)"
+			],
+			"original_statement": "From 14th Century manere (to dwell, remain)."
+		},
+		"concept": "A large, impressive house (一時（。の（。宿（。ではなく（。、永遠に「留（。ま（。る（。マン）場所（。）」。（。重厚（。な（。石（。の（。壁が（。、家族（。の（。記憶を（。、何（。世（。代（。にも（。わたって（。、守（。り（。続けて（。いる（。のですよ。)",
+		"thinking": "一時（。の（。宿（。ではなく（。、永遠に「留（。ま（。る（。マン）場所（。）」。（。重厚（。な（。石（。の（。壁が（。、家族（。の（。記憶を（。、何（。世（。代（。にも（。わたって（。、守（。り（。続けて（。いる（。のですよ。",
+		"aftertaste": "家は、魂が世界という名の旅から帰り、再び自らを見出すための聖域です。",
+		"example": "The family gathered around the mansion to share stories on a cold winter night.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "manere",
+					"meaning": "to dwell, remain"
+				}
+			],
+			"points": [
+				"境界とは、世界を分断するものではなく、二つの異なる美しさを繋ぎ止めるための接点なのです。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "cottage_home",
+		"word": "cottage",
+		"meaning": "コテージ、小規模な家",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"cote (hut, shelter)"
+			],
+			"original_statement": "From 14th Century cote (hut, shelter)."
+		},
+		"concept": "A small simple house, typically one near the lake or beach (豪華さ（。を（。捨て（。去（。り（。、ただの「小屋（。コート）」として（。大地と（。戯（。れる（。場所（。。（。質素（。な（。暮らしの（。中（。に（。、真（。の（。豊（。かさを（。見出（。した（。、知性の（。隠（。れ（。家。)",
+		"thinking": "豪華さ（。を（。捨て（。去（。り（。、ただの「小屋（。コート）」として（。大地と（。戯（。れる（。場所（。。（。質素（。な（。暮らしの（。中（。に（。、真（。の（。豊（。かさを（。見出（。した（。、知性の（。隠（。れ（。家。",
+		"aftertaste": "家は、魂が世界という名の旅から帰り、再び自らを見出すための聖域です。",
+		"example": "The family gathered around the cottage to share stories on a cold winter night.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "cote",
+					"meaning": "hut, shelter"
+				}
+			],
+			"points": [
+				"境界とは、世界を分断するものではなく、二つの異なる美しさを繋ぎ止めるための接点なのです。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "chalice_home",
+		"word": "chalice",
+		"meaning": "聖杯、酒杯",
+		"era": "13th Century",
+		"etymology": {
+			"components": [
+				"calix (cup)"
+			],
+			"original_statement": "From 13th Century calix (cup)."
+		},
+		"concept": "A large cup or goblet, typically used for drinking wine (一杯の（。酒を（。、聖なる（。エナジーへと（。変（。える「器（。カリクス）」。（。その（。黄金色（。の（。輝きに（。、魂を（。潤（。す（。ための（。祈り（。を（。捧（。げて（。ください。)",
+		"thinking": "一杯の（。酒を（。、聖なる（。エナジーへと（。変（。える「器（。カリクス）」。（。その（。黄金色（。の（。輝きに（。、魂を（。潤（。す（。ための（。祈り（。を（。捧（。げて（。ください。",
+		"aftertaste": "家は、魂が世界という名の旅から帰り、再び自らを見出すための聖域です。",
+		"example": "The family gathered around the chalice to share stories on a cold winter night.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "calix",
+					"meaning": "cup"
+				}
+			],
+			"points": [
+				"境界とは、世界を分断するものではなく、二つの異なる美しさを繋ぎ止めるための接点なのです。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "cuisine_home",
+		"word": "cuisine",
+		"meaning": "料理、台所",
+		"era": "18th Century",
+		"etymology": {
+			"components": [
+				"coquina (kitchen, cooking)"
+			],
+			"original_statement": "From 18th Century coquina (kitchen, cooking)."
+		},
+		"concept": "A style or method of cooking, especially as characteristic of a particular country, region, or establishment (ただ（。食べる（。のではなく（。、素材（。という（。名の（。言葉を「調理（。クイジ）する（。）」芸術（。。（。味（。覚の（。中に（。、歴史（。と（。土（。の（。記憶を（。織（。り（。込（。む（。こと（。です。)",
+		"thinking": "ただ（。食べる（。のではなく（。、素材（。という（。名の（。言葉を「調理（。クイジ）する（。）」芸術（。。（。味（。覚の（。中に（。、歴史（。と（。土（。の（。記憶を（。織（。り（。込（。む（。こと（。です。",
+		"aftertaste": "家は、魂が世界という名の旅から帰り、再び自らを見出すための聖域です。",
+		"example": "The family gathered around the cuisine to share stories on a cold winter night.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "coquina",
+					"meaning": "kitchen, cooking"
+				}
+			],
+			"points": [
+				"境界とは、世界を分断するものではなく、二つの異なる美しさを繋ぎ止めるための接点なのです。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "banquet_home",
+		"word": "banquet",
+		"meaning": "宴（。うたげ（。）」、晩餐",
+		"era": "15th Century",
+		"etymology": {
+			"components": [
+				"banco (bench, table)"
+			],
+			"original_statement": "From 15th Century banco (bench, table)."
+		},
+		"concept": "An elaborate and formal evening meal for many people, often followed by speeches (大勢で「テーブル（。バンク）を（。囲（。む（。）」、生命（。の（。再（。確認（。。（。孤独（。な（。エナジーが（。、笑（。い声と（。響き（。合（。い（。、一つの（。巨大（。な（。調和（。へと（。至る（。瞬間。)",
+		"thinking": "大勢で「テーブル（。バンク）を（。囲（。む（。）」、生命（。の（。再（。確認（。。（。孤独（。な（。エナジーが（。、笑（。い声と（。響き（。合（。い（。、一つの（。巨大（。な（。調和（。へと（。至る（。瞬間。",
+		"aftertaste": "家は、魂が世界という名の旅から帰り、再び自らを見出すための聖域です。",
+		"example": "The family gathered around the banquet to share stories on a cold winter night.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "banco",
+					"meaning": "bench, table"
+				}
+			],
+			"points": [
+				"境界とは、世界を分断するものではなく、二つの異なる美しさを繋ぎ止めるための接点なのです。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "vintage_home",
+		"word": "vintage",
+		"meaning": "ヴィンテージ、時代物、収穫期",
+		"era": "15th Century",
+		"etymology": {
+			"components": [
+				"vinum (wine) + demere (to take off)"
+			],
+			"original_statement": "From 15th Century vinum (wine) + demere (to take off)."
+		},
+		"concept": "The year or place in which wine, especially wine of high quality, was produced (「葡萄の（。収穫（。ヴィン）を（。取り（。出す（。デ（。）」季節（。。（。過ぎ去（。った（。時間（。が（。、熟（。成（。という（。名の（。魔法を（。かけて（。、現在に（。至宝（。を（。届（。けて（。くれ（。た（。のですよ。)",
+		"thinking": "「葡萄の（。収穫（。ヴィン）を（。取り（。出す（。デ（。）」季節（。。（。過ぎ去（。った（。時間（。が（。、熟（。成（。という（。名の（。魔法を（。かけて（。、現在に（。至宝（。を（。届（。けて（。くれ（。た（。のですよ。",
+		"aftertaste": "家は、魂が世界という名の旅から帰り、再び自らを見出すための聖域です。",
+		"example": "The family gathered around the vintage to share stories on a cold winter night.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "vinum",
+					"meaning": "wine) + demere (to take off"
+				}
+			],
+			"points": [
+				"境界とは、世界を分断するものではなく、二つの異なる美しさを繋ぎ止めるための接点なのです。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "incense_home",
+		"word": "incense",
+		"meaning": "香、インセンス、激怒させる",
+		"era": "13th Century",
+		"etymology": {
+			"components": [
+				"incendere (to set fire to, burn)"
+			],
+			"original_statement": "From 13th Century incendere (to set fire to, burn)."
+		},
+		"concept": "A gum, spice, or other substance that is burned for the smell it produces (祈り（。の（。ために「火を（。付け（。られた（。インセ）香（。）」。（。その（。静（。かな（。る（。煙（。が（。、天上（。の（。高（。みへと（。、あなた（。の声（。を（。運ん（。で（。行く（。のですよ。)",
+		"thinking": "祈り（。の（。ために「火を（。付け（。られた（。インセ）香（。）」。（。その（。静（。かな（。る（。煙（。が（。、天上（。の（。高（。みへと（。、あなた（。の声（。を（。運ん（。で（。行く（。のですよ。",
+		"aftertaste": "家は、魂が世界という名の旅から帰り、再び自らを見出すための聖域です。",
+		"example": "The family gathered around the incense to share stories on a cold winter night.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "incendere",
+					"meaning": "to set fire to, burn"
+				}
+			],
+			"points": [
+				"境界とは、世界を分断するものではなく、二つの異なる美しさを繋ぎ止めるための接点なのです。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "attire_home",
+		"word": "attire",
+		"meaning": "服装、装い",
+		"era": "13th Century",
+		"etymology": {
+			"components": [
+				"a- (to) + tire (order, row, rank)"
+			],
+			"original_statement": "From 13th Century a- (to) + tire (order, row, rank)."
+		},
+		"concept": "Clothes, especially fine or formal ones (裸（。の（。魂に（。対して（。、「正（。しい（。順序（。ティア）へと（。導く（。アド）」ための（。装い（。。（。あなた（。が（。何を（。纏（。うか（。、それ（。が（。、今日（。の、あなた（。の（。役割（。を（。決（。める（。のです。)",
+		"thinking": "裸（。の（。魂に（。対して（。、「正（。しい（。順序（。ティア）へと（。導く（。アド）」ための（。装い（。。（。あなた（。が（。何を（。纏（。うか（。、それ（。が（。、今日（。の、あなた（。の（。役割（。を（。決（。める（。のです。",
+		"aftertaste": "家は、魂が世界という名の旅から帰り、再び自らを見出すための聖域です。",
+		"example": "The family gathered around the attire to share stories on a cold winter night.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "a-",
+					"meaning": "to) + tire (order, row, rank"
+				}
+			],
+			"points": [
+				"境界とは、世界を分断するものではなく、二つの異なる美しさを繋ぎ止めるための接点なのです。"
+			]
+		},
+		"part_of_speech": "noun"
 	}
 ];
