@@ -196911,5 +196911,66 @@ const WORDS = [
 			]
 		},
 		"part_of_speech": "noun"
+	},
+	{
+		"id": "gravitas_center",
+		"word": "Gravitas",
+		"meaning": "威厳、重厚さ、真剣さ、存在感",
+		"era": "16th Century Latin gravis",
+		"etymology": {
+			"components": [
+				"gravis (heavy)"
+			],
+			"original_statement": "From Latin gravitas (weight, heaviness, dignity, presence), from gravis (heavy, weighty, serious)."
+		},
+		"concept": "Spirit weight (「精神（spirit）」に 「質量（mass）」を 持たせ 周囲の 「軽薄さ（levity）」を 「引き寄せ、律する」こと)",
+		"thinking": "言葉数（饒舌）ではなく、その沈黙や立ち振る舞い自体に、抗いがたい重みと 説得力を 宿すこと. 語源は「重さ、尊厳」. それは 誰かを 威圧するためではなく 自らの 信念に 忠実に 生きることで 生じる、聖なる「魂の 密度」の 表現です. 重みは、信頼です.",
+		"aftertaste": "魂の密度. 自分の 軽やかさを 否定しないで. あなたが「グラヴィタス（威厳）」を 育むとき その静かな 重みは 迷える人々に 安心感と 指針を 与える 聖なる 錨（いかり）に なるのだから.",
+		"example": "Despite his young age, the conductor possessed a remarkable gravitas that commanded the orchestra's absolute respect.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "gwer-",
+					"meaning": "heavy"
+				}
+			],
+			"points": [
+				"gravity（重力）や grief（悲しみ：心の重み）と同じ。存在の「重層性」のルーツ。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "centrifugal_center",
+		"word": "Centrifugal",
+		"meaning": "遠心的な、中心から遠ざかる、多様化する",
+		"era": "17th Century Latin centrum + fugere",
+		"etymology": {
+			"components": [
+				"centrum (center)",
+				"fugere (to flee)"
+			],
+			"original_statement": "From Modern Latin centrifugus, from Latin centrum (center) + fugere (to flee)."
+		},
+		"concept": "Fleeing the center (「中心（center）」の 束縛を 振り切り 「フロンティア（frontier）」へと 一気に 「拡散（diffuse）」すること)",
+		"thinking": "一つの場所に 安住することなく、溢れ出す 活力を 制御せずに 外部へと 放射し続け、新しい 意味や 領域を 拓き（ひらき）続ける、躍動的な 知性の ダイナミズム. 語源は「中心から逃げる」. それは 伝統への 反逆 ではなく 全体性を 維持したまま 可能性を 宇宙の 隅々まで 広げようとする 聖なる「膨張」のアクションです.",
+		"aftertaste": "可能性の拡散. 安定という名の 檻（おり）に 閉じこもらないで. あなたの 情熱が「セントリフューガル（遠心的な）」な 力を持って 飛び出したとき 世界は 未知の 色彩で 満たされるのだから.",
+		"example": "The artistic movement developed a centrifugal force, spreading innovative ideas far beyond its original small studio.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kente-",
+					"meaning": "to prick (for center)"
+				},
+				{
+					"term": "bheug-",
+					"meaning": "to flee (for centrifugal)"
+				}
+			],
+			"points": [
+				"fugitive（逃亡者）や refuge（避難所）と同じ。移動と越境のドラマ。"
+			]
+		},
+		"part_of_speech": "adjective"
 	}
 ];
