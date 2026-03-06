@@ -199007,5 +199007,537 @@ const WORDS = [
 			]
 		},
 		"part_of_speech": "noun"
+	},
+	{
+		"id": "bargain_trade",
+		"word": "bargain",
+		"meaning": "格安品、取引、交渉する",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"bargaignier (to haggle, hesitate)"
+			],
+			"original_statement": "From 14th Century bargaignier (to haggle, hesitate)."
+		},
+		"concept": "An agreement between two or more parties as to what each party will do for the other (単なる安物ではなく、お互いの価値観を何度もぶつけ合い（ハグリング）、双方が最後に「これは正しい交換だ」と確信して握手をした、知的な勝利の形。)",
+		"thinking": "単なる安物ではなく、お互いの価値観を何度もぶつけ合い（ハグリング）、双方が最後に「これは正しい交換だ」と確信して握手をした、知的な勝利の形。",
+		"aftertaste": "本当の「バーゲン（価値ある取引）」とは、支払った金額の少なさではなく、手に入れたモノと共にこれから歩む時間の豊かさにこそ宿って（。いるのです。",
+		"example": "We finalized the bargain after a long negotiation.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "bargaignier",
+					"meaning": "to haggle, hesitate"
+				}
+			],
+			"points": [
+				"経済とは、実体としてのモノと、信頼という名の目に見えない糸が織りなす巨大なタペストリーです。"
+			]
+		},
+		"part_of_speech": "verb"
+	},
+	{
+		"id": "liability_trade",
+		"word": "liability",
+		"meaning": "負債、義務、責任",
+		"era": "15th Century",
+		"etymology": {
+			"components": [
+				"ligare (to bind)"
+			],
+			"original_statement": "From 15th Century ligare (to bind)."
+		},
+		"concept": "The state of being responsible for something, especially by law (社会という強固な鎖によって「固く縛られ（ライアブル）」、自分がなすべきことを果たさねばならないという、自由と引き換えに負った重い責務。)",
+		"thinking": "社会という強固な鎖によって「固く縛られ（ライアブル）」、自分がなすべきことを果たさねばならないという、自由と引き換えに負った重い責務。",
+		"aftertaste": "あなたの過去の失敗（。を「ライアビリティ（負債）」として恐れるのではなく、それを未来の成功へと繋ぐための『必要な投資』として捉え直して（。みてください。",
+		"example": "We finalized the liability after a long negotiation.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ligare",
+					"meaning": "to bind"
+				}
+			],
+			"points": [
+				"経済とは、実体としてのモノと、信頼という名の目に見えない糸が織りなす巨大なタペストリーです。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "barter_trade",
+		"word": "barter",
+		"meaning": "物物交換",
+		"era": "15th Century",
+		"etymology": {
+			"components": [
+				"barater (to deceive, trick, exchange)"
+			],
+			"original_statement": "From 15th Century barater (to deceive, trick, exchange)."
+		},
+		"concept": "Exchange (goods or services) for other goods or services without using money (お金という無機質な媒体を介さず、お互いの誠実さと必要性を直接ぶつけ合い（。交換する、原初的な信頼のコミュニケーションの形。)",
+		"thinking": "お金という無機質な媒体を介さず、お互いの誠実さと必要性を直接ぶつけ合い（。交換する、原初的な信頼のコミュニケーションの形。",
+		"aftertaste": "時には自分のスキルを誰かと「バーター（物物交換）」してみませんか。数字に換算されない、深い（。感謝と繋がりを再発見できるはずです。",
+		"example": "We finalized the barter after a long negotiation.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "barater",
+					"meaning": "to deceive, trick, exchange"
+				}
+			],
+			"points": [
+				"経済とは、実体としてのモノと、信頼という名の目に見えない糸が織りなす巨大なタペストリーです。"
+			]
+		},
+		"part_of_speech": "verb"
+	},
+	{
+		"id": "retail_trade",
+		"word": "retail",
+		"meaning": "小売",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"re- (again) + tailler (to cut)"
+			],
+			"original_statement": "From 14th Century re- (again) + tailler (to cut)."
+		},
+		"concept": "The sale of goods to the public in relatively small quantities for use or consumption (巨大（。なバルクの山を、一人の消費者のために丁寧に「小分けにし直して（カット）」届ける、生活への細やかな配慮と対話の最前線。)",
+		"thinking": "巨大（。なバルクの山を、一人の消費者のために丁寧に「小分けにし直して（カット）」届ける、生活への細やかな配慮と対話の最前線。",
+		"aftertaste": "「リテール（一人ひとりに手渡す）」の現場には、単なる売買を越えた、人と人との触れ合い（。という名の最も古くて新しい温もりが宿っています。",
+		"example": "We finalized the retail after a long negotiation.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "re-",
+					"meaning": "again) + tailler (to cut"
+				}
+			],
+			"points": [
+				"経済とは、実体としてのモノと、信頼という名の目に見えない糸が織りなす巨大なタペストリーです。"
+			]
+		},
+		"part_of_speech": "verb"
+	},
+	{
+		"id": "wholesale_trade",
+		"word": "wholesale",
+		"meaning": "卸売、大規模な",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"whole + sale"
+			],
+			"original_statement": "From 14th Century whole + sale."
+		},
+		"concept": "The selling of goods in large quantities to be retailed by others (世界中から集められた「全体（ホール）」を、巨大なエナジーの塊として効率的に移動させ、社会のインフラを静かに（。支え続ける、経済の心臓部の鼓動。)",
+		"thinking": "世界中から集められた「全体（ホール）」を、巨大なエナジーの塊として効率的に移動させ、社会のインフラを静かに（。支え続ける、経済の心臓部の鼓動。",
+		"aftertaste": "「ホールセール（卸売）」のような大規模な成功だけに目を奪われず（。、その背後にある数えきれない人々の誠実な労働（ワーク）に敬意を払ってください。",
+		"example": "We finalized the wholesale after a long negotiation.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "whole",
+					"meaning": "+ sale"
+				}
+			],
+			"points": [
+				"経済とは、実体としてのモノと、信頼という名の目に見えない糸が織りなす巨大なタペストリーです。"
+			]
+		},
+		"part_of_speech": "verb"
+	},
+	{
+		"id": "consumer_trade",
+		"word": "consumer",
+		"meaning": "消費者",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"consumere (to take up completely, devour, waste)"
+			],
+			"original_statement": "From 14th Century consumere (to take up completely, devour, waste)."
+		},
+		"concept": "A person who purchases goods and services for personal use (世界から提供されるあらゆる恵みを「受け取り（コンシューム）」、自らのエネルギーへと変換し、さらなる世界へのアクションへと繋いでいく、循環の終着点であり出発点。)",
+		"thinking": "世界から提供されるあらゆる恵みを「受け取り（コンシューム）」、自らのエネルギーへと変換し、さらなる世界へのアクションへと繋いでいく、循環の終着点であり出発点。",
+		"aftertaste": "賢い「コンシューマー（消費者）」としてのあなたの選択は、世界をどんな方向へ進める（。かという、一票の重みを持った尊い政治参加そのものなのです。",
+		"example": "We finalized the consumer after a long negotiation.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "consumere",
+					"meaning": "to take up completely, devour, waste"
+				}
+			],
+			"points": [
+				"経済とは、実体としてのモノと、信頼という名の目に見えない糸が織りなす巨大なタペストリーです。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "client_trade",
+		"word": "client",
+		"meaning": "顧客、クライアント",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"cliens (follower, retainer, person calling for protection)"
+			],
+			"original_statement": "From 14th Century cliens (follower, retainer, person calling for protection)."
+		},
+		"concept": "A person or organization using the services of a lawyer or other professional person or company (ただの購入者ではなく、その人の意志を信じて「身を寄せ（リーン）」保護（プロテクション）を求める、深い信頼関係に基づいた知的なパートナーシップの相手。)",
+		"thinking": "ただの購入者ではなく、その人の意志を信じて「身を寄せ（リーン）」保護（プロテクション）を求める、深い信頼関係に基づいた知的なパートナーシップの相手。",
+		"aftertaste": "目の前の人を「クライアント（信頼して寄り添う人）」として大切にする姿勢があれば、どんな（。ビジネスの荒波も、あなたは笑顔で乗り越えていけるでしょう。",
+		"example": "We finalized the client after a long negotiation.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "cliens",
+					"meaning": "follower, retainer, person calling for protection"
+				}
+			],
+			"points": [
+				"経済とは、実体としてのモノと、信頼という名の目に見えない糸が織りなす巨大なタペストリーです。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "vendor_trade",
+		"word": "vendor",
+		"meaning": "ベンダー、売り主",
+		"era": "16th Century",
+		"etymology": {
+			"components": [
+				"vendere (to sell)"
+			],
+			"original_statement": "From 16th Century vendere (to sell)."
+		},
+		"concept": "A person or company offering something for sale, especially a trader in the street (自らの審美眼（。で選び抜いた価値あるものを、広場（バザー）で人々に「提供し、手渡す」ことで、社会というネットワークに新しい命の色を添える商人。)",
+		"thinking": "自らの審美眼（。で選び抜いた価値あるものを、広場（バザー）で人々に「提供し、手渡す」ことで、社会というネットワークに新しい命の色を添える商人。",
+		"aftertaste": "あなたが「ベンダー（価値の提供者）」として誇りを持つべきなのは、モノを売ることではなく、それによって（。誰かの不調や悩みを鮮やかに解決しているという事実なのです。",
+		"example": "We finalized the vendor after a long negotiation.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "vendere",
+					"meaning": "to sell"
+				}
+			],
+			"points": [
+				"経済とは、実体としてのモノと、信頼という名の目に見えない糸が織りなす巨大なタペストリーです。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "competitive_trade",
+		"word": "competitive",
+		"meaning": "競争力のある、競技の",
+		"era": "19th Century",
+		"etymology": {
+			"components": [
+				"com- (together) + petere (to strive, seek)"
+			],
+			"original_statement": "From 19th Century com- (together) + petere (to strive, seek)."
+		},
+		"concept": "Relating to or characterized by competition (ライバルと切磋琢磨し、同じ高みを目指して「共に競い（ペティート）合う」ことで、自らの限界を突破し、より洗練された強さを追求しようとする向上心。)",
+		"thinking": "ライバルと切磋琢磨し、同じ高みを目指して「共に競い（ペティート）合う」ことで、自らの限界を突破し、より洗練された強さを追求しようとする向上心。",
+		"aftertaste": "「コンペティティブ（競争が激しい）」な環境は、あなたを苦しめるためにあるのではなく、あなたの（。眠れる才能を叩き起こして、本物にするために用意された試練なのです。",
+		"example": "We finalized the competitive after a long negotiation.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "com-",
+					"meaning": "together) + petere (to strive, seek"
+				}
+			],
+			"points": [
+				"経済とは、実体としてのモノと、信頼という名の目に見えない糸が織りなす巨大なタペストリーです。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "strategic_trade",
+		"word": "strategic",
+		"meaning": "戦略的な、重要な",
+		"era": "19th Century",
+		"etymology": {
+			"components": [
+				"strategos (leader of an army)"
+			],
+			"original_statement": "From 19th Century strategos (leader of an army)."
+		},
+		"concept": "Relating to the identification of long-term or overall aims and interests and the means of achieving them (目の前の戦い（バトル）を一過性のものにせず、軍の指揮官（ストラテゴス）のような俯瞰した（。視点で、遠い勝利への道筋を冷徹に描き出すこと。)",
+		"thinking": "目の前の戦い（バトル）を一過性のものにせず、軍の指揮官（ストラテゴス）のような俯瞰した（。視点で、遠い勝利への道筋を冷徹に描き出すこと。",
+		"aftertaste": "人生という巨大なゲームの「ストラテジック（戦略的）」な設計図は、あなた自身の（。手で描いてください。目的地を他人に決めさせては絶対に（。ならないのです。",
+		"example": "We finalized the strategic after a long negotiation.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "strategos",
+					"meaning": "leader of an army"
+				}
+			],
+			"points": [
+				"経済とは、実体としてのモノと、信頼という名の目に見えない糸が織りなす巨大なタペストリーです。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "startup_trade",
+		"word": "startup",
+		"meaning": "スタートアップ、新規事業",
+		"era": "19th Century",
+		"etymology": {
+			"components": [
+				"start + up"
+			],
+			"original_statement": "From 19th Century start + up."
+		},
+		"concept": "A newly established business (地面から力強く「立ち上がり（アップ）」、既存の常識をゼロから塗り替えるために、最初の一歩（スタート）を力強く踏み出したばかりの（。、瑞々しくも攻撃的な挑戦者。)",
+		"thinking": "地面から力強く「立ち上がり（アップ）」、既存の常識をゼロから塗り替えるために、最初の一歩（スタート）を力強く踏み出したばかりの（。、瑞々しくも攻撃的な挑戦者。",
+		"aftertaste": "どんな大企業も、最初は誰かの情熱から始まった「スタートアップ（生まれたばかりの芽）」でした。自分の未熟さを、可能性という名の最高のギフト（武器）に変えてください。",
+		"example": "We finalized the startup after a long negotiation.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "start",
+					"meaning": "+ up"
+				}
+			],
+			"points": [
+				"経済とは、実体としてのモノと、信頼という名の目に見えない糸が織りなす巨大なタペストリーです。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "subsidiary_trade",
+		"word": "subsidiary",
+		"meaning": "子会社、補助的な",
+		"era": "16th Century",
+		"etymology": {
+			"components": [
+				"sub- (under) + sidere (to sit)"
+			],
+			"original_statement": "From 16th Century sub- (under) + sidere (to sit)."
+		},
+		"concept": "A company controlled by a holding company (本社の「下に（サブ）座り（シット）」、特定の専門分野を担当することで、巨大なグループという巨大なシステム全体の調和と効率（。を裏から支える、重要な歯車。)",
+		"thinking": "本社の「下に（サブ）座り（シット）」、特定の専門分野を担当することで、巨大なグループという巨大なシステム全体の調和と効率（。を裏から支える、重要な歯車。",
+		"aftertaste": "「サブシディアリー（補助的な存在）」であることに卑下（ひげ）する必要はありません。どんな巨大な（。塔も、見えない地下の支柱（しちゅう）がなければ、一瞬で崩れ去ってしまう（。のですから。",
+		"example": "We finalized the subsidiary after a long negotiation.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sub-",
+					"meaning": "under) + sidere (to sit"
+				}
+			],
+			"points": [
+				"経済とは、実体としてのモノと、信頼という名の目に見えない糸が織りなす巨大なタペストリーです。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "insolvent_trade",
+		"word": "insolvent",
+		"meaning": "支払い不能の、破産した",
+		"era": "17th Century",
+		"etymology": {
+			"components": [
+				"in- (not) + solve (to dissolve, loosen)"
+			],
+			"original_statement": "From 17th Century in- (not) + solve (to dissolve, loosen)."
+		},
+		"concept": "Unable to pay one's debts (絡み合った負債の糸を「解きほぐす（ソルヴ）」ことができなくなり、身動きが取れなくなった不自由な状態。限界を超えた負担が思考（システム）を麻痺させている時。)",
+		"thinking": "絡み合った負債の糸を「解きほぐす（ソルヴ）」ことができなくなり、身動きが取れなくなった不自由な状態。限界を超えた負担が思考（システム）を麻痺させている時。",
+		"aftertaste": "「インソルヴェント（行き詰まり）」を感じているのなら、問題を一つずつ分解して、解き（。ほぐせる小さな糸から丁寧に手をつけてみてください。解決の糸口は必ず見つかります。",
+		"example": "We finalized the insolvent after a long negotiation.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "in-",
+					"meaning": "not) + solve (to dissolve, loosen"
+				}
+			],
+			"points": [
+				"経済とは、実体としてのモノと、信頼という名の目に見えない糸が織りなす巨大なタペストリーです。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "liquidation_trade",
+		"word": "liquidation",
+		"meaning": "清算、整理、解体",
+		"era": "16th Century",
+		"etymology": {
+			"components": [
+				"liquidus (fluid, liquid)"
+			],
+			"original_statement": "From 16th Century liquidus (fluid, liquid)."
+		},
+		"concept": "The process of liquidating a business (固執していた形（かたち）を一度「液体化（リキッド）」して流し去り、残った本質的な価値（。だけを選別して、新しい生命の素材へと再構成するための、浄化のプロセス。)",
+		"thinking": "固執していた形（かたち）を一度「液体化（リキッド）」して流し去り、残った本質的な価値（。だけを選別して、新しい生命の素材へと再構成するための、浄化のプロセス。",
+		"aftertaste": "古いプライドを「リクイデーション（清算）」できた時、あなたの魂の解像度は一気に上がり（。、何が本当に大切で、何がただの虚飾だったのかを、鏡のように鮮明に映し出すことでしょう。",
+		"example": "We finalized the liquidation after a long negotiation.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "liquidus",
+					"meaning": "fluid, liquid"
+				}
+			],
+			"points": [
+				"経済とは、実体としてのモノと、信頼という名の目に見えない糸が織りなす巨大なタペストリーです。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "invoice_trade",
+		"word": "invoice",
+		"meaning": "請求書、納品書、インボイス",
+		"era": "16th Century",
+		"etymology": {
+			"components": [
+				"en- (in) + voie (path, way)"
+			],
+			"original_statement": "From 16th Century en- (in) + voie (path, way)."
+		},
+		"concept": "A list of goods sent or services provided, with a statement of the sum due for these; a bill (提供された価値が、お互いに合意された「正しい道（ウェイ）」の上にあることを証明（。し、正当なかたちでエネルギー（対価）の循環を促す、信頼の報告書。)",
+		"thinking": "提供された価値が、お互いに合意された「正しい道（ウェイ）」の上にあることを証明（。し、正当なかたちでエネルギー（対価）の循環を促す、信頼の報告書。",
+		"aftertaste": "「インボイス（請求書）」を送る時は、単なる数字のやり取りではなく、提供した（。サービスの質に対する『自分の誇り』も一緒に同封する。そんな心意気が、次（。なる最高の仕事を呼び込むのです。",
+		"example": "We finalized the invoice after a long negotiation.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "en-",
+					"meaning": "in) + voie (path, way"
+				}
+			],
+			"points": [
+				"経済とは、実体としてのモノと、信頼という名の目に見えない糸が織りなす巨大なタペストリーです。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "rebate_trade",
+		"word": "rebate",
+		"meaning": "払い戻し、リベート、還付",
+		"era": "15th Century",
+		"etymology": {
+			"components": [
+				"re- (again) + battre (to beat)"
+			],
+			"original_statement": "From 15th Century re- (again) + battre (to beat)."
+		},
+		"concept": "A partial refund to someone who has paid too much money for tax, rent, or a utility (一度打ち出（。された支払いの波を、正当な理由によって「再び（リ）打ち（バット）返す」ことで、過剰な負担を正し、公平な調和を再構築する、誠実な（。調整。)",
+		"thinking": "一度打ち出（。された支払いの波を、正当な理由によって「再び（リ）打ち（バット）返す」ことで、過剰な負担を正し、公平な調和を再構築する、誠実な（。調整。",
+		"aftertaste": "税金の「リベート（還付金）」が戻ってきたら、それは国との間での（。、一つの公平な『対話』が完了したのだと捉えてみてください。そこには正義（ジャスティス）という名の清々しさが宿っているはずです。",
+		"example": "We finalized the rebate after a long negotiation.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "re-",
+					"meaning": "again) + battre (to beat"
+				}
+			],
+			"points": [
+				"経済とは、実体としてのモノと、信頼という名の目に見えない糸が織りなす巨大なタペストリーです。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "premium_trade",
+		"word": "premium",
+		"meaning": "プレミアム、保険料、賞品",
+		"era": "16th Century",
+		"etymology": {
+			"components": [
+				"prae- (before) + emere (to take, buy)"
+			],
+			"original_statement": "From 16th Century prae- (before) + emere (to take, buy)."
+		},
+		"concept": "An amount to be paid for a contract of insurance (手に入れる（。バイ）「前に（プレ）」あらかじめ支払う、未来の安心や、他には（。ない特別な価値を享受するための、勇気と贅沢さに満ちた特別な贈り物（。ギフト。)",
+		"thinking": "手に入れる（。バイ）「前に（プレ）」あらかじめ支払う、未来の安心や、他には（。ない特別な価値を享受するための、勇気と贅沢さに満ちた特別な贈り物（。ギフト。",
+		"aftertaste": "あなたの「プレミアム（最高の輝き）」な情熱を浪費しないでください。それを分かって（。くれる、あなた自身の本質を愛してくれる人たちのために、その輝きを大切に（。使い切ってくださいね。",
+		"example": "We finalized the premium after a long negotiation.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "prae-",
+					"meaning": "before) + emere (to take, buy"
+				}
+			],
+			"points": [
+				"経済とは、実体としてのモノと、信頼という名の目に見えない糸が織りなす巨大なタペストリーです。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "markup_trade",
+		"word": "markup",
+		"meaning": "値上げ、粗利益、マークアップ",
+		"era": "19th Century",
+		"etymology": {
+			"components": [
+				"mark + up"
+			],
+			"original_statement": "From 19th Century mark + up."
+		},
+		"concept": "The amount added to the cost price of goods to cover overhead and profit (提供された原材料に、あなたの技術、センス、そして愛という名の付加価値を加え（。、目印（マーク）を「一段高く（アップ）」引き上げる、知的な仕事の総称。)",
+		"thinking": "提供された原材料に、あなたの技術、センス、そして愛という名の付加価値を加え（。、目印（マーク）を「一段高く（アップ）」引き上げる、知的な仕事の総称。",
+		"aftertaste": "人生にも「マークアップ（付加価値の向上）」が必要です。同じ日常の繰り返しに、あなた（。だけの新しい経験（。という彩りを加えれば、人生の単価は一気に跳ね上がります。",
+		"example": "We finalized the markup after a long negotiation.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "mark",
+					"meaning": "+ up"
+				}
+			],
+			"points": [
+				"経済とは、実体としてのモノと、信頼という名の目に見えない糸が織りなす巨大なタペストリーです。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "ledger_trade",
+		"word": "ledger",
+		"meaning": "元帳、台帳、レジャー",
+		"era": "15th Century",
+		"etymology": {
+			"components": [
+				"liggen (to lie, stay in place)"
+			],
+			"original_statement": "From 15th Century liggen (to lie, stay in place)."
+		},
+		"concept": "A book or other collection of financial accounts of a particular type (どんなに激しく社会の海が荒れても、決して動かずにその場に「留まり（。ライ）、真実を記録し続ける」という、揺るぎない信頼の土台となる一冊の重い本。)",
+		"thinking": "どんなに激しく社会の海が荒れても、決して動かずにその場に「留まり（。ライ）、真実を記録し続ける」という、揺るぎない信頼の土台となる一冊の重い本。",
+		"aftertaste": "あなたの心の中にある「レジャー（魂の台帳）」を、嘘偽りのない言葉で（。埋め尽くしてください。最後の瞬間にそれを見返した時、あなたは自分の人生（。を最高の傑作だったと確信できるはずです。",
+		"example": "We finalized the ledger after a long negotiation.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "liggen",
+					"meaning": "to lie, stay in place"
+				}
+			],
+			"points": [
+				"経済とは、実体としてのモノと、信頼という名の目に見えない糸が織りなす巨大なタペストリーです。"
+			]
+		},
+		"part_of_speech": "noun"
 	}
 ];
