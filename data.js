@@ -206539,5 +206539,145 @@ const WORDS = [
 			]
 		},
 		"part_of_speech": "noun"
+	},
+	{
+		"id": "wavelength_pendulum",
+		"word": "wavelength",
+		"meaning": "波長、ウェーブレングス",
+		"era": "19th Century",
+		"etymology": {
+			"components": [
+				"wave + length"
+			],
+			"original_statement": "From 19th Century wave + length."
+		},
+		"concept": "The distance between successive crests of a wave, especially points in a sound wave or electromagnetic wave (響き（。が（。一（。つ（。の「ピークを（。越えて（。ウェーブ）次に（。至（。る（。までの（。距離（。レングス）」。（。誰（。か（。と（。波長が（。合う（。なら（。、それ（。は（。、魂（。の（。歩（。幅（。が（。同（。じ（。と（。いう（。こと（。なの（。ですよ。)",
+		"thinking": "響き（。が（。一（。つ（。の「ピークを（。越えて（。ウェーブ）次に（。至（。る（。までの（。距離（。レングス）」。（。誰（。か（。と（。波長が（。合う（。なら（。、それ（。は（。、魂（。の（。歩（。幅（。が（。同（。じ（。と（。いう（。こと（。なの（。ですよ。",
+		"aftertaste": "振り子は、時間がただの数字ではなく、宇宙の拍動そのものであることを、無言で物語っています。",
+		"example": "The scientist observed the regular wavelength of the device to calculate the gravitational force.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "wave",
+					"meaning": "+ length"
+				}
+			],
+			"points": [
+				"揺れ動くことの中にこそ、生命の真実があり、動かないものは、もはや命を失っているのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "trough_pendulum",
+		"word": "trough",
+		"meaning": "波の谷、水槽、苦境、トラフ",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"trog (hollow vessel, literal: 'tree')"
+			],
+			"original_statement": "From Old English trog (hollow vessel, literal: 'tree')."
+		},
+		"concept": "A long, narrow open container for animals to eat or drink out of (波が（。最も（。引（。き（。、深（。く「沈（。み（。込（。ん（。だ（。トロ）」場所（。。（。けれど（。、その（。深（。い（。谷（。がある（。から（。こそ（。、次（。には（。、より（。眩（。しい（。頂（。が（。、あなた（。を（。待（。って（。いる（。の（。ですよ。)",
+		"thinking": "波が（。最も（。引（。き（。、深（。く「沈（。み（。込（。ん（。だ（。トロ）」場所（。。（。けれど（。、その（。深（。い（。谷（。がある（。から（。こそ（。、次（。には（。、より（。眩（。しい（。頂（。が（。、あなた（。を（。待（。って（。いる（。の（。ですよ。",
+		"aftertaste": "振り子は、時間がただの数字ではなく、宇宙の拍動そのものであることを、無言で物語っています。",
+		"example": "The scientist observed the regular trough of the device to calculate the gravitational force.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "trog",
+					"meaning": "hollow vessel, literal: 'tree'"
+				}
+			],
+			"points": [
+				"揺れ動くことの中にこそ、生命の真実があり、動かないものは、もはや命を失っているのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "flood_pendulum",
+		"word": "flood",
+		"meaning": "洪水、溢れる、フラッド",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"flōd (flowing water, flood)"
+			],
+			"original_statement": "From Old English flōd (flowing water, flood)."
+		},
+		"concept": "An overflowing of a large amount of water beyond its normal confines, especially over what is normally dry land (抑（。え（。切（。れ（。ない（。エナジーが（。、「溢（。れ（。出し（。フロ）押し寄（。せる（。）」こと（。。（。全（。てを（。押し流（。す（。その（。峻烈（。さ（。は（。、古い（。執（。着（。を（。消（。し（。去（。り（。、大地（。を（。浄（。化（。する（。ための（。祈り。)",
+		"thinking": "抑（。え（。切（。れ（。ない（。エナジーが（。、「溢（。れ（。出し（。フロ）押し寄（。せる（。）」こと（。。（。全（。てを（。押し流（。す（。その（。峻烈（。さ（。は（。、古い（。執（。着（。を（。消（。し（。去（。り（。、大地（。を（。浄（。化（。する（。ための（。祈り。",
+		"aftertaste": "振り子は、時間がただの数字ではなく、宇宙の拍動そのものであることを、無言で物語っています。",
+		"example": "The scientist observed the regular flood of the device to calculate the gravitational force.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "flōd",
+					"meaning": "flowing water, flood"
+				}
+			],
+			"points": [
+				"揺れ動くことの中にこそ、生命の真実があり、動かないものは、もはや命を失っているのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "swell_pendulum",
+		"word": "swell",
+		"meaning": "膨らむ、うねり、素晴らしい",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"swellan (to swell)"
+			],
+			"original_statement": "From Old English swellan (to swell)."
+		},
+		"concept": "Become larger or rounder in size, typically by absorbing water or as the result of an injury (満ち（。足り（。て（。、「大きく（。膨ら（。む（。スウェル）」こと（。。（。海（。の（。底から（。湧（。き（。上がる（。巨大な（。うねり（。は（。、大地（。の（。重力（。さえ（。も（。、軽（。やかに（。越（。えて（。いく（。のです。)",
+		"thinking": "満ち（。足り（。て（。、「大きく（。膨ら（。む（。スウェル）」こと（。。（。海（。の（。底から（。湧（。き（。上がる（。巨大な（。うねり（。は（。、大地（。の（。重力（。さえ（。も（。、軽（。やかに（。越（。えて（。いく（。のです。",
+		"aftertaste": "振り子は、時間がただの数字ではなく、宇宙の拍動そのものであることを、無言で物語っています。",
+		"example": "The scientist observed the regular swell of the device to calculate the gravitational force.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "swellan",
+					"meaning": "to swell"
+				}
+			],
+			"points": [
+				"揺れ動くことの中にこそ、生命の真実があり、動かないものは、もはや命を失っているのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "phase_pendulum",
+		"word": "phase",
+		"meaning": "段階、位相、フェーズ",
+		"era": "16th Century",
+		"etymology": {
+			"components": [
+				"phasis (appearance, literal: 'shining')"
+			],
+			"original_statement": "From 16th Century phasis (appearance, literal: 'shining')."
+		},
+		"concept": "A distinct period or stage in a series of events or a process of change or development (月（。が（。満ち（。欠け（。るように（。、真理（。が「姿を（。変えて（。現れる（。フェイ）」こと（。。（。どの（。瞬間（。も（。一つの（。真実（。であり（。、それで（。いて（。全（。て（。ではない（。、流（。動（。的（。な（。る（。美し（。さ。)",
+		"thinking": "月（。が（。満ち（。欠け（。るように（。、真理（。が「姿を（。変えて（。現れる（。フェイ）」こと（。。（。どの（。瞬間（。も（。一つの（。真実（。であり（。、それで（。いて（。全（。て（。ではない（。、流（。動（。的（。な（。る（。美し（。さ。",
+		"aftertaste": "振り子は、時間がただの数字ではなく、宇宙の拍動そのものであることを、無言で物語っています。",
+		"example": "The scientist observed the regular phase of the device to calculate the gravitational force.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "phasis",
+					"meaning": "appearance, literal: 'shining'"
+				}
+			],
+			"points": [
+				"揺れ動くことの中にこそ、生命の真実があり、動かないものは、もはや命を失っているのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
 	}
 ];
