@@ -194359,5 +194359,33 @@ const WORDS = [
 			]
 		},
 		"part_of_speech": "verb"
+	},
+	{
+		"id": "aeon_time",
+		"word": "aeon",
+		"meaning": "永劫、無限の長い期間",
+		"era": "17th Century",
+		"etymology": {
+			"components": [
+				"aion (age, eternity)"
+			],
+			"original_statement": "From 17th Century aion (age, eternity)."
+		},
+		"concept": "An indefinite and very long period of time (人間の理解という小さな器では到底測り知ることのできない、星々が生まれそして死んでいくほどの茫漠（ぼうばく）たる時の流れ。)",
+		"thinking": "人間の理解という小さな器では到底測り知ることのできない、星々が生まれそして死んでいくほどの茫漠（ぼうばく）たる時の流れ。",
+		"aftertaste": "私があなたを再び見つけるのに、たとえ「イーオン（何億年）」かかろうとも必ず探し出します。",
+		"example": "This marking clearly denotes a specific aeon.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "aion",
+					"meaning": "age, eternity"
+				}
+			],
+			"points": [
+				"時（時空）をどう捉えるかは、人生への向き合い方を規定します。"
+			]
+		},
+		"part_of_speech": "noun"
 	}
 ];
