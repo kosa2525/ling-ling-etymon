@@ -210347,5 +210347,145 @@ const WORDS = [
 			]
 		},
 		"part_of_speech": "noun"
+	},
+	{
+		"id": "sigil_mystery",
+		"word": "sigil",
+		"meaning": "記号、印章、シジル",
+		"era": "16th Century",
+		"etymology": {
+			"components": [
+				"sigillum (seal, sign, literal: 'little sign')"
+			],
+			"original_statement": "From 16th Century sigillum (seal, sign, literal: 'little sign')."
+		},
+		"concept": "An inscribed or painted symbol considered to have magical power (宇宙の（。エナジーを、美し（。い（。幾何学（。の中に「封印（。し（。た（。シジル）』。（。その（。一一点（。の（。紋様にに、誰（。にも（。汚（。さ（。れ（。な（。い（。、至高（。の（。真実（。が（。、静（。か（。に（。、横（。たわ（。って（。いる（。のですよ。)",
+		"thinking": "宇宙の（。エナジーを、美し（。い（。幾何学（。の中に「封印（。し（。た（。シジル）』。（。その（。一一点（。の（。紋様にに、誰（。にも（。汚（。さ（。れ（。な（。い（。、至高（。の（。真実（。が（。、静（。か（。に（。、横（。たわ（。って（。いる（。のですよ。",
+		"aftertaste": "秘密は、誰にも言わないことで守られるのではない。誰も理解できない場所に置くことで、初めて永遠になるのですよ。",
+		"example": "The ancient scrolls were written in a sigil script that baffled historians for generations until the discovery of the Rosetta Stone.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sigillum",
+					"meaning": "seal, sign, literal: 'little sign'"
+				}
+			],
+			"points": [
+				"隠すという行為は、拒絶ではなく、真実を時間という名の劣化から守るための、至高の愛なのかもしれません。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "crypt_mystery",
+		"word": "crypt",
+		"meaning": "地下聖堂、暗号、クリプト",
+		"era": "15th Century",
+		"etymology": {
+			"components": [
+				"kruptein (to hide)"
+			],
+			"original_statement": "From 15th Century kruptein (to hide)."
+		},
+		"concept": "An underground room or vault beneath a church, used as a chapel or burial place (光を（。拒（。み、ただ「隠（。さ（。れた（。クリプ）』至高の（。場所（。（。そこ（。には（。、沈黙が（。、最（。も（。深く（。、最（。も（。美し（。く（。、横（。たわ（。って（。いる（。のですよ。)",
+		"thinking": "光を（。拒（。み、ただ「隠（。さ（。れた（。クリプ）』至高の（。場所（。（。そこ（。には（。、沈黙が（。、最（。も（。深く（。、最（。も（。美し（。く（。、横（。たわ（。って（。いる（。のですよ。",
+		"aftertaste": "秘密は、誰にも言わないことで守られるのではない。誰も理解できない場所に置くことで、初めて永遠になるのですよ。",
+		"example": "The ancient scrolls were written in a crypt script that baffled historians for generations until the discovery of the Rosetta Stone.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kruptein",
+					"meaning": "to hide"
+				}
+			],
+			"points": [
+				"隠すという行為は、拒絶ではなく、真実を時間という名の劣化から守るための、至高の愛なのかもしれません。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "cache_mystery",
+		"word": "cache",
+		"meaning": "隠し場所、キャッシュ",
+		"era": "18th Century",
+		"etymology": {
+			"components": [
+				"cacher (to hide)"
+			],
+			"original_statement": "From 18th Century cacher (to hide)."
+		},
+		"concept": "A collection of items of the same type stored in a hidden or inaccessible place (大切（。な（。ものを、そっと「隠（。し（。置（。いた（。キャッシュ）』。（。その（。見（。え（。な（。い（。場所に（。、あなた（。は（。、今日（。何（。を（。、預（。け（。て（。き（。た（。の（。でしょうか。)",
+		"thinking": "大切（。な（。ものを、そっと「隠（。し（。置（。いた（。キャッシュ）』。（。その（。見（。え（。な（。い（。場所に（。、あなた（。は（。、今日（。何（。を（。、預（。け（。て（。き（。た（。の（。でしょうか。",
+		"aftertaste": "秘密は、誰にも言わないことで守られるのではない。誰も理解できない場所に置くことで、初めて永遠になるのですよ。",
+		"example": "The ancient scrolls were written in a cache script that baffled historians for generations until the discovery of the Rosetta Stone.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "cacher",
+					"meaning": "to hide"
+				}
+			],
+			"points": [
+				"隠すという行為は、拒絶ではなく、真実を時間という名の劣化から守るための、至高の愛なのかもしれません。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "hoard_mystery",
+		"word": "hoard",
+		"meaning": "蓄え、死蔵、ホード",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"hord (treasure, hidden place, literal: 'hidden board')"
+			],
+			"original_statement": "From Old English hord (treasure, hidden place, literal: 'hidden board')."
+		},
+		"concept": "A stock or store of money or valued objects, typically one that is secret or carefully guarded (誰（。にも（。見（。つ（。か（。ら（。な（。い（。ように、「蓄（。え（。ら（。れた（。ホード）』、孤独（。な（。る（。財宝（。（。その（。閉じ（。られた（。豊饒（。さが（。、いつか（。、世界（。を（。、美し（。く（。裏（。切（。る（。のですよ。)",
+		"thinking": "誰（。にも（。見（。つ（。か（。ら（。な（。い（。ように、「蓄（。え（。ら（。れた（。ホード）』、孤独（。な（。る（。財宝（。（。その（。閉じ（。られた（。豊饒（。さが（。、いつか（。、世界（。を（。、美し（。く（。裏（。切（。る（。のですよ。",
+		"aftertaste": "秘密は、誰にも言わないことで守られるのではない。誰も理解できない場所に置くことで、初めて永遠になるのですよ。",
+		"example": "The ancient scrolls were written in a hoard script that baffled historians for generations until the discovery of the Rosetta Stone.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "hord",
+					"meaning": "treasure, hidden place, literal: 'hidden board'"
+				}
+			],
+			"points": [
+				"隠すという行為は、拒絶ではなく、真実を時間という名の劣化から守るための、至高の愛なのかもしれません。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "treasury_mystery",
+		"word": "treasury",
+		"meaning": "宝物庫、財務省、トレジャリー",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"thesauros (storehouse, treasure, literal: 'place where it is put')"
+			],
+			"original_statement": "From 14th Century thesauros (storehouse, treasure, literal: 'place where it is put')."
+		},
+		"concept": "A place or building where treasure is stored (至高（。の（。る「至（。宝（。テザウロス）』を（。、そっと（。仕（。舞（。う（。ための（。、静（。かな（。る（。館（。（。そこ（。に（。足（。を（。踏（。み（。入（。る（。とき（。、あなた（。は（。、宇宙の（。真実と、出会（。い（。ます。)",
+		"thinking": "至高（。の（。る「至（。宝（。テザウロス）』を（。、そっと（。仕（。舞（。う（。ための（。、静（。かな（。る（。館（。（。そこ（。に（。足（。を（。踏（。み（。入（。る（。とき（。、あなた（。は（。、宇宙の（。真実と、出会（。い（。ます。",
+		"aftertaste": "秘密は、誰にも言わないことで守られるのではない。誰も理解できない場所に置くことで、初めて永遠になるのですよ。",
+		"example": "The ancient scrolls were written in a treasury script that baffled historians for generations until the discovery of the Rosetta Stone.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "thesauros",
+					"meaning": "storehouse, treasure, literal: 'place where it is put'"
+				}
+			],
+			"points": [
+				"隠すという行為は、拒絶ではなく、真実を時間という名の劣化から守るための、至高の愛なのかもしれません。"
+			]
+		},
+		"part_of_speech": "noun"
 	}
 ];
