@@ -202171,5 +202171,201 @@ const WORDS = [
 			]
 		},
 		"part_of_speech": "noun"
+	},
+	{
+		"id": "momentary_time",
+		"word": "momentary",
+		"meaning": "瞬間的な、束の間の",
+		"era": "16th Century",
+		"etymology": {
+			"components": [
+				"movimentum (movement)"
+			],
+			"original_statement": "From 16th Century movimentum (movement)."
+		},
+		"concept": "Lasting for a very short time (単なる（。短い（。時間で（。はなく（。、運命が（。大きく「動（。き（。ムーブ）変（。わる（。）」、その（。一瞬（。の（。衝撃（。。（。稲妻（。のように（。、世界（。の（。輪郭（。を（。一瞬（。だけ（。照（。らし出（。す（。、時の（。火花。)",
+		"thinking": "単なる（。短い（。時間で（。はなく（。、運命が（。大きく「動（。き（。ムーブ）変（。わる（。）」、その（。一瞬（。の（。衝撃（。。（。稲妻（。のように（。、世界（。の（。輪郭（。を（。一瞬（。だけ（。照（。らし出（。す（。、時の（。火花。",
+		"aftertaste": "時間は、命が自らのかたちを刻み込むための、透明な彫刻刀です。",
+		"example": "The momentary of the concert was exactly two hours.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "movimentum",
+					"meaning": "movement"
+				}
+			],
+			"points": [
+				"永遠とは、長い時間の果てにあるものではなく、今この瞬間の深みの中に隠されているものです。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "immortal_time",
+		"word": "immortal",
+		"meaning": "不死の、不滅の",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"in- (not) + mors (death)"
+			],
+			"original_statement": "From 14th Century in- (not) + mors (death)."
+		},
+		"concept": "Living forever; never dying or decaying (肉体（。という（。檻（。を（。脱（。ぎ（。捨て（。、「死（。モータル）を（。持（。たない（。イ）」、言葉（。や（。旋律（。へと（。昇華（。された（。、精神の（。純粋（。な（。残（。像。)",
+		"thinking": "肉体（。という（。檻（。を（。脱（。ぎ（。捨て（。、「死（。モータル）を（。持（。たない（。イ）」、言葉（。や（。旋律（。へと（。昇華（。された（。、精神の（。純粋（。な（。残（。像。",
+		"aftertaste": "時間は、命が自らのかたちを刻み込むための、透明な彫刻刀です。",
+		"example": "The immortal of the concert was exactly two hours.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "in-",
+					"meaning": "not) + mors (death"
+				}
+			],
+			"points": [
+				"永遠とは、長い時間の果てにあるものではなく、今この瞬間の深みの中に隠されているものです。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "sequential_time",
+		"word": "sequential",
+		"meaning": "連続的な、順次の",
+		"era": "19th Century",
+		"etymology": {
+			"components": [
+				"sequi (to follow)"
+			],
+			"original_statement": "From 19th Century sequi (to follow)."
+		},
+		"concept": "Forming or following in a logical order or sequence (混沌（。とした（。出来事（。の中から（。、一つ（。ひとつの（。因果関係（。を「後に（。続く（。セクイ）もの（。）」として（。丁寧（。（。に（。繋（。ぎ（。合（。わ（。せ（。た（。、知性の（。鎖。)",
+		"thinking": "混沌（。とした（。出来事（。の中から（。、一つ（。ひとつの（。因果関係（。を「後に（。続く（。セクイ）もの（。）」として（。丁寧（。（。に（。繋（。ぎ（。合（。わ（。せ（。た（。、知性の（。鎖。",
+		"aftertaste": "時間は、命が自らのかたちを刻み込むための、透明な彫刻刀です。",
+		"example": "The sequential of the concert was exactly two hours.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sequi",
+					"meaning": "to follow"
+				}
+			],
+			"points": [
+				"永遠とは、長い時間の果てにあるものではなく、今この瞬間の深みの中に隠されているものです。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "chronological_time",
+		"word": "chronological",
+		"meaning": "年代順の",
+		"era": "17th Century",
+		"etymology": {
+			"components": [
+				"khronos (time) + logos (word, study)"
+			],
+			"original_statement": "From 17th Century khronos (time) + logos (word, study)."
+		},
+		"concept": "Starting with the earliest and following the order in which they occurred (「時（。クロノス）の（。言葉（。ロゴス）」。（。残酷（。な（。までに（。正確（。な（。、過去（。から（。未来へと（。至（。る（。、戻（。ら（。ない（。一方（。通行の（。記録（。の（。階段。)",
+		"thinking": "「時（。クロノス）の（。言葉（。ロゴス）」。（。残酷（。な（。までに（。正確（。な（。、過去（。から（。未来へと（。至（。る（。、戻（。ら（。ない（。一方（。通行の（。記録（。の（。階段。",
+		"aftertaste": "時間は、命が自らのかたちを刻み込むための、透明な彫刻刀です。",
+		"example": "The chronological of the concert was exactly two hours.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "khronos",
+					"meaning": "time) + logos (word, study"
+				}
+			],
+			"points": [
+				"永遠とは、長い時間の果てにあるものではなく、今この瞬間の深みの中に隠されているものです。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "intermittent_time",
+		"word": "intermittent",
+		"meaning": "断続的な、時々途切れる",
+		"era": "16th Century",
+		"etymology": {
+			"components": [
+				"inter- (between) + mittere (to send)"
+			],
+			"original_statement": "From 16th Century inter- (between) + mittere (to send)."
+		},
+		"concept": "Occurring at irregular intervals; not continuous or steady (常に（。押し（。寄せる（。のではなく（。、束の間の（。静寂の「間に（。インター）送（。り（。込ま（。れる（。ミッ）」、エナジーの（。断片（。。（。呼吸（。と（。拍動の（。ように（。、生と（。死の（。隙間を（。縫（。い（。合わせ（。て（。いく（。、時の（。点描画。)",
+		"thinking": "常に（。押し（。寄せる（。のではなく（。、束の間の（。静寂の「間に（。インター）送（。り（。込ま（。れる（。ミッ）」、エナジーの（。断片（。。（。呼吸（。と（。拍動の（。ように（。、生と（。死の（。隙間を（。縫（。い（。合わせ（。て（。いく（。、時の（。点描画。",
+		"aftertaste": "時間は、命が自らのかたちを刻み込むための、透明な彫刻刀です。",
+		"example": "The intermittent of the concert was exactly two hours.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "inter-",
+					"meaning": "between) + mittere (to send"
+				}
+			],
+			"points": [
+				"永遠とは、長い時間の果てにあるものではなく、今この瞬間の深みの中に隠されているものです。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "obsolescence_time",
+		"word": "obsolescence",
+		"meaning": "風化、旧式化、時代遅れ",
+		"era": "18th Century",
+		"etymology": {
+			"components": [
+				"ob- (away) + solere (to be used to)"
+			],
+			"original_statement": "From 18th Century ob- (away) + solere (to be used to)."
+		},
+		"concept": "The process of becoming obsolete or outdated and no longer used (かつて（。当たり前（。だった（。習慣（。が（。、いつの間にか（。手元（。から「遠（。ざ（。か（。り（。オブ）忘れ（。去（。ら（。れて（。いく（。）」こと（。。（。新（。しい（。光が（。、古い（。影を（。飲（。み（。込（。んで（。いく（。、冷徹（。な（。時の（。選別。)",
+		"thinking": "かつて（。当たり前（。だった（。習慣（。が（。、いつの間にか（。手元（。から「遠（。ざ（。か（。り（。オブ）忘れ（。去（。ら（。れて（。いく（。）」こと（。。（。新（。しい（。光が（。、古い（。影を（。飲（。み（。込（。んで（。いく（。、冷徹（。な（。時の（。選別。",
+		"aftertaste": "時間は、命が自らのかたちを刻み込むための、透明な彫刻刀です。",
+		"example": "The obsolescence of the concert was exactly two hours.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ob-",
+					"meaning": "away) + solere (to be used to"
+				}
+			],
+			"points": [
+				"永遠とは、長い時間の果てにあるものではなく、今この瞬間の深みの中に隠されているものです。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "posterity_time",
+		"word": "posterity",
+		"meaning": "後世、子孫",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"posterus (coming after)"
+			],
+			"original_statement": "From 14th Century posterus (coming after)."
+		},
+		"concept": "All future generations of people (自分（。が（。去（。った（。「後に（。ポスト）来る（。）」、まだ（。見ぬ（。者たちへの（。贈り（。物（。。（。あなた（。の（。今日（。の一行が（。、遥（。かな（。未来（。を（。生きる（。誰（。かの（。、暗い（。夜を（。照（。らす（。星（。に（。なる（。かも（。し（。れません。)",
+		"thinking": "自分（。が（。去（。った（。「後に（。ポスト）来る（。）」、まだ（。見ぬ（。者たちへの（。贈り（。物（。。（。あなた（。の（。今日（。の一行が（。、遥（。かな（。未来（。を（。生きる（。誰（。かの（。、暗い（。夜を（。照（。らす（。星（。に（。なる（。かも（。し（。れません。",
+		"aftertaste": "時間は、命が自らのかたちを刻み込むための、透明な彫刻刀です。",
+		"example": "The posterity of the concert was exactly two hours.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "posterus",
+					"meaning": "coming after"
+				}
+			],
+			"points": [
+				"永遠とは、長い時間の果てにあるものではなく、今この瞬間の深みの中に隠されているものです。"
+			]
+		},
+		"part_of_speech": "noun"
 	}
 ];
