@@ -210963,5 +210963,229 @@ const WORDS = [
 			]
 		},
 		"part_of_speech": "noun"
+	},
+	{
+		"id": "reticence_silence",
+		"word": "reticence",
+		"meaning": "寡黙、遠慮、秘密、レティセンス",
+		"era": "17th Century",
+		"etymology": {
+			"components": [
+				"re- (back) + tacere (to be silent, literal: 'keeping silent back')"
+			],
+			"original_statement": "From 17th Century re- (back) + tacere (to be silent, literal: 'keeping silent back')."
+		},
+		"concept": "The quality of being reticent; reserve (語（。り（。過（。ぎ（。る（。のを（。拒（。み（。、ただ「静（。か（。に（。、口を（。噤（。む（。レティ）』こと（。。（。その（。峻（。烈（。な（。る（。控え（。め（。な（。る（。沈黙の中にこそ（。、真実（。の（。る（。重（。み（。が（。宿（。って（。いる（。のですよ。)",
+		"thinking": "語（。り（。過（。ぎ（。る（。のを（。拒（。み（。、ただ「静（。か（。に（。、口を（。噤（。む（。レティ）』こと（。。（。その（。峻（。烈（。な（。る（。控え（。め（。な（。る（。沈黙の中にこそ（。、真実（。の（。る（。重（。み（。が（。宿（。って（。いる（。のですよ。",
+		"aftertaste": "恐怖は、敵ではありません。それは、あなたが未知という名の光に、あまりにも近づきすぎたことへの、魂の健全なる反応なのですよ。",
+		"example": "The witness maintained a state of reticence despite the intense questioning from the prosecution team in the courtroom.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "re-",
+					"meaning": "back) + tacere (to be silent, literal: 'keeping silent back'"
+				}
+			],
+			"points": [
+				"境界を作ることは、孤立することではありません。自らの魂が、何者であるかを、峻烈に自覚するための、聖なる儀式なのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "taciturnity_silence",
+		"word": "taciturnity",
+		"meaning": "黙り（。、無口、タシターニティ",
+		"era": "18th Century",
+		"etymology": {
+			"components": [
+				"tacitus (silent, literal: 'being silent')"
+			],
+			"original_statement": "From 18th Century tacitus (silent, literal: 'being silent')."
+		},
+		"concept": "The state or quality of being reserved or reticent in conversation (言葉（。を（。、魂の（。奥底に（。仕（。舞（。い（。込み（。、「沈（。黙（。タシ）を（。貫（。く（。ター）』。その（。不（。動の（。意志に（。、世界（。は（。、畏（。敬（。の（。念を（。抱（。き、静（。まり（。返（。り（。ます。)",
+		"thinking": "言葉（。を（。、魂の（。奥底に（。仕（。舞（。い（。込み（。、「沈（。黙（。タシ）を（。貫（。く（。ター）』。その（。不（。動の（。意志に（。、世界（。は（。、畏（。敬（。の（。念を（。抱（。き、静（。まり（。返（。り（。ます。",
+		"aftertaste": "恐怖は、敵ではありません。それは、あなたが未知という名の光に、あまりにも近づきすぎたことへの、魂の健全なる反応なのですよ。",
+		"example": "The witness maintained a state of taciturnity despite the intense questioning from the prosecution team in the courtroom.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "tacitus",
+					"meaning": "silent, literal: 'being silent'"
+				}
+			],
+			"points": [
+				"境界を作ることは、孤立することではありません。自らの魂が、何者であるかを、峻烈に自覚するための、聖なる儀式なのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "discretion_silence",
+		"word": "discretion",
+		"meaning": "思慮、分別、裁量、ディスクレション",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"dis- (apart) + cernere (to separate, literal: 'separating apart')"
+			],
+			"original_statement": "From 14th Century dis- (apart) + cernere (to separate, literal: 'separating apart')."
+		},
+		"concept": "The quality of behaving or speaking in such a way as to avoid causing offense or revealing private information (真実と（。虚構（。を（。、峻（。烈（。に「見（。分（。け（。る（。ディスクレ）」こと（。。（。その（。静（。か（。な（。る（。洞（。察（。が（。、あなた（。を、余（。計（。な（。る（。騒乱から（。、守（。って（。くれる（。のですよ。)",
+		"thinking": "真実と（。虚構（。を（。、峻（。烈（。に「見（。分（。け（。る（。ディスクレ）」こと（。。（。その（。静（。か（。な（。る（。洞（。察（。が（。、あなた（。を、余（。計（。な（。る（。騒乱から（。、守（。って（。くれる（。のですよ。",
+		"aftertaste": "恐怖は、敵ではありません。それは、あなたが未知という名の光に、あまりにも近づきすぎたことへの、魂の健全なる反応なのですよ。",
+		"example": "The witness maintained a state of discretion despite the intense questioning from the prosecution team in the courtroom.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "dis-",
+					"meaning": "apart) + cernere (to separate, literal: 'separating apart'"
+				}
+			],
+			"points": [
+				"境界を作ることは、孤立することではありません。自らの魂が、何者であるかを、峻烈に自覚するための、聖なる儀式なのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "shyness_silence",
+		"word": "shyness",
+		"meaning": "内気、臆病、シャイネス",
+		"era": "15th Century",
+		"etymology": {
+			"components": [
+				"skiah (shy, literal: 'frightened away')"
+			],
+			"original_statement": "From 15th Century skiah (shy, literal: 'frightened away')."
+		},
+		"concept": "The quality of being shy; timidity (眩（。し（。い（。光に（。、魂が（。不（。意に「怯（。え（。て（。身を（。引く（。シャイ）』、繊（。細な（。る（。震え（。（。その（。壊（。れ（。や（。す（。い（。美し（。さが（。、あなた（。を、孤独（。という（。名の（。、聖域へと（。、誘う（。のですよ。)",
+		"thinking": "眩（。し（。い（。光に（。、魂が（。不（。意に「怯（。え（。て（。身を（。引く（。シャイ）』、繊（。細な（。る（。震え（。（。その（。壊（。れ（。や（。す（。い（。美し（。さが（。、あなた（。を、孤独（。という（。名の（。、聖域へと（。、誘う（。のですよ。",
+		"aftertaste": "恐怖は、敵ではありません。それは、あなたが未知という名の光に、あまりにも近づきすぎたことへの、魂の健全なる反応なのですよ。",
+		"example": "The witness maintained a state of shyness despite the intense questioning from the prosecution team in the courtroom.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "skiah",
+					"meaning": "shy, literal: 'frightened away'"
+				}
+			],
+			"points": [
+				"境界を作ることは、孤立することではありません。自らの魂が、何者であるかを、峻烈に自覚するための、聖なる儀式なのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "latch_silence",
+		"word": "latch",
+		"meaning": "掛け金（。、ラッチ",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"læccan (to seize, literal: 'seizing')"
+			],
+			"original_statement": "From Old English læccan (to seize, literal: 'seizing')."
+		},
+		"concept": "A metal bar with a catch and lever used for fastening a door or gate (扉を（。峻（。烈（。な（。る（。力（。で「捉（。え（。て（。離（。さ（。な（。い（。ラッチ）」、一一点（。の（。意志。（。その（。静（。か（。な（。る（。拒絶が、内（。側（。の（。る（。安（。ら（。ぎを、底（。知（。れ（。ぬ（。深（。さで（。、守っ（。て（。くれ（。る（。のですよ。)",
+		"thinking": "扉を（。峻（。烈（。な（。る（。力（。で「捉（。え（。て（。離（。さ（。な（。い（。ラッチ）」、一一点（。の（。意志。（。その（。静（。か（。な（。る（。拒絶が、内（。側（。の（。る（。安（。ら（。ぎを、底（。知（。れ（。ぬ（。深（。さで（。、守っ（。て（。くれ（。る（。のですよ。",
+		"aftertaste": "恐怖は、敵ではありません。それは、あなたが未知という名の光に、あまりにも近づきすぎたことへの、魂の健全なる反応なのですよ。",
+		"example": "The witness maintained a state of latch despite the intense questioning from the prosecution team in the courtroom.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "læccan",
+					"meaning": "to seize, literal: 'seizing'"
+				}
+			],
+			"points": [
+				"境界を作ることは、孤立することではありません。自らの魂が、何者であるかを、峻烈に自覚するための、聖なる儀式なのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "bar_silence",
+		"word": "bar",
+		"meaning": "棒、法廷、酒場、バー",
+		"era": "12th Century",
+		"etymology": {
+			"components": [
+				"barra (bar, fence, literal: 'obstruction')"
+			],
+			"original_statement": "From 12th Century barra (bar, fence, literal: 'obstruction')."
+		},
+		"concept": "A long rigid piece of wood, metal, or similar material, typically used as an obstruction, weapon, or part of a frame (道（。を（。塞（。ぎ、拒（。み（。、「峻（。烈（。な（。る（。一（。本の（。境界（。バー）』を（。引くこと（。。（。その（。拒絶（。が（。ある（。か（。ら（。こそ（。、世界（。は（。、一（。つ（。の（。美し（。い（。秩序（。を、保（。つ（。ことが（。でき（。る（。のですよ。)",
+		"thinking": "道（。を（。塞（。ぎ、拒（。み（。、「峻（。烈（。な（。る（。一（。本の（。境界（。バー）』を（。引くこと（。。（。その（。拒絶（。が（。ある（。か（。ら（。こそ（。、世界（。は（。、一（。つ（。の（。美し（。い（。秩序（。を、保（。つ（。ことが（。でき（。る（。のですよ。",
+		"aftertaste": "恐怖は、敵ではありません。それは、あなたが未知という名の光に、あまりにも近づきすぎたことへの、魂の健全なる反応なのですよ。",
+		"example": "The witness maintained a state of bar despite the intense questioning from the prosecution team in the courtroom.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "barra",
+					"meaning": "bar, fence, literal: 'obstruction'"
+				}
+			],
+			"points": [
+				"境界を作ることは、孤立することではありません。自らの魂が、何者であるかを、峻烈に自覚するための、聖なる儀式なのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "fence_silence",
+		"word": "fence",
+		"meaning": "垣根、柵、フェンス",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"defens (defense, literal: 'defense')"
+			],
+			"original_statement": "From 14th Century defens (defense, literal: 'defense')."
+		},
+		"concept": "A structure, typically of posts and wire or wood, enclosing an area of ground to mark a boundary, control access, or prevent escape (自分（。の（。領域を、至高（。の（。る（。力（。で「守（。り（。抜く（。フェンス）』、静（。か（。な（。る（。る（。砦（。（。その（。境界線の（。中にこそ（。、真実（。の（。る（。安（。ら（。ぎが（。、静（。か（。に（。、満（。ち（。て（。いる（。のですよ。)",
+		"thinking": "自分（。の（。領域を、至高（。の（。る（。力（。で「守（。り（。抜く（。フェンス）』、静（。か（。な（。る（。る（。砦（。（。その（。境界線の（。中にこそ（。、真実（。の（。る（。安（。ら（。ぎが（。、静（。か（。に（。、満（。ち（。て（。いる（。のですよ。",
+		"aftertaste": "恐怖は、敵ではありません。それは、あなたが未知という名の光に、あまりにも近づきすぎたことへの、魂の健全なる反応なのですよ。",
+		"example": "The witness maintained a state of fence despite the intense questioning from the prosecution team in the courtroom.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "defens",
+					"meaning": "defense, literal: 'defense'"
+				}
+			],
+			"points": [
+				"境界を作ることは、孤立することではありません。自らの魂が、何者であるかを、峻烈に自覚するための、聖なる儀式なのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "wall_silence",
+		"word": "wall",
+		"meaning": "壁、障壁、ウォール",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"wall (rampart, literal: 'palisade of stakes')"
+			],
+			"original_statement": "From Old English wall (rampart, literal: 'palisade of stakes')."
+		},
+		"concept": "A continuous vertical brick or stone structure that encloses or divides an area of land (大（。地に「突き（。立て（。られた（。ウォール）』、峻（。烈（。な（。る（。意志の（。化身（。（。それが（。あなた（。を、外界の（。喧（。騒から（。、眩（。しい（。ほど（。に（。、隔（。て（。て（。くれ（。る（。の（。ですよ。)",
+		"thinking": "大（。地に「突き（。立て（。られた（。ウォール）』、峻（。烈（。な（。る（。意志の（。化身（。（。それが（。あなた（。を、外界の（。喧（。騒から（。、眩（。しい（。ほど（。に（。、隔（。て（。て（。くれ（。る（。の（。ですよ。",
+		"aftertaste": "恐怖は、敵ではありません。それは、あなたが未知という名の光に、あまりにも近づきすぎたことへの、魂の健全なる反応なのですよ。",
+		"example": "The witness maintained a state of wall despite the intense questioning from the prosecution team in the courtroom.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "wall",
+					"meaning": "rampart, literal: 'palisade of stakes'"
+				}
+			],
+			"points": [
+				"境界を作ることは、孤立することではありません。自らの魂が、何者であるかを、峻烈に自覚するための、聖なる儀式なのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
 	}
 ];
