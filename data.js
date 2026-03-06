@@ -209423,5 +209423,285 @@ const WORDS = [
 			]
 		},
 		"part_of_speech": "noun"
+	},
+	{
+		"id": "cataract_liquid",
+		"word": "cataract",
+		"meaning": "大（。瀑（。布（。、白内障、カタラクト",
+		"era": "15th Century",
+		"etymology": {
+			"components": [
+				"kata- (down) + arassein (to strike, smash, literal: 'dashing down')"
+			],
+			"original_statement": "From 15th Century kata- (down) + arassein (to strike, smash, literal: 'dashing down')."
+		},
+		"concept": "A large waterfall",
+		"thinking": "流れとは、形を捨てることで、あらゆる形へと産まれ変わることができる、生命の至高の実践なのです。",
+		"aftertaste": "渦巻は、自らを中心へと向かわせながら、同時に世界を外側へと押し広げる、静かなる矛盾の舞いなのですよ。",
+		"example": "The heavy rainfall turned the small creek into a raging cataract that threatened to flood the nearby village.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kata-",
+					"meaning": "down) + arassein (to strike, smash, literal: 'dashing down'"
+				}
+			],
+			"points": [
+				"止まることは死ではなく、新たな巡りへの準備。流れることは生。その二つが交差する瞬間に、美しさが宿るのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "eddy_liquid",
+		"word": "eddy",
+		"meaning": "渦、逆（。流（。、エディ",
+		"era": "15th Century",
+		"etymology": {
+			"components": [
+				"ed- (back) + ea (water, literal: 'backward water')"
+			],
+			"original_statement": "From 15th Century ed- (back) + ea (water, literal: 'backward water')."
+		},
+		"concept": "A circular movement of water, counter to a main current, causing a small whirlpool (本（。流（。に（。抗（。い、静（。か（。に「後ろへへと（。エ）還（。る（。）」、小（。さな（。る（。渦（。（。その（。逆説（。的（。な（。る（。遊（。悦の中にこそ（。、真（。実（。の（。思索が（。、宿（。る（。ことが（。できる（。のですよ。)",
+		"thinking": "本（。流（。に（。抗（。い、静（。か（。に「後ろへへと（。エ）還（。る（。）」、小（。さな（。る（。渦（。（。その（。逆説（。的（。な（。る（。遊（。悦の中にこそ（。、真（。実（。の（。思索が（。、宿（。る（。ことが（。できる（。のですよ。",
+		"aftertaste": "渦巻は、自らを中心へと向かわせながら、同時に世界を外側へと押し広げる、静かなる矛盾の舞いなのですよ。",
+		"example": "The heavy rainfall turned the small creek into a raging eddy that threatened to flood the nearby village.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ed-",
+					"meaning": "back) + ea (water, literal: 'backward water'"
+				}
+			],
+			"points": [
+				"止まることは死ではなく、新たな巡りへの準備。流れることは生。その二つが交差する瞬間に、美しさが宿るのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "aquifer_liquid",
+		"word": "aquifer",
+		"meaning": "帯水層、アクイファー",
+		"era": "19th Century",
+		"etymology": {
+			"components": [
+				"aqua (water) + ferre (to bear, literal: 'water-bearing')"
+			],
+			"original_statement": "From 19th Century aqua (water) + ferre (to bear, literal: 'water-bearing')."
+		},
+		"concept": "A body of permeable rock which can contain or transmit groundwater (見（。え（。な（。い（。地底（。に（。、命の（。水を「静か（。に（。運（。び（。、蓄（。え（。る（。ファー）大地（。アクア）」。（。その（。重厚（。な（。る（。沈黙に（。、全（。ての（。地上の（。命は（。、そっと（。支（。え（。られて（。いる（。のですよ。)",
+		"thinking": "見（。え（。な（。い（。地底（。に（。、命の（。水を「静か（。に（。運（。び（。、蓄（。え（。る（。ファー）大地（。アクア）」。（。その（。重厚（。な（。る（。沈黙に（。、全（。ての（。地上の（。命は（。、そっと（。支（。え（。られて（。いる（。のですよ。",
+		"aftertaste": "渦巻は、自らを中心へと向かわせながら、同時に世界を外側へと押し広げる、静かなる矛盾の舞いなのですよ。",
+		"example": "The heavy rainfall turned the small creek into a raging aquifer that threatened to flood the nearby village.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "aqua",
+					"meaning": "water) + ferre (to bear, literal: 'water-bearing'"
+				}
+			],
+			"points": [
+				"止まることは死ではなく、新たな巡りへの準備。流れることは生。その二つが交差する瞬間に、美しさが宿るのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "cistern_liquid",
+		"word": "cistern",
+		"meaning": "水槽、貯水池、シスターン",
+		"era": "13th Century",
+		"etymology": {
+			"components": [
+				"cista (box, literal: 'box for water')"
+			],
+			"original_statement": "From 13th Century cista (box, literal: 'box for water')."
+		},
+		"concept": "A tank for storing water, especially one supplying taps or as part of a flushing toilet (命（。の（。エナジーを、そっと「箱（。チスタ）』の中に（。預（。か（。る（。）」場所（。（。そこ（。には（。、次（。なる（。渇（。きを（。癒（。す（。ための（。、静（。か（。な（。る（。準備が（。、幾（。重（。にも（。、満（。ち（。て（。いる（。のですよ。)",
+		"thinking": "命（。の（。エナジーを、そっと「箱（。チスタ）』の中に（。預（。か（。る（。）」場所（。（。そこ（。には（。、次（。なる（。渇（。きを（。癒（。す（。ための（。、静（。か（。な（。る（。準備が（。、幾（。重（。にも（。、満（。ち（。て（。いる（。のですよ。",
+		"aftertaste": "渦巻は、自らを中心へと向かわせながら、同時に世界を外側へと押し広げる、静かなる矛盾の舞いなのですよ。",
+		"example": "The heavy rainfall turned the small creek into a raging cistern that threatened to flood the nearby village.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "cista",
+					"meaning": "box, literal: 'box for water'"
+				}
+			],
+			"points": [
+				"止まることは死ではなく、新たな巡りへの準備。流れることは生。その二つが交差する瞬間に、美しさが宿るのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "levee_liquid",
+		"word": "levee",
+		"meaning": "堤防、レビー、朝の接見",
+		"era": "18th Century",
+		"etymology": {
+			"components": [
+				"lever (to raise, literal: 'raised')"
+			],
+			"original_statement": "From 18th Century lever (to raise, literal: 'raised')."
+		},
+		"concept": "An embankment built to prevent the overflow of a river (河の（。氾（。濫（。を（。防ぐ（。ために、土を「高く（。盛り（。上げた（。レヴェ）』、守（。護（。の（。壁（。（。その（。静（。かな（。る（。境界が（。、あなた（。の（。安（。ら（。ぎを、底（。知（。れ（。ぬ（。力（。で（。守って（。くれる（。のですよ。)",
+		"thinking": "河の（。氾（。濫（。を（。防ぐ（。ために、土を「高く（。盛り（。上げた（。レヴェ）』、守（。護（。の（。壁（。（。その（。静（。かな（。る（。境界が（。、あなた（。の（。安（。ら（。ぎを、底（。知（。れ（。ぬ（。力（。で（。守って（。くれる（。のですよ。",
+		"aftertaste": "渦巻は、自らを中心へと向かわせながら、同時に世界を外側へと押し広げる、静かなる矛盾の舞いなのですよ。",
+		"example": "The heavy rainfall turned the small creek into a raging levee that threatened to flood the nearby village.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "lever",
+					"meaning": "to raise, literal: 'raised'"
+				}
+			],
+			"points": [
+				"止まることは死ではなく、新たな巡りへの準備。流れることは生。その二つが交差する瞬間に、美しさが宿るのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "dike_liquid",
+		"word": "dike",
+		"meaning": "堤防、溝（。みぞ（。）」、ダイク",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"dīc (ditch, wall, literal: 'something dug out')"
+			],
+			"original_statement": "From Old English dīc (ditch, wall, literal: 'something dug out')."
+		},
+		"concept": "A long wall or embankment built to prevent flooding from the sea (大地に（。峻（。烈（。な（。る「溝（。ディック）』を（。刻（。み（。、水（。の（。行（。き（。先を（。変元（。る（。こと（。。（。その（。一（。本の（。線に（。、人間（。の（。知恵（。と（。、自然への（。畏（。敬（。が（。、共（。存（。し（。て（。いる（。のです。)",
+		"thinking": "大地に（。峻（。烈（。な（。る「溝（。ディック）』を（。刻（。み（。、水（。の（。行（。き（。先を（。変元（。る（。こと（。。（。その（。一（。本の（。線に（。、人間（。の（。知恵（。と（。、自然への（。畏（。敬（。が（。、共（。存（。し（。て（。いる（。のです。",
+		"aftertaste": "渦巻は、自らを中心へと向かわせながら、同時に世界を外側へと押し広げる、静かなる矛盾の舞いなのですよ。",
+		"example": "The heavy rainfall turned the small creek into a raging dike that threatened to flood the nearby village.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "dīc",
+					"meaning": "ditch, wall, literal: 'something dug out'"
+				}
+			],
+			"points": [
+				"止まることは死ではなく、新たな巡りへの準備。流れることは生。その二つが交差する瞬間に、美しさが宿るのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "weir_liquid",
+		"word": "weir",
+		"meaning": "堰（せき）、ウィア",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"wer (weir, literal: 'to cover, defend')"
+			],
+			"original_statement": "From Old English wer (weir, literal: 'to cover, defend')."
+		},
+		"concept": "A low dam built across a river to raise the level of water upstream or regulate its flow (河の（。呼吸を（。、「優（。しく（。覆（。い（。整える（。ウェル）』ための（。階段（。（。そこ（。を（。越（。え（。て（。流（。れ（。落ち（。る（。水の（。輝きに（。、一（。時（。の（。静寂（。が（。、宿（。る（。のですよ。)",
+		"thinking": "河の（。呼吸を（。、「優（。しく（。覆（。い（。整える（。ウェル）』ための（。階段（。（。そこ（。を（。越（。え（。て（。流（。れ（。落ち（。る（。水の（。輝きに（。、一（。時（。の（。静寂（。が（。、宿（。る（。のですよ。",
+		"aftertaste": "渦巻は、自らを中心へと向かわせながら、同時に世界を外側へと押し広げる、静かなる矛盾の舞いなのですよ。",
+		"example": "The heavy rainfall turned the small creek into a raging weir that threatened to flood the nearby village.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "wer",
+					"meaning": "weir, literal: 'to cover, defend'"
+				}
+			],
+			"points": [
+				"止まることは死ではなく、新たな巡りへの準備。流れることは生。その二つが交差する瞬間に、美しさが宿るのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "sluice_liquid",
+		"word": "sluice",
+		"meaning": "水門、スルース",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"ex- (out) + claudere (to close, literal: 'excluding, shutting out')"
+			],
+			"original_statement": "From 14th Century ex- (out) + claudere (to close, literal: 'excluding, shutting out')."
+		},
+		"concept": "A sliding gate or other device for controlling the flow of water, especially one in a lock or dam (真理の（。奔流を（。、「一時に（。放（。つ（。ス）ために、閉（。ざ（。された（。ルース）」門。（。あなたが（。その（。扉を（。開（。ける（。とき（。、新（。しい（。エナジーは（。、一気に（。、世界へと（。、溢出し（。ます。)",
+		"thinking": "真理の（。奔流を（。、「一時に（。放（。つ（。ス）ために、閉（。ざ（。された（。ルース）」門。（。あなたが（。その（。扉を（。開（。ける（。とき（。、新（。しい（。エナジーは（。、一気に（。、世界へと（。、溢出し（。ます。",
+		"aftertaste": "渦巻は、自らを中心へと向かわせながら、同時に世界を外側へと押し広げる、静かなる矛盾の舞いなのですよ。",
+		"example": "The heavy rainfall turned the small creek into a raging sluice that threatened to flood the nearby village.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ex-",
+					"meaning": "out) + claudere (to close, literal: 'excluding, shutting out'"
+				}
+			],
+			"points": [
+				"止まることは死ではなく、新たな巡りへの準備。流れることは生。その二つが交差する瞬間に、美しさが宿るのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "wharf_liquid",
+		"word": "wharf",
+		"meaning": "波止場（。、ワーフ",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"hwearf (shore, bank, literal: 'turning place')"
+			],
+			"original_statement": "From Old English hwearf (shore, bank, literal: 'turning place')."
+		},
+		"concept": "A level quayside area to which a ship may be moored to load and unload (旅の（。エナジーが「再（。び（。回（。帰（。する（。フワ）』、始まり（。の（。場所（。（。そこ（。に（。船が（。繋がる（。た（。びに（。、世界（。の（。どこ（。かの（。物語が（。、また（。一（。つ（。、静か（。に（。、幕（。を（。閉じ（。る（。のですよ。)",
+		"thinking": "旅の（。エナジーが「再（。び（。回（。帰（。する（。フワ）』、始まり（。の（。場所（。（。そこ（。に（。船が（。繋がる（。た（。びに（。、世界（。の（。どこ（。かの（。物語が（。、また（。一（。つ（。、静か（。に（。、幕（。を（。閉じ（。る（。のですよ。",
+		"aftertaste": "渦巻は、自らを中心へと向かわせながら、同時に世界を外側へと押し広げる、静かなる矛盾の舞いなのですよ。",
+		"example": "The heavy rainfall turned the small creek into a raging wharf that threatened to flood the nearby village.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "hwearf",
+					"meaning": "shore, bank, literal: 'turning place'"
+				}
+			],
+			"points": [
+				"止まることは死ではなく、新たな巡りへの準備。流れることは生。その二つが交差する瞬間に、美しさが宿るのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "skiff_liquid",
+		"word": "skiff",
+		"meaning": "小舟、軽舟、スキフ",
+		"era": "16th Century",
+		"etymology": {
+			"components": [
+				"schifo (little boat)"
+			],
+			"original_statement": "From 16th Century schifo (little boat)."
+		},
+		"concept": "A shallow, flat-bottomed open boat with a sharp bow and square stern (波間を（。滑（。る（。ように「軽く（。、小（。さな（。る（。船（。スキフ）』。（。その（。危（。う（。い（。ほどの（。軽快（。さが（。、あなた（。を（。、誰も（。辿（。り（。着（。け（。な（。い（。、秘密の（。入り江へと（。、運（。んで（。くれる（。のですよ。)",
+		"thinking": "波間を（。滑（。る（。ように「軽く（。、小（。さな（。る（。船（。スキフ）』。（。その（。危（。う（。い（。ほどの（。軽快（。さが（。、あなた（。を（。、誰も（。辿（。り（。着（。け（。な（。い（。、秘密の（。入り江へと（。、運（。んで（。くれる（。のですよ。",
+		"aftertaste": "渦巻は、自らを中心へと向かわせながら、同時に世界を外側へと押し広げる、静かなる矛盾の舞いなのですよ。",
+		"example": "The heavy rainfall turned the small creek into a raging skiff that threatened to flood the nearby village.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "schifo",
+					"meaning": "little boat"
+				}
+			],
+			"points": [
+				"止まることは死ではなく、新たな巡りへの準備。流れることは生。その二つが交差する瞬間に、美しさが宿るのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
 	}
 ];
