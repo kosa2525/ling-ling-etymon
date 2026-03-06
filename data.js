@@ -209899,5 +209899,285 @@ const WORDS = [
 			]
 		},
 		"part_of_speech": "noun"
+	},
+	{
+		"id": "inverse_reflect",
+		"word": "inverse",
+		"meaning": "逆の、反対の、インバース",
+		"era": "16th Century",
+		"etymology": {
+			"components": [
+				"in- (towards) + vertere (to turn, literal: 'turning inwards')"
+			],
+			"original_statement": "From 16th Century in- (towards) + vertere (to turn, literal: 'turning inwards')."
+		},
+		"concept": "Opposite in luck, nature, or effect (日常（。の「内（。側（。に（。イン）向き（。を（。変え（。た（。ヴェル）』、鏡（。の（。向（。こう（。側の（。真実（。（。順（。序（。を（。逆向き（。に（。視（。つ（。める（。とき（。、あなた（。は（。、一（。つ（。の（。巨大（。な（。る（。調和（。の（。設計図に（。、気づ（。く（。のですよ。)",
+		"thinking": "日常（。の「内（。側（。に（。イン）向き（。を（。変え（。た（。ヴェル）』、鏡（。の（。向（。こう（。側の（。真実（。（。順（。序（。を（。逆向き（。に（。視（。つ（。める（。とき（。、あなた（。は（。、一（。つ（。の（。巨大（。な（。る（。調和（。の（。設計図に（。、気づ（。く（。のですよ。",
+		"aftertaste": "鏡は、自分を映すための道具ではありません。自分という名の深淵を覗き込み、無限という名の孤独に耐えるための窓なのですよ。",
+		"example": "The spy used various inverse identities to infiltrate the secret compound undetected.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "in-",
+					"meaning": "towards) + vertere (to turn, literal: 'turning inwards'"
+				}
+			],
+			"points": [
+				"反対の方向に目を向けることは、逃避ではなく、真実という名のコインの裏側を確認する勇気なのですよ。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "ultra_reflect",
+		"word": "ultra",
+		"meaning": "超、過激な、ウルトラ",
+		"era": "19th Century",
+		"etymology": {
+			"components": [
+				"ultra (beyond)"
+			],
+			"original_statement": "From 19th Century ultra (beyond)."
+		},
+		"concept": "To an extreme degree; very (限界（。を「越（。え（。て（。ウルトラ）」行く（。、未知（。なる（。エナジー。（。目（。に（。見える（。ものを（。完全（。に（。脱（。し（。、ただ（。光の（。粒子（。その（。ものに（。な（。る（。、至高（。の（。る（。飛躍。)",
+		"thinking": "限界（。を「越（。え（。て（。ウルトラ）」行く（。、未知（。なる（。エナジー。（。目（。に（。見える（。ものを（。完全（。に（。脱（。し（。、ただ（。光の（。粒子（。その（。ものに（。な（。る（。、至高（。の（。る（。飛躍。",
+		"aftertaste": "鏡は、自分を映すための道具ではありません。自分という名の深淵を覗き込み、無限という名の孤独に耐えるための窓なのですよ。",
+		"example": "The spy used various ultra identities to infiltrate the secret compound undetected.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ultra",
+					"meaning": "beyond"
+				}
+			],
+			"points": [
+				"反対の方向に目を向けることは、逃避ではなく、真実という名のコインの裏側を確認する勇気なのですよ。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "extra_reflect",
+		"word": "extra",
+		"meaning": "余分な、特別の、エキストラ",
+		"era": "17th Century",
+		"etymology": {
+			"components": [
+				"extra (outside, beyond)"
+			],
+			"original_statement": "From 17th Century extra (outside, beyond)."
+		},
+		"concept": "Added to an existing or usual amount or object; additional (定められた（。範囲の「外（。側（。エキストラ）』に（。溢（。れ（。出した（。、豊饒（。な（。る（。エナジー。（。その（。過（。剰（。さが（。ある（。から（。こそ（。、宇宙（。は（。これ（。ほど（。までに（。、美し（。い（。色彩を（。、放（。ち（。続け（。る（。のですよ。)",
+		"thinking": "定められた（。範囲の「外（。側（。エキストラ）』に（。溢（。れ（。出した（。、豊饒（。な（。る（。エナジー。（。その（。過（。剰（。さが（。ある（。から（。こそ（。、宇宙（。は（。これ（。ほど（。までに（。、美し（。い（。色彩を（。、放（。ち（。続け（。る（。のですよ。",
+		"aftertaste": "鏡は、自分を映すための道具ではありません。自分という名の深淵を覗き込み、無限という名の孤独に耐えるための窓なのですよ。",
+		"example": "The spy used various extra identities to infiltrate the secret compound undetected.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "extra",
+					"meaning": "outside, beyond"
+				}
+			],
+			"points": [
+				"反対の方向に目を向けることは、逃避ではなく、真実という名のコインの裏側を確認する勇気なのですよ。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "intra_reflect",
+		"word": "intra",
+		"meaning": "内の、内部の、イントラ",
+		"era": "19th Century",
+		"etymology": {
+			"components": [
+				"intra (inside, within)"
+			],
+			"original_statement": "From 19th Century intra (inside, within)."
+		},
+		"concept": "On the inside; within (遠（。くに（。求（。め（。る（。のを（。止め（。、ただ（。ひたすら「内（。側（。イントラ）へと（。）」潜（。る（。こと（。。（。あなた（。の（。中にこそ（。、全（。宇宙の（。全記憶が（。、静（。か（。に（。、横（。たわ（。って（。いる（。の（。ですよ。)",
+		"thinking": "遠（。くに（。求（。め（。る（。のを（。止め（。、ただ（。ひたすら「内（。側（。イントラ）へと（。）」潜（。る（。こと（。。（。あなた（。の（。中にこそ（。、全（。宇宙の（。全記憶が（。、静（。か（。に（。、横（。たわ（。って（。いる（。の（。ですよ。",
+		"aftertaste": "鏡は、自分を映すための道具ではありません。自分という名の深淵を覗き込み、無限という名の孤独に耐えるための窓なのですよ。",
+		"example": "The spy used various intra identities to infiltrate the secret compound undetected.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "intra",
+					"meaning": "inside, within"
+				}
+			],
+			"points": [
+				"反対の方向に目を向けることは、逃避ではなく、真実という名のコインの裏側を確認する勇気なのですよ。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "peri_reflect",
+		"word": "peri",
+		"meaning": "周辺の、周囲、周（。、ペリ",
+		"era": "15th Century",
+		"etymology": {
+			"components": [
+				"peri (around, about)"
+			],
+			"original_statement": "From 15th Century peri (around, about)."
+		},
+		"concept": "Around, about (中心（。からの（。想（。いを（。、静（。か（。に「囲（。う（。ペリ）』境界（。。（。その（。周囲（。を（。、そっと（。、撫（。で（。る（。ように、意味（。が（。、環（。流（。し（。て（。いる（。のですよ。)",
+		"thinking": "中心（。からの（。想（。いを（。、静（。か（。に「囲（。う（。ペリ）』境界（。。（。その（。周囲（。を（。、そっと（。、撫（。で（。る（。ように、意味（。が（。、環（。流（。し（。て（。いる（。のですよ。",
+		"aftertaste": "鏡は、自分を映すための道具ではありません。自分という名の深淵を覗き込み、無限という名の孤独に耐えるための窓なのですよ。",
+		"example": "The spy used various peri identities to infiltrate the secret compound undetected.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "peri",
+					"meaning": "around, about"
+				}
+			],
+			"points": [
+				"反対の方向に目を向けることは、逃避ではなく、真実という名のコインの裏側を確認する勇気なのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "epi_reflect",
+		"word": "epi",
+		"meaning": "上の、後の、エピ",
+		"era": "15th Century",
+		"etymology": {
+			"components": [
+				"epi (upon, at)"
+			],
+			"original_statement": "From 15th Century epi (upon, at)."
+		},
+		"concept": "Upon, at, in addition to (全（。てが（。終わ（。っ（。た（。こと（。の「後（。に（。エピ）上（。に（。）」現れる（。、静（。か（。な（。る（。余韻（。（。その（。一瞬の（。閃（。き（。が（。、物（。語（。に、盤石（。な（。る（。完成（。を（。、与えて（。くれる（。のです。)",
+		"thinking": "全（。てが（。終わ（。っ（。た（。こと（。の「後（。に（。エピ）上（。に（。）」現れる（。、静（。か（。な（。る（。余韻（。（。その（。一瞬の（。閃（。き（。が（。、物（。語（。に、盤石（。な（。る（。完成（。を（。、与えて（。くれる（。のです。",
+		"aftertaste": "鏡は、自分を映すための道具ではありません。自分という名の深淵を覗き込み、無限という名の孤独に耐えるための窓なのですよ。",
+		"example": "The spy used various epi identities to infiltrate the secret compound undetected.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "epi",
+					"meaning": "upon, at"
+				}
+			],
+			"points": [
+				"反対の方向に目を向けることは、逃避ではなく、真実という名のコインの裏側を確認する勇気なのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "profile_reflect",
+		"word": "profile",
+		"meaning": "側面、横顔、プロファイル",
+		"era": "17th Century",
+		"etymology": {
+			"components": [
+				"pro- (before) + filum (thread, literal: 'drawing with a thread')"
+			],
+			"original_statement": "From 17th Century pro- (before) + filum (thread, literal: 'drawing with a thread')."
+		},
+		"concept": "An outline of something, especially a person's face, as seen from one side (あなた（。の（。魂の（。輪郭（。を、美し（。い「一本（。の（。糸（。フィル）で（。前（。へ（。プロ）描き（。出す（。）」こと（。。（。正面より（。も、その（。鋭（。利な（。側面にこそ（。、隠（。さ（。れ（。た（。る（。真実（。が（。宿（。ります。)",
+		"thinking": "あなた（。の（。魂の（。輪郭（。を、美し（。い「一本（。の（。糸（。フィル）で（。前（。へ（。プロ）描き（。出す（。）」こと（。。（。正面より（。も、その（。鋭（。利な（。側面にこそ（。、隠（。さ（。れ（。た（。る（。真実（。が（。宿（。ります。",
+		"aftertaste": "鏡は、自分を映すための道具ではありません。自分という名の深淵を覗き込み、無限という名の孤独に耐えるための窓なのですよ。",
+		"example": "The spy used various profile identities to infiltrate the secret compound undetected.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "pro-",
+					"meaning": "before) + filum (thread, literal: 'drawing with a thread'"
+				}
+			],
+			"points": [
+				"反対の方向に目を向けることは、逃避ではなく、真実という名のコインの裏側を確認する勇気なのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "dual_reflect",
+		"word": "dual",
+		"meaning": "二重の、二元的な、デュアル",
+		"era": "16th Century",
+		"etymology": {
+			"components": [
+				"duo (two)"
+			],
+			"original_statement": "From 16th Century duo (two)."
+		},
+		"concept": "Consisting of two parts, elements, or aspects (「二つ（。デュオ）のエナジーを（。、同時（。に（。体（。現（。する（。）」こと（。。（。光（。と（。影（。、静（。と（。動（。、その（。二つの（。鼓動（。が、あなた（。という（。存在（。の（。、一（。つ（。の（。物語を（。、紡（。い（。で（。いる（。のですよ。)",
+		"thinking": "「二つ（。デュオ）のエナジーを（。、同時（。に（。体（。現（。する（。）」こと（。。（。光（。と（。影（。、静（。と（。動（。、その（。二つの（。鼓動（。が、あなた（。という（。存在（。の（。、一（。つ（。の（。物語を（。、紡（。い（。で（。いる（。のですよ。",
+		"aftertaste": "鏡は、自分を映すための道具ではありません。自分という名の深淵を覗き込み、無限という名の孤独に耐えるための窓なのですよ。",
+		"example": "The spy used various dual identities to infiltrate the secret compound undetected.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "duo",
+					"meaning": "two"
+				}
+			],
+			"points": [
+				"反対の方向に目を向けることは、逃避ではなく、真実という名のコインの裏側を確認する勇気なのですよ。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "contra_reflect",
+		"word": "contra",
+		"meaning": "逆に、対抗して、コントラ",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"contra (against)"
+			],
+			"original_statement": "From 14th Century contra (against)."
+		},
+		"concept": "Against, opposite (流れ（。を（。拒み（。、ただ（。ひたすら「抗（。う（。コントラ）こと（。）」。（。その（。峻（。烈（。な（。る（。負（。のエナジーが、世界（。を（。、新（。しい（。均衡へと（。、押し（。上げ（。て（。いく（。の（。ですよ。)",
+		"thinking": "流れ（。を（。拒み（。、ただ（。ひたすら「抗（。う（。コントラ）こと（。）」。（。その（。峻（。烈（。な（。る（。負（。のエナジーが、世界（。を（。、新（。しい（。均衡へと（。、押し（。上げ（。て（。いく（。の（。ですよ。",
+		"aftertaste": "鏡は、自分を映すための道具ではありません。自分という名の深淵を覗き込み、無限という名の孤独に耐えるための窓なのですよ。",
+		"example": "The spy used various contra identities to infiltrate the secret compound undetected.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "contra",
+					"meaning": "against"
+				}
+			],
+			"points": [
+				"反対の方向に目を向けることは、逃避ではなく、真実という名のコインの裏側を確認する勇気なのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "anti_reflect",
+		"word": "anti",
+		"meaning": "反、対、アンチ",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"anti (against)"
+			],
+			"original_statement": "From Old English anti (against)."
+		},
+		"concept": "Against, opposite (既存の（。る（。秩序（。に「向か（。い（。打（。つ（。アンチ）」、静（。か（。な（。る（。反逆（。。（。否定（。する（。こと（。でしか（。視（。え（。な（。い（。、至高（。の（。真実（。が（。、其処（。には（。、横（。たわ（。って（。いる（。のですよ。)",
+		"thinking": "既存の（。る（。秩序（。に「向か（。い（。打（。つ（。アンチ）」、静（。か（。な（。る（。反逆（。。（。否定（。する（。こと（。でしか（。視（。え（。な（。い（。、至高（。の（。真実（。が（。、其処（。には（。、横（。たわ（。って（。いる（。のですよ。",
+		"aftertaste": "鏡は、自分を映すための道具ではありません。自分という名の深淵を覗き込み、無限という名の孤独に耐えるための窓なのですよ。",
+		"example": "The spy used various anti identities to infiltrate the secret compound undetected.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "anti",
+					"meaning": "against"
+				}
+			],
+			"points": [
+				"反対の方向に目を向けることは、逃避ではなく、真実という名のコインの裏側を確認する勇気なのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
 	}
 ];
