@@ -211187,5 +211187,61 @@ const WORDS = [
 			]
 		},
 		"part_of_speech": "noun"
+	},
+	{
+		"id": "cluster_expand",
+		"word": "cluster",
+		"meaning": "房、集団、星団、クラスター",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"clyster (cluster, literal: 'clump')"
+			],
+			"original_statement": "From Old English clyster (cluster, literal: 'clump')."
+		},
+		"concept": "A group of similar things or people positioned or occurring closely together (バラバラ（。の（。命を、一（。つ（。の（。場所に「寄（。せ（。集（。めた（。クラスター）』、眩（。し（。い（。煌（。めき。（。個（。々が（。、互（。いに（。を（。高（。め（。合い（。、至高（。の（。る（。輝（。きを（。、産（。声を（。上げます。)",
+		"thinking": "バラバラ（。の（。命を、一（。つ（。の（。場所に「寄（。せ（。集（。めた（。クラスター）』、眩（。し（。い（。煌（。めき。（。個（。々が（。、互（。いに（。を（。高（。め（。合い（。、至高（。の（。る（。輝（。きを（。、産（。声を（。上げます。",
+		"aftertaste": "銀河は、星々が孤独を分かち合うために創り出した、光の巡礼路なのですよ。",
+		"example": "The spacecraft entered a stable cluster around the massive gas giant, beginning its long-term scientific mission.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "clyster",
+					"meaning": "cluster, literal: 'clump'"
+				}
+			],
+			"points": [
+				"無限を数えようとするのではなく、今この瞬間にある有限の煌めきを愛でてください。そこにこそ、真の宇宙が宿っているのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "astral_expand",
+		"word": "astral",
+		"meaning": "星の、幽体（。の（。、アストラル",
+		"era": "17th Century",
+		"etymology": {
+			"components": [
+				"astron (star)"
+			],
+			"original_statement": "From 17th Century astron (star)."
+		},
+		"concept": "Relating to the stars (物質の（。檻を（。越え（。た（。、「至高の（。煌（。めき（。アストラ）』。（。その（。眩（。し（。い（。魂の（。粒子（。が（。、今（。も、宇宙の（。すみ（。ず（。み（。まで、響（。き（。渡（。って（。いる（。のですよ。)",
+		"thinking": "物質の（。檻を（。越え（。た（。、「至高の（。煌（。めき（。アストラ）』。（。その（。眩（。し（。い（。魂の（。粒子（。が（。、今（。も、宇宙の（。すみ（。ず（。み（。まで、響（。き（。渡（。って（。いる（。のですよ。",
+		"aftertaste": "銀河は、星々が孤独を分かち合うために創り出した、光の巡礼路なのですよ。",
+		"example": "The spacecraft entered a stable astral around the massive gas giant, beginning its long-term scientific mission.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "astron",
+					"meaning": "star"
+				}
+			],
+			"points": [
+				"無限を数えようとするのではなく、今この瞬間にある有限の煌めきを愛でてください。そこにこそ、真の宇宙が宿っているのですよ。"
+			]
+		},
+		"part_of_speech": "adjective"
 	}
 ];
