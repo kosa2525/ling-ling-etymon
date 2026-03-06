@@ -213623,5 +213623,33 @@ const WORDS = [
 			]
 		},
 		"part_of_speech": "noun"
+	},
+	{
+		"id": "tip_peak_ii",
+		"word": "tip",
+		"meaning": "先端、チップ",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"Middle English tippe (related to Dutch tip 'point')"
+			],
+			"original_statement": "From 14th Century Middle English tippe (related to Dutch tip 'point')."
+		},
+		"concept": "The pointed or rounded end or extremity of something slender or tapering",
+		"thinking": "頂点とは、目的地の終わりではありません。そこからは、今まで見えなかった新しい世界が、全貌として拓かれる、至高のる始まりの場所なのですよ。",
+		"aftertaste": "尾根を歩くことは、危ういバランスを保つこと。しかしその険しさこそが、あなたを真実のる飛翔へと導くための、聖なる道のりなのですよ。",
+		"example": "The ambitious climber finally reached the tip of the mountain after weeks of treacherous ascent, gazing out over the vast frozen landscape below.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "Middle",
+					"meaning": "English tippe (related to Dutch tip 'point'"
+				}
+			],
+			"points": [
+				"尖っていることは、誰かを傷つけるためのものではない。自らのエナジーを、一点の曇りなく、天の光へと繋ぎ止めるための、至高のる誠実さなのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
 	}
 ];
