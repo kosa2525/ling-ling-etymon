@@ -203627,5 +203627,313 @@ const WORDS = [
 			]
 		},
 		"part_of_speech": "noun"
+	},
+	{
+		"id": "hue_vision",
+		"word": "hue",
+		"meaning": "色合い、色彩、ヒュー",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"hīw (form, appearance, color)"
+			],
+			"original_statement": "From Old English hīw (form, appearance, color)."
+		},
+		"concept": "A color or shade (単なる（。色（。を超え（。、その（。ものが（。纏（。って（。いる「姿（。かたち（。ヒュー）」その（。もの（。。（。光（。の（。当たり（。方（。で（。刻（。一刻（。と（。変（。わ（。る（。、存在の（。表情。)",
+		"thinking": "単なる（。色（。を超え（。、その（。ものが（。纏（。って（。いる「姿（。かたち（。ヒュー）」その（。もの（。。（。光（。の（。当たり（。方（。で（。刻（。一刻（。と（。変（。わ（。る（。、存在の（。表情。",
+		"aftertaste": "色彩は、光が私たちの魂に語りかけるための、無言の言葉です。",
+		"example": "The artist used a vibrant hue to bring the landscape to life.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "hīw",
+					"meaning": "form, appearance, color"
+				}
+			],
+			"points": [
+				"視覚とは、物理的な光だけでなく、魂の奥底にある光を見出すための窓なのです。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "tint_vision",
+		"word": "tint",
+		"meaning": "淡い色、色合い、ティン",
+		"era": "18th Century",
+		"etymology": {
+			"components": [
+				"tingere (to dye, stain)"
+			],
+			"original_statement": "From 18th Century tingere (to dye, stain)."
+		},
+		"concept": "A slight or pale coloration; a shade or variety of a color (真っ白（。な（。心に（。、一滴（。の（。エッセンスを「染（。め（。込（。めた（。ティン）」色彩（。。（。主張（。し（。すぎ（。ず（。、けれど（。確（。かな（。余韻を（。残（。す（。、魂の（。吐息。)",
+		"thinking": "真っ白（。な（。心に（。、一滴（。の（。エッセンスを「染（。め（。込（。めた（。ティン）」色彩（。。（。主張（。し（。すぎ（。ず（。、けれど（。確（。かな（。余韻を（。残（。す（。、魂の（。吐息。",
+		"aftertaste": "色彩は、光が私たちの魂に語りかけるための、無言の言葉です。",
+		"example": "The artist used a vibrant tint to bring the landscape to life.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "tingere",
+					"meaning": "to dye, stain"
+				}
+			],
+			"points": [
+				"視覚とは、物理的な光だけでなく、魂の奥底にある光を見出すための窓なのです。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "shade_vision",
+		"word": "shade",
+		"meaning": "影、色合い、物陰",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"sceadu (shadow, darkness)"
+			],
+			"original_statement": "From Old English sceadu (shadow, darkness)."
+		},
+		"concept": "Comparative darkness caused by the interception of rays of light (光が（。届（。かない（。ことで（。生まれる「影（。シェード）」。（。そこ（。には（。、白日の（。下（。では（。見（。え（。な（。かった（。、深（。い（。真実（。が（。静（。か（。に（。息（。を（。潜（。めて（。いる（。の（。ですよ。)",
+		"thinking": "光が（。届（。かない（。ことで（。生まれる「影（。シェード）」。（。そこ（。には（。、白日の（。下（。では（。見（。え（。な（。かった（。、深（。い（。真実（。が（。静（。か（。に（。息（。を（。潜（。めて（。いる（。の（。ですよ。",
+		"aftertaste": "色彩は、光が私たちの魂に語りかけるための、無言の言葉です。",
+		"example": "The artist used a vibrant shade to bring the landscape to life.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sceadu",
+					"meaning": "shadow, darkness"
+				}
+			],
+			"points": [
+				"視覚とは、物理的な光だけでなく、魂の奥底にある光を見出すための窓なのです。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "tone_vision",
+		"word": "tone",
+		"meaning": "音色、色調、トーン",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"tonos (stretching, tension, pitch)"
+			],
+			"original_statement": "From 14th Century tonos (stretching, tension, pitch)."
+		},
+		"concept": "A musical or vocal sound with reference to its pitch, quality, and strength (ピンと「張（。られた（。トノス）弦」が（。奏（。で（。る（。ような（。、色彩（。の（。響き（。。（。あなた（。の（。放（。つ（。言葉の（。トーン（。が（。、今日（。の（。世界（。の色を（。決（。める（。のですよ。)",
+		"thinking": "ピンと「張（。られた（。トノス）弦」が（。奏（。で（。る（。ような（。、色彩（。の（。響き（。。（。あなた（。の（。放（。つ（。言葉の（。トーン（。が（。、今日（。の（。世界（。の色を（。決（。める（。のですよ。",
+		"aftertaste": "色彩は、光が私たちの魂に語りかけるための、無言の言葉です。",
+		"example": "The artist used a vibrant tone to bring the landscape to life.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "tonos",
+					"meaning": "stretching, tension, pitch"
+				}
+			],
+			"points": [
+				"視覚とは、物理的な光だけでなく、魂の奥底にある光を見出すための窓なのです。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "saturation_vision",
+		"word": "saturation",
+		"meaning": "彩度、飽和、サチュレーション",
+		"era": "16th Century",
+		"etymology": {
+			"components": [
+				"satur (full)"
+			],
+			"original_statement": "From 16th Century satur (full)."
+		},
+		"concept": "The state or process that occurs when no more of something can be absorbed, combined with, or added (これ（。以上（。入（。ら（。ないほど「満ち（。足りた（。サトゥル）」状態（。。（。純粋（。な（。エナジーが（。、限界（。まで（。凝縮（。された（。とき（。、世界は（。最も（。鮮やか（。な（。色を（。放（。ち（。始め（。ます。)",
+		"thinking": "これ（。以上（。入（。ら（。ないほど「満ち（。足りた（。サトゥル）」状態（。。（。純粋（。な（。エナジーが（。、限界（。まで（。凝縮（。された（。とき（。、世界は（。最も（。鮮やか（。な（。色を（。放（。ち（。始め（。ます。",
+		"aftertaste": "色彩は、光が私たちの魂に語りかけるための、無言の言葉です。",
+		"example": "The artist used a vibrant saturation to bring the landscape to life.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "satur",
+					"meaning": "full"
+				}
+			],
+			"points": [
+				"視覚とは、物理的な光だけでなく、魂の奥底にある光を見出すための窓なのです。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "brilliance_vision",
+		"word": "brilliance",
+		"meaning": "光輝、才気、卓越",
+		"era": "18th Century",
+		"etymology": {
+			"components": [
+				"berillus (beryl, a precious stone)"
+			],
+			"original_statement": "From 18th Century berillus (beryl, a precious stone)."
+		},
+		"concept": "Exceptional talent or intelligence (「宝石（。ベリル）」の（。ように（。、自ら（。の（。内側（。から（。光（。を（。放（。ち（。、周囲（。を（。圧倒（。する（。輝き（。。（。それは（。、研（。ぎ（。澄（。ま（。さ（。れた（。知性の（。絶唱（。なの（。ですよ。)",
+		"thinking": "「宝石（。ベリル）」の（。ように（。、自ら（。の（。内側（。から（。光（。を（。放（。ち（。、周囲（。を（。圧倒（。する（。輝き（。。（。それは（。、研（。ぎ（。澄（。ま（。さ（。れた（。知性の（。絶唱（。なの（。ですよ。",
+		"aftertaste": "色彩は、光が私たちの魂に語りかけるための、無言の言葉です。",
+		"example": "The artist used a vibrant brilliance to bring the landscape to life.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "berillus",
+					"meaning": "beryl, a precious stone"
+				}
+			],
+			"points": [
+				"視覚とは、物理的な光だけでなく、魂の奥底にある光を見出すための窓なのです。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "luster_vision",
+		"word": "luster",
+		"meaning": "光沢、艶、ラスター",
+		"era": "16th Century",
+		"etymology": {
+			"components": [
+				"lustrare (to illuminate, purify)"
+			],
+			"original_statement": "From 16th Century lustrare (to illuminate, purify)."
+		},
+		"concept": "A gentle sheen or soft glow, especially that of a partly reflective surface (単なる（。反射（。ではなく（。、表面（。を「清（。め（。磨き（。上げた（。ルストラ）」果てに（。得（。られる（。、奥（。深（。い（。艶（。。（。長い（。時間（。が（。育（。んだ（。、経験（。という（。名の（。輝き。)",
+		"thinking": "単なる（。反射（。ではなく（。、表面（。を「清（。め（。磨き（。上げた（。ルストラ）」果てに（。得（。られる（。、奥（。深（。い（。艶（。。（。長い（。時間（。が（。育（。んだ（。、経験（。という（。名の（。輝き。",
+		"aftertaste": "色彩は、光が私たちの魂に語りかけるための、無言の言葉です。",
+		"example": "The artist used a vibrant luster to bring the landscape to life.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "lustrare",
+					"meaning": "to illuminate, purify"
+				}
+			],
+			"points": [
+				"視覚とは、物理的な光だけでなく、魂の奥底にある光を見出すための窓なのです。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "opalescent_vision",
+		"word": "opalescent",
+		"meaning": "乳白色の、オパールのような",
+		"era": "19th Century",
+		"etymology": {
+			"components": [
+				"upala (precious stone)"
+			],
+			"original_statement": "From 19th Century upala (precious stone)."
+		},
+		"concept": "Showing varying colors as an opal does (「聖なる（。石（。ウパラ）」の（。ように（。、内側（。から（。乳白色（。の（。光（。を（。放（。ち（。、優しく（。全（。て（。を（。包（。み（。込む（。輝き（。。（。母（。性（。のような（。、静（。か（。な（。る（。包容力。)",
+		"thinking": "「聖なる（。石（。ウパラ）」の（。ように（。、内側（。から（。乳白色（。の（。光（。を（。放（。ち（。、優しく（。全（。て（。を（。包（。み（。込む（。輝き（。。（。母（。性（。のような（。、静（。か（。な（。る（。包容力。",
+		"aftertaste": "色彩は、光が私たちの魂に語りかけるための、無言の言葉です。",
+		"example": "The artist used a vibrant opalescent to bring the landscape to life.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "upala",
+					"meaning": "precious stone"
+				}
+			],
+			"points": [
+				"視覚とは、物理的な光だけでなく、魂の奥底にある光を見出すための窓なのです。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "prismatic_vision",
+		"word": "prismatic",
+		"meaning": "プリズムの、分光の、多面的な",
+		"era": "19th Century",
+		"etymology": {
+			"components": [
+				"prisma (something sawed, literal: 'to saw')"
+			],
+			"original_statement": "From 19th Century prisma (something sawed, literal: 'to saw')."
+		},
+		"concept": "Relating to, resembling, or produced by a prism (透明（。な（。光（。を「鋸（。のこぎ（。り（。プリスマ）で（。切り（。分（。け（。た（。）」ように（。、色（。鮮（。やかに（。分（。散（。させる（。こと（。。（。単純（。な（。真実（。を（。、無限（。の（。側面（。から（。眺（。める（。ための（。装置。)",
+		"thinking": "透明（。な（。光（。を「鋸（。のこぎ（。り（。プリスマ）で（。切り（。分（。け（。た（。）」ように（。、色（。鮮（。やかに（。分（。散（。させる（。こと（。。（。単純（。な（。真実（。を（。、無限（。の（。側面（。から（。眺（。める（。ための（。装置。",
+		"aftertaste": "色彩は、光が私たちの魂に語りかけるための、無言の言葉です。",
+		"example": "The artist used a vibrant prismatic to bring the landscape to life.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "prisma",
+					"meaning": "something sawed, literal: 'to saw'"
+				}
+			],
+			"points": [
+				"視覚とは、物理的な光だけでなく、魂の奥底にある光を見出すための窓なのです。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "transfiguration_vision",
+		"word": "transfiguration",
+		"meaning": "変容、変貌、トランスフィギュレーション",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"trans- (across) + figura (shape)"
+			],
+			"original_statement": "From 14th Century trans- (across) + figura (shape)."
+		},
+		"concept": "A complete change of form or appearance into a more beautiful or spiritual state (今（。までの「姿（。かたち（。フィギュラ）を（。飛び越し（。トランス）」て（。）、全く（。別（。な（。輝きへと（。変（。わ（。る（。こと（。。（。苦（。し（。みの（。果てに（。得（。られる（。、魂の（。神（。々（。しい（。飛躍。)",
+		"thinking": "今（。までの「姿（。かたち（。フィギュラ）を（。飛び越し（。トランス）」て（。）、全く（。別（。な（。輝きへと（。変（。わ（。る（。こと（。。（。苦（。し（。みの（。果てに（。得（。られる（。、魂の（。神（。々（。しい（。飛躍。",
+		"aftertaste": "色彩は、光が私たちの魂に語りかけるための、無言の言葉です。",
+		"example": "The artist used a vibrant transfiguration to bring the landscape to life.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "trans-",
+					"meaning": "across) + figura (shape"
+				}
+			],
+			"points": [
+				"視覚とは、物理的な光だけでなく、魂の奥底にある光を見出すための窓なのです。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "luminosity_vision",
+		"word": "luminosity",
+		"meaning": "光度、華やかさ",
+		"era": "17th Century",
+		"etymology": {
+			"components": [
+				"lumen (light)"
+			],
+			"original_statement": "From 17th Century lumen (light)."
+		},
+		"concept": "The intrinsic brightness of a celestial object (as distinct from its apparent brightness diminished by distance) (自（。ら（。の（。内（。側（。に（。、どれほど（。の「光（。ルーメン）」を（。宿（。して（。いる（。か（。。（。外部（。の（。反射（。に（。頼（。ら（。ず（。、暗闇（。の（。中で（。こそ（。真（。価（。を（。発揮（。する（。、静（。かな（。る（。輝き。)",
+		"thinking": "自（。ら（。の（。内（。側（。に（。、どれほど（。の「光（。ルーメン）」を（。宿（。して（。いる（。か（。。（。外部（。の（。反射（。に（。頼（。ら（。ず（。、暗闇（。の（。中で（。こそ（。真（。価（。を（。発揮（。する（。、静（。かな（。る（。輝き。",
+		"aftertaste": "色彩は、光が私たちの魂に語りかけるための、無言の言葉です。",
+		"example": "The artist used a vibrant luminosity to bring the landscape to life.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "lumen",
+					"meaning": "light"
+				}
+			],
+			"points": [
+				"視覚とは、物理的な光だけでなく、魂の奥底にある光を見出すための窓なのです。"
+			]
+		},
+		"part_of_speech": "noun"
 	}
 ];
