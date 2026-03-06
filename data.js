@@ -213847,5 +213847,61 @@ const WORDS = [
 			]
 		},
 		"part_of_speech": "noun"
+	},
+	{
+		"id": "verse_music_iv",
+		"word": "verse",
+		"meaning": "詩、韻文、バース",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"versus (line of writing, literal: 'turning of the plow')"
+			],
+			"original_statement": "From Old English versus (line of writing, literal: 'turning of the plow')."
+		},
+		"concept": "Writing arranged with a metrical rhythm, typically having a rhyme (意味（。を、峻（。烈（。な（。る（。る「折（。り（。返し（。バース）』の中で（。、再（。定義（。する（。こと（。（。その（。不（。動の（。る（。る（。る（。幾（。何（。学（。を（。、魂で（。、誇り（。高く、愛（。で（。て（。ください。)",
+		"thinking": "意味（。を、峻（。烈（。な（。る（。る「折（。り（。返し（。バース）』の中で（。、再（。定義（。する（。こと（。（。その（。不（。動の（。る（。る（。る（。幾（。何（。学（。を（。、魂で（。、誇り（。高く、愛（。で（。て（。ください。",
+		"aftertaste": "合唱することは、自分を消すことではない。自分という名の音を、仲間という名の調べの中に正しく配置し、より大きな美しさの一部として再定義する、至高のる調和の形式なのですよ。",
+		"example": "The hauntingly beautiful verse drifted through the rainy streets, its delicate notes intertwining with the sound of the evening city like a forgotten prayer.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "versus",
+					"meaning": "line of writing, literal: 'turning of the plow'"
+				}
+			],
+			"points": [
+				"旋律を口ずさむことは、自らの命を祝祭すること。その喜びの響きが、いつか誰かの孤独な夜を、静かに照らし出す希望となるのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "tune_music_iv",
+		"word": "tune",
+		"meaning": "旋律、調律、チューン",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"Old French ton (sound, tone, literal: 'sound')"
+			],
+			"original_statement": "From 14th Century Old French ton (sound, tone, literal: 'sound')."
+		},
+		"concept": "A melody, especially one which is characteristic of a piece of music (エナジーの（。弦を、美し（。く「整（。えた（。トン）』至高の（。る（。る（。る（。振動（。（。その（。不（。可（。解なる（。る（。る（。響（。き（。を（。、全身で（。受け（。止めて（。ください。)",
+		"thinking": "エナジーの（。弦を、美し（。く「整（。えた（。トン）』至高の（。る（。る（。る（。振動（。（。その（。不（。可（。解なる（。る（。る（。響（。き（。を（。、全身で（。受け（。止めて（。ください。",
+		"aftertaste": "合唱することは、自分を消すことではない。自分という名の音を、仲間という名の調べの中に正しく配置し、より大きな美しさの一部として再定義する、至高のる調和の形式なのですよ。",
+		"example": "The hauntingly beautiful tune drifted through the rainy streets, its delicate notes intertwining with the sound of the evening city like a forgotten prayer.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "Old",
+					"meaning": "French ton (sound, tone, literal: 'sound'"
+				}
+			],
+			"points": [
+				"旋律を口ずさむことは、自らの命を祝祭すること。その喜びの響きが、いつか誰かの孤独な夜を、静かに照らし出す希望となるのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
 	}
 ];
