@@ -210823,5 +210823,145 @@ const WORDS = [
 			]
 		},
 		"part_of_speech": "noun"
+	},
+	{
+		"id": "stride_impetus",
+		"word": "stride",
+		"meaning": "大股（。の（。歩（。み（。、進歩、ストライド",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"strīdan (to straddle)"
+			],
+			"original_statement": "From Old English strīdan (to straddle)."
+		},
+		"concept": "Walk with long, decisive steps in a specified direction (大地を（。力（。強く「跨（。ぎ（。越（。す（。ストリ）』、壮大（。な（。る（。歩調（。（。その（。一歩一歩（。が（。、不（。確実な（。る（。日常（。を（。、眩（。しい（。物（。語（。へと（。、変（。え（。て（。いく（。のですよ。)",
+		"thinking": "大地を（。力（。強く「跨（。ぎ（。越（。す（。ストリ）』、壮大（。な（。る（。歩調（。（。その（。一歩一歩（。が（。、不（。確実な（。る（。日常（。を（。、眩（。しい（。物（。語（。へと（。、変（。え（。て（。いく（。のですよ。",
+		"aftertaste": "勢いを保つことは、速く動くことではありません。自らの中心軸を、一瞬たりとも揺るがさないという、峻烈なる意志のことなのですよ。",
+		"example": "The sudden stride of creativity led to a series of remarkable artworks that redefined the modern era.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "strīdan",
+					"meaning": "to straddle"
+				}
+			],
+			"points": [
+				"抵抗とは、妨げではなく、自らの存在を熱く自覚するための、世界からの抱擁のようなものなのかもしれません。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "dash_impetus",
+		"word": "dash",
+		"meaning": "突進、ダッシュ、一（。滴（。、不（。純（。物（。",
+		"era": "13th Century",
+		"etymology": {
+			"components": [
+				"Old French dacier/dachier (to strike, clash)"
+			],
+			"original_statement": "From 13th Century Old French dacier/dachier (to strike, clash)."
+		},
+		"concept": "An act of running somewhere suddenly and hastily (一（。点（。に（。向かって、自らの（。魂を「叩（。き（。付ける（。ダッシュ）」、至高（。の（。る（。加速（。（。その（。峻（。烈（。な（。る（。一瞬の中に、宇宙（。の（。全エナジー（。が（。、集約（。さ（。れ（。て（。いる（。のですよ。)",
+		"thinking": "一（。点（。に（。向かって、自らの（。魂を「叩（。き（。付ける（。ダッシュ）」、至高（。の（。る（。加速（。（。その（。峻（。烈（。な（。る（。一瞬の中に、宇宙（。の（。全エナジー（。が（。、集約（。さ（。れ（。て（。いる（。のですよ。",
+		"aftertaste": "勢いを保つことは、速く動くことではありません。自らの中心軸を、一瞬たりとも揺るがさないという、峻烈なる意志のことなのですよ。",
+		"example": "The sudden dash of creativity led to a series of remarkable artworks that redefined the modern era.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "Old",
+					"meaning": "French dacier/dachier (to strike, clash"
+				}
+			],
+			"points": [
+				"抵抗とは、妨げではなく、自らの存在を熱く自覚するための、世界からの抱擁のようなものなのかもしれません。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "bounce_impetus",
+		"word": "bounce",
+		"meaning": "跳ねる、弾む、バウンス",
+		"era": "13th Century",
+		"etymology": {
+			"components": [
+				"Old French bondir (to leap, echo, literal: 'to rebound')"
+			],
+			"original_statement": "From 13th Century Old French bondir (to leap, echo, literal: 'to rebound')."
+		},
+		"concept": "Move quickly up, back, or away from a surface after hitting it (地上の（。重力（。を（。、美し（。く「裏（。切（。る（。バウン）』一瞬の（。る（。跳躍（。（。その（。軽（。快な（。る（。余韻が（。ある（。か（。ら（。こそ（。、魂は（。、永遠（。に（。、若々（。し（。く（。在（。り（。続け（。る（。のですよ。)",
+		"thinking": "地上の（。重力（。を（。、美し（。く「裏（。切（。る（。バウン）』一瞬の（。る（。跳躍（。（。その（。軽（。快な（。る（。余韻が（。ある（。か（。ら（。こそ（。、魂は（。、永遠（。に（。、若々（。し（。く（。在（。り（。続け（。る（。のですよ。",
+		"aftertaste": "勢いを保つことは、速く動くことではありません。自らの中心軸を、一瞬たりとも揺るがさないという、峻烈なる意志のことなのですよ。",
+		"example": "The sudden bounce of creativity led to a series of remarkable artworks that redefined the modern era.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "Old",
+					"meaning": "French bondir (to leap, echo, literal: 'to rebound'"
+				}
+			],
+			"points": [
+				"抵抗とは、妨げではなく、自らの存在を熱く自覚するための、世界からの抱擁のようなものなのかもしれません。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "swirl_impetus",
+		"word": "swirl",
+		"meaning": "渦巻、スワール",
+		"era": "15th Century",
+		"etymology": {
+			"components": [
+				"Old Norse svirla (to whirl, spin)"
+			],
+			"original_statement": "From 15th Century Old Norse svirla (to whirl, spin)."
+		},
+		"concept": "Move in a twisting or spiraling pattern (流（。れ（。る（。時間を（。、美し（。い「螺旋（。へと（。変える（。スワル）』、静（。か（。な（。る（。舞（。い（。（。その（。不（。均（。一（。な（。る（。煌（。めきを、ただ（。、魂で（。、感（。じ（。て（。いて（。ください。)",
+		"thinking": "流（。れ（。る（。時間を（。、美し（。い「螺旋（。へと（。変える（。スワル）』、静（。か（。な（。る（。舞（。い（。（。その（。不（。均（。一（。な（。る（。煌（。めきを、ただ（。、魂で（。、感（。じ（。て（。いて（。ください。",
+		"aftertaste": "勢いを保つことは、速く動くことではありません。自らの中心軸を、一瞬たりとも揺るがさないという、峻烈なる意志のことなのですよ。",
+		"example": "The sudden swirl of creativity led to a series of remarkable artworks that redefined the modern era.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "Old",
+					"meaning": "Norse svirla (to whirl, spin"
+				}
+			],
+			"points": [
+				"抵抗とは、妨げではなく、自らの存在を熱く自覚するための、世界からの抱擁のようなものなのかもしれません。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "stress_impetus",
+		"word": "stress",
+		"meaning": "強調、ストレス、苦渋",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"strictus (tight, drawn, literal: 'tightness')"
+			],
+			"original_statement": "From 14th Century strictus (tight, drawn, literal: 'tightness')."
+		},
+		"concept": "A state of mental or emotional strain or tension resulting from adverse or very demanding circumstances (外（。界の（。重みを、自ら（。の（。内で「引き（。締（。め（。た（。ストレ）』、峻（。烈（。な（。る（。圧力（。（。その（。痛（。みの（。中に、あなた（。は（。、真（。の（。強さを（。、再（。発見（。する（。のです。)",
+		"thinking": "外（。界の（。重みを、自ら（。の（。内で「引き（。締（。め（。た（。ストレ）』、峻（。烈（。な（。る（。圧力（。（。その（。痛（。みの（。中に、あなた（。は（。、真（。の（。強さを（。、再（。発見（。する（。のです。",
+		"aftertaste": "勢いを保つことは、速く動くことではありません。自らの中心軸を、一瞬たりとも揺るがさないという、峻烈なる意志のことなのですよ。",
+		"example": "The sudden stress of creativity led to a series of remarkable artworks that redefined the modern era.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "strictus",
+					"meaning": "tight, drawn, literal: 'tightness'"
+				}
+			],
+			"points": [
+				"抵抗とは、妨げではなく、自らの存在を熱く自覚するための、世界からの抱擁のようなものなのかもしれません。"
+			]
+		},
+		"part_of_speech": "noun"
 	}
 ];
