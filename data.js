@@ -192511,5 +192511,677 @@ const WORDS = [
 			]
 		},
 		"part_of_speech": "noun"
+	},
+	{
+		"id": "valley_nature",
+		"word": "valley",
+		"meaning": "谷",
+		"era": "13th Century",
+		"etymology": {
+			"components": [
+				"vallis (valley)"
+			],
+			"original_statement": "From 13th Century vallis (valley)."
+		},
+		"concept": "A low area of land (二つの高い山に挟まれることで生じた謙虚な窪みに、豊かな水と生命が集まる豊穣の地。)",
+		"thinking": "二つの高い山に挟まれることで生じた謙虚な窪みに、豊かな水と生命が集まる豊穣の地。",
+		"aftertaste": "高い山を目指して疲れた時は、「バレー（谷）」の静けさの中で魂の休息を。",
+		"example": "We looked out over the vast valley.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "vallis (valley)",
+					"meaning": "known origin"
+				}
+			],
+			"points": [
+				"自然の中に自らの感情や人生を映し出すメタファーの世界。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "canyon_nature",
+		"word": "canyon",
+		"meaning": "峡谷",
+		"era": "19th Century",
+		"etymology": {
+			"components": [
+				"canon (tube)"
+			],
+			"original_statement": "From 19th Century canon (tube)."
+		},
+		"concept": "A deep gorge (途方もない時間をかけて水滴が強固な大地を切り裂き、深くまで彫り込んだ偉大な地球の傷跡。)",
+		"thinking": "途方もない時間をかけて水滴が強固な大地を切り裂き、深くまで彫り込んだ偉大な地球の傷跡。",
+		"aftertaste": "どんなに固い壁も、情熱の川がいつかは「キャニオン（深い峡谷）」へと変えてくれます。",
+		"example": "We looked out over the vast canyon.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "canon (tube)",
+					"meaning": "known origin"
+				}
+			],
+			"points": [
+				"自然の中に自らの感情や人生を映し出すメタファーの世界。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "ravine_nature",
+		"word": "ravine",
+		"meaning": "峡谷、深い谷",
+		"era": "18th Century",
+		"etymology": {
+			"components": [
+				"rapere (to seize)"
+			],
+			"original_statement": "From 18th Century rapere (to seize)."
+		},
+		"concept": "A deep, narrow gorge (水流によって強引に大地が「奪い取られ」、えぐり出されるように形成された急峻な亀裂。)",
+		"thinking": "水流によって強引に大地が「奪い取られ」、えぐり出されるように形成された急峻な亀裂。",
+		"aftertaste": "人生に突然「ラヴィーン（深い溝）」が現れても、それは新しい道を作るための試練です。",
+		"example": "We looked out over the vast ravine.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "rapere (to seize)",
+					"meaning": "known origin"
+				}
+			],
+			"points": [
+				"自然の中に自らの感情や人生を映し出すメタファーの世界。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "plateau_nature",
+		"word": "plateau",
+		"meaning": "高原、台地",
+		"era": "18th Century",
+		"etymology": {
+			"components": [
+				"plat (flat)"
+			],
+			"original_statement": "From 18th Century plat (flat)."
+		},
+		"concept": "An area of relatively level high ground (険しい上昇を終え、たどり着いた先に広がる、重力から解放されたような高所の平穏無事。)",
+		"thinking": "険しい上昇を終え、たどり着いた先に広がる、重力から解放されたような高所の平穏無事。",
+		"aftertaste": "学習が「プラトー（停滞期）」に達しても焦らないで。そこは見晴らしの良い高原なのです。",
+		"example": "We looked out over the vast plateau.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "plat (flat)",
+					"meaning": "known origin"
+				}
+			],
+			"points": [
+				"自然の中に自らの感情や人生を映し出すメタファーの世界。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "ridge_nature",
+		"word": "ridge",
+		"meaning": "尾根",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"hrycg (back of man or beast)"
+			],
+			"original_statement": "From Old English hrycg (back of man or beast)."
+		},
+		"concept": "A long narrow hilltop (二つの異なる斜面を隔てる境界線として大地が背筋を伸ばし、空気を鋭く切り裂く背骨。)",
+		"thinking": "二つの異なる斜面を隔てる境界線として大地が背筋を伸ばし、空気を鋭く切り裂く背骨。",
+		"aftertaste": "「リッジ（山の背）」を歩く時は、絶景と同時に両側へ落ちる危険というスリルを楽しんで。",
+		"example": "We looked out over the vast ridge.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "hrycg (back of man or beast)",
+					"meaning": "known origin"
+				}
+			],
+			"points": [
+				"自然の中に自らの感情や人生を映し出すメタファーの世界。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "cliff_nature",
+		"word": "cliff",
+		"meaning": "崖",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"clif (cliff, rock)"
+			],
+			"original_statement": "From Old English clif (cliff, rock)."
+		},
+		"concept": "A steep rock face (海や陸地の端に突如として現れ、それ以上進むことを物理的かつ圧倒的に拒絶する垂直の断絶。)",
+		"thinking": "海や陸地の端に突如として現れ、それ以上進むことを物理的かつ圧倒的に拒絶する垂直の断絶。",
+		"aftertaste": "絶望の「クリフ（崖）」の端に立たされた時こそ、魂が空へ舞い上がるチャンスかもしれません。",
+		"example": "We looked out over the vast cliff.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "clif (cliff, rock)",
+					"meaning": "known origin"
+				}
+			],
+			"points": [
+				"自然の中に自らの感情や人生を映し出すメタファーの世界。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "crag_nature",
+		"word": "crag",
+		"meaning": "険しい岩山",
+		"era": "13th Century",
+		"etymology": {
+			"components": [
+				"Unknown (Celtic)"
+			],
+			"original_statement": "From 13th Century Unknown (Celtic)."
+		},
+		"concept": "A steep or rugged cliff (長い風化と浸食に耐え抜き、骨だけがむき出しになったように荒々しくそびえ立つ大地の老兵。)",
+		"thinking": "長い風化と浸食に耐え抜き、骨だけがむき出しになったように荒々しくそびえ立つ大地の老兵。",
+		"aftertaste": "彼の顔に刻まれた「クラッグ（険しい岩）」のような深いシワは、誇り高い戦いの歴史です。",
+		"example": "We looked out over the vast crag.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "Unknown (Celtic)",
+					"meaning": "known origin"
+				}
+			],
+			"points": [
+				"自然の中に自らの感情や人生を映し出すメタファーの世界。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "peak_nature",
+		"word": "peak",
+		"meaning": "頂上、尖峰",
+		"era": "16th Century",
+		"etymology": {
+			"components": [
+				"pic (sharp point)"
+			],
+			"original_statement": "From 16th Century pic (sharp point)."
+		},
+		"concept": "The pointed top of a mountain (全ての道が最後に収束し、それ以上登る場所のない完全なる孤立と最高の勝利が交差する「頂」。)",
+		"thinking": "全ての道が最後に収束し、それ以上登る場所のない完全なる孤立と最高の勝利が交差する「頂」。",
+		"aftertaste": "若さの「ピーク（頂点）」を過ぎても、山を降りる過程の夕焼けはまた格別に美しいのです。",
+		"example": "We looked out over the vast peak.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "pic (sharp point)",
+					"meaning": "known origin"
+				}
+			],
+			"points": [
+				"自然の中に自らの感情や人生を映し出すメタファーの世界。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "grove_nature",
+		"word": "grove",
+		"meaning": "小さな森、木立ち",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"graf (grove)"
+			],
+			"original_statement": "From Old English graf (grove)."
+		},
+		"concept": "A small wood, orchard (大森林ほどの恐怖や闇を含まず、人間に親密で優しく調和の取れたスケールで存在する木の精が集う場所。)",
+		"thinking": "大森林ほどの恐怖や闇を含まず、人間に親密で優しく調和の取れたスケールで存在する木の精が集う場所。",
+		"aftertaste": "古代の哲学者は、静かな「グローヴ（木立ち）」を歩きながら宇宙の真理を語り合いました。",
+		"example": "We looked out over the vast grove.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "graf (grove)",
+					"meaning": "known origin"
+				}
+			],
+			"points": [
+				"自然の中に自らの感情や人生を映し出すメタファーの世界。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "marsh_nature",
+		"word": "marsh",
+		"meaning": "沼地、湿地",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"mersc (marsh, swamp)"
+			],
+			"original_statement": "From Old English mersc (marsh, swamp)."
+		},
+		"concept": "An area of low-lying land which is flooded (大地と水が曖昧に混ざり合い、確かな足場を奪う代わりに豊かな多様性を育む混沌とした生命の子宮。)",
+		"thinking": "大地と水が曖昧に混ざり合い、確かな足場を奪う代わりに豊かな多様性を育む混沌とした生命の子宮。",
+		"aftertaste": "「マーシュ（沼地）」には足を取られますが、そこには泥の中でしか咲かない美しい花があります。",
+		"example": "We looked out over the vast marsh.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "mersc (marsh, swamp)",
+					"meaning": "known origin"
+				}
+			],
+			"points": [
+				"自然の中に自らの感情や人生を映し出すメタファーの世界。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "swamp_nature",
+		"word": "swamp",
+		"meaning": "沼地、圧倒する",
+		"era": "17th Century",
+		"etymology": {
+			"components": [
+				"Unknown (sponge, fungus)"
+			],
+			"original_statement": "From 17th Century Unknown (sponge, fungus)."
+		},
+		"concept": "An area of waterlogged ground (水が完全に土を支配し、歩みに応じて重く泥がまとわりつく、生命の活力と死の腐敗が同時に進行する場所。)",
+		"thinking": "水が完全に土を支配し、歩みに応じて重く泥がまとわりつく、生命の活力と死の腐敗が同時に進行する場所。",
+		"aftertaste": "仕事の量に「スワンプ（圧倒されて沈む）」する前に、一度岸に上がって深呼吸を。",
+		"example": "We looked out over the vast swamp.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "Unknown (sponge, fungus)",
+					"meaning": "known origin"
+				}
+			],
+			"points": [
+				"自然の中に自らの感情や人生を映し出すメタファーの世界。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "bog_nature",
+		"word": "bog",
+		"meaning": "泥炭地、湿原",
+		"era": "16th Century",
+		"etymology": {
+			"components": [
+				"bogach (soft, boggy)"
+			],
+			"original_statement": "From 16th Century bogach (soft, boggy)."
+		},
+		"concept": "Wet muddy ground too soft to support (長年にわたって蓄積された枯れ草が沈んで泥炭となり、足を踏み入れる者を柔らかく、だが確実に飲み込む深い穴。)",
+		"thinking": "長年にわたって蓄積された枯れ草が沈んで泥炭となり、足を踏み入れる者を柔らかく、だが確実に飲み込む深い穴。",
+		"aftertaste": "後悔という「ボグ（泥沼）」に足を踏み入れると、抜け出すのに途方もないエネルギーを使います。",
+		"example": "We looked out over the vast bog.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "bogach (soft, boggy)",
+					"meaning": "known origin"
+				}
+			],
+			"points": [
+				"自然の中に自らの感情や人生を映し出すメタファーの世界。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "moor_nature",
+		"word": "moor",
+		"meaning": "荒野、ヒースの生い茂る荒れ地",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"mor (morass, swamp)"
+			],
+			"original_statement": "From Old English mor (morass, swamp)."
+		},
+		"concept": "A tract of open uncultivated upland (強風が吹きすさび、華やかな花など一切育たないが、そこには孤独と誇りだけが延々と広がる厳しい荒野。)",
+		"thinking": "強風が吹きすさび、華やかな花など一切育たないが、そこには孤独と誇りだけが延々と広がる厳しい荒野。",
+		"aftertaste": "ヒースクリフのように「ムーア（荒れ野）」に立ち、狂おしい愛を叫ぶ情熱も時には美しい。",
+		"example": "We looked out over the vast moor.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "mor (morass, swamp)",
+					"meaning": "known origin"
+				}
+			],
+			"points": [
+				"自然の中に自らの感情や人生を映し出すメタファーの世界。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "heath_nature",
+		"word": "heath",
+		"meaning": "荒れ地、ヒース",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"hæth (untilled land)"
+			],
+			"original_statement": "From Old English hæth (untilled land)."
+		},
+		"concept": "An area of open uncultivated land (痩せた（やせた）土地でもたくましく根を張り、紫の小さな花を咲かせる低木が群生する、荒涼とした美。)",
+		"thinking": "痩せた（やせた）土地でもたくましく根を張り、紫の小さな花を咲かせる低木が群生する、荒涼とした美。",
+		"aftertaste": "深い地球の営みに心を委ねてみよう。",
+		"example": "We looked out over the vast heath.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "hæth (untilled land)",
+					"meaning": "known origin"
+				}
+			],
+			"points": [
+				"自然の中に自らの感情や人生を映し出すメタファーの世界。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "tundra_nature",
+		"word": "tundra",
+		"meaning": "ツンドラ、凍原",
+		"era": "19th Century",
+		"etymology": {
+			"components": [
+				"tundar (treeless mountain tract)"
+			],
+			"original_statement": "From 19th Century tundar (treeless mountain tract)."
+		},
+		"concept": "A vast, flat, treeless Arctic region (一年のほとんどを氷と雪に閉ざされながらも、短い夏には爆発的な生命力で花を咲かせる究極の耐久地帯。)",
+		"thinking": "一年のほとんどを氷と雪に閉ざされながらも、短い夏には爆発的な生命力で花を咲かせる究極の耐久地帯。",
+		"aftertaste": "深い地球の営みに心を委ねてみよう。",
+		"example": "We looked out over the vast tundra.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "tundar (treeless mountain tract)",
+					"meaning": "known origin"
+				}
+			],
+			"points": [
+				"自然の中に自らの感情や人生を映し出すメタファーの世界。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "dune_nature",
+		"word": "dune",
+		"meaning": "砂丘",
+		"era": "18th Century",
+		"etymology": {
+			"components": [
+				"dune (sand hill)"
+			],
+			"original_statement": "From 18th Century dune (sand hill)."
+		},
+		"concept": "A mound or ridge of sand (風の意志によって毎日その姿を変え、永遠に同じ形を保つことのない金色の流動的な彫刻。)",
+		"thinking": "風の意志によって毎日その姿を変え、永遠に同じ形を保つことのない金色の流動的な彫刻。",
+		"aftertaste": "深い地球の営みに心を委ねてみよう。",
+		"example": "We looked out over the vast dune.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "dune (sand hill)",
+					"meaning": "known origin"
+				}
+			],
+			"points": [
+				"自然の中に自らの感情や人生を映し出すメタファーの世界。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "oasis_nature",
+		"word": "oasis",
+		"meaning": "オアシス",
+		"era": "17th Century",
+		"etymology": {
+			"components": [
+				"oasis (dwelling place)"
+			],
+			"original_statement": "From 17th Century oasis (dwelling place)."
+		},
+		"concept": "A fertile spot in a desert (絶対的な死の空間（砂漠）に奇跡のように現れ、無条件で全ての渇きを癒やす命の幻影。)",
+		"thinking": "絶対的な死の空間（砂漠）に奇跡のように現れ、無条件で全ての渇きを癒やす命の幻影。",
+		"aftertaste": "深い地球の営みに心を委ねてみよう。",
+		"example": "We looked out over the vast oasis.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "oasis (dwelling place)",
+					"meaning": "known origin"
+				}
+			],
+			"points": [
+				"自然の中に自らの感情や人生を映し出すメタファーの世界。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "crater_nature",
+		"word": "crater",
+		"meaning": "クレーター、火口",
+		"era": "17th Century",
+		"etymology": {
+			"components": [
+				"krater (mixing bowl)"
+			],
+			"original_statement": "From 17th Century krater (mixing bowl)."
+		},
+		"concept": "A large, bowl-shaped cavity (天体同士の凄惨な衝突や大地の爆発によって形成された、星が身につけている「混ぜ鉢」のような巨大な傷跡。)",
+		"thinking": "天体同士の凄惨な衝突や大地の爆発によって形成された、星が身につけている「混ぜ鉢」のような巨大な傷跡。",
+		"aftertaste": "深い地球の営みに心を委ねてみよう。",
+		"example": "We looked out over the vast crater.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "krater (mixing bowl)",
+					"meaning": "known origin"
+				}
+			],
+			"points": [
+				"自然の中に自らの感情や人生を映し出すメタファーの世界。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "geyser_nature",
+		"word": "geyser",
+		"meaning": "間欠泉",
+		"era": "18th Century",
+		"etymology": {
+			"components": [
+				"geysa (to gush)"
+			],
+			"original_statement": "From 18th Century geysa (to gush)."
+		},
+		"concept": "A hot spring in which water intermittently boils (大地の奥底に鬱積（うっせき）したマグマの手による熱エネルギーが限界まで達し、「噴出」する熱狂のリズム。)",
+		"thinking": "大地の奥底に鬱積（うっせき）したマグマの手による熱エネルギーが限界まで達し、「噴出」する熱狂のリズム。",
+		"aftertaste": "深い地球の営みに心を委ねてみよう。",
+		"example": "We looked out over the vast geyser.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "geysa (to gush)",
+					"meaning": "known origin"
+				}
+			],
+			"points": [
+				"自然の中に自らの感情や人生を映し出すメタファーの世界。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "wave_nature",
+		"word": "wave",
+		"meaning": "波",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"wagian (to move back and forth)"
+			],
+			"original_statement": "From Old English wagian (to move back and forth)."
+		},
+		"concept": "A long body of water curling into an arched form (風のエネルギーを水が受け取り、その「揺れ動く」力を岸へと運んで最終的に白く砕け散らせる劇的な配達劇。)",
+		"thinking": "風のエネルギーを水が受け取り、その「揺れ動く」力を岸へと運んで最終的に白く砕け散らせる劇的な配達劇。",
+		"aftertaste": "深い地球の営みに心を委ねてみよう。",
+		"example": "We looked out over the vast wave.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "wagian (to move back and forth)",
+					"meaning": "known origin"
+				}
+			],
+			"points": [
+				"自然の中に自らの感情や人生を映し出すメタファーの世界。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "pebble_nature",
+		"word": "pebble",
+		"meaning": "小石",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"papolstan (pebble stone)"
+			],
+			"original_statement": "From Old English papolstan (pebble stone)."
+		},
+		"concept": "A small stone made smooth and round (川の流れと途方もない摩擦によって全ての角を削り取られ、丸く完璧で愛らしい姿になった大地の欠片。)",
+		"thinking": "川の流れと途方もない摩擦によって全ての角を削り取られ、丸く完璧で愛らしい姿になった大地の欠片。",
+		"aftertaste": "深い地球の営みに心を委ねてみよう。",
+		"example": "We looked out over the vast pebble.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "papolstan (pebble stone)",
+					"meaning": "known origin"
+				}
+			],
+			"points": [
+				"自然の中に自らの感情や人生を映し出すメタファーの世界。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "boulder_nature",
+		"word": "boulder",
+		"meaning": "大きな岩",
+		"era": "17th Century",
+		"etymology": {
+			"components": [
+				"bulder (noise, roar)"
+			],
+			"original_statement": "From 17th Century bulder (noise, roar)."
+		},
+		"concept": "A large rock (氷河や大洪水が「轟音を立てて」転がしてきた、人間の力では到底動かすことのできない威圧的な大地の置物。)",
+		"thinking": "氷河や大洪水が「轟音を立てて」転がしてきた、人間の力では到底動かすことのできない威圧的な大地の置物。",
+		"aftertaste": "深い地球の営みに心を委ねてみよう。",
+		"example": "We looked out over the vast boulder.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "bulder (noise, roar)",
+					"meaning": "known origin"
+				}
+			],
+			"points": [
+				"自然の中に自らの感情や人生を映し出すメタファーの世界。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "dust_nature",
+		"word": "dust",
+		"meaning": "ほこり、ちり",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"dust (dust, ashes)"
+			],
+			"original_statement": "From Old English dust (dust, ashes)."
+		},
+		"concept": "Fine, dry powder (物質がこれ以上砕けない極小の粉末であり、最後は空へ舞い上がってすべてを平等の無に帰すための素材。)",
+		"thinking": "物質がこれ以上砕けない極小の粉末であり、最後は空へ舞い上がってすべてを平等の無に帰すための素材。",
+		"aftertaste": "深い地球の営みに心を委ねてみよう。",
+		"example": "We looked out over the vast dust.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "dust (dust, ashes)",
+					"meaning": "known origin"
+				}
+			],
+			"points": [
+				"自然の中に自らの感情や人生を映し出すメタファーの世界。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "ash_nature",
+		"word": "ash",
+		"meaning": "灰",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"æsce (ash)"
+			],
+			"original_statement": "From Old English æsce (ash)."
+		},
+		"concept": "The powdery residue left after burning (火という激しい情熱が全てを焼き尽くし、形あったものが魂を天空へ放ったのちに残される、静寂と浄化の結晶。)",
+		"thinking": "火という激しい情熱が全てを焼き尽くし、形あったものが魂を天空へ放ったのちに残される、静寂と浄化の結晶。",
+		"aftertaste": "深い地球の営みに心を委ねてみよう。",
+		"example": "We looked out over the vast ash.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "æsce (ash)",
+					"meaning": "known origin"
+				}
+			],
+			"points": [
+				"自然の中に自らの感情や人生を映し出すメタファーの世界。"
+			]
+		},
+		"part_of_speech": "noun"
 	}
 ];
