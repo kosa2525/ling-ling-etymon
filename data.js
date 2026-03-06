@@ -211411,5 +211411,285 @@ const WORDS = [
 			]
 		},
 		"part_of_speech": "noun"
+	},
+	{
+		"id": "cavity_depth",
+		"word": "cavity",
+		"meaning": "空洞、くぼみ、虫歯、キャビティ",
+		"era": "16th Century",
+		"etymology": {
+			"components": [
+				"cavus (hollow, literal: 'hollow place')"
+			],
+			"original_statement": "From 16th Century cavus (hollow, literal: 'hollow place')."
+		},
+		"concept": "A hollow space within a solid object (大地の（。奥底に（。、ひっ（。そ（。りと（。作（。られた「小（。さな（。る（。虚空（。キャヴァス）』。（。その（。静（。か（。な（。る（。包（。容が、あなた（。を、至高（。の（。る（。沈黙（。へと（。、誘（。う（。のですよ。)",
+		"thinking": "大地の（。奥底に（。、ひっ（。そ（。りと（。作（。られた「小（。さな（。る（。虚空（。キャヴァス）』。（。その（。静（。か（。な（。る（。包（。容が、あなた（。を、至高（。の（。る（。沈黙（。へと（。、誘（。う（。のですよ。",
+		"aftertaste": "空洞は、何もない場所ではない。それは、新しい宇宙が産声を上げるために用意された、聖なるゆりかごなのですよ。",
+		"example": "The explorer carefully navigated the deep cavity that had been carved out by the ancient river over millions of years.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "cavus",
+					"meaning": "hollow, literal: 'hollow place'"
+				}
+			],
+			"points": [
+				"低きを見ることは、卑屈になることではありません。大地の重みを知り、自らの足元を固めるための、至高のる謙虚さなのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "basin_depth",
+		"word": "basin",
+		"meaning": "盆地、洗面器、ベイスン",
+		"era": "13th Century",
+		"etymology": {
+			"components": [
+				"bacin (basin, literal: 'bowl-like vessel')"
+			],
+			"original_statement": "From 13th Century bacin (basin, literal: 'bowl-like vessel')."
+		},
+		"concept": "A wide open container used for preparing or serving food or for holding soap and water (天地（。の（。恵（。みを（。、優（。しく「受け（。止める（。ベイスン）」、至高の（。る（。平原（。（。そこ（。には（。、命の（。交（。差（。点（。として、豊饒（。な（。る（。物（。語（。が（。、静（。か（。に（。、満（。ち（。溢（。れて（。いる（。のですよ。)",
+		"thinking": "天地（。の（。恵（。みを（。、優（。しく「受け（。止める（。ベイスン）」、至高の（。る（。平原（。（。そこ（。には（。、命の（。交（。差（。点（。として、豊饒（。な（。る（。物（。語（。が（。、静（。か（。に（。、満（。ち（。溢（。れて（。いる（。のですよ。",
+		"aftertaste": "空洞は、何もない場所ではない。それは、新しい宇宙が産声を上げるために用意された、聖なるゆりかごなのですよ。",
+		"example": "The explorer carefully navigated the deep basin that had been carved out by the ancient river over millions of years.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "bacin",
+					"meaning": "basin, literal: 'bowl-like vessel'"
+				}
+			],
+			"points": [
+				"低きを見ることは、卑屈になることではありません。大地の重みを知り、自らの足元を固めるための、至高のる謙虚さなのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "furrow_depth",
+		"word": "furrow",
+		"meaning": "畝（。うね（。）」、轍（。わだち（。）」、皺（。、ファロウ",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"furh (furrow)"
+			],
+			"original_statement": "From Old English furh (furrow)."
+		},
+		"concept": "A long narrow trench made in the ground by a plow, especially for planting seeds or for irrigation (大地（。の（。肌（。に、峻（。烈（。な（。る（。意志が「刻（。み（。付け（。た（。ファロウ）』軌跡。（。その（。一一点（。の（。亀（。裂（。から、新しい（。物（。語が（。、産（。声を（。上げ（。始める（。のですよ。)",
+		"thinking": "大地（。の（。肌（。に、峻（。烈（。な（。る（。意志が「刻（。み（。付け（。た（。ファロウ）』軌跡。（。その（。一一点（。の（。亀（。裂（。から、新しい（。物（。語が（。、産（。声を（。上げ（。始める（。のですよ。",
+		"aftertaste": "空洞は、何もない場所ではない。それは、新しい宇宙が産声を上げるために用意された、聖なるゆりかごなのですよ。",
+		"example": "The explorer carefully navigated the deep furrow that had been carved out by the ancient river over millions of years.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "furh",
+					"meaning": "furrow"
+				}
+			],
+			"points": [
+				"低きを見ることは、卑屈になることではありません。大地の重みを知り、自らの足元を固めるための、至高のる謙虚さなのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "groove_depth",
+		"word": "groove",
+		"meaning": "溝、慣例、絶好調、グルーヴ",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"groove (pit, ditch, literal: 'dug out place')"
+			],
+			"original_statement": "From 14th Century groove (pit, ditch, literal: 'dug out place')."
+		},
+		"concept": "A long, narrow cut or low area in a surface (エナジーが（。、迷（。う（。こと（。なく「駆（。け（。抜ける（。ための（。道（。グルーヴ）』。（。その（。峻（。烈（。な（。る（。滑（。らか（。さが、あなた（。を、至高（。の（。る（。リズムへと（。、導（。く（。のですよ。)",
+		"thinking": "エナジーが（。、迷（。う（。こと（。なく「駆（。け（。抜ける（。ための（。道（。グルーヴ）』。（。その（。峻（。烈（。な（。る（。滑（。らか（。さが、あなた（。を、至高（。の（。る（。リズムへと（。、導（。く（。のですよ。",
+		"aftertaste": "空洞は、何もない場所ではない。それは、新しい宇宙が産声を上げるために用意された、聖なるゆりかごなのですよ。",
+		"example": "The explorer carefully navigated the deep groove that had been carved out by the ancient river over millions of years.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "groove",
+					"meaning": "pit, ditch, literal: 'dug out place'"
+				}
+			],
+			"points": [
+				"低きを見ることは、卑屈になることではありません。大地の重みを知り、自らの足元を固めるための、至高のる謙虚さなのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "vein_depth",
+		"word": "vein",
+		"meaning": "血管、木目、鉱脈、ベイン",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"vena (vein, literal: 'vessel, watercourse')"
+			],
+			"original_statement": "From 14th Century vena (vein, literal: 'vessel, watercourse')."
+		},
+		"concept": "Any of the tubes forming part of the blood circulation system of the body (岩石の（。中に、静（。か（。な（。る「生命の（。川（。ヴェーナ）』を（。、見（。出（。す（。こと（。（。その（。細（。や（。かな（。る（。連（。な（。りにこそ（。、宇宙の（。真実の（。血汐（。が、流（。れ（。て（。いる（。のですよ。)",
+		"thinking": "岩石の（。中に、静（。か（。な（。る「生命の（。川（。ヴェーナ）』を（。、見（。出（。す（。こと（。（。その（。細（。や（。かな（。る（。連（。な（。りにこそ（。、宇宙の（。真実の（。血汐（。が、流（。れ（。て（。いる（。のですよ。",
+		"aftertaste": "空洞は、何もない場所ではない。それは、新しい宇宙が産声を上げるために用意された、聖なるゆりかごなのですよ。",
+		"example": "The explorer carefully navigated the deep vein that had been carved out by the ancient river over millions of years.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "vena",
+					"meaning": "vein, literal: 'vessel, watercourse'"
+				}
+			],
+			"points": [
+				"低きを見ることは、卑屈になることではありません。大地の重みを知り、自らの足元を固めるための、至高のる謙虚さなのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "pore_depth",
+		"word": "pore",
+		"meaning": "細孔（。、熟読（。する（。、ポア",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"poros (passage, literal: 'tiny passage')"
+			],
+			"original_statement": "From 14th Century poros (passage, literal: 'tiny passage')."
+		},
+		"concept": "A minute opening in a surface, especially the skin or relevant part of an organism (世界を（。峻（。烈（。に（。、呼吸（。さ（。せる（。ための「小（。さな（。る（。道（。ポロス）』。（。そこ（。を（。通（。る（。た（。びに（。、あなた（。の（。魂は（。、日常の（。重みを（。、脱（。して（。いく（。のですよ。)",
+		"thinking": "世界を（。峻（。烈（。に（。、呼吸（。さ（。せる（。ための「小（。さな（。る（。道（。ポロス）』。（。そこ（。を（。通（。る（。た（。びに（。、あなた（。の（。魂は（。、日常の（。重みを（。、脱（。して（。いく（。のですよ。",
+		"aftertaste": "空洞は、何もない場所ではない。それは、新しい宇宙が産声を上げるために用意された、聖なるゆりかごなのですよ。",
+		"example": "The explorer carefully navigated the deep pore that had been carved out by the ancient river over millions of years.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "poros",
+					"meaning": "passage, literal: 'tiny passage'"
+				}
+			],
+			"points": [
+				"低きを見ることは、卑屈になることではありません。大地の重みを知り、自らの足元を固めるための、至高のる謙虚さなのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "shaft_depth",
+		"word": "shaft",
+		"meaning": "柄、坑道、光線、シャフト",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"sceaft (shaft, arrow-point)"
+			],
+			"original_statement": "From Old English sceaft (shaft, arrow-point)."
+		},
+		"concept": "A long, narrow, vertical cylinder used in a building (暗黒（。を（。一（。点に「貫（。く（。シャフ）』、光の（。柱（。（。その（。垂直（。の（。る（。意志が（。、あなた（。を（。、至高（。の（。る（。深（。淵（。へと（。、あるいは（。高（。みへと、運（。ぶ（。のですよ。)",
+		"thinking": "暗黒（。を（。一（。点に「貫（。く（。シャフ）』、光の（。柱（。（。その（。垂直（。の（。る（。意志が（。、あなた（。を（。、至高（。の（。る（。深（。淵（。へと（。、あるいは（。高（。みへと、運（。ぶ（。のですよ。",
+		"aftertaste": "空洞は、何もない場所ではない。それは、新しい宇宙が産声を上げるために用意された、聖なるゆりかごなのですよ。",
+		"example": "The explorer carefully navigated the deep shaft that had been carved out by the ancient river over millions of years.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sceaft",
+					"meaning": "shaft, arrow-point"
+				}
+			],
+			"points": [
+				"低きを見ることは、卑屈になることではありません。大地の重みを知り、自らの足元を固めるための、至高のる謙虚さなのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "pit_depth",
+		"word": "pit",
+		"meaning": "穴、坑、ピット",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"pitt (pit, well, literal: 'large hole')"
+			],
+			"original_statement": "From Old English pitt (pit, well, literal: 'large hole')."
+		},
+		"concept": "A large hole in the ground (全（。てを（。受け（。止める（。ために、魂に「穿（。た（。れた（。ピット）』。（。その（。深（。淵（。な（。る（。沈黙を（。、信（。じ（。抜く（。とき（。、あなた（。は（。、真（。実（。の（。、潤（。いを（。知ります。)",
+		"thinking": "全（。てを（。受け（。止める（。ために、魂に「穿（。た（。れた（。ピット）』。（。その（。深（。淵（。な（。る（。沈黙を（。、信（。じ（。抜く（。とき（。、あなた（。は（。、真（。実（。の（。、潤（。いを（。知ります。",
+		"aftertaste": "空洞は、何もない場所ではない。それは、新しい宇宙が産声を上げるために用意された、聖なるゆりかごなのですよ。",
+		"example": "The explorer carefully navigated the deep pit that had been carved out by the ancient river over millions of years.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "pitt",
+					"meaning": "pit, well, literal: 'large hole'"
+				}
+			],
+			"points": [
+				"低きを見ることは、卑屈になることではありません。大地の重みを知り、自らの足元を固めるための、至高のる謙虚さなのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "sink_depth",
+		"word": "sink",
+		"meaning": "沈む、流し、シンク",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"sincan (to sink)"
+			],
+			"original_statement": "From Old English sincan (to sink)."
+		},
+		"concept": "A fixed basin with a water supply and a drain (エナジーが、峻（。烈（。な（。る（。重力に（。導（。かれ「低き（。へと（。沈（。む（。シンク）」こと（。。（。その（。静（。か（。な（。る（。着（。地（。が（。ある（。から（。こそ（。、再（。び（。新（。しい（。飛翔（。が、始（。まる（。のですよ。)",
+		"thinking": "エナジーが、峻（。烈（。な（。る（。重力に（。導（。かれ「低き（。へと（。沈（。む（。シンク）」こと（。。（。その（。静（。か（。な（。る（。着（。地（。が（。ある（。から（。こそ（。、再（。び（。新（。しい（。飛翔（。が、始（。まる（。のですよ。",
+		"aftertaste": "空洞は、何もない場所ではない。それは、新しい宇宙が産声を上げるために用意された、聖なるゆりかごなのですよ。",
+		"example": "The explorer carefully navigated the deep sink that had been carved out by the ancient river over millions of years.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sincan",
+					"meaning": "to sink"
+				}
+			],
+			"points": [
+				"低きを見ることは、卑屈になることではありません。大地の重みを知り、自らの足元を固めるための、至高のる謙虚さなのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "ditch_depth",
+		"word": "ditch",
+		"meaning": "溝（。に（。落とす（。、疎遠（。に（。な（。る（。、ディッチ",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"dīc (ditch, wall)"
+			],
+			"original_statement": "From Old English dīc (ditch, wall)."
+		},
+		"concept": "A narrow channel dug in the ground, typically used for drainage beside a road or the edge of a field (意味（。の（。境界線を、峻（。烈（。な（。る（。力で「刻（。み（。抜（。いた（。ディッチ）』。（。そこ（。には（。、余（。計（。な（。る（。濁（。りを（。、棄（。て（。去（。る（。ための（。、静（。か（。なる（。る（。秩序（。が、横（。たわ（。って（。いる（。のですよ。)",
+		"thinking": "意味（。の（。境界線を、峻（。烈（。な（。る（。力で「刻（。み（。抜（。いた（。ディッチ）』。（。そこ（。には（。、余（。計（。な（。る（。濁（。りを（。、棄（。て（。去（。る（。ための（。、静（。か（。なる（。る（。秩序（。が、横（。たわ（。って（。いる（。のですよ。",
+		"aftertaste": "空洞は、何もない場所ではない。それは、新しい宇宙が産声を上げるために用意された、聖なるゆりかごなのですよ。",
+		"example": "The explorer carefully navigated the deep ditch that had been carved out by the ancient river over millions of years.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "dīc",
+					"meaning": "ditch, wall"
+				}
+			],
+			"points": [
+				"低きを見ることは、卑屈になることではありません。大地の重みを知り、自らの足元を固めるための、至高のる謙虚さなのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
 	}
 ];
