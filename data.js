@@ -196039,5 +196039,901 @@ const WORDS = [
 			]
 		},
 		"part_of_speech": "verb"
+	},
+	{
+		"id": "saute_cook",
+		"word": "saute",
+		"meaning": "ソテーする、さっと炒める",
+		"era": "19th Century",
+		"etymology": {
+			"components": [
+				"sauter (to jump)"
+			],
+			"original_statement": "From 19th Century sauter (to jump)."
+		},
+		"concept": "Fry quickly in a little hot fat (熱いフライパンの上で食材を「躍らせる（ジャンプさせる）」ように、短時間で一気に火を通し、旨みを閉じ込める躍動感あふれる調理。)",
+		"thinking": "熱いフライパンの上で食材を「躍らせる（ジャンプさせる）」ように、短時間で一気に火を通し、旨みを閉じ込める躍動感あふれる調理。",
+		"aftertaste": "悩み事も「ソテー（さっと炒める）」するように素早く片付けて、アツアツのうちに次の行動へ移りましょう。",
+		"example": "The chef began to saute the ingredients with careful attention.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sauter",
+					"meaning": "to jump"
+				}
+			],
+			"points": [
+				"料理のアクションや味覚の表現は、文化の成熟度と人生の味わい深さを映し出します。"
+			]
+		},
+		"part_of_speech": "verb"
+	},
+	{
+		"id": "sear_cook",
+		"word": "sear",
+		"meaning": "表面を焼き固める",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"searian (to wither, dry up)"
+			],
+			"original_statement": "From Old English searian (to wither, dry up)."
+		},
+		"concept": "Burn or scorch the surface of (something) with a sudden, intense heat (強火で一気に表面を焦がし、内部の瑞々しい水分を逃がさないように「封印する」という、強引で情熱的な熱の洗礼。)",
+		"thinking": "強火で一気に表面を焦がし、内部の瑞々しい水分を逃がさないように「封印する」という、強引で情熱的な熱の洗礼。",
+		"aftertaste": "第一印象で相手の心を「セア（焼き固める）」するような、強烈で魅力的な言葉を一つ用意しておきましょう。",
+		"example": "The chef began to sear the ingredients with careful attention.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "searian",
+					"meaning": "to wither, dry up"
+				}
+			],
+			"points": [
+				"料理のアクションや味覚の表現は、文化の成熟度と人生の味わい深さを映し出します。"
+			]
+		},
+		"part_of_speech": "verb"
+	},
+	{
+		"id": "poach_cook",
+		"word": "poach",
+		"meaning": "（卵などを）落とし煮にする、密猟する",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"pochier (to enclose in a pocket)"
+			],
+			"original_statement": "From 14th Century pochier (to enclose in a pocket)."
+		},
+		"concept": "Cook (an egg) without its shell in or over gently boiling water (沸騰させない優しいお湯の中で、中身を壊さぬよう「袋（ポケット）状に」優しく包み込んで火を通す、繊細を極めた愛の調理。)",
+		"thinking": "沸騰させない優しいお湯の中で、中身を壊さぬよう「袋（ポケット）状に」優しく包み込んで火を通す、繊細を極めた愛の調理。",
+		"aftertaste": "傷つきやすい誰かの心は、熱すぎる議論よりも「ポーチ（優しく包み込む）」した言葉で温めてあげて。",
+		"example": "The chef began to poach the ingredients with careful attention.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "pochier",
+					"meaning": "to enclose in a pocket"
+				}
+			],
+			"points": [
+				"料理のアクションや味覚の表現は、文化の成熟度と人生の味わい深さを映し出します。"
+			]
+		},
+		"part_of_speech": "verb"
+	},
+	{
+		"id": "blanch_cook",
+		"word": "blanch",
+		"meaning": "（野菜などを）さっとゆでる、青ざめる",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"blanc (white)"
+			],
+			"original_statement": "From 14th Century blanc (white)."
+		},
+		"concept": "Make white or pale by extracting color (熱湯に潜らせた直後に氷水で締めることで、色を明るく「白く（鮮やかに）」保ち、雑味を抜いて本質を引き出す儀式。)",
+		"thinking": "熱湯に潜らせた直後に氷水で締めることで、色を明るく「白く（鮮やかに）」保ち、雑味を抜いて本質を引き出す儀式。",
+		"aftertaste": "厳しい現実という熱湯をくぐり抜けた後にこそ、あなたの個性は「ブランチ（鮮やかな発色）」として輝き出すのです。",
+		"example": "The chef began to blanch the ingredients with careful attention.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "blanc",
+					"meaning": "white"
+				}
+			],
+			"points": [
+				"料理のアクションや味覚の表現は、文化の成熟度と人生の味わい深さを映し出します。"
+			]
+		},
+		"part_of_speech": "verb"
+	},
+	{
+		"id": "braise_cook",
+		"word": "braise",
+		"meaning": "蒸し煮にする",
+		"era": "18th Century",
+		"etymology": {
+			"components": [
+				"braise (live coals)"
+			],
+			"original_statement": "From 18th Century braise (live coals)."
+		},
+		"concept": "Fry (food) lightly and then stew it slowly in a closed container (焼いてから蓋をして、炭火の熱を閉じ込めてゆっくりと「蒸らし煮る」ことで、どんなに硬い素材もとろけるように和らげる魔法。)",
+		"thinking": "焼いてから蓋をして、炭火の熱を閉じ込めてゆっくりと「蒸らし煮る」ことで、どんなに硬い素材もとろけるように和らげる魔法。",
+		"aftertaste": "頑固なあの人の心も、時間をかけた「ブレイズ（じっくり蒸し煮）」のような共感で、きっと柔らかく解けるはず。",
+		"example": "The chef began to braise the ingredients with careful attention.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "braise",
+					"meaning": "live coals"
+				}
+			],
+			"points": [
+				"料理のアクションや味覚の表現は、文化の成熟度と人生の味わい深さを映し出します。"
+			]
+		},
+		"part_of_speech": "verb"
+	},
+	{
+		"id": "roast_cook",
+		"word": "roast",
+		"meaning": "ローストする、焼く",
+		"era": "13th Century",
+		"etymology": {
+			"components": [
+				"rostir (to roast)"
+			],
+			"original_statement": "From 13th Century rostir (to roast)."
+		},
+		"concept": "Cook (food, especially meat) by prolonged exposure to heat in an oven or over a fire (火の力を直接、あるいは熱風の抱擁として長時間浴びせ続け、素材の香ばしさを極限まで引き出し「香りを高める」王道の調理。)",
+		"thinking": "火の力を直接、あるいは熱風の抱擁として長時間浴びせ続け、素材の香ばしさを極限まで引き出し「香りを高める」王道の調理。",
+		"aftertaste": "自分を厳しく「ロースト（鍛錬）」した日々があるからこそ、今のあなたには深い味わいと自信が宿っているのです。",
+		"example": "The chef began to roast the ingredients with careful attention.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "rostir",
+					"meaning": "to roast"
+				}
+			],
+			"points": [
+				"料理のアクションや味覚の表現は、文化の成熟度と人生の味わい深さを映し出します。"
+			]
+		},
+		"part_of_speech": "verb"
+	},
+	{
+		"id": "glaze_cook",
+		"word": "glaze",
+		"meaning": "（料理に）つやを出す、ガラスをはめる",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"glas (glass)"
+			],
+			"original_statement": "From 14th Century glas (glass)."
+		},
+		"concept": "Overlay or cover (food, fabric, etc.) with a smooth, shiny coating (料理の表面に甘い蜜の「ガラスのような（光沢のある）」膜を張り、視覚的な美しさと多層的な味を一度に与える仕上げの魔法。)",
+		"thinking": "料理の表面に甘い蜜の「ガラスのような（光沢のある）」膜を張り、視覚的な美しさと多層的な味を一度に与える仕上げの魔法。",
+		"aftertaste": "事実に少しの「グレーズ（つや出し）」としてのユーモアを加えれば、退屈な日常も一気に輝き始めます。",
+		"example": "The chef began to glaze the ingredients with careful attention.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "glas",
+					"meaning": "glass"
+				}
+			],
+			"points": [
+				"料理のアクションや味覚の表現は、文化の成熟度と人生の味わい深さを映し出します。"
+			]
+		},
+		"part_of_speech": "verb"
+	},
+	{
+		"id": "garnish_cook",
+		"word": "garnish",
+		"meaning": "添え物をする、飾る",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"garnir (to provide, equip, adorn)"
+			],
+			"original_statement": "From 14th Century garnir (to provide, equip, adorn)."
+		},
+		"concept": "Decorate or embellish (something, especially food) (料理の味を決定づけるものではないが、それを「整え守る」という心遣いによって、完成度を一つ上の次元へと高める最後の彩り。)",
+		"thinking": "料理の味を決定づけるものではないが、それを「整え守る」という心遣いによって、完成度を一つ上の次元へと高める最後の彩り。",
+		"aftertaste": "清潔な靴を一足「ガーニッシュ（彩りとしての仕上げ）」として選ぶだけで、あなたの自信は劇的に向上するでしょう。",
+		"example": "The chef began to garnish the ingredients with careful attention.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "garnir",
+					"meaning": "to provide, equip, adorn"
+				}
+			],
+			"points": [
+				"料理のアクションや味覚の表現は、文化の成熟度と人生の味わい深さを映し出します。"
+			]
+		},
+		"part_of_speech": "verb"
+	},
+	{
+		"id": "seasoning_cook",
+		"word": "seasoning",
+		"meaning": "調味料、味付け",
+		"era": "15th Century",
+		"etymology": {
+			"components": [
+				"season (to ripen, season)"
+			],
+			"original_statement": "From 15th Century season (to ripen, season)."
+		},
+		"concept": "Salt, herbs, or spices added to food to enhance its flavor (時が経つ（シーズン）ことで円熟味を増すように、素材の隠れた魅力を「適切に引き出し補う」ためのバランスの調整。)",
+		"thinking": "時が経つ（シーズン）ことで円熟味を増すように、素材の隠れた魅力を「適切に引き出し補う」ためのバランスの調整。",
+		"aftertaste": "苦い経験も、後から振り返れば人生を深く味わうための最良の「シーズニング（調味料）」だったと気づくはず。",
+		"example": "The chef began to seasoning the ingredients with careful attention.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "season",
+					"meaning": "to ripen, season"
+				}
+			],
+			"points": [
+				"料理のアクションや味覚の表現は、文化の成熟度と人生の味わい深さを映し出します。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "savory_cook",
+		"word": "savory",
+		"meaning": "風味の良い、塩気のあるおいしい",
+		"era": "13th Century",
+		"etymology": {
+			"components": [
+				"savour (flavor, taste)"
+			],
+			"original_statement": "From 13th Century savour (flavor, taste)."
+		},
+		"concept": "Belonging to the category that is salty or spicy rather than sweet (ただ甘いだけではない、スパイスや塩、そして素材の旨みが複雑に絡み合った「深い満足感」を与える、大人のための豊かな風味。)",
+		"thinking": "ただ甘いだけではない、スパイスや塩、そして素材の旨みが複雑に絡み合った「深い満足感」を与える、大人のための豊かな風味。",
+		"aftertaste": "甘いお世辞よりも、時には「セイヴォリー（味わい深く、ピリッとした）」な直言の方が、私たちを成長させてくれます。",
+		"example": "The chef began to savory the ingredients with careful attention.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "savour",
+					"meaning": "flavor, taste"
+				}
+			],
+			"points": [
+				"料理のアクションや味覚の表現は、文化の成熟度と人生の味わい深さを映し出します。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "pungent_cook",
+		"word": "pungent",
+		"meaning": "（鼻を突くように）刺激的な、辛辣な",
+		"era": "16th Century",
+		"etymology": {
+			"components": [
+				"pungere (to prick)"
+			],
+			"original_statement": "From 16th Century pungere (to prick)."
+		},
+		"concept": "Having a sharply strong taste or smell (針で「突き刺す（プッシュする）」ような強烈な香りが五感を一瞬で覚醒させ、記憶の底に鋭い刻印を刻み込むような挑戦的な刺激。)",
+		"thinking": "針で「突き刺す（プッシュする）」ような強烈な香りが五感を一瞬で覚醒させ、記憶の底に鋭い刻印を刻み込むような挑戦的な刺激。",
+		"aftertaste": "彼の「パンジェント（鼻を突くほど鋭い）」な批評は、眠っていた私の知性を力強く突き動かしました。",
+		"example": "The chef began to pungent the ingredients with careful attention.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "pungere",
+					"meaning": "to prick"
+				}
+			],
+			"points": [
+				"料理のアクションや味覚の表現は、文化の成熟度と人生の味わい深さを映し出します。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "tart_cook",
+		"word": "tart",
+		"meaning": "酸っぱい、鋭い",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"teart (sharp, severe)"
+			],
+			"original_statement": "From 14th Century teart (sharp, severe)."
+		},
+		"concept": "Sharp or acid in taste (舌先を「キュッと（鋭く）」締め付けるような爽やかな酸味が、鈍った味覚をリフレッシュさせ、次の展開へと誘う刺激的な予感。)",
+		"thinking": "舌先を「キュッと（鋭く）」締め付けるような爽やかな酸味が、鈍った味覚をリフレッシュさせ、次の展開へと誘う刺激的な予感。",
+		"aftertaste": "「タート（ピリッと酸っぱい）」な一言が、ダラダラと続いた長い沈黙を鮮やかに切り裂きました。",
+		"example": "The chef began to tart the ingredients with careful attention.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "teart",
+					"meaning": "sharp, severe"
+				}
+			],
+			"points": [
+				"料理のアクションや味覚の表現は、文化の成熟度と人生の味わい深さを映し出します。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "succulent_cook",
+		"word": "succulent",
+		"meaning": "汁気の多い、瑞々しい",
+		"era": "17th Century",
+		"etymology": {
+			"components": [
+				"succus (juice, sap)"
+			],
+			"original_statement": "From 17th Century succus (juice, sap)."
+		},
+		"concept": "Tender, juicy, and tasty (噛む（かみしめる）たびに、閉じ込められていた「溢れんばかりの生命の雫（しずく）」がほとばしる、五感を満たす究極の豊穣。)",
+		"thinking": "噛む（かみしめる）たびに、閉じ込められていた「溢れんばかりの生命の雫（しずく）」がほとばしる、五感を満たす究極の豊穣。",
+		"aftertaste": "「サキュレント（瑞々しい）」なライチを口に含めば、灼熱の太陽さえも心地よい祝福に変容します。",
+		"example": "The chef began to succulent the ingredients with careful attention.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "succus",
+					"meaning": "juice, sap"
+				}
+			],
+			"points": [
+				"料理のアクションや味覚の表現は、文化の成熟度と人生の味わい深さを映し出します。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "creamy_cook",
+		"word": "creamy",
+		"meaning": "クリーミーな、滑らかな",
+		"era": "16th Century",
+		"etymology": {
+			"components": [
+				"cream (chrism, oily substance)"
+			],
+			"original_statement": "From 16th Century cream (chrism, oily substance)."
+		},
+		"concept": "Resembling or containing cream (全ての対立を一箇所に溶かし込み、全体を「優しく（濃厚に）」均質に包み込む、まろやかで安心感に満ちた抱擁の食感。)",
+		"thinking": "全ての対立を一箇所に溶かし込み、全体を「優しく（濃厚に）」均質に包み込む、まろやかで安心感に満ちた抱擁の食感。",
+		"aftertaste": "「クリーミー（真っ白で濃厚な）」なスープは、冷え切った心の一番奥まで優しく温めてくれます。",
+		"example": "The chef began to creamy the ingredients with careful attention.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "cream",
+					"meaning": "chrism, oily substance"
+				}
+			],
+			"points": [
+				"料理のアクションや味覚の表現は、文化の成熟度と人生の味わい深さを映し出します。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "crunchy_cook",
+		"word": "crunchy",
+		"meaning": "バリバリとした、歯ごたえのある",
+		"era": "19th Century",
+		"etymology": {
+			"components": [
+				"crunch (to crush with the teeth)"
+			],
+			"original_statement": "From 19th Century crunch (to crush with the teeth)."
+		},
+		"concept": "Making a sharp noise when bitten or crushed (噛み砕くプロセスそのものが「力強いリズム」となり、生命の活力を直接脳へと伝える、健康的で野性的な喜びの響き。)",
+		"thinking": "噛み砕くプロセスそのものが「力強いリズム」となり、生命の活力を直接脳へと伝える、健康的で野性的な喜びの響き。",
+		"aftertaste": "「クランチー（カリカリと小気味よい）」なグラノーラとともに始める朝は、冒険の始まりの合図です。",
+		"example": "The chef began to crunchy the ingredients with careful attention.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "crunch",
+					"meaning": "to crush with the teeth"
+				}
+			],
+			"points": [
+				"料理のアクションや味覚の表現は、文化の成熟度と人生の味わい深さを映し出します。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "mellow_cook",
+		"word": "mellow",
+		"meaning": "芳醇な、円熟した",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"mel (honey)"
+			],
+			"original_statement": "From 14th Century mel (honey)."
+		},
+		"concept": "Pleasantly smooth or soft; free from harshness (蜂蜜（ハニー）のように「甘く（穏やかに）」、時間の経過によってトゲが完璧に削ぎ落とされた、心地よい落ち着きと深み。)",
+		"thinking": "蜂蜜（ハニー）のように「甘く（穏やかに）」、時間の経過によってトゲが完璧に削ぎ落とされた、心地よい落ち着きと深み。",
+		"aftertaste": "「メロウ（芳醇で角がない）」な性格の持ち主は、そこにいるだけで周囲の空気を穏やかに変えてしまいます。",
+		"example": "The chef began to mellow the ingredients with careful attention.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "mel",
+					"meaning": "honey"
+				}
+			],
+			"points": [
+				"料理のアクションや味覚の表現は、文化の成熟度と人生の味わい深さを映し出します。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "tangy_cook",
+		"word": "tangy",
+		"meaning": "ピリッとする、刺激的な",
+		"era": "19th Century",
+		"etymology": {
+			"components": [
+				"tang (sharp taste, force)"
+			],
+			"original_statement": "From 19th Century tang (sharp taste, force)."
+		},
+		"concept": "Having a strong, piquant flavor or smell (一瞬だけ舌を「鋭く（ピリリと）」刺激し、直後に爽やかな余韻を広げて五感を呼び覚ます、躍動感のある酸味と香りの合わせ技。)",
+		"thinking": "一瞬だけ舌を「鋭く（ピリリと）」刺激し、直後に爽やかな余韻を広げて五感を呼び覚ます、躍動感のある酸味と香りの合わせ技。",
+		"aftertaste": "「タンギー（ツンと爽やか）」なレモンドレッシングがあれば、どんなに元気のない野菜も最高のご馳走に。",
+		"example": "The chef began to tangy the ingredients with careful attention.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "tang",
+					"meaning": "sharp taste, force"
+				}
+			],
+			"points": [
+				"料理のアクションや味覚の表現は、文化の成熟度と人生の味わい深さを映し出します。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "zippy_cook",
+		"word": "zippy",
+		"meaning": "ピリッとした、元気の良い",
+		"era": "19th Century",
+		"etymology": {
+			"components": [
+				"zip (sharp sound or movement)"
+			],
+			"original_statement": "From 19th Century zip (sharp sound or movement)."
+		},
+		"concept": "Bright, fresh, or lively (ジッパーを引くような「素早さと（弾けるような）」エネルギーに満ち、鈍った思考を瞬時に活性化させる、軽快で刺激的な風味。)",
+		"thinking": "ジッパーを引くような「素早さと（弾けるような）」エネルギーに満ち、鈍った思考を瞬時に活性化させる、軽快で刺激的な風味。",
+		"aftertaste": "「ジッピー（エネルギッシュでピリッとした）」な新しいアイデアで、退屈なミーティングを吹き飛ばしましょう！",
+		"example": "The chef began to zippy the ingredients with careful attention.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "zip",
+					"meaning": "sharp sound or movement"
+				}
+			],
+			"points": [
+				"料理のアクションや味覚の表現は、文化の成熟度と人生の味わい深さを映し出します。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "aromatic_cook",
+		"word": "aromatic",
+		"meaning": "芳香のある、香りの良い",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"aroma (spice, fragrant herb)"
+			],
+			"original_statement": "From 14th Century aroma (spice, fragrant herb)."
+		},
+		"concept": "Having a pleasant and distinctive smell (目に見える美しさ以上に、空気中に「魔法（香りの粒子）」を振り撒いて、人々の本能と記憶を優雅に揺さぶる不可視の魅力。)",
+		"thinking": "目に見える美しさ以上に、空気中に「魔法（香りの粒子）」を振り撒いて、人々の本能と記憶を優雅に揺さぶる不可視の魅力。",
+		"aftertaste": "「アロマティック（香りが豊かな）」なハーブティーを飲みながら、自分だけの空想の庭を歩いてみませんか。",
+		"example": "The chef began to aromatic the ingredients with careful attention.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "aroma",
+					"meaning": "spice, fragrant herb"
+				}
+			],
+			"points": [
+				"料理のアクションや味覚の表現は、文化の成熟度と人生の味わい深さを映し出します。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "piquant_cook",
+		"word": "piquant",
+		"meaning": "ピリッと辛い、食欲をそそる",
+		"era": "16th Century",
+		"etymology": {
+			"components": [
+				"piquer (to prick, sting)"
+			],
+			"original_statement": "From 16th Century piquer (to prick, sting)."
+		},
+		"concept": "Having a pleasantly sharp taste or appetizing flavor (「チクリと（心地よく）」五感を刺激し、もっともっとその先を知りたいと思わせる、知的好奇心と食欲を同時に刺激する魅力の花火。)",
+		"thinking": "「チクリと（心地よく）」五感を刺激し、もっともっとその先を知りたいと思わせる、知的好奇心と食欲を同時に刺激する魅力の花火。",
+		"aftertaste": "「ピカント（食欲をそそるほど鋭い）」なウィットに富んだジョークが、二人の間に新しい火を灯しました。",
+		"example": "The chef began to piquant the ingredients with careful attention.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "piquer",
+					"meaning": "to prick, sting"
+				}
+			],
+			"points": [
+				"料理のアクションや味覚の表現は、文化の成熟度と人生の味わい深さを映し出します。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "earthy_cook",
+		"word": "earthy",
+		"meaning": "土の香りがする、素朴な",
+		"era": "16th Century",
+		"etymology": {
+			"components": [
+				"earth (ground, soil)"
+			],
+			"original_statement": "From 16th Century earth (ground, soil)."
+		},
+		"concept": "Resembling or suggestive of earth or soil (装飾を一切削ぎ落とし、大地の「本源的な力と（力強い）」湿り気を直接感じさせる、誠実で嘘のない命の重み。)",
+		"thinking": "装飾を一切削ぎ落とし、大地の「本源的な力と（力強い）」湿り気を直接感じさせる、誠実で嘘のない命の重み。",
+		"aftertaste": "「アーシー（大地を感じる）」な香りのマッシュルームを食べると、自分も地球の一部であることを思い出します。",
+		"example": "The chef began to earthy the ingredients with careful attention.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "earth",
+					"meaning": "ground, soil"
+				}
+			],
+			"points": [
+				"料理のアクションや味覚の表現は、文化の成熟度と人生の味わい深さを映し出します。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "nutty_cook",
+		"word": "nutty",
+		"meaning": "ナッツのような、香ばしい",
+		"era": "19th Century",
+		"etymology": {
+			"components": [
+				"nut (fruit of certain trees)"
+			],
+			"original_statement": "From 19th Century nut (fruit of certain trees)."
+		},
+		"concept": "Having the flavor of nuts (時間をかけてじっくり煎られたナッツのように、独特の「香ばしさと（深いコク）」を少しずつ解放する、知れば知るほど癖になる味わい。)",
+		"thinking": "時間をかけてじっくり煎られたナッツのように、独特の「香ばしさと（深いコク）」を少しずつ解放する、知れば知るほど癖になる味わい。",
+		"aftertaste": "「ナッティー（香ばしくて深い）」なコクのあるチーズを味わいながら、今日一日の自分を褒めてあげてください。",
+		"example": "The chef began to nutty the ingredients with careful attention.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "nut",
+					"meaning": "fruit of certain trees"
+				}
+			],
+			"points": [
+				"料理のアクションや味覚の表現は、文化の成熟度と人生の味わい深さを映し出します。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "smoky_cook",
+		"word": "smoky",
+		"meaning": "煙の立ち上る、スモーキーな",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"smoke (smoky vapor)"
+			],
+			"original_statement": "From 14th Century smoke (smoky vapor)."
+		},
+		"concept": "Like smoke in flavor, smell, or appearance (火の遠い記憶を「煙というベール」に包んで保存し、野生の記憶を呼び覚ましながらも文明の洗練を感じさせる、ミステリアスな深み。)",
+		"thinking": "火の遠い記憶を「煙というベール」に包んで保存し、野生の記憶を呼び覚ましながらも文明の洗練を感じさせる、ミステリアスな深み。",
+		"aftertaste": "「スモーキー（移り香のような）」なウイスキーの香りは、忘れていた遠い日の約束をふっと思い出させます。",
+		"example": "The chef began to smoky the ingredients with careful attention.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "smoke",
+					"meaning": "smoky vapor"
+				}
+			],
+			"points": [
+				"料理のアクションや味覚の表現は、文化の成熟度と人生の味わい深さを映し出します。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "bitter_cook",
+		"word": "bitter",
+		"meaning": "苦い、辛辣な",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"biter (biting, sharp, painful)"
+			],
+			"original_statement": "From Old English biter (biting, sharp, painful)."
+		},
+		"concept": "Having a sharp, pungent taste or smell; not sweet (「噛む（刺入する）」ような痛みから始まり、やがてそれは知性を研ぎ澄ませる高貴な大人だけの哲学的な余韻へと変わる。)",
+		"thinking": "「噛む（刺入する）」ような痛みから始まり、やがてそれは知性を研ぎ澄ませる高貴な大人だけの哲学的な余韻へと変わる。",
+		"aftertaste": "「ビター（ほろ苦い）」な結末だったからこそ、この物語は私たちの心に永遠に消えない傷跡と深い価値を残しました。",
+		"example": "The chef began to bitter the ingredients with careful attention.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "biter",
+					"meaning": "biting, sharp, painful"
+				}
+			],
+			"points": [
+				"料理のアクションや味覚の表現は、文化の成熟度と人生の味わい深さを映し出します。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "astringent_cook",
+		"word": "astringent",
+		"meaning": "渋い、厳格な",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"astringere (to bind fast)"
+			],
+			"original_statement": "From 14th Century astringere (to bind fast)."
+		},
+		"concept": "Causing the contraction of skin cells and other body tissues (表面を「キュッと（固く引き締める）」ような厳しさによって、緩んだ心を再び正し、凛とした緊張感を与えるストイックな刺激。)",
+		"thinking": "表面を「キュッと（固く引き締める）」ような厳しさによって、緩んだ心を再び正し、凛とした緊張感を与えるストイックな刺激。",
+		"aftertaste": "「アストリンゼント（肌や心を引き締める）」な冷たい水で顔を洗えば、迷いも一瞬でどこかへ吹き飛びます。",
+		"example": "The chef began to astringent the ingredients with careful attention.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "astringere",
+					"meaning": "to bind fast"
+				}
+			],
+			"points": [
+				"料理のアクションや味覚の表現は、文化の成熟度と人生の味わい深さを映し出します。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "cloying_cook",
+		"word": "cloying",
+		"meaning": "鼻につく、しつこい甘さの",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"cloy (to stop up, fasten)"
+			],
+			"original_statement": "From 14th Century cloy (to stop up, fasten)."
+		},
+		"concept": "Excessively sweet, rich, or sentimental, especially to a sickening degree (最初は甘く心地よいが、度を越した過剰さによって出口を「塞ぎ（詰まらせ）」、呼吸を困難にするほど不快で重苦しい執着。)",
+		"thinking": "最初は甘く心地よいが、度を越した過剰さによって出口を「塞ぎ（詰まらせ）」、呼吸を困難にするほど不快で重苦しい執着。",
+		"aftertaste": "「クロイング（鼻につくほど甘すぎる）」な甘言に惑わされず、自分自身のクリアな視点を常に保っておきましょう。",
+		"example": "The chef began to cloying the ingredients with careful attention.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "cloy",
+					"meaning": "to stop up, fasten"
+				}
+			],
+			"points": [
+				"料理のアクションや味覚の表現は、文化の成熟度と人生の味わい深さを映し出します。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "delectable_cook",
+		"word": "delectable",
+		"meaning": "おいしい、喜ばしい",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"delectare (to delight)"
+			],
+			"original_statement": "From 14th Century delectare (to delight)."
+		},
+		"concept": "Delicious (ただ「喜び（ディライト）」そのものを形にしたような、全身を幸福感で満たしてくれる、非の打ち所のない調和と悦びの結晶。)",
+		"thinking": "ただ「喜び（ディライト）」そのものを形にしたような、全身を幸福感で満たしてくれる、非の打ち所のない調和と悦びの結晶。",
+		"aftertaste": "「ディレクタブル（この上なく美味しい）」なデザートを一口食べれば、世界はまだ愛に溢れていると確信できます。",
+		"example": "The chef began to delectable the ingredients with careful attention.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "delectare",
+					"meaning": "to delight"
+				}
+			],
+			"points": [
+				"料理のアクションや味覚の表現は、文化の成熟度と人生の味わい深さを映し出します。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "scrumptious_cook",
+		"word": "scrumptious",
+		"meaning": "（口語）とてもおいしい、すてきな",
+		"era": "19th Century",
+		"etymology": {
+			"components": [
+				"scrumpt (skimpy, small) - ironic usage"
+			],
+			"original_statement": "From 19th Century scrumpt (skimpy, small) - ironic usage."
+		},
+		"concept": "Extremely tasty; delicious (思わず「一口、また一口と（夢中になって）」手が出てしまう、理屈抜きの圧倒的な美味しさと、それを共有する人々の笑顔。)",
+		"thinking": "思わず「一口、また一口と（夢中になって）」手が出てしまう、理屈抜きの圧倒的な美味しさと、それを共有する人々の笑顔。",
+		"aftertaste": "「スクランプシャス（ほっぺが落ちそうなほど美味しい）」な手作りパイを囲んで、家族の会話に花が咲きました。",
+		"example": "The chef began to scrumptious the ingredients with careful attention.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "scrumpt",
+					"meaning": "skimpy, small) - ironic usage"
+				}
+			],
+			"points": [
+				"料理のアクションや味覚の表現は、文化の成熟度と人生の味わい深さを映し出します。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "refreshing_cook",
+		"word": "refreshing",
+		"meaning": "爽やかな、元気づける",
+		"era": "16th Century",
+		"etymology": {
+			"components": [
+				"re- (again) + fresh (new, vigorous)"
+			],
+			"original_statement": "From 16th Century re- (again) + fresh (new, vigorous)."
+		},
+		"concept": "Serving to refresh or reinvigorate someone (使い古された自分を一度脱ぎ捨て、「再び（フレッシュに）」新しい命を吹き込まれたような、清涼感あふれる再起動の感覚。)",
+		"thinking": "使い古された自分を一度脱ぎ捨て、「再び（フレッシュに）」新しい命を吹き込まれたような、清涼感あふれる再起動の感覚。",
+		"aftertaste": "「リフレッシング（生き返るような）」なミントの香りが、午後からの重い気分を鮮やかに一掃してくれます。",
+		"example": "The chef began to refreshing the ingredients with careful attention.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "re-",
+					"meaning": "again) + fresh (new, vigorous"
+				}
+			],
+			"points": [
+				"料理のアクションや味覚の表現は、文化の成熟度と人生の味わい深さを映し出します。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "wholesome_cook",
+		"word": "wholesome",
+		"meaning": "健康に良い、健全な",
+		"era": "12th Century",
+		"etymology": {
+			"components": [
+				"hal (whole, healthy)"
+			],
+			"original_statement": "From 12th Century hal (whole, healthy)."
+		},
+		"concept": "Conducive to or suggestive of good health and physical well-being (心、体、そして魂の「全体（ホール）」を健やかに保ち、一切の不純物を含まない太陽の光のような明るさと誠実な滋養。)",
+		"thinking": "心、体、そして魂の「全体（ホール）」を健やかに保ち、一切の不純物を含まない太陽の光のような明るさと誠実な滋養。",
+		"aftertaste": "「ホールサム（心身に滋養を与える）」な食事と誠実な友情こそが、自分を健やかに保つための最強の特効薬です。",
+		"example": "The chef began to wholesome the ingredients with careful attention.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "hal",
+					"meaning": "whole, healthy"
+				}
+			],
+			"points": [
+				"料理のアクションや味覚の表現は、文化の成熟度と人生の味わい深さを映し出します。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "artisanal_cook",
+		"word": "artisanal",
+		"meaning": "職人の、伝統的な手法の",
+		"era": "19th Century",
+		"etymology": {
+			"components": [
+				"artigiano (artisan)"
+			],
+			"original_statement": "From 19th Century artigiano (artisan)."
+		},
+		"concept": "Relating to or characteristic of an artisan (大量生産の匿名性ではなく、一人の「職人の（手触りと魂が）」すべての細部に宿った、世界に一つだけの誠実な物語と誇り。)",
+		"thinking": "大量生産の匿名性ではなく、一人の「職人の（手触りと魂が）」すべての細部に宿った、世界に一つだけの誠実な物語と誇り。",
+		"aftertaste": "「アルティザナル（職人の手仕事による）」なパンを一噛みするたび、作り手の誠実な想いが伝わってきます。",
+		"example": "The chef began to artisanal the ingredients with careful attention.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "artigiano",
+					"meaning": "artisan"
+				}
+			],
+			"points": [
+				"料理のアクションや味覚の表現は、文化の成熟度と人生の味わい深さを映し出します。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "palate_cook",
+		"word": "palate",
+		"meaning": "上顎、味覚、審美眼",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"palatum (palate)"
+			],
+			"original_statement": "From 14th Century palatum (palate)."
+		},
+		"concept": "A person's appreciation of taste and flavor, especially when sophisticated and discriminating (自分の中に持っている「最高の（美学としての）」フィルター。何を受け入れ、何を拒むかを決定する魂の門番。)",
+		"thinking": "自分の中に持っている「最高の（美学としての）」フィルター。何を受け入れ、何を拒むかを決定する魂の門番。",
+		"aftertaste": "洗練された「パレート（味覚・審美眼）」を磨き続けることで、あなたの人生はより色鮮やかな傑作へと変わります。",
+		"example": "The chef began to palate the ingredients with careful attention.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "palatum",
+					"meaning": "palate"
+				}
+			],
+			"points": [
+				"料理のアクションや味覚の表現は、文化の成熟度と人生の味わい深さを映し出します。"
+			]
+		},
+		"part_of_speech": "noun"
 	}
 ];
