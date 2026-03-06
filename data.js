@@ -193183,5 +193183,873 @@ const WORDS = [
 			]
 		},
 		"part_of_speech": "noun"
+	},
+	{
+		"id": "drizzle_weather",
+		"word": "drizzle",
+		"meaning": "霧雨、しとしと降る雨",
+		"era": "16th Century",
+		"etymology": {
+			"components": [
+				"drysian (to fall in drops)"
+			],
+			"original_statement": "From 16th Century drysian (to fall in drops)."
+		},
+		"concept": "Light rain (存在を主張しないほど微細な水滴が、世界を音もなく優しく包み込む穏寂のベール。)",
+		"thinking": "存在を主張しないほど微細な水滴が、世界を音もなく優しく包み込む穏寂のベール。",
+		"aftertaste": "「ドリズル（細かい雨）」の中を傘なしで歩くのも、時々は心が洗われる素敵な体験です。",
+		"example": "The weather suddenly turned drizzle.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "drysian",
+					"meaning": "to fall in drops"
+				}
+			],
+			"points": [
+				"気候の変化は、そのまま私たちの魂の激しさと静けさに対応します。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "shower_weather",
+		"word": "shower",
+		"meaning": "にわか雨",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"scur (short fall of rain)"
+			],
+			"original_statement": "From Old English scur (short fall of rain)."
+		},
+		"concept": "A brief and usually light fall of rain (突如として訪れるが長引くことはなく、空気を一気に洗い流して去っていく短気な訪問者。)",
+		"thinking": "突如として訪れるが長引くことはなく、空気を一気に洗い流して去っていく短気な訪問者。",
+		"aftertaste": "突然の「シャワー（にわか雨）」に降られても、その後には必ず美しい虹がかかるはず。",
+		"example": "The weather suddenly turned shower.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "scur",
+					"meaning": "short fall of rain"
+				}
+			],
+			"points": [
+				"気候の変化は、そのまま私たちの魂の激しさと静けさに対応します。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "downpour_weather",
+		"word": "downpour",
+		"meaning": "土砂降り",
+		"era": "19th Century",
+		"etymology": {
+			"components": [
+				"down + pour"
+			],
+			"original_statement": "From 19th Century down + pour."
+		},
+		"concept": "A heavy fall of rain (天がバケツをひっくり返したように、容赦なく地上の全てを洗い流そうとする圧倒的な滝。)",
+		"thinking": "天がバケツをひっくり返したように、容赦なく地上の全てを洗い流そうとする圧倒的な滝。",
+		"aftertaste": "激しい「ダウンポア（土砂降り）」の音が、皮肉にも一番心地よい眠りを誘ってくれます。",
+		"example": "The weather suddenly turned downpour.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "down",
+					"meaning": "+ pour"
+				}
+			],
+			"points": [
+				"気候の変化は、そのまま私たちの魂の激しさと静けさに対応します。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "deluge_weather",
+		"word": "deluge",
+		"meaning": "大洪水、豪雨",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"diluvium (flood)"
+			],
+			"original_statement": "From 14th Century diluvium (flood)."
+		},
+		"concept": "A severe flood (世界の全てを一瞬にして水の底へ沈め、既存の秩序を強制的に初期化してしまう神の怒り。)",
+		"thinking": "世界の全てを一瞬にして水の底へ沈め、既存の秩序を強制的に初期化してしまう神の怒り。",
+		"aftertaste": "仕事の「デリュージ（氾濫）」に溺れる前に、誰かに助けを求めるボートを出して。",
+		"example": "The weather suddenly turned deluge.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "diluvium",
+					"meaning": "flood"
+				}
+			],
+			"points": [
+				"気候の変化は、そのまま私たちの魂の激しさと静けさに対応します。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "blizzard_weather",
+		"word": "blizzard",
+		"meaning": "猛吹雪",
+		"era": "19th Century",
+		"etymology": {
+			"components": [
+				"blizz (violent blow)"
+			],
+			"original_statement": "From 19th Century blizz (violent blow)."
+		},
+		"concept": "A severe snowstorm (視界だけでなく、方向感覚や体温までも真っ白な暴力で奪い去ろうとする氷の息吹。)",
+		"thinking": "視界だけでなく、方向感覚や体温までも真っ白な暴力で奪い去ろうとする氷の息吹。",
+		"aftertaste": "「ブリザード（猛吹雪）」のような逆境では、無理に進まず、じっと立ち止まる強さも必要です。",
+		"example": "The weather suddenly turned blizzard.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "blizz",
+					"meaning": "violent blow"
+				}
+			],
+			"points": [
+				"気候の変化は、そのまま私たちの魂の激しさと静けさに対応します。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "hail_weather",
+		"word": "hail",
+		"meaning": "ひょう、あられ",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"hægel (hail)"
+			],
+			"original_statement": "From Old English hægel (hail)."
+		},
+		"concept": "Pellets of frozen rain (冬の厳しい寒さが硬い氷の石となり、空から弾丸のように容赦なく地上を打ち付ける砲撃。)",
+		"thinking": "冬の厳しい寒さが硬い氷の石となり、空から弾丸のように容赦なく地上を打ち付ける砲撃。",
+		"aftertaste": "屋根を打つ「ヘイル（ひょう）」の音は、あなたが今、安全な場所にいるという証明です。",
+		"example": "The weather suddenly turned hail.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "hægel",
+					"meaning": "hail"
+				}
+			],
+			"points": [
+				"気候の変化は、そのまま私たちの魂の激しさと静けさに対応します。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "sleet_weather",
+		"word": "sleet",
+		"meaning": "みぞれ",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"slete (sleet)"
+			],
+			"original_statement": "From 14th Century slete (sleet)."
+		},
+		"concept": "Rain containing some ice (雨と雪が互いに妥協し合えず、中途半端に凍りついて中空を漂う、冷たく哀しい結晶の未完成形。)",
+		"thinking": "雨と雪が互いに妥協し合えず、中途半端に凍りついて中空を漂う、冷たく哀しい結晶の未完成形。",
+		"aftertaste": "「スリート（みぞれ）」の降る日は、外出しなくていいという宇宙の優しさかもしれません。",
+		"example": "The weather suddenly turned sleet.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "slete",
+					"meaning": "sleet"
+				}
+			],
+			"points": [
+				"気候の変化は、そのまま私たちの魂の激しさと静けさに対応します。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "squall_weather",
+		"word": "squall",
+		"meaning": "突風、スコール",
+		"era": "17th Century",
+		"etymology": {
+			"components": [
+				"squall (sudden violent wind)"
+			],
+			"original_statement": "From 17th Century squall (sudden violent wind)."
+		},
+		"concept": "A sudden violent gust of wind (海賊のように突如として現れ、海面を荒らし回っては一瞬にして消えていく通り魔のような風。)",
+		"thinking": "海賊のように突如として現れ、海面を荒らし回っては一瞬にして消えていく通り魔のような風。",
+		"aftertaste": "人生には「スコール（突然の嵐）」が付き物。焦らず雨宿りして通り過ぎるのを待ちましょう。",
+		"example": "The weather suddenly turned squall.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "squall",
+					"meaning": "sudden violent wind"
+				}
+			],
+			"points": [
+				"気候の変化は、そのまま私たちの魂の激しさと静けさに対応します。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "draft_weather",
+		"word": "draft",
+		"meaning": "すき間風、通風",
+		"era": "Middle English",
+		"etymology": {
+			"components": [
+				"draught (drawing of a bow, pulling)"
+			],
+			"original_statement": "From Middle English draught (drawing of a bow, pulling)."
+		},
+		"concept": "A current of unpleasantly cold air (堅牢な部屋のわずかな隙間を見つけ出し、蛇のように這い込んでくる冷たく細い空気の侵入者。)",
+		"thinking": "堅牢な部屋のわずかな隙間を見つけ出し、蛇のように這い込んでくる冷たく細い空気の侵入者。",
+		"aftertaste": "心の隙間に「ドラフト（すき間風）」を感じたら、温かい言葉の毛布で自分を包んであげて。",
+		"example": "The weather suddenly turned draft.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "draught",
+					"meaning": "drawing of a bow, pulling"
+				}
+			],
+			"points": [
+				"気候の変化は、そのまま私たちの魂の激しさと静けさに対応します。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "cyclone_weather",
+		"word": "cyclone",
+		"meaning": "サイクロン、大竜巻",
+		"era": "19th Century",
+		"etymology": {
+			"components": [
+				"kukloma (wheel, coil of a snake)"
+			],
+			"original_statement": "From 19th Century kukloma (wheel, coil of a snake)."
+		},
+		"concept": "A system of winds rotating inward (大気が蛇のような巨大な車輪を作り出し、回転しながら無差別に地上の全てを飲み込んでいく破壊の竜。)",
+		"thinking": "大気が蛇のような巨大な車輪を作り出し、回転しながら無差別に地上の全てを飲み込んでいく破壊の竜。",
+		"aftertaste": "怒りで「サイクロン（渦巻き）」のように荒れ狂う心を、深く静かな呼吸で真っ直ぐに解きほぐして。",
+		"example": "The weather suddenly turned cyclone.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kukloma",
+					"meaning": "wheel, coil of a snake"
+				}
+			],
+			"points": [
+				"気候の変化は、そのまま私たちの魂の激しさと静けさに対応します。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "tornado_weather",
+		"word": "tornado",
+		"meaning": "竜巻",
+		"era": "16th Century",
+		"etymology": {
+			"components": [
+				"tronada (thunderstorm)"
+			],
+			"original_statement": "From 16th Century tronada (thunderstorm)."
+		},
+		"concept": "A mobile, destructive vortex (空から垂れ下がった破壊の漏斗（ろうと）が、大地を抉りながら不規則に踊り狂う狂気の独楽（こま）。)",
+		"thinking": "空から垂れ下がった破壊の漏斗（ろうと）が、大地を抉りながら不規則に踊り狂う狂気の独楽（こま）。",
+		"aftertaste": "突然の「トルネード（竜巻）」のように全てが変わってしまっても、あなた自身の芯は決して飛ばされません。",
+		"example": "The weather suddenly turned tornado.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "tronada",
+					"meaning": "thunderstorm"
+				}
+			],
+			"points": [
+				"気候の変化は、そのまま私たちの魂の激しさと静けさに対応します。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "whirlwind_weather",
+		"word": "whirlwind",
+		"meaning": "旋風、つむじ風",
+		"era": "Middle English",
+		"etymology": {
+			"components": [
+				"whirl + wind"
+			],
+			"original_statement": "From Middle English whirl + wind."
+		},
+		"concept": "A column of air moving rapidly around and around (予測不可能な軌道を描いて駆け抜け、平穏な日常を一瞬のうちにドラマに変える慌ただしい風。)",
+		"thinking": "予測不可能な軌道を描いて駆け抜け、平穏な日常を一瞬のうちにドラマに変える慌ただしい風。",
+		"aftertaste": "彼女は「ワールウィンド（つむじ風）」のように現れ、私の心を完全にさらっていきました。",
+		"example": "The weather suddenly turned whirlwind.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "whirl",
+					"meaning": "+ wind"
+				}
+			],
+			"points": [
+				"気候の変化は、そのまま私たちの魂の激しさと静けさに対応します。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "maelstrom_weather",
+		"word": "maelstrom",
+		"meaning": "大渦巻き、大混乱",
+		"era": "17th Century",
+		"etymology": {
+			"components": [
+				"mälen (grind) + strom (stream)"
+			],
+			"original_statement": "From 17th Century mälen (grind) + strom (stream)."
+		},
+		"concept": "A powerful whirlpool (巨大な臼（うす）を回すように、船も人も希望も全てを海底の底知れぬ恐怖へと力強く引きずり込む魔の渦。)",
+		"thinking": "巨大な臼（うす）を回すように、船も人も希望も全てを海底の底知れぬ恐怖へと力強く引きずり込む魔の渦。",
+		"aftertaste": "感情の「メールストロム（大混乱）」に飲み込まれないよう、自分自身という錨をしっかり下ろして。",
+		"example": "The weather suddenly turned maelstrom.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "mälen",
+					"meaning": "grind) + strom (stream"
+				}
+			],
+			"points": [
+				"気候の変化は、そのまま私たちの魂の激しさと静けさに対応します。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "thunder_weather",
+		"word": "thunder",
+		"meaning": "雷鳴、雷",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"thunor (thunder)"
+			],
+			"original_statement": "From Old English thunor (thunder)."
+		},
+		"concept": "A loud rumbling or crashing noise heard after a lightning flash (光の後から少し遅れてやってくる、空を引き裂き、地を震わせる神々の怒りの巨大な太鼓の音。)",
+		"thinking": "光の後から少し遅れてやってくる、空を引き裂き、地を震わせる神々の怒りの巨大な太鼓の音。",
+		"aftertaste": "「サンダー（雷鳴）」が轟く夜は、恐れるのではなく、地球の巨大なエネルギーのコンサートを楽しみましょう。",
+		"example": "The weather suddenly turned thunder.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "thunor",
+					"meaning": "thunder"
+				}
+			],
+			"points": [
+				"気候の変化は、そのまま私たちの魂の激しさと静けさに対応します。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "lightning_weather",
+		"word": "lightning",
+		"meaning": "稲妻、雷光",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"lightnen (to make bright)"
+			],
+			"original_statement": "From 14th Century lightnen (to make bright)."
+		},
+		"concept": "The occurrence of a natural electrical discharge of very short duration (天のキャンバスに一瞬だけ描かれ、暗闇を暴力的なまでに白日の下に曝け出す電気と光の奇跡の奔流。)",
+		"thinking": "天のキャンバスに一瞬だけ描かれ、暗闇を暴力的なまでに白日の下に曝け出す電気と光の奇跡の奔流。",
+		"aftertaste": "あなたの「ライトニング（稲妻のような）」ひらめきが、この停滞した会議に新しい次元をもたらすはず。",
+		"example": "The weather suddenly turned lightning.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "lightnen",
+					"meaning": "to make bright"
+				}
+			],
+			"points": [
+				"気候の変化は、そのまま私たちの魂の激しさと静けさに対応します。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "bolt_weather",
+		"word": "bolt",
+		"meaning": "稲妻、ボルト、急に飛び出す",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"bolt (arrow)"
+			],
+			"original_statement": "From Old English bolt (arrow)."
+		},
+		"concept": "A flash of lightning (天から地上へと一直線に射ち込まれる、絶対的な精度とスピードを持った光の矢の直撃。)",
+		"thinking": "天から地上へと一直線に射ち込まれる、絶対的な精度とスピードを持った光の矢の直撃。",
+		"aftertaste": "「ボルト（雷の一撃）」に打たれたような衝撃的な出会いが、平凡な人生をドラマチックに変えます。",
+		"example": "The weather suddenly turned bolt.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "bolt",
+					"meaning": "arrow"
+				}
+			],
+			"points": [
+				"気候の変化は、そのまま私たちの魂の激しさと静けさに対応します。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "strike_weather",
+		"word": "strike",
+		"meaning": "打つ、襲う、ストライク",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"strican (to pass lightly over, stroke)"
+			],
+			"original_statement": "From Old English strican (to pass lightly over, stroke)."
+		},
+		"concept": "Hit forcibly and deliberately (圧倒的な力が一点に集中し、明確な意志を持って標的を破壊し、瞬時に沈黙させる暴力的な着弾。)",
+		"thinking": "圧倒的な力が一点に集中し、明確な意志を持って標的を破壊し、瞬時に沈黙させる暴力的な着弾。",
+		"aftertaste": "チャンスという雷がいつ「ストライク（直撃）」してもいいように、自分自身という避雷針を高く磨いておいて。",
+		"example": "The weather suddenly turned strike.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "strican",
+					"meaning": "to pass lightly over, stroke"
+				}
+			],
+			"points": [
+				"気候の変化は、そのまま私たちの魂の激しさと静けさに対応します。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "overcast_weather",
+		"word": "overcast",
+		"meaning": "雲で覆われた、どんよりした",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"over + cast (thrown over)"
+			],
+			"original_statement": "From 14th Century over + cast (thrown over)."
+		},
+		"concept": "Clouded over (空全体に灰色の毛布が投げ掛けられ、地上から一切の影と鋭い光を隠蔽した曖昧で憂鬱なベール。)",
+		"thinking": "空全体に灰色の毛布が投げ掛けられ、地上から一切の影と鋭い光を隠蔽した曖昧で憂鬱なベール。",
+		"aftertaste": "「オーバーキャスト（どんよりした）」な日は、日焼けを気にせずのんびりと庭で読書を楽しめる日です。",
+		"example": "The weather suddenly turned overcast.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "over",
+					"meaning": "+ cast (thrown over"
+				}
+			],
+			"points": [
+				"気候の変化は、そのまま私たちの魂の激しさと静けさに対応します。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "clearing_weather",
+		"word": "clearing",
+		"meaning": "（森の）空き地、晴れ間",
+		"era": "15th Century",
+		"etymology": {
+			"components": [
+				"clear + ing"
+			],
+			"original_statement": "From 15th Century clear + ing."
+		},
+		"concept": "An open space in a forest (鬱蒼（うっそう）とした森や雲の中に突如として開かれた、太陽の光が特別に許された安全で明るい広間。)",
+		"thinking": "鬱蒼（うっそう）とした森や雲の中に突如として開かれた、太陽の光が特別に許された安全で明るい広間。",
+		"aftertaste": "真っ暗な森の「クリアリング（切り開かれた空き地）」を見つけた時の安堵は、苦しい受験を終えた時の喜びに似ています。",
+		"example": "The weather suddenly turned clearing.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "clear",
+					"meaning": "+ ing"
+				}
+			],
+			"points": [
+				"気候の変化は、そのまま私たちの魂の激しさと静けさに対応します。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "sunny_weather",
+		"word": "sunny",
+		"meaning": "晴れた、太陽のように明るい",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"sunne (sun)"
+			],
+			"original_statement": "From Old English sunne (sun)."
+		},
+		"concept": "Bright with sunlight (雲一つなく、地球全体が無条件の愛と祝福の光によって隅々まで温められている至福の状態。)",
+		"thinking": "雲一つなく、地球全体が無条件の愛と祝福の光によって隅々まで温められている至福の状態。",
+		"aftertaste": "「サニー（陽気でのんき）」なあなたの笑顔さえあれば、外がどんなに土砂降りでも私の心は晴れ渡ります。",
+		"example": "The weather suddenly turned sunny.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sunne",
+					"meaning": "sun"
+				}
+			],
+			"points": [
+				"気候の変化は、そのまま私たちの魂の激しさと静けさに対応します。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "bright_weather",
+		"word": "bright",
+		"meaning": "明るい、輝かしい",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"beorht (bright)"
+			],
+			"original_statement": "From Old English beorht (bright)."
+		},
+		"concept": "Giving out or reflecting a lot of light (闇を完全に払拭し、世界の細部までを希望の色で鮮明に照らし出す、未来への絶対的な肯定の光。)",
+		"thinking": "闇を完全に払拭し、世界の細部までを希望の色で鮮明に照らし出す、未来への絶対的な肯定の光。",
+		"aftertaste": "あなたの「ブライト（賢く輝かしい）」な未来を、他の誰の暗い予想によっても曇らせてはいけません。",
+		"example": "The weather suddenly turned bright.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "beorht",
+					"meaning": "bright"
+				}
+			],
+			"points": [
+				"気候の変化は、そのまま私たちの魂の激しさと静けさに対応します。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "balmy_weather",
+		"word": "balmy",
+		"meaning": "穏和な、さわやかな",
+		"era": "16th Century",
+		"etymology": {
+			"components": [
+				"balm (aromatic resin)"
+			],
+			"original_statement": "From 16th Century balm (aromatic resin)."
+		},
+		"concept": "Characterized by pleasantly warm weather (心を癒やす香油（バルサム）のように柔らかく、傷ついた魂を優しく撫でて治癒するような心地よい温かさ。)",
+		"thinking": "心を癒やす香油（バルサム）のように柔らかく、傷ついた魂を優しく撫でて治癒するような心地よい温かさ。",
+		"aftertaste": "「バルミー（香るように穏やかな）」な春の夜風は、恋人たちの囁きに最も似合うBGMです。",
+		"example": "The weather suddenly turned balmy.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "balm",
+					"meaning": "aromatic resin"
+				}
+			],
+			"points": [
+				"気候の変化は、そのまま私たちの魂の激しさと静けさに対応します。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "muggy_weather",
+		"word": "muggy",
+		"meaning": "蒸し暑い",
+		"era": "18th Century",
+		"etymology": {
+			"components": [
+				"muggy (damp, mild)"
+			],
+			"original_statement": "From 18th Century muggy (damp, mild)."
+		},
+		"concept": "Unpleasantly warm and humid (空気に過剰な水分がへばりつき、まるで目に見えない熱帯魚の水槽の中を歩かされているような不快な重苦しさ。)",
+		"thinking": "空気に過剰な水分がへばりつき、まるで目に見えない熱帯魚の水槽の中を歩かされているような不快な重苦しさ。",
+		"aftertaste": "「マギー（じっとりと蒸し暑い）」な空気をエアコンで一掃した時のあの快感は、夏の密かな楽しみです。",
+		"example": "The weather suddenly turned muggy.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "muggy",
+					"meaning": "damp, mild"
+				}
+			],
+			"points": [
+				"気候の変化は、そのまま私たちの魂の激しさと静けさに対応します。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "humid_weather",
+		"word": "humid",
+		"meaning": "湿気のある",
+		"era": "16th Century",
+		"etymology": {
+			"components": [
+				"humere (to be moist)"
+			],
+			"original_statement": "From 16th Century humere (to be moist)."
+		},
+		"concept": "Marked by a relatively high level of water vapor in the atmosphere (大気が水分を限界まで含んで膨張し、肌を濡らすことなく肺の底まで重く沈み込んでくる不可視の水の圧力。)",
+		"thinking": "大気が水分を限界まで含んで膨張し、肌を濡らすことなく肺の底まで重く沈み込んでくる不可視の水の圧力。",
+		"aftertaste": "「ヒューミッド（湿度の高い）」な日は肌が潤うのだから、天然のエステだと割り切って楽しんでしまいましょう。",
+		"example": "The weather suddenly turned humid.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "humere",
+					"meaning": "to be moist"
+				}
+			],
+			"points": [
+				"気候の変化は、そのまま私たちの魂の激しさと静けさに対応します。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "sultry_weather",
+		"word": "sultry",
+		"meaning": "蒸し暑い、官能的な",
+		"era": "16th Century",
+		"etymology": {
+			"components": [
+				"swelter (to be overcome by heat)"
+			],
+			"original_statement": "From 16th Century swelter (to be overcome by heat)."
+		},
+		"concept": "Hot and humid (強烈な熱と湿度が絡み合い、息苦しさの向こう側に人を狂わせるような気怠い（けだるい）情熱と官能を引き起こす重さ。)",
+		"thinking": "強烈な熱と湿度が絡み合い、息苦しさの向こう側に人を狂わせるような気怠い（けだるい）情熱と官能を引き起こす重さ。",
+		"aftertaste": "ジャズの流れる「サルトリー（熱く気怠い）」な夜のバーで、冷たいカクテルを傾ける大人の静かな時間。",
+		"example": "The weather suddenly turned sultry.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "swelter",
+					"meaning": "to be overcome by heat"
+				}
+			],
+			"points": [
+				"気候の変化は、そのまま私たちの魂の激しさと静けさに対応します。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "sweltering_weather",
+		"word": "sweltering",
+		"meaning": "うだるように暑い",
+		"era": "16th Century",
+		"etymology": {
+			"components": [
+				"swelter (faint with heat)"
+			],
+			"original_statement": "From 16th Century swelter (faint with heat)."
+		},
+		"concept": "Uncomfortably hot (太陽が地上を容赦なくオーブンの中のように熱し、理性も体力も限界まで溶かしてしまいそうな茹で上がる酷暑。)",
+		"thinking": "太陽が地上を容赦なくオーブンの中のように熱し、理性も体力も限界まで溶かしてしまいそうな茹で上がる酷暑。",
+		"aftertaste": "「スウェルタリング（うだるように熱い）」な真昼は外に出ず、冷たいスイカを食べて涼むのが最も賢い選択です。",
+		"example": "The weather suddenly turned sweltering.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "swelter",
+					"meaning": "faint with heat"
+				}
+			],
+			"points": [
+				"気候の変化は、そのまま私たちの魂の激しさと静けさに対応します。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "scorching_weather",
+		"word": "scorching",
+		"meaning": "焼け付くような",
+		"era": "15th Century",
+		"etymology": {
+			"components": [
+				"scorchen (burn on the surface)"
+			],
+			"original_statement": "From 15th Century scorchen (burn on the surface)."
+		},
+		"concept": "Very hot (皮膚を直接炎で炙られているかのように、激しい熱と痛みを伴って全てを極度に乾燥させていく太陽の暴力。)",
+		"thinking": "皮膚を直接炎で炙られているかのように、激しい熱と痛みを伴って全てを極度に乾燥させていく太陽の暴力。",
+		"aftertaste": "「スコーシング（焦げるほど熱い）」な砂浜を裸足で駆けて海へ飛び込む瞬間の、あの圧倒的な爽快感。",
+		"example": "The weather suddenly turned scorching.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "scorchen",
+					"meaning": "burn on the surface"
+				}
+			],
+			"points": [
+				"気候の変化は、そのまま私たちの魂の激しさと静けさに対応します。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "blistering_weather",
+		"word": "blistering",
+		"meaning": "水ぶくれができるほど熱い、猛烈な",
+		"era": "16th Century",
+		"etymology": {
+			"components": [
+				"blister"
+			],
+			"original_statement": "From 16th Century blister."
+		},
+		"concept": "Intense, extreme heat (少しでも触れれば皮膚に水疱（みずぶくれ）ができるほど、表面を破壊し尽くす超高温や強烈なスピードの極限。)",
+		"thinking": "少しでも触れれば皮膚に水疱（みずぶくれ）ができるほど、表面を破壊し尽くす超高温や強烈なスピードの極限。",
+		"aftertaste": "「ブリスタリング（猛烈な）」な日差しから肌を守るように、他人の鋭すぎる言葉からも自分の心を守って。",
+		"example": "The weather suddenly turned blistering.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "blister",
+					"meaning": ""
+				}
+			],
+			"points": [
+				"気候の変化は、そのまま私たちの魂の激しさと静けさに対応します。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "biting_weather",
+		"word": "biting",
+		"meaning": "身を切るように冷たい、辛辣な",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"bitan (to bite)"
+			],
+			"original_statement": "From Old English bitan (to bite)."
+		},
+		"concept": "Painfully cold (冬の冷たい風が物理的な牙を持ち、厚着の隙間をくぐり抜けて直接皮膚を噛みちぎるような鋭い痛覚。)",
+		"thinking": "冬の冷たい風が物理的な牙を持ち、厚着の隙間をくぐり抜けて直接皮膚を噛みちぎるような鋭い痛覚。",
+		"aftertaste": "彼のごまかしのない「バイティング（刺すような）」な批評は時に痛いですが、一番信頼できる声なのです。",
+		"example": "The weather suddenly turned biting.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "bitan",
+					"meaning": "to bite"
+				}
+			],
+			"points": [
+				"気候の変化は、そのまま私たちの魂の激しさと静けさに対応します。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "piercing_weather",
+		"word": "piercing",
+		"meaning": "身を刺すような、鋭い",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"percer (to pierce)"
+			],
+			"original_statement": "From 14th Century percer (to pierce)."
+		},
+		"concept": "Seeming to cut through one (極小の冷たさや甲高い音が、耳から脳の奥深くまで一瞬で貫通し、全ての機能を麻痺させる鋭利な針の攻撃。)",
+		"thinking": "極小の冷たさや甲高い音が、耳から脳の奥深くまで一瞬で貫通し、全ての機能を麻痺させる鋭利な針の攻撃。",
+		"aftertaste": "真冬の「ピアシング（骨まで突き刺さるような）」な寒さの中に見る満天の星空の美しさは、痛みを忘れさせます。",
+		"example": "The weather suddenly turned piercing.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "percer",
+					"meaning": "to pierce"
+				}
+			],
+			"points": [
+				"気候の変化は、そのまま私たちの魂の激しさと静けさに対応します。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "freezing_weather",
+		"word": "freezing",
+		"meaning": "凍えるほど寒い",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"freosan (turn to ice)"
+			],
+			"original_statement": "From Old English freosan (turn to ice)."
+		},
+		"concept": "Below 0°C (時間が停止し、生命の活動の全てが硬い氷の中へ閉じ込められ、世界が完全に静寂のガラスに変わる瞬間。)",
+		"thinking": "時間が停止し、生命の活動の全てが硬い氷の中へ閉じ込められ、世界が完全に静寂のガラスに変わる瞬間。",
+		"aftertaste": "「フリージング（凍てつくような）」な外から帰り、暖炉の前で飲むホットココアは人生の小さな奇跡の一つ。",
+		"example": "The weather suddenly turned freezing.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "freosan",
+					"meaning": "turn to ice"
+				}
+			],
+			"points": [
+				"気候の変化は、そのまま私たちの魂の激しさと静けさに対応します。"
+			]
+		},
+		"part_of_speech": "adjective"
 	}
 ];
