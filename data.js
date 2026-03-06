@@ -194219,5 +194219,145 @@ const WORDS = [
 			]
 		},
 		"part_of_speech": "noun"
+	},
+	{
+		"id": "reap_growth_action",
+		"word": "reap",
+		"meaning": "収穫する、報いを受ける",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"repan (to pluck, harvest)"
+			],
+			"original_statement": "From Old English repan (to pluck, harvest)."
+		},
+		"concept": "Cut or gather (a crop or harvest) (過去の自分が蒔いた種が実を結んだ時、感謝とともにその成果を両手で受け取る厳粛な儀式。)",
+		"thinking": "過去の自分が蒔いた種が実を結んだ時、感謝とともにその成果を両手で受け取る厳粛な儀式。",
+		"aftertaste": "あなたが今「リープ（収穫している）」のは、昨日流した汗と涙の結晶なのです。",
+		"example": "We need to reap the soil appropriately.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "repan",
+					"meaning": "to pluck, harvest"
+				}
+			],
+			"points": [
+				"生命のプロセスを植物の成長になぞらえたメタファー。"
+			]
+		},
+		"part_of_speech": "verb"
+	},
+	{
+		"id": "sow_growth_action",
+		"word": "sow",
+		"meaning": "種をまく",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"sawan (to scatter seed)"
+			],
+			"original_statement": "From Old English sawan (to scatter seed)."
+		},
+		"concept": "Plant (seed) by scattering it on or in the earth (まだ見ぬ未来の収穫を信じ、不確実な大地というキャンバスに希望の粒を力強く散りばめる最初の行為。)",
+		"thinking": "まだ見ぬ未来の収穫を信じ、不確実な大地というキャンバスに希望の粒を力強く散りばめる最初の行為。",
+		"aftertaste": "今日「ソウ（種をまく）」した小さな感謝が、明日には大きな奇跡の花を咲かせます。",
+		"example": "We need to sow the soil appropriately.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sawan",
+					"meaning": "to scatter seed"
+				}
+			],
+			"points": [
+				"生命のプロセスを植物の成長になぞらえたメタファー。"
+			]
+		},
+		"part_of_speech": "verb"
+	},
+	{
+		"id": "plow_growth_action",
+		"word": "plow",
+		"meaning": "耕す、すき",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"ploh (plow, extent of land)"
+			],
+			"original_statement": "From Old English ploh (plow, extent of land)."
+		},
+		"concept": "Turn up the earth of (an area of land) with a plow (固く閉ざされた大地を力任せに切り裂き、空気と光を取り込んで隠された生命力を呼び覚ます破壊的な創造。)",
+		"thinking": "固く閉ざされた大地を力任せに切り裂き、空気と光を取り込んで隠された生命力を呼び覚ます破壊的な創造。",
+		"aftertaste": "困難という荒野を「プラウ（耕す）」する者だけが、その先に待つ宝の地図を手にすることができます。",
+		"example": "We need to plow the soil appropriately.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ploh",
+					"meaning": "plow, extent of land"
+				}
+			],
+			"points": [
+				"生命のプロセスを植物の成長になぞらえたメタファー。"
+			]
+		},
+		"part_of_speech": "verb"
+	},
+	{
+		"id": "weed_growth_action",
+		"word": "weed",
+		"meaning": "雑草、雑草を抜く",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"weod (herb, grass)"
+			],
+			"original_statement": "From Old English weod (herb, grass)."
+		},
+		"concept": "A wild plant growing where it is not wanted (そこにあるべきではないと人間によって決め付けられたが故に、どこにでも根を張る執念深い生命の象徴。)",
+		"thinking": "そこにあるべきではないと人間によって決め付けられたが故に、どこにでも根を張る執念深い生命の象徴。",
+		"aftertaste": "心に生えたネガティブな「ウィード（雑草）」は、小さいうちに根っこから優しく抜いてあげて。",
+		"example": "We need to weed the soil appropriately.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "weod",
+					"meaning": "herb, grass"
+				}
+			],
+			"points": [
+				"生命のプロセスを植物の成長になぞらえたメタファー。"
+			]
+		},
+		"part_of_speech": "verb"
+	},
+	{
+		"id": "prune_growth_action",
+		"word": "prune",
+		"meaning": "剪定する、切り詰める",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"proignier (to trim feathers or branches)"
+			],
+			"original_statement": "From 14th Century proignier (to trim feathers or branches)."
+		},
+		"concept": "Trim (a tree, shrub, or bush) by cutting away dead or overgrown branches (不要な枝や過去の執着を切り落とし、本当に大切な幹へとエネルギーを集中させるための残酷で必要な外科手術。)",
+		"thinking": "不要な枝や過去の執着を切り落とし、本当に大切な幹へとエネルギーを集中させるための残酷で必要な外科手術。",
+		"aftertaste": "時々人間関係も「プルーン（剪定）」して、本当に大切な人だけを残すこともお互いのためなのです。",
+		"example": "We need to prune the soil appropriately.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "proignier",
+					"meaning": "to trim feathers or branches"
+				}
+			],
+			"points": [
+				"生命のプロセスを植物の成長になぞらえたメタファー。"
+			]
+		},
+		"part_of_speech": "verb"
 	}
 ];
