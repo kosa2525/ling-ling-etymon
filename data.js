@@ -197379,5 +197379,63 @@ const WORDS = [
 			]
 		},
 		"part_of_speech": "noun"
+	},
+	{
+		"id": "immutable_stone",
+		"word": "Immutable",
+		"meaning": "不変の、変わらない、不磨の",
+		"era": "15th Century Latin in- + mutare",
+		"etymology": {
+			"components": [
+				"in- (not)",
+				"mutare (to change)"
+			],
+			"original_statement": "From Latin immutabilis (unchangeable), from in- (not) + mutabilis (changeable), from mutare (to change)."
+		},
+		"concept": "Not changeable (「流動（flow）」する 「時（time）」の 荒波に 曝され（さらされ）て なお 「真理」としての 「核」を 断固として 維持し続けること)",
+		"thinking": "流行や 他人の 評価に 左右されず、自らの 内側にある 普遍的な 価値（センター）を 信じ抜き、何世紀 も 変わらない 山のように 静かに 存在し続けること. 語源は「変えられない」. それは 頑固 ではなく 時代を 超えて 響き合う 聖なる「不変（エターナル）」への 誠実な 誓いです. 不変は、愛です.",
+		"aftertaste": "不変の誓い. 移り変わる 世界の 速度に 焦らないで. あなたが「イミュータブル（不変の）」な 真実を 自分の 核（センター）に 置けたとき あなたは どんな 激動の中でも 決して 揺らぐことのない 平穏を 手にするのだから.",
+		"example": "The laws of mathematics are considered immutable, remaining true regardless of the passage of time or culture.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "mei-",
+					"meaning": "to change, move, go"
+				}
+			],
+			"points": [
+				"mutual（相互の：交換する）や mutation（突然変異）と同じ。変化への 抵抗という名の、存在の 証。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "megalith_stone",
+		"word": "Megalithic",
+		"meaning": "巨石の、巨石文化の、(社会などが)巨大で変化の乏しい",
+		"era": "19th Century Greek megas + lithos",
+		"etymology": {
+			"components": [
+				"megas (great, large)",
+				"lithos (stone)"
+			],
+			"original_statement": "From mega- (great) + lithic (of stone)."
+		},
+		"concept": "Great stone (「個（individual）」を 越えた 「巨大な 意思（great will）」が 「大地（earth）」に 刻みつけた 「不滅（immortal）」の 叙事詩)",
+		"thinking": "一人の 人間の 生涯を 遥かに 越える スケールで 構想され、何世代 もの 祈りと 労働が 結実して 産み出された、圧倒的な 崇高美（サブリミティ）. 語源は「大きな石」. それは 物理的な 重さ ではなく 私たちが 宇宙的な 時間の 中で いかに 壮大な 物語を 紡ごうとしてきたか（紡いできたか）という 聖なる「挑戦」の 表現です.",
+		"aftertaste": "巨石の叙事詩. 自分の 非力さに 絶望しないで. あなたの 放つ 小さな祈りが「メガリシック（巨石の）」な 意思の 連鎖の中に 組み込まれたとき それは 永遠に 消えることのない 聖なる 碑（いしぶみ）と なって 世界に 刻まれるのだから.",
+		"example": "Stonehenge is perhaps the most famous megalithic monument in the world, its true purpose still debated by scholars.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "meg-",
+					"meaning": "great"
+				}
+			],
+			"points": [
+				"magnify（拡大する）や master（巨匠）と同じ。偉大さという名の、精神の地平。"
+			]
+		},
+		"part_of_speech": "adjective"
 	}
 ];
