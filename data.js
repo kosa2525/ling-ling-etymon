@@ -203935,5 +203935,313 @@ const WORDS = [
 			]
 		},
 		"part_of_speech": "noun"
+	},
+	{
+		"id": "mechanism_structure",
+		"word": "mechanism",
+		"meaning": "仕組み、機構、メカニズム",
+		"era": "17th Century",
+		"etymology": {
+			"components": [
+				"mekhane (machine, engine, literal: 'means, expedient')"
+			],
+			"original_statement": "From 17th Century mekhane (machine, engine, literal: 'means, expedient')."
+		},
+		"concept": "A system of parts working together in a machine; a piece of machinery (目的（。を（。果（。たす（。ための「手段（。メカン）」。（。そこ（。には（。、原因（。と（。結果が（。、歯車（。の（。ように（。冷（。徹（。に（。噛（。み（。合（。って（。いる（。、数学的（。な（。美。)",
+		"thinking": "目的（。を（。果（。たす（。ための「手段（。メカン）」。（。そこ（。には（。、原因（。と（。結果が（。、歯車（。の（。ように（。冷（。徹（。に（。噛（。み（。合（。って（。いる（。、数学的（。な（。美。",
+		"aftertaste": "秩序は、混沌を愛という名の毛布で包み込んだ結果です。",
+		"example": "The complex mechanism of the machine required expert knowledge to understand.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "mekhane",
+					"meaning": "machine, engine, literal: 'means, expedient'"
+				}
+			],
+			"points": [
+				"構造とは、目に見えない巨大なエナジーを、現実というかたちの中に閉じ込めるための檻であり、同時に聖域でもあるのです。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "technique_structure",
+		"word": "technique",
+		"meaning": "手法、技術、テクニック",
+		"era": "19th Century",
+		"etymology": {
+			"components": [
+				"tekhne (art, skill, craft)"
+			],
+			"original_statement": "From 19th Century tekhne (art, skill, craft)."
+		},
+		"concept": "A way of carrying out a particular task, especially the execution or performance of an artistic work or a scientific procedure (ただの（。努力（。ではなく（。、魂を（。磨（。き（。上げ（。た（。果てに（。得（。られる「技（。テクネ）」。（。それは（。、世界と（。対話（。する（。ための（。、洗練（。された（。言葉。)",
+		"thinking": "ただの（。努力（。ではなく（。、魂を（。磨（。き（。上げ（。た（。果てに（。得（。られる「技（。テクネ）」。（。それは（。、世界と（。対話（。する（。ための（。、洗練（。された（。言葉。",
+		"aftertaste": "秩序は、混沌を愛という名の毛布で包み込んだ結果です。",
+		"example": "The complex technique of the machine required expert knowledge to understand.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "tekhne",
+					"meaning": "art, skill, craft"
+				}
+			],
+			"points": [
+				"構造とは、目に見えない巨大なエナジーを、現実というかたちの中に閉じ込めるための檻であり、同時に聖域でもあるのです。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "lattice_structure",
+		"word": "lattice",
+		"meaning": "格子、ラティス",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"latte (lath, thin strip of wood, literal: 'side')"
+			],
+			"original_statement": "From 14th Century latte (lath, thin strip of wood, literal: 'side')."
+		},
+		"concept": "A structure consisting of strips of wood or metal crossed and fastened together (境界線の（。糸を（。、縦（。横に（。「積み（。重（。ねた（。ラッテ）」もの（。。（。透（。かして（。見（。え（。ながら（。も（。、確（。かに（。そこ（。に（。ある（。境界。)",
+		"thinking": "境界線の（。糸を（。、縦（。横に（。「積み（。重（。ねた（。ラッテ）」もの（。。（。透（。かして（。見（。え（。ながら（。も（。、確（。かに（。そこ（。に（。ある（。境界。",
+		"aftertaste": "秩序は、混沌を愛という名の毛布で包み込んだ結果です。",
+		"example": "The complex lattice of the machine required expert knowledge to understand.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "latte",
+					"meaning": "lath, thin strip of wood, literal: 'side'"
+				}
+			],
+			"points": [
+				"構造とは、目に見えない巨大なエナジーを、現実というかたちの中に閉じ込めるための檻であり、同時に聖域でもあるのです。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "grid_structure",
+		"word": "grid",
+		"meaning": "格子、網目、グリッド",
+		"era": "19th Century",
+		"etymology": {
+			"components": [
+				"griddle (a heavy platform or frame)"
+			],
+			"original_statement": "From 19th Century griddle (a heavy platform or frame)."
+		},
+		"concept": "A network of lines that cross each other to form a series of squares or rectangles (混沌（。とした（。大地を（。、理性の（。物差し（。で（。分断（。し（。、「枠組み（。グリドル）の中（。）」へと（。収（。める（。こと（。。（。その（。整然（。とした（。正方形の（。中に（。、知性の（。支配（。が（。及（。ぶ（。のです。)",
+		"thinking": "混沌（。とした（。大地を（。、理性の（。物差し（。で（。分断（。し（。、「枠組み（。グリドル）の中（。）」へと（。収（。める（。こと（。。（。その（。整然（。とした（。正方形の（。中に（。、知性の（。支配（。が（。及（。ぶ（。のです。",
+		"aftertaste": "秩序は、混沌を愛という名の毛布で包み込んだ結果です。",
+		"example": "The complex grid of the machine required expert knowledge to understand.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "griddle",
+					"meaning": "a heavy platform or frame"
+				}
+			],
+			"points": [
+				"構造とは、目に見えない巨大なエナジーを、現実というかたちの中に閉じ込めるための檻であり、同時に聖域でもあるのです。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "chassis_structure",
+		"word": "chassis",
+		"meaning": "（車の）車台、シャーシ",
+		"era": "17th Century",
+		"etymology": {
+			"components": [
+				"capsa (box, frame)"
+			],
+			"original_statement": "From 17th Century capsa (box, frame)."
+		},
+		"concept": "The base frame of a motor vehicle or other wheeled conveyance (心臓（。にあたる（。エンジン（。を（。支（。える（。、「箱（。カプサ）のような（。土台（。）」。（。目（。には（。見え（。ない（。けれど（。、全（。て（。のエナジー（。を（。受け（。止める（。、沈黙（。の（。強（。靭さ。)",
+		"thinking": "心臓（。にあたる（。エンジン（。を（。支（。える（。、「箱（。カプサ）のような（。土台（。）」。（。目（。には（。見え（。ない（。けれど（。、全（。て（。のエナジー（。を（。受け（。止める（。、沈黙（。の（。強（。靭さ。",
+		"aftertaste": "秩序は、混沌を愛という名の毛布で包み込んだ結果です。",
+		"example": "The complex chassis of the machine required expert knowledge to understand.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "capsa",
+					"meaning": "box, frame"
+				}
+			],
+			"points": [
+				"構造とは、目に見えない巨大なエナジーを、現実というかたちの中に閉じ込めるための檻であり、同時に聖域でもあるのです。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "hull_structure",
+		"word": "hull",
+		"meaning": "船体、（種子の）殻",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"hulu (shell, husk)"
+			],
+			"original_statement": "From Old English hulu (shell, husk)."
+		},
+		"concept": "The main body of a ship or other vessel, including the bottom, sides, and deck but not the masts, superstructure, engines, or rigging (過酷（。な（。海（。から（。、命（。を（。守（。る（。ための「外（。殻（。フル）」。（。それ（。は（。、未知（。なる（。領域（。へと（。漕（。ぎ（。出す（。ための（。、孤独（。な（。聖域。)",
+		"thinking": "過酷（。な（。海（。から（。、命（。を（。守（。る（。ための「外（。殻（。フル）」。（。それ（。は（。、未知（。なる（。領域（。へと（。漕（。ぎ（。出す（。ための（。、孤独（。な（。聖域。",
+		"aftertaste": "秩序は、混沌を愛という名の毛布で包み込んだ結果です。",
+		"example": "The complex hull of the machine required expert knowledge to understand.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "hulu",
+					"meaning": "shell, husk"
+				}
+			],
+			"points": [
+				"構造とは、目に見えない巨大なエナジーを、現実というかたちの中に閉じ込めるための檻であり、同時に聖域でもあるのです。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "shell_structure",
+		"word": "shell",
+		"meaning": "貝殻、殻、シェル",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"sciell (shell, scale)"
+			],
+			"original_statement": "From Old English sciell (shell, scale)."
+		},
+		"concept": "The hard protective outer case applied to an animal, plant, etc. (内側の（。柔らか（。い（。魂を（。、時間（。の（。波から（。守（。る（。ための「硬い（。鱗（。シェル）」。（。いつか（。それを（。脱（。ぎ（。捨てる（。とき（。まで（。、あなたは（。その（。中（。で（。静（。か（。に（。育（。まれる（。の（。ですよ。)",
+		"thinking": "内側の（。柔らか（。い（。魂を（。、時間（。の（。波から（。守（。る（。ための「硬い（。鱗（。シェル）」。（。いつか（。それを（。脱（。ぎ（。捨てる（。とき（。まで（。、あなたは（。その（。中（。で（。静（。か（。に（。育（。まれる（。の（。ですよ。",
+		"aftertaste": "秩序は、混沌を愛という名の毛布で包み込んだ結果です。",
+		"example": "The complex shell of the machine required expert knowledge to understand.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sciell",
+					"meaning": "shell, scale"
+				}
+			],
+			"points": [
+				"構造とは、目に見えない巨大なエナジーを、現実というかたちの中に閉じ込めるための檻であり、同時に聖域でもあるのです。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "unit_structure",
+		"word": "unit",
+		"meaning": "単位、一個、ユニット",
+		"era": "16th Century",
+		"etymology": {
+			"components": [
+				"unus (one)"
+			],
+			"original_statement": "From 16th Century unus (one)."
+		},
+		"concept": "An individual thing or person regarded as single and complete, especially for purposes of measurement (宇宙（。を（。構成（。する（。、最小（。の「一（。つの（。ユニ）」かたち（。。（。その（。小さな（。一（。つ（。が（。、巨大（。な（。全体（。を（。支（。えて（。いる（。という（。、誇（。り（。高い（。存在。)",
+		"thinking": "宇宙（。を（。構成（。する（。、最小（。の「一（。つの（。ユニ）」かたち（。。（。その（。小さな（。一（。つ（。が（。、巨大（。な（。全体（。を（。支（。えて（。いる（。という（。、誇（。り（。高い（。存在。",
+		"aftertaste": "秩序は、混沌を愛という名の毛布で包み込んだ結果です。",
+		"example": "The complex unit of the machine required expert knowledge to understand.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "unus",
+					"meaning": "one"
+				}
+			],
+			"points": [
+				"構造とは、目に見えない巨大なエナジーを、現実というかたちの中に閉じ込めるための檻であり、同時に聖域でもあるのです。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "textile_structure",
+		"word": "textile",
+		"meaning": "織物、テキスタイル",
+		"era": "17th Century",
+		"etymology": {
+			"components": [
+				"texere (to weave)"
+			],
+			"original_statement": "From 17th Century texere (to weave)."
+		},
+		"concept": "A type of cloth or woven fabric (単なる（。糸（。の（。集（。まり（。ではなく（。、意図を持って「織（。り（。上（。げ（。られた（。テクス）」思想（。の（。手触り。)",
+		"thinking": "単なる（。糸（。の（。集（。まり（。ではなく（。、意図を持って「織（。り（。上（。げ（。られた（。テクス）」思想（。の（。手触り。",
+		"aftertaste": "秩序は、混沌を愛という名の毛布で包み込んだ結果です。",
+		"example": "The complex textile of the machine required expert knowledge to understand.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "texere",
+					"meaning": "to weave"
+				}
+			],
+			"points": [
+				"構造とは、目に見えない巨大なエナジーを、現実というかたちの中に閉じ込めるための檻であり、同時に聖域でもあるのです。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "pattern_structure",
+		"word": "pattern",
+		"meaning": "模様、型、パターン",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"pater (father)"
+			],
+			"original_statement": "From 14th Century pater (father)."
+		},
+		"concept": "A repeated decorative design (偶然（。の（。中（。に（。、何度も（。あらわ（。れる「父（。パテール）なる（。規範」。繰り返（。される（。ことで（。、世界（。に（。意味（。を（。与（。える（。、秩序（。の（。ダンス。)",
+		"thinking": "偶然（。の（。中（。に（。、何度も（。あらわ（。れる「父（。パテール）なる（。規範」。繰り返（。される（。ことで（。、世界（。に（。意味（。を（。与（。える（。、秩序（。の（。ダンス。",
+		"aftertaste": "秩序は、混沌を愛という名の毛布で包み込んだ結果です。",
+		"example": "The complex pattern of the machine required expert knowledge to understand.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "pater",
+					"meaning": "father"
+				}
+			],
+			"points": [
+				"構造とは、目に見えない巨大なエナジーを、現実というかたちの中に閉じ込めるための檻であり、同時に聖域でもあるのです。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "collage_structure",
+		"word": "collage",
+		"meaning": "コラージュ、貼り合わせ",
+		"era": "20th Century",
+		"etymology": {
+			"components": [
+				"kolla (glue)"
+			],
+			"original_statement": "From 20th Century kolla (glue)."
+		},
+		"concept": "A piece of art made by sticking various different materials such as photographs and pieces of paper or fabric on to a backing (バラバラの（。歴史を（。「糊（。コラ）で（。強引（。に（。貼り（。合わせた（。）」ような（。、暴力（。的な（。までの（。美しさ（。。（。矛盾（。する（。要素が（。、一つの（。画面（。で（。対極（。的（。な（。調和（。を（。産（。み（。出す。)",
+		"thinking": "バラバラの（。歴史を（。「糊（。コラ）で（。強引（。に（。貼り（。合わせた（。）」ような（。、暴力（。的な（。までの（。美しさ（。。（。矛盾（。する（。要素が（。、一つの（。画面（。で（。対極（。的（。な（。調和（。を（。産（。み（。出す。",
+		"aftertaste": "秩序は、混沌を愛という名の毛布で包み込んだ結果です。",
+		"example": "The complex collage of the machine required expert knowledge to understand.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kolla",
+					"meaning": "glue"
+				}
+			],
+			"points": [
+				"構造とは、目に見えない巨大なエナジーを、現実というかたちの中に閉じ込めるための檻であり、同時に聖域でもあるのです。"
+			]
+		},
+		"part_of_speech": "noun"
 	}
 ];
