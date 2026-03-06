@@ -204635,5 +204635,117 @@ const WORDS = [
 			]
 		},
 		"part_of_speech": "noun"
+	},
+	{
+		"id": "slumber_dream",
+		"word": "slumber",
+		"meaning": "眠り、微睡み（まどろみ）",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"slūma (slumber, sleep)"
+			],
+			"original_statement": "From Old English slūma (slumber, sleep)."
+		},
+		"concept": "Sleep (意識の（。重い（。鎖（。を（。ほど（。き（。、ただ「静（。か（。に（。沈（。む（。スルー）」こと（。。（。そこ（。は（。、あらゆる（。苦しみ（。や（。色彩（。が（。溶（。け（。去（。り（。、次（。なる（。目覚（。めへの（。エナジーを（。育（。む（。、母（。なる（。闇（。の中。)",
+		"thinking": "意識の（。重い（。鎖（。を（。ほど（。き（。、ただ「静（。か（。に（。沈（。む（。スルー）」こと（。。（。そこ（。は（。、あらゆる（。苦しみ（。や（。色彩（。が（。溶（。け（。去（。り（。、次（。なる（。目覚（。めへの（。エナジーを（。育（。む（。、母（。なる（。闇（。の中。",
+		"aftertaste": "夢は、現実が自らの限界を思い知ったときに、そっと差し出す贈り物です。",
+		"example": "The entire experience felt like a strange slumber from which he couldn't wake up.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "slūma",
+					"meaning": "slumber, sleep"
+				}
+			],
+			"points": [
+				"現実は、ただ一つの夢であり、夢は、無数の現実であるのかもしれません。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "vigil_dream",
+		"word": "vigil",
+		"meaning": "徹夜の祈り、用心、ヴィジル",
+		"era": "13th Century",
+		"etymology": {
+			"components": [
+				"vigil (awake, watchful)"
+			],
+			"original_statement": "From 13th Century vigil (awake, watchful)."
+		},
+		"concept": "A period of keeping awake during the time usually spent asleep, especially to keep watch or pray (全（。世界が（。眠り（。に（。就（。いた（。後（。も（。、ただ一人「目（。を（。覚（。まし（。ヴィジル）守（。り（。続ける（。）」こと（。。（。その（。不眠の（。祈り（。が（。、明日（。の（。朝を（。この（。世界に（。繋（。ぎ（。止（。めて（。いる（。のですよ。)",
+		"thinking": "全（。世界が（。眠り（。に（。就（。いた（。後（。も（。、ただ一人「目（。を（。覚（。まし（。ヴィジル）守（。り（。続ける（。）」こと（。。（。その（。不眠の（。祈り（。が（。、明日（。の（。朝を（。この（。世界に（。繋（。ぎ（。止（。めて（。いる（。のですよ。",
+		"aftertaste": "夢は、現実が自らの限界を思い知ったときに、そっと差し出す贈り物です。",
+		"example": "The entire experience felt like a strange vigil from which he couldn't wake up.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "vigil",
+					"meaning": "awake, watchful"
+				}
+			],
+			"points": [
+				"現実は、ただ一つの夢であり、夢は、無数の現実であるのかもしれません。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "awakening_dream",
+		"word": "awakening",
+		"meaning": "目覚め、覚醒",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"awacnan (to arise, originate)"
+			],
+			"original_statement": "From Old English awacnan (to arise, originate)."
+		},
+		"concept": "An act of waking from sleep (夢の（。ヴェール（。を（。突（。き（。破（。り（。、再び（。「立ち（。上がる（。ワック）」こと（。。（。昨日（。までの（。自分（。を（。脱（。ぎ（。捨て（。、全（。く（。新（。しい（。光の（。中で（。、自ら（。の（。名前を（。、再び（。、思い出す（。のですよ。)",
+		"thinking": "夢の（。ヴェール（。を（。突（。き（。破（。り（。、再び（。「立ち（。上がる（。ワック）」こと（。。（。昨日（。までの（。自分（。を（。脱（。ぎ（。捨て（。、全（。く（。新（。しい（。光の（。中で（。、自ら（。の（。名前を（。、再び（。、思い出す（。のですよ。",
+		"aftertaste": "夢は、現実が自らの限界を思い知ったときに、そっと差し出す贈り物です。",
+		"example": "The entire experience felt like a strange awakening from which he couldn't wake up.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "awacnan",
+					"meaning": "to arise, originate"
+				}
+			],
+			"points": [
+				"現実は、ただ一つの夢であり、夢は、無数の現実であるのかもしれません。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "seer_dream",
+		"word": "seer",
+		"meaning": "預言者、先見の明のある人、シーア",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"see + -er"
+			],
+			"original_statement": "From 14th Century see + -er."
+		},
+		"concept": "A person who is supposed to be able, through supernatural insight, to see what the future holds for people (単に（。眺める（。のではなく（。、目（。には（。見えない（。真実（。の（。かたちを「見（。抜（。く（。シー）者（。）」。（。あなたの（。中（。の（。澄（。み（。渡（。った（。瞳を（。、最後（。まで（。信じ（。て（。あげて（。ください。)",
+		"thinking": "単に（。眺める（。のではなく（。、目（。には（。見えない（。真実（。の（。かたちを「見（。抜（。く（。シー）者（。）」。（。あなたの（。中（。の（。澄（。み（。渡（。った（。瞳を（。、最後（。まで（。信じ（。て（。あげて（。ください。",
+		"aftertaste": "夢は、現実が自らの限界を思い知ったときに、そっと差し出す贈り物です。",
+		"example": "The entire experience felt like a strange seer from which he couldn't wake up.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "see",
+					"meaning": "+ -er"
+				}
+			],
+			"points": [
+				"現実は、ただ一つの夢であり、夢は、無数の現実であるのかもしれません。"
+			]
+		},
+		"part_of_speech": "noun"
 	}
 ];
