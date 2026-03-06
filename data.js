@@ -213203,5 +213203,61 @@ const WORDS = [
 			]
 		},
 		"part_of_speech": "noun"
+	},
+	{
+		"id": "node_connect_v",
+		"word": "node",
+		"meaning": "節（。ふし（。）、交点、ノード",
+		"era": "16th Century",
+		"etymology": {
+			"components": [
+				"nodus (knot, literal: 'knot')"
+			],
+			"original_statement": "From 16th Century nodus (knot, literal: 'knot')."
+		},
+		"concept": "A point in a network or diagram at which lines or pathways intersect or branch (エナジーが、一（。点（。に「峻（。烈（。に（。絡（。み（。合った（。ノード）』、至（。宝の（。る（。結（。び（。目（。（。その（。重厚（。な（。る（。沈黙を、魂で、誇り（。高く、受け（。止めて（。ください。)",
+		"thinking": "エナジーが、一（。点（。に「峻（。烈（。に（。絡（。み（。合った（。ノード）』、至（。宝の（。る（。結（。び（。目（。（。その（。重厚（。な（。る（。沈黙を、魂で、誇り（。高く、受け（。止めて（。ください。",
+		"aftertaste": "中継することは、自分を消すことではない。自分という名の光を通過させることで、元の光にはなかった新しい色彩を世界へと供給する、至高のる創造行為なのですよ。",
+		"example": "The city's financial district served as the primary node for international trade, connecting markets across multiple continents in real-time.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "nodus",
+					"meaning": "knot, literal: 'knot'"
+				}
+			],
+			"points": [
+				"網目を視ることは、全体を視ること。一つひとつの繋がりが織りなす圧倒的なる美しさに、ただ魂で、感謝を捧げるのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "relay_connect_v",
+		"word": "relay",
+		"meaning": "中継、リレー",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"re- (back) + laier (to leave, literal: 'releaving hounds')"
+			],
+			"original_statement": "From 14th Century re- (back) + laier (to leave, literal: 'releaving hounds')."
+		},
+		"concept": "A group of people or animals engaged in a task or activity for a fixed period of time and then replaced by a similar group (想（。いを（。、再び（。リ）「託（。し（。、繋（。ぐ（。リレー）』至高の（。る（。る（。連（。鎖（。（。その（。眩（。し（。い（。ほどに（。る（。る（。物（。語（。を、全（。身で、引き（。受（。け（。な（。さい。)",
+		"thinking": "想（。いを（。、再び（。リ）「託（。し（。、繋（。ぐ（。リレー）』至高の（。る（。る（。連（。鎖（。（。その（。眩（。し（。い（。ほどに（。る（。る（。物（。語（。を、全（。身で、引き（。受（。け（。な（。さい。",
+		"aftertaste": "中継することは、自分を消すことではない。自分という名の光を通過させることで、元の光にはなかった新しい色彩を世界へと供給する、至高のる創造行為なのですよ。",
+		"example": "The city's financial district served as the primary relay for international trade, connecting markets across multiple continents in real-time.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "re-",
+					"meaning": "back) + laier (to leave, literal: 'releaving hounds'"
+				}
+			],
+			"points": [
+				"網目を視ることは、全体を視ること。一つひとつの繋がりが織りなす圧倒的なる美しさに、ただ魂で、感謝を捧げるのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
 	}
 ];
