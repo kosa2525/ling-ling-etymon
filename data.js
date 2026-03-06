@@ -197147,5 +197147,90 @@ const WORDS = [
 			]
 		},
 		"part_of_speech": "noun"
+	},
+	{
+		"id": "liminal_threshold_fixed",
+		"word": "Liminal",
+		"meaning": "境界の、しきい値の、中間の、潜在的な",
+		"era": "19th Century Latin limen",
+		"etymology": {
+			"components": [
+				"limen (threshold)"
+			],
+			"original_statement": "From Latin liminalis, from limen (threshold, lintel, sill)."
+		},
+		"concept": "Between states (「過去（past）」を 離れ 「未来（future）」へと 到る 前の 「静止（stillness）」した 「空白」の 只中（ただなか）に 在ること)",
+		"thinking": "定義されること（特定の役割）を 拒絶し、あらゆる 可能性が 揺らいでいる、極めて 繊細で、しかし 強大な エネルギーを 秘めた 境界の 状態. 語源は「しきい、門の横木」. それは 漂う（サスペンド）すること ではなく 全く新しい 自己へと 生まれ変わるための 聖なる「孵化（ふか）」の プロセスです.",
+		"aftertaste": "境界の静寂. 今、どちらにも 行けずに 立ち止まっている 自分を 責めないで. その「リミナル（境界的な）」な 空白の中にこそ あなたの 魂が 真に 飛躍するための 聖なる インスピレーションが 眠っているのだから.",
+		"example": "The dawn and dusk are liminal times of the day, when the world seems to belong to neither day nor night.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "el-",
+					"meaning": "to bend (possible for limen)"
+				}
+			],
+			"points": [
+				"eliminate（排除する：しきいの外へ出す）と同じ。境界線を引く力。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "initiate_doorway",
+		"word": "Initiate",
+		"meaning": "始める、開始する、伝授する、(秘密の会などに)入会させる",
+		"era": "16th Century Latin in- + ire",
+		"etymology": {
+			"components": [
+				"in- (into)",
+				"ire (to go)"
+			],
+			"original_statement": "From Latin initiatus, past participle of initiare (to begin, originate), from initium (a beginning), from in- (into) + ire (to go)."
+		},
+		"concept": "Going into (「未知（unknown）」の 内部へと 「自ら（self）」 踏み込み 「真理」の 「一部」に なること)",
+		"thinking": "単なる スタート ではなく、秘められた 知識や 共同体の 核へと 迎え入れられ、自分自身の アイデンティティが 更新される、重厚な 儀式的 アクション. 語源は「中へ行く」. それは 外側から 眺める 傍観者（オブザーバー）を 卒業し 世界の 意志の 担い手へと 変容しようとする 聖なる「覚醒」の 表現です.",
+		"aftertaste": "未知への一歩. 「自分には まだ早い」と 謙遜（けんそん）しないで. あなたが 自らの 意思で「イニシエイト（開始/伝授）」し その扉を 叩くとき 隠されていた 知恵の 全ては あなたの 元へと 流れ出してくるのだから.",
+		"example": "The program was designed to initiate students into the complex world of quantum computing.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ei-",
+					"meaning": "to go"
+				}
+			],
+			"points": [
+				"exit（出口）や transit（通過）と同じ。移動することそのものが、存在の証。"
+			]
+		},
+		"part_of_speech": "verb"
+	},
+	{
+		"id": "vestibule_doorway",
+		"word": "Vestibule",
+		"meaning": "玄関の間、前庭、(解剖)前庭",
+		"era": "17th Century Latin vestibulum",
+		"etymology": {
+			"components": [
+				"vestis (garment, clothing)"
+			],
+			"original_statement": "From Latin vestibulum (forecourt, entrance court), possibly related to vestis (clothing, garment), meaning 'the place where one puts on or takes off clothes'."
+		},
+		"concept": "Place of garments (「外面（outside mask）」を 「脱ぎ捨て（take off）」 「本来の自分（true self）」に 戻るための 「準備の間」)",
+		"thinking": "メインの 空間へと 入る前に 自分の 状態を 整え（チューニング）、外の 喧騒を 振り払い（浄化）、静寂へと 心を 移し替えるための、聖なる「猶予（ゆうよ）」の 空間. 語源は「衣服、身なり」. それは 飾る ことではなく むしろ 余計なものを 脱ぎ捨て 本質へと 戻るための 聖なる「リセット」の アクションです.",
+		"aftertaste": "浄化の空間. すぐに 結論を 出そうと 急がないで. あなた自身の 心の「ヴェスティビュール（前庭）」で じっくりと 自分の想いを 整理し 本来の 自分を 取り戻してから 進めばいいのだから.",
+		"example": "He waited in the quiet vestibule, gathering his thoughts before entering the grand ballroom.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "wes-",
+					"meaning": "to dress"
+				}
+			],
+			"points": [
+				"vest（ベスト：衣服）や invest（投資する：服を着せる）と同じ。存在を纏う（まとう）こと。"
+			]
+		},
+		"part_of_speech": "noun"
 	}
 ];
