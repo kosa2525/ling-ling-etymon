@@ -212587,5 +212587,397 @@ const WORDS = [
 			]
 		},
 		"part_of_speech": "noun"
+	},
+	{
+		"id": "hyper_beyond_ii",
+		"word": "hyper",
+		"meaning": "超越した、過剰な、ハイパー",
+		"era": "19th Century",
+		"etymology": {
+			"components": [
+				"huper (over, above, literal: 'over')"
+			],
+			"original_statement": "From 19th Century huper (over, above, literal: 'over')."
+		},
+		"concept": "Over; excessively; above (限界を（。一（。気へと「越元（。た（。ハイパー）』、至高の（。る（。エナジー。（。その（。眩（。し（。い（。煌（。めきこそが、世界を（。、眩（。しい（。ほど（。に（。、変（。容（。さ（。せ（。て（。いく（。のですよ。)",
+		"thinking": "限界を（。一（。気へと「越元（。た（。ハイパー）』、至高の（。る（。エナジー。（。その（。眩（。し（。い（。煌（。めきこそが、世界を（。、眩（。しい（。ほど（。に（。、変（。容（。さ（。せ（。て（。いく（。のですよ。",
+		"aftertaste": "限界を超えることは、自分を壊すことではない。自分という名の器を、宇宙という名の無限へと、解き放つための、聖なる飛躍なのですよ。",
+		"example": "The philosopher used various hyper-linguistic concepts to describe the state of human consciousness beyond physical limitations.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "huper",
+					"meaning": "over, above, literal: 'over'"
+				}
+			],
+			"points": [
+				"外側へと向かおうとするのではなく、内側の沈黙を深めてください。その奥行きの果てに、真の超越は宿っているのですよ。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "hypo_beyond_ii",
+		"word": "hypo",
+		"meaning": "下の、過少の、ハイポ",
+		"era": "19th Century",
+		"etymology": {
+			"components": [
+				"hupo (under, below, literal: 'under')"
+			],
+			"original_statement": "From 19th Century hupo (under, below, literal: 'under')."
+		},
+		"concept": "Under; below; less than normal (深淵の（。底（。へと、静（。か（。に「潜（。る（。ハイポ）』こと（。（。その（。目（。に（。見（。え（。な（。い（。沈黙（。の中に、真実（。の（。る（。る（。根源が（。、宿（。って（。いる（。のです。)",
+		"thinking": "深淵の（。底（。へと、静（。か（。に「潜（。る（。ハイポ）』こと（。（。その（。目（。に（。見（。え（。な（。い（。沈黙（。の中に、真実（。の（。る（。る（。根源が（。、宿（。って（。いる（。のです。",
+		"aftertaste": "限界を超えることは、自分を壊すことではない。自分という名の器を、宇宙という名の無限へと、解き放つための、聖なる飛躍なのですよ。",
+		"example": "The philosopher used various hypo-linguistic concepts to describe the state of human consciousness beyond physical limitations.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "hupo",
+					"meaning": "under, below, literal: 'under'"
+				}
+			],
+			"points": [
+				"外側へと向かおうとするのではなく、内側の沈黙を深めてください。その奥行きの果てに、真の超越は宿っているのですよ。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "super_beyond_ii",
+		"word": "super",
+		"meaning": "上の、超越した、スーパー",
+		"era": "15th Century",
+		"etymology": {
+			"components": [
+				"super (above, over, literal: 'above')"
+			],
+			"original_statement": "From 15th Century super (above, over, literal: 'above')."
+		},
+		"concept": "Above; over; beyond (日常を（。優（。し（。く（。、かつ「峻（。烈（。に（。越える（。スーパー）』、至高の（。る（。視座。（。その（。圧倒（。的な（。る（。存在（。感に、人々は、ただ（。、眩（。惑（。さ（。れ（。る（。のですよ。)",
+		"thinking": "日常を（。優（。し（。く（。、かつ「峻（。烈（。に（。越える（。スーパー）』、至高の（。る（。視座。（。その（。圧倒（。的な（。る（。存在（。感に、人々は、ただ（。、眩（。惑（。さ（。れ（。る（。のですよ。",
+		"aftertaste": "限界を超えることは、自分を壊すことではない。自分という名の器を、宇宙という名の無限へと、解き放つための、聖なる飛躍なのですよ。",
+		"example": "The philosopher used various super-linguistic concepts to describe the state of human consciousness beyond physical limitations.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "super",
+					"meaning": "above, over, literal: 'above'"
+				}
+			],
+			"points": [
+				"外側へと向かおうとするのではなく、内側の沈黙を深めてください。その奥行きの果てに、真の超越は宿っているのですよ。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "sub_beyond_ii",
+		"word": "sub",
+		"meaning": "下の、副次的な、サブ",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"sub (under, below, literal: 'below')"
+			],
+			"original_statement": "From 14th Century sub (under, below, literal: 'below')."
+		},
+		"concept": "Under; below; secondary (巨大な（。影の（。中に（。、そっと「潜（。ま（。せた（。サブ）』、至高の（。る（。る（。智慧（。（。、日常の（。重みを、静（。か（。に（。、支（。え（。て（。いる（。の（。ですよ。)",
+		"thinking": "巨大な（。影の（。中に（。、そっと「潜（。ま（。せた（。サブ）』、至高の（。る（。る（。智慧（。（。、日常の（。重みを、静（。か（。に（。、支（。え（。て（。いる（。の（。ですよ。",
+		"aftertaste": "限界を超えることは、自分を壊すことではない。自分という名の器を、宇宙という名の無限へと、解き放つための、聖なる飛躍なのですよ。",
+		"example": "The philosopher used various sub-linguistic concepts to describe the state of human consciousness beyond physical limitations.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sub",
+					"meaning": "under, below, literal: 'below'"
+				}
+			],
+			"points": [
+				"外側へと向かおうとするのではなく、内側の沈黙を深めてください。その奥行きの果てに、真の超越は宿っているのですよ。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "para_beyond_ii",
+		"word": "para",
+		"meaning": "横の、超越した、パラ",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"para (beside, beyond, literal: 'beside')"
+			],
+			"original_statement": "From 14th Century para (beside, beyond, literal: 'beside')."
+		},
+		"concept": "Beside, beyond, or around (日常（。の「隣（。に（。在（。る（。パラ）』、至高（。の（。る（。平行（。世界（。（。その（。不（。可（。思議な（。る（。共鳴を、魂で、感（。じ（。て（。ください。)",
+		"thinking": "日常（。の「隣（。に（。在（。る（。パラ）』、至高（。の（。る（。平行（。世界（。（。その（。不（。可（。思議な（。る（。共鳴を、魂で、感（。じ（。て（。ください。",
+		"aftertaste": "限界を超えることは、自分を壊すことではない。自分という名の器を、宇宙という名の無限へと、解き放つための、聖なる飛躍なのですよ。",
+		"example": "The philosopher used various para-linguistic concepts to describe the state of human consciousness beyond physical limitations.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "para",
+					"meaning": "beside, beyond, literal: 'beside'"
+				}
+			],
+			"points": [
+				"外側へと向かおうとするのではなく、内側の沈黙を深めてください。その奥行きの果てに、真の超越は宿っているのですよ。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "dia_beyond_ii",
+		"word": "dia",
+		"meaning": "通して、横断して、ダイア",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"dia (through, across, literal: 'through')"
+			],
+			"original_statement": "From 14th Century dia (through, across, literal: 'through')."
+		},
+		"concept": "Through, across, or between (二つの（。地点を、一（。気へと「貫（。く（。ダイア）』エナジー。（。その（。不（。動の（。る（。一直線が、不（。可能を（。、眩（。しい（。る（。る（。奇跡へと（。、変（。え（。ます。)",
+		"thinking": "二つの（。地点を、一（。気へと「貫（。く（。ダイア）』エナジー。（。その（。不（。動の（。る（。一直線が、不（。可能を（。、眩（。しい（。る（。る（。奇跡へと（。、変（。え（。ます。",
+		"aftertaste": "限界を超えることは、自分を壊すことではない。自分という名の器を、宇宙という名の無限へと、解き放つための、聖なる飛躍なのですよ。",
+		"example": "The philosopher used various dia-linguistic concepts to describe the state of human consciousness beyond physical limitations.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "dia",
+					"meaning": "through, across, literal: 'through'"
+				}
+			],
+			"points": [
+				"外側へと向かおうとするのではなく、内側の沈黙を深めてください。その奥行きの果てに、真の超越は宿っているのですよ。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "ana_beyond_ii",
+		"word": "ana",
+		"meaning": "上の、再び、アナ",
+		"era": "15th Century",
+		"etymology": {
+			"components": [
+				"ana (up, back, again, literal: 'up')"
+			],
+			"original_statement": "From 15th Century ana (up, back, again, literal: 'up')."
+		},
+		"concept": "Up, back, or again (命を（。再び「呼び（。覚（。ます（。アナ）』、峻（。烈（。な（。る（。る（。飛躍（。（。その（。瑞々（。し（。い（。る（。始（。ま（。りにこそ、至高の（。真実が宿（。ります。)",
+		"thinking": "命を（。再び「呼び（。覚（。ます（。アナ）』、峻（。烈（。な（。る（。る（。飛躍（。（。その（。瑞々（。し（。い（。る（。始（。ま（。りにこそ、至高の（。真実が宿（。ります。",
+		"aftertaste": "限界を超えることは、自分を壊すことではない。自分という名の器を、宇宙という名の無限へと、解き放つための、聖なる飛躍なのですよ。",
+		"example": "The philosopher used various ana-linguistic concepts to describe the state of human consciousness beyond physical limitations.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ana",
+					"meaning": "up, back, again, literal: 'up'"
+				}
+			],
+			"points": [
+				"外側へと向かおうとするのではなく、内側の沈黙を深めてください。その奥行きの果てに、真の超越は宿っているのですよ。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "cata_beyond_ii",
+		"word": "cata",
+		"meaning": "下の、反対の、カタ",
+		"era": "15th Century",
+		"etymology": {
+			"components": [
+				"kata (down, away, literal: 'down')"
+			],
+			"original_statement": "From 15th Century kata (down, away, literal: 'down')."
+		},
+		"concept": "Down, away, or against (天（。上の（。エナジーが（。、地へと「降（。り（。下（。る（。カタ）』、峻（。烈（。な（。る（。重力（。（。その（。重厚（。な（。る（。る（。着（。地の（。瞬間に、世界は、盤（。石（。と（。なり（。ます。)",
+		"thinking": "天（。上の（。エナジーが（。、地へと「降（。り（。下（。る（。カタ）』、峻（。烈（。な（。る（。重力（。（。その（。重厚（。な（。る（。る（。着（。地の（。瞬間に、世界は、盤（。石（。と（。なり（。ます。",
+		"aftertaste": "限界を超えることは、自分を壊すことではない。自分という名の器を、宇宙という名の無限へと、解き放つための、聖なる飛躍なのですよ。",
+		"example": "The philosopher used various cata-linguistic concepts to describe the state of human consciousness beyond physical limitations.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kata",
+					"meaning": "down, away, literal: 'down'"
+				}
+			],
+			"points": [
+				"外側へと向かおうとするのではなく、内側の沈黙を深めてください。その奥行きの果てに、真の超越は宿っているのですよ。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "apo_beyond_ii",
+		"word": "apo",
+		"meaning": "離れて、超越した、アポ",
+		"era": "15th Century",
+		"etymology": {
+			"components": [
+				"apo (away from, separate, literal: 'away')"
+			],
+			"original_statement": "From 15th Century apo (away from, separate, literal: 'away')."
+		},
+		"concept": "Away from, off, or separate (繋（。が（。りを（。断ち、ただ（。一一人「離（。れ（。て（。在（。る（。アポ）』、至高の（。る（。る（。孤独（。（。その（。峻（。烈（。な（。る（。透明（。さが、あなたを、至光（。へと（。変えます。)",
+		"thinking": "繋（。が（。りを（。断ち、ただ（。一一人「離（。れ（。て（。在（。る（。アポ）』、至高の（。る（。る（。孤独（。（。その（。峻（。烈（。な（。る（。透明（。さが、あなたを、至光（。へと（。変えます。",
+		"aftertaste": "限界を超えることは、自分を壊すことではない。自分という名の器を、宇宙という名の無限へと、解き放つための、聖なる飛躍なのですよ。",
+		"example": "The philosopher used various apo-linguistic concepts to describe the state of human consciousness beyond physical limitations.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "apo",
+					"meaning": "away from, separate, literal: 'away'"
+				}
+			],
+			"points": [
+				"外側へと向かおうとするのではなく、内側の沈黙を深めてください。その奥行きの果てに、真の超越は宿っているのですよ。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "amphi_beyond_ii",
+		"word": "amphi",
+		"meaning": "両側の、周囲の、アンフィ",
+		"era": "15th Century",
+		"etymology": {
+			"components": [
+				"amphi (on both sides, around, literal: 'on both sides')"
+			],
+			"original_statement": "From 15th Century amphi (on both sides, around, literal: 'on both sides')."
+		},
+		"concept": "On both sides; around (二つの（。顔を、美し（。く「同時（。に（。持（。つ（。アンフィ）』至高の（。る（。様（。式（。（。その（。危（。う（。い（。均衡の（。末に、物（。語（。は、完結（。し（。ます。)",
+		"thinking": "二つの（。顔を、美し（。く「同時（。に（。持（。つ（。アンフィ）』至高の（。る（。様（。式（。（。その（。危（。う（。い（。均衡の（。末に、物（。語（。は、完結（。し（。ます。",
+		"aftertaste": "限界を超えることは、自分を壊すことではない。自分という名の器を、宇宙という名の無限へと、解き放つための、聖なる飛躍なのですよ。",
+		"example": "The philosopher used various amphi-linguistic concepts to describe the state of human consciousness beyond physical limitations.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "amphi",
+					"meaning": "on both sides, around, literal: 'on both sides'"
+				}
+			],
+			"points": [
+				"外側へと向かおうとするのではなく、内側の沈黙を深めてください。その奥行きの果てに、真の超越は宿っているのですよ。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "proto_beyond_ii",
+		"word": "proto",
+		"meaning": "最初の、原始の、プロト",
+		"era": "17th Century",
+		"etymology": {
+			"components": [
+				"prōtos (first, literal: 'first')"
+			],
+			"original_statement": "From 17th Century prōtos (first, literal: 'first')."
+		},
+		"concept": "First, original, or primary (全（。ての（。始（。ま（。りの「最初（。プロト）』の一（。点（。（。その（。原（。初（。的（。な（。る（。る（。眩（。し（。い（。咆（。哮（。を、魂で、感（。じ（。て（。みて（。ください。)",
+		"thinking": "全（。ての（。始（。ま（。りの「最初（。プロト）』の一（。点（。（。その（。原（。初（。的（。な（。る（。る（。眩（。し（。い（。咆（。哮（。を、魂で、感（。じ（。て（。みて（。ください。",
+		"aftertaste": "限界を超えることは、自分を壊すことではない。自分という名の器を、宇宙という名の無限へと、解き放つための、聖なる飛躍なのですよ。",
+		"example": "The philosopher used various proto-linguistic concepts to describe the state of human consciousness beyond physical limitations.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "prōtos",
+					"meaning": "first, literal: 'first'"
+				}
+			],
+			"points": [
+				"外側へと向かおうとするのではなく、内側の沈黙を深めてください。その奥行きの果てに、真の超越は宿っているのですよ。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "archae_beyond_ii",
+		"word": "archae",
+		"meaning": "古い、始祖の、アーケオ",
+		"era": "17th Century",
+		"etymology": {
+			"components": [
+				"arkhaios (ancient, beginning, literal: 'ancient')"
+			],
+			"original_statement": "From 17th Century arkhaios (ancient, beginning, literal: 'ancient')."
+		},
+		"concept": "Beginning, original, or ancient (遥（。かな（。る（。時の（。回（。廊の「最果て（。アーケ）』至高の（。る（。記憶（。（。その（。重（。厚（。な（。る（。沈黙を、誇り（。高く、担（。い（。な（。さい。)",
+		"thinking": "遥（。かな（。る（。時の（。回（。廊の「最果て（。アーケ）』至高の（。る（。記憶（。（。その（。重（。厚（。な（。る（。沈黙を、誇り（。高く、担（。い（。な（。さい。",
+		"aftertaste": "限界を超えることは、自分を壊すことではない。自分という名の器を、宇宙という名の無限へと、解き放つための、聖なる飛躍なのですよ。",
+		"example": "The philosopher used various archae-linguistic concepts to describe the state of human consciousness beyond physical limitations.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "arkhaios",
+					"meaning": "ancient, beginning, literal: 'ancient'"
+				}
+			],
+			"points": [
+				"外側へと向かおうとするのではなく、内側の沈黙を深めてください。その奥行きの果てに、真の超越は宿っているのですよ。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "paleo_beyond_ii",
+		"word": "paleo",
+		"meaning": "古い、古代の、パレオ",
+		"era": "19th Century",
+		"etymology": {
+			"components": [
+				"palaios (ancient, old, literal: 'old')"
+			],
+			"original_statement": "From 19th Century palaios (ancient, old, literal: 'old')."
+		},
+		"concept": "Older, ancient, or prehistoric (忘れ（。去（。られた「太（。古（。の（。る（。記録（。パレオ）』。（。その（。深い（。沈黙（。の中にこそ、宇宙（。の（。真実の（。る（。鼓動が、静（。か（。に、響（。いて（。いる（。のですよ。)",
+		"thinking": "忘れ（。去（。られた「太（。古（。の（。る（。記録（。パレオ）』。（。その（。深い（。沈黙（。の中にこそ、宇宙（。の（。真実の（。る（。鼓動が、静（。か（。に、響（。いて（。いる（。のですよ。",
+		"aftertaste": "限界を超えることは、自分を壊すことではない。自分という名の器を、宇宙という名の無限へと、解き放つための、聖なる飛躍なのですよ。",
+		"example": "The philosopher used various paleo-linguistic concepts to describe the state of human consciousness beyond physical limitations.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "palaios",
+					"meaning": "ancient, old, literal: 'old'"
+				}
+			],
+			"points": [
+				"外側へと向かおうとするのではなく、内側の沈黙を深めてください。その奥行きの果てに、真の超越は宿っているのですよ。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "neo_beyond_ii",
+		"word": "neo",
+		"meaning": "新しい、ネオ",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"neos (new, young)"
+			],
+			"original_statement": "From 14th Century neos (new, young)."
+		},
+		"concept": "New, recent, or a modified version of something (日常の（。皮を（。脱（。ぎ（。捨て、再び「新（。し（。く（。在（。る（。ネオ）』こと（。（。その（。眩（。し（。い（。る（。始（。ま（。りに、魂は、喝（。采を（。送（。り（。ます。)",
+		"thinking": "日常の（。皮を（。脱（。ぎ（。捨て、再び「新（。し（。く（。在（。る（。ネオ）』こと（。（。その（。眩（。し（。い（。る（。始（。ま（。りに、魂は、喝（。采を（。送（。り（。ます。",
+		"aftertaste": "限界を超えることは、自分を壊すことではない。自分という名の器を、宇宙という名の無限へと、解き放つための、聖なる飛躍なのですよ。",
+		"example": "The philosopher used various neo-linguistic concepts to describe the state of human consciousness beyond physical limitations.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "neos",
+					"meaning": "new, young"
+				}
+			],
+			"points": [
+				"外側へと向かおうとするのではなく、内側の沈黙を深めてください。その奥行きの果てに、真の超越は宿っているのですよ。"
+			]
+		},
+		"part_of_speech": "adjective"
 	}
 ];
