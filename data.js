@@ -196086,5 +196086,89 @@ const WORDS = [
 			]
 		},
 		"part_of_speech": "verb"
+	},
+	{
+		"id": "sericin_silk",
+		"word": "Sericin",
+		"meaning": "セリシン、絹膠(けんこう)、シルクの光沢成分",
+		"era": "19th Century Greek serikos",
+		"etymology": {
+			"components": [
+				"serikos (silken)"
+			],
+			"original_statement": "From Greek serikos (of silk), from seres (the Chinese, literally 'silk people')."
+		},
+		"concept": "Silk glue (「絆（bond）」を 司る 聖なる 「膠（glue）」 として 繊細な 命の糸を 「守り、輝かせる」こと)",
+		"thinking": "シルクの繊維を包み込み、保護し、あの独特の深みのある光沢を与える、目に見えない「慈愛のベール」. 語源は「シルクの民（中国）」. それは 表面的な美しさではなく 芯にある強さを 守り抜き、世界に向けて 最高の色を 放たせるための 献身的な 存在です. 守護は、輝きです.",
+		"aftertaste": "守護のベール. 自分の繊細な 部分を 恥じないで. あなたの内側にある「セリシン（絹膠）」が その繊細さを 守り抜き いつか 世界を 魅了する 本物の 輝きへと 変えてくれるのだから.",
+		"example": "Sericin is a natural protein produced by silkworms that helps bind the silk fibers together during cocoon formation.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ser-",
+					"meaning": "silk (non-IE)"
+				}
+			],
+			"points": [
+				"sericulture（養蚕）の語源。絹の道（シルクロード）が運んだ、知性の手触り。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "velvety_softness",
+		"word": "Velvety",
+		"meaning": "ベルベットのような、滑らかな、(ワインなどが)口当たりのよい",
+		"era": "16th Century Latin villus",
+		"etymology": {
+			"components": [
+				"villus (shaggy hair, tuft of hair)"
+			],
+			"original_statement": "From Old French velu (shaggy, hairy), from Latin villus (shaggy hair, tuft of hair, nap of cloth)."
+		},
+		"concept": "Like shaggy hair (「微細な（microscopic）」 柔らかさが 重なり合い 「触れ合う（touch）」 全てのものを 「優しく包み込む」こと)",
+		"thinking": "硬い衝突を拒み、あらゆる刺激を 吸収して 穏やかな 喜びに変えてしまう、圧倒的な「受容性」の 質感. 語源は「むくむくした毛」. それは 物理的な手触りだけでなく 誰かの 過ちや 孤独を さりげなく 包み込んでしまう 慈悲深い 精神の あり方の 隠喩でもあります.",
+		"aftertaste": "受容の優しさ. 尖（とが）った心で 誰かを 傷つけないで. あなたが「ヴェルヴェッティ（滑らかな）」な 寛容さを 持つとき どんな冷たい言葉も 聖なる 癒やしに 変わってゆくのだから.",
+		"example": "The wine had a rich, velvety texture that lingered pleasantly on the palate.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "wel-",
+					"meaning": "to tear, pull (possible root)"
+				}
+			],
+			"points": [
+				"villus（じゅう毛）や villi（小腸の突起）と同じ。吸収し、同化する生命の根源。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "downy_softness",
+		"word": "Downy",
+		"meaning": "うぶ毛のような、ふわふわした、柔らかな",
+		"era": "16th Century Old Norse dunn",
+		"etymology": {
+			"components": [
+				"dunn (down, feather)"
+			],
+			"original_statement": "From Old Norse dunn (down, plumage), related to German Daune."
+		},
+		"concept": "Like down (「重力（gravity）」を 忘れたかのような 「軽やかさ（lightness）」で 命を 「温める（warm up）」 慈しみの羽装)",
+		"thinking": "この世界に生まれたばかりの、無垢で最も傷つきやすい時期を支える、神様からの「最初の贈り物」. 語源は「羽毛」. それは 強さを誇示するのではなく 弱さを そのまま 肯定し 守り抜きための 宇宙の 繊細な 配慮です. 柔らかさは、最強の防壁です.",
+		"aftertaste": "無垢な防壁. 強くあろうとして 鎧を固めなくていい. あなたの「ダウニー（うぶ毛のような）」な 感受性を 大切にすることで あなたは 真実の 輝きを 守り抜くことができるのだから.",
+		"example": "The newborn ducklings were covered in a layer of soft, yellow, downy feathers.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "unknown",
+					"meaning": "none"
+				}
+			],
+			"points": [
+				"ダウンジャケット（down jacket）の語源。命の火を絶やさない、極上の断熱材。"
+			]
+		},
+		"part_of_speech": "adjective"
 	}
 ];
