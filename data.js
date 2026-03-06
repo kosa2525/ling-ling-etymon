@@ -212363,5 +212363,173 @@ const WORDS = [
 			]
 		},
 		"part_of_speech": "noun"
+	},
+	{
+		"id": "whirl_move_ii",
+		"word": "whirl",
+		"meaning": "渦巻、回転、ワール",
+		"era": "15th Century",
+		"etymology": {
+			"components": [
+				"Middle English whirlen (to spin)"
+			],
+			"original_statement": "From 15th Century Middle English whirlen (to spin)."
+		},
+		"concept": "Move or cause to move rapidly round and round (流（。れ（。る（。時間を、美し（。い（。螺旋（。へと（。変える（。ワール）』、至高の（。る（。舞（。い（。（。その（。一一点（。の（。不（。均（。一（。な（。る（。煌（。めきを、ただ、魂で、感（。じ（。て（。いて（。ください。)",
+		"thinking": "流（。れ（。る（。時間を、美し（。い（。螺旋（。へと（。変える（。ワール）』、至高の（。る（。舞（。い（。（。その（。一一点（。の（。不（。均（。一（。な（。る（。煌（。めきを、ただ、魂で、感（。じ（。て（。いて（。ください。",
+		"aftertaste": "滑るように生きることは、逃げることではありません。世界との摩擦を最小に抑え、自らの純粋なるエナジーを、どこまで遠くへ運べるかという挑戦なのですよ。",
+		"example": "The eagle continued to whirl effortlessly above the mountain peaks, using the thermal currents to maintain its high vantage point.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "Middle",
+					"meaning": "English whirlen (to spin"
+				}
+			],
+			"points": [
+				"天空を舞う鳥のように、自らの魂を高く持ち上げて。その視座の高さが、日常の些細な苦悩を、眩しい喜びに変えてくれるのですよ。"
+			]
+		},
+		"part_of_speech": "verb"
+	},
+	{
+		"id": "glide_move_ii",
+		"word": "glide",
+		"meaning": "滑る、滑走、グライド",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"glidan (to slip, slide, literal: 'smooth movement')"
+			],
+			"original_statement": "From Old English glidan (to slip, slide, literal: 'smooth movement')."
+		},
+		"concept": "Move with a smooth continuous motion, typically with little noise",
+		"thinking": "動きとは、目的地にたどり着くための手段ではありません。その一瞬一瞬の変化を、魂で享受するための、聖なる旅路の形式なのですよ。",
+		"aftertaste": "滑るように生きることは、逃げることではありません。世界との摩擦を最小に抑え、自らの純粋なるエナジーを、どこまで遠くへ運べるかという挑戦なのですよ。",
+		"example": "The eagle continued to glide effortlessly above the mountain peaks, using the thermal currents to maintain its high vantage point.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "glidan",
+					"meaning": "to slip, slide, literal: 'smooth movement'"
+				}
+			],
+			"points": [
+				"天空を舞う鳥のように、自らの魂を高く持ち上げて。その視座の高さが、日常の些細な苦悩を、眩しい喜びに変えてくれるのですよ。"
+			]
+		},
+		"part_of_speech": "verb"
+	},
+	{
+		"id": "rush_move_ii",
+		"word": "rush",
+		"meaning": "突進、ラッシュ",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"Middle English russhen (to move with speed)"
+			],
+			"original_statement": "From 14th Century Middle English russhen (to move with speed)."
+		},
+		"concept": "Move with urgent haste",
+		"thinking": "動きとは、目的地にたどり着くための手段ではありません。その一瞬一瞬の変化を、魂で享受するための、聖なる旅路の形式なのですよ。",
+		"aftertaste": "滑るように生きることは、逃げることではありません。世界との摩擦を最小に抑え、自らの純粋なるエナジーを、どこまで遠くへ運べるかという挑戦なのですよ。",
+		"example": "The eagle continued to rush effortlessly above the mountain peaks, using the thermal currents to maintain its high vantage point.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "Middle",
+					"meaning": "English russhen (to move with speed"
+				}
+			],
+			"points": [
+				"天空を舞う鳥のように、自らの魂を高く持ち上げて。その視座の高さが、日常の些細な苦悩を、眩しい喜びに変えてくれるのですよ。"
+			]
+		},
+		"part_of_speech": "verb"
+	},
+	{
+		"id": "slip_move_ii",
+		"word": "slip",
+		"meaning": "滑る、スリップ",
+		"era": "13th Century",
+		"etymology": {
+			"components": [
+				"Middle English slippen (to glide, slide)"
+			],
+			"original_statement": "From 13th Century Middle English slippen (to glide, slide)."
+		},
+		"concept": "Lose one's footing and slide unintentionally for a short distance",
+		"thinking": "動きとは、目的地にたどり着くための手段ではありません。その一瞬一瞬の変化を、魂で享受するための、聖なる旅路の形式なのですよ。",
+		"aftertaste": "滑るように生きることは、逃げることではありません。世界との摩擦を最小に抑え、自らの純粋なるエナジーを、どこまで遠くへ運べるかという挑戦なのですよ。",
+		"example": "The eagle continued to slip effortlessly above the mountain peaks, using the thermal currents to maintain its high vantage point.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "Middle",
+					"meaning": "English slippen (to glide, slide"
+				}
+			],
+			"points": [
+				"天空を舞う鳥のように、自らの魂を高く持ち上げて。その視座の高さが、日常の些細な苦悩を、眩しい喜びに変えてくれるのですよ。"
+			]
+		},
+		"part_of_speech": "verb"
+	},
+	{
+		"id": "slide_move_ii",
+		"word": "slide",
+		"meaning": "滑る、削（。、スライド",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"slidan (to glide, slip)"
+			],
+			"original_statement": "From Old English slidan (to glide, slip)."
+		},
+		"concept": "Move along a smooth surface while maintaining continuous contact with it",
+		"thinking": "動きとは、目的地にたどり着くための手段ではありません。その一瞬一瞬の変化を、魂で享受するための、聖なる旅路の形式なのですよ。",
+		"aftertaste": "滑るように生きることは、逃げることではありません。世界との摩擦を最小に抑え、自らの純粋なるエナジーを、どこまで遠くへ運べるかという挑戦なのですよ。",
+		"example": "The eagle continued to slide effortlessly above the mountain peaks, using the thermal currents to maintain its high vantage point.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "slidan",
+					"meaning": "to glide, slip"
+				}
+			],
+			"points": [
+				"天空を舞う鳥のように、自らの魂を高く持ち上げて。その視座の高さが、日常の些細な苦悩を、眩しい喜びに変えてくれるのですよ。"
+			]
+		},
+		"part_of_speech": "verb"
+	},
+	{
+		"id": "roll_move_ii",
+		"word": "roll",
+		"meaning": "転がる、ロール",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"rotulare (to roll, literal: 'little wheel')"
+			],
+			"original_statement": "From 14th Century rotulare (to roll, literal: 'little wheel')."
+		},
+		"concept": "Move by turning over and over on an axis",
+		"thinking": "動きとは、目的地にたどり着くための手段ではありません。その一瞬一瞬の変化を、魂で享受するための、聖なる旅路の形式なのですよ。",
+		"aftertaste": "滑るように生きることは、逃げることではありません。世界との摩擦を最小に抑え、自らの純粋なるエナジーを、どこまで遠くへ運べるかという挑戦なのですよ。",
+		"example": "The eagle continued to roll effortlessly above the mountain peaks, using the thermal currents to maintain its high vantage point.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "rotulare",
+					"meaning": "to roll, literal: 'little wheel'"
+				}
+			],
+			"points": [
+				"天空を舞う鳥のように、自らの魂を高く持ち上げて。その視座の高さが、日常の些細な苦悩を、眩しい喜びに変えてくれるのですよ。"
+			]
+		},
+		"part_of_speech": "verb"
 	}
 ];
