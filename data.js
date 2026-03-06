@@ -195871,5 +195871,173 @@ const WORDS = [
 			]
 		},
 		"part_of_speech": "verb"
+	},
+	{
+		"id": "say_speech",
+		"word": "say",
+		"meaning": "言う",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"secgan (to say, speak)"
+			],
+			"original_statement": "From Old English secgan (to say, speak)."
+		},
+		"concept": "Utter words so as to convey information, an opinion, a feeling or intention, or an instruction (自分の内にある情報を、特定の人間ではなく「世界という空間に向けてポツリとただ解放」する最も普遍的でプレーンな音声の提示。)",
+		"thinking": "自分の内にある情報を、特定の人間ではなく「世界という空間に向けてポツリとただ解放」する最も普遍的でプレーンな音声の提示。",
+		"aftertaste": "誰に宛てるでもなく「セイ（言う）」した独り言こそが、嘘偽りのない一番の本音だったりします。",
+		"example": "Please say loudly.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "secgan (to say, speak)",
+					"meaning": "known origin"
+				}
+			],
+			"points": [
+				"発話の形式は、相手との関係性の現れ。"
+			]
+		},
+		"part_of_speech": "verb"
+	},
+	{
+		"id": "tell_speech",
+		"word": "tell",
+		"meaning": "話す、伝える",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"tellan (to calculate, count, narrate)"
+			],
+			"original_statement": "From Old English tellan (to calculate, count, narrate)."
+		},
+		"concept": "Communicate information, facts, or news to someone in spoken or written words (もともと「数える」という意味のように、自分が持っている情報を明確な「受信者としての相手」を選び、正確に一つ一つ渡し切る確実な配達。)",
+		"thinking": "もともと「数える」という意味のように、自分が持っている情報を明確な「受信者としての相手」を選び、正確に一つ一つ渡し切る確実な配達。",
+		"aftertaste": "彼に「テル（伝える）」する時は、回りくどい言い回しよりも、事実を数えるように真っ直ぐ言葉を投げて。",
+		"example": "Please tell loudly.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "tellan (to calculate, count, narrate)",
+					"meaning": "known origin"
+				}
+			],
+			"points": [
+				"発話の形式は、相手との関係性の現れ。"
+			]
+		},
+		"part_of_speech": "verb"
+	},
+	{
+		"id": "speak_speech",
+		"word": "speak",
+		"meaning": "話す、声を出す",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"specan (to speak)"
+			],
+			"original_statement": "From Old English specan (to speak)."
+		},
+		"concept": "Say something in order to convey information, an opinion, or a feeling (会話のキャッチボールよりも、声帯を震わせて「言語を発声する」という行為そのもの、あるいはある特定の言語能力のシステムを使用すること自体。)",
+		"thinking": "会話のキャッチボールよりも、声帯を震わせて「言語を発声する」という行為そのもの、あるいはある特定の言語能力のシステムを使用すること自体。",
+		"aftertaste": "彼女が人前で堂々と全開で「スピーク（発言する）」した時、その熱量だけで会議の空気は完全に変わりました。",
+		"example": "Please speak loudly.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "specan (to speak)",
+					"meaning": "known origin"
+				}
+			],
+			"points": [
+				"発話の形式は、相手との関係性の現れ。"
+			]
+		},
+		"part_of_speech": "verb"
+	},
+	{
+		"id": "talk_speech",
+		"word": "talk",
+		"meaning": "話す、会話する",
+		"era": "13th Century",
+		"etymology": {
+			"components": [
+				"tale (tale)"
+			],
+			"original_statement": "From 13th Century tale (tale)."
+		},
+		"concept": "Speak in order to give information or express ideas or feelings (一方的な伝達ではなく、相手の目を見て、互いの言葉のパスを交換し合いながら、意味や関係性を「共に形作っていく」カジュアルで最も美しい人間的交流。)",
+		"thinking": "一方的な伝達ではなく、相手の目を見て、互いの言葉のパスを交換し合いながら、意味や関係性を「共に形作っていく」カジュアルで最も美しい人間的交流。",
+		"aftertaste": "ただ情報を報告するのではなく、二人でコーヒーを飲みながらじっくり「トーク（語り合う）」したいのです。",
+		"example": "Please talk loudly.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "tale (tale)",
+					"meaning": "known origin"
+				}
+			],
+			"points": [
+				"発話の形式は、相手との関係性の現れ。"
+			]
+		},
+		"part_of_speech": "verb"
+	},
+	{
+		"id": "shout_speech",
+		"word": "shout",
+		"meaning": "叫ぶ",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"schouten (to prompt)"
+			],
+			"original_statement": "From 14th Century schouten (to prompt)."
+		},
+		"concept": "Say something very loudly (届かない距離、あるいは聞こえないふりをする厚い壁を強行突破するため、声帯に限界の圧力をかけて放たれる「音の砲弾」。)",
+		"thinking": "届かない距離、あるいは聞こえないふりをする厚い壁を強行突破するため、声帯に限界の圧力をかけて放たれる「音の砲弾」。",
+		"aftertaste": "怒りで「シャウト（怒鳴り散らす）」したくなったら、10秒だけ目を閉じて深呼吸。大抵はそれだけで消える炎です。",
+		"example": "Please shout loudly.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "schouten (to prompt)",
+					"meaning": "known origin"
+				}
+			],
+			"points": [
+				"発話の形式は、相手との関係性の現れ。"
+			]
+		},
+		"part_of_speech": "verb"
+	},
+	{
+		"id": "scream_speech",
+		"word": "scream",
+		"meaning": "悲鳴を上げる",
+		"era": "12th Century",
+		"etymology": {
+			"components": [
+				"screamen (to cry out)"
+			],
+			"original_statement": "From 12th Century screamen (to cry out)."
+		},
+		"concept": "Give a long, loud, piercing cry or cries expressing emotion or pain (理性による言語化というプロセスを完全にバイパスし、恐怖や激烈な痛みが直接「喉から引き裂くように飛び出してくる」原初の生命のSOS。)",
+		"thinking": "理性による言語化というプロセスを完全にバイパスし、恐怖や激烈な痛みが直接「喉から引き裂くように飛び出してくる」原初の生命のSOS。",
+		"aftertaste": "ローラーコースターでの「スクリーム（絶叫）」は、大人が合法的にパニックを楽しめる最高のストレス発散法です。",
+		"example": "Please scream loudly.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "screamen (to cry out)",
+					"meaning": "known origin"
+				}
+			],
+			"points": [
+				"発話の形式は、相手との関係性の現れ。"
+			]
+		},
+		"part_of_speech": "verb"
 	}
 ];
