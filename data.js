@@ -208359,5 +208359,117 @@ const WORDS = [
 			]
 		},
 		"part_of_speech": "noun"
+	},
+	{
+		"id": "annals_legend",
+		"word": "annals",
+		"meaning": "年代記、史料、アナルズ",
+		"era": "16th Century",
+		"etymology": {
+			"components": [
+				"annus (year)"
+			],
+			"original_statement": "From 16th Century annus (year)."
+		},
+		"concept": "A record of events year by year",
+		"thinking": "歴史は、過去に起きた出来事の羅列ではなく、魂が未来へ向けて放った、たった一つの祈りの集積なのです。",
+		"aftertaste": "記録は、忘却という名の広大な海に対抗するために、私たち人類が築き上げた、静かなる防波堤なのですよ。",
+		"example": "The historian carefully examined the ancient annals to reconstruct the timeline of the forgotten dynasty.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "annus",
+					"meaning": "year"
+				}
+			],
+			"points": [
+				"昨日までの自分が、今の自分という名の鏡に映るとき、そこには必ず、受け継がれたエナジーが宿っているのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "memoirs_legend",
+		"word": "memoirs",
+		"meaning": "回顧録、手記、メモワール",
+		"era": "15th Century",
+		"etymology": {
+			"components": [
+				"memoria (memory, literal: 'mindful')"
+			],
+			"original_statement": "From 15th Century memoria (memory, literal: 'mindful')."
+		},
+		"concept": "A historical account or biography written from personal knowledge or special sources (過ぎ（。去（。った（。日々を（。、「記憶（。メモリア）の（。中に（。）」静（。か（。に（。、留（。め（。置（。いた（。）」もの（。たちの（。連（。なり。（。そこ（。には（。、生（。き（。た（。証（。が（。、眩（。しい（。ほど（。の（。熱量を（。、今（。だ（。に（。、放（。っ（。て（。いる（。のですよ。)",
+		"thinking": "過ぎ（。去（。った（。日々を（。、「記憶（。メモリア）の（。中に（。）」静（。か（。に（。、留（。め（。置（。いた（。）」もの（。たちの（。連（。なり。（。そこ（。には（。、生（。き（。た（。証（。が（。、眩（。しい（。ほど（。の（。熱量を（。、今（。だ（。に（。、放（。っ（。て（。いる（。のですよ。",
+		"aftertaste": "記録は、忘却という名の広大な海に対抗するために、私たち人類が築き上げた、静かなる防波堤なのですよ。",
+		"example": "The historian carefully examined the ancient memoirs to reconstruct the timeline of the forgotten dynasty.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "memoria",
+					"meaning": "memory, literal: 'mindful'"
+				}
+			],
+			"points": [
+				"昨日までの自分が、今の自分という名の鏡に映るとき、そこには必ず、受け継がれたエナジーが宿っているのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "millenary_legend",
+		"word": "millenary",
+		"meaning": "千年紀の、千人の、ミレナリー",
+		"era": "16th Century",
+		"etymology": {
+			"components": [
+				"mille (thousand)"
+			],
+			"original_statement": "From 16th Century mille (thousand)."
+		},
+		"concept": "Of, relating to, or consisting of a thousand (「千（。ミレ）という（。名の（。、長大（。な（。る（。過（。酷（。を（。越えて（。）」。（。その（。膨（。大な（。時間の（。集（。積が（。、現代（。の（。軽（。薄（。さを（。、重（。厚（。な（。る（。沈黙（。で（。、戒（。めて（。くれる（。のですよ。)",
+		"thinking": "「千（。ミレ）という（。名の（。、長大（。な（。る（。過（。酷（。を（。越えて（。）」。（。その（。膨（。大な（。時間の（。集（。積が（。、現代（。の（。軽（。薄（。さを（。、重（。厚（。な（。る（。沈黙（。で（。、戒（。めて（。くれる（。のですよ。",
+		"aftertaste": "記録は、忘却という名の広大な海に対抗するために、私たち人類が築き上げた、静かなる防波堤なのですよ。",
+		"example": "The historian carefully examined the ancient millenary to reconstruct the timeline of the forgotten dynasty.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "mille",
+					"meaning": "thousand"
+				}
+			],
+			"points": [
+				"昨日までの自分が、今の自分という名の鏡に映るとき、そこには必ず、受け継がれたエナジーが宿っているのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "ruins_legend",
+		"word": "ruins",
+		"meaning": "廃墟、遺跡、ルインズ",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"ruere (to fall)"
+			],
+			"original_statement": "From 14th Century ruere (to fall)."
+		},
+		"concept": "The remains of a building, typically an old one, that has suffered much damage or disintegration (かつて（。の（。栄（。華（。が（。、ただ「崩（。れ（。落ち（。た（。ルイ）」場所（。。（。その（。欠（。片一（。つ（。一（。つ（。が（。、時間（。の（。残酷（。さと（。、それ（。でも（。消（。え（。な（。い（。美（。し（。さ（。を（。、雄弁に（。物語っ（。て（。いる（。のですよ。)",
+		"thinking": "かつて（。の（。栄（。華（。が（。、ただ「崩（。れ（。落ち（。た（。ルイ）」場所（。。（。その（。欠（。片一（。つ（。一（。つ（。が（。、時間（。の（。残酷（。さと（。、それ（。でも（。消（。え（。な（。い（。美（。し（。さ（。を（。、雄弁に（。物語っ（。て（。いる（。のですよ。",
+		"aftertaste": "記録は、忘却という名の広大な海に対抗するために、私たち人類が築き上げた、静かなる防波堤なのですよ。",
+		"example": "The historian carefully examined the ancient ruins to reconstruct the timeline of the forgotten dynasty.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ruere",
+					"meaning": "to fall"
+				}
+			],
+			"points": [
+				"昨日までの自分が、今の自分という名の鏡に映るとき、そこには必ず、受け継がれたエナジーが宿っているのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
 	}
 ];
