@@ -194387,5 +194387,201 @@ const WORDS = [
 			]
 		},
 		"part_of_speech": "noun"
+	},
+	{
+		"id": "spacious_space",
+		"word": "spacious",
+		"meaning": "広々とした",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"spatium (space)"
+			],
+			"original_statement": "From 14th Century spatium (space)."
+		},
+		"concept": "Having ample space (息苦しい制約や障害物が一切存在せず、魂が手足をいっぱいに伸ばして深呼吸できる無条件の自由。)",
+		"thinking": "息苦しい制約や障害物が一切存在せず、魂が手足をいっぱいに伸ばして深呼吸できる無条件の自由。",
+		"aftertaste": "心が淀んだときは、天井が高く「スペーシャス（広々とした）」な美術館で深呼吸を。",
+		"example": "He stared into the spacious darkness.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "spatium (space)",
+					"meaning": "known origin"
+				}
+			],
+			"points": [
+				"空間認識は、心の状態や可能性と深く連動しています。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "capacious_space",
+		"word": "capacious",
+		"meaning": "容積の大きい、包容力のある",
+		"era": "17th Century",
+		"etymology": {
+			"components": [
+				"capax (able to hold)"
+			],
+			"original_statement": "From 17th Century capax (able to hold)."
+		},
+		"concept": "Having a lot of space inside; roomy (どれだけ多くの異なる感情や出来事を次々と放り込んでも、全てを静かに飲み込んでくれる深い大きな器。)",
+		"thinking": "どれだけ多くの異なる感情や出来事を次々と放り込んでも、全てを静かに飲み込んでくれる深い大きな器。",
+		"aftertaste": "彼女の「ケイペイシャス（許容量の大きな）」な心は、どんな理不尽な怒りも優しく受け止めてくれます。",
+		"example": "He stared into the capacious darkness.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "capax (able to hold)",
+					"meaning": "known origin"
+				}
+			],
+			"points": [
+				"空間認識は、心の状態や可能性と深く連動しています。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "commodious_space",
+		"word": "commodious",
+		"meaning": "広くて便利な",
+		"era": "15th Century",
+		"etymology": {
+			"components": [
+				"commodus (convenient)"
+			],
+			"original_statement": "From 15th Century commodus (convenient)."
+		},
+		"concept": "Roomy and comfortable (単に広いだけでなく、そこにいる者が一切の不自由を感じず、完璧な安らぎを享受できるように計算された完璧な調和。)",
+		"thinking": "単に広いだけでなく、そこにいる者が一切の不自由を感じず、完璧な安らぎを享受できるように計算された完璧な調和。",
+		"aftertaste": "古き良き時代の「コモディアス（ゆったりと快適な）」なホテルでは、時間そのものがゆったり流れています。",
+		"example": "He stared into the commodious darkness.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "commodus (convenient)",
+					"meaning": "known origin"
+				}
+			],
+			"points": [
+				"空間認識は、心の状態や可能性と深く連動しています。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "cramped_space",
+		"word": "cramped",
+		"meaning": "窮屈な、狭苦しい",
+		"era": "16th Century",
+		"etymology": {
+			"components": [
+				"crampe (cramp)"
+			],
+			"original_statement": "From 16th Century crampe (cramp)."
+		},
+		"concept": "Feeling or causing someone to feel uncomfortably confined (物理的な狭さ以上に、そこから逃げ出せないという精神的な圧迫感が肺を押し潰そうとする息苦しい閉塞感。)",
+		"thinking": "物理的な狭さ以上に、そこから逃げ出せないという精神的な圧迫感が肺を押し潰そうとする息苦しい閉塞感。",
+		"aftertaste": "「クランプト（身動きも取れないほど窮屈な）」な通勤電車の中でこそ、心の中の広い空を想像して。",
+		"example": "He stared into the cramped darkness.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "crampe (cramp)",
+					"meaning": "known origin"
+				}
+			],
+			"points": [
+				"空間認識は、心の状態や可能性と深く連動しています。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "narrow_space",
+		"word": "narrow",
+		"meaning": "狭い、細い",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"nearwe (closely, narrowly)"
+			],
+			"original_statement": "From Old English nearwe (closely, narrowly)."
+		},
+		"concept": "Of small width (余裕や遊びの部分を極限まで削り落とし、一つの明確な目標を目指して真っ直ぐに突き進むストイックな集中線。)",
+		"thinking": "余裕や遊びの部分を極限まで削り落とし、一つの明確な目標を目指して真っ直ぐに突き進むストイックな集中線。",
+		"aftertaste": "「ナロー（細く険しい）」な道を選ぶ人間だけが、誰も見たことのない美しい頂からの景色を知っています。",
+		"example": "He stared into the narrow darkness.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "nearwe (closely, narrowly)",
+					"meaning": "known origin"
+				}
+			],
+			"points": [
+				"空間認識は、心の状態や可能性と深く連動しています。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "confined_space",
+		"word": "confined",
+		"meaning": "限られた、閉じ込められた",
+		"era": "16th Century",
+		"etymology": {
+			"components": [
+				"confinis (bordering)"
+			],
+			"original_statement": "From 16th Century confinis (bordering)."
+		},
+		"concept": "Restricted in area or volume; cramped (見えない境界線によって「共に境界を引かれ」、自由な拡張を許されずにその場に留まることを強制された孤独。)",
+		"thinking": "見えない境界線によって「共に境界を引かれ」、自由な拡張を許されずにその場に留まることを強制された孤独。",
+		"aftertaste": "古い価値観に「コンファインド（閉じ込められた）」な状態から抜け出し、自分だけの新しい枠を作りましょう。",
+		"example": "He stared into the confined darkness.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "confinis (bordering)",
+					"meaning": "known origin"
+				}
+			],
+			"points": [
+				"空間認識は、心の状態や可能性と深く連動しています。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "limitless_space",
+		"word": "limitless",
+		"meaning": "無制限の",
+		"era": "16th Century",
+		"etymology": {
+			"components": [
+				"limit + less"
+			],
+			"original_statement": "From 16th Century limit + less."
+		},
+		"concept": "Without end, limit, or boundary (能力や資源が尽きるという不安がなくなり、ただひたすらに前へ前へと挑戦を続けることを許された神々の領域。)",
+		"thinking": "能力や資源が尽きるという不安がなくなり、ただひたすらに前へ前へと挑戦を続けることを許された神々の領域。",
+		"aftertaste": "「リミットレス（限界を知らない）」な情熱の前では、どんな高い壁もただの通過点にすぎません。",
+		"example": "He stared into the limitless darkness.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "limit + less",
+					"meaning": "known origin"
+				}
+			],
+			"points": [
+				"空間認識は、心の状態や可能性と深く連動しています。"
+			]
+		},
+		"part_of_speech": "adjective"
 	}
 ];
