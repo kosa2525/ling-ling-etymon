@@ -197346,5 +197346,38 @@ const WORDS = [
 			]
 		},
 		"part_of_speech": "adjective"
+	},
+	{
+		"id": "gossamer_silk",
+		"word": "Gossamer",
+		"meaning": "繊細な、非常に薄い、蜘蛛の糸、(秋の日の)薄霧",
+		"era": "14th Century Middle English gosesomer",
+		"etymology": {
+			"components": [
+				"gos (goose)",
+				"somer (summer)"
+			],
+			"original_statement": "Probably from goose + summer, perhaps referring to 'St. Martin's summer' (a period of mild weather in late autumn) when geese are eaten and spider webs are common."
+		},
+		"concept": "Goose summer (「秋（autumn）」の 終わりの 「幽かな希望（faint hope）」のように 「透明（transparent）」で 「儚い（fragile）」 繋がり)",
+		"thinking": "存在するか どうかも 分からないほどの 幽かな（かすかな）輝きでありながら、光を 浴びた瞬間に、この 世界が 美しい 繋がりで 満ちていることを 証明する、奇跡的な 繊細さ. 語源は「ガチョウ、夏（小春日和）」. それは 執着 ではなく 漂う（サスペンド）ことに よってのみ 保たれる 聖なる「純粋さ」の 表現です. 儚さは、真実です.",
+		"aftertaste": "繊細な導き. 自分の 想いが 弱く 儚く思えても 絶望しないで. あなたの「ゴッサマー（繊細な）」な 繋がりの 糸が 世界を 密かに 結びつけ 誰かの 心を 救う 聖なる 網目に なっているのだから.",
+		"example": "The morning dew sparkled on the gossamer threads of a spider's web stretched between the trees.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ghans-",
+					"meaning": "goose"
+				},
+				{
+					"term": "sem-",
+					"meaning": "summer"
+				}
+			],
+			"points": [
+				"小春日和（聖マルティンの夏）という、死の前の 最後の 輝き。"
+			]
+		},
+		"part_of_speech": "noun"
 	}
 ];
