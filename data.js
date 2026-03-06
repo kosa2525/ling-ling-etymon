@@ -198139,5 +198139,677 @@ const WORDS = [
 			]
 		},
 		"part_of_speech": "noun"
+	},
+	{
+		"id": "vigor_health",
+		"word": "vigor",
+		"meaning": "活力、精気",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"vigere (to be lively / be strong)"
+			],
+			"original_statement": "From 14th Century vigere (to be lively / be strong)."
+		},
+		"concept": "Physical strength and good health (内側からあふれ出す、抑えきれない「生き生きとした力」。世界を自分の手で変えようとする、若々しいエナジーの爆発。)",
+		"thinking": "内側からあふれ出す、抑えきれない「生き生きとした力」。世界を自分の手で変えようとする、若々しいエナジーの爆発。",
+		"aftertaste": "「ヴィガー（溢れる活力）」に満ちたあなたの笑顔は、周囲の沈んだ空気をも一瞬で塗り替えてしまう、魔法の光線（レイ）なのです。",
+		"example": "The focus on vigor has become increasingly important in modern life.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "vigere",
+					"meaning": "to be lively / be strong"
+				}
+			],
+			"points": [
+				"健康とは、肉体と精神と宇宙が完璧なリズムで共鳴している状態を指します。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "agility_health",
+		"word": "agility",
+		"meaning": "敏捷性、機敏さ",
+		"era": "15th Century",
+		"etymology": {
+			"components": [
+				"agere (to do, act, drive)"
+			],
+			"original_statement": "From 15th Century agere (to do, act, drive)."
+		},
+		"concept": "Ability to move quickly and easily (思考と行動の間に一切の澱（よど）みがなく、猫のように「しなやかに、素早く」環境の変化に対応しようとする生存の知恵。)",
+		"thinking": "思考と行動の間に一切の澱（よど）みがなく、猫のように「しなやかに、素早く」環境の変化に対応しようとする生存の知恵。",
+		"aftertaste": "この不確実な時代の荒波を乗り越えるために必要なのは、重い鎧ではなく、自分自身を軽やかに変容させる「アジリティ（機敏さ）」なのです。",
+		"example": "The focus on agility has become increasingly important in modern life.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "agere",
+					"meaning": "to do, act, drive"
+				}
+			],
+			"points": [
+				"健康とは、肉体と精神と宇宙が完璧なリズムで共鳴している状態を指します。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "flexibility_health",
+		"word": "flexibility",
+		"meaning": "柔軟性、しなやかさ",
+		"era": "17th Century",
+		"etymology": {
+			"components": [
+				"flectere (to bend)"
+			],
+			"original_statement": "From 17th Century flectere (to bend)."
+		},
+		"concept": "The quality of bending easily without breaking (折れることなく、風のままに「自らを曲げる（ベンド）」ことで、強大な圧力さえも受け流し、再び立ち上がるための強靭なしなやかさ。)",
+		"thinking": "折れることなく、風のままに「自らを曲げる（ベンド）」ことで、強大な圧力さえも受け流し、再び立ち上がるための強靭なしなやかさ。",
+		"aftertaste": "「フレキシビリティ（柔軟な思考）」を持つことで初めて、あなたは自分とは全く異なる価値観を持つ他者と、真に理解し合うことができるのです。",
+		"example": "The focus on flexibility has become increasingly important in modern life.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "flectere",
+					"meaning": "to bend"
+				}
+			],
+			"points": [
+				"健康とは、肉体と精神と宇宙が完璧なリズムで共鳴している状態を指します。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "digestion_health",
+		"word": "digestion",
+		"meaning": "消化",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"di- (apart) + gerere (to carry)"
+			],
+			"original_statement": "From 14th Century di- (apart) + gerere (to carry)."
+		},
+		"concept": "The process of breaking down food in the stomach into substances that the body can use (受け取った情報をバラバラに分解し（ディバイド）、自分の栄養となる本質だけを「運び込み（キャリー）」蓄積していく、知的な吸収のプロセス。)",
+		"thinking": "受け取った情報をバラバラに分解し（ディバイド）、自分の栄養となる本質だけを「運び込み（キャリー）」蓄積していく、知的な吸収のプロセス。",
+		"aftertaste": "難解な哲学書を一読して分かったつもりにならず、自分の人生という胃袋で、じっくりと「ダイジェスチョン（消化）」して、自分の血肉にしてください。",
+		"example": "The focus on digestion has become increasingly important in modern life.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "di-",
+					"meaning": "apart) + gerere (to carry"
+				}
+			],
+			"points": [
+				"健康とは、肉体と精神と宇宙が完璧なリズムで共鳴している状態を指します。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "circulation_health",
+		"word": "circulation",
+		"meaning": "循環、流通、血行",
+		"era": "15th Century",
+		"etymology": {
+			"components": [
+				"circulare (to form a circle, go around)"
+			],
+			"original_statement": "From 15th Century circulare (to form a circle, go around)."
+		},
+		"concept": "The movement of blood through the vessels of the body (心臓という中心から送り出されたエナジーが、隅々までを「巡り（サークル）」、再び中心へと回帰していく、永遠に滞ることのない命の連鎖。)",
+		"thinking": "心臓という中心から送り出されたエナジーが、隅々までを「巡り（サークル）」、再び中心へと回帰していく、永遠に滞ることのない命の連鎖。",
+		"aftertaste": "お金も愛情も、握りしめて独占するのではなく、社会の中に「サーキュレーション（循環）」させることで、初めて真の豊かさとなってあなたに還ってきます。",
+		"example": "The focus on circulation has become increasingly important in modern life.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "circulare",
+					"meaning": "to form a circle, go around"
+				}
+			],
+			"points": [
+				"健康とは、肉体と精神と宇宙が完璧なリズムで共鳴している状態を指します。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "prescription_health",
+		"word": "prescription",
+		"meaning": "処方箋、規定",
+		"era": "16th Century",
+		"etymology": {
+			"components": [
+				"pre- (before) + scribere (to write)"
+			],
+			"original_statement": "From 16th Century pre- (before) + scribere (to write)."
+		},
+		"concept": "An instruction written by a medical practitioner (事態が悪化する「前に（プレ）」あらかじめ書き記された（スクライブ）、正しい方向へと導くための指針と地図。)",
+		"thinking": "事態が悪化する「前に（プレ）」あらかじめ書き記された（スクライブ）、正しい方向へと導くための指針と地図。",
+		"aftertaste": "他人の人生の「プレスクリプション（規定の生き方）」に従う必要はありません。自分だけの幸せのレシピを、自分の手で書き記（かきしる）してください。",
+		"example": "The focus on prescription has become increasingly important in modern life.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "pre-",
+					"meaning": "before) + scribere (to write"
+				}
+			],
+			"points": [
+				"健康とは、肉体と精神と宇宙が完璧なリズムで共鳴している状態を指します。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "dosage_health",
+		"word": "dosage",
+		"meaning": "服用量、適量",
+		"era": "19th Century",
+		"etymology": {
+			"components": [
+				"dosis (giving)"
+			],
+			"original_statement": "From 19th Century dosis (giving)."
+		},
+		"concept": "A size or frequency of a dose of medicine (多すぎれば毒になり、少なすぎれば無意味になる、神が定めた絶妙な「与え方（ディスペンシング）」のバランス。)",
+		"thinking": "多すぎれば毒になり、少なすぎれば無意味になる、神が定めた絶妙な「与え方（ディスペンシング）」のバランス。",
+		"aftertaste": "成功という甘美な薬の「ドセージ（適量）」を間違えると、あなたは傲慢（ごうまん）という名の不治の病に侵されてしまうかもしれません。",
+		"example": "The focus on dosage has become increasingly important in modern life.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "dosis",
+					"meaning": "giving"
+				}
+			],
+			"points": [
+				"健康とは、肉体と精神と宇宙が完璧なリズムで共鳴している状態を指します。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "sanitation_health",
+		"word": "sanitation",
+		"meaning": "公衆衛生",
+		"era": "19th Century",
+		"etymology": {
+			"components": [
+				"sanitas (health)"
+			],
+			"original_statement": "From 19th Century sanitas (health)."
+		},
+		"concept": "Conditions relating to public health (個人の健康を越えて、社会全体が「健全（サニティー）」でいられるような循環（めぐり）を整え、誰もが安心して暮らせる土壌を整備すること。)",
+		"thinking": "個人の健康を越えて、社会全体が「健全（サニティー）」でいられるような循環（めぐり）を整え、誰もが安心して暮らせる土壌を整備すること。",
+		"aftertaste": "命の輝きは、日々の微細なケアから生まれます。",
+		"example": "The focus on sanitation has become increasingly important in modern life.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sanitas",
+					"meaning": "health"
+				}
+			],
+			"points": [
+				"健康とは、肉体と精神と宇宙が完璧なリズムで共鳴している状態を指します。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "holistic_health",
+		"word": "holistic",
+		"meaning": "全体論的な、ホリスティックな",
+		"era": "20th Century",
+		"etymology": {
+			"components": [
+				"holos (whole)"
+			],
+			"original_statement": "From 20th Century holos (whole)."
+		},
+		"concept": "Characterized by the belief that the parts of something are intimately interconnected (一部の不具合を単独で見るのではなく、心、体、魂、そして環境を一つの「大きな繋がり（ホール）」として捉え、本質的な調和を求める智慧。)",
+		"thinking": "一部の不具合を単独で見るのではなく、心、体、魂、そして環境を一つの「大きな繋がり（ホール）」として捉え、本質的な調和を求める智慧。",
+		"aftertaste": "「ホリスティック（全体を見据えた）」な視点で自分を愛してあげてください。一つのミスであなたの誇り（全人格）が傷つくことなど、あり得ないのです。",
+		"example": "The focus on holistic has become increasingly important in modern life.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "holos",
+					"meaning": "whole"
+				}
+			],
+			"points": [
+				"健康とは、肉体と精神と宇宙が完璧なリズムで共鳴している状態を指します。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "wellness_health",
+		"word": "wellness",
+		"meaning": "ウェルネス、健康であること",
+		"era": "17th Century",
+		"etymology": {
+			"components": [
+				"well + -ness"
+			],
+			"original_statement": "From 17th Century well + -ness."
+		},
+		"concept": "The state of being in good health (ただ病気でないという消極的な状態ではなく、心も体も満たされて、自らの可能性を最大限に引き出せているという「最高に良い（ウェル）」感触。)",
+		"thinking": "ただ病気でないという消極的な状態ではなく、心も体も満たされて、自らの可能性を最大限に引き出せているという「最高に良い（ウェル）」感触。",
+		"aftertaste": "「ウェルネス（心身の輝き）」を追求することは、自分という楽器を毎日丁寧にチューニングし、人生という名曲を最高の音色で奏でる準備をすることです。",
+		"example": "The focus on wellness has become increasingly important in modern life.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "well",
+					"meaning": "+ -ness"
+				}
+			],
+			"points": [
+				"健康とは、肉体と精神と宇宙が完璧なリズムで共鳴している状態を指します。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "nourishing_health",
+		"word": "nourishing",
+		"meaning": "滋養のある、育む",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"nutrire (to feed, cherish)"
+			],
+			"original_statement": "From 14th Century nutrire (to feed, cherish)."
+		},
+		"concept": "Providing the substances picked up from food that are necessary for growth (ただお腹を膨らませる（ふくらませる）だけでなく、その人の「芯となる部分」にまで染み渡り、成長と癒しを力強くサポートする深い愛情と栄養。)",
+		"thinking": "ただお腹を膨らませる（ふくらませる）だけでなく、その人の「芯となる部分」にまで染み渡り、成長と癒しを力強くサポートする深い愛情と栄養。",
+		"aftertaste": "あなたの温かい「ナリッシング（魂を育む）」な言葉の一つ一つが、自信を失った彼の心の中で、新しい勇気の種を育てています。",
+		"example": "The focus on nourishing has become increasingly important in modern life.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "nutrire",
+					"meaning": "to feed, cherish"
+				}
+			],
+			"points": [
+				"健康とは、肉体と精神と宇宙が完璧なリズムで共鳴している状態を指します。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "stimulating_health",
+		"word": "stimulating",
+		"meaning": "刺激的な、元気づける",
+		"era": "16th Century",
+		"etymology": {
+			"components": [
+				"stimulus (goad, incentive)"
+			],
+			"original_statement": "From 16th Century stimulus (goad, incentive)."
+		},
+		"concept": "Encouraging or arousing interest or enthusiasm (眠っていた五感や好奇心を「鋭い針（スティムルス）」で突くように呼び覚まし、心地よい興奮とともに新しい世界へと送り出してくれる活気。)",
+		"thinking": "眠っていた五感や好奇心を「鋭い針（スティムルス）」で突くように呼び覚まし、心地よい興奮とともに新しい世界へと送り出してくれる活気。",
+		"aftertaste": "「スティミュレイティング（知的な刺激を受けた）」な会話のあとは、今までの自分では思いつかなかったような、眩いばかりの未来の地図（マップ）が見えてきます。",
+		"example": "The focus on stimulating has become increasingly important in modern life.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "stimulus",
+					"meaning": "goad, incentive"
+				}
+			],
+			"points": [
+				"健康とは、肉体と精神と宇宙が完璧なリズムで共鳴している状態を指します。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "soothing_health",
+		"word": "soothing",
+		"meaning": "なだめるような、心地よい",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"sothian (to confirm, satisfy)"
+			],
+			"original_statement": "From Old English sothian (to confirm, satisfy)."
+		},
+		"concept": "Having a gently calming effect (ささくれ立った神経や傷口に優しく触れ、そこが「真実（ソス）の安らぎ」であると確信させてくれる、母親の抱擁のような絶対的な鎮静。)",
+		"thinking": "ささくれ立った神経や傷口に優しく触れ、そこが「真実（ソス）の安らぎ」であると確信させてくれる、母親の抱擁のような絶対的な鎮静。",
+		"aftertaste": "雨の降る音は、騒がしい都会で疲れきった私たちの脳を優しく「スージング（癒して）」し、再び静かな自分を取り戻させてくれます。",
+		"example": "The focus on soothing has become increasingly important in modern life.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sothian",
+					"meaning": "to confirm, satisfy"
+				}
+			],
+			"points": [
+				"健康とは、肉体と精神と宇宙が完璧なリズムで共鳴している状態を指します。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "sedative_health",
+		"word": "sedative",
+		"meaning": "鎮静剤、落ち着かせる",
+		"era": "15th Century",
+		"etymology": {
+			"components": [
+				"sedatus (calmed, quieted)"
+			],
+			"original_statement": "From 15th Century sedatus (calmed, quieted)."
+		},
+		"concept": "Promoting calm or inducing sleep (荒れ狂う感情の波を「座らせ（セダレート）」、静かな水平線へと変えることで、心地よい眠りと安息の淵へと導く、夜の魔法。)",
+		"thinking": "荒れ狂う感情の波を「座らせ（セダレート）」、静かな水平線へと変えることで、心地よい眠りと安息の淵へと導く、夜の魔法。",
+		"aftertaste": "あまりに深く傷ついた時は、無理に明るく振る舞わず、哀しい音楽という名の「セダティヴ（鎮静薬）」に身を任せる時間も必要です。",
+		"example": "The focus on sedative has become increasingly important in modern life.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sedatus",
+					"meaning": "calmed, quieted"
+				}
+			],
+			"points": [
+				"健康とは、肉体と精神と宇宙が完璧なリズムで共鳴している状態を指します。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "frail_health",
+		"word": "frail",
+		"meaning": "脆い、弱々しい",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"frangere (to break)"
+			],
+			"original_statement": "From 14th Century frangere (to break)."
+		},
+		"concept": "Weak and delicate (触れればすぐに「壊れて（フレイク）」しまいそうなほど儚げだが、だからこそ守り抜きたいと願わせる、繊細で高貴な命の危うさ。)",
+		"thinking": "触れればすぐに「壊れて（フレイク）」しまいそうなほど儚げだが、だからこそ守り抜きたいと願わせる、繊細で高貴な命の危うさ。",
+		"aftertaste": "「フレイル（脆く弱った）」な古い建物の柱を支えるように、困っている他者の肩にそっと手を添えられる、そんな優しい人でありたい。",
+		"example": "The focus on frail has become increasingly important in modern life.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "frangere",
+					"meaning": "to break"
+				}
+			],
+			"points": [
+				"健康とは、肉体と精神と宇宙が完璧なリズムで共鳴している状態を指します。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "exhaustion_health",
+		"word": "exhaustion",
+		"meaning": "消耗、疲労困憊",
+		"era": "17th Century",
+		"etymology": {
+			"components": [
+				"ex- (out) + haurire (to draw water)"
+			],
+			"original_statement": "From 17th Century ex- (out) + haurire (to draw water)."
+		},
+		"concept": "A state of extreme physical or mental fatigue (井戸の水を「一滴残らず汲み出して（アウト）」しまったかのように、ゼロになった状態で横たわる、静かなる再充填（リチャージ）の前触れ。)",
+		"thinking": "井戸の水を「一滴残らず汲み出して（アウト）」しまったかのように、ゼロになった状態で横たわる、静かなる再充填（リチャージ）の前触れ。",
+		"aftertaste": "「エグゾースチョン（心身の枯渇）」の果てに見る夢は、普段は隠されているあなたの本当の願いを、優しく映し出してくれる鏡になります。",
+		"example": "The focus on exhaustion has become increasingly important in modern life.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ex-",
+					"meaning": "out) + haurire (to draw water"
+				}
+			],
+			"points": [
+				"健康とは、肉体と精神と宇宙が完璧なリズムで共鳴している状態を指します。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "healing_health",
+		"word": "healing",
+		"meaning": "治癒、癒やし",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"hælan (to make whole)"
+			],
+			"original_statement": "From Old English hælan (to make whole)."
+		},
+		"concept": "The process of making or becoming sound or healthy again (欠けてしまった心や体の破片を再び繋ぎ合わせ、元の「完全な（ホール）」状態へと戻していく、生命に本来備わった魔法の修復力。)",
+		"thinking": "欠けてしまった心や体の破片を再び繋ぎ合わせ、元の「完全な（ホール）」状態へと戻していく、生命に本来備わった魔法の修復力。",
+		"aftertaste": "他人を「ヒーリング（癒やす）」力を持とうとするなら、まずは自分自身の内なる傷口を、慈愛の目で見つめ直すことから始めてください。",
+		"example": "The focus on healing has become increasingly important in modern life.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "hælan",
+					"meaning": "to make whole"
+				}
+			],
+			"points": [
+				"健康とは、肉体と精神と宇宙が完璧なリズムで共鳴している状態を指します。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "convalescence_health",
+		"word": "convalescence",
+		"meaning": "回復期、静養",
+		"era": "15th Century",
+		"etymology": {
+			"components": [
+				"con- (with) + valescare (to grow strong)"
+			],
+			"original_statement": "From 15th Century con- (with) + valescare (to grow strong)."
+		},
+		"concept": "Time spent recovering from an illness or medical treatment (病と戦うフェーズを終え、徐々に自分の中の強さが「戻り（ヴァレス）」、新しい自分として再び立ち上がるための、静かで清浄な余白の時間。)",
+		"thinking": "病と戦うフェーズを終え、徐々に自分の中の強さが「戻り（ヴァレス）」、新しい自分として再び立ち上がるための、静かで清浄な余白の時間。",
+		"aftertaste": "「コンヴァレッセンス（静かな回復の時）」に聴く鳥の声は、今まで気づけなかった世界の繊細な彩（いろどり）を教えてくれる、特別な音楽になります。",
+		"example": "The focus on convalescence has become increasingly important in modern life.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "con-",
+					"meaning": "with) + valescare (to grow strong"
+				}
+			],
+			"points": [
+				"健康とは、肉体と精神と宇宙が完璧なリズムで共鳴している状態を指します。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "restoration_health",
+		"word": "restoration",
+		"meaning": "修復、復元",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"restaurare (to repair)"
+			],
+			"original_statement": "From 14th Century restaurare (to repair)."
+		},
+		"concept": "The action of returning something to a former owner, place, or condition (時の荒波で風化した記憶や建物を、丁寧な手仕事によって「元の（レストア）輝き」へと戻し、歴史の重みを再び今へと呼び覚ます行為。)",
+		"thinking": "時の荒波で風化した記憶や建物を、丁寧な手仕事によって「元の（レストア）輝き」へと戻し、歴史の重みを再び今へと呼び覚ます行為。",
+		"aftertaste": "古い家具の「リストレーション（修復）」を通じて、私たちはモノに宿る魂と、それを使い続けてきた人々の愛着という名の歴史を受け継ぐのです。",
+		"example": "The focus on restoration has become increasingly important in modern life.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "restaurare",
+					"meaning": "to repair"
+				}
+			],
+			"points": [
+				"健康とは、肉体と精神と宇宙が完璧なリズムで共鳴している状態を指します。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "rejuvenation_health",
+		"word": "rejuvenation",
+		"meaning": "若返り、活力を取り戻す",
+		"era": "17th Century",
+		"etymology": {
+			"components": [
+				"re- (again) + juvenis (young)"
+			],
+			"original_statement": "From 17th Century re- (again) + juvenis (young)."
+		},
+		"concept": "The action or process of making someone or something look or feel better, younger, or more vital (過去の栄光を懐かしむのではなく、今この瞬間に、心の中に「瑞々しい若さ（ジュヴナイル）」の種を再び（リ）呼び覚まし、新しい生命の帆を張ること。)",
+		"thinking": "過去の栄光を懐かしむのではなく、今この瞬間に、心の中に「瑞々しい若さ（ジュヴナイル）」の種を再び（リ）呼び覚まし、新しい生命の帆を張ること。",
+		"aftertaste": "新しい学問に挑戦することは、脳にとって最高の「リジュベネーション（若返りの秘薬）」であり、あなたの瞳に永遠の知的好奇心を灯します。",
+		"example": "The focus on rejuvenation has become increasingly important in modern life.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "re-",
+					"meaning": "again) + juvenis (young"
+				}
+			],
+			"points": [
+				"健康とは、肉体と精神と宇宙が完璧なリズムで共鳴している状態を指します。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "fitness_health",
+		"word": "fitness",
+		"meaning": "健康、適合、フィットネス",
+		"era": "16th Century",
+		"etymology": {
+			"components": [
+				"fit (suitable, proper)"
+			],
+			"original_statement": "From 16th Century fit (suitable, proper)."
+		},
+		"concept": "The condition of being physically fit and healthy (自分の命という器が、この世界の要求に対して「完璧に適合（フィット）」し、淀みのない力を発揮できているという、力強い肯定感。)",
+		"thinking": "自分の命という器が、この世界の要求に対して「完璧に適合（フィット）」し、淀みのない力を発揮できているという、力強い肯定感。",
+		"aftertaste": "「フィットネス（心身の適応力）」を磨くことは、自分の人生の操縦桿（グリップ）を、自分自身でしっかりと握り続けるための訓練そのものです。",
+		"example": "The focus on fitness has become increasingly important in modern life.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "fit",
+					"meaning": "suitable, proper"
+				}
+			],
+			"points": [
+				"健康とは、肉体と精神と宇宙が完璧なリズムで共鳴している状態を指します。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "breath_health",
+		"word": "breath",
+		"meaning": "呼吸、息",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"bræth (scent, smell, loud sound)"
+			],
+			"original_statement": "From Old English bræth (scent, smell, loud sound)."
+		},
+		"concept": "The air taken into or expelled from the lungs (外の世界と自分を直結する「唯一の出入り口」。古い自分を吐き出し、宇宙の新鮮なエナジーを吸い込むことで、一瞬ごとに生まれ変わる聖なる行為。)",
+		"thinking": "外の世界と自分を直結する「唯一の出入り口」。古い自分を吐き出し、宇宙の新鮮なエナジーを吸い込むことで、一瞬ごとに生まれ変わる聖なる行為。",
+		"aftertaste": "深い「ブレス（呼吸）」を一つするだけで、世界は一変します。酸素の一粒子一粒子が、あなたの細胞を優しく目覚めさせてくれるのを感じてください。",
+		"example": "The focus on breath has become increasingly important in modern life.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "bræth",
+					"meaning": "scent, smell, loud sound"
+				}
+			],
+			"points": [
+				"健康とは、肉体と精神と宇宙が完璧なリズムで共鳴している状態を指します。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "heartbeat_health",
+		"word": "heartbeat",
+		"meaning": "心拍、鼓動",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"heort (heart) + beatan (to beat)"
+			],
+			"original_statement": "From Old English heort (heart) + beatan (to beat)."
+		},
+		"concept": "The pulsation of the heart (生まれてから死ぬまで、一秒の休みもなく走り続ける「愛のエンジン」が奏でる、あなたという唯一無二の存在を讃（たた）える凱旋のドラム。)",
+		"thinking": "生まれてから死ぬまで、一秒の休みもなく走り続ける「愛のエンジン」が奏でる、あなたという唯一無二の存在を讃（たた）える凱旋のドラム。",
+		"aftertaste": "誰かのために「ハートビート（胸の鼓動）」が早くなる。そんな瞬間があるだけで、この不自由な人生を生きる価値は十分にあると思いませんか。",
+		"example": "The focus on heartbeat has become increasingly important in modern life.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "heort",
+					"meaning": "heart) + beatan (to beat"
+				}
+			],
+			"points": [
+				"健康とは、肉体と精神と宇宙が完璧なリズムで共鳴している状態を指します。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "skeleton_health",
+		"word": "skeleton",
+		"meaning": "骨格、骸骨",
+		"era": "16th Century",
+		"etymology": {
+			"components": [
+				"skeletos (dried up, withered)"
+			],
+			"original_statement": "From 16th Century skeletos (dried up, withered)."
+		},
+		"concept": "An object like a skeleton used as a memento mori (全ての贅肉や虚飾が「削ぎ落とされ（乾燥し）」た後に残る、存在を最小限に支え続ける究極の合理と、死を越えた不変の形（かたち）。)",
+		"thinking": "全ての贅肉や虚飾が「削ぎ落とされ（乾燥し）」た後に残る、存在を最小限に支え続ける究極の合理と、死を越えた不変の形（かたち）。",
+		"aftertaste": "組織の「スケルトン（基本構造）」を簡素化することで、情報はもっとスムーズに、もっと力強く、末端（すみずみ）まで行き渡るようになります。",
+		"example": "The focus on skeleton has become increasingly important in modern life.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "skeletos",
+					"meaning": "dried up, withered"
+				}
+			],
+			"points": [
+				"健康とは、肉体と精神と宇宙が完璧なリズムで共鳴している状態を指します。"
+			]
+		},
+		"part_of_speech": "noun"
 	}
 ];
