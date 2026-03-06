@@ -197383,5 +197383,761 @@ const WORDS = [
 			]
 		},
 		"part_of_speech": "noun"
+	},
+	{
+		"id": "congestion_city",
+		"word": "congestion",
+		"meaning": "混雑、密集、鬱血",
+		"era": "15th Century",
+		"etymology": {
+			"components": [
+				"congerere (to bring together, heap up)"
+			],
+			"original_statement": "From 15th Century congerere (to bring together, heap up)."
+		},
+		"concept": "The state of being crowded and full of traffic (あまりにも多くの要素が一箇所に「集まりすぎて」身動きが取れなくなり、都市という巨大な生命体の流れを完全に止めてしまう鬱滞（うったい）。)",
+		"thinking": "あまりにも多くの要素が一箇所に「集まりすぎて」身動きが取れなくなり、都市という巨大な生命体の流れを完全に止めてしまう鬱滞（うったい）。",
+		"aftertaste": "道路の「コンジェスチョン（渋滞）」に巻き込まれたら、焦るのをやめて、今日の空の色がこんなに綺麗であることに気づくチャンスだと思いましょう。",
+		"example": "The daily congestion shaped the lives of everyone in the metropolitan area.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "congerere",
+					"meaning": "to bring together, heap up"
+				}
+			],
+			"points": [
+				"移動と都市の秩序は、人間の拡張された意志の現れです。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "bottleneck_city",
+		"word": "bottleneck",
+		"meaning": "狭い通路、障害、ボトルネック",
+		"era": "19th Century",
+		"etymology": {
+			"components": [
+				"bottle + neck"
+			],
+			"original_statement": "From 19th Century bottle + neck."
+		},
+		"concept": "A situation that causes delay in a process or system (ボトルの「細い首の部分」のように、どんなに広い道を用意しても、そこを通らざるを得ないことで全体の流れを決定づけ、遅延させてしまう宿命的な隘路。)",
+		"thinking": "ボトルの「細い首の部分」のように、どんなに広い道を用意しても、そこを通らざるを得ないことで全体の流れを決定づけ、遅延させてしまう宿命的な隘路。",
+		"aftertaste": "効率ばかりを求めるのをやめて、このプロジェクトの「ボトルネック（目詰まり）」がどこにあるのか、静かに鳥の目で眺めてみましょう。",
+		"example": "The daily bottleneck shaped the lives of everyone in the metropolitan area.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "bottle",
+					"meaning": "+ neck"
+				}
+			],
+			"points": [
+				"移動と都市の秩序は、人間の拡張された意志の現れです。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "hub_city",
+		"word": "hub",
+		"meaning": "中心、ハブ",
+		"era": "17th Century",
+		"etymology": {
+			"components": [
+				"hus (house, casing)"
+			],
+			"original_statement": "From 17th Century hus (house, casing)."
+		},
+		"concept": "The effective center of an activity, region, or network (あらゆるネットワークの糸が一本の点へと収束し、そこから再び世界へと四方八方に拡散していく、都市機能の「心臓部であり、家」のような場所。)",
+		"thinking": "あらゆるネットワークの糸が一本の点へと収束し、そこから再び世界へと四方八方に拡散していく、都市機能の「心臓部であり、家」のような場所。",
+		"aftertaste": "古い港町が、今では最新テクノロジーの「ハブ（中核拠点）」として、世界中から若き才能を強力に引き寄せています。",
+		"example": "The daily hub shaped the lives of everyone in the metropolitan area.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "hus",
+					"meaning": "house, casing"
+				}
+			],
+			"points": [
+				"移動と都市の秩序は、人間の拡張された意志の現れです。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "interchange_city",
+		"word": "interchange",
+		"meaning": "交換、インターチェンジ",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"entre- (between) + changier (to change)"
+			],
+			"original_statement": "From 14th Century entre- (between) + changier (to change)."
+		},
+		"concept": "A junction of roads on different levels (二つの道が交差するだけでなく、高さや角度を変えて「お互いの軌道へと入り混じる」こと。情報の交換や運命の交差が、流れるような曲線を描いて行われる場所。)",
+		"thinking": "二つの道が交差するだけでなく、高さや角度を変えて「お互いの軌道へと入り混じる」こと。情報の交換や運命の交差が、流れるような曲線を描いて行われる場所。",
+		"aftertaste": "異なる分野の人間が「インターチェンジ（情報交換）」することで、思いも寄らない素晴らしいアイデアが火花を散らすのです。",
+		"example": "The daily interchange shaped the lives of everyone in the metropolitan area.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "entre-",
+					"meaning": "between) + changier (to change"
+				}
+			],
+			"points": [
+				"移動と都市の秩序は、人間の拡張された意志の現れです。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "boulevard_city",
+		"word": "boulevard",
+		"meaning": "並木道、ブルバール",
+		"era": "18th Century",
+		"etymology": {
+			"components": [
+				"bolwerc (bulwark, defense wall)"
+			],
+			"original_statement": "From 18th Century bolwerc (bulwark, defense wall)."
+		},
+		"concept": "A wide street in a town or city, typically one lined with trees (かつての防御壁（ブルワーク）が、やがて人々が優雅に歩き、自然と都市が調和して「呼吸する」ための、並木が美しい広い大通りへと変貌（へんぼう）を遂げた姿。)",
+		"thinking": "かつての防御壁（ブルワーク）が、やがて人々が優雅に歩き、自然と都市が調和して「呼吸する」ための、並木が美しい広い大通りへと変貌（へんぼう）を遂げた姿。",
+		"aftertaste": "夕暮れ時の「ブルバード（大通り）」を、好きな人とゆっくり歩く。それだけで、人生のすべての価値を証明したような気分になれます。",
+		"example": "The daily boulevard shaped the lives of everyone in the metropolitan area.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "bolwerc",
+					"meaning": "bulwark, defense wall"
+				}
+			],
+			"points": [
+				"移動と都市の秩序は、人間の拡張された意志の現れです。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "alley_city",
+		"word": "alley",
+		"meaning": "路地、裏通り",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"aler (to go, walk)"
+			],
+			"original_statement": "From 14th Century aler (to go, walk)."
+		},
+		"concept": "A narrow passage or way in a city between buildings (巨大なビルの隙間に隠され、迷い込んだ者にだけ一瞬の静寂と、都市の「本当の素顔」をこっそりと見せてくれる、細く曲がりくねった秘密の通り道。)",
+		"thinking": "巨大なビルの隙間に隠され、迷い込んだ者にだけ一瞬の静寂と、都市の「本当の素顔」をこっそりと見せてくれる、細く曲がりくねった秘密の通り道。",
+		"aftertaste": "きらびやかなメインストリートよりも、一本入った「アレイ（路地）」の古いブックカフェこそが、私の本当の居場所だったのです。",
+		"example": "The daily alley shaped the lives of everyone in the metropolitan area.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "aler",
+					"meaning": "to go, walk"
+				}
+			],
+			"points": [
+				"移動と都市の秩序は、人間の拡張された意志の現れです。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "pavement_city",
+		"word": "pavement",
+		"meaning": "舗装道路、歩道",
+		"era": "13th Century",
+		"etymology": {
+			"components": [
+				"pavare (to beat, ram down)"
+			],
+			"original_statement": "From 13th Century pavare (to beat, ram down)."
+		},
+		"concept": "A raised paved or asphalted path for pedestrians at the side of a road (荒々しい大地を力強く打ち据え（パタレート）、平らで強固な「人間のための足場」へと作り変えた、文明の第一歩となる硬い皮膚。)",
+		"thinking": "荒々しい大地を力強く打ち据え（パタレート）、平らで強固な「人間のための足場」へと作り変えた、文明の第一歩となる硬い皮膚。",
+		"aftertaste": "雨上がりの「ペイヴメント（舗道）」が街灯を反射して銀色に輝く。そんな何気ない一瞬に、私たちは都会の美しさを見出します。",
+		"example": "The daily pavement shaped the lives of everyone in the metropolitan area.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "pavare",
+					"meaning": "to beat, ram down"
+				}
+			],
+			"points": [
+				"移動と都市の秩序は、人間の拡張された意志の現れです。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "gravel_city",
+		"word": "gravel",
+		"meaning": "砂利、ジャリ",
+		"era": "13th Century",
+		"etymology": {
+			"components": [
+				"grave (sand, shore)"
+			],
+			"original_statement": "From 13th Century grave (sand, shore)."
+		},
+		"concept": "A loose aggregation of small water-worn or pounded stones (長い年月をかけて水に洗われ、小さく「角が丸くなった石の粒」。一歩踏みしめるたびに、小気味よい音を響かせて自分の存在を教えてくれる。)",
+		"thinking": "長い年月をかけて水に洗われ、小さく「角が丸くなった石の粒」。一歩踏みしめるたびに、小気味よい音を響かせて自分の存在を教えてくれる。",
+		"aftertaste": "都市の鼓動は、私たちの血液の流れと同じリズムを刻んでいます。",
+		"example": "The daily gravel shaped the lives of everyone in the metropolitan area.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "grave",
+					"meaning": "sand, shore"
+				}
+			],
+			"points": [
+				"移動と都市の秩序は、人間の拡張された意志の現れです。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "cobblestone_city",
+		"word": "cobblestone",
+		"meaning": "小石、石畳",
+		"era": "15th Century",
+		"etymology": {
+			"components": [
+				"cob (round lump) + stone"
+			],
+			"original_statement": "From 15th Century cob (round lump) + stone."
+		},
+		"concept": "A small, round stone which is used to cover road surfaces (丸っこい（コブのような）石を一つ一つ手作業で敷き詰め、ガタガタとした不便な「リズム」を刻むことで、過去の歴史と馬車の振動を現代へと繋ぐノスタルジーの路面。)",
+		"thinking": "丸っこい（コブのような）石を一つ一つ手作業で敷き詰め、ガタガタとした不便な「リズム」を刻むことで、過去の歴史と馬車の振動を現代へと繋ぐノスタルジーの路面。",
+		"aftertaste": "都市の鼓動は、私たちの血液の流れと同じリズムを刻んでいます。",
+		"example": "The daily cobblestone shaped the lives of everyone in the metropolitan area.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "cob",
+					"meaning": "round lump) + stone"
+				}
+			],
+			"points": [
+				"移動と都市の秩序は、人間の拡張された意志の現れです。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "tunnel_city",
+		"word": "tunnel",
+		"meaning": "トンネル、地下道",
+		"era": "15th Century",
+		"etymology": {
+			"components": [
+				"tonnelle (cask, vault)"
+			],
+			"original_statement": "From 15th Century tonnelle (cask, vault)."
+		},
+		"concept": "An artificial underground passage, especially one built through a hill or under a building (山や街の重みをその身に引き受け、本来は進めないはずの「暗黒の中心を貫き通す」ことで、新しい世界へと抜け出すための地下の通路。)",
+		"thinking": "山や街の重みをその身に引き受け、本来は進めないはずの「暗黒の中心を貫き通す」ことで、新しい世界へと抜け出すための地下の通路。",
+		"aftertaste": "都市の鼓動は、私たちの血液の流れと同じリズムを刻んでいます。",
+		"example": "The daily tunnel shaped the lives of everyone in the metropolitan area.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "tonnelle",
+					"meaning": "cask, vault"
+				}
+			],
+			"points": [
+				"移動と都市の秩序は、人間の拡張された意志の現れです。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "overpass_city",
+		"word": "overpass",
+		"meaning": "跨線橋（こせんきょう）、歩道橋",
+		"era": "19th Century",
+		"etymology": {
+			"components": [
+				"over + pass"
+			],
+			"original_statement": "From 19th Century over + pass."
+		},
+		"concept": "A bridge by which a road or railroad passes over another (交差する矛盾を「上下に切り離して」解決し、誰の邪魔もすることなく、また誰にも邪魔されることなく、高みの視点から世界を通過させるための知恵。)",
+		"thinking": "交差する矛盾を「上下に切り離して」解決し、誰の邪魔もすることなく、また誰にも邪魔されることなく、高みの視点から世界を通過させるための知恵。",
+		"aftertaste": "都市の鼓動は、私たちの血液の流れと同じリズムを刻んでいます。",
+		"example": "The daily overpass shaped the lives of everyone in the metropolitan area.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "over",
+					"meaning": "+ pass"
+				}
+			],
+			"points": [
+				"移動と都市の秩序は、人間の拡張された意志の現れです。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "strolling_city",
+		"word": "strolling",
+		"meaning": "散歩する、ぶらぶら歩く",
+		"era": "16th Century",
+		"etymology": {
+			"components": [
+				"strole (to wander)"
+			],
+			"original_statement": "From 16th Century strole (to wander)."
+		},
+		"concept": "Walking in a leisurely way (何一つ急ぐ理由もなく、ただ自分の心拍数と「歩調を合わせ」、流れる雲や風の音を楽しみながら、あてもなく空間を漂う贅沢。)",
+		"thinking": "何一つ急ぐ理由もなく、ただ自分の心拍数と「歩調を合わせ」、流れる雲や風の音を楽しみながら、あてもなく空間を漂う贅沢。",
+		"aftertaste": "休日の午後は、スマホを家に置いて「ストローリング（のんびり散歩）」に出かけましょう。世界がどれほど饒舌（じょうぜつ）に語りかけてくるか、きっと驚くはず。",
+		"example": "The daily strolling shaped the lives of everyone in the metropolitan area.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "strole",
+					"meaning": "to wander"
+				}
+			],
+			"points": [
+				"移動と都市の秩序は、人間の拡張された意志の現れです。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "wandering_city",
+		"word": "wandering",
+		"meaning": "放浪、迷走",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"wandrian (to roam, go astray)"
+			],
+			"original_statement": "From 14th Century wandrian (to roam, go astray)."
+		},
+		"concept": "Traveling aimlessly from place to place (正しい道（メインルート）からあえて「外れ」、迷うことそのものを目的としながら、未知の風景や自分自身の深淵を探し求める、あてのない心の旅。)",
+		"thinking": "正しい道（メインルート）からあえて「外れ」、迷うことそのものを目的としながら、未知の風景や自分自身の深淵を探し求める、あてのない心の旅。",
+		"aftertaste": "「ワンダリング（彷徨う）」した先で見た夕日は、地図通りに進んでいては見ることのできなかった、あなただけの秘密の宝物です。",
+		"example": "The daily wandering shaped the lives of everyone in the metropolitan area.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "wandrian",
+					"meaning": "to roam, go astray"
+				}
+			],
+			"points": [
+				"移動と都市の秩序は、人間の拡張された意志の現れです。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "roaming_city",
+		"word": "roaming",
+		"meaning": "徘徊、周遊、ローミング",
+		"era": "13th Century",
+		"etymology": {
+			"components": [
+				"romen (to wander, travel)"
+			],
+			"original_statement": "From 13th Century romen (to wander, travel)."
+		},
+		"concept": "Moving about or traveling aimlessly or unsystematically (特定の境界に縛られず、好奇心の赴くままに「広大な領域を駆け巡り」、世界のあらゆる断片を自由に吸収して回る、野生と知性の融合した移動。)",
+		"thinking": "特定の境界に縛られず、好奇心の赴くままに「広大な領域を駆け巡り」、世界のあらゆる断片を自由に吸収して回る、野生と知性の融合した移動。",
+		"aftertaste": "彼の瞳はいつも、まだ見ぬフロンティアを「ローミング（自由に周遊）」する、冒険家の輝きを湛（たた）えていました。",
+		"example": "The daily roaming shaped the lives of everyone in the metropolitan area.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "romen",
+					"meaning": "to wander, travel"
+				}
+			],
+			"points": [
+				"移動と都市の秩序は、人間の拡張された意志の現れです。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "surging_city",
+		"word": "surging",
+		"meaning": "押し寄せる、急増する",
+		"era": "15th Century",
+		"etymology": {
+			"components": [
+				"surgere (to rise)"
+			],
+			"original_statement": "From 15th Century surgere (to rise)."
+		},
+		"concept": "Moving suddenly and powerfully forward or upward (一つの意志を持った巨大な波のように、個々人が溶け合い、圧倒的な力で特定の方向へと「一気に突き進む」ダイナミックな群衆のエネルギー。)",
+		"thinking": "一つの意志を持った巨大な波のように、個々人が溶け合い、圧倒的な力で特定の方向へと「一気に突き進む」ダイナミックな群衆のエネルギー。",
+		"aftertaste": "「サージング（押し寄せる波のような）」な群衆の熱気の中で、私は自分一人の存在が宇宙の一部であることを、激しさと共に再認識しました。",
+		"example": "The daily surging shaped the lives of everyone in the metropolitan area.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "surgere",
+					"meaning": "to rise"
+				}
+			],
+			"points": [
+				"移動と都市の秩序は、人間の拡張された意志の現れです。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "swerving_city",
+		"word": "swerving",
+		"meaning": "急にそれる",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"sweorfan (to rub, file, depart from)"
+			],
+			"original_statement": "From Old English sweorfan (to rub, file, depart from)."
+		},
+		"concept": "Change or cause to change direction abruptly (予期せぬ障害物を回避するため、あるいは直感的な決断を下した瞬間に、これまでの軌道を「鋭く、滑るように」一瞬で転換させる、生存のための俊敏な動き。)",
+		"thinking": "予期せぬ障害物を回避するため、あるいは直感的な決断を下した瞬間に、これまでの軌道を「鋭く、滑るように」一瞬で転換させる、生存のための俊敏な動き。",
+		"aftertaste": "目の前の壁にぶつかる直前に、彼は見事なテクニックで人生を「スワーヴ（急旋回）」させ、新しい道を見事に切り拓きました。",
+		"example": "The daily swerving shaped the lives of everyone in the metropolitan area.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sweorfan",
+					"meaning": "to rub, file, depart from"
+				}
+			],
+			"points": [
+				"移動と都市の秩序は、人間の拡張された意志の現れです。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "speeding_city",
+		"word": "speeding",
+		"meaning": "スピードを出す、成功する",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"spedan (to succeed, prosper, hurry)"
+			],
+			"original_statement": "From Old English spedan (to succeed, prosper, hurry)."
+		},
+		"concept": "Moving very quickly (時間の密度を圧縮し、風を切り裂きながら「速く、そして成功へと近づく」ために、生命のエナジーを回転数へと変換しようとする野心的な疾走。)",
+		"thinking": "時間の密度を圧縮し、風を切り裂きながら「速く、そして成功へと近づく」ために、生命のエナジーを回転数へと変換しようとする野心的な疾走。",
+		"aftertaste": "「スピーディング（加速）」しすぎると、本当に大切な景色はすべて流れて見えなくなってしまいますよ。時にはブレーキを踏む勇気を。",
+		"example": "The daily speeding shaped the lives of everyone in the metropolitan area.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "spedan",
+					"meaning": "to succeed, prosper, hurry"
+				}
+			],
+			"points": [
+				"移動と都市の秩序は、人間の拡張された意志の現れです。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "slowing_city",
+		"word": "slowing",
+		"meaning": "減速、ゆるやかさ",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"slaw (dull, sluggish)"
+			],
+			"original_statement": "From Old English slaw (dull, sluggish)."
+		},
+		"concept": "Reducing speed (外部の喧騒や過剰な情報の波が収まり、時間そのものが「本来の穏やかなリズム」へと回帰していく、安らぎと再発見のための減速のプロセス。)",
+		"thinking": "外部の喧騒や過剰な情報の波が収まり、時間そのものが「本来の穏やかなリズム」へと回帰していく、安らぎと再発見のための減速のプロセス。",
+		"aftertaste": "夕暮れの街が「スローイング（速度を落とす）」していく時間帯は、私たちもまた、自分の内面の声に耳を傾けるべき聖なる時間です。",
+		"example": "The daily slowing shaped the lives of everyone in the metropolitan area.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "slaw",
+					"meaning": "dull, sluggish"
+				}
+			],
+			"points": [
+				"移動と都市の秩序は、人間の拡張された意志の現れです。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "halting_city",
+		"word": "halting",
+		"meaning": "停止、ためらい、たどたどしい",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"healt (lame)"
+			],
+			"original_statement": "From Old English healt (lame)."
+		},
+		"concept": "Bringing to a stop (自信満々に進んでいた足取りを一旦「止め」、そこにある矛盾や新しい事実に気づくための、勇気ある一時停止と深い思索の瞬間。)",
+		"thinking": "自信満々に進んでいた足取りを一旦「止め」、そこにある矛盾や新しい事実に気づくための、勇気ある一時停止と深い思索の瞬間。",
+		"aftertaste": "彼女の「ホールティング（たどたどしい）」な話し方の節々には、言葉にできないほどの深い誠実さが、たしかに宿っていました。",
+		"example": "The daily halting shaped the lives of everyone in the metropolitan area.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "healt",
+					"meaning": "lame"
+				}
+			],
+			"points": [
+				"移動と都市の秩序は、人間の拡張された意志の現れです。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "merging_city",
+		"word": "merging",
+		"meaning": "合流、併合",
+		"era": "17th Century",
+		"etymology": {
+			"components": [
+				"mergere (to dip, immerse)"
+			],
+			"original_statement": "From 17th Century mergere (to dip, immerse)."
+		},
+		"concept": "Combining or being combined into a single entity (異なる二つの流れが、一つの「大きな川へと深く潜り込み」、互いの境界を融解させて一つの目的へと向かい始める、強力で調和の取れた統合。)",
+		"thinking": "異なる二つの流れが、一つの「大きな川へと深く潜り込み」、互いの境界を融解させて一つの目的へと向かい始める、強力で調和の取れた統合。",
+		"aftertaste": "異なる二つの会社が「マージング（合併）」した時、そこには今までにない全く新しい化学反応が生まれ、業界の地図は塗り替えられました。",
+		"example": "The daily merging shaped the lives of everyone in the metropolitan area.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "mergere",
+					"meaning": "to dip, immerse"
+				}
+			],
+			"points": [
+				"移動と都市の秩序は、人間の拡張された意志の現れです。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "branching_city",
+		"word": "branching",
+		"meaning": "枝分かれ、分岐",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"branche (twig, branch of a tree)"
+			],
+			"original_statement": "From 14th Century branche (twig, branch of a tree)."
+		},
+		"concept": "Dividing into one or more subdivisions (一つの可能性の幹から、いくつもの新しい運命が「枝を伸ばす」ように分かれ出し、無限に広がる選択肢の中から自分だけの道を選び取っていく自由と不確実性の展開。)",
+		"thinking": "一つの可能性の幹から、いくつもの新しい運命が「枝を伸ばす」ように分かれ出し、無限に広がる選択肢の中から自分だけの道を選び取っていく自由と不確実性の展開。",
+		"aftertaste": "「ブランチング（分岐）」した道のどちらを選ぶべきか迷ったら、より難しく、より胸が躍る方を選んでみてはいかがでしょうか。",
+		"example": "The daily branching shaped the lives of everyone in the metropolitan area.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "branche",
+					"meaning": "twig, branch of a tree"
+				}
+			],
+			"points": [
+				"移動と都市の秩序は、人間の拡張された意志の現れです。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "diverging_city",
+		"word": "diverging",
+		"meaning": "分岐する、逸脱する",
+		"era": "17th Century",
+		"etymology": {
+			"components": [
+				"dis- (apart) + vergere (to bend)"
+			],
+			"original_statement": "From 17th Century dis- (apart) + vergere (to bend)."
+		},
+		"concept": "Tending to be different or develop in different directions (これまで同じ志を持っていた者たちが、考え方の違い（曲がり方の違い）によって、それぞれの「信じる道へと分かれて進み出す」という、寂しくも誇り高い自律の瞬間。)",
+		"thinking": "これまで同じ志を持っていた者たちが、考え方の違い（曲がり方の違い）によって、それぞれの「信じる道へと分かれて進み出す」という、寂しくも誇り高い自律の瞬間。",
+		"aftertaste": "かつての親友と意見が「ダイヴァージング（分岐）」しても、それは二人がそれぞれの人生を誠実に生きようとしている証拠です。",
+		"example": "The daily diverging shaped the lives of everyone in the metropolitan area.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "dis-",
+					"meaning": "apart) + vergere (to bend"
+				}
+			],
+			"points": [
+				"移動と都市の秩序は、人間の拡張された意志の現れです。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "crossroad_city",
+		"word": "crossroad",
+		"meaning": "交差点、十字路、岐路",
+		"era": "16th Century",
+		"etymology": {
+			"components": [
+				"cross + road"
+			],
+			"original_statement": "From 16th Century cross + road."
+		},
+		"concept": "A point where two roads cross each other (神聖な十字の形を作り、人生における「重大な決断」を迫る場所。どちらへ進むかで、その後の物語が全く別のものへと変容してしまう、運命の分岐点。)",
+		"thinking": "神聖な十字の形を作り、人生における「重大な決断」を迫る場所。どちらへ進むかで、その後の物語が全く別のものへと変容してしまう、運命の分岐点。",
+		"aftertaste": "あなたが今立っているのは、長い人生の中でも滅多にない「クロスロード（重要な岐路）」です。後悔のないよう、自分の心に正直に選んでください。",
+		"example": "The daily crossroad shaped the lives of everyone in the metropolitan area.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "cross",
+					"meaning": "+ road"
+				}
+			],
+			"points": [
+				"移動と都市の秩序は、人間の拡張された意志の現れです。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "landmark_city",
+		"word": "landmark",
+		"meaning": "目印、画期的な出来事",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"land + mearc (boundary, mark)"
+			],
+			"original_statement": "From Old English land + mearc (boundary, mark)."
+		},
+		"concept": "An object or feature of a landscape or town that is easily seen and recognized from a distance (広大な世界の中で自分を見失わないための「確かなしるし」。迷った時に立ち返るべき心の羅針盤であり、歴史に刻まれた重要な境界線。)",
+		"thinking": "広大な世界の中で自分を見失わないための「確かなしるし」。迷った時に立ち返るべき心の羅針盤であり、歴史に刻まれた重要な境界線。",
+		"aftertaste": "その研究は、科学の歴史において後世まで語り継がれる「ランドマーク（画期的な出来事）」として、人々の記憶に深く刻み込まれました。",
+		"example": "The daily landmark shaped the lives of everyone in the metropolitan area.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "land",
+					"meaning": "+ mearc (boundary, mark"
+				}
+			],
+			"points": [
+				"移動と都市の秩序は、人間の拡張された意志の現れです。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "sprawl_city",
+		"word": "sprawl",
+		"meaning": "広がること、不規則に広がる",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"spreawlian (to move the limbs convulsively)"
+			],
+			"original_statement": "From Old English spreawlian (to move the limbs convulsively)."
+		},
+		"concept": "The disorganized and unattractive expansion of an urban area adjoining a town or city (意志を持って拡大したのではなく、まるで手足をバタバタと無秩序に「広げてしまった」かのような、都市の際限なき膨張と、それに伴う自然の浸食の不協和音。)",
+		"thinking": "意志を持って拡大したのではなく、まるで手足をバタバタと無秩序に「広げてしまった」かのような、都市の際限なき膨張と、それに伴う自然の浸食の不協和音。",
+		"aftertaste": "「スプロール（不規則な都市拡大）」の波に飲み込まれそうな古い農園を守り抜く。それが、この街の伝統を愛する彼の誇りなのです。",
+		"example": "The daily sprawl shaped the lives of everyone in the metropolitan area.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "spreawlian",
+					"meaning": "to move the limbs convulsively"
+				}
+			],
+			"points": [
+				"移動と都市の秩序は、人間の拡張された意志の現れです。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "bustle_city",
+		"word": "bustle",
+		"meaning": "賑わい、せわしなく動く",
+		"era": "16th Century",
+		"etymology": {
+			"components": [
+				"busken (to prepare, get ready, make haste)"
+			],
+			"original_statement": "From 16th Century busken (to prepare, get ready, make haste)."
+		},
+		"concept": "Move in an energetic or noisy manner (明日のための「準備（ビジー）」に全員が参加しているかのような、休むことのない都市の喧騒と、生命が脈打つ活気あふれるざわめき。)",
+		"thinking": "明日のための「準備（ビジー）」に全員が参加しているかのような、休むことのない都市の喧騒と、生命が脈打つ活気あふれるざわめき。",
+		"aftertaste": "駅前の「バッスル（賑わい）」を抜けて静かな公園に辿り着いた時、都会のスピードから解き放たれ、自分自身を取り戻す感覚になれます。",
+		"example": "The daily bustle shaped the lives of everyone in the metropolitan area.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "busken",
+					"meaning": "to prepare, get ready, make haste"
+				}
+			],
+			"points": [
+				"移動と都市の秩序は、人間の拡張された意志の現れです。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "tempo_city",
+		"word": "tempo",
+		"meaning": "テンポ、速度、時期",
+		"era": "17th Century",
+		"etymology": {
+			"components": [
+				"tempus (time)"
+			],
+			"original_statement": "From 17th Century tempus (time)."
+		},
+		"concept": "The speed at which a passage of music is or should be played (「時間」という名の指揮者が、その場の出来事をどれくらいの速さで進めるかを決定するタクト。速すぎれば熱狂を生み、遅すぎれば沈黙と深い思索を強いる。)",
+		"thinking": "「時間」という名の指揮者が、その場の出来事をどれくらいの速さで進めるかを決定するタクト。速すぎれば熱狂を生み、遅すぎれば沈黙と深い思索を強いる。",
+		"aftertaste": "人生の「テンポ（速度）」を自分自身でコントロールできるようになれば、あなたはどんな慌ただしい環境でも、自分を失わずにいられるはず。",
+		"example": "The daily tempo shaped the lives of everyone in the metropolitan area.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "tempus",
+					"meaning": "time"
+				}
+			],
+			"points": [
+				"移動と都市の秩序は、人間の拡張された意志の現れです。"
+			]
+		},
+		"part_of_speech": "noun"
 	}
 ];
