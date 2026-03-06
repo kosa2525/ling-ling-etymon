@@ -195684,5 +195684,94 @@ const WORDS = [
 			]
 		},
 		"part_of_speech": "adjective"
+	},
+	{
+		"id": "scintillate_spark",
+		"word": "Scintillate",
+		"meaning": "きらめく、火花を散らす、(才気が)ほとばしる",
+		"era": "17th Century Latin scintilla",
+		"etymology": {
+			"components": [
+				"scintilla (spark)"
+			],
+			"original_statement": "From Latin scintillatus, past participle of scintillare (to sparkle, glitter, gleam), from scintilla (spark)."
+		},
+		"concept": "Emitting sparks (「命（life）」の 摩擦が 「火花（spark）」となって 激しく 「輝き放たれる（radiate）」こと)",
+		"thinking": "淀んだ静止を拒み、常に新しいアイディアや情熱が、火花のように連続的に飛び出している、躍動的で魅力的な精神の状態. 語源は「火花を散らす」. それは 安定した輝きではなく、変化し続ける「一瞬の閃き」の 連続が生み出す、圧倒的な 生命の ダンスです.",
+		"aftertaste": "閃きの連鎖. 自分の情熱を 抑え込まないで. あなたが「シンティレイト（煌めく）」し 才気をほとばしらせるとき その輝きは 周囲の人々の心にも 聖なる火を 灯すことになるのだから.",
+		"example": "The conversation began to scintillate with wit and brilliant insights as soon as she joined the table.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "skai-",
+					"meaning": "to shine, gleam (possible root)"
+				}
+			],
+			"points": [
+				"stencil（ステンシル：光を通す型）の語源に関わる説も。闇の中の、確かな光。"
+			]
+		},
+		"part_of_speech": "verb"
+	},
+	{
+		"id": "phosphorescent_spark",
+		"word": "Phosphorescent",
+		"meaning": "青白く光る、(熱を伴わずに)発光する、燐光を放つ",
+		"era": "18th Century Greek phos + phoros",
+		"etymology": {
+			"components": [
+				"phos (light)",
+				"phoros (bearing)"
+			],
+			"original_statement": "From Greek phosphoros (bringing light), from phos (light) + phoros (bringing, bearing), from pherein (to carry)."
+		},
+		"concept": "Bearing light (「外部（outside）」からの 光を 「記憶（remember）」し 暗闇で 静かに 「放ち続ける」 誠実な 輝き)",
+		"thinking": "激しい燃焼ではなく、受け取った恩恵や感動を自分の中に蓄え、光が消え去った後も、幽かに、しかし確信を持って照らし続ける、慈悲深い持続性. 語源は「光を運ぶもの」. それは 過去の美しさを 現在の暗闇の中で 再生（リプレイ）し続ける 聖なる「記憶の声」です.",
+		"aftertaste": "記憶の残光. 良い影響を 与えられた記憶を 大切にしよう. あなたがその「フォスフォレッセント（燐光）」を 絶やさずにいることで 世界の暗闇は 幽かな 希望の色に 彩られ続けるのだから.",
+		"example": "The ocean surface was alive with phosphorescent plankton, glowing emerald green in the dark night.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "bha-",
+					"meaning": "to shine"
+				},
+				{
+					"term": "bher-",
+					"meaning": "to carry"
+				}
+			],
+			"points": [
+				"phantom（幻影）や metaphor（隠喩：意味を運ぶもの）と同じ。目に見えない力を運ぶ。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "coruscate_spark",
+		"word": "Coruscate",
+		"meaning": "きらめく、才気が溢れる、(光が)明滅する",
+		"era": "18th Century Latin coruscare",
+		"etymology": {
+			"components": [
+				"coruscare (to flash, vibrate, glitter)"
+			],
+			"original_statement": "From Latin coruscatus, past participle of coruscare (to flash, vibrate, quiver, shake, glitter, gleam)."
+		},
+		"concept": "Vibrant flashing (「震える（vibrate）」 ような 「細かな明滅（glitter）」が 空間に 「リズム（rhythm）」を 与えること)",
+		"thinking": "一定の強さではなく、震えながら、揺らぎながら、それでも強く存在を主張し続ける、生命の微細な振動（バイブレーション）. 語源は「閃く、震える」. それは 完璧な静止よりも 遥かに 命を感じさせる 瑞々しい（みずみずしい） 輝きの パルスです. 知性は、リズムを刻みます.",
+		"aftertaste": "震える知性. 迷いながら 輝いていい. あなたが「コーラスケイト（煌めく）」し その繊細な 魂の震えを 表現することで 世界は より豊かな 響きを 手にすることができるのだから.",
+		"example": "The diamond began to coruscate with a thousand tiny fires under the jeweler's magnifying glass.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "unknown",
+					"meaning": "none"
+				}
+			],
+			"points": [
+				"corus（煌びやかな）のルーツ。一瞬一瞬が、新しい「生の誕生」であること。"
+			]
+		},
+		"part_of_speech": "verb"
 	}
 ];
