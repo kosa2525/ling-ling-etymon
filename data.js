@@ -204971,5 +204971,89 @@ const WORDS = [
 			]
 		},
 		"part_of_speech": "noun"
+	},
+	{
+		"id": "rationalism_reason",
+		"word": "rationalism",
+		"meaning": "合理主義、理性主義",
+		"era": "17th Century",
+		"etymology": {
+			"components": [
+				"ratio (reason, literal: 'reckoning, account')"
+			],
+			"original_statement": "From 17th Century ratio (reason, literal: 'reckoning, account')."
+		},
+		"concept": "A belief or theory that opinions and actions should be based on reason and knowledge rather than on religious belief or emotional response (感情（。の（。揺（。ら（。ぎを（。捨て（。、ひたすら「計算（。比率（。ラシオ）」に（。よって（。世界（。を（。解（。き（。明か（。そう（。とする（。、冷（。徹（。な（。る（。知性の（。牙。)",
+		"thinking": "感情（。の（。揺（。ら（。ぎを（。捨て（。、ひたすら「計算（。比率（。ラシオ）」に（。よって（。世界（。を（。解（。き（。明か（。そう（。とする（。、冷（。徹（。な（。る（。知性の（。牙。",
+		"aftertaste": "理性は、感情という名の荒波を渡るための、唯一の羅針盤なのです。",
+		"example": "The philosopher argued that human rationalism is flawed and limited by our senses.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ratio",
+					"meaning": "reason, literal: 'reckoning, account'"
+				}
+			],
+			"points": [
+				"客観とは、世界を他人の目線で見るのではなく、愛を持って世界を突き放すことなのです。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "empiricism_reason",
+		"word": "empiricism",
+		"meaning": "経験論、経験主義",
+		"era": "17th Century",
+		"etymology": {
+			"components": [
+				"em- (in) + peira (trial, experiment)"
+			],
+			"original_statement": "From 17th Century em- (in) + peira (trial, experiment)."
+		},
+		"concept": "The theory that all knowledge is derived from sense-experience (抽象（。的な（。理屈を（。信じ（。ず（。、自ら（。の（。身体で「試みる（。経験（。ペイラ）こと（。を（。信（。じ（。る（。）」こと（。。（。泥（。に（。まみれ（。、汗を（。流（。して（。得（。た（。実（。感（。だけが（。、真（。実（。の（。力と（。なる（。のです。)",
+		"thinking": "抽象（。的な（。理屈を（。信じ（。ず（。、自ら（。の（。身体で「試みる（。経験（。ペイラ）こと（。を（。信（。じ（。る（。）」こと（。。（。泥（。に（。まみれ（。、汗を（。流（。して（。得（。た（。実（。感（。だけが（。、真（。実（。の（。力と（。なる（。のです。",
+		"aftertaste": "理性は、感情という名の荒波を渡るための、唯一の羅針盤なのです。",
+		"example": "The philosopher argued that human empiricism is flawed and limited by our senses.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "em-",
+					"meaning": "in) + peira (trial, experiment"
+				}
+			],
+			"points": [
+				"客観とは、世界を他人の目線で見るのではなく、愛を持って世界を突き放すことなのです。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "analog_reason",
+		"word": "analog",
+		"meaning": "アナログ、相似のもの",
+		"era": "19th Century",
+		"etymology": {
+			"components": [
+				"ana- (according to) + logos (word, reason, ratio)"
+			],
+			"original_statement": "From 19th Century ana- (according to) + logos (word, reason, ratio)."
+		},
+		"concept": "A person or thing seen as comparable to another (デジタル（。の（。不連続（。性を（。拒（。み（。、「ことば（。ロゴス）に従（。って（。アナ）」、滑（。らかに（。繋（。が（。る（。連続（。体（。。（。そこ（。には（。、曖昧（。さという（。名の（。、無限（。の（。豊（。かさが（。宿（。って（。いる（。の（。ですよ。)",
+		"thinking": "デジタル（。の（。不連続（。性を（。拒（。み（。、「ことば（。ロゴス）に従（。って（。アナ）」、滑（。らかに（。繋（。が（。る（。連続（。体（。。（。そこ（。には（。、曖昧（。さという（。名の（。、無限（。の（。豊（。かさが（。宿（。って（。いる（。の（。ですよ。",
+		"aftertaste": "理性は、感情という名の荒波を渡るための、唯一の羅針盤なのです。",
+		"example": "The philosopher argued that human analog is flawed and limited by our senses.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ana-",
+					"meaning": "according to) + logos (word, reason, ratio"
+				}
+			],
+			"points": [
+				"客観とは、世界を他人の目線で見るのではなく、愛を持って世界を突き放すことなのです。"
+			]
+		},
+		"part_of_speech": "noun"
 	}
 ];
