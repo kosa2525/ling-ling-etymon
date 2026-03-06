@@ -213259,5 +213259,145 @@ const WORDS = [
 			]
 		},
 		"part_of_speech": "noun"
+	},
+	{
+		"id": "naught_still_v",
+		"word": "naught",
+		"meaning": "無し、虚無、ノート",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"nāwiht (nothing, literal: 'no-thing')"
+			],
+			"original_statement": "From Old English nāwiht (nothing, literal: 'no-thing')."
+		},
+		"concept": "Nothing",
+		"thinking": "静寂とは、何もないことではありません。全宇宙の可能性が、その一瞬の沈黙の中に凝縮され、産声を上げるのを待っている、最も瑞々しい状態のことなのですよ。",
+		"aftertaste": "ありのままの自分を晒すことは、弱さではありません。自らを飾ることを止め、ただそこに在るという事実の圧倒的なる輝きを、信じ抜くということなのですよ。",
+		"example": "The explorer stared into the vast naught of the desert, feeling the weight of the absolute silence that seemed to swallow all light and sound.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "nāwiht",
+					"meaning": "nothing, literal: 'no-thing'"
+				}
+			],
+			"points": [
+				"空白を埋めようとしないでください。その何もない場所が、あなたの内側へと、無限の宇宙を呼び込むための、聖なる回路になるのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "blank_still_v",
+		"word": "blank",
+		"meaning": "空白の、無記名の、ブランク",
+		"era": "13th Century",
+		"etymology": {
+			"components": [
+				"blanc (white, literal: 'shining white')"
+			],
+			"original_statement": "From 13th Century blanc (white, literal: 'shining white')."
+		},
+		"concept": "A space in a document to be filled in",
+		"thinking": "静寂とは、何もないことではありません。全宇宙の可能性が、その一瞬の沈黙の中に凝縮され、産声を上げるのを待っている、最も瑞々しい状態のことなのですよ。",
+		"aftertaste": "ありのままの自分を晒すことは、弱さではありません。自らを飾ることを止め、ただそこに在るという事実の圧倒的なる輝きを、信じ抜くということなのですよ。",
+		"example": "The explorer stared into the vast blank of the desert, feeling the weight of the absolute silence that seemed to swallow all light and sound.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "blanc",
+					"meaning": "white, literal: 'shining white'"
+				}
+			],
+			"points": [
+				"空白を埋めようとしないでください。その何もない場所が、あなたの内側へと、無限の宇宙を呼び込むための、聖なる回路になるのですよ。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "clear_still_v",
+		"word": "clear",
+		"meaning": "明快な、透明な、クリア",
+		"era": "13th Century",
+		"etymology": {
+			"components": [
+				"clarus (shining, bright, literal: 'bright')"
+			],
+			"original_statement": "From 13th Century clarus (shining, bright, literal: 'bright')."
+		},
+		"concept": "Easy to perceive, understand, or interpret",
+		"thinking": "静寂とは、何もないことではありません。全宇宙の可能性が、その一瞬の沈黙の中に凝縮され、産声を上げるのを待っている、最も瑞々しい状態のことなのですよ。",
+		"aftertaste": "ありのままの自分を晒すことは、弱さではありません。自らを飾ることを止め、ただそこに在るという事実の圧倒的なる輝きを、信じ抜くということなのですよ。",
+		"example": "The explorer stared into the vast clear of the desert, feeling the weight of the absolute silence that seemed to swallow all light and sound.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "clarus",
+					"meaning": "shining, bright, literal: 'bright'"
+				}
+			],
+			"points": [
+				"空白を埋めようとしないでください。その何もない場所が、あなたの内側へと、無限の宇宙を呼び込むための、聖なる回路になるのですよ。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "bare_still_v",
+		"word": "bare",
+		"meaning": "むき出しの、露骨な、ベア",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"bær (bare, naked)"
+			],
+			"original_statement": "From Old English bær (bare, naked)."
+		},
+		"concept": "Not clothed or covered",
+		"thinking": "静寂とは、何もないことではありません。全宇宙の可能性が、その一瞬の沈黙の中に凝縮され、産声を上げるのを待っている、最も瑞々しい状態のことなのですよ。",
+		"aftertaste": "ありのままの自分を晒すことは、弱さではありません。自らを飾ることを止め、ただそこに在るという事実の圧倒的なる輝きを、信じ抜くということなのですよ。",
+		"example": "The explorer stared into the vast bare of the desert, feeling the weight of the absolute silence that seemed to swallow all light and sound.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "bær",
+					"meaning": "bare, naked"
+				}
+			],
+			"points": [
+				"空白を埋めようとしないでください。その何もない場所が、あなたの内側へと、無限の宇宙を呼び込むための、聖なる回路になるのですよ。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "naked_still_v",
+		"word": "naked",
+		"meaning": "裸の、ありのままの、ネイキッド",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"nacod (nude, bare)"
+			],
+			"original_statement": "From Old English nacod (nude, bare)."
+		},
+		"concept": "Without clothes; not covered by any clothing",
+		"thinking": "静寂とは、何もないことではありません。全宇宙の可能性が、その一瞬の沈黙の中に凝縮され、産声を上げるのを待っている、最も瑞々しい状態のことなのですよ。",
+		"aftertaste": "ありのままの自分を晒すことは、弱さではありません。自らを飾ることを止め、ただそこに在るという事実の圧倒的なる輝きを、信じ抜くということなのですよ。",
+		"example": "The explorer stared into the vast naked of the desert, feeling the weight of the absolute silence that seemed to swallow all light and sound.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "nacod",
+					"meaning": "nude, bare"
+				}
+			],
+			"points": [
+				"空白を埋めようとしないでください。その何もない場所が、あなたの内側へと、無限の宇宙を呼び込むための、聖なる回路になるのですよ。"
+			]
+		},
+		"part_of_speech": "adjective"
 	}
 ];
