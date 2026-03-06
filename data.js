@@ -194051,5 +194051,173 @@ const WORDS = [
 			]
 		},
 		"part_of_speech": "adjective"
+	},
+	{
+		"id": "murmur_comm",
+		"word": "murmur",
+		"meaning": "つぶやき",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"murmurare (mutter)"
+			],
+			"original_statement": "From 14th Century murmurare (mutter)."
+		},
+		"concept": "A soft, indistinct sound made by a person or group of people speaking quietly. (意味よりも音の連なりとして空間を満たし、深い安らぎと親密さを醸し出す水音のような声。)",
+		"thinking": "意味よりも音の連なりとして空間を満たし、深い安らぎと親密さを醸し出す水音のような声。",
+		"aftertaste": "小川の「マーマー（せせらぎ、ささやき）」に耳を傾ける時、私たちは宇宙の胎内に帰ります。",
+		"example": "The murmur continued for a while.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "murmurare (mutter)",
+					"meaning": "known origin"
+				}
+			],
+			"points": [
+				"コミュニケーションのあり方が、関係性の質を決める。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "babble_comm",
+		"word": "babble",
+		"meaning": "片言を言う",
+		"era": "13th Century",
+		"etymology": {
+			"components": [
+				"babbelen (chatter indistinctly)"
+			],
+			"original_statement": "From 13th Century babbelen (chatter indistinctly)."
+		},
+		"concept": "Talk rapidly and continuously in a foolish, excited, or incomprehensible way (赤ちゃんの口から溢れ出す、言語の形を成す前の無垢で爆発的な生命力の音。)",
+		"thinking": "赤ちゃんの口から溢れ出す、言語の形を成す前の無垢で爆発的な生命力の音。",
+		"aftertaste": "愛する二人の間に意味のある会話は必要なく、ただ「バブル（意味のないおしゃべり）」するだけで完璧です。",
+		"example": "The babble continued for a while.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "babbelen (chatter indistinctly)",
+					"meaning": "known origin"
+				}
+			],
+			"points": [
+				"コミュニケーションのあり方が、関係性の質を決める。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "prattle_comm",
+		"word": "prattle",
+		"meaning": "ぺちゃくちゃしゃべる",
+		"era": "16th Century",
+		"etymology": {
+			"components": [
+				"prate (chatter) + -le"
+			],
+			"original_statement": "From 16th Century prate (chatter) + -le."
+		},
+		"concept": "Talk at length in a foolish or inconsequential way (深い思考を放棄し、舌先だけで生み出される軽く意味のない、しかし愛嬌のある小鳥のさえずり。)",
+		"thinking": "深い思考を放棄し、舌先だけで生み出される軽く意味のない、しかし愛嬌のある小鳥のさえずり。",
+		"aftertaste": "真面目な会議の最中、彼女の陽気な「プラットル（くだらないおしゃべり）」が場を救いました。",
+		"example": "The prattle continued for a while.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "prate (chatter) + -le",
+					"meaning": "known origin"
+				}
+			],
+			"points": [
+				"コミュニケーションのあり方が、関係性の質を決める。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "sermon_comm",
+		"word": "sermon",
+		"meaning": "説教",
+		"era": "13th Century",
+		"etymology": {
+			"components": [
+				"sermo (discourse, talk)"
+			],
+			"original_statement": "From 13th Century sermo (discourse, talk)."
+		},
+		"concept": "A talk on a religious or moral subject, especially one given during a church service (高みから一方的に放たれ、魂の迷いを正そうとする権威と重みを持った言葉のシャワー。)",
+		"thinking": "高みから一方的に放たれ、魂の迷いを正そうとする権威と重みを持った言葉のシャワー。",
+		"aftertaste": "父親の長い「サーモン（お説教）」を嫌がっていた頃が、実は一番安全で愛されていた時代でした。",
+		"example": "The sermon continued for a while.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sermo (discourse, talk)",
+					"meaning": "known origin"
+				}
+			],
+			"points": [
+				"コミュニケーションのあり方が、関係性の質を決める。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "discourse_comm",
+		"word": "discourse",
+		"meaning": "言説、談話",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"discursus (running to and fro)"
+			],
+			"original_statement": "From 14th Century discursus (running to and fro)."
+		},
+		"concept": "Written or spoken communication or debate (知性が「あちこち走り回り」、論理と論理をぶつけ合いながら高度な真実に迫ろうとする知的スポーツ。)",
+		"thinking": "知性が「あちこち走り回り」、論理と論理をぶつけ合いながら高度な真実に迫ろうとする知的スポーツ。",
+		"aftertaste": "知的な「ディスコース（論争）」は、お互いの感情を傷つけることなく世界を深く理解するための最高の遊戯です。",
+		"example": "The discourse continued for a while.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "discursus (running to and fro)",
+					"meaning": "known origin"
+				}
+			],
+			"points": [
+				"コミュニケーションのあり方が、関係性の質を決める。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "feud_comm",
+		"word": "feud",
+		"meaning": "確執、抗争",
+		"era": "Middle English",
+		"etymology": {
+			"components": [
+				"fede (enmity)"
+			],
+			"original_statement": "From Middle English fede (enmity)."
+		},
+		"concept": "A prolonged and bitter quarrel or dispute (代々にわたって引き継がれ、なぜ争い始めたのかさえ忘れてしまったほどの、呪いのように深い怨念の歴史。)",
+		"thinking": "代々にわたって引き継がれ、なぜ争い始めたのかさえ忘れてしまったほどの、呪いのように深い怨念の歴史。",
+		"aftertaste": "血を洗うような「フュード（長年の確執）」に終止符を打つのは、たった一つの許しの言葉です。",
+		"example": "The feud continued for a while.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "fede (enmity)",
+					"meaning": "known origin"
+				}
+			],
+			"points": [
+				"コミュニケーションのあり方が、関係性の質を決める。"
+			]
+		},
+		"part_of_speech": "noun"
 	}
 ];
