@@ -206987,5 +206987,313 @@ const WORDS = [
 			]
 		},
 		"part_of_speech": "noun"
+	},
+	{
+		"id": "spindle_garment",
+		"word": "spindle",
+		"meaning": "紡錘（ぼうすい）、回転軸、スピンドル",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"spinnan (to spin)"
+			],
+			"original_statement": "From Old English spinnan (to spin)."
+		},
+		"concept": "A slender rounded rod with tapered ends used in hand-spinning to twist and wind stock from a distaff into yarn (混沌（。とした（。原棉（。から（。、命の（。糸を「紡（。ぎ（。出す（。スピン）」ための（。、静（。か（。な（。る（。回転（。。（。一点（。を（。軸（。に（。し（。て（。、無（。窮（。なる（。エナジーを（。、線（。へと（。変えて（。いく（。、魔法（。の（。杖。)",
+		"thinking": "混沌（。とした（。原棉（。から（。、命の（。糸を「紡（。ぎ（。出す（。スピン）」ための（。、静（。か（。な（。る（。回転（。。（。一点（。を（。軸（。に（。し（。て（。、無（。窮（。なる（。エナジーを（。、線（。へと（。変えて（。いく（。、魔法（。の（。杖。",
+		"aftertaste": "糸の一本一本は、バラバラな心を繋ぎ止めるための、静かなる誓いなのです。",
+		"example": "The shop offered a wide variety of spindle made from high-quality natural fibers.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "spinnan",
+					"meaning": "to spin"
+				}
+			],
+			"points": [
+				"纏うという行為は、世界に対して自らをどう定義するか、という無言の宣言なのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "bobbin_garment",
+		"word": "bobbin",
+		"meaning": "糸巻き、ボビン",
+		"era": "16th Century",
+		"etymology": {
+			"components": [
+				"bobine (spool)"
+			],
+			"original_statement": "From 16th Century bobine (spool)."
+		},
+		"concept": "A cylinder or cone holding thread, yarn, or wire, used especially in weaving, machine sewing, and lacemaking (紡（。が（。れた（。糸を、一（。時（。的に「預（。か（。る（。ボビン）』ための（。器（。。（。そこ（。には（。、次（。なる（。創造（。を（。夢見（。る（。、静（。か（。な（。る（。待機（。の（。エナジーが（。、幾（。重（。にも（。巻（。か（。れて（。いる（。のですよ。)",
+		"thinking": "紡（。が（。れた（。糸を、一（。時（。的に「預（。か（。る（。ボビン）』ための（。器（。。（。そこ（。には（。、次（。なる（。創造（。を（。夢見（。る（。、静（。か（。な（。る（。待機（。の（。エナジーが（。、幾（。重（。にも（。巻（。か（。れて（。いる（。のですよ。",
+		"aftertaste": "糸の一本一本は、バラバラな心を繋ぎ止めるための、静かなる誓いなのです。",
+		"example": "The shop offered a wide variety of bobbin made from high-quality natural fibers.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "bobine",
+					"meaning": "spool"
+				}
+			],
+			"points": [
+				"纏うという行為は、世界に対して自らをどう定義するか、という無言の宣言なのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "fiber_garment",
+		"word": "fiber",
+		"meaning": "繊維、ファイバー、気質",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"fibra (fiber, literal: 'entrail')"
+			],
+			"original_statement": "From 14th Century fibra (fiber, literal: 'entrail')."
+		},
+		"concept": "A thread or filament from which a vegetable tissue, mineral substance, or textile is formed (物体の（。奥深くに（。、まるで「内臓（。フィブラ）」のように張り巡らさ（。れた（。、細（。い（。筋（。。（。その（。一本（。一本（。の（。強（。靭（。さが（。、巨大（。な（。調和（。を（。、底（。知（。れ（。ぬ（。力（。で（。支えて（。いる（。のですよ。)",
+		"thinking": "物体の（。奥深くに（。、まるで「内臓（。フィブラ）」のように張り巡らさ（。れた（。、細（。い（。筋（。。（。その（。一本（。一本（。の（。強（。靭（。さが（。、巨大（。な（。調和（。を（。、底（。知（。れ（。ぬ（。力（。で（。支えて（。いる（。のですよ。",
+		"aftertaste": "糸の一本一本は、バラバラな心を繋ぎ止めるための、静かなる誓いなのです。",
+		"example": "The shop offered a wide variety of fiber made from high-quality natural fibers.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "fibra",
+					"meaning": "fiber, literal: 'entrail'"
+				}
+			],
+			"points": [
+				"纏うという行為は、世界に対して自らをどう定義するか、という無言の宣言なのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "seam_garment",
+		"word": "seam",
+		"meaning": "縫い目、継ぎ目、シーム",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"sēam (seam, suture)"
+			],
+			"original_statement": "From Old English sēam (seam, suture)."
+		},
+		"concept": "A line where two pieces of fabric are sewn together in a garment or other article (異（。なる（。布と（。布を「結び（。合わせた（。シーム）」痕跡（。。（。隠（。さ（。れた（。その（。継（。ぎ目（。にこそ（。、職人（。の（。誠実（。さと（。、構造（。の（。真（。実（。が（。、密（。かに（。、宿（。って（。いる（。のですよ。)",
+		"thinking": "異（。なる（。布と（。布を「結び（。合わせた（。シーム）」痕跡（。。（。隠（。さ（。れた（。その（。継（。ぎ目（。にこそ（。、職人（。の（。誠実（。さと（。、構造（。の（。真（。実（。が（。、密（。かに（。、宿（。って（。いる（。のですよ。",
+		"aftertaste": "糸の一本一本は、バラバラな心を繋ぎ止めるための、静かなる誓いなのです。",
+		"example": "The shop offered a wide variety of seam made from high-quality natural fibers.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sēam",
+					"meaning": "seam, suture"
+				}
+			],
+			"points": [
+				"纏うという行為は、世界に対して自らをどう定義するか、という無言の宣言なのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "cuff_garment",
+		"word": "cuff",
+		"meaning": "袖口（そでぐち）、カフス",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"Origin uncertain, possibly related to glove"
+			],
+			"original_statement": "From 14th Century Origin uncertain, possibly related to glove."
+		},
+		"concept": "The end part of a sleeve, where the material of the sleeve is turned back or a separate band is sewn on (手（。の（。動き（。を（。邪魔（。し（。ない（。ように（。、そっと「包（。み（。守（。る（。カフ）」場所（。。（。その（。円（。環（。状の（。秩序（。が（。、あなた（。の（。指先（。に（。、静（。か（。な（。る（。矜（。持（。を（。与（。えて（。くれ（。る（。のですよ。)",
+		"thinking": "手（。の（。動き（。を（。邪魔（。し（。ない（。ように（。、そっと「包（。み（。守（。る（。カフ）」場所（。。（。その（。円（。環（。状の（。秩序（。が（。、あなた（。の（。指先（。に（。、静（。か（。な（。る（。矜（。持（。を（。与（。えて（。くれ（。る（。のですよ。",
+		"aftertaste": "糸の一本一本は、バラバラな心を繋ぎ止めるための、静かなる誓いなのです。",
+		"example": "The shop offered a wide variety of cuff made from high-quality natural fibers.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "Origin",
+					"meaning": "uncertain, possibly related to glove"
+				}
+			],
+			"points": [
+				"纏うという行為は、世界に対して自らをどう定義するか、という無言の宣言なのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "embroidery_garment",
+		"word": "embroidery",
+		"meaning": "刺繍（ししゅう）、潤色",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"en- (in) + broder (to edge, literal: 'on the edge')"
+			],
+			"original_statement": "From 14th Century en- (in) + broder (to edge, literal: 'on the edge')."
+		},
+		"concept": "The art or pastime of embroidering cloth (ただの（。布に（。、色（。鮮（。やかな（。エナジーを「刺（。し（。込（。む（。ブロード）中（。イン）」こと（。。（。その（。立体（。的（。な（。煌（。め（。き（。は（。、日常（。の（。平坦（。さを（。越（。え（。た（。場所（。にある（。、至高（。の（。遊悦。)",
+		"thinking": "ただの（。布に（。、色（。鮮（。やかな（。エナジーを「刺（。し（。込（。む（。ブロード）中（。イン）」こと（。。（。その（。立体（。的（。な（。煌（。め（。き（。は（。、日常（。の（。平坦（。さを（。越（。え（。た（。場所（。にある（。、至高（。の（。遊悦。",
+		"aftertaste": "糸の一本一本は、バラバラな心を繋ぎ止めるための、静かなる誓いなのです。",
+		"example": "The shop offered a wide variety of embroidery made from high-quality natural fibers.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "en-",
+					"meaning": "in) + broder (to edge, literal: 'on the edge'"
+				}
+			],
+			"points": [
+				"纏うという行為は、世界に対して自らをどう定義するか、という無言の宣言なのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "brocade_garment",
+		"word": "brocade",
+		"meaning": "錦（にしき）、金襴（きんらん）",
+		"era": "16th Century",
+		"etymology": {
+			"components": [
+				"broccus (projecting, literal: 'to prick')"
+			],
+			"original_statement": "From 16th Century broccus (projecting, literal: 'to prick')."
+		},
+		"concept": "A rich fabric, typically silk, woven with a raised pattern, typically with gold or silver thread (厚（。手の（。布（。に（。、美し（。い（。文様を「浮（。き（。出さ（。せた（。ブロッ）」織物（。。（。そこ（。には（。、権威（。と（。豊饒（。が（。、金（。銀（。の（。糸（。と（。共（。に（。、幾（。重（。にも（。、織（。り（。込（。ま（。れて（。いる（。のですよ。)",
+		"thinking": "厚（。手の（。布（。に（。、美し（。い（。文様を「浮（。き（。出さ（。せた（。ブロッ）」織物（。。（。そこ（。には（。、権威（。と（。豊饒（。が（。、金（。銀（。の（。糸（。と（。共（。に（。、幾（。重（。にも（。、織（。り（。込（。ま（。れて（。いる（。のですよ。",
+		"aftertaste": "糸の一本一本は、バラバラな心を繋ぎ止めるための、静かなる誓いなのです。",
+		"example": "The shop offered a wide variety of brocade made from high-quality natural fibers.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "broccus",
+					"meaning": "projecting, literal: 'to prick'"
+				}
+			],
+			"points": [
+				"纏うという行為は、世界に対して自らをどう定義するか、という無言の宣言なのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "apparel_garment",
+		"word": "apparel",
+		"meaning": "衣服、装具、アパレル",
+		"era": "13th Century",
+		"etymology": {
+			"components": [
+				"ad- (to) + parere (to join, make ready, literal: 'to prepare')"
+			],
+			"original_statement": "From 13th Century ad- (to) + parere (to join, make ready, literal: 'to prepare')."
+		},
+		"concept": "Clothing in general (裸（。の（。自分を（。、社会（。と「繋（。ぎ（。止（。める（。アダ、パラ）」ために（。、あらかじめ（。整（。え（。られた（。もの（。。（。あなた（。が（。今日（。、何（。を（。纏（。う（。のか、それ（。が（。あなた（。の（。言葉（。その（。もの（。に（。なる（。のですよ。)",
+		"thinking": "裸（。の（。自分を（。、社会（。と「繋（。ぎ（。止（。める（。アダ、パラ）」ために（。、あらかじめ（。整（。え（。られた（。もの（。。（。あなた（。が（。今日（。、何（。を（。纏（。う（。のか、それ（。が（。あなた（。の（。言葉（。その（。もの（。に（。なる（。のですよ。",
+		"aftertaste": "糸の一本一本は、バラバラな心を繋ぎ止めるための、静かなる誓いなのです。",
+		"example": "The shop offered a wide variety of apparel made from high-quality natural fibers.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ad-",
+					"meaning": "to) + parere (to join, make ready, literal: 'to prepare'"
+				}
+			],
+			"points": [
+				"纏うという行為は、世界に対して自らをどう定義するか、という無言の宣言なのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "wardrobe_garment",
+		"word": "wardrobe",
+		"meaning": "衣装だんす、持ち衣装、ワードローブ",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"ward (to guard) + robe (garment)"
+			],
+			"original_statement": "From 14th Century ward (to guard) + robe (garment)."
+		},
+		"concept": "A large, tall cabinet in which clothes may be hung or stored (多（。色（。多（。様な（。自分（。という（。名の「隠（。れ（。みの（。ローブ）を（。守る（。ワード）」場所（。。（。扉（。を（。開（。けるた（。びに（。、あなた（。は（。、全（。く（。新（。しい（。自分を（。、再（。発見（。する（。のです。)",
+		"thinking": "多（。色（。多（。様な（。自分（。という（。名の「隠（。れ（。みの（。ローブ）を（。守る（。ワード）」場所（。。（。扉（。を（。開（。けるた（。びに（。、あなた（。は（。、全（。く（。新（。しい（。自分を（。、再（。発見（。する（。のです。",
+		"aftertaste": "糸の一本一本は、バラバラな心を繋ぎ止めるための、静かなる誓いなのです。",
+		"example": "The shop offered a wide variety of wardrobe made from high-quality natural fibers.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ward",
+					"meaning": "to guard) + robe (garment"
+				}
+			],
+			"points": [
+				"纏うという行為は、世界に対して自らをどう定義するか、という無言の宣言なのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "mantle_garment",
+		"word": "mantle",
+		"meaning": "マント、覆い、地殻",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"mantel (cloak)"
+			],
+			"original_statement": "From Old English mantel (cloak)."
+		},
+		"concept": "A loose sleeveless cloak or shawl, worn especially by women (自（。らを（。大きく（。見（。せ（。、全（。てを「優（。しく（。覆（。い（。隠（。す（。マンテル）」衣（。裳（。（。そこ（。には（。、使命（。と（。いう（。名の（。重厚（。な（。る（。尊厳が（。、肩（。の（。上（。に（。、誇（。り（。高く（。、宿（。って（。いる（。のですよ。)",
+		"thinking": "自（。らを（。大きく（。見（。せ（。、全（。てを「優（。しく（。覆（。い（。隠（。す（。マンテル）」衣（。裳（。（。そこ（。には（。、使命（。と（。いう（。名の（。重厚（。な（。る（。尊厳が（。、肩（。の（。上（。に（。、誇（。り（。高く（。、宿（。って（。いる（。のですよ。",
+		"aftertaste": "糸の一本一本は、バラバラな心を繋ぎ止めるための、静かなる誓いなのです。",
+		"example": "The shop offered a wide variety of mantle made from high-quality natural fibers.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "mantel",
+					"meaning": "cloak"
+				}
+			],
+			"points": [
+				"纏うという行為は、世界に対して自らをどう定義するか、という無言の宣言なのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "hosiery_garment",
+		"word": "hosiery",
+		"meaning": "靴下類、メリヤス、ホージャリー",
+		"era": "17th Century",
+		"etymology": {
+			"components": [
+				"hose (legging) + -ery"
+			],
+			"original_statement": "From 17th Century hose (legging) + -ery."
+		},
+		"concept": "Stockings, socks, and tights collectively (大地と（。直（。接（。触（。れる（。足を、静（。かに「包み（。守（。る（。ホース）」もの（。たちの（。総（。称（。（。その（。密（。かな（。る（。支（。えが（。、あなた（。の（。一歩（。一歩（。を（。、軽（。やかに（。、し（。な（。やかに（。、して（。くれる（。のですよ。)",
+		"thinking": "大地と（。直（。接（。触（。れる（。足を、静（。かに「包み（。守（。る（。ホース）」もの（。たちの（。総（。称（。（。その（。密（。かな（。る（。支（。えが（。、あなた（。の（。一歩（。一歩（。を（。、軽（。やかに（。、し（。な（。やかに（。、して（。くれる（。のですよ。",
+		"aftertaste": "糸の一本一本は、バラバラな心を繋ぎ止めるための、静かなる誓いなのです。",
+		"example": "The shop offered a wide variety of hosiery made from high-quality natural fibers.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "hose",
+					"meaning": "legging) + -ery"
+				}
+			],
+			"points": [
+				"纏うという行為は、世界に対して自らをどう定義するか、という無言の宣言なのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
 	}
 ];
