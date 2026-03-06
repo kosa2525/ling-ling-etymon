@@ -202983,5 +202983,117 @@ const WORDS = [
 			]
 		},
 		"part_of_speech": "noun"
+	},
+	{
+		"id": "vigilance_mind",
+		"word": "vigilance",
+		"meaning": "警戒、用心、不眠の守り",
+		"era": "17th Century",
+		"etymology": {
+			"components": [
+				"vigil (awake, watchful)"
+			],
+			"original_statement": "From 17th Century vigil (awake, watchful)."
+		},
+		"concept": "The action or state of keeping careful watch for possible danger or difficulties (どんなに（。安（。ら（。ぎ（。の中に（。あっても（。、魂の（。一部が「目（。を（。覚（。まし（。ヴィジル）ている（。）」こと（。。（。大切な（。ものを（。守（。り（。抜（。くための（。、孤独（。で（。誠実（。な（。眼差し。)",
+		"thinking": "どんなに（。安（。ら（。ぎ（。の中に（。あっても（。、魂の（。一部が「目（。を（。覚（。まし（。ヴィジル）ている（。）」こと（。。（。大切な（。ものを（。守（。り（。抜（。くための（。、孤独（。で（。誠実（。な（。眼差し。",
+		"aftertaste": "まなざしは、世界に色を付けるための、魔法の筆です。",
+		"example": "The philosopher explored the depths of human vigilance and its relation to ethics.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "vigil",
+					"meaning": "awake, watchful"
+				}
+			],
+			"points": [
+				"知性とは、暗闇の中に新しい光を見出すための、不屈の勇気のことです。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "mindfulness_mind",
+		"word": "mindfulness",
+		"meaning": "マインドフルネス、今ここにあること",
+		"era": "16th Century",
+		"etymology": {
+			"components": [
+				"mind + -ful + -ness"
+			],
+			"original_statement": "From 16th Century mind + -ful + -ness."
+		},
+		"concept": "A mental state achieved by focusing one's awareness on the present moment, while calmly acknowledging and accepting one's feelings, thoughts, and bodily sensations (過去の（。後悔（。や（。未来への（。不安（。に（。心を（。捕（。らわ（。さ（。れ（。ず（。、ただ「今（。この（。瞬間（。の（。全（。て（。マインドフル）」を（。、全（。身で（。あり（。の（。まま（。に（。受け（。入れる（。、魂の（。安息。)",
+		"thinking": "過去の（。後悔（。や（。未来への（。不安（。に（。心を（。捕（。らわ（。さ（。れ（。ず（。、ただ「今（。この（。瞬間（。の（。全（。て（。マインドフル）」を（。、全（。身で（。あり（。の（。まま（。に（。受け（。入れる（。、魂の（。安息。",
+		"aftertaste": "まなざしは、世界に色を付けるための、魔法の筆です。",
+		"example": "The philosopher explored the depths of human mindfulness and its relation to ethics.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "mind",
+					"meaning": "+ -ful + -ness"
+				}
+			],
+			"points": [
+				"知性とは、暗闇の中に新しい光を見出すための、不屈の勇気のことです。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "retrospection_mind",
+		"word": "retrospection",
+		"meaning": "回顧、追憶",
+		"era": "17th Century",
+		"etymology": {
+			"components": [
+				"retro- (back) + specere (to look)"
+			],
+			"original_statement": "From 17th Century retro- (back) + specere (to look)."
+		},
+		"concept": "The action of looking back on or reviewing past events or situations, especially those in one's own life (現在（。の（。自分（。を（。一度（。止（。め（。、「過去を（。後ろ向きに（。レトロ）見つめ（。スぺ）直す（。）」こと（。。（。過ぎ（。去（。った（。出来事（。の（。中に（。、今（。を（。生きる（。ための（。知恵（。の（。欠片（。を（。探（。す（。旅。)",
+		"thinking": "現在（。の（。自分（。を（。一度（。止（。め（。、「過去を（。後ろ向きに（。レトロ）見つめ（。スぺ）直す（。）」こと（。。（。過ぎ（。去（。った（。出来事（。の（。中に（。、今（。を（。生きる（。ための（。知恵（。の（。欠片（。を（。探（。す（。旅。",
+		"aftertaste": "まなざしは、世界に色を付けるための、魔法の筆です。",
+		"example": "The philosopher explored the depths of human retrospection and its relation to ethics.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "retro-",
+					"meaning": "back) + specere (to look"
+				}
+			],
+			"points": [
+				"知性とは、暗闇の中に新しい光を見出すための、不屈の勇気のことです。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "tenet_mind",
+		"word": "tenet",
+		"meaning": "教義、信条、テネット",
+		"era": "16th Century",
+		"etymology": {
+			"components": [
+				"tenere (to hold)"
+			],
+			"original_statement": "From 16th Century tenere (to hold)."
+		},
+		"concept": "A principle or belief, especially one of the main principles of a religion or philosophy (誰（。に（。何と（。言わ（。れて（。も（。、自らの（。魂が「しっかりと（。把（。持（。して（。テネ）離（。さない（。）」絶対（。の（。確信（。。（。あなた（。を（。最後（。まで（。支（。える（。、精神の（。背骨。)",
+		"thinking": "誰（。に（。何と（。言わ（。れて（。も（。、自らの（。魂が「しっかりと（。把（。持（。して（。テネ）離（。さない（。）」絶対（。の（。確信（。。（。あなた（。を（。最後（。まで（。支（。える（。、精神の（。背骨。",
+		"aftertaste": "まなざしは、世界に色を付けるための、魔法の筆です。",
+		"example": "The philosopher explored the depths of human tenet and its relation to ethics.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "tenere",
+					"meaning": "to hold"
+				}
+			],
+			"points": [
+				"知性とは、暗闇の中に新しい光を見出すための、不屈の勇気のことです。"
+			]
+		},
+		"part_of_speech": "noun"
 	}
 ];
