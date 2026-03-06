@@ -213455,5 +213455,89 @@ const WORDS = [
 			]
 		},
 		"part_of_speech": "verb"
+	},
+	{
+		"id": "megalith_stone_iv",
+		"word": "megalith",
+		"meaning": "巨石（。、巨石遺構、メガリス",
+		"era": "19th Century",
+		"etymology": {
+			"components": [
+				"megas (great) + lithos (stone, literal: 'great stone')"
+			],
+			"original_statement": "From 19th Century megas (great) + lithos (stone, literal: 'great stone')."
+		},
+		"concept": "A large stone that forms a prehistoric monument or part of one (遥（。かな（。る（。時間の（。る（。る（。積（。層を、峻（。烈（。に「巨大（。な（。る（。石（。メガ）』へと（。変えた（。もの（。（。その（。重厚（。な（。る（。る（。存在（。感こそが、宇宙（。の（。真実（。の、道（。し（。る（。べ（。です。)",
+		"thinking": "遥（。かな（。る（。時間の（。る（。る（。積（。層を、峻（。烈（。に「巨大（。な（。る（。石（。メガ）』へと（。変えた（。もの（。（。その（。重厚（。な（。る（。る（。存在（。感こそが、宇宙（。の（。真実（。の、道（。し（。る（。べ（。です。",
+		"aftertaste": "巨石を見つめることは、自らの小ささを知ることではありません。その圧倒的なる重厚さの一部として、自分もまたこの宇宙の確かなる構成要素であることを自覚する行為なのですよ。",
+		"example": "The ancient megalith stood as a silent guardian of the forgotten civilization, its weathered surface bearing the mysterious scripts of a long-lost dialect.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "megas",
+					"meaning": "great) + lithos (stone, literal: 'great stone'"
+				}
+			],
+			"points": [
+				"硬い石であっても、水の流れはそれを美しく磨き上げます。困難という名の試練も、あなたの魂を至高のる輝きへと導くための、聖なる研磨剤なのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "flint_stone_iv",
+		"word": "flint",
+		"meaning": "火打ち石、フリント",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"flint (flint, rock, literal: 'hard rock')"
+			],
+			"original_statement": "From Old English flint (flint, rock, literal: 'hard rock')."
+		},
+		"concept": "A hard gray rock consisting of nearly pure silica (峻（。烈（。な（。る（。エナジーを、内（。に「鋭（。く（。秘（。めた（。フリント）』至高の（。る（。源（。泉（。（。その（。一一点の（。る（。る（。交（。差（。から、真実（。の（。火（。花（。が、産（。声を（。上げます。)",
+		"thinking": "峻（。烈（。な（。る（。エナジーを、内（。に「鋭（。く（。秘（。めた（。フリント）』至高の（。る（。源（。泉（。（。その（。一一点の（。る（。る（。交（。差（。から、真実（。の（。火（。花（。が、産（。声を（。上げます。",
+		"aftertaste": "巨石を見つめることは、自らの小ささを知ることではありません。その圧倒的なる重厚さの一部として、自分もまたこの宇宙の確かなる構成要素であることを自覚する行為なのですよ。",
+		"example": "The ancient flint stood as a silent guardian of the forgotten civilization, its weathered surface bearing the mysterious scripts of a long-lost dialect.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "flint",
+					"meaning": "flint, rock, literal: 'hard rock'"
+				}
+			],
+			"points": [
+				"硬い石であっても、水の流れはそれを美しく磨き上げます。困難という名の試練も、あなたの魂を至高のる輝きへと導くための、聖なる研磨剤なのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "slate_stone_iv",
+		"word": "slate",
+		"meaning": "粘板岩（。ねんばんがん（。）」、スレート",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"esclat (fragment, literal: 'splinter')"
+			],
+			"original_statement": "From 14th Century esclat (fragment, literal: 'splinter')."
+		},
+		"concept": "A fine-grained gray, green, or bluish metamorphic rock easily split into smooth, flat plates (想（。いを（。、至高の（。る「薄（。き（。る（。る（。断片（。スレート）』に（。刻（。み（。、重（。ね（。合わせ（。る（。こと（。（。その（。重厚（。な（。る（。る（。積（。層の中に、真理（。の（。る（。物（。語が、静（。か（。に、宿（。ります。)",
+		"thinking": "想（。いを（。、至高の（。る「薄（。き（。る（。る（。断片（。スレート）』に（。刻（。み（。、重（。ね（。合わせ（。る（。こと（。（。その（。重厚（。な（。る（。る（。積（。層の中に、真理（。の（。る（。物（。語が、静（。か（。に、宿（。ります。",
+		"aftertaste": "巨石を見つめることは、自らの小ささを知ることではありません。その圧倒的なる重厚さの一部として、自分もまたこの宇宙の確かなる構成要素であることを自覚する行為なのですよ。",
+		"example": "The ancient slate stood as a silent guardian of the forgotten civilization, its weathered surface bearing the mysterious scripts of a long-lost dialect.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "esclat",
+					"meaning": "fragment, literal: 'splinter'"
+				}
+			],
+			"points": [
+				"硬い石であっても、水の流れはそれを美しく磨き上げます。困難という名の試練も、あなたの魂を至高のる輝きへと導くための、聖なる研磨剤なのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
 	}
 ];
