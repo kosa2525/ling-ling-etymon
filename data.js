@@ -197834,5 +197834,91 @@ const WORDS = [
 			]
 		},
 		"part_of_speech": "noun"
+	},
+	{
+		"id": "efflorescence_bloom_fixed",
+		"word": "Efflorescence",
+		"meaning": "開花、開花期、(才能などの)発現、(化学)風解",
+		"era": "17th Century Latin ex- + florere",
+		"etymology": {
+			"components": [
+				"ex- (out)",
+				"florere (to bloom)"
+			],
+			"original_statement": "From French efflorescence, from Latin efflorescere (to blossom, bloom), from ex- (out) + florescere (to begin to bloom), from florere (to bloom)."
+		},
+		"concept": "Blooming out (「内部（inside）」に 秘められた 「可能性（potential）」が 「極限（limit）」まで 「成熟（mature）」し 「一気（all at once）」に 「外部」へと 「顕現」すること)",
+		"thinking": "ただの 開花 ではなく、全存在を 賭けた（ステーク） 圧倒的な 自己表現であり、その 瞬間にしか 存在し得ない、極限の 美しさと 儚さの 幸福な 一致. 語源は「咲き出でること」. それは 誰かのため ではなく 自らの 生命の 必然として 世界を 彩ろうとする 聖なる「祝祭」の 表現です. 開花は、勝利です.",
+		"aftertaste": "才能の祝祭. 自分の タイミングを 誰かと 比べないで. あなたが 誠実に 自己を 耕し（カルティベート）「エフロレッセンス（開花）」の 瞬間を 迎えたとき その 輝きは 宇宙の 全ての 祝福を 独占するほどに まばゆいものに なるのだから.",
+		"example": "The 1920s saw a magnificent efflorescence of literature and art in the heart of Paris.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "bhlo-",
+					"meaning": "to bloom"
+				}
+			],
+			"points": [
+				"flower（花）や flourish（繁栄する）と同じ。生命力の 最高の 到達点。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "prolific_potential",
+		"word": "Prolific",
+		"meaning": "多産の、多作の、豊かな、実り多い",
+		"era": "17th Century Latin proles + facere",
+		"etymology": {
+			"components": [
+				"proles (offspring)",
+				"facere (to make)"
+			],
+			"original_statement": "From French prolifique, from Medieval Latin prolificus, from Latin proles (offspring) + facere (to make)."
+		},
+		"concept": "Offspring-making (「自我（ego）」を 「他者（others）」へと 「無限（infinite）」に 「分け与え（share）」 世界を 「自分の一部」として 「満たして」ゆくこと)",
+		"thinking": "単なる 数の 多さ ではなく、自らの 存在が 源泉（ソース）となって、次から 次へと 新しい 命や 意味を 産み出し続ける、宇宙を 肯定する 圧倒的な 創造性. 語源は「子孫を 作ること」. それは 枯渇（こかつ）の 恐怖 ではなく 無限の 豊かさを 信じ抜く 聖なる「信頼」の 表現です. 豊かさは、信頼です.",
+		"aftertaste": "無限の創造. 惜しみ（おしみ）なく 与え続けよう. あなたが「プロリフィック（多作な）」な 精神で 自分の ギフト（才能）を 世界に 放ち続けるとき 宇宙は 更なる 智慧と エナジーを あなたに 注ぎ込み続けるのだから.",
+		"example": "Picasso was an incredibly prolific artist, creating thousands of works across many different mediums during his long career.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "al-",
+					"meaning": "to grow, nourish (possible link for proles)"
+				}
+			],
+			"points": [
+				"proletariat（プロレタリア：子供しか持たない者）と同じ。生命を 繋ぐという、究極の 財産。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "gestate_potential",
+		"word": "Gestate",
+		"meaning": "妊娠期間を過ごす、(考えなどを)練り上げる、(ゆっくりと)育つ",
+		"era": "19th Century Latin gerere",
+		"etymology": {
+			"components": [
+				"gerere (to bear, carry)"
+			],
+			"original_statement": "From Latin gestatus, past participle of gestare (to bear, carry, gestate), frequentative of gerere (to bear, carry)."
+		},
+		"concept": "Carrying inside (「外部の 喧騒（external noise）」から 「隔離（isolated）」された 「聖なる 深淵（sacred depth）」で 「真理」を 「静かに」 「醸成」すること)",
+		"thinking": "すぐに 成果（アウトプット）を 求める 焦りを 捨て、自分自身の 内なる 暗闇（子宮）の中で、新しい 命や 智慧が 完璧な 形に なるまで 慈しみ（いつくしみ） 守り抜く、聖なる「猶予（ゆうよ）」の プロセス. 語源は「運ぶ、身ごもる」. それは 沈黙 ではなく 生命が 宇宙と 密かに 交信している 聖なる「対話」の 表現です.",
+		"aftertaste": "静かなる醸成. 焦って 答えを 出そうと しなくていい. あなたの 中で 構想が「ジェステイト（練り上げられる）」な 深い 静寂の中に 在るとき 魂は 真の 完成（トータル）へと 確実に 近付いているのだから.",
+		"example": "The novel gestated in her mind for over a decade before she finally put pen to paper.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ges-",
+					"meaning": "to carry"
+				}
+			],
+			"points": [
+				"gesture（身振り：運ぶこと）や suggest（示唆する：下に運ぶ）と同じ。意味を 運ぶ 力。"
+			]
+		},
+		"part_of_speech": "verb"
 	}
 ];
