@@ -200071,5 +200071,145 @@ const WORDS = [
 			]
 		},
 		"part_of_speech": "adjective"
+	},
+	{
+		"id": "dualism_phi",
+		"word": "dualism",
+		"meaning": "二元論",
+		"era": "18th Century",
+		"etymology": {
+			"components": [
+				"duo (two)"
+			],
+			"original_statement": "From 18th Century duo (two)."
+		},
+		"concept": "The division of something conceptually into two opposed or contrasted aspects, such as good and evil or mind and matter (世界（。を（。、光と影、心と体、善と悪のように「二つの（デュオ）」要素に分けて（。解釈しようとする（。（。、シンプルでありながら（。強力な（。対立の（。論理（。）。)",
+		"thinking": "世界（。を（。、光と影、心と体、善と悪のように「二つの（デュオ）」要素に分けて（。解釈しようとする（。（。、シンプルでありながら（。強力な（。対立の（。論理（。）。",
+		"aftertaste": "「デュアリズム（二元論）」の罠（トラップ）に（。嵌（。まっては（。なりません。世界は（。、白か（。黒か（。ではなく、無限（。に近い（。豊かな（。グラデーション（。で（。満たされている（。のですから。",
+		"example": "We pondered the very dualism of our shared humanity.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "duo",
+					"meaning": "two"
+				}
+			],
+			"points": [
+				"哲学は問いかける（。クエスチョン）技術であり、答えを出すこと（。アンサー）そのものが目的（。ゴール）ではありません。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "monism_phi",
+		"word": "monism",
+		"meaning": "一元論",
+		"era": "19th Century",
+		"etymology": {
+			"components": [
+				"monos (single, alone)"
+			],
+			"original_statement": "From 19th Century monos (single, alone)."
+		},
+		"concept": "A theory or doctrine that denies the existence of a distinction or duality in some sphere, such as that between matter and mind, or God and the world (対立する（。二つのものを（。越え、全ての（。根源は「唯一（モノ）である」と（。宣言する（。、宇宙の（。深遠な（。調和（ハーモニー）を見出そうとする（。、愛（。に（。満ちた（。世界観。)",
+		"thinking": "対立する（。二つのものを（。越え、全ての（。根源は「唯一（モノ）である」と（。宣言する（。、宇宙の（。深遠な（。調和（ハーモニー）を見出そうとする（。、愛（。に（。満ちた（。世界観。",
+		"aftertaste": "「モニズム（一元論）」の視点（。から（。見れば（。、あなた（。と（。私を（。隔（。てる壁（。など（。、本来は（。どこにも（。存在しない（。ことが（。理解（。できる（。はずです。",
+		"example": "We pondered the very monism of our shared humanity.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "monos",
+					"meaning": "single, alone"
+				}
+			],
+			"points": [
+				"哲学は問いかける（。クエスチョン）技術であり、答えを出すこと（。アンサー）そのものが目的（。ゴール）ではありません。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "phenomenology_phi",
+		"word": "phenomenology",
+		"meaning": "現象学",
+		"era": "18th Century",
+		"etymology": {
+			"components": [
+				"phainesthai (to appear) + logos (study)"
+			],
+			"original_statement": "From 18th Century phainesthai (to appear) + logos (study)."
+		},
+		"concept": "An approach that concentrates on the study of consciousness and the objects of direct experience (先入観（。を（。一度捨て（。、目の前に「あらわれている（。フェイネ）現象」そのもの（。に（。、驚き（。と（。敬意（。を持って（。耳（。を（。澄ませようとする（。、謙虚（。な（。知性の（。営み。)",
+		"thinking": "先入観（。を（。一度捨て（。、目の前に「あらわれている（。フェイネ）現象」そのもの（。に（。、驚き（。と（。敬意（。を持って（。耳（。を（。澄ませようとする（。、謙虚（。な（。知性の（。営み。",
+		"aftertaste": "「フェノメノロジー（現象学）」のメガネ（。で（。世界（。を（。眺めれば（。、退屈（。な（。日常（。の一コマ一コマが（。、眩（。いばかりの（。奇跡（。の（。連続（。として（。、立ち上がって（。くる（。はずですよ。",
+		"example": "We pondered the very phenomenology of our shared humanity.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "phainesthai",
+					"meaning": "to appear) + logos (study"
+				}
+			],
+			"points": [
+				"哲学は問いかける（。クエスチョン）技術であり、答えを出すこと（。アンサー）そのものが目的（。ゴール）ではありません。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "relative_phi",
+		"word": "relative",
+		"meaning": "相対的な、親戚",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"re- (back) + ferre (to bring, carry)"
+			],
+			"original_statement": "From 14th Century re- (back) + ferre (to bring, carry)."
+		},
+		"concept": "Considered in relation or in proportion to something else (それ（。単体（。では（。存在（。できず（。、常に（。何か（。別の（。ものと「結び（。つけ（。戻（。され（。リ・フェリー）」て（。初めて（。意味（。が（。立ち上がる（。、流動（。的（。で（。繊細（。な（。存在の（。様態（。）。)",
+		"thinking": "それ（。単体（。では（。存在（。できず（。、常に（。何か（。別の（。ものと「結び（。つけ（。戻（。され（。リ・フェリー）」て（。初めて（。意味（。が（。立ち上がる（。、流動（。的（。で（。繊細（。な（。存在の（。様態（。）。",
+		"aftertaste": "幸福（。も（。不幸（。も（。、すべては「レラティブ（相対的なもの）」に（。すぎません（。。（。暗闇（。が（。ある（。から（。こそ（。、あなたは（。小さな（。光（。の（。ありがた（。み（。を（。、誰よ（。り（。も（。深く（。味わう（。ことが（。できる（。のですから。",
+		"example": "We pondered the very relative of our shared humanity.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "re-",
+					"meaning": "back) + ferre (to bring, carry"
+				}
+			],
+			"points": [
+				"哲学は問いかける（。クエスチョン）技術であり、答えを出すこと（。アンサー）そのものが目的（。ゴール）ではありません。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "immanence_phi",
+		"word": "immanence",
+		"meaning": "内在、偏在",
+		"era": "17th Century",
+		"etymology": {
+			"components": [
+				"in- (in) + manere (to remain, stay)"
+			],
+			"original_statement": "From 17th Century in- (in) + manere (to remain, stay)."
+		},
+		"concept": "The state of being immanent; divine presence in the world (遠く（。へ（。行く（。のではなく（。、今（。ここ（。にある（。全ての（。もの（。の「中心（。に（。イン）留まり（。マネー）」続けている（。、目（。には（。見えない（。けれど（。（。確かな（。命（。の（。輝き（。）。)",
+		"thinking": "遠く（。へ（。行く（。のではなく（。、今（。ここ（。にある（。全ての（。もの（。の「中心（。に（。イン）留まり（。マネー）」続けている（。、目（。には（。見えない（。けれど（。（。確かな（。命（。の（。輝き（。）。",
+		"aftertaste": "神様（。を（。空の上（。に（。探（。す必要（。は（。ありません（。。（。あなたの（。目の前（。に（。ある（。（。コップ（。や（。、隣（。で（。笑って（。いる（。人（。の（。瞳（。の中に（。、美しき「イマネンス（内在する聖性）」は（。（。満ち（。満ちている（。のです（。から。",
+		"example": "We pondered the very immanence of our shared humanity.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "in-",
+					"meaning": "in) + manere (to remain, stay"
+				}
+			],
+			"points": [
+				"哲学は問いかける（。クエスチョン）技術であり、答えを出すこと（。アンサー）そのものが目的（。ゴール）ではありません。"
+			]
+		},
+		"part_of_speech": "noun"
 	}
 ];
