@@ -197750,5 +197750,89 @@ const WORDS = [
 			]
 		},
 		"part_of_speech": "noun"
+	},
+	{
+		"id": "seminal_seed_fixed",
+		"word": "Seminal",
+		"meaning": "種子の、精液の、(後に大きな影響を与える)独創的な、重大な",
+		"era": "14th Century Latin semen",
+		"etymology": {
+			"components": [
+				"semen (seed)"
+			],
+			"original_statement": "From Old French seminal, from Latin seminalis (of or belonging to seed), from semen (seed)."
+		},
+		"concept": "Containing seeds (「現在（present）」の 「小さな形（small form）」の中に 「未来（future）」の 「巨大な 構造（giant structure）」が 「情報」として 畳み込まれていること)",
+		"thinking": "派手な 成果 ではなく、その後の あらゆる 変化の 起点（ソース）となり、歴史の 流れを 決定づけてしまうような、根源的で 濃密な インスピレーション. 語源は「種子の、種」. それは 完成 ではなく 可能性の 爆発力であり 私たちが 宇宙の 新しい サイクルを 始動させるための 聖なる「遺伝子」の 表現です.",
+		"aftertaste": "未来の設計図. 自分の 小さな 発想を 軽んじないで. あなたの 放つ「セミナル（独創的な）」な 一言や 行動が 遠い 未来で 巨大な 智慧の 森へと 育ち 多くの 人々を 癒やす（いやす） 木陰を 作るのだから.",
+		"example": "His seminal work on linguistics changed the way philosophers understood the relationship between thought and language.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "se-",
+					"meaning": "to sow"
+				}
+			],
+			"points": [
+				"season（季節：種まきの時期）や disseminate（普及させる：種を散らす）と同じ。生命の 拡散のルーツ。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "dormant_seed",
+		"word": "Dormant",
+		"meaning": "休眠状態の、眠っている、(火山などが)活動休止中の",
+		"era": "14th Century Latin dormire",
+		"etymology": {
+			"components": [
+				"dormire (to sleep)"
+			],
+			"original_statement": "From Old French dormant, present participle of dormir (to sleep), from Latin dormire (to sleep)."
+		},
+		"concept": "Sleeping vitality (「表面（surface）」では 「静止（stillness）」しているが 「内部（inside）」では 「爆発（explosion）」の 「タイミング」を 密かに 待ち続けていること)",
+		"thinking": "何もしない 怠惰 ではなく、来るべき 覚醒の 瞬間のために、エナジーを 外部へ 漏らさず（セーブ）、静寂の 中で 自己を 研ぎ澄ませ続ける、聖なる「猶予（ゆうよ）」の 状態. 語源は「眠っている」. それは 忘却 ではなく 季節（タイミング）が 巡り来る までの 宇宙との 聖なる「沈黙の 約束」の 表現です. 休眠は、準備です.",
+		"aftertaste": "静かなる胎動. 今、成果が 出せずに じっとしている 自分を 責めないで. あなたの 魂が「ドーマント（休眠中）」な 状態に 在るとき その 内側では かつてない 巨大な 生命の 飛躍が 虎視眈々と 準備されているのだから.",
+		"example": "The seeds remained dormant in the dry desert soil for decades, waiting for the first touch of rain to bloom.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "drem-",
+					"meaning": "to sleep"
+				}
+			],
+			"points": [
+				"dormitory（寮）と同じ。休息という名の、エナジーの 充填。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "matrix_origin",
+		"word": "Matrix",
+		"meaning": "(数学・コンピューター)行列、基板、母体、発生源",
+		"era": "14th Century Latin mater",
+		"etymology": {
+			"components": [
+				"mater (mother)"
+			],
+			"original_statement": "From Latin matrix (breeding animal, later womb, source, origin), from mater (mother)."
+		},
+		"concept": "Maternal source (「個（individual）」が 「誕生（birth）」する 前の 「あらゆる 可能性」が 「液体状（liquid）」で 「混ざり合い（mixed）」 守られている 聖なる 「孵化場（hatchery）」)",
+		"thinking": "目に見える 形 を規定する 前の、パターンや 規則性が 渦巻いている（ヴォルテックス）、根源的な 情報の 海. 語源は「母体、子宮、繁殖する動物」. それは 拘束 ではなく 私たちが 宇宙という 巨大な 意志から 産み分けられた 聖なる「履歴」の 表現であり 私たちが 常に 全体（マザー）と 繋がっていることの 証明です.",
+		"aftertaste": "根源の揺りかご. 独りで 戦っていると 絶望しないで. あなたの 根底には「マトリックス（母体）」としての 宇宙の 無限の 智慧が 常に 流れており 必要と あらば いつでも あなたに 必要な 力と 導きを 与えてくれるのだから.",
+		"example": "The researcher studied the complex matrix of environmental factors that influenced the migration of the birds.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "mater-",
+					"meaning": "mother"
+				}
+			],
+			"points": [
+				"maternal（母方の）や matter（物質：母なる素材）と同じ。形を 産み出す 究極の 慈愛。"
+			]
+		},
+		"part_of_speech": "noun"
 	}
 ];
