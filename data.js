@@ -200211,5 +200211,397 @@ const WORDS = [
 			]
 		},
 		"part_of_speech": "noun"
+	},
+	{
+		"id": "antagonist_lit",
+		"word": "antagonist",
+		"meaning": "敵対者、ライバル",
+		"era": "16th Century",
+		"etymology": {
+			"components": [
+				"anti- (against) + agonistes (actor, combatant, contender)"
+			],
+			"original_statement": "From 16th Century anti- (against) + agonistes (actor, combatant, contender)."
+		},
+		"concept": "A person who actively opposes or is hostile to someone or something; an adversary (主人公の（。行く手を（。阻み（。、自らの（。信念を持って（。「反対（。アンチ）の（。立場（。から（。激しく戦う（。アゴニスト）」者（。。（。彼（。がいなければ（。、英雄（。は（。決して（。誕生（。しない、闇の世界のかけがえのない（。パートナー（。）。)",
+		"thinking": "主人公の（。行く手を（。阻み（。、自らの（。信念を持って（。「反対（。アンチ）の（。立場（。から（。激しく戦う（。アゴニスト）」者（。。（。彼（。がいなければ（。、英雄（。は（。決して（。誕生（。しない、闇の世界のかけがえのない（。パートナー（。）。",
+		"aftertaste": "「アンタゴニスト（敵対者）」との（。争い（。に（。消耗（。しないで（。ください（。。（。彼（。の（。執拗な（。攻撃（。は（。、あなたの（。中に（。眠る（。（。ダイヤモンド（。を（。磨き（。上げるための（。、神様（。からの（。試練（。であり（。研磨剤（。（。ポリッシュ（。なのですよ。",
+		"example": "The author crafted a compelling antagonist that resonated with readers worldwide.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "anti-",
+					"meaning": "against) + agonistes (actor, combatant, contender"
+				}
+			],
+			"points": [
+				"文学とは、言葉の檻（おり）の中で、真実の翼を羽ばたかせる行為です。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "pastoral_lit",
+		"word": "pastoral",
+		"meaning": "牧歌的な、田園詩の",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"pastor (shepherd)"
+			],
+			"original_statement": "From 14th Century pastor (shepherd)."
+		},
+		"concept": "Associated with country life, typically in a romanticized or idealized way (都会の（。喧騒（。を（。離れ（。、一人の「羊飼い（。パストール）」となって（。、自然の（。リズム（。と（。一体（。に（。なって（。呼吸（。する（。ような（。、穏やかで（。ノスタルジックな（。魂の（。休息所（。）。)",
+		"thinking": "都会の（。喧騒（。を（。離れ（。、一人の「羊飼い（。パストール）」となって（。、自然の（。リズム（。と（。一体（。に（。なって（。呼吸（。する（。ような（。、穏やかで（。ノスタルジックな（。魂の（。休息所（。）。",
+		"aftertaste": "たまには（。自分の中の「パストラル（牧歌的情緒）」に（。耳（。を（。傾けて（。みませんか（。。（。忙（。し（。さの（。中で（。忘（。れて（。しま（。った（。、自分の（。本当（。の（。声（。が（。、風（。の（。中から（。聞こえて（。くる（。かもしれませんよ。",
+		"example": "The author crafted a compelling pastoral that resonated with readers worldwide.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "pastor",
+					"meaning": "shepherd"
+				}
+			],
+			"points": [
+				"文学とは、言葉の檻（おり）の中で、真実の翼を羽ばたかせる行為です。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "motif_lit",
+		"word": "motif",
+		"meaning": "標語、主題、モチーフ",
+		"era": "19th Century",
+		"etymology": {
+			"components": [
+				"movere (to move)"
+			],
+			"original_statement": "From 19th Century movere (to move)."
+		},
+		"concept": "A distinctive feature or dominant idea in an artistic or literary composition (物語（。や（。絵画（。の（。中で（。何度も（。繰り返し（。登場し（。、観る（。者の（。心を「動か（。し（。ムーブ）導く」ための（。、象徴（。的な（。イメージ（。の（。断片（。）。)",
+		"thinking": "物語（。や（。絵画（。の（。中で（。何度も（。繰り返し（。登場し（。、観る（。者の（。心を「動か（。し（。ムーブ）導く」ための（。、象徴（。的な（。イメージ（。の（。断片（。）。",
+		"aftertaste": "あなたの（。これまでの（。人生（。に（。通底（。（。する「モチーフ（主題）」は（。何（。ですか（。？（。それ（。を（。見つけ出した（。とき（。、今まで（。の（。バラバラの（。経験（。の意味（。が（。、一気（。に（。鮮明に（。浮かび上がって（。くる（。はずです。",
+		"example": "The author crafted a compelling motif that resonated with readers worldwide.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "movere",
+					"meaning": "to move"
+				}
+			],
+			"points": [
+				"文学とは、言葉の檻（おり）の中で、真実の翼を羽ばたかせる行為です。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "theme_lit",
+		"word": "theme",
+		"meaning": "主題、テーマ",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"tithenai (to place, put)"
+			],
+			"original_statement": "From 14th Century tithenai (to place, put)."
+		},
+		"concept": "The subject of a talk, a piece of writing, a person's thoughts, or an exhibition; a topic (あらゆる（。エピソード（。の（。中心（。に「配置（。さ（。ティ）れた」こと（。。（。その（。物語（。が（。、結局（。何を（。世界（。に（。問いかけ（。ようと（。している（。のか（。という（。、作者（。の（。魂の（。叫び（。の（。中心点（。）。)",
+		"thinking": "あらゆる（。エピソード（。の（。中心（。に「配置（。さ（。ティ）れた」こと（。。（。その（。物語（。が（。、結局（。何を（。世界（。に（。問いかけ（。ようと（。している（。のか（。という（。、作者（。の（。魂の（。叫び（。の（。中心点（。）。",
+		"aftertaste": "他人が（。決めた「テーマ（既成の主題）」に（。沿（。って（。生きる（。必要（。は（。ありません（。。（。自分（。の（。人生（。という（。キャンバス（。に（。、あなた（。だけの（。問い（。を（。、あなた（。だけの（。言葉（。で（。配置（。して（。（。ください。",
+		"example": "The author crafted a compelling theme that resonated with readers worldwide.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "tithenai",
+					"meaning": "to place, put"
+				}
+			],
+			"points": [
+				"文学とは、言葉の檻（おり）の中で、真実の翼を羽ばたかせる行為です。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "plot_lit",
+		"word": "plot",
+		"meaning": "筋書き、陰謀、プロット",
+		"era": "16th Century",
+		"etymology": {
+			"components": [
+				"plat (flat surface, area of land)"
+			],
+			"original_statement": "From 16th Century plat (flat surface, area of land)."
+		},
+		"concept": "The main events of a play, novel, movie, or similar work, devised and presented by the writer as an interrelated sequence (広大（。な（。事実の（。荒野（。（。の上に（。、ある（。特定の（。意図を持って（。「区画（。プラット）」を（。整理（。し（。、出来事（。の（。因果関係（。を（。、ダイナミック（。に（。繋ぎ合わ（。せた（。、物語（。の（。設計図（。）。)",
+		"thinking": "広大（。な（。事実の（。荒野（。（。の上に（。、ある（。特定の（。意図を持って（。「区画（。プラット）」を（。整理（。し（。、出来事（。の（。因果関係（。を（。、ダイナミック（。に（。繋ぎ合わ（。せた（。、物語（。の（。設計図（。）。",
+		"aftertaste": "人生（。の「プロット（筋書き）」が（。思い通り（。に（。進（。まない（。ときこそ（。、新しい（。キャラクター（。や（。、意外（。な（。伏線（。を（。投入する（。チャンス（。な（。（。のです（。。（。物語（。を（。面白く（。する（。のは（。、いつ（。だって（。予期（。せぬ（。トラブル（。な（。（。のです。",
+		"example": "The author crafted a compelling plot that resonated with readers worldwide.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "plat",
+					"meaning": "flat surface, area of land"
+				}
+			],
+			"points": [
+				"文学とは、言葉の檻（おり）の中で、真実の翼を羽ばたかせる行為です。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "anecdote_lit",
+		"word": "anecdote",
+		"meaning": "逸話、アネクドート",
+		"era": "17th Century",
+		"etymology": {
+			"components": [
+				"an- (not) + ekdidonai (publish)"
+			],
+			"original_statement": "From 17th Century an- (not) + ekdidonai (publish)."
+		},
+		"concept": "A short and amusing or interesting story about a real incident or person (公的（。な（。歴史（。の（。中で（。「出版（。され（。ていない（。アン・エク）」、ちょっと（。した（。裏（。話（。や（。、個人的（。な（。こぼれ話（。。（。公式（。記録（。よりも（。（。雄弁（。に（。、その（。人の（。本質（。を（。照（。らし出（。す（。、温（。かな（。エピソード（。）。)",
+		"thinking": "公的（。な（。歴史（。の（。中で（。「出版（。され（。ていない（。アン・エク）」、ちょっと（。した（。裏（。話（。や（。、個人的（。な（。こぼれ話（。。（。公式（。記録（。よりも（。（。雄弁（。に（。、その（。人の（。本質（。を（。照（。らし出（。す（。、温（。かな（。エピソード（。）。",
+		"aftertaste": "歴史（。の（。年表（。を（。覚える（。より（。、無名（。の（。民衆（。の（。小さな「アネクドート（逸話）」に（。心を（。寄（。せて（。みて（。ください（。。（。そこ（。に、今（。を生きる（。私たち（。への（。本当（。の（。励（。ましが（。隠（。されている（。はず（。ですから。",
+		"example": "The author crafted a compelling anecdote that resonated with readers worldwide.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "an-",
+					"meaning": "not) + ekdidonai (publish"
+				}
+			],
+			"points": [
+				"文学とは、言葉の檻（おり）の中で、真実の翼を羽ばたかせる行為です。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "poetic_lit",
+		"word": "poetic",
+		"meaning": "詩的な",
+		"era": "16th Century",
+		"etymology": {
+			"components": [
+				"poiein (to make, create)"
+			],
+			"original_statement": "From 16th Century poiein (to make, create)."
+		},
+		"concept": "Of, relating to, or used in poetry (ただの（。情報の（。伝達（。を（。超え（。、世界（。を（。全く（。新しく「作り（。ポイ）直す」ような（。、瑞々しく（。（。、心震（。える（。言葉（。の（。調べ（。）。)",
+		"thinking": "ただの（。情報の（。伝達（。を（。超え（。、世界（。を（。全く（。新しく「作り（。ポイ）直す」ような（。、瑞々しく（。（。、心震（。える（。言葉（。の（。調べ（。）。",
+		"aftertaste": "夕暮れ（。の（。空の色（。を（。、ただの（。光波（。だと（。思わず（。、一言の「ポエティック（詩的）」な（。驚き（。で（。受け止める（。こと（。。（。それ（。だけで（。、あなた（。の（。世界（。は（。一瞬（。にして（。祝福（。に（。満たされる（。のです。",
+		"example": "The author crafted a compelling poetic that resonated with readers worldwide.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "poiein",
+					"meaning": "to make, create"
+				}
+			],
+			"points": [
+				"文学とは、言葉の檻（おり）の中で、真実の翼を羽ばたかせる行為です。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "prose_lit",
+		"word": "prose",
+		"meaning": "散文、散文体",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"pro- (forward) + vertere (to turn)"
+			],
+			"original_statement": "From 14th Century pro- (forward) + vertere (to turn)."
+		},
+		"concept": "Written or spoken language in its ordinary form, without metrical structure (飾り（。の（。リズム（。に（。頼らず（。、ただ「真っ直ぐ（。プロ・ヴァース）に（。真実へと（。突き進む）」、地の文（。。（。日常（。の（。手触り（。と（。、実直（。な（。観察（。が（。生み出す（。、飾（。り（。のない（。美しさ（。）。)",
+		"thinking": "飾り（。の（。リズム（。に（。頼らず（。、ただ「真っ直ぐ（。プロ・ヴァース）に（。真実へと（。突き進む）」、地の文（。。（。日常（。の（。手触り（。と（。、実直（。な（。観察（。が（。生み出す（。、飾（。り（。のない（。美しさ（。）。",
+		"aftertaste": "あなたの（。誠実（。な（。生き方（。は（。、どんな（。華やかな（。詩（。よりも（。、重み（。のある（。美しい「プロース（散文）」の（。ように（。、人々の（。心（。に（。静かに（。染み（。渡って（。いく（。はずです。",
+		"example": "The author crafted a compelling prose that resonated with readers worldwide.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "pro-",
+					"meaning": "forward) + vertere (to turn"
+				}
+			],
+			"points": [
+				"文学とは、言葉の檻（おり）の中で、真実の翼を羽ばたかせる行為です。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "stanza_lit",
+		"word": "stanza",
+		"meaning": "（詩の）節、スタンザ、部屋",
+		"era": "16th Century",
+		"etymology": {
+			"components": [
+				"stare (to stand)"
+			],
+			"original_statement": "From 16th Century stare (to stand)."
+		},
+		"concept": "A group of lines forming the basic recurring metrical unit in a poem; a verse (詩（。という（。建物（。の中に（。用意された（。、一時の（。休息（。のための「留ま（。り（。スタン）立つ（。ザ）部屋」。意味（。と（。情緒（。が（。一つの（。窓（。から（。差し込む（。、光の（。区画（。）。)",
+		"thinking": "詩（。という（。建物（。の中に（。用意された（。、一時の（。休息（。のための「留ま（。り（。スタン）立つ（。ザ）部屋」。意味（。と（。情緒（。が（。一つの（。窓（。から（。差し込む（。、光の（。区画（。）。",
+		"aftertaste": "苦しい（。とき（。は（。、自分（。の（。人生（。という（。長い（。詩（。の中に（。、小さな「スタンザ（安らぎの小部屋）」を（。作って（。みてください（。。（。そこ（。で（。一（。息（。つけば（。、また（。次（。の一行（。を（。力強く（。踏み出（。せる（。ように（。なり（。ます。",
+		"example": "The author crafted a compelling stanza that resonated with readers worldwide.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "stare",
+					"meaning": "to stand"
+				}
+			],
+			"points": [
+				"文学とは、言葉の檻（おり）の中で、真実の翼を羽ばたかせる行為です。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "imagery_lit",
+		"word": "imagery",
+		"meaning": "比喩的描写、イメージ",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"imago (copy, likeness, image)"
+			],
+			"original_statement": "From 14th Century imago (copy, likeness, image)."
+		},
+		"concept": "Visually descriptive or figurative language, especially in a literary work (言葉（。を（。使って（。、読者の（。脳裏（。に（。鮮明な「虚像（。イマゴ）」を（。結ばせる（。技術（。。（。文字（。という（。冷たい（。粒子（。が（。、一瞬（。にして（。体温（。と（。色彩（。を持った（。生きた（。光景（。へと（。変貌する（。魔法（。）。)",
+		"thinking": "言葉（。を（。使って（。、読者の（。脳裏（。に（。鮮明な「虚像（。イマゴ）」を（。結ばせる（。技術（。。（。文字（。という（。冷たい（。粒子（。が（。、一瞬（。にして（。体温（。と（。色彩（。を持った（。生きた（。光景（。へと（。変貌する（。魔法（。）。",
+		"aftertaste": "あなたの（。脳裏（。に（。浮かぶ（。、最高の（。未来（。の「イメージリー（図像群）」を（。（。決して（。手放（。さない（。で（。ください（。。（。その（。イメージ（。が（。強（。ければ（。強い（。ほど（。、現実（。は（。磁石（。に（。吸（。（。き寄せ（。られる（。ように（。、その（。かたち（。へ（。と（。変わり（。始め（。ます。",
+		"example": "The author crafted a compelling imagery that resonated with readers worldwide.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "imago",
+					"meaning": "copy, likeness, image"
+				}
+			],
+			"points": [
+				"文学とは、言葉の檻（おり）の中で、真実の翼を羽ばたかせる行為です。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "allusion_lit",
+		"word": "allusion",
+		"meaning": "ほのめかし、典拠、アリュージョン",
+		"era": "16th Century",
+		"etymology": {
+			"components": [
+				"ad- (to) + ludere (to play)"
+			],
+			"original_statement": "From 16th Century ad- (to) + ludere (to play)."
+		},
+		"concept": "An expression designed to call something to mind without mentioning it explicitly; an indirect or passing reference (直接（。語る（。代わりに（。、過去（。の（。巨大（。な（。物語（。の（。破片（。へと「ちょっと（。遊び（。リュ）に（。行く」ような（。仕草（。。（。共有（。された（。記憶（。を（。、目配せ（。するように（。、そっと（。呼び覚（。ます（。、知的な（。悪戯（。）。)",
+		"thinking": "直接（。語る（。代わりに（。、過去（。の（。巨大（。な（。物語（。の（。破片（。へと「ちょっと（。遊び（。リュ）に（。行く」ような（。仕草（。。（。共有（。された（。記憶（。を（。、目配せ（。するように（。、そっと（。呼び覚（。ます（。、知的な（。悪戯（。）。",
+		"aftertaste": "彼（。の（。言葉（。の（。端々（。に（。隠された（。小さな「アリュージョン（ほのめかし）」に（。気づいた（。とき（。、あなた（。と（。彼（。の（。間（。には（。、何物（。にも（。代（。え（。がたい（。、秘密（。の（。友情（。の（。絆（。が（。生まれる（。のですよ。",
+		"example": "The author crafted a compelling allusion that resonated with readers worldwide.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ad-",
+					"meaning": "to) + ludere (to play"
+				}
+			],
+			"points": [
+				"文学とは、言葉の檻（おり）の中で、真実の翼を羽ばたかせる行為です。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "sonnet_lit",
+		"word": "sonnet",
+		"meaning": "ソネット、14行詩",
+		"era": "16th Century",
+		"etymology": {
+			"components": [
+				"sonus (sound)"
+			],
+			"original_statement": "From 16th Century sonus (sound)."
+		},
+		"concept": "A poem of fourteen lines using any of a number of formal rhyme schemes, in English typically having ten syllables per line (厳格（。な（。ルール（。に（。縛（。られ（。ながら（。も（。、その（。中で（。極限（。の（。美（。を（。追求（。する「小（。さな（。調べ（。ソン）」。（。制約（。が（。ある（。から（。こそ（。、言葉（。は（。ダイヤモンド（。の（。ように（。鋭く（。、（。輝（。（。（。く（。の（。です。)",
+		"thinking": "厳格（。な（。ルール（。に（。縛（。られ（。ながら（。も（。、その（。中で（。極限（。の（。美（。を（。追求（。する「小（。さな（。調べ（。ソン）」。（。制約（。が（。ある（。から（。こそ（。、言葉（。は（。ダイヤモンド（。の（。ように（。鋭く（。、（。輝（。（。（。く（。の（。です。",
+		"aftertaste": "物語は、絶望を希望へと変える世界で唯一の魔法です。",
+		"example": "The author crafted a compelling sonnet that resonated with readers worldwide.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sonus",
+					"meaning": "sound"
+				}
+			],
+			"points": [
+				"文学とは、言葉の檻（おり）の中で、真実の翼を羽ばたかせる行為です。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "haiku_lit",
+		"word": "haiku",
+		"meaning": "俳句",
+		"era": "19th Century",
+		"etymology": {
+			"components": [
+				"hai- (play) + -ku (phrase)"
+			],
+			"original_statement": "From 19th Century hai- (play) + -ku (phrase)."
+		},
+		"concept": "A Japanese poem of seventeen syllables, in three lines of five, seven, and five, traditionally evoking images of the natural world (遊び（。ハイ）の（。（。句（。ク）」。（。極限（。まで（。削（。ぎ（。落（。された（。十七音（。。（。世界（。の（。一瞬（。の（。煌（。めきを（。、たった（。三行（。に（。（。凝縮（。して（。永遠（。に（。変える（。、言葉（。による（。瞬（。間の（。写真。)",
+		"thinking": "遊び（。ハイ）の（。（。句（。ク）」。（。極限（。まで（。削（。ぎ（。落（。された（。十七音（。。（。世界（。の（。一瞬（。の（。煌（。めきを（。、たった（。三行（。に（。（。凝縮（。して（。永遠（。に（。変える（。、言葉（。による（。瞬（。間の（。写真。",
+		"aftertaste": "物語は、絶望を希望へと変える世界で唯一の魔法です。",
+		"example": "The author crafted a compelling haiku that resonated with readers worldwide.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "hai-",
+					"meaning": "play) + -ku (phrase"
+				}
+			],
+			"points": [
+				"文学とは、言葉の檻（おり）の中で、真実の翼を羽ばたかせる行為です。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "ode_lit",
+		"word": "ode",
+		"meaning": "頌歌（しょうか）、オード",
+		"era": "16th Century",
+		"etymology": {
+			"components": [
+				"oide (song, chant)"
+			],
+			"original_statement": "From 16th Century oide (song, chant)."
+		},
+		"concept": "A lyric poem in the form of an address to a particular subject, often elevated in style or manner and written in varied or irregular meter (ある（。特定（。の（。存在（。や（。理想（。を（。、心（。から（。「讃える（。歌（。オード）」。称賛（。と（。敬意（。を（。、格調（。高く（。、そして（。情熱的（。に（。（。謳（。い（。上げる（。、魂の（。祝辞。)",
+		"thinking": "ある（。特定（。の（。存在（。や（。理想（。を（。、心（。から（。「讃える（。歌（。オード）」。称賛（。と（。敬意（。を（。、格調（。高く（。、そして（。情熱的（。に（。（。謳（。い（。上げる（。、魂の（。祝辞。",
+		"aftertaste": "物語は、絶望を希望へと変える世界で唯一の魔法です。",
+		"example": "The author crafted a compelling ode that resonated with readers worldwide.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "oide",
+					"meaning": "song, chant"
+				}
+			],
+			"points": [
+				"文学とは、言葉の檻（おり）の中で、真実の翼を羽ばたかせる行為です。"
+			]
+		},
+		"part_of_speech": "noun"
 	}
 ];
