@@ -198811,5 +198811,201 @@ const WORDS = [
 			]
 		},
 		"part_of_speech": "noun"
+	},
+	{
+		"id": "expertise_skill",
+		"word": "expertise",
+		"meaning": "専門知識、熟練",
+		"era": "19th Century",
+		"etymology": {
+			"components": [
+				"expertus (tried, tested, experienced)"
+			],
+			"original_statement": "From 19th Century expertus (tried, tested, experienced)."
+		},
+		"concept": "Expert skill or knowledge in a particular field (幾多の実験（テスト）と失敗という荒野を「潜り抜け（エクスペリエンスト）」た者だけが身に纏える、確固たる知の鎧（よろい）。)",
+		"thinking": "幾多の実験（テスト）と失敗という荒野を「潜り抜け（エクスペリエンスト）」た者だけが身に纏える、確固たる知の鎧（よろい）。",
+		"aftertaste": "あなたの「エクスパティーズ（専門性）」は、誰にも真似できないあなただけの最強の武器。磨き続けることを決して忘れないでください。",
+		"example": "Her level of expertise impressed all the judges.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "expertus",
+					"meaning": "tried, tested, experienced"
+				}
+			],
+			"points": [
+				"知識は力であり、それを正しく使いこなす技能こそが、自由への翼です。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "proficiency_skill",
+		"word": "proficiency",
+		"meaning": "熟達、堪能",
+		"era": "16th Century",
+		"etymology": {
+			"components": [
+				"proficere (to make progress, go forward)"
+			],
+			"original_statement": "From 16th Century proficere (to make progress, go forward)."
+		},
+		"concept": "A high degree of skill; competence or expertise (ただ立ち止まっているのではなく、常に一段上を目指して「前へと進み続ける（プログレス）」ことで獲得される、洗練された技の練度。)",
+		"thinking": "ただ立ち止まっているのではなく、常に一段上を目指して「前へと進み続ける（プログレス）」ことで獲得される、洗練された技の練度。",
+		"aftertaste": "「プロフィシェンシー（熟達の域）」に達するまでには、地道な反復（リピート）という名の、黄金の忍耐が不可欠なのです。",
+		"example": "Her level of proficiency impressed all the judges.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "proficere",
+					"meaning": "to make progress, go forward"
+				}
+			],
+			"points": [
+				"知識は力であり、それを正しく使いこなす技能こそが、自由への翼です。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "ingenuity_skill",
+		"word": "ingenuity",
+		"meaning": "独創性、巧妙さ、器用さ",
+		"era": "16th Century",
+		"etymology": {
+			"components": [
+				"ingenuus (native, natural, free-born)"
+			],
+			"original_statement": "From 16th Century ingenuus (native, natural, free-born)."
+		},
+		"concept": "The quality of being clever, original, and inventive (外部から与えられたものではなく、自らの内側から湧き出す「生まれ持った（ネイティブ）」自由な発想によって、誰もが諦めた困難を軽やかに突破する魔法のような智恵。)",
+		"thinking": "外部から与えられたものではなく、自らの内側から湧き出す「生まれ持った（ネイティブ）」自由な発想によって、誰もが諦めた困難を軽やかに突破する魔法のような智恵。",
+		"aftertaste": "資源が足りない時こそ、あなたの「インジェニュイティ（独創的な巧妙さ）」を輝かせる絶好のステージになるのです。",
+		"example": "Her level of ingenuity impressed all the judges.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ingenuus",
+					"meaning": "native, natural, free-born"
+				}
+			],
+			"points": [
+				"知識は力であり、それを正しく使いこなす技能こそが、自由への翼です。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "scholarship_skill",
+		"word": "scholarship",
+		"meaning": "学問、奨学金",
+		"era": "16th Century",
+		"etymology": {
+			"components": [
+				"scholare (to school)"
+			],
+			"original_statement": "From 16th Century scholare (to school)."
+		},
+		"concept": "Academic study or achievement; learning of a high level (真理という名の巨大な山を、謙虚な姿勢で一段ずつ「登り続ける（スクール）」ことの積み重ね。特定の分野を極めんとするストイックな献身の証。)",
+		"thinking": "真理という名の巨大な山を、謙虚な姿勢で一段ずつ「登り続ける（スクール）」ことの積み重ね。特定の分野を極めんとするストイックな献身の証。",
+		"aftertaste": "「スカラシップ（学術的な追求）」という名の灯台の明かりが、この暗い時代を生きる私たちの、唯一の信頼できる道標になるのです。",
+		"example": "Her level of scholarship impressed all the judges.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "scholare",
+					"meaning": "to school"
+				}
+			],
+			"points": [
+				"知識は力であり、それを正しく使いこなす技能こそが、自由への翼です。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "workshop_skill",
+		"word": "workshop",
+		"meaning": "作業場、ワークショップ",
+		"era": "Middle English",
+		"etymology": {
+			"components": [
+				"work + shop"
+			],
+			"original_statement": "From Middle English work + shop."
+		},
+		"concept": "A room or building in which goods are manufactured or repaired (理論を語るだけでなく、自らの手で物理的に「作り上げる（ワーク）」ことで、身体知として技術を魂に刻み込む、動的な学びの聖域。)",
+		"thinking": "理論を語るだけでなく、自らの手で物理的に「作り上げる（ワーク）」ことで、身体知として技術を魂に刻み込む、動的な学びの聖域。",
+		"aftertaste": "心の中の「ワークショップ（精神の作業場）」で、毎日少しずつ自分の理想を彫刻してください。いつか必ず、目に見える形として結実するはずです。",
+		"example": "Her level of workshop impressed all the judges.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "work",
+					"meaning": "+ shop"
+				}
+			],
+			"points": [
+				"知識は力であり、それを正しく使いこなす技能こそが、自由への翼です。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "veteran_skill",
+		"word": "veteran",
+		"meaning": "ベテラン、退役軍人、経験豊富な",
+		"era": "16th Century",
+		"etymology": {
+			"components": [
+				"vetus (old)"
+			],
+			"original_statement": "From 16th Century vetus (old)."
+		},
+		"concept": "A person who has had long experience in a particular field (幾多の戦場と季節を駆け抜け、その体に「古い（ヴェトゥス）傷跡と叡智」を刻み込んだ、どんな嵐にも揺らぐことのない、都市の歴史そのものと呼べる存在。)",
+		"thinking": "幾多の戦場と季節を駆け抜け、その体に「古い（ヴェトゥス）傷跡と叡智」を刻み込んだ、どんな嵐にも揺らぐことのない、都市の歴史そのものと呼べる存在。",
+		"aftertaste": "「ヴェテラン（百戦錬磨の勇者）」の言葉が重いのは、それが本の中の知識ではなく、彼が実際に流した汗と涙の結晶から紡ぎ出された（。からなのです。",
+		"example": "Her level of veteran impressed all the judges.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "vetus",
+					"meaning": "old"
+				}
+			],
+			"points": [
+				"知識は力であり、それを正しく使いこなす技能こそが、自由への翼です。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "database_skill",
+		"word": "database",
+		"meaning": "データベース",
+		"era": "20th Century",
+		"etymology": {
+			"components": [
+				"data + base"
+			],
+			"original_statement": "From 20th Century data + base."
+		},
+		"concept": "A structured set of data held in a computer (バラバラの情報の断片を、計算可能な「基盤（ベース）」の上に整然と並べ、瞬時にアクセスして未来を予測するための、人類の共有される記憶の巨大な貯蔵庫。)",
+		"thinking": "バラバラの情報の断片を、計算可能な「基盤（ベース）」の上に整然と並べ、瞬時にアクセスして未来を予測するための、人類の共有される記憶の巨大な貯蔵庫。",
+		"aftertaste": "知の連鎖は、人類が未来へと繋ぐ最も強固な鎖です。",
+		"example": "Her level of database impressed all the judges.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "data",
+					"meaning": "+ base"
+				}
+			],
+			"points": [
+				"知識は力であり、それを正しく使いこなす技能こそが、自由への翼です。"
+			]
+		},
+		"part_of_speech": "noun"
 	}
 ];
