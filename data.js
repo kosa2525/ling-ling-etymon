@@ -195031,5 +195031,173 @@ const WORDS = [
 			]
 		},
 		"part_of_speech": "verb"
+	},
+	{
+		"id": "smelt_metal",
+		"word": "smelt",
+		"meaning": "精錬する、溶解する",
+		"era": "16th Century",
+		"etymology": {
+			"components": [
+				"smelten (to melt)"
+			],
+			"original_statement": "From 16th Century smelten (to melt)."
+		},
+		"concept": "Extract metal from its ore by a process involving heating and melting (不純物にまみれた原石から、極限の熱を与えて本当に価値のあるピュアな本質だけを「選別し抽出」する残酷で必要なプロセス。)",
+		"thinking": "不純物にまみれた原石から、極限の熱を与えて本当に価値のあるピュアな本質だけを「選別し抽出」する残酷で必要なプロセス。",
+		"aftertaste": "自分の感情を「スメルト（精錬）」して、怒りという不純物から真っ直ぐな願いだけを取り出せれば。",
+		"example": "The blacksmith expertly began to smelt the piece.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "smelten",
+					"meaning": "to melt"
+				}
+			],
+			"points": [
+				"金属の加工は、人間の精神的な試練と成熟の象徴です。"
+			]
+		},
+		"part_of_speech": "verb"
+	},
+	{
+		"id": "anvil_metal",
+		"word": "anvil",
+		"meaning": "金床（かなとこ）",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"anfilte (anvil)"
+			],
+			"original_statement": "From Old English anfilte (anvil)."
+		},
+		"concept": "A heavy iron block with a flat top, concave sides, and typically a pointed end, on which metal can be hammered and shaped (何度ハンマーで力任せに打ち据えられても、決して自分が砕けることなく、相手が「形作られる」ための圧倒的に無口で硬い土台。)",
+		"thinking": "何度ハンマーで力任せに打ち据えられても、決して自分が砕けることなく、相手が「形作られる」ための圧倒的に無口で硬い土台。",
+		"aftertaste": "怒りの「アンヴィル（金床）」の上で感情を叩き直せば、それはやがて誰かを守るための盾になります。",
+		"example": "The blacksmith expertly began to anvil the piece.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "anfilte",
+					"meaning": "anvil"
+				}
+			],
+			"points": [
+				"金属の加工は、人間の精神的な試練と成熟の象徴です。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "hammer_metal",
+		"word": "hammer",
+		"meaning": "ハンマー、ハンマーで打つ",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"hamor (hammer)"
+			],
+			"original_statement": "From Old English hamor (hammer)."
+		},
+		"concept": "A tool with a heavy head and a handle, used for tasks such as breaking things and driving in nails (理屈ではなく、純粋な物理的衝撃と「叩きつける力」だけを用いて、相手の抵抗をねじ伏せ自らの意志通りの形を強要する暴力の象徴。)",
+		"thinking": "理屈ではなく、純粋な物理的衝撃と「叩きつける力」だけを用いて、相手の抵抗をねじ伏せ自らの意志通りの形を強要する暴力の象徴。",
+		"aftertaste": "繊細な「ハンマー（木槌）」の使い分けを知らない人は、やがて全てを壊してしまうでしょう。",
+		"example": "The blacksmith expertly began to hammer the piece.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "hamor",
+					"meaning": "hammer"
+				}
+			],
+			"points": [
+				"金属の加工は、人間の精神的な試練と成熟の象徴です。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "solder_metal",
+		"word": "solder",
+		"meaning": "はんだ付けする、結合する",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"solidare (to make solid)"
+			],
+			"original_statement": "From 14th Century solidare (to make solid)."
+		},
+		"concept": "Join with solder (強引に一体化させるのではなく、二つの物質の間に入り込み、自らの身を溶かして冷え固まることで隙間なく「個体を繋ぐ」繊細な接着。)",
+		"thinking": "強引に一体化させるのではなく、二つの物質の間に入り込み、自らの身を溶かして冷え固まることで隙間なく「個体を繋ぐ」繊細な接着。",
+		"aftertaste": "壊れた関係も、コミュニケーションという「ソルダー（はんだ）」を使えば、前よりも美しく修復できることがあります。",
+		"example": "The blacksmith expertly began to solder the piece.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "solidare",
+					"meaning": "to make solid"
+				}
+			],
+			"points": [
+				"金属の加工は、人間の精神的な試練と成熟の象徴です。"
+			]
+		},
+		"part_of_speech": "verb"
+	},
+	{
+		"id": "rivet_metal",
+		"word": "rivet",
+		"meaning": "リベットで留める、釘付けにする",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"river (to attach)"
+			],
+			"original_statement": "From 14th Century river (to attach)."
+		},
+		"concept": "A short metal pin or bolt for holding together two plates of metal (熱で溶かすのではなく、金属のピンを「貫通させて」物理的に強固に固定し、二度と引き剥がせないようにする確固たる絆。)",
+		"thinking": "熱で溶かすのではなく、金属のピンを「貫通させて」物理的に強固に固定し、二度と引き剥がせないようにする確固たる絆。",
+		"aftertaste": "そのあまりに美しい歌声は、その場にいた観客全員の心を舞台へ「リベット（釘付けに）」してしまいました。",
+		"example": "The blacksmith expertly began to rivet the piece.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "river",
+					"meaning": "to attach"
+				}
+			],
+			"points": [
+				"金属の加工は、人間の精神的な試練と成熟の象徴です。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "grind_metal",
+		"word": "grind",
+		"meaning": "粉砕する、研磨する、辛い仕事",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"grindan (to rub together, crush)"
+			],
+			"original_statement": "From Old English grindan (to rub together, crush)."
+		},
+		"concept": "Reduce something to small particles or powder by crushing it (二つの硬い面を過酷な圧力で「すり合わせ」、不要な表面を容赦なく削り落としていくことで、そこに滑らかで美しい輝きを生み出す摩擦の儀式。)",
+		"thinking": "二つの硬い面を過酷な圧力で「すり合わせ」、不要な表面を容赦なく削り落としていくことで、そこに滑らかで美しい輝きを生み出す摩擦の儀式。",
+		"aftertaste": "毎日の退屈な「グラインド（骨の折れる単純作業）」こそが、最後に最高のエスプレッソ（結果）を抽出するための準備なのです。",
+		"example": "The blacksmith expertly began to grind the piece.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "grindan",
+					"meaning": "to rub together, crush"
+				}
+			],
+			"points": [
+				"金属の加工は、人間の精神的な試練と成熟の象徴です。"
+			]
+		},
+		"part_of_speech": "verb"
 	}
 ];
