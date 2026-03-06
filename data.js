@@ -194863,5 +194863,173 @@ const WORDS = [
 			]
 		},
 		"part_of_speech": "verb"
+	},
+	{
+		"id": "scorch_fire",
+		"word": "scorch",
+		"meaning": "表面を焦がす",
+		"era": "15th Century",
+		"etymology": {
+			"components": [
+				"scorchen (burn superficially)"
+			],
+			"original_statement": "From 15th Century scorchen (burn superficially)."
+		},
+		"concept": "Burn the surface of something with flame or heat (対象の芯まで達することなく、表面の美しさや皮膚だけを炎で「薄く焼け焦がす」残虐な熱気。)",
+		"thinking": "対象の芯まで達することなく、表面の美しさや皮膚だけを炎で「薄く焼け焦がす」残虐な熱気。",
+		"aftertaste": "彼の「スコーチング（焼け付くような）」な嫌味は、私のプライドの表面だけをチリッと焦がしました。",
+		"example": "The fire began to scorch slowly.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "scorchen",
+					"meaning": "burn superficially"
+				}
+			],
+			"points": [
+				"炎は情熱と破壊の二面性を持つ究極のメタファー。"
+			]
+		},
+		"part_of_speech": "verb"
+	},
+	{
+		"id": "singe_fire",
+		"word": "singe",
+		"meaning": "薄く焦がす",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"sengan (to singe, burn slightly)"
+			],
+			"original_statement": "From Old English sengan (to singe, burn slightly)."
+		},
+		"concept": "Burn superficially or lightly (炎の先がほんの一瞬だけ触れ、毛先や紙の端を黒く変色させて特有の匂いだけを残していく「いたずら」。)",
+		"thinking": "炎の先がほんの一瞬だけ触れ、毛先や紙の端を黒く変色させて特有の匂いだけを残していく「いたずら」。",
+		"aftertaste": "髪の毛が「シンジ（少し焦げる）」程度の失敗なら、笑い話にしてしまえば良いのです。",
+		"example": "The fire began to singe slowly.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sengan",
+					"meaning": "to singe, burn slightly"
+				}
+			],
+			"points": [
+				"炎は情熱と破壊の二面性を持つ究極のメタファー。"
+			]
+		},
+		"part_of_speech": "verb"
+	},
+	{
+		"id": "char_fire",
+		"word": "char",
+		"meaning": "炭にする",
+		"era": "17th Century",
+		"etymology": {
+			"components": [
+				"charcoal (charring)"
+			],
+			"original_statement": "From 17th Century charcoal (charring)."
+		},
+		"concept": "Partially burn so as to blacken the surface (生命の水分を炎の力で完全に蒸発させ、対象を燃えない黒い炭素の塊へと「変質させる」静かなる同化。)",
+		"thinking": "生命の水分を炎の力で完全に蒸発させ、対象を燃えない黒い炭素の塊へと「変質させる」静かなる同化。",
+		"aftertaste": "黒く「チャー（炭化）」したバーベキューの肉も、大切な友人との楽しい思い出の味です。",
+		"example": "The fire began to char slowly.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "charcoal",
+					"meaning": "charring"
+				}
+			],
+			"points": [
+				"炎は情熱と破壊の二面性を持つ究極のメタファー。"
+			]
+		},
+		"part_of_speech": "verb"
+	},
+	{
+		"id": "incinerate_fire",
+		"word": "incinerate",
+		"meaning": "焼却する、灰にする",
+		"era": "16th Century",
+		"etymology": {
+			"components": [
+				"incinerare (to reduce to ashes)"
+			],
+			"original_statement": "From 16th Century incinerare (to reduce to ashes)."
+		},
+		"concept": "Destroy something by burning (形あるものを完全に灰へと還元し、その存在そのものを跡形もなく「世界から消去」する絶対的な炎の刑。)",
+		"thinking": "形あるものを完全に灰へと還元し、その存在そのものを跡形もなく「世界から消去」する絶対的な炎の刑。",
+		"aftertaste": "昔の日記を「インシネレイト（灰にする）」しても、刻まれたあなたの成長の証は残り続けます。",
+		"example": "The fire began to incinerate slowly.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "incinerare",
+					"meaning": "to reduce to ashes"
+				}
+			],
+			"points": [
+				"炎は情熱と破壊の二面性を持つ究極のメタファー。"
+			]
+		},
+		"part_of_speech": "verb"
+	},
+	{
+		"id": "inferno_fire",
+		"word": "inferno",
+		"meaning": "地獄、烈火",
+		"era": "19th Century",
+		"etymology": {
+			"components": [
+				"infernus (underground, hell)"
+			],
+			"original_statement": "From 19th Century infernus (underground, hell)."
+		},
+		"concept": "A large fire that is dangerously out of control (この世の光景とは思えない、罪を浄化するための「地獄の底」から立ち昇るような息もできない絶望的な炎。)",
+		"thinking": "この世の光景とは思えない、罪を浄化するための「地獄の底」から立ち昇るような息もできない絶望的な炎。",
+		"aftertaste": "夏の都会のアスファルトは、照り返しによるまるで「インフェルノ（地獄の炎）」そのものです。",
+		"example": "The fire began to inferno slowly.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "infernus",
+					"meaning": "underground, hell"
+				}
+			],
+			"points": [
+				"炎は情熱と破壊の二面性を持つ究極のメタファー。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "smolder_fire",
+		"word": "smolder",
+		"meaning": "くすぶる",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"smolderen (to smother)"
+			],
+			"original_statement": "From 14th Century smolderen (to smother)."
+		},
+		"concept": "Burn slowly with smoke but no flame (炎を立てず、煙の下で自分の命をひたすら削りながら深く長く「静かに燃え続ける」執念の発熱。)",
+		"thinking": "炎を立てず、煙の下で自分の命をひたすら削りながら深く長く「静かに燃え続ける」執念の発熱。",
+		"aftertaste": "まだ解決していない「スモルダー（くすぶる）」な不満は、いずれ思いがけない発火を引き起こします。",
+		"example": "The fire began to smolder slowly.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "smolderen",
+					"meaning": "to smother"
+				}
+			],
+			"points": [
+				"炎は情熱と破壊の二面性を持つ究極のメタファー。"
+			]
+		},
+		"part_of_speech": "verb"
 	}
 ];
