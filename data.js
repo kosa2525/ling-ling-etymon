@@ -207603,5 +207603,61 @@ const WORDS = [
 			]
 		},
 		"part_of_speech": "noun"
+	},
+	{
+		"id": "repressed_mind",
+		"word": "repressed",
+		"meaning": "抑圧（。よくあつ（。）」された、リプレスト",
+		"era": "17th Century",
+		"etymology": {
+			"components": [
+				"re- (back) + premere (to press, literal: 'pressed back')"
+			],
+			"original_statement": "From 17th Century re- (back) + premere (to press, literal: 'pressed back')."
+		},
+		"concept": "Oppressed or inhibited (表（。に（。出（。よう（。と（。する（。想いを「後ろへ（。リ）押（。し（。込（。め（。る（。プレス）」こと（。。（。抑（。え（。込（。まれた（。エナジーは（。、いつか（。美し（。い（。芸術へと（。、昇（。華（。さ（。せる（。べき（。、聖なる（。種（。子（。なのです。)",
+		"thinking": "表（。に（。出（。よう（。と（。する（。想いを「後ろへ（。リ）押（。し（。込（。め（。る（。プレス）」こと（。。（。抑（。え（。込（。まれた（。エナジーは（。、いつか（。美し（。い（。芸術へと（。、昇（。華（。さ（。せる（。べき（。、聖なる（。種（。子（。なのです。",
+		"aftertaste": "直感は、思考が追いつけないほどの速度で、真実という名の光を捉える能力なのです。",
+		"example": "The therapist encouraged the patient to engage in repressed to better understand their emotional triggers.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "re-",
+					"meaning": "back) + premere (to press, literal: 'pressed back'"
+				}
+			],
+			"points": [
+				"内省とは、過去を悔いることではなく、現在という名の扉を、自らの手で開けることなのですよ。"
+			]
+		},
+		"part_of_speech": "adjective"
+	},
+	{
+		"id": "inhibition_mind",
+		"word": "inhibition",
+		"meaning": "抑制、禁忌、インヒビション",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"in- (in) + habere (to hold, literal: 'holding in')"
+			],
+			"original_statement": "From 14th Century in- (in) + habere (to hold, literal: 'holding in')."
+		},
+		"concept": "A feeling that makes one self-conscious and unable to act in a relaxed and natural way (自（。ら（。の「内（。側（。イン）に（。留（。め（。置（。く（。ハビ）」こと（。。（。その（。戒（。めが（。ある（。から（。こそ（。、あなた（。の（。表現（。は（。、一（。き（。わ（。、峻（。烈（。な（。る（。気高さ（。を（。放（。つの（。ですよ。)",
+		"thinking": "自（。ら（。の「内（。側（。イン）に（。留（。め（。置（。く（。ハビ）」こと（。。（。その（。戒（。めが（。ある（。から（。こそ（。、あなた（。の（。表現（。は（。、一（。き（。わ（。、峻（。烈（。な（。る（。気高さ（。を（。放（。つの（。ですよ。",
+		"aftertaste": "直感は、思考が追いつけないほどの速度で、真実という名の光を捉える能力なのです。",
+		"example": "The therapist encouraged the patient to engage in inhibition to better understand their emotional triggers.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "in-",
+					"meaning": "in) + habere (to hold, literal: 'holding in'"
+				}
+			],
+			"points": [
+				"内省とは、過去を悔いることではなく、現在という名の扉を、自らの手で開けることなのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
 	}
 ];
