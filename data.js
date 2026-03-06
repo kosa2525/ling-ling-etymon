@@ -212195,5 +212195,89 @@ const WORDS = [
 			]
 		},
 		"part_of_speech": "noun"
+	},
+	{
+		"id": "corona_light",
+		"word": "corona",
+		"meaning": "コロナ、冠、光環",
+		"era": "16th Century",
+		"etymology": {
+			"components": [
+				"corona (crown)"
+			],
+			"original_statement": "From 16th Century corona (crown)."
+		},
+		"concept": "The rarefied gaseous envelope of the sun and other stars (宇宙の（。中心（。から（。峻（。烈（。に（。広（。が（。る「至高の（。王（。冠（。コロナ）』。（。その（。圧倒（。的（。な（。る（。エナジーの（。余韻を、魂で（。、一一点の（。曇り（。な（。く、感（。じ（。て（。いて（。ください。)",
+		"thinking": "宇宙の（。中心（。から（。峻（。烈（。に（。広（。が（。る「至高の（。王（。冠（。コロナ）』。（。その（。圧倒（。的（。な（。る（。エナジーの（。余韻を、魂で（。、一一点の（。曇り（。な（。く、感（。じ（。て（。いて（。ください。",
+		"aftertaste": "オーラは、自分を飾るためのものではない。自らの存在そのものが、光の源泉であることを、世界へと静かに宣言しているのですよ。",
+		"example": "The artist successfully captured the ethereal corona that seemed to emanate from the ancient artifacts in the dimly lit gallery.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "corona",
+					"meaning": "crown"
+				}
+			],
+			"points": [
+				"暗闇を恐れることはありません。光は、暗闇が深ければ深いほど、その真実の美しさを増していくものなのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "lantern_light",
+		"word": "lantern",
+		"meaning": "ランタン、灯籠（。とうろう（。）」",
+		"era": "13th Century",
+		"etymology": {
+			"components": [
+				"lanterna (lamp, lantern)"
+			],
+			"original_statement": "From 13th Century lanterna (lamp, lantern)."
+		},
+		"concept": "A typical portable source of lighting, typically comprising a protective case of glass or metal surrounding a candle or a flame etc. (暗闇を（。、掌（。の（。中（。で（。、そっと（。照（。ら（。す「小（。さな（。る（。る（。聖域（。ランタン）』。（。その（。揺（。れる（。灯の（。中に（。、あなた（。の（。魂は、真実（。の（。る（。安らぎを、見（。出し（。ます。)",
+		"thinking": "暗闇を（。、掌（。の（。中（。で（。、そっと（。照（。ら（。す「小（。さな（。る（。る（。聖域（。ランタン）』。（。その（。揺（。れる（。灯の（。中に（。、あなた（。の（。魂は、真実（。の（。る（。安らぎを、見（。出し（。ます。",
+		"aftertaste": "オーラは、自分を飾るためのものではない。自らの存在そのものが、光の源泉であることを、世界へと静かに宣言しているのですよ。",
+		"example": "The artist successfully captured the ethereal lantern that seemed to emanate from the ancient artifacts in the dimly lit gallery.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "lanterna",
+					"meaning": "lamp, lantern"
+				}
+			],
+			"points": [
+				"暗闇を恐れることはありません。光は、暗闇が深ければ深いほど、その真実の美しさを増していくものなのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
+	},
+	{
+		"id": "torch_light",
+		"word": "torch",
+		"meaning": "たいまつ、トーチ",
+		"era": "13th Century",
+		"etymology": {
+			"components": [
+				"torqua (twisted thing, literal: 'twisted thing made of hemp/tow')"
+			],
+			"original_statement": "From 13th Century torqua (twisted thing, literal: 'twisted thing made of hemp/tow')."
+		},
+		"concept": "A portable means of illumination such as a piece of wood or cloth soaked in tallow or other fat and ignited (意志という（。名の（。紐を（。、峻（。烈（。に「捻（。り（。合わせ（。た（。トーチ）』。（。その（。燃（。え（。盛（。る（。情熱の（。る（。る（。一一点（。を（。、誇り（。高く、掲（。げ（。な（。さい。)",
+		"thinking": "意志という（。名の（。紐を（。、峻（。烈（。に「捻（。り（。合わせ（。た（。トーチ）』。（。その（。燃（。え（。盛（。る（。情熱の（。る（。る（。一一点（。を（。、誇り（。高く、掲（。げ（。な（。さい。",
+		"aftertaste": "オーラは、自分を飾るためのものではない。自らの存在そのものが、光の源泉であることを、世界へと静かに宣言しているのですよ。",
+		"example": "The artist successfully captured the ethereal torch that seemed to emanate from the ancient artifacts in the dimly lit gallery.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "torqua",
+					"meaning": "twisted thing, literal: 'twisted thing made of hemp/tow'"
+				}
+			],
+			"points": [
+				"暗闇を恐れることはありません。光は、暗闇が深ければ深いほど、その真実の美しさを増していくものなのですよ。"
+			]
+		},
+		"part_of_speech": "noun"
 	}
 ];
