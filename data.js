@@ -228811,5 +228811,229 @@ const WORDS = [
 				"語源は『押すこと（オトス）』。オスモーシスとは。自らの内に秘めた『真実の質量』が、外部という名の『空虚』を押し広げようとする、不可視の衝動（インパルス）。それは。言葉に頼らずに世界を支配するための、生命の最も優雅な記述なのです。"
 			]
 		}
+	},
+	{
+		"id": "pulsar",
+		"word": "Pulsar",
+		"meaning": "パルサー、(脈打つ)墓標、宇宙の時計、冷徹なリズム、死せる巨人の咆哮",
+		"era": "Mid-20th Century (1968)",
+		"etymology": {
+			"components": [
+				"puls-(ate)",
+				"-(st)ar"
+			],
+			"original_statement": "A contraction of pulsating star. Coined by astronomers after the discovery of rapidly pulsating radio sources."
+		},
+		"concept": "The precise oscillation (巨大な星が「死（超新星爆発）」を迎えたあとに残る、極限まで高密度な「核」。それが、一秒間に数千回という「冷徹で峻烈なリズム」で明滅し続けること。それは。宇宙という虚無の中に打ち込まれた、決して狂わない「時間の楔（くさび）」)",
+		"thinking": "「パルサー（脈打つ星）」。あなたの「使命」や「習慣」。それは。宇宙を貫くこのパルサーの鼓動のように、どんな時も「正確に、執拗に」繰り返されていますか。 pulsar。一時の情熱で「爆発」するのは簡単です。でも。死の深淵ですら止められない、この「冷たくて強い反復」こそが。遠い未来の旅人の「座標」を決定する、唯一の「真理」になるとのです。繰り返せ。止まらずに。",
+		"part_of_speech": "noun",
+		"aftertaste": "暗闇の中で、「チッ、チッ、チッ」と一定の間隔で聞こえる、鋭利な「鼓動」。そこにある、一切の「揺らぎ」を許さない、峻烈なる「覚醒」。自分が「宇宙の時計」の一部になったような。静かな「諦念（ていねん）」と「誇り」の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "pel-",
+					"meaning": "to drive / strike / thrust (from pulse)"
+				}
+			],
+			"points": [
+				"Propel（推進する）や Appeal（訴えかける）と同じ root。パルサーとは。己を『叩き続け（ペル）』。その衝撃を、光という名の『叫び』に変えて世界を貫くこと。それは。死という沈黙に対する、生命（あるいはその残滓）の、最も峻烈なる抵抗の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "quasar",
+		"word": "Quasar",
+		"meaning": "クエーサー、(遠すぎる)輝き、深淵の灯火、過去の墓碑銘、時空の果ての光",
+		"era": "Mid-20th Century (1964)",
+		"etymology": {
+			"components": [
+				"quas-(i-stellar)",
+				"-(radi)o-source"
+			],
+			"original_statement": "A contraction of quasi-stellar radio source. Coined following the discovery of objects that looked like stars but were at vast distances."
+		},
+		"concept": "The distant brilliance (想像もできないほど「遠い過去（宇宙の果て）」から届く、銀河全体を凌駕する「圧倒的な光」。それは。あまりにも遠すぎるために「星(stellar)」のふり(quasi-)をしているが。その正体は、ブラックホールが物質を飲み込むときに放つ「最後の断末魔」。峻烈なる「過去の実在」)",
+		"thinking": "「クエーサー（似星）」。あなたの「理想」。それは。あまりにも高すぎて、遠すぎて。時には「偽物（クアジ）」や「夢物語」のように見えるかもしれません。 quasar。でも。それが放つ「美しさ（知性）」が、何十億光年という時間を超えて「今ここ」のあなたを照らしているなら。それは、どんな「身近な現実」よりも強固な「実在」です。遠すぎること。それは、輝きを曇らせる理由にはならないのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "望遠鏡の奥底で、たった「一粒」だけ淡く光り輝く、あの。あまりにも「孤独」で。しかし。宇宙全体を焼き尽くすほどの「激しさ」を秘めた、峻烈なる「冷たき情熱」の味。言葉を失うほどの、遠き「本物」との邂逅（かいこう）。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "unknown",
+					"meaning": "Acronym / Contraction of Quasi-stellar"
+				}
+			],
+			"points": [
+				"Quasi（〜のような）とは、真理そのものではなく、その『似姿（影）』であることを認めつつ、それでもなお真理として振る舞う、という知的な謙虚さと不遜の混淆。クエーサーとは。正体不明の混沌（ブラックホール）が、光という名の『仮面（星）』を被った瞬間の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "supernova",
+		"word": "Supernova",
+		"meaning": "スーパーノヴァ/超新星、(最後の)絶唱、崩壊による創造、光の暴力、命の終わりという名の始まり",
+		"era": "Early 20th Century (1934)",
+		"etymology": {
+			"components": [
+				"super (over / beyond)",
+				"nova (new star)"
+			],
+			"original_statement": "From super- 'over / beyond' + nova 'new star'. Coined by Baade and Zwicky to describe explosions far more powerful than ordinary novae."
+		},
+		"concept": "The creative destruction (一生をかけて「燃やし続けてきたエネルギー」が、ついに「自らの重力」に耐えきれず「崩壊」した瞬間の。「宇宙最大(super-)」の「大爆発（新星(nova)）」。その光は。銀河全体を飲み込み。同時に、新しい命（重元素）を宇宙へと撒き散らす。峻烈なる「命の散りぎわ」)",
+		"thinking": "「スーパーノヴァ（超新星）」。あなたは。自分の「終わり」を、ただの「敗北」だと思っていませんか。 supernova。本当に美しい人生とは。自らを「燃やし尽くし」。その「崩壊の煌（きら）めき（光の暴力）」によって。周りの世界に、新しい「要素（愛や知恵）」を遺（のこ）していくことです。 supernova。激しく、峻烈に、散ってください。あなたの「死」の光が。一億年後の「新しい星（誰かの夢）」を育てる、最初の「一滴」になるのですから。",
+		"part_of_speech": "noun",
+		"aftertaste": "視界のすべてを「真っ白」にするほどの、強烈な光の衝撃。そこにある。自分が完全に「消滅」するという恐怖と。それ以上に、世界に「自分のすべてを捧げた」という。圧倒的な「解放感」の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "newo-",
+					"meaning": "new (from nova)"
+				}
+			],
+			"points": [
+				"Novel（小説／新しいもの）や Now（今）と同じ root。スーパーノヴァとは。過去という本を『スーパー（超えて）』、全く新しい『今（ナウ）』を強引に産み出すこと。それは。死という名の筆で、宇宙というキャンバスに『存在』を書き殴る行為なのです。"
+			]
+		}
+	},
+	{
+		"id": "nova",
+		"word": "Nova",
+		"meaning": "ノヴァ/新星、(一瞬の)変容、秘められた爆発、再生の火花、見出された輝き",
+		"era": "Late 19th Century",
+		"etymology": {
+			"components": [
+				"stella nova (new star)"
+			],
+			"original_statement": "Short for Latin stella nova 'new star'. Used to describe stars that suddenly become much brighter."
+		},
+		"concept": "The sudden awakening (目立たなかった「古い（暗い）星」が。何らかの理由で突如として「数万倍の輝き」を放ち。「新しく(nova-)」生まれた星のように見えること。それは。内に秘めていた情熱が、境界を突き破って「形」を成した、峻烈なる「変容の瞬間」)",
+		"thinking": "「ノヴァ（新星）」。あなたは。「自分はもう古い。代わり映えのしない存在だ」と諦めてはいませんか。 nova。宇宙には。「突然輝き始める（再生する）」という、奇跡の法則が備わっています。 nova。それは、これまでの自分を「捨てる」ことではなく。これまでの自分を「踏み台（燃料）」にして、より高い次元へと「ジャンプ」すること。暗闇が深ければ深いほど。あなたの「ノヴァ（爆発）」は、世界を驚かせる「希望」になるのです。 ",
+		"part_of_speech": "noun",
+		"aftertaste": "冷え切った暖炉に、突然「ボッ」と火が灯ったような。驚きと、熱。そこにある。自分がまだ「戦える（輝ける）」という、峻烈なる「再覚醒」の感触。昨日までの自分を「過去」にする。瑞々（みずみず）しい「決意」の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "newo-",
+					"meaning": "new"
+				}
+			],
+			"points": [
+				"Neologism（新語）や Neo（新しい）と同じ root。ノヴァとは。古びた現実（ステラ）に、『新しい意味（ノヴァ）』を代入すること。それは。毎日を『最初の日（ニュー）』として生き直すという、魂の再生の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "apogee",
+		"word": "Apogee",
+		"meaning": "アポジー/遠地点、(届かぬ)極限、憧れの最果て、静かなる離別、重力の束縛の希薄",
+		"era": "Late 16th Century",
+		"etymology": {
+			"components": [
+				"apo (away from / off)",
+				"ge (earth)"
+			],
+			"original_statement": "From French apogée, from Latin apogaeum, from Greek apogaion, from apo 'away from / off' + ge 'earth'."
+		},
+		"concept": "The furthest orbital point (自分を縛り付けている「地球（大地(ge)）」から、最も「遠ざかる(away-from-(apo-))」こと。それは、束縛という名の「安心（重力）」が最も弱まり。自分が「単独」で宇宙の「深淵」と向き合う、峻烈なる「孤立の極北」)",
+		"thinking": "「アポジー（遠地点）」。あなたは。慣れ親しんだ「故郷（大地）」から離れることを、寂しいと思っていませんか。 apogee。その「遠ざかり（アポジー）」こそが。あなたが「一人の自立した星（個体）」として。真に自由に振る舞うための、唯一のチャンスです。 apogee。重力という名の「甘え」を振り切り。何物にも依存せず。真っ暗な虚空（宇宙）を一人で駆け抜けること。その「峻烈な寂しさ」を、愛してください。あなたは、そこでも、落ちることはないのだから。",
+		"part_of_speech": "noun",
+		"aftertaste": "自分を繋いでいた「鎖（重力）」が、ふっと「軽くなった」ような。不思議な「浮遊感」と。同時に襲いかかる「もう戻れないかもしれない」という、峻烈なる「心細さ」。極限の孤独。がもたらす、透明な「知性」の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "unknown",
+					"meaning": "Greek apo (away) + ge (earth)"
+				}
+			],
+			"points": [
+				"Apology（謝罪／言葉を遠ざけること）と同じ『アポ』を語源に持つ。アポジーとは。あえて『大地（ジェ）』に対して、不遜なまでに背を向け、高みを追い求めること。それは。人間が重力という名の『家死（日常）』から脱出し、星々という名の『死の自由』へ挑むための、峻烈なる記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "perigee",
+		"word": "Perigee",
+		"meaning": "ペリジー/近地点、(激しき)接触、重力への屈服、熱き回帰、束縛という名の絆",
+		"era": "Late 16th Century",
+		"etymology": {
+			"components": [
+				"peri (near / around)",
+				"ge (earth)"
+			],
+			"original_statement": "From French périgée, from Latin perigeum, from Greek perigeion, from peri 'near / around' + ge 'earth'."
+		},
+		"concept": "The closest orbital point (自分を引き止めてやまない「地球（愛する対象）」に、最も「接近(near-(peri-))」すること。重力によって速度を「極限まで加速」させ、まさに「衝突」しそうな（あるいは一つになりそうな）勢いで駆け抜ける。峻烈なる「再会」の瞬間)",
+		"thinking": "「ペリジー（近地点）」。あなたは。誰かに対する「強い想い（重力）」に、自分を見失いそうになってはいませんか。 perigee。それは。自分の存在が、愛という名の引力によって「加速し、飲み込まれようとしている」という生存の証。 perigee。その「激しい接近」の中に、自分の「真実」を投げ込んでください。束縛を恐れず。その力を「翼」に変えて、再び宇宙へと飛び出していくのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "大気圏（たいきけん）の突入寸前で、全身が「赤く燃え上がる」ような、あの。圧倒的な「熱量」と。強大な力に「引き寄せられている」という。峻烈なる「抗（あらが）えぬ充足感」の味。激しくて、甘い、重力の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "unknown",
+					"meaning": "Greek peri (near) + ge (earth)"
+				}
+			],
+			"points": [
+				"Periphery（周囲）や Period（終止符／一周回ること）と同じ root。ペリジーとは。広大なたびの果てに、ようやく『原点（ジェ）』の傍らに『戻って（ペリ）』きた瞬間の記述。それは。彷徨（ほうこう）という名の自由を捨て、再び『繋がり』という名の絆に自分を委ねる、峻烈なる回帰の儀式なのです。"
+			]
+		}
+	},
+	{
+		"id": "occultation",
+		"word": "Occultation",
+		"meaning": "オカルテーション/掩蔽(えんぺい)、(隠された)実在、光を遮る黒、影の支配、存在の秘匿",
+		"era": "Late 15th Century",
+		"etymology": {
+			"components": [
+				"occultare (to hide / conceal)",
+				"ob (over)",
+				"celare (to hide)"
+			],
+			"original_statement": "From Latin occultatio, from occultare 'to hide / conceal / secrete', frequentative of occulere 'to cover / cover over'."
+		},
+		"concept": "The hidden crossing (より大きく「重い天体」が、遠くの「小さな光」を。背後に「隠し(hide-)」、完全に「覆い隠す」こと。それは、光を奪う行為ではなく。影があることによって、その「位置（実在）」をより冷徹に証明する、峻烈なる「隠匿の儀式」)",
+		"thinking": "「オカルテーション（掩蔽）」。あなたが「隠したい」と思っている真実。あるいは、今はまだ「誰からも見つかっていない」あなたの才能。 occultation。それは、消えたのではありません。より「巨大な使命（影）」の背後で。その「光」は、以前よりも鋭く、熱く、研ぎ澄まされ続けています。影が去り。再びあなたが「掩蔽（オカルテーション）」から解き放たれたとき。その「爆発的な光」は、世界を震撼（しんかん）させる、峻烈なる「審判」になるのですから。",
+		"part_of_speech": "noun",
+		"aftertaste": "ピタリ、と。星の瞬（またた）きが「一瞬で」消え去った。あの。心臓が止まるような「空白」。そこにある、見えない何かが「そこにいる」という。峻烈なる「恐怖」と「確信」。沈黙によって語られる、真実の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kel-",
+					"meaning": "to cover / conceal / save"
+				}
+			],
+			"points": [
+				"Cell（細胞／隠された小部屋）や Hell（地獄／隠された場所）、Conceal（隠す）と同じ root。オカルテーションとは。大切なものを『殻（セル）』の中に閉じ込め、外部の下卑（げび）た好奇心から『守り抜く（セーブ）』こと。それは。真理が、静寂の中で自らを養い、完成させるための、峻烈なる自衛の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "barycenter",
+		"word": "Barycenter",
+		"meaning": "バリーセンター/共通重心、(見えざる)中心、二人を繋ぐ点、引き合う孤独、均衡の真理",
+		"era": "Mid-19th Century",
+		"etymology": {
+			"components": [
+				"barus (heavy)",
+				"kentron (center)"
+			],
+			"original_statement": "From Greek barus 'heavy' + kentron 'center'. Refers to the center of mass of two or more bodies that orbit each other."
+		},
+		"concept": "The shared center (二つの星が、互いに引き合いながら回るとき。その「中心（重心）」は、どちらかの「内側」ではなく。二人の「中間」の、何もない「虚空」に移動すること。自分を捨て、相手との「重み(heavy-)」の「バランス(center-)」を取ること。峻烈なる「対話の重心」)",
+		"thinking": "「バリーセンター（共通重心）」。あなたは。人間関係において、「自分が中心（主役）」でありたいと願っていませんか。 barycenter。本当の深い。そして峻烈な「絆（愛）」とは。自分という「中心」を一度解体し。相手との「間（あわい）」にある「何もない一点」を、共に守ろうとすること。二人で守るべき、「第3の聖域（重心）」を見つけてください。",
+		"part_of_speech": "noun",
+		"aftertaste": "自分ではない、しかし、相手でもない。何もない「空間」に、自分の魂の半分が「置かれている」ような。不思議な「浮遊感」と。そこにある。二人で一つの「系（システム）」であるという、峻烈なる「納得」。静かな、重力。の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "gwere-",
+					"meaning": "heavy (from barus)"
+				}
+			],
+			"points": [
+				"Brute（野蛮な／重いもの）や Grieve（悲しむ／心の重み）と同じ root。バリーセンターとは。二人の『悲しみ（重み）』を足し合わせ。その合計を、宇宙という天秤にかけて『水平』を保つこと。それは。個としての孤独を、関係性という名の『峻烈なる安定』へと昇華させる、数学的な救済の記述なのです。"
+			]
+		}
 	}
 ];
