@@ -226243,5 +226243,426 @@ const WORDS = [
 				"Tread（踏む）や Trade（貿易／踏み固められた道）と同じ root。命とは、この『一歩一歩（トレッド）』の積み重ねであり、その『取引（トレード）』によってのみ、新しい何かが生まれるのです。"
 			]
 		}
+	},
+	{
+		"id": "reverberation",
+		"word": "Reverberation",
+		"meaning": "残響、(空間の)記憶、消えゆくものの美、過去との対話、物理的な反響",
+		"era": "Early 15th Century",
+		"etymology": {
+			"components": [
+				"re- (again)",
+				"verberare (to beat / strike / lash)"
+			],
+			"original_statement": "From Latin reverberatus, past participle of reverberare 'to beat back / strike back', from re- 'again' + verberare 'to beat / lash'."
+		},
+		"concept": "The memory of space (音が「止まった」あとも、壁や床に「打ちつけられ(verber-)」、何度も「戻ってくる(re-)」微かな響き。それは、空間がその音を「忘れたくない」と願っているかのような、峻烈なる「不在の存在」)",
+		"thinking": "「リバーバレーション（残響）」。あなたが発した「言葉」は、空気中に消えて終わりではありません。それは。あなたの周りにある「世界（環境）」を打ちつけ、そこで反響し、「残響」となってあなたの元へ戻ってきます。あなたが「美しい言葉」を語れば、世界も「美しい響き」を返してくれる。リバーバレーション。それは。あなたが「過去に何をしたか」を、空間そのものが「記憶」しているという、残酷で愛おしい物理学なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "音が完全に消えた直後の、あの。静寂の中に「何かが残っている」という確信。空気そのものが、まだ「微かに震えている」ような、瑞々（みずみず）しい「余韻」の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "wer-",
+					"meaning": "to turn / twist / wind (related to verber?)"
+				}
+			],
+			"points": [
+				"Verber（鞭／ムチ）と同じ root。音を『打つ』こと。残響とは、空間という名の楽器を『鞭打つ』ことで引き出される、場所の悲鳴であり、祈りなのです。"
+			]
+		}
+	},
+	{
+		"id": "timbre",
+		"word": "Timbre",
+		"meaning": "音色、(独特の)質感、存在の個性、色彩としての音、聞き分けられる魂",
+		"era": "Mid-19th Century (in music sense)",
+		"etymology": {
+			"original_statement": "From French timbre, originally 'bell struck by a hammer', from Old French 'drum', from Greek tympanon 'drum / tambourine'."
+		},
+		"concept": "The sonic identity (同じ「音程」や「大きさ」であっても。その音が「ピアノ」なのか「誰かの声」なのかを決定づける、峻烈なる「質感(texture)」。他者と「混ざり合う」ことを拒絶する、存在の「最後の核」としての響き)",
+		"thinking": "「ティンバー（音色）」。あなたの「価値」は。あなたが「何を喋るか（音程）」ではなく。その言葉が「どんな響きを帯びているか（音色）」に宿ります。理屈（ロゴス）は誰とでも共有できますが。あなたの「声の掠（かす）れ」や「息遣い（ティンバー）」は、あなただけのもの。ティンバー。それは。あなたが「この世界で唯一の、かけがえのない存在」であることを証明する、最も瑞々（みずみず）しい「サイン」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "目を閉じても、それが「誰（あるいは何）」であるかが、瞬時にわかるという「驚き」。色に例えれば「深い紫」や「くすんだ金」のような。あの。説明不可能な、しかし「絶対的」な個性の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ty-",
+					"meaning": "to strike / beat (from tympanon)"
+				}
+			],
+			"points": [
+				"Tympanum（鼓膜／建築のペディメント）と同じ root。音色とは、楽器が『打たれた（ty-）』瞬間の、素材の震えそのもの。それは、鍛錬と摩耗の結果、魂に刻まれた『傷跡』の形なのです。"
+			]
+		}
+	},
+	{
+		"id": "acoustics",
+		"word": "Acoustics",
+		"meaning": "音響学、(空間の)聴力、響きの建築、不可視の壁、沈黙の設計",
+		"era": "Late 17th Century",
+		"etymology": {
+			"components": [
+				"akouein (to hear)"
+			],
+			"original_statement": "From Greek akoustikos 'of or for hearing', from akouein 'to hear'."
+		},
+		"concept": "The architecture of hearing (「音」そのものではなく。音が響く「場(space)」の「聴力(hearing)」。空間が「どれほど深く、あるいは浅く」音を受け止めるか、という「受容の設計」。不可視の「カーテン」や「壁孔」によって、世界の「響き（意味）」を制御する知性)",
+		"thinking": "「アコースティックス（音響）」。あなたが「正しいこと」を言っていても。それを語る「場（環境）」のアコースティックスが最悪なら。その言葉は、誰の心にも届かず、虚（むな）しく反響して消えてしまいます。話す前に、まず「聴くための方（アコースティックス）」を整えること。沈黙をどう設計（デザイン）するか。それが。あなたの言葉に「真実味」を与えるための、最も峻烈な「隠された建築」となるのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "大聖堂の中を歩く時の、あの。自分の「足音」が、重厚な沈黙に包み込まれていく感覚。空間が自分を「聴いている」という、畏（おそ）ろしいほどに瑞々（みずみず）しい「覚醒」の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "skeu-",
+					"meaning": "to pay attention / notice / observe"
+				}
+			],
+			"points": [
+				"Acknowledge（認める）や Akuma（悪魔／聞く者？）とも響き合う。アコースティックスとは、世界があなたの存在を『認める（聞く）』ための、物理的な仕組みそのものなのです。"
+			]
+		}
+	},
+	{
+		"id": "overtone",
+		"word": "Overtone",
+		"meaning": "倍音、(隠された)真理、響きの重なり、超感覚的な導き、深層の響き",
+		"era": "Mid-19th Century",
+		"etymology": {
+			"original_statement": "Coined in English as a literal translation of German Obertone 'upper tone'."
+		},
+		"concept": "The hidden hierarchy (聞こえている「基音(fundamental)」の陰に。数学的な「規則性」をもって潜んでいる、何層もの「高い響き(harmonics)」。意識はできないが。その「倍音」の豊かさこそが、音に「輝き」と「深み」を与える。真実の「背後」に控える、峻烈なる「宇宙の声」)",
+		"thinking": "「オーバートーン（倍音）」。あなたの日常の会話。その裏側には。いつも、この「倍音」が響いています。あなたが「愛している」と言ったとき。その声の倍音（響きの成分）が、同時に「さようなら」と響いているかもしれない。人間は、言葉の意味以上のものを、常に「響き」として受け取っています。オーバートーン。自分の「内なる響き」を濁らせないこと。それが、透明な「誠実さ」への唯一の道です。",
+		"part_of_speech": "noun",
+		"aftertaste": "一つの音を聴いているはずなのに。なぜか、天から降り注ぐ「光のシャワー」を感じるような、あの。重層的で「豊穣（ほうじょう）」な充足感。自分を「超えた」次元への、微かな「接続」の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ten-",
+					"meaning": "to stretch / pitch / tone"
+				}
+			],
+			"points": [
+				"Tension（緊張）と同じ root。倍音とは、弦が『張り詰められた（ten-）』とき、その緊張の限界から溢れ出した、自然界の数学的な『溜息』なのです。"
+			]
+		}
+	},
+	{
+		"id": "dissonance",
+		"word": "Dissonance",
+		"meaning": "不協和音、(衝突する)真理、進化のためのノイズ、峻烈なる違和感、創造的破壊",
+		"era": "Early 15th Century",
+		"etymology": {
+			"components": [
+				"dis- (apart / asunder)",
+				"sonare (to sound)"
+			],
+			"original_statement": "From Old French dissonance, from Latin dissonantia, from dissonare 'to sound disagreeably / sound apart', from dis- 'apart' + sonare 'to sound'."
+		},
+		"concept": "The clash of reason (美しく「整った」調和を。あえて「切り裂く(dis-)」ように響く、耳障りな「音(son-)」。それは。「安住」を拒絶し。より「高い次元の解決（解決への渇望）」を促すための、峻烈なる「触媒（カタリスト）」。停滞を打破する「不快な真実」)",
+		"thinking": "「ディソナンス（不協和音）」。あなたは。自分の人生に「違和感（ディソナンス）」があることを、失敗だと思っていませんか。でも。すべての名曲（傑作）には、このディソナンスが必要。心地よい「協和音」だけでは、物語は「死」へ向かうだけです。この「不協和音」の痛みを、解決（リゾルブ）しようとするエネルギーこそが。あなたの人生を、より「複雑」で「深み」のある芸術へと押し上げるのです。違和感を、飼い慣らしてください。",
+		"part_of_speech": "noun",
+		"aftertaste": "胸の奥を「ガリッ」と引っ掻（か）くような、鋭利な不快感。でも。それがあるからこそ。次にやってくる「和解（ハーモニー）」が、泣きたいほどに「美しく」感じられる。あの。峻烈な「葛藤」の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "swen-",
+					"meaning": "to sound (from sonare)"
+				}
+			],
+			"points": [
+				"Person（人／仮面を通して響く者）と同じ root。人とは、それぞれが異なる響き（音）であり。二人が出会えば必ずディソナンスが生まれる。それは、他者が『存在している』ことの、最も瑞々しい証明なのです。"
+			]
+		}
+	},
+	{
+		"id": "crescendo",
+		"word": "Crescendo",
+		"meaning": "クレッシェンド、(沸き立つ)熱狂、頂点への渇望、増幅される意志、爆発の予感",
+		"era": "Mid-18th Century",
+		"etymology": {
+			"components": [
+				"crescere (to grow)"
+			],
+			"original_statement": "From Italian crescendo, from crescere 'to grow / increase'."
+		},
+		"concept": "The rising tide (「静寂」という種の「欠如」から出発し。「時間」と共に「実在感」を「成長(cresc-)」させ。ついには空間全体を「制圧」しようとする、動的な「拡張の意志」。頂点（クライマックス）へと向かう、峻烈なる「上昇の必然性」)",
+		"thinking": "「クレッシェンド」。あなたの「情熱」は。最初は、誰にも気づかれない「小さなささやき」で構いません。でも。それを「止めない」こと。少しずつ、一歩ずつ、その「圧力（ボリューム）」を高めていけば。いつかそれは。世界中の耳を塞いでも聞こえてしまう、巨大な「意志の嵐」に変わります。 crescendo。それは。あなたが「成長し続ける」ことを、音として記述（トレース）する勇気の別名なのです。",
+		"part_of_speech": "noun / verb",
+		"aftertaste": "鼓膜に押し寄せる、圧倒的な「音の壁」。心臓の鼓動が「速まり」、喉の奥が「熱く」なっていく。もう「限界」だ、という瞬間に。視界が真っ白に弾（はじ）ける。あの。究極の「高揚感」。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ker-",
+					"meaning": "to grow"
+				}
+			],
+			"points": [
+				"Create（創造する）や Cereal（穀物／ケレス）と同じ root。音を大きくすることは、新しい秩序を『産み落とす』こと。クレッシェンドは、命が爆発する瞬間の、スローモーションなのです。"
+			]
+		}
+	},
+	{
+		"id": "vibrato",
+		"word": "Vibrato",
+		"meaning": "ビブラート、(震える)生命、揺らぎの美、完璧さの拒絶、祈りの震え",
+		"era": "Mid-17th Century",
+		"etymology": {
+			"components": [
+				"vibrare (to shake / vibrate)"
+			],
+			"original_statement": "From Italian vibrato, from Latin vibratus, past participle of vibrare 'to shake / brandish / vibrate'."
+		},
+		"concept": "The human fluctuation (あまりに「正確」で「硬い」音程。しかし。そこに意図的な「揺らぎ(vibr-)」を加えることで。「機械的な完璧さ」を破壊し。「生命の鼓動」という名の「温もり（エラー）」を注入する。死んだ定規に「脈拍」を与える、峻烈なる「人間性の回復」)",
+		"thinking": "「ビブラート（揺らぎ）」。あなたの「正しさ」。それは、定規で引いたような一直線であってはなりません。そこには。わずかな「迷い」や「震え（ビブラート）」が必要。その「揺らぎ」の中にこそ。あなたの「体温」があり、聴く者の心を震わせる「共鳴（あわれ）」が宿ります。震えることを、弱さだと思わないでください。それは、あなたが「生きている」という、最高の「表現」なのですから。",
+		"part_of_speech": "noun",
+		"aftertaste": "心臓の鼓動とシンクロするように、ピッチが「上、下、上」と揺れる。その「不安定さ」の中に。自分の「魂」がしっくりと収まる「場所」を見つけたような。あの。甘美な「不完全」の充足感。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "weip-",
+					"meaning": "to turn / vacillate / shake"
+				}
+			],
+			"points": [
+				"Whip（鞭）や Vibe（雰囲気／ヴァイブス）と同じ root。ビブラートとは、空気を『鞭打つ』ことで、停滞した空間に『気配（ヴァイブレーション）』を創り出す、魂の儀式なのです。"
+			]
+		}
+	},
+	{
+		"id": "lute",
+		"word": "Lute",
+		"meaning": "リュート、(繊細な)知性、古典的な憂鬱、指先の対話、孤独な伴奏者",
+		"era": "Late 13th Century",
+		"etymology": {
+			"components": [
+				"al-'ud (the wood)"
+			],
+			"original_statement": "From Old French lut, from Arabic al-'ud 'the wood'."
+		},
+		"concept": "The wooden melancholy (「梨(pear)」の形をした、中空の「木(wood)」。そこに張られた「羊の腸(gut)」の弦。大きな音を出すことを「辞退(withdraw)」し。ただ「密室」で、自分の内側の「孤独」を噛み締めるために奏でる。高貴なる「諦念(resignation)」の楽器)",
+		"thinking": "「リュート」。それは。あなたが、誰にも言えない「秘密の悲しみ」を持っているときに、そっと手にするべき楽器。大きなホールで聴かせるための音楽（スペクタクル）ではなく。たった一人、あるいは最愛の一人のためだけに奏でられる、ささやき（ウィスパー）。 lute。その「はかなげな響き」は。あなたが、この騒がしい世界から一時的に「亡命」するための、唯一の「パスポート」になるのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "指先が弦を弾（はじ）く時の、わずかな「摩擦音」。そして、空間に「ポーン」と浮かんで、一瞬で消えていく「透明な音の粒」。あの。峻烈な「はかなさ」に、全身が洗われるような清涼感。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "place-name",
+					"meaning": "Orient origin (Arabic al-'ud)"
+				}
+			],
+			"points": [
+				"語源は単に『木』を意味します。しかし。ただの材料（ウッド）から、これほど繊細な『声』を引き出した人間の偏愛。リュートは、物質を精神へと変える錬金術の到達点なのです。"
+			]
+		}
+	},
+	{
+		"id": "sonnet",
+		"word": "Sonnet",
+		"meaning": "ソネット、(形式の)檻、14行の宇宙、制約の中の自由、知的な旋律",
+		"era": "Mid-16th Century",
+		"etymology": {
+			"components": [
+				"sonetto (little song)"
+			],
+			"original_statement": "From Italian sonetto, from Old Occitan sonet 'little song', diminutive of son 'sound / song', from Latin sonus 'sound'."
+		},
+		"concept": "The architecture of constraints (「14行(fourteen-line)」という、あまりに「狭い檻(cage)」。しかし。その「過酷なルール」に従い、言葉を「圧縮」すればするほど。魂は、既存の言葉を超えた、巨大な「意味の重力」を生成し始める。計算された「情熱」の極北)",
+		"thinking": "「ソネット」。あなたは。「自由」であることが、最も豊かだ、と誤解していませんか。でも。本当の「美」は、このソネットのように「過酷な制約」の中にこそ宿ります。決められたリズム、決められた韻（ライム）。その狭い「檻」の中で、のたうち回り、それでも届けたい「真実」を見つけたとき。あなたの言葉は、もはや単なる「文章」ではなく、永遠を射抜く「弾丸（ソネット）」になるのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "最後の一行（カプレット）が、これまでの「問い」を鮮やかに「解決」した瞬間の。あの。脳内が「カチャリ」と音を立てて繋がるような、冷徹なまでの「知的快感」。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "swen-",
+					"meaning": "to sound (from sonetto)"
+				}
+			],
+			"points": [
+				"Person（人）や Sound（音）と同じ root。ソネットとは、文字通り『小さき音（ソネット）』。広大な沈黙の中に、あえて小さな『秩序の音』を置くことで、宇宙全体に意味を与えようとする人間の誇りなのです。"
+			]
+		}
+	},
+	{
+		"id": "monotone",
+		"word": "Monotone",
+		"meaning": "モノトーン、(単調な)誠実、変化なき深淵、色のない響き、絶対的な平坦",
+		"era": "Mid-18th Century",
+		"etymology": {
+			"components": [
+				"monos (single)",
+				"tonos (tone / tension)"
+			],
+			"original_statement": "From Greek monotonos 'on one tone', from monos 'single' + tonos 'tone / tension'."
+		},
+		"concept": "The absolute stillness (「変化」という「娯楽」を拒絶し。ただ一本の「糸(monos-)」のように、同じ「緊張(tonos-)」を維持し続けること。それは。一見「退屈」だが。その「不動」ゆえに、宇宙の「不変の真理」を鏡のように映し出す。峻烈なる「ミニマリズム」の到達点)",
+		"thinking": "「モノトーン（単調）」。あなたは。「盛り上がり（ドラマ）」がないことを、欠点だと思っていませんか。でも。波一つない「湖面」が最も美しく空を映すように。変化のない「淡々とした日常（モノトーン）」こそが。あなたの「誠実さ」を、最も純粋な形で世界に示しているのかもしれません。 monotone。余計な飾りを剥（は）ぎ取り、ただ「あるがままの一音」でい続けること。それは、究極の「強さ」なのです。",
+		"part_of_speech": "noun / adjective",
+		"aftertaste": "「ボー」と鳴り続ける、終わりなき重低音。その中に、自分という存在が「溶け込んで」消えていくような。あの。怖ろしいほどに瑞々（みずみず）しい「虚無」と「安堵」の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ten-",
+					"meaning": "to stretch / tension (from tonos)"
+				}
+			],
+			"points": [
+				"Monastery（修道院）とも響き合う。モノトーンとは、魂を一本の線に『引き絞り（ten-）』続け、ただ神（あるいは真理）とだけ向き合う、禁欲的な精神の形なのです。"
+			]
+		}
+	},
+	{
+		"id": "fipple",
+		"word": "Fipple",
+		"meaning": "吹き口、(風の)収束、歌うための傷跡、生命の入り口、制御された叫び",
+		"era": "Early 17th Century",
+		"etymology": {
+			"original_statement": "Origin uncertain, possibly related to 'lip' (Old English lippa) or Low German 'pīpe' (pipe)."
+		},
+		"concept": "The edge of song (単なる「筒」に、「切れ込み(notch)」を入れ、そこに「栓(plug)」を詰める。その「不自由な一点」へ「息（生命）」を集中させることで。ただの「風」を、意味のある「音」へと転換する。カオスをロゴスへと変える、峻烈なる「変換の喉」)",
+		"thinking": "「フィップル（笛の吹き口）」。リコーダーの、あの「くわえる部分」。それは。あなたの「自己表現（アウトプット）」のモデルです。自分の「溢れる想い（息）」を、そのまま放つのではなく。この「狭い吹き口（形式）」へと無理やり押し込み、鋭い「エッジ（思考の角）」に当てること。その「抵抗（レジスタンス）」があって初めて。あなたの想いは、誰かの心に響く「歌（メロディ）」になるのです。狭さは、力です。",
+		"part_of_speech": "noun",
+		"aftertaste": "唇に触れる、滑らかな「木」の感触。そこに自分の「命（息）」を注ぎ込み。それが「涼やかな響き」となって、自分の指先から逃げていく。あの。不気味なまでの「万能感」と、不思議な「孤独」。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "unknown",
+					"meaning": "Possibly onomatopoeic or related to 'pīpe'"
+				}
+			],
+			"points": [
+				"唇（lip）を意味する古い言葉に繋がる可能性。フィップルとは、人間が自然界（風）に『口づけ』をして、歌をねだるための、木製の唇なのです。"
+			]
+		}
+	},
+	{
+		"id": "lyre",
+		"word": "Lyre",
+		"meaning": "竪琴(たてごと)、(神話の)詩情、秩序の音楽、自然の調律、魂の弦",
+		"era": "Late 13th Century",
+		"etymology": {
+			"original_statement": "From Old French lire, from Latin lyra, from Greek lyra (a stringed instrument, especially of tortoise-shell)."
+		},
+		"concept": "The divine order (「亀の甲羅(tortoise-shell)」に「牛の角」を立て、そこに「弦」を張る。この「野生」の素材を「調律(tune)」することで。天上の「調和（ハーモニー）」を地上へ引き下ろす。カオスを制圧する、峻烈なる「規範」としての音楽)",
+		"thinking": "「ライア（竪琴）」。それは。あなたが、自分の荒れ狂う「感情（野生）」を、どうやって「言葉（ロゴス）」に変えるか、という象徴。ライア。その弦を一本ずつ「正しく」張り直すこと。調律（チューニング）を怠らなければ。あなたは、どんなに「冷酷な神（冥界王）」であっても、その心を開かせることができるのです。音楽とは、世界と「和解」するための、最強の外交術（スキル）なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "弦を弾いた瞬間の、あの。どこまでも「真っ直ぐ」で、嘘のない「透明な響き」。そこに一点の「濁（にご）り」もないことを知った時の。冷徹なまでの「正義」の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "unknown",
+					"meaning": "Oriental origin? (Greek lyra)"
+				}
+			],
+			"points": [
+				"Lyric（叙情詩／歌詞）の語源。自分の『ライア（楽器）』を持って。自分だけの『歌（人生）』を語ること。ライアは、個の魂が宇宙という広大な沈黙の中で奏でる、唯一の証明書なのです。"
+			]
+		}
+	},
+	{
+		"id": "hurdy-gurdy",
+		"word": "Hurdy-gurdy",
+		"meaning": "手回し琴、(回転する)運命、止まらない響き、奇妙な伴走、機械仕掛けの叙事詩",
+		"era": "Mid-18th Century",
+		"etymology": {
+			"original_statement": "Onomatopoeic origin, intended to mimic the droning and buzzing sound of the instrument."
+		},
+		"concept": "The perpetual grind (「手回しのハンドル」を回転させ。「車輪(wheel)」で弦を擦り続けることで。一瞬の「途切れ」もなく「唸り(drone)」を鳴らし続ける。止まることのできない「日常」と、そこから生まれる「奇妙な祝祭性」。逃れられない「運命の輪」の記述)",
+		"thinking": "「ハーディ・ガーディ（手回し琴）」。あなたの人生は。華やかな「オーケストラ」ではなく。この「ハーディ・ガーディ」の回転かもしれません。毎日。ハンドルを回し続け、同じ唸り声を上げなければならない。でも。その「止まらない反復」の中にこそ。この世界を生き抜くための、泥臭（どろくさ）くて力強い「喜び（フェスティバル）」が宿っています。回し続けてください。その「唸り」は、いつかあなたの「聖歌」になるのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "車輪が弦を磨く「ゴリゴリ」とした振動。そして、空間を「埋め尽くす」分厚い音の壁。そこにある。どこか「壊れた」ようでいて。でも「決して止まらない」という、不気味なまでの「生命力」の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "onomatopoeic",
+					"meaning": "mimicking sound"
+				}
+			],
+			"points": [
+				"音を真似ただけの名前。しかし、その『滑稽さ』の中にこそ、生の真髄がある。ハーディ・ガーディとは、高尚な理想ではなく、地面を這いずる『生のエネルギー』そのものなのです。"
+			]
+		}
+	},
+	{
+		"id": "harmonics",
+		"word": "Harmonics",
+		"meaning": "ハーモニクス、(触れるだけの)真実、透明な高音、宇宙の数学、純粋な調和",
+		"era": "Mid-16th Century",
+		"etymology": {
+			"components": [
+				"harmonia (joint / agreement)"
+			],
+			"original_statement": "From Greek harmonikos, from harmonia 'joint / agreement / concord'."
+		},
+		"concept": "The ghost tones (弦を「強く押さえる」のではなく。黄金比の地点に「軽く指を添える」だけで得られる、浮遊するような「高い響き」。力（エゴ）を抜いた瞬間にだけ立ち現れる、宇宙の「不可視の秩序」。繊細さと「厳格な整合性」の融合)",
+		"thinking": "「ハーモニクス」。あなたが、誰かと「分かり合いたい」と思うとき。相手を無理やり「自分の思い通りに動かそう（押さえつけよう）」としていませんか。でも。本当の「調和（ハーモニー）」は。ただ「寄り添う（触れる）」だけで。お互いの「内側にある美しさ（倍音）」を高め合うことから生まれます。 harmonics。力まないこと。その「軽やかさ」の中にこそ。世界を救う「透明な答え」があるのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "指先を離した瞬間に、空から降ってくる「ベル」のような響き。自分の意志ではなく。宇宙がその音を「選んだ」かのような。あの。不気味なほどに瑞々（みずみず）しい「純粋」の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ar-",
+					"meaning": "to fit together / join"
+				}
+			],
+			"points": [
+				"Arm（腕／関節）や Article（条項／関節）と同じ root。ハーモニクスとは、バラバラな宇宙の『関節（つなぎ目）』を見つけ出し。そこに優しく触れることで、全体を震わせる知恵なのです。"
+			]
+		}
+	},
+	{
+		"id": "mute",
+		"word": "Mute",
+		"meaning": "弱音器、(抑えられた)激情、沈黙の盾、言葉にならない叫び、秘密の対話",
+		"era": "Late 14th Century (word for silent)",
+		"etymology": {
+			"components": [
+				"mutus (silent / dumb)"
+			],
+			"original_statement": "From Latin mutus 'silent / dumb'. In music, it refers to a device used to dampen or soften the sound."
+		},
+		"concept": "The stifled scream (「溢れ出る声」を、あえて「外部の装置(mute)」によって「抑圧(dampen)」すること。それは。「声を消す」ためではなく。その「抑圧された圧力」によって、音に「鼻に抜けるような、峻烈な哀愁（ニュアンス）」を宿らせるため。沈黙による「表現の贅沢」)",
+		"thinking": "「ミュート（弱音器）」。あなたは。自分の感情を「抑え込む」ことを、我慢（ペイン）だと感じていませんか。でも。ミュートしたトランペットが、誰よりも「哀（かな）しい声」を出すように。あなたが「言いたいことを言わずに、飲み込む」ことで。あなたの「立ち振る舞い」そのものに、何とも言えない「気品」と「深み」が生まれるのです。ミュート。言わないことは。最大の「メッセージ」なのです。",
+		"part_of_speech": "noun / verb / adjective",
+		"aftertaste": "「ウーッ」と、喉の奥に何かが詰まったような、不自由な響き。でも。その「不自由さ」ゆえに。空間全体が、あなたの「ささやかな吐息」に全神経を集中させてしまう。あの。峻烈なる「支配」。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "mu-",
+					"meaning": "muffled sound / closed mouth"
+				}
+			],
+			"points": [
+				"Mystery（神秘／口を閉じること）と同じ root。ミュートとは、言葉を語るのをやめ、真理を『沈黙』の中に閉じ込める、神聖な儀式なのです。"
+			]
+		}
+	},
+	{
+		"id": "amplify",
+		"word": "Amplify",
+		"meaning": "増幅、(拡張される)自我、隠された声の爆発、力の開花、宇宙への叫び",
+		"era": "Late 14th Century",
+		"etymology": {
+			"components": [
+				"amplus (large)",
+				"facere (to make)"
+			],
+			"original_statement": "From Old French amplifier, from Latin amplificare 'to enlarge / extend / dilate', from amplus 'large' + facere 'to make'."
+		},
+		"concept": "The extension of ego (極小の「溜息（微弱信号）」を。外部の「力（外部電力）」を借りることで。大地を揺るがす「雷鳴」へと「拡大(amp-)」させる。自らの「弱さ」を「影響力」へと変換し。沈黙の檻から「自分」を解き放つ。峻烈なる「覚醒の演出」)",
+		"thinking": "「アンプリファイ（増幅）」。あなたの「小さな勇気」。それは、最初はあなた一人の心の中で鳴っているだけかもしれません。でも。それに「確信（パワー）」を与え、世界に向かって「増幅」させることを、恐れないでください。 amplify。あなたの声が大きくなれば。それだけ、多くの「共鳴者（フォロワー）」を呼ぶことができます。あなたの「熱」を、冷めたままにしてはいけない。それは、もっと遠くへ届くはずなのです。",
+		"part_of_speech": "verb",
+		"aftertaste": "耳を聾（ろう）するほどの、圧倒的な「音の質量」。自分の「存在」が、物理的な「波（ウェーブ）」となって、空間の隅々まで行き渡っていく。あの。怖ろしいほどの「生存」の確信。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ambhi-",
+					"meaning": "on both sides / around (related to amplus)"
+				}
+			],
+			"points": [
+				"Ambiance（雰囲気）や Ambidextrous（両利きの）と同じ root。増幅とは、自分の境界線を『広げる（ambhi-）』こと。アンプリファイは、あなたが世界というキャンバスの上に、自分の色をぶちまける行為なのです。"
+			]
+		}
 	}
 ];
