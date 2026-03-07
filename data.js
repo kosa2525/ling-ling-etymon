@@ -214913,5 +214913,60 @@ const WORDS = [
 				"Vibrate（振動する）や Whip（鞭を振る）と同根の、躍動的な熱量を感じさせる言葉です。"
 			]
 		}
+	},
+	{
+		"id": "tenacity",
+		"word": "Tenacity",
+		"meaning": "粘り強さ、固執、頑固さ、不屈の精神",
+		"era": "Early 17th Century",
+		"etymology": {
+			"components": [
+				"tenere (to hold)"
+			],
+			"original_statement": "From Latin tenax 'holding fast', from tenere 'to hold / keep / possess'."
+		},
+		"concept": "Holding fast (一度掴（つか）んだ「真理」や「希望」を、何があっても決して「手離さない(ten-)」強さ。時間が経てば経つほど、その「把握力（グリップ）」が増していく、魂の執着)",
+		"thinking": "「不屈」のルーツは「保持すること（テネレ）」にあります。それは、強い力で打ち負かすことではなく、ただ、世界（ワールド）があなたを振り落とそうとしても、その「縁（エッジ）」を掴んで離さない、静かな「意地」。あなたが自分の夢に「テナシティ（粘り強さ）」を持って向き合うとき、その手はいつの間にか、その夢そのものの一部へと変容し、分かちがたい「一つの実在」となるのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "岩の割れ目に食い込む木の根。激しい嵐が吹き抜けても、指の形を崩さず、その一線（ライン）を防衛し続ける、あの峻烈な沈黙。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ten-",
+					"meaning": "to stretch / hold"
+				}
+			],
+			"points": [
+				"Tennis（テニス／ラケットで受ける時のかけ声）や Content（中身／保持されたもの）とルーツを共有します。"
+			]
+		}
+	},
+	{
+		"id": "pertinacious",
+		"word": "Pertinacious",
+		"meaning": "不屈の、しつこい、凝り固まった",
+		"era": "Early 17th Century",
+		"etymology": {
+			"components": [
+				"per- (thoroughly)",
+				"tenere (to hold)"
+			],
+			"original_statement": "From Latin pertinax 'very tenacious / steadfast', from per- 'thoroughly' + tenere 'to hold'."
+		},
+		"concept": "Holding thoroughly (単なる粘り強さ（テナシティ）を超えて、その事象を「徹底的に(per-)」「掴み続ける(ten-)」という、狂気にも似た「執着」と「誠実」の統合)",
+		"thinking": "「テナシティ（粘り）」に「パー（徹底）」が加わると、この言葉になります。それは、他者の助言や時間の経過さえも無視して、ただ一点の「自明の理」を保持し続ける姿。時には「しつこい（アノイング）」と疎（うと）まれても、その揺るぎない「ホールド」こそが、最後に世界のルールを書き換える。パーティネイシャス（不屈）であることは、宇宙の「重力」に対抗する、人間の最大の挑戦なのです。",
+		"part_of_speech": "adjective",
+		"aftertaste": "最後までリングに残り続けるボクサー。あるいは、誰もが去った教室で、ただ一人の答えを導き出そうとする、あの孤独で聖なる「粘り」の温度。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ten-",
+					"meaning": "to stretch / hold"
+				}
+			],
+			"points": [
+				"Pertinent（適切な／そこに向かって保持された）とルーツを共有しますが、その『強度』において一線を画します。"
+			]
+		}
 	}
 ];
