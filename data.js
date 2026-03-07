@@ -227464,5 +227464,471 @@ const WORDS = [
 				"Magic（魔法）や Might（力）と同じ root。メカニズムとは。本来なら不可能なことを、知恵の力（マナ）を使って『可能にする（may）』ための、物理的な魔法使いの杖なのです。"
 			]
 		}
+	},
+	{
+		"id": "polyphony",
+		"word": "Polyphony",
+		"meaning": "ポリフォニー/多声部、(重なり合う)意志、独立した旋律の調和、多義的な世界、重層的な真実",
+		"era": "Late 19th Century (musical sense)",
+		"etymology": {
+			"components": [
+				"poly- (many)",
+				"phone (voice / sound)"
+			],
+			"original_statement": "From Greek polyphonia, from poly- 'many' + phone 'voice / sound'."
+		},
+		"concept": "The layered truths (たった一つの「主旋律（絶対真理）」が他を支配するのではなく。複数の「独立した声(poly-phone)」が、それぞれの「正義」を歌いながら。「全体」として一つの「美（社会）」を構築する、峻烈なる「多様性の均衡」)",
+		"thinking": "「ポリフォニー（多声）」。あなたは。自分の意見を他人に押し付けたり、逆に他人の意見に完全に染まろうとしたりしていませんか。 polyphony。それは。あなたと私が、全く違うメロディを歌いながら。それでも同じ「時間（リズム）」を共有し、新しい「響き」を産み出す、対等な関係のこと。一人の叫び（モノフォニー）ではなく。重なり合う声の「厚み」の中にこそ、本当の「豊かさ」があるのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "耳元で、左右から別々の「言葉」がささやかれ。それが脳内で「カチリ」と一つの「文脈」に繋がるような。あの。快感的で、どこか「不気味」なほどの、重層的な充足感。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "bha-",
+					"meaning": "to speak / tell / shine (from phone)"
+				}
+			],
+			"points": [
+				"Prophet（予言者）や Symphony（響き合う）と同じ root。ポリフォニーとは。多くの『神の声（bha-）』が同時に響き合う、宇宙の縮図なのです。話すことは、光を放つことなのです。"
+			]
+		}
+	},
+	{
+		"id": "counterpoint",
+		"word": "Counterpoint",
+		"meaning": "対位法、(矛盾する)美、反発し合う旋律の対話、対等な関係、論理的な調和",
+		"era": "Late 15th Century",
+		"etymology": {
+			"components": [
+				"counter (against)",
+				"punctum (point)"
+			],
+			"original_statement": "From French contrepoint, from Medieval Latin contrapunctum 'point against point' (referring to notes placed against notes)."
+		},
+		"concept": "The balanced friction (「主」と「従」ではなく。「点に対して、点(point against point)」を置くことで。互いに「反発」し、「矛盾」しながらも。その「緊張感」によって「構造」を支え合う、峻烈なる「知的な対峙」。美しき「闘争」の記述)",
+		"thinking": "「カウンターポイント（対位法）」。あなたの人生における「ライバル」や「逆境」。それは。あなたを否定するものではなく。あなたの人生という旋律に、「深み」と「緊張（美）」を与えるための、もう一つの「旋律（カウンターパーツ）」です。 counterpoint。相手が「上」へ行けば、自分は「下」から支える。相手が「右」なら、自分は「左」へ。この、美しき「鏡合わせの闘争」を、楽しんでください。対立こそが、和声を創るのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "二つのメロディが、ぶつかりそうで「ぶつからない」絶妙な距離感。そこにある、張り詰めた「緊張」と。一瞬だけ「和解」した瞬間の。あの。脳がしびれるような「カタルシス」の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "peuk-",
+					"meaning": "to prick / sting (from punctum)"
+				}
+			],
+			"points": [
+				"Pointer（針）と同じ root。対位法とは。お互いの『急所（ポイント）』を突き合うことで。相手の存在を認め、高め合う、音楽的なフェンシングなのです。"
+			]
+		}
+	},
+	{
+		"id": "fugue",
+		"word": "Fugue",
+		"meaning": "フーガ/追走曲、(逃げ去る)主題、記憶の追いかけっこ、数学的な迷宮、永劫回帰の幾何学",
+		"era": "Late 16th Century",
+		"etymology": {
+			"components": [
+				"fuga (flight / fleeing)"
+			],
+			"original_statement": "From French fugue, from Italian fuga 'flight / fleeing', from Latin fuga."
+		},
+		"concept": "The chasing memory (最初に提示された「真実（テーマ）」が。次から次へと「模倣」され、追いかけてくるが。決して「追いつく」ことはなく、ただ「空間」を「永遠の運動」で埋め尽くしていく。逃げ去りながら「存在」を増徴させる、峻烈なる「忘却への抗い」)",
+		"thinking": "「フーガ（追走曲）」。あなたは。自分の過去（経験）から「逃げ出したい」と思っていませんか。でも。 fugue の語源は「逃走」。あなたが逃げれば逃げるほど。あなたの「過去（テーマ）」は、新しい形、新しい音色で、あなたを追いかけてきます。そして、いつしかそれは。あなたの人生全体を包み込む、壮大な「大伽藍（メカニズム）」に変わる。逃げることは、物語を「織り成す」ことなのです。 ",
+		"part_of_speech": "noun",
+		"aftertaste": "迷路（ラビリンス）を全力で走っているような、息苦（いきぐる）しさと「加速感」。でも。どこの角を曲がっても「自分と同じ影」に出会う。あの。怖ろしいほどの「運命の連鎖」の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "bheug-",
+					"meaning": "to flee"
+				}
+			],
+			"points": [
+				"Refuge（避難所）や Fugitive（逃亡者）と同じ root。フーガとは。真理が『消失』しないように。常に自分を『追いかけ続ける』、終わりのない自己観察の律動なのです。"
+			]
+		}
+	},
+	{
+		"id": "syncopation",
+		"word": "Syncopation",
+		"meaning": "シンコペーション、(裏切られる)期待、リズムの跳躍、重心の移動、予定調和の破壊",
+		"era": "Late 16th Century",
+		"etymology": {
+			"components": [
+				"syn- (together)",
+				"koptein (to cut / strike)"
+			],
+			"original_statement": "From Late Latin syncopare 'to shorten by omitting letters', from Greek synkope 'a cutting short', from syn- 'together' + koptein 'to cut'."
+		},
+		"concept": "The erratic pulse (「規則正しい拍動」を「切断(kop-)」し。あえて「弱い部分」に「アクセント（打撃）」を移すこと。予想される「未来（リズム）」を「裏切る」ことで。「現在」という瞬間を「跳躍（スリリング）」させる、峻烈なる「不意打ち」の記述)",
+		"thinking": "「シンコペーション」。あなたの人生。たまには、予定を「ぶち壊し（カットし）」てみてはどうですか。 syncopation。みんなが「次に来る」と思っている場所で、あえて動かない。逆に、誰もが油断している場所で、全力のアクションを起こす。その「ズレ」が。あなたの人生を、単なる「作業」から、魂を揺さぶる「ジャズ（芸術）」へと変えてくれるのです。予定調和を笑い飛ばしてください。",
+		"part_of_speech": "noun",
+		"aftertaste": "平坦な道（リズム）を歩いているつもりが。突然、足元を「掬（すく）われた」ような、あの。一瞬の「浮遊感」と、その直後にくる「快感」の味。心臓が「ドクッ」と一回多く打つような、瑞々（みずみず）しい「興奮」。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kau-",
+					"meaning": "to hew / strike / beat"
+				}
+			],
+			"points": [
+				"Comma（コンマ）や Chop（切る）と同じ root。シンコペーションとは。時間の流れに『斧（axe）』を叩き込み、自分だけの『裂け目』を作ること。それは。運命という名の巨大な慣性に抗（あらが）う、最小の抵抗なのです。"
+			]
+		}
+	},
+	{
+		"id": "canon",
+		"word": "Canon",
+		"meaning": "カノン、(重なり合う)時間、追随する真実、模倣による永遠、完璧なエコー",
+		"era": "Late 16th Century (musical sense)",
+		"etymology": {
+			"components": [
+				"kanon (measuring line / rule / standard)"
+			],
+			"original_statement": "From Latin canon 'church rule', from Greek kanon 'measuring line / rule / standard'. Originally meant 'reed'."
+		},
+		"concept": "The disciplined echo (一人が発した「音（規範）」を。他の者が、全く「同じ形(rule-)」で、少しだけ「遅れて」繰り返す。それは。時間の「ズレ」を「超越」した先に現れる、数学的な「永遠の美」。厳格なる「服従」から生まれる、究極の「自由」)",
+		"thinking": "「カノン」。それは。あなたが「師（メンター）」や「先達」の足跡を、一歩ずつ忠実に辿（たど）ること。 canon。最初は「真似（模倣）」に過ぎないかもしれません。でも。その「型（ルール）」を完璧に守り抜いたとき。あなたの旋律は、先人の旋律と美しく溶け合い（カノンを形成し）。時を超えた、壮大な「真理」の一部になる。真似ぶことは、学ぶこと。そして、繋がることなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "自分が言葉を発したあと。すぐ背後から、全く「同じ言葉」が、違う高さで聞こえてくる。その、追いかけられるような「不安」と。でも決して「一人ではない」という、峻烈なまでの「安堵」の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kana-",
+					"meaning": "reed / cane"
+				}
+			],
+			"points": [
+				"Cane（杖／葦）や Canal（運河）と同じ root。カノンとは。一本の『葦（リード）』のように真っ直ぐで、曲げることのできない『基準』。それは。揺れ動く感情を、永遠の秩序へと繋ぎ止めるための、神聖な定規なのです。"
+			]
+		}
+	},
+	{
+		"id": "arpeggio",
+		"word": "Arpeggio",
+		"meaning": "アルペジオ、(解体された)和音、バラバラの真理、一粒ずつの輝き、時間の分散",
+		"era": "Mid-18th Century",
+		"etymology": {
+			"components": [
+				"arpa (harp)"
+			],
+			"original_statement": "From Italian arpeggio, from arpeggiare 'to play the harp', from arpa 'harp'."
+		},
+		"concept": "The broken unity (一気に鳴らせば一つの「固まり」として消えてしまう「和音（答え）」を。あえて「一粒ずつ」バラバラに「解体」して、時間の線の上に「並べ直す」こと。理解するために「分解」する、峻烈なる「解析」の美学)",
+		"thinking": "「アルペジオ」。あなたは。大きな「真実」を、一度に飲み込もうとしていませんか。それでは、喉（のど）が詰まってしまいます。 arpeggio。目の前にある複雑な問題を、一粒ずつの「音（要素）」に分解し。一つずつ、丁寧に、時間の流れの中で味わっていくこと。バラバラになった音の「残像」が。あなたの頭の中で、再び「一つの美しい答え（ハーモニー）」になったとき。あなたは本当の「理解」を手にするのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "泉（いずみ）から水が「ポロポロ」と溢（あふ）れ出すような、涼やかな響き。そこにある。すべてが「透明」に分解され、整理されているという、冷徹なまでの「清涼感」。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "unknown",
+					"meaning": "Possibly of Germanic origin (from harp)"
+				}
+			],
+			"points": [
+				"Harp（ハープ）と同じ root。和音を『崩す』ことは、世界という織物を一度『解く』こと。アルペジオは、完成された美を拒絶し、その『生成過程』そのものを美とする、動的な哲学なのです。"
+			]
+		}
+	},
+	{
+		"id": "modulation",
+		"word": "Modulation",
+		"meaning": "転調、(変容する)視座、世界の色彩の変化、次元の移行、新しい風の予感",
+		"era": "Late 14th Century (general measure), 17th Century (musical)",
+		"etymology": {
+			"components": [
+				"modus (measure / limit)"
+			],
+			"original_statement": "From Latin modulatio 'a measuring / rhythmic measure', from modulari 'to regulate / measure / play', from modus 'measure'."
+		},
+		"concept": "The shift of reality (今まで慣れ親しんでいた「世界の調律（トナリティ）」を、ある一点の「和音（ピボット）」を境に、劇的に「反転」させること。景色を「変える」のではなく、「色の見え方（視座）」そのものを「変革」する、峻烈なる「次元の移行」)",
+		"thinking": "「モジュレーション（転調）」。あなたの人生が「行き詰まった（袋小路に入った）」と感じたら。脱出する道を探すのではなく。あなた自身の「キー（感情の基盤）」を変えてみてください。 modulation。昨日までは「悲劇」に見えた景色が。一瞬の「転調」によって、「希望の序曲」に変わるかもしれない。転調。それは。あなたが「同じ世界（場所）」にいながらにして、「全く違う宇宙」を生きるための、最高に「クリエイティブ」な武器なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "突然、空気が「パッ」と軽くなり。あるいは「ズシリ」と重くなる。あの。物理的な「次元の壁」を越えた瞬間の、微かな「めまい」と。新しい世界への、瑞々（みずみず）しい「覚醒」の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "med-",
+					"meaning": "to take appropriate measures"
+				}
+			],
+			"points": [
+				"Modern（現代の）や Mode（方法）と同じ root。モジュレーションとは。固定された自分を『今』の尺度（メジャー）へと合わせ直すこと。それは。永遠に『現代的（モダン）』であり続けるための、知性の変奏曲なのです。"
+			]
+		}
+	},
+	{
+		"id": "staccato",
+		"word": "Staccato",
+		"meaning": "スタッカート、(断ち切られた)言葉、飛沫としての音、鋭利な一点、沈黙による強調",
+		"era": "Early 18th Century",
+		"etymology": {
+			"components": [
+				"staccare (to detach)"
+			],
+			"original_statement": "From Italian staccato, past participle of staccare 'to detach / separate', from distaccare 'to detach'."
+		},
+		"concept": "The isolated strike (音と音の「繋がり（妥協）」を「拒絶」し。一音一音を「点(point)」として「鋭く切り離し(detach-)」て提示すること。音そのものではなく。音のあとの「沈黙（刃跡）」によって、存在を際立たせる、峻烈なる「潔さ」の記述)",
+		"thinking": "「スタッカート」。あなたの「話し方」や「決断」。それは、ダラダラと繋がった「長い言い訳」になっていませんか。 staccato。言いたいことを、短く、鋭く、一言で言い切ること。そして。そのあとに「長い沈黙（間）」を置くこと。その「断ち切る（デタッチさせる）」勇気が。あなたの言葉に、誰も逆らえない「権威」と、彫刻のような「美しさ」を与えるのです。",
+		"part_of_speech": "adjective / adverb",
+		"aftertaste": "乾いた砂の上に、水滴が「パチッ、パチッ」と落ちるような。瑞々（みずみず）しくて、しかし非情なまでの「明快さ」。あとに引かない、あの。峻烈なる「覚悟」の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "steg-",
+					"meaning": "to stick / prick / cover"
+				}
+			],
+			"points": [
+				"Stick（棒）や Stake（賭け金／杭）と同じ root。スタッカートとは。世界という柔らかい肉体に、自分の意志の『杭（ステイク）』を一本ずつ、深く打ち込んでいく行為。それは、妥協のない実存の表現なのです。"
+			]
+		}
+	},
+	{
+		"id": "legato",
+		"word": "Legato",
+		"meaning": "レガート、(たゆまぬ)接続、境界なき流れ、溶け合う魂、永遠の呼吸",
+		"era": "Mid-18th Century",
+		"etymology": {
+			"components": [
+				"legare (to bind)"
+			],
+			"original_statement": "From Italian legato, past participle of legare 'to bind / tie', from Latin ligare."
+		},
+		"concept": "The seamless unity (音と音の間の「隙間」を許さず。自らの「息（命）」を繋ぎ続けることで。複数の「実在」を、たった一つの「巨大な意思の流れ(flow)」へと「結びつける(bind-)」。境界線を「無効化」する、峻烈なる「愛の抱擁」)",
+		"thinking": "「レガート」。それは。あなたが、誰かと「一つになりたい」と願うときの。あるいは、自分のバラバラな「昨日」と「今日」を繋ぎ合わせようとするときの。慈悲深い「絆（リガチャー）」。 legato。沈黙を許さない、途切れることのない「優しさ」。あなたが「滑らかに」振る舞うとき。世界は、あなたを「異物」としてではなく、自分自身の「一部」として受け入れ、共に流れ始めるのです。",
+		"part_of_speech": "adjective / adverb",
+		"aftertaste": "氷の上を滑る「刃」のような、摩擦（フリクション）のない流動。すべてが「一つに溶け合っていく」ような、怖ろしいほどに瑞々（みずみず）しい「全一感」。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "leig-",
+					"meaning": "to bind / tie"
+				}
+			],
+			"points": [
+				"Religion（宗教）や Alliance（同盟）と同じ root。レガートとは。バラバラな個人（孤独）を。音楽という名の『目に見えない糸』で力ずくで結びつける（レゲ）、神聖な契約の形なのです。"
+			]
+		}
+	},
+	{
+		"id": "pizzicato",
+		"word": "Pizzicato",
+		"meaning": "ピッツィカート、(弾ける)情熱、指先の衝撃、乾いた告白、一瞬の覚醒",
+		"era": "Mid-17th Century",
+		"etymology": {
+			"components": [
+				"pizzicare (to pluck / twitch / pinch)"
+			],
+			"original_statement": "From Italian pizzicato, past participle of pizzicare 'to pluck / pinch'."
+		},
+		"concept": "The percussion of strings (「弓（持続する論理）」を捨て。「指先（直接的な肉体）」で弦を「つまみ(pinch)」、「弾（はじ）く」こと。響きを「溜（た）める」ことを拒絶し。「一瞬」で「すべて」を放り出す、峻烈なる「潔き衝撃」。隠し事のない「生の脈動」)",
+		"thinking": "「ピッツィカート」。あなたの「言葉」。それは。いつも「弓（建前）」を使って、綺麗に鳴らそうとしていませんか。たまには。指先（本音）で直接、魂の弦を「ピンッ」と弾いてみてください。 pizzicato。それは、不器用かもしれないけれど。生々しくて、嘘のない、あなたの「内側の鼓動」そのものです。飾らない、弾けるような「真実」を、世界に叩きつけてください。",
+		"part_of_speech": "noun / adjective / adverb",
+		"aftertaste": "指先に残る、弦の「鋭い振動」の痛み。そして。空間に「ポーン」と放り出された、瑞々しくて「丸い音の粒」。あの。峻烈なる「はかなさ」と。心地よい「痛快さ」の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "unknown",
+					"meaning": "Possibly imitative (onomatopoeic)"
+				}
+			],
+			"points": [
+				"Pitch（ピッチ）とも響き合う。ピッツィカートとは。世界をつまみ、その『反応』を愉しむ、神の悪戯（いたずら）のような遊び。それは。重苦しい日常を、一瞬で『音楽』へと変えてしまう、魔法の指先なのです。"
+			]
+		}
+	},
+	{
+		"id": "metronome",
+		"word": "Metronome",
+		"meaning": "メトロノーム、(冷徹な)審判、逃れられぬ拍動、絶対時間の檻、孤独な規律",
+		"era": "Early 19th Century",
+		"etymology": {
+			"components": [
+				"metron (measure)",
+				"nomos (law)"
+			],
+			"original_statement": "From Greek metron 'measure' + nomos 'law'."
+		},
+		"concept": "The legalized time (「感情（揺らぎ）」を一切排除し。「機械的な精度(law-measure)」によって。人間を「絶対的な周期」の中に「監禁」すること。それは。あらゆる「甘え」を断ち切り、自らを「極北の規律」へと追い込む、峻烈なる「自己鍛錬」の装置)",
+		"thinking": "「メトロノーム」。成功したいなら。自分の中に、この「冷徹なメトロノーム」を持ってください。 metronome。あなたの「やる気」に関係なく。一秒一秒、やるべきことを、ただ淡々と「刻み続ける（実行し続ける）」こと。その「不変のリズム（規律）」こそが。あなたの「才能」という名の荒れ馬を調教し。世界を納得させる「プロフェッショナルの輝き」を産み出すのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "逃げ場のない「コツ、コツ」という冷たい木の音。そこにある。一秒の遅れも許さないという、究極の「厳格」への恐怖と。それに服従した瞬間の。あの。脳が「真っ白」になるような静寂。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "nem-",
+					"meaning": "to assign / allot (from nomos)"
+				}
+			],
+			"points": [
+				"Nomad（遊牧民／分け与えられた地を歩く者）や Number（数字）と同じ root。メトロノームとは。宇宙の広大な混沌に、人間の『尺度（メジャー）』という名の『法律（ノモス）』を叩き込み。野生を秩序へと飼い慣らすための神聖な杖なのです。"
+			]
+		}
+	},
+	{
+		"id": "score",
+		"word": "Score",
+		"meaning": "スコア/楽譜、(予言された)宇宙、沈黙の設計図、可能性の記述、再現される運命",
+		"era": "Late 14th Century (meaning 'twenty'), 19th Century (musical)",
+		"etymology": {
+			"components": [
+				"scor (notch / scratch / account)"
+			],
+			"original_statement": "From Old Norse skor 'notch / tally / twenty'. Originally a notch made on a stick for counting."
+		},
+		"concept": "The inscribed destiny (「空中に消えていく音」を、紙の上に「記号（傷跡）」として「刻みつけ(score-)」。後世の他者が、それを「再体験」できるように設計された、峻烈なる「記憶の保存」。沈黙の中に眠る、未来の「咆哮」)",
+		"thinking": "「スコア（楽譜）」。あなたの「人生」は、どんなスコアとして書き残されていますか。 score。それは、単なる記録ではありません。「あなたが、明日何をすべきか」を予言する設計図です。もし、今のスコア（運命）が気に入らないなら。自分の手で、その「音符（行動）」を書き直せばいい。紙は、まだ真っ白な部分がたくさん残っています。自分だけの「交響曲（シンフォニー）」を、今、ここに刻んでください。",
+		"part_of_speech": "noun / verb",
+		"aftertaste": "古い紙と、インクの「乾いた匂い」。そこに並ぶ「黒い点（音符）」を見つめているだけで。頭の中に、誰もいないはずの「大合奏」が響き出す。あの。不気味なほどの「再現性」と、時間の超越。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sker-",
+					"meaning": "to cut"
+				}
+			],
+			"points": [
+				"Short（短い）や Shear（刈り取る）と同じ root。スコアとは。流れる時間を『切断（スカー）』し。その断面を紙に押し当てて作った、魂の魚拓のようなもの。刻むことは、永遠を手に入れることなのです。"
+			]
+		}
+	},
+	{
+		"id": "solo",
+		"word": "Solo",
+		"meaning": "ソロ/独奏、(研ぎ澄まされた)孤独、全宇宙との対決、剥き出しの自己、静寂の支配者",
+		"era": "Early 18th Century",
+		"etymology": {
+			"components": [
+				"solus (alone)"
+			],
+			"original_statement": "From Italian solo, from Latin solus 'alone / single / sole'."
+		},
+		"concept": "The absolute individual (「他者の助け（伴奏）」をすべて拒否し。たった一人の「声（意志）」で、広大な「沈黙（沈黙）」と「対峙」すること。それは。自分の「弱さ」も「醜さ」もすべてさらけ出す、峻烈なる「実存の賭け」)",
+		"thinking": "「ソロ（独奏）」。誰かと一緒にいるのは楽しいですが。たまには、完全に「一人（ソロ）」になって、自分を鳴らしてみてください。 solo。誰も助けてくれない、誰も修正してくれない、冷酷な「一点（スポットライト）」の下で。自分の「本当の声」がどんな響きをしているのか、耳を澄ます。その「孤独の極北」を経験した者だけが。他者と本当に「共に奏でる（アンサンブル）」資格を得るのです。",
+		"part_of_speech": "noun / adjective / adverb",
+		"aftertaste": "周囲の声が「フッ」と消え。自分一人の「足音」だけが、冷たいホールに響く。その、逃げ出したくなるような「孤独感」と。同時に味わう、全宇宙を「手中に収めた」かのような。あの。峻烈なる「支配」。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "selo-",
+					"meaning": "self / oneself"
+				}
+			],
+			"points": [
+				"Self（自分）と同じ root。ソロとは。自分という多重人格的なカオスの中から。たった一つの『純粋な自己（セルフ）』を摘出し。それを宇宙に向けて放つ、峻烈なる『自己抽出』の儀式なのです。"
+			]
+		}
+	},
+	{
+		"id": "ensemble",
+		"word": "Ensemble",
+		"meaning": "アンサンブル、(溶け合う)個、他者との共振、調和という名の奇跡、集団の叡智",
+		"era": "Mid-15th Century (general sense), 18th Century (musical)",
+		"etymology": {
+			"components": [
+				"in- (in)",
+				"simul (together / at the same time)"
+			],
+			"original_statement": "From French ensemble, from Late Latin insimul 'at the same time', from in- 'in' + simul 'together'."
+		},
+		"concept": "The simultaneous existence (「自己の主張（エゴ）」を。他者の「響き」へと「同調(simulate-)」させ。「自分を超えた。より大きな全体」の一部へと「変容」させること。バラバラな「現在」たちが、たった一つの「今（アンサンブル）」へと結晶化する、峻烈なる「共時の美学」)",
+		"thinking": "「アンサンブル」。あなたが。誰かと「何かを成し遂げたい」なら。相手を倒すのではなく、相手と「同じ波長（タイミング）」になってください。 ensemble。一人の完璧な音よりも。少し不器用な二人が、「寄り添おう」として出した響きの方が、世界を優しく震わせることがあります。アンサンブル。それは。孤独な魂たちが、一時的に「一つの命（シマル）」になるための、最も美しい魔法なのです。",
+		"part_of_speech": "noun / adverb",
+		"aftertaste": "自分から出た音が、隣の誰かの音と「溶け合って」。もはやどっちがどっちか分からなくなる。あの。個の境界が「消失」する、怖ろしいほどに瑞々（みずみず）しい「法悦（エクスタシー）」。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sem-",
+					"meaning": "one / as one / together (from simul)"
+				}
+			],
+			"points": [
+				"Same（同じ）や Simple（単純な／一重の）と同じ root。アンサンブルとは。バラバラな『多（メニー）』を。たった一つの『一（ワン）』へと、暴力的に、しかし愛を持って統合する、知性の奇跡なのです。"
+			]
+		}
+	},
+	{
+		"id": "refrain",
+		"word": "Refrain",
+		"meaning": "リフレイン/折り返し、(繰り返される)祈り、記憶のこだま、回帰する感情、確認の儀式",
+		"era": "Late 14th Century",
+		"etymology": {
+			"components": [
+				"re- (back / again)",
+				"frangere (to break)"
+			],
+			"original_statement": "From Old French refrain, originally 'to restrain / break off', from Latin refringere 'to break off / break back'."
+		},
+		"concept": "The recursive anchor (「未知の物語（変化）」の合間に。あえて「聞き慣れた旋律（過去）」を「差し挟み(break-in)」、何度も「回帰(re-)」させること。それは。変化への「不安」を「安心」へと変え。自分という存在を「一点に繋ぎ止める」、峻烈なる「精神の錨（アンカー）」)",
+		"thinking": "「リフレイン」。あなたの人生。絶えず変化し、流れていくように見えますが。その深層には、いつも繰り返される「リフレイン（大切なフレーズ）」があるはずです。 refrain。それは、あなたが何度でも「帰る場所」。どんなに遠くへ冒険しても。最後にはその「馴染みの響き（信念）」に戻ってくる。その「再確認（リフレイン）」を繰り返すことで。あなたの物語は、迷いなく「永遠」へと繋がっていくのです。",
+		"part_of_speech": "noun / verb",
+		"aftertaste": "「あ、またここに来た」という。故郷に帰ったような、深い「安堵」。同じ言葉を繰り返すたびに、その意味が「深く、重く」なっていく。あの。精神の「熟成（エイジング）」の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "bhreg-",
+					"meaning": "to break (from frangere)"
+				}
+			],
+			"points": [
+				"Fracture（骨折）や Fragment（断片）と同じ root。リフレインとは。時間の流れをあえて『断ち切る（ブレイク）』ことで。流される自分を『せき止め』、実存を反芻（はんすう）するための、知性の儀式なのです。"
+			]
+		}
+	},
+	{
+		"id": "coda",
+		"word": "Coda",
+		"meaning": "コーダ/終結部、(完璧な)終わり、物語の着地点、すべてを見通す高台、永遠への入り口",
+		"era": "Mid-18th Century",
+		"etymology": {
+			"components": [
+				"cauda (tail)"
+			],
+			"original_statement": "From Italian coda, from Latin cauda 'tail'."
+		},
+		"concept": "The transcendental tail (「物語（本体）」が終了した「後」に。その「余韻」を引き連れながら。「全体」を高い場所から「総括(summary)」する、付け加えられた「尾(tail)」。それは。今までの「苦悩」をすべて「意味のある響き」へと浄化する、峻烈なる「完成」の儀式)",
+		"thinking": "「コーダ（終結部）」。あなたの人生の「一章」が終わるとき。ただ黙って立ち去るのではなく。この「コーダ（最後の一節）」を、美しく付け加えてください。 coda。それは。これまでの道のりを振り返り。「すべては、この瞬間のためにあったのだ」と、自分自身を納得させるための言葉。終わり方を「美しく」すること。それが。あなたの物語を、ただの「出来事」から、不滅の「芸術」へと昇華させるのです。 ",
+		"part_of_speech": "noun",
+		"aftertaste": "すべての楽器が「ジャン！」と鳴り止んだあとの、長い、長い「残響（サイレンス）」。そこにある。もう何も付け足す必要がない、という。究極の「完全燃焼」の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "unknown",
+					"meaning": "Latin cauda (tail)"
+				}
+			],
+			"points": [
+				"Coward（臆病者／尾を巻く者）とも響き合う。コーダとは。尾（テール）を巻いて逃げるのではなく。自分の人生という名の巨大な尾を、誇り高く『振り切る』こと。最後の一振りに、全実存を込めるのです。"
+			]
+		}
+	},
+	{
+		"id": "interlude",
+		"word": "Interlude",
+		"meaning": "間奏曲、(一時の)休息、場面転換の余白、深呼吸の時間、嵐の前の静けさ",
+		"era": "Late 15th Century",
+		"etymology": {
+			"components": [
+				"inter- (between)",
+				"ludus (play / game)"
+			],
+			"original_statement": "From Medieval Latin interludium, from inter- 'between' + ludus 'play'."
+		},
+		"concept": "The playful gap (「深刻な事件」と「次の事件」の「間」に。あえて「目的のない遊戯(ludus-)」としての時間を「差し挟む」こと。それは。「意味」の重圧から自分を解放し。「無（ニュートラル）」の状態へ戻るための、峻烈なる「呼吸の設計」)",
+		"thinking": "「インターリュード（間奏曲）」。あなたは。「常に何かしなければならない（意味がなければならない）」という焦燥感に、追いかけられていませんか。 interlude。物語を、一度止めてください。何もしないこと。ただ、景色を眺めること。その「意味のない時間（遊戯）」があるからこそ。あなたは。次の「本番（激動）」を、最高の「鮮度」で迎えることができる。余白こそが、あなたを「豊か」にするのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "それまでの「騒々しさ」が嘘のように消え。軽い「フルート」の音だけが鳴り響くような。あの。肩の荷が「スッ」と降りたような「解放感」と、微かな「午後のぬくもり」の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "leid-",
+					"meaning": "to play / joke (from ludus)"
+				}
+			],
+			"points": [
+				"Luden（遊ぶ）や Illusion（幻想）と同じ root。インターリュードとは。現実という名の『重力』から。一瞬だけ『冗談（ジョーク）』のように逃げ出し、自分を自由にするための、知的な亡命なのです。"
+			]
+		}
 	}
 ];
