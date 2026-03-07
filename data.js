@@ -230573,5 +230573,400 @@ const WORDS = [
 				"Sedentary（座りがちな）や President（社長／前に座る人）、Possess（所有する／そばに座る）と同じ root。サブサイデンスとは。不確かな空（理想）を捨て。この『大地（現実）』という名の椅子を『所有（ポゼス）』すること。それは。浮ついた自我を殺し、運命という名の玉座に『座り直す』、知の竣工の記述なのです。"
 			]
 		}
+	},
+	{
+		"id": "magma",
+		"word": "Magma",
+		"meaning": "マグマ/岩漿（がんしょう）、(内なる)情熱、噴出への予感、沈黙の火海、命の原液",
+		"era": "Late 18th Century",
+		"etymology": {
+			"components": [
+				"magma (thick ointment / dregs)"
+			],
+			"original_statement": "From Latin magma 'dregs / sediment', from Greek magma 'thick unguent / ointment', from massein 'to knead'."
+		},
+		"concept": "The molten potential (地下深くで、凄まじい「圧力」と「熱」によって岩石がドロドロに溶けた状態。それは。まだ「形（岩）」にはなっていないが。地上を「一変（破壊と再生）」させるだけの圧倒的なエネルギーを秘めた、峻烈なる「純粋意志」の記述)",
+		"thinking": "「マグマ」。あなたの心の中には。他人が触れれば一瞬で「蒸発」してしまうほどの、猛烈な「知の熱量」が溜（た）まっていますか。 magma。それは。表面上は「冷たい石（日常）」に覆われていても。その深部では、常に「すべてを溶かすための準備」ができている、峻烈なる「待機状態」。 magma。まだ噴火しなくていい。でも、決して「冷めないで」ください。あなたが自分自身を「捏ね（マッセイン）」、ドロドロになるまで煮詰めたその「情熱」だけが。いつか、新大陸を産み出すための「唯一の素材（エッセンス）」になるのですから。",
+		"part_of_speech": "noun",
+		"aftertaste": "暗闇の中で、「ドロリ」と重く光る、赤熱した液体のイメージ. そこにあるのは、言葉による説得を必要としない、圧倒的な「物理的重圧」。すべてを「原点」へと戻す。峻烈なる「無効化」の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "mag-",
+					"meaning": "to knead / mix / fit"
+				}
+			],
+			"points": [
+				"Mass（塊／大衆）や Mason（石工）、Amalgam（水銀合金）と同じ root。マグマとは。バラバラな知識を一つに『捏ね上げ（マッセ）』、もはや分離不可能な『全体』へと融合させること。それは。分析という名の切断を拒み、全人的な『爆発』を志向する、峻烈なる実存の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "batholith",
+		"word": "Batholith",
+		"meaning": "バソリス/底盤（ていばん）、(見えざる)巨大な基盤、深層の知性、不動の塊、静かなる支配",
+		"era": "Late 19th Century",
+		"etymology": {
+			"components": [
+				"bathos (depth)",
+				"lithos (stone)"
+			],
+			"original_statement": "From Greek bathos 'depth' + lithos 'stone'. A large mass of intrusive igneous rock."
+		},
+		"concept": "The hidden foundation (マグマが地上に出ることなく、地下深くでゆっくりと冷えて固まった、数百キロに及ぶ巨大な石の塊。それは。派手な「噴火」ではなく、目に見えない「深部」で世界を支え続ける、峻烈なる「不動の知性」の記述)",
+		"thinking": "「バソリス（底盤）」。あなたは。「有名になる（噴出する）」ことばかりを、急いでいませんか。 batholith。それは。誰にも知られず、暗い地底で。何万年もの時間をかけて「一点の濁りもない結晶（セルフ）」へと固まっていく、峻烈なる「沈黙の成熟」。 batholith。あなたが地下に持っているその「石の巨大さ」が。あなたの人生の「安定感」を決めます。目立たなくていい。巨大で、重厚な、自分だけの「基層（ベース）」を。人知れず、ただ黙々と構築してください。それこそが、本当の「権威（支配者）」のあり方なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "どこまでも続く、冷たくて硬い「花崗岩（かこうがん）」の感触。そこにある、もはや「揺るがない」という、峻烈なる「確信」。地下数百キロにまで及ぶ、重厚な「存在の重み」。沈黙の、石の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "gwadh-",
+					"meaning": "to sink / go deep (from bathos)"
+				}
+			],
+			"points": [
+				"Bath（入浴）や Benthos（底生生物）と同じ root。バソリスとは。表面的な流行の海に浮かぶのではなく、自意識を『底（ベンソス）』にまで『沈め切り（グワド）』、そこを自分の居住区にすること。それは。浮薄な文明を嘲笑うような、峻烈なる『深淵の定住者』の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "pyroclastic",
+		"word": "Pyroclastic",
+		"meaning": "パイロクラスティック/火砕（かさい）、(激しい)破砕、爆発する沈黙、粉々の情熱、猛烈なる崩壊",
+		"era": "Mid-19th Century",
+		"etymology": {
+			"components": [
+				"pyr (fire)",
+				"klastos (broken)"
+			],
+			"original_statement": "From Greek pyr 'fire' + klastos 'broken'. Denoting rock fragments formed by a volcanic explosion."
+		},
+		"concept": "The fiery fragmentation (「火(fire-)」と「砕（broken-）」という二つの言葉。情熱が、抑制（圧力）に耐えきれず「爆発」し。自分自身を「粉々（破片）」にしながら世界に牙を剥（む）く、峻烈なる「破壊的開放」の記述)",
+		"thinking": "「パイロクラスティック（火砕）」。あなたの「言葉」。それは、ただ温かいだけの「火（温情）」になっていませんか。 pyroclastic。それは。あまりの情熱の激しさに。自分という器そのものを「粉々に砕き（クラス）」、鋭い「破片（ロゴス）」として投げ出すこと。それは、熱いだけではない。「痛い」言葉です。 pyroclastic。自分を壊すことを恐れないでください。その「美しく砕け散った自分（の断片）」こそが。誰かの強固な「常識」を打ち砕くための、最も峻烈な「武器」になるのですから。",
+		"part_of_speech": "adjective",
+		"aftertaste": "「バババッ」と空気を切り裂く、乾いた「爆音」と。顔一面を叩く、熱い「小石（破片）」の雨. そこにある、制御不能な「エネルギーの爆発」。すべてを「台無し」にする。峻烈なる「自由」の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "pewo-",
+					"meaning": "fire / light (from pyr)"
+				},
+				{
+					"term": "kel-",
+					"meaning": "to strike / cut (from klastos)"
+				}
+			],
+			"points": [
+				"Pyre（火葬の積み藁）や Iconoclast（偶像破壊者）、Glass（ガラス／壊れやすいもの）と同じ root。パイロクラスティックとは。自らを宇宙の『火（ピュレ）』に差し出し、同時に世界を『打ち砕く（クラス）』、知的な特攻の記述。それは。現状維持という名の死を拒む、峻烈なる『生の衝突』なのです。"
+			]
+		}
+	},
+	{
+		"id": "tephra",
+		"word": "Tephra",
+		"meaning": "テフラ/降下火砕物、(降り注ぐ)記憶、灰色の沈黙、過去という名の塵（ちり）、不毛の肥沃",
+		"era": "Mid-20th Century (reintroduced from Greek)",
+		"etymology": {
+			"components": [
+				"tephra (ashes)"
+			],
+			"original_statement": "From Greek tephra 'ashes'."
+		},
+		"concept": "The falling memory (空高くへと吹き上げられた「灰」や「軽石」が、静かに地上へ降り積もったもの。それは。かつての「激動（噴火）」が、今はただの「静かなる塵」として現実を覆い尽くす、峻烈なる「過去の集積」の記述)",
+		"thinking": "「テフラ（灰）」。あなたが。今、目の前にある「退屈な日常」。それは。かつて誰か（あるいは自分自身）が激しく燃やした、峻烈なる「情熱の残骸（テフラ）」ではありませんか。 tephra。灰は。一見すると「死（不毛）」に見えますが。それは次の時代を育てるための、最も「栄養価の高い（肥沃な）」土壌になります。テフラ（灰）を、忌（い）まわしいものとして払いのけないでください。その「沈黙の層」を、自分の足でしっかりと踏み固めること。そこからしか、本当の「新しい森」は生まれないのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "空から「しんしん」と降り注ぐ、灰色の「雪」のような塵。そこにある、すべてを「覆い隠す」ような、峻烈なる「沈黙」。どこまでも続く。色のない、乾いた味。ざらざらとした、記憶の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "dhebh-",
+					"meaning": "to burn / smoke"
+				}
+			],
+			"points": [
+				"Deaf（耳が遠い／煙に包まれている？）と同じ root？（諸説あり）。テフラとは。言葉という名の火を『焼き尽くし』、意味という名の『煙（デブ）』へと変えること。それは。直接的な表現を捨て、沈殿する『余韻』として世界を支配する、峻烈なる間接性の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "fumarole",
+		"word": "Fumarole",
+		"meaning": "フマロール/噴気孔、(魂の)溜息（ためいき）、核からの警告、絶え間なき漏出、微かな毒",
+		"era": "Mid-19th Century",
+		"etymology": {
+			"components": [
+				"fumariolum (a vent / smoke-hole)",
+				"fumus (smoke)"
+			],
+			"original_statement": "From French fumerolle, from Latin fumariolum 'a vent / smoke-hole', diminutive of fumus 'smoke'."
+		},
+		"concept": "The gaseous vent (絶え間なく「ガス（熱）」を吐き出し続ける、大地の「隙間」。それは。内なる情熱を「小出し」にすることで、自らの「爆発」を防いでいる、魂の「安全装置（あるいは弱音）」の記述)",
+		"thinking": "「フマロール（噴気孔）」。あなたには。誰にも言えない「情熱（毒）」を、こっそりと逃がすための「場所」がありますか。 fumarole。それは、派手な「革命」ではありません。ただ「シュンシュン」と、絶え間なく自分の本音を「漏らし（フム）」続ける、峻烈なる「日常の対話」。 fumarole。弱音を吐くことを、恥じないでください。その小さな「漏出」こそが。あなたの魂が「暴発（崩壊）」するのを防いでいる、最も賢明な「生存戦略」なのです。吐き出せ、そしてまた、熱を蓄（たくわ）えよ。",
+		"part_of_speech": "noun",
+		"aftertaste": "黄色い「硫黄（いおう）」の匂いが立ち込める中で、絶え間なく「シュッ」という鋭い音が聞こえる。あの。いつ「爆発」してもおかしくない、という。峻烈なる「不穏」。そこにある。自分は「生きている」という、生々しい味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "dheu-",
+					"meaning": "to rise in a cloud / dust / vapor"
+				}
+			],
+			"points": [
+				"Fume（煙）や Dust（塵／ダスト）、Thyme（タイム／香りの草）と同じ root。フマロールとは。内なる真実を、ただ『沈黙』させるのではなく、微かな『煙（ドゥ）』として世界に主張し続けること。それは。沈黙と絶叫の間にある、峻烈なる『存在の持続』の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "tectonics",
+		"word": "Tectonics",
+		"meaning": "テクトニクス/地質構造学、(巨大な)変位、構造の論理、世界の組み換え、静かなる激動",
+		"era": "Late 19th Century",
+		"etymology": {
+			"components": [
+				"tekton (builder / carpenter)"
+			],
+			"original_statement": "From Greek tektonikos 'of building', from tekton 'builder / carpenter'."
+		},
+		"concept": "The structural movement (一つ一つの「出来事」ではなく。その背後で世界という「舞台そのもの（プレート）」が、ミリ単位で「移動し、衝突し、沈み込んでいる」という、峻烈なる「システムの大局観」の記述)",
+		"thinking": "「テクトニクス（地質構造学）」。あなたは。目の前の「小さな喧嘩（揺れ）」に、一喜一憂しすぎてはいませんか。 tectonics。本当の「激動」は。深い「地下（深層心理）」で。巨大な「論理（プレート）」同士が、静かに「押し合っている」その摩擦の中にあります。 tectonics。急いで結果を出そうとしないでください。あなたが「正しい基盤（プレート）」をゆっくりと動かし続けていれば。いつか必ず、世界は「地殻変動（パラダイムシフト）」を起こし、あなたの前にひれ伏す。その「構造的な勝利」を、峻烈に信じてください。",
+		"part_of_speech": "noun",
+		"aftertaste": "足元から聞こえる、低い「地響き（ゴゴゴ…）」のような、圧倒的な「スケール感」。そこにある、自分は「巨大なシステム」の上に乗っているだけだ、という、峻烈なる「諦念」。硬くて、瑞々しい、岩石の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "teks-",
+					"meaning": "to weave / fabricate"
+				}
+			],
+			"points": [
+				"Text（文章／織りなされたもの）や Technology（技術）、Context（文脈）と同じ root。テクトニクスとは。地球という巨大な織物を、岩石という糸で『織り直す（テク）』こと。それは。自然を『カオス』ではなく、壮大な『知的な構造物』として捉え直す、峻烈なる建築学の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "geothermal",
+		"word": "Geothermal",
+		"meaning": "ジオサーマル/地熱、(内なる)持続、自分を燃やす火、地球の体温、不滅の熱源",
+		"era": "Mid-19th Century",
+		"etymology": {
+			"components": [
+				"geo- (earth)",
+				"therme (heat)"
+			],
+			"original_statement": "From Greek geo- 'earth' + therme 'heat'."
+		},
+		"concept": "The inner energy (外界の「太陽（他人の評価）」に頼らず。自分という「地球（自身）」の深部から湧き上がる、峻烈なる「自律の熱量」。それは。一生消えることのない、あなたという特異点が持つ「実存の熱」の記述)",
+		"thinking": "「ジオサーマル（地熱）」。あなたの「幸福」。それは、誰かの「笑顔（太陽）」がないと、凍（い）てついてしまうような「脆弱（ぜいじゃく）」なものになってはいませんか。 geothermal。それは。たとえ世界が氷河期になっても。あなた自身の「核（コア）」が放ち続ける、峻烈なる「自家発電」。 geothermal。自分の内側へ潜り、自分を煮えたぎらせる。その「自給自足の熱量（愛）」さえあれば。あなたは、どんな過酷な時代であっても。常に「瑞々（みずみず）しく、温かい」ままで、存在し続けることができるのです。自らを、燃やせ。",
+		"part_of_speech": "adjective",
+		"aftertaste": "足の裏から「じんわり」と伝わってくる、力強い「熱」。そこにある、もはや「外は見ていない」という、峻烈なる「自足感」。地下深部から「ボコボコ」と湧き上がる、大地の呼吸。重厚な。火の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "dhghem-",
+					"meaning": "earth (from geo)"
+				}
+			],
+			"points": [
+				"Humus（腐植土）や George（農夫／地を耕す者）と同じ root。ジオサーマルとは。自分という『土地（ゲー）』を深く掘り返し、そこに眠る『神聖なる熱量』を再発見すること。それは。借り物のエネルギーを捨て、自らの『根源』へと回帰する、峻烈なる実存の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "rhyolite",
+		"word": "Rhyolite",
+		"meaning": "ライオライト/流紋岩（りゅうもんがん）、(流れの)記憶、粘り強い知性、紋様という名の軌跡、結晶のダンス",
+		"era": "Mid-19th Century",
+		"etymology": {
+			"components": [
+				"rhuax (stream / flow)",
+				"lithos (stone)"
+			],
+			"original_statement": "From Greek rhuax 'stream / flow' + lithos 'stone'. Coined by Ferdinand von Richthofen in 1860."
+		},
+		"concept": "The flowing pattern (粘り気の強い「マグマ」がゆっくりと流れ、その「美しい筋道（紋様）」を残したまま固まった岩。それは、激動の時代にあって、いかに自分の「美学（スタイル）」を貫いたか、という峻烈なる「生き様（ストリーム）」の記述)",
+		"thinking": "「ライオライト（流紋岩）」。あなたの「人生」。それは、ただの「のっぺらぼうな壁（画一化）」になってはいませんか。 rhyolite。たとえどれほど周囲が「固まれ（適応せよ）」と叫んでも。あなたは、自分の「意志（流れ）」を止めないでください。 rhyolite。その「ドロドロとした抵抗（粘性）」こそが。固まったあとに「美しい紋様（個性）」として、永遠に刻まれます。流れることは、汚れることではありません. 流れることは、自分だけの「模様（デザイン）」を描き続ける。という、峻烈なる「自己表現」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "石の表面に浮かび上がる、複雑な「縞模様（ストライプ）」。それを指でなぞる。あの。自分の「歴史」を愛しむような、峻烈なる「自負」。そこにある、流動性が「永遠」へと変わった、勝利の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sreu-",
+					"meaning": "to flow (from rhuax)"
+				}
+			],
+			"points": [
+				"Stream（流れ）や Rhythm（リズム）、Rheology（流動学）と同じ root。ライオライトとは。固定された自分を『流体（スルー）』へと逆行させ、宇宙の『呼吸（リズム）』を自らの肉体に焼き付けること。それは。静止した死を拒み、運動し続ける生の軌跡を『石』へと翻訳する、峻烈なる実存の筆致なのです。"
+			]
+		}
+	},
+	{
+		"id": "mantle",
+		"word": "Mantle",
+		"meaning": "マントル/外套（がいとう）、(深層の)対流、地球の肉体、熱を運ぶ者、柔らかなる鉄",
+		"era": "Old English (original sense), Mid-20th Century (geology)",
+		"etymology": {
+			"components": [
+				"mantellum (cloak)"
+			],
+			"original_statement": "From Latin mantellum 'cloak / veil'. In geology, referring to the layer of the earth between the crust and the core."
+		},
+		"concept": "The planetary cloak (「地殻（表面）」の下に広がる、数千キロの厚さを持つ「熱い肉体」。それは、固体のようでいながら「ゆっくりと流れる（対流）」ことで、地上のすべて（大陸）を動かしている。不可視の「巨大な潮流」の記述)",
+		"thinking": "「マントル（外套）」。あなたは。自分の「外見（マント）」ばかりを着飾り。その内側にある「巨大な熱量（コア）」を、蔑（ないがし）ろにしていませんか。 mantle。それは。地上の「些細な変化（流行）」を包み込み、宇宙の冷気から地球を温め続ける、峻烈なる「母なる肉体」。 mantle。目に見えない場所で、ゆっくりと「巡（めぐ）り」続けてください。その「音のない対流（思考）」が。いつか、岩盤（常識）を引き裂き。あなたを、全く新しい「場所（未来）」へと運んでいく。その「静かなる巨人の歩み」を、あなた自身が信じてください。",
+		"part_of_speech": "noun",
+		"aftertaste": "重い「毛布」に包まれているような、圧倒的な「安心感」と。その下で、何かが「うごめき」続けている、という、峻烈なる「予感」。そこにある、世界は「揺るぎない熱」で満ちている、という。瑞々（みずみず）しい味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "men-",
+					"meaning": "to stand out / project (refers to something that covers)"
+				}
+			],
+			"points": [
+				"Mountain（山）や Prominent（顕著な）と同じ root。マントルとは。表面の『突起（マウンテン）』を支えるために、あえて平坦な『外套（マントル）』として、世界を隠し持っておくこと。それは。知性を誇示するのではなく、知性によって世界を『包囲（エンべロップ）』する、峻烈なる愛の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "epicenter",
+		"word": "Epicenter",
+		"meaning": "エピセンター/震央（しんおう）、(衝撃の)焦点、表面的な現れ、情報の震源地、注目の呪い",
+		"era": "Late 19th Century",
+		"etymology": {
+			"components": [
+				"epi- (upon / over)",
+				"kentron (sharp point / center)"
+			],
+			"original_statement": "From Greek epi- 'upon / over' + kentron 'sharp point / center'. The point on the earth's surface directly above the focus of an earthquake."
+		},
+		"concept": "The surface focus (地下での「激震」が、地上で「最も強く現れる」場所. それは。事件の本質（真実）ではないが。人々が最も「恐怖（あるいは関心）」を感じる、峻烈なる「現象の座標」の記述)",
+		"thinking": "「エピセンター（震央）」。あなたは。いつも「騒ぎの中心（エピ）」にいようとして。自分の中の「静寂（ハイポ）」を、失ってはいませんか。 epicenter。それは。世間（表面）が最も激しく揺れ、悲鳴を上げている場所です。 epicenter。でも。そこに居続けることは、あなたの「魂」を削り取ります。騒ぎの中心で「揺さぶられる」のではなく。一歩引いた「安全な座標」から、その「激動の本質」を冷徹に分析する側（サイズモロジスト）へ。その「知的越境」こそが、あなたが生き残るための、唯一の峻烈なる選択なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "周囲が「ガラガラ」と崩れ落ち、自分が「注目の的」になっている。あの。逃げ場のない「曝露感（ばくろかん）」。そこにある、情報の「暴風雨」。すべてが「剥（む）き出し」にされる。刺激的で、乾いた味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "epi-",
+					"meaning": "near / at / against"
+				},
+				{
+					"term": "kent-",
+					"meaning": "to prick / puncture (from kentron)"
+				}
+			],
+			"points": [
+				"Center（中心）や Contrast（対照）、Encouraging（勇気づける）と同じ root（諸説あり）。エピセンターとは。情報の針が世界という皮膜を『突き刺し（ケント）』、そこから真実の叫びが『漏れ出す』場所。それは。平穏という皮膜を破る、峻烈なる、アンド残酷な『接点』の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "hypocenter",
+		"word": "Hypocenter",
+		"meaning": "ハイポセンター/震源、(真の)原因、暗闇の中の発火点、沈黙の破壊、深淵の真実",
+		"era": "Late 19th Century",
+		"etymology": {
+			"components": [
+				"hypo- (under / below)",
+				"kentron (sharp point / center)"
+			],
+			"original_statement": "From Greek hypo- 'under / below' + kentron 'sharp point / center'. The point within the earth where an earthquake rupture starts."
+		},
+		"concept": "The buried origin (表面で何かが起きる、はるか「下方（地下深く）」で。最初に「岩盤（理性）」が砕け、すべての「震動（意味）」が生まれた「真の場所」。それは。誰も見ることができない、峻烈なる「原因の中枢」の記述)",
+		"thinking": "「ハイポセンター（震源）」。あなたが今。苦しんでいる「理由（震動）」。それは、目に見える「他人（表面）」にあるのではありません。もっと深い、「自分自身（地下）」の見えない場所に、その「発火点（ハイポ）」があります。 hypocenter。そこへ、潜ってください。暗闇の中で何が「砕けた」のか。どの「信念（プレート）」が限界を超えたのか。それを特定しない限り、あなたの震えは止まりません。自分を救うのは、自分という深淵の中にだけ存在する、峻烈なる「真実の座標」だけなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "真っ暗な「深海」のような静寂の中で、突然。巨大な「ひび割れ」が走るような。内側からの「崩壊音」。そこにある。もはや「元には戻れない」という、峻烈なる「覚悟」。重くて、瑞々しい、沈黙の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "upo-",
+					"meaning": "under / up from under"
+				}
+			],
+			"points": [
+				"Hypocrisy（偽善／下で隠して言うこと）や Hypothesis（仮説／下に置くこと）と同じ root。ハイポセンターとは。偽りの整合性という名の『仮説（ハイポ）』を、究極の暴力によって『粉砕』し、剥き出しの真実を『突き上げる』場所。それは。理性を殺して、生命力を呼び覚ます、峻烈なる反逆の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "seismograph",
+		"word": "Seismograph",
+		"meaning": "サイズモグラフ/地震計、(震えの)記述、不可視の翻訳、時代の脈拍、沈黙のペン",
+		"era": "Mid-19th Century",
+		"etymology": {
+			"components": [
+				"seismos (earthquake / shaking)",
+				"graphia (writing)"
+			],
+			"original_statement": "From Greek seismos 'earthquake / shaking' + -graphia 'writing / description'. From seiein 'to shake'."
+		},
+		"concept": "The vibration writer (目に見えない「大地の震え（苦悩や変化）」を、繊細な「針」で紙に描き出すこと。それは。一瞬の「直感（震動）」を逃さず、峻烈なる「歴史の記録」として翻訳する、知的な記録装置の記述)",
+		"thinking": "「サイズモグラフ（地震計）」。あなたの「感受性（センシティビティ）」。それは、ただ「痛い」と感じるだけで終わっていませんか。 seismograph。その「痛み（揺れ）」を。自分という名の「フィルター（ペン）」を通して。一編の「詩（グラフ）」や「論理」へと、峻烈に翻訳してください。 seismograph。記録されない痛みは、ただの「ノイズ」として消えていきます。でも。それを「記録」した瞬間。それは、あなたという人間がこの不確かな時代を、いかに「震えながら（しかし正しく）」生き抜いたか、という。峻烈なる「実録」になるのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "静かな部屋で、白い紙の上に「ジッジッ…」と、狂ったように線を刻み続ける一本の「針」。そこにある、見えない「巨大な力」への、深い「畏怖」。感情が「線（ロゴス）」へと変わる。瑞々しい、知の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "twei-",
+					"meaning": "to shake / agitate (from seiein)"
+				}
+			],
+			"points": [
+				"Seismic（地震の）や Tweak（微調整する）、Twitch（引きつる）と同じ root。サイズモグラフとは。宇宙という名の虚無が放つ『引きつり（トウィ）』、その微かな『サイン』を、自らの肉体という計器で『感知』し、定着させること。それは。混沌を美学へと変換する、峻烈なる知的労働の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "tremor",
+		"word": "Tremor",
+		"meaning": "トレマー/微震、(微かな)予兆、魂の身震い、嵐の前の小康、情報のざわめき",
+		"era": "Late Middle English",
+		"etymology": {
+			"components": [
+				"tremere (to shake / tremble)"
+			],
+			"original_statement": "From Old French tremour, from Latin tremor, from tremere 'to shake / tremble'."
+		},
+		"concept": "The subtle pulse (大きな破壊の前に起きる。あるいはその後に残る。「微か（スモール）」だが「確固たる」揺れ。それは。あなたの魂が、何らかの「真理」に触れてしまったときに放つ。峻烈なる「共鳴」の記述)",
+		"thinking": "「トレマー（微震）」。あなたは。自分の心が「微かに震えている」その瞬間を。見逃してはいませんか。 tremor。それは。あなたの「直感」が。理性が気づくよりも早く、巨大な「真実（マグマ）」の接近を察知している、峻烈なる「警告」です。 tremor。その震えを、無視しないでください。その「微かなざわめき」の方向にこそ。あなたが次に進むべき「道」があり、あなたが打ち砕くべき「壁」がある。震えることは、弱いことではない。震えることは。あなたが宇宙と「繋がっている」という、峻烈なる証拠なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "コップの中の水が、微かに「チャプッ」と揺れた。あの。何かが「始まる」という、峻烈なる「不穏」と。そこにある、心地よい「期待」。すべてが「剥き出し」になる前の、静かなる興奮。氷のような、冷たい味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "trem-",
+					"meaning": "to shake / tremble"
+				}
+			],
+			"points": [
+				"Tremendous（凄まじい／震えるほど素晴らしい）や Intrepid（勇敢な／震えない）と同じ root。トレマーとは。自分が『震える（トレム）』ことを通じて、世界の『凄まじさ（トレメンダス）』を把握すること。それは。恐怖を、畏怖という名の高貴な感情へと昇華させる、峻烈なる実存の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "volcanology",
+		"word": "Volcanology",
+		"meaning": "ボルカノロジー/火山学、(火の)倫理、荒ぶる神の記録、噴火という名の表現、破局の論理",
+		"era": "Midff-20th Century (as structured study)",
+		"etymology": {
+			"components": [
+				"Vulcan (Roman god of fire)",
+				"-logy (study / word)"
+			],
+			"original_statement": "From Vulcan (the Roman god of fire) + -ology 'study of'."
+		},
+		"concept": "The logic of fire (「山（地球）」が、なぜ「怒り（噴火）」を爆発させるのか、という「暴力的な美学」を解読しようとする試み。それは。制御不能な「情熱」を、いかにして「叡智（サイエンス）」へと昇華させるか、という、峻烈なる「格闘」の記述)",
+		"thinking": "「ボルカノロジー（火山学）」。あなたは。自分の中にある「暴力（怒りや情熱）」を。ただ「消したい」とだけ願っていませんか。 volcanology。それは。破壊神（ウルカヌス）の足跡を、冷徹な「言葉（ロゴス）」で追いかける、峻烈なる「冒険」。 volcanology。怒りを消すのではなく、その「メカニズム」を理解してください。どのような「感情（圧力）」が溜まれば、自分が「爆発」するのか。それを知れば。あなたは、破壊を「創造（新しい土壌）」へと転じさせることができる。火を恐れるな。火を「学問（スタイル）」にしてください。",
+		"part_of_speech": "noun",
+		"aftertaste": "熱い「溶岩」の川のすぐそばで、銀色の「防護服」を着て、じっと温度を測っている。あの。極限の「死地」に立ちながら、なお「冷静」でいようとする。峻烈なる「知の誇り」。焦げた、鉄の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "unknown",
+					"meaning": "Vulcan (unknown origin, possibly Etruscan)"
+				}
+			],
+			"points": [
+				"ボルカノロジーとは、破壊神という『不条理』に対して、人間という『理性』が挑む、最果ての対談。それは。ただ生き残るためではなく、なぜ私たちは壊れなければならないのか、という問いを、地球規模で実録するための、峻烈なる知の技法なのです。"
+			]
+		}
 	}
 ];
