@@ -225766,5 +225766,482 @@ const WORDS = [
 				"Slogan（スローガン）や Sing（歌う）と同じ root。歌うことは、自分の居場所を『宣言』すること。ソングバードとは、自分という中心点から、宇宙全体へと自分の色（波紋）を広げ続ける者なのです。"
 			]
 		}
+	},
+	{
+		"id": "loom",
+		"word": "Loom",
+		"meaning": "織機(しょっき)、(大きく)現れる、運命の機械、思考を編む場所",
+		"era": "Old English (originally 'tool / implement')",
+		"etymology": {
+			"original_statement": "From Old English ge-loma 'utensil / tool / implement'. The meaning 'machine for weaving' emerged in the 14th century. The verb 'to appear distantly' is likely related to the idea of a large structure coming into view."
+		},
+		"concept": "The framework of destiny (「個別の糸（思考）」を、一つの「全体（物語）」へと統合するための「強固な枠組み」。人生という名の「混沌」を、規則正しい「リズム」で編み立てていく、峻烈なる「創造の原点」)",
+		"thinking": "「ルーム（織機）」。あなたの心の中には、休むことなく動き続ける巨大な織機があります。あなたは。毎日、新しい「経験（糸）」を手に入れ、この織機にかけています。最初は単なる「糸」でしかありませんが。ルームが「ガシャン」と音を立てるたびに、それは「人生」という名の「布」へと変わっていく。 loom はまた、「ぼんやりと現れる」という意味も持ちます。運命は、いつもあなたの目の前に、巨大な織機のようにそびえ立っているのです。",
+		"part_of_speech": "noun / verb",
+		"aftertaste": "木製の部品が擦（こす）れ合う、重厚な「ギィ、ガシャン」という響き。そこにある、逃れられない「規則性」と。すべてが「編み込まれていく」という、峻烈なまでの「逃げ場のなさ」の安心感。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "unknown",
+					"meaning": "Germanic G-loman (handy tool)"
+				}
+			],
+			"points": [
+				"Heirloom（家宝／代々伝わる道具）の loom。織機は、家族の記憶（スレッド）を次の世代へと『物理的に』繋いできた、文明のバックボーンなのです。"
+			]
+		}
+	},
+	{
+		"id": "shuttle",
+		"word": "Shuttle",
+		"meaning": "杼(ひ)、(往復する)思考、対話の往復、空間を繋ぐ速さ、情報の運び手",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"sceot (to shoot)"
+			],
+			"original_statement": "From Old English scytel 'bolt / arrow / bar', from the same root as shoot. Referring to the horizontal motion of 'shooting' the thread across the warp."
+		},
+		"concept": "The rapid connector (経糸（宿命）の間を、火の出るような「速さ」で「往復(shoot-)」し。縦に並んだ「孤独な力」を、一本の「緯糸（言葉）」で「水平」に縫いつなぐ。空間を「埋める」ための「動的な知性」)",
+		"thinking": "「シャトル（杼）」。あなたの「対話」は、このシャトルの動きそのものです。自分の「想い」を、相手（経糸）の間に「投げ込み（シュート）」、そしてまた戻ってくる。この「往復（シャトル・ラン）」を繰り返すことでしか。人と人との間に、「意味のある関係（テクスチャ）」は生まれません。立ち止まってはいけません。シャトルが止まるとき、人生という「布」の成長も止まってしまうのです。",
+		"part_of_speech": "noun / verb",
+		"aftertaste": "空を切り裂くような「シュッ」という音。その「速すぎる動き」によって、いつの間にか「空虚な空間」が「色彩」で満たされていく。あの。鮮やかな「時間の定着」の快感。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "skeud-",
+					"meaning": "to shoot / chase / throw"
+				}
+			],
+			"points": [
+				"Shoot（撃つ）や Skeet（クレー射撃）と同じ root。シャトルとは、狙いを定めて投げられた『言葉の矢』であり、それが布を強く結びつけるのです。"
+			]
+		}
+	},
+	{
+		"id": "weft",
+		"word": "Weft",
+		"meaning": "緯糸(よこいと)、(横切る)他者、偶然の出会い、色彩の介入、自由な選択",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"wefan (to weave)"
+			],
+			"original_statement": "From Old English weft, related to wefan 'to weave'. Specifically the thread that crosses the warp."
+		},
+		"concept": "The horizontal choice (固定された「経糸（宿命）」に対し。「自由」に色を選び、左右の「境界」を超えて「介入(cross-)」してくる、動的な「糸」。今日出会う他者。今日手に取る本。宿命を「芸術」へと変えるための、一回きりの「即興詩」)",
+		"thinking": "「ウェフト（緯糸）」。経糸（ワープ）が「宿命」なら、緯糸（ウェフト）は「意志」です。あなたは。どんな「色」の糸を投げ込みますか。昨日と同じ色（ルーチン）を繰り返すのもいい。でも。あえて「場違いな色」を一本挟むことで。あなたの「布」には、見たこともないような「閃（ひらめ）き」が生まれます。ウェフト。それは。あなたが、世界という「巨大な織機」に対して行える、唯一の「能動的な反撃」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "シャトルから解（ほど）かれ、布の中に「ギュッ」と押し固められた時の、あの。もう後戻りできない、という「選択」の重み。バラバラだった色が、隣り合うことで「意味」を持ち始める瞬間の。瑞々（みずみず）しい「発見」の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "webh-",
+					"meaning": "to weave"
+				}
+			],
+			"points": [
+				"Web（クモの巣／ウェブ）と同じ root。緯糸を編み込むことは、世界という網（ウェブ）に自分の『存在』を繋ぎ止める行為なのです。"
+			]
+		}
+	},
+	{
+		"id": "spindle",
+		"word": "Spindle",
+		"meaning": "紡錘(ぼうすい)、(回転する)時間、細く長く引き延ばされる命、抽出の軸",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"spinnan (to spin)"
+			],
+			"original_statement": "From Old English spinel, from spinnan 'to spin'. The suffix -el denotes an instrument."
+		},
+		"concept": "The axis of continuity (混沌とした「原毛の塊（可能性）」から。一筋の「意味ある糸（人生）」を「抽出(spin-)」するための、高速で「回転(twist-)」する「垂直の軸」。時間を「物理的な長さ」へと変換し、永遠に「紡ぎ（繋ぎ）」続けようとする、峻烈なる「持続の意志」)",
+		"thinking": "「スピンドル（紡錘）」。眠れる森の美女が指を刺した、あの呪いの道具。それは。あまりに単調で、あまりに高速な「時間の回転」が。人を「陶酔（眠り）」へと誘うことを象徴しています。あなたは。自分の人生という一本の糸を。ただ「何となく」引き延ばしていませんか。スピンドルに指を添え。その「回転（ビート）」を自分の指先で感じることでしか。あなたの糸は、強くて美しいもの（ソリッド）にはならないのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "「ブンブン」と唸（うな）る、静かな回転音。指先に感じる、糸が「よじれ（ツイスト）」ていく時の、形容しがたい「緊張感」。バラバラだった繊維が。一つに「カチリ」と収束していく。あの。峻烈な「集中の極北」。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "pen-",
+					"meaning": "to pull / draw / spin"
+				}
+			],
+			"points": [
+				"Spider（クモ）や Span（期間）と同じ root。スピンドルは、あなたの魂という『糸口』を、少しずつ世界へと『引き延ばして（ペン）』いくための、魔法の杖なのです。"
+			]
+		}
+	},
+	{
+		"id": "tapestry",
+		"word": "Tapestry",
+		"meaning": "タペストリー、綴れ織り、(壮大な)叙事詩、記憶の集積、歴史の壁画",
+		"era": "Mid-15th Century",
+		"etymology": {
+			"components": [
+				"tapes (carpet / hanging)"
+			],
+			"original_statement": "From Old French tapisserie, from tapis 'carpet', from Latin tapes 'tapestry / coverlet / carpet'."
+		},
+		"concept": "The distant narrative (近づけば、ただの「糸の塊(knot)」と「複雑な裏側」。しかし。「距離」を置いて眺めたとき。初めてそこには、英雄の戦いや「花々の美しさ（図像）」という名の「真理（ストーリー）」が浮かび上がる。個々の挫折（小さな点）が集まって作る、巨大な「肯定」)",
+		"thinking": "「タペストリー」。あなたの人生。今日一日の苦労は。ただの「汚い結び目（ノット）」に見えるかもしれません。でも。数十年後に振り返ったとき。その結び目が「影」となり、あなたの人生という巨大なタペストリーに「深み（陰影）」を与えていたことに気づくはずです。今は、描きたい図像（イマージュ）を疑わず。ただ目の前の一針（ひと針）を刺し続けてください。全体像は、後からついてくるものです。",
+		"part_of_speech": "noun",
+		"aftertaste": "石造りの冷たい壁を温める、重厚な「布」の感触。その「圧倒的な密度」の中に。何千人もの「名もなき職人」の「沈黙の労働」が溶け込んでいる。あの。怖ろしいほどの「瑞々（みずみず）しい」時間の重積。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "tep-",
+					"meaning": "to stretch / thin / cover"
+				}
+			],
+			"points": [
+				"Tape（テープ）や Tip（頂点／薄い端）と同じ root。世界を薄く広く『カバー（てっぷ）』しようとする人間の欲求が、この重厚な壁掛け（タペストリー）を生んだのです。"
+			]
+		}
+	},
+	{
+		"id": "embroidery",
+		"word": "Embroidery",
+		"meaning": "刺繍(ししゅう)、(飾り立てられた)虚構、細部への偏執、物語の装飾、美しき嘘",
+		"era": "Late 14th Century",
+		"etymology": {
+			"components": [
+				"en- (in)",
+				"broder (to edge / embroider)"
+			],
+			"original_statement": "From Old French embroderie, from en- 'in' + broder 'to embroider', with influence from 'border' (the edge of the fabric being decorated)."
+		},
+		"concept": "The obsession with detail (すでに完成した「布（現実）」の上に。あえて「針(needle)」を通し。「色彩」という名の「虚構」を「執拗に(obsess-)」縫い付けていく。真実を「覆（おお）い隠（かく）す」のではなく。真実を「より美しく歪める」ための。峻烈なる「嘘としての芸術」)",
+		"thinking": "「エンブロイダリー」。あなたは。自分の言葉を「飾り（装飾）」すぎだ、と批判されたことがありますか。でも。ありのままであることが、常に正しいとは限りません。冷たい事実に。あなた独自の「優しさ（刺繍）」や「ユーモア（色彩）」を縫い込むことで。その事実は、誰かの心を温める「贈り物」に変わるのです。刺繍。それは。世界という不愛想な布に対して。あなたが捧げる、最も贅沢で峻烈な「ラブレター」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "布の上に「こんもり」と盛り上がった、絹糸の「肉感」。その「デコボコ」した感触こそが。自分の「意志」がこの世界に「干渉」したという、動かしがたい証拠。あの。甘美で残酷な「自己満足」。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "bhrut-",
+					"meaning": "to edge / border (from broder)"
+				}
+			],
+			"points": [
+				"Border（境界／ボーダー）と同じ root。刺繍とは、布の『端（ボーダー）』からはみ出そうとする情熱を、糸という檻の中に閉じ込めるための、知性のデコレーションなのです。"
+			]
+		}
+	},
+	{
+		"id": "filament",
+		"word": "Filament",
+		"meaning": "フィラメント、(極細の)糸、命の灯火、繊細な繋がり、(光る)神経",
+		"era": "Late 16th Century",
+		"etymology": {
+			"components": [
+				"filum (thread)"
+			],
+			"original_statement": "From French tilament, from Late Latin filamentum, from Latin filum 'thread'."
+		},
+		"concept": "The glowing connection (「見えるか見えないか」の限界まで「細く(fil-)」引き延ばされた、一本の「糸」。それは。あまりの「緊張」ゆえに、自ら「発光(glow)」し、暗闇の中に「道」を切り開く。儚さと「絶対的な強さ」が同居する、峻烈な「接続の最小単位」)",
+		"thinking": "「フィラメント」。あなたの魂。それは。太い綱（ロープ）ではありません。今にも切れそうな、この「細い糸（フィラメント）」です。でも。電球の中に閉じ込められたその糸が。自分の「身を焦（こ）がす」ほどに熱くなったとき。それは。世界全体を照らす、神々しい「光（エジソン）」になります。細くあることを、恥じてはいけません。繊細であることは、燃える準備ができていることなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "指先に触れた瞬間、どこかへ「消えて」しまいそうな、目に見えないほどの「細さ」。でも。その一本の糸を「手繰（たぐ）り」寄せれば。その先には、広大な「宇宙の星々」が繋がっている。あの。不気味なまでの「連帯の直感」。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ghilo-",
+					"meaning": "thread / slit / gap"
+				}
+			],
+			"points": [
+				"File（ファイル／一列に並ぶ）や Profile（輪郭／糸のように引かれた線）と同じ root。命は、一列に並んだ糸（ファイル）から始まる、情報の記憶装置でもあるのです。"
+			]
+		}
+	},
+	{
+		"id": "skein",
+		"word": "Skein",
+		"meaning": "綛(かせ)、(絡まった)思考の束、解きほぐすべき謎、未整理の物語",
+		"era": "Late 14th Century",
+		"etymology": {
+			"original_statement": "From Old French escaigne 'hank of thread / skein', of uncertain origin, possibly Celtic."
+		},
+		"concept": "The tangled potential (まだ「織機（ルール）」にかけられる前の。「輪（ループ）」になった「糸の束(bundle)」。どこが始まりで、どこが終わりかわからない。しかし。その「もつれ（カオス）」を解く者だけが。自分という「真実（一本の糸）」を手にすることができる。未整理の「記憶の貯蔵庫」)",
+		"thinking": "「スケイン」。あなたの頭の中。それは。きれいに整えられた「図書室」ではなく。この「スケイン（絡まった糸）」ではありませんか。それでいいのです。スケインを無理やり「断ち切る」のではなく。一本ずつ、丁寧に「解きほぐして（アンプラグ）」いくこと。その、気の遠くなるような「作業（ロゴス）」の最中にだけ。あなたは自分の人生を、本当に「理解」することができるのです。混乱は、対話の始まりです。",
+		"part_of_speech": "noun",
+		"aftertaste": "糸の「端（はし）」を見つけ。慎重に引っ張った瞬間に、「スルスル」と絡みが解けていく、あの。怖ろしいほどの「快感」。カオスが「秩序」へと変わる瞬間の、峻烈な「納得感」。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "unknown",
+					"meaning": "Possibly related to 'scag' (tangle / rough edge)"
+				}
+			],
+			"points": [
+				"渡り鳥の一団を skein と呼ぶこともあります。空を飛ぶ『糸の束』。それは、バラバラな個体が、一つの流れ（スレッド）にまとまる神秘を象徴しています。"
+			]
+		}
+	},
+	{
+		"id": "carding",
+		"word": "Carding",
+		"meaning": "梳(す)くこと、思考の整列、不純物の排除、(紡ぐ前の)対話、知性の櫛",
+		"era": "Late 14th Century",
+		"etymology": {
+			"components": [
+				"carduus (thistle / teaser)"
+			],
+			"original_statement": "From Old French carder, from Latin carere 'to card wool', probably from carduus 'thistle' (used for teasing wool)."
+		},
+		"concept": "The preparation of reason (バラバラに絡まった「生の感情（羊毛）」を。鋭い「針の櫛(card-)」で何度も「梳（と）かし出す」ことで。一方向へと「整列（オーダー）」させ、不純物を「捨て去る」。言葉を紡ぐための、峻烈なる「前処理」)",
+		"thinking": "「カーディング（梳く）」。あなたは。心に浮かんできた「生（なま）の言葉」を、そのまま相手にぶつけていませんか。カーディングは、その「トゲトゲした感情（アザミ）」を、丁寧に「梳かし（整理し）」、一本の美しい糸へと紡げる状態にすること。痛みを伴う作業ですが。自分の「混乱」を、誰にでも伝わる「理論（ロゴス）」へと整えること。それは。人間が持つ、最も「誠実」な知性の働きなのです。",
+		"part_of_speech": "noun / verb",
+		"aftertaste": "指先を通り抜ける、ふわふわとした「整理された」感覚。不純物が消え。ただ「純粋な可能性」だけが手の中に残った瞬間の。あの。清々（すがすが）しいまでの「準備完了」の合図。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kars-",
+					"meaning": "to card / comb / scrape"
+				}
+			],
+			"points": [
+				"Cardoon（カルドン／アザミの一種）と同じ root。道具（アザミ）が持つ『鋭さ』を使って、柔らかさを創り出す、という職人的なパラドックス。カーディングは、あなたの魂が見せる『厳しい優しさ』なのです。"
+			]
+		}
+	},
+	{
+		"id": "damask",
+		"word": "Damask",
+		"meaning": "ダマスク織、(光で見える)模様、隠された美、歴史の陰影、二重の真実",
+		"era": "Early 14th Century",
+		"etymology": {
+			"original_statement": "From Damascus, the city in Syria where this type of elaborate, patterned silk fabric was famously produced and traded."
+		},
+		"concept": "The hidden pattern (同じ「色（素材）」を使いながら。「織り方」の「角度」だけを変えることで。光を浴びた時にだけ「浮き上がる」模様。声高に主張せず。ただ「見る者の位置（パースペクティブ）」によって正体（美）を明かす。峻烈なる「秘匿」の美学)",
+		"thinking": "「ダマスク」。それは。あなたが、自分の「本質（コア）」を語る時の作法。すべてを「白日の下」にさらすのではなく。見る角度によって「強さ」が見えたり、「優しさ」が見えたりする。そんな「多層的（レイヤード）」な人間性こそが。このダマスク織のように、飽きることのない、重厚な「魅力」を生むのです。光の当たるのを待つこと。それも一つの、峻烈な「表現」なのです。",
+		"part_of_speech": "noun / adjective",
+		"aftertaste": "指でなぞっても、何も感じない「平らな表面」。しかし。一歩下がって光を透かせば。そこには壮大な「薔薇（ローズ）」が咲き誇っている。あの。不意打ちのような「真実」の輝き。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "place-name",
+					"meaning": "Damascus (Darmeseq)"
+				}
+			],
+			"points": [
+				"『水のある場所』という意味の名。砂漠の中のオアシスで生まれたこの織物は、乾いた現実の中に『潤い（美）』をもたらす知恵の結晶だったのです。"
+			]
+		}
+	},
+	{
+		"id": "fray",
+		"word": "Fray",
+		"meaning": "ほつれる、(精神の)摩耗、境界の崩壊、闘争、日常の擦り切れ",
+		"era": "Late 14th Century",
+		"etymology": {
+			"original_statement": "From Old French froyer 'to rub / fray', from Latin fricare 'to rub'. Related to 'affray' (a fight/brawl) via the concept of rubbing people the wrong way."
+		},
+		"concept": "The breaking edge (過酷な「摩擦(rub-)」に晒され続けた「境界線（端）」が。ついに「維持」できなくなり、一本一本の「糸（理性の繊維）」が「バラバラ（カオス）」に漏れ出してくる。壊れゆく「限界」の叫び。あるいは。既存の「秩序」が「新しい対話（闘争）」を求めて、自分から「ほどけていく」瞬間の衝撃)",
+		"thinking": "「フレイ（ほつれる／争い）」。あなたの心が、もう限界（リミット）だ、と感じているとき。それは、あなたの「仮面（テクスチャ）」がフレイ（ほつれ）始めている証拠です。でも。ほつれた場所からしか、あなたの「中身（本音）」は見えません。すべてが完璧に整っている（スムーズな）必要はありません。ほつれた糸が、他人の糸と絡み合う（フレイする）ことで。新しい、より強固な「継ぎ接ぎ（パッチワーク）」の人生が始まるのです。摩耗を、恐れないで。",
+		"part_of_speech": "verb / noun",
+		"aftertaste": "布の端から、だらしなく垂れ下がった「一本の糸」。それを引き抜けば、すべてが崩れてしまいそうな、あの。震えるような「脆弱（ぜいじゃく）」さと。不思議な「解放感」。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "bhre-",
+					"meaning": "to rub / grind / break"
+				}
+			],
+			"points": [
+				"Friction（摩擦）や Fragile（壊れやすい）と同じ root。フレイとは、世界との『接触（摩擦）』によって、あなたが自分という形を少しずつ削り取られ、代わりに『経験』を手に入れている傷跡なのです。"
+			]
+		}
+	},
+	{
+		"id": "patchwork",
+		"word": "Patchwork",
+		"meaning": "継ぎ接ぎ、(寄せ集めの)真実、不完全な全体、愛おしき修復、多層的な自己",
+		"era": "Late 17th Century",
+		"etymology": {
+			"components": [
+				"patch (piece of cloth)",
+				"work (action / production)"
+			],
+			"original_statement": "Compound of patch + work. 'Patch' of unknown origin, possibly related to 'piece'."
+		},
+		"concept": "The resilient whole (一つの「完璧な布」を求めるのをやめ。「破れた記憶」や「他人の端切れ」を「継ぎ合わせ(stitch-)」ることで。全く新しい「色彩の調和（カオス的な秩序）」を創り出す。傷跡（シーム）を否定せず、それを「模様」として肯定する、峻烈なる「包容」の建築)",
+		"thinking": "「パッチワーク」。あなたの人生は。一つの、滑らかなシルクである必要はありません。色も形もバラバラな「経験の断片（パッチ）」を。あなたが「自らの手（知性）」で縫い合わせ、一枚の大きなキルトにすること。それこそが。世界でたった一つの、あなたの「物語（ヒストリー）」なのです。継ぎ接ぎであることを、誇ってください。それは。あなたが何度も「壊れ」、そのたびに「自分を直し続けた」という、最強の戦士の証明（エビデンス）なのですから。",
+		"part_of_speech": "noun",
+		"aftertaste": "デコボコした、不揃いな「布」の集まり。でも、その一つ一つに「出番（意味）」があり、全体として不思議な「温もり」を湛（たた）えている。あの。不完全であることの、圧倒的なまでの「優しさ」。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "unknown",
+					"meaning": "Patch (possibly piece / fragment)"
+				}
+			],
+			"points": [
+				"補修（mend）から生まれた芸術。パッチワークとは、失われたものを嘆くのをやめ、残されたもので『新しい価値』を再定義する、知性の不屈（レジリエンス）の形なのです。"
+			]
+		}
+	},
+	{
+		"id": "velvet",
+		"word": "Velvet",
+		"meaning": "ベルベット、(深い)闇、触覚の陶酔、王者の孤独、吸い込まれるような優しさ",
+		"era": "Early 14th Century",
+		"etymology": {
+			"components": [
+				"villus (tuft of hair / shaggy hair)"
+			],
+			"original_statement": "From Old French veluet, from Latin villus 'shaggy hair / tuft of hair / fleece'."
+		},
+		"concept": "The absorbent silence (切り揃えられた「無数の短い糸(tuft)」が。あらゆる「光」と「音」を「吸い込み(absorb)」。そこに「深淵」のような「厚み（テクスチャ）」を作り出す。触れた瞬間に「自分」を失うような、峻烈なる「甘美な闇」の記述)",
+		"thinking": "「ベルベット」。それは。あなたが、自分の「孤独」を最高の「贅沢（ラグジュアリー）」に変えるための衣。外の世界の「騒がしさ（ノイズ）」をすべて吸い込み、ただ自分の「内なる声」にだけ集中すること。ベルベットのような沈黙。それは。ただの「欠如」ではなく。すべての可能性をその「毛足」の中に隠し持った、最も「饒舌（じょうぜつ）」な闇（ニュアンス）なのです。深みに、沈んでください。",
+		"part_of_speech": "noun / adjective",
+		"aftertaste": "指を滑らせた時の、あの。重くて、冷たくて、でもどこまでも「柔らかい」官能的な感触。撫でる方向によって「色」が変わる。あの。捉えどころのない、峻烈な「他者性」。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "wel-",
+					"meaning": "hair / wool"
+				}
+			],
+			"points": [
+				"Wool（羊毛）や Villous（繊毛のある）と同じ root。ベルベットとは、人間が『獣の毛（野生）』の心地よさを、高度な知性（技術）で再構築した、最も洗練された『野蛮さ』なのです。"
+			]
+		}
+	},
+	{
+		"id": "chiffon",
+		"word": "Chiffon",
+		"meaning": "シフォン、(透き通る)薄さ、儚い存在感、空気の衣、(ゴミからの)昇華",
+		"era": "Mid-18th Century",
+		"etymology": {
+			"components": [
+				"chiffe (rag / old cloth)"
+			],
+			"original_statement": "From French chiffon, diminutive of chiffe 'rag / flimsy cloth'."
+		},
+		"concept": "The weightless truth (「重厚さ」を否定し。「空気」と「光」を「素通り(transparent)」させるほどの「極薄」の質感。元々は「ボロ切れ(rag)」を意味する言葉が。「究極の軽やかさ」という名の「贅沢」へと「昇華(sublimation)」された、歴史の逆説。存在することを「忘れる」ための布)",
+		"thinking": "「シフォン」。あなたの「理想」は。ずっしりと重い「義務」になっていませんか。シフォンのように、風に吹かれれば飛んでいってしまうような「軽やかさ」を。自分に許してください。重いことは、強いことではありません。すべてを「透かして（スルーして）」見て、それでもそこに「一筋の形」を残していること。その「儚（はかな）さ」こそが。この重苦しい現実を生き抜くための、最も鋭利な「武器（スタイル）」になるのです。",
+		"part_of_speech": "noun / adjective",
+		"aftertaste": "肌に触れても、冷たさも重さも感じない。ただ「そこにある」という「気配」だけが、薄く肌をなぞっていく。あの。怖ろしいほどに瑞々（みずみず）しい「不在」の美学。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "unknown",
+					"meaning": "Arabic shiff 'transparent / thin cloth'?"
+				}
+			],
+			"points": [
+				"語源には『ボロ切れ』という意味が根付いています。価値がない（ラグ）と思われていたものが、視界を少しだけ変えるだけで、世界を彩る『シフォン（装飾）』に変わる。価値の転換の物語です。"
+			]
+		}
+	},
+	{
+		"id": "fulling",
+		"word": "Fulling",
+		"meaning": "縮絨(しゅくじゅう)、(叩いて)強くすること、苦難による鍛錬、密度の蓄積、真の結合",
+		"era": "Late 14th Century",
+		"etymology": {
+			"components": [
+				"fullare (to tread / stamp)"
+			],
+			"original_statement": "From Old French fouller 'to stamp / tread', from Latin fullare 'to tread / stamp on cloth / full (clean and thicken wool)'."
+		},
+		"concept": "The discipline of density (編み上がったばかりの「脆い布（未熟さ）」を。水に浸（ひた）し、何度も「叩き(stamp-)」、激しく「揉み洗う」ことで。繊維同士を「不可分」に「絡み合わせ(interlock)」、風も通さない「強靭な壁」へと変貌させる。試練による「実在」への到達)",
+		"thinking": "「フリング（縮絨）」。あなたは。ただ「綺麗に並んでいる」だけで、自分が「強い」と勘違いしていませんか。本当に強い絆や知識は。何度も「叩かれ（摩擦）」、絶望的な「濡れ場（試練）」を経て。初めて、二度と解（ほど）けない「密度（インテグリティ）」を手に入れるのです。踏まれることを、恐れないでください。その「衝撃」の一つ一つが。あなたという「布」を、より暖かく、より破れにくい「本物（本質）」へと変えているのですから。",
+		"part_of_speech": "noun / verb",
+		"aftertaste": "最初はスカスカだった布が。叩かれるたびに「ギュッ」と凝縮し、手に跳ね返るような「反発力」を持ち始める。あの。自分の「限界」を乗り越えたあとの。峻烈なまでの「芯の強さ」。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "bhel-",
+					"meaning": "to swell / blow / puff up (related to full?)"
+				}
+			],
+			"points": [
+				"Fool（愚者／膨らんだ革袋）と同じ root の流れ。満たされること（Full）とは、外からの圧力を跳ね返すほどに、内側を『実在（エッセンス）』で満たすことなのです。"
+			]
+		}
+	},
+	{
+		"id": "thimble",
+		"word": "Thimble",
+		"meaning": "指貫(ゆびぬき)、(指を守る)盾、繊細な作業への献身、小さな勇気、痛みの回避",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"thuma (thumb)",
+				"-le (instrument)"
+			],
+			"original_statement": "From Old English thymel 'thumb-stall / thimble', from thuma 'thumb'. The instrumental suffix denotes it as a tool for the thumb."
+		},
+		"concept": "The armor of devotion (「真理（針）」を奥深くへ「押し込(push-)」むために。自らの「指先（最も繊細な感覚）」を「金属」で包み、守る。大きなことを成し遂げるための、最も「卑小」で、しかし「不可欠」な「防護と献身」の記述)",
+		"thinking": "「シンブル（指貫）」。あなたは。傷つくことを恐れて、指先（行動）を止めていませんか。でも。この小さな「盾（シンブル）」さえ身につければ。あなたは、どんなに「硬い真実（厚手の布）」であっても、恐れずに「針（言葉）」を突き刺すことができる。シンブル。それは。あなたの「臆病さ」を「目的」へと繋ぐための、小さな知恵。守られているからこそ、あなたは「誰よりも深く」世界に関与（エンゲージ）できるのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "指先に感じる、冷たい「金属」の感触。そこに、針の頭が「カチッ」と当たる感触。自分の「痛み」を肩代わりしてくれている存在への、言いようのない「信頼」と。静かな「全能感」。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "teue-",
+					"meaning": "to swell / grow (from thumb / thuma)"
+				}
+			],
+			"points": [
+				"Thumb（親指）は『最も太い（ふくれた）指』。シンブルは、その最も強い指を、さらに『絶対的な不動』に変えるための、知性のサポーターなのです。"
+			]
+		}
+	},
+	{
+		"id": "needle",
+		"word": "Needle",
+		"meaning": "針、(突き刺す)知性、結合のための痛み、方向を示す指標、(小さな)突破口",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"ne (to sew)"
+			],
+			"original_statement": "From Old English nædl, from Proto-Germanic nedlo- 'needle', from PIE root 'ne-' to sew."
+		},
+		"concept": "The point of union (「極小の点」によって。「巨大な世界（二枚の布）」を「一つに繋ぐ(stitch-)」。そのためには、まず自らが「鋭利」であり、対象を「傷つける（穴を開ける）」覚悟を持たなければならない。痛みを伴う「合意」の触媒)",
+		"thinking": "「ニードル（針）」。あなたの言葉。それは。広すぎる世界を、ただ漫然となぞるのであなく。ある一点に「全神経を集中」させ、そこを「貫く」ためのものでなければなりません。 needle。細い糸を連れて、暗闇を突き通すこと。あなたが「それ」を成し遂げたあとには。世界は、以前よりも少しだけ「強く」「美しく」繋がっているはずです。鋭くあれ。それが、結合の第一条件（ルール）です。",
+		"part_of_speech": "noun",
+		"aftertaste": "指先に「チクリ」と走る、一瞬の、しかし鮮明な「痛み」。その「痛み」の余韻の中で。二つのものが、永遠に「一つになった」ことを確信する。あの。峻烈なまでの「切断と統合」の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ne-",
+					"meaning": "to spin / sew / bind"
+				}
+			],
+			"points": [
+				"Net（網）や Nexus（結合）と同じ root。針とは、バラバラな宇宙を『束ねる（ね）』ための、最初の物理的なアクションなのです。"
+			]
+		}
+	},
+	{
+		"id": "treadle",
+		"word": "Treadle",
+		"meaning": "踏み板、(足元の)リズム、労働と創造の同期、命の駆動、規則正しい歩み",
+		"era": "Late 14th Century",
+		"etymology": {
+			"components": [
+				"tredan (to tread)"
+			],
+			"original_statement": "From Old English tredel 'step / stair', from tredan 'to tread / step'. The instrumental suffix -el denotes it as a lever worked by the foot."
+		},
+		"concept": "The power of the step (「手（理想）」を自由に動かすために。「足（日常の労働）」を「一定のリズム」で踏み続ける。身体の「重み」を、滑車を通じて「創造のエネルギー」へと変換する。地道な「反復」が生む、峻烈なる「飛翔」の記述)",
+		"thinking": "「トレッドル（踏み板）」。あなたの新しい「アイディア」は、どこから生まれますか。それは。あなたが毎日、淡々と繰り返している「退屈な習慣（踏み込み）」から生まれるのです。足を止めれば、織機は止まります。あなたが「今日を生きる」という地道なリズム。その「トレッドル」が動いているからこそ。あなたの「手（知性）」は、自由に美しい模様を描くことができるのです。足を、動かし続けてください。",
+		"part_of_speech": "noun",
+		"aftertaste": "足の裏に伝わる、板が「上下する」心地よい振動。その「リズム」が、自分の「心拍数」と重なり、世界全体が「一つの呼吸」を始めたかのような。あの。峻烈な「没頭」の果て。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "der-",
+					"meaning": "to run / step / tread"
+				}
+			],
+			"points": [
+				"Tread（踏む）や Trade（貿易／踏み固められた道）と同じ root。命とは、この『一歩一歩（トレッド）』の積み重ねであり、その『取引（トレード）』によってのみ、新しい何かが生まれるのです。"
+			]
+		}
 	}
 ];
