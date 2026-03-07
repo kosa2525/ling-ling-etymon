@@ -225341,5 +225341,430 @@ const WORDS = [
 				"Trumpet（トランペット／吹き鳴らす）と同じ tromp-。音で人を驚かせるように。絵で人の眼（オキュラス）を驚かせること。欺くことは, 驚かせること（サプライズ）の極北なのです。"
 			]
 		}
+	},
+	{
+		"id": "fledge",
+		"word": "Fledge",
+		"meaning": "羽が生え揃う、(飛び立つ)準備、未熟な自立、自らの力での飛翔",
+		"era": "Mid-16th Century (as a verb)",
+		"etymology": {
+			"original_statement": "From Old English flycge 'ready to fly', from Proto-Germanic flugja 'having feathers' (related to fly)."
+		},
+		"concept": "The readiness for sky (「巣（依存）」から「空（自由）」へと「飛び出す(fly-)」ための、十分な「自前の羽(flug-)」を手に入れた状態。保護（安泰）を捨てて、自らの「孤独」と向き合い始める「峻烈なるスタートライン」)",
+		"thinking": "「フレッジ（羽が生え揃う）」。あなたは。いつまでも誰かの「温もり（巣）」の中にいることはできません。あなたの背中に、自分だけの「言葉」や「技術（羽）」が十分に生え揃った（フレッジした）とき。あなたは、未知なる「高さ」へと身を投げなければなりません。自立は、墜落（フォール）の恐怖とセットです。しかし。飛ぶことでしか、あなたは「自分の本当の形」を知ることはできないのです。",
+		"part_of_speech": "verb",
+		"aftertaste": "巣の縁（ふち）に立って、初めて見る「地平線」の眩（まぶ）しさ。足元が震えながらも。自分の羽が風を「しっかり」と捉（とら）えた瞬間の。あの。怖ろしいほどに瑞々（みずみず）しい「自由」の予感。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "pleu-",
+					"meaning": "to flow / fly / float"
+				}
+			],
+			"points": [
+				"Fly（飛ぶ）や Fleet（艦隊／速い）と同じ root。飛ぶことは、空気の流れ（フロー）と一体化すること。フレッジとは、自分が世界の流れの一部になるための準備なのです。"
+			]
+		}
+	},
+	{
+		"id": "molt",
+		"word": "Molt",
+		"meaning": "換羽、脱皮、(古い自分を)脱ぎ捨てる、再生のための欠落、惨めな沈黙",
+		"era": "Mid-14th Century",
+		"etymology": {
+			"components": [
+				"mutare (to change)"
+			],
+			"original_statement": "From Latin mutare 'to change', influenced by Old English -mutian 'to change / exchange'."
+		},
+		"concept": "The painful change (「美しさ(pride)」の象徴であった「古い羽（過去）」を。自ら「むしり取り(shed)」、一時的に「飛べない（無防備な）」姿をさらしてでも。「新しい（より強い）自分」へと「変容(mut-)」するための、峻烈なる「冬（停滞）」の儀式)",
+		"thinking": "「モルト（脱皮／換羽）」。鳥たちは。一年に一度、あんなに美しかった羽をすべて失い、ボロボロの姿で藪（やぶ）の中に隠れます。それは「敗北」ではなく「アップデート」。あなたも。自分の成功体験や、古くなったプライドを「脱ぎ捨て（モルト）」なければならない時があります。惨めで、寒くて、飛べない時間。しかし、その「欠落」の隙間からしか。次の季節を勝ち抜くための「新しい翼」は生えてこないのです。",
+		"part_of_speech": "verb / noun",
+		"aftertaste": "地面に散らばった、かつての「自慢の羽」。それらを一瞥（いちべつ）もせず。今はただ、冷たい風に耐えながら、自分の内側から湧き上がる「新しい命」を待ち続ける。あの。峻烈なまでの「再生」への盲信。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "mei-",
+					"meaning": "to change / move / go"
+				}
+			],
+			"points": [
+				"Mutation（突然変異）や Mutual（相互の／交換の）と同じ root。変わることは、今の自分を別の何かと『交換』すること。モルトは、自分との峻烈な取引（トレード）なのです。"
+			]
+		}
+	},
+	{
+		"id": "ornithology",
+		"word": "Ornithology",
+		"meaning": "鳥類学、空への知的なラブレター、飛翔の解読術、(鳥の)言葉を知る学問",
+		"era": "Late 17th Century",
+		"etymology": {
+			"components": [
+				"ornithos (bird)",
+				"logos (study / word / reason)"
+			],
+			"original_statement": "From Greek ornithologos, from ornithos 'bird' + logos 'study / word / reason'."
+		},
+		"concept": "The logic of flight (「空を飛ぶ」という、人間にとって nocturnal の「永遠の憧（あこが）れ」を。ただの「羨望（エンヴィ）」で終わらせず。「鳥(ornith-)」という名の「生ける矢」の「論理(logos-)」として緻密に記述（トレース）する。理性が空へと手を伸ばすための、唯一の「梯子（はしご）」)",
+		"thinking": "「オーニソロジー（鳥類学）」。高く飛ぶものを、ただ「すごい」と眺めるだけでは、あなたは一生地面のままです。オーニソロジー的な視座は。その飛翔の「メカニズム」を、冷徹な「ロゴス」で解体することを求めます。どうして飛べるのか。どうして歌えるのか。憧れを「解読」に変えたとき。その知識（ロゴス）は、いつかあなた自身の「翼」の設計図（ブループリント）になるのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "双眼鏡の向こう側で。一羽の鳥が「風」を手なずけている。その一瞬の「羽の動き」を。正確な「言葉」で書き留めた瞬間の。あの。世界を少しだけ「手に入れた」かのような。峻烈な「知性の連帯」。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "orn-",
+					"meaning": "bird (associated with eagle / ornis)"
+				}
+			],
+			"points": [
+				"語源は「鷲（イーグル）」を指す古い言葉に繋がります。オーニソロジーは、本来、王者の鳥の『誇り』を読み解く高貴な学問なのです。"
+			]
+		}
+	},
+	{
+		"id": "gizzard",
+		"word": "Gizzard",
+		"meaning": "砂嚢(さのう)、(石で噛み砕く)胃袋、苦難の消化、心の粉砕機",
+		"era": "Late 14th Century",
+		"etymology": {
+			"original_statement": "From Old French giser 'gizzard', from Latin gigeria 'cooked entrails of poultry'."
+		},
+		"concept": "The grind of survival (「歯」を持たない鳥が。「石(grit)」をあえて飲み込み。その石を「心臓の近く（砂嚢）」で「激しく擦り合わせる」ことで、硬い現実行（穀物）を「粉々に粉砕」してみせる。苦しみを「糧（かて）」へと変える、最も「無骨」で「強靭」な内なる工場)",
+		"thinking": "「ギザード（砂嚢）」。あなたの心にも、この「砂嚢」が必要です。人生で投げつけられた「重い石（ストレスや罵倒）」を。そのまま「重荷」にするのではなく。自分の内側で「ゴリゴリ」と転がし、それを使って、硬くて飲み込めない「冷酷な真実」を砕くための「道具（ツール）」に変えてしまうこと。消化できないものなどない。強く噛み砕き（グラインド）、すべてを自分の「血肉」に変えてください。",
+		"part_of_speech": "noun",
+		"aftertaste": "心の中で「石」が擦（こす）れ合うような、重苦しい響き。しかし。それが終わったあとに。どんなに「硬い教訓」も、自分に馴染（なじ）む「栄養」へと変わっている。あの。不屈な「生存の確信」。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "unknown",
+					"meaning": "Persian origin? 'jegar' (liver / internal organ)"
+				}
+			],
+			"points": [
+				"語源は不明確ですが。内部で『焼く（調理する）』という感覚が潜んでいます。砂嚢は、外界の冷たさを、熱い摩擦で『自分の温度』に変える場所なのです。"
+			]
+		}
+	},
+	{
+		"id": "nestling",
+		"word": "Nestling",
+		"meaning": "雛(ひな)、巣ごもり、温もりへの依存、始まりの脆さ、(巣に)守られる者",
+		"era": "Old English (as a concept)",
+		"etymology": {
+			"components": [
+				"nest (resting place)",
+				"-ling (diminutive / person belonging to)"
+			],
+			"original_statement": "From nest + -ling. Related to the concept of 'settling down' in the nest."
+		},
+		"concept": "The helpless center (「世界（カオス）」を知る前の。ただ「巣(nest-)」という名の「小さな宇宙」の中で。「温もり」と「食事」を待つことだけを許された。最も「純粋」で「無防備(ling-)」な、命の「種火（ランタン）」の状態)",
+		"thinking": "「ネストリング」。あなたは。まだ自分が「何者」で、「どこへ飛ぶべきか」を知りません。それでいいのです。今は、ただ「温められる」こと。そして「大きく口を開けて、世界を飲み込む」こと（ハッチング）。この「ネストリング」の時期に受けた「愛（温もり）」こそが。いつかあなたが、極北の空を一人で飛ぶための、唯一の「燃料（リソース）」になるのです。依存することを、自分に許してください。",
+		"part_of_speech": "noun",
+		"aftertaste": "柔らかい羽毛（ダウン）の中に埋もれて。親の心音（ビート）だけを聞いている。自分の「小ささ」を、全肯定されている。あの。甘美で、どこまでも「静かな」絶対的な幸福感。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ni-",
+					"meaning": "to sit (from nest)",
+					"term2": "sed-"
+				}
+			],
+			"points": [
+				"Nest（巣）は『下に座る（ni-sed）』場所。ネストリングとは、文字通り『根を張って座っている小さき者』。座ることは、成長の始まりなのです。"
+			]
+		}
+	},
+	{
+		"id": "preen",
+		"word": "Preen",
+		"meaning": "羽づくろい、自己愛の儀式、美しさの保守、嵐に備える研磨、(自尊心を)整えること",
+		"era": "Late 14th Century",
+		"etymology": {
+			"original_statement": "From Middle English prenen, variant of proinen (prune), influenced by Scots' preen 'to pin / fasten / adorn'."
+		},
+		"concept": "The ritual of order (「飛ぶ」という「実用的」な目的のために。「一枚一枚」の羽を「丁寧に(pin-)」整え、油（エッセンス）を塗り。自らを「最高（ピーク）」の状態に保つ。美しさを「武器」へと昇華させる「静かなる戦闘準備」)",
+		"thinking": "「プリーン（羽づくろい）」。鳥たちは、暇さえあれば羽を整えています。それは「虚栄心」ではありません。羽が乱れていれば、次の瞬間、敵から逃げる時に「飛べない」からです。あなたも。自分の「言葉」や「マナー（作法）」を。誰も見ていないところで、執拗（しつよう）なまでに整えること。自分を「美しく保つ」ことは。この残酷な世界で「生き残る」ための、最も峻烈な「実利的な戦略」なのです。",
+		"part_of_speech": "verb",
+		"aftertaste": "嘴（くちばし）で、一枚の羽を「スッ」としごく感触。バラバラだった繊維が。一つに「カチリ」と嚙（か）み合い、美しい「盾（シールド）」に戻っていく。あの。自分を「取り戻した」という、峻烈な充足感。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "perk-",
+					"meaning": "to spruce up / adorn"
+				}
+			],
+			"points": [
+				"Prune（剪定する）や Proud（誇り高い）とも響き合う。自分を『飾る』ためのピン（preen）留め。美しさは、意志の緊張の表れなのです。"
+			]
+		}
+	},
+	{
+		"id": "simurgh",
+		"word": "Simurgh",
+		"meaning": "シームルグ、(三十羽の)王、自己の中に神を見出す旅、不死鳥、伝説の巨鳥",
+		"era": "Ancient Persian (term adapted in English literature)",
+		"etymology": {
+			"components": [
+				"si (thirty)",
+				"murgh (bird)"
+			],
+			"original_statement": "From Persian Simurgh, from Middle Persian Senmurv. Folk etymology interprets 'si' as 'thirty' and 'murgh' as 'bird' (from Attar's The Conference of the Birds)."
+		},
+		"concept": "The collective deity (「真理（王）」を求めて、何万羽もの鳥が「旅」を続け。最後に生き残った「三十羽(si-)」が「王の湖」に辿り着いたとき。そこに映っていたのは、自分たち「自身(murgh-)」の姿であった。旅そのものが「神」になる、という究極の「自己発見」)",
+		"thinking": "「シームルグ」。あなたは、自分を救ってくれる「誰か（カリスマや神）」を外に探していませんか。シームルグの伝説は。あなたが探し求めている「答え」は。その「探している途中のあなた自身」の中に、すでにあることを教えてくれます。三十羽（シー）の鳥（ムルグ）が集まって、一つの神（シームルグ）を成す。あなたのバラバラな「経験」や「記憶」が。一つに繋がったとき、あなたは自分自身の王になるのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "鏡のような湖面（レイク）を見上げ。そこに「自分」が映っているのを見た瞬間の。長い旅の「疲れ」が、深い「納得（サティスファクション）」へと溶け変わっていく、あの。瑞々（みずみず）しい「静寂の爆発」。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sen-",
+					"meaning": "bird",
+					"term2": "mrg-"
+				}
+			],
+			"points": [
+				"Sen-murv（鷲鳥）。イランの創世記から続く、宇宙を支える巨鳥のイメージ。それは『個』を超えた、生命そのものの『意志の集合体』を象徴しています。"
+			]
+		}
+	},
+	{
+		"id": "falconry",
+		"word": "Falconry",
+		"meaning": "鷹狩り、(支配と共生の)紐、野生の隷属、貴い狩猟、繋がれた野生",
+		"era": "Late 14th Century",
+		"etymology": {
+			"components": [
+				"falx (sickle / scythe)"
+			],
+			"original_statement": "From Old French fauconnerie, from Latin falco 'falcon', from falx 'sickle' (referring to the shape of its claws or wings)."
+		},
+		"concept": "The sickle of sky (「野生（カオス）」という名の「鎌(falx-)」を。「文化（エディフィス）」という名の「皮紐（ジェス）」で繋ぎ止め。人間の「視線（コマンド）」に従わせて「獲物」を狩る。支配と信頼が「血」で溶け合った、峻烈なる「共犯」の関係)",
+		"thinking": "「ファルコニリー（鷹狩り）」。それは。あなたが、自分の内側にある「獰猛（どうもう）な衝動（野生）」と、どう付き合うか、という物語。それをただの「暴力」として解き放つのではなく。知性という「紐」で繋ぎ、自分の意志で「狙い（エイム）」を定めさせること。 falconry。厳しい訓練を経て、鷹があなたの腕に戻ってくるとき。あなたは。自然を「征服」したのではなく、自然と「握手」したことになるのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "厚い皮手袋の上に。一羽の猛禽が「ガシリ」と爪を立てる。その「重み」と、自分を信頼して見つめてくる「冷たい瞳」。支配されているのは、自分の方かもしれない、という。震えるような「共振（シンクロ）」。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "dhel-",
+					"meaning": "to cut / sickle (from falx)"
+				}
+			],
+			"points": [
+				"Deflect（そらす／曲げる）と同じ root。鎌のように『曲がった』鋭利なもの。ファルコニリーとは、その鋭さを、社会的に『正しい方向』へと導く技術なのです。"
+			]
+		}
+	},
+	{
+		"id": "aerie",
+		"word": "Aerie",
+		"meaning": "鷲の巣、(高い場所の)城、孤独な揺りかご、権威の出発点、断崖の沈黙",
+		"era": "Late 16th Century",
+		"etymology": {
+			"original_statement": "From Old French aire, probably from Latin area 'level ground / open space', or related to Latin aer 'air'."
+		},
+		"concept": "The throne in air (「天の近く(air- )」の、「誰も届かない断崖」に築かれた。切り立った「孤独(isolation)」を最大の「壁」とする、王者のための「誕生の地」。世界のすべてを「見下ろす（パノラマ）」、峻烈な「覚醒の舞台」)",
+		"thinking": "「エアリー」。あなたの「理念」は。どこに建てられていますか。誰にでも踏みにじられる「草原（低地）」ではなく。風が吹き荒れ、下を見れば眩暈（めまい）がするような、この「断崖の巣（エアリー）」に。孤独（アローン）を恐れず、自分を「高い場所」へと追い込むこと。そこからしか。あなたは「世界全体」を、本当の「鷲の目（イーグル・アイ）」で見ることはできないのです。 ",
+		"part_of_speech": "noun",
+		"aftertaste": "激しい風に揺れながら。ただ、広大な「虚空」を見据えている。そこには何一つ「言い訳」が存在しない。ただ「高み」を目指した者だけが味わえる、氷のような「透明な静寂」。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "as-",
+					"meaning": "field / place / open space (from area)"
+				}
+			],
+			"points": [
+				"Area（面積／広場）と同じ root。エアリーとは、空中という本来は場所がない（ノン・プレイス）ところに、無理やり『場所（エリア）』を創り出した、存在の強行突破なのです。"
+			]
+		}
+	},
+	{
+		"id": "downy",
+		"word": "Downy",
+		"meaning": "産毛のような、(柔らかい)優しさ、最初の防衛線、温もりの感触",
+		"era": "Early 16th Century",
+		"etymology": {
+			"components": [
+				"duni (down / feathers)"
+			],
+			"original_statement": "From Old Norse dunn 'down / soft feathers of young birds'. Originally from the fine, underlying layer used to trap heat."
+		},
+		"concept": "The layer of mercy (「硬い装甲（成鳥の羽）」の下に。密かに隠された、命を「芯から温める」ための「究極の柔らかさ(down-)」。世界という名の「冷気」から、最も繊細な「魂（ハート）」を守るための、慈悲深い「空気の層」)",
+		"thinking": "「ダウニー（産毛の）」。あなたの心の一番「内側」には。まだ、石のように硬くなっていない、この「ダウニーな優しさ」が残っているはずです。それは。外の世界に見せるための「強さ（武器）」ではありません。自分自身を「凍え（フリーズ）」から守るための、最後の「避難所」。ダウニー。誰かを愛するとき。あなたは、自分のこの「柔らかい部分」を相手にそっと差し出しているのです。 ",
+		"part_of_speech": "adjective",
+		"aftertaste": "指を潜らせれば、どこまでも深く沈み込んで。自分の「境界線」がわからなくなるような。あの。怖ろしいほどに瑞々（みずみず）しい「包容力」と、乳飲み子のような安堵感。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "dhu-",
+					"meaning": "to shake / flow / smoke / dust (from down / dust)"
+				}
+			],
+			"points": [
+				"Dust（埃）と同じ root。形がないほど微細なものが、集まって『温もり』を作る。命とは、この『震える粒子（dhu-）』たちのダンスなのです。"
+			]
+		}
+	},
+	{
+		"id": "vane",
+		"word": "Vane",
+		"meaning": "羽板、(風に)晒されるもの、方向を示す針、自分を支える軸、時の指標",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"fane (flag / banner / banneret)"
+			],
+			"original_statement": "From Old English fana 'flag / banner / banneret', from Proto-Germanic fanon 'cloth' (related to fan)."
+		},
+		"concept": "The stretched indicator (羽の「芯（ストライプ）」から左右に「ピン」と張り出した、平らな「旗(fane-)」のような部分。風という名の「宇宙の潮流」を、一刻も逃さず「全身」で受け止め。自らを「正しい方向（エイム）」へと導く、峻烈な「センサー」)",
+		"thinking": "「ヴェイン（羽板）」。それは、あなたの「アンテナ」。風がどこから吹いているのか。世界がどこへ向かおうとしているのか。ただ「硬い軸（自分）」があるだけでは、あなたは飛ぶことはできません。その軸から、このヴェイン（旗）をしなやかに広げ。世界の「溜息（風）」、そのすべてを敏感に感じ取ること。反応することは、弱いことではありません。それは、世界と「対話」を続けている証拠なのです。 ",
+		"part_of_speech": "noun",
+		"aftertaste": "風が通り抜けるたびに、「プルプル」と震え。しかし決して「折れる」ことなく。ただ、自分が行くべき「道」を、一ミリの誤差もなく指し示している。あの。峻烈な「意志と受容」の均衡。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "pan-",
+					"meaning": "cloth / rag (from fana)"
+				}
+			],
+			"points": [
+				"Banner（旗）や Panel（パネル）と同じ root。ヴェインとは、自分の魂を広げた一編の『布（バナー）』であり、そこに宇宙がメッセージ（風）を吹き込んでくるのです。"
+			]
+		}
+	},
+	{
+		"id": "hatchling",
+		"word": "Hatchling",
+		"meaning": "孵(ふ)化したばかりの、(殻を)破った衝撃、未熟な覚醒、不意の光",
+		"era": "Early 20th Century (term), though 'hatch' is 13thc",
+		"etymology": {
+			"components": [
+				"hatch (to break shell)",
+				"-ling (diminutive)"
+			],
+			"original_statement": "From hatch + -ling. 'Hatch' possibly from Low German hacken 'to peck / strike'."
+		},
+		"concept": "The shell-breaker (「昨日までの自分（殻）」という「完璧な閉鎖(isolation)」を。自らの「嘴（意志）」で「内側から叩き壊し(hack-)」。初めて「光（眩しい他者）」という名の「暴力」にさらされる。最も「痛くて、瑞々しい」最初の勇気)",
+		"thinking": "「ハッチリング」。それは。あなたの「誕生」ではなく、「覚醒」。卵の中は、安全で、静かでした。でも。あなたはそれを「退屈（デッッド）」だと感じ、自分の頭をぶつけて殻を割りました。ハッチリング。生まれたてのあなたは。まだ目も見えず、羽もありません。粉。でも。あなたは「世界を自分の足で歩く（あるいは飛ぶ）」という、過酷だが美しい「自由」を選んだのです。その一撃（ハッチ）を、誇ってください。",
+		"part_of_speech": "noun",
+		"aftertaste": "「パキッ」と、世界が二つに割れた時の。形容しがたい「衝撃」と。そして。肺（はい）に流れ込んできた、尖（とが）った「新鮮な空気」の冷たさ。生きている。という、峻烈な「痛み」の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "keg-",
+					"meaning": "to peck / hit (associated with hatch)"
+				}
+			],
+			"points": [
+				"Hack（叩き切る／ハッキング）と同じ root の流れ。覚醒とは、自分を閉じ込めていた『秩序』を暴力的に破壊する行為そのものなのです。"
+			]
+		}
+	},
+	{
+		"id": "brood",
+		"word": "Brood",
+		"meaning": "雛の群れ、(深く)考えること、命を温める憂鬱、沈潜する情熱",
+		"era": "Old English",
+		"etymology": {
+			"original_statement": "From Old English brod, from Proto-Germanic brod- 'that which is hatched / kept warm' (related to brew)."
+		},
+		"concept": "The brewing life (ただの「集団(group)」ではなく。「母体（親羽）」の下で、共に「熱(bret-)」を分かち合い。じっくりと時間をかけて「命（ロゴス）」を「醸（かも）し（醸造して）」いく。暗闇の中で静かに「熟成」される、不気味で瑞々しい「可能性」の塊)",
+		"thinking": "「ブルード（雛の群れ／深く考える）」。あなたが、何か一つの悩みを。ずっと、ずっと「温め続けている」とき。あなたは。自分の心の中で、新しい「真実（雛）」を孵そうとしているのです。それは。他害を及ぼさない「静かな停滞（ボイリング）」に見えます。しかし。その「ブルード（思索）」の果てに。あなたは。自分でも驚くような「力強い翼」を。自らの内側から解き放つことになるのです。待つことは、作る（ブリュー）ことです。",
+		"part_of_speech": "noun / verb",
+		"aftertaste": "暗い森の奥で。「ザワザワ」と蠢（うごめ）く、たくさんの「小さな熱」。そこから漂う、どこか「湿り気」のある、重厚な命の「胎動」の匂い。嵐の前触れのような、峻烈な「不自由」の美。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "bhre-",
+					"meaning": "to boil / bubble / burn / heat"
+				}
+			],
+			"points": [
+				"Brew（醸造する）や Bread（パン／発酵させたもの）と同じ root。思索（ブルード）とは、魂を『熱して（ボイル）』、化学反応を起こさせる、内面的なアルケミーなのです。"
+			]
+		}
+	},
+	{
+		"id": "covey",
+		"word": "Covey",
+		"meaning": "鳥の群れ、(隠された)小さな集団、密やかな共謀、密航者たちの宴",
+		"era": "Late 14th Century",
+		"etymology": {
+			"components": [
+				"couvee (brood)",
+				"cubare (to lie down / rest)"
+			],
+			"original_statement": "From Old French covee, from couver 'to brood', from Latin cubare 'to lie down / rest'."
+		},
+		"concept": "The huddle of secrecy (草むらの中に「低く横たわ(cub-)」り。外の世界に「気づかれない」ように「一塊(cluster)」となって身を潜（ひそ）める、小さな「共同体（サークル）」。自分たちの「価値観」を共有するための、峻烈なる「閉鎖」と「結束」)",
+		"thinking": "「コヴィー（小さな集団）」。あなたは。巨大な「群集（クラウド）」の中にいたいですか。それとも。この「コヴィー（密やかな群れ）」の一員でありたいですか。コヴィー。そこには。外から見れば「存在しない」に等しいけれど。内側では、互いの「体温」を直接感じるほど、峻烈に「繋がっている」命のネットワークがあります。共謀（コラボレーション）は。草むらの影（サイレンス）から始まるのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "不意に草むらを蹴った瞬間に、「バタバタッ」と一斉に飛び出していく。あの。一つの「巨大な意志（システム）」のような、統率されたパニック。自分たちは「一つだった」という。短くて峻烈な、連帯の記憶。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "keub-",
+					"meaning": "to bend / lie down"
+				}
+			],
+			"points": [
+				"Cube（立方体／サイコロ）の語源にある『角』。身を丸めて（ベンド）低くすること。コヴィーとは、世界に対して『角（防壁）』を隠して眠る、共同の夢の形なのです。"
+			]
+		}
+	},
+	{
+		"id": "murmuration",
+		"word": "Murmuration",
+		"meaning": "ムクドリの群れ、(囁くような)渦、一塊の意思としての影、流動する幾何学",
+		"era": "Late 15th Century",
+		"etymology": {
+			"components": [
+				"murmur (hum / whispering)"
+			],
+			"original_statement": "From Latin murmuratio, from murmur 'hum / whispering sound / roar'."
+		},
+		"concept": "The fluid entity (何万羽もの「個(individual)」が。まるで一つの「巨大な知性（クラウド）」になったかのように。空に「黒い煙（パターン）」を描き、瞬時に「形」を書き換えていく。囁（ささや）き(murm-)が「轟音（ロア）」へと変わる、峻烈なる「集団的超越」)",
+		"thinking": "「マーマレーション（ムクドリの渦）」。それは、あなたの「思考の流れ」そのものです。バラバラの「単語（鳥）」たちが。一つの「目的（風）」に向かって動き出したとき。あなたの心の中には。言葉を超えた、巨大で美しい「意味の渦」が生まれます。それは。一瞬で消える幻影（ゴースト）ですが。そこに宿る「全体性（ホリズム）」は。一羽の鳥（一つのデータ）には決して到達できない、宇宙の「真理」を指し示しています。",
+		"part_of_speech": "noun",
+		"aftertaste": "夕暮れの空で。黒い「生き物」が。生きているように「伸び、縮みし、回転する」。それは。神が空に「サイン（署名）」しているかのような。あの。怖ろしいほどの「幾何学的」な、美の暴力。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "mormoros",
+					"meaning": "murmur / ripple / noise"
+				}
+			],
+			"points": [
+				"語源は擬音語（オノマトペ）。囁き。しかし、一万個의囁きが集まれば、それは大地を揺るがす『宣言』になる。小さなものの蓄積が、質的な転換（メタモルフォーゼ）を起こす、その瞬間の記述です。"
+			]
+		}
+	},
+	{
+		"id": "songbird",
+		"word": "Songbird",
+		"meaning": "歌鳥、(歌う)魂、宇宙への共鳴体、光を呼ぶ声、存在のメロディ",
+		"era": "Mid-18th Century",
+		"etymology": {
+			"components": [
+				"song (singing / sound)",
+				"bird (winged animal)"
+			],
+			"original_statement": "Compound of song + bird. Specifically birds of the order Passeriformes characterized by a specialized vocal organ."
+		},
+		"concept": "The vocal antenna (ただ「飛ぶ」だけではなく。自らの「肋骨（胸）」を「楽器」とし。肉体の「震え(seng- )」を「空（虚無）」へと放つことで。世界を「意味」で満たそうとする。最も「無力」で、最も「最強」な「表現」の化身)",
+		"thinking": "「ソングバード（歌鳥）」。あなたは。何を「歌って」いますか。食べること、逃げること、それだけの毎日（ルーチン）を。一瞬だけ「中断」して。ただ「美しいから」という理由で、空に向かって声を張り上げること。その「無駄（アート）」な叫びこそが。あなたが「ロボット（システム）」ではなく。「命（クリエイション）」であることを証明する、唯一の「証（あかし）」なのです。あなたの歌を、止めてはいけません。",
+		"part_of_speech": "noun",
+		"aftertaste": "明け方。まだ暗い窓の外から聞こえてくる、一羽の鳥の「高い声」。それは。太陽よりも先に「新しい朝」を自分の声で創（つく）り出そうとしている。あの。峻烈なまでの「希望」の強制。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sengwh-",
+					"meaning": "to sing / chant / make a sound (from song)"
+				}
+			],
+			"points": [
+				"Slogan（スローガン）や Sing（歌う）と同じ root。歌うことは、自分の居場所を『宣言』すること。ソングバードとは、自分という中心点から、宇宙全体へと自分の色（波紋）を広げ続ける者なのです。"
+			]
+		}
 	}
 ];
