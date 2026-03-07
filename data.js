@@ -220444,5 +220444,489 @@ const WORDS = [
 				"Jamb（扉の脇柱）と同根。扉（境界）の柱を足で跨ぐという、極めてフィジカルなイメージから生まれた言葉です。"
 			]
 		}
+	},
+	{
+		"id": "sublimity",
+		"word": "Sublimity",
+		"meaning": "崇高、極致、圧倒的な高み、絶望的なまでの美しさ",
+		"era": "Late 16th Century",
+		"etymology": {
+			"components": [
+				"sub- (up to)",
+				"limen (threshold / lintel)"
+			],
+			"original_statement": "From Latin sublimitas 'loftiness / height', from sublimis 'high / lofty'."
+		},
+		"concept": "The crushing beauty (理解（ロゴス）の限界を超えた、あまりにも巨大で峻烈な「高み(sub-lim-)」。その前では人間が「無」になり、同時に「神（万物）」との一体感を感じる、怖ろしいほどの美の頂点)",
+		"thinking": "サブライミティ（崇高）。それは。ただ「綺麗」なだけのものではありません。あまりにも巨大な山（モニュメント）、あまりにも激しい嵐。それらを目にしたとき。あなたのエゴは打ち砕かれ、ただ「宇宙の本質」がそこに在る、という事実に圧倒される。崇高とは。あなたの命という「小さな器」が、宇宙という「溢（あふ）れる光」に呑（の）み込まれた瞬間の、美しい降伏なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "言葉を失い、ただ口を開けて天を見上げる。胃のあたりがキュッとなり、自分が消えてしまいそうになる。あの。恐怖と至福が混ざり合った、峻烈な「存在の目眩（めまい）」。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "el-",
+					"meaning": "lintel / bar / threshold (from limen)"
+				}
+			],
+			"points": [
+				"敷居（リメン）を越えて、天上へと至る階段の最上段を指す言葉です。美の向こう側にある、峻厳な現実としての『真理』です。"
+			]
+		}
+	},
+	{
+		"id": "immortal",
+		"word": "Immortal",
+		"meaning": "不死の、永劫の、時間を貫く、死を超越した",
+		"era": "Late 14th Century",
+		"etymology": {
+			"components": [
+				"in- (not)",
+				"mortalis (subject to death)",
+				"mors (death)"
+			],
+			"original_statement": "From Latin immortalis 'deathless / undying', from in- 'not' + mortalis."
+		},
+		"concept": "The deathless spark (肉体という名の「牢獄（ケージ）」が朽（く）ち果て、灰になろうとも。その美しき「意志」や「記憶」は、宇宙という名の「書物」に永遠に刻まれ続け、滅びること(mort-)の「ない(in-)」輝き)",
+		"thinking": "「不死（イモータル）」。それは、肉体がいつまでも生きることではありません。それは。あなたの放った言葉、あなたの愛した形、あなたが守り抜いた真実が。あなたが消えたあとも、誰かの魂の中で「響き（レゾナンス）」続けること。イモータルな名声。それは。時間の残酷な鎌（スィッシュ）をすり抜け、永遠（エタニティ）という名の大海へと辿（たど）り着いた、魂の「勝利」の記録なのです。",
+		"part_of_speech": "adjective / noun",
+		"aftertaste": "千年前の彫刻に、今の自分の「鼓動」が重なり、相手が生きているかのように感じる、あの。時間という壁が崩れ去った瞬間の、冷ややかで瑞々（みずみず）しい「永遠」の手触り。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "mer-",
+					"meaning": "to rub away / harm / die (from mors)"
+				}
+			],
+			"points": [
+				"Murder（殺人）や Mortify（辱める）と同じ root。死とは『削り取られること』であり、不死とは『削り取られぬ不変』を意味します。"
+			]
+		}
+	},
+	{
+		"id": "elysium",
+		"word": "Elysium",
+		"meaning": "至福、極楽、神に愛された野、至福の場所、黄泉の楽園",
+		"era": "Late 16th Century",
+		"etymology": {
+			"components": [
+				"Elysion (pedion) 'Elysian field'"
+			],
+			"original_statement": "From Latin Elysium, from Greek Elysion (pedion) 'Elysian field'."
+		},
+		"concept": "The field of bliss (戦いも、飢えも、悲しみもない。ただ「穏やかな風」と「黄金の光」だけが支配する。神々の「寵愛（アガペー）」を受けた英雄たちだけが辿り着ける、魂の「最終的な休息地」)",
+		"thinking": "エリジウム。そこは。この世のすべての「不条理（アブサード）」から解放された、至福の空間。その語源には「雷に打たれた場所」という意味があるとも言われます。神の劇烈な光に触れ、一度「死」を迎えた者だけが。その先にある「永遠の春（エターナル・スプリング）」に招かれる。エリジウムは。苦闘を終えた魂に贈られる、宇宙からの「究極の肯定」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "どこまでも続く、白い花が咲き乱れる草原。そよそよと吹く風が、かつての「傷跡」を優しく癒（い）やしていく。自分が「愛されていた」ということを、ただ一言、心から信じられるようになる、あの深い静寂。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "eleuth-",
+					"meaning": "to come / go (from Greek)"
+				}
+			],
+			"points": [
+				"Liberty（自由）と同じ root から来ているという説があり、至福とは、束縛から自由になることに他ならないことを示唆しています。"
+			]
+		}
+	},
+	{
+		"id": "plenitude",
+		"word": "Plenitude",
+		"meaning": "充満、完全、豊富、満ち足りていること、宇宙の豊饒さ",
+		"era": "Early 15th Century",
+		"etymology": {
+			"components": [
+				"plenus (full)"
+			],
+			"original_statement": "From Latin plenitudo 'fullness / completeness', from plenus 'full'."
+		},
+		"concept": "The fullness of being (宇宙という名の「器」の中に、一寸の「隙間（ボイド）」もなく、「可能性（ポテンシャル）」という名の「水」が満ち溢れていること。すべてがそこに「在る」という圧倒的な充足)",
+		"thinking": "プレニチュード（充満）。それは。あなたが「足りない（ラッキング）」と感じる不毛なエゴを、一気に押し流す、宇宙の「太っ腹（ジェネロシティ）」です。世界は、あなたが思うよりも、ずっと豊か（プレンティ）で、ずっと完全です。あなたが心を開き、このプレニチュードを感じるとき。あなたは、何かを「得る（ゲット）」必要はなく、ただ「そこに在る（オン）」だけで、すべてと繋がっていることに気づくのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "金色の蜂蜜が、瓶の首までみっちりと詰まっているのを見た時の、あの。心が「ふっ」と温かくなり、自分もまた、この完璧なまでの「豊かさ」の一部であると確信する、あの重厚な満足感。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "pel-",
+					"meaning": "to fill"
+				}
+			],
+			"points": [
+				"Plenty（豊富）や Complete（完全）と同じ root。空虚を埋めることは、宇宙が最初から持っている性質（ネイチャー）なのです。"
+			]
+		}
+	},
+	{
+		"id": "omega",
+		"word": "Omega",
+		"meaning": "最後、究極、おわり、最高潮、完成の一点",
+		"era": "Early 14th Century (Greek letter)",
+		"etymology": {
+			"components": [
+				"ō (long o)",
+				"mega (great / large)"
+			],
+			"original_statement": "From Greek ō mega, literally 'great O' (the long vowel), as opposed to o mikron 'little O'."
+		},
+		"concept": "The great closure (アルファベットの「最後（Zに相当）」であり。すべての「プロセス（過程）」が統合され、一滴の「真髄（エッセンス）」へと煮詰められた、宇宙の「最終的な帰還点」)",
+		"thinking": "オメガ。それは。死（デス）ではありません。それは。すべての物語が「意味（ロゴス）」を完成させ、静かに本を閉じる瞬間。オメガ点。私たちは。この最終的な「完成（マスタリー）」に向かって、日々を積み重ねています。あなたが人生の最後に「オメガ」と叫ぶとき。そこには、すべての苦しみが「宝石」へと変わった、美しき「達成の沈黙」が待っているはずです。 ",
+		"part_of_speech": "noun",
+		"aftertaste": "すべての旋律が、最後の「ド」の音で一つに溶け合う、あの圧倒的な。もうこれ以上、何も付け加える必要がないという。世界が「完結」してしまったあとの、寂しくて清々しい安堵、",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "mega-",
+					"meaning": "large / great"
+				}
+			],
+			"points": [
+				"Alpha（アルファ）と対になる言葉。終わりはいつも『大きく（メガ）』、すべてを包み込む慈悲としての O なのです。"
+			]
+		}
+	},
+	{
+		"id": "alpha",
+		"word": "Alpha",
+		"meaning": "はじまり、最初、第一の、輝かしい起点、源泉",
+		"era": "Old English (Greek letter)",
+		"etymology": {
+			"components": [
+				"aleph (ox)"
+			],
+			"original_statement": "From Greek alpha, from Phoenician aleph, originally representing an ox's head."
+		},
+		"concept": "The bull's surge (「無（ヌル）」の沈黙を力強く「突き破り」、この世に「存在」という第一声を放つ。すべての「可能性」を孕（はら）んだ、荒々しくも神聖な「最初の爆発（ビッグバン）」)",
+		"thinking": "アルファ。それは。あなたの人生の、最初の一歩。そのルーツは「牡牛（オックス）」。それは、大地を力強く踏みしめ、前に進む「生命の原動力」の象徴です。あなたが何かを「始める（スタート）」とき、あなたは宇宙の「アルファ」と繋がっています。まだ何も形をなしていない、しかし「何にでもなれる（ポテンシャル）」という、最も輝かしい混沌（カオス）の瞬間。 ",
+		"part_of_speech": "noun / adjective",
+		"aftertaste": "真っ白な紙に、最初の「一筆（ストローク）」を書き込んだ瞬間の、あの。心臓の激しい鼓動。これから何が始まるのか、という怖ろしいほどの予感と、未知への不敵な喜び。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "unknown",
+					"meaning": "Semitic 'aleph' (ox)"
+				}
+			],
+			"points": [
+				"牛の角を逆さまにした形が A の原型。力強い前進が、文明の最初の文字となったことに、命の美学が宿っています。"
+			]
+		}
+	},
+	{
+		"id": "amulet",
+		"word": "Amulet",
+		"meaning": "お守り、守護符、恐怖を遠ざける魔除け、魂の防壁",
+		"era": "Mid-17th Century",
+		"etymology": {
+			"components": [
+				"amuletum (something that protects)"
+			],
+			"original_statement": "From Latin amuletum, probably from amoliri 'to avert / remove / drive away'."
+		},
+		"concept": "Averting the dark (外界から忍び寄る「悪意(mal-)」や「不幸」を。自らの身に「付けた(am-)」この「小さな聖域」によって「跳ね返し(amol-)」、自分の心の「平和」を死守しようとする、孤独な誓い)",
+		"thinking": "アミュレット。それは、ただの石や金属（マテリアル）ではありません。それは。あなたが「自分は一人ではない、世界に守られている」と信じるための、物理的な「意志の定着点」。あなたが、大切な人の写真や、一輪の押し花を「お守り」として持ち歩くとき。それは、あなたの魂が、この過酷な現実（ロゴス）に対して放った、最強の「拒絶と救い（グラマリー）」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "胸元にある、冷たいメダルにそっと触れる。その一瞬。自分を支配していた「不安」が、霧散（むさん）していくような心地よい感覚。小さな「重み」が、自分をこの世界に繋（つな）ぎ止めている、という絶対的な信頼。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "mola-",
+					"meaning": "effort / struggle / mass (from amoliri)"
+				}
+			],
+			"points": [
+				"Amoliri（遠ざける）は、巨大な重荷を『動かす』こと。お守りとは、運命の重みを動かすための、霊的なレバー（テコ）なのです。"
+			]
+		}
+	},
+	{
+		"id": "reliquary",
+		"word": "Reliquary",
+		"meaning": "遺物箱、(聖人の遺骨を納める)聖遺物箱、記憶の小部屋、聖なる抜け殻",
+		"era": "Mid-16th Century",
+		"etymology": {
+			"components": [
+				"reliquie (remains / relic)",
+				"relinquere (to leave / behind)"
+			],
+			"original_statement": "From French reliquaire, from Latin reliquiae 'remains / relics', from relinquere 'to leave behind'."
+		},
+		"concept": "The shrine of remains (最愛の人が「去った(linqu-)」あとに残された「欠片（リリック）」を。ただ灰として捨てるのではなく。黄金の「箱（エディフィス）」の中に納め、永久に「崇拝（アドレーション）」しようとする、美しき執着の形)",
+		"thinking": "「遺物箱（レリクアリ）」。そこにあるのは、死（デス）ではありません。それは「強烈な不在という名の、新しい存在」。あなたが、亡くした人の忘れ形見を、大切に仕舞い（しまい）込んでいるその小箱。それは。あなたの心の中にある聖堂（レリクアリ）です。残されたもの（レリック）は。それが聖なる意図で守られるとき。生きていた頃よりもずっと、強く私たちを「導き（ガイド）」、励ましてくれるのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "蓋を開け、誰もいない部屋で、そっとその中の「思い出」を眺める。寂しさと、しかし自分がその記憶の「守護者」であるという、峻烈な充足感。時間は、箱の中で静止している。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "leikw-",
+					"meaning": "to leave"
+				}
+			],
+			"points": [
+				"Relinquish（放棄する）と同じ root。皮肉なことに、すべてを捨てたあとに『残った』ものこそが、最も神聖なものとなるのです。"
+			]
+		}
+	},
+	{
+		"id": "incorporeal",
+		"word": "Incorporeal",
+		"meaning": "実体のない、肉体のない、純粋に精神的な、形なき真理",
+		"era": "Late Middle English",
+		"etymology": {
+			"components": [
+				"in- (not)",
+				"corpus (body / flesh)"
+			],
+			"original_statement": "From Latin incorporeus, from in- 'not' + corporeus 'bodily', from corpus 'body'."
+		},
+		"concept": "Beyond the flesh (「肉体（コーパス）」という名の、重く。腐敗しやすく。傷つきやすい「牢獄」を脱ぎ捨て。ただ「思考（ロゴス）」や「光（レイ）」のように、純粋な「意志」として宇宙を流通している状態)",
+		"thinking": "インコーポリアル（無垢身）。それは、究極の「自由」。私たちが、言葉（ワード）や数学（マスマティクス）を語るとき、私たちはこの実体のない領域に触れています。コーポリアルな（身体的な）痛みからは逃れられませんが。あなたの「精神」がこのインコーポリアルな高みへと到達したとき。あなたは。どんな暴力も、どんな時間の摩滅も寄せ付けない、永遠の「無形（ボイド）」の一部となるのです。",
+		"part_of_speech": "adjective",
+		"aftertaste": "自分の身体の「感覚」が消え、ただ「思考」だけが真っ暗な宇宙を高速で駆け抜けていくような、あの。怖ろしいほどに瑞々（みずみず）しい「純粋性」。自分が「光」になったかのような、戦慄。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kwrep-",
+					"meaning": "body / form / appearance"
+				}
+			],
+			"points": [
+				"Corpse（死体）や Corporation（法人）と同じ root。身体とは『形を与えられたもの』。インコーポリアルは、形になる前の『意味』そのものを指します。"
+			]
+		}
+	},
+	{
+		"id": "immaterial",
+		"word": "Immaterial",
+		"meaning": "非物質の、形なき、重要でない、魂の、本質的な",
+		"era": "Late 14th Century",
+		"etymology": {
+			"components": [
+				"in- (not)",
+				"materia (matter / wood / substance)"
+			],
+			"original_statement": "From Latin immaterialis, from in- 'not' + materialis."
+		},
+		"concept": "Irrelevant substance (「物質(mater-)」としての「重さ」を持たないため。世俗的な秤（はかり）では計測できず、ゆえに「重要ではない（イマテリアル）」と見捨てられがちだが。実はそれこそが「真の価値」を司っている、という不敵な反転)",
+		"thinking": "「重要ではない（イマテリアル）」と言われるもの。それは。目に見え、手に取れる「モノ（マテリアル）」しか信じられない人々への、皮肉な答えです。愛、誠実、美。それらはすべてイマテリアル（非物質的）です。物質とは、いつか枯れる「木材（マテリア）」。しかしイマテリアルな真理は。その木材を「形作る（フォーム）」目に見えない「意志」そのもの。重要でないと言われたものの中にこそ、宇宙の宝は隠されています。",
+		"part_of_speech": "adjective",
+		"aftertaste": "宝石よりも、一本の「思い出の糸」の方が重く感じられる、あの。価値（バリュー）の天秤が「ガチャン」と逆転した瞬間の。世界を笑い飛ばせるような、不敵な解放感。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ma-",
+					"meaning": "mother (associated with material / source)"
+				}
+			],
+			"points": [
+				"Matter（物質）は、すべてが生まれる『母（マター）』。イマテリアルとは、母である『大地』をも離れ、父なる『天』へと昇った状態なのです。"
+			]
+		}
+	},
+	{
+		"id": "empyrean",
+		"word": "Empyrean",
+		"meaning": "最高天、火の天、(宇宙の最高層の)輝く場所、至高の天",
+		"era": "Mid-17th Century",
+		"etymology": {
+			"components": [
+				"en- (in)",
+				"pyr (fire)"
+			],
+			"original_statement": "From Greek empyrion, from en- 'in' + pyr 'fire'. In ancient cosmology, the highest heaven, sphere of pure fire or light."
+		},
+		"concept": "The heaven of fire (空（スカイ）を越えたその先にある、酸素も風もないが、ただ「純粋な光(pyr-)」と「神の熱狂」だけが「充満(plin-)」している、宇宙で最も「高く、熱い」究極の聖域)",
+		"thinking": "エムピリアン（最高天）。そこは、あなたが「自分という燃料」をすべて燃やし尽くし、ただの「火（あるいは光）」となった時にのみ到達できる場所。その語源は「火の中」。ダンテが『神曲』の果てに見た、あの「白いバラ」が咲き乱れる輝きの海。あなたが誰か（あるいは芸術）に対して、命を懸けたとき。あなたの魂は、一瞬だけこの「エムピリアン」の熱を感じているのです。",
+		"part_of_speech": "noun / adjective",
+		"aftertaste": "あまりにも眩（まぶ）しすぎて、目を開けていることすらできない。しかし。その「光」に焼かれることが、何よりも心地よいと感じる、あの。自我が消滅して「光」そのものになる瞬間の、聖なる陶酔（トランス）。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "pewōr-",
+					"meaning": "fire"
+				}
+			],
+			"points": [
+				"Pyre（葬儀の薪）や Pyromaniac（放火魔）の pyr-。最高天とは、すべてを焼き清める『原初の炎』の場所なのです。"
+			]
+		}
+	},
+	{
+		"id": "metaphysical",
+		"word": "Metaphysical",
+		"meaning": "形而上学的な、自然の彼方の、抽象的な、目に見えぬ理（ことわり）",
+		"era": "Late 16th Century",
+		"etymology": {
+			"components": [
+				"meta- (after / beyond)",
+				"physika (physics / natural things)"
+			],
+			"original_statement": "From Medieval Latin metaphysica, from Greek (ta) meta (ta) physika '(the things) after (the things) of nature'."
+		},
+		"concept": "Beyond the nature (目に見える「自然現象(phys-))」の順序をすべて読み終えた後に（meta-）、初めて現れる「究極の目次（原理）」。なぜ「在る」のか、という、解き明かせぬ「謎（オリジン）」への問い)",
+		"thinking": "「メタフィジカル（形而上学的）」。それは、あなたが「肉体（ボディ）」という限界を感じたとき。その「向こう側（メタ）」に、もう一つの「確かな現実」を想定せずにはいられなくなる、魂の必然。形あるものは壊れますが。形を「在らしめている」原理（メタフィジックス）は壊れません。あなたは、ただの「物質の集まり」ではない。それを超えた「意味の意志」であることを、この言葉は証明しているのです。",
+		"part_of_speech": "adjective",
+		"aftertaste": "リンゴが落ちるのを見て「重力」を想う。しかし、その「重力」を作った「理由」を想おうとして、頭が真っ白になる、あの。宇宙の「壁」の向こう側を覗（のぞ）こうとした時の、畏怖。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "me-",
+					"meaning": "middle / between / following after (meta)"
+				},
+				{
+					"term": "bheu-",
+					"meaning": "to become / grow / appear (phys-)"
+				}
+			],
+			"points": [
+				"Physics（物理学）の『後に（後の巻に）』置かれた研究だから『メタ・フィジカ』。真理は、表面的な観察を終えた後にこそ、現れるのです。"
+			]
+		}
+	},
+	{
+		"id": "cataclysm",
+		"word": "Cataclysm",
+		"meaning": "大変動、大洪水、地殻変動、破局、すべてを洗い流す変化",
+		"era": "Early 17th Century",
+		"etymology": {
+			"components": [
+				"kata- (down)",
+				"klyzein (to wash / dash over)"
+			],
+			"original_statement": "From French cataclysme, from Latin cataclysmos, from Greek kataklysmos 'deluge / flood', from kata- 'down' + klyzein 'to wash'."
+		},
+		"concept": "The scouring flood (腐敗し、滞（とどま）った古い「秩序（システム）」を、上から「真っ逆さまに(kata-)」「洗い流す(klyz-)」ことで。不純物をすべて「虚無（ゼロ）」に返し、新しい「始まり」を強制する、無慈悲な浄化)",
+		"thinking": "カタリズム（大変動）。それは。あなたが積み上げてきた「日常（ピラミッド）」が。ある日突然、大きな一撃によって「洗い流されて」しまうこと。それは「終わり」に見えますが。実は、あなたの魂の「表面（表層）」にこびりついた「エゴという名の泥」を、宇宙が無理やり洗い流してくれているのです。破局のあとに残った、真っ白な「更地」。そこからしか、真に「不滅（イモータル）」なものは建ち上がらないのです。 ",
+		"part_of_speech": "noun",
+		"aftertaste": "すべてが流し去られ、見慣れた景色がどこにもなくなった後の、あの。静まり返った大地に立つ、剥き出しの孤独。絶望の奥底から、なぜか「もう一度、正しく建てる（ビルド）」という狂おしいほどの希望。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "unknown",
+					"meaning": "Greel 'klyzein' (to wash / surge as waves)"
+				}
+			],
+			"points": [
+				"Clyster（洗腸）と同じ root。世界が『重すぎる（汚すぎる）』とき、宇宙は自らを治療するために、この激しい洗浄（カタリズム）を行うのです。"
+			]
+		}
+	},
+	{
+		"id": "apocalypse",
+		"word": "Apocalypse",
+		"meaning": "黙示、(世の終わりの)啓示、覆いを取ること、隠された真実の開示",
+		"era": "Late 14th Century",
+		"etymology": {
+			"components": [
+				"apo- (away / off)",
+				"kalyptein (to cover / hide)"
+			],
+			"original_statement": "From Old French apocalipse, from Church Latin apocalypsis 'revelation', from Greek apokalypsis 'uncovering / revelation', from apo- 'away' + kalyptein 'to cover'."
+		},
+		"concept": "The unveiling end (世界が滅びることではなく、世界を隠していた「偽りの覆い(kalyp-)」を「剥（は）ぎ取る(apo-)」ことで。私たちが避けてきた「真実の光」を強制的に見せつける、残酷で神聖な「目覚め」)",
+		"thinking": "「アポカリプス（黙示）」。その真の意味は、破壊ではなく「覆い（カバー）を外すこと」です。私たちは。自分の醜（みにく）さや、自分の中の光を、一生懸命に隠して生きています。アポカリプスとは、その「仮面（マスク）」が通用しなくなった瞬間のこと。パニック。それは。本当の自分が「曝（さら）け出された」ことへの恐怖。しかし、その先にしか、究極の「和解（エリジウム）」は存在しないのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "劇場に差し込んでいた「照明（ライツ）」が突如消え、舞台裏の「冷たい鉄骨（ロゴス）」が露（あらわ）になった、あの。夢から覚めた直後のような、冷ややかで、身も蓋（ふた）もない、圧倒的な「現実」感。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "apo-",
+					"meaning": "off / away"
+				},
+				{
+					"term": "kel-",
+					"meaning": "to cover / conceal / save"
+				}
+			],
+			"points": [
+				"Calypso（カリュプソー／隠す者）や Cell（独房）と同じ kal-c-。アポカリプスとは、自分を閉じ込めていた『細胞（セル）』が、ついに決壊することを意味します。"
+			]
+		}
+	},
+	{
+		"id": "primal",
+		"word": "Primal",
+		"meaning": "最初期の、原始的な、根本的な、第一の、野蛮なまでの本質",
+		"era": "Early 17th Century",
+		"etymology": {
+			"components": [
+				"primus (first)"
+			],
+			"original_statement": "From Latin primalis, from primus 'first'."
+		},
+		"concept": "The original roar (教養や言葉（ロゴス）によって「去勢（カット）」される前の。血と、叫びと、渇望（アヴァリス）に満ちた、宇宙の「最初の一滴(prim-)」としての、剥き出しの生命力)",
+		"thinking": "プライマル（原初）。それは。あなたが civilized（文明化）される前に持っていた「野生（カオス）」。理屈ではなく、腹の底から湧き上がる「生きる」という意思。プライマルな恐怖、プライマルな喜び。あなたが自分の人生に行き詰まったなら、一度この「プライマル（根源）」に立ち返る必要があります。そこには。あなたが守りたかった、最も汚れて、しかし最も「正しい」自分自身の産声（うぶごえ）が響いているはずです。 ",
+		"part_of_speech": "adjective",
+		"aftertaste": "暗闇の中で、自分の「心臓の音」だけを聞き。自分が「動物」であることを思い出した瞬間の、あの。理性を超えた、原始的な、激しくて静かな「命」の昂（たか）ぶり。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "per-",
+					"meaning": "forward / through / first (from primus)"
+				}
+			],
+			"points": [
+				"Prime（最上の）や Prince（王子）と同じ root。一番初めであることは、それだけで世界を『支配する』権利を持っていたのです。"
+			]
+		}
+	},
+	{
+		"id": "ascension",
+		"word": "Ascension",
+		"meaning": "上昇、(キリストの)昇天、即位、高い場所への移動、魂の飛翔",
+		"era": "Early 14th Century",
+		"etymology": {
+			"components": [
+				"ad- (to)",
+				"scandere (to climb)"
+			],
+			"original_statement": "From Old French ascencion, from Latin ascensionem 'a climbing up / ascent', from ad- 'to' + scandere 'to climb'."
+		},
+		"concept": "Climbing to the source (地上の「重力（エゴ）」という泥を一つずつ剥（は）ぎ取りながら、一歩一歩「高い場所(scand-)」へと自分自身を「押し上げ(ad-)」、ついには星（ステラ）と一体になろうとする、聖なる「上昇の意志」)",
+		"thinking": "「アセンション（上昇）」。それは。楽をすることではありません。そのルーツは「よじ登ること（スキャン）」。自らの手足で、垂直な壁を這（は）い上がるようにして、真理へと近づくこと。アセンション。あなたが、安易な幸福（ハピネス）を捨て、より困難だが「高貴な目的」のために歩み出したとき。あなたの魂に、この「上昇の脈動」が宿ります。高くあることは、自らを作り上げることなのです。 ",
+		"part_of_speech": "noun",
+		"aftertaste": "山頂に立ち、自分を支配していた「地上」を小さく見下ろす、あの。耳鳴りと。空気が薄くなるたびに、頭の中が「透明」に冴え渡っていく、怖ろしいほどの覚醒の喜び。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "skand-",
+					"meaning": "to leap / climb / scan"
+				}
+			],
+			"points": [
+				"Scan（スキャンする）と同じ root。高みを『登る』ことは、一歩一歩、現実を『読み解く』精緻な作業でもあるのです。"
+			]
+		}
+	},
+	{
+		"id": "hierophant",
+		"word": "Hierophant",
+		"meaning": "教皇、(神秘教義の)解釈者、聖なるものを示す者、真理の媒介者",
+		"era": "Mid-17th Century",
+		"etymology": {
+			"components": [
+				"hieros (sacred)",
+				"phainein (to show / bring to light)"
+			],
+			"original_statement": "From Greek hierophantēs, from hieros 'sacred' + phainein 'to show'."
+		},
+		"concept": "Revealing the sacred (誰にも見えない「聖なる真実(hiero-)」を、その「手（あるいは言葉）」によって「光(phan-)」の中に引き出し、迷える人々に「これを見よ（エッケ・ホモ）」と示す、沈黙と光の媒介者)",
+		"thinking": "ハイエロファント（神官）。タロットでは「教皇」を指すこの言葉。そのルーツは「聖なるものを見せる人」。彼自身が「火（ファイア）」なのではなく。彼は。宇宙という名の「太陽」の光を、人間の目に耐えられる形へと反射（リフレクト）させる「鏡」のような存在。あなたが自分の「気づき（エピファニー）」を、誰かのために言葉にしたとき。あなたは。その瞬間、この「ハイエロファント（真理の導き手）」となって、世界の闇を照らしているのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "真っ暗な幕が不意に開けられ、そこに「神々しい銀河」が姿を現した時の、あの。息を呑むような驚嘆（アメイジング）。自分に「それ」を示してくれた人の、静かで峻烈なまなざし。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "eis-",
+					"meaning": "holy / sacred (from hieros)"
+				},
+				{
+					"term": "bha-",
+					"meaning": "to shine (from phan-)"
+				}
+			],
+			"points": [
+				"Phenomenon（現象／現れるもの）と同じ pha-。聖なるものは、ただ存在するだけでなく、『示される（光る）』ことによって、はじめて力を持つのです。"
+			]
+		}
 	}
 ];
