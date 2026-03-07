@@ -224243,5 +224243,550 @@ const WORDS = [
 				"Topos（場所）と Soil（大地の底）。表土（トップソイル）とは、天と地が『キス』をした瞬間に生まれる、最も瑞々しい奇跡の記述なのです。"
 			]
 		}
+	},
+	{
+		"id": "hemlock",
+		"word": "Hemlock",
+		"meaning": "ドクニンジン、(命を断つ)知恵、冷たい選択、思考の停止としての死",
+		"era": "Old English",
+		"etymology": {
+			"original_statement": "From Old English hymlice. Origin uncertain, but long associated with the cold, numbing poison used in execution."
+		},
+		"concept": "The philosopher's cup (「肉体」という名の「牢獄（プリズン）」から、自らの「魂（ロゴス）」を解放（リセット）するために。あえて「冷たい沈黙（毒）」を飲み干す。理性による「死の受容（アクセプタンス）」の象徴)",
+		"thinking": "「ヘムロック（ドクニンジン）」。ソクラテスがその杯を飲み干したとき。それは単なる「自殺」ではありませんでした。それは。真理のために「生きる」ことができない世界ならば、潔（いぎよ）く「死」を選ぶという、知性の極限の「プライド」。あなたが、自分の信念のために、社会的な「死（沈黙）」をあえて受け入れるとき。あなたの手には、この気高くも怖ろしいヘムロックの杯が握られているのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "指先から、ゆっくりと「冷たさ」が這（は）い上がってきて。最後に「心臓」が、静かな湖の底のように動きを止める。あの。怖ろしいほどの「冷静さ」と。そして、すべてから自由になったという、峻烈な解放感。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "unknown",
+					"meaning": "hymlice (Old English)"
+				}
+			],
+			"points": [
+				"語源は謎に包まれていますが、その植物の『空洞（ホロウ）』の茎が、死への入り口を象徴している、という民俗学的な解釈が存在します。"
+			]
+		}
+	},
+	{
+		"id": "arsenic",
+		"word": "Arsenic",
+		"meaning": "ヒ素、男勝りの毒、強力な、静かなる暗殺者、色の魔力",
+		"era": "Late 14th Century",
+		"etymology": {
+			"components": [
+				"arsenikon (masculine / potent)"
+			],
+			"original_statement": "From Old French arsenic, from Latin arsenicum, from Greek arsenikon 'yellow orpiment', from Persian zarnik 'golden', later associated with Greek arsenikos 'masculine / potent' due to its strength."
+		},
+		"concept": "The masculine force (「金（ゴールド）」に似た「美しき黄色（zarnik-）」を装（よそお）いながら。その内側に「男性的(arsen-)」な、圧倒的な「破壊力（ポテンシャル）」を秘めた、最も「冷酷」で「華やか」な死の変成（トランスミュート）)",
+		"thinking": "「アーセニック（ヒ素）」。そのルーツは「男性的な、強力な」。かつては「王の毒、毒の王」と呼ばれました。透明で、無味無臭。しかし、確実に命の「歯車」を止める。あなたが、あまりにも「純粋」すぎて。逆に周りの人々を傷つけ、破滅（ロス）させてしまっているとき。あなたの存在は、このアーセニックのような、美しき「猛毒（ポイズン）」となっているのかもしれません。",
+		"part_of_speech": "noun",
+		"aftertaste": "「緑色のドレス（パリ・グリーン）」が、実はヒ素で染められていた、という歴史の皮肉。美しさに魅了（チャーム）された瞬間に。死の種が自分の「皮膚」からじわじわと入り込んでいる、というあの。峻烈な戦慄（せんりつ）。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ar-sen-",
+					"meaning": "male / manly / strong"
+				}
+			],
+			"points": [
+				"人間に力を与えるための薬（微量）が、最大量では命を奪う。毒と薬の境界線は、常に『量（スケール）』にあることを教えてくれます。"
+			]
+		}
+	},
+	{
+		"id": "tincture",
+		"word": "Tincture",
+		"meaning": "チンキ、(魂の)抽出液、色づけること、溶かし出された本質、微かな響き",
+		"era": "Late 14th Century",
+		"etymology": {
+			"components": [
+				"tingere (to dye / stain / soak)"
+			],
+			"original_statement": "From Latin tinctura 'a dyeing', from tingere 'to dye / stain / soak'."
+		},
+		"concept": "The infused essence (「硬いマテリアル（植物の体）」を、アルコールという名の「情熱（エッセンス）」の中に「浸（ひた）し(ting-)」。そこから「真理（色）」をじわじわと「溶かし出し」た、最も「純粋」で「強い」生命の凝縮体)",
+		"thinking": "「チンクチャー（チンキ）」。それは、あなたの「経験」を「智慧（ちえ）」に変えるプロセスです。ただ生きる（マテリアル）のではなく。自分の時間を、深い内省（アルコール）の中に浸し、そこから自分だけの「色（本質）」を抽出すること。一滴（ドロップ）で世界を染めてしまうほどの、強靱（きょうじん）な自分。チンキ。あなたが苦難を乗り越えて得たその「答え」は。宇宙を癒すための「秘薬（エリクサー）」になるのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "瓶の中に、植物の「命の色」が真っ黒なまでに凝縮（コンデンス）されている。それを一滴、水に落とした瞬間に、パーッと「霧」のように広がっていく。あの。存在の「拡散」と、峻烈な「影響力」。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "teng-",
+					"meaning": "to dip / moisten"
+				}
+			],
+			"points": [
+				"Stain（汚れ）や Tint（色合い）と同じ root。本質を溶かす（染める）ことは、同時に世界を汚す（変える）ことでもあるのです。"
+			]
+		}
+	},
+	{
+		"id": "emetic",
+		"word": "Emetic",
+		"meaning": "催吐剤、(内なるものを)吐き出させるもの、強制的な浄化、拒絶の衝動",
+		"era": "Mid-17th Century",
+		"etymology": {
+			"components": [
+				"emein (to vomit)"
+			],
+			"original_statement": "From Greek emetikos, from emein 'to vomit'."
+		},
+		"concept": "The total rejection (自分を「毒」から守るために。「内側」に溜（た）まった「不純物（ノイズ）」を。自らの「肉体」を「裏返し」てでも「外（アウト）」へと「叩き出す」。激動という名の「峻烈な清掃」)",
+		"thinking": "「エメティック（催吐剤）」。それは、あなたの「良心（ロゴス）」の最後の防衛線です。嘘や汚れを飲み込んでしまい、心が苦しくてたまらないとき。あなたは。あえて「自分という存在を激しく揺さぶり（エメシス）」、すべてを吐き出さなければなりません。浄化は。決して美しい儀式（プロトコル）ではありません。それは、涙と汗にまみれた、最も「血生臭く、誠実な」自己否定なのです。",
+		"part_of_speech": "noun / adjective",
+		"aftertaste": "胃の底から、すべてを「投げ出した」あとの。喉（のど）が焼けるような痛みと。そして。自分の内側が「空っぽ（ゼロ）」になった瞬間の、あの。怖ろしいほどの「軽さ」と、清々（すがすが）しい「新生」の予感。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "wem-",
+					"meaning": "to spit / vomit"
+				}
+			],
+			"points": [
+				"Vomit（吐く）と同じ root。出すことは、守ること。宇宙の秩序を保つために、自分に合わないものを『投げ出す』力が必要なのです。"
+			]
+		}
+	},
+	{
+		"id": "purgative",
+		"word": "Purgative",
+		"meaning": "下剤、峻烈な清算、自分を空っぽにする儀式、(地の)洗浄",
+		"era": "Late 14th Century",
+		"etymology": {
+			"components": [
+				"purgare (to cleanse / purify)"
+			],
+			"original_statement": "From Latin purgativus, from purgare 'to cleanse'."
+		},
+		"concept": "The downward clearance (「過去」という名の「停滞(waste)」を。自らの「奥底（深奥）」から「強引に、かつ徹底的に」洗い流し(purg-)。自らを「空洞（チューブ）」へと還元（リダクション）することで、新しい「未来」を受け入れるための「器（スペース）」を作る、峻烈な「リセット」)",
+		"thinking": "「パージティブ（清算する／下剤の）」。そのルーツは「純粋(pure)にすること」。停滞は、死です。あなたが。自分の古い習慣や、腐（くさ）りゆく記憶を。痛み（ペイン）を伴ってでも「手放（てばな）す」ことを選ぶとき。あなたは、このパージティブな「地の洗浄」を行っています。出すことは、入れることよりもずっと「勇気」が必要。空っぽになることは、再び「神」に選ばれるための、絶対的な条件なのです。",
+		"part_of_speech": "adjective / noun",
+		"aftertaste": "激しい「腹痛（ストラグル）」のあとに訪れる。文字通り「自分の中に、何一つ残っていない」という。透明で。そして峻烈な「不在」の美学。もはや。何者をも恐れる必要がない、という絶対的な「虚（うろ）」。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "peu-",
+					"meaning": "to purify / cleanse"
+				}
+			],
+			"points": [
+				"Pure（純粋な）や Purge（粛清／追放）と同じ root。純粋さは、激しい排除という戦いの果てに、ようやく手に入るものなのです。"
+			]
+		}
+	},
+	{
+		"id": "nostrum",
+		"word": "Nostrum",
+		"meaning": "秘薬、(自称)特効薬、我らの手による救い、偽りの万能薬、信じる心",
+		"era": "Early 17th Century",
+		"etymology": {
+			"components": [
+				"noster (our / ours)"
+			],
+			"original_statement": "From Latin nostrum (neuter singular of noster 'our'), meaning 'our (own) remedy', implying it's a secret formula known only to the preparer."
+		},
+		"concept": "The subjective cure (「公式（ロゴス）」ではない。ただ「我々(nostrum-)」だけが知っている「秘密の調合法（ストーリー）」を。藁（わら）をも掴む思いの他者に「手渡す」。嘘(fake)と誠(truth)が紙一重で溶け合った、愛という名の「まやかし」)",
+		"thinking": "「ノストラム（秘薬）」。その意味は「我々のもの」。他人がどう言おうと。私とあなたの間だけで効く「魔法の言葉」や「お守り」があります。それは、医学的には何の意味もない「砂糖の塊」かもしれません。しかし。それを「我々の救い（ノストラム）」と信じたとき、奇跡（ミラクル）は起きます。世界を救うのは「客観的な真実」ではなく。二人の間の「密やかな信頼」である、という救済の記述。 ",
+		"part_of_speech": "noun",
+		"aftertaste": "誰も教えてくれない。自分たちだけで作り上げた「不格好な薬」。それを飲んだ瞬間に、心の中に「スーッ」と染み渡る、あの。自分たちだけの「共犯関係」がもたらす、奇妙なまでの安心感。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "nos-",
+					"meaning": "we (plural)"
+				}
+			],
+			"points": [
+				"We（我々）の root。ノストラムとは、孤独な個人ではなく『我々という絆』が病を治すのだ、という社会的な祈りの形なのです。"
+			]
+		}
+	},
+	{
+		"id": "theriac",
+		"word": "Theriac",
+		"meaning": "テリアカ、万能解毒剤、野獣への薬、混ぜ合わせの極致、幻想の治癒",
+		"era": "Mid-16th Century",
+		"etymology": {
+			"components": [
+				"theriakon (pertaining to wild beasts)",
+				"ther (wild beast)"
+			],
+			"original_statement": "From Greek theriakon, from theriakos 'pertaining to wild beasts', from ther 'wild beast' (as it was originally an antidote for venomous bites)."
+		},
+		"concept": "The beastly complex (あらゆる「野獣（毒/theri-）」に対抗するため。何十種類もの「薬草（ロゴス）」を。もはや「正体」がわからなくなるまで「混ぜ合わせ（ミックス）」、一つの「超越的な黒い泥」へと変成させた、人間の「不安」が生んだ究極の「アンサンブル」)",
+		"thinking": "テリアカ。それは「何にでも効く」と信じられた、毒蛇の肉さえ混ぜ込まれた、中世の万能薬。一人の人間が持つ、死への「根源的な恐怖（パニック）」を。あらゆる「知恵の集大成（テリアカ）」によって鎮（しず）めようとすること。あなたが、あらゆる情報を検索し、自分の不安を埋め尽くそうとしているとき。あなたは、心の中に現代の「テリアカ」を調合しています。複雑さは、時に安心を連れてくるのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "ドロリとした、苦くて。何とも言えない「複雑（カオス）」な匂いのする薬。それを飲み込んだときに。自分の内側に眠る「野獣」が、しぶしぶと「眠り（スランバー）」についた、あの。安堵と少しの「不透明感」。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ghwer-",
+					"meaning": "wild beast / fierce (from ther)"
+				}
+			],
+			"points": [
+				"Fierce（獰猛な）や Deer（鹿／かつての獣の総称）と同じ root。テリアカとは、自分の中の『獣性』を、獣をもって制する、自然界の均衡（バランス）の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "mithridate",
+		"word": "Mithridate",
+		"meaning": "ミトリダテス、毒への抵抗力、(毒を)飲み続ける強靭、王の耐性、毒を肉体化すること",
+		"era": "Mid-16th Century",
+		"etymology": {
+			"components": [
+				"Mithridates (King of Pontus)"
+			],
+			"original_statement": "Named after Mithridates VI, King of Pontus, who supposedly made himself immune to poison by taking small, increasing doses."
+		},
+		"concept": "The habitual immunity (「毒」を「外敵」として拒絶するのではなく。あえて「微量ずつ」自らに「摂取(intake)」し続けることで。自分の「肉体」そのものを「毒と共生する城壁」へと「改造（リビルド）」した、峻烈なまでの「適応（アダプテーション）」)",
+		"thinking": "「ミトリダテス」。ポントス王ミトリダテスは。暗殺を恐れるあまり、毎日少しずつ毒を飲み続けました。その結果、彼はどんな毒でも死なない体を手に入れました。あなたが、世の中の「不条理」や「悪（毒）」に日々さらされながら。それでも壊れることなく、一歩ずつ「強く」なっているとしたら。あなたは。自分だけの「ミトリダテス的な強さ」を、今この瞬間も、細胞の中に刻み込んでいるのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "かつて自分を「殺そう」としたはずの毒が。今は、血液（ブラッド）の中で穏やかに眠り、自分を「守って」くれている、という。あの。不敵で瑞々（みずみず）しい「毒との和解（ハーモニー）」。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "unknown",
+					"meaning": "Theophoric name 'Mithra-data' (Given by Mithra)"
+				}
+			],
+			"points": [
+				"光の神 Mithra から名付けられた王の名前が、『毒への耐性』を指す言葉になった。神に守られることは、毒にすら打ち勝つ力を得る、という古代の王の肖像です。 "
+			]
+		}
+	},
+	{
+		"id": "pharmacopoeia",
+		"word": "Pharmacopoeia",
+		"meaning": "薬局方、治癒の経典、薬を作る論理、(救いの)台帳、秩序ある調合",
+		"era": "Early 17th Century",
+		"etymology": {
+			"components": [
+				"pharmakon (drug / poison / charm)",
+				"poiein (to make)"
+			],
+			"original_statement": "From Modern Latin pharmacopoeia, from Greek pharmakopoiia 'art of preparing drugs', from pharmakon 'drug' + poiein 'to make'."
+		},
+		"concept": "The making of charms (「毒(pharmakon-)」を「薬」へと反転（トランスポーズ）させるための。厳格な「分量」と「手順」を。一字一句揺るぎない「掟（ロゴス）」として「作り上げた(poie-)」、救済のために「磨き抜かれた」知の方典)",
+		"thinking": "「ファーマコポイア（薬局方）」。救うためには、まず「書く」必要があります。曖昧な「癒やし」ではなく。何グラムの毒が、何グラムの救いになるのか、という冷徹な「記述（ディスクリプション）」。あなたが、自分の「心の癒やし方」を、自分なりの「ルール（ルーチン）」として確立したとき。あなたは。自分自身のファーマコポイア（救いの書）の、最初の一頁を書き終えたのです。Poiein（作る）。救いは、あなたが「作る」ものなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "分厚い。革表紙の（あるいはデジタルの）厳格な台帳。そこから漂う、救いへの「執念」と。一ミリの誤差も許さない、という「科学（あるいは祈り）」の峻烈なまでの清涼感。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "unknown",
+					"meaning": "pharmakon (drug / charm / spell)"
+				},
+				{
+					"term": "kwei-",
+					"meaning": "to make / build (from poiein)"
+				}
+			],
+			"points": [
+				"Poem（詩）と同じ root（poiein）。薬を作ることは、詩を編むことと同じ。混沌から『形』と『意味』を創り出す、魂の救済プロセスなのです。"
+			]
+		}
+	},
+	{
+		"id": "pestle",
+		"word": "Pestle",
+		"meaning": "乳棒、(叩き)壊す意志、本質を剥き出しにする棒、抵抗の粉砕",
+		"era": "Mid-14th Century",
+		"etymology": {
+			"components": [
+				"pistillum (pestle)",
+				"pinsere (to pound / crush)"
+			],
+			"original_statement": "From Old French pestel, from Latin pistillum 'pestle', from pinsere 'to pound / crush'."
+		},
+		"concept": "The driving crush (素材が持つ「表面の防壁（殻）」を。重力と「垂直の一撃(pistil-)」によって粉々に打ち砕き。その「芯」に隠された「薬効（エッセンス）」を無理やり「引きずり出す」。暴力的で「慈悲深い」破壊)",
+		"thinking": "「ペッスル（乳棒）」。それは。あなたの「誠実な暴力」です。ただ触れるだけでは、真実は出てこない。あなたが、自分の「古い偏見」や「硬い殻」を。このペッスルのような強い意志で「粉々に砕（くだ）き」始めたとき。そこから初めて、人を癒す「香り（本当の自分）」が漂（ただよ）い出します。砕くことは、殺すことではありません。それは。新しい「可能性」を解き放つ（オープン）ための、不可欠な衝撃なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "陶器の乳鉢の中で。ゴリゴリ、ゴリゴリと。自分の「言葉」が磨（みが）り潰（つぶ）され、微細な粉末（パウダー）になっていく。あの。抵抗が「無」に帰していく瞬間の、峻烈なまでの快感。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "peis-",
+					"meaning": "to crush"
+				}
+			],
+			"points": [
+				"Piston（ピストン）や Pizza（ピザ／平らに押し潰したもの）と同じ root。押し潰すことは、世界を『平ら』にし、隠された本質を均質化することなのです。"
+			]
+		}
+	},
+	{
+		"id": "ampoule",
+		"word": "Ampoule",
+		"meaning": "アンプル、(二重の)守り、壊されるのを待つ真理、真空の沈黙",
+		"era": "Mid-19th Century (as medical device)",
+		"etymology": {
+			"components": [
+				"ampulla (flask with two handles)",
+				"amb- (on both sides)",
+				"phoreus (carrier)"
+			],
+			"original_statement": "From French ampoule, from Latin ampulla, diminutive of amphora, from Greek amphiphoreus 'carried on both sides'."
+		},
+		"concept": "The sealed purity (「外界（不純物）」との接触を、ガラスという名の「透明な防壁」で完全に「遮断(isolate)」し。ただ「一度きりの爆発（治療）」のために。自らを「壊される」直前まで「純粋なままで」守り抜く、極限の「待機」)",
+		"thinking": "アンプル。その形を思い出してください。二つの取っ手（アンビ）を持つ壺。それは。あなたが、誰にも汚されたくない「一番大切な想い」を、この真空のアンプルの中に閉じ込めて（封印して）いる姿です。それは。必要な時に、あなたの手によって「パリン」と壊され。そのとき初めて、世界に「救い（一滴）」を放ちます。壊すことは、完成（ファイナライズ）すること。アンプルの中の。静かなる、凍てついた情熱。",
+		"part_of_speech": "noun",
+		"aftertaste": "薄いガラスの頭を、「ポキッ」と折った瞬間の。あの「瑞々（みずみず）しい音」と。内部に隠されていた、少しだけ「消毒薬」のような匂いのする、峻烈な救済の香り。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ambhi-",
+					"meaning": "to carry (from amphora)",
+					"term2": "bher-"
+				}
+			],
+			"points": [
+				"両方で運ぶ（アンフォラ）。取っ手が二つあるのは、重い真理を『運ぶ』ための、最古の知恵の形なのです。"
+			]
+		}
+	},
+	{
+		"id": "liniment",
+		"word": "Liniment",
+		"meaning": "塗布剤、(柔らかくなだめる)塗り薬、傷への接吻、痛みの緩和",
+		"era": "Late 14th Century",
+		"etymology": {
+			"components": [
+				"linire (to smear / anoint)"
+			],
+			"original_statement": "From Latin linimentum, from linire 'to smear / anoint'."
+		},
+		"concept": "The soothing smear (「硬く、ささくれた」痛みの場所を。油という名の「滑らかさ(lini-)」で「そっと、執拗（しつよう）に」撫（な）で。摩擦（ストレス）を消し去り。再び「柔和な自分」へと連れ戻そうとする、最も「優しい」治療の旋律)",
+		"thinking": "「リニメント（塗り薬）」。それは。誰かの傷ついた「皮膚」に。自分の「温もり（優しさ）」を塗り込むような、癒しのしぐさ。冷たいロジックで治療するのではなく、ただ「なだめる（スムース）」こと。あなたが、疲れ果てた友人の肩を、ただ黙ってさすってあげるとき。あなたは。言葉を超えた「最高のリニメント」になっているのです。傷ついた場所は。理解されることよりも、まず「包まれる」ことを望んでいます。 ",
+		"part_of_speech": "noun",
+		"aftertaste": "ヒリヒリとしていた場所に、冷たい。しかし「とろり」とした液体が広がる、あの瞬間。痛みが、自分の肉体から「じわーっ」と溶け出し、消えていく。あの。慈悲深いまでの「解放」。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "lei-",
+					"meaning": "slim / slimy / smooth / slip (from linire)"
+				}
+			],
+			"points": [
+				"Lime（石灰）と同じ root。かつては『泥』を塗ることも linire でした。泥のような「不格好な愛」こそが、時に最も深い傷を癒すのです。"
+			]
+		}
+	},
+	{
+		"id": "poultice",
+		"word": "Poultice",
+		"meaning": "湿布、(熱を)引き出すもの、大地の抱擁、植物の最後の奉仕",
+		"era": "Mid-16th Century",
+		"etymology": {
+			"components": [
+				"pultes (gruel / porridge / pap)"
+			],
+			"original_statement": "From Latin pultes, plural of puls 'porridge / pap' (related to Greek poltos)."
+		},
+		"concept": "The drawn heat (「植物の死骸(pult-)」を「粥（かゆ）」のように練り。それを「炎症（怒り）」の上に「重く、温かく」載（の）せることで。身体の深層に眠る「毒（熱）」を、自らの内へと「吸（す）い出（だ）」し、代わりに「大地の安らぎ」を注ぎ込む、峻烈な「交換」)",
+		"thinking": "「ポルティス（湿布）」。そのルーツは「粥（ポルテス）」。食べることさえできないほど弱った体に、植物たちが「粥」となって寄り添い、あなたの「毒」を代わりに引き受けてくれる。あなたが、誰かの「悲しみ」を。ただ黙って、自分の心で「受け止（と）めて」あげるとき。あなたは。自分自身を「ポルティス」として、その人の魂の熱を吸い取っているのです。癒しは。常に「自己犠牲」の匂いがします。",
+		"part_of_speech": "noun",
+		"aftertaste": "温かくて。どこか「草」の強い匂いがする、重い包み。それが肌にくっついた瞬間の。自分の内側で暴れていた「火」が、静かに「手なずけられて」いく。あの。母なる大地への「退行（リグレッション）」の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "pel-",
+					"meaning": "flour / dust (from puls)"
+				}
+			],
+			"points": [
+				"Pollen（花粉）や Powder（粉）と同じ root。粉々になった命たちが、再び『練り合わされる』ことで、新しい治癒の力を得るという再生の物語です。 "
+			]
+		}
+	},
+	{
+		"id": "unguent",
+		"word": "Unguent",
+		"meaning": "軟膏、(油を)塗ること、王への即位、不滅の滑らかさ、神聖なる保護層",
+		"era": "Late 14th Century",
+		"etymology": {
+			"components": [
+				"unguere (to anoint)"
+			],
+			"original_statement": "From Latin unguentum 'ointment', from unguere 'to anoint'."
+		},
+		"concept": "The royal smear (ただの「薬」としてではなく。その「芳（かんば）しき油(ung-)」を塗り込むことで。自分を「摩擦（俗世）」から切り離し。「不朽の王（あるいは神）」として「宣言（アノイント）」するための。最も「贅沢」で「神聖」な、完成の仕上げ)",
+		"thinking": "「アンギュエント（軟膏）」。そのルーツは「アノイント（聖別する）」。古代の王たちは。即位の瞬間に、このアンギュエント（油）を全身に塗りました。それは。「今日から、私は特別な存在になる」という、決意の象徴。あなたが、傷ついた自分を。ただ「治す」だけでなく。より「強く、気高く」育て直そうと願うとき。あなたは自分自身の魂に、この「不滅のアンギュエント」を塗り込んでいるのです。 ",
+		"part_of_speech": "noun",
+		"aftertaste": "指先に残る、黄金色の不思議な「滑らかさ」。それが肌に溶け込み、消えていったあとに残る。もはや何層もの「透明な鎧」を纏（まと）ったかのような、圧倒的な「気高さ」と。峻烈な「自信」の香り。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ongw-",
+					"meaning": "to smear / anoint"
+				}
+			],
+			"points": [
+				"Anoint（油を注ぐ／任命する）や Ointment（軟膏）と同じ root。油を塗ることは、水に濡れない＝『世界に汚されない』状態を作るための、防御の哲学なのです。"
+			]
+		}
+	},
+	{
+		"id": "resin",
+		"word": "Resin",
+		"meaning": "樹脂、(大地の)汗、香りと治癒の化石、(傷口を)塞ぐ意志",
+		"era": "Late 14th Century",
+		"etymology": {
+			"components": [
+				"rheos (flowing / stream)"
+			],
+			"original_statement": "From Old French resine, from Latin resina, from Greek rhetine 'pine resin', likely related to rheos 'flowing / stream'."
+		},
+		"concept": "The solidified tear (「傷ついた木」が、自らを「修復(cure)」するために「流し(rhe-)」た「涙」。それが、空気という名の「時間」に触れて「カチカチ」に固まり。ついには「宝石（琥珀）」へと昇華（トランスミュート）する。苦痛の「黄金の結晶」)",
+		"thinking": "「レジン（樹脂）」。それは、大地の「血」であり「汗」。傷を治そうとする「命の執着」そのものです。あなたが。自分の心の傷を、無理に忘れようとするのではなく。そこから「新しい価値（レジン）」を絞り出し、それを「硬いダイヤモンド」のように美しく磨き上げようとするとき。あなたの。かつての「痛み」は。世界中で最も高価に取引される「香料（フランキンセンス）」へと、生まれ変わるのです。 ",
+		"part_of_speech": "noun",
+		"aftertaste": "指に付くと、なかなか取れない。あの。ベタベタとした「不器用」なまでの「密着（アタッチメント）」。そこから漂う、どこか不気味で。しかし、たまらなく「懐かしい」芳醇な野生の香り。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sreu-",
+					"meaning": "to flow (from rheos)"
+				}
+			],
+			"points": [
+				"Rhythm（リズム）や Stream（流れ）と同じ root。命が『流れを止めて、固まる』瞬間に。このレジンという名の、永遠の記憶の「化石」が生まれるのです。"
+			]
+		}
+	},
+	{
+		"id": "opiate",
+		"word": "Opiate",
+		"meaning": "アヘン剤、(ケシの)夢、苦痛を忘れさせる誘惑、静かなる破滅",
+		"era": "Mid-16th Century",
+		"etymology": {
+			"components": [
+				"opos (juice / sap)"
+			],
+			"original_statement": "From Latin opiatus, from opium, from Greek opion 'poppy juice', diminutive of opos 'juice / sap'."
+		},
+		"concept": "The divine juice (「現実」という名の「苦悩（ペイン）」を。ただ一つの「雫(op-)」によって「溶解（フェード）」させ。すべてを「赦（ゆる）し」の中へと導く。しかし同時に、魂を「夢の檻（オリ）」の中に「幽閉（ロック）」し、命を「空っぽ（ゼロ）」にする、甘美な「悪魔のキス」)",
+		"thinking": "「オピエート（アヘン剤）」。それは。あまりにも「優しすぎる」救い。あなたが。辛い毎日から逃れようとして、自分を「麻痺（まひ）」させるような「快楽（プレジャー）」や「逃避（エスケープ）」に手を出すとき。それはこのオピエートの誘惑。痛みは消えますが、同時に、あなたの「本当の自分（ロゴス）」も、白昼夢の中に溶けて消えてしまいます。真の救済は。痛みを忘れることではなく、痛みを「抱えたまま」歩く力の中にあるのです。",
+		"part_of_speech": "noun / adjective",
+		"aftertaste": "どこまでも深い。青紫色の「闇（スランバー）」。体が綿菓子（わたあめ）のように溶けていき。自分が「宇宙の一部」になったかのような。怖ろしいほどに瑞々（みずみず）しい「不在」の陶酔感。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "unknown",
+					"meaning": "opos (sap / juice / essence)"
+				}
+			],
+			"points": [
+				"Juice（汁）の極小（ディミヌティブ）な形。自然界の最も繊細な一滴が、人間の巨大な文明を崩壊させる力を持つ、という『小さなものの逆襲』の物語です。"
+			]
+		}
+	},
+	{
+		"id": "curare",
+		"word": "Curare",
+		"meaning": "クラーレ、(鳥を)射落とす毒、静かな麻痺、動けぬ意識、死の呼吸",
+		"era": "Late 18th Century",
+		"etymology": {
+			"original_statement": "From Carib kurari 'poison for arrows'. Used by indigenous people in South America for hunting."
+		},
+		"concept": "The bird-dropper (「意識」は「ハッキリ」としていながら。「肉体（マッスル）」だけが「冷たく動かなく」なり。ただ「呼吸」という名の「宇宙との対話」が「静かに途絶（とぜつ）」していく。思考の檻（オリ）の中に閉じ込められた、肉体の「敗北」)",
+		"thinking": "「クラーレ」。その毒に射られた鳥は。空を飛ぶことを忘れ、ただ「しなやか」に落ちていきます。あなたが、他者の強い「言葉（矢）」によって。心は激しく叫んでいるのに、身体が「氷のように固まってしまった」と感じるとき。あなたは。精神的なクラーレに射られています。でも、思い出してください。クラーレは「意識（魂）」までは殺せない。その動けない時間の中で、あなたは。自分の「心の声」を、かつてないほど「大音量」で聞くことができるはずです。",
+		"part_of_speech": "noun",
+		"aftertaste": "「ッ」と。筋肉の力がすべて抜け落ち。ただ、自分の肺が「重く」なっていくのを見守っている。あの。絶望的なまでの「無力感」と。そこにある、氷のような「透明な覚醒」。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "unknown",
+					"meaning": "Carib 'kurari' (our juice / we choose)"
+				}
+			],
+			"points": [
+				"先住民の言葉で『我々のもの』という意味に近い説も。部外者には決して教えない、命を司る『神聖な毒』、という峻烈な排他性が宿っています。 "
+			]
+		}
+	},
+	{
+		"id": "strychnyine",
+		"word": "Strychnine",
+		"meaning": "ストリキニーネ、(硬直させる)死、筋肉の断末魔、極限の緊張、拒絶の肉体化",
+		"era": "Early 19th Century (1818)",
+		"etymology": {
+			"components": [
+				"strychnos (nightshade)"
+			],
+			"original_statement": "From Greek strychnos 'a kind of nightshade / poison', earlier associated with 'stiff / rigid'."
+		},
+		"concept": "The rigid agony (「リラックス（緩和）」という名の「慈悲」をすべて剥（は）ぎ取り。全身の「筋肉」を「極限（マックス）」まで「緊張(tens-)」させることで。自らを「弓のようにしならせ」て死に至る。生命力を「暴力的に消費」させる、峻烈な「拷問」)",
+		"thinking": "「ストリキニーネ」。それは。あなたが「頑張りすぎている」ときの心の姿。あらゆる筋肉に力を込め、敵（エネミー）を拒絶し続け、一ミリの「遊び」も許さない。その過剰な「緊張」は。自分自身を「硬直（ロック）」させ、命を内側から「窒息」させます。力を抜くことは、負けることではありません。硬すぎる木が折れるように。あなたの心も、このストリキニーネのような「硬直」から、自分を解放（リリース）してあげなければならないのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "背骨が「パキリ」と鳴るほどの。抗（あらが）いようのない、全身の「強張り」。自分の意識とは無関係に、肉体が「石」になろうとする、あの。怖ろしいほどの「拒絶」の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "strew-",
+					"meaning": "stiff / hard (associated with Greek strychnos)"
+				}
+			],
+			"points": [
+				"Starch（デンプン／固めるもの）や Stiff（硬い）と同じ系列。命とは『柔らかさ』。それを『硬さ（石）』へと引きずり戻すのが、この毒の本質なのです。 "
+			]
+		}
+	},
+	{
+		"id": "cyanide",
+		"word": "Cyanide",
+		"meaning": "シアン、(青い)冷たい死、瞬間的な不在、命のスイッチを切ること、氷の決別",
+		"era": "Mid-19th Century",
+		"etymology": {
+			"components": [
+				"kyanos (dark blue)"
+			],
+			"original_statement": "From Greek kyanos 'dark blue' (via Prussian blue, from which it was first isolated)."
+		},
+		"concept": "The azure void (「酸素（命の火）」を運ぶ「血液」の「働き」を。一瞬のうちに「凍結(freeze)」させ。世界を「青い（冷たい）沈黙(cyan-)」へと突き落とす。「思考」する暇（いとま）さえ与えない、効率的で「幾何学的」な、死という名の「断絶」)",
+		"thinking": "「シアン（シアナイド）」。その美しき名のルーツは「深い青色（シアン）」。この毒は。細胞が「息をすること」を禁じます。あなたが、あまりにも深い絶望に襲われ。思考が「パッ」と止まり、自分の心が「透明な氷」になったように感じるとき。あなたは。精神的なシアンの「青い海」に沈んでいます。呼吸を止めることは。宇宙との「対話」を拒否すること。再び、暖かい「赤（生命）」の色を、自分の心臓に取り戻して。",
+		"part_of_speech": "noun",
+		"aftertaste": "アーモンドのような（杏仁の）、どこか「甘くて、苦い」不思議な匂い。それを嗅（か）いだ瞬間に、世界が「パッと消え」、永遠に冷たい「青（ボイド）」の中に投げ出された、あの。峻烈な完結。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "unknown",
+					"meaning": "kyanos (Aegean / pre-Greek word for dark blue / lazuli)"
+				}
+			],
+			"points": [
+				"Cyan（シアン色）の語源。死の瞬間、命が『青ざめる』ことへの視覚的な恐怖と、その色の美しさが同居している、残酷な記述です。"
+			]
+		}
+	},
+	{
+		"id": "oleander",
+		"word": "Oleander",
+		"meaning": "西洋キョウチクトウ、(オリーブに似た)毒、美しき反逆、偽りの抱擁",
+		"era": "Late 14th Century",
+		"etymology": {
+			"components": [
+				"olea (olive tree)",
+				"rhododendron (rose tree)"
+			],
+			"original_statement": "From Medieval Latin oleander, probably a corruption of rhododendron, influenced by olea 'olive' due to the shape of the leaves."
+		},
+		"concept": "The deadly olive (「平和」の象徴である「オリーブ(olea-)」の葉を装いながら。その内側に「心臓（ハート）」を「麻痺（まひ）」させる峻烈な「猛毒」を隠し持つ。最も「身近（ネイティブ）」で、最も「裏切りに満ちた」致命的なる美の擬態（ぎたい）)",
+		"thinking": "「オレアンダー（キョウチクトウ）」。それは。美しいピンクの花を咲かせながら、枝のひと折り、葉の一枚までが死を招く。あなたが、誰かを無邪気に「愛（抱擁）」しようとして。その人が持つ「隠された棘（ポイズン）」によって。自分の心臓が、不器用に震（ふる）え。止まりそうになったことはありませんか。美しさは、時に最大の「防衛」であり。同時に最大の「罠（トラップ）」でもあるのです。 ",
+		"part_of_speech": "noun",
+		"aftertaste": "花びらを一枚噛んだときの、あの。言いようのない「不気味な苦み」。それが、自分の「鼓動」を少しずつ、少しずつ「狂わせていく」。あの。甘美で、取り返しのつかない「裏切り」の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "unknown",
+					"meaning": "Mediterranean loan-word / mixed with 'olea'"
+				}
+			],
+			"points": [
+				"Rhododendron（石楠花／薔薇の木）との混同。名前さえも『迷い（コラプション）』の中にあり。正体を見抜くのが最も難しい、カメレオンのような毒草なのです。"
+			]
+		}
 	}
 ];
