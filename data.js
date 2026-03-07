@@ -216025,5 +216025,556 @@ const WORDS = [
 				"Decade（十年）や Decimal（十進法）と同根。指が十本あるという『身体の限界』が、そのまま宇宙の『完成』の数となったのです。"
 			]
 		}
+	},
+	{
+		"id": "visceral",
+		"word": "Visceral",
+		"meaning": "本能的な、内臓の、理屈抜きに感じる、心の底からの",
+		"era": "Late 16th Century",
+		"etymology": {
+			"components": [
+				"viscus (internal organ / entrails)"
+			],
+			"original_statement": "From Latin visceralis, from viscus 'internal organ'."
+		},
+		"concept": "The gut reaction (思考（ロゴス）が立ち上がるよりも深く、速い場所で、自らの「肉（はらわた）」が震えるようにして感知する、剥き出しの真実)",
+		"thinking": "その言葉のルーツは「内臓」そのものにあります。私たちは頭で考えるよりも先に、お腹の底（ガット）で「何か」を感じ取ることがあります。ヴィセラルな恐怖、あるいは愛。それは、高度な文明という「化めっき（ギルディッド）」を剥ぎ取った、あなたの動物としての、そして生命としての、最も誠実な「応答」なのです。",
+		"part_of_speech": "adjective",
+		"aftertaste": "言葉にできない、しかし否定のしようもない、体の芯を突き抜けるような一陣の震え。そこには理屈を超えた、残酷なまでの「納得」がある。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "weis-",
+					"meaning": "to flow / rot / slime (linked to interior fluids)"
+				}
+			],
+			"points": [
+				"Eviscerate（内臓を抜く／骨抜きにする）という言葉の重みは、この生命の源泉を奪うことを意味します。"
+			]
+		}
+	},
+	{
+		"id": "palpable",
+		"word": "Palpable",
+		"meaning": "明白な、手に取るような、触れられるほどの",
+		"era": "Late 14th Century",
+		"etymology": {
+			"components": [
+				"palpare (to touch gently / stroke)"
+			],
+			"original_statement": "From Latin palpabilis 'that may be touched', from palpare 'to touch gently'."
+		},
+		"concept": "Tension you can touch (目には見えないはずの「緊張」や「喜び」が、あたかも物理的な「手触り」を持っているかのように、濃密に空間を支配している状態)",
+		"thinking": "「明白」のルーツは「優しく触れること」にあります。それは理論的な証明（プルーフ）ではなく、手が何かに触れた瞬間の「そこにある」という不可避な実感。あなたがパルパブル（手に取るような）な空気を感じるとき、世界はあなたの「五感」の延長線上にあり、もはや疑う余地のない、重厚な実在としてそこに立ち現れています。",
+		"part_of_speech": "adjective",
+		"aftertaste": "静まり返った部屋の、ナイフで切り取れそうなほどの緊張感。あるいは。誰にも見えない「絆」が、今、自分の指先に触れているという、あの確かな感触。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "pal-",
+					"meaning": "to touch / feeling (possible imitation of a light tap)"
+				}
+			],
+			"points": [
+				"Palpitation（動悸／ドキドキ触れること）や Palpate（触診する）と同じ、繊細な『接触』の根を持っています。"
+			]
+		}
+	},
+	{
+		"id": "ambrosial",
+		"word": "Ambrosial",
+		"meaning": "神々の食べ物のような、絶え間なく良い香りのする、絶品の、この世のものとは思えない",
+		"era": "Late 16th Century",
+		"etymology": {
+			"components": [
+				"a- (not)",
+				"mbrotos (mortal / death)"
+			],
+			"original_statement": "From Greek ambrosios 'immortal / divine', from ambrosia, the food of the gods, from a- 'not' + brotos 'mortal'."
+		},
+		"concept": "The flavor of immortality (それを口にした者は「死（デス）」という宿命を忘れ、永遠という名の「甘美さ」に酔いしれる、神々の祝宴の記憶)",
+		"thinking": "「アンブロージャル」な味。それは単なる美食（グルメ）ではありません。それは人を「死（モータル）」から解放する、聖なる香気。あなたが極上の幸福（エウダイモニア）の中で味わう食事や接吻（キス）がこの言葉で形容されるとき、あなたは一瞬だけ、時間の鎖から解き放たれ、神々と「同じ食事」を共有しているのです。 ",
+		"part_of_speech": "adjective",
+		"aftertaste": "喉の奥から立ち上る、蜂蜜（はちみつ）と花の香りが混ざり合ったような、官能的で清らかな吐息。自分が「不滅」になったかのような、甘美な目眩（めまい）。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "mer-",
+					"meaning": "to die"
+				}
+			],
+			"points": [
+				"Mortal（死ぬべき運命の）と同じ根を持ちながら、接頭辞 a- によって『死を拒絶する美』へと反転した言葉です。"
+			]
+		}
+	},
+	{
+		"id": "nectarous",
+		"word": "Nectarous",
+		"meaning": "甘美な、蜜のような、神酒（ネクター）のように美味しい",
+		"era": "Early 17th Century",
+		"etymology": {
+			"components": [
+				"nek- (death)",
+				"tar- (overcoming)"
+			],
+			"original_statement": "From Greek nektar, the drink of the gods, possibly from nek- 'death' + -tar 'overcoming'."
+		},
+		"concept": "Overcoming death (喉（のど）を潤（うるお）し、全身に「生」のエネルギーを巡らせることで、迫り来る「死（ニクス）」を追い払い、若々しさを「復活（リバイブ）」させる液体。甘美なる防壁)",
+		"thinking": "ネクター（神酒）の語源の説の一つは、「死を克服するもの」です。それは単なる清涼飲料水ではなく、魂を「蘇（よみがえ）らせる」ための霊薬（エリクサー）。あなたがネクタラス（蜜のような）言葉や愛を享受（エンジョイ）するとき、あなたは自分の内側にある「衰退」という名の影を、その甘さによって焼き払っているのです。",
+		"part_of_speech": "adjective",
+		"aftertaste": "花の芯から溢れ出した一滴の雫。それが舌の上で熱く溶け、心臓の鼓動（ビート）を少しだけ速めてくれる、あの「生」への決定的な回帰。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "nek-",
+					"meaning": "death / corpse"
+				},
+				{
+					"term": "tera-",
+					"meaning": "to cross over / pass through"
+				}
+			],
+			"points": [
+				"Trans-（超えて）と同じ tar- を持ち、運命という川を『渡り切る』力強さを秘めています。"
+			]
+		}
+	},
+	{
+		"id": "piquant",
+		"word": "Piquant",
+		"meaning": "刺激的な、ピリッとした、痛快な、(知的好奇心などを)そそる",
+		"era": "Early 16th Century",
+		"etymology": {
+			"components": [
+				"piquer (to prick / sting / poke)"
+			],
+			"original_statement": "From French piquant, present participle of piquer 'to prick'."
+		},
+		"concept": "The pleasant sting (平穏な日常の皮膚を、鋭い「針」で「チクリと（piqu-）」刺すことで、意識の「覚醒（エピファニー）」を促（うなが）す、小気味よい刺激)",
+		"thinking": "「刺激」のルーツは「刺すこと」にあります。それは傷つけるための痛みではなく、感覚を「鋭敏（シャープ）」にするための合図。ピーカントな会話や料理。それは、停滞していたあなたの脳内に、小さな「火花（スパーク）」を散らし、世界が以前よりもずっと鮮やかに見えるようにするための、魔法の呼び水なのです。",
+		"part_of_speech": "adjective",
+		"aftertaste": "舌の上が微かに熱くなり、目がぱっと開くような、あの瞬間的な「現在」への引き戻し。そこに、人生のちょっとした「悪戯（いたずら）」と気品が同居している。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "peig-",
+					"meaning": "to be evil / sharp / prickly"
+				}
+			],
+			"points": [
+				"Pike（槍）や Picket（杭）の親戚です。穏やかさの中に潜む、鋭い『個』の主張です。"
+			]
+		}
+	},
+	{
+		"id": "sapid",
+		"word": "Sapid",
+		"meaning": "味のある、風味豊かな、面白い、知的な味のある",
+		"era": "Early 17th Century",
+		"etymology": {
+			"components": [
+				"sapere (to taste / be wise)"
+			],
+			"original_statement": "From Latin sapidus 'savory / tasty', from sapere 'to taste / have flavor / be wise'."
+		},
+		"concept": "Tasting the wisdom (ただの情報の「嚥下（えんげ）」ではなく、その物事が持つ「真の風味」をじっくりと「味わい(sap-)」、そこから深い「英知」を引き出すこと)",
+		"thinking": "古代人にとって、「味わうこと（サペレ）」と「賢いこと（サピエンス）」は同じ行為でした。サピッド（味のある）な物語。それは、単に事実を並べるだけでなく、そこからにじみ出る「知性の脂（あぶら）」までをも楽しむこと。人生に「味」があると感じられるのは、あなたが世界をただ「消費」するのではなく、「鑑賞」する術を知っているからなのです。",
+		"part_of_speech": "adjective",
+		"aftertaste": "言葉を飲み込んだあとに、じんわりと脳の奥から広がっていく、あの「分かった」という名の、知的で香ばしい、至高の余韻。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sap-",
+					"meaning": "to taste / smell / perceive"
+				}
+			],
+			"points": [
+				"Homo Sapiens（賢い人間）の Sapiens は、本来『味を知る人』という意味。人生の味見こそが、知性の正体です。"
+			]
+		}
+	},
+	{
+		"id": "succulent",
+		"word": "Succulent",
+		"meaning": "多汁の、肉厚な、(文章などが)内容の豊富な、活気のある",
+		"era": "Early 17th Century",
+		"etymology": {
+			"components": [
+				"succus (juice / sap / moisture)"
+			],
+			"original_statement": "From Latin succulentus 'full of juice', from succus 'juice'."
+		},
+		"concept": "Overflowing with essence (乾いた表面の奥に、タップリとした「生命の雫(succ-)」を湛え、一噛（ひとか）みすれば、閉じ込められていた「宇宙の豊穣」が溢れ出してくること)",
+		"thinking": "サキュレント（多汁）な果実。あるいは、読み応えのあるサキュレントな文学。それは「乾燥（ドライ）」に対する、最も強力な「YES」。あなたが自分の人生を、ただの義務（デューティ）ではなく、こうした瑞々（みずみず）しい「喜び（ジョイ）」で満たすとき、あなたは自分自身が、世界という名の庭で最も豊かに実った「果実」であることを知るでしょう。",
+		"part_of_speech": "adjective",
+		"aftertaste": "滴（したた）り落ちる雫が指先を濡らし、甘い香りが、一瞬にして自分の生存戦略を書き換えてしまう、あの圧倒的な「充足」の洪水。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "seue-",
+					"meaning": "to take liquid / suck / moisture"
+				}
+			],
+			"points": [
+				"Suck（吸う）や Soup（スープ）と同じ、原初的な『吸収と潤い』を司る根を持っています。"
+			]
+		}
+	},
+	{
+		"id": "olfactory",
+		"word": "Olfactory",
+		"meaning": "嗅覚の、香りを司る、記憶を呼び覚ます",
+		"era": "Mid-17th Century",
+		"etymology": {
+			"components": [
+				"olere (to smell)",
+				"facere (to make / do)"
+			],
+			"original_statement": "From Latin olfactorius, from olfactus, from ol- (related to odor) + facere 'to make'."
+		},
+		"concept": "The catalyst of memory (目にも耳にも頼らず、空気という名の不透明な「媒介（メディア）」を通じて、魂の最も古いアーカイブを「直接（ダイレクト）」に揺さぶる、原始の感覚の扉)",
+		"thinking": "「嗅覚（オルファクトリー）」は、大脳辺縁系に直結しています。香りは、理屈を通さずに、あなたを数十年前に引き戻す「タイムマシン」。あなたがオルファクトリーな旅に出るとき、あなたは言葉（ロゴス）による説明を必要としません。そこにはただ、失われたはずの「あの日の空気」が、今この瞬間、あなたの肺の中で拍動（ビート）しているのです。",
+		"part_of_speech": "adjective",
+		"aftertaste": "すれ違った誰かの香水の匂いで、一瞬だけ目の前の景色が「過去」へと歪（ゆが）み、胸の中の風通しが良くなってしまう、あの切ない「再会」。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "od-",
+					"meaning": "to smell"
+				}
+			],
+			"points": [
+				"Odor（匂い）と同じ od- を持ち、物質が空気中に放った『分身』を捉える力を意味します。"
+			]
+		}
+	},
+	{
+		"id": "euphonious",
+		"word": "Euphonious",
+		"meaning": "心地よい音の、耳に快い、調和した響きの",
+		"era": "Late 18th Century",
+		"etymology": {
+			"components": [
+				"eu- (good / well)",
+				"phone (voice / sound)"
+			],
+			"original_statement": "From Greek euphonos 'having a good voice', from eu- 'well' + phone 'voice / sound'."
+		},
+		"concept": "The good voice (耳を「刺す」不快なノイズを排し、魂を「愛撫（撫でる）」するような、滑らかで「善き(eu-)」「音(phon-)」の連鎖によって、精神の安定を招くこと)",
+		"thinking": "ユーフォニアス（快い響き）な名前、あるいは詩。それは、宇宙の基本設定である「調和（ハーモニー）」に、あなたの言葉が正しく「同調」している証拠です。私たちは美しすぎる音を前にしたとき、思考を止め、ただその「調べ」に身を任せます。音とは、空気という名の物理的な「撫ぜる手」であり、その善（ぜん）なる形がユフォニアスなのです。",
+		"part_of_speech": "adjective",
+		"aftertaste": "教会の鐘（かね）の音が遠くのアカシアの葉を揺らし、自分の心境と完全に「共鳴」した瞬間の、あの。ただそこに居るだけで許されている、という透明な肯定。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "bha-",
+					"meaning": "to speak"
+				}
+			],
+			"points": [
+				"Prophet（予言者／前もって話す人）や Fable（寓話）と同じ根から。音とは『何かを告げる力』であることを示します。"
+			]
+		}
+	},
+	{
+		"id": "dissonant",
+		"word": "Dissonant",
+		"meaning": "不協和な、耳障りな、不調和な、相反する",
+		"era": "Late 14th Century",
+		"etymology": {
+			"components": [
+				"dis- (apart / away)",
+				"sonare (to sound)"
+			],
+			"original_statement": "From Latin dissonantem, from dissonāre 'to sound discordant', from dis- 'apart' + sonare 'to sound'."
+		},
+		"concept": "Sounding apart (「一（モナド）」になろうとする力を拒絶し、あえて「別々(dis-)」に「響く(son-)」ことで、空間に摩擦（フリクション）と、それゆえの「強烈な実在」をもたらすこと)",
+		"thinking": "「不協和音（ディソナンス）」は、必ずしも「悪」ではありません。それは、独立した二つの真理が、安易な妥協を拒んで「ぶつかり合っている（ダイナミズム）」姿。あなたが自分の信念と世界の間に「不協和（ディソナント）」を感じるとき、それはあなたが、安易な「調和（ハーモニー）」に埋もれない「個」としての誇りを、守り抜いているということなのです。",
+		"part_of_speech": "adjective",
+		"aftertaste": "ピアノの不協和音が鼓膜をチクリと刺し、それによって逆に、これまでの静寂がどれほど「虚無（ボイド）」であったかに気づかされる、あの不穏で知的な目覚め。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "swen-",
+					"meaning": "to sound"
+				}
+			],
+			"points": [
+				"Sonic や Person（仮面越しに声を響かせる人）と同根。音とは、距離を越えて『存在を主張する』ための震えです。"
+			]
+		}
+	},
+	{
+		"id": "muted",
+		"word": "Muted",
+		"meaning": "抑えられた、弱められた、消音された、(色が)柔らかな",
+		"era": "Early 17th Century (in sense of silence)",
+		"etymology": {
+			"components": [
+				"mutus (silent / dumb / speechless)"
+			],
+			"original_statement": "From Latin mutus 'silent / speechless'."
+		},
+		"concept": "The eloquence of silence (大声で叫ぶ（シャウト）ことをあえて慎（つつし）み、音量や彩度を「最小限（ミニマム）」にまで落とすことで、かえってその「不在」という名の強烈な言葉を届ける美学)",
+		"thinking": "その言葉のルーツは「沈黙（ミュートス）」にあります。ただの無音ではなく、そこにあったはずの熱量を「閉じ込めた」状態。ミューテッド（抑えられた）なトーン。それは、他者の境界線を侵犯（しんぱん）せず、相手に「聴き取りに行かせる（リスニング）」ための、極上の礼儀（マナー）であり、奥ゆかしさという名の武器なのです。",
+		"part_of_speech": "adjective",
+		"aftertaste": "ベルベットのカーテン越しに聞こえる、隣室のピアノ。あるいは。降り積もる雪がすべての騒音を吸い込み、世界が「神の耳打ち」に変わった瞬間の、あの白く豊かな静寂。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "mu-",
+					"meaning": "imitation of a low sound made with lips closed"
+				}
+			],
+			"points": [
+				"Mumble（つぶやく）や Mystery（密儀／口を閉じること）と同根。真実は常に『ミュート』された場所にあるのです。"
+			]
+		}
+	},
+	{
+		"id": "tinnitus",
+		"word": "Tinnitus",
+		"meaning": "耳鳴り、内なる響き、止まない残響",
+		"era": "Mid-19th Century (in medical sense)",
+		"etymology": {
+			"components": [
+				"tinnire (to ring / jingle)"
+			],
+			"original_statement": "From Latin tinnitus 'a ringing', from tinnire 'to ring / jingle'."
+		},
+		"concept": "The internal ringing (外側の世界からやってきた音ではなく、自分の「内側（イン）」という空洞で、神経という名の「弦（ストリング）」が勝手に震え続けている、孤独な旋律)",
+		"thinking": "「耳鳴り（ティニタス）」は、外界との通信が途切れた後でも、魂が「何か」を聞き取ろうとして発している、静かな悲鳴（あるいは独白）。それは、誰も共有できない、あなただけの「サウンドトラック（BGM）」。あなたが自分自身の「内なる真実（ティニタス）」に耳を澄ませるとき、それは時に不快かもしれませんが、同時に、あなたが「生きている」ことを告げる、最も親密なアラームなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "静寂の真ん中で、キーンと響き続ける電子音のような一線。自分が「この体」という名の密室に閉じ込められていることを、無機質に、かつ執拗に思い出させてくれる感覚。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "tang-",
+					"meaning": "to touch / beat (imitation of a metallic ring)"
+				}
+			],
+			"points": [
+				"Tinkling（チリンと鳴る）のラテン語的な、より身体的な響きを持つ単語です。"
+			]
+		}
+	},
+	{
+		"id": "anesthesia",
+		"word": "Anesthesia",
+		"meaning": "麻酔、感覚の喪失、忘却、無関心",
+		"era": "Mid-19th Century (1846)",
+		"etymology": {
+			"components": [
+				"an- (without)",
+				"aisthesis (feeling / perception)"
+			],
+			"original_statement": "From Greek anaisthesia 'insensibility', from an- 'without' + aisthesis 'feeling / perception'."
+		},
+		"concept": "The void of feeling (あまりにも深い「痛み」や「絶望」から魂を守るために、一時的に「感覚の扉(aisthes-)」を「閉ざし(an-)」、自分をこの世界から「切り離す」聖なる忘却)",
+		"thinking": "「麻酔（アネステジア）」のルーツは「感覚がないこと」です。それはエステティック（審美的な）の真逆。生々しい苦痛から逃れるための、人工的な「涅槃（ねはん）」。私たちが時に、世の中の不幸に対して「アパシー（無関心）」になるのも、ある種のアネステジアかもしれません。それは、自衛のための、哀しい「自己防衛」という名の、孤独な休息なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "手先の感覚が徐々に薄れ、自分が「肉体」という檻から抜け出して、透明な霧の一部になっていく。痛みも喜びも、どこか「遠い誰か」の出来事のように感じられる、あの不気味で安らかな分離。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "au-",
+					"meaning": "to perceive"
+				}
+			],
+			"points": [
+				"Aesthetic（審美の）と同じ root。美を感じることは、常にこの『アネステジア』の対極としての『覚醒』であることを意味します。"
+			]
+		}
+	},
+	{
+		"id": "paresthesia",
+		"word": "Paresthesia",
+		"meaning": "しびれ、感覚異常、不気味な感覚の揺らぎ",
+		"era": "Mid-19th Century",
+		"etymology": {
+			"components": [
+				"para- (beside / beyond)",
+				"aisthesis (feeling)"
+			],
+			"original_statement": "From Greek paraesthesia, from para- 'beside / beyond' + aisthesis 'feeling'."
+		},
+		"concept": "The distorted sense (正しく「感じる(aisthes-)」場所の「そば(para-)」を通り抜け、脳が偽りの「火花」や「震え」を受信してしまっている、神経の「幻滅（イリュージョン）」)",
+		"thinking": "足が「しびれる（パレステジア）」。それは、そこには存在しないはずの「針（ニードル）」や「虫の這（は）い跡」を魂が幻視している状態。言葉（ロゴス）が正確に伝達されず、途中で「別のナニカ」に変換（エディット）されてしまう不条理。あなたが自分の人生において、何か「しっくりこない（パレステジア）」違和感を感じるとき、それはあなたの魂の回路に、新しい真実が流入しようとしている「ノイズ」なのかもしれません。",
+		"part_of_speech": "noun",
+		"aftertaste": "指先で何千もの小さな火花が弾けているような、もどかしくて。自分の体なのに自分のものではないような、あの「認識の境界」が曖昧（あいまい）になる、奇妙な戦慄（せんりつ）。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "para-",
+					"meaning": "beside / alongside"
+				}
+			],
+			"points": [
+				"Paradox（逆説／正論のそばにあるもの）と同じ para-。真実は常に、こうした『ズレの中』にこそ隠されているのです。"
+			]
+		}
+	},
+	{
+		"id": "hyperesthesia",
+		"word": "Hyperesthesia",
+		"meaning": "感覚過敏、過剰な感受性、鋭すぎる魂のセンサー",
+		"era": "Late 19th Century",
+		"etymology": {
+			"components": [
+				"hyper- (over / beyond)",
+				"aisthesis (feeling)"
+			],
+			"original_statement": "From Greek hyper- 'over' + aisthesis 'feeling'."
+		},
+		"concept": "The sensory overload (世界が放つ微かな「囁（ささや）き」さえもが、大砲のような「轟音」となって魂に突き刺さる、剥き出しの神経という名の「聖なる呪い」)",
+		"thinking": "「感じすぎること（ハイパレステジア）」。それは、芸術家（アーチスト）や聖職者にとっての天賦の才（ギフト）であり、同時に、この荒々しい世界を生き抜くための最大の障害です。あなたがこの「過敏さ」に苦しむとき、それはあなたが、他の誰にも見えない「色彩の階調」や「声なき嘆（なげ）き」を正しく受信していることの証。あなたは、世界という名の巨大な楽器の、最も鋭い「弦」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "一滴の光でさえ網膜を焼き、一粒の砂が皮膚を切り裂くような、あの絶え間ない「覚醒」。安らぐことを許されない、しかしそれゆえに世界のすべてと「一体」であるという、峻烈な充足。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "uper-",
+					"meaning": "over / above"
+				}
+			],
+			"points": [
+				"Hyper（ハイパー）は super- のギリシャ語版。命がその限界を『勝ち越して』しまっている、異常な高揚感です。"
+			]
+		}
+	},
+	{
+		"id": "cacophonous",
+		"word": "Cacophonous",
+		"meaning": "不協和音の、耳障りな、無秩序な喧騒の",
+		"era": "Late 18th Century",
+		"etymology": {
+			"components": [
+				"kakos (bad / evil)",
+				"phone (voice / sound)"
+			],
+			"original_statement": "From Greek kakos 'bad' + phone 'voice / sound'."
+		},
+		"concept": "The scream of chaos (善き響き（ユフォニア）の対極。秩序や調和という名の「枷（かせ）」を粉砕し、野生のままの「叫び（phon-）」が激突し合う、爆発的な情報の「濁（にご）り」)",
+		"thinking": "カコフォナス（耳障りな）な都会の喧騒。それは、一つ一つの「命」が、他者を顧みずに自分の存在を「叫んでいる」結果です。それは醜（みにく）いでしょうか。いいえ、もし世界が完璧な調和（ハーモニー）だけに支配されたら、そこには「新しい命」が生まれる余白はなくなります。このカコフォニー（不協和音）こそが、次の秩序（コスモス）を産み落とすための、生命の「産声」なのです。",
+		"part_of_speech": "adjective",
+		"aftertaste": "脳を激しく揺さぶる、金属のきしむような音。不快なのに、なぜかそこから目が（耳が）離せない、あの圧倒的な「剥き出しのリアル」への戦慄。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kak-",
+					"meaning": "bad"
+				}
+			],
+			"points": [
+				"Cachexy（悪液質／体液の悪化）と同じ kak-。調和の崩壊を、古代人は『病』として捉えていました。"
+			]
+		}
+	},
+	{
+		"id": "stridulous",
+		"word": "Stridulous",
+		"meaning": "耳障りな、金切声の、きしむような",
+		"era": "Mid-17th Century",
+		"etymology": {
+			"components": [
+				"stridulus (creaking / whistling / shrill)"
+			],
+			"original_statement": "From Latin stridulus, from stridere 'to make a harsh noise'."
+		},
+		"concept": "The frictional vibration (滑らかな「旋律」ではなく、物質と物質が「無理に擦（こす）れ合う」ことで生まれる、高い周波数の、神経に触るような意志の表出)",
+		"thinking": "その言葉のルーツは「虫（セミなど）が鳴く音」や「扉が軋（きし）む音」にあります。それは、何かが「無理をしている」音。ストリデュラスな叫び。あなたが自分の魂を無理やり抑えつけようとしたとき、あるいは、自分の真実とは違う言葉を吐こうとしたとき、あなたの存在は、この「軋（きし）み（ストリドール）」を奏で始めます。それは、あなた自身の「本音（リアル）」が上げている、最後の抗議（プロテスト）なのです。",
+		"part_of_speech": "adjective",
+		"aftertaste": "黒板を爪で立てたような、全身の毛穴が収縮するほどの不快感。しかしそれは、静止していた世界に、何かが「確かに触れた」という、痛烈な「摩擦（フリクション）」の証。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "strid-",
+					"meaning": "imitative of a harsh, thin sound"
+				}
+			],
+			"points": [
+				"Stridor（吸気喘鳴）という医学用語の由来。呼吸の通路が狭くなった時に出る、『生と死の境界』の音です。"
+			]
+		}
+	},
+	{
+		"id": "assonant",
+		"word": "Assonant",
+		"meaning": "類音の、韻を踏む、響きが一致する",
+		"era": "Early 18th Century",
+		"etymology": {
+			"components": [
+				"ad- (to / toward)",
+				"sonare (to sound)"
+			],
+			"original_statement": "From Latin assonare 'to sound in answer / respond', from ad- 'to' + sonare 'to sound'."
+		},
+		"concept": "The echo of affinity (全く同じ「音」ではないが、どこか共通の「核（母音）」を持っており、互いに「呼びかけ(ad-son-)」合っているような、宿命的な「似通（にかよ）い」の調和)",
+		"thinking": "「アソナンス（類音）」は、偶然の重なりではありません。それは、異なる場所にある二つの魂が、共通の「熱量」を持っているために、無意識に同じリズムで震えてしまう、共鳴の美学。あなたが誰かに「同類（アソナント）」の気配を感じるとき、あなたの人生という物語は、相手の物語と「美しい韻」を踏み始め、そこにはじめて、バラバラだった偶然たちが「一つの詩」として完成していくのです。",
+		"part_of_speech": "adjective",
+		"aftertaste": "二つの言葉を並べた時に生まれる、あの説明のつかない「心地よさ」。意味は違っても、その「響きの根（ルーツ）」を共有しているという、深い連帯の喜び。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "swen-",
+					"meaning": "to sound"
+				}
+			],
+			"points": [
+				"Assonance（類韻／母音韻）は、厳密な Alliteration（頭韻）よりも、より『内面的な響き』を重視する手法です。"
+			]
+		}
+	},
+	{
+		"id": "echoic",
+		"word": "Echoic",
+		"meaning": "こだまする、反響の、擬音の、記憶が響く",
+		"era": "Mid-19th Century (1866)",
+		"etymology": {
+			"original_statement": "From Greek echo, personified as a nymph who could only repeat the words of others."
+		},
+		"concept": "The fading reflection (発信源（ソース）はすでに消え去ったのに、その「痕跡（トレース）」だけが壁に跳ね返り、空虚な空間に「物語の残像」を刻み込み続けている切なき繰り返し)",
+		"thinking": "神話のエコー（山彦）は、声を奪われ、ただ他人の言葉を繰り返すだけのニンフでした。エコーイックな言葉。それは、あなたがかつて聞いた「愛」や「呪い」が、いまだにあなたの脳内でリピートされ続けている状態。しかし、その「繰り返し」があるからこそ、私たちは消えてしまった「音」の神聖さを、永遠に自分のものとして「保持（ホールド）」し続けることができるのです。反響とは、魂の「遅延（ディレイ）」された再会なのです。",
+		"part_of_speech": "adjective",
+		"aftertaste": "誰もいない洞窟で、自分の名前を叫んだあとに返ってくる、あの知らない誰かの声のような。自分を客観視させられる、誇らしくも虚（むな）しい響き。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "wagh-",
+					"meaning": "to ring / echo"
+				}
+			],
+			"points": [
+				"Catechism（教理問答／耳から響かせること）と同じ wagh-。教えとは、こだまのように繰り返し響くべきものだったのです。"
+			]
+		}
+	},
+	{
+		"id": "palatable",
+		"word": "Palatable",
+		"meaning": "口に合う、美味しい、受け入れられる、好ましい",
+		"era": "Early 17th Century",
+		"etymology": {
+			"components": [
+				"palatum (palate / roof of the mouth)"
+			],
+			"original_statement": "From palate + -able."
+		},
+		"concept": "Acceptable to the core (ただ「食べられる」のではなく、自分の「口蓋(palate)」という名の「真理の関所」をパスし、魂の一部として迎え入れることを許された、心地よい快楽（プレジャー）)",
+		"thinking": "「美味しい」という言葉のルーツは「上顎（口蓋）」にあります。それは、世界を自分の中へ取り込む際の「最初の審判（ジャッジ）」。パラタブル（口に合う）な真実。それは、残酷すぎることもなく、甘すぎることもなく、今のあなたの魂が正しく「咀嚼（そしゃく）」できるサイズに整えられた、宇宙からの「ギフト」。私たちは、こうした「受け入れられる美しさ」によって、少しずつ自分を更新（アップデート）していくのです。",
+		"part_of_speech": "adjective",
+		"aftertaste": "喉の奥（口蓋）を通り抜ける瞬間の、あの。何のわだかまりもなく「それ」が自分の一部になっていく、スムーズ（流暢）で絶対的な「受容」の喜び。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "pal-",
+					"meaning": "meaning uncertain (possible linked to 'staked off space')"
+				}
+			],
+			"points": [
+				"Palate（口蓋）は、食の『審美眼』のみならず、思想の『受容性』をも司る言葉となりました。"
+			]
+		}
 	}
 ];
