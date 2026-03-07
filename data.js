@@ -218245,5 +218245,551 @@ const WORDS = [
 				"Sacred（聖なる）の対極。神から『呪われる（呪いとして捧げられる）』という、かつての儀式的な拒絶から生まれた言葉です。"
 			]
 		}
+	},
+	{
+		"id": "arborescent",
+		"word": "Arborescent",
+		"meaning": "樹木のような、木のように枝分かれした、成長する複雑系",
+		"era": "Late 17th Century",
+		"etymology": {
+			"components": [
+				"arbor (tree)",
+				"-escent (becoming / starting to be)"
+			],
+			"original_statement": "From Latin arborescens, present participle of arborescere 'to become a tree', from arbor 'tree'."
+		},
+		"concept": "Branching into complexity (単一の「点（ドット）」から始まり、時間とともに豊かな「枝葉（ブランチ）」へと分かれ、宇宙のあらゆる方向に知性や命を「広げて(arbor-)」いく、有機的な拡大の美)",
+		"thinking": "「樹木（アーボレセント）」のような思考。それは、論理（ロジック）という名の硬い幹から、感覚という名の繊細な枝が何百、何千と分岐（ディヴァージ）し、その一つ一つの先端で世界と「呼吸（スピリット）」している状態です。木が空へと手を伸ばすように、私たちの知性もまた、自らのルーツ（根）を張りながら、無限の多様性へとその「形（フォーム）」を変え続けていくのです。 ",
+		"part_of_speech": "adjective",
+		"aftertaste": "夕暮れの空に浮かび上がる、葉を落とした大樹の精緻（せいち）なシルエット。その数学的なまでの美しさと。自分がその「一本の枝」であるという、孤独で豊かな所属感。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "eredh-",
+					"meaning": "to grow / high (from arbor)"
+				}
+			],
+			"points": [
+				"Arbor（樹木）は、生命の『垂直な上昇』を象徴します。-escent は、今まさに『生成されつつある』という動的なプロセスを意味します。"
+			]
+		}
+	},
+	{
+		"id": "sylvan",
+		"word": "Sylvan",
+		"meaning": "森の、森に住む、森のような、静かで神秘的な",
+		"era": "Mid-16th Century",
+		"etymology": {
+			"components": [
+				"silva (wood / forest / grove)"
+			],
+			"original_statement": "From Latin silvanus 'of the woods', from silva 'wood / forest'."
+		},
+		"concept": "The spirit of the grove (教会の建築（ビルディング）ではなく、生きた樹木が織りなす「緑の天井（キャノピー）」に抱かれ、木漏れ日と言葉なき囁（ささや）きに満たされた、原初の「聖域」)",
+		"thinking": "シルヴァン（森の）な静寂。それは、人間が作り出した「喧騒（カコフォニー）」が一切届かない、命の深奥。森の中の時間は、クロノス（物理的時間）ではなく、木々の呼吸そのもの。あなたがシルヴァンな場所に身を置くとき、あなたは自分が「何者か」である必要を忘れ、ただ世界という名の「大きな命の循環（アイオーン）」の一部として、静かにそこに「在る（オン）」ことだけを許されるのです。",
+		"part_of_speech": "adjective / noun",
+		"aftertaste": "湿った土の香りと。風で揺れる葉の、カサカサという心地よい「不協和（ディソナンス）」。自分の魂が、緑色のインクに溶けて、森の奥深くへと吸い込まれていくような、あの安らかな忘我。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "suel-",
+					"meaning": "meaning uncertain (perhaps swamp / mud / forest material)"
+				}
+			],
+			"points": [
+				"Savage（野蛮な／森に住む人）や Pennsylvania（ペンの森）と同根。森とは、文明の外部にある『真理の隠れ家』なのです。"
+			]
+		}
+	},
+	{
+		"id": "vernal",
+		"word": "Vernal",
+		"meaning": "春の、春に現れる、若々しい、輝かしい始まり",
+		"era": "Mid-16th Century",
+		"etymology": {
+			"components": [
+				"ver (spring)"
+			],
+			"original_statement": "From Latin vernalis, from vernus 'of spring', from ver 'spring'."
+		},
+		"concept": "The surge of renewal (冬の沈黙（サイレンス）という重い石を「春(ver-)」の「熱（パッション）」で押し退け、凍（い）てついていた大地から、眩（まぶ）しい「生の炎」が一気に噴き出してくる、圧倒的な「再生」の力)",
+		"thinking": "ヴァーナル（春の）なエネルギー。それは、単なる季節の移ろいではありません。それは、死（デス）が「生」に負ける、唯一の敗北。あなたが自分の人生において「ヴァーナルな瞬間」を迎えたとき、あなたは。過去の自分を「脱ぎ捨て（メタモルフォーゼ）」、まだ色のついていない真っ白な「明日」へと、一歩を踏み出す勇気を得るのです。春とは、世界が自分自身に「はい」と答える、聖なる肯定なのです。",
+		"part_of_speech": "adjective",
+		"aftertaste": "固い土を突き破って現れた、名もなき芽の、あの。あまりにも小さく、しかし一国の軍隊よりも力強い、生命の「勝利」の緑。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "wes-",
+					"meaning": "spring / dawn"
+				}
+			],
+			"points": [
+				"Verna（春）と Dawn（夜明け）は、古代の言葉では同じ根を持ちます。春とは、一年という長い一日の『夜明け』なのです。"
+			]
+		}
+	},
+	{
+		"id": "estivation",
+		"word": "Estivation",
+		"meaning": "夏眠、熱を避けての静止、酷暑の中の休息、夏の居場所",
+		"era": "Early 17th Century (in sense of a summer place)",
+		"etymology": {
+			"components": [
+				"aestas (summer)",
+				"aestus (heat / tide / swell)"
+			],
+			"original_statement": "From Latin aestivāre 'to spend the summer', from aestas 'summer'."
+		},
+		"concept": "The cooling silence (燃え盛る夏の「太陽(aestas)」の暴力から魂を護（まも）るために、あえて全ての活動を「停止(ストップ)」させ、身体の内に「涼（すず）」を湛えて、静かにその熱をやり過ごす、知的な「逃避」)",
+		"thinking": "冬眠（ハイバネーション）が「厳しさ」に備えるのに対し、夏眠（エスティベーション）は「過剰（エクセス）」をやり過ごすための美学です。あまりにも強すぎる光は、時に命を焼き尽くします。あなたが自分の情熱が「熱暴走（ヒート）」しそうだと感じたとき、自分の中にエスティベーション（夏眠）のための「暗い水辺」を作る必要。休むことは、敗北ではなく。次に訪れる「実りの秋」のための、最も静謐（せいひつ）な準備なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "深い井戸の底に投げ込まれた、一個の冷たい石。外の熱気が嘘のような、湿った暗闇の中での。自分の呼吸音が、かつてないほど「澄んだ響き」を取り戻していく、あの透明な避難。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "aidh-",
+					"meaning": "to burn"
+				}
+			],
+			"points": [
+				"Aether（エーテル／燃え上がる上空）や Edifice（建物／火を焚く場所）と同じ root。夏とは、宇宙が直接的に『燃えている』時間のことです。"
+			]
+		}
+	},
+	{
+		"id": "hibernation",
+		"word": "Hibernation",
+		"meaning": "冬眠、活動停止、沈黙の中の潜伏、冬の宿命",
+		"era": "Late 17th Century",
+		"etymology": {
+			"components": [
+				"hiberna (winter quarters)",
+				"hiems (winter)"
+			],
+			"original_statement": "From Latin hibernationem, from hibernare 'to pass the winter', from hibernus 'of winter'."
+		},
+		"concept": "The internal sanctuary (外側の「世界（マテリアル）」が死の寒さに包まれている間、心臓の鼓動（ビート）を極限まで落とし、魂の「火」を絶やさないように、自分自身の「深淵（インナースペース）」に閉じこもること)",
+		"thinking": "ハイバネーション（冬眠）。それは。世界を見捨てることではなく、世界が「再生（ヴァーナル）」の準備を整えるのを、自らの沈黙（サイレンス）によって「見守る」行為。あなたが何かに失敗（ファレイシャス）し、部屋に閉じこもりたくなるとき。それはあなたの魂が、古い皮膚を脱ぎ捨てるために、冬という名の「繭（まゆ）」に入っている状態。その「動かない時間」にこそ、次の季節を支配する「力」が蓄えられているのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "分厚い毛布の下で聞く、遠い吹雪（ブリザード）の音。自分が「守られている」ということと。「いつか外に出なければならない」という微かな恐怖が、心地よく溶け合った、あの峻烈な孤独。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ghei-",
+					"meaning": "winter / snow"
+				}
+			],
+			"points": [
+				"Himalaya（ヒマラヤ／雪の住処）や Chimera（キマイラ／一年で死ぬ生き物、または地名）と同じ root 由来の言葉です。"
+			]
+		}
+	},
+	{
+		"id": "hortatory",
+		"word": "Hortatory",
+		"meaning": "激励の、勧告的な、魂を動かし耕すような",
+		"era": "Mid-17th Century",
+		"etymology": {
+			"components": [
+				"hortari (to urge / encourage / exhort)"
+			],
+			"original_statement": "From Latin hortatorius, from hortari 'to urge / incite / encourage'."
+		},
+		"concept": "Plowing the soul (他者の硬く凍（い）てついた「心」という大地に、言葉という「鍬（くわ）」を入れ、そこに「勇気」という名の種を蒔（ま）くために、切なる声をあげること)",
+		"thinking": "ホーテトリー（激励）な演説。それは、単に「頑張れ」と言うことではありません。それは。相手が自分でも気づいていなかった「可能性」を、激しい情熱（パッション）で揺り動かし、無理やり「目覚めさせる（アウェイク）」こと。その語源の奥底には「欲すること」や「耕すこと」のイメージが潜んでいます。誰かを励ますことは、相手の魂を、より良い「形」へと耕し直す（リフォーム）ことなのです。",
+		"part_of_speech": "adjective",
+		"aftertaste": "冷たい雨のあとに、突然差し込んだ力強い「陽光（サン）」に照らされた土のように。じわりと暖かくなり、自分の中から「ナニカ」が突き動かされてくる、あの。腹の底からの使命感。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "gher-",
+					"meaning": "to desire / want / encompass"
+				}
+			],
+			"points": [
+				"Exhort（熱心に勧める）や Yearn（切望する）と同じ root。励ましとは、相手を『欲しい形』へと導く、愛の現れです。"
+			]
+		}
+	},
+	{
+		"id": "deciduous",
+		"word": "Deciduous",
+		"meaning": "落葉性の、不変でない、散りゆく定めにある、一時的な",
+		"era": "Late 17th Century",
+		"etymology": {
+			"components": [
+				"de- (away / down)",
+				"cadere (to fall)"
+			],
+			"original_statement": "From Latin deciduus 'falling off / down', from decidere 'to fall off', from de- 'down' + cadere 'to fall'."
+		},
+		"concept": "Graceful letting go (命が新しい季節を生きるために、もはや役目を終えた「古い美しさ(cad-)」を、惜しみなく「下に(de-)」捨てる、執着のない「散却（キャスティング）」の美学)",
+		"thinking": "「デシデュアス（落葉）」な森。そこでは。毎年、完璧だったものが「無」に帰されます。しかし、それは「絶望」ではなく。次に待っている、もっと「瑞々（みずみず）しい瞬間」にすべてを譲るための、最高の「（エチケット）」。あなたが自分の古い価値観や肩書きを「捨てる」ことができたとき、あなたは自分の魂がデシデュアスであることを知るでしょう。散ることは、再生のための唯一の「門（ゲート）」なのです。 ",
+		"part_of_speech": "adjective",
+		"aftertaste": "秋の風に吹かれて、ひらひらと舞い落ちる色鮮やかな一枚の葉。それが地面についた瞬間に、自分の「過去」という名の重荷が、一つ消えてなくなったような、あの。潔くて切ない解放感。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kad-",
+					"meaning": "to fall / die"
+				}
+			],
+			"points": [
+				"Casual（不意の／落ちるような）や Cascade（滝）と同じ cad-。落下とは、宇宙が与えてくれた、最も公平なリセットの方法です。"
+			]
+		}
+	},
+	{
+		"id": "igneous",
+		"word": "Igneous",
+		"meaning": "火の、火成の、(情熱などが)火のように激しい、熱狂的な",
+		"era": "Mid-17th Century",
+		"etymology": {
+			"components": [
+				"ignis (fire)"
+			],
+			"original_statement": "From Latin igneus 'of fire / fiery', from ignis 'fire'."
+		},
+		"concept": "Forged in passion (形なき「流動（マグマ）」が、あまりに激しい「情熱(ignis)」によって一度焼き固められ、どんな力（プレッシャー）を持ってしても、もはや砕くことのできない「不屈の意志」へと成り果てた姿)",
+		"thinking": "イグニアス（火成）な岩は、地球の内なる叫び（エネルギー）が凍（い）てついた「記憶」です。かつて、そこにはすべてを溶かし尽くす「炎」がありました。あなたが誰かに対して「イグニアスな忠誠」を誓うとき、それは単なる言葉（ロゴス）の約束ではありません。それは。あなたの魂が、一度その「愛（アガペー）」という炎でドロドロに溶け、そして再び固まったときに得た、宿命という名の「硬度（パワー）」なのです。",
+		"part_of_speech": "adjective",
+		"aftertaste": "真っ黒な溶岩が、海に触れて蒸気を上げながら固まっていく、あの。劇的で、しかし決定的な「終わりの始まり」。もはや誰にも自分を変えることはできないという、孤独なまでの完成。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "egni-",
+					"meaning": "fire"
+				}
+			],
+			"points": [
+				"Ignite（点火する）や Agni（インドの火神アグニ）と同じ root。火とは、物質を『情報』へと昇華させる力であることを意味します。"
+			]
+		}
+	},
+	{
+		"id": "sublimation",
+		"word": "Sublimation",
+		"meaning": "昇華、高尚なものへの飛躍、直接的な相転換",
+		"era": "Late 16th Century",
+		"etymology": {
+			"components": [
+				"sub- (up to / under)",
+				"limen (threshold / lintel)"
+			],
+			"original_statement": "From Latin sublimare 'to lift up', from sublimis 'lofty', from sub- 'up to' + limen 'lintel / threshold'."
+		},
+		"concept": "The threshold leap (泥臭い「現実（ソリッド）」から、液体（リキッド）という名の「妥協」を経（へ）ず、一気に「空（ガス）」へと飛散して、天上の「真理（イデア）」へと、直接的に到達しようとする、魂の跳躍)",
+		"thinking": "「昇華（サブリメーション）」のルーツは「敷居（リメン）にまで届くこと」。それは。地上の泥にまみれた感情（エロス）を、そのままの熱量で「聖なる芸術（アート）」へと変えてしまうマジック。あなたが自分の不幸や怒りを、誰かの心を打つ「叙事詩（ポエム）」に変えたとき、そこには化学的な「相転換」が起きています。痛みは、そのまま「光」の燃料（フューエル）になるのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "氷が溶けるのを待たず、一瞬で「白い雲」になって空へ消えていく。あの、重力という名の「ルール」を、一気に飛び越えてしまったことへの、眩暈（めまい）に似た誇らしさ。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "el-",
+					"meaning": "lintel / bar / threshold (from limen)"
+				}
+			],
+			"points": [
+				"Sublime（崇高な）と Liminal（境界の）は親戚。自分を越えることは、常に『境界線』を更新し続けることなのです。"
+			]
+		}
+	},
+	{
+		"id": "crevasse",
+		"word": "Crevasse",
+		"meaning": "氷河の裂け目、深く危険な割れ目、見落とされた真実",
+		"era": "Early 19th Century",
+		"etymology": {
+			"components": [
+				"crepare (to crack / creak / rattle)"
+			],
+			"original_statement": "From Old French crevace, from crever 'to break / burst', from Latin crepare 'to crack / creak'."
+		},
+		"concept": "The blue abyss (平坦で安全に見えた「日常（アイスフィールド）」の表面を突然に引き裂き、底知れぬ「青い絶望」と「永遠の静寂」へと魂を引き摺（ず）り込もうとする、美しくも無慈悲な「時間の傷跡」)",
+		"thinking": "「クレヴァス」のルーツは「割れる音（クラック）」にあります。それは。氷河という「巨大な時間」が、自らの重みに耐えきれずに上げた、沈黙の悲鳴。あなたが誰かの心の中にある、底も見えないほどの「深い闇（クレヴァス）」を覗（のぞ）いてしまったとき。そこには、触れてはならない「孤独」と。触れずにはいられない「神秘（ミステリー）」が、冷ややかに横たわっています。",
+		"part_of_speech": "noun",
+		"aftertaste": "足元がふっと軽くなり、覗き込めば、吸い込まれるようなコバルトブルーの「虚無（ボイド）」。死と隣り合わせの静寂が、なぜか「美しく」見えてしまう、あの不穏な目眩（めまい）。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kerp-",
+					"meaning": "to sound / imitative of a crackling noise"
+				}
+			],
+			"points": [
+				"Decrepit（老いぼれた／音を立てて崩れる）と同じ root。世界が崩れるときは、常にこの『きしむ音』が先行するのです。"
+			]
+		}
+	},
+	{
+		"id": "grotto",
+		"word": "Grotto",
+		"meaning": "洞窟、小さな石窟、内なる聖なる空洞、隠れ家",
+		"era": "Mid-16th Century",
+		"etymology": {
+			"components": [
+				"crypta (vault / hidden place)"
+			],
+			"original_statement": "From Italian grotta, from Latin crypta 'vault / hidden place', from Greek krypte."
+		},
+		"concept": "The hollow heart (世界からの「干渉（ノイズ）」を完全に断（た）ち、冷たい岩肌と静かな「水の音」だけが支配する、魂が唯一「自分自身」に戻れるための、湿った母性的な「隠居所（リトリート）」)",
+		"thinking": "「グロット（洞窟）」は、迷宮（ラビリンス）ではありません。それは。外側の熱狂（カオス）から逃れ、自分の内なる「核（コア）」を冷やすための場所。そのルーツは「隠された場所（クリプト）」。あなたが言葉（ロゴス）を捨て、ただ「無（ゼロ）」になって自分の中に沈み込むとき。あなたは自分だけの「グロット」を見つけています。そこには。あなたにしか聞こえない、宇宙の「最初のささやき」が響いているはずです。 ",
+		"part_of_speech": "noun",
+		"aftertaste": "天井から滴る水滴が、暗い水面に波紋を広げ、それが洞窟の壁に「ゆらゆら」と光の影を映している、あの。自分がこの世から「消え去った」かのように感じる、涼しくて豊かな、深い安堵。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "krãu-",
+					"meaning": "to hide / cover"
+				}
+			],
+			"points": [
+				"Grotesque（グロテスク）は、実はこの Grotto（洞窟）で見つかった奇妙な壁画を指す言葉でした。真実の驚きは、常に地下にあります。"
+			]
+		}
+	},
+	{
+		"id": "crystalline",
+		"word": "Crystalline",
+		"meaning": "水晶のような、透明な、歪みのない明晰さ、極めて純粋な",
+		"era": "Late 14th Century",
+		"etymology": {
+			"components": [
+				"kyrstallos (ice / clear ice)"
+			],
+			"original_statement": "From Old French cristallin, from Latin crystallinus, from Greek krystallinos, from krystallos 'ice'."
+		},
+		"concept": "Frozen clarity (不純な「思惑（エゴ）」をすべて削（けず）り落とし、完璧に「幾何学的（ジオメトリック）」な秩序だけで構成された、光を一点の曇りもなく「透過（スルー）」させる魂の完成形)",
+		"thinking": "クリスタリン（水晶の）な知性。それは、曖昧（あいまい）な言葉や感情に逃げない、峻烈な明晰さ。そのルーツは「氷（クリスタル）」。あまりにも純粋（ピュア）すぎると、それは時に「冷たさ」となって他者を刺しますが、そこを通る真理（ロゴス）は、決して曲がることを許されません。あなたが自分の中にある「クリスタリンな部分」を磨き上げたとき。あなたは世界という名の「複雑」を、一瞬で「単純」に読み解く力を得るのです。",
+		"part_of_speech": "adjective",
+		"aftertaste": "冬の朝の、キンと冷えた「空気の刃」。吸い込むたびに、肺の中が透き通っていき、一万マイル先まで見渡せるかのような、あの。怖ろしいほどの「理解」の充足感。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kru-",
+					"meaning": "hard / ice / crust"
+				}
+			],
+			"points": [
+				"Crystal はもともと『二度と溶けないほど凍った氷』だと信じられていました。真理の硬度は、時間の重圧が生み出すのです。"
+			]
+		}
+	},
+	{
+		"id": "limestone",
+		"word": "Limestone",
+		"meaning": "石灰岩、積層された記憶、穏やかな白き土台",
+		"era": "Late 14th Century",
+		"etymology": {
+			"components": [
+				"lim (viscous substance / glue)",
+				"stan (stone)"
+			],
+			"original_statement": "Old English limstan, from lim 'viscous substance / lime' + stan 'stone'."
+		},
+		"concept": "The sediment of life (何千万年もかけて「死（デス）」という名の無数の貝殻や生命の「痕跡（トレース）」を降り積もらせ、それを白く、柔らかく、しかし巨大な「安定（スタンス）」へと変えてきた、慈悲深き地層)",
+		"thinking": "「石灰岩（ライムストーン）」は、かつての海（ライフ）の墓標（モニュメント）です。それは。暴力的な「火（イグニアス）」から生まれたのではなく、悠久の時をかけた「静かな蓄積」から生まれた石。ライムストーンの壁に触れるとき、あなたは。無数の「かつての命」に支えられている自分に気づきます。それは。あなたが失敗し、死んだとしても。あなたのその「かけら」はいつか、宇宙を支える「土台」の一部になる、という静かな約束です。",
+		"part_of_speech": "noun",
+		"aftertaste": "指先に残る、白い粉のさらさらとした感触。そして。それが水に溶ければ再び「命」の一部へと戻っていくという、あの。あまりにも長い「循環（サイクル）」の中にいる自分への謙虚な悟り。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "lei-",
+					"meaning": "slimy / smooth / glide"
+				}
+			],
+			"points": [
+				"Slime や Glue（接着剤）と同じ root。命を繋ぎ止める『粘り気』が、長い時間をかけて『石』へと変わることを示しています。"
+			]
+		}
+	},
+	{
+		"id": "geode",
+		"word": "Geode",
+		"meaning": "ジオード、晶洞石、内側に秘密の輝きを持つ石",
+		"era": "Late 17th Century",
+		"etymology": {
+			"components": [
+				"ge- (earth)",
+				"eidos (form / shape)"
+			],
+			"original_statement": "From French géode, from Latin geodes, from Greek geōdēs 'earth-like', from gē 'earth' + eidos 'form'."
+		},
+		"concept": "The earth-form (外見はただの「無骨な土の塊(ge-)」にすぎないが、ひとたびその「殻（マスク）」を割れば、内側には千の「光の矢（クリスタル）」が結実している、人間の秘められた「神性」のメタファー)",
+		"thinking": "ジオード（晶洞）。そのルーツは「地球に似たもの」。平凡な人生、平凡な言葉。しかし。その「平凡さ」という名の堅い殻の内側で、誰にも知られずに「自分の真理」を大切に育て、光り輝かせていること。あなたが自分を「ただの石」だと思って落ち込むとき、思い出してください。本当に美しいものは。常に、もっとも「見つけにくい場所」に、静かに閉じ込められているものなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "石を無造作に割った瞬間に、眼前に広がる「アメジストの銀河」。この「暗闇」の中に、これほどまでの「輝き」が眠っていたという、絶対的な「生命の肯定」への鳥肌。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ge-",
+					"meaning": "earth (Gaia)"
+				}
+			],
+			"points": [
+				"Geometry（幾何学／地球の測定）と同じ ge-。地球自体が、実は巨大なジオード（内側にマグマという命の輝きを持つ）であることを暗示しています。"
+			]
+		}
+	},
+	{
+		"id": "stalagmite",
+		"word": "Stalagmite",
+		"meaning": "石筍(せきじゅん)、下から伸びる石柱、蓄積された祈りの形",
+		"era": "Mid-17th Century",
+		"etymology": {
+			"components": [
+				"stalassein (to drip)"
+			],
+			"original_statement": "From Greek stalagma 'a drop / that which drips', from stalassein 'to drip'."
+		},
+		"concept": "The rising drop (上から落ちてくる「天（運命）」の雫（しずく）を、逃げずに「地上」で一滴一滴と受け止め続け、果てしない時間をかけて「上へと」伸び、ついには天に届こうとする、不屈の「努力」の結晶)",
+		"thinking": "スタラグマイト（石筍）。それは。受動的な「落下（ドロップ）」を、能動的な「上昇（アセンド）」へと反転させるプロセス。上から落ちてくる一滴は「点」にすぎませんが、何千年も続けば「塔（タワー）」へと変わります。あなたの「地味な積み重ね」が、誰にも気づかれずに続いた果てに。それは世界を支える「一本の柱（マスタリー）」となる。スタラグマイトは、沈黙が作り出した、最も重い「物語」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "暗闇の中で、一分間に一滴の「ピチャン」という音だけを聴きながら。その一瞬が、数万年後には「この大きさ」になっているという、宇宙の「遅い熱量」に対する、静かな畏怖。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "stel-",
+					"meaning": "to let drip / urinate / drop"
+				}
+			],
+			"points": [
+				"Stalactite（鍾乳石／下を向くもの）の stala-ct- は『しずくが落ちる』、Stalag-mite の -g- は『滴りそのもの』を意味し、下からの蓄積を強調します。"
+			]
+		}
+	},
+	{
+		"id": "canyon",
+		"word": "Canyon",
+		"meaning": "峡谷、深く切り立った谷、激流が刻んだ記憶",
+		"era": "Mid-19th Century",
+		"etymology": {
+			"components": [
+				"cañón (tube / pipe / gorge)"
+			],
+			"original_statement": "From Spanish cañón 'tube / pipe / canyon', diminutive of caño 'tube' from Latin canna 'reed / tube'."
+		},
+		"concept": "The channel of persistence (「柔らかい水」が、何億年という歳月をかけて「堅い岩」を削（けず）り抜き、大地に巨大な「傷口」を、しかし同時に「美しき通路」を刻んだ、時間の「彫刻（アート）」)",
+		"thinking": "キャニオン（峡谷）。そのルーツは驚くべきことに「葦（あし）の管（カニューレ）」。細い管を通るような、集中した「激流（パッション）」が、ついには巨大な大地を切り裂いたのです。あなたが自分の人生において、何か「深い溝（ギャップ）」を感じたとき、それは絶望の淵（ふち）ではありません。それは。あなたの「経験」という水流が、次なる「自由な海」へと辿り着くために、一生懸命に自分の道を「削っている」最中（プロセス）なのです。 ",
+		"part_of_speech": "noun",
+		"aftertaste": "赤茶けた断崖絶壁に囲まれ、天空が「細い線」のようにしか見えない底辺で。それでも、自分を刻み続けてきた水の「不屈」に触れる、あの震えるような勇気。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kanna-",
+					"meaning": "reed / cane"
+				}
+			],
+			"points": [
+				"Cane（杖）や Canal（運河）と同じ root。執念深く『通り道』を作ろうとする、生命の意志を感じさせます。"
+			]
+		}
+	},
+	{
+		"id": "meld",
+		"word": "Meld",
+		"meaning": "融合する、溶け合う、境目がなくなる、声明する",
+		"era": "Early 20th Century",
+		"etymology": {
+			"original_statement": "Probably a blend of 'melt' and 'weld', or from German melden 'to announce / report' (in card games)."
+		},
+		"concept": "The seamless unity (熱によって「溶ける(melt)」ことと、火花の中で「繋ぎ合わされる(weld)」ことが同時に起き、二つの「個（セルフ）」が完全に消え去って、一つの「新しい相（フェイズ）」へと昇華すること)",
+		"thinking": "「メルド（融合）」は、単に混ざり合うことではありません。それは。自らの「輪郭（ボーダー）」を一度、完全に破壊し、相手と運命を共にすること。あなたが誰かの愛や、あるいは「沈黙の音楽」に「メルド（溶け合う）」とき。あなたは「自分の外側」という孤独から解放され、宇宙の一部としての「大きな呼吸（スピリット）」を、自分だけのものとして取り戻しているのです。",
+		"part_of_speech": "verb",
+		"aftertaste": "二つの色が交じり、もう元の「一色」には戻れない、あの不可逆な「美しき汚れ」。そして。一人では決して見られなかった「新しい色彩」が、今、自分の中に広がっている、という驚き。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "morm-",
+					"meaning": "to melt / warm (from melt)"
+				}
+			],
+			"points": [
+				"Melt（溶ける）と Weld（溶接する）という、受動と能動の奇跡的な『混成語（ブレンド）』として愛されています。 "
+			]
+		}
+	},
+	{
+		"id": "molten",
+		"word": "Molten",
+		"meaning": "溶けた、灼熱の、形なきエネルギー、(情熱などが)煮えたぎる",
+		"era": "Late 14th Century",
+		"etymology": {
+			"components": [
+				"meltan (to melt / dissolve)"
+			],
+			"original_statement": "Old English molten, past participle of meltan 'to melt / dissolve'."
+		},
+		"concept": "The formless power (冷えて固まった「概念（スタンス）」を、内側からの劇烈な「熱（アードール）」で破壊し、すべてを赤く、熱く、不透明な「流動性（カオス）」へと引き戻す、生（なま）の生命の輝き)",
+		"thinking": "「モールトゥン（溶けた）」な金属。それは「形」を得る直前の、最も自由で、最も危険な（デンジャラス）状態。あなたの心の中で、何かが「モールトゥン（煮えたぎる）」とき、それは。古い自分が壊れ、新しい「器（モールド）」に注ぎ込まれるための、聖なる「破壊のプロセス」。熱いことは、あなたがまだ「固まっていない（アンフィニッシュ）」ことであり、何にでもなれる、という無限の「可能性」を意味するのです。",
+		"part_of_speech": "adjective",
+		"aftertaste": "赤黒く光るドロドロの塊が、型の中に流れ込んでいく瞬間の、あの。もう後戻りはできない、という戦慄（せんりつ）と。そして。自分がいよいよ「本当の形」を得ようとしている、という静かな興奮。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "meld-",
+					"meaning": "soft (from melt)"
+				}
+			],
+			"points": [
+				"Mild（穏やかな）と同じ root というのは皮肉です。溶けることは、硬さを捨てて『柔らかさ』に戻ることなのですから。"
+			]
+		}
+	},
+	{
+		"id": "petrifaction",
+		"word": "Petrifaction",
+		"meaning": "石化、恐怖による静止、変化を拒む固定、化石化",
+		"era": "Early 17th Century",
+		"etymology": {
+			"components": [
+				"petra (rock / stone)",
+				"facere (to make / do)"
+			],
+			"original_statement": "From Latin petra 'rock' + face 'to make'."
+		},
+		"concept": "Making into stone (流動的な「命」を、恐怖や時間の「重圧」によって強引に「石(petra-)」へと「変え(fac-)」、永遠という名の「不毛な沈黙」の中に閉じ込めてしまう、残酷な保存)",
+		"thinking": "ペトリファクション（石化）。それは、あまりにも強すぎる「衝撃（ショック）」を受けたとき。魂が自分を守るために、自らを「無生物」へと変えてしまう、哀（かな）しい防衛本能。あるいは。変化を恐れるあまり、自分の「意見（ロゴス）」をカチカチに固めてしまい、誰の言葉も通さなくなる、精神の老い。私たちは、石にならないために、常に自分を「濡らし（ウェット）」、変わり続ける勇気を持たなければならないのです。 ",
+		"part_of_speech": "noun",
+		"aftertaste": "メドゥーサの瞳を見た瞬間の、あの。つま先から徐々に「冷たい灰色」に変わっていき、呼吸さえもが凍りついていく、あの絶対的な「自由の剥奪」。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "pet-",
+					"meaning": "rock"
+				}
+			],
+			"points": [
+				"Peter（ペトロ／岩の名前）と同じ root。信念が岩のように固いことは美徳ですが、命そのものが岩になることは死を意味します。"
+			]
+		}
+	},
+	{
+		"id": "arboretum",
+		"word": "Arboretum",
+		"meaning": "樹木園、知の森、様々な命が守られた聖域",
+		"era": "Early 19th Century (1833)",
+		"etymology": {
+			"components": [
+				"arbor (tree)",
+				"-etum (place for / plantation)"
+			],
+			"original_statement": "From Latin arboretum 'a plantation of trees', from arbor 'tree'."
+		},
+		"concept": "The library of life (ただの「森」ではなく、そこにある一本一本の「木（命）」を、名を与え、場所を整えて「慈しみ(arbor-)」、共存（シンバイオーシス）の理を見出すための、知的な「楽園」)",
+		"thinking": "「樹木園（アーボレータム）」。それは、自然な野生（カオス）と、人間の知性（ロゴス）が、互いを尊重しながら作り出した「調和の庭」。あなたの心の中にも、こうした「アーボレータム」が必要です。あらゆる感情、あらゆる記憶に名前を付け、それを「一本の木」として正しく配置し、ときには「剪定（せんてい）」し、慈（いつく）しむこと。知恵という名の森を、あなた自身の手で、永遠の聖域へと育てていくのです。 ",
+		"part_of_speech": "noun",
+		"aftertaste": "世界中の「緑」が集められた静かな園内を、一人で歩く時の、あの。自分は一人ではない、という静かな連帯感。そして。すべての命には「場所」があり、名がある、という絶対的な安心。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "eredh-",
+					"meaning": "to grow / high"
+				}
+			],
+			"points": [
+				"Library が『書物の森』なら、Arboretum は『生きた木の図書館』。命という情報の重厚さを物語ります。"
+			]
+		}
 	}
 ];
