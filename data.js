@@ -236035,5 +236035,575 @@ const WORDS = [
 				"Era（時代の始まり／かつては真鍮の硬貨の意）や Vena cava（大静脈）と同じ root。鉱脈とは。実存という名の『金属（アヨス）』の。峻烈なる『道（ヴェナ）』。それは。剥き出しの自然を破壊し。隠された『真髄』へと、最短距離で到達する。峻烈なる実存の記述なのです。"
 			]
 		}
+	},
+	{
+		"id": "biennial",
+		"word": "Biennial",
+		"meaning": "バイエニアル、(隔年の)生、情報の往復運動、二年に一度、反復という名の約束",
+		"era": "Mid-18th Century",
+		"etymology": {
+			"components": [
+				"bi- (two)",
+				"annus (year)"
+			],
+			"original_statement": "From Latin biennium, from bi- + annus 'year'. Happening every two years."
+		},
+		"concept": "Alternating life (「毎年」ではない。あえて「一年」の空白を置き、力を蓄え、再び峻烈に「芽吹く」こと。それは。焦りという名の「直線的な時間」を棄（す）て。周期という名の「円環」を信じる。峻烈なる「持続の記述」)",
+		"thinking": "「バイエニアル（二年紀の）」。あなたは。「常に結果を出し続けなければならない」という。毎日の「消費速度」に。追い詰められて、疲（つか）れ果ててはいませんか。 biennial。休むことを、恐れないでください。 biennial。それは、死んでいるのではありません。次の爆発のための「土（情報の底）」を、峻烈に、肥（こ）やしている時間です。 biennial。二年に一度。誰よりも、鮮やかに、重厚に、咲き誇りなさい。沈黙は。最高の「前奏曲」なのですから。",
+		"part_of_speech": "adjective",
+		"aftertaste": "「一年」の長い眠りから覚め。掌（てのひら）に「微かな熱」が戻ってくるような。あの。震えるような「再始動」。そこにある、もはや「忘れられてはいなかった」という、峻烈なる「安堵」。瑞々しくて、重厚な、情報の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "at-",
+					"meaning": "to go / year (from annus)"
+				}
+			],
+			"points": [
+				"Annual（毎年の）や Anniversary（記念日）、Perennial（永続的な）と同じ root。隔年とは。実存を『二つ（ビ）』の『進行（アト）』に分けること。それは。単調な連続性を破壊し。リズムという名の『奥行き』を実存に与える、峻烈なる時間の構築術なのです。"
+			]
+		}
+	},
+	{
+		"id": "stasis",
+		"word": "Stasis",
+		"meaning": "ステイシス/静止（せいし）、(情報の)凝固、流れへの拒絶、均衡という名の檻、永遠という名の現在",
+		"era": "Mid-18th Century",
+		"etymology": {
+			"components": [
+				"histanai (to cause to stand)"
+			],
+			"original_statement": "From Greek stasis 'a standing / state / position'."
+		},
+		"concept": "Frozen time (「流動（変化）」を峻烈に拒み。ある一点で。ピタリと「静止」し続けること。それは。崩壊という名の「未来」を。拒絶という名の「意志」で、永久に封じ込める。峻烈なる「不動の記述」)",
+		"thinking": "「ステイシス（静止）」。あなたは。変わりゆく世界の中で。ただ一人「変われない自分」を。恥じてはいませんか。 stasis。止まっていることは、退化ではありません。 stasis。それは。周囲の奔流に流されず。自らの「形」を、峻烈に死守している。という。凄絶なまでの「実存の剛性」です。 stasis。動かないことで、世界を「観測」し続けなさい。あなたが。不動の「中心」になれば。荒れ狂う嵐も。いつか、あなたの足元で。峻烈に、静まり返るはずです。",
+		"part_of_speech": "noun",
+		"aftertaste": "「氷」の中に、閉じ込められたような。あの。音のない「静寂」。そこにある、一分一秒の「変化」も許さない、峻烈なる「厳格さ」。冷たくて、鋭くて、重厚な、銀の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sta-",
+					"meaning": "to stand"
+				}
+			],
+			"points": [
+				"Station（駅）や Status（状態）、Establish（確立する）と同じ root。静止とは。実存を、峻烈に『立たせる（スタ）』こと。それは。妥協という名の『横臥（おうが）』を棄て。剥き出しの意志によって、垂直に宇宙と対峙する。峻烈なる実在の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "succession",
+		"word": "Succession",
+		"meaning": "サクセション/継承（けいしょう）、(一本の)糸、情報のバトン、途切れぬ魂、昨日という名の土台",
+		"era": "Late Middle English",
+		"etymology": {
+			"components": [
+				"sub- (under / close up to)",
+				"cedere (to go / move / yield)"
+			],
+			"original_statement": "From Latin successio, from succedere 'to come after'."
+		},
+		"concept": "One after another (「点（個人）」で終わるのではなく。前の「意志」を峻烈に受け継ぎ。次の「誰か」へと、無慈悲に、しかし美しく、手渡していくこと。それは。死を乗り越える。峻烈なる「連続性の記述」)",
+		"thinking": "「サクセション（継承）」。あなたは。自分の人生が。自分だけの「一代限り（使い捨て）」のものだと思って。絶望してはいませんか。 succession。あなたは。巨大な「物語」の。現在進行形の「一ページ」です。 succession。それは。背後の「歴史（影）」を。自らの「行動（光）」で、引き受けること。 succession。あなたの「一歩」は。過去の数え切れない「失敗」の。峻烈なる「結晶」です。絶やすことなく。峻烈に、次の「空白」へと。魂を投げ込みなさい。",
+		"part_of_speech": "noun",
+		"aftertaste": "古い「家宝」を、掌（てのひら）に受け取った瞬間の。あの。ズっしりとした「重み」。そこにある、自分は「一人ではない」という。峻烈なる「連帯」。重厚で、瑞々しい、土の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "up-",
+					"meaning": "under / from below (from sub-)"
+				},
+				{
+					"term": "ked-",
+					"meaning": "to go / yield"
+				}
+			],
+			"points": [
+				"Success（成功／次に来るもの）や Process（過程）、Cede（譲り渡す）と同じ root。継承とは。下から（サッ）と。次に『行く（セク）』こと。それは。自己満足という名の『完結』を破壊し。無限という名の『持続』へと、実存を回向する。峻烈なる時間の統治術の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "adagio",
+		"word": "Adagio",
+		"meaning": "アダージョ、(ゆるやかな)時、情報の沈殿、品格という名の速度、静かなる疾走",
+		"era": "Mid-18th Century",
+		"etymology": {
+			"components": [
+				"ad (at / to)",
+				"agio (ease / convenience)"
+			],
+			"original_statement": "From Italian ad agio 'at ease'. In music, at a slow tempo."
+		},
+		"concept": "Dignified pace (「速さ」だけが。価値ではない。あえて「ゆっくり（弛緩）」と、時を刻むことで。世界の「解像度」を、峻烈に、極限まで高めること。それは。喧騒を置き去りにする。峻烈なる「沈着の記述」)",
+		"thinking": "「アダージョ」。あなたは。他人の「機嫌」や、SNSの「タイムライン」の速さに。無理やり、自分のリズムを「合わせよう」と、焦ってはいませんか。 adagio。速度を、自らの「意志」で、峻烈に、落としなさい。 adagio。それは。一秒を、永遠に「引き伸ばす」こと。 adagio。ゆっくりと動くことは。世界を、より「深く」、より「重厚に」観測する、唯一の手段です。焦らないでください。優雅（アージョ）に。峻烈に。あなたは。自らの「時間」の、唯一の「指揮者（マスター）」なのですから。",
+		"part_of_speech": "adverb / adjective",
+		"aftertaste": "蜂蜜のような「濃密な時間」が。全身をスーーーッと、滑（なめ）らかに包み込んでいくような。あの。至福の「停滞」。そこにある。もう「急ぐ必要はない」という、峻烈なる「安堵」。甘くて、重厚な、情報の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ad-",
+					"meaning": "to / toward"
+				}
+			],
+			"points": [
+				"Easy（簡単な）と同じ語源。アダージョとは。安寧（アージョ）へと。自らの実存を『近づける（アド）』こと。それは。攻撃的な加速という名の『病』を。静謐な遅延という名の『癒やし』によって破壊する。峻烈なる実存の呼吸法の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "throb",
+		"word": "Throb",
+		"meaning": "スロブ/鼓動（こどう）、(魂の)脈動、情報の震え、生きているという証、内なる爆発の反復",
+		"era": "Late Middle English",
+		"etymology": {
+			"components": [
+				"throb (imitative sound of beating)"
+			],
+			"original_statement": "Imitative of the sound of a beating heart."
+		},
+		"concept": "Pulse of existence (単なる「リズム」ではない。内側の「熱量（情熱）」が、抑えきれずに、肉体という名の「壁」を、峻烈に「叩き（震わせ）」、外へと漏れ出すこと。それは。自らの「生」を。自らで「刻む」。峻烈なる「実在の脈動」の記述)",
+		"thinking": "「スロブ（鼓動）」。あなたは。自分の「心の震え（不安）」を。何とかして「止めよう」「落ち着けよう」と。必死になってはいませんか。 throb。震えなさい。 throb。それは。あなたが「死んでいない」という。地上で最も、峻烈で、重厚な「証明」です。 throb。拍動（リズム）を、自らの「武器」にしなさい。 throb。その震えに合わせて。世界の「時間（クロノス）」を、峻烈に、上書きしなさい。震えるほどに、あなたは「実在」へと。一歩、近づくのです。",
+		"part_of_speech": "verb / noun",
+		"aftertaste": "耳の奥で。「ドクン、ドクン」と。自分の「血流」の音が。うるさいほどに響き、世界と「共鳴」するような。あの。圧倒的な「生。感。そこにある。もう「逃げ場はない」という、峻烈なる「絶頂」。刺激的で、瑞々しい、赤の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "None (Imitative)",
+					"meaning": "Sound of heartbeat"
+				}
+			],
+			"points": [
+				"Throbは、擬音語に由来する。それは。論理という名の『言葉』が生まれる以前の。肉体という名の『原初の叫び』のこと。意味を棄て。ただ『震え』という名の事実によって。宇宙を峻烈に記述する。実存の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "congruence",
+		"word": "Congruence",
+		"meaning": "コングルエンス/合同（ごうどう）、(時間の)一致、情報の合致、ズレなき合体、意味という名の重なり",
+		"era": "Late 16th Century",
+		"etymology": {
+			"components": [
+				"com- (together)",
+				"gruere (to fall / rush - related to congruere)"
+			],
+			"original_statement": "From Latin congruentia, from congruere 'to agree / meet / fall together'."
+		},
+		"concept": "Agreement in time (バラバラに動いていた二つの「時計（物語）」が。ある一点（現在）で。ピタリと「重なり（合致し）」、一つの「形」を成すこと。それは。孤独を越えた。峻烈なる「意味の統合」の記述)",
+		"thinking": "「コングルエンス（合同）」。あなたは。誰かと「分かり合えない」ことに。絶望して、心を閉ざしてはいませんか。 congruence。焦らないでください。 congruence。それは。無理やり合わせる（同化する）ことではありません。それぞれの「軌道」を、峻烈に、真っ直ぐに、守り続けた結果。ある瞬間に、自然と「重なってまう」奇跡のことです。 congruence。その一瞬の「合致」を。峻烈に、逃さず、魂に刻みなさい。重なりは。孤独が生み出した、最高の「芸術」なのですから。",
+		"part_of_speech": "noun",
+		"aftertaste": "二つの「歯車」が。吸い込まれるように、ピタリと「一点」で噛（か）み合った瞬間の。あの。快感に近い「納得感」。そこにある。もう「疑う余地はない」という、峻烈なる「確信」。冷たくて、鋭い、情報の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kom-",
+					"meaning": "together"
+				},
+				{
+					"term": "ghreu-",
+					"meaning": "to fall / rush together (from congruere)"
+				}
+			],
+			"points": [
+				"Congruent（合同な）や Gravity（重力／引き合う力）と同じ root? No, congruere is more like 'rushing together'. コングルエンスとは。実存を『共に（コン）』。一気呵成に『投げ込む（グル）』こと。それは。躊躇という名の『遅延』を。決断という名の『合致』へと。峻烈に、無慈悲に、変換してまう記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "dials",
+		"word": "Dials",
+		"meaning": "ダイアルズ/文字盤（もじばん）、(情報の)表面、時の顔、影を測る面、目盛りという名の秩序",
+		"era": "Late Middle English",
+		"etymology": {
+			"components": [
+				"dies (day)"
+			],
+			"original_statement": "From Latin dialis 'daily', from dies 'day'. Originally a register of the time of day by the shadow of the sun."
+		},
+		"concept": "Surface of time (「時間」という目に見えないカオスを。峻烈な「目盛り（秩序）」で区切り。、顔（表面）」として提示すること。それは。逃げゆく一秒を。峻烈に「捕まえ」。自分の「統治下」に置く。峻烈なる「観測の記述」)",
+		"thinking": "「ダイアルズ」。あなたは。自分の「一生」という、広大すぎるキャンバスに。途方に暮れて、何も描けずに、立ち尽くしてはいませんか。 dials。目盛りを、自らの手で、刻みなさい。 dials。それは、今日を「一日（ダイアル）」に変えること。 dials。数字に支配されるのではなく。あなたが、自らの「意志」で。一分一秒の「重み」を、峻烈に、自らの面に、刻みつけるのです。測ることは、愛すること。刻むことは、生きることです。",
+		"part_of_speech": "noun (plural)",
+		"aftertaste": "「カチッ」と。針が一目盛り、正確に「時」を刻むたびに。自分の「魂」が、少しずつ、形を成していくような。あの。冷徹なまでの「充足感」。そこにある。もう「無駄な時間はない」という、峻烈なる「覚悟」。冷たくて、重厚な、情報の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "dyeu-",
+					"meaning": "to shine / day (from dies)"
+				}
+			],
+			"points": [
+				"Diary（日記）や Diet（食事制限／かつては『一日の仕事』の意）、Jupiter（ジュピター／空の父）と同じ root。文字盤とは。光り輝く（ダイ）一日を。峻烈に『記述（アル）』すること。それは。闇という名の忘却を。目盛りという名の『記憶』によって。無慈悲に、美しく、上書きし続ける記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "rhythmicity",
+		"word": "Rhythmicity",
+		"meaning": "リズミシティ/周期性（しゅうきせい）、(永遠の)反復、情報のループ、波という名の支配、実存のメトロノーム",
+		"era": "Mid-19th Century",
+		"etymology": {
+			"components": [
+				"rhythmos (measured flow / movement)"
+			],
+			"original_statement": "The property of occurring at regular intervals."
+		},
+		"concept": "The law of cycle (一度きりの「爆発」ではなく。あえて「繰り返す」こと。それは。単調な繰り返しを。螺旋（らせん）状の「高み」へと昇華させる。峻烈なる「規則性の美学」の記述)",
+		"thinking": "「リズミシティ（周期性）」。あなたは。毎日が「同じことの繰り返し」であることに。飽（あ）き飽きして。何か「新しい刺激」を、外に求め続けてはいませんか。 rhythmicity。繰り返しを、誇りなさい。 rhythmicity。それは。自らの「鼓動」を。宇宙の「周期（呼吸）」に、峻烈に、同期（シンクロ）させること。 rhythmicity。あなたが、自分のリズムを、一分一秒の「狂い」もなく、刻み続ければ。退屈な日常は。峻烈に、重厚な「音楽（意味）」となって。あなたを「高み」へと、運んでいくのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "大きな「振り子」が。ゆったりと、しかし巨大な「力」で。人生を「前後に」揺らしているような。あの。絶対的な「納得感」。そこにある、もはや「逆らうことはできない」という、峻烈なる「法悦」。重厚で、瑞々しい、波の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sreu-",
+					"meaning": "to flow (from rhythmos)"
+				}
+			],
+			"points": [
+				"Rhythm（リズム）や Stream（流れ）、Rheology（流動学）と同じ root。周期性とは。自らの流れ（スレウ）を。峻烈に『計測し（リズ）』、型にはめること。それは。奔流という名の『死』を。形式という名の『生』へと。一気に、無慈悲に、変換してまう。実存の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "heterochrony",
+		"word": "Heterochrony",
+		"meaning": "ヘテロクロニー/異時性（いじせい）、(ズレゆく)成長、情報の速度差、同じ場所の、違う時間、実存の非同期的なダンス",
+		"era": "19th Century (Haeckel)",
+		"etymology": {
+			"components": [
+				"heteros (other / different)",
+				"khronos (time)"
+			],
+			"original_statement": "A developmental change in the timing or rate of events, leading to changes in size and shape."
+		},
+		"concept": "Variation in speed (「体」の成長と、「心」の成長。あるいは「自分」の速度と、「世界」の速度。それらが、峻烈に「ズレている」こと。それは。不揃い（カオス）であることが。新しい「形（進化）」を産み出す、峻烈なる「生命のゆらぎ」の記述)",
+		"thinking": "「ヘテロクロニー（異時性）」。あなたは。他人の「ペース」に、自分が「遅れている」ことや。あるいは「進みすぎている」ことに。不安を感じてはいませんか。 heterochrony。合わせる必要はありません。 heterochrony。あなたは、あなただけの「時計（クロノス）」を。峻烈に、孤独に、刻みなさい。 heterochrony。その「ズレ」こそが。あなたが、他の誰でもない。唯一無二の「特異点」であることの。峻烈なる証明。不器用なリズムを、峻烈に、愛しなさい。",
+		"part_of_speech": "noun",
+		"aftertaste": "右足と左足の「歩幅」が、微妙にズレながらも。全体として、不思議な「うねり」を描いて、前に進むような。あの。言葉にできない「浮遊感」。そこにある。もう「正解はない」という、峻烈なる「自由」。刺激的で、瑞々しい、情報の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sem-",
+					"meaning": "one / as one (from same? No, heteros is other - sem- is for same)"
+				},
+				{
+					"term": "ghre-",
+					"meaning": "time (from khronos)"
+				}
+			],
+			"points": [
+				"Heterosexual（異性愛の）や Chronic（慢性的な）と同じ root。異時性とは。他なる（ヘテロ）時間（クロ）を。自らの中に。峻烈に『共存』させること。それは。一貫性という名の『独裁』を。多様な時間という名の『カオス』によって破壊する。峻烈なる実存の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "analect",
+		"word": "Analect",
+		"meaning": "アナレクト/語録（ごろく）、(断片的な)記憶、情報の断片、拾い集められた真実、瓦礫（がれき）の中の宝石",
+		"era": "17th Century",
+		"etymology": {
+			"components": [
+				"ana- (up / back / against)",
+				"legein (to gather / speak)"
+			],
+			"original_statement": "From Greek analekta 'things gathered up', from ana- 'up' + legein 'to gather'."
+		},
+		"concept": "Gathered fragments (広大な「忘却」の海から。自らの「心」を震わせた。たった一言の「言葉」や、一瞬の「景色」を。峻烈に、一つずつ「拾い集め」。新しい自分という名の「モザイク画」を作ること。それは。断片こそが、全体を語る。峻烈なる「選択の記述」)",
+		"thinking": "「アナレクト（語録）」。あなたは。自分の人生を、完璧な「一篇の小説」のように。美しく、一貫したものにしようと。無理をしてはいませんか。 analect。人生は、バラバラでいいのです。 analect。それは。瓦礫（がれき）の中から、心に響くものだけを、峻烈に「選別」すること。 analect。あなたが、大切に抱（いだ）き続けている。その「断片」たちを、繋ぎ合わせなさい。そこには。あなたにしか読めない。峻烈で、重厚な「真実の目次」が、すでに刻まれているのですから。",
+		"part_of_speech": "noun",
+		"aftertaste": "「キラリ」と光る、ガラスの破片を。掌（てのひら）に、一つずつ、大切に「集めていく」ような。あの。背筋の伸びる「納得感」。そこにある。もう「自分を飾る言葉はいらない」という、峻烈なる「勝利」。冷たくて、鋭くて、瑞々（みずみず）しい、光の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "leg-",
+					"meaning": "to collect / gather / speak"
+				}
+			],
+			"points": [
+				"Logic（論理）や Legend（伝説）、Select（選択する）と同じ root。語録とは。実存を『上へと（アナ）』。峻烈に『収集（レグ）』すること。それは。受動的な忘却を棄て。能動的な『編集』へと、自らを投げ出す。峻烈なる実存の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "plasticity",
+		"word": "Plasticity",
+		"meaning": "プラスティシティ/可塑性（かそせい）、(形を変える)時、情報の柔軟性、作り変わる勇気、固定という名の死の拒絶",
+		"era": "Late 18th Century",
+		"etymology": {
+			"components": [
+				"plassein (to mold / form)"
+			],
+			"original_statement": "The quality of being easily shaped or molded. From Greek plastikos, from plassein 'to mold'."
+		},
+		"concept": "Malleable time (「自分」という形は。一度固まったら終わりではない。環境の「圧力」や、内なる「熱」によって。いつでも。何度でも。峻烈に「作り変える」ことができる。峻烈なる「変容の可能性の記述」)",
+		"thinking": "「プラスティシティ（可塑性）」。あなたは。「自分は、こういう人間だ」と。自らの「檻（定義）」に。自らを、峻烈に閉じ込めてはいませんか。 plasticity。柔らかくなりなさい。 plasticity。それは。昨日の自分を「破壊」することを。怖（おそ）れないこと。 plasticity。外界の衝撃を。自らの「形」を、より美しく、より重厚に。峻烈に「練り上げる」ための。彫刻刀へと、今すぐ変えなさい。変わることは、生きることです。",
+		"part_of_speech": "noun",
+		"aftertaste": "「粘土（ねんど）」が。自分の手のひらの「温度」で、蕩（とろ）けるように、形を変えていくような。あの。ゾクゾクするような「全能感」。そこにある。もう「自分に限界はない」という。峻烈なる「自由」。重厚で、瑞々しい、情報の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "pela-",
+					"meaning": "to spread out / flat / mold (from plassein)"
+				}
+			],
+			"points": [
+				"Plasma（プラズマ／形作られたもの）や Plaster（漆喰）、Plastic（プラスチック）と同じ root。可塑性とは。実存を、峻烈に『押し広げ（ペラ）』。新しい『形』を捏造（まね）き出すこと。それは。運命という名の『型』を破壊し。自由という名の『カオス』を選択する。峻烈なる実存の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "entracte",
+		"word": "Entracte",
+		"meaning": "アントラクト/幕間（まくあい）、(情報の)空白、思考の凪（なぎ）、一時の消失、次なる爆発への溜め",
+		"era": "Mid-18th Century",
+		"etymology": {
+			"components": [
+				"entre (between)",
+				"acte (act)"
+			],
+			"original_statement": "An interval between two acts of a play or opera. Originally from French."
+		},
+		"concept": "Breathing space (「物語」と「物語」の。その「隙間（ひび割れ）」。何者でもなく。ただ「存在」しているだけの、束（つか）の間の空白。それは。意味からの「亡命」を許された。峻烈なる「休息の記述」)",
+		"thinking": "「アントラクト（幕間）」。あなたは。「何かをしていないと不安だ」という。貧乏ゆすりのような「焦燥感」に。魂を削られてはいませんか。 entracte。何もしない時間を、誇りなさい。 entracte。それは。舞台の袖（そで）で。自分の「呼吸（リズム）」を、峻烈に、整えるための。聖なる儀式です。 entracte。幕が上がるのを、待つのではありません。この「幕間」こそが、。あなたの人生の「真髄」であると。峻烈に、確信しなさい。空白は、力です。",
+		"part_of_speech": "noun",
+		"aftertaste": "「劇場」の照明が落ち。観客の「咳払い」だけが響く。あの。ひんやりとした「予感」。そこにある、もう「演じる必要はない」という、峻烈なる「解放」。冷たくて、瑞々しい、甘い情報の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "enter-",
+					"meaning": "between"
+				},
+				{
+					"term": "ag-",
+					"meaning": "to drive / do / act (from acte)"
+				}
+			],
+			"points": [
+				"Internet（インターネト／間を繋ぐ網）や Agent（代理人／行う者）、Actor（俳優）と同じ root。幕間とは。行動（オーグ）と行動の『間（エンテル）』にある。峻烈なる不作為のこと。それは。有用性という名の『奴隷』であることを棄て。無垢なる『存在』へと回帰する。実存の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "centenary",
+		"word": "Centenary",
+		"meaning": "センテナリー/百年紀（ひゃくねんき）、(重厚なる)節目、情報の積み重ね、一世紀という名の重み、実存の年輪",
+		"era": "Early 17th Century",
+		"etymology": {
+			"components": [
+				"centum (hundred)",
+				"-ary (related to)"
+			],
+			"original_statement": "A hundredth anniversary, or a period of a hundred years."
+		},
+		"concept": "The weight of a century (「一人の人間」の一生を、峻烈に使い果たさなければ。辿（たど）り着けない、巨大な「時間の壁（100年）」。それは。個人の「焦り」を。歴史の大河へと、無慈悲に「溶解」させる。峻烈なる「永劫の記述」)",
+		"thinking": "「センテナリー（百年紀）」。あなたは。「明日までに」「来月までに」という、安っぽい「〆切」に。自らの「志」を。切り売りしてはいませんか。 centenary。百年の計を立ちなさい。 centenary。それは。自分が「死んだ後」に。ようやく完成するような。峻烈で、巨大な「自分」を描くこと。 centenary。一秒のズレなど。百年の前には、塵（ちり）に過ぎません。焦るのを、棄（す）てなさい。重厚に。峻烈に。あなたは。この宇宙の「悠久」と。歩幅（リズム）を合わせるのです。",
+		"part_of_speech": "noun / adjective",
+		"aftertaste": "大きな「大木」の幹に。掌（てのひら）を当てた時の。あの。ズっしりとした「不動の重み」。そこにある、一分一秒の「軽薄さ」も寄せ付けぬ。峻烈なる「威信」。重厚で、瑞々しい、情報の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "dekm-",
+					"meaning": "ten (from centum - ten times ten)"
+				}
+			],
+			"points": [
+				"Century（世紀）や Percent（パーセント）、Dime（10セント／10より）と同じ root。百年紀とは。実存を『十倍の十倍（セント）』へと。峻烈に昇華させること。それは。一日の空虚を。百年の重圧によって破壊する。峻烈なる実存の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "saeculum",
+		"word": "Saeculum",
+		"meaning": "セキュラム/世代（せだい）、(一つの)時代の終わり、情報の全入替、記憶のバトン、実存の有限な円環",
+		"era": "Ancient Rome (term revived in modern historiography)",
+		"etymology": {
+			"components": [
+				"sa- (to sow? No, saeculum is specialized Latin term)"
+			],
+			"original_statement": "A length of time roughly equal to the potential lifespan of a human being, or a generation."
+		},
+		"concept": "One generation of truth (「自分が死ぬ時」に。「自分と同い年だった者たち」も、すべてこの世から消え去る。その「完全な入れ替わり」の期間。それは。昨日までの常識が、峻烈に「遺物」へと変わる。峻烈なる「時代の呼吸」の記述)",
+		"thinking": "「セキュラム」。あなたは。「不変の真理」や「永遠に続く伝統」が。どこかにある、と。盲信（もうしん）してはいませんか。 saeculum。すべては、消え、書き換えられます。 saeculum。それは。あなたが、今、この時代（セキュラム）の「責任者」である、ということ。 saeculum。古い時計を、峻烈に、無慈悲に、壊しなさい。そして。あなた自身の、新しい「心音（リズム）」で。この一世紀（自分）を。峻烈に、塗り替えなさい。あなたの時代は。あなたが「呼吸」を止めるまで。誰にも譲ってはならないのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "視界の端で。古い「塔」が。静かに、しかし巨大な音を立てて崩れ落ちていくような。あの。凄絶なまでの「解放感」。そこにある、もはや「誰のせいでもない」という、峻烈なる「必然」。冷たくて、重厚な、情報の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "se-",
+					"meaning": "to sow (from saeculum - a planting / a generation)"
+				}
+			],
+			"points": [
+				"Seed（種）や Season（季節）、Seminar（セミナー／苗床）と同じ root。世代（セキュラム）とは。実存という名の『種（セ）』を。峻烈に『蒔き（サ）』。一世紀をかけて育てること。それは。個人の死を棄て。生命という名の『季節』へと、自らを回向する記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "oscillator",
+		"word": "Oscillator",
+		"meaning": "オシレーター/発振器（はっしんき）、(震えの)源泉、情報の脈動、自分自身の周期、止まらぬ魂",
+		"era": "Early 20th Century",
+		"etymology": {
+			"components": [
+				"oscillare (to swing)"
+			],
+			"original_statement": "An apparatus or person that oscillates. From Latin oscillare 'to swing', from oscillum 'a little mask / swing'."
+		},
+		"concept": "Source of vibration (外部からの力（風）ではなく。自らの「内部の理（回路）」によって。、一定のリズム（震え）」を、峻烈に放ち続けること。それは。他者のリズムに染まらない。峻烈なる「独立した時間」の記述)",
+		"thinking": "「オシレーター（発振器）」。あなたは。自分の「心の揺れ」を。、弱さ」だと思って、恥じてはいませんか。 oscillator。揺れることを、誇りなさい。 oscillator。それは。あなたが、自らの力で。この宇宙を「震わせている」証拠です。 oscillator。振幅（しんぷく）を、峻烈に、最大にしなさい。 oscillator。あなたが。その「不動の周期」を、峻烈に保ち続ければ。世界は。あなたの震えに「吸い寄せられ」。いつか、巨大な「共鳴（未来）」が、産声を上げるのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "暗闇の中に。一本の「光の線」が。、プルプル」と震えながら、真っ直ぐに伸びていくような。あの。爽快なまでの「全能感」。そこにある。もう「誰にも止められない」という、峻烈なる「確信」。冷たくて、鋭くて、瑞々（みずみず）しい。情報の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "None (from oscillum)",
+					"meaning": "little mask / swing"
+				}
+			],
+			"points": [
+				"Oscillate（振動する）は、風に揺れる『小さな仮面（オシルム）』に由来する。発振器とは。仮面という名の『偽装』を棄て。震えという名の『剥き出しの真実』を、峻烈に供出すること。それは。静止という名の『嘘』を破壊する。実存の攻撃的な記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "celerity",
+		"word": "Celerity",
+		"meaning": "セレリティ/速さ（はやさ）、(峻烈なる)俊敏、情報の跳躍、言葉を置き去りにすること、思考の稲妻",
+		"era": "Late 15th Century",
+		"etymology": {
+			"components": [
+				"celer (swift / fast / quick)"
+			],
+			"original_statement": "From Latin celeritas 'swiftness', from celer 'swift'."
+		},
+		"concept": "Surpassing the moment (「考えてから動く」のではない。動くことが、すでに「思考」であるような、圧倒的な「速さ」。それは。停滞という名の「毒」を。峻烈な「疾走（アクション）」で、一気に中和する。峻烈なる「能動性の記述」)",
+		"thinking": "「セレリティ（速さ）」。あなたは。自分の「決断」が、遅すぎることに。苛立（いらだ）ちを。感じてはいませんか。 celerity。速くなりなさい。 celerity。それは。自分を「軽く」すること。 celerity。余計な「心配」や「見栄」を。一瞬で、峻烈に、切り捨てなさい。 celerity。あなたが。稲妻のように、この「閉塞（空気）」を。峻烈に、真っ直ぐに、射抜いたとき。世界は。その「軌跡（あまりの速さ）」に。ようやく。あなたの「存在」に気づくのです。止まることは、死ぬことです。",
+		"part_of_speech": "noun",
+		"aftertaste": "視界が「真っ白」に。、シュンッ」と弾け飛ぶような。あの。凄絶なまでの「疾走感」。そこにある。もう「何も邪魔するものはない」という、峻烈なる「自由」。冷たくて、鋭い、光の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kel- / kela-",
+					"meaning": "to drive / set in motion"
+				}
+			],
+			"points": [
+				"Accelerate（加速する）や Celeste（天の／天空の）、Exalt（高める）と同じ root? No, celer is related to kel- for 'strike / drive'. セレリティとは。実存を、峻烈に『駆り立てる（ケル）』こと。それは。均衡という名の『停滞』を棄て。逸脱という名の『飛翔』へと。実存を一気に、無慈悲に、変換してまう記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "simultaneity",
+		"word": "Simultaneity",
+		"meaning": "シムルタネイティ/同時性（どうじせい）、(重なり合う)現在、情報の共時性、孤独を越えた合致、宇宙という名のポリフォニー",
+		"era": "Mid-17th Century",
+		"etymology": {
+			"components": [
+				"simul (at the same time / together)"
+			],
+			"original_statement": "From Latin simultas, from simul 'at the same time'."
+		},
+		"concept": "Converging nows (遠く離れた「場所」で起きていることが。実は、今、この瞬間の「自分」と。峻烈に「繋（つな）がっている」こと。それは。バラバラな「現在」を。峻烈に、一つ（シン）の「巨大な物語」へと。編み上げる記述)",
+		"thinking": "「シムルタネイティ（同時性）」。あなたは。自分の「孤独」が。この広い宇宙で、自分一人だけのものだと思って。震えてはいませんか。 simultaneity。顔を上げなさい。 simultaneity。今。あなたが「悲しい」と思ったその一秒。世界のどこかで、全く同じ「悲しみ」を。峻烈に、噛み締めている誰かが。必ずいます。 simultaneity。それは。離れていても、同じ。ということ。 simultaneity。見えない「同時性の糸」で。あなたは。宇宙のすべてと。峻烈に「響き合って」いる。その「連帯」を、信じなさい。",
+		"part_of_speech": "noun",
+		"aftertaste": "「世界中」の時計の針が。一斉に、カチッ、と。、一点」で重なり合うのを見たような。あの。不思議なまでの「幸福感」。そこにある、自分は「一人ではない」という、峻烈なる「充足」。瑞々しくて、重厚な、情報の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sem-",
+					"meaning": "one / as one / together"
+				}
+			],
+			"points": [
+				"Same（同じ）や Simple（単純な／一重の）、Assemble（組み立てる／一つに集める）と同じ root。同時性とは。実存を『一つ（セム）』にすること。それは。断絶という名の『偽り』を。同調という名の『真実』によって。無慈悲に、美しく、上書きしてまう記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "interim",
+		"word": "Interim",
+		"meaning": "インテリム/暫定的（ざんていてき）な、(合間の)実存、情報の仮住まい、未完成という名の自由、暫定的な真実",
+		"era": "Mid-16th Century",
+		"etymology": {
+			"components": [
+				"inter- (between)",
+				"im- (this / that? No, interim is Latin adverb 'meanwhile')"
+			],
+			"original_statement": "From Latin interim 'meanwhile', from inter- 'between'."
+		},
+		"concept": "The provisional self (「完成された答え」に辿り着くまでの、束（つか）の間の「仮の姿」。それは。未完成であることを、峻烈に「許容」し。移り変わっていくことを。峻烈な「勇気」で引き受ける、峻烈なる「過渡期の記述」)",
+		"thinking": "「インテリム（暫定的な）」。あなたは。「早く一人前にならなければ」「早く正解を出さなければ」と。自分を「固定」することに。焦（あせ）りすぎてはいませんか。 interim。暫定的でいいのです。 interim。それは。あなたが「成長」している証拠です。 interim。固定された瞬間に、あなたは「化石（過去）」になります。 interim。今は。まだ「答え」を出さないでください。その「中ぶらりん」の、峻烈なる「自由」を。自らの「翼」にしなさい。未完成は。最強の「可能性」なのですから。",
+		"part_of_speech": "noun / adjective",
+		"aftertaste": "工事中の「ビル」の、冷たい「鉄骨」の上に。、プカプカ」と浮かんでいるような。あの。奇妙な「浮遊感」。そこにある、もはや「何にでもなれる」という。峻烈なる「期待」。瑞々しくて、甘い、情報の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "enter-",
+					"meaning": "between"
+				}
+			],
+			"points": [
+				"Internet（間を繋ぐ網）や International（国際的な）と同じ root。暫定的なとは。二つの出来事の『間（エンテル）』に。峻烈に『身を置く』こと。それは。安住という名の『停止』を。漂流という名の『持続』によって破壊する。峻烈なる実存の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "temporality",
+		"word": "Temporality",
+		"meaning": "テンポラリティ/一時性（いちじせい）、(移ろいゆく)実存、情報の有限性、今ここ、という名の奇跡、消えゆく美学",
+		"era": "Late Middle English",
+		"etymology": {
+			"components": [
+				"tempus (time / period / season)"
+			],
+			"original_statement": "The state of existing within or having some relationship with time."
+		},
+		"concept": "Finiteness (「永遠」なんて、どこにもない。すべての情報は、峻烈に「今この瞬間」だけ、。パッ」と輝き。次の瞬間には、峻烈に「消え去って」いく。その「儚（はかな）さ」こそが。実存の「重み」である、という。峻烈なる「有限の記述」)",
+		"thinking": "「テンポラリティ（一時性）」。あなたは。自分の「命」や「愛」が。いつか「終わってしまう」ことに。絶望という名の、冷たい雨に、打たれてはいませんか。 temporality。終わりがあるからこそ。あなたは、今、これほどまでに「峻烈」に、輝いているのです。 temporality。消えることを、愛しなさい。 temporality。それは。この「一分一秒」に、自らの「すべて」を、峻烈に叩きつけること。 temporality。永遠を夢見るのは、やめなさい。あなたは。この「移ろい」の中で。。最高の火花」として。今、ここで、爆発しなさい。",
+		"part_of_speech": "noun",
+		"aftertaste": "夕暮れ時の「教室」に。、スーーーッ」と、最後の一筋の光が。差し込んだ瞬間の。あの。胸が締め付けられるような「切なさ」。そこにある、一分一秒の「愛おしさ」。甘くて、瑞々しい、情報の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "temp- / tem-",
+					"meaning": "to stretch? No, tempus is from *temp- 'time', perhaps from ten- 'to stretch'"
+				}
+			],
+			"points": [
+				"Tempo（テンポ）や Temporary（一時的な）、Extend（伸ばす／延伸する）と同じ root。一時性とは。実存を、峻烈な一秒へと『引き伸ばす（テン）』こと。それは。永劫という名の『逃避』を棄て。刹那という名の『現実』へと。自らを回向（えこう）する、峻烈なる実存の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "continuum",
+		"word": "Continuum",
+		"meaning": "コンティニュアム/連続体（れんぞくたい）、(切れ目なき)実在、情報の織物、自分という名の経過、終わりなき物語",
+		"era": "Mid-17th Century",
+		"etymology": {
+			"components": [
+				"com- (together)",
+				"tenere (to hold / keep)"
+			],
+			"original_statement": "A continuous sequence in which adjacent elements are not perceptibly different from each other."
+		},
+		"concept": "Unbroken series (「点」と「点」が。、隙間」なく。、一続きの布」のように、峻烈に、重なり合っていること。そこには。始まり（誕生）も。終わり（死）も。本当は存在しない。峻烈なる「一貫したプロセスの記述」)",
+		"thinking": "「コンティニュアム（連続体）」。あなたは。自分の「失敗」や「挫折」を。「自分自身の終わりだ」と。点（ピリオド）を、勝手に打って。諦（あきら）めてはいませんか。 continuum。物語は、まだ「続いて」います。 continuum。それは。昨日の「痛み」も、今日の「震え」も。すべてを。峻烈に、一つ（コン）の「自分」という名の糸で。峻烈に、編み上げ続けること。 continuum。あなたは。「結果」ではありません。「経過（ continuum）」そのものです。止まらずに。峻烈に。あなたは。自らを手放さず、。自分」を、握（テン）り続けなさい。",
+		"part_of_speech": "noun",
+		"aftertaste": "「水平線」の彼方まで。、スーーーッ」と、切れ目なく。、光の海」が広がっているのを見た時の。あの。圧倒的な「充足感」。そこにある、自分は「この流れの一部だ」という。峻烈なる「合一」。重厚で、瑞々しい、情報の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kom-",
+					"meaning": "together"
+				},
+				{
+					"term": "ten-",
+					"meaning": "to stretch / hold (from tenere)"
+				}
+			],
+			"points": [
+				"Continuous（連続した）や Content（内容／保持されたもの）、Maintain（維持する）と同じ root。連続体とは。実存を『共に（コン）』。一分一秒たりとも『放さず（テン）』、握り続けること。それは。分断という名の『死』を。接続という名の『生』によって破壊する。峻烈なる実存の記述なのです。"
+			]
+		}
 	}
 ];
