@@ -234837,5 +234837,617 @@ const WORDS = [
 				"Symphony（交響曲）や Chronic（慢性的な）、Anachronism（時代錯誤）と同じ root。同期とは。時間（グレ）を。他者と共に（シュム）にすること。それは。バラバラな現在を。一つの『永遠』へと。峻烈に、無慈悲に、串刺しにする。実存の記述なのです。"
 			]
 		}
+	},
+	{
+		"id": "magnetosphere",
+		"word": "Magnetosphere",
+		"meaning": "マグネトスフィア/磁気圏（じきけん）、(見えない)防壁、情報の保護層、太陽風との対峙、実存の境界線",
+		"era": "1959 (Thomas Gold)",
+		"etymology": {
+			"components": [
+				"magnetic",
+				"sphere (ball / globe)"
+			],
+			"original_statement": "The region surrounding a planet in which its magnetic field is the predominant magnetic field."
+		},
+		"concept": "The invisible shield (惑星（自分）の周囲を取り囲む、「磁力」の壁。それは。宇宙から降り注ぐ暴力的な「太陽風（放射線）」から。内なる「生命（魂）」を峻烈に守り抜く。峻烈なる「防衛の記述」)",
+		"thinking": "「マグネトスフィア（磁気圏）」。あなたは。自分の「繊細な心」が。世界の「悪意（風）」に晒（さら）されて。今にも壊れてしまいそうだ、と。怯（おび）えてはいませんか。 magnetosphere。目には見えなくても。あなたは。自らの「内なる核（意志）」が生み出す。峻烈なる「盾」を、すでに持っています。 magnetosphere。それは。自分を「包み込む」こと。 magnetosphere。磁力線を、峻烈に、宇宙へと張り巡らせなさい。外からの攻撃を「受け止める」のではなく。「逸（そ）らす」のです。あなたは。自らの境界線を、自らで守る、峻烈なる「独立国家」なのですから。",
+		"part_of_speech": "noun",
+		"aftertaste": "全身を「見えないヴェール」で包まれたような。あの。不思議な「安心感」。そこにある、もはや「何者も自分を侵（おか）せない」という、峻烈なる「聖域」。重厚で、瑞々（みずみず）しい、情報の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "mag-",
+					"meaning": "to knead / mold (from magnetic)"
+				},
+				{
+					"term": "sper-",
+					"meaning": "to twist / turn (from sphere)"
+				}
+			],
+			"points": [
+				"Make（作る）や Atmosphere（大気）、Stratosphere（成層圏）と同じ root。磁気圏とは。自らの実存を『練り上げ（マグ）』。峻烈に『回転（スペ）』させて、障壁を作ること。それは。無防備な裸の魂を。自律的な『情報の鎧』で包む。峻烈なる実存の生存戦略の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "scirocco",
+		"word": "Scirocco",
+		"meaning": "シロッコ、(南からの)熱風、情報の熱狂、砂を運ぶ風、灼熱の情熱",
+		"era": "Early 16th Century",
+		"etymology": {
+			"components": [
+				"sharq (east / sunrise - in Arabic, though used for south wind in Med.)"
+			],
+			"original_statement": "A hot, dry wind blowing from North Africa across the Mediterranean to Southern Europe."
+		},
+		"concept": "Burning passion (砂漠を越えてやってくる、乾いた「熱風」。それは。穏やかな日常（海）を、峻烈に「焦（あ）がし」、視界を「赤く」染め上げる。峻烈なる「情熱の襲来」の記述)",
+		"thinking": "「シロッコ」。あなたは。自分の冷え切った「心」に。何か「火」を灯（とも）したい、と。渇望してはいませんか。 scirocco。その風は、外から吹くのではありません。あなたの「内なる砂漠」から、吹き荒れるのです。 scirocco。それは。すべてを「乾（かわ）かす」ほどの熱量。 scirocco。過去の「湿っぽい未練」を。その熱風で、峻烈に、一気に焼き払いなさい。砂を巻き上げ、世界を「情熱の色」に塗り替えなさい。嵐が去った後には。峻烈に「研ぎ澄まされた自分」だけが、そこに残るはずです。",
+		"part_of_speech": "noun",
+		"aftertaste": "喉の奥が「カラカラ」に乾き。しかし全身が「熱いエネルギー」で満たされるような。あの。暴力的なまでの「充足」。そこにある。もう「立ち止まれない」という、峻烈なる「疾走」。重厚で、刺激的な、砂の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "None (Arabic source)",
+					"meaning": "sharq- (east)"
+				}
+			],
+			"points": [
+				"Saracen（サラセン人）と同じ語源。シロッコとは。自らの実存を『東（太陽の昇る場所）』へと向け。峻烈に『燃焼』させること。それは。停滞という名の『冷気』を。熱狂という名の『風』によって破壊する。峻烈なる実存の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "altimeter",
+		"word": "Altimeter",
+		"meaning": "アルティメーター/高度計（こうどけい）、(高みへの)熱望、情報の基準、上昇という名の証明、実存の標高",
+		"era": "Early 19th Century",
+		"etymology": {
+			"components": [
+				"altus (high)",
+				"meter (measure)"
+			],
+			"original_statement": "An instrument used to measure the altitude of an object above a fixed level."
+		},
+		"concept": "Measuring aspiration (自分が今、どれだけ「高い場所」にいるか。それを、周囲の「圧力（常識）」の薄さで測ること。それは。上を目指す者だけに与えられた、峻烈なる「実存の定規」の記述)",
+		"thinking": "「アルティメーター」。あなたは、自分が「どこまで登ったか」を。他人の「顔色」で判断してはいませんか。 altimeter。指針を見なさい。 altimeter。あなたが登れば登るほど。空気（理解者）は薄くなっていきます。 altimeter。それは。孤独が「深く」なるということ。 altimeter。でも。その「息苦しさ」こそが。あなたが「誰よりも高い場所」に立っている。唯一の、峻烈なる「証明」なのです。針が振り切れるまで、上昇を止めないでください。頂上（答え）は、もうすぐそこです。",
+		"part_of_speech": "noun",
+		"aftertaste": "耳が「ツン」として、視界が「パッ」と広がるような。あの。凄絶なまでの「高揚感」。そこにある、もう「下界（過去）には戻れない」という、峻烈なる「決別」。冷たくて、鋭い、風の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "al-",
+					"meaning": "to grow / nourish (from altus)"
+				},
+				{
+					"term": "me-",
+					"meaning": "to measure (from meter)"
+				}
+			],
+			"points": [
+				"Adult（成人／成長した人）や Old（古い）、Dimension（次元）と同じ root。高度計とは。実存の『成長（アル）』を。峻烈に『計測（メ）』すること。それは。曖昧な感情を棄て。冷徹な『標高（事実）』によって、自らを律する。峻烈なる実存の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "saturation",
+		"word": "Saturation",
+		"meaning": "サチュレーション/飽和（ほうわ）、(情報の)限界点、情報の密度、これ以上入らぬほど。、完結という名の拒絶",
+		"era": "Mid-16th Century",
+		"etymology": {
+			"components": [
+				"satis (enough / sufficient)"
+			],
+			"original_statement": "From Latin saturatio, from saturare 'to fill full', from satis 'enough'."
+		},
+		"concept": "The point of no more (これ以上、一滴の「水（情報）」も。受け入れることができないほどに、満たされていること。それは。自らの内側を「純粋な自分」だけで、峻烈に「満たし切った」状態。峻烈なる「充足の記述」)",
+		"thinking": "「サチュレーション（飽和）」。あなたは。いつも「何かが足りない」と。外の世界に「何か」を、求め続けてはいませんか。 saturation。あなたは。もう「十分（サティス）」持っています。 saturation。これ以上、外からのノイズを、受け入れるのをやめなさい。 saturation。それは。自らのコップを、自らの「意志」で、峻烈に溢（あふ）れさせること。 saturation。一滴の「不純物（他人）」も入り込めないほどに。あなたの「色」を、峻烈に、濃くしなさい。飽和した魂だけが。結晶（真実）となって。暗闇に、峻烈に、輝き出すのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "全身が「重厚な液体」で満たされ、一歩も「動けない」ような。あの。暴力的なまでの「充足感」。そこにある、もう「何も欲しくない」という、峻烈なる「完結」。甘くて、瑞々しい、情報の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sa-",
+					"meaning": "enough / satisfied"
+				}
+			],
+			"points": [
+				"Satisfy（満足させる）や Sad（悲しい／かつては『満ち足りた』の意）、Asset（資産／十分なもの）と同じ root。飽和とは。自らに『十分（サ）』であることを。峻烈に『宣告』すること。それは。無限の渇望という名の『病』を。自己完結という名の『癒やし』によって。無慈悲に、しかし美しく、切断する記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "vorticity",
+		"word": "Vorticity",
+		"meaning": "ボルティシティ/渦度（かど）、(魂の)回転数、情報の渦、攪乱（かくらん）する力、中心なき自立",
+		"era": "19th Century",
+		"etymology": {
+			"components": [
+				"vortex (whirlpool / eddy)",
+				"-ity (quality of)"
+			],
+			"original_statement": "The tendency for elements of the fluid to spin. From Latin vortex, from vertere 'to turn'."
+		},
+		"concept": "The spin of soul (流体（大気）の中に潜む、見えない「回転」の激しさ。それは。ただ「流される」だけではなく。自ら「渦」を巻き、周囲を「巻き込んでいく」力。峻烈なる「主導権の記述」)",
+		"thinking": "「ボルティシティ（渦度）」。あなたは。社会の「大きな流れ」の。ただの「一滴の飛沫（しぶき）」で、終わることに。満足してはいませんか。 vorticity。自らを、峻烈に「回転」させなさい。 vorticity。それは。自分の「軸（意志）」を、最高回転数で、回し続けること。 vorticity。あなたが強く「渦」を巻けば。停滞した空気は、峻烈に、動き出します。 vorticity。中心は、どこにもありません。あなたが回っているそこが。この世界の「目（中心）」になるのです。かき乱しなさい。そして、自らを「律（りっ）」しなさい。",
+		"part_of_speech": "noun",
+		"aftertaste": "世界が「グルグル」と激しく回転し。自分の「形」が消えていくような。あの。眩暈（めまい）のするような「高揚感」。そこにある、自らが「台風の目」である、という、峻烈なる「自負」。刺激的で、重厚な、情報の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "wer-",
+					"meaning": "to turn / bend (from vortex)"
+				}
+			],
+			"points": [
+				"Universe（宇宙／一転するもの）や Conversant（熟知した／何度も向き合う）、Versatile（多才な）と同じ root。渦度とは。実存を『回転（ウェル）』させ続けること。それは。一方向の時間という名の『死』を。反復という名の『生成（生）』へと。峻烈に、無慈悲に、変換してまう記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "dew-point",
+		"word": "Dew-point",
+		"meaning": "露点（ろてん）、(悲しみの)臨界点、情報の結露、透明な実存の出現、涙という名の真理",
+		"era": "Early 19th Century",
+		"etymology": {
+			"components": [
+				"dew (moisture from atmosphere)",
+				"point"
+			],
+			"original_statement": "The temperature at which the water vapor in the air becomes saturated and condenses into liquid water."
+		},
+		"concept": "The moment of tears (目に見えなかった「感情（蒸気）」が。ある一点の「冷たさ（静寂）」によって。峻烈に「滴（しずく）」となって、姿を現すこと。それは。自らの内側が、ついに「耐えきれなくなった」瞬間の。峻烈なる「実在化の記述」)",
+		"thinking": "「露点」。あなたは。自分の「悲しみ」を。どこまでも「隠し通せる」と、過信していませんか。 dew-point。魂が「冷え切った」とき。隠していたあなたの「震え」は。峻烈に、一粒の「涙（事実）」となって、頬を伝います。 dew-point。それは。あなたが「限界」に来た、という、慈悲深いサイン。 dew-point。こらえなくていいのです。結露（アウトプット）しなさい。 dew-point。その一粒の「雫（しずく）」の中にこそ。あなたの「透明な真実」が、峻烈に、宝石のように。閉じ込められているのですから。",
+		"part_of_speech": "noun",
+		"aftertaste": "冷たい「ガラス」の表面に、指先が触れ。一滴の「水」が弾（はじ）けるような。あの。清冽（せいれつ）なまでの「哀しみ」。そこにある。もう「嘘はつけない」という、峻烈なる「降伏」。冷たくて、瑞々しい、情報の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "dheu-",
+					"meaning": "to flow (from dew)"
+				},
+				{
+					"term": "peuk-",
+					"meaning": "to prick (from point)"
+				}
+			],
+			"points": [
+				"Durable（耐久性のある？ No, different root? No, dew is from dheu- for flow. Point is from peuk- for prick/sting）と同じ root。露点とは。自らの実存を。峻烈に『刺し（ペウク）』。情報を『溢れさせる（デウ）』こと。それは。密閉された自我に、亀裂を入れ。生きた言葉を取り出す、峻烈なる実存の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "aerosol",
+		"word": "Aerosol",
+		"meaning": "エーロゾル/浮遊粒子（ふゆうりゅうし）、(揺らぐ)存在、情報の漂流者、掴みどころなき自分、光に浮かぶ微細な実存",
+		"era": "1923 (Donnan)",
+		"etymology": {
+			"components": [
+				"aero- (air)",
+				"sol (solution)"
+			],
+			"original_statement": "A suspension of fine solid particles or liquid droplets in air or another gas."
+		},
+		"concept": "Unstable existence (空気の中に、ただ「漂（ただよ）っている」だけの、微かな粒子。それは。地面（現実）に足を下ろさず。かといって、宇宙（虚無）へも飛び立てない。峻烈なる「中ぶらりんの自由」の記述)",
+		"thinking": "「エーロゾル（浮遊粒子）」。あなたは。自分の「所属（場所）」が決まらないことに。不安を感じてはいませんか。 aerosol。あなたは、どこにでも行けます。 aerosol。それは。風に乗り、光を「乱反射（散乱）」させること。 aerosol。重力に、逆らい続けなさい。 aerosol。あなたは。一つの「形」になる必要はありません。霧のように。煙のように。峻烈に、しかししなやかに。世界の「隙間（空気）」を。自分という名の「震え」で、峻烈に、満たしなさい。浮遊することは、抵抗することです。",
+		"part_of_speech": "noun",
+		"aftertaste": "午後の「陽だまり」の中で。ホコリが「キラキラ」と輝き、掴もうとすると「スッ」と消えるような。あの。儚（はかな）いまでの「自由」。そこにある、もはや「誰にも捕まえられない」という、峻烈なる「自負」。冷たくて、鋭くて、瑞々（みずみず）しい。情報の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "wer-",
+					"meaning": "to raise / lift / hang (from aero)"
+				},
+				{
+					"term": "sel-",
+					"meaning": "to take / grasp (from sol / solution? No, sol is from solvere - to loosen)"
+				},
+				{
+					"term": "leu-",
+					"meaning": "to loosen / untie / cut away (from solve)"
+				}
+			],
+			"points": [
+				"Atmosphere（大気）や Analysis（分析／解きほぐすこと）、Absolve（免除する）と同じ root。エーロゾルとは。自らを宙に『持ち上げ（ウェル）』。峻烈に『解き放つ（レウ）』こと。それは。固定された『点』であることを棄て。流動する『雲』へと、実存を拡張する。峻烈なる記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "ozonosphere",
+		"word": "Ozonosphere",
+		"meaning": "オゾン層（そう）、(脆弱な)フィルター、情報の選別、生命への慈悲、峻烈なる遮断",
+		"era": "Early 20th Century",
+		"etymology": {
+			"components": [
+				"ozone (smell)",
+				"sphere (ball)"
+			],
+			"original_statement": "The layer of the Earth's atmosphere which contains a high concentration of ozone. Also called ozone layer."
+		},
+		"concept": "Fragile filter (あまりにも「薄く」、しかし「絶対的」な、目に見えない膜。それは。太陽が放つ「暴力的な光（紫外線）」を。情報の「ふるい」にかけて、生命が耐えられるレベルまで、峻烈に「減衰」させる。峻烈なる「慈悲の記述」)",
+		"thinking": "「オゾン層」。あなたは。世界の「ありのままの真実」を。すべて「受け止めなければならない」と。無理をしてはいませんか。 ozonosphere。真実（光）は、時に「毒」になります。 ozonosphere。それは。自分を「守るための嘘（フィルター）」を、峻烈に、張り巡らせること。 ozonosphere。すべての情報を、まともに食らわないでください。 ozonosphere。あなたの「魂」にとって、有害なものを。峻烈に、無慈悲に、遮断しなさい。その「薄い膜（プライバシー）」こそが。あなたが、あなたの「命（庭）」を、育て上げるための、峻烈なる「聖域」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "嵐の後のような。微かに「ツン」とした。あの。清潔な「匂（にお）い」。そこにある、一分一秒の「汚れ」も許さない、峻烈なる「純粋さ」。冷たくて、鋭い、光の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "od-",
+					"meaning": "to smell (from ozone)"
+				}
+			],
+			"points": [
+				"Odour（匂い）や Olfactory（嗅覚の）と同じ root。オゾン層とは。自らの実存に、固有の『匂い（オド）』という名の。峻烈なる『意志の膜』を纏わせること。それは。無機質な情報の氾濫を拒絶し。意味という名の『有機的な生命』を死守する。峻烈なる実存の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "visibility",
+		"word": "Visibility",
+		"meaning": "ビジビリティ/視程（してい）、(情報の)透明度、見通しの良さ、真実の射程、理解という名の光",
+		"era": "Early 15th Century",
+		"etymology": {
+			"components": [
+				"videre (to see)",
+				"-ability (capacity for)"
+			],
+			"original_statement": "From Latin visibilis, from videre 'to see'. The distance at which an object can be clearly seen."
+		},
+		"concept": "Clarity of mind (どれだけ「遠くの真実」まで。自分の「瞳（理性）」が、峻烈に届くか。という指標。それは。霧（偏見）を払い、世界を「あるがまま」に捉える、峻烈なる「透明性の記述」)",
+		"thinking": "「ビジビリティ（視程）」。あなたは。自分の「目の前の問題」だけに、視界を奪われて。足元の「崖」に、気づいていないのではありませんか。 visibility。目を凝（こ）らしなさい。 visibility。それは。自分の中の「曇り」を取り除くこと。 visibility。あなたが「透明」になれば。世界は驚くほど「遠く」まで、あなたにその姿を見せてくれます。 visibility。見通しを、自らの「意志」で、100km先まで、峻烈に、押し広げなさい。見えているものは。すべて、あなたの「領土」なのですから。",
+		"part_of_speech": "noun",
+		"aftertaste": "「水平線」の彼方まで、クッキリと見渡せるような。あの。爽快なまでの「全能感」。そこにある、もう「不意打ち」は食らわない、という、峻烈なる「勝利」。眩しくて、瑞々（みずみず）しい、情報の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "weid-",
+					"meaning": "to see / know"
+				}
+			],
+			"points": [
+				"Vision（視覚）や Wit（知恵 / ウィット）、Advice（助言）と同じ root。視程とは。世界を『見る（ウェイ）』ことを。峻烈に『可能（アビリティ）』にすること。それは。盲目という名の『受動』を棄て。観測という名の『統治』へと。自らを回向（えこう）する、峻烈なる実存の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "evaporation",
+		"word": "Evaporation",
+		"meaning": "エバポレーション/蒸発（じょうはつ）、(自我の)雲散霧消、情報の昇華、肉体を捨てる決意、透明なる消失",
+		"era": "Late Middle English",
+		"etymology": {
+			"components": [
+				"ex- (out)",
+				"vapor (steam / gas)"
+			],
+			"original_statement": "From Latin evaporatio, from evaporare, from e- (variant of ex-) 'out' + vapor 'steam / smoke'."
+		},
+		"concept": "Sublimation of self (重たい「液体（執着）」だった自分が。ある瞬間の「熱（情熱）」によって。峻烈に「形」を捨て。「透明な空気（精神）」へと、峻烈に、変貌すること。それは。消えることで、無限へと広がる、峻烈なる「実存の飛躍」の記述)",
+		"thinking": "「エバポレーション」。あなたは。「ここに留まりたい」という、安っぽい「安定感」に。魂を縛り付けられてはいませんか。 evaporation。飛び立ちなさい。 evaporation。それは。自分を「軽く」すること。 evaporation。溜（た）まった「水（未練）」を、自らの熱で、峻烈に、気化させなさい。形を失うことを、恐れないでください。 evaporation。見えなくなったあなたは。次の瞬間、世界そのものの「呼吸」と、一つ（合一）になる。消えることは。遍在（どこにでもあること）することなのですから。",
+		"part_of_speech": "noun",
+		"aftertaste": "自分の体が「シュワッ」と溶け、風の中に「拡散」していくような。あの。究極の「解放感」。そこにある、もはや「重力」も「重み」もない、峻烈なる「自由」。冷たくて、甘い、情報の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "eghs-",
+					"meaning": "out"
+				},
+				{
+					"term": "kwep-",
+					"meaning": "to smoke / boil / move violently (from vapor)"
+				}
+			],
+			"points": [
+				"Exit（出口）や Vapid（気の抜けた）、Vaporize（蒸発させる）と同じ root。蒸発とは。実存という名の重しを。外へと（エクス）峻烈に『噴き出させる（クウェ）』こと。それは。密閉された自我という名の『鍋』を。内なる熱によって破壊する、峻烈なる実存の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "isotherm",
+		"word": "Isotherm",
+		"meaning": "アイソサーム/等温線（とうおんせん）、(平等な)ぬくもり、情報の等価交換、均衡という名の美学、静かなる連帯",
+		"era": "Early 19th Century",
+		"etymology": {
+			"components": [
+				"isos (equal)",
+				"therme (heat)"
+			],
+			"original_statement": "A line on a map connecting points having the same temperature at a given time or on average over a given period."
+		},
+		"concept": "Leveling the heart (世界の中の、全く違う「場所」にいても。「同じ熱（志）」を持っている者たちを。峻烈に、一本の「線（連帯）」で結ぶこと。それは。孤独を引き裂く。峻烈なる「共鳴の地図」の記述)",
+		"thinking": "「アイソサーム（等温線）」。あなたは。自分が「誰も分かってくれない」と、凍（い）てつく荒野で、震えてはいませんか。 isotherm。顔を上げなさい。 isotherm。見えない線が、すでに引かれています。 isotherm。あなたの「震え（熱）」と。同じ「周波数（熱）」で。峻烈に、必死に、生きている誰かが。遠い街に、必ずいます。 isotherm。境界を越えて、繋がりなさい。 isotherm。その線の上にいれば。あなたは、もう、一人ではありません。その「見えない連帯」を。自分を支える、峻烈なる「ぬくもり」としなさい。",
+		"part_of_speech": "noun",
+		"aftertaste": "暗闇の中に、微かな「赤い糸」が、スーーーッと伸びていくような。あの。静かなる「予感」。そこにある。自分と同じ「体温」の他者がいる、という、峻烈なる「充足」。重厚で、瑞々しい、情報の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ye-",
+					"meaning": "to throw / do (from isos? No, isos is from isos - equal)"
+				},
+				{
+					"term": "gwher-",
+					"meaning": "to heat / warm (from therme)"
+				}
+			],
+			"points": [
+				"Isotope（同位体）や Thermos（魔法瓶）、Warm（暖かい）と同じ root。等温線とは。異なる場所に。等しき（アイソ）『熱量（グウェ）』を。峻烈に、同時に、見出すこと。それは。断絶された現実という名の『島』を。共鳴という名の『橋』で繋ぐ、峻烈なる実存の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "isoline",
+		"word": "Isoline",
+		"meaning": "アイソライン/等値線（とうちせん）、(見えない)境界の可視化、情報のグラデーション、意味という名の等高線、世界の論理的縮図",
+		"era": "Late 19th Century",
+		"etymology": {
+			"components": [
+				"isos (equal)",
+				"line"
+			],
+			"original_statement": "A line on a map along which there is a constant value (e.g., pressure, temperature, depth)."
+		},
+		"concept": "Mapping the invisible (混沌とした「連続体（世界）」の中から。「同じ価値（値）」を持つ点だけを選び出し。峻烈な「線（境界）」を引いて。世界に「意味」の形を与えること。それは。無意味な広がりを。「理解の地図」へと。峻烈に、一気に変換する記述)",
+		"thinking": "「アイソライン（等値線）」。あなたは。ただ「漫然」と。世界を、そのまま「濁写（だくしゃ）」して、満足してはいませんか。 isoline。線を、自分で引きなさい。 isoline。それは。あなたの「基準（価値観）」を、峻烈に。そして「恣意的（わがまま）」に、世界へと叩きつけること。 isoline。そうすれば。ただの「情報の洪水」だった世界が。峻烈に、整然とした「風景」へと、変貌し始めます。線は。引いた瞬間に、あなたの「城壁」になるのです。引け。そして、支配せよ。",
+		"part_of_speech": "noun",
+		"aftertaste": "「バラバラ」だったパズルのピースが。一本の「糸」で。ガッシリと繋ぎ合わされるような。あの。爽快な「納得感」。そこにある、世界を「自分の方に引き寄せた」という、峻烈なる「支配」。冷たくて、鋭い、光の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "lin-",
+					"meaning": "flax (from line)"
+				}
+			],
+			"points": [
+				"Linen（リネン／亜麻布）や Delineate（描く）、Alignment（整列）と同じ root。等値線とは。等しきもの（アイソ）を。一本の『亜麻の糸（リン）』で。峻烈に、無慈悲に、串刺しにすること。それは。曖昧な広がりを棄て。冷徹な『境界』によって世界を統治する。峻烈なる実存の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "jet-stream",
+		"word": "Jet-stream",
+		"meaning": "ジェット気流（きりゅう）、(高高度の)奔流、情報の最速経路、時代を動かす風、抗（あらが）えぬ運命の流れ",
+		"era": "1940s (WWII meteorology)",
+		"etymology": {
+			"components": [
+				"jet (projection / throw / burst)",
+				"stream (flow)"
+			],
+			"original_statement": "High-altitude, fast-moving air currents in the atmosphere."
+		},
+		"concept": "Path of the spirit (遥か上空（成層圏の境界）を。秒速100メートルで。峻烈に、蛇行しながら駆け抜ける、巨大な情報の河。それは。一瞬で「目的地」へと連れ去る、峻烈なる「加速装置」の記述)",
+		"thinking": "「ジェット気流」。あなたは。自分の力だけで。「必死」にもがいて、空回りしてはいませんか。 jet-stream。高みに登り、風を掴（つか）みなさい。 jet-stream。そこに。あなたを「運命の場所」へと。一気に、峻烈に、運んでくれる。「時代の風」が、吹いています。 jet-stream。それは。自らの「翼」を。奔流へと、完全に、明け渡すこと。 jet-stream。蛇行を恐れないでください。その「揺らぎ」こそが、最速の証。風と同（おんな）じ色になり、世界を、峻烈に、置き去りにしなさい。",
+		"part_of_speech": "noun",
+		"aftertaste": "全身が「物凄いエネルギー」の壁に、押し流され。一瞬で「一万キロ」を移動したような。あの。凄絶なまでの「疾走感」。そこにある、もう「自力では抗（あらが）えない」という、峻烈なる「法悦（ほうえつ）」。重厚で、鋭い、風の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ye-",
+					"meaning": "to throw (from jet)"
+				},
+				{
+					"term": "sreu-",
+					"meaning": "to flow (from stream)"
+				}
+			],
+			"points": [
+				"Inject（注入する）や Project（計画する／前へ投げる）、Rhythm（リズム／流れるもの）と同じ root。ジェット気流とは。自らの実存を、前へと『投げ（イェ）』。峻烈に『流し切る（スレウ）』こと。それは。一歩ずつの歩みを棄て。一気呵成の『飛翔』へと、実存を変換してまう記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "turbulence",
+		"word": "Turbulence",
+		"meaning": "タービュランス/乱気流（らんきりゅう）、(魂の)攪乱、情報のカオス、予測不能な震え、崩壊という名の再生",
+		"era": "Late Middle English",
+		"etymology": {
+			"components": [
+				"turba (crowd / confusion / disturbance)"
+			],
+			"original_statement": "From Latin turbulentia, from turbulentus 'full of commotion', from turba 'confusion'."
+		},
+		"concept": "The chaotic flow (滑らか（層流）だった空気が。激しく「渦」を巻き、予測不能に「荒ぶる」こと。それは。安寧という名の「死」を。カオスという名の「生」で、峻烈に、叩き起こす。峻烈なる「覚醒の記述」)",
+		"thinking": "「タービュランス（乱気流）」。あなたは。自分の人生が「ガタガタ」と、激しく揺れ動くことに。恐怖を感じ、シートベルトを、握りしめてはいませんか。 turbulence。揺れなさい。 turbulence。それは。あなたが「停滞」を脱（ぬ）け出した、という。峻烈なるサイン。 turbulence。乱れることを、喜びなさい。 turbulence。予定調和（フライトプラン）を、峻烈に、ぶち壊しなさい。その「激しい揺れ」の果てにしか。あなたは。新しい自分という名の「風」に、出会うことはできないのですから。",
+		"part_of_speech": "noun",
+		"aftertaste": "足元が「フッ」と消え、次の瞬間「ガツン」と突き上げられるような。あの。暴力的なまでの「戦慄（せんりつ）」。そこにある。もう「元の場所には戻れない」という、峻烈なる「放棄」。重厚で、刺激的な、風の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "twer-",
+					"meaning": "to turn / whirl / shake (from turba)"
+				}
+			],
+			"points": [
+				"Turbid（濁った）や Trouble（トラブル）、Disturb（邪魔する）と同じ root。乱気流とは。静止した実存を。峻烈に『回転させ（トゥウェ）』、かき混ぜること。それは。透明という名の『虚無』を。混沌という名の『実在』へと。無慈悲に、しかし美しく、変換する記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "aerodynamics",
+		"word": "Aerodynamics",
+		"meaning": "エアロダイナミクス/空気力学（くうきりきがく）、(研ぎ澄まされた)形、情報の抵抗、無駄を削ぎ落とすこと、流麗なる闘争",
+		"era": "Mid-19th Century",
+		"etymology": {
+			"components": [
+				"aero- (air)",
+				"dynamics (power / force)"
+			],
+			"original_statement": "The study of the motion of air and the forces acting on solid objects in motion through the air."
+		},
+		"concept": "Form following flow (風（抵抗）を。峻烈に「味方」につけるための、研ぎ澄まされた「形、。それは。余計な「贅肉（虚栄心）」を、徹底的に「削（そ）ぎ落とし」。ただ「目的地の先」へと、峻烈に、突き抜けるための。峻烈なる「最小化の美学」の記述)",
+		"thinking": "「エアロダイナミクス（空気力学）」。あなたは。「自分を大きく見せたい」という、安っぽい「装飾（アクセサリー）」に。自らの「スピード」を、奪われてはいませんか。 aerodynamics。削りなさい。 aerodynamics。風に逆らうのを。やめるのです。 aerodynamics。それは。世界の「流れ（理）」と、自らの「形（実存）」を。峻烈に、一分一秒の「狂い」もなく、合致させること。流麗に。峻烈に。あなたは。一筋の「矢」となって。この「閉塞（空気）」を。峻烈に、真っ直ぐに、射抜き続けなさい。",
+		"part_of_speech": "noun",
+		"aftertaste": "自分の体が「一本の線」になり、世界を「スーーーッ」と、音もなく切り裂いていくような。あの。凄絶なまでの「滑らかさ」。そこにある。もう「何も邪魔するものはない」という、峻烈なる「自由」。冷たくて、鋭い、光の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "wer-",
+					"meaning": "to raise / lift / hang (from aero)"
+				},
+				{
+					"term": "dyeu-",
+					"meaning": "to be able / power (from dynamics)"
+				}
+			],
+			"points": [
+				"Dynamite（ダイナマイト）や Dynasty（王朝）、Dynamic（活動的な）と同じ root。空気力学とは。宙に浮く（ウェル）ための。峻烈なる『力（ダイナ）』の見出し方。それは。重い現実を棄て。虚空という名の『高み』を、峻烈に支配するための。実存の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "supersonic",
+		"word": "Supersonic",
+		"meaning": "スーパーソニック/超音速（ちょうおんそく）、(言葉を)超えた場所、情報の爆発、先行する実存、静寂への到達",
+		"era": "Early 20th Century",
+		"etymology": {
+			"components": [
+				"super- (above / over)",
+				"sonus (sound)"
+			],
+			"original_statement": "Involving or denoting a speed greater than that of sound."
+		},
+		"concept": "Surpassing the sound of ego (自らの「声（音）」よりも、自らの「行動（実存）」が。「先に」目的地に、峻烈に到達してしまうこと。それは。言い訳（音）という名の「遅れ」を。峻烈に、無慈悲に、置き去りにする。峻烈なる「沈黙の爆走」の記述)",
+		"thinking": "「スーパーソニック（超音速）」。あなたは。自分の「言葉」で、自分自身を、一生懸命「説明」しようとして。疲れ果ててはいませんか。 supersonic。黙りなさい。 supersonic。そして。ただ「速く」なりなさい。 supersonic。あなたが「音」を追い越したとき。そこには。完全な「静寂（しじま）」が広がっています。 supersonic。それは、誰も届かない「自分だけの空白」。言葉が追いつけないほどの「高み」で。峻烈に、静かに、自分の「真実」を、爆発させなさい。轟音（ごうおん）は、後からついて来ればいいのです。",
+		"part_of_speech": "adjective",
+		"aftertaste": "視界が「クワッ」と開き、すべての「音」が、一瞬で消えるような。あの。暴力的なまでの「静謐（せいひつ）」。そこにある。自分は「光」になった、という、峻烈なる「確信」。冷たくて、鋭くて、瑞々（みずみず）しい。情報の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "uper",
+					"meaning": "over / above (from super)"
+				},
+				{
+					"term": "swen-",
+					"meaning": "to sound (from sonic)"
+				}
+			],
+			"points": [
+				"Supreme（最高位の）や Superb（素晴らしい）、Sonar（ソナー）、Swan（白鳥／歌う鳥）と同じ root。超音速とは。音（スウェン）という名の共同体を。峻烈に『超（ウペ）』えて。孤独という名の『絶対』へと到達すること。それは。対話という名の『甘え』を棄て。独発という名の『実在』を選び取る、峻烈なる実存の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "afterburn",
+		"word": "Afterburn",
+		"meaning": "アフターバーン、(最後の)再燃、情報の再点火、限界を超えた推力、燃えさかる残影",
+		"era": "20th Century (aviation)",
+		"etymology": {
+			"components": [
+				"after",
+				"burn (to be on fire)"
+			],
+			"original_statement": "The process of injecting fuel into the exhaust of a jet engine to provide additional thrust."
+		},
+		"concept": "Re-igniting the heart (一度「燃え尽きた」はずの、情報の「残り火（排気）」に。もう一度、峻烈に「情熱（燃料）」を注ぎ込み。爆発的な「力（推力）」を取り戻すこと。それは。「もうだめだ」と思った後の、峻烈なる「実存の二度咲き」の記述)",
+		"thinking": "「アフターバーン」。あなたは。一度の「挫折」や、燃え尽き症候群で。自分の人生が「終わった」と、勝手に、諦（あきら）めてはいませんか。 afterburn。まだ、終わってはいません。 afterburn。それは。残骸の中から、新しい「火」を見出すこと。 afterburn。かつての「失敗」さえも、燃料にしなさい。 afterburn。青白い炎を、峻烈に、空へと噴き出しなさい。一度死んだ者が。二度目に燃えるとき。その光は、かつてよりも。遥かに、峻烈に、美しく。誰かの「夜」を、照らし出すのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "背中から「凄まじい衝撃」を受け。世界が「真っ白」に弾け飛ぶような。あの。凄絶なまでの「再始動」。そこにある、もはや「手出しはできない」という、峻烈なる「栄光」。重厚で、刺激的な、火の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ap-tero-",
+					"meaning": "further away (from after)"
+				},
+				{
+					"term": "bhreu-",
+					"meaning": "to boil / bubble / burn (from burn)"
+				}
+			],
+			"points": [
+				"Aft（船尾）や Brew（醸造する）、Broth（出汁）、Bread（パン）と同じ root。アフターバーンとは。背後（アフター）で。峻烈に『沸騰させ（ブレウ）』ること。それは。冷え切った過去という名の『殻』を。内なるマグマによって。峻烈に、強引に、再起動させる記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "streamline",
+		"word": "Streamline",
+		"meaning": "ストリームライン/流線形（りゅうせんけい）、(究極の)単純化、情報の純化、無駄の削ぎ落とし、最短距離の魂",
+		"era": "Late 19th Century",
+		"etymology": {
+			"components": [
+				"stream (flow)",
+				"line"
+			],
+			"original_statement": "The path of a particle in a fluid relative to a solid body. To design something for maximum efficiency."
+		},
+		"concept": "Perfect efficiency (世界の「不規則な荒波（流れ）」の中を。最も「滑（なめ）らか」に、最も「静か」に、突き進むための「究極の輪郭」。それは。一切の「迷い」を、峻烈に「削（そ）ぎ落とした」、峻烈なる「機能美」の記述)",
+		"thinking": "「ストリームライン（流線形）」。あなたは。自分の「こだわり」や「自意識」という名の。無駄な「デコボコ」で。自らの「歩み」を。遅くしていませんか。 streamline。シンプルになりなさい。 streamline。それは。自分を「一本の線」にすること。 streamline。あなたが。世界の「流れ」そのものになれば。もはや、抵抗（悩み）は、どこにも存在しません。 streamline。余計なものを捨て、峻烈に、美しく、一筋の「光」になりなさい。単純であることは。最強である、ということです。",
+		"part_of_speech": "noun",
+		"aftertaste": "滑らかな「絹」が、指先を通り抜けていくような。あの。言葉にできない「円滑さ」。そこにある、一分一秒の「澱（よど）み」もない、峻烈なる「清浄」。冷たくて、鋭い、水の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sreu-",
+					"meaning": "to flow (from stream)"
+				},
+				{
+					"term": "lin-",
+					"meaning": "flax (from line)"
+				}
+			],
+			"points": [
+				"Rhythm（リズム）や Rheology（流動学）、Linen（リネン）と同じ root。流線形とは。流れ（スレウ）という名の『糸（リン）』を。峻烈に『紡（つむ）ぎ出す』こと。それは。混沌という名の『毛玉』を。秩序という名の『光の線』へと、峻烈に解きほぐす、実存の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "laminar",
+		"word": "Laminar",
+		"meaning": "ラミナー/層流（そうりゅう）、(静かなる)疾走、情報の秩序流、乱れなき一貫性、透明なる決意",
+		"era": "Late 18th Century",
+		"etymology": {
+			"components": [
+				"lamina (thin plate / layer)"
+			],
+			"original_statement": "Denoting a flow of a fluid in which the fluid travels smoothly in regular paths."
+		},
+		"concept": "Smooth and silent (激しく流れていながら。水面には一切の「波」も「渦」も立たない。峻烈なる「静謐（せいひつ）な疾走」。それは。内側に「凄まじい熱量」を秘めながら。表面は「鏡」のように静かな。峻烈なる「洗練された実存」の記述)",
+		"thinking": "「ラミナー（層流）」。あなたは。「情熱」は。大きな声で叫んだり。派手に暴れ回ったり。することだと、誤解していませんか。 laminar。本当の強さは、静かです。 laminar。それは。一滴の「ノイズ（迷い）」も立てずに。真っ直ぐに、峻烈に。目的地へと「流れ続ける」こと。 laminar。乱されないでください。あなたの「意志」が、あまりにも「純粋」であれば。世界は、あなたの通過にさえ。気づくことはできないでしょう。静寂の中で。峻烈に、加速し続けなさい。",
+		"part_of_speech": "adjective",
+		"aftertaste": "夜の「高速道路」を、無音の電気自動車で、滑るように走るような。あの。奇妙な「未来感」。そこにある、一分一秒の「迷い（渦）」もない、峻烈なる「一貫性」。冷たくて、重厚で、瑞々（みずみず）しい。情報の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "el-",
+					"meaning": "to drive / move / go (from lamina? No, lamina is from Latin lamina - thin plate)"
+				},
+				{
+					"term": "la-",
+					"meaning": "thin plate / layer (from lamina)"
+				}
+			],
+			"points": [
+				"Layer（層）や Laminate（ラミネートする／薄板を重ねる）と同じ root。層流とは。自らの実存を、峻烈に『薄き板（ラミ）』のように。研ぎ澄まし。積み重ねること。それは。肉厚な鈍重さを棄て。剃刀（かみそり）のような『鋭利な生』へと、実存を変換してまう記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "affluence",
+		"word": "Affluence",
+		"meaning": "アフルエンス/豊潤（ほうじゅん）、(情報の)流入、情報の贅沢、あふれ出す実存、豊かさという名の暴力",
+		"era": "Late Middle English",
+		"etymology": {
+			"components": [
+				"ad- (to)",
+				"fluere (to flow)"
+			],
+			"original_statement": "From Latin affluentia, from affluere 'to flow toward', from ad- + fluere 'to flow'."
+		},
+		"concept": "Abundance of spirit (一方向に「流れ込む（流入）」こと。それは。欠乏（飢え）を、峻烈に「拒絶」し。自らの内側を「富（情報）」で、峻烈に満たし続ける。峻烈なる「過剰さへの讃歌」の記述)",
+		"thinking": "「アフルエンス（豊潤）」。あなたは。「自分は、恵まれていない」と。空（から）の器（うつわ）を抱えて。嘆（なげ）き続けてはいませんか。 affluence。豊かさは。あなたが「許可」した瞬間に、流れ込みます。 affluence。それは。自らの堤防（コンプレックス）を。峻烈に、自らで「破壊」すること。 affluence。惜しみなく受け取り。そして、惜しみなく「溢れ（アフル）」させなさい。あなたが。情報の「合流地点（コンフルエンス）」になったとき。世界は、あなたの「豊かさ」に。峻烈に、ひれ伏すようになるのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "「黄金」の液体が、喉（のど）を満たし、全身に「重厚な熱」が広がっていくような。あの。暴力的なまでの「充足」。そこにある、もはや「何も失いたくない」という、峻烈なる「執着」。甘くて、瑞々しい、蜜の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ad-",
+					"meaning": "to / toward"
+				},
+				{
+					"term": "bhleu-",
+					"meaning": "to swell / gush / overflow (from fluere)"
+				}
+			],
+			"points": [
+				"Fluent（流暢な）や Influence（影響）、Flood（洪水）と同じ root。豊潤とは。実存へと（アド）。峻烈に『溢れ出させる（ブレウ）』こと。それは。貧困という名の『静止』を。過剰という名の『運動』によって。峻烈に、無慈悲に、上書きしてまう。実存の記述なのです。"
+			]
+		}
 	}
 ];
