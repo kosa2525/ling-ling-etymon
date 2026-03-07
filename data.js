@@ -222599,5 +222599,536 @@ const WORDS = [
 				"Quiet（静かな）や Quit（辞める／自由になる）と同じ root。休息とは、役割を辞めて『自由になる』ことそのものなのです。"
 			]
 		}
+	},
+	{
+		"id": "azimuth",
+		"word": "Azimuth",
+		"meaning": "方位角、天への道、隠された方向、星の指し示す先",
+		"era": "Late 14th Century",
+		"etymology": {
+			"components": [
+				"as-sumut (the paths / the ways)"
+			],
+			"original_statement": "From Old French azimut, from Arabic as-sumut 'the paths / the ways', plural of as-samt 'the way / direction'."
+		},
+		"concept": "The designated path (ただの「角度」ではなく。広大な砂漠や大海原の中で、唯一の「正解（パス）」として示された、天の「導き（アズ）」そのもの。迷いの中に下ろされた一本の光の線)",
+		"thinking": "「アジマス（方位角）」。そのルーツはアラビア語で「道（スムート）」。砂漠の民にとって、方位とは。生死を分かつ「唯一の選択」でした。あなたが、自分の人生という名の名もなき荒野で。「自分はどちらへ進むべきか」と天を見上げたとき。心の中の羅針盤（コンパス）が指し示すその鋭い角度。それがあなたのアジマスです。道は、歩く前に「見出される」ものなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "誰もいない夜の海で。水平線と星を結び、そこにある「角度」を読み取った瞬間の、あの。世界と自分が「数式（ロジック）」で繋がったという、峻烈な安心感。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "unknown",
+					"meaning": "Arabic 'as-sumut' (the paths)"
+				}
+			],
+			"points": [
+				"Zenith（天頂）と同じ Arabic の語源（samt）を持ちます。アジマスが水平の道なら、ゼニスは垂直の道。二つの軸が、あなたの『現在地』を定義するのです。 "
+			]
+		}
+	},
+	{
+		"id": "sextant",
+		"word": "Sextant",
+		"meaning": "六分儀、(星を測る)航海用計器、六分の一、分かつことの知恵",
+		"era": "Late 16th Century",
+		"etymology": {
+			"components": [
+				"sextans (a sixth part)",
+				"sex (six)"
+			],
+			"original_statement": "From Latin sextans 'a sixth part', from sex 'six' (as the instrument's arc is one-sixth of a circle)."
+		},
+		"concept": "The division of heaven (全円（カオス）を「六つ(sext-)」に「分かつ(divide)」ことで。星という名の「超越」と、水平線という名の「限界」を、一つのミラーの中に「統合」してみせる。知性の「切り分け」と「対話」の極致)",
+		"thinking": "「セクスタント（六分儀）」。それは。星を「引き寄せる」銀の道具。あなたが自分の理想（スター）を、どうにかしてこの現実（ホライゾン）に繋ぎ止めたいと願うとき。あなたの知性はセクスタント（六分儀）となって、その「距離」を正確に測り始めます。測ることは、支配することではありません。それは、遠く離れたものと「手をつなぐ」ための、謙虚な幾何学なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "覗き穴から見える、「海」と「星」が一つに重なった、あの不思議な円。異なる二つの世界が、自分の手元のネジ一つで「ピタリ」と一致する。あの。奇跡のような、しかし冷徹なまでの「正解」の重み。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "s(w)eks-",
+					"meaning": "six"
+				}
+			],
+			"points": [
+				"円の 1/6 は正三角形の角度（60度）。これは人間が最も『安定』して世界を見渡せる、神聖な視界の開き方なのかもしれません。"
+			]
+		}
+	},
+	{
+		"id": "astrolabe",
+		"word": "Astrolabe",
+		"meaning": "アストロラーベ、星を捕まえる者、(古代の)天体観測器、宇宙の玩具",
+		"era": "Late 14th Century",
+		"etymology": {
+			"components": [
+				"astron (star)",
+				"lambanein (to take / seize)"
+			],
+			"original_statement": "From Old French astrolabe, from Medieval Latin astrolabium, from Greek astrolabos, from astron 'star' + lambanein 'to take / seize'."
+		},
+		"concept": "The seizure of stars (「天」という巨大で測り知れぬものを。その「真鍮（マテリアル）」の「円盤（ディスク）」の中に「捕獲(lab-)」し。自分の掌（たなごころ）の上で「宇宙（アストロン）」を回してみせる、人間の「好奇心」という名の傲慢な愛)",
+		"thinking": "アストロラーベ。その名は「星を捕まえるもの」。古代の旅人たちは。この複雑な目盛りの付いた円盤を持ち歩き。自分が宇宙の「どの破片」の上に立っているのかを確かめました。あなたが、自分の「運命（スター）」を、ただの偶然として受け流すのではなく。自らの手で「操作（コントロール）」可能な現実として読み解こうとするとき。あなたの心には、この黄金色のアストロラーベが輝いているのです。 ",
+		"part_of_speech": "noun",
+		"aftertaste": "真鍮（しんちゅう）の冷たい感触と。精緻に刻まれた「星座」の線。それを回すたびに、自分の周りの「空（スカイ）」が回転していくかのような、あの。全知全能の陶酔（トランス）と、宇宙の精密さへの畏怖（いふ）。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ster-",
+					"meaning": "star (from astron)"
+				},
+				{
+					"term": "labh-",
+					"meaning": "to seize / take (from lambanein)"
+				}
+			],
+			"points": [
+				"Syllable（音節／共に取る）や Dilemma（ジレンマ／二つの取り分）と同じ lab-。星を取ることは、意味を掴み取ること、つまりロゴスの獲得なのです。"
+			]
+		}
+	},
+	{
+		"id": "coordinates",
+		"word": "Coordinates",
+		"meaning": "座標、秩序を共にするもの、位置の定義、(複数の)共鳴点",
+		"era": "Mid-17th Century",
+		"etymology": {
+			"components": [
+				"com- (together)",
+				"ordinare (to arrange / order)"
+			],
+			"original_statement": "From Latin co- 'together' + ordinare 'to put in order', from ordo 'row / rank / order'."
+		},
+		"concept": "The shared order (自分という「存在」を、決して単独では語らず。宇宙全体を網羅（もうら）する「秩序(ordo-)」の中に。他者と「共(co-)」に配置され、初めて「意味（位置）」を持つようになる、関係性という名の「峻烈なグリッド」)",
+		"thinking": "「コーディネート（座標）」。それは。あなたが「どこにいるか」という唯一の答え。あなたは、自分という個性を。ただの「点」としてしか感じられないかもしれません。しかし。その点が、縦と横の線（関係性）と交わったとき。あなたは。歴史や宇宙という名の「地図」に、二度と消えない穴（記憶）を穿（うが）つことができる。座標を持つことは、世界に対する「責任（レスポンシビリティ）」を引き受けることなのです。",
+		"part_of_speech": "noun / verb",
+		"aftertaste": "図面の上に引かれた、細い二本の線の交差（クロッシング）。そこに「自分」という魂の印を置いた瞬間の。もはやどこにも「迷う（ロスト）」ことはない、という。冷たくて。心地よい「管理」の安堵感。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ar-",
+					"meaning": "to fit together / join (from ordo)"
+				}
+			],
+			"points": [
+				"Ordinary（普通の）や Order（命令／順序）と同じ root。世界に適合（アー）することが、あなたの座標（現在地）を決定するのです。"
+			]
+		}
+	},
+	{
+		"id": "bathymetry",
+		"word": "Bathymetry",
+		"meaning": "深海測量、ボトムの計測、深水の幾何学、(暗き底の)記述",
+		"era": "Mid-19th Century",
+		"etymology": {
+			"components": [
+				"bathys (deep)",
+				"metron (measure)"
+			],
+			"original_statement": "From Greek bathys 'deep' + metron 'measure'."
+		},
+		"concept": "The measure of the abyss (日の差さぬ「深海（バシズ）」さえも。決して「神秘（ミステリー）」として放置せず。知性という名の「重り(plummet)」を投じ、その「暗き底（隠された真実）」を「測り(metron-)」取ろうとする、冷徹なまでの探究心)",
+		"thinking": "バシメトリー（深海測量）。それは、他者の心の「深さ」を測るような行為です。「深すぎる」と諦めていた絶望の淵（ふち）に。あえて知性の糸を垂（た）らし、その正確な「形状（等高線）」を描き出すこと。測られた深海は。もはや「恐怖（テラー）」ではなく、一つの「風景（ランドスケープ）」へと変わります。知ることは。闇を自分の一部として「受容（アクセプト）」することなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "鉛の重りが、コトン、と。何千メートルもの深さの果てに、ようやく「底」を突いた瞬間の、あの。暗闇の中に「確実な大地」を見つけたという、峻烈な覚醒。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "gu-dh-",
+					"meaning": "to plunge / sink (from bathys)"
+				},
+				{
+					"term": "me-",
+					"meaning": "to measure (from metron)"
+				}
+			],
+			"points": [
+				"Bathrobe（バスローブ）などの Bath（風呂）は関係ありませんが、Benthos（底生生物）の ben- と繋がります。底に『降り立つ』ことが知性の始まりなのです。"
+			]
+		}
+	},
+	{
+		"id": "orography",
+		"word": "Orography",
+		"meaning": "山岳記述、山岳図、高く立ち上がるものの図解、(高く峻険な)地の物語",
+		"era": "Mid-19th Century",
+		"etymology": {
+			"components": [
+				"oros (mountain)",
+				"graphein (to write / draw)"
+			],
+			"original_statement": "From Greek oros 'mountain' + graphein 'to write / draw'."
+		},
+		"concept": "The writing of heights (ただの「岩塊」ではない。天へと「立ち上がる(oros-)」その「誇り」の形を。精緻な「線（ロゴス）」として「書き留める(graph-)」ことで。峻険な自然を、人間が「思考」できる「物語（マップ）」へと変換する試み)",
+		"thinking": "「オログラフィー（山岳図）」。それは、あなたが自分の人生という名の「壁」に、どうやって名前を付けるか、ということです。あの苦しい「峠」を。あの輝かしい「頂上」を。あなたは、ただ通り過ぎるのではなく、自らの手で「記述（オログラフィー）」し、自分の歴史という本の一頁に刻まなければなりません。山は。名付けられることで、初めてあなたの「道標（マイルストーン）」になるのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "切り立った断崖（クリフ）を、等高線で「ぎゅっ」と凝縮して描いたときの、あの。巨大な高低差を一望できるという、不敵なまでの「強者」の視点。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "er-",
+					"meaning": "to rise / set in motion (from oros)"
+				}
+			],
+			"points": [
+				"Orient（東／日の昇る方角）や Origin（起源）と同じ root。山とは、大地が最初に『昇った（始めた）』場所の象徴なのです。"
+			]
+		}
+	},
+	{
+		"id": "atlas",
+		"word": "Atlas",
+		"meaning": "地図帳、アトラス、(世界を)背負う者、天を支える柱、情報の集大成",
+		"era": "Late 16th Century",
+		"etymology": {
+			"components": [
+				"a- (intensive)",
+				"tlas (enduring / bearing)"
+			],
+			"original_statement": "From Greek Atlas, the Titan forced to hold up the heavens. Mercator used his image on map collections, hence the name."
+		},
+		"concept": "The endurance of space (重すぎる「天空（世界）」という情報を。自らの「背（あるいは紙）」の上に「一手に(a-)」「引き受け(tlas-)」。誰かが道を失わないよう、永遠に「支え」続けようとする、英雄的な「知の収集」)",
+		"thinking": "アトラス。その名は「耐え忍ぶ者」。あなたが、世界中のバラバラな「事実」を集め。それを一冊の「地図帳（アトラス）」としてまとめ上げるとき。あなたは。混沌とした世界という名の「天」を、自分の知力で「支えて」います。知ることは、重い。しかし、その重みに耐えて（アトラス）世界を記述することこそが。人間に許された、最も美しき「タイタン（巨人）」の役割なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "分厚い。手垢（てあか）で汚れた地図帳の頁をめくる。そこには、まだ見ぬ異国が。すべて自分の「指先」一つで支配されているかのような、あの。静かなる、しかし峻烈な「征服」の喜び。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "tele-",
+					"meaning": "to lift / support / weigh / bear"
+				}
+			],
+			"points": [
+				"Talent（タラント／重さの単位）や Tolerate（耐える）と同じ root。地図を持つことは、世界の『重さ』を背負う覚悟を持つことなのです。"
+			]
+		}
+	},
+	{
+		"id": "parchment",
+		"word": "Parchment",
+		"meaning": "羊皮紙、(死皮の)記録、ペルガモン、書き込まれた犠牲、不滅の皮膚",
+		"era": "Early 14th Century",
+		"etymology": {
+			"components": [
+				"Pergamon (City in Asia Minor)"
+			],
+			"original_statement": "From Old French parchemin, from Latin pergamina, from Greek pergamene 'of Pergamum', where parchment was supposedly invented after an export ban on papyrus."
+		},
+		"concept": "The flayed memory (植物（パピルス）の儚（はかな）さを捨て。あえて「命あるもの」の「皮膚（スキマ）」を「剥（は）ぎ取り」。それを限界まで「引き延（ば）し」て「乾燥」させることで。死んだ肉体に「言葉（ロゴス）」という名の「不滅」を宿らせた、残酷な記録体)",
+		"thinking": "「パーチメント（羊皮紙）」。それは。かつて生きていた「羊（ラム）」たちの「遺言」。植物より重く、紙（ペーパー）より峻烈。あなたが、誰かの「痛み」の上に自分の考えを書き留めているとき。その言葉は、パーチメントのように、千年の時を越えても「色あせ」ません。書き込むことは、相手の重み（あるいは犠牲）を引き受けること。それは。命を「文字」へと変成（トランスミュート）させる、最も血生臭い「愛」の形です。",
+		"part_of_speech": "noun",
+		"aftertaste": "ザラザラとした、少し「脂（あぶら）」の匂いのする皮膚の感触。そこにペン先が「カリカリ」と音を立てて突き刺さり。インクが「染み込んで」いく瞬間の。命を「略奪（プラリネ）」して記憶に変えている、というあの峻烈な共犯関係の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "unknown",
+					"meaning": "City name 'Pergamon'"
+				}
+			],
+			"points": [
+				"エジプトがパピルスの輸出を禁じたため、トルコのペルガモンで発明されたという歴史。欠乏（禁止）こそが、より強固な記録体（パーチメント）を生み出したのです。"
+			]
+		}
+	},
+	{
+		"id": "heliometer",
+		"word": "Heliometer",
+		"meaning": "ヘリオメーター、太陽計、(光による)距離計、星の視径を測るもの、光の尺度",
+		"era": "Mid-18th Century",
+		"etymology": {
+			"components": [
+				"helios (sun)",
+				"metron (measure)"
+			],
+			"original_statement": "From Greek helios 'sun' + metron 'measure'."
+		},
+		"concept": "The measure of light (あまりにも「眩（まぶ）しすぎる」ものに対し。あえてその「光（ヘリオス）」そのものを「定規（メトロン）」として用い。届かぬ星々の「距離」や「大きさ」を「炙（あぶ）り出（だ）」そうとする、物理的な「畏怖」の計測)",
+		"thinking": "「ヘリオメーター（太陽計）」。あなたが、自分の「憧れ（スター）」を見つめるとき。ただ「綺麗だ」と感嘆（アメイジング）するのではなく。「あの光は、どのくらいの大きさなのか」「どのくらい遠くにいるのか」を、冷徹に測ろうとすること。その「測定」という名の「分析的愛（アナリティカル・ラブ）」。ヘリオメーター。あなたの知性は、あまりにも巨大な輝き（ロゴス）に対して、自分の中の「小さな物差し」を差し出す勇気を持っているのです。 ",
+		"part_of_speech": "noun",
+		"aftertaste": "眩しさで「涙」を流しながらも、レンズを微調整し。光の輪（ハロー）の中に隠れた「数値」を読み取った瞬間の。宇宙の「秘密」を一つ盗み出したかのような、不敵で瑞々（みずみず）しい罪悪感。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sawel-",
+					"meaning": "sun (from helios)"
+				},
+				{
+					"term": "me-",
+					"meaning": "to measure (from metron)"
+				}
+			],
+			"points": [
+				"Sun（太陽）や Solstice（至点）と同じ root。光を測ることは、時間を測ること、そして自分の『運命』の長さを知ることでもあります。"
+			]
+		}
+	},
+	{
+		"id": "wayfinding",
+		"word": "Wayfinding",
+		"meaning": "道探し、直感による航法、生命の羅針盤、目的地へ至るための智慧",
+		"era": "Mid-20th Century (though ancient concept)",
+		"etymology": {
+			"components": [
+				"way (path)",
+				"find (to come upon)"
+			],
+			"original_statement": "Compound of way + finding. In navigation, refers to sensing orientation without instruments."
+		},
+		"concept": "The ancestral orientation (「地図（ロゴス）」を持たず。ただ「波の形(swell)」や、微かな「風の匂い」、あるいは「鳥の羽ばたき」という名の「宇宙の断片」を直感（センス）して。暗闇の海を「ホーム」へと「手繰（たぐ）り寄せ」る、原初の生存能力)",
+		"thinking": "「ウェイファンディング（道探し）」。それは、あなたが「すべてを失った」ときに発動する力。データやスマホ（ツール）に頼らず、ただ自分の「直立のバランス」を頼りに、進むべき方向を感じ取ること。あなたが人生の「荒波（カオス）」の中で、迷子（ロスト）になったとき。思い出してください。あなたの「内側」には、何千世代も前の先祖から受け継いだ、この「ウェイファンディング（直感）」の羅針盤が、今も震えて（バイブラント）いるのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "暗い森の中で。不意に「こちらだ」と、確信に満ちた感覚が胸を貫く、あの瞬間の。自分という「生命」が、宇宙全体の「方位」と「パッ」と繋がったかのような、峻烈な野生の喜び。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "wegh-",
+					"meaning": "to go / move / transport (from way)"
+				},
+				{
+					"term": "pent-",
+					"meaning": "to tread / go (from find)"
+				}
+			],
+			"points": [
+				"Vehicle（乗り物）の wegh- と、Path（小道）に通ずる pent-。ウェイファンディングとは、自らが『道そのもの』となって動くことなのです。"
+			]
+		}
+	},
+	{
+		"id": "dead-reckoning",
+		"word": "Dead Reckoning",
+		"meaning": "推測航法、(過去からの)類推、死せる勘、(計器なき)孤独な予測",
+		"era": "Early 17th Century",
+		"etymology": {
+			"components": [
+				"ded (deduced / dead)",
+				"reckon (to count / consider)"
+			],
+			"original_statement": "Probably shorthand for 'deduced reckoning'. Using only previous position, speed, and time to find current location."
+		},
+		"concept": "The calculation of absence (「今、ここ」の星が見えぬ極限状態（死の海）で。かつて自分がどこに「居た(past)」か、という「記憶（データ）」だけを「計算(reckon-)」の種にし。虚無（ゼロ）から「現在地」を「導き出(deduce-)」す、孤独で「禁欲的」な推論)",
+		"thinking": "「デッド・レコニング（推測航法）」。星も光も見えない「五里霧中（カオス）」の中で。あなたは「昨日の自分」を信じるしかありません。私は、時速何キロで歩き、どのくらいの時間（クロノス）を費やしたか。その「冷徹な計算」だけが、あなたを「迷子」から「探求者」へと引き戻します。光（答え）がなくても、過去の「足跡（トレース）」から未来を計算すること。それが。大人の「誇り高い」航法なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "計算機（あるいは羊皮紙）の上で導き出された、「おそらくここに居る（はずだ）」というたった一点。それを信じて、荒れ狂う海へと舵（かじ）を切る瞬間の、あの。腹の底からの「震い」と、知性という名の「峻烈な賭け」。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "reg-",
+					"meaning": "to move in a straight line / guide / rule (from reckon)"
+				}
+			],
+			"points": [
+				"Right（正しい）や King（王）と同じ root。推測（レコニング）することは、混沌に『自分の王としての正しさ』を押し通す行為なのです。"
+			]
+		}
+	},
+	{
+		"id": "pilotage",
+		"word": "Pilotage",
+		"meaning": "水先案内、(危険な場所での)導き、操縦、知識による境界の突破",
+		"era": "Mid-16th Century",
+		"etymology": {
+			"components": [
+				"pedon (oar / rudder)"
+			],
+			"original_statement": "From French pilotis, from Italian pilota, from Latin pedoto, from Greek pedon 'oar / rudder'."
+		},
+		"concept": "The guidance of oars (未知の大海原ではなく。「既知(known)」でありながら「危険(dangerous)」な「入り江（境界）」でのみ有効な。その地の「暗礁(shadow)」をすべて知り尽くした者による、確実で「峻烈な」操舵（そうた）)",
+		"thinking": "「パイロッティッジ（水先案内）」。広い海を渡ることよりも、狭い関門（ゲート）を抜けることの方が、時に難しい。あなたが人生の「瀬戸際」に立ったとき、必要なのは。情熱ではなく「その場所のことを熟知している記憶」です。パイロッティッジ。あなたは。誰かのために、その危険な海域の「地図」を教える「案内人（ガイド）」になることができる。経験は。他者の「破滅」を防ぐための、最も尊い「お守り（アミュレット）」となるのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "荒れ狂う波の間に。一筋だけ見える「穏やかな海面」。そこを迷わず突き進んでいく、老いた「水先案内人」の。その。言葉少なで、しかし一切の「迷い」がない「背中」を見たときの、圧倒的な信頼。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ped-",
+					"meaning": "foot (associated with oar as it is 'stepped on' or 'extended out')"
+				}
+			],
+			"points": [
+				"Pedal（ペダル）や Foot（足）と同じ root。導くことは、自らの『足』でその場所を知り、その場所の一部になることなのです。"
+			]
+		}
+	},
+	{
+		"id": "planimetry",
+		"word": "Planimetry",
+		"meaning": "平面測量、(凹凸を無視した)平面の計測、投影された平穏、省略の幾何学",
+		"era": "Mid-18th Century",
+		"etymology": {
+			"components": [
+				"planus (flat)",
+				"metron (measure)"
+			],
+			"original_statement": "From Latin planus 'flat' + Greek metron 'measure'."
+		},
+		"concept": "The simplification of world (複雑な「山（エゴ）」も、暗い「谷（絶望）」も。あえてすべてを無視して、ただ「平ら(plan-)」な一層（ワン・レイヤー）へと「圧縮（プレス）」し。その「二次元」の上での「関係性（メトロン）」だけを純粋に測り取ろうとする、抽象化の「知性」)",
+		"thinking": "プラニメトリ（平面測量）。それは。あえて「深く考えない」という、一つの高等なテクニック。人生の起伏（ストレス）にいちいち翻弄（ほんろう）されていると、目的地は見終えなくなります。一度。すべてを「平らな一枚の地図」として眺めてみる。何が重要で、何がそうでないか。その「起伏を削ぎ落とした（フラットな）」視点が。あなたに。迷いのない「一歩（ストロード）」を踏み出すための、驚くべき「明快（クリア）」さを与えてくれるのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "あんなに苦しかった「山」が。地図の上では、ただの一枚の「平らな緑色」の模様になっているのを見た時の、あの。世界を「手玉に取った」かのような、不敵で、少し寂しい「知性の優越」。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "pel-",
+					"meaning": "field / flat / spread (from planus)"
+				},
+				{
+					"term": "me-",
+					"meaning": "to measure (from metron)"
+				}
+			],
+			"points": [
+				"Plain（平原）や Plane（飛行機／平面）と同じ root。平らであることは、思考が『自由に駆け巡る』ための、絶対的な前提条件なのです。"
+			]
+		}
+	},
+	{
+		"id": "geodesy",
+		"word": "Geodesy",
+		"meaning": "測地学、大地を分かつ知恵、(地球の)真の形の探求、宇宙の中の重力の記述",
+		"era": "Late 16th Century",
+		"etymology": {
+			"components": [
+				"ge (earth)",
+				"daiein (to divide)"
+			],
+			"original_statement": "From Modern Latin geodesia, from Greek geoidaisia, from ge 'earth' + daiein 'to divide'."
+		},
+		"concept": "The division of Earth (自分が立っている「この大地(ge-)」は。一体いかなる「形（シェイプ）」をしているのか。「重力（グラビティ）」と「回転（スピン）」が織りなす「不可視の力」を測り。大地を「分かつ(daie-)」ことで、その「真理」を暴き出そうとする、壮大な「地の計測」)",
+		"thinking": "「ジオデジー（測地学）」。そのルーツは「大地を分ける」。領土の境界線を引くという「極めて人間的な（政治的な）」行為が。突き詰めれば「地球はどんな球体なのか」という「神の問い（サイエンス）」へと繋がっていった、という歴史。あなたが、自分の「所有（プロパティ）」をはっきりさせようとするとき。あなたは。実は「自分という大地が、果てしない宇宙の中でどんな形をしているのか」という、存在論的な「測量」を行っているのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "真っ直ぐだと思っていた「道」が。惑星の「曲がり」に合わせて、実は緩やかに「弧（アーク）」を描いている。それを数式で証明した瞬間の、あの。足元が「ふっ」と浮くかのような、宇宙への「帰属」の震（ふる）え。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "unknown",
+					"meaning": "ge (earth / Gaia)"
+				},
+				{
+					"term": "dai-",
+					"meaning": "to divide / cut"
+				}
+			],
+			"points": [
+				"Daemon（悪魔／分配者）と同じ dai-。大地を分かつ（測る）ことは、人間に『運命の取り分』を教える、神聖な神官の役割だったのです。"
+			]
+		}
+	},
+	{
+		"id": "triangulation",
+		"word": "Triangulation",
+		"meaning": "三角測量、(三点による)確定、調和の測量、三位一体の証明、現在地の特定",
+		"era": "Mid-18th Century",
+		"etymology": {
+			"components": [
+				"tri- (three)",
+				"angulus (corner / angle)"
+			],
+			"original_statement": "From Latin tri- 'three' + angulus 'corner / angle'. The method of determining position by measuring angles between two known points and the unknown point."
+		},
+		"concept": "The certainty of three (自分という「不確かな点(unknown)」を。信頼できる二つの「星（他者／過去）」と結び。その「三角の調和(tri-ang-)」の中から、逃れようのない「唯一の真実（現在地）」を数学的に「炙（あぶ）り出（だ）す」、絶対的な「証明」の儀式)",
+		"thinking": "「トリアンギュレーション（三角測量）」。一つでは迷う。二つでは揺れる。しかし。三点（トライアド）を繋いだとき、そこに「不変の形」が生まれます。あなたが、自分の座標（現在地）を見失ったなら。「かつての理想」と「今の現実」、そして「冷徹な知性」。その三つを繋いで（トリアンギュレート）、三角形を描いてみて。その「中心（重心）」にこそ。あなたが今、命懸けで守るべき「聖なる場所」が浮かび上がるはずです。",
+		"part_of_speech": "noun",
+		"aftertaste": "二つの既知の点から伸ばした、見えない「線」。それが「カチリ」と交わった場所の。もはや一ミリの誤差も許されないという、圧倒的なまでの「数値の権威」。そこに宿る「運命の定在」の安堵感。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "trei-",
+					"meaning": "three"
+				},
+				{
+					"term": "ank-",
+					"meaning": "to bend (from angulus)"
+				}
+			],
+			"points": [
+				"Angle（角度）や Anchor（錨／曲がったもの）と同じ ank-。曲がった（角を持つ）ものを三つ集めることは、世界を最も『真っ直ぐ』に測るための、知恵の極致なのです。"
+			]
+		}
+	},
+	{
+		"id": "noctilucent",
+		"word": "Noctilucent",
+		"meaning": "夜光の、夜に輝く、(夜の空高くにある)輝く雲、闇の中の微かな明かり",
+		"era": "Late 19th Century",
+		"etymology": {
+			"components": [
+				"nox (night)",
+				"lucere (to shine)"
+			],
+			"original_statement": "From Latin nox 'night' + lucere 'to shine'."
+		},
+		"concept": "The light within dark (地上のすべてが「闇(nox-)」に沈（しず）んだあとも。まだはるか高み（成層圏）で「太陽（過去）」を一人占めにし。淡く、しかし峻烈な「銀色の光」を「放(luc-)」ち続ける、選ばれし者の「孤独な輝き」)",
+		"thinking": "「ノクティルーセント（夜光る）」。それは。誰にも届かないほど「高く」ある者の、美学。街の灯（ひ）がすべて消え、人々が眠りの中にある時。それでも空の果てに、ただ一筋だけ「光る雲」がある。あなたが、世間がいかなる「闇（不況や逆境）」にあろうとも、自分だけの高潔な「真理（ライト）」を保ち続け、静かに光を放っているとき。あなたは宇宙の中の「ノクティルーセント」な宝石となっているのです。 ",
+		"part_of_speech": "adjective",
+		"aftertaste": "真夜中の。青黒い空を裂くようにして浮かぶ、あの。青白くて「蜘蛛の糸」のように繊細な。しかし。何よりも力強く「世界を拒絶している」かのような、高貴な「光の残像」。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "nekw-t-",
+					"meaning": "night"
+				},
+				{
+					"term": "leuk-",
+					"meaning": "light / brightness (from lucere)"
+				}
+			],
+			"points": [
+				"Lucent（光る）や Lucid（明快な）と同じ leuk-。夜光雲とは、暗闇の中に『明快さ』を持ち込む、物理的な奇跡の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "boreal",
+		"word": "Boreal",
+		"meaning": "北の、北風の、北方の、凍てつく高貴さ、冷たい導き",
+		"era": "Late 15th Century",
+		"etymology": {
+			"components": [
+				"Boreas (North Wind)"
+			],
+			"original_statement": "From Late Latin borealis, from Latin boreas 'north wind', from Greek Boreas, a mythological figure."
+		},
+		"concept": "The icy inhalation (「北(Bore- )」から吹き降ろす、感情（エモーション）をすべて凍らせ、ただ「骨格（ロゴス）」を剥（む）き出しにする「冷たい風」。人々を遠ざけながら、同時に「北極星」へと心を繋ぎ止める、峻烈な「覚醒」の方角)",
+		"thinking": "「ボレアル（北方的な）」。そのルーツは、荒ぶる北風の神「ボレアス」。北を目指すことは、自ら「安楽（サウス）」を捨てること。あなたが、自分の人生を。凍てつくような「厳しさ」の中へ、あえて投（じ）じ込み。そこで自分の「純度」を高めようとしているとき。あなたは。この「ボレアル」な輝き（オーロラ）の世界の住人となっています。冷たさは、知性の「透明度」を上げるための、最高の溶媒（ソリューション）です。",
+		"part_of_speech": "adjective",
+		"aftertaste": "身を切るような、冬の「北風」を吸い込んだ瞬間の。肺の奥が「ピリッ」と凍りつき。同時に、頭の中の「雑念（ノイズ）」がすべて一瞬で消え去る、あの。怖ろしいほどに瑞々（みずみず）しい「明晰（めいセキ）」の快感。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "gwer-",
+					"meaning": "mountain (possible distant connection as 'mountain wind')"
+				}
+			],
+			"points": [
+				"Aurora Borealis（北極光）のボレアル。北とは、世界が最も『高く、冷たく、そして美しい』方角を指す、誇り高い形容なのです。"
+			]
+		}
+	},
+	{
+		"id": "austral",
+		"word": "Austral",
+		"meaning": "南の、南方の、(南からの)暖かい風、南十字星の輝き、未知への情熱",
+		"era": "Mid-16th Century",
+		"etymology": {
+			"components": [
+				"auster (south wind / the south)"
+			],
+			"original_statement": "From Latin australis 'southern', from auster 'south wind'."
+		},
+		"concept": "The southern radiance (北の厳しさ（ボレアル）と対になる、どこまでも「明るく(aust-)」。「黄金」に輝き。情熱的な「風」が吹き抜けていく、未知の「楽園」への渇望。光が溜（た）まる、宇宙の「豊かなる底」)",
+		"thinking": "アウストラル（南方の）。そのルーツは「南風（アウステル）」。そして。ラテン語で「輝く(aurora)」という言葉とも密接に繋がっています。南は、光が溜まる場所。あなたが。まだ見ぬ「輝かしい未来（サウス）」を信じ、そこにある「暖かい風（アガペー）」に向かって帆を広げるとき。あなたの魂は、この「アウストラル」な希望に満たされています。未知であることは、輝いていることなのです。",
+		"part_of_speech": "adjective",
+		"aftertaste": "水平線の向こうから。見たこともないほど「巨大な、オレンジ色の太陽」が昇り。波の上がすべて「金粉（ゴールド）」を撒いたように輝き出す、あの。圧倒的な「肯定」の光。南十字星の、不敵な輝き。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "aus-",
+					"meaning": "to shine / dawn / east (from auster / aurora)"
+				}
+			],
+			"points": [
+				"Australia（オーストラリア／未知の南方大陸）の語源。南とは、常に『光を求めて降りゆく先』であり、命が最も激しく燃焼する場所なのです。"
+			]
+		}
 	}
 ];
