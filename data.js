@@ -227025,5 +227025,444 @@ const WORDS = [
 				"Plank（厚板）や Planet（惑星／放浪者）と同じ root。プランクトンとは、運命に『打ちのめされ（pl-）』ながらも。その力（波）を自分の動力に変えてしまう、究極の『したたかさ』の記述なのです。"
 			]
 		}
+	},
+	{
+		"id": "escapement",
+		"word": "Escapement",
+		"meaning": "脱進機(エスケープメント)、(制御される)解放、時を刻む歯車、自由の小出し、リズムの源泉",
+		"era": "Late 18th Century",
+		"etymology": {
+			"components": [
+				"escape (to get free)"
+			],
+			"original_statement": "From escape. In horology, the device that allows the motive power to 'escape' bit by bit, creating the tick-tock rhythm."
+		},
+		"concept": "The measured release (「蓄積されたエネルギー（衝動）」を一気に爆発させるのではなく。「歯車」によって「一歩ずつ、均等に」解放(escape-)させること。カオスを「時間」という名の「秩序」へと調律する、峻烈なる「抑制の美学」)",
+		"thinking": "「エスケープメント（脱進機）」。あなたの「情熱」や「才能」。それを一気に使い果たしてはいけません。 escapement。それは。あなたの内なるエネルギーを、少しずつ、決まったリズムで外へ逃がす（アウトプットする）ための仕組み。この「小出しにする（エスケープさせる）」という「抑制」があるからこそ。あなたの人生は、単なる「爆発」ではなく、美しく時を刻む「物語」になるのです。リズムを守ってください。",
+		"part_of_speech": "noun",
+		"aftertaste": "耳元で鳴り続ける、硬質な「チッ、チッ」という金属音。そこにある。一秒の狂いも許さないという、冷徹な「正確さ」と。すべてが「計画通り」に進んでいるという、瑞々（みずみず）しい「安心」の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ex-cappa",
+					"meaning": "out of a cloak (from escape)"
+				}
+			],
+			"points": [
+				"Escape（脱出する）と同じ root。脱進機とは、エネルギーが『外套（ケープ）』を脱ぎ捨てて、自由な『時間』へと変容する瞬間の、ゲートウェイなのです。"
+			]
+		}
+	},
+	{
+		"id": "horology",
+		"word": "Horology",
+		"meaning": "時計学、(時の)学問、沈黙の測定、一瞬の解剖、永遠の追求",
+		"era": "Early 19th Century",
+		"etymology": {
+			"components": [
+				"hora (hour / time)",
+				"logos (study / word)"
+			],
+			"original_statement": "From Latin horologium, from Greek horologion 'instrument for telling the hour', from hora 'hour' + logos 'telling / study'."
+		},
+		"concept": "The anatomy of moments (「形のない時間」を。「歯車」や「ゼンマイ」という「物質（ロゴス）」へと翻訳し。一秒という「極小の単位」にまで「解体(analyze)」しようとする、高慢で峻烈な「知の野心」。永遠を「手元」に置こうとする人間の執念)",
+		"thinking": "「ホロロジー（時計学）」。それは。あなたが「今日という一日」を、ただ流されるのではなく、「どう使い切るか」を設計するための哲学。 horology。一分一秒を、ただの数字として見るのではなく。そこに「どの歯車を噛み合わせ」「どれだけの情熱を注ぐか」。時間を「支配」しようとすること。それは。自分の「命（ホラ）」を、誰にも渡さないという、最も「誇り高い」孤独な闘争なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "顕微鏡で「極小のピン」を調整するような、極限の「集中」。そして。自分の組んだ機械が、正確に「時（真理）」を刻み始めた瞬間の。あの。神にでもなったかのような、不気味で瑞々しい「万能感」。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "yer-",
+					"meaning": "year / season (from hora)"
+				}
+			],
+			"points": [
+				"Hour（時間）や Year（年）と同じ root。ホロロジーとは。季節（イヤー）の大きな巡りを。人間の手の中に『凝縮』し、いつでも取り出せるようにした、時間のコンパクト（結晶）なのです。"
+			]
+		}
+	},
+	{
+		"id": "mainspring",
+		"word": "Mainspring",
+		"meaning": "主ぜんまい、(秘められた)動力、巻かれた意志、情熱の源泉、解放を待つ力",
+		"era": "Late 16th Century",
+		"etymology": {
+			"components": [
+				"main (chief)",
+				"spring (to leap / jump)"
+			],
+			"original_statement": "From main 'chief' + spring. The principal spring that provides the power for a mechanism."
+		},
+		"concept": "The coiled ambition (「金属の帯」を、自らの「意志（外部の力）」で力ずくで「巻き上げ(coil)」。その「反発しようとする力」を「内面」に封印しておくこと。一見「静止」しているが、内部には「爆発的な飛翔(spring-)」を秘めた、峻烈なる「可能性の貯蔵」)",
+		"thinking": "「メインスプリング（主ぜんまい）」。あなたの「行動（アクション）」が止まっているように見えても。あなたの心の中の「メインスプリング」は、パンパンに巻き上げられているはずです。その「苦しさ（緊張）」があるからこそ。あなたは。いざという時に、誰よりも速く、誰よりも長く「跳ぶ（スプリング）」ことができる。 mainspring。自分自身を「巻き上げる」ことを、忘れないでください。静寂は、力の充電なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "ゼンマイを巻く時の、指先に伝わる「重い抵抗」。そして、ギリギリまで巻いた瞬間の。いつ「弾（はじ）ける」かわからないという、怖ろしいほどの「緊張感」と。そこに秘められた「未来」の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sprengh-",
+					"meaning": "to move / hasten / jump (from spring)"
+				}
+			],
+			"points": [
+				"Spring（春）や Sprinkle（振りまく）と同じ root。メインスプリングとは。あなたの内側に強制的に『春（目覚め）』を起こすための、鋼鉄製の太陽なのです。"
+			]
+		}
+	},
+	{
+		"id": "tourbillon",
+		"word": "Tourbillon",
+		"meaning": "トゥールビヨン、(歪みを正す)回転、重力への反逆、究極の均衡、知性の渦巻",
+		"era": "Early 19th Century (patented by Breguet)",
+		"etymology": {
+			"components": [
+				"touron (to turn)"
+			],
+			"original_statement": "From French tourbillon 'whirlwind', from Latin turbo 'swirl / whirlwind'."
+		},
+		"concept": "The defiance of gravity (「地球の重力」という「一方的な偏見」による「誤差」を。自らが「回転(swirl-)」し続けることで、「全ての方向」へ分散させ、相殺すること. 環境の「不条理（重力）」を、自らの「運動（ダンス）」によって克服する、峻烈なる「知の勝利」)",
+		"thinking": "「トゥールビヨン」。あなたは。自分の周りにある「偏見」や「重圧（重力）」によって、自分のリズムが狂わされている、と感じていませんか。 tourbillon。この複雑な「渦巻」のように。あなた自身が、常に「多角的な視点（回転）」を持ち続ければ。どんな「偏り」も、あなたの中心（コア）を乱すことはできません。抗（あらが）うのではなく。回転して、受け流してください。それが、最高精度の「人生」への秘訣です。",
+		"part_of_speech": "noun",
+		"aftertaste": "一分間に一周する、小さな「籠（ケージ）」の優雅な旋回。そこにある. 重力という「宇宙の支配」を嘲笑（あざわら）うかのような。あまりに高慢で、あまりに瑞々（みずみず）しい「自由」の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "twer-",
+					"meaning": "to turn / whirl"
+				}
+			],
+			"points": [
+				"Turbine（タービン）や Disturb（乱す）と同じ root。トゥールビヨンとは。あえて自分の中に『小さな嵐（ターボ）』を起こすことで。外界の『巨大な嵐』から自分を守る、知的な防壁なのです。"
+			]
+		}
+	},
+	{
+		"id": "flywheel",
+		"word": "Flywheel",
+		"meaning": "弾み車、(意志の)貯蔵、回転の慣性、停滞の拒絶、一定であることの強さ",
+		"era": "Mid-18th Century",
+		"etymology": {
+			"components": [
+				"fly (to soar)",
+				"wheel (to turn)"
+			],
+			"original_statement": "From fly + wheel. A heavy wheel for smoothing out variations in speed."
+		},
+		"concept": "The temporal reservoir (一瞬の「強い力」を、自らの「質量（重さ）」によって「回転（運動エネルギー）」へと変換。力が途絶えた「後」も、その「慣性」で動き続ける。激しい「変動（浮き沈み）」を「平滑化(smooth-out)」し。常に「一定の歩み」を維持させる、峻烈なる「持続の意志」)",
+		"thinking": "「フライホイール」。あなたの「やる気」には。どうしても波があります。でも。調子の良い時に、そのエネルギーをこの「弾み車（フライホイール）」に溜めておけば。調子の悪い時でも、その「回転の余韻（慣性）」で、あなたは止まらずに進むことができる。 flywheel。大切なのは、最初の一歩ではなく。二歩目、三歩目を「一定の重み」で踏み出し続けること。あなたの「習慣（ルーチン）」こそが、最強のフライホイールなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "重い円盤が、一度回り始めたら「誰にも止められない」という、静かなる「威圧感」。そして、空気を「ヒューン」と切り裂く、低い回転音。そこにある。峻烈なる「不動の移動」の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "hwel-",
+					"meaning": "to turn / revolve (from wheel)"
+				}
+			],
+			"points": [
+				"Wheel（車輪）や Cycle（周期）と同じ root。フライホイールとは。直線の時間を『円（サイクル）』へと書き換え。自分の『重み（存在感）』を未来へと投影するための、時間超越のカラクリなのです。"
+			]
+		}
+	},
+	{
+		"id": "dial",
+		"word": "Dial",
+		"meaning": "ダイアル/文字盤、(世界の)顔、数値化された運命、視線の着地点、時間の皮膚",
+		"era": "Late 14th Century",
+		"etymology": {
+			"components": [
+				"dies (day)"
+			],
+			"original_statement": "From Latin dialis 'daily', from dies 'day'. Refers to a sun-dial or a clock face showing the day's progression."
+		},
+		"concept": "The interface of existence (内部の「複雑な葛藤（メカニズム）」を一切見せず。ただ一組の「針」と「数字」によって。「今の真実」だけを「提示(display)」する、冷徹なまでの「平滑面」。世界と「対話（ダイアローグ）」するための、峻烈なる「情報の皮膚」)",
+		"thinking": "「ダイアル（文字盤）」。あなたの「表情」は、世界のダイアルです。あなたの内側にどんなに「絡（から）まった歯車」があっても。外に見せるのは、常に「正確（誠実）」な姿でなくてはならない。 dial。それは。曖昧（あいまい）な感情を、「数字（言葉）」へと置き換える勇気の場所。相手があなたの針（指針）を見たとき。そこに「迷い」が見えぬよう。あなた自身の「文字盤」を、毎日磨いておいてください。 ",
+		"part_of_speech": "noun / verb",
+		"aftertaste": "指先で「カチカチ」とダイアルを回す時の、心地よい「ノッチ」の感触。そして。自分の選んだ数値に、世界が「カチリ」と収まる瞬間の。あの。峻烈なる「決定」の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "dyeu-",
+					"meaning": "to shine / sky (from dies)"
+				}
+			],
+			"points": [
+				"Deity（神）や Diary（日記）と同じ root。ダイアルとは。太陽（神）が空に描く『光の軌跡』を。人間の机の上で『再現（トレース）』しようとする、光の彫刻なのです。"
+			]
+		}
+	},
+	{
+		"id": "pointer",
+		"word": "Pointer",
+		"meaning": "針/指示器、(指し示す)指、現在地への執着、座標の宣言、逃れられぬ『今』",
+		"era": "Early 15th Century",
+		"etymology": {
+			"components": [
+				"punctum (point / prick)"
+			],
+			"original_statement": "From point. In mechanical devices, the pointer that points to a specific measurement."
+		},
+		"concept": "The precise focus (「無限に広がる可能性（ダイアル）」の中から。「ただ一つの真実（現在）」を「突き刺す(prick-)」ように指し示す、鋭利な「意志の先端」。曖昧さを「拒絶」し。冷酷なまでに「結果」を突きつける、峻烈なる「断定の刃」)",
+		"thinking": "「ポインター（針）」。あなたの「視線」は、今どこを向いていますか。 pointer。それは。過去でも未来でもなく。「今、この瞬間」に全身全霊（パワー）を集中させるための指。あちこちフラフラと揺れる（ハンティングする）のではなく。一点。あなたの「目指すべき星」を、微動だにせず指し示し続けること。その「一本の線」が、あなたの「誠実さ」という名の、唯一の航路になるのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "先端が「ギリギリ」まで数字に近づき。一分の隙（すき）もなくそこに重なる瞬間の。あの。脳内が「カチン」と冷えるような、冷徹なまでの「正解」の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "peuk-",
+					"meaning": "to prick / sting"
+				}
+			],
+			"points": [
+				"Punctuation（句読点）や Pugilist（拳闘家）と同じ root。ポインターとは。広大な情報の海に、自分の意志の『杭（パイル）』を打ち込むこと。それは。世界を自分の一部として『刺し貫く（peuk-）』行為なのです。"
+			]
+		}
+	},
+	{
+		"id": "ratchet",
+		"word": "Ratchet",
+		"meaning": "ラチェット、(後戻りせぬ)意志、一方通行の進歩、逆流の拒絶、一歩ずつの確信",
+		"era": "Mid-17th Century",
+		"etymology": {
+			"components": [
+				"roche (spindle / distaff)"
+			],
+			"original_statement": "From Italian rocchetto 'spindle / bobbin', diminutive of rocca 'distaff'. Later applied to a toothed wheel that allows motion in only one direction."
+		},
+		"concept": "The irreversible progress (「前（未来）」へは進めるが。「後ろ（過去）」へ戻ろうとすれば。「爪(pawl)」が「歯(tooth)」に噛み合い、それを物理的に「阻止」する。後悔（リグレット）を「機構」として無効化し。ただ「進むこと」だけを強要する、峻烈なる「決断の加速器」)",
+		"thinking": "「ラチェット」。挑戦を始めたら。自分の中に、この「ラチェット」を掛けてください。一度「歯」を一つ進めたら。もう二度と、元の場所には戻らない。 ratchet。その「カチッ」という音は。あなたが「過去の自分」を切り捨て。新しい自分へと「一段階、進化した」という、峻烈な咆哮（ほうこう）なのです。戻りたい、と思う弱さを。ラチェットの「爪」で、力強く弾き飛ばしてください。",
+		"part_of_speech": "noun / verb",
+		"aftertaste": "動くたびに「カチ、カチ」と。自分の「足場」が一つずつ「固まっていく」確信. 決して「滑り落ちる」ことがないという。怖ろしいほどの「安全」と。その果ての「逃げ場のなさ」。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "unknown",
+					"meaning": "Possibly related to 'spindle' (spinning forward)"
+				}
+			],
+			"points": [
+				"語源は『糸（運命）』を紡ぐ『紡錘（ボビン）』。ラチェットとは。自分の人生という一本の糸を。あゆみを止めず、ただひたすらに前へと『巻き取っていく（スピン）』、時間の不可逆性を具現化したものなのです。"
+			]
+		}
+	},
+	{
+		"id": "balance-wheel",
+		"word": "Balance-wheel",
+		"meaning": "テンプ、(揺らぎの)核心、生命の脈動、精度の守護者、微小なる格闘",
+		"era": "Late 17th Century",
+		"etymology": {
+			"components": [
+				"bilanx (two-scaled)",
+				"wheel (circle)"
+			],
+			"original_statement": "From balance + wheel. The oscillating wheel that acts as the timebase in a watch."
+		},
+		"concept": "The rhythmic struggle (「髭（ひげ）ゼンマイ」の「繊細な弾力」と。「円盤」の「重厚な慣性」。その二つの「力」が、一秒間に何度も「衝突」し、「反発」し合うことで。極限の「均衡(balance-)」としての「振動」を生み出す。生命そのものの、峻烈なる「微小な震え」)",
+		"thinking": "「テンプ（バランス・ホイール）」。あなたの「精神的な強さ」。それは。じっとしている「不動」ではなく。このテンプのように、激しく「揺れ続け」ながら、それでも「一定のリズム」を保とうとする「格闘」の中にあります。 balance-wheel。止まってしまえば、時計（人生）は終わります。左右に激しく振られながら（葛藤しながら）。その「振動（バイブレーション）」を、あなたの「精度（誇り）」に変えていってください。",
+		"part_of_speech": "noun",
+		"aftertaste": "細い針金（ゼンマイ）が「ギュン、ギュン」と生き物のように震える様子。そこにある、張り詰めた「緊張」と。それが解き放たれる瞬間の。不思議なほどに「等身大」の温かな鼓動の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "lanx-",
+					"meaning": "plate / dish / scale (from balance)"
+				}
+			],
+			"points": [
+				"Balance（天秤）と同じ root。テンプとは、心の内側にある『善』と『悪』、あるいは『理想』と『現実』を。一秒ごとに天秤にかけて。常に正解を導き出そうとする、魂の監査機関なのです。"
+			]
+		}
+	},
+	{
+		"id": "gimbal",
+		"word": "Gimbal",
+		"meaning": "ジンバル、(揺るがぬ)水平、嵐の中の安寧、絶対的な軸、視点の独立",
+		"era": "Mid-16th Century",
+		"etymology": {
+			"components": [
+				"gemellus (twin)"
+			],
+			"original_statement": "From Old French gemel 'twin', from Latin gemellus. A set of pivoted rings that allow an object to remain horizontal regardless of its support's motion."
+		},
+		"concept": "The isolated equilibrium (「外部の世界（足元）」がどれほど「激しく揺れて」いても。重層的な「リング(ring)」がその「振動」をすべて「吸収(absorb-)」し。中心にある「真実（コンパス）」だけを「永遠の水平」に保ち続ける。周囲に「同調しない」ための、峻烈なる「自律構造」)",
+		"thinking": "「ジンバル」。あなたは。周りの「環境」や「他人の気分」に振り回されて、自分の「足元」がグラグラしていませんか。 gimbal。それは。どんなに足元の船が傾いても。自分自身の「視座（眼差し）」だけは、常に「水平（正常）」に保つための、知的な「二重構造」。世界を自分に合わせるのではなく。世界がどうあれ、自分は「自分を保つ」。その「独立心」こそが。あなたのジンバル（絶対軸）になるのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "外側の枠（フレーム）が「グニャグニャ」と動いているのに。中心の計器だけが、ピタリと止まって「自分を見つめ返している」不思議。あの。圧倒的な「自分への信頼」と、瑞々（みずみず）しい「孤独（アローン）」。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "yem-",
+					"meaning": "to pair / twin"
+				}
+			],
+			"points": [
+				"Gemini（双子）や Gamma（ガンマ）と同じ root。ジンバルとは。自分の中に『もう一人の自分』を飼うこと。揺れている自分を、動かない自分が見守る。その『ペア』の意識が、あなたを安定させるのです。"
+			]
+		}
+	},
+	{
+		"id": "cam",
+		"word": "Cam",
+		"meaning": "カム、(変幻自在な)動き、回転の翻訳、歪んだ円の知恵、意図された不規則",
+		"era": "Late 18th Century",
+		"etymology": {
+			"components": [
+				"comb (projecting part)"
+			],
+			"original_statement": "Possibly from Dutch kam 'comb', referring to its irregular shape."
+		},
+		"concept": "The geometric translation (「退屈な円運動（ルーチン）」を。「歪んだ形（知性）」に触れさせることで。複雑で「有機的」な「往復運動（アクション）」へと「変換(translate)」すること。単調さを「裏切り」。自らの「意図」を「物理的な動き」へと結晶化させる、峻烈なる「デザインされた偶然」)",
+		"thinking": "「カム（歪んだ円）」。毎日、ただ「同じことの繰り返し（円運動）」をしている、と感じていませんか。でも。そこに「自分だけの哲学（カム）」を少しだけ「噛ませ（エンゲージ）」てみてください。すると、その「単調な日常」は。見たこともない「劇的な変化（不規則な動き）」を生み出し始める。 cam。真っ直ぐでないこと（歪んでいること）は、欠点ではなく、新しい「価値」を産むための「突起（ポテンシャル）」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "滑らかな円の軌道から、突然「ガクン」と突き出されるような、意外な「手応え」。でも、それこそが「狙い通り」であると知った時の。あの。峻烈なる「知の快感」と、不思議な「納得」の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "gombh-",
+					"meaning": "tooth / comb (from kam)"
+				}
+			],
+			"points": [
+				"Comb（櫛／歯）と同じ root。カムとは。時間の流れに『自分の歯（意志）』を食い込ませること。それは。運命という名の巨大な歯車を、自分だけの『リズム』で回し始める儀式なのです。"
+			]
+		}
+	},
+	{
+		"id": "linkage",
+		"word": "Linkage",
+		"meaning": "リンケージ/連動、(伝達される)力、結びつきの連鎖、遠隔の意志、関係の力学",
+		"era": "Mid-19th Century",
+		"etymology": {
+			"components": [
+				"link (ring of a chain)"
+			],
+			"original_statement": "From link + -age. A system of connected bars used to transmit motion."
+		},
+		"concept": "The physical consequence (「A地点」での「微かな震え」が。「棒(bars)」や「関節(joints)」を介して。「遠く離れたB地点」へと「瞬時」に、かつ「正確」に伝わる「連鎖(chain)」。それは。世界が「たった一つの理（ことわり）」で繋がっているという、峻烈なる「関係の必然性」)",
+		"thinking": "「リンケージ（連動）」。あなたが、今日。誰かにかけた一言（アクション）。それは。目に見えない「リンケージ」を通って。数年後、あるいは地球の裏側の誰かの「人生」を、大きく「動かす」かもしれません。 linkage。私たちは、自分一人の力で生きているのではない。私たちの「意志」は、常に他者と（機械的に、あるいは精神的に）接続されている。その「重い責任感」を、指先から感じ取ってください。",
+		"part_of_speech": "noun",
+		"aftertaste": "一つのレバーを引いたとき。ガチャン、ガチャン、と「遠くの何か」が次々と目覚めていく、あの。怖ろしいほどの「影響力」の感触。自分という「点」が、世界という「面」と繋がっている。という、瑞々（みずみず）しい「実感」。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "hleng-",
+					"meaning": "to bend / wind / turn (from link)"
+				}
+			],
+			"points": [
+				"Link（リンク）や Lank（痩せた／ひょろ長い）と同じ root。リンケージとは。バラバラな『固体』を。『関係性（リンク）』という名の、細くて強靭な『目に見えない筋』で繋ぎ止める、宇宙の結束術なのです。"
+			]
+		}
+	},
+	{
+		"id": "manometer",
+		"word": "Manometer",
+		"meaning": "圧力計、(内なる)圧力、均衡の測定、張り詰めた精神、爆発の予感",
+		"era": "Early 18th Century",
+		"etymology": {
+			"components": [
+				"manos (rare / thin / slight)",
+				"metron (measure)"
+			],
+			"original_statement": "From Greek manos 'thin / rare / slight' (referring to air/gas pressure) + metron 'measure'."
+		},
+		"concept": "The gauge of tension (「不可視の気体（精神のエネルギー）」が。「壁（身体や言葉）」を押し拡（ひろ）げようとする「力」を。「液柱」や「ダイアル」によって「可視化」すること。自分が今、どれだけ「張り詰めている」か。峻烈なる「崩壊前夜の数値化」)",
+		"thinking": "「マノメーター（圧力計）」。あなたの心は、今。パンパンに膨らんで、爆発しそうではありませんか。 manometer。自分の「内圧」を、常にチェックしてください。適度な「圧力（プレッシャー）」は、あなたを遠くへ飛ばすための「エンジン」になりますが。限界を超えれば、あなたは自分自身を「破壊（バースト）」してしまう。今の自分は、どの数値にいるか。冷徹に、自分を「測定（マネジメント）」してください。",
+		"part_of_speech": "noun",
+		"aftertaste": "ガラス管の中の液体が、「プルプル」と震えながら、目盛りを這（は）い上がっていく。その「臨界（クリティカル）」へのカウントダウン。心臓の鼓動が「ドクッ」と跳ねるような、切迫した「生の充足感」。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "men-",
+					"meaning": "thin / small (from manos)"
+				}
+			],
+			"points": [
+				"Mini（ミニ）や Menu（メニュー）と同じ root。マノメーターとは。空気のように『薄い（men-）』精神の気配を。物質的な『重み』へと変換し、知性で計量（メジャー）するための、高度な精神工学なのです。"
+			]
+		}
+	},
+	{
+		"id": "tachometer",
+		"word": "Tachometer",
+		"meaning": "回転計、(回転の)速度、生の激しさ、限界の数値化、エンジンの叫び",
+		"era": "Early 19th Century",
+		"etymology": {
+			"components": [
+				"takhos (speed)",
+				"metron (measure)"
+			],
+			"original_statement": "From Greek takhos 'speed / swiftness' + metron 'measure'."
+		},
+		"concept": "The racing soul (「移動距離」ではなく。「その瞬間」にどれだけ「激しく回転（燃焼）」しているか、という「熱量」の記述。レッドゾーン（限界点）への挑戦。自らを「摩耗」させながら得られる、峻烈なる「速度の絶対評価」)",
+		"thinking": "「タコメーター」。あなたが「どれだけ前進したか（結果）」も大事ですが。あなたが「今、どれだけ全力で生きているか（回転数）」の方が、もっと重要かもしれません。 tachometer。針がレッドゾーンに触れるとき。あなたの「実存」は、最も激しく、最も瑞々しく輝いています。壊れることを恐れて、回転を落とし（アイドリングし）続けないで。たまには。自分という「エンジン」を、全開（フル・スロットル）で回し切ってみてください。",
+		"part_of_speech": "noun",
+		"aftertaste": "「グオォォーーン」という、腹の底に響くようなエンジンの重低音。そして、真っ赤な「針」が極限まで振り切れる。視界が高速で「流れて」いく。あの。暴力的なまでの「生の陶酔」。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "thegw-",
+					"meaning": "to run / swift (from takhos)"
+				}
+			],
+			"points": [
+				"Dashing（颯爽とした）とも響き合う。タコメーターとは。自分が世界を駆け抜ける『速さ（タコス）』を。自分自身の『鼓動』として数値化し、誇りを持って眺めるための、勝利のモニターなのです。"
+			]
+		}
+	},
+	{
+		"id": "solenoid",
+		"word": "Solenoid",
+		"meaning": "ソレノイド、(磁気の)吸引、電気の筋肉、不可視の力、瞬時の作動",
+		"era": "Early 19th Century (coined by Ampère)",
+		"etymology": {
+			"components": [
+				"solen (pipe / channel)",
+				"eidos (form / shape)"
+			],
+			"original_statement": "From Greek solen 'pipe / channel' (from its cylindrical shape) + eidos 'form / shape'."
+		},
+		"concept": "The channel of attraction (「コイル」という名の「円筒(pipe-)」に、「電気（意志）」を流した瞬間。虚空に「磁力（愛）」という名の「不可視の通路」が生じ。「鉄（現実）」を「一瞬で」引き寄せる。無機質な機械に「脈動」を与える、峻烈なる「雷の筋肉」)",
+		"thinking": "「ソレノイド」。あなたの「言葉」や「文章」。それは、この「ソレノイド・コイル」のようなものです。そこに「強い確信（電気）」を流せば。それは目に見えない「引力」を生み、遠くにいる誰かの「心（現実）」を、ガチャンと動かすことができる。 solenoid。形（パイプ）を整えるだけでは、力は生まれません。そこに、あなたの「命のエネルギー」を通して。初めて。世界はあなたの望むように、引き寄せられる（アクションする）のです。",
+		"part_of_speech": "noun",
+		"aftertaste": "スイッチを入れた瞬間の、「カチャッ」という小気味よい動作音。反映される、目には見えないけれどそこに「確実にある」という、磁気の「重層的」な圧力の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sel-",
+					"meaning": "to swell / jump / course (from solen?)"
+				}
+			],
+			"points": [
+				"Swell（膨らむ）や Salt（塩／湧き出るもの）と同じ root。ソレノイドとは。ただの『筒（パイプ）』を。エネルギーの『奔流（コース）』へと変えることで。静寂の中に、突然の『飛躍』を生み出す魔法の道具なのです。"
+			]
+		}
+	},
+	{
+		"id": "mechanism",
+		"word": "Mechanism",
+		"meaning": "メカニズム/機構、(構築された)理、生命の模倣、因果の連鎖、必然の美",
+		"era": "Mid-17th Century",
+		"etymology": {
+			"components": [
+				"mekhane (machine / engine / device)"
+			],
+			"original_statement": "From Latin mechanismus, from Greek mekhane 'machine / engine / device / means'."
+		},
+		"concept": "The logic of devices (「バラバラな部品」が。「互いに噛み合う」ことで。全体として「一つの目的」を持つ「有機体（マシーン）」へと昇華されること。そこには「偶然」の入り込む余地はなく。すべてが「物理的な必然（ロゴス）」で記述される、峻烈なる「理（ことわり）」の世界)",
+		"thinking": "「メカニズム」。あなたの周りで起きていること。それは一見「カオス」に見えるかもしれませんが。実は、この精緻（せいち）なメカニズムによって動いています。 mechanism。なぜそうなったのか。どの「歯車」がどこに「接触」したのか。その「因果（メカニズム）」を解き明かすこと。冷徹に「仕組み」を理解すること。それが。あなたが、この複雑な世界を「修理（リペア）」し、「拡張」していくための、唯一の力になるのです。 ",
+		"part_of_speech": "noun",
+		"aftertaste": "油（オイル）に濡れた「歯車」が、一分の狂いもなく回転し続ける様子。そこにある。完璧な「論理（ロゴス）」への信頼と。自分がその「一部」であるという、峻烈な「服従」の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "magh-",
+					"meaning": "to be able / have power"
+				}
+			],
+			"points": [
+				"Magic（魔法）や Might（力）と同じ root。メカニズムとは。本来なら不可能なことを、知恵の力（マナ）を使って『可能にする（may）』ための、物理的な魔法使いの杖なのです。"
+			]
+		}
 	}
 ];
