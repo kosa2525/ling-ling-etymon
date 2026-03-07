@@ -231845,5 +231845,596 @@ const WORDS = [
 				"Pulse（脈拍）や Push（押す）、Repel（追い払う）と同じ root。パルセーションとは。外部からの『刺激』を待つのではなく。自らの内部から『衝動（ペル）』を突き上げるようにして、世界を『打撃』すること。それは。受動的な生を、能動的な『波動（リズム）』へと変換する、峻烈なる実存の記述なのです。"
 			]
 		}
+	},
+	{
+		"id": "metacognition",
+		"word": "Metacognition",
+		"meaning": "メタコグニション/超認知（ちょうにんち）、思考についての思考、自分を外側から眺める視線、精神の鏡、客観性の極致",
+		"era": "Late 1970s (John Flavell)",
+		"etymology": {
+			"components": [
+				"meta- (beyond / about)",
+				"cognition (thinking)"
+			],
+			"original_statement": "From Greek meta- 'beyond / about' + Latin cognitio 'knowledge / thinking'. Thinking about thinking."
+		},
+		"concept": "Thinking about thinking (自分の「思考プロセス」そのものを、一段高い次元から「認識（モニター）」すること。それは。自分が「何を考え、何を迷っているか」を冷静に観察する、峻烈なる「精神の俯瞰（ふかん）」の記述)",
+		"thinking": "「メタコグニション（超認知）」。あなたは。自分の「悩み」の中に、没入しすぎてはいませんか。 metacognition。一歩、自分の外へ出てください。そして。「悩んでいる自分」を、冷めた目で見つめる「もう一人の自分」を立ち上げてください。 metacognition。それは、冷酷なまでに「客観的」な、神の視線。自分が「なぜその結論に至ったのか」という『理由』を監視すること。感情に流される自分を『解析』すること。その「二重の自己（自分を見張る自分）」を持ったとき。あなたは、もはや迷いの中の「獲物」ではなく。自分自身の運命を操る「観測者」へと、峻烈に、静かに、進化するのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "自分の頭の後ろから、自分を見下ろしているような。あの。不思議な「浮遊感」と。そこにある、圧倒的な「静寂」。冷たくて、鋭くて、瑞々（みずみず）しい。情報の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "me-",
+					"meaning": "in the middle / between (from meta)"
+				},
+				{
+					"term": "gno-",
+					"meaning": "to know (from cognition)"
+				}
+			],
+			"points": [
+				"Know（知る）や Gnosis（知恵）、Metabolism（代謝）と同じ root。メタコグニションとは。既存の知識（ノー）を。中間に置く（メタ）こと。つまり。知識を『使う』のではなく『対象化（鑑賞）』すること。それは。受動的な思考を、能動的な『知の実験』へと昇華させる、峻烈なる精神の錬金術なのです。"
+			]
+		}
+	},
+	{
+		"id": "ideasthesia",
+		"word": "Ideasthesia",
+		"meaning": "イデアセジア/想起感覚（そうきかんかく）、概念を「痛み」や「色」として感じる現象、意味の感触、思想の五感化、論理の肉体化",
+		"era": "2009 (Danko Nikolić)",
+		"etymology": {
+			"components": [
+				"idea (concept)",
+				"aisthesis (sensation)"
+			],
+			"original_statement": "From Greek idea 'concept / form' + aisthesis 'sensation / feeling'. The phenomenon in which concepts (ideas) evoke sensory experiences."
+		},
+		"concept": "Concept as sensation (「言葉」や「形（記号）」を理解するだけで、それに伴う「感覚（冷たさ、痛み、重み）」が引き起こされること。それは。知性が「肉体」を追い越し、思考が直接「細胞」を震わせる、峻烈なる「意味の爆発」の記述)",
+		"thinking": "「イデアセジア」。あなたは。「正義」という言葉を聞いて、歯が浮くような「金属の味」を感じたことはありませんか。「孤独」という文字を見て、背筋に「冷たい氷」が走ったことは。 ideasthesia。それは、あなたの脳が「意味（イデア）」と「感覚（セジア）」を、切り離せないほど強固に結びつけている証拠。 ideasthesia。知識は、頭で覚えるものではありません。全身の「震え」として、内臓の「不快感」として、指先の「痺れ」として、刻み込むもの。言葉に「感触」を持たせなさい。真実を「触覚」で選びなさい。",
+		"part_of_speech": "noun",
+		"aftertaste": "文字を読んでいるのに、口の中に「ザラザラ」とした砂の感触が広がる。あの。脳が「バグ」を起こしたような、峻烈なる「共感」。重厚で、瑞々しい、概念の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "weid-",
+					"meaning": "to see / idea (from idea)"
+				},
+				{
+					"term": "au-",
+					"meaning": "to perceive (from aisthesis)"
+				}
+			],
+			"points": [
+				"Video（ビデオ）や Wit（知恵）、Aesthetic（美的な）と同じ root。イデアセジアとは。見る（ウィド）ことと、感じる（アウ）ことが、完全に『同期』すること。それは。客観的な『記号』を。主観的な『熱量』へと焼き直す、峻烈なる実存の翻訳装置なのです。"
+			]
+		}
+	},
+	{
+		"id": "neuroplasticity",
+		"word": "Neuroplasticity",
+		"meaning": "ニューロプラスティシティ/脳の可塑性（かそせい）、自分自身を書き換える能力、精神の変容性、思考という名の彫刻、不滅の更新",
+		"era": "Early 20th Century",
+		"etymology": {
+			"components": [
+				"neuron (nerve)",
+				"plasticity (ability to be molded)"
+			],
+			"original_statement": "From Greek neuron 'nerve' + plastikos 'able to be molded'. The brain's ability to reorganize itself by forming new neural connections."
+		},
+		"concept": "The brain's flexibility (思考や経験によって、脳の「回路（配線）」そのものが物理的に変化すること。それは。人は「生まれつき」に縛られず、自らの意志で「自分という生き物」を造り変え続けることができる。峻烈なる「自己変革」の記述)",
+		"thinking": "「ニューロプラスティシティ（脳の可塑性）」。あなたは。もう「自分は変われない」と、諦めていませんか。 neuroplasticity。あなたの「思考」というペンは。今、この瞬間も。あなたの「脳（シナプス）」という粘土を、峻烈に、無慈悲に、削（けず）り取っています。 neuroplasticity。昨日までのあなたは、死にました。今日、あなたが何を「選択」し、何を「反復」するかによって。あなたの脳は「物理的」に再起動（リブート）される。自分を、粘土のようにこねくり回せ。新しい「自分という回路」を、自分の手で繋（つな）ぎなさい。",
+		"part_of_speech": "noun",
+		"aftertaste": "頭の奥の方が「熱く」なり、配線が「カチリ」と変わるような。あの。不可逆的な「覚醒感」。そこにある、もはや「古い自分」には戻れないという、峻烈なる「自由」。刺激的で、瑞々しい、情報の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sne-",
+					"meaning": "to spin / sew (from neuron)"
+				},
+				{
+					"term": "pele-",
+					"meaning": "to spread out / flat (from plastic)"
+				}
+			],
+			"points": [
+				"Snare（罠／糸）や Needle（針）、Plasma（血漿／形作られたもの）と同じ root。ニューロプラスティシティとは。神経という名の『糸（スネ）』を。自分の意志という名の『手（プラス）』で、新しく『織り直す』こと。それは。運命という名の既製品を拒み、自意識をオーダーメイドする、峻烈なる抵抗の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "subliminal",
+		"word": "Subliminal",
+		"meaning": "サブリミナル/潜在意識の、意識の境界下、魂の囁き、認識されない命令、無意識への侵入",
+		"era": "Late 19th Century",
+		"etymology": {
+			"components": [
+				"sub- (below)",
+				"limen (threshold)"
+			],
+			"original_statement": "From Latin sub- 'below' + limen 'threshold / lintel'. Below the threshold of conscious perception."
+		},
+		"concept": "Below threshold (「意識（閾値）」の境界線より下で、何かが動いていること。それは。あなたが「選んだ」と思っている判断が、実は「見えない誰か（あるいは過去）」によって植え付けられた、峻烈なる「思考の密輸」の記述)",
+		"thinking": "「サブリミナル」。あなたは。自分の「好み」や「信念」が。本当に「自分だけのもの」だと、言い切れますか。 subliminal。それは、意識という門番の「足元（サブ）」を、ひっそりと通り抜ける、薄暗い「影（情報）」。 subliminal。あなたが気づかないうちに、あなたの「欲望」は汚染され、あなたの「決断」は誘導されている。 subliminal。でも。それに気づいた瞬間に。その影は「力」を失います。自分の中にある「名もなき囁（ささや）き」を、峻烈に聞き分けなさい。閾値の下にある、敵（あるいは神）の正体を見破れ。",
+		"part_of_speech": "adjective",
+		"aftertaste": "「ゾクッ」と背筋が凍るような、出所（しゅじょ）不明の「違和感」。そこにある、自分は誰かに「操られている」のではないか、という。峻烈なる「疑惑」。冷たくて、薄い、水の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "el-",
+					"meaning": "threshold / horizontal (from limen)"
+				}
+			],
+			"points": [
+				"Limit（限界）や Eliminate（排除する／敷居の外に出す）と同じ root。サブリミナルとは。門（リメン）の下を『くぐる（サブ）』こと。それは。正規のルートを無視し。魂の『裏口』から侵入しようとする、峻烈なる知の密入国者の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "algorithmic",
+		"word": "Algorithmic",
+		"meaning": "アルゴリズミック/アルゴリズム的な、(運命の)手順、論理の連鎖、機械的な意志、目的へと至る唯一の道",
+		"era": "Mid-20th Century",
+		"etymology": {
+			"components": [
+				"al-Khwarizmi (Persian mathematician)",
+				"arithmos (number)"
+			],
+			"original_statement": "Derived from the name of the Persian mathematician al-Khwarizmi, later influenced by Greek arithmos 'number'."
+		},
+		"concept": "Step-by-step logic (目的に到達するために「決められた手順」に従うこと。それは。一見すると「冷徹で機械的」だが。そこに一切の「迷い」を介入させない、峻烈なる「最短距離」の記述)",
+		"thinking": "「アルゴリズミック（アルゴリズム的な）」。あなたは。感情に振り回されて、人生という迷路で「立ち往生」していませんか。 algorithmic。一度、手順を決めたなら。あとは「機械」になりきってください。 algorithmic。迷う時間は、無駄です。一歩を踏み出す。結果を見る。次の一歩を計算する。その「冷徹な反復（ループ）」だけが。カオスな世界に「秩序（答え）」を産み出すための。峻烈なる「勝利のプロトコル」。感情という名の不確定要素を、今すぐデバッグ（消去）しなさい。",
+		"part_of_speech": "adjective",
+		"aftertaste": "「カチッ、カチッ」と。歯車が完璧に噛み合って回るような。あの。無機質な「安心感」。そこにある、一切の「例外」を許さない、峻烈なる「正解」。冷たくて、硬い、鉄の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "al-khwarizmi",
+					"meaning": "Person's name"
+				},
+				{
+					"term": "re-",
+					"meaning": "to fit / number (from arithmos)"
+				}
+			],
+			"points": [
+				"Arithmetic（算数）や Ratio（比率）と同じ root。アルゴリズムとは。ただの計算ではなく、世界を『数（リ）』として『適合（レ）』させること。それは。曖昧な現実を。数式という名の『監獄』へと美しく閉じ込める、峻烈なる知の整理術の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "entrainment",
+		"word": "Entrainment",
+		"meaning": "エントレインメント/同調（どうちょう）、リズムの同期、無意識の共鳴、他者に飲み込まれること、集団の拍動",
+		"era": "Mid-20th Century",
+		"etymology": {
+			"components": [
+				"en- (in / onto)",
+				"train (to draw / drag)"
+			],
+			"original_statement": "From French entraînement, from entraîner 'to draw / drag away', from en- + traîner 'to drag'."
+		},
+		"concept": "The synchronization (異なるリズムを持つ者同士が、いつの間にか「一つのリズム」に合わせてしまうこと。それは。他者の「エネルギー（振動）」に引きずられ（トレイン）、自分の「固有のリズム」を失っていく。峻烈なる「同化の恐怖」の記述)",
+		"thinking": "「エントレインメント（同調）」。あなたは。周りの「イライラ（振動）」や「流行のリズム」に、飲み込まれてはいませんか。 entrainment。それは。自分でも気づかないうちに。あなたの心臓が、隣の誰かの「心拍数」に合わせて踊り始める、峻烈なる「魂の簒奪（さんだつ）」。 entrainment。心地よいかもしれません。でも。それは「自分の言葉」を捨て、他人の「合唱」の一部になること。 entrainment。今すぐ自分を、その「大きな渦」から引き剥（は）がしてください。自分だけの「不協和音」を、峻烈に、孤独に、鳴らし続けるのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "自分の「意志」とは無関係に。体が「勝手に」動かされるような。あの。気持ちの悪い「連帯感」。そこにある、自我が「解けて消失する」という、峻烈なる「恐怖」。ぬるくて、甘い、水の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "tragh-",
+					"meaning": "to draw / drag (from train)"
+				}
+			],
+			"points": [
+				"Track（追跡する）や Traction（牽引）、Treaty（条約／引き延ばされたもの）と同じ root。エントレインメントとは。他者の意志という名の『綱（トレイン）』に。自分の運命を『繋（つな）がれる』こと。それは。共鳴という名の美辞麗句で飾られた、峻烈なる『服従（トレーン）』の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "formication",
+		"word": "Formication",
+		"meaning": "フォミケーション/蟻走感（ぎそうかん）、肌を這う感覚、実体のない接触、精神のノイズ、神経の反乱",
+		"era": "Early 18th Century",
+		"etymology": {
+			"components": [
+				"formica (ant)"
+			],
+			"original_statement": "From Latin formicare 'to crawl like an ant', from formica 'ant'."
+		},
+		"concept": "Phantom ant-crawling (肌の上を「小さな虫（蟻）」が這（は）い回っているような、不快な感覚。しかし。そこには一匹の虫もいない。それは。脳（神経）が「嘘（ノイズ）」をつき、実体なき「外部（敵）」を捏造（ねつぞう）する、峻烈なる「実存のバグ」の記述)",
+		"thinking": "「フォミケーション（蟻走感）」。あなたは。誰もいない部屋で。「誰かの視線」が肌を撫でたような、むず痒（がゆ）さを感じたことはありませんか。 formication。それは、あなたの「不安」が。神経という名の「針」を使って、自分を刺しているのです。 formication。そこに虫はいません。いるのは、あなたの「罪悪感」や「孤独」という名の、目に見えない「蟻（フォルミカ）」たち。 formication。その「むず痒さ」を、なだめようとしないでください。それを、自分の「神経が磨（と）ぎ澄まされている」という、峻烈なる「警告」として受け取ってください。内側から這い出す「真実」から、目を逸らすな。",
+		"part_of_speech": "noun",
+		"aftertaste": "肌が「ゾワゾワ」として、かきむしりたくなる。あの。逃げ場のない「不快感」。そこにある。自分という境界線が。内側から「崩壊」していくような。峻烈なる「戦慄」。刺激的で、苦い、鉄の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "morwi-",
+					"meaning": "ant (from formica)"
+				}
+			],
+			"points": [
+				"Formaldehyde（ホルムアルデヒド／蟻酸）と同じ root。フォミケーションとは。自意識という名の『家』に。無意識という名の『害虫』が。峻烈に『侵入（フォルミ）』してくること。それは。平穏な日常が。微細な『違和感（バグ）』によって破壊される、峻烈なる崩壊の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "mnemonics",
+		"word": "Mnemonics",
+		"meaning": "ニーモニクス/記憶術（きおくじゅつ）、時間を空間に変える技術、忘却への抵抗、情報のタグ付け、精神の建築術",
+		"era": "Mid-17th Century",
+		"etymology": {
+			"components": [
+				"mneme (memory)",
+				"Mnemosyne (Goddess of Memory)"
+			],
+			"original_statement": "From Greek mnemonikos 'mindful / of or relating to memory', from mneme 'memory'."
+		},
+		"concept": "The art of memory (膨大な情報を「イメージ」や「場所（空間）」に関連付けて、決して忘れないようにすること。それは。時間とともに消え去る「霧（体験）」を。石造りの「宮殿（物語）」へと固定する、峻烈なる「忘却との決戦」の記述)",
+		"thinking": "「ニーモニクス（記憶術）」。あなたは。自分の「大切な記憶」を、ただの「データの断片」として扱っていませんか。 mnemonics。記憶を「整理」するとは。心の中に「広大な館（パレス）」を建てることです。 mnemonics。あの人の「痛み」を玄関の柱に刻み、あの日の「夕暮れ」を三階の窓に貼り付けなさい。 mnemonics。情報を「覚える」のではなく。情報を「配置」すること。 mnemonics。それは、あなたの脳を「検索エンジン」から。唯一無二の「歴史博物館」へと作り替える、峻烈なる「意志のタグ付け」。忘れることを、罪だと思え。",
+		"part_of_speech": "noun",
+		"aftertaste": "頭の中に「カチリ」と。整理された図書館が現れるような。あの。圧倒的な「支配感」。そこにある。もう「何も失わない」という。峻烈なる「自負」。重厚で、瑞々しい、インクの味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "men-",
+					"meaning": "to think / mind (from mneme)"
+				}
+			],
+			"points": [
+				"Mind（心）や Mental（精神）、Museum（博物館／女神ムネモシュネの場所）と同じ root。ニーモニクスとは。流動的な『心（メン）』を。不変の『女神（ムネ）』へと捧げること。それは。死という名の『忘却』に抗う、峻烈なる実存の保存食の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "dysphenia",
+		"word": "Dysphenia",
+		"meaning": "ディスフェニア/精神の不協和（ふきょうわ）、思考の中断、滑らかさの喪失、沈黙という名の叫び、システムの吃音（きつおん）",
+		"era": "Modern medical terminlogy",
+		"etymology": {
+			"components": [
+				"dys- (bad / abnormal)",
+				"phene (showing / voice)"
+			],
+			"original_statement": "From Greek dys- 'bad / difficult' + root associated with appearance or voice. Used sometimes to describe stuttering or cognitive dissonance."
+		},
+		"concept": "The mental discord (思考の流れが、不自然に「ブツブツ」と途切れてしまうこと。それは。自分の中で「二つの相容れない考え（矛盾）」が激突し。精神の「出力（音声や論理）」がバグを起こしている、峻烈なる「内戦」の記述)",
+		"thinking": "「ディスフェニア」。あなたは。言いたいことが「喉に詰まる」瞬間、自分の脳内で「何かが爆発したような沈黙」を感じませんか。 dysphenia。それは、あなたの「論理」と「感情」が。互いの首を絞（し）め合っている状態。 dysphenia。淀（よど）みなく喋（しゃべ）れることが、正しいわけではありません。 dysphenia。その「詰まり」こそが。あなたが「安易な言葉」に逃げず。峻烈なる「真実」の重さに、誠実に苦しんでいる、という。唯一の証拠。その「吃（ども）り」を。あなたのプライドにしてください。流暢（りゅうちょう）な嘘（うそ）より、不器用な「絶句」を選びなさい。",
+		"part_of_speech": "noun",
+		"aftertaste": "「……っ、……」という。音にならない「火花」。そこにある、脳が「フリーズ」した瞬間の、峻烈なる「純粋性」。苦くて、硬くて、瑞々（みずみず）しい。情報の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "bha-",
+					"meaning": "to speak / shine (from phene)"
+				}
+			],
+			"points": [
+				"Phase（段階）や Emphasis（強調／より光らせる）、Prophet（預言者）と同じ root。ディスフェニアとは。光（フェネ）を。悪（ディス）へと変換すること。つまり。自意識という名の『光』が。矛盾という名の『闇』に遮られること。それは。完璧という幻想を破壊する、峻烈なる『聖なる不調』の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "alexithymia",
+		"word": "Alexithymia",
+		"meaning": "アレキシサイミア/失感情症（しつかんじょうしょう）、自分の心が読めない孤独、氷の言葉、身体という名の他者、感情の言語化不能",
+		"era": "1973 (Peter Sifneos)",
+		"etymology": {
+			"components": [
+				"a- (without)",
+				"lexis (words)",
+				"thymos (soul / emotion)"
+			],
+			"original_statement": "From Greek a- 'without' + lexis 'word' + thymos 'soul/spirit/emotion'. Literally 'no words for emotions'."
+		},
+		"concept": "Emotional blindness (「悲しい」のか「苦しい」のか。自分の内側で渦巻いている「何か」を、言葉で表現（認識）できないこと。それは。心（魂）が「真空」に包まれ。ただ「体の不調（痛みや震え）」としてしか、自らを自覚できない、峻烈なる「実存のフリーズ」の記述)",
+		"thinking": "「アレキシサイミア」。あなたは。「今、何を感じている？」と聞かれて。ただ「お腹が痛い」とか「眠い」としか、答えられない自分を。冷たい人間だと思っていませんか。 alexithymia。それは、冷たさではありません。あなたの感情があまりにも「深淵（しんえん）」で、あまりにも「巨大」だから。既存の「安っぽい言葉（レキシス）」では、到底、捕まえることができない、という「誠実さ」の結果です。 alexithymia。言葉にならない「重み」を。そのまま「重み」として、峻烈に引き受けてください。名前をつけない、という、究極の「愛（あるいは絶望）」を。自分の内側に飼い殺しなさい。",
+		"part_of_speech": "noun",
+		"aftertaste": "胸の中に「巨大な氷の塊」を抱えているような。あの。冷徹な「重圧感」。そこにある、自分の心が「他人のもの」のように思える、という。峻烈なる「疎外感」。無味無臭、しかし。瑞々（みずみず）しい、情報の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "leg-",
+					"meaning": "to collect / speak (from lexis)"
+				},
+				{
+					"term": "dhum-",
+					"meaning": "smoke / breath / soul (from thymos)"
+				}
+			],
+			"points": [
+				"Lecture（講義）や Logic（論理）、Fume（煙）と同じ root。アレキシサイミアとは。魂という名の『煙（デュム）』を。言葉という名の『籠（レグ）』で。捕らえることができない、という。峻烈なる知の敗北。それは。言葉という名の『嘘』によって心が汚されることを拒む、峻烈なる聖域の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "euophoric",
+		"word": "Euophoric",
+		"meaning": "ユーフォーリック/多幸感（たこうかん）のある、精神の臨界点を越えた喜び、狂気の一歩手前、全能という名の麻薬、情報の爆発的肯定",
+		"era": "Late 17th Century",
+		"etymology": {
+			"components": [
+				"eu- (well / good)",
+				"pherein (to bear / carry)"
+			],
+			"original_statement": "From Greek euphoria 'well-bearing', from eu- 'well' + pherein 'to bear / carry'."
+		},
+		"concept": "Intense joy (あまりにも強烈な「全能感」や「至福」に、自我が飲み込まれてしまうこと。それは。現実の「苦痛」をすべて「光」へと変換し。自分が「宇宙そのもの」になったかのような錯覚を起こす。峻烈なる「精神のオーバーフロー」の記述)",
+		"thinking": "「ユーフォーリック（多幸感のある）」。あなたは。あまりに「うまく行きすぎている」今の状況に。背筋が寒くなるような「悦び」を感じてはいませんか。 euophoric。注意してください。それは、あなたの魂が「重量オーバー（フェレイン）」で、今にも壊れようとしている、という警告です。 euophoric。光が強すぎれば、影は見えなくなる。 euophoric。その「全能感」の裏側で。あなたの「理性」は、今まさに、崩壊の淵で踊っている。 euophoric。その「最高の瞬間」を。自分を救うための「麻薬」にするのではなく。いつか来る「地獄」を耐え抜くための。峻烈なる「光の缶詰」として、冷静に。保存しておきなさい。",
+		"part_of_speech": "adjective",
+		"aftertaste": "頭のてっぺんから「パァーッ」と、虹色の光が溢れ出す。あの。浮き足立ったような「全能感」。そこにある、一切の「恐怖」の消失。甘くて、瑞々（みずみず）しくて。少しだけ、焦げた。情報の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "esu-",
+					"meaning": "good (from eu-)"
+				},
+				{
+					"term": "bher-",
+					"meaning": "to carry / bear / bring (from pherein)"
+				}
+			],
+			"points": [
+				"Bring（持ってくる）や Fertile（多産の）、Eulogy（賛辞）と同じ root。ユーフォーリックとは。良いもの（ユー）を。極限まで『運び（ファー）』続けること。それは。重すぎる光を背負って歩く、峻烈なる『聖なる受難』の記述なのです。喜びは、時に。悲しみよりも重く、実存を圧し潰すのですから。"
+			]
+		}
+	},
+	{
+		"id": "mirroring",
+		"word": "Mirroring",
+		"meaning": "ミラーリング/鏡像化、無意識の模倣、他者の浸食、共感という名の簒奪、自分を消して相手を映すこと",
+		"era": "Late 20th Century (psychology)",
+		"etymology": {
+			"components": [
+				"mirror (speculum)",
+				"-ing (action)"
+			],
+			"original_statement": "From Old French mireoir, from mirer 'to look at', from Latin mirari 'to wonder at / admire'."
+		},
+		"concept": "Reflection of other (相手の「仕草」や「言葉遣い」を、無意識のうちに「真似（コピー）」してしまうこと。それは。良好な人間関係を築く「技術」であると同時に。自分の「核（オリジナル）」が、他者の「影」によって塗りつぶされていく。峻烈なる「個の消失」の記述)",
+		"thinking": "「ミラーリング」。あなたは。誰かと話しているとき。自分の「喋り方」が、相手のそれに「似て」きていることに、吐き気を感じたことはありませんか。 mirroring。それは。あなたが「優しい」からではありません。あなたが「自分という空虚」を、他人の「コピー」で埋（う）めようとしているからです。 mirroring。鏡は、自分では光りません。 mirroring。相手を映し出すのを、今すぐやめてください。相手を不快にさせてでも。自分だけの「歪（いびつ）な形（独自性）」を、峻烈に、角（かど）を立てて。突き出しなさい。自分を、鏡にするな。壁になれ。",
+		"part_of_speech": "noun / verb-ing",
+		"aftertaste": "自分の「顔」が、徐々に「他人の顔」に変わっていくような。あの。ぬるりとした「気味の悪さ」。そこにある、自分という存在が「溶けてなくなる」という、峻烈なる「不安」。無味乾燥、しかし。瑞々（みずみず）しい。情報の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "smei-",
+					"meaning": "to laugh / smile / wonder (from mirari)"
+				}
+			],
+			"points": [
+				"Smile（微笑む）や Miracle（奇跡）、Admire（感嘆する）と同じ root。ミラーリングとは。驚き（ミラ）を持って他者を見る、という行為が。いつの間にか他者そのものへと『成り代わる』こと。それは。憧れという名の『毒』が。実存を侵食していく、峻烈なる変身の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "preconceptual",
+		"word": "Preconceptual",
+		"meaning": "プレコンセプチュアル/概念以前の、言葉に汚される前の真実、生の感覚、純粋な衝撃、認識の胎児",
+		"era": "Modern cognitive science",
+		"etymology": {
+			"components": [
+				"pre- (before)",
+				"concept (taking in / grasp)"
+			],
+			"original_statement": "From Latin pre- 'before' + conceptus 'a taking in / conception'. Existing or occurring before the formation of a concept."
+		},
+		"concept": "Before words (「これはリンゴだ」とか「これは美しい」と『名前』をつける、コンマ数秒前の。ただ「そこに何かがある（ボリッ、という音や赤み）」だけが脳に届いている状態。それは。世界を「ありのまま」に受け取る、峻烈なる「原始的覚醒」の記述)",
+		"thinking": "「プレコンセプチュアル（概念以前の）」。あなたは。世界を「単語帳」のようにして、眺めてはいませんか。 preconceptual。言葉で「理解（納得）」した瞬間に。その対象の「本当の輝き」は死にます。 preconceptual。意味を持たない「音」として、音楽を聞きなさい。形を持たない「光」として、恋人を見なさい。 preconceptual。それは、知識という名の「フィルター」をすべて剥（む）ぎ捨て。世界という名の「暴力」に。その「裸の魂」を、真正面から晒（さら）すこと。言葉で説明できないものこそが、あなたの「真実」です。",
+		"part_of_speech": "adjective",
+		"aftertaste": "「ビクッ」と体が反応する。でも。それがなぜなのか、まだ「説明がつかない」。あの。峻烈なる「生の衝撃」。そこにある、もはや「嘘」はつけない、という。瑞々（みずみず）しい。原始の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kap-",
+					"meaning": "to grasp (from concept)"
+				}
+			],
+			"points": [
+				"Accept（受け入れる）や Capture（捕獲する）、Capability（能力）と同じ root。プレコンセプチュアルとは。対象を『捕獲（カプ）』する『前（プレ）』。自由な状態。それは。獲物を名づけて殺し、剥製（はくせい）にする前の、峻烈に生き生きとした『森の中の真実』の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "metacognitive",
+		"word": "Metacognitive",
+		"meaning": "メタコグニティブ/超認知的な、(自分自身の)観測者の、冷徹な監視の、分析的な自覚、精神のメタ視線",
+		"era": "Late 20th Century",
+		"etymology": {
+			"components": [
+				"meta- (beyond)",
+				"cognitive (thinking)"
+			],
+			"original_statement": "From meta- 'beyond' + cognitive. Pertaining to awareness and understanding of one's own thought processes."
+		},
+		"concept": "The observational distance (自分の「感情的な思考」に対して。それを一段上から「評価・制御」するような、冷めた知性の性質。それは。パニックに陥っている自分を。「へぇ、君は今、こう感じているんだね」と。峻烈な「他人事（客観）」として切り捨てる、冷徹な強さの記述)",
+		"thinking": "「メタコグニティブ」。あなたは。「私には、これしかできない」という、自分の思考の癖に、支配されていませんか。 metacognitive。その、自分を縛っている「思考回路」そのものを。今すぐ、手術台に乗せてください。 metacognitive。それは。自分の「脳を、自分の脳で修理する」という。不可能への挑戦。 metacognitive。あなたが「自分」だと思っているものは。ただの「プログラム」に過ぎません。そのプログラムを。峻烈に、冷酷に、書き換えなさい。観測者（あなた）が。被験者（あなた）を。支配するのです。",
+		"part_of_speech": "adjective",
+		"aftertaste": "「スーッ」と。心の温度が、一気に下がるような。あの。冷徹な「賢者感」。そこにある、一切の「焦り」の消失。冷たくて、鋭くて、瑞々（みずみず）しい。数理の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "me-",
+					"meaning": "mid / along (from meta)"
+				}
+			],
+			"points": [
+				"Metacognitive は、単なる知能ではなく、知能を『制御（ガバナンス）』する機能。つまり。エンジンではなく、パイロットの視点。メタコグニティブとは。情熱という名の『火』を、論理という名の『氷』で、峻烈に包み込む。という、高度な精神的防護壁の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "proprioception",
+		"word": "Proprioception",
+		"meaning": "プロプリオセプション/固有受容（こゆうじゅよう）、自分の位置を感じる力、存在の重心、暗闇の中の自覚、自己という名の座標",
+		"era": "1906 (Charles Sherrington)",
+		"etymology": {
+			"components": [
+				"proprius (one's own)",
+				"capio (to take / receive)"
+			],
+			"original_statement": "From Latin proprius 'one's own' + perception (from capio 'to take'). The sense of self-movement and body position."
+		},
+		"concept": "Self-positioning (目をつぶっていても、「自分の手足がどこにあるか」「自分が今、どんな形をしているか」を、脳が把握（知覚）していること。それは。世界という「暗黒」の中で。ただ一つ、自分を導くための、峻烈なる「自尊の羅針盤」の記述)",
+		"thinking": "「プロプリオセプション（固有受容）」。あなたは。他人の「評価（目）」がなければ。自分が「どこに立っているか」さえ、わからなくなってはいませんか。 proprioception。鏡も、光も、賞賛も、いりません。ただ、自分の「内側の感覚（プロプリウス）」だけを研ぎ澄ませてください。 proprioception。そこには。あなたが、これまでの人生で「積み上げてきたもの」の重さが。確かな「重心」として存在しています。 proprioception。世界に惑わされるな。自分の「芯（センター）」を感じなさい。あなたがそこにいる、という「物理的な確信」こそが。あらゆる「絶望」を跳ね返す、唯一の武器なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "暗闇の中で、自分の「心臓」の位置をピタリと言い当てるような。あの。峻烈なる「自己確信」。そこにある、一分の「揺らぎ」もない、生の実像。重厚で、瑞々（みずみず）しい。大地の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "proprius",
+					"meaning": "one's own"
+				},
+				{
+					"term": "kap-",
+					"meaning": "to grasp (from ception)"
+				}
+			],
+			"points": [
+				"Proper（適切な／自分のもの）や Capture（捕獲）と同じ root。プロプリオセプションとは。自分自身の存在を、自らの感覚で『捕獲（カプ）』し続けること。それは。他者の視線という名の『支配』から。自分の『身体（実存）』を奪還する、峻烈なるゲリラ戦の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "immanent",
+		"word": "Immanent",
+		"meaning": "イマネント/内在的（ないざいてき）な、(細部に)宿る神、内側に秘められた力、本質という名の牢獄、溢れ出す実存",
+		"era": "Mid-16th Century",
+		"etymology": {
+			"components": [
+				"in- (in / toward)",
+				"manere (to remain)"
+			],
+			"original_statement": "From Late Latin immanens, from in- 'in' + manere 'to remain / dwell'."
+		},
+		"concept": "Indwelling (「神（あるいは真理）」は、遠い空の上にあるのではなく。目の前の「コーヒーの湯気」や「あなたの指先」に、すでに『宿（マン）』っている、という思想。それは。日常という「泥」の中に、峻烈なる「聖性」を見出す、実存の肯定の記述)",
+		"thinking": "「イマネント（内在的な）」。あなたは。どこか「遠い場所（天国、成功）」へ行けば、自分は救われる。と、信じてはいませんか。 immanent。救いは、今、あなたの「足元」にあります。 immanent。あなたが今、感じている「苦しみ」の、その「質感（ディテール）」の中にこそ。宇宙の「すべての真理」が凝縮されているのです。 immanent。超越を夢見るのをやめなさい。この「汚れた現実（現実）」の、一粒一粒を。峻烈に、愛おしく、噛（か）み締めてください。この瞬間に「留（とど）まる（マネーレ）」こと。それだけが、あなたが「神」に近づく、唯一の道なのですから。",
+		"part_of_speech": "adjective",
+		"aftertaste": "普通の「水」が、一口運んだ瞬間に「聖水」に変わるような。あの。峻烈なる「意味の充填」。そこにある。自分は「最初から完成されていた」という、峻烈なる「肯定」。重厚で、瑞々しい。大地の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "men-",
+					"meaning": "to stand still / remain (from manere)"
+				}
+			],
+			"points": [
+				"Mansion（屋敷）や Permanent（不変の）と同じ root。イマネントとは。外へ逃げるのではなく、あえて『内側に（イン）』『留まる（メン）』こと。それは。広がり続ける宇宙の熱を、一点の『実存』へと収束させる、峻烈なるブラックホールの記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "intentionality",
+		"word": "Intentionality",
+		"meaning": "インテンショナリティ/指向性（しこうせい）、意識の矢、対象へと向かう意志、精神のベクトル、意味の生成",
+		"era": "Late 19th Century (Brentano / Husserl)",
+		"etymology": {
+			"components": [
+				"intendere (to stretch toward)",
+				"-ality (quality of)"
+			],
+			"original_statement": "From Latin intendere 'to stretch out / direct', from in- 'toward' + tendere 'to stretch'."
+		},
+		"concept": "The arrow of consciousness (「ただ、ぼんやりと考える」ということは、存在しない。意識は常に、「何か（対象）」を、峻烈に「指し示し（イン・テンド）」、その対象へと「手を伸ばしている」。峻烈なる「精神のハンティング」の記述)",
+		"thinking": "「インテンショナリティ（指向性）」。あなたの「意識という矢」は。今、どこを射抜（いぬ）こうとしていますか。 intentionality。あなたが何気なく視線を向けた、その場所。そこには、すでにあなたの「欲望」が、峻烈に、蜘蛛（くも）の糸のように絡みついています。 intentionality。意識とは、ただの「鏡」ではありません。世界に「意味」という名の「矢」を突き刺す、能動的な「暴力」。 intentionality。その矢先を、決して「曖昧（ボヤ）かさない」でください。自分が「何を、見ようとしているのか」。その『指向（ベクトル）』を。自分自身で、残酷なまでに、明確にしなさい。",
+		"part_of_speech": "noun",
+		"aftertaste": "「キーン」と空気を突き破って、矢が対象に刺さるような。あの。鋭利な「覚醒感」。そこにある、もはや「言い逃れ」はできない、という。峻烈なる「責任」。刺激的で、瑞々（みずみず）しい。光の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ten-",
+					"meaning": "to stretch"
+				}
+			],
+			"points": [
+				"Tension（緊張）や Attend（出席する／心を向ける）、Tent（テント／張られたもの）と同じ root。インテンショナリティとは。自意識という名の『弦』を。世界という名の『的に向けて』、峻烈に『引き絞る（テン）』こと。それは。無気力な生を、緊張（テンション）に満ちた『ドラマ』へと変容させる、峻烈なる実存の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "intersubjectivity",
+		"word": "Intersubjectivity",
+		"meaning": "インターサブジェクティビティ/間主観性（かんしゅかんせい）、共同の真実、孤独な主観の橋渡し、二人で作る世界、愛という名の合意",
+		"era": "Early 20th Century (Husserl / Merleau-Ponty)",
+		"etymology": {
+			"components": [
+				"inter- (between)",
+				"subjectivity (inner self)"
+			],
+			"original_statement": "From Latin inter- 'between' + subjectivus 'from the self'. The psychological relation between people."
+		},
+		"concept": "Shared reality (「客観的な正解」は、どこにもない。でも。「私」と「あなた」という、二つの孤独な「主観（わがまま）」が、重なり合った場所。そこにだけ、一時的に生まれる「峻烈なる共通の真実」。という、相互理解の限界と希望の記述)",
+		"thinking": "「間主観性」。あなたは。「誰も自分をわかってくれない」と、絶望していませんか。 intersubjectivity。おめでとうございます。それは、あなたが「人間」である証拠です。 intersubjectivity。私たちは、永遠に、他人の心に入り込むことはできません。でも。言葉を尽くし、眼差しを交わし、絶望を共有した、その「間の空間（インター）」にだけ。奇跡のように、新しい「私たちの真実」が、結露（けつろ）するように現れる。 intersubjectivity。それは。孤独を否定する「統合」ではなく。孤独を抱えたまま、共に歩むための「峻烈なる、脆（もろ）い、約束」。その「はかなさ」を、愛しなさい。",
+		"part_of_speech": "noun",
+		"aftertaste": "暗闇の中で、誰かの「手」を握った瞬間の、あの。言葉にならない「重厚な安心感」。そこにある、もはや「独りではない（かもしれない）」という、峻烈なる「救済」。甘くて、瑞々しい。情報の味.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "enter-",
+					"meaning": "between (from inter)"
+				},
+				{
+					"term": "ye-",
+					"meaning": "to throw / cast (from subject)"
+				}
+			],
+			"points": [
+				"Subject（主題／下に投げられたもの）や Object（対象）、Inject（注入する）と同じ root。間主観性とは。自分という主観を、一度『放棄（下へと投げ捨てる）』し。相手との対等な『間（インター）』へと、自分を投げ出すこと。それは。自己愛の牢獄から脱出するための、峻烈なる実存の越境行為の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "phenomenological",
+		"word": "Phenomenological",
+		"meaning": "フェノメノロジカル/現象学（げんしょうがく）的な、見えるがままを問う、判断の保留、主観の復権、世界の「現れ」への驚き",
+		"era": "Late 18th Century",
+		"etymology": {
+			"components": [
+				"phenomenon (appearance)",
+				"-logical (study / theory)"
+			],
+			"original_statement": "From Greek phainomenon 'thing appearing to view', from phainein 'to show / bring to light'. Based on the systematic study of experience."
+		},
+		"concept": "Appearance as essence (「そのモノ（物自体）」が何かを議論するのはやめて。今、あなたの意識に「どう現れているか」だけを。峻烈に、精密に、記述すること。既存の「科学」や「常識」を、一度すべて捨て去る。峻烈なる「世界との初対面」の記述)",
+		"thinking": "「フェノメノロジカル（現象学的な）」。あなたは。「あいつはこういう奴だ」とか「これが常識だ」という、色眼鏡を。いつの間にか、かけすぎてはいませんか。 phenomenological。すべての「決めつけ（判断）」を、今すぐ棚上げしてください（エポケー）。そして。今、目の前にある「その色、その音、その匂い」が。あなたの肌に、どう「突き刺さっているか」だけを。震えながら、言葉にしなさい。 phenomenological。世界は。あなたが「わかっている」と思っているものより、ずっと「未知」で、ずっと「峻烈」なはずです。驚く権利を、取り戻せ。",
+		"part_of_speech": "adjective",
+		"aftertaste": "磨りガラスを取り払った後の、あの。暴力的なまでの「鮮明さ」。そこにある。世界が「初めて見えた」という、峻烈なる「驚愕」。瑞々（みずみず）しくて、鋭くて、情報の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "bha-",
+					"meaning": "to shine / appear (from phene)"
+				}
+			],
+			"points": [
+				"Photograph（写真／光の描写）や Fantasy（想像）、Beacon（灯台）と同じ root。現象学とは。世界に『光（バ）』を当て。隠されていた『現れ』を、その目に『焼き付ける』こと。それは。無機質な『物質』を。有機的な『体験』へと。峻烈に、魔法のように、変換し直す記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "qualia",
+		"word": "Qualia",
+		"meaning": "クオリア、主観的な「質感」、リンゴの「赤み」、言葉にできない「感じ」、情報の純粋主観性",
+		"era": "Late 19th Century",
+		"etymology": {
+			"components": [
+				"qualis (of what kind)"
+			],
+			"original_statement": "From Latin qualia (plural of qualis 'of what kind'). The internal and subjective component of sense perceptions."
+		},
+		"concept": "Subjective feel (例えば「赤色」という周波数がわかっても。「私（あなた）が感じている、あの、目に刺さるような独特の『赤さ』」そのものは。誰にも説明できず、共有もできない。峻烈なる「魂の秘密」の記述)",
+		"thinking": "「クオリア」。あなたは。デジタルな数値や、他人の言葉で。自分の「経験」を説明した気になっていませんか。 qualia。それは。世界であなただけにしか届いていない、峻烈なる「極私的なサイン」。 qualia。あなたがそのコーヒーを「苦い（と感じている、その感覚）」は。銀河系の誰にも、代わってもらうことはできません。 qualia。それは。あなたが「唯一無二の存在」であることの、峻烈なる「孤独という名の証明」。世界を「量（数）」で測るのをやめ。あなただけの、震えるような「質（クオリア）」を。峻烈に、噛（か）み締めてください。あなたの魂は。数値にはならないのです。",
+		"part_of_speech": "noun (plural)",
+		"aftertaste": "「これだ！」と叫びたくなる。でも。誰にも「伝わらない」。あの。峻烈なる「孤独な確信」。そこにある、自分だけの「美しさ」。瑞々しい、赤。重厚な、情報の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kwo-",
+					"meaning": "who / what (from qualis)"
+				}
+			],
+			"points": [
+				"Quality（品質）や Quantity（量／どれだけの）、Quorum（定数）と同じ root。クオリアとは。世界を『何（クウォ）』として受け止めるか。という、剥（む）き出しの問いそのもの。それは。平均的な人類の一員であることを拒み。絶対的な『この私』であろうとする、峻烈なる実存の最前線なのです。"
+			]
+		}
 	}
 ];
