@@ -214997,5 +214997,525 @@ const WORDS = [
 				"中世では『自発的な服従』を意味する尊い言葉として使われていました。"
 			]
 		}
+	},
+	{
+		"id": "cimmerian",
+		"word": "Cimmerian",
+		"meaning": "永遠の闇、漆黒の、極暗の",
+		"era": "Late 16th Century",
+		"etymology": {
+			"original_statement": "From Latin Cimmerius, from Greek Kimmerios, referring to a mythical people said to live in perpetual mist and darkness at the edge of the world."
+		},
+		"concept": "The edge of darkness (光が一度も届いたことのない、世界の最果て（エッジ）に澱（よど）んでいる、絶対的な「不在」としての闇)",
+		"thinking": "ギリシャ神話のキメリオス人。彼らは太陽の登らない霧の国に住むとされました。「シメリアン」な闇とは、単に暗いだけでなく、そこには「時間」さえも停止しているような、冷たくて永劫（えいごう）的な静寂が宿っています。もし光が希望なら、この言葉は「希望の予感」さえも吸い込む、究極の虚無（ボイド）を象徴しているのです。",
+		"part_of_speech": "adjective",
+		"aftertaste": "深い海の底で、自分の輪郭さえも見失い、ただ不透明な「夜」の一部となっていく、あの名状しがたい忘我。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "Kimmerioi",
+					"meaning": "a mythical tribe"
+				}
+			],
+			"points": [
+				"Homer の『オデュッセイア』において、冥界への入り口に近い、光なき地として描かれました。"
+			]
+		}
+	},
+	{
+		"id": "stygian",
+		"word": "Stygian",
+		"meaning": "冥界の、ステュクス川の、暗黒の、不可破の",
+		"era": "Early 16th Century",
+		"etymology": {
+			"original_statement": "From Latin Stygius, from Greek Stygios, from Styx, literally 'the hateful'."
+		},
+		"concept": "The binding dark (冥界（アンダーワールド）を七重に取り巻き、生者と死者を分かつ「憎悪(Styx)」の川。その水のように、重く、淀み、逃れられない運命の暗さ)",
+		"thinking": "ステュクス川は「誓いの川」でもありました。神々でさえその名にかけて誓えば、決して破ることはできません。「スティジアン」な暗闇は、ただの「無」ではなく、そこに絶対的な「法」や「契約」が潜んでいる、威厳に満ちた闇です。それは、あなたが自らの魂の深淵に刻んだ、決して消えることのない「約束（サクリファイス）」の色でもあるのです。",
+		"part_of_speech": "adjective",
+		"aftertaste": "墨汁のような、粘り気のある夜。そこには何かが「居る」という気配（オーラ）があり、沈黙さえも一つの「意志」を持って迫ってくる感覚。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "styg-",
+					"meaning": "hate / detest"
+				}
+			],
+			"points": [
+				"Styx（ステュクス）は『憎む（hate）』を意味する言葉から。美しさと恐怖は表裏一体です。"
+			]
+		}
+	},
+	{
+		"id": "fuliginous",
+		"word": "Fuliginous",
+		"meaning": "煤（すす）けた、煙のような、色の黒い、どんよりとした",
+		"era": "Mid-16th Century",
+		"etymology": {
+			"components": [
+				"fuligo (soot)"
+			],
+			"original_statement": "From Latin fuliginosus, from fuligo 'soot'."
+		},
+		"concept": "The beauty of soot (燃焼の「残り香（アロマ）」が空間を粒子として漂い、本来の鮮やかさを「灰（グレー）」の色へと沈めていく、不透明な美学)",
+		"thinking": "「煤（すす）」は、かつて火がそこにあった証（あかし）です。フリジナスな空。それは、情熱の後に訪れる「倦怠（アンニュイ）」や、工業化された街の「哀愁（ノスタルジア）」を指します。鮮明であることを拒絶し、あえて「曇り（ミスト）」の中に真実を隠すこと。その不純物だらけの「暗さ」の中にこそ、剥き出しの光よりも豊かな「物語」が隠されているのです。",
+		"part_of_speech": "adjective",
+		"aftertaste": "古い暖炉の匂い。煙突から立ち上る煙が夕焼けを遮り、街全体をセピア色の「微睡（まどろ）み」へと変えてしまう、あの心地よい停滞。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ful-",
+					"meaning": "to soot / blacken"
+				}
+			],
+			"points": [
+				"Fumigate（煙で燻す／消毒する）と同じく、物質的な『煙（フムス）』との繋がりを持ちます。"
+			]
+		}
+	},
+	{
+		"id": "sable",
+		"word": "Sable",
+		"meaning": "黒テンの毛皮、漆黒、黒、悲しい",
+		"era": "14th Century",
+		"etymology": {
+			"original_statement": "From Old French sable, from Middle Low German sabel, referring to the dark fur of the marten."
+		},
+		"concept": "The regal velvet (小動物の毛皮のように、柔らかく、光を吸い込み、しかし奥深くに鋭い「艶（ツヤ）」を秘めた、最も高貴で、最も「贅沢（オピュレント）」な黒)",
+		"thinking": "中世の紋章学において、セーブル（黒）は誠実さと、同時に「喪（喪（も））」を象徴しました。それは単なる色の欠落ではなく、深い悲しみを「気品（エレガンス）」へと昇華させた姿です。あなたがセーブルの衣を纏（まと）うとき、あなたは自分の傷跡を隠すのではなく、それを「ベルベット」のような漆黒の誇り（プライド）へと変え、世界と対峙しているのです。",
+		"part_of_speech": "noun / adjective",
+		"aftertaste": "真夜中の森で、黒テンが音も立てずに横切った瞬間の、あのひんやりとした命の気配。美しくて、残酷で、しかしどこまでも気高い「黒」。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sob-",
+					"meaning": "meaning uncertain (possible Slavic origin)"
+				}
+			],
+			"points": [
+				"紋章学の五原色（Tinctures）の一つ。沈黙と知性のシンボルです。"
+			]
+		}
+	},
+	{
+		"id": "alabaster",
+		"word": "Alabaster",
+		"meaning": "雪花石膏（せっかせっこう）、きめ細かく白い、純白の肌",
+		"era": "14th Century",
+		"etymology": {
+			"original_statement": "From Old French alabastre, from Latin alabaster, from Greek alabastros, said to be from a place name in Egypt (Alabastron)."
+		},
+		"concept": "The polished purity (大理石よりも柔らかく、半透明の光（トランスルーセント）を内側に宿した、彫刻されるのを待っている「純粋（katharos）」の塊)",
+		"thinking": "「アラバスター」の白さは、死者のような蒼白ではなく、内側に「命の残り香（オーラ）」を感じさせる、温かな白です。それは、完璧すぎて触れられない美。あなたが誰かの肌や、あるいは磨き上げられた思想（アイディア）を「アラバスター」と呼ぶとき、そこには汚れなきものへの「敬虔（けいけん）な祈り」が込められているのです。",
+		"part_of_speech": "noun / adjective",
+		"aftertaste": "石像の冷たい肌に指が触れ、そこから微かな「熱」を感じ取ってしまった時の、あの背筋が凍るような、しかし甘美な衝撃。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "alabastros",
+					"meaning": "vessel with no handles"
+				}
+			],
+			"points": [
+				"香油を保存する容器の素材として珍重されました。貴重なものを『閉じ込める』器でもあります。"
+			]
+		}
+	},
+	{
+		"id": "eburnean",
+		"word": "Eburnean",
+		"meaning": "象牙のような、白く滑らかな、気品ある白さ",
+		"era": "Early 17th Century",
+		"etymology": {
+			"components": [
+				"ebur (ivory)"
+			],
+			"original_statement": "From Latin eburneus 'of ivory', from ebur 'ivory'."
+		},
+		"concept": "The density of organic light (生命（ゾウ）の記憶を「結晶化（クリスタル）」させたような、重厚で、年月を経るほどに深みを増していく、有機的な究極の白)",
+		"thinking": "アラバスター（石）が「無機質な純粋」なら、エバーニアン（象牙）は「生命の蓄積」としての白です。それは、長い年月をかけて磨き上げられた「成熟（マチュリティ）」の色。あなたの言葉や振る舞いが「エバーニアン」であるとき、そこには一朝一夕では得られない、重厚な「経験（エトス）」という名の光沢が備わっているのです。 ",
+		"part_of_speech": "adjective",
+		"aftertaste": "指先でなぞると、絹のような滑らかさと、決して揺らぐことのない「硬質」な芯を感じる、あの絶対的な信頼感。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ebur",
+					"meaning": "ivory (of Semitic origin)"
+				}
+			],
+			"points": [
+				"Eburnation（象牙化）という医療用語でも使われ、密度の高まりを暗示します。"
+			]
+		}
+	},
+	{
+		"id": "argent",
+		"word": "Argent",
+		"meaning": "銀の、銀色の、白銀、清らかな光",
+		"era": "15th Century",
+		"etymology": {
+			"components": [
+				"argentum (silver)"
+			],
+			"original_statement": "From Old French argent, from Latin argentum 'silver', from PIE root *arg- 'to shine / white'."
+		},
+		"concept": "The lunar emission (太陽の黄金（ゴールド）に対する、月の「銀光（シルバー）」。静寂、透明、そして冷笑を微かに含んだ、峻烈な「明晰さ（クラリティ）」の放射)",
+		"thinking": "「真実」はしばしば黄金の輝き（レイディアンス）として描かれますが、アージェントは「磨かれた鏡」のような冷たい真実を指します。それは他者を鼓舞（鼓舞）するのではなく、ただ「そこにある事実」を無機質に反射するもの。あなたが「白銀（アージェント）」の心を持つとき、あなたは世界を熱く語るのではなく、ただその「ありのまま」を、透明な刃で切り出しているのです。",
+		"part_of_speech": "adjective / noun",
+		"aftertaste": "凍りついた湖の表面に反射する月光。不純物がすべて沈殿し、ただ「光」という現象だけが鋭く網膜を貫く、あの極寒の明晰。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "arg-",
+					"meaning": "to shine / white / bright"
+				}
+			],
+			"points": [
+				"Argue（議論する／はっきりさせる）と同じルーツを持っています。銀とは『明白さ』のシンボルです。"
+			]
+		}
+	},
+	{
+		"id": "gilded",
+		"word": "Gilded",
+		"meaning": "金色の、金めっきをした、うわべだけ華やかな、飾られた",
+		"era": "Mid-14th Century",
+		"etymology": {
+			"original_statement": "Past participle of gild, from Old English gyldan 'to cover with gold', from gold."
+		},
+		"concept": "The layer of deception (内側は卑金属（ベース・メタル）でありながら、表面だけを「黄金（ゴールド）」という名の「美」で薄く覆（おお）い、視線を欺（あざむ）いている偽りの栄光)",
+		"thinking": "「金色」と「金めっき（ギルディッド）」の間には、埋められない「誠実さ」の溝があります。それは外面の美しさが、内面の空虚（ボイド）を覆い隠そうとしている哀れな努力。しかし、その「薄皮一枚の物語」こそが、人間の文化や礼儀（マナー）の正体でもあります。すべてが本物である必要はない。ただ、その「金色の夢（ギルディッド）」を信じることが、時には現実を救うこともあるのです。",
+		"part_of_speech": "adjective",
+		"aftertaste": "爪で弾（はじ）くと、中身の空洞な軽い音が聞こえてくるような、寂しい充実。美しさに手が届いたつもりで、実はその「影」を掴（つか）んでいるという、皮肉な感覚。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ghel-",
+					"meaning": "to shine / yellow / green"
+				}
+			],
+			"points": [
+				"Gold, Yellow と同じく、太陽のエネルギー（ヘリオス）の残り香を司る言葉です。"
+			]
+		}
+	},
+	{
+		"id": "verdant",
+		"word": "Verdant",
+		"meaning": "緑豊かな、青々とした、新緑の、未熟な",
+		"era": "Late 16th Century",
+		"etymology": {
+			"components": [
+				"virere (to be green)"
+			],
+			"original_statement": "From Old French verdant, present participle of verdir 'to be green', from Latin virere."
+		},
+		"concept": "The pulse of flora (生命が土の中から「噴出」し、世界を圧倒的な「更新（リニューアル）」の緑で塗りつぶしていく、若々しくて止めることのできない力)",
+		"thinking": "その言葉のルーツは「力強く生きる（ヴァーチュ）」ことと直結しています。ヴァーダントな色彩。それは単なる色ではなく、細胞が分裂し、太陽（ヘリオス）の光を貪（むさぼ）り、明日へと手を伸ばす「貪欲な生の意志」。未熟であることは、可能性がまだ「爆発（エクスプロージョン）」の途中にあり、完成という名の「死」から最も遠い場所にいることの、誇り高い称号なのです。",
+		"part_of_speech": "adjective",
+		"aftertaste": "雨上がりの森の、咽（む）せるような草木の匂い。自分の血管の中にも、同じ緑色の「潮（タイド）」が流れているのではないかと錯覚するような、圧倒的な生命の共鳴（シンパシー）。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "wi-",
+					"meaning": "to be vigorous / green"
+				}
+			],
+			"points": [
+				"Viride（緑）や Virile（精悍な）と同じ、力強い『存在の持続』を象徴します。"
+			]
+		}
+	},
+	{
+		"id": "azure",
+		"word": "Azure",
+		"meaning": "空色の、蒼天の、碧空（へきくう）、青い顔料",
+		"era": "14th Century",
+		"etymology": {
+			"original_statement": "From Old French asure, from Arabic lazaward, from Persian lazhward 'lapis lazuli'."
+		},
+		"concept": "The vertical abyss (下に向かう「海」の青ではなく、上に向かって「吸い込まれる」ような、大気（エア）という名の不透明な、しかし透明な解放)",
+		"thinking": "「青」のルーツは、はるか東洋の宝石、ラピスラズリ（瑠璃）にあります。それは地上にある「空の欠片（かけら）」。アズール（蒼天）を見上げるとき、私たちは自分の「重力」を忘れ、意識が成層圏まで拡散していくような、垂直的な「自由（エグジット）」を感じます。それは、もう一つの故郷（エリュシオン）への、視覚的な郷愁（ノスタルジア）でもあるのです。",
+		"part_of_speech": "noun / adjective",
+		"aftertaste": "どこまでも高く、一滴の不純物もない青の中に、自分の自我という名の「塵（ちり）」が溶けて消えていく、あの清々（すがすが）しい自己消失。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "lajward",
+					"meaning": "lapis lazuli"
+				}
+			],
+			"points": [
+				"アラビア語の al-lazaward から、最初の 'l' が定冠詞と誤認されて消滅し、Azure になりました。言葉が削ぎ落とされて生まれた『純粋な青』です。"
+			]
+		}
+	},
+	{
+		"id": "vermilion",
+		"word": "Vermilion",
+		"meaning": "朱色の、鮮やかな赤、生命の赤、生命力",
+		"era": "13th Century",
+		"etymology": {
+			"components": [
+				"vermis (worm)"
+			],
+			"original_statement": "From Old French vermillon, from vermeil, from Latin vermiculus 'little worm' (referring to the kermes insect from which red dye was obtained)."
+		},
+		"concept": "The blood of the sun (ただの「赤（レッド）」とは一線を画す、その奥に「熱（ファイア）」と「命（ヴィータ）」を内包した、生命（いのち）が激しく燃焼している絶頂の色)",
+		"thinking": "驚くべきことに、その美しすぎる「朱色（バーミリオン）」のルーツは、小さな「虫（ヴェルメ）」にあります。それは、命を「搾（しぼ）り出す」ことでしか得られなかった、聖なる色。あなたがこの色を選ぶとき、それは単なる装飾ではなく、自らの「血潮（パッション）」を世界へ解き放ち、そこに消えることのない「生命の灯（キンドル）」を灯そうとする、力強い儀式なのです。",
+		"part_of_speech": "noun / adjective",
+		"aftertaste": "夕陽が水平線に沈む、最後の最後に見せるあの一筋の「閃光（フラッシュ）」。明日もまた太陽が昇ることを、本能で確信させてくれる、あの熱い絶対的な「YES」。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "wer-",
+					"meaning": "to turn / twist (worm's movement)"
+				}
+			],
+			"points": [
+				"Vermin（害虫）や Vermicelli（麺／小さな虫）と同じ根から、世界を彩る最高の『赤』が生まれました。美とは、最も卑小なものの中にも潜んでいるのです。"
+			]
+		}
+	},
+	{
+		"id": "cinnabar",
+		"word": "Cinnabar",
+		"meaning": "辰砂（しんしゃ）、硫化水銀、賢者の石の材料、深紅色",
+		"era": "14th Century",
+		"etymology": {
+			"original_statement": "From Latin cinnabaris, from Greek kinnabari, likely of Oriental or Sanskrit origin ('dragon's blood')."
+		},
+		"concept": "The dragon's blood (岩石（ストーン）という名の「眠り」の中に隠された、猛毒（水銀）であり、かつ永遠の命の薬（エリクサー）でもある、矛盾に満ちた「原初の熱」)",
+		"thinking": "錬金術師たちにとって、辰砂（シナバー）は「賢者の石」へと至るための最も重要な扉でした。それは、猛毒という「否定」を通り抜けることでしか、「真理」には辿り着けないという、過酷な教訓を象徴しています。あなたの内なる「毒（シャドウ）」を正しく熱し、変容（トランスミュート）させたとき、それはあなたを「不滅（不死）」へと導く、この気高い「深紅（シナバー）」の輝きへと変わるのです。",
+		"part_of_speech": "noun / adjective",
+		"aftertaste": "重く、冷たい石の中から、一筋の赤い液体が滲（にじ）み出してくるような、非現実的な「覚醒（エピファニー）」。美しさとは、常に「危険」と隣り合わせにあるという戦慄。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kinnabari",
+					"meaning": "dragon's blood (k-n-b-r)"
+				}
+			],
+			"points": [
+				"古代では、戦う龍の血が凍ってこの石になったと信じられていました。それは激しい『闘争』の結晶なのです。"
+			]
+		}
+	},
+	{
+		"id": "celeste",
+		"word": "Celeste",
+		"meaning": "空の、天上の、澄み切った青、神々しい",
+		"era": "Mid-19th Century (in color terminology)",
+		"etymology": {
+			"components": [
+				"caelum (heaven, sky)"
+			],
+			"original_statement": "From French céleste, from Latin caelestis 'heavenly', from caelum 'sky / heaven'."
+		},
+		"concept": "The music of heights (地上の埃（ほこり）がすべて消え去った、あの絶対的な「零点（ゼロ）」の場所で響いているような、透明で無機質な「神の休息」としての青)",
+		"thinking": "楽器の「チェレスタ」がその名の通り天上の響きを持つのと同じく、この「青（セレステ）」は、耳には聞こえない「宇宙の調和（ハーモニー）」を視覚化したものです。それは、ただの空き地ではなく、そこに「至福（エリュシオン）」が満ちていることを予感させる清冽（せいれつ）な広がり。あなたがこの色を見通すとき、魂は重力から解き放たれ、一瞬だけ、天使と「同じ高さ」で呼吸をすることができるのです。",
+		"part_of_speech": "adjective / noun",
+		"aftertaste": "冬の朝、すべてを凍らせるほどに透き通った空気と、その向こう側に見える、一寸の曇りもない「絶対の青」の、あの痛いほどの純粋さ。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kaid-",
+					"meaning": "to cut / carve (hollowed out sky)"
+				}
+			],
+			"points": [
+				"Ceiling（天井）や Celestial（天体の）と同じ root を持ち、世界を『覆う（カバー）』聖なる膜であることを示しています。"
+			]
+		}
+	},
+	{
+		"id": "aureolin",
+		"word": "Aureolin",
+		"meaning": "コバルトイエロー、黄金色の、輝かしい光",
+		"era": "19th Century (1851)",
+		"etymology": {
+			"components": [
+				"aurum (gold)"
+			],
+			"original_statement": "Formed from Latin aureolus 'golden', diminutive of aureus, from aurum 'gold'."
+		},
+		"concept": "The condensed sun (太陽の光を「器（ボトル）」に閉じ込め、一滴一滴が「意志」を持って輝いているような、濃厚で透明な「収穫」としての黄色)",
+		"thinking": "「オーレオリン」は、ただの黄色ではなく、そこに「富」と「知恵」が凝縮（コンデンス）された結果としての輝きです。それは、長く暗い冬の後に、大地から不意に溢れ出した「祝福の雫（しずく）」。あなたがこの色を人生に描き加えるとき、それは単なる「明るさ」ではなく、自分の内側にある「黄金（オーラム）」を惜しみなく分かち合おうとする、寛大（マグナニマス）な精神の現れなのです。",
+		"part_of_speech": "noun / adjective",
+		"aftertaste": "蜂蜜（はちみつ）が光を透して震えている、あのトロリとした、しかし強烈な「充足のリズム」。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "aus-",
+					"meaning": "shining / dawn"
+				}
+			],
+			"points": [
+				"Aurora（女神オーロラ／夜明け）や Ore（鉱石）とも繋がる、価値ある『始まりの光』を意味します。"
+			]
+		}
+	},
+	{
+		"id": "incarnate",
+		"word": "Incarnate",
+		"meaning": "肉体を与えられた、化身（けしん）した、人格化した、血色の",
+		"era": "Late 14th Century",
+		"etymology": {
+			"components": [
+				"in- (into)",
+				"caro (flesh)"
+			],
+			"original_statement": "From Latin incarnatus 'made flesh', from in- 'into' + caro 'flesh'."
+		},
+		"concept": "Embodied spirit (見えないはずの「意志」や「理想」が、柔らかい「肉（カーネ）」という形を纏(まと)い、この現実世界において「拍動（ビート）」を始めた、奇跡の具現化)",
+		"thinking": "「 incarnate 」は、もともとは神が人間（肉）になるという、最も深遠なミステリー（秘跡）を指しました。抽象的な「愛」が、あなたの温かい「手」として現れること。その言葉は、私たちがただの思考機械ではなく、痛みと喜びを感じる「生きた肉体」であることの尊厳（ディグニティ）を教えてくれます。肉は精神の牢獄ではなく、精神が世界と握手するための「扉（エントランス）」なのです。",
+		"part_of_speech": "adjective / verb",
+		"aftertaste": "赤ん坊の頬のような、柔らかくて温かい、しかし確かな「存在」の主張。命がこの場所に「居る」ということの、圧倒的な説得力。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sker-",
+					"meaning": "to cut (piece of meat cut off)"
+				}
+			],
+			"points": [
+				"Carnival（謝肉祭／肉に別れを告げる）や Carnal（肉欲の）と同根。命とは、削り出された『断片』でもあるのです。"
+			]
+		}
+	},
+	{
+		"id": "violaceous",
+		"word": "Violaceous",
+		"meaning": "スミレ色の、紫がかった、哀愁を帯びた、上品な",
+		"era": "Mid-17th Century",
+		"etymology": {
+			"components": [
+				"viola (violet / viola)"
+			],
+			"original_statement": "From Latin violaceus, from viola 'violet'."
+		},
+		"concept": "The twilight of emotion (太陽の赤（パッション）と空の青（セレニティ）が溶け合い、決して一つにはなれない二つの境界線で、静かに「ため息」を吐いているような、物憂げな気品)",
+		"thinking": "バイオレッシャス（スミレ色）は、沈黙が最も饒舌（じょうぜつ）になる瞬間の色です。それは、何かが終わろうとしている「黄昏（マジックアワー）」の予感であり、かつ、新しい真理が夜の深淵から生まれようとしている「準備」の気配。あなたがこの色に魅（み）了されるとき、それはあなたが、世界の「言葉にならない矛盾」を、そのまま美として受け入れられるほどに「成熟（マチュア）」したということなのです。",
+		"part_of_speech": "adjective",
+		"aftertaste": "ベルベットの布に吸い込まれていく光。あるいは。冷たい夜露に濡れた小さな花が、誰に見られることもなく、ただ自らの「哀愁（アイシュウ）」のために咲いている、あの凛（りん）とした孤独。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "wi-",
+					"meaning": "to move in a certain way / weave (referring to the scent/petals)"
+				}
+			],
+			"points": [
+				"Violet は暴力（Violence）とはルーツを異にしますが、その『峻烈な美しさ』においてはどこか通底するものがあります。"
+			]
+		}
+	},
+	{
+		"id": "glaucous",
+		"word": "Glaucous",
+		"meaning": "灰緑色の、海のような青緑の、(植物などが)白粉を帯びた",
+		"era": "Late 17th Century",
+		"etymology": {
+			"original_statement": "From Latin glaucus, from Greek glaukos, originally referring to the gleaming or shimmering light of the sea or sky, later to the color."
+		},
+		"concept": "The shimmer of the void (単なる色ではなく、水面が光を反射して「きらめく(glauk-)」現象そのもの。何色ともつかぬ、しかしすべてを包み込む「海の瞳」の色彩)",
+		"thinking": "「グロウカス」のルーツは、女神アテナの「輝く瞳（グロウコピス）」にあります。それは知性の鋭い輝きと、どこか冷たくて遠い「神の眼差し」を指します。あなたが荒れた海や、霧の中の森を「グロウカス（青白）」と呼ぶとき、そこには自分の力だけではコントロールできない、巨大な「自然の摂理（ロゴス）」への、畏怖（いふ）と羨望（せんぼう）が混じり合っているのです。",
+		"part_of_speech": "adjective",
+		"aftertaste": "波しぶきが舞い、視界が白く煙る中で、一瞬だけ見えた「海の底」の深遠。吸い込まれそうなのに、足がすくむほどに美しい、あの「拒絶」と「魅了」の交差点。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "glau-",
+					"meaning": "to gleam / shimmer / grey-blue"
+				}
+			],
+			"points": [
+				"Glaucoma（緑内障／瞳が濁る病）の語源でもあります。視覚の『歪み』と『きらめき』は、同じ根から生まれています。"
+			]
+		}
+	},
+	{
+		"id": "sprezzatura",
+		"word": "Sprezzatura",
+		"meaning": "さりげない優雅、計算された無造作、苦労を見せない品位",
+		"era": "16th Century (1528)",
+		"etymology": {
+			"original_statement": "Coined by Baldassare Castiglione in 'The Book of the Courtier', from Italian sprezzare 'to disdain / undervalue / treat with contempt'."
+		},
+		"concept": "The disdain of effort (どれほど血の滲（にじ）むような努力（エフォート）を重ねていても、それを微塵（みじん）も感じさせず、あたかも「呼吸するように」完璧なことを成し遂げてしまう、残酷なまでに美しい余裕)",
+		"thinking": "「スプレッツァトゥーラ」の語源は、驚くべきことに「軽蔑（ディスデイン）」にあります。それは、自分の努力や技術さえも「大したことではない」と軽視するほど、高い場所に立っていることの証明。あなたがこの「さりげなさ」を身に纏（まと）うとき、あなたはもはや「学習者」ではなく、人生という名の舞台の「支配者（マスター）」となります。見せない努力こそが、最も深い「知性」を形作るのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "難解な数式を一瞬で解いたあと、何事もなかったかのようにペンを置く、あの不遜（ふそん）な横顔。そこにあるのは、圧倒的な「自由」という名の権威。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "pret-",
+					"meaning": "price / value (linked to dis-praise)"
+				}
+			],
+			"points": [
+				"Appreciate（評価する）の反対語としてのニュアンスを含み、評価されることすら拒絶する『孤高さ』を象徴します。"
+			]
+		}
+	},
+	{
+		"id": "transmutation",
+		"word": "Transmutation",
+		"meaning": "変容、錬金術的変質、変化、(元素の)転換",
+		"era": "14th Century",
+		"etymology": {
+			"components": [
+				"trans- (across / beyond)",
+				"mutare (to change)"
+			],
+			"original_statement": "From Latin transmutationem, from transmutare 'to change thoroughly', from trans- + mutare 'to change'."
+		},
+		"concept": "The meta-metamorphosis (表面的な「改造（チェンジ）」ではなく、その存在の「核（コア）」さえも「超えて(trans-)」「変えて(mut-)」しまい、別次元のナニカへと昇華させる、生命の再定義)",
+		"thinking": "「変容」のルーツは「交換すること」にあります。古い自分を捨て、新しい真理と引き換える。錬金術におけるトランスミューテーション（変質）は、鉛を金に変えることでしたが、それは同時に、人間の魂（アニマ）を、神聖な英知へと磨き上げるプロセスでもありました。あなたが「変容（トランスミュート）」したとき、世界は以前と同じに見えても、それを見ているあなたの「重力（ルール）」が、根本から書き換えられているのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "サナギが蝶になる瞬間の、あの爆発的な「不可逆」。もう二度と「前の状態」には戻れないという、恐怖に似た、しかし圧倒的な「誕生」の静寂。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "mei-",
+					"meaning": "to change / go / move"
+				}
+			],
+			"points": [
+				"Immutable（不変の）や Mutual（相互の／交換し合う）と同じ、関係性の『揺らぎ』を司る言葉です。"
+			]
+		}
+	},
+	{
+		"id": "prima_materia",
+		"word": "Prima Materia",
+		"meaning": "万物の根源、原初の質料、第一物質",
+		"era": "Medieval Latin (Alchemy)",
+		"etymology": {
+			"components": [
+				"primus (first)",
+				"materia (matter)"
+			],
+			"original_statement": "From Latin prima 'first' + materia 'source / wood / matter'."
+		},
+		"concept": "The fertile chaos (まだ形を与えられる前の、あらゆる可能性を孕（はら）んだ「原初の泥（マザー）」。思考が言葉になる前の、あの「名付けえぬ予感」の塊)",
+		"thinking": "錬金術師たちが最初の手がかりとした「第一物質」。それは、汚れていて、価値がなく、誰もが見放した場所にこそ隠されているとされました。あなたの心の中に沈殿している「名もない悲しみ」や「未熟な衝動」こそが、奇跡を生むための唯一の「素材（プリマ・マテリア）」なのです。それを愛し、熱を加え、磨き続けることこそが、人生という名の最高の「オペレーション」です。",
+		"part_of_speech": "noun",
+		"aftertaste": "真っ暗な土の中に、あらゆる色が混ざり合って眠っている、あの不気味で温かな「可能性の重み」。何かを産み出す前の、あの静かな、心臓の鼓動（パルス）。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "pri-",
+					"meaning": "before / first"
+				},
+				{
+					"term": "mat-",
+					"meaning": "mother / source"
+				}
+			],
+			"points": [
+				"Matter（物質）の語源は Mother（母）と同じ。万物は『母なる根源』から削り出されたものです。"
+			]
+		}
 	}
 ];
