@@ -214968,5 +214968,34 @@ const WORDS = [
 				"Pertinent（適切な／そこに向かって保持された）とルーツを共有しますが、その『強度』において一線を画します。"
 			]
 		}
+	},
+	{
+		"id": "condescend",
+		"word": "Condescend",
+		"meaning": "（恩着せがましく）見下す、謙り（へりくだり）歩み寄る",
+		"era": "Mid-14th Century",
+		"etymology": {
+			"components": [
+				"com- (together, with)",
+				"de- (down)",
+				"scandere (to climb)"
+			],
+			"original_statement": "From Latin condescendere, literally 'to climb down together / with', from com- + de- + scandere."
+		},
+		"concept": "Climbing down together (本来の自分という尊大な「高所」から、「一緒に(com-)」「下りて（de-）」やるという、隠しきれない「階級意識」を含んだ歩み寄り)",
+		"thinking": "「見下す」という言葉の、元々の美徳は「相手のレベルに降りて寄り添う（コン・ディセンド）」という、王者の優しさでした。しかし、そこには常に「自分の方が高い」という無意識の壁が存在します。あなたが誰かに「寄り添う（ケア）」とき、それが真の共感か、それともこの「コンディセンド（高圧的な慈悲）」なのか。その境界線は、あなたの心という名の「高さの放棄」に委ねられています。",
+		"part_of_speech": "verb",
+		"aftertaste": "差し出された手のひらが、握手のためではなく「施し」のために開かれていると気づいた瞬間の、あの凍りつくような冷笑。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "skand-",
+					"meaning": "to climb"
+				}
+			],
+			"points": [
+				"中世では『自発的な服従』を意味する尊い言葉として使われていました。"
+			]
+		}
 	}
 ];
