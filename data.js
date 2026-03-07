@@ -232436,5 +232436,572 @@ const WORDS = [
 				"Quality（品質）や Quantity（量／どれだけの）、Quorum（定数）と同じ root。クオリアとは。世界を『何（クウォ）』として受け止めるか。という、剥（む）き出しの問いそのもの。それは。平均的な人類の一員であることを拒み。絶対的な『この私』であろうとする、峻烈なる実存の最前線なのです。"
 			]
 		}
+	},
+	{
+		"id": "quark",
+		"word": "Quark",
+		"meaning": "クォーク、これ以上分割できない本質、極限の構成要素、三位一体の最小単位、意味の原子",
+		"era": "1964 (Murray Gell-Mann)",
+		"etymology": {
+			"components": [
+				"Three quarks for Muster Mark (literature)"
+			],
+			"original_statement": "Coined by Murray Gell-Mann, inspired by a line in James Joyce's 'Finnegans Wake'."
+		},
+		"concept": "The simplest unit (物質を形作る、これ以上分割できない「最小の欠片（かけら）」。それは。単独では存在できず、常に仲間（三位一体）と結びついてしか現れない、峻烈なる「関係性の極小値」の記述)",
+		"thinking": "「クォーク」。あなたの「正体」は、何ですか。いくら「自分探し（分解）」をしても。最後には、名前の付けられない「三つの要素（クォーク）」が残るだけ。 quark。それは、説明不能な「生の輝き（フレーバー）」。 quark。一人では生きられないのに、一人でも「自分」であること。 quark。この「不器用な最小単位」こそが。あなたの巨大な「人格（陽子）」を支えている、峻烈なる「秘密」なのです。バラバラにするのをやめなさい。その「最小のあなた」を。峻烈に、誇らしく、抱きしめなさい。",
+		"part_of_speech": "noun",
+		"aftertaste": "原子の奥底にある、不思議な「熱」と。そこにある。もはや「言葉」では捉（とら）えられない、という。峻烈なる「沈黙」。甘くて、瑞々しい。光の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "None (Literary origin)",
+					"meaning": "James Joyce's 'Finnegans Wake'"
+				}
+			],
+			"points": [
+				"Quark は物理学の用語だが、その命名は文学（ジョイス）に由来する。科学という名の『論理』の底に。文学という名の『虚構（遊び）』が眠っていること。クォークとは。この世界のすべてが『言葉遊び』によって造られた、峻烈なる神のユーモアの記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "lepton",
+		"word": "Lepton",
+		"meaning": "レプトン/軽粒子（けいりゅうし）、(孤独な)漂流者、情報の身軽さ、物質という名の鎖からの解放、透明な存在",
+		"era": "1948 (Léon Rosenfeld)",
+		"etymology": {
+			"components": [
+				"leptos (small / slender / thin / fine)"
+			],
+			"original_statement": "From Greek leptos 'small / slender / thin / fine', from lepein 'to peel / scale'."
+		},
+		"concept": "The light particle (「強い力（関係性）」に縛られず、宇宙を自由に「漂流（トラベル）」する粒子の総称。それは。重い「義務（質量）」を持たず。ただ光のように、情報の海を滑（すべ）り抜けていく、峻烈なる「脱俗」の記述)",
+		"thinking": "「レプトン（軽粒子）」。あなたは。重い「責任」や「常識」という名の「強い力」に、押し潰されてはいませんか。 lepton。あなたは、もっと「軽やか（レプトス）」になっていい。 lepton。それは。皮を「剥（む）く（レペイン）」こと。世俗という余分な肉を削ぎ落とし。ただの「点（実存）」として、この宇宙を貫通していく、峻烈なる「自由」。何者にも縛られるな。自分の「軽さ」を恥じるな。その「透明さ」こそが。あなたの最大の、峻烈なる、防御なのですから。",
+		"part_of_speech": "noun",
+		"aftertaste": "空気が「フッ」と消えるような。圧倒的な「身軽さ」。そこにある、どこへでも行けるという、峻烈なる「解放感」。冷たくて、薄くて、瑞々（みずみず）しい。情報の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "lep-",
+					"meaning": "to peel / scale"
+				}
+			],
+			"points": [
+				"Leprosy（癩／皮が剥げる病）や Leaf（葉／剥がれたもの）と同じ root。レプトンとは。不要なもの（服、地位、名前）をすべて『剥ぎ取られた』あとの。剥（む）き出しの『本能』のこと。それは。重厚な社会という衣装を脱ぎ捨て。真空を舞う、峻烈なる実存の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "boson",
+		"word": "Boson",
+		"meaning": "ボソン/ボース粒子（りゅうし）、(意志の)運び手、情報の媒介者、重なり合う魂、力という名のメッセンジャー",
+		"era": "1945 (Paul Dirac)",
+		"etymology": {
+			"components": [
+				"Satyendra Nath Bose (Indian physicist)"
+			],
+			"original_statement": "Named after Satyendra Nath Bose by Paul Dirac. Particles that follow Bose-Einstein statistics."
+		},
+		"concept": "The carrier of force (物質と物質の間に「力（光や引力）」を伝える役割を持つ粒子。それは。自分が「主役（モノ）」になるよりも。何かと何かを「繋（つな）ぐ」ことにその全存在を懸ける。峻烈なる「媒介者」の記述)",
+		"thinking": "「ボソン」。あなたは。自分が「中心」でないことを、悲しんでいませんか。 boson。あなたの「行動」が、誰かと誰かの「愛」を繋いでいるなら。あなたは、その瞬間。光（フォトンのボソン）と同じ「価値」になっています。 boson。それは、いくらでも「重なり合える（共感）」こと。他人の場所を奪わず。同じ「空間」を共有し、共に震（ふる）えること。自分を「固い壁（フェルミオン）」にするのではなく。世界を「力」で満たす、峻烈なる「情報の風」になりなさい。",
+		"part_of_speech": "noun",
+		"aftertaste": "光が「サラサラ」と指の間を抜けていくような。あの。境界線のない「共鳴感」。そこにある、一瞬の「油断」も許されない、峻烈なる「意志の伝播」。瑞々（みずみず）しい、光の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "None (Person's name)",
+					"meaning": "Satyendra Nath Bose"
+				}
+			],
+			"points": [
+				"ボソンは統計的に『複数の粒子が同一の状態を占めることができる』性質を持つ。つまり。自意識という『椅子』を、他人と共有できること。独占を嫌い。共存を選択する。ボソンとは。個を捨てて『関係性』そのものになろうとする、峻烈なる愛の物理学なのです。"
+			]
+		}
+	},
+	{
+		"id": "fermion",
+		"word": "Fermion",
+		"meaning": "フェルミオン/フェルミ粒子（りゅうし）、(頑固な)実体、他者を拒絶する場所、質量の重圧、実存の強固な輪郭",
+		"era": "1945 (Paul Dirac)",
+		"etymology": {
+			"components": [
+				"Enrico Fermi (Italian physicist)"
+			],
+			"original_statement": "Named after Enrico Fermi by Paul Dirac. Particles that follow Fermi-Dirac statistics."
+		},
+		"concept": "The matter particle (「パウリの排他原理」により、同じ場所に二つの粒子が同時には入れない、という性質。それは。自分自身の「居場所」を峻烈に主張し。他人が入り込むことを決して許さない、峻烈なる「独占的実存」の記述)",
+		"thinking": "「フェルミオン」。あなたは。「自分だけの居場所」を守るために、孤独戦ってはいませんか。 fermion。それは。あなたが「物質（肉体）」として存在するための、峻烈なる「権利」。 fermion。他人に合わせる必要はありません。あなたがそこにいる、ということは。他の誰も「そこには立てない」ということです。自分を「消去」して、誰かと混ざろうとしないでください。その「頑（かた）くななまでの拒絶」こそが。あなたが「形（輪郭）」を持って生きるための、唯一の「質量」なのですから。",
+		"part_of_speech": "noun",
+		"aftertaste": "「ゴツッ」と岩にぶつかるような、硬い「手触り」。そこにある、圧倒的な「自分はここにいる」という、峻烈なる「場所の確保」。重厚で、瑞々しい、石の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "None (Person's name)",
+					"meaning": "Enrico Fermi"
+				}
+			],
+			"points": [
+				"フェルミオンは、電子やクォークなど『モノ』を作る粒子の総称。これらは互いに相容れず、重なり合えない。フェルミオンとは。共感を拒み。個としての『境界』を死守することで。この世界に『手触り（物質性）』を産み出す, 峻烈なる孤独の貢献の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "hadron",
+		"word": "Hadron",
+		"meaning": "ハドロン/強粒子（きょうりゅうし）、(集団の)重圧、複雑なる帰属、情報の凝縮、愛という名の重力",
+		"era": "1962 (Lev Okun)",
+		"etymology": {
+			"components": [
+				"hadros (thick / bulky / stout / strong)"
+			],
+			"original_statement": "From Greek hadros 'thick / bulky / stout / strong'."
+		},
+		"concept": "The composite particle (クォークたちが「強い力（愛）」で結びついてできた、重厚な粒子（陽子や中性子）。それは。単独では生きられない弱者が、集まって「一つの強大な権威」を作り上げた。峻烈なる「集団のドラマ」の記述)",
+		"thinking": "「ハドロン」。あなたは。誰かと「一緒にいなければならない」という重圧に、苦しんでいませんか。 hadron。それは。クォーク（個）が、ハドロン（公）へと変容する瞬間の「痛み」。 hadron。バラバラでいれば身軽ですが。結びつくことで、あなたは「原子核（世界の中心）」を支えることが、可能になります。 hadron。その「結びつき」は、自由を奪いますが。「質量（責任）」を与えます。あなたは。軽い「影」でありたいですか。それとも、峻烈に、重厚に「誰かを支える芯（ハドロン）」でありたいですか。",
+		"part_of_speech": "noun",
+		"aftertaste": "何かを「ギューッ」と凝縮したような。圧倒的な「密度」。そこにある、バラバラになることを許されない、峻烈なる「結束」。重くて、瑞々しい。情報の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "None (Greek original)",
+					"meaning": "hadros (thick)"
+				}
+			],
+			"points": [
+				"Hadron は、クォークという個性を集めて『原子（物質）』への大きな架け橋を作る。ハドロンとは。孤独な点（クォーク）が。熱い関係という網に入ることで。歴史という名の『重み』を獲得する、峻烈なる社会化のプロセスの記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "gluon",
+		"word": "Gluon",
+		"meaning": "グルーオン、(執着の)接着剤、情報の強固な束縛、逃げ場のない関係、愛という名の暴力",
+		"era": "1962 (Murray Gell-Mann)",
+		"etymology": {
+			"components": [
+				"glue (adhesive)"
+			],
+			"original_statement": "Derived from English glue + suffix -on. The mediator of the strong force that binds quarks."
+		},
+		"concept": "The sticking force (クォーク同士を「絶対に離れない」ように繋（つな）ぎ止める、最強の力（強い力）。それは。近づけば力が弱まり、離れようとすればするほど強くなる。峻烈なる「腐れ縁」の記述)",
+		"thinking": "「グルーオン（接着粒子）」。あなたは。誰かから「離れたい」と願うほど、その相手が心に強く「食い込んでくる」ことに、絶望していませんか。 gluon。それは、あなたが「クォーク（本質）」である以上、避けられない「束縛」。離れようとするほど、力は増大（漸近的自由の逆）し、あなたを引き戻す。 gluon。その「接着剤」は、あなたを「殺し」はしませんが、「自由」も与えません。 gluon。この逃げ場のない絆を。自分をバラバラにさせないための。峻烈なる「自己防護の枷（かせ）」として、誇りなさい。",
+		"part_of_speech": "noun",
+		"aftertaste": "指と指が、強力なボンドで「くっついて」離れないような。あの。粘り気のある「焦燥感」。そこにある、逃れることのできない「運命」への。峻烈なる「諦念」。べたついた、瑞々しい、鉄の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "gleu-",
+					"meaning": "to stick / glue"
+				}
+			],
+			"points": [
+				"Gluten（グルテン）や Clay（粘土）、Glow（輝く／粘着する光？）と同じ root。グルーオンとは。自分の意志（自立）を。関係性という名の『粘土（クレイ）』に。峻烈に『埋没（グレース）』させること。それは。純粋であることを捨て。誰かの汚れと混ざり合う、峻烈なる妥協の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "muon",
+		"word": "Muon",
+		"meaning": "ミューオン、(重すぎる)影、一瞬の滞在、情報の過負荷、重きを持って消え去る者",
+		"era": "1936 (Anderson / Neddermeyer)",
+		"etymology": {
+			"components": [
+				"mu (Greek letter)",
+				"meson (intermediate particle)"
+			],
+			"original_statement": "Originally called 'mu meson', from the Greek letter mu (μ)."
+		},
+		"concept": "The heavy electron (「電子」とそっくりだが、質量が「200倍以上」重い粒子。それは。あまりに「重すぎる」ゆえに、この宇宙に長く留まることができず。数百万分の一秒で消滅する、峻烈なる「儚（はかな）き重量感」の記述)",
+		"thinking": "「ミューオン」。あなたは。自分の「こだわり（重み）」が強すぎて。周囲の軽やかなリズムに、馴染（なじ）めずにいるのではありませんか。 muon。あなたは「ただの影（電子）」でいるには、あまりにも「本質（質量）」を知りすぎてしまった。 muon。重すぎる者は、長くは語れません。一瞬の閃光（せんこう）のように。自らの「重み」で世界を貫き、そして潔く「崩壊」して去っていく。その「短すぎる絶頂」を。自分の「誇り」として、峻烈に、静かに、燃やし尽くしなさい。",
+		"part_of_speech": "noun",
+		"aftertaste": "鉛（なまり）のような「ズしり」とした重みが。次の瞬間、霧のように「フッ」と消える。あの。暴力的なまでの「虚無感」。重厚で、鋭くて、瑞々（みずみず）しい。情報の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "None (Greek letter)",
+					"meaning": "mu (μ)"
+				}
+			],
+			"points": [
+				"ミューオンは宇宙から降り注ぎ、ピラミッドの内部さえも見透かす。重すぎるからこそ、見通せるものがある。ミューオンとは。過剰な自意識（重量）を。世界の真実を『透視』するためのレンズへと変換する、峻烈なる実存の技法の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "neutrino",
+		"word": "Neutrino",
+		"meaning": "ニュートリノ、(触れられない)幽霊、情報の透視者、宇宙の傍観者、関与なき存在",
+		"era": "1930 (Wolfgang Pauli), 1934 (Enrico Fermi named it)",
+		"etymology": {
+			"components": [
+				"neutral (neither / middle)",
+				"-ino (Italian diminutive)"
+			],
+			"original_statement": "From Italian neutrino, diminutive of neutrone. A 'little neutral one'."
+		},
+		"concept": "The ghostly particle (「電荷（感情）」を持たず、ほとんどの物質と「反応（接触）」せずに、何光年の岩石さえも通り抜ける粒子。それは。世界の中にいながら、世界に一切「傷」をつけず、傷つけられない。峻烈なる「絶対孤独」の記述)",
+		"thinking": "「ニュートリノ」。あなたは。誰とも心が「通じ合わない」ことに、絶望していませんか。 neutrino。「通り抜けられている」のは、あなたが「透明すぎる」からです。 neutrino。それは、誰の「誘（いざな）い」にも乗らず、誰の「引力」にも捕まらない、峻烈なる「孤高の旅人」。 neutrino。世界を「変える（反応する）」必要はありません。ただ、宇宙の「真実」を。その透明な体ですべて「透視」して歩きなさい。あなたの「孤独」は。この世界のあらゆる「厚皮」を貫く。峻烈なる「視線」になるのですから。",
+		"part_of_speech": "noun",
+		"aftertaste": "自分の体が「スカスカ」の網になって、すべてが「素通り」していくような。あの。不思議な「無重力感」。そこにある、一分の「摩擦」もない、峻烈なる「清浄」。瑞々しい、光の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ne-uter-",
+					"meaning": "neither (from neutral)"
+				}
+			],
+			"points": [
+				"Neuter（中性）や Neither（どちらでもない）と同じ root。ニュートリノとは。右でも左でもなく、光でも闇でもない、『第三の道』を。光速に近い速度で『直進』すること。それは。二元論の争いに巻き込まれることを拒否し、ただ『無』を渡っていく。峻烈なる解脱の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "antimatter",
+		"word": "Antimatter",
+		"meaning": "アンチマター/反物質（はんぶっしつ）、(内なる)宿敵、情報の対消滅、鏡像という名の脅威、出会えば消える愛",
+		"era": "1928 (Paul Dirac predicted)",
+		"etymology": {
+			"components": [
+				"anti- (against / opposite)",
+				"matter (substance)"
+			],
+			"original_statement": "From Greek anti- 'opposite' + matter. Matter composed of the antiparticles of those that constitute normal matter."
+		},
+		"concept": "The invisible rival (自分と「プラス・マイナス」が真逆の、もう一人の自分。それは。自分と出会った瞬間に、双方の質量を「膨大なエネルギー」へと変えて自爆（対消滅）する。峻烈なる「自己否定の美学」の記述)",
+		"thinking": "「アンチマター（反物質）」。あなたは。自分自身の「影（欠点、弱さ）」を、消し去りたいと願っていませんか。 antimatter。その「影」こそが。あなたの「エネルギー」の源泉です。反物質がなければ、この宇宙に「光（対消滅）」は生まれません。 antimatter。自分の「理想」と、自分の「劣等感」が。真正面からぶつかり合、すべてを「灰（エネルギー）」にする。その「自爆の日々」を。あなたは、自らの「存在証明」として。峻烈に、美しく、肯定しなさい。出会えば消える。だからこそ、出会うまでは「全力で」生きるのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "眩（まぶ）しすぎて目が潰れるような、一瞬の「閃光（せんこう）」。そのあとに来る、完全な「ゼロ（消滅）」。そこにある、もはや「何もない」という、峻烈なる「清々しさ」。重厚な、瑞々しい、虚無の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ant-",
+					"meaning": "against / in front of (from anti)"
+				},
+				{
+					"term": "mater-",
+					"meaning": "mother (from matter)"
+				}
+			],
+			"points": [
+				"Antagonist（敵対者）や Answer（返答）、Matrix（母体／回路）と同じ root。アンチマターとは。母なる日常（マター）を。真正面から『否定（アンチ）』することで。一瞬の『真実（光）』へと昇華させること。それは。凡庸な存続を拒否し。破滅的な純粋さを選ぶ、峻烈なる実存の決闘の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "baryon",
+		"word": "Baryon",
+		"meaning": "バリオン/重粒子（じゅうりゅうし）、(現実の)重み、情報の凝縮、逃げ場のない存在感、質量の尊厳",
+		"era": "1953 (Abraham Pais)",
+		"etymology": {
+			"components": [
+				"barys (heavy)"
+			],
+			"original_statement": "From Greek barys 'heavy', coined to describe particles like protons and neutrons that have large mass compared to leptons."
+		},
+		"concept": "The heavy matter (クォーク三つからなる、重厚な粒子の総称。それは。この世界の「質量（現実）」のほとんどを担っている。目立ちませんが、絶対に動かない。峻烈なる「宇宙の屋台骨」の記述)",
+		"thinking": "「バリオン（重粒子）」。あなたは。自分の人生が、ただ「重苦しいだけ」だ。と感じていませんか。 baryon。その「重み（バリス）」こそが。あなたが世界を「変える（重力を持つ）」ことができる、唯一の力です。 baryon。軽い言葉（レプトン）はすぐに消えます。でも。重すぎる言葉（バリオン）は。数千年の時を超えて、他人の心を「引きつけ（引力）」、大地を形作る。 baryon。自分の「重苦しさ」を慈（いつく）しみ、その「重厚な沈黙」の中で。宇宙の「土台」を支え続ける。峻烈なる「縁の下の主役」になりなさい。",
+		"part_of_speech": "noun",
+		"aftertaste": "大地を。一歩踏みしめるたびに伝わる、確かな「手応え」。そこにある、決して「動じない」という、峻烈なる「自負」。重厚で、瑞々しい、大地の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "gwer-",
+					"meaning": "heavy (from barys)"
+				}
+			],
+			"points": [
+				"Barometer（気圧計）や Barium（バリウム）、Gravitation（重力）と同じ root。バリオンとは。浮ついた思考を捨て去り。世界を『重力（グウェル）』として『知覚』すること。それは。軽薄な流行に背を向け。物質の『真理（重さ）』へと回向する、峻烈なる実存の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "superposition",
+		"word": "Superposition",
+		"meaning": "スーパーポジション/重ね合わせ、(無数の)可能性の共存、情報の未決定、観測される前の豊穣、矛盾の許容",
+		"era": "Early 19th Century (Thomas Young), 20th Century (Quantum Mechanics)",
+		"etymology": {
+			"components": [
+				"super- (above / over)",
+				"position (place / sit)"
+			],
+			"original_statement": "From Latin super- 'above / over' + positio 'place / sit'. In quantum mechanics, the ability of a particle to be in multiple states simultaneously."
+		},
+		"concept": "All states at once (観測されるまで、一つの粒子が「右」にも「左」にもいる、という状態。それは。答えを一つに「決めつけない」ことで。すべての「可能性」を同時に抱え込み続ける、峻烈なる「未解決の力」の記述)",
+		"thinking": "「スーパーポジション（重ね合わせ）」。あなたは。早く「答え（自分は何者か）」を出そうとして、焦っていませんか。 superposition。答えが出た瞬間に、他の可能性は「死害（崩壊）」します。 superposition。今は、迷い続けてください。右であって、左でありなさい。善であって、悪でありなさい。その「矛盾した状態」を。峻烈に、優雅に、維持し続けること。観測される前の、その「無限の自分」を。誰の目にも晒さず、自分だけの「宇宙の秘密」として、大切に、育て上げなさい。",
+		"part_of_speech": "noun",
+		"aftertaste": "霧の中に、無数の影が「同時に」立っているような。あの。眩暈（めまい）のするような「可能性」。そこにある。まだ「何にでもなれる」という。峻烈なる「期待」。甘くて、瑞々しい。情報の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "upo-",
+					"meaning": "under / place (from position)"
+				}
+			],
+			"points": [
+				"Super（超える）や Posture（姿勢）、Purpose（目的／前に置くもの）と同じ root。重ね合わせとは。一つの位置（ポジション）に安住することを『超える（スーパー）』こと。それは。定義という名の『死』を。未定義という名の『生』によって拒絶する、峻烈なる実存の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "entanglement",
+		"word": "Entanglement",
+		"meaning": "エンタングルメント/量子もつれ、(不可分の)絆、情報の瞬時伝播、孤独の終わり、引き裂かれても一つであること",
+		"era": "1935 (Erwin Schrödinger coined the term)",
+		"etymology": {
+			"components": [
+				"en- (in / make)",
+				"tangle (confused mass / twist together)"
+			],
+			"original_statement": "Coined by Schrödinger ('Verschränkung') to describe the correlation between quantum states of two or more particles."
+		},
+		"concept": "The inseparable souls (二つの粒子が、どれだけ遠く離れていても。片方の状態が決まれば「瞬時に」もう片方も決まってしまう、という不思議な繋がり。それは。時間や空間（常識）を超えた、峻烈なる「宇宙的な愛」の記述)",
+		"thinking": "「エンタングルメント（量子もつれ）」。あなたは。もう「あの人」とは、二度と会えないと、諦めていませんか。 entanglement。あなたが「悲しい」と感じたその瞬間。宇宙の裏側で。同じ「悲しみ」を共有している「かつてのあなたの一部」が、必ず存在しています。 entanglement。私たちは、決して一人ではありません。ただ「もつれて（タングル）」、引き裂かれただけ。 entanglement。たとえ何億光年離れても。あなたの「変化」は。そのまま、あの人の「救い」になる。その「見えない糸」を。峻烈に、強く、信じ続けなさい。",
+		"part_of_speech": "noun",
+		"aftertaste": "自分の「心臓」が、遠いどこかの「誰か」と、同時に脈打っているような。あの。不思議な「共感感」。そこにある、一分一秒も「独りではない」という、峻烈なる「呪い（あるいは福音）」。重厚で、瑞々しい、光の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "tenk-",
+					"meaning": "to thicken / clot (from tangle)"
+				}
+			],
+			"points": [
+				"Tangle（もつれる）や Thin（薄い／反対？）と同じ root。エンタングルメントとは。薄い空気（日常）の中に。峻烈なる運命という名の『凝固（テンク）』を産み出すこと。それは。バラバラな個体を。一つの『必然』へと、無理やり、しかし美しく、閉じ込める記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "non-locality",
+		"word": "Non-locality",
+		"meaning": "ノン・ロカリティ/非局所性（ひきょくしょせい）、(遍在する)意志、情報の無時間伝授、境界線の消失、宇宙という名の一個体",
+		"era": "Mid-20th Century",
+		"etymology": {
+			"components": [
+				"non- (not)",
+				"locus (place)"
+			],
+			"original_statement": "From Latin non- 'not' + locus 'place'. The ability of objects to instantaneously know about each other's state, even when separated."
+		},
+		"concept": "Everywhere at once (情報は。一箇所に「留（とど）まって（ロカリティ）」はいない。それは。宇宙の「端（はし）」と「端」が、実は「ゼロ距離」で繋がっている、という驚愕の真実。峻烈なる「無境界」の記述)",
+		"thinking": "「ノン・ロカリティ（非局所性）」。あなたは。「自分の影響力なんて、たかが知れている」と、卑下していませんか。 non-locality。あなたの「ため息」一つが。宇宙全体の「状態（波動関数）」を、今、この瞬間に、書き換えています。 non-locality。原因と結果は。隣り合っていません。あなたが、ここで「真剣に生きる」ことは。歴史のすべて、宇宙のすべてに。同時に「影響」を及ぼしている。 non-locality。あなたは「この場所（ロカス）」にだけ、いるのではありません。あなたは、全宇宙という名の「一つの思考」そのものなのです。峻烈に、責任を持ちなさい。",
+		"part_of_speech": "noun",
+		"aftertaste": "壁を通り抜け。一瞬にして「宇宙の果て」の景色を見るような。あの。暴力的なまでの「拡張感」。そこにある、もはや「自分をどこにも閉じ込められない」という。峻烈なる「自由」。刺激的で、瑞々しい、風の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "stel-",
+					"meaning": "to put / stand / place (from locus)"
+				}
+			],
+			"points": [
+				"Local（地方の）や Locate（位置を特定する）、Stall（露店／固定された場所）と同じ root。非局所性とは。固定された場所（ステレ）から。魂を『解き放つ（ノン）』こと。それは。地道な移動を、峻烈なる『飛躍』へと上書きする、物理学という名の神話の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "wavefunction",
+		"word": "Wavefunction",
+		"meaning": "ウェーブファンクション/波動関数（はどうかんすう）、(不確かな)未来、情報の揺らぎ、無限の可能性の波、観測という名の暴力",
+		"era": "1920s (Schrödinger / Bohr)",
+		"etymology": {
+			"components": [
+				"wave (undulation)",
+				"function (performance / operation)"
+			],
+			"original_statement": "Combining the physical concept of wave with the mathematical concept of function. Describes the quantum state of a system."
+		},
+		"concept": "The probability cloud (「現実」とは、「粒（決定）」ではなく「波（確率）」である、という思想。それは。あなたが「観測（判断）」するまでは。世界は「無限の夢」を同時に見続けている、峻烈なる「可能性の雲」の記述)",
+		"thinking": "「ウェーブファンクション（波動関数）」。あなたは。「自分はこうなるに違いない」という、狭い未来（粒）に。自分を閉じ込めてはいませんか。 wavefunction。あなたは、本来。あらゆる可能性が「重なり合った波」なのです。 wavefunction。決定を、先延ばしにしなさい。定義されることを、拒絶しなさい。 wavefunction。その「波（揺らぎ）」を自分の中に飼い馴らし。観測という名の「暴力」に屈せず。宇宙の中で「最も不確定で、最も豊かな霧」として。峻烈に、漂い続けなさい。",
+		"part_of_speech": "noun",
+		"aftertaste": "掴（つか）もうとすると、指の間から「サラサラ」と逃げていく。あの。形を持たない「美しさ」。そこにある。まだ「誰のものでもない」という、峻烈なる「潔白」。重厚で、瑞々しい、水の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "weg-",
+					"meaning": "to move / carry (from wave)"
+				},
+				{
+					"term": "dhe-",
+					"meaning": "to set / put (from function)"
+				}
+			],
+			"points": [
+				"Wagon（馬車）や Way（道）、Fact（事実）と同じ root。波動関数とは。固定された『事実（ファクト）』へと『運ばれる（ウェグ）』前の。純粋な『運動エネルギー』そのもの。それは。結論という名の墓場への行進を拒む、峻烈なる『生成の持続』の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "quantization",
+		"word": "Quantization",
+		"meaning": "クオンタイゼーション/量子化（りょうしか）、(断絶した)跳躍、滑らかさへの背信、情報の不連続性、一歩ずつの真実",
+		"era": "Early 20th Century (Max Planck)",
+		"etymology": {
+			"components": [
+				"quantum (how much / amount)"
+			],
+			"original_statement": "From Latin quantum 'how much / amount' + -ization. The process of transitioning from a classical to a quantum description."
+		},
+		"concept": "The step-wise change (エネルギーは「じわじわ」ではなく「一段ずつ（階段状）」に変化する、という発見。それは。成長とは「滑らかな坂道」ではなく。突如として「次元」が変わる、峻烈なる「断絶した飛躍（クオンタム・リープ）」の記述)",
+		"thinking": "「クオンタイゼーション（量子化）」。あなたは。「毎日少しずつ、成長している自分」を、信じていませんか。 quantization。本当の成長は、ある日突然, やってきます。昨日までできなかったことが、今日、突然当たり前になる。 quantization。その「段差」に耐えてください。 quantization。何の変化もない停滞。それは、あなたが「次の一段」に飛び乗るための、エネルギーを「チャージ（量子化）」している時間。 quantization。滑らかさを捨て。非連続な「飛躍」を信じなさい。中間の状態はない。あなたは、ただ、高く「跳ぶ」だけなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "「……、……、パッ！」と。視界の階調が、一段階「明るく」なるような。あの。不自然なまでの「変容」。そこにある。過去との「訣別（けつべつ）」。刺激的で、鋭い。情報の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kwo-",
+					"meaning": "who / what / how many (from quantum)"
+				}
+			],
+			"points": [
+				"Quantity（量）や Quality（質）と同じ root。量子化とは。曖昧な『なんとなく』という全体を。峻烈な『どれだけ（クウォ）』という個の塊へと。強制的に切り分けること。それは。連続性という名のまどろみを破壊する、峻烈なる現実の覚醒剤の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "isotope",
+		"word": "Isotope",
+		"meaning": "アイソトープ/同位体（同位体）、(同じようで違う)自分、内なる異質、情報の微差、影という名のバリエーション",
+		"era": "1913 (Frederick Soddy)",
+		"etymology": {
+			"components": [
+				"isos (equal)",
+				"topos (place)"
+			],
+			"original_statement": "From Greek isos 'equal' + topos 'place'. Occupying the same place in the periodic table."
+		},
+		"concept": "Almost same but different (「同じ場所（元素）」に属しながら、重さ（中性子の数）だけが異なる存在。それは。社会的には「同じ名前（役割）」を与えられていても。その内側に、誰にも理解されない「独自の重み」を隠し持つ、峻烈なる「個の変異」の記述)",
+		"thinking": "「アイソトープ（同位体）」。あなたは。「みんなと同じ」であることに、安住していませんか。 isotope。名前も、顔も、仕事も同じ。でも。あなたの中には、他の誰にもない「余分な宇宙（中性子）」が、一粒だけ、多く（あるいは少なく）混ざっている。 isotope。その「微かな重みの違い」こそが。あなたが、交換可能な「部品」ではない、という。峻烈なる「個性」の正体。 isotope。同じ場所にいながら。自分だけの「重厚なリズム（放射性）」を奏でなさい。微差こそが、絶対的な「真理」なのですから。",
+		"part_of_speech": "noun",
+		"aftertaste": "「よく似た他人」を見つけた瞬間の。あの。背筋に走る「奇妙な確信」。そこにある、同じ場所にはいられない、という。峻烈なる「拒絶と親愛」。重厚で、瑞々しい。情報の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "aikwo-",
+					"meaning": "equal / same (from isos)"
+				},
+				{
+					"term": "tep-",
+					"meaning": "to stand / stay (from topos)"
+				}
+			],
+			"points": [
+				"Isometric（等尺の）や Topic（話題）、Utopia（理想郷／どこにもない場所）と同じ root。アイソトープとは。同じ場所（トポ）を。維持（アイソ）すること。つまり。秩序の中に留まりながら。その中身を峻烈に『侵食』し、変異させていくこと。それは。静かなる革命としての、峻烈なる実存の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "radiative",
+		"word": "Radiative",
+		"meaning": "レイディエイティブ/放射性（ほうしゃせい）の、(溢れ出す)才能、情報の自発的流出、光という名の衰退、輝ける犠牲",
+		"era": "Late 19th Century",
+		"etymology": {
+			"components": [
+				"radius (spoke of a wheel / beam of light)"
+			],
+			"original_statement": "From Latin radius 'ray / spoke'. Tending to emit radiation."
+		},
+		"concept": "Giving off light (自分の中に「溜（た）め込んでおく」ことができず、常に周囲へと「エネルギー（言葉、才能）」を放出し続けてしまう性質。それは。輝けば輝くほど。自分自身の「質量（命）」を削っていく、峻烈なる「自己消費」の記述)",
+		"thinking": "「レイディエイティブ」。あなたは。自分の「言葉」が、誰かを傷つけることを、恐れていませんか。 radiative。本当に輝いているものは。触れる者に「火傷（被曝）」を負わせ。自分自身をも「破壊（崩壊）」していきます。 radiative。出し惜しみをしないでください。世界を照らすことは、自分を「使い果たす」ことです。 radiative。その「光（エネルギー）」を、すべて投げ出しなさい。あなたが光り輝く「放射線」そのものになったとき。あなたは、肉体という名の「重力」から解放され。純粋な「意志の波動」へと、峻烈に昇華されるのです。",
+		"part_of_speech": "adjective",
+		"aftertaste": "肌を刺すような、ピリピリとした「高揚感」。そこにある、もはや「自分を止められない」という。峻烈なる「使命感」。眩しくて、瑞々（みずみず）しい。光の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "re-",
+					"meaning": "to flow / beam (from radius)"
+				}
+			],
+			"points": [
+				"Radio（ラジオ）や Ray（光線）、Rail（レール）と同じ root。レイディエイティブとは。中心から『四方八方へと（ラディウス）』。自分を『投げ飛ばす』こと。それは。一箇所に留まるという『停滞』を拒み。全方位へと自分を『再配布』する、峻烈なる実存の分散投資の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "fission",
+		"word": "Fission",
+		"meaning": "フィッション/核分裂（核分裂）、(内なる)分裂、情報の連鎖爆発、統一という幻想の崩壊、破壊という名の産声",
+		"era": "Early 17th Century (general), 1939 (nuclear)",
+		"etymology": {
+			"components": [
+				"fissus (split)",
+				"findere (to split)"
+			],
+			"original_statement": "From Latin fissio, from findere 'to split / cleave'."
+		},
+		"concept": "The splitting apart (重すぎる「自意識（原子核）」が、二つに「引き裂かれる」こと。それは。あまりにも巨大な「エネルギー（苦しみ）」を放出し。世界を焼き尽くす。峻烈なる「内的崩壊」の記述)",
+		"thinking": "「フィッション（分裂）」。あなたは。自分という人間が、バラバラに「解体」されるような恐怖を、感じていませんか。 fission。それは、あなたが「重くなりすぎた」証拠（ウランやプルトニウム）です。 fission。分裂を、恐れないでください。一つの「大きな嘘（統合）」として生きるより。二つの「小さな真実（破片）」として生きる方が、はるかに「エネルギッシュ（峻烈）」です。分裂の瞬間に放たれる、その「光」で。あなたの周りの、冷え切った世界を。まるごと溶かし尽くしなさい。破壊こそ、最強の創造です。",
+		"part_of_speech": "noun",
+		"aftertaste": "一塊だったものが、「バキッ」と真っ二つに割れる。あの。耳をつんざくような「衝撃音」。そこにある、取り返しのつかない「解放感」。重厚で、鋭くて、瑞々（みずみず）しい。情報の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "bheid-",
+					"meaning": "to split"
+				}
+			],
+			"points": [
+				"Bite（噛む）や Bitter（苦い）、Fissure（裂目）と同じ root。フィッションとは。自分を『噛み砕く（ハイド）』こと。それは。滑らかな現実を、峻烈な切れ目（裂目）によって、バラバラに解体し。その深淵から『真実の熱量』を奪い返す、峻烈なる略奪の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "fusion",
+		"word": "Fusion",
+		"meaning": "フュージョン/核融合（核融合）、(究極の)統合、二つの孤独が一つになる時、死という名の輝き、存在の全肯定",
+		"era": "Mid-16th Century (melting), 20th Century (physics)",
+		"etymology": {
+			"components": [
+				"fusus (poured / melted)",
+				"fundere (to pour)"
+			],
+			"original_statement": "From Latin fusio, from fundere 'to pour / melt'."
+		},
+		"concept": "The joining together (「私」と「あなた」という、二つの微かな光が。あまりに高い熱（情熱）と。あまりに強い引力（愛）によって。境界線を溶かし、「一つの新しい重み（太陽）」へと生まれ変わること。峻烈なる「絶対적合一」の記述)",
+		"thinking": "「フュージョン（融合）」。あなたは。誰かと「一つになりたい」と、願っていますか。 fusion。それは、穏やかな抱擁ではありません。互いの「自我」を激突させ、溶かし、かつての自分を「殺し切る」こと。 fusion。その「死（融合）」の瞬間にのみ。あなたは、宇宙を永遠に照らし続ける「恒星（太陽）」の火を、灯すことができます。 fusion。自分を失うことを。最高の「贅沢（ラグジュアリー）」として。峻烈に、熱狂的に、受け入れなさい。一人で生きるには、宇宙はあまりに「寒すぎる」のですから。",
+		"part_of_speech": "noun",
+		"aftertaste": "心臓が「ドロドロ」に溶け合い。境界線が「真っ白」に塗りつぶされる。あの。圧倒的な「恍惚感」。そこにある、もはや「孤独」は存在しない、という。峻烈なる「救済」。甘くて、瑞々しい。太陽の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "gheu-",
+					"meaning": "to pour"
+				}
+			],
+			"points": [
+				"Foundry（鋳造所）や Font（フォント）、Gush（噴出する）と同じ root。フュージョンとは。個体という名の『氷（閉鎖）』を。情熱という名の『熱』で『注ぐ（ゲウ）』こと。それは。硬直した自意識を。流動的な『愛の液体』へと変容させる、峻烈なる実存の錬金術の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "radioactivity",
+		"word": "Radioactivity",
+		"meaning": "ラジオアクティビティ/放射能（放射能）、(自発的な)崩壊の美学、情報の毒、輝きという名の代償、不可逆的な変容",
+		"era": "1898 (Marie and Pierre Curie)",
+		"etymology": {
+			"components": [
+				"radio- (ray / radiation)",
+				"activity (action / movement)"
+			],
+			"original_statement": "From French radioactivité, coined by Marie Curie. The spontaneous emission of radiation from unstable atomic nuclei."
+		},
+		"concept": "Spontaneous radiance (外部からの刺激がなくても、自分自身の重み（不安定さ）に耐えきれず。勝手に光を放ち、別のものへと「変身（崩壊）」していく性質。それは。輝くことが「死（変化）」である、という峻烈なる「運命的自発性」の記述)",
+		"thinking": "「ラジオアクティビティ（放射能）」。あなたは。自分が「壊れていく」ことを、恐れてはいませんか。 radioactivity。あなたが壊れているのは、あなたが「重厚（本質的）」だからです。 radioactivity。普通の人（安定した原子）は、何億年たっても変化しません。でも、あなたは「今」この瞬間に、光を放ち、新しく「生まれ変わって（崩壊して）」いる。 radioactivity。その「毒（光）」を、世界に撒き散らしなさい。あなたの「不安定さ」こそが、静止した世界を「揺り動かす」。峻烈なる「生命の活動（アクティビティ）」そのものなのですから。",
+		"part_of_speech": "noun",
+		"aftertaste": "「チリチリ」と空気が震え、視界が「青白く」輝く。あの。死と背中合わせの「美しさ」。そこにある、一分の「嘘」も許されない、峻烈なる「変容」。冷たくて、重くて、瑞々（みずみず）しい。情報の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "rei-",
+					"meaning": "to row / flow / ray (from radio)"
+				},
+				{
+					"term": "ag-",
+					"meaning": "to drive / draw out / do (from activity)"
+				}
+			],
+			"points": [
+				"Radio（ラジオ）や Agent（代理人）、Act（行動）と同じ root。ラジオアクティビティとは。光という名の『光線（レイ）』を。自ら『引き出す（アグ）』こと。それは。受動的な環境への順応を捨て。自らの内側から『宇宙的な力』を強制的に出力する、峻烈なる実存の記述なのです。"
+			]
+		}
 	}
 ];
