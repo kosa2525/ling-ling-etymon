@@ -219886,5 +219886,563 @@ const WORDS = [
 				"Plate（皿）や Plain（平原）と同じ root。存在の『平たさ（基本）』こそが、すべての『高さ』を可能にするのです。"
 			]
 		}
+	},
+	{
+		"id": "etymon",
+		"word": "Etymon",
+		"meaning": "語源、真の意味、真実の形、言葉の種",
+		"era": "Mid-16th Century",
+		"etymology": {
+			"components": [
+				"etymos (true / real)"
+			],
+			"original_statement": "From Greek etymon 'the true sense of a word according to its origin', neuter of etymos 'true'."
+		},
+		"concept": "The seed of truth (時代とともに「意味（フィーリング）」がどれほど歪（ゆが）められようとも、その核心（コア）に潜（ひそ）んでいる、不変で、最も「真実(etymo-)」に近い、原初の言葉の形)",
+		"thinking": "「エチュモン（語源）」は、単なる知識ではありません。それは、私たちが忘れてしまった「世界との最初の約束」。言葉が生まれた瞬間に宿っていた、純粋で、暴力的なまでの「リアリティ」。エチュモンを探ることは、自分自身が何者（フー）であるかを知るための、最も深い考古学（アーケロジー）なのです。一つの言葉のルーツに触れたとき。あなたは、数千年前の誰かと、全く同じ「驚き（アメイジング）」を分かち合っているのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "古びたコインの汚れを落とした瞬間に現れる、輝く真実の「横顔」。自分が使っている言葉に、これほどの「重み」が宿っていたことを知った時の、研ぎ澄まされた戦慄。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "es-",
+					"meaning": "to be (truth / real)"
+				}
+			],
+			"points": [
+				"Etymology（語源学）そのもののルーツ。言葉の奥に『在る（es-）』ものを探求する、最も誠実な知性の態度です。"
+			]
+		}
+	},
+	{
+		"id": "gramarye",
+		"word": "Gramarye",
+		"meaning": "魔術、呪文、古い文法、知識の魔法、秘術",
+		"era": "Early 14th Century (archaic)",
+		"etymology": {
+			"components": [
+				"grammar (grammar / learning)"
+			],
+			"original_statement": "A variant of grammar, which in the Middle Ages included knowledge of all kinds, including occult and magic."
+		},
+		"concept": "The magic of structure (「文法」を知ることは、世界の「構造」を支配すること。言葉を正しく配置（アサイン）し、現実を書き換えようとする、知的な「呪術（スペル）」)",
+		"thinking": "グラマリー。かつて、読み書きができることは、魔法そのものでした。グラマー（文法）に長（た）けていることは、すなわち、見えない力を操る「魔導師（ウィザード）」であること。あなたが言葉を紡（つむ）ぎ、他者の心を動かすとき。あなたは無意識に、この古い「グラマリー」を実践しています。文法とは、宇宙の「法則（ロゴス）」を記述するための、聖なるアルゴリズムなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "古い革表紙の魔導書を、おそるおそる開いたときの、あの紙の焼けるような匂い。文字（レター）が一つ一つ生き物のように動き出し、世界の色を塗り替えていく、あの不気味で美しい高揚感。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "gerbh-",
+					"meaning": "to scratch (write)"
+				}
+			],
+			"points": [
+				"Grammar（文法）から Glamour（魅力／魔法）が生まれました。知識は、人を『魅了する（キャプティベート）』最強の武器だったのです。"
+			]
+		}
+	},
+	{
+		"id": "parenthesis",
+		"word": "Parenthesis",
+		"meaning": "丸括弧、挿入句、横に置くこと、例外的な空間、余談",
+		"era": "Mid-16th Century",
+		"etymology": {
+			"components": [
+				"para- (beside)",
+				"en- (in)",
+				"tithenai (to place)"
+			],
+			"original_statement": "From Greek parenthesis, from para- 'beside' + en- 'in' + tithenai 'to place'."
+		},
+		"concept": "The secret room (物語の「本筋（メイン）」の「隣(para-)」に、あえて小さな門を「置き(tithen-)」、そこに入る者だけが共有できる「秘密（シークレット）」を語るための、守られた例外的な空間)",
+		"thinking": "パレンテシス（括弧）。そこは、あなたが「本当のこと」を囁（ささや）くための隠れ家です。括弧の中に閉じ込められた言葉は、表向きの論理（ロゴス）からは切り離され、純粋な「本音（ハート）」として機能します。あなたの人生にも、こうした「（ ）」が必要です。義務や目的地とは関係のない、自分だけが大切にしている「横道（サイドウェイ）」。それこそが、実はあなたの魂を救っているのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "二つの弧（アーク）に守られて、ひっそりと佇む。誰にも見つからない、自分だけの「秘密の言葉」。世界が自分を無視して過ぎ去っていく中で、自分だけが持っている「小さな灯火」。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "dhe-",
+					"meaning": "to set / put (from tithenai)"
+				}
+			],
+			"points": [
+				"Thesis（命題）と同じ root。命題の『隣（para）』に、そっと自分の存在を置く、控えめだが力強い自己主張の形です。"
+			]
+		}
+	},
+	{
+		"id": "amphibology",
+		"word": "Amphibology",
+		"meaning": "二義性、曖昧な言い回し、どちらとも取れる不確かな真理",
+		"era": "Late 14th Century",
+		"etymology": {
+			"components": [
+				"amphi- (on both sides)",
+				"ballein (to throw)"
+			],
+			"original_statement": "From Late Latin amphibologia, back-formation from Greek amphibolos 'ambiguous / doubtful / of two kinds', from amphi- 'on both sides' + ballein 'to throw'."
+		},
+		"concept": "The double throw (一つの「言葉（ロゴス）」を、同時に「右と左(amphi-)」の両方へ向けて「投げ(bal-)」、結果としてどちらにも着地させない、知的な「宙吊り」の状態)",
+		"thinking": "アンフィボロジー（二義性）。それは、卑怯（ひきょう）なごまかし（イクイヴォケーション）ではなく。世界というものが本来持っている「複雑さ」を、そのまま言葉にしたものです。世界は「はい」でも「いいえ」でもない、その「両方（アムフィ）」の可能性を孕（はら）んでいます。あなたが、あえて「どちらとも取れる」言葉を放つとき。あなたは、相手に対して「自分の頭で答えを選べ」という、最高度の自由を手渡しているのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "空中に投げられた石が、どちらの手に落ちるか分からない、あの。一瞬の。しかし永遠に続くかのような「可能性」のきらめき。自分の言葉が、宇宙のあらゆる方向に「流動（フロー）」していく感覚。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ambhi-",
+					"meaning": "around / on both sides"
+				},
+				{
+					"term": "gwele-",
+					"meaning": "to throw"
+				}
+			],
+			"points": [
+				"Amphibian（両棲類）と同根。陸と海、言葉と沈黙。その両方で呼吸できる能力を指します。"
+			]
+		}
+	},
+	{
+		"id": "epigraph",
+		"word": "Epigraph",
+		"meaning": "銘文、碑文、(本の巻頭の)引用句、顔に刻むこと",
+		"era": "Early 17th Century",
+		"etymology": {
+			"components": [
+				"epi- (on / upon)",
+				"graphein (to write)"
+			],
+			"original_statement": "From Greek epigraphe 'an inscription', from epigraphein 'to write upon'."
+		},
+		"concept": "The face of truth (ただの「記録」ではなく。何かの「上（表面／ epi-）」に「深く刻み込ま(graph-)」れ。それを見るすべての人に、最初から逃れようのない「真理（ロゴス）」を宣告する、峻烈（しゅんれつ）な顔)",
+		"thinking": "「エピグラフ（銘文）」。それは。物語が始まる前に、あなたが受け取らなければならない「重荷」です。墓石に刻まれた名前、あるいは本の冒頭の一行。それは、過ぎ去った過去が、まだ始まっていない未来（フューチャー）に対して放つ「最後にして最初の命令」。あなたが自分の人生に「一行（エピグラフ）」を刻むとしたら、それはどんな言葉でしょうか。その「刻み」こそが、あなたの「顔（キャラクター）」となるのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "石の冷たい表面に、指先で触れる。刻まれた文字（レター）の凹凸が、自分の魂にそのまま転写されていくような、あの。不変の真理（ドグマ）に出会った時の、静かな戦慄（せんりつ）。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "epi-",
+					"meaning": "near / on / upon"
+				},
+				{
+					"term": "gerbh-",
+					"meaning": "to scratch"
+				}
+			],
+			"points": [
+				"Graph（グラフ）や Grammar（文法）と同じ root。書くことは、本来、柔らかい場所に『傷を付ける（スクラッチ）』ことで、記憶を永遠に留める行為だったのです。"
+			]
+		}
+	},
+	{
+		"id": "colophon",
+		"word": "Colophon",
+		"meaning": "奥付、仕上げ、(最古の写本の)最終の記述、頂点、完成のしるし",
+		"era": "Early 17th Century",
+		"etymology": {
+			"components": [
+				"kolophon (summit / top / finishing touch / crest of a hill)"
+			],
+			"original_statement": "From Greek kolophon 'summit / top / finishing touch'."
+		},
+		"concept": "The peak of logos (坂（物語）を登り詰め。ついに「頂上(koloph-)」に立ち。そこから自分の歩んできた道を「俯瞰（ふかん）」し、完結を「宣言（アサーション）」するための、最後の一筆（タッチ）)",
+		"thinking": "コロフォン。かつて本が「書物（ブック）」として完成したとき。最後の一行に、それは記されました。作り手の名前、日付、そして感謝。それは。単なる「データ」ではなく。物語という名の「山」の頂に立てられた「旗（フラッグ）」。あなたが、今日一日という物語を終えるとき。あなたの心の中に、どんな「コロフォン（完成の一行）」が浮かぶでしょうか。終わることは、頂点に立つことなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "最後のピリオドを打ち、深呼吸とともに筆を置いた、あの。自分が一つの宇宙を「完成させた」という、圧倒的な全能感と。そして、二度と同じ場所には戻れない、という切ない「喪失」。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kel-",
+					"meaning": "to rise / be high"
+				}
+			],
+			"points": [
+				"Column（柱）や Hill（丘）と同根。仕上げとは、最も高い場所に『到達すること』を意味する言葉なのです。"
+			]
+		}
+	},
+	{
+		"id": "marginalia",
+		"word": "Marginalia",
+		"meaning": "余白の書き込み、(中心を外れた)注釈、断片的な思考の記録",
+		"era": "Mid-19th Century (1848)",
+		"etymology": {
+			"components": [
+				"margo (border / edge / margin)"
+			],
+			"original_statement": "From Modern Latin marginalia, neuter plural of marginalis 'of the margin', from Latin margo 'edge'."
+		},
+		"concept": "The edge of truth (公式な「中央（ロゴス）」ではなく。誰も見向きもしない「余白(margo-)」に、こっそりと書き残された、最も人間的で、不遜で、しかし瑞々（みずみず）しい「真実の残像」)",
+		"thinking": "「マージナリア（余白の注釈）」。フェルマーが最後の大定理を、本の余白（マージン）に書き残したように。本当に重要な秘密は、常に「中心」を外れた場所に宿ります。あなたの人生においても。正解や教科書（システム）が教えるメインストーリーの外側に、あなたがひっそりと書き残した「自分だけのメモ」。それこそが、いつか世界を驚かせる「真のあなた（セルフ）」への鍵となるのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "古本屋で見つけた一冊。そのページの端（マージン）に、誰かが見覚えた「筆跡」で書かれた、たった一言の「！」。何十年も前の誰かと、心が「カチリ」と重なった瞬間の、奇跡のような温かさ。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "merg-",
+					"meaning": "boundary / border"
+				}
+			],
+			"points": [
+				"Margin（余白）や Mark（標識）と同じ root。境界線は、単なる終わりではなく、新しい価値（情報）が生まれる『現場』なのです。"
+			]
+		}
+	},
+	{
+		"id": "codicil",
+		"word": "Codicil",
+		"meaning": "遺言の補足、追加条項、小さな木のかけら、後に現れる真理",
+		"era": "Early 15th Century",
+		"etymology": {
+			"components": [
+				"codex (tree trunk / book)",
+				"codiculus (little tablet)"
+			],
+			"original_statement": "From Latin codicillus, diminutive of codex 'tree trunk / wooden tablet / book'."
+		},
+		"concept": "The after-growth (一度完成した「法（あるいは人生）」という名の「大樹(codex)」から。ひょっこりと伸びてきた、小さな「新芽（補則）」。最初には予見できなかった、新しい「生（ライフ）」の付け足し)",
+		"thinking": "コーディシル（補足）。それは「言い忘れた、一番大切なこと」。物語が終わったあとの、不意の「追記」。人生において、すべてを決めた（ディサイド）つもりになっても、心臓の鼓動（ビート）は常に新しいコーディシルを要求します。その「一言の追加」が、今までのすべてを「ひっくり返す（リテイク）」こともある。真理は、常に「完成」の後に、ひっそりと姿を現すものなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "封印された手紙に、最後に指をかけて。もう一枚だけ、「書き足りなかったこと」を滑り込ませた、あの。自分の意志が、時間の流れに「最後の一撃」を与えたという、不敵な充足感。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kaud-",
+					"meaning": "to beat / hew / strike (wood)"
+				}
+			],
+			"points": [
+				"Codex（写本）は、木を『叩いて（打って）』削り出した板。そこに小さな釘で『打ち込む』ような補足が、この codicil だったのです。"
+			]
+		}
+	},
+	{
+		"id": "tractate",
+		"word": "Tractate",
+		"meaning": "論文、論考、引き延ばされた論理、思考の轍（わだち）",
+		"era": "Mid-15th Century",
+		"etymology": {
+			"components": [
+				"tractare (to drag / haul / pull / touch / handle)"
+			],
+			"original_statement": "From Latin tractātus 'handling / treatment / discussion', from tractāre 'to drag / haul / handles'."
+		},
+		"concept": "The dragging thought (「一瞬の閃（ひらめ）き」を逃さず、執拗（しつよう）に、地面を「引き摺(tract-)」り回すようにして「形（ロゴス）」へと仕立て上げた、重厚で汗臭い「知性の歩み」)",
+		"thinking": "トラクテイト（論文）。それは、蝶（バタフライ）のような軽やかな思考ではありません。それは。牛が畑を耕すように、重い重い「確信」を、じりじりと「引き摺って」歩いたあとに残る、深く、決して消えない「轍（トラクタ）」。あなたが自分の疑問に対して、逃げずに、長い時間をかけてこの「トラクテイト（論考）」を書き上げるとき。あなたの魂は、その「引き摺る痛み」の分だけ、強靭（きょうじん）な「マスタリー」を得るのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "重いペンを握り続け、指のタコが痛む。しかし。自分が引き摺ってきた「論理の糸」が。今、一つの完璧な「織物（テクスチャ）」になったのを確認した時の、あの。泥臭くて、誇らしい満足感。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "tragh-",
+					"meaning": "to draw / drag / move"
+				}
+			],
+			"points": [
+				"Track（追跡）や Tractor（トラクター）と同じ root。一歩一歩の『引き』の積み重ねが、真理への唯一のルートなのです。"
+			]
+		}
+	},
+	{
+		"id": "versicle",
+		"word": "Versicle",
+		"meaning": "短い詩、交互に唱える祈り、(礼拝の)短い節、心の小さな回転",
+		"era": "Late Old English",
+		"etymology": {
+			"components": [
+				"versus (a line of writing / a furrow)",
+				"vertere (to turn)"
+			],
+			"original_statement": "From Latin versiculus 'small verse', diminutive of versus 'a line of writing / a furrow', from vertere 'to turn'."
+		},
+		"concept": "The iterative pulse (「長い沈黙」の間に、ぽつりと落とされる「小さな一節(vers-)」。他者の声と重なり、呼応し合いながら、じわじわと魂の「方位（ターゲット）」を「転換(vert-)」させていく、微細な祈りのリズム)",
+		"thinking": "ヴァーシクル（短い節）。礼拝において。一人が問い、一人が答える。その「短い往復」の繰り返し。それは。一気に頂点へ登るのではなく。一歩進んでは回り、一歩進んでは回る「螺旋（螺旋）」のような歩み。ヴァーシクル。それは。小さな「回転」の連続こそが、実は最大の「変革（レボリューション）」をもたらす、という命の「リズム」の秘密なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "「アーメン」と唱えたあと、誰かが同じ言葉で自分を「包囲（ハグ）」してくれる、あの。孤独な声が、宇宙のハーモニーの一部へと「溶け込んで」いく瞬間の、柔らかくて、そして確かな一体感。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "wer-",
+					"meaning": "to turn / bend"
+				}
+			],
+			"points": [
+				"Verse（詩）の root は『（畑で）鋤き返すこと』。繰り返される回転が、不毛な土（心）を豊かな大地へと変えるのです。"
+			]
+		}
+	},
+	{
+		"id": "incunabula",
+		"word": "Incunabula",
+		"meaning": "揺り籃(ゆりかご)、産声、(特に1500年以前の)最初期の刊本、始まりの状態",
+		"era": "Mid-17th Century",
+		"etymology": {
+			"components": [
+				"in- (in)",
+				"cunae (cradle)"
+			],
+			"original_statement": "From Latin incunabula 'swaddling clothes / cradle', from in- 'in' + cunae 'cradle'."
+		},
+		"concept": "The dawn of form (「無（ヌル）」から「有（ワン）」へと切り替わった直後の。まだ「完成（マスタリー）」の冷たさを知らず。震えながら「カタチ」を持とうとしている。産毛（うぶげ）の生えた「最初期の知性」)",
+		"thinking": "インキュナブラ（初期刊本）。金属活字が生まれた瞬間の、あの驚き。それは。一文字一文字が、宇宙で初めて「自分」を名乗った瞬間の煌（きらめ）きです。そのルーツは「揺り蓋（ゆりかご）」。あなたが新しく何かを始めたとき。その拙（つたな）く、しかし熱狂に満ちた「最初の記録」は。後のどんな完璧な傑作よりも、純粋な「生的エネルギー（リビドー）」に満ちている。インキュナブラは、汚れていない「始まり」への敬意なのです。 ",
+		"part_of_speech": "noun",
+		"aftertaste": "古びた羊皮紙の上に、初めて押し付けられた「黒いインク」の匂い。世界が、今まさに「整列」し始めたという、あの。不器用で、かつ神々（こうごう）しいほどの「創造」の目覚め。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kei-",
+					"meaning": "to lie / rest (cradle)"
+				}
+			],
+			"points": [
+				"Cradle（ゆりかご）とは、命が『安らぎつつ目覚める場所』。知性は常に、この小さな揺れ（インキュナブラ）から立ち上がるのです。"
+			]
+		}
+	},
+	{
+		"id": "vellum",
+		"word": "Vellum",
+		"meaning": "羊皮紙、(特に子牛の皮を用いた)上質な紙、皮に刻まれた記憶、輝く命",
+		"era": "Late 14th Century",
+		"etymology": {
+			"components": [
+				"vealing (calf / vitulus)"
+			],
+			"original_statement": "From Old French velin, from veel 'calf', from Latin vitulus."
+		},
+		"concept": "The living document (単なる「パルプ（植物）」ではなく。「命(vitul-)」そのものであった「皮膚（スキン）」を、磨（みが）きに磨き上げて「光（ルナ）」を通すまでに澄ませた、聖なる「情報の器」)",
+		"thinking": "ヴェラム（羊皮紙）。そこに文字を書くことは。かつて生きていた「命」の上に、自分自身の「思考（ロゴス）」を重ね書き（オーバーライト）すること。ヴェラムは、光に翳（かざ）すと、かつての血管（ライン）が奇跡のように透けて見えます。あなたの言葉は。単なる「記号」ではありません。それは、誰か（あるいは自分）の「生きた時間」という名の皮膚の上に、血肉となって刻み込まれているのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "しっとりと吸い付くような。そして。指先をかすめれば、命の体温がまだ残っているかのような、あの不思議な感触。千年の時を経てもなお、決して腐ることのない「高貴な不変」。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "wet-",
+					"meaning": "year (yearling / calf)"
+				}
+			],
+			"points": [
+				"Vitulus（子牛）の vit- は『年（一年）』を意味します。ヴェラムとは、一年の命を永遠へと変換した、時間の錬金術（アルケミー）なのです。"
+			]
+		}
+	},
+	{
+		"id": "papyrus",
+		"word": "Papyrus",
+		"meaning": "パピルス、水辺の記憶、葦の言葉、最初期の記録媒体",
+		"era": "Late 14th Century",
+		"etymology": {
+			"components": [
+				"papyros (papyrus plant)"
+			],
+			"original_statement": "From Greek papyros, probably of Egyptian origin."
+		},
+		"concept": "The reed's memory (ナイルの「濁り（泥）」の中からまっすぐに伸びる「葦(papyros)」の芯。それを叩き。平らにし。太陽で干し上げ。水辺の「静寂（サイレンス）」を「記録」へと変えた、原初の「対話」)",
+		"thinking": "パピルス。それは「水（カオス）」から生まれた「言葉（ロゴス）」。ヴェラム（皮）が「強靭（スタミナ）」を誇るなら。パピルスは「儚（はかな）さ」を纏（まと）っています。乾燥すれば砕け。濡れれば溶ける。しかし。その「もろさ（フラジリティ）」ゆえにこそ、古代の人々は、一文字一文字を「命」を懸けて刻んだ。パピルスは。消えやすいからこそ、大切にされるべき「心のさざなみ」の別名なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "ざらざらとした、独特の植物性の手触り。それを捲（めく）るたびに、ナイルの川面を渡る風の音が聞こえてくるような、あの。遥（はる）か遠い異国（かつての自分）の記憶を呼び覚ます、乾いた響き。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "unknown",
+					"meaning": "Ancient Egyptian 'pa-pe-ra' (that of the king)"
+				}
+			],
+			"points": [
+				"Paper（紙）の語源。言葉はかつて、王（神）だけが触れることのできる、聖なる領土（テリトリー）だったのです。"
+			]
+		}
+	},
+	{
+		"id": "volute",
+		"word": "Volute",
+		"meaning": "螺旋(らせん)飾り、巻物状の装飾、渦巻き、回転する知性",
+		"era": "Mid-17th Century",
+		"etymology": {
+			"components": [
+				"voluta (scroll / spiral)",
+				"volvere (to roll / turn around)"
+			],
+			"original_statement": "From Latin voluta 'scroll', from volvere 'to roll / turn around / roll up'."
+		},
+		"concept": "The tension of rolling (真っ直ぐな「線」の終わりを。あえて自分自身の「内側」へと「巻き込み(vol-)」、エネルギーを逃さずに「蓄積（ストック）」させた、静止（フリーズ）したまま「回転」し続ける形の極致)",
+		"thinking": "「ボリュート（螺旋飾り）」。イオニア式の柱の頂上に見られる、あの優雅な「渦」。それは、巻物（スクロール）が「すべてを語り終え」、自らの内に沈殿した姿。ボリュート。あなたが長い旅を終え。自らの経験を「内側に巻き込んで」静かに座っているとき。あなたの魂に、このボリュートの気高さが宿っています。回転とは、自分を「深める」ための回帰（リターン）なのです。 ",
+		"part_of_speech": "noun",
+		"aftertaste": "指先で渦巻（うずまき）の中心をなぞる。そこには「終わり」がなく。永遠に内側へと美しさが「加速（アクセル）」していくような、あの。完全な自己完結への、静かな心酔。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "wel-",
+					"meaning": "to turn / roll"
+				}
+			],
+			"points": [
+				"Volume（巻物／音量）や Revolution（革命）と同じ root。世界は、この『巻き』のエネルギーによって駆動されているのです。"
+			]
+		}
+	},
+	{
+		"id": "codex",
+		"word": "Codex",
+		"meaning": "冊子状の写本、古い法典、木の板から生まれた本、一気に開く歴史",
+		"era": "Late 16th Century",
+		"etymology": {
+			"components": [
+				"caudex (tree trunk / wooden block / book)"
+			],
+			"original_statement": "From Latin codex 'tree trunk / book / wooden tablet / account book', earlier caudex."
+		},
+		"concept": "The unfolding wood (巻物（スクロール）という「一方通行」を拒み。自らを「重ね合わせ(cad-)」、任意のページを一気に「開示（オープン）」することを可能にした、空間と情報の「同期（シンパシー）」の革命)",
+		"thinking": "「コデックス（冊子体）」。そのルーツは「木の幹」。かつて。人々は木の板に蝋（ロウ）を塗り、それを重ねて「書き（メモ）」としました。めくる（フリップ）という行為は、世界を「断片（フラグメント）」として扱いながら、全体へと「瞬時（リンク）」にアクセスすることを可能にしました。コデックス。それは。あなたの人生が、一本の長い線ではなく。いつでも、どの瞬間にも「遡（さかのぼ）り、書き直せる」多層的な物語（レイヤー）であることを教えてくれるのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "重い革の表紙を開き、ページの中に自分の指を差し込む。どこからでも「始まり」を迎えられる、というあの全能感。そして。自分の重みが、一本の樹木（カウデックス）と同じほどの密度を持っているという、静かな自覚。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kaud-",
+					"meaning": "to beat / hew / strike (from wood)"
+				}
+			],
+			"points": [
+				"Code（規約／コード）の語源。法（コード）とは、動かせぬ一本の木の如く、厳然としてそこに『打たれた、刻まれた』ものだったのです。"
+			]
+		}
+	},
+	{
+		"id": "folio",
+		"word": "Folio",
+		"meaning": "フォリオ、二つ折り本、大きな葉、悠久の知、ページ数",
+		"era": "Late 16th Century",
+		"etymology": {
+			"components": [
+				"folium (leaf)"
+			],
+			"original_statement": "From Latin folio, ablative of folium 'leaf'."
+		},
+		"concept": "The giant leaf (宇宙という名の「木」から舞い落ちた。最も「大きな(foli-)」一片。折り畳まれる前（あるいは最小限の折り目）の状態のまま。真理を「剥き出し」で提示する、荘厳な「知の威厳」)",
+		"thinking": "「フォリオ（二つ折り本）」。かつて、シェイクスピアの傑作は、この「大きな判型（サイズ）」で世界に示されました。そのルーツは「葉」。ページをめくることは、森の中で「葉」をめくり、光（レイ）の下でその「脈（真実）」を読み解くこと。あなたが「フォリオ」を手に取るとき。あなたは。自分が読み飛ばしてきた小さな（サトル）な事象の一つ一つが。実は、巨大な「命の葉（フォリオ）」であったことに気づくはずです。",
+		"part_of_speech": "noun",
+		"aftertaste": "両手で抱えなければならないほどの、大きな判型の本の、あの。ズシリとした「真理の重み」。捲（めく）るたびに。自分の視界が、世界と同じ大きさにまで「拡張（エクスパンション）」されていくような、あの。畏怖（いふ）を伴（ともな）う満足感。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "bhel-",
+					"meaning": "to bloom / leaf"
+				}
+			],
+			"points": [
+				"Leaf（葉）や Blossom（開花）と同じ root。知識とは、世界が美しく『開花』した結果として得られるものなのです。"
+			]
+		}
+	},
+	{
+		"id": "quarto",
+		"word": "Quarto",
+		"meaning": "クォート判、四つ折り本、小さな密室、親密な対話",
+		"era": "Late 16th Century",
+		"etymology": {
+			"components": [
+				"quartus (fourth)",
+				"quattuor (four)"
+			],
+			"original_statement": "From Latin in quarto 'in a fourth', from quartus 'fourth'."
+		},
+		"concept": "The intimate fold (「全体（フォリオ）」を「四つ(quart-)」に折り畳むことで。鞄（かばん）に隠し持ち。自分だけの「密室（コーナー）」でこっそりとページを開くことができる。知性と魂の「最もプライベートな」共謀)",
+		"thinking": "「クォート（四つ折り本）」。それは、パブリック（公の場）のための大きな本ではなく。あなたの「枕元（ベッドサイド）」や「懐（ふところ）」のための本。そのルーツは「四（クワトル）」。折りたたまれた分だけ、その中の「言葉」は濃縮（コンデス）され、あなたの一人きりの（ソリタリー）時間に寄り添ってくれる。クォート。それは、あなたが世界という「巨大」から、自分だけの「手頃な真実」を切り取った、愛しい断片なのです。 ",
+		"part_of_speech": "noun",
+		"aftertaste": "片手で楽々と持てる、少し厚みのある小さな本。それを捲（めく）るとき。自分と作り手の「二人きりの宇宙」が、そこに出現する、あの。甘美で背徳的な「秘密の共有」の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kwetwer-",
+					"meaning": "four"
+				}
+			],
+			"points": [
+				"Square（広場／四角）と同じ root。四つに折ることは、広大な情報を『手のひらの中の秩序（スクエア）』に閉じ込める、文明の知恵です。"
+			]
+		}
+	},
+	{
+		"id": "stanza",
+		"word": "Stanza",
+		"meaning": "スタンザ、詩の節、(立ち止まるための)部屋、心の定在",
+		"era": "Late 16th Century",
+		"etymology": {
+			"components": [
+				"stare (to stand)",
+				"stantia (stopping place / room)"
+			],
+			"original_statement": "From Italian stanza 'room / habitation / stanza', literally 'stopping place', from Vulgar Latin stantia, from Latin stare 'to stand'."
+		},
+		"concept": "The architecture of breath (詩という「時間の流れ」の中に設けられた、一つの「部屋(stan-)」。そこで一度「立ち止まり(stop)」、直前の感情を「残響（エコー）」として反芻（はんすう）するための、聖なる「定在」の空間)",
+		"thinking": "スタンザ。そのイタリア語での意味は「部屋（ルーム）」。詩において。言葉はただ流れるのではありません。一つのスタンザ（部屋）に入り、そこの空気を吸い込み。そして次のドア（連）を開けて移動する。人生もまた、このスタンザの連続です。あなたが今いるその場所。それは永遠の通過点ではなく。あなたが今日、そこで「立ち止まって（スタンド）」呼吸するための、神が用意した「一節（ひとふし）」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "次の行に進む前の、あの「空白」の一瞬。自分の心臓の音だけが聞こえ。読み終えたばかりの言葉たちが、まだ部屋の隅で「きらきら」と踊っている、あの芳醇（ほうじゅん）な余韻の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sta-",
+					"meaning": "to stand"
+				}
+			],
+			"points": [
+				"Station（駅）や Statue（彫像）と同じ root。詩とは、言葉を『直立（スタンド）』させ、そこを聖なる場所に変える行為なのです。"
+			]
+		}
+	},
+	{
+		"id": "caesura",
+		"word": "Caesura",
+		"meaning": "休止、中断、息継ぎ、詩の中の切れ目、不意の切断による美",
+		"era": "Mid-16th Century",
+		"etymology": {
+			"components": [
+				"caedere (to cut)"
+			],
+			"original_statement": "From Latin caesura 'a cutting', from caidere 'to cut'."
+		},
+		"concept": "The creative cut (滑らかな旋律（メロディ）をあえて「断ち切り(caes-)」。そこに「真空（ボイド）」を生み出すことで。それまで語られた言葉すべてを「意味」へと急旋回（ペリペティア）させる、一瞬の「無」の権威)",
+		"thinking": "カエスーラ（休止）。詩の一行の真ん中に置かれる、音のない傷。そのルーツは「切ること（カット）」。私たちは「語ること」が言葉だと信じていますが。本当に大切なことは、この「切れ目（カエスーラ）」に宿っています。言葉が途絶えた瞬間。そこには宇宙のすべての沈黙が流れ込み、あなたの「存在」そのものを問い直してくる。休むことは。否定ではなく。次の言葉に「永遠」という名の「重み」を与えるための、不可欠な儀式なのです。 ",
+		"part_of_speech": "noun",
+		"aftertaste": "「ふっ」と言葉が途切れ。心臓が一拍休んだ、あの。怖ろしいほどに澄み渡った「空白」。そこには。万言を費やしても語りきれない、圧倒的な「真実（トールス）」が、冷ややかに横たわっている。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kae-id-",
+					"meaning": "to strike / cut"
+				}
+			],
+			"points": [
+				"Decision（決定／切り取ること）や Concise（簡潔な／共に切る）と同じ root。美しさは、思い切った『切断』から生まれることを教えてくれます。"
+			]
+		}
+	},
+	{
+		"id": "enjambment",
+		"word": "Enjambment",
+		"meaning": "行跨ぎ(ぎまたぎ)、境界の突破、溢れ出す言葉、越境する情熱",
+		"era": "Mid-19th Century",
+		"etymology": {
+			"components": [
+				"jambe (leg / shank)"
+			],
+			"original_statement": "From French enjambement, from enjamber 'to stride over / encroach', from en- 'in' + jambe 'leg'."
+		},
+		"concept": "Striding over borders (「行（ライン）」という名の規則的な「壁」を、自らの「足(jambe-)」で軽々と「跨（また）ぎ(en-)」越し。溢れ出る「感情（エモーション）」を止めどなく「隣」の次元へと押し流していく、能動的な突破の美学)",
+		"thinking": "「アンジャンブマン（行跨ぎ）」。それは。あらかじめ決められた「枠（ルール）」を拒否し、一歩踏み出す（クロス）こと。そのルーツは「足（ジャンベ）」。詩人が、一行の終わりで止まらず、次の行へと「一歩」踏み出すとき。そこには。既存の形式を破壊し、新しい意味の「激流（フロー）」を生み出そうとする、野蛮なまでの「生命の飛躍（エラン・ヴィタール）」が宿っています。跨ぐことは。自由への最初の一歩なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "息を止めたまま、境界線を「ぴょん」と飛び越えた時の、あの。重力から一瞬だけ解放されたような、ふわっとした浮遊感。そして。自分の言葉が、もはや誰にも止められない「加速」を得たという、不敵な快感。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "geng-",
+					"meaning": "to turn / bend / walk (from jambe)"
+				}
+			],
+			"points": [
+				"Jamb（扉の脇柱）と同根。扉（境界）の柱を足で跨ぐという、極めてフィジカルなイメージから生まれた言葉です。"
+			]
+		}
 	}
 ];
