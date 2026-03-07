@@ -227930,5 +227930,171 @@ const WORDS = [
 				"Luden（遊ぶ）や Illusion（幻想）と同じ root。インターリュードとは。現実という名の『重力』から。一瞬だけ『冗談（ジョーク）』のように逃げ出し、自分を自由にするための、知的な亡命なのです。"
 			]
 		}
+	},
+	{
+		"id": "hieroglyph",
+		"word": "Hieroglyph",
+		"meaning": "ヒエログリフ/聖刻文字、(刻まれた)神の言葉、沈黙の咆哮、解読を待つ過去、図像としての真理",
+		"era": "Late 16th Century",
+		"etymology": {
+			"components": [
+				"hieros (holy)",
+				"glyphein (to carve)"
+			],
+			"original_statement": "From Greek hieroglyphikos, from hieros 'holy' + glyphein 'to carve'. Originally applied to the sacred characters used in ancient Egyptian inscriptions."
+		},
+		"concept": "The sacred inscription (言葉を単なる「音」としてではなく。「永遠に不変な物体（石）」に「刻みつける(carve-)」ことで。「神聖な(hiero-)」真理として固定すること。時間の風化に抗（あらが）う、峻烈なる「記録の意志」)",
+		"thinking": "「ヒエログリフ（聖刻文字）」。あなたの「信念」。それは、砂に書いた文字のように、風ですぐに消えてしまうものではありませんか。 hieroglyph。それは。あなたの魂という「硬い石」に、生涯をかけて刻み込むべき「神聖な言葉」。誰かに理解されるためではなく。数千年後の未来に対して、自分が「ここにいた」という証（しるし）を遺すための、峻烈な「覚悟」の記述なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "指先で、石の凹凸（おうとつ）をなぞる時の、冷たくて「確かな」感触。そこにある。数千年の沈黙を突き抜けてくる、かつての誰かの「猛烈な意志」の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "gleubh-",
+					"meaning": "to cut / cleave (from glyph)"
+				}
+			],
+			"points": [
+				"Cleave（切り裂く）や Glyph（グリフ）と同じ root。ヒエログリフとは。世界というカオスを『切り裂き（gleubh-）』。そこに自らの『秩序（ロゴス）』を叩き込む、暴力的なまでに美しい創造行為なのです。"
+			]
+		}
+	},
+	{
+		"id": "cuneiform",
+		"word": "Cuneiform",
+		"meaning": "楔形文字、(泥に刻まれた)法、記録の原点、鋭利な知性、失われた情報の森",
+		"era": "Late 17th Century",
+		"etymology": {
+			"components": [
+				"cuneus (wedge)",
+				"forma (shape)"
+			],
+			"original_statement": "From Latin cuneus 'wedge' + forma 'shape'. Refers to the wedge-shaped characters used in the ancient writing systems of Mesopotamia."
+		},
+		"concept": "The decisive mark (柔らかい「泥（現実）」が乾く前に。「楔(wedge-)」を打ち込むように、鋭い「傷跡」を残すこと。それは。「曖昧な記憶」を「文明（法）」へと格上げする、人類最初の「決断」の記述. 峻烈なる「情報という名の武器」)",
+		"thinking": "「クネイフォルム（楔形文字）」。あなたの「一歩（アクション）」。それは、ただなんとなく歩くのではなく。この楔形文字のように、大地に深く、鋭く「刻み込む」ようなものであってほしい。 cuneiform。それは。あなたの意志が、揺るぎない「法（真実）」として世界に固定された証。泥まみれの日常の中から。自分だけの「絶対的な言葉（サイン）」を、真っ直ぐに、鋭利に描き出してください。",
+		"part_of_speech": "noun / adjective",
+		"aftertaste": "粘土を「ブスリ」と突く時の、わずかな「手応え」。そして、それが乾いて「石（歴史）」へと変わった瞬間の、圧倒的な「不可逆性」。そこにある、一度決めたら「もう変えられない」という、冷徹なまでの「誠実」の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ak-",
+					"meaning": "sharp / pointed (from cuneus)"
+				}
+			],
+			"points": [
+				"Acid（酸）や Edge（刃）と同じ root。クネイフォルムとは。世界という柔らかい肉体に、知性という名の『刃（エッジ）』を突き立てる、人間の最初の反逆。それは、混沌を意味へと切り分ける、言語の狩りの道具だったのです。"
+			]
+		}
+	},
+	{
+		"id": "iconoclasm",
+		"word": "Iconoclasm",
+		"meaning": "イコノクラスム/聖像破壊、(激しい)否定、神の解体、真理の上書き、峻烈なるリセット",
+		"era": "Mid-17th Century",
+		"etymology": {
+			"components": [
+				"eikon (image / likeness)",
+				"klan (to break)"
+			],
+			"original_statement": "From French iconoclasme, from Medieval Latin iconoclasmus, from Greek eikon 'image' + klan 'to break'."
+		},
+		"concept": "The destructive renewal (「形を与えられた神（偶像）」は、もはや「死んだ真理」であるとして。それを物理的に「破壊(break-)」し。その背後にある「目に見えない本質」へ回帰しようとする、峻烈で過激な「精神の浄化」。偶像を「殺す」ことで、「神」を生かす矛盾の行為)",
+		"thinking": "「イコノクラスム（偶像破壊）」。あなたが。今まで「正しい」と信じてきたもの。それは、ただの「形骸化した（魂の抜けた）像」になっていませんか。 iconoclasm。もしそうなら、それを自分の手で「叩き壊す」勇気を持ってください。破壊は、罪ではありません。古い「形（アイコン）」という名の殻を壊して、中の「生きた真実」を取り出すための、最上の「愛」の形なのです。壊すことを、恐れないで。 ",
+		"part_of_speech": "noun",
+		"aftertaste": "美しかった像が、一撃で「ガシャリ」と崩れ落ち。ただの「石くず」に変わる瞬間。そこにある。すべてから「解放」されたという猛烈な快感と。そのあとに来る、真っ白で峻烈な「無」の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kelah-",
+					"meaning": "to break / strike (from klan)"
+				}
+			],
+			"points": [
+				"Clash（衝突）や Calamity（惨事）とも響き合う。イコノクラスムとは。世界という鏡を叩き割り、自分の『素顔（真実）』を覗き込もうとする、血まみれの自己救済なのです。"
+			]
+		}
+	},
+	{
+		"id": "augury",
+		"word": "Augury",
+		"meaning": "オーガリー/鳥占、(羽ばたく)予兆、風の言葉、偶然の解釈、未来の気配",
+		"era": "Late 14th Century",
+		"etymology": {
+			"components": [
+				"augur (diviner)",
+				"avis (bird)"
+			],
+			"original_statement": "From Latin augurium 'divination from the flight of birds', from augur. Possibly from avis 'bird'."
+		},
+		"concept": "The avian prophecy (空を飛ぶ「鳥の軌跡」という、捉えどころのない「偶然」の中に。「神の意志（必然）」を読み解こうとする、峻烈なる「解釈の野心」。未来を「予測」するのではなく。一瞬の「兆候」から、隠された「運命の貌（かたち）」を「視（み）」ること)",
+		"thinking": "「オーガリー（予兆）」。あなたの身の回りで起きている、ささいな「偶然」。それを「ただの偶然」として見逃してはいませんか。 augury。鳥がどこへ飛ぶか、風がどちらへ吹くか。その微かな「変化」の兆しの中に。あなたの「未来」の答えは、既に書かれています。 augury。鋭利な観察眼を養ってください。世界は常に、あなたに向かって「ささやいて」います。その声を聞き取れるかどうか。それが、あなたの運命を分けます。",
+		"part_of_speech": "noun",
+		"aftertaste": "青い空を見上げて、一羽の鳥の動きを「瞬きもせず」追い続ける。そこにある、張り詰めた「集中」と。一閃の「閃き（インスピレーション）」が脳を貫く瞬間の。あの。瑞々（みずみず）しい「納得」の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "aug-",
+					"meaning": "to increase / promote"
+				}
+			],
+			"points": [
+				"Augment（増強する）や Author（著者）と同じ root。オーガリーとは。目に見えない『未来の種』を。自分の言葉で『増幅（アウグ-）』させ、確かな『物語』へと育てること。それは、運命との対話を始めるための、最初の合図なのです。"
+			]
+		}
+	},
+	{
+		"id": "daimon",
+		"word": "Daimon",
+		"meaning": "ダイモン、(内なる)神、才能という名の魔物、自分を動かす力、宿命の導き",
+		"era": "Mid-17th Century (re-borrowed from Greek)",
+		"etymology": {
+			"components": [
+				"daiestai (to divide / distribute)"
+			],
+			"original_statement": "From Greek daimon 'divine power / attendant spirit / destiny', from daiestai 'to divide / distribute'."
+		},
+		"concept": "The internal divider (個人に「割り振られた(divide-)」「神聖な性格（才能）」。それは「自分」であって「自分」ではない、外部から訪れた「強力な意志」。人間を「幸福」にも「破滅」にも導く。峻烈なる「天賦の引力」)",
+		"thinking": "「ダイモン（内なる声）」。自分の中に、自分でも制御できない「猛烈な衝動（才能）」を感じることはありませんか。 daimon。それは。あなたという「器」に、神が「割り当てた（ダイエスタイ）」火の一片。それは、あなたを安らかな眠り（凡庸）から叩き起こし。時に「苦悩」の淵へ突き落としますが。同時に、あなたを「誰も到達できない場所」へと運んでくれる。その「魔物（ダイモン）」を飼い慣らすのではなく。導きに従ってください。",
+		"part_of_speech": "noun",
+		"aftertaste": "背中から、誰かに「強く押されている」ような、抗（あらが）えない加速感。そして。自分の手が「勝手に動き」出し、思いもよらぬ美しいものを産み出した時の。あの。怖ろしいほどの「恍惚（コーフン）」と「戦慄（センリツ）」。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "da-",
+					"meaning": "to divide"
+				}
+			],
+			"points": [
+				"Divide（分ける）や Tale（物語／分けること）とも響き合う。ダイモンとは、自分という一枚の紙を。『天才』と『狂気』に切り分ける、鋭いカミソリ。それは。自分が人間を超えた存在と繋がっている、という峻烈な証拠なのです。"
+			]
+		}
+	},
+	{
+		"id": "mythos",
+		"word": "Mythos",
+		"meaning": "ミュトス/神話、(紡がれた)物語、集団の夢、深層の真実、原初の言語",
+		"era": "Late 18th Century",
+		"etymology": {
+			"components": [
+				"mythos (word / speech / tale / story)"
+			],
+			"original_statement": "From Greek mythos 'word / speech / tale / story / anything delivered by word of mouth'."
+		},
+		"concept": "The foundational narrative (「論理的な説明（ロゴス）」では決して届かない。「魂の深淵」にある「真実」を。壮大な「物語(tale-)」として描き出すこと。それは。人間が「世界をどう捉えているか」という、峻烈なる「世界解釈のOS（基盤）」。共有される「夢」の記述)",
+		"thinking": "「ミュトス（神話）」。あなたは。自分の人生を、ただの「事実（数字や経歴）」の積み重ねだと思っていませんか。それでは、魂が乾いてしまいます。 mythos。あなたの失敗、あなたの挑戦、あなたの愛。それらを一つの「神話」として、劇的に（メタフォリカルに）語り直してみてください。あなたは、一人のちっぽけな存在ではなく。宇宙の巨大な「物語」という名の、唯一無二の主人公（ヒーロー）になるのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "焚き火の周りで、長老の声が「低く響く」夜の闇。そこにある。自分が「大きな流れの一部」であるという、峻烈なる「所属感」。あまりに古く、しかし。あまりに「新しい」真理。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "mudh-",
+					"meaning": "to think / care / long for"
+				}
+			],
+			"points": [
+				"Mouth（口）とも響き合う。ミュトスとは。他者へ語ること（口）を通じて。自分でも気づいていない『深層の想い（mudh-）』を可視化すること。それは、自分の影と対話するための、最古の、そして最新の鏡なのです。"
+			]
+		}
 	}
 ];
