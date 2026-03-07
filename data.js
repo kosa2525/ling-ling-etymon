@@ -220928,5 +220928,548 @@ const WORDS = [
 				"Phenomenon（現象／現れるもの）と同じ pha-。聖なるものは、ただ存在するだけでなく、『示される（光る）』ことによって、はじめて力を持つのです。"
 			]
 		}
+	},
+	{
+		"id": "industrial",
+		"word": "Industrial",
+		"meaning": "産業の、勤勉な、鉄の響き、世界の組み換え",
+		"era": "Late 15th Century",
+		"etymology": {
+			"components": [
+				"industrie (diligence / cleverness)",
+				"indu- (within)",
+				"struere (to build / pile up)"
+			],
+			"original_statement": "From French industrie, from Latin industria 'diligence / activity', from indu- 'within' + struere 'to build'."
+		},
+		"concept": "The internal building (単なる「工場」の風景ではなく。自分自身の「内側(indu-)」において、目的（ロゴス）に向かって「積み上げ(stru-)」続ける、執念深いまでの「勤勉さ」と「再構築」のエネルギー)",
+		"thinking": "「インダストリアル（産業的／勤勉な）」。そのルーツは「内側で建てること」。世界を鉄と蒸気で埋め尽くす産業革命も。元を正せば、一人の人間の内なる「改善（インプルーブメント）」への渇望から始まりました。あなたが、自分の平凡な才能を、日々の「勤勉さ」という旋盤（せんばん）で削り上げ、新しい形へと鋳造（キャスト）し直すとき。あなたは。自分の魂という名の「工場」の、最も気高き労働者となっているのです。",
+		"part_of_speech": "adjective",
+		"aftertaste": "油の匂いと、冷たい鉄が触れ合う高い金属音。規則正しい機械の鼓動が、自分の心臓と同期（シンクロ）していく、あの。自分が大きな「システム」の一部でありながら、それを動かしているという、不敵な充足感。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ster-",
+					"meaning": "to spread / extend / stretch out (build)"
+				}
+			],
+			"points": [
+				"Structure（構造）や Construct（建設）と同じ root。内なるものを外側へと『広げて定着させる』力を司っています。"
+			]
+		}
+	},
+	{
+		"id": "leverage",
+		"word": "Leverage",
+		"meaning": "てこの作用、影響力、力の増幅、世界の重みを動かす手段",
+		"era": "Mid-19th Century",
+		"etymology": {
+			"components": [
+				"levare (to raise / lift)",
+				"levis (light)"
+			],
+			"original_statement": "From lever + -age, from Latin levare 'to raise / lift', from levis 'light'."
+		},
+		"concept": "The lifting intelligence (自分の「小さな力」に「知性（ポイント）」という名の支点を加え。世界という「動かせないはずの重圧(mass)」を、まるで「軽い(lev-)」羽根のように「持ち上げ(lev-)」てみせる、反逆的なまでの増幅)",
+		"thinking": "レバレッジ（てこの力）。アルキメデスは言いました。「支点（フルクラム）さえ与えられれば、地球を動かしてみせる」と。それは。力ずくで戦うのではなく、世界の「仕組み（ロジック）」を利用すること。あなたが、自分の孤独や悲しみを、誰かを救うための「言葉（レバレッジ）」へと変換できたとき。あなたは。自分を押し潰そうとしていた「運命（フェイト）」の重みを、優雅に跳ね返しているのです。",
+		"part_of_speech": "noun / verb",
+		"aftertaste": "長い棒の端を押し下げ、巨大な岩が「グシャッ」と音を立てて浮き上がった瞬間の、あの。自分の知性が、物理的な「暴力」に勝利したという、静かな、しかし峻烈な愉悦（ゆえつ）。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "legwh-",
+					"meaning": "light (weight) / not heavy"
+				}
+			],
+			"points": [
+				"Levity（軽率さ）や Elevate（持ち上げる）と同じ root。重いものを軽くする知恵は、精神の『軽やかさ』から生まれるのです。"
+			]
+		}
+	},
+	{
+		"id": "gasket",
+		"word": "Gasket",
+		"meaning": "填め子、(漏れを防ぐ)ガスケット、境界の密封、緊密な契約",
+		"era": "Early 17th Century",
+		"etymology": {
+			"components": [
+				"garcette (small rope)"
+			],
+			"original_statement": "From French garcette 'small rope', ultimately from garce 'girl / servant' (in the sense of 'assistant')."
+		},
+		"concept": "The absolute seal (異なる二つの「現実（マテリアル）」の間に、あえて自分を「裂け目（フィル）」として潜り込ませ。内側の「圧力（エモーション）」を外側に「漏らさない」ための、目立たないが、命懸けの「境界」の維持)",
+		"thinking": "ガスケット。それは。エンジンという名の「欲望」を暴走させないための、最も薄い、しかし最も重要な「沈黙」。あなたが誰かとの約束（プロミス）を、自分の胸の奥に「ガスケット」のように密封し、どんな誘惑の圧力にも耐えて「秘密」を守り抜くとき。あなたの魂に、何ものにも汚されない「純粋な動力（ピュア・エナジー）」が宿るのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "二つの金属の板の間に、薄いゴム（あるいは皮）が「ぎゅっ」と挟み込まれ、空気が一瞬で「静止」した感触。そこからは何も逃げ出せない、という圧倒的な「信頼」の重み。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "unknown",
+					"meaning": "servant / assistant (from garcette)"
+				}
+			],
+			"points": [
+				"船の帆を縛る『小さなロープ』が語源。小さなものが巨大な力を『縛る』という、奉仕者の美学が宿っています。"
+			]
+		}
+	},
+	{
+		"id": "corrosion",
+		"word": "Corrosion",
+		"meaning": "腐食、時間の噛み跡、名声の摩滅、かじり取ること",
+		"era": "Late 14th Century",
+		"etymology": {
+			"components": [
+				"com- (intensive)",
+				"rodere (to gnaw / bite)"
+			],
+			"original_statement": "From Old French corosion, from Latin corrosionem, from corrodere 'to gnaw to pieces', from com- + rodere 'to gnaw'."
+		},
+		"concept": "The gnawing of time (「酸素（現実）」という名の目に見えない「歯」が。どんなに強固な「鉄の誇り(rod-)」さえも、ゆっくりと、しかし徹底的に「かじり砕き(cor-)」、最後には土（ダスト）へと帰していく、不可避な侵食のプロセス)",
+		"thinking": "「腐食（コロージョン）」。それは。一瞬の破壊ではなく、悠久の時間が執拗（しつよう）に繰り返す「咀嚼（そしゃく）」。あなたのプライドや、かつての輝かしい栄光が。時代の荒波に揉まれて「赤錆（あかさび）」に覆（おお）われていくとき。思い出してください。削り取られるのは、あなたの「外郭（シェル）」だけ。その奥にある、削りようのない「本質（コバルト）」の強さを証明するために。コロージョンは存在しているのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "赤く剥（は）げ落ちた、古い鉄橋の。ボロボロになった表面に触れる、あの。手が汚れることへの嫌悪（けねん）と、そこに宿る「滅びの美」への、奇妙なまでの心酔。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "red-",
+					"meaning": "to scratch / gnaw"
+				}
+			],
+			"points": [
+				"Rodent（齧歯類／ネズミ）と同じ root。時間はネズミのように、私たちの所有物をこっそりと削り続けているのです。"
+			]
+		}
+	},
+	{
+		"id": "oxidation",
+		"word": "Oxidation",
+		"meaning": "酸化、燃焼の静かな形態、酸素との結合、赤剥げ、老いの変容",
+		"era": "Late 18th Century",
+		"etymology": {
+			"components": [
+				"ox- (sharp / acid / oxygen)",
+				"oxys (sharp)"
+			],
+			"original_statement": "From French oxidation, from oxider, from oxygène, from Greek oxys 'sharp'."
+		},
+		"concept": "The cold fire (「空気」という名の「他者」と触れ合うことで。自分の表面が「鋭く(oxy-)」反応し、目に見えないほどゆっくりと「燃焼（バーン）」を続け、別の色（サビ）へと変容（メタモルフォーゼ）していく、命の不可逆な老化)",
+		"thinking": "酸化（オキシデーション）。それは「火を使わない火事」。リンゴが茶色くなり、鉄が赤くなるのも。すべては「世界（酸素）」という刺激的な存在に、私たちが「応えてしまった」結果です。あなたが人生の途上で「くすんで」しまったと感じるとき。それはあなたが、世界という過酷な空気の中で「呼吸」を続けてきた、最も純粋な「生存の証（あかし）」なのです。磨けば、また奥底の光に出会えます。",
+		"part_of_speech": "noun",
+		"aftertaste": "夕陽に照らされた、古い蒸気機関車の。ザラザラとした「サビ」の感触。それは。幾多の嵐を乗り越え、世界を「全力で駆け抜けた」あとに残る、名誉ある「傷跡」の色。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ak-",
+					"meaning": "sharp / pointed"
+				}
+			],
+			"points": [
+				"Acid（酸）や Acetic（酢の）と同じ root。鋭い刺激が、形あるものの安定を奪い、新しい結合へと導くのです。"
+			]
+		}
+	},
+	{
+		"id": "assemblage",
+		"word": "Assemblage",
+		"meaning": "集まり、組み立て、(異種の)寄せ集め、調和、アッサンブラージュ",
+		"era": "Early 18th Century",
+		"etymology": {
+			"components": [
+				"ad- (to)",
+				"simul (together)"
+			],
+			"original_statement": "From French assemblage, from assembler 'to bring together', from Latin assimulare, from ad- 'to' + simul 'together'."
+		},
+		"concept": "The crafted unity (バラバラな場所から集められた「異質な欠片(disjecta membra)」を。一人のアーティスト（あるいは運命）が、一つの「意図(simul-)」のもとに「配置（セット）」し直すことで。単なる合計（サム）以上の「新しい宇宙」を出現させること)",
+		"thinking": "アッサンブラージュ（寄せ集め）。そこには、完全な「同一性」はありません。鉄の歯車、木の枝、壊れた時計の文字盤。それらが「同じ場所（シミュ）」に集められたとき。それぞれの「過去の傷」が、お互いを補い合い、一つの美しい「沈黙（スタチュー）」を形作ります。あなたの不器用な個性も、誰かの鋭い才能とアッサンブラージュされたとき。それは世界に一つだけの「傑作（マスターピース）」へと変わるのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "ジャンクヤードで見つけたガラクタたちが、一つの箱の中で「カチリ」と収まり、まるで最初からそうであったかのように「語り始めた」瞬間の、あの。魔法のような「共鳴（レゾナンス）」。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sem-",
+					"meaning": "one / as one / together"
+				}
+			],
+			"points": [
+				"Similar（似ている）や Simple（単純な／一重の）と同じ root。集めることは、多くのものを『一つ』として見るための、知的な飛躍なのです。"
+			]
+		}
+	},
+	{
+		"id": "furnace",
+		"word": "Furnace",
+		"meaning": "炉(ろ)、(試練の)火、灼熱の密室、起源、変化の炉",
+		"era": "Early 13th Century",
+		"etymology": {
+			"components": [
+				"fornax (oven / kiln)"
+			],
+			"original_statement": "From Old French fornais, from Latin fornax 'oven / kiln', related to formus 'warm'."
+		},
+		"concept": "The heart of heat (逃げ場のない「密閉された空間(forn-)」で、極限の「熱情（パッション）」を燃やし。古い形（セルフ）を溶かしてドロドロにし、新しい「形」へと再生するための、最も「苦しく、暖かい」起源の場所)",
+		"thinking": "ファーネス（炉）。そこは「変わるための苦しみ」の現場です。鉄を打つ前には、必ずこの「炉」で熱せられなければなりません。あなたが今、逃げ出したくなるほどの「試練（ヒート）」の真っ只中にいるなら。思い出してください。そこは、あなたの「未熟さ（スラグ）」を取り除き、あなたを最強の「鋼（ハガネ）」へと鍛え上げるための、神聖なファーネスなのです。熱さは。あなたが「変われる」という証拠なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "扉を開けた瞬間に、顔を襲（おそ）う、あの。命そのものを焼き尽くさんばかりの、真っ赤な「光の壁」。そこから取り出された真っ赤な鉄塊（インゴット）の、恐ろしいまでの「生（なま）」のエネルギー。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "gwher-",
+					"meaning": "hot / warm"
+				}
+			],
+			"points": [
+				"Warm（暖かい）や Thermos（魔法瓶）と同じ root。暖かさが極限に達したとき、それはすべてを溶かす『炉』となります。"
+			]
+		}
+	},
+	{
+		"id": "refinery",
+		"word": "Refinery",
+		"meaning": "精製所、純粋さを抽出する場所、(不純物を取り除く)濾過のプロセス",
+		"era": "Late 18th Century",
+		"etymology": {
+			"components": [
+				"re- (intensive)",
+				"finin (to polish / sum up)",
+				"finis (end / boundary)"
+			],
+			"original_statement": "From refine + -ery, from re- + fine 'to finish / polish', from finis 'end / boundary'."
+		},
+		"concept": "The extraction of end (混沌とした「原油（人生）」の中から、ただひたすら「不純物」を「削ぎ落とし(fin-)」、最後（フィニス）に残る、最も燃焼効率の高い「純粋な意志（エッセンス）」だけを抽出する、峻烈な「研磨(re-fin-)」の工場)",
+		"thinking": "リファイナリー（精製所）。それは。何かを「加える（アド）」ことではなく。ただ「捨てる（カット）」ことによって。そのものの「真髄（エッセンス）」を明らかにすること。あなたが自分の言葉を、何度も何度も推敲（すいこう）し、余計な飾りを剥（は）ぎ取っていくとき。あなたの心はこの「リファイナリー」になっています。磨（みが）き抜かれた一言は。千の饒舌（じょうぜつ）よりも、深く他者の魂を照らす火となります。",
+		"part_of_speech": "noun",
+		"aftertaste": "何万ガロンという泥の中から、たった一滴、水晶のように透き通った「光の雫」が滴（したた）り落ちた、あの瞬間の。報われた「時間（クロノス）」の重み。磨（みが）くことは、祈ること。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "dhe-",
+					"meaning": "to set / put (associated with fine / boundary)"
+				}
+			],
+			"points": [
+				"Fine（洗練された）や Finish（完成）の root。終わり（境界）まで突き詰めることが、最高度の『洗練』を生むのです。"
+			]
+		}
+	},
+	{
+		"id": "ventilation",
+		"word": "Ventilation",
+		"meaning": "換気、風を通すこと、呼吸の循環、密閉を解き放つこと",
+		"era": "Early 15th Century",
+		"etymology": {
+			"components": [
+				"ventus (wind)"
+			],
+			"original_statement": "From Latin ventilationem, from ventilare 'to wave / fan / winnow / expose to the wind', from ventus 'wind'."
+		},
+		"concept": "The pulse of air (澱（よど）んだ「熱気（ドグマ）」を外へと追い出し。代わりに、瑞々（みずみず）しい「外側の風(vent-)」を迎え入れることで。システム全体に「呼吸」を取り戻させ、新しい「着想（インスピレーション）」を呼び込む、巡（めぐ）りの美学)",
+		"thinking": "ベンチレーション（換気）。思考が「煮詰まって」しまったとき。あなたは窓を開け、あるいは旅に出て、心に「風」を通さなければなりません。風（ベントゥス）は。あなたが忘れていた「自由」を、外の世界から運んできてくれます。密閉された部屋（ルール）の中では、命は腐っていくだけ。風を通すことは、他者の声を、宇宙の息吹を、自分の一部として「再定義」する、謙虚な開放なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "淀んだ空気を一気に吸い込み、冷たい風が肺の中を駆け抜ける、あの。真っさらな「新しい自分」に書き換えられた瞬間の、清々（すがすが）しい快感。頭の中の「霧」が、一瞬で晴れる感覚。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "we-",
+					"meaning": "to blow"
+				}
+			],
+			"points": [
+				"Wind（風）や Weather（天気）と同じ root。風は、世界が生きている（呼吸している）ことの、最も力強い証拠なのです。"
+			]
+		}
+	},
+	{
+		"id": "valve",
+		"word": "Valve",
+		"meaning": "弁(べん)、(流出を制御する)扉、意志の門、選択的許可",
+		"era": "Late 14th Century",
+		"etymology": {
+			"components": [
+				"valva (folding door)"
+			],
+			"original_statement": "From Latin valva 'folding door / valve', literally 'that which turns', from volvere 'to roll / turn'."
+		},
+		"concept": "The turning gate (ただの「壁（遮断）」ではなく。「回転(volv-)」という物理的な「意志」によって、ある時は「解放（フロー）」し、ある時は「遮断（ブロック）」する、バランスを司る「制御（コントロール）」の極致)",
+		"thinking": "「バルブ（弁）」。あなたの感情という、高圧の蒸気が。壊れてしまわないように。あなたは自分の心に、この「バルブ」を備えていなければなりません。一気にすべてをさらけ出すのではなく。あるいは完全に自分を閉ざすのでもなく。時（機）を見て、そっと「栓（せん）」を回し、必要な分だけを世界に解き放つこと。その「微調整」の妙（みょう）こそが、あなたの「成熟（マチュリティ）」と呼ばれるものなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "ハンドルを「キュッ」と締め、漏れていた音が「ピタッ」と止まった瞬間の、あの。世界を掌握（コントロール）しているという、静かな、しかし確かな全能感。漏れ出さぬ意志。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "wel-",
+					"meaning": "to turn / roll"
+				}
+			],
+			"points": [
+				"Volume（巻物）や Revolution（革命）と同じ root。バルブを回すことは、宇宙の回転（秩序）に、自らの意志を同期させることなのです。"
+			]
+		}
+	},
+	{
+		"id": "gauge",
+		"word": "Gauge",
+		"meaning": "ゲージ、計器、尺度、(深さや厚さを)測るもの、基準",
+		"era": "Early 15th Century",
+		"etymology": {
+			"original_statement": "From Old North French gauger, related to galon 'gallon'. Probably ultimately of Germanic origin meaning 'staff / rod'."
+		},
+		"concept": "The staff of measure (目に見えない「圧力」や「深さ」に対し、あえて自分という「物差し（ロッド）」を差し込み。その「限界」や「現在地」を冷徹な「数値（ロゴス）」として外部化し、制御可能な状態に置くこと)",
+		"thinking": "「ゲージ（尺度）」。あなたの悲しみを「測る」ことはできるでしょうか。その難しさに抗（あらが）い、あえて「基準」を設けること。それが文明（シビライゼーション）の始まりです。ゲージ。自分を甘やかすことなく、今の自分が「どの位置」にいるのかを。残酷なまでに正確なメモリで確認すること。その「測定」という名の謙虚さが、あなたを不毛な空想から救い出し、確かな「リアリティ」へと繋ぎ止めるのです。",
+		"part_of_speech": "noun / verb",
+		"aftertaste": "震える。真っ赤な指針（ニードル）が、ギリギリの「危険域（レッドゾーン）」の手前で静止しているのを見る、あの。死の淵を覗（のぞ）き込みながら、しかし自分はまだ「制御下（コントロール）」にあるという、峻烈な覚醒感。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "unknown",
+					"meaning": "staff / rod / pole"
+				}
+			],
+			"points": [
+				"Gallon（ガロン）の親戚。水という形なきものを『測る』ための、硬い木の棒が、この言葉の始まりだったのです。"
+			]
+		}
+	},
+	{
+		"id": "gear",
+		"word": "Gear",
+		"meaning": "歯車、装備、(連動する)道具、準備、一揃いの持ち物",
+		"era": "Early 13th Century",
+		"etymology": {
+			"original_statement": "From Old Norse gervi 'apparel / gear', related to gerva 'make / prepare'."
+		},
+		"concept": "The prepared mesh (単なる「モノ」ではなく。次の行動（アクション）のために「準備(gervi-)」され、他の要素と「噛み合う」準備が整った。機能的な「一揃い」の状態)",
+		"thinking": "「ギア（歯車／装備）」。それは「誰かにとっての準備」です。山に登るためのギア、戦うためのギア。そして。運命という名の大きな装置と「噛み合う」ための、あなたの内なるギア。あなたが自分の中に、確固たる「掟（ルール）」という名の歯車をセットしたとき。あなたの小さな動きは。宇宙全体の「回転（システム）」と連動し、一人の人間を超えた、巨大な「影響力」を生み出し始めるのです。",
+		"part_of_speech": "noun / verb",
+		"aftertaste": "重い鉄の歯車が「ガチッ」と音を立てて噛み合い、微動だにしなかった世界が、ゆっくりと、しかし確実に「動き出した」瞬間の、あの。運命を手中に収めたという、静かな、しかし確かな手応え。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "gher-",
+					"meaning": "to grasp / enclose (associated with equipment)"
+				}
+			],
+			"points": [
+				"Garnish（飾る）や Garment（衣服）と同じ root。自分を『完璧に整える』ことが、ギアの本質的な意味なのです。"
+			]
+		}
+	},
+	{
+		"id": "cog",
+		"word": "Cog",
+		"meaning": "歯、(歯車の)歯、小さな欠片としての役割、(不誠実な)ごまかし",
+		"era": "Mid-13th Century",
+		"etymology": {
+			"original_statement": "Of Scandinavian origin. Originally a 'projection / tooth on a wheel'."
+		},
+		"concept": "The humble projection (全体という名の「巨大な機械（システマ）」の中の。たった一個の、しかし「それ」がなければ全体の回転が「空転（ヌル）」に終わってしまう、代替不可能な「小さな突起」としての誇り)",
+		"thinking": "「コグ（歯車の歯）」。自分を「巨大な機械の歯車の一部（コグ）」だと自虐すること。しかし。その「たった一個の歯」が欠けただけで、宇宙全体は止まります。その「小さな一点」として。自分の場所から逃げ出さず、隣の歯車と「痛み（摩擦）」を分かち合いながら、力を伝え続けること。コグ。それは。匿名性（アノニミティ）の中にある、最も峻烈で、最も誠実な「英雄的献身」の別名なのです。",
+		"part_of_speech": "noun / verb",
+		"aftertaste": "指先でなぞる、歯車の一個一個の突起。どれ一つとして同じ形ではなく、それぞれが。世界という巨大な「鼓動（ビート）」を繋いでいるという、あの。地味で。しかし確かな「存在意義」の安堵。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "unknown",
+					"meaning": "projection / tooth"
+				}
+			],
+			"points": [
+				"かつては『さいころを細工する』という意味でも使われました。小さな細工が、全体の運命（結果）を左右する、という皮肉な含みがあります。"
+			]
+		}
+	},
+	{
+		"id": "pneumatic",
+		"word": "Pneumatic",
+		"meaning": "気圧の、霊的な、呼吸による、風の力で動く、精神的な",
+		"era": "Mid-17th Century",
+		"etymology": {
+			"components": [
+				"pneuma (wind / breath / spirit)"
+			],
+			"original_statement": "From Greek pneumatikos, from pneuma 'wind / breath / spirit', from pnein 'to blow / breathe'."
+		},
+		"concept": "The driving spirit (「鉄（マテリアル）」の硬さを持ちながら、それを突き動かすのは、目に見えない「風（空気）」の圧力。物質の中に「霊魂(pneuma-)」という名の「動力」が宿り、命が吹き込まれた状態)",
+		"thinking": "ニューマチック。そのルーツは「息（プネウマ）」。古代の哲学者たちにとって、息とは「魂（ソウル）」そのものでした。ニューマチックな人生。それは。鋼（はがね）のような強靭な鎧（よろい）を纏（まと）いながらも。その内側には、一陣の風のように「自由」で、「聖なる息吹」に満ちた精神を宿していること。硬質さと流動性。その二つが「圧力」という名の「緊張」によって、完璧に調和している美しさ。 ",
+		"part_of_speech": "adjective",
+		"aftertaste": "ピストンから「シュッ」と音を立てて吐き出される、高圧の空気。目に見えないはずの「風」が、巨大な鉄の塊を軽々と動かしてみせる。あの。魔法のような「逆転」の感覚。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "pneu-",
+					"meaning": "to breathe / blow"
+				}
+			],
+			"points": [
+				"Pneumonia（肺炎）と同じ root。呼吸とは、世界と自分の『境界』を風で浸す、原初的な対話（ダイアローグ）なのです。"
+			]
+		}
+	},
+	{
+		"id": "steely",
+		"word": "Steely",
+		"meaning": "鋼のような、冷酷な(までの)意志、硬い、鋭い",
+		"era": "Late 16th Century",
+		"etymology": {
+			"components": [
+				"steel (hard metal)",
+				"stakh- (to stand firm)"
+			],
+			"original_statement": "From steel + -y. Steel originally meant 'that which stands firm / hard metal'."
+		},
+		"concept": "The hardened resolve (「鉄（アイアン）」に「炭素（苦しみ）」を加え、火（試練）で熱し、水（絶望）で急冷した結果、もはや何ものにも曲げられない「冷徹な光」を放つようになった、無慈悲で気高き意志)",
+		"thinking": "スティーリー（鋼のような）。それは「曲がらない」優雅さ。ただの「硬さ」ではなく。そこには、内側に閉じ込められた「鋭さ（エッジ）」があります。スティーリーな視線。それは。世界の嘘（フェイク）を冷酷に切り裂き、ただ「真実（トールス）」だけを射抜こうとする、知性の刃（ブレード）。あなたが誰に対しても媚（こ）びず、鋼のような意志を貫くとき。あなたは、自分という名の「最強の武器」を完成させているのです。",
+		"part_of_speech": "adjective",
+		"aftertaste": "抜きたての日本刀の、あの。青白く冷たい「輝き」。見ているだけで喉（のど）の奥が凍りつくような。しかし。それこそが自分を、そして大切な人を守り抜く唯一の「盾（シールド）」であるという、圧倒的な信頼。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "stak-",
+					"meaning": "to stand / stay (associated with hard / stiff)"
+				}
+			],
+			"points": [
+				"Stay（留まる）や Static（静的な）と同じ root に繋がる可能性。鋼とは、最も『動かない』意志の金属なのです。"
+			]
+		}
+	},
+	{
+		"id": "torsion",
+		"word": "Torsion",
+		"meaning": "ねじれ、ねじり、(回ることで生まれる)張力、捻転、心の葛藤",
+		"era": "Mid-16th Century",
+		"etymology": {
+			"components": [
+				"torquere (to twist)"
+			],
+			"original_statement": "From Old French torsion, from Latin torsionem, from torquere 'to twist'."
+		},
+		"concept": "The accumulated twist (「真っ直ぐ(straight)」であろうとする意志を、あえて逆方向へと「ねじ曲げ(tor-))」。その「葛藤（ストレス）」の中に、爆発的な「回転エネルギー」を「蓄積（チャージ）」させる、動的な静止の状態)",
+		"thinking": "「トーション（ねじれ）」。それは。ただ「歪（ゆが）んでいる」ことではありません。それは。バネ（スプリング）をギリギリまでねじり上げた瞬間の。いつ全方向に「解放」されてもおかしくない、極限の「緊張（テンション）」。あなたの心が、矛盾（パラドックス）でバキバキと音を立てて「ねじれて」いるとき。あなたは。世界を動かすための「巨大な動力（トルク）」を、その内側に生み出している真っ最中なのです。ねじれは、力の源（ソース）なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "太いロープを逆にねじり、手が「プルプル」と震え出す、あの。いつ弾（はじ）けるか分からない危うい「美しさ」。そこに宿る「一撃（ストライク）」への期待と、峻烈なエネルギーの予感。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "terkw-",
+					"meaning": "to twist"
+				}
+			],
+			"points": [
+				"Torture（拷問／ねじり）や Torque（トルク）と同じ root。苦しみ（ねじれ）が深ければ深いほど、そこから生まれる『回転する知性』もまた強大になるのです。"
+			]
+		}
+	},
+	{
+		"id": "elasticity",
+		"word": "Elasticity",
+		"meaning": "弾力、しなやかさ、順応性、元に戻ろうとする意志",
+		"era": "Mid-17th Century",
+		"etymology": {
+			"components": [
+				"elastikos (propelling / elastic)",
+				"elaunein (to drive / beat out / propel)"
+			],
+			"original_statement": "Modified from Modern Latin elasticus, from Greek elastikos 'propelling / elastic', from elaunein 'to drive'."
+		},
+		"concept": "The propellant return (「外圧（ストレス）」に耐えて「形を変える(yield)」だけでなく。一瞬のうちに自分自身の「正解（フォルム）」へと「戻ろう(recover)」とする、不屈で「推進的(elaun-)」な生命の回復力)",
+		"thinking": "エラスティシティ（弾力）。それは。折れないこと（硬さ）よりも、ずっと強い。どんなに打ちのめされ、踏みつけられても。あなたが自分の心に「絶対的な自分（セルフ）」という名のバネを持ち続けているなら。あなたは必ず。以前よりも高く、以前よりも「激しく」飛び上がることができます。弾力。それは。過去の傷を「跳躍（ジャンプ）」のためのエネルギーに変える、しなやかな「復讐（リベンジ）」なのです。 ",
+		"part_of_speech": "noun",
+		"aftertaste": "ゴム鞠（まり）を床に叩きつけた瞬間に、それが自分の顔の高さまで一気に「帰還」してきた、あの。命の「瑞々（みずみず）しい反発力」。自分が決して「壊れていない」と確信する、あの爽快感。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "el- / ela-",
+					"meaning": "to drive / set in motion"
+				}
+			],
+			"points": [
+				"Elastic（ゴムのような）は、本来『追い払う』『駆動する』という意味から来ました。折れない心は、常に世界を『押し返す』力を持っているのです。"
+			]
+		}
+	},
+	{
+		"id": "viscosity",
+		"word": "Viscosity",
+		"meaning": "粘性、ねばり、(流れることへの)抵抗、絡みつく時間、遅さの重み",
+		"era": "Early 15th Century",
+		"etymology": {
+			"components": [
+				"viscus (birdlime / mistletoe)"
+			],
+			"original_statement": "From Old French viscosite, from Medieval Latin viscositas, from Latin viscus 'birdlime'."
+		},
+		"concept": "The resistance to flow (「水（液体）」のように。ただ軽やかに「流れる(flow)」ことを拒（こば）み。自らの「内側に絡みつく意志（粘り）」によって。一歩進むたびに「時間（クロノス）」を重く引き摺り回す、執念深い「遅延」の美学)",
+		"thinking": "ビスコシティ（粘性）。すべてが「効率（スピード）」で測られるこの時代に。あなたはあえて「粘る」ことを選ぶ。それは。すぐに答えを出さず、じっと沈殿（フリーズ）し。重厚な「未練（あるいは深み）」を纏（まと）って、一ミリずつしか動かないこと。蜂蜜のようなビスコシティ。その「遅さ」の中にこそ。さらさらと流れる水には決して宿らない、芳醇（ほうじゅん）で「濃厚な真実」が、密かに醸造（かも）されているのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "スプーンを抜いたあとに。糸を引いて、ゆっくり、ゆっくりと元に戻っていく。あの。時間を「捕まえて（グリップ）」離さないような、重厚でしつこい「甘美な重み」。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "weis-",
+					"meaning": "to flow / melt / poison (associated with sticky slime)"
+				}
+			],
+			"points": [
+				"Virus（ウイルス）や Poison（毒／かつては飲み物）と同じ root。粘りつくものは、時に他者の魂を『侵食（インフェクト）』する強烈な力を持つことを示唆しています。"
+			]
+		}
+	},
+	{
+		"id": "combustion",
+		"word": "Combustion",
+		"meaning": "燃焼、激しい興奮、(酸素との)劇的な反応、内なる爆発",
+		"era": "Mid-15th Century",
+		"etymology": {
+			"components": [
+				"com- (intensive)",
+				"urerer (to burn / scorch)"
+			],
+			"original_statement": "From Old French combustion, from Latin combustionem, from comburere 'to burn entirely / consume by fire'."
+		},
+		"concept": "The total consumption (「外部（酸素）」という激しい「愛」に出会い。自らの構成要素すべてを「光（ライト）」と「熱（ヒート）」へと「反転(com-bur-)」させ。後戻りできないほどに自らを「消費（コンシューム）」し尽くす、劇烈な「変化」の瞬間)",
+		"thinking": "コンバスション（燃焼）。それは「もう引き返さない」という覚悟。あなたが自分の情熱（パッション）を「内燃機関（エンジン）」のガソリンのように燃やし始めるとき。あなたは、単に熱くなっているのではない。自分という「物質（エナジー）」を、世界を動かす「動力（トルク）」へと書き換えているのです。激しい燃焼は。灰（アッシュ）を残しますが。その瞬間に生まれた「光」は、千年の闇を照らすために十分な強さを持っています。",
+		"part_of_speech": "noun",
+		"aftertaste": "暗闇の中で、一気に吹き上がるオレンジ色の炎。その美しさに目を焼かれながら。自分の「内側」が空っぽになっていくような、切ない、しかし暴力的なまでの「充足」。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "eus-",
+					"meaning": "to burn"
+				}
+			],
+			"points": [
+				"Amber（琥珀／燃える石）や Ash（灰）と同じ root に繋がります。 combustion とは、自らを『輝く無（灰）』へと変換するための、最も神聖な儀式なのです。"
+			]
+		}
+	},
+	{
+		"id": "catalysis",
+		"word": "Catalysis",
+		"meaning": "触媒作用、(自分は変わらずに)変化を促すこと、導き、変革の契機",
+		"era": "Mid-19th Century",
+		"etymology": {
+			"components": [
+				"kata- (down / wholly)",
+				"lyein (to loosen / untie)"
+			],
+			"original_statement": "From Greek katalysis 'dissolution / a waiving / dissolving', from kata- 'wholly' + lyein 'to loosen / untie'."
+		},
+		"concept": "The unmoved mover (自分自身は決して「消費(consume)」されず、その「形」を保ったまま。隣りにいる「存在」たちの「絆（結合）」を「解（(lye-)」き放ち、新しい「形」へと結び直させる。峻烈な「導き手」の美学)",
+		"thinking": "カタリシス（触媒作用）。それは、教皇（ハイエロファント）のような生き方。あなたがそこに「ただ居（い）る」だけで。冷え切っていた場が「熱（アクション）」に満ち。互いに憎み合っていた者同士が「対話（ハーモニー）」を始める。あなたは何も命令せず、自分は一歩も動きません。しかし世界は。あなたの「存在」という刺激（コンタクト）に触れたが最後。以前と同じ姿でいることは、もはや不可能になるのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "一滴の液体が落ちた瞬間に、濁っていた水が「パッ」と透明に。あるいは鮮烈な青色に変わった時の、あの魔法。自分が「変えた」のではない、ただ「居た」だけだ、という。不敵で謙虚な「力の余韻」。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "leu-",
+					"meaning": "to loosen / divide / cut apart"
+				}
+			],
+			"points": [
+				"Lose（失う）や Analysis（分析／解き明かす）と同じ root。解き放つこと（ルージング）こそが、新しい結合への唯一の門なのです。"
+			]
+		}
 	}
 ];
