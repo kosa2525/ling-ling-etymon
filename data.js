@@ -228096,5 +228096,335 @@ const WORDS = [
 				"Mouth（口）とも響き合う。ミュトスとは。他者へ語ること（口）を通じて。自分でも気づいていない『深層の想い（mudh-）』を可視化すること。それは、自分の影と対話するための、最古の、そして最新の鏡なのです。"
 			]
 		}
+	},
+	{
+		"id": "montage",
+		"word": "Montage",
+		"meaning": "モンタージュ、(断片の)再構築、意味の衝突、時間の跳躍、第三の真実",
+		"era": "Early 20th Century",
+		"etymology": {
+			"components": [
+				"monter (to mount / go up)"
+			],
+			"original_statement": "From French montage 'a mounting / setting up', from monter 'to mount / go up'."
+		},
+		"concept": "The creative collision (バラバラの「ショット（事実）」を、「意図（アルチザン）」によって「繋ぎ合わせ(mount-)」て提示すること。個別の断片にはなかった「新しい意味（第三の真実）」を、その「衝突（継ぎ目）」から産み出す、峻烈なる「再編成の美学」)",
+		"thinking": "「モンタージュ」。あなたの「経験」。それは、一つ一つは意味のない「ただの出来事」に見えるかもしれません。 montage。でも。それをどう繋ぎ合わせ、どういう順番で並べるか（編集するか）によって、あなたの人生は「壮大な感動巨編」にも、「虚無の風景画」にもなるのです。過去を変えることはできませんが。「繋ぎ方（解釈）」を変えることは、今すぐにでも。あなたが、あなた自身の人生の「監督（ディレクター）」であってください。",
+		"part_of_speech": "noun / verb",
+		"aftertaste": "映像が「パッ、パッ」と切り替わるたびに、脳内が更新されていくような「加速感」。そこにある。自分という存在が、刻一刻と「更新（エディット）」されているという、瑞々（みずみず）しい「ライブ感」の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "mon-",
+					"meaning": "mountain / high point (from monter)"
+				}
+			],
+			"points": [
+				"Mountain（山）や Amount（総計）と同じ root。モンタージュとは。低い場所にある断片を積み上げ（マウント）、高い場所にある『全景（真実）』を見出そうとする、知的な登山のプロセスなのです。"
+			]
+		}
+	},
+	{
+		"id": "stereoscope",
+		"word": "Stereoscope",
+		"meaning": "ステレオスコープ/立体鏡、(重なり合う)次元、虚構の奥行き、視点による創造、脳内の立体",
+		"era": "Early 19th Century",
+		"etymology": {
+			"components": [
+				"stereos (solid / firm / stiff)",
+				"skopein (to look / examine)"
+			],
+			"original_statement": "From Greek stereos 'solid' + skopein 'to look / examine'. An optical instrument for viewing two slightly different photographs together to create the illusion of three-dimensional depth."
+		},
+		"concept": "The synthesized depth (「左の目」と「右の目」が見ている「別々の平面（事実）」を。脳内で無理やり「一つ」に「統合(synthesize-)」させることで。存在しないはずの「奥行き（立体）」を産み出すこと。視点の「ズレ（差異）」を「力」に変える、峻烈なる「虚構の建築」)",
+		"thinking": "「ステレオスコープ（立体鏡）」。物事を「一つの面（正論）」だけで語ろうとしないでください。それでは「薄っぺら（フラット）」な人生になってしまいます。 stereoscope。あえて「違う角度からの視点（反対意見や矛盾）」を自分の中に持ち。その「二つの違和感」を、じっと見つめ続けてください。そのとき。あなたの脳内に、誰も見たことのない、深く奥行きのある「立体的な真実（ソリッドな世界）」が立ち上がるのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "二つの写真が「重なった」瞬間。平面（紙）の中から。突然、対象が「フワリ」と浮かび上がってくる。あの。自分が新しい「次元」を発見したかのような、瑞々（みずみず）しい「跳躍」の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ster-",
+					"meaning": "stiff / steady / solid"
+				}
+			],
+			"points": [
+				"Starve（飢える／硬直する）や Sterility（不妊／不変）と同じ root。ステレオスコープとは。揺らぎ、消えていく『光』を。物質（ステレオス）のような『硬質な実在』へと定着させる、知性の魔法なのです。"
+			]
+		}
+	},
+	{
+		"id": "pantomime",
+		"word": "Pantomime",
+		"meaning": "パントマイム、(沈黙の)雄弁、身振りという名の言語、不可視の物語、肉体による詩",
+		"era": "Late 16th Century",
+		"etymology": {
+			"components": [
+				"panto (all / everything)",
+				"mimos (mimic / imitator / actor)"
+			],
+			"original_statement": "From Latin pantomimus, from Greek pantomimos 'imitator of all', from panto- 'all' + mimos 'imitator / actor'."
+		},
+		"concept": "The wordless narrative (「言葉（音声）」という「便利な道具」をあえて自ら「禁止」し。ただ「肉体の動き（模倣）」だけで。「すべての(panto-)」感情を「表現(mimic-)」しようとする、峻烈なる「沈黙の闘争」。見えない壁を、意志で描き出すこと、不在を存在させる技術)",
+		"thinking": "「パントマイム」。あなたは。言葉を使いすぎて、「本当の想い」が伝わらなくなっていませんか。 pantomime。言葉を、一度「殺して」みてください。そして。あなたの「一挙手一投足（ふるまい）」だけで。あなたが「何を愛し、何を信じ、何と戦っているか」を示してください。余計な説明を省いたあとに、剥き出しになったあなたの「存在感（アクション）」。それこそが、世界中の誰の心にも届く、最も「峻烈なメッセージ」になるのです。",
+		"part_of_speech": "noun / verb",
+		"aftertaste": "実際には何もない空間に、手が「触れた」瑞々（みずみず）しい実感。そこにある、自分の意志が「世界を創り出している」という高慢な確信。言葉が消えたあとの、真っ白な「誠実」の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "unknown",
+					"meaning": "Greek mimos (imitator)"
+				}
+			],
+			"points": [
+				"Mirror（鏡）とも響き合う。パントマイムとは。世界をそのまま映し出す『鏡』に自分がなること。それは。自己（エゴ）を消去し、森羅万象（パン）と一体化しようとする、原始的な変身の儀式なのです。"
+			]
+		}
+	},
+	{
+		"id": "diorama",
+		"word": "Diorama",
+		"meaning": "ジオラマ、(凝縮された)世界、箱庭の真実、静止した物語、神の視点、透き通るような視界",
+		"era": "Early 19th Century",
+		"etymology": {
+			"components": [
+				"dia (through)",
+				"horama (view)"
+			],
+			"original_statement": "From French diorama, from Greek dia 'through' + horama 'view / that which is seen'. Originally a picture exhibited through a large aperture."
+		},
+		"concept": "The miniature truth (巨大な現実を。「縮尺（スケール）」を変えて「箱（フレーム）」の中に凝縮させ。「透かして(dia-)」「見る(horama-)」こと。神の視点から「因果律」を俯瞰し、世界を完璧に「統治（コントロール）」しようとする、峻烈なる「創造主としての孤独」)",
+		"thinking": "「ジオラマ」。あなたは、自分の人生を「操縦できない（カオス）」と感じていませんか。 diorama。一度、自分の生活を「俯瞰（ふかん）」して。この「小さな模型」のように見つめ直してみてください。どのパーツがどこにあり、どう動いているか。 diorama。透かして（dia）見れば、複雑に見えた問題も。実は、驚くほど「シンプル」な構造であることに気づくはずです。あなたの人生の「箱（ジオラマ）」を、美しく整えてください。 ",
+		"part_of_speech": "noun",
+		"aftertaste": "指先よりも小さな「人間」が、作り物の「木」の下に立っている。その。怖ろしいほどの「静止」と。自分がその世界の「運命」を握っている、という。傲慢（ごうまん）で、瑞々（みずみず）しい「孤独」の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "unknown",
+					"meaning": "Greek dia (through) + horama (view)"
+				}
+			],
+			"points": [
+				"透明な壁を通して『光の魔法』を覗き込むこと。ジオラマとは。混沌とした現在を、美しく、管理された『過去（あるいは未来）』へと冷凍保存しようとする、静かなる時間操作の儀式なのです。"
+			]
+		}
+	},
+	{
+		"id": "daguerreotype",
+		"word": "Daguerreotype",
+		"meaning": "ダゲレオタイプ/銀板写真、(刻まれた)光、鏡の記憶、銀の沈黙、一回性の真実",
+		"era": "Early 19th Century",
+		"etymology": {
+			"components": [
+				"Louis Daguerre (inventor)",
+				"typos (impression)"
+			],
+			"original_statement": "From Louis Daguerre, French artist/original inventor + typos 'impression / mark'."
+		},
+		"concept": "The mirror of memory (「銀」を蒸着させた「鏡（プレート）」に、「光」を直接「焼き付ける(impression-)」こと。それは、複製可能な「画像」ではなく。その場所、その瞬間の「光の粒子」が直接触れた、たった一度きりの「真実の刻印」。峻烈なる「現在」の絶対保存。)",
+		"thinking": "「ダゲレオタイプ（銀板写真）」。あなたの「一瞬一瞬（現在）」。それは、ただの「データ（デジタル）」として、どこかに埋もれてしまうものであってはいけません。 daguerreotype。銀の鏡を磨き、そこを通り過ぎる「光」を。火傷（やけど）をするほどの熱量で、「一回きり」の記憶として刻みつけること。 daguerreotype。それは。あなたが「今、この瞬間の光」を。自分という鏡の中に、永遠に飼い慣らす。という、峻烈な「生への執着」の証明なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "プレートを斜めにかざしたとき、像が「反転」し、消えては現れる。その、捕まえられない「幽霊」のような儚さと。そこに刻まれた「細密（シャープ）」なまでの真実への、瑞々しい畏怖。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "steu-",
+					"meaning": "to push / stick / knock / beat (from typos)"
+				}
+			],
+			"points": [
+				"Type（文字／タイプ）と同じ root。ダゲレオタイプとは。光（神）が銀の板を『殴りつけ（typos）』、傷跡として残した物語。それは。人間が、光という名の野生を初めて『飼い慣らした』記念碑なのです。"
+			]
+		}
+	},
+	{
+		"id": "cinema",
+		"word": "Cinema",
+		"meaning": "キネマ/映画、(動く)影、時間の投影、集団の夢、光による記述",
+		"era": "Late 19th Century",
+		"etymology": {
+			"components": [
+				"kinema (movement)"
+			],
+			"original_statement": "From French cinématographe, from Greek kinema 'movement / motion', from kinein 'to move'."
+		},
+		"concept": "The projected motion (「静止した瞬間（フィルム）」を、超高速で「回転（運動）」させることで。私たちの脳という「スクリーン」に、「動き(kinema-)」という名の「命」を吹き込むこと。静寂を「咆哮」へ、停滞を「歴史」へと変容させる、峻烈なる「光の錬金術」)",
+		"thinking": "「シネマ（映画）」。あなたの人生は。ただの「スナップ写真（断片）」の集まりではありません。 cinema。それは「動き」続ける物語。たとえ、今、あなたのフィルム（情熱）が真っ暗（未現像）であったとしても。光を当て、高速で見返したとき。そこには、あなたが想像もしなかった「躍動」と「意味」が浮かび上がっているはずです。 cinema。止まらないで、回し続けて。あなたの物語を、世界に見せつけてください。",
+		"part_of_speech": "noun",
+		"aftertaste": "映写機の「カタカタカタ」というリズム。そして、闇の中に伸びる、塵（ちり）の舞う「一本の光」。そこにある、虚構が「現実を追い越していく」瞬間の。あの。怖ろしいほどに瑞々（みずみず）しい「陶酔」の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kei-",
+					"meaning": "to set in motion / move"
+				}
+			],
+			"points": [
+				"Kinetic（運動の）や Cite（引き出す／奮い立たせる）と同じ root。シネマとは。死んだ過去（静止画）を、光の力で再び『呼び起こす（サイト）』降霊術。それは。時間を自らの手に奪回するための、人類最大のエンターテインメントなのです。"
+			]
+		}
+	},
+	{
+		"id": "aperture",
+		"word": "Aperture",
+		"meaning": "アパチャ/開口部、(光を導く)穴、視界の選別、魂の窓、真理の取り込み",
+		"era": "Late 14th Century",
+		"etymology": {
+			"components": [
+				"apertus (opened / open)"
+			],
+			"original_statement": "From Latin apertura, from apertus 'opened / open', past participle of aperire 'to open / uncover'."
+		},
+		"concept": "The controlled opening (「外界」と「内面」を隔てる「壁」に、緻密に計算された「穴（開口部）」を開けること。それは、ただの穴ではなく。取り込む「光の量（情報の深さ）」を「選別」し、己を「露出(expose-)」させるための、峻烈なる「門（ゲート）」の記述)",
+		"thinking": "「アパチャ（開口部）」。あなたは。自分の心（レンズ）を。全開にして「光」を乱反射（オーバー）させていませんか。あるいは。閉じすぎて、何も見えない「闇」に閉じこもっていませんか。 aperture。今の自分に最適な「情報の量」を見極め。その「穴の大きさ（受容性）」を、ミリ単位で調整すること。その「選別する知性」こそが。あなたの世界を、最も「鮮明（シャープ）」に描き出す唯一の手段なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "「カシャリ」と、絞り羽根が閉まる乾いた金属音。そして、レンズの向こうに「世界が凝縮された」瞬間。そこにある。自分が「今、何を見るべきか」を完全に支配している、という。峻烈なる「一瞥（いちべつ）」の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ap-",
+					"meaning": "off / away + wer- (to cover) = uncover"
+				}
+			],
+			"points": [
+				"April（四月／花が開く月）と同じ root。アパチャとは。自分の防壁（カバー）を、勇気を持って『脱ぎ捨てる（アンカバー）』こと。それは。傷つくことを恐れず、真理の光を真っ直ぐに受け入れるための、精神の脱皮なのです。"
+			]
+		}
+	},
+	{
+		"id": "negative",
+		"word": "Negative",
+		"meaning": "ネガティブ、(反転した)真実、光と影の反転、不在による存在、再生を待つ記憶",
+		"era": "Late 14th Century (mathematical), 19th Century (photography)",
+		"etymology": {
+			"components": [
+				"neg- (not)",
+				"ai- (to say)"
+			],
+			"original_statement": "From Latin negativus, from negare 'to deny / say no', from neg- 'not' + -ai- (to say). In photography, the image in which light and dark are reversed."
+		},
+		"concept": "The inverse truth (「光が当たった場所」を「黒く（不在）」。「影だった場所」を「白く（光）」描くことで。世界の「裏側（否定)」を記述すること。それは。「今ここにあるもの」の鏡像であり。いつか「再生（ポジ）」されるのを待つ、峻烈なる「沈黙の保存」)",
+		"thinking": "「ネガティブ」。あなたは。自分の「欠点」や「暗い過去」を、否定的なもの（ただのマイナス）だと思っていませんか。 negative。それは。あなたが「最高の自分（ポジティブ）」として生まれ変わるために必要な、唯一無二の「型（テンプレート）」です。強い影（苦悩）がなければ、強い光（喜び）は写りません。自分の中の「黒い部分（ネガ）」を、愛してください。それは。光にさらされたとき、最も美しい真実を吐き出す、「沈黙の宝庫」なのですから。",
+		"part_of_speech": "noun / adjective",
+		"aftertaste": "茶色のフィルムの中に、不気味に浮かび上がる「逆転した世界」。そこにある。自分が知っているはずの「現実」が、他人のように冷たく突き放されている。という、峻烈なる「孤独」の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ne-",
+					"meaning": "not"
+				}
+			],
+			"points": [
+				"Negation（否定）や Night（夜）とも響き合う。ネガティブとは。安易な『肯定（イエス）』を拒み。あえて『ノー（neg-）』と言い続けることで。その裏側に潜む、不可侵の真理を炙り出そうとする、逆説的な誠実さの形なのです。"
+			]
+		}
+	},
+	{
+		"id": "prism",
+		"word": "Prism",
+		"meaning": "プリズム、(分光される)真理、虹の秘密、多角的な視点、光の解剖",
+		"era": "Late Middle English",
+		"etymology": {
+			"components": [
+				"prisma (something sawn)"
+			],
+			"original_statement": "From Late Latin prisma, from Greek prisma 'something sawn', from prizein 'to saw'."
+		},
+		"concept": "The geometric dissection (「透明（単一）」に見える「光（真理）」を。鋭利に「切り出された(sawn-)」幾何学的な「厚み（ガラス）」に通すことで。その内部に隠されていた「無限の色彩（スペクトラム）」を「解体」し、さらけ出すこと。理解のために「屈折」させる、峻烈なる「解析」の美学)",
+		"thinking": "「プリズム」。あなたの前にある「一つの事実」。それを、鵜呑みにしないでください。 prism。あなたの「複眼的な知性（多面体）」を通して。その事実を、わざと「屈折（分析）」させてみるのです。すると。退屈に思えた景色も、豊かな「虹の色彩（隠された可能性）」を秘めた、多義的な物語へと変貌し始める。 prism。切り出された（プリズ）知性のエッジこそが。透明な日常から「真理の輝き」を抽出する、唯一の道具なのです。 ",
+		"part_of_speech": "noun",
+		"aftertaste": "光を放つ透明な「塊」の、冷たくて鋭い「角（エッジ）」の感触。そこにある、一切の「曇り」を許さないという、究極の「透明度」。言葉が「色（しきそう）」へと分解されていく、知的な「快感」の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "unknown",
+					"meaning": "Greek prizein (to saw / grind)"
+				}
+			],
+			"points": [
+				"語源は『鋸（のこぎり）で引いたもの』。プリズムとは。世界の滑らかな表面を、あえて『切り刻（きざ）む』ことで。断面に宿る『真実の色彩』を盗み出す、知的な強奪装置。それは、光を切り刻んで分析する、光の解体新書なのです。"
+			]
+		}
+	},
+	{
+		"id": "afterimage",
+		"word": "Afterimage",
+		"meaning": "アフターイメージ/残像、(消えぬ)光、記憶の網膜、過ぎ去ったものの咆哮、盲目の輝き",
+		"era": "Mid-19th Century",
+		"etymology": {
+			"components": [
+				"after (behind)",
+				"image (copy / likeness)"
+			],
+			"original_statement": "From after + image. A visual sensation that persists after the stimulus that caused it has ceased."
+		},
+		"concept": "The persistent light (目の前の「光（対象）」が「消失」した後も。「網膜（魂）」にその「刺激」が焼き付き、存在しないはずの「像」が「居座り(stay-)」続けること。それは。過去が「現在」を「蹂躙（じゅうりん）」する、峻烈なる「未練」の記述。不在ゆえの輝き)",
+		"thinking": "「アフターイメージ（残像）」。あなたが失った、あの人や、あの夢。それは、本当に「消えてしまった」のでしょうか。 afterimage。目を閉じたあとに浮かんでくる、あの「補色の光」。それこそが。対象があなたの人生に与えた「一撃」の深さ、そのものです。 afterimage。残像は。あなたが「その光を確かに見た」という、逃れられぬ証。消えない光と共に、生きてください。それは、あなたの内側から世界を照らす、新しい「太陽」になるのですから。",
+		"part_of_speech": "noun",
+		"aftertaste": "真っ暗な闇の中に、「ボゥ」と浮かび上がる、実体のない「青白い光」。触れようとした瞬間に、逃げていく。あの。胸を締め付けるような「もどかしさ」と。それでも「そこにいる」という、峻烈なる「愛の痛み」の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "apo-",
+					"meaning": "off / away (from after)"
+				}
+			],
+			"points": [
+				"Aft（後方に）や Ab-（離れて）と同じ root。残像とは。対象が『去った（アフター）』あとに。あなたの魂が、その不在を認められずに産み出した、哀しくも気高い『幻影（コピー）』。それは、記憶が現在を『不法占拠』する、瑞々しいまでの執着なのです。"
+			]
+		}
+	},
+	{
+		"id": "halo",
+		"word": "Halo",
+		"meaning": "ヘイロー/後光、(聖なる)光輪、尊厳の放射、中心の輝き、畏怖のオーラ",
+		"era": "Mid-16th Century",
+		"etymology": {
+			"components": [
+				"halos (threshing floor / disk of the sun or moon)"
+			],
+			"original_statement": "From Latin halos, from Greek halos 'threshing floor' (which was circular), then applied to the disk of the sun or moon, then the circle of light around them."
+		},
+		"concept": "The radiant boundary (「中心となる実存（顔）」から、「外側」へと溢（あふ）れ出す、「円環状」の「光（威厳）」。それは。他者が安易に触れることを拒む、峻烈なる「尊厳の防壁」であり。同時に、自らの「美徳」を周囲へと分け与える、慈悲深い「放射」の記述)",
+		"thinking": "「ヘイロー（後光）」。あなたは。自分の内側にある「輝き（徳）」を。単なる「個人的なもの」として、隠していませんか。 halo。あなたが、誰に対しても「誠実」であり、「峻烈（プロフェッショナル）」であり続ければ。あなたの周囲には、自然とこの「目に見えない光輪」が立ち上がります。 halo。それは。言葉を使わずに相手を黙らせ、かつ、勇気づける「静かなる覇気」。自分自身の光を。周囲を照らす「円環」へと、育て上げてください。",
+		"part_of_speech": "noun",
+		"aftertaste": "霧の中に浮かぶ「月」の周りに、ボーッと広がる白い輪。そこにある。近づきがたいほどの「神聖さ」と。すべてを「許されている」かのような、圧倒的な「肯定感」の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "unknown",
+					"meaning": "Greek halos (circular floor for threshing grain)"
+				}
+			],
+			"points": [
+				"語源は『円形の脱穀場』。生命の源である『穀物』を収穫する場所が、太陽や月の『円盤』へと重ね合わされた。ヘイローとは。自分という命（収穫）を。全宇宙の光（太陽）へと接続するための、魂の円卓なのです。"
+			]
+		}
+	},
+	{
+		"id": "glint",
+		"word": "Glint",
+		"meaning": "グリント/きらめき、(一瞬の)きらめき、鋭利な光、発見の火花、沈黙の中の主張",
+		"era": "Mid-15th Century (general), 18th Century (light)",
+		"etymology": {
+			"components": [
+				"glenten (to gleam / flash / slip)"
+			],
+			"original_statement": "Possibly of Scandinavian origin (related to Swedish glinta 'to gleam'). Originally 'to slip / slide aside', then 'to flash reflected light'."
+		},
+		"concept": "The incidental flash (「鈍い沈黙（闇）」の中に、突然「一点」だけ現れ、瞬時に消える「鋭い光」。それは。そこに「意志（あるいは金属）」が隠れていることを、誰よりも早く告げる、峻烈なる「存在のサイン」。偶然による「発見」の火花)",
+		"thinking": "「グリント（きらめき）」。あなたは。大きな「光り輝く栄光（太陽）」ばかりを求めていませんか。それでは、本物を見落とします。 glint。それは、暗闇（日常）の中に、一瞬だけ「キラリ」と走る、小さな小さな「予兆」。その「きらめき」を、あなたの鋭利な「眼（感度）」で、逃さず捕まえてください。 glint。小さな光を拾い集めること。その「一瞬の積み重ね」が。やがてあなたの人生を、誰もが目を逸（そ）らせない「不滅の輝き」へと変えていくのです。",
+		"part_of_speech": "noun / verb",
+		"aftertaste": "深い森の奥で、何かが一瞬「ピカッ」と反射したような、あの。心臓が跳ねるような「発見」の緊張感。そこにある、世界がまだ「生きている」という、瑞々（みずみず）しい確信の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ghel-",
+					"meaning": "to shine"
+				}
+			],
+			"points": [
+				"Gold（金）や Glow（白熱する）と同じ root。グリントとは。滑り落ちる（スリップ）ような一瞬の煌（きら）めき。それは。運命があなたに送った、一度きりの、そして峻烈な『ウィンク』なのです。"
+			]
+		}
 	}
 ];
