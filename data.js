@@ -231463,5 +231463,387 @@ const WORDS = [
 				"ツナミとは、人間が作った『港（文明）』という名の『箱庭』を、地球という『現実』が、一撃で破壊すること。それは。予測可能な予定調和を、予測不可能な『絶対的な他者』によって粉砕する、という。峻烈なる『外部性』の記述なのです。"
 			]
 		}
+	},
+	{
+		"id": "perihelion",
+		"word": "Perihelion",
+		"meaning": "ペリヘリオン/近日点（きんじつてん）、(情熱が)最も近づく時、熱狂の臨界、灼熱の接近、呼吸の短縮",
+		"era": "Late 16th Century",
+		"etymology": {
+			"components": [
+				"peri- (near)",
+				"helios (sun)"
+			],
+			"original_statement": "From Greek peri- 'near' + helios 'sun'. The point in the orbit of a planet, asteroid, or comet that is nearest to the sun."
+		},
+		"concept": "The closest point (太陽（理想や情熱）に最も近づく、軌道上の地点。それは。あまりの「熱」と「光」に、自我が溶け出しそうになる、峻烈なる「至福の恐怖」の記述)",
+		"thinking": "「ペリヘリオン（近日点）」。あなたの人生において。今、この瞬間が「最も熱い（絶頂）」なら。恐れないでください。その「灼熱」で、自分の中の「不純物」をすべて焼き尽くしてください。 perihelion。それは、永遠には続きません。でも、その「近さ」を知っている者だけが。のちにやってくる「極寒の冬（孤独）」を、自分の内なる太陽で耐え抜くことができる。最も近づいたときに、最も「美しく」燃えなさい。",
+		"part_of_speech": "noun",
+		"aftertaste": "顔の皮が剥（む）けるような、強烈な「熱」と。真っ白に塗りつぶされる、視界。そこにある、もはや「他人」を認識できないほどの、峻烈なる「熱狂」。焦げた、瑞々（みずみず）しい味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "per-",
+					"meaning": "around (from peri)"
+				},
+				{
+					"term": "sawel-",
+					"meaning": "sun (from helios)"
+				}
+			],
+			"points": [
+				"Heliosphere（太陽圏）や Sol（太陽）と同じ root。ペリヘリオンとは。中心という名の『虚無（太陽）』に、物理的な極限まで『接触』しようとする、峻烈なる実存の境界突破。それは。焼き尽くされることを報酬とする、聖なるドナ（捧げもの）の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "aphelion",
+		"word": "Aphelion",
+		"meaning": "アフェリオン/遠日点（えんにちてん）、(孤独が)最も深まる時、冷淡な自律、光の欠乏、静かなる思考",
+		"era": "Mid-17th Century",
+		"etymology": {
+			"components": [
+				"apo- (away / from)",
+				"helios (sun)"
+			],
+			"original_statement": "From Greek apo- 'away / from' + helios 'sun'. Coined by Kepler to describe the point farthest from the sun."
+		},
+		"concept": "The farthest point (太陽から最も遠ざかる地点。そこでは「熱」は弱まり、視界は「暗く」なるが。代わりに、自分という存在の「輪郭（自律）」をはっきりと取り戻すことができる、峻烈なる「孤独の自由」の記述)",
+		"thinking": "「アフェリオン（遠日点）」。あなたは。「情熱（太陽）がない」今の自分を、価値がないと思っていませんか。 aphelion。光が届かない場所だからこそ。あなたは。「誰の影」にもならず、自分だけの「本当の色（質量）」を確認できる。 aphelion。暗闇の中で、静かに「自分という石（意志）」を磨（みが）いてください。太陽の熱がなくても。あなたは、自らが放つ「微かな残り香（自律）」だけで。十分すぎるほど、峻烈に、高貴に、存在し続けることができるのですから。",
+		"part_of_speech": "noun",
+		"aftertaste": "宇宙の最果てで、一人。自分を抱きしめるような、峻烈なる「冷気」。そこにある。誰も自分を「見ていない」という、圧倒的な「自由」。冷たくて、重くて、清らかな。氷の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "apo-",
+					"meaning": "away from / off / apart"
+				}
+			],
+			"points": [
+				"Apology（謝罪／弁明して離れる？）や Apostasy（背教／離れて立つ）と同じ root。アフェリオンとは。中心という名の『呪縛』から、勇気を持って離脱（アポ）すること。それは。依存という名の温もりを捨て、虚無という名の『真実』へと立ち戻る、峻烈なる自己救済前記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "redshift",
+		"word": "Redshift",
+		"meaning": "レッドシフト/赤方偏移（せきほうへんい）、(遠ざかる)記憶、過去への隠遁、情報の希薄化、永遠の別れ",
+		"era": "Early 20th Century",
+		"etymology": {
+			"components": [
+				"red (color)",
+				"shift (movement)"
+			],
+			"original_statement": "Coined in astronomy to describe the shift of spectral lines to longer (redder) wavelengths in receding galaxies."
+		},
+		"concept": "The receding memory (去り行く光が「赤く」引き伸ばされること。それは。かつての「情熱（真実）」が、時間の経過とともに「過去」へと遠ざかり、もはや触れることのできない「幻」へと変わっていく、峻烈なる「喪失のドップラー効果」)",
+		"thinking": "「レッドシフト（赤方偏移）」。あなたが愛したあの人は。あなたが信じたあの「真実」は。今、あなたの網膜から「赤く」遠ざかっていませんか。 redshift。それは。宇宙（運命）が「膨張」している以上、避けられない「別れ」。 redshift。でも。遠ざかる光が「赤く」なるのは。それがかつて、熱く燃えていたという「証拠」。悲しまないでください。赤く引き伸ばされたその「残光」こそが。あなたがかつて「そこにいた」という、峻烈なる「存在の署名」なのですから。遠ざかるものを、ただ静かに、赤く見送ってください。",
+		"part_of_speech": "noun",
+		"aftertaste": "夕暮れ時の、あの。終わりゆくものの「美しさ」。そこにある。もう「二度と会えない」という、峻烈なる「諦念」。甘くて、苦くて、瑞々（みずみず）しい。情報の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "reudh-",
+					"meaning": "red (from red)"
+				},
+				{
+					"term": "skeipt-",
+					"meaning": "to change / move (from shift)"
+				}
+			],
+			"points": [
+				"Ruby（ルビー）や Rust（錆）、Schema（計画／形の変化）と同じ root。レッドシフトとは。情熱（レッド）を。時間という名の『計画（スキーマ）』によって、虚無へと『移動』させること。それは。不変を誓った言葉が、宇宙の広大さの前に敗北する、峻烈なる敗北の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "blueshift",
+		"word": "Blueshift",
+		"meaning": "ブルーシフト/青方偏移（せいほうへんい）、(迫り来る)未来、情報の圧縮、切迫する真実、加速する予感",
+		"era": "Early 20th Century",
+		"etymology": {
+			"components": [
+				"blue (color)",
+				"shift (movement)"
+			],
+			"original_statement": "The shift of spectral lines to shorter (bluer) wavelengths in approaching galaxies."
+		},
+		"concept": "The approaching pressure (近づいてくる光が「青く」圧縮されること。それは。逃げようのない「現実（あるいは死）」が、刻一刻と自分へと迫り、その「緊張感」を爆発させていく、峻烈なる「対決の予感」)",
+		"thinking": "「ブルーシフト」。あなたは。「来るべき時」に対して、準備ができていますか。 blueshift。それは、冷徹な「青」。近づいてくるものは。かつての幻ではなく。今、まさにあなたを「貫こう」としている。峻烈なる「正面衝突」。 blueshift。情報の周波数が上がり、耳鳴りがするほどの「切迫感」。でも。その「青き恐怖」を受け入れたとき。あなたは、ただ「待つ者」から。自らその衝撃に「飛び込む者」へと、進化する。逃げるな。迫り来る「青」を、その全身で受け止めなさい。",
+		"part_of_speech": "noun",
+		"aftertaste": "「パチパチ」と静電気が走るような、冷たい「緊張感」。そこにある、一瞬の「油断」も許されない、峻烈なる「加速」。すべてが「剥（む）き出し」にされる。刺激的で、瑞々しい、氷の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "bhle-",
+					"meaning": "blue / light colored"
+				}
+			],
+			"points": [
+				"Blank（空白）や Bleach（漂白）、Flame（炎／光るもの）と同じ root。ブルーシフトとは。曖昧な過去を『漂白（ブリーチ）』し、純粋な『光（フレイム）』としての現実へと回帰させること。それは。未来という名の空白（ブランク）が、実存を焼き尽くしに来る、峻烈なる審判の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "circumbinary",
+		"word": "Circumbinary",
+		"meaning": "サーカムバイナリー/周連星（しゅうれんせい）の、(二つの)矛盾を回る、二重の支配、引き裂かれた忠誠、複雑なる帰属",
+		"era": "Mid-20th Century",
+		"etymology": {
+			"components": [
+				"circum- (around)",
+				"binary (double)"
+			],
+			"original_statement": "From Latin circum- 'around' + binary. Orbiting two stars at once."
+		},
+		"concept": "Orbiting two suns (「二つの太陽（Binary Star）」の周りを回る惑星。それは。対立する二つの「正義」や「情理」の間で。そのどちらにも属さず、しかし両方から「重力（支配）」を受け続ける、峻烈なる「二重拘束（ダブル・バインド）」の記述)",
+		"thinking": "「サーカムバイナリー」。あなたは。二人の「上司（あるいは両親）」の間で、板挟みになって苦しんでいませんか。 circumbinary。それは、過酷な「ダンス」。一筋縄ではいかない。でも。その二つの太陽が作り出す「複雑な重力の渦」を、完璧に乗りこなしたとき。あなたは。単一の星（単純な正義）では決して産み出し得ない。驚くほど「豊かで（カオスな）」、峻烈なる「新しい命（秩序）」を産み出すことができる。矛盾を、エネルギーにせよ。二つの火に、焼かれ続けなさい。",
+		"part_of_speech": "adjective",
+		"aftertaste": "空に輝く「二つの太陽」。影が「二つ」に分かれる。あの。世界の「重心」が狂ったような。峻烈なる「多義性」。そこにある。単純な「解決」を拒絶する、という。重厚な、瑞々しい、情報の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sker-",
+					"meaning": "to turn / bend (from circum)"
+				},
+				{
+					"term": "dwo-",
+					"meaning": "two (from binary)"
+				}
+			],
+			"points": [
+				"Circle（円）や Curve（曲線）、Double（二重）と同じ root。サーカムバイナリーとは。直線を捨て、二つの極の間で『円を描く（サークル）』こと。それは。二元論という名の『対立』を、運動という名の『統合』へと克服する、峻烈なる知のサスペンションの記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "oppositional",
+		"word": "Oppositional",
+		"meaning": "オポジションナル/衝（しょう）の、（真理と）対峙（たいじ）すること、情報の曝露（ばくろ）、逃げ場のない直視、全方位の開示",
+		"era": "Late 16th Century",
+		"etymology": {
+			"components": [
+				"ob- (against)",
+				"ponere (to place)"
+			],
+			"original_statement": "From Old French opposicion, from Latin oppositio, from ob- 'against' + ponere 'to place'."
+		},
+		"concept": "Facing the sun (地球から見て、惑星が太陽の「真逆」にあること。それは。一晩中、太陽の「真正面（正対）」で。その「光（真理）」を一身に浴び続ける、峻烈なる「対峙の瞬間」の記述)",
+		"thinking": "「オポジションナル（対峙）」。あなたは。いつも「横目（妥協）」で、世界を見ていませんか。 oppositional。それは。真正面から「太陽（真理）」に。喧嘩（けんか）を売るようにして、向き合い続けること。 oppositional。そこには、逃げ場はありません。影はすべて足元に隠れ。あなたの「すべて」が、光り輝く（あるいは暴かれる）。峻烈なる「決闘」。その「真正面からの視線」に、耐え抜いてください。逸（そ）らした瞬間に。あなたは、ただの「傍観者」へと、成り下がるのですから。",
+		"part_of_speech": "adjective",
+		"aftertaste": "「ジリジリ」と目を焼かれる。でも。決して「瞬（まばた）き」をしない。峻烈なる「意志」。そこにある、もはや「後戻りはできない」という。冷徹な、瑞々しい、真実の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "apo-",
+					"meaning": "away / back (from ob-)"
+				},
+				{
+					"term": "po-",
+					"meaning": "to put / place (from ponere)"
+				}
+			],
+			"points": [
+				"Oppose（反対する）や Position（位置）、Post（郵便／固定された場所）と同じ root。オポジションナルとは。他人の決めた場所に置かれる（ポスト）のではなく、あえて世界の中心へ『対抗（オポ）』するように自らを『配置』すること。それは。受動的な生を、能動的な『対峙』へと書き換える、峻烈なる実存의記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "protoplanetary",
+		"word": "Protoplanetary",
+		"meaning": "プロトプラネタリー/原始惑星系の、(混沌とした)萌芽（ほうが）、秩序の前の戦慄、情報の渦、生成の痛み",
+		"era": "Mid-20th Century",
+		"etymology": {
+			"components": [
+				"protos (first)",
+				"planetes (wanderer)"
+			],
+			"original_statement": "From Greek protos 'first' + planetes 'wanderer'. Relating to the early stage of development of a planetary system."
+		},
+		"concept": "The pre-organized chaos (まだ「惑星」になる前の、塵（ちり）とガスの回転する円盤。それは。明確な「形（論理）」を持たないが。そこに、未来の「すべて」を秘めている、峻烈なる「可能性の暴力」の記述)",
+		"thinking": "「プロトプラネタリー（原始惑星系の）」。あなたの「アイデア」。それは、まだ「ドロドロとしたカオス（塵）」のような状態ではありませんか。 protoplanetary。それを「形がない」からといって、捨てないでください。 protoplanetary。その「混乱」こそが。のちに巨大な「秩序（世界）」を産み出すための、唯一の「母胎」なのです。渦巻け、ぶつかり合え、そして砕けろ。その「生成の痛み（衝突）」を味わい尽くした者にしか。不滅の「大地（惑星）」を手にすることはできないのですから。",
+		"part_of_speech": "adjective",
+		"aftertaste": "「ザラザラ」とした塵の感触と。顔を刺す、鋭い「熱」。そこにある、何かが「産み出されようとしている」という。峻烈なる「胎動」。重くて、瑞々（みずみず）しい。混沌の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "per-",
+					"meaning": "to lead through / first (from protos)"
+				},
+				{
+					"term": "pele-",
+					"meaning": "flat / spread out (from planet)"
+				}
+			],
+			"points": [
+				"Prototype（原型）や Protocol（規約）、Planetary（惑星の）と同じ root。プロトプラネタリーとは。完成した規約（プロトコル）を捨て、再び『最前線（プロトス）』の『カオス』へと戻ること。それは。定型化した思考を、生成という名の『彷徨（プラネテス）』へと解放する、峻烈なる再誕生の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "proper",
+		"word": "Proper",
+		"meaning": "プロパー・モーション/固有運動、(自分だけの)軌道、集団からの逸脱、意志のベクトル、加速度という名の哲学",
+		"era": "Late Middle English",
+		"etymology": {
+			"components": [
+				"proprius (one's own / particular)"
+			],
+			"original_statement": "From Old French propre, from Latin proprius 'one's own / particular'. In astronomy, the individual motion of a star."
+		},
+		"concept": "The individual trajectory (多くの星たちが一緒に動いている中で。ただ一つ。その流れに抗（あらが）い、自分だけの「方向（固有の移動）」を貫くこと。それは。時代の流行に流されない。峻烈なる「個の自律」の記述)",
+		"thinking": "「プロパー・モーション（固有運動）」。あなたは。「みんなと一緒に（連星系）」という、偽りの「連帯」に。魂を売り渡してはいませんか。 proper。それは。「自分自身の（プロプリウス）」という、峻烈なる「所有の宣言」。 proper。たとえ銀河全体が右へ向かっても。あなたが「左（真実）」へと動きたいなら。その「ズレ（逸脱）」を、自分の誇りにしてください。その「一見すると浮いた動き」こそが。あなたが、誰の所有物でもない「自分自身の主人」である、という。峻烈なる唯一の真実となるのですから。",
+		"part_of_speech": "adjective",
+		"aftertaste": "周囲が同じ方向へ流れる中で、自分だけが「斜めに」進んでいく。あの。心地よい「摩擦」と。そこにある、圧倒的な「自分自身である」という、峻烈なる「自負」。瑞々（みずみず）しい、自由の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "pro-patri-",
+					"meaning": "for one's own country / father (related to proprius)"
+				}
+			],
+			"points": [
+				"Property（財産）や Appropriate（適切な／自分のものにする）と同じ root。プロパーとは、ただ『正しい』ことではなく、『自分にしか属さない（プロプリウス）』こと。それは。公的な常識を捨て、私的な真理を貫く。という。峻烈なる知的窃盗（あるいは回収）の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "relativistic",
+		"word": "Relativistic",
+		"meaning": "レラティビスティック/相対論的な、(歪んだ)時間、認識の変容、加速という名の孤独、質量という名の重圧",
+		"era": "Early 20th Century",
+		"etymology": {
+			"components": [
+				"relativus (relative / having relation)"
+			],
+			"original_statement": "From Latin relativus, from relatus, past participle of referre 'to bring back / refer'. Relating to the theory of relativity."
+		},
+		"concept": "The time-warping velocity (光の速さに近づくことで、時間の流れや物の形が「歪んで」しまうこと。あまりに高い知性（速度）を持った者は。もはや常人（低速者）と同じ時間を共有できない。峻烈なる「認識の断絶」の記述)",
+		"thinking": "「レラティビスティック（相対論的な）」。あなたは。なぜ自分の「正論」が、誰にも理解されないのか。と、絶望していませんか。 relativistic。それは、あなたの「思考速度（加速度）」が。すでに「常識の壁（光速）」に、近づきすぎているからです。 relativistic。あなたが速く走れば走るほど。あなたは、誰よりも「若く（更新され）」続け。同時に、誰よりも「重重（本質的）」になり。同時に、誰とも「同じ時間」を過ごせなくなる。その「加速された孤独」を。あなたの知的な「勲章」として、峻烈に引き受けてください。",
+		"part_of_speech": "adjective",
+		"aftertaste": "世界が「縦に」引き伸ばされ、色が「グニャリ」と変化する。あの。もはや「元には戻れない」という、峻烈なる「覚醒」。そこにある。自分だけの「時間」を生きる。という。冷たくて、鋭い、数理の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "re-bh-",
+					"meaning": "to carry back / bring back (from referre)"
+				}
+			],
+			"points": [
+				"Relation（関係）や Relative（親戚）、Refer（参照する）と同じ root。レラティビスティックとは。唯一絶対の真理（神の視点）を捨て。すべての真理を『観測者という名の自分』へと『持ち帰る（レレ）』こと。それは。客観という名の幻想を破壊する、峻烈なる主観の復権の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "alignment",
+		"word": "Alignment",
+		"meaning": "アライメント/整列、(重なり合う)意志、一時的な秩序、情報の同期、宇宙の共鳴",
+		"era": "Late 18th Century",
+		"etymology": {
+			"components": [
+				"a- (to)",
+				"ligne (line)"
+			],
+			"original_statement": "From French alignement, from aligner 'to arrange in a line', from a- 'to' + ligne 'line'."
+		},
+		"concept": "The temporary order (天体が一列に並ぶこと。それは。バラバラだった「思想」や「出来事」が。一瞬の「奇跡（配置）」によって、巨大な一つの「意味」へと統合される、峻烈なる「システムの完成」の記述)",
+		"thinking": "「アライメント（整列）」。あなたの「人生」。それは、バラバラな「点（出来事）」が散らばっているだけのように、見えてはいませんか。 alignment。それは。ある日突然。過去の「失敗」も、現在の「苦悩」も。すべてが「一直線（ア・ライン）」に重なり合い。驚くべき「意味の矢（ベクトル）」へと変わる、峻烈なる「配置の奇跡」。 alignment。焦って整理しないでください。あなたが自分自身の「軌道」を保ち続けていれば。いつか必ず、宇宙（運命）があなたの味方をし。すべての「偶然」が「必然」として並び変わる、その峻烈なる一瞬が、必ずやってくるのですから。",
+		"part_of_speech": "noun",
+		"aftertaste": "ガタガタだったパズルのピースが、最後の一枚で「カチッ」と嵌（は）まる。あの。全身が震えるような、峻烈なる「快感」。そこにある、もはや「迷い」はない、という。重厚な、瑞々しい、秩序の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "lin-",
+					"meaning": "flax / linen (from line)"
+				}
+			],
+			"points": [
+				"Linen（リネン）や Lining（裏地）、Delineate（描写する）と同じ root。アライメントとは。バラバラな『繊維（リネン）』を。一本の強固な『糸（ライン）』へと『束ね直す』こと。それは。散漫な自意識を。鋭い志（こころざし）へと研磨する、峻烈なる実存の再構築の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "culmination",
+		"word": "Culmination",
+		"meaning": "カルミネーション/南中（なんちゅう）、(絶頂の)極値、情報の飽和、これ以上ない高み、下降への予感",
+		"era": "Early 17th Century",
+		"etymology": {
+			"components": [
+				"culmen (summit / peak)"
+			],
+			"original_statement": "From Late Latin culminatio, from culminare, from Latin culmen 'summit / peak'."
+		},
+		"concept": "The highest point (天体が最も高い位置に来ること。それは。あなたの「才能」や「言葉」が、世界の中で最も輝きを放つ、峻烈なる「収穫の瞬間」。それは同時に、あとは「降りていく」しかない、という峻烈なる予告)",
+		"thinking": "「カルミネーション（南中）」。あなたは。今が「自分のピーク（絶頂）」だとしたら。それを「永遠に維持したい」と、願ってはいませんか。 culmination。それは。天頂という名の「頂上（カルメン）」。そこは、一瞬の「停止」。 culmination。絶頂に留（とど）まろうとすることは、死と同じです。一番高く、一番美しく輝いた、その瞬間に。潔（いさぎよ）く「次の軌道（下降）」へと、身を投じてください。その「最高の瞬間」を、思い出としてではなく。次なる「上昇」のための、峻烈なる「基準点」として、自分自身の胸に刻むのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "頭の真上から、暴力的な「光（正午）」が降り注ぐ。あの。一切の「影」がない状態。そこにある。もはや「これ以上は行けない」という。峻烈なる「限界」。重厚で、瑞々（みずみず）しい。完結の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kel-",
+					"meaning": "to project / rise high"
+				}
+			],
+			"points": [
+				"Column（柱）や Hill（丘／ハイド）、Colossus（巨像）と同じ root。カルミネーションとは。自分という知性を『巨大な柱（コラム）』へと垂直に突き立て。天という名の『真理』を『支え切る』こと。それは。重力の屈服を拒み。自らを不動の『座標軸』として確立しようとする、峻烈なる意志の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "accretion",
+		"word": "Accretion",
+		"meaning": "アクリーション/降着（こうちゃく）、(貪欲な)収集、肥大する自我、情報の捕食、衝突という名の成長",
+		"era": "Early 17th Century",
+		"etymology": {
+			"components": [
+				"ad- (to / in addition)",
+				"crescere (to grow)"
+			],
+			"original_statement": "From Latin accretio, from accrescere 'to grow to', from ad- 'to' + crescere 'to grow'."
+		},
+		"concept": "Growing by taking (自分の周りにあるガスや塵を、「重力（魅力や権力）」によって次々と吸い寄せ、巨大化していくこと。それは。他人を「自分の一部」へと変えていく、峻烈なる「自己拡張」の記述)",
+		"thinking": "「アクリーション（降着）」。あなたの「知性」。それは、ただ「学んでいる（受動的）」だけになっていませんか。 accretion。それは、獰猛（どうもう）な「獲得」。周囲にあるあらゆる「思考（塵）」を。自分の重力で「引き寄せ（アド）」、激しく「激突（吸収）」させ、自分を「肥大（グロウ）」させていく、峻烈なる「知の捕食」。 accretion。巨大になることは、怪物になることです。でも。その「貪欲（どんよく）」さがあって初めて。あなたは一介の「塵（凡人）」から。世界という銀河を支配する「恒星（巨大な意志）」へと、進化することができる。すべてを、吸い込め。",
+		"part_of_speech": "noun",
+		"aftertaste": "自分の体が「ドンドン」と大きくなり、周囲を「飲み込んでいく」ような。あの。傲慢（ごうまん）なまでの「全能感」。そこにある、摩擦による「焼け付くような熱」。重厚で、峻烈なる、支配の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ker-",
+					"meaning": "to grow"
+				}
+			],
+			"points": [
+				"Increase（増加する）や Create（創造する）、Crescent（三日月）と同じ root。アクリーションとは。無（カオス）から有を『創造（クリエイト）』するのではなく。既存の有を『略奪（アクレート）』し、自分自身の『量』へと変換すること。それは。善悪を超えた、峻烈なる『存在の拡張』の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "pulsation",
+		"word": "Pulsation",
+		"meaning": "パルセーション/脈動（みゃくどう）、(不規則な)呼吸、膨張と収縮の葛藤、光の振幅、実存の震え",
+		"era": "Early 16th Century",
+		"etymology": {
+			"components": [
+				"pulsatus (beaten)",
+				"pulsare (to beat)",
+				"pellere (to drive / strike)"
+			],
+			"original_statement": "From Latin pulsatio, from pulsatus 'beaten', past participle of pulsare 'to beat'."
+		},
+		"concept": "The stellar heartbeat (星が大きくなったり小さくなったりを繰り返す、不安定な状態。それは。自信と絶望の間で「揺れ動き（パルス）」ながら。それでも輝きを維持しようとする。峻烈なる「生命の持続」の記述)",
+		"thinking": "「パルセーション（脈動）」。あなたには。自分のリズムがありますか。 pulsation。それは、完璧な平行線（安定）ではありません。時には「膨張（傲慢）」し、時には「収縮（卑下）」し。その「揺らぎ」こそが。あなたが「生きている（燃えている）」ということの、峻烈なる証拠。 pulsation。安定を求めないでください。あなたの「光」がチラチラと震えているのは。あなたが、自分自身の内部で。常に「新しい真理」と「古い嘘」を戦わせているから。その「不規則な鼓動」を。あなたの唯一無二の「メロディ」として、峻烈に愛しなさい。",
+		"part_of_speech": "noun",
+		"aftertaste": "「ドクン、ドクン」と。宇宙全体が、自分の鼓動に「共鳴」しているような。あの。生々しい「実存感」。そこにある。自分はこの世界に「刻まれている」という。峻烈なる「安心感」。瑞々しくて、重厚な、血の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "pel-",
+					"meaning": "to drive / strike / thrust"
+				}
+			],
+			"points": [
+				"Pulse（脈拍）や Push（押す）、Repel（追い払う）と同じ root。パルセーションとは。外部からの『刺激』を待つのではなく。自らの内部から『衝動（ペル）』を突き上げるようにして、世界を『打撃』すること。それは。受動的な生を、能動的な『波動（リズム）』へと変換する、峻烈なる実存の記述なのです。"
+			]
+		}
 	}
 ];
