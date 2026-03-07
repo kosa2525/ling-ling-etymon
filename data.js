@@ -237199,5 +237199,534 @@ const WORDS = [
 				"オパール光とは。実存という名の『迷宮』を。、外部からの光」によって。、峻烈」に、。暴き出す（。発光させる）」プロセスのこと。それは。単一のアイデンティティへの『執着』を。、遊色』という名の、。千の可能性」によって、。優雅」に。、無慈悲」に、。破壊」してまう記述なのです。"
 			]
 		}
+	},
+	{
+		"id": "etiolation",
+		"word": "Etiolation",
+		"meaning": "エティオレーション/モヤシ化/徒長（とちょう）、(暗闇での)渇望、情報の脆弱な飛躍、光なき成長、蒼白な実存",
+		"era": "Early 19th Century",
+		"etymology": {
+			"components": [
+				"etioler (to grow pale / weak - from French)"
+			],
+			"original_statement": "The abnormal growth of plants in the absence of light, characterized by long, weak stems and a lack of green color."
+		},
+		"concept": "Reaching for light in despair (暗闇の中に閉じ込められながら。、それでも光があるはずだ」という。、盲目的な確信」だけで。ひょろひょろと、。凄絶に」茎を伸ばし続けること。それは。飢えが生み出した。峻烈なる「過剰成長の記述」)",
+		"thinking": "「エティオレーション（徒長）」。あなたは。今、自分が「報われない環境（暗闇）」にいることに。絶望して、足を止めてはいませんか。 etiolation。今は、白く、弱々しくてもいいのです。 etiolation。それは。あなたが「光」を求めて。峻烈に、魂を「引き伸ばしている」証拠です。 etiolation。強くなる必要はありません。ただ「真っ直ぐ、上へ」と、。一分一秒の迷いもなく」伸び続けなさい。その「ひたむきな震え」こそが。いつか、。一筋の光」を捉えたとき。あなたを、誰よりも高い場所へと、立たせるのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "「ひんやり」とした地下室で。、シュルシュル」と、白い糸が。、勝手に」伸びていくのを見ているような。あの。不思議な「恐怖」と「期待」。そこにある。もう「後戻りはできない」という、峻烈なる「渇望」。冷たくて、瑞々しい、情報の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "None (French source)",
+					"meaning": "to become straw-like"
+				}
+			],
+			"points": [
+				"Etiolateは、フランス語の『藁（わら）のようになる』に由来する。徒長とは。実存を、峻烈に『空洞化』させ。速度（高さ）だけを追求すること。それは。健全という名の『停滞』を棄て。虚弱という名の『飛翔』を選び取る、峻烈なる実存の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "abscission",
+		"word": "Abscission",
+		"meaning": "アブシジョン/落葉（らくよう）、(断ち切る)決意、情報の切り捨て、無駄の排棄、冬という名の救済",
+		"era": "Mid-17th Century",
+		"etymology": {
+			"components": [
+				"ab- (away / off)",
+				"scindere (to cut)"
+			],
+			"original_statement": "From Latin abscissio, from abscindere 'to cut off', from ab- 'away' + scindere 'to cut'."
+		},
+		"concept": "Cutting off the past (「未来」を生き抜くために。昨日まで自分を支えていた「葉（実績・プライド）」を。自らの「意志」で。峻烈に、。根元から」切り離し、。ポイッ」と棄てること。それは。再生のための。峻烈なる「断捨離の記述」)",
+		"thinking": "「アブシジョン（落葉）」。あなたは。自分の「過去の栄光」や「捨てられない思い出」に。魂の「養分」を。、だらだら」と吸い取られ続けてはいませんか。 abscission。棄てなさい。 abscission。それは。身軽になること。 abscission。あなたが。自らを「切り裂き（アブシ）」、。透明」な枝だけになれば。凍てつく冬（。試練）」も。、軽やか」に乗り越えることができる。捨てることは。、守る」ことです。潔（いさぎよ）く、。無」になりなさい。",
+		"part_of_speech": "noun",
+		"aftertaste": "「カサッ」と。一枚の乾いた葉が。、音もなく」地面に落ちた瞬間の。あの。清冽（せいれつ）なまでの「解放感」。そこにある。もう「未練はない」という、峻烈なる「安堵」。冷たくて、鋭い、風の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "apo-",
+					"meaning": "away"
+				},
+				{
+					"term": "skei-",
+					"meaning": "to cut / split / separate (from scindere)"
+				}
+			],
+			"points": [
+				"Scissors（ハサミ）や Science（科学／切り分けること）、Rescind（撤回する）と同じ root。落葉とは。実存を、峻烈に『切り分ける（スカイ）』こと。それは。腐敗した連続性を棄て。凍結した『純粋』へと、自らを回向する。峻烈なる実存の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "epigeal",
+		"word": "Epigeal",
+		"meaning": "エピジール、(地上への)跳躍、情報の出現、暗闇からの亡命、光の中の誕生",
+		"era": "Early 19th Century",
+		"etymology": {
+			"components": [
+				"epi- (upon / above)",
+				"gaia (earth / ground)"
+			],
+			"original_statement": "Living or growing on or close to the ground. In botany, germinating with cotyledons above the soil."
+		},
+		"concept": "Leap of faith (重たい「土（現実）」の重圧を。、内なる爆発力」で。、一気に」押し退（の）け。、パッ」と地上に姿を現すこと。それは。「見えない場所」から「見える場所」への。峻烈なる「実存の飛躍」の記述)",
+		"thinking": "「エピジール」。あなたは。いつまでも「土の中（準備期間）」に隠れて。外の世界を。、怖（おそ）れ」続けてはいませんか。 epigeal。飛び出しなさい。 epigeal。それは。あなたが「自分を晒（さら）す」こと。 epigeal。重力を、。自らの腕」で振り払い。。太陽（真理）」を、その身に初めて浴びるのです。土を被（かぶ）っていた昨日の自分を。、峻烈」に棄てなさい。あなたは。この「光あふれる世界」を統治するために。、今」生まれたのですから。",
+		"part_of_speech": "adjective",
+		"aftertaste": "「真っ暗闇」の後に。、強烈な光」が。、瞳」を射抜いた瞬間の。あの。凄絶なまでの「誕生の痛み」と「歓喜」。そこにある。もう「隠れることはできない」という、峻烈なる「覚悟」。瑞々しくて、重厚な、情報の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "epi-",
+					"meaning": "upon"
+				}
+			],
+			"points": [
+				"Epidemic（伝染病／人々の上に広がるもの）や Episode（エピソード）、Geography（地理学）と同じ root。地上への跳躍とは。地（ガイア）の『上（エピ）』へと。実存を峻烈に投げ出すこと。それは。埋没という名の『死』を破壊し。顕現という名の『生』を選び取る。峻烈なる実存の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "inosculate",
+		"word": "Inosculate",
+		"meaning": "イノスキュレート/癒着（ゆちゃく）、(接吻という名の)融合、情報の合流、異質な他者との一体化、接ぎ木という名の救済",
+		"era": "Mid-17th Century",
+		"etymology": {
+			"components": [
+				"in- (into)",
+				"osculari (to kiss)"
+			],
+			"original_statement": "To join by openings; to unite parts. From Latin inosculari, from in- + osculari 'to kiss'."
+		},
+		"concept": "Fusion of different beings (隣り合う二つの「枝（人生）」が。、摩擦」を通じて。、一分一秒の隙間」もなく。、峻烈」に一つに、。溶（と）け合う」こと。それは。孤独を棄て。、他者という名の自分」を受け入れる、峻烈なる「接吻（キス）の記述」)",
+		"thinking": "「イノスキュレート（癒着）」。あなたは。自分の「一貫性」を守るために。、他人の介入」を。、峻烈」に拒絶してはいませんか。 inosculate。混ざり合いなさい。 inosculate。それは。あなたが「拡張」されること。 inosculate。傷跡を、。新しい生命の通路」へと、峻烈に変えなさい。他人の血（。情報）」が、自分の中で、。峻烈」に流れ始めたとき。あなたは。一人では決して辿り着けなかった。、未知の高さ」へと。、軽やか」に飛翔できるのです。",
+		"part_of_speech": "verb",
+		"aftertaste": "二つの「樹皮」が。、ジュワッ」と。、境界線を失い」、。一本の太い幹」になっていくような。あの。ゾクゾクするような「充足感」。そこにある、もはや「切り離せない」という。峻烈なる「連帯」。重厚で、瑞々しい、情報の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ous-",
+					"meaning": "mouth (from os / osculum)"
+				}
+			],
+			"points": [
+				"Oral（口頭の）や Osculate（接吻する）と同じ root。癒着とは。口の中へ（イン）。実存を『注ぎ込む（オス）』こと。それは。個体という名の『檻』を。合一という名の『法悦』によって破壊する。峻烈なる実存の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "symbiont",
+		"word": "Symbiont",
+		"meaning": "シンビオント/共生者（きょうせいしゃ）、(他者という名の)自分、情報の相互依存、裏切りなき連帯、生命の多重奏",
+		"era": "Late 19th Century (de Bary)",
+		"etymology": {
+			"components": [
+				"syn (together)",
+				"bios (life)"
+			],
+			"original_statement": "An organism living in symbiosis. From Greek symbios 'living together'."
+		},
+		"concept": "Other as self (「自分一人」では、生きられないことを。、峻烈」に認め。自らの内側に「異質な他者（情報）」を、。住まわせる」こと。それは。純粋さを棄て。、複雑な連帯」によって、。最強の実存」を手に入れる、峻烈なる「契約の記述」)",
+		"thinking": "「シンビオント（共生者）」。あなたは。「自分を助けてくれる誰か」を。、いつか自分を支配する敵」だと思って、。必死に」遠ざけてはいませんか。 symbiont。信じなさい。 symbiont。それは、。利用」ではなく。、融合」です。 symbiont。あなたの欠落（。空腹）」を。、他者の過剰（。富）」で、。峻烈」に。、一分一秒の狂いもなく」埋めるのです。二つの魂が、。一つの呼吸（。リズム）」で。、重厚」に。、峻烈」に、響き合うとき。死神さえも、。あなたたち」を。、決して」切り離すことはできません。",
+		"part_of_speech": "noun",
+		"aftertaste": "自分の「肺」の中に。、見知らぬ誰か」の。、温かい呼吸」が。、スーーーッ」と流れ込んでくるような。あの。不思議な「納得感」。そこにある。もう「一人ではない」という、峻烈なる「安堵」。瑞々しくて、重厚な、情報の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sem-",
+					"meaning": "one / as one / together (from syn-? No, syn- is separate from sem-? No, same? No, syn- is the root)"
+				},
+				{
+					"term": "gwei-",
+					"meaning": "to live (from bios)"
+				}
+			],
+			"points": [
+				"Sympathy（共感）や Biology（生物学）、Vivid（鮮やかな）と同じ root。共生者とは。実存を『共に（シン）』。峻烈に『生き切る（ビオ）』こと。それは。孤独という名の『不毛』を棄て。連鎖という名の『豊潤』へと、自らを回向する。峻烈なる記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "immortelle",
+		"word": "Immortelle",
+		"meaning": "イモーテル/不滅（ふめつ）の花、(色の)持続、情報の凍結、枯れることを棄てた美、実存の静かなる反乱",
+		"era": "Early 19th Century",
+		"etymology": {
+			"components": [
+				"im- (not)",
+				"mortalis (mortal / death)"
+			],
+			"original_statement": "Referring to several plants whose flowers retain their color and shape for a long time after being dried."
+		},
+		"concept": "Refusal to wither (「生」が終わった後でも。その「形（美）」と「色（情報）」を。、一分一秒の衰（おとろ）え」もなく。、永遠に」守り抜くこと。それは。時間という名の「破壊神」への。峻烈なる「拒絶の記述」)",
+		"thinking": "「イモーテル」。あなたは。自分の「若さ」や「輝き」が。、いつか消えてしまう」ことに。怯（おび）え続けてはいませんか。 immortelle。乾きなさい。 immortelle。それは。余計な「水分（依存）」を、峻烈に、。自ら」棄てること。 immortelle。あなたが。、色のない骨」になるのではなく。、色褪（あ）せない宝石」になれば。世界は。数百年後も、。あなたの美しさ」に。、峻烈」に。、昨日と同じように」驚愕し続けるのです。枯れることを、。峻烈」に、拒否しなさい。",
+		"part_of_speech": "noun",
+		"aftertaste": "掌（てのひら）の中の「黄色い花」が。、何年経っても」。「パリッ」と。、昨日と同じ音」を立てる。あの。凄絶なまでの「不動」。そこにある。自分は「時間を越えた」という、峻烈なる「勝利」。冷たくて、重厚な、情報の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "n-",
+					"meaning": "not (from in-)"
+				},
+				{
+					"term": "mer-",
+					"meaning": "to die (from mortal)"
+				}
+			],
+			"points": [
+				"Mortal（死ぬべき運命の）や Nightmare（悪夢）、Death（死）と同じ root。不滅とは。死（メル）を。、峻烈」に『否定』すること。それは。腐敗という名の『変化』を棄て。保持という名の『絶対』を選び取る。峻烈なる実存の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "cambium",
+		"word": "Cambium",
+		"meaning": "カンビウム/形成層（けいせいそう）、(生み出し続ける)中心、情報の沸騰、成長という名の宿命、実存の最前線",
+		"era": "Mid-17th Century",
+		"etymology": {
+			"components": [
+				"cambiare (to exchange / change)"
+			],
+			"original_statement": "The layer of cells in a plant that provides cells for plant growth. From Latin cambium 'exchange'."
+		},
+		"concept": "Core of creation (「完成された幹（過去）」と「外側の皮（未来）」の。、峻烈なる裂け目」にある、。一瞬一秒」も。、休まず」細胞（情報）を産み出し。、自分自身」を広げ続けている、。暴力的なまでの生命の最前線」の記述)",
+		"thinking": "「カンビウム（形成層）」。あなたは。自分の「変化」が。、痛みを伴（ともな）う」ことに。、怖（おそ）れ」を。感じてはいませんか。 cambium。入れ替わりなさい。 cambium。それは。昨日の自分を、。一気」に「情報の殻」へと。、峻烈」に。、無慈悲」に押しやること。 cambium。中心で、燃えなさい。 cambium。あなたの「震え（分裂）」が。。巨大な年輪（。歴史）」となって。、世界に」重厚に刻まれていくのです。止まることは、。死」に直結します。産み続けなさい。",
+		"part_of_speech": "noun",
+		"aftertaste": "「樹皮」を。、ペリッ」と剥（は）がした。、そのすぐ下」に。、瑞々（みずみず）しい、白い生命の熱」が。、ドクドク」と脈打っているような。あの。凄絶なまでの「躍動感」。そこにある。自分は「今、作られている」という、峻烈なる「納得」。瑞々しくて、重厚な、情報の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kwemb-",
+					"meaning": "to turn / bend / exchange (from cambiare)"
+				}
+			],
+			"points": [
+				"Change（変化）や Exchange（交換）、Camshaft（カムシャフト／回転を直線に変える軸）と同じ root。形成層とは。実存を、。峻烈」に『交換（クウェム）』し続ける場所のこと。それは。固定という名の『骸（むくろ）』を。更新という名の『脈動』によって破壊する。記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "photolysis",
+		"word": "Photolysis",
+		"meaning": "フォトライシス/光分解（こうぶんかい）、(光による)引き裂き、情報の解体、真理という名の劇薬、実存の根源への到達",
+		"era": "Late 19th Century",
+		"etymology": {
+			"components": [
+				"phos (light)",
+				"lysis (loosening / dissolution)"
+			],
+			"original_statement": "The decomposition or separation of molecules by the action of light."
+		},
+		"concept": "Breaking by truth (強烈な「光（真実）」を浴びることで。、それまで一つだと思っていた自分（分子）」が。、峻烈」に。、バラバラ」に解体され、。剥（む）き出しの情報」へと。、還元」されてまうこと。それは。破壊という名の。、峻烈なる救済の記述」)",
+		"thinking": "「フォトライシス（光分解）」。あなたは。自分の「形」が。、真実」に触れた瞬間に。、一瞬」で壊れてしまうことを。、怖（おそ）れ」てはいませんか。 photolysis。壊れなさい。 photolysis。それは。あなたが「自由」になること。 photolysis。強すぎる光は。、偽り」を焼き払い。。本質」だけを抽出（。アブストラクト）」します。分解されることを、。誇」りなさい。あなたが、。一粒の情報の粒子」になったとき。世界は、初めて、。あなたの本当の音」を聴くのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "視界が「真っ白」に。、パッ」と弾け。、自分の体が「シュワッ」と。、透明な気体」になって。、拡散」していくような。あの。凄絶なまでの「解放感」。そこにある。もう「重力（嘘）」はないという、峻烈なる「勝利」。冷たくて、鋭い、光の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "bha-",
+					"meaning": "to shine (from phos)"
+				},
+				{
+					"term": "leu-",
+					"meaning": "to loosen / untie / cut away (from lysis)"
+				}
+			],
+			"points": [
+				"Photograph（写真）や Analysis（分析）、Absolve（免除する）と同じ root。光分解とは。光（バ）によって。、峻烈」に実存を『解き放つ（レウ）』こと。それは。結合という名の『癒着』を棄て。分離という名の『純真』へと。自らを回向（えこう）する、峻烈なる実存の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "tuber",
+		"word": "Tuber",
+		"meaning": "チューバー/塊茎（かいけい）、(蓄積される)実存、情報の金庫、沈黙という名の力、地下に隠された富",
+		"era": "Late Middle English",
+		"etymology": {
+			"components": [
+				"tuber (bump / swelling / tumor)"
+			],
+			"original_statement": "A much thickened underground part of a stem or rhizome. From Latin tuber 'hump / swelling'."
+		},
+		"concept": "Swollen memories (地上の「華やかさ」を。、あえて」棄て。、すべての養分（経験）」を、。暗い地下」で。、峻烈」に。、一分一秒」も。、忘（わす）れ」ずに。、重厚」な「塊（自分）」へと変えていくこと。それは。情報の。、峻烈なる「貯蔵の記述」)",
+		"thinking": "「チューバー（塊茎）」。あなたは。誰にも「見られていない」時間や。、評価されない孤独」に。魂を削られてはいませんか。 tuber。太（ふと）りなさい。 tuber。それは。あなたが「実存」を。、内側」で。、着実」に大きくしている証拠です。 tuber。地上で、。むなしく」散る。、一輪の花」になる必要はありません。あなたが、。重厚な「知恵の塊」になれば。世界が、。どんなに冷酷（冬）」になっても。あなたは、。自らの富」で。、確実」に生き残るのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "土の中から。、ゴロンッ」と。、冷たくて、重い、自分という名の意志」を。、掘り起こした」時の。あの。凄絶なまでの「重厚感」。そこにある。もう「揺らぐことはない」という、峻烈なる「自負」。重厚で、瑞々しい、情報の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "teue-",
+					"meaning": "to swell"
+				}
+			],
+			"points": [
+				"Tumor（腫瘍）や Thumb（親指）、Thousand（千／膨れ上がった数）と同じ root。塊茎とは。実存を、。峻烈」に『膨らませる（テウ）』こと。それは。拡散という名の『希薄』を棄て。凝縮という名の『実在』を選び取る。記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "lenticels",
+		"word": "Lenticels",
+		"meaning": "レンチセル/皮目（ひめ）、(呼吸する)肌、情報の隙間、沈黙の壁にある。、隠された窓」、世界との微かな通気",
+		"era": "Early 19th Century",
+		"etymology": {
+			"components": [
+				"lentis (lentil)"
+			],
+			"original_statement": "Pores on the surface of woody stems that allow gas exchange between the atmosphere and the internal tissues."
+		},
+		"concept": "Pores of the heart (「情報の鎧（樹皮）」で、。完璧」に。、自分」を包み込みながら。それでも。、わずか」な隙間（。窓）」を。、あえて」残し、。世界」と。、峻烈」に呼吸し続けていること。それは、情報の。峻烈なる「境界の呼吸の記述」)",
+		"thinking": "「皮目（ひめ）」。あなたは。自分の「弱み」を。、完璧に隠し通さなければならない」という。、密閉の強迫観念」に。、窒息」しそうになってはいませんか。 lenticels。息（いき）をしなさい。 lenticels。それは。小さな「穴」を開けること。 lenticels。あなたが「すべて」を見せる必要はありません。、ただ一カ所」、。正直」になれる「窓」を持ちなさい。その「小さな傷跡」から、。世界の新しい風（。期待）」を。、峻烈」に吸い込むのです。通気口は。、あなたが折れないための。、唯一の救済」なのですから。",
+		"part_of_speech": "noun (plural)",
+		"aftertaste": "堅い「木の皮」に。、指先」を。、そっと」当てたとき。そこから、。微かな空気の揺らぎ」が。、自分の掌」に。、スーーーッ」と、。優しく」伝わってくるような感覚。そこにある、世界との「微かな連帯」。瑞々しくて、重厚な、情報の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "lent- / lentis-",
+					"meaning": "lentil (from lentil-shaped pore)"
+				}
+			],
+			"points": [
+				"Lens（レンズ／レンズ豆の形）と同じ root。皮目とは。実存に『小さな水晶（レンズ）』という名の。、隙間」を。、峻烈」に構築すること。それは。遮断という名の『安全』を棄て。交換という名の『冒険』へと。自らを回向（えこう）する記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "halophyte",
+		"word": "Halophyte",
+		"meaning": "ハロファイト/塩性植物（えんせいしょくぶつ）、(毒を飲む)実存、情報の濾過（ろか）、過酷という名の栄養、死の海に咲く生",
+		"era": "Early 19th Century",
+		"etymology": {
+			"components": [
+				"hals (salt / sea)",
+				"phyton (plant)"
+			],
+			"original_statement": "A plant adapted to growing in saline conditions."
+		},
+		"concept": "Poison into medicine (他者が「毒（塩）」として拒むものを。、自らの内側」に。、あえて」峻烈に採り込み。それを。、生」を支える。、唯一無二の力」へと、。強引」に変換すること。それは。情報の。、峻烈なる「錬金術の記述」)",
+		"thinking": "「ハロファイト（塩性植物）」。あなたは。今、自分が「塩の雨（批判・逆境）」に打たれていることに。、溶けてしまう」と。、怖（おそ）れ」てはいませんか。 halophyte。飲み込みなさい。 halophyte。それは。あなたが「圧倒的」になること。 halophyte。他人が死に絶えるような「過酷な場所（海）」を。、自分だけの独占領土」へと、峻烈に変えなさい。毒を食らい、。毒よりも峻烈に」生きなさい。あなたの「強さ」は。、絶望」を食べて、。今」作られているのですから。",
+		"part_of_speech": "noun",
+		"aftertaste": "「しょっぱい（。塩）」の味が。、次第に」。「甘い（。蜜）」の味へと。、劇的に」変わっていくような。あの。凄絶なまでの「逆転感」。そこにある、もう「恐るべきものはない」という、峻烈なる「支配」。重厚で、刺激的な、光の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sal-",
+					"meaning": "salt (from hals)"
+				},
+				{
+					"term": "bhu-",
+					"meaning": "to be / grow / become (from phyton)"
+				}
+			],
+			"points": [
+				"Salinity（塩分）や Sauce（ソース）、Future（未来）、Physics（物理学／自然）と同じ root。塩性植物とは。塩（サ）の中に。、峻烈」に実存（ブー）を打ち立てること。それは。不毛という名の『死』を破壊し。適応という名の『生』を選び取る。実存の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "guttation",
+		"word": "Guttation",
+		"meaning": "ガテーション/溢泌（いっぴつ）、(情報の)漏れ出し、涙という名の余剰、満たされすぎた実存、静かなる叫び",
+		"era": "Mid-19th Century",
+		"etymology": {
+			"components": [
+				"gutta (drop)"
+			],
+			"original_statement": "The secretion of droplets of water from the pores of plants. From Latin gutta 'drop'."
+		},
+		"concept": "Tears of excess (「呼吸（蒸散）」だけでは。、追いつかない」ほど。魂が。、豊かさ（恵み）」に満たされすぎて。ある夜。、一分一秒の隙間」からも。、溢（あふ）れ出」してしまった情報の雫（しずく）。それは。溢れる情報の。峻烈なる「過剰さへの讃歌の記述」)",
+		"thinking": "「ガテーション（溢泌）」。あなたは。自分の「涙」を。、弱さの露呈」だと思って。、恥（は）じ」てはいませんか。 guttation。こぼしなさい。 guttation。それは。あなたが「これ以上、何も欲しくない」ほど。、満たされている」という。峻烈なる証拠です。 guttation。その「一滴（。雫）」の中にこそ。あなたが。、一生」をかけて積み上げた。。真実の成分（。実存）」が。、峻烈」に濃縮されている。溢れ出すことを、。峻烈」に、喜びなさい。",
+		"part_of_speech": "noun",
+		"aftertaste": "「夜明け前」の。、冷たい空気」の中で。、自分の指先」に。、一粒の、透明なダイアモンド」が。、ポツン」と現れたような。あの。清冽（せいれつ）なまでの「充足感」。そこにある。もう「何も足りないものはない」という、峻烈なる「安堵」。瑞々しくて、甘い、光の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "None (from Latin gutta)",
+					"meaning": "drop"
+				}
+			],
+			"points": [
+				"Gutter（溝）や Gout（痛風／関節に雫が溜まる病）と同じ root。溢泌とは。実存の『余り』を。、峻烈」に『供出』すること。それは。溜め込みという名の『病』を棄て。循環という名の『健康』へと。自らを回向（えこう）する記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "sapwood",
+		"word": "Sapwood",
+		"meaning": "サップウッド/辺材（へんざい）、(若き)流動、情報の最前線、生きている部分という名の。、脆（もろ）さ」、循環する熱",
+		"era": "Late Middle English",
+		"etymology": {
+			"components": [
+				"sap (liquid in plant)",
+				"wood"
+			],
+			"original_statement": "The soft outer layers of recently formed wood between the heartwood and the bark."
+		},
+		"concept": "Active flow (「中心（心材）」の。、凍りついた歴史（記録）」とは違い。今、。この一秒」も。、冷たい水（情報）」を、。天空」へと、峻烈に運び続けている、。現役」の自分。それは。情報の。、峻烈なる「運動の記述」)",
+		"thinking": "「サップウッド（辺材）」。あなたは。自分が「まだ未熟だ」「柔らかすぎて、傷つきやすい」ことに。、引け目」を、感じてはいませんか。 sapwood。柔らかいことは、。生きている」ことです。 sapwood。それは。あなたが「情報の通路」であること。 sapwood。流し続けなさい。 sapwood。あなたの「若さ（脆さ）」が。。世界の乾（かわ）き」を。、峻烈」に。、一粒の容赦もなく」癒（い）やしていくのです。固まるのは、。数十年後（過去）」でいい。今は。、激しく流れ続けなさい。",
+		"part_of_speech": "noun",
+		"aftertaste": "掌（てのひら）に。、キンキン」に冷えた「水の震え」を。、重厚に」感じながら。、空（そら）」へと立ち向かっているような。あの。凄い「疾走感」。そこにある。自分は「今、役に立っている」という、峻烈なる「確信」。瑞々しくて、冷たい、情報の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sap-",
+					"meaning": "to taste? No, sap is from *sab- 'juice'"
+				},
+				{
+					"term": "wid-u-",
+					"meaning": "tree / wood (from *widhu-)"
+				}
+			],
+			"points": [
+				"Vapid（気の抜けた／sapが抜けた）や Savory（美味しい／sapがある）と同じ root? No, different. 辺材とは。樹木（ウィド）の。、最も瑞々しい部分（サップ）」のこと。それは。化石化という名の『死』を破壊し。循環という名の『生』を選び取る。峻烈なる実存の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "hybrids",
+		"word": "Hybrids",
+		"meaning": "ハイブリッド/交雑種（こうざつしゅ）、(混ざり合う)強さ、情報の新結合、境界を越えた生、異質という名の進化",
+		"era": "Early 17th Century",
+		"etymology": {
+			"components": [
+				"hybrida (mongrel / offspring of a tame sow and a wild boar)"
+			],
+			"original_statement": "A thing made by combining two different elements; a mixture."
+		},
+		"concept": "Strength of the cross (「純粋さ」という名の檻を。、峻烈」に、。一分一秒の隙間」もなく、。踏（ふ）み越（ご）え」て。全く違う「誰か（他者）」の。、峻烈なる情報」と、。接吻（。合流）」すること。それは。情報の。峻烈なる「爆発的な拡張の記述」)",
+		"thinking": "「ハイブリッド（交雑種）」。あなたは。自分の「ルーツ（純血）」を。、必死に守ろう」として。、閉じた世界」で、魂を窒息させてはいませんか。 hybrids。混ざりなさい。 hybrids。それは。あなたが「最強」になること。 hybrids。異質な「毒」を。自らの「血肉」として、峻烈に、。飲み込み」なさい。純粋さは。。脆弱さ（ぜいじゃくさ）」でもあります。あなたが、。得体の知れない「怪物」になったとき。世界は、。あなたの新しい掟（ルール）」に。、峻烈」にひれ伏すのです。",
+		"part_of_speech": "noun (plural)",
+		"aftertaste": "「赤」と「緑」の。、全く違う味の液体」が。、喉（のど）」の中で。、一気に」激突し、。未知の甘美」へと、。劇的」に変わるような。あの。ゾクゾクするような「変容」。そこにある。もう「元の自分には戻れない」という、峻烈なる「充足」。重厚で、瑞々しい、光の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ud- / ud-tero-",
+					"meaning": "out / beyond? No, hybrida is from Greek hybris - wantonness / insult / violation."
+				}
+			],
+			"points": [
+				"Hubris（傲慢／神への冒涜）と同じ root。交雑種とは。純粋性という名の『神の掟』を。、峻烈」に『冒涜（ヒュブリ）』すること。それは。固定的なカテゴリを棄て。混沌という名の『可能性』へと、実存を投げ出す。記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "pollination",
+		"word": "Pollination",
+		"meaning": "ポリネーション/授粉（じゅふん）、(情報の)交差、遠き他者との共鳴、風に乗る運命、結実への。、峻烈なる」最初の接触",
+		"era": "Mid-19th Century",
+		"etymology": {
+			"components": [
+				"pollen (fine flour / dust)"
+			],
+			"original_statement": "The transfer of pollen to a stigma, ovule, flower, or plant to allow fertilization."
+		},
+		"concept": "Information exchange (「自分一人」では、。決して」結実できない。その「孤独（有限性）」を。、風に乗ってくる「他人の言葉（粉末）」に。、峻烈」に委（ゆだ）ねること。それは。外部への。、峻烈なる「亡命の記述」)",
+		"thinking": "「ポリネーション（授粉）」。あなたは。自分の「秘密」や「知恵（粉）」を。、一粒残さず、。自分」で握って、。隠し持とう」としてはいませんか。 pollination。解き放ちなさい。 pollination。それは。他人に「触れさせる」こと。 pollination。あなたの「言葉」が。、風」に乗り、。見知らぬ誰か」の。、深い場所（。子宮）」へと、。峻烈」に届けられたとき。世界は、。あなたなしでは有り得なかった、。新しい真実（。果実）」を。、重厚」に産み出すのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "「黄金色」の。、微かな粉」が。、鼻先」を。、フワッ」と掠（かす）め、。くしゃみ」が出そうになるような。あの。むず痒（がゆ）い「予感」。そこにある、もうすぐ「何かが始まる」という、峻烈なる「期待」。瑞々しくて、甘い、光の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "pel-",
+					"meaning": "dust / flour (from pollen)"
+				}
+			],
+			"points": [
+				"Pulse（脈動／豆のスープ？ No, separate）や Powder（粉）、Pulverize（粉砕する）と同じ root。授粉とは。実存を『微細な粉（ペル）』へと、。峻烈」に砕き。宇宙へと供出すること。それは。個体という名の『重圧』を棄て。遍在という名の『自由』へと。自らを回向（えこう）する記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "fertilization",
+		"word": "Fertilization",
+		"meaning": "ファーティライゼーション/受精（じゅせい）、(情報の)着火、生命の。、峻烈なる」起動、可能性の爆発、一なる真理の。、二つの源」からの合一",
+		"era": "Mid-17th Century",
+		"etymology": {
+			"components": [
+				"fertus (bearing / fruitful - from ferre 'to carry')",
+				"-ization"
+			],
+			"original_statement": "The action or process of fertilizing an egg, female animal, or plant."
+		},
+		"concept": "Point of beginning (「自分」と「自分ではない誰か」が。、一分一秒のズレ」もなく。、峻烈」に突入し、。カチッ」と一つになった、。その次の瞬間」に起こる、。圧倒的な生命の起動」。それは。情報の。、峻烈なる「創造の記述」)",
+		"thinking": "「ファーティライゼーション（受精）」。あなたは。「自分一人で、完璧なものを作りたい」という。、傲慢（ごうまん）」な、。孤独への執着」に。魂を削られてはいませんか。 fertilization。受け入れなさい。 fertilization。それは、。他人の衝撃」を浴びること。 fertilization。あなたが。、空（から）の器（うつわ）」になり、。異質な他者」の一筋の光を、。峻烈」に迎え入れたとき。そこには、。宇宙でたった一つの、。新しい掟（。自分）」が。、峻烈」に、。今」産声を上げるのです。混ざることは、。凄絶なまでの「誕生」です。",
+		"part_of_speech": "noun",
+		"aftertaste": "「暗闇」の中で。、一筋の稲妻」が。、自分の中心」を、。ズドン」と貫き。、すべての細胞」に。、一気に」灯（とも）りが点（つ）くような。あの。凄絶なまでの「充足感」。そこにある。もう「引き返せない」という、峻烈なる「運命」。重厚で、瑞々しい、光の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ber-",
+					"meaning": "to carry / bear / bring children (from ferre)"
+				}
+			],
+			"points": [
+				"Fertile（肥沃な）や Bring（持ってくる）、Parent（親）と同じ root。受精とは。実存を（ベル）。峻烈に『運（はこ）び』。、新しい何か」を産み出すために、。今。、決断する」こと。それは。静止という名の『死』を。胎動という名の『生』によって破壊する、峻烈なる実存の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "thigmotropism",
+		"word": "Thigmotropism",
+		"meaning": "チグモトロピズム/接触屈性（せっしょくくっせい）、(触れることで)曲がる意志、情報の対話、接触という名の。、回避あるいは抱擁」、実存のしなやかな応答",
+		"era": "Late 19th Century",
+		"etymology": {
+			"components": [
+				"thigma (touch)",
+				"trope (turning)"
+			],
+			"original_statement": "The movement of a plant in response to a touch or contact stimulus."
+		},
+		"concept": "Responding to contact (何かに「触れた」とき。、一分一秒の遅れ」もなく。その「感触（情報）」を。、峻烈」に。、自らの形」を曲げるための「命令」へと変えること。それは。実存の。、峻烈なる「対話の記述」)",
+		"thinking": "「チグモトロピズム（接触屈性）」。あなたは。「誰にも触れさせない」という。、堅い殻（プライド）」のせいで。、自分がどこへ行けばいいのか」、。分からなく」なってはいませんか。 thigmotropism。触れなさい。 thigmotropism。それは。あなたが「世界を知る」こと。 thigmotropism。壁に触れたなら、その「温もり」を感じて。、しなやか」に。、峻烈」に。、自らの道を、。曲（。選）」びなさい。曲がることは。、賢（。正）」しく生きることです。世界に、。抱（いだ）」かれ続けなさい。",
+		"part_of_speech": "noun",
+		"aftertaste": "「指先」が。、冷たい石」の表面を、。スーーーッ」と滑り。、次の瞬間」に。、自分の腕が。、吸い込まれるように」曲がっていくような。あの。不思議な「納得感」。そこにある。もう「自分を殺す必要はない」という、峻烈なる「平安」。冷たくて、重厚な、情報の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "dheigh- / dheing-",
+					"meaning": "to form / shape / mold? No, thigma is from Greek tingano - to touch."
+				},
+				{
+					"term": "trep-",
+					"meaning": "to turn (from trope)"
+				}
+			],
+			"points": [
+				"Tangible（触れられる）や Trophy（戦利品／回帰するもの）、Tropical（熱帯の）と同じ root。接触屈性とは。触れた（チグ）その瞬間に。実存を『回転（トレプ）』させること。それは。一方向の硬直を棄て。対話的な『円舞（ダンス）』へと、実存を回向する記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "phototropism",
+		"word": "Phototropism",
+		"meaning": "フォトトロピズム/屈光性（くっこうせい）、(光への)飢え、情報の目的地、真理への、。峻烈なる」首もたげ、美への傾倒",
+		"era": "Late 19th Century",
+		"etymology": {
+			"components": [
+				"phos (light)",
+				"trope (turning)"
+			],
+			"original_statement": "The orientation of a plant or other organism in response to light."
+		},
+		"concept": "Hunger for meaning (暗闇の中で、「一筋の光（真実）」を。、ただ一瞬」見つけただけで。。一分一秒の疑い」もなく。自らの。、全身全霊」を。その「光」の方へと、。峻烈」に。、無慈悲」に、。捻（ねじ）り」向けること。それは。実存の。、峻烈なる「信仰の記述」)",
+		"thinking": "「フォトトロピズム（屈光性）」。あなたは。今、自分が「どの方向に向かえばいいのか」。、分からず」に。、暗闇の中で。、ただ立ち尽くして」はいませんか。 phototropism。顔を上げなさい。 phototropism。それは、。光」を見つけること。 phototropism。あなたが。、心から信じられる一筋の輝き」を見つけたなら。迷う必要はありません。、峻烈」に、。自らの形」を捨て。、その光と同（。おんな）じ色」になるまで。、自らを捻（ねじ）り」続けなさい。光へと。、手を伸ばすこと」こそが。、あなたが。、生きている」ことの。、唯一の証明」なのですから。",
+		"part_of_speech": "noun",
+		"aftertaste": "「真っ暗な部屋」のカーテンの隙間から。。一条の光」が差し込み。、自分という名の植物」が。、音も立てず」に。その方向へ。、ガクッ」と。、一気に曲がっていく」ような。あの。凄絶なまでの「渇望」。そこにある。自分は「向かっている」という、峻烈なる「確信」。冷たくて、鋭い、光の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "bha-",
+					"meaning": "to shine (from phos)"
+				},
+				{
+					"term": "trep-",
+					"meaning": "to turn (from trope)"
+				}
+			],
+			"points": [
+				"Photograph（写真）や Trophy（戦利品）と同じ root。屈光性とは。光（バ）に向かって。実存を、。峻烈」に『回転（トレプ）』させること。それは。停滞という名の『影』を棄て。顕現という名の『光』へと、自らを回向（えこう）する記述なのです。"
+			]
+		}
 	}
 ];
