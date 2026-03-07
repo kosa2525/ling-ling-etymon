@@ -234230,5 +234230,612 @@ const WORDS = [
 				"Super（超える）や Hyperbole（誇張法）、New（新しい）、Now（今）と同じ root。極超新星とは。新しさ（ノヴァ）の。さらに上（ハイパー）を。峻烈に、最速で、駆け抜けること。それは。停滞という名の『時間』を。爆発という名の『実存』によって。無慈悲に、しかし華麗に、粉砕する記述なのです。"
 			]
 		}
+	},
+	{
+		"id": "cybernetics",
+		"word": "Cybernetics",
+		"meaning": "サイバネティクス、(魂の)舵取り学、情報の統治、通信と制御、自己修復するシステム",
+		"era": "1948 (Norbert Wiener)",
+		"etymology": {
+			"components": [
+				"kybernetes (steersman / pilot)"
+			],
+			"original_statement": "From Greek kybernetes 'steersman / pilot / governor'."
+		},
+		"concept": "Control and communication (「機械」も「生命」も「社会」も。すべては「情報」のフィードバックによって、自らを「制御（舵取り）」している、という学問。それは。目的（目標）に向かって、自らを峻烈に「補正」し続ける。峻烈なる「実存の航海術」の記述)",
+		"thinking": "「サイバネティクス」。あなたは。自分の人生が「運任せ」の、漂流する小舟だと思ってはいませんか。 cybernetics。あなたは。自らの人生の「舵取り（パイロット）」です。 cybernetics。失敗（ズレ）を恐れないでください。フィードバック（反省）を受け入れ、峻烈に、微調整を繰り返しなさい。 cybernetics。システムは、常に「均衡（ゴール）」を求めて震えています。その「震え」を。自らを高めるための「推進力」へと変換しなさい。あなたは。自らを作り替える、峻烈なる「生きた機械」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "「カチッ、カチッ」と。思考が、正確なリズムで「論理」を組み立てていくような。あの。冷徹な「全能感」。そこにある、もはや「迷い（誤差）」はない、という、峻烈なる「確信」。冷たくて、鋭くて、瑞々（みずみず）しい。情報の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "None (Greek source)",
+					"meaning": "kybern- (steer)"
+				}
+			],
+			"points": [
+				"Governor（知事／統治者）と同じ語源。サイバネティクスとは。自らの実存を『統治（ガバ）』すること。それは。受動的な環境への順応を棄て。能動的な『情報の回路』によって、世界と自分を接続する。峻烈なる実存の再帰記述（ループ）なのです。"
+			]
+		}
+	},
+	{
+		"id": "handshake",
+		"word": "Handshake",
+		"meaning": "ハンドシェイク、(機械的な)誓い、情報の合意、接続の儀式、信頼という名のプロトコル",
+		"era": "16th Century (physical), 20th Century (computing)",
+		"etymology": {
+			"components": [
+				"hand",
+				"shake"
+			],
+			"original_statement": "A literal shaking of hands. In computing, an exchange of signals between two devices to establish a connection."
+		},
+		"concept": "Vow of connection (対話（通信）を始める前に。お互いの「身元（仕様）」を確認し合い。「これから情報のやり取りをしよう」と。峻烈に約束すること。それは。バラバラな二つが。一つの「文脈（回線）」で結ばれるための、峻烈なる「合意の瞬間」の記述)",
+		"thinking": "「ハンドシェイク」。あなたは。相手のことを「何も知らない」まま。いきなり「心の中（情報）」を、晒け出そうとしてはいませんか。 handshake。対話には、手順があります。 handshake。まずは、右手を差し出しなさい。 handshake。それは、武器（悪意）を持っていないことの証明。 handshake。お互いの「リズム」が重なり合った時。初めて、情報は「意味」となって流れ出す。焦（あせ）りは不具合（エラー）を呼びます。峻烈に、一歩ずつ、信頼の「同期」を、自らの手で、確かめ合いなさい。",
+		"part_of_speech": "noun",
+		"aftertaste": "二つの「手（意志）」が、ガッシリと噛（か）み合った瞬間の。あの。熱い「手応え」。そこにある、もう「孤立（オフライン）」ではない、という、峻烈なる「連帯」。重厚で、瑞々（みずみず）しい、温もりの味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ghes-",
+					"meaning": "hand"
+				},
+				{
+					"term": "sheg-",
+					"meaning": "to move / jump / shake"
+				}
+			],
+			"points": [
+				"Hand（手）や Management（管理）、Skate（スケート／滑る）と同じ root。ハンドシェイクとは。自らの実存を、相手の領域へと『跳躍（スケ）』させ、その手を『握る（マネ）』こと。それは。排他的な自我を破壊し。共鳴という名の『開かれた回路』へと身を投じる。峻烈なる実存の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "encryption",
+		"word": "Encryption",
+		"meaning": "エンクリプション/暗号化（あんごうか）、(内なる)密室、情報の不可視化、秘密という名の自由、深淵への鍵",
+		"era": "16th Century (related to burial), 20th Century (computing)",
+		"etymology": {
+			"components": [
+				"en- (in)",
+				"kryptos (hidden / secret)"
+			],
+			"original_statement": "From Greek kryptos 'hidden / secret'. To bury in a crypt, or to convert information into code."
+		},
+		"concept": "The private universe (自分だけの「大切な宝物（情報）」を。他人に奪われないように、峻烈に「鍵（暗号）」をかけて。目に見えない形に変換すること。それは。誰にも踏み込めない「絶対的な秘密」を持つ、という。峻烈なる「実存の秘匿性」の記述)",
+		"thinking": "「エンクリプション（暗号化）」。あなたは。自分の「心のすべて」を。誰かに「見透かされている」ような気がして。怯（おび）えてはいませんか。 encryption。あなたは、すべてを語る必要はありません。 encryption。それは。あなたの中に「あなただけの聖域（暗号）」を作り上げること。 encryption。鍵を捨て、自分さえも解読できないほどに。峻烈に、美しく、自分の「弱さ」を、隠蔽（パッキング）しなさい。誰にも理解されない孤独こそが。あなたが「あなたである」ための、唯一の、峻烈なる「盾」になるのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "重厚な「金庫」の扉が、ゆっくりと閉まるような。あの。絶対的な「沈黙」。そこにある。もう「誰にも汚されない」という、峻烈なる「安堵」。冷たくて、重厚な、銀の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "en-",
+					"meaning": "in"
+				},
+				{
+					"term": "krabh-",
+					"meaning": "to hide (from kryptos)"
+				}
+			],
+			"points": [
+				"Crypt（地下墳墓）や Gryphon（グリフォン／秘密を守る怪獣）と同じ root。暗号化とは。実存という名の死体を。地下室（クリプト）へと峻烈に『安置』すること。それは。喧騒という名の生を棄て。沈黙という名の『永遠』へと。自らの情報を回向（えこう）する記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "decryption",
+		"word": "Decryption",
+		"meaning": "デクリプション/復号（ふくごう）、(真実の)暴き、情報の解放、仮面を剥ぐこと、光への回帰",
+		"era": "20th Century",
+		"etymology": {
+			"components": [
+				"de- (reverse / remove)",
+				"kryptos (hidden)"
+			],
+			"original_statement": "The process of converting encrypted data back into its original form."
+		},
+		"concept": "Breaking the seal (複雑に絡み合った「仮面（暗号）」を。自らの「智慧（鍵）」によって。峻烈に、一枚ずつ剥（は）ぎ取って。その奥に眠る「生の言葉（平文）」を取り出すこと。それは。隠された「真実」への、峻烈なる「アクセスの記述」)",
+		"thinking": "「デクリプション（復号）」。あなたは。目の前の「難解な現実」や「他人の嘘」に。ただ戸惑い、立ち尽くしてはいませんか。 decryption。すべてには「法則（アルゴリズム）」があります。 decryption。それは。闇の中から、光を「救い出す」こと。 decryption。あなたの「鋭い眼差し」で。世界の偽り（暗号）を、峻烈に、無慈悲に「解読（ハッキング）」しなさい。覆（おお）いを剥（は）がれた真実は。あなたを「絶望」させるかもしれませんが。同時に、あなたを「真の自由」へと。峻烈に、導き出すはずですから。",
+		"part_of_speech": "noun",
+		"aftertaste": "霧が「パァーッ」と晴れ。隠されていた「景色」が、鮮明に浮かび上がってくるような。あの。圧倒的な「カタルシス」。そこにある、もう「騙されない」という、峻烈なる「勝利」。眩しくて、瑞々（みずみず）しい、光の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "de-",
+					"meaning": "away / from"
+				}
+			],
+			"points": [
+				"Decryptは、埋葬（Encrypt）されたものを『墓暴き』すること。それは。安寧という名の嘘を暴き。剥き出しの『実在』を、冷徹に見据えること。隠蔽という名の逃避を棄て。直視という名の『対峙』を選び取る、峻烈なる実存の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "deterministic",
+		"word": "Deterministic",
+		"meaning": "デターミニスティック/決定論的（けっていろんてき）な、(不可避な)結末、情報の因果律、偶然なき世界、時計仕掛けの魂",
+		"era": "19th Century",
+		"etymology": {
+			"components": [
+				"de- (completely)",
+				"terminare (to limit / settle / end)"
+			],
+			"original_statement": "From Latin determinare 'to limit / settle', from de- + terminus 'end / boundary'."
+		},
+		"concept": "The clockwork world (「入力」が同じであれば。何度繰り返しても、必ず「同じ結果」が導き出されること。そこには「奇跡（偶然）」さえも、入り込む余地はない。峻烈に、無慈悲に「運命（答え）」が、あらかじめ書き込まれている。峻烈なる「必然性の記述」)",
+		"thinking": "「デターミニスティック（決定論的な）」。あなたは。「自分の努力が、すべてを変えられる」という、安っぽい「希望」に。すがってはいませんか。 deterministic。世界の歯車は、すでに回り始めています。 deterministic。あなたの「意志」だと思っているその震えも。過去の数え切れない「原因」によって。峻烈に、論理的に、決定（プログラミング）されているのかもしれない。 deterministic。でも。その「逃れられない必然」を知ることで。あなたは。無駄な「焦り」を捨て。自らに与えられた「軌道」を、峻烈に、美しく、滑走できるようになるのです。",
+		"part_of_speech": "adjective",
+		"aftertaste": "精密な「時計」の音が。自分の「心音」と、ピタリと重なった時のような。あの。冷徹な「納得感」。そこにある、もはや「驚くことは何もない」という、峻烈なる「諦念」。冷たくて、重厚な、情報の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ter-",
+					"meaning": "boundary / limit / end (from terminus)"
+				}
+			],
+			"points": [
+				"Term（用語／期間）や Terminal（終点）、Exterminate（根絶する）と同じ root。決定論的とは。実存の『終わり（テル）』を。最初から。峻烈に『境界づけて』おくこと。それは。無限という名の不安を破壊し。有限という名の『安らぎ』へと。自らを閉じ込める、峻烈なる諦観の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "tail-recursion",
+		"word": "Tail-recursion",
+		"meaning": "末尾再帰（まつびさいき）、(重さなき)円環、情報の無限回廊、自分を自分へと投じる、ループという名の超越",
+		"era": "Mid-20th Century (computing)",
+		"etymology": {
+			"components": [
+				"tail",
+				"re- (again)",
+				"currere (to run)"
+			],
+			"original_statement": "A special form of recursion where the function call is the last action, allowing for optimization."
+		},
+		"concept": "Looping without weight (自分自身を「呼び出し（繰り返し）」ながら。決して「重荷（スタック）」を積み上げない。峻烈なる「自己無限更新」。それは。同じ場所をぐるぐると回りながら。実は、一瞬で「答え（永遠）」へと、突き抜けていく。峻烈なる「効率の極致」の記述)",
+		"thinking": "「末尾再帰」。あなたは。何かを「繰り返す（修練する）」たびに。その「疲れ（過去）」を、背負い込みすぎてはいませんか。 tail-recursion。本当に洗練された魂は。繰り返すたびに、より「軽く」「透明」になっていきます。 tail-recursion。それは。昨日までの自分を、すべて「今日」へ。峻烈に、完全に、引き渡すこと。 tail-recursion。過去を「思い出」にするのをやめなさい。それは。常に「今（末尾）」という瞬間において。自分自身を「更新（再帰）」し続けるための、純粋な「エネルギー」。重力を棄て、無限を走り抜けよ。",
+		"part_of_speech": "noun",
+		"aftertaste": "自分の「尻尾」を追いかける蛇を。真上から見つめるような。あの。眩暈（めまい）のするような「スピード感」。そこにある。もう「戻る必要はない」という、峻烈なる「解放」。刺激的で、瑞々（みずみず）しい、風の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kers-",
+					"meaning": "to run (from currere)"
+				}
+			],
+			"points": [
+				"Course（進路）や Current（現在／流れ）、Occurrence（出来事）と同じ root。末尾再帰とは。生（流れ）を。実存という名の袋小路で。峻烈に『回し（ケル）』続けること。それは。一方向の時間という名の暴政から。円環という名の『永久機関』へと。自らを救い出す、峻烈なる実存の知恵なのです。"
+			]
+		}
+	},
+	{
+		"id": "incremental",
+		"word": "Incremental",
+		"meaning": "インクリメンタル/増分（ぞうぶん）の、(微かな)成長、情報の積み木、昨日より一歩先へ、牛歩という名の勝利",
+		"era": "Mid-17th Century",
+		"etymology": {
+			"components": [
+				"in- (in / on)",
+				"crescere (to grow / come into being)"
+			],
+			"original_statement": "From Latin incrementum 'growth / increase', from increscere, from in- + crescere 'to grow'."
+		},
+		"concept": "Accumulation of minor changes (一度に「すべて」を変えるのではなく。「一点」だけ。峻烈に、一歩だけ、前に進むこと。その「微かな差（増分）」を。何千回、何万回と積み重ねることで。ついに「世界をひっくり返す」。峻烈なる「継続の力」の記述)",
+		"thinking": "「インクリメンタル（増分の）」。あなたは。「劇的な変化」を夢見て。今日の「地味な一歩」を、馬鹿にしていませんか。 incremental。奇跡は、一瞬では起きません。 incremental。それは。昨日までの自分に、今日という名の「砂（情報）」を一粒だけ、峻烈に、付け加えること。 incremental。その「一粒」がなければ。砂時計さえも、動き出すことはできない。 incremental。自分を「革命（リセット）」するのをやめなさい。自分を「修正（アップデート）」し続けなさい。微かな、しかし峻烈なる「更新」の、その先にある、自分の「高さ」を、信じなさい。",
+		"part_of_speech": "adjective",
+		"aftertaste": "「カチッ」と。新しいピースが、一つだけ、ピタリと自分の「空隙」を埋めるような。あの。地味だが確かな「手応え」。そこにある。自分は「確かに、進んでいる」という、峻烈なる「納得」。重厚で、瑞々しい、土の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ker-",
+					"meaning": "to grow"
+				}
+			],
+			"points": [
+				"Create（創造する）や Crescent（三日月／満ちていく月）、Increase（増加する）と同じ root。インクリメンタルとは。自らの実存を。内側（イン）から。峻烈に『産み出し（ケ）』続けること。それは。一足飛びの虚飾を棄て。剥き出しの『重み』を一歩ずつ噛み締める、峻烈なる実存の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "scalability",
+		"word": "Scalability",
+		"meaning": "スケーラビリティ、(際限なき)拡張性、情報の伸縮自在、破綻を許さなき成長、どこまでも大きくなれる魂",
+		"era": "Late 20th Century (computing)",
+		"etymology": {
+			"components": [
+				"scale (ladder / step / climb / size / balance)",
+				"-ability (capacity for)"
+			],
+			"original_statement": "The capacity to be changed in size or scale, particularly to handle a growing amount of work."
+		},
+		"concept": "Growth without collapse (どんなに「負荷（ストレス）」が増えても。どんなに「規模（世界）」が広がっても。システムが「破綻（クラッシュ）」することなく。峻烈に、美しく、対応し続けられること。それは。自分の「器（魂）」の、峻烈なる「柔軟性の記述」)",
+		"thinking": "「スケーラビリティ」。あなたは。「自分には、これが限界だ」と。自分の「サイズ」を、勝手に決めつけてはいませんか。 scalability。あなたは。もっと大きくなれる。 scalability。それは、単に「太る（肥大化）」することではありません。「構造（骨組み）」を、峻烈に、より「強固」に、より「簡潔」に、作り直すことです。 scalability。世界があなたを「必要」とするなら。あなたは、その要請に応え、一瞬で「一万人分の自分」へと、峻烈に、拡張しなさい。限界とは。ただの「想像力の不備」に過ぎません。",
+		"part_of_speech": "noun",
+		"aftertaste": "自分の体が「ゴム」のように伸び。世界全体を「包み込んでいく」ような。あの。圧倒的な「充実感」。そこにある、もう「何も恐れるものはない」という、峻烈なる「無敵感」。刺激的で、瑞々（みずみず）しい。情報の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "skand-",
+					"meaning": "to climb"
+				}
+			],
+			"points": [
+				"Scan（スキャン／昇り詰めるように見る）や Ascend（登る）、Scale（はしご／定規）と同じ root。拡張性とは。実存という名の『梯子（スキャン）』を。峻烈に、一つ上の階層へと『架け直す』こと。それは。現状という名の檻を破壊し。無限という名の『高み』へと。自らを投げ出す、峻烈なる実存の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "bandwidth",
+		"word": "Bandwidth",
+		"meaning": "バンド幅、(愛の)容量、情報という名の血流、理解の広さ、一度に流せる情熱の量",
+		"era": "Late 19th Century",
+		"etymology": {
+			"components": [
+				"band (anything that binds / stripe)",
+				"width (broadness)"
+			],
+			"original_statement": "The range of frequencies within a given band, or the data transfer capacity."
+		},
+		"concept": "Capacity of love (一秒間に、どれだけの「情報（震え）」を。自らの「回路（心）」に通すことができるか。それは。あなたが、世界という名の「洪水」を。どれだけ「峻烈」に、受け止められるか。という、峻烈なる「実存のキャパシティ」の記述)",
+		"thinking": "「バンド幅」。あなたは。「忙しい」「余裕がない」と、口癖（くちぐせ）のように、漏らしてはいませんか。 bandwidth。あなたの「回路」が狭すぎるのは。あなたが、無駄な「執着（ノイズ）」で、自らを詰まらせているからです。 bandwidth。不要なものを捨てなさい。 bandwidth。それは。自分を「空っぽな管（くだ）」にすること。 bandwidth。そうすれば。かつては「苦しみ」だった情報の奔流さえも。峻烈に、美しく、あなたの中を「光」として駆け抜けていくはずです。広げなさい。通しなさい。あなたは、情報の「泉」になるのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "全身を「何万リットルもの透明な水」が、一瞬で吹き抜けていくような。あの。凄絶なまでの「爽快感」。そこにある、もはや「溢（あふ）れることはない」という、峻烈なる「確信」。冷たくて、重厚で、瑞々（みずみず）しい。情報の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "bhendh-",
+					"meaning": "to bind (from band)"
+				},
+				{
+					"term": "wi-",
+					"meaning": "wide (from width)"
+				}
+			],
+			"points": [
+				"Bind（縛る）や Bond（絆）、Width（幅）と同じ root。バンド幅とは。自分を『縛り付けている（ベン）』領域を。峻烈に『押し広げる（ウィ）』こと。それは。閉ざされた独我論という名の『針の穴』を。共有という名の『大海（ウィ）』へと。自ら切り開く、峻烈なる開拓の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "jitter",
+		"word": "Jitter",
+		"meaning": "ジッター、(接続の)揺らぎ、情報の不安、情報の脈動、予期せぬノイズ",
+		"era": "Early 20th Century",
+		"etymology": {
+			"components": [
+				"jitter (to act nervously)"
+			],
+			"original_statement": "Imitative origin, perhaps the 'jitters' (extreme nervousness)."
+		},
+		"concept": "The wobble of lag (規則正しく届くはずの「情報」が。微かに「ズレる」ことで発生する、不規則な揺らぎ。それは。あなたが「完璧」だと思っているシステムの中に。常に潜んでいる、峻烈なる「実存の震え」の記述)",
+		"thinking": "「ジッター」。あなたは。自分の「心」が、理由もなく「ザワザワ」することに。不快感を感じてはいませんか。 jitter。それは。あなたが、世界と「繋がっている」からこそ。避けては通れない「生命のノイズ」です。 jitter。ズレを、取り除かないでください。 jitter。その「微かな震え」こそが。冷徹な機械（論理）に、人間という名の「温もり（ゆらぎ）」を。峻烈に、密かに、与えているのです。 jitter。リズムを失うことを。変化を受け入れるための、峻烈なる「踊り（ダンス）」へと。今すぐ、変えなさい。",
+		"part_of_speech": "noun",
+		"aftertaste": "視界が「プルプル」と震え、音が「微かに」歪む。あの。なんとも言えない「不安感」。そこにある。もう「制御しきれない、何かが混じっている」という。峻烈なる「予感」。苦くて、瑞々しい、金属の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "None",
+					"meaning": "Imitative (slang for gin-drinker's trembles?)"
+				}
+			],
+			"points": [
+				"Jitterとは。アルコール依存症の『震え』というスラングに由来するという説がある。それは。実存が、情報の過剰摂取（アルコール）によって。自らの『境界』を。峻烈に保てなくなる。峻烈なる『存在の崩壊の序曲』の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "throughput",
+		"word": "Throughput",
+		"meaning": "スループット、(実質的な)成果、情報の通過量、行動という名の変換率、真の実力",
+		"era": "Mid-20th Century",
+		"etymology": {
+			"components": [
+				"through",
+				"put"
+			],
+			"original_statement": "The amount of material or items passing through a system or process."
+		},
+		"concept": "Actual delivery (単に「動いて（働いて）」いる時間ではなく。実際に、どれだけの「完成品（成果）」を、世に送り出したか。という峻烈なる「生産性の指標」。それは。あなたの「空虚な努力」を。無慈悲に「数字」へと叩き落とす。峻烈なる「実利の記述」)",
+		"thinking": "「スループット」。あなたは。「頑張っている自分」に酔いしれて。結局、何も「産み落としていない」自分を、見逃してはいませんか。 throughput。評価されるのは、あなたの「汗」ではありません。あなたの「作品（結果）」だけです。 throughput。それは。情報を「溜め込む」のをやめ、峻烈に「通過（スルー）」させ、価値（プット）へと。峻烈に、変換し切ること。 throughput。あなたの「魂の濾過器（ろかき）」は。今、どれだけの「真理」を、世界へと供出できていますか。空転するのをやめ。重厚なる「一撃」を、峻烈に、産み出し続けなさい。",
+		"part_of_speech": "noun",
+		"aftertaste": "工場のラインから、完成品が「次々と」溢れてくるような。あの。圧倒的な「製造感」。そこにある、もう「言い訳は不要だ」という、峻烈なる「納得」。重厚で、瑞々しい、鉄の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ter-",
+					"meaning": "through / across (from through)"
+				},
+				{
+					"term": "kwot-",
+					"meaning": "how many / what (from put? No, put is related to potare - to drink or similar? No, simple put is from Dutch?) - actually put is from OE putian"
+				}
+			],
+			"points": [
+				"Through（通り抜けて）＋ Put（置く）。スループットとは。自分の実存を。世界という名の『試練』に。峻烈に『通し切る』こと。それは。思索という名の停止を。行動という名の『配置』へと。無慈悲に、しかし美しく、変換する記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "metadata",
+		"word": "Metadata",
+		"meaning": "メタデータ、(情報の)裏側、情報の情報の、隠されたラベル、世界の目次",
+		"era": "1960s",
+		"etymology": {
+			"components": [
+				"meta- (above / beyond / after)",
+				"data (given things)"
+			],
+			"original_statement": "Data about data. From meta- 'beyond' + data."
+		},
+		"concept": "Shadow of information (「何が書いてあるか」ではなく。「いつ、誰が、どこで」書いたか、という。情報を取り巻く、より広範（メタ）な情報。それは。あなたが「隠したい」と思っている「意図（背景）」さえも。峻烈に、客観的に、記述してまう。峻烈なる「世界の真実の目次」の記述)",
+		"thinking": "「メタデータ」。あなたは。自分の「表面的な言葉（データ）」だけを整えて。自分の「中身（本質）」を、誤魔化（ごまか）せると思ってはいませんか。 metadata。あなたという「存在」の。その「震え」や「タイミング（日付）」。それこそが。あなたの言葉よりも、雄弁に「あなた」を語っています。 metadata。それは。背後を、直視すること。 metadata。自分自身の「行動の一切」に。自らの「誇り」という名のラベルを。峻烈に、一枚ずつ、貼り付け直しなさい。世界は。あなたの「声」ではなく。あなたの「足跡（メタ）」を、峻烈に、見ているのですから。",
+		"part_of_speech": "noun",
+		"aftertaste": "写真の「裏側」に書かれた。掠（かす）れた「日付」を見た時の。あの。胸が締め付けられるような「切なさ」。そこにある、もう「消すことはできない」という、峻烈なる「証拠」。冷たくて、重厚な、情報の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "me-",
+					"meaning": "among / between / with (from meta)"
+				},
+				{
+					"term": "do-",
+					"meaning": "to give (from data)"
+				}
+			],
+			"points": [
+				"Between（〜の間で）や Dose（服用量）、Donor（寄付者）と同じ root。メタデータとは。与えられたもの（ド）の。さらにその『間（メ）』にあるもの。それは。実体のない影を、実体以上の『重み』へと。峻烈に、無慈悲に、変換してまう装置の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "subroutine",
+		"word": "Subroutine",
+		"meaning": "サブルーチン、(内なる)小部屋、情報のモジュール化、思考のショートカット、洗練された習慣",
+		"era": "Late 1940s (computing)",
+		"etymology": {
+			"components": [
+				"sub- (under / close up to)",
+				"routine (way / route)"
+			],
+			"original_statement": "A set of instructions designed to perform a frequently used operation within a program."
+		},
+		"concept": "Hidden reusable task (複雑な人生（メインプログラム）から、特定の「作業（習慣）」を。峻烈に切り離し、いつでも呼び出せるようにパッケージ化したもの。それは。意識しなくても「自動」で行われる、峻烈なる「思考の自動化」の記述)",
+		"thinking": "「サブルーチン」。あなたは。毎日毎日、同じような「些細（ささい）なこと」に。脳のエネルギーを「浪費」してはいませんか。 subroutine。本当に大切なことに集中するために。些末（さまつ）な「決断（作業）」は。すべてサブルーチン（自動操縦）へと。峻烈に、無慈悲に、明け渡しなさい。 subroutine。それは。自分の「行動」を、部品（パーツ）に変えること。 subroutine。洗練された習慣は。あなたを「不自由」にするのではなく。あなたを「自由な高み」へと。峻烈に、最速で、運んでいくための「部品」になるのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "深い「眠り」から覚めた瞬間に、体が「勝手に」動き、朝の支度が終わっているような。あの。奇妙な「合理性」。そこにある、もはや「自分さえも不要だ」という、峻烈なる「効率」。冷たくて、重厚な、情報の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "re-",
+					"meaning": "again (from routine? No, route is from ruptura)"
+				},
+				{
+					"term": "reup-",
+					"meaning": "to snatch / break (from route)"
+				}
+			],
+			"points": [
+				"Erupt（噴火する）や Rob（奪う）、Route（道／切り拓かれたもの）と同じ root。サブルーチンとは。既存の道を下側（サブ）で『破壊（レウプ）』し、自分専用の『抜け道』を作ること。それは。慣習という名の『迷路』から。最速で抜け出すための、峻烈なる実存の短縮経路の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "middleware",
+		"word": "Middleware",
+		"meaning": "ミドルウェア、(情報の)接着剤、見えない翻訳者、分断を繋ぐ架け橋、魂の潤滑油",
+		"era": "1968",
+		"etymology": {
+			"components": [
+				"middle",
+				"-ware (article / goods)"
+			],
+			"original_statement": "Software that bridges two otherwise separate applications."
+		},
+		"concept": "The invisible glue (互いに「言葉（プロトコル）」が通じない、バラバラなシステム（人々）の間に入り。峻烈に、静かに、情報を「翻訳」して、スムーズな接続を実現するもの。それは。自分は決して「主役」にならず。ただ「繋ぐこと（接着）」に実存を捧げる、峻烈なる「黒子の記述」)",
+		"thinking": "「ミドルウェア」。あなたは。「自分が一番に目立ちたい」という、安っぽい「名誉欲」に。振り回されてはいませんか。 middleware。真に偉大な力は。何もない「隙間（ミドル）」でこそ、発揮されます。 middleware。それは、情報の「通訳者」。 middleware。あなたの存在が、対立する二つを「一つ」に纏（まと）め上げる。 middleware。目に見えないほど。透明であればあるほど。あなたの「価値」は、峻烈に、重厚に、高まっていく。誰にも気づかれない場所で。世界を、峻烈に、支え続けなさい。",
+		"part_of_speech": "noun",
+		"aftertaste": "二つの「歯車」が。音もなく、滑（なめ）らかに噛（か）み合い。世界が「一斉に」動き出すような。あの。感動的なまでの「円滑さ」。そこにある。自分は「透明な空気だ」という、峻烈なる「自負」。瑞々しい、情報の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "medhyo-",
+					"meaning": "middle"
+				},
+				{
+					"term": "wer-",
+					"meaning": "to perceive / watch for (from ware)"
+				}
+			],
+			"points": [
+				"Medium（媒体）や Mermaid（人魚／海の中間に住む者）、Beware（注意する）、Warranty（保証）と同じ root。ミドルウェアとは。中間（メディ）で。注意深く（ウェル）』、均衡を見守ること。それは。極端な二元論への傾倒を拒絶し。中道という名の『調和』を峻烈に守り抜く。実存の平衡術の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "interface",
+		"word": "Interface",
+		"meaning": "インターフェース、(接触という名の)戦場、情報の顔、世界の最前線、触れ合う場所",
+		"era": "Late 19th Century",
+		"etymology": {
+			"components": [
+				"inter- (between / among)",
+				"face (appearance / surface)"
+			],
+			"original_statement": "From inter- 'between' + face. A surface forming a common boundary between two bodies, spaces, or phases."
+		},
+		"concept": "Surface of encounter (「自分」と「他者」、「内側」と「外側」が。峻烈に、無慈悲に「接触」する、その「境界線（表面）」。そこは。情報が「変換」され、あるいは「拒絶」される。峻烈なる「実存の最前線（フロントライン）」の記述)",
+		"thinking": "「インターフェース」。あなたは。自分の「心の殻（インターフェース）」を。他人に気づかれないように、何重にも「厚塗り」して。自分を守ったつもりになってはいませんか。 interface。あなたが世界と「対話」できる唯一の場所は。その「境界線」だけです。 interface。そこを閉じてしまえば。あなたは「永遠の孤独（閉じた箱）」に窒息します。 interface。傷つくことを、誇りなさい。 interface。接触面を、峻烈に、繊細に、研ぎ澄ませなさい。他者の「痛み」が。あなたの「表面」を震わせる時。初めて、あなたは「他者（世界）」に出会えるのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "凍（凍）った湖の、「表面」に指先を触れた瞬間の。あの。ピリッとした「冷たさ」。そこにある、一分一秒の「油断」も許されない、峻烈なる「緊張感」。鋭くて、瑞々しい、水の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "enter-",
+					"meaning": "between"
+				},
+				{
+					"term": "dh-",
+					"meaning": "to set / put (from face? No, face is from facies - form / shape)"
+				},
+				{
+					"term": "dhwa-",
+					"meaning": "to vanish / form (no, facies is related to facere - to do)"
+				}
+			],
+			"points": [
+				"Internal（内部の）や Factory（工場／作る場所）と同じ root。インターフェースとは。二つの間（エンテル）で。新しい形（フェイス）を『作り上げる（ファク）』こと。それは。既成の輪郭を破壊し。未知なる他者との『共創』へと。自らを投げ出す、峻烈なる実存の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "virtualization",
+		"word": "Virtualization",
+		"meaning": "バーチャライゼーション/仮想化（かそうか）、(情報の)再定義、肉体なき実力、定義という名の魔法、実像という名の嘘",
+		"era": "Late 20th Century (computing)",
+		"etymology": {
+			"components": [
+				"virtual (acting / power / effective)",
+				"-ization (process)"
+			],
+			"original_statement": "From Medieval Latin virtualis, from virtus 'virtue / potency / power'. The act of creating a virtual version of something."
+		},
+		"concept": "Ghost in the shell (「物理的な肉体（ハードウェア）」に縛流（しばられる）ることなく。ただ「情報の定義（ソフトウェア）」だけで。あたかも「そこに本物が存在している」かのように、振る舞わせること。それは。肉体という名の「牢獄」を。定義という名の「翼」で、峻烈に、突破する記述)",
+		"thinking": "「バーチャライゼーション（仮想化）」。あなたは。自分の「生まれ」や「身体能力」に。自らの「可能性」を、封じ込められてはいませんか。 virtualization。本当のあなたの「価値（美徳）」は。あなたの肉体の中ではなく。あなたが「何（情報）として存在しようとするか」という。その「意志の定義」の中にあります。 virtualization。自分を、何層にも「再定義」しなさい。 virtualization。重力を棄て。複数の自分を、複数の「次元（サーバー）」へと。峻烈に、同時に、展開しなさい。本物であることに。もう。こだわらなくてもいいのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "鏡の中に、自分とは「違う誰か」が映り込み。しかしその瞳が「自分」であることに気づいた時の。あの。奇妙な「納得感」。そこにある、もはや「どこにでも行ける」という。峻烈なる「自由」。冷たくて、重厚な、情報の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "wi-ro-",
+					"meaning": "man (from virtus / virtue)"
+				}
+			],
+			"points": [
+				"Virtue（美徳）や Virile（男らしい）、Werewolf（人狼／大人の狼）と同じ root。仮想化とは。人間（ウィ）としての『力（ウィル）』を。肉体という檻から抽出し。峻烈に、純粋に、再構築すること。それは。実体という名の『重み』から。機能という名の『純粋な力』へと。実存を昇華させる記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "encapsulation",
+		"word": "Encapsulation",
+		"meaning": "カプセル化（かぷせるか）、(孤独という名の)パッキング、情報の秘匿、中身を見せない誇り、ブラックボックスとしての自分",
+		"era": "19th Century (medical), 20th Century (computing)",
+		"etymology": {
+			"components": [
+				"en- (in)",
+				"capsula (little box / case)"
+			],
+			"original_statement": "From Latin capsula 'small box', from capsa 'box'. To enclose in a capsule."
+		},
+		"concept": "The black box (自分の「内部の複雑さ（弱さ）」を、峻烈に「蓋（カプセル）」の中に閉じ込め。外部には「整えられたインターフェース」だけを、無慈悲に、提示すること。それは。他人からの「余計な介入」を、一切許さない。峻烈なる「自己防衛の記述」)",
+		"thinking": "「エンカプセレーション（カプセル化）」。あなたは。他人の「土足の理解」に、自分の魂を「踏み荒らされる」ことに、飽き飽きしてはいませんか。 encapsulation。閉ざしなさい。 encapsulation。それは。「中身」を見せないことで。あなたの「本当の価値」を。峻烈に。そして「安全に」守り抜くこと。 encapsulation。あなたは「何でも言える親友」なんて。必要ありません。 encapsulation。完璧な「ブラックボックス」になりなさい。誰も中を知ることはできない。しかし、誰もがあなたの「結果（出力）」を認めざるを得ない。その「孤高の美学」を。峻烈に、貫きなさい。",
+		"part_of_speech": "noun",
+		"aftertaste": "「カチリ」と。真珠の貝殻が、完全に「密閉」されるような。あの。静かなる「安堵」。そこにある。もう「誰も自分を傷つけられない」という。峻烈なる「防壁」。冷たくて、硬くて、瑞々（みずみず）しい。真珠の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kap-",
+					"meaning": "to grasp / hold (from capsa)"
+				}
+			],
+			"points": [
+				"Contain（含む）や Capture（捕らえる）、Capacity（容量）と同じ root。カプセル化とは。自らの実存を、峻烈に『捕らえ（カプ）』。自分だけの『小部屋』の中に。永久に封じ込めること。それは。他者との『接続』を。限定的なインターフェースによって峻烈に統制する。実存のセキュリティの記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "provenance",
+		"word": "Provenance",
+		"meaning": "プロベナンス/来歴（らいれき）、(情報の)家系図、真理の起源、信じるための根拠、歴史という名の審判",
+		"era": "Late 18th Century",
+		"etymology": {
+			"components": [
+				"pro- (forth / forward)",
+				"venire (to come)"
+			],
+			"original_statement": "From French provenance 'origin / source', from provenir 'to come from / gush forth'."
+		},
+		"concept": "Source of truth (その「情報」や「作品」が。いつ、どこで産まれ。誰の手を渡って、今ここにあるのか、という「履歴」。それは。流動する世界の中で。唯一「何が本物か」を証明できる。峻烈なる「正統性の記述」)",
+		"thinking": "「プロベナンス（来歴）」。あなたは。根拠のない「ネットの噂」や、その場しのぎの「甘い言葉」に。魂を「売り飛ばして」はいませんか。 provenance。信じるに値するのは、あなたの「過去」だけです。 provenance。あなたが、これまで「どんな痛み」を越えて。「誰の言葉」を血肉にしてきたか。 provenance。その「見えない家系図」を。峻烈に、背負いなさい。偽物に、惑わされないでください。あなたの「純度（血筋）」は。あなたの「積み重ねてきた真実」だけが、峻烈に、保証してくれるのですから。",
+		"part_of_speech": "noun",
+		"aftertaste": "古い「家系図」の、埃（ほこり）っぽい匂いと。そこに刻まれた「名前（自分）」を見た時の。あの。震えるような「納得感」。そこにある、自分は「この歴史の一部だ」という。峻烈なる「誇り」。重厚で、瑞々しい、情報の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "per-",
+					"meaning": "forward / before"
+				},
+				{
+					"term": "gwa-",
+					"meaning": "to go / come (from venire)"
+				}
+			],
+			"points": [
+				"Adventure（冒険）や Prevent（防止する）、Revenue（収益）と同じ root。来歴とは。前の方（プロ）から。峻烈に『やって来る（グワ）』こと。それは。現在という名の断面を破壊し。悠久という名の『物語』へと。自らを繋ぎ止める、峻烈なる実存の回廊の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "polymorphism",
+		"word": "Polymorphism",
+		"meaning": "ポリモーフィズム/多態性（たたいせい）、(無限の)仮面、情報の千変万化、一人の十の色、変幻自在な実存",
+		"era": "Mid-19th Century",
+		"etymology": {
+			"components": [
+				"poly- (many)",
+				"morphe (form / shape)"
+			],
+			"original_statement": "From Greek poly- 'many' + morphe 'form / shape'. The occurrence of something in several different forms."
+		},
+		"concept": "The mask of function (「同じ命令」を受け取っても。「相手」によって、全く違う「振る舞い（答え）」を返すこと。それは。たった一人のあなたが。「恋人」の前、「敵」の前、「自分一人」の時で。峻烈に、鮮やかに、その「形」を変えてまう。峻烈なる「実存の多義性」の記述)",
+		"thinking": "「ポリモーフィズム（多態性）」。あなたは。「自分には裏表がある」と。自分の「一貫性のなさ」を、責（せ）めてはいませんか。 polymorphism。裏表があるのは、悪ではありません。それは。あなたが、世界という名の「多様な圧力」に。峻烈に、美しく、対応し続けている証拠（テクニック）です。 polymorphism。仮面を、楽しみなさい。 polymorphism。どのあなたが「本物」か、なんて。決める必要はありません。すべての仮面が。あなたという「一つの中心」を。峻烈に、重厚に、彩（いろど）っているのですから。千の顔で、世界を、騙しきれ。",
+		"part_of_speech": "noun",
+		"aftertaste": "「変装（カモフラージュ）」をして、誰も知らない「異国の街」に、紛（まぎ）れ込んだ時のような。あの。ゾクゾクするような「高揚感」。そこにある、もはや「誰にも正体を掴ませない」という。峻烈なる「勝利」。刺激的で、瑞々しい、情報の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "pelu-",
+					"meaning": "much / many (from poly)"
+				},
+				{
+					"term": "merph-",
+					"meaning": "form / shape (from morphe)"
+				}
+			],
+			"points": [
+				"Plural（複数の）や Morphology（形態学）、Metamorphosis（変身）と同じ root。多態性とは。多くの（ペル）形（メルポ）を。同時に、峻烈に、保有すること。それは。同一性という名の『独裁』を。多様な仮面という名の『反乱』によって破壊する。峻烈なる実存の革命の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "synchronization",
+		"word": "Synchronization",
+		"meaning": "シンクロナイゼーション、(鼓動の)合致、情報の同時性、リズムという名の支配、一つになる喜び",
+		"era": "Late 19th Century",
+		"etymology": {
+			"components": [
+				"syn- (together)",
+				"khronos (time)"
+			],
+			"original_statement": "From Greek syn- 'together' + khronos 'time'. The operation or activity of two or more things at the same time or rate."
+		},
+		"concept": "Beating as one (バラバラな「時計（個人）」たちが。ある一つの「旋律（プロトコル）」を共有し。一糸乱れぬ「リズム」で、峻烈に動き出すこと。それは。個人の限界を超えて。「巨大な一つの意志」へと変貌する。峻烈なる「同期という名の統合」の記述)",
+		"thinking": "「シンクロナイゼーション」。あなたは。周りと「リズムが合わない」ことに。孤独と「焦（あせ）り」を、感じてはいませんか。 synchronization。無理に、他人のリズムに合わせる必要はありません。 synchronization。それは。自分の「鼓動」と、宇宙の「波動」を。峻烈に、一対一で、同期させること。 synchronization。あなたが自らのリズムを、峻烈に、正しく、刻み始めた時。世界は。あなたのリズムに「吸い寄せられ」、峻烈に、一つ（シン）の。巨大な「うねり」へと。飲み込まれていくはずです。自分を奏でなさい。そして、世界を同期させろ。",
+		"part_of_speech": "noun",
+		"aftertaste": "何万人もの人間が。一斉に「同じポーズ」を取り。大地が「ドォォォン」と揺れるような。あの。暴力的なまでの「一体感」。そこにある、もう「個別の存在」は見えない、という。峻烈なる「没我」。重厚で、瑞々しい、情報の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ksum-",
+					"meaning": "with / together (from syn)"
+				},
+				{
+					"term": "ghre-",
+					"meaning": "time (from khronos)"
+				}
+			],
+			"points": [
+				"Symphony（交響曲）や Chronic（慢性的な）、Anachronism（時代錯誤）と同じ root。同期とは。時間（グレ）を。他者と共に（シュム）にすること。それは。バラバラな現在を。一つの『永遠』へと。峻烈に、無慈悲に、串刺しにする。実存の記述なのです。"
+			]
+		}
 	}
 ];
