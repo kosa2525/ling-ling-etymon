@@ -214804,5 +214804,114 @@ const WORDS = [
 				"Plastic（形成可能な）も同じく『形作る』ことを意味します。"
 			]
 		}
+	},
+	{
+		"id": "opulent",
+		"word": "Opulent",
+		"meaning": "贅沢な、豪華な、豊かな、溢れんばかりの",
+		"era": "Early 17th Century",
+		"etymology": {
+			"components": [
+				"ops (wealth, resources, power)"
+			],
+			"original_statement": "From Latin opulentus 'wealthy, splendid / rich'."
+		},
+		"concept": "The overflow of resources (単なる蓄財ではなく、その空間や精神が「資源（オプス）」で満たされ、周囲に芳醇な恵みを振りまいているような、圧倒的な充足感)",
+		"thinking": "「豊かさ」のルーツは「仕事（オペレーション）」や「力」を意味する言葉にあります。それは、所有しているものの「量」ではなく、その「質」が生命をどれだけ活性化させているか。あなたが目の前の風景や一皿の料理に「オピュレント」な美しさを感じるとき、それはあなたの感性が、世界の「無限の供給」と共鳴していることの証拠なのです。",
+		"part_of_speech": "adjective",
+		"aftertaste": "ベルベットの質感。あるいは熟した果実の香り。五感のすべてが同時に祝祭を上げているような、極彩色の豊穣。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "op-",
+					"meaning": "to work / produce in abundance"
+				}
+			],
+			"points": [
+				"Opera（オペラ／大作）や Optic（視覚の／光の仕事）とも遠く繋がっています。"
+			]
+		}
+	},
+	{
+		"id": "fervid",
+		"word": "Fervid",
+		"meaning": "熱烈な、熱い、情熱的な、灼熱の",
+		"era": "Late 16th Century",
+		"etymology": {
+			"components": [
+				"fervere (to boil, glow)"
+			],
+			"original_statement": "From Latin fervidus, from fervere 'to boil'."
+		},
+		"concept": "The heat of commitment (内側から湧き上がる衝動が「沸点（ボイル）」に達し、もはや自分自身では制御できないほど、何かを強く、狂おしく想うこと)",
+		"thinking": "「情熱」のルーツは「沸騰」にあります。それは穏やかな温もりではなく、形を変え、物質を融解させるほどの激しい「エネルギーの爆発」。あなたが何かに「ファーヴィド」になっているとき、あなたは古い自分を焼き捨て、全く新しい、より純度の高い「何か」へと生まれ変わろうとしています。その「熱」こそが、人生を推し進める唯一のエンジンなのです。",
+		"part_of_speech": "adjective",
+		"aftertaste": "火の粉が舞うような会話。あるいは、何かに没頭して時間の感覚が消え、体温だけが上昇し続ける、あの忘我の感覚。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "bhreu-",
+					"meaning": "to boil / bubble / burn"
+				}
+			],
+			"points": [
+				"Ferveur（熱情）や Brew（醸造する／熱を通す）と同根です。"
+			]
+		}
+	},
+	{
+		"id": "assiduous",
+		"word": "Assiduous",
+		"meaning": "勤勉な、根気強い、精を出す",
+		"era": "Late 16th Century",
+		"etymology": {
+			"components": [
+				"ad- (to, toward)",
+				"sedere (to sit)"
+			],
+			"original_statement": "From Latin assiduus 'attending, continually present', from ad- 'to' + sedere 'to sit'."
+		},
+		"concept": "Sitting by the work (仕事の「そばに(ad-)」「座り(sed-)」続け、決して逃げ出すことなく、一歩一歩、石を積み上げるような誠実な忍耐)",
+		"thinking": "「勤勉さ」のルーツもまた「座ること」にあります。「インシディアス（陰険）」が心の奥に座り込むなら、「アシデュアス（勤勉）」はあなたの課題や情熱のそばに、ただ「居続ける」こと。魔法や天才を期待するのではなく、ただ目の前の一行、一回という反復を愛し、寄り添い続けること。その「寄り添う座り」こそが、最も巨大な山を動かす唯一の手段なのです。",
+		"part_of_speech": "adjective",
+		"aftertaste": "一日の終わり、少しだけ高くなった成果の山を眺めながら、自分の「持続した時間」に感謝する、静かな自尊心の芽生え。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sed-",
+					"meaning": "to sit"
+				}
+			],
+			"points": [
+				"Session（会期／座る期間）とも親戚。座り続けることが、変化を生むための最低条件です。"
+			]
+		}
+	},
+	{
+		"id": "vibrant",
+		"word": "Vibrant",
+		"meaning": "活気に満ちた、震えるような、響き渡る、鮮やかな",
+		"era": "Late 16th Century",
+		"etymology": {
+			"components": [
+				"vibrare (to shake, brandish)"
+			],
+			"original_statement": "From Latin vibrantem, from vibrare 'to shake / vibrate'."
+		},
+		"concept": "The pulse of resonance (静止しているのではなく、極めて微細で高速な「震え（ヴァイブレーション）」によって、周囲の空気を震わせ、世界に「命の色」を波及させていく状態)",
+		"thinking": "「活気」の本質は「振動」にあります。すべての生命は、固有の周波数で震えています。その震えが強く、淀みないとき、世界は「鮮やか（ヴィブラント）」に見えます。あなたが心から笑い、あるいは何かに感動して震えるとき、あなたの存在そのものが一つの「波」となり、停滞していた周囲の運命を再び動かし始める。美しさとは、この「命の震え」の謂いなのです。",
+		"part_of_speech": "adjective",
+		"aftertaste": "ドラムの残響が肌を叩くような、心地よい緊張感。あるいは、目に飛び込んでくる色彩が、網膜を激しく、そして幸福に揺さぶる感覚。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "weip-",
+					"meaning": "to turn / vacillate / shake"
+				}
+			],
+			"points": [
+				"Vibrate（振動する）や Whip（鞭を振る）と同根の、躍動的な熱量を感じさせる言葉です。"
+			]
+		}
 	}
 ];
