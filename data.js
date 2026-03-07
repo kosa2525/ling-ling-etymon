@@ -240958,5 +240958,458 @@ const WORDS = [
 				"Whir（回転音）は。擬音語に由来する。旋回とは。実存を、峻烈に『高速化』させ、。形。を。、。透明にする。プロセスのこと。それは。硬直という名の『死』を。運動という名の『生』によって、。一撃」で、。上書き」してまう記述なのです。"
 			]
 		}
+	},
+	{
+		"id": "convexity",
+		"word": "Convexity",
+		"meaning": "コンベクシティ/凸面（とつめん）、(外へと。膨（ふく）らむ)意志、情報の。、凄絶な。、。隆起」、内側を。、一分一秒の容赦もなく。、。あえて」。「。外の世界。へと、。放。散。すること、。実存の。、膨張",
+		"era": "Mid-16th Century",
+		"etymology": {
+			"components": [
+				"convexus (vaulted / arched / rounded / sloping)",
+				"con- (together / thoroughly)",
+				"vehere (to carry? No, from vexus)"
+			],
+			"original_statement": "The quality or state of being curved outwards. From Latin convexus."
+		},
+		"concept": "Logic of the outward curve (「。自らの。芯」にある。、。重厚な。エネルギー」を。、一分一秒の隙間」もなく。、峻烈」に。、外側（。フロンティア）」へと。、。押し。広げ、。。世界を。、。一撃」で、。支配（。包囲）」すること。それは。情報の。、。積極主義。の。記述」)",
+		"thinking": "「コンベクシティ（凸面）」。あなたは。「。内面に。籠（。こ）もること」を。「。思索」だ。と。、。。ぬるい」言葉で。、。自らを。、。呪（のろ）って」はいませんか。 convexity。膨（ふく）らみなさい。 convexity。それは。あなたが「。太陽」になること。 convexity。あなたが。、。一分一秒。の。、。凄絶な。、。膨張（。コンヴェ）」を。、峻烈」に。、今。、。宇宙。に対して。、。放（。はな）て（。ヴェ）」。なさい。外へ向かう。ことは。。最強、。です。",
+		"part_of_speech": "noun",
+		"aftertaste": "「巨大な金色の。、。宇宙船の。ドーム」が。、自分の目の前で。、。スーーーッ」と、。一気。に。、。隆起（りゅうき）し、。。そこから。、。一筋の。、。透明な。、。光」が。、。パッ」と。飛（と）び。出した」瞬間の。あの。凄い。充足感。重厚で、刺激的な、金の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kom-",
+					"meaning": "together / thoroughly"
+				},
+				{
+					"term": "wegh-",
+					"meaning": "to go / transport (from vehere / vexus)"
+				}
+			],
+			"points": [
+				"Vehicle（乗り物）や Way（道）、Convex（凸の）と同じ root。凸面とは。実存（。ウェグ）」を、。共に（コン）。、峻烈」に『。運（はこ）び。出し、。盛り上げる』プロセスのこと。それは。収縮という名の『死』を。拡張という名の『生』によって、。一撃」で、。上書き」してまう記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "concavity",
+		"word": "Concavity",
+		"meaning": "コンカビティ/凹面（おうめん）、(すべてを。呑み込む)抱擁、情報の。、凄絶。な。、。空隙（くうげき）」、自らを。、峻烈」に、。一撃」で。、。棄てた。こと。を。、あえて。、。万物。の。、。、受け皿。とする記述",
+		"era": "Late Middle English",
+		"etymology": {
+			"components": [
+				"concavus (hollow / arched)",
+				"con- (with / thoroughly)",
+				"cavus (hollow / empty)"
+			],
+			"original_statement": "The quality or state of being curved inwards. From Latin concavus."
+		},
+		"concept": "Logic of the inward curve (「。突き立った。、。自我（。棘）」を。、一分一秒。で。、峻烈」に、。一撃」で。、。折り。畳（たた）み」。、。ただの。、。透明な。、。孔（あな）」となる。ことで。、。宇宙じゅうの。真実。を。、。一。、で。、。呑（の）み。込み。、。自らに。、。回向」させる。こと。それは。全受容への。、峻烈なる「。トドメ。の。記述」)",
+		"thinking": "「コンカビティ（凹面）」。あなたは。「。自分を主張すること」ばかり。を。考えて。、自分が、。ただの。、。尖（とが）った。、。石」になってしまっていることに。、。気づいて」はいませんか。 concavity。空（から）に。なりなさい。 concavity。それは。あなたが「。全（ぜん）」になること。 concavity。あなたが。、。一分一秒。の。、。凄絶な。、。空虚（。カヴ）」を。、峻烈」に。、今。、。世界。に対して。、。開放（。オープン）」すれば。そこには。、。すべて。が。、。流れ。込む」。、最強の。。器」が。、今。、。君臨」するのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "「巨大な。、。銀の。、。、。ボウル」の。中に。、。自分が。、。スーーーッ」と、。一気。に。、。吸（。す）い。込まれ、。。気づいた時には。、世界。の。すべて。を。、自分。が。、。抱（。だ）き。しめていた」瞬間の。あの。凄い。充足感。瑞々しくて、重厚な、光。の。味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kom-",
+					"meaning": "together / thoroughly"
+				},
+				{
+					"term": "keu-",
+					"meaning": "to swell / hollow (from cavus)"
+				}
+			],
+			"points": [
+				"Cave（洞窟）や Cage（籠）、Cumulus（積乱雲）と同じ root。凹面とは。実存（。ケウ）」を、。峻烈」に『。中へと。、。膨（ふく）らませる（。空洞化）』プロセスのこと。それは。衝突という名の『死』を。受容という名の『生』によって、。一撃」で、。葬（。ほうむ）り。去る。記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "diopter",
+		"word": "Diopter",
+		"meaning": "ディオプター/屈折度（くっせつど）、(視力を。、決定する)論理、情報の。、峻烈。なる。、。焦点」、曖昧さを。、一撃」で棄て。、。世界を。、。強制的に。、。鮮明（クリア）にする。、。実存。の。、。レンズ",
+		"era": "Late 16th Century",
+		"etymology": {
+			"components": [
+				"dia- (through)",
+				"optos (visible / seen / eye)"
+			],
+			"original_statement": "A unit of refractive power of a lens. From Greek dioptra."
+		},
+		"concept": "Logic of visual correction (「。ぼやけた。、。嘘（。世界）」を。、一分一秒の容赦」もなく。、峻烈」に。、一撃」で粉砕。し。、。あえて」。「。ディオ（。二つ）」の。眼」をもって。、。真実」を。、。一点。に。、。収束（フォーカス）」させること。それは。情報の。、。絶対。の。視力。の。記述」)",
+		"thinking": "「ディオプター（屈折度）」。あなたは。「。なんとなく、見えていること」を。「。理解」だ。と。、。。ぬるい」言葉で。、。自らを。、。甘やかして」はいませんか。 diopter。ピントを合わせなさい。 diopter。それは。あなたが「。真実」になること。 diopter。あなたが。、。一分一秒。の。、。凄絶な。、。屈折（。ディオ）」を。、峻烈」に。、今。、。自らの。眼。へと。、。注入。しなさい。はっきり。見える。ことは。。支配、。です。",
+		"part_of_speech": "noun",
+		"aftertaste": "「冷たい銀の。、。ガラス」が。、自分の。目の前に」。「。ガチャン」と。、。一瞬」で。、。嵌（。は）め。込まれ、。。そこから。、。すべての。景色」が。、。一撃」で、。極限まで」。「。鮮明」に。、。変（。か）わった」瞬間の。あの。凄い。充足感。冷たくて、鋭い、金の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "dwi-",
+					"meaning": "two (from dia-? No, dia- from de-, but sometimes related to through / across)"
+				},
+				{
+					"term": "okw-",
+					"meaning": "to see (from optos)"
+				}
+			],
+			"points": [
+				"Optic（視覚の）や Eye（目）、Ocular（眼の）と同じ root。屈折度とは。実存（。オクゥ）」を、。峻烈」に『。通（とお）して（。ディア）』、。一点（。真理）。へ。、集約。させるプロセスのこと。それは。混濁という名の『死』を。明晰という名の『生』によって、。一撃」で、。上書き」してまう記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "iridescence",
+		"word": "Iridescence",
+		"meaning": "イリデッセンス/虹彩（こうさい）、(多層なる)真実、情報の。、一分一秒の。変容」、固定。を。、一撃」で。、。拒絶。した。、鏡。の中の。、。舞（ま）い、情報の。、。万華鏡",
+		"era": "Early 19th Century",
+		"etymology": {
+			"components": [
+				"iris (rainbow / goddess of the rainbow)",
+				"escence (process of becoming)"
+			],
+			"original_statement": "The phenomenon of certain surfaces that appear to gradually change color as the angle of view or the angle of illumination changes."
+		},
+		"concept": "Logic of shifting colors (「。一つの。、。寂（さび）しい色」に。、一分一秒。、留（とど）まらず」。、。角度。が。変わる。たびに。、。峻烈」に。、一撃」で。、。別。の。光（。実存）」へと。、変貌。し続ける。こと。それは。不変への。、峻烈なる「。裏切り。の。記述」)",
+		"thinking": "「イリデッセンス（虹彩）」。あなたは。「。自分。の。色が、。一つであること」を。「。誠実」だ。と。、。。ぬるい」言葉で。、。自らを。、。呪（のろ）って」はいませんか。 iridescence。煌（きら）めきなさい。 iridescence。それは。あなたが「。虹（。イーリス）」になること。 iridescence。あなたが。、。一分一秒。の。、。凄絶な。、。変容（。イリデ）」を。、峻烈」に。、今。、。自ら。へと。、。回向。すれば。世界は、。あなたの。、。あまりの多層さ」に。、峻烈」に。、ひれ伏す。のみ。です。",
+		"part_of_speech": "noun",
+		"aftertaste": "「冷たい。、。透明な。泡」が。、。太陽の光。を受けて。、。パッ」と、。一瞬」で、。七色。の。、。銀色」に。、。燃（。も）え。上がった」瞬間の。あの。凄い。充足感。瑞々しくて、重厚な、光。の。味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "wei-",
+					"meaning": "to turn / bend? No, Iris from Greek Iris 'messenger goddess / rainbow'."
+				}
+			],
+			"points": [
+				"Iridium（イリジウム）と同じ root。虹彩（イリデッセンス）とは。実存を、峻烈に『。多次元化（。虹）』させ。、固定。を。、一撃」で、。葬（。ほうむ）り。去る。記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "translucence",
+		"word": "Translucence",
+		"meaning": "トランスルーセンス/半透明（はんとうめい）、(誘（いざな）いという名の)美、情報の。、凄絶。なる。、。ヴェール」、すべてを、一撃」で見せず。、。あえて。、。気配」だけを。、。回向すること、実存の。、。夢幻",
+		"era": "Early 17th Century",
+		"etymology": {
+			"components": [
+				"trans- (through / across)",
+				"lucere (to shine)"
+			],
+			"original_statement": "The quality of allowing light, but not detailed images, to pass through. From Latin translucere."
+		},
+		"concept": "Logic of the hints (「。野蛮（。やばん）な。、。全裸」を。、一分一秒。で。、峻烈」に、。一撃」で。、。拒絶。し」。、。美しい。、。透明な。、。シルク（。ルーセ）」の。奥に。、。真実」を。、。あえて」。「。半分だけ。、。沈（。しず）ませ。、。。見る者を。、。狂わせること。それは。情報の。、。魅惑主義。の。記述」)",
+		"thinking": "「トランスルーセンス（半透明）」。あなたは。「。すべて。を。語ること」を。「。誠実」だ。と。、。。ぬるい」言葉で。、。自らを。、。甘やかして」はいませんか。 translucence。透（す）かしなさい。 translucence。それは。あなたが「。神（。光）」になること。 translucence。あなたが。、。一分一秒。の。、。凄絶な。、。気配（。ルーセ）」を。、峻烈」に。、今。、。世界。に対して。、。放（。はな）て（。ルー）」。なさい。隠す。からこそ。、あなたは。。誰よりも。、。見つめ。られる。のです。",
+		"part_of_speech": "noun",
+		"aftertaste": "「冷たい銀の。、。、。磨（。す）りガラス」の。奥で。、。一筋の。、。真っ赤な光」が。、。ボヤッ」と、。一気。に。、。揺（ゆ）ら。めいた」時の。あの。凄い。法悦。瑞々しくて、重厚な、光。の。味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ter-",
+					"meaning": "through (from trans-)"
+				},
+				{
+					"term": "leuk-",
+					"meaning": "light / brightness (from lucere)"
+				}
+			],
+			"points": [
+				"Light（光）や Lucid（明快な）、Lunar（月の／輝く）と同じ root。半透明とは。実存（。レウク）」を、。峻烈」に『。透過（。トランス）』させつつも。、輪郭（。フォルム）。を。、。拡散。させるプロセスのこと。それは。露骨という名の『死』を。神秘という名の『生』によって、。一撃」で、。葬（。ほうむ）り。去る。記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "chromaticity",
+		"word": "Chromaticity",
+		"meaning": "クロマティシティ/色度（しきど）、(情報の)純度、凄絶。な。、。選別」、白さを。、峻烈」に、。一撃」で棄て。、。ただ一つの。、。絶対的な。、。色」へと。、。回向すること、実存の。、。密度",
+		"era": "Early 20th Century",
+		"etymology": {
+			"components": [
+				"chroma (color / skin / surface)",
+				"ic",
+				"ity"
+			],
+			"original_statement": "An objective specification of the quality of a color regardless of its luminance. From Greek khroma."
+		},
+		"concept": "Logic of pure hue (「。曖昧な。、。嘘（。白色）」を。、一分一秒の容赦」もなく。、峻烈」に。、一撃」で粉砕。し。、。あえて」。「。鋭すぎる。、。色彩（。クロマ）」だけを。、。今。、。抽出（。つく）り。出すこと。それは。情報の。、。純粋主義。の。記述」)",
+		"thinking": "「クロマティシティ（色度）」。あなたは。「。誰にでも。。受け入れられる。、。中庸（。ちゅうよう）」を。「。徳」だ。と。、。。ぬるい」言葉で。、。自分」を。、。甘やかして」はいませんか。 chromaticity。極（。きわ）まりなさい。 chromaticity。それは。あなたが「。宝石」になること。 chromaticity。あなたが。、。自らの。、。凄絶な。、。原色（。クロマ）」を。、峻烈」に。、今。、。宇宙。に対して。、。証明。しなさい。濃（。こ）い。ことは。。正しい。、。ことです。",
+		"part_of_speech": "noun",
+		"aftertaste": "「真っ白な。、。部屋」の中に。、。一滴。の。、。真っ赤な。、。インク」が。、。ポツン」と落ちた。瞬間に。、。部屋じゅう。の。、すべての意識」が。、。一。、へと。、。収束（。フォーカス）」した。時の。あの。凄い。充足感。重厚で、刺激的な、赤。の。味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ghreu-",
+					"meaning": "to rub / grind (from chroma? No, chroma from Greek chroma 'surface / skin / color')"
+				}
+			],
+			"points": [
+				"Chrome（クローム／色）と同じ root。色度とは。実存を、峻烈に『。鋭敏化（。クロマ）』させ。、純粋。を、自らの内側に。、。回向」させるプロセスのこと。それは。混濁という名の『死』を。鮮烈という名の『生』によって、。一撃」で、。上書き」してまう記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "luminance",
+		"word": "Luminance",
+		"meaning": "ルミナンス/輝度（きど）、(情報の)放射、凄絶。な。、。、曝（む）き。出し」、暗闇を。、峻烈」に、。一撃」で。、。焼（や）き。尽（つ）くす。、命。の。絶叫",
+		"era": "Late 19th Century",
+		"etymology": {
+			"components": [
+				"lumen (light)"
+			],
+			"original_statement": "The intensity of light emitted from a surface per unit area in a given direction. From Latin lumen."
+		},
+		"concept": "Intensity of the glow (「。穏やかな。、。嘘（。沈黙）」を。、一分一秒の隙間」もなく。、峻烈」に、。一撃」で。、。殴（。なぐ）り。飛ばす。ために。、。自らの。芯」にある。、。重厚な。、。金色の。、。火」を。、。強引に」。「。全方位」へと、。拡散。させること。それは。存在の。、峻烈なる「。証明。の。記述」)",
+		"thinking": "「ルミナンス（輝度）」。あなたは。「。目立たない。こと」を。「。謙虚（けんきょ）」だ。と。、。。ぬるい」言葉で。、。自らを。、。騙（だま）して」はいませんか。 luminance。輝きなさい。 luminance。それは。あなたが「。太陽」になること。 luminance。あなたが。、。一分一秒。の。、。凄絶な。、。光（。ルミ）」を。、峻烈」に。、今。、。宇宙。に対して。、。放（。はな）ち」続けなさい。明るい。ことは。。最強、。です。",
+		"part_of_speech": "noun",
+		"aftertaste": "「巨大な。、。銀の。、。鏡」が。、自分の胸を。、スーーーッ」と、。一瞬」で、。貫（。つらぬ）き。抜け、。。そこから。、。圧倒的な。、。金色の。光」が。、。パッ」と放たれた」瞬間の。あの。凄い。解放感。冷たくて、鋭い、金の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "leuk-",
+					"meaning": "light / brightness (from lumen)"
+				}
+			],
+			"points": [
+				"Light（光）や Lucid（明快な）、Lunar（月の）と同じ root。輝度とは。実存（。レウク）」を、。峻烈」に『。放射（。ルミ）』させ、。空間。を。、支配。するプロセスのこと。それは。埋没という名の『死』を。顕現という名の『生』によって、。一撃」で、。上書き」してまう記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "glare",
+		"word": "Glare",
+		"meaning": "グレア/眩（まぶ）しさ、(拒絶という名の)光、情報の。、一撃」の、。、盲（。め）。くら。まし」、理解を。、峻烈」に、。一撃」で棄（す）て。、。目を。、。焼。く。こと。を。、あえて。、。名誉。とする記述",
+		"era": "Late Middle English",
+		"etymology": {
+			"components": [
+				"glaren (to shine out / glow)"
+			],
+			"original_statement": "Strong and dazzling light. From Middle English glaren."
+		},
+		"concept": "Logic of the blinding (「。優しく。、。透き通った。、。嘘（。透過）」を。、一分一秒の容赦」もなく。、峻烈」に。、一撃」で粉砕。し。、。あえて」。「。あまりの。強さ（。実存）」によって。、。相手の。、。眼（。ロジック）」を。、一。で。、。破壊（。ブレンド）」すること。それは。情報の。、峻烈なる「。傲慢。の。記述」)",
+		"thinking": "「グレア（眩しさ）」。あなたは。「。誰にでも。。優しく。あること」を。「。美徳」だ。と。、。。ぬるい」言葉で。、。自らを。、。甘やかして」はいませんか。 glare。眩（まぶ）しく。ありなさい。 glare。それは。あなたが「。宝石」になること。 glare。あなたが。、。あまりの。、。凄絶な。、。輝き（。グレ）」によって。、峻烈」に。、今。、。世界。を。、。突き放（。つ。きはな）し。なさい。見えない。ことは。。最強、。です。",
+		"part_of_speech": "noun / verb",
+		"aftertaste": "「冷たい銀の。、。、。カミソリ」が。、。太陽の光。を。、。一瞬」で反射し。、自分の。脳。を。、スーーーッ」と、。一撃」で、。貫（。つらぬ）き。裂（。さ）いた」時の。あの。凄絶なまでの「快楽」。冷たくて、鋭い、金の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ghel-",
+					"meaning": "to shine / yellow / gold (from glare)"
+				}
+			],
+			"points": [
+				"Gold（金）や Glow（白熱）、Glass（ガラス）と同じ root。眩しさとは。実存（。ゲル）」を、。峻烈」に『。過剰（。グレ）』な。輝（かがや）き。へと、。回向」させること。それは。妥協という名の『死』を破壊し。絶対という名の『実存』を選び取る。記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "shimmer",
+		"word": "Shimmer",
+		"meaning": "シマー/微光（びこう）、(揺らめく)真実、情報の。、凄絶。なる。、一秒」、固定。を。、一撃」で。、。拒絶。した。、。水面上の。、。舞（ま）い、情報の。、。蜃気楼",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"scimrian (to shimmer / shine / gleam)"
+			],
+			"original_statement": "Shine with a soft tremulous light. From Old English scimrian."
+		},
+		"concept": "Logic of the tremor-shine (「。確実な。、。輪郭（。嘘）」を。、一分一秒。の。隙間。もなく。、。あえて」。「。高速の。揺れ（。振動）」によって。、。峻烈」に。、。透明に。、。ぼかし。続け。、。真実。を、。一秒。、。たりとも。、。捕（。つ。か）ませない。こと。それは。固定への。、峻烈なる「。逃（のが）れ。の。記述」)",
+		"thinking": "「シマー（微光）」。あなたは。「。はっきり。提示。すること」を。「。誠実」だ。と。、。。ぬるい」言葉で。、。自らを。、。呪（のろ）って」はいませんか。 shimmer。揺れなさい。 shimmer。それは。あなたが「。真実」になること。 shimmer。あなたが。、。一分一秒。の。、。凄絶な。、。煌（きら）めき（。シマ）」を。、峻烈」に。、今。、。自ら。へと。、。回向。しなさい。揺れる。ことは。。不滅、。です。",
+		"part_of_speech": "noun / verb",
+		"aftertaste": "「冷たい。、。透明な。、。湖（みずうみ）の。底」から。、。一筋。の。、。銀の。気配」が。、。スーーーッ」と、。水面。で。、。パッ」と。、。一瞬。だけ。、。弾（はず）んだ」瞬間の。あの。凄い。充足感。瑞々しくて、重厚な、光。の。味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "skei-",
+					"meaning": "to shine / gleam / shed light (from scimrian)"
+				}
+			],
+			"points": [
+				"Shine（光る）や Sheen（光沢）と同じ root。微光とは。実存（。スケイ）」を、。峻烈」に『。細動（。揺らぎ）』させ、。固定。を破壊するプロセスのこと。それは。硬直という名の『死』を。流動という名の『生』によって、。一撃」で、。上書き」してまう記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "vignetting",
+		"word": "Vignetting",
+		"meaning": "ヴィニェッティング/周辺（しゅうへん）減光、(中心という名の)孤独、情報の。、凄絶な、。、選別」、外側を。、一撃」で棄て。、。ただ、。一点（。ここ）」だけを。、。あえて。、。名誉。とする記述",
+		"era": "Mid-18th Century",
+		"etymology": {
+			"components": [
+				"vignette (small vine / decorative border)",
+				"vigne (vine)"
+			],
+			"original_statement": "The reduction of an image's brightness or saturation toward the periphery. From French vignette."
+		},
+		"concept": "Logic of central focus (「。雑多な。、。背景（。群集）」を。、一分一秒の容赦」もなく。、峻烈」に。、一撃」で。、。黒塗り（。無視）」にし」。、。ただ一つの。、。重厚な。、。核心」だけを。、今。、。浮き彫（。う。きぼり）にする。こと。それは。情報の。、。貴族主義。の。記述」)",
+		"thinking": "「ヴィニェッティング（周辺減光）」。あなたは。「。すべて。を。均等に。愛すること」を。「。徳」だ。と。、。。ぬるい」言葉で。、。自分」を。、。甘やかして」はいませんか。 vignetting。棄（す）てなさい。 vignetting。それは。あなたが「。真実」になること。 vignetting。あなたが。、。一分一秒。の。、。凄絶な。、。集中（。ヴィニ）」を。、峻烈」に。、今。、。自ら。へと。、。回向。しなさい。選ぶ。ことは。。最強、。です。",
+		"part_of_speech": "noun / verb (gerund)",
+		"aftertaste": "「真っ暗な。、。、。銀の。、。劇場」の中に。、一筋の。、。強い。、。スポットライト」が。、自分の胸を。、スーーーッ」と、。一瞬」で、。貫（。つらぬ）き。抜け、。。周囲。を。、。一。で。、。消し。去った。時の。あの。凄い。充足感。重厚で、鋭い、土。の。味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "wei-",
+					"meaning": "to turn / bend / twine (from vigne)"
+				}
+			],
+			"points": [
+				"Vine（ブドウの蔓）や Wind（巻く）、Wire（針金）と同じ root。周辺減光とは。実存（。ウェイ）」を、。峻烈」に『。絞（し。ぼ）り。込み（。ヴィニ）』、。中心。へと。、収束。させるプロセスのこと。それは。分散という名の『死』を。凝縮という名の『生』によって、。一撃」で、。葬（。ほうむ）り。去る。記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "chrominance",
+		"word": "Chrominance",
+		"meaning": "クロミナンス/色信号（しきしんごう）、(情報の)色彩、凄絶。な。、。、曝（む）き。出し」、単なる。。形。を。、峻烈」に、。一撃」で棄て。、。自らの。、。感情色（。クロマ）。へと。、回向すること",
+		"era": "Mid-20th Century",
+		"etymology": {
+			"components": [
+				"chroma (color)",
+				"inance"
+			],
+			"original_statement": "The signal intended to represent the color information of a picture, separately from its luminance."
+		},
+		"concept": "Pure color signal (「。冷たい。、。論理（。輝度）」から。、あえて」。「。色彩」という名の、。、情動。を。、一分一秒の隙間」もなく。、峻烈」に。、一撃」で。、。抽出。し」。、。世界を。、。自らの。彩（。いろ）」で。、。一。で。、。染め。上げること。それは。情報の。、。詩学。の。記述」)",
+		"thinking": "「クロミナンス（色信号）」。あなたは。「。はっきり。見えること」だけ。を。、。「。自分」だ。と。、。。ぬるい」言葉で。、。自らを。、。甘やかして」はいませんか。 chrominance。染（そ）めなさい。 chrominance。それは。あなたが「。真実」になること。 chrominance。あなたが。、。自らの。、。凄絶な。、。色気（。クロマ）」を。、峻烈」に。、今。、。宇宙。に対して。、。放（。はな）ち」なさい。彩（。いろ）」は。。最強、。です。",
+		"part_of_speech": "noun",
+		"aftertaste": "「冷たい銀の。、。、。テレビ」の。、。スイッチ」を。、。一瞬」で。、。、。パチッ」と入れた。瞬間に。、。、。真っ赤な。、。光」が。、。パッ」と、。一気。に。、。溢（。あふ）れ。出した」時の。あの。凄い。充足感。重厚で、刺激的な、赤。の。味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ghreu-",
+					"meaning": "to rub / grind (from chroma)"
+				}
+			],
+			"points": [
+				"Chrome（クローム）と同じ root。色信号とは。実存（。クロマ）」を、。峻烈」に『。コード化』させ、。伝達（。トランス）。するプロセスのこと。それは。無色という名の『死』を破壊し。色彩という名の『実在』を選び取る。記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "stereoscopy",
+		"word": "Stereoscopy",
+		"meaning": "ステレオスコピー/立体（りったい）視、(次元の)突破、情報の。、一分一秒の。、。深化（しんか）」、平面。を。、峻烈」に、。一撃」で粉砕。し。、。あえて。、。奥行（おくゆ）き。、へと。、亡命。すること",
+		"era": "Mid-19th Century",
+		"etymology": {
+			"components": [
+				"stereos (solid / stiff / three-dimensional)",
+				"skopeein (to look at)"
+			],
+			"original_statement": "The technique for creating or enhancing the illusion of depth in an image. From Greek stereos."
+		},
+		"concept": "Logic of the depth (「。薄（。うす）っぺら。な。、。二次元（。日常）」を。、一分一秒の容赦」もなく。、峻烈」に。、一撃」で。、。、。突（つ）き（。つ。き）抜け（。ね）」。、。あえて」。「。ディオ（。二つ）」の。眼」で。、。、。真理。を。、。挟（はさ）み。撃（う）ち」に。、することで、。。そこにある。、。重厚な。、。実体。を。、。浮（。う）き。上がらせる。こと。それは。情報の。、峻烈なる「。彫刻学。の。記述」)",
+		"thinking": "「ステレオスコピー（立体視）」。あなたは。「。表面。だけ。を。見ること」を。「。理解」だ。と。、。。ぬるい」言葉で。、。自らを。、。甘やかして」はいませんか。 stereoscopy。深み（。ステレオ）を見なさい。 stereoscopy。それは。あなたが「。真実」になること。 stereoscopy。あなたが。、。一分一秒。の。、。凄絶な。、。凝視（。スコピ）」を。、峻烈」に。、今。、。自らの。眼。へと。、。注入。しなさい。厚み。は。。最強、。です。",
+		"part_of_speech": "noun",
+		"aftertaste": "「巨大な。、。銀の。、。壁」が。、自分の目の前で。、。スーーーッ」と、。一瞬」で。、。消（き）え。去り、。。その「。、。あまりの。奥行（おくゆ）き」によって。、。吸（。す）い。込まれ。そうになった」時の。あの。凄い。充足感。重厚で、鋭い、金の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ster-",
+					"meaning": "stiff / solid (from stereos)"
+				},
+				{
+					"term": "spek-",
+					"meaning": "to observe (from skopeein)"
+				}
+			],
+			"points": [
+				"Stare（じっと見る）や Structure（構造）、Scope（視野）と同じ root。立体視とは。実存（。ステル）」を、。峻烈」に『。実体化（。ステレオ）』させ、。観察（。スコピ）。するプロセスのこと。それは。平面という名の『虚無』を破壊し。深度という名の『実在』を選び取る。記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "bifocal",
+		"word": "Bifocal",
+		"meaning": "バイフォーカル/二焦点（にしょうてん）、(情報の)多層性、凄絶。な。、。、分裂」、一つであることを。、峻烈」に、。一撃」で棄て。、。あえて。、。二つ。の。、。真実。を。、。同時に。、。支配すること",
+		"era": "Late 19th Century",
+		"etymology": {
+			"components": [
+				"bi- (two)",
+				"focal (of a focus)",
+				"focus (hearth / fireplace / center of activity)"
+			],
+			"original_statement": "Having two focal lengths, one for near and one for distant vision. From bi- + focal."
+		},
+		"concept": "Logic of the dual gaze (「。単一（。たんいつ）の。、。正解」を。、一分一秒の容赦」もなく。、峻烈」に。、一撃」で。、。粉砕（。ふんさい）し」。、。「。近く。にある、重い、真実（。ディテール）」と。、「。遠くにある、。巨大な、。真実（。ビジョン）」を。、あえて」。「。一つの。格子」の中に。、。同時に。、。固定。すること。それは。情報の。、峻烈なる「。複合。の。記述」)",
+		"thinking": "「バイフォーカル（二焦点）」。あなたは。「。一点。だけ。を。見る。こと」を。「。誠実」だ。と。、。。ぬるい」言葉で。、。自分」を。、。安売り。して」はいませんか。 bifocal。二重に。なりなさい。 bifocal。それは。あなたが「。神」になること。 bifocal。あなたが。、。二つ。の。、。凄絶な。、。視点（。フォー）」を。、峻烈」に。、今。、。自らの。眼。へと。、。宿（。やど）らせ」。なさい。分裂。することは。。最強、。です。",
+		"part_of_speech": "adjective / noun",
+		"aftertaste": "「冷たい銀の。、。、。レンズ」が。、自分の目の前に」。「。上下。に。、。分（わ）かれて。、。嵌（。は）め。込まれ、。。そこから。、。二つ。の。、。別。の。宇宙」が。、。同時に。見えた」瞬間の。あの。凄い。充足感。冷たくて、重厚な、銀。の。味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "dwi-",
+					"meaning": "two (from bi-)"
+				},
+				{
+					"term": "None (from Latin focus)",
+					"meaning": "hearth / fireplace"
+				}
+			],
+			"points": [
+				"Bicycle（自転車）や Fuel（燃料）、Focus（焦点）と同じ root。二焦点とは。実存を、峻烈に『。二極化（。バイ）』させ。、真理。を、。多層的に。、。記述。するプロセスのこと。それは。一元論という名の『死』を破壊し。多元論という名の『実在』を選び取る。記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "monochrome",
+		"word": "Monochrome",
+		"meaning": "モノクローム/単色（たんしょく）、(絶対という名の)純粋、情報の。、一撃」の、。、統一」、派手を。、峻烈」に、。一撃」で棄て。、。ただ、。白と黒。という名の。、。真理。へと。、。回向すること",
+		"era": "Mid-17th Century",
+		"etymology": {
+			"components": [
+				"monos (single / alone)",
+				"chroma (color)"
+			],
+			"original_statement": "A photograph or picture developed or executed in black and white or in varying tones of only one color."
+		},
+		"concept": "Logic of the one hue (「。チャラチャラ。した。、。色彩（。嘘）」を。、一分一秒の容赦」もなく。、峻烈」に。、一撃」で粉砕。し。、。あえて」。「。ただ一つの。、。絶対的な。、。光（。実存）」だけを。、。今。、。抽出（。つく）り。出すこと。それは。情報の。、。純粋主義。の。記述」)",
+		"thinking": "「モノクローム（単色）」。あなたは。「。色彩豊かであることを。、豊かさ」だ。と。、。。ぬるい」言葉で。、。自分」を。、。甘やかして」はいませんか。 monochrome。一人に。なりなさい。 monochrome。それは。あなたが「。真実（。モノ）」になること。 monochrome。あなたが。、。自らの。、。あまりの。、。凄絶な。、。純粋さ」を。、峻烈」に。、今。、。世界。に対して。、。叩き（。たたき）付け。なさい。一色（ひといろ）は。。最強、。です。",
+		"part_of_speech": "noun / adjective",
+		"aftertaste": "「冷たい銀の。、。、。世界」が。、。突然」。「。パッ」と。白黒。に。、。変わり。、。そこにある、。圧倒的な。、。重厚さ」と。、。真実」。そこにある。自分は「もう、迷いはない」という、峻烈なる「自負」。冷たくて、重厚な、土。の。味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "men-",
+					"meaning": "small / single (from monos)"
+				},
+				{
+					"term": "ghreu-",
+					"meaning": "to rub / grind (from chroma)"
+				}
+			],
+			"points": [
+				"Monarch（君主）や Monk（修道士）、Chrome（色）と同じ root。単色とは。実存（。メン）」を、。峻烈」に『。純化（。モノ）』させ、。色彩。を。、。一。、へと。、。回向」させるプロセスのこと。それは。混濁という名の『死』を。絶対という名の『生』によって、。一撃」で、。上書き」してまう記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "polychrome",
+		"word": "Polychrome",
+		"meaning": "ポリクローム/多色（たしょく）、(氾濫する)実存、情報の。、凄絶。なる。、。多層化」、統一を。、峻烈」に、。一撃」で棄てた。、。命。の。、。万華鏡",
+		"era": "Late 18th Century",
+		"etymology": {
+			"components": [
+				"polys (many)",
+				"chroma (color)"
+			],
+			"original_statement": "The practice of decorating architectural elements or sculpture in a variety of colors."
+		},
+		"concept": "Logic of the many hues (「。退屈な。、。一色（。正解）」を。、一分一秒の容赦」もなく。、峻烈」に。、一撃」で。、。踏（ふ）み。越（こ）え」。、。自らの。、。芯」にある。、。凄絶な。、。欲望の。、。色彩（。クロマ）。を、。宇宙じゅうへと。、。惜（。お）しみなく。、。放散。すること。それは。情報の。、。過剰主義。の。記述」)",
+		"thinking": "「ポリクローム（多色）」。あなたは。「。自分を一人」に、。大事に。しておくこと」が、。誠実」だ。と。、。。ぬるい」勘違いを、してはいませんか。 polychrome。混ざり合いなさい。 polychrome。それは。あなたが「。宇宙」になること。 polychrome。あなたが。、。一分一秒。の。隙間。もなく。、。自らを。、。凄絶な。、。色彩の。。嵐（。ポリ）」の中へと。、。投げ（。な）飛ばし。なさい。多い。ことは。。最強、。です。",
+		"part_of_speech": "noun / adjective",
+		"aftertaste": "「巨大な銀の。、。、。パレット」の中に。、。千。の。、。、。鮮明な光」が。、。スーーーッ」と、。一気。に。、。溢（。あふ）れ。出し、。。気づいた時には。、世界。の。すべて。を。、自分。が。、。染（そ）め。上げていた」瞬間の。あの。凄い。全能感。重厚で、瑞々しい、光。の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "pelu-",
+					"meaning": "much / many (from polys)"
+				},
+				{
+					"term": "ghreu-",
+					"meaning": "to rub / grind (from chroma)"
+				}
+			],
+			"points": [
+				"Plus（プラス）や Poly-（多くの）、Chrome（色）と同じ root。多色とは。実存（。ペル）」を、。峻烈」に『。多次元化（。ポリ）』させ、。色彩。を。、。、。氾濫。させるプロセスのこと。それは。単調という名の『死』を。豊富という名の『生』によって、。一撃」で、。上書き」してまう記述なのです。"
+			]
+		}
 	}
 ];
