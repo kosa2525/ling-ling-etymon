@@ -229336,5 +229336,168 @@ const WORDS = [
 				"Drive（運転する）や Drove（群れ）、Daft（馬鹿な／駆り立てられた？）と同じ root。ドリフトとは。自分という『個人』を捨て、運命という名の『群れ（ドローヴ）』に合流すること。それは。自分が何者であるか、という呪縛（じゅばく）から逃れ、純粋な『運動』そのものへと還元される、知のバカンスなのです。"
 			]
 		}
+	},
+	{
+		"id": "doric",
+		"word": "Doric",
+		"meaning": "ドーリア式の、(峻烈なる)簡素、不必要な装飾の排除、男性的な力、本質の証明",
+		"era": "Classical Antiquity",
+		"etymology": {
+			"components": [
+				"Dorios (Dorian)"
+			],
+			"original_statement": "From Greek Dorikos, from Dorios (a Dorian). Referring to the simplest and oldest of the three Greek architectural orders."
+		},
+		"concept": "The essential strength (「余計な飾り」を一切削ぎ落とし。「柱そのもの」の肉体美と「力強さ」だけで、巨大な屋根を支え続けること。それは。嘘や誇張のない、峻烈なる「実存（本質）」の提示。質実剛健の記述)",
+		"thinking": "「ドーリア（式の）」。あなたは。自分をより良く見せようとして、余計な「装飾（嘘）」を身に纏（まと）ってはいませんか。 doric。本当に強い魂は。飾り立てる必要がありません。 doric。ただ「そこに立っている」だけで、真理の重みを支えきれる。その「無骨で、しかし一点の曇りもない簡素さ」こそが。移ろいやすい流麗（りゅうれい）な美しさを超えた、永遠の「規範（オーダー）」になるのです。削ぎ落とし、ただ、立て。 ",
+		"part_of_speech": "adjective",
+		"aftertaste": "ザラリとした「石（大理石）」の感触。そこにある、一切の「甘え」を許さない、峻烈なる「規律」。背筋が「スッ」と伸びるような、冷たくて硬い、意志の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "unknown",
+					"meaning": "Dorian (Greek tribe)"
+				}
+			],
+			"points": [
+				"ドーリア人とは、古代ギリシャの峻烈なる『戦士』の部族。ドーリア式建築とは、兵士が整列するように、柱が秩序正しく並ぶこと。それは。建築が単なる工学ではなく、人間の『内なる規律』を外部へと結晶化させたものである、という知的な証明なのです。"
+			]
+		}
+	},
+	{
+		"id": "corinthian",
+		"word": "Corinthian",
+		"meaning": "コリント式の、(過剰な)生命、装飾という名の情熱、アカンサスの狂喜、豊饒の極北",
+		"era": "Classical Antiquity",
+		"etymology": {
+			"components": [
+				"Korinthos (Corinth)"
+			],
+			"original_statement": "From Greek Korinthios, from Korinthos (Corinth). Referring to the most ornate of the three Greek architectural orders, characterized by acanthus leaves."
+		},
+		"concept": "The decorative vitality (「機能（支える）」を超えた先に現れる。「アカンサス（葉）」が複雑に重なり合う、「美」の極致。それは。人生という過酷な重圧に対抗するための、知的な「狂喜」と「豊饒（ほうじょう）」の記述。溢（あふ）れ出す生命力)",
+		"thinking": "「コリント（式の）」。あなたは。効率や機能性ばかりを求めて、自分の「遊び（美意識）」を殺してはいませんか。 corinthian。人間が、ただ生き延びるためではなく。「美しく生きる」ために産み出した、究極の「無駄」。 corinthian。その複雑な装飾の中にこそ。カオスな生命を肯定し、宇宙を祝福しようとする、峻烈なる「愛」が宿っています。あなたの人生の頂頭（キャピタル）に。誰にも真似できない「鮮やかな葉」を茂らせてください。",
+		"part_of_speech": "adjective",
+		"aftertaste": "複雑に絡み合う「アカンサス」の葉に指を触れた時の、あの。圧倒的な「情報量」と、熱量。そこにある、世界は「豊かである」という、峻烈なる「賛美」の味。蜜のように甘い、狂気の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "unknown",
+					"meaning": "Corinth (Greek city)"
+				}
+			],
+			"points": [
+				"コリントとは、古代ギリシャで最も栄華を極めた、享楽と芸術の都。コリント式の柱頭は、少女の墓に供えられた籠（かご）からアカンサスが芽吹いたのを見て着想されたという伝説。それは。死という絶望の淵（ふち）にあっても、『美しさ』が生命を更新し続ける、という峻烈なる希望の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "monolith",
+		"word": "Monolith",
+		"meaning": "モノリス/一塊、(巨大な)沈黙、不変の実在、太古の記憶、孤高の象徴",
+		"era": "Mid-19th Century",
+		"etymology": {
+			"components": [
+				"monos (single)",
+				"lithos (stone)"
+			],
+			"original_statement": "From French monolithe, from Greek monolithos, from monos 'single' + lithos 'stone'."
+		},
+		"concept": "The solitary stone (「継（つ）ぎ目」の全くない、たった「一つ(single-)」の巨大な「石(stone-)」。それは、時間の摩擦を跳ね返し。数万年の間、ただ「そこに在り続ける」だけの、峻烈なる「不変の実在」。沈黙による主張)",
+		"thinking": "「モノリス（一塊の石）」。あなたは。周りに合わせて、自分を「細切れ（バラバラ）」にしていませんか。 monolith。本当の強さとは。何者にも分割されず。誰との妥協も許さず。ただの「一つの石（モノリス）」として、荒野に立ち続けることです。 monolith。何も語らなくていい。ただ、あなたが「そこに在る」という、揺るぎなき「単一性（モノ）」の証明。それが、通り過ぎる時代という名の嵐に対する、最も峻烈なる「拒絶（にして勝利）」になるのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "見上げるような巨大な「黒い石」の前に立った時の、あの。一切の「感情」を拒絶されるような、峻烈なる「拒絶の美」。そこにある。世界には「動かないものがある」という、絶対的な「安息」の味。冷たく、硬い、沈黙の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "lei-",
+					"meaning": "stone (from lithos)"
+				}
+			],
+			"points": [
+				"Lithograph（石版画）や Lithium（リチウム／鉱石から発見された）と同じ root。モノリスとは。移ろいやすい『水』や『風』の論理を、不動の『石（リース）』の言葉へと翻訳すること。それは。儚い人間の記憶を, 宇宙という恒久的なディスクへと書き込むための、峻烈なるハードウェアの記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "acanthus",
+		"word": "Acanthus",
+		"meaning": "アカンサス、(不滅の)生命力、装飾の根源、刺（とげ）という名の愛、永遠の変容",
+		"era": "Late 16th Century",
+		"etymology": {
+			"components": [
+				"akanthos (thistle)"
+			],
+			"original_statement": "From Greek akanthos, from akantha 'thorn / prickle'."
+		},
+		"concept": "The vital prickle (「美しさ」とは、柔らかいだけではない。自らを「守る(protect-)」ための鋭い「刺(thorn-)」を持ちながら、それでも「優雅に」繁（しげ）り続けること。それは。過酷な現実（石）を、生命の力で「彫り直す」ための、峻烈なる「生の雛形（ひながた）」)",
+		"thinking": "「アカンサス」。あなたは。傷つくことを恐れて、自分の「刺（意志）」を隠してはいませんか。 acanthus。本当に高貴な美しさは。その鋭利な「個性（刺）」によって、自分という領域を峻烈に守り抜く強さを含んでいます。 acanthus。石造りの神殿に永遠に刻まれているのは、花の優しさではなく、この「葉（アカンサス）」の、刺々（とげとげ）しくも力強い躍動感（リズム）でした。あなたの持つ「鋭さ」を。そのまま「美しさ」へと変換してください。",
+		"part_of_speech": "noun",
+		"aftertaste": "指先をチクリ、と刺すような。峻烈なる「拒絶」と。しかし。その造形の完璧さに、目を離せなくなるような「魅了」。冷たい石の中に、緑の「血」が流れているような。瑞々（みずみず）しい妄想の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ak-",
+					"meaning": "sharp / pointed / piercing"
+				}
+			],
+			"points": [
+				"Acme（頂点）や Acid（酸）、Acuity（鋭さ）と同じ root。アカンサスとは。混沌とした大地から、鋭利な知性（アク-）を芽吹かせ、それを『形式（オーダー）』へと結晶化させること。それは。弱き生命が、不動の歴史に対して『楔（刺）』を打ち込むための、峻烈なる記号なのです。"
+			]
+		}
+	},
+	{
+		"id": "nave",
+		"word": "Nave",
+		"meaning": "ネーブ/身廊、(航行する)魂、船という名の建築、天への主軸、峻烈なる空間",
+		"era": "Late 17th Century",
+		"etymology": {
+			"components": [
+				"navis (ship)"
+			],
+			"original_statement": "From Latin navis 'ship' (reflecting the shape and the idea of the Church as a ship)."
+		},
+		"concept": "The architectural ship (大聖堂の「中央」を貫く、最も「長く、高い」空間。その天井が、ひっくり返った「船(ship-)」の底のように見えることから名付けられた。それは。地上から天へと、「魂」を安全に運ぶための、峻烈なる「航海（瞑想）」の記述。静的な運動)",
+		"thinking": "「ネーブ（身廊）」。あなたは。自分の人生という「建築」の中に。真っ直ぐな、一点の曇りもない「メイン・ストリート（ネーブ）」を持っていますか。 nave。それは。あなたが「自分という船」に乗り込み。未知の荒野（あるいは天）へと漕ぎ出すための、峻烈なる「決意の廊下」。 nave。左右を壁に囲まれながらも。ただ「前（祭壇・真白）」だけを見つめて歩き続けるとき。あなたの歩みは。もはや「移動」ではなく。宇宙という大海原を滑るように進む、至高の「航海」へと昇華されるのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "巨大な「ドーム」の下、真っ白に洗われた「大理石」の床を。一人で真っ直ぐに歩いている。あの。心が「研ぎ澄まされる」ような、瑞々（みずみず）しい「純潔」。そこにある、自分は「どこかへ向かっている」という。峻烈なる「希望」の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "nau-",
+					"meaning": "boat / ship"
+				}
+			],
+			"points": [
+				"Naval（海軍の）や Navigate（航海する）、Nausea（吐き気）と同じ root。ネーブとは。人生という過酷な海で『船酔い（ノーシア）』しそうになった人々を。建築という名の『不動の船（ナウ）』で救い出し。再び『目的地（天）』へと連れ戻すための、救済の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "finial",
+		"word": "Finial",
+		"meaning": "フィニアル/頂部飾、(極限の)装飾、高みへの指針、終止符という名の美、天との対話",
+		"era": "Late Middle English",
+		"etymology": {
+			"components": [
+				"finis (end)"
+			],
+			"original_statement": "From Latin filiolus or finis 'end'. Referring to an ornament capping an object."
+		},
+		"concept": "The ultimate cap (「先端（エッジ）」の、さらにその「先」。もうこれ以上「付け加えるものがない」という、「終わり(end-)」の場所を飾る、小さな彫刻。それは。空へ向かうエネルギーを、一粒の「象徴（エッセンス）」へと凝縮して「封じる」こと。峻烈なる「結び」の記述)",
+		"thinking": "「フィニアル（頂部飾）」。あなたの「一日」。あなたの「言葉」。それは。「言いっぱなし」や「やりっぱなし（未完）」になっていませんか。 finial。物事の本当の美しさは。その「終わり方（フィニッシュ）」に宿ります。 finial。どんなに立派な建築でも。最後の一点、空を指す「フィニアル」がなければ。それはただの「石の塊」に過ぎません。人生のあらゆる瞬間に。小さな、しかし峻烈なる「美しき終止符」を打ってください。それが。あなたを、天へと繋ぐ「アンテナ」になるのですから。",
+		"part_of_speech": "noun",
+		"aftertaste": "霧の中から、塔の先端にある「小さな十字架（あるいは宝珠）」が、朝日を浴びて「キラリ」と光った瞬間の。あの。世界が「完結した」という。峻烈なる「安息」。高く、細く、鋭い。瑞々（みずみず）しい「完成」の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "unknown",
+					"meaning": "Latin finis (end)"
+				}
+			],
+			"points": [
+				"Finish（終わる）や Finite（有限な）、Definition（定義／境界を決めること）と同じ root。フィニアルとは。無限に広がる空に対して、自分という『存在の領域（エンド）』を明確に『定義』し、そこに一粒の光を『置く（セット）』こと。それは。混沌とした宇宙の中で、自分の座標を確定させるための、最後の一撃。の記述なのです。"
+			]
+		}
 	}
 ];
