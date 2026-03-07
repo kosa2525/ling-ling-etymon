@@ -218791,5 +218791,550 @@ const WORDS = [
 				"Library が『書物の森』なら、Arboretum は『生きた木の図書館』。命という情報の重厚さを物語ります。"
 			]
 		}
+	},
+	{
+		"id": "abyssal",
+		"word": "Abyssal",
+		"meaning": "深海の、底知れぬ、絶望的な深さの、測りしれない",
+		"era": "Mid-17th Century",
+		"etymology": {
+			"components": [
+				"a- (without)",
+				"byssos (bottom)"
+			],
+			"original_statement": "From Latin abyssus 'bottomless pit', from Greek abyssos, from a- 'without' + byssos 'bottom'."
+		},
+		"concept": "The bottomless void (光（ロゴス）が届かない「絶望的な深さ(a-byss)」において。重圧と沈黙だけが支配する、宇宙という名の「腹の底」にある、剥き出しの真実)",
+		"thinking": "「アビサル（深海の）」な沈黙。そこは。どんなに測鉛（そくりん）を下ろしても、底に触れることのできない「純粋な垂直」。私たちが深い悲しみや、あるいはあまりにも遠大な思想に直面したとき、私たちの心はこの「アビサル」な領域にまで沈み込みます。そこには。自分を支える「大地（ボトム）」がないからこそ得られる、恐怖と隣り合わせの「逆説的な自由」が漂っています。",
+		"part_of_speech": "adjective",
+		"aftertaste": "耳の奥で鳴る静かな轟音と。上を見上げても光一筋見えない、あの重厚で冷たい水圧。自分が「塵（ちり）」のように小さく。しかし、その深淵の一部として、確かに「そこに在る」という、峻烈な実在感。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "budhn-",
+					"meaning": "bottom / depth"
+				}
+			],
+			"points": [
+				"Abyss（深淵）の形容詞形。底がないことは、無限（インフィニット）であることの、最も肉体的な表現なのです。"
+			]
+		}
+	},
+	{
+		"id": "pelagic",
+		"word": "Pelagic",
+		"meaning": "遠洋の、外洋に住む、陸から離れた、孤独な水面の",
+		"era": "Mid-17th Century",
+		"etymology": {
+			"components": [
+				"pelagos (sea / open sea)"
+			],
+			"original_statement": "From Latin pelagicus, from Greek pelagikos, from pelagos 'sea'."
+		},
+		"concept": "The open horizontal (「陸（ホーム）」の気配が完全に消え。見渡す限り「空」と「水」の境界線（ホライズン）しか存在しない、剥き出しの「青」のただ中に放り出されていること)",
+		"thinking": "プラトンは海を「ペラゴス」と呼びました。それは、境界線のない「広大さ」そのもの。ペラジック（遠洋的）な人生。それは。安住の地を捨て、ただ「流れ（カレント）」の上に身を任せ、自分自身の力だけで「浮上」し続ける勇気。陸から離れれば離れるほど。あなたは世界という大きな鏡に映る、「本当の自分（セルフ）」という名の小さな点に出会うことになるのです。",
+		"part_of_speech": "adjective",
+		"aftertaste": "360度、どこを見ても同じ「水平線」。方位磁石（コンパス）さえ信じられなくなるほどの圧倒的な「同一性」の中で。ただ自分の「心臓の鼓動（ビート）」だけが、唯一の確かな座標になる、あの研ぎ澄まされた孤独。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "plak-",
+					"meaning": "flat / even / spread out"
+				}
+			],
+			"points": [
+				"Plankton（プランクトン／漂うもの）と同じく、海がもたらす『広大な平面』という側面を強調した言葉です。"
+			]
+		}
+	},
+	{
+		"id": "benthic",
+		"word": "Benthic",
+		"meaning": "水底の、深く沈んだ、最下層の、堆積した時間の",
+		"era": "Late 19th Century (1888)",
+		"etymology": {
+			"components": [
+				"benthos (depth of the sea)"
+			],
+			"original_statement": "From Greek benthos 'depth of the sea'."
+		},
+		"concept": "Living at the bedrock (表面の「波乱(surge)」には一切触れず。ただ悠久の時間をかけて降り積もった「砂（記憶）」の底で、静かに世界の「重圧」を受け入れながら、命を繋いでいる深い場所での在り方)",
+		"thinking": "ベンシック（底生）。それは。派手な跳躍（ジャンプ）も、高速な移動（ドライブ）も拒（こば）み。ただ「一番低い場所」であることを誇りとする生き方です。激動する時代の表面ではなく、その底層（サブレイヤー）にある、決して変わることのない「沈殿した真理」。あなたが自分の人生において「最下位」だと感じるとき。あなたは、実はこの「ベンシック」な、最も安定した真実に触れているのかもしれません。",
+		"part_of_speech": "adjective",
+		"aftertaste": "足の指の間に、ひんやりとした「底の砂」を感じる、あの重厚な接地感。どんな嵐も、ここではただの「微かな揺れ」にすぎないという、圧倒的な不動の安堵。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "budhn-",
+					"meaning": "bottom"
+				}
+			],
+			"points": [
+				"Abyss（底なし）と同じ root を持ちながら、こちらは『そこに底（接地）がある』ことを前提とした、より地に足のついた深さを意味します。"
+			]
+		}
+	},
+	{
+		"id": "littoral",
+		"word": "Littoral",
+		"meaning": "沿岸の、境界の、波打ち際の、二つの世界が交わる場所",
+		"era": "Mid-17th Century",
+		"etymology": {
+			"components": [
+				"litus (shore / sea-side / strand)"
+			],
+			"original_statement": "From Latin littoralis, from litus 'shore'."
+		},
+		"concept": "The threshold of salt (「陸（ロゴス）」と「海（カオス）」が、寄せては返す波によって絶え間なく「書き換えられ」ている。どちらの法則も完全には支配できない、豊かで危険な「境界線」の美学)",
+		"thinking": "リトラル（沿岸）。そこは。潮が満ちれば「海」になり、引けば「陸」になる、アイデンティティの揺らぎ（フラクション）の地。私たちが何かの「転換期（トランジション）」にいるとき。心はこのリトラルな汀（なぎさ）にあります。確実な大地を踏みしめながら、同時に、得体の知れない「深淵」の霧に濡れていること。その「不確かさ」こそが、新しいインスピレーションの産みの親なのです。",
+		"part_of_speech": "adjective / noun",
+		"aftertaste": "裸足で歩く、波打ち際の。温かい砂と、冷たい海水が交互に足を洗う、あの。自分がどちらの世界にも属し、どちらの世界からも放り出されているかのような、自由で不安定な「ゆらぎ」。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "lei-",
+					"meaning": "smooth / glide"
+				}
+			],
+			"points": [
+				"Litus（岸）は、水が滑らかに『滑り込む』場所。境界とは、常にこうした『侵入』と『撤退』の繰り返しなのです。"
+			]
+		}
+	},
+	{
+		"id": "brackish",
+		"word": "Brackish",
+		"meaning": "半塩水の、純粋でない、混じり合った、(味が)しょっぱい、嫌な",
+		"era": "Mid-16th Century",
+		"etymology": {
+			"components": [
+				"brac (salty / brackish)"
+			],
+			"original_statement": "From Middle Dutch brac 'salty / brackish', related to Germanic root meaning 'broken / mixed'."
+		},
+		"concept": "The impure synthesis (「真水(フレッシュ)」という名の純粋な理想に、「塩水(ソルト)」という名の残酷な現実が混入し。もはやどちらでもない、独特の「苦味（ビター）」と「複雑さ」を帯びてしまった状態)",
+		"thinking": "「汽水（ブラックイッシュ）」。それは。純粋な（ピュア）正義の場所ではありません。しかし、そこには川の栄養と海の強さが混在し、最も多様な「命（バイオ）」がひしめき合っています。あなたの心が、矛盾（パラドックス）に満ちて「濁（にご）って」いると感じたとき。それは、あなたが「純粋さ」という名の不毛を脱し、他者や現実を受け入れ始めた「ブラックイッシュ」な成長の証（あかし）なのです。",
+		"part_of_speech": "adjective",
+		"aftertaste": "一口飲んだあとの、顔が歪（ゆが）むような、あの妙な「しょっぱさ」と「苦さ」。しかし、気づけばその不思議な風味が、喉の奥に「忘れられない記憶」として居座り続けている、あの後味。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "bhreg-",
+					"meaning": "to break"
+				}
+			],
+			"points": [
+				"Fragile（脆い）と同じく『壊れる』ことが root です。水が壊れ（混じり）、本来の姿を失うことを意味します。"
+			]
+		}
+	},
+	{
+		"id": "tidal",
+		"word": "Tidal",
+		"meaning": "潮の、定期的な、潮流の、運命の周期に支配された",
+		"era": "Early 19th Century",
+		"etymology": {
+			"components": [
+				"tide (original sense: time / season)"
+			],
+			"original_statement": "From tide + -al. Originally 'tide' meant 'time / hour / season'."
+		},
+		"concept": "The pulse of gravity (月という名の「他者（アザー）」の引力によって、自分の内の「熱量（エモーション）」が勝手に満ち引きを繰り返し。逃れようのない「周期（リズム）」の中で揺さぶられ続けていること)",
+		"thinking": "タイダル（潮の）。そのルーツは「時間（タイド）」そのものです。時間は「流れる（フロー）」ものではなく、満ちては引く「繰り返し（サイクル）」であるということ。あなたが絶望の「引き潮（ロウタイド）」に身を焼かれているとき、思い出してください。潮は必ず「戻って」きます。それは意志の力ではなく、宇宙の「重力（ルール）」が約束してくれている、聖なる「復活（リバイバル）」の知らせなのです。",
+		"part_of_speech": "adjective",
+		"aftertaste": "濡れた砂浜が、見る間に海面の下に消えていく。あの、あらがえない「巨大な力」に、自分の居場所を少しずつ「侵食」されていく時の、峻烈な無力感。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "di-",
+					"meaning": "time / division"
+				}
+			],
+			"points": [
+				"Time と Tide は、かつては区別できないほど同じ言葉でした。時間は、打ち寄せる『波』として数えられていたのです。"
+			]
+		}
+	},
+	{
+		"id": "flotsam",
+		"word": "Flotsam",
+		"meaning": "漂流物、(特に難破船からの)浮き荷、見捨てられた人々、浮浪者",
+		"era": "Early 17th Century",
+		"etymology": {
+			"components": [
+				"float / floter (to float)"
+			],
+			"original_statement": "From Anglo-French floteson, from Old French floter 'to float'."
+		},
+		"concept": "The accidental debris (かつては「船（目的）」という名の「秩序」の一部であったが。不慮の嵐（カタクリズム）によって解体され、今はただ「波（カレント）」のままに漂っている、かつての誇りの「残骸」)",
+		"thinking": "「フラットサム（漂流物）」。それは、自分の意志ではなく、運命によって「投げ出された」ものたち。誰にも拾われず、ただ水面を彷徨（さまよ）う彼らは、悲しいでしょうか。いいえ、彼らはもはや「目的地」という名の呪縛から解き放たれ、ただ世界の「広大さ」と一体になっています。あなたが自分を「見捨てられたもの（フラットサム）」だと感じるとき、あなたは同時に、どこへでも行ける「自由な雫（しずく）」でもあるのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "波打ち際に打ち上げられた、白く乾いた流木。かつての「緑」を忘れ、水に磨き上げられて「骨」のようになった、あの峻烈で匿名的な「美しさ」。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "pleu-",
+					"meaning": "to flow"
+				}
+			],
+			"points": [
+				"Float（浮く）や Flow（流れる）と同根。意志を失い、物理的な『流れ』そのものになった姿を指します。"
+			]
+		}
+	},
+	{
+		"id": "jetsam",
+		"word": "Jetsam",
+		"meaning": "投げ荷、(沈めるために)意図的に捨てられた荷物、不用品",
+		"era": "Late 16th Century",
+		"etymology": {
+			"components": [
+				"jettison (to throw out)",
+				"jactare (to throw)"
+			],
+			"original_statement": "Contraction of jettison, from Anglo-French jetteson, from Old French jeter 'to throw', from Latin jactare 'to throw / hurl'."
+		},
+		"concept": "The intentional sacrifice (沈みゆく「自分（船）」という命を救うために、あえて大切だった「財産」や「過去」を、自らの手で「投げ捨て(jet-)」、深淵（アビス）へと捧げた、哀しき決断の痕跡)",
+		"thinking": "フラットサム（偶然の漂流）に対し、ジェットサム（投げ荷）は「意志による破棄」です。一歩先へ進むために、あえて「重荷」を捨てること。その「捨てられたもの」たちは、あなたの「生存（サバイバル）」のための犠牲。あなたが自分の古いプライドを、自らの手で「ジェットサム（ゴミ）」として捨てたとき。あなたは、以前よりもずっと軽やかに、新しい海（フューチャー）へと漕ぎ出すことができるようになるのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "重い荷物を海へ投げ込んだ瞬間の、あの。船体が「ふっ」と浮き上がる感触。失ったものの大きさへの痛みと、生き延びたことへの「残酷なまでの安堵（あんど）」。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ye-",
+					"meaning": "to throw / hurl"
+				}
+			],
+			"points": [
+				"Project（投げ出す）や Inject（注入する）の ject と同じ root。投げ出すことは、ベクトルを持つ『能動』の行為なのです。"
+			]
+		}
+	},
+	{
+		"id": "lagan",
+		"word": "Lagan",
+		"meaning": "浮標付き沈荷、(後で回収するために)沈められた荷物、秘密の蓄積",
+		"era": "Early 16th Century",
+		"etymology": {
+			"original_statement": "From Old Norse lagn 'a net / setting of a net', from liggia 'to lie'."
+		},
+		"concept": "The anchored hope (今はまだ「嵐」の中にあり、手放さなければならないが。いつか必ず「戻ってくる(lag-)」という約束（ブイ）を付けて、深淵の底に「預けて（デポジット）」おく、未来のための投資)",
+		"thinking": "ラーガン（浮標付きの沈荷）。それは「いつか取りに来るからな」という、海への、あるいは運命への、力強いメッセージ。あなたが今、何かをあきらめなければならないとき。もしあなたの心に「再会の火」が灯っているなら、それは単なる喪失ではなく、ラーガンです。いつか嵐が去ったとき。あなたはその「浮標（ブイ）」を頼りに、自分の隠された「宝（エッセンス）」を再び引き上げることになるでしょう。",
+		"part_of_speech": "noun",
+		"aftertaste": "荒れ狂う波間に、プカプカと浮き沈みしている小さな赤い「ブイ」。その下には自分の「すべて」が眠っているという、あの。不安の中に混じる、一点の鋭い「希望」の光。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "legh-",
+					"meaning": "to lie / lay"
+				}
+			],
+			"points": [
+				"Lie（横たわる）や Layer（層）と同根。ただ捨てるのではなく、しかるべき場所に『置いておく』知恵の言葉です。"
+			]
+		}
+	},
+	{
+		"id": "derelict",
+		"word": "Derelict",
+		"meaning": "遺棄された、見捨てられた、無職の、義務を怠った",
+		"era": "Mid-17th Century",
+		"etymology": {
+			"components": [
+				"de- (entirely)",
+				"relinquere (to leave / abandon)"
+			],
+			"original_statement": "From Latin derelictus 'completely abandoned', from derelinquere 'to leave entirely'."
+		},
+		"concept": "The hollow abandonment (所有者からも、社会という名の「秩序」からも、完全に「置き去りに(de-linqu-)」され。もはや誰の「記憶」のネットワークにも属さないまま、ただ「朽（く）ちる」ことを待っている孤独な物体)",
+		"thinking": "デレレクト（遺棄された）な廃墟、あるいは人々。そのルーツは「完全に残されること」。それは、単なる「不在」ではなく、かつて誰かに必要とされていたという「影」が、その場所にこびりついている状態。あなたが自分のなかの「忘れ去られた夢」に触れるとき。それは一つのデレレクトな船として、あなたの心の入り江に静かに。そしてあまりにも無残に、座礁（ざしょう）していることに気づくのです。",
+		"part_of_speech": "adjective / noun",
+		"aftertaste": "割れた窓ガラスから吹き込む、冷たい風。かつては人々の笑い声（カノン）に満ちていたのに、今や「沈黙」だけが主である場所の、あの骨の髄まで冷えるような虚無感。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "leikw-",
+					"meaning": "to leave"
+				}
+			],
+			"points": [
+				"Relic（遺物）や Relinquish（放棄する）の親戚。残されたもの（レリック）は聖なるものになりますが、遺棄されたもの（デレレクト）は呪われたものになる、という差異を物語ります。"
+			]
+		}
+	},
+	{
+		"id": "interstellar",
+		"word": "Interstellar",
+		"meaning": "星間の、星と星の間の、果てしなく広大な空虚の",
+		"era": "Early 17th Century",
+		"etymology": {
+			"components": [
+				"inter- (between)",
+				"stella (star)"
+			],
+			"original_statement": "From Latin inter- 'between' + stella 'star'."
+		},
+		"concept": "The gulf of light (あまりにも巨大な「星(stella)」という輝きと輝きの「間(inter-)」に横たわる、光さえも数万年をかけて通り過ぎる、真空と「無（ゼロ）」だけが支配する孤独な聖域)",
+		"thinking": "インターステラー（星間）。そこには何もありません。ただの影（ダークネス）でも、ただのボイド（空虚）でもない。それは、二つの大きな「存在（スター）」が、互いに干渉（インターフェース）できないほど遠く離れているという、物理的な「沈黙」。あなたが誰かと心からの「対話」をしようとして、その「言葉の届かなさ」に絶望するとき。あなたの間には、このインターステラーな、美しい暗闇が広がっているのです。",
+		"part_of_speech": "adjective",
+		"aftertaste": "一粒の塵（ダスト）さえも見当たらない、完全な真昼の暗闇。孤独であることが、そのまま「宇宙のスケール」に直結していることを知った時の、あの謙虚で壮大な震え。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ster-",
+					"meaning": "star"
+				}
+			],
+			"points": [
+				"Stella は、暗闇に散りばめられた『輝く石』を意味します。その石と石の間にあるものが、実は世界の 99% であるというという驚嘆。"
+			]
+		}
+	},
+	{
+		"id": "astral",
+		"word": "Astral",
+		"meaning": "星の、天体の、霊的な、星の世界のような",
+		"era": "Early 17th Century",
+		"etymology": {
+			"components": [
+				"astrum (star / constellation)"
+			],
+			"original_statement": "From Latin astralis, from astrum 'star'."
+		},
+		"concept": "The pattern of providence (物理的な「火の塊」としての星ではなく、私たちの運命を司り、夜空に「秩序（コスモス）」という名の「地図」を描き出す、霊的で測定（メジャー）可能な輝き)",
+		"thinking": "アストラル。その響きには。運命（フェイト）の匂いがします。古代人は、星を単なる天体（セレスティアル）ではなく、自分たちの魂の「雛形（テンプレート）」だと信じていました。あなたがアストラルな旅（イマジナリー）に出るとき、あなたは、自分の小さな「自我（エゴ）」を脱ぎ捨て、宇宙を動かしている大きな「意志（ロゴス）」を、自らの鼓動（ビート）として感じ取ることができるのです。",
+		"part_of_speech": "adjective",
+		"aftertaste": "冷たい夜風の中で見上げた、満天の星。それらが自分に「何か」を語りかけているような、しかし決して人間の言葉には翻訳できない。あの圧倒的な「意味の過剰」。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ster-",
+					"meaning": "star"
+				}
+			],
+			"points": [
+				"Astronomy（天文学）や Astrology（占星術）の astro-。星とは、宇宙を読み解くための『記号』であることを意味します。"
+			]
+		}
+	},
+	{
+		"id": "spherical",
+		"word": "Spherical",
+		"meaning": "球体の、完全な、調和のとれた、全方向的な",
+		"era": "Early 17th Century",
+		"etymology": {
+			"components": [
+				"sphaira (ball / globe / sphere)"
+			],
+			"original_statement": "From Latin sphaericus, from Greek sphaireikos, from sphaira 'ball / globe / ball for playing'."
+		},
+		"concept": "The ultimate enclosure (どこから見ても「中心」からの距離が等しく。一点の「角（エッジ）」も、一箇所の「欠落」も持たない、それ自体で完結した、宇宙の最も「安定（スタンス）」した形)",
+		"thinking": "「球体（スフェリカル）」のルーツは「ボール」にあります。ギリシャの哲学者たちにとって、球は「神の形」でした。それは、自らに閉じ、自らで満たされている「プレローマ（充満）」。あなたの人格がスフェリカル（円満）であるとき。あなたは特定の誰かに偏（かた寄）るのではなく、全方位（オール）に対して等しく光を放ち、何ものにも傷つけられず、何ものをも傷つけない、静かなる「完成」に近づいているのです。",
+		"part_of_speech": "adjective",
+		"aftertaste": "手のひらで転がす、ガラス玉の、あの。どこまでも滑らかで。指を引っ掛ける「手がかり」さえも拒絶する、圧倒的な「自立」の感触。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sper-",
+					"meaning": "to twist / turn"
+				}
+			],
+			"points": [
+				"Sphere（球）は、回転運動が生み出す極限の形。静止しているようでいて、その内側には激しい『回転』のエネルギーを孕んでいます。"
+			]
+		}
+	},
+	{
+		"id": "elliptical",
+		"word": "Elliptical",
+		"meaning": "楕円の、欠落のある、(言葉が)省略された、象徴的な、一筋縄ではいかない",
+		"era": "Early 18th Century",
+		"etymology": {
+			"components": [
+				"en- (in)",
+				"leipein (to leave)"
+			],
+			"original_statement": "From ellipsis, from Greek elleipsis 'a falling short / defect', from en- 'in' + leipein 'to leave / abandon'."
+		},
+		"concept": "The beautiful defect (「完璧な円（スフィア）」になろうとして、しかし何かが「欠け(leips-)」、あるいは二つの「中心（フォーカス）」に引き裂かれたことで生まれた、不完全ゆえの「奥行き」と「余韻」の形)",
+		"thinking": "エリプティカル（楕円）。そのルーツは「足りないこと、欠けていること（エリプシス）」。完璧な一（モナド）から離れ、少しだけ歪（ゆが）んでしまった姿。しかし。惑星の軌道がそうであるように、真のダイナミズムは、この「ズレ」から生まれます。あなたが言葉を濁し、エリプティカルに語るとき、そこには語られなかった「沈黙（サイレンス）」という名の、もう一つの「中心」が生まれているのです。",
+		"part_of_speech": "adjective",
+		"aftertaste": "「……」と、文末に点が打たれたような、あの。すべてを語り終わらず、相手の想像力に「空席（フォロースペース）」を渡したあとの、心地よいもどかしさと予感。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "leikw-",
+					"meaning": "to leave"
+				}
+			],
+			"points": [
+				"Derelict（見捨てられた）と同じ root というのは驚きです。欠けている（見捨てられている）からこそ、美しい軌跡を描けるのです。 "
+			]
+		}
+	},
+	{
+		"id": "parabolic",
+		"word": "Parabolic",
+		"meaning": "放物線の、たとえ話の、教訓的な、象徴的な跳躍",
+		"era": "Early 17th Century",
+		"etymology": {
+			"components": [
+				"para- (beside)",
+				"ballein (to throw)"
+			],
+			"original_statement": "From Late Latin parabolicus, from Greek parabolikos, from parabole 'comparison / parable / throw beside'."
+		},
+		"concept": "The comparative throw (「真実」をそのままぶつけるのではなく、その「隣(para-)」に何か別の物語を「投げ(bal-)」、二つを並べることで、その「間（あいだ）」に火花のように真理を浮かび上がらせること)",
+		"thinking": "「放物線（パラボリック）」と「たとえ話（パラブル）」は、同じ言葉です。それは。目的地の「すぐ隣（パラ）」に、言葉という名の弓矢を放つこと。直接語り得ないものを、遠回りに、しかし優雅な「曲線」を描いて包み込む手法。あなたが自分の人生を、一つの「たとえ話（パラボリックな物語）」として見られたとき、そこにあるすべての苦しみは、壮大な「教訓（ロゴス）」へと昇華（サブリメーション）されるのです。",
+		"part_of_speech": "adjective",
+		"aftertaste": "石を投げ、それが頂点で一瞬だけ「静止」し、再び優しく大地へ降りてくる、あの弧（アーク）の美しさ。目的そのものよりも、その「描いたプロセス」の気高さに救われる感覚。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "gwele-",
+					"meaning": "to throw (from ballein)"
+				}
+			],
+			"points": [
+				"Ball（ボール）や Problem（目の前に投げられたもの）と同じ root。言葉を放つことは、常に一つの『挑戦』なのです。"
+			]
+		}
+	},
+	{
+		"id": "curvature",
+		"word": "Curvature",
+		"meaning": "曲率、曲がること、空間の歪み、意志の歪曲",
+		"era": "Late 15th Century",
+		"etymology": {
+			"components": [
+				"curvus (bent / curved)"
+			],
+			"original_statement": "From Latin curvatura 'a bending', from curvare 'to bend / curve', from curvus 'bent / curved'."
+		},
+		"concept": "The lean of existence (真っ直ぐな線（レクティチュード）を拒（こば）み、宇宙の「重力（ルール）」によって、あるいは自らの「情熱」によって、緩（ゆる）やかに、しかし抗（あらが）い難く「曲がって」しまった、存在の優雅な撓（しな）い)",
+		"thinking": "「曲率（カーバチャー）」は、重力が空間を歪める度合い。それは、そこに「存在（マス）」があることの証明。何もない空間は、どこまでも平坦で退屈（フラット）です。あなたが人生の「曲がり角（カーバチャー）」に苦しむとき、それはあなたが。あまりにも巨大な「意味」を持っているために、あなたの周囲の時間や空間が、その重みで美しく「歪（ゆが）んでいる」だけなのです。真っ直ぐでないことは、重厚さの証しなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "弓を限界まで引き絞った瞬間の、あの。いつ弾（はじ）けてもおかしくない、危うい「たわみ」の緊張感。そこには、ただの直線にはない、爆発的な「力」の予感（予兆）が宿っている。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sker-",
+					"meaning": "to turn / bend"
+				}
+			],
+			"points": [
+				"Circle（円）や Crown（王冠）と同じ、回転と中心を司る根を持っています。曲がることは、何かを『囲む』ための始まりでもあるのです。"
+			]
+		}
+	},
+	{
+		"id": "manifold",
+		"word": "Manifold",
+		"meaning": "多様な、多くの、多方面にわたる、(数学の)多様体、折り畳まれた真理",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"manig (many)",
+				"feald (fold)"
+			],
+			"original_statement": "Old English manigfeald, from manig 'many' + feald 'fold'."
+		},
+		"concept": "The many-folded truth (一見、平らな一枚の布（シンプル）に見えるが。その「内側」には、幾重にも「折り（フォールド）」たたまれた「多角的」な宇宙が隠されており、広げるたびに新しい「相（フェイズ）」が現れること)",
+		"thinking": "「多様な（マニフォールド）」な世界。それは。単に「数が多い」ことではなく。一人の人間、一つの言葉の中に、何重にも「折り重なった理由」が潜んでいる、という驚異。数学における「多様体（マニフォールド）」は、どこを切り取っても「平ら」に見えますが、全体としては複雑に「歪（ゆが）んで」います。あなたの魂も、そんなマニフォールドな存在。一言では語り尽くせないのは、あなたの「内なる襞（ひだ）」が、あまりにも豊かだからなのです。",
+		"part_of_speech": "adjective / noun",
+		"aftertaste": "古びた航海図を広げ、折り目を一つずつ開くたびに、見たこともない「島」や「怪物」が現れる、あの。未知が際限なく「展開（ディプロイ）」していくことへの、心地よい戦慄（せんりつ）。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "pel-",
+					"meaning": "to fold (from -fold)"
+				}
+			],
+			"points": [
+				"Multiplicity（多重性）と同じコンセプト。折り畳まれている（隠されている）からこそ、そこにはドラマが生まれるのです。"
+			]
+		}
+	},
+	{
+		"id": "radial",
+		"word": "Radial",
+		"meaning": "放射状の、中心からの、光の筋のような、中心へ向かう",
+		"era": "Late 16th Century",
+		"etymology": {
+			"components": [
+				"radius (staff / spoke / ray)"
+			],
+			"original_statement": "From Latin radialis, from radius 'staff / spoke of a wheel / beam of light'."
+		},
+		"concept": "The outward ray (自分自身の「核心（コア）」を、一瞬たりとも見失うことなく。全方位に対して、真っ直ぐな「光（レイ）」や「意志」を「放(radi-)」出し、世界を自分中心の「秩序」で塗り替えること)",
+		"thinking": "ラジアル（放射状）。そのルーツは「光の筋（レイズ）」や「車輪のスポーク」にあります。すべての力は、一つの「源泉」へと繋（つな）がっています。あなたが自分の信念をラジアル（放射状）に世界へと広げるとき、あなたは。バラバラだった周囲の人々に、一つの共通の「中心」を与える「太陽（ルミナリー）」となっているのです。放射状に生きることは、迷いのない「一途さ」の全方位的な拡大なのです。",
+		"part_of_speech": "adjective",
+		"aftertaste": "車輪の真ん中から伸びる、細いスポークの。一点の「中心（ハブ）」がすべてを支えているという、あの完璧な「幾何学的」な信頼。そして。どこまでも遠くへ飛んでいけそうな、光のスピード感。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "rēd-",
+					"meaning": "to scrap / scratch / gnaw (unconfirmed linked to radius)"
+				}
+			],
+			"points": [
+				"Radio（ラジオ／電波を飛ばすもの）と同じ root。自分の声を、宇宙全体という名の『全天（アンテナ）』に向けて解き放つ力を司ります。"
+			]
+		}
+	},
+	{
+		"id": "helical",
+		"word": "Helical",
+		"meaning": "螺旋状の、上昇する繰り返し、深まり、DNAのような",
+		"era": "Mid-18th Century",
+		"etymology": {
+			"components": [
+				"helix (spiral / twisted thing)"
+			],
+			"original_statement": "From Greek helix 'spiral / twisted / that which turns around', from root of 'helissein' (to turn)."
+		},
+		"concept": "The ascending spiral (同じ場所をぐるぐると「回って(heli-)」いるように見えて。実は一回転する（一周する）たびに、一段高い「高み（ヘブン）」へと上昇（アセンド）しており、決して以前と同じ場所には戻らないという、命の「螺旋の成長」)",
+		"thinking": "ヘリカル（螺旋状）。それは。停滞（スタグネーション）と進歩（プログレス）の、美しい「折衷（コンプロマイス）」。私たちは、去年（あるいは十年年）と同じ過ち（ハマルティア）を繰り返しているように感じることがあります。しかし、螺旋の視点で見れば、あなたは以前よりも深く、以前よりも「高く」なっています。繰り返しは。単なる円環ではなく、より高い真理へと至るための「階段（ステアーズ）」なのです。 ",
+		"part_of_speech": "adjective",
+		"aftertaste": "二重螺旋（DNA）の、あの。自分の運命が、ただの「線」ではなく、複雑に「絡み合い、上昇する形」で刻まれているという、神秘への心酔。そして。終わりなき「深まり」への、心地よい眩暈。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "wel-",
+					"meaning": "to turn / roll"
+				}
+			],
+			"points": [
+				"Volume（巻物／回転するもの）や Evolution（進化）と同じ root。成長とは常に、この『一回転』の中にあるのです。"
+			]
+		}
+	},
+	{
+		"id": "tessellation",
+		"word": "Tessellation",
+		"meaning": "モザイク模様、敷き詰められた秩序、隙間のない統合",
+		"era": "Mid-17th Century",
+		"etymology": {
+			"components": [
+				"tessella (small square stone)",
+				"tessera (four / square)"
+			],
+			"original_statement": "From Latin tessellare 'to pave with mosaic', from tessella 'small square stone / mosaic tile', from tessera 'four'."
+		},
+		"concept": "The interlocking cosmos (個々の異質な「欠片（タイル）」を、一分の「隙（すき）」もなく正確に「噛（か）み合わせ」、宇宙全体を一つの巨大で美しい「模様（パターン）」へと仕立て上げること。偶然を必然に変える配置の妙)",
+		"thinking": "テセレーション（敷き詰め）。そのルーツは四角い小石（テセラ）。バラバラな経験、バラバラな人々。それらは単体では意味を持ちませんが。それらを「正しい場所」に配置（アレンジ）したとき。そこには、一人では決して描けなかった「巨大な真理の図（ヴィジョン）」が現れます。あなたの人生という名のモザイク画（テセレーション）。どんなに欠けたタイルも、そこには「なくてはならない場所」がある。宇宙は。あなたというピースが嵌（は）まってはじめて、完成するのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "すべてのタイルがカチリと一つに収まり。最後の一枚を嵌（は）めた瞬間に、ただの「石」が「物語」へと反転（ペリペティア）した時の、あの。宇宙の秩序に従ったという、圧倒的な「完璧」の充足感。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kwetwer-",
+					"meaning": "four"
+				}
+			],
+			"points": [
+				"Tetrad（四）と同じ root 由来。四角い石が大地を埋め尽くすように、知性は世界を『タイル状』に整理し、理解するのです。 "
+			]
+		}
 	}
 ];
