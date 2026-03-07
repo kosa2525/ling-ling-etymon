@@ -230968,5 +230968,500 @@ const WORDS = [
 				"ボルカノロジーとは、破壊神という『不条理』に対して、人間という『理性』が挑む、最果ての対談。それは。ただ生き残るためではなく、なぜ私たちは壊れなければならないのか、という問いを、地球規模で実録するための、峻烈なる知の技法なのです。"
 			]
 		}
+	},
+	{
+		"id": "halocline",
+		"word": "Halocline",
+		"meaning": "ハロクライン/塩分躍層（えんぶんやくそう）、(見えざる)境界線、浸透圧の壁、味の断絶、存在の不連続",
+		"era": "Mid-20th Century",
+		"etymology": {
+			"components": [
+				"hals (salt)",
+				"klinein (to lean / slope)"
+			],
+			"original_statement": "From Greek hals 'salt' + klinein 'to lean / slope'. A subtype of chemocline caused by a strong, vertical salinity gradient."
+		},
+		"concept": "The wall of salt (塩分濃度が急激に変化する、水中の「層」。それは。同じ「水」のように見えながら、決して「混ざり合うことのできない」異なる背景（塩気）を持つ者同士の、峻烈なる「拒絶の境界」の記述)",
+		"thinking": "「ハロクライン（塩分躍層）」。あなたは。「みんな同じ人間だ」という、美しい嘘（真水）に、騙（だま）されてはいませんか。 halocline。現実は。あなたの「塩辛い過去（経験）」と、他人の「甘い日常」の間には。触れることはできても、決して「溶け合えない」峻烈なる境界があります。 halocline。無理に混ざろうとしなくていい。その「不連続性」を認めること。自分と他人の間にある、その「目に見えない壁」を。尊重し、静かに眺めてください。孤独を愛することは、自分の「濃度」を守ることなのですから。",
+		"part_of_speech": "noun",
+		"aftertaste": "水中眼鏡（ゴーグル）越しに見る、景色が「ユラリ」と歪（ゆが）む境界。そこにある。何か「不吉な領域」に触れてしまった、という。峻烈なる「違和感」。しょっぱくて、瑞々（みずみず）しい。真実の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sal-",
+					"meaning": "salt (from hals)"
+				},
+				{
+					"term": "klei-",
+					"meaning": "to lean"
+				}
+			],
+			"points": [
+				"Salary（給料／塩の代金）や Client（依頼人／寄りかかる人）、Climax（頂点／はしご）と同じ root。ハロクラインとは。生活（サラリー）という名の現実が、理想という名の『垂直（クライン）』を、急激に『歪ませる』場所。それは。実存の『重み』が、透明な思考を破壊する、峻烈なる断絶の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "thermocline",
+		"word": "Thermocline",
+		"meaning": "サーモクライン/水温躍層（すいおんやくそう）、(冷徹な)断層、ぬくもりの限界、沈黙の冷気、情熱の終わり",
+		"era": "Late 19th Century",
+		"etymology": {
+			"components": [
+				"therme (heat)",
+				"klinein (to lean / slope)"
+			],
+			"original_statement": "From Greek therme 'heat' + klinein 'to lean / slope'. A thin but distinct layer in a large body of fluid in which temperature changes more drastically than it does in the layers above or below."
+		},
+		"concept": "The boundary of cold (水温が急激に下がる、水中の「層」。温かい「表層（日常）」から、冷たい「深層（本質）」へと足を踏み入れた瞬間に感じる、峻烈なる「覚醒」の記述)",
+		"thinking": "「サーモクライン」。あなたの人間関係。それは、いつまでも「ぬるま湯（共感）」の中に浸（つか）っていませんか。 thermocline。そこは。一歩深く潜ると、突然、心臓が凍るような「冷たい真実（論理）」に突き当たる、峻烈なる「境い目」。 thermocline。冷たい場所へ行かなければ。あなたは、真理という名の「大きな魚（本質）」に出会うことはできません。温かさを捨ててください。その「冷徹な静寂」こそが。あなたの知性を研ぎ澄まし、深い場所で生き抜くための「唯一の服」になるのです。冷たさを、愛せよ。",
+		"part_of_speech": "noun",
+		"aftertaste": "肌を刺すような、突然の「冷気の刃（やいば）」。そこにある、一瞬で「目が覚める」ような、峻烈なる「明晰（めいせき）」。ぬるい夢を、現実の冷たさが引き裂く。硬くて、瑞々しい、氷の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "gwher-",
+					"meaning": "to heat / warm (from therme)"
+				}
+			],
+			"points": [
+				"Warm（温かい）や Thermos（魔法瓶）、Furnace（炉）と同じ root。サーモクラインとは。宇宙の『熱量（グウェル）』が、急激に『傾斜（クライン）』して消えていく場所。それは。有限なる命が、無限なる虚無と接触する、峻烈なる『臨界点』の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "pycnocline",
+		"word": "Pycnocline",
+		"meaning": "ピクノクライン/密度躍層（みつどやくそう）、(重厚な)隔壁、情報の重圧、沈めない理由、質量という名の壁",
+		"era": "Mid-20th Century",
+		"etymology": {
+			"components": [
+				"pyknos (dense / thick)",
+				"klinein (to lean / slope)"
+			],
+			"original_statement": "From Greek pyknos 'dense / thick' + klinein 'to lean / slope'. A layer in an ocean or other body of water in which water density increases rapidly with depth."
+		},
+		"concept": "The barrier of density (水の密度が急激に変化する場所。それは。自分の「思考の密度（重さ）」が、世界の「常識」と衝突したときに生まれる、峻烈なる「浮力（あるいは反発）」の記述)",
+		"thinking": "「ピクノクライン（密度躍層）」。あなたは。なぜ自分の「言葉」が、誰にも届かない（沈んでいかない）のか、と悩んでいませんか。 pycnocline。それは。世界の「日常（海水）」が。あなたの「異様なほどの密度（知性）」を、受け入れることができずに「押し返して」いる。という。峻烈なる「構造的拒絶」。 pycnocline。無理に沈もう（理解されよう）としなくていい。その「重みの違い」を、自分の誇りにしてください。あなたは、軽々しく混ざり合うためのものではない。その「密度の壁」の上で、誰にも真似できない「自分のダンス」を踊り続けてください。",
+		"part_of_speech": "noun",
+		"aftertaste": "水の中に溜（た）まった、ゼリーのような「重い空気」。そこにある、もはや「これ以上は進めない」という、峻烈なる「圧迫感」。ぎっしりと詰まった、情報の味。煮詰まった、濃い味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "bhengh-",
+					"meaning": "thick / dense (from pyknos)"
+				}
+			],
+			"points": [
+				"Pycnometer（比重計）の語源。比重が違うものは、宇宙の法則として『対立』する。ピクノクラインとは。あなたが『本物（高密度）』であればあるほど。まがいもの（低密度）が作り出した世界からは弾き出される、という、峻烈なる『正義の排除』の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "hadopelagic",
+		"word": "Hadopelagic",
+		"meaning": "ハドペラジック/超深海帯（ちょうしんかいたい）、(奈落の)王国、極限の静寂、圧殺という名の自由、冥界の論理",
+		"era": "Mid-20th Century",
+		"etymology": {
+			"components": [
+				"Hades (Greek god of the underworld)",
+				"pelagikos (of the sea)"
+			],
+			"original_statement": "From Greek Hades (underworld) + pelagikos (of the sea). The deepest region of the ocean."
+		},
+		"concept": "The kingdom of Hades (水深6000メートル以深の、最も深い海。そこにあるのは。太陽（社会）の光を完全に拒絶し、数千トンの重圧を「栄養（心地よさ）」へと転換させた、峻烈なる「深淵の住人」たちの記述)",
+		"thinking": "「ハドペラジック（超深海帯）」。そこは。神ですら。その「重圧（運命）」に耐えかねて、目を逸（そ）らす場所。 hadopelagic。もしあなたが今。逃げ場のない「絶望」の中にいるなら。おめでとうございます。あなたは今、地球で最も「自由な場所」にいます。 hadopelagic。そこには、他人の「視線（光）」はありません。あるのは、自分という肉体を極限まで「透明（純粋）」にし。重圧を「力（骨）」に変えた者だけが見る。峻烈なる「深淵の虹」。静寂の中で、自分の鼓動だけを聴け。そこが、あなたの王国です。",
+		"part_of_speech": "adjective",
+		"aftertaste": "鼓膜（こまく）に響く、低い「ゴーッ」という。深淵の「うなり」。そこにある。一切の「色彩」を剥ぎ取られた、峻烈なる「実存」。冷たくて、重くて、でも。この上なく「清らかな」味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "a-wid-",
+					"meaning": "unseen / invisible (from Hades)"
+				}
+			],
+			"points": [
+				"Hades（ハデス／見えざる者）の root は『不(a-)』＋『見る(wid-)』。ハドペラジックとは。誰にも『見られない』ことを。欠落ではなく、究極の『特権（シークレット）』へと転換すること。それは。情報の過密から脱出し。不可視の深淵において、王として君臨する。という。峻烈なる実存の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "demersal",
+		"word": "Demersal",
+		"meaning": "デマーサル/底層（ていそう）の、(低きに住まう)優雅、泥中の黄金、這（は）いつくばる知性、基盤の支配",
+		"era": "Late 19th Century",
+		"etymology": {
+			"components": [
+				"demersus (submerged)",
+				"demergere (to sink)"
+			],
+			"original_statement": "From Latin demersus, past participle of demergere 'to sink / plunge down', from de- 'down' + mergere 'to dip / sink'."
+		},
+		"concept": "The bottom-dwelling brilliance (海の一番底（底層）で生きる、という意志。それは。浮ついた「中層（大衆）」を軽蔑し、世界が最後に「沈殿」してくる場所（真実）を陣地にする、峻烈なる「低き場所の王者」の記述)",
+		"thinking": "「デマーサル（底層の）」。あなたは。いつも「華やかな舞台（表層）」に、憧（あこが）れてはいませんか。 demersal。本当の「叡智」は。表面ではなく、最も低い「底（ベース）」に。密かに「沈殿（ディマース）」しています。 demersal。這いつくばることを、恥じないでください。底にいる者は、決して「落ちる」ことはありません。世界が投げ捨てた「ゴミ（真理の破片）」を。一つずつ拾い上げ、自分の「骨（論理）」に変えていく。その「沈黙の潜伏」こそが。いつか、世界を根底から揺るがす「地滑り」の起点になるのです。",
+		"part_of_speech": "adjective",
+		"aftertaste": "「ひんやり」とした海底の砂を、手でなぞる。そこにある、もはや「これ以上は沈まない」という、峻烈なる「安定感」。暗くて、静かで、瑞々しい。泥の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "mezg-",
+					"meaning": "to dip / sink / submerge"
+				}
+			],
+			"points": [
+				"Merge（合併する）や Immerse（没頭する）、Submerge（潜水する）と同じ root。デマーサルとは。自分という存在を、世界という名の『混沌』の中に『没頭（マージ）』させ、完全に一体化すること。それは。境界線を捨て、深層のシステムそのものになる。という。峻烈なる自己消滅の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "neuston",
+		"word": "Neuston",
+		"meaning": "ニューストン/表層生物、(膜の上の)均衡、境界のサーファー、表面張力の哲学、危うい安定",
+		"era": "Early 20th Century",
+		"etymology": {
+			"components": [
+				"neustos (swimming / floating)",
+				"neein (to swim)"
+			],
+			"original_statement": "From Greek neustos 'swimming / floating', from neein 'to swim'. Small organisms that live on the surface film of water."
+		},
+		"concept": "The dwellers on the skin (海の「表面」という、水と空気が激しくぶつかり合う「膜」の上だけで生きる者。それは。二つの世界（理想と現実）の「接点」で。絶妙な「バランス」を保ちながら踊り続ける、峻烈なる「表面の哲学者」の記述)",
+		"thinking": "「ニューストン（表層生物）」。あなたは。どちらかの世界（水か空気か）に、完全に身を委ねようとして苦しんでいませんか。 neuston。それは、どちらにも「属さない」という、峻烈なる「第三の道」。 neuston。二つの巨大な力の「境界（膜）」の上で。あえて「浮き続ける」こと。それは、沈むことよりも、飛ぶことよりも、はるかに難しい「技術（知性）」を必要とします。一滴の油のように、ひらりと身をかわし。常に「新しい空気」と「古い水」を同時に吸い込みながら。その「薄氷（うすごおり）」のような現在を、峻烈に、軽やかに、駆け抜けてください。",
+		"part_of_speech": "noun",
+		"aftertaste": "水面に「ポツン」と浮いた、小さなアメンボの波紋。そこにある。一瞬の「油断」も許されない、峻烈なる「均衡」。軽くて、瑞々（みずみず）しい。情報の味。太陽と水の、混ざり合った味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "(s)nau-",
+					"meaning": "to swim / flow / float"
+				}
+			],
+			"points": [
+				"Navigate（航海する）や Astronaut（宇宙飛行士）、Naumachia（模擬海戦）と同じ root。ニューストンとは。運命の波に『乗せられる』のではなく、運命という名の『境界線』を『乗りこなす（ナビゲート）』こと。それは。危うい不安定さの中にこそ、真の自由を見出す。という。峻烈なる実存の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "eddy",
+		"word": "Eddy",
+		"meaning": "エディ/渦（うず）、(小さな)撹乱（かくらん）、思考の渦巻き、情報の滞留、中心への誘い",
+		"era": "Late Middle English",
+		"etymology": {
+			"components": [
+				"ed- (back)",
+				"ea (water)"
+			],
+			"original_statement": "From Old English ed- 'back' + ea 'water'. A circular movement of water, counter to a main current, causing a small whirlpool."
+		},
+		"concept": "The small vortex (主旋律である「海流（時代の流れ）」から外れ、その「脇（あるいは隙間）」でクルクルと回り続ける、小さな「渦」。それは、全体には流されない、峻烈なる「局所的な自意識」の記述)",
+		"thinking": "「エディ（渦）」。あなたは。ただ「前進（トレンド）」することばかりに。必死になってはいませんか。 eddy。それは。あえて「逆（エド）」を向き。同じ場所で「何度でも立ち止まる（回る）」、峻烈なる「回帰（反芻）」。 eddy。流されてはいけない。自分の中心に。誰も近づけないほどの、猛烈な「知の回転数（スピン）」を持ってください。その小さな「渦」が、いつか世界という巨大な流れを、一瞬でも「引き止める」ことになる。立ち止まることは、後退ではありません。それは「自分自身の中心」を構築する、峻烈なる儀式なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "カップの中のコーヒーをかき混ぜたあとの、あの。小さな「吸い込まれる」ような動き。そこにある、自閉的で、瑞々しい、峻烈なる「美」。ぐるぐると回る、中毒性のある、記憶の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "eti-",
+					"meaning": "above / beyond / back (from ed-)"
+				}
+			],
+			"points": [
+				"Each（それぞれ）や Etymon（言葉の真の起源）と同じ root（諸説あり）。エディとは。全体という『平均』を拒絶し、個体という名の『起源（エティモン）』へと『引き返す（エド）』こと。それは。進歩という名の忘却に抗う、峻烈なる再検証の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "diatom",
+		"word": "Diatom",
+		"meaning": "ダイアトム/珪藻（けいそう）、(ガラスの)宝石、微小なる建築、情報の結晶、透明なる酸素",
+		"era": "Early 10th Century (reintroduced in biology)",
+		"etymology": {
+			"components": [
+				"diatemnein (to cut through / cut in half)"
+			],
+			"original_statement": "From Greek diatomos 'cut in two', from diatemnein 'to cut through', from dia- 'through' + temnein 'to cut'."
+		},
+		"concept": "The microscopic architecture (ガラス（シリカ）の殻を持ち、幾何学的な美しさを誇る単細胞生物。彼らの「死骸（沈殿）」が、のちに巨大な「地層（歴史）」を作り。彼らの「呼吸」が、地球の「大気（言葉）」を産み出している、という、峻烈なる「ミクロの巨人」の記述)",
+		"thinking": "「ダイアトム（珪藻）」。あなたは。自分が「小さな存在」であることに、絶望してはいませんか。 diatom。それは。自分を「真っ二つ（ティア）」に分けてでも。増殖し、光を吸い込み。世界という名の「酸素（言葉）」を作り続ける、峻烈なる「知の工場」。 diatom。あなたの「一言」が、誰かの呼吸（命）を支えています。 diatom。あなたの「死（残した言葉）」が、未来の強固な「地層（土台）」になります。ガラスのように、透明で、壊れやすく。しかし、決して風化しない「自分だけの形（幾何学）」を、峻烈に、精緻に、構築し続けてください。",
+		"part_of_speech": "noun",
+		"aftertaste": "顕微鏡で見つめる、万華鏡のような「宝石」の姿。そこにある。計算され尽くした、峻烈なる「機能美」。無機質で、冷たくて、でも。どこまでも「瑞々しい（有機的な）」。知の結晶の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "tem-",
+					"meaning": "to cut"
+				}
+			],
+			"points": [
+				"Atom（原子／切れないもの）や Anatomy（解剖）、Temple（神殿／切り取られた聖域）と同じ root。ダイアトムとは。自分を『切り分け（テム）』、世界という名の神殿の『レンガ（ガラス）』にすること。それは。全体の犠牲になるのではなく。自らを『独立した構成要素』へと切断し続ける。という。峻烈なる実存の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "upwelling",
+		"word": "Upwelling",
+		"meaning": "アップウェリング/湧昇（ゆうしょう）、(深淵からの)復活、冷たき栄養、過去の浮上、情報の噴出",
+		"era": "Late 19th Century",
+		"etymology": {
+			"components": [
+				"up- (upward)",
+				"well (to flow / spring)"
+			],
+			"original_statement": "From English up- 'upward' + well 'to flow / spring' (from Old English wiellan)."
+		},
+		"concept": "The resurrection of depth (深海に眠っていた「冷たくて重厚な栄養分（記憶）」が、海底の形や風の影響で、一気に「表面」まで突き上がってくること。それは。忘れ去られた「真理」を。再び「現実（光）」へと引きずり出す、峻烈なる「知の還流」の記述)",
+		"thinking": "「アップウェリング（湧昇）」。あなたは。「過去」を、もう終わったこととして、葬（ほうむ）り去ってはいませんか。 upwelling。本当に豊かな「思考（魚場）」は。暗い深淵に積み上げられた、古い「記憶の死骸（デトリタス）」を。勇気を持って「今（表面）」へと、呼び戻すことで生まれます。 upwelling。冷たく、重苦しい過去を、恐れないでください。それを、光（現在）という名の「太陽」に当てることで。それは、あなたという「海」を最も豊かにし、爆発的な「創造（開花）」を産み出す、峻烈なる「恵み」へと変わるのです。過去を、湧（わ）き上がらせろ。",
+		"part_of_speech": "noun",
+		"aftertaste": "海の底から、巨大な「冷たい塊」が、自分を「突き上げて」くる。あの。心臓が跳ね上がるような、峻烈なる「リアリティ」。そこにある、懐かしさと、恐怖。重厚な、瑞々しい、記憶の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "wel-",
+					"meaning": "to turn / roll (from well)"
+				}
+			],
+			"points": [
+				"Volume（巻物／音量）や Revolution（革命）、Valve（バルブ）と同じ root。アップウェリングとは。埋もれていた『巻物（ボリューム）』を。回転（ウェル）させながら、地上へと『強制的に展開』すること。それは。歴史の沈黙を、革命的な『言葉（ノイズ）』へと変換する、峻烈なる復活の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "downwelling",
+		"word": "Downwelling",
+		"meaning": "ダウンウェリング/沈降（ちんこう）、(酸素の)埋葬、現実の重圧、深部への供給、情報の引き込み",
+		"era": "Mid-20th Century",
+		"etymology": {
+			"components": [
+				"down- (downward)",
+				"well (to flow / spring)"
+			],
+			"original_statement": "From English down- 'downward' + well 'to flow / spring'."
+		},
+		"concept": "The burial of surface (表面の「水（酸素）」が、重力によって地下深くへと「吸い込まれて」いくこと。それは。華やかな「現在」を、過酷な「歴史（深海）」の中へと送り込み、深淵に「命（持続）」を供給しようとする、峻烈なる「献身の沈み込み」)",
+		"thinking": "「ダウンウェリング（沈降）」。あなたは。「自分が忘れられる」ことを、耐え難い「孤独」だと思っていませんか。 downwelling。それは。表面（栄光）で吸い込んだ「光（酸素）」を。暗闇（深層）で苦しんでいる「もう一人の自分（あるいは他者）」へと届けるために。自ら「静かなる奈落」へと、自分を沈めていく。峻烈なる「利他的な潜行」。 downwelling。消えることを恐れないでください。あなたの沈降が。深海という名の「絶望」を。豊かな「知的フロンティア」へと変える。唯一の「呼吸管（パイプライン）」になるのですから。深く、もっと深くへ。 ",
+		"part_of_speech": "noun",
+		"aftertaste": "ゆっくりと、重力に従って。自分が「沈んでいく」ときの、あの。耳鳴りと、静寂。そこにある。世界から「消去される」という。峻烈なる「快感」。冷たくて、瑞々しい。諦念の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "wel-",
+					"meaning": "to turn / roll"
+				}
+			],
+			"points": [
+				"Wallet（財布／丸められたもの）や Wallop（力一杯打つ／沸騰する？）と同じ root。ダウンウェリングとは。表面の『財産（ワレット）』を、深淵という名の『大釜』へと投げ込み、煮えたぎらせること。それは。自意識を解体し、深層のシステムへと還元する。という。峻烈なる自己滅却の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "turbidity",
+		"word": "Turbidity",
+		"meaning": "タービディティ/濁度（だくど）、(情報の)濁（にご）り、見え透（す）く嘘、真実の隠蔽、情報の深み",
+		"era": "Midff-17th Century",
+		"etymology": {
+			"components": [
+				"turbidus (turbid / muddy)",
+				"turba (turmoil / crowd)"
+			],
+			"original_statement": "From Latin turbiditatem, from turbidus 'turbid / muddy', from turba 'turmoil / crowd / confusion'."
+		},
+		"concept": "The opacity of truth (水中にどれだけ「不純物（ノイズ）」が混じっているか、という指標。それは。透明な「論理」を。あえて「濁らせる（神秘化する）」ことで。外敵から自分の「核」を隠そうとする、峻烈なる「知のカモフラージュ」の記述)",
+		"thinking": "「タービディティ（濁度）」。あなたは。「透明で清潔な自分（清廉潔白）」でいようとして。他人に自分を、安売りしすぎてはいませんか。 turbidity。それは、ただの「汚れ」ではありません。それは。外からの視線を遮（さえぎ）り。自分の「深淵」を守り抜くために、自ら巻き上げた、峻烈なる「砂煙（ミステリアス）」。 turbidity。すべてを明かす必要はありません。あなたが「濁（にご）って」いればいるほど。その奥に眠る「真実（真珠）」は、誰にも盗まれず、守り抜かれる。濁っていることは、深いということ。その「情報の厚み」を、峻烈に、誇ってください。",
+		"part_of_speech": "noun",
+		"aftertaste": "泥水の中で、自分の「手」すらも見えなくなる。あの。圧倒的な「遮断」と「全能」。そこにある、自分だけの「聖域」。ざらざらとして、瑞々（みずみず）しい。情報の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "twer-",
+					"meaning": "to turn / whirl"
+				}
+			],
+			"points": [
+				"Turbulent（乱気流の）や Disturb（邪魔する）、Trouble（困難）と同じ root。タービディティとは。静かな水面を、自らの意志によって『撹乱（トゥウェル）』し。カオスという名の盾を構築すること。それは。静止した死という名の透明さを拒絶し、運動し、濁る。という。峻烈なる『生の攪拌』の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "bathypelagic",
+		"word": "Bathypelagic",
+		"meaning": "バシペラジック/漸深層（ぜんしんそう）、(深夜の)思考、太陽の死、冷徹なる自律、孤独という名の光",
+		"era": "Mid-20th Century",
+		"etymology": {
+			"components": [
+				"bathys (deep)",
+				"pelagikos (of the sea)"
+			],
+			"original_statement": "From Greek bathys 'deep' + pelagikos 'of the sea'. The region of the ocean depth between 1,000 and 4,000 meters."
+		},
+		"concept": "The midnight zone (水深1000メートルから4000メートルの「暗黒海域」。ここでは誰もが「自分自身で発光（自己定義）」するしかない。他人の光を頼りにしない、峻烈なる「自立的な実存」の記述)",
+		"thinking": "「バシペラジック（漸深層）」。あなたは。いつも「誰かの言葉（太陽）」を求めて、彷徨（さまよ）ってはいませんか。 bathypelagic。そこには、外部からの光は一切届きません。あるのは。自分を「発光（ルミネッセンス）」させなければ、存在すら確認されない。という。峻烈なる「自己責任」の海。 bathypelagic。暗闇を嘆かず。自分の腹の底（真実）を燃やして。自分だけの「光」を産み出してください。その小さな青い光こそが。誰の借り物でもない、あなたという「宇宙」の、峻烈なる唯一の真実となるのですから。",
+		"part_of_speech": "adjective",
+		"aftertaste": "真っ暗な宇宙の中に、銀色の「星」が静かに流れていく。あの。研ぎ澄まされた「孤独」。そこにある。自分が自分である、という。峻烈なる「確信」。冷たくて、重くて、どこまでも「清らかな」味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "gwadh-",
+					"meaning": "to sink / go deep (from bathys)"
+				},
+				{
+					"term": "plak-",
+					"meaning": "flat / spread out (from pelagikos)"
+				}
+			],
+			"points": [
+				"Plankton（プランクトン／彷徨うもの）や Plane（平原／飛行機）と同じ root。バシペラジックとは。表面的な『平原（プレーン）』を捨て。深淵という名の『三次元の暗闇』へと拡散すること。それは。平面的な社会生活を拒絶し。立体的な『孤独の広がり』を生きる。という。峻烈なる実存の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "epipelagic",
+		"word": "Epipelagic",
+		"meaning": "エピペラジック/表層（ひょうそう）、(太陽の)社交場、浅はかなる輝き、酸素の過剰、生存の狂乱",
+		"era": "Mid-20th Century",
+		"etymology": {
+			"components": [
+				"epi- (upon / over)",
+				"pelagikos (of the sea)"
+			],
+			"original_statement": "From Greek epi- 'upon / over' + pelagikos 'of the sea'. The upper region of the ocean occupied by the sunlit zone."
+		},
+		"concept": "The sunlight zone (太陽の光がたっぷりと降り注ぐ、海の「表層」。そこは「命（欲望）」が最も蠢（うごめ）き、最も早く「消費（腐敗）」される場所。峻烈なる「喧騒（日常）」の記述)",
+		"thinking": "「エピペラジック（表層）」。あなたは。いつも「明るい場所（エピ）」で、他人に「食べられ（消費され）」ることを選んでいませんか。 epipelagic。それは。光が溢（あふ）れ、命が輝く、美しい場所に見えます。でも、そこは。絶え間ない「競争」と「食い合い」が続く、峻烈なる「阿鼻叫喚（あびきょうかん）」の最前線です。 epipelagic。その輝きは、あなたの「本質」ではありません。それは、単なる「反射」です。その浅い海から。いつか、自分の意志で、暗い深淵へと「脱出（潜水）」する。その準備を、常に忘れないでください。",
+		"part_of_speech": "adjective",
+		"aftertaste": "炭酸水のように「パチパチ」と弾（はじ）ける、光の粒子。そこにある。どこまでも「明るい」がゆえの。峻烈なる「空虚」。軽くて、瑞々（みずみず）しい。一瞬で消える、情報の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "epi-",
+					"meaning": "upon / over"
+				},
+				{
+					"term": "plak-",
+					"meaning": "flat / spread out"
+				}
+			],
+			"points": [
+				"Place（場所）や Plague（疫病／打ち抜くこと）、Plate（皿）と同じ root。エピペラジックとは。世界という名の『皿（プレート）』の上で、ただ『平面的』に拡散（プラーク）すること。それは。深さを求めない、峻烈なる『表面的な繁栄』の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "mesopelagic",
+		"word": "Mesopelagic",
+		"meaning": "メソペラジック/中層（ちゅうそう）、(薄明の)境界、移ろいの知性、情報のグラデーション、曖昧なる美",
+		"era": "Mid-20th Century",
+		"etymology": {
+			"components": [
+				"mesos (middle)",
+				"pelagikos (of the sea)"
+			],
+			"original_statement": "From Greek mesos 'middle' + pelagikos 'of the sea'. The region of the ocean depth intermediate between the epipelagic and the bathypelagic zones."
+		},
+		"concept": "The twilight zone (光が微かに届くが、植物プランクトンは育たない、という絶絶妙な「薄暗がり」。それは。白黒はっきりさせない、峻烈なる「グレーゾーンの美学（あるいは迷い）」の記述)",
+		"thinking": "「メソペラジック（中層）」。あなたは。「正しさと間違い」の。どちらかに決めなければならない、という強迫観念に、縛られてはいませんか。 mesopelagic。そこは。光も届くが、闇も深い。峻烈なる「引き裂かれた場所」。 mesopelagic。どちらにもなれない自分を、責めないでください。昼と夜が、永遠に混ざり合うその「薄明（トワイライト）」にこそ。あなたの、最も繊細で、最も「人間らしい（不完全な）」美しさが、宿っているのですから。曖昧（あいまい）さの中に、安住してください。",
+		"part_of_speech": "adjective",
+		"aftertaste": "夕暮れ時の「藍色（あいいろ）」に染まった海。そこにある。帰りたくないような。峻烈なる「寂寥感（せきりょうかん）」。甘くて、苦くて、瑞々しい。移ろいゆく、知の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "medhyo-",
+					"meaning": "middle (from mesos)"
+				}
+			],
+			"points": [
+				"Medium（媒介／ミディアム）や Mediation（瞑想）、Midgard（ミッドガルド／中間の世界）と同じ root。メソペラジックとは。対立する二つの世界の『媒介（ミディアム）』として。自らを『瞑想（メディテーション）』の場にすること。それは。決着を拒み、永遠のペンディングを生きる。という。峻烈なる知のサスペンスの記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "hydrothermal",
+		"word": "Hydrothermal",
+		"meaning": "ハイドロサーマル/熱水（ねっすい）、(暗黒の)発火点、不可能な熱、毒という名の恵み、絶望の中のオアシス",
+		"era": "Late 19th Century",
+		"etymology": {
+			"components": [
+				"hydor (water)",
+				"therme (heat)"
+			],
+			"original_statement": "From Greek hydor 'water' + therme 'heat'. Of or relating to hot water, especially its action in the earth's crust."
+		},
+		"concept": "The hot flow in dark (海底から湧き出す、300度を超える「熱水」。それは。絶望的な「極寒の深海」において。あえて「毒（化学物質）」を食べることで、強靭に生き抜く「特殊な命（知性）」を産み出す、峻烈なる「逆説の熱源」の記述)",
+		"thinking": "「ハイドロサーマル（熱水）」。あなたは。過酷な環境（逆境）にいることを、ただ「不運」だと思っていませんか。 hydrothermal。それは。地底という名の「地獄」から湧き上がる。峻烈なる「暗黒の情熱」。 hydrothermal。太陽（常識）の恵みが及ばない場所だからこそ。あなたは「毒（他人が嫌うもの）」を、自分だけの「糧（かて）」に変え、爆発的な進化を遂げることができる。絶望の淵に咲く「白き煙（ブラック・スモーカー）」のように。あなただけの「異常なまでの命」を、暗闇の中で、美しく噴出させてください。",
+		"part_of_speech": "adjective",
+		"aftertaste": "暗闇の中で、「シュンシュン」と吹き出す、熱い「泥」と「蒸気」。そこにある、死と隣り合わせの。峻烈なる「バイタリティ」。焦げた、瑞々（みずみず）しい。情報の味。硫黄の味がする、情熱。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "wed-",
+					"meaning": "water / wet (from hydor)"
+				},
+				{
+					"term": "gwher-",
+					"meaning": "to heat / warm (from therme)"
+				}
+			],
+			"points": [
+				"Whiskey（ウイスキー／命の水）や Otter（カワウソ／水のもの）、Thermos（魔法瓶）と同じ root。ハイドロサーマルとは。ただの『水（ウィスキー）』に、宇宙の『原罪（熱量）』を注入し。爆発的な『化学反応』を引き起こすこと。それは。常識的な生命の定義を、根底から『書き換える（オーバーライト）』。峻烈なる異端の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "biolith",
+		"word": "Biolith",
+		"meaning": "バイオリス/生物岩、(命の)結晶、蓄積された呼吸、石になった言葉、時間の化石",
+		"era": "Early 20th Century",
+		"etymology": {
+			"components": [
+				"bios (life)",
+				"lithos (stone)"
+			],
+			"original_statement": "From Greek bios 'life' + lithos 'stone'. A rock formed of biological materials."
+		},
+		"concept": "The stone of life (サンゴや貝殻など、生き物の「活動の跡」が重なり合ってできた岩。それは。一つ一つの「個体（単語）」は消えても。その「集大成（言語）」は石のように固く残り、未来を支える「地層」になる。峻烈なる「知的集積」の記述)",
+		"thinking": "「バイオリス（生物岩）」。あなたの「言葉」。それは、ただ空気に消えていく「吐息」になってはいませんか。 biolith。それは。あなたの「生き様（呼吸）」そのものを。長い時間をかけて「石（意志）」へと結晶化させ。いつか誰かがその上を歩くための「堅牢な道」にすること。 biolith。今、あなたが書いているその一文。今、あなたが産み出したそのアイデア。それがいつか、巨大な「文明（サンゴ礁）」の一部になります。目立たなくていい。でも、決して「腐らない（石の）」、峻烈なる「真理の破片」を。毎日、たゆまず残し続けてください。",
+		"part_of_speech": "noun",
+		"aftertaste": "真っ白な「石灰岩（せっかいがん）」の模様を、爪で引っ掻（か）く。そこにある、かつて「生きていたものたち」の。峻烈なる「層」。静止した時間の。硬くて、瑞々しい、記憶の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "gwei-",
+					"meaning": "to live (from bios)"
+				},
+				{
+					"term": "lithos",
+					"meaning": "stone"
+				}
+			],
+			"points": [
+				"Vital（活力ある）や Quick（生きた／早い）、Biology（生物学）と同じ root。バイオリスとは。儚（はかな）い『命（バイオス）』を。不滅の『無機物（リトス）』へと、無理やり転換すること。それは。死という名の終わりを、歴史という名の『継続性』へと克服しようとする、峻烈なる実存の筆致なのです。"
+			]
+		}
+	},
+	{
+		"id": "tsunami",
+		"word": "Tsunami",
+		"meaning": "ツナミ/津波、(圧倒的な)現実、蓄積された不満、静かなる破滅、再構築の一撃",
+		"era": "Late 19th Century (in English)",
+		"etymology": {
+			"components": [
+				"tsu (harbor)",
+				"nami (wave)"
+			],
+			"original_statement": "From Japanese tsunami, from tsu 'harbor' + nami 'wave'."
+		},
+		"concept": "The harbor wave (遠くの深い場所（無意識）で起きた「ズレ（地震）」が。時間をかけて巨大な「水の壁」へと育ち、一気に「港（日常）」を飲み込むこと。それは。見て見ぬふりをしてきた「歪み」が、峻烈なる「正義（破壊）」として現実を上書きする、瞬間の記述)",
+		"thinking": "「ツナミ」。あなたは。「静かな海（安定）」を、永遠のものだとして、あぐらをかいてはいませんか。 tsunami。それは。あなたが無視し続けてきた。地下の、重苦しい「不満（歪み）」が。ある日突然、逃げ場のない「黒い現実」となって、あなたのすべてを「押し流す」、峻烈なる「清算」。 tsunami。それは暴力ですが、それは同時に「リセット」でもあります。すべてを「更地（さらち）」にし。本当に必要なものだけを、もう一度「選び直す」ための。峻烈なる「宇宙の平手打ち」。飲み込まれるな。その「波頭（真実）」の高さに、目を背けず、正面から立ち向かいなさい。",
+		"part_of_speech": "noun",
+		"aftertaste": "「ゴーッ」という、大地を削るような重低音。そこにある、一切の「容赦」がない、峻烈なる「無効化」。すべてが「剥（む）き出し」にされたあとの、沈黙。重くて、瑞々しい。泥の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "Japanese origin",
+					"meaning": "harbor wave"
+				}
+			],
+			"points": [
+				"ツナミとは、人間が作った『港（文明）』という名の『箱庭』を、地球という『現実』が、一撃で破壊すること。それは。予測可能な予定調和を、予測不可能な『絶対的な他者』によって粉砕する、という。峻烈なる『外部性』の記述なのです。"
+			]
+		}
 	}
 ];
