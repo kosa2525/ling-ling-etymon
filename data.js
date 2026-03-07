@@ -214562,5 +214562,199 @@ const WORDS = [
 				"Adult（大人）や Alumnus（卒業生）と同根。育ちきった美しさを指します。"
 			]
 		}
+	},
+	{
+		"id": "luminescent",
+		"word": "Luminescent",
+		"meaning": "冷光を発する、ほのかに光る、自発光の",
+		"era": "Late 19th Century",
+		"etymology": {
+			"components": [
+				"lumen (light)",
+				"-escent (beginning to be, becoming)"
+			],
+			"original_statement": "Coined from Latin lumen 'light' + -escence."
+		},
+		"concept": "Soft inner glow (熱を伴わず、物質の内側から静かに光が滲み出ているような、穏やかで神秘的な輝き)",
+		"thinking": "「輝き」には、太陽のように燃え盛るものもあれば、深海の生物や蛍のように、自らの命の力で「ほのかに灯る」ものもあります。それは、外界からの反射ではなく、その存在そのものが放つ、控えめだが力強い自己表明の光。暗闇が深ければ深いほど、その「光り始める（-escent）」瞬間の美しさは際立つのです。",
+		"part_of_speech": "adjective",
+		"aftertaste": "闇の中でも決して消えることのない、内なる魂の柔らかな灯火（ともしび）。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "leuk",
+					"meaning": "light / brightness"
+				}
+			],
+			"points": [
+				"Lucid（明快な）や Illuminate（照らす）の親戚です。"
+			]
+		}
+	},
+	{
+		"id": "mellifluous",
+		"word": "Mellifluous",
+		"meaning": "甘く流れるような、音楽的な、口当たりの良い",
+		"era": "Early 15th Century",
+		"etymology": {
+			"components": [
+				"mel (honey)",
+				"fluere (to flow)"
+			],
+			"original_statement": "From Late Latin mellifluus, from mel 'honey' + fluere 'to flow'."
+		},
+		"concept": "Flowing like honey (蜂蜜（はちみつ）がゆっくりと滴り落ちるように、甘美で淀みのない、陶酔を誘う旋律)",
+		"thinking": "その人の声や音楽が「メリフルアス」であるとき、それは耳から全身へと「甘い流れ（flu）」が浸透していくような快楽を指します。鋭い角がなく、ただ滑らかに、粘り強く心に絡みついてくる響き。それは、言葉そのものが持つ「重力」から解放され、純粋な「快」としての流体へと昇華された瞬間の谓いなのです。",
+		"part_of_speech": "adjective",
+		"aftertaste": "目を閉じているのに、金色の液体が空間を潤していくのが見えるような錯覚。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "melit",
+					"meaning": "honey"
+				},
+				{
+					"term": "bhleu",
+					"meaning": "to swell / flow"
+				}
+			],
+			"points": [
+				"Fluid（流体）や Mellow（芳醇な）と同じ感覚を共有しています。"
+			]
+		}
+	},
+	{
+		"id": "translucent",
+		"word": "Translucent",
+		"meaning": "半透明の、光を通す、透明感のある",
+		"era": "Late 16th Century",
+		"etymology": {
+			"components": [
+				"trans- (through)",
+				"lucere (to shine)"
+			],
+			"original_statement": "From Latin translucentem, from translucere 'to shine through'."
+		},
+		"concept": "Filtering the light (すべてを透過させるのではなく、光を内側で一度受け止め、その物質のテクスチャという名の「フィルター」を通して放つこと)",
+		"thinking": "完全な透明（トランスパレント）が「無」を志向するなら、半透明（トランスルーセント）は「在ることの厚み」を光として変換する行為を指します。磨りガラスや、薄い花びら。光がその内側を通ることで、その物質の微細な構造（ソウル）が鮮やかに浮かび上がる。それは、あなたの経験が、あなたを通る「運命の光」を独特の色に染め上げている美しさに似ています。",
+		"part_of_speech": "adjective",
+		"aftertaste": "カーテン越しに差す朝陽のように、直接的ではないけれど、すべてを優しく、輪郭をぼかして包み込む光の感触。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "leuk",
+					"meaning": "light / brightness"
+				}
+			],
+			"points": [
+				"Lucent（光る）と同じ根。光が『通過（trans-）』する様を強調します。"
+			]
+		}
+	},
+	{
+		"id": "effervescent",
+		"word": "Effervescent",
+		"meaning": "泡立つ、活気に満ちた、興奮した",
+		"era": "Late 17th Century",
+		"etymology": {
+			"components": [
+				"ex- (out)",
+				"fervere (to boil, glow, foam)"
+			],
+			"original_statement": "From Latin effervescere, from ex- 'out' + fervescere 'begin to boil'."
+		},
+		"concept": "The joy of bubbling over (抑制しきれない喜びが、液体の中から小さな泡（バブル）となって次々と溢れ出し、空間を弾けるエネルギーで満たしている様子)",
+		"thinking": "「泡が立つ」ことの根っこには「沸騰（ファーヴァー）」という熱量があります。しかし、それは怒りではなく、喜びの閾（しきい）値を超えたときに起きる「存在の祝祭」。常に湧き上がり、弾け、自分を「更新」し続ける。そのシュワシュワとした微細な「抵抗」の音こそが、あなたが今まさに「熱を持って」生きている証明なのです。",
+		"part_of_speech": "adjective",
+		"aftertaste": "サイダーの泡が鼻腔（びこう）をくすぐるような、抗（あらが）えない高揚感と、一瞬の鮮烈な輝き。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "bhreu",
+					"meaning": "to boil / bubble"
+				}
+			],
+			"points": [
+				"Fervor（情熱）や Brew（醸造する）と同根。内面の変容から生まれるエネルギーです。"
+			]
+		}
+	},
+	{
+		"id": "seraphic",
+		"word": "Seraphic",
+		"meaning": "燃え上がるような、天使のような、純潔な、至福の",
+		"era": "Late 17th Century",
+		"etymology": {
+			"components": [
+				"seraph (highest order of angels)"
+			],
+			"original_statement": "From Latin seraphicus, from Hebrew seraphim, literally 'the burning ones'."
+		},
+		"concept": "The burning bliss (最高位の天使セラフィムのように、神への愛によって自らを「燃焼」させ、その炎の熱量そのものが最高度の「至福」となっている状態)",
+		"thinking": "「セラフィック」な美しさとは、単なる清らかさではなく、何らかの絶対的な価値（ロゴス）への情熱によって、自我という不純物が「焼き尽くされた（burning）」後の純粋さを指します。その微笑みが「セラフィック」であるなら、それは地上の苦悩をすべて焼き払い、慈愛という名の炎だけが静かに揺らいでいる、神聖な静止の謂いなのです。",
+		"part_of_speech": "adjective",
+		"aftertaste": "夕陽の中に立つ塔のように、自らの中から発せられる光によって、自分という輪郭を消失させていく恍惚（こうこつ）。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "saraph",
+					"meaning": "to burn / fiery serpent"
+				}
+			],
+			"points": [
+				"ヘブライ語で『燃える者』を意味し、知識よりも愛による浄化を象徴します。"
+			]
+		}
+	},
+	{
+		"id": "scintilla",
+		"word": "Scintilla",
+		"meaning": "わずかな、微量、火花、閃き",
+		"era": "Late 17th Century",
+		"etymology": {
+			"components": [
+				"scintilla (spark)"
+			],
+			"original_statement": "From Latin scintilla 'spark'."
+		},
+		"concept": "The atomic spark (巨大な真理の全体は見えなくても、その断片である「一粒の火花」が、暗闇を撃ち抜いて存在を主張していること)",
+		"thinking": "「証拠がわずか（シンチラ）しかない」という法的な文脈から、「知性の火花」までを包含する言葉です。それは、量的な多さではなく、質的な「鋭さ」への信頼。広大な虚無の中に、ただ一点の「実在」が明滅している。その小さな火種を信じ、そこから大きな思想の炎をキンドル（Kindle）していくための、最初の一歩であり、究極の「起点」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "真っ暗な宇宙の果てに、ただ一つだけ瞬いている星の、あの狂おしいほどの存在感と希望。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "skai",
+					"meaning": "to shine"
+				}
+			],
+			"points": [
+				"Scintillating（きらめく）の最小単位です。"
+			]
+		}
+	},
+	{
+		"id": "elysian",
+		"word": "Elysian",
+		"meaning": "楽園のような、至福の、最高の幸せの",
+		"era": "Late 16th Century",
+		"etymology": {
+			"original_statement": "From Latin Elysium, from Greek Elysion pedion 'Elysian Field', where the blessed stay after death."
+		},
+		"concept": "The post-temporal bliss (すべての戦いと葛藤（ドラマ）が終わった後の、永遠の夕暮れの中に広がる穏やかな平原。そこで許された、絶対的な「肯定」の静寂)",
+		"thinking": "ギリシャ神話の死後の楽園「エリュシオン」。そこは選ばれた英雄たちが、もはや誰とも戦う必要がなく、永遠の安らぎを得る場所です。あなたが「エリシアン」な感覚に包まれるとき、それは現実の苦労が報われ、一瞬だけ「生きていて良かった」と世界のすべてを許せる境地に達したということ。地上の重力を脱した、魂の帰還地なのです。",
+		"part_of_speech": "adjective",
+		"aftertaste": "アスフォデルの花が揺れる野原を、何も持たずに、ただ風のように歩き続けている、あの無限の自由。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "elu-",
+					"meaning": "to loose / release (uncertain connectivity)"
+				}
+			],
+			"points": [
+				"Elysium（極楽）はエッフェル塔のあるシャンゼリゼ（Champs-Élysées）の語源でもあります。"
+			]
+		}
 	}
 ];
