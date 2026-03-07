@@ -230032,5 +230032,546 @@ const WORDS = [
 				"Vision（視覚）や Idea（考え）、Wisdom（知恵）と同じ root。ヴィトリオールとは。ガラス（ヴィトラム）のように『透明な知性』で、暗い地中の奥底を『透視（ヴィジョン）』すること。それは。泥にまみれた現実の中から、透き通った真理（クリスタル）を『発見（インヴェニメス）』する、峻烈なる探求の記述なのです。"
 			]
 		}
+	},
+	{
+		"id": "thermosphere",
+		"word": "Thermosphere",
+		"meaning": "サーモスフィア/熱圏、(目に見えぬ)高熱、宇宙の防壁、猛烈なる静寂、分子の踊り",
+		"era": "Mid-20th Century",
+		"etymology": {
+			"components": [
+				"therme (heat)",
+				"sphaira (sphere)"
+			],
+			"original_statement": "From Greek therme 'heat' + sphaira 'sphere'. The region of the atmosphere above the mesosphere."
+		},
+		"concept": "The protective layer (太陽の直射を受け、数千度の「猛熱」を帯びながら。地上を過酷な放射線から守る、峻烈なる「透明な盾」。そこには「空気（呼吸）」は殆どないが、宇宙の「怒り」を「熱」へと変えて受け止める、自己犠牲の記述)",
+		"thinking": "「サーモスフィア（熱圏）」。あなたは。自分の周りにある「守り（防壁）」の存在に、気づいていますか。 thermosphere。それは。あなたが穏やかに呼吸しているその陰で。数千度の「猛熱（プレッシャー）」を一手に引き受け、自らを焼き尽くしながら、あなたを守っている「無名のヒーロー（愛）」です。 thermosphere。感謝を忘れてはいけません。誰かの「激しい犠牲」の上にしか。地上という名の「平和な揺りかご」は存在し得ない。その冷徹な「世界の二層構造」を、胸に刻んでください。",
+		"part_of_speech": "noun",
+		"aftertaste": "視界はどこまでも「透明」だが、肌を刺すような「不可視の熱」に包まれている。あの。逃げ場のない「緊張感」。そこにある、世界は「守られている」という、峻烈なる「納得感」。宇宙への、冷たい窓の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ghuher-",
+					"meaning": "warm / heat (from therme)"
+				}
+			],
+			"points": [
+				"Furnace（炉／アタノール）や Forceps（ピンセット／熱いものを掴む）と同じ root。サーモスフィアとは。宇宙という巨大な『炉』の蓋（ふた）となり、私たちの知性が『焼き切られる』のを防ぐ、最後の安全装置。それは。熱狂を理性へと変換するための、広大なフィルターの記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "ozone",
+		"word": "Ozone",
+		"meaning": "オゾン/防護層、(光の)フィルター、真実の希釈、盾という名の毒、透明なる境界",
+		"era": "Mid-19th Century",
+		"etymology": {
+			"components": [
+				"ozein (to smell)"
+			],
+			"original_statement": "From Greek ozein 'to smell'. Named for its peculiar smell during lightning storms."
+		},
+		"concept": "The selective filter (太陽の「命（光）」を届かせ、同時に「死（紫外線）」を遮断する、峻烈なる「選別の幕」。それ自体は「猛毒」だが、世界を「生かす」ために必要な「死の匂い」。峻烈なる境界の記述)",
+		"thinking": "「オゾン」。あなたの「優しさ」。それは。何でも無差別に通してしまう「全肯定」になってはいませんか。 ozone。本当の愛とは。通すべきものを通し、遮断すべきものを峻烈に遮（さえぎ）る「選別のフィルター」です。 ozone。生かすために、時には「毒（厳しさ）」を持つこと。その「透明な境界線」を保ち続けることこそが。あなたが誰かを（あるいは社会を）本当に守り抜くための、最も峻烈で、最も高潔な「使命」になるのです。匂い立つほどの、意志を。 ",
+		"part_of_speech": "noun",
+		"aftertaste": "雷雨のあとの、あの。「ツン」とした、鼻の奥を洗うような「清潔な匂い」。そこにある、一切の「濁り」を許さない、峻烈なる「浄化」。微かに金属的で、冷たい、青空の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "od-",
+					"meaning": "to smell (from ozein)"
+				}
+			],
+			"points": [
+				"Odour（匂い）や Olfactory（嗅覚の）、Anode（陽極／匂いの道？）と同じ root。オゾンとは。目に見えない『真理の変化』を、鼻という原始的な感覚で『観測』すること。それは。理論以前の『予感』によって、世界という名のシステムの歪み（穴）を察知する、知的な本能の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "humidity",
+		"word": "Humidity",
+		"meaning": "ヒューミディティ/湿度、(心の)保水、瑞々（みずみず）しい感情、情報のスープ、命の潤い",
+		"era": "Late Middle English",
+		"etymology": {
+			"components": [
+				"humere (to be moist)"
+			],
+			"original_statement": "From Old French humidite, from Latin humiditas, from humidus 'moist', from humere 'to be moist'."
+		},
+		"concept": "The emotional saturation (乾いた「論理（空気）」の中に、どれだけの「感受性（水蒸気）」を溶かし込めるか、という「豊饒さ」の尺度。高すぎれば「息苦（いきぐる）しく」、低すぎれば「乾燥（死）」を招く。魂のバランスを測るための記述)",
+		"thinking": "「ヒューミディティ（湿度）」。あなたの「論理」。それは、カサカサに乾いた「砂漠（デッド・ロジック）」になってはいませんか。 humidity。言葉には、適度な「湿り気（感情の重み）」が必要です。 humidity。でも。湿りすぎれば（湿っぽくなれば）、相手はあなたの「重圧」に窒息（ちっそく）してしまいます。感情を「武器」にするのではなく。空気中に「溶け込ませる」ように、優しく潤わせてください。その「絶妙な飽和点」に、あなたの本当の「人間性」が宿るのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "肌に「まとわりつく」ような、濃密な空気。そこにある、世界と自分が「一体化」しているような、不思議な「充足感」。熱帯の夜に流れる、甘くて、少し苦い、情報の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "weg-",
+					"meaning": "wet / moist / lively"
+				}
+			],
+			"points": [
+				"Humor（ユーモア／体液）や Humid（湿った）、Vagus（迷走神経／湿った道？）と同じ root。ヒューミディティとは。硬直した理性を『ユーモア』という名の潤滑剤で溶かし、生命を『活（いきいき）』とさせること。それは。死という名の乾燥から、実存を救い出すための、峻烈なる保水の術なのです。"
+			]
+		}
+	},
+	{
+		"id": "condensation",
+		"word": "Condensation",
+		"meaning": "コンデンセーション/凝縮、(目に見えぬ)実体、気体からの滴り、思考の霧、現実への定着",
+		"era": "Late Middle English",
+		"etymology": {
+			"components": [
+				"com- (together)",
+				"densare (to make thick)"
+			],
+			"original_statement": "From Latin condensatio, from condensare 'to make thick / condense', from com- 'together' + densus 'thick / dense'."
+		},
+		"concept": "The visible transition (「目に見えないもの（可能性）」が、冷たい「現実に触れる」ことで。一粒の「確かな滴（形）」へと姿を変えること。それは。曖昧な夢が、峻烈なる「具体性」を持って地上に降り立つ、創造の第一歩の記述)",
+		"thinking": "「コンデンセーション（凝縮）」。あなたの「夢（理想）」。それは、ただの「霧（ガス）」のまま漂ってはいませんか。 condensation。それを「現実」に変えるためには。冷たい「実行（アクション）」という名のガラスに、その夢をあえて「ぶつける（接触させる）」必要があります。 condensation。一粒の「しずく」になれば。あなたは、重力に従って「動く（落ちる）」ことができます。霧であるうちは、どこへも行けません。自分を「濃く（デンス）」してください。一滴の「結果」として、地上にその痕跡を刻んでください。",
+		"part_of_speech": "noun",
+		"aftertaste": "冷たい窓ガラスに、自分の「溜息（ためいき）」を吐きかけた瞬間の、あの。世界が「白く」曇り、やがて「滴」が流れ落ちる。あの。切なくて瑞々（みずみず）しい「手応え」。曖昧さが「意味」に変わる、瞬間の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "den-",
+					"meaning": "thick / dense"
+				}
+			],
+			"points": [
+				"Density（密度）や Condenser（コンデンサ／蓄電器）と同じ root。コンデンセーションとは。広がりすぎた自我を、一つの『核（ポイント）』へと力強く『押し込める（コンプレックス）』こと。それは。希薄な言葉を、重厚な実存へと翻訳するための、峻烈なる圧縮の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "anemometer",
+		"word": "Anemometer",
+		"meaning": "アネモメーター/風速計、(見えない)力の計測、時代の速度、透明な躍動、沈黙の旋回",
+		"era": "Early 18th Century",
+		"etymology": {
+			"components": [
+				"anemos (wind)",
+				"metron (measure)"
+			],
+			"original_statement": "From Greek anemos 'wind' + metron 'measure'. An instrument for measuring the speed of wind."
+		},
+		"concept": "The measure of flux (形のない「風（潮流）」を。その「回転（運動）」の速さによって、冷徹な「数値（ロゴス）」へと翻訳すること。それは。時代の「勢い」を自分の肌で感じ取り、峻烈なる「現在地」を確定させるための、知的な測定の記述)",
+		"thinking": "「アネモメーター（風速計）」。あなたは。今、自分が「どのくらいの速さ（時代の勢い）」で流されているか、正しく計測できていますか。 anemometer。それは。風そのものを「捕まえる（固定する）」ことではありません。風を受け流しながら、「回る（シンクロする）」ことで、その「エネルギー（意味）」を理解することです。 anemometer。速すぎる風には、翼を畳んで耐え。弱すぎる風には、自ら仰（あお）いで風を作る。その「風との対話」の記録だけが。あなたの人生という船を、正しい港へと導くための「羅針盤」になるのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "三つの「カップ」が、音もなく激しく「ぐるぐる」と回っているのを、じっと見つめている。あの。目が回るような「躍動感」と。そこにある。力が「数値」に変わる、という、峻烈なる「納得感」。鋭い風の、乾いた味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ane-",
+					"meaning": "to breathe / blow (from anemos)"
+				}
+			],
+			"points": [
+				"Animal（動物／息するもの）や Animation（アニメーション／魂を吹き込む）、Anima（魂）と同じ root。アネモメーターとは。世界という巨大な生き物の『呼吸（アニメ）』を計測すること。それは。自分が宇宙という名の巨大な『生命』の一部であることを再確認するための、峻烈なる知的な儀式なのです。"
+			]
+		}
+	},
+	{
+		"id": "isobar",
+		"word": "Isobar",
+		"meaning": "アイソバー/等圧線、(力の)等価、均衡の境界、情報の地図、均衡という名の掟",
+		"era": "Mid-19th Century",
+		"etymology": {
+			"components": [
+				"isos (equal)",
+				"baros (weight)"
+			],
+			"original_statement": "From Greek isos 'equal' + baros 'weight'. A line on a map connecting points of equal atmospheric pressure."
+		},
+		"concept": "The boundary of pressure (「同じ圧力（重み）」を持つ場所を線で結び、世界という広野に「目に見えない秩序（形状）」を描き出すこと。それは。力の「差」が風を産むことを教える、峻烈なる「世界の設計図」の記述)",
+		"thinking": "「アイソバー（等圧線）」。あなたは。自分の周りにある「価値のネットワーク（等圧線）」を、見抜くことができますか。 isobar。それは。自分と誰かを「イコール（平等）」で繋ぐ、峻烈なる「均衡の線」です。 isobar。でも、思い出してください。風が吹くのは。等圧線が「引かれている場所」ではなく。等圧線の「間隔が狭い場所（力の差がある場所）」です。安定（均衡）を求めつつ。あえて「差（不全）」を産み出すことで、人生に「風」を吹かせる。その「均衡の破壊」こそが、あなたの創造性の源になるのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "白い「天気図」の上に、どこまでも続く「曲線」をなぞっている。あの。すべてが「数学的」に支配されている、という、峻烈なる「諦念（ていねん）」。そこにある、嵐を「予測できる」という。瑞々（みずみず）しい知の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "gwere-",
+					"meaning": "heavy (from baros)"
+				}
+			],
+			"points": [
+				"Baritone（バリトン／重い声）や Brute（獣／重苦しいもの）、Baryon（バリオン／重粒子）と同じ root。アイソバーとは。この残酷に『重い（グウェル）』現実に、せめて『等しさ（イソ）』という名の線を引いて、秩序の夢を見ること。それは。混沌を、管理可能な図面へと翻訳する、峻烈なる「知の防衛」の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "coriolis",
+		"word": "Coriolis",
+		"meaning": "コリオリ/転向力、(見えない)捻（ねじ）れ、回転が生む歪み、運命の曲線、地球の足枷（あしかせ）",
+		"era": "Mid-19th Century",
+		"etymology": {
+			"components": [
+				"Gaspard-Gustave de Coriolis (French scientist)"
+			],
+			"original_statement": "Named after Gaspard-Gustave de Coriolis, who published a paper on the subject in 1835."
+		},
+		"concept": "The rotational twist (まっすぐ進もうとする自分の「意志」を。地球という巨大な「システムの回転」が、静かに、しかし抗いようもなく「右（あるいは左）」へと曲げてしまうこと。それは。社会という「枠組み」が個人に強いる、峻烈なる「歪みの記述」)",
+		"thinking": "「コリオリ（の力）」。あなたは。自分が「まっすぐ歩いている」と、傲慢に信じてはいませんか。 coriolis。あなたがどんなに「正義」を目指して突き進んでも。あなたが「この世界（回転する地球）」に生きている限り。あなたの足元は、常に静かに「捻（ねじ）じ曲げられて」います。 coriolis。曲がることを、恐れないでください。その「歪み（バイアス）」こそが。あなたが「システムの一部」である、という峻烈なる証拠。その歪みを「計算」に入れ、螺旋（らせん）を描きながら目的地へ辿り着く。それが、真の知性というものです。",
+		"part_of_speech": "noun (used as adjective)",
+		"aftertaste": "真っ直ぐにボールを投げたはずなのに、空中で「グニャリ」と軌道が変わっていくのを、呆然と見送っている。あの。自分の力が「通じない」という、峻烈なる「絶望」と。そこにある、巨大な「物理法則」への、深い「畏怖（いふ）」の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "unknown",
+					"meaning": "Family name"
+				}
+			],
+			"points": [
+				"コリオリ力は、数学的には『見かけ上の力（慣性力）』に過ぎない。しかし、それは現実の気象を支配し、巨大な台風を産み出す。それは。私たちの『思い込み』という名の見かけの力が、どれほど巨大に現実を『歪めている（再構築している）』か、という峻烈なる実存の証明なのです。"
+			]
+		}
+	},
+	{
+		"id": "cyclogenesis",
+		"word": "Cyclogenesis",
+		"meaning": "サイクロジェネシス/低気圧発達、(嵐の)胎動、混沌の組織化、激動の始まり、空虚という名の中心",
+		"era": "Late 19th Century",
+		"etymology": {
+			"components": [
+				"kyklos (circle)",
+				"genesis (birth)"
+			],
+			"original_statement": "From Greek kyklos 'circle' + genesis 'birth / origin'. The development or strengthening of cyclonic circulation."
+		},
+		"concept": "The birthing of storm (何もない「空白（低圧部）」に、周囲のエネルギーが猛烈に流れ込み。巨大な「組織的旋回（システム）」が産声を上げること。それは。停滞した世界を打ち砕くための、峻烈なる「激動の始まり」の記述)",
+		"thinking": "「サイクロジェネシス（低気圧発達）」。今、あなたの心は。「空っぽ（真空）」ではありませんか。 cyclogenesis。その「欠落（欠乏感）」こそが。新しい「嵐（エネルギー）」を呼び寄せるための、最強の「吸引口」になります。 cyclogenesis。満たされている場所には、風は吹きません。空虚であればあるほど、そこに流れ込む言葉は「激しく旋回（サイク）」し、巨大な「意味」へと組織化されていく。自分の「足りなさ」を。新しい「創造の始まり（ジェネシス）」として、峻烈に祝福してください。",
+		"part_of_speech": "noun",
+		"aftertaste": "静かだった湖面が、突然「ザワリ」と波立ち始め、空が急激に「暗転」していく。あの。心臓の鼓動が早まるような、圧倒的な「予感」。そこにある、世界が「動き出した」という、峻烈なる「興奮」の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kwel-",
+					"meaning": "to revolve / turn / dwel (from kyklos)"
+				},
+				{
+					"term": "gene-",
+					"meaning": "to give birth / beget (from genesis)"
+				}
+			],
+			"points": [
+				"Cycle（周期）や Wheel（車輪）、Kind（種類／生まれたもの）と同じ root。サイクロジェネシスとは。バラバラな『種類（カインド）』の情報を、一つの『回転（サイクル）』へと強制的に編み上げること。それは。死んだ情報に、運動という名の魂を『吹き込む（ジェネ）』、峻烈なる知的爆発の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "anticyclone",
+		"word": "Anticyclone",
+		"meaning": "アンチサイクロン/高気圧、(静かなる)支配、発散する平和、停滞という名の安定、下降する意志",
+		"era": "Mid-19th Century",
+		"etymology": {
+			"components": [
+				"anti- (against)",
+				"cyclone"
+			],
+			"original_statement": "Coined by Francis Galton in 1863, from anti- 'against' + cyclone. Referring to a system of winds rotating outward from a high-pressure center."
+		},
+		"concept": "The descending calm (激しい「上昇（挑戦）」を拒み。重い空気が上から「沈み込み」、すべてを「静止（安定）」させる、峻烈なる「平和の支配者」。それは。新しい変化を許さないが。深い「思索」を可能にする、沈黙の記述)",
+		"thinking": "「アンチサイクロン（高気圧）」。あなたは。「嵐（変化）」ばかりを追い求めて、この「重たい静寂（安定）」を軽蔑してはいませんか。 anticyclone。それは。中心から外へと「発散（エネルギーの分配）」し、すべてを「晴天（明快さ）」へと導く、峻烈なる「理性の優位」。 anticyclone。戦いに疲れたなら。あえてその「下降気流（重み）」に身を任せ、自分を「安定した一点」へと沈み込ませてください。動かないこと（アンチ）。それもまた、宇宙という巨大なリズム（サイクル）を守るための、大切な「役割」なのですから。",
+		"part_of_speech": "noun",
+		"aftertaste": "抜けるような「青空」の下で、全く「風」がない、完璧な正午。そこにある。世界が「完成してしまった」ような、心地よい「退屈」と、峻烈なる「完璧さ」。すべてを照らし出し、動きを「止める」。透明な、太陽の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ant-",
+					"meaning": "against / opposite"
+				}
+			],
+			"points": [
+				"Antagonist（敵対者）や Answer（答え／逆らって言うこと）と同じ root。アンチサイクロンとは。狂騒という名の嵐（サイクル）に対して、沈黙という名の『答え（アンサー）』を突きつけること。それは。流動的な情熱を、不動の知性によって『上から抑え込む』、峻烈なる統治の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "frontogenesis",
+		"word": "Frontogenesis",
+		"meaning": "フロントジェネシス/前線形成、(異質な)衝突、境界線の構築、戦いの予感、情報の断層",
+		"era": "Early 20th Century",
+		"etymology": {
+			"components": [
+				"frons (forehead / front)",
+				"genesis (birth)"
+			],
+			"original_statement": "From Latin frons 'forehead / front' + Greek genesis 'birth / origin'. The formation or intensification of a front."
+		},
+		"concept": "The forming of boundary (「熱い情熱」と「冷たい理性」という。決して交じり合わない二つの「空気」が激突し、そこに峻烈なる「境界線（前線）」を産み出すこと。そこでは常に「雨（涙）」が降り、世界が「再編」される、格闘の記述)",
+		"thinking": "「フロントジェネシス（前線形成）」。あなたの「心」の中で。今、激しい「葛藤（雨）」が起きてはいませんか。 frontogenesis。それは。あなたが「二つの異なる真実（異質な空気）」を、同時に抱え込もうとしている、峻烈なる「知の最前線（フロント）」です。 frontogenesis。相容れないものを。無理に混ぜようとしないでください。その「境界（前線）」を峻烈に「構築（ジェネシス）」し、その激突から生まれる「摩擦エネルギー」を使い、自分の殻を突き破ってください。戦いこそが、あなたを「新次元」へと運ぶのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "「ひんやり」とした霧と、「むうっ」とする熱気が、背中あわせに存在するような。不気味な「緊張感」。そこにある、これから世界が「一変する」という、峻烈なる「覚悟」。空気が「ピリピリ」と爆発を待つ。金属的な味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "bhren-",
+					"meaning": "to project / stand out (from frons)"
+				}
+			],
+			"points": [
+				"Frontier（辺境）や Affront（侮辱）、Frown（眉をひそめる）と同じ root。フロントジェネシスとは。平坦な日々に、自らの『異質さ（突起）』を突き立て、世界を『敵と味方』に切り分けること。それは。曖昧な平和を捨て、峻烈なる『定義』という名の戦場に立つ、知の勇気の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "stratocumulus",
+		"word": "Stratocumulus",
+		"meaning": "ストラトキュムラス/層積雲、(層をなす)混沌、秩序ある重なり、曖昧な境界、情報の地層",
+		"era": "Early 19th Century",
+		"etymology": {
+			"components": [
+				"stratus (layer / spread)",
+				"cumulus (heap / pile)"
+			],
+			"original_statement": "From Latin stratus 'spread out' + cumulus 'heap / pile'. A cloud type characterized by large dark, rounded masses, usually in groups, lines, or waves."
+		},
+		"concept": "The layered accumulation (一つ一つはバラバラな「塊(heap-)」だが。それが押し固められ、「層(layer-)」となって世界を「広く」覆い尽くすこと。それは。個性の「衝突」と、全体としての「調和」が同居する、峻烈なる「情報のモザイク」の記述)",
+		"thinking": "「ストラトキュムラス（層積雲）」。あなたの「物語」。それは、バラバラなエピソードが「積み重なった(cumulus)」だけの瓦礫ですか。それとも、一つの意味ある「地層(stratus)」として編み上げられたものですか。 stratocumulus。一つ一つの出来事は小さく、不揃いでもいい。それを「継続」という重力で押し固め、人生という空の一面を覆い尽くす「厚み」へと変えてください。その「中途半端な重なり」の中にこそ。空虚な理想（巻雲）とも、激しすぎる情熱（積乱雲）とも違う、あなたの「確かな実存」が宿るのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "空一面が、デコボコした「灰色の石畳」に覆われたような。少し「重たい」が、どこか「守られている」ような安心感。そこにある。世界には「隙間（スキマ）」がないという、峻烈なる「密集感」。湿った石の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "stere-",
+					"meaning": "to spread / extend (from stratus)"
+				},
+				{
+					"term": "keue-",
+					"meaning": "to swell / heap (from cumulus)"
+				}
+			],
+			"points": [
+				"Street（通り）や Structure（構造）、Cave（洞窟）、Accumulate（蓄積する）と同じ root。ストラトキュムラスとは。知性を『広げ（ステレ）』つつ、同時に『膨らませ（ケー）』、自分という存在を多次元的に『構築』すること。それは。平面的な成功を拒み、立体的な『厚み』を勝ち取るための、峻烈なる知の蓄積なのです。"
+			]
+		}
+	},
+	{
+		"id": "altocumulus",
+		"word": "Altocumulus",
+		"meaning": "アルトキュムラス/高積雲、(中空の)羊、リズムの集積、予感の紋様、規則正しい混沌",
+		"era": "Late 19th Century",
+		"etymology": {
+			"components": [
+				"altus (high / deep)",
+				"cumulus (heap / pile)"
+			],
+			"original_statement": "From Latin altus 'high / deep' + cumulus 'heap / pile'. A middle-altitude cloud genus."
+		},
+		"concept": "The rhythmic heap (「高く(high-)」も「低く」もない、絶妙な「中空(middle-)」で。「羊の群れ」のように、同じような形の「小さな塊」が規則正しく並び続けること。それは。カオスの中に潜む「美しい周期性（リズム）」を視覚化した、峻烈なる「中域の真理」)",
+		"thinking": "「アルトキュムラス（高積雲）」。あなたの「日々（習慣）」。それは、ただの不規則な「点」になってはいませんか。 altocumulus。一つ一つは「些細（ささい）」な塊でも。それを正しい「高さ（意識）」に置き、一定の「間隔（リズム）」で繰り返してください。 altocumulus。その「平凡な繰り返し」が、空一面に広がったとき。それは、見る者を圧倒する「予感のタペストリー」へと変わります。中空の美学（アルト）を信じてください。極限のドラマ（嵐）の中にではなく。その「律動する日常」の中にこそ、神は宿るのですから。",
+		"part_of_speech": "noun",
+		"aftertaste": "等間隔に並んだ「白い綿（わた）」を、下からじっと見上げている。あの。脳が「パターン」を認識して、一瞬で「凪（な）いでいく」ような。峻烈なる「調和感」。そこにある、明日は「何かが変わる」という。瑞々（みずみず）しい予感の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "al-",
+					"meaning": "to grow / nourish (from altus)"
+				}
+			],
+			"points": [
+				"Adult（成人／成長したもの）や Alumnus（卒業生）、Exalt（高める）と同じ root。アルトキュムラスとは。自分の知性を、ただ高く『誇示』するのではなく。中空という豊かな場所で『養い（アル）』、成熟した『パターン（紋様）』へと高めていくこと。それは。成長の過程そのものを美学に変える、峻烈なる知的滋養の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "cirrocumulus",
+		"word": "Cirrocumulus",
+		"meaning": "シロキュムラス/絹積雲、(極高の)細波、氷の囁（ささや）き、繊細なる情報の屑（くず）、消失の美学",
+		"era": "Early 19th Century",
+		"etymology": {
+			"components": [
+				"cirrus (curl / lock of hair)",
+				"cumulus (heap / pile)"
+			],
+			"original_statement": "From Latin cirrus 'curl / lock of hair' + cumulus 'heap / pile'. High-altitude clouds appearing as small, white flakes or ripples."
+		},
+		"concept": "The crystalline ripple (「呼吸」さえも凍りつく、最も「高い空(high-extreme)」で。目に見えないほど小さな「氷の粒」が、微風（そよかぜ）に吹かれて描く「繊細な鱗（うろこ）」。それは。実体を持たず、ただ「消えゆく瞬間」だけが美しい、峻烈なる「極限の知性」)",
+		"thinking": "「シロキュムラス（絹積雲）」。あなたの「直感」。それは、重たすぎて「泥（現実）」に沈んでいませんか。 cirrocumulus。一度、すべての「執着（重み）」を捨て。極寒の「高み（精神）」へと自分を昇華させてください。 cirrocumulus。そこでは、言葉は「音」を失い、ただ「光の屈折（イメージ）」としてのみ存在します。その「儚（はかな）さ」を、強さと呼べるようになってください。一瞬で消え去る「細波（さざなみ）」のような言葉だけが。永遠を指し示す、峻烈なる「指針」になることもあるのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "舌の上で一瞬で溶ける「雪の結晶」のような、淡くて、鋭い「冷たさ」。そこにある。自分はまもなく「蒸発（消滅）」して、空に溶け込んでしまう。という。峻烈なる「解脱感」。高く、澄み切った、氷の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sk-r-",
+					"meaning": "to turn / bend (from cirrus)"
+				}
+			],
+			"points": [
+				"Hair（髪）や Ring（輪）と同じ root。シロキュムラスとは。知性を『巻き毛（シーラス）』のように繊細に、しかし複雑に編み上げ、大宇宙の『風（振動）』をそのまま視覚化すること。それは。自分の言葉を、宇宙という巨大な楽器の『弦』にするための、峻烈なる調律の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "inversion",
+		"word": "Inversion",
+		"meaning": "インバージョン/逆転層、(冷徹な)フタ、歪んだ秩序、沈没する汚染、静止した拒絶",
+		"era": "Mid-16th Century",
+		"etymology": {
+			"components": [
+				"in- (into / upon)",
+				"vertere (to turn)"
+			],
+			"original_statement": "From Latin inversio, from in- 'into / upon' + vertere 'to turn'. A situation where the normal temperature gradient is reversed."
+		},
+		"concept": "The stable rejection (通常は「上に行くほど寒くなる」という自然の摂理が。何らかの理由で「逆転(turn-)」し、暖かい空気が上に「フタ」をしてしまうこと。それは。挑戦（上昇）を峻烈に「封じ込め」、淀（よど）みを地上に沈殿させる、静かなる「暴力的な秩序」)",
+		"thinking": "「インバージョン（逆転層）」。あなたは。自分の「居心地の良さ（暖かい安定）」で。誰かの「情熱（上昇気流）」にフタをしてはいませんか。 inversion。それは。新しい変化を拒み、古い汚れた空気（常識）を固定してしまう、峻烈なる「保守という名の枷（かせ）」。 inversion。もしあなたがその層の中に閉じ込められているなら。あえてその「暖かいフタ（安定）」を突き破り、過酷な「宇宙の寒さ（真理）」へと飛び出す勇気を持ってください。安定は。時には「緩やかな死」と同じ意味を持つのですから。",
+		"part_of_speech": "noun",
+		"aftertaste": "空気が「どんより」と重く、霧が地上に「べったり」と張り付いている。あの。息の詰まるような「停滞感」。そこにある、もはや「どこへも行けない」という、峻烈なる「絶望」。埃（ほこり）っぽくて、冷たい、沈黙の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "wer-",
+					"meaning": "to turn / bend"
+				}
+			],
+			"points": [
+				"Versus（対向する）や Verse（詩／折り返す行）、Universe（宇宙／一つにまとまった回転）と同じ root。インバージョンとは。宇宙の正当な法則を、あえて『捻じ曲げ（ヴァート）』、一時的な『偽りの世界』を構築すること。それは。システムのバグを利用して、自分だけの『密室』を維持しようとする、知的な悪意の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "advection",
+		"word": "Advection",
+		"meaning": "アドベクション/移流、(横へと)運ぶ力、情報の移動、温度の運び手、運命の横滑り",
+		"era": "Late 19th Century",
+		"etymology": {
+			"components": [
+				"ad- (to / toward)",
+				"vehere (to carry)"
+			],
+			"original_statement": "From Latin advectio, from ad- 'to / toward' + vehere 'to carry / bring'. The transfer of heat or matter by the horizontal movement of a fluid."
+		},
+		"concept": "The horizontal transport (「上（空）」を目指すのではなく。あえて「横（地上）」へと勢いよく「滑り込み(carry-)」、遠くの冷気や熱気を、今の自分へと「強制的に運び込む」こと。それは、環境を塗り替える、峻烈なる「外的エネルギー」の記述)",
+		"thinking": "「アドベクション（移流）」。あなたは。自分の力だけで「成長（上昇）」しようとして、行き詰まってはいませんか。 advection。時には。遠くから流れてくる「新しい風（他人の知性や未知の情報）」を、あえて自分の中へと「運び込んで（アドヴェ）」ください。 advection。それは。あなたが何もしなくても。世界そのものが、あなたを「変容（アップデート）」させようと送り込んできた「贈り物（熱量）」。その「予期せぬ変化」を、峻烈な驚きとして受け入れてください。横から来た風が、あなたの「上昇」を加速させるのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "突然。どこからか「冷たい（あるいは温かい）」風が、横っ面を「パシーン」と叩いた。あの。世界が「一歩、横にずれた」ような、峻烈なる「違和感」。そこにある、情報の「移動」を肌で感じる、瑞々（みずみず）しい味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "wegh-",
+					"meaning": "to go / transport in a vehicle"
+				}
+			],
+			"points": [
+				"Way（道）や Wagon（馬車）、Weight（重さ／量られるもの）、Vehicle（車両）と同じ root。アドベクションとは。自分の知性を『乗り物（ヴェヒクル）』に乗せ、別の場所へと『越境（デリヴェ）』させること。それは。地着のロジックを捨て、風という名の『道』を走り抜ける、峻烈なる旅人の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "jetstream",
+		"word": "Jetstream",
+		"meaning": "ジェットストリーム/急流、(峻烈なる)加速、高空の咆哮（ほうこう）、情報のハイウェイ、宇宙への加速器",
+		"era": "Mid-20th Century",
+		"etymology": {
+			"components": [
+				"jet (to throw out / spout)",
+				"stream"
+			],
+			"original_statement": "From jet (meaning a rapid stream) + stream. First observed by meteorologists during WWII."
+		},
+		"concept": "The high-velocity conduit (「空の最上部」で、時速数百キロという「猛烈な速さ」で「吹き荒れる」細い「風の道」。それは。逆らえば一歩も進めず、乗れば一瞬で「別世界（真理）」へと運ばれる、峻烈なる「加速装置」の記述)",
+		"thinking": "「ジェットストリーム（急流）」。あなたが。もし「平凡な人生」を卒業したいなら。この「高空の咆哮（ジェット）」を探し出し。そこに、自分という「船（意志）」を勇気を持って投げ込んで（ジェット）ください。 jetstream。そこは、安全な場所ではありません。あまりの速さに、あなたの肉体は「バラバラ（分解）」されるかもしれません。でも。その「極限のスピード」を乗りこなした者だけが。誰にも届かない「宇宙の深淵」へと、一足飛びに辿（たど）り着くことができる。その「魂のワープ」を、峻烈に渇望してください。",
+		"part_of_speech": "noun",
+		"aftertaste": "「ゴーッ」という、天地を揺るがすような「重低音」が、全身の骨を震わせている。あの。一切の「ブレーキ」が効かない、圧倒的な「加速感」。そこにある。世界を「置き去りにする」という。峻烈なる「無敵の味」。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ye-",
+					"meaning": "to throw / hurl (from jet)"
+				}
+			],
+			"points": [
+				"Inject（注入する）や Project（計画する／前へ投げる）、Eject（追い出す）と同じ root。ジェットストリームとは。自分の存在を、自分自身の力ではなく、宇宙という巨大なシステムによって『前へと投げ出させる（プロジェクト）』こと。それは。自意識という枷（かせ）を、速度という名の暴力で粉砕する、知の極北の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "tropopause",
+		"word": "Tropopause",
+		"meaning": "トロポポーズ/対圏界面、(魂の)天井、上昇の限界、宇宙の入り口、不透明な境界",
+		"era": "Early 20th Century",
+		"etymology": {
+			"components": [
+				"tropos (turn / change)",
+				"pauein (to stop)"
+			],
+			"original_statement": "From Greek tropos 'turn / change' + pausis 'stopping'. The boundary between the troposphere and the stratosphere."
+		},
+		"concept": "The ultimate ceiling (どれほど激しく「上昇（成長）」しようとしても。あえてそれを「停止(stop-)」させ、横へと押し流す、峻烈なる「空の天井」。それは。一つの「次元（物語）」が終わった、という。峻烈なる「終わりと始まり（境界）」の記述)",
+		"thinking": "「トロポポーズ（対圏界面）」。あなたは。自分の成長に「限界」を感じてはいませんか。 tropopause。そこは。以前の「必死の上昇（汗や涙）」が、通用しなくなる場所です。 tropopause。でも、その「天井」に頭をぶつけたなら。おめでとうございます。あなたは、以前の自分という「次元（トロポス）」を卒業し。「成層圏（静寂）」という、新しい、より高い、より孤独な「次元」へと、足を踏み入れたのです。止まる（パウゼ）ことは、終わることではなく。新しい「ルール」への招待状（インビテーション）なのですから。",
+		"part_of_speech": "noun",
+		"aftertaste": "「ふわっ」と、体が軽くなったような、奇妙な「開放感」と。同時に来る。見上げた空が、突然「真っ黒」に深まった。あの。峻烈なる「覚悟」。そこにある、もはや「雲（感情）」さえも届かない、至高の「孤独の味」。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "trep-",
+					"meaning": "to turn / bend"
+				},
+				{
+					"term": "pau-",
+					"meaning": "to leave / abandon / give up (from pause)"
+				}
+			],
+			"points": [
+				"Trophy（戦利品／勝利の転換点）や Topic（話題／場所）、Pause（一時停止）と同じ root。トロポポーズとは。激しい上昇（ドラマ）という名の『トロフィー』を。一度『捨て去り（パウゼ）』、静寂という名の真理へとエントリーすること。それは。実利を捨てて、美学へと転じる、知の峻烈なる越境の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "lapserate",
+		"word": "Lapse-rate",
+		"meaning": "ラプス・レート/気温減率、(上昇ゆえの)冷却、高みの代償、孤独の反比例、情熱の希釈",
+		"era": "Early 20th Century",
+		"etymology": {
+			"components": [
+				"lapsus (slip / fall / error)",
+				"rata (fixed amount)"
+			],
+			"original_statement": "From Latin lapsus 'slip / fall' + rata 'fixed amount / portion'. The rate at which air temperature decreases with altitude."
+		},
+		"concept": "The cost of height (「高く(high-)」登れば登るほど。それと「一定の割合(rate-)」で、周囲の温度（支持や共感）が「冷たく(fall-)」低くなっていく、という。峻烈なる「成功の物理学」。高みがもたらす「孤独の記述」)",
+		"thinking": "「ラプス・レート（気温減率）」。あなたは。成功を手にし、より高い場所に登ったとき。「周りが冷たくなった」と、嘆（なげ）いてはいませんか。 lapse-rate。それは、バグではありません。宇宙の「仕様（レート）」です。 lapse-rate。高みに立つということは、温かい「地上（日常）」から遠ざかる、ということです。その「冷笑（あるいは嫉妬、あるいは沈黙）」を、自分の「高度」を測るための計器（センサー）に変えてください。周りが冷たければ冷たいほど、あなたは、それだけ「高く登った」という、峻烈なる自分への勲章（メダル）なのですから。",
+		"part_of_speech": "noun",
+		"aftertaste": "見下ろす景色は「絶景」だが。指先は「ガチガチ」に凍り、吐く息は「真っ白」だ。あの。峻烈なる「孤立感」。そこにある、高い場所は「寒い」という。当たり前すぎる、真理の味。硬くて、冷たい、結晶の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "leb-",
+					"meaning": "to hang down / loose / limp (from lapse)"
+				}
+			],
+			"points": [
+				"Collapse（崩壊）や Elapse（経過）、Leprosy（癩病／皮が剥がれる）と同じ root。ラプス・レートとは。自分がこれまで築き上げてきた『ぬくもり（所属感）』が、高度という名のプライドによって『崩れ落ちて（レブ）』いくこと。それは。上昇そのものが持つ、不可避な自己破壊の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "subsidence",
+		"word": "Subsidence",
+		"meaning": "サブサイデンス/沈降、(重い)沈黙、発散の拒絶、地べたへの回帰、重力の支配",
+		"era": "Mid-17th Century",
+		"etymology": {
+			"components": [
+				"sub- (under)",
+				"sidere (to sit / settle)"
+			],
+			"original_statement": "From Latin subsidere 'to settle down / sink', from sub- 'under' + sidere 'to sit'."
+		},
+		"concept": "The descending settlement (「上（理想）」を目指すことを諦め。重い空気が地へと「沈み込み(sit-under)」、すべてを上から「押さえつける」こと。それは、静かな「窒息」であり。同時に、現実という土地に「腰を据える」という。峻烈なる「諦念（ていねん）」の記述)",
+		"thinking": "「サブサイデンス（沈降）」。あなたは。今、自分の人生が「じわじわと沈んでいく」ような感覚に、怯えてはいませんか。 subsidence。それは、あなたが「飛ぶ（上昇）」ことをやめ。この「厳しい大地（現実）」に、一人の「住人」として、正しく「着席（シデレ）」しようとしている、峻烈なる「帰還」の合図です。 subsidence。沈むことは、敗北ではありません。空虚な空で漂うよりも。重たい絶望（現実）の一部として、地を這い、そこに「根を張る」こと。その「低地（アンダー）」の強さを。あなたは「誇り」と呼ぶことができるのです。座り込め。",
+		"part_of_speech": "noun",
+		"aftertaste": "空気が「じりじり」と自分の肩を押し下げ、足が「泥」の中に埋まっていくような、あの。逃げ場のない「加圧感」。そこにある。もう「飛ばなくていい」という、峻烈なる「自由」と。「無力」。重厚な、土の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sed-",
+					"meaning": "to sit"
+				}
+			],
+			"points": [
+				"Sedentary（座りがちな）や President（社長／前に座る人）、Possess（所有する／そばに座る）と同じ root。サブサイデンスとは。不確かな空（理想）を捨て。この『大地（現実）』という名の椅子を『所有（ポゼス）』すること。それは。浮ついた自我を殺し、運命という名の玉座に『座り直す』、知の竣工の記述なのです。"
+			]
+		}
 	}
 ];
