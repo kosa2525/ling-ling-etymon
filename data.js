@@ -223690,5 +223690,558 @@ const WORDS = [
 				"集めること（ロゴス）と引っ掻くこと（グラム）。ロゴグラムは、世界中の智慧（ちえ）を一つの『傷』の中に集約した、究極の記録メディアなのです。"
 			]
 		}
+	},
+	{
+		"id": "basalt",
+		"word": "Basalt",
+		"meaning": "玄武岩、黒き火山石、柱状節理、秩序ある冷却、硬質な闇",
+		"era": "Early 17th Century",
+		"etymology": {
+			"original_statement": "From Latin basaltes, a misspelling of Greek basanites 'touchstone', from basanos 'test / trial / touchstone', plural used to describe the hard, dark African stone."
+		},
+		"concept": "The tested blackness (激しい「情熱（マグマ）」が、地表という「現実（ロゴス）」に出会い。急激に「冷却」される過程で、自らを「六角柱」という「幾何学的な秩序」へと結晶化（クリスタライズ）させた、硬質で不屈な「沈黙」)",
+		"thinking": "「バサルト（玄武岩）」。それは。かつて燃え盛っていた「叫び」が、沈黙を選んだあとの姿。ルーツは「試金石（バサノス）」。本物かどうかを「試す」ための石。あなたが、自分の激しい感情を、冷徹な理性の型（フォーム）に流し込み、微動だにしない「強固な意志（ルール）」へと鍛（きた）え上げるとき。あなたの魂は、この黒く美しいバサルトのような輝きを放ち始めます。硬さは、静かな情熱の証明なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "海岸線に並ぶ、巨大な六角形の石の柱。波に洗われ、どこまでも黒く、どこまでも「真っ直ぐ」な、あの。自然界にはあり得ないような「幾何学的」な、峻烈なまでの美の秩序。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "unknown",
+					"meaning": "Ethiopian word according to Pliny / Greek 'basanos' (touchstone)"
+				}
+			],
+			"points": [
+				"Touchstone（試金石）としての basanos。真実を測り、虚飾を削ぎ落とす『基準』としての石、という峻烈な役割を担っています。"
+			]
+		}
+	},
+	{
+		"id": "pumice",
+		"word": "Pumice",
+		"meaning": "軽石、泡立つ石、ボイドに満ちた絶望、浮き上がる虚無",
+		"era": "Late 14th Century",
+		"etymology": {
+			"components": [
+				"pumex (pumice)",
+				"pume (foam / scum)"
+			],
+			"original_statement": "From Old French pumis, from Latin pumicem, from pume 'foam / scum' (cognate with English foam)."
+		},
+		"concept": "The stone of foam (「石（固体）」でありながら。その内部に無数の「空気（虚無）」を「泡(pum-)」として孕（はら）み。重力を拒んで「水に浮く」という、矛盾に満ちた「軽やかな堅牢」さ)",
+		"thinking": "「パミス（軽石）」。それは、大爆発の瞬間に「叫び」を閉じ込めたまま固まった、石の「悲鳴」。重い現実（マテリアル）を持ちながら、中身は空洞（ボイド）だらけ。あなたが、あまりにも過酷な体験をし、心が「カサカサ」に乾いてしまったと感じるとき。あなたはパミスのような「空っぽの重み」を生きているのかもしれません。しかし、だからこそ。あなたは、沈みゆく世界の中で「プカプカと浮き続ける」ことができるのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "指先で触れる、ザラザラとした。どこか「不健康」なまでの軽さ。水に入れた瞬間に、白い泡を吐き出しながら浮き上がる、あの。不条理で、どこか滑稽（こっけい）なまでの「存在の否定」。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "spu-me-",
+					"meaning": "to foam / spit"
+				}
+			],
+			"points": [
+				"Spume（泡）や Foam（泡）と同じ root。大地が『吐き出した（スプー）』、沈殿物（スカム）としての石、というのが本来の意味です。"
+			]
+		}
+	},
+	{
+		"id": "lava",
+		"word": "Lava",
+		"meaning": "溶岩、(流れ出す)火、大地の流血、清算の川、不可逆な変化",
+		"era": "Mid-18th Century",
+		"etymology": {
+			"components": [
+				"lavare (to wash)"
+			],
+			"original_statement": "From Italian lava, from lavare 'to wash' (used in Naples for a stream of water or lava after rain, 'washing away' the streets)."
+		},
+		"concept": "The washing fire (ただの「熱」ではなく。すべてを「押し流し(lav-)」「焼き尽くし(burn)」「地誌（風景）」そのものを「一新（リセット）」してしまう。不可逆で、かつ神聖な「地の破滅（クリアランス）」)",
+		"thinking": "「ラーヴァ（溶岩）」。そのルーツは驚くことに「洗うこと（ラヴァーレ）」。かつての人々にとって、溶岩とは。街を焼き払う「恐怖」であると同時に。古い汚れをすべて一掃（クリア）し、世界を真っさらな「黒いキャンバス」へと「洗い流す」ための、劇烈な「洗剤」でもあったのです。あなたの怒りや情熱が溶岩（ラーヴァ）のように溢（あふ）れ出したとき。それは今の自分を「焼き清める」ための、聖なる儀式なのかもしれません。 ",
+		"part_of_speech": "noun",
+		"aftertaste": "暗闇を赤く染めて、ドロドロと進む「光の蛇」。それが通り過ぎたあとに残る。煙を上げる、真っ黒な。誰も立ち入ることのできない、圧倒的な「静寂」の廃墟。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "low-",
+					"meaning": "to wash"
+				}
+			],
+			"points": [
+				"Lavatory（洗面所）や Lotion（ローション）と同じ root。命の汚れを落とすには、時に『火の洗濯』が必要であることを物語っています。"
+			]
+		}
+	},
+	{
+		"id": "subduction",
+		"word": "Subduction",
+		"meaning": "沈み込み、(プレートの)沈み込み、隷属的な下降、引きずり込まれる運命",
+		"era": "Mid-20th Century (though stems are ancient)",
+		"etymology": {
+			"components": [
+				"sub- (under)",
+				"ducere (to lead)"
+			],
+			"original_statement": "From Latin sub- 'under' + ducere 'to lead / pull'."
+		},
+		"concept": "The forced descent (強大すぎる「力」によって、大地（誇り）が「下（sub-）」へと強引に「引きずり込ま(duc-)」れ。灼熱の「深奥（マントル）」へと還元（リダクション）されていく。逃れようのない「絶対的な屈服」と、それに伴う「激動（クエイク）」の予感)",
+		"thinking": "サブダクション（沈み込み）。それは。逆らえない「巨大な組織（システム）」の重圧によって。あなたが、自分の「個（セルフ）」という大地を、じわじわと「闇」の底へと引きずり込まれていく、あの感覚。しかし。引きずり込まれた大地は。マントルの熱で再び溶け合い、いつか別の場所で「新しい火山（クリエイション）」となって、高く立ち上がります。沈むことは。次の爆発のための「充電」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "大地が「ミシリ」と音を立てて。海（あるいは他者）の下へと、ゆっくりと、しかし確実に吸い込まれていく。あの。逆らうことさえできない、巨大な「引力」への、諦めに似た畏怖。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "deuk-",
+					"meaning": "to lead"
+				}
+			],
+			"points": [
+				"Seduce（誘惑する／脇へ導く）や Education（教育／外へ導く）と同じ root。導かれる先が『下（sub）』であるとき、それは屈辱であると同時に、地の深淵との合一なのです。"
+			]
+		}
+	},
+	{
+		"id": "seismic",
+		"word": "Seismic",
+		"meaning": "地震の、激動の、(命を)揺らす響き、不意の衝撃、大地の呻き",
+		"era": "Mid-19th Century",
+		"etymology": {
+			"components": [
+				"seismos (shaking / earthquake)",
+				"seiein (to shake / move to and fro)"
+			],
+			"original_statement": "From Greek seismos 'shaking / earthquake', from seiein 'to shake'."
+		},
+		"concept": "The trembling center (目に見える「表面（日常）」を、根底から「揺さ振(seis-)」り。「安定」という名の「虚像」を粉々に打ち砕き。隠されていた「本音（亀裂）」を露（あらわ）にする、宇宙の「凶暴な目覚まし時計」)",
+		"thinking": "「セイスミック（地震の／激動の）」。あなたの人生に訪れる、突然の「激震（ショック）」。それは。あなたが築き上げてきた「偽（いつわ）りの平和」が。宇宙の、より大きな「真実の動き（テクトニクス）」とズレてしまったときに起きます。セイスミックな衝撃。それは。あなたが「まだ生きている」ということ、そして「世界は常に動いている」ということを、あなたの骨身に叩き込むための、峻烈な合図（サイン）なのです。",
+		"part_of_speech": "adjective",
+		"aftertaste": "立っていられないほどの揺れと、足元から響く。ゴォー、という「大地の低い叫び」。それが去ったあとの。すべてが壊れ、しかし「もうこれ以上揺れることはない（底に着いた）」という、逆説的な静寂。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "twei-",
+					"meaning": "to shake / agitate"
+				}
+			],
+			"points": [
+				"Systole（心臓の収縮）と関連があるという説もあり。揺れとは、地球という一個の大きな生命体の『鼓動』そのものなのかもしれません。"
+			]
+		}
+	},
+	{
+		"id": "petrification",
+		"word": "Petrification",
+		"meaning": "石化(せきか)、(恐怖で)動けなくなること、真理の固定、生から不変への変容",
+		"era": "Early 17th Century",
+		"etymology": {
+			"components": [
+				"petra (rock)",
+				"facere (to make)"
+			],
+			"original_statement": "From Middle French petrification, from petrifier 'to turn to stone', from Latin petra 'rock' + facere 'to make'."
+		},
+		"concept": "The frozen life (「時間（とき）」という名の「水（ロゴス）」から「鉱物（ミネラル）」を吸い込み。自らの「柔らかい肉（エモーション）」を、一分一秒をかけて「硬い石(petr-)」へと「書き換え(fac-)」ていく。もはや滅びることのない、美しき「生ける屍」)",
+		"thinking": "「石化（ペトリフィケーション）」。それは。あまりにも強大な「美」あるいは「恐怖（メドゥーサ）」に出会い。魂が「瞬き（まばたき）」を忘れてしまった状態。あなたが、ある一つの理想に囚われ。そこから一歩も動けなくなったとき。あなたの心は石（ペトラ）になっています。石は自由を奪いますが。同時に、あなたのその瞬間の「想い」を一万年後まで保存（キープ）する、無言の「記念碑（モニュメント）」となるのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "かつて「木」であったものが、今は「石（宝石）」となって。年輪（ねんりん）だけを鮮やかに残して輝いている。あの。命の「温もり」が、「永遠の冷たさ」へと置換（リプレイス）された瞬間の、峻烈な戦慄。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "p-e-t",
+					"meaning": "rock"
+				},
+				{
+					"term": "dhe-",
+					"meaning": "to set / put / make (from facere)"
+				}
+			],
+			"points": [
+				"Peter（ペテロ／岩の如き男）や Petroleum（石油／岩の油）と同じ root。石にされる（make）ことは、世界を支える『基礎』の一部にされることでもあります。"
+			]
+		}
+	},
+	{
+		"id": "ore",
+		"word": "Ore",
+		"meaning": "鉱石、(磨かれる前の)真理、富の源泉、原石、土の中の約束",
+		"era": "Old English",
+		"etymology": {
+			"original_statement": "From Old English ora 'ore / unworked metal', related to ear 'earth' or ar 'brass / copper / bronze'."
+		},
+		"concept": "The raw potential (「土（アース）」の中に混ざり込み、一見「ただの石」に見えながら。その内側に「黄金(aurum)」や「鉄」という名の「可能性」を秘めた、最も「無骨（ぶこつ）」で「誠実」な、磨かれるのを待つ「真理」の原石)",
+		"thinking": "「オア（鉱石）」。あなたの内側にある「才能」は。最初からキラキラ輝く「宝石」として現れるわけではありません。それは。泥に汚れ、重苦しく、何の役にも立たない「重い石」のような姿をしています。それを「オア（鉱石）」と見抜き、自らの情熱（ファーネス）で焼き、叩き、不純物（スラグ）を取り除いたとき。初めてそれは、世界を照らす「金（ゴールド）」へと変成するのです。原石である時間を、愛してください。",
+		"part_of_speech": "noun",
+		"aftertaste": "真っ暗な坑道（マイン）の壁で。松明の火を反射して「ギラリ」と光った、鈍（にぶ）い輝き。そこには。自分を豊かにしてくれる「宇宙の遺産（レガシー）」が眠っている、という絶対的な確信の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ayos-",
+					"meaning": "metal (associated with copper / bronze)"
+				}
+			],
+			"points": [
+				"Iron（鉄）の古名にも通ずる語源。鉱石とは、大地が何十億年もの時間をかけて『貯金』してくれた、生命のためのバッテリーなのです。"
+			]
+		}
+	},
+	{
+		"id": "sinkhole",
+		"word": "Sinkhole",
+		"meaning": "陥没穴、ドリーネ、不意の崩落、日常の下の虚無、突然の不在",
+		"era": "Late 16th Century",
+		"etymology": {
+			"components": [
+				"sink (to fall)",
+				"hole (hollow place)"
+			],
+			"original_statement": "Compound of sink + hole. In geology, specifically where water dissolves bedrock, creating a sudden collapse."
+		},
+		"concept": "The betrayal of ground (「確かな大地（日常）」を支えていた「地底（信念）」が。目に見えない「水（疑惑）」によって密かに「溶（と）かされ(dissolve)」。ある日突然、何の予兆もなく「音もなく崩れ落ち」、巨大な「虚無（ボイド）」が口を開けること)",
+		"thinking": "シンクホール。あなたは。自分の足元が「永遠に続く」と信じています。しかし、その地下では。絶え間ない「疑念（ウォーター）」の侵食が。あなたを支える岩（ロジック）を砂へと変えています。シンクホールが現れたとき。あなたは。自分の家が、いかに「危うい（フジャイル）な均衡」の上に建っていたかを知るでしょう。しかし、その穴（ボイド）から。あなたは真の「地下の源泉（リソース）」を見つけることもできるのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "立ち止まっていたアスファルトが、突如として消え。ただ真っ暗な、底の見えない「穴」だけが残った、あの。信じていたものに「裏切られた」あとの、氷のような瑞々（みずみず）しい「絶望」。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sengh-",
+					"meaning": "to fall / sink"
+				},
+				{
+					"term": "kel-",
+					"meaning": "to cover / conceal / hide (from hole)"
+				}
+			],
+			"points": [
+				"Sink（沈む）と Hole（穴／隠された場所）の合一。目に見えない場所で起きている『崩壊』こそが、最も恐ろしく、最も劇的に現実を書き換えるのです。"
+			]
+		}
+	},
+	{
+		"id": "ravine",
+		"word": "Ravine",
+		"meaning": "渓谷、深い溝、(水による)強奪の跡、切り裂かれた地の記憶",
+		"era": "Early 17th Century",
+		"etymology": {
+			"components": [
+				"ravine (flood / torrent)",
+				"ravir (to snatch / seize)"
+			],
+			"original_statement": "From French ravine 'torrent / mountain stream / collapse', from ravir 'to snatch / seize / carry away'."
+		},
+		"concept": "The snatched depth (「激流(ravin-)」が一瞬のうちに、大地の「誇り」を「ひったくり（奪い去り）」、そこに残された「深く険しい切り口」。暴力的な「不在」が作り出した、美しき「傷跡（ランドスケープ）」)",
+		"thinking": "「ラヴィーン（渓谷）」。そのルーツは「略奪（レイプ／レイヴィッシュ）」。大地が。水という名の「強盗」に襲われ、その「心臓部」を削り取られたあとの姿。あなたが、深い悲しみ（グリーフ）によって心を「切り裂かれた」とき。そこに残った深い溝（ラヴィーン）を。単なる「欠陥」だと思わないでください。そこには。これまで見えていなかった「地の深層（本質）」が剥（む）き出しになっており。そこを渡る「風」だけが、本当の「自由」を知っているのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "両側から高くそそり立つ、切り立った「壁」。その底を。今もなお、何かを奪おうとして「ゴォー」と音を立てて流れる濁流。自分が「踏みにじられた」場所にある、峻烈な「野生の美」。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "rep-",
+					"meaning": "to snatch"
+				}
+			],
+			"points": [
+				"Rapine（略奪）や Rapid（急流）と同じ root。速さと強欲さが、この深い地形（ラヴィーン）を彫り上げているのです。"
+			]
+		}
+	},
+	{
+		"id": "plateau",
+		"word": "Plateau",
+		"meaning": "高原、台地、(平坦な)絶頂、停滞の美学、成長の踊り場",
+		"era": "Mid-18th Century",
+		"etymology": {
+			"components": [
+				"plat (flat)",
+				"eau (diminutive)"
+			],
+			"original_statement": "From French plateau 'table-land / tray', from plat 'flat'."
+		},
+		"concept": "The high flatness (「頂上(summit)」へと登り詰めながら。そこにあるのは「鋭利な一点」ではなく。どこまでも続く、平坦で「退屈」な、しかし圧倒的に「高い位置(status)」にある「広場(plat-)」。成長が「静止」し、本質へと煮詰まる場所)",
+		"thinking": "「プラトー（高原／停滞期）」。登っても、登っても、景色が変わらなくなったとき。あなたは「プラトー」にいます。それは。不毛な時間（スランプ）ではなく。あなたが手に入れた「高い知性（高度）」を、自分の「日常」として定着させるための、大切な「踊り場」。プラトー。一歩も進んでいないように見えて。あなたは。その高い場所の「空気」に、自分の魂を「馴染（なじ）ませて」いる真っ最中なのです。焦る必要はありません。 ",
+		"part_of_speech": "noun / verb",
+		"aftertaste": "見渡す限り平らな、雲の上の「大地」。もう登るべき場所はなく。ただ風が「サーッ」と通り過ぎていく。自分が「辿り着いた」という。満足感と、そして。少しの「飽和（サティエティ）」の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "plat-",
+					"meaning": "flat / broad"
+				}
+			],
+			"points": [
+				"Plate（皿）や Platform（演壇）と同じ root。平らであることは、自分を『提示する』ための、最も安定したステージなのです。"
+			]
+		}
+	},
+	{
+		"id": "moraine",
+		"word": "Moraine",
+		"meaning": "堆石(たいせき)、(氷河が運んだ)瓦礫の山、削られた記憶の残骸、時の堆積",
+		"era": "Mid-18th Century",
+		"etymology": {
+			"original_statement": "From French moraine, from Savoyard Italian morena 'mound of debris', of pre-Roman origin."
+		},
+		"concept": "The glacier's freight (「氷河(glacier)」という名の「凍てついた時間」が。数万年をかけて「大地をかじり取り(gnaw)」。その最後に、無造作に「吐き捨てた(abandon)」ガラクタ。しかしそれこそが。氷河がかつて「そこを通り過ぎた」という唯一の「物証（エビデンス）」)",
+		"thinking": "モレーン。それは、あなたの「努力」の跡。あなたが。冷たい沈黙（アイス）の中で、必死に自分を「研磨（スクラッチ）」し続け。その結果として「削り落とされた（捨てた）」プライドや、かつての若さ。それらが、足元に積み上がって「モレーン（残骸の山）」となっています。汚く見えるその「ゴミの山」こそが。あなたが「どれほど巨大な時間を、どれほどの重みで歩いてきたか」を物語る、最も誠実な「勲章（メダル）」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "誰もいない荒野に、ゴロゴロと転がる「巨大な岩」と「砂利」。それらが一つの「秩序（ライン）」を描いている。かつてここには、強大な「氷の意志」が存在したのだという、峻烈な「気配」への戦慄。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "unknown",
+					"meaning": "Pre-Roman root meaning 'mound / heap'"
+				}
+			],
+			"points": [
+				"語源ははっきりしていませんが、Moor（沼地）や Mound（土手）に繋がる感覚。名もなきものが積み重なり、一つの『形』を成したものの記述です。 "
+			]
+		}
+	},
+	{
+		"id": "tundra",
+		"word": "Tundra",
+		"meaning": "ツンドラ、不毛の平原、死した木々の地、極北の沈黙、限界の荒野",
+		"era": "Late 16th Century",
+		"etymology": {
+			"original_statement": "From Kildin Sami tundar 'treeless plain', related to tunturi 'treeless hill'."
+		},
+		"concept": "The treeless edge (「木（直立する意志）」が生きることを諦めた、最後の「境界線」。ただ「地面に這いつくばる(prostrate)」苔や地衣類だけが、凍てつく「永遠の冬」に耐え忍ぶ。極限の「禁欲」と「忍耐」の大地)",
+		"thinking": "「ツンドラ」。そこは。高い空を夢見ることを許されない、低く、暗い平原。あなたが、あまりにも過酷な環境に置かれ。もはや「立ち上がる」ことすら贅沢（ラグジュアリー）だと感じるとき。あなたは自分の心の中に「ツンドラ」を抱えています。しかし。ツンドラの地下には「永久凍土（パーマフロスト）」という名の。数万年前の「純粋な記憶」が、溶けることなく、守り抜かれているのです。不毛であることは、保存されることでもあります。",
+		"part_of_speech": "noun",
+		"aftertaste": "足元で「シャリッ」と凍った土が崩れる音。どこまでも続く、灰色の平原。そこには「嘘（フェイク）」が一つも存在しない。ただ「凍りつくこと」だけが、唯一の「誠実さ」であるという、峻烈な悟り。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "unknown",
+					"meaning": "Kildin Sami 'tundar' (woodless / bare)"
+				}
+			],
+			"points": [
+				"木がない（Tundar）ということは、風を遮るものがないということ。ツンドラは、宇宙という名の『荒風』が、直接あなたを打ち据（す）える、最前線の地なのです。"
+			]
+		}
+	},
+	{
+		"id": "permafrost",
+		"word": "Permafrost",
+		"meaning": "永久凍土、溶けぬ記憶、地の底の冬、停滞した真実",
+		"era": "Mid-20th Century (1943)",
+		"etymology": {
+			"components": [
+				"permanent (lasting)",
+				"frost (frozen moisture)"
+			],
+			"original_statement": "Short for permanent frost. First introduced in translation from Russian 'perchnaya merzlota'."
+		},
+		"concept": "The frozen archive (表面の「夏（流行）」がどんなに騒がしくても。地下深くでは。数万年前の「氷（意志）」が、一分一秒も「溶ける(melt) 」ことなく。「カチカチ」に固まったまま「すべて」を「保存（セーブ）」し続けている、凍てついた「誠実」さ)",
+		"thinking": "「永久凍土（パーマフロスト）」。それは、あなたの「絶対に変えない」信念のことです。時代が変わっても、周りがどんなに「浮（う）わついて」いても。あなたの魂の最も深いところ（ボトム）は。ずっと冷たく、ずっと硬いままで。あなたが最初に受けた「衝撃（トラウマ）」や、最初に誓（ちか）った「愛（プロミス）」を、鮮明に守り続けている。パーマフロストが溶けるとき、それは自分の「終わり」を意味する、というほどの、峻烈な固定。 ",
+		"part_of_speech": "noun",
+		"aftertaste": "真夏。地表の氷を少し掘り返した瞬間に、指先に伝わる。あの「千年前の冷気（アイス）」。自分が死んでも、この「冷たさ」だけは世界に残るのだ、という。不気味で、しかし絶対的な「不変」への信頼。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "per-",
+					"meaning": "to freeze / burn (from frost)",
+					"term2": "pre-u-"
+				}
+			],
+			"points": [
+				"Frost（霧氷）の root は『焼く』ことも意味します。あまりにも冷たいことは、すべてを焼き尽くすことに等しい。パーマフロストとは、凍りつくことで『焼き固められた』記憶なのです。"
+			]
+		}
+	},
+	{
+		"id": "geomorphology",
+		"word": "Geomorphology",
+		"meaning": "地形学、大地の形の変遷、(地の)形の論理、風景の履歴書",
+		"era": "Late 19th Century",
+		"etymology": {
+			"components": [
+				"ge (earth)",
+				"morphe (form)",
+				"logos (study / reason)"
+			],
+			"original_statement": "From Greek ge 'earth' + morphe 'form' + logos 'study / reason'."
+		},
+		"concept": "The logic of earthforms (「大地(ge-)」の現在の「形(morph-)」は。一体いかなる「過去の闘争（テクトニクス）」と「摩滅（エロージョン）」の「論理(logos-)」の果てに生まれたのか。風景を「歴史（ダイアリー）」として読み解く、大地の解読術)",
+		"thinking": "「ジオモルフォロジー（地形学）」。それは。目の前の「シワ」や「傷」を見て、その人が「どんな人生を歩んできたか」を当てるような。大地の「人相学（フィジオノミー）」。この谷（ヴァレー）は、川に切り裂かれた。この山（マウンテン）は、氷河に削（けず）られた。ジオモルフォロジー的な視点を持つとき。あなたは。ただの「土の塊」の中に、宇宙が何十億年もかけて書き綴（つづ）った、「峻烈な物語」を読み取ることができるのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "山肌に見える。不自然な「曲がり」や「筋」。それらを指でなぞりながら。大地の「悶絶（もんぜつ）」と。そして、それを静かに「形」として受け入れてきた、時間の圧倒的な「寛大さ」への、甘美な心酔。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "mer-bh-",
+					"meaning": "to shimmer (morphe)"
+				}
+			],
+			"points": [
+				"Morph（変化）の root は『ちらつく／形を変える』。大地という最も動かないはずのものが、実は常に『形を変え続けている（ちらついている）』という、壮大な時間の逆説の学問です。"
+			]
+		}
+	},
+	{
+		"id": "speleology",
+		"word": "Speleology",
+		"meaning": "洞窟学、地下の闇への探求、深淵の研究、(自分自身の)内なる空洞への旅",
+		"era": "Late 19th Century",
+		"etymology": {
+			"components": [
+				"spelaion (cave)",
+				"logos (study / reason)"
+			],
+			"original_statement": "From Greek spelaion 'cave' + logos 'study / reason'."
+		},
+		"concept": "The study of voids (地上の「光（フェイク）」を捨て。あえて「地下(spela-)」に口を開けた「闇」の中へと降りていき。そこに隠された「沈黙」と「古の記憶」を「論理(logos-)」の光で照らし出そうとする、深淵への「好奇心」)",
+		"thinking": "スペレオロジー（洞窟学）。それは、あなた自身の「内なる闇」へのダイブです。誰も入ったことのない、自分でも見たことのない「心の空洞（洞窟）」。そこには、恐ろしい怪物がいるのか、それとも、見たこともない「結晶（宝石）」が輝いているのか。スペレオロジー。暗闇を恐れず。ただ「そこがどうなっているのかを知りたい」という、純粋な知性の火（トーチ）だけを頼りに、奈落（アビス）へと降りていく。知ることは、暗闇を「我が家（ネイティブ）」に変えるための、唯一の方法です。",
+		"part_of_speech": "noun",
+		"aftertaste": "松明の火が消えかけ。一寸先も見えない。しかし。そこには冷たく湿った「確かな壁」があり、どこかで「水が滴（したた）る音」がしている。自分の「孤独」が、宇宙の「深淵」と重なり合った瞬間の、あの。峻烈な「安らぎ」。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "spel-",
+					"meaning": "to split / separate / shell (from spelaion)"
+				}
+			],
+			"points": [
+				"Split（分ける）や Spill（溢れる）と同じ root。洞窟とは、大地に生じた『裂け目（スプリット）』であり、そこから宇宙の裏側が溢れ出している場所なのです。"
+			]
+		}
+	},
+	{
+		"id": "lithology",
+		"word": "Lithology",
+		"meaning": "岩石学、石という名の言葉の研究、存在の硬質な論理、不変の記述",
+		"era": "Early 18th Century",
+		"etymology": {
+			"components": [
+				"lithos (stone)",
+				"logos (word / study)"
+			],
+			"original_statement": "From Greek lithos 'stone' + logos 'word / study'."
+		},
+		"concept": "The word of stone (移ろいゆく「肉体」や「空気」ではなく。何億年もの間、その形と「本質」を保ち続ける「石(lith-)」という名の「言葉（ロゴス）」を。一つずつ「読み解き（解釈）」、宇宙の「不朽の真理」を再構成する、最も「静かで、硬い」学問)",
+		"thinking": "「リソロジー（岩石学）」。石は、何も語りません。しかし。石は「すべて」を覚えています。かつての海の深さ。かつての山の怒り。リソロジー的な視座を持つとき。あなたは。道端に転がる「たった一個の石ころ」が。全宇宙が数億年かけて書き上げた、たった一本の「峻烈なテキスト（文章）」であることを知るでしょう。石を読むことは。神の「筆跡（トレース）」をなぞることなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "掌（たなごころ）の上にある、冷たい石の。ずっしりとした、逃れようのない「重み」。そこには。嘘や飾りの付けようがない、剥き出しの「真実」だけが詰まっている、という。あの。不本意なまでの「納得」。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "unknown",
+					"meaning": "Lithos (stone)"
+				}
+			],
+			"points": [
+				"Monolith（一本の石）や Lithography（石版画）と同じ root。石は、人間が『書く』ことを覚える前から、世界そのものを記述し続けていた、最古のメディアなのです。"
+			]
+		}
+	},
+	{
+		"id": "caldera",
+		"word": "Caldera",
+		"meaning": "カルデラ、大釜のような陥没、爆発の跡、情熱が去ったあとの空洞",
+		"era": "Mid-19th Century",
+		"etymology": {
+			"components": [
+				"caldaria (cooking pot)",
+				"calidus (hot)"
+			],
+			"original_statement": "From Spanish caldera 'cauldron', from Latin caldaria 'cooking pot', from calidus 'hot'."
+		},
+		"concept": "The cauldron of loss (すべてを「焼き尽くし(calid-)」た後の。巨大な「情熱（マグマ）」が去ったあとに残された。底が「抜け落ちた」かのような「大釜(caldari-)」の跡。絶望が作り出した、美しき「受容の器（うつわ）」)",
+		"thinking": "カルデラ。それは。かつて「自分は太陽になるのだ」と叫んでいた山が。自らの熱さに耐えきれず、自らを裏切り、内側へと「崩落（フォール）」してしまったあとの姿。しかし。その「巨大な穴」には、いつか「水（沈黙）」が溜まり、世界で最も美しい「青い湖」が生まれます。あなたが。自分のすべてを失ったと感じているなら。あなたは。新しい命を育むための、静和な「カルデラ」へと変成（トランスミュート）しているのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "高い山の上に、不自然に広がる。静まり返った「巨大な円形の窪地（くぼち）」。かつてそこには「火」があった、という記憶だけを孕（はら）んだ。怖ろしいほどに瑞々（みずみず）しい「不在」の美学。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kele-",
+					"meaning": "warm / hot (from calidus)"
+				}
+			],
+			"points": [
+				"Calorie（カロリー）や Cauldron（釜）と同じ root。熱が極限に達したとき、それは山を破壊し、器（釜）へと作り変えるのです。"
+			]
+		}
+	},
+	{
+		"id": "sedimentary",
+		"word": "Sedimentary",
+		"meaning": "堆積(たいせき)による、降り積もる時間の秩序、沈殿の記憶、階層化された人生",
+		"era": "Mid-17th Century",
+		"etymology": {
+			"components": [
+				"sedimentum (settling / sinking down)",
+				"sedere (to sit)"
+			],
+			"original_statement": "From sediment + -ary, from Latin sedimentum 'a settling / sinking down', from sedere 'to sit'."
+		},
+		"concept": "The seated time (激しい「流れ（アクション）」の中から。ゆっくりと時間をかけて「一粒一粒」の「記憶（砂）」が。大地の底に「座（sed-）り」直し。それが何百万層にも重なって、一つの「歴史(stratum-)」へと固化していく、沈黙の「蓄積」)",
+		"thinking": "「セディメンタリー（堆積的な）」。あなたの人生は。一回きりの劇的な出来事（マグマ）だけでできているのではありません。それは。日々の退屈な、しかし誠実な「一行（一粒）」が、地層（ストラタム）として「座り続ける」ことによって作られています。セディメンタリーな知性。それは。過去のすべての自分を「下に敷（し）き」、その重みに耐え。自分の本当の「厚み」を証明し続ける、峻烈な「忍耐」の別名なのです。",
+		"part_of_speech": "adjective",
+		"aftertaste": "崖に見える、横縞（よこじま）模様のレイヤー。その一筋、一筋が。かつての「一日」であり、かつての「涙」であったという。圧倒的な時間の「重なり」を、指先でなぞる瞬間の、あの。静かなる、全き肯定。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sed-",
+					"meaning": "to sit"
+				}
+			],
+			"points": [
+				"Sedentary（座りがちな）や Session（会期／着席）と同じ root。過去がそこに『座っている（居座っている）』からこそ、現在という大地は、揺るぎない土台を持つのです。"
+			]
+		}
+	},
+	{
+		"id": "terrane",
+		"word": "Terrane",
+		"meaning": "テーン、地体、(異郷から来た)大地の欠片、漂流する記憶の島",
+		"era": "Late 19th Century",
+		"etymology": {
+			"components": [
+				"terra (earth)"
+			],
+			"original_statement": "From Latin terranum, variant of terrain, specifically used in geology for fragments of crustal material broken off from one plate and accreted to another."
+		},
+		"concept": "The adrift fragment (本来は「そこ」にあったものではなく。数億年前に、はるか遠くの「異質な場所(exotic-)」から「漂着(drift)」し。今の「大地(terra-)」に「強引に、しかし完璧に」統合されてしまった。「余所者（よそもの）」としての、しかし今は「自分」の一部となっている、孤独な記憶の「パッチワーク」)",
+		"thinking": "「テーン」。あなたの中には。今のあなたが作ったのではない。どこか「遠い場所（過去、あるいは誰かの影響）」から流れ着いた、異質で、不気味な「記憶の断片」がありませんか。それを、異物（ノイズ）として排除しないでください。テーン。それは、あなたがかつて「別の旅（プレート）」をしていたという、最も峻烈な証拠。その「余所者の記憶」があるからこそ、あなたの魂は、他に類を見ない「豊かな多様性（コラージュ）」を誇ることができるのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "見慣れた岩（自分）の中に。突然現れた、全く「違う色」の巨大な石の層。それは。以前の持ち主（過去）を完全に忘れ。今は自分の「一部」として、沈黙し、溶け合っている。あの。不敵で瑞々（みずみず）しい「寄生と共生」の美。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ters-",
+					"meaning": "to dry (associated with earth / terra as dry land)"
+				}
+			],
+			"points": [
+				"Terrain（地形）の変形。大地とは『乾いたもの（水ではないもの）』。テーンとは、自分という乾いた大地に、他者の魂が『突き刺さった』跡なのです。"
+			]
+		}
+	},
+	{
+		"id": "topsoil",
+		"word": "Topsoil",
+		"meaning": "表土、命の薄い皮膜、(大地の)一番上の層、肥沃な現在",
+		"era": "Mid-18th Century",
+		"etymology": {
+			"components": [
+				"top (highest part / place)",
+				"soil (earth / ground)"
+			],
+			"original_statement": "Compound of top + soil. The uppermost layer of soil, richest in organic matter."
+		},
+		"concept": "The skin of life (巨大で冷酷な「岩石（ロジック）」の層の、一番「上(top)」に。数千年の「死(humus-)」が降り積もって生まれた。わずか数センチの、しかし「それ」がなければ一輪の花も咲き得ない。命を「包む」ための、最も「柔らかく、暖かい」現在地)",
+		"thinking": "「トップソイル（表土）」。あなたの人生の「今、この瞬間」。それは、巨大な過去（ボトム）に支えられた、薄くて脆（もろ）い、しかし最も「肥沃（ひよく）」な皮膜です。あなたが、誰かを愛し、何かを育てることができるのは。この、わずか数センチの「トップソイル（現在）」のおかげ。過去（岩）ばかりを見ないでください。そこで呼吸している「土」に、一滴の「水（優しさ）」を注ぐこと。それが。命を続けていくための、唯一の「管理（マネジメント）」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "指を土に差し込んだときの、あの。ぬくもりと、湿りけ。そして。その下に待っている「冷たい岩（過去）」の気配。自分は「薄い皮膜」の上に立ちながら。それでも太陽に向かおうとしている、という。峻烈な「存在の危うさ」への矜持。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "topos",
+					"meaning": "bottom / ground (from soil)",
+					"term2": "sol-"
+				}
+			],
+			"points": [
+				"Topos（場所）と Soil（大地の底）。表土（トップソイル）とは、天と地が『キス』をした瞬間に生まれる、最も瑞々しい奇跡の記述なのです。"
+			]
+		}
 	}
 ];
