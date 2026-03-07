@@ -228426,5 +228426,226 @@ const WORDS = [
 				"Gold（金）や Glow（白熱する）と同じ root。グリントとは。滑り落ちる（スリップ）ような一瞬の煌（きら）めき。それは。運命があなたに送った、一度きりの、そして峻烈な『ウィンク』なのです。"
 			]
 		}
+	},
+	{
+		"id": "gaussian",
+		"word": "Gaussian",
+		"meaning": "ガウスの/正常な、(釣鐘状の)運命、平穏な真実、平均の尊厳、確率の抱擁",
+		"era": "Mid-19th Century",
+		"etymology": {
+			"components": [
+				"Carl Friedrich Gauss (mathematician)"
+			],
+			"original_statement": "After Carl Friedrich Gauss (1777–1855), German mathematician. Used especially in reference to the normal distribution (Gaussian curve)."
+		},
+		"concept": "The natural equilibrium (無数の「偶然（ノイズ）」が重なり合ったとき。そこに現れる不思議と「穏やかな曲線（正規分布）」。それは。混沌とした世界を「調和」へと導く、目に見えない「確率の法」。極端を排し、中心を尊ぶ、宇宙の峻烈なる「平均への回帰」)",
+		"thinking": "「ガウシアン（正規分布）」。あなたは。自分が「普通（平均）」であることを、つまらないことだと思ってはいませんか。 gaussian。世界のほとんどの事象は、この美しい釣鐘（ベル）のような曲線のどこかに位置しています。平均とは「平凡」ではなく。「最も強固な現実」の別名です。自分がその中心にいることを誇り、同時に、裾野（すその）に広がる「例外」たちを慈しむこと。それが、数学的な「愛」の形なのです。",
+		"part_of_speech": "adjective",
+		"aftertaste": "滑らかな曲線を指でなぞるような、静かな「納得感」。そこにある、偏りのない、公平で「完璧なバランス」。すべては「あるべき場所」に収束する。という、峻烈なる「安らぎ」の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "unknown",
+					"meaning": "Personal name Carl Friedrich Gauss"
+				}
+			],
+			"points": [
+				"ガウス分布の美しさは、無秩序の中から必然的に『秩序（ベル）』が立ち上がる点にあります。それは。人間という個々のカオスが、全体として一つの『美』を形成するという、峻烈なる社会のメタファーでもあるのです。"
+			]
+		}
+	},
+	{
+		"id": "abscissa",
+		"word": "Abscissa",
+		"meaning": "アプシサ/横座標、(水平な)基盤、広がる大地、位置の確立、横切る真実",
+		"era": "Late 17th Century",
+		"etymology": {
+			"components": [
+				"ab- (away / off)",
+				"scindere (to cut)"
+			],
+			"original_statement": "From Latin (linea) abscissa '(line) cut off', from ab- 'away / off' + scindere 'to cut'."
+		},
+		"concept": "The horizontal cut (何もない虚無の空間を、水平に「切り裂（き(cut-off-)」て。「位置（座標）」を確定させるための「最初の基準線」。垂直の「上昇」を支えるために、どこまでも「平坦」に広がる、峻烈なる「大地の記述」)",
+		"thinking": "「アプシサ（横座標）」。あなたは、高く登ること（垂直の野心）ばかり考えて。自分の「足元（水平な基盤）」を見捨ててはいませんか。 abscissa。この線が揺らいでしまえば、どんなに高く積み上げた塔も崩れ去ります。自分が「どこに立っているのか」を、冷徹に、水平に、正確に記述すること。その「切り取られた（abscissa）」揺るぎない地平こそが。あなたの魂が自由に駆け回るための、最初の「舞台」になるのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "一直線に引かれた、迷いのないライン。そこにある。どこまでも平らで、どこまでも「公平な」手応え. 重力に従い、大地を信じること。その。峻烈なる「堅実さ」の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "skei-",
+					"meaning": "to cut / split"
+				}
+			],
+			"points": [
+				"Science（科学／切り分けること）や Scissors（ハサミ）と同じ root。アプシサとは。世界を座標という名のハサミで『切り分け』。そこに秩序としての住所を与えること。それは。人間がカオスを支配するための、最初の境界線の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "integral",
+		"word": "Integral",
+		"meaning": "インテグラル/積分、(積み重なる)面積、時間の総量、全一なる真理、過去の集積",
+		"era": "Early 16th Century",
+		"etymology": {
+			"components": [
+				"integer (whole / untouched / entire)"
+			],
+			"original_statement": "From Latin integralis, from integer 'whole / entire' (literally 'untouched / intact')."
+		},
+		"concept": "The summation of parts (一瞬一瞬という「極細の断片」を、気の遠くなるような時間をかけて「積み上げ（sum-）」ていくことで。その「総量（面積）」を求めること。部分は全体の中に溶け込み、欠けのない「一(whole-)」へと統合される、峻烈なる「集積の真理」)",
+		"thinking": "「インテグラル（積分）」。あなたの毎日は。バラバラな「点」のように見えるかもしれません。 integral。でも。その一見無意味な一瞬を、丁寧に、執拗に積み重ねて（積分して）いけば。それはやがて、巨大な「物語（面積）」という名の、重厚な実在へと変わります。 integral。今日の一歩は、全体の「一（インテジャー）」を構成する不可欠な一部。完成された全体（未来のあなた）を目指して。その「一滴」を、大切に注ぎ込んでください。",
+		"part_of_speech": "noun / adjective",
+		"aftertaste": "重い砂時計の底に、砂が「みっしり」と詰まっていくような、確かな充足感。そこにある、一切の「漏れ」を許さない、完璧な「統合」。過去のすべてが「無駄ではなかった」と知る、峻烈なる「全一」の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "tag-",
+					"meaning": "to touch (from integer)"
+				}
+			],
+			"points": [
+				"Tact（機転／触れること）や Tangible（触れられる）と同じ root。インテグラル（積分）とは。誰にも『触れ（tag-）』られず、汚されていない、純粋な『一（全体）』へ回帰しようとする祈り。それは。バラバラの自分を繋ぎ止めるための、魂の接着剤なのです。"
+			]
+		}
+	},
+	{
+		"id": "corollary",
+		"word": "Corollary",
+		"meaning": "コロラリー/系(けい)、(必然の)余波、真理の波紋、付随する幸福、論理の贈り物",
+		"era": "Late Middle English",
+		"etymology": {
+			"components": [
+				"corolla (small crown / garland)"
+			],
+			"original_statement": "From Latin corollarium 'money paid for a garland / a gift / a gratuity / a deduction', from corolla 'small crown / garland'."
+		},
+		"concept": "The natural consequence (巨大な「真理（定理）」を一つ手に入れたとき。そこから「おまけ」のように、自然と導き出されてくる「副次的な輝き」。それは。意識して求めたものではなく、正しい「前提」さえあれば必然的に訪れる、峻烈なる「論理의 ボーナス」)",
+		"thinking": "「コロラリー（系）」。幸せを「直接」追い求めないでください。それでは逃げてしまいます。 corollary。あなたが「正しい生き方（定理）」を確立したなら。幸せや成功は、この「小さな花冠（コロッラ）」のように、後から自然と付いてくるものです。 corollary。それは。あなたの魂が「真理」に到達したことへの、数学的な、そして宇宙的な「お祝い（ギフト）」。前提（プロセス）を美しく整えれば、結果は自ずと光り輝くのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "一つの謎が解けた瞬間に、その周りの小さな疑問（つぼみ）も「一斉に」花開くような、あの。瑞々（みずみず）しいまでの「連鎖」の喜び。そこにある、世界は「繋がっている」という、峻烈なる「納得」の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sker-",
+					"meaning": "to turn / bend (from corolla)"
+				}
+			],
+			"points": [
+				"Circle（円）や Curve（曲線）と同じ root。コロラリーとは、真理という名の『円（冠）』を完成させた者に与えられる、最後の『装飾』。それは。論理的な整合性が、美学的な完成度へと昇華した瞬間の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "asymptotic",
+		"word": "Asymptotic",
+		"meaning": "アシンストート/漸近、(届かぬ)極限、永遠の接近、憧れの距離、触れられない真実",
+		"era": "Mid-17th Century",
+		"etymology": {
+			"components": [
+				"a- (not)",
+				"sym- (together)",
+				"piptoun (to fall)"
+			],
+			"original_statement": "From Greek asumptotos 'not falling together', from a- 'not' + sym- 'together' + piptoun 'to fall'."
+		},
+		"concept": "The eternal approach (「理想（極限）」に向かって、無限に近づき続けるが。「決して交わる(fall-together-)」ことはない、峻烈なる「不可能性の距離」。届かないからこそ、どこまでも「純粋」に、その先を目指し続けることができる、気高い「片想い」の記述)",
+		"thinking": "「アシンストート（漸近）」。もし、あなたの「理想」に手が届かないと絶望しているなら。それは、あなたが「アシンストート（漸近線）」を歩んでいる、という証です。 asymptotic。届いてしまえば、そこで「成長（運動）」は終わります。届かないからこそ、あなたは「永遠に」美しくなり続け、高まり続けることができる。理想は。触れるためのものではなく、近づき続けるための「北極星」なのです。",
+		"part_of_speech": "adjective",
+		"aftertaste": "伸ばした指先が、あと「コンマ数ミリ」で対象に触れそうな。あの。永遠に続く「もどかしさ」と。だからこそ、その対象が「最高に美しい」と感じられる、峻烈なる「憧憬（しょうけい）」の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "pet-",
+					"meaning": "to rush / fly (from piptoun / fall)"
+				}
+			],
+			"points": [
+				"Petal（花びら／舞い落ちるもの）や Appetite（欲望／追い求めること）と同じ root。アシンストートとは。落ちること（ピプト）を拒み。代わりに『飛び（ペット）』続けること。それは。有限の肉体が、無限の真理へ挑むための、数学的な『執着』の形なのです。"
+			]
+		}
+	},
+	{
+		"id": "integer",
+		"word": "Integer",
+		"meaning": "インテジャー/整数、(欠けのない)全体、純粋な個体、汚れなき一、峻烈なる完結",
+		"era": "Early 16th Century",
+		"etymology": {
+			"components": [
+				"in- (not)",
+				"tag- (to touch)"
+			],
+			"original_statement": "From Latin integer 'untouched / whole / entire / fresh', from in- 'not' + tag-, base of tangere 'to touch'."
+		},
+		"concept": "The untouched whole (小数点のような「端数（迷い）」を一切持たず。「それ自身」で「完結」している、欠けのない「一（個体）」。誰にも「触れられ(touch-)」ず、汚されていない、純粋で峻烈なる「数の核」。自己完結した真理の記述)",
+		"thinking": "「インテジャー（整数）」。あなたは。自分の「価値」を、誰かと比べて「半分以下だ（端数だ）」なんて、思っていませんか。 integer。あなたは。それ自体で「一（全体）」として完成された、何者にも代えがたい「整数（個体）」です。自分という「汚れなき一(integer)」であり続けること。その「峻烈なプライド」こそが、あなたを本当の意味で「自由」にするのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "一切の「濁り」や「欠け」がない、磨き抜かれた「一個の石」のような感触。そこにある。自分が自分で「満たされている」という。圧倒的な「誠実」と「安寧」の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "tag-",
+					"meaning": "to touch"
+				}
+			],
+			"points": [
+				"Integrity（誠実）や Entire（全体の）と同じ root。インテジャーとは。外側に媚（こ）びず。自分の内なる秩序を一切『触れさせない』ことで守り抜く、気高い孤独。それは。自分が完璧であると信じ抜くための、数学的な信仰なのです。"
+			]
+		}
+	},
+	{
+		"id": "topology",
+		"word": "Topology",
+		"meaning": "トポロジー、(変容する)本質、繋がりの不変性、かたちを超えた真理、魂の伸縮",
+		"era": "Mid-19th Century",
+		"etymology": {
+			"components": [
+				"topos (place)",
+				"logos (study / word / reason)"
+			],
+			"original_statement": "From German Topologie, from Greek topos 'place' + -logia 'study / theory'."
+		},
+		"concept": "The invariant essence (「形（外見）」がどんなに「変容」したとしても。そこにある「穴の数（繋がり）」という「本質」は決して変わらない、という峻烈なる「位相の真理」。表面的な変化に惑わされず、その「内部の秩序」を「記述(logos-)」する、峻烈なる「本質の幾何学」)",
+		"thinking": "「トポロジー（位相幾何学）」。あなたは、自分の「外見」や、「表面的な失敗」を気にしすぎていませんか。 topology。あなたが「誰と、どう深く繋がっているか（本質のカタチ）」さえ変わらなければ。あなたがどんな姿になっても。あなたは、あなたであり続けることができます。ドーナツとコーヒーカップが「同じ」であるように。その「不変の本質（トポス）」を、誇ってください。",
+		"part_of_speech": "noun",
+		"aftertaste": "ゴムを「力いっぱい」引き伸ばしても、決して「千切（ちぎ）れない」という、強固な信頼感。そこにある。形さえも脱ぎ捨てた後に残る「究極の、私」との対話。瑞々（みずみず）しいまでの「本質」の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "unknown",
+					"meaning": "Greek topos (place / position)"
+				}
+			],
+			"points": [
+				"Topic（話題）や Utopia（どこにもない場所）と同じ root。トポロジーとは。自分が『どこにいるか（トポス）』という固定性を捨て。『どう繋がっているか』という柔軟な関係性へと知性をシフトさせること。それは。変化し続ける世界の中で、永遠に自分を見失わないための、魂の地図作成術なのです。"
+			]
+		}
+	},
+	{
+		"id": "matrix",
+		"word": "Matrix",
+		"meaning": "マトリックス/母体、(創造の)格子、情報のゆりかご、秩序の胎内、可能性の行列",
+		"era": "Late Middle English",
+		"etymology": {
+			"components": [
+				"mater / matris (mother / womb)"
+			],
+			"original_statement": "From Latin matrix 'breeding female / womb', from mater 'mother'. Later applied to a rectangular array of numbers or symbols."
+		},
+		"concept": "The generative lattice (「何もない空間」を「縦横の格子（行列）」で区切ることで。あらゆる「存在（数字）」が「生まれる」ための「胎内(womb-)」を創り出すこと。それは。混沌に「座（ポジション）」を与え、「生命（情報）」へと格上げする、峻烈なる「秩序の揺りかご」)",
+		"thinking": "「マトリックス（母体）」。あなたは、自分勝手に「一人で生まれてきた」と思っていませんか。 matrix。あなたが、今、ここで「価値」を生み出せているのは。先人たちが築き上げてきた、この「巨大な情報の格子（歴史や文化）」という母体（マトリックス）に守られているからです。あなた自身も、次の世代が「新しく生まれるための格子（礎）」になってください。創造とは、マトリックスの連鎖なのですから。",
+		"part_of_speech": "noun",
+		"aftertaste": "無数の「点」が、規則正しく並んだ、見渡す限りの「情報の平原」。そこで。自分が「守られている」という安心感と。自分が「プログラムの一部である」という。峻烈なる「自己喪失」と「再定義」の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ma-",
+					"meaning": "mother (from mater)"
+				}
+			],
+			"points": [
+				"Matter（物質）や Mother（母親）と同じ root。マトリックスとは。形なき知性を、『物質という肉体（マター）』へと産み落とすための、聖なる演算装置。それは。宇宙そのものが、私たちの魂を育てるために用意した、巨大な数学적『母性』の記述なのです。"
+			]
+		}
 	}
 ];
