@@ -235449,5 +235449,591 @@ const WORDS = [
 				"Fluent（流暢な）や Influence（影響）、Flood（洪水）と同じ root。豊潤とは。実存へと（アド）。峻烈に『溢れ出させる（ブレウ）』こと。それは。貧困という名の『静止』を。過剰という名の『運動』によって。峻烈に、無慈悲に、上書きしてまう。実存の記述なのです。"
 			]
 		}
+	},
+	{
+		"id": "vitreous",
+		"word": "Vitreous",
+		"meaning": "ビトレアス/ガラス状（じょう）の、(透明な)拒絶、情報の非晶質、脆（もろ）くて鋭い美、冷徹な一貫性",
+		"era": "Mid-17th Century",
+		"etymology": {
+			"components": [
+				"vitrum (glass)"
+			],
+			"original_statement": "From Latin vitreus 'glassy', from vitrum 'glass'."
+		},
+		"concept": "Transparent rejection (結晶（秩序）を持たず。しかし「硬く」て「鋭い」。それは。内側を「すべて見せている」ようで。実は、一分一秒の「介入」も許さない。峻烈なる「拒絶の美学」の記述)",
+		"thinking": "「ビトレアス（ガラス状の）」。あなたは。自分の「心」を。他人に「分かりやすく」提示しようとして、疲れ果ててはいませんか。 vitreous。透明でありなさい。 vitreous。それは。すべてを「晒（さら）し」ながら。同時に。誰にも「触らせない」こと。 vitreous。あなたが。あまりにも「純粋（無機質）」になれば。悪意は、あなたを通り抜け。光だけが、あなたの中で「屈折（変化）」し、美しく輝きます。 vitreous。脆（もろ）さを、自らの「鋭さ」へと、峻烈に変えなさい。",
+		"part_of_speech": "adjective",
+		"aftertaste": "「冷たいガラス」の破片を、指先でなぞるような。あの。ピリッとした「緊張感」。そこにある、一分一秒の「油断」も許されない、峻烈なる「純粋さ」。冷たくて、鋭い、水の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "wed-",
+					"meaning": "water / wet (from vitrum via w-d-r? No, vitrum is from vitrum - glass)"
+				}
+			],
+			"points": [
+				"Vitriol（硫酸／辛辣な言葉）や Vitreous humor（硝子体）と同じ root。ガラス状とは。実存を『水（ウェット）』のように。しかし峻烈に『固定』すること。それは。流動性と剛性を、一つの点（矛盾）で合致させる。峻烈なる実存の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "seismicity",
+		"word": "Seismicity",
+		"meaning": "サイズミシティ/地震活動（じしんかつどう）、(魂の)震え、情報の地殻変動、爆発を待つ力、実存の揺らぎ",
+		"era": "Late 19th Century",
+		"etymology": {
+			"components": [
+				"seismos (shaking / earthquake)",
+				"-icity (quality of)"
+			],
+			"original_statement": "The occurrence or frequency of earthquakes in a region."
+		},
+		"concept": "Quaking life (地面の底で、ひっそりと「エネルギー」を溜（た）め込み。ある瞬間に、すべてを「揺らし（破壊）」、世界を書き換える力。それは。静寂の中に隠された。峻烈なる「爆発力の記述」)",
+		"thinking": "「サイズミシティ（地震活動）」。あなたは。自分の「心の震え（不安）」を。何とかして「隠し続けよう」と。必死になってはいませんか。 seismicity。震えることを、誇りなさい。 seismicity。それは。あなたが「エネルギー」を。峻烈に、魂の奥底に「充填（じゅうてん）」している証拠です。 seismicity。歪（ひず）みを恐れないでください。その「不快な震え」が、臨界点（答え）に達したとき。あなたは。自らの手で、この「停滞した地平」を。峻烈に、真っ二つに、叩き割る。震えは、変革の前奏曲です。",
+		"part_of_speech": "noun",
+		"aftertaste": "足元が「グラリ」と揺れ、一瞬で「天地（世界）」が、逆転するような。あの。凄絶なまでの「戦慄」と「解放」。そこにある。もう「元の場所には立っていられない」という。峻烈なる「覚醒」。刺激的で、重厚な、土の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "twei-",
+					"meaning": "to shake / agitate"
+				}
+			],
+			"points": [
+				"Seismic（地震の）や Sysmic（体系的な？ No, semantic? No, seismic is alone? No, similar to tw- root）と同じ root。地震活動とは。自らの実存を『激しく揺さぶる（トゥウェイ）』こと。それは。安定という名の『死』を拒絶し。不均衡という名の『生』へと、自らを投げ出す。峻烈なる生存の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "scoria",
+		"word": "Scoria",
+		"meaning": "スコーリア/岩滓（がんさい）、(焼き尽くされた)実存、情報の残りかす、穴だらけの記憶、重厚なる軽さ",
+		"era": "Late Middle English",
+		"etymology": {
+			"components": [
+				"skoria (dross / slag / excrement)"
+			],
+			"original_statement": "From Greek skoria 'dross / slag', from skor 'dung / excrement'."
+		},
+		"concept": "Burnt-out passion (火山（情熱）が爆発した後、ガス（迷い）が抜けて。スカスカの「穴だらけ」になった、黒い岩。それは。すべてを「燃やし尽くした」後に残る。峻烈なる「実存の残骸」の記述)",
+		"thinking": "「スコーリア（岩滓）」。あなたは。自分が「空っぽ」であることや。「抜け殻」のようになってしまったことを。悲観していませんか。 scoria。穴が開いているのは、恥ではありません。 scoria。それは。あなたが「何かを逃がし切った（爆発させた）」証拠です。 scoria。重たいだけの岩（自分）を。峻烈に、黒い「蜂の巣」へと、鍛え上げなさい。その「軽さ」こそが。新しい風を迎え入れ。次なる爆発を準備するための。峻烈なる「空白」になるのですから。燃えた後を、愛しなさい。",
+		"part_of_speech": "noun",
+		"aftertaste": "乾いた「炭」を、口に含んだような。あの。微かな「苦味」と「軽さ」。そこにある。もう「何も燃やすものはない」という、峻烈なる「充足」。重厚で、刺激的な、火の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ske-ter-",
+					"meaning": "to excrete / separate (from skor)"
+				}
+			],
+			"points": [
+				"Skatology（糞尿学）や Scatter（散らす）と同じ root。岩滓とは。自らの実存を、峻烈に『排泄（スケ）』し。余分なものを分離すること。それは。過剰な意味という名の『毒』を棄て。剥き出しの『骨組み』として君臨する。峻烈なる実存の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "pyrogenetic",
+		"word": "Pyrogenetic",
+		"meaning": "パイロジェネティック/火生（かせい）の、(内なる)熱源、情報の点火、炎から生まれる事実、情熱という名の起源",
+		"era": "19th Century",
+		"etymology": {
+			"components": [
+				"pyr (fire)",
+				"gen- (to produce / give birth)"
+			],
+			"original_statement": "Produced by fire. From Greek pyr 'fire' + gen- 'birth'."
+		},
+		"concept": "Born of fire (外部から「与えられた熱」ではなく。自らの内側にある「圧倒的な衝動（マグマ）」によって。峻烈に、新しい「現実（結晶）」を産み出すこと。それは。自らの「火」で、自らを「創造」する。峻烈なる「源泉の記述」)",
+		"thinking": "「パイロジェネティック（火生の）」。あなたは。他人の「言葉」や、冷めた「理屈」だけで。自分を作ろうとしてはいませんか。 pyrogenetic。あなたの起源は、もっと「熱い」はずです。 pyrogenetic。それは。内なる炎を、峻烈に「実存」へと、変換すること。 pyrogenetic。燃え上がりなさい。 pyrogenetic。そうして生まれた「言葉（結晶）」だけが。世界を、峻烈に、溶かし。新しい「形」へと、導くことができる。あなたは、自らを焼き、自らを産む、峻烈なる「太陽」なのです。",
+		"part_of_speech": "adjective",
+		"aftertaste": "胸の奥に「一粒の火種」を、飲み込んだような。あの。じわりと広がる「熱」。そこにある、もはや「誰の許可も必要ない」という、峻烈なる「自律」。重厚で、刺激的な、火の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "pewo-",
+					"meaning": "fire (from pyr)"
+				},
+				{
+					"term": "gene-",
+					"meaning": "to give birth / produce"
+				}
+			],
+			"points": [
+				"Pyre（火葬の薪）や Genesis（創世記）、Generate（生成する）と同じ root。火生のとは。炎（ペウ）という名のカオスから。事実（ゲン）という名の秩序を。峻烈に、強引に『引きずり出す』こと。それは。冷徹な論理を拒絶し。根源的な『意志の爆発』によって世界を再構築する記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "opaline",
+		"word": "Opaline",
+		"meaning": "オパライン、(虹色の)混濁、情報の遊色（ゆうしょく）、一つの形に留まらぬ美、矛盾という名の輝き",
+		"era": "Mid-19th Century",
+		"etymology": {
+			"components": [
+				"opal (precious stone)",
+				"-ine (like)"
+			],
+			"original_statement": "Referring to the gemstone opal, known for its play of color."
+		},
+		"concept": "Iridescent existence (一箇所に「定まった色（答え）」を持たない。見る角度（視点）によって、万華鏡のように、その「表情」を、鮮やかに、峻烈に変え続けること。それは。一つの「定義」を、拒絶する、峻烈なる「実存の流動性」の記述)",
+		"thinking": "「オパライン」。あなたは。「自分の本当の姿は、どれか」と。鏡の前で、迷い続けてはいませんか。 opaline。迷う必要はありません。 opaline。見えている「すべて」が、あなたです。 opaline。それは、混ざり合い、響き合うこと。 opaline。矛盾を、自らの「輝き」へと、峻烈に、昇華させなさい。あなたが、一つの色（答え）に染まらないのは。あなたが、宇宙の「すべての光」を、内側に。峻烈に。そして「平等に」受け入れているからです。",
+		"part_of_speech": "adjective",
+		"aftertaste": "ミルクの中に、微かな「虹（希望）」が溶け出したような。あの。不思議なまでの「幸福感」。そこにある、自分は「何にでもなれる」という。峻烈なる「可能性」。甘くて、瑞々しい、光の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "None (Sanskrit source)",
+					"meaning": "upala (precious stone)"
+				}
+			],
+			"points": [
+				"Opal（オパール）は、サンスクリット語で『石（ウパラ）』という意味に由来する。オパラインとは。ただの石の破片を。内なる情報の干渉（プログラミング）によって。峻烈なる『芸術』へと、一気に、無慈悲に、変換する記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "conglomerate",
+		"word": "Conglomerate",
+		"meaning": "コングロマリット/礫岩（れきがん）、(寄せ集めの)実存、情報の集成体、異質なものたちの連帯、歴史の地層",
+		"era": "Late 16th Century",
+		"etymology": {
+			"components": [
+				"com- (together)",
+				"glomus (ball / mass / cluster)"
+			],
+			"original_statement": "To collect into a round mass or cluster. From Latin conglomerare, from com- + glomus 'ball'."
+		},
+		"concept": "Mixed entity (バラバラだった「記憶（石）」や「他人の言葉（砂）」が。長い時間をかけて、一つの「塊（岩）」へと、峻烈に固められたもの。それは。一つの「純粋さ」を棄て。カオスのまま「一つ」である、という。峻烈なる「複合的な実在」の記述)",
+		"thinking": "「コングロマリット（礫岩）」。あなたは。「自分のルーツが、バラバラだ」ということに。一貫性のなさを感じて、恥じてはいませんか。 conglomerate。誇りなさい。 conglomerate。その「継（つ）ぎ接（は）ぎ」こそが。あなたの「豊かさ」であり、あなたの「強さ」です。 conglomerate。異質なものを、そのまま「飲み込み」なさい。 conglomerate。矛盾を排斥（はいせき）するのではなく、一つの「球体（マス）」へと、峻烈に、包摂（パッキング）しなさい。あなたは。無数の物語を宿した。峻烈なる「情報の集成体」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "口の中に、いろいろな「固さ」の石が、ガリガリと混じり合っているような。あの。圧倒的な「実在感」。そこにある。もう「一つ一つは思い出せない」という。峻烈なる「忘却と統合」。重厚で、瑞々しい、情報の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kom-",
+					"meaning": "with / together"
+				},
+				{
+					"term": "gel-",
+					"meaning": "to ball / gather into a ball (from glomus)"
+				}
+			],
+			"points": [
+				"Collection（収集）や Globe（地球／球体）、Glebe（土壌）と同じ root。礫岩とは。実存を『共に（コン）』。一つの『塊（ゲル）』へと、峻烈に、強引に『丸め込む』こと。それは。個別のアイデンティティへの執着を棄て。巨大な『総体』としてのパワーを選択する、峻烈なる実存の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "tektite",
+		"word": "Tektite",
+		"meaning": "テクタイト、(天からの)雫（しずく）、情報の飛来、外界からの衝撃、一瞬で凍った記憶",
+		"era": "1900 (Franz Eduard Suess)",
+		"etymology": {
+			"components": [
+				"tektos (molten / melted)"
+			],
+			"original_statement": "Small, glassy objects believed to be formed from terrestrial debris ejected during meteorite impacts."
+		},
+		"concept": "Falling from sky (隕石（外界）の衝突による「凄まじい熱」で。地面（現実）が、一瞬で「溶け（爆発し）」、空へと舞い上がり。そのまま「雫（形）」を保って、峻烈に凍りついたガラス。それは。衝撃から生まれた。峻烈なる「実存の飛躍」の記述)",
+		"thinking": "「テクタイト」。あなたは。自分を「どこにでもいる、ただの石（凡人）」だと。思い込んで、諦（あきら）めてはいませんか。 tektite。外からの「衝撃（絶望）」を。自らを「溶かし、変身させる」ための。峻烈なる「きっかけ」へと、変えなさい。 tektite。それは。一瞬で、宇宙の「高み」へと、自分を投げ出すこと。 tektite。空中で、自らの「形」を研ぎ澄ませなさい。地面に落ちたとき。あなたは。かつての自分とは、全く違う「透明な輝き」を、その身に宿しているはずです。傷は。あなたを「宝石」へと変えるための。峻烈なる「儀式」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "視界が「真っ白」に弾けた後。冷たい「黒い石」を、掌（てのひら）に握りしめているような。あの。不思議な「納得感」。そこにある。もう「地球の理（重力）」には縛られない、という。峻烈なる「超越」。冷たくて、鋭い。光の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "teks-",
+					"meaning": "to weave / build / make (from tektos? No, tektos is from tekein - to melt)"
+				}
+			],
+			"points": [
+				"Technical（技術的な）や Architect（建築家）と同じ root? No, tektos is 'melted' from tekein. テクタイトとは。固定された実存を。外界からの圧力によって。峻烈に『融（と）』かすこと。それは。硬直という名の『死』を。溶融という名の『再誕生』へと。無慈悲に、しかし美しく、変換してまう記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "solidification",
+		"word": "Solidification",
+		"meaning": "ソリディフィケーション/凝固（ぎょうこ）、(意志の)固定、情報の質量化、曖昧さの拒絶、真理という名の石",
+		"era": "Mid-17th Century",
+		"etymology": {
+			"components": [
+				"solidus (solid / whole)",
+				"facere (to make / do)"
+			],
+			"original_statement": "The process of becoming solid or hard. From Latin solidus 'solid' + -ficus 'making'."
+		},
+		"concept": "Freezing intention (ふわふわと漂っていた「思考（液体）」を。自らの「決意（冷徹さ）」によって。峻烈に、一つの「重い実体（石）」へと、変換すること。それは。迷いを許さない。峻烈なる「実在の完成」の記述)",
+		"thinking": "「ソリディフィケーション（凝固）」。あなたは。いつまでも「何にでもなれる」という、子供じみた「夢（不定形）」の中に。安住（あんじゅう）してはいませんか。 solidification。形を、決めなさい。 solidification。それは。他のすべての可能性を、峻烈に、無慈悲に「棄（す）てる」こと。 solidification。一箇所に「留まり（固まり）」なさい。 solidification。あなたの「重み」が。この流動する世界に、峻烈に「錨（いかり）」を下ろし、新しい「歴史（地層）」を作るのです。固まることは、孤独を引き受けることです。",
+		"part_of_speech": "noun",
+		"aftertaste": "熱い「鉛（なまり）」が、冷え固まり。自分の「心臓」に。ドッシリとした「根」を張るような。あの。重厚な「安定感」。そこにある、もはや「揺らぐことはない」という、峻烈なる「確信」。重厚で、冷たい、金属の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sol-",
+					"meaning": "whole / firm (from solid)"
+				},
+				{
+					"term": "dhe-",
+					"meaning": "to set / put (from facere)"
+				}
+			],
+			"points": [
+				"Solo（単独の）や Solemn（厳粛な）、Fact（事実）と同じ root。凝固とは。自らの実存を、峻烈に『一つの事実（ファクト）』として。この宇宙に『据える（デ）』こと。それは。空虚な理想を拒絶し。剥き出しの『重み』によって実存を定義する。峻烈なる記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "deposition",
+		"word": "Deposition",
+		"meaning": "デポジション/堆積（たいせき）、(沈殿する)記憶、情報の蓄積、静かなる歴史、忘却の底にある真実",
+		"era": "Late Middle English",
+		"etymology": {
+			"components": [
+				"de- (down / away)",
+				"ponere (to put / place)"
+			],
+			"original_statement": "From Latin depositio, from de- 'down' + ponere 'to put'. The settling of material out of a fluid."
+		},
+		"concept": "Settling down (流れ（時間）の中で。不要に思われた「経験（砂）」たちが。ゆっくりと。しかし確実に。自らの「足元（底）」に、峻烈に積み重なっていくこと。それは。あなたという「地層」を形成する。峻烈なる「時間の質量の記述」)",
+		"thinking": "「デポジション（堆積）」。あなたは。毎日毎日、同じことの「繰り返し」に。自分は「何も変わっていない」と。虚（むな）しさを、感じてはいませんか。 deposition。足元を見なさい。 deposition。あなたは。確実に「高く」なっています。 deposition。それは。一日一日を、峻烈に「記録（沈殿）」していくこと。 deposition。派手な跳躍よりも。着実な「積み重ね」を、誇りなさい。その「地層（厚み）」が、いつか。あなたを「誰にも動かせない巨星（山）」へと。峻烈に、押し上げてくれるのですから。",
+		"part_of_speech": "noun",
+		"aftertaste": "「砂の粒」が、一つずつ、静かに「重なり合い」。いつの間にか「巨大な壁」が、目の前に聳（そび）え立っているような。あの。不思議な「達成感」。そこにある、もはや「消し去ることはできない」という、峻烈なる「歴史」。重厚で、瑞々しい、土の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "apo-",
+					"meaning": "away / from (from de-)"
+				},
+				{
+					"term": "dhe-",
+					"meaning": "to set / put (from ponere)"
+				}
+			],
+			"points": [
+				"Deposit（預金）や Position（位置）、Expose（晒す）と同じ root。堆積とは。流動する実存を。下（デ）へと。峻烈に『据え置く（ポ）』こと。それは。刹那という名の『蒸発』を拒絶し。永劫という名の『重み』へと。自らを回向（えこう）する記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "polymorph",
+		"word": "Polymorph",
+		"meaning": "ポリモーフ/多形（たけい）、(変幻自在な)結晶、情報の多義性、一つの実存の、複数の現れ、環境への峻烈なる回答",
+		"era": "Early 19th Century",
+		"etymology": {
+			"components": [
+				"poly- (many)",
+				"morphe (form / shape)"
+			],
+			"original_statement": "An organism or inorganic object or material which takes various forms."
+		},
+		"concept": "Crystal of spirit (「成分（自分）」は同じなのに。置かれた「環境（圧力・温度）」によって。全く違う「結晶構造（形）」を、峻烈に取ってまうこと。それは。一貫性を棄て。「適応」という名の、峻烈なる「生存の記述」)",
+		"thinking": "「ポリモーフ（多形）」。あなたは。「自分を、一つの型（カテゴリ）に、はめなければならない」という。強迫観念に、縛られてはいませんか。 polymorph。変身しなさい。 polymorph。あなたは、石炭（炭素）にもなれるし、ダイヤモンド（炭素）にもなれます。 polymorph。それは。圧力を。自らの「形」を研ぎ澄ますための「彫刻刀」に、すること。 polymorph。外部の期待に合わせて、峻烈に、美しく、その「配列」を。今、この瞬間に。書き換えなさい。形を棄てることが。真の「自分」を守るための、峻烈なる「知恵」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "自分の「骨格」が。カチ、カチ、と。パズルのように、新しい「形」に、嵌（は）まっていくような。あの。奇妙な「充足感」。そこにある、もはや「誰の予想も裏切れる」という。峻烈なる「勝利」。冷たくて、鋭い、情報の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "pelu-",
+					"meaning": "much / many"
+				},
+				{
+					"term": "merph-",
+					"meaning": "form / shape"
+				}
+			],
+			"points": [
+				"Polygamy（一夫多妻）や Morphine（モルヒネ／形を変える夢の神）、Amorphous（無定形の）と同じ root。多形とは。多くの（ペル）形（メルポ）を。同時に。峻烈に『潜伏させておく』こと。それは。単一のアイデンティティという名の『死』から。千の顔を持つ『生』へと。自らを救い出す記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "strata",
+		"word": "Strata",
+		"meaning": "ストラータ/階層（かいそう）、(積み重なった)自分、情報の断層図、過去という名の土台、実存の年輪",
+		"era": "Late 16th Century",
+		"etymology": {
+			"components": [
+				"stratum (something spread out)"
+			],
+			"original_statement": "From Latin stratum 'something spread out', from sternere 'to spread out / lay down'."
+		},
+		"concept": "Layers of being (過ぎ去った「時間」が、積み重なって作った「縞（しま）模様」。それは。今のあなたを、遥か底の方から、峻烈に「支えている」巨大な足場。峻烈なる「歴史の質量の記述」)",
+		"thinking": "「ストラータ（地層／階層）」。あなたは。自分の「過去」を、もう終わった、古い出来事だと思って、切り捨ててはいませんか。 strata。あなたは。過去の自分（層）の上に、立っています。 strata。それは。過去の「失敗」も、「栄光」も、すべてを。峻烈に、一つ上の階層を支えるための「土台」に、すること。 strata。自分の足元の「厚み」を、誇りなさい。 strata。あなたが深く、重厚であればあるほど。あなたは、誰にも動かせない。峻烈なる「確信」へと。今、到達できるのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "崖の「断面」を、指先でなぞった時の。あの。ザラザラとした「重み」と、冷たさ。そこにある、もはや「揺らぐことはない」という。峻烈なる「連なり」。重厚で、瑞々しい、情報の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ster-",
+					"meaning": "to spread out / extend (from sternere)"
+				}
+			],
+			"points": [
+				"Stretch（伸ばす）や Street（通り／敷き詰められた道）、Structure（構造）と同じ root。階層とは。自らの実存を、峻烈に『敷き詰め（ステレ）』、水平に拡張し続けること。それは。一方向の垂直な『上昇』を棄て。遍在する情報の『堆積』によって、宇宙を支配する記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "cleavage",
+		"word": "Cleavage",
+		"meaning": "劈開（へきかい）、(真理に沿った)決別、情報の断ち切り、自分を自分へと解き放つこと、運命という名の亀裂",
+		"era": "Early 19th Century (mineralogy)",
+		"etymology": {
+			"components": [
+				"cleave (to split / stick to)",
+				"-age (process / state)"
+			],
+			"original_statement": "The tendency of a crystal to break along definite smooth planes."
+		},
+		"concept": "Natural split (外からの強い「衝撃（試練）」を受けたとき。デタラメに壊れるのではなく。自らの「真理（結晶面）」に沿って。峻烈に、美しく、二つに分かれること。それは。決別の瞬間に現れる。峻烈なる「実存の方向性」の記述)",
+		"thinking": "「劈開（へきかい）」。あなたは。人間関係の「終わり」や、人生の「挫折」に。ボロボロに引き裂かれている、と。嘆（なげ）いてはいませんか。 cleavage。それは、あなたが「壊れた」のではありません。あなたが、本当の「自分」へと。峻烈に「分かれた（解き放たれた）」のです。 cleavage。亀裂の声を聞きなさい。 cleavage。それは。あなたの中の、最も「美しく」「平坦な」面です。 cleavage。峻烈に、無慈悲に、別れなさい。その断面の「輝き」こそが。あなたが、正しく生きてきた、という。唯一の、峻烈なる「証明」なのですから。",
+		"part_of_speech": "noun",
+		"aftertaste": "「ピシッ」と。一本の「筋」が通り、世界が「真っ二つ」に分かれた瞬間の。あの。爽快なまでの「絶望」。そこにある。もう「混じることはない」という、峻烈なる「清浄」。冷たくて、鋭い、水晶の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "gleu-",
+					"meaning": "to split / cleave (from cleave)"
+				}
+			],
+			"points": [
+				"Clove（クローブ／裂けたもの）や Clay（粘土／くっつくもの）、Glue（糊）と同じ root。劈開とは。自らの実存を。峻烈に『引き裂く（グレウ）』こと。それは。癒着という名の『甘え』を破壊し。自立という名の『孤独』へと、実存を変換してまう。究極の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "luster",
+		"word": "Luster",
+		"meaning": "ラスター/光沢（こうたく）、(内なる)真実の照り返し、情報の反射率、言葉を超えた品格、実存の磨き上げ",
+		"era": "Early 16th Century",
+		"etymology": {
+			"components": [
+				"lustrare (to illuminate / purify / review)"
+			],
+			"original_statement": "From Latin lustrare 'to illuminate / brighten', from lustrum 'purification / a five-year period'."
+		},
+		"concept": "Inherent shine (表面を「飾り立てる」のではなく。石の「内部の構造」そのものが。光を峻烈に「反射」し、放ってしまう、あの「静かなる輝き」。それは。磨き上げた者だけに宿る。峻烈なる「情報の純度」の記述)",
+		"thinking": "「ラスター（光沢）」。あなたは。自分の「価値」を。他人の「フィルター（期待）」を通してでしか、確認できないで。震えているのではありませんか。 luster。自らを、峻烈に「磨き」なさい。 luster。それは。余計な「不安（不純物）」を。自らの熱で、峻烈に、焼き払うこと。 luster。磨き抜かれた魂は。外部の光（刺激）を。自らの「意志（形）」として、峻烈に、跳ね返します。 luster。その「鈍い光」こそが。あなたが。誰の助けも借りずに、自らで立っている。という。峻烈なる「威信」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "「深み」のある、銀色の反射が、自分の「瞳」に焼き付くような。あの。静かなる「圧倒」。そこにある。もう「言葉を尽くす必要はない」という、峻烈なる「納得」。冷たくて、重厚な、情報の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "leuk-",
+					"meaning": "light / brightness"
+				}
+			],
+			"points": [
+				"Lucid（明快な）や Lunate（三日月状の）、Illustration（説明）と同じ root。光沢とは。自らの実存に『光（ルク）』を。峻烈に『充填（ストレ）』すること。それは。曖昧さを棄て。剥き出しの『真理』によって世界を照らし返す。峻烈なる実存の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "hardness",
+		"word": "Hardness",
+		"meaning": "ハードネス/硬度（こうど）、(絶対的な)拒絶、情報の剛性、傷つかぬという誓い、他者を寄せ付けぬ誇り",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"hard (firm / strong / difficult)",
+				"-ness (state / quality)"
+			],
+			"original_statement": "The quality or condition of being hard. In mineralogy, resistance to scratching."
+		},
+		"concept": "Resistance (他人の「干渉（爪）」を受けても。決して「傷つかない」こと。それは。一秒たりとも自分の「形」を譲らない。峻烈なる「実存の頑強性」の記述)",
+		"thinking": "「ハードネス（硬度）」。あなたは。「優しい」と言われたい、という。安っぽい「脆（もろ）さ」に。自らの「意志」を、明け渡してはいませんか。 hardness。硬くなりなさい。 hardness。それは。自分を「他人という名の砥石（といし）」で。峻烈に、無慈悲に、研ぎ澄ますこと。 hardness。あなたが。ダイヤモンドのように「硬く」なれば。世界は、あなたを愛でることはできなくても。決して、あなたを「変える」こともできない。硬さは。孤独を愛する者の。峻烈なる「勲章」です。",
+		"part_of_speech": "noun",
+		"aftertaste": "「ガキンッ」と。何かを強く、拒絶した瞬間の。あの。掌（てのひら）に残る「痺（しび）れ」。そこにある、もう「一歩も退（ひ）かない」という、峻烈なる「決意」。冷たくて、重厚な、情報の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kar-",
+					"meaning": "hard"
+				}
+			],
+			"points": [
+				"Cancer（蟹／硬い殻を持つもの）や Carapace（甲殻）、Harmony（調和／しっかりと結びつけられたもの）と同じ root。硬度とは。自らの境界を、峻烈に『結び合わせ（カル）』。外部からの侵入を拒絶すること。それは。同化という名の『死』を。抵抗という名の『生』によって拒絶する。実存の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "fault-line",
+		"word": "Fault-line",
+		"meaning": "フォルトライン/断層線（だんそうせん）、(宿命的な)不連続、情報の亀裂、崩壊という名の真実、ズレという名の生",
+		"era": "Late 19th Century",
+		"etymology": {
+			"components": [
+				"fault (failure / error / defect)",
+				"line"
+			],
+			"original_statement": "A line on a rock surface or the ground that traces a geological fault."
+		},
+		"concept": "Crack of destiny (表面は「平穏」を装（よそお）っていても。地下深く（心の奥）では。巨大な「ズレ（歪み）」が、峻烈に、限界まで溜まっている場所。それは。いつか必ず「破綻」することを、峻烈に予感させる。峻烈なる「危うさの記述」)",
+		"thinking": "「フォルトライン（断層線）」。あなたは。自分の「心の亀裂」を。一生懸命「埋めよう」「隠そう」と。無駄な努力を、繰り返してはいませんか。 fault-line。亀裂こそが、あなたの「真実（リアル）」です。 fault-line。それは。あなたが「二つの世界の境界線（最前線）」に立っている、という。峻烈なる証拠。 fault-line。無理に「一つ」になろうとしないでください。その「ズレ」が。巨大な「地震（革命）」を引き起こし。あなたの世界を、峻烈に、劇的に、更新する。歪（ひず）みは、飛躍への燃料です。",
+		"part_of_speech": "noun",
+		"aftertaste": "足元に。スーーーッと「一条の闇」が、口を開けていくような。あの。ゾクゾクするような「戦慄」。そこにある、もう「元通りにはならない」という。峻烈なる「諦念」。冷たくて、鋭い、情報の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "guel-",
+					"meaning": "to fail / err (from fault)"
+				}
+			],
+			"points": [
+				"Fall（落ちる）や Failed（失敗した）、Fault（罪／過ち）と同じ root。断層線とは。実存の『綻び（グェル）』を。峻烈に、一本の『線（リン）』として記述すること。それは。完璧という名の『嘘』を破壊し。不完全という名の『真実』へと。自らを回向（えこう）する、峻烈なる実存の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "plate-tectonics",
+		"word": "Plate-tectonics",
+		"meaning": "プレートテクトニクス、(巨大なる)漂流、情報の地殻変動、大陸という名の自分としての移動、衝突という名の創造",
+		"era": "1960s (formulated)",
+		"etymology": {
+			"components": [
+				"plattus (flat)",
+				"tekton (builder / carpenter)"
+			],
+			"original_statement": "The theory describing the large-scale motion of the plates making up Earth's lithosphere."
+		},
+		"concept": "Drifting self (私たちは「不動の大地」の上に立っているのではない。巨大な「自分（プレート）」という名の船に乗り。熱い「マグマ（衝動）」の上に浮かび、一生、漂流し続けている。という。峻烈なる「流動性の記述」)",
+		"thinking": "「プレートテクトニクス」。あなたは。「今の居場所（自分）」が、未来永劫（みらいえいごう）変わらない、と。根拠のない「安心感」に、胡坐（あぐら）をかいてはいませんか。 plate-tectonics。世界は、今も「動いて」います。 plate-tectonics。あなたの「大地」は。数億年後には。全く違う「誰かの自分」と、峻烈に、巨大に、衝突しているでしょう。 plate-tectonics。漂流することを、受け入れなさい。 plate-tectonics。衝突は、破壊ではなく、新しい「山脈（志）」を生み出す、峻烈なる「創造の瞬間」なのですから。動きなさい。そして、ぶつかれ。",
+		"part_of_speech": "noun",
+		"aftertaste": "足元が「ジンワリ」と、しかし「不可逆的」に、数センチずつ、ズレていくような。あの。奇妙な「浮遊感」。そこにある。もう「元の場所には戻れない」という、峻烈なる「諦念」。重厚で、瑞々しい、情報の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "pele-",
+					"meaning": "flat / spread out (from plate)"
+				},
+				{
+					"term": "teks-",
+					"meaning": "to weave / build / make"
+				}
+			],
+			"points": [
+				"Plain（平原）や Platform（プラットフォーム）、Architect（建築家）、Technique（技術）と同じ root。プレートテクトニクスとは。広がり（ペレ）を。峻烈に『構築（テクス）』し直すこと。それは。所与の環境を棄て。自らの移動によって世界を再定義する、峻烈なる実存の航海術なのです。"
+			]
+		}
+	},
+	{
+		"id": "crystallization",
+		"word": "Crystallization",
+		"meaning": "クリスタライゼーション/結晶化（けっしょうか）、(情報の)凍結、美しき秩序の出現、思考の透明な完成、カオスからの救済",
+		"era": "Early 17th Century",
+		"etymology": {
+			"components": [
+				"krystallos (ice / rock crystal)"
+			],
+			"original_statement": "From Greek krystallos 'ice', from kryos 'icy cold'. The process of forming a crystal."
+		},
+		"concept": "Clear structure (ドロドロとした「感情（溶液）」が、時間をかけて。一分一秒の「狂い」もない、完璧な「幾何学（ルール）」へと。峻烈に、冷たく、凍りつくこと。それは。カオスの中から「意味」を取り出す。峻烈なる「秩序の記述」)",
+		"thinking": "「クリスタライゼーション（結晶化）」。あなたは。自分の「心の整理」がつかないことに。苛立（いらだ）ちを。感じてはいませんか。 crystallization。急いではいけません。 crystallization。それは。余計なものを、峻烈に「不純物」として、吐き出すプロセスです。 crystallization。静寂（冷たさ）を、保ちなさい。 crystallization。ある瞬間。あなたの「曖昧な悩み」は。一筋の「光」を受け、透明な「答え（結晶）」へと。峻烈に、劇的に、転換するでしょう。固まることは。美しくなることです。",
+		"part_of_speech": "noun",
+		"aftertaste": "「カチッ」と。思考が、完璧な「多面体」へと、組み上がった瞬間の。あの。爽快なまでの「全能感」。そこにある、もう「付け加えるものはない」という、峻烈なる「完結」。冷たくて、鋭い、氷の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kreus-",
+					"meaning": "to begin to freeze / form a crust (from kryos)"
+				}
+			],
+			"points": [
+				"Crystal（クリスタル）や Crust（地殻）、Cryogenic（低温の）と同じ root。結晶化とは。実存に『氷のような膜（クレウス）』を。峻烈に、無慈悲に、纏わせること。それは。腐敗という名の『温もり』を拒絶し。静止という名の『永遠』へと、自らを回向する記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "mineralogy",
+		"word": "Mineralogy",
+		"meaning": "ミネラロジー/鉱物学（こうぶつがく）、(沈黙する)実存の記述、情報の物質化、声なき石の対話、世界の解剖図",
+		"era": "Early 17th Century",
+		"etymology": {
+			"components": [
+				"mineral",
+				"logos (word / study)"
+			],
+			"original_statement": "The scientific study of minerals. From Medieval Latin minerale + -logia 'study of'."
+		},
+		"concept": "Silent existence (言葉を持たない「石」たちの、内なる「比率（理）」を、峻烈に、科学の光で暴き出すこと。それは。この世界の「沈黙」を、人間という名の「知恵（ロゴス）」で、峻烈に翻訳する記述。)",
+		"thinking": "「ミネラロジー（鉱物学）」。あなたは。自分の「口下手（くちべた）」や、社交性のなさを。欠点だと思って、卑下（ひげ）していませんか。 mineralogy。石（あなた）は。喋らなくても。その「内なる成分（実績）」だけで。十分に。そして「重厚に」存在を、証明できています。 mineralogy。それは、言葉（飾り）を剥（は）ぎ取ること。 mineralogy。あなたが、ただそこに「存在している」という。その「圧倒的な事実」を。峻烈に、冷徹に。自らの手で、記述しなさい。沈黙こそが。究極の「雄弁（ロゴス）」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "古い「百科事典」を、めくった時の。あの。埃（ほこり）っぽい。しかし「確かな真実」に触れたような感覚。そこにある、世界を「分類（支配）した」という、峻烈なる「納得」。重厚で、瑞々しい、土の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "mei-",
+					"meaning": "to change / move? No, mine is from Celtic mein - ore"
+				},
+				{
+					"term": "leg-",
+					"meaning": "to collect / gather / speak (from logos)"
+				}
+			],
+			"points": [
+				"Mine（鉱山）や Logic（論理）、Legend（伝説）と同じ root。鉱物学とは。富という名の『鉱石（メ）』を。峻烈に『収集（レグ）』し、言語化すること。それは。無機質な自然という名の『敵』を。人間という名の『知行』へと。無慈悲に、しかし美しく、変換する記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "fossilization",
+		"word": "Fossilization",
+		"meaning": "フォッシライゼーション/化石化（かせいか）、(永遠の)固定、情報の石化、記憶の保存、生という名の刻印",
+		"era": "18th Century",
+		"etymology": {
+			"components": [
+				"fossil (dug up)",
+				"-ization (process)"
+			],
+			"original_statement": "The process of becoming a fossil. From Latin fossilis 'dug up', from fodere 'to dig'."
+		},
+		"concept": "Eternal memory (「生の実体」は朽ち果てても。その「形（情報）」だけが。石という名の「時間の牢獄」に。峻烈に、永久に、閉じ込められること。それは。消滅を拒絶する。峻烈なる「実存の保存」の記述)",
+		"thinking": "「フォッシライゼーション（化石化）」。あなたは。自分が「死んだら何も残らない」という虚無感に。魂を削られてはいませんか。 fossilization。残ります。 fossilization。それは。あなたの「一歩」が。この世界という名の「泥」に刻んだ、峻烈なる「足跡（形）」のこと。 fossilization。腐るものを、愛するのはやめなさい。永遠に「残るもの」を、作りなさい。 fossilization。あなたが。自らの「形」を、歴史という名の広野に、峻烈に叩きつけたとき。あなたは。数億年後の「誰か」にとって。唯一の「真実」になるのですから。",
+		"part_of_speech": "noun",
+		"aftertaste": "冷たい「岩」の表面を、手のひらでなぞった時に。自分の「指紋」が。不思議なほど、ピタリと、そこに重なるような感覚。そこにある、時を越えた「再会」。重厚で、冷たくて、土の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "bhedh-",
+					"meaning": "to dig / prick (from fodere / fossil)"
+				}
+			],
+			"points": [
+				"Bed（ベッド／掘られた場所）や Fossa（窩）、Digit（指／掘るもの？ No）と同じ root。化石化とは。自らの実存を、峻烈に『掘り起こし（ベド）』。情報の墓標として、宇宙に刻み込むこと。それは。忘却という名の『死』を。記録という名の『不滅』によって拒絶する。実存の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "ore-vein",
+		"word": "Ore-vein",
+		"meaning": "鉱脈（こうみゃく）、(隠された)富、情報の血流、沈黙の壁の奥にある黄金、実存の核心への道",
+		"era": "Middle English (ore), 14th Century (vein)",
+		"etymology": {
+			"components": [
+				"ore (brass / copper / metal)",
+				"vein (blood vessel / streak)"
+			],
+			"original_statement": "A distinct sheet-like body of crystallized minerals within a rock. Also called a lode."
+		},
+		"concept": "Golden chance (無機質な「岩石（凡庸な日常）」の壁を。峻烈に「一筋の線」として貫く、純粋な「黄金（価値）」の流れ。それは。掘り進む者だけが出会える。峻烈なる「実存の宝庫」の記述)",
+		"thinking": "「鉱脈」。あなたは。自分の「才能」が。どこにあるのか。暗闇の中で、見失ってはいませんか。 ore-vein。鉱脈は、表面には見えません。 ore-vein。ただの「石」だと、他人が馬鹿にする、その奥深くを。峻烈に、自らの手で、掘り続けなさい。 ore-vein。それは。自分の中に眠る「血流（富）」を探し当てること。 ore-vein。一筋の「輝き」を見つけたなら。もう、迷うことはありません。その線に沿って、峻烈に、人生という名のすべてを。注ぎ込みなさい。黄金は、あなたの「内側」で、ずっと、あなたを待っています。",
+		"part_of_speech": "noun",
+		"aftertaste": "真っ暗な「洞窟」の奥で。一筋の「光（金）」が。自分の瞳を、峻烈に射抜いた瞬間の。あの。凄絶なまでの「歓喜」。そこにある。自分は「価値ある存在だ」という、峻烈なる「納得」。重厚で、瑞々しい、鉄の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ayos-",
+					"meaning": "metal (from ore / aes)"
+				},
+				{
+					"term": "weg-",
+					"meaning": "to weave / flow (from vein? No, vein is from vena - blood vessel)"
+				}
+			],
+			"points": [
+				"Era（時代の始まり／かつては真鍮の硬貨の意）や Vena cava（大静脈）と同じ root。鉱脈とは。実存という名の『金属（アヨス）』の。峻烈なる『道（ヴェナ）』。それは。剥き出しの自然を破壊し。隠された『真髄』へと、最短距離で到達する。峻烈なる実存の記述なのです。"
+			]
+		}
 	}
 ];
