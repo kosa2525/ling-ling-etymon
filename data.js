@@ -216576,5 +216576,542 @@ const WORDS = [
 				"Palate（口蓋）は、食の『審美眼』のみならず、思想の『受容性』をも司る言葉となりました。"
 			]
 		}
+	},
+	{
+		"id": "convergence",
+		"word": "Convergence",
+		"meaning": "収束、集中、一点への集結、異なる進化が似通うこと",
+		"era": "Early 18th Century",
+		"etymology": {
+			"components": [
+				"com- (together)",
+				"vergere (to bend / turn / lean)"
+			],
+			"original_statement": "From Latin convergere 'to incline together', from com- 'together' + vergere 'to bend'."
+		},
+		"concept": "Leaning together (全く別の場所から始まった道や思考が、運命という強い磁力に引かれて「一緒に(com-)」「曲がり(verg-)」、ついには一つの「真理」へと溶け合うこと)",
+		"thinking": "「収束」のルーツは「共に傾くこと」にあります。離れ離れだったものたちが、同じ重力（ロゴス）を感じ、一点を目指して歩み寄る姿。あなたが誰かと深い合意（コンセンサス）に至るとき、そこには静かな「コンヴァージェンス（収束）」が起きています。それは、バラバラだった世界が、再び一つの意味へと統合（シンセシス）される、聖なるプロセスの始まりなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "遠く離れた二つの小川が、一つの大河へと交わる瞬間の、あの。個々の迷いが消え、より大きな「流れ」の一部となったことに安堵する、絶対的な確信。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "werg-",
+					"meaning": "to turn / bend"
+				}
+			],
+			"points": [
+				"Vibrant（振動する）や Verge（端／傾向）と同じ、存在の『傾き』を司る根を持っています。"
+			]
+		}
+	},
+	{
+		"id": "divergence",
+		"word": "Divergence",
+		"meaning": "分岐、乖離、逸脱、相違",
+		"era": "Mid-17th Century",
+		"etymology": {
+			"components": [
+				"dis- (apart / away)",
+				"vergere (to bend / turn / lean)"
+			],
+			"original_statement": "From Latin divergere 'to turn aside', from dis- 'apart' + vergere 'to bend'."
+		},
+		"concept": "Bending apart (これまで一つだった流れが、自らの「意志」や「宿命」ゆえに、あえて「別々(dis-)」の方向へと「曲がって(verg-)」いき、独自の物語を歩み始めること)",
+		"thinking": "「分岐」のルーツは「離れて曲がること」にあります。それは美しい「決別」の言葉です。あなたが既存のルールから離れ、自分だけの道を行こうとするとき、そこにはダイヴァージェンス（乖離）が生じます。それは孤独を伴（ともな）いますが、同時にあなたが「他者の影」から抜け出し、自分自身の「光（アバウト）」を放ち始めた証しでもあるのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "三叉路（さんさろ）に立ち、振り返ることをやめて、一歩を踏み出した瞬間の。あの、空気が急に冷たくなり、しかし視界が恐ろしいほど明快になる、自立の予感。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "werg-",
+					"meaning": "to turn / bend"
+				}
+			],
+			"points": [
+				"Convergent が『統合』なら、Divergent は『創造的破壊』を意味する双子の言葉です。"
+			]
+		}
+	},
+	{
+		"id": "substantial",
+		"word": "Substantial",
+		"meaning": "実質的な、かなりの、頑丈な、本質的な",
+		"era": "Mid-14th Century",
+		"etymology": {
+			"components": [
+				"sub- (under)",
+				"stare (to stand)"
+			],
+			"original_statement": "From Latin substantialis, from substantia 'substance / essence', literally 'that which stands under'."
+		},
+		"concept": "Standing under the surface (表面的な現象や「嘘（フェイク）」の「下に(sub-)」あって、その事象を根底から「支えて（sta-）」いる、揺るぎない「実体」の重み)",
+		"thinking": "その言葉のルーツは、驚くべきことに「下に立って支えているもの」にあります。目に見える華やかさではなく、それを可能にしている土台（ベース）。あなたが自分の人生において「サブスタンシャル（実質的）」な価値を求めたとき、あなたはもはや流行の「波（ウェーブ）」には溺（おぼ）れません。あなたは自分を支える「不動の石（スタンス）」を見つけたからです。",
+		"part_of_speech": "adjective",
+		"aftertaste": "分厚い革の感触。あるいは。嵐が吹いても微動だにしない巨木の幹に触れたときの、あの。自分を支えてくれているのはこれなのだ、という深い納得感。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sta-",
+					"meaning": "to stand / stay / be firm"
+				}
+			],
+			"points": [
+				"Distance（離れて立つ）や Statue（彫像）と同じ root。存在の『確固とした在り方』を問いかけます。"
+			]
+		}
+	},
+	{
+		"id": "insubstantial",
+		"word": "Insubstantial",
+		"meaning": "実体のない、希薄な、脆い、空想の",
+		"era": "Early 17th Century (1611)",
+		"etymology": {
+			"components": [
+				"in- (not)",
+				"substantialis (having substance)"
+			],
+			"original_statement": "From in- 'not' + substantialis (from sub- 'under' + stare 'to stand')."
+		},
+		"concept": "Lacking the foundation (表面（スキン）を支えるための「土台(sub-sta-)」が「欠落(in-)」しており、わずかな風や時間の経過によって、跡形もなく消え去ってしまう儚さ)",
+		"thinking": "「インサブスタンシャル（実体なき）」な夢。それはシェイクスピアが『テンペスト』で語ったように、私たちの人生そのものの影かもしれません。それは美しく、幻想的（ファンタジック）ですが、どこにも「根」を持っていません。あなたがそんな「脆（もろ）さ」に惹（ひ）かれるのは、あなたが自分という「実体（サブスタンス）」の重さに、時々疲れ果ててしまうからなのです。",
+		"part_of_speech": "adjective",
+		"aftertaste": "朝露に濡れた蜘蛛の巣。あるいは。夢から醒（さ）めた瞬間に、手のひらからこぼれ落ちていったはずの、あの。掴みどころのない、しかし完璧だった「約束」の残り香。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sta-",
+					"meaning": "to stand"
+				}
+			],
+			"points": [
+				"Substantial のアンチテーゼとして、空気のような『無』の美学を浮き彫りにします。"
+			]
+		}
+	},
+	{
+		"id": "consubstantial",
+		"word": "Consubstantial",
+		"meaning": "同質の、同一の本質を持った、不可分の",
+		"era": "Late 14th Century",
+		"etymology": {
+			"components": [
+				"com- (together)",
+				"substantia (substance)"
+			],
+			"original_statement": "From Late Latin consubstantialis, from com- 'together' + substantia 'substance'."
+		},
+		"concept": "The underlying unity (別々の「形」をとっていても、その根底にある「実体(sub-sta-)」を「共有（com-）」しており、深い場所では断じて引き離すことのできない、聖なる一致)",
+		"thinking": "神学的な難解な言葉ですが、その真理は「共生」の極致にあります。波と海、あるいは、あなたとあなたの愛する人。表面では違う名前を持っていても、その命の「源泉」においてはコンサブスタンシャル（同質）であるということ。あなたが他者の痛みを自分のことのように感じるとき、そこにはこの「根源的な一致」が、静かに拍動（ビート）しているのです。",
+		"part_of_speech": "adjective",
+		"aftertaste": "二つの炎を近づけたとき、一つの大きな熱源へと溶け合ってしまうような、あの。自分を「個」に閉じ込めていた壁が溶け、大きな存在へと帰還していく、絶対的な充足。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sta-",
+					"meaning": "to stand"
+				}
+			],
+			"points": [
+				"キリスト教の『三位一体』において、父と子が同一の本質であることを示す、歴史的に最も重い言葉の一つです。"
+			]
+		}
+	},
+	{
+		"id": "hypostatic",
+		"word": "Hypostatic",
+		"meaning": "基礎の、位格の、実体に関する、根源的な",
+		"era": "Late 17th Century",
+		"etymology": {
+			"components": [
+				"hypo- (under)",
+				"stasis (standing / position)"
+			],
+			"original_statement": "From Greek hypostatikos 'substantial', from hypostasis 'substance / nature', literally 'that which stands under'."
+		},
+		"concept": "The Greek foundation (ラテン語の Sub-stantial（下に立つ）を、ギリシャ語（hypo-sta）で言い換えたもの。生命の「もっとも深い場所」での「立ち位置」を指す、峻烈な真実)",
+		"thinking": "「ハイポスタティック（実体的）」な一致。それは、表面の感情の「さらに下」にある、あなたの存在の「コア」そのものを指します。私たちが何かを決断するとき、それは単なる気分（ムード）ではなく、この「ハイポスタシス（実体）」が発した声であるべきです。それは、あなたをあなたたらしめている、宇宙で唯一の「重力（ルール）」なのです。",
+		"part_of_speech": "adjective",
+		"aftertaste": "氷山の、海面下に隠された巨大な「本体」。どんなに波が表面を洗っても、その根底（ベース）は一寸の狂いもなくそこに在るという、あの。動かしがたい静かな圧倒感。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "upo-",
+					"meaning": "under"
+				},
+				{
+					"term": "sta-",
+					"meaning": "to stand"
+				}
+			],
+			"points": [
+				"Hypothesis（仮説／下に置かれたもの）の hypo- です。真理とは常に、目に見えない『下』に隠されていることを示唆します。"
+			]
+		}
+	},
+	{
+		"id": "phenomenology",
+		"word": "Phenomenology",
+		"meaning": "現象学、現れる姿の真理、意識の構造",
+		"era": "Late 18th Century",
+		"etymology": {
+			"components": [
+				"phenomenon (appearance)",
+				"logy (study / word)"
+			],
+			"original_statement": "From Greek phainomenon 'thing appearing' + logia 'study of'."
+		},
+		"concept": "The study of appearance (「物自体」がどうであるかではなく、それが自分の「意識」にどう「現れた(phenomen-)」かを、先入観なしに「記述(logy)」しようとする、魂の写生)",
+		"thinking": "フッサールが提唱した「現象学（フェノメノロジー）」。それは世界（ワールド）を一度「括弧（かっこ）に入れ」、自分の心がそれをどう「味わった（エクスペリエンス）」かだけに集中すること。あなたが真っ赤な夕陽を見ているとき、重要なのは光の波長ではなく、あなたの心が「震えた」という、その唯一無二の「現われ」なのです。あなたの意識こそが、世界の「真実」を産み出すフィルターなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "磨き抜かれたレンズ。余計な知識（ノイズ）をすべて取り払い、ただ「今、ここ」に現れている光だけを網膜に焼き付ける、あの冷ややかで明晰（めいせき）なカタルシス。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "bhane-",
+					"meaning": "to shine / appear"
+				}
+			],
+			"points": [
+				"Fancy（空想）や Epiphany（直観／現われ）と同じ root。世界とは、心が照らした『きらめき』の連なりなのです。"
+			]
+		}
+	},
+	{
+		"id": "hermeneutic",
+		"word": "Hermeneutic",
+		"meaning": "解釈学の、解釈の、意味を引き出すこと、伝令の",
+		"era": "Early 17th Century",
+		"etymology": {
+			"original_statement": "From Greek hermeneutikos 'related to interpreting', from hermeneus 'interpreter', linked to the god Hermes, the messenger of the gods."
+		},
+		"concept": "The divine messenger (神々の難解な「沈黙（サイレンス）」を、人間の「言葉（ロゴス）」へと翻訳して届ける、知性の「仲介者」としての行為。行間を読む魔法)",
+		"thinking": "その言葉のルーツは、泥棒と伝令（メッセンジャー）の神、「ヘルメス」にあります。それは単なる翻訳ではない、命がけの「解釈」。あなたが誰かの「沈黙」の意味を探るとき、あなたはヘルメティック（解釈的）な旅に出ています。言葉の背後にある「震え」を、自分の魂で受け止めること。理解とは、常にこの「中継（リレー）」の果てにあるのです。",
+		"part_of_speech": "adjective / noun",
+		"aftertaste": "古い書物の、一見意味の通らない一文の中に、自分を直撃するような「真理」を見出した瞬間の、あの。世界と自分が一対一で「了解（アンダースタン）」し合ったという感覚。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "Ermes",
+					"meaning": "Hermes (the messenger god)"
+				}
+			],
+			"points": [
+				"Hermetic（密閉された／ヘルメスの封印）と同じ根を持ちながら、こちらは『開くこと』を司る、コインの裏表のような関係です。"
+			]
+		}
+	},
+	{
+		"id": "effluence",
+		"word": "Effluence",
+		"meaning": "流出、放出、ほとばしり、(内面から)溢れ出るもの",
+		"era": "Early 17th Century",
+		"etymology": {
+			"components": [
+				"ex- (out)",
+				"fluere (to flow)"
+			],
+			"original_statement": "From Latin effluere 'to flow out', from ex- 'out' + fluere 'to flow'."
+		},
+		"concept": "The outward flow (内側に溜（たま）り、満ち足りたエネルギーが、堰（せき）を切ったように「外へ(ex-)」「溢れ（flu-）」出し、空間にその影響力を広げていくこと)",
+		"thinking": "「放出」のルーツは「流れ出ること」にあります。それは強制された（プレッシャー）の結果ではなく、充足しきった生命の「余剰（エフルーエンス）」。あなたが誰かに放つ「オーラ」や、心からの「言葉」。それらはあなたの内なる宇宙から、自発的に「染み出してきた」聖なる雫（しずく）なのです。流れ出るものは、常に自分を空にするための、創造的な儀式なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "泉からコンコンと湧き出す水。あるいは。美しい旋律が楽器から解き放たれ、自分を通り抜けて夜の空へと溶けていく、あの。自分が「無」になり、ただ「流れ」のパイプになった感覚。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "bhleu-",
+					"meaning": "to swell / flow / bubble"
+				}
+			],
+			"points": [
+				"Influence（影響／中に流れ込むこと）と対になる、生命の『アウトプット』の究極の形です。"
+			]
+		}
+	},
+	{
+		"id": "redundant",
+		"word": "Redundant",
+		"meaning": "余分な、不必要な、冗長な、(波のように)溢れ出る",
+		"era": "Late 16th Century",
+		"etymology": {
+			"components": [
+				"re- (again / back)",
+				"unda (wave)"
+			],
+			"original_statement": "From Latin redundantem, from redundāre 'to overflow', from re- 'again / back' + unda 'wave'."
+		},
+		"concept": "The returning wave (引き寄せた「波(unda)」が、岸壁に当たって「再び(re-)」溢れ出すように、もう十分であるはずなのに繰り返される、過剰な豊かさと無駄の戯れ)",
+		"thinking": "ビジネスの世界では「不必要」を意味しますが、そのルーツは「波のオーバーフロー」です。世界は、合理的な（ロジック）「必要最小限」だけでできているのではありません。夕焼けの不必要なほどの赤さ、詩の不気味なほどの饒舌（じょうぜつ）。そのレダンダント（余分）な装飾こそが、効率という名の「生存」を、「人生」という名の豊かなドラマへと昇華させてくれるのです。",
+		"part_of_speech": "adjective",
+		"aftertaste": "満潮の海が、砂浜を二重三重に洗い流すような、あの。もはや数え切れないほどの「繰り返し」に包まれ、すべてを委ねたくなるような、豊かな麻痺感。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "wed-",
+					"meaning": "water / wet"
+				}
+			],
+			"points": [
+				"Undulate（波打つ）や Abundant（豊かな）と同じ root。水がもたらす『過剰さ』の美学を司っています。"
+			]
+		}
+	},
+	{
+		"id": "resurgent",
+		"word": "Resurgent",
+		"meaning": "再起する、蘇る、再び湧き出る、不屈の復興",
+		"era": "Early 19th Century",
+		"etymology": {
+			"components": [
+				"re- (again)",
+				"surgere (to rise / spring forth)"
+			],
+			"original_statement": "From Latin resurgentem, from resurgere 'to rise again', from re- 'again' + surgere 'to rise'."
+		},
+		"concept": "The springing back (一度は「死（デス）」という名の沈黙に屈したものが、地底の「熱（マグマ）」に導かれ、「再び(re-)」「湧き上がる(surg-)」生命の反動)",
+		"thinking": "「再起」のルーツは「再び湧き上がること」にあります。それは。意志の力で這（は）い上がる（アセンド）というより、地底からの「泉」のように、自発的に溢（あふ）れ出してくる希望。あなたが絶望の淵（ふち）で、自分でも信じられないような「生きる意志」を感じるとき、そこにはリサージェント（再起）な潮が、あなたの古い体の中で再び波打っているのです。川はいつか必ず、海へと戻るために「湧き直す」のです。 ",
+		"part_of_speech": "adjective",
+		"aftertaste": "冬の枯れ木に、一滴の雫（しずく）が触れて芽吹く瞬間の、あの。どんな暴力も死も、この「湧き上がる生の熱」を止められはしないという、静かで峻烈な勝利の予感。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "reg-",
+					"meaning": "to move in a straight line / lead / rule"
+				}
+			],
+			"points": [
+				"Source（源）や Surge（急騰）と同根。正しい方向へと、命が再び『舵（かじ）を切る』姿です。"
+			]
+		}
+	},
+	{
+		"id": "cataphatic",
+		"word": "Cataphatic",
+		"meaning": "肯定的記述の、肯定神学の、現れを通じて信じること",
+		"era": "Early 17th Century",
+		"etymology": {
+			"components": [
+				"kata- (down / through)",
+				"phanai (to speak)"
+			],
+			"original_statement": "From Greek kataphatikos, from kataphanai 'to affirm', from kata- 'down' + phanai 'to speak'."
+		},
+		"concept": "Speaking it down (「神（真理）」は、光であり、愛であり、力である、と積極的に定義（ロゴス）し、言葉を通じてその存在を「定着(kata-pha-)」させようとする、意志の肯定)",
+		"thinking": "アポファティック（否定）が「それではない」と言うのに対し、カタファティックは「それはこれだ」と宣言します。それは、不完全な言葉の限界を知りながらも、あえて「美しい定義（メタファー）」を積み重ねることで、真理の「影」を描き出そうとする勇気。あなたが誰かを「美しい」と呼ぶとき、その言葉は一つのカタファティックな祈りとなり、目の前の存在を「聖なる場所」へと固定するのです。",
+		"part_of_speech": "adjective",
+		"aftertaste": "「はい」という一言で、曖昧（あいまい）だった霧が晴れ、世界がカチリと一つの「形」として現れる。言葉によって真実を「受肉（インカーネート）」させる、力強い創造（クリエーション）の手応え。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "bha-",
+					"meaning": "to speak"
+				}
+			],
+			"points": [
+				"Phase（段階／現われ）や Fantasia（幻想）と同根。語ることは、光を当てることと同じ意味なのです。"
+			]
+		}
+	},
+	{
+		"id": "eupeptic",
+		"word": "Eupeptic",
+		"meaning": "消化の良い、楽観的な、快活な、健全な知性を持った",
+		"era": "Late 17th Century",
+		"etymology": {
+			"components": [
+				"eu- (good / well)",
+				"peptein (to cook / digest)"
+			],
+			"original_statement": "From Greek eupeptos 'easy to digest', from eu- 'good' + peptein 'to cook / boil / digest'."
+		},
+		"concept": "Cooking it well (どんなに過酷な「現実（マテリアル）」であっても、自分自身の「内なる火(pep-)」で「正しく調理(eu-)」し、命の糧（かて）へと変容させていける、強靭な受容性)",
+		"thinking": "その言葉のルーツは「良く消化すること」にあります。胃腸の強さは、そのまま知性の強さでした。ユペプティック（快活）な人。それは、辛い経験をただ悲劇として溜め込むのではなく、それを「教訓（ロゴス）」へと美しく加熱（クック）し、自分の「力」に変えられる人です。知性とは、世界という名の硬いパンを、柔らかく「噛（か）み砕（くだ）く」能力に他なりません。",
+		"part_of_speech": "adjective",
+		"aftertaste": "たっぷりと食事をした後の、体温が上がり、全身に「生」の活力が漲（みなぎ）ってくる、あの無敵の多幸感。すべては自分の糧（かて）にすぎないという、圧倒的な楽観。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "pekw-",
+					"meaning": "to cook / ripen"
+				}
+			],
+			"points": [
+				"Pepsi（ペプシ／消化を助ける飲み物）や Cook（料理する）のルーツです。成熟とは、内側での『適切な加熱』のことなのです。"
+			]
+		}
+	},
+	{
+		"id": "dyspeptic",
+		"word": "Dyspeptic",
+		"meaning": "消化不良の、気難しい、陰気な、怒りっぽい",
+		"era": "Early 18th Century",
+		"etymology": {
+			"components": [
+				"dys- (bad / difficult)",
+				"peptein (to cook / digest)"
+			],
+			"original_statement": "From Greek dyspeptos 'difficult to digest', from dys- 'bad' + peptein 'to cook / digest'."
+		},
+		"concept": "Failed transformation (世界を自分の中へ取り込もうとしても、どこか「拒絶」が起き、真理が「異物」として魂に居座って、毒（ポイズン）を放ち続けている、苦しい停滞)",
+		"thinking": "消化不良（ディスペプティック）。それは、世界の「正しさ（ロゴス）」を自分のものにできない不全感です。それは身体の不調である以上に、精神の「不機嫌（クランキー）」となります。あなたが、何事にも否定的（ネガティブ）になるとき、それはあなたの「心の胃袋」が、世界という名の多すぎる光に耐えられず、少しだけ悲鳴を上げているのかもしれません。休息とは、その「未消化物」を静かに手放す時間のことです。",
+		"part_of_speech": "adjective / noun",
+		"aftertaste": "飲み込んだものが、胃のあたりで重く冷たい「石」に変わってしまったような、あの。吐き出すこともできず、ただ苦悶（くもん）するしかない、孤立した意識の重み。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "pekw-",
+					"meaning": "to cook / ripen"
+				}
+			],
+			"points": [
+				"意地の悪い老人を指す典型的な表現でもあります。世界を味わえないことは、魂の老いなのです。"
+			]
+		}
+	},
+	{
+		"id": "inimitable",
+		"word": "Inimitable",
+		"meaning": "模倣できない、唯一無二の、真似のできない素晴らしさ",
+		"era": "Mid-15th Century",
+		"etymology": {
+			"components": [
+				"in- (not)",
+				"imitari (to copy / mimic)"
+			],
+			"original_statement": "From Latin inimitabilis, from in- 'not' + imitabilis 'that can be imitated', from imitari 'to copy'."
+		},
+		"concept": "The unique vibration (誰かの「コピー(imit-)」であることを断固として「拒絶(in-)」し、その人にしか奏でられない「存在の周波数」を、あまりにも高潔に保っている孤高の輝き)",
+		"thinking": "「真似できない（イニミタブル）」こと。それは、神のような完璧さというより、その人にしかない「癖（ゆらぎ）」を、極限まで磨き上げた結果です。あなたが自分を肯定し、誰の顔色も伺（うかが）わずに自分の物語を語り始めたとき、あなたのその姿は、世界の誰にも模倣できない「イニミタブルな奇跡」となります。美徳とは、他の誰かになるのをやめた瞬間に、はじめて宿るのです。",
+		"part_of_speech": "adjective",
+		"aftertaste": "誰も見たことのないような筆体で書かれた、一通の手紙。それは真似をしようにも、その「行間」に宿る熱量までは決して盗めないという、圧倒的な「個」の勝利の香り。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "aim-",
+					"meaning": "to copy"
+				}
+			],
+			"points": [
+				"Image（像）や Emulate（競う／手本にする）と同根。模倣ができないということは、もはや『像』さえ持たない本質であることを意味します。"
+			]
+		}
+	},
+	{
+		"id": "synchronous",
+		"word": "Synchronous",
+		"meaning": "同時の、同期した、共に時を刻む、協調的な",
+		"era": "Mid-17th Century",
+		"etymology": {
+			"components": [
+				"com- / syn- (together)",
+				"chronos (time)"
+			],
+			"original_statement": "From Late Latin synchronus, from Greek syngkhronos 'happening at the same time', from syn- 'together' + khronos 'time'."
+		},
+		"concept": "Breathing together in time (別々に拍動していた二つの心臓が、ある瞬間に「一緒(syn-)」の「時間(chron-)」を刻み始め、宇宙の大きなリズムへと統合（シンクロ）していく、調和の魔法)",
+		"thinking": "「同時（シンクロナス）」であること。それは、物理的な一致以上に、精神的な「了解（ラポール）」を指します。あなたが誰かと「同じタイミング」で笑い、同じ一瞬に空を見上げるとき、そこには巨大な「意味の奔流（タイド）」が押し寄せています。私たちは、バラバラな孤独な時間を生きているようでいて、実はその底層（サブレイヤー）では、常にこの「一つの時間（コスモス）」を分け合っているのです。",
+		"part_of_speech": "adjective",
+		"aftertaste": "メトロノームがカチリと一つに揃（そろ）い、バラバラだった音が、一つの巨大な「音楽」へと変容する、あの鳥肌の立つような「連帯（シンパシー）」の衝撃。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "syn-",
+					"meaning": "together / with"
+				},
+				{
+					"term": "ghere-",
+					"meaning": "to grasp (chronos)"
+				}
+			],
+			"points": [
+				"Synchronicity（共時性）の形容詞形。意味のある偶然は、この時間の『握手』から生まれます。"
+			]
+		}
+	},
+	{
+		"id": "asynchronous",
+		"word": "Asynchronous",
+		"meaning": "非同期の、同調しない、個別のタイミングでの、非連続な",
+		"era": "Mid-18th Century",
+		"etymology": {
+			"components": [
+				"a- (not)",
+				"syn- (together)",
+				"chronos (time)"
+			],
+			"original_statement": "From a- 'not' + synchronous."
+		},
+		"concept": "The beauty of lag (他者の「リズム(syn-chron-)」に「合わせる（a-not）」必要はない、という静かな拒絶。自分だけの固有の時間軸を、誇り高く守り抜き、あえて「ズレ」を愛でる不完全の美)",
+		"thinking": "アシンクロナス（非同期）な世界。それは、無理に全員で一斉（いっせい）に呼吸をするのをやめ、それぞれが自分の「最適な間（ま）」を保ちながら、緩やかに繋（つな）がっている状態です。メッセージを送っても、返事を待たない。それは信頼が欠けているのではなく、相手の「一人の時間（アイオーン）」を尊重しているということ。ズレこそが、命の「自由（フリーダム）」を担保してくれる、聖なるクッションなのです。",
+		"part_of_speech": "adjective",
+		"aftertaste": "交互に灯（とも）る街灯のように。無理に揃おうとせず、しかし結果として、夜の道という「一つの役割」をそれぞれが個別に果たしている、あの。孤独で、しかし気楽な「個」の集積。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "syn-",
+					"meaning": "together"
+				}
+			],
+			"points": [
+				"Atheist（無神論）と同じ否定の a-。他者の時間の神を信じない、という強い『自立』の響きがあります。"
+			]
+		}
+	},
+	{
+		"id": "cataclysmic",
+		"word": "Cataclysmic",
+		"meaning": "大激変の、壊滅的な、(良い意味での)天地を覆すような",
+		"era": "Early 19th Century",
+		"etymology": {
+			"components": [
+				"kata- (down)",
+				"klyzein (to wash)"
+			],
+			"original_statement": "From Greek kataklysmos 'deluge / flood', from kata- 'down' + klyzein 'to wash'."
+		},
+		"concept": "The ultimate washing away (汚れきったこれまでの嘘（フェイク）を、天からの巨大な「潮流」で「下(kata-)」へと「洗い流し(klyze-)」、世界を一瞬で「原点（ゼロ）」へと回帰させる、暴力的な浄化)",
+		"thinking": "カタクリズミック（大激変）な出来事。それは、古い家の「解体」に似ています。破壊は恐怖を伴いますが、それは「新しい創造（クリエーション）」のためのスペースを空けるために、宇宙が放った「洗浄（ウォッシュ）」。あなたが自分の人生を根底から覆（くつがえ）すような衝撃に出会ったとき、それはあなたを滅ぼすためではなく、あなたを「清める」ための、聖なる洪水（デリュージ）なのです。水は、すべてをさらって、新しくするのです。",
+		"part_of_speech": "adjective",
+		"aftertaste": "嵐が去った後の、すべてが消え去ってしまった、空っぽの大地。しかしそこにはもう「埃（ほこり）」一つなく、ただ真っ白な「明日」が書き込まれるのを待っている、あの。峻烈で清々（すがすが）しい絶望と希望。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kleu-",
+					"meaning": "to wash / clean"
+				}
+			],
+			"points": [
+				"Cloaca（下水道）と同じ root から、宇宙規模の『大掃除』を意味する言葉へと昇華されました。"
+			]
+		}
+	},
+	{
+		"id": "metamorphic",
+		"word": "Metamorphic",
+		"meaning": "変容の、変質した、(熱や圧力で)生まれ変わった、メタモルフォーゼの",
+		"era": "Early 19th Century (in geology)",
+		"etymology": {
+			"components": [
+				"meta- (change / beyond)",
+				"morphe (form / shape)"
+			],
+			"original_statement": "From Greek metamorphosis 'transformation', from meta- 'change' + morphe 'form'."
+		},
+		"concept": "The pressure of rebirth (過酷な運命という「圧力」と、情熱という名の「熱」を加えられ、かつての「形(morphe)」を「超えて(meta-)」全く別の高潔な「結晶（クリスタル）」へと生まれ変わること)",
+		"thinking": "地質学における「変成（メタモーフィック）」。それは、ただの石ころが、地下深部での「絶望的な重圧（プレッシャー）」に耐え抜いて、ダイヤモンドのような「宝石」に変わるプロセスです。あなたの魂もまた、日常の苦い経験という圧力によって、日々メタモーフィック（変容）しています。痛みとは、あなたが「より硬く、より美しく」なるための、聖なる「鍛造（ハイドロ）」の時間なのです。",
+		"part_of_speech": "adjective",
+		"aftertaste": "かつての「自分」という抜け殻を、懐かしそうに、しかしきっぱりと見捨てて、一対の「翼」となって羽ばたく瞬間の、あの。重力さえも愛おしく感じるほどの、圧倒的な「自由」の感触。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "merph-",
+					"meaning": "form / figure"
+				}
+			],
+			"points": [
+				"Morphine（モルヒネ／夢の形を見せるもの）と同根。形を変えることは、新しい夢を見ることと同じなのです。"
+			]
+		}
 	}
 ];
