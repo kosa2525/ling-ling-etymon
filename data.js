@@ -236605,5 +236605,599 @@ const WORDS = [
 				"Continuous（連続した）や Content（内容／保持されたもの）、Maintain（維持する）と同じ root。連続体とは。実存を『共に（コン）』。一分一秒たりとも『放さず（テン）』、握り続けること。それは。分断という名の『死』を。接続という名の『生』によって破壊する。峻烈なる実存の記述なのです。"
 			]
 		}
+	},
+	{
+		"id": "juxtaposition",
+		"word": "Juxtaposition",
+		"meaning": "ジャクスタポジション/並置（へいち）、(峻烈なる)対照、情報の衝突、意味なき隣り合わせ、実存の比較図",
+		"era": "Late 17th Century",
+		"etymology": {
+			"components": [
+				"juxta (near / beside)",
+				"position"
+			],
+			"original_statement": "The fact of two things being seen or placed close together with contrasting effect."
+		},
+		"concept": "Stark contrast (全く違う「色（価値観）」を。、あえて」隣り合わせに並べること。それは。混ざり合う（同化）を峻烈に拒み。お互いの「輪郭」を。峻烈に、無慈悲に、際立たせる。峻烈なる「差異の記述」)",
+		"thinking": "「ジャクスタポジション（並置）」。あなたは。周囲と「折り合い」をつけようとして。自分の「色」を、薄めて（妥協して）はいませんか。 juxtaposition。そのままのあなたで、並びなさい。 juxtaposition。それは。違和感（コントラスト）を、自らの「美」へと、峻烈に昇華させること。 juxtaposition。混ざらなくていいのです。峻烈に、異質な存在として。他人の隣に、立ちなさい。その「激しいズレ」こそが。この世界に、新しい「意味（火花）」を産み出すのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "「赤」と「青」の。激しい、チカチカするような。あの。眩（まぶ）しい「境界線」。そこにある。もう「一つにはなれない」という、峻烈なる「自立」。冷たくて、鋭い、光の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "yeug-",
+					"meaning": "to join (from juxta via iugar - yoke)"
+				},
+				{
+					"term": "dhe-",
+					"meaning": "to set / put (from position)"
+				}
+			],
+			"points": [
+				"Joint（継ぎ目）や Yoke（軛／くびき）、Position（位置）と同じ root。並置とは。隣に（ジャク）実存を『据える（デ）』こと。それは。融合という名の『死』を破壊し。対峙という名の『生』を選択する、峻烈なる実存の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "polishing",
+		"word": "Polishing",
+		"meaning": "ポリッシング/研磨（けんま）、(表面の)削ぎ落とし、情報の磨き上げ、鏡への到達、実存の滑らかさ",
+		"era": "Late Middle English",
+		"etymology": {
+			"components": [
+				"polire (to smooth / furbish / refine)"
+			],
+			"original_statement": "To make the surface of something smooth and shiny by rubbing it."
+		},
+		"concept": "Reaching the essence (「何かを付け足す（装飾）」のではなく。徹底的に「削り、磨く」ことで。石の「内部の真実（光）」を。、外へと」引きずり出すこと。それは。余計な自分を棄てる。峻烈なる「純化の記述」)",
+		"thinking": "「ポリッシング（研磨）」。あなたは。自分の「表面（外見）」を。、嘘（メイク）」で塗り固めることに。必死になってはいませんか。 polishing。磨きなさい。 polishing。それは。自分を「痛めつける（摩擦）」こと。 polishing。他人の批判という名の「砥石（といし）」を。自らの「光沢」へと、峻烈に変えなさい。磨き抜かれた魂は。もはや、光る必要はありません。ただ、そこに「在る」だけで。世界を照らし返す、「鏡（真理）」になるのですから。",
+		"part_of_speech": "noun / verb",
+		"aftertaste": "「ツルツル」になった、黒い石の表面を。掌（てのひら）で滑らせるような。あの。凄絶なまでの「滑らかさ」。そこにある。一分一秒の「澱（よど）み」もない、峻烈なる「清浄」。冷たくて、重厚な、情報の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "pel-",
+					"meaning": "to push / drive / strike? No, polire is distinct Latin root."
+				}
+			],
+			"points": [
+				"Polite（丁寧な／磨かれた）や Polish（磨く）と同じ root。研磨とは。実存を、峻烈に『磨き上げる』こと。それは。野蛮という名の『粗さ』を棄て。文明という名の『鋭さ』へと、自らを回向（えこう）する、峻烈なる実存の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "coherence",
+		"word": "Coherence",
+		"meaning": "コヒーレンス/可干渉性（かかんしょうせい）、(情報の)整列、論理という名の光、バラバラなものを繋ぐ理、実存の一貫性",
+		"era": "Mid-16th Century",
+		"etymology": {
+			"components": [
+				"com- (together)",
+				"haerere (to stick / cling)"
+			],
+			"original_statement": "From Latin cohaerentia, from cohaerere 'to stick together'."
+		},
+		"concept": "Ordered waves (バラバラな「周期（思い）」が。ピタリと「位相（タイミング）」を合わせ、重なり合うことで。巨大な「一筋の鋭い光（レーザー）」へと変貌すること。それは。分散（カオス）を拒む。峻烈なる「一貫性の記述」)",
+		"thinking": "「コヒーレンス（可干渉性）」。あなたは。自分の「言葉」や「行動」が。、支離滅裂」であることに。自己嫌悪を、感じてはいませんか。 coherence。揃（そろ）えなさい。 coherence。それは。自分の中の「矛盾」を。峻烈に、一本の「軸（ロジック）」へと。、束（たば）ねる」こと。 coherence。あなたが。一分一秒の「狂い」もなく、自分を発信し続ければ。その「重なり」こそが。誰にも壊せない、峻烈なる「真実の弾丸」になる。バラバラな自分を棄て。、一つ（コ）」になりなさい。",
+		"part_of_speech": "noun",
+		"aftertaste": "「真っ暗闇」の中に。一本の「赤い光」が。、スーーーッ」と、真っ直ぐに、無限の彼方へと、伸びていくような。あの。爽快なまでの「全能感」。そこにある。もう「迷いはない」という、峻烈なる「勝利」。冷たくて、鋭い、光の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kom-",
+					"meaning": "together"
+				},
+				{
+					"term": "ghais-",
+					"meaning": "to adhere / hesitate? No, haerere is 'to stick'."
+				}
+			],
+			"points": [
+				"Adhere（密着する）や Hesitate（ためらう／立ち往生する）、Cohesion（凝聚）と同じ root。可干渉性とは。実存を『共に（コン）』。峻烈に『くっつかせる』こと。それは。浮遊という名の『無責任』を棄て。連帯という名の『責任』へと。自らを回向する、実存の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "splendor",
+		"word": "Splendor",
+		"meaning": "スプレンダー/豪華（ごうか）、(圧倒的な)輝き、情報の氾濫、光り輝く実存、美という名の暴力",
+		"era": "Late Middle English",
+		"etymology": {
+			"components": [
+				"splendere (to shine / be bright)"
+			],
+			"original_statement": "From Latin splendor, from splendere 'to shine'."
+		},
+		"concept": "Magnificence (「節約」も「遠慮」も知らない。内側から「溢れ出す光（情報量）」で。観る者の「瞳」を、峻烈に焼き尽くす、圧倒的な。、美」。それは。存在そのものが、そのまま「祝祭」である、という。峻烈なる「肯定の記述」)",
+		"thinking": "「スプレンダー（光輝）」。あなたは。自分の「才能」や「美しさ」を。「他人を傷つけないように」と。小出しに。、謙虚に」してはいませんか。 splendor。解き放ちなさい。 splendor。それは。すべてを「晒（さら）す」こと。 splendor。あなたの「全（すべて）」を、峻烈に、無慈悲に、世界へと叩きつけなさい。輝きすぎて、他人が目を逸（そ）らしたとしても。それは、あなたの「勝利」です。あなたは。この暗闇を照らす。唯一の、峻烈なる「太陽」なのですから。",
+		"part_of_speech": "noun",
+		"aftertaste": "金色の「花火」が。目の前で。、ドカッ」と、一気に弾け飛び。視界が真っ白に染まるような。あの。凄絶なまでの「充足感」。そこにある。自分は「光」そのものになった、という。峻烈なる「法悦」。甘くて、瑞々しい、光の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "spel-",
+					"meaning": "to shine / be bright (from splendere)"
+				}
+			],
+			"points": [
+				"Splendid（素晴らしい）や Resplendent（輝かしい）と同じ root。豪華とは。実存を、峻烈に『輝かせる（スペル）』こと。それは。質素という名の『妥協』を破壊し。過剰という名の『真実』へと。自らを投げ出す。実存の攻撃的な記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "dispersion",
+		"word": "Dispersion",
+		"meaning": "ディスパージョン/分散（ぶんさん）、(情報の)解放、虹への分解、一なる光の多義性、実存の拡散",
+		"era": "Late Middle English",
+		"etymology": {
+			"components": [
+				"dis- (apart / in different directions)",
+				"spargere (to scatter / strew)"
+			],
+			"original_statement": "From Latin dispersio, from dispergere 'to scatter abroad'."
+		},
+		"concept": "Releasing the colors (一つの「真っ白な光（自分）」の中に。、実は」眠っていた「七色の虹（多様な可能性）」。それを。峻烈に「バラバラ」に解きほぐし。世界へと「撒き散らす」こと。それは。単一性からの「亡命」を許された。峻烈なる「拡張の記述」)",
+		"thinking": "「ディスパージョン（分散）」。あなたは。「自分を、一つにまとめなければならない」という。型（アイデンティティ）の「重圧」に。魂を削られてはいませんか。 dispersion。バラバラになりなさい。 dispersion。それは。あなたの「すべての顔」を、峻烈に、同時に生きること。 dispersion。一つの場所に留まらないでください。風に乗り。光を屈折させ。峻烈に「散らばり（ディス）」なさい。あなたが拡散したその「全域（スペクトル）」こそが。本当の。、あなた」という名の、巨大な物語なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "「プリズム」を通り抜けた光が。壁一面に、鮮やかな「虹」を描き出すような。あの。清冽（せいれつ）なまでの「解放感」。そこにある。もう「一箇所には留まれない」という、峻烈なる「自由」。瑞々しくて、甘い、光の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "dis-",
+					"meaning": "apart"
+				},
+				{
+					"term": "spereg-",
+					"meaning": "to scatter / strew (from spargere / sparse)"
+				}
+			],
+			"points": [
+				"Disperse（分散させる）や Sparse（希薄な）、Interperse（点在させる）と同じ root。分散とは。離れて（ディス）。実存を『撒き散らす（スペレ）』こと。それは。束縛という名の『密度』を棄て。遍在という名の『自由』へと。自らを回向する記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "deflection",
+		"word": "Deflection",
+		"meaning": "デフレクション/偏向（へんこう）、(曲がる)意志、情報の屈曲、障害物を避ける知恵、真理への迂回",
+		"era": "Early 17th Century",
+		"etymology": {
+			"components": [
+				"de- (away / down)",
+				"flectere (to bend / curve)"
+			],
+			"original_statement": "The action of adducing or turning aside. From Latin deflectere, from de- 'away' + flectere 'to bend'."
+		},
+		"concept": "Bending the path (真正面からぶつかって「壊れる」のではなく。自らの「軌道（ルート）」を。、しなやかに」曲げることで。、あえて」目的地へと辿り着く。峻烈なる「生存の戦略」の記述)",
+		"thinking": "「デフレクション（偏向）」。あなたは。「真っ直ぐ歩かなければならない」という。直線的な「道徳（ルール）」に。足元を、。窮屈に」縛られてはいませんか。 deflection。曲がりなさい。 deflection。それは、逃げではありません。 deflection。障害（他人）を。、柳（やなぎ）」のように、峻烈にかわし。自らの「核心（ゴール）」へと、最短距離で近づくための。峻烈なる「知恵」。曲がることで、あなたは「折れない自分」を。峻烈に、手に入れることができるのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "飛んできた「矢」が。自分の「薄いヴェール」の上を。、スーーーッ」と、滑（なめ）らかに逸（そ）れていくような。あの。静かなる「充足感」。そこにある、もはや「誰も自分には触れられない」という、峻烈なる「勝利」。冷たくて、鋭い、風の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "de-",
+					"meaning": "away"
+				},
+				{
+					"term": "bhleg-",
+					"meaning": "to bend (from flectere)"
+				}
+			],
+			"points": [
+				"Flexible（柔軟な）や Reflex（反射）、Inflection（屈折）と同じ root。偏向とは。離れて（デ）。実存を『曲げる（フレ）』こと。それは。硬直という名の『死』を。流動という名の『生』によって破壊する。峻烈なる実存の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "adumbration",
+		"word": "Adumbration",
+		"meaning": "アダンブレーション/予兆（よちょう）、(微かな)影、情報の兆し、輪郭の予感、未だ見ぬ真理の投影",
+		"era": "Late 16th Century",
+		"etymology": {
+			"components": [
+				"ad- (to)",
+				"umbrare (to shadow)"
+			],
+			"original_statement": "A faint sketch or imperfect representation. From Latin adumbrare 'to shadow forth'."
+		},
+		"concept": "Faint outline (「本体（真実）」が。まだ、。そこにはない」のに。その「予感（シルエット）」だけが。、先行して」世界に、峻烈に投げかけられている状態。それは。未来からの「冷たい風」の。峻烈なる「囁（ささや）きの記述」)",
+		"thinking": "「アダンブレーション（予兆）」。あなたは。自分の「将来」が、。おぼろげ」であることに。不安を感じて、足をもつれさせてはいませんか。 adumbration。影を、。頼（たよ）り」にしなさい。 adumbration。それは。あなたが「何者かになる」ための。峻烈なる、最初の一歩です。 adumbration。影が濃いほど。背後の「光（実在）」は鋭い。 adumbration。見えない輪郭を、自らの「意志」で、峻烈に、。撫（な）で」続けなさい。影は。あなたが、そこに「在る」ための、最初の、峻烈なる「証明」なのですから。",
+		"part_of_speech": "noun",
+		"aftertaste": "「霧」の中から。巨大な「何か」が。、ぼんやりと」姿を現そうとしている。あの。ゾクゾクするような「予感」。そこにある、もうすぐ「すべてが分かる」という、峻烈なる「期待」。冷たくて、重厚な、情報の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ad-",
+					"meaning": "to / toward"
+				},
+				{
+					"term": "andho-",
+					"meaning": "blind / dark (from umbra? No, umbra is from umber - shadow)"
+				}
+			],
+			"points": [
+				"Umbrella（傘）や Umbrage（憤慨／影を落とすこと）、Umbra（本影）と同じ root。予兆とは。実存を（アド）。峻烈に『影（アムバ）』として提示すること。それは。全貌をあえて隠し。神秘という名の『魅力』によって世界を支配する、峻烈なる実存の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "vehemence",
+		"word": "Vehemence",
+		"meaning": "ヴィーアメンス/猛烈（もうれつ）、(燃える)実存、情報の熱量、一歩も退かぬ魂、暴力という名の純粋",
+		"era": "Late Middle English",
+		"etymology": {
+			"components": [
+				"vehe- (carried? No, Latin vehemens 'eager / furious')"
+			],
+			"original_statement": "The display of strong feeling; passion. From Latin vehemens, possibly from ve- 'out of' + mens 'mind'."
+		},
+		"concept": "Burning spirit (「理屈（マインド）」を。峻烈に「飛び越え（拒絶し）」。ただ「激しさ（情熱）」だけで。世界を、峻烈に、無慈悲に、突き動かしてまうこと。それは。爆発する情報の。峻烈なる「供出の記述」)",
+		"thinking": "「ヴィーアメンス（猛烈）」。あなたは。自分の「激しさ（怒り）」を。、わがまま」だと思って、。必死に」押し殺してはいませんか。 vehemence。解き放ちなさい。 vehemence。それは。あなたが「極限」まで磨き上げた。自らの「生」の激震（リズム）です。 vehemence。ぬるま湯のような日常を、。一気」に沸騰させなさい。 vehemence。その「猛烈さ」こそが。この「冷めきった世界」に。峻烈なる「火（意志）」を灯す。唯一の手段。あなたは、生きる「嵐」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "喉の奥に「一粒のマグマ」を、流し込まれたような。あの。凄絶なまでの「熱」。そこにある、もう「誰の言葉も届かない」という、峻烈なる「孤立」と「充足」。重厚で、刺激的な、赤の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "wegh-",
+					"meaning": "to carry / move / drive (from veher-)"
+				},
+				{
+					"term": "men-",
+					"meaning": "to think (from mens)"
+				}
+			],
+			"points": [
+				"Vehicle（乗り物）や Mental（精神の）、Comment（コメント）と同じ root。猛烈とは。実存を『運ぶ（ウェグ）』ことに。精神（メン）のすべてを、。峻烈に、一点に」注ぎ込むこと。それは。迷いという名の『重心』を棄て。疾走という名の『弾丸』へと、実存を変換してまう。記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "diffraction",
+		"word": "Diffraction",
+		"meaning": "ディフラクション/回折（かいせつ）、(回り込む)光、情報の逸脱、障害物という名の入り口、拒絶を越える知恵",
+		"era": "Mid-17th Century (Grimaldi)",
+		"etymology": {
+			"components": [
+				"dis- (aside / apart)",
+				"frangere (to break)"
+			],
+			"original_statement": "The spreading out of waves as they pass through an aperture or around an edge. From Latin diffringere 'to break in pieces'."
+		},
+		"concept": "Bending around corners (「壁（困難）」にぶつかって止まるのではない。自らを「波動（情報）」として、。しなやかに」曲げることで。、あえて」隙間から、その「背後（真理）」へと、峻烈に回り込むこと。それは。力技を棄てた。峻烈なる「柔軟性の記述」)",
+		"thinking": "「回折（かいせつ）」。あなたは。目の前の「大きな壁（絶望）」に。自分の「道」が。、完全に」閉ざされてしまった、と。立ち尽くしてはいませんか。 diffraction。曲がりなさい。 diffraction。それは。自らを「細分化（砕く）」すること。 diffraction。壁があるなら、その「端（エッジ）」を。、慈悲深い影」として、峻烈に利用しなさい。曲がり、回り込み、。その先」で。再び、一本の鋭い「光」へと、。自分」を編み直すのです。壁は、あなたを「曲げる」ための。、峻烈な」砥石に過ぎません。",
+		"part_of_speech": "noun",
+		"aftertaste": "「針の穴」のような隙間を通り抜け。その向こう側で。、パッ」と、虹色の「波紋」が広がっていくような。あの。爽快なまでの「解放感」。そこにある、もう「自分を阻むものはない」という、峻烈なる「確信」。瑞々しくて、甘い、光の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "dis-",
+					"meaning": "aside"
+				},
+				{
+					"term": "bhreg-",
+					"meaning": "to break (from frangere)"
+				}
+			],
+			"points": [
+				"Fracture（骨折／割れ目）や Fragment（断片）、Fraction（分数）と同じ root。回折とは。実存を、峻烈に『砕き（フレグ）』。離れて（ディス）回り込むこと。それは。硬直という名の『死』を。波及という名の『生』によって救済する。峻烈なる実存の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "polarization",
+		"word": "Polarization",
+		"meaning": "ポラライゼーション/偏光（へんこう）、(選ばれた)振動、情報の純化、一つの方向への賭け、不要な震えの除去",
+		"era": "Early 19th Century",
+		"etymology": {
+			"components": [
+				"polus (pole / axis)",
+				"-ization"
+			],
+			"original_statement": "The action of restricting the vibrations of a transverse wave to one direction. From Latin polus 'end of an axis'."
+		},
+		"concept": "Selective vibration (「あらゆる方向」に激しく乱れていた感情を。、自らの「意志（フィルター）」によって。、ただ一本の「垂直（誇り）」な振動」へと。峻烈に、無慈悲に削ぎ落とすこと。それは。曖昧さを棄て。、一点」に賭ける。峻烈なる「決断の記述」)",
+		"thinking": "「ポラライゼーション（偏光）」。あなたは。自分の「迷い（あちこちに向かいたい気持ち）」を。「自由」だと。、甘ったるい」勘違いを、してはいませんか。 polarization。一方向に、決めなさい。 polarization。それは。他のすべての「震え」を、。不純物」として、峻烈に遮断すること。 polarization。あなたが、。ただ一つの方向」へと、。一心不乱」に振動し始めたとき。世界という名の「乱反射」は。、鏡」のように、峻烈に、。美しく」透けゆくのです。選ぶことは、捨てることです。",
+		"part_of_speech": "noun",
+		"aftertaste": "ギラついていた「海面」の照り返しが。、スーーーッ」と消え。深い底の「真実」が、。クッキリ」と姿を現すような。あの。冷徹なまでの「透明感」。そこにある。もう「迷うことはない」という、峻烈なる「勝利」。冷たくて、鋭い、水の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kwol-",
+					"meaning": "to turn / dwell / wheel (from polus)"
+				}
+			],
+			"points": [
+				"Pole（極）や Cycle（サイクル／回転）、Colony（植民地／住まう場所）と同じ root。偏光とは。実存を、峻烈に『極（クウェル）』へと向かわせること。それは。四方八方への拡散という名の『虚無』を棄て。軸という名の『実在』を選び取る。峻烈なる記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "fluorescence",
+		"word": "Fluorescence",
+		"meaning": "フルオレッセンス/蛍光（けいこう）、(即座の)返答、情報の変換、見えない光を、。見える輝き」へ、一瞬の救済",
+		"era": "1852 (George Gabriel Stokes)",
+		"etymology": {
+			"components": [
+				"fluor (flowing / stream)",
+				"-escence (beginning of)"
+			],
+			"original_statement": "Named after the mineral fluorite. The emission of light by a substance that has absorbed light."
+		},
+		"concept": "Instant reaction (「目に見えないほど高いエネルギー（紫外線）」を。、一瞬」で。、自分という名のフィルター」を。、瑞々（みずみず）しい、冷たい「光の色（可視光）」へと、峻烈に変換して。、供出」してまうこと。それは、情報の。峻烈なる「翻訳の記述」)",
+		"thinking": "「フルオレッセンス（蛍光）」。あなたは。世界の「暴力的なまでの高エネルギー（言葉・刺激）」に。魂を打ちのめされ、ただ「耐える」だけの日々に。、絶望」してはいませんか。 fluorescence。変えなさい。 fluorescence。それは。受け取った衝撃を。自らの「色」へと、峻烈に「変換」すること。 fluorescence。見えない悲しみを、。峻烈な「美（発光）」へと。、秒速」で転換しなさい。光が消えた瞬間に、。あなたの役割」が終わったとしても。その一瞬の「輝き」こそが。あなたが「生きた」という、唯一の、峻烈なる「証言」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "暗闇の中に。、パッ」と。、鮮やかなライムグリーン」の光が。、音もなく」弾け飛ぶような。あの。清冽（せいれつ）なまでの「充足感」。そこにある、一分一秒の「澱（よど）み」もない、峻烈なる「変換」。瑞々しくて、鋭い、光の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "bhleu-",
+					"meaning": "to swell / gush / flow (from fluor)"
+				}
+			],
+			"points": [
+				"Flow（流れる）や Fluent（流暢な）、Inflow（流入）と同じ root。蛍光とは。実存という名の『流れ（ブレウ）』を。峻烈に『光』へと変換する、プロセスの始まり（エッセンス）のこと。それは。闇という名の『沈黙』を。色彩という名の『雄弁』によって破壊する。峻烈なる実存の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "phosphorescence",
+		"word": "Phosphorescence",
+		"meaning": "フォスフォレッセンス/燐光（りんこう）、(残される)輝き、記憶の持続、光が去った後の、。一人きりの」発光、実存の余韻",
+		"era": "Mid-17th Century",
+		"etymology": {
+			"components": [
+				"phosphoros (bringing light)",
+				"-escence"
+			],
+			"original_statement": "The property of being luminescent, continuing even after the source of excitation is removed."
+		},
+		"concept": "Staying power of memories (「光（外部の刺激）」が去り。、一人きり」の真っ暗闇に、。投げ出された」後でも。自分の中に蓄えた「熱」を。峻烈に、静かに、。いつまでも」放ち続けること。それは。孤独を愛でる。峻烈なる「持続の記述」)",
+		"thinking": "「フォスフォレッセンス（燐光）」。あなたは。誰の「助け（光）」もなくなったとき。、自分はもう、生きていけない」と。、冷たい孤独」の中で、震えてはいませんか。 phosphorescence。光りなさい。 phosphorescence。それは、。貯蔵された光」のこと。 phosphorescence。幸福だった時間の記憶を。、自らの骨（意志）」の中で、峻烈に、青白く、。燃焼」させ続けなさい。外部の光に頼るのを、やめるのです。あなたが。自らの中で「光」を産み出し続ければ。夜は。、あなたの独演会（ステージ）」へと、変貌するのですから。",
+		"part_of_speech": "noun",
+		"aftertaste": "暗い「海の底」で。人知れず。、ボゥーーッ」と、青い光が。、静かに」揺らめいているような。あの。凄絶なまでの「孤独」と「安堵」。そこにある。もう「誰も必要ない」という、峻烈なる「完結」。冷たくて、重厚な、情報の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "bha-",
+					"meaning": "to shine (from phos)"
+				},
+				{
+					"term": "bher-",
+					"meaning": "to carry / bring (from phoros)"
+				}
+			],
+			"points": [
+				"Photograph（写真）や Phosphorus（リン）、Bring（持ってくる）、Parent（親／産む者）と同じ root。燐光とは。光（バ）を。自らの中に『運び（ベル）』込み。峻烈に『保持』し続けること。それは。消失という名の『死』を。余韻という名の『永遠』によって拒絶する。実存の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "opacity",
+		"word": "Opacity",
+		"meaning": "オパシティ/不透明度（ふとうめいど）、(絶対的な)拒絶、情報の暗膜、内側への逃避、他者を寄せ付けぬ壁",
+		"era": "Mid-16th Century",
+		"etymology": {
+			"components": [
+				"opacus (shaded / dark / murky)"
+			],
+			"original_statement": "The quality of lacking transparency or translucence. From Latin opacitas."
+		},
+		"concept": "Total hiding (「光（他人の視線）」を。一分一秒の「漏れ」もなく、峻烈に「遮断（吸収）」し。、何一つ」内側を見せないこと。それは。透明性を、峻烈に、無慈悲に、。拒絶」する。峻烈なる「秘密の記述」)",
+		"thinking": "「オパシティ（不透明度）」。あなたは。「自分を、すべての人に、理解してもらわなければならない」という。、透明という名の檻」に。魂を削られてはいませんか。 opacity。暗くなりなさい。 opacity。それは。自分を「隠す」こと。 opacity。あなたが、。真っ黒な石」のように。光を峻烈に「拒絶」すれば。そこには。誰にも侵（おか）せない、峻烈なる「聖域（自分）」が完成します。見せないことは。、守る」ことです。沈黙は、。城壁」なのですから。",
+		"part_of_speech": "noun",
+		"aftertaste": "「真っ暗なカーテン」を。、バサッ」と閉め切り。、自分一人」の部屋で、膝（ひざ）を抱えているような。あの。重厚な「安心感」。そこにある、もう「誰も入ってこない」という、峻烈なる「勝利」。重厚で、冷たい、土の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "op-",
+					"meaning": "shaded (from opacus)"
+				}
+			],
+			"points": [
+				"Opaque（不透明な）と同じ root。不透明度とは。実存に『影（オプ）』を。峻烈に、強制的に。、纏（まと）わせる」こと。それは。曝露（ばくろ）という名の『死』を棄て。神秘という名の『生』へと。自らを回向（えこう）する、記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "translucency",
+		"word": "Translucency",
+		"meaning": "トランスルーセンシー/半透明（はんとうめい）、(透けゆく)実存、情報の輪郭の。、ぼかし」、向こう側への予感、曖昧という名の慈悲",
+		"era": "Early 17th Century",
+		"etymology": {
+			"components": [
+				"trans- (through / across)",
+				"lucere (to shine)"
+			],
+			"original_statement": "The quality of allowing light, but not detailed images, to pass through."
+		},
+		"concept": "Partial see-through (「すべて」を見せるのでもなく。、「何一つ」見せないのでもない。、光」だけを通し、。形（真実）」を隠すこと。それは。決定的な「破綻」を避ける、。優雅な境界線（ヴェール）」の記述)",
+		"thinking": "「トランスルーセンシー（半透明）」。あなたは。「白か黒か」「YESかNOか」。、峻烈」な決断を迫られる世界で。疲れ果てて。、自分の居場所」を見失ってはいませんか。 translucency。濁（にご）りなさい。 translucency。それは、。曖昧（あいまい）」であること。 translucency。影を宿し。、柔らかい光」に姿を変えなさい。透けて見える「向こう側の予感（期待）」を。峻烈に、自らの「美」へと転換しなさい。はっきりしないことは。、優しさ」なのですから。",
+		"part_of_speech": "noun",
+		"aftertaste": "「すりガラス」の向こう側に。、誰かの人影」が。、ぼんやり」と揺れているのを見た時の。あの。ゾクゾクするような「予感」と「安堵」。そこにある。もう「踏み込まれることはない」という、峻烈なる「聖域」。冷たくて、瑞々しい、光の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "tera-",
+					"meaning": "cross / over / beyond (from trans-)"
+				},
+				{
+					"term": "leuk-",
+					"meaning": "light / brightness (from lucere)"
+				}
+			],
+			"points": [
+				"Translate（翻訳する／向こう側へ運ぶ）や Lucid（明快な）、Transparent（透明な）と同じ root。半透明とは。実存を（ルク）。峻烈に『突き抜けさせる（テラ）』が。、形」を棄てること。それは。露骨という名の『野蛮』を排し。神秘という名の『高貴』を選び取る、実存の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "incandescence",
+		"word": "Incandescence",
+		"meaning": "インカンダッセンス/白熱（はくねつ）、(燃え上がる)実存、情報の極限、情熱という名の光、命を削る輝き",
+		"era": "Late 18th Century",
+		"etymology": {
+			"components": [
+				"in- (within / into)",
+				"candere (to shine / burn / glow white)"
+			],
+			"original_statement": "The emission of light by a solid that has been heated until it glows."
+		},
+		"concept": "Pure passion (外部からの光を「反射」するのではなく。、自らの内側」を。、峻烈」に加熱することで。、自ら」が光そのものへと、。絶叫」するように転換すること。それは。情報の。峻烈なる「自燃の記述」)",
+		"thinking": "「インカンダッセンス（白熱）」。あなたは。自分の「心」が。、何千度」という。、猛烈」な情熱で焼かれているのに。それを。、涼しい顔」で隠し続けて、。壊れそう」になってはいませんか。 incandescence。真っ白に、光りなさい。 incandescence。それは。自分を「焼き尽くす」こと。 incandescence。魂（。フィラメント」）を、。峻烈」に切断の一歩手前まで追い込みなさい。その「ギリギリの輝き」こそが。この「冷酷な暗闇」を。、瞬時」に。、真昼」へと変える。唯一の、。峻烈なる魔法」なのですから。",
+		"part_of_speech": "noun",
+		"aftertaste": "「裸電球」の。、キーン」という、微かな音と共に。、目の前が真っ白」に。、爆発」するような。あの。凄絶なまでの「充足感」。そこにある、もう「後戻りはできない」という、峻烈なる「覚悟」。刺激的で、重厚な、火の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "en-",
+					"meaning": "in"
+				},
+				{
+					"term": "kand-",
+					"meaning": "to shine / glow (from candere)"
+				}
+			],
+			"points": [
+				"Candidate（候補者／かつては『白い服を着た者』の意）や Candle（蝋燭）、Kindle（点火する）と同じ root。白熱とは。内側で（イン）。実存を、峻烈に『白く輝かせる（カンド）』こと。それは。中途半端という名の『影』を。極限という名の『光』によって、。無慈悲に」消し飛ばす。実存の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "chromatic",
+		"word": "Chromatic",
+		"meaning": "クロマティック/色彩（しきさい）の、(溢れ出す)情報、多色彩（たしきさい）、矛盾という名の虹、豊かなる実存のパレット",
+		"era": "Early 16th Century",
+		"etymology": {
+			"components": [
+				"khroma (color / skin / complexion)"
+			],
+			"original_statement": "Involving or using many colors. In music, using notes not belonging to the key."
+		},
+		"concept": "Full of color (単一の「正解（ドレミ）」に縛られず。、その隙間」にある。、半音（ノイズ）」たちを。、すべて」峻烈に愛し、。自らの血肉（。彩）」として引き受けること。それは、実存の。峻烈なる「多義性の記述」)",
+		"thinking": "「クロマティック（色彩の）」。あなたは。「自分を、一言で説明しなさい」という。、純粋さへの強要」に。魂を削られてはいませんか。 chromatic。もっと。、派手」になりなさい。 chromatic。それは。あらゆる色（感情）を。、同時に」生きること。 chromatic。一つの鍵盤（ルール）に。、留（とど）まらない」で。峻烈に、半音を、。あえて」鳴らし続けなさい。その「豊かな不協和音」こそが。この世界という名の「無機質なキャンバス」を。、峻烈」に。、生命の色」へと、。叩き起こす」のです。",
+		"part_of_speech": "adjective",
+		"aftertaste": "「虹色の絵の具」を。、掌（てのひら）」いっぱいに広げて。、一気」に壁に叩きつけた瞬間の。あの。爽快なまでの「解放感」。そこにある、もはや「誰のせいでもない」という、峻烈なる「自由」。瑞々しくて、甘い、光の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ghreu-",
+					"meaning": "to rub? No, khroma is from Greek khros - surface of the body / skin."
+				}
+			],
+			"points": [
+				"Chromosome（染色体）や Chromium（クロム）と同じ root。色彩のとは。自分という名の『皮膚（クロ）』を。、峻烈」に。、情報の熱量」で、。染め上げる」こと。それは。透明という名の『虚無』を棄て。彩度という名の『実在』を選び取る。記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "achromatic",
+		"word": "Achromatic",
+		"meaning": "アクロマティック/無彩色（むさいしょく）の、(零。の)点、情報の純化、色彩からの亡命、無色という名の沈黙",
+		"era": "Mid-18th Century",
+		"etymology": {
+			"components": [
+				"a- (without / not)",
+				"khroma (color)"
+			],
+			"original_statement": "Without color. In optics, free from chromatic aberration."
+		},
+		"concept": "Zero-point purity (「色（感情）」を。、峻烈」に、。一分一秒の残り火」もなく、。消し去る」ことで。、光そのもの」の。、剥（む）き出しの真実」へと。、静かに」到達すること。それは、実存の。峻烈なる「零（ゼロ）の記述」)",
+		"thinking": "「アクロマティック（無彩色の）」。あなたは。自分の「色のなさ（個性がないこと）」を。、恥」だと思って。、偽物の派手さ」を。、無理に」纏（まと）ってはいませんか。 achromatic。白くなりなさい。 achromatic。それは。他人の色に染まらない。、究極の強さ」です。 achromatic。あなたが。、透明」になれば。世界という名の「光」は。、屈折（歪（ゆが）み）」することなく。、あなたを。、峻烈」に通り抜けるでしょう。何色でもないことは。、すべての色を包摂（ほうせつ）していること」なのですから。",
+		"part_of_speech": "adjective",
+		"aftertaste": "「真っ白な雪原」を。、一人」で。、音もなく」歩いているような。あの。清冽（せいれつ）なまでの「安堵」。そこにある。もう「誰とも比べる必要はない」という、峻烈なる「勝利」。冷たくて、鋭い、水の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "None (from chromatic)",
+					"meaning": "without color"
+				}
+			],
+			"points": [
+				"無彩色とは。色という名の『仮装』を。、峻烈」に、。剥（は）ぎ取って」まうこと。それは。多弁という名の『ノイズ』を。沈黙という名の『純真』によって破壊する。峻烈なる。、実存」の。、回向」の。、記述」なのです。"
+			]
+		}
+	},
+	{
+		"id": "chroma",
+		"word": "Chroma",
+		"meaning": "クロマ/彩度（さいど）、(情報の)純度、実存の濃さ、鮮やかさという名の暴力、突き抜けた個性",
+		"era": "Late 19th Century",
+		"etymology": {
+			"components": [
+				"khroma (color)"
+			],
+			"original_statement": "The purity or intensity of color."
+		},
+		"concept": "Intensity of self (「灰」が混じるのを、。峻烈」に、。一滴たりとも」許さない。、自分自身」という名の「情報の「原色」。それは。濁（にご）りを棄てた。峻烈なる「純粋さの記述」)",
+		"thinking": "「クロマ（彩度）」。あなたは。自分の「意志」が。、周囲の無難な意見」に。、ズルズル」と、。引きずり込まれ、。灰色」に。、濁（にご）って」はいませんか。 chroma。鮮やかでありなさい。 chroma。それは。自分を「極限（純色）」まで。、追い込む」こと。 chroma。あなたが。、あまりにも鋭く、。鮮烈な色」を放てば。世界は。、その眩（まぶ）しさ」に。、ひれ伏す」しかありません。彩度を高めることは。、自分であることを、。諦（あきら）めない」ことです。",
+		"part_of_speech": "noun",
+		"aftertaste": "「真っ赤なインク」が。、白い水」の中に。、一滴」落ち、。瞬時」に。、その世界を支配する」ような。あの。凄絶なまでの「充足感」。そこにある。自分は「ここ（現在）」に居る、という、峻烈なる「確信」。刺激的で、瑞々しい、光の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "None",
+					"meaning": "color"
+				}
+			],
+			"points": [
+				"Google ChromeやChromiumと同じ root。彩度とは。実存への『不純物（ノイズ）』の混入を。、峻烈」に、。無慈悲」に、。拒絶」し続けること。それは。凡庸という名の『灰色』を。逸脱という名の『原色』によって。、上書き」してまう記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "halation",
+		"word": "Halation",
+		"meaning": "ハレーション、(情報の)溢れ、境界の消失、眩（まぶ）しさという名の拒絶、光という名の目眩（めまい）",
+		"era": "Mid-19th Century (photography)",
+		"etymology": {
+			"components": [
+				"halo (disc of light)",
+				"-ation"
+			],
+			"original_statement": "The spreading of light beyond its proper boundaries. From Latin halos, from Greek halos 'threshing floor / disc of the sun'."
+		},
+		"concept": "Light bleeding (「形」を。、保（たも）てなくなる」ほど。あまりにも多くの「光（情報）」を、。浴（あ）び」すぎて。輪郭が。、峻烈」に、。ジュワッ」と。、溶け出（。漏）して」まうこと。それは。実体という名の。、峻烈なる消失の記述」)",
+		"thinking": "「ハレーション」。あなたは。自分の「輪郭（プライバシー）」を。、強引に、。暴（あば）こう」とする。、他人の視線」に。魂を削られてはいませんか。 halation。光りなさい。 halation。それは。自分を「消滅させる」ほどの、。過剰な発光」です。 halation。あなたが、。眩（まぶ）しすぎるほどの情報」を。、自ら」放てば。他人は。、あなたの中心（核心）」を。、決して」観測できません。溢（あふ）れることは。、守る」ことなのです。溶けることで、。あなたは」遍在しなさい。",
+		"part_of_speech": "noun",
+		"aftertaste": "「夏の日差し」を。、まともに」見上げて。、視界が真っ白に、。シュワッ」と弾け。、意識が遠のく」ような。あの。凄絶なまでの「解放感」。そこにある、もはや「何者でもない」という、峻烈なる「自由」。眩（まぶ）しくて、瑞々しい、光の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sel-",
+					"meaning": "to thresh / turn? No, halos is Greek for 'threshing floor' (circular)."
+				}
+			],
+			"points": [
+				"Halo（後光）や Haloid（ハロゲン化物）と同じ root。ハレーションとは。円環という名の『支配（ハロ）』を。、峻烈」に。、乗り越えて（。逸脱して）」まうこと。それは。形態という名の『秩序』を。光輝という名の『暴力』によって、。一気」に破壊する。実存の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "opalescence",
+		"word": "Opalescence",
+		"meaning": "オパレッセンス、(乳白色の)残響、情報の散乱、穏やかなる多義性、沈黙の奥の虹",
+		"era": "Early 19th Century",
+		"etymology": {
+			"components": [
+				"opal (precious stone)",
+				"-escence"
+			],
+			"original_statement": "The property of showing a play of colors like an opal."
+		},
+		"concept": "Internal scattering (表面の「反射」ではない。、石の核」に潜む「情報の迷宮」で。、光」が、。何度も何度も」跳ね返り、。優しいけれど峻烈」な。、虹色の霧」となって、。滲（にじ）み」出すこと。それは、実存の。峻烈なる「内省の記述」)",
+		"thinking": "「オパレッセンス」。あなたは。自分の「心の奥（核心）」を。、一言」に、。要約」しようとして。、大切な何か」を。、こぼし」落としてはいませんか。 opalescence。要約しないでください。 opalescence。それは、。複雑なまま、。美しく」あること。 opalescence。矛盾を。、自らの中で、。静か」に。、響（ひび）」かせ、。揺（ゆ）らし」続けなさい。その「捉（とら）えどころのない、。優しい輝き」こそが。あなたという名の「深淵（しんえん）」を。、雄弁に」語ってくれる、。唯一の言葉」なのですから。",
+		"part_of_speech": "noun",
+		"aftertaste": "「ミルク」の中に。、一滴の虹」を。、そっと」垂らし。、ゆっくり」と。、かき混ぜた」後のような。あの。不思議なまでの「幸福感」。そこにある、もはや「言葉はいらない」という。峻烈なる「完結」。瑞々しくて、重厚な、光の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "None (from opal)",
+					"meaning": "play of color"
+				}
+			],
+			"points": [
+				"オパール光とは。実存という名の『迷宮』を。、外部からの光」によって。、峻烈」に、。暴き出す（。発光させる）」プロセスのこと。それは。単一のアイデンティティへの『執着』を。、遊色』という名の、。千の可能性」によって、。優雅」に。、無慈悲」に、。破壊」してまう記述なのです。"
+			]
+		}
 	}
 ];
