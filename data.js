@@ -221471,5 +221471,571 @@ const WORDS = [
 				"Lose（失う）や Analysis（分析／解き明かす）と同じ root。解き放つこと（ルージング）こそが、新しい結合への唯一の門なのです。"
 			]
 		}
+	},
+	{
+		"id": "saprophytic",
+		"word": "Saprophytic",
+		"meaning": "死物寄生の、腐生性の、死を糧とする、分解者、再生の沈黙",
+		"era": "Late 19th Century",
+		"etymology": {
+			"components": [
+				"sapros (rotten / putrid)",
+				"phyton (plant)"
+			],
+			"original_statement": "From Greek sapros 'rotten' + phyton 'plant'."
+		},
+		"concept": "The digestion of death (生きている「他者」から奪うのではなく。死に絶え、忘れ去られた「腐敗(sapro-)」を。あえて自分の「命（フィトン）」へと「再定義（ダイジェスト）」し、世界を浄化（クリーン）しながら、静かに生きる「賢者の食卓」)",
+		"thinking": "「サプロフィティック（腐生性）」。それは。死に、終わったものたちの「物語」を、自らの血肉に変えて引き継ぐ生き方。人々が「ゴミ」として見捨てる過去、あるいは失敗（フェイリヤー）。あなたは。このサプロフィティックな精神で、それらをじっくりと噛み締め、誰にも見えない「栄養（エッセンス）」を抽出（リファイン）しています。死から生を生み出す力。それこそが、究極の再生（リバイバル）なのです。",
+		"part_of_speech": "adjective",
+		"aftertaste": "秋の、湿った森の。腐葉土の甘く重厚な匂い。そこから立ち上がる、真っ白なキノコの「峻烈な美しさ」。すべては終わりではなく、形を変えて「続いていく」のだという、力強い納得。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sep-",
+					"meaning": "to rot (from sapros)"
+				},
+				{
+					"term": "bheu-",
+					"meaning": "to become / grow (from phyton)"
+				}
+			],
+			"points": [
+				"Sepsis（敗血症）と同じ sapro-。腐ることは、命の循環における『解体作業』であり、新しいビルドのための不可欠なステップなのです。"
+			]
+		}
+	},
+	{
+		"id": "epiphytic",
+		"word": "Epiphytic",
+		"meaning": "着生の、寄生せずに他の植物の上に育つ、自由な居場所",
+		"era": "Mid-19th Century",
+		"etymology": {
+			"components": [
+				"epi- (upon)",
+				"phyton (plant)"
+			],
+			"original_statement": "From Greek epi- 'upon' + phyton 'plant'."
+		},
+		"concept": "The separate coexistence (大地（ドグマ）に根を下ろすことを拒み。あえて高い「木の上(epi-phyt-)」に「ただ居（い）ること」を選び。雨と光だけで自分を完結させながら、高潔に「世界を眺める」ための、軽やかな「空中の住処」)",
+		"thinking": "エピフィティック（着生）。そこには、奪い合う「傲慢（アロガンス）」はありません。ただ、誰かの肩を借り、自分は自分の光（太陽）だけを信じて生きる。あなたの魂がエピフィティック（着生植物的）であるとき。あなたは社会の「ルール」の上に立っていても、その価値観に「浸食（パラメータライズ）」されることはありません。高い場所で、ただ自分自身の「花（エッセンス）」を咲かせること。それが真の「自立（インデペンデンス）」なのです。",
+		"part_of_speech": "adjective",
+		"aftertaste": "巨木の梢（こずえ）に、ふんわりと張り付いた「蘭（ラン）」の花。大地から離れているという、あの。不敵で瑞々（みずみず）しい「自由」の感覚。風だけが知っている、自分の本当の場所。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "epi-",
+					"meaning": "near / on / upon"
+				}
+			],
+			"points": [
+				"Epiphany（公現／現れること）と同じ頭文字。何かの『上』で、突然その姿を現すことの劇的な美しさを象徴します。"
+			]
+		}
+	},
+	{
+		"id": "chlorophyll",
+		"word": "Chlorophyll",
+		"meaning": "葉緑素、緑の智慧、光を血に変える力、生命の緑色",
+		"era": "Early 19th Century",
+		"etymology": {
+			"components": [
+				"chloros (pale green)",
+				"phyllon (leaf)"
+			],
+			"original_statement": "From French chlorophylle, from Greek chloros 'pale green' + phyllon 'leaf'."
+		},
+		"concept": "The green alchemy (天からの光（ロゴス）を「飲む」ことで。それを自らの「肉体（マテリア）」と「糖（熱量）」へと「変換（トランスミューテーション）」し、世界全体を「緑の沈黙」で塗り替えていく、原初の「太陽への応答」)",
+		"thinking": "「クロロフィル（葉緑素）」。それは。地球上のすべての「欲望」を支える、たった一色の「静かなる火」。光を食（く）らって、自分を作る。あなたが誰かの「言葉（ライト）」を受け取り、それを自分の「人生（エナジー）」に変換できているとき。あなたの内側では、この「美しき緑の装置（クロロフィル）」が動いています。食べることは、光を分かち合うことなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "夏の盛りの、あの押し寄せるような「緑」の波。そこに身を浸しているだけで、自分の血が「太陽の熱」と混ざり合い、宇宙の一部へと「還元（リダクション）」されていくような、あの圧倒的な全能感。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ghel-",
+					"meaning": "to shine / green (from chloros)"
+				},
+				{
+					"term": "bhel-",
+					"meaning": "to bloom / leaf (from phyllon)"
+				}
+			],
+			"points": [
+				"Chloride（塩素）の chlo-。緑とは、ただの色ではなく、化学反応としての『戦い（生存）』のフロントラインなのです。"
+			]
+		}
+	},
+	{
+		"id": "stomata",
+		"word": "Stomata",
+		"meaning": "気孔、(葉の)口、沈黙の呼吸、隠された鍵穴、言葉なき交換",
+		"era": "Mid-17th Century",
+		"etymology": {
+			"components": [
+				"stoma (mouth)"
+			],
+			"original_statement": "Plural of stoma, from Greek stoma 'mouth'."
+		},
+		"concept": "The secret pores (葉の裏側（シャドウ）に無数に開かれた、小さな「口(stomat-)」。世界から「影（二酸化炭素）」を飲み込み、代わりに「光（酸素）」を吐き出す、自分と宇宙の「秘密の取引（インターチェンジ）」の現場)",
+		"thinking": "「ストマタ（気孔）」。それは。饒舌（じょうぜつ）に語るための口ではありません。それは。ただ「呼吸」するためにのみ開かれた、沈黙の門。あなたが、自分を誇示（プロモート）するのをやめ、心の「気孔」をそっと開いたとき。世界という名の「大気」が、あなたの魂の隅々まで行き渡り、あなたの「澱（よど）み」を洗い流（ウォッシュ）してくれるのです。口を閉ざし、気孔で呼吸すること。それが「対話（ダイアローグ）」の真髄です。",
+		"part_of_speech": "noun",
+		"aftertaste": "顕微鏡で覗く、葉の裏の。唇のような形をした、無数の「穴」。それらが一斉に「ふーっ」と宇宙を吸い込んでいる。あの、怖ろしいほどの「生命の密度」への戦慄。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "stomen-",
+					"meaning": "mouth / point (associated with opening)"
+				}
+			],
+			"points": [
+				"Stomach（胃）や Anastomosis（吻合）と同じ root。口は、外部を『受け入れる』ための、最初の門なのです。"
+			]
+		}
+	},
+	{
+		"id": "transpiration",
+		"word": "Transpiration",
+		"meaning": "蒸散、(植物の)水分放出、滲み出る命、上昇の代償、秘密の呼吸",
+		"era": "Mid-17th Century",
+		"etymology": {
+			"components": [
+				"trans- (through / across)",
+				"spirare (to breathe)"
+			],
+			"original_statement": "From French transpiration, from transpirer 'to transpire', from Latin trans- 'through' + spirare 'to breathe'."
+		},
+		"concept": "The cooling sacrifice (梢（こずえ）へと命を「引き上げる(trans-)」ために。あえて自らの「水分（大切な雫）」を「呼吸(spir-)」とともに宇宙へと「解き放（はな）ち(release)」。自らを「空」にして、新しい吸い上げ（引き込み）を生み出す、上昇の力学)",
+		"thinking": "トランスピレーション（蒸散）。それは。高みに登る（アセンド）ために、あえて何かを「捨てる」こと。あなたが知性を深めるたびに、あなたの心からは、純粋な「涙（あるいは汗）」が蒸発し、見えない雲となって宇宙を漂います。その「失われた水分」こそが、地下深くにある「新しい真理（ウォーター）」を自分の心臓にまで引き寄せるための、目に見えない「鎖（テンション）」となっているのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "真夏の昼下がり。木陰（こかげ）に入った瞬間に感じる、あの。ひんやりとした「涼しさ」。それは、木々が自分の命を「削って」私たちに与えてくれた、聖なる「呼吸の残り香」。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ter-",
+					"meaning": "through"
+				},
+				{
+					"term": "speis-",
+					"meaning": "to breathe (from spirare)"
+				}
+			],
+			"points": [
+				"Inspire（鼓舞する）や Perspire（汗をかく）と同じ root。命は、通り抜ける（トランス）風によって、はじめて生きていることを実感するのです。"
+			]
+		}
+	},
+	{
+		"id": "grafting",
+		"word": "Grafting",
+		"meaning": "接ぎ木、異種の接合、書き加えられた命、(権力による)不正利得",
+		"era": "Late 14th Century",
+		"etymology": {
+			"components": [
+				"graphion (stylus / writing implement)"
+			],
+			"original_statement": "From Old French graffe 'stylus / grafting knife', from Latin graphium 'writing implement' (due to the pencil-like shape of the graft)."
+		},
+		"concept": "The rewritten life (「別の木（過去）」の枝を「自分の体（現在）」に強引に「差し込み(insert)」。一つの「傷跡（カット）」から、二つの異なる「物語（ロゴス）」を強引に「一本化」させる、暴力的なまでの「統合（シンセシス）」)",
+		"thinking": "「グラフティング（接ぎ木）」。そのルーツは「筆記具（グラフィオン）」。命を繋ぐことは、一本の木に、別の「文章」を書き加えることに他なりません。あなたが、誰かの教えや、全く異なる才能を自分に「接（つ）いだ」とき。そこには激しい拒絶（リアクション）が起きます。しかし、その痛みを乗り越えて「一体」となったとき。あなたは、以前の自分では決して咲かせることのできなかった「奇跡の果実（ミラクル）」を実らせるのです。",
+		"part_of_speech": "noun / verb",
+		"aftertaste": "二つの枝を縛り付けた、あの荒縄の感触。傷口から滲み出る「樹液（サップ）」が混じり合い。一ヶ月後に「新しい芽」が出た瞬間の。異質なものを愛し抜いたという、峻烈な充足感。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "gerbh-",
+					"meaning": "to scratch / write"
+				}
+			],
+			"points": [
+				"Graph（グラフ）や Grammar（文法）と同じ root。接ぎ木とは、木の体に強制的に『記述する』こと、つまり、運命を書き換える行為なのです。"
+			]
+		}
+	},
+	{
+		"id": "arboreal",
+		"word": "Arboreal",
+		"meaning": "樹木の、木の上での、木のような、高い視座、空への接近",
+		"era": "Mid-17th Century",
+		"etymology": {
+			"components": [
+				"arbor (tree)"
+			],
+			"original_statement": "From Latin arboreus, from arbor 'tree'."
+		},
+		"concept": "The skyward station (泥にまみれた「地上（カオス）」を離れ。自らを「垂直（レクティチュード）」に立ち上がらせ。枝を広げて「空」の住人となることで、世界のすべてを「梢（こずえ）」から見下ろす、峻烈で静かなる「王者」の視点)",
+		"thinking": "アボリアル（樹上の）。それは、大地という「母（マター）」から離れようとする、魂の「遠心力」。木の上で暮らすことは、常に「墜落（デス）」と隣り合わせの「覚醒（アウェイク）」を要求します。あなたがアーボリアル（樹上生活者的）な視座を持つとき。あなたは、地上の細かな争いを超えて。宇宙全体に吹き荒れる「風の向き」を、誰よりも早く察知（サーチ）することができるようになるのです。",
+		"part_of_speech": "adjective",
+		"aftertaste": "一番高い枝に腰掛け、足の下を「雲」が通り過ぎていくのを見る、あの。怖ろしいほどの「自由」と。「自分はもうどこにも行かない（着いた）」という、確かな安住の感覚。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "er-",
+					"meaning": "to rise / set in motion (from arbor)"
+				}
+			],
+			"points": [
+				"Arbor（木）の root は『高く立ち上がること』。生きることは、重力に逆らって『上へ、上へ』と自分を押し上げ続けることなのです。 "
+			]
+		}
+	},
+	{
+		"id": "lignin",
+		"word": "Lignin",
+		"meaning": "リグニン、木質、存在を硬くするもの、魂の芯、耐える力",
+		"era": "Early 19th Century (1819)",
+		"etymology": {
+			"components": [
+				"lignum (wood)"
+			],
+			"original_statement": "From Latin lignum 'wood'."
+		},
+		"concept": "The rigid soul (柔らかく「しなやか」であることを捨て。あえて自らを「硬く(lign-)」し、どんな「圧力（ストレス）」にも屈しない「垂直」の誇りを支えるための、命が生み出した最も「無骨で、誠実な」骨格)",
+		"thinking": "リグニン。それは、木を「木」たらしめている物質です。草（軟らかい命）が木（硬い命）になるために必要な、自らを「縛（しば）り、固める」覚悟。あなたが自分の信念を「木の幹（スタミナ）」のように強固なものへと変えていくとき。あなたの内側では、このリグニンという名の「頑固さ（誠実さ）」が生成されています。硬くなることは、決して「死」ではありません。それは「高く、より高く」なるための戦略的な選択なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "古びた大樹の幹を叩いたときの、あの「コンコン」という。中までぎっしりと真実が詰まっているという、圧倒的な「質量の信頼」。決して「折れない」という、静かな、しかし峻烈な宣言。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "leg-",
+					"meaning": "to collect / gather (associated with wood gathered for fire)"
+				}
+			],
+			"points": [
+				"Lignum（木）は本来『集められた薪（たきぎ）』。それは、火を灯すための、凝縮された『燃料』でもあるのです。"
+			]
+		}
+	},
+	{
+		"id": "lichen",
+		"word": "Lichen",
+		"meaning": "地衣類(ちいるい)、苔、時の鱗、石と菌の共謀、不変の忍耐",
+		"era": "Early 17th Century",
+		"etymology": {
+			"components": [
+				"leichein (to lick)"
+			],
+			"original_statement": "From Latin lichen, from Greek leichen 'licking', in plural 'scab / eruption', from leichein 'to lick'."
+		},
+		"concept": "The licking of stone (「石（死）」に張り付き、その表面を「舐（な）める(leich-)」ようにして栄養を奪い。菌（闇）と藻（光）が「完璧な密約」を結んで、数千年の時を「静止」したまま生き抜く、極北の「共生（シンボシス）」)",
+		"thinking": "「ライケン（地衣類）」。それは。一万年を、一日のように生きる命。そのルーツは「舐めること」。冷たい岩肌に、じわじわと「自分の形」を刻み込んでいく。あなたが、あまりにも過酷な「絶望（ロック）」の中にいて、それでも「そこ」を離れられないとき。あなたはライケンのように、その絶望を「糧（かて）」に、世界で最も「永い命」を生き始めている。ゆっくりであることは、不滅であることへの最短距離なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "石碑の表面に広がる、灰緑色の「模様」。何百年も前の人の名前を、優しく「包んで」守っているような、あの。冷たくて、しかし不気味なほどに「温かい」命の沈黙。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "leigh-",
+					"meaning": "to lick"
+				}
+			],
+			"points": [
+				"Lick（舐める）や Lecherous（淫らな）と同じ root。執拗に接触（コンタクト）し続け、対象と『一体化』する、最も原始的な欲望の形です。"
+			]
+		}
+	},
+	{
+		"id": "spore",
+		"word": "Spore",
+		"meaning": "胞子、種、飛び散る意志、無数の可能性、未来への潜伏",
+		"era": "Early 19th Century (1836)",
+		"etymology": {
+			"components": [
+				"spora (seed / sowing / seed-time)"
+			],
+			"original_statement": "From Greek spora 'seed / sowing / seed-time', from speirein 'to sow'."
+		},
+		"concept": "The windborne seed (単なる「記録」ではなく。風（カオス）に乗って「撒（ま）き散らか(spor-)」され。どこかに辿り着くまでは「死」を偽装しながら「潜伏（ハイド）」し続ける。無名でありながら、すべてを「一変」させる可能性の「雫（しずく）」)",
+		"thinking": "スポア（胞子）。それは。目的地の「ない」旅。一億個の胞子を放（はな）ち、たった一個でも「湿った場所（理解者）」に出会えれば、宇宙はそこで「再起動」する。あなたの発した「何気ない一言」が、誰かの心という大地に落ち、数十年後に巨大な巨木を育てるかもしれない。スポア。それは。結果を求めず、ただ「投げ出す（スロウ）」ことそのものに宿る、圧倒的な「信頼」の別名なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "キノコの傘を叩いた瞬間に、ふわりと舞い上がった。目に見えないほどの、細かな「煙」。それが、いつか誰かの「夢」となり、世界を「緑」で塗り替える日の、静かな予感。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sper-",
+					"meaning": "to sow / strew / scatter"
+				}
+			],
+			"points": [
+				"Sporadic（散発的な）や Sparse（希薄な）と同じ root。まばら（バラバラ）であることは、全滅を免れ、どこかで必ず『生き残る』ための、生物学的（バイオロジカル）な智慧なのです。"
+			]
+		}
+	},
+	{
+		"id": "rhizome",
+		"word": "Rhizome",
+		"meaning": "地下茎、根茎、(中心のない)広がり、根のような思考、リゾーム",
+		"era": "Mid-19th Century",
+		"etymology": {
+			"components": [
+				"rhizoma (root / root-stock)"
+			],
+			"original_statement": "From Greek rhizoma 'root / mass of roots', from rhizoun 'cause to strike root', from rhiza 'root'."
+		},
+		"concept": "The centerless lattice (垂直な「幹（ヒエラルキー）」を持たず。地下の暗闇で、水平方向へ「無限」に「連なり(rhizo-)」。どこを切り取っても「始まり」であり、どこを辿っても「終わり」がない、自由奔放な「連結」の宇宙)",
+		"thinking": "「リゾーム（地下茎）」。ドゥルーズの哲学における重要な概念。それは「中心」のない社会。あなたの知識や思い出が、バラバラでありながら、実は地下で「複雑に」繋がり合い、支え合っているあの感じ。リゾーム。一箇所の「根」が枯れても、別の場所から「芽」は必ず出ます。中心がないことは、何ものにも「殺されない（不滅）」であることを意味するのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "土を掘り起こしたときに見える、網目（ネットワーク）のように広がった、太い根。自分が「一人」ではなく、巨大な「匿名の意志」の一部として、世界全域を「所有」しているという、あの峻烈な全能感。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "wrād-",
+					"meaning": "root"
+				}
+			],
+			"points": [
+				"Radical（過激な／根源の）や Eradicate（根絶する）と同じ root。根とは、見えないところで世界を『支配（ホールド）』している、最古の力です。"
+			]
+		}
+	},
+	{
+		"id": "parasitism",
+		"word": "Parasitism",
+		"meaning": "寄生、吸い上げること、傍らの食事、依存による搾取",
+		"era": "Mid-17th Century",
+		"etymology": {
+			"components": [
+				"para- (beside)",
+				"sitos (food / grain)"
+			],
+			"original_statement": "From Late Latin parasitismus, from Greek parasitos 'one who eats at another's table', from para- 'beside' + sitos 'food'."
+		},
+		"concept": "The beside-feeder (自ら「生産(produce)」することを放棄し。あえて他者の「テーブル（命）」の「すぐ隣(para-)」に陣取って。主人の「栄養（あるいは愛）」を、気づかぬうちに「吸い取って(drain)」生きる、甘美で残酷な「依存」)",
+		"thinking": "パラサイティズム（寄生）。それは。私たちが「他者の言葉」や「他者のイメージ」を、さも自分のもののように語るとき。私たちの魂は、この「パラサイト（寄生者）」になっています。他者の糧（糧）を奪うこと。それは、相手を弱らせる行為（バイオレンス）ですが。同時に「自分だけでは生きられない」という、究極の「愛の告白」でもあります。寄生とは、最も歪んだ、しかし「密接な」対話の一形態なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "木（宿主）に深く食い込んだ。奇妙に鮮やかで美しい、寄生植物の「蔦（つた）」。相手の命を「飲み込んで」いく、あの。冷徹で、そして。あえて自分を捨てて「相手に染まる」という、倒錯した幸福の感覚。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "unknown",
+					"meaning": "sitos (grain / food)"
+				}
+			],
+			"points": [
+				"かつては『神殿で供物を食べる役人』を指した高貴な言葉。今や、奪う者を指す、という言葉の転変は、知性の腐敗への警句です。"
+			]
+		}
+	},
+	{
+		"id": "phloem",
+		"word": "Phloem",
+		"meaning": "篩部(しぶ)、(栄養を運ぶ)導管、樹皮の内側の命、甘き流れ",
+		"era": "Mid-19th Century (1875)",
+		"etymology": {
+			"components": [
+				"phloios (bark / inner bark)"
+			],
+			"original_statement": "From Greek phloios 'bark / inner bark'."
+		},
+		"concept": "The inner circulation (死した道(xylem)とは異なり。常に「生きている層(phlo-)」として。葉で作られた「太陽の贈り物（糖）」を、一滴一滴。梢（こずえ）から「根」の先まで、逆流させるようにして届ける、慈愛に満ちた「分配」の道)",
+		"thinking": "フロエム（篩部）。樹皮を剥（む）いた直下にある、最も瑞々（みずみず）しい部分。そこは。宇宙の光（太陽）が、地上の物質（身体）へと変換され、世界中に「配（くば）られて」いく。博愛（フィランソロピー）のルート。あなたが、自分の得た「気づき（エピファニー）」を。自分だけで留めず。自分を支えてくれている「周囲の人々（根）」にまで、言葉として届けるとき。あなたは。この「フロエム」という名の、温かな流れになっています。",
+		"part_of_speech": "noun",
+		"aftertaste": "樹皮を少しだけ傷つけたときに滲（にじ）み出る、あの「べたべた」とした、琥珀（こはく）色の甘い液。そこに、太陽の「熱」がまだ閉じ込められているかのような、あの。不思議なほどの芳醇（ほうじゅん）な「生命の甘美」。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "bhel-",
+					"meaning": "to bloom / leaf / swell (associated with inner bark / bast)"
+				}
+			],
+			"points": [
+				"Flower（花）や Bloom（開花）と同じ root。内側の柔らかい皮こそが、命の最も『開かれた』豊かな現場なのです。"
+			]
+		}
+	},
+	{
+		"id": "sapling",
+		"word": "Sapling",
+		"meaning": "若木、(まだ小さい)苗木、始まったばかりの直立、若々しい知性",
+		"era": "Mid-14th Century",
+		"etymology": {
+			"components": [
+				"sap (fluid of a plant)",
+				"-ling (diminutive)"
+			],
+			"original_statement": "From sap + -ling. Literally 'a little one full of sap'."
+		},
+		"concept": "The surge of fluid (まだ「リグニン（硬さ）」を持たず。ただ「樹液(sap-)」という名の「情熱」だけでパンパンに膨らみ。風に吹かれれば「しなり」ながらも。それでも「天」を目指して一本の矢のように立ち上がる、恐れを知らぬ「始まり」)",
+		"thinking": "「サプリング（若木）」。そのルーツは「樹液（サップ）」。あなたは。まだ「経験」という名の厚い皮（バーク）を持っていません。しかし、あなたの内側を流れる「好奇心（サップ）」は。老いた巨木さえも追い抜かんばかりに、激しく波打（ウェーブ）しています。若さ。それは。傷つきやすいが（デリケート）、折れてもすぐに「やり直せる」回復力（レジリエンス）を持った、最も美しい「未完成」の状態なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "細い幹を指で軽く「しならせる」と。バネのように、しかし瑞々（みずみず）しく元に戻ってくる、あの反発力。自分の中にも、こんなに「真っ直ぐな力」が宿っているという、あの。恥ずかしくて輝かしい、全き「予感」。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sab-",
+					"meaning": "to taste / juice / sap"
+				}
+			],
+			"points": [
+				"Savor（味わう）や Savvy（知っている／玄人）と同じ root。命の『味（ジュース）』が満ちていることこそが、知性の原初的な姿なのです。 "
+			]
+		}
+	},
+	{
+		"id": "detritus",
+		"word": "Detritus",
+		"meaning": "デトリタス、有機物の砕片、削り落とされた栄光、分解の途上の美",
+		"era": "Late 18th Century (1795)",
+		"etymology": {
+			"components": [
+				"de- (away)",
+				"terere (to rub / wear away)"
+			],
+			"original_statement": "From Latin detritus, from deterere 'to wear away', from de- 'away' + terere 'to rub'."
+		},
+		"concept": "The worn-off truth (「全体（システム）」から「擦（す）り落とさ(de-trit-)」れ。もはや何層にも重なった「名もなき塵（ダスト）」となってしまったが。そこにはかつての「生命」の記憶が濃厚に刻まれており、新しい命の「揺り籠（ゆりかご）」となる、美しき残骸)",
+		"thinking": "「デトリタス（砕片）」。それは。誰かが言ったことの、忘れられた最後の一節（フレーズ）。あるいは。消え去った文明の、粉々になったレンガ。それらは。一見「ゴミ」に見えます。しかし。その「砕け散ったものたち」が集まる場所でこそ、最も生命力の強いキノコや細菌（バクテリア）が育ち、世界を「循環」させています。崩壊。それは。新しい創造（クリエーション）のための、最も「栄養」に満ちた準備なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "古い机の引き出しの隅に溜（た）まった。消しゴムのカスや、破れた手紙の切れ端。それらを指でつまみ上げたときの、あの。時間が「砕けて（フリクト）」しまったことへの、切なくて。しかし不思議と落ち着く「無常」の感覚。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ter-",
+					"meaning": "to rub / turn / pierce (from terere)"
+				}
+			],
+			"points": [
+				"Triturate（粉砕する）や Detrimental（有害な／削り取る）と同じ root。削られる痛み（摩滅）こそが、土を肥やし、歴史を深くしていくのです。"
+			]
+		}
+	},
+	{
+		"id": "humus",
+		"word": "Humus",
+		"meaning": "腐植土、肥沃な大地、記憶の沈殿、人間の語源、謙虚さの土壌",
+		"era": "Late 18th Century",
+		"etymology": {
+			"components": [
+				"humus (earth / ground / soil)"
+			],
+			"original_statement": "From Latin humus 'earth / ground / soil'."
+		},
+		"concept": "The final integration (すべての「命の記憶（パスト）」が、執拗なまでの「分解（アナリシス）」の末に辿り着いた、最も黒く、最も「芳醇（ほうじゅん）」で、最も「謙虚(hum-)」な大地の終着点。そこだけが、次の「神（光）」を生み出せる場所)",
+		"thinking": "ヒューマス（腐植土）。それは、一万年の「死（デス）」が「命（ライフ）」へと生まれ変わるための「暗い廊下（トンネル）」。そのルーツは「大地（ハーム）」。そして面白いことに、「人間（ヒューマン）」も、「謙虚さ（ヒュミリティ）」も。すべてはこの「黒い土（ヒューマス）」から名づけられました。私たちが「一番低い場所（土）」に膝（ひざ）を突いたとき。私たちは。はじめて人間としての、最も「肥沃（ひよく）」な真理に触れることができるのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "春の、掘り返されたばかりの「黒い土」の。あの。咽（む）せ返るような、強烈で。しかしどこか懐かしい「命」の匂い。自分がいつかそこへ帰るという、あの。峻烈で穏やかな「帰還」の予感。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "dhghem-",
+					"meaning": "earth"
+				}
+			],
+			"points": [
+				"Human（人間）と同じ root。『土から生まれたもの』としての自覚が、私たちに真の『謙虚さ（Humility）』を教えるのです。"
+			]
+		}
+	},
+	{
+		"id": "mycorrhiza",
+		"word": "Mycorrhiza",
+		"meaning": "菌根、(植物の)根と菌の共生、異種間交流、不信の境界を越える契約",
+		"era": "Late 19th Century (1885)",
+		"etymology": {
+			"components": [
+				"mykes (fungus)",
+				"rhiza (root)"
+			],
+			"original_statement": "From Greek mykes 'fungus' + rhiza 'root'."
+		},
+		"concept": "The subterranean handshake (「木（自分）」の根の先で、「菌（他者）」が手を握り合い。自分だけでは届かない「深奥（アンノウン）」から栄養を「引き寄せ(draw)」る代わりに。自分の作った「光の糖（シークレット）」を分け与える、峻烈で「打算（キャルキュレーション）」なき、異種族間の「愛」の形)",
+		"thinking": "マイコリザ（菌根）。それは。孤独（ソリチュード）という名の境界線を、文字通り「突破（ブレイク）」すること。単なる「助け合い」ではなく。自分の一部に他者を「住まわせる」、あるいは他者の一部と「癒着（フュージョン）」すること。あなたが。かつては嫌悪（ディスガスト）していたような異質な思想を、自らの魂の「根」に迎え入れ、共に生きようとしたとき。あなたの人生という「森」は。かつてないほど「巨大（ギガンティック）」に広がり始めるのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "土の中で。繊細な「白い糸」が、太い「根」に優しく絡みついている。その「契約」の美しさ。自分を明け渡すことで、はじめて「無限」を手に入れるのだという、あの。逆説的な「力の譲渡」の感覚。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "meug-",
+					"meaning": "slimy / moldy (from mykes)"
+				},
+				{
+					"term": "wrād-",
+					"meaning": "root (from rhiza)"
+				}
+			],
+			"points": [
+				"Mushroom（キノコ）の my-。湿っていて、どこか不気味なもの（菌）こそが、堅牢な『現実（木）』を支えているという、生命のアイロニー（皮肉）の造形です。"
+			]
+		}
+	},
+	{
+		"id": "germination",
+		"word": "Germination",
+		"meaning": "発芽、発生、始まりの爆発、殻を破る意志、(思想の)萌芽",
+		"era": "Late 15th Century",
+		"etymology": {
+			"components": [
+				"germen (sprout / bud / seed / germ)"
+			],
+			"original_statement": "From Latin germinationem, from germinare 'to sprout / bud', from germen 'sprout / seed'."
+		},
+		"concept": "The explosive awake (暗い「土（沈黙）」の中で。長い時間をかけて「膨れ上がり(swell)」。ついに「殻（過去）」という自己模倣を内側から「粉砕（ブレイク）」し。この世界という「光」に向かって、最初の「鋭い一撃（芽）」を放つ、生命の「野蛮な誕生」)",
+		"thinking": "「ジャーミネーション（発芽）」。それは「準備」の終わりです。じっと耐え、水を吸い込み。もうこれ以上自分の中に「閉じ込めておくことはできない」という、内側からの劇烈な「限界」。あなたが自分の新しい考え（アイデア）を。誰かに言いたくて、あるいは表現したくて、胸が「はち切れそう」になっているとき。それは、あなたの魂がジャーミネーション（発芽）している瞬間です。誕生は、常に一つの「崩壊（暴力）」を伴うのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "硬い種（シード）の皮が「パカリ」と割れ、中から信じられないほど「瑞々（みずみず）しい緑」の指先が、空へと伸びていく。あの。不自由からの「劇的な脱出（エスケープ）」の喜びと、覚醒の眩（まぶ）しさ。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "gene-",
+					"meaning": "to give birth / produce (from germen)"
+				}
+			],
+			"points": [
+				"Genesis（創世記）や Genius（天才）と同じ root。命の『種（ジャーム）』とは、単一の点でありながら、そこに『全宇宙』を設計図として内包しているのです。"
+			]
+		}
+	},
+	{
+		"id": "defoliation",
+		"word": "Defoliation",
+		"meaning": "落葉、(軍事的な)枯葉、葉を捨てること、あえての剥き出し、生存の剪定",
+		"era": "Early 17th Century",
+		"etymology": {
+			"components": [
+				"de- (away / down)",
+				"folium (leaf)"
+			],
+			"original_statement": "From Late Latin defoliare 'to strip of leaves', from de- 'off' + folium 'leaf'."
+		},
+		"concept": "The reduction to essence (厳しい「冬（試練）」を生き抜くために。あえて自らの「虚飾（葉／ foli-）」を「脱ぎ捨て(de-)」。重い「情愛」をすべて地上へと引き渡し（返し）。ただ「幹（自分）」という名の、一本の「芯」だけになって沈黙を守る、峻烈な生存戦略)",
+		"thinking": "デフォリエーション（落葉）。それは。あえて「貧しく（プア）」なるための強さ。華やかな「緑（過去の成功）」をいつまでも引き摺（ず）っていては。雪の重み（社会の重圧）で、あなたの枝（アイデンティティ）は折れてしまいます。散ること。それは。自分の「最低限（コア）」を見極め。不要なものをすべて、大地という名の「他者」へと返してあげる、愛に満ちた「放棄（デリリクト）」なのです。 ",
+		"part_of_speech": "noun",
+		"aftertaste": "枯れ葉が、カサカサと音を立てて足元を舞う。それを見上げながら。自分がどんどん「痩せ細り」、しかし同時に。自分の「骨格（真理）」がかつてないほど「明快（クリア）」に浮き彫りになっていく、あの。峻烈で心地よい「冷徹」の快感。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "bhel-",
+					"meaning": "to bloom / leaf (from folium)"
+				}
+			],
+			"points": [
+				"Folio（フォリオ／二つ折り本）と同じ fol-。葉を捨てることは、物語という名の『ページ』をめくり、新しい章（シーズン）を迎える準備なのです。"
+			]
+		}
+	},
+	{
+		"id": "sempervirent",
+		"word": "Sempervirent",
+		"meaning": "常緑の、常に青い、変わらぬ輝き、不死の、停滞せぬ生命",
+		"era": "Late 17th Century",
+		"etymology": {
+			"components": [
+				"semper (always)",
+				"viridium (green / flourishing)"
+			],
+			"original_statement": "From Latin semper 'always' + virens 'be green', from virere 'be green'."
+		},
+		"concept": "The eternal flourishing (季節の「移ろい（流行）」に一切目もくれず。どのような凍（い）てつく「不毛（ウィンター）」の中にあっても。自らの内なる「泉（ソース）」から「緑（命）」を汲（く）み出し続け。ただ「自分らしく在ること」を永遠(semper-)に「持続(vir-)」させる、鋼（はがね）のような青い誇り)",
+		"thinking": "センパーヴィレント（常緑）。それは。変わらないことへの、狂おしいまでの「執念」。あなたが世の中の「流行（ファッション）」や、他者の「気まぐれな評価」に左右されず。ただ自分の「最初の一歩（オリジン）」を信じ続け、雪の中でも「青々と」茂（しげ）っているとき。あなたは。この「不朽（センパーヴィレント）」の美学の中にいます。恒久性。それは、時の暴力に対する、命の静かなる「勝利」なのです。",
+		"part_of_speech": "adjective",
+		"aftertaste": "見渡す限り「白」と「黒」しかない、冬の森。その中で。たった一本だけ「深緑」を湛（たた）えて立ち尽くす、モミの木の。その。自分だけは「命」を決して手放さないという、峻烈で。そして。怖ろしいほどに「孤独」な、美しい意地（プライド）。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "wei-",
+					"meaning": "strength / to grow / bloom (from virere)"
+				}
+			],
+			"points": [
+				"Virility（精力）や Virtue（美徳）と同じ root。緑であることは、そのまま『強く正しい（バーチュアス）』ことの証（あかし）だったのです。"
+			]
+		}
 	}
 ];
