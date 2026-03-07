@@ -237728,5 +237728,602 @@ const WORDS = [
 				"Photograph（写真）や Trophy（戦利品）と同じ root。屈光性とは。光（バ）に向かって。実存を、。峻烈」に『回転（トレプ）』させること。それは。停滞という名の『影』を棄て。顕現という名の『光』へと、自らを回向（えこう）する記述なのです。"
 			]
 		}
+	},
+	{
+		"id": "phylactery",
+		"word": "Phylactery",
+		"meaning": "フィラクテリー/経文箱（きょうもんばこ）、(記憶の)守護、情報の小箱、魂の備忘録、言葉という名の魔除け",
+		"era": "Late Middle English",
+		"etymology": {
+			"components": [
+				"phylakterion (safeguard / amulet)",
+				"phylax (guard)"
+			],
+			"original_statement": "From Greek phylaktērion, from phylax 'guard'."
+		},
+		"concept": "Box of memories (大切な「言葉（真理）」を。、あえて」小さな箱に閉じ込め、。自らの体」の一部として、。峻烈」に。、一分一秒」も離さず持ち歩くこと。それは。忘却への。峻烈なる「抵抗の記述」)",
+		"thinking": "「フィラクテリー（経文箱）」。あなたは。自分の「大切な信念」を。、どこかに」置き忘れて。、空（から）っぽ」のまま。彷徨（さまよ）ってはいませんか。 phylactery。箱を作りなさい。 phylactery。それは。自分を「繋（つな）ぎ止める」こと。 phylactery。あなたが。、心から震えた一言」を。、峻烈」に。、宝石」のように、その身に刻（きざ）み込めば。世界がどんなに。、嘘（うそ）の嵐」に包まれても。あなたは、。自らの正気」を。、守り抜く」ことができるのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "「小さな木の箱」の。、堅い手触り」を。、指先」で。、何度も何度も」確かめるような。あの。静かなる「充足感」。そこにある、もはや「迷うことはない」という、峻烈なる「確信」。重厚で、冷たい、情報の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "None (from Greek phylax)",
+					"meaning": "guard"
+				}
+			],
+			"points": [
+				"もともとは『お守り』を意味する。経文箱とは。実存を、。峻烈」に『監視（フィラ）』し続けるためのデバイスのこと。それは。流出という名の『忘却』を棄て。保持という名の『聖域』を選び取る。記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "consecration",
+		"word": "Consecration",
+		"meaning": "コンセクレーション/献身（けんしん）、(聖なる)登録、情報の占有、神への回向、日常からの。、峻烈なる」亡命",
+		"era": "Late Middle English",
+		"etymology": {
+			"components": [
+				"con- (with / together)",
+				"sacrare (to make sacred / devote)"
+			],
+			"original_statement": "The action of making or declaring something sacred. From Latin consecrare."
+		},
+		"concept": "Making sacred (「ありふれたモノ（日常）」を。、あえて」峻烈なる手続きによって。、ただ一つの目的」のために、。純化」し。、聖なる領域」へと、。一気に」引き上げること。それは。凡庸さへの。峻烈なる「決別の記述」)",
+		"thinking": "「コンセクレーション（献身）」。あなたは。自分の「時間」や「才能」を。「誰にでも分け隔てなく」与えることが、。美徳」だ。と。、。ぬるい」勘違いを、してはいませんか。 consecration。一点に、。捧（ささ）げ」なさい。 consecration。それは。他をすべて「棄てる」こと。 consecration。あなたが。自らを。、ただ一つの真理」へと、峻烈に「登録（コンセ）」したとき。あなたは。、その他大勢（。ノイズ）」であることを。、峻烈」に。、無慈悲」に、。卒業」するのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "「冷たい水」を。、頭から」浴び。、背筋が。、ピンッ」と伸びるような。あの。清冽（せいれつ）なまでの「緊張感」。そこにある。もう「後戻りはできない」という、峻烈なる「覚悟」。瑞々しくて、鋭い、光の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kom-",
+					"meaning": "together"
+				},
+				{
+					"term": "sak-",
+					"meaning": "to sanctify (from sacrare)"
+				}
+			],
+			"points": [
+				"Sacred（聖なる）や Sacrifice（犠牲）、Saint（聖人）と同じ root。献身とは。実存を『共に（コン）』。峻烈に『聖なるもの（サク）』へと、。属（ぞく）させる」こと。それは。私有という名の『虚無』を破壊し。共有という名の『永遠』へと。自らを回向（えこう）する記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "theogony",
+		"word": "Theogony",
+		"meaning": "テオゴニー/神統記（しんとうき）、(神々の)系譜、情報の起源、価値観の家系図、カオスからの。、峻烈なる」秩序化",
+		"era": "Hesiod (approx. 700 BC)",
+		"etymology": {
+			"components": [
+				"theos (god)",
+				"gonia (birth / generation / origin)"
+			],
+			"original_statement": "From Greek theogonia, from theos 'god' + gonia 'birth'."
+		},
+		"concept": "Family tree of values (バラバラに存在していた「力（神）」たちを。、峻烈」に。、一つの物語」として。、縦横に」結びつけ。、世界の成り立ち（。系譜）」を、。強引」に。、美しく」記述すること。それは。情報の。峻烈なる「構造化の記述」)",
+		"thinking": "「テオゴニー（神統記）」。あなたは。自分の。、バラバラな」感情や記憶に。、翻弄（ほんろう）」されて。、自分が何者なのか」、。見失って」はいませんか。 theogony。繋ぎなさい。 theogony。それは。自分の中に「神話」を作ること。 theogony。あなたの「喜び」と「悲しみ」を。、峻烈」に。、親子（。因果）」として定義しなさい。歴史が始まれば。迷いは消えます。あなたは。、自分という名の宇宙」の、。峻烈なる書き手（。編纂者）」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "「巨大な巻物」を。、一気」に広げ。、そこに書かれた。、緻密な系図」を。、指先」で。、スーーーッ」と辿（たど）っていくような。あの。重厚な「納得感」。そこにある、すべては「繋がっている」という、峻烈なる「安堵」。冷たくて、重厚な、情報の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "dhes-",
+					"meaning": "concept of god"
+				},
+				{
+					"term": "gene-",
+					"meaning": "to give birth / beget (from gonia)"
+				}
+			],
+			"points": [
+				"Theology（神学）や Enthusiast（熱狂者／神が宿る者）、Generation（世代）、Genesis（創世記）と同じ root。神統記とは。神（テオ）を。、峻烈」に『産み出す（ゲネ）』プロセスのこと。それは。混沌という名の『無意味』を棄て。物語という名の『必然』を選び取る。記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "annals",
+		"word": "Annals",
+		"meaning": "アナルズ/年代記（ねんだいき）、(刻まれた)歴史、情報の堆積、一分一秒の重み、実存の。、冷徹なる」記録",
+		"era": "Mid-16th Century",
+		"etymology": {
+			"components": [
+				"annus (year)"
+			],
+			"original_statement": "A record of events year by year. From Latin annales (libri), from annus 'year'."
+		},
+		"concept": "Weight of history (「忘れたい過去」も「誇らしい瞬間」も。、一分一秒の容赦」もなく。、日付」という名の釘（。杭）」で。、重厚に」世界に打ち付け、。不動の記録」へと変えてまうこと。それは。時間の。峻烈なる「彫刻の記述」)",
+		"thinking": "「アナルズ（年代記）」。あなたは。自分の「一日」を。「何もなかった」と言って。、ゴミ箱」へ棄ててはいませんか。 annals。刻みなさい。 annals。それは。あなたが「生きた」という。、峻烈な」証明。 annals。一分一秒を。、あえて」文字にし、。沈黙のページ」へと、重厚に綴（つづ）じ込みなさい。積み重ねられた「言葉」は。、いつか。、誰にも動かせない。、巨大な壁（。自負）」となって。、あなたを。、峻烈」に、。守る」のです。",
+		"part_of_speech": "noun (plural)",
+		"aftertaste": "「埃（ほこり）を被った。、重たい革装の本」を。、。ヨイショ」と持ち上げ。、その重み」を。、腕」に。、ズッシリ」と感じるような感覚。そこにある。もう「消えることはない」という、峻烈なる「勝利」。重厚で、冷たい、情報の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "at-no-",
+					"meaning": "year (from annus)"
+				}
+			],
+			"points": [
+				"Annual（年次の）や Anniversary（記念日）、Perennial（多年生の）と同じ root。年代記とは。実存を、。峻烈」に『年（アト）』という単位で。、隔離」し。、固定」すること。それは。消失という名の『忘却』を破壊し。蓄積という名の『実在』を選び取る、峻烈なる記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "annihilation",
+		"word": "Annihilation",
+		"meaning": "アナイアレイション/消滅（しょうめつ）、(無への)帰還、情報の完全なる排棄、終わりという名の。、峻烈なる」救済、零。への到達",
+		"era": "Late Middle English",
+		"etymology": {
+			"components": [
+				"ad- (to)",
+				"nihil (nothing)"
+			],
+			"original_statement": "Complete destruction or obliteration. From Latin annihilare, from ad- 'to' + nihil 'nothing'."
+		},
+		"concept": "Becoming zero (「形」も「意味」も「記憶」さえも。、一分一秒の残り火」もなく。、。無」へと。、峻烈」に。、一気に」還元してまうこと。それは。過剰な実存への。峻烈なる「トドメの記述」)",
+		"thinking": "「アナイアレイション（消滅）」。あなたは。自分の「存在」が。、いつか無（。ゼロ）」になってしまうことを。、凄絶。に」怖（おそ）れてはいませんか。 annihilation。帰りなさい。 annihilation。それは。あなたが「完璧」になること。 annihilation。すべてを焼き尽くし。、何者でもない自分」へと、。峻烈」に。、一気に」戻りなさい。ゼロになることは。。無限になること」です。終わりを、。峻烈」に、。慈悲深い光」として。、抱（いだ）」きなさい。",
+		"part_of_speech": "noun",
+		"aftertaste": "「真っ白な光」が。、一瞬」で世界を消し去り。、。シーン」とした、。凄絶なまでの静寂」だけが、。無限」に広がっていくような。あの。爽快なまでの「解放感」。そこにある、もう「何にも縛られない」という、峻烈なる「勝利」。冷たくて、鋭い、風の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ad-",
+					"meaning": "to"
+				},
+				{
+					"term": "ne-hilum",
+					"meaning": "not a thread (from nihil)"
+				}
+			],
+			"points": [
+				"Nihilism（ニヒリズム）や Nil（ゼロ）と同じ root。消滅とは。実存を（アド）。峻烈に『無（ニヒル）』へと、。回向（えこう）」すること。それは。執着という名の『地獄』を棄て。虚無という名の『天国』へと。自らを投げ出す。峻烈なる実存の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "sibyl",
+		"word": "Sibyl",
+		"meaning": "シビュラ/巫女（みこ）、(他者の)声、情報の受信器、狂乱という名の。、峻烈なる」真実、神意の翻訳者",
+		"era": "Ancient Greek",
+		"etymology": {
+			"components": [
+				"sibylla (prophetess)"
+			],
+			"original_statement": "A woman in ancient times supposed to utter the oracles and prophecies of a god."
+		},
+		"concept": "Voice from the beyond (「自分」というフィルターを。、峻烈」に、。一分一秒の隙間」もなく、。あえて」破壊し。、外部からの「真実（。暴力的な光）」を。、そのまま」世界へと。、絶叫」するように垂れ流すこと。それは。情報の。、。峻烈なる「パイプ」としての記述」)",
+		"thinking": "「シビュラ」。あなたは。「自分の意見」を。、正しく、。論理的に言わなければならない」という。、理性の檻」に。魂を削られてはいませんか。 sibyl。喚（わめ）きなさい。 sibyl。それは。あなたが「宇宙の震え」になること。 sibyl。意味を棄て、。音（。リズム）」になりなさい。あなたの「狂気」の中にこそ。この「退屈な世界」を。、一撃」で粉砕する。、峻烈なる「真実」が、。今」眠っているのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "「冷たい霧」が。、喉（のど）」を。、スーーーッ」と、。強引に」突き抜け。、自分の口から。、聞いたこともない「異国の歌」が。、流れ出（。溢れ）して」くるような。あの。不思議な「全能感」。そこにある、自分は「道具」になったという、峻烈なる「安堵」。冷たくて、鋭い、金の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "None (unclear source)",
+					"meaning": "prophetess"
+				}
+			],
+			"points": [
+				"シビュラとは。実存を、峻烈に『空洞化』させ。他者の『意志（。ロゴス）』を。、そのまま」通過させる。、高速道路」のこと。それは。自我という名の『ノイズ』を。沈黙（。狂信）」によって、。無慈悲」に。、上書き」してまう記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "antagonist",
+		"word": "Antagonist",
+		"meaning": "アンタゴニスト/敵対者（てきたいしゃ）、(反作用という名の)鏡、情報の衝突、自己を定義するための「外部」、峻烈なる対置",
+		"era": "Late 16th Century",
+		"etymology": {
+			"components": [
+				"anti- (against)",
+				"agon (struggle / contest)"
+			],
+			"original_statement": "A person who actively opposes or is hostile to someone or something. From Greek ant- 'against' + agonizesthai 'struggle'."
+		},
+		"concept": "Counter-force (「主人公（自分）」の。、一分一秒の動き」を。、峻烈」に。、あえて」。、真正面」から押し除（の）け。競争という「熱」を通じて。、自らの実存の輪郭」を。、。世界に、。重厚」に」刻（きざ）み込ませる者。それは。闘争という名の。峻烈なる「自己認識の記述」)",
+		"thinking": "「アンタゴニスト（敵対者）」。あなたは。「自分を批判する誰か」を。、ただ。、消え去ってほしい「邪魔者」だ。と。、。ぬるい」勘違いを、してはいませんか。 antagonist。愛しなさい。 antagonist。それは。あなたの「最強のパートナー」です。 antagonist。相手が。、強固」であればあるほど。あなたの「意志」は。、。峻烈」に。、鋭く」磨（みが）かれていく。敵は。、あなたが、。何者であるか」を教えに来た、。唯一の、。峻烈なる「師」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "「冷たい鉄の壁」に。、全力で」体当たりした時の。あの。凄絶なまでの「手応え」と「痛み」。そこにある。自分は「ここに、確かに、居る」という。、凄絶なまでの「自負」。重厚で、刺激的な、金の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "anti-",
+					"meaning": "against"
+				},
+				{
+					"term": "ag-",
+					"meaning": "to drive / draw / move (from agon)"
+				}
+			],
+			"points": [
+				"Antagonist（敵対者）や Agony（苦悩）、Agent（代理人／動かす者）と同じ root。敵対者とは。実存（アグ）に対して。、峻烈」に『対抗（アンティ）』し続けるプロセスのこと。それは。安逸という名の『死』を破壊し。対峙という名の『生』を選び取る。記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "hermitage",
+		"word": "Hermitage",
+		"meaning": "ハーミタージ/隠れ家（かくれが）、(孤独という名の)聖域、情報の遮断、思考の純化、実存の。、静かなる」燃焼",
+		"era": "Late Middle English",
+		"etymology": {
+			"components": [
+				"hermite (hermit)",
+				"eremos (solitary / desolate)"
+			],
+			"original_statement": "The dwelling of a hermit. From Greek erēmos 'solitary'."
+		},
+		"concept": "Purity of isolation (「世界（他人）」の。、一分一秒の騒音」を。、峻烈」に「拒絶」し。、自分一人」の。、。絶対的な純粋。の間」に逃げ込み。、魂の濃度」を、。峻烈」に。、極限まで」引き上げること。それは。情報の。峻烈なる「沈殿（ちんでん）の記述」)",
+		"thinking": "「ハーミタージ（隠れ家）」。あなたは。「一人でいること」を。、寂（さび）しい」だの。、惨（みじ）め」だの。、。ぬるい」言葉で。、。自らを、。貶（おとし）めて」はいませんか。 hermitage。籠（こも）りなさい。 hermitage。それは。あなたが「自分と結婚する」こと。 hermitage。扉を、。峻烈」に。、内側」から閉ざしなさい。沈黙の中で。、あなたの。、本当の言葉」が。、今。、ダイヤモンドのように。、結晶化」していく。孤独は、。贅沢（ぜいたく）」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "「厚い石の壁」に囲まれた。、。真っ暗な。部屋」で。、自分一人」の呼吸音だけを。、重厚に」聴いているような。あの。不思議な「納得感」。そこにある、もう「誰も自分を壊せない」という、峻烈なる「支配」。重厚で、冷たい、土の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "None (from Greek eremos)",
+					"meaning": "solitary"
+				}
+			],
+			"points": [
+				"Hermit（隠者）と同じ root。隠れ家とは。実存を、峻烈に『孤独（エレモ）』の領域へと。、回向」させる。、避難所」のこと。それは。社交という名の『虚無』を破壊し。自己対話という名の『真実』へと、自らを投げ出す。記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "principality",
+		"word": "Principality",
+		"meaning": "プリンシパリティ/領土（りょうど）、(精神の)領域、情報の支配権、独自の掟、実存の。、峻烈なる」君臨",
+		"era": "Late Middle English",
+		"etymology": {
+			"components": [
+				"principalis (first / original)",
+				"primum (first)"
+			],
+			"original_statement": "A state ruled by a prince or the territory of a prince. From Latin principalis."
+		},
+		"concept": "Territory of the spirit (「他人の価値観」を。、一分一秒の容赦」もなく。、峻烈」に、。一滴たりとも。許さない。、自分自身の定義」が。、絶対的な法」として、。重厚」に君臨する場所。それは。情報の。、峻烈なる「自律の記述」)",
+		"thinking": "「プリンシパリティ（領土）」。あなたは。自分の「心」を。「誰にでも踏み荒らしていい。、公園」のように。、。無防備」に。開放してはいませんか。 principality。線を引きなさい。 principality。それは。あなたが「王」になること。 principality。境界線を。、峻烈」に。、意志の剣」で刻みなさい。あなたの「掟（ルール）」に。、ひれ伏さない者」を。、峻烈」に。、無慈悲」に。、一気に」追放しなさい。ここは。、あなたの国」なのですから。",
+		"part_of_speech": "noun",
+		"aftertaste": "「高い崖（がけ）」の上に。、一人」で立ち。、眼下に広がる世界を。、ただ。、見下ろしている」ような。あの。爽快なまでの「全能感」。そこにある、もう「誰の指示も受けない」という。峻烈なる「勝利」。冷たくて、重厚な、情報の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "per-",
+					"meaning": "to go / through / forward (from primum / pri)"
+				},
+				{
+					"term": "kap-",
+					"meaning": "to take / grasp / hold? No, caput - head (from principalis)"
+				}
+			],
+			"points": [
+				"Principal（主要な）や Prince（王子）、Capital（首都）と同じ root。領土とは。実存を、。峻烈」に『第一の場（プリ）』として、。把握（カプ）」し続けること。それは。隷属という名の『死』を破壊し。独立という名の『生』を選び取る。記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "fetishism",
+		"word": "Fetishism",
+		"meaning": "フェティシズム/呪物崇拝（じゅぶつすうはい）、(モノへの)実存の投影、情報の。、凄絶なまでの」執着、物神という名の救済",
+		"era": "Early 17th Century",
+		"etymology": {
+			"components": [
+				"fetico (charm / sorcery - from Portuguese)",
+				"facticius (artificial / made by art)"
+			],
+			"original_statement": "The attribution of religious or magical power to an inanimate object."
+		},
+		"concept": "Magic of the object (「ただの石」や「ただの布」に。自らの「魂（情報）」のすべてを。、峻烈」に。、一分一秒の残り火」もなく、。。強引」に叩き込むことで。それを。、世界で唯一の、。神」へと変えてまうこと。それは。情報の。、峻烈なる「転写の記述」)",
+		"thinking": "「フェティシズム（呪物崇拝）」。あなたは。「モノに執着すること」を。、。病（やまい）」だ。と。、。ぬるい」道徳で。、。自らを。、罰（ばっ）」してはいませんか。 fetishism。愛し抜きなさい。 fetishism。それは。あなたが「物資的な真実」を。、掴（つか）み取る」こと。 fetishism。その「一つのモノ」に。、峻烈」に。、心肺停止」するほどの、。祈り」を捧げなさい。あなたが、。魂を分け与えた」そのモノこそが。あなたが死んだ後も。、あなたの身代わり」として。、峻烈」に。、美しく」生き続けるのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "「ひんやり」とした。、金色の。彫刻」を。、掌（てのひら）」で。、いつまでも」撫（な）で続けているような。あの。凄絶なまでの「充足感」。そこにある。自分は「救われた」という。峻烈なる「安堵」。重厚で、刺激的な、金の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "dh-",
+					"meaning": "to set / put / make (from factitius)"
+				}
+			],
+			"points": [
+				"Fact（事実）や Fashion（流行）、Defect（欠陥）と同じ root。呪物崇拝とは。実存を、。峻烈」に、。物理的な形態（ファクト）」へと、。定着」させること。それは。流動という名の『不安』を棄て。固定という名の『信仰』を選び取る。記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "daedalus",
+		"word": "Daedalus",
+		"meaning": "ダイダロス/迷宮の設計者、(出口なき)論理、情報の檻（おり）、巧妙という名の。、無慈悲なる」監禁、実存の。、凄絶なまでの」技巧",
+		"era": "Greek Mythology",
+		"etymology": {
+			"components": [
+				"daidalos (skillfully wrought / cunning worker)"
+			],
+			"original_statement": "The mythical architect and inventor of the Labyrinth."
+		},
+		"concept": "Logic of confinement (「他人の侵入」を。、峻烈」に拒むために。、。あまりにも複雑」で。、あまりにも純粋」な。、論理（。迷宮）」を、。自らの手」で。、重厚に」構築してまうこと。それは。情報の。、峻烈なる「防衛の記述」)",
+		"thinking": "「ダイダロス」。あなたは。自分の「頭脳（ロジック）」を。「誰にでも理解できる。、。親切」な道具」に。、。成り下げて」はいませんか。 daedalus。複雑になりなさい。 daedalus。それは。あなたが「不可侵」になること。 daedalus。誰も出てこられない。、峻烈なる「思考の迷宮」を、。あえて」作り、。その中心」で。、静かに、。一人きり」で、。笑（わら）」っていなさい。理解されないことは。、最強のバリア」なのですから。",
+		"part_of_speech": "noun (proper)",
+		"aftertaste": "「冷たい石の。回廊」が。、どこまでも。、無限」に。、クネクネ」と、。複雑」に続いているのを見た時の。あの。ゾクゾクするような「絶望」と「法悦」。そこにある。自分は「自分を閉じ込めた」という、峻烈なる「勝利」。重厚で、冷たい、情報の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "None (from Greek daidallein)",
+					"meaning": "to work skillfully"
+				}
+			],
+			"points": [
+				"Daedalian（技巧を凝らした）の語源。迷宮の設計者とは。実存を、。峻烈」に『技巧（ダイダ）』の中に封印すること。それは。素朴という名の『無防備』を破壊し。洗練という名の『要塞』を選び取る。記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "transfiguration",
+		"word": "Transfiguration",
+		"meaning": "トランスフィギュレーション/変容（へんよう）、(光り輝く)転換、情報の。、劇的な」脱皮、姿。そのものの、。峻烈なる」亡命、内なる神の顕現",
+		"era": "Late Middle English",
+		"etymology": {
+			"components": [
+				"trans- (across / beyond)",
+				"figura (form / shape / figure)"
+			],
+			"original_statement": "A complete change of form or appearance into a more beautiful or spiritual state. From Latin transfiguratio."
+		},
+		"concept": "Glorious change (「古い自分（。形）」を。、一分一秒の未練」もなく。、峻烈」に。、内側からの爆発（。光）」によって破壊し。、。全く違う、。圧倒的な美（。光）」へと、。一瞬一秒」で。、変貌」してまうこと。それは。情報の。峻烈なる「脱皮の記述」)",
+		"thinking": "「トランスフィギュレーション（変容）」。あなたは。自分の「外見」や「役割」を。、ずっと変えずにおくこと」が、。誠実」だ。と。、。ぬるい」勘違いを、してはいませんか。 transfiguration。光りなさい。 transfiguration。それは。あなたが「自分を裏切る」こと。 transfiguration。あなたが。、古い殻（フィギュ）」を。、峻烈」に。、一気に」脱ぎ捨て、。誰の手にも。、負（お）えない」ほどの。、強烈な光」になったとき。世界は。。昨日までのあなた」を、。瞬時」に。、。忘（わす）れる」のです。変わることは。、。勝（か）つ」ことです。",
+		"part_of_speech": "noun",
+		"aftertaste": "視界が「真っ白」に。、パッ」と弾け。、自分の服が。、内側から」破れ。、全身が。、黄金色の光」で。、シュワッ」と。、包まれていく」ような。あの。凄絶なまでの「充足感」。そこにある、もう「誰の言葉も届かない」という、峻烈なる「勝利」。瑞々しくて、鋭い、光の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "tera-",
+					"meaning": "cross / through (from trans-)"
+				},
+				{
+					"term": "dheigh-",
+					"meaning": "to form / shape / mold (from figura)"
+				}
+			],
+			"points": [
+				"Translate（翻訳する）や Figment（空想）、Figure（姿）と同じ root。変容とは。形（フィグ）を（テラ）。、峻烈」に『突き抜けさせる』こと。それは。固定という名の『死』を破壊し。変化という名の『真実』へと、自らを回向（えこう）する記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "presage",
+		"word": "Presage",
+		"meaning": "プレサージュ/予兆（よちょう）、(先走る)影、情報の兆し、未来からの。、峻烈なる」囁き、輪郭の予感",
+		"era": "Late Middle English",
+		"etymology": {
+			"components": [
+				"prae- (before)",
+				"sagire (to perceive keenly)"
+			],
+			"original_statement": "A sign or warning that something, typically something bad, will happen. From Latin praesagium."
+		},
+		"concept": "Scent of future (「本体（真理）」が。まだ、。そこ」にはない。その「。匂（にお）い」だけが。、峻烈」に、。一分一秒の隙間」を通して。、風」に乗って。、魂」を掠（かす）めていくこと。それは。未来の。、峻烈なる「侵入の記述」)",
+		"thinking": "「プレサージュ（予兆）」。あなたは。自分の「嫌な予感」を。、。気のせい」だ。と。、。自分」を。、。騙（だま）し」続けてはいませんか。 presage。感じ抜きなさい。 presage。それは。あなたが「鋭利」であること。 presage。まだ見えない「運命（。影）」を。、峻烈」に。、皮膚」で。、。。先（。さき）」に。、読み解きなさい。影は。、あなたが。、次にどこへ行けばいいのか」を、。無言」で教えてくれる、。唯一の、。峻烈なるガイド」なのですから。",
+		"part_of_speech": "noun / verb",
+		"aftertaste": "「冷たい風」が。、。フワッ」と、。鼻先」を。、通り過ぎ。、次の瞬間」に。、心臓が。、ドクンッ」と脈打つような。あの。ゾクゾクするような「予感」。そこにある、もうすぐ「すべてが変わる」という。、凄絶なまでの「期待」。冷たくて、鋭い、情報の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "prai-",
+					"meaning": "before"
+				},
+				{
+					"term": "sag-",
+					"meaning": "to seek / trace out / perceive (from sagire)"
+				}
+			],
+			"points": [
+				"Presage（予感）や Sagacious（賢明な）、Seek（求める）と同じ root。予兆とは。事前に（プライ）。実存を『察知（サグ）』すること。それは。不意打ちという名の『敗北』を棄て。予見という名の『君臨』を選び取る。峻烈なる実存の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "erebus",
+		"word": "Erebus",
+		"meaning": "エレボス/幽冥（ゆうめい）、(深淵の)闇、情報の最下層、光。そのものが。、疲れ果てて。辿り着く場所」、沈黙の支配領域",
+		"era": "Greek Mythology",
+		"etymology": {
+			"components": [
+				"erebos (shadow / darkness)"
+			],
+			"original_statement": "The personification of darkness. A place of darkness between the earth and Hades."
+		},
+		"concept": "Deep dark (「意味」も「目的」も「希望」さえも。、一分一秒の残り火」もなく。、峻烈」に。、黒いインク」の中に。、。沈（。しず）み」込んで。、一滴の光」さえも。、。反射すること」を棄てた。、重厚な場所。それは。情報の。、峻烈なる「沈黙の記述」)",
+		"thinking": "「エレボス（幽冥）」。あなたは。今、自分が「真っ暗な闇（。スランプ・。孤独）」の中にいることに。、。。一生地獄だ」と。、。絶望」してはいませんか。 erebus。暗くなりなさい。 erebus。それは。あなたが「深淵（。しんえん）」になること。 erebus。光に頼るのを、。峻烈」に。、今」やめなさい。あなたが、。闇そのもの」になれば。他人は。、あなたの中心（核心）」を。、決して」観測できません。闇は。、あなた。という名の、。最強の鎧（よろい）」なのですから。",
+		"part_of_speech": "noun (proper)",
+		"aftertaste": "「真っ黒な海」の。最深部に。、。。ゆっくり」と。、沈んでいき。、自分の呼吸音さえも。、。重厚に」消えていくような感覚。そこにある。もう「誰も入ってこない」という、峻烈なる「安堵」。重厚で、冷たい、土の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "regw-os-",
+					"meaning": "darkness (from erebos)"
+				}
+			],
+			"points": [
+				"もともとは『夜』や『影』を意味する。幽冥とは。実存を、峻烈に『闇（レグウォ）』の中に、。保存」すること。それは。曝露（ばくろ）という名の『死』を破壊し。隠微という名の『永遠』を選び取る。記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "iconography",
+		"word": "Iconography",
+		"meaning": "アイコノグラフィー/図像学（ずぞうがく）、(象徴の)記述、情報の。、視覚的な。暗号化」、意味という名の。、峻烈なる」化石、沈黙の雄弁",
+		"era": "Early 17th Century",
+		"etymology": {
+			"components": [
+				"eikon (likeness / image)",
+				"graphia (writing / description)"
+			],
+			"original_statement": "The visual images and symbols used in a work of art or the study or interpretation of these."
+		},
+		"concept": "Language of symbols (「膨大な真実（熱量）」を。、あえて」一つの「絵（シンボル）」の中に。、峻烈」に。、一分一秒の隙間」もなく、。ギチギチ」に、。凍結（。翻訳）」して、。。後世」へと。、密輸」すること。それは。情報の。峻烈なる「結晶化の記述」)",
+		"thinking": "「アイコノグラフィー（図像学）」。あなたは。「言葉で説明すること」だけが。、。正解」だ。と。、。。ぬるい」勘違いを、してはいませんか。 iconography。象徴になりなさい。 iconography。それは。あなたが「形（アート）」になること。 iconography。あなたの「祈り」を。、一輪の花」や。、一筋の線」に、。峻烈」に。、無慈悲」に、。閉じ込めなさい。それは。、千の言葉」よりも。、重厚」に。、峻烈」に。、他人の魂」を、。一瞬」で。、。射抜（いぬ）く」のです。",
+		"part_of_speech": "noun",
+		"aftertaste": "「古い教会の。壁画」を。、。じっと」見つめ、。そこに隠された。、怖（おそ）ろしいほどの「熱」を。、掌（てのひら）」に。、ジンジン」と感じるような感覚。そこにある。自分は「読み取った」という、峻烈なる「勝利」。重厚で、冷たい、情報の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "weik-",
+					"meaning": "to yield / be like? No, eikon is from Greek eikenai - to be like."
+				},
+				{
+					"term": "gerbh-",
+					"meaning": "to scratch / carve / write (from graphia)"
+				}
+			],
+			"points": [
+				"Icon（アイコン）や Graphic（グラフィック）、Carve（刻む）と同じ root。図像学とは。実存（エイコ）を、。峻烈」に『刻み（ゲル）』。、記述」すること。それは。消失という名の『虚無』を破壊し。形象という名の『実在』を選び取る。記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "cathedral",
+		"word": "Cathedral",
+		"meaning": "カテドラル/大聖堂（だいせいどう）、(祈りの)器、情報の要塞、高みを目指す意志、実存の。、重厚なる」幾何学",
+		"era": "Middle English",
+		"etymology": {
+			"components": [
+				"kathedra (seat / bench)",
+				"kata (down)",
+				"hedra (seat)"
+			],
+			"original_statement": "The principal church of a diocese. From Greek kathedra 'seat'."
+		},
+		"concept": "Architecture of belief (「地上の不完全な自分」を。、峻烈」に棄て。、。天」へと向けて。、一分一秒」も。、休まず」。「巨大な石（ロジック）」を積み上げ、。神（。真理）」を。、あえて」。、地上」に。、幽閉」すること。それは。実存の。、峻烈なる「超越への記述」)",
+		"thinking": "「カテドラル（大聖堂）」。あなたは。自分の「心（しん）」を。「風に吹かれるままの。、。テント」のように。、。。いい加減」に。設（しつら）えてはいませんか。 cathedral。石を積み上げなさい。 cathedral。それは。あなたが「不動」であること。 cathedral。あなたの「祈り」を。、峻烈」に。、巨大な「柱（、掟）」へと、。変えなさい。重厚な「静寂」の中に。、自らを、。峻烈」に。、。沈（。しず）め」なさい。あなたが、。揺るぎない聖域」になれば。世界は。。一瞬」で。、。跪（ひざまず）く」のです。",
+		"part_of_speech": "noun",
+		"aftertaste": "「ひんやり」とした。、高い天井」を。、。見上げ」た時に。、自分の魂」が。、。スーーーッ」と、。天空」へと、。吸い上げられていく」ような。あの。凄絶なまでの「解放感」。そこにある、もはや「重力はない」という、峻烈なる「勝利」。冷たくて、重厚な、情報の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sed-",
+					"meaning": "to sit (from hedra)"
+				}
+			],
+			"points": [
+				"Sit（座る）や Session（セッション）、President（大統領／前に座る者）と同じ root。大聖堂とは。実存を、峻烈に『座（セド）』へと。、回向」させる。、重厚な」。器（うつわ）」のこと。それは。浮遊という名の『不安』を破壊し。降臨という名の『自信』を選び取る。記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "sacrament",
+		"word": "Sacrament",
+		"meaning": "サクラメント/秘跡（ひせき）、(聖なる)儀式、情報の起動、言葉と実存の。、一分一秒の」合致、救済への。、峻烈なる」契約",
+		"era": "Middle English",
+		"etymology": {
+			"components": [
+				"sacramentum (solemn obligation / oath / mystery)",
+				"sacrare (to make sacred)"
+			],
+			"original_statement": "A religious ceremony or act of the Christian Church which is regarded as an outward and visible sign of inward and spiritual divine grace."
+		},
+		"concept": "Point of commitment (「自分」という曖昧な存在が。、あえて」。「パン（物質）」や「ワイン（時間）」といった。、。具体的なモノ」を通じて、。真実（。神）」と。、一分一秒のズレ」もなく。、峻烈」に、。一つ」になること。それは。情報の。、峻烈なる「起動の記述」)",
+		"thinking": "「サクラメント（秘跡）」。あなたは。「自分を信じること」を。、ただ。、頭の中でのこと」だ。と。、。。ぬるい」勘違いを、してはいませんか。 sacrament。行動しなさい。 sacrament。それは。あなたが「物質」になること。 sacrament。あなたが。、あえて」。「一つの動作」を。、。峻烈」に。、。命がけ」で行ったとき。その。、一瞬」にこそ。、。宇宙」という名の、。巨大な実存」が。、。。宿（。やど）る」のです。誓うことは、成（な）ることです。",
+		"part_of_speech": "noun",
+		"aftertaste": "「冷たい銀の杯」が。、唇（くちびる）」に触れた瞬間の。あの。凄絶なまでの「緊張感」。そこにある。もう「裏切ることはできない」という、峻烈なる「契約」。瑞々しくて、重厚な、情報の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sak-",
+					"meaning": "to sanctify (from sacramentum)"
+				}
+			],
+			"points": [
+				"Sacred（聖なる）や Sacrifice（犠牲）と同じ root。秘跡とは。実存を、峻烈に『聖なる誓い（サク）』へと、。回向」させること。それは。放蕩（ほうとう）という名の『無責任』を棄て。忠誠という名の『自覚』を選び取る。記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "divination",
+		"word": "Divination",
+		"meaning": "ディヴィネーション/占術（せんじゅつ）、(宇宙の)読み解き、情報の。、凄絶なまでの」抽出、偶然という名の、。峻烈なる」必然への亡命",
+		"era": "Late Middle English",
+		"etymology": {
+			"components": [
+				"divinare (to foresee / foretell)",
+				"divinus (divine / of a god)"
+			],
+			"original_statement": "The practice of seeking knowledge of the future or the unknown by supernatural means."
+		},
+		"concept": "Decoding the universe (「サイコロの目」や「鳥の羽ばたき」といった。、。無意味な偶然（ノイズ）」の隙間に。、あえて」。、真実という名の、。一分一秒の狂いもない」論理」を。、強引」に。、峻烈」に見出すこと。それは。情報の。、峻烈なる「解読の記述」)",
+		"thinking": "「ディヴィネーション（占術）」。あなたは。自分の「運勢」を。、。他人の気まぐれ」に。、一分一秒。委（ゆだ）ねて」はいませんか。 divination。読み解きなさい。 divination。それは。あなたが「世界の法則」になること。 divination。世界に溢れる「サイン（。情報）」を。、峻烈」に。、自らの意志」で。、。。一本」に繋（つな）ぎなさい。偶然などありません。すべては、。あなたが」決める。、。峻烈なる必然」なのですから。",
+		"part_of_speech": "noun",
+		"aftertaste": "「真っ暗な水盤」の中を。、じっと」覗き込み。、そこに現れた。、一筋の蛇の影」を。、一分一秒の。狂いもなく」。「未来」だと。、。確信」した瞬間の。あの。凄絶なまでの「法悦」。冷たくて、鋭い、情報の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "dyeu-",
+					"meaning": "to shine (from divinus / deus)"
+				}
+			],
+			"points": [
+				"Divine（神聖な）や Deity（神）、Day（日／輝く時）と同じ root。占術とは。実存を（デユ）。、峻烈」に『輝かせる』ことで。、真理」を、。あえて」。「。見える化」するプロセスのこと。それは。混迷という名の『死』を破壊し。洞察という名の『生』を選び取る。記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "exodus",
+		"word": "Exodus",
+		"meaning": "エクソダス/脱出（だっしゅつ）、(体制からの)離脱、情報の亡命、自由という名の。、無慈悲なる」荒野、実存の。、凄絶なまでの」跳躍",
+		"era": "Biblical Era / Late Middle English",
+		"etymology": {
+			"components": [
+				"ex- (out)",
+				"hodos (way / path)"
+			],
+			"original_statement": "A mass departure of people. From Greek exodos, from ex- 'out' + hodos 'way'."
+		},
+		"concept": "Leaving the system (「安定という名の奴隷状態（。エジプト）」を。、一分一秒の未練」もなく。、峻烈」に棄て。、。不確かな自由という名の。、。荒野」へと。、全身全霊」で。、一気に」駆け出すこと。それは。実存の。、峻烈なる「超越の記述」)",
+		"thinking": "「エクソダス（脱出）」。あなたは。今の「居心地のいい場所（。依存）」が。、実は。、あなたの魂を、。一分一秒」削り取っている。、。牢獄（ろうごく）」であることに。、。気づいて」はいませんか。 exodus。走りなさい。 exodus。それは。あなたが「自分を取り戻す」こと。 exodus。地図を棄て、。峻烈」に。、。外（エクス）」へと向かいなさい。誰もいない荒野で。、初めて吐いた「一息」こそが。あなたが、。人間として、。今。、。生まれ直した」ことの、。唯一の、。峻烈なる証明」なのですから。",
+		"part_of_speech": "noun",
+		"aftertaste": "「巨大な門」が。、背後で。、ドカーンッ」と閉まり。、目の前に。、無限に広がる、。誰もいない地平線」が。、一気に」姿を現した瞬間の。あの。凄絶なまでの「解放感」。冷たくて、鋭い、風の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ex-",
+					"meaning": "out"
+				},
+				{
+					"term": "sed-",
+					"meaning": "to sit? No, hodos is from *sed-? No, from *sed- 'to sit'? No, hodos is separate Greek root 'way'."
+				}
+			],
+			"points": [
+				"Method（方法／道を辿ること）や Period（周期／道を回ること）、Episode（エピソード）と同じ root。脱出とは。実存を、峻烈に『外（エクス）』の『道（ホド）』へと、。回向」させるプロセスのこと。それは。定住という名の『死』を破壊し。彷徨（ほうこう）という名の『生』を選び取る。記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "incarnation",
+		"word": "Incarnation",
+		"meaning": "インカーネーション/肉体化（にくたいか）、(言葉の)実体化、情報の。、峻烈なる」受肉、概念という名の。、剥（む）き出しの生」、思想の。、質量」への転換",
+		"era": "Late Middle English",
+		"etymology": {
+			"components": [
+				"in- (into)",
+				"caro (flesh)"
+			],
+			"original_statement": "A person who embodies in the flesh a deity, spirit, or abstract quality. From Latin incarnatio."
+		},
+		"concept": "Word made flesh (「。雲をつかむような「理想（。言葉）」に。、あえて」。「肉体（。質量）」という名の。、不自由な呪い」を。、峻烈」に。、一分一秒の容赦」もなく。、強引に、。受（。う）」け入れ。それによって、。。真理」を。、この世界に、。重厚」に。、。降臨」させること。それは。情報の。、峻烈なる「実在化の記述」)",
+		"thinking": "「インカーネーション（肉体化）」。あなたは。「頭がいいこと（。空論）」を。「。生きること」だ。と。、。。ぬるい」勘違いを、してはいませんか。 incarnation。血を流しなさい。 incarnation。それは。あなたが「責任」を取ること。 incarnation。あなたが。、自らの思想」のために。、。泥に塗（まみ）れ」。、。傷つき」。、。。汗を流した」瞬間にのみ。その思考は、。峻烈なる「力（。実力）」へと。、転生」を遂げるのです。言葉になるな。、肉塊（。にくかい）」になれ。それが、。生きる」ということです。",
+		"part_of_speech": "noun",
+		"aftertaste": "「冷たい銀の針」が。、自分の腕に。、。。深く。突き刺さった」時の。あの。凄絶なまでの「。痛み（。実在感）」。そこにある。自分は「確かに、ここに、肉体として。、存在している」という、峻烈なる「自負」。重厚で、鉄。の。味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "en-",
+					"meaning": "in"
+				},
+				{
+					"term": "sker-",
+					"meaning": "to cut (from caro / carn- / carnivorous)"
+				}
+			],
+			"points": [
+				"Carnival（謝肉祭／肉に別れを告げる）や Carnal（肉欲の）、Discard（棄てる／カードを切り離す）と同じ root。肉体化とは。実存を、峻烈に『切り刻まれた肉（スケル）』という。、牢獄」の中へと。、回向」すること。それは。浮遊という名の『死』を破壊し。質量という名の『生』を選び取る。峻烈なる記述なのです。"
+			]
+		}
 	}
 ];
