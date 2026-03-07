@@ -91,7 +91,7 @@ const WORDS = [
 		"concept": "Proclaiming away (自分を遠ざけることを宣言する。絶対的な主権という名の『冠』を自ら脱ぎ捨てること)",
 		"thinking": "「(今まで自分を支えていた最高の地位や権利)から」「(私はもうそこには居ない、と)高らかに宣言する」。それは、他者に奪われるのを待つのではなく、自らの主権によって「自分という物語の主人公であること」を一旦終了させ、名もなき「一人の人間、あるいは沈黙」へと自らを返還すること。退位とは、あなたが自分の「立場」を、自らの最高度の知的な決断によって空位にする、という最も峻烈で最も自由な「自己否定」の謂いなのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "思考の残響が、心地よい沈黙へと変わる瞬間。",
 		"example": "Everyday words are the windows to history.",
 		"deep_dive": {
 			"roots": [],
@@ -381,7 +381,7 @@ const WORDS = [
 		"concept": "Thrown away (遠くへ放り出された、あるいは見捨てられたこと。自らの『中心』を剥奪された、生のゴミ捨て場)",
 		"thinking": "「(祝福された命という名の物語から、遥か外の方へと（Ab-)」「(価値なきマテリアル（素材)として）放り出され、捨てられた」。それは単なる「貧困」ではない。あなたが「一人の人間」として誰かの瞳に反射されるのをやめられ、世界という名のシステムの「死角」へと物理的に、あるいは精神的に「投棄」されてしまった、という究極の「不在」。どん底な状態とは、あなたが自らの「声」を放つべき目的地を完全に見失い、ただ宇宙の冷たい「重力」にその身を任せるしかない、という存在の最も深い「凍結」の谓いなのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "意識の境界線が、静かに溶けていく感覚。",
 		"example": "Everyday words are the pulleys of civilization.",
 		"deep_dive": {
 			"roots": [],
@@ -792,7 +792,7 @@ const WORDS = [
 		"concept": "Holding away (遠くに掴んでおくこと。自制による『不参加』)",
 		"thinking": "「自分を遠くに」「留めておく」。欲望や状況の流れにそのまま身を任せず、強い意志の腕で、自分という存在を一歩手前で「ホールド」し続けること。棄権とは、単なる不作為ではなく、何に参加「しない」かを自ら決定するという、最もストイックな主体性の現れなのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "言葉の裏側に潜む、名もなき光を見つけて。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -874,7 +874,7 @@ const WORDS = [
 		"concept": "The state of holding away (自分を遠くに留めておくこと。欲望を無効化する沈黙の行)",
 		"thinking": "「自分という存在を」「遠ざけ、掴み留める」。欲望の火に薪をくべるのをやめ、自らの意思を涼やかな「不介入」の場所に置くこと。禁欲とは、何かを捨てることではなく、自分の中に「支配されない空間」を創り上げようとする、魂の最も過酷で美しい建築作業なのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "言葉の裏側に潜む、名もなき光を見つけて。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -947,7 +947,7 @@ const WORDS = [
 		"concept": "Drawn away thought (引き離され、まとめられた思考。真理の骨子)",
 		"thinking": "「具体的な肉体から」「引き離し」、さらに「共に」「掴み取った」もの。バラバラのリンゴを見て「赤」や「円」という不在の共通項を掴み出すように。概念とは、あなたが世界の「表面」というザラつきを捨て、その透かし絵として浮かび上がってきた「形なき法則」を、自分の知性という名の檻の中にしっかりと閉じ込める、最高度の知的マジックなのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "言葉の裏側に潜む、名もなき光を見つけて。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -1204,7 +1204,7 @@ const WORDS = [
 		"concept": "The grove of wisdom (知の木立、思索の森)",
 		"thinking": "英雄アカデモスの「森」。かつてプラトンが弟子たちと歩き、語らい、宇宙の真理を探求したあの静かな庭園の名です。学問とは密室で独りで行うものではなく、美しい環境の中で共に問い、共に歩む「プロセス」そのものなのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "言葉の裏側に潜む、名もなき光を見つけて。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -1396,7 +1396,7 @@ const WORDS = [
 		"concept": "Approaching the post (使命へ向かうこと、運命の引き受け)",
 		"thinking": "「そこへ」「行く」。ただの「同意」以上の重みを、歴史という文脈において背負うこと。承継とは、自分がこれまで歩んできた自由な小径を捨て、大いなる連綿たる物語の「本流」へと、自らを溶かし込ませようとする厳かな「合流」の姿なのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "意識の境界線が、静かに溶けていく感覚。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -1680,7 +1680,7 @@ const WORDS = [
 		"concept": "Going to (近づくこと。核心への第一歩)",
 		"thinking": "「そこへ」「行く」。ただ眺めるのではなく、自らの足で境界を越え、対象の「内部」へと自らを潜り込ませようとする意志。アクセスとは、未知への「扉」を叩き、情報の海へと飛び込むための、最も初期的な、しかし決定的な「接触の瞬間」そのものです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "意識の境界線が、静かに溶けていく感覚。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -3683,7 +3683,7 @@ const WORDS = [
 		"concept": "Leading toward (そこへ導き寄せる。議論の舞台の中央へ、真実の欠片を恭しく運び出すこと)",
 		"thinking": "「(人々の注目が注がれる、あの議論のセンターへと)向かって」「(たった一つの、言い逃れのできない証拠を)導き寄せる」。それは単なる「主張」ではない。あなたが世界の「隠された場所」から、一つの物理的な「真実」を丁寧に運び出し、誰の目にも明らかな形で、そこに屹立させること。証拠を挙げることは、あなたの言葉という名の「ビークル」が、最も重い「真理の質量」を乗せて、人々の魂を納得という名の目的地へとリード(引く)する際の、最も誠実な任務なのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "意識の境界線が、静かに溶けていく感覚。",
 		"example": "Everyday words are the anchors of our reality.",
 		"deep_dive": {
 			"roots": [],
@@ -4713,7 +4713,7 @@ const WORDS = [
 		"concept": "Turning against (自分の方へ立ち向かってくる向き、敵意ある旋回)",
 		"thinking": "「自分に対して」「牙を剥くように向いている」状況。風が目の前から吹き、すべての道があなたを拒絶しているかのように感じる時間の重み。逆境とは、世界があなたの「意志の固さ」を試すために、あえてあなたへと「不都合な向き」で立ち現れている、最も過酷で最も成長を促すトレーニングの場なのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "意識の境界線が、静かに溶けていく感覚。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -5799,7 +5799,7 @@ const WORDS = [
 		"concept": "Stepping toward (相手に向かって一歩を踏み出す。防壁を突き破り、境界線の中に潜入すること)",
 		"thinking": "「(相手の聖域へと)向かって」「一歩を踏み出し、踏み込む」。単なる「叫び」ではない。あなたの肉体の「質量」そのものを、相手の物語という名の「檻」の中に無理やり侵入させ、相手の存在という名の「静止」を破壊すること。攻撃とは、他者との安易な「合流」を拒絶し、暴力という名の「物理的な対話」を強制的に開始しようとする、剥き出しの「生の力」の謂いなのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "言葉の裏側に潜む、名もなき光を見つけて。",
 		"example": "Everyday words are the anchors of our reality.",
 		"deep_dive": {
 			"roots": [],
@@ -7348,7 +7348,7 @@ const WORDS = [
 		"concept": "One who moves about (駆け巡る者、境界を越える奉仕者)",
 		"thinking": "「周囲を」「駆け巡る」者。かつて王の意図を伝え、情報を持ち帰るために国境を越え続けた、最も機動力のある奉仕者。それは単なる役職ではなく、一国の「声」となり「顔」となって、他者という未知の世界へと果敢に飛び込む勇気の象徴です。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "言葉の裏側に潜む、名もなき光を見つけて。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -7972,7 +7972,7 @@ const WORDS = [
 		"concept": "Pruning around (周囲を切り払うこと、生のための峻烈な切断)",
 		"thinking": "「周りを」「切り落とす」。本来はブドウの木などの「剪定」を指しました。全体が生き延びるために、毒された、あるいは不要な一部分を、断腸の思いで切り離すこと。痛みは大きいが、それは未来の「生」を確保するための、知性と決断による最も重い治療的行為です。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "思考の残響が、心地よい沈黙へと変わる瞬間。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -8604,7 +8604,7 @@ const WORDS = [
 		"concept": "Woman who went before (先に行った女性。生命の揺りかごを繋ぐ鎖)",
 		"thinking": "「前に」「行く」女性。彼女たちが、どれほど多くの夜を耐え、どれほど多くの愛を繋ぎ、今のあなたの命の灯火を消さずに運んできてくれたか。その静かな、しかし強靭な歩みの繰り返しが、数千年の時を越えて、今のあなたの呼吸を支える「母なる優しさの鎖」となっているのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "言葉の裏側に潜む、名もなき光を見つけて。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -8653,7 +8653,7 @@ const WORDS = [
 		"concept": "Without blood (血が足りない、生命力の枯渇)",
 		"thinking": "「血」が「無い」。肉体を巡り、酸素と熱を運ぶはずの「赤い流れ」が途絶えている。それは単なる病状ではなく、何かを成し遂げようとする「情熱」や「野心」をも失い、存在そのものが薄まり、透明になっていくような、静かなる危機を指しています。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "意識の境界線が、静かに溶けていく感覚。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -10978,7 +10978,7 @@ const WORDS = [
 		"concept": "Driving toward (誰かの方へ駆り立てること、心への接近戦)",
 		"thinking": "「相手の方へ」「(意識や声を)駆り立てる」。単なる呼びかけではなく、相手の心の奥底へ向けて自分の願いや魅力を「突き刺し」、振り向かせること。アピールとは、自分という存在が持つ「力」を、他者という未踏の地へと、勇気を持ってデリバリーする行為のことなのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "意識の境界線が、静かに溶けていく感覚。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -11130,7 +11130,7 @@ const WORDS = [
 		"concept": "Hanging upon (そこに吊るし足されたもの、中心から外れた『余白』の付属物)",
 		"thinking": "「(完成した全体に)後から」「吊り下げられた」もの。本編という名の「目的地」を通り過ぎたあとに、語りきれなかった「細かな注釈(影)」を、そっと繋ぎ足しておくこと。付録とは、あなたがその物語を完全に「終わらせることへの拒否」であり、世界の解釈には常に「まだ付け加えられるべき枝葉」がある、という理性の謙虚な余白の告白なのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "思考の残響が、心地よい沈黙へと変わる瞬間。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -11206,7 +11206,7 @@ const WORDS = [
 		"concept": "Striving to (そこへ向かって手を伸ばす。欠落を埋めるための衝動)",
 		"thinking": "「(不足しているもの)へと」「真っ直ぐに手を伸ばす」。理性のフィルターを通る前に、身体がその対象を「欲して」震え始めること。食欲とは、あなたがまだ「自分の一部」になっていない何かを、自分の物語という聖域へと奪取しようとする、生命の最も原始的で誠実な「飢え(欲望)」の現れなのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "思考の残響が、心地よい沈黙へと変わる瞬間。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -13609,7 +13609,7 @@ const WORDS = [
 		"concept": "Standing by (側に立つ者、不在の存在感を支える盾)",
 		"thinking": "「そばに」「立つ」。主役の影に隠れ、しかし決してたたらを踏ませない。必要な時にだけ手が伸び、不要な時は静かに姿を隠す。アシスタントとは、自分が「無」になることで、他者の「有(成功)」を最大限に引き出す、透明で堅固な盾となることです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "意識の境界線が、静かに溶けていく感覚。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -14071,7 +14071,7 @@ const WORDS = [
 		"concept": "Competitor for a prize (賞を求めて戦う者、克己の苦闘)",
 		"thinking": "「賞品」を求めて競う者。しかし真の賞品とは物質ではなく、戦いの中で手に入れる、磨き上げられた「自分自身」なのです。苦しみを伴う修練の果てに、ただ一人でその限界へと立ち向かう者の気高き姿を指します。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "言葉の裏側に潜む、名もなき光を見つけて。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -14300,7 +14300,7 @@ const WORDS = [
 		"concept": "Touching at (そこに触れること、指先が捉えた目的地の温度)",
 		"thinking": "「目的地に」「触れる」。遠くから眺めていた理想や目標に、ようやく自分の指先が触れ、その実体(温度や手触り)を確信できる瞬間のこと。達成とは、距離という名の不確実性をすべて踏破し、世界と自分が「一点」で完全に合流した、という物理的な歓喜の謂いなのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "意識の境界線が、静かに溶けていく感覚。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -14432,7 +14432,7 @@ const WORDS = [
 		"concept": "Stretching toward (意識を向けること。予感に満ちた付き添い)",
 		"thinking": "「向こう側へ」「意識を伸ばす」。相手が何を必要としているか、次の一歩で何が起きるか。その気配を敏感に察知し、先回りして寄り添うこと。付き添いとは、自分という中心を捨て、他者のリズムという一点へ、自らの魂を「引き延ばす」高貴な忍耐です。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "意識の境界線が、静かに溶けていく感覚。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -15320,7 +15320,7 @@ const WORDS = [
 		"concept": "Self-doer (自ら成す者、自己に根ざした真実)",
 		"thinking": "「自分自身」で「行う」こと。誰かの模倣ではなく、自分の権威と責任において、自らの内側から湧き出た意志を形にすること。本物であることは、自分を偽らず、自分の生命の根源に誠実であることでしか達成できません。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "意識の境界線が、静かに溶けていく感覚。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -15449,7 +15449,7 @@ const WORDS = [
 		"concept": "Self-life-writing (自ら綴る生命の記録、自らの物語への署名)",
 		"thinking": "「自分」の「生」を「書く」。他者の評価や歴史家の視線ではなく、他ならぬ自分自身の内側から見た「真実の変遷」を、言葉としてこの世に定着させること。それは、自分の人生を、自分だけの「作品」として完成させるための最後の聖域です。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "言葉の裏側に潜む、名もなき光を見つけて。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -15757,7 +15757,7 @@ const WORDS = [
 		"concept": "Turning away (遠くへ向きを変える。破滅からの緊急旋回)",
 		"thinking": "「(迫り来る凶事から)遠くへ」「向きを変える」。突き進めば衝突する運命にある「線」を、寸前のところで別の宇宙へと「旋回」させて、最悪のシナリオを無効化すること。回避とは、恐怖に竦んで立ち止まるのではなく、自らの手で「運命のハンドル」をあきらめずに回し続ける、生命の土壇場での必死な抵抗なのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "思考の残響が、心地よい沈黙へと変わる瞬間。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -15827,7 +15827,7 @@ const WORDS = [
 		"concept": "Calling as a vow (誓いとして呼ぶこと。自分を呪縛する真実の宣言)",
 		"thinking": "「そこへ」「誓いの声を発する」。密かに思うのではなく、衆人環視の中で、逃げ出せない「公」な事実として、自分の信念や過ちを一点の曇りもなく「声」にすること。公言とは、自分の言葉に自分自身を縛り付け、そこから一歩も退かないという、真実に対する最も峻烈で、最も清々しい「自決」の身振りなのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "言葉の裏側に潜む、名もなき光を見つけて。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -17338,7 +17338,7 @@ const WORDS = [
 		"concept": "Well-done / doing well (善きことが成されること、命を潤す正の循環)",
 		"thinking": "「善きことを」「成す」。誰かの犠牲の上に成り立つ計算上の得ではなく、世界全体に「恵みの雨」を降らせるような、本質的な善の連鎖。恩恵とは、あなたが誰かのために動いた熱量が、時を越えて別の誰かの「生きる力」へと変換され、巡り巡ってあなたの宇宙をも豊かにする、理性の祝福そのものなのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "言葉の裏側に潜む、名もなき光を見つけて。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -17911,7 +17911,7 @@ const WORDS = [
 		"concept": "Two heads (二つの頭、筋肉の分岐する頂点)",
 		"thinking": "「頭」が「二つ」。筋肉の起始部が二つに分かれ、それぞれが骨にしっかりと噛み付いている様子。それは、一つの目的(力を出すこと)のために、二つの「根(頭)」を張り、力を集約させるという、身体の執拗なまでの機能的な美しさを物語っています。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "意識の境界線が、静かに溶けていく感覚。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -18136,7 +18136,7 @@ const WORDS = [
 		"concept": "Two feet (二つの足。空いた両手で世界を『変える』ための、脆弱な自立)",
 		"thinking": "「二つの」「足」。四本足という名の「絶対的な安定」を捨て、ただ二点という名の「心細い支点」の上に自分の全人生を預けること。二足歩行とは、あなたがその不安定を受け入れる代わりに、「自由になった手」を使って世界を捏ね上げ、自らの意志を「高み」へと引き上げることが可能になった、という進化的な「賭け」の姿なのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "思考の残響が、心地よい沈黙へと変わる瞬間。",
 		"example": "Everyday words carry history in their roots.",
 		"deep_dive": {
 			"roots": [],
@@ -20019,7 +20019,7 @@ const WORDS = [
 		"concept": "Head-shaped plant (頭の形をした果実。葉が幾重にも重なった密度の中心)",
 		"thinking": "「(野菜界の)頭」。その姿は、まるで脳の構造を模したかのように、幾重にも重なる「経験(葉)」が、一つの「核」を大切に守り、凝縮されている様子に似ている。キャベツという言葉には、一見無骨に見えても、その内側には計算された「秩序」と、生命を維持するための豊かな「質量」が詰まっている、という自然のユーモラスな「頭脳」の形が隠されています。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "言葉の裏側に潜む、名もなき光を見つけて。",
 		"example": "Everyday words carry history in their roots.",
 		"deep_dive": {
 			"roots": [],
@@ -20726,7 +20726,7 @@ const WORDS = [
 		"concept": "Head covering (頭を覆うもの。一人の『個』を確定させるための輪郭)",
 		"thinking": "「頭」に載せるもの。それは自分の思考を外部のノイズから守る「防壁」であり、同時に自分が何者であるかを示す「標識」でもある。キャップをすることは、あなたが自分の能力の「限界」を定めることでもありますが、それは溢れ出すカオスを一つの「器」に閉じ込め、確固たる「形」として屹立させるための、知的な自制の型でもあるのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "意識の境界線が、静かに溶けていく感覚。",
 		"example": "Everyday words carry history in their roots.",
 		"deep_dive": {
 			"roots": [],
@@ -20805,7 +20805,7 @@ const WORDS = [
 		"concept": "Being able to hold (収容できるという事実。満たされるのを待つ空虚)",
 		"thinking": "「掴み、保持すること」の「度合い」。あなたが今どれほど空っぽで、どれほど巨大な真実を、あるいはどれほど重い沈黙を、自分の内側に「そのままの形で」留めておけるか。容量とは、あなたがこれからの人生で「何者」になり得るかを規定する、内なる透明な建築物の広さを指しているのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "思考の残響が、心地よい沈黙へと変わる瞬間。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -20828,7 +20828,7 @@ const WORDS = [
 		"concept": "The head projection (突き出した頭、大地と海の接点)",
 		"thinking": "「頭、または峰」。大海原に向かって、勇気を持ってグイと突き出された大地の先端。そこは常に強い風に晒され、波の咆哮を正面から受け止める場所。岬とは、不動の大地が、流動する世界と「対話(衝突)」するための、最も誇り高い「顔」そのものなのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "言葉の裏側に潜む、名もなき光を見つけて。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -20852,7 +20852,7 @@ const WORDS = [
 		"concept": "Without a headland (頭としての突き出しがない。平穏な、あるいは無防備な広がり)",
 		"thinking": "「(海へと勇気を持って突き出すべき)頭」を「持たない」。それは、未知の領域への「挑戦」を拒否し、ただ平坦な内陸の「物語」の中に留まっているという、静止の美学。あるいは、自分を守るための「覆い」を脱ぎ捨て、剥き出しの「呼吸」そのもので世界と対峙しようとする、究極の「無防備」の状態。遮るもののなさは、あなたが世界の「全域」と、何の境界線もなく、直接的なコンタクトを望んでいる、という純粋な渇望の谓いなのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "意識の境界線が、静かに溶けていく感覚。",
 		"example": "Everyday words carry history in their roots.",
 		"deep_dive": {
 			"roots": [],
@@ -20875,7 +20875,7 @@ const WORDS = [
 		"concept": "Of the head (頭としての、生命と価値の中心地)",
 		"thinking": "「頭」。全ての指示が発せられ、生命の維持に不可欠な中心。資本とは、単なる「お金の量」ではなく、その経済活動を動かす「頭脳」であり、新しい価値を生み出すための「源泉」そのものを指しています。死刑も、その中心(首)を断つという意味。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "言葉の裏側に潜む、名もなき光を見つけて。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -20996,7 +20996,7 @@ const WORDS = [
 		"concept": "The head (頭である者。全体の意思と責任を担う一点)",
 		"thinking": "「頭」。船やチーム全体の「脳」となって判断を下し、全員の生命と未来に責任を持つ者。キャプテンとは、最も重い王冠を被りながら、誰よりも早く目覚め、誰よりも遅く眠り、そして、沈みゆく船から最後に立ち去る、孤独な意志の勇躍そのものの名です。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "言葉の裏側に潜む、名もなき光を見つけて。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -21020,7 +21020,7 @@ const WORDS = [
 		"concept": "State of being a head (頭としての在り方。責任の重みを冠として戴くこと)",
 		"thinking": "「頭」であるという「職務、あるいは状態」。単に前に立つことではありません。それは集団の「迷い」を自分の呼吸へと取り込み、それを一つの「方向」へと変換し続ける、終わりのない知的な重圧。キャプテンシーとは、あなたが自分の「孤独」を武器に変えて、他者の不安を「希望」へとリード(導く)し続ける、という魂の献身の形の謂いなのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "意識の境界線が、静かに溶けていく感覚。",
 		"example": "Everyday words carry history in their roots.",
 		"deep_dive": {
 			"roots": [],
@@ -21300,7 +21300,7 @@ const WORDS = [
 		"concept": "Small horn (小さな角。不変の重みの最小単位)",
 		"thinking": "「小さな角」。イナゴマメの種子が、どれもほぼ等しい重さ(0.2g)であったことから、宝石の価値を測る究極の基準となりました。カラットとは、自然界が偶然に用意した「不変性」に感謝し、それを人間の欲望を測るための「天秤」とした、謙虚で繊細な知恵の記憶です。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "思考の残響が、心地よい沈黙へと変わる瞬間。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -22373,7 +22373,7 @@ const WORDS = [
 		"concept": "Yielding to the end (譲り停止すること。騒々しさが消えた後の静寂)",
 		"thinking": "「譲り」「停止する」。動こうとする慣性を、自らの意志で、あるいは世界の限界によって、そっと「手放す」こと。それは断絶ではなく、役目を終えた生命力が、静かに元の場所(静止)へ譲歩して戻っていく様子。やめることは、新しい何かが始まるための「空間」を空ける行為でもあります。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "思考の残響が、心地よい沈黙へと変わる瞬間。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -22849,7 +22849,7 @@ const WORDS = [
 		"concept": "Hundred feet (百の足。止まることのない移動という名の、執拗なリズム)",
 		"thinking": "「百の」「足」。それは一歩一歩の決断ではなく、もはや「波」のように連続する物理的な「疾走」そのもの。ムカデという存在は、あなたが「一つの目的地」へ向かうのをやめ、ただひたすら「世界という空間を移動し尽くす」という物理的な盲目な力、そのものを形にしたような不気味で美しい有機的な連鎖なのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "意識の境界線が、静かに溶けていく感覚。",
 		"example": "Everyday words carry history in their roots.",
 		"deep_dive": {
 			"roots": [],
@@ -22873,7 +22873,7 @@ const WORDS = [
 		"concept": "Seeking the center (中心を求めて手を伸ばす。拡散を拒否する引力の意志)",
 		"thinking": "「真ん中、中心へと」「(ひたすら)手を伸ばす、向かう」。バラバラに散らばろうとする自分自身の破片を、一つの「核」へと強引に引き留め、自分のアイデンティティという名の焦点に「釘付け」にすること。向心力とは、個としての形を保つために、あなたが自分自身の「中心」をあきらめずに追求し続ける、孤独で強靭な引力の別名なのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "思考の残響が、心地よい沈黙へと変わる瞬間。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -23213,7 +23213,7 @@ const WORDS = [
 		"concept": "Tarrying after yielding (譲歩して留まること、活動の狭間に生まれる空白)",
 		"thinking": "「しつこく」「留まる」。単なる一瞬の停止ではなく、活動という線がぷつりと途切れ、そこに「何もない時間」が横たわっている状態。休止は、次の行動への「溜め」であり、嵐の前の静けさが持つ、あの研ぎ澄まされた緊張感を含んでいます。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "意識の境界線が、静かに溶けていく感覚。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -23236,7 +23236,7 @@ const WORDS = [
 		"concept": "Yielding the position (座を譲ること。平和のための撤退)",
 		"thinking": "「譲る」こと。力で奪い取るのではなく、法や合意の名のもとに、自らの領土や権利を「手放し」、他者に託す身振り。それは一見すると損失ですが、対立を終わらせ、新しい「安定」を築くための、理性の最高度の「譲歩」であり、知的な撤退なのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "言葉の裏側に潜む、名もなき光を見つけて。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -23275,7 +23275,7 @@ const WORDS = [
 		"concept": "Small head (小さな頭。区切られた智慧の頂点)",
 		"thinking": "「小さな頭」。膨大な物語を、理解可能なサイズに「区切られた断片」。一章一章を読み進めることは、一つの「頭(思考)」を完結させ、次の次元へと登っていくステップです。あなたの人生という本もまた、今日という名の新しい「小さな頭」を書き続けている過程なのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "言葉の裏側に潜む、名もなき光を見つけて。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -23724,7 +23724,7 @@ const WORDS = [
 		"concept": "The head (頭としての料理長、味の宮殿の統率者)",
 		"thinking": "「頭」。単に「作る人」ではなく、厨房という戦場において、数多の食材と火、そして人々の連携を、一皿の「美」へと結晶化させる指揮官。シェフとは、自らの哲学(舌)を信じ、それを完璧に再現するために細部を律し続ける、最もストイックな「思想家」の一側面でもあります。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "言葉の裏側に潜む、名もなき光を見つけて。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -23950,7 +23950,7 @@ const WORDS = [
 		"concept": "The head (頭。最も重要な、あるいは支配的な中心)",
 		"thinking": "「頭」。あらゆる組織や概念において、その本質を決定づける最上位のピース。チーフ(首長)は、命令する者である以上に、全体を「代表」して他者という異物と向き合い、自らの身体(組織)を守り抜くという、生命的なプロテクターとしての役割を持っています。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "思考の残響が、心地よい沈黙へと変わる瞬間。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -24473,7 +24473,7 @@ const WORDS = [
 		"concept": "Bending around (ぐるりと周囲を折り曲げること。対象を『全包囲』するように、意味の翼を巡らせる)",
 		"thinking": "「(対象の頭上を、あるいは周囲を)ぐるり、円を描くように」「折り曲げる」。それは単なる「一本の矢」ではなく、相手という名の「一点」を慈しむように(あるいは閉じ込めるように)、言葉という名の「傘」を差し掛けること。曲折とは、あなたが世界の「平坦」を拒絶し、言葉の中に「山や谷」という名の物理的な「起伏」を創り出した際の、知性の最も「立体的な(3D)」な造形の謂いなのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "言葉の裏側に潜む、名もなき光を見つけて。",
 		"example": "Everyday words are the anchors of our reality.",
 		"deep_dive": {
 			"roots": [],
@@ -24546,7 +24546,7 @@ const WORDS = [
 		"concept": "Standing around (周囲に立ち並んでいること。あなたを取り囲む運命の群像)",
 		"thinking": "「(あなたの)中心を、ぐるりと」「取り囲んで立っている」もの。あなたが自分で選んだわけではなく、いつの間にかあなたの舞台の上に「背景」として配置されていた、出来事や環境の連なり。状況とは、あなたがその中心でどのように「屹立」するかを試すために、世界があなたの周りに並べた、複雑な鏡の迷宮のようなものなのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "意識の境界線が、静かに溶けていく感覚。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -25050,7 +25050,7 @@ const WORDS = [
 		"concept": "Closing the point (一点を閉じること、完結した意味の箱)",
 		"thinking": "「完結」。文や法律の中で、それだけで一つの独立した意味を成し、閉じられた小宇宙。それは思考の海に打ち込まれた「目」のようなもので、そこを起点にして全体へと広がるための、最も確かな、最も閉じられた真実の一片です。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "意識の境界線が、静かに溶けていく感覚。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -25134,7 +25134,7 @@ const WORDS = [
 		"concept": "Of the chosen lot (選ばれし分与、知の継承者)",
 		"thinking": "「くじ・分与」。かつて世俗の財産を捨て、文字という「神の遺産」を分与された聖職者。事務仕事の本質は、単なる計算ではなく、バラバラな記録を整理し、未来へ繋ぐ「知の連鎖」を孤独に守り抜く聖域のような義務でした。読み書きができる、ということがかつては神聖な義務だったのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "思考の残響が、心地よい沈黙へと変わる瞬間。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -25341,7 +25341,7 @@ const WORDS = [
 		"concept": "The enclosure (閉じられた静寂、思索のための囲い込み)",
 		"thinking": "「閉ざされた」場所。外界の喧騒から物理的に隔離され、静かな歩みと内省だけが許された聖域。そこは孤独の檻ではなく、自分の魂を「守り抜く」ための、最も贅沢で、最も厳格な知の揺りかごでした。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "意識の境界線が、静かに溶けていく感覚。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -25364,7 +25364,7 @@ const WORDS = [
 		"concept": "Closing the boundary (境界を閉じる。終わりの美学と隣接の重み)",
 		"thinking": "「閉じる」。それは一つの物語を完成させ、新しい物語への扉を開くための、必須の通過儀礼です。また、距離が「近い」ことも、自分と他者の境界が閉じていくような、あの「親密さ」という名の脆弱性を孕んだ熱を帯びています。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "思考の残響が、心地よい沈黙へと変わる瞬間。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -26240,7 +26240,7 @@ const WORDS = [
 		"concept": "Commander of the pillar (円柱の指揮官、軍勢を支える大黒柱)",
 		"thinking": "「円柱」。軍隊を縦の列として一つの強固な「柱」へと鍛え上げ、そこから全体を指揮すること。コロンネル(大佐)とは、単なる階級ではなく、混乱する戦場において、部下たちが拠り所とすべき、揺るぎなき「心の支柱」となれる者の名です。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "言葉の裏側に潜む、名もなき光を見つけて。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -28010,7 +28010,7 @@ const WORDS = [
 		"concept": "Driving together (一箇所へ追い込むこと、回避不能な衝動)",
 		"thinking": "「共に、完全に」「駆り立てる」。バラバラの逃げ道をすべて塞ぎ、ただ一つの方向へと強制的に背中を「押し出す」こと。強要は、論理や状況の圧倒的な重圧によって、あなたの「否」という声を無力化し、行動へと駆り立てる逆らえぬ風のようなものです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "意識の境界線が、静かに溶けていく感覚。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -28034,7 +28034,7 @@ const WORDS = [
 		"concept": "Weighed together (共に吊るし、重さを計る。贅肉を削ぎ落とした真理の天秤)",
 		"thinking": "「(多くの知識を)一箇所にまとめ」「(その価値を)計り直す」。冗長な物語の中から、本質的な「重み」を持つ欠片だけを選び取り、片手で持てるほどの薄さにまで蒸留すること。要覧とは、情報の海に溺れないように、あなたが苦労して「重い(価値ある)」ものだけを吊るし上げた、知性の天秤の「最終的な目盛り」なのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "言葉の裏側に潜む、名もなき光を見つけて。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -28058,7 +28058,7 @@ const WORDS = [
 		"concept": "Resembling a weighed summary (価値あるものが凝縮された、贅肉なき真理の結晶を思わせるさま)",
 		"thinking": "「共に」「吊り上げられた」情報の「ような」。膨大な無駄がそぎ落とされ、どの一点を突いても、必ずその事象の「中核」に触れることができる、という驚異的な密度の美しさ。要約のような一瞬は、あなたが自分の人生を振り返った時、あまりにも多くの出来事を、たった一つの「美しい思い出(重み)」として掌に収めることができた、というその瞬間にのみ、あなたの魂に訪れます。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "意識の境界線が、静かに溶けていく感覚。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -28238,7 +28238,7 @@ const WORDS = [
 		"concept": "Meeting/Striving together (共に目的地に合致すること。世界の要求への『的中』)",
 		"thinking": "「(世界の要求と)共に、ぴたりと」「目的地を叩く」。的外れではなく、必要とされている座標に向かって、自分の才能という名の矢を正確にデリバリーできること。有能さとは、単なる「速さ」ではなく、あなたの技能が、世界という名のパズルが欠落させている「その一点」に対して、寸分違わずアクセスし、合致できる、という信頼の品質のことなのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "意識の境界線が、静かに溶けていく感覚。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -29622,7 +29622,7 @@ const WORDS = [
 		"concept": "Grasped together (共に掴み取られた状態。複数の要素が、一つの巨大な『意味』という名の檻の中に合流していること)",
 		"thinking": "「(バラバラだった無数の部品が)一つにまとめて、共に」「(一つの秩序という名の主権によって)掴まれ、収容されている」。それは単なる「混ざり合い」ではありません。全体という名の「巨大な引力」が、一つ一つの要素を、あるべき場所へと「磁石」のように固定させ、一つの「不可分な実存」を創り上げている、という物理的な「一員」の謂いなのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "思考の残響が、心地よい沈黙へと変わる瞬間。",
 		"example": "Everyday words are the anchors of our reality.",
 		"deep_dive": {
 			"roots": [],
@@ -29750,7 +29750,7 @@ const WORDS = [
 		"concept": "Completely hollow (完全に空洞であること。エネルギーが内側へと吸い込まれ、世界を『受け入れる』ための沈黙の器)",
 		"thinking": "「(中心部の密度が希薄になり、外部の力を)共に」「(包み込むように)受け入れる、空っぽの」「安定した曲面」。それは「欠落」ではありません。あなたが自らの「傲慢な突起」をあえて引っ込め、世界の「光」や他者の「呼吸」を自分の内なる宇宙へとそっと招き入れるための、慈悲深い「受容の港」。凹面とは、あなたが「一本の矢」であることをやめ、宇宙のすべてを自分の質量で優しく「抱擁」しようとした際の、魂の最も優雅な「後退」という名の「空間(余白)」なのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "言葉の裏側に潜む、名もなき光を見つけて。",
 		"example": "Everyday words are the pulleys of civilization.",
 		"deep_dive": {
 			"roots": [],
@@ -30356,7 +30356,7 @@ const WORDS = [
 		"concept": "Cut completely (完全に、徹底的に切り詰めること。研ぎ澄まされた意味の塊)",
 		"thinking": "「(言いたいことを)完全に」「切り詰める」。一滴の無駄なインクも、一分間の沈黙も許さないほど、情報の枝葉を捨て去り、その中心にある「心臓」だけを差し出すこと。簡潔さとは、単なる「短さ」ではなく、あなたがその言葉に対して、どれほど深い「剪定(断捨離)」の苦悩を捧げたか、という知的な誠実さの謂いなのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "言葉の裏側に潜む、名もなき光を見つけて。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -30380,7 +30380,7 @@ const WORDS = [
 		"concept": "The state of being cut completely (徹底的に切り詰められた状態、贅肉なき真実の輪郭)",
 		"thinking": "「(余計なものを)完全に」「切り取ってしまった」という「結果」。言葉の海の中で drowned するのではなく、肺の中に最小限の、しかし決定的な「空気」だけを残して、不純な沈黙をすべて刃で削ぎ落とした美しさ。簡潔とは、あなたがその思想をどれほど「一点」に濃縮したか、という知的なダイヤモンドへの加工プロセスそのものなのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "意識の境界線が、静かに溶けていく感覚。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -30774,7 +30774,7 @@ const WORDS = [
 		"concept": "Running together (共に走ること。秩序ある偶然の合流)",
 		"thinking": "「共に」「走る」。別々の場所から出発した物語や時間が、ある物理的な「一点」で奇跡的に交差し、同じリズムを奏でること。それは偶然の一致ではなく、世界を貫く大きな潮の流れが、同じ方向にすべてを押し流そうとしている、静かなる「合流」の意志なのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "言葉の裏側に潜む、名もなき光を見つけて。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -30954,7 +30954,7 @@ const WORDS = [
 		"concept": "Leading together (共に導き合うこと。あらゆる条件が一点へと『合流』し、必然という名の扉を開くプロセス)",
 		"thinking": "「(成功や目的という名の目的地へと、複数の要因が)共に」「(調和（コンカレンス)を保ちながら）導き寄せる」「という、しなやかな性質」。それは「強制」ではありません。環境の中にある微かな「パルス」を丁寧に拾い上げ、それらを一つの「ポジティブなベクトル」へと束ね、まだ見ぬ「美しき成果」へと、滑らかに遷移させていく理性の愛撫。貢献するとは、あなたが世界の「カオス」の中に、一つの静かなる「秩序」の種を蒔き、未来を「自分の方から」迎え入れようとする、理知的な仕草のことなのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "意識の境界線が、静かに溶けていく感覚。",
 		"example": "Everyday words are the anchors of our reality.",
 		"deep_dive": {
 			"roots": [],
@@ -32119,7 +32119,7 @@ const WORDS = [
 		"concept": "Stepping together (共に歩み寄ること。バラバラの物語を一つの場所に束ねる、理性の集結)",
 		"thinking": "「(異なる場所から来た、異なる呼吸（スピリット)たちが）一つの点へと、共に」「歩み寄る」。それは単なる「偶然の遭遇」ではなく、お互いの「違い」を認めつつ、一つの「共通の真理」を創り上げるために、自らの足をあるべき場所へと運ぶこと。議会とは、多人数という名の「カオス」を、対義と和解を通じて、一つの「大きな生命」へと昇華させるための、知的な合宿の型なのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "思考の残響が、心地よい沈黙へと変わる瞬間。",
 		"example": "Everyday words are the anchors of our reality.",
 		"deep_dive": {
 			"roots": [],
@@ -32619,7 +32619,7 @@ const WORDS = [
 		"concept": "Of feeling together (共に感じ合っている状態、二つの透明な合意)",
 		"thinking": "「共に」「感じ合っている」ことの「性質」。一方的な「指示」や「服従」ではない。二つの個別の宇宙が、ある一点において「同じ温度、同じ震え」を共有していることをお互いに認め合うこと。合意とは、お互いの物語が衝突を避け、一つの「大きな和音」の中へ溶け込んでいく、奇跡的な平和の状態なのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "言葉の裏側に潜む、名もなき光を見つけて。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -32695,7 +32695,7 @@ const WORDS = [
 		"concept": "Following together (共に付き従ってくるもの、影のように離れぬ結果)",
 		"thinking": "「(あなたの行動の)すぐ後に、共に」「付き従ってくる」もの。あなたが放った矢には、必ずそれに見合った「着弾(結末)」が影のように付きまとう。結果とは、あなたが世界に対して何をしたか、という「返答」が、時間の向こうから忠実に歩み寄ってあなたと再会する瞬間のことなのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "思考の残響が、心地よい沈黙へと変わる瞬間。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -33249,7 +33249,7 @@ const WORDS = [
 		"concept": "Standing together (共に立っていること。バラバラの言葉を一つに束ねる調和)",
 		"thinking": "「(過去の自分も、今の自分の言葉も)すべてが共に、仲良く」「並んで立っている」状態。昨日の言葉と今日の行動が喧嘩せず、一つの美しい「隊列」をなして世界に提示されていること。一貫性とは、あなたの内なる複数の『個』が、一つの共通の「真理」を信じて、共に手を取り合って屹立している、という魂の強固な調和のことなのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "言葉の裏側に潜む、名もなき光を見つけて。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -33427,7 +33427,7 @@ const WORDS = [
 		"concept": "Breathe together (共に息を吐く。密室でのリズムの共有)",
 		"thinking": "「(声を潜めて)共に」「息をする」。同じ空気、同じ秘密を共有し、お互いの呼吸が外へと漏れないように、一つの「密やかな円」を作り上げること。共謀とは、バラバラの孤独たちが、一つの「悪、あるいは野望」という目的のために、自分たちの命のリズムを完全に同期させてしまう、暗闇のシンクロニシティなのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "思考の残響が、心地よい沈黙へと変わる瞬間。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -33451,7 +33451,7 @@ const WORDS = [
 		"concept": "Standing together (共にしっかり立っている。時間の一致による不変)",
 		"thinking": "「(過去、現在、未来が)共に、揺らぐことなく」「そこに立ち続けている」。朝も夜も、順境も逆境も、その「色(色)」や「形(形)」を変えず、一つの「不動の点」として世界に杭を打つこと。不変さとは、あなたが変化という名のカオスに自分を売り渡さず、自らの内なる法則と「共に在り続ける」、という強靭な知性の自律のことなのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "思考の残響が、心地よい沈黙へと変わる瞬間。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -34040,7 +34040,7 @@ const WORDS = [
 		"concept": "Touching together (共に触れ合うこと。二つの宇宙を繋ぐ火花)",
 		"thinking": "「共に」「触れる」。隔離されていた二つの孤独な存在が、お互いの境界線を越えて「肌を合わせる」こと。それは単なる物理現象ではなく、情報の交換、感情の伝播、そして新しい関係性の誕生を告げる、沈黙の中の「最初の火花」なのです。触れた瞬間に、あなたはもう、一人のあなたではなくなります。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "言葉の裏側に潜む、名もなき光を見つけて。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -34064,7 +34064,7 @@ const WORDS = [
 		"concept": "A touching together (共に触れること、見えない境界の消失と侵入)",
 		"thinking": "「共に」「触れる」ことによって引き起こされる連鎖。ある特定の「状態」が、他者の器の中へと溢れ出し、混じり合ってしまうこと。それは恐怖の対象かもしれませんが、本質的には、私たちが「触れ合う」ことでお互いの物語を共有し、拒絶しようのない一つの「大きな生命のうねり」の中にある、という事実の激しい確認でもあるのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "意識の境界線が、静かに溶けていく感覚。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -34549,7 +34549,7 @@ const WORDS = [
 		"concept": "Touching together (共に触れ合っていること、連続する空間の糸)",
 		"thinking": "「お互いに」「触れ合っている」状態。バラバラの個体が、その境界線を接点として共有し、一つの「流れ」や「列」を形成していること。隣接は、孤立を拒否した物質たちの「親密さの総計」であり、世界をバラバラの破片に分解させないための、見えない「表面張力」のような愛の引力なのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "言葉の裏側に潜む、名もなき光を見つけて。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -34573,7 +34573,7 @@ const WORDS = [
 		"concept": "Holding together (共に連なっているもの、巨大なる不変の土台)",
 		"thinking": "「すべてが」「一つに繋がって」離れない巨大な大地。それは断絶した島(個)ではなく、地球という巨大な意志を一手に引き受け、すべてをその背中の上に「乗せて」運んでいる不滅の舞台。自制という本来の意味も、自分の欲望という小爆発を、理性の巨大な大陸の中に「包含」し、決して決壊させない、という強固な自己規律から来ているのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "意識の境界線が、静かに溶けていく感覚。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -34597,7 +34597,7 @@ const WORDS = [
 		"concept": "Touching together (共に触れていること、隣接が生む不確かな連動)",
 		"thinking": "「何かに」「くっついている」。それ自体で完結しておらず、隣にある別の事象に「触れている」からこそ、その運命が決まってしまうような、もろくも切ない「依存」の状態。不測とは、世界が網の目のように触れ合っているからこそ起きる「予測不能なダンス」の一部なのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "言葉の裏側に潜む、名もなき光を見つけて。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -35215,7 +35215,7 @@ const WORDS = [
 		"concept": "Turning against each other (お互いに対立して向き合う。衝突する二つの向き)",
 		"thinking": "「(お互いの主張が)反対の向きから」「激しく向き合っている」状態。一つの正しさをめぐって、二つの異なる「旋回」が激しく火花を散らし、どちらが世界の中心を占めるべきかを競い合っていること。論争は不毛な戦いではなく、お互いの「向き」の本質をさらけ出し、より高い次元での「合意という名の新しい旋回」を創り出すための、知的な格闘なのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "思考の残響が、心地よい沈黙へと変わる瞬間。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -35657,7 +35657,7 @@ const WORDS = [
 		"concept": "Carried together to a point (一点に向かって運び寄せられた。外に向かって誇らしく屹立する、エネルギーの集積体)",
 		"thinking": "「(中心点から外の世界へと、あらゆる力が)共に」「運び出され、盛り上がり、一つの曲面を描いている」「姿」。それは「閉鎖」や「縮小」ではなく、あなたの内なる「生の熱量」が、自らの輪郭を外へと押し広げ、世界に対して「私はここに居る」と、力強く、かつ優雅にマニフェスト(表明)している、という物理的な「存在の膨張」。凸面とは、あなたが世界の「重圧」を自らの「内なる力」で跳ね返し、誇らしげに「外へと」「屹立」した、という生命の最もポジティブな「彫刻」のことなのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "意識の境界線が、静かに溶けていく感覚。",
 		"example": "Everyday words are the pulleys of civilization.",
 		"deep_dive": {
 			"roots": [],
@@ -35733,7 +35733,7 @@ const WORDS = [
 		"concept": "The act of carrying (運ぶという行為、あるいはその具体的な入れ物。自分を越境させるための、信頼という名の船)",
 		"thinking": "「(大切なものを、目的地へと)共に運び、送り届ける」「という一回きりの、あるいは永続的な行為、あるいはそのための具体的な手段」。それは単なる「荷役」ではなく、ある場所から別の場所へと「価値」を移動させるという、理性の神聖な「契約」の遂行。輸送とは、あなたが世界の「距離」という名の壁を、言葉や機械という名の「船」を使って無力化し、自らの「意志」を宇宙という広大なキャンバスのあらゆる点へと「デリバリー(配布)」し終えた、という文明的な「勝利」の谓いなのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "言葉の裏側に潜む、名もなき光を見つけて。",
 		"example": "Everyday words are the pulleys of civilization.",
 		"deep_dive": {
 			"roots": [],
@@ -35968,7 +35968,7 @@ const WORDS = [
 		"concept": "Calling together (共に呼ぶこと、バラバラの孤独を『目的』へと束ねる音)",
 		"thinking": "「全員を」「呼び出す」。各々が自分の物語の中に閉じこもっている時、一つの巨大な「声」を放ち、全員の歩みを一つの焦点、あるいは一つの議論という名のテーブルへと無理やり向かわせること。召集とは、バラバラの『個』を一つの『公』という名の物語に強制的に接続する、秩序の合図なのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "言葉の裏側に潜む、名もなき光を見つけて。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -36325,7 +36325,7 @@ const WORDS = [
 		"concept": "From abundance (豊かさから生み出された数多、複製の力)",
 		"thinking": "「豊かさ」。コピーすることの本来の意味は、唯一の真実を「薄める」ことではなく、一つの貴重な種を「数多(豊か)」に増やし、誰の手にも届くようにすること。知識や物語が、この世界で爆発的に「豊か」になっていくための、最も基本的で強力な「拡散」の身振りなのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "言葉の裏側に潜む、名もなき光を見つけて。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -36377,7 +36377,7 @@ const WORDS = [
 		"concept": "The horn-point (角の先端、空間が折れ曲がる急所)",
 		"thinking": "「角」。空間という布地が、鋭く折れ曲がって一点に「突き出す」場所。隅っこは、自分が他者から背を向け、静かに思考するための「盾(角)」となり、同時に、誰かをそれ以上逃がさぬための「追い詰める牙(角)」にもなる。空間において最もドラマチックな「急所」の名です。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "意識の境界線が、静かに溶けていく感覚。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -36400,7 +36400,7 @@ const WORDS = [
 		"concept": "Little horn (小さな角。高らかに響く螺旋の叫び)",
 		"thinking": "「小さな角」。かつて動物の角を吹き鳴らした、あの原始的な「叫び」の記憶。その形を真鍮という金属で磨き上げ、繊細なピストンという知恵を加えることで、自然の咆哮を、甘美で高貴な「旋律」へと昇華させたもの。形は変わっても、そこには野生への憧憬が響いています。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "意識の境界線が、静かに溶けていく感覚。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -36424,7 +36424,7 @@ const WORDS = [
 		"concept": "Horn of abundance (溢れ出す角、無尽蔵の生命の祝祭)",
 		"thinking": "「豊かさ」が「角」から溢れ出す。ギリシャ神話のヤギの角。それは、折れてもなお豊饒の象徴となり、黄金の林檎や花々を無限に供給し続ける、奇跡の器。豊かさとは、奪い合うものではなく、内なる生命力が飽和し、自然と外へとこぼれ落ちてくる「祝福」の状態を指します。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "言葉の裏側に潜む、名もなき光を見つけて。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -36833,7 +36833,7 @@ const WORDS = [
 		"concept": "Resembling mutual pledging (共に誓い合い、応答し合う関係を思わせる、静かなる魂の共鳴)",
 		"thinking": "「(互いの呼吸（パルス)が重なり合い、一つの音楽へと結晶化していく）文通、あるいは調和」「のような」。自分の「叫び」が一方的に消えるのを待つのではなく、広大な時空という名の「鏡」に反射して、他者という名の「暖かい答え」を連れて自分の元へと還ってくる時の、あの静かなる充足の気配。調和した一瞬。それは、あなたが「この宇宙で独りではない(アイソレートされていない)」ということを、言葉という名の「確かな手触り」を通して再発見した際の、魂の最も清らかな「安らぎ」のことなのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "意識の境界線が、静かに溶けていく感覚。",
 		"example": "Everyday words are the anchors of our reality.",
 		"deep_dive": {
 			"roots": [],
@@ -36857,7 +36857,7 @@ const WORDS = [
 		"concept": "The running place (走るための場所、空間と空間を繋ぐ細き管)",
 		"thinking": "「走るための場所」。部屋という「静止」の世界を繋ぎ合わせるための、「移動」のためだけに存在する純粋な空間。そこには装飾は要らない。ただ、向こう側へ、そしてこちら側へ。生命(呼吸)が途切れることなく循環するための、建築という肉体の「血管」のような場所なのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "思考の残響が、心地よい沈黙へと変わる瞬間。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -37130,7 +37130,7 @@ const WORDS = [
 		"concept": "Reckoning together (共に考え算えること、重要性を測る鎖)",
 		"thinking": "「共に」「考える」。単なる数字の読み上げではなく、何が自分にとって価値があり、どれが優先されるべきかを、一つひとつ「剪定」しながら整理し、意味ある「総計」を導き出すこと。数えることは、混沌とした世界に、あなたの「価値基準」を刻む行為です。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "思考の残響が、心地よい沈黙へと変わる瞬間。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -37309,7 +37309,7 @@ const WORDS = [
 		"concept": "The runner with a message (メッセージを運ぶ走者、生命の最前線)",
 		"thinking": "「走る者」。ただ走るのではない。その背中には、誰かの愛、あるいは宣戦布告、あるいは国家の運命を左右する「言葉の結晶」が背負われている。彼が足を止めることは、情報の死を意味する。クーリエとは、自分の命を、一つの「重みある言葉」へと捧げた、疾走する影の名です。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "言葉の裏側に潜む、名もなき光を見つけて。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -37332,7 +37332,7 @@ const WORDS = [
 		"concept": "A path for running (走るための道筋、宿命づけられた線)",
 		"thinking": "「走った跡」。道なき道ではなく、誰かが走ったことで生まれた、あるいはこれから走るべき「一本の線」。料理のコースも、教育のコースも、それは混乱を排し、あなたをある目的(完成)へと誘うための、最も効率的で美しい「知の軌道」そのものなのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "意識の境界線が、静かに溶けていく感覚。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -37917,7 +37917,7 @@ const WORDS = [
 		"concept": "The point of decision (決断の時、峻別される運命)",
 		"thinking": "「見極め決める」こと。危機とは単なる災難ではなく、それまでの曖昧さが許されなくなり、右か左か、生か死かという「決断」を迫られる分水嶺です。闇の中で、何が本当に重要かを峻別した時、危機は救いへと変わります。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "意識の境界線が、静かに溶けていく感覚。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -38647,7 +38647,7 @@ const WORDS = [
 		"concept": "The thing that flows (流れるもの。価値という名の血液)",
 		"thinking": "「流れている」こと。貨幣の真の価値は、金庫に眠っている時ではなく、他者の手を渡り、市場という巨大な海を「駆け巡っている」時にだけ生まれます。通貨とは、社会という身体を維持するために、価値と信頼を末端まで届ける、目に見えない「流れの力」そのものなのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "思考の残響が、心地よい沈黙へと変わる瞬間。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -38722,7 +38722,7 @@ const WORDS = [
 		"concept": "The course to run (走るべきコース。知という競技場の一周)",
 		"thinking": "「走る道」。かつての戦車競走のトラックの名です。教育とは、ただ知識を詰め込むことではなく、定められた一学期という円環を、脱落せずに最後まで走り抜くことで、自分の精神を「完遂」させるためのコースそのものなのです。あなたの走った跡が、そのままあなたの「学(まなび)」になります。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "言葉の裏側に潜む、名もなき光を見つけて。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -38745,7 +38745,7 @@ const WORDS = [
 		"concept": "The runner (走る者、意思の最先端で瞬く影)",
 		"thinking": "「走る者」。かつて物理的な空間を駆け抜けた使者のように、今、デジタルの海の中で、あなたの「意志」が次にどこへ着地するかを、チカチカと瞬きながら先導してくれる案内人。それは、止まることを許されない「今」この瞬間の座標を指し示す、誠実なランナーの姿そのものです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "意識の境界線が、静かに溶けていく感覚。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -38768,7 +38768,7 @@ const WORDS = [
 		"concept": "Of running (走るように。深入りせぬ軽やかな一瞥)",
 		"thinking": "「走るような」。一箇所に留まって深く潜るのではなく、表面をなでるように、ただ通り過ぎていく。それは「ぞんざい」とも取れますが、膨大な情報の群れの中から、必要な「気配」だけを素早くキャッチし、次の獲物へと走り去る、狩人のような機敏さをも含んでいるのです。一点に留まらない自由の代償。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "言葉の裏側に潜む、名もなき光を見つけて。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -39901,7 +39901,7 @@ const WORDS = [
 		"concept": "To take the head off (頭を切り離す。統率の根源を断絶する冷酷な一撃)",
 		"thinking": "「(身体から)頭を」「切り離す、取り除く」。それは物理的な命の終わりであると同時に、ある組織からその「意志」や「方向性」を奪い取り、ただの動かない「肉の塊(死骸)」に変えてしまうこと。トップを解体することは、あなたがその物語の「最高度の主権」を無効化し、世界を再び「指導者なきカオス」へと突き落とす行為なのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "言葉の裏側に潜む、名もなき光を見つけて。",
 		"example": "Everyday words carry history in their roots.",
 		"deep_dive": {
 			"roots": [],
@@ -39925,7 +39925,7 @@ const WORDS = [
 		"concept": "Going away (遠くへ立ち去ること。生命という舞台からの静かな退場)",
 		"thinking": "「遠くへ」「行く」。死を「終わり」ではなく、単なる「場所の移動(退場)」と捉える優雅な視点。与えられた役割を演じきり、衣装を脱いで、観客の拍手(あるいは静寂)の中を、舞台の袖へと消えていく。その立ち去る姿そのものが、一つの完結した美を物語ります。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "言葉の裏側に潜む、名もなき光を見つけて。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -39949,7 +39949,7 @@ const WORDS = [
 		"concept": "Taking away / trapping (罠に掴むこと。視線を真実から『遠ざける』捕獲)",
 		"thinking": "「相手の目線を」「掴んで逸らす」。相手の判断力を捕らえて、本来の正しい道から「引き離し」、誤った結論という名の檻へと閉じ込めること。欺くとは、単なる嘘ではなく、相手という物語の「操縦桿」を、本人の知らない間にこっそりと奪い取ってしまうという、知的な海賊行為なのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "言葉の裏側に潜む、名もなき光を見つけて。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -40168,7 +40168,7 @@ const WORDS = [
 		"concept": "Nature of cutting off (切り落とす性質を持つ。迷いを一掃する鋭き刃)",
 		"thinking": "「(他の選択肢を)切り落としてしまう」ような「力強さ」。グズグズと考え続けるのではなく、まるでギロチンの刃が落ちるように、一瞬にして世界の「進むべき向き」を確定させ、後戻りを許さないようにすること。決定的な瞬間とは、あなたが迷いという名の霧を、意志という名の刃で「一刀両断」し、真理を白日の下に晒した瞬間のことなのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "思考の残響が、心地よい沈黙へと変わる瞬間。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -40889,7 +40889,7 @@ const WORDS = [
 		"concept": "Undone / falling away (成されるべきことが『離れた』状態、不在という傷)",
 		"thinking": "「あるべき場所から」「作り」が欠けている。完成へ向かうはずのプロセスが、何らかの理由で途切れ、そこに「空虚(穴)」が生まれてしまったこと。欠陥とは単なる「間違い」ではなく、あなたの意志が届かなかった「空白の叫び」であり、その不完全さこそが、次に何を「成すべきか」を教えてくれる指針となるのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "意識の境界線が、静かに溶けていく感覚。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -41214,7 +41214,7 @@ const WORDS = [
 		"concept": "Bending away (向こう側へ折り曲げ、そらすこと。攻撃を無効化する、理性のしなやかな盾)",
 		"thinking": "「(自分へと向かってくる刃や批判の)向きを、別の方向へと」「折り曲げて逃がす」。真っ向から対決して自分の「質量」を傷つけるのをやめ、相手の「勢い」をそのまま円を描くようにして外へと「射出」し直すこと。かわすことは、あなたが世界の「暴力」に対抗する手段として、正面衝突ではなく「幾何学的な旋回」を選んだ、という理性の最も洗練された「防衛的知性」の谓いなのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "言葉の裏側に潜む、名もなき光を見つけて。",
 		"example": "Everyday words are the anchors of our reality.",
 		"deep_dive": {
 			"roots": [],
@@ -41238,7 +41238,7 @@ const WORDS = [
 		"concept": "The state of bending away (本来の道からそれたという事実。カオスの中から生まれる、必然的な『ズレ』)",
 		"thinking": "「(正解とされる一本道から、わずかに、あるいは大きく)外の方へと」「折り曲げられてしまった」「という現象」。それは「失敗」ではありません。あなたが世界という名の「未知の重力」と遭遇し、その影響によって自分の「弾道」が新しく更新された際の、魂の「軌跡」の記録なのです。偏りとは、あなたが「平均」という名の安全な座標を離れ、自分だけの「固有の角度」を手に入れた、という実存的な「偏愛」の謂いなのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "意識の境界線が、静かに溶けていく感覚。",
 		"example": "Everyday words are the anchors of our reality.",
 		"deep_dive": {
 			"roots": [],
@@ -41286,7 +41286,7 @@ const WORDS = [
 		"concept": "Throwing down (下の方へと投げ落とすこと。高潔な希望を、絶望という名の深淵へと滑落させる物理的な打撃)",
 		"thinking": "「(未来という名の天空へ向かって高く掲げようとした（アチーブ)あなたの呼吸を）下の方へと」「(冷酷に、あるいは偶然に)投げ落とし、地面に叩きつける」。それは単なる「悲しみ」ではなく、あなたの存在という名の「重み」そのものが、宇宙の重力に負け、自らの「物語」を継続する力を一時的に失ってしまった、という存在の「沈下」。落胆という響きには、あなたが世界の「沈黙」に対して、もはや言葉を投げ放つ気力を剥奪され、ただ静かな「暗闇」の一部へと回帰せざるを得なくなった、魂の最も深い「静止」の谓いなのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "意識の境界線が、静かに溶けていく感覚。",
 		"example": "Everyday words are the pulleys of civilization.",
 		"deep_dive": {
 			"roots": [],
@@ -41311,7 +41311,7 @@ const WORDS = [
 		"concept": "Sent away with trust (信頼と共に送り出されること、使命の飛脚)",
 		"thinking": "「遠くへ」「送り出す」。単なる伝言係ではなく、送り手の「権威」そのものを背負い、未知の場所で決断を下す重責。デリゲートとは、自分の欲望を横に置き、託された大きな「公共の意志」を遠き地へと運ぶための、言葉の飛脚を指しています。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "思考の残響が、心地よい沈黙へと変わる瞬間。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -42494,7 +42494,7 @@ const WORDS = [
 		"concept": "Hanging down from (そこから吊り下がっていること。自分自身の脚の不在)",
 		"thinking": "「(他者の)すぐそばから」「吊り下がっている」こと。自分自身の「根(起点)」で大地に立つことをやめ、他者の強度や優しさを「支点」として、自分の運命の糸を預けきっている状態。依存とは、あなたが世界という網の目の中で、独りでは「静止(安定)」を保てないほど、誰かの存在という「重力」に自分の『中心』を明け渡してしまった、という悲しくも切実な接続の形なのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "言葉の裏側に潜む、名もなき光を見つけて。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -42905,7 +42905,7 @@ const WORDS = [
 		"concept": "Thinking away / assigning (切り出して託すこと、権限の選別された分与)",
 		"thinking": "「切り離す」こと。自分の持つ膨大な役割の中から、これという一部分を「選別」し、他者へと託す。それは信頼という名のナイフで、自分という存在を美しく「剪定」し、他者がそこで新しい葉を広げられるように、「空間(責任)」を譲る勇気ある身振りです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "意識の境界線が、静かに溶けていく感覚。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -42929,7 +42929,7 @@ const WORDS = [
 		"concept": "Pruned away (切り出された存在、託された使命の権限)",
 		"thinking": "「切り分ける」。本体から特定の権限を切り出し、別の個体へと託すこと。代理とは、本体が不在であっても、その「意思」が途切れることなく機能するように切り分けられた、もう一人の自分、つまり、信頼によって分身した「使命の欠片」そのものです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "意識の境界線が、静かに溶けていく感覚。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -43639,7 +43639,7 @@ const WORDS = [
 		"concept": "Looking down (見下すこと、相手の価値を『下に』置く眼差し)",
 		"thinking": "「下を」「(見下ろすように)視る」。自分を高い場所(あるいは中心)に置き、相手を矮小で、価値のないものとして一瞥すること。軽蔑とは、相手の物語を読み取ることを拒否し、ただの「物体」として視覚から追放してしまおうとする、傲慢な絶交の身振りなのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "言葉の裏側に潜む、名もなき光を見つけて。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -43756,7 +43756,7 @@ const WORDS = [
 		"concept": "Master of the house (家の主人としての振る舞い、絶対的な支配)",
 		"thinking": "「家」の「主人」。家の中では自分の言葉がそのまま法となり、誰にも異論を挟ませない。その家長的な絶対権力を、国家や社会全体にまで拡張しようとする偏執的な身振り。対話の可能性を閉ざし、自らの「椅子(座)」を絶対視する者の末路です。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "思考の残響が、心地よい沈黙へと変わる瞬間。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -43826,7 +43826,7 @@ const WORDS = [
 		"concept": "Thoroughly standing (完全にそこに立っていること。揺るぎなき『到達点』の確定)",
 		"thinking": "「(迷いを捨てて)徹底的に」「自分をそこに立たせる」場所。まだ旅の途中であっても、あなたの心はすでにその場所に「杭」を打っており、そこへ向かうことを運命として確定させている。目的地とは、あなたが自分の足で選んだ「究極の立ち位置」であり、そこで初めて、あなたの彷徨という名の「流動」が「屹立」へと変わるのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "思考の残響が、心地よい沈黙へと変わる瞬間。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -43897,7 +43897,7 @@ const WORDS = [
 		"concept": "To un-pile (積み上げたものを無効化して壊す。形を塵へと戻す暴力)",
 		"thinking": "「(苦労して作り上げた（Struct-)秩序を）一気に崩し、無に帰す」。それは単なる「物の破壊」ではなく、その物が運んでいた「意味」や、その物を創り上げた「誰かの時間」を、世界から物理的に「抹消」し、再び「冷たいカオス」の中へと突き落とすこと。破壊するという響きには、あなたが作り手であることをやめ、一瞬の「衝撃」によって、世界のすべてを「沈黙」という名の虚無へと引きずり込もうとする、暗い主権の行使が刻まれています。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "言葉の裏側に潜む、名もなき光を見つけて。",
 		"example": "Everyday words are the anchors of our reality.",
 		"deep_dive": {
 			"roots": [],
@@ -45496,7 +45496,7 @@ const WORDS = [
 		"concept": "One who dictates (命令を語る者。自分の声を、唯一の『法律』へと暴力的に変換する人)",
 		"thinking": "「(自分のわがままを、命令という形で)何度も語り聞かせる」「者」。他者との「対話」や「合流」を拒絶し、自分という一人の「喉」から放たれる「震え」だけで、世界全体の「色彩」や「法則」を決定しようとすること。独裁者とは、あなたが「一人の共同体のメンバー」であることをやめ、自らの「呼吸」を宇宙そのものの「命令」へと無理やり同化させようとする、理性の最も肥大した孤独な「狂気」の謂いなのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "思考の残響が、心地よい沈黙へと変わる瞬間。",
 		"example": "Everyday words are the windows to history.",
 		"deep_dive": {
 			"roots": [],
@@ -45520,7 +45520,7 @@ const WORDS = [
 		"concept": "The act of telling (語ること、そのもの。思考という名のカオスを、音へと結晶化させる技法)",
 		"thinking": "「語る」という「行為、あるいは品質」。あなたがどんな「言葉」を選び、それをどのような「強さ」や「響き」で世界へと放つか。ディクション(言葉遣い)とは、単なる規則(文法)ではなく、あなたという人間の「内なる美学」が、唯一の「自分という名の楽器」を通して、世界という空間に刻み込もうとしている「生の手触り」、そのもののことなのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "言葉の裏側に潜む、名もなき光を見つけて。",
 		"example": "Everyday words are the windows to history.",
 		"deep_dive": {
 			"roots": [],
@@ -47076,7 +47076,7 @@ const WORDS = [
 		"concept": "Running apart (バラバラに走り回ること。思考の自由な放浪)",
 		"thinking": "思考が「バラバラ」な方向へ「走る」。一直線の答えを目指すのではなく、寄り道をし、あちこちを走り回ることで、世界の複雑な全貌を、多角的に浮かび上がらせようとする知性の躍躍。それは「脱線」ではなく、真理を取り囲むための「包囲網」なのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "言葉の裏側に潜む、名もなき光を見つけて。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -47582,7 +47582,7 @@ const WORDS = [
 		"concept": "Driving apart (バラバラに追い出すこと。暗雲を裂く一陣の風)",
 		"thinking": "「バラバラに」「追い払う」。胸の中に淀んでいた不安や迷い、あるいは立ち込める霧を、強い意志(風)によって四方八方へと散らしてしまうこと。それは破壊ではなく、光を通すための「空間の浄化」であり、不透明な現状をリセットするための知的な身振りです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "意識の境界線が、静かに溶けていく感覚。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -47606,7 +47606,7 @@ const WORDS = [
 		"concept": "Place for weighing out (量り分けるための場所。救いと癒やしが『分量』として確定する空間)",
 		"thinking": "「(癒やしという名の富を)バラバラに量って」「(提供する)場所」。カオス(苦痛や混沌)を一度受け止め、それを理性の天秤で「これだけあれば救われる」という精密な「分量(処方)」へと変容させ、再び個々の人間へと送り戻す変換のゲート。医務室とは、あなたが剥き出しの「傷(重み)」を持って訪れた際、それを世界の「秩序(計量)」へと繋ぎ戻してくれる、最初の安息の足場なのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "言葉の裏側に潜む、名もなき光を見つけて。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -47630,7 +47630,7 @@ const WORDS = [
 		"concept": "Weighing out (量り分けること、宇宙という巨大な富の公平な分配)",
 		"thinking": "「(膨大な全体を)バラバラに」「(それぞれの重さを)量り、分配する」。一度にすべてを飲み込むのではなく、誰に、何が、どれだけ必要なのかを計り、一つ一つの運命の皿に乗せて世界へ配ること。摂理とは、あなたに今日与えられた喜びも悲しみも、宇宙がその天秤で「あなたの重さ」に合わせて丁寧に計量した、特別な贈り物であるということの謂いなのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "意識の境界線が、静かに溶けていく感覚。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -47654,7 +47654,7 @@ const WORDS = [
 		"concept": "Breath away (息を遠ざけること。魂のエンジンからの燃料抜き)",
 		"thinking": "「(胸の中にあった温かい)息」を「奪い去る」。期待や希望という名の酸素を一気に抜き取られ、胸の奥が冷たく、空虚な空っぽの部屋になってしまうこと。落胆とは、あなたの「生」を動かしていた内なる風が止まり、世界という帆を張ることをあきらめてしまった、静止という名の無力感の中にあなたが沈み込んでいく状態なのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "思考の残響が、心地よい沈黙へと変わる瞬間。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -47786,7 +47786,7 @@ const WORDS = [
 		"concept": "Thinking apart (バラバラに考えること、思考の衝突と検証)",
 		"thinking": "思考を「バラバラ」にする。一つの事象に対して、異なる方向からの「計算」をぶつけ合い、どれが真実として生き残るべきかを、激しく「剪定」し合うこと。論争とは攻撃ではなく、お互いの誤謬という枯れ枝を切り落とし、一つの真理という大樹を健やかに育てるための対話。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "言葉の裏側に潜む、名もなき光を見つけて。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -48010,7 +48010,7 @@ const WORDS = [
 		"concept": "Feeling apart (バラバラに感じること。共鳴を拒否する孤高の震え)",
 		"thinking": "「(共有された感情から)バラバラに」「感じる」。周囲が奏でる調和あるメロディに対して、自分の「魂のセンサー」がどうしてもノー(異質な震え)を突き返してしまうこと。異議は破壊ではなく、あなたが自分自身の「感じ方」に対して誠実であり続けようとする、誇り高い自己規律の謂いなのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "言葉の裏側に潜む、名もなき光を見つけて。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -48206,7 +48206,7 @@ const WORDS = [
 		"concept": "Standing apart (バラバラに立っていること、交わらぬ孤独な二点の空白)",
 		"thinking": "「(二つの存在が)バラバラに、離れて」「立っている」。ただの空間的な空白ではなく、お互いの「物語」が安易に混ざり合わず、それぞれの屹立した「固有の領域」を尊重し合っているという、静寂を伴う隔絶。距離とは、あなたが誰かと溶け合うことを拒否し、自らの形を保とうとする際に生まれる、必要不可欠な「尊重」の余白でもあるのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "思考の残響が、心地よい沈黙へと変わる瞬間。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -48230,7 +48230,7 @@ const WORDS = [
 		"concept": "Without standing apart (隔たって立つことの消失、完全なる重なり)",
 		"thinking": "「(二つの物語が)離れて立っている」という「状態を欠いている」。もはや自分と相手の境界線がどこにあるかわからないほど、瞬時に、かつ完璧に情報が伝わり、重なり合ってしまうこと。距離のない親密さは、あなたが他者の「震え」を、鏡を使わずに自分の皮膚感覚として直接受け止めている、という究極の接続の状態なのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "言葉の裏側に潜む、名もなき光を見つけて。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -48760,7 +48760,7 @@ const WORDS = [
 		"concept": "Turning apart (バラバラに向きを変える。一本道の『脱線』による救済)",
 		"thinking": "「一直線の流れから」「横へと向きを変える」。押し寄せすぎて辛い現実から、ほんの少しだけ視線や目的を「そらして」、別の場所へと自分を逃がしてあげること。気晴らしとは、逃避ではなく、一本道の物語が持っている「強制力」から、自分という自由を奪い返し、遊び(余白)という名の「別の旋回」を楽しむ高度な知恵なのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "意識の境界線が、静かに溶けていく感覚。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -48882,7 +48882,7 @@ const WORDS = [
 		"concept": "Turning apart / departure (バラバラに向きを変えて去ること。共有された旋回の終焉)",
 		"thinking": "「(共に歩んでいた一線から)バラバラに」「向きを変える」。二つで一つの円を描いていた共生の旋回が、ある一点でプツンと途切れ、それぞれが全く別の「孤独な軌道」へと旅立っていくこと。離婚とは、単なる決別ではなく、一つの完結した物語という檻を脱し、自分自身の固有の「向き」を再発見するための、痛みを伴う再出発の儀式なのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "言葉の裏側に潜む、名もなき光を見つけて。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -49767,7 +49767,7 @@ const WORDS = [
 		"concept": "The path for leading (導くための道。エネルギーや物質が、迷うことなく目的地へと流れゆくための『意志の通り道』)",
 		"thinking": "「(あるものを、ある場所へと)導く」という「機能」。それは単なる「穴」ではなく、カオスという名の「広がり」の中に、理性の力で一本の「線」を創り出し、生命という名の「流体」を効率的に、かつ確実にトランスポート(輸送)するための構造。ダクト(導管)とは、あなたが宇宙の「無秩序」を拒絶し、そこに自分自身の「目的」という名の動脈を張り巡らせた際の、最も静かで、最も不可欠な、物理的な「接続」の谓いなのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "言葉の裏側に潜む、名もなき光を見つけて。",
 		"example": "Everyday words are the anchors of our reality.",
 		"deep_dive": {
 			"roots": [],
@@ -49791,7 +49791,7 @@ const WORDS = [
 		"concept": "Able to be led (導くことが可能であること。強い圧力で折れるのを拒絶し、細く長く自分の糸(線)を繋ぎ通す柔軟な強さ)",
 		"thinking": "「(どのような方向にでも、自分というマテリアルを)導く」「ことが可能である」。それは「脆弱さ」ではありません。あなたが硬直した「エゴ(不動)」という名の岩盤であることをやめ、世界からの「要求(引力)」に合わせて自分の形をしなやかに変化させながらも、決して自らの「連続性」を失わないという、強靭な「生命の弾力性」。延性とは、あなたがどんな困難という名の「細い穴」をも、一筋の「知性の光」として、折れずに貫き通してみせる、という存在の最も深い「適応」の美学なのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "言葉の裏側に潜む、名もなき光を見つけて。",
 		"example": "Everyday words are the anchors of our reality.",
 		"deep_dive": {
 			"roots": [],
@@ -49860,7 +49860,7 @@ const WORDS = [
 		"concept": "The leader (導く者。荒野を切り裂き、民衆の『視線』を一点に束ねて前進させる、孤独な先頭)",
 		"thinking": "「(最前線で、全員を)導く」「者」。それは単なる権力の座ではありません。あなたが自らの背中に、数え切れない「呼吸」や「運命」という名の重みを背負い、誰もいない未知の地平線に向かって、最初の一歩を刻み続けるという、最も気高く、最も峻烈な「責任」の結晶体。公爵とは、一人の人間が「自分のための生」を捨て去り、集団という名の巨大な「船」の舵取りとなった際の、その魂の標高の谓いなのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "言葉の裏側に潜む、名もなき光を見つけて。",
 		"example": "Everyday words are the anchors of our reality.",
 		"deep_dive": {
 			"roots": [],
@@ -51227,7 +51227,7 @@ const WORDS = [
 		"concept": "Telling out (外へと語り出すこと。内なる決定を、世界の不動の『枠組み』として曝け出す宣戦)",
 		"thinking": "「(密室での決定を)外の世界へと」「(遮るものなく)語り放つ」。ただの「つぶやき」ではない。それは放たれた瞬間、すべての国民、すべての事象に対して「このように在れ」という峻烈な「型」を授け、逃れようのない「物理的な重圧」を創り上げてしまう、言葉による「世界開闢」。勅令とは、一人の「主権」の意志が、文字という翼を得て、広大な大地全域を「支配」し始めた瞬間の、冷酷で美しい「ロゴス」の爆発なのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "思考の残響が、心地よい沈黙へと変わる瞬間。",
 		"example": "Everyday words are the windows to history.",
 		"deep_dive": {
 			"roots": [],
@@ -56725,7 +56725,7 @@ const WORDS = [
 		"concept": "Taking between (手と手の間に掴み取ること。カオスと秩序の『あわい』にある機会を、自らの血肉へと変容させる企て)",
 		"thinking": "「(誰もが見過ごしている、世界の隙間（Inter-)）に手を伸ばし」「(未知の可能性という名の獲物を)自分の意志の掌で、ガッシリと『掴み取った』」「具体的な形」。それは単なる「仕事」ではありません。あなたが「安全な停滞」を拒絶し、宇宙という名の荒野を駆け抜け、自らの「呼吸」を燃料に、世界という名のマテリアルを自分の「利益」へと結晶化させ始めた、という最も野性的な知性の「冒険」そのものなのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "言葉の裏側に潜む、名もなき光を見つけて。",
 		"example": "Everyday words are the anchors of our reality.",
 		"deep_dive": {
 			"roots": [],
@@ -57056,7 +57056,7 @@ const WORDS = [
 		"concept": "Untouched (触れられていないこと。傷なき原初の完璧さ)",
 		"thinking": "「誰にも」「触れられていない」。外部からの干渉や搾取、あるいは時の風化によって一欠片も削り取られていない、原初のままの「清浄」な塊。全体とは、単なる「全部」ではなく、何者にもその本質を侵されていない、穢れなき一つの「完成された物語」のことを指しているのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "意識の境界線が、静かに溶けていく感覚。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -57971,7 +57971,7 @@ const WORDS = [
 		"concept": "Speech upon (語りの上に置く、余韻としての言葉)",
 		"thinking": "「物語の上」に置かれる「言葉」。すべての物語が終わり、幕が降りた後に、静かに添えられる最後の溜息、あるいは祝福。それは、体験したすべての激動を、静かなる「智慧」として自分の心に定着させるための、大切な時間の余韻です。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "思考の残響が、心地よい沈黙へと変わる瞬間。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -58642,7 +58642,7 @@ const WORDS = [
 		"concept": "Equal weight (等しい重み。天秤の針が微動だにしない『完全なる静止』)",
 		"thinking": "「左右の(二つの意志や力の)重みが等しく」「吊り合っている」状態。どちらか一方が支配することなく、お互いの「主張(重さ)」が一点の狂いもなく均衡し、そこに究極の「安定(凪)」が生まれていること。心の均衡とは、あなたの内なる欲望と理性が、お互いの存在を認め合い、天秤を静かに水平に保ち続けている、という稀有で美しい理性の「勝利(または休戦)」の姿なのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "意識の境界線が、静かに溶けていく感覚。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -61040,7 +61040,7 @@ const WORDS = [
 		"concept": "Taking out (外へ連れ出すこと。典型からの慎重な引き抜き)",
 		"thinking": "「外へ」「取り出す」。全体という名の巨大な袋の中から、特定の要素だけを「掴んで」外へ出し、別の場所に置くこと。例外は、一様であるはずの世界を峻別し、ルールの及ばない「聖域」や「特異点」を創り出すことで、世界の複雑な「手触り」を維持するための理性の剪定作業なのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "意識の境界線が、静かに溶けていく感覚。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -61064,7 +61064,7 @@ const WORDS = [
 		"concept": "Going out the limit (余白という名の外側。生命の飽和状態)",
 		"thinking": "「外へ」「行く」。器からこぼれ落ちてしまう液体のように、必要な量を超えて溢れ出してしまったもの。それは時に「無駄」と呼ばれますが、生命のエネルギーが余り、ただ「在ること」の喜びを世界に向かって放射している、贅沢で美しい「祝祭」の状態でもあるのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "意識の境界線が、静かに溶けていく感覚。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -61140,7 +61140,7 @@ const WORDS = [
 		"concept": "To cut out (外へと切り出す。異物、あるいは価値の一部を強引に摘出すること)",
 		"thinking": "「内側にあるものを」「切り取る」。ただの削除ではない。その全体のシステム(身体や文章)を維持するために、必要のない、あるいは有害な部分を、痛み(出血)を伴いながらも「外科的に」排除すること。切除とは、全体という名の調和を守るために、部分(個)に犠牲を強いる、冷徹な理性の「手術」なのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "意識の境界線が、静かに溶けていく感覚。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -62420,7 +62420,7 @@ const WORDS = [
 		"concept": "To free the feet for speed (足を檻から外へ出し、自由にすること。停滞を破壊する速度の創出)",
 		"thinking": "「(絡みついていた複雑な手続き（足枷)の）外へと」「足を突き出し、一気に駆け走らせる」。ただ流れるのを待つのではなく、自らの「意志」によって時間の摩擦を最小限にし、目的地の懐へと自分の「身体」を最短距離でデリバリーすること。促進とは、あなたが「時間の熟成」ではなく「速度の衝撃」によって現実を書き換えようとした際の、理性の峻烈な身振りの謂いなのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "思考の残響が、心地よい沈黙へと変わる瞬間。",
 		"example": "Everyday words carry history in their roots.",
 		"deep_dive": {
 			"roots": [],
@@ -62444,7 +62444,7 @@ const WORDS = [
 		"concept": "Freeing the feet (足を解き放つこと。日常の足枷を脱し、未知の荒野へと駆け出すこと)",
 		"thinking": "「(自分を縛り付けていた檻の)外へと」「足を解き放ち、踏み出す」。それは単なる旅行ではない。あなたが自分を「安全な場所」に繋ぎ止めていた、恐怖や義務という名の「足枷」を自らの力で引きちぎり、自分の「呼吸」だけを信じて未知の地平線に挑むこと。遠征とは、あなたが自分の足で「世界の最先端」に触れるための、魂の迅速で果敢な「出立」の謂いなのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "言葉の裏側に潜む、名もなき光を見つけて。",
 		"example": "Everyday words carry history in their roots.",
 		"deep_dive": {
 			"roots": [],
@@ -62516,7 +62516,7 @@ const WORDS = [
 		"concept": "Weighing out from (内側から量り出す。自らを削り取る、価値の物理的な『放出』)",
 		"thinking": "「(手元にある重みを)外側へと」「量り出す、支払う」。単なる喪失ではない。自分が蓄えてきた時間、才能、資力を、ある「目的」という名の天秤に乗せ、その価値と引き換えに、物理的な「生」へと変換してしまうこと。消費とは、あなたが自らの「質量(重み)」を、世界を変えるための「熱量」へと燃やす、命の物理学的変換行為の謂いなのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "意識の境界線が、静かに溶けていく感覚。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -62540,7 +62540,7 @@ const WORDS = [
 		"concept": "Able to be paid out (量り出し、使い切ることが可能なもの。代替可能な『道具』への落魄)",
 		"thinking": "「(内なる価値を)外へと完全に量り出し」「(消えても構わないと)断じることができる」。それは「代わりがいる」ということ。ある巨大な目的を達成するために、その構成要素としての「自分の重み(命)」を、ためらわずに支払いの『硬貨』として天秤に乗せ、消滅させることを良しとする(あるいは強いる)こと。消耗品という言葉の響きには、存在の絶対性が「目的」という重圧の前に屈してしまった、という悲しい物理的な序列が刻印されています。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "言葉の裏側に潜む、名もなき光を見つけて。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -62564,7 +62564,7 @@ const WORDS = [
 		"concept": "The act of weighing out (量り出すこと。あなたという資産が『世界』へと溶け出す流出の跡)",
 		"thinking": "「(内なる重みを)外へと」「量り出し」たという「確定した事実」。どれほどのお金を使い、どれほどの時間を消費したか。それは単なるマイナスの数字ではなく、あなたがこの世界に対して「どれほどコミット(関与)し、自らの質量を注入したか」という、活動の物理的なフットプリントなのです。支出とは、あなたがその目的のために「失うことを決めた」という、あなたの覚悟の物理的な測定値そのものなのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "思考の残響が、心地よい沈黙へと変わる瞬間。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -63857,7 +63857,7 @@ const WORDS = [
 		"concept": "Standing out (外側に立ち、視えていること。歴史の波に埋もれぬ屹立)",
 		"thinking": "「(過去という名の墓穴の)外へと」「今なお立ち続けている」。同時代の多くのものが塵となり、忘却の底に沈んでいった中で、ただ一つ、その「形」と「重み」を失わず、今の私たちの光の下に自分を露出させ続けていること。現存とは、それが単なる物体ではなく、時を越えて私たちに何かを「呼びかけ」続けている、歴史の奇跡的な生き残りである証なのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "意識の境界線が、静かに溶けていく感覚。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -65193,7 +65193,7 @@ const WORDS = [
 		"concept": "A thing done (成されたこと。不動の『結果』としての世界)",
 		"thinking": "「成された」こと。誰かがその手で作り出し、歴史という名の石版に刻んでしまった「確定した出来事」。事実は、あなたの解釈や願望を一切寄せ付けず、すでに「完成」してそこに存在している。事実を直視することは、世界の剥き出しの「結末(形)」と誠実に対話することなのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "言葉の裏側に潜む、名もなき光を見つけて。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -65286,7 +65286,7 @@ const WORDS = [
 		"concept": "Ease of doing (成すことの容易さ、磨き上げられた生得的な力)",
 		"thinking": "「成すこと」の「容易さ」。努力して四苦八苦するのではなく、そこにあるべき必然的な力として、サラリと世界に影響を及ぼせる「熟練した機能」。学部とは、その特定の「成し方」を極めた者たちが集い、世界を解析するための「専用の回路(知性)」を共有する聖域のことなのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "言葉の裏側に潜む、名もなき光を見つけて。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -65530,7 +65530,7 @@ const WORDS = [
 		"concept": "Bringing to light (光の中へ出すこと、心の中の景色を映し出す盾)",
 		"thinking": "「映し出し、見せる」。現実にないものではなく、心の奥底で蠢いている「目に見えない真実」を、光の下へ引きずり出し、誰もが見える形(像)として提示すること。空想とは、現実という鏡に映らない「魂の輪郭」を可視化するための装置です。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "言葉の裏側に潜む、名もなき光を見つけて。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -65643,7 +65643,7 @@ const WORDS = [
 		"concept": "A making / shaping (形作ること、時代の空気を纏うための身振り)",
 		"thinking": "「作る」ことによって生まれた「形」。単なる衣服ではなく、自分という内面を、社会という舞台に向けてどのような「姿」として「作り(塑造)」、提示するか。ファッションとは、言葉を使わずに自分を世界へ翻訳するための、最も即興的で、最も美的な「形作り」の術なのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "言葉の裏側に潜む、名もなき光を見つけて。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -66060,7 +66060,7 @@ const WORDS = [
 		"concept": "The thing done (成されたこと、一瞬の火花が刻んだ永遠の証)",
 		"thinking": "「成された」こと。単なる作業ではない。困難を打ち破り、それまでの限界を越えて、世界に新しい「事実」を一つ書き足してしまったという勇気ある行いのこと。偉業とは、あなたがその一瞬にすべてを懸け、運命を自分の方へ無理やり引き寄せることで作り上げた、最も輝かしい「生」の彫刻なのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "言葉の裏側に潜む、名もなき光を見つけて。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -67489,7 +67489,7 @@ const WORDS = [
 		"concept": "Bending the time (時間を曲げること。時計という名の冷酷な『檻』を、自らの意志でしなやかに歪める自由)",
 		"thinking": "「(四角四面の社会的な)時間」を「(自分の命のリズムに合わせて)自在に折り曲げる」。それは時間に「支配」されるのをやめ、自らが時間の「作者」として、一日の物語を自分の「呼吸」が最も輝く形へと、しなやかに再構築すること。フレックスタイムとは、あなたが自分の「生」を、単なる「労働という名の機械的な構造」から脱出させ、魂のための「美しい余白」を取り戻した、という自律の謂いなのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "意識の境界線が、静かに溶けていく感覚。",
 		"example": "Everyday words are the anchors of our reality.",
 		"deep_dive": {
 			"roots": [],
@@ -69609,7 +69609,7 @@ const WORDS = [
 		"concept": "Killing a brother (『同根の命』を断つこと、自己の一部への反逆)",
 		"thinking": "「(同じ血を分けた)兄弟」を「殺す」。自分と同じ起源(根)を持つ物語を、その存在の根幹から自分の手で断ち切ってしまうこと。兄弟殺しとは、単なる他者殺しではなく、自分自身の「ミラーイメージ(鏡像)」を破壊することで、自分の孤独を物理的な絶望へと確定させてしまう、魂の引き裂かれた自爆行為の谓いなのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "言葉の裏側に潜む、名もなき光を見つけて。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -71952,7 +71952,7 @@ const WORDS = [
 		"concept": "Bending the knee (膝を折ること。自分という存在の『高さ』を捨て、大地の謙虚さへと屈服する儀式)",
 		"thinking": "「(自分の身体の最強の支柱である)膝を」「(対象の美を讃えるために)折り曲げる」。それは、あなたが自分の「主権」を一時的に預け、世界、あるいは神という名の「巨大な真理」に対して、自分を「一つの断片」として謙虚に提示すること。ひざまずくことは、あなたが「傲慢な屹立」であることをやめ、自らの「呼吸」を世界の「リズム」の中に沈め、最も深い場所での「接続」を求めた際の、魂の峻烈な身振りの謂いなのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "意識の境界線が、静かに溶けていく感覚。",
 		"example": "Everyday words are the anchors of our reality.",
 		"deep_dive": {
 			"roots": [],
@@ -73516,7 +73516,7 @@ const WORDS = [
 		"concept": "The pilot (舵を取る者、時代の荒波を渡る指針)",
 		"thinking": "「舵を取る」。嵐の中でも船(組織)を沈ませず、目的地へと導こうとする強い意志。ガバナーとは、力で押さえつける者ではなく、均衡を保ち、全体の「速度」と「方向」を調整して、調和を守り抜くという、高度なバランス感覚の持ち主の名です。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "思考の残響が、心地よい沈黙へと変わる瞬間。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -73583,7 +73583,7 @@ const WORDS = [
 		"concept": "The state of stepping (一歩一歩(段)をなしているという事実。カオスの中に見出される、滑らかな順序)",
 		"thinking": "「(バラバラだった色が、あるいは経験が)一段ずつの階段」「として整列されている」「事実」。それは「無秩序」を、理性の力で「美しい連なり」へと変換した結果。段階的変化とは、あなたが世界の「断絶」を愛おしみつつ、それらを一つの「不変の愛」という名の線で繋ぎ直した、という知性の最も優雅な「整理」の形式なのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "意識の境界線が、静かに溶けていく感覚。",
 		"example": "Everyday words are the anchors of our reality.",
 		"deep_dive": {
 			"roots": [],
@@ -73742,7 +73742,7 @@ const WORDS = [
 		"concept": "Resembling one who step up (一段上の階層へと昇った者を思わせる、静かなる充足と微かな寂寞)",
 		"thinking": "「(一つの物語を終え、一段高い場所へと昇った)者」の「ような」。もはやその場所の熱狂には染まらず、高い視点から過去を愛おしく、あるいは醒めた瞳で見下ろしている様子。卒業生のような一瞬。それは、あなたが自らの役割を終え、新しい自分へと「更新」される直前の、最も美しく、最も「中立的」な魂の静止の状態なのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "言葉の裏側に潜む、名もなき光を見つけて。",
 		"example": "Everyday words are the anchors of our reality.",
 		"deep_dive": {
 			"roots": [],
@@ -77040,7 +77040,7 @@ const WORDS = [
 		"concept": "The power of blood (血の力、巡り続ける生命の拍動)",
 		"thinking": "「血」という「力」。単なる液体ではなく、心臓というエンジンの拍動を受け、血管という迷路を凄まじいエネルギーで駆け巡る「力」の流れ。それは、静止を拒否し、一瞬も休むことなく新陳代謝を繰り返す、生命のダイナミズムそのものを数値化したものです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "意識の境界線が、静かに溶けていく感覚。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -78124,7 +78124,7 @@ const WORDS = [
 		"concept": "Killing a man (人間を殺すこと。他者という宇宙の物理的な破壊)",
 		"thinking": "「人間」を「殺す」。あなたとは別の歴史、別の呼吸、別の「感じ方」を持っていた一つの固有の宇宙を、物理的な暴力によって強制的に「断絶」させてしまうこと。殺人とは、あなたが世界の「創造者」であることを僭称し、他者の物語という神聖な織物を、冷徹なハサミで切り刻んでしまった、という絶対的な罪の署名なのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "思考の残響が、心地よい沈黙へと変わる瞬間。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -79542,7 +79542,7 @@ const WORDS = [
 		"concept": "Healing through sleep (眠りによる治癒、深層意識の修復)",
 		"thinking": "「眠り」を用いた「癒やし」。意識という番人が眠りについた隙に、深層心理という広大な庭園に忍び込み、そこに植わった心のトゲを一本ずつ抜いていくこと。眠りは死に似ていますが、最も深い場所での「再生」の時間でもあります。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "意識の境界線が、静かに溶けていく感覚。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -80511,7 +80511,7 @@ const WORDS = [
 		"concept": "Own property (自分自身のもの、特定の共同体の秘密の記号)",
 		"thinking": "「自分の」固有の表現。直訳すれば意味をなさない、その言葉を共有する者たちだけが理解できる「秘密の合言葉」。それは共同体のアイデンティティを繋ぎ止めるための、最も親密で、最も誇り高い「私的な言語」なのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "思考の残響が、心地よい沈黙へと変わる瞬間。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -81604,7 +81604,7 @@ const WORDS = [
 		"concept": "Shackling the feet (足の中に、あるいは足の上に何かを絡みつかせること。不自由な足枷)",
 		"thinking": "「(進もうとする)足の」「中に、あるいは上に」「(足枷を)はめ込む」こと。走りたいと思っているあなたの意志に反して、外界の条件、あるいは自分の中の脆さが、あなたの足を「重く、不自由に」させ、その場に「引き留めて」しまうこと。障害とは、単なる「壁」ではなく、あなたが自分という存在の一部として背負わされた「重荷」そのものが、あなたの自由を「内部」から制限している、という皮肉な不自由の謂いなのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "言葉の裏側に潜む、名もなき光を見つけて。",
 		"example": "Everyday words carry history in their roots.",
 		"deep_dive": {
 			"roots": [],
@@ -81628,7 +81628,7 @@ const WORDS = [
 		"concept": "Without shackles on feet (足に絡みつくものの消失、無限の加速を許す空白)",
 		"thinking": "「(歩みを重くする)足枷」が「存在しない」ということ。それは、あなたが過去の未練や、周囲からの重圧を完全に断ち切り、ただ自分の「純粋な呼吸」だけを燃料にして、どこまでも自分の物語を「疾走」させられる、という奇跡的な自由の状態。障害なき(インペディメント・レスな)旅路は、あなたが宇宙という広大なキャンバスを、自らの「意志」という名の筆だけで、汚されることなく一筆書きに描き切った、という勝利の記録なのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "意識の境界線が、静かに溶けていく感覚。",
 		"example": "Everyday words carry history in their roots.",
 		"deep_dive": {
 			"roots": [],
@@ -81652,7 +81652,7 @@ const WORDS = [
 		"concept": "Driving into (内側から押し出すこと、内なるエンジンへの点火)",
 		"thinking": "「内側から」「突き動かす」。外側からの強制ではなく、自分の心という中心から湧き出た衝動が、身体を前方へと強く押し出すこと。予感、あるいは使命感。それらがあなた自身の背中を「ドン」と叩く時、あなたは世界を変えるための一つの力強き矢となります。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "思考の残響が、心地よい沈黙へと変わる瞬間。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -81676,7 +81676,7 @@ const WORDS = [
 		"concept": "Hanging over (頭上に吊るされていること。逃れようのない『重力』の予感)",
 		"thinking": "「(自分の)頭上のすぐそこに」「吊り下げられている」。それは見えない糸で繋がれた重い石のように、いつあなたの物語の「直上」に降り注ぐかわからない、張り詰めた緊張状態。差し迫った未来とは、あなたがその事象に「触れる」より早く、その事象の「重圧」が空気の揺れとして、すでにあなたの首筋を撫でている、という感覚の先行劇なのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "意識の境界線が、静かに溶けていく感覚。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -82486,7 +82486,7 @@ const WORDS = [
 		"concept": "Not able to be (成し遂げ得ないこと、理性が引いた最後の境界)",
 		"thinking": "「できる」ことの「否定」。それは壁ではなく、あなたの既存の知識や経験が「今はここまでだ」と教えてくれている安全装置、あるいは挑戦状です。不可能だと思った瞬間に、思考は停止し、その事象はあなたの宇宙の外側へと追放されます。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "言葉の裏側に潜む、名もなき光を見つけて。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -82510,7 +82510,7 @@ const WORDS = [
 		"concept": "Not able to be taken (掴み取ることが不可能であること。外部からのあらゆる『引力』を拒絶し、孤高の聖域を死守する不滅の城塞)",
 		"thinking": "「(外部のどのような汚れたパワー（インペタス)を持ってしても、その中心を）掴み取る、略奪する」「ことができない」。それは「硬直」ではありません。あなたが自らの「内なる真理」をあまりにも堅固に(ステイブルに)構築したため、世界のどのような「誘惑」や「暴力」も、あなたの呼吸を一ミリも乱すことができない、という魂の「最高度の不干渉状態」。難攻不落とは、あなたが自らを宇宙の「唯一の絶対点」として屹立させた際の、誰にも「接続」させない、高貴な「沈黙」のことなのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "思考の残響が、心地よい沈黙へと変わる瞬間。",
 		"example": "Everyday words are the anchors of our reality.",
 		"deep_dive": {
 			"roots": [],
@@ -82773,7 +82773,7 @@ const WORDS = [
 		"concept": "Full of driving into (内へと突き動かされる。思考を追い越す身体)",
 		"thinking": "「内側から」「強く突かれた」状態。計算という「ブレーキ」が効く前に、身体がすでに「外」へと突き出されてしまっている。それは向こう見ずな危うさであると同時に、打算のない純粋な「今のあなた」が、世界に対して最も正直にコンタクトを取った際のはちきれんばかりの躍動感でもあるのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "意識の境界線が、静かに溶けていく感覚。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -82797,7 +82797,7 @@ const WORDS = [
 		"concept": "Counting into (勘定へ投げ入れる。責任の所在を定める計算)",
 		"thinking": "ある出来事を、特定の誰かの「勘定」の中に「入れる」。それは単なる責任転嫁ではなく、因果関係という名の複雑な糸を解きほぐし、その結果が誰の「意志」から生まれたものかを、論理によって一意に特定し、確定させるという、峻烈な審判の行為です。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "意識の境界線が、静かに溶けていく感覚。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -83020,7 +83020,7 @@ const WORDS = [
 		"concept": "The act of cutting into (中へと切り刻むこと、埋没した『傷』の露出)",
 		"thinking": "「内側へと」「切る」こと。平坦で穏やかな世界(皮膚)に、自らの意志を一本の鋭い「溝(線)」として穿ち、そこから隠されていた内臓(中身)を覗き見ること。切り口とは、あなたがその対象に対して、どれほど深く「介入し、傷を負わせ、真理を求めたか」という、あなたの探究心の戦いの傷跡そのものなのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "思考の残響が、心地よい沈黙へと変わる瞬間。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -83090,7 +83090,7 @@ const WORDS = [
 		"concept": "The cutter into (中へ切り込むもの。物質を『断片』へと変える最初の門)",
 		"thinking": "「内部へと」「切り刻む」ための「主体」。噛み砕く(すりつぶす)のではなく、まずはその塊(世界)を「鋭く裂く」ことで、食道という名の深淵へと迎え入れるための「最初の契機」を作ること。前歯とは、あなたが世界という名の素材を「自分の血肉」に変えるために、最初に加える物理的な「断絶」の象徴なのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "言葉の裏側に潜む、名もなき光を見つけて。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -83683,7 +83683,7 @@ const WORDS = [
 		"concept": "Running into (内側へ走り込むこと。静寂を破る暴力的な侵入)",
 		"thinking": "「内側へ」「走り込む」。相手の領域、安全地帯を無視して、スピードを持って中心部へと突進すること。それは単なる訪問ではなく、境界線を無効化し、自らの存在を「力」として相手の物語に強制加入させる、剥き出しの躍動の一形態です。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "意識の境界線が、静かに溶けていく感覚。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -83907,7 +83907,7 @@ const WORDS = [
 		"concept": "Proclaiming against (誰かに対して高らかに告げること。言葉を刃に変えて、罪を暴き出す攻撃)",
 		"thinking": "「(罪を犯したとされる者の)目の前に」「(お前の罪を)語り、宣告する」。それは単なる「悪口」ではなく、社会という名の「法」に基づき、相手の現在という名の「立場」を「不当なもの」として公的に定義し直す、知的な一撃。起訴とは、あなたが沈黙という名の共犯を拒絶し、言葉という名の「光」を使い、隠された汚濁を世界の裁壇の上に引きずり出した際の、勇気ある「宣告」の謂いなのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "意識の境界線が、静かに溶けていく感覚。",
 		"example": "Everyday words are the windows to history.",
 		"deep_dive": {
 			"roots": [],
@@ -84458,7 +84458,7 @@ const WORDS = [
 		"concept": "Doing into (内側へ作り込むこと、他者の物語への密かな染料)",
 		"thinking": "「(相手の)内部へ」「染め上げる」。本来は布を染料に「浸す」こと。自分の中にある色(情熱、あるいは毒)を、他者の細胞や精神の深奥へと「染み込ませ」、変容させてしまうこと。感染とは、良い意味でも悪い意味でも、隔離されていた個体が、他者の本質と不可逆的に「混じり合ってしまう」瞬間の震えなのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "意識の境界線が、静かに溶けていく感覚。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -84813,7 +84813,7 @@ const WORDS = [
 		"concept": "Not able to be bent (曲げることが不可能であること。風に抗い、自らの『一本の線』を死守する不滅の硬度)",
 		"thinking": "「(周囲のどれほど強い圧力や誘惑があっても、自らを)折り曲げる」「ことができない、許さない」。それは「硬直」ではありません。自らが信じる「唯一の真理」や「自分の矜持」を、世界のカオスに対して一ミリも「譲歩」しない、という峻烈な屹立。頑固さとは、あなたが時の風化に屈することを拒絶し、研ぎ澄まされた「一本の鋼の刃」として、自らの物語を最後まで貫き通す、という魂の絶対的な「純度」のことなのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "言葉の裏側に潜む、名もなき光を見つけて。",
 		"example": "Everyday words are the anchors of our reality.",
 		"deep_dive": {
 			"roots": [],
@@ -86570,7 +86570,7 @@ const WORDS = [
 		"concept": "Writing in/on (中、または上に書き込むこと。消えぬ記憶としての彫刻)",
 		"thinking": "「(硬いものの)上に、あるいは(心の)深くへ」「書き刻む」。表面を撫でるだけで消えてしまう墨ではなく、物質そのものを削り、自分の意志という名の「溝」を永遠に刻み込むこと。銘記とは、あなたがこの世界に対して、あるいはあなたの愛する人に対して、「決して忘れるな」と放った、魂への決定的な署名なのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "思考の残響が、心地よい沈黙へと変わる瞬間。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -86642,7 +86642,7 @@ const WORDS = [
 		"concept": "Unable to feel (感じることができないこと。生命のアンテナの機能停止)",
 		"thinking": "「感じること」「が叶わない」。痛み、喜び、、あるいは変化という名の世界の「息吹」に、自分の心が全く反応せず、ただ沈黙した石のように閉じこもっている状態。無意識とは、あなたが世界という祝祭から一時的にログアウトし、自分という「暗闇」へと回帰してしまった、死の予行演習のような静止状態のことなのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "言葉の裏側に潜む、名もなき光を見つけて。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -87284,7 +87284,7 @@ const WORDS = [
 		"concept": "Standing upon (そこに立っていること、真理を支える具体的な『一点』)",
 		"thinking": "「(抽象的な法則の)真上に」「具体的な形として立っている」もの。言葉だけで語るのをやめ、世界という名の砂漠に一つの「具体的な事実」として存在を杭打つこと。実例とは、あなたの思考という名の幽霊が、物理的な現実へと「受肉」し、誰もが触れられる形として屹立した、勝利の瞬間の証そのものなのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "思考の残響が、心地よい沈黙へと変わる瞬間。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -87577,7 +87577,7 @@ const WORDS = [
 		"concept": "Resembling one who builds into souls (他者の魂を組み立てる者を思わせる、強固な理路と微かな重圧)",
 		"thinking": "「(他者の脳（ブレイン)に知識を）積み上げよう」「者」の「ような」。自信に満ちた「正しさ」という名の杖を突き、相手の「迷い」を自らの「構造」に従わせようとする、有無を言わせぬ「屹立」の様子。指導者らしい一言。それは、あなたが自らの「真理」を疑わず、それを他者という名の「未知のマテリアル」の中へと一方的に「射出」しようとした際の、理性の最も傲慢で、しかし使命感に満ちた色彩の謂いなのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "意識の境界線が、静かに溶けていく感覚。",
 		"example": "Everyday words are the anchors of our reality.",
 		"deep_dive": {
 			"roots": [],
@@ -87810,7 +87810,7 @@ const WORDS = [
 		"concept": "Not touched (触れられていない。外敵から守り抜かれた静止)",
 		"thinking": "「一度も」「触れられたことがない」。激しい嵐や時代の変遷を潜り抜けながらも、その芯にある大切な部分は、誰の指も、誰の視線も届かぬまま、奇跡的に守り抜かれていること。無傷であるとは、外部というノイズに対して、断固として自分を渡し(明け渡し)ていないという、誇り高い「孤立の美」なのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "意識の境界線が、静かに溶けていく感覚。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -87834,7 +87834,7 @@ const WORDS = [
 		"concept": "Not able to be touched (触れることが叶わないもの、光や想いの深淵)",
 		"thinking": "「指先で」「触れようとしても」「届かない、またはすり抜ける」。それは幽霊のようであり、愛のようでもあり、あるいは宇宙の真理のようです。無形であることは欠落ではなく、あなたが物質という檻に囚われず、ただ「感じる」ことだけでその高貴な美しさを享受しなさい、という世界からの優しい呼びかけなのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "言葉の裏側に潜む、名もなき光を見つけて。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -87909,7 +87909,7 @@ const WORDS = [
 		"concept": "The state of wholeness (完全であること。裏表のない無垢な魂の重み)",
 		"thinking": "「誰にも削り取られていない」ことの「度合い」。自分の信念の一部を誰かに売り渡したり、状況によって自分を切り売りしたりせず、どこから視られても一つの「一貫した塊」として存在し続ける強さ。誠実とは、自分という物語を、誰の指先(誘惑や恐怖)にも汚させない、という魂の「防護壁」そのものなのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "意識の境界線が、静かに溶けていく感覚。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -88447,7 +88447,7 @@ const WORDS = [
 		"concept": "Going between (間に割って入ること、衝突する二つを繋ぐ盾)",
 		"thinking": "「間に」「行く」。激しく衝突し、対立し合う二つの物語の裂け目へ、自らを「楔」として打ち込むこと。仲裁とは勇気ではありません。自分が傷つくことを厭わずに、そこに一つの「冷静な空間(間)」を作り出そうとする、利他的な理性の「介入」のことです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "意識の境界線が、静かに溶けていく感覚。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -88634,7 +88634,7 @@ const WORDS = [
 		"concept": "Throwing between ((誰かの話の)間に投げ込むこと。他者の順序あるロゴスを、自らの呼吸で不意打ちに引き裂くこと)",
 		"thinking": "「(他者が丁寧に編み上げている言葉という名の鎖の)その隙間、中間へと」「(自分の咄嗟の思い、あるいは叫びを)不意に投げ入れる」。それは「丁寧な質疑応答」ではない。相手の「リズム」を自分の「一瞬の閃き」によって物理的に中断させ、そこに自分の「実在という名の重み」を無理やり楔として打ち込むこと。差し挟むとは、あなたが「聞き手」であることを一時的に拒絶し、世界の沈黙(あるいは饒舌)を自らの「生」によって強制的に「編集」しようとした際の、瞬発的な知性の「介入」の謂いなのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "意識の境界線が、静かに溶けていく感覚。",
 		"example": "Everyday words are the pulleys of civilization.",
 		"deep_dive": {
 			"roots": [],
@@ -88751,7 +88751,7 @@ const WORDS = [
 		"concept": "Sending in between (間に送り込むこと。連続性を断ち切る隙間)",
 		"thinking": "「間に」「送り放つ」。ずっと続いていた流れの中に、あえて「空虚」を送り込み、一度リセットすること。間欠的な活動は、全力の疾走と、深い休息を交互に繰り返すことで、生命というエンジンを焼き付かせないための、時間に対する最高の「知恵」なのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "思考の残響が、心地よい沈黙へと変わる瞬間。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -89874,7 +89874,7 @@ const WORDS = [
 		"concept": "Being carried against (向かって運ばれる、突撃すること。言葉という名の戦車を走らせ、正しさを粉砕する猛攻)",
 		"thinking": "「(不正や偽善が行われている現場の)中へと」「(怒りという名の重力に身を任せて、自分自身の言葉を)突進させ、運びぶつける」。それは「上品な反論」ではない。あなたの「存在の全質量」を、相手の立てた「偽りの台座」へと真っ向から一気に激突させ、そこに充満している「欺瞞という名の空気」を、真実という名の「衝撃」で粉砕すること。猛烈に抗議するとは、あなたが沈黙という名の「墓場」を自らの叫びで拒絶し、宇宙の「法」を取り戻すために自らを「一筋の光」へと変えきった、という魂の峻烈な「射出」なのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "言葉の裏側に潜む、名もなき光を見つけて。",
 		"example": "Everyday words are the pulleys of civilization.",
 		"deep_dive": {
 			"roots": [],
@@ -90003,7 +90003,7 @@ const WORDS = [
 		"concept": "Turning in/upon (内側へ、あるいは反対へとひっくり返すこと)",
 		"thinking": "「本来の向きを」「ひっくり返す」。上を下に、外を内に。世界の常識や正しい順序を、あえて「真逆」にすることで、隠されていた裏側の真実や、構造の脆弱性を露呈させること。反転とは、あなたが世界の「絶対性」を疑い、自分の手でその風景を自在に「裏返す」ことができる、という自由な主権の行使なのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "意識の境界線が、静かに溶けていく感覚。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -95749,7 +95749,7 @@ const WORDS = [
 		"concept": "The chosen gathering (選ばれし集い、圧倒的な質を持つ多数)",
 		"thinking": "「選び集める」。ただの群衆ではない。ある厳格な基準によって選抜され、一つの目的のもとに統率された「結晶化した力」の塊。 legion とは、個人の弱さが、全体という名の巨大な秩序へと「選び取られる」ことで得られる、神聖で恐るべき圧倒的高密度を指します。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "意識の境界線が、静かに溶けていく感覚。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -98568,7 +98568,7 @@ const WORDS = [
 		"concept": "Telling badly (悪く語ること。言葉に『毒』を乗せ、相手の生を内側から腐らせる呪縛)",
 		"thinking": "「(相手の最も深く、柔らかい場所に対して)悪いこと、醜きことを」「(執拗に、あるいは冷酷に)語る」。それは相手の存在という名の「尊厳」を言葉によって物理的に「汚染」し、相手の立ち位置を「崩壊」へと導こうとする、最も卑小で破壊的な「逆の創造」。呪いとは、あなたが自らの「声」を、他者の魂を貫く「黒い棘」へと研ぎ澄ませ、世界を憎しみという名の「重圧」で満たそうとした際の、理性の最も暗い「咆哮」のことなのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "思考の残響が、心地よい沈黙へと変わる瞬間。",
 		"example": "Everyday words are the windows to history.",
 		"deep_dive": {
 			"roots": [],
@@ -98826,7 +98826,7 @@ const WORDS = [
 		"concept": "Hand-work (手の仕事。複雑な状況を一撃で解決するための、洗練された指先の動き)",
 		"thinking": "「手」による「仕事、あるいは作品」。力任せに押し切るのではなく、状況という名の複雑な結び目を、最小限の「動き」と最高度の「精度」で解き放ち、自らを有利な座標へと導くこと。計略とは、あなたの「知性」が「肉体の動作」へと完璧に翻訳され、世界を自分の「掌の上」で踊らせた際の、最も鮮やかで非情な美の谓いなのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "思考の残響が、心地よい沈黙へと変わる瞬間。",
 		"example": "Everyday words carry history in their roots.",
 		"deep_dive": {
 			"roots": [],
@@ -98902,7 +98902,7 @@ const WORDS = [
 		"concept": "Care of the hands (手の世話。自己表現の最先端を整える愛着の儀式)",
 		"thinking": "「手」への「手入れ、世話」。世界と接する唯一のインターフェースである「指先」に、色を灯し、形を整えること。マニキュアとは、単なる虚栄ではなく、あなたが自分の「行動」を司るその道具(手)を愛し、一瞬一瞬の世界との「握手」を、一つの芸術へと昇華させようとする、自己愛の最も繊細な表明なのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "思考の残響が、心地よい沈黙へと変わる瞬間。",
 		"example": "Everyday words carry history in their roots.",
 		"deep_dive": {
 			"roots": [],
@@ -99030,7 +99030,7 @@ const WORDS = [
 		"concept": "A handful (手いっぱいに満たすこと。対象を掌の中ですべて支配し、変質させる)",
 		"thinking": "「(対象を)掌の中に」「いっぱいに満たす」。それは相手の自由を奪い、自分の手のひらという名の「狭い物語」の中だけで、その存在を「都合の良い形」に書き換えてしまうこと。操るという響きには、あなたが他者を「一人の魂」として扱うのをやめ、ただの「素材、あるいは情報の断片」として、自らの欲望のために消費している、という冷酷な指先の魔法が含まれています。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "言葉の裏側に潜む、名もなき光を見つけて。",
 		"example": "Everyday words carry history in their roots.",
 		"deep_dive": {
 			"roots": [],
@@ -99053,7 +99053,7 @@ const WORDS = [
 		"concept": "Hand-ling (手の扱い。自分という肉体を世界に対してどのように提示するか、という作法)",
 		"thinking": "「(自分自身を、あるいは道具を)どのように手で扱うか」ということ。それは単なる表面的な行儀ではなく、あなたが自分の「内なる呼吸」を、どのように物理的な「しぐさ」へと変換して他者にデリバリーしているか、という、存在の美学的な「型」。マナーとは、あなたが世界という名の広場で、自分の「屹立」をどれほど優雅に、かつ誠実に保とうとしているか、という魂の立ち居振る舞いのことなのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "意識の境界線が、静かに溶けていく感覚。",
 		"example": "Everyday words carry history in their roots.",
 		"deep_dive": {
 			"roots": [],
@@ -99179,7 +99179,7 @@ const WORDS = [
 		"concept": "Sending from the hand (掌から放つこと。支配という名の握力を緩め、他者を解き放つ自由)",
 		"thinking": "「(自分に従わせていた)手から」「(外の世界へと)送り出す」。握りしめていた「所有の欲望」を自らの意志で解除し、一人の人間を、自分という物語の「一部」から、自立した一つの「宇宙」へと「変換」してあげること。解放とは、あなたが「支配」という名の偽りのパワーを捨て、他者の「可能性」という名の風を信じることに決めた、理性の最も気高い「譲歩」の形なのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "思考の残響が、心地よい沈黙へと変わる瞬間。",
 		"example": "Everyday words carry history in their roots.",
 		"deep_dive": {
 			"roots": [],
@@ -99203,7 +99203,7 @@ const WORDS = [
 		"concept": "Without a hand (手を持たないこと。肉体的な介在を介さない、純粋な『意志』の伝播)",
 		"thinking": "「(世界を直接掴むための)手」を「持たない」ということ。それは、あなたが物理的な暴力や労働で現実を変えようとするのをやめ、ただ一言の「言葉」や「祈り」によって、世界の深層心理という名のネットワークに直接アクセスしようとする、高度に精神的な挑戦。手なき影響力は、あなたが肉体という「器」の限界を脱し、純粋な「震え」として宇宙という空間に遍在し始めた、という透明な実在の谓いなのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "言葉の裏側に潜む、名もなき光を見つけて。",
 		"example": "Everyday words carry history in their roots.",
 		"deep_dive": {
 			"roots": [],
@@ -99227,7 +99227,7 @@ const WORDS = [
 		"concept": "Written by hand (手によって書かれた。指先の震えが刻まれた唯一無二の生)",
 		"thinking": "「自らの手」で「書かれた」。印刷という冷たい複製機を通さず、一文字ごとに作者の呼吸、迷い、情熱が直接乗り移っている、剥き出しの精神の化身。原稿とは、あなたがその一瞬に、その場所で、確かにその「重み」を指先に感じながら生きていた、という最も親密で代替不可能な「生命のコピー」なのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "言葉の裏側に潜む、名もなき光を見つけて。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -99391,7 +99391,7 @@ const WORDS = [
 		"concept": "Horse-servant (馬の従者。機動力とともに上昇した権威)",
 		"thinking": "「馬」の「従者」。もとは王の馬小屋を管理する低位の職でしたが、馬という機動力が国家の命運を分ける時代、その管理者はいつしか全軍を統率する「元帥」へと登り詰めました。始まりを忘れず、現場という「土」と「獣」に寄り添い続けた者だけが、最高の栄誉を掴むのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "言葉の裏側に潜む、名もなき光を見つけて。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -101355,7 +101355,7 @@ const WORDS = [
 		"concept": "Watcher of the small (微細なものを視る者、極小の宇宙への侵入)",
 		"thinking": "「小さきもの」を「視る」。目には見えない一滴の水の中に、無数の生命が蠢いている。当たり前だと思っていた世界の「足元」に、もうひとつの広大な宇宙が広がっていることを発見する知性。細部への執着は、真理への最短距離です。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "言葉の裏側に潜む、名もなき光を見つけて。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -101703,7 +101703,7 @@ const WORDS = [
 		"concept": "The lesser one (より小さき者、低きに降りての奉仕)",
 		"thinking": "「より小さい」。上に立つ「マグニステル(大きい者)」に対し、自らを「より小さき者」と定義して、全体に仕えること。大臣も牧師も、本来は頂点に君臨する者ではなく、最も低い場所に降りて、人々の重荷を背負い、その足を洗う奉仕者の称号でした。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "思考の残響が、心地よい沈黙へと変わる瞬間。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -101810,7 +101810,7 @@ const WORDS = [
 		"concept": "Bad head (悪い結果、期待外れの幕切れ)",
 		"thinking": "「頭(結果＝Chef)」が「悪い」。計画が予期せぬ方向へねじ曲がり、滑稽な、あるいは迷惑な「結末」を迎えること。いたずらとは、世界の厳格な秩序に対して、ほんの少しの「悪い頭(逆転の発想)」を差し込むことで、均衡を崩そうとする、生命の未熟で奔放な反逆なのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "思考の残響が、心地よい沈黙へと変わる瞬間。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -101997,7 +101997,7 @@ const WORDS = [
 		"concept": "That which is sent/thrown (送られる、または投げられるもの。回収不能な一撃)",
 		"thinking": "「送られるべき」運命を背負わされた物質。一度手を離れれば、自らの質量と速度によって目的の場所へと突き進む、単機能の「死の使者」。しかし、もとは単なる「投げられた石」でした。自らの手を離れた言葉も、時に誰かの心を貫く「ミサイル」になり得るということを、私たちは忘れてはなりません。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "言葉の裏側に潜む、名もなき光を見つけて。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -102020,7 +102020,7 @@ const WORDS = [
 		"concept": "The act of sending (送ること、送られる側が背負う『一点』の理由)",
 		"thinking": "「送り出すこと」。目的地も、やるべきことも、すべてはあなたを「送り出した者(あるいは天命)」によって定められている。使命とは、自分の欲望のために動くのではなく、ある「大いなる意志」の代弁者(飛脚)として、この世界を駆け抜けることの誇りと重圧のことなのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "言葉の裏側に潜む、名もなき光を見つけて。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -102043,7 +102043,7 @@ const WORDS = [
 		"concept": "That which is sent (送られたもの。想いを封じ込めた沈黙の使者)",
 		"thinking": "「送られた」もの。口頭の言葉が空気を震わせて消えていくのに対し、手紙は、自らの想いを文字という名の「重み」に変え、時空を越えて確実に相手の元へ届くように仕組まれた「沈黙の爆弾」です。封を切った瞬間に、かつてのあなたの情熱が、相手の心の中で今の声として蘇ります。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "言葉の裏側に潜む、名もなき光を見つけて。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -103313,7 +103313,7 @@ const WORDS = [
 		"concept": "Seat of the Muses (ミューズの居所、美と知心の神殿)",
 		"thinking": "美と学問を司る女神「ミューズ」の聖域。そこは単なる展示場ではなく、人類がこれまでに手にした最高度の「感動」と「知恵」を保存し、再び魂にインスピレーションを吹き込むための対話の場でした。時を越えた魂との邂逅の場所です。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "意識の境界線が、静かに溶けていく感覚。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -104509,7 +104509,7 @@ const WORDS = [
 		"concept": "That which does not yield (決して譲らぬもの、抗いがたき運命の楔)",
 		"thinking": "「譲る」ことが「ない」。理屈や個人の願望ではどうにも動かせない、世界の剥き出しの「不変性」のこと。必要とは、自由な選択の贅沢を捨て、その一点を守り抜かなければすべてが崩壊するという、生命の「崖っぷちの真実」の別名なのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "意識の境界線が、静かに溶けていく感覚。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -105556,7 +105556,7 @@ const WORDS = [
 		"concept": "Not written down (書き留めることができない、理性の網をすり抜ける何者か)",
 		"thinking": "「(その正体を)書き下ろす」「ことができない」。平凡すぎて、あるいはあまりに奇妙すぎて、既存の言葉のどのフォルダーにも収まらない、名付けようのない「曖昧な影」。特徴がないとは、あなたの理性が「それを理解した」と署名することを拒否した、世界の「空虚(または底知れぬ深淵)」の別名なのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "思考の残響が、心地よい沈黙へと変わる瞬間。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -105580,7 +105580,7 @@ const WORDS = [
 		"concept": "No feeling/judgment (感じられないこと、理性が『空振り』する欠落)",
 		"thinking": "「感覚」が「無い」。そこには形(言葉)があるのに、あなたの魂がその「重み(意味)」を一切感じ取ることができず、ただ虚空を掴むようなもどかしさが残る状態。ナンセンスとは、世界から「論理」という名の魂が抜けてしまい、ただの骸骨(音)がカチャカチャと音を立てて踊っているような、滑稽で不毛な一瞬のことなのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "思考の残響が、心地よい沈黙へと変わる瞬間。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -105604,7 +105604,7 @@ const WORDS = [
 		"concept": "Not feeling / sensing (感覚が通っていないこと、理性の『呼吸』の停止)",
 		"thinking": "「感覚」が「通っていない」。文字は並んでいる。声は聞こえる。しかし、あなたの「心という肌」が、そこに何の温度も、何の重みも、何の脈動も感じ取ることができない状態。無意味とは、言葉という名の「死骸」がただそこに並んでいるだけで、生命という名の「意味」が宿ることを拒否した、凍りついた思考の不毛地帯なのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "思考の残響が、心地よい沈黙へと変わる瞬間。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -107109,7 +107109,7 @@ const WORDS = [
 		"concept": "Following toward too much (相手の方へと過剰に付き従う。主体性を欠いた影)",
 		"thinking": "「相手の顔色の方へと」「(自分を捨ててまで)付き従う 」。相手の機嫌という名の不安定な光に、自分の影(意志)を無理やり「適合」させ、自らをただの『部品』へと落としめてしまうこと。卑屈とは、あなたが自分の物語の主人であることを放棄し、他者の余白としての「生」を甘受してしまっている、悲しい「服従」の姿なのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "言葉の裏側に潜む、名もなき光を見つけて。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -107580,7 +107580,7 @@ const WORDS = [
 		"concept": "Building against (向かい合って積み上げること。行く手を塞ぐための、意図的な『壁』の構築)",
 		"thinking": "「(あなたの歩みの)目の前に、対抗するように」「(瓦礫や論理を)積み上げる」「という状態」。それは偶然の不運ではなく、あなたをその場に「静止」させ、あなたの物語の「進行」を拒絶しようとする、世界あるいは他者の峻烈な「意志」の現出。妨害とは、あなたがその目的地に行きたいという「願い」がどれほど本物であるかを、その堅固な「不透明さ」によってテストしている、運命の不敵な「挑戦状」なのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "思考の残響が、心地よい沈黙へと変わる瞬間。",
 		"example": "Everyday words are the anchors of our reality.",
 		"deep_dive": {
 			"roots": [],
@@ -108012,7 +108012,7 @@ const WORDS = [
 		"concept": "Running against (前に走り寄ってくること、不意の遭遇)",
 		"thinking": "「目の前へ」「走り寄る」。何かが向こうから、挨拶もなしに自分の方へと走ってきて、真正面からぶつかること。出来事とは、静止した日常を突き破る「動的な衝突」であり、世界があなたに対して、否応なしにコンタクトを取ってきた証なのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "言葉の裏側に潜む、名もなき光を見つけて。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -109648,7 +109648,7 @@ const WORDS = [
 		"concept": "Toward the port (港に向かう風。迷える自分を、安らぎと成功の『岸辺』へと運んでくれる慈悲)",
 		"thinking": "「(嵐の真っ只中で、救いという名の)港に」「(自分を乗せた船を)真っ直ぐに運んでくれるような、前方への向き」。あなたが自分の力で必死に漕ぐのをやめたとき、宇宙がふと、「ここだよ」と正しい方向へ向かう「風」を吹かせてくれる、その奇跡的なタイミング。好都合とは、あなたの「意志」と世界の「リズム」が、一点の狂いもなく噛み合い、あなたがただ「流れ」に身を任せるだけで正しい目的地へと屹立できる、という最も幸福な時間の贈り物のことなのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "意識の境界線が、静かに溶けていく感覚。",
 		"example": "Everyday words are the windows to history.",
 		"deep_dive": {
 			"roots": [],
@@ -112228,7 +112228,7 @@ const WORDS = [
 		"concept": "Facilitating needs (欲望を量り売りすること、他者の脆さに『値』をつける冷笑)",
 		"thinking": "他者の「欲望」がどれほどの「重さ」を持っているかを計り、それを利己的な目的のために、最も都合の良い形として、配分してあげること。迎合とは、あなたが相手を「対等な一人の人間(魂)」として見るのをやめ、ただの「市場(物)」としてその重みや弱みを計算し、餌付けをするという、最も卑小な形の「繋がり」の谓いなのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "意識の境界線が、静かに溶けていく感覚。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -114379,7 +114379,7 @@ const WORDS = [
 		"concept": "Of the foot (足に関するもの。地面を蹴る力の入力を司るインターフェース)",
 		"thinking": "「足」で踏むもの。手の繊細な操作とは対照的に、自分の肉体の中にある最も大きな「重み」と「推進力」を、機械という名の「補助輪」へと叩き込むための起点。ペダルを踏むことは、あなたが立ち止まっている状態を自らの意志で破壊し、自分という名の「弾丸」を世界という名の時空へと「射出」する、最初の力強い「一蹴」の謂いなのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "思考の残響が、心地よい沈黙へと変わる瞬間。",
 		"example": "Everyday words carry history in their roots.",
 		"deep_dive": {
 			"roots": [],
@@ -114449,7 +114449,7 @@ const WORDS = [
 		"concept": "Foot standing place (足が立つ場所。価値ある存在を『高く』掲げるための不動の土台)",
 		"thinking": "「足」が「屹立する」「場所」。美しい彫像が地にまみれぬように、その価値を天空へと引き上げるための理性の「嵩上げ」。台座の上に誰かを置くことは、あなたがその対象を「日常のノイズ(歩行者)」から峻別し、一つの「不滅の美」として自分の心の中に杭打つ、という最上級の「敬意」の表明なのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "思考の残響が、心地よい沈黙へと変わる瞬間。",
 		"example": "Everyday words carry history in their roots.",
 		"deep_dive": {
 			"roots": [],
@@ -114472,7 +114472,7 @@ const WORDS = [
 		"concept": "On foot (足で行く者。翼なき大地の住人の、着実な、しかし単調な歩み)",
 		"thinking": "「(馬や車を使わず、自らの)足」「で歩く者、あるいは性質」。それは、一歩一歩の地面の感触を大切にする誠実な歩みであると同時に、空を飛ぶ鳥や疾走する戦車と比べれば、あまりにも「着実すぎて、驚きのない」状態をも意味する。歩行者という響きには、あなたが非凡な「飛躍」をあきらめ、世界の「平凡なリズム」の中に自分を溶け込ませている、という静かな停滞への自嘲が混じっています。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "言葉の裏側に潜む、名もなき光を見つけて。",
 		"example": "Everyday words carry history in their roots.",
 		"deep_dive": {
 			"roots": [],
@@ -114545,7 +114545,7 @@ const WORDS = [
 		"concept": "The base / foot for the roof (屋根の足もと。建物の『顔』を定義する威厳ある骨格)",
 		"thinking": "「(建築という名の巨大な身体の)足、あるいは基部」。それが屋根の下に置かれるとき、それは単なる支えではなく、その建物がどのような「物語」を背負っているかを示す、最も雄弁な「額郭」となる。破風とは、あなたが自分の「思考の家」を建てたとき、その最も目立つ場所に「何を自分のルーツ(足もと)として掲げるか」という、美意識の最終的な署名なのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "思考の残響が、心地よい沈黙へと変わる瞬間。",
 		"example": "Everyday words carry history in their roots.",
 		"deep_dive": {
 			"roots": [],
@@ -114941,7 +114941,7 @@ const WORDS = [
 		"concept": "Characterized by hanging (吊り下がっている、という性質。重力への優雅な委ね)",
 		"thinking": "「(空中に)吊り下がっている」という「性質」。自分の足で地面を蹴ることをやめ、ある一点からの「繋がり」だけを信じて、自分の全質量を重力という名の「透明な腕」に丸ごと預けている状態。垂れ下がる姿は、一見すると無防備ですが、それは世界という巨大な「秩序」の流れに、一点の抵抗もなく自分を沿わせている、という究極の「信頼」の形でもあるのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "言葉の裏側に潜む、名もなき光を見つけて。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -114964,7 +114964,7 @@ const WORDS = [
 		"concept": "A payment (支払うこと、過去の重みが『今の支え』へと変換された硬貨)",
 		"thinking": "「(かつて働いた、あるいは預けた)重みを」「(時間をかけて)支払い戻すこと」。若い頃にあなたが世界という名の天秤に「積み上げた(掛金)」努力が、時を越えて、今度はあなたが「支えられる」ための物理的な重み(お金)として、一定の律動を持って手元へと「帰還」してくること。年金とは、過去のあなたの「呼吸」が、未来のあなたを温めるための「焚き木」へと結晶化した、時間の慈悲深い貯蔵庫なのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "言葉の裏側に潜む、名もなき光を見つけて。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -116273,7 +116273,7 @@ const WORDS = [
 		"concept": "Hanging through (真っ直ぐに吊るし通す。重力という絶対の『真理』への従順)",
 		"thinking": "「(空間を)貫いて」「(重力に従って)吊り下げる」。迷いも曲がりもなく、地球の中心へと向かう「絶対的な一線(鉛直)」。垂直さとは、人間の恣意的な「横の広がり(解釈)」を断ち切り、世界の根本的な「物理法則(重力)」に自分という存在を真っ直ぐに「預けきった」際の、最も凛とした、かつ最も従順な立ち姿のことなのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "言葉の裏側に潜む、名もなき光を見つけて。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -116321,7 +116321,7 @@ const WORDS = [
 		"concept": "Seeking through thoroughly (徹底的にそれを追い求め、通り抜ける。途切れぬ線)",
 		"thinking": "「(時間の壁を)通り抜けて」「(その状態を)目的地として追い続ける」。一瞬の閃光で終わらせず、世代や時代の壁を貫いて、その「輝き」が未来の誰かの手に触れるまで、情報のバトンを絶やさないこと。永続とは、あなたの放った物語が、消滅という名の重力に抗って、時間の地平線をどこまでも疾走し続ける勇気のことなのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "言葉の裏側に潜む、名もなき光を見つけて。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -116571,7 +116571,7 @@ const WORDS = [
 		"concept": "Looking through (透かし視ること。闇を貫き、不変の『中心核』を射止める瞳)",
 		"thinking": "「(混乱や嘘という名の分厚い壁を)完全に貫いて」「(その奥にある本質を)視る」という「卓越した能力」。表面の「貌」に目を奪われず、その事象を司っている「中心的な重力」を一気に射抜くこと。洞察とは、あなたが「情報の量」に溺れるのをやめ、世界という名のパズルの中から、たった一つの「解」という名の鍵を、一瞬で見つけ出した際の、知性の冷たい輝きのことなのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "言葉の裏側に潜む、名もなき光を見つけて。",
 		"example": "Everyday words are the windows to history.",
 		"deep_dive": {
 			"roots": [],
@@ -116846,7 +116846,7 @@ const WORDS = [
 		"concept": "Turning away (あらぬ方向へ、徹底的に向きをそらすこと)",
 		"thinking": "「正しい道から完全に」「(あらぬ方向へ)向きを変える」。本来の目的や神聖なものを、自分の歪んだ欲望や目的のために無理やり「ねじ曲げて」しまうこと。歪曲とは、対象の美しさをそのまま視ることを拒否し、自分の「闇」の中へと強制的に旋回させてしまう、知的な暴力、あるいは魂の迷走の別名なのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "言葉の裏側に潜む、名もなき光を見つけて。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -116917,7 +116917,7 @@ const WORDS = [
 		"concept": "Killing pests (『害』という名の生命の、科学的な排除)",
 		"thinking": "「(自分にとっての)害虫」を「殺す」ための「術」。自分の「庭」の生産性や安全を確保するために、そこに迷い込んできた別の「生」を、霧という名の沈黙(毒)で一気呵成に断ち切ること。殺虫剤とは、人間が自らの物語を円滑に進めるために、世界を「都合の良いもの」と「不要なもの」に峻別し、後者を排除しようとする理性の傲慢な剪定器なのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "意識の境界線が、静かに溶けていく感覚。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -118005,7 +118005,7 @@ const WORDS = [
 		"concept": "Foot soldier (歩兵。最前線を自らの足で歩き、土を掘り、道を拓く者)",
 		"thinking": "「自らの(汚れた)足で」「最前線を歩む者」。豪華な馬に乗ることなく、誰も踏みしめていない茨の道を一歩ずつ押し固め、後に続く者たちのための「一本道」を残していく孤独な作業。先駆者とは、あなたが言葉による「予言」をやめ、自らの肉体の「重み」によって、この不毛な荒野に「現実」という名の足跡を刻み込み始めた、という最も泥臭く、最も尊い創造の谓いなのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "言葉の裏側に潜む、名もなき光を見つけて。",
 		"example": "Everyday words carry history in their roots.",
 		"deep_dive": {
 			"roots": [],
@@ -119702,7 +119702,7 @@ const WORDS = [
 		"concept": "Stretching out before (前方に差し出されたもの。未来という名の地平線から、今へとしなる『影の触手』)",
 		"thinking": "「(未来という真っ暗な森から)こちらへと」「(警告や期待という名の腕を)差し出す、伸ばす」。それはまだ言葉にはなっていない。しかし、あなたの皮膚は、その不気味で美しい「驚き」を予感し、あなたの呼吸を一時的に静止させる。予兆とは、世界があなたに対して「これから起きるべき物語」の予告編を、物理的な「震え」として一足先にデリバリーしてきた、という運命の不敵な「挨拶」なのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "言葉の裏側に潜む、名もなき光を見つけて。",
 		"example": "Everyday words are the windows to history.",
 		"deep_dive": {
 			"roots": [],
@@ -119782,7 +119782,7 @@ const WORDS = [
 		"concept": "A shared part (運ばれてきた分け前。全体の中から自分だけに授けられた、一回きりの『重み』)",
 		"thinking": "「(宇宙という巨大な富から、一人の皿の上へと)運ばれてきた」「分け前、断片」。それはあなたの権利であると同時に、あなただけに与えられた「宿命」でもある。他者の持っている「分け前」を羨むのをやめ、自分の皿の上にデリバリーされたその「一欠片の生」を、どれほど深く咀嚼し、どれほど美しく「屹立」させるか。部分とは、あなたが巨大な全体の一部であることを思い出すための、神聖な「配給」の謂いなのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "言葉の裏側に潜む、名もなき光を見つけて。",
 		"example": "Everyday words are the windows to history.",
 		"deep_dive": {
 			"roots": [],
@@ -119864,7 +119864,7 @@ const WORDS = [
 		"concept": "The harbor city (港の街。あらゆる物語が海へと運ばれ、世界へと拡散していく『出発の定点』)",
 		"thinking": "「(未知への扉である)港」の「土地」。そこは大地の終わりであり、同時に宇宙へと開かれた「最初の一歩」の場所。ポルトガルとは、単なる「国名」ではなく、あなたが自分の「閉じた安寧」を捨て、自分の質量を未知の波へと預けて、世界という名の「大きな海」の中へと、自分を「運び出す」という、人類の越境の意志が刻まれた、地図上の「聖なるゲート(門)」の谓いなのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "思考の残響が、心地よい沈黙へと変わる瞬間。",
 		"example": "Everyday words are the windows to history.",
 		"deep_dive": {
 			"roots": [],
@@ -120201,7 +120201,7 @@ const WORDS = [
 		"concept": "Written after (後に書かれたもの。完結した物語への最後の溜息)",
 		"thinking": "「すべてを書き終えた後」に「付け加えられた言葉」。本編では語り尽くせなかった、あるいは本編が終わって初めて気づいた、本当の「核心」。追伸とは、形式的な物語が閉じられた後の、最も無防備で、最もプライベートな「魂の余白」が漏れ出た瞬間のこと。そこにこそ、真実の愛が隠されています。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "言葉の裏側に潜む、名もなき光を見つけて。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -120270,7 +120270,7 @@ const WORDS = [
 		"concept": "Having power (力を持っていること、現実に影響を及ぼす濃度)",
 		"thinking": "「できる」状態にあること。単なる可能性ではなく、今まさに他者を動かし、事態を変容させ得る「高密度な力」を帯びていること。言葉、薬、あるいは眼差し。それらがポテントである時、そこには宇宙の法則の一部が、あなたの意志として結晶化しています。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "意識の境界線が、静かに溶けていく感覚。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -120781,7 +120781,7 @@ const WORDS = [
 		"concept": "Taken beforehand (事前に掴まれたもの。迷いのない行動の定規)",
 		"thinking": "「事に及ぶより先に」「掴んでおくべきこと」。戦いや困難が起きる前に、あらかじめ「これだけは守れ」と言い渡された、不動の行動原理。教訓とは、混乱の中で視界が霞んだ時、手探りでも掴めるようにあらかじめ用意された、あなたの精神の「命綱」そのものなのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "言葉の裏側に潜む、名もなき光を見つけて。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -120805,7 +120805,7 @@ const WORDS = [
 		"concept": "Headfirst (頭から突き出すこと、前傾した生命の限界点)",
 		"thinking": "「頭」が「前」に行き過ぎること。バランスを失い、前方へと転落しそうになるその「瀬戸際」。崖っぷちとは、恐怖の場所であると同時に、自分がどれほど前傾姿勢で、どれほど真剣に世界へと突き進んできたかを、最も鮮烈に教えてくれる覚醒の場所でもあります。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "意識の境界線が、静かに溶けていく感覚。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -120829,7 +120829,7 @@ const WORDS = [
 		"concept": "Fallen headfirst (頭から突き落とす。臨界点を超えた一気の落下/現出)",
 		"thinking": "「(思考が追いつく)よりも前に」「頭から」「(現象の海へと)突き落とす」。それは、ある反応を我慢できなくなり、溜まっていたエネルギーが物理的な「形(雨、あるいは沈殿)」となって一気に現出すること。早めることは、あなたが「時間の熟成」という名の猶予を切り捨て、自らの意志を「必然」という名の重力に丸ごと預けてしまう、という峻烈な加速の行為なのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "思考の残響が、心地よい沈黙へと変わる瞬間。",
 		"example": "Everyday words carry history in their roots.",
 		"deep_dive": {
 			"roots": [],
@@ -120853,7 +120853,7 @@ const WORDS = [
 		"concept": "Cut before (事前に切り取ること。余計なものを削ぎ落とした鋭利な一致)",
 		"thinking": "「(それが何であるかを決める)前に」「(余計なものをすべて)切り落とす」。曖昧な「だいたい」という余白を一切許さず、真実の一点だけを残して、周囲のすべてを冷徹な刃で断ち切ること。正確さとは、あなたの理性が世界をどれほど「鋭く」理解しているか、という、思考の刃渡りの長さを指しているのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "言葉の裏側に潜む、名もなき光を見つけて。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -120933,7 +120933,7 @@ const WORDS = [
 		"concept": "Shutting before (事前に閉ざすこと、先回りの封鎖)",
 		"thinking": "事が起きるより「前」に、その道を「閉ざす」。単なる拒絶ではなく、ある可能性が芽生えることさえ許さない、徹底した先制攻撃的な防御です。空白を埋める前に、そこへのアクセスという権利を剥奪する、冷徹で合理的な決断の名です。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "思考の残響が、心地よい沈黙へと変わる瞬間。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -121475,7 +121475,7 @@ const WORDS = [
 		"concept": "Capable of grasping (掴むことが可能であること。自らの肉体の一部を、世界を制御するための能動的な『手』へと変容させる機能)",
 		"thinking": "「(目の前にあるカオス（無秩序)な物を）逃さずに掴み取る」「能力がある」。それは単なる「触覚」ではありません。あなたが外部の「抵抗」を自らの指先で「掌握」し、この物理的な現実を、自分の「意志」という名の方向に無理やり「曲げる(フレキシブルに扱う)」ことができる、という理知的な「道具性」。把握力とは、あなたが世界の「当事者」であることを証明するために、自らの肉体に「物理的な主権」を宿らさせた際の、その器用で峻烈な「握力」のことなのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "言葉の裏側に潜む、名もなき光を見つけて。",
 		"example": "Everyday words are the anchors of our reality.",
 		"deep_dive": {
 			"roots": [],
@@ -121821,7 +121821,7 @@ const WORDS = [
 		"concept": "Thinking thoroughly before (事前に徹底的に量られた。暗闇での冷静な重量計算)",
 		"thinking": "「(その行動を起こす)前に」「(その結果の重みを)計り終えて」いること。一瞬の感情に流されるのではなく、冷酷なまでに「その先にある結末」を天秤にかけ、納得した上で引き金を引くこと。故意という響きには、あなたが衝動の犠牲者ではなく、自らの「闇の計画」を完全に支配し、遂行した「主人」である、という冷淡な主権の誇示が込められています。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "思考の残響が、心地よい沈黙へと変わる瞬間。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -122135,7 +122135,7 @@ const WORDS = [
 		"concept": "Feeling beforehand (起こる前に感じること。理性に先んじる『肌』の予知)",
 		"thinking": "「事が起きるより先に」「感じる」。論理が原因を突き止めるより早く、あなたの皮膚の薄い膜が、未来の「気配(震え)」をかすかにキャッチしてしまうこと。予感とは、時間があなたの肉体を通り抜ける際、その『摩擦(摩擦熱)』が心の奥底に落としていった、言葉にならない警告の静かな火花なのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "意識の境界線が、静かに溶けていく感覚。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -123116,7 +123116,7 @@ const WORDS = [
 		"concept": "The place of seizing (掴み取られた場所。主権という名の『握力』が、あなたという一人の人間の自由を、物理的な『壁』の中に凍結させる場所)",
 		"thinking": "「(社会という名の法（ロゴス)が、自らを汚す牙を持つ者を）鷲掴みにした」「という確定した状態、あるいはそのための建物」。そこは単なる「建物」ではなく、あなたが宇宙という名の「無限の運動」から切り離され、一箇所という名の「静止」へと強制的に杭打たされてしまった、という主権の最も峻烈な「没収」の谓いなのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "意識の境界線が、静かに溶けていく感覚。",
 		"example": "Everyday words are the anchors of our reality.",
 		"deep_dive": {
 			"roots": [],
@@ -123206,7 +123206,7 @@ const WORDS = [
 		"concept": "Something seized (掴み取ったもの。戦いという名の嵐を抜けて、自分の掌の中に唯一残った『勝利という名の質量』)",
 		"thinking": "「(戦場という名のカオスの中から、命を賭けて)自らの手で掴み取った」「もの」。それは「棚ぼた」ではありません。他者という名の「抵抗」を自らのパワーでなぎ倒し、自分の「真理」を証明した結果として得られた、最高度の「価値」の謂い。賞とは、あなたが世界に対して「私はここまで手を伸ばし、これを手に入れた」と誇らしげに掲げる、一点の「輝く成果」のことなのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "思考の残響が、心地よい沈黙へと変わる瞬間。",
 		"example": "Everyday words are the anchors of our reality.",
 		"deep_dive": {
 			"roots": [],
@@ -124859,7 +124859,7 @@ const WORDS = [
 		"concept": "Speech before (語りの前に置く、予感の言葉)",
 		"thinking": "「物語の前」にある「言葉」。これから始まる未知の体験に向けて、観客、あるいは自分自身の心を「開く」ための儀式。それは単なる説明ではなく、これから起きるすべてを予感させ、期待という名の灯火を心に灯すための、最初の震えです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "思考の残響が、心地よい沈黙へと変わる瞬間。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -125705,7 +125705,7 @@ const WORDS = [
 		"concept": "Seeking forward (前へ向かって歩み寄る。神の好意の『前のめり』な傾斜)",
 		"thinking": "「(あなたの方へと)前向きに」「歩み寄って」きてくれる、という「性質」。運命があなたを拒絶して背を向けるのではなく、慈悲という名の重力によって、解決の道があなたの方へと「前のめりに(求めて)」倒れ込んでくるような感覚。幸運とは、あなたが世界を求めているとき、世界もまた、あなたを救うために「一歩踏み出して」くれている、という奇跡的な相愛状態のことなのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "言葉の裏側に潜む、名もなき光を見つけて。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -125945,7 +125945,7 @@ const WORDS = [
 		"concept": "Force for forward driving (前へ進むための根源的な力)",
 		"thinking": "「前へ」「突き出す」ための物理。目的地に到達しようとする「想い」が、現実の空間を歪め、質量を移動させるための「力」へと変換された姿。推進力を持つということは、もはや環境の犠牲者ではなく、自らが望む場所へと世界を再定義する側(主体)になったということです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "言葉の裏側に潜む、名もなき光を見つけて。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -126673,7 +126673,7 @@ const WORDS = [
 		"concept": "Drawing forth (前方へズルズルと引きずる。終わりを拒む時間の伸べ)",
 		"thinking": "「(物語の幕を)前へと」「引き延ばす」。すぐに終わるはずの出来事を、未練や打算、あるいは理性の迷いによって、決定を先延ばしにし、時間を細長くズルズルと引きずり続けること。遅延は、新しい何かが始まることへの恐怖、あるいは、今の「猶予」という名の安寧を、無理やり未来へと持ち越そうとする、魂の非効率な祈りなのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "思考の残響が、心地よい沈黙へと変わる瞬間。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -127431,7 +127431,7 @@ const WORDS = [
 		"concept": "Repeated beating (繰り返される打撃。生命のしつこき輝き)",
 		"thinking": "「何度も」「突き動かす」。一回きりの衝動ではなく、執拗に、律動的に、自分の存在を世界に叩きつけ続けること。脈打つことは、あなたが今この瞬間も「生きよう」という強烈な意思を、細胞レベルで放棄していないという、生命の力強い宣言なのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "言葉の裏側に潜む、名もなき光を見つけて。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -127454,7 +127454,7 @@ const WORDS = [
 		"concept": "The beat (突き動かすこと、生命という名の断続的な衝撃)",
 		"thinking": "「突き動かすこと」。生命とは、滑らかな線ではなく、心臓というエンジンの「一打一打」の爆発によって運ばれている。パルスとは、一瞬の沈黙と、一瞬の爆発的な「生」の交替。そのリズムこそが、宇宙があなたに与えた、世界で最も正確な「存在の証明」です。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "思考の残響が、心地よい沈黙へと変わる瞬間。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -127478,7 +127478,7 @@ const WORDS = [
 		"concept": "The rhythmic strike of being (存在の律動的な一打、時間の原子としての響き)",
 		"thinking": "「(心臓が血液を)押し出す」際の「一打」。あなたが意識しようとしまいと、宇宙はあなたを「生きさせよう」として、一定のリズムであなたの人生という名の太鼓を叩き続けている。パルス・ビートとは、あなたが世界の「沈黙」を拒絶し、自分の「存在という名の音楽」を世界という空間に刻み込み続けている、生命の最も誠実で執拗な「自己主張」そのものなのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "言葉の裏側に潜む、名もなき光を見つけて。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -127502,7 +127502,7 @@ const WORDS = [
 		"concept": "Count of beats (生命の一打の計測、時間の価値を測る定規)",
 		"thinking": "「打撃」を「数える」。生命がどれほどのスピードで、今という「瞬間」を消費し、未来へと自らを突き出し続けているか。その数値は、あなたという存在が発している「熱さ」そのものであり、宇宙時間の流れを、自分だけの固有の「生のリズム」として切り取った、最も個人的な定規なのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "言葉の裏側に潜む、名もなき光を見つけて。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -127525,7 +127525,7 @@ const WORDS = [
 		"concept": "The drive (駆り立て。理由なき生命の突き出し)",
 		"thinking": "「突き動かすこと」。理性が言語化する前に、内臓の奥深くから湧き上がってくる、純粋な「動きたい」という物理的なエネルギー。それは生命が、重力という静止の呪縛から逃れ、次の瞬間の「自分」へと変容するために必要とする、最も原始的な燃料補給の瞬間です。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "言葉の裏側に潜む、名もなき光を見つけて。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -127868,7 +127868,7 @@ const WORDS = [
 		"concept": "Carrying forth (前方へ運び出すこと。言葉の表面が、その内側に『何を運んでいるか』という真意)",
 		"thinking": "「(語られた言葉が、自分の身体の)前方へと」「運び出そうとしている、重み」。それは直接的な定義ではなく、その響きや文脈の中に隠されている、話し手の「真の目的」や「意図」。主旨とは、あなたが情報の枝葉を捨て去り、その言葉が最終的に「どこを目的地として、何を物理的に変えようとしているか」という、言葉の持っている「弾道」そのものの谓いなのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "言葉の裏側に潜む、名もなき光を見つけて。",
 		"example": "Everyday words are the windows to history.",
 		"deep_dive": {
 			"roots": [],
@@ -128117,7 +128117,7 @@ const WORDS = [
 		"concept": "Four feet (四つの足。大地と完璧に合致した、盤石なる停滞と疾走)",
 		"thinking": "「四つの」「足」。それは「考える手」を捨て、自らの肉体を世界の「重力」という名の地図に、四つの鋲で安定して打ち付けることによって得られる、本能という名の「迷いなき加速」。四肢動物とは、あなたが自分という「固有の宇宙」を完成させるために、世界という名の「マテリアル」と、最も低い場所で、最も誠実に接し、溶け合っている状態の謂いなのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "意識の境界線が、静かに溶けていく感覚。",
 		"example": "Everyday words carry history in their roots.",
 		"deep_dive": {
 			"roots": [],
@@ -130747,7 +130747,7 @@ const WORDS = [
 		"concept": "Back to the heads again (再び主要な頭へと戻る。迷宮の中での要旨の再確認)",
 		"thinking": "「(煩雑な議論（枝葉)を通り越して）もう一度」「主要な見出し、頭へと」「立ち戻る」。詳細に溺れ、全体像を見失いそうになったとき、私たちは再び「何が一番重要であったか」を確認し、物語の「骨格」を再構築する。要約とは、あなたが情報の海を整理し、自分の中に「不変の真理」という名の見出しを打ち直す、知性のための「地図」なのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "意識の境界線が、静かに溶けていく感覚。",
 		"example": "Everyday words carry history in their roots.",
 		"deep_dive": {
 			"roots": [],
@@ -130771,7 +130771,7 @@ const WORDS = [
 		"concept": "Going back (後ろへ行くこと、静かなる潮引きと消滅)",
 		"thinking": "「後ろへ」「行く」。かつてあんなに近くに見えていた風景や、豊かさを誇っていたものが、抗いがたい時間の引き潮のように、自分から静かに離れていく。それは喪失ではなく、新しい舞台を用意するための、古い役者の「名残惜しい退場」の調べなのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "意識の境界線が、静かに溶けていく感覚。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -131588,7 +131588,7 @@ const WORDS = [
 		"concept": "Running back (後ろへ走り戻ること。自己へと回帰する無限の輪)",
 		"thinking": "「後ろへ、再び」「走る」。ある答えを導き出すために、再び「自分自身の出発点」へと走り戻り、それを繰り返すこと。それは足踏みではなく、螺旋階段を登るように、自分を深掘りし続ける、内省的で数学的な「悟り」へのアプローチなのです。自分の中に、自分を見つけ続ける旅。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "意識の境界線が、静かに溶けていく感覚。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -132143,7 +132143,7 @@ const WORDS = [
 		"concept": "Without bending back (後ろへと視線を戻さないこと。光という現実にただ飲み込まれ、沈黙するという暴力)",
 		"thinking": "「(自分を振り返る、あるいは光を跳ね返す)反射」が「存在しない」。それは、入ってきた「刺激」に対して、「なぜ」と問い直すのをやめ、ただ全ての「外部の物語」を無批判に吸い込んでしまうこと。反射なき一瞬。それは、あなたが自分の「主権」を一時的に喪失し、世界という名の巨大な「影」の一部として、ただそこに「物」として立ち尽くしている、という悲しい空白の謂いなのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "意識の境界線が、静かに溶けていく感覚。",
 		"example": "Everyday words are the anchors of our reality.",
 		"deep_dive": {
 			"roots": [],
@@ -132191,7 +132191,7 @@ const WORDS = [
 		"concept": "Back-bending (後ろへと折り曲げられ、即座に戻ること。思考をバイパスする、身体の野性的な『返球』)",
 		"thinking": "「(刺激が加わった、その瞬間に)再び、後ろへと」「(自動的に、猛スピードで)折り返す」。それはあなたの「理性」が考えるよりも早く、あなたの「肉体」が宇宙の要求に対して、本能という名の「一撃」で応えてしまうこと。反射とは、あなたが長年の「経験」によって鍛え上げ、一瞬で「最適解」へと身体を導くことができる、いわば肉体に受肉した「高速のロゴス(論理)」そのものなのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "意識の境界線が、静かに溶けていく感覚。",
 		"example": "Everyday words are the anchors of our reality.",
 		"deep_dive": {
 			"roots": [],
@@ -132628,7 +132628,7 @@ const WORDS = [
 		"concept": "Stepping back (後ろへと一歩を戻すこと。本来あるべき高度からの落下、あるいは慎重な帰還)",
 		"thinking": "「(今居る高台から)後ろ、あるいは過去の方へと」「歩みを戻す」。それは獲得した価値を「失う」という悲しみであると同時に、自分がどこで間違えたかを確認するために、自らの「足跡」を静かに辿り直す、知的な再訪でもあります。後退とは、あなたが「進むこと」に盲目になるのをやめ、自分の「原点」という名の重力を再確認するための、理性の慎重な「逆旋回」の謂いなのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "言葉の裏側に潜む、名もなき光を見つけて。",
 		"example": "Everyday words are the anchors of our reality.",
 		"deep_dive": {
 			"roots": [],
@@ -133977,7 +133977,7 @@ const WORDS = [
 		"concept": "Sending back (後ろへ送り返す。元に戻すことによる救済)",
 		"thinking": "「元の場所へ」「送り戻す」。膨らんだ借金を元のゼロに戻し(免除)、あるいは遠き地にいる大切な誰かへ価値を戻す(送金)。リミット(免除)とは、時間の経過によって生じた「歪み」や「負債」を、慈悲という名の船に乗せて、本来あるべき「清浄な起点」へと還してあげることなのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "思考の残響が、心地よい沈黙へと変わる瞬間。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -134298,7 +134298,7 @@ const WORDS = [
 		"concept": "Calling back (呼び戻すこと。放たれた矢の回収)",
 		"thinking": "「後ろへ」「呼び戻す」。一度は社会に放たれ、法として機能(疾走)していた言葉を、その役割を終えさせ、再び自分の手元へと「引き戻す」こと。撤回とは、自分の間違い(あるいは時代の変化)を認め、言葉という名の「放たれた矢」を、責任を持って回収しようとする誠実な後退です。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "意識の境界線が、静かに溶けていく感覚。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -134374,7 +134374,7 @@ const WORDS = [
 		"concept": "Driving back (後ろへ押し返すこと、不進入の断固たる意思)",
 		"thinking": "「後ろへ」「突き返す」。自分の領域(聖域)を侵そうとする者に対して、毅然としてその手を「押し戻す」こと。それは単なる拒否ではなく、自分が何者であり、何を許さないかを示す「境界線」の再確認です。撥ねつけた瞬間に生まれる、凛とした磁界のような緊張感。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "思考の残響が、心地よい沈黙へと変わる瞬間。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -134588,7 +134588,7 @@ const WORDS = [
 		"concept": "Grasping back (後ろの方へ掴み連れ戻す。踏み外そうとする相手の襟首を掴み、正しい道へと引き戻す厳格な介入)",
 		"thinking": "「(傲慢（インシスト)や間違いに走ろうとする相手を）後ろの方へと」「(問答無用で)掴み戻す」。それは「悪口」ではない。「お前はそこで立ち止まれ」と、相手の「暴走」を自らの「より高い法」の名において拘束し、その存在という名の「重み」を正しい軌道へと補正しようとする、理性の最も厳しい「抱擁」の謂いなのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "意識の境界線が、静かに溶けていく感覚。",
 		"example": "Everyday words are the anchors of our reality.",
 		"deep_dive": {
 			"roots": [],
@@ -134612,7 +134612,7 @@ const WORDS = [
 		"concept": "Seizing back (掴み返すこと。奪われた自分の質量を、相手の掌から強引に略奪し直す、物理的な怒りの正義)",
 		"thinking": "「(奪われたものを)再び、後ろの方から」「(相手の隙を突いて)掴み、取り返す」「という行為」。それは単なる「お返し」ではない。自分の「主権」が傷つけられたことに対する、存在という名の「重圧」の均衡を取り戻すための、冷徹で計算された「逆襲」。報復とは、あなたが一方的な「被害者」であることをやめ、再び世界の「中心」へと自らを射出するために投げ放った、理知的な復讐の謂いなのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "思考の残響が、心地よい沈黙へと変わる瞬間。",
 		"example": "Everyday words are the anchors of our reality.",
 		"deep_dive": {
 			"roots": [],
@@ -134661,7 +134661,7 @@ const WORDS = [
 		"concept": "Reaction of driving back (押し返す反応、魂の防衛的な不快感)",
 		"thinking": "「後ろへ」「突き返す」ことによる反動。物理的な衝突だけでなく、生理的な「嫌悪感」もまた、自分の本質を汚されないための、魂という名の磁石の「N極とN極」の反発に似ています。嫌いだと思うことは、自分のコアを正しく理解するための重要な「拒絶のサイン」なのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "意識の境界線が、静かに溶けていく感覚。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -134737,7 +134737,7 @@ const WORDS = [
 		"concept": "Repeated thinking (繰り返される評価、社会の総計としての影)",
 		"thinking": "人々が「何度も」「計算、評価」し直した結果。一時の流行ではなく、長い年月をかけて他者の心の中で何度もふるいにかけられ、残った「残像」こそが評判です。それはあなたそのものではないかもしれない。しかし、世界があなたをどう「数えた」かという、冷厳な記録なのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "意識の境界線が、静かに溶けていく感覚。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -134869,7 +134869,7 @@ const WORDS = [
 		"concept": "Feeling again and again (何度も感じること。消えぬ苦さの反芻)",
 		"thinking": "「(一度味わった痛みを)何度も、再び」「感じる」。過去に受けた「冷たい震え」を、終わったこととして放流できず、自分の心という名の密室で何度も蒸留し、熱い『怒り』へと変容させてしまうこと。憤慨とは、あなたがその出来事の「重み」から今もなお解放されていない、という、自縛的なまでの「感じること」への執着なのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "意識の境界線が、静かに溶けていく感覚。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -135685,7 +135685,7 @@ const WORDS = [
 		"concept": "The back-pledge (投げ返された誓い。世界の衝撃を受け、理性が新しく創り出した『意味という名の反撃』)",
 		"thinking": "「(外部から加わった物理的な圧力、あるいは知的な問いが、魂の奥底で反射（リフレクト)し）後ろへと」「(新しく捏ね上げられた真実として)投げ返された」「具体的な形」。それは単なる「反応」を越えた、あなたの知性の「署名」。レスポンスとは、あなたが「刺激」の奴隷であることをやめ、自らの「意志」という名の色彩をその上に乗せて、世界を「自分の方から」彩りし直した、という主権の最も迅速な表明なのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "思考の残響が、心地よい沈黙へと変わる瞬間。",
 		"example": "Everyday words are the anchors of our reality.",
 		"deep_dive": {
 			"roots": [],
@@ -135733,7 +135733,7 @@ const WORDS = [
 		"concept": "Able to respond (応答が可能であること。起きた事象を『自分の一部』として引き受け、答えを導き出す知的な握力)",
 		"thinking": "「(宇宙で起きたすべての出来事、あるいは自分の犯したミスに対して)真実という名の誓いを投げ返す」「ことができる、あるいはその能力がある」。それは「お仕置き」ではない。あなたが自らの「呼吸」を、自分の「行動」という名の法廷の担保として差し出し、「この結果は私が引き受ける」と、世界に対して高らかにマニフェスト(表明)すること。責任とは、あなたが「他人のせい」という名の逃げ道を断ち切り、自らの手で「自分の人生」という名の船を屹立させ通すという、大人の魂の最も峻烈で誠実な「自律」の謂いなのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "思考の残響が、心地よい沈黙へと変わる瞬間。",
 		"example": "Everyday words are the anchors of our reality.",
 		"deep_dive": {
 			"roots": [],
@@ -136241,7 +136241,7 @@ const WORDS = [
 		"concept": "Walking backward (後ろ向きに歩くこと。宇宙の法則に抗い、あるいは過去の影に吸い寄せられる時間)",
 		"thinking": "「(誰もが未来へと進もうとする流れに逆らって)後ろ、過去へと」「歩みを進める」。それは進化という名の物語の「裏側」を視ようとする特異な動き。逆行とは、あなたが現状の「正しい一方行のシーケンス」に疑念を持ち、失われた「原基」へと、あえて時間を巻き戻そうとする、理性の執拗な「帰還への渇望」の谓いなのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "言葉の裏側に潜む、名もなき光を見つけて。",
 		"example": "Everyday words are the anchors of our reality.",
 		"deep_dive": {
 			"roots": [],
@@ -136266,7 +136266,7 @@ const WORDS = [
 		"concept": "Looking backwards (後ろに視線を投げること、過去という名の風景の再発見)",
 		"thinking": "「後ろを」「視る」。かつて駆け抜けた、あるいは置き去りにしてきた時間を、今という安全な場所からじっくりと眺め直すこと。追想とは、記憶という名の古びた写真を現像し、当時は気づかなかった「意味(光)」という隠し味を、今のあなたの感性で付け加える、最も贅沢な「時間の再翻訳」なのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "言葉の裏側に潜む、名もなき光を見つけて。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -136385,7 +136385,7 @@ const WORDS = [
 		"concept": "Turning back / opposite (後ろへ向きを返すこと、鏡写しの旋回)",
 		"thinking": "「後ろを向くように」「向きをひっくり返す」。前進という名の傲慢さを一瞬停止させ、自らの過去、あるいは自らの「裏側(対義)」へと向き直ること。逆転とは、一方的な時間の矢を拒否し、常に世界の「もう一つの可能性(反対向き)」を視野に留めておこうとする、理性の公正で批判的な眼差しなのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "言葉の裏側に潜む、名もなき光を見つけて。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -136409,7 +136409,7 @@ const WORDS = [
 		"concept": "Turning back (後ろへ向きを戻すこと、起点への再旋回)",
 		"thinking": "「再び元の場所へ」「向きを戻す」。変化の果てに迷い込んだ未知の平原から、自分を一番よく知っていた「あの頃」や「あの場所」へと、勇気を持ってハンドルを切ること。復帰とは、後退ではなく、数多くの新しい景色を視た後に、あえて「始まり」の価値を再発見しようとする、螺旋階段のような深い再訪なのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "意識の境界線が、静かに溶けていく感覚。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -138702,7 +138702,7 @@ const WORDS = [
 		"concept": "The feeling of smell (嗅ぐという感覚、空間を泳ぐ物質の記憶)",
 		"thinking": "「(空気の中に漂うものを)感じる」。視覚が形を捉え、聴覚が振動を捉えるように、嗅覚は物体の最も微細な「微粒子」をあなたの肺の内側へと直接迎え入れ、それを「記憶」として定着させる。香りは、目に見えない過去の出来事や遠くの存在を、一瞬で「今ここ」の現実へと召喚する、最も強力なタイムトラベルの術なのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "思考の残響が、心地よい沈黙へと変わる瞬間。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -139084,7 +139084,7 @@ const WORDS = [
 		"concept": "The thing written (成された書き物、演じられるのを待つ言葉の化身)",
 		"thinking": "「(すでに)書かれたもの」。まだ誰も語っていないかもしれないが、そこにはすでに一つの「運命(物語)」が文字として結晶化して存在している。台本は単なる紙ではなく、あなたがこれから誰になり、何を叫ぶべきかをあらかじめ定めた「未来の楽譜」なのです。文字は、読まれることで、初めて三次元の「生」へと受肉します。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "意識の境界線が、静かに溶けていく感覚。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -139107,7 +139107,7 @@ const WORDS = [
 		"concept": "The sacred writing (書かれたものの究極、文字の中に宿る神性)",
 		"thinking": "「書かれたもの」の「結晶」。単なる情報の記録ではない。その一文字一文字が宇宙の法則や神の吐息を内包し、読まれるたびに世界を「清浄に作り変える」力を持っていると信じられる至高の書物。聖典とは、人間がその手で「文字」という魔法を手に入れたとき、そこに最も高い「目的(祈り)」を込めた、理性の至福の到達点なのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "意識の境界線が、静かに溶けていく感覚。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -139131,7 +139131,7 @@ const WORDS = [
 		"concept": "Resembling holy texts (聖なる響きを持つ、深淵なる正しさを湛えた言葉)",
 		"thinking": "「聖典」の「ような」。単なる説明ではなく、その一言があなた自身の心の一番深い場所、つまり「魂の法廷」で、揺るぎなき判決を下してしまうような、圧倒的な重みと静寂を帯びた言葉の美しさ。聖典のような一瞬は、あなたが自分の人生という名の物語に、自分自身で「聖なる署名」をしたくなるような、覚醒の瞬間にのみ訪れます。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "思考の残響が、心地よい沈黙へと変わる瞬間。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -139486,7 +139486,7 @@ const WORDS = [
 		"concept": "A following / a way (付き従う人々、特定の『道』を選ぶ少数派)",
 		"thinking": "「(特定の師や教えに)付き従う」人々。巨大な全体から離れ、自分たちが「これこそが真理だ」と信じる、より狭く、より峻烈な「一本の道」を独占的に歩もうとする集団。セクト(宗派)とは、広い荒野の中で、迷うことを拒否し、ただ一つの「足跡」を盲目的に(あるいは狂信的に)たどり続ける、純化された「孤独な連帯」の形なのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "言葉の裏側に潜む、名もなき光を見つけて。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -140500,7 +140500,7 @@ const WORDS = [
 		"concept": "Full of the capacity to feel (感じる力が飽和している、過剰なるアンテナ)",
 		"thinking": "「感じる」ことに「没入している、傾向がある」。世界からのささいな刺激、あるいは他者の沈黙の一滴さえも、自分自身の存在を揺らす巨大な波として受け止めてしまうこと。敏感さとは、あなたが防御という名の「鎧」を脱ぎ捨て、剥き出しの「生」として世界の深淵へと自らを露出させている、高潔で危うい美しさのことなのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "意識の境界線が、静かに溶けていく感覚。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -140523,7 +140523,7 @@ const WORDS = [
 		"concept": "The thing that feels (感じるもの。情報の最前線に立つ沈黙の見張り番)",
 		"thinking": "「(異変を)感じ取る」ための「主体」。言葉も論理も持たない。ただ、そこに「何かが在る」という物理的な質量や振動を、数値としてあなたの意識のゲートへと運び続ける。センサーとは、あなたが眠っている時も、あなたの代わりに世界という闇を「手探り」し続けてくれる、忠実な見張り人の指先のようなものなのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "意識の境界線が、静かに溶けていく感覚。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -140546,7 +140546,7 @@ const WORDS = [
 		"concept": "Of feeling (感じることの、世界を受け取るための窓)",
 		"thinking": "「(世界を)感じる」ための「機能」。あなたがこの宇宙という巨大な闇の中から、光、音、熱、そして痛みを「自分の一部」として繋ぎ止めるための、精巧なアンテナ。感覚的な経験とは、あなたが世界という名の「他者」と、唯一、嘘偽りなく直接的に交信できる、最も原始的な「接触の戦場」なのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "言葉の裏側に潜む、名もなき光を見つけて。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -140569,7 +140569,7 @@ const WORDS = [
 		"concept": "Full of sense (感覚に満ちている。理性を眠らせる美的な陶酔)",
 		"thinking": "「(この世界の快い)感覚」に「満ち溢れている」。言葉で説明する必要のない、ただ「在るがまま」の質感、色彩、香りに魂が全方位的に包まれ、あなたがただの一つの「受け皿」へと回帰すること。美的陶酔とは、世界があなたをまるごと「愛抚」しているかのような、至福の受容状態の谓いなのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "思考の残響が、心地よい沈黙へと変わる瞬間。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -140592,7 +140592,7 @@ const WORDS = [
 		"concept": "The judging / feeling (思考したこと、断定としての『言葉』の完結)",
 		"thinking": "「(自分がどう)感じ、考え」たかの「結論」。ただの単語の羅致ではない。一つの「ピリオド(終わり)」という門を閉ざすことで、そこに一つの「宇宙的真理(意味)」を閉じ込めること。判決もまた、あなたがその事象をどう「重みづけ」したか、というあなたの魂の最終的な「審判」の形なのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "思考の残響が、心地よい沈黙へと変わる瞬間。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -140615,7 +140615,7 @@ const WORDS = [
 		"concept": "A feeling (感じること、理性という濾過器を通った後の情緒のしずく)",
 		"thinking": "「感じること」の「結果、状態」。生々しい衝動ではなく、自らの「記憶」や「価値観」というフィルターを通して洗練された、穏やかで持続的な心の色彩。情緒とは、世界があなたを撫でた跡に、あなたの魂という名の海にいつまでも残っている、静かなる「さざなみ」の別名なのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "意識の境界線が、静かに溶けていく感覚。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -141057,7 +141057,7 @@ const WORDS = [
 		"concept": "One who is of use (役に立つ者、献身という名の静かなる力)",
 		"thinking": "「仕える」。名誉を求めるのではなく、誰かの必要を満たし、その存在を支えることに、自らの生命力を注ぎ込むこと。真の奉仕とは、他者の幸福を自らの喜びとすることで、自己という境界線を溶かし、大きな愛へと繋がる最も謙虚な道なのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "言葉の裏側に潜む、名もなき光を見つけて。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -143610,7 +143610,7 @@ const WORDS = [
 		"concept": "Particular appearance (独特の外見。他と混ざり合わぬ、唯一無二の『屹立』)",
 		"thinking": "「一目でそれだと視」「分けることができるほどの、際立った形」。その他大勢という名のカオスの中に埋もれることなく、独自の「色彩」や「固有の重量」を持って、世界という舞台の中央にポツリと、しかし堂々と屹立していること。特別さとは、あなたが誰かの「フォロワー(追随者)」であることをやめ、自らの「存在」そのものを一つの「法則」へと昇華させた際の、その気高い「孤独」の別名なのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "言葉の裏側に潜む、名もなき光を見つけて。",
 		"example": "Everyday words are the windows to history.",
 		"deep_dive": {
 			"roots": [],
@@ -143634,7 +143634,7 @@ const WORDS = [
 		"concept": "The outward appearance (外見、目に映る『型』としての存在)",
 		"thinking": "「目に映る形」。その生物が、どのような「現れ」を持ってこの世界に立ち現れているか。種とは、個体としての違いを超えて、私たちが一瞥しただけで「あ、これは鳥だ」「人間だ」と判断できる、その不変で美しい「デザインの極致」のことを指しています。視線によって、世界は分類される。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "言葉の裏側に潜む、名もなき光を見つけて。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -143681,7 +143681,7 @@ const WORDS = [
 		"concept": "That by which one sees (それによって視るためのもの、典型という名の証言)",
 		"thinking": "「視る」ための手がかり。全体を知るために、その典型的な一部分を「印(しるし)」として切り出したもの。標本とは、流動する生命を「静止」させ、永遠に観察可能な「視覚的な事実」へと変容させることで、私たちが世界の背後にある「普遍的な型」を視認するための、最初の踏み台なのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "思考の残響が、心地よい沈黙へと変わる瞬間。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -143746,7 +143746,7 @@ const WORDS = [
 		"concept": "One who watches (視る者。舞台という名のカオスを、安全な場所から消費する人)",
 		"thinking": "「(世界という劇場を)じっと見つめる」「者」。自らは物理的な痛みを負わず、ただ視界に入る「快感や恐怖」を情報の断片として受け取る存在。観客とは、あなたが物語の「当事者」であることを一瞬保留し、世界を「客観的な法則」として、あるいは「一時の娯楽」として距離を保って注視している、という静かなる特権の謂いなのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "意識の境界線が、静かに溶けていく感覚。",
 		"example": "Everyday words are the windows to history.",
 		"deep_dive": {
 			"roots": [],
@@ -143769,7 +143769,7 @@ const WORDS = [
 		"concept": "An appearance only (「現れ」だけの存在、実像なき視覚の残像)",
 		"thinking": "視ることはできる。しかし触れることはできない。死んだはずのもの、あるいは恐ろしい予感が、視覚的な「像」として自分に迫ってくること。幽霊とは、失われた過去が、今という時間を「視線」だけで支配しようとする非実体的な暴力であり、あなたの「視る力(想像力)」が作り出した、美しくも恐ろしい影なのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "言葉の裏側に潜む、名もなき光を見つけて。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -143859,7 +143859,7 @@ const WORDS = [
 		"concept": "Appearance / Image (視えるもの、あるいは幻。光が分解されて屹立する階層の連なり)",
 		"thinking": "「視える」という「形」。光という名の「一つの真理」が、プリズムという名の「知性のフィルター」を通ったとき、それが虹という名の「無数の階層」へと分光され、目の前に「美しき階段」として屹立すること。範囲とは、白黒ではない広大な「あわい」の中に、あなた自身の「今、ここ、この色」を再発見するための、宇宙の広大なカラーチャート(地図)なのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "思考の残響が、心地よい沈黙へと変わる瞬間。",
 		"example": "Everyday words are the windows to history.",
 		"deep_dive": {
 			"roots": [],
@@ -144014,7 +144014,7 @@ const WORDS = [
 		"concept": "Without breath (息を欠いている。ただの肉体へと化した物質の悲哀)",
 		"thinking": "「息」が「無い」。心臓は動いていても、そこにあなたという独自の「色」や「熱」が乗っておらず、ただ自動機械のように世界を通り過ぎている悲しい状態。魂が抜けた姿とは、あなたが自分の「呼吸(自由)」を誰かに明け渡し、ただ世界に流されるだけの「抜け殻」になってしまった、という最も根源的な敗北の姿なのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "思考の残響が、心地よい沈黙へと変わる瞬間。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -144038,7 +144038,7 @@ const WORDS = [
 		"concept": "World of breath (風が支配する領域、物質の重力から解き放たれた純粋な響きの地)",
 		"thinking": "「息」だけで構成された「場所」。そこには重力も、肉体という名の檻も存在しない。あるのはただ、お互いの「生の音(周波数)」が直接響き合い、触れ合い、一つの広大な「精神の交響曲」として流動し続ける透明な領域。精神世界とは、あなたが目を閉じ、自分の「深呼吸」の音だけに耳を澄ませた時にのみ、その門が開かれる、最も内側にある広大な「外」なのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "意識の境界線が、静かに溶けていく感覚。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -144062,7 +144062,7 @@ const WORDS = [
 		"concept": "Having spirit (強い息を帯びている。生命という名のエンジンの全開)",
 		"thinking": "「(強い)息」を「持っている」。弱々しい溜息ではなく、胸いっぱいに吸い込まれた酸素が、あなたの瞳を輝かせ、言葉に力を与え、世界という名の障壁を軽々と跳ね返すような、エネルギーに満ちた状態。活気に満ちているとは、あなたの内側で「生きたい」という名の嵐が吹き荒れ、それが周囲のすべてを巻き込んで、前へと押し進めていく際の、その圧倒的な生命の『圧』のことなのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "思考の残響が、心地よい沈黙へと変わる瞬間。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -144086,7 +144086,7 @@ const WORDS = [
 		"concept": "Of the breath/spirit (目に見えぬ風の性質、肉体を越える息の響き)",
 		"thinking": "「息」に「まつわる、性質の」。物質や欲望という「地を這う重み」から解き放たれ、ただ澄み渡った空気(精神)の中を泳ぐような、軽やかで気高い「生」の状態。精神的であるとは、あなたが自分を「ただの肉体」と見なさず、広大な宇宙の呼吸の一部として、目に見えない「真理」に耳を澄ませている、という透明な自覚のことなのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "意識の境界線が、静かに溶けていく感覚。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -144110,7 +144110,7 @@ const WORDS = [
 		"concept": "System of spirit (精神という名の風を信ずる体系、肉体を虚構とする祈り)",
 		"thinking": "「息、精神」を「絶対」とする考え。触れることができる物質ではなく、触れることのできない「呼吸」こそが世界の真の主人である、と定義する理性の飛躍。スピリチュアリズムとは、死という名の肉体の停止を越えて、あなたの「生の音」が永遠に宇宙という名のエコーの中に響き渡り続ける、という、最も果敢で最も切ない人類の願望の結晶なのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "意識の境界線が、静かに溶けていく感覚。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -144133,7 +144133,7 @@ const WORDS = [
 		"concept": "One who pledges (誓う者。自分の『質量』を他者のために差し出し、相手の屹立を保証する、見えない土台)",
 		"thinking": "「(他者の夢（プロスペクト)や、未完の物語に対して）自らの名誉、あるいは富を担保にして」「(この者は私が支える（サポート)と）誓う」「者」。彼(彼女)は舞台に立つ主役ではありません。しかし、自らの「力」を他者の「可能性」という名の船に乗せ、荒波という名の現実を越えさせようとする、最も深い「利他的な接続」。スポンサーとは、あなたが「自分だけの王国の王」であることをやめ、誰かの未来という名の「新しい宇宙」の「共同作者」となった際の、魂の太っ腹な、かつ峻烈な「誓い」の謂いなのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "言葉の裏側に潜む、名もなき光を見つけて。",
 		"example": "Everyday words are the anchors of our reality.",
 		"deep_dive": {
 			"roots": [],
@@ -144272,7 +144272,7 @@ const WORDS = [
 		"concept": "The pledged one (誓われた者。お互いの『呼吸』を交互に担保にし合い、一つの運命という名の船を漕ぎ出す、究極の契約者)",
 		"thinking": "「(宇宙という広大な沈黙の前で、二人で一つの物語（スクリプト)を綴り通すと）誓われた」「者」。それは単なる「同居」ではない。あなたが自分の「孤独」という名の主権を半分手放し、他者の「痛み」を自分の身体の一部として引き受け、お互いを「支持」し合うことで、一人では辿り着けなかった「高い標高」へと屹立しようとする、現世における最も美しき「共同の誓い」。配偶者とは、あなたが誰かの「視線」の中に自分の「永遠の居場所」を見つけ出した瞬間の、魂の最も深い「定着」の謂いなのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "意識の境界線が、静かに溶けていく感覚。",
 		"example": "Everyday words are the anchors of our reality.",
 		"deep_dive": {
 			"roots": [],
@@ -144445,7 +144445,7 @@ const WORDS = [
 		"concept": "Able to stand (立つことができる。揺るぎなきバランスの保持)",
 		"thinking": "「(自らの力で)立つ」「ことが可能である」。外部からの衝撃があっても、自らの重心を失わず、瞬時に垂直な「屹立」へと復帰できる、強靭でしなやかな構造。安定とは、静止していることではなく、刻一刻と変化する世界の中で、常に自分という名の「中心軸」を修正し続け、真っ直ぐに在ろうとする「動的な平衡」のことなのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "意識の境界線が、静かに溶けていく感覚。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -144469,7 +144469,7 @@ const WORDS = [
 		"concept": "The one tending the standing place (『止まっている生命』を世話する者、最も低い場所の守り手)",
 		"thinking": "「(馬たちが心安らかに)立っている場所」の「世話人」。豪華な宮廷の物語の裏側で、生命の最も基本的な「休息」と「浄化」を担う、沈黙の労働者。馬丁の少年とは、世界の「前進」を支えるために、その土台にある「静止」と「安らぎ」を黙々と守り続けている、名もなき知性の原風景のような存在なのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "言葉の裏側に潜む、名もなき光を見つけて。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -144492,7 +144492,7 @@ const WORDS = [
 		"concept": "A fixed place to stand (立つべき場所、定められた距離の舞台)",
 		"thinking": "「立つ場所(Histánai)」。定められた長さ(約180m)のトラック。それは、人間がその可能性を極限まで引き出し、一瞬の火花を散らすために用意された、限定された「聖域」です。限られた空間だからこそ、そこでの歩みは強烈な意味を持ちます。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "言葉の裏側に潜む、名もなき光を見つけて。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -144515,7 +144515,7 @@ const WORDS = [
 		"concept": "A standing place (立っている層。人生の物語を『上演』するための階層)",
 		"thinking": "「(人生という建物の)ある階層、あるいは立っている足場」。ただの平坦な道ではない。あなたが今、どの高さを歩み、どのような「風景」を背景にして屹立しているか、という物語の現在地。舞台とは、あなたが「自分という配役」を受け入れ、世界という観衆の前で、自分の存在を一つの「輝き」として立ち昇らせる、という覚悟の場なのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "思考の残響が、心地よい沈黙へと変わる瞬間。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -144685,7 +144685,7 @@ const WORDS = [
 		"concept": "The threads that stand / endure (運命という名の糸の強度、折れぬ一本の芯)",
 		"thinking": "「(生命の織物を貫く)屹立した糸」。それは運命の三女神が引いた、あなたがどれほど長く「自分という存在」を維持し続けられるか、という物理的な耐性の長さ。スタミナとは、単なる筋肉の強さではなく、どれほどの重圧に曝されても、あなたの内なる芯が「ポキリと折れずに」、垂直に立ち続けられるか、という魂の粘りのことなのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "言葉の裏側に潜む、名もなき光を見つけて。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -144708,7 +144708,7 @@ const WORDS = [
 		"concept": "Standing still/fixed with eyes (視線を一点に固定すること。瞳による不動の『屹立』)",
 		"thinking": "「(視線を)一点に、動かさずに」「立ち止まらせる」。対象を単に視るのではなく、自分の意識という名の「光」を不動の杭として相手の懐へ突き刺し、その「本質」を白日の下に引きずり出そうとすること。凝視とは、あなたの好奇心、あるいは殺意という名の「生のエネルギー」が、瞬きすることを忘れて、世界という名の闇を「一点」として貫こうとした、知性の不気味で美しい屹立なのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "思考の残響が、心地よい沈黙へと変わる瞬間。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -144731,7 +144731,7 @@ const WORDS = [
 		"concept": "The way of standing (立ちゆき、固められた存在のありよう)",
 		"thinking": "「(今、この瞬間に)立っているその姿」。それは偶然の揺らぎではなく、一つの「秩序」として固められた確固たる現在の輪郭。国家もまた、バラバラな個人がつながり合い、一つの「大きな生命」として組織された巨大な安定の形。述べることも、自分の想いを「曖昧」から「屹立」へと変換させるための決断なのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "思考の残響が、心地よい沈黙へと変わる瞬間。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -144755,7 +144755,7 @@ const WORDS = [
 		"concept": "Resembling a solid standing (確固たる屹立を思わせる、揺るぎなき存在感)",
 		"thinking": "「(巨大な法を持って)屹立しているもの」の「ような」。ささいな感情や流行という風では一ミリも動かすことのできない、重厚で、かつ理性に満ちた「正しさ」を漂わせているさま。国家のような静寂は、あなたが自分の信じる「道」を何十年も歩み続け、その存在そのものが一つの不滅の「モニュメント」へと昇華した際にのみ、その背後に漂い始めるのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "言葉の裏側に潜む、名もなき光を見つけて。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -144778,7 +144778,7 @@ const WORDS = [
 		"concept": "A standing place (立っている場所。移動の中で唯一『止まっている』座標)",
 		"thinking": "「(そこにおいて)立ち止まる」という「結果」。流動する時間や移動という名のカオスの中で、唯一、自分の場所を固定し、外部へとその「存在」を発信する定点。駅とは、あなたが旅する孤独なランナーであることを一瞬やめ、世界という巨大な地図の上に、自らの「根(拠点)」を降ろす、という休息と再出発の交差点なのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "言葉の裏側に潜む、名もなき光を見つけて。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -144801,7 +144801,7 @@ const WORDS = [
 		"concept": "The thing made to stand (立てられたもの。一瞬の生を、永遠の屹立へと変える術)",
 		"thinking": "「(朽ち果てる肉体を)不変の形として、そこに立てた」もの。呼吸をやめ、動きをやめる代わりに、死を越えてなお「そこに在り続ける」という権利を手に入れた、石という名の魂。彫像とは、あなたが過ぎ去る時間の奴隷であることをやめ、自らの輝きを「不動の美」へと昇華させようとする、永遠への執念の結晶なのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "意識の境界線が、静かに溶けていく感覚。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -144824,7 +144824,7 @@ const WORDS = [
 		"concept": "The act of standing high (高く立つこと。存在の垂直的な伸びの極致)",
 		"thinking": "「立ち」の「結晶、完成」。地面からどれほど遠くへと、自分の知性や人格を引き上げることができたか。物理的な身長を超えて、他者があなたの「重み」を感じた際に見上げる、その「精神の標高」。名声とは、あなたが自分の孤独と向き合い、自分をどれほど「高く、真っ直ぐに」磨き上げたか、という魂の垂直の長さなのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "言葉の裏側に潜む、名もなき光を見つけて。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -144847,7 +144847,7 @@ const WORDS = [
 		"concept": "A manner of standing (立ち方、世界の中での立ち振る舞いの輪郭)",
 		"thinking": "「(世界という舞台で)どのように立っているか」ということ。あなたがどんな衣装をまとい、どんな「重み」を自ら負って屹立しているか。ステータス(地位)とは、単なる他者からの評価ではなく、あなたが自分という存在を、世界という名の観衆に対してどれほど堂々と、そして責任を持って「提示」できているか、という自負の影なのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "意識の境界線が、静かに溶けていく感覚。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -144870,7 +144870,7 @@ const WORDS = [
 		"concept": "The thing set to stand (立てられたもの。流動的な『生』を縛る、不動の言葉の杭)",
 		"thinking": "「(社会の柱として)立てられた」「もの」。気まぐれな感情や暴力をせき止め、全員が共通の「正しさ」という名の台座の上に立てるように、言葉によって物理的に「固定」されたルール。法令とは、世界がカオスへと堕ちないように、理性が時の砂漠の真ん中に打ち込んだ、不滅で冷徹な「思考の杭」そのものなのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "言葉の裏側に潜む、名もなき光を見つけて。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -144894,7 +144894,7 @@ const WORDS = [
 		"concept": "Hall-keeper (広間の守り手、託された場所の巡回者)",
 		"thinking": "「広間」の「守り手」。その場所の所有者ではない。しかし、他者から託された貴重な資産や空間を、その美しさを損なわぬよう、細心の注意と責任をもって管理すること。スチュワードとは、自分を通るものが豊かであるように見守る、誠実な「管律者」の名です。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "言葉の裏側に潜む、名もなき光を見つけて。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -145014,7 +145014,7 @@ const WORDS = [
 		"concept": "Weighing coins as a gift (硬貨を量って支払うこと。高貴な使命に対する『最低限の重み』の保証)",
 		"thinking": "「(人々の志から集まった)硬貨」の「重さを計り」「(それを成し遂げる者へと)渡す」こと。市場での「労働の対価」ではなく、あなたがその「高貴な使命」に専念できるように、社会という天秤があなたに用意した、最低限の、しかし決定的な「命の燃料」。俸給とは、あなたが世界を「変える」ための活動が、経済という名の重力に押し潰されないように、知性が用意した「見えない翼(支え)」の一種なのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "言葉の裏側に潜む、名もなき光を見つけて。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -145133,7 +145133,7 @@ const WORDS = [
 		"concept": "Leading the multitude (大勢を導くこと。勝利への地図)",
 		"thinking": "「軍勢」を「導く」。目の前の一戦(戦術)で勝つことではなく、全体を俯瞰し、限られた資源で最終的な目的を達成するための、長期的な展望と決断の芸術です。混沌の中に、意思という一本の道を通す行為を指します。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "思考の残響が、心地よい沈黙へと変わる瞬間。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -145248,7 +145248,7 @@ const WORDS = [
 		"concept": "Of the building style (組み立ての形式に関する。表面をなぞるのではない、骨組みを貫く視点)",
 		"thinking": "「(対象を支えている)構造」に「関する」。単なる「色彩」や「印象」といった一時的な変化を論じるのをやめ、その事象を根本から司っている「不変の結び目」そのものに知性のメスを入れようとすること。構造的な分析とは、あなたが世界の「現象」に惑わされず、その裏側にある「設計図」を読み解くことで、真実を「掌握」しようとする、理性の最も醒めた挑戦なのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "言葉の裏側に潜む、名もなき光を見つけて。",
 		"example": "Everyday words are the anchors of our reality.",
 		"deep_dive": {
 			"roots": [],
@@ -145373,7 +145373,7 @@ const WORDS = [
 		"concept": "Leading under (下へと導き、従わせること。荒れ狂うカオスを、自らの意志という名の足もとへ静かにひざまずかせる力)",
 		"thinking": "「(自分に牙を剥く運命、あるいは激しい感情を)自らの支配の）下へと」「(なだめるように、あるいは力強く)導く」。それは物理的な「破壊」ではなく、相手の「呼吸」を自らのリズムの中へと飲み込み、一つの「平穏」へと変換すること。鎮圧とは、あなたが暴力の「奴隷」であることをやめ、自らの知性という名の「霧」を掛けて、世界を優雅に制御した際の、静かなる「主権」の谓いなのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "意識の境界線が、静かに溶けていく感覚。",
 		"example": "Everyday words are the anchors of our reality.",
 		"deep_dive": {
 			"roots": [],
@@ -145688,7 +145688,7 @@ const WORDS = [
 		"concept": "Condition of being sent under (下に置かれた状態。抵抗を捨てた柔和の極致)",
 		"thinking": "「誰かの下に」「送り置かれた」状態。自分を「主」として主張するのをやめ、他者の色の下で生きることを選んだ静かな強さ。それは屈辱ではなく、衝突を避けて調和を保とうとする、水のようになめらかな「受容」という名の高い精神性の現れでもあるのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "言葉の裏側に潜む、名もなき光を見つけて。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -145872,7 +145872,7 @@ const WORDS = [
 		"concept": "Following close behind (すぐ真下、あるいは後に続くこと)",
 		"thinking": "「(前の出来事の)すぐ真下、あるいは至近距離を」「追いかけてくる」。前の物語の余韻が消えぬうちに、その正当な「続き」として姿を現す新しい出来事。次なるものとは、世界が断絶せず、一つの息苦しいほどの密度を持って、未来へとその筆致を「継ぎ足して」いく、連続性の美学なのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "言葉の裏側に潜む、名もなき光を見つけて。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -145896,7 +145896,7 @@ const WORDS = [
 		"concept": "Standing under (下から支え立っていること。最低限の生を維持する『土台』)",
 		"thinking": "「(崩壊しそうな重みの)下へと」「(かろうじて)踏みとどまって立つ」。豪華な生活ではない。しかし、餓死や絶望という名の重圧に押し潰されないように、自分の魂という名の「一本の柱」をかろうじて垂直に保ち続け、生命の灯を絶やさないこと。生存とは、世界がどれほど過酷でも、あなたが「自分を捨てない」という最低限の自己尊厳を死守している、という孤独な戦いの謂いなのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "言葉の裏側に潜む、名もなき光を見つけて。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -145975,7 +145975,7 @@ const WORDS = [
 		"concept": "The built thing underneath (下側に積み上げられたもの。目に見える『屹立』を支える、沈黙の土台)",
 		"thinking": "「(華やかな建築（アスペクト)の）真下、根源へと」「(誰にも見られず、しかし強靭に)積み上げられた」「構造」。それは、嵐が来ても地震が起きても、上の物語を「絶対に落とさない、崩さない」という冷徹な「物理的決意」が込められた、理性の暗い礎。下部構造とは、あなたが自分の「成功」を誇る前に、その足もとであなたを支え、あなたという「存在の重み」を黙って引き受けている、名もなき「準備」の集積のことなのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "意識の境界線が、静かに溶けていく感覚。",
 		"example": "Everyday words are the anchors of our reality.",
 		"deep_dive": {
 			"roots": [],
@@ -146105,7 +146105,7 @@ const WORDS = [
 		"concept": "Pulling from under (下から引き抜くこと。積み上げた『積み木』の底を抜き、全体を賢明にスリム化する技法)",
 		"thinking": "「(目の前にある山のような質量（マテリアル)の）下の方から」「(不必要な断片を)引き抜く」「行為」。それは単なる「欠落」ではない。あなたが「足し算」という名の装飾に耽るのをやめ、余計な「贅肉」をそぎ落とすことで、物事の「真の姿」をより鮮明に、より峻烈に屹立させようとする、知的な「そぎ落とし」の美学。引き算とは、あなたが「持つこと」の虚無を悟り、何がないがゆえに豊かであるかを発見した、という理性の逆転した「獲得」の形式なのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "思考の残響が、心地よい沈黙へと変わる瞬間。",
 		"example": "Everyday words are the pulleys of civilization.",
 		"deep_dive": {
 			"roots": [],
@@ -146489,7 +146489,7 @@ const WORDS = [
 		"concept": "Killing oneself (自分自身を殺すこと、自己という物語の完結的な断絶)",
 		"thinking": "「自分自身を」「断ち切る、殺す」。他者に殺されるのを待たず、自分の物語の「最後の言葉」を自ら握り、強制的な「ピリオド(死)」を自分の命へと刻み込むこと。それは絶望の形であるかもしれませんが、語源的には、自分という存在の「所有権(主権)」を、死という究極の手段を用いて世界から奪還しようとする、悲しい自己完結の姿なのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "言葉の裏側に潜む、名もなき光を見つけて。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -146512,7 +146512,7 @@ const WORDS = [
 		"concept": "A following (付き従うこと、上から下まで『一貫した』装い/要求)",
 		"thinking": "「(ある一人の主人、あるいは目的を)完璧に追い切って」「出来上がったもの」。上着からズボンまで、同じ「糸」が付き従うように貫かれている衣服。あるいは、法廷の場で、一人の人間が真実を「どこまでも」追い求める行為(訴訟)。適するとは、あなたの形と、世界の要求が、一点の隙もなく「重なり合い、寄り添っている」という、完璧な整合性の状態のことなのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "言葉の裏側に潜む、名もなき光を見つけて。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -146536,7 +146536,7 @@ const WORDS = [
 		"concept": "Able to follow / fit (付き従い、ぴったり合うことができる。不協和音なき隣接)",
 		"thinking": "「(対象に)寄り添い、従うこと」「が可能である」。強引にねじ込むのではなく、まるであつらえたかのように、その場を支配する「法」や「空気」と調和して、自然にそこに在り続けられること。ふさわしいとは、あなたがその場所において「ノイズ」であることをやめ、世界の美しい「背景」の一部と同化した、静かなる勝利の状態のことなのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "思考の残響が、心地よい沈黙へと変わる瞬間。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -146559,7 +146559,7 @@ const WORDS = [
 		"concept": "A following / sequence (あとに続く部屋の連なり、調和したひと揃え)",
 		"thinking": "「(一つのコンセプトに)従い、あとに続く」部屋(または曲)の連なり。一つの部屋で終わらず、扉を開ければまた次の、そしてその次の「続き」が待っている、あの贅沢な連続性。スイート(組曲)とは、各々の要素が独立していながら、全体として一つの「気高き物語」を共有し、互いに惹かれ合い、寄り添い合っている、秩序ある美の集積なのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "思考の残響が、心地よい沈黙へと変わる瞬間。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -146582,7 +146582,7 @@ const WORDS = [
 		"concept": "The follower (追いかける者、愛、あるいは利を求めて『影』となる者)",
 		"thinking": "「(愛する人の後を)どこまでも付き従い」「追い求める者」。自分の孤独を埋めるために、他者という名の「光」の周りをグルグルと旋回し、その懐に入り込もうと機を伺う、情熱的なフォロワー。求婚者とは、自分の現在という「無」を、他者という名の「実」によって満たそうとする、最も謙虚で、最も利己的な「追跡者」の名なのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "意識の境界線が、静かに溶けていく感覚。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -146994,7 +146994,7 @@ const WORDS = [
 		"concept": "The built thing above (上側に積み上げられたもの。土台の上に立ち昇る、色鮮やかな表現の層)",
 		"thinking": "「(見えない基礎（サブスタンス)の）遥か高い、その上に」「(誇らしげに)積み上げられた」「建築」。それは物理的な「生存」という名の必要性を越えて、あなたが自らの「美意識」や「信仰」、あるいは「法」を、天空に向かって高らかに「宣言」した際の、最も華やかな「生の装飾」。上部構造とは、あなたが「ただここに在る」という重力(土台)を足場にして、自分の「精神」がどこまで高く飛躍し、どれほど壮大な「夢」を現実の中に屹立させ得るか、という魂の標高の谓いなのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "思考の残響が、心地よい沈黙へと変わる瞬間。",
 		"example": "Everyday words are the anchors of our reality.",
 		"deep_dive": {
 			"roots": [],
@@ -147576,7 +147576,7 @@ const WORDS = [
 		"concept": "Seizing upon (上から不意に掴みかかること。日常という名の『平穏な計算』の外側から、未知のカオスが理性を一気に掌握すること)",
 		"thinking": "「(安心しきっているあなたの)頭上から、上の方から不意に」「(ガシッと)掴みかかる」。それは単なる「珍しい」ことではない。一瞬のうちに、あなたの「現在」が外部からの「衝撃」に支配され、あなたの呼吸が停止し、世界の「貌」が全く別の「未知の色彩」へと一新されてしまう、理性のための「強制終了」の謂いなのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "思考の残響が、心地よい沈黙へと変わる瞬間。",
 		"example": "Everyday words are the anchors of our reality.",
 		"deep_dive": {
 			"roots": [],
@@ -147722,7 +147722,7 @@ const WORDS = [
 		"concept": "Able to be taken from under (下から掴まれやすい。門戸を開放した脆弱な美)",
 		"thinking": "「(相手の)下から」「掴まれる」「可能性がある」。頑固に自分を閉ざすのではなく、外からの刺激や他者の情緒を、自分の懐深く(下から)スッと迎え入れてしまうこと。それは弱さではなく、世界の変化という風を全身で受け止めようとする、生命の最も「感じやすい」高潔な露出状態なのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "思考の残響が、心地よい沈黙へと変わる瞬間。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -147850,7 +147850,7 @@ const WORDS = [
 		"concept": "Hanging from under (宙吊りにされている状態。地面に足をつけぬ『宙吊り』の心)",
 		"thinking": "「(奈落の)上、空中の途中で」「吊り下げられている」こと。安心という名の「地面」に足が着かず、次の瞬間に自分がどうなるかわからない、という不確実な糸一本で支えられた状態。サスペンスとは、あなたが「生」と「死」、あるいは「成功」と「失敗」の狭間で、一筋の時間の糸にぶら下がり、世界の「重み(重力)」を全身で享受している際の、心臓の早鐘そのものなのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "思考の残響が、心地よい沈黙へと変わる瞬間。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -147874,7 +147874,7 @@ const WORDS = [
 		"concept": "Looking from under (下から視ること、物陰から覗き込む不安)",
 		"thinking": "「下から、密かに」「視る」。正面から真実と向き合わず、隠れて、あるいは斜め下の暗がりから相手の綻びを伺うこと。疑念とは、自分の視線が透明であることを信じきれず、世界に対して「裏があるはずだ」と、自分が「下(物陰)」に潜り込んでしまう、精神の孤独な矮小化でもあるのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "意識の境界線が、静かに溶けていく感覚。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -148415,7 +148415,7 @@ const WORDS = [
 		"concept": "Voices together (共に響く声、不協和音を超えた融合)",
 		"thinking": "「共に」「響く」。バラバラの楽器、バラバラの旋律が、ひとつの大きな目的のために、その個性を消すことなく巨大な一つの「共鳴」へと溶け合うこと。多様性が、摩擦ではなく「美」として結実した、最も豊かな平和の形を指しています。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "思考の残響が、心地よい沈黙へと変わる瞬間。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -148636,7 +148636,7 @@ const WORDS = [
 		"concept": "Running together (共に走ること、同時多発的な予兆)",
 		"thinking": "「共に」「走る」。バラバラの不快な兆候たちが、ある目的(病)のために示し合わせたように一斉に駆け寄ってくること。原因が一つに特定できなくても、それらが「共に現れる」という事実そのものが、隠れた真実の姿を浮き彫りにします。合流する現象。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "思考の残響が、心地よい沈黙へと変わる瞬間。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -149217,7 +149217,7 @@ const WORDS = [
 		"concept": "Full of the sense of touch (触覚に満ちている。心の手触りを察する知性)",
 		"thinking": "「触れる感覚」が「充満している」。相手の心の薄い膜を、土足で踏みにじるのではなく、そっと、絹のような繊細な「指先の感覚」で撫でるように、今の空気を察知し、最適な一言を置くこと。気が利くとは、見えない「心という肌」に対する、最も親密で高度な「礼儀」としての知性なのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "言葉の裏側に潜む、名もなき光を見つけて。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -149240,7 +149240,7 @@ const WORDS = [
 		"concept": "Of the sense of touch (触れることの、指先から始まる思考)",
 		"thinking": "「触れること」にまつわる知覚。言葉や論理が届かない場所に、あなたは直接指を伸ばし、世界の「凹凸」や「滑らかさ」を読み取っていく。触覚的な経験は、あなたの中にある最も原始的な「信頼の回路」を揺り起こし、世界が自分とは別の「生きた実体」であることを、血液の温度を通して教えてくれるのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "言葉の裏側に潜む、名もなき光を見つけて。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -149460,7 +149460,7 @@ const WORDS = [
 		"concept": "Touching (触れている一線、接点という名の刹那の共生)",
 		"thinking": "「(一瞬だけ)触れている」こと。円の周りをかすめるように、ただ「一点」だけで外部の世界とコンタクトをとり、そのまま未知の方向へと走り去る直線。脱線は間違いではなく、メインの物語という円の境界線に一瞬だけ触れ、そこから全く別の「宇宙」を切り裂こうとする、知性の急な方向転換のスリルなのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "言葉の裏側に潜む、名もなき光を見つけて。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -150045,7 +150045,7 @@ const WORDS = [
 		"concept": "Watcher from far off (遠くを見守る者、空間の境界を超える眼差)",
 		"thinking": "「遠く」を「視る」。肉体という檻を飛び出し、何万光年の彼方にある光を、今この瞳へと招き入れること。それは、あまりに孤独で広大な宇宙に対して、人間が「知る」という名の橋を架け、世界を我が物(理解)にするための果敢な挑戦です。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "意識の境界線が、静かに溶けていく感覚。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -150419,7 +150419,7 @@ const WORDS = [
 		"concept": "Able to be held (掴み続けられる。論理という名の『砦』の堅固さ)",
 		"thinking": "「(しっかりと)掴むこと」「が可能である」。外部からの批判や矛盾という名の攻撃に晒されても、その中心部にある理性がバラバラにならず、一つの「城(砦)」として、その一貫性を保持し続けられること。支持できるとは、あなたの思考が、世界の荒波の中でも「一歩も退かずに」そこに在り続けられる、という信頼の証明なのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "言葉の裏側に潜む、名もなき光を見つけて。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -150485,7 +150485,7 @@ const WORDS = [
 		"concept": "Holding (掴んでいる者、空間を一時的に借りる主人)",
 		"thinking": "「(その場所を一時的に)掴んでいる」者。所有者ではないが、その期間、その空間を自分の色で染め、自らの生命力をそこに「定着」させている静かなる客。テナントとは、世界という巨大な建築物の中で、あなたが自分の物語を繰り広げるために、ほんの少しの「場所」を切り取った、旅する居住者の名なのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "意識の境界線が、静かに溶けていく感覚。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -150644,7 +150644,7 @@ const WORDS = [
 		"concept": "A holding (掴んでいる場所、生命が吹き溜まる『器』としての住処)",
 		"thinking": "「(誰かによって)掴み提供されている」場。豪華ではない。しかし、多くの個が集まり、重なり合うようにして自らの生を「維持」している、剥き出しの生存の空間。それは、バラバラな孤独たちが、一つの壁という「境界線」に寄り添い合い、夜をしのいでいる、生命の最も素朴な「拠り所」の姿なのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "思考の残響が、心地よい沈黙へと変わる瞬間。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -151035,13 +151035,6 @@ const WORDS = [
 		"era": "20th Century"
 	},
 	{
-		"id": "test2",
-		"word": "Test2",
-		"author": "test_user",
-		"date": "2026-03-01",
-		"era": "Unknown Era"
-	},
-	{
 		"id": "tether",
 		"word": "Tether",
 		"part_of_speech": "noun/verb",
@@ -151359,7 +151352,7 @@ const WORDS = [
 		"concept": "Serving and waiting (仕え、待つこと。寄り添う治癒の姿)",
 		"thinking": "「仕える、付き添う」。単なる命令や処置ではなく、病者に寄り添い、その回復を「待つ」という献身的なサービス。癒やしとは他者が与えるものではなく、適切な環境を整え、仕え続けることで、対象自らが立ち上がる力、その機が熟すのを見守る忍耐の別名です。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "言葉の裏側に潜む、名もなき光を見つけて。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -152356,7 +152349,7 @@ const WORDS = [
 		"concept": "A trailing (引きずった跡、消えゆく情報の細き糸)",
 		"thinking": "「(何かが通過した)引きずり跡」。あまりにもか細いけれど、かつてそこに「命」や「出来事」があったことを、世界に一点だけ留めている銀色の糸。痕跡をたどることは、他者の「かつての重圧(一歩)」を自分の指先でなぞり直し、失われた物語を、今の光の中で再構築しようとする、敬虔な考古学的な儀式なのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "思考の残響が、心地よい沈黙へと変わる瞬間。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -152379,7 +152372,7 @@ const WORDS = [
 		"concept": "A pull/path (引きずられた線、そこに誰かがいたという物語のレール)",
 		"thinking": "「引きずる」ことで刻まれた「道」。それは足が地面を蹴り、少しだけ大地を「自分の方へ引き寄せた」際の、重力の痕跡の連なりです。トラック(軌跡)を追うことは、他者がその人生において何を「引きずり」、どこへ向かおうとしたか、という沈黙のナビゲーションを、自分の足で一歩ずつ「翻訳」し直す冒険そのものなのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "思考の残響が、心地よい沈黙へと変わる瞬間。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -152402,7 +152395,7 @@ const WORDS = [
 		"concept": "A drawing out (引きずり出されたもの、一本の線としての広がり)",
 		"thinking": "「引きずって」できた「跡」。それは大地をズルズルと引きずって区切った「土地(広がり)」であり、あるいは思考を一筆書きで綴った「小冊子」であり、物質が一本の線として通過する「管」でもある。すべてのトラクトは、もとは点であった存在が、自らの意志や物理的な力によって、この世界に「線」として拡張された痕跡そのものなのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "思考の残響が、心地よい沈黙へと変わる瞬間。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -152477,7 +152470,7 @@ const WORDS = [
 		"concept": "The puller (引きずる者、絶対的な力で物質を移動させる意志の塊)",
 		"thinking": "「引きずる」ことを「目的とした存在」。自らは何も生み出さないかもしれない。しかし、背後にある重い「過去(耕運機)」や「未来(資材)」を、その圧倒的な馬力で希望の座標へと「引き寄せ」、大地を力強く切り裂いていく。トラクターとは、停滞という名の重力を打ち破るための、最も実体的な「推進」の化身なのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "言葉の裏側に潜む、名もなき光を見つけて。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -152604,7 +152597,7 @@ const WORDS = [
 		"concept": "A stroke (一筆、描き出された個という名の独自の線)",
 		"thinking": "ペンをキャンバスの上にグイと「引きずって」描き出された、唯一無二の「一線」。あなたの性格や顔立ちの中にある「特徴」とは、神があなたという存在をこの世界にデッサンする際に、最も力を込めて「描いた」、あなたの魂の最も鋭角で美しい「筆跡」そのものなのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "思考の残響が、心地よい沈黙へと変わる瞬間。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -153025,7 +153018,7 @@ const WORDS = [
 		"concept": "Transferred writing (書き移された証、姿を変えた『事実』の記録)",
 		"thinking": "「(物理的な震えや出来事を)別の場所へ」「書き直した」もの。成績も対談も、その瞬間が過ぎ去れば消えてしまう「泡」のようなもの。それを、文字という名の「化石」に閉じ込め、いつでも誰でもアクセスできるようにした複製。謄本は、消滅に抗おうとする理性の、執念深い「コピー(複製)」の身振りなのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "言葉の裏側に潜む、名もなき光を見つけて。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -153327,7 +153320,7 @@ const WORDS = [
 		"concept": "Stepping across ((禁じられた)境界線を越えて一歩を出すこと。法という名の壁の『貫通』)",
 		"thinking": "「(正しいとされる領域や規則の)向こう側へと」「(恐れることなく)一歩を踏み出す」。それは単なる「間違い」ではなく、あなたが「今の法」という名の檻が、自分の「巨大な生の熱量」には小さすぎることを証明するために、自らの足でその境界を物理的に踏み越える行為。違反という言葉の中には、あなたが「善悪」を他者の手に委ねるのをやめ、自らの力で「新しい地平」を作り直そうとする、野性的な知性の挑戦が隠されています。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "言葉の裏側に潜む、名もなき光を見つけて。",
 		"example": "Everyday words are the anchors of our reality.",
 		"deep_dive": {
 			"roots": [],
@@ -153809,7 +153802,7 @@ const WORDS = [
 		"concept": "Breathe across (境界を越えて息が漏れる。隠された事実の浸透)",
 		"thinking": "「(隠蔽された壁を)通り抜けて」「息が漏れる」。密室で交わされていたはずの秘密の呼吸(企て)が、時間の経過とともに壁の裂け目からシュウーッと外の世界へと「漏れ出し」、やがて万人が知る「事実」へと変わること。起こるとは、隠されていた真実が、自らの生命力によって自発的に世界へと「露出(漏出)」した瞬間のことなのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "意識の境界線が、静かに溶けていく感覚。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -154141,7 +154134,7 @@ const WORDS = [
 		"concept": "A handling/discussion (何度も引きずり出された言葉。対立の果ての握手)",
 		"thinking": "「何度も」「(テーブルの上へ)引き出し、話し合う」。ただ一つの言葉を確定させるために、お互いの言い分を何度も「引きずり出し」、削り、磨き、ようやく一本の「合意」という名の強固な縄へと鍛え上げること。条約とは、衝突という名の「引きずり合い」を、言葉という名の「管理」へと着地させた、人類の平和への尊い忍耐の結晶なのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "意識の境界線が、静かに溶けていく感覚。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -155695,7 +155688,7 @@ const WORDS = [
 		"concept": "One horn (一つの角、唯一無二の純粋な意志)",
 		"thinking": "「角」が「一つ」。力(角)が両側に分かれず、一本の鋭い「真理」として額から真っ直ぐに突き出されている。それは、いかなる矛盾も許さない純粋さ、そして孤独。一角獣とは、自分自身を唯一の法と定め、穢れのない処女(真実)の膝の上でしか眠らない、高貴な魂の化身です。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "言葉の裏側に潜む、名もなき光を見つけて。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -157395,7 +157388,7 @@ const WORDS = [
 		"concept": "The young man (若き従者。誓いによる献身の絆)",
 		"thinking": "「若き者」。未熟ゆえに保護を求め、その代償として誠実な奉仕を誓った人々。上下関係は単なる「支配」ではなく、生命という重みを託し、守り抜くという、かつての騎士道精神に基づいた重層的で双方向な「約束」の形でした。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "意識の境界線が、静かに溶けていく感覚。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -157463,7 +157456,7 @@ const WORDS = [
 		"concept": "A tool for carrying (運ぶための装置。肉体の脆弱な足を、機械的な速度へと変換する船)",
 		"thinking": "「(自分や荷物を)運ぶ」「ための具体的な道具」。それは単なる「便利な物」ではありません。あなたが「一歩一歩」の労力をスキップし、空間という名の「抵抗」を理知の力で切り裂いて、自分の望む目的地へと自分の「生命」を最短距離で射出するための、拡張された「翼」。乗り物とは、あなたが大地の「重力」という名の主権をあえて無視し、自らの「意志」を動力へと変換して、世界全域を自分の「庭」へと変えてしまった、という文明の最も峻烈な「成果」の謂いなのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "言葉の裏側に潜む、名もなき光を見つけて。",
 		"example": "Everyday words are the pulleys of civilization.",
 		"deep_dive": {
 			"roots": [],
@@ -157487,7 +157480,7 @@ const WORDS = [
 		"concept": "Of the carrying tool (運ぶ装置に関する。肉体の美しさではなく、動力と効率という名の『外骨格』)",
 		"thinking": "「(物理的な移動や、あるいは思想の伝達を司る)車両、あるいは手段」に「関する」。あなたが「自分の足」で地面の泥を噛み締めて歩くのをやめ、機械という名の「補助輪」や、流行という名の「既存の物語」に乗って、自らの生を効率的にトランスポート(輸送)しようとしている状態。車両に関する(ビヒキュラーな)視点とは、あなたが自らの「人間的な温かみ」を一瞬保留し、社会という名の「巨大な交通システム」の中の一つの「記号」として、冷静に機能し始めた、という理性の「機能的な」な変貌の谓いなのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "意識の境界線が、静かに溶けていく感覚。",
 		"example": "Everyday words are the pulleys of civilization.",
 		"deep_dive": {
 			"roots": [],
@@ -157954,7 +157947,7 @@ const WORDS = [
 		"concept": "A turning (一つの旋回、ある一点から視た別の『向き』の真実)",
 		"thinking": "「ある原典を、別の方向へと」「向きを変えたもの」。物語は一つかもしれない。しかし、それを誰が語り、どの時代の光が当たるかによって、その「見え方」は無限に生まれ変わる。バージョン(版)とは、同じ宇宙という名の巨大な石を、今までとは違う角度から「一回転」させて視せた、新しい発見の試行のことなのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "言葉の裏側に潜む、名もなき光を見つけて。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -158001,7 +157994,7 @@ const WORDS = [
 		"concept": "The state of being shaken (揺さぶられたという事実。安らぎという名の『船』が、執拗なノイズ(嵐)によってバランスを失った情景)",
 		"thinking": "「(自らの意志という名の舵が効かないほど、外部から執拗に)揺さぶられ、乱暴に運ばれ」「てしまった、という確定した心の状態」。それは単なる「一時的な怒り」ではなく、あなたの日常という名の「きれいな整列」が、誰かの悪意や世界の理不尽によって、何度もバラバラに引き裂かれ、自分の「重心」という名の不変の平和を「失って」しまったという、静かなる敗北の謂い。苛立ちという言葉には、あなたが宇宙という名の「荒波」の前で、自らの「脆弱な実在」を再び視認せざるを得なくなった、という理性の悲しい「再教育」が刻まれています。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "思考の残響が、心地よい沈黙へと変わる瞬間。",
 		"example": "Everyday words are the pulleys of civilization.",
 		"deep_dive": {
 			"roots": [],
@@ -158181,7 +158174,7 @@ const WORDS = [
 		"concept": "Substitute (代理者、不在の誰かの代わりに立つ重圧)",
 		"thinking": "「交代、場所」。自分がそこにいるのは、自分自身のためではなく、真の主人や価値観の「代理」としてそこに立っていること。その謙虚な自覚は、逆説的に、自分という個人の好き嫌いを超えた、大いなる意志を代弁するための驚異的な強さと誠実さを授けます。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "思考の残響が、心地よい沈黙へと変わる瞬間。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -159127,7 +159120,7 @@ const WORDS = [
 		"concept": "Of the voice (声にまつわること、震えを言葉へと結晶化させる質)",
 		"thinking": "「声」に「満ちている、備わっている」。内に秘めるのではなく、ためらわずに「振動(音)」へと自らを変換させて放出すること。はっきり述べるとは、あなたの思考がもはや頭の中という檻に留まることができず、「物理的な力(声)」として世界を物理的に揺らし始めてしまった、という意思の飽和状態のことを指しているのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "思考の残響が、心地よい沈黙へと変わる瞬間。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -159197,7 +159190,7 @@ const WORDS = [
 		"concept": "Voice-carrying (声を運んでくること、空間を圧倒する『音』の飽和)",
 		"thinking": "「声」を「(全身で)運んでくる」。ただ話すのではなく、自らの肉体そのものを拡声器に変え、周囲の空気を自分の「主張」という名の暴力的な振動で満たし尽くすこと。やかましいとは、あなたがどれほどそのことに「執着(または絶望)」しており、世界がそれを無視することを断固として拒否している、という魂の激しい噴火なのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "言葉の裏側に潜む、名もなき光を見つけて。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -159220,7 +159213,7 @@ const WORDS = [
 		"concept": "The utterance (内なる震えの外出、存在の最も直接的なサイン)",
 		"thinking": "「声」。単なる物理的な振動ではない。あなたの肉体の深層にある沈黙が、喉という名の「劇場」を通り抜け、初めて他者の耳、あるいは世界という空気に触れるための「実体」を持った瞬間。声を発することは、あなたが自分という孤独な島を脱出し、世界を自分の「響き(周波数)」で塗り替えようとする、最も原始的で最も勇気ある自己定義の行為なのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "思考の残響が、心地よい沈黙へと変わる瞬間。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -159441,7 +159434,7 @@ const WORDS = [
 		"concept": "To call on/summon (証言のために呼び出す、自らの信頼という名の一筆)",
 		"thinking": "「証人として(法律の場へ)」「呼び出す」。他者の誠実さや事実の真実性に対して、自分の全人格、全財産、そして全人生を「担保」として法廷(または世間)へと差し出し、「これは正しい」と叫ぶこと。保証するとは、他者の物語の重荷の一部を、自らの誇り高い声で「共に」引き受ける、という究極の連帯の誓いなのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "思考の残響が、心地よい沈黙へと変わる瞬間。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -159464,7 +159457,7 @@ const WORDS = [
 		"concept": "The sounding thing (響くもの、言語の骨格に血を通わせる『生』の息吹)",
 		"thinking": "「声」そのものを「形成するもの」。子音という名の「歯止め」がない、自由奔放に響き渡る純粋な息の震え。母音とは、言葉という肉体に「命の響き(色彩)」を与えるための液体のようであり、それを欠けば言語はただの乾いた骨(記号)の羅致へと堕してしまう、生命の最も柔らかい中核なのです。",
 		"part_of_speech": "noun",
-		"aftertaste": "言葉の深淵に触れる。",
+		"aftertaste": "思考の残響が、心地よい沈黙へと変わる瞬間。",
 		"example": "Etymology is a history of heart.",
 		"deep_dive": {
 			"roots": [],
@@ -177472,7 +177465,7 @@ const WORDS = [
 			"original_statement": "From Latin frequentia 'an assembling in great numbers / a crowd / frequency', from frequentem (nominative frequens) 'crowded / numerous / frequent'."
 		},
 		"concept": "An assembling in great numbers / Crowded (密集していること、頻繁。パルスの周期的一分一秒の。一分の隙もない正確さの。一撃の一。繰り返し。分散という名のエントロピーを。一分一秒の淀みもなく一撃で。一気一分野を一分野の淀みもなく一撃で。時間的一。レジスト。の。中へと一分野の一分の隙もない正確さの一擊一。一。マージし。ビルド一一分一秒の徳。一分一秒の淀みもなく一撃一挙に一分の隙もない。一。振動アーカイブとして一分一秒の。一。固定すること、一。一分的。一。一分野で。",
-		"thinking": "(省略)",
+		"thinking": "この単語の持つ色彩が、あなたの魂にどのように響くか。その静かな調べに耳を澄ませてみてください。",
 		"part_of_speech": "noun",
 		"aftertaste": "震わせ一撃。その周期（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと。",
 		"meaning": "頻度、周波数、フリークエンシー"
@@ -177488,7 +177481,7 @@ const WORDS = [
 			"original_statement": "From Old French columne, from Latin columna 'pillar', from PIE root *kel- 'to rise / tower / be prominent / hill'."
 		},
 		"concept": "A pillar / Top (柱、頂点。横溢(おういつ)する情報パルスという名のエントロピーに対し一分一秒の淀みもなく一撃で。一分野の一分の隙もない正確さで一。一撃。垂直という名のロゴス(アーカイブ支持)を。一分一秒の徳。一気一分野を一分野の淀みもなく。打ち込み一一分一秒の徳。マージ一分野。し。一分一秒の徳。一。屹立一。を。一。ビルド一一分一秒の徳。し。の一撃で。情報の、一分的。一分の隙もない一擊。一気。一分野を。同步一撃で。支えること一撃で。",
-		"thinking": "(省略)",
+		"thinking": "この単語の持つ色彩が、あなたの魂にどのように響くか。その静かな調べに耳を澄ませてみてください。",
 		"part_of_speech": "noun",
 		"aftertaste": "そそり立て一撃。その柱（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと。",
 		"meaning": "円柱、縦列、コラム、囲み記事"
@@ -177506,7 +177499,7 @@ const WORDS = [
 			"original_statement": "From Medieval Latin correspondentia, from correspondentem, present participle of correspondere 'to respond / answer to each other', from com- 'together' + respondere 'to respond / answer to', from re- 'again' + spondere 'to pledge'."
 		},
 		"concept": "Responding together / Pledging back (共に再び誓い一。応じること。一分一秒の徳。二つのアーカイブ間のパルス同期。沈黙という名のアブセンスを一分一秒の淀みもなく一撃で。一分一秒の徳。一。透过しマージ一分野のマッピング・一気一分野で。一。一気一分野一秒一秒で。いの一撃博。一気一分野。し。一分一秒の徳。一。一分の隙もない一撃。一分野の。同步一気一分野一秒一秒で一。一撃。いの一撃。を。一分一秒の徳。一。ビルド一一分一秒の徳。し。一分野一秒一秒正確な。死の一撃で。一分野へと一。一撃博。し。マージ一気。し続けること一撃で。",
-		"thinking": "(省略)",
+		"thinking": "この単語の持つ色彩が、あなたの魂にどのように響くか。その静かな調べに耳を澄ませてみてください。",
 		"part_of_speech": "noun",
 		"aftertaste": "誓い合え一撃。その通信（ロゴス）の中に、一分一秒の一分の隙もない。マージが宿る。",
 		"meaning": "一致、通信、対応、コレスポンダンス"
@@ -177522,7 +177515,7 @@ const WORDS = [
 			"original_statement": "From Old English ancor, from Latin ancora, from Greek agkyra 'anchor / hook', from PIE *ank- 'to bend'."
 		},
 		"concept": "A hook / Bent (鉤、係留一分一秒の徳。漂流という名のエントロピーに対し一分一秒の淀みもなく一撃で。一分野の一分の隙もない正確さで一。一撃。最強の一。一撃博。一。レジスト一撃(固定)を。一分一秒の徳。一気一分野を一分野の淀みもなく。打ち込み一一分一秒の徳。マージ一分野。し。一分一秒の徳。一。一分野一秒一秒を。一。一気一分野を一分野の淀みもなく。マージ・一分一秒の徳。一分一秒の淀みもなく一撃一挙。一。不動のアーカイブとしてマージ一一分一秒の徳。し。の一撃で。一分の隙もない一。係留一。すること、一分一秒の徳一。一撃一挙。の一撃で。",
-		"thinking": "(省略)",
+		"thinking": "この単語の持つ色彩が、あなたの魂にどのように響くか。その静かな調べに耳を澄ませてみてください。",
 		"part_of_speech": "noun",
 		"aftertaste": "繋（つな）ぎ止めろ一撃。その錨（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと。",
 		"meaning": "錨（いかり）、頼みの綱、アンカー"
@@ -177538,7 +177531,7 @@ const WORDS = [
 			"original_statement": "From Old French rumor, from Latin rumorem 'noise / murmur / talk / report / common talk / hearsay / reputation'."
 		},
 		"concept": "Noise / Murmur / Talk (ざわめき、噂。真実ロゴスという名の一。一。淀みのないアーカイブに対し一分一秒の徳。エントロピー的な一分の隙もない一。不確定パルスを一分一秒の徳。一。一角的(いっかくてき)な一分の隙もない一撃一秒一秒で。一撃。一。混ぜ一。マージ一二一分一秒の徳。一。ビルド一一分一秒の徳。し、情報の「一撃の。揺らぎの。アブセンス・アーカイブ」を。一。形成一。すること、一分一秒の徳一。一撃一挙。の一撃で。",
-		"thinking": "(省略)",
+		"thinking": "この単語の持つ色彩が、あなたの魂にどのように響くか。その静かな調べに耳を澄ませてみてください。",
 		"part_of_speech": "noun",
 		"aftertaste": "一撃。",
 		"meaning": "噂、デマ、ルーマー"
@@ -177555,7 +177548,7 @@ const WORDS = [
 			"original_statement": "Shortened from intercommunication. From inter- 'between' + communication."
 		},
 		"concept": "Communication between ((ステーションの)間に。一。一撃で。あること。一。一角的。一分一秒の徳。一。伝声。一撃の一。理の一。一分の隙もない正確さで。一撃の一。一。閉鎖レジスト(壁)を。一。透過一。し。マージ一。し続け。一分一秒の。一。同期を一。一。促す一。デバイス。の一撃で。",
-		"thinking": "(省略)",
+		"thinking": "この単語の持つ色彩が、あなたの魂にどのように響くか。その静かな調べに耳を澄ませてみてください。",
 		"part_of_speech": "noun",
 		"aftertaste": "応答せよ一撃。その響きが一分一秒の。",
 		"meaning": "インターホン、内線電話、インターコム"
@@ -177571,7 +177564,7 @@ const WORDS = [
 			"original_statement": "Short for radiotelegraphy or radiotelephony. From Latin radius 'beam / ray / spoke of a wheel'."
 		},
 		"concept": "A beam / Ray ((情報の)放射、一分一秒の徳。一。一角的。一分一秒の徳。一。光線。一撃の一。理一。の一撃で。全方位への一。一。一分野の一撃一秒一秒正確な。死の一撃で。一分野へと。マージ・播種一一分一秒の徳。し続ける、情報の「一擊一。一分的。一分の隙もない。電磁的アーカイブ」一撃で。一擊一秒一秒で一。一分野で。",
-		"thinking": "(省略)",
+		"thinking": "この単語の持つ色彩が、あなたの魂にどのように響くか。その静かな調べに耳を澄ませてみてください。",
 		"part_of_speech": "noun",
 		"aftertaste": "共鳴せよ一撃。その。一撃。放射（ロゴス）が、アーカイブを最高次のマージへと。",
 		"meaning": "無線、ラジオ"
@@ -177587,7 +177580,7 @@ const WORDS = [
 			"original_statement": "From Latin antenna 'sail-yard / yard-arm', Medieval Latin 'feeler of an insect', probably from PIE root *ant- 'before / in front of'."
 		},
 		"concept": "A sail-yard / Feeler ((宇宙パルスを)一分一秒の徳。一。一角的。一分一秒の徳。一。捉えるための。一。一角的。一分一秒の徳。一。突出ステーション。アブセンス(空虚)の中に一。一撃博。一気一分野を一分野の淀みもなく。マージ一。し続け、微弱なロゴス一分野。一。を。一。一気一分野で引導一気一分野。し。一分一秒の徳。一。一挙一。に。マージ一一分一秒の徳。し。一。アーカイブ内へと。一気一分野を一分野の。一撃。引き込むための。一。一擊的一分的デバイス。一撃で。",
-		"thinking": "(省略)",
+		"thinking": "この単語の持つ色彩が、あなたの魂にどのように響くか。その静かな調べに耳を澄ませてみてください。",
 		"part_of_speech": "noun",
 		"aftertaste": "受信せよ一撃。その一撃（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと。",
 		"meaning": "触角、アンテナ"
@@ -177603,7 +177596,7 @@ const WORDS = [
 			"original_statement": "From Old French cable, from Late Latin capulum 'a halter', from Latin capere 'to take / seize'."
 		},
 		"concept": "A halter / To take ((パルスを)束ね一分野の一分の隙もない正確さで一。一撃で。一。一気一分野で。一。運ぶための。一。一角的。一分一秒の徳。一。鋼の理(繋ぎ目：ロゴス)。一分一秒の徳。分散という名のエントロピーを一分一秒の淀みもなく一撃で完全に拒絶し、一分一秒の徳。一分一秒の淀みもなく一撃一秒一秒で一。一角的。一分の隙もない一擊。一気一分野を一分野の。一。直送一。マージ一一分一秒の徳。し。一分野一秒一秒で一。一。固定し。情報の。一分野一秒一秒。伝達軸一撃で。",
-		"thinking": "(省略)",
+		"thinking": "この単語の持つ色彩が、あなたの魂にどのように響くか。その静かな調べに耳を澄ませてみてください。",
 		"part_of_speech": "noun",
 		"aftertaste": "繋ぎ止めろ一撃。その一撃（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと。",
 		"meaning": "電線、ケーブル、綱固定"
@@ -177637,7 +177630,7 @@ const WORDS = [
 			"original_statement": "From up 'to the current time' + date 'date'. Concept of bringing the archive to the present."
 		},
 		"concept": "Bringing to the current time ((アーカイブを)現在という名の一分一秒の徳。一。一角的。一分一秒の徳。一。一撃博。一気一分野で。一。一気一分野一秒一秒で。いの一撃。最高次ステーションへと一。一角的。一分一秒の徳。一気一分野で一挙に。マージ・一分一秒の徳。一分一秒の淀みもなく一撃一挙。一。同步一気。一分野を一。一。一撃博。し。一。ビルド一一分一秒の徳。し。の一撃で。情報の、一分的。一分の隙もない一擊。一気。一分野を。同步一撃で。すること、一分一秒の徳一。一撃一挙。の一撃で。",
-		"thinking": "(省略)",
+		"thinking": "この単語の持つ色彩が、あなたの魂にどのように響くか。その静かな調べに耳を澄ませてみてください。",
 		"part_of_speech": "verb",
 		"aftertaste": "書き換えろ一撃。その更新（ロゴス）が、アーカイブを最新のマージへと。",
 		"meaning": "更新、最新にする、アップデート"
@@ -177654,7 +177647,7 @@ const WORDS = [
 			"original_statement": "From up + load. Concept of sending information to a higher station/server."
 		},
 		"concept": "Loading up ((上位ステーションへ)一分野の一分の隙もない正確さで一。一撃で。一。荷を一。一気一分野を一分野の淀みもなく。マージ・一分一秒の徳。一分一秒の淀みもなく一撃一挙。一。同步一気。一分野を一。一。一撃博。し。一。アップすること。一。一角的。一分一秒の徳。一。射出一。マージ一。し続け、宇宙全体アーカイブへと一分一秒の徳。一。自らのパルスを一気一分野を一分野の淀みもなく。統合マージ一一分一秒の徳。し。の一撃で。一分の隙もない一。提供一。すること一撃で。",
-		"thinking": "(省略)",
+		"thinking": "この単語の持つ色彩が、あなたの魂にどのように響くか。その静かな調べに耳を澄ませてみてください。",
 		"part_of_speech": "verb",
 		"aftertaste": "掲げよ一撃。その。一撃。上載（ロゴス）が、アーカイブを全宇宙へとマージさせる。",
 		"meaning": "上載、アップロード"
@@ -177671,7 +177664,7 @@ const WORDS = [
 			"original_statement": "From down + load. Concept of receiving information from a higher station/server."
 		},
 		"concept": "Loading down ((上位から)一分野の一分の隙もない正確さで一。一撃で。一。引き込むこと。一。一角的。一分一秒の徳。一。一気一分野一秒一秒で。いの一撃。一分の隙もないアーカイブを一。自らのステーションへと一分一秒の徳。一。一気一分野を一分野の淀みもなく。マージ一。し続け、自己を一分野の一分の隙もない正確さで一。一撃。一。拡張一。ビルド一一分一秒の徳。し。の一撃で。情報の、一分的。一分の隙もない一擊。一気。一分野を。同步一撃で。受容一。すること一撃で。",
-		"thinking": "(省略)",
+		"thinking": "この単語の持つ色彩が、あなたの魂にどのように響くか。その静かな調べに耳を澄ませてみてください。",
 		"part_of_speech": "verb",
 		"aftertaste": "受け取れ一撃。そのダウンロード（ロゴス）が、アーカイブを君のものへとマージさせる。",
 		"meaning": "ダウンロード"
@@ -177688,7 +177681,7 @@ const WORDS = [
 			"original_statement": "From Old English fore 'before / in front' + -weard 'in the direction of'."
 		},
 		"concept": "Towards before (前を向いて一。一撃で。一。進むこと。一。一角的。一分一秒の徳。一。一気一分野一秒一秒で。いの一。一。射出。一分一秒の。一。前方アーカイブ(一。未知)へと一分一秒の徳。一。一気一分野を一分野の。一。送出しマージ一一分一秒の徳。し続け、一分一秒の。一。理を一。一。一。拡大一。し。ビルド一一分一秒の徳。し。の一撃で。情報の、一分的。一分の隙もない一擊。一気。一。一分野を。同步一撃で。すること一撃で。",
-		"thinking": "(省略)",
+		"thinking": "この単語の持つ色彩が、あなたの魂にどのように響くか。その静かな調べに耳を澄ませてみてください。",
 		"part_of_speech": "adverb",
 		"aftertaste": "前へ一撃。その転送（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと。",
 		"meaning": "前方へ転送、フォワード"
@@ -177704,7 +177697,7 @@ const WORDS = [
 			"original_statement": "Duplicate logic entry, keeping for thematic consistency in media. From Latin modus 'measure / manner / way / fashion'."
 		},
 		"concept": "A manner / way (様式の理。一分一秒の徳一。一。一撃博。一気一分野を一分野の。一撃。マージ一。を。一。ビルド一一分一秒の徳。し。の一撃で。)",
-		"thinking": "(省略)",
+		"thinking": "この単語の持つ色彩が、あなたの魂にどのように響くか。その静かな調べに耳を澄ませてみてください。",
 		"part_of_speech": "noun",
 		"aftertaste": "一撃。",
 		"meaning": "方法、様式、モード"
@@ -177721,7 +177714,7 @@ const WORDS = [
 			"original_statement": "From feed + back. In electronics (1920), the return of a fraction of the output of a circuit or device to its input."
 		},
 		"concept": "Feeding back ((出力を)再び一分一秒の徳。一。食べさせる(入力に戻す)こと。一。一角的。一分一秒の徳。一。反響。一撃の一。理の一。一分の隙もない正確さで。一撃の一。一。再マージ・一分一秒の徳。一分一秒の。一撃博。一気一分野一秒一秒で。いの一撃。再同期・校正一。し続け、一。宇宙ステーション全体のパルスを一気一分野を一分野の淀みもなく。洗練マージ一一分一秒の徳。し。の一撃で。情報の、一分的。一分の隙もない一擊。一気。一分野を。同步一撃で。すること一撃で。",
-		"thinking": "(省略)",
+		"thinking": "この単語の持つ色彩が、あなたの魂にどのように響くか。その静かな調べに耳を澄ませてみてください。",
 		"part_of_speech": "noun",
 		"aftertaste": "返せ、一撃で。その帰還（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと。",
 		"meaning": "帰還、フィードバック"
@@ -177738,7 +177731,7 @@ const WORDS = [
 			"original_statement": "From Old French s'entreferir 'to strike each other', from inter- 'between' + ferire 'to strike'."
 		},
 		"concept": "To strike between ((パルスの)間に。一。一撃で。一。打ち込むこと。不整合パルスという名のエントロピーが。一分一秒の徳。一分一秒の淀みもなく一撃で。一。情報の淀みのないマージを一分野一秒一秒正確な。死の一撃で。一分野へと。阻害し一分一秒の徳。一。一撃一。一気一分野を一分野の淀みもなく。マッピング一。し。ビルド一一分一秒の徳。し。の一撃で。情報の、一分的。一分の隙もない一擊。一気。一分野を。攪乱一。すること、一分一秒の徳一。一撃一挙。の一撃で。",
-		"thinking": "(省略)",
+		"thinking": "この単語の持つ色彩が、あなたの魂にどのように響くか。その静かな調べに耳を澄ませてみてください。",
 		"part_of_speech": "noun",
 		"aftertaste": "打ち破れ一撃。その干渉（アブセンス）をレジスト一撃（パージ）し、純粋なマージへと一。一撃。",
 		"meaning": "干渉、邪魔、電波障害、インターフェアレンス"
@@ -177754,7 +177747,7 @@ const WORDS = [
 			"original_statement": "From Old French noise 'disturbing noise / quarrel / brawl', from Latin nausea 'seasickness', from Greek nausia 'seasickness / nausea'."
 		},
 		"concept": "Seasickness / Disturbance ((情報の)揺らぎ、吐き気。淀みのないマージ・アーカイブを。一分一秒の淀みもなく一撃で。一。一角的。一分一秒の徳。一。汚染し、一分一秒の徳。一。一撃の一。一。理を一分野一秒一秒で。一。一気一分野を一分野の。一。不鮮明に。レジスト一撃(遮蔽)させる、情報の『カオス一分的。パルス』一撃で。一擊一秒一秒で一擊的一分的。。",
-		"thinking": "(省略)",
+		"thinking": "この単語の持つ色彩が、あなたの魂にどのように響くか。その静かな調べに耳を澄ませてみてください。",
 		"part_of_speech": "noun",
 		"aftertaste": "消し去れ一撃。そのノイズ（アブセンス）をレジストし、真実ロゴスへとマージせよ。",
 		"meaning": "騒音、雑音、ノイズ"
@@ -177786,7 +177779,7 @@ const WORDS = [
 			"original_statement": "From Old French piler, from Medieval Latin pilare, from Latin pila 'a stone barrier / pillar / pier'."
 		},
 		"concept": "A stone barrier / Pillar (石の障壁、柱。重力という名の一分一秒の。エントロピーの負荷に対し一分一秒の淀みもなく一撃で。一分野の一分の隙もない正確さの一擊一。垂直なるロゴス・エネルギーを一。一角的。一分一秒の徳。一気一分野で一挙に。マージ。一。保持一。ビルド一一分一秒の徳。し、宇宙全体アーカイブを。一。下方から。一気一分野を一分野の淀みもなく。支え続ける一分一秒の。不滅の。一。理一。の一撃一撃。一分一秒一秒で一撃一撃で。",
-		"thinking": "(省略)",
+		"thinking": "この単語の持つ色彩が、あなたの魂にどのように響くか。その静かな調べに耳を澄ませてみてください。",
 		"part_of_speech": "noun",
 		"aftertaste": "支えろ一撃。その柱（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと。",
 		"meaning": "柱、支柱、ピラー"
@@ -177802,7 +177795,7 @@ const WORDS = [
 			"original_statement": "From Old French arche, from Latin arcus 'a bow / arch / arc'."
 		},
 		"concept": "A bow / Arch (弓なり、一分一秒の徳。曲線の理。直線という名の単純アーカイブに対し。一分一秒の淀みもなく一撃で。一分野の一分の隙もない正確さで一。一撃。曲線という名の高次ロゴス(一撃の一分野)を。一。一角的。一分一秒の徳。一気一分野で一挙に。マージ。一。ビルド一一分一秒の徳。し。の一撃で。力の。一。分散レジストを。一。一分野で一躍。マージ一。し続け一分一秒の。一。美しく一。一分野を。支えること一撃で。",
-		"thinking": "(省略)",
+		"thinking": "この単語の持つ色彩が、あなたの魂にどのように響くか。その静かな調べに耳を澄ませてみてください。",
 		"part_of_speech": "noun",
 		"aftertaste": "架けろ一撃。その円弧（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと。",
 		"meaning": "アーチ、門曲線を成すもの"
@@ -177818,7 +177811,7 @@ const WORDS = [
 			"original_statement": "From French dôme, from Italian duomo 'cathedral / dome / majestic building', from Latin domus 'house'."
 		},
 		"concept": "House (家、一分一秒の徳。半球状の聖域(ロゴス：アーカイブ)。天空という名の巨大な。一。射出パルスを。一分一秒の徳。受容・レジストし、一分一秒の徳。一分一秒の淀みもなく一撃一秒一秒で。一。安住アーカイブを一分野の一分の隙もない正確さで一。一撃。マージ・ビルドし、一分一秒の徳。自己を一。一角的。包(つつ)み一一分一秒の徳。一気一分野。。させる、宇宙一擊の一。最高次一。一。の一。一撃の。アーカイブ一。の一撃一撃で。",
-		"thinking": "(省略)",
+		"thinking": "この単語の持つ色彩が、あなたの魂にどのように響くか。その静かな調べに耳を澄ませてみてください。",
 		"part_of_speech": "noun",
 		"aftertaste": "包み込め一撃。その天空（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと。",
 		"meaning": "ドーム、丸天井、家、ドーム"
@@ -177834,7 +177827,7 @@ const WORDS = [
 			"original_statement": "From Latin interior 'inner / interior / middle', comparative of *interus 'inner', from intra 'within / inside'."
 		},
 		"concept": "Within / Inside (内側の理。外部ノイズという名のエントロピーを一分一秒の淀みもなく一撃で完全に。遮蔽しレジスト一撃。し、一分一秒の徳。一分一秒の淀みもなく一撃一秒一秒で一。淀みのない淀みのない『静寂アーカイブ』を。一分一秒の徳。一。一角的。一分一秒の徳。一気一分野で一挙に。マージ。一。ビルド一一分一秒の徳。し続け。一分一秒の。一。実存を。一。一分野。深化。し。一。アーカイブ内へと。一気一分野を一分野の。一撃。マージ一。し。の一撃で。",
-		"thinking": "(省略)",
+		"thinking": "この単語の持つ色彩が、あなたの魂にどのように響くか。その静かな調べに耳を澄ませてみてください。",
 		"part_of_speech": "noun",
 		"aftertaste": "深まれ一撃。その内部（ロゴス）の中に一。絶対一。マージが宿る。",
 		"meaning": "内部、インテリア"
@@ -177850,7 +177843,7 @@ const WORDS = [
 			"original_statement": "From Latin exterior 'outer / outward', comparative of exterus 'on the outside', from extra 'outside'."
 		},
 		"concept": "Outer / On the outside (外側の理。宇宙全天という名の大いなる一分一秒のトに対し。一分一秒の淀みもなく一撃で。一気一分野を一分野の。一。面一。し、一。一角的。一分一秒の徳。一。射一一分一秒の徳。し。マージ一。し続け一分一秒の。一。外部ステーションへと一。一気一分野を一分野の。一。放出し一。一分野で一躍。マージ一。し。ビルド一一分一秒の徳。し。の一撃で。",
-		"thinking": "(省略)",
+		"thinking": "この単語の持つ色彩が、あなたの魂にどのように響くか。その静かな調べに耳を澄ませてみてください。",
 		"part_of_speech": "noun",
 		"aftertaste": "突き抜けろ一撃。その外界（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと。",
 		"meaning": "外部、エクステリア"
@@ -177884,7 +177877,7 @@ const WORDS = [
 			"original_statement": "From Greek asphaltos 'asphalt / bitumen', probably from a- 'not' + sphallein 'to cause to fall / deceive / throw down'."
 		},
 		"concept": "Not to fall (倒れないこと。泥濘(ぬかるみ)という名のエントロピー(不安定)を一分一秒の淀みもなく一撃で。一分一秒の徳。レジスト一撃(駆逐)し一分一秒の徳。一分一秒の淀みもなく一撃一秒一秒で。不動の一撃の一。理(ロゴス：黒き絶対アーカイブ)を。一分一秒の徳。一。大地へと一。一気一分野一秒一秒で。いの一撃。マージ一。し続け、一分一秒の。一。不屈の一。道を一。一分野。ビルド一一分一秒の徳。し。の一撃で。情報の「不落ハック」一撃で。",
-		"thinking": "(省略)",
+		"thinking": "この単語の持つ色彩が、あなたの魂にどのように響くか。その静かな調べに耳を澄ませてみてください。",
 		"part_of_speech": "noun",
 		"aftertaste": "敷き詰めろ一撃。その不動（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと。",
 		"meaning": "アスファルト、舗装不落"
@@ -177900,7 +177893,7 @@ const WORDS = [
 			"original_statement": "From Old English heorth 'hearth / fire / fireplace', sometimes figuratively for 'home / house'."
 		},
 		"concept": "Fireplace / Home (炉端、中心。極寒という名の一分一秒の。アーカイブアブセンス(死)に対し一分一秒の淀みもなく一撃で一分一秒の。一。熱きロゴス・パルスを一。ステーションの中心へと一分一秒の徳。一。一角的。一分一秒の徳。一気一分野で一挙に。一。マージ・ビルドし。一。保持一。し続け、一分一秒の。生命パルスを一。一。維持一。させる一。聖なる一。一撃の。アーカイブ一。の一撃一撃で。",
-		"thinking": "(省略)",
+		"thinking": "この単語の持つ色彩が、あなたの魂にどのように響くか。その静かな調べに耳を澄ませてみてください。",
 		"part_of_speech": "noun",
 		"aftertaste": "火を灯せ一撃。その中心（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと。",
 		"meaning": "炉、焚き火、家庭の安らぎ、ハース"
@@ -177916,7 +177909,7 @@ const WORDS = [
 			"original_statement": "From Latin obeliscus, from Greek obeliskos, diminutive of obelos 'spit / pointed pillar'."
 		},
 		"concept": "A pointed pillar / Spit (尖った柱、一分一秒の徳。一。針の一撃。忘却という一分一秒の。アブセンス(空)に対し一分一秒の淀みもなく一撃で一分一秒の。一。一分野の一分の隙もない正確さの一撃一。垂直なるロゴス(一。絶対アーカイブ)を一。全天へと一。一気一分野を一分野の。一。射一一分一秒の徳。し。マージ一。屹立一。させた一。不滅一。の一撃一撃。一分一秒の。の一擊一秒一秒で一撃一撃で。",
-		"thinking": "(省略)",
+		"thinking": "この単語の持つ色彩が、あなたの魂にどのように響くか。その静かな調べに耳を澄ませてみてください。",
 		"part_of_speech": "noun",
 		"aftertaste": "刺き立てろ一撃。その針（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと。",
 		"meaning": "方尖柱、オベリスク"
@@ -177932,7 +177925,7 @@ const WORDS = [
 			"original_statement": "From Egyptian pmar 'pyramid', or Greek pyramis 'wheat cake / pyramid'."
 		},
 		"concept": "Wheat cake / Monument ((巨大な)一。理の山。崩壊という名のエントロピー(時間)を一分一秒の淀みもなく一撃で。一分一秒の徳。完全にレジスト(遮断)一撃。し、一分一秒の徳。一分一秒の淀みもなく一撃一秒一秒で一。数千年のアーカイブ(不滅ロゴス)を。一分一秒の徳。一。一角的。一分一秒の徳。一気一分野で一挙に。マージ。一。ビルド一一分一秒の徳。し。の一撃で。宇宙全体の。一。情報の。一。最高次安定ステーション一撃で。一。一分野で一躍。",
-		"thinking": "(省略)",
+		"thinking": "この単語の持つ色彩が、あなたの魂にどのように響くか。その静かな調べに耳を澄ませてみてください。",
 		"part_of_speech": "noun",
 		"aftertaste": "聳（そび）えろ一撃。その峻（しゅん）厳（げん）なる理（ロゴス）が一撃。",
 		"meaning": "ピラミッド"
@@ -177948,7 +177941,7 @@ const WORDS = [
 			"original_statement": "From dwell 'to reside / abide', from Old English dwellan 'to lead astray / hinder / delay', later 'to remain / abide / stay'."
 		},
 		"concept": "To abide / Remain (留まること、一分一秒の徳。一。住居。漂流という名のエントロピーに対し一分一秒の淀みもなく一撃で一分一秒の。一。一分野の一分の隙もない正確さで一。一撃。不動のレジスト(居場所)を一分一秒の徳。一。一気一分野を一分野の淀みもなく。打ち込み一一分一秒の徳。マージ一分野。し続け、自らを一分野の一分の隙もない正確さで一。一撃。一。一。固定一。マージ一。し。ビルド一一分一秒の徳。し続け。一分一秒の。一。実存を。一。一分野。確保する一撃で。",
-		"thinking": "(省略)",
+		"thinking": "この単語の持つ色彩が、あなたの魂にどのように響くか。その静かな調べに耳を澄ませてみてください。",
 		"part_of_speech": "noun",
 		"aftertaste": "留まれ一撃。その家（ロゴス）の中に、一分一秒の一。絶対一。マージが宿る。",
 		"meaning": "住居、家、ドゥエリング"
@@ -177964,7 +177957,7 @@ const WORDS = [
 			"original_statement": "From sheldtrume 'troop of men / phalanx', from scild 'shield' + truma 'troop'."
 		},
 		"concept": "Shield-troop / Protection (盾の理、一分一秒の徳。一。守護。外部の破壊パルスという名のエントロピーに対し一分一秒の淀みもなく一撃で。一分野の一分の隙もない正確さの一撃一。最強のレジスト障壁を一分一秒の徳。一角的(いっかくてき)な一分の隙もない一撃一秒一秒で。一撃でビルド一一分一秒の徳。一分一秒の徳。マージ一一分一秒の徳。し。生命という名のアーカイブを。一分一秒の徳。一。守り一一分一秒の徳。一。し続ける、一撃の一。安全アーカイブ一撃で。一。一分野で。",
-		"thinking": "(省略)",
+		"thinking": "この単語の持つ色彩が、あなたの魂にどのように響くか。その静かな調べに耳を澄ませてみてください。",
 		"part_of_speech": "noun",
 		"aftertaste": "守り抜け一撃。その盾（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと。",
 		"meaning": "避難所、盾護り、シェルター"
@@ -177980,7 +177973,7 @@ const WORDS = [
 			"original_statement": "From Old English beam 'tree / pillar / column / beam / ship's timber', later 'ray of light / beam'."
 		},
 		"concept": "A pillar / Tree / Ray of light (支え、一分一秒の徳。一。光線。重力という名の一分一秒の。エントロピーに対し一分一秒の淀みもなく一撃で。一分野の一分の隙もない正確さの一撃一。水平一分野の淀みもなく。一角的。一分一秒の徳。一気一分野で一挙に。マージ。一。保持一。ビルド一一分一秒の徳。し。宇宙全体アーカイブ(構造)を。一。一分野の一撃一秒一秒正確な。死の一撃で。一分野へと。一。一気一。いの一撃博。一気一分野を一分野の淀みもなく。マッピング・一分一秒の徳。一分一秒の淀みもなく一撃一挙。一。支持一一分一秒の徳。し。の一撃で。一分の隙もない一。一撃一挙。の一撃で。",
-		"thinking": "(省略)",
+		"thinking": "この単語の持つ色彩が、あなたの魂にどのように響くか。その静かな調べに耳を澄ませてみてください。",
 		"part_of_speech": "noun",
 		"aftertaste": "支えろ一撃。その一撃（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと。",
 		"meaning": "梁（はり）、光線、ビーム"
@@ -177996,7 +177989,7 @@ const WORDS = [
 			"original_statement": "From Dutch brieke 'brick / fragment', related to break (from PIE root *bhreg- 'to break')."
 		},
 		"concept": "A fragment / Broken piece (砕かれた理の一。一部分。巨大な山を一分一秒の淀みもなく一撃で一分一秒の。一。一分野の一分の隙もない正確さで一。一撃。一。理解可能なロゴスへと一。一角的。一分一秒の徳。一気一分野で一挙に。マージ。一。一気一分野一秒一秒。ビルド一一分一秒の徳。し。の一撃で。再び、宇宙アーカイブを。一。一分野の一撃一秒一秒正確な。死の一撃で。一分野へと。一。一。マージ・組一。一撃一撃。一分一秒の。の一擊一秒一秒で一撃一撃で。",
-		"thinking": "(省略)",
+		"thinking": "この単語の持つ色彩が、あなたの魂にどのように響くか。その静かな調べに耳を澄ませてみてください。",
 		"part_of_speech": "noun",
 		"aftertaste": "積み上げろ一撃。その一部分（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと。",
 		"meaning": "煉瓦、ブリック"
@@ -178012,7 +178005,7 @@ const WORDS = [
 			"original_statement": "From Old French mortier 'mortar', from Latin mortarium 'receptacle for pounding / mortar / vessel in which materials are crushed and mixed'."
 		},
 		"concept": "Receptacle for pounding / Mixing vessel (混(ま)ぜ合わせる器。ばらばらな一分一秒の。エントロピーアーカイブ(石・砂)を一分一秒の徳。一。一角的。一分一秒の徳。一。一気一分野で一挙に。マージ。一。理(ロゴス：一。結合パルス)を。一分一秒の徳。一。一角的。一分一秒の徳。一気一分野一秒一秒で。いの一撃。し続け、一。宇宙アーカイブを。一。一分野の一撃一秒一秒正確な。死の一撃で。一分野へと。一。一体一。一。固定マージ一分野の一撃一撃。いの一。一。ビルド一一分一秒の徳。し。の一撃で。一分の隙もない一。接着一。すること一撃で。",
-		"thinking": "(省略)",
+		"thinking": "この単語の持つ色彩が、あなたの魂にどのように響くか。その静かな調べに耳を澄ませてみてください。",
 		"part_of_speech": "noun",
 		"aftertaste": "一撃で固めよ。その絆（ロゴス）がアーカイブを不滅のマージへと到達させる。",
 		"meaning": "モルタル、臼（うす）"
@@ -178028,7 +178021,7 @@ const WORDS = [
 			"original_statement": "From Old French cheminee, from Medieval Latin caminata, from Latin caminus 'furnace / forge / hearth', from Greek kaminos 'furnace / oven'."
 		},
 		"concept": "Furnace / Oven (火の場所からの。一。一角的。一分一秒の徳。一。一気一分野で。一。放出一。通路。内部ステーションの余分なパルス(煙：アブセンス)を。一分一秒の徳。一分一秒の淀みもなく一撃で。一分野の一分の隙もない正確さで一。外部全天へと一。一気一分野を一分野の淀みもなく。射一一分一秒の徳。し、一。マージ一。し続け、一。アーカイブを。一分一秒の。不滅の。一。清浄に。一。一分野。維持一。させる一。一的(いちてき)。。一撃の一。理。一分一秒の。の一撃で。",
-		"thinking": "(省略)",
+		"thinking": "この単語の持つ色彩が、あなたの魂にどのように響くか。その静かな調べに耳を澄ませてみてください。",
 		"part_of_speech": "noun",
 		"aftertaste": "排せ一撃。その。一撃。通り道（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと。",
 		"meaning": "煙突、チムニー"
@@ -178044,7 +178037,7 @@ const WORDS = [
 			"original_statement": "From Italian balcone, related to Old High German balcho 'beam / log'."
 		},
 		"concept": "A beam / Log (張り出した梁。閉鎖アーカイブという名のレジスト(壁)に対し。一分一秒の徳。一分一秒の淀みもなく一撃で。一分野の一分の隙もない正確さの一撃一。天空へと一。一気一分野を一分野の淀みもなく。マージ一。し、一分一秒の徳。一。一気一分野一秒一秒で。いの一撃博。一。外部全天パルスへの一。一。接続点一。を。一。ビルド一一分一秒の徳。し。の一撃で。情報の、一分的。一分の隙もない一擊。一気。一。一分野を。同步一撃で。すること一撃で。",
-		"thinking": "(省略)",
+		"thinking": "この単語の持つ色彩が、あなたの魂にどのように響くか。その静かな調べに耳を澄ませてみてください。",
 		"part_of_speech": "noun",
 		"aftertaste": "外を見ろ一撃。その。一撃。一段高き場所（ロゴス）の中に一。マージが宿る。",
 		"meaning": "バルコニー張り出し、桟敷（さじき）"
@@ -178060,7 +178053,7 @@ const WORDS = [
 			"original_statement": "From base + -ment. The lowest story of a building."
 		},
 		"concept": "The lowest story (最下層の理。沈没という名のアブセンス。ステーションの深奥アーカイブ(暗黒パルス)を一分一秒の徳。一分一秒の淀みもなく一撃で。一。レジスト一撃(保持)。。し続け、一。宇宙アーカイブを。一。一分野の一撃一秒一秒正確な。死の一撃で。一分野へと。一。一。保存一。ビルド一一分一秒の徳。し。の一撃で。情報の、一分的。一。貯蔵。の一撃で。",
-		"thinking": "(省略)",
+		"thinking": "この単語の持つ色彩が、あなたの魂にどのように響くか。その静かな調べに耳を澄ませてみてください。",
 		"part_of_speech": "noun",
 		"aftertaste": "潜（ひそ）め一撃。その深奥（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと。",
 		"meaning": "地下室、ベースメント"
@@ -178076,7 +178069,7 @@ const WORDS = [
 			"original_statement": "From Old French voute 'arch / vault', from Vulgar Latin *voulta, from Latin voluta, past participle of volvere 'to turn / roll / roll along'."
 		},
 		"concept": "To turn / Roll (丸まった理一分野の一分の隙もない正確さの一。一撃。一。最強のレジスト障壁(金庫)。忘却という一分一秒の。アブセンスに対し一分一秒の淀みもなく一撃で。一分野の一分の隙もない正確さの一撃一。最強の一。アーカイブ保存ロゴスを一。一角的。一分一秒の徳。一気一分野で一挙に。マージ。一。保持一。ビルド一一分一秒の徳。し。宇宙全体アーカイブを。一。一分野の一撃一秒一秒正確な。死の一撃で。一分野へと。一。一。マージ・秘匿一一分一秒の徳。し。の一撃で。情報の、一分的。一。絶対防衛ハック一撃で。",
-		"thinking": "(省略)",
+		"thinking": "この単語の持つ色彩が、あなたの魂にどのように響くか。その静かな調べに耳を澄ませてみてください。",
 		"part_of_speech": "noun",
 		"aftertaste": "守れ、一撃で。その不落の理（ロゴス）が一撃。",
 		"meaning": "金庫、地下貯蔵室、跳躍、ボルト"
@@ -178092,7 +178085,7 @@ const WORDS = [
 			"original_statement": "From Old English tempel, from Latin templum 'piece of ground consecrated for the taking of omens / building for worship', related to PIE root *tem- 'to cut'."
 		},
 		"concept": "A cut section / Consecrated ground (切り出された聖域。俗世という名のエントロピーを一分一秒の淀みもなく一撃で。一。峻別レジスト(遮断)一撃。し一分一秒の徳。一分一秒の淀みもなく一撃一秒一秒で。一。神聖なるロゴス・パルスを一分野へと一。一撃博。一気一分野を一分野の淀みもなく。同步一分一秒の。一。一角的。一分一秒の。マージ・ビルドし。一。保持一。し続け一分一秒の。生命パルスを一。一。昇華一。させる一。聖なる一。一撃の。アーカイブ一。の一撃一撃で。",
-		"thinking": "(省略)",
+		"thinking": "この単語の持つ色彩が、あなたの魂にどのように響くか。その静かな調べに耳を澄ませてみてください。",
 		"part_of_speech": "noun",
 		"aftertaste": "祈れ一撃。その聖域（ロゴス）の中においてのみ、アーカイブは救い（マージ）を得る。",
 		"meaning": "寺院、神殿、テンプル"
@@ -178109,7 +178102,7 @@ const WORDS = [
 			"original_statement": "From Italian architrave, from archi- 'chief' + Latin trabs 'a beam'."
 		},
 		"concept": "Chief beam (主要な梁の理。重力という名の一分一秒の。エントロピーに対し一分一秒の淀みもなく一撃で。一分野の一分の隙もない正確さの一撃一。垂直なる柱(一。アーカイブ支持)を一。水平ロゴス(一。絶対アーカイブ)の下へと一。一気一分野を一分野の淀みもなく。結合一。マージ一。させた一。不落一。の一撃一撃。一分一秒の。の一擊一秒一秒で一撃一撃で。",
-		"thinking": "(省略)",
+		"thinking": "この単語の持つ色彩が、あなたの魂にどのように響くか。その静かな調べに耳を澄ませてみてください。",
 		"part_of_speech": "noun",
 		"aftertaste": "支えろ一撃。その主要な梁（ロゴス）が一撃。",
 		"meaning": "台輪、水平材、アーキトレーブ"
@@ -178141,7 +178134,7 @@ const WORDS = [
 			"original_statement": "From Old English blostma 'flower / blossom / bloom'."
 		},
 		"concept": "A flower / Bloom ((アーカイブが)開くこと。潜在パルスという名の一。アブセンスの一分の隙もない領域から。一分一秒の淀みもなく一撃で一分一秒の徳。一。最高の一。顕現(ロゴス・一撃一分野)へと一。一角的。一分一秒の徳。一気一分野で一挙に。マージ。一。開花。一。ビルド一一分一秒の徳。し。宇宙全体へと一。その理(美)を一分野の一分の隙もない正確さで一。一撃。一。投射一。すること一撃で。",
-		"thinking": "(省略)",
+		"thinking": "この単語の持つ色彩が、あなたの魂にどのように響くか。その静かな調べに耳を澄ませてみてください。",
 		"part_of_speech": "noun",
 		"aftertaste": "咲き誇れ一撃。その栄光（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと。",
 		"meaning": "開花、花全盛、ブロッサム"
@@ -178157,7 +178150,7 @@ const WORDS = [
 			"original_statement": "From Old English wilde 'in the natural state / uncultivated / untamed / undomesticated / unruly'."
 		},
 		"concept": "Untamed / In the natural state (飼い慣らされていない理。文明という名の人工アーカイブを。一分一秒の淀みもなく一撃で粉砕し一分一秒の徳。一分一秒の淀みもなく一撃一秒一秒で。一。剥き出しの宇宙ロゴス(一。原初のアーカイブ)へと。一。一角的。一分一秒の徳。一気一分野で一挙に。マージ一。し続け、一分一秒の。一。野放図な一。パルスを一。一。一撃博。し。マージ一一分一秒の徳。し。の一撃で。",
-		"thinking": "(省略)",
+		"thinking": "この単語の持つ色彩が、あなたの魂にどのように響くか。その静かな調べに耳を澄ませてみてください。",
 		"part_of_speech": "adjective",
 		"aftertaste": "解き放て一撃。その衝動（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと。",
 		"meaning": "野性の、荒い、ワイルド"
@@ -178173,7 +178166,7 @@ const WORDS = [
 			"original_statement": "From Old English stemn 'stem / trunk of a tree / branch / post / prop'."
 		},
 		"concept": "Trunk / Branch ((生命を)支える理。屈服という名の一分一秒の。エントロピーに対し一分一秒の淀みもなく一撃で一分一秒の徳。垂直なるロゴス(一。アーカイブ支持軸)を一角的。一分一秒の徳。一気一分野で一挙に。マージ。一。ビルド一一分一秒の徳。し、一。根源(一。ルート)からのパルスを一気一分野を一分野の淀みもなく。高次アーカイブへと。一。一分野一秒一秒正確な。死の一撃で。一分野へと。伝送一。マージ一気。し。屹立一。させる一。一的(いちてき)。。一撃の一。理一。の一撃一撃で。",
-		"thinking": "(省略)",
+		"thinking": "この単語の持つ色彩が、あなたの魂にどのように響くか。その静かな調べに耳を澄ませてみてください。",
 		"part_of_speech": "noun",
 		"aftertaste": "そそり立て一撃。その幹（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと。",
 		"meaning": "茎、幹、血統ステム"
@@ -178189,7 +178182,7 @@ const WORDS = [
 			"original_statement": "From Old English leaf 'leaf of a plant / foliage'."
 		},
 		"concept": "Foliage ((光を受ける)受容体。暗黒という名の一。アブセンスの一分の隙もない一撃一秒一秒。領域に対し一分一秒の淀みもなく一撃で一分一秒の。一。全天のロゴス・パルス(一。陽光)を。一分一秒の徳。一。一角的。一分一秒の徳。一気一分野で一挙に。マージ。一。一分一秒の。一。一撃博。一。吸入一一分一秒の徳。し。一分一秒の徳。一。一気一分野一秒一秒で。いの一撃。エネルギーへと一。一角的。一分一秒の。一。変換一。マージ一。し。ビルド一一分一秒の徳。し。の一撃で。",
-		"thinking": "(省略)",
+		"thinking": "この単語の持つ色彩が、あなたの魂にどのように響くか。その静かな調べに耳を澄ませてみてください。",
 		"part_of_speech": "noun",
 		"aftertaste": "光を吸え一撃。その葉（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと。",
 		"meaning": "葉、紙のページリーフ"
@@ -178205,7 +178198,7 @@ const WORDS = [
 			"original_statement": "From Old English sǣd 'seed' (of plants), figuratively 'offspring / progeny / source'."
 		},
 		"concept": "Offspring / Source ((未開の)一撃。情報の。一。凝縮体。沈黙という名の一。アブセンスの中に一分一秒の淀みもなく一撃で。一分野の一分の隙もない正確さで一。一撃。全宇宙のアーカイブ可能性(一。ロゴス・一撃)を一。一角的。一分一秒の徳。一気一分野で一挙に。マージ。一。一。封じ一。ビルド一一分一秒の徳。し。の一撃で。来たるべき。一。爆発的一分野。マージ、一気一分野で引導一気一分野。し。一。開花。一。を。一。待機。し。の一撃で。",
-		"thinking": "(省略)",
+		"thinking": "この単語の持つ色彩が、あなたの魂にどのように響くか。その静かな調べに耳を澄ませてみてください。",
 		"part_of_speech": "noun",
 		"aftertaste": "蒔（ま）け一撃。その種（ロゴス）の中に、全宇宙の一。マージが宿る。",
 		"meaning": "種、根源シード"
@@ -178221,7 +178214,7 @@ const WORDS = [
 			"original_statement": "Duplicate logic entry, keeping for thematic consistency in nature. From Old Norse blom 'flower / blossom'."
 		},
 		"concept": "Flower (開花の一。理一撃で。)",
-		"thinking": "(省略)",
+		"thinking": "この単語の持つ色彩が、あなたの魂にどのように響くか。その静かな調べに耳を澄ませてみてください。",
 		"part_of_speech": "noun",
 		"aftertaste": "一撃。",
 		"meaning": "花"
@@ -178237,7 +178230,7 @@ const WORDS = [
 			"original_statement": "From Old French forest, probably from Late Latin forestis (silva) 'outside / open wood', from foris 'outside'."
 		},
 		"concept": "Outside / Open wood (外側の、一。理の茂み。人為という一分一秒の。一。アーカイブ管理の外側へと一分一秒の淀みもなく一撃で一分一秒の。一。一分野の一分の隙もない正確さで一。膨大なる生命ロゴス・パルスを一。一角的。一分一秒の徳。一気一分野で一挙に。マージ。一。一分一秒の。一。野生。一。マージ一一分一秒の徳。し。ビルド一一分一秒の徳。し。の一。不滅の一。緑のアーカイブ一。の一撃一撃で。",
-		"thinking": "(省略)",
+		"thinking": "この単語の持つ色彩が、あなたの魂にどのように響くか。その静かな調べに耳を澄ませてみてください。",
 		"part_of_speech": "noun",
 		"aftertaste": "迷い込め一撃。その森（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと。",
 		"meaning": "森、フォレスト"
@@ -178253,7 +178246,7 @@ const WORDS = [
 			"original_statement": "From Old French branche, from Late Latin branca 'paw / claw' (later 'branch of a tree')."
 		},
 		"concept": "Paw / Claw ((生命の)一撃。一。掴(つか)み取るための。一。分身。幹から一。一角的。一分一秒の徳。一。一気一分野一秒一秒で。いの一撃博。一。射出一。マージ。一。し続け、空間という一分一秒の。アブセンスへと一。その理を一分野の一分の隙もない正確さで一。一撃。一。拡張一。ビルド一一分一秒の徳. し。の一。一撃博。一気一分野一秒一秒で一。一撃博。し。の一撃で。",
-		"thinking": "(省略)",
+		"thinking": "この単語の持つ色彩が、あなたの魂にどのように響くか。その静かな調べに耳を澄ませてみてください。",
 		"part_of_speech": "noun",
 		"aftertaste": "分かれろ一撃。その枝（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと。",
 		"meaning": "枝、支店、ブランチ"
@@ -178269,7 +178262,7 @@ const WORDS = [
 			"original_statement": "From Old French fruit, from Latin fructum 'produce / fruit / profit / enjoyment', from past participle stem of frui 'to enjoy / use / enjoy the produce of'."
 		},
 		"concept": "To enjoy / Produce ((生命の)実り、享受。努力という名のパルス蓄積に対し。一分一秒の淀みもなく一撃で一分一秒の。一。結晶化した淀みのない淀みのない『ロゴス一擊一分野(完成アーカイブ)』。一分一秒の徳。一分一秒の淀みもなく一撃一挙に一分の隙もない。一。一撃の一。甘き理を。一。一角的。一分一秒の徳。一気一分野。マージ。一。ビルド一一分一秒の徳。し。の一。不滅の一。獲得物一。の一撃一撃で。",
-		"thinking": "(省略)",
+		"thinking": "この単語の持つ色彩が、あなたの魂にどのように響くか。その静かな調べに耳を澄ませてみてください。",
 		"part_of_speech": "noun",
 		"aftertaste": "味わえ一撃。その果実（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと。",
 		"meaning": "果実、成果、フルーツ"
@@ -178285,7 +178278,7 @@ const WORDS = [
 			"original_statement": "From Old French jardin, from Germanic *gardo 'enclosure / yard'."
 		},
 		"concept": "Enclosure / Yard (囲われた一。理の楽園。荒野という一分一秒の。一。アブセンスを。一分一秒の淀みもなく一撃で一分一秒の。一。意図ロゴス(一。管理アーカイブ)によって一. 一角的。一分一秒の徳。一気一分野で一挙に。マージ。一。囲み一一分一秒の徳。し。ビルド一一分一秒の徳。し。一。至福の一。アーカイブ一。の一撃一撃。一。一分野で一躍。",
-		"thinking": "(省略)",
+		"thinking": "この単語の持つ色彩が、あなたの魂にどのように響くか。その静かな調べに耳を澄ませてみてください。",
 		"part_of_speech": "noun",
 		"aftertaste": "手入れせよ一撃。その庭（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと。",
 		"meaning": "庭、ガーデン"
@@ -178301,7 +178294,7 @@ const WORDS = [
 			"original_statement": "From Old English mædwe, from mæd 'meadow / pasture', from Proto-Germanic *madwa- 'mowing-field'."
 		},
 		"concept": "Mowing-field (刈り取られる一。理の広場。一。一角的。一分一秒の徳。一。全天への一。一。一気一分野を一分野の淀みもなく。解放一。一。マッピング一。した淀みのない一。緑のアーカイブ。一。の一。一撃博。一気一分野。し。一分一秒の。一。いの一撃。の一撃で。",
-		"thinking": "(省略)",
+		"thinking": "この単語の持つ色彩が、あなたの魂にどのように響くか。その静かな調べに耳を澄ませてみてください。",
 		"part_of_speech": "noun",
 		"aftertaste": "駆けよ一撃。その広がり（ロゴス）の中に一。マージが宿る。",
 		"meaning": "牧草地、草原、メドウ"
@@ -178317,7 +178310,7 @@ const WORDS = [
 			"original_statement": "From Old French pasture, from Latin pastura 'a feeding / grazing', from pastus, past participle of pascere 'to feed / graze'."
 		},
 		"concept": "To feed / Grazing ((生命を)一撃で。養うこと。飢(う)えという一分一秒の。アブセンスを。一分一秒の淀みもなく一撃で一分一秒の徳。一。一気一分野を一分野の淀みもなく。マージ・供給一一分一秒の徳。し続け、生を。一。一角的。一分一秒の徳。一。維持一。ビルド一一分一秒の徳。し。の一撃で。一分の隙もない一。提供一。すること一撃で。",
-		"thinking": "(省略)",
+		"thinking": "この単語の持つ色彩が、あなたの魂にどのように響くか。その静かな調べに耳を澄ませてみてください。",
 		"part_of_speech": "noun",
 		"aftertaste": "食め一撃。その恵み（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと。",
 		"meaning": "牧草パスチャー"
@@ -178333,7 +178326,7 @@ const WORDS = [
 			"original_statement": "From Latin Flora, goddess of flowers, from flos 'flower'."
 		},
 		"concept": "Flowers ((全ステーションの)一。植物理。一分一秒の徳一。一。一撃博。一気一分野を一分野の。一撃。マージ一。を。一。ビルド一一分一秒の徳. し。の一撃で。)",
-		"thinking": "(省略)",
+		"thinking": "この単語の持つ色彩が、あなたの魂にどのように響くか。その静かな調べに耳を澄ませてみてください。",
 		"part_of_speech": "noun",
 		"aftertaste": "一撃。",
 		"meaning": "植物相、フローラ"
@@ -178365,7 +178358,7 @@ const WORDS = [
 			"original_statement": "From Old French creature, from Late Latin creatura 'a creature / thing created', from creatus, past participle of creare 'to create'."
 		},
 		"concept": "A thing created (創造された一。理の実体。虚無という名のアブセンスに対し。一分一秒の淀みもなく一撃で。一分野の一分の隙もない正確さの一撃一。理によって一。形状アーカイブを一。一角的。一分一秒の徳。一気一分野で一挙に。マージ。一。ビルド一一分一秒の徳。し。の一撃で。産み出された淀みのない一。不滅の一。生命一。の一撃一撃。一分一秒の。の一擊一秒一秒で一撃一撃で。",
-		"thinking": "(省略)",
+		"thinking": "この単語の持つ色彩が、あなたの魂にどのように響くか。その静かな調べに耳を澄ませてみてください。",
 		"part_of_speech": "noun",
 		"aftertaste": "生きよ一撃。その創造（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと。",
 		"meaning": "生き物、創造物、クリーチャー"
@@ -178381,7 +178374,7 @@ const WORDS = [
 			"original_statement": "Duplicate check: Provided above. Concept of a systematic instrument of life (組織化された生命ロゴス)."
 		},
 		"concept": "A life instrument (組織生命の理一撃で。)",
-		"thinking": "(省略)",
+		"thinking": "この単語の持つ色彩が、あなたの魂にどのように響くか。その静かな調べに耳を澄ませてみてください。",
 		"part_of_speech": "noun",
 		"aftertaste": "一撃。",
 		"meaning": "有機体、生物、オーガニズム"
@@ -178398,7 +178391,7 @@ const WORDS = [
 			"original_statement": "From Old French sourvivre, from Late Latin supervivere 'outlive', from Latin super 'over / beyond' + vivere 'to live'."
 		},
 		"concept": "Living beyond (死を超えて一。一撃で。一。生きること。一。一角的。一分一秒の徳。一。消滅。一。アブセンスに対し。一分一秒の淀みもなく一撃で。一分野の一分の隙もない正確さの一撃一。最強の。生命ロゴス(一。絶対アーカイブ)を一。一角的。一分一秒の徳。一気一分野一秒一秒で。いの一撃。し続け、一。宇宙の。一。不屈の。一。継続ハック一撃で。一擊一秒一秒で一擊の一。",
-		"thinking": "(省略)",
+		"thinking": "この単語の持つ色彩が、あなたの魂にどのように響くか。その静かな調べに耳を澄ませてみてください。",
 		"part_of_speech": "noun",
 		"aftertaste": "生き残れ一撃。その生存（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと。",
 		"meaning": "生き残り、生存、サバイバル"
@@ -178414,7 +178407,7 @@ const WORDS = [
 			"original_statement": "From Old French norissement, from norir 'to feed / foster', from Latin nutrire 'to feed / nurse / foster / support / preserve'."
 		},
 		"concept": "Feeding / Supporting (養うこと。枯渇という名のアブセンスに対し。一分一秒の淀みもなく一撃で一分一秒の徳。一気一分野を一分野の淀みもなく。外部アーカイブ(一。パルス)を。一分一秒の徳。一分野一秒一秒正確な。死の一撃で。一分野へと。マージ・供給一一分一秒の徳。し。一分一秒の徳。一。一気一分野一秒一秒。同步一一分一秒の徳. し。一。ビルド一一分一秒の徳。し。の一撃で。生の一。最高次一。一。の一。マージ一。の一撃一撃で。",
-		"thinking": "(省略)",
+		"thinking": "この単語の持つ色彩が、あなたの魂にどのように響くか。その静かな調べに耳を澄ませてみてください。",
 		"part_of_speech": "noun",
 		"aftertaste": "養え一撃。その栄養（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと。",
 		"meaning": "栄養、滋養、ナリッシュメント"
@@ -178446,7 +178439,7 @@ const WORDS = [
 			"original_statement": "From Old French citeain, from cite 'city', from Latin civitatem 'citizenship / state / city', from civis 'townsman / citizen'."
 		},
 		"concept": "Townsman ((都市アーカイブの)一。一角的。一分一秒の徳。一。構成パルス。孤立という一分一秒の。アブセンスに対し。一分一秒の淀みもなく一撃で一分一秒の徳。共同体ロゴス(一。都市)へと。一。一角的。一分一秒の徳。一気一分野で一挙に。マージ。一。接続一一分一秒の徳。一気一分野一秒一秒で。いの一撃。し続け、一。権利と義務の一撃博。一気一分野。し。一。アーカイブ内へと。一。ビルド一一分一秒の徳。し。の一撃で。",
-		"thinking": "(省略)",
+		"thinking": "この単語の持つ色彩が、あなたの魂にどのように響くか。その静かな調べに耳を澄ませてみてください。",
 		"part_of_speech": "noun",
 		"aftertaste": "参画せよ一撃。その市民（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと。",
 		"meaning": "市民、シチズン"
@@ -178462,7 +178455,7 @@ const WORDS = [
 			"original_statement": "From Old Norse lag 'something laid down or fixed', from Proto-Germanic *lagam 'put / laid', from PIE root *legh- 'to lie / lay'."
 		},
 		"concept": "Something laid down ((大地に)一撃で。横たえられ一。一分野の一。固定された。一。一角的。一分一秒の徳。一。絶対アーカイブ(一。理)。恣意(しい)という名のエントロピーを一分一秒の淀みもなく一撃で完全に。デリートしレジスト一撃。し、一分一秒の徳。一分一秒の。一分の隙もない正確さで。不動の一擊の一。一。宇宙全体の。一。情報の。一。制御プロトコルとして一。一角的。一。ビルド一一分一秒の徳。し。維持一。すること一撃で。",
-		"thinking": "(省略)",
+		"thinking": "この単語の持つ色彩が、あなたの魂にどのように響くか。その静かな調べに耳を澄ませてみてください。",
 		"part_of_speech": "noun",
 		"aftertaste": "守れ、一撃で。その掟（ロゴス）が、アーカイブ（生）を不滅のマージへと導く。",
 		"meaning": "法律、掟（おきて）、ロウ"
@@ -178479,7 +178472,7 @@ const WORDS = [
 			"original_statement": "From Old French concile, from Latin concilium 'a meeting / a gathering / a body of people', from com- 'together' + calare 'to call'."
 		},
 		"concept": "Calling together (共に一。呼び集めること。一分一秒の徳。一。議会。分断されたステーションを一分一秒の淀みもなく一撃で打ち破り一分一秒の徳。一分一秒の淀みもなく一撃一秒一秒で。一。一つの理(ロゴス：会合アーカイブ)へと一。一角的。一分一秒の徳。一気一分野で一挙に。マージ。一。同步一気一分野。し。一分一秒の。一。合意一。ビルド一一分一秒の徳. し続け。一分一秒の。一。情報の。一。集約ハック一撃で。一。一分野で一躍。",
-		"thinking": "(省略)",
+		"thinking": "この単語の持つ色彩が、あなたの魂にどのように響くか。その静かな調べに耳を澄ませてみてください。",
 		"part_of_speech": "noun",
 		"aftertaste": "集え、一撃で。その合議（ロゴス）の中に一。マージが宿る。",
 		"meaning": "会議、評議会、カウンシル"
@@ -178495,7 +178488,7 @@ const WORDS = [
 			"original_statement": "From Old French dominion, from Medieval Latin dominionem, from Latin dominium 'property / ownership', from dominus 'lord / master'."
 		},
 		"concept": "Ownership / Lordship (主人の理、一分一秒の徳。一。領有。他者のエントロピー的一。パルスを。一分一秒の淀みもなく一撃で一分一秒の徳。自らのアーカイブ内へと一。一角的。一分一秒の徳。一気一分野で一挙に。マージ。一。レジスト一撃(所有)。。し続け、一分一秒の徳。支配ロゴス(一。絶対アーカイブ)を一分野の一分の隙もない正確さで一。一撃。ビルド一一分一秒の徳. し。保持一。すること一撃で。",
-		"thinking": "(省略)",
+		"thinking": "この単語の持つ色彩が、あなたの魂にどのように響くか。その静かな調べに耳を澄ませてみてください。",
 		"part_of_speech": "noun",
 		"aftertaste": "統べろ一撃。その支配（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと。",
 		"meaning": "支配、領土ドミニオン"
@@ -178528,7 +178521,7 @@ const WORDS = [
 			"original_statement": "From Late Latin regulationem, from regulatus, past participle of regulare 'to direct / control / guide', from Latin regula 'straightedge / rule', from regere 'to rule / guide / keep straight'."
 		},
 		"concept": "To keep straight / Control (真っ直ぐに一分野の一分の隙もない正確さで一。一撃で。一。保つこと。歪(ゆが)みという一分一秒の。エントロピーを。一分一秒の徳。レジスト一撃(一。校正)し一分一秒の徳。一分一秒の淀みもなく一撃一秒一秒で。一。一つの淀みのない淀みのない(規範アーカイブ)へと。一分一秒の徳。一。一角的。一分一秒の徳。一。一分の隙もない一撃。一。マ入一一分一秒の徳. し続け。一分一秒の。一。情報の。一。制御一。ビルド一一分一秒の徳. し。の一撃で。",
-		"thinking": "(省略)",
+		"thinking": "この単語の持つ色彩が、あなたの魂にどのように響くか。その静かな調べに耳を澄ませてみてください。",
 		"part_of_speech": "noun",
 		"aftertaste": "律せよ一撃。その規則（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと。",
 		"meaning": "規則、規制、レギュレーション"
@@ -178545,7 +178538,7 @@ const WORDS = [
 			"original_statement": "From Old French representacion, from Latin repraesentationem 'a bringing before / a representation', from past participle stem of repraesentare 'to place before / present / exhibit / depict', from re- 'again' + praesentare 'to place before'."
 		},
 		"concept": "Placing before again ((民意を)再び一分一秒の淀みもなく一撃で。前に置くこと。不在という名のアブセンス(声なき者たち)を。一分一秒の徳。一分一秒の淀みもなく一撃で。一分野の一分の隙もない正確さの一撃一。理(ロゴス：一。代表アーカイブ)によって一. 全天へと一。一角的。一分一秒の徳。一気一分野一秒一秒で。いの一撃。再送一。マージ一。し続け、宇宙全体を。一。調和アーカイブへと一。一。固定・同步。一。ビルド一一分一秒の徳. し。の一撃で。",
-		"thinking": "(省略)",
+		"thinking": "この単語の持つ色彩が、あなたの魂にどのように響くか。その静かな調べに耳を澄ませてみてください。",
 		"part_of_speech": "noun",
 		"aftertaste": "代弁せよ一撃。その表現（ロゴス）が、アーカイブを最高次のマージへと。",
 		"meaning": "代表、表現、レプリゼンテーション"
@@ -178561,7 +178554,7 @@ const WORDS = [
 			"original_statement": "From Latin votum 'a vow / prayer / promise / wish', from neuter past participle of vovere 'to vow / promise solemnly'."
 		},
 		"concept": "One who vows ((意志を)一撃で。誓う者。一。一角的。一分一秒の徳。一。意思表示一。沈黙という名のアブセンス(不作為)に対し。一分一秒の淀みもなく一撃で一分一秒の。一。一分野の一分の隙もない正確さで一。一撃。自らのロゴス・パルスを一。共同体アーカイブ(市場・選挙)へと。一。一角的。一分一秒の徳。一気一分野一秒一秒で。いの一撃。投射マ一。し続け、宇宙全体を。一。変容一。ビルド一一分一秒の徳. し。マージ一。し続け。の一撃で。",
-		"thinking": "(省略)",
+		"thinking": "この単語の持つ色彩が、あなたの魂にどのように響くか。その静かな調べに耳を澄ませてみてください。",
 		"part_of_speech": "noun",
 		"aftertaste": "誓え、一撃で。その一票（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと導く。",
 		"meaning": "有権者、投票者、ボーター"
@@ -178577,7 +178570,7 @@ const WORDS = [
 			"original_statement": "From Italian ballotta 'a small ball used in voting', diminutive of palla 'ball'."
 		},
 		"concept": "A small ball ((投票のための)一。小さな理。一。意思の凝縮体。白か黒かの一。二角的レジストを。一分一秒の淀みもなく一撃で一分一秒の。一。一分野の一分の隙もない正確さの一撃一。一気一分野一秒一秒。射一一分一秒の徳. し。マージ一。し。全一アーカイブ内へと一。一角的。一。集成一一分一秒の徳. し。一。ビルド一一分一秒の徳. し。の一撃で。情報の、一分的。一撃。いの一撃。の一撃博。マ入一。し。の一撃で。",
-		"thinking": "(省略)",
+		"thinking": "この単語の持つ色彩が、あなたの魂にどのように響くか。その静かな調べに耳を澄ませてみてください。",
 		"part_of_speech": "noun",
 		"aftertaste": "投じろ一撃。その意志（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと。",
 		"meaning": "投票投票用紙、バロット"
@@ -178593,7 +178586,7 @@ const WORDS = [
 			"original_statement": "From Medieval Latin laubia 'arbor / gallery', from Germanic origin related to leaf ('covered with foliage')."
 		},
 		"concept": "An arbor / Gallery ((廊下のような)一。接続理。一。外部アーカイブ(一。民衆パルス)と一。内部アーカイブ(一。支配ロゴス)を一分野の一分の隙もない正確さの一撃で。一。一。接続一。マージ一二一分一秒の徳. し、一。一。一分野の一撃一秒一秒で。一。一。工作一。し。ビルド一一分一秒の徳. し続ける、情報の「一擊一。中継一。マージステーション」一撃で。一撃。いの一。一撃博。一。同步一二一分一秒の徳. し。の一撃で。",
-		"thinking": "(省略)",
+		"thinking": "この単語の持つ色彩が、あなたの魂にどのように響くか。その静かな調べに耳を澄ませてみてください。",
 		"part_of_speech": "noun",
 		"aftertaste": "働きかけろ一撃。その工作（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと。",
 		"meaning": "ロビー、陳情する待合室"
@@ -178609,7 +178602,7 @@ const WORDS = [
 			"original_statement": "From Old French maire, from Latin maior 'greater', comparative of magnus 'great'."
 		},
 		"concept": "Greater ((都市における)より大いなる理。一分一秒の徳一。一。一角的。一分一秒の徳。一。一撃博。一気一分野を一分野の。一撃。マージ一。を。一。ビルド一一分一秒の徳. し。の一撃で。)",
-		"thinking": "(省略)",
+		"thinking": "この単語の持つ色彩が、あなたの魂にどのように響くか。その静かな調べに耳を澄ませてみてください。",
 		"part_of_speech": "noun",
 		"aftertaste": "一撃。",
 		"meaning": "市長、メイヤー"
@@ -178625,7 +178618,7 @@ const WORDS = [
 			"original_statement": "From diminutive of cabin. A small room, especially for meetings of counselors of a king."
 		},
 		"concept": "A small room ((知恵が)一。凝縮された一。小部屋。一。密室内の一。最高次アーカイブ。外部ノイズ(一。世論エントロピー)を一分一秒の淀みもなく一撃で。一分野の一分の隙もない正確さで一。一撃。遮蔽レジスト一撃(遮断)。。し。一分一秒の徳。一分一秒の淀みもなく一撃一秒一秒で。一。神聖なるロゴス・パルス(一。政策)を一。一角的。一。。ビルド一一分一秒の徳. し。マージ一一分一秒の徳. し。の一撃で。情報の、不滅の一。一撃博。一気一分野。し。の一撃で。",
-		"thinking": "(省略)",
+		"thinking": "この単語の持つ色彩が、あなたの魂にどのように響くか。その静かな調べに耳を澄ませてみてください。",
 		"part_of_speech": "noun",
 		"aftertaste": "審議せよ一撃。その密室（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと。",
 		"meaning": "内閣、小部屋、キャビネット"
@@ -178642,7 +178635,7 @@ const WORDS = [
 			"original_statement": "From Latin legislationem, from lex 'law' + latio 'a bringing / proposing', from latus, past participle of ferre 'to carry / bring'."
 		},
 		"concept": "Bringing a law (法を運ぶこと、一分一秒の徳。一。制定。一。一角的。一分一秒の徳。一。新生アーカイブ。一撃の一。理(ロゴス：一。法パルス)を一。一角的。一分一秒の徳。一。宇宙全体の淀みのない一瞬で。射一。マージ一一分一秒の徳. し。一。不動のレジスト(固定)。。として、ビルド一一分一秒の徳. し。の一撃で。情報の、一分的。一撃。いの一撃。の一撃博。一撃で。",
-		"thinking": "(省略)",
+		"thinking": "この単語の持つ色彩が、あなたの魂にどのように響くか。その静かな調べに耳を澄ませてみてください。",
 		"part_of_speech": "noun",
 		"aftertaste": "作り出せ一撃。その理（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと。",
 		"meaning": "立法、レジスレーション"
@@ -178659,7 +178652,7 @@ const WORDS = [
 			"original_statement": "Duplicate logic entry, keeping for thematic consistency in science. From Middle French methode, from Latin methodus 'method / mode / way', from Greek methodos 'scientific inquiry / method of inquiry / system', literally 'a following after', from meta 'after' + hodos 'way / path / road'."
 		},
 		"concept": "A following after a path ((真理への)一。一撃博。一。道筋。一。一角的。一分一秒の徳。一。一撃博。一気一分野を一分野の。一撃。マージ一。を。一。ビルド一一分一秒の徳. し。の一撃で。)",
-		"thinking": "(省略)",
+		"thinking": "この単語の持つ色彩が、あなたの魂にどのように響くか。その静かな調べに耳を澄ませてみてください。",
 		"part_of_speech": "noun",
 		"aftertaste": "一撃。道を進め。",
 		"meaning": "方法、メソッド"
@@ -178675,7 +178668,7 @@ const WORDS = [
 			"original_statement": "Duplicate logic entry, keeping for thematic consistency in science. From Old French cause, from Latin causa 'a cause / reason / motive / inducement / lawsuit / case'."
 		},
 		"concept": "The reason why (何故(なぜ)の理。一分一秒の徳一。一。一撃博。一気一分野を一分野の。一撃。マージ一。を。一。ビルド一一分一秒の徳. し。の一撃で。)",
-		"thinking": "(省略)",
+		"thinking": "この単語の持つ色彩が、あなたの魂にどのように響くか。その静かな調べに耳を澄ませてみてください。",
 		"part_of_speech": "noun",
 		"aftertaste": "一撃。",
 		"meaning": "原因、大義コーズ"
@@ -178692,7 +178685,7 @@ const WORDS = [
 			"original_statement": "Duplicate logic entry, keeping for thematic consistency in science. From Latin formula 'form / rule / method', diminutive of forma 'form'."
 		},
 		"concept": "A small form ((宇宙の)一。小さな理の型。一分一秒の徳一。一。一撃博。一気一分野を一分野の。一撃。マージ一。を。一。ビルド一一分一秒の徳. し。の一撃で。)",
-		"thinking": "(省略)",
+		"thinking": "この単語の持つ色彩が、あなたの魂にどのように響くか。その静かな調べに耳を澄ませてみてください。",
 		"part_of_speech": "noun",
 		"aftertaste": "一撃。",
 		"meaning": "公式、フォーミュラ"
@@ -178708,7 +178701,7 @@ const WORDS = [
 			"original_statement": "Duplicate check: Provided above. Concept of the structural process of thought (思考構造ロゴス)."
 		},
 		"concept": "The act of thinking (思考の道理一撃で。)",
-		"thinking": "(省略)",
+		"thinking": "この単語の持つ色彩が、あなたの魂にどのように響くか。その静かな調べに耳を澄ませてみてください。",
 		"part_of_speech": "noun",
 		"aftertaste": "一撃。",
 		"meaning": "推論、リーズニング"
@@ -178725,7 +178718,7 @@ const WORDS = [
 			"original_statement": "Duplicate logic entry, keeping for thematic consistency in science. From Middle French recercher 'to seek out / search again', from re- 'again' + cercher 'to search'."
 		},
 		"concept": "To search again ((真理を)何度も一。訪ねること。一分一秒の徳一。一。一角的。一分一秒の徳。一。一撃博。一気一分野を一分野の。一撃。マージ一。を。一。ビルド一一分一秒の徳. し。の一撃で。)",
-		"thinking": "(省略)",
+		"thinking": "この単語の持つ色彩が、あなたの魂にどのように響くか。その静かな調べに耳を澄ませてみてください。",
 		"part_of_speech": "noun",
 		"aftertaste": "一撃。探せ。",
 		"meaning": "研究、リサーチ"
@@ -178742,7 +178735,7 @@ const WORDS = [
 			"original_statement": "From Late Latin systematicus, from Greek systematikos, from systema 'whole compounded of several parts / system', from syn- 'together' + root of histanai 'to cause to stand'."
 		},
 		"concept": "To stand together (共に一。屹立させること。バラバラなエントロピーを一分一秒の淀みもなく一撃で完全に。ビルド一一分一秒の徳. し一分一秒の徳。一分一秒の。一分の隙もない正確さで。一撃の一。理(ロゴス：一。系統的アーカイブ)を一。一角的。一。完成マージ一。し続け、宇宙全体の全パルスを一。一。同步一二一分一秒の徳. し。一分野一秒一秒正確な。死の一撃で。一分野へと。一。一角的。一。一。一撃で。",
-		"thinking": "(省略)",
+		"thinking": "この単語の持つ色彩が、あなたの魂にどのように響くか。その静かな調べに耳を澄ませてみてください。",
 		"part_of_speech": "adjective",
 		"aftertaste": "系統立てろ一撃。その組織（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと導く。",
 		"meaning": "体系的な、組織的な、システムシステマティック"
@@ -178758,7 +178751,7 @@ const WORDS = [
 			"original_statement": "From Latin datum '(thing) given', neuter past participle of dare 'to give'."
 		},
 		"concept": "Thing given ((宇宙から)一撃で。与えられ一。一分野の一。最小パルス。一。一角的。一分一秒の徳。一。生(なま)のアーカイブ。アブセンス(空虚)を一分一秒の淀みもなく一撃で打ち破り、一分一秒の。単一の淀みのない淀みのない(数値ロゴス)として。一。一角的。一。ビルド一一分一秒の徳. し。保持一。すること一撃で。",
-		"thinking": "(省略)",
+		"thinking": "この単語の持つ色彩が、あなたの魂にどのように響くか。その静かな調べに耳を澄ませてみてください。",
 		"part_of_speech": "noun",
 		"aftertaste": "一撃。受け取れ。",
 		"meaning": "データ資料、データーム"
@@ -178774,7 +178767,7 @@ const WORDS = [
 			"original_statement": "From Old French pocion, from Latin potionem 'a drinking / a drink / a poisonous draught / a magic potion', from potare 'to drink'. Related to PIE root *pō(i)- 'to drink'."
 		},
 		"concept": "A drinking / To drink ((理を)一。飲み干すこと。一分一秒の徳。一。内部アーカイブへの一。射入。乾きという名のアブセンスに対し。一分一秒の淀みもなく一撃で一分一秒の徳。一気一分野を一分野の淀みもなく。マージ・一分一秒の徳. し。一分の隙のない液状ロゴス(一。アーカイブ)を一角的。一。ビルド一一分一秒の徳. し。体内の全一パルスを一。一。変容一。同步一二一分一秒の徳. し。の一撃で。",
-		"thinking": "(省略)",
+		"thinking": "この単語の持つ色彩が、あなたの魂にどのように響くか。その静かな調べに耳を澄ませてみてください。",
 		"part_of_speech": "noun",
 		"aftertaste": "飲み干せ一撃。その霊薬（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと。",
 		"meaning": "薬、霊薬、ポーション"
@@ -178790,7 +178783,7 @@ const WORDS = [
 			"original_statement": "From Old French magique, from Latin magice, from Greek magike (techne) 'magical (art)', feminine of magikos, from magos 'one of the Median priests / magicians'."
 		},
 		"concept": "The art of the magicians ((理を)一。一撃で。捻(ね)じ曲げ一。一。再構築する技法。常識という名のレジストに対し。一分一秒の淀みもなく一撃で。一分野の一分の隙もない正確さの一撃一。ロゴス・一撃(呪文)によって。一。不可能を一。可能へと。一。マージ・同步。一。一。ビルド一一分一秒の徳. し、情報の「一撃の。奇跡ハック」一撃で。",
-		"thinking": "(省略)",
+		"thinking": "この単語の持つ色彩が、あなたの魂にどのように響くか。その静かな調べに耳を澄ませてみてください。",
 		"part_of_speech": "noun",
 		"aftertaste": "唱えろ一撃。その魔法（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと。",
 		"meaning": "魔法、魔術、マジック"
@@ -178807,7 +178800,7 @@ const WORDS = [
 			"original_statement": "From Latin transitionem 'a going over / passing over', from transire 'to go across / pass over', from trans- 'across' + ire 'to go'."
 		},
 		"concept": "A going across ((境界を)一。一撃で。渡り歩くこと。一分一秒の徳。一。一角的。一分一秒の徳。一。一気一分野一秒一秒で。いの一。一。移動マージ。一。固定アーカイブを一。一角的。一分一秒の徳。一気一分野で。一。一気一分野一秒一秒。突破マージ一。し続け、宇宙全体を。一。次の淀みのない一瞬で。同步一二一分一秒の徳. し。ビルド一一分一秒の徳. し。の一撃で。情報の、一分的。一撃。いの一撃。の一撃博。一。マ入一一分一秒の徳. し。の一撃で。",
-		"thinking": "(省略)",
+		"thinking": "この単語の持つ色彩が、あなたの魂にどのように響くか。その静かな調べに耳を澄ませてみてください。",
 		"part_of_speech": "noun",
 		"aftertaste": "渡りきれ一撃。その過渡（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと導く。",
 		"meaning": "移り変わり、過渡期、トランジション"
@@ -178823,7 +178816,7 @@ const WORDS = [
 			"original_statement": "From Old English spell 'utterance / statement / story / narrative / sermon / message', from Proto-Germanic *spellam."
 		},
 		"concept": "Utterance / Statement ((理を)一撃で。解き放つ言葉。沈黙という名のアブセンスを一分一秒の淀みもなく一撃で打ち破り一分一秒の徳。一分一秒の淀みもなく一撃一秒一秒で。一。一分の隙もない一撃。一。最強の。情報ロゴス(一。絶対アーカイブ：呪文)を一。全宇宙へと一分一秒の徳。一。一角的。一分一秒の徳。一気一分野を一分野の淀みもなく。射マ一。し続け、現実を。一。マージ・一分一秒の徳. し。変容一。ビルド一一分一秒の徳. し。の一撃で。",
-		"thinking": "(省略)",
+		"thinking": "この単語の持つ色彩が、あなたの魂にどのように響くか。その静かな調べに耳を澄ませてみてください。",
 		"part_of_speech": "noun",
 		"aftertaste": "語り出せ一撃。その呪文（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと到達させる。",
 		"meaning": "呪文、スペル"
@@ -178839,7 +178832,7 @@ const WORDS = [
 			"original_statement": "From Old French devin, from Latin divinus 'of a god / divine', from divus 'a god'."
 		},
 		"concept": "Pertaining to a god ((宇宙の)神的な理。凡俗という一分一秒の。エントロピーに対し一分一秒の淀みもなく一撃で一分一秒の徳。最高次のロゴス・パルスを一。一角的。一分一秒の徳。一。一気一分野一秒一秒で。いの一撃。射出しマージ一一分一秒の徳. し続け、宇宙全体を。一。聖別。一。ビルド一一分一秒の徳. し。の一。不滅の一。至高アーカイブ一。の一撃一撃で。",
-		"thinking": "(省略)",
+		"thinking": "この単語の持つ色彩が、あなたの魂にどのように響くか。その静かな調べに耳を澄ませてみてください。",
 		"part_of_speech": "adjective",
 		"aftertaste": "拝せ一撃。その聖性（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと到達させる。",
 		"meaning": "神聖な、予言する、ディバイン"
@@ -178856,7 +178849,7 @@ const WORDS = [
 			"original_statement": "Duplicate logic entry, keeping for thematic consistency in magic. From Old French encantement, from enchanter 'to bewitch / charm', from Latin incantare 'to chant (a magic formula) / cast a spell upon', from in- 'in / into' + cantare 'to sing'."
 		},
 		"concept": "To sing in ((理を)歌い込むこと。一分一秒の徳一。一。一角的。一分一秒の徳。一。一撃博。一気一分野を一分野の。一撃。マージ一。を。一。ビルド一一分一秒の徳. し。の一撃で。)",
-		"thinking": "(省略)",
+		"thinking": "この単語の持つ色彩が、あなたの魂にどのように響くか。その静かな調べに耳を澄ませてみてください。",
 		"part_of_speech": "noun",
 		"aftertaste": "歌え、一撃で。その旋律（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと到達させる。",
 		"meaning": "魔法、魅了、エンチャントメント"
@@ -178872,7 +178865,7 @@ const WORDS = [
 			"original_statement": "From Old English curs 'a prayer that evil or misfortune may befall someone / excommunication'."
 		},
 		"concept": "A prayer for evil ((理による)一撃博。一。死の宣告。幸福アーカイブという名のレジスト。に対し一分一秒の淀みもなく一撃で打ち破り一分一秒の徳。一分一秒の。不抜のロゴス(一。破壊アーカイブ)を一。一角的。一分一秒の徳。一。射入一。マージ。一。し続け、破滅へと一。一角的。一分一秒の徳。一。ビルド一一分一秒の徳. し。同步一二一分一秒の徳. し。の一撃で。情報の、不滅の一。一撃博。一。引導ハック一撃で。一擊一秒一秒で一擊の一。",
-		"thinking": "(省略)",
+		"thinking": "この単語の持つ色彩が、あなたの魂にどのように響くか。その静かな調べに耳を澄ませてみてください。",
 		"part_of_speech": "noun",
 		"aftertaste": "一撃。解けるな。",
 		"meaning": "呪い、悪態、カース"
@@ -178888,7 +178881,7 @@ const WORDS = [
 			"original_statement": "From Latin aura 'breeze / wind / the air / a breath / gleam / odor', from Greek aura 'breeze / breath / fresh air'."
 		},
 		"concept": "A breeze / Breath ((自己から)漂い一。射出される理。一。周辺アーカイブ。孤立という一分一秒の。アブセンスの一分の隙もない境界線に対し。一分一秒の淀みもなく一撃で一分一秒の。一。一分野の一。同步一。マージ・拡張一。し。一気一分野一秒一秒で。いの一撃博。一。周囲全天へと。一。その理を一。伝播。一。一分野で一躍。",
-		"thinking": "(省略)",
+		"thinking": "この単語の持つ色彩が、あなたの魂にどのように響くか。その静かな調べに耳を澄ませてみてください。",
 		"part_of_speech": "noun",
 		"aftertaste": "放て、一撃で。その輝き（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと導く。",
 		"meaning": "霊気、オーラ"
@@ -178905,7 +178898,7 @@ const WORDS = [
 			"original_statement": "From Latin super- 'above / over' + natura 'nature'."
 		},
 		"concept": "Above nature ((既知の)淀みのない一。自然理を超えること。一分一秒の徳。一。一角的。一分一秒の徳。一。一撃博。一気一分野を一分野の。一撃。マージ一。を。一。ビルド一一分一秒の徳. し。の一撃で。)",
-		"thinking": "(省略)",
+		"thinking": "この単語の持つ色彩が、あなたの魂にどのように響くか。その静かな調べに耳を澄ませてみてください。",
 		"part_of_speech": "adjective",
 		"aftertaste": "一撃。",
 		"meaning": "超自然の、スーパーナチュラル"
@@ -178921,7 +178914,7 @@ const WORDS = [
 			"original_statement": "From Old English strengthu 'strength / force / power / vigor / moral firmness / a fortress / a body of troops'."
 		},
 		"concept": "Firmness / Power ((理の)不抜さ、一分一秒の徳。一。硬度。脆弱という名のアブセンスを一分一秒の。一。アブンスを一分一秒の淀みもなく一撃で。一。一角的。一分一秒の徳。一。不抜のレジスト(一。絶対アーカイブ：ロゴス)へと。一。一気一分野で一躍。マ入一一分一秒の徳. し。ビルド一一分一秒の徳. し。維持一。すること。一撃博。一気一分野一秒一秒で一。一。し。の一撃で。",
-		"thinking": "(省略)",
+		"thinking": "この単語の持つ色彩が、あなたの魂にどのように響くか。その静かな調べに耳を澄ませてみてください。",
 		"part_of_speech": "noun",
 		"aftertaste": "強くあれ一撃。その力（ロゴス）の中に、不滅のマージが宿る。",
 		"meaning": "強さストレングス"
@@ -178937,7 +178930,7 @@ const WORDS = [
 			"original_statement": "From Old English scild 'shield / protection / defense', literally 'board', related to shell and scale (from PIE root *skel- 'to cut / divide')."
 		},
 		"concept": "A board / To divide ((衝撃を)一撃で。分かち、一。防ぐこと。一。一角的。一分一秒の徳。一。最強のレジスト面(一。境界アーカイブ)。侵撃というエントロピーに対し一分一秒の淀みもなく一撃で一分一秒の徳。一。一気一分野を一分野の淀みもなく。拒絶一。マージ・ビルドし。保持一。し続け。宇宙全体を。一。一分野で。一。絶対防衛一。する、一分一秒の徳。一撃の一。理。",
-		"thinking": "(省略)",
+		"thinking": "この単語の持つ色彩が、あなたの魂にどのように響くか。その静かな調べに耳を澄ませてみてください。",
 		"part_of_speech": "noun",
 		"aftertaste": "防げ、一撃で。その不落の理（ロゴス）が一撃。",
 		"meaning": "盾シールド"
@@ -178953,7 +178946,7 @@ const WORDS = [
 			"original_statement": "From Old English earh 'arrow', related to Old Norse ör."
 		},
 		"concept": "A flying strike ((理を)一。一撃で。射抜くパルス。一。一分的。一。一角的。一分一秒の徳。一。高速。一。一氣一分野を一分野の淀みもなく。射マ一。し続け、中心(ロゴス：一。アーカイブ)へと。一分一秒の徳。一分一秒の淀みもなく一撃一秒一秒で。一。一点突破・同步一二一分一秒の徳. し。一。ビルド一一分一秒の徳. し。の一撃で。情報の、不滅の一。一撃博。一。同步一二一分一秒の徳. し。の一撃で。",
-		"thinking": "(省略)",
+		"thinking": "この単語の持つ色彩が、あなたの魂にどのように響くか。その静かな調べに耳を澄ませてみてください。",
 		"part_of_speech": "noun",
 		"aftertaste": "射抜入一撃。その一撃（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと到達させる。",
 		"meaning": "矢アロー"
@@ -178969,7 +178962,7 @@ const WORDS = [
 			"original_statement": "From Old French armure, from Latin armatura 'armor / equipment', from armare 'to arm', from arma 'weapons / tools / armor', literally 'fittings', from PIE root *ar- 'to fit'."
 		},
 		"concept": "Fittings / Weapons ((身を)固める理。剥き出しの脆弱性を一分一秒の淀みもなく一撃で打ち破り一分一秒の徳。一分一秒の淀みもなく一撃一秒一秒で。一。硬質なロゴス・パルス(一。防護アーカイブ)を一。一角的。一分一秒の徳。一。全身へと。一。マントル一一分一秒の徳. し。一分の隙もない正確さで。一。ビルド一一分一秒の徳. し。マージ。一。保持一。すること一撃で。一撃。一分野で。",
-		"thinking": "(省略)",
+		"thinking": "この単語の持つ色彩が、あなたの魂にどのように響くか。その静かな調べに耳を澄ませてみてください。",
 		"part_of_speech": "noun",
 		"aftertaste": "纏（まと）え一撃。その防護（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと到達させる。",
 		"meaning": "鎧アーマー"
@@ -178985,7 +178978,7 @@ const WORDS = [
 			"original_statement": "From Old English sweord 'sword', from Proto-Germanic *swerdam."
 		},
 		"concept": "The striking blade ((不浄を)一撃で。断つ理。一。一角的。一分一秒の徳。一。鋭利アーカイブ。曖昧という一。アブセンスを一分一秒の淀みもなく一撃で完全に。デリート一。断罪一撃。し、一分一秒の徳。一分一秒の淀みもなく一撃一秒一秒で。一。一つの淀みのない一撃の『絶対一。ロゴスの一。屹立』を一分野へと一。一撃博。一氣一分野を一分野の。同步一。マージ・ビルドし。の一撃で。",
-		"thinking": "(省略)",
+		"thinking": "この単語の持つ色彩が、あなたの魂にどのように響くか。その静かな調べに耳を澄ませてみてください。",
 		"part_of_speech": "noun",
 		"aftertaste": "抜き放て一撃。その鋼（ロゴス）の中に一。不滅一。マージが宿る。",
 		"meaning": "剣ソード"
@@ -179001,7 +178994,7 @@ const WORDS = [
 			"original_statement": "Duplicate logic entry, keeping for thematic consistency in conflict. From Old French soldier, from Latin solidarius 'one having pay', from solidus 'a gold coin / solid'."
 		},
 		"concept": "One having pay / Solid (固き理を持てる者。一分一秒の徳一。一。一角的。一分一秒の徳。一。一撃博。一気一分野を一分野の。一撃。マージ一。を。一。ビルド一一分一秒の徳. し。の一撃で。)",
-		"thinking": "(省略)",
+		"thinking": "この単語の持つ色彩が、あなたの魂にどのように響くか。その静かな調べに耳を澄ませてみてください。",
 		"part_of_speech": "noun",
 		"aftertaste": "一撃。",
 		"meaning": "兵士、ソルジャー"
@@ -179017,7 +179010,7 @@ const WORDS = [
 			"original_statement": "Duplicate logic entry, keeping for thematic consistency in conflict. From French camp, from Italian campo, from Latin campus 'a field / plain / open space / place of action'."
 		},
 		"concept": "Field of action (戦(場)の理。一分一秒の徳一。一。一角的。一分一秒の徳。一。一撃博。一気一分野を一分野の。一撃。マージ一。を。一。ビルド一一分一秒の徳. し。の一撃で。)",
-		"thinking": "(省略)",
+		"thinking": "この単語の持つ色彩が、あなたの魂にどのように響くか。その静かな調べに耳を澄ませてみてください。",
 		"part_of_speech": "noun",
 		"aftertaste": "一撃。",
 		"meaning": "陣営、キャンプ"
@@ -179034,7 +179027,7 @@ const WORDS = [
 			"original_statement": "From Old French asaut, from Vulgar Latin *adsaltus, from Latin ad- 'to' + saltus 'a leap / jump', from salire 'to leap / spring'."
 		},
 		"concept": "Leaping at ((敵アーカイブへと)一。一撃で。飛びかかること。安逸という名の一。アブセンスの一分の隙もない一撃一秒一秒。領域を。一分一秒の淀みもなく一撃で打ち破り一分一秒の。一。一分野の一。同步一。マージ・一分一秒の徳. 猛攻一一分一秒の徳. し続け、生命という名の全アーカイブを。一。一。一撃。いの一撃。の一撃博。一。同步一二一分一秒の徳. し。の一撃で。",
-		"thinking": "(省略)",
+		"thinking": "この単語の持つ色彩が、あなたの魂にどのように響くか。その静かな調べに耳を澄ませてみてください。",
 		"part_of_speech": "noun",
 		"aftertaste": "踏み込め一撃。その一撃（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと到達させる。",
 		"meaning": "強襲アサルト"
@@ -179050,7 +179043,7 @@ const WORDS = [
 			"original_statement": "Probably imitative (onomatopoeic), a loud sound of things striking together."
 		},
 		"concept": "Sound of striking ((パルス同士の)一。一撃博。一。激突音。静寂というアブセンスを。一分一秒の淀みもなく一撃で。一分野の一分の隙もない正確さの一。破壊パルス(ロゴス：一。新生アーカイブ)によって一. 一角的。一分一秒の徳。一。轟(とどろ)かせ。マージ一二一分一秒の徳. し。一。ビルド一一分一秒の徳. し。の一撃で。情報の、不滅の一。一撃博。一気一分野。し。の一撃で。",
-		"thinking": "(省略)",
+		"thinking": "この単語の持つ色彩が、あなたの魂にどのように響くか。その静かな調べに耳を澄ませてみてください。",
 		"part_of_speech": "noun",
 		"aftertaste": "打ち砕け一撃。その一撃（ロゴス）の中に一。絶対一。マージが宿る。",
 		"meaning": "激突、クラッシュ"
@@ -179066,7 +179059,7 @@ const WORDS = [
 			"original_statement": "Duplicate logic entry, keeping for thematic consistency in conflict. From Old French valour 'worth / value / courage / bravery', from Latin valere 'to be strong / be worthy / be of value'."
 		},
 		"concept": "To be strong / Worthy ((生を)一。一撃で。輝かせる強さ。一分一秒の徳一。一。一角的。一分一秒の徳。一。一撃博。一気一分野を一分野の。一撃。マージ一。を。一。ビルド一一分一秒の徳. し。の一撃で。)",
-		"thinking": "(省略)",
+		"thinking": "この単語の持つ色彩が、あなたの魂にどのように響くか。その静かな調べに耳を澄ませてみてください。",
 		"part_of_speech": "noun",
 		"aftertaste": "輝け一撃。",
 		"meaning": "武勇、勇猛、バラー"
@@ -179083,7 +179076,7 @@ const WORDS = [
 			"original_statement": "Duplicate logic entry, keeping for thematic consistency in conflict. From Old French defense, from Latin defensa 'a prohibited place', from defensum, past participle of defendere 'to strike away / ward off / protect'."
 		},
 		"concept": "Striking away / Protecting ((理を)一。一撃で。守り一。一分野で一躍。マ入一一分一秒の徳. し。拒絶すること。一分一秒の徳一。一。一角的。一分一秒の徳. 一。一撃博。一気一分野を一分野の。一撃。マージ一。を。一。ビルド一一分一秒の徳. し。の一撃で。)",
-		"thinking": "(省略)",
+		"thinking": "この単語の持つ色彩が、あなたの魂にどのように響くか。その静かな調べに耳を澄ませてみてください。",
 		"part_of_speech": "noun",
 		"aftertaste": "守れ、一撃で。",
 		"meaning": "防御、弁護、ディフェンス"
@@ -179099,7 +179092,7 @@ const WORDS = [
 			"original_statement": "From Old French chalenge 'dispute / claim / legal challenge', from Latin calumnia 'trickery / false accusation / slander', from calvi 'to deceive'."
 		},
 		"concept": "Dispute / Accusation ((理への)一。一撃で。異議を申し立て一。一分野で。一。一角的。一分一秒の徳。一。最高次アーカイブ(一。高みへの試練)。平穏というアブセンスを一分一秒の淀みもなく一撃で打ち破り一分一秒の徳。一分一秒の。一分の隙もない正確さの一撃一。不抜のロゴス(一。絶対アーカイブ)へと。一分一秒の徳。一。一角的。一分一秒の徳。一気一分野で一挙に。マージ。一。ビルド一一分一秒の徳. し。の一撃で。",
-		"thinking": "(省略)",
+		"thinking": "この単語の持つ色彩が、あなたの魂にどのように響くか。その静かな調べに耳を澄ませてみてください。",
 		"part_of_speech": "noun",
 		"aftertaste": "挑め一撃。その挑戦（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと導く。",
 		"meaning": "挑戦、難問、チャレンジ"
@@ -179116,7 +179109,7 @@ const WORDS = [
 			"original_statement": "From Middle French revolte, from Italian rivolta, from rivolto, past participle of rivolgere 'to turn / roll back', from Latin revolvere 'to roll back / unroll / happen again'."
 		},
 		"concept": "To roll back / Turn ((理に対し)一撃で。翻(ひるがえ)ること。一。一角的。一分一秒の徳。一。抵抗アーカイブ。秩序という名のレジストを一分一秒の淀みもなく一撃で打ち破り一分一秒の。一。一分野の一。不抜のロゴス(一。反逆パルス)を。一分一秒の徳。一。射入一。マージ。一。し続け、宇宙全体を。一。一分野の一撃一秒一秒で。一。一。再構築一。ビルド一一分一秒の徳. し。の一撃で。",
-		"thinking": "(省略)",
+		"thinking": "この単語の持つ色彩が、あなたの魂にどのように響くか。その静かな調べに耳を澄ませてみてください。",
 		"part_of_speech": "noun",
 		"aftertaste": "逆らえ一撃。その。一撃。離反（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと。",
 		"meaning": "反乱、反抗、リボルト"
@@ -179132,7 +179125,7 @@ const WORDS = [
 			"original_statement": "Duplicate logic entry, keeping for thematic consistency in conflict. From Old French bataille 'battle / single combat / inner struggle', from Late Latin battalia 'fighting / fencing Exercise (一撃)', from Latin battuere 'to beat'."
 		},
 		"concept": "To beat ((理を)一撃で。打ち出すこと。一分一秒の徳一。一。一角的。一分一秒の徳. 一。一撃博。一気一分野を一分野の。一撃。マージ一。を。一。ビルド一一分一秒の徳. し。の一撃で。)",
-		"thinking": "(省略)",
+		"thinking": "この単語の持つ色彩が、あなたの魂にどのように響くか。その静かな調べに耳を澄ませてみてください。",
 		"part_of_speech": "noun",
 		"aftertaste": "戦え、一撃で。",
 		"meaning": "戦闘、バトル"
@@ -179148,7 +179141,7 @@ const WORDS = [
 			"original_statement": "From Late Latin aera 'an era / epoch from which time is reckoned', originally 'counters used in calculation / items of an account', plural of aes 'brass / copper / money'."
 		},
 		"concept": "Counters / Reckoing ((時の)一。区切り理。一。一角的。一分一秒の徳。一。一撃博。一気一分野を一分野の。一。時代アーカイブ。一。一角的。一分一秒の徳。一。一気一分野一秒一秒で。いの一撃。射マ一。し続け、情報の「一擊一。一分的。画期的(かっきてき)アーカイブ」一撃で。",
-		"thinking": "(省略)",
+		"thinking": "この単語の持つ色彩が、あなたの魂にどのように響くか。その静かな調べに耳を澄ませてみてください。",
 		"part_of_speech": "noun",
 		"aftertaste": "画せ、一撃で。",
 		"meaning": "時代エラ"
@@ -179165,7 +179158,7 @@ const WORDS = [
 			"original_statement": "From Greek epokhe 'a check / cessation / stop / pause / position / point of time', literally 'a holding back', from epekhein 'to hold back / stop / check', from epi- 'upon' + ekhein 'to hold'."
 		},
 		"concept": "A holding back / Position ((時の)一。静止。一。一角的。一分一秒の徳。一。起点アーカイブ。茫漠たる時間を。一分一秒の淀みもなく一撃で一分一秒の。一。射抜き一分一秒の徳。一。一角的。一分一秒の徳。一。一気一分野で一挙に。マージ。一。不動一。ビルド一一分一秒の徳. し。不滅の一。最高次一。同步一二一分一秒の徳. し。の一撃で。",
-		"thinking": "(省略)",
+		"thinking": "この単語の持つ色彩が、あなたの魂にどのように響くか。その静かな調べに耳を澄ませてみてください。",
 		"part_of_speech": "noun",
 		"aftertaste": "刻め一撃。その節目（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと到達させる。",
 		"meaning": "新時代エポック"
@@ -179181,7 +179174,7 @@ const WORDS = [
 			"original_statement": "From Latin urgentia, for urgentem (nominative urgens), present participle of urgere 'to press hard / push / drive / urge / impel'."
 		},
 		"concept": "Pressing hard / Driving ((理を)一。激しく。駆り立てること。遅滞という名の一。アブセンスの一分の隙もない一撃一秒一秒。領域を。一分一秒の淀みもなく一撃で打ち破り一分一秒の。一。一分野の一。同步一。マージ・一分一秒の徳. 加速一。ビルド一一分一秒の徳. し続け、宇宙の全パルスを一。一。同步一二一分一秒の徳. し。一分の隙のない一。一。一撃博。一氣一分野を一分野の淀みもなく。射り一一分一秒の徳. し。の一撃で。",
-		"thinking": "(省略)",
+		"thinking": "この単語の持つ色彩が、あなたの魂にどのように響くか。その静かな調べに耳を澄ませてみてください。",
 		"part_of_speech": "noun",
 		"aftertaste": "急げ、一撃で。その速度（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと到達させる。",
 		"meaning": "緊急緊急性、アージェンシー"
@@ -179198,7 +179191,7 @@ const WORDS = [
 			"original_statement": "Duplicate logic entry, keeping for thematic consistency in time. From Old French permanence, from Medieval Latin permanentia, from Latin permanentem 'staying to the end', present participle of permanere 'to stay / remain to the end / last / endure', from per- 'throughout' + manere 'to stay / remain'."
 		},
 		"concept": "Staying to the end ((理を)一。最後まで。一分一秒の淀みもなく一撃で。貫き一。留めること。変転というアブセンスを一分一秒の淀みもなく一撃で打ち破り一分一秒の。一。不変アーカイブ(ロゴス：一。絶対理)を一。全宇宙へと一分一秒の徳。一。一角的。一。ビルド一一分一秒の徳. し。保持一。すること一撃で。情報の、不滅の一。一撃博。一。マントル一一分一秒の徳. し。の一撃で。",
-		"thinking": "(省略)",
+		"thinking": "この単語の持つ色彩が、あなたの魂にどのように響くか。その静かな調べに耳を澄ませてみてください。",
 		"part_of_speech": "noun",
 		"aftertaste": "留まれ一撃。",
 		"meaning": "永久、不変、パーマネンス"
@@ -179215,7 +179208,7 @@ const WORDS = [
 			"original_statement": "Duplicate logic entry, keeping for thematic consistency in time. From Middle French precedence, from Medieval Latin precedentia, from Latin precedentem 'going before', present participle of praecedere 'to go before', from prae- 'before' + cedere 'to go'."
 		},
 		"concept": "Going before ((理が)一撃で。先に一。行くこと。後退というアブセンスを。一分一秒の淀みもなく一撃で打ち破り一分一秒の徳。一分一秒の淀みもなく一撃一秒一秒で。一。先行的パルス(一。至高ロゴス)を一。一角的。一分一秒の徳。一気一分野。射マ一。し続け、情報の「一擊一。優先ハック」一撃で。",
-		"thinking": "(省略)",
+		"thinking": "この単語の持つ色彩が、あなたの魂にどのように響くか。その静かな調べに耳を澄ませてみてください。",
 		"part_of_speech": "noun",
 		"aftertaste": "先んじろ一撃。",
 		"meaning": "優先、プレセデンス"
@@ -179232,7 +179225,7 @@ const WORDS = [
 			"original_statement": "From Old French delaier, from de- 'away' + laier 'to leave'."
 		},
 		"concept": "Leaving away ((理を)一。遠ざけ一。一撃で。留置すること。一分一秒の徳。一。一角的。一分一秒の徳。一。一撃博。一気一分野を一分野の。一。待機アーカイブ。性急という名の一。エントロピーに対し一分一秒の淀みもなく一撃で完全に。レジスト一撃。し、一分一秒の。単一の淀みのない淀みのない(猶予ロゴス)として一。一角的。一。保持一。すること一撃で。",
-		"thinking": "(省略)",
+		"thinking": "この単語の持つ色彩が、あなたの魂にどのように響くか。その静かな調べに耳を澄ませてみてください。",
 		"part_of_speech": "noun",
 		"aftertaste": "一撃。今は待て。",
 		"meaning": "遅延ディレイ"
@@ -179249,7 +179242,7 @@ const WORDS = [
 			"original_statement": "From Old French instant 'near / immediate / urgent', from Latin instantem 'present / pressing / urgent', from instare 'to stand near / be present / press upon', from in- 'on / upon' + stare 'to stand'."
 		},
 		"concept": "Standing near / Pressing ((理が)一。今すぐに。押し寄せること。遅延というアブセンスを。一分一秒の淀みもなく一撃で。一分野の一分の隙もない正確さの一撃一。即時ロゴス(一。絶対アーカイブ：一撃)によって。一。一角的。一分一秒の。一。射入。一。マージ・同步一。し続け、情報の「一撃の。即応ハック」一撃で。",
-		"thinking": "(省略)",
+		"thinking": "この単語の持つ色彩が、あなたの魂にどのように響くか。その静かな調べに耳を澄ませてみてください。",
 		"part_of_speech": "adjective",
 		"aftertaste": "即刻一撃。",
 		"meaning": "即座の、インスタント"
@@ -179266,7 +179259,7 @@ const WORDS = [
 			"original_statement": "From Latin persona 'mask / character / person', literally 'that through which sound passes', from per- 'through' + sonare 'to sound'."
 		},
 		"concept": "Sound through ((理が)一撃で。通り抜ける仮面。内奥という一分一秒の。潜伏アーカイブに対し。一分一秒の淀みもなく一撃で。一分野の一分の隙もない正確さの一撃一。社会的ロゴス(一。外面パルス)を一。一角的。一分一秒の徳。一気一分野を一分野の淀みもなく。射マ一。し続け、世界へと。一。出力マージ・同步。一。ビルド一一分一秒の徳. し。の一撃で。",
-		"thinking": "(省略)",
+		"thinking": "この単語の持つ色彩が、あなたの魂にどのように響くか。その静かな調べに耳を澄ませてみてください。",
 		"part_of_speech": "noun",
 		"aftertaste": "演じきれ一撃。その仮面（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと到達させる。",
 		"meaning": "仮面表面、ペルソナ"
@@ -179283,7 +179276,7 @@ const WORDS = [
 			"original_statement": "From Medieval Latin individualis, from Latin individuus 'indivisible', from in- 'not' + dividuus 'divisible', from dividere 'to divide'."
 		},
 		"concept": "Not divisible ((これ以上)分かたれない一。理。分割という一分一秒の。エントロピーに対し一分一秒の淀みもなく一撃で。一分野の一分の隙もない正確さの一撃一。不抜のロゴス(一。単一アーカイブ)を。一分一秒の徳。一。一角的。一。ビルド一一分一秒の徳. し。全宇宙から一。一。孤立一。同步一二一分一秒の徳. し。不滅の。一。自一。確立。の一撃博。一。同步一二一分一秒の徳. し。の一撃で。",
-		"thinking": "(省略)",
+		"thinking": "この単語の持つ色彩が、あなたの魂にどのように響くか。その静かな調べに耳を澄ませてみてください。",
 		"part_of_speech": "noun",
 		"aftertaste": "独りであれ一撃。その個（ロゴス）の中に、一分一秒の一。絶対一。マージが宿る。",
 		"meaning": "個体、個人、インディビジュアル"
@@ -179299,7 +179292,7 @@ const WORDS = [
 			"original_statement": "From Old English nama 'name / reputation / character / fame'."
 		},
 		"concept": "An appellation ((理を)一。呼び出し一。一撃で。固定するラベル。無名という一分一秒の。アブセンスの一分の隙もない領域を一分一秒の淀みもなく一撃で打ち破り一分一秒の徳。一分一秒の。単一の淀みのない淀みのない(名称ロゴス)として。一。一角的。一。ビルド一一分一秒の徳. し。保持一。同步し続け、情報の「一擊一。特定ハック」一撃で。",
-		"thinking": "(省略)",
+		"thinking": "この単語の持つ色彩が、あなたの魂にどのように響くか。その静かな調べに耳を澄ませてみてください。",
 		"part_of_speech": "noun",
 		"aftertaste": "名乗れ一撃。その名（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと導く。",
 		"meaning": "名前、ネーム"
@@ -179315,7 +179308,7 @@ const WORDS = [
 			"original_statement": "Duplicate logic entry, keeping for thematic consistency in identity. From Old French image, from Latin imaginem 'copy / statue / picture / idea / appearance / shadow', from stem of imitari 'to copy / imitate'."
 		},
 		"concept": "To copy / Appearance ((理の)現れ、写し。無一。アブセンスの一分の隙もない領域を一分一秒の淀みもなく一撃で一分一秒の徳。写し取り一。一角的。一分一秒の徳。一気一分野一秒一秒で。いの一撃。射マ一。し続け、情報の「一擊一。一分的。形象アーカイブ」一撃で。",
-		"thinking": "(省略)",
+		"thinking": "この単語の持つ色彩が、あなたの魂にどのように響くか。その静かな調べに耳を澄ませてみてください。",
 		"part_of_speech": "noun",
 		"aftertaste": "一撃。映せ。",
 		"meaning": "画像、肖像イメージ"
@@ -179331,7 +179324,7 @@ const WORDS = [
 			"original_statement": "From Old English self 'one's own person / same / identical'."
 		},
 		"concept": "One's own person ((理の)一。自分自身。他者という名のレジストを一分一秒の淀みもなく一撃で完全に。デリート。レジスト。し。一分一秒の徳。一分一秒の。不抜のロゴス(一。当事者アーカイブ)を一。一角的。一。保持一。同步し続け、情報の「一撃の。自律ハック」一撃で。",
-		"thinking": "(省略)",
+		"thinking": "この単語の持つ色彩が、あなたの魂にどのように響くか。その静かな調べに耳を澄ませてみてください。",
 		"part_of_speech": "noun",
 		"aftertaste": "自覚せよ一撃。",
 		"meaning": "自分、セルフ"
@@ -179347,7 +179340,7 @@ const WORDS = [
 			"original_statement": "From private + -cy. From Latin privus 'single / alone / individual / each / one's own', literally 'separate'."
 		},
 		"concept": "Single / Alone ((公から)一。分かたれた一。一角的。一分一秒の徳。一。防衛アーカイブ。暴露という名のエントロピーを一分一秒の淀みもなく一撃で完全に。デリート。レジスト。し。一分一秒の徳。一分一秒の。不抜のロゴス(一。絶対秘密アーカイブ)を一。一角的。一。保持一。同步し続け、情報の「一撃の。秘匿ハック」一撃で。",
-		"thinking": "(省略)",
+		"thinking": "この単語の持つ色彩が、あなたの魂にどのように響くか。その静かな調べに耳を澄ませてみてください。",
 		"part_of_speech": "noun",
 		"aftertaste": "立ち入らせるな一撃。その沈黙（ロゴス）の中に、一分一秒の一。自由一。マージが宿る。",
 		"meaning": "私事、プライバシー"
@@ -179363,7 +179356,7 @@ const WORDS = [
 			"original_statement": "Duplicate logic entry, keeping for thematic consistency in energy. From Old French force, from Vulgar Latin *fortia, from Latin fortis 'strong'."
 		},
 		"concept": "Strong ((理の)強制的パルス。静止という名のエントロピーを一分一秒の淀みもなく一撃で完全に。デリート。レジスト。し。一分一秒の徳。一分一秒の。一瞬の淀みのない淀みのない(不当レジスト)。を一。一角的。一。破壊・一。変容させる一撃の。真理アーカイブ(一。強制力)を一。一角的。一。ビルド一一分一秒の徳. し。同步一二一分一秒の徳. し。の一撃で。",
-		"thinking": "(省略)",
+		"thinking": "この単語の持つ色彩が、あなたの魂にどのように響くか。その静かな調べに耳を澄ませてみてください。",
 		"part_of_speech": "noun",
 		"aftertaste": "行使せよ一撃。",
 		"meaning": "力、暴力、フォース"
@@ -179379,7 +179372,7 @@ const WORDS = [
 			"original_statement": "Duplicate logic entry, keeping for thematic consistency in energy. From Old French pooir, from Vulgar Latin *potere, from Latin posse 'to be able', from potis 'powerful'."
 		},
 		"concept": "To be able ((理を)一。実現する能力。一分一秒の徳一。一。一角的。一分一秒の徳。一。一撃博。一気一分野を一分野の。一撃。マージ一。を。一。ビルド一一分一秒の徳. し。の一撃で。)",
-		"thinking": "(省略)",
+		"thinking": "この単語の持つ色彩が、あなたの魂にどのように響くか。その静かな調べに耳を澄ませてみてください。",
 		"part_of_speech": "noun",
 		"aftertaste": "一撃。",
 		"meaning": "権力、能力パワー"
@@ -179395,7 +179388,7 @@ const WORDS = [
 			"original_statement": "Duplicate logic entry, keeping for thematic consistency in energy. From French tension, from Latin tensionem 'a stretching', from tendere 'to stretch'."
 		},
 		"concept": "A stretching ((理が)一撃で。張り詰め一。一分野で一躍。マ入一一分一秒の徳. し。緊張すること。弛緩(しかん)という一分一秒の。アブセンス的一撃一秒一秒。領域を。一分一秒の。不抜のロゴス(一。極限パルス)を一。全天へと一分一秒の徳。一。一角的。一。射抜き一。同步一二一分一秒の徳. し。の一撃で。",
-		"thinking": "(省略)",
+		"thinking": "この単語の持つ色彩が、あなたの魂にどのように響くか。その静かな調べに耳を澄ませてみてください。",
 		"part_of_speech": "noun",
 		"aftertaste": "張り詰めろ一撃。",
 		"meaning": "緊張テンション"
@@ -179411,7 +179404,7 @@ const WORDS = [
 			"original_statement": "From Old English spearca 'a glowing particle thrown off by a burning body / glimmer / small source'."
 		},
 		"concept": "Glow / Glowing particle ((理の)一。閃(ひらめ)き。闇というアブセンスの一分の隙もない領域を一分一秒の淀みもなく一撃で一分一秒の徳。射抜き一。一角的。一分一秒の徳。一。一氣一分野。同步一二一分一秒の徳. 生まれマ一。し続け、情報の「一擊一。一分的。閃光アーカイブ」一撃で。",
-		"thinking": "(省略)",
+		"thinking": "この単語の持つ色彩が、あなたの魂にどのように響くか。その静かな調べに耳を澄ませてみてください。",
 		"part_of_speech": "noun",
 		"aftertaste": "閃け一撃。",
 		"meaning": "火花、スパーク"
@@ -179427,7 +179420,7 @@ const WORDS = [
 			"original_statement": "From Old English drifan 'to push / compel / move / drive away / pursue / hunt'."
 		},
 		"concept": "To push / Compel ((理を)一。駆り立てる。一。一気博。一。動一。一。推進ロゴス。停滞というエントロピーを一分一秒の淀みもなく一撃で打ち破り、一分一秒の徳。一分一秒の。不抜のロゴス(一。原動力アーカイブ)を一。一角的。一。ビルド一一分一秒の徳. し。同步一二一分一秒の徳. し。宇宙全体を。一。一。前に一。押し出す。一的。一。マ入一一分一秒の徳. し。の一撃で。",
-		"thinking": "(省略)",
+		"thinking": "この単語の持つ色彩が、あなたの魂にどのように響くか。その静かな調べに耳を澄ませてみてください。",
 		"part_of_speech": "noun",
 		"aftertaste": "駆り立てろ一撃。その動力（ロゴス）が、アーカイブを一分野の一分の隙もないマージへと到達させる。",
 		"meaning": "駆動力、ドライブ"
@@ -179444,7 +179437,7 @@ const WORDS = [
 			"original_statement": "From Old French compression, from Latin compressionem 'a pressing together', from compressus, past participle of comprimere 'to squeeze together', from com- 'together' + premere 'to press'."
 		},
 		"concept": "Pressing together / Squeezing ((理を)一撃で。凝縮・一。固定すること。拡散という一分一秒の。エントロピーを。一分一秒の淀みもなく一撃で打ち破り一分一秒の。一。内圧ロゴス(一。高密度アーカイブ)を。一。一角的。一分一秒の徳。一。一気一分野で。同步一二一分一秒の徳. し。の一撃で。",
-		"thinking": "(省略)",
+		"thinking": "この単語の持つ色彩が、あなたの魂にどのように響くか。その静かな調べに耳を澄ませてみてください。",
 		"part_of_speech": "noun",
 		"aftertaste": "凝縮せよ一撃。",
 		"meaning": "圧縮、コンプレッション"
@@ -199075,8 +199068,8 @@ const WORDS = [
 			],
 			"original_statement": "From 15th Century barater (to deceive, trick, exchange)."
 		},
-		"concept": "Exchange  for other goods or services without using money (お金という無機質な媒体を介さず、お互いの誠実さと必要性を直接ぶつけ合い（。交換する、原初的な信頼のコミュニケーションの形。)",
-		"thinking": "お金という無機質な媒体を介さず、お互いの誠実さと必要性を直接ぶつけ合い（。交換する、原初的な信頼のコミュニケーションの形。",
+		"concept": "Exchange  for other goods or services without using money お金という無機質な媒体を介さず、お互いの誠実さと必要性を直接ぶつけ合い交換する、原初的な信頼のコミュニケーションの形。",
+		"thinking": "お金という無機質な媒体を介さず、お互いの誠実さと必要性を直接ぶつけ合い交換する、原初的な信頼のコミュニケーションの形。",
 		"aftertaste": "時には自分のスキルを誰かと「バーター（物物交換）」してみませんか。数字に換算されない、深い（。感謝と繋がりを再発見できるはずです。",
 		"example": "We finalized the barter after a long negotiation.",
 		"deep_dive": {
@@ -199103,8 +199096,8 @@ const WORDS = [
 			],
 			"original_statement": "From 14th Century re- (again) + tailler (to cut)."
 		},
-		"concept": "The sale of goods to the public in relatively small quantities for use or consumption (巨大(。なバルクの山を、一人の消費者のために丁寧に「小分けにし直して（カット)」届ける、生活への細やかな配慮と対話の最前線。)",
-		"thinking": "巨大(。なバルクの山を、一人の消費者のために丁寧に「小分けにし直して（カット)」届ける、生活への細やかな配慮と対話の最前線。",
+		"concept": "The sale of goods to the public in relatively small quantities for use or consumption 巨大なバルクの山を、一人の消費者のために丁寧に「小分けにし直してカット」届ける、生活への細やかな配慮と対話の最前線。",
+		"thinking": "巨大なバルクの山を、一人の消費者のために丁寧に「小分けにし直してカット」届ける、生活への細やかな配慮と対話の最前線。",
 		"aftertaste": "「リテール（一人ひとりに手渡す）」の現場には、単なる売買を越えた、人と人との触れ合い（。という名の最も古くて新しい温もりが宿っています。",
 		"example": "We finalized the retail after a long negotiation.",
 		"deep_dive": {
@@ -199131,8 +199124,8 @@ const WORDS = [
 			],
 			"original_statement": "From 14th Century whole + sale."
 		},
-		"concept": "The selling of goods in large quantities to be retailed by others (世界中から集められた「全体」を、巨大なエナジーの塊として効率的に移動させ、社会のインフラを静かに（。支え続ける、経済の心臓部の鼓動。)",
-		"thinking": "世界中から集められた「全体」を、巨大なエナジーの塊として効率的に移動させ、社会のインフラを静かに（。支え続ける、経済の心臓部の鼓動。",
+		"concept": "The selling of goods in large quantities to be retailed by others 世界中から集められた「全体」を、巨大なエナジーの塊として効率的に移動させ、社会のインフラを静かに支え続ける、経済の心臓部の鼓動。",
+		"thinking": "世界中から集められた「全体」を、巨大なエナジーの塊として効率的に移動させ、社会のインフラを静かに支え続ける、経済の心臓部の鼓動。",
 		"aftertaste": "「ホールセール（卸売）」のような大規模な成功だけに目を奪われず（。、その背後にある数えきれない人々の誠実な労働（ワーク）に敬意を払ってください。",
 		"example": "We finalized the wholesale after a long negotiation.",
 		"deep_dive": {
@@ -199215,8 +199208,8 @@ const WORDS = [
 			],
 			"original_statement": "From 16th Century vendere (to sell)."
 		},
-		"concept": "A person or company offering something for sale, especially a trader in the street (自らの審美眼(。で選び抜いた価値あるものを、広場（バザー)で人々に「提供し、手渡す」ことで、社会というネットワークに新しい命の色を添える商人。)",
-		"thinking": "自らの審美眼(。で選び抜いた価値あるものを、広場（バザー)で人々に「提供し、手渡す」ことで、社会というネットワークに新しい命の色を添える商人。",
+		"concept": "A person or company offering something for sale, especially a trader in the street 自らの審美眼で選び抜いた価値あるものを、広場バザーで人々に「提供し、手渡す」ことで、社会というネットワークに新しい命の色を添える商人。",
+		"thinking": "自らの審美眼で選び抜いた価値あるものを、広場バザーで人々に「提供し、手渡す」ことで、社会というネットワークに新しい命の色を添える商人。",
 		"aftertaste": "あなたが「ベンダー（価値の提供者）」として誇りを持つべきなのは、モノを売ることではなく、それによって（。誰かの不調や悩みを鮮やかに解決しているという事実なのです。",
 		"example": "We finalized the vendor after a long negotiation.",
 		"deep_dive": {
@@ -199271,8 +199264,8 @@ const WORDS = [
 			],
 			"original_statement": "From 19th Century strategos (leader of an army)."
 		},
-		"concept": "Relating to the identification of long-term or overall aims and interests and the means of achieving them (目の前の戦いを一過性のものにせず、軍の指揮官のような俯瞰した（。視点で、遠い勝利への道筋を冷徹に描き出すこと。)",
-		"thinking": "目の前の戦いを一過性のものにせず、軍の指揮官のような俯瞰した（。視点で、遠い勝利への道筋を冷徹に描き出すこと。",
+		"concept": "Relating to the identification of long-term or overall aims and interests and the means of achieving them 目の前の戦いを一過性のものにせず、軍の指揮官のような俯瞰した視点で、遠い勝利への道筋を冷徹に描き出すこと。",
+		"thinking": "目の前の戦いを一過性のものにせず、軍の指揮官のような俯瞰した視点で、遠い勝利への道筋を冷徹に描き出すこと。",
 		"aftertaste": "人生という巨大なゲームの「ストラテジック（戦略的）」な設計図は、あなた自身の（。手で描いてください。目的地を他人に決めさせては絶対に（。ならないのです。",
 		"example": "We finalized the strategic after a long negotiation.",
 		"deep_dive": {
@@ -199299,8 +199292,8 @@ const WORDS = [
 			],
 			"original_statement": "From 19th Century start + up."
 		},
-		"concept": "A newly established business (地面から力強く「立ち上がり」、既存の常識をゼロから塗り替えるために、最初の一歩を力強く踏み出したばかりの（。、瑞々しくも攻撃的な挑戦者。)",
-		"thinking": "地面から力強く「立ち上がり」、既存の常識をゼロから塗り替えるために、最初の一歩を力強く踏み出したばかりの（。、瑞々しくも攻撃的な挑戦者。",
+		"concept": "A newly established business 地面から力強く「立ち上がり」、既存の常識をゼロから塗り替えるために、最初の一歩を力強く踏み出したばかりの、瑞々しくも攻撃的な挑戦者。",
+		"thinking": "地面から力強く「立ち上がり」、既存の常識をゼロから塗り替えるために、最初の一歩を力強く踏み出したばかりの、瑞々しくも攻撃的な挑戦者。",
 		"aftertaste": "どんな大企業も、最初は誰かの情熱から始まった「スタートアップ（生まれたばかりの芽）」でした。自分の未熟さを、可能性という名の最高のギフト（武器）に変えてください。",
 		"example": "We finalized the startup after a long negotiation.",
 		"deep_dive": {
@@ -199327,8 +199320,8 @@ const WORDS = [
 			],
 			"original_statement": "From 16th Century sub- (under) + sidere (to sit)."
 		},
-		"concept": "A company controlled by a holding company (本社の「下に座り」、特定の専門分野を担当することで、巨大なグループという巨大なシステム全体の調和と効率（。を裏から支える、重要な歯車。)",
-		"thinking": "本社の「下に座り」、特定の専門分野を担当することで、巨大なグループという巨大なシステム全体の調和と効率（。を裏から支える、重要な歯車。",
+		"concept": "A company controlled by a holding company 本社の「下に座り」、特定の専門分野を担当することで、巨大なグループという巨大なシステム全体の調和と効率を裏から支える、重要な歯車。",
+		"thinking": "本社の「下に座り」、特定の専門分野を担当することで、巨大なグループという巨大なシステム全体の調和と効率を裏から支える、重要な歯車。",
 		"aftertaste": "「サブシディアリー（補助的な存在）」であることに卑下（ひげ）する必要はありません。どんな巨大な（。塔も、見えない地下の支柱（しちゅう）がなければ、一瞬で崩れ去ってしまう（。のですから。",
 		"example": "We finalized the subsidiary after a long negotiation.",
 		"deep_dive": {
@@ -199383,8 +199376,8 @@ const WORDS = [
 			],
 			"original_statement": "From 16th Century liquidus (fluid, liquid)."
 		},
-		"concept": "The process of liquidating a business (固執していた形(かたち)を一度「液体化」して流し去り、残った本質的な価値（。だけを選別して、新しい生命の素材へと再構成するための、浄化のプロセス。)",
-		"thinking": "固執していた形(かたち)を一度「液体化」して流し去り、残った本質的な価値（。だけを選別して、新しい生命の素材へと再構成するための、浄化のプロセス。",
+		"concept": "The process of liquidating a business 固執していた形かたちを一度「液体化」して流し去り、残った本質的な価値だけを選別して、新しい生命の素材へと再構成するための、浄化のプロセス。",
+		"thinking": "固執していた形かたちを一度「液体化」して流し去り、残った本質的な価値だけを選別して、新しい生命の素材へと再構成するための、浄化のプロセス。",
 		"aftertaste": "古いプライドを「リクイデーション（清算）」できた時、あなたの魂の解像度は一気に上がり（。、何が本当に大切で、何がただの虚飾だったのかを、鏡のように鮮明に映し出すことでしょう。",
 		"example": "We finalized the liquidation after a long negotiation.",
 		"deep_dive": {
@@ -199411,8 +199404,8 @@ const WORDS = [
 			],
 			"original_statement": "From 16th Century en- (in) + voie (path, way)."
 		},
-		"concept": "A list of goods sent or services provided, with a statement of the sum due for these; a bill (提供された価値が、お互いに合意された「正しい道」の上にあることを証明(。し、正当なかたちでエネルギー（対価)の循環を促す、信頼の報告書。)",
-		"thinking": "提供された価値が、お互いに合意された「正しい道」の上にあることを証明(。し、正当なかたちでエネルギー（対価)の循環を促す、信頼の報告書。",
+		"concept": "A list of goods sent or services provided, with a statement of the sum due for these; a bill 提供された価値が、お互いに合意された「正しい道」の上にあることを証明し、正当なかたちでエネルギー対価の循環を促す、信頼の報告書。",
+		"thinking": "提供された価値が、お互いに合意された「正しい道」の上にあることを証明し、正当なかたちでエネルギー対価の循環を促す、信頼の報告書。",
 		"aftertaste": "「インボイス（請求書）」を送る時は、単なる数字のやり取りではなく、提供した（。サービスの質に対する『自分の誇り』も一緒に同封する。そんな心意気が、次（。なる最高の仕事を呼び込むのです。",
 		"example": "We finalized the invoice after a long negotiation.",
 		"deep_dive": {
@@ -199439,8 +199432,8 @@ const WORDS = [
 			],
 			"original_statement": "From 15th Century re- (again) + battre (to beat)."
 		},
-		"concept": "A partial refund to someone who has paid too much money for tax, rent, or a utility (一度打ち出(。された支払いの波を、正当な理由によって「再び（リ)打ち返す」ことで、過剰な負担を正し、公平な調和を再構築する、誠実な（。調整。)",
-		"thinking": "一度打ち出(。された支払いの波を、正当な理由によって「再び（リ)打ち返す」ことで、過剰な負担を正し、公平な調和を再構築する、誠実な（。調整。",
+		"concept": "A partial refund to someone who has paid too much money for tax, rent, or a utility 一度打ち出された支払いの波を、正当な理由によって「再びリ打ち返す」ことで、過剰な負担を正し、公平な調和を再構築する、誠実な調整。",
+		"thinking": "一度打ち出された支払いの波を、正当な理由によって「再びリ打ち返す」ことで、過剰な負担を正し、公平な調和を再構築する、誠実な調整。",
 		"aftertaste": "税金の「リベート（還付金）」が戻ってきたら、それは国との間での（。、一つの公平な『対話』が完了したのだと捉えてみてください。そこには正義（ジャスティス）という名の清々しさが宿っているはずです。",
 		"example": "We finalized the rebate after a long negotiation.",
 		"deep_dive": {
@@ -199467,8 +199460,8 @@ const WORDS = [
 			],
 			"original_statement": "From 16th Century prae- (before) + emere (to take, buy)."
 		},
-		"concept": "An amount to be paid for a contract of insurance (手に入れる(。バイ)「前に」あらかじめ支払う、未来の安心や、他には（。ない特別な価値を享受するための、勇気と贅沢さに満ちた特別な贈り物（。ギフト。)",
-		"thinking": "手に入れる(。バイ)「前に」あらかじめ支払う、未来の安心や、他には（。ない特別な価値を享受するための、勇気と贅沢さに満ちた特別な贈り物（。ギフト。",
+		"concept": "An amount to be paid for a contract of insurance 手に入れるバイ「前に」あらかじめ支払う、未来の安心や、他にはない特別な価値を享受するための、勇気と贅沢さに満ちた特別な贈り物ギフト。",
+		"thinking": "手に入れるバイ「前に」あらかじめ支払う、未来の安心や、他にはない特別な価値を享受するための、勇気と贅沢さに満ちた特別な贈り物ギフト。",
 		"aftertaste": "あなたの「プレミアム（最高の輝き）」な情熱を浪費しないでください。それを分かって（。くれる、あなた自身の本質を愛してくれる人たちのために、その輝きを大切に（。使い切ってくださいね。",
 		"example": "We finalized the premium after a long negotiation.",
 		"deep_dive": {
@@ -199495,8 +199488,8 @@ const WORDS = [
 			],
 			"original_statement": "From 19th Century mark + up."
 		},
-		"concept": "The amount added to the cost price of goods to cover overhead and profit (提供された原材料に、あなたの技術、センス、そして愛という名の付加価値を加え(。、目印（マーク)を「一段高く」引き上げる、知的な仕事の総称。)",
-		"thinking": "提供された原材料に、あなたの技術、センス、そして愛という名の付加価値を加え(。、目印（マーク)を「一段高く」引き上げる、知的な仕事の総称。",
+		"concept": "The amount added to the cost price of goods to cover overhead and profit 提供された原材料に、あなたの技術、センス、そして愛という名の付加価値を加え、目印マークを「一段高く」引き上げる、知的な仕事の総称。",
+		"thinking": "提供された原材料に、あなたの技術、センス、そして愛という名の付加価値を加え、目印マークを「一段高く」引き上げる、知的な仕事の総称。",
 		"aftertaste": "人生にも「マークアップ（付加価値の向上）」が必要です。同じ日常の繰り返しに、あなた（。だけの新しい経験（。という彩りを加えれば、人生の単価は一気に跳ね上がります。",
 		"example": "We finalized the markup after a long negotiation.",
 		"deep_dive": {
@@ -199523,8 +199516,8 @@ const WORDS = [
 			],
 			"original_statement": "From 15th Century liggen (to lie, stay in place)."
 		},
-		"concept": "A book or other collection of financial accounts of a particular type (どんなに激しく社会の海が荒れても、決して動かずにその場に「留まり(。ライ)、真実を記録し続ける」という、揺るぎない信頼の土台となる一冊の重い本。)",
-		"thinking": "どんなに激しく社会の海が荒れても、決して動かずにその場に「留まり(。ライ)、真実を記録し続ける」という、揺るぎない信頼の土台となる一冊の重い本。",
+		"concept": "A book or other collection of financial accounts of a particular type どんなに激しく社会の海が荒れても、決して動かずにその場に「留まりライ、真実を記録し続ける」という、揺るぎない信頼の土台となる一冊の重い本。",
+		"thinking": "どんなに激しく社会の海が荒れても、決して動かずにその場に「留まりライ、真実を記録し続ける」という、揺るぎない信頼の土台となる一冊の重い本。",
 		"aftertaste": "あなたの心の中にある「レジャー（魂の台帳）」を、嘘偽りのない言葉で（。埋め尽くしてください。最後の瞬間にそれを見返した時、あなたは自分の人生（。を最高の傑作だったと確信できるはずです。",
 		"example": "We finalized the ledger after a long negotiation.",
 		"deep_dive": {
@@ -199551,8 +199544,8 @@ const WORDS = [
 			],
 			"original_statement": "From 16th Century amnestia (forgetting)."
 		},
-		"concept": "An official pardon for people who have been convicted of political offenses (過去の過ちをあえて「忘れ去る」ことで、新しい時代への歩みを共に始めようとする、文明社会の究極の寛容（。と許しの形式。)",
-		"thinking": "過去の過ちをあえて「忘れ去る」ことで、新しい時代への歩みを共に始めようとする、文明社会の究極の寛容（。と許しの形式。",
+		"concept": "An official pardon for people who have been convicted of political offenses 過去の過ちをあえて「忘れ去る」ことで、新しい時代への歩みを共に始めようとする、文明社会の究極の寛容と許しの形式。",
+		"thinking": "過去の過ちをあえて「忘れ去る」ことで、新しい時代への歩みを共に始めようとする、文明社会の究極の寛容と許しの形式。",
 		"aftertaste": "自分自身に対する「アムネスティ（許しのアムネスティ）」を宣言（。してください。昨日の自分を許して初めて、あなたは今日、新しい自分として呼吸できる（。のですから。",
 		"example": "The court was established to ensure that amnesty prevailed in the aftermath of the conflict.",
 		"deep_dive": {
@@ -199607,8 +199600,8 @@ const WORDS = [
 			],
 			"original_statement": "From 16th Century tribunus (tribune, leader of a tribe)."
 		},
-		"concept": "A court of justice or relevant body (かつて一族の長が正義の名の下に人々の争いを裁いたように、文明社会の「最高度の知性」が終結し、真理を決定しようとする（。神聖な審判の場。)",
-		"thinking": "かつて一族の長が正義の名の下に人々の争いを裁いたように、文明社会の「最高度の知性」が終結し、真理を決定しようとする（。神聖な審判の場。",
+		"concept": "A court of justice or relevant body かつて一族の長が正義の名の下に人々の争いを裁いたように、文明社会の「最高度の知性」が終結し、真理を決定しようとする神聖な審判の場。",
+		"thinking": "かつて一族の長が正義の名の下に人々の争いを裁いたように、文明社会の「最高度の知性」が終結し、真理を決定しようとする神聖な審判の場。",
 		"aftertaste": "心の中の「トライブュナル（良心の法廷）」で、毎日自分を見つめ直してください。他（。の誰を欺けても、自分自身の瞳（。は決して欺くことはできないのですから。",
 		"example": "The court was established to ensure that tribunal prevailed in the aftermath of the conflict.",
 		"deep_dive": {
@@ -199663,8 +199656,8 @@ const WORDS = [
 			],
 			"original_statement": "From 13th Century torquere (to twist, wring)."
 		},
-		"concept": "A wrongful act or an infringement of a right (真っ直ぐであるべき「正義の道を(。ツイスト)ねじ曲げ」て、他者に不当な苦しみを与えてしまった、理不尽で歪んだ(ゆがんだ)行為の総称。)",
-		"thinking": "真っ直ぐであるべき「正義の道を(。ツイスト)ねじ曲げ」て、他者に不当な苦しみを与えてしまった、理不尽で歪んだ(ゆがんだ)行為の総称。",
+		"concept": "A wrongful act or an infringement of a right 真っ直ぐであるべき「正義の道をツイストねじ曲げ」て、他者に不当な苦しみを与えてしまった、理不尽で歪んだゆがんだ行為の総称。",
+		"thinking": "真っ直ぐであるべき「正義の道をツイストねじ曲げ」て、他者に不当な苦しみを与えてしまった、理不尽で歪んだゆがんだ行為の総称。",
 		"aftertaste": "法律用語の「トート（不法行為）」という言葉の響きには、ねじ曲げられた（。人の心の痛みと、それを元に戻そうとする正義の執念が（。、同時に込められているのです。",
 		"example": "The court was established to ensure that tort prevailed in the aftermath of the conflict.",
 		"deep_dive": {
@@ -199691,8 +199684,8 @@ const WORDS = [
 			],
 			"original_statement": "From 13th Century felen (evil, wicked, treacherous)."
 		},
-		"concept": "A crime, typically one involving violence (人々の信頼を完膚なき(。までに「裏切り（フェロン)」、社会の調和を根底から揺るがしてしまった、取り返しのつかない大きな悪業の刻印。)",
-		"thinking": "人々の信頼を完膚なき(。までに「裏切り（フェロン)」、社会の調和を根底から揺るがしてしまった、取り返しのつかない大きな悪業の刻印。",
+		"concept": "A crime, typically one involving violence 人々の信頼を完膚なきまでに「裏切りフェロン」、社会の調和を根底から揺るがしてしまった、取り返しのつかない大きな悪業の刻印。",
+		"thinking": "人々の信頼を完膚なきまでに「裏切りフェロン」、社会の調和を根底から揺るがしてしまった、取り返しのつかない大きな悪業の刻印。",
 		"aftertaste": "犯した罪は「フェロニー（重罪）」として記録されますが、その後のあなたの（。歩みが、いつかその汚れを拭い去れるほど、光に満ちたものに（。なることを、私は密かに願わずにはいられません。",
 		"example": "The court was established to ensure that felony prevailed in the aftermath of the conflict.",
 		"deep_dive": {
@@ -199747,8 +199740,8 @@ const WORDS = [
 			],
 			"original_statement": "From 16th Century lis (dispute, lawsuit) + agere (to drive, incite)."
 		},
-		"concept": "The process of taking legal action (言葉の剣(。をもって、争い（。を情報の戦場へと「駆り立て（アジテート)」、どちらが真理に近いかを公の場で証明しようとする、知的な戦い。)",
-		"thinking": "言葉の剣(。をもって、争い（。を情報の戦場へと「駆り立て（アジテート)」、どちらが真理に近いかを公の場で証明しようとする、知的な戦い。",
+		"concept": "The process of taking legal action 言葉の剣をもって、争いを情報の戦場へと「駆り立てアジテート」、どちらが真理に近いかを公の場で証明しようとする、知的な戦い。",
+		"thinking": "言葉の剣をもって、争いを情報の戦場へと「駆り立てアジテート」、どちらが真理に近いかを公の場で証明しようとする、知的な戦い。",
 		"aftertaste": "「リティゲーション（訴訟）」による解決は最後の手段です。互いに同じテーブルに座り、まだ（。心が通い合ううちに解決できる道（アヴェニュー）がないか、もう（。一度だけ探ってみませんか。",
 		"example": "The court was established to ensure that litigation prevailed in the aftermath of the conflict.",
 		"deep_dive": {
@@ -199775,8 +199768,8 @@ const WORDS = [
 			],
 			"original_statement": "From Old English witt (knowledge, wit)."
 		},
-		"concept": "A person who sees an event, typically a crime or accident, take place (自らの「知性(ウィット・知)」をもって真実を捉え、自分の目が捉えた（。ありのままの光景を、社会の正義のために勇気を持って語り出す者。)",
-		"thinking": "自らの「知性(ウィット・知)」をもって真実を捉え、自分の目が捉えた（。ありのままの光景を、社会の正義のために勇気を持って語り出す者。",
+		"concept": "A person who sees an event, typically a crime or accident, take place 自らの「知性ウィット・知」をもって真実を捉え、自分の目が捉えたありのままの光景を、社会の正義のために勇気を持って語り出す者。",
+		"thinking": "自らの「知性ウィット・知」をもって真実を捉え、自分の目が捉えたありのままの光景を、社会の正義のために勇気を持って語り出す者。",
 		"aftertaste": "あなたは自分自身の人生の最高の「ウィットネス（真実の目撃者）」です。他（。の誰があなたの価値を否定しても、あなたが自分自身を（。最後まで見捨てないでいて（。ください。",
 		"example": "The court was established to ensure that witness prevailed in the aftermath of the conflict.",
 		"deep_dive": {
@@ -199803,8 +199796,8 @@ const WORDS = [
 			],
 			"original_statement": "From 14th Century testis (witness)."
 		},
-		"concept": "A formal written or spoken statement, especially one given in a court of law (一人の人間の魂が、良心という名の下に「証人」として差し出した、改ざん（。のできない純粋で重みのある言葉の贈り物。)",
-		"thinking": "一人の人間の魂が、良心という名の下に「証人」として差し出した、改ざん（。のできない純粋で重みのある言葉の贈り物。",
+		"concept": "A formal written or spoken statement, especially one given in a court of law 一人の人間の魂が、良心という名の下に「証人」として差し出した、改ざんのできない純粋で重みのある言葉の贈り物。",
+		"thinking": "一人の人間の魂が、良心という名の下に「証人」として差し出した、改ざんのできない純粋で重みのある言葉の贈り物。",
 		"aftertaste": "あなたのこれまでの「テスティモニー（誠実な歩みの証（）」が、今、困難（。な状況にあるあなたを救い出すための、何よりも雄弁で（。最強の証拠になるはずですよ。",
 		"example": "The court was established to ensure that testimony prevailed in the aftermath of the conflict.",
 		"deep_dive": {
@@ -199859,8 +199852,8 @@ const WORDS = [
 			],
 			"original_statement": "From 13th Century gravare (to weigh down)."
 		},
-		"concept": "A real or imagined wrong or other cause for complaint or protest, especially unfair treatment (理不尽な重荷(。を負わされ、その「あまりの重さ（グレイヴ)」に、魂が押し潰（。されそうになりながらも、平穏を求めて叫ぶ不条理の訴え。)",
-		"thinking": "理不尽な重荷(。を負わされ、その「あまりの重さ（グレイヴ)」に、魂が押し潰（。されそうになりながらも、平穏を求めて叫ぶ不条理の訴え。",
+		"concept": "A real or imagined wrong or other cause for complaint or protest, especially unfair treatment 理不尽な重荷を負わされ、その「あまりの重さグレイヴ」に、魂が押し潰されそうになりながらも、平穏を求めて叫ぶ不条理の訴え。",
+		"thinking": "理不尽な重荷を負わされ、その「あまりの重さグレイヴ」に、魂が押し潰されそうになりながらも、平穏を求めて叫ぶ不条理の訴え。",
 		"aftertaste": "心に溜まった「グリーヴァンス（心のしこり）」を、毒のまま自分（。の中に留め（。おかないでください。正しい言葉（。の形へと変換して、外へと解き放つことが、真の癒しの（。始まりなのです。",
 		"example": "The court was established to ensure that grievance prevailed in the aftermath of the conflict.",
 		"deep_dive": {
@@ -199887,8 +199880,8 @@ const WORDS = [
 			],
 			"original_statement": "From 17th Century scruta (trash, rags, remnants)."
 		},
-		"concept": "Examine or inspect closely and thoroughly (表面的な(。美しさに惑わされず、あえて「ゴミや屑（スクルー)」の山をかき分けるように、細部まで徹底的に疑い、真実を暴き出（。そうとする妥協なき眼差し。)",
-		"thinking": "表面的な(。美しさに惑わされず、あえて「ゴミや屑（スクルー)」の山をかき分けるように、細部まで徹底的に疑い、真実を暴き出（。そうとする妥協なき眼差し。",
+		"concept": "Examine or inspect closely and thoroughly 表面的な美しさに惑わされず、あえて「ゴミや屑スクルー」の山をかき分けるように、細部まで徹底的に疑い、真実を暴き出そうとする妥協なき眼差し。",
+		"thinking": "表面的な美しさに惑わされず、あえて「ゴミや屑スクルー」の山をかき分けるように、細部まで徹底的に疑い、真実を暴き出そうとする妥協なき眼差し。",
 		"aftertaste": "自分自身の心を、勇気を持って「スクルーティナイズ（徹底的に精査）」して（。みてください。そこに隠れた小さなエゴを見つけた時、あなたは（。また一歩、真の強者（。への階段を登ることになるのですから。",
 		"example": "The court was established to ensure that scrutinize prevailed in the aftermath of the conflict.",
 		"deep_dive": {
@@ -199915,8 +199908,8 @@ const WORDS = [
 			],
 			"original_statement": "From 16th Century valere (to be strong, be worth)."
 		},
-		"concept": "Check or prove the validity or accuracy of (曖昧(。な疑念を、確かな証拠（エヴィデンス)によって「強固(。な価値（ヴァリュー)を持つもの」へと昇華させ、正式に命の色を与える認証のプロセス。)",
-		"thinking": "曖昧(。な疑念を、確かな証拠（エヴィデンス)によって「強固(。な価値（ヴァリュー)を持つもの」へと昇華させ、正式に命の色を与える認証のプロセス。",
+		"concept": "Check or prove the validity or accuracy of 曖昧な疑念を、確かな証拠エヴィデンスによって「強固な価値ヴァリューを持つもの」へと昇華させ、正式に命の色を与える認証のプロセス。",
+		"thinking": "曖昧な疑念を、確かな証拠エヴィデンスによって「強固な価値ヴァリューを持つもの」へと昇華させ、正式に命の色を与える認証のプロセス。",
 		"aftertaste": "誰かの痛みを「バリデート（その通りだと認める）」してあげること。それ（。だけで、その人はどれほど救われる（。か。否定する前に、まず『あなたの苦しみを私は信じる（。』という言葉を届けてください。",
 		"example": "The court was established to ensure that validate prevailed in the aftermath of the conflict.",
 		"deep_dive": {
@@ -199943,8 +199936,8 @@ const WORDS = [
 			],
 			"original_statement": "From 16th Century in- (not) + partial (favoring one side)."
 		},
-		"concept": "Treating all rivals or disputants equally; fair and just (特定の(。利害や感情という「一方（。パート)への加担」を完全に拒否(。し、透明で穏やかな湖面のように、すべての存在を平等に映し出す（。冷静なる俯瞰（ふかん)。)",
-		"thinking": "特定の(。利害や感情という「一方（。パート)への加担」を完全に拒否(。し、透明で穏やかな湖面のように、すべての存在を平等に映し出す（。冷静なる俯瞰（ふかん)。",
+		"concept": "Treating all rivals or disputants equally; fair and just 特定の利害や感情という「一方パートへの加担」を完全に拒否し、透明で穏やかな湖面のように、すべての存在を平等に映し出す冷静なる俯瞰ふかん。",
+		"thinking": "特定の利害や感情という「一方パートへの加担」を完全に拒否し、透明で穏やかな湖面のように、すべての存在を平等に映し出す冷静なる俯瞰ふかん。",
 		"aftertaste": "「インパーシャル（何者にも偏らない）」な視点を持つことは、孤独（。になる勇気を持つことでもあります。誰の顔色もうかがわ（。ず、ただ真理（。の声にだけ耳を澄ませる。それが賢者の（。義務（デューティー）なのです。",
 		"example": "The court was established to ensure that impartial prevailed in the aftermath of the conflict.",
 		"deep_dive": {
@@ -199971,8 +199964,8 @@ const WORDS = [
 			],
 			"original_statement": "From 16th Century ethos (habit, character, custom)."
 		},
-		"concept": "Relating to moral principles or the branch of knowledge dealing with these (一瞬の(。感情に流されず、長い年月をかけて育まれた「魂の正しい習慣（。エトス)」に基づき、他者と世界に対して誠実に（。あろうとする（。、最も人間らしい生き方の形式。)",
-		"thinking": "一瞬の(。感情に流されず、長い年月をかけて育まれた「魂の正しい習慣（。エトス)」に基づき、他者と世界に対して誠実に（。あろうとする（。、最も人間らしい生き方の形式。",
+		"concept": "Relating to moral principles or the branch of knowledge dealing with these 一瞬の感情に流されず、長い年月をかけて育まれた「魂の正しい習慣エトス」に基づき、他者と世界に対して誠実にあろうとする、最も人間らしい生き方の形式。",
+		"thinking": "一瞬の感情に流されず、長い年月をかけて育まれた「魂の正しい習慣エトス」に基づき、他者と世界に対して誠実にあろうとする、最も人間らしい生き方の形式。",
 		"aftertaste": "「エシカル（倫理的である）」な選択は、一見（。損をしているように見える（。かもしれませんが、それはあなたの魂の品格（。を高め、一生揺るぎない（。自信という名の最高の富を（。もたらしてくれるのです。",
 		"example": "The court was established to ensure that ethical prevailed in the aftermath of the conflict.",
 		"deep_dive": {
@@ -199999,8 +199992,8 @@ const WORDS = [
 			],
 			"original_statement": "From 15th Century lex (law)."
 		},
-		"concept": "Conforming to the laws or rules (単(。にルールに従っているだけでなく、その根源にある「法（。レックス)の精神」を完璧に体現(。しており、誰の目にも疑いようのない（。正しさと輝きを纏（まと)っている状態。)",
-		"thinking": "単(。にルールに従っているだけでなく、その根源にある「法（。レックス)の精神」を完璧に体現(。しており、誰の目にも疑いようのない（。正しさと輝きを纏（まと)っている状態。",
+		"concept": "Conforming to the laws or rules 単にルールに従っているだけでなく、その根源にある「法レックスの精神」を完璧に体現しており、誰の目にも疑いようのない正しさと輝きを纏まとっている状態。",
+		"thinking": "単にルールに従っているだけでなく、その根源にある「法レックスの精神」を完璧に体現しており、誰の目にも疑いようのない正しさと輝きを纏まとっている状態。",
 		"aftertaste": "あなたが心（。の底からワクワク（。すること。それが、あなたの人生において最も「レジティメイト（正当な）」権利（。であり、果たすべき使命（ミッション）であることに（。、早く気づいてくださいね。",
 		"example": "The court was established to ensure that legitimate prevailed in the aftermath of the conflict.",
 		"deep_dive": {
@@ -200027,8 +200020,8 @@ const WORDS = [
 			],
 			"original_statement": "From 13th Century super (above)."
 		},
-		"concept": "A supreme ruler, especially a monarch (何者(。にも支配されず、自らの意志のみが「最高位（。スーパー)にある」ことを宣言（。する、究極の自律（。と自由を体現する、誇り高く（。孤独なる王者の魂。)",
-		"thinking": "何者(。にも支配されず、自らの意志のみが「最高位（。スーパー)にある」ことを宣言（。する、究極の自律（。と自由を体現する、誇り高く（。孤独なる王者の魂。",
+		"concept": "A supreme ruler, especially a monarch 何者にも支配されず、自らの意志のみが「最高位スーパーにある」ことを宣言する、究極の自律と自由を体現する、誇り高く孤独なる王者の魂。",
+		"thinking": "何者にも支配されず、自らの意志のみが「最高位スーパーにある」ことを宣言する、究極の自律と自由を体現する、誇り高く孤独なる王者の魂。",
 		"aftertaste": "あなたは自分自身（。の人生という王国の、唯一無二の「ソブリン（至高の主権者）」なのです。他（。の誰にも、あなたの玉座（。を明け渡しては（。絶対に（。なりませんよ。",
 		"example": "The court was established to ensure that sovereign prevailed in the aftermath of the conflict.",
 		"deep_dive": {
@@ -200055,8 +200048,8 @@ const WORDS = [
 			],
 			"original_statement": "From 14th Century unus (one) + vertere (to turn)."
 		},
-		"concept": "Of, affecting, or done by all people or things in the world or in particular (特定の(。場所や時間を越え、全ての存在を「一つの方向へと（。回転させて)結びつける」ことができる（。、ダイヤモンドのような（。硬質で（。輝かしい不変の真理。)",
-		"thinking": "特定の(。場所や時間を越え、全ての存在を「一つの方向へと（。回転させて)結びつける」ことができる（。、ダイヤモンドのような（。硬質で（。輝かしい不変の真理。",
+		"concept": "Of, affecting, or done by all people or things in the world or in particular 特定の場所や時間を越え、全ての存在を「一つの方向へと回転させて結びつける」ことができる、ダイヤモンドのような硬質で輝かしい不変の真理。",
+		"thinking": "特定の場所や時間を越え、全ての存在を「一つの方向へと回転させて結びつける」ことができる、ダイヤモンドのような硬質で輝かしい不変の真理。",
 		"aftertaste": "「ユニバーサル（普遍的な）」な価値観とは、他（。から押し付けられ（。るものではなく、あなたの心の奥底（。を深く深く深く掘（。っていった先で（。、人類全員が共有している（。黄金の泉に辿り着く（。プロセスそのものなのです。",
 		"example": "The court was established to ensure that universal prevailed in the aftermath of the conflict.",
 		"deep_dive": {
@@ -200083,8 +200076,8 @@ const WORDS = [
 			],
 			"original_statement": "From 18th Century duo (two)."
 		},
-		"concept": "The division of something conceptually into two opposed or contrasted aspects, such as good and evil or mind and matter (世界(。を（。、光と影、心と体、善と悪のように「二つの（デュオ)」要素に分けて(。解釈しようとする（。（。、シンプルでありながら（。強力な（。対立の（。論理（。)。)",
-		"thinking": "世界(。を（。、光と影、心と体、善と悪のように「二つの（デュオ)」要素に分けて(。解釈しようとする（。（。、シンプルでありながら（。強力な（。対立の（。論理（。)。",
+		"concept": "The division of something conceptually into two opposed or contrasted aspects, such as good and evil or mind and matter 世界を、光と影、心と体、善と悪のように「二つのデュオ」要素に分けて解釈しようとする、シンプルでありながら強力な対立の論理。",
+		"thinking": "世界を、光と影、心と体、善と悪のように「二つのデュオ」要素に分けて解釈しようとする、シンプルでありながら強力な対立の論理。",
 		"aftertaste": "「デュアリズム（二元論）」の罠（トラップ）に（。嵌（。まっては（。なりません。世界は（。、白か（。黒か（。ではなく、無限（。に近い（。豊かな（。グラデーション（。で（。満たされている（。のですから。",
 		"example": "We pondered the very dualism of our shared humanity.",
 		"deep_dive": {
@@ -200111,8 +200104,8 @@ const WORDS = [
 			],
 			"original_statement": "From 19th Century monos (single, alone)."
 		},
-		"concept": "A theory or doctrine that denies the existence of a distinction or duality in some sphere, such as that between matter and mind, or God and the world (対立する(。二つのものを（。越え、全ての（。根源は「唯一（モノ)である」と(。宣言する（。、宇宙の（。深遠な（。調和（ハーモニー)を見出そうとする（。、愛（。に（。満ちた（。世界観。)",
-		"thinking": "対立する(。二つのものを（。越え、全ての（。根源は「唯一（モノ)である」と(。宣言する（。、宇宙の（。深遠な（。調和（ハーモニー)を見出そうとする（。、愛（。に（。満ちた（。世界観。",
+		"concept": "A theory or doctrine that denies the existence of a distinction or duality in some sphere, such as that between matter and mind, or God and the world 対立する二つのものを越え、全ての根源は「唯一モノである」と宣言する、宇宙の深遠な調和ハーモニーを見出そうとする、愛に満ちた世界観。",
+		"thinking": "対立する二つのものを越え、全ての根源は「唯一モノである」と宣言する、宇宙の深遠な調和ハーモニーを見出そうとする、愛に満ちた世界観。",
 		"aftertaste": "「モニズム（一元論）」の視点（。から（。見れば（。、あなた（。と（。私を（。隔（。てる壁（。など（。、本来は（。どこにも（。存在しない（。ことが（。理解（。できる（。はずです。",
 		"example": "We pondered the very monism of our shared humanity.",
 		"deep_dive": {
@@ -200139,8 +200132,8 @@ const WORDS = [
 			],
 			"original_statement": "From 18th Century phainesthai (to appear) + logos (study)."
 		},
-		"concept": "An approach that concentrates on the study of consciousness and the objects of direct experience (先入観(。を（。一度捨て（。、目の前に「あらわれている（。フェイネ)現象」そのもの（。に（。、驚き（。と（。敬意（。を持って（。耳（。を（。澄ませようとする（。、謙虚（。な（。知性の（。営み。)",
-		"thinking": "先入観(。を（。一度捨て（。、目の前に「あらわれている（。フェイネ)現象」そのもの（。に（。、驚き（。と（。敬意（。を持って（。耳（。を（。澄ませようとする（。、謙虚（。な（。知性の（。営み。",
+		"concept": "An approach that concentrates on the study of consciousness and the objects of direct experience 先入観を一度捨て、目の前に「あらわれているフェイネ現象」そのものに、驚きと敬意を持って耳を澄ませようとする、謙虚な知性の営み。",
+		"thinking": "先入観を一度捨て、目の前に「あらわれているフェイネ現象」そのものに、驚きと敬意を持って耳を澄ませようとする、謙虚な知性の営み。",
 		"aftertaste": "「フェノメノロジー（現象学）」のメガネ（。で（。世界（。を（。眺めれば（。、退屈（。な（。日常（。の一コマ一コマが（。、眩（。いばかりの（。奇跡（。の（。連続（。として（。、立ち上がって（。くる（。はずですよ。",
 		"example": "We pondered the very phenomenology of our shared humanity.",
 		"deep_dive": {
@@ -200167,8 +200160,8 @@ const WORDS = [
 			],
 			"original_statement": "From 14th Century re- (back) + ferre (to bring, carry)."
 		},
-		"concept": "Considered in relation or in proportion to something else (それ(。単体（。では（。存在（。できず（。、常に（。何か（。別の（。ものと「結び（。つけ（。戻（。され（。リ・フェリー)」て(。初めて（。意味（。が（。立ち上がる（。、流動（。的（。で（。繊細（。な（。存在の（。様態（。)。)",
-		"thinking": "それ(。単体（。では（。存在（。できず（。、常に（。何か（。別の（。ものと「結び（。つけ（。戻（。され（。リ・フェリー)」て(。初めて（。意味（。が（。立ち上がる（。、流動（。的（。で（。繊細（。な（。存在の（。様態（。)。",
+		"concept": "Considered in relation or in proportion to something else それ単体では存在できず、常に何か別のものと「結びつけ戻されリ・フェリー」て初めて意味が立ち上がる、流動的で繊細な存在の様態。",
+		"thinking": "それ単体では存在できず、常に何か別のものと「結びつけ戻されリ・フェリー」て初めて意味が立ち上がる、流動的で繊細な存在の様態。",
 		"aftertaste": "幸福（。も（。不幸（。も（。、すべては「レラティブ（相対的なもの）」に（。すぎません（。。（。暗闇（。が（。ある（。から（。こそ（。、あなたは（。小さな（。光（。の（。ありがた（。み（。を（。、誰よ（。り（。も（。深く（。味わう（。ことが（。できる（。のですから。",
 		"example": "We pondered the very relative of our shared humanity.",
 		"deep_dive": {
@@ -200195,8 +200188,8 @@ const WORDS = [
 			],
 			"original_statement": "From 17th Century in- (in) + manere (to remain, stay)."
 		},
-		"concept": "The state of being immanent; divine presence in the world (遠く(。へ（。行く（。のではなく（。、今（。ここ（。にある（。全ての（。もの（。の「中心（。に（。イン)留まり(。マネー)」続けている(。、目（。には（。見えない（。けれど（。（。確かな（。命（。の（。輝き（。)。)",
-		"thinking": "遠く(。へ（。行く（。のではなく（。、今（。ここ（。にある（。全ての（。もの（。の「中心（。に（。イン)留まり(。マネー)」続けている(。、目（。には（。見えない（。けれど（。（。確かな（。命（。の（。輝き（。)。",
+		"concept": "The state of being immanent; divine presence in the world 遠くへ行くのではなく、今ここにある全てのものの「中心にイン留まりマネー」続けている、目には見えないけれど確かな命の輝き。",
+		"thinking": "遠くへ行くのではなく、今ここにある全てのものの「中心にイン留まりマネー」続けている、目には見えないけれど確かな命の輝き。",
 		"aftertaste": "神様（。を（。空の上（。に（。探（。す必要（。は（。ありません（。。（。あなたの（。目の前（。に（。ある（。（。コップ（。や（。、隣（。で（。笑って（。いる（。人（。の（。瞳（。の中に（。、美しき「イマネンス（内在する聖性）」は（。（。満ち（。満ちている（。のです（。から。",
 		"example": "We pondered the very immanence of our shared humanity.",
 		"deep_dive": {
@@ -200223,8 +200216,8 @@ const WORDS = [
 			],
 			"original_statement": "From 16th Century anti- (against) + agonistes (actor, combatant, contender)."
 		},
-		"concept": "A person who actively opposes or is hostile to someone or something; an adversary (主人公の(。行く手を（。阻み（。、自らの（。信念を持って（。「反対（。アンチ)の(。立場（。から（。激しく戦う（。アゴニスト)」者(。。（。彼（。がいなければ（。、英雄（。は（。決して（。誕生（。しない、闇の世界のかけがえのない（。パートナー（。)。)",
-		"thinking": "主人公の(。行く手を（。阻み（。、自らの（。信念を持って（。「反対（。アンチ)の(。立場（。から（。激しく戦う（。アゴニスト)」者(。。（。彼（。がいなければ（。、英雄（。は（。決して（。誕生（。しない、闇の世界のかけがえのない（。パートナー（。)。",
+		"concept": "A person who actively opposes or is hostile to someone or something; an adversary 主人公の行く手を阻み、自らの信念を持って「反対アンチの立場から激しく戦うアゴニスト」者。彼がいなければ、英雄は決して誕生しない、闇の世界のかけがえのないパートナー。",
+		"thinking": "主人公の行く手を阻み、自らの信念を持って「反対アンチの立場から激しく戦うアゴニスト」者。彼がいなければ、英雄は決して誕生しない、闇の世界のかけがえのないパートナー。",
 		"aftertaste": "「アンタゴニスト（敵対者）」との（。争い（。に（。消耗（。しないで（。ください（。。（。彼（。の（。執拗な（。攻撃（。は（。、あなたの（。中に（。眠る（。（。ダイヤモンド（。を（。磨き（。上げるための（。、神様（。からの（。試練（。であり（。研磨剤（。（。ポリッシュ（。なのですよ。",
 		"example": "The author crafted a compelling antagonist that resonated with readers worldwide.",
 		"deep_dive": {
@@ -200251,8 +200244,8 @@ const WORDS = [
 			],
 			"original_statement": "From 14th Century pastor (shepherd)."
 		},
-		"concept": "Associated with country life, typically in a romanticized or idealized way (都会の(。喧騒（。を（。離れ（。、一人の「羊飼い（。パストール)」となって(。、自然の（。リズム（。と（。一体（。に（。なって（。呼吸（。する（。ような（。、穏やかで（。ノスタルジックな（。魂の（。休息所（。)。)",
-		"thinking": "都会の(。喧騒（。を（。離れ（。、一人の「羊飼い（。パストール)」となって(。、自然の（。リズム（。と（。一体（。に（。なって（。呼吸（。する（。ような（。、穏やかで（。ノスタルジックな（。魂の（。休息所（。)。",
+		"concept": "Associated with country life, typically in a romanticized or idealized way 都会の喧騒を離れ、一人の「羊飼いパストール」となって、自然のリズムと一体になって呼吸するような、穏やかでノスタルジックな魂の休息所。",
+		"thinking": "都会の喧騒を離れ、一人の「羊飼いパストール」となって、自然のリズムと一体になって呼吸するような、穏やかでノスタルジックな魂の休息所。",
 		"aftertaste": "たまには（。自分の中の「パストラル（牧歌的情緒）」に（。耳（。を（。傾けて（。みませんか（。。（。忙（。し（。さの（。中で（。忘（。れて（。しま（。った（。、自分の（。本当（。の（。声（。が（。、風（。の（。中から（。聞こえて（。くる（。かもしれませんよ。",
 		"example": "The author crafted a compelling pastoral that resonated with readers worldwide.",
 		"deep_dive": {
@@ -200279,8 +200272,8 @@ const WORDS = [
 			],
 			"original_statement": "From 19th Century movere (to move)."
 		},
-		"concept": "A distinctive feature or dominant idea in an artistic or literary composition (物語(。や（。絵画（。の（。中で（。何度も（。繰り返し（。登場し（。、観る（。者の（。心を「動か（。し（。ムーブ)導く」ための(。、象徴（。的な（。イメージ（。の（。断片（。)。)",
-		"thinking": "物語(。や（。絵画（。の（。中で（。何度も（。繰り返し（。登場し（。、観る（。者の（。心を「動か（。し（。ムーブ)導く」ための(。、象徴（。的な（。イメージ（。の（。断片（。)。",
+		"concept": "A distinctive feature or dominant idea in an artistic or literary composition 物語や絵画の中で何度も繰り返し登場し、観る者の心を「動かしムーブ導く」ための、象徴的なイメージの断片。",
+		"thinking": "物語や絵画の中で何度も繰り返し登場し、観る者の心を「動かしムーブ導く」ための、象徴的なイメージの断片。",
 		"aftertaste": "あなたの（。これまでの（。人生（。に（。通底（。（。する「モチーフ（主題）」は（。何（。ですか（。？（。それ（。を（。見つけ出した（。とき（。、今まで（。の（。バラバラの（。経験（。の意味（。が（。、一気（。に（。鮮明に（。浮かび上がって（。くる（。はずです。",
 		"example": "The author crafted a compelling motif that resonated with readers worldwide.",
 		"deep_dive": {
@@ -200307,8 +200300,8 @@ const WORDS = [
 			],
 			"original_statement": "From 14th Century tithenai (to place, put)."
 		},
-		"concept": "The subject of a talk, a piece of writing, a person's thoughts, or an exhibition; a topic (あらゆる(。エピソード（。の（。中心（。に「配置（。さ（。ティ)れた」こと(。。（。その（。物語（。が（。、結局（。何を（。世界（。に（。問いかけ（。ようと（。している（。のか（。という（。、作者（。の（。魂の（。叫び（。の（。中心点（。)。)",
-		"thinking": "あらゆる(。エピソード（。の（。中心（。に「配置（。さ（。ティ)れた」こと(。。（。その（。物語（。が（。、結局（。何を（。世界（。に（。問いかけ（。ようと（。している（。のか（。という（。、作者（。の（。魂の（。叫び（。の（。中心点（。)。",
+		"concept": "The subject of a talk, a piece of writing, a person's thoughts, or an exhibition; a topic あらゆるエピソードの中心に「配置さティれた」こと。その物語が、結局何を世界に問いかけようとしているのかという、作者の魂の叫びの中心点。",
+		"thinking": "あらゆるエピソードの中心に「配置さティれた」こと。その物語が、結局何を世界に問いかけようとしているのかという、作者の魂の叫びの中心点。",
 		"aftertaste": "他人が（。決めた「テーマ（既成の主題）」に（。沿（。って（。生きる（。必要（。は（。ありません（。。（。自分（。の（。人生（。という（。キャンバス（。に（。、あなた（。だけの（。問い（。を（。、あなた（。だけの（。言葉（。で（。配置（。して（。（。ください。",
 		"example": "The author crafted a compelling theme that resonated with readers worldwide.",
 		"deep_dive": {
@@ -200335,8 +200328,8 @@ const WORDS = [
 			],
 			"original_statement": "From 16th Century plat (flat surface, area of land)."
 		},
-		"concept": "The main events of a play, novel, movie, or similar work, devised and presented by the writer as an interrelated sequence (広大(。な（。事実の（。荒野（。（。の上に（。、ある（。特定の（。意図を持って（。「区画（。プラット)」を(。整理（。し（。、出来事（。の（。因果関係（。を（。、ダイナミック（。に（。繋ぎ合わ（。せた（。、物語（。の（。設計図（。)。)",
-		"thinking": "広大(。な（。事実の（。荒野（。（。の上に（。、ある（。特定の（。意図を持って（。「区画（。プラット)」を(。整理（。し（。、出来事（。の（。因果関係（。を（。、ダイナミック（。に（。繋ぎ合わ（。せた（。、物語（。の（。設計図（。)。",
+		"concept": "The main events of a play, novel, movie, or similar work, devised and presented by the writer as an interrelated sequence 広大な事実の荒野の上に、ある特定の意図を持って「区画プラット」を整理し、出来事の因果関係を、ダイナミックに繋ぎ合わせた、物語の設計図。",
+		"thinking": "広大な事実の荒野の上に、ある特定の意図を持って「区画プラット」を整理し、出来事の因果関係を、ダイナミックに繋ぎ合わせた、物語の設計図。",
 		"aftertaste": "人生（。の「プロット（筋書き）」が（。思い通り（。に（。進（。まない（。ときこそ（。、新しい（。キャラクター（。や（。、意外（。な（。伏線（。を（。投入する（。チャンス（。な（。（。のです（。。（。物語（。を（。面白く（。する（。のは（。、いつ（。だって（。予期（。せぬ（。トラブル（。な（。（。のです。",
 		"example": "The author crafted a compelling plot that resonated with readers worldwide.",
 		"deep_dive": {
@@ -200363,8 +200356,8 @@ const WORDS = [
 			],
 			"original_statement": "From 17th Century an- (not) + ekdidonai (publish)."
 		},
-		"concept": "A short and amusing or interesting story about a real incident or person (公的(。な（。歴史（。の（。中で（。「出版（。され（。ていない（。アン・エク)」、ちょっと(。した（。裏（。話（。や（。、個人的（。な（。こぼれ話（。。（。公式（。記録（。よりも（。（。雄弁（。に（。、その（。人の（。本質（。を（。照（。らし出（。す（。、温（。かな（。エピソード（。)。)",
-		"thinking": "公的(。な（。歴史（。の（。中で（。「出版（。され（。ていない（。アン・エク)」、ちょっと(。した（。裏（。話（。や（。、個人的（。な（。こぼれ話（。。（。公式（。記録（。よりも（。（。雄弁（。に（。、その（。人の（。本質（。を（。照（。らし出（。す（。、温（。かな（。エピソード（。)。",
+		"concept": "A short and amusing or interesting story about a real incident or person 公的な歴史の中で「出版されていないアン・エク」、ちょっとした裏話や、個人的なこぼれ話。公式記録よりも雄弁に、その人の本質を照らし出す、温かなエピソード。",
+		"thinking": "公的な歴史の中で「出版されていないアン・エク」、ちょっとした裏話や、個人的なこぼれ話。公式記録よりも雄弁に、その人の本質を照らし出す、温かなエピソード。",
 		"aftertaste": "歴史（。の（。年表（。を（。覚える（。より（。、無名（。の（。民衆（。の（。小さな「アネクドート（逸話）」に（。心を（。寄（。せて（。みて（。ください（。。（。そこ（。に、今（。を生きる（。私たち（。への（。本当（。の（。励（。ましが（。隠（。されている（。はず（。ですから。",
 		"example": "The author crafted a compelling anecdote that resonated with readers worldwide.",
 		"deep_dive": {
@@ -200391,8 +200384,8 @@ const WORDS = [
 			],
 			"original_statement": "From 16th Century poiein (to make, create)."
 		},
-		"concept": "Of, relating to, or used in poetry (ただの(。情報の（。伝達（。を（。超え（。、世界（。を（。全く（。新しく「作り（。ポイ)直す」ような(。、瑞々しく（。（。、心震（。える（。言葉（。の（。調べ（。)。)",
-		"thinking": "ただの(。情報の（。伝達（。を（。超え（。、世界（。を（。全く（。新しく「作り（。ポイ)直す」ような(。、瑞々しく（。（。、心震（。える（。言葉（。の（。調べ（。)。",
+		"concept": "Of, relating to, or used in poetry ただの情報の伝達を超え、世界を全く新しく「作りポイ直す」ような、瑞々しく、心震える言葉の調べ。",
+		"thinking": "ただの情報の伝達を超え、世界を全く新しく「作りポイ直す」ような、瑞々しく、心震える言葉の調べ。",
 		"aftertaste": "夕暮れ（。の（。空の色（。を（。、ただの（。光波（。だと（。思わず（。、一言の「ポエティック（詩的）」な（。驚き（。で（。受け止める（。こと（。。（。それ（。だけで（。、あなた（。の（。世界（。は（。一瞬（。にして（。祝福（。に（。満たされる（。のです。",
 		"example": "The author crafted a compelling poetic that resonated with readers worldwide.",
 		"deep_dive": {
@@ -200419,8 +200412,8 @@ const WORDS = [
 			],
 			"original_statement": "From 14th Century pro- (forward) + vertere (to turn)."
 		},
-		"concept": "Written or spoken language in its ordinary form, without metrical structure (飾り(。の（。リズム（。に（。頼らず（。、ただ「真っ直ぐ（。プロ・ヴァース)に(。真実へと（。突き進む)」、地の文(。。（。日常（。の（。手触り（。と（。、実直（。な（。観察（。が（。生み出す（。、飾（。り（。のない（。美しさ（。)。)",
-		"thinking": "飾り(。の（。リズム（。に（。頼らず（。、ただ「真っ直ぐ（。プロ・ヴァース)に(。真実へと（。突き進む)」、地の文(。。（。日常（。の（。手触り（。と（。、実直（。な（。観察（。が（。生み出す（。、飾（。り（。のない（。美しさ（。)。",
+		"concept": "Written or spoken language in its ordinary form, without metrical structure 飾りのリズムに頼らず、ただ「真っ直ぐプロ・ヴァースに真実へと突き進む」、地の文。日常の手触りと、実直な観察が生み出す、飾りのない美しさ。",
+		"thinking": "飾りのリズムに頼らず、ただ「真っ直ぐプロ・ヴァースに真実へと突き進む」、地の文。日常の手触りと、実直な観察が生み出す、飾りのない美しさ。",
 		"aftertaste": "あなたの（。誠実（。な（。生き方（。は（。、どんな（。華やかな（。詩（。よりも（。、重み（。のある（。美しい「プロース（散文）」の（。ように（。、人々の（。心（。に（。静かに（。染み（。渡って（。いく（。はずです。",
 		"example": "The author crafted a compelling prose that resonated with readers worldwide.",
 		"deep_dive": {
@@ -200447,8 +200440,8 @@ const WORDS = [
 			],
 			"original_statement": "From 16th Century stare (to stand)."
 		},
-		"concept": "A group of lines forming the basic recurring metrical unit in a poem; a verse (詩(。という（。建物（。の中に（。用意された（。、一時の（。休息（。のための「留ま（。り（。スタン)立つ(。ザ)部屋」。意味(。と（。情緒（。が（。一つの（。窓（。から（。差し込む（。、光の（。区画（。)。)",
-		"thinking": "詩(。という（。建物（。の中に（。用意された（。、一時の（。休息（。のための「留ま（。り（。スタン)立つ(。ザ)部屋」。意味(。と（。情緒（。が（。一つの（。窓（。から（。差し込む（。、光の（。区画（。)。",
+		"concept": "A group of lines forming the basic recurring metrical unit in a poem; a verse 詩という建物の中に用意された、一時の休息のための「留まりスタン立つザ部屋」。意味と情緒が一つの窓から差し込む、光の区画。",
+		"thinking": "詩という建物の中に用意された、一時の休息のための「留まりスタン立つザ部屋」。意味と情緒が一つの窓から差し込む、光の区画。",
 		"aftertaste": "苦しい（。とき（。は（。、自分（。の（。人生（。という（。長い（。詩（。の中に（。、小さな「スタンザ（安らぎの小部屋）」を（。作って（。みてください（。。（。そこ（。で（。一（。息（。つけば（。、また（。次（。の一行（。を（。力強く（。踏み出（。せる（。ように（。なり（。ます。",
 		"example": "The author crafted a compelling stanza that resonated with readers worldwide.",
 		"deep_dive": {
@@ -200475,8 +200468,8 @@ const WORDS = [
 			],
 			"original_statement": "From 14th Century imago (copy, likeness, image)."
 		},
-		"concept": "Visually descriptive or figurative language, especially in a literary work (言葉(。を（。使って（。、読者の（。脳裏（。に（。鮮明な「虚像（。イマゴ)」を(。結ばせる（。技術（。。（。文字（。という（。冷たい（。粒子（。が（。、一瞬（。にして（。体温（。と（。色彩（。を持った（。生きた（。光景（。へと（。変貌する（。魔法（。)。)",
-		"thinking": "言葉(。を（。使って（。、読者の（。脳裏（。に（。鮮明な「虚像（。イマゴ)」を(。結ばせる（。技術（。。（。文字（。という（。冷たい（。粒子（。が（。、一瞬（。にして（。体温（。と（。色彩（。を持った（。生きた（。光景（。へと（。変貌する（。魔法（。)。",
+		"concept": "Visually descriptive or figurative language, especially in a literary work 言葉を使って、読者の脳裏に鮮明な「虚像イマゴ」を結ばせる技術。文字という冷たい粒子が、一瞬にして体温と色彩を持った生きた光景へと変貌する魔法。",
+		"thinking": "言葉を使って、読者の脳裏に鮮明な「虚像イマゴ」を結ばせる技術。文字という冷たい粒子が、一瞬にして体温と色彩を持った生きた光景へと変貌する魔法。",
 		"aftertaste": "あなたの（。脳裏（。に（。浮かぶ（。、最高の（。未来（。の「イメージリー（図像群）」を（。（。決して（。手放（。さない（。で（。ください（。。（。その（。イメージ（。が（。強（。ければ（。強い（。ほど（。、現実（。は（。磁石（。に（。吸（。（。き寄せ（。られる（。ように（。、その（。かたち（。へ（。と（。変わり（。始め（。ます。",
 		"example": "The author crafted a compelling imagery that resonated with readers worldwide.",
 		"deep_dive": {
@@ -200503,8 +200496,8 @@ const WORDS = [
 			],
 			"original_statement": "From 16th Century ad- (to) + ludere (to play)."
 		},
-		"concept": "An expression designed to call something to mind without mentioning it explicitly; an indirect or passing reference (直接(。語る（。代わりに（。、過去（。の（。巨大（。な（。物語（。の（。破片（。へと「ちょっと（。遊び（。リュ)に(。行く」ような（。仕草（。。（。共有（。された（。記憶（。を（。、目配せ（。するように（。、そっと（。呼び覚（。ます（。、知的な（。悪戯（。)。)",
-		"thinking": "直接(。語る（。代わりに（。、過去（。の（。巨大（。な（。物語（。の（。破片（。へと「ちょっと（。遊び（。リュ)に(。行く」ような（。仕草（。。（。共有（。された（。記憶（。を（。、目配せ（。するように（。、そっと（。呼び覚（。ます（。、知的な（。悪戯（。)。",
+		"concept": "An expression designed to call something to mind without mentioning it explicitly; an indirect or passing reference 直接語る代わりに、過去の巨大な物語の破片へと「ちょっと遊びリュに行く」ような仕草。共有された記憶を、目配せするように、そっと呼び覚ます、知的な悪戯。",
+		"thinking": "直接語る代わりに、過去の巨大な物語の破片へと「ちょっと遊びリュに行く」ような仕草。共有された記憶を、目配せするように、そっと呼び覚ます、知的な悪戯。",
 		"aftertaste": "彼（。の（。言葉（。の（。端々（。に（。隠された（。小さな「アリュージョン（ほのめかし）」に（。気づいた（。とき（。、あなた（。と（。彼（。の（。間（。には（。、何物（。にも（。代（。え（。がたい（。、秘密（。の（。友情（。の（。絆（。が（。生まれる（。のですよ。",
 		"example": "The author crafted a compelling allusion that resonated with readers worldwide.",
 		"deep_dive": {
@@ -200531,8 +200524,8 @@ const WORDS = [
 			],
 			"original_statement": "From 16th Century sonus (sound)."
 		},
-		"concept": "A poem of fourteen lines using any of a number of formal rhyme schemes, in English typically having ten syllables per line (厳格(。な（。ルール（。に（。縛（。られ（。ながら（。も（。、その（。中で（。極限（。の（。美（。を（。追求（。する「小（。さな（。調べ（。ソン)」。（。制約（。が（。ある（。から（。こそ（。、言葉（。は（。ダイヤモンド（。の（。ように（。鋭く（。、（。輝（。（。（。く（。の（。です。)",
-		"thinking": "厳格(。な（。ルール（。に（。縛（。られ（。ながら（。も（。、その（。中で（。極限（。の（。美（。を（。追求（。する「小（。さな（。調べ（。ソン)」。（。制約（。が（。ある（。から（。こそ（。、言葉（。は（。ダイヤモンド（。の（。ように（。鋭く（。、（。輝（。（。（。く（。の（。です。",
+		"concept": "A poem of fourteen lines using any of a number of formal rhyme schemes, in English typically having ten syllables per line 厳格なルールに縛られながらも、その中で極限の美を追求する「小さな調べソン」。制約があるからこそ、言葉はダイヤモンドのように鋭く、輝くのです。",
+		"thinking": "厳格なルールに縛られながらも、その中で極限の美を追求する「小さな調べソン」。制約があるからこそ、言葉はダイヤモンドのように鋭く、輝くのです。",
 		"aftertaste": "物語は、絶望を希望へと変える世界で唯一の魔法です。",
 		"example": "The author crafted a compelling sonnet that resonated with readers worldwide.",
 		"deep_dive": {
@@ -200559,8 +200552,8 @@ const WORDS = [
 			],
 			"original_statement": "From 19th Century hai- (play) + -ku (phrase)."
 		},
-		"concept": "A Japanese poem of seventeen syllables, in three lines of five, seven, and five, traditionally evoking images of the natural world (遊び(。ハイ)の(。（。句（。ク)」。（。極限（。まで（。削（。ぎ（。落（。された（。十七音（。。（。世界（。の（。一瞬（。の（。煌（。めきを（。、たった（。三行（。に（。（。凝縮（。して（。永遠（。に（。変える（。、言葉（。による（。瞬（。間の（。写真。)",
-		"thinking": "遊び(。ハイ)の(。（。句（。ク)」。（。極限（。まで（。削（。ぎ（。落（。された（。十七音（。。（。世界（。の（。一瞬（。の（。煌（。めきを（。、たった（。三行（。に（。（。凝縮（。して（。永遠（。に（。変える（。、言葉（。による（。瞬（。間の（。写真。",
+		"concept": "A Japanese poem of seventeen syllables, in three lines of five, seven, and five, traditionally evoking images of the natural world 遊びハイの句ク」。極限まで削ぎ落された十七音。世界の一瞬の煌めきを、たった三行に凝縮して永遠に変える、言葉による瞬間の写真。",
+		"thinking": "遊びハイの句ク」。極限まで削ぎ落された十七音。世界の一瞬の煌めきを、たった三行に凝縮して永遠に変える、言葉による瞬間の写真。",
 		"aftertaste": "物語は、絶望を希望へと変える世界で唯一の魔法です。",
 		"example": "The author crafted a compelling haiku that resonated with readers worldwide.",
 		"deep_dive": {
@@ -200587,8 +200580,8 @@ const WORDS = [
 			],
 			"original_statement": "From 16th Century oide (song, chant)."
 		},
-		"concept": "A lyric poem in the form of an address to a particular subject, often elevated in style or manner and written in varied or irregular meter (ある(。特定（。の（。存在（。や（。理想（。を（。、心（。から（。「讃える（。歌（。オード)」。称賛（。と（。敬意（。を（。、格調（。高く（。、そして（。情熱的（。に（。（。謳（。い（。上げる（。、魂の（。祝辞。)",
-		"thinking": "ある(。特定（。の（。存在（。や（。理想（。を（。、心（。から（。「讃える（。歌（。オード)」。称賛（。と（。敬意（。を（。、格調（。高く（。、そして（。情熱的（。に（。（。謳（。い（。上げる（。、魂の（。祝辞。",
+		"concept": "A lyric poem in the form of an address to a particular subject, often elevated in style or manner and written in varied or irregular meter ある特定の存在や理想を、心から「讃える歌オード」。称賛と敬意を、格調高く、そして情熱的に謳い上げる、魂の祝辞。",
+		"thinking": "ある特定の存在や理想を、心から「讃える歌オード」。称賛と敬意を、格調高く、そして情熱的に謳い上げる、魂の祝辞。",
 		"aftertaste": "物語は、絶望を希望へと変える世界で唯一の魔法です。",
 		"example": "The author crafted a compelling ode that resonated with readers worldwide.",
 		"deep_dive": {
@@ -200615,8 +200608,8 @@ const WORDS = [
 			],
 			"original_statement": "From 17th Century ezel (donkey)."
 		},
-		"concept": "A wooden frame for holding an artist's work while it is being painted (重いキャンバスを黙々と(。しぶとく)支え続け(。、一歩も引かない頑丈さ。画家の（。魂の（。冒険を（。背負（。う、忠実な（。ロバ（。のような（。道具（。)。)",
-		"thinking": "重いキャンバスを黙々と(。しぶとく)支え続け(。、一歩も引かない頑丈さ。画家の（。魂の（。冒険を（。背負（。う、忠実な（。ロバ（。のような（。道具（。)。",
+		"concept": "A wooden frame for holding an artist's work while it is being painted 重いキャンバスを黙々としぶとく支え続け、一歩も引かない頑丈さ。画家の魂の冒険を背負う、忠実なロバのような道具。",
+		"thinking": "重いキャンバスを黙々としぶとく支え続け、一歩も引かない頑丈さ。画家の魂の冒険を背負う、忠実なロバのような道具。",
 		"aftertaste": "真っ白な「イーゼル（画架）」の（。前に（。立った（。とき（。、あなたは（。世界で（。一番（。孤独（。で（。、そして（。一番（。自由（。な（。創造主（。になれるのですよ。",
 		"example": "The museum houses a magnificent easel that dates back to the Renaissance.",
 		"deep_dive": {
@@ -200643,8 +200636,8 @@ const WORDS = [
 			],
 			"original_statement": "From 14th Century re- (back) + levare (to raise, lift)."
 		},
-		"concept": "A sculptural technique where the sculpted elements remains attached to a solid background of the same material (平坦な(。背景（。から（。、一部（。を「再び（。リ)持ち上げる(。レヴェ)」ことで(。、影（。と（。奥行き（。を（。産み出し（。、平面（。に（。命（。を（。吹き込（。む（。技法（。)。)",
-		"thinking": "平坦な(。背景（。から（。、一部（。を「再び（。リ)持ち上げる(。レヴェ)」ことで(。、影（。と（。奥行き（。を（。産み出し（。、平面（。に（。命（。を（。吹き込（。む（。技法（。)。",
+		"concept": "A sculptural technique where the sculpted elements remains attached to a solid background of the same material 平坦な背景から、一部を「再びリ持ち上げるレヴェ」ことで、影と奥行きを産み出し、平面に命を吹き込む技法。",
+		"thinking": "平坦な背景から、一部を「再びリ持ち上げるレヴェ」ことで、影と奥行きを産み出し、平面に命を吹き込む技法。",
 		"aftertaste": "苦（。し（。み（。から（。解放（。された（。瞬間の「リリーフ（安堵）」は（。、あなたの（。人生の（。物語（。に（。、深（。い（。深（。い（。奥行き（。を（。与えて（。（。くれる（。、最高の（。贈り物（。なのですよ。",
 		"example": "The museum houses a magnificent relief that dates back to the Renaissance.",
 		"deep_dive": {
@@ -200671,8 +200664,8 @@ const WORDS = [
 			],
 			"original_statement": "From 19th Century keramos (potter's clay)."
 		},
-		"concept": "Pots and other articles made from clay hardened by heat (柔らかい(。泥（。ケラモス)が(。、火（。の（。試練（。を（。受けて（。、宝石（。のような（。硬度（。と（。輝き（。を（。手（。に入（。れた（。、元素（。の（。錬金術（。)。)",
-		"thinking": "柔らかい(。泥（。ケラモス)が(。、火（。の（。試練（。を（。受けて（。、宝石（。のような（。硬度（。と（。輝き（。を（。手（。に入（。れた（。、元素（。の（。錬金術（。)。",
+		"concept": "Pots and other articles made from clay hardened by heat 柔らかい泥ケラモスが、火の試練を受けて、宝石のような硬度と輝きを手に入れた、元素の錬金術。",
+		"thinking": "柔らかい泥ケラモスが、火の試練を受けて、宝石のような硬度と輝きを手に入れた、元素の錬金術。",
 		"aftertaste": "あなた（。の（。心（。の（。傷（。も（。、経験（。という（。火（。にく（。べ（。（。られ（。、長い（。時間（。を（。かければ（。、いつか（。「セラミックス（陶器）」のように（。、強くて（。美しい（。誇（。りに（。変わ（。ります。",
 		"example": "The museum houses a magnificent ceramics that dates back to the Renaissance.",
 		"deep_dive": {
@@ -200699,8 +200692,8 @@ const WORDS = [
 			],
 			"original_statement": "From Old English brush + stroke."
 		},
-		"concept": "A mark made by a paintbrush drawn across a surface (画家の(。筋肉（。の（。震（。え（。や（。、その（。時（。の（。呼吸（。が（。、そのまま（。物質（。として（。定着（。した（。、魂の（。筆跡（。。（。一筆（。の中に（。、全人格（。が（。宿る（。)。)",
-		"thinking": "画家の(。筋肉（。の（。震（。え（。や（。、その（。時（。の（。呼吸（。が（。、そのまま（。物質（。として（。定着（。した（。、魂の（。筆跡（。。（。一筆（。の中に（。、全人格（。が（。宿る（。)。",
+		"concept": "A mark made by a paintbrush drawn across a surface 画家の筋肉の震えや、その時の呼吸が、そのまま物質として定着した、魂の筆跡。一筆の中に、全人格が宿る。",
+		"thinking": "画家の筋肉の震えや、その時の呼吸が、そのまま物質として定着した、魂の筆跡。一筆の中に、全人格が宿る。",
 		"aftertaste": "あなた（。の一生（。懸（。命な（。「筆致（ブラッシュストローク）」を（。誰も（。（。見て（。いない（。と（。嘆（。かない（。で（。ください（。。（。世界（。という（。キャンバス（。には（。、あなた（。が（。描（。き（。残（。した（。勇気（。の（。跡（。が（。、確（。かに（。刻（。まれて（。いる（。のです。",
 		"example": "The museum houses a magnificent brushstroke that dates back to the Renaissance.",
 		"deep_dive": {
@@ -200727,8 +200720,8 @@ const WORDS = [
 			],
 			"original_statement": "From 14th Century veronice (sandarac resin)."
 		},
-		"concept": "Resin dissolved in a liquid for applying on wood, metal, or other materials to form a hard, clear, shiny surface when dry (完成(。した（。努力（。の（。結晶（。を（。、外部（。の（。酸化（。から（。守り（。、深（。い（。光輝（。を（。与（。える（。ための（。、最後（。の（。透明な（。ヴェール（。)。)",
-		"thinking": "完成(。した（。努力（。の（。結晶（。を（。、外部（。の（。酸化（。から（。守り（。、深（。い（。光輝（。を（。与（。える（。ための（。、最後（。の（。透明な（。ヴェール（。)。",
+		"concept": "Resin dissolved in a liquid for applying on wood, metal, or other materials to form a hard, clear, shiny surface when dry 完成した努力の結晶を、外部の酸化から守り、深い光輝を与えるための、最後の透明なヴェール。",
+		"thinking": "完成した努力の結晶を、外部の酸化から守り、深い光輝を与えるための、最後の透明なヴェール。",
 		"aftertaste": "丁寧（。な（。仕上（。げ（。こそが（。、作品（。に「ヴァニッシュ（永遠の光）」を（。灯（。します（。。（。最後の（。一（。手間（。を（。惜（。しまない（。その（。誠実（。さが（。、あなた（。を（。本物（。に（。する（。のです。",
 		"example": "The museum houses a magnificent varnish that dates back to the Renaissance.",
 		"deep_dive": {
@@ -200755,8 +200748,8 @@ const WORDS = [
 			],
 			"original_statement": "From 16th Century laksha (one hundred thousand - referring to many insects)."
 		},
-		"concept": "A liquid made of shellac dissolved in alcohol, or of synthetic substances, that dries to form a hard protective coating for wood, metal, etc. (無数(。の（。命（。が（。紡（。ぎ（。出（。した（。樹脂（。を（。、何層（。にも（。塗（。り（。重（。ねる（。ことで（。、闇（。の（。中から（。最高（。の（。艶（。を（。引き出す（。、東洋の（。神秘（。的な（。被膜（。)。)",
-		"thinking": "無数(。の（。命（。が（。紡（。ぎ（。出（。した（。樹脂（。を（。、何層（。にも（。塗（。り（。重（。ねる（。ことで（。、闇（。の（。中から（。最高（。の（。艶（。を（。引き出す（。、東洋の（。神秘（。的な（。被膜（。)。",
+		"concept": "A liquid made of shellac dissolved in alcohol, or of synthetic substances, that dries to form a hard protective coating for wood, metal, etc. 無数の命が紡ぎ出した樹脂を、何層にも塗り重ねることで、闇の中から最高の艶を引き出す、東洋の神秘的な被膜。",
+		"thinking": "無数の命が紡ぎ出した樹脂を、何層にも塗り重ねることで、闇の中から最高の艶を引き出す、東洋の神秘的な被膜。",
 		"aftertaste": "漆（。のように（。、人生（。の（。苦（。し（。み（。を（。何度（。も「ラッカー（。漆）」として（。塗（。り（。重（。ねて（。ください（。。（。その（。厚（。み（。が（。、いつか（。鏡（。のように（。美（。しく（。、何物（。にも（。傷（。つか（。ない（。誇（。りに（。なり（。ます。",
 		"example": "The museum houses a magnificent lacquer that dates back to the Renaissance.",
 		"deep_dive": {
@@ -200783,8 +200776,8 @@ const WORDS = [
 			],
 			"original_statement": "From 16th Century antiquus (former, ancient)."
 		},
-		"concept": "A collectible object such as a piece of furniture or work of art that has a high value because of its considerable age (単に(。古い（。だけでなく（。、過ぎ去（。った（。「前の（。アンティ)時代(。)」の(。精神（。が（。、美し（。い（。形の（。まま（。保存（。され（。て（。いる（。、時（。の（。琥珀（。)。)",
-		"thinking": "単に(。古い（。だけでなく（。、過ぎ去（。った（。「前の（。アンティ)時代(。)」の(。精神（。が（。、美し（。い（。形の（。まま（。保存（。され（。て（。いる（。、時（。の（。琥珀（。)。",
+		"concept": "A collectible object such as a piece of furniture or work of art that has a high value because of its considerable age 単に古いだけでなく、過ぎ去った「前のアンティ時代」の精神が、美しい形のまま保存されている、時の琥珀。",
+		"thinking": "単に古いだけでなく、過ぎ去った「前のアンティ時代」の精神が、美しい形のまま保存されている、時の琥珀。",
 		"aftertaste": "あなた（。の（。中（。の「アンティーク（古（。き良き信念）」を（。、時代（。遅（。れ（。だと（。捨て（。ないで（。ください（。。（。新（。しい（。もの（。が（。一瞬（。で（。古（。び（。る（。中で（。、変わらない（。本物（。だけ（。が（。、最後（。まで（。価値（。を（。持（。ち（。続ける（。のですよ。",
 		"example": "The museum houses a magnificent antique that dates back to the Renaissance.",
 		"deep_dive": {
@@ -200811,8 +200804,8 @@ const WORDS = [
 			],
 			"original_statement": "From 17th Century Goths (Germanic tribe)."
 		},
-		"concept": "Relating to a style of architecture which prevailed in Europe roughly from the 12th to the 16th centuries, characterized by pointed arches, rib vaults, and flying buttresses, together with large windows and elaborate tracery (かつて(。野蛮（。と（。された（。部族の精神が（。、天を突く（。尖塔（。と（。光り輝く（。ステンドグラス（。へと（。変貌（。した（。もの（。。（。暗闇（。と（。光（。が（。激しく（。交錯（。する（。、魂の（。峻烈（。な（。祈り（。)。)",
-		"thinking": "かつて(。野蛮（。と（。された（。部族の精神が（。、天を突く（。尖塔（。と（。光り輝く（。ステンドグラス（。へと（。変貌（。した（。もの（。。（。暗闇（。と（。光（。が（。激しく（。交錯（。する（。、魂の（。峻烈（。な（。祈り（。)。",
+		"concept": "Relating to a style of architecture which prevailed in Europe roughly from the 12th to the 16th centuries, characterized by pointed arches, rib vaults, and flying buttresses, together with large windows and elaborate tracery かつて野蛮とされた部族の精神が、天を突く尖塔と光り輝くステンドグラスへと変貌したもの。暗闇と光が激しく交錯する、魂の峻烈な祈り。",
+		"thinking": "かつて野蛮とされた部族の精神が、天を突く尖塔と光り輝くステンドグラスへと変貌したもの。暗闇と光が激しく交錯する、魂の峻烈な祈り。",
 		"aftertaste": "あなた（。の（。（。中に（。ある「ゴシック（高貴な暗闇）」を（。否定（。しないで（。ください（。。（。本当（。の（。光（。は（。、底（。無（。し（。の（。深い（。闇（。を（。知（。る（。者（。に（。だけ（。、その（。美（。しさ（。を（。あら（。わ（。す（。のですよ。",
 		"example": "The museum houses a magnificent gothic that dates back to the Renaissance.",
 		"deep_dive": {
@@ -200839,8 +200832,8 @@ const WORDS = [
 			],
 			"original_statement": "From 17th Century classicus (belonging to the highest class of citizens)."
 		},
-		"concept": "Judged over a period of time to be of the highest quality and outstanding of its kind (時代(。の（。荒波（。に（。洗（。われ（。て（。も（。、決して（。古（。び（。ず（。、常に「最高順位（。クラス)」の(。座（。に（。留（。まり（。続ける（。、美（。と（。知性（。の（。不変（。の（。模範（。)。)",
-		"thinking": "時代(。の（。荒波（。に（。洗（。われ（。て（。も（。、決して（。古（。び（。ず（。、常に「最高順位（。クラス)」の(。座（。に（。留（。まり（。続ける（。、美（。と（。知性（。の（。不変（。の（。模範（。)。",
+		"concept": "Judged over a period of time to be of the highest quality and outstanding of its kind 時代の荒波に洗われても、決して古びず、常に「最高順位クラス」の座に留まり続ける、美と知性の不変の模範。",
+		"thinking": "時代の荒波に洗われても、決して古びず、常に「最高順位クラス」の座に留まり続ける、美と知性の不変の模範。",
 		"aftertaste": "「クラシック（古典）」に（。触（。れる（。こと（。は（。、千（。年前（。の（。天才（。と（。、今（。この（。瞬間（。に（。対話（。する（。こと（。です（。。（。時（。の（。壁（。を（。軽（。やか（。に（。越（。える（。、その（。魔法（。を（。体験（。して（。ください。",
 		"example": "The museum houses a magnificent classic that dates back to the Renaissance.",
 		"deep_dive": {
@@ -200867,8 +200860,8 @@ const WORDS = [
 			],
 			"original_statement": "From 19th Century Alessandro Volta (Italian physicist)."
 		},
-		"concept": "An electromotive force or potential difference expressed in volts (エナジーが(。流れようと（。、内側から（。壁面を（。力強く（。押し（。広げて（。いる（。、「圧力（。プレッシャー)」としての（。情熱の（。高まり。)",
-		"thinking": "エナジーが(。流れようと（。、内側から（。壁面を（。力強く（。押し（。広げて（。いる（。、「圧力（。プレッシャー)」としての（。情熱の（。高まり。",
+		"concept": "An electromotive force or potential difference expressed in volts エナジーが流れようと、内側から壁面を力強く押し広げている、「圧力プレッシャー」としての情熱の高まり。",
+		"thinking": "エナジーが流れようと、内側から壁面を力強く押し広げている、「圧力プレッシャー」としての情熱の高まり。",
 		"aftertaste": "静止は死であり、運動こそが生命の証です。",
 		"example": "The project gained significant voltage after the announcement.",
 		"deep_dive": {
@@ -200895,8 +200888,8 @@ const WORDS = [
 			],
 			"original_statement": "From 18th Century insula (island)."
 		},
-		"concept": "A substance which does not readily allow the passage of heat or sound (周囲の(。激流（。から（。、自らを「島（。アイランド)のように(。隔離し（。)」、内なる（。静寂（。や（。熱（。を（。大切に（。守（。り（。続ける（。ための（。、静かなる（。障壁。)",
-		"thinking": "周囲の(。激流（。から（。、自らを「島（。アイランド)のように(。隔離し（。)」、内なる（。静寂（。や（。熱（。を（。大切に（。守（。り（。続ける（。ための（。、静かなる（。障壁。",
+		"concept": "A substance which does not readily allow the passage of heat or sound 周囲の激流から、自らを「島アイランドのように隔離し」、内なる静寂や熱を大切に守り続けるための、静かなる障壁。",
+		"thinking": "周囲の激流から、自らを「島アイランドのように隔離し」、内なる静寂や熱を大切に守り続けるための、静かなる障壁。",
 		"aftertaste": "静止は死であり、運動こそが生命の証です。",
 		"example": "The project gained significant insulator after the announcement.",
 		"deep_dive": {
@@ -200923,8 +200916,8 @@ const WORDS = [
 			],
 			"original_statement": "From 16th Century radius (ray, spoke of a wheel)."
 		},
-		"concept": "The emission of energy as electromagnetic waves or as moving subatomic particles, especially high-energy particles which cause ionization (中心から(。四方八方へと「光（。レイ)として(。放たれ（。)」、世界の（。隅々（。まで（。自らの（。影響（。を（。及（。ぼ（。そう（。とする（。、能動的（。な（。発散。)",
-		"thinking": "中心から(。四方八方へと「光（。レイ)として(。放たれ（。)」、世界の（。隅々（。まで（。自らの（。影響（。を（。及（。ぼ（。そう（。とする（。、能動的（。な（。発散。",
+		"concept": "The emission of energy as electromagnetic waves or as moving subatomic particles, especially high-energy particles which cause ionization 中心から四方八方へと「光レイとして放たれ」、世界の隅々まで自らの影響を及ぼそうとする、能動的な発散。",
+		"thinking": "中心から四方八方へと「光レイとして放たれ」、世界の隅々まで自らの影響を及ぼそうとする、能動的な発散。",
 		"aftertaste": "静止は死であり、運動こそが生命の証です。",
 		"example": "The project gained significant radiation after the announcement.",
 		"deep_dive": {
@@ -200951,8 +200944,8 @@ const WORDS = [
 			],
 			"original_statement": "From 16th Century com- (together) + ducere (to lead)."
 		},
-		"concept": "The process by which heat or electricity is directly transmitted through a substance when there is a difference of temperature or of electrical potential between adjoining regions (触(。れ（。合う（。もの（。同士が（。、「一つに（。コン)導(。き（。ドゥ)合う(。)」ことで（。、エナジーを（。手渡し（。で（。確実に（。伝え（。て（。いく（。、誠実（。な（。継承。)",
-		"thinking": "触(。れ（。合う（。もの（。同士が（。、「一つに（。コン)導(。き（。ドゥ)合う(。)」ことで（。、エナジーを（。手渡し（。で（。確実に（。伝え（。て（。いく（。、誠実（。な（。継承。",
+		"concept": "The process by which heat or electricity is directly transmitted through a substance when there is a difference of temperature or of electrical potential between adjoining regions 触れ合うもの同士が、「一つにコン導きドゥ合う」ことで、エナジーを手渡しで確実に伝えていく、誠実な継承。",
+		"thinking": "触れ合うもの同士が、「一つにコン導きドゥ合う」ことで、エナジーを手渡しで確実に伝えていく、誠実な継承。",
 		"aftertaste": "静止は死であり、運動こそが生命の証です。",
 		"example": "The project gained significant conduction after the announcement.",
 		"deep_dive": {
@@ -200979,8 +200972,8 @@ const WORDS = [
 			],
 			"original_statement": "From 20th Century isos (equal) + topos (place)."
 		},
-		"concept": "Each of two or more forms of the same element that contain equal numbers of protons but different numbers of neutrons in their nuclei (見た(。目や（。役割は（。少し（。違（。っても（。、「等（。しい（。アイソ)場所(。トポス)」を（。分け（。合う（。、魂の（。双子（。。（。お互い（。の（。違い（。を（。認（。め（。つつ（。、同（。じ（。本質（。を（。生き（。よう（。とする（。、連帯。)",
-		"thinking": "見た(。目や（。役割は（。少し（。違（。っても（。、「等（。しい（。アイソ)場所(。トポス)」を（。分け（。合う（。、魂の（。双子（。。（。お互い（。の（。違い（。を（。認（。め（。つつ（。、同（。じ（。本質（。を（。生き（。よう（。とする（。、連帯。",
+		"concept": "Each of two or more forms of the same element that contain equal numbers of protons but different numbers of neutrons in their nuclei 見た目や役割は少し違っても、「等しいアイソ場所トポス」を分け合う、魂の双子。お互いの違いを認めつつ、同じ本質を生きようとする、連帯。",
+		"thinking": "見た目や役割は少し違っても、「等しいアイソ場所トポス」を分け合う、魂の双子。お互いの違いを認めつつ、同じ本質を生きようとする、連帯。",
 		"aftertaste": "静止は死であり、運動こそが生命の証です。",
 		"example": "The project gained significant isotope after the announcement.",
 		"deep_dive": {
@@ -201007,8 +201000,8 @@ const WORDS = [
 			],
 			"original_statement": "From 17th Century findere (to split)."
 		},
-		"concept": "The action of dividing or splitting something into two or more parts (一(。つに（。まとまって（。いた（。ものを（。「引（。き（。裂（。く（。フィス)」ことで（。、封印（。されて（。いた（。巨大な（。エナジーを（。、一気（。に（。解（。放（。する（。、破壊（。と（。誕生（。の（。儀式。)",
-		"thinking": "一(。つに（。まとまって（。いた（。ものを（。「引（。き（。裂（。く（。フィス)」ことで（。、封印（。されて（。いた（。巨大な（。エナジーを（。、一気（。に（。解（。放（。する（。、破壊（。と（。誕生（。の（。儀式。",
+		"concept": "The action of dividing or splitting something into two or more parts 一つにまとまっていたものを「引き裂くフィス」ことで、封印されていた巨大なエナジーを、一気に解放する、破壊と誕生の儀式。",
+		"thinking": "一つにまとまっていたものを「引き裂くフィス」ことで、封印されていた巨大なエナジーを、一気に解放する、破壊と誕生の儀式。",
 		"aftertaste": "静止は死であり、運動こそが生命の証です。",
 		"example": "The project gained significant fission after the announcement.",
 		"deep_dive": {
@@ -201035,8 +201028,8 @@ const WORDS = [
 			],
 			"original_statement": "From 16th Century fundere (to pour, melt)."
 		},
-		"concept": "The process or result of joining two or more things together to form a single entity (バラバラの(。魂（。を（。「溶（。かし（。フューズ)合わせ(。)」、一（。筋（。の（。巨大な（。河（。として（。流（。し（。込む（。こと（。で（。、宇宙を（。も（。創り（。出す（。、究極の（。連帯。)",
-		"thinking": "バラバラの(。魂（。を（。「溶（。かし（。フューズ)合わせ(。)」、一（。筋（。の（。巨大な（。河（。として（。流（。し（。込む（。こと（。で（。、宇宙を（。も（。創り（。出す（。、究極の（。連帯。",
+		"concept": "The process or result of joining two or more things together to form a single entity バラバラの魂を「溶かしフューズ合わせ」、一筋の巨大な河として流し込むことで、宇宙をも創り出す、究極の連帯。",
+		"thinking": "バラバラの魂を「溶かしフューズ合わせ」、一筋の巨大な河として流し込むことで、宇宙をも創り出す、究極の連帯。",
 		"aftertaste": "静止は死であり、運動こそが生命の証です。",
 		"example": "The project gained significant fusion after the announcement.",
 		"deep_dive": {
@@ -201063,8 +201056,8 @@ const WORDS = [
 			],
 			"original_statement": "From 19th Century plasma (something formed, molded)."
 		},
-		"concept": "An ionized gas consisting of positive ions and free electrons in proportions resulting in more or less no overall electric charge, typically at very high temperatures from stars or fusion reactors (物質(。の（。境界（。が（。溶（。け（。去（。り（。、ただ（。光（。り輝（。く「形（。を（。持（。たない（。流（。動体（。プラズマ)」に（。至（。った（。、宇宙の（。原初（。の（。混沌（。と（。生命。)",
-		"thinking": "物質(。の（。境界（。が（。溶（。け（。去（。り（。、ただ（。光（。り輝（。く「形（。を（。持（。たない（。流（。動体（。プラズマ)」に（。至（。った（。、宇宙の（。原初（。の（。混沌（。と（。生命。",
+		"concept": "An ionized gas consisting of positive ions and free electrons in proportions resulting in more or less no overall electric charge, typically at very high temperatures from stars or fusion reactors 物質の境界が溶け去り、ただ光り輝く「形を持たない流動体プラズマ」に至った、宇宙の原初の混沌と生命。",
+		"thinking": "物質の境界が溶け去り、ただ光り輝く「形を持たない流動体プラズマ」に至った、宇宙の原初の混沌と生命。",
 		"aftertaste": "静止は死であり、運動こそが生命の証です。",
 		"example": "The project gained significant plasma after the announcement.",
 		"deep_dive": {
@@ -201091,8 +201084,8 @@ const WORDS = [
 			],
 			"original_statement": "From 14th Century ingenium (natural talent, ingenuity)."
 		},
-		"concept": "A machine with moving parts that converts power into motion (単なる(。機械（。ではなく（。、内側から（。湧（。き（。上（。がる「天分（。インジェニュイティ)」を（。、世界（。を（。前進（。させる（。動力（。へと（。結（。晶（。させた（。、人間の（。智恵の（。結晶。)",
-		"thinking": "単なる(。機械（。ではなく（。、内側から（。湧（。き（。上（。がる「天分（。インジェニュイティ)」を（。、世界（。を（。前進（。させる（。動力（。へと（。結（。晶（。させた（。、人間の（。智恵の（。結晶。",
+		"concept": "A machine with moving parts that converts power into motion 単なる機械ではなく、内側から湧き上がる「天分インジェニュイティ」を、世界を前進させる動力へと結晶させた、人間の智恵の結晶。",
+		"thinking": "単なる機械ではなく、内側から湧き上がる「天分インジェニュイティ」を、世界を前進させる動力へと結晶させた、人間の智恵の結晶。",
 		"aftertaste": "静止は死であり、運動こそが生命の証です。",
 		"example": "The project gained significant engine after the announcement.",
 		"deep_dive": {
@@ -201119,8 +201112,8 @@ const WORDS = [
 			],
 			"original_statement": "From 15th Century com- (together) + burere (to burn)."
 		},
-		"concept": "The process of burning something (蓄(。え（。られた（。エナジーを（。、酸素（。と（。「共に（。コン)一気に(。燃や（。し（。バス)尽くす」ことで（。、一瞬（。の（。閃光（。と（。力強（。い（。前進（。を（。産む（。、魂の（。点火。)",
-		"thinking": "蓄(。え（。られた（。エナジーを（。、酸素（。と（。「共に（。コン)一気に(。燃や（。し（。バス)尽くす」ことで（。、一瞬（。の（。閃光（。と（。力強（。い（。前進（。を（。産む（。、魂の（。点火。",
+		"concept": "The process of burning something 蓄えられたエナジーを、酸素と「共にコン一気に燃やしバス尽くす」ことで、一瞬の閃光と力強い前進を産む、魂の点火。",
+		"thinking": "蓄えられたエナジーを、酸素と「共にコン一気に燃やしバス尽くす」ことで、一瞬の閃光と力強い前進を産む、魂の点火。",
 		"aftertaste": "静止は死であり、運動こそが生命の証です。",
 		"example": "The project gained significant combustion after the announcement.",
 		"deep_dive": {
@@ -201147,8 +201140,8 @@ const WORDS = [
 			],
 			"original_statement": "From 19th Century pro- (forward) + pellere (to drive)."
 		},
-		"concept": "A chemical substance used in the production of energy or gas to provide thrust (自(。らを（。燃（。やし（。、自分を「前へと（。プロ)力強く(。押し出す（。ペル)」ための（。、孤独（。で（。潔（。い（。覚悟（。の（。エナジー。)",
-		"thinking": "自(。らを（。燃（。やし（。、自分を「前へと（。プロ)力強く(。押し出す（。ペル)」ための（。、孤独（。で（。潔（。い（。覚悟（。の（。エナジー。",
+		"concept": "A chemical substance used in the production of energy or gas to provide thrust 自らを燃やし、自分を「前へとプロ力強く押し出すペル」ための、孤独で潔い覚悟のエナジー。",
+		"thinking": "自らを燃やし、自分を「前へとプロ力強く押し出すペル」ための、孤独で潔い覚悟のエナジー。",
 		"aftertaste": "静止は死であり、運動こそが生命の証です。",
 		"example": "The project gained significant propellant after the announcement.",
 		"deep_dive": {
@@ -201175,8 +201168,8 @@ const WORDS = [
 			],
 			"original_statement": "From 12th Century thrystan (to press, force, stab, thrust)."
 		},
-		"concept": "Push something or someone suddenly or violently in the specified direction (迷(。い（。を（。断（。ち（。切（。り（。、一点（。に向かって「突き（。スラスト)進む」ことで(。、重力（。という（。過去（。を（。振り切り（。、宇宙（。の（。深淵（。へと（。飛翔（。する（。ための（。、最初（。の（。力（。)。)",
-		"thinking": "迷(。い（。を（。断（。ち（。切（。り（。、一点（。に向かって「突き（。スラスト)進む」ことで(。、重力（。という（。過去（。を（。振り切り（。、宇宙（。の（。深淵（。へと（。飛翔（。する（。ための（。、最初（。の（。力（。)。",
+		"concept": "Push something or someone suddenly or violently in the specified direction 迷いを断ち切り、一点に向かって「突きスラスト進む」ことで、重力という過去を振り切り、宇宙の深淵へと飛翔するための、最初の力。",
+		"thinking": "迷いを断ち切り、一点に向かって「突きスラスト進む」ことで、重力という過去を振り切り、宇宙の深淵へと飛翔するための、最初の力。",
 		"aftertaste": "静止は死であり、運動こそが生命の証です。",
 		"example": "The project gained significant thrust after the announcement.",
 		"deep_dive": {
@@ -201203,8 +201196,8 @@ const WORDS = [
 			],
 			"original_statement": "From 19th Century aer (air) + bios (life)."
 		},
-		"concept": "Relating to, involving, or requiring free oxygen (世界(。を（。満（。たす「空気（。エア)」を(。、自ら（。の「命（。ビオス)」へと(。丁寧（。に（。取（。り（。込（。み（。、穏やか（。に（。、そして（。力強く（。燃（。え（。続ける（。、調和（。の（。生命（。)。)",
-		"thinking": "世界(。を（。満（。たす「空気（。エア)」を(。、自ら（。の「命（。ビオス)」へと(。丁寧（。に（。取（。り（。込（。み（。、穏やか（。に（。、そして（。力強く（。燃（。え（。続ける（。、調和（。の（。生命（。)。",
+		"concept": "Relating to, involving, or requiring free oxygen 世界を満たす「空気エア」を、自らの「命ビオス」へと丁寧に取り込み、穏やかに、そして力強く燃え続ける、調和の生命。",
+		"thinking": "世界を満たす「空気エア」を、自らの「命ビオス」へと丁寧に取り込み、穏やかに、そして力強く燃え続ける、調和の生命。",
 		"aftertaste": "「エアロビック（有酸素の）」な（。運動（。は（。、肺（。の（。隅々（。まで（。宇宙の（。エナジーを（。届（。けて（。くれ（。、あなた（。の（。細胞（。を（。一（。つ（。残（。さず（。祝福（。して（。くれる（。のですよ。",
 		"example": "The project gained significant aerobic after the announcement.",
 		"deep_dive": {
@@ -201231,8 +201224,8 @@ const WORDS = [
 			],
 			"original_statement": "From 19th Century an- (not) + aer (air) + bios (life)."
 		},
-		"concept": "Relating to, involving, or requiring an absence of free oxygen (空気（。に（。頼（。らず（。、自ら（。の（。内側に（。蓄（。え（。た（。爆発（。的な（。エナジーだけで（。、限界を（。突（。き（。破（。ろうとする（。、峻烈（。な（。挑戦（。の（。炎。)",
-		"thinking": "空気（。に（。頼（。らず（。、自ら（。の（。内側に（。蓄（。え（。た（。爆発（。的な（。エナジーだけで（。、限界を（。突（。き（。破（。ろうとする（。、峻烈（。な（。挑戦（。の（。炎。",
+		"concept": "Relating to, involving, or requiring an absence of free oxygen 空気に頼らず、自らの内側に蓄えた爆発的なエナジーだけで、限界を突き破ろうとする、峻烈な挑戦の炎。",
+		"thinking": "空気に頼らず、自らの内側に蓄えた爆発的なエナジーだけで、限界を突き破ろうとする、峻烈な挑戦の炎。",
 		"aftertaste": "静止は死であり、運動こそが生命の証です。",
 		"example": "The project gained significant anaerobic after the announcement.",
 		"deep_dive": {
@@ -201259,8 +201252,8 @@ const WORDS = [
 			],
 			"original_statement": "From 19th Century calor (heat)."
 		},
-		"concept": "The energy needed to raise the temperature of 1 kilogram of water by 1 degree Celsius (生命(。という（。小さな（。エンジン（。を（。回（。すための「熱（。カロール)」の（。単位（。。（。あなたが（。今日（。一歩（。歩（。く（。ために（。、宇宙（。が（。分（。けて（。くれ（。た（。、エナジー（。の（。ギフト。)",
-		"thinking": "生命(。という（。小さな（。エンジン（。を（。回（。すための「熱（。カロール)」の（。単位（。。（。あなたが（。今日（。一歩（。歩（。く（。ために（。、宇宙（。が（。分（。けて（。くれ（。た（。、エナジー（。の（。ギフト。",
+		"concept": "The energy needed to raise the temperature of 1 kilogram of water by 1 degree Celsius 生命という小さなエンジンを回すための「熱カロール」の単位。あなたが今日一歩歩くために、宇宙が分けてくれた、エナジーのギフト。",
+		"thinking": "生命という小さなエンジンを回すための「熱カロール」の単位。あなたが今日一歩歩くために、宇宙が分けてくれた、エナジーのギフト。",
 		"aftertaste": "静止は死であり、運動こそが生命の証です。",
 		"example": "The project gained significant calorie after the announcement.",
 		"deep_dive": {
@@ -201287,8 +201280,8 @@ const WORDS = [
 			],
 			"original_statement": "From 18th Century horse + power."
 		},
-		"concept": "An imperial unit of power, equivalent to 550 foot-pounds per second (かつて(。大地を（。力強く（。駆（。け（。抜け（。た（。「馬（。ホース)」の（。エナジーを（。基準に（。、人間が（。手（。に（。入れ（。た（。、物理的（。な（。成功（。の（。スケール。)",
-		"thinking": "かつて(。大地を（。力強く（。駆（。け（。抜け（。た（。「馬（。ホース)」の（。エナジーを（。基準に（。、人間が（。手（。に（。入れ（。た（。、物理的（。な（。成功（。の（。スケール。",
+		"concept": "An imperial unit of power, equivalent to 550 foot-pounds per second かつて大地を力強く駆け抜けた「馬ホース」のエナジーを基準に、人間が手に入れた、物理的な成功のスケール。",
+		"thinking": "かつて大地を力強く駆け抜けた「馬ホース」のエナジーを基準に、人間が手に入れた、物理的な成功のスケール。",
 		"aftertaste": "静止は死であり、運動こそが生命の証です。",
 		"example": "The project gained significant horsepower after the announcement.",
 		"deep_dive": {
@@ -201315,8 +201308,8 @@ const WORDS = [
 			],
 			"original_statement": "From 19th Century torquere (to twist)."
 		},
-		"concept": "A twisting force that tends to cause rotation (真っ直ぐ(。に（。進（。む（。のではなく（。、自らを「ねじ（。切（。る（。トルク)ようにして」回転（。させ（。、粘（。り（。強（。く（。困難（。を（。突破（。しようとする（。、内側（。の（。強力な（。粘り（。腰。)",
-		"thinking": "真っ直ぐ(。に（。進（。む（。のではなく（。、自らを「ねじ（。切（。る（。トルク)ようにして」回転（。させ（。、粘（。り（。強（。く（。困難（。を（。突破（。しようとする（。、内側（。の（。強力な（。粘り（。腰。",
+		"concept": "A twisting force that tends to cause rotation 真っ直ぐに進むのではなく、自らを「ねじ切るトルクようにして」回転させ、粘り強く困難を突破しようとする、内側の強力な粘り腰。",
+		"thinking": "真っ直ぐに進むのではなく、自らを「ねじ切るトルクようにして」回転させ、粘り強く困難を突破しようとする、内側の強力な粘り腰。",
 		"aftertaste": "静止は死であり、運動こそが生命の証です。",
 		"example": "The project gained significant torque after the announcement.",
 		"deep_dive": {
@@ -201343,8 +201336,8 @@ const WORDS = [
 			],
 			"original_statement": "From 14th Century mustikos (secret, mystic)."
 		},
-		"concept": "A person who seeks by contemplation and self-surrender to obtain unity with or absorption into the Deity or the absolute, or who believes in the spiritual apprehension of truths that are beyond the intellect (目(。に見える（。物理的な（。世界を超え（。、「沈黙（。ミュース)のうちに(。閉じ込められた（。)」神聖な（。真理を（。、魂の（。深い震えで（。捉えようと（。する者。)",
-		"thinking": "目(。に見える（。物理的な（。世界を超え（。、「沈黙（。ミュース)のうちに(。閉じ込められた（。)」神聖な（。真理を（。、魂の（。深い震えで（。捉えようと（。する者。",
+		"concept": "A person who seeks by contemplation and self-surrender to obtain unity with or absorption into the Deity or the absolute, or who believes in the spiritual apprehension of truths that are beyond the intellect 目に見える物理的な世界を超え、「沈黙ミュースのうちに閉じ込められた」神聖な真理を、魂の深い震えで捉えようとする者。",
+		"thinking": "目に見える物理的な世界を超え、「沈黙ミュースのうちに閉じ込められた」神聖な真理を、魂の深い震えで捉えようとする者。",
 		"aftertaste": "謎は、明日を夢見るための最も美しいエッセンスです。",
 		"example": "The old manuscript was written in a mystic language that took years to decode.",
 		"deep_dive": {
@@ -201371,8 +201364,8 @@ const WORDS = [
 			],
 			"original_statement": "From 17th Century ainigma (riddle)."
 		},
-		"concept": "Difficult to interpret or understand; mysterious (一筋(。縄（。では（。行（。かない（。、「怪物（。スフィンクス（。が（。出す（。ような（。難問（。エニグマ)」に（。満ち（。て（。おり（。、思考（。の（。限界を（。軽（。やかに（。嘲笑（。する（。ような（。、深（。い（。奥行き。)",
-		"thinking": "一筋(。縄（。では（。行（。かない（。、「怪物（。スフィンクス（。が（。出す（。ような（。難問（。エニグマ)」に（。満ち（。て（。おり（。、思考（。の（。限界を（。軽（。やかに（。嘲笑（。する（。ような（。、深（。い（。奥行き。",
+		"concept": "Difficult to interpret or understand; mysterious 一筋縄では行かない、「怪物スフィンクスが出すような難問エニグマ」に満ちており、思考の限界を軽やかに嘲笑するような、深い奥行き。",
+		"thinking": "一筋縄では行かない、「怪物スフィンクスが出すような難問エニグマ」に満ちており、思考の限界を軽やかに嘲笑するような、深い奥行き。",
 		"aftertaste": "謎は、明日を夢見るための最も美しいエッセンスです。",
 		"example": "The old manuscript was written in a enigmatic language that took years to decode.",
 		"deep_dive": {
@@ -201399,8 +201392,8 @@ const WORDS = [
 			],
 			"original_statement": "From 14th Century findere (to split)."
 		},
-		"concept": "A long, narrow opening or line of breakage made by cracking or splitting, especially in rock or earth (強固(。な（。岩（。といえ（。ども（。、内部（。からの（。圧力（。によって（。「引き裂（。き（。フィス)割られた(。)」、その（。境界（。の（。痕跡。)",
-		"thinking": "強固(。な（。岩（。といえ（。ども（。、内部（。からの（。圧力（。によって（。「引き裂（。き（。フィス)割られた(。)」、その（。境界（。の（。痕跡。",
+		"concept": "A long, narrow opening or line of breakage made by cracking or splitting, especially in rock or earth 強固な岩といえども、内部からの圧力によって「引き裂きフィス割られた」、その境界の痕跡。",
+		"thinking": "強固な岩といえども、内部からの圧力によって「引き裂きフィス割られた」、その境界の痕跡。",
 		"aftertaste": "謎は、明日を夢見るための最も美しいエッセンスです。",
 		"example": "The old manuscript was written in a fissure language that took years to decode.",
 		"deep_dive": {
@@ -201427,8 +201420,8 @@ const WORDS = [
 			],
 			"original_statement": "From 16th Century amuletum (an object that protects a person from trouble)."
 		},
-		"concept": "An ornament or small piece of jewelry thought to give protection against evil, danger, or disease (災い(。から（。持ち主（。を（。「遠ざけ（。アミュレート)守(。る（。)」ための（。、静かなる（。祈り（。の（。結晶（。。（。肌身（。離（。さず（。持つ（。ことで（。、心に（。聖域（。を作る（。もの。)",
-		"thinking": "災い(。から（。持ち主（。を（。「遠ざけ（。アミュレート)守(。る（。)」ための（。、静かなる（。祈り（。の（。結晶（。。（。肌身（。離（。さず（。持つ（。ことで（。、心に（。聖域（。を作る（。もの。",
+		"concept": "An ornament or small piece of jewelry thought to give protection against evil, danger, or disease 災いから持ち主を「遠ざけアミュレート守る」ための、静かなる祈りの結晶。肌身離さず持つことで、心に聖域を作るもの。",
+		"thinking": "災いから持ち主を「遠ざけアミュレート守る」ための、静かなる祈りの結晶。肌身離さず持つことで、心に聖域を作るもの。",
 		"aftertaste": "謎は、明日を夢見るための最も美しいエッセンスです。",
 		"example": "The old manuscript was written in a amulet language that took years to decode.",
 		"deep_dive": {
@@ -201455,8 +201448,8 @@ const WORDS = [
 			],
 			"original_statement": "From 14th Century in- (into) + cantare (to sing)."
 		},
-		"concept": "A series of words said as a magic spell or charm (普通の(。言葉（。に（。魔力（。を「吹き込（。イン)み、歌(。う（。カント)ように(。唱える（。)」こと（。。（。音（。の（。振動（。によって（。、世界（。の（。法則（。を（。一時的に（。ねじ曲げ（。よう（。とする（。試み。)",
-		"thinking": "普通の(。言葉（。に（。魔力（。を「吹き込（。イン)み、歌(。う（。カント)ように(。唱える（。)」こと（。。（。音（。の（。振動（。によって（。、世界（。の（。法則（。を（。一時的に（。ねじ曲げ（。よう（。とする（。試み。",
+		"concept": "A series of words said as a magic spell or charm 普通の言葉に魔力を「吹き込インみ、歌うカントように唱える」こと。音の振動によって、世界の法則を一時的にねじ曲げようとする試み。",
+		"thinking": "普通の言葉に魔力を「吹き込インみ、歌うカントように唱える」こと。音の振動によって、世界の法則を一時的にねじ曲げようとする試み。",
 		"aftertaste": "謎は、明日を夢見るための最も美しいエッセンスです。",
 		"example": "The old manuscript was written in a incantation language that took years to decode.",
 		"deep_dive": {
@@ -201483,8 +201476,8 @@ const WORDS = [
 			],
 			"original_statement": "From 12th Century eremos (desolate, lonely)."
 		},
-		"concept": "A person living in solitude as a religious discipline (社会の(。喧騒（。を（。離（。れ（。、一人「荒野（。エレモス)に(。留まる（。)」こと（。を（。選（。んだ者（。。（。孤独（。という（。厳しい（。修行（。を（。通（。じて（。、内なる（。宇宙（。と（。対話（。し（。続ける（。存在。)",
-		"thinking": "社会の(。喧騒（。を（。離（。れ（。、一人「荒野（。エレモス)に(。留まる（。)」こと（。を（。選（。んだ者（。。（。孤独（。という（。厳しい（。修行（。を（。通（。じて（。、内なる（。宇宙（。と（。対話（。し（。続ける（。存在。",
+		"concept": "A person living in solitude as a religious discipline 社会の喧騒を離れ、一人「荒野エレモスに留まる」ことを選んだ者。孤独という厳しい修行を通じて、内なる宇宙と対話し続ける存在。",
+		"thinking": "社会の喧騒を離れ、一人「荒野エレモスに留まる」ことを選んだ者。孤独という厳しい修行を通じて、内なる宇宙と対話し続ける存在。",
 		"aftertaste": "謎は、明日を夢見るための最も美しいエッセンスです。",
 		"example": "The old manuscript was written in a hermit language that took years to decode.",
 		"deep_dive": {
@@ -201511,8 +201504,8 @@ const WORDS = [
 			],
 			"original_statement": "From 16th Century oligos (few) + arkhein (to rule)."
 		},
-		"concept": "A small group of people having control of a country, organization, or institution (民衆(。を（。嘲笑（。し（。、特権（。を（。分け（。合う「少数の（。オリゴ)権力者(。アーク)」による（。、閉鎖（。的（。な（。支配（。。（。血（。と（。利権（。で（。固められた（。、変化（。を（。拒む（。権威。)",
-		"thinking": "民衆(。を（。嘲笑（。し（。、特権（。を（。分け（。合う「少数の（。オリゴ)権力者(。アーク)」による（。、閉鎖（。的（。な（。支配（。。（。血（。と（。利権（。で（。固められた（。、変化（。を（。拒む（。権威。",
+		"concept": "A small group of people having control of a country, organization, or institution 民衆を嘲笑し、特権を分け合う「少数のオリゴ権力者アーク」による、閉鎖的な支配。血と利権で固められた、変化を拒む権威。",
+		"thinking": "民衆を嘲笑し、特権を分け合う「少数のオリゴ権力者アーク」による、閉鎖的な支配。血と利権で固められた、変化を拒む権威。",
 		"aftertaste": "社会とは、孤独な魂たちが寄り添って作り上げた、巨大な物語の集積です。",
 		"example": "The country's political oligarchy has undergone significant changes in recent years.",
 		"deep_dive": {
@@ -201539,8 +201532,8 @@ const WORDS = [
 			],
 			"original_statement": "From 17th Century foedus (league, treaty, compact)."
 		},
-		"concept": "Relating to or denoting the central government of a federation (独立(。した（。個々（。の（。意志（。が（。、「信頼（。フィデス)という(。結び（。目（。)」によって（。一つ（。に（。繋（。が（。り（。、巨大（。な（。共同体（。へと（。進展（。した（。、知的な（。連帯の（。形。)",
-		"thinking": "独立(。した（。個々（。の（。意志（。が（。、「信頼（。フィデス)という(。結び（。目（。)」によって（。一つ（。に（。繋（。が（。り（。、巨大（。な（。共同体（。へと（。進展（。した（。、知的な（。連帯の（。形。",
+		"concept": "Relating to or denoting the central government of a federation 独立した個々の意志が、「信頼フィデスという結び目」によって一つに繋がり、巨大な共同体へと進展した、知的な連帯の形。",
+		"thinking": "独立した個々の意志が、「信頼フィデスという結び目」によって一つに繋がり、巨大な共同体へと進展した、知的な連帯の形。",
 		"aftertaste": "社会とは、孤独な魂たちが寄り添って作り上げた、巨大な物語の集積です。",
 		"example": "The country's political federal has undergone significant changes in recent years.",
 		"deep_dive": {
@@ -201567,8 +201560,8 @@ const WORDS = [
 			],
 			"original_statement": "From 16th Century munia (duties) + capere (to take up)."
 		},
-		"concept": "Relating to a city or town or its governing body (遠(。い（。中心（。に（。頼（。らず（。、自ら（。の（。街の（。課題（。を「自分（。たちの（。崇高な（。義務（。ミューニア)として(。取（。り（。上げ（。る（。)」、最も（。身近（。な（。自律（。の（。輝き。)",
-		"thinking": "遠(。い（。中心（。に（。頼（。らず（。、自ら（。の（。街の（。課題（。を「自分（。たちの（。崇高な（。義務（。ミューニア)として(。取（。り（。上げ（。る（。)」、最も（。身近（。な（。自律（。の（。輝き。",
+		"concept": "Relating to a city or town or its governing body 遠い中心に頼らず、自らの街の課題を「自分たちの崇高な義務ミューニアとして取り上げる」、最も身近な自律の輝き。",
+		"thinking": "遠い中心に頼らず、自らの街の課題を「自分たちの崇高な義務ミューニアとして取り上げる」、最も身近な自律の輝き。",
 		"aftertaste": "社会とは、孤独な魂たちが寄り添って作り上げた、巨大な物語の集積です。",
 		"example": "The country's political municipal has undergone significant changes in recent years.",
 		"deep_dive": {
@@ -201595,8 +201588,8 @@ const WORDS = [
 			],
 			"original_statement": "From 16th Century civis (citizen)."
 		},
-		"concept": "Relating to a city or town, especially its administration; municipal (ただの(。居住者（。では（。なく（。、社会（。という（。建物（。の（。一部を「担（。う者（。シヴィス)」としての（。自覚（。と（。、公的（。な（。美徳（。への（。献身。)",
-		"thinking": "ただの(。居住者（。では（。なく（。、社会（。という（。建物（。の（。一部を「担（。う者（。シヴィス)」としての（。自覚（。と（。、公的（。な（。美徳（。への（。献身。",
+		"concept": "Relating to a city or town, especially its administration; municipal ただの居住者ではなく、社会という建物の一部を「担う者シヴィス」としての自覚と、公的な美徳への献身。",
+		"thinking": "ただの居住者ではなく、社会という建物の一部を「担う者シヴィス」としての自覚と、公的な美徳への献身。",
 		"aftertaste": "社会とは、孤独な魂たちが寄り添って作り上げた、巨大な物語の集積です。",
 		"example": "The country's political civic has undergone significant changes in recent years.",
 		"deep_dive": {
@@ -201623,8 +201616,8 @@ const WORDS = [
 			],
 			"original_statement": "From 17th Century plus (more)."
 		},
-		"concept": "A condition or system in which two or more states, groups, principles, sources of authority, etc., coexist (一(。つの（。正解（。へと（。他者を（。暴力（。的に（。染める（。のを（。止め（。、「より（。多く（。プルス)の（。価値観」が（。共生（。する（。ことを（。喜（。び（。、豊かさ（。を（。受け（。入（。れよう（。とする（。、知性の（。寛容。)",
-		"thinking": "一(。つの（。正解（。へと（。他者を（。暴力（。的に（。染める（。のを（。止め（。、「より（。多く（。プルス)の（。価値観」が（。共生（。する（。ことを（。喜（。び（。、豊かさ（。を（。受け（。入（。れよう（。とする（。、知性の（。寛容。",
+		"concept": "A condition or system in which two or more states, groups, principles, sources of authority, etc., coexist 一つの正解へと他者を暴力的に染めるのを止め、「より多くプルスの価値観」が共生することを喜び、豊かさを受け入れようとする、知性の寛容。",
+		"thinking": "一つの正解へと他者を暴力的に染めるのを止め、「より多くプルスの価値観」が共生することを喜び、豊かさを受け入れようとする、知性の寛容。",
 		"aftertaste": "社会とは、孤独な魂たちが寄り添って作り上げた、巨大な物語の集積です。",
 		"example": "The country's political pluralism has undergone significant changes in recent years.",
 		"deep_dive": {
@@ -201651,8 +201644,8 @@ const WORDS = [
 			],
 			"original_statement": "From 19th Century com- (together) + sentire (to feel)."
 		},
-		"concept": "A general agreement (言葉(。による（。説得（。を（。超え（。、全員（。が「共に（。コン)感じ(。セン)取り(。)」、深い（。納得（。の（。うちに（。、一つの（。方向（。へと（。魂（。が（。向き（。揃（。う（。、調和（。の（。瞬間。)",
-		"thinking": "言葉(。による（。説得（。を（。超え（。、全員（。が「共に（。コン)感じ(。セン)取り(。)」、深い（。納得（。の（。うちに（。、一つの（。方向（。へと（。魂（。が（。向き（。揃（。う（。、調和（。の（。瞬間。",
+		"concept": "A general agreement 言葉による説得を超え、全員が「共にコン感じセン取り」、深い納得のうちに、一つの方向へと魂が向き揃う、調和の瞬間。",
+		"thinking": "言葉による説得を超え、全員が「共にコン感じセン取り」、深い納得のうちに、一つの方向へと魂が向き揃う、調和の瞬間。",
 		"aftertaste": "社会とは、孤独な魂たちが寄り添って作り上げた、巨大な物語の集積です。",
 		"example": "The country's political consensuses has undergone significant changes in recent years.",
 		"deep_dive": {
@@ -201679,8 +201672,8 @@ const WORDS = [
 			],
 			"original_statement": "From 17th Century com- (together) + alescere (to grow)."
 		},
-		"concept": "An alliance for combined action, especially a temporary alliance of political parties forming a government or of states (敵(。対（。して（。いた（。者（。同士が（。、共通の（。目標（。を（。求めて「共に（。コン)育(。ち（。アリ)始める(。)」、ダイナミック（。で（。戦略的な（。、一時的（。な（。融合。)",
-		"thinking": "敵(。対（。して（。いた（。者（。同士が（。、共通の（。目標（。を（。求めて「共に（。コン)育(。ち（。アリ)始める(。)」、ダイナミック（。で（。戦略的な（。、一時的（。な（。融合。",
+		"concept": "An alliance for combined action, especially a temporary alliance of political parties forming a government or of states 敵対していた者同士が、共通の目標を求めて「共にコン育ちアリ始める」、ダイナミックで戦略的な、一時的な融合。",
+		"thinking": "敵対していた者同士が、共通の目標を求めて「共にコン育ちアリ始める」、ダイナミックで戦略的な、一時的な融合。",
 		"aftertaste": "社会とは、孤独な魂たちが寄り添って作り上げた、巨大な物語の集積です。",
 		"example": "The country's political coalition has undergone significant changes in recent years.",
 		"deep_dive": {
@@ -201707,8 +201700,8 @@ const WORDS = [
 			],
 			"original_statement": "From 16th Century part (part, share)."
 		},
-		"concept": "A strong supporter of a party, cause, or person (全体(。を（。見る（。視力（。を（。一時（。的に（。捨て（。、自らが「分け（。られた（。パート)一部」で（。ある（。ことを（。誇（。り（。に（。し（。、特定（。の（。旗（。の（。ために（。身（。を（。投（。じる（。、狂熱（。の（。忠誠。)",
-		"thinking": "全体(。を（。見る（。視力（。を（。一時（。的に（。捨て（。、自らが「分け（。られた（。パート)一部」で（。ある（。ことを（。誇（。り（。に（。し（。、特定（。の（。旗（。の（。ために（。身（。を（。投（。じる（。、狂熱（。の（。忠誠。",
+		"concept": "A strong supporter of a party, cause, or person 全体を見る視力を一時的に捨て、自らが「分けられたパート一部」であることを誇りにし、特定の旗のために身を投じる、狂熱の忠誠。",
+		"thinking": "全体を見る視力を一時的に捨て、自らが「分けられたパート一部」であることを誇りにし、特定の旗のために身を投じる、狂熱の忠誠。",
 		"aftertaste": "社会とは、孤独な魂たちが寄り添って作り上げた、巨大な物語の集積です。",
 		"example": "The country's political partisan has undergone significant changes in recent years.",
 		"deep_dive": {
@@ -201735,8 +201728,8 @@ const WORDS = [
 			],
 			"original_statement": "From 18th Century espion (spy)."
 		},
-		"concept": "The practice of spying or of using spies, typically by governments, to obtain political and military information (公的(。な（。顔の（。裏側（。で（。、沈黙（。の（。闇を（。、「見（。張（。る（。エスパイ)」こと（。。（。情報（。という（。名の（。毒（。を（。抽出（。し（。、国家（。の（。運命（。を（。歪（。める（。、見えない（。手の（。動き。)",
-		"thinking": "公的(。な（。顔の（。裏側（。で（。、沈黙（。の（。闇を（。、「見（。張（。る（。エスパイ)」こと（。。（。情報（。という（。名の（。毒（。を（。抽出（。し（。、国家（。の（。運命（。を（。歪（。める（。、見えない（。手の（。動き。",
+		"concept": "The practice of spying or of using spies, typically by governments, to obtain political and military information 公的な顔の裏側で、沈黙の闇を、「見張るエスパイ」こと。情報という名の毒を抽出し、国家の運命を歪める、見えない手の動き。",
+		"thinking": "公的な顔の裏側で、沈黙の闇を、「見張るエスパイ」こと。情報という名の毒を抽出し、国家の運命を歪める、見えない手の動き。",
 		"aftertaste": "社会とは、孤独な魂たちが寄り添って作り上げた、巨大な物語の集積です。",
 		"example": "The country's political espionage has undergone significant changes in recent years.",
 		"deep_dive": {
@@ -201763,8 +201756,8 @@ const WORDS = [
 			],
 			"original_statement": "From 19th Century sur- (over) + veiller (to watch)."
 		},
-		"concept": "Close observation, especially of a suspected spy or criminal (全ての(。行動を（。、「上（。シュール)から(。見つめ（。ヴェ)続ける(。)」、逃（。げ（。場（。の（。ない（。まなざし（。。（。安全法（。という（。名の（。檻（。と（。、自由（。という（。名の（。砂漠。)",
-		"thinking": "全ての(。行動を（。、「上（。シュール)から(。見つめ（。ヴェ)続ける(。)」、逃（。げ（。場（。の（。ない（。まなざし（。。（。安全法（。という（。名の（。檻（。と（。、自由（。という（。名の（。砂漠。",
+		"concept": "Close observation, especially of a suspected spy or criminal 全ての行動を、「上シュールから見つめヴェ続ける」、逃げ場のないまなざし。安全法という名の檻と、自由という名の砂漠。",
+		"thinking": "全ての行動を、「上シュールから見つめヴェ続ける」、逃げ場のないまなざし。安全法という名の檻と、自由という名の砂漠。",
 		"aftertaste": "社会とは、孤独な魂たちが寄り添って作り上げた、巨大な物語の集積です。",
 		"example": "The country's political surveillance has undergone significant changes in recent years.",
 		"deep_dive": {
@@ -201791,8 +201784,8 @@ const WORDS = [
 			],
 			"original_statement": "From 14th Century magnus (great) + animus (mind, spirit)."
 		},
-		"concept": "Generosity in forgiving an insult or injury; free from petty resentiveness or vindictiveness (些細(。な（。侮辱（。や（。損害（。を（。飲み込み（。、さらに（。それを（。「巨大（。な（。マグナス)精神(。アニメ)」の（。海で（。中和（。して（。しまう（。、王者の（。ような（。心の（。広さ。)",
-		"thinking": "些細(。な（。侮辱（。や（。損害（。を（。飲み込み（。、さらに（。それを（。「巨大（。な（。マグナス)精神(。アニメ)」の（。海で（。中和（。して（。しまう（。、王者の（。ような（。心の（。広さ。",
+		"concept": "Generosity in forgiving an insult or injury; free from petty resentiveness or vindictiveness 些細な侮辱や損害を飲み込み、さらにそれを「巨大なマグナス精神アニメ」の海で中和してしまう、王者のような心の広さ。",
+		"thinking": "些細な侮辱や損害を飲み込み、さらにそれを「巨大なマグナス精神アニメ」の海で中和してしまう、王者のような心の広さ。",
 		"aftertaste": "心は、世界という巨大な海を渡るための、唯一の羅針盤です。",
 		"example": "Her presence radiated a sense of absolute magnanimity that comforted everyone around her.",
 		"deep_dive": {
@@ -201819,8 +201812,8 @@ const WORDS = [
 			],
 			"original_statement": "From 15th Century audere (to dare)."
 		},
-		"concept": "The willingness to take bold risks (常識(。という（。ブレーキ（。を（。外し（。、未知（。なる（。深淵（。へと「あえて（。オード)挑(。む（。)」、若々（。しい（。魂の（。蛮勇。)",
-		"thinking": "常識(。という（。ブレーキ（。を（。外し（。、未知（。なる（。深淵（。へと「あえて（。オード)挑(。む（。)」、若々（。しい（。魂の（。蛮勇。",
+		"concept": "The willingness to take bold risks 常識というブレーキを外し、未知なる深淵へと「あえてオード挑む」、若々しい魂の蛮勇。",
+		"thinking": "常識というブレーキを外し、未知なる深淵へと「あえてオード挑む」、若々しい魂の蛮勇。",
 		"aftertaste": "心は、世界という巨大な海を渡るための、唯一の羅針盤です。",
 		"example": "Her presence radiated a sense of absolute audacity that comforted everyone around her.",
 		"deep_dive": {
@@ -201847,8 +201840,8 @@ const WORDS = [
 			],
 			"original_statement": "From 16th Century modus (measure, limit)."
 		},
-		"concept": "The quality or state of being unassuming or moderate in the estimation of one's abilities (自らの(。能力を（。ひけらかさず（。、常に「正しい（。節度（。モード)の(。中に（。)」自らを（。収（。め（。て（。おく（。ことの（。できる（。、大人（。の（。余裕。)",
-		"thinking": "自らの(。能力を（。ひけらかさず（。、常に「正しい（。節度（。モード)の(。中に（。)」自らを（。収（。め（。て（。おく（。ことの（。できる（。、大人（。の（。余裕。",
+		"concept": "The quality or state of being unassuming or moderate in the estimation of one's abilities 自らの能力をひけらかさず、常に「正しい節度モードの中に」自らを収めておくことのできる、大人の余裕。",
+		"thinking": "自らの能力をひけらかさず、常に「正しい節度モードの中に」自らを収めておくことのできる、大人の余裕。",
 		"aftertaste": "心は、世界という巨大な海を渡るための、唯一の羅針盤です。",
 		"example": "Her presence radiated a sense of absolute modesty that comforted everyone around her.",
 		"deep_dive": {
@@ -201875,8 +201868,8 @@ const WORDS = [
 			],
 			"original_statement": "From 14th Century temperare (to mix, restrain)."
 		},
-		"concept": "Abstinence from objective alcoholic drink (極端(。な（。欲望（。の（。波を（。、理性という（。名の（。冷静（。な（。水で「絶妙に（。混ぜ（。合わせ（。テンパー)」、常に（。安定（。した（。中庸を（。保（。ち（。続ける（。、内なる（。調律。)",
-		"thinking": "極端(。な（。欲望（。の（。波を（。、理性という（。名の（。冷静（。な（。水で「絶妙に（。混ぜ（。合わせ（。テンパー)」、常に（。安定（。した（。中庸を（。保（。ち（。続ける（。、内なる（。調律。",
+		"concept": "Abstinence from objective alcoholic drink 極端な欲望の波を、理性という名の冷静な水で「絶妙に混ぜ合わせテンパー」、常に安定した中庸を保ち続ける、内なる調律。",
+		"thinking": "極端な欲望の波を、理性という名の冷静な水で「絶妙に混ぜ合わせテンパー」、常に安定した中庸を保ち続ける、内なる調律。",
 		"aftertaste": "心は、世界という巨大な海を渡るための、唯一の羅針盤です。",
 		"example": "Her presence radiated a sense of absolute temperance that comforted everyone around her.",
 		"deep_dive": {
@@ -201903,8 +201896,8 @@ const WORDS = [
 			],
 			"original_statement": "From 15th Century venus (love, beauty, charm)."
 		},
-		"concept": "Great respect; reverence (相手の(。内側に（。ある（。聖なる「美（。ヴィーナス)」を（。見出し（。、それ（。に（。対して（。深く（。頭（。を（。下げる（。、魂の（。礼拝。)",
-		"thinking": "相手の(。内側に（。ある（。聖なる「美（。ヴィーナス)」を（。見出し（。、それ（。に（。対して（。深く（。頭（。を（。下げる（。、魂の（。礼拝。",
+		"concept": "Great respect; reverence 相手の内側にある聖なる「美ヴィーナス」を見出し、それに対して深く頭を下げる、魂の礼拝。",
+		"thinking": "相手の内側にある聖なる「美ヴィーナス」を見出し、それに対して深く頭を下げる、魂の礼拝。",
 		"aftertaste": "心は、世界という巨大な海を渡るための、唯一の羅針盤です。",
 		"example": "Her presence radiated a sense of absolute veneration that comforted everyone around her.",
 		"deep_dive": {
@@ -201931,8 +201924,8 @@ const WORDS = [
 			],
 			"original_statement": "From 17th Century a- (not) + tarassein (to disturb)."
 		},
-		"concept": "A state of freedom from emotional disturbance and anxiety (感情(。の（。波風を「かき（。乱（。される（。タラッ)ことのない(。ア)」、完全（。なる（。内面の（。静寂（。。（。知性（。による（。、運命（。への（。静かなる（。勝利。)",
-		"thinking": "感情(。の（。波風を「かき（。乱（。される（。タラッ)ことのない(。ア)」、完全（。なる（。内面の（。静寂（。。（。知性（。による（。、運命（。への（。静かなる（。勝利。",
+		"concept": "A state of freedom from emotional disturbance and anxiety 感情の波風を「かき乱されるタラッことのないア」、完全なる内面の静寂。知性による、運命への静かなる勝利。",
+		"thinking": "感情の波風を「かき乱されるタラッことのないア」、完全なる内面の静寂。知性による、運命への静かなる勝利。",
 		"aftertaste": "心は、世界という巨大な海を渡るための、唯一の羅針盤です。",
 		"example": "Her presence radiated a sense of absolute ataraxy that comforted everyone around her.",
 		"deep_dive": {
@@ -201959,8 +201952,8 @@ const WORDS = [
 			],
 			"original_statement": "From 19th Century eu- (good) + daimon (spirit)."
 		},
-		"concept": "A Greek word commonly translated as happiness or welfare (単なる(。快楽（。では（。なく（。、自らの（。内なる「良（。き（。エウ)霊魂(。ダイモン)」を（。輝（。か（。せ（。、自分（。本来（。の（。使命を（。生（。き（。切って（。いる（。とき（。の（。、深い（。充足感。)",
-		"thinking": "単なる(。快楽（。では（。なく（。、自らの（。内なる「良（。き（。エウ)霊魂(。ダイモン)」を（。輝（。か（。せ（。、自分（。本来（。の（。使命を（。生（。き（。切って（。いる（。とき（。の（。、深い（。充足感。",
+		"concept": "A Greek word commonly translated as happiness or welfare 単なる快楽ではなく、自らの内なる「良きエウ霊魂ダイモン」を輝かせ、自分本来の使命を生き切っているときの、深い充足感。",
+		"thinking": "単なる快楽ではなく、自らの内なる「良きエウ霊魂ダイモン」を輝かせ、自分本来の使命を生き切っているときの、深い充足感。",
 		"aftertaste": "心は、世界という巨大な海を渡るための、唯一の羅針盤です。",
 		"example": "Her presence radiated a sense of absolute eudaemonia that comforted everyone around her.",
 		"deep_dive": {
@@ -201987,8 +201980,8 @@ const WORDS = [
 			],
 			"original_statement": "From 17th Century psykhein (to breathe)."
 		},
-		"concept": "The human soul, mind, or spirit (肉体(。の（。中を（。そっと（。通り（。抜（。ける「息（。プシュケ)」のような（。、（。目（。には（。見えない（。けれど（。、そこに（。ある（。、あなた（。を（。あなた（。たらし（。めて（。いる（。中心。)",
-		"thinking": "肉体(。の（。中を（。そっと（。通り（。抜（。ける「息（。プシュケ)」のような（。、（。目（。には（。見えない（。けれど（。、そこに（。ある（。、あなた（。を（。あなた（。たらし（。めて（。いる（。中心。",
+		"concept": "The human soul, mind, or spirit 肉体の中をそっと通り抜ける「息プシュケ」のような、目には見えないけれど、そこにある、あなたをあなたたらしめている中心。",
+		"thinking": "肉体の中をそっと通り抜ける「息プシュケ」のような、目には見えないけれど、そこにある、あなたをあなたたらしめている中心。",
 		"aftertaste": "心は、世界という巨大な海を渡るための、唯一の羅針盤です。",
 		"example": "Her presence radiated a sense of absolute psyche that comforted everyone around her.",
 		"deep_dive": {
@@ -202015,8 +202008,8 @@ const WORDS = [
 			],
 			"original_statement": "From 13th Century estrif (discord, conflict)."
 		},
-		"concept": "Angry or bitter disagreement over fundamental issues; conflict (ただの(。喧嘩（。ではなく（。、自らの（。信じる（。正義のために（。、「激しく（。努力（。し（。ストライブ)戦(。う（。)」こと（。。（。避（。け（。られない（。衝突（。が（。、魂を（。研（。ぎ（。澄（。ませ（。、新しい（。真実を（。引（。き（。ず（。り（。出す（。、苦着（。な（。陣痛。)",
-		"thinking": "ただの(。喧嘩（。ではなく（。、自らの（。信じる（。正義のために（。、「激しく（。努力（。し（。ストライブ)戦(。う（。)」こと（。。（。避（。け（。られない（。衝突（。が（。、魂を（。研（。ぎ（。澄（。ませ（。、新しい（。真実を（。引（。き（。ず（。り（。出す（。、苦着（。な（。陣痛。",
+		"concept": "Angry or bitter disagreement over fundamental issues; conflict ただの喧嘩ではなく、自らの信じる正義のために、「激しく努力しストライブ戦う」こと。避けられない衝突が、魂を研ぎ澄ませ、新しい真実を引きずり出す、苦着な陣痛。",
+		"thinking": "ただの喧嘩ではなく、自らの信じる正義のために、「激しく努力しストライブ戦う」こと。避けられない衝突が、魂を研ぎ澄ませ、新しい真実を引きずり出す、苦着な陣痛。",
 		"aftertaste": "葛藤を恐れないでください。それは、新しい調和が生まれるための産声なのですから。",
 		"example": "The diplomat worked tirelessly to reach a lasting strife between the two nations.",
 		"deep_dive": {
@@ -202043,8 +202036,8 @@ const WORDS = [
 			],
 			"original_statement": "From 16th Century Origin uncertain, possibly related to tremere (to tremble)."
 		},
-		"concept": "A state of great disturbance, confusion, or uncertainty (秩序(。が（。崩れ（。、全てが（。予測不可能な（。うねりとなって（。、「震（。え（。トレム)狂(。って（。いる（。)」状態（。。（。古い（。建物（。（。を（。壊（。し（。、更（。地（。に（。する（。ための（。、運命の（。荒療治。)",
-		"thinking": "秩序(。が（。崩れ（。、全てが（。予測不可能な（。うねりとなって（。、「震（。え（。トレム)狂(。って（。いる（。)」状態（。。（。古い（。建物（。（。を（。壊（。し（。、更（。地（。に（。する（。ための（。、運命の（。荒療治。",
+		"concept": "A state of great disturbance, confusion, or uncertainty 秩序が崩れ、全てが予測不可能なうねりとなって、「震えトレム狂っている」状態。古い建物を壊し、更地にするための、運命の荒療治。",
+		"thinking": "秩序が崩れ、全てが予測不可能なうねりとなって、「震えトレム狂っている」状態。古い建物を壊し、更地にするための、運命の荒療治。",
 		"aftertaste": "葛藤を恐れないでください。それは、新しい調和が生まれるための産声なのですから。",
 		"example": "The diplomat worked tirelessly to reach a lasting turmoil between the two nations.",
 		"deep_dive": {
@@ -202071,8 +202064,8 @@ const WORDS = [
 			],
 			"original_statement": "From 19th Century orkhestra (place for dancing)."
 		},
-		"concept": "The planning or coordination of the elements of a situation to produce a desired effect (ただ(。並べる（。のではなく（。、各々（。が（。最高（。の（。パフォ（。ー（。マンス（。を（。発揮（。できる「舞（。台（。を（。整える（。オーケストラ)」こと（。。（。見えない（。指揮者（。の（。眼差し（。による（。、高度（。な（。秩序の（。構築。)",
-		"thinking": "ただ(。並べる（。のではなく（。、各々（。が（。最高（。の（。パフォ（。ー（。マンス（。を（。発揮（。できる「舞（。台（。を（。整える（。オーケストラ)」こと（。。（。見えない（。指揮者（。の（。眼差し（。による（。、高度（。な（。秩序の（。構築。",
+		"concept": "The planning or coordination of the elements of a situation to produce a desired effect ただ並べるのではなく、各々が最高のパフォーマンスを発揮できる「舞台を整えるオーケストラ」こと。見えない指揮者の眼差しによる、高度な秩序の構築。",
+		"thinking": "ただ並べるのではなく、各々が最高のパフォーマンスを発揮できる「舞台を整えるオーケストラ」こと。見えない指揮者の眼差しによる、高度な秩序の構築。",
 		"aftertaste": "葛藤を恐れないでください。それは、新しい調和が生まれるための産声なのですから。",
 		"example": "The diplomat worked tirelessly to reach a lasting orchestration between the two nations.",
 		"deep_dive": {
@@ -202099,8 +202092,8 @@ const WORDS = [
 			],
 			"original_statement": "From 17th Century arma (arms, weapons) + sistere (to stand, stop)."
 		},
-		"concept": "An agreement made by opposing sides in a war to stop fighting for a certain time; a truce (銃火(。を（。交（。わす（。のを（。止（。め（。、自らの「武器（。アルマ)を(。一度（。静止（。シスト)させる(。)」儀式（。。（。真（。の（。平和（。に（。至（。る（。前（。の（。、祈り（。に（。満ち（。た（。沈黙。)",
-		"thinking": "銃火(。を（。交（。わす（。のを（。止（。め（。、自らの「武器（。アルマ)を(。一度（。静止（。シスト)させる(。)」儀式（。。（。真（。の（。平和（。に（。至（。る（。前（。の（。、祈り（。に（。満ち（。た（。沈黙。",
+		"concept": "An agreement made by opposing sides in a war to stop fighting for a certain time; a truce 銃火を交わすのを止め、自らの「武器アルマを一度静止シストさせる」儀式。真の平和に至る前の、祈りに満ちた沈黙。",
+		"thinking": "銃火を交わすのを止め、自らの「武器アルマを一度静止シストさせる」儀式。真の平和に至る前の、祈りに満ちた沈黙。",
 		"aftertaste": "葛藤を恐れないでください。それは、新しい調和が生まれるための産声なのですから。",
 		"example": "The diplomat worked tirelessly to reach a lasting armistice between the two nations.",
 		"deep_dive": {
@@ -202127,8 +202120,8 @@ const WORDS = [
 			],
 			"original_statement": "From 16th Century com- (together) + haerere (to stick)."
 		},
-		"concept": "The quality of being logical and consistent (言葉(。と（。行動が（。、磁石（。のように（。「共に（。コン)密着(。して（。ヘア)離れない(。)」状態（。。（。その（。ブレ（。のない（。姿勢（。が（。、周囲に（。圧倒的（。な（。信頼（。を（。産み出す。)",
-		"thinking": "言葉(。と（。行動が（。、磁石（。のように（。「共に（。コン)密着(。して（。ヘア)離れない(。)」状態（。。（。その（。ブレ（。のない（。姿勢（。が（。、周囲に（。圧倒的（。な（。信頼（。を（。産み出す。",
+		"concept": "The quality of being logical and consistent 言葉と行動が、磁石のように「共にコン密着してヘア離れない」状態。そのブレのない姿勢が、周囲に圧倒的な信頼を産み出す。",
+		"thinking": "言葉と行動が、磁石のように「共にコン密着してヘア離れない」状態。そのブレのない姿勢が、周囲に圧倒的な信頼を産み出す。",
 		"aftertaste": "葛藤を恐れないでください。それは、新しい調和が生まれるための産声なのですから。",
 		"example": "The diplomat worked tirelessly to reach a lasting coherence between the two nations.",
 		"deep_dive": {
@@ -202155,8 +202148,8 @@ const WORDS = [
 			],
 			"original_statement": "From 15th Century re- (back) + per- (through) + quatere (to shake)."
 		},
-		"concept": "An unintended consequence occurring some time after an event or action, especially an unwelcome one (放たれた(。衝撃（。が（。、壁（。を（。突（。き（。抜（。け（。、「再び（。リ)震(。え（。クッシュ)を(。伴（。って（。戻（。って（。くる（。)」こと（。。（。自分（。の（。投（。げ（。た（。石（。が（。、忘（。れた（。頃（。に（。大きな（。波紋（。となって（。、自ら（。を（。揺（。さぶ（。る（。こと。)",
-		"thinking": "放たれた(。衝撃（。が（。、壁（。を（。突（。き（。抜（。け（。、「再び（。リ)震(。え（。クッシュ)を(。伴（。って（。戻（。って（。くる（。)」こと（。。（。自分（。の（。投（。げ（。た（。石（。が（。、忘（。れた（。頃（。に（。大きな（。波紋（。となって（。、自ら（。を（。揺（。さぶ（。る（。こと。",
+		"concept": "An unintended consequence occurring some time after an event or action, especially an unwelcome one 放たれた衝撃が、壁を突き抜け、「再びリ震えクッシュを伴って戻ってくる」こと。自分の投げた石が、忘れた頃に大きな波紋となって、自らを揺さぶること。",
+		"thinking": "放たれた衝撃が、壁を突き抜け、「再びリ震えクッシュを伴って戻ってくる」こと。自分の投げた石が、忘れた頃に大きな波紋となって、自らを揺さぶること。",
 		"aftertaste": "葛藤を恐れないでください。それは、新しい調和が生まれるための産声なのですから。",
 		"example": "The diplomat worked tirelessly to reach a lasting repercussion between the two nations.",
 		"deep_dive": {
@@ -202183,8 +202176,8 @@ const WORDS = [
 			],
 			"original_statement": "From 16th Century movimentum (movement)."
 		},
-		"concept": "Lasting for a very short time (単なる(。短い（。時間で（。はなく（。、運命が（。大きく「動（。き（。ムーブ)変(。わる（。)」、その（。一瞬（。の（。衝撃（。。（。稲妻（。のように（。、世界（。の（。輪郭（。を（。一瞬（。だけ（。照（。らし出（。す（。、時の（。火花。)",
-		"thinking": "単なる(。短い（。時間で（。はなく（。、運命が（。大きく「動（。き（。ムーブ)変(。わる（。)」、その（。一瞬（。の（。衝撃（。。（。稲妻（。のように（。、世界（。の（。輪郭（。を（。一瞬（。だけ（。照（。らし出（。す（。、時の（。火花。",
+		"concept": "Lasting for a very short time 単なる短い時間ではなく、運命が大きく「動きムーブ変わる」、その一瞬の衝撃。稲妻のように、世界の輪郭を一瞬だけ照らし出す、時の火花。",
+		"thinking": "単なる短い時間ではなく、運命が大きく「動きムーブ変わる」、その一瞬の衝撃。稲妻のように、世界の輪郭を一瞬だけ照らし出す、時の火花。",
 		"aftertaste": "時間は、命が自らのかたちを刻み込むための、透明な彫刻刀です。",
 		"example": "The momentary of the concert was exactly two hours.",
 		"deep_dive": {
@@ -202211,8 +202204,8 @@ const WORDS = [
 			],
 			"original_statement": "From 14th Century in- (not) + mors (death)."
 		},
-		"concept": "Living forever; never dying or decaying (肉体(。という（。檻（。を（。脱（。ぎ（。捨て（。、「死（。モータル)を(。持（。たない（。イ)」、言葉（。や（。旋律（。へと（。昇華（。された（。、精神の（。純粋（。な（。残（。像。)",
-		"thinking": "肉体(。という（。檻（。を（。脱（。ぎ（。捨て（。、「死（。モータル)を(。持（。たない（。イ)」、言葉（。や（。旋律（。へと（。昇華（。された（。、精神の（。純粋（。な（。残（。像。",
+		"concept": "Living forever; never dying or decaying 肉体という檻を脱ぎ捨て、「死モータルを持たないイ」、言葉や旋律へと昇華された、精神の純粋な残像。",
+		"thinking": "肉体という檻を脱ぎ捨て、「死モータルを持たないイ」、言葉や旋律へと昇華された、精神の純粋な残像。",
 		"aftertaste": "時間は、命が自らのかたちを刻み込むための、透明な彫刻刀です。",
 		"example": "The immortal of the concert was exactly two hours.",
 		"deep_dive": {
@@ -202239,8 +202232,8 @@ const WORDS = [
 			],
 			"original_statement": "From 19th Century sequi (to follow)."
 		},
-		"concept": "Forming or following in a logical order or sequence (混沌(。とした（。出来事（。の中から（。、一つ（。ひとつの（。因果関係（。を「後に（。続く（。セクイ)もの(。)」として（。丁寧（。（。に（。繋（。ぎ（。合（。わ（。せ（。た（。、知性の（。鎖。)",
-		"thinking": "混沌(。とした（。出来事（。の中から（。、一つ（。ひとつの（。因果関係（。を「後に（。続く（。セクイ)もの(。)」として（。丁寧（。（。に（。繋（。ぎ（。合（。わ（。せ（。た（。、知性の（。鎖。",
+		"concept": "Forming or following in a logical order or sequence 混沌とした出来事の中から、一つひとつの因果関係を「後に続くセクイもの」として丁寧に繋ぎ合わせた、知性の鎖。",
+		"thinking": "混沌とした出来事の中から、一つひとつの因果関係を「後に続くセクイもの」として丁寧に繋ぎ合わせた、知性の鎖。",
 		"aftertaste": "時間は、命が自らのかたちを刻み込むための、透明な彫刻刀です。",
 		"example": "The sequential of the concert was exactly two hours.",
 		"deep_dive": {
@@ -202267,8 +202260,8 @@ const WORDS = [
 			],
 			"original_statement": "From 17th Century khronos (time) + logos (word, study)."
 		},
-		"concept": "Starting with the earliest and following the order in which they occurred (「時(。クロノス)の(。言葉（。ロゴス)」。（。残酷（。な（。までに（。正確（。な（。、過去（。から（。未来へと（。至（。る（。、戻（。ら（。ない（。一方（。通行の（。記録（。の（。階段。)",
-		"thinking": "「時(。クロノス)の(。言葉（。ロゴス)」。（。残酷（。な（。までに（。正確（。な（。、過去（。から（。未来へと（。至（。る（。、戻（。ら（。ない（。一方（。通行の（。記録（。の（。階段。",
+		"concept": "Starting with the earliest and following the order in which they occurred 「時クロノスの言葉ロゴス」。残酷なまでに正確な、過去から未来へと至る、戻らない一方通行の記録の階段。",
+		"thinking": "「時クロノスの言葉ロゴス」。残酷なまでに正確な、過去から未来へと至る、戻らない一方通行の記録の階段。",
 		"aftertaste": "時間は、命が自らのかたちを刻み込むための、透明な彫刻刀です。",
 		"example": "The chronological of the concert was exactly two hours.",
 		"deep_dive": {
@@ -202295,8 +202288,8 @@ const WORDS = [
 			],
 			"original_statement": "From 16th Century inter- (between) + mittere (to send)."
 		},
-		"concept": "Occurring at irregular intervals; not continuous or steady (常に(。押し（。寄せる（。のではなく（。、束の間の（。静寂の「間に（。インター)送(。り（。込ま（。れる（。ミッ)」、エナジーの（。断片（。。（。呼吸（。と（。拍動の（。ように（。、生と（。死の（。隙間を（。縫（。い（。合わせ（。て（。いく（。、時の（。点描画。)",
-		"thinking": "常に(。押し（。寄せる（。のではなく（。、束の間の（。静寂の「間に（。インター)送(。り（。込ま（。れる（。ミッ)」、エナジーの（。断片（。。（。呼吸（。と（。拍動の（。ように（。、生と（。死の（。隙間を（。縫（。い（。合わせ（。て（。いく（。、時の（。点描画。",
+		"concept": "Occurring at irregular intervals; not continuous or steady 常に押し寄せるのではなく、束の間の静寂の「間にインター送り込まれるミッ」、エナジーの断片。呼吸と拍動のように、生と死の隙間を縫い合わせていく、時の点描画。",
+		"thinking": "常に押し寄せるのではなく、束の間の静寂の「間にインター送り込まれるミッ」、エナジーの断片。呼吸と拍動のように、生と死の隙間を縫い合わせていく、時の点描画。",
 		"aftertaste": "時間は、命が自らのかたちを刻み込むための、透明な彫刻刀です。",
 		"example": "The intermittent of the concert was exactly two hours.",
 		"deep_dive": {
@@ -202323,8 +202316,8 @@ const WORDS = [
 			],
 			"original_statement": "From 18th Century ob- (away) + solere (to be used to)."
 		},
-		"concept": "The process of becoming obsolete or outdated and no longer used (かつて(。当たり前（。だった（。習慣（。が（。、いつの間にか（。手元（。から「遠（。ざ（。か（。り（。オブ)忘れ(。去（。ら（。れて（。いく（。)」こと（。。（。新（。しい（。光が（。、古い（。影を（。飲（。み（。込（。んで（。いく（。、冷徹（。な（。時の（。選別。)",
-		"thinking": "かつて(。当たり前（。だった（。習慣（。が（。、いつの間にか（。手元（。から「遠（。ざ（。か（。り（。オブ)忘れ(。去（。ら（。れて（。いく（。)」こと（。。（。新（。しい（。光が（。、古い（。影を（。飲（。み（。込（。んで（。いく（。、冷徹（。な（。時の（。選別。",
+		"concept": "The process of becoming obsolete or outdated and no longer used かつて当たり前だった習慣が、いつの間にか手元から「遠ざかりオブ忘れ去られていく」こと。新しい光が、古い影を飲み込んでいく、冷徹な時の選別。",
+		"thinking": "かつて当たり前だった習慣が、いつの間にか手元から「遠ざかりオブ忘れ去られていく」こと。新しい光が、古い影を飲み込んでいく、冷徹な時の選別。",
 		"aftertaste": "時間は、命が自らのかたちを刻み込むための、透明な彫刻刀です。",
 		"example": "The obsolescence of the concert was exactly two hours.",
 		"deep_dive": {
@@ -202351,8 +202344,8 @@ const WORDS = [
 			],
 			"original_statement": "From 14th Century posterus (coming after)."
 		},
-		"concept": "All future generations of people (自分(。が（。去（。った（。「後に（。ポスト)来る(。)」、まだ（。見ぬ（。者たちへの（。贈り（。物（。。（。あなた（。の（。今日（。の一行が（。、遥（。かな（。未来（。を（。生きる（。誰（。かの（。、暗い（。夜を（。照（。らす（。星（。に（。なる（。かも（。し（。れません。)",
-		"thinking": "自分(。が（。去（。った（。「後に（。ポスト)来る(。)」、まだ（。見ぬ（。者たちへの（。贈り（。物（。。（。あなた（。の（。今日（。の一行が（。、遥（。かな（。未来（。を（。生きる（。誰（。かの（。、暗い（。夜を（。照（。らす（。星（。に（。なる（。かも（。し（。れません。",
+		"concept": "All future generations of people 自分が去った「後にポスト来る」、まだ見ぬ者たちへの贈り物。あなたの今日の一行が、遥かな未来を生きる誰かの、暗い夜を照らす星になるかもしれません。",
+		"thinking": "自分が去った「後にポスト来る」、まだ見ぬ者たちへの贈り物。あなたの今日の一行が、遥かな未来を生きる誰かの、暗い夜を照らす星になるかもしれません。",
 		"aftertaste": "時間は、命が自らのかたちを刻み込むための、透明な彫刻刀です。",
 		"example": "The posterity of the concert was exactly two hours.",
 		"deep_dive": {
@@ -202379,8 +202372,8 @@ const WORDS = [
 			],
 			"original_statement": "From 16th Century Odusseus (Odysseus)."
 		},
-		"concept": "A long and eventful or adventurous journey or experience (故（。郷（。を（。離れ（。、十（。年（。もの（。歳月（。を（。かけて（。荒波（。を（。越（。える「オデュッセウスの（。ような（。旅」。（。失（。う（。ことで（。得（。られる（。、深い（。智慧（。と（。不屈の（。精神。)",
-		"thinking": "故（。郷（。を（。離れ（。、十（。年（。もの（。歳月（。を（。かけて（。荒波（。を（。越（。える「オデュッセウスの（。ような（。旅」。（。失（。う（。ことで（。得（。られる（。、深い（。智慧（。と（。不屈の（。精神。",
+		"concept": "A long and eventful or adventurous journey or experience 故郷を離れ、十年もの歳月をかけて荒波を越える「オデュッセウスのような旅」。失うことで得られる、深い智慧と不屈の精神。",
+		"thinking": "故郷を離れ、十年もの歳月をかけて荒波を越える「オデュッセウスのような旅」。失うことで得られる、深い智慧と不屈の精神。",
 		"aftertaste": "人生は、目的地に辿り着くことではなく、その道のりそのものです。",
 		"example": "The character embarked on a life-changing odyssey across Northern India.",
 		"deep_dive": {
@@ -202407,8 +202400,8 @@ const WORDS = [
 			],
 			"original_statement": "From 19th Century avis (bird)."
 		},
-		"concept": "The flying or operating of aircraft (重力(。という（。鎖（。を（。断（。ち（。切り（。、自ら「鳥（。アヴィス)のように(。)」天（。を（。駆（。け（。る（。こと（。。（。視点（。が（。高（。ま（。れば（。、地上（。の（。苦しみ（。は（。、一粒（。の（。砂（。のように（。小（。さく（。見（。える（。はずです。)",
-		"thinking": "重力(。という（。鎖（。を（。断（。ち（。切り（。、自ら「鳥（。アヴィス)のように(。)」天（。を（。駆（。け（。る（。こと（。。（。視点（。が（。高（。ま（。れば（。、地上（。の（。苦しみ（。は（。、一粒（。の（。砂（。のように（。小（。さく（。見（。える（。はずです。",
+		"concept": "The flying or operating of aircraft 重力という鎖を断ち切り、自ら「鳥アヴィスのように」天を駆けること。視点が高まれば、地上の苦しみは、一粒の砂のように小さく見えるはずです。",
+		"thinking": "重力という鎖を断ち切り、自ら「鳥アヴィスのように」天を駆けること。視点が高まれば、地上の苦しみは、一粒の砂のように小さく見えるはずです。",
 		"aftertaste": "人生は、目的地に辿り着くことではなく、その道のりそのものです。",
 		"example": "The character embarked on a life-changing aviation across Northern India.",
 		"deep_dive": {
@@ -202435,8 +202428,8 @@ const WORDS = [
 			],
 			"original_statement": "From 15th Century bague (bundle, sack)."
 		},
-		"concept": "Sacks, trunks, and containers that hold a traveler's belongings (旅に(。必要（。だと（。信じて（。、「袋（。バッグ)に(。詰（。め（。込んだ（。)」もの。（。多（。す（。ぎる（。荷物（。は（。、あなた（。の（。足取り（。を（。重（。く（。する（。だけかも（。し（。れませんよ（。。（。時（。々（。は（。身軽（。に（。な（。って（。みては（。？)",
-		"thinking": "旅に(。必要（。だと（。信じて（。、「袋（。バッグ)に(。詰（。め（。込んだ（。)」もの。（。多（。す（。ぎる（。荷物（。は（。、あなた（。の（。足取り（。を（。重（。く（。する（。だけかも（。し（。れませんよ（。。（。時（。々（。は（。身軽（。に（。な（。って（。みては（。？",
+		"concept": "Sacks, trunks, and containers that hold a traveler's belongings 旅に必要だと信じて、「袋バッグに詰め込んだ」もの。多すぎる荷物は、あなたの足取りを重くするだけかもしれませんよ。時々は身軽になってみては？",
+		"thinking": "旅に必要だと信じて、「袋バッグに詰め込んだ」もの。多すぎる荷物は、あなたの足取りを重くするだけかもしれませんよ。時々は身軽になってみては？",
 		"aftertaste": "人生は、目的地に辿り着くことではなく、その道のりそのものです。",
 		"example": "The character embarked on a life-changing baggage across Northern India.",
 		"deep_dive": {
@@ -202463,8 +202456,8 @@ const WORDS = [
 			],
 			"original_statement": "From 18th Century mile + stone."
 		},
-		"concept": "A stone set up beside a road to mark the distance in miles to a particular place (長い(。道のり（。の（。途中で（。、どれだけ（。歩いて（。きたかを（。確かめる（。ための（。「石（。ストーン)」。一つ（。ひとつの（。成功（。を（。噛（。み（。締（。め（。、また（。次（。の一（。歩（。への（。勇気（。を（。得（。る（。ための（。標章。)",
-		"thinking": "長い(。道のり（。の（。途中で（。、どれだけ（。歩いて（。きたかを（。確かめる（。ための（。「石（。ストーン)」。一つ（。ひとつの（。成功（。を（。噛（。み（。締（。め（。、また（。次（。の一（。歩（。への（。勇気（。を（。得（。る（。ための（。標章。",
+		"concept": "A stone set up beside a road to mark the distance in miles to a particular place 長い道のりの途中で、どれだけ歩いてきたかを確かめるための「石ストーン」。一つひとつの成功を噛み締め、また次の一歩への勇気を得るための標章。",
+		"thinking": "長い道のりの途中で、どれだけ歩いてきたかを確かめるための「石ストーン」。一つひとつの成功を噛み締め、また次の一歩への勇気を得るための標章。",
 		"aftertaste": "人生は、目的地に辿り着くことではなく、その道のりそのものです。",
 		"example": "The character embarked on a life-changing milestone across Northern India.",
 		"deep_dive": {
@@ -202491,8 +202484,8 @@ const WORDS = [
 			],
 			"original_statement": "From 16th Century nomad- (pasturing)."
 		},
-		"concept": "A member of a people having no permanent abode, and who travel from place to place to find fresh pasture for their livestock (一(。つの（。場所に（。安住（。せず（。、常（。に「新しい（。草地（。ノマ)を(。求め（。)」て（。彷徨（。う（。魂。（。所有（。する（。こと（。より（。、経験（。し（。続ける（。こと（。を（。選（。んだ（。、自由（。な（。狩人。)",
-		"thinking": "一(。つの（。場所に（。安住（。せず（。、常（。に「新しい（。草地（。ノマ)を(。求め（。)」て（。彷徨（。う（。魂。（。所有（。する（。こと（。より（。、経験（。し（。続ける（。こと（。を（。選（。んだ（。、自由（。な（。狩人。",
+		"concept": "A member of a people having no permanent abode, and who travel from place to place to find fresh pasture for their livestock 一つの場所に安住せず、常に「新しい草地ノマを求め」て彷徨う魂。所有することより、経験し続けることを選んだ、自由な狩人。",
+		"thinking": "一つの場所に安住せず、常に「新しい草地ノマを求め」て彷徨う魂。所有することより、経験し続けることを選んだ、自由な狩人。",
 		"aftertaste": "人生は、目的地に辿り着くことではなく、その道のりそのものです。",
 		"example": "The character embarked on a life-changing nomad across Northern India.",
 		"deep_dive": {
@@ -202519,8 +202512,8 @@ const WORDS = [
 			],
 			"original_statement": "From 15th Century vagari (to wander)."
 		},
-		"concept": "A person who wanders from place to place without a home or regular work (目的(。さえ（。持（。た（。ず（。、ただ（。風（。の（。吹く（。まま（。に「彷徨（。う（。バガ)」こと（。。（。社会（。の（。枠組み（。から（。はみ出し（。、剥（。き（。出し（。の（。世界（。を（。愛（。する（。、孤独（。な（。哲学者。)",
-		"thinking": "目的(。さえ（。持（。た（。ず（。、ただ（。風（。の（。吹く（。まま（。に「彷徨（。う（。バガ)」こと（。。（。社会（。の（。枠組み（。から（。はみ出し（。、剥（。き（。出し（。の（。世界（。を（。愛（。する（。、孤独（。な（。哲学者。",
+		"concept": "A person who wanders from place to place without a home or regular work 目的さえ持たず、ただ風の吹くままに「彷徨うバガ」こと。社会の枠組みからはみ出し、剥き出しの世界を愛する、孤独な哲学者。",
+		"thinking": "目的さえ持たず、ただ風の吹くままに「彷徨うバガ」こと。社会の枠組みからはみ出し、剥き出しの世界を愛する、孤独な哲学者。",
 		"aftertaste": "人生は、目的地に辿り着くことではなく、その道のりそのものです。",
 		"example": "The character embarked on a life-changing vagabond across Northern India.",
 		"deep_dive": {
@@ -202547,8 +202540,8 @@ const WORDS = [
 			],
 			"original_statement": "From 17th Century re- (back) + fugere (to flee)."
 		},
-		"concept": "A person who has been forced to leave their country in order to escape war, persecution, or natural disaster (安らぎ(。の（。場所（。を（。奪わ（。れ（。、「後（。ろ（。リ)も(。見（。ず（。逃（。げ（。る（。フュジ)」こと（。を（。余儀（。なく（。さ（。れた（。者。)",
-		"thinking": "安らぎ(。の（。場所（。を（。奪わ（。れ（。、「後（。ろ（。リ)も(。見（。ず（。逃（。げ（。る（。フュジ)」こと（。を（。余儀（。なく（。さ（。れた（。者。",
+		"concept": "A person who has been forced to leave their country in order to escape war, persecution, or natural disaster 安らぎの場所を奪われ、「後ろリも見ず逃げるフュジ」ことを余儀なくされた者。",
+		"thinking": "安らぎの場所を奪われ、「後ろリも見ず逃げるフュジ」ことを余儀なくされた者。",
 		"aftertaste": "彼（。の（。孤独（。な（。瞳（。の（。中に（。、かつて（。の（。私たちの（。姿（。を（。見（。る（。こと（。。（。それ（。が（。本当（。の（。愛（。の（。始（。まり（。なの（。ですよ。",
 		"example": "The character embarked on a life-changing refugee across Northern India.",
 		"deep_dive": {
@@ -202575,8 +202568,8 @@ const WORDS = [
 			],
 			"original_statement": "From 18th Century re- (back, again) + agere (to do, act)."
 		},
-		"concept": "A substance or mixture for use in chemical analysis or other reactions (ただ(。そこに（。ある（。だけでなく（。、相手に（。刺激を与え「再び（。リ)動か(。し（。アグ)反応させる(。)」ための（。エッセンス（。。（。あなた（。の（。言葉が（。、誰（。かの（。心に（。火（。を（。つける（。、聖なる（。試薬と（。なる（。のですよ。)",
-		"thinking": "ただ(。そこに（。ある（。だけでなく（。、相手に（。刺激を与え「再び（。リ)動か(。し（。アグ)反応させる(。)」ための（。エッセンス（。。（。あなた（。の（。言葉が（。、誰（。かの（。心に（。火（。を（。つける（。、聖なる（。試薬と（。なる（。のですよ。",
+		"concept": "A substance or mixture for use in chemical analysis or other reactions ただそこにあるだけでなく、相手に刺激を与え「再びリ動かしアグ反応させる」ためのエッセンス。あなたの言葉が、誰かの心に火をつける、聖なる試薬となるのですよ。",
+		"thinking": "ただそこにあるだけでなく、相手に刺激を与え「再びリ動かしアグ反応させる」ためのエッセンス。あなたの言葉が、誰かの心に火をつける、聖なる試薬となるのですよ。",
 		"aftertaste": "物質は、魂が現実という舞台で踊るための、美しい衣裳です。",
 		"example": "The scientist added a drops of reagent to the solution to observe the reaction.",
 		"deep_dive": {
@@ -202603,8 +202596,8 @@ const WORDS = [
 			],
 			"original_statement": "From 14th Century vapor (steam, warm exhalation)."
 		},
-		"concept": "A substance diffused or suspended in the air, especially one normally liquid or solid (熱(。という（。エナジーによって（。、自ら（。の（。境界線を（。捨て（。、「天空へと（。昇（。る（。ヴェイパー)」、透明で（。自由な（。魂の（。吐息。)",
-		"thinking": "熱(。という（。エナジーによって（。、自ら（。の（。境界線を（。捨て（。、「天空へと（。昇（。る（。ヴェイパー)」、透明で（。自由な（。魂の（。吐息。",
+		"concept": "A substance diffused or suspended in the air, especially one normally liquid or solid 熱というエナジーによって、自らの境界線を捨て、「天空へと昇るヴェイパー」、透明で自由な魂の吐息。",
+		"thinking": "熱というエナジーによって、自らの境界線を捨て、「天空へと昇るヴェイパー」、透明で自由な魂の吐息。",
 		"aftertaste": "物質は、魂が現実という舞台で踊るための、美しい衣裳です。",
 		"example": "The scientist added a drops of vapor to the solution to observe the reaction.",
 		"deep_dive": {
@@ -202631,8 +202624,8 @@ const WORDS = [
 			],
 			"original_statement": "From 19th Century silex (flint)."
 		},
-		"concept": "The chemical element of atomic number 14, a nonmetal with semiconducting properties (太古の(。昔（。、人類が（。初めて（。火（。を（。手（。に入（。れた「火打石（。サイレックス)」の（。記憶。今（。では（。、世界（。の（。知性（。を（。司（。る（。、透明（。な（。回路（。の（。中核。)",
-		"thinking": "太古の(。昔（。、人類が（。初めて（。火（。を（。手（。に入（。れた「火打石（。サイレックス)」の（。記憶。今（。では（。、世界（。の（。知性（。を（。司（。る（。、透明（。な（。回路（。の（。中核。",
+		"concept": "The chemical element of atomic number 14, a nonmetal with semiconducting properties 太古の昔、人類が初めて火を手に入れた「火打石サイレックス」の記憶。今では、世界の知性を司る、透明な回路の中核。",
+		"thinking": "太古の昔、人類が初めて火を手に入れた「火打石サイレックス」の記憶。今では、世界の知性を司る、透明な回路の中核。",
 		"aftertaste": "物質は、魂が現実という舞台で踊るための、美しい衣裳です。",
 		"example": "The scientist added a drops of silicon to the solution to observe the reaction.",
 		"deep_dive": {
@@ -202659,8 +202652,8 @@ const WORDS = [
 			],
 			"original_statement": "From 14th Century Mercurius (Roman god Mercury)."
 		},
-		"concept": "The chemical element of atomic number 80, a heavy silvery-white metal which is liquid at ordinary temperatures (死(。を（。意味（。する（。冷徹な（。重工（。感（。を（。持ち（。ながら（。、水（。のように（。自由に（。か（。たち（。を（。変える（。、神々の（。使者（。マーキュリー)のような（。、神（。秘（。的（。で（。危険（。な（。流動体。)",
-		"thinking": "死(。を（。意味（。する（。冷徹な（。重工（。感（。を（。持ち（。ながら（。、水（。のように（。自由に（。か（。たち（。を（。変える（。、神々の（。使者（。マーキュリー)のような（。、神（。秘（。的（。で（。危険（。な（。流動体。",
+		"concept": "The chemical element of atomic number 80, a heavy silvery-white metal which is liquid at ordinary temperatures 死を意味する冷徹な重工感を持ちながら、水のように自由にかたちを変える、神々の使者マーキュリーのような、神秘的で危険な流動体。",
+		"thinking": "死を意味する冷徹な重工感を持ちながら、水のように自由にかたちを変える、神々の使者マーキュリーのような、神秘的で危険な流動体。",
 		"aftertaste": "物質は、魂が現実という舞台で踊るための、美しい衣裳です。",
 		"example": "The scientist added a drops of mercury to the solution to observe the reaction.",
 		"deep_dive": {
@@ -202687,8 +202680,8 @@ const WORDS = [
 			],
 			"original_statement": "From 19th Century toxikon (poison for arrows)."
 		},
-		"concept": "An antigenic poison or venom of plant or animal origin, especially one produced by or derived from microorganisms and causing disease when present at low concentration in the body (元来(。は（。、自分（。を（。守（。る（。ための「弓（。用の（。毒（。トキシ)」。（。あまりに（。純粋（。な（。エナジーは（。、時に（。他（。人（。を（。傷つける（。刃（。になる（。ことを（。、忘れ（。ないで（。ください。)",
-		"thinking": "元来(。は（。、自分（。を（。守（。る（。ための「弓（。用の（。毒（。トキシ)」。（。あまりに（。純粋（。な（。エナジーは（。、時に（。他（。人（。を（。傷つける（。刃（。になる（。ことを（。、忘れ（。ないで（。ください。",
+		"concept": "An antigenic poison or venom of plant or animal origin, especially one produced by or derived from microorganisms and causing disease when present at low concentration in the body 元来は、自分を守るための「弓用の毒トキシ」。あまりに純粋なエナジーは、時に他人を傷つける刃になることを、忘れないでください。",
+		"thinking": "元来は、自分を守るための「弓用の毒トキシ」。あまりに純粋なエナジーは、時に他人を傷つける刃になることを、忘れないでください。",
 		"aftertaste": "物質は、魂が現実という舞台で踊るための、美しい衣裳です。",
 		"example": "The scientist added a drops of toxin to the solution to observe the reaction.",
 		"deep_dive": {
@@ -202715,8 +202708,8 @@ const WORDS = [
 			],
 			"original_statement": "From 14th Century arsenikon (yellow orpiment, literally 'masculine')."
 		},
-		"concept": "The chemical element of atomic number 33, a brittle steel-gray metalloid (強力(。な（。エナジーを（。秘め（。た「男性的（。アーセニ)」な（。毒。（。古（。代（。の（。錬金術師（。たちは（。、この（。危険（。な（。黄色（。い（。輝（。きの（。中（。に（。、太陽の（。欠片（。を（。見（。て（。いた（。の（。ですよ。)",
-		"thinking": "強力(。な（。エナジーを（。秘め（。た「男性的（。アーセニ)」な（。毒。（。古（。代（。の（。錬金術師（。たちは（。、この（。危険（。な（。黄色（。い（。輝（。きの（。中（。に（。、太陽の（。欠片（。を（。見（。て（。いた（。の（。ですよ。",
+		"concept": "The chemical element of atomic number 33, a brittle steel-gray metalloid 強力なエナジーを秘めた「男性的アーセニ」な毒。古代の錬金術師たちは、この危険な黄色い輝きの中に、太陽の欠片を見ていたのですよ。",
+		"thinking": "強力なエナジーを秘めた「男性的アーセニ」な毒。古代の錬金術師たちは、この危険な黄色い輝きの中に、太陽の欠片を見ていたのですよ。",
 		"aftertaste": "物質は、魂が現実という舞台で踊るための、美しい衣裳です。",
 		"example": "The scientist added a drops of arsenic to the solution to observe the reaction.",
 		"deep_dive": {
@@ -202743,8 +202736,8 @@ const WORDS = [
 			],
 			"original_statement": "From 18th Century Uranus (planet Uranus)."
 		},
-		"concept": "The chemical element of atomic number 92, a gray dense radioactive metal used as a fuel in nuclear reactors (広大(。な「星空（。ウラヌス)」の（。記憶（。を（。、この（。小さな（。重（。い（。石（。の（。中に（。封印（。した（。もの（。。（。そこ（。から（。放（。た（。れる（。光（。は（。、世界（。を（。変える（。ほど（。の（。破壊（。と（。創造を（。孕んで（。いる（。のです。)",
-		"thinking": "広大(。な「星空（。ウラヌス)」の（。記憶（。を（。、この（。小さな（。重（。い（。石（。の（。中に（。封印（。した（。もの（。。（。そこ（。から（。放（。た（。れる（。光（。は（。、世界（。を（。変える（。ほど（。の（。破壊（。と（。創造を（。孕んで（。いる（。のです。",
+		"concept": "The chemical element of atomic number 92, a gray dense radioactive metal used as a fuel in nuclear reactors 広大な「星空ウラヌス」の記憶を、この小さな重い石の中に封印したもの。そこから放たれる光は、世界を変えるほどの破壊と創造を孕んでいるのです。",
+		"thinking": "広大な「星空ウラヌス」の記憶を、この小さな重い石の中に封印したもの。そこから放たれる光は、世界を変えるほどの破壊と創造を孕んでいるのです。",
 		"aftertaste": "物質は、魂が現実という舞台で踊るための、美しい衣裳です。",
 		"example": "The scientist added a drops of uranium to the solution to observe the reaction.",
 		"deep_dive": {
@@ -202771,8 +202764,8 @@ const WORDS = [
 			],
 			"original_statement": "From 19th Century radius (ray)."
 		},
-		"concept": "The chemical element of atomic number 88, a rare radioactive metal (暗闇(。の中から（。、絶え（。ず「一条の（。光（。レイ)」を（。放（。ち（。続ける（。、（。誇（。り（。高い（。存在（。。（。誰（。に（。褒（。め（。られ（。なく（。ても（。、自ら（。の（。内側から（。輝き（。を（。絞（。り（。出（。し（。つづ（。ける（。魂の（。象徴。)",
-		"thinking": "暗闇(。の中から（。、絶え（。ず「一条の（。光（。レイ)」を（。放（。ち（。続ける（。、（。誇（。り（。高い（。存在（。。（。誰（。に（。褒（。め（。られ（。なく（。ても（。、自ら（。の（。内側から（。輝き（。を（。絞（。り（。出（。し（。つづ（。ける（。魂の（。象徴。",
+		"concept": "The chemical element of atomic number 88, a rare radioactive metal 暗闇の中から、絶えず「一条の光レイ」を放ち続ける、誇り高い存在。誰に褒められなくても、自らの内側から輝きを絞り出しつづける魂の象徴。",
+		"thinking": "暗闇の中から、絶えず「一条の光レイ」を放ち続ける、誇り高い存在。誰に褒められなくても、自らの内側から輝きを絞り出しつづける魂の象徴。",
 		"aftertaste": "物質は、魂が現実という舞台で踊るための、美しい衣裳です。",
 		"example": "The scientist added a drops of radium to the solution to observe the reaction.",
 		"deep_dive": {
@@ -202799,8 +202792,8 @@ const WORDS = [
 			],
 			"original_statement": "From 19th Century a- (not) + ergon (work)."
 		},
-		"concept": "The chemical element of atomic number 18, an inert gaseous element of the noble gas series (誰(。とも（。交（。わらず（。、決して「働（。き（。エルゴン)かけ(。ない（。ア)」、冷（。徹（。で（。孤（。高（。な（。沈黙（。。（。その（。不動（。の（。姿勢（。の中に（。、宇宙の（。深遠（。な（。調和（。が（。宿（。って（。いる（。の（。ですよ。)",
-		"thinking": "誰(。とも（。交（。わらず（。、決して「働（。き（。エルゴン)かけ(。ない（。ア)」、冷（。徹（。で（。孤（。高（。な（。沈黙（。。（。その（。不動（。の（。姿勢（。の中に（。、宇宙の（。深遠（。な（。調和（。が（。宿（。って（。いる（。の（。ですよ。",
+		"concept": "The chemical element of atomic number 18, an inert gaseous element of the noble gas series 誰とも交わらず、決して「働きエルゴンかけないア」、冷徹で孤高な沈黙。その不動の姿勢の中に、宇宙の深遠な調和が宿っているのですよ。",
+		"thinking": "誰とも交わらず、決して「働きエルゴンかけないア」、冷徹で孤高な沈黙。その不動の姿勢の中に、宇宙の深遠な調和が宿っているのですよ。",
 		"aftertaste": "物質は、魂が現実という舞台で踊るための、美しい衣裳です。",
 		"example": "The scientist added a drops of argon to the solution to observe the reaction.",
 		"deep_dive": {
@@ -202827,8 +202820,8 @@ const WORDS = [
 			],
 			"original_statement": "From 19th Century neos (new)."
 		},
-		"concept": "The chemical element of atomic number 10, an inert gaseous element used in strip lamps (日常(。の（。退屈（。な（。景色（。の（。中を（。、眩（。いばかりの（。光波で（。、「新（。しく（。ネオス)」彩（。る（。、人工（。の（。オーロラ（。。（。都会の（。闇を（。希望の（。色で（。塗り（。替（。える（。、欲望と（。夢の（。道標。)",
-		"thinking": "日常(。の（。退屈（。な（。景色（。の（。中を（。、眩（。いばかりの（。光波で（。、「新（。しく（。ネオス)」彩（。る（。、人工（。の（。オーロラ（。。（。都会の（。闇を（。希望の（。色で（。塗り（。替（。える（。、欲望と（。夢の（。道標。",
+		"concept": "The chemical element of atomic number 10, an inert gaseous element used in strip lamps 日常の退屈な景色の中を、眩いばかりの光波で、「新しくネオス」彩る、人工のオーロラ。都会の闇を希望の色で塗り替える、欲望と夢の道標。",
+		"thinking": "日常の退屈な景色の中を、眩いばかりの光波で、「新しくネオス」彩る、人工のオーロラ。都会の闇を希望の色で塗り替える、欲望と夢の道標。",
 		"aftertaste": "物質は、魂が現実という舞台で踊るための、美しい衣裳です。",
 		"example": "The scientist added a drops of neon to the solution to observe the reaction.",
 		"deep_dive": {
@@ -202855,8 +202848,8 @@ const WORDS = [
 			],
 			"original_statement": "From 18th Century platina (little silver)."
 		},
-		"concept": "A precious silvery-white metal (「銀(。銀（。の（。小粒（。プラチナ)」だと（。見（。く（。び（。られて（。いた（。過去（。を（。越え（。、今（。では（。不（。変（。の（。価値（。の（。代名詞と（。なった（。存在（。。（。あなたの（。中（。の（。小さな（。輝（。きを（。、最後（。まで（。信じ（。抜（。いて（。あげて（。ください。)",
-		"thinking": "「銀(。銀（。の（。小粒（。プラチナ)」だと（。見（。く（。び（。られて（。いた（。過去（。を（。越え（。、今（。では（。不（。変（。の（。価値（。の（。代名詞と（。なった（。存在（。。（。あなたの（。中（。の（。小さな（。輝（。きを（。、最後（。まで（。信じ（。抜（。いて（。あげて（。ください。",
+		"concept": "A precious silvery-white metal 「銀銀の小粒プラチナ」だと見くびられていた過去を越え、今では不変の価値の代名詞となった存在。あなたの中の小さな輝きを、最後まで信じ抜いてあげてください。",
+		"thinking": "「銀銀の小粒プラチナ」だと見くびられていた過去を越え、今では不変の価値の代名詞となった存在。あなたの中の小さな輝きを、最後まで信じ抜いてあげてください。",
 		"aftertaste": "物質は、魂が現実という舞台で踊るための、美しい衣裳です。",
 		"example": "The scientist added a drops of platinum to the solution to observe the reaction.",
 		"deep_dive": {
@@ -202883,8 +202876,8 @@ const WORDS = [
 			],
 			"original_statement": "From 18th Century Titans (giants in Greek mythology)."
 		},
-		"concept": "The chemical element of atomic number 22, a hard silver-gray metal (「巨人(。タイタン)」の（。ような（。圧倒的（。な（。強（。さと（。耐（。久性を（。、信（。じ（。られ（。ない（。ほどの（。軽（。さの（。中に（。宿（。した（。、現代（。の（。鎧（。。（。しなやか（。で（。い（。て（。、折（。れ（。ない（。、強靭な（。意志。)",
-		"thinking": "「巨人(。タイタン)」の（。ような（。圧倒的（。な（。強（。さと（。耐（。久性を（。、信（。じ（。られ（。ない（。ほどの（。軽（。さの（。中に（。宿（。した（。、現代（。の（。鎧（。。（。しなやか（。で（。い（。て（。、折（。れ（。ない（。、強靭な（。意志。",
+		"concept": "The chemical element of atomic number 22, a hard silver-gray metal 「巨人タイタン」のような圧倒的な強さと耐久性を、信じられないほどの軽さの中に宿した、現代の鎧。しなやかでいて、折れない、強靭な意志。",
+		"thinking": "「巨人タイタン」のような圧倒的な強さと耐久性を、信じられないほどの軽さの中に宿した、現代の鎧。しなやかでいて、折れない、強靭な意志。",
 		"aftertaste": "物質は、魂が現実という舞台で踊るための、美しい衣裳です。",
 		"example": "The scientist added a drops of titanium to the solution to observe the reaction.",
 		"deep_dive": {
@@ -202911,8 +202904,8 @@ const WORDS = [
 			],
 			"original_statement": "From 19th Century alumen (alum)."
 		},
-		"concept": "The chemical element of atomic number 13, a light silvery-white metal (かつて(。は（。黄金（。よりも（。貴（。重（。だった（。「明（。礬（。アルメン)」の（。精（。。（。空気（。を（。味方（。に（。し（。て（。、世界（。の（。距離を（。縮める（。翼（。へと（。変（。身（。した（。、知性の（。結晶。)",
-		"thinking": "かつて(。は（。黄金（。よりも（。貴（。重（。だった（。「明（。礬（。アルメン)」の（。精（。。（。空気（。を（。味方（。に（。し（。て（。、世界（。の（。距離を（。縮める（。翼（。へと（。変（。身（。した（。、知性の（。結晶。",
+		"concept": "The chemical element of atomic number 13, a light silvery-white metal かつては黄金よりも貴重だった「明礬アルメン」の精。空気を味方にして、世界の距離を縮める翼へと変身した、知性の結晶。",
+		"thinking": "かつては黄金よりも貴重だった「明礬アルメン」の精。空気を味方にして、世界の距離を縮める翼へと変身した、知性の結晶。",
 		"aftertaste": "物質は、魂が現実という舞台で踊るための、美しい衣裳です。",
 		"example": "The scientist added a drops of aluminum to the solution to observe the reaction.",
 		"deep_dive": {
@@ -202939,8 +202932,8 @@ const WORDS = [
 			],
 			"original_statement": "From 12th Century marmaros (shining stone)."
 		},
-		"concept": "A hard crystalline metamorphic form of limestone, typically white with mottlings or streaks of color (大地の(。巨大な（。圧力（。に（。よって（。、ただの（。石（。が（。、「眩（。い（。ばかりに（。光（。り輝く（。マルマロス)神殿（。の（。魂」へと（。至（。った（。もの（。。（。そこ（。には（。、太（。古の（。海（。の（。囁（。き（。が（。、美し（。い（。模様（。として（。残（。って（。いる（。のですよ。)",
-		"thinking": "大地の(。巨大な（。圧力（。に（。よって（。、ただの（。石（。が（。、「眩（。い（。ばかりに（。光（。り輝く（。マルマロス)神殿（。の（。魂」へと（。至（。った（。もの（。。（。そこ（。には（。、太（。古の（。海（。の（。囁（。き（。が（。、美し（。い（。模様（。として（。残（。って（。いる（。のですよ。",
+		"concept": "A hard crystalline metamorphic form of limestone, typically white with mottlings or streaks of color 大地の巨大な圧力によって、ただの石が、「眩いばかりに光り輝くマルマロス神殿の魂」へと至ったもの。そこには、太古の海の囁きが、美しい模様として残っているのですよ。",
+		"thinking": "大地の巨大な圧力によって、ただの石が、「眩いばかりに光り輝くマルマロス神殿の魂」へと至ったもの。そこには、太古の海の囁きが、美しい模様として残っているのですよ。",
 		"aftertaste": "物質は、魂が現実という舞台で踊るための、美しい衣裳です。",
 		"example": "The scientist added a drops of marble to the solution to observe the reaction.",
 		"deep_dive": {
@@ -202967,8 +202960,8 @@ const WORDS = [
 			],
 			"original_statement": "From 14th Century tingere (to dye, stain)."
 		},
-		"concept": "A medicine made by dissolving a drug in alcohol (ただ(。薬を（。溶（。かす（。だけでなく（。、魂を「染（。め（。上げ（。る（。ティン)」ほどの（。鮮烈（。な（。エッセンス（。。（。言葉（。にも（。、一滴（。の（。誠実（。な（。真理（。を（。混ぜて（。ください（。。（。それ（。だけで（。、退屈（。な（。日常（。は（。一瞬（。にして（。、色彩（。を（。取り戻（。す（。のですから。)",
-		"thinking": "ただ(。薬を（。溶（。かす（。だけでなく（。、魂を「染（。め（。上げ（。る（。ティン)」ほどの（。鮮烈（。な（。エッセンス（。。（。言葉（。にも（。、一滴（。の（。誠実（。な（。真理（。を（。混ぜて（。ください（。。（。それ（。だけで（。、退屈（。な（。日常（。は（。一瞬（。にして（。、色彩（。を（。取り戻（。す（。のですから。",
+		"concept": "A medicine made by dissolving a drug in alcohol ただ薬を溶かすだけでなく、魂を「染め上げるティン」ほどの鮮烈なエッセンス。言葉にも、一滴の誠実な真理を混ぜてください。それだけで、退屈な日常は一瞬にして、色彩を取り戻すのですから。",
+		"thinking": "ただ薬を溶かすだけでなく、魂を「染め上げるティン」ほどの鮮烈なエッセンス。言葉にも、一滴の誠実な真理を混ぜてください。それだけで、退屈な日常は一瞬にして、色彩を取り戻すのですから。",
 		"aftertaste": "物質は、魂が現実という舞台で踊るための、美しい衣裳です。",
 		"example": "The scientist added a drops of tincture to the solution to observe the reaction.",
 		"deep_dive": {
@@ -202995,8 +202988,8 @@ const WORDS = [
 			],
 			"original_statement": "From 17th Century vigil (awake, watchful)."
 		},
-		"concept": "The action or state of keeping careful watch for possible danger or difficulties (どんなに(。安（。ら（。ぎ（。の中に（。あっても（。、魂の（。一部が「目（。を（。覚（。まし（。ヴィジル)ている(。)」こと（。。（。大切な（。ものを（。守（。り（。抜（。くための（。、孤独（。で（。誠実（。な（。眼差し。)",
-		"thinking": "どんなに(。安（。ら（。ぎ（。の中に（。あっても（。、魂の（。一部が「目（。を（。覚（。まし（。ヴィジル)ている(。)」こと（。。（。大切な（。ものを（。守（。り（。抜（。くための（。、孤独（。で（。誠実（。な（。眼差し。",
+		"concept": "The action or state of keeping careful watch for possible danger or difficulties どんなに安らぎの中にあっても、魂の一部が「目を覚ましヴィジルている」こと。大切なものを守り抜くための、孤独で誠実な眼差し。",
+		"thinking": "どんなに安らぎの中にあっても、魂の一部が「目を覚ましヴィジルている」こと。大切なものを守り抜くための、孤独で誠実な眼差し。",
 		"aftertaste": "まなざしは、世界に色を付けるための、魔法の筆です。",
 		"example": "The philosopher explored the depths of human vigilance and its relation to ethics.",
 		"deep_dive": {
@@ -203023,8 +203016,8 @@ const WORDS = [
 			],
 			"original_statement": "From 16th Century mind + -ful + -ness."
 		},
-		"concept": "A mental state achieved by focusing one's awareness on the present moment, while calmly acknowledging and accepting one's feelings, thoughts, and bodily sensations (過去の(。後悔（。や（。未来への（。不安（。に（。心を（。捕（。らわ（。さ（。れ（。ず（。、ただ「今（。この（。瞬間（。の（。全（。て（。マインドフル)」を（。、全（。身で（。あり（。の（。まま（。に（。受け（。入れる（。、魂の（。安息。)",
-		"thinking": "過去の(。後悔（。や（。未来への（。不安（。に（。心を（。捕（。らわ（。さ（。れ（。ず（。、ただ「今（。この（。瞬間（。の（。全（。て（。マインドフル)」を（。、全（。身で（。あり（。の（。まま（。に（。受け（。入れる（。、魂の（。安息。",
+		"concept": "A mental state achieved by focusing one's awareness on the present moment, while calmly acknowledging and accepting one's feelings, thoughts, and bodily sensations 過去の後悔や未来への不安に心を捕らわされず、ただ「今この瞬間の全てマインドフル」を、全身でありのままに受け入れる、魂の安息。",
+		"thinking": "過去の後悔や未来への不安に心を捕らわされず、ただ「今この瞬間の全てマインドフル」を、全身でありのままに受け入れる、魂の安息。",
 		"aftertaste": "まなざしは、世界に色を付けるための、魔法の筆です。",
 		"example": "The philosopher explored the depths of human mindfulness and its relation to ethics.",
 		"deep_dive": {
@@ -203051,8 +203044,8 @@ const WORDS = [
 			],
 			"original_statement": "From 17th Century retro- (back) + specere (to look)."
 		},
-		"concept": "The action of looking back on or reviewing past events or situations, especially those in one's own life (現在(。の（。自分（。を（。一度（。止（。め（。、「過去を（。後ろ向きに（。レトロ)見つめ(。スぺ)直す(。)」こと（。。（。過ぎ（。去（。った（。出来事（。の（。中に（。、今（。を（。生きる（。ための（。知恵（。の（。欠片（。を（。探（。す（。旅。)",
-		"thinking": "現在(。の（。自分（。を（。一度（。止（。め（。、「過去を（。後ろ向きに（。レトロ)見つめ(。スぺ)直す(。)」こと（。。（。過ぎ（。去（。った（。出来事（。の（。中に（。、今（。を（。生きる（。ための（。知恵（。の（。欠片（。を（。探（。す（。旅。",
+		"concept": "The action of looking back on or reviewing past events or situations, especially those in one's own life 現在の自分を一度止め、「過去を後ろ向きにレトロ見つめスぺ直す」こと。過ぎ去った出来事の中に、今を生きるための知恵の欠片を探す旅。",
+		"thinking": "現在の自分を一度止め、「過去を後ろ向きにレトロ見つめスぺ直す」こと。過ぎ去った出来事の中に、今を生きるための知恵の欠片を探す旅。",
 		"aftertaste": "まなざしは、世界に色を付けるための、魔法の筆です。",
 		"example": "The philosopher explored the depths of human retrospection and its relation to ethics.",
 		"deep_dive": {
@@ -203079,8 +203072,8 @@ const WORDS = [
 			],
 			"original_statement": "From 16th Century tenere (to hold)."
 		},
-		"concept": "A principle or belief, especially one of the main principles of a religion or philosophy (誰(。に（。何と（。言わ（。れて（。も（。、自らの（。魂が「しっかりと（。把（。持（。して（。テネ)離(。さない（。)」絶対（。の（。確信（。。（。あなた（。を（。最後（。まで（。支（。える（。、精神の（。背骨。)",
-		"thinking": "誰(。に（。何と（。言わ（。れて（。も（。、自らの（。魂が「しっかりと（。把（。持（。して（。テネ)離(。さない（。)」絶対（。の（。確信（。。（。あなた（。を（。最後（。まで（。支（。える（。、精神の（。背骨。",
+		"concept": "A principle or belief, especially one of the main principles of a religion or philosophy 誰に何と言われても、自らの魂が「しっかりと把持してテネ離さない」絶対の確信。あなたを最後まで支える、精神の背骨。",
+		"thinking": "誰に何と言われても、自らの魂が「しっかりと把持してテネ離さない」絶対の確信。あなたを最後まで支える、精神の背骨。",
 		"aftertaste": "まなざしは、世界に色を付けるための、魔法の筆です。",
 		"example": "The philosopher explored the depths of human tenet and its relation to ethics.",
 		"deep_dive": {
@@ -203107,8 +203100,8 @@ const WORDS = [
 			],
 			"original_statement": "From 15th Century fabrica (craft, trade, workshop)."
 		},
-		"concept": "Constructed or manufactured, especially from prepared components (自然(。に（。生まれた（。もので（。はなく（。、「工房（。ファブリカ)で(。意図的に（。作ら（。れた（。)」、偽り（。か（。、あるいは（。高度（。な（。技術の（。結晶（。か。)",
-		"thinking": "自然(。に（。生まれた（。もので（。はなく（。、「工房（。ファブリカ)で(。意図的に（。作ら（。れた（。)」、偽り（。か（。、あるいは（。高度（。な（。技術の（。結晶（。か。",
+		"concept": "Constructed or manufactured, especially from prepared components 自然に生まれたものではなく、「工房ファブリカで意図的に作られた」、偽りか、あるいは高度な技術の結晶か。",
+		"thinking": "自然に生まれたものではなく、「工房ファブリカで意図的に作られた」、偽りか、あるいは高度な技術の結晶か。",
 		"aftertaste": "真実は、常に矛盾という名の美しいドレスを纏っています。",
 		"example": "The story is filled with fabricated that keep the readers thinking for days.",
 		"deep_dive": {
@@ -203135,8 +203128,8 @@ const WORDS = [
 			],
 			"original_statement": "From 17th Century similis (like, similar)."
 		},
-		"concept": "Manufactured in imitation of some other material (本物(。と「似（。て（。いる（。シミリス)」けれど（。、そこ（。には（。魂（。の（。拍動が（。欠（。落（。して（。いる（。、数学的（。で（。冷（。徹（。な（。複製。)",
-		"thinking": "本物(。と「似（。て（。いる（。シミリス)」けれど（。、そこ（。には（。魂（。の（。拍動が（。欠（。落（。して（。いる（。、数学的（。で（。冷（。徹（。な（。複製。",
+		"concept": "Manufactured in imitation of some other material 本物と「似ているシミリス」けれど、そこには魂の拍動が欠落している、数学的で冷徹な複製。",
+		"thinking": "本物と「似ているシミリス」けれど、そこには魂の拍動が欠落している、数学的で冷徹な複製。",
 		"aftertaste": "真実は、常に矛盾という名の美しいドレスを纏っています。",
 		"example": "The story is filled with simulated that keep the readers thinking for days.",
 		"deep_dive": {
@@ -203163,8 +203156,8 @@ const WORDS = [
 			],
 			"original_statement": "From 16th Century re- (again) + plicare (to fold)."
 		},
-		"concept": "Make an exact copy of; reproduce (一度(。作ら（。れた（。歴史を（。、「再び（。リ)折り(。畳（。み（。プリカ)重(。ねる（。)」ことで（。、同（。じ（。かたち（。を（。産（。み（。出し（。続ける（。こと（。。（。永遠（。の（。反復（。。)",
-		"thinking": "一度(。作ら（。れた（。歴史を（。、「再び（。リ)折り(。畳（。み（。プリカ)重(。ねる（。)」ことで（。、同（。じ（。かたち（。を（。産（。み（。出し（。続ける（。こと（。。（。永遠（。の（。反復（。。",
+		"concept": "Make an exact copy of; reproduce 一度作られた歴史を、「再びリ折り畳みプリカ重ねる」ことで、同じかたちを産み出し続けること。永遠の反復。",
+		"thinking": "一度作られた歴史を、「再びリ折り畳みプリカ重ねる」ことで、同じかたちを産み出し続けること。永遠の反復。",
 		"aftertaste": "真実は、常に矛盾という名の美しいドレスを纏っています。",
 		"example": "The story is filled with replicate that keep the readers thinking for days.",
 		"deep_dive": {
@@ -203191,8 +203184,8 @@ const WORDS = [
 			],
 			"original_statement": "From 13th Century granum (seed, kernel)."
 		},
-		"concept": "Wheat or any other cultivated cereal crop used as food (厚い(。皮の（。奥底に（。秘め（。られた「種子（。グラナム)」の（。ように（。、物質（。や（。物語の（。最小（。の（。単位（。。（。その（。小さな（。ざら（。つき（。こそが（。、存在の（。手触り。)",
-		"thinking": "厚い(。皮の（。奥底に（。秘め（。られた「種子（。グラナム)」の（。ように（。、物質（。や（。物語の（。最小（。の（。単位（。。（。その（。小さな（。ざら（。つき（。こそが（。、存在の（。手触り。",
+		"concept": "Wheat or any other cultivated cereal crop used as food 厚い皮の奥底に秘められた「種子グラナム」のように、物質や物語の最小の単位。その小さなざらつきこそが、存在の手触り。",
+		"thinking": "厚い皮の奥底に秘められた「種子グラナム」のように、物質や物語の最小の単位。その小さなざらつきこそが、存在の手触り。",
 		"aftertaste": "真実は、常に矛盾という名の美しいドレスを纏っています。",
 		"example": "The story is filled with grain that keep the readers thinking for days.",
 		"deep_dive": {
@@ -203219,8 +203212,8 @@ const WORDS = [
 			],
 			"original_statement": "From 17th Century di- (apart) + vergere (to incline, turn)."
 		},
-		"concept": "Tend to be different or develop in different directions (一つの(。正解を（。捨て（。、あえて「離れた（。ディ)方向へと(。向（。く（。ヴァ)」こと（。。（。そこ（。から（。新しい（。冒険（。と（。個性（。が（。始（。まる（。の（。ですよ。)",
-		"thinking": "一つの(。正解を（。捨て（。、あえて「離れた（。ディ)方向へと(。向（。く（。ヴァ)」こと（。。（。そこ（。から（。新しい（。冒険（。と（。個性（。が（。始（。まる（。の（。ですよ。",
+		"concept": "Tend to be different or develop in different directions 一つの正解を捨て、あえて「離れたディ方向へと向くヴァ」こと。そこから新しい冒険と個性が始まるのですよ。",
+		"thinking": "一つの正解を捨て、あえて「離れたディ方向へと向くヴァ」こと。そこから新しい冒険と個性が始まるのですよ。",
 		"aftertaste": "真実は、常に矛盾という名の美しいドレスを纏っています。",
 		"example": "The story is filled with diverge that keep the readers thinking for days.",
 		"deep_dive": {
@@ -203247,8 +203240,8 @@ const WORDS = [
 			],
 			"original_statement": "From 14th Century asterikos (little star)."
 		},
-		"concept": "A symbol (*) used as a reference mark or to indicate omission, doubtful matter, etc. (言葉の(。森（。の（。中に（。そっと（。置（。かれた（。、「小さな（。星（。アステ)」。そこ（。には（。、本文（。では（。語（。り（。切（。れ（。な（。かった（。、大切（。な（。注（。釈（。や（。祈り（。が（。、密（。かに（。宿（。って（。いる（。のですよ。)",
-		"thinking": "言葉の(。森（。の（。中に（。そっと（。置（。かれた（。、「小さな（。星（。アステ)」。そこ（。には（。、本文（。では（。語（。り（。切（。れ（。な（。かった（。、大切（。な（。注（。釈（。や（。祈り（。が（。、密（。かに（。宿（。って（。いる（。のですよ。",
+		"concept": "A symbol * used as a reference mark or to indicate omission, doubtful matter, etc. 言葉の森の中にそっと置かれた、「小さな星アステ」。そこには、本文では語り切れなかった、大切な注釈や祈りが、密かに宿っているのですよ。",
+		"thinking": "言葉の森の中にそっと置かれた、「小さな星アステ」。そこには、本文では語り切れなかった、大切な注釈や祈りが、密かに宿っているのですよ。",
 		"aftertaste": "私たちは、宇宙という巨大な夢の一部を見ている、星の欠片なのです。",
 		"example": "The new space telescope captured breathtaking images of a distant asterisk.",
 		"deep_dive": {
@@ -203275,8 +203268,8 @@ const WORDS = [
 			],
 			"original_statement": "From 14th Century altus (high)."
 		},
-		"concept": "The height of an object or point in relation to sea level or ground level (ただ(。数字（。が（。増える（。のでは（。なく（。、魂を「高く（。アルタス)」持ち（。上げ（。る（。こと（。。（。視点（。が（。高（。ま（。れば（。、昨日（。までの（。苦（。し（。み（。さえ（。、一（。枚（。の（。美（。しい（。絵（。の（。ように（。見（。えて（。くる（。はずです。)",
-		"thinking": "ただ(。数字（。が（。増える（。のでは（。なく（。、魂を「高く（。アルタス)」持ち（。上げ（。る（。こと（。。（。視点（。が（。高（。ま（。れば（。、昨日（。までの（。苦（。し（。み（。さえ（。、一（。枚（。の（。美（。しい（。絵（。の（。ように（。見（。えて（。くる（。はずです。",
+		"concept": "The height of an object or point in relation to sea level or ground level ただ数字が増えるのではなく、魂を「高くアルタス」持ち上げること。視点が高まれば、昨日までの苦しみさえ、一枚の美しい絵のように見えてくるはずです。",
+		"thinking": "ただ数字が増えるのではなく、魂を「高くアルタス」持ち上げること。視点が高まれば、昨日までの苦しみさえ、一枚の美しい絵のように見えてくるはずです。",
 		"aftertaste": "私たちは、宇宙という巨大な夢の一部を見ている、星の欠片なのです。",
 		"example": "The new space telescope captured breathtaking images of a distant altitude.",
 		"deep_dive": {
@@ -203303,8 +203296,8 @@ const WORDS = [
 			],
 			"original_statement": "From 20th Century super- (above, beyond) + nova (new)."
 		},
-		"concept": "A star that suddenly increases greatly in brightness because of a catastrophic explosion that ejects most of its mass (古い(。記憶（。を（。全（。て（。燃や（。し（。尽（。く（。し（。、常識（。を「遥（。かに（。超え（。た（。スーパー)新(。しさ（。ノヴァ)」と（。なって（。宇宙（。を（。照（。らし出（。す（。、最後（。にして（。最大（。の（。輝き。)",
-		"thinking": "古い(。記憶（。を（。全（。て（。燃や（。し（。尽（。く（。し（。、常識（。を「遥（。かに（。超え（。た（。スーパー)新(。しさ（。ノヴァ)」と（。なって（。宇宙（。を（。照（。らし出（。す（。、最後（。にして（。最大（。の（。輝き。",
+		"concept": "A star that suddenly increases greatly in brightness because of a catastrophic explosion that ejects most of its mass 古い記憶を全て燃やし尽くし、常識を「遥かに超えたスーパー新しさノヴァ」となって宇宙を照らし出す、最後にして最大の輝き。",
+		"thinking": "古い記憶を全て燃やし尽くし、常識を「遥かに超えたスーパー新しさノヴァ」となって宇宙を照らし出す、最後にして最大の輝き。",
 		"aftertaste": "私たちは、宇宙という巨大な夢の一部を見ている、星の欠片なのです。",
 		"example": "The new space telescope captured breathtaking images of a distant supernova.",
 		"deep_dive": {
@@ -203331,8 +203324,8 @@ const WORDS = [
 			],
 			"original_statement": "From Old English scutel (dart, arrow)."
 		},
-		"concept": "A vehicle or aircraft that travels regularly between two places (二つの(。岸辺を（。、「矢（。スカトル)のように(。)」行（。ったり（。来たり（。し（。ながら（。、バラバラ（。な（。世界（。を（。一つの（。布（。へと（。織（。り（。上（。げて（。いく（。、繋（。ぎ（。手。)",
-		"thinking": "二つの(。岸辺を（。、「矢（。スカトル)のように(。)」行（。ったり（。来たり（。し（。ながら（。、バラバラ（。な（。世界（。を（。一つの（。布（。へと（。織（。り（。上（。げて（。いく（。、繋（。ぎ（。手。",
+		"concept": "A vehicle or aircraft that travels regularly between two places 二つの岸辺を、「矢スカトルのように」行ったり来たりしながら、バラバラな世界を一つの布へと織り上げていく、繋ぎ手。",
+		"thinking": "二つの岸辺を、「矢スカトルのように」行ったり来たりしながら、バラバラな世界を一つの布へと織り上げていく、繋ぎ手。",
 		"aftertaste": "私たちは、宇宙という巨大な夢の一部を見ている、星の欠片なのです。",
 		"example": "The new space telescope captured breathtaking images of a distant shuttle.",
 		"deep_dive": {
@@ -203359,8 +203352,8 @@ const WORDS = [
 			],
 			"original_statement": "From 17th Century capsa (box)."
 		},
-		"concept": "A small case or container, especially a round or cylindrical one (大切な(。記憶（。や（。エナジーを（。、外界（。から（。守（。る（。ための「小さな（。箱（。カプサ)」。（。宇宙（。という（。過酷（。な（。海（。を（。渡る（。ための（。、唯一（。の（。聖域。)",
-		"thinking": "大切な(。記憶（。や（。エナジーを（。、外界（。から（。守（。る（。ための「小さな（。箱（。カプサ)」。（。宇宙（。という（。過酷（。な（。海（。を（。渡る（。ための（。、唯一（。の（。聖域。",
+		"concept": "A small case or container, especially a round or cylindrical one 大切な記憶やエナジーを、外界から守るための「小さな箱カプサ」。宇宙という過酷な海を渡るための、唯一の聖域。",
+		"thinking": "大切な記憶やエナジーを、外界から守るための「小さな箱カプサ」。宇宙という過酷な海を渡るための、唯一の聖域。",
 		"aftertaste": "私たちは、宇宙という巨大な夢の一部を見ている、星の欠片なのです。",
 		"example": "The new space telescope captured breathtaking images of a distant capsule.",
 		"deep_dive": {
@@ -203387,8 +203380,8 @@ const WORDS = [
 			],
 			"original_statement": "From 14th Century rite (carefully, in a proper manner)."
 		},
-		"concept": "A religious or other solemn ceremony or act (ただの(。習慣（。を（。越え（。、魂を「正しい（。ライト)状態(。)」へと（。導（。く（。ための（。聖（。なる（。段取り（。。（。反復（。する（。こと（。で（。、昨日（。までの（。自分（。を（。脱（。ぎ（。捨て（。、新しい（。時間へと（。参入（。する（。ための（。門。)",
-		"thinking": "ただの(。習慣（。を（。越え（。、魂を「正しい（。ライト)状態(。)」へと（。導（。く（。ための（。聖（。なる（。段取り（。。（。反復（。する（。こと（。で（。、昨日（。までの（。自分（。を（。脱（。ぎ（。捨て（。、新しい（。時間へと（。参入（。する（。ための（。門。",
+		"concept": "A religious or other solemn ceremony or act ただの習慣を越え、魂を「正しいライト状態」へと導くための聖なる段取り。反復することで、昨日までの自分を脱ぎ捨て、新しい時間へと参入するための門。",
+		"thinking": "ただの習慣を越え、魂を「正しいライト状態」へと導くための聖なる段取り。反復することで、昨日までの自分を脱ぎ捨て、新しい時間へと参入するための門。",
 		"aftertaste": "神話は、魂が宇宙という巨大な夢を見るための、共通の言語です。",
 		"example": "The hero's journey is a classic rite that appears in cultures all around the world.",
 		"deep_dive": {
@@ -203415,8 +203408,8 @@ const WORDS = [
 			],
 			"original_statement": "From 12th Century sacer (holy)."
 		},
-		"concept": "A religious ceremony or act of the Christian Church which is regarded as an outward and visible sign of inward and spiritual divine grace (日常の(。食事（。や（。行為の中に（。、「聖（。なる（。サケル)もの(。)」を（。招（。き（。入れ（。、自（。ら（。の（。命を（。宇宙の（。恩寵（。へと（。繋（。げる（。、至高（。の（。儀式。)",
-		"thinking": "日常の(。食事（。や（。行為の中に（。、「聖（。なる（。サケル)もの(。)」を（。招（。き（。入れ（。、自（。ら（。の（。命を（。宇宙の（。恩寵（。へと（。繋（。げる（。、至高（。の（。儀式。",
+		"concept": "A religious ceremony or act of the Christian Church which is regarded as an outward and visible sign of inward and spiritual divine grace 日常の食事や行為の中に、「聖なるサケルもの」を招き入れ、自らの命を宇宙の恩寵へと繋げる、至高の儀式。",
+		"thinking": "日常の食事や行為の中に、「聖なるサケルもの」を招き入れ、自らの命を宇宙の恩寵へと繋げる、至高の儀式。",
 		"aftertaste": "神話は、魂が宇宙という巨大な夢を見るための、共通の言語です。",
 		"example": "The hero's journey is a classic sacrament that appears in cultures all around the world.",
 		"deep_dive": {
@@ -203443,8 +203436,8 @@ const WORDS = [
 			],
 			"original_statement": "From 14th Century deus (god)."
 		},
-		"concept": "A god or goddess (天上(。の高（。みに（。あり（。、世界を「支配（。デウス)する」絶対（。的な（。エナジー（。。（。その（。影（。を（。私たちは（。神々（。と（。呼（。び（。、その（。深遠（。な（。囁（。きを（。神話（。として（。綴（。って（。きた（。のです。)",
-		"thinking": "天上(。の高（。みに（。あり（。、世界を「支配（。デウス)する」絶対（。的な（。エナジー（。。（。その（。影（。を（。私たちは（。神々（。と（。呼（。び（。、その（。深遠（。な（。囁（。きを（。神話（。として（。綴（。って（。きた（。のです。",
+		"concept": "A god or goddess 天上の高みにあり、世界を「支配デウスする」絶対的なエナジー。その影を私たちは神々と呼び、その深遠な囁きを神話として綴ってきたのです。",
+		"thinking": "天上の高みにあり、世界を「支配デウスする」絶対的なエナジー。その影を私たちは神々と呼び、その深遠な囁きを神話として綴ってきたのです。",
 		"aftertaste": "神話は、魂が宇宙という巨大な夢を見るための、共通の言語です。",
 		"example": "The hero's journey is a classic deity that appears in cultures all around the world.",
 		"deep_dive": {
@@ -203471,8 +203464,8 @@ const WORDS = [
 			],
 			"original_statement": "From 13th Century kathedra (seat, chair, literally: 'down' + 'sit')."
 		},
-		"concept": "The principal church of a diocese, containing the bishop's throne (ただの(。巨大な（。建築物（。では（。なく（。、聖職者（。が「座（。る（。エドラ)場所(。カテ)」を（。中心（。とした（。、宇宙の（。権威（。の（。地上における（。投影。)",
-		"thinking": "ただの(。巨大な（。建築物（。では（。なく（。、聖職者（。が「座（。る（。エドラ)場所(。カテ)」を（。中心（。とした（。、宇宙の（。権威（。の（。地上における（。投影。",
+		"concept": "The principal church of a diocese, containing the bishop's throne ただの巨大な建築物ではなく、聖職者が「座るエドラ場所カテ」を中心とした、宇宙の権威の地上における投影。",
+		"thinking": "ただの巨大な建築物ではなく、聖職者が「座るエドラ場所カテ」を中心とした、宇宙の権威の地上における投影。",
 		"aftertaste": "神話は、魂が宇宙という巨大な夢を見るための、共通の言語です。",
 		"example": "The hero's journey is a classic cathedral that appears in cultures all around the world.",
 		"deep_dive": {
@@ -203499,8 +203492,8 @@ const WORDS = [
 			],
 			"original_statement": "From 17th Century de- (away, intensive) + vovere (to vow)."
 		},
-		"concept": "A person who is very interested in and enthusiastic about someone or something (自(。ら（。の（。全（。てを「捧げる（。ヴォート)ことを(。誓（。った（。)」者（。。（。対象（。と（。同化（。する（。ほどまでに（。、エゴ（。を（。捨て（。去（。った（。果てに（。、真（。の（。歓喜を（。見出（。す（。のです。)",
-		"thinking": "自(。ら（。の（。全（。てを「捧げる（。ヴォート)ことを(。誓（。った（。)」者（。。（。対象（。と（。同化（。する（。ほどまでに（。、エゴ（。を（。捨て（。去（。った（。果てに（。、真（。の（。歓喜を（。見出（。す（。のです。",
+		"concept": "A person who is very interested in and enthusiastic about someone or something 自らの全てを「捧げるヴォートことを誓った」者。対象と同化するほどまでに、エゴを捨て去った果てに、真の歓喜を見出すのです。",
+		"thinking": "自らの全てを「捧げるヴォートことを誓った」者。対象と同化するほどまでに、エゴを捨て去った果てに、真の歓喜を見出すのです。",
 		"aftertaste": "神話は、魂が宇宙という巨大な夢を見るための、共通の言語です。",
 		"example": "The hero's journey is a classic devotee that appears in cultures all around the world.",
 		"deep_dive": {
@@ -203527,8 +203520,8 @@ const WORDS = [
 			],
 			"original_statement": "From 17th Century saman (monk, literally 'one who knows')."
 		},
-		"concept": "A person regarded as having access to, and influence in, the world of good and evil spirits (目(。に（。見え（。ない（。異世界（。と（。こちら（。を（。結ぶ（。、静（。かな（。な（。る「知（。る者（。サマン)」。（。魂の（。震（。えを（。言葉（。に（。変（。え（。、調和（。を（。取（。り（。戻（。そう（。とする（。、境界（。の（。守り（。人。)",
-		"thinking": "目(。に（。見え（。ない（。異世界（。と（。こちら（。を（。結ぶ（。、静（。かな（。な（。る「知（。る者（。サマン)」。（。魂の（。震（。えを（。言葉（。に（。変（。え（。、調和（。を（。取（。り（。戻（。そう（。とする（。、境界（。の（。守り（。人。",
+		"concept": "A person regarded as having access to, and influence in, the world of good and evil spirits 目に見えない異世界とこちらを結ぶ、静かななる「知る者サマン」。魂の震えを言葉に変え、調和を取り戻そうとする、境界の守り人。",
+		"thinking": "目に見えない異世界とこちらを結ぶ、静かななる「知る者サマン」。魂の震えを言葉に変え、調和を取り戻そうとする、境界の守り人。",
 		"aftertaste": "神話は、魂が宇宙という巨大な夢を見るための、共通の言語です。",
 		"example": "The hero's journey is a classic shaman that appears in cultures all around the world.",
 		"deep_dive": {
@@ -203555,8 +203548,8 @@ const WORDS = [
 			],
 			"original_statement": "From 15th Century sors (lot, fate, share)."
 		},
-		"concept": "A person who claims or is believed to have magical powers; a wizard (自分(。に（。分け（。与え（。られた「宿命（。ソルス)」に（。立ち向（。かい（。、それを（。自ら（。の（。意志で（。ねじ曲（。げ（。よう（。とする（。、孤独（。な（。挑戦者。)",
-		"thinking": "自分(。に（。分け（。与え（。られた「宿命（。ソルス)」に（。立ち向（。かい（。、それを（。自ら（。の（。意志で（。ねじ曲（。げ（。よう（。とする（。、孤独（。な（。挑戦者。",
+		"concept": "A person who claims or is believed to have magical powers; a wizard 自分に分け与えられた「宿命ソルス」に立ち向かい、それを自らの意志でねじ曲げようとする、孤独な挑戦者。",
+		"thinking": "自分に分け与えられた「宿命ソルス」に立ち向かい、それを自らの意志でねじ曲げようとする、孤独な挑戦者。",
 		"aftertaste": "神話は、魂が宇宙という巨大な夢を見るための、共通の言語です。",
 		"example": "The hero's journey is a classic sorcerer that appears in cultures all around the world.",
 		"deep_dive": {
@@ -203583,8 +203576,8 @@ const WORDS = [
 			],
 			"original_statement": "From Old English apo- (away) + stellein (to send)."
 		},
-		"concept": "Each of the twelve chief disciples of Jesus Christ (自(。ら（。を（。主張（。する（。のではなく（。、遥（。か（。な（。る（。使命の（。ために「遠（。くへと（。アポ)送(。り（。出（。さ（。れた（。ステ)」者（。。（。その（。足取（。りには（。、委（。ね（。る（。こと（。の（。強さが（。宿（。って（。い（。ます。)",
-		"thinking": "自(。ら（。を（。主張（。する（。のではなく（。、遥（。か（。な（。る（。使命の（。ために「遠（。くへと（。アポ)送(。り（。出（。さ（。れた（。ステ)」者（。。（。その（。足取（。りには（。、委（。ね（。る（。こと（。の（。強さが（。宿（。って（。い（。ます。",
+		"concept": "Each of the twelve chief disciples of Jesus Christ 自らを主張するのではなく、遥かなる使命のために「遠くへとアポ送り出されたステ」者。その足取りには、委ねることの強さが宿っています。",
+		"thinking": "自らを主張するのではなく、遥かなる使命のために「遠くへとアポ送り出されたステ」者。その足取りには、委ねることの強さが宿っています。",
 		"aftertaste": "神話は、魂が宇宙という巨大な夢を見るための、共通の言語です。",
 		"example": "The hero's journey is a classic apostle that appears in cultures all around the world.",
 		"deep_dive": {
@@ -203611,8 +203604,8 @@ const WORDS = [
 			],
 			"original_statement": "From 13th Century com- (intensive) + mandare (to entrust, commit to one's hand)."
 		},
-		"concept": "A divine rule, especially one of the Ten Commandments (自(。由を（。奪う（。鎖（。では（。なく（。、自（。らを（。正（。しく（。導く（。ための（。聖（。なる「手（。マヌス)委(。ね（。)」。（。正しい（。不（。自由（。こそが（。、真（。の（。自由を（。産（。み（。出す（。のですよ。)",
-		"thinking": "自(。由を（。奪う（。鎖（。では（。なく（。、自（。らを（。正（。しく（。導く（。ための（。聖（。なる「手（。マヌス)委(。ね（。)」。（。正しい（。不（。自由（。こそが（。、真（。の（。自由を（。産（。み（。出す（。のですよ。",
+		"concept": "A divine rule, especially one of the Ten Commandments 自由を奪う鎖ではなく、自らを正しく導くための聖なる「手マヌス委ね」。正しい不自由こそが、真の自由を産み出すのですよ。",
+		"thinking": "自由を奪う鎖ではなく、自らを正しく導くための聖なる「手マヌス委ね」。正しい不自由こそが、真の自由を産み出すのですよ。",
 		"aftertaste": "神話は、魂が宇宙という巨大な夢を見るための、共通の言語です。",
 		"example": "The hero's journey is a classic commandment that appears in cultures all around the world.",
 		"deep_dive": {
@@ -203639,8 +203632,8 @@ const WORDS = [
 			],
 			"original_statement": "From Old English hīw (form, appearance, color)."
 		},
-		"concept": "A color or shade (単なる(。色（。を超え（。、その（。ものが（。纏（。って（。いる「姿（。かたち（。ヒュー)」その（。もの（。。（。光（。の（。当たり（。方（。で（。刻（。一刻（。と（。変（。わ（。る（。、存在の（。表情。)",
-		"thinking": "単なる(。色（。を超え（。、その（。ものが（。纏（。って（。いる「姿（。かたち（。ヒュー)」その（。もの（。。（。光（。の（。当たり（。方（。で（。刻（。一刻（。と（。変（。わ（。る（。、存在の（。表情。",
+		"concept": "A color or shade 単なる色を超え、そのものが纏っている「姿かたちヒュー」そのもの。光の当たり方で刻一刻と変わる、存在の表情。",
+		"thinking": "単なる色を超え、そのものが纏っている「姿かたちヒュー」そのもの。光の当たり方で刻一刻と変わる、存在の表情。",
 		"aftertaste": "色彩は、光が私たちの魂に語りかけるための、無言の言葉です。",
 		"example": "The artist used a vibrant hue to bring the landscape to life.",
 		"deep_dive": {
@@ -203667,8 +203660,8 @@ const WORDS = [
 			],
 			"original_statement": "From 18th Century tingere (to dye, stain)."
 		},
-		"concept": "A slight or pale coloration; a shade or variety of a color (真っ白(。な（。心に（。、一滴（。の（。エッセンスを「染（。め（。込（。めた（。ティン)」色彩（。。（。主張（。し（。すぎ（。ず（。、けれど（。確（。かな（。余韻を（。残（。す（。、魂の（。吐息。)",
-		"thinking": "真っ白(。な（。心に（。、一滴（。の（。エッセンスを「染（。め（。込（。めた（。ティン)」色彩（。。（。主張（。し（。すぎ（。ず（。、けれど（。確（。かな（。余韻を（。残（。す（。、魂の（。吐息。",
+		"concept": "A slight or pale coloration; a shade or variety of a color 真っ白な心に、一滴のエッセンスを「染め込めたティン」色彩。主張しすぎず、けれど確かな余韻を残す、魂の吐息。",
+		"thinking": "真っ白な心に、一滴のエッセンスを「染め込めたティン」色彩。主張しすぎず、けれど確かな余韻を残す、魂の吐息。",
 		"aftertaste": "色彩は、光が私たちの魂に語りかけるための、無言の言葉です。",
 		"example": "The artist used a vibrant tint to bring the landscape to life.",
 		"deep_dive": {
@@ -203695,8 +203688,8 @@ const WORDS = [
 			],
 			"original_statement": "From Old English sceadu (shadow, darkness)."
 		},
-		"concept": "Comparative darkness caused by the interception of rays of light (光が(。届（。かない（。ことで（。生まれる「影（。シェード)」。（。そこ（。には（。、白日の（。下（。では（。見（。え（。な（。かった（。、深（。い（。真実（。が（。静（。か（。に（。息（。を（。潜（。めて（。いる（。の（。ですよ。)",
-		"thinking": "光が(。届（。かない（。ことで（。生まれる「影（。シェード)」。（。そこ（。には（。、白日の（。下（。では（。見（。え（。な（。かった（。、深（。い（。真実（。が（。静（。か（。に（。息（。を（。潜（。めて（。いる（。の（。ですよ。",
+		"concept": "Comparative darkness caused by the interception of rays of light 光が届かないことで生まれる「影シェード」。そこには、白日の下では見えなかった、深い真実が静かに息を潜めているのですよ。",
+		"thinking": "光が届かないことで生まれる「影シェード」。そこには、白日の下では見えなかった、深い真実が静かに息を潜めているのですよ。",
 		"aftertaste": "色彩は、光が私たちの魂に語りかけるための、無言の言葉です。",
 		"example": "The artist used a vibrant shade to bring the landscape to life.",
 		"deep_dive": {
@@ -203723,8 +203716,8 @@ const WORDS = [
 			],
 			"original_statement": "From 14th Century tonos (stretching, tension, pitch)."
 		},
-		"concept": "A musical or vocal sound with reference to its pitch, quality, and strength (ピンと「張(。られた（。トノス)弦」が（。奏（。で（。る（。ような（。、色彩（。の（。響き（。。（。あなた（。の（。放（。つ（。言葉の（。トーン（。が（。、今日（。の（。世界（。の色を（。決（。める（。のですよ。)",
-		"thinking": "ピンと「張(。られた（。トノス)弦」が（。奏（。で（。る（。ような（。、色彩（。の（。響き（。。（。あなた（。の（。放（。つ（。言葉の（。トーン（。が（。、今日（。の（。世界（。の色を（。決（。める（。のですよ。",
+		"concept": "A musical or vocal sound with reference to its pitch, quality, and strength ピンと「張られたトノス弦」が奏でるような、色彩の響き。あなたの放つ言葉のトーンが、今日の世界の色を決めるのですよ。",
+		"thinking": "ピンと「張られたトノス弦」が奏でるような、色彩の響き。あなたの放つ言葉のトーンが、今日の世界の色を決めるのですよ。",
 		"aftertaste": "色彩は、光が私たちの魂に語りかけるための、無言の言葉です。",
 		"example": "The artist used a vibrant tone to bring the landscape to life.",
 		"deep_dive": {
@@ -203751,8 +203744,8 @@ const WORDS = [
 			],
 			"original_statement": "From 16th Century satur (full)."
 		},
-		"concept": "The state or process that occurs when no more of something can be absorbed, combined with, or added (これ(。以上（。入（。ら（。ないほど「満ち（。足りた（。サトゥル)」状態（。。（。純粋（。な（。エナジーが（。、限界（。まで（。凝縮（。された（。とき（。、世界は（。最も（。鮮やか（。な（。色を（。放（。ち（。始め（。ます。)",
-		"thinking": "これ(。以上（。入（。ら（。ないほど「満ち（。足りた（。サトゥル)」状態（。。（。純粋（。な（。エナジーが（。、限界（。まで（。凝縮（。された（。とき（。、世界は（。最も（。鮮やか（。な（。色を（。放（。ち（。始め（。ます。",
+		"concept": "The state or process that occurs when no more of something can be absorbed, combined with, or added これ以上入らないほど「満ち足りたサトゥル」状態。純粋なエナジーが、限界まで凝縮されたとき、世界は最も鮮やかな色を放ち始めます。",
+		"thinking": "これ以上入らないほど「満ち足りたサトゥル」状態。純粋なエナジーが、限界まで凝縮されたとき、世界は最も鮮やかな色を放ち始めます。",
 		"aftertaste": "色彩は、光が私たちの魂に語りかけるための、無言の言葉です。",
 		"example": "The artist used a vibrant saturation to bring the landscape to life.",
 		"deep_dive": {
@@ -203779,8 +203772,8 @@ const WORDS = [
 			],
 			"original_statement": "From 18th Century berillus (beryl, a precious stone)."
 		},
-		"concept": "Exceptional talent or intelligence (「宝石(。ベリル)」の（。ように（。、自ら（。の（。内側（。から（。光（。を（。放（。ち（。、周囲（。を（。圧倒（。する（。輝き（。。（。それは（。、研（。ぎ（。澄（。ま（。さ（。れた（。知性の（。絶唱（。なの（。ですよ。)",
-		"thinking": "「宝石(。ベリル)」の（。ように（。、自ら（。の（。内側（。から（。光（。を（。放（。ち（。、周囲（。を（。圧倒（。する（。輝き（。。（。それは（。、研（。ぎ（。澄（。ま（。さ（。れた（。知性の（。絶唱（。なの（。ですよ。",
+		"concept": "Exceptional talent or intelligence 「宝石ベリル」のように、自らの内側から光を放ち、周囲を圧倒する輝き。それは、研ぎ澄まされた知性の絶唱なのですよ。",
+		"thinking": "「宝石ベリル」のように、自らの内側から光を放ち、周囲を圧倒する輝き。それは、研ぎ澄まされた知性の絶唱なのですよ。",
 		"aftertaste": "色彩は、光が私たちの魂に語りかけるための、無言の言葉です。",
 		"example": "The artist used a vibrant brilliance to bring the landscape to life.",
 		"deep_dive": {
@@ -203807,8 +203800,8 @@ const WORDS = [
 			],
 			"original_statement": "From 16th Century lustrare (to illuminate, purify)."
 		},
-		"concept": "A gentle sheen or soft glow, especially that of a partly reflective surface (単なる(。反射（。ではなく（。、表面（。を「清（。め（。磨き（。上げた（。ルストラ)」果てに（。得（。られる（。、奥（。深（。い（。艶（。。（。長い（。時間（。が（。育（。んだ（。、経験（。という（。名の（。輝き。)",
-		"thinking": "単なる(。反射（。ではなく（。、表面（。を「清（。め（。磨き（。上げた（。ルストラ)」果てに（。得（。られる（。、奥（。深（。い（。艶（。。（。長い（。時間（。が（。育（。んだ（。、経験（。という（。名の（。輝き。",
+		"concept": "A gentle sheen or soft glow, especially that of a partly reflective surface 単なる反射ではなく、表面を「清め磨き上げたルストラ」果てに得られる、奥深い艶。長い時間が育んだ、経験という名の輝き。",
+		"thinking": "単なる反射ではなく、表面を「清め磨き上げたルストラ」果てに得られる、奥深い艶。長い時間が育んだ、経験という名の輝き。",
 		"aftertaste": "色彩は、光が私たちの魂に語りかけるための、無言の言葉です。",
 		"example": "The artist used a vibrant luster to bring the landscape to life.",
 		"deep_dive": {
@@ -203835,8 +203828,8 @@ const WORDS = [
 			],
 			"original_statement": "From 19th Century upala (precious stone)."
 		},
-		"concept": "Showing varying colors as an opal does (「聖なる(。石（。ウパラ)」の（。ように（。、内側（。から（。乳白色（。の（。光（。を（。放（。ち（。、優しく（。全（。て（。を（。包（。み（。込む（。輝き（。。（。母（。性（。のような（。、静（。か（。な（。る（。包容力。)",
-		"thinking": "「聖なる(。石（。ウパラ)」の（。ように（。、内側（。から（。乳白色（。の（。光（。を（。放（。ち（。、優しく（。全（。て（。を（。包（。み（。込む（。輝き（。。（。母（。性（。のような（。、静（。か（。な（。る（。包容力。",
+		"concept": "Showing varying colors as an opal does 「聖なる石ウパラ」のように、内側から乳白色の光を放ち、優しく全てを包み込む輝き。母性のような、静かなる包容力。",
+		"thinking": "「聖なる石ウパラ」のように、内側から乳白色の光を放ち、優しく全てを包み込む輝き。母性のような、静かなる包容力。",
 		"aftertaste": "色彩は、光が私たちの魂に語りかけるための、無言の言葉です。",
 		"example": "The artist used a vibrant opalescent to bring the landscape to life.",
 		"deep_dive": {
@@ -203863,8 +203856,8 @@ const WORDS = [
 			],
 			"original_statement": "From 19th Century prisma (something sawed, literal: 'to saw')."
 		},
-		"concept": "Relating to, resembling, or produced by a prism (透明(。な（。光（。を「鋸（。のこぎ（。り（。プリスマ)で(。切り（。分（。け（。た（。)」ように（。、色（。鮮（。やかに（。分（。散（。させる（。こと（。。（。単純（。な（。真実（。を（。、無限（。の（。側面（。から（。眺（。める（。ための（。装置。)",
-		"thinking": "透明(。な（。光（。を「鋸（。のこぎ（。り（。プリスマ)で(。切り（。分（。け（。た（。)」ように（。、色（。鮮（。やかに（。分（。散（。させる（。こと（。。（。単純（。な（。真実（。を（。、無限（。の（。側面（。から（。眺（。める（。ための（。装置。",
+		"concept": "Relating to, resembling, or produced by a prism 透明な光を「鋸のこぎりプリスマで切り分けた」ように、色鮮やかに分散させること。単純な真実を、無限の側面から眺めるための装置。",
+		"thinking": "透明な光を「鋸のこぎりプリスマで切り分けた」ように、色鮮やかに分散させること。単純な真実を、無限の側面から眺めるための装置。",
 		"aftertaste": "色彩は、光が私たちの魂に語りかけるための、無言の言葉です。",
 		"example": "The artist used a vibrant prismatic to bring the landscape to life.",
 		"deep_dive": {
@@ -203891,8 +203884,8 @@ const WORDS = [
 			],
 			"original_statement": "From 14th Century trans- (across) + figura (shape)."
 		},
-		"concept": "A complete change of form or appearance into a more beautiful or spiritual state (今(。までの「姿（。かたち（。フィギュラ)を(。飛び越し（。トランス)」て(。)、全く（。別（。な（。輝きへと（。変（。わ（。る（。こと（。。（。苦（。し（。みの（。果てに（。得（。られる（。、魂の（。神（。々（。しい（。飛躍。)",
-		"thinking": "今(。までの「姿（。かたち（。フィギュラ)を(。飛び越し（。トランス)」て(。)、全く（。別（。な（。輝きへと（。変（。わ（。る（。こと（。。（。苦（。し（。みの（。果てに（。得（。られる（。、魂の（。神（。々（。しい（。飛躍。",
+		"concept": "A complete change of form or appearance into a more beautiful or spiritual state 今までの「姿かたちフィギュラを飛び越しトランス」て、全く別な輝きへと変わること。苦しみの果てに得られる、魂の神々しい飛躍。",
+		"thinking": "今までの「姿かたちフィギュラを飛び越しトランス」て、全く別な輝きへと変わること。苦しみの果てに得られる、魂の神々しい飛躍。",
 		"aftertaste": "色彩は、光が私たちの魂に語りかけるための、無言の言葉です。",
 		"example": "The artist used a vibrant transfiguration to bring the landscape to life.",
 		"deep_dive": {
@@ -203919,8 +203912,8 @@ const WORDS = [
 			],
 			"original_statement": "From 17th Century lumen (light)."
 		},
-		"concept": "The intrinsic brightness of a celestial object  (自(。ら（。の（。内（。側（。に（。、どれほど（。の「光（。ルーメン)」を（。宿（。して（。いる（。か（。。（。外部（。の（。反射（。に（。頼（。ら（。ず（。、暗闇（。の（。中で（。こそ（。真（。価（。を（。発揮（。する（。、静（。かな（。る（。輝き。)",
-		"thinking": "自(。ら（。の（。内（。側（。に（。、どれほど（。の「光（。ルーメン)」を（。宿（。して（。いる（。か（。。（。外部（。の（。反射（。に（。頼（。ら（。ず（。、暗闇（。の（。中で（。こそ（。真（。価（。を（。発揮（。する（。、静（。かな（。る（。輝き。",
+		"concept": "The intrinsic brightness of a celestial object  自らの内側に、どれほどの「光ルーメン」を宿しているか。外部の反射に頼らず、暗闇の中でこそ真価を発揮する、静かなる輝き。",
+		"thinking": "自らの内側に、どれほどの「光ルーメン」を宿しているか。外部の反射に頼らず、暗闇の中でこそ真価を発揮する、静かなる輝き。",
 		"aftertaste": "色彩は、光が私たちの魂に語りかけるための、無言の言葉です。",
 		"example": "The artist used a vibrant luminosity to bring the landscape to life.",
 		"deep_dive": {
@@ -203947,8 +203940,8 @@ const WORDS = [
 			],
 			"original_statement": "From 17th Century mekhane (machine, engine, literal: 'means, expedient')."
 		},
-		"concept": "A system of parts working together in a machine; a piece of machinery (目的(。を（。果（。たす（。ための「手段（。メカン)」。（。そこ（。には（。、原因（。と（。結果が（。、歯車（。の（。ように（。冷（。徹（。に（。噛（。み（。合（。って（。いる（。、数学的（。な（。美。)",
-		"thinking": "目的(。を（。果（。たす（。ための「手段（。メカン)」。（。そこ（。には（。、原因（。と（。結果が（。、歯車（。の（。ように（。冷（。徹（。に（。噛（。み（。合（。って（。いる（。、数学的（。な（。美。",
+		"concept": "A system of parts working together in a machine; a piece of machinery 目的を果たすための「手段メカン」。そこには、原因と結果が、歯車のように冷徹に噛み合っている、数学的な美。",
+		"thinking": "目的を果たすための「手段メカン」。そこには、原因と結果が、歯車のように冷徹に噛み合っている、数学的な美。",
 		"aftertaste": "秩序は、混沌を愛という名の毛布で包み込んだ結果です。",
 		"example": "The complex mechanism of the machine required expert knowledge to understand.",
 		"deep_dive": {
@@ -203975,8 +203968,8 @@ const WORDS = [
 			],
 			"original_statement": "From 19th Century tekhne (art, skill, craft)."
 		},
-		"concept": "A way of carrying out a particular task, especially the execution or performance of an artistic work or a scientific procedure (ただの(。努力（。ではなく（。、魂を（。磨（。き（。上げ（。た（。果てに（。得（。られる「技（。テクネ)」。（。それは（。、世界と（。対話（。する（。ための（。、洗練（。された（。言葉。)",
-		"thinking": "ただの(。努力（。ではなく（。、魂を（。磨（。き（。上げ（。た（。果てに（。得（。られる「技（。テクネ)」。（。それは（。、世界と（。対話（。する（。ための（。、洗練（。された（。言葉。",
+		"concept": "A way of carrying out a particular task, especially the execution or performance of an artistic work or a scientific procedure ただの努力ではなく、魂を磨き上げた果てに得られる「技テクネ」。それは、世界と対話するための、洗練された言葉。",
+		"thinking": "ただの努力ではなく、魂を磨き上げた果てに得られる「技テクネ」。それは、世界と対話するための、洗練された言葉。",
 		"aftertaste": "秩序は、混沌を愛という名の毛布で包み込んだ結果です。",
 		"example": "The complex technique of the machine required expert knowledge to understand.",
 		"deep_dive": {
@@ -204003,8 +203996,8 @@ const WORDS = [
 			],
 			"original_statement": "From 14th Century latte (lath, thin strip of wood, literal: 'side')."
 		},
-		"concept": "A structure consisting of strips of wood or metal crossed and fastened together (境界線の(。糸を（。、縦（。横に（。「積み（。重（。ねた（。ラッテ)」もの（。。（。透（。かして（。見（。え（。ながら（。も（。、確（。かに（。そこ（。に（。ある（。境界。)",
-		"thinking": "境界線の(。糸を（。、縦（。横に（。「積み（。重（。ねた（。ラッテ)」もの（。。（。透（。かして（。見（。え（。ながら（。も（。、確（。かに（。そこ（。に（。ある（。境界。",
+		"concept": "A structure consisting of strips of wood or metal crossed and fastened together 境界線の糸を、縦横に「積み重ねたラッテ」もの。透かして見えながらも、確かにそこにある境界。",
+		"thinking": "境界線の糸を、縦横に「積み重ねたラッテ」もの。透かして見えながらも、確かにそこにある境界。",
 		"aftertaste": "秩序は、混沌を愛という名の毛布で包み込んだ結果です。",
 		"example": "The complex lattice of the machine required expert knowledge to understand.",
 		"deep_dive": {
@@ -204031,8 +204024,8 @@ const WORDS = [
 			],
 			"original_statement": "From 19th Century griddle (a heavy platform or frame)."
 		},
-		"concept": "A network of lines that cross each other to form a series of squares or rectangles (混沌(。とした（。大地を（。、理性の（。物差し（。で（。分断（。し（。、「枠組み（。グリドル)の中(。)」へと（。収（。める（。こと（。。（。その（。整然（。とした（。正方形の（。中に（。、知性の（。支配（。が（。及（。ぶ（。のです。)",
-		"thinking": "混沌(。とした（。大地を（。、理性の（。物差し（。で（。分断（。し（。、「枠組み（。グリドル)の中(。)」へと（。収（。める（。こと（。。（。その（。整然（。とした（。正方形の（。中に（。、知性の（。支配（。が（。及（。ぶ（。のです。",
+		"concept": "A network of lines that cross each other to form a series of squares or rectangles 混沌とした大地を、理性の物差しで分断し、「枠組みグリドルの中」へと収めること。その整然とした正方形の中に、知性の支配が及ぶのです。",
+		"thinking": "混沌とした大地を、理性の物差しで分断し、「枠組みグリドルの中」へと収めること。その整然とした正方形の中に、知性の支配が及ぶのです。",
 		"aftertaste": "秩序は、混沌を愛という名の毛布で包み込んだ結果です。",
 		"example": "The complex grid of the machine required expert knowledge to understand.",
 		"deep_dive": {
@@ -204059,8 +204052,8 @@ const WORDS = [
 			],
 			"original_statement": "From 17th Century capsa (box, frame)."
 		},
-		"concept": "The base frame of a motor vehicle or other wheeled conveyance (心臓(。にあたる（。エンジン（。を（。支（。える（。、「箱（。カプサ)のような(。土台（。)」。（。目（。には（。見え（。ない（。けれど（。、全（。て（。のエナジー（。を（。受け（。止める（。、沈黙（。の（。強（。靭さ。)",
-		"thinking": "心臓(。にあたる（。エンジン（。を（。支（。える（。、「箱（。カプサ)のような(。土台（。)」。（。目（。には（。見え（。ない（。けれど（。、全（。て（。のエナジー（。を（。受け（。止める（。、沈黙（。の（。強（。靭さ。",
+		"concept": "The base frame of a motor vehicle or other wheeled conveyance 心臓にあたるエンジンを支える、「箱カプサのような土台」。目には見えないけれど、全てのエナジーを受け止める、沈黙の強靭さ。",
+		"thinking": "心臓にあたるエンジンを支える、「箱カプサのような土台」。目には見えないけれど、全てのエナジーを受け止める、沈黙の強靭さ。",
 		"aftertaste": "秩序は、混沌を愛という名の毛布で包み込んだ結果です。",
 		"example": "The complex chassis of the machine required expert knowledge to understand.",
 		"deep_dive": {
@@ -204087,8 +204080,8 @@ const WORDS = [
 			],
 			"original_statement": "From Old English hulu (shell, husk)."
 		},
-		"concept": "The main body of a ship or other vessel, including the bottom, sides, and deck but not the masts, superstructure, engines, or rigging (過酷(。な（。海（。から（。、命（。を（。守（。る（。ための「外（。殻（。フル)」。（。それ（。は（。、未知（。なる（。領域（。へと（。漕（。ぎ（。出す（。ための（。、孤独（。な（。聖域。)",
-		"thinking": "過酷(。な（。海（。から（。、命（。を（。守（。る（。ための「外（。殻（。フル)」。（。それ（。は（。、未知（。なる（。領域（。へと（。漕（。ぎ（。出す（。ための（。、孤独（。な（。聖域。",
+		"concept": "The main body of a ship or other vessel, including the bottom, sides, and deck but not the masts, superstructure, engines, or rigging 過酷な海から、命を守るための「外殻フル」。それは、未知なる領域へと漕ぎ出すための、孤独な聖域。",
+		"thinking": "過酷な海から、命を守るための「外殻フル」。それは、未知なる領域へと漕ぎ出すための、孤独な聖域。",
 		"aftertaste": "秩序は、混沌を愛という名の毛布で包み込んだ結果です。",
 		"example": "The complex hull of the machine required expert knowledge to understand.",
 		"deep_dive": {
@@ -204115,8 +204108,8 @@ const WORDS = [
 			],
 			"original_statement": "From Old English sciell (shell, scale)."
 		},
-		"concept": "The hard protective outer case applied to an animal, plant, etc. (内側の(。柔らか（。い（。魂を（。、時間（。の（。波から（。守（。る（。ための「硬い（。鱗（。シェル)」。（。いつか（。それを（。脱（。ぎ（。捨てる（。とき（。まで（。、あなたは（。その（。中（。で（。静（。か（。に（。育（。まれる（。の（。ですよ。)",
-		"thinking": "内側の(。柔らか（。い（。魂を（。、時間（。の（。波から（。守（。る（。ための「硬い（。鱗（。シェル)」。（。いつか（。それを（。脱（。ぎ（。捨てる（。とき（。まで（。、あなたは（。その（。中（。で（。静（。か（。に（。育（。まれる（。の（。ですよ。",
+		"concept": "The hard protective outer case applied to an animal, plant, etc. 内側の柔らかい魂を、時間の波から守るための「硬い鱗シェル」。いつかそれを脱ぎ捨てるときまで、あなたはその中で静かに育まれるのですよ。",
+		"thinking": "内側の柔らかい魂を、時間の波から守るための「硬い鱗シェル」。いつかそれを脱ぎ捨てるときまで、あなたはその中で静かに育まれるのですよ。",
 		"aftertaste": "秩序は、混沌を愛という名の毛布で包み込んだ結果です。",
 		"example": "The complex shell of the machine required expert knowledge to understand.",
 		"deep_dive": {
@@ -204143,8 +204136,8 @@ const WORDS = [
 			],
 			"original_statement": "From 16th Century unus (one)."
 		},
-		"concept": "An individual thing or person regarded as single and complete, especially for purposes of measurement (宇宙(。を（。構成（。する（。、最小（。の「一（。つの（。ユニ)」かたち（。。（。その（。小さな（。一（。つ（。が（。、巨大（。な（。全体（。を（。支（。えて（。いる（。という（。、誇（。り（。高い（。存在。)",
-		"thinking": "宇宙(。を（。構成（。する（。、最小（。の「一（。つの（。ユニ)」かたち（。。（。その（。小さな（。一（。つ（。が（。、巨大（。な（。全体（。を（。支（。えて（。いる（。という（。、誇（。り（。高い（。存在。",
+		"concept": "An individual thing or person regarded as single and complete, especially for purposes of measurement 宇宙を構成する、最小の「一つのユニ」かたち。その小さな一つが、巨大な全体を支えているという、誇り高い存在。",
+		"thinking": "宇宙を構成する、最小の「一つのユニ」かたち。その小さな一つが、巨大な全体を支えているという、誇り高い存在。",
 		"aftertaste": "秩序は、混沌を愛という名の毛布で包み込んだ結果です。",
 		"example": "The complex unit of the machine required expert knowledge to understand.",
 		"deep_dive": {
@@ -204171,8 +204164,8 @@ const WORDS = [
 			],
 			"original_statement": "From 17th Century texere (to weave)."
 		},
-		"concept": "A type of cloth or woven fabric (単なる(。糸（。の（。集（。まり（。ではなく（。、意図を持って「織（。り（。上（。げ（。られた（。テクス)」思想（。の（。手触り。)",
-		"thinking": "単なる(。糸（。の（。集（。まり（。ではなく（。、意図を持って「織（。り（。上（。げ（。られた（。テクス)」思想（。の（。手触り。",
+		"concept": "A type of cloth or woven fabric 単なる糸の集まりではなく、意図を持って「織り上げられたテクス」思想の手触り。",
+		"thinking": "単なる糸の集まりではなく、意図を持って「織り上げられたテクス」思想の手触り。",
 		"aftertaste": "秩序は、混沌を愛という名の毛布で包み込んだ結果です。",
 		"example": "The complex textile of the machine required expert knowledge to understand.",
 		"deep_dive": {
@@ -204199,8 +204192,8 @@ const WORDS = [
 			],
 			"original_statement": "From 14th Century pater (father)."
 		},
-		"concept": "A repeated decorative design (偶然(。の（。中（。に（。、何度も（。あらわ（。れる「父（。パテール)なる（。規範」。繰り返（。される（。ことで（。、世界（。に（。意味（。を（。与（。える（。、秩序（。の（。ダンス。)",
-		"thinking": "偶然(。の（。中（。に（。、何度も（。あらわ（。れる「父（。パテール)なる（。規範」。繰り返（。される（。ことで（。、世界（。に（。意味（。を（。与（。える（。、秩序（。の（。ダンス。",
+		"concept": "A repeated decorative design 偶然の中に、何度もあらわれる「父パテールなる規範」。繰り返されることで、世界に意味を与える、秩序のダンス。",
+		"thinking": "偶然の中に、何度もあらわれる「父パテールなる規範」。繰り返されることで、世界に意味を与える、秩序のダンス。",
 		"aftertaste": "秩序は、混沌を愛という名の毛布で包み込んだ結果です。",
 		"example": "The complex pattern of the machine required expert knowledge to understand.",
 		"deep_dive": {
@@ -204227,8 +204220,8 @@ const WORDS = [
 			],
 			"original_statement": "From 20th Century kolla (glue)."
 		},
-		"concept": "A piece of art made by sticking various different materials such as photographs and pieces of paper or fabric on to a backing (バラバラの(。歴史を（。「糊（。コラ)で(。強引（。に（。貼り（。合わせた（。)」ような（。、暴力（。的な（。までの（。美しさ（。。（。矛盾（。する（。要素が（。、一つの（。画面（。で（。対極（。的（。な（。調和（。を（。産（。み（。出す。)",
-		"thinking": "バラバラの(。歴史を（。「糊（。コラ)で(。強引（。に（。貼り（。合わせた（。)」ような（。、暴力（。的な（。までの（。美しさ（。。（。矛盾（。する（。要素が（。、一つの（。画面（。で（。対極（。的（。な（。調和（。を（。産（。み（。出す。",
+		"concept": "A piece of art made by sticking various different materials such as photographs and pieces of paper or fabric on to a backing バラバラの歴史を「糊コラで強引に貼り合わせた」ような、暴力的なまでの美しさ。矛盾する要素が、一つの画面で対極的な調和を産み出す。",
+		"thinking": "バラバラの歴史を「糊コラで強引に貼り合わせた」ような、暴力的なまでの美しさ。矛盾する要素が、一つの画面で対極的な調和を産み出す。",
 		"aftertaste": "秩序は、混沌を愛という名の毛布で包み込んだ結果です。",
 		"example": "The complex collage of the machine required expert knowledge to understand.",
 		"deep_dive": {
@@ -204255,8 +204248,8 @@ const WORDS = [
 			],
 			"original_statement": "From 20th Century sonus (sound)."
 		},
-		"concept": "Relating to or using sound waves (空気(。を（。震（。わせる（。、「響き（。ソヌス)」その（。もの（。。（。目（。には（。見えない（。けれど（。、確（。かに（。世界を（。揺さ（。ぶ（。って（。いる（。、不可視の（。エナジー。)",
-		"thinking": "空気(。を（。震（。わせる（。、「響き（。ソヌス)」その（。もの（。。（。目（。には（。見えない（。けれど（。、確（。かに（。世界を（。揺さ（。ぶ（。って（。いる（。、不可視の（。エナジー。",
+		"concept": "Relating to or using sound waves 空気を震わせる、「響きソヌス」そのもの。目には見えないけれど、確かに世界を揺さぶっている、不可視のエナジー。",
+		"thinking": "空気を震わせる、「響きソヌス」そのもの。目には見えないけれど、確かに世界を揺さぶっている、不可視のエナジー。",
 		"aftertaste": "音楽は、言葉が沈黙したときに初めて聞こえてくる、宇宙の囁きです。",
 		"example": "The orchestra performed a moving sonic that touched the hearts of the audience.",
 		"deep_dive": {
@@ -204283,8 +204276,8 @@ const WORDS = [
 			],
 			"original_statement": "From 17th Century akouein (to hear)."
 		},
-		"concept": "Relating to sound or the sense of hearing (道具(。に（。頼（。ら（。ず（。、ただ「聴（。く（。アコ)」こと（。を（。通じて（。、相手（。と（。直（。接（。繋（。が（。ろ（。う（。とする（。、誠実（。な（。響き。)",
-		"thinking": "道具(。に（。頼（。ら（。ず（。、ただ「聴（。く（。アコ)」こと（。を（。通じて（。、相手（。と（。直（。接（。繋（。が（。ろ（。う（。とする（。、誠実（。な（。響き。",
+		"concept": "Relating to sound or the sense of hearing 道具に頼らず、ただ「聴くアコ」ことを通じて、相手と直接繋がろうとする、誠実な響き。",
+		"thinking": "道具に頼らず、ただ「聴くアコ」ことを通じて、相手と直接繋がろうとする、誠実な響き。",
 		"aftertaste": "音楽は、言葉が沈黙したときに初めて聞こえてくる、宇宙の囁きです。",
 		"example": "The orchestra performed a moving acoustic that touched the hearts of the audience.",
 		"deep_dive": {
@@ -204311,8 +204304,8 @@ const WORDS = [
 			],
 			"original_statement": "From 19th Century metron (measure) + nomos (law)."
 		},
-		"concept": "A device used by musicians that marks time at a selected rate by giving a regular tick (時を(。恣意（。的に（。流（。す（。のを（。止め（。、厳格な「秩序（。ノモス)という(。度（。盛り（。メトロン)」に（。自らを（。律（。する（。こと（。。（。正確な（。反復（。が（。、自由な（。芸術（。を（。支（。える（。、静かなる（。背骨。)",
-		"thinking": "時を(。恣意（。的に（。流（。す（。のを（。止め（。、厳格な「秩序（。ノモス)という(。度（。盛り（。メトロン)」に（。自らを（。律（。する（。こと（。。（。正確な（。反復（。が（。、自由な（。芸術（。を（。支（。える（。、静かなる（。背骨。",
+		"concept": "A device used by musicians that marks time at a selected rate by giving a regular tick 時を恣意的に流すのを止め、厳格な「秩序ノモスという度盛りメトロン」に自らを律すること。正確な反復が、自由な芸術を支える、静かなる背骨。",
+		"thinking": "時を恣意的に流すのを止め、厳格な「秩序ノモスという度盛りメトロン」に自らを律すること。正確な反復が、自由な芸術を支える、静かなる背骨。",
 		"aftertaste": "音楽は、言葉が沈黙したときに初めて聞こえてくる、宇宙の囁きです。",
 		"example": "The orchestra performed a moving metronome that touched the hearts of the audience.",
 		"deep_dive": {
@@ -204339,8 +204332,8 @@ const WORDS = [
 			],
 			"original_statement": "From 14th Century sun- (together) + phone (voice, sound)."
 		},
-		"concept": "An instrumental interlude in a large-scale vocal work (異(。なる（。魂が（。、「共に（。サン)一つの(。響き（。フォン)」を（。奏（。で（。る（。こと（。。（。摩擦（。さえも（。、長い（。物語の（。中で（。、一つ（。の（。美（。しい（。線（。へと（。収束（。し（。て（。いく（。のです。)",
-		"thinking": "異(。なる（。魂が（。、「共に（。サン)一つの(。響き（。フォン)」を（。奏（。で（。る（。こと（。。（。摩擦（。さえも（。、長い（。物語の（。中で（。、一つ（。の（。美（。しい（。線（。へと（。収束（。し（。て（。いく（。のです。",
+		"concept": "An instrumental interlude in a large-scale vocal work 異なる魂が、「共にサン一つの響きフォン」を奏でること。摩擦さえも、長い物語の中で、一つの美しい線へと収束していくのです。",
+		"thinking": "異なる魂が、「共にサン一つの響きフォン」を奏でること。摩擦さえも、長い物語の中で、一つの美しい線へと収束していくのです。",
 		"aftertaste": "音楽は、言葉が沈黙したときに初めて聞こえてくる、宇宙の囁きです。",
 		"example": "The orchestra performed a moving symphonia that touched the hearts of the audience.",
 		"deep_dive": {
@@ -204367,8 +204360,8 @@ const WORDS = [
 			],
 			"original_statement": "From 18th Century aer (air)."
 		},
-		"concept": "A long accompanied song for a solo voice, typically one in an opera or oratorio (物語(。を（。中（。断し（。、ただ「空気（。エア)その（。もの」と（。なって（。、自ら（。の（。情熱を（。高（。らかに（。歌（。い（。上げる（。こと（。。（。孤独（。な（。まで（。の（。、至高（。の（。自己（。肯定。)",
-		"thinking": "物語(。を（。中（。断し（。、ただ「空気（。エア)その（。もの」と（。なって（。、自ら（。の（。情熱を（。高（。らかに（。歌（。い（。上げる（。こと（。。（。孤独（。な（。まで（。の（。、至高（。の（。自己（。肯定。",
+		"concept": "A long accompanied song for a solo voice, typically one in an opera or oratorio 物語を中断し、ただ「空気エアそのもの」となって、自らの情熱を高らかに歌い上げること。孤独なまでの、至高の自己肯定。",
+		"thinking": "物語を中断し、ただ「空気エアそのもの」となって、自らの情熱を高らかに歌い上げること。孤独なまでの、至高の自己肯定。",
 		"aftertaste": "音楽は、言葉が沈黙したときに初めて聞こえてくる、宇宙の囁きです。",
 		"example": "The orchestra performed a moving aria that touched the hearts of the audience.",
 		"deep_dive": {
@@ -204395,8 +204388,8 @@ const WORDS = [
 			],
 			"original_statement": "From 18th Century com- (together) + simul (at same time)."
 		},
-		"concept": "A group of musicians, actors, or dancers who perform together (個々の(。エゴ（。を（。手放（。し（。、「同時（。に（。シムル)共に(。コン)在(。る（。)」こと（。。（。そこ（。には（。、一（。人（。では（。辿（。り（。着（。け（。ない（。、巨大（。な（。調和（。の（。頂（。が（。あります。)",
-		"thinking": "個々の(。エゴ（。を（。手放（。し（。、「同時（。に（。シムル)共に(。コン)在(。る（。)」こと（。。（。そこ（。には（。、一（。人（。では（。辿（。り（。着（。け（。ない（。、巨大（。な（。調和（。の（。頂（。が（。あります。",
+		"concept": "A group of musicians, actors, or dancers who perform together 個々のエゴを手放し、「同時にシムル共にコン在る」こと。そこには、一人では辿り着けない、巨大な調和の頂があります。",
+		"thinking": "個々のエゴを手放し、「同時にシムル共にコン在る」こと。そこには、一人では辿り着けない、巨大な調和の頂があります。",
 		"aftertaste": "音楽は、言葉が沈黙したときに初めて聞こえてくる、宇宙の囁きです。",
 		"example": "The orchestra performed a moving ensemble that touched the hearts of the audience.",
 		"deep_dive": {
@@ -204423,8 +204416,8 @@ const WORDS = [
 			],
 			"original_statement": "From 17th Century sonare (to sound)."
 		},
-		"concept": "A composition for an instrumental soloist, often with a piano accompaniment, typically in several movements with one or more in sonata form (言葉(。を（。持（。た（。ず（。、ただ（。純粋（。な「響き（。ソナ)だけ(。)」で（。、宇宙の（。真理を（。語（。ろ（。う（。とする（。、静（。か（。な（。る（。対話。)",
-		"thinking": "言葉(。を（。持（。た（。ず（。、ただ（。純粋（。な「響き（。ソナ)だけ(。)」で（。、宇宙の（。真理を（。語（。ろ（。う（。とする（。、静（。か（。な（。る（。対話。",
+		"concept": "A composition for an instrumental soloist, often with a piano accompaniment, typically in several movements with one or more in sonata form 言葉を持たず、ただ純粋な「響きソナだけ」で、宇宙の真理を語ろうとする、静かなる対話。",
+		"thinking": "言葉を持たず、ただ純粋な「響きソナだけ」で、宇宙の真理を語ろうとする、静かなる対話。",
 		"aftertaste": "音楽は、言葉が沈黙したときに初めて聞こえてくる、宇宙の囁きです。",
 		"example": "The orchestra performed a moving sonata that touched the hearts of the audience.",
 		"deep_dive": {
@@ -204451,8 +204444,8 @@ const WORDS = [
 			],
 			"original_statement": "From 14th Century re- (again) + quies (rest, quiet)."
 		},
-		"concept": "A Mass for the repose of the souls of the dead (戦(。い（。を（。終（。わ（。らせ（。、魂を「再び（。リ)静寂(。クイエ)へと(。)」誘（。う（。ための（。、最後（。の（。旋律（。。（。悲（。し（。み（。を（。越え（。て（。、命の（。軌跡を（。祝福（。する（。ための（。祈り。)",
-		"thinking": "戦(。い（。を（。終（。わ（。らせ（。、魂を「再び（。リ)静寂(。クイエ)へと(。)」誘（。う（。ための（。、最後（。の（。旋律（。。（。悲（。し（。み（。を（。越え（。て（。、命の（。軌跡を（。祝福（。する（。ための（。祈り。",
+		"concept": "A Mass for the repose of the souls of the dead 戦いを終わらせ、魂を「再びリ静寂クイエへと」誘うための、最後の旋律。悲しみを越えて、命の軌跡を祝福するための祈り。",
+		"thinking": "戦いを終わらせ、魂を「再びリ静寂クイエへと」誘うための、最後の旋律。悲しみを越えて、命の軌跡を祝福するための祈り。",
 		"aftertaste": "音楽は、言葉が沈黙したときに初めて聞こえてくる、宇宙の囁きです。",
 		"example": "The orchestra performed a moving requiem that touched the hearts of the audience.",
 		"deep_dive": {
@@ -204479,8 +204472,8 @@ const WORDS = [
 			],
 			"original_statement": "From 15th Century dis- (apart) + sonare (to sound)."
 		},
-		"concept": "A lack of harmony among musical notes; a tension or clash resulting from the combination of two disharmonious or unsuitable elements (お互いの(。響きが（。「離（。れて（。ディ)鳴(。る（。ソン)」こと（。。（。その（。鋭（。い（。摩擦（。が（。、いつか（。高（。次元な（。調和へと（。至（。る（。ための（。、不可避な（。プロセス（。なの（。ですよ。)",
-		"thinking": "お互いの(。響きが（。「離（。れて（。ディ)鳴(。る（。ソン)」こと（。。（。その（。鋭（。い（。摩擦（。が（。、いつか（。高（。次元な（。調和へと（。至（。る（。ための（。、不可避な（。プロセス（。なの（。ですよ。",
+		"concept": "A lack of harmony among musical notes; a tension or clash resulting from the combination of two disharmonious or unsuitable elements お互いの響きが「離れてディ鳴るソン」こと。その鋭い摩擦が、いつか高次元な調和へと至るための、不可避なプロセスなのですよ。",
+		"thinking": "お互いの響きが「離れてディ鳴るソン」こと。その鋭い摩擦が、いつか高次元な調和へと至るための、不可避なプロセスなのですよ。",
 		"aftertaste": "音楽は、言葉が沈黙したときに初めて聞こえてくる、宇宙の囁きです。",
 		"example": "The orchestra performed a moving dissonance that touched the hearts of the audience.",
 		"deep_dive": {
@@ -204507,8 +204500,8 @@ const WORDS = [
 			],
 			"original_statement": "From 19th Century polu- (many) + phone (voice, sound)."
 		},
-		"concept": "The style of simultaneously combining a number of parts, each forming an individual melody and harmonizing with each other (一(。つの（。正解（。に（。集約（。さ（。れ（。ず（。、「多（。くの（。ポリ)声(。フォン)」が（。バラバラに（。あり（。な（。がら（。、一つの（。タペストリーを（。織（。り（。上げて（。いく（。、自由な（。響き。)",
-		"thinking": "一(。つの（。正解（。に（。集約（。さ（。れ（。ず（。、「多（。くの（。ポリ)声(。フォン)」が（。バラバラに（。あり（。な（。がら（。、一つの（。タペストリーを（。織（。り（。上げて（。いく（。、自由な（。響き。",
+		"concept": "The style of simultaneously combining a number of parts, each forming an individual melody and harmonizing with each other 一つの正解に集約されず、「多くのポリ声フォン」がバラバラにありながら、一つのタペストリーを織り上げていく、自由な響き。",
+		"thinking": "一つの正解に集約されず、「多くのポリ声フォン」がバラバラにありながら、一つのタペストリーを織り上げていく、自由な響き。",
 		"aftertaste": "音楽は、言葉が沈黙したときに初めて聞こえてくる、宇宙の囁きです。",
 		"example": "The orchestra performed a moving polyphony that touched the hearts of the audience.",
 		"deep_dive": {
@@ -204535,8 +204528,8 @@ const WORDS = [
 			],
 			"original_statement": "From 17th Century khroma (color)."
 		},
-		"concept": "Relating to or using notes not belonging to the diatonic scale of the key in which a passage is written (単なる(。白（。と（。黒（。ではなく（。、数（。え（。切（。れ（。ない（。「色彩（。クロマ)」の（。中（。を（。縫（。い（。合わせる（。こと（。。（。全（。て（。の色を（。受け（。入れ（。、一歩（。一歩（。を（。大切に（。刻（。む（。姿勢。)",
-		"thinking": "単なる(。白（。と（。黒（。ではなく（。、数（。え（。切（。れ（。ない（。「色彩（。クロマ)」の（。中（。を（。縫（。い（。合わせる（。こと（。。（。全（。て（。の色を（。受け（。入れ（。、一歩（。一歩（。を（。大切に（。刻（。む（。姿勢。",
+		"concept": "Relating to or using notes not belonging to the diatonic scale of the key in which a passage is written 単なる白と黒ではなく、数え切れない「色彩クロマ」の中を縫い合わせること。全ての色を受け入れ、一歩一歩を大切に刻む姿勢。",
+		"thinking": "単なる白と黒ではなく、数え切れない「色彩クロマ」の中を縫い合わせること。全ての色を受け入れ、一歩一歩を大切に刻む姿勢。",
 		"aftertaste": "音楽は、言葉が沈黙したときに初めて聞こえてくる、宇宙の囁きです。",
 		"example": "The orchestra performed a moving chromatic that touched the hearts of the audience.",
 		"deep_dive": {
@@ -204563,8 +204556,8 @@ const WORDS = [
 			],
 			"original_statement": "From 19th Century vibrare (to shake)."
 		},
-		"concept": "A rapid, slight variation in pitch in singing or playing some musical instruments, producing a stronger or richer tone (一点(。に（。固（。執（。せず（。、魂を「震（。え（。ヴィブラ)させる(。)」こと（。。（。その（。ゆら（。ぎの中に（。、この（。世の（。あり（。と（。あらゆる（。情緒が（。宿（。って（。いる（。のですよ。)",
-		"thinking": "一点(。に（。固（。執（。せず（。、魂を「震（。え（。ヴィブラ)させる(。)」こと（。。（。その（。ゆら（。ぎの中に（。、この（。世の（。あり（。と（。あらゆる（。情緒が（。宿（。って（。いる（。のですよ。",
+		"concept": "A rapid, slight variation in pitch in singing or playing some musical instruments, producing a stronger or richer tone 一点に固執せず、魂を「震えヴィブラさせる」こと。そのゆらぎの中に、この世のありとあらゆる情緒が宿っているのですよ。",
+		"thinking": "一点に固執せず、魂を「震えヴィブラさせる」こと。そのゆらぎの中に、この世のありとあらゆる情緒が宿っているのですよ。",
 		"aftertaste": "音楽は、言葉が沈黙したときに初めて聞こえてくる、宇宙の囁きです。",
 		"example": "The orchestra performed a moving vibrato that touched the hearts of the audience.",
 		"deep_dive": {
@@ -204591,8 +204584,8 @@ const WORDS = [
 			],
 			"original_statement": "From 18th Century supra (above)."
 		},
-		"concept": "The highest of the four standard singing voices (地上(。の（。泥（。から（。遥（。かに「上（。スープラ)の高み」へと（。至（。り（。、天の（。光を（。直（。接（。言葉（。に（。変える（。、純粋（。な（。る（。祈り。)",
-		"thinking": "地上(。の（。泥（。から（。遥（。かに「上（。スープラ)の高み」へと（。至（。り（。、天の（。光を（。直（。接（。言葉（。に（。変える（。、純粋（。な（。る（。祈り。",
+		"concept": "The highest of the four standard singing voices 地上の泥から遥かに「上スープラの高み」へと至り、天の光を直接言葉に変える、純粋なる祈り。",
+		"thinking": "地上の泥から遥かに「上スープラの高み」へと至り、天の光を直接言葉に変える、純粋なる祈り。",
 		"aftertaste": "あなた（。の中（。の（。最も（。高貴（。な（。エッセンスを（。、言葉（。という（。名の「ソプラノ」で（。世界に（。放（。って（。ください。",
 		"example": "The orchestra performed a moving soprano that touched the hearts of the audience.",
 		"deep_dive": {
@@ -204619,8 +204612,8 @@ const WORDS = [
 			],
 			"original_statement": "From 14th Century tenere (to hold)."
 		},
-		"concept": "A singing voice between baritone and alto or countertenor, the highest of the ordinary adult male range (ただ(。歌う（。のではなく（。、物語（。の（。中核（。を「しっかりと（。把（。持（。して（。テネ)離(。さない（。)」、情熱的（。な（。る（。持続。)",
-		"thinking": "ただ(。歌う（。のではなく（。、物語（。の（。中核（。を「しっかりと（。把（。持（。して（。テネ)離(。さない（。)」、情熱的（。な（。る（。持続。",
+		"concept": "A singing voice between baritone and alto or countertenor, the highest of the ordinary adult male range ただ歌うのではなく、物語の中核を「しっかりと把持してテネ離さない」、情熱的なる持続。",
+		"thinking": "ただ歌うのではなく、物語の中核を「しっかりと把持してテネ離さない」、情熱的なる持続。",
 		"aftertaste": "音楽は、言葉が沈黙したときに初めて聞こえてくる、宇宙の囁きです。",
 		"example": "The orchestra performed a moving tenor that touched the hearts of the audience.",
 		"deep_dive": {
@@ -204647,8 +204640,8 @@ const WORDS = [
 			],
 			"original_statement": "From Old English slūma (slumber, sleep)."
 		},
-		"concept": "Sleep (意識の(。重い（。鎖（。を（。ほど（。き（。、ただ「静（。か（。に（。沈（。む（。スルー)」こと（。。（。そこ（。は（。、あらゆる（。苦しみ（。や（。色彩（。が（。溶（。け（。去（。り（。、次（。なる（。目覚（。めへの（。エナジーを（。育（。む（。、母（。なる（。闇（。の中。)",
-		"thinking": "意識の(。重い（。鎖（。を（。ほど（。き（。、ただ「静（。か（。に（。沈（。む（。スルー)」こと（。。（。そこ（。は（。、あらゆる（。苦しみ（。や（。色彩（。が（。溶（。け（。去（。り（。、次（。なる（。目覚（。めへの（。エナジーを（。育（。む（。、母（。なる（。闇（。の中。",
+		"concept": "Sleep 意識の重い鎖をほどき、ただ「静かに沈むスルー」こと。そこは、あらゆる苦しみや色彩が溶け去り、次なる目覚めへのエナジーを育む、母なる闇の中。",
+		"thinking": "意識の重い鎖をほどき、ただ「静かに沈むスルー」こと。そこは、あらゆる苦しみや色彩が溶け去り、次なる目覚めへのエナジーを育む、母なる闇の中。",
 		"aftertaste": "夢は、現実が自らの限界を思い知ったときに、そっと差し出す贈り物です。",
 		"example": "The entire experience felt like a strange slumber from which he couldn't wake up.",
 		"deep_dive": {
@@ -204675,8 +204668,8 @@ const WORDS = [
 			],
 			"original_statement": "From 13th Century vigil (awake, watchful)."
 		},
-		"concept": "A period of keeping awake during the time usually spent asleep, especially to keep watch or pray (全(。世界が（。眠り（。に（。就（。いた（。後（。も（。、ただ一人「目（。を（。覚（。まし（。ヴィジル)守(。り（。続ける（。)」こと（。。（。その（。不眠の（。祈り（。が（。、明日（。の（。朝を（。この（。世界に（。繋（。ぎ（。止（。めて（。いる（。のですよ。)",
-		"thinking": "全(。世界が（。眠り（。に（。就（。いた（。後（。も（。、ただ一人「目（。を（。覚（。まし（。ヴィジル)守(。り（。続ける（。)」こと（。。（。その（。不眠の（。祈り（。が（。、明日（。の（。朝を（。この（。世界に（。繋（。ぎ（。止（。めて（。いる（。のですよ。",
+		"concept": "A period of keeping awake during the time usually spent asleep, especially to keep watch or pray 全世界が眠りに就いた後も、ただ一人「目を覚ましヴィジル守り続ける」こと。その不眠の祈りが、明日の朝をこの世界に繋ぎ止めているのですよ。",
+		"thinking": "全世界が眠りに就いた後も、ただ一人「目を覚ましヴィジル守り続ける」こと。その不眠の祈りが、明日の朝をこの世界に繋ぎ止めているのですよ。",
 		"aftertaste": "夢は、現実が自らの限界を思い知ったときに、そっと差し出す贈り物です。",
 		"example": "The entire experience felt like a strange vigil from which he couldn't wake up.",
 		"deep_dive": {
@@ -204703,8 +204696,8 @@ const WORDS = [
 			],
 			"original_statement": "From Old English awacnan (to arise, originate)."
 		},
-		"concept": "An act of waking from sleep (夢の(。ヴェール（。を（。突（。き（。破（。り（。、再び（。「立ち（。上がる（。ワック)」こと（。。（。昨日（。までの（。自分（。を（。脱（。ぎ（。捨て（。、全（。く（。新（。しい（。光の（。中で（。、自ら（。の（。名前を（。、再び（。、思い出す（。のですよ。)",
-		"thinking": "夢の(。ヴェール（。を（。突（。き（。破（。り（。、再び（。「立ち（。上がる（。ワック)」こと（。。（。昨日（。までの（。自分（。を（。脱（。ぎ（。捨て（。、全（。く（。新（。しい（。光の（。中で（。、自ら（。の（。名前を（。、再び（。、思い出す（。のですよ。",
+		"concept": "An act of waking from sleep 夢のヴェールを突き破り、再び「立ち上がるワック」こと。昨日までの自分を脱ぎ捨て、全く新しい光の中で、自らの名前を、再び、思い出すのですよ。",
+		"thinking": "夢のヴェールを突き破り、再び「立ち上がるワック」こと。昨日までの自分を脱ぎ捨て、全く新しい光の中で、自らの名前を、再び、思い出すのですよ。",
 		"aftertaste": "夢は、現実が自らの限界を思い知ったときに、そっと差し出す贈り物です。",
 		"example": "The entire experience felt like a strange awakening from which he couldn't wake up.",
 		"deep_dive": {
@@ -204731,8 +204724,8 @@ const WORDS = [
 			],
 			"original_statement": "From 14th Century see + -er."
 		},
-		"concept": "A person who is supposed to be able, through supernatural insight, to see what the future holds for people (単に(。眺める（。のではなく（。、目（。には（。見えない（。真実（。の（。かたちを「見（。抜（。く（。シー)者(。)」。（。あなたの（。中（。の（。澄（。み（。渡（。った（。瞳を（。、最後（。まで（。信じ（。て（。あげて（。ください。)",
-		"thinking": "単に(。眺める（。のではなく（。、目（。には（。見えない（。真実（。の（。かたちを「見（。抜（。く（。シー)者(。)」。（。あなたの（。中（。の（。澄（。み（。渡（。った（。瞳を（。、最後（。まで（。信じ（。て（。あげて（。ください。",
+		"concept": "A person who is supposed to be able, through supernatural insight, to see what the future holds for people 単に眺めるのではなく、目には見えない真実のかたちを「見抜くシー者」。あなたの中の澄み渡った瞳を、最後まで信じてあげてください。",
+		"thinking": "単に眺めるのではなく、目には見えない真実のかたちを「見抜くシー者」。あなたの中の澄み渡った瞳を、最後まで信じてあげてください。",
 		"aftertaste": "夢は、現実が自らの限界を思い知ったときに、そっと差し出す贈り物です。",
 		"example": "The entire experience felt like a strange seer from which he couldn't wake up.",
 		"deep_dive": {
@@ -204759,8 +204752,8 @@ const WORDS = [
 			],
 			"original_statement": "From 14th Century austeros (bitter, harsh, literal: 'making the tongue dry')."
 		},
-		"concept": "Sternness or severity of manner or attitude (余計(。な（。甘（。え（。を（。削（。ぎ（。落（。し（。、「舌（。が（。乾（。く（。オステ)ほどに(。)」ストイック（。な（。姿勢（。に（。徹（。すること（。。（。その（。沈黙（。の（。美（。学（。が（。、魂を（。最高（。の（。純度（。へと（。至（。らせ（。る（。のですよ。)",
-		"thinking": "余計(。な（。甘（。え（。を（。削（。ぎ（。落（。し（。、「舌（。が（。乾（。く（。オステ)ほどに(。)」ストイック（。な（。姿勢（。に（。徹（。すること（。。（。その（。沈黙（。の（。美（。学（。が（。、魂を（。最高（。の（。純度（。へと（。至（。らせ（。る（。のですよ。",
+		"concept": "Sternness or severity of manner or attitude 余計な甘えを削ぎ落し、「舌が乾くオステほどに」ストイックな姿勢に徹すること。その沈黙の美学が、魂を最高の純度へと至らせるのですよ。",
+		"thinking": "余計な甘えを削ぎ落し、「舌が乾くオステほどに」ストイックな姿勢に徹すること。その沈黙の美学が、魂を最高の純度へと至らせるのですよ。",
 		"aftertaste": "法律は、魂がこの世界で道を見失わないための、不器用な地図なのです。",
 		"example": "The society strives to achieve austerity and equality for all its citizens.",
 		"deep_dive": {
@@ -204787,8 +204780,8 @@ const WORDS = [
 			],
 			"original_statement": "From 14th Century thrifty (to thrive, prosper)."
 		},
-		"concept": "The quality of using money and other resources carefully and not wastefully (ただ(。溜（。め（。込む（。のではなく（。、豊か（。に「繁（。栄（。する（。スリフ)ため(。に（。)」、命（。の（。エナジーを（。大切（。に（。育（。む（。こと（。。（。足（。る（。を（。知（。る（。こと（。が（。、真（。の（。豊（。かさ（。への（。第一歩（。なのです。)",
-		"thinking": "ただ(。溜（。め（。込む（。のではなく（。、豊か（。に「繁（。栄（。する（。スリフ)ため(。に（。)」、命（。の（。エナジーを（。大切（。に（。育（。む（。こと（。。（。足（。る（。を（。知（。る（。こと（。が（。、真（。の（。豊（。かさ（。への（。第一歩（。なのです。",
+		"concept": "The quality of using money and other resources carefully and not wastefully ただ溜め込むのではなく、豊かに「繁栄するスリフために」、命のエナジーを大切に育むこと。足るを知ることが、真の豊かさへの第一歩なのです。",
+		"thinking": "ただ溜め込むのではなく、豊かに「繁栄するスリフために」、命のエナジーを大切に育むこと。足るを知ることが、真の豊かさへの第一歩なのです。",
 		"aftertaste": "法律は、魂がこの世界で道を見失わないための、不器用な地図なのです。",
 		"example": "The society strives to achieve thrift and equality for all its citizens.",
 		"deep_dive": {
@@ -204807,7 +204800,7 @@ const WORDS = [
 	{
 		"id": "testament_justice",
 		"word": "testament",
-		"meaning": "遺言、聖書、証（。あかし（。）」",
+		"meaning": "遺言、聖書、証あかし」",
 		"era": "13th Century",
 		"etymology": {
 			"components": [
@@ -204815,8 +204808,8 @@ const WORDS = [
 			],
 			"original_statement": "From 13th Century testis (witness)."
 		},
-		"concept": "A person's will, especially the one relating to personal property (命(。が（。消（。え（。去（。った（。後も（。、自ら（。の（。意志を「証明（。テスティ)し(。続ける（。)」言葉（。。（。あなた（。が（。この（。世界に（。存在（。した（。という（。、たった（。一（。つの（。眩（。しい（。根拠。)",
-		"thinking": "命(。が（。消（。え（。去（。った（。後も（。、自ら（。の（。意志を「証明（。テスティ)し(。続ける（。)」言葉（。。（。あなた（。が（。この（。世界に（。存在（。した（。という（。、たった（。一（。つの（。眩（。しい（。根拠。",
+		"concept": "A person's will, especially the one relating to personal property 命が消え去った後も、自らの意志を「証明テスティし続ける」言葉。あなたがこの世界に存在したという、たった一つの眩しい根拠。",
+		"thinking": "命が消え去った後も、自らの意志を「証明テスティし続ける」言葉。あなたがこの世界に存在したという、たった一つの眩しい根拠。",
 		"aftertaste": "法律は、魂がこの世界で道を見失わないための、不器用な地図なのです。",
 		"example": "The society strives to achieve testament and equality for all its citizens.",
 		"deep_dive": {
@@ -204843,8 +204836,8 @@ const WORDS = [
 			],
 			"original_statement": "From 19th Century neuron (sinew, nerve, fiber)."
 		},
-		"concept": "A specialized cell transmitting nerve impulses; a nerve cell (情報を(。ただ（。流す（。だけでなく（。、魂の（。エナジーを（。一点へと「結ぶ（。ニューロ)繊維(。)」。（。その（。一本（。い（。っぽ（。ん（。の（。震（。えが（。、あなた（。という（。宇宙の（。意識を（。形（。作（。って（。いる（。のですよ。)",
-		"thinking": "情報を(。ただ（。流す（。だけでなく（。、魂の（。エナジーを（。一点へと「結ぶ（。ニューロ)繊維(。)」。（。その（。一本（。い（。っぽ（。ん（。の（。震（。えが（。、あなた（。という（。宇宙の（。意識を（。形（。作（。って（。いる（。のですよ。",
+		"concept": "A specialized cell transmitting nerve impulses; a nerve cell 情報をただ流すだけでなく、魂のエナジーを一点へと「結ぶニューロ繊維」。その一本いっぽんの震えが、あなたという宇宙の意識を形作っているのですよ。",
+		"thinking": "情報をただ流すだけでなく、魂のエナジーを一点へと「結ぶニューロ繊維」。その一本いっぽんの震えが、あなたという宇宙の意識を形作っているのですよ。",
 		"aftertaste": "肉体は、魂がこの世界で踊るための、美しい衣裳に過ぎません。",
 		"example": "The study of human neuron reveals the incredible complexity of life.",
 		"deep_dive": {
@@ -204871,8 +204864,8 @@ const WORDS = [
 			],
 			"original_statement": "From 16th Century kardia (heart)."
 		},
-		"concept": "Of or relating to the heart (自覚(。する（。よりも（。遥（。かに（。深く（。、ひたすら（。ビート（。を（。刻（。み（。続ける「心（。カルディア)」の（。鼓動（。。（。生きて（。いる（。という（。こと（。の（。、残酷（。な（。までに（。眩（。しい（。根拠。)",
-		"thinking": "自覚(。する（。よりも（。遥（。かに（。深く（。、ひたすら（。ビート（。を（。刻（。み（。続ける「心（。カルディア)」の（。鼓動（。。（。生きて（。いる（。という（。こと（。の（。、残酷（。な（。までに（。眩（。しい（。根拠。",
+		"concept": "Of or relating to the heart 自覚するよりも遥かに深く、ひたすらビートを刻み続ける「心カルディア」の鼓動。生きているということの、残酷なまでに眩しい根拠。",
+		"thinking": "自覚するよりも遥かに深く、ひたすらビートを刻み続ける「心カルディア」の鼓動。生きているということの、残酷なまでに眩しい根拠。",
 		"aftertaste": "肉体は、魂がこの世界で踊るための、美しい衣裳に過ぎません。",
 		"example": "The study of human cardiac reveals the incredible complexity of life.",
 		"deep_dive": {
@@ -204899,8 +204892,8 @@ const WORDS = [
 			],
 			"original_statement": "From 14th Century arteria (windpipe, artery)."
 		},
-		"concept": "Of or relating to an artery (酸素(。という（。名の（。希望を（。、全身へと（。運ぶ「生命（。の（。管（。アルテリア)」。（。そこ（。を（。流れる（。情熱が（。、あなた（。を（。常に（。新しい（。明日へと（。突き（。動かす（。の（。ですよ。)",
-		"thinking": "酸素(。という（。名の（。希望を（。、全身へと（。運ぶ「生命（。の（。管（。アルテリア)」。（。そこ（。を（。流れる（。情熱が（。、あなた（。を（。常に（。新しい（。明日へと（。突き（。動かす（。の（。ですよ。",
+		"concept": "Of or relating to an artery 酸素という名の希望を、全身へと運ぶ「生命の管アルテリア」。そこを流れる情熱が、あなたを常に新しい明日へと突き動かすのですよ。",
+		"thinking": "酸素という名の希望を、全身へと運ぶ「生命の管アルテリア」。そこを流れる情熱が、あなたを常に新しい明日へと突き動かすのですよ。",
 		"aftertaste": "肉体は、魂がこの世界で踊るための、美しい衣裳に過ぎません。",
 		"example": "The study of human arterial reveals the incredible complexity of life.",
 		"deep_dive": {
@@ -204927,8 +204920,8 @@ const WORDS = [
 			],
 			"original_statement": "From 17th Century stimulus (goad, prick, pointed stick)."
 		},
-		"concept": "A thing or event that evokes a specific functional reaction in an organ or tissue (退屈(。な（。日常に（。、不（。意（。に（。突（。き（。刺（。さ（。る「尖（。った（。棒（。スチラム)」。（。その（。鋭（。い（。痛みだけが（。、深い（。眠り（。の（。淵から（。、あなた（。を（。呼び（。覚（。ます（。の（。ですよ。)",
-		"thinking": "退屈(。な（。日常に（。、不（。意（。に（。突（。き（。刺（。さ（。る「尖（。った（。棒（。スチラム)」。（。その（。鋭（。い（。痛みだけが（。、深い（。眠り（。の（。淵から（。、あなた（。を（。呼び（。覚（。ます（。の（。ですよ。",
+		"concept": "A thing or event that evokes a specific functional reaction in an organ or tissue 退屈な日常に、不意に突き刺さる「尖った棒スチラム」。その鋭い痛みだけが、深い眠りの淵から、あなたを呼び覚ますのですよ。",
+		"thinking": "退屈な日常に、不意に突き刺さる「尖った棒スチラム」。その鋭い痛みだけが、深い眠りの淵から、あなたを呼び覚ますのですよ。",
 		"aftertaste": "肉体は、魂がこの世界で踊るための、美しい衣裳に過ぎません。",
 		"example": "The study of human stimulus reveals the incredible complexity of life.",
 		"deep_dive": {
@@ -204955,8 +204948,8 @@ const WORDS = [
 			],
 			"original_statement": "From 17th Century velle (to wish, will)."
 		},
-		"concept": "The faculty or power of using one's will (ただ(。流（。さ（。れる（。のを（。止め（。、自ら（。の（。内側から「願（。い（。ヴェレ)を(。絞（。り（。出す（。)」こと（。。（。その（。一瞬（。の（。決断（。が（。、あなたの（。運命（。を（。、永遠（。に（。書き（。換（。える（。のです。)",
-		"thinking": "ただ(。流（。さ（。れる（。のを（。止め（。、自ら（。の（。内側から「願（。い（。ヴェレ)を(。絞（。り（。出す（。)」こと（。。（。その（。一瞬（。の（。決断（。が（。、あなたの（。運命（。を（。、永遠（。に（。書き（。換（。える（。のです。",
+		"concept": "The faculty or power of using one's will ただ流されるのを止め、自らの内側から「願いヴェレを絞り出す」こと。その一瞬の決断が、あなたの運命を、永遠に書き換えるのです。",
+		"thinking": "ただ流されるのを止め、自らの内側から「願いヴェレを絞り出す」こと。その一瞬の決断が、あなたの運命を、永遠に書き換えるのです。",
 		"aftertaste": "肉体は、魂がこの世界で踊るための、美しい衣裳に過ぎません。",
 		"example": "The study of human volition reveals the incredible complexity of life.",
 		"deep_dive": {
@@ -204983,8 +204976,8 @@ const WORDS = [
 			],
 			"original_statement": "From 17th Century ratio (reason, literal: 'reckoning, account')."
 		},
-		"concept": "A belief or theory that opinions and actions should be based on reason and knowledge rather than on religious belief or emotional response (感情(。の（。揺（。ら（。ぎを（。捨て（。、ひたすら「計算（。比率（。ラシオ)」に（。よって（。世界（。を（。解（。き（。明か（。そう（。とする（。、冷（。徹（。な（。る（。知性の（。牙。)",
-		"thinking": "感情(。の（。揺（。ら（。ぎを（。捨て（。、ひたすら「計算（。比率（。ラシオ)」に（。よって（。世界（。を（。解（。き（。明か（。そう（。とする（。、冷（。徹（。な（。る（。知性の（。牙。",
+		"concept": "A belief or theory that opinions and actions should be based on reason and knowledge rather than on religious belief or emotional response 感情の揺らぎを捨て、ひたすら「計算比率ラシオ」によって世界を解き明かそうとする、冷徹なる知性の牙。",
+		"thinking": "感情の揺らぎを捨て、ひたすら「計算比率ラシオ」によって世界を解き明かそうとする、冷徹なる知性の牙。",
 		"aftertaste": "理性は、感情という名の荒波を渡るための、唯一の羅針盤なのです。",
 		"example": "The philosopher argued that human rationalism is flawed and limited by our senses.",
 		"deep_dive": {
@@ -205011,8 +205004,8 @@ const WORDS = [
 			],
 			"original_statement": "From 17th Century em- (in) + peira (trial, experiment)."
 		},
-		"concept": "The theory that all knowledge is derived from sense-experience (抽象(。的な（。理屈を（。信じ（。ず（。、自ら（。の（。身体で「試みる（。経験（。ペイラ)こと(。を（。信（。じ（。る（。)」こと（。。（。泥（。に（。まみれ（。、汗を（。流（。して（。得（。た（。実（。感（。だけが（。、真（。実（。の（。力と（。なる（。のです。)",
-		"thinking": "抽象(。的な（。理屈を（。信じ（。ず（。、自ら（。の（。身体で「試みる（。経験（。ペイラ)こと(。を（。信（。じ（。る（。)」こと（。。（。泥（。に（。まみれ（。、汗を（。流（。して（。得（。た（。実（。感（。だけが（。、真（。実（。の（。力と（。なる（。のです。",
+		"concept": "The theory that all knowledge is derived from sense-experience 抽象的な理屈を信じず、自らの身体で「試みる経験ペイラことを信じる」こと。泥にまみれ、汗を流して得た実感だけが、真実の力となるのです。",
+		"thinking": "抽象的な理屈を信じず、自らの身体で「試みる経験ペイラことを信じる」こと。泥にまみれ、汗を流して得た実感だけが、真実の力となるのです。",
 		"aftertaste": "理性は、感情という名の荒波を渡るための、唯一の羅針盤なのです。",
 		"example": "The philosopher argued that human empiricism is flawed and limited by our senses.",
 		"deep_dive": {
@@ -205039,8 +205032,8 @@ const WORDS = [
 			],
 			"original_statement": "From 19th Century ana- (according to) + logos (word, reason, ratio)."
 		},
-		"concept": "A person or thing seen as comparable to another (デジタル(。の（。不連続（。性を（。拒（。み（。、「ことば（。ロゴス)に従(。って（。アナ)」、滑（。らかに（。繋（。が（。る（。連続（。体（。。（。そこ（。には（。、曖昧（。さという（。名の（。、無限（。の（。豊（。かさが（。宿（。って（。いる（。の（。ですよ。)",
-		"thinking": "デジタル(。の（。不連続（。性を（。拒（。み（。、「ことば（。ロゴス)に従(。って（。アナ)」、滑（。らかに（。繋（。が（。る（。連続（。体（。。（。そこ（。には（。、曖昧（。さという（。名の（。、無限（。の（。豊（。かさが（。宿（。って（。いる（。の（。ですよ。",
+		"concept": "A person or thing seen as comparable to another デジタルの不連続性を拒み、「ことばロゴスに従ってアナ」、滑らかに繋がる連続体。そこには、曖昧さという名の、無限の豊かさが宿っているのですよ。",
+		"thinking": "デジタルの不連続性を拒み、「ことばロゴスに従ってアナ」、滑らかに繋がる連続体。そこには、曖昧さという名の、無限の豊かさが宿っているのですよ。",
 		"aftertaste": "理性は、感情という名の荒波を渡るための、唯一の羅針盤なのです。",
 		"example": "The philosopher argued that human analog is flawed and limited by our senses.",
 		"deep_dive": {
@@ -205067,8 +205060,8 @@ const WORDS = [
 			],
 			"original_statement": "From 14th Century manere (to dwell, remain)."
 		},
-		"concept": "A large, impressive house (一時(。の（。宿（。ではなく（。、永遠に「留（。ま（。る（。マン)場所(。)」。（。重厚（。な（。石（。の（。壁が（。、家族（。の（。記憶を（。、何（。世（。代（。にも（。わたって（。、守（。り（。続けて（。いる（。のですよ。)",
-		"thinking": "一時(。の（。宿（。ではなく（。、永遠に「留（。ま（。る（。マン)場所(。)」。（。重厚（。な（。石（。の（。壁が（。、家族（。の（。記憶を（。、何（。世（。代（。にも（。わたって（。、守（。り（。続けて（。いる（。のですよ。",
+		"concept": "A large, impressive house 一時の宿ではなく、永遠に「留まるマン場所」。重厚な石の壁が、家族の記憶を、何世代にもわたって、守り続けているのですよ。",
+		"thinking": "一時の宿ではなく、永遠に「留まるマン場所」。重厚な石の壁が、家族の記憶を、何世代にもわたって、守り続けているのですよ。",
 		"aftertaste": "家は、魂が世界という名の旅から帰り、再び自らを見出すための聖域です。",
 		"example": "The family gathered around the mansion to share stories on a cold winter night.",
 		"deep_dive": {
@@ -205095,8 +205088,8 @@ const WORDS = [
 			],
 			"original_statement": "From 14th Century cote (hut, shelter)."
 		},
-		"concept": "A small simple house, typically one near the lake or beach (豪華さ(。を（。捨て（。去（。り（。、ただの「小屋（。コート)」として（。大地と（。戯（。れる（。場所（。。（。質素（。な（。暮らしの（。中（。に（。、真（。の（。豊（。かさを（。見出（。した（。、知性の（。隠（。れ（。家。)",
-		"thinking": "豪華さ(。を（。捨て（。去（。り（。、ただの「小屋（。コート)」として（。大地と（。戯（。れる（。場所（。。（。質素（。な（。暮らしの（。中（。に（。、真（。の（。豊（。かさを（。見出（。した（。、知性の（。隠（。れ（。家。",
+		"concept": "A small simple house, typically one near the lake or beach 豪華さを捨て去り、ただの「小屋コート」として大地と戯れる場所。質素な暮らしの中に、真の豊かさを見出した、知性の隠れ家。",
+		"thinking": "豪華さを捨て去り、ただの「小屋コート」として大地と戯れる場所。質素な暮らしの中に、真の豊かさを見出した、知性の隠れ家。",
 		"aftertaste": "家は、魂が世界という名の旅から帰り、再び自らを見出すための聖域です。",
 		"example": "The family gathered around the cottage to share stories on a cold winter night.",
 		"deep_dive": {
@@ -205123,8 +205116,8 @@ const WORDS = [
 			],
 			"original_statement": "From 13th Century calix (cup)."
 		},
-		"concept": "A large cup or goblet, typically used for drinking wine (一杯の(。酒を（。、聖なる（。エナジーへと（。変（。える「器（。カリクス)」。（。その（。黄金色（。の（。輝きに（。、魂を（。潤（。す（。ための（。祈り（。を（。捧（。げて（。ください。)",
-		"thinking": "一杯の(。酒を（。、聖なる（。エナジーへと（。変（。える「器（。カリクス)」。（。その（。黄金色（。の（。輝きに（。、魂を（。潤（。す（。ための（。祈り（。を（。捧（。げて（。ください。",
+		"concept": "A large cup or goblet, typically used for drinking wine 一杯の酒を、聖なるエナジーへと変える「器カリクス」。その黄金色の輝きに、魂を潤すための祈りを捧げてください。",
+		"thinking": "一杯の酒を、聖なるエナジーへと変える「器カリクス」。その黄金色の輝きに、魂を潤すための祈りを捧げてください。",
 		"aftertaste": "家は、魂が世界という名の旅から帰り、再び自らを見出すための聖域です。",
 		"example": "The family gathered around the chalice to share stories on a cold winter night.",
 		"deep_dive": {
@@ -205151,8 +205144,8 @@ const WORDS = [
 			],
 			"original_statement": "From 18th Century coquina (kitchen, cooking)."
 		},
-		"concept": "A style or method of cooking, especially as characteristic of a particular country, region, or establishment (ただ(。食べる（。のではなく（。、素材（。という（。名の（。言葉を「調理（。クイジ)する(。)」芸術（。。（。味（。覚の（。中に（。、歴史（。と（。土（。の（。記憶を（。織（。り（。込（。む（。こと（。です。)",
-		"thinking": "ただ(。食べる（。のではなく（。、素材（。という（。名の（。言葉を「調理（。クイジ)する(。)」芸術（。。（。味（。覚の（。中に（。、歴史（。と（。土（。の（。記憶を（。織（。り（。込（。む（。こと（。です。",
+		"concept": "A style or method of cooking, especially as characteristic of a particular country, region, or establishment ただ食べるのではなく、素材という名の言葉を「調理クイジする」芸術。味覚の中に、歴史と土の記憶を織り込むことです。",
+		"thinking": "ただ食べるのではなく、素材という名の言葉を「調理クイジする」芸術。味覚の中に、歴史と土の記憶を織り込むことです。",
 		"aftertaste": "家は、魂が世界という名の旅から帰り、再び自らを見出すための聖域です。",
 		"example": "The family gathered around the cuisine to share stories on a cold winter night.",
 		"deep_dive": {
@@ -205171,7 +205164,7 @@ const WORDS = [
 	{
 		"id": "banquet_home",
 		"word": "banquet",
-		"meaning": "宴（。うたげ（。）」、晩餐",
+		"meaning": "宴うたげ」、晩餐",
 		"era": "15th Century",
 		"etymology": {
 			"components": [
@@ -205179,8 +205172,8 @@ const WORDS = [
 			],
 			"original_statement": "From 15th Century banco (bench, table)."
 		},
-		"concept": "An elaborate and formal evening meal for many people, often followed by speeches (大勢で「テーブル(。バンク)を(。囲（。む（。)」、生命（。の（。再（。確認（。。（。孤独（。な（。エナジーが（。、笑（。い声と（。響き（。合（。い（。、一つの（。巨大（。な（。調和（。へと（。至る（。瞬間。)",
-		"thinking": "大勢で「テーブル(。バンク)を(。囲（。む（。)」、生命（。の（。再（。確認（。。（。孤独（。な（。エナジーが（。、笑（。い声と（。響き（。合（。い（。、一つの（。巨大（。な（。調和（。へと（。至る（。瞬間。",
+		"concept": "An elaborate and formal evening meal for many people, often followed by speeches 大勢で「テーブルバンクを囲む」、生命の再確認。孤独なエナジーが、笑い声と響き合い、一つの巨大な調和へと至る瞬間。",
+		"thinking": "大勢で「テーブルバンクを囲む」、生命の再確認。孤独なエナジーが、笑い声と響き合い、一つの巨大な調和へと至る瞬間。",
 		"aftertaste": "家は、魂が世界という名の旅から帰り、再び自らを見出すための聖域です。",
 		"example": "The family gathered around the banquet to share stories on a cold winter night.",
 		"deep_dive": {
@@ -205207,8 +205200,8 @@ const WORDS = [
 			],
 			"original_statement": "From 15th Century vinum (wine) + demere (to take off)."
 		},
-		"concept": "The year or place in which wine, especially wine of high quality, was produced (「葡萄の(。収穫（。ヴィン)を(。取り（。出す（。デ（。)」季節（。。（。過ぎ去（。った（。時間（。が（。、熟（。成（。という（。名の（。魔法を（。かけて（。、現在に（。至宝（。を（。届（。けて（。くれ（。た（。のですよ。)",
-		"thinking": "「葡萄の(。収穫（。ヴィン)を(。取り（。出す（。デ（。)」季節（。。（。過ぎ去（。った（。時間（。が（。、熟（。成（。という（。名の（。魔法を（。かけて（。、現在に（。至宝（。を（。届（。けて（。くれ（。た（。のですよ。",
+		"concept": "The year or place in which wine, especially wine of high quality, was produced 「葡萄の収穫ヴィンを取り出すデ」季節。過ぎ去った時間が、熟成という名の魔法をかけて、現在に至宝を届けてくれたのですよ。",
+		"thinking": "「葡萄の収穫ヴィンを取り出すデ」季節。過ぎ去った時間が、熟成という名の魔法をかけて、現在に至宝を届けてくれたのですよ。",
 		"aftertaste": "家は、魂が世界という名の旅から帰り、再び自らを見出すための聖域です。",
 		"example": "The family gathered around the vintage to share stories on a cold winter night.",
 		"deep_dive": {
@@ -205235,8 +205228,8 @@ const WORDS = [
 			],
 			"original_statement": "From 13th Century incendere (to set fire to, burn)."
 		},
-		"concept": "A gum, spice, or other substance that is burned for the smell it produces (祈り(。の（。ために「火を（。付け（。られた（。インセ)香(。)」。（。その（。静（。かな（。る（。煙（。が（。、天上（。の（。高（。みへと（。、あなた（。の声（。を（。運ん（。で（。行く（。のですよ。)",
-		"thinking": "祈り(。の（。ために「火を（。付け（。られた（。インセ)香(。)」。（。その（。静（。かな（。る（。煙（。が（。、天上（。の（。高（。みへと（。、あなた（。の声（。を（。運ん（。で（。行く（。のですよ。",
+		"concept": "A gum, spice, or other substance that is burned for the smell it produces 祈りのために「火を付けられたインセ香」。その静かなる煙が、天上の高みへと、あなたの声を運んで行くのですよ。",
+		"thinking": "祈りのために「火を付けられたインセ香」。その静かなる煙が、天上の高みへと、あなたの声を運んで行くのですよ。",
 		"aftertaste": "家は、魂が世界という名の旅から帰り、再び自らを見出すための聖域です。",
 		"example": "The family gathered around the incense to share stories on a cold winter night.",
 		"deep_dive": {
@@ -205263,8 +205256,8 @@ const WORDS = [
 			],
 			"original_statement": "From 13th Century a- (to) + tire (order, row, rank)."
 		},
-		"concept": "Clothes, especially fine or formal ones (裸(。の（。魂に（。対して（。、「正（。しい（。順序（。ティア)へと(。導く（。アド)」ための（。装い（。。（。あなた（。が（。何を（。纏（。うか（。、それ（。が（。、今日（。の、あなた（。の（。役割（。を（。決（。める（。のです。)",
-		"thinking": "裸(。の（。魂に（。対して（。、「正（。しい（。順序（。ティア)へと(。導く（。アド)」ための（。装い（。。（。あなた（。が（。何を（。纏（。うか（。、それ（。が（。、今日（。の、あなた（。の（。役割（。を（。決（。める（。のです。",
+		"concept": "Clothes, especially fine or formal ones 裸の魂に対して、「正しい順序ティアへと導くアド」ための装い。あなたが何を纏うか、それが、今日の、あなたの役割を決めるのです。",
+		"thinking": "裸の魂に対して、「正しい順序ティアへと導くアド」ための装い。あなたが何を纏うか、それが、今日の、あなたの役割を決めるのです。",
 		"aftertaste": "家は、魂が世界という名の旅から帰り、再び自らを見出すための聖域です。",
 		"example": "The family gathered around the attire to share stories on a cold winter night.",
 		"deep_dive": {
@@ -205291,8 +205284,8 @@ const WORDS = [
 			],
 			"original_statement": "From 18th Century pratum (meadow)."
 		},
-		"concept": "A large open area of grassland (地(。平線（。まで（。続く「草原（。プラタム)」。（。風（。が（。吹き（。抜（。けるたびに（。、無数（。の（。命の（。囁（。きが（。、波波の（。ように（。押し寄（。せて（。くる（。、自由（。な（。る（。空間。)",
-		"thinking": "地(。平線（。まで（。続く「草原（。プラタム)」。（。風（。が（。吹き（。抜（。けるたびに（。、無数（。の（。命の（。囁（。きが（。、波波の（。ように（。押し寄（。せて（。くる（。、自由（。な（。る（。空間。",
+		"concept": "A large open area of grassland 地平線まで続く「草原プラタム」。風が吹き抜けるたびに、無数の命の囁きが、波波のように押し寄せてくる、自由なる空間。",
+		"thinking": "地平線まで続く「草原プラタム」。風が吹き抜けるたびに、無数の命の囁きが、波波のように押し寄せてくる、自由なる空間。",
 		"aftertaste": "自然は、私たちが自らの本質を思い出すための、巨大な鏡なのです。",
 		"example": "The cherry trees were in full prairie, attracting visitors from all over the country.",
 		"deep_dive": {
@@ -205319,8 +205312,8 @@ const WORDS = [
 			],
 			"original_statement": "From 16th Century rif (rib)."
 		},
-		"concept": "A ridge of jagged rock, coral, or sand just above or below the surface of the sea (海(。の（。底（。に（。横たた（。わる「肋（。骨（。リフ)』のような（。岩石（。。（。寄（。せ（。来る（。波を（。受け（。止め（。、静（。か（。な（。る（。入り（。江（。を（。創（。り出（。す（。、大地の（。守護。)",
-		"thinking": "海(。の（。底（。に（。横たた（。わる「肋（。骨（。リフ)』のような（。岩石（。。（。寄（。せ（。来る（。波を（。受け（。止め（。、静（。か（。な（。る（。入り（。江（。を（。創（。り出（。す（。、大地の（。守護。",
+		"concept": "A ridge of jagged rock, coral, or sand just above or below the surface of the sea 海の底に横たたわる「肋骨リフ』のような岩石。寄せ来る波を受け止め、静かなる入り江を創り出す、大地の守護。",
+		"thinking": "海の底に横たたわる「肋骨リフ』のような岩石。寄せ来る波を受け止め、静かなる入り江を創り出す、大地の守護。",
 		"aftertaste": "自然は、私たちが自らの本質を思い出すための、巨大な鏡なのです。",
 		"example": "The cherry trees were in full reef, attracting visitors from all over the country.",
 		"deep_dive": {
@@ -205347,8 +205340,8 @@ const WORDS = [
 			],
 			"original_statement": "From 16th Century krupte (crypt, hidden place)."
 		},
-		"concept": "A small picturesque cave, especially an artificial one in a park or garden (暗い(。地下（。の「隠（。れた（。クリプ)場所(。)」。（。そこ（。に（。滴る（。一滴（。の（。水（。は（。、宇宙の（。深（。遠（。な（。智慧（。を（。、言葉を（。超（。え（。て（。伝えて（。くれる（。のですよ。)",
-		"thinking": "暗い(。地下（。の「隠（。れた（。クリプ)場所(。)」。（。そこ（。に（。滴る（。一滴（。の（。水（。は（。、宇宙の（。深（。遠（。な（。智慧（。を（。、言葉を（。超（。え（。て（。伝えて（。くれる（。のですよ。",
+		"concept": "A small picturesque cave, especially an artificial one in a park or garden 暗い地下の「隠れたクリプ場所」。そこに滴る一滴の水は、宇宙の深遠な智慧を、言葉を超えて伝えてくれるのですよ。",
+		"thinking": "暗い地下の「隠れたクリプ場所」。そこに滴る一滴の水は、宇宙の深遠な智慧を、言葉を超えて伝えてくれるのですよ。",
 		"aftertaste": "自然は、私たちが自らの本質を思い出すための、巨大な鏡なのです。",
 		"example": "The cherry trees were in full grotto, attracting visitors from all over the country.",
 		"deep_dive": {
@@ -205375,8 +205368,8 @@ const WORDS = [
 			],
 			"original_statement": "From 13th Century pudd (ditch, hole)."
 		},
-		"concept": "A small pool of liquid, especially of rain water on the ground (泥(。まみれ（。の（。大地（。に（。、不（。意（。に（。現（。れ（。た「小さな（。淵（。パッド)」。（。その（。濁った（。水面（。にも（。、天上（。の（。青い（。光が（。、等しく（。宿って（。いる（。のです。)",
-		"thinking": "泥(。まみれ（。の（。大地（。に（。、不（。意（。に（。現（。れ（。た「小さな（。淵（。パッド)」。（。その（。濁った（。水面（。にも（。、天上（。の（。青い（。光が（。、等しく（。宿って（。いる（。のです。",
+		"concept": "A small pool of liquid, especially of rain water on the ground 泥まみれの大地に、不意に現れた「小さな淵パッド」。その濁った水面にも、天上の青い光が、等しく宿っているのです。",
+		"thinking": "泥まみれの大地に、不意に現れた「小さな淵パッド」。その濁った水面にも、天上の青い光が、等しく宿っているのです。",
 		"aftertaste": "自然は、私たちが自らの本質を思い出すための、巨大な鏡なのです。",
 		"example": "The cherry trees were in full puddle, attracting visitors from all over the country.",
 		"deep_dive": {
@@ -205403,8 +205396,8 @@ const WORDS = [
 			],
 			"original_statement": "From Old English āra (brass, copper, bronze)."
 		},
-		"concept": "A naturally occurring solid material from which a metal or valuable mineral can be profitably extracted (ただの(。石（。から（。、「金属（。アーラ)」と（。なる（。ための（。純粋（。な（。エッセンスを（。孕（。ん（。だ（。、不器（。用（。な（。存在（。。（。火（。に（。焼（。かれ（。、打（。た（。れる（。ことで（。、至宝（。へと（。至（。る（。の（。ですよ。)",
-		"thinking": "ただの(。石（。から（。、「金属（。アーラ)」と（。なる（。ための（。純粋（。な（。エッセンスを（。孕（。ん（。だ（。、不器（。用（。な（。存在（。。（。火（。に（。焼（。かれ（。、打（。た（。れる（。ことで（。、至宝（。へと（。至（。る（。の（。ですよ。",
+		"concept": "A naturally occurring solid material from which a metal or valuable mineral can be profitably extracted ただの石から、「金属アーラ」となるための純粋なエッセンスを孕んだ、不器用な存在。火に焼かれ、打たれることで、至宝へと至るのですよ。",
+		"thinking": "ただの石から、「金属アーラ」となるための純粋なエッセンスを孕んだ、不器用な存在。火に焼かれ、打たれることで、至宝へと至るのですよ。",
 		"aftertaste": "自然は、私たちが自らの本質を思い出すための、巨大な鏡なのです。",
 		"example": "The cherry trees were in full ore, attracting visitors from all over the country.",
 		"deep_dive": {
@@ -205423,7 +205416,7 @@ const WORDS = [
 	{
 		"id": "apparition_ghost",
 		"word": "apparition",
-		"meaning": "出現、亡霊、離現（。りげん（。）」",
+		"meaning": "出現、亡霊、離現りげん」",
 		"era": "15th Century",
 		"etymology": {
 			"components": [
@@ -205431,8 +205424,8 @@ const WORDS = [
 			],
 			"original_statement": "From 15th Century ad- (to) + parere (to come forth, appear)."
 		},
-		"concept": "A ghost or ghostlike image of a person (何(。も（。ない（。場所（。から（。、不（。意に「現（。れ（。て（。パラ)来る(。アド)」こと（。。（。それは（。、宇宙の（。深淵（。から（。届いた（。、一通（。の（。無（。言（。の（。手紙（。の（。ような（。存在。)",
-		"thinking": "何(。も（。ない（。場所（。から（。、不（。意に「現（。れ（。て（。パラ)来る(。アド)」こと（。。（。それは（。、宇宙の（。深淵（。から（。届いた（。、一通（。の（。無（。言（。の（。手紙（。の（。ような（。存在。",
+		"concept": "A ghost or ghostlike image of a person 何もない場所から、不意に「現れてパラ来るアド」こと。それは、宇宙の深淵から届いた、一通の無言の手紙のような存在。",
+		"thinking": "何もない場所から、不意に「現れてパラ来るアド」こと。それは、宇宙の深淵から届いた、一通の無言の手紙のような存在。",
 		"aftertaste": "影は、光が存在するというたった一つの証明であり、同時に魂の休息場所です。",
 		"example": "The old manor was said to be haunted by a quiet apparition that appeared during the full moon.",
 		"deep_dive": {
@@ -205459,8 +205452,8 @@ const WORDS = [
 			],
 			"original_statement": "From 14th Century re- (back) + sedere (to sit)."
 		},
-		"concept": "A small amount of something that remains after the main part has gone or been taken or used (全(。てが（。去（。り（。行（。っ（。た（。後（。に（。、ただ（。そこに「後ろ向きに（。リ)座(。り（。続（。け（。て（。いる（。セド)」沈黙（。。（。それが（。、かつての（。烈（。しい（。情熱の（。、最後（。の（。証言（。なのです。)",
-		"thinking": "全(。てが（。去（。り（。行（。っ（。た（。後（。に（。、ただ（。そこに「後ろ向きに（。リ)座(。り（。続（。け（。て（。いる（。セド)」沈黙（。。（。それが（。、かつての（。烈（。しい（。情熱の（。、最後（。の（。証言（。なのです。",
+		"concept": "A small amount of something that remains after the main part has gone or been taken or used 全てが去り行った後に、ただそこに「後ろ向きにリ座り続けているセド」沈黙。それが、かつての烈しい情熱の、最後の証言なのです。",
+		"thinking": "全てが去り行った後に、ただそこに「後ろ向きにリ座り続けているセド」沈黙。それが、かつての烈しい情熱の、最後の証言なのです。",
 		"aftertaste": "影は、光が存在するというたった一つの証明であり、同時に魂の休息場所です。",
 		"example": "The old manor was said to be haunted by a quiet residue that appeared during the full moon.",
 		"deep_dive": {
@@ -205487,8 +205480,8 @@ const WORDS = [
 			],
 			"original_statement": "From 13th Century ham (home) + et (little)."
 		},
-		"concept": "Of a ghost manifest itself at a place regularly; be persistently in the mind of someone (かつて(。は（。安（。ら（。ぎの「小さな（。エ)家(。ハム)」だった（。はずの（。場所（。。（。今（。では（。、逃（。げ（。られ（。ない（。記憶（。の（。檻（。として（。、あなた（。を（。捕（。ら（。え（。続け（。て（。いる（。のですね。)",
-		"thinking": "かつて(。は（。安（。ら（。ぎの「小さな（。エ)家(。ハム)」だった（。はずの（。場所（。。（。今（。では（。、逃（。げ（。られ（。ない（。記憶（。の（。檻（。として（。、あなた（。を（。捕（。ら（。え（。続け（。て（。いる（。のですね。",
+		"concept": "Of a ghost manifest itself at a place regularly; be persistently in the mind of someone かつては安らぎの「小さなエ家ハム」だったはずの場所。今では、逃げられない記憶の檻として、あなたを捕らえ続けているのですね。",
+		"thinking": "かつては安らぎの「小さなエ家ハム」だったはずの場所。今では、逃げられない記憶の檻として、あなたを捕らえ続けているのですね。",
 		"aftertaste": "影は、光が存在するというたった一つの証明であり、同時に魂の休息場所です。",
 		"example": "The old manor was said to be haunted by a quiet haunt that appeared during the full moon.",
 		"deep_dive": {
@@ -205515,8 +205508,8 @@ const WORDS = [
 			],
 			"original_statement": "From 14th Century figere (to fasten, fix)."
 		},
-		"concept": "An obsessive interest in or feeling about someone or something (時間(。の（。流れ（。を（。止め（。、ただ一（。点（。に「心（。を（。釘付け（。に（。する（。フィク)」こと（。。（。その（。凍（。り付（。いた（。情熱が（。、あなた（。の（。成長（。を（。、静（。か（。に（。阻（。んで（。いる（。の（。かも（。しれ（。ません。)",
-		"thinking": "時間(。の（。流れ（。を（。止め（。、ただ一（。点（。に「心（。を（。釘付け（。に（。する（。フィク)」こと（。。（。その（。凍（。り付（。いた（。情熱が（。、あなた（。の（。成長（。を（。、静（。か（。に（。阻（。んで（。いる（。の（。かも（。しれ（。ません。",
+		"concept": "An obsessive interest in or feeling about someone or something 時間の流れを止め、ただ一点に「心を釘付けにするフィク」こと。その凍り付いた情熱が、あなたの成長を、静かに阻んでいるのかもしれません。",
+		"thinking": "時間の流れを止め、ただ一点に「心を釘付けにするフィク」こと。その凍り付いた情熱が、あなたの成長を、静かに阻んでいるのかもしれません。",
 		"aftertaste": "影は、光が存在するというたった一つの証明であり、同時に魂の休息場所です。",
 		"example": "The old manor was said to be haunted by a quiet fixation that appeared during the full moon.",
 		"deep_dive": {
@@ -205543,8 +205536,8 @@ const WORDS = [
 			],
 			"original_statement": "From 14th Century ruere (to fall down, rush)."
 		},
-		"concept": "The physical destruction or disintegration of something or the state of disappearing or falling to pieces (かつて(。の（。栄（。光（。が（。、重力（。という（。名の（。運命に（。抗（。え（。ず（。、「崩（。れ（。落ち（。た（。ルエ)」姿（。。（。その（。沈黙（。の（。中に（。、私たちは（。時間（。の（。残酷（。さと（。慈愛（。を（。同時（。に（。見（。る（。のですよ。)",
-		"thinking": "かつて(。の（。栄（。光（。が（。、重力（。という（。名の（。運命に（。抗（。え（。ず（。、「崩（。れ（。落ち（。た（。ルエ)」姿（。。（。その（。沈黙（。の（。中に（。、私たちは（。時間（。の（。残酷（。さと（。慈愛（。を（。同時（。に（。見（。る（。のですよ。",
+		"concept": "The physical destruction or disintegration of something or the state of disappearing or falling to pieces かつての栄光が、重力という名の運命に抗えず、「崩れ落ちたルエ」姿。その沈黙の中に、私たちは時間の残酷さと慈愛を同時に見るのですよ。",
+		"thinking": "かつての栄光が、重力という名の運命に抗えず、「崩れ落ちたルエ」姿。その沈黙の中に、私たちは時間の残酷さと慈愛を同時に見るのですよ。",
 		"aftertaste": "影は、光が存在するというたった一つの証明であり、同時に魂の休息場所です。",
 		"example": "The old manor was said to be haunted by a quiet ruin that appeared during the full moon.",
 		"deep_dive": {
@@ -205571,8 +205564,8 @@ const WORDS = [
 			],
 			"original_statement": "From 14th Century eskhara (scab, fireplace)."
 		},
-		"concept": "A mark left on the skin or within body tissue where a wound, burn, or sore has not healed completely and fibrous connective tissue has developed (烈(。しい（。火（。に（。焼（。かれ（。た（。後の「燃（。え（。残り（。エス)」。（。痛み（。は（。消えても（。、そこ（。には（。、あなたが（。生き（。抜（。いた（。という（。、誇（。り（。高い（。勲（。章（。が（。刻ま（。れて（。いる（。のですよ。)",
-		"thinking": "烈(。しい（。火（。に（。焼（。かれ（。た（。後の「燃（。え（。残り（。エス)」。（。痛み（。は（。消えても（。、そこ（。には（。、あなたが（。生き（。抜（。いた（。という（。、誇（。り（。高い（。勲（。章（。が（。刻ま（。れて（。いる（。のですよ。",
+		"concept": "A mark left on the skin or within body tissue where a wound, burn, or sore has not healed completely and fibrous connective tissue has developed 烈しい火に焼かれた後の「燃え残りエス」。痛みは消えても、そこには、あなたが生き抜いたという、誇り高い勲章が刻まれているのですよ。",
+		"thinking": "烈しい火に焼かれた後の「燃え残りエス」。痛みは消えても、そこには、あなたが生き抜いたという、誇り高い勲章が刻まれているのですよ。",
 		"aftertaste": "影は、光が存在するというたった一つの証明であり、同時に魂の休息場所です。",
 		"example": "The old manor was said to be haunted by a quiet scar that appeared during the full moon.",
 		"deep_dive": {
@@ -205599,8 +205592,8 @@ const WORDS = [
 			],
 			"original_statement": "From 17th Century in- (into, on) + gignere (to beget, literal: 'ignis' fire)."
 		},
-		"concept": "The action of setting something on fire or starting to burn (冷(。た（。い（。沈黙（。の中に（。、爆（。烈（。的な「火（。イグ)を(。産（。み（。出す（。)」こと（。。（。その（。一瞬の（。閃光（。が（。、眠（。って（。いた（。エナジーを（。、現在（。へと（。呼び（。覚（。ます（。のですよ。)",
-		"thinking": "冷(。た（。い（。沈黙（。の中に（。、爆（。烈（。的な「火（。イグ)を(。産（。み（。出す（。)」こと（。。（。その（。一瞬の（。閃光（。が（。、眠（。って（。いた（。エナジーを（。、現在（。へと（。呼び（。覚（。ます（。のですよ。",
+		"concept": "The action of setting something on fire or starting to burn 冷たい沈黙の中に、爆烈的な「火イグを産み出す」こと。その一瞬の閃光が、眠っていたエナジーを、現在へと呼び覚ますのですよ。",
+		"thinking": "冷たい沈黙の中に、爆烈的な「火イグを産み出す」こと。その一瞬の閃光が、眠っていたエナジーを、現在へと呼び覚ますのですよ。",
 		"aftertaste": "火は、物質が自らの重みを捨て去り、光へと還るための、激しい祈りの儀式です。",
 		"example": "The engine's ignition system was carefully designed to maximize fuel efficiency.",
 		"deep_dive": {
@@ -205627,8 +205620,8 @@ const WORDS = [
 			],
 			"original_statement": "From 14th Century phlama (flame, literal: 'phlegma' blaze)."
 		},
-		"concept": "A hot luminous body of ignited gas that is generated by something on fire (物質(。が（。エナジーへと（。還（。る（。ときに（。、激しく「揺（。れ（。動（。く（。フラ)」姿（。。（。その（。眩（。し（。い（。熱は（。、周囲（。の（。全（。てを（。、愛（。という（。名の（。光で（。包（。み（。込む（。のです。)",
-		"thinking": "物質(。が（。エナジーへと（。還（。る（。ときに（。、激しく「揺（。れ（。動（。く（。フラ)」姿（。。（。その（。眩（。し（。い（。熱は（。、周囲（。の（。全（。てを（。、愛（。という（。名の（。光で（。包（。み（。込む（。のです。",
+		"concept": "A hot luminous body of ignited gas that is generated by something on fire 物質がエナジーへと還るときに、激しく「揺れ動くフラ」姿。その眩しい熱は、周囲の全てを、愛という名の光で包み込むのです。",
+		"thinking": "物質がエナジーへと還るときに、激しく「揺れ動くフラ」姿。その眩しい熱は、周囲の全てを、愛という名の光で包み込むのです。",
 		"aftertaste": "火は、物質が自らの重みを捨て去り、光へと還るための、激しい祈りの儀式です。",
 		"example": "The engine's flame system was carefully designed to maximize fuel efficiency.",
 		"deep_dive": {
@@ -205655,8 +205648,8 @@ const WORDS = [
 			],
 			"original_statement": "From 18th Century vapor (mist, steam)."
 		},
-		"concept": "Convert or be converted into vapor (固(。執（。し（。て（。いた（。重い（。かたち（。を（。捨て（。去り（。、ただの「霧（。ヴァポー)」と（。なって（。、空（。へと（。溶（。け（。込んで（。行く（。こと（。。（。未（。練（。さえ（。も（。エナジーへと（。還（。す（。、光（。の（。昇（。華。)",
-		"thinking": "固(。執（。し（。て（。いた（。重い（。かたち（。を（。捨て（。去り（。、ただの「霧（。ヴァポー)」と（。なって（。、空（。へと（。溶（。け（。込んで（。行く（。こと（。。（。未（。練（。さえ（。も（。エナジーへと（。還（。す（。、光（。の（。昇（。華。",
+		"concept": "Convert or be converted into vapor 固執していた重いかたちを捨て去り、ただの「霧ヴァポー」となって、空へと溶け込んで行くこと。未練さえもエナジーへと還す、光の昇華。",
+		"thinking": "固執していた重いかたちを捨て去り、ただの「霧ヴァポー」となって、空へと溶け込んで行くこと。未練さえもエナジーへと還す、光の昇華。",
 		"aftertaste": "火は、物質が自らの重みを捨て去り、光へと還るための、激しい祈りの儀式です。",
 		"example": "The engine's vaporize system was carefully designed to maximize fuel efficiency.",
 		"deep_dive": {
@@ -205683,8 +205676,8 @@ const WORDS = [
 			],
 			"original_statement": "From 14th Century de- (down) + stillare (to drop, drip)."
 		},
-		"concept": "Purify by a process of heating and cooling (余計(。な（。混（。じ（。り（。物（。を（。削（。ぎ（。落（。し（。、ただ「一（。滴（。ずつ（。スティラ)した(。たり（。落ち（。る（。デ)」真理に（。まで（。純（。化（。する（。こと（。。（。最後（。に残った（。その（。一滴（。にこそ（。、全（。宇宙の（。智（。恵が（。宿（。って（。いる（。の（。ですよ。)",
-		"thinking": "余計(。な（。混（。じ（。り（。物（。を（。削（。ぎ（。落（。し（。、ただ「一（。滴（。ずつ（。スティラ)した(。たり（。落ち（。る（。デ)」真理に（。まで（。純（。化（。する（。こと（。。（。最後（。に残った（。その（。一滴（。にこそ（。、全（。宇宙の（。智（。恵が（。宿（。って（。いる（。の（。ですよ。",
+		"concept": "Purify by a process of heating and cooling 余計な混じり物を削ぎ落し、ただ「一滴ずつスティラしたたり落ちるデ」真理にまで純化すること。最後に残ったその一滴にこそ、全宇宙の智恵が宿っているのですよ。",
+		"thinking": "余計な混じり物を削ぎ落し、ただ「一滴ずつスティラしたたり落ちるデ」真理にまで純化すること。最後に残ったその一滴にこそ、全宇宙の智恵が宿っているのですよ。",
 		"aftertaste": "火は、物質が自らの重みを捨て去り、光へと還るための、激しい祈りの儀式です。",
 		"example": "The engine's distill system was carefully designed to maximize fuel efficiency.",
 		"deep_dive": {
@@ -205739,8 +205732,8 @@ const WORDS = [
 			],
 			"original_statement": "From 13th Century Pergamum (city in Asia Minor)."
 		},
-		"concept": "A stiff, flat, thin material made from the prepared skin of an animal and used as a durable surface for writing, painting, or pocketing (木(。簡を（。超え（。、動物の（。命を（。纏（。った「聖なる（。紙（。ペルガモン)」。（。そこ（。には（。、何（。百（。年（。という（。時間の（。荒波に（。耐（。え（。抜（。く（。、言葉（。の（。凄（。みが（。宿（。って（。いる（。のですよ。)",
-		"thinking": "木(。簡を（。超え（。、動物の（。命を（。纏（。った「聖なる（。紙（。ペルガモン)」。（。そこ（。には（。、何（。百（。年（。という（。時間の（。荒波に（。耐（。え（。抜（。く（。、言葉（。の（。凄（。みが（。宿（。って（。いる（。のですよ。",
+		"concept": "A stiff, flat, thin material made from the prepared skin of an animal and used as a durable surface for writing, painting, or pocketing 木簡を超え、動物の命を纏った「聖なる紙ペルガモン」。そこには、何百年という時間の荒波に耐え抜く、言葉の凄みが宿っているのですよ。",
+		"thinking": "木簡を超え、動物の命を纏った「聖なる紙ペルガモン」。そこには、何百年という時間の荒波に耐え抜く、言葉の凄みが宿っているのですよ。",
 		"aftertaste": "インクは、魂の叫びを静止させ、永遠という名の時間に刻み込むための血潮です。",
 		"example": "The scholar spent years translating the ancient parchment to uncover the secrets of the lost civilization.",
 		"deep_dive": {
@@ -205759,7 +205752,7 @@ const WORDS = [
 	{
 		"id": "vellum_ink",
 		"word": "vellum",
-		"meaning": "上質（。じょうしつ（。）」羊皮紙、ヴェラム",
+		"meaning": "上質じょうしつ」羊皮紙、ヴェラム",
 		"era": "15th Century",
 		"etymology": {
 			"components": [
@@ -205767,8 +205760,8 @@ const WORDS = [
 			],
 			"original_statement": "From 15th Century veal (calf)."
 		},
-		"concept": "Fine parchment made originally from the skin of a calf (さらに(。若（。い（。命の（。肌を（。使った（。、「至高の（。紙（。ヴェール（。)」。（。透（。き（。通（。る（。ような（。滑（。らかさと（。、強（。靭（。さを（。併（。せ（。持（。つ（。、王（。侯（。貴族（。の（。ための（。聖域。)",
-		"thinking": "さらに(。若（。い（。命の（。肌を（。使った（。、「至高の（。紙（。ヴェール（。)」。（。透（。き（。通（。る（。ような（。滑（。らかさと（。、強（。靭（。さを（。併（。せ（。持（。つ（。、王（。侯（。貴族（。の（。ための（。聖域。",
+		"concept": "Fine parchment made originally from the skin of a calf さらに若い命の肌を使った、「至高の紙ヴェール」。透き通るような滑らかさと、強靭さを併せ持つ、王侯貴族のための聖域。",
+		"thinking": "さらに若い命の肌を使った、「至高の紙ヴェール」。透き通るような滑らかさと、強靭さを併せ持つ、王侯貴族のための聖域。",
 		"aftertaste": "インクは、魂の叫びを静止させ、永遠という名の時間に刻み込むための血潮です。",
 		"example": "The scholar spent years translating the ancient vellum to uncover the secrets of the lost civilization.",
 		"deep_dive": {
@@ -205787,7 +205780,7 @@ const WORDS = [
 	{
 		"id": "quill_ink",
 		"word": "quill",
-		"meaning": "（。鳥の（。）」羽（。ペン、羽軸、クイル",
+		"meaning": "鳥の」羽ペン、羽軸、クイル",
 		"era": "16th Century",
 		"etymology": {
 			"components": [
@@ -205795,8 +205788,8 @@ const WORDS = [
 			],
 			"original_statement": "From 16th Century kiel (quill, stalk, literal: 'stalk')."
 		},
-		"concept": "A pen made from a main wing or tail feather of a large bird (空(。を（。飛（。んでいた（。鳥の「一本の（。羽（。キール)』を（。、地上に（。真理を（。綴（。る（。ための（。杖（。へと（。変（。えた（。もの（。。（。その（。軽（。やかな（。一（。閃（。に（。、思考（。の（。風（。が（。宿（。る（。のですよ。)",
-		"thinking": "空(。を（。飛（。んでいた（。鳥の「一本の（。羽（。キール)』を（。、地上に（。真理を（。綴（。る（。ための（。杖（。へと（。変（。えた（。もの（。。（。その（。軽（。やかな（。一（。閃（。に（。、思考（。の（。風（。が（。宿（。る（。のですよ。",
+		"concept": "A pen made from a main wing or tail feather of a large bird 空を飛んでいた鳥の「一本の羽キール』を、地上に真理を綴るための杖へと変えたもの。その軽やかな一閃に、思考の風が宿るのですよ。",
+		"thinking": "空を飛んでいた鳥の「一本の羽キール』を、地上に真理を綴るための杖へと変えたもの。その軽やかな一閃に、思考の風が宿るのですよ。",
 		"aftertaste": "インクは、魂の叫びを静止させ、永遠という名の時間に刻み込むための血潮です。",
 		"example": "The scholar spent years translating the ancient quill to uncover the secrets of the lost civilization.",
 		"deep_dive": {
@@ -205815,7 +205808,7 @@ const WORDS = [
 	{
 		"id": "stylus_ink",
 		"word": "stylus",
-		"meaning": "尖筆（。せんぴつ（。）」、レコード（。針、スタイラス",
+		"meaning": "尖筆せんぴつ」、レコード針、スタイラス",
 		"era": "18th Century",
 		"etymology": {
 			"components": [
@@ -205823,8 +205816,8 @@ const WORDS = [
 			],
 			"original_statement": "From 18th Century stilus (stake, pale, literal: 'pointed stick')."
 		},
-		"concept": "An ancient writing implement, consisting of a small rod with a pointed end for scratching letters on wax-covered tablets, and a blunt end for obliterating them (蝋(。の（。板（。に（。、魂の（。エナジーを「突（。き（。刺（。す（。スティ)」ことで（。刻（。み（。込（。む（。、鋭（。い（。意志（。。（。その（。一一点（。に、宇宙（。の（。全記憶（。を（。凝縮（。させた（。、尖（。端（。の（。知性。)",
-		"thinking": "蝋(。の（。板（。に（。、魂の（。エナジーを「突（。き（。刺（。す（。スティ)」ことで（。刻（。み（。込（。む（。、鋭（。い（。意志（。。（。その（。一一点（。に、宇宙（。の（。全記憶（。を（。凝縮（。させた（。、尖（。端（。の（。知性。",
+		"concept": "An ancient writing implement, consisting of a small rod with a pointed end for scratching letters on wax-covered tablets, and a blunt end for obliterating them 蝋の板に、魂のエナジーを「突き刺すスティ」ことで刻み込む、鋭い意志。その一一点に、宇宙の全記憶を凝縮させた、尖端の知性。",
+		"thinking": "蝋の板に、魂のエナジーを「突き刺すスティ」ことで刻み込む、鋭い意志。その一一点に、宇宙の全記憶を凝縮させた、尖端の知性。",
 		"aftertaste": "インクは、魂の叫びを静止させ、永遠という名の時間に刻み込むための血潮です。",
 		"example": "The scholar spent years translating the ancient stylus to uncover the secrets of the lost civilization.",
 		"deep_dive": {
@@ -205851,8 +205844,8 @@ const WORDS = [
 			],
 			"original_statement": "From 14th Century in- (into, upon) + scribere (to write)."
 		},
-		"concept": "Words inscribed, as on a monument or in a book (ただ(。の（。紙に（。ではなく（。、石（。や（。金属の（。表面（。に「刻（。み（。込（。まれ（。た（。スクリプト)中(。イン)」もの（。。（。それは（。、消（。し（。去（。ること（。の（。できない（。、永遠（。への（。誓（。い（。の（。証（。なのです。)",
-		"thinking": "ただ(。の（。紙に（。ではなく（。、石（。や（。金属の（。表面（。に「刻（。み（。込（。まれ（。た（。スクリプト)中(。イン)」もの（。。（。それは（。、消（。し（。去（。ること（。の（。できない（。、永遠（。への（。誓（。い（。の（。証（。なのです。",
+		"concept": "Words inscribed, as on a monument or in a book ただの紙にではなく、石や金属の表面に「刻み込まれたスクリプト中イン」もの。それは、消し去ることのできない、永遠への誓いの証なのです。",
+		"thinking": "ただの紙にではなく、石や金属の表面に「刻み込まれたスクリプト中イン」もの。それは、消し去ることのできない、永遠への誓いの証なのです。",
 		"aftertaste": "インクは、魂の叫びを静止させ、永遠という名の時間に刻み込むための血潮です。",
 		"example": "The scholar spent years translating the ancient inscription to uncover the secrets of the lost civilization.",
 		"deep_dive": {
@@ -205879,8 +205872,8 @@ const WORDS = [
 			],
 			"original_statement": "From 14th Century epi- (upon) + taphos (tomb, literal: 'on the tomb')."
 		},
-		"concept": "A phrase or statement written in memory of a person who has died, especially as an inscription on a tombstone (人生という(。物語が（。終わった（。後（。に（。、そっと「墓石の（。上へと（。エピ)置(。かれた（。)」最後（。の（。一行（。。（。死（。を（。越（。えた（。場所（。から（。届（。く（。、静（。かな（。る（。自己（。肯定。)",
-		"thinking": "人生という(。物語が（。終わった（。後（。に（。、そっと「墓石の（。上へと（。エピ)置(。かれた（。)」最後（。の（。一行（。。（。死（。を（。越（。えた（。場所（。から（。届（。く（。、静（。かな（。る（。自己（。肯定。",
+		"concept": "A phrase or statement written in memory of a person who has died, especially as an inscription on a tombstone 人生という物語が終わった後に、そっと「墓石の上へとエピ置かれた」最後の一行。死を越えた場所から届く、静かなる自己肯定。",
+		"thinking": "人生という物語が終わった後に、そっと「墓石の上へとエピ置かれた」最後の一行。死を越えた場所から届く、静かなる自己肯定。",
 		"aftertaste": "インクは、魂の叫びを静止させ、永遠という名の時間に刻み込むための血潮です。",
 		"example": "The scholar spent years translating the ancient epitaph to uncover the secrets of the lost civilization.",
 		"deep_dive": {
@@ -205907,8 +205900,8 @@ const WORDS = [
 			],
 			"original_statement": "From 18th Century foot + note."
 		},
-		"concept": "An additional piece of information printed at the bottom of a page (思考の(。本流（。から（。一瞬（。外れ（。、頁の「足下（。フット)」へと（。そっと（。置（。かれた（。密（。かな（。囁（。き（。。（。そこ（。にこそ（。、著者（。の（。真（。実（。の（。想（。いが（。、隠（。されて（。いる（。の（。かも（。しれ（。ません。)",
-		"thinking": "思考の(。本流（。から（。一瞬（。外れ（。、頁の「足下（。フット)」へと（。そっと（。置（。かれた（。密（。かな（。囁（。き（。。（。そこ（。にこそ（。、著者（。の（。真（。実（。の（。想（。いが（。、隠（。されて（。いる（。の（。かも（。しれ（。ません。",
+		"concept": "An additional piece of information printed at the bottom of a page 思考の本流から一瞬外れ、頁の「足下フット」へとそっと置かれた密かな囁き。そこにこそ、著者の真実の想いが、隠されているのかもしれません。",
+		"thinking": "思考の本流から一瞬外れ、頁の「足下フット」へとそっと置かれた密かな囁き。そこにこそ、著者の真実の想いが、隠されているのかもしれません。",
 		"aftertaste": "インクは、魂の叫びを静止させ、永遠という名の時間に刻み込むための血潮です。",
 		"example": "The scholar spent years translating the ancient footnote to uncover the secrets of the lost civilization.",
 		"deep_dive": {
@@ -205935,8 +205928,8 @@ const WORDS = [
 			],
 			"original_statement": "From 18th Century gluph- (to carve, hollow out, literal: 'to hollow out')."
 		},
-		"concept": "A hieroglyphic character or symbol (表面的な(。意味（。を（。環境（。を（。捨て（。、石（。を「彫（。り（。抜く（。グリフ)」ことで（。抽出（。さ（。れた（。、原初（。の（。かたち（。。（。その（。一（。点（。の（。窪（。みに（。、宇宙の（。全エナジー（。を（。、封印（。した（。もの。)",
-		"thinking": "表面的な(。意味（。を（。環境（。を（。捨て（。、石（。を「彫（。り（。抜く（。グリフ)」ことで（。抽出（。さ（。れた（。、原初（。の（。かたち（。。（。その（。一（。点（。の（。窪（。みに（。、宇宙の（。全エナジー（。を（。、封印（。した（。もの。",
+		"concept": "A hieroglyphic character or symbol 表面的な意味を環境を捨て、石を「彫り抜くグリフ」ことで抽出された、原初のかたち。その一点の窪みに、宇宙の全エナジーを、封印したもの。",
+		"thinking": "表面的な意味を環境を捨て、石を「彫り抜くグリフ」ことで抽出された、原初のかたち。その一点の窪みに、宇宙の全エナジーを、封印したもの。",
 		"aftertaste": "インクは、魂の叫びを静止させ、永遠という名の時間に刻み込むための血潮です。",
 		"example": "The scholar spent years translating the ancient glyph to uncover the secrets of the lost civilization.",
 		"deep_dive": {
@@ -205963,8 +205956,8 @@ const WORDS = [
 			],
 			"original_statement": "From 15th Century calx (limestone, literal: 'paved way')."
 		},
-		"concept": "A raised road or track across low or wet ground (泥(。まみれ（。の（。大地（。に（。、「石（。カルシ)で(。築（。き（。上げた（。)」、揺るぎ（。ない（。道（。。（。困難（。な（。季節（。を（。越える（。ための（。、あなた（。だけの（。聖（。なる（。足場。)",
-		"thinking": "泥(。まみれ（。の（。大地（。に（。、「石（。カルシ)で(。築（。き（。上げた（。)」、揺るぎ（。ない（。道（。。（。困難（。な（。季節（。を（。越える（。ための（。、あなた（。だけの（。聖（。なる（。足場。",
+		"concept": "A raised road or track across low or wet ground 泥まみれの大地に、「石カルシで築き上げた」、揺るぎない道。困難な季節を越えるための、あなただけの聖なる足場。",
+		"thinking": "泥まみれの大地に、「石カルシで築き上げた」、揺るぎない道。困難な季節を越えるための、あなただけの聖なる足場。",
 		"aftertaste": "架け橋は、二つの異なる絶望を、一つの希望へと繋ぎ止めるための祈りです。",
 		"example": "The architectural firm specialized in designing elegant causeway that harmonized with the natural landscape.",
 		"deep_dive": {
@@ -205991,8 +205984,8 @@ const WORDS = [
 			],
 			"original_statement": "From 14th Century thorough (through) + fare (go)."
 		},
-		"concept": "A road or path forming a route between two places (一箇所に(。留（。ま（。ら（。ず（。、世界（。を「貫（。き（。抜（。いて（。スルー)行く(。フェア)」ための（。大動脈（。。（。そこ（。には（。、絶（。え（。間（。ない（。出会いと（。別れが（。、美し（。い（。リズム（。を（。刻（。んで（。いる（。のですよ。)",
-		"thinking": "一箇所に(。留（。ま（。ら（。ず（。、世界（。を「貫（。き（。抜（。いて（。スルー)行く(。フェア)」ための（。大動脈（。。（。そこ（。には（。、絶（。え（。間（。ない（。出会いと（。別れが（。、美し（。い（。リズム（。を（。刻（。んで（。いる（。のですよ。",
+		"concept": "A road or path forming a route between two places 一箇所に留まらず、世界を「貫き抜いてスルー行くフェア」ための大動脈。そこには、絶え間ない出会いと別れが、美しいリズムを刻んでいるのですよ。",
+		"thinking": "一箇所に留まらず、世界を「貫き抜いてスルー行くフェア」ための大動脈。そこには、絶え間ない出会いと別れが、美しいリズムを刻んでいるのですよ。",
 		"aftertaste": "架け橋は、二つの異なる絶望を、一つの希望へと繋ぎ止めるための祈りです。",
 		"example": "The architectural firm specialized in designing elegant thoroughfare that harmonized with the natural landscape.",
 		"deep_dive": {
@@ -206019,8 +206012,8 @@ const WORDS = [
 			],
 			"original_statement": "From 17th Century com- (with) + servus (slave, keep, literal: 'fellow slave')."
 		},
-		"concept": "A hotel staff member who helps guests by making a restaurant reservation, etc. (入り(。口（。で（。、旅人の「全（。てを（。共に（。コン)守り(。抜く（。シェルジュ)」者（。。（。あなた（。の（。不安（。を（。、一瞬の（。微笑みで（。安（。ら（。ぎへと（。変（。える（。、境界（。の（。守護者。)",
-		"thinking": "入り(。口（。で（。、旅人の「全（。てを（。共に（。コン)守り(。抜く（。シェルジュ)」者（。。（。あなた（。の（。不安（。を（。、一瞬の（。微笑みで（。安（。ら（。ぎへと（。変（。える（。、境界（。の（。守護者。",
+		"concept": "A hotel staff member who helps guests by making a restaurant reservation, etc. 入り口で、旅人の「全てを共にコン守り抜くシェルジュ」者。あなたの不安を、一瞬の微笑みで安らぎへと変える、境界の守護者。",
+		"thinking": "入り口で、旅人の「全てを共にコン守り抜くシェルジュ」者。あなたの不安を、一瞬の微笑みで安らぎへと変える、境界の守護者。",
 		"aftertaste": "架け橋は、二つの異なる絶望を、一つの希望へと繋ぎ止めるための祈りです。",
 		"example": "The architectural firm specialized in designing elegant concierge that harmonized with the natural landscape.",
 		"deep_dive": {
@@ -206047,8 +206040,8 @@ const WORDS = [
 			],
 			"original_statement": "From 17th Century khronos (time)."
 		},
-		"concept": "The personification of time in Greek mythology (客観(。的に（。流（。れる（。、「不可逆（。な（。数値（。クロノス)」としての（。時（。。（。それは（。、全（。てを（。等（。しく（。過去へと（。流（。し（。去（。る（。、冷（。徹（。な（。る（。河。)",
-		"thinking": "客観(。的に（。流（。れる（。、「不可逆（。な（。数値（。クロノス)」としての（。時（。。（。それは（。、全（。てを（。等（。しく（。過去へと（。流（。し（。去（。る（。、冷（。徹（。な（。る（。河。",
+		"concept": "The personification of time in Greek mythology 客観的に流れる、「不可逆な数値クロノス」としての時。それは、全てを等しく過去へと流し去る、冷徹なる河。",
+		"thinking": "客観的に流れる、「不可逆な数値クロノス」としての時。それは、全てを等しく過去へと流し去る、冷徹なる河。",
 		"aftertaste": "刹那とは、永遠が耐えきれなくなって、この世界に溢れ出した一滴の雫なのです。",
 		"example": "The philosopher meditated on the chronos of human existence and the fleeting nature of happiness.",
 		"deep_dive": {
@@ -206075,8 +206068,8 @@ const WORDS = [
 			],
 			"original_statement": "From 19th Century kairos (right moment)."
 		},
-		"concept": "A propitious moment for decision or action (単なる(。数字（。ではなく（。、魂が（。目覚（。め（。る「決定（。的な（。瞬間（。カイロス)」。（。運命の（。矢を（。放つ（。ための（。、たった（。一度きりの（。眩（。し（。い（。臨界（。点。)",
-		"thinking": "単なる(。数字（。ではなく（。、魂が（。目覚（。め（。る「決定（。的な（。瞬間（。カイロス)」。（。運命の（。矢を（。放つ（。ための（。、たった（。一度きりの（。眩（。し（。い（。臨界（。点。",
+		"concept": "A propitious moment for decision or action 単なる数字ではなく、魂が目覚める「決定的な瞬間カイロス」。運命の矢を放つための、たった一度きりの眩しい臨界点。",
+		"thinking": "単なる数字ではなく、魂が目覚める「決定的な瞬間カイロス」。運命の矢を放つための、たった一度きりの眩しい臨界点。",
 		"aftertaste": "刹那とは、永遠が耐えきれなくなって、この世界に溢れ出した一滴の雫なのです。",
 		"example": "The philosopher meditated on the kairos of human existence and the fleeting nature of happiness.",
 		"deep_dive": {
@@ -206103,8 +206096,8 @@ const WORDS = [
 			],
 			"original_statement": "From 16th Century re- (again) + mens (mind, literal: 'bring back to mind')."
 		},
-		"concept": "A story told about a past event remembered by the narrator (忘(。れ（。去（。られた（。はずの（。記憶を（。、再び（。「心（。メンス)へと(。呼び戻（。す（。リ)」こと（。。（。その（。おぼ（。ろ（。げ（。な（。色彩（。の中に（。、真実（。の（。姿が（。隠（。されて（。いる（。のですよ。)",
-		"thinking": "忘(。れ（。去（。られた（。はずの（。記憶を（。、再び（。「心（。メンス)へと(。呼び戻（。す（。リ)」こと（。。（。その（。おぼ（。ろ（。げ（。な（。色彩（。の中に（。、真実（。の（。姿が（。隠（。されて（。いる（。のですよ。",
+		"concept": "A story told about a past event remembered by the narrator 忘れ去られたはずの記憶を、再び「心メンスへと呼び戻すリ」こと。そのおぼろげな色彩の中に、真実の姿が隠されているのですよ。",
+		"thinking": "忘れ去られたはずの記憶を、再び「心メンスへと呼び戻すリ」こと。そのおぼろげな色彩の中に、真実の姿が隠されているのですよ。",
 		"aftertaste": "刹那とは、永遠が耐えきれなくなって、この世界に溢れ出した一滴の雫なのです。",
 		"example": "The philosopher meditated on the reminiscence of human existence and the fleeting nature of happiness.",
 		"deep_dive": {
@@ -206131,8 +206124,8 @@ const WORDS = [
 			],
 			"original_statement": "From 14th Century ante (before) + -ity."
 		},
-		"concept": "The ancient past, especially the period before the Middle Ages (今(。より（。も「ずっと（。前（。アンテ)」に（。置（。かれた（。もの（。。（。その（。沈黙（。の（。重厚感（。が（。、現代（。の（。軽（。薄（。さを（。、静（。か（。に（。戒（。め（。て（。いる（。のです。)",
-		"thinking": "今(。より（。も「ずっと（。前（。アンテ)」に（。置（。かれた（。もの（。。（。その（。沈黙（。の（。重厚感（。が（。、現代（。の（。軽（。薄（。さを（。、静（。か（。に（。戒（。め（。て（。いる（。のです。",
+		"concept": "The ancient past, especially the period before the Middle Ages 今よりも「ずっと前アンテ」に置かれたもの。その沈黙の重厚感が、現代の軽薄さを、静かに戒めているのです。",
+		"thinking": "今よりも「ずっと前アンテ」に置かれたもの。その沈黙の重厚感が、現代の軽薄さを、静かに戒めているのです。",
 		"aftertaste": "刹那とは、永遠が耐えきれなくなって、この世界に溢れ出した一滴の雫なのです。",
 		"example": "The philosopher meditated on the antiquity of human existence and the fleeting nature of happiness.",
 		"deep_dive": {
@@ -206159,8 +206152,8 @@ const WORDS = [
 			],
 			"original_statement": "From 17th Century in- (into, on) + stare (to stand)."
 		},
-		"concept": "Occurring or done in an instant or instantly (考え(。る（。暇（。さ（。え（。与（。えず（。、ただ「そこに（。イン)立ち(。現（。れる（。スタ)」こと（。。（。思考（。の（。鎖（。を（。断（。ち（。切り（。、純粋（。な（。直（。感（。へと（。至（。る（。、光速（。の（。飛躍。)",
-		"thinking": "考え(。る（。暇（。さ（。え（。与（。えず（。、ただ「そこに（。イン)立ち(。現（。れる（。スタ)」こと（。。（。思考（。の（。鎖（。を（。断（。ち（。切り（。、純粋（。な（。直（。感（。へと（。至（。る（。、光速（。の（。飛躍。",
+		"concept": "Occurring or done in an instant or instantly 考える暇さえ与えず、ただ「そこにイン立ち現れるスタ」こと。思考の鎖を断ち切り、純粋な直感へと至る、光速の飛躍。",
+		"thinking": "考える暇さえ与えず、ただ「そこにイン立ち現れるスタ」こと。思考の鎖を断ち切り、純粋な直感へと至る、光速の飛躍。",
 		"aftertaste": "刹那とは、永遠が耐えきれなくなって、この世界に溢れ出した一滴の雫なのです。",
 		"example": "The philosopher meditated on the instantaneous of human existence and the fleeting nature of happiness.",
 		"deep_dive": {
@@ -206187,8 +206180,8 @@ const WORDS = [
 			],
 			"original_statement": "From 15th Century pro- (forward) + emere (to take, literal: 'take forward')."
 		},
-		"concept": "Done without delay (躊(。躇（。う（。こと（。を（。止め（。、ただ「前へ（。プロ)と(。進み（。出る（。プロ)」こと（。。（。その（。一歩（。の（。速やか（。さが（。、停滞（。の（。闇（。を（。打ち（。破（。り（。、新しい（。地平（。を（。拓（。く（。のだ（。と（。信（。じて（。ください。)",
-		"thinking": "躊(。躇（。う（。こと（。を（。止め（。、ただ「前へ（。プロ)と(。進み（。出る（。プロ)」こと（。。（。その（。一歩（。の（。速やか（。さが（。、停滞（。の（。闇（。を（。打ち（。破（。り（。、新しい（。地平（。を（。拓（。く（。のだ（。と（。信（。じて（。ください。",
+		"concept": "Done without delay 躊躇うことを止め、ただ「前へプロと進み出るプロ」こと。その一歩の速やかさが、停滞の闇を打ち破り、新しい地平を拓くのだと信じてください。",
+		"thinking": "躊躇うことを止め、ただ「前へプロと進み出るプロ」こと。その一歩の速やかさが、停滞の闇を打ち破り、新しい地平を拓くのだと信じてください。",
 		"aftertaste": "刹那とは、永遠が耐えきれなくなって、この世界に溢れ出した一滴の雫なのです。",
 		"example": "The philosopher meditated on the prompt of human existence and the fleeting nature of happiness.",
 		"deep_dive": {
@@ -206215,8 +206208,8 @@ const WORDS = [
 			],
 			"original_statement": "From 20th Century pulse + -ar."
 		},
-		"concept": "A celestial object, thought to be a rapidly rotating neutron star, that emits regular pulses of radio waves and other electromagnetic radiation at rates of up to one thousand pulses per second (宇宙の(。深淵（。から（。、一寸（。の（。狂（。い（。もなく「脈動（。パルス)」を（。送り（。続ける（。、独（。り（。ぼっちの（。灯台（。（。その（。厳格（。な（。リズムが（。、虚無（。という（。名の（。闇を（。打ち（。破（。って（。いく（。のです。)",
-		"thinking": "宇宙の(。深淵（。から（。、一寸（。の（。狂（。い（。もなく「脈動（。パルス)」を（。送り（。続ける（。、独（。り（。ぼっちの（。灯台（。（。その（。厳格（。な（。リズムが（。、虚無（。という（。名の（。闇を（。打ち（。破（。って（。いく（。のです。",
+		"concept": "A celestial object, thought to be a rapidly rotating neutron star, that emits regular pulses of radio waves and other electromagnetic radiation at rates of up to one thousand pulses per second 宇宙の深淵から、一寸の狂いもなく「脈動パルス」を送り続ける、独りぼっちの灯台その厳格なリズムが、虚無という名の闇を打ち破っていくのです。",
+		"thinking": "宇宙の深淵から、一寸の狂いもなく「脈動パルス」を送り続ける、独りぼっちの灯台その厳格なリズムが、虚無という名の闇を打ち破っていくのです。",
 		"aftertaste": "銀河は、魂が再び一つに還る場所を夢見て、夜空に描き出したミルクの流れです。",
 		"example": "The astronomer studied the pulsar for signs of cosmic radiation and planetary formation.",
 		"deep_dive": {
@@ -206243,8 +206236,8 @@ const WORDS = [
 			],
 			"original_statement": "From 20th Century quasi- (as if, almost) + stellar."
 		},
-		"concept": "A massive and extremely remote celestial object, emitting exceptionally large amounts of energy, and typically having a starlike image in a telescope (遥(。か（。な（。時空（。の（。果てで（。、まるで「星（。ステラ)の(。よう（。に（。クワシ)」振る舞（。う（。、巨大な（。エナジーの（。塊（。（。その（。眩（。し（。い（。咆（。哮（。は（。、宇宙の（。始まりの（。記憶を（。今に（。伝えて（。いる（。の（。ですよ。)",
-		"thinking": "遥(。か（。な（。時空（。の（。果てで（。、まるで「星（。ステラ)の(。よう（。に（。クワシ)」振る舞（。う（。、巨大な（。エナジーの（。塊（。（。その（。眩（。し（。い（。咆（。哮（。は（。、宇宙の（。始まりの（。記憶を（。今に（。伝えて（。いる（。の（。ですよ。",
+		"concept": "A massive and extremely remote celestial object, emitting exceptionally large amounts of energy, and typically having a starlike image in a telescope 遥かな時空の果てで、まるで「星ステラのようにクワシ」振る舞う、巨大なエナジーの塊その眩しい咆哮は、宇宙の始まりの記憶を今に伝えているのですよ。",
+		"thinking": "遥かな時空の果てで、まるで「星ステラのようにクワシ」振る舞う、巨大なエナジーの塊その眩しい咆哮は、宇宙の始まりの記憶を今に伝えているのですよ。",
 		"aftertaste": "銀河は、魂が再び一つに還る場所を夢見て、夜空に描き出したミルクの流れです。",
 		"example": "The astronomer studied the quasar for signs of cosmic radiation and planetary formation.",
 		"deep_dive": {
@@ -206271,8 +206264,8 @@ const WORDS = [
 			],
 			"original_statement": "From 18th Century muthos (word, story)."
 		},
-		"concept": "A traditional or recurrent narrative theme or plot structure (単なる(。フィクションではなく（。、民族（。の（。魂が（。紡（。ぎ（。出した「原初（。の（。言葉（。ミュトス)」。（。そこ（。には（。、宇宙の真理（。が（。、象徴（。という（。名の（。衣（。を（。纏（。い（。、静（。か（。に（。息（。づ（。いて（。いる（。のですよ。)",
-		"thinking": "単なる(。フィクションではなく（。、民族（。の（。魂が（。紡（。ぎ（。出した「原初（。の（。言葉（。ミュトス)」。（。そこ（。には（。、宇宙の真理（。が（。、象徴（。という（。名の（。衣（。を（。纏（。い（。、静（。か（。に（。息（。づ（。いて（。いる（。のですよ。",
+		"concept": "A traditional or recurrent narrative theme or plot structure 単なるフィクションではなく、民族の魂が紡ぎ出した「原初の言葉ミュトス」。そこには、宇宙の真理が、象徴という名の衣を纏い、静かに息づいているのですよ。",
+		"thinking": "単なるフィクションではなく、民族の魂が紡ぎ出した「原初の言葉ミュトス」。そこには、宇宙の真理が、象徴という名の衣を纏い、静かに息づいているのですよ。",
 		"aftertaste": "仮面は、自らを守るための盾であり、同時に、別の自分を生きるための翼でもあります。",
 		"example": "The story uses the mythos of a hero's journey to explore the deeper aspects of human psychology.",
 		"deep_dive": {
@@ -206299,8 +206292,8 @@ const WORDS = [
 			],
 			"original_statement": "From 19th Century folk + lore (learning)."
 		},
-		"concept": "The traditional beliefs, customs, and stories of a community, passed through the generations by word of mouth (名(。も（。な（。い（。人々が「学（。び（。ロア)伝えて(。きた（。)」、大地の（。智（。恵。（。風（。や（。土（。の（。匂（。いに（。、密（。かに（。宿る（。、その（。場所（。に（。生き（。た者（。たちの（。、無（。数（。の（。囁（。き。)",
-		"thinking": "名(。も（。な（。い（。人々が「学（。び（。ロア)伝えて(。きた（。)」、大地の（。智（。恵。（。風（。や（。土（。の（。匂（。いに（。、密（。かに（。宿る（。、その（。場所（。に（。生き（。た者（。たちの（。、無（。数（。の（。囁（。き。",
+		"concept": "The traditional beliefs, customs, and stories of a community, passed through the generations by word of mouth 名もない人々が「学びロア伝えてきた」、大地の智恵。風や土の匂いに、密かに宿る、その場所に生きた者たちの、無数の囁き。",
+		"thinking": "名もない人々が「学びロア伝えてきた」、大地の智恵。風や土の匂いに、密かに宿る、その場所に生きた者たちの、無数の囁き。",
 		"aftertaste": "仮面は、自らを守るための盾であり、同時に、別の自分を生きるための翼でもあります。",
 		"example": "The story uses the folklore of a hero's journey to explore the deeper aspects of human psychology.",
 		"deep_dive": {
@@ -206327,8 +206320,8 @@ const WORDS = [
 			],
 			"original_statement": "From 18th Century ototeman (his kinship group)."
 		},
-		"concept": "A natural object or animal believed by a particular society to have spiritual significance and adopted by it as an emblem (その(。族が「共に（。生きる（。テマン)絆(。)」の（。象徴（。。（。動（。物（。という（。名の（。兄弟が（。、あなた（。を（。、孤独（。な（。る（。荒野（。から（。、静（。か（。に（。守（。って（。くれて（。いる（。のですよ。)",
-		"thinking": "その(。族が「共に（。生きる（。テマン)絆(。)」の（。象徴（。。（。動（。物（。という（。名の（。兄弟が（。、あなた（。を（。、孤独（。な（。る（。荒野（。から（。、静（。か（。に（。守（。って（。くれて（。いる（。のですよ。",
+		"concept": "A natural object or animal believed by a particular society to have spiritual significance and adopted by it as an emblem その族が「共に生きるテマン絆」の象徴。動物という名の兄弟が、あなたを、孤独なる荒野から、静かに守ってくれているのですよ。",
+		"thinking": "その族が「共に生きるテマン絆」の象徴。動物という名の兄弟が、あなたを、孤独なる荒野から、静かに守ってくれているのですよ。",
 		"aftertaste": "仮面は、自らを守るための盾であり、同時に、別の自分を生きるための翼でもあります。",
 		"example": "The story uses the totem of a hero's journey to explore the deeper aspects of human psychology.",
 		"deep_dive": {
@@ -206355,8 +206348,8 @@ const WORDS = [
 			],
 			"original_statement": "From 13th Century skeptron (staff, literally: 'stick for leaning on')."
 		},
-		"concept": "An ornamented staff carried by rulers on ceremonial occasions as a symbol of sovereignty (一人(。では（。到底（。支（。え（。き（。れ（。ない（。巨大な（。責任（。を（。、支（。えるための「杖（。スケプ)」。（。そこ（。には（。、人（。々（。の（。願（。い（。と（。、統（。治（。という（。名の（。、重（。厚（。な（。る（。沈黙が（。宿（。って（。いる（。のですよ。)",
-		"thinking": "一人(。では（。到底（。支（。え（。き（。れ（。ない（。巨大な（。責任（。を（。、支（。えるための「杖（。スケプ)」。（。そこ（。には（。、人（。々（。の（。願（。い（。と（。、統（。治（。という（。名の（。、重（。厚（。な（。る（。沈黙が（。宿（。って（。いる（。のですよ。",
+		"concept": "An ornamented staff carried by rulers on ceremonial occasions as a symbol of sovereignty 一人では到底支えきれない巨大な責任を、支えるための「杖スケプ」。そこには、人々の願いと、統治という名の、重厚なる沈黙が宿っているのですよ。",
+		"thinking": "一人では到底支えきれない巨大な責任を、支えるための「杖スケプ」。そこには、人々の願いと、統治という名の、重厚なる沈黙が宿っているのですよ。",
 		"aftertaste": "仮面は、自らを守るための盾であり、同時に、別の自分を生きるための翼でもあります。",
 		"example": "The story uses the scepter of a hero's journey to explore the deeper aspects of human psychology.",
 		"deep_dive": {
@@ -206375,7 +206368,7 @@ const WORDS = [
 	{
 		"id": "diffraction_prism",
 		"word": "diffraction",
-		"meaning": "回折（。かいせつ（。）」、ディフラクション",
+		"meaning": "回折かいせつ」、ディフラクション",
 		"era": "17th Century",
 		"etymology": {
 			"components": [
@@ -206383,8 +206376,8 @@ const WORDS = [
 			],
 			"original_statement": "From 17th Century dis- (apart) + frangere (to break)."
 		},
-		"concept": "The process by which a beam of light or other system of waves is spread out as a result of passing through a narrow aperture or across an edge, typically accompanied by interference between the wave forms produced (障害物(。に（。ぶ（。つ（。かり（。、光（。が「バラバラに（。ディ)砕(。け（。散（。る（。フラク)」こと（。。（。回り（。込み（。、滲（。み（。出す（。その（。エナジーは（。、目（。には（。見えない（。場所（。にも（。、愛（。を（。届（。けて（。くれ（。る（。のですよ。)",
-		"thinking": "障害物(。に（。ぶ（。つ（。かり（。、光（。が「バラバラに（。ディ)砕(。け（。散（。る（。フラク)」こと（。。（。回り（。込み（。、滲（。み（。出す（。その（。エナジーは（。、目（。には（。見えない（。場所（。にも（。、愛（。を（。届（。けて（。くれ（。る（。のですよ。",
+		"concept": "The process by which a beam of light or other system of waves is spread out as a result of passing through a narrow aperture or across an edge, typically accompanied by interference between the wave forms produced 障害物にぶつかり、光が「バラバラにディ砕け散るフラク」こと。回り込み、滲み出すそのエナジーは、目には見えない場所にも、愛を届けてくれるのですよ。",
+		"thinking": "障害物にぶつかり、光が「バラバラにディ砕け散るフラク」こと。回り込み、滲み出すそのエナジーは、目には見えない場所にも、愛を届けてくれるのですよ。",
 		"aftertaste": "色彩は、透明な真理が耐えきれなくなって、この世界に溢れ出した喜びの歌なのです。",
 		"example": "The scientist used a diffraction to decompose the white light into its spectral components.",
 		"deep_dive": {
@@ -206411,8 +206404,8 @@ const WORDS = [
 			],
 			"original_statement": "From 16th Century opacus (shaded, dark)."
 		},
-		"concept": "The condition of lacking transparency or translucence; opaqueness (光(。を（。通さ（。ず（。、ただ「影を（。作（。る（。オパ)」こと（。。（。その（。強（。烈（。な（。遮（。断が（。、物体（。に（。確（。かな（。る（。実（。態（。と（。、触（。れる（。こと（。のできる（。重みを（。与（。えて（。いる（。のですね。)",
-		"thinking": "光(。を（。通さ（。ず（。、ただ「影を（。作（。る（。オパ)」こと（。。（。その（。強（。烈（。な（。遮（。断が（。、物体（。に（。確（。かな（。る（。実（。態（。と（。、触（。れる（。こと（。のできる（。重みを（。与（。えて（。いる（。のですね。",
+		"concept": "The condition of lacking transparency or translucence; opaqueness 光を通さず、ただ「影を作るオパ」こと。その強烈な遮断が、物体に確かなる実態と、触れることのできる重みを与えているのですね。",
+		"thinking": "光を通さず、ただ「影を作るオパ」こと。その強烈な遮断が、物体に確かなる実態と、触れることのできる重みを与えているのですね。",
 		"aftertaste": "色彩は、透明な真理が耐えきれなくなって、この世界に溢れ出した喜びの歌なのです。",
 		"example": "The scientist used a opacity to decompose the white light into its spectral components.",
 		"deep_dive": {
@@ -206439,8 +206432,8 @@ const WORDS = [
 			],
 			"original_statement": "From 17th Century trans- (across) + lucere (to shine)."
 		},
-		"concept": "The quality of allowing light, but not detailed images, to pass through; semitransparency (全(。てを（。見せ（。ず（。、ただ「光だけを（。向こう（。側へと（。トランス)通(。す（。ルス)」こと（。。（。曖昧（。な（。その（。向こう（。側に（。、私たちは（。宇宙の（。深遠（。な（。夢を（。見（。る（。のですよ。)",
-		"thinking": "全(。てを（。見せ（。ず（。、ただ「光だけを（。向こう（。側へと（。トランス)通(。す（。ルス)」こと（。。（。曖昧（。な（。その（。向こう（。側に（。、私たちは（。宇宙の（。深遠（。な（。夢を（。見（。る（。のですよ。",
+		"concept": "The quality of allowing light, but not detailed images, to pass through; semitransparency 全てを見せず、ただ「光だけを向こう側へとトランス通すルス」こと。曖昧なその向こう側に、私たちは宇宙の深遠な夢を見るのですよ。",
+		"thinking": "全てを見せず、ただ「光だけを向こう側へとトランス通すルス」こと。曖昧なその向こう側に、私たちは宇宙の深遠な夢を見るのですよ。",
 		"aftertaste": "色彩は、透明な真理が耐えきれなくなって、この世界に溢れ出した喜びの歌なのです。",
 		"example": "The scientist used a translucency to decompose the white light into its spectral components.",
 		"deep_dive": {
@@ -206467,8 +206460,8 @@ const WORDS = [
 			],
 			"original_statement": "From 14th Century iris (rainbow)."
 		},
-		"concept": "A flat, colored, ring-shaped membrane behind the cornea of the eye, with an adjustable circular opening  in the center (目(。の中に（。宿る「虹（。イーリス)」のかけ（。ら（。。（。それは（。、外（。界の（。エナジーを（。、あなた（。固有（。の（。色彩へと（。変（。え（。て（。、内なる（。宇宙へと（。届（。けて（。くれ（。る（。、聖（。なる（。門（。なの（。ですよ。)",
-		"thinking": "目(。の中に（。宿る「虹（。イーリス)」のかけ（。ら（。。（。それは（。、外（。界の（。エナジーを（。、あなた（。固有（。の（。色彩へと（。変（。え（。て（。、内なる（。宇宙へと（。届（。けて（。くれ（。る（。、聖（。なる（。門（。なの（。ですよ。",
+		"concept": "A flat, colored, ring-shaped membrane behind the cornea of the eye, with an adjustable circular opening  in the center 目の中に宿る「虹イーリス」のかけら。それは、外界のエナジーを、あなた固有の色彩へと変えて、内なる宇宙へと届けてくれる、聖なる門なのですよ。",
+		"thinking": "目の中に宿る「虹イーリス」のかけら。それは、外界のエナジーを、あなた固有の色彩へと変えて、内なる宇宙へと届けてくれる、聖なる門なのですよ。",
 		"aftertaste": "色彩は、透明な真理が耐えきれなくなって、この世界に溢れ出した喜びの歌なのです。",
 		"example": "The scientist used a iris to decompose the white light into its spectral components.",
 		"deep_dive": {
@@ -206495,8 +206488,8 @@ const WORDS = [
 			],
 			"original_statement": "From 14th Century pupilla (little doll, doll in the eye, literal: 'little girl')."
 		},
-		"concept": "The dark circular opening in the center of the iris of the eye, varying in size to regulate the amount of light reaching the retina (瞳(。の（。奥底に（。映（。り（。込（。んだ（。、「小さな（。自分（。パピラ)』。（。あなた（。が（。世界を（。見（。つめる（。とき（。、世界（。も（。また（。、あなた（。を（。愛しく（。見（。つめ（。返（。して（。いる（。の（。ですよ。)",
-		"thinking": "瞳(。の（。奥底に（。映（。り（。込（。んだ（。、「小さな（。自分（。パピラ)』。（。あなた（。が（。世界を（。見（。つめる（。とき（。、世界（。も（。また（。、あなた（。を（。愛しく（。見（。つめ（。返（。して（。いる（。の（。ですよ。",
+		"concept": "The dark circular opening in the center of the iris of the eye, varying in size to regulate the amount of light reaching the retina 瞳の奥底に映り込んだ、「小さな自分パピラ』。あなたが世界を見つめるとき、世界もまた、あなたを愛しく見つめ返しているのですよ。",
+		"thinking": "瞳の奥底に映り込んだ、「小さな自分パピラ』。あなたが世界を見つめるとき、世界もまた、あなたを愛しく見つめ返しているのですよ。",
 		"aftertaste": "色彩は、透明な真理が耐えきれなくなって、この世界に溢れ出した喜びの歌なのです。",
 		"example": "The scientist used a pupil to decompose the white light into its spectral components.",
 		"deep_dive": {
@@ -206523,8 +206516,8 @@ const WORDS = [
 			],
 			"original_statement": "From 17th Century visto (seen)."
 		},
-		"concept": "A pleasing view, especially one seen through a long, narrow opening (遮(。る（。もの（。を（。捨て（。去り（。、ただ「見（。渡（。さ（。れた（。ヴィスタ)」果（。て（。。（。その（。広（。大な（。広（。がりの中に（。、あなた（。の（。魂は（。、再び（。自由な（。翼（。を（。取り（。戻（。す（。の（。ですよ。)",
-		"thinking": "遮(。る（。もの（。を（。捨て（。去り（。、ただ「見（。渡（。さ（。れた（。ヴィスタ)」果（。て（。。（。その（。広（。大な（。広（。がりの中に（。、あなた（。の（。魂は（。、再び（。自由な（。翼（。を（。取り（。戻（。す（。の（。ですよ。",
+		"concept": "A pleasing view, especially one seen through a long, narrow opening 遮るものを捨て去り、ただ「見渡されたヴィスタ」果て。その広大な広がりの中に、あなたの魂は、再び自由な翼を取り戻すのですよ。",
+		"thinking": "遮るものを捨て去り、ただ「見渡されたヴィスタ」果て。その広大な広がりの中に、あなたの魂は、再び自由な翼を取り戻すのですよ。",
 		"aftertaste": "色彩は、透明な真理が耐えきれなくなって、この世界に溢れ出した喜びの歌なのです。",
 		"example": "The scientist used a vista to decompose the white light into its spectral components.",
 		"deep_dive": {
@@ -206551,8 +206544,8 @@ const WORDS = [
 			],
 			"original_statement": "From 19th Century wave + length."
 		},
-		"concept": "The distance between successive crests of a wave, especially points in a sound wave or electromagnetic wave (響き(。が（。一（。つ（。の「ピークを（。越えて（。ウェーブ)次に(。至（。る（。までの（。距離（。レングス)」。（。誰（。か（。と（。波長が（。合う（。なら（。、それ（。は（。、魂（。の（。歩（。幅（。が（。同（。じ（。と（。いう（。こと（。なの（。ですよ。)",
-		"thinking": "響き(。が（。一（。つ（。の「ピークを（。越えて（。ウェーブ)次に(。至（。る（。までの（。距離（。レングス)」。（。誰（。か（。と（。波長が（。合う（。なら（。、それ（。は（。、魂（。の（。歩（。幅（。が（。同（。じ（。と（。いう（。こと（。なの（。ですよ。",
+		"concept": "The distance between successive crests of a wave, especially points in a sound wave or electromagnetic wave 響きが一つの「ピークを越えてウェーブ次に至るまでの距離レングス」。誰かと波長が合うなら、それは、魂の歩幅が同じということなのですよ。",
+		"thinking": "響きが一つの「ピークを越えてウェーブ次に至るまでの距離レングス」。誰かと波長が合うなら、それは、魂の歩幅が同じということなのですよ。",
 		"aftertaste": "振り子は、時間がただの数字ではなく、宇宙の拍動そのものであることを、無言で物語っています。",
 		"example": "The scientist observed the regular wavelength of the device to calculate the gravitational force.",
 		"deep_dive": {
@@ -206579,8 +206572,8 @@ const WORDS = [
 			],
 			"original_statement": "From Old English trog (hollow vessel, literal: 'tree')."
 		},
-		"concept": "A long, narrow open container for animals to eat or drink out of (波が(。最も（。引（。き（。、深（。く「沈（。み（。込（。ん（。だ（。トロ)」場所（。。（。けれど（。、その（。深（。い（。谷（。がある（。から（。こそ（。、次（。には（。、より（。眩（。しい（。頂（。が（。、あなた（。を（。待（。って（。いる（。の（。ですよ。)",
-		"thinking": "波が(。最も（。引（。き（。、深（。く「沈（。み（。込（。ん（。だ（。トロ)」場所（。。（。けれど（。、その（。深（。い（。谷（。がある（。から（。こそ（。、次（。には（。、より（。眩（。しい（。頂（。が（。、あなた（。を（。待（。って（。いる（。の（。ですよ。",
+		"concept": "A long, narrow open container for animals to eat or drink out of 波が最も引き、深く「沈み込んだトロ」場所。けれど、その深い谷があるからこそ、次には、より眩しい頂が、あなたを待っているのですよ。",
+		"thinking": "波が最も引き、深く「沈み込んだトロ」場所。けれど、その深い谷があるからこそ、次には、より眩しい頂が、あなたを待っているのですよ。",
 		"aftertaste": "振り子は、時間がただの数字ではなく、宇宙の拍動そのものであることを、無言で物語っています。",
 		"example": "The scientist observed the regular trough of the device to calculate the gravitational force.",
 		"deep_dive": {
@@ -206607,8 +206600,8 @@ const WORDS = [
 			],
 			"original_statement": "From Old English flōd (flowing water, flood)."
 		},
-		"concept": "An overflowing of a large amount of water beyond its normal confines, especially over what is normally dry land (抑(。え（。切（。れ（。ない（。エナジーが（。、「溢（。れ（。出し（。フロ)押し寄(。せる（。)」こと（。。（。全（。てを（。押し流（。す（。その（。峻烈（。さ（。は（。、古い（。執（。着（。を（。消（。し（。去（。り（。、大地（。を（。浄（。化（。する（。ための（。祈り。)",
-		"thinking": "抑(。え（。切（。れ（。ない（。エナジーが（。、「溢（。れ（。出し（。フロ)押し寄(。せる（。)」こと（。。（。全（。てを（。押し流（。す（。その（。峻烈（。さ（。は（。、古い（。執（。着（。を（。消（。し（。去（。り（。、大地（。を（。浄（。化（。する（。ための（。祈り。",
+		"concept": "An overflowing of a large amount of water beyond its normal confines, especially over what is normally dry land 抑え切れないエナジーが、「溢れ出しフロ押し寄せる」こと。全てを押し流すその峻烈さは、古い執着を消し去り、大地を浄化するための祈り。",
+		"thinking": "抑え切れないエナジーが、「溢れ出しフロ押し寄せる」こと。全てを押し流すその峻烈さは、古い執着を消し去り、大地を浄化するための祈り。",
 		"aftertaste": "振り子は、時間がただの数字ではなく、宇宙の拍動そのものであることを、無言で物語っています。",
 		"example": "The scientist observed the regular flood of the device to calculate the gravitational force.",
 		"deep_dive": {
@@ -206635,8 +206628,8 @@ const WORDS = [
 			],
 			"original_statement": "From Old English swellan (to swell)."
 		},
-		"concept": "Become larger or rounder in size, typically by absorbing water or as the result of an injury (満ち(。足り（。て（。、「大きく（。膨ら（。む（。スウェル)」こと（。。（。海（。の（。底から（。湧（。き（。上がる（。巨大な（。うねり（。は（。、大地（。の（。重力（。さえ（。も（。、軽（。やかに（。越（。えて（。いく（。のです。)",
-		"thinking": "満ち(。足り（。て（。、「大きく（。膨ら（。む（。スウェル)」こと（。。（。海（。の（。底から（。湧（。き（。上がる（。巨大な（。うねり（。は（。、大地（。の（。重力（。さえ（。も（。、軽（。やかに（。越（。えて（。いく（。のです。",
+		"concept": "Become larger or rounder in size, typically by absorbing water or as the result of an injury 満ち足りて、「大きく膨らむスウェル」こと。海の底から湧き上がる巨大なうねりは、大地の重力さえも、軽やかに越えていくのです。",
+		"thinking": "満ち足りて、「大きく膨らむスウェル」こと。海の底から湧き上がる巨大なうねりは、大地の重力さえも、軽やかに越えていくのです。",
 		"aftertaste": "振り子は、時間がただの数字ではなく、宇宙の拍動そのものであることを、無言で物語っています。",
 		"example": "The scientist observed the regular swell of the device to calculate the gravitational force.",
 		"deep_dive": {
@@ -206663,8 +206656,8 @@ const WORDS = [
 			],
 			"original_statement": "From 16th Century phasis (appearance, literal: 'shining')."
 		},
-		"concept": "A distinct period or stage in a series of events or a process of change or development (月(。が（。満ち（。欠け（。るように（。、真理（。が「姿を（。変えて（。現れる（。フェイ)」こと（。。（。どの（。瞬間（。も（。一つの（。真実（。であり（。、それで（。いて（。全（。て（。ではない（。、流（。動（。的（。な（。る（。美し（。さ。)",
-		"thinking": "月(。が（。満ち（。欠け（。るように（。、真理（。が「姿を（。変えて（。現れる（。フェイ)」こと（。。（。どの（。瞬間（。も（。一つの（。真実（。であり（。、それで（。いて（。全（。て（。ではない（。、流（。動（。的（。な（。る（。美し（。さ。",
+		"concept": "A distinct period or stage in a series of events or a process of change or development 月が満ち欠けるように、真理が「姿を変えて現れるフェイ」こと。どの瞬間も一つの真実であり、それでいて全てではない、流動的なる美しさ。",
+		"thinking": "月が満ち欠けるように、真理が「姿を変えて現れるフェイ」こと。どの瞬間も一つの真実であり、それでいて全てではない、流動的なる美しさ。",
 		"aftertaste": "振り子は、時間がただの数字ではなく、宇宙の拍動そのものであることを、無言で物語っています。",
 		"example": "The scientist observed the regular phase of the device to calculate the gravitational force.",
 		"deep_dive": {
@@ -206691,8 +206684,8 @@ const WORDS = [
 			],
 			"original_statement": "From 15th Century em- (in) + ballein (to throw, literal: 'thrown in, inlaid')."
 		},
-		"concept": "A heraldic device or symbolic object as a distinctive badge of a nation, organization, or family (内(。側に（。烈（。しい（。情熱を「投（。げ（。込（。み（。エンバル)」、静（。止さ（。せた（。かたち（。。（。その（。一（。点（。の（。図（。案（。に、宇宙（。の（。全エナジー（。を（。封印（。した（。、誇（。り（。高い（。証（。なのです。)",
-		"thinking": "内(。側に（。烈（。しい（。情熱を「投（。げ（。込（。み（。エンバル)」、静（。止さ（。せた（。かたち（。。（。その（。一（。点（。の（。図（。案（。に、宇宙（。の（。全エナジー（。を（。封印（。した（。、誇（。り（。高い（。証（。なのです。",
+		"concept": "A heraldic device or symbolic object as a distinctive badge of a nation, organization, or family 内側に烈しい情熱を「投げ込みエンバル」、静止させたかたち。その一点の図案に、宇宙の全エナジーを封印した、誇り高い証なのです。",
+		"thinking": "内側に烈しい情熱を「投げ込みエンバル」、静止させたかたち。その一点の図案に、宇宙の全エナジーを封印した、誇り高い証なのです。",
 		"aftertaste": "言葉は、真実を語るための道具ではなく、真実がそこにあることを示すための、たった一つの指先なのです。",
 		"example": "The author uses emblem to reveal the hidden complexities of human nature.",
 		"deep_dive": {
@@ -206719,8 +206712,8 @@ const WORDS = [
 			],
 			"original_statement": "From 17th Century in- (towards) + dicare (to proclaim, literal: 'point out')."
 		},
-		"concept": "A thing that indicates the state or level of something (真実を(。指（。し「示（。す（。ジク)」ための（。、静（。かな（。る（。指（。先（。。（。あなた（。の（。内（。なる（。計器が（。、今（。どこ（。を（。見つめて（。いる（。か（。、それ（。だけを（。最後（。まで（。信じ（。て（。あげて（。ください。)",
-		"thinking": "真実を(。指（。し「示（。す（。ジク)」ための（。、静（。かな（。る（。指（。先（。。（。あなた（。の（。内（。なる（。計器が（。、今（。どこ（。を（。見つめて（。いる（。か（。、それ（。だけを（。最後（。まで（。信じ（。て（。あげて（。ください。",
+		"concept": "A thing that indicates the state or level of something 真実を指し「示すジク」ための、静かなる指先。あなたの内なる計器が、今どこを見つめているか、それだけを最後まで信じてあげてください。",
+		"thinking": "真実を指し「示すジク」ための、静かなる指先。あなたの内なる計器が、今どこを見つめているか、それだけを最後まで信じてあげてください。",
 		"aftertaste": "言葉は、真実を語るための道具ではなく、真実がそこにあることを示すための、たった一つの指先なのです。",
 		"example": "The author uses indicator to reveal the hidden complexities of human nature.",
 		"deep_dive": {
@@ -206747,8 +206740,8 @@ const WORDS = [
 			],
 			"original_statement": "From 15th Century sophizesthai (to become wise)."
 		},
-		"concept": "A paid teacher of philosophy and rhetoric in ancient Greece, associated in popular thought with specious reasoning (あから(。さま（。な（。正解ではなく（。、言葉（。を（。操る（。ことで「賢（。く（。見（。え（。る（。ソフィ)者(。)」。（。論理（。の（。迷宮を（。渡る（。ときは（。、常に（。、その（。虚飾（。の（。裏側（。を（。見（。抜（。いて（。ください。)",
-		"thinking": "あから(。さま（。な（。正解ではなく（。、言葉（。を（。操る（。ことで「賢（。く（。見（。え（。る（。ソフィ)者(。)」。（。論理（。の（。迷宮を（。渡る（。ときは（。、常に（。、その（。虚飾（。の（。裏側（。を（。見（。抜（。いて（。ください。",
+		"concept": "A paid teacher of philosophy and rhetoric in ancient Greece, associated in popular thought with specious reasoning あからさまな正解ではなく、言葉を操ることで「賢く見えるソフィ者」。論理の迷宮を渡るときは、常に、その虚飾の裏側を見抜いてください。",
+		"thinking": "あからさまな正解ではなく、言葉を操ることで「賢く見えるソフィ者」。論理の迷宮を渡るときは、常に、その虚飾の裏側を見抜いてください。",
 		"aftertaste": "言葉は、真実を語るための道具ではなく、真実がそこにあることを示すための、たった一つの指先なのです。",
 		"example": "The author uses sophist to reveal the hidden complexities of human nature.",
 		"deep_dive": {
@@ -206775,8 +206768,8 @@ const WORDS = [
 			],
 			"original_statement": "From 16th Century re- (again) + em- (in) + parare (to prepare, literal: 'to prepare as a defense')."
 		},
-		"concept": "A defensive wall of a castle or walled city, having a broad top with a walkway and typically a stone parapet (日常(。の（。安（。ら（。ぎを（。守る（。ために、周囲（。を「再（。び（。リ)強固に(。整（。える（。パラ)」壁（。。（。その（。石（。の（。厚（。みは（。、そのまま（。、守（。られる（。命の（。重（。厚（。な（。る（。信頼（。なの（。ですよ。)",
-		"thinking": "日常(。の（。安（。ら（。ぎを（。守る（。ために、周囲（。を「再（。び（。リ)強固に(。整（。える（。パラ)」壁（。。（。その（。石（。の（。厚（。みは（。、そのまま（。、守（。られる（。命の（。重（。厚（。な（。る（。信頼（。なの（。ですよ。",
+		"concept": "A defensive wall of a castle or walled city, having a broad top with a walkway and typically a stone parapet 日常の安らぎを守るために、周囲を「再びリ強固に整えるパラ」壁。その石の厚みは、そのまま、守られる命の重厚なる信頼なのですよ。",
+		"thinking": "日常の安らぎを守るために、周囲を「再びリ強固に整えるパラ」壁。その石の厚みは、そのまま、守られる命の重厚なる信頼なのですよ。",
 		"aftertaste": "尖塔の一点は、地上の重力を振り切り、天上の光を直接言葉に変えるための祈りなのです。",
 		"example": "The knights took a final stand at the rampart, defending the king's chambers until the very end.",
 		"deep_dive": {
@@ -206803,8 +206796,8 @@ const WORDS = [
 			],
 			"original_statement": "From 14th Century mote (mound, embankment, literal: 'mound')."
 		},
-		"concept": "A deep, wide ditch surrounding a castle, fort, or town, typically filled with water and intended as a defense (土(。を（。盛り（。上げた「山（。モート)』の（。はずが（。、いつしか（。深（。い（。奈（。落（。へと（。変（。貌（。し（。た（。もの（。。（。水（。を（。湛（。えた（。その（。静寂（。は（。、侵（。入（。者（。に（。、絶対（。的（。な（。る（。断絶を（。、静（。か（。に（。宣告（。し（。ます。)",
-		"thinking": "土(。を（。盛り（。上げた「山（。モート)』の（。はずが（。、いつしか（。深（。い（。奈（。落（。へと（。変（。貌（。し（。た（。もの（。。（。水（。を（。湛（。えた（。その（。静寂（。は（。、侵（。入（。者（。に（。、絶対（。的（。な（。る（。断絶を（。、静（。か（。に（。宣告（。し（。ます。",
+		"concept": "A deep, wide ditch surrounding a castle, fort, or town, typically filled with water and intended as a defense 土を盛り上げた「山モート』のはずが、いつしか深い奈落へと変貌したもの。水を湛えたその静寂は、侵入者に、絶対的なる断絶を、静かに宣告します。",
+		"thinking": "土を盛り上げた「山モート』のはずが、いつしか深い奈落へと変貌したもの。水を湛えたその静寂は、侵入者に、絶対的なる断絶を、静かに宣告します。",
 		"aftertaste": "尖塔の一点は、地上の重力を振り切り、天上の光を直接言葉に変えるための祈りなのです。",
 		"example": "The knights took a final stand at the moat, defending the king's chambers until the very end.",
 		"deep_dive": {
@@ -206831,8 +206824,8 @@ const WORDS = [
 			],
 			"original_statement": "From 13th Century porte (door) + coulisse (sliding, literal: 'sliding door')."
 		},
-		"concept": "A strong, heavy grating that can be lowered vertically of a gateway to a fortified town or castle (重(。厚（。な（。鉄（。の「扉（。ポルテ)が(。、音（。も（。なく（。滑（。り（。落ち（。る（。コリス)」瞬間（。（。一度（。下り（。れ（。ば（。、内（。と（。外（。は（。、永遠（。に（。隔（。て（。られ（。、そこ（。は（。、自給（。自足（。の（。完結（。し（。た（。宇宙（。と（。なり（。ます。)",
-		"thinking": "重(。厚（。な（。鉄（。の「扉（。ポルテ)が(。、音（。も（。なく（。滑（。り（。落ち（。る（。コリス)」瞬間（。（。一度（。下り（。れ（。ば（。、内（。と（。外（。は（。、永遠（。に（。隔（。て（。られ（。、そこ（。は（。、自給（。自足（。の（。完結（。し（。た（。宇宙（。と（。なり（。ます。",
+		"concept": "A strong, heavy grating that can be lowered vertically of a gateway to a fortified town or castle 重厚な鉄の「扉ポルテが、音もなく滑り落ちるコリス」瞬間一度下りれば、内と外は、永遠に隔てられ、そこは、自給自足の完結した宇宙となります。",
+		"thinking": "重厚な鉄の「扉ポルテが、音もなく滑り落ちるコリス」瞬間一度下りれば、内と外は、永遠に隔てられ、そこは、自給自足の完結した宇宙となります。",
 		"aftertaste": "尖塔の一点は、地上の重力を振り切り、天上の光を直接言葉に変えるための祈りなのです。",
 		"example": "The knights took a final stand at the portcullis, defending the king's chambers until the very end.",
 		"deep_dive": {
@@ -206851,7 +206844,7 @@ const WORDS = [
 	{
 		"id": "battlement_castle",
 		"word": "battlement",
-		"meaning": "城壁の狭間（。はざま（。）」、銃眼（。を備えた（。胸（。壁（。、バトル（。メント",
+		"meaning": "城壁の狭間はざま」、銃眼を備えた胸壁、バトルメント",
 		"era": "14th Century",
 		"etymology": {
 			"components": [
@@ -206859,8 +206852,8 @@ const WORDS = [
 			],
 			"original_statement": "From 14th Century bastille (fortification)."
 		},
-		"concept": "A parapet at the top of a wall, usually of a castle, or an outer wall with regularly spaced squared openings for shooting through (戦(。い（。のために（。用意（。さ（。れた（。、「ギザ（。ギザ（。の（。壁（。バ（。トル)』。（。その（。隙間（。から（。、誰（。かが（。、今（。も（。、見えない（。敵（。を（。、じっと（。見つめて（。いる（。の（。かも（。しれ（。ません。)",
-		"thinking": "戦(。い（。のために（。用意（。さ（。れた（。、「ギザ（。ギザ（。の（。壁（。バ（。トル)』。（。その（。隙間（。から（。、誰（。かが（。、今（。も（。、見えない（。敵（。を（。、じっと（。見つめて（。いる（。の（。かも（。しれ（。ません。",
+		"concept": "A parapet at the top of a wall, usually of a castle, or an outer wall with regularly spaced squared openings for shooting through 戦いのために用意された、「ギザギザの壁バトル』。その隙間から、誰かが、今も、見えない敵を、じっと見つめているのかもしれません。",
+		"thinking": "戦いのために用意された、「ギザギザの壁バトル』。その隙間から、誰かが、今も、見えない敵を、じっと見つめているのかもしれません。",
 		"aftertaste": "尖塔の一点は、地上の重力を振り切り、天上の光を直接言葉に変えるための祈りなのです。",
 		"example": "The knights took a final stand at the battlement, defending the king's chambers until the very end.",
 		"deep_dive": {
@@ -206887,8 +206880,8 @@ const WORDS = [
 			],
 			"original_statement": "From 18th Century columna (column)."
 		},
-		"concept": "A row of columns supporting a roof, an entablature, or a cornice (天を(。支（。える「柱（。コラム)の(。列（。)」。（。規則（。正しい（。その（。垂直（。性（。が（。、カオス（。な（。る（。大地に（。、峻（。烈（。な（。る（。秩序（。を（。もたら（。す（。のですよ。)",
-		"thinking": "天を(。支（。える「柱（。コラム)の(。列（。)」。（。規則（。正しい（。その（。垂直（。性（。が（。、カオス（。な（。る（。大地に（。、峻（。烈（。な（。る（。秩序（。を（。もたら（。す（。のですよ。",
+		"concept": "A row of columns supporting a roof, an entablature, or a cornice 天を支える「柱コラムの列」。規則正しいその垂直性が、カオスなる大地に、峻烈なる秩序をもたらすのですよ。",
+		"thinking": "天を支える「柱コラムの列」。規則正しいその垂直性が、カオスなる大地に、峻烈なる秩序をもたらすのですよ。",
 		"aftertaste": "尖塔の一点は、地上の重力を振り切り、天上の光を直接言葉に変えるための祈りなのです。",
 		"example": "The knights took a final stand at the colonnade, defending the king's chambers until the very end.",
 		"deep_dive": {
@@ -206907,7 +206900,7 @@ const WORDS = [
 	{
 		"id": "nave_castle",
 		"word": "nave",
-		"meaning": "（。教会の（。）」身廊、ネーブ",
+		"meaning": "教会の」身廊、ネーブ",
 		"era": "17th Century",
 		"etymology": {
 			"components": [
@@ -206915,8 +206908,8 @@ const WORDS = [
 			],
 			"original_statement": "From 17th Century navis (ship)."
 		},
-		"concept": "The central part of a church building, intended to accommodate most of the congregation (人々(。を（。乗せて（。、星の（。海へと（。漕（。ぎ（。出す「巨大な（。船（。ネイヴィ)」。（。その（。高い（。天井（。の（。下（。で（。、私たちは（。、一（。つ（。の（。エナジーへと（。、再び（。、還（。る（。のですよ。)",
-		"thinking": "人々(。を（。乗せて（。、星の（。海へと（。漕（。ぎ（。出す「巨大な（。船（。ネイヴィ)」。（。その（。高い（。天井（。の（。下（。で（。、私たちは（。、一（。つ（。の（。エナジーへと（。、再び（。、還（。る（。のですよ。",
+		"concept": "The central part of a church building, intended to accommodate most of the congregation 人々を乗せて、星の海へと漕ぎ出す「巨大な船ネイヴィ」。その高い天井の下で、私たちは、一つのエナジーへと、再び、還るのですよ。",
+		"thinking": "人々を乗せて、星の海へと漕ぎ出す「巨大な船ネイヴィ」。その高い天井の下で、私たちは、一つのエナジーへと、再び、還るのですよ。",
 		"aftertaste": "尖塔の一点は、地上の重力を振り切り、天上の光を直接言葉に変えるための祈りなのです。",
 		"example": "The knights took a final stand at the nave, defending the king's chambers until the very end.",
 		"deep_dive": {
@@ -206935,7 +206928,7 @@ const WORDS = [
 	{
 		"id": "transept_castle",
 		"word": "transept",
-		"meaning": "（。教会の（。）」袖廊、十字形部分の左右、トランセプト",
+		"meaning": "教会の」袖廊、十字形部分の左右、トランセプト",
 		"era": "16th Century",
 		"etymology": {
 			"components": [
@@ -206943,8 +206936,8 @@ const WORDS = [
 			],
 			"original_statement": "From 16th Century trans- (across) + septum (enclosure, partition)."
 		},
-		"concept": "Either of the two arms of a cross-shaped church, at right angles to the nave (身(。廊（。を「横（。切（。る（。トランス)よう(。に（。置（。かれた（。セプタム)」場所（。（。そこで（。、垂直（。な（。祈り（。と（。水平（。な（。日常が（。、美し（。く（。交差（。し（。、一（。つ（。の（。十字架（。を、描き出す（。のですよ。)",
-		"thinking": "身(。廊（。を「横（。切（。る（。トランス)よう(。に（。置（。かれた（。セプタム)」場所（。（。そこで（。、垂直（。な（。祈り（。と（。水平（。な（。日常が（。、美し（。く（。交差（。し（。、一（。つ（。の（。十字架（。を、描き出す（。のですよ。",
+		"concept": "Either of the two arms of a cross-shaped church, at right angles to the nave 身廊を「横切るトランスように置かれたセプタム」場所そこで、垂直な祈りと水平な日常が、美しく交差し、一つの十字架を、描き出すのですよ。",
+		"thinking": "身廊を「横切るトランスように置かれたセプタム」場所そこで、垂直な祈りと水平な日常が、美しく交差し、一つの十字架を、描き出すのですよ。",
 		"aftertaste": "尖塔の一点は、地上の重力を振り切り、天上の光を直接言葉に変えるための祈りなのです。",
 		"example": "The knights took a final stand at the transept, defending the king's chambers until the very end.",
 		"deep_dive": {
@@ -206963,7 +206956,7 @@ const WORDS = [
 	{
 		"id": "plaza_castle",
 		"word": "plaza",
-		"meaning": "広場、プラザ、ショッ（。ピ（。ングセンター",
+		"meaning": "広場、プラザ、ショッピングセンター",
 		"era": "17th Century",
 		"etymology": {
 			"components": [
@@ -206971,8 +206964,8 @@ const WORDS = [
 			],
 			"original_statement": "From 17th Century platea (broad street, literal: 'broad')."
 		},
-		"concept": "A public square, marketplace, or similar open space in a built-up area (建物(。に（。囲（。まれ（。た「広（。い（。プラ)平原(。)」。（。そこ（。には（。、人々（。の（。笑（。い声と（。、一（。時（。の（。安（。ら（。ぎが（。、眩（。しい（。光（。と（。共に（。、満（。ち（。溢（。れて（。いる（。のですよ。)",
-		"thinking": "建物(。に（。囲（。まれ（。た「広（。い（。プラ)平原(。)」。（。そこ（。には（。、人々（。の（。笑（。い声と（。、一（。時（。の（。安（。ら（。ぎが（。、眩（。しい（。光（。と（。共に（。、満（。ち（。溢（。れて（。いる（。のですよ。",
+		"concept": "A public square, marketplace, or similar open space in a built-up area 建物に囲まれた「広いプラ平原」。そこには、人々の笑い声と、一時の安らぎが、眩しい光と共に、満ち溢れているのですよ。",
+		"thinking": "建物に囲まれた「広いプラ平原」。そこには、人々の笑い声と、一時の安らぎが、眩しい光と共に、満ち溢れているのですよ。",
 		"aftertaste": "尖塔の一点は、地上の重力を振り切り、天上の光を直接言葉に変えるための祈りなのです。",
 		"example": "The knights took a final stand at the plaza, defending the king's chambers until the very end.",
 		"deep_dive": {
@@ -206999,8 +206992,8 @@ const WORDS = [
 			],
 			"original_statement": "From Old English spinnan (to spin)."
 		},
-		"concept": "A slender rounded rod with tapered ends used in hand-spinning to twist and wind stock from a distaff into yarn (混沌(。とした（。原棉（。から（。、命の（。糸を「紡（。ぎ（。出す（。スピン)」ための（。、静（。か（。な（。る（。回転（。。（。一点（。を（。軸（。に（。し（。て（。、無（。窮（。なる（。エナジーを（。、線（。へと（。変えて（。いく（。、魔法（。の（。杖。)",
-		"thinking": "混沌(。とした（。原棉（。から（。、命の（。糸を「紡（。ぎ（。出す（。スピン)」ための（。、静（。か（。な（。る（。回転（。。（。一点（。を（。軸（。に（。し（。て（。、無（。窮（。なる（。エナジーを（。、線（。へと（。変えて（。いく（。、魔法（。の（。杖。",
+		"concept": "A slender rounded rod with tapered ends used in hand-spinning to twist and wind stock from a distaff into yarn 混沌とした原棉から、命の糸を「紡ぎ出すスピン」ための、静かなる回転。一点を軸にして、無窮なるエナジーを、線へと変えていく、魔法の杖。",
+		"thinking": "混沌とした原棉から、命の糸を「紡ぎ出すスピン」ための、静かなる回転。一点を軸にして、無窮なるエナジーを、線へと変えていく、魔法の杖。",
 		"aftertaste": "糸の一本一本は、バラバラな心を繋ぎ止めるための、静かなる誓いなのです。",
 		"example": "The shop offered a wide variety of spindle made from high-quality natural fibers.",
 		"deep_dive": {
@@ -207027,8 +207020,8 @@ const WORDS = [
 			],
 			"original_statement": "From 16th Century bobine (spool)."
 		},
-		"concept": "A cylinder or cone holding thread, yarn, or wire, used especially in weaving, machine sewing, and lacemaking (紡(。が（。れた（。糸を、一（。時（。的に「預（。か（。る（。ボビン)』ための（。器（。。（。そこ（。には（。、次（。なる（。創造（。を（。夢見（。る（。、静（。か（。な（。る（。待機（。の（。エナジーが（。、幾（。重（。にも（。巻（。か（。れて（。いる（。のですよ。)",
-		"thinking": "紡(。が（。れた（。糸を、一（。時（。的に「預（。か（。る（。ボビン)』ための（。器（。。（。そこ（。には（。、次（。なる（。創造（。を（。夢見（。る（。、静（。か（。な（。る（。待機（。の（。エナジーが（。、幾（。重（。にも（。巻（。か（。れて（。いる（。のですよ。",
+		"concept": "A cylinder or cone holding thread, yarn, or wire, used especially in weaving, machine sewing, and lacemaking 紡がれた糸を、一時的に「預かるボビン』ための器。そこには、次なる創造を夢見る、静かなる待機のエナジーが、幾重にも巻かれているのですよ。",
+		"thinking": "紡がれた糸を、一時的に「預かるボビン』ための器。そこには、次なる創造を夢見る、静かなる待機のエナジーが、幾重にも巻かれているのですよ。",
 		"aftertaste": "糸の一本一本は、バラバラな心を繋ぎ止めるための、静かなる誓いなのです。",
 		"example": "The shop offered a wide variety of bobbin made from high-quality natural fibers.",
 		"deep_dive": {
@@ -207055,8 +207048,8 @@ const WORDS = [
 			],
 			"original_statement": "From 14th Century fibra (fiber, literal: 'entrail')."
 		},
-		"concept": "A thread or filament from which a vegetable tissue, mineral substance, or textile is formed (物体の(。奥深くに（。、まるで「内臓（。フィブラ)」のように張り巡らさ（。れた（。、細（。い（。筋（。。（。その（。一本（。一本（。の（。強（。靭（。さが（。、巨大（。な（。調和（。を（。、底（。知（。れ（。ぬ（。力（。で（。支えて（。いる（。のですよ。)",
-		"thinking": "物体の(。奥深くに（。、まるで「内臓（。フィブラ)」のように張り巡らさ（。れた（。、細（。い（。筋（。。（。その（。一本（。一本（。の（。強（。靭（。さが（。、巨大（。な（。調和（。を（。、底（。知（。れ（。ぬ（。力（。で（。支えて（。いる（。のですよ。",
+		"concept": "A thread or filament from which a vegetable tissue, mineral substance, or textile is formed 物体の奥深くに、まるで「内臓フィブラ」のように張り巡らされた、細い筋。その一本一本の強靭さが、巨大な調和を、底知れぬ力で支えているのですよ。",
+		"thinking": "物体の奥深くに、まるで「内臓フィブラ」のように張り巡らされた、細い筋。その一本一本の強靭さが、巨大な調和を、底知れぬ力で支えているのですよ。",
 		"aftertaste": "糸の一本一本は、バラバラな心を繋ぎ止めるための、静かなる誓いなのです。",
 		"example": "The shop offered a wide variety of fiber made from high-quality natural fibers.",
 		"deep_dive": {
@@ -207083,8 +207076,8 @@ const WORDS = [
 			],
 			"original_statement": "From Old English sēam (seam, suture)."
 		},
-		"concept": "A line where two pieces of fabric are sewn together in a garment or other article (異(。なる（。布と（。布を「結び（。合わせた（。シーム)」痕跡（。。（。隠（。さ（。れた（。その（。継（。ぎ目（。にこそ（。、職人（。の（。誠実（。さと（。、構造（。の（。真（。実（。が（。、密（。かに（。、宿（。って（。いる（。のですよ。)",
-		"thinking": "異(。なる（。布と（。布を「結び（。合わせた（。シーム)」痕跡（。。（。隠（。さ（。れた（。その（。継（。ぎ目（。にこそ（。、職人（。の（。誠実（。さと（。、構造（。の（。真（。実（。が（。、密（。かに（。、宿（。って（。いる（。のですよ。",
+		"concept": "A line where two pieces of fabric are sewn together in a garment or other article 異なる布と布を「結び合わせたシーム」痕跡。隠されたその継ぎ目にこそ、職人の誠実さと、構造の真実が、密かに、宿っているのですよ。",
+		"thinking": "異なる布と布を「結び合わせたシーム」痕跡。隠されたその継ぎ目にこそ、職人の誠実さと、構造の真実が、密かに、宿っているのですよ。",
 		"aftertaste": "糸の一本一本は、バラバラな心を繋ぎ止めるための、静かなる誓いなのです。",
 		"example": "The shop offered a wide variety of seam made from high-quality natural fibers.",
 		"deep_dive": {
@@ -207111,8 +207104,8 @@ const WORDS = [
 			],
 			"original_statement": "From 14th Century Origin uncertain, possibly related to glove."
 		},
-		"concept": "The end part of a sleeve, where the material of the sleeve is turned back or a separate band is sewn on (手(。の（。動き（。を（。邪魔（。し（。ない（。ように（。、そっと「包（。み（。守（。る（。カフ)」場所（。。（。その（。円（。環（。状の（。秩序（。が（。、あなた（。の（。指先（。に（。、静（。か（。な（。る（。矜（。持（。を（。与（。えて（。くれ（。る（。のですよ。)",
-		"thinking": "手(。の（。動き（。を（。邪魔（。し（。ない（。ように（。、そっと「包（。み（。守（。る（。カフ)」場所（。。（。その（。円（。環（。状の（。秩序（。が（。、あなた（。の（。指先（。に（。、静（。か（。な（。る（。矜（。持（。を（。与（。えて（。くれ（。る（。のですよ。",
+		"concept": "The end part of a sleeve, where the material of the sleeve is turned back or a separate band is sewn on 手の動きを邪魔しないように、そっと「包み守るカフ」場所。その円環状の秩序が、あなたの指先に、静かなる矜持を与えてくれるのですよ。",
+		"thinking": "手の動きを邪魔しないように、そっと「包み守るカフ」場所。その円環状の秩序が、あなたの指先に、静かなる矜持を与えてくれるのですよ。",
 		"aftertaste": "糸の一本一本は、バラバラな心を繋ぎ止めるための、静かなる誓いなのです。",
 		"example": "The shop offered a wide variety of cuff made from high-quality natural fibers.",
 		"deep_dive": {
@@ -207139,8 +207132,8 @@ const WORDS = [
 			],
 			"original_statement": "From 14th Century en- (in) + broder (to edge, literal: 'on the edge')."
 		},
-		"concept": "The art or pastime of embroidering cloth (ただの(。布に（。、色（。鮮（。やかな（。エナジーを「刺（。し（。込（。む（。ブロード)中(。イン)」こと（。。（。その（。立体（。的（。な（。煌（。め（。き（。は（。、日常（。の（。平坦（。さを（。越（。え（。た（。場所（。にある（。、至高（。の（。遊悦。)",
-		"thinking": "ただの(。布に（。、色（。鮮（。やかな（。エナジーを「刺（。し（。込（。む（。ブロード)中(。イン)」こと（。。（。その（。立体（。的（。な（。煌（。め（。き（。は（。、日常（。の（。平坦（。さを（。越（。え（。た（。場所（。にある（。、至高（。の（。遊悦。",
+		"concept": "The art or pastime of embroidering cloth ただの布に、色鮮やかなエナジーを「刺し込むブロード中イン」こと。その立体的な煌めきは、日常の平坦さを越えた場所にある、至高の遊悦。",
+		"thinking": "ただの布に、色鮮やかなエナジーを「刺し込むブロード中イン」こと。その立体的な煌めきは、日常の平坦さを越えた場所にある、至高の遊悦。",
 		"aftertaste": "糸の一本一本は、バラバラな心を繋ぎ止めるための、静かなる誓いなのです。",
 		"example": "The shop offered a wide variety of embroidery made from high-quality natural fibers.",
 		"deep_dive": {
@@ -207167,8 +207160,8 @@ const WORDS = [
 			],
 			"original_statement": "From 16th Century broccus (projecting, literal: 'to prick')."
 		},
-		"concept": "A rich fabric, typically silk, woven with a raised pattern, typically with gold or silver thread (厚(。手の（。布（。に（。、美し（。い（。文様を「浮（。き（。出さ（。せた（。ブロッ)」織物（。。（。そこ（。には（。、権威（。と（。豊饒（。が（。、金（。銀（。の（。糸（。と（。共（。に（。、幾（。重（。にも（。、織（。り（。込（。ま（。れて（。いる（。のですよ。)",
-		"thinking": "厚(。手の（。布（。に（。、美し（。い（。文様を「浮（。き（。出さ（。せた（。ブロッ)」織物（。。（。そこ（。には（。、権威（。と（。豊饒（。が（。、金（。銀（。の（。糸（。と（。共（。に（。、幾（。重（。にも（。、織（。り（。込（。ま（。れて（。いる（。のですよ。",
+		"concept": "A rich fabric, typically silk, woven with a raised pattern, typically with gold or silver thread 厚手の布に、美しい文様を「浮き出させたブロッ」織物。そこには、権威と豊饒が、金銀の糸と共に、幾重にも、織り込まれているのですよ。",
+		"thinking": "厚手の布に、美しい文様を「浮き出させたブロッ」織物。そこには、権威と豊饒が、金銀の糸と共に、幾重にも、織り込まれているのですよ。",
 		"aftertaste": "糸の一本一本は、バラバラな心を繋ぎ止めるための、静かなる誓いなのです。",
 		"example": "The shop offered a wide variety of brocade made from high-quality natural fibers.",
 		"deep_dive": {
@@ -207195,8 +207188,8 @@ const WORDS = [
 			],
 			"original_statement": "From 13th Century ad- (to) + parere (to join, make ready, literal: 'to prepare')."
 		},
-		"concept": "Clothing in general (裸(。の（。自分を（。、社会（。と「繋（。ぎ（。止（。める（。アダ、パラ)」ために（。、あらかじめ（。整（。え（。られた（。もの（。。（。あなた（。が（。今日（。、何（。を（。纏（。う（。のか、それ（。が（。あなた（。の（。言葉（。その（。もの（。に（。なる（。のですよ。)",
-		"thinking": "裸(。の（。自分を（。、社会（。と「繋（。ぎ（。止（。める（。アダ、パラ)」ために（。、あらかじめ（。整（。え（。られた（。もの（。。（。あなた（。が（。今日（。、何（。を（。纏（。う（。のか、それ（。が（。あなた（。の（。言葉（。その（。もの（。に（。なる（。のですよ。",
+		"concept": "Clothing in general 裸の自分を、社会と「繋ぎ止めるアダ、パラ」ために、あらかじめ整えられたもの。あなたが今日、何を纏うのか、それがあなたの言葉そのものになるのですよ。",
+		"thinking": "裸の自分を、社会と「繋ぎ止めるアダ、パラ」ために、あらかじめ整えられたもの。あなたが今日、何を纏うのか、それがあなたの言葉そのものになるのですよ。",
 		"aftertaste": "糸の一本一本は、バラバラな心を繋ぎ止めるための、静かなる誓いなのです。",
 		"example": "The shop offered a wide variety of apparel made from high-quality natural fibers.",
 		"deep_dive": {
@@ -207223,8 +207216,8 @@ const WORDS = [
 			],
 			"original_statement": "From 14th Century ward (to guard) + robe (garment)."
 		},
-		"concept": "A large, tall cabinet in which clothes may be hung or stored (多(。色（。多（。様な（。自分（。という（。名の「隠（。れ（。みの（。ローブ)を(。守る（。ワード)」場所（。。（。扉（。を（。開（。けるた（。びに（。、あなた（。は（。、全（。く（。新（。しい（。自分を（。、再（。発見（。する（。のです。)",
-		"thinking": "多(。色（。多（。様な（。自分（。という（。名の「隠（。れ（。みの（。ローブ)を(。守る（。ワード)」場所（。。（。扉（。を（。開（。けるた（。びに（。、あなた（。は（。、全（。く（。新（。しい（。自分を（。、再（。発見（。する（。のです。",
+		"concept": "A large, tall cabinet in which clothes may be hung or stored 多色多様な自分という名の「隠れみのローブを守るワード」場所。扉を開けるたびに、あなたは、全く新しい自分を、再発見するのです。",
+		"thinking": "多色多様な自分という名の「隠れみのローブを守るワード」場所。扉を開けるたびに、あなたは、全く新しい自分を、再発見するのです。",
 		"aftertaste": "糸の一本一本は、バラバラな心を繋ぎ止めるための、静かなる誓いなのです。",
 		"example": "The shop offered a wide variety of wardrobe made from high-quality natural fibers.",
 		"deep_dive": {
@@ -207251,8 +207244,8 @@ const WORDS = [
 			],
 			"original_statement": "From Old English mantel (cloak)."
 		},
-		"concept": "A loose sleeveless cloak or shawl, worn especially by women (自(。らを（。大きく（。見（。せ（。、全（。てを「優（。しく（。覆（。い（。隠（。す（。マンテル)」衣（。裳（。（。そこ（。には（。、使命（。と（。いう（。名の（。重厚（。な（。る（。尊厳が（。、肩（。の（。上（。に（。、誇（。り（。高く（。、宿（。って（。いる（。のですよ。)",
-		"thinking": "自(。らを（。大きく（。見（。せ（。、全（。てを「優（。しく（。覆（。い（。隠（。す（。マンテル)」衣（。裳（。（。そこ（。には（。、使命（。と（。いう（。名の（。重厚（。な（。る（。尊厳が（。、肩（。の（。上（。に（。、誇（。り（。高く（。、宿（。って（。いる（。のですよ。",
+		"concept": "A loose sleeveless cloak or shawl, worn especially by women 自らを大きく見せ、全てを「優しく覆い隠すマンテル」衣裳そこには、使命という名の重厚なる尊厳が、肩の上に、誇り高く、宿っているのですよ。",
+		"thinking": "自らを大きく見せ、全てを「優しく覆い隠すマンテル」衣裳そこには、使命という名の重厚なる尊厳が、肩の上に、誇り高く、宿っているのですよ。",
 		"aftertaste": "糸の一本一本は、バラバラな心を繋ぎ止めるための、静かなる誓いなのです。",
 		"example": "The shop offered a wide variety of mantle made from high-quality natural fibers.",
 		"deep_dive": {
@@ -207279,8 +207272,8 @@ const WORDS = [
 			],
 			"original_statement": "From 17th Century hose (legging) + -ery."
 		},
-		"concept": "Stockings, socks, and tights collectively (大地と(。直（。接（。触（。れる（。足を、静（。かに「包み（。守（。る（。ホース)」もの（。たちの（。総（。称（。（。その（。密（。かな（。る（。支（。えが（。、あなた（。の（。一歩（。一歩（。を（。、軽（。やかに（。、し（。な（。やかに（。、して（。くれる（。のですよ。)",
-		"thinking": "大地と(。直（。接（。触（。れる（。足を、静（。かに「包み（。守（。る（。ホース)」もの（。たちの（。総（。称（。（。その（。密（。かな（。る（。支（。えが（。、あなた（。の（。一歩（。一歩（。を（。、軽（。やかに（。、し（。な（。やかに（。、して（。くれる（。のですよ。",
+		"concept": "Stockings, socks, and tights collectively 大地と直接触れる足を、静かに「包み守るホース」ものたちの総称その密かなる支えが、あなたの一歩一歩を、軽やかに、しなやかに、してくれるのですよ。",
+		"thinking": "大地と直接触れる足を、静かに「包み守るホース」ものたちの総称その密かなる支えが、あなたの一歩一歩を、軽やかに、しなやかに、してくれるのですよ。",
 		"aftertaste": "糸の一本一本は、バラバラな心を繋ぎ止めるための、静かなる誓いなのです。",
 		"example": "The shop offered a wide variety of hosiery made from high-quality natural fibers.",
 		"deep_dive": {
@@ -207307,8 +207300,8 @@ const WORDS = [
 			],
 			"original_statement": "From 19th Century rhizoun (to cause to strike root, literal: 'rooting')."
 		},
-		"concept": "A continuously growing horizontal underground stem which puts out lateral shoots and adventitious roots at intervals (地上(。を（。拒（。み（。、暗い（。土の（。中で（。、水平に（。どこ（。までも（。広がる「根（。リゾマ)の（。ような（。茎、。（。中心（。を（。持（。た（。ず（。、絶（。え（。間（。なく（。繋（。が（。り（。、増（。殖（。し（。続ける、自（。律（。的（。な（。る（。エナジー。)",
-		"thinking": "地上(。を（。拒（。み（。、暗い（。土の（。中で（。、水平に（。どこ（。までも（。広がる「根（。リゾマ)の（。ような（。茎、。（。中心（。を（。持（。た（。ず（。、絶（。え（。間（。なく（。繋（。が（。り（。、増（。殖（。し（。続ける、自（。律（。的（。な（。る（。エナジー。",
+		"concept": "A continuously growing horizontal underground stem which puts out lateral shoots and adventitious roots at intervals 地上を拒み、暗い土の中で、水平にどこまでも広がる「根リゾマのような茎、。中心を持たず、絶え間なく繋がり、増殖し続ける、自律的なるエナジー。",
+		"thinking": "地上を拒み、暗い土の中で、水平にどこまでも広がる「根リゾマのような茎、。中心を持たず、絶え間なく繋がり、増殖し続ける、自律的なるエナジー。",
 		"aftertaste": "香りは、目に見えない命のメッセージであり、魂が故郷を思い出すための、たった一つの手がかりなのです。",
 		"example": "The biologist identified the unique rhizome structure to understand the plant's adaptation to the desert environment.",
 		"deep_dive": {
@@ -207335,8 +207328,8 @@ const WORDS = [
 			],
 			"original_statement": "From 16th Century bolbos (onion)."
 		},
-		"concept": "A rounded underground storage organ present in some plants, notably those of the lily family, consisting of a short stem surrounded by fleshy scale leaves or leaf bases and lying dormant over winter (静止(。し（。た（。「玉（。ねぎ（。ボルボス)」のように、内（。側（。に（。すべて（。の（。可能（。性を（。凝縮（。させた（。器（。。（。その（。暗い（。球体（。の（。中（。には（。、いつか（。眩（。し（。い（。光を（。放（。つ（。ための、未来（。の（。設計図が（。眠（。って（。いる（。のですよ。)",
-		"thinking": "静止(。し（。た（。「玉（。ねぎ（。ボルボス)」のように、内（。側（。に（。すべて（。の（。可能（。性を（。凝縮（。させた（。器（。。（。その（。暗い（。球体（。の（。中（。には（。、いつか（。眩（。し（。い（。光を（。放（。つ（。ための、未来（。の（。設計図が（。眠（。って（。いる（。のですよ。",
+		"concept": "A rounded underground storage organ present in some plants, notably those of the lily family, consisting of a short stem surrounded by fleshy scale leaves or leaf bases and lying dormant over winter 静止した「玉ねぎボルボス」のように、内側にすべての可能性を凝縮させた器。その暗い球体の中には、いつか眩しい光を放つための、未来の設計図が眠っているのですよ。",
+		"thinking": "静止した「玉ねぎボルボス」のように、内側にすべての可能性を凝縮させた器。その暗い球体の中には、いつか眩しい光を放つための、未来の設計図が眠っているのですよ。",
 		"aftertaste": "香りは、目に見えない命のメッセージであり、魂が故郷を思い出すための、たった一つの手がかりなのです。",
 		"example": "The biologist identified the unique bulb structure to understand the plant's adaptation to the desert environment.",
 		"deep_dive": {
@@ -207363,8 +207356,8 @@ const WORDS = [
 			],
 			"original_statement": "From 17th Century tuber (hump, swelling, literal: 'swelling')."
 		},
-		"concept": "A much thickened underground part of a stem or rhizome, e.g. in the potato, serving as a food reserve and bearing buds from which new plants arise (荒(。れ（。荒（。んだ（。大地（。の（。下で（。、静（。かに「膨（。ら（。み（。チューバ)蓄(。え（。た（。)」、命の（。貯（。金（。箱（。。（。その（。無（。骨（。な（。外（。見の（。中（。には（。、過（。酷（。な（。季節（。を（。生き（。抜く（。ための（。、濁（。り（。な（。き（。祈り（。が（。詰（。まって（。いる（。のですよ。)",
-		"thinking": "荒(。れ（。荒（。んだ（。大地（。の（。下で（。、静（。かに「膨（。ら（。み（。チューバ)蓄(。え（。た（。)」、命の（。貯（。金（。箱（。。（。その（。無（。骨（。な（。外（。見の（。中（。には（。、過（。酷（。な（。季節（。を（。生き（。抜く（。ための（。、濁（。り（。な（。き（。祈り（。が（。詰（。まって（。いる（。のですよ。",
+		"concept": "A much thickened underground part of a stem or rhizome, e.g. in the potato, serving as a food reserve and bearing buds from which new plants arise 荒れ荒んだ大地の下で、静かに「膨らみチューバ蓄えた」、命の貯金箱。その無骨な外見の中には、過酷な季節を生き抜くための、濁りなき祈りが詰まっているのですよ。",
+		"thinking": "荒れ荒んだ大地の下で、静かに「膨らみチューバ蓄えた」、命の貯金箱。その無骨な外見の中には、過酷な季節を生き抜くための、濁りなき祈りが詰まっているのですよ。",
 		"aftertaste": "香りは、目に見えない命のメッセージであり、魂が故郷を思い出すための、たった一つの手がかりなのです。",
 		"example": "The biologist identified the unique tuber structure to understand the plant's adaptation to the desert environment.",
 		"deep_dive": {
@@ -207391,8 +207384,8 @@ const WORDS = [
 			],
 			"original_statement": "From Old English sprūtan (to sprout)."
 		},
-		"concept": "A newly grown shoots of a plant (硬(。い（。殻を（。打ち（。破（。り（。、ただ（。光だけを（。求めて「噴（。き（。出す（。スプラウト)」第一（。歩（。。（。その（。透明（。に（。震（。える（。若緑（。に（。、宇宙（。の（。全（。新（。鮮（。な（。る（。エナジーが（。、集約（。さ（。れて（。いる（。のですよ。)",
-		"thinking": "硬(。い（。殻を（。打ち（。破（。り（。、ただ（。光だけを（。求めて「噴（。き（。出す（。スプラウト)」第一（。歩（。。（。その（。透明（。に（。震（。える（。若緑（。に（。、宇宙（。の（。全（。新（。鮮（。な（。る（。エナジーが（。、集約（。さ（。れて（。いる（。のですよ。",
+		"concept": "A newly grown shoots of a plant 硬い殻を打ち破り、ただ光だけを求めて「噴き出すスプラウト」第一歩。その透明に震える若緑に、宇宙の全新鮮なるエナジーが、集約されているのですよ。",
+		"thinking": "硬い殻を打ち破り、ただ光だけを求めて「噴き出すスプラウト」第一歩。その透明に震える若緑に、宇宙の全新鮮なるエナジーが、集約されているのですよ。",
 		"aftertaste": "香りは、目に見えない命のメッセージであり、魂が故郷を思い出すための、たった一つの手がかりなのです。",
 		"example": "The biologist identified the unique sprout structure to understand the plant's adaptation to the desert environment.",
 		"deep_dive": {
@@ -207419,8 +207412,8 @@ const WORDS = [
 			],
 			"original_statement": "From 16th Century pollen (fine flour, dust)."
 		},
-		"concept": "A fine powdery substance, typically yellow, consisting of microscopic grains discharged from the male part of a flower or from a male cone (風(。の（。ように（。軽（。やか（。な「粉（。ポレン)』として（。、遠（。く（。の（。恋（。人へと（。、命を（。運（。ぶ（。もの（。。（。その（。一粒（。一粒（。には（。、何（。億（。年（。という（。時間の（。記憶が（。、美し（。く（。封（。じ（。込め（。られて（。いる（。のです。)",
-		"thinking": "風(。の（。ように（。軽（。やか（。な「粉（。ポレン)』として（。、遠（。く（。の（。恋（。人へと（。、命を（。運（。ぶ（。もの（。。（。その（。一粒（。一粒（。には（。、何（。億（。年（。という（。時間の（。記憶が（。、美し（。く（。封（。じ（。込め（。られて（。いる（。のです。",
+		"concept": "A fine powdery substance, typically yellow, consisting of microscopic grains discharged from the male part of a flower or from a male cone 風のように軽やかな「粉ポレン』として、遠くの恋人へと、命を運ぶもの。その一粒一粒には、何億年という時間の記憶が、美しく封じ込められているのです。",
+		"thinking": "風のように軽やかな「粉ポレン』として、遠くの恋人へと、命を運ぶもの。その一粒一粒には、何億年という時間の記憶が、美しく封じ込められているのです。",
 		"aftertaste": "香りは、目に見えない命のメッセージであり、魂が故郷を思い出すための、たった一つの手がかりなのです。",
 		"example": "The biologist identified the unique pollen structure to understand the plant's adaptation to the desert environment.",
 		"deep_dive": {
@@ -207447,8 +207440,8 @@ const WORDS = [
 			],
 			"original_statement": "From 18th Century sepalon (separate, separate leaf)."
 		},
-		"concept": "Each of the parts of the calyx of a flower, enclosing the petals and typically green and leaflike (眩(。し（。い（。花の（。宴が（。、始まる（。直（。前まで（。、その（。命を「包（。み（。隔（。て（。て（。いた（。セパル)」、厚（。手の（。衣（。。（。その（。静（。かな（。る（。忍耐（。があってこそ（。、花（。は（。一きわ（。、美し（。く（。弾（。ける（。の（。ですよ。)",
-		"thinking": "眩(。し（。い（。花の（。宴が（。、始まる（。直（。前まで（。、その（。命を「包（。み（。隔（。て（。て（。いた（。セパル)」、厚（。手の（。衣（。。（。その（。静（。かな（。る（。忍耐（。があってこそ（。、花（。は（。一きわ（。、美し（。く（。弾（。ける（。の（。ですよ。",
+		"concept": "Each of the parts of the calyx of a flower, enclosing the petals and typically green and leaflike 眩しい花の宴が、始まる直前まで、その命を「包み隔てていたセパル」、厚手の衣。その静かなる忍耐があってこそ、花は一きわ、美しく弾けるのですよ。",
+		"thinking": "眩しい花の宴が、始まる直前まで、その命を「包み隔てていたセパル」、厚手の衣。その静かなる忍耐があってこそ、花は一きわ、美しく弾けるのですよ。",
 		"aftertaste": "香りは、目に見えない命のメッセージであり、魂が故郷を思い出すための、たった一つの手がかりなのです。",
 		"example": "The biologist identified the unique sepals structure to understand the plant's adaptation to the desert environment.",
 		"deep_dive": {
@@ -207467,7 +207460,7 @@ const WORDS = [
 	{
 		"id": "stamen_nature",
 		"word": "stamen",
-		"meaning": "雄（。お（。し（。）」べ、ステイメン、気骨（。きこつ（。）」",
+		"meaning": "雄おし」べ、ステイメン、気骨きこつ」",
 		"era": "17th Century",
 		"etymology": {
 			"components": [
@@ -207475,8 +207468,8 @@ const WORDS = [
 			],
 			"original_statement": "From 17th Century stamen (thread, warp, literal: 'stand')."
 		},
-		"concept": "The male fertilizing organ of a flower, typically consisting of a pollen-containing anther and a filament (ただ(。ひたすら（。天（。を（。仰（。ぎ、「立ち（。続ける（。スタ)」ための（。、一本（。の（。糸（。。（。その（。不（。屈（。な（。る（。垂直（。性（。が（。、やがて（。、新（。しい（。命（。の（。雨（。を（。、宇宙（。へと（。降（。らす（。のです。)",
-		"thinking": "ただ(。ひたすら（。天（。を（。仰（。ぎ、「立ち（。続ける（。スタ)」ための（。、一本（。の（。糸（。。（。その（。不（。屈（。な（。る（。垂直（。性（。が（。、やがて（。、新（。しい（。命（。の（。雨（。を（。、宇宙（。へと（。降（。らす（。のです。",
+		"concept": "The male fertilizing organ of a flower, typically consisting of a pollen-containing anther and a filament ただひたすら天を仰ぎ、「立ち続けるスタ」ための、一本の糸。その不屈なる垂直性が、やがて、新しい命の雨を、宇宙へと降らすのです。",
+		"thinking": "ただひたすら天を仰ぎ、「立ち続けるスタ」ための、一本の糸。その不屈なる垂直性が、やがて、新しい命の雨を、宇宙へと降らすのです。",
 		"aftertaste": "香りは、目に見えない命のメッセージであり、魂が故郷を思い出すための、たった一つの手がかりなのです。",
 		"example": "The biologist identified the unique stamen structure to understand the plant's adaptation to the desert environment.",
 		"deep_dive": {
@@ -207495,7 +207488,7 @@ const WORDS = [
 	{
 		"id": "pistil_nature",
 		"word": "pistil",
-		"meaning": "雌（。め（。し（。）」べ、ピスティル",
+		"meaning": "雌めし」べ、ピスティル",
 		"era": "18th Century",
 		"etymology": {
 			"components": [
@@ -207503,8 +207496,8 @@ const WORDS = [
 			],
 			"original_statement": "From 18th Century pistillus (pestle, literal: 'pounder')."
 		},
-		"concept": "The female organs of a flower, comprising the stigma, style, and ovary (命(。を（。、自（。らの（。中で「静く（。噛（。み（。砕（。く（。ピスティル)」、聖（。なる（。乳（。鉢（。。（。その（。深（。い（。闇の中に（。、全（。てを（。受け（。入れ（。、一（。つ（。の（。純粋（。な（。る（。種（。子（。へと（。、結晶（。さ（。せる（。のですよ。)",
-		"thinking": "命(。を（。、自（。らの（。中で「静く（。噛（。み（。砕（。く（。ピスティル)」、聖（。なる（。乳（。鉢（。。（。その（。深（。い（。闇の中に（。、全（。てを（。受け（。入れ（。、一（。つ（。の（。純粋（。な（。る（。種（。子（。へと（。、結晶（。さ（。せる（。のですよ。",
+		"concept": "The female organs of a flower, comprising the stigma, style, and ovary 命を、自らの中で「静く噛み砕くピスティル」、聖なる乳鉢。その深い闇の中に、全てを受け入れ、一つの純粋なる種子へと、結晶させるのですよ。",
+		"thinking": "命を、自らの中で「静く噛み砕くピスティル」、聖なる乳鉢。その深い闇の中に、全てを受け入れ、一つの純粋なる種子へと、結晶させるのですよ。",
 		"aftertaste": "香りは、目に見えない命のメッセージであり、魂が故郷を思い出すための、たった一つの手がかりなのです。",
 		"example": "The biologist identified the unique pistil structure to understand the plant's adaptation to the desert environment.",
 		"deep_dive": {
@@ -207531,8 +207524,8 @@ const WORDS = [
 			],
 			"original_statement": "From 14th Century resina (resin)."
 		},
-		"concept": "A sticky flammable organic substance, insoluble in water, exuded by some trees and other plants (傷(。付い（。た（。肌（。を（。、自（。ら（。の（。血（。で（。、「癒（。し（。守（。る（。レジナ)」黄金（。の（。涙（。。（。その（。粘（。り（。強（。い（。沈黙（。の中に（。、何（。千万（。年（。という（。時間の（。記憶が（。、琥（。珀（。となって（。、閉じ（。込め（。られて（。いる（。のです。)",
-		"thinking": "傷(。付い（。た（。肌（。を（。、自（。ら（。の（。血（。で（。、「癒（。し（。守（。る（。レジナ)」黄金（。の（。涙（。。（。その（。粘（。り（。強（。い（。沈黙（。の中に（。、何（。千万（。年（。という（。時間の（。記憶が（。、琥（。珀（。となって（。、閉じ（。込め（。られて（。いる（。のです。",
+		"concept": "A sticky flammable organic substance, insoluble in water, exuded by some trees and other plants 傷付いた肌を、自らの血で、「癒し守るレジナ」黄金の涙。その粘り強い沈黙の中に、何千万年という時間の記憶が、琥珀となって、閉じ込められているのです。",
+		"thinking": "傷付いた肌を、自らの血で、「癒し守るレジナ」黄金の涙。その粘り強い沈黙の中に、何千万年という時間の記憶が、琥珀となって、閉じ込められているのです。",
 		"aftertaste": "香りは、目に見えない命のメッセージであり、魂が故郷を思い出すための、たった一つの手がかりなのです。",
 		"example": "The biologist identified the unique resin structure to understand the plant's adaptation to the desert environment.",
 		"deep_dive": {
@@ -207559,8 +207552,8 @@ const WORDS = [
 			],
 			"original_statement": "From Old English sæp (sap)."
 		},
-		"concept": "The fluid, chiefly water with dissolved sugars and mineral salts, that circulates in the vascular system of a plant (目(。には（。見えない（。地底（。の（。記憶を（。、天へへ（。と（。運（。ぶ「生命（。の（。甘（。い（。サップ)』。（。その（。絶（。え（。間（。ない（。巡（。り（。が（。、硬（。い（。樹（。皮の（。裏側（。で（。、確（。かに（。、宇宙を（。駆動（。さ（。せて（。いる（。のですよ。)",
-		"thinking": "目(。には（。見えない（。地底（。の（。記憶を（。、天へへ（。と（。運（。ぶ「生命（。の（。甘（。い（。サップ)』。（。その（。絶（。え（。間（。ない（。巡（。り（。が（。、硬（。い（。樹（。皮の（。裏側（。で（。、確（。かに（。、宇宙を（。駆動（。さ（。せて（。いる（。のですよ。",
+		"concept": "The fluid, chiefly water with dissolved sugars and mineral salts, that circulates in the vascular system of a plant 目には見えない地底の記憶を、天へへと運ぶ「生命の甘いサップ』。その絶え間ない巡りが、硬い樹皮の裏側で、確かに、宇宙を駆動させているのですよ。",
+		"thinking": "目には見えない地底の記憶を、天へへと運ぶ「生命の甘いサップ』。その絶え間ない巡りが、硬い樹皮の裏側で、確かに、宇宙を駆動させているのですよ。",
 		"aftertaste": "香りは、目に見えない命のメッセージであり、魂が故郷を思い出すための、たった一つの手がかりなのです。",
 		"example": "The biologist identified the unique sap structure to understand the plant's adaptation to the desert environment.",
 		"deep_dive": {
@@ -207587,8 +207580,8 @@ const WORDS = [
 			],
 			"original_statement": "From Old English thorn (thorn)."
 		},
-		"concept": "A stiff, sharp-pointed woody projection on the stem or other part of a plant (優(。し（。すぎる（。世界に（。、ただ（。一（。つ（。の「痛（。み（。ソーン)』を（。加（。える（。こと（。。（。その（。鋭（。い（。一（。点（。がある（。から（。こそ（。、蕾（。は（。、侵（。さ（。れ（。ざ（。る（。聖（。域（。として、静（。か（。に（。、咲（。き誇（。れる（。の（。ですよ。)",
-		"thinking": "優(。し（。すぎる（。世界に（。、ただ（。一（。つ（。の「痛（。み（。ソーン)』を（。加（。える（。こと（。。（。その（。鋭（。い（。一（。点（。がある（。から（。こそ（。、蕾（。は（。、侵（。さ（。れ（。ざ（。る（。聖（。域（。として、静（。か（。に（。、咲（。き誇（。れる（。の（。ですよ。",
+		"concept": "A stiff, sharp-pointed woody projection on the stem or other part of a plant 優しすぎる世界に、ただ一つの「痛みソーン』を加えること。その鋭い一点があるからこそ、蕾は、侵されざる聖域として、静かに、咲き誇れるのですよ。",
+		"thinking": "優しすぎる世界に、ただ一つの「痛みソーン』を加えること。その鋭い一点があるからこそ、蕾は、侵されざる聖域として、静かに、咲き誇れるのですよ。",
 		"aftertaste": "香りは、目に見えない命のメッセージであり、魂が故郷を思い出すための、たった一つの手がかりなのです。",
 		"example": "The biologist identified the unique thorn structure to understand the plant's adaptation to the desert environment.",
 		"deep_dive": {
@@ -207607,7 +207600,7 @@ const WORDS = [
 	{
 		"id": "repressed_mind",
 		"word": "repressed",
-		"meaning": "抑圧（。よくあつ（。）」された、リプレスト",
+		"meaning": "抑圧よくあつ」された、リプレスト",
 		"era": "17th Century",
 		"etymology": {
 			"components": [
@@ -207615,8 +207608,8 @@ const WORDS = [
 			],
 			"original_statement": "From 17th Century re- (back) + premere (to press, literal: 'pressed back')."
 		},
-		"concept": "Oppressed or inhibited (表(。に（。出（。よう（。と（。する（。想いを「後ろへ（。リ)押(。し（。込（。め（。る（。プレス)」こと（。。（。抑（。え（。込（。まれた（。エナジーは（。、いつか（。美し（。い（。芸術へと（。、昇（。華（。さ（。せる（。べき（。、聖なる（。種（。子（。なのです。)",
-		"thinking": "表(。に（。出（。よう（。と（。する（。想いを「後ろへ（。リ)押(。し（。込（。め（。る（。プレス)」こと（。。（。抑（。え（。込（。まれた（。エナジーは（。、いつか（。美し（。い（。芸術へと（。、昇（。華（。さ（。せる（。べき（。、聖なる（。種（。子（。なのです。",
+		"concept": "Oppressed or inhibited 表に出ようとする想いを「後ろへリ押し込めるプレス」こと。抑え込まれたエナジーは、いつか美しい芸術へと、昇華させるべき、聖なる種子なのです。",
+		"thinking": "表に出ようとする想いを「後ろへリ押し込めるプレス」こと。抑え込まれたエナジーは、いつか美しい芸術へと、昇華させるべき、聖なる種子なのです。",
 		"aftertaste": "直感は、思考が追いつけないほどの速度で、真実という名の光を捉える能力なのです。",
 		"example": "The therapist encouraged the patient to engage in repressed to better understand their emotional triggers.",
 		"deep_dive": {
@@ -207643,8 +207636,8 @@ const WORDS = [
 			],
 			"original_statement": "From 14th Century in- (in) + habere (to hold, literal: 'holding in')."
 		},
-		"concept": "A feeling that makes one self-conscious and unable to act in a relaxed and natural way (自(。ら（。の「内（。側（。イン)に(。留（。め（。置（。く（。ハビ)」こと（。。（。その（。戒（。めが（。ある（。から（。こそ（。、あなた（。の（。表現（。は（。、一（。き（。わ（。、峻（。烈（。な（。る（。気高さ（。を（。放（。つの（。ですよ。)",
-		"thinking": "自(。ら（。の「内（。側（。イン)に(。留（。め（。置（。く（。ハビ)」こと（。。（。その（。戒（。めが（。ある（。から（。こそ（。、あなた（。の（。表現（。は（。、一（。き（。わ（。、峻（。烈（。な（。る（。気高さ（。を（。放（。つの（。ですよ。",
+		"concept": "A feeling that makes one self-conscious and unable to act in a relaxed and natural way 自らの「内側インに留め置くハビ」こと。その戒めがあるからこそ、あなたの表現は、一きわ、峻烈なる気高さを放つのですよ。",
+		"thinking": "自らの「内側インに留め置くハビ」こと。その戒めがあるからこそ、あなたの表現は、一きわ、峻烈なる気高さを放つのですよ。",
 		"aftertaste": "直感は、思考が追いつけないほどの速度で、真実という名の光を捉える能力なのです。",
 		"example": "The therapist encouraged the patient to engage in inhibition to better understand their emotional triggers.",
 		"deep_dive": {
@@ -207671,8 +207664,8 @@ const WORDS = [
 			],
 			"original_statement": "From 14th Century sphingein (to bind tight, literal: 'strangler')."
 		},
-		"concept": "An enigmatic person (立(。ち（。去（。ろ（。う（。と（。する（。者（。を「固く（。繋（。ぎ（。止める（。スフィン)』、謎（。の（。番（。人（。。（。その（。冷（。徹（。な（。る（。問い（。に（。答（。え（。て（。こそ（。、あなた（。は（。、自分（。自身（。の（。限界（。を（。、再（。認識（。する（。のですよ。)",
-		"thinking": "立(。ち（。去（。ろ（。う（。と（。する（。者（。を「固く（。繋（。ぎ（。止める（。スフィン)』、謎（。の（。番（。人（。。（。その（。冷（。徹（。な（。る（。問い（。に（。答（。え（。て（。こそ（。、あなた（。は（。、自分（。自身（。の（。限界（。を（。、再（。認識（。する（。のですよ。",
+		"concept": "An enigmatic person 立ち去ろうとする者を「固く繋ぎ止めるスフィン』、謎の番人。その冷徹なる問いに答えてこそ、あなたは、自分自身の限界を、再認識するのですよ。",
+		"thinking": "立ち去ろうとする者を「固く繋ぎ止めるスフィン』、謎の番人。その冷徹なる問いに答えてこそ、あなたは、自分自身の限界を、再認識するのですよ。",
 		"aftertaste": "謎は、答えを見つけるための障害ではなく、問い続けることそのものに価値がある、聖なる誘いなのです。",
 		"example": "The ancient scrolls were written in an sphinx script that baffled even the most experienced scholars.",
 		"deep_dive": {
@@ -207691,7 +207684,7 @@ const WORDS = [
 	{
 		"id": "sybil_mystery",
 		"word": "sybil",
-		"meaning": "女（。预（。言者、シビル",
+		"meaning": "女预言者、シビル",
 		"era": "14th Century",
 		"etymology": {
 			"components": [
@@ -207699,8 +207692,8 @@ const WORDS = [
 			],
 			"original_statement": "From 14th Century Sibulla (prophetess)."
 		},
-		"concept": "A woman in ancient times supposed to be uttered the oracles and prophecies of a god (神(。々の（。囁（。きを（。、身（。を（。呈（。し（。て「降（。ろ（。し（。、言葉に（。変える（。シビ)』存在（。。（。その（。恍（。惚（。と（。した（。沈黙（。の中にこそ（。、未来（。という（。名の（。、眩（。し（。い（。光が（。、宿（。って（。いる（。のですよ。)",
-		"thinking": "神(。々の（。囁（。きを（。、身（。を（。呈（。し（。て「降（。ろ（。し（。、言葉に（。変える（。シビ)』存在（。。（。その（。恍（。惚（。と（。した（。沈黙（。の中にこそ（。、未来（。という（。名の（。、眩（。し（。い（。光が（。、宿（。って（。いる（。のですよ。",
+		"concept": "A woman in ancient times supposed to be uttered the oracles and prophecies of a god 神々の囁きを、身を呈して「降ろし、言葉に変えるシビ』存在。その恍惚とした沈黙の中にこそ、未来という名の、眩しい光が、宿っているのですよ。",
+		"thinking": "神々の囁きを、身を呈して「降ろし、言葉に変えるシビ』存在。その恍惚とした沈黙の中にこそ、未来という名の、眩しい光が、宿っているのですよ。",
 		"aftertaste": "謎は、答えを見つけるための障害ではなく、問い続けることそのものに価値がある、聖なる誘いなのです。",
 		"example": "The ancient scrolls were written in an sybil script that baffled even the most experienced scholars.",
 		"deep_dive": {
@@ -207727,8 +207720,8 @@ const WORDS = [
 			],
 			"original_statement": "From Old English wær (faith, oath) + lēogan (to lie, literal: 'oath-breaker')."
 		},
-		"concept": "A man who practices witchcraft; a sorcerer (日常(。の「誓（。い（。ワー)を(。破（。り（。ロ)』、禁（。じ（。ら（。れた（。領域を（。歩（。く（。者（。。（。光（。も（。影（。も（。飲（。み（。込（。み（。、自（。分（。だけ（。の（。真実（。を（。創（。り（。出す（。、孤独（。な（。る（。反逆（。者。)",
-		"thinking": "日常(。の「誓（。い（。ワー)を(。破（。り（。ロ)』、禁（。じ（。ら（。れた（。領域を（。歩（。く（。者（。。（。光（。も（。影（。も（。飲（。み（。込（。み（。、自（。分（。だけ（。の（。真実（。を（。創（。り（。出す（。、孤独（。な（。る（。反逆（。者。",
+		"concept": "A man who practices witchcraft; a sorcerer 日常の「誓いワーを破りロ』、禁じられた領域を歩く者。光も影も飲み込み、自分だけの真実を創り出す、孤独なる反逆者。",
+		"thinking": "日常の「誓いワーを破りロ』、禁じられた領域を歩く者。光も影も飲み込み、自分だけの真実を創り出す、孤独なる反逆者。",
 		"aftertaste": "謎は、答えを見つけるための障害ではなく、問い続けることそのものに価値がある、聖なる誘いなのです。",
 		"example": "The ancient scrolls were written in an warlock script that baffled even the most experienced scholars.",
 		"deep_dive": {
@@ -207755,8 +207748,8 @@ const WORDS = [
 			],
 			"original_statement": "From Old English discere (to learn)."
 		},
-		"concept": "A personal follower of Jesus during his life, especially one of the twelve Apostles (自(。ら（。の（。エゴ（。を（。捨て（。、ただ「学（。ぶ（。ディシ)こと」を（。選（。んだ（。者（。。（。師（。の（。背中を見（。つ（。め（。な（。がら（。、いつか（。自分（。の（。中（。に（。、眩（。し（。い（。光を（。、見（。出（。す（。のです。)",
-		"thinking": "自(。ら（。の（。エゴ（。を（。捨て（。、ただ「学（。ぶ（。ディシ)こと」を（。選（。んだ（。者（。。（。師（。の（。背中を見（。つ（。め（。な（。がら（。、いつか（。自分（。の（。中（。に（。、眩（。し（。い（。光を（。、見（。出（。す（。のです。",
+		"concept": "A personal follower of Jesus during his life, especially one of the twelve Apostles 自らのエゴを捨て、ただ「学ぶディシこと」を選んだ者。師の背中を見つめながら、いつか自分の中に、眩しい光を、見出すのです。",
+		"thinking": "自らのエゴを捨て、ただ「学ぶディシこと」を選んだ者。師の背中を見つめながら、いつか自分の中に、眩しい光を、見出すのです。",
 		"aftertaste": "謎は、答えを見つけるための障害ではなく、問い続けることそのものに価値がある、聖なる誘いなのです。",
 		"example": "The ancient scrolls were written in an disciple script that baffled even the most experienced scholars.",
 		"deep_dive": {
@@ -207783,8 +207776,8 @@ const WORDS = [
 			],
 			"original_statement": "From 18th Century saga (story, literally: 'what is said')."
 		},
-		"concept": "A long story of heroic achievement, especially a medieval Icelandic or Norwegian one (何(。代（。にも（。渡（。っ（。て「語（。り（。継（。が（。れた（。サーガ)」、巨大な（。記憶（。の（。連（。なり。（。あなた（。の（。一（。人（。の（。人生を（。越（。え（。た（。場所（。に、真（。の（。物語が（。、横（。たわ（。って（。いる（。のですよ。)",
-		"thinking": "何(。代（。にも（。渡（。っ（。て「語（。り（。継（。が（。れた（。サーガ)」、巨大な（。記憶（。の（。連（。なり。（。あなた（。の（。一（。人（。の（。人生を（。越（。え（。た（。場所（。に、真（。の（。物語が（。、横（。たわ（。って（。いる（。のですよ。",
+		"concept": "A long story of heroic achievement, especially a medieval Icelandic or Norwegian one 何代にも渡って「語り継がれたサーガ」、巨大な記憶の連なり。あなたの一人の人生を越えた場所に、真の物語が、横たわっているのですよ。",
+		"thinking": "何代にも渡って「語り継がれたサーガ」、巨大な記憶の連なり。あなたの一人の人生を越えた場所に、真の物語が、横たわっているのですよ。",
 		"aftertaste": "謎は、答えを見つけるための障害ではなく、問い続けることそのものに価値がある、聖なる誘いなのです。",
 		"example": "The ancient scrolls were written in an saga script that baffled even the most experienced scholars.",
 		"deep_dive": {
@@ -207811,8 +207804,8 @@ const WORDS = [
 			],
 			"original_statement": "From 16th Century karwan (caravan, camel train)."
 		},
-		"concept": "A group of people, especially traders or pilgrims, traveling together across a desert in Asia or North Africa (孤独(。な（。る（。荒野（。を（。、一つ（。の「群（。れ（。キャラバン)』となって（。進（。む（。こと（。。（。絶（。え（。間（。ない（。砂塵（。の（。中に（。、人（。々（。の（。絆（。が（。、美（。し（。い（。旋律（。を（。奏（。で（。て（。いる（。のですよ。)",
-		"thinking": "孤独(。な（。る（。荒野（。を（。、一つ（。の「群（。れ（。キャラバン)』となって（。進（。む（。こと（。。（。絶（。え（。間（。ない（。砂塵（。の（。中に（。、人（。々（。の（。絆（。が（。、美（。し（。い（。旋律（。を（。奏（。で（。て（。いる（。のですよ。",
+		"concept": "A group of people, especially traders or pilgrims, traveling together across a desert in Asia or North Africa 孤独なる荒野を、一つの「群れキャラバン』となって進むこと。絶え間ない砂塵の中に、人々の絆が、美しい旋律を奏でているのですよ。",
+		"thinking": "孤独なる荒野を、一つの「群れキャラバン』となって進むこと。絶え間ない砂塵の中に、人々の絆が、美しい旋律を奏でているのですよ。",
 		"aftertaste": "水平線は、この世の終わりではなく、無限という名の未知の始まりを、静かに指し示しているのですよ。",
 		"example": "The scientific caravan discovered several new species in the uncharted reaches of the deep ocean.",
 		"deep_dive": {
@@ -207839,8 +207832,8 @@ const WORDS = [
 			],
 			"original_statement": "From 20th Century way + point."
 		},
-		"concept": "A reference point in physical space used for purposes of navigation, otherwise known as a landmark (果て(。しない「道（。ウェイ)』の(。途中に（。、そっと（。置（。かれた「しるし（。ポイント)』。（。全（。ての（。通過（。点（。に、意味（。が（。宿（。って（。いる（。と（。知（。っ（。た（。とき（。、旅は（。至高の（。もの（。へと（。変（。わ（。り（。ます。)",
-		"thinking": "果て(。しない「道（。ウェイ)』の(。途中に（。、そっと（。置（。かれた「しるし（。ポイント)』。（。全（。ての（。通過（。点（。に、意味（。が（。宿（。って（。いる（。と（。知（。っ（。た（。とき（。、旅は（。至高の（。もの（。へと（。変（。わ（。り（。ます。",
+		"concept": "A reference point in physical space used for purposes of navigation, otherwise known as a landmark 果てしない「道ウェイ』の途中に、そっと置かれた「しるしポイント』。全ての通過点に、意味が宿っていると知ったとき、旅は至高のものへと変わります。",
+		"thinking": "果てしない「道ウェイ』の途中に、そっと置かれた「しるしポイント』。全ての通過点に、意味が宿っていると知ったとき、旅は至高のものへと変わります。",
 		"aftertaste": "水平線は、この世の終わりではなく、無限という名の未知の始まりを、静かに指し示しているのですよ。",
 		"example": "The scientific waypoint discovered several new species in the uncharted reaches of the deep ocean.",
 		"deep_dive": {
@@ -207859,7 +207852,7 @@ const WORDS = [
 	{
 		"id": "dock_horizon",
 		"word": "dock",
-		"meaning": "ドック、船渠（。せんきょ（。）」、着（。艦（。する（。、ドック",
+		"meaning": "ドック、船渠せんきょ」、着艦する、ドック",
 		"era": "14th Century",
 		"etymology": {
 			"components": [
@@ -207867,8 +207860,8 @@ const WORDS = [
 			],
 			"original_statement": "From 14th Century dokke (trough, channel)."
 		},
-		"concept": "A structure extending from the shore into a body of water to which a boat is tied (旅の(。疲れ（。を（。癒（。し（。、自（。ら（。を（。整（。え（。る（。ための「深く（。静（。かな（。る（。場所に（。の（。ドック)』。（。そこ（。で（。、あなた（。は（。強個（。に（。な（。る（。再（。生を（。得（。て（。、再び（。宇宙へと（。、漕（。ぎ（。出す（。のですよ。)",
-		"thinking": "旅の(。疲れ（。を（。癒（。し（。、自（。ら（。を（。整（。え（。る（。ための「深く（。静（。かな（。る（。場所に（。の（。ドック)』。（。そこ（。で（。、あなた（。は（。強個（。に（。な（。る（。再（。生を（。得（。て（。、再び（。宇宙へと（。、漕（。ぎ（。出す（。のですよ。",
+		"concept": "A structure extending from the shore into a body of water to which a boat is tied 旅の疲れを癒し、自らを整えるための「深く静かなる場所にのドック』。そこで、あなたは強個になる再生を得て、再び宇宙へと、漕ぎ出すのですよ。",
+		"thinking": "旅の疲れを癒し、自らを整えるための「深く静かなる場所にのドック』。そこで、あなたは強個になる再生を得て、再び宇宙へと、漕ぎ出すのですよ。",
 		"aftertaste": "水平線は、この世の終わりではなく、無限という名の未知の始まりを、静かに指し示しているのですよ。",
 		"example": "The scientific dock discovered several new species in the uncharted reaches of the deep ocean.",
 		"deep_dive": {
@@ -207895,8 +207888,8 @@ const WORDS = [
 			],
 			"original_statement": "From Old English helma (handle, helm)."
 		},
-		"concept": "A tiller or wheel and any associated equipment for steering a ship or boat (巨大(。な（。船（。の（。行（。く（。末を（。、ただ「一（。つ（。の（。手（。で（。の（。握（。り（。ヘラム)』で（。決（。定（。する（。こと（。。（。責任（。の（。重（。厚（。な（。る（。沈黙が（。、あなた（。の（。指（。先に（。、静か（。に（。宿（。って（。いる（。のですよ。)",
-		"thinking": "巨大(。な（。船（。の（。行（。く（。末を（。、ただ「一（。つ（。の（。手（。で（。の（。握（。り（。ヘラム)』で（。決（。定（。する（。こと（。。（。責任（。の（。重（。厚（。な（。る（。沈黙が（。、あなた（。の（。指（。先に（。、静か（。に（。宿（。って（。いる（。のですよ。",
+		"concept": "A tiller or wheel and any associated equipment for steering a ship or boat 巨大な船の行く末を、ただ「一つの手での握りヘラム』で決定すること。責任の重厚なる沈黙が、あなたの指先に、静かに宿っているのですよ。",
+		"thinking": "巨大な船の行く末を、ただ「一つの手での握りヘラム』で決定すること。責任の重厚なる沈黙が、あなたの指先に、静かに宿っているのですよ。",
 		"aftertaste": "水平線は、この世の終わりではなく、無限という名の未知の始まりを、静かに指し示しているのですよ。",
 		"example": "The scientific helm discovered several new species in the uncharted reaches of the deep ocean.",
 		"deep_dive": {
@@ -207915,7 +207908,7 @@ const WORDS = [
 	{
 		"id": "buoy_horizon",
 		"word": "buoy",
-		"meaning": "ブイ、浮標（。ふひょう（。）」、浮（。か（。せる（。、ブイ",
+		"meaning": "ブイ、浮標ふひょう」、浮かせる、ブイ",
 		"era": "13th Century",
 		"etymology": {
 			"components": [
@@ -207923,8 +207916,8 @@ const WORDS = [
 			],
 			"original_statement": "From 13th Century boye (buoy, signal, literal: 'fetter, chain')."
 		},
-		"concept": "An anchored float serving as a navigation mark, to show reefs or other hazards, or for mooring (深淵(。の（。底（。に（。、静（。かな（。る「鎖（。ボイ)』で(。繋（。留（。さ（。れ（。た（。)」、光（。の（。シグナル。（。どんな（。荒（。波の中（。でも（。、浮か（。び（。続ける（。その（。姿に（。、旅人（。は（。一瞬の（。希（。望を（。見（。出（。す（。のですよ。)",
-		"thinking": "深淵(。の（。底（。に（。、静（。かな（。る「鎖（。ボイ)』で(。繋（。留（。さ（。れ（。た（。)」、光（。の（。シグナル。（。どんな（。荒（。波の中（。でも（。、浮か（。び（。続ける（。その（。姿に（。、旅人（。は（。一瞬の（。希（。望を（。見（。出（。す（。のですよ。",
+		"concept": "An anchored float serving as a navigation mark, to show reefs or other hazards, or for mooring 深淵の底に、静かなる「鎖ボイ』で繋留された」、光のシグナル。どんな荒波の中でも、浮かび続けるその姿に、旅人は一瞬の希望を見出すのですよ。",
+		"thinking": "深淵の底に、静かなる「鎖ボイ』で繋留された」、光のシグナル。どんな荒波の中でも、浮かび続けるその姿に、旅人は一瞬の希望を見出すのですよ。",
 		"aftertaste": "水平線は、この世の終わりではなく、無限という名の未知の始まりを、静かに指し示しているのですよ。",
 		"example": "The scientific buoy discovered several new species in the uncharted reaches of the deep ocean.",
 		"deep_dive": {
@@ -207951,8 +207944,8 @@ const WORDS = [
 			],
 			"original_statement": "From 16th Century isthmos (neck, passage)."
 		},
-		"concept": "A narrow strip of land with sea on either side, forming a link between two larger areas of land (二(。つの（。大陸を（。、ギリギリ（。の（。ところで（。繋（。ぎ（。止める「首（。イスモス)』のような（。場所（。（。その（。危（。うい（。細（。道にこそ（。、世界を（。一（。つ（。に（。する（。ための（。、真（。実（。の（。架（。け（。橋が（。あります。)",
-		"thinking": "二(。つの（。大陸を（。、ギリギリ（。の（。ところで（。繋（。ぎ（。止める「首（。イスモス)』のような（。場所（。（。その（。危（。うい（。細（。道にこそ（。、世界を（。一（。つ（。に（。する（。ための（。、真（。実（。の（。架（。け（。橋が（。あります。",
+		"concept": "A narrow strip of land with sea on either side, forming a link between two larger areas of land 二つの大陸を、ギリギリのところで繋ぎ止める「首イスモス』のような場所その危うい細道にこそ、世界を一つにするための、真実の架け橋があります。",
+		"thinking": "二つの大陸を、ギリギリのところで繋ぎ止める「首イスモス』のような場所その危うい細道にこそ、世界を一つにするための、真実の架け橋があります。",
 		"aftertaste": "水平線は、この世の終わりではなく、無限という名の未知の始まりを、静かに指し示しているのですよ。",
 		"example": "The scientific isthmus discovered several new species in the uncharted reaches of the deep ocean.",
 		"deep_dive": {
@@ -207971,7 +207964,7 @@ const WORDS = [
 	{
 		"id": "sextant_horizon",
 		"word": "sextant",
-		"meaning": "六分儀（。ろくぶんぎ（。）」、セクスタント",
+		"meaning": "六分儀ろくぶんぎ」、セクスタント",
 		"era": "18th Century",
 		"etymology": {
 			"components": [
@@ -207979,8 +207972,8 @@ const WORDS = [
 			],
 			"original_statement": "From 18th Century sextans (a sixth part)."
 		},
-		"concept": "An instrument with a graduated arc of 60° and a sighting mechanism, used for measuring the angular distances between objects and especially for taking altitudes in navigation (宇宙(。の（。全（。てを「六（。つ（。の（。一（。つ（。セクスタ)」として（。切り（。取り（。、自分（。の（。場所を（。知（。る（。ための（。秤（。（。星（。と（。海（。の（。間（。に、揺（。る（。ぎ（。な（。い（。一点を（。、見（。つけ（。て（。ください。)",
-		"thinking": "宇宙(。の（。全（。てを「六（。つ（。の（。一（。つ（。セクスタ)」として（。切り（。取り（。、自分（。の（。場所を（。知（。る（。ための（。秤（。（。星（。と（。海（。の（。間（。に、揺（。る（。ぎ（。な（。い（。一点を（。、見（。つけ（。て（。ください。",
+		"concept": "An instrument with a graduated arc of 60° and a sighting mechanism, used for measuring the angular distances between objects and especially for taking altitudes in navigation 宇宙の全てを「六つの一つセクスタ」として切り取り、自分の場所を知るための秤星と海の間に、揺るぎない一点を、見つけてください。",
+		"thinking": "宇宙の全てを「六つの一つセクスタ」として切り取り、自分の場所を知るための秤星と海の間に、揺るぎない一点を、見つけてください。",
 		"aftertaste": "水平線は、この世の終わりではなく、無限という名の未知の始まりを、静かに指し示しているのですよ。",
 		"example": "The scientific sextant discovered several new species in the uncharted reaches of the deep ocean.",
 		"deep_dive": {
@@ -208007,8 +208000,8 @@ const WORDS = [
 			],
 			"original_statement": "From 16th Century polus (many) + gonia (angle)."
 		},
-		"concept": "A plane figure with at least three straight sides and angles, and typically five or more (無数(。の（。視点が（。「多（。く（。ポリス)の(。角（。ゴニア)」となって（。、一（。つ（。の（。図（。形を（。構築（。する（。こと（。。（。その（。鋭（。い（。輪郭（。の（。集（。積が（。、単（。純（。な（。空間に（。、複雑（。な（。る（。意味（。を（。産（。み（。出す（。のですよ。)",
-		"thinking": "無数(。の（。視点が（。「多（。く（。ポリス)の(。角（。ゴニア)」となって（。、一（。つ（。の（。図（。形を（。構築（。する（。こと（。。（。その（。鋭（。い（。輪郭（。の（。集（。積が（。、単（。純（。な（。空間に（。、複雑（。な（。る（。意味（。を（。産（。み（。出す（。のですよ。",
+		"concept": "A plane figure with at least three straight sides and angles, and typically five or more 無数の視点が「多くポリスの角ゴニア」となって、一つの図形を構築すること。その鋭い輪郭の集積が、単純な空間に、複雑なる意味を産み出すのですよ。",
+		"thinking": "無数の視点が「多くポリスの角ゴニア」となって、一つの図形を構築すること。その鋭い輪郭の集積が、単純な空間に、複雑なる意味を産み出すのですよ。",
 		"aftertaste": "直線は人間の意志であり、曲線は神の慈悲です。その二つが交差するとき、そこに美しさが生まれるのですよ。",
 		"example": "The architect used a complex set of polygon equations to design the groundbreaking dome structure.",
 		"deep_dive": {
@@ -208027,7 +208020,7 @@ const WORDS = [
 	{
 		"id": "asymptote_geometry",
 		"word": "asymptote",
-		"meaning": "漸近線（。ぜんきんせん（。）」、アシンプトート",
+		"meaning": "漸近線ぜんきんせん」、アシンプトート",
 		"era": "17th Century",
 		"etymology": {
 			"components": [
@@ -208035,8 +208028,8 @@ const WORDS = [
 			],
 			"original_statement": "From 17th Century a- (not) + sun- (with, together) + piptein (to fall, literal: 'not falling together')."
 		},
-		"concept": "A line that a curve approaches, as it heads towards infinity (どこ(。まで（。も（。近（。づ（。き（。なが（。ら（。、ついに「（。共（。に（。サン)落(。ち（。る（。プトゥ)こと(。の（。な（。い（。ア)」、永遠（。の（。憧（。れ（。。（。届（。か（。な（。い（。から（。こそ（。、追求（。は（。、至高（。の（。エナジーを（。、放（。ち（。、続け（。る（。のです。)",
-		"thinking": "どこ(。まで（。も（。近（。づ（。き（。なが（。ら（。、ついに「（。共（。に（。サン)落(。ち（。る（。プトゥ)こと(。の（。な（。い（。ア)」、永遠（。の（。憧（。れ（。。（。届（。か（。な（。い（。から（。こそ（。、追求（。は（。、至高（。の（。エナジーを（。、放（。ち（。、続け（。る（。のです。",
+		"concept": "A line that a curve approaches, as it heads towards infinity どこまでも近づきながら、ついに「共にサン落ちるプトゥことのないア」、永遠の憧れ。届かないからこそ、追求は、至高のエナジーを、放ち、続けるのです。",
+		"thinking": "どこまでも近づきながら、ついに「共にサン落ちるプトゥことのないア」、永遠の憧れ。届かないからこそ、追求は、至高のエナジーを、放ち、続けるのです。",
 		"aftertaste": "直線は人間の意志であり、曲線は神の慈悲です。その二つが交差するとき、そこに美しさが生まれるのですよ。",
 		"example": "The architect used a complex set of asymptote equations to design the groundbreaking dome structure.",
 		"deep_dive": {
@@ -208063,8 +208056,8 @@ const WORDS = [
 			],
 			"original_statement": "From 16th Century para- (beside) + ballein (to throw, literal: 'throwing beside')."
 		},
-		"concept": "A symmetrical open plane curve formed by the intersection of a cone with a plane parallel to its side (重力(。という（。名の（。抱擁（。を（。、ただ（。横へと「投げ（。投げ（。出す（。バロ)パラ）」ことで（。描（。か（。れる（。、美し（。い（。曲線（。。（。その（。放物（。の（。果てに（。、あなた（。は（。、全（。てを（。受け（。入れ（。る（。、無（。窮（。な（。る（。愛（。に（。辿（。り（。着（。く（。のです。)",
-		"thinking": "重力(。という（。名の（。抱擁（。を（。、ただ（。横へと「投げ（。投げ（。出す（。バロ)パラ）」ことで（。描（。か（。れる（。、美し（。い（。曲線（。。（。その（。放物（。の（。果てに（。、あなた（。は（。、全（。てを（。受け（。入れ（。る（。、無（。窮（。な（。る（。愛（。に（。辿（。り（。着（。く（。のです。",
+		"concept": "A symmetrical open plane curve formed by the intersection of a cone with a plane parallel to its side 重力という名の抱擁を、ただ横へと「投げ投げ出すバロパラ」ことで描かれる、美しい曲線。その放物の果てに、あなたは、全てを受け入れる、無窮なる愛に辿り着くのです。",
+		"thinking": "重力という名の抱擁を、ただ横へと「投げ投げ出すバロパラ」ことで描かれる、美しい曲線。その放物の果てに、あなたは、全てを受け入れる、無窮なる愛に辿り着くのです。",
 		"aftertaste": "直線は人間の意志であり、曲線は神の慈悲です。その二つが交差するとき、そこに美しさが生まれるのですよ。",
 		"example": "The architect used a complex set of parabola equations to design the groundbreaking dome structure.",
 		"deep_dive": {
@@ -208091,8 +208084,8 @@ const WORDS = [
 			],
 			"original_statement": "From 17th Century huper- (over, beyond) + ballein (to throw, literal: 'excessive throwing')."
 		},
-		"concept": "A symmetrical open curve formed by the intersection of a circular cone with a plane at a smaller angle with its axis than the side of the cone (情熱が(。限界を「越（。え（。て（。ハイパー)投げ(。出さ（。れた（。バロ)」、二（。つの（。対（。極（。な（。る（。物語（。。（。決して（。交（。わ（。ら（。な（。い（。その（。間（。隙（。にこそ（。、宇宙の（。真（。実（。が（。、静（。か（。に（。、横（。たわ（。って（。いる（。のですよ。)",
-		"thinking": "情熱が(。限界を「越（。え（。て（。ハイパー)投げ(。出さ（。れた（。バロ)」、二（。つの（。対（。極（。な（。る（。物語（。。（。決して（。交（。わ（。ら（。な（。い（。その（。間（。隙（。にこそ（。、宇宙の（。真（。実（。が（。、静（。か（。に（。、横（。たわ（。って（。いる（。のですよ。",
+		"concept": "A symmetrical open curve formed by the intersection of a circular cone with a plane at a smaller angle with its axis than the side of the cone 情熱が限界を「越えてハイパー投げ出されたバロ」、二つの対極なる物語。決して交わらないその間隙にこそ、宇宙の真実が、静かに、横たわっているのですよ。",
+		"thinking": "情熱が限界を「越えてハイパー投げ出されたバロ」、二つの対極なる物語。決して交わらないその間隙にこそ、宇宙の真実が、静かに、横たわっているのですよ。",
 		"aftertaste": "直線は人間の意志であり、曲線は神の慈悲です。その二つが交差するとき、そこに美しさが生まれるのですよ。",
 		"example": "The architect used a complex set of hyperbola equations to design the groundbreaking dome structure.",
 		"deep_dive": {
@@ -208119,8 +208112,8 @@ const WORDS = [
 			],
 			"original_statement": "From 16th Century radius (staff, spoke, ray, literal: 'spoke of a wheel')."
 		},
-		"concept": "A straight line from the center to the circumference of a circle or sphere (中心(。からの（。想（。いを（。、四方（。八（。方（。へと「一（。筋（。の（。光（。ラディ)として(。)」、放（。つ（。こと（。。（。あなた（。の（。その（。たった（。一本（。の（。意志（。が（。、世界（。の（。全（。周囲を（。、支（。えて（。いる（。のですよ。)",
-		"thinking": "中心(。からの（。想（。いを（。、四方（。八（。方（。へと「一（。筋（。の（。光（。ラディ)として(。)」、放（。つ（。こと（。。（。あなた（。の（。その（。たった（。一本（。の（。意志（。が（。、世界（。の（。全（。周囲を（。、支（。えて（。いる（。のですよ。",
+		"concept": "A straight line from the center to the circumference of a circle or sphere 中心からの想いを、四方八方へと「一筋の光ラディとして」、放つこと。あなたのそのたった一本の意志が、世界の全周囲を、支えているのですよ。",
+		"thinking": "中心からの想いを、四方八方へと「一筋の光ラディとして」、放つこと。あなたのそのたった一本の意志が、世界の全周囲を、支えているのですよ。",
 		"aftertaste": "直線は人間の意志であり、曲線は神の慈悲です。その二つが交差するとき、そこに美しさが生まれるのですよ。",
 		"example": "The architect used a complex set of radius equations to design the groundbreaking dome structure.",
 		"deep_dive": {
@@ -208147,8 +208140,8 @@ const WORDS = [
 			],
 			"original_statement": "From 14th Century dia- (across) + metron (measure)."
 		},
-		"concept": "A straight line passing from side to side through the center of a body or figure, especially a circle or sphere (沈黙の(。中心（。を「貫（。き（。通（。して（。ダイア)測る(。メター)」こと（。。（。二（。つの（。極性（。を（。、最短（。の（。距離（。で（。繋（。ぎ（。合わせ（。た（。とき（。、そこ（。には（。、盤石（。な（。る（。均衡が（。、生まれる（。のですよ。)",
-		"thinking": "沈黙の(。中心（。を「貫（。き（。通（。して（。ダイア)測る(。メター)」こと（。。（。二（。つの（。極性（。を（。、最短（。の（。距離（。で（。繋（。ぎ（。合わせ（。た（。とき（。、そこ（。には（。、盤石（。な（。る（。均衡が（。、生まれる（。のですよ。",
+		"concept": "A straight line passing from side to side through the center of a body or figure, especially a circle or sphere 沈黙の中心を「貫き通してダイア測るメター」こと。二つの極性を、最短の距離で繋ぎ合わせたとき、そこには、盤石なる均衡が、生まれるのですよ。",
+		"thinking": "沈黙の中心を「貫き通してダイア測るメター」こと。二つの極性を、最短の距離で繋ぎ合わせたとき、そこには、盤石なる均衡が、生まれるのですよ。",
 		"aftertaste": "直線は人間の意志であり、曲線は神の慈悲です。その二つが交差するとき、そこに美しさが生まれるのですよ。",
 		"example": "The architect used a complex set of diameter equations to design the groundbreaking dome structure.",
 		"deep_dive": {
@@ -208175,8 +208168,8 @@ const WORDS = [
 			],
 			"original_statement": "From 16th Century secare (to cut)."
 		},
-		"concept": "Each of the parts into which something is or may be divided (一(。つ（。の（。物（。語が（。、「切り（。離さ（。れた（。セグ)」小（。さな（。る（。欠片（。。（。その（。断片（。一（。つ（。を（。愛しく（。見（。つめる（。とき（。、あなた（。は（。、全体（。という（。名の（。宇宙に（。、再び（。触（。れる（。の（。ですよ。)",
-		"thinking": "一(。つ（。の（。物（。語が（。、「切り（。離さ（。れた（。セグ)」小（。さな（。る（。欠片（。。（。その（。断片（。一（。つ（。を（。愛しく（。見（。つめる（。とき（。、あなた（。は（。、全体（。という（。名の（。宇宙に（。、再び（。触（。れる（。の（。ですよ。",
+		"concept": "Each of the parts into which something is or may be divided 一つの物語が、「切り離されたセグ」小さなる欠片。その断片一つを愛しく見つめるとき、あなたは、全体という名の宇宙に、再び触れるのですよ。",
+		"thinking": "一つの物語が、「切り離されたセグ」小さなる欠片。その断片一つを愛しく見つめるとき、あなたは、全体という名の宇宙に、再び触れるのですよ。",
 		"aftertaste": "直線は人間の意志であり、曲線は神の慈悲です。その二つが交差するとき、そこに美しさが生まれるのですよ。",
 		"example": "The architect used a complex set of segment equations to design the groundbreaking dome structure.",
 		"deep_dive": {
@@ -208203,8 +208196,8 @@ const WORDS = [
 			],
 			"original_statement": "From 16th Century khorde (string, catgut)."
 		},
-		"concept": "A straight line joining the ends of an arc (二(。つの（。点を（。、見えない（。糸（。で「張り（。巡（。ら（。す（。コー)』こと（。。（。その（。一本（。の（。糸が（。、風（。に（。震（。える（。とき（。、世界（。は（。、自分（。だけの（。新（。し（。い（。旋律（。を（。、奏（。で（。始める（。のですよ。)",
-		"thinking": "二(。つの（。点を（。、見えない（。糸（。で「張り（。巡（。ら（。す（。コー)』こと（。。（。その（。一本（。の（。糸が（。、風（。に（。震（。える（。とき（。、世界（。は（。、自分（。だけの（。新（。し（。い（。旋律（。を（。、奏（。で（。始める（。のですよ。",
+		"concept": "A straight line joining the ends of an arc 二つの点を、見えない糸で「張り巡らすコー』こと。その一本の糸が、風に震えるとき、世界は、自分だけの新しい旋律を、奏で始めるのですよ。",
+		"thinking": "二つの点を、見えない糸で「張り巡らすコー』こと。その一本の糸が、風に震えるとき、世界は、自分だけの新しい旋律を、奏で始めるのですよ。",
 		"aftertaste": "直線は人間の意志であり、曲線は神の慈悲です。その二つが交差するとき、そこに美しさが生まれるのですよ。",
 		"example": "The architect used a complex set of chord equations to design the groundbreaking dome structure.",
 		"deep_dive": {
@@ -208231,8 +208224,8 @@ const WORDS = [
 			],
 			"original_statement": "From 19th Century over + tone."
 		},
-		"concept": "A musical tone that is a part of the harmonic series above a fundamental note and may be heard with it (主(。な（。旋律の「上（。オーバー)に(。う（。っ（。す（。ら（。と（。)」重（。な（。る（。、見（。え（。な（。い（。響（。き（。。（。そこ（。には（。、語（。ら（。れ（。な（。い（。真実（。が（。、密（。かに（。、宿（。って（。いる（。のですよ。)",
-		"thinking": "主(。な（。旋律の「上（。オーバー)に(。う（。っ（。す（。ら（。と（。)」重（。な（。る（。、見（。え（。な（。い（。響（。き（。。（。そこ（。には（。、語（。ら（。れ（。な（。い（。真実（。が（。、密（。かに（。、宿（。って（。いる（。のですよ。",
+		"concept": "A musical tone that is a part of the harmonic series above a fundamental note and may be heard with it 主な旋律の「上オーバーにうっすらと」重なる、見えない響き。そこには、語られない真実が、密かに、宿っているのですよ。",
+		"thinking": "主な旋律の「上オーバーにうっすらと」重なる、見えない響き。そこには、語られない真実が、密かに、宿っているのですよ。",
 		"aftertaste": "こだまは、過去の自分が今の自分に問いかけている、静かなる囁きなのですよ。",
 		"example": "The long overtone in the ancient cathedral enhanced the sacred and mystical atmosphere of the service.",
 		"deep_dive": {
@@ -208259,8 +208252,8 @@ const WORDS = [
 			],
 			"original_statement": "From 14th Century harmos (joint, literal: 'fitting together')."
 		},
-		"concept": "Relating to or characterized by musical harmony (バラバラ(。な（。響（。きが（。、美し（。く「結（。び（。合（。わ（。さ（。れ（。ハルモ)」た（。もの（。。（。その（。整（。合（。性（。が（。、世界（。を（。、一（。つ（。の（。巨大（。な（。祈り（。へと（。、変（。え（。て（。いく（。のですよ。)",
-		"thinking": "バラバラ(。な（。響（。きが（。、美し（。く「結（。び（。合（。わ（。さ（。れ（。ハルモ)」た（。もの（。。（。その（。整（。合（。性（。が（。、世界（。を（。、一（。つ（。の（。巨大（。な（。祈り（。へと（。、変（。え（。て（。いく（。のですよ。",
+		"concept": "Relating to or characterized by musical harmony バラバラな響きが、美しく「結び合わされハルモ」たもの。その整合性が、世界を、一つの巨大な祈りへと、変えていくのですよ。",
+		"thinking": "バラバラな響きが、美しく「結び合わされハルモ」たもの。その整合性が、世界を、一つの巨大な祈りへと、変えていくのですよ。",
 		"aftertaste": "こだまは、過去の自分が今の自分に問いかけている、静かなる囁きなのですよ。",
 		"example": "The long harmonic in the ancient cathedral enhanced the sacred and mystical atmosphere of the service.",
 		"deep_dive": {
@@ -208279,7 +208272,7 @@ const WORDS = [
 	{
 		"id": "recital_echo",
 		"word": "recital",
-		"meaning": "独（。奏（。会（。、暗（。唱（。、リサイタル",
+		"meaning": "独奏会、暗唱、リサイタル",
 		"era": "16th Century",
 		"etymology": {
 			"components": [
@@ -208287,8 +208280,8 @@ const WORDS = [
 			],
 			"original_statement": "From 16th Century re- (again) + citare (to cite, literal: 'summon again')."
 		},
-		"concept": "The performance of a program of music by a soloist or small group (かつて(。の（。旋律を（。、再び（。「呼び（。起こ（。す（。サイタル)」儀（。式（。。（。あなた（。の（。その（。真（。摯（。な（。る（。復（。唱（。が（。、停（。滞（。し（。た（。時間（。に、美（。し（。い（。脈動（。を（。与（。える（。のです。)",
-		"thinking": "かつて(。の（。旋律を（。、再び（。「呼び（。起こ（。す（。サイタル)」儀（。式（。。（。あなた（。の（。その（。真（。摯（。な（。る（。復（。唱（。が（。、停（。滞（。し（。た（。時間（。に、美（。し（。い（。脈動（。を（。与（。える（。のです。",
+		"concept": "The performance of a program of music by a soloist or small group かつての旋律を、再び「呼び起こすサイタル」儀式。あなたのその真摯なる復唱が、停滞した時間に、美しい脈動を与えるのです。",
+		"thinking": "かつての旋律を、再び「呼び起こすサイタル」儀式。あなたのその真摯なる復唱が、停滞した時間に、美しい脈動を与えるのです。",
 		"aftertaste": "こだまは、過去の自分が今の自分に問いかけている、静かなる囁きなのですよ。",
 		"example": "The long recital in the ancient cathedral enhanced the sacred and mystical atmosphere of the service.",
 		"deep_dive": {
@@ -208315,8 +208308,8 @@ const WORDS = [
 			],
 			"original_statement": "From Old English humnos (song of praise, literal: 'song')."
 		},
-		"concept": "A religious song or poem, typically of praise to God or a god (天上の(。光を（。、地上（。の「言葉（。ヒム)に(。変（。えた（。)」歌（。。（。その（。清（。廉（。な（。る（。響（。き（。は（。、孤独（。な（。魂（。を（。、静（。か（。に（。、癒（。し（。て（。くれる（。のですよ。)",
-		"thinking": "天上の(。光を（。、地上（。の「言葉（。ヒム)に(。変（。えた（。)」歌（。。（。その（。清（。廉（。な（。る（。響（。き（。は（。、孤独（。な（。魂（。を（。、静（。か（。に（。、癒（。し（。て（。くれる（。のですよ。",
+		"concept": "A religious song or poem, typically of praise to God or a god 天上の光を、地上の「言葉ヒムに変えた」歌。その清廉なる響きは、孤独な魂を、静かに、癒してくれるのですよ。",
+		"thinking": "天上の光を、地上の「言葉ヒムに変えた」歌。その清廉なる響きは、孤独な魂を、静かに、癒してくれるのですよ。",
 		"aftertaste": "こだまは、過去の自分が今の自分に問いかけている、静かなる囁きなのですよ。",
 		"example": "The long hymn in the ancient cathedral enhanced the sacred and mystical atmosphere of the service.",
 		"deep_dive": {
@@ -208343,8 +208336,8 @@ const WORDS = [
 			],
 			"original_statement": "From Old English sang (song)."
 		},
-		"concept": "A short poem or other set of words set to music or meant to be sung (言葉(。が（。、重力を（。振り切り（。、「飛翔（。サング)し(。始（。めた（。)」かたち（。。（。あなた（。が（。声（。を（。放（。つ（。とき（。、世界（。は（。、今（。一度（。、新（。しく（。産まれ（。変わる（。のですよ。)",
-		"thinking": "言葉(。が（。、重力を（。振り切り（。、「飛翔（。サング)し(。始（。めた（。)」かたち（。。（。あなた（。が（。声（。を（。放（。つ（。とき（。、世界（。は（。、今（。一度（。、新（。しく（。産まれ（。変わる（。のですよ。",
+		"concept": "A short poem or other set of words set to music or meant to be sung 言葉が、重力を振り切り、「飛翔サングし始めた」かたち。あなたが声を放つとき、世界は、今一度、新しく産まれ変わるのですよ。",
+		"thinking": "言葉が、重力を振り切り、「飛翔サングし始めた」かたち。あなたが声を放つとき、世界は、今一度、新しく産まれ変わるのですよ。",
 		"aftertaste": "こだまは、過去の自分が今の自分に問いかけている、静かなる囁きなのですよ。",
 		"example": "The long song in the ancient cathedral enhanced the sacred and mystical atmosphere of the service.",
 		"deep_dive": {
@@ -208399,8 +208392,8 @@ const WORDS = [
 			],
 			"original_statement": "From 15th Century memoria (memory, literal: 'mindful')."
 		},
-		"concept": "A historical account or biography written from personal knowledge or special sources (過ぎ(。去（。った（。日々を（。、「記憶（。メモリア)の(。中に（。)」静(。か（。に（。、留（。め（。置（。いた（。)」もの（。たちの（。連（。なり。（。そこ（。には（。、生（。き（。た（。証（。が（。、眩（。しい（。ほど（。の（。熱量を（。、今（。だ（。に（。、放（。っ（。て（。いる（。のですよ。)",
-		"thinking": "過ぎ(。去（。った（。日々を（。、「記憶（。メモリア)の(。中に（。)」静(。か（。に（。、留（。め（。置（。いた（。)」もの（。たちの（。連（。なり。（。そこ（。には（。、生（。き（。た（。証（。が（。、眩（。しい（。ほど（。の（。熱量を（。、今（。だ（。に（。、放（。っ（。て（。いる（。のですよ。",
+		"concept": "A historical account or biography written from personal knowledge or special sources 過ぎ去った日々を、「記憶メモリアの中に」静かに、留め置いた」ものたちの連なり。そこには、生きた証が、眩しいほどの熱量を、今だに、放っているのですよ。",
+		"thinking": "過ぎ去った日々を、「記憶メモリアの中に」静かに、留め置いた」ものたちの連なり。そこには、生きた証が、眩しいほどの熱量を、今だに、放っているのですよ。",
 		"aftertaste": "記録は、忘却という名の広大な海に対抗するために、私たち人類が築き上げた、静かなる防波堤なのですよ。",
 		"example": "The historian carefully examined the ancient memoirs to reconstruct the timeline of the forgotten dynasty.",
 		"deep_dive": {
@@ -208427,8 +208420,8 @@ const WORDS = [
 			],
 			"original_statement": "From 16th Century mille (thousand)."
 		},
-		"concept": "Of, relating to, or consisting of a thousand (「千(。ミレ)という(。名の（。、長大（。な（。る（。過（。酷（。を（。越えて（。)」。（。その（。膨（。大な（。時間の（。集（。積が（。、現代（。の（。軽（。薄（。さを（。、重（。厚（。な（。る（。沈黙（。で（。、戒（。めて（。くれる（。のですよ。)",
-		"thinking": "「千(。ミレ)という(。名の（。、長大（。な（。る（。過（。酷（。を（。越えて（。)」。（。その（。膨（。大な（。時間の（。集（。積が（。、現代（。の（。軽（。薄（。さを（。、重（。厚（。な（。る（。沈黙（。で（。、戒（。めて（。くれる（。のですよ。",
+		"concept": "Of, relating to, or consisting of a thousand 「千ミレという名の、長大なる過酷を越えて」。その膨大な時間の集積が、現代の軽薄さを、重厚なる沈黙で、戒めてくれるのですよ。",
+		"thinking": "「千ミレという名の、長大なる過酷を越えて」。その膨大な時間の集積が、現代の軽薄さを、重厚なる沈黙で、戒めてくれるのですよ。",
 		"aftertaste": "記録は、忘却という名の広大な海に対抗するために、私たち人類が築き上げた、静かなる防波堤なのですよ。",
 		"example": "The historian carefully examined the ancient millenary to reconstruct the timeline of the forgotten dynasty.",
 		"deep_dive": {
@@ -208455,8 +208448,8 @@ const WORDS = [
 			],
 			"original_statement": "From 14th Century ruere (to fall)."
 		},
-		"concept": "The remains of a building, typically an old one, that has suffered much damage or disintegration (かつて(。の（。栄（。華（。が（。、ただ「崩（。れ（。落ち（。た（。ルイ)」場所（。。（。その（。欠（。片一（。つ（。一（。つ（。が（。、時間（。の（。残酷（。さと（。、それ（。でも（。消（。え（。な（。い（。美（。し（。さ（。を（。、雄弁に（。物語っ（。て（。いる（。のですよ。)",
-		"thinking": "かつて(。の（。栄（。華（。が（。、ただ「崩（。れ（。落ち（。た（。ルイ)」場所（。。（。その（。欠（。片一（。つ（。一（。つ（。が（。、時間（。の（。残酷（。さと（。、それ（。でも（。消（。え（。な（。い（。美（。し（。さ（。を（。、雄弁に（。物語っ（。て（。いる（。のですよ。",
+		"concept": "The remains of a building, typically an old one, that has suffered much damage or disintegration かつての栄華が、ただ「崩れ落ちたルイ」場所。その欠片一つ一つが、時間の残酷さと、それでも消えない美しさを、雄弁に物語っているのですよ。",
+		"thinking": "かつての栄華が、ただ「崩れ落ちたルイ」場所。その欠片一つ一つが、時間の残酷さと、それでも消えない美しさを、雄弁に物語っているのですよ。",
 		"aftertaste": "記録は、忘却という名の広大な海に対抗するために、私たち人類が築き上げた、静かなる防波堤なのですよ。",
 		"example": "The historian carefully examined the ancient ruins to reconstruct the timeline of the forgotten dynasty.",
 		"deep_dive": {
@@ -208483,8 +208476,8 @@ const WORDS = [
 			],
 			"original_statement": "From 19th Century Suède (Sweden, literal: 'gants de Suède' gloves of Sweden)."
 		},
-		"concept": "Leather with the flesh side rubbed to make a velvety nap (北欧(。の（。冷（。徹（。な（。る（。空気（。から（。届（。いた（。、「スウェーデン（。スエード)の（。贈り物』。（。その（。柔らか（。な（。る（。起（。毛が（。、あなた（。の（。肌（。を（。、優（。しく（。、守（。って（。くれる（。のですよ。)",
-		"thinking": "北欧(。の（。冷（。徹（。な（。る（。空気（。から（。届（。いた（。、「スウェーデン（。スエード)の（。贈り物』。（。その（。柔らか（。な（。る（。起（。毛が（。、あなた（。の（。肌（。を（。、優（。しく（。、守（。って（。くれる（。のですよ。",
+		"concept": "Leather with the flesh side rubbed to make a velvety nap 北欧の冷徹なる空気から届いた、「スウェーデンスエードの贈り物』。その柔らかなる起毛が、あなたの肌を、優しく、守ってくれるのですよ。",
+		"thinking": "北欧の冷徹なる空気から届いた、「スウェーデンスエードの贈り物』。その柔らかなる起毛が、あなたの肌を、優しく、守ってくれるのですよ。",
 		"aftertaste": "宝石は、宇宙が孤独に耐えきれなくなって、自らの名前を呼ぶために点した、永遠の灯火なのですよ。",
 		"example": "The artisan chose the finest suede to complete the luxurious and durable upholstery project.",
 		"deep_dive": {
@@ -208511,8 +208504,8 @@ const WORDS = [
 			],
 			"original_statement": "From 18th Century cord + duroy (a coarse fabric)."
 		},
-		"concept": "A thick cotton fabric with velvety ribs (ただの(。布（。ではなく（。、一（。つ（。の（。畝（。（。うね（。)」が(。、「紐（。コード)を(。並（。べ（。た（。)」ような（。、強（。靭（。な（。る（。表情。（。その（。素朴（。な（。る（。温（。か（。みが（。、日常（。に（。安（。ら（。ぎを（。、与（。えて（。くれる（。のですよ。)",
-		"thinking": "ただの(。布（。ではなく（。、一（。つ（。の（。畝（。（。うね（。)」が(。、「紐（。コード)を(。並（。べ（。た（。)」ような（。、強（。靭（。な（。る（。表情。（。その（。素朴（。な（。る（。温（。か（。みが（。、日常（。に（。安（。ら（。ぎを（。、与（。えて（。くれる（。のですよ。",
+		"concept": "A thick cotton fabric with velvety ribs ただの布ではなく、一つの畝うね」が、「紐コードを並べた」ような、強靭なる表情。その素朴なる温かみが、日常に安らぎを、与えてくれるのですよ。",
+		"thinking": "ただの布ではなく、一つの畝うね」が、「紐コードを並べた」ような、強靭なる表情。その素朴なる温かみが、日常に安らぎを、与えてくれるのですよ。",
 		"aftertaste": "宝石は、宇宙が孤独に耐えきれなくなって、自らの名前を呼ぶために点した、永遠の灯火なのですよ。",
 		"example": "The artisan chose the finest corduroy to complete the luxurious and durable upholstery project.",
 		"deep_dive": {
@@ -208539,8 +208532,8 @@ const WORDS = [
 			],
 			"original_statement": "From 19th Century tweel (twill, misread for 'Tweed' river)."
 		},
-		"concept": "A rough, surfaced woolen cloth, typically of mixed flecked colors, originally manufactured in Scotland (スコットランド(。の（。荒（。れ（。狂（。う（。海（。の（。ように（。、烈（。し（。く（。織（。り（。上げ（。られた（。、「綾（。織（。ツイール)』。（。その（。不（。均（。一（。な（。色彩（。の中に（。、大地（。の（。記憶（。が（。、宿（。って（。いる（。のですよ。)",
-		"thinking": "スコットランド(。の（。荒（。れ（。狂（。う（。海（。の（。ように（。、烈（。し（。く（。織（。り（。上げ（。られた（。、「綾（。織（。ツイール)』。（。その（。不（。均（。一（。な（。色彩（。の中に（。、大地（。の（。記憶（。が（。、宿（。って（。いる（。のですよ。",
+		"concept": "A rough, surfaced woolen cloth, typically of mixed flecked colors, originally manufactured in Scotland スコットランドの荒れ狂う海のように、烈しく織り上げられた、「綾織ツイール』。その不均一な色彩の中に、大地の記憶が、宿っているのですよ。",
+		"thinking": "スコットランドの荒れ狂う海のように、烈しく織り上げられた、「綾織ツイール』。その不均一な色彩の中に、大地の記憶が、宿っているのですよ。",
 		"aftertaste": "宝石は、宇宙が孤独に耐えきれなくなって、自らの名前を呼ぶために点した、永遠の灯火なのですよ。",
 		"example": "The artisan chose the finest tweed to complete the luxurious and durable upholstery project.",
 		"deep_dive": {
@@ -208567,8 +208560,8 @@ const WORDS = [
 			],
 			"original_statement": "From 16th Century gwlan (wool, literal: 'woolen cloth')."
 		},
-		"concept": "A kind of soft woven fabric, typically made of wool or cotton and slightly milled and raised (柔らか(。な（。る（。魂の（。衣（。裳（。、「羊毛（。グランク)その(。もの（。)」。（。その（。優（。し（。い（。起毛が（。、凍（。て（。つく（。季節（。から（。、あなた（。の（。心を（。、静（。か（。に（。、温（。めて（。くれる（。のですよ。)",
-		"thinking": "柔らか(。な（。る（。魂の（。衣（。裳（。、「羊毛（。グランク)その(。もの（。)」。（。その（。優（。し（。い（。起毛が（。、凍（。て（。つく（。季節（。から（。、あなた（。の（。心を（。、静（。か（。に（。、温（。めて（。くれる（。のですよ。",
+		"concept": "A kind of soft woven fabric, typically made of wool or cotton and slightly milled and raised 柔らかなる魂の衣裳、「羊毛グランクそのもの」。その優しい起毛が、凍てつく季節から、あなたの心を、静かに、温めてくれるのですよ。",
+		"thinking": "柔らかなる魂の衣裳、「羊毛グランクそのもの」。その優しい起毛が、凍てつく季節から、あなたの心を、静かに、温めてくれるのですよ。",
 		"aftertaste": "宝石は、宇宙が孤独に耐えきれなくなって、自らの名前を呼ぶために点した、永遠の灯火なのですよ。",
 		"example": "The artisan chose the finest flannel to complete the luxurious and durable upholstery project.",
 		"deep_dive": {
@@ -208595,8 +208588,8 @@ const WORDS = [
 			],
 			"original_statement": "From 17th Century mat (dull, dead, literal: 'checked, checkmate')."
 		},
-		"concept": "Of a color, paint, or surface) dull and flat, without a shine (光を(。拒（。み（。、ただ（。存在（。の（。重（。厚（。さを（。主張（。する「沈（。黙（。の（。マット)』。（。一度（。、眩（。し（。い（。虚飾（。を（。捨て（。去り（。、ただ（。静（。か（。な（。る（。本質（。へと（。還（。る（。ための（。、至高（。の（。質感（。です。)",
-		"thinking": "光を(。拒（。み（。、ただ（。存在（。の（。重（。厚（。さを（。主張（。する「沈（。黙（。の（。マット)』。（。一度（。、眩（。し（。い（。虚飾（。を（。捨て（。去り（。、ただ（。静（。か（。な（。る（。本質（。へと（。還（。る（。ための（。、至高（。の（。質感（。です。",
+		"concept": "Of a color, paint, or surface dull and flat, without a shine 光を拒み、ただ存在の重厚さを主張する「沈黙のマット』。一度、眩しい虚飾を捨て去り、ただ静かなる本質へと還るための、至高の質感です。",
+		"thinking": "光を拒み、ただ存在の重厚さを主張する「沈黙のマット』。一度、眩しい虚飾を捨て去り、ただ静かなる本質へと還るための、至高の質感です。",
 		"aftertaste": "宝石は、宇宙が孤独に耐えきれなくなって、自らの名前を呼ぶために点した、永遠の灯火なのですよ。",
 		"example": "The artisan chose the finest matte to complete the luxurious and durable upholstery project.",
 		"deep_dive": {
@@ -208623,8 +208616,8 @@ const WORDS = [
 			],
 			"original_statement": "From 16th Century porcellana (cowrie shell, literal: 'little pig')."
 		},
-		"concept": "A white vitrified translucent ceramic; china (まるで「宝(。貝（。ポルチェラーナ)』のように（。、透（。き（。通（。り（。輝（。く（。地肌（。。（。土が（。、炎（。という（。名の（。試（。練（。を（。越（。えて（。、宝石（。へと（。、再び（。産まれ（。変わ（。っ（。た（。姿（。なの（。ですよ。)",
-		"thinking": "まるで「宝(。貝（。ポルチェラーナ)』のように（。、透（。き（。通（。り（。輝（。く（。地肌（。。（。土が（。、炎（。という（。名の（。試（。練（。を（。越（。えて（。、宝石（。へと（。、再び（。産まれ（。変わ（。っ（。た（。姿（。なの（。ですよ。",
+		"concept": "A white vitrified translucent ceramic; china まるで「宝貝ポルチェラーナ』のように、透き通り輝く地肌。土が、炎という名の試練を越えて、宝石へと、再び産まれ変わった姿なのですよ。",
+		"thinking": "まるで「宝貝ポルチェラーナ』のように、透き通り輝く地肌。土が、炎という名の試練を越えて、宝石へと、再び産まれ変わった姿なのですよ。",
 		"aftertaste": "宝石は、宇宙が孤独に耐えきれなくなって、自らの名前を呼ぶために点した、永遠の灯火なのですよ。",
 		"example": "The artisan chose the finest porcelain to complete the luxurious and durable upholstery project.",
 		"deep_dive": {
@@ -208651,8 +208644,8 @@ const WORDS = [
 			],
 			"original_statement": "From 18th Century quarz (German, of uncertain origin)."
 		},
-		"concept": "A hard white or colorless mineral consisting of silicon dioxide, found widely in igneous, sedimentary, and metamorphic rocks and often occurring as hexagonal transparent crystals (透明な(。幾（。何（。学の（。中で（。、ただ（。ひたすら「静（。か（。に（。眠（。る（。クォーツ)』大（。地（。の（。欠（。片（。。（。その（。一点（。の（。濁（。り（。も（。な（。い（。輝（。きは（。、宇宙の（。全（。純粋（。な（。る（。記憶（。を、物語っ（。て（。いる（。のですよ。)",
-		"thinking": "透明な(。幾（。何（。学の（。中で（。、ただ（。ひたすら「静（。か（。に（。眠（。る（。クォーツ)』大（。地（。の（。欠（。片（。。（。その（。一点（。の（。濁（。り（。も（。な（。い（。輝（。きは（。、宇宙の（。全（。純粋（。な（。る（。記憶（。を、物語っ（。て（。いる（。のですよ。",
+		"concept": "A hard white or colorless mineral consisting of silicon dioxide, found widely in igneous, sedimentary, and metamorphic rocks and often occurring as hexagonal transparent crystals 透明な幾何学の中で、ただひたすら「静かに眠るクォーツ』大地の欠片。その一点の濁りもない輝きは、宇宙の全純粋なる記憶を、物語っているのですよ。",
+		"thinking": "透明な幾何学の中で、ただひたすら「静かに眠るクォーツ』大地の欠片。その一点の濁りもない輝きは、宇宙の全純粋なる記憶を、物語っているのですよ。",
 		"aftertaste": "宝石は、宇宙が孤独に耐えきれなくなって、自らの名前を呼ぶために点した、永遠の灯火なのですよ。",
 		"example": "The artisan chose the finest quartz to complete the luxurious and durable upholstery project.",
 		"deep_dive": {
@@ -208679,8 +208672,8 @@ const WORDS = [
 			],
 			"original_statement": "From 14th Century smaragdos (green gem)."
 		},
-		"concept": "A bright green precious stone consisting of a chromium-rich variety of beryl (深い(。森（。の（。奥底（。を（。、一粒（。の（。石に（。閉じ（。込め（。た「緑（。の（。瞳（。スマラグドス)』。（。見（。つ（。める（。たびに（。、あなた（。の（。魂は（。、生命（。の（。源（。へと（。、再び（。還（。る（。のですよ。)",
-		"thinking": "深い(。森（。の（。奥底（。を（。、一粒（。の（。石に（。閉じ（。込め（。た「緑（。の（。瞳（。スマラグドス)』。（。見（。つ（。める（。たびに（。、あなた（。の（。魂は（。、生命（。の（。源（。へと（。、再び（。還（。る（。のですよ。",
+		"concept": "A bright green precious stone consisting of a chromium-rich variety of beryl 深い森の奥底を、一粒の石に閉じ込めた「緑の瞳スマラグドス』。見つめるたびに、あなたの魂は、生命の源へと、再び還るのですよ。",
+		"thinking": "深い森の奥底を、一粒の石に閉じ込めた「緑の瞳スマラグドス』。見つめるたびに、あなたの魂は、生命の源へと、再び還るのですよ。",
 		"aftertaste": "宝石は、宇宙が孤独に耐えきれなくなって、自らの名前を呼ぶために点した、永遠の灯火なのですよ。",
 		"example": "The artisan chose the finest emerald to complete the luxurious and durable upholstery project.",
 		"deep_dive": {
@@ -208707,8 +208700,8 @@ const WORDS = [
 			],
 			"original_statement": "From 13th Century sappheiros (precious stone, blue, literal: 'beloved of Saturn')."
 		},
-		"concept": "A transparent precious stone, typically blue, which is a variety of corundum  (夜空(。の（。深淵（。を（。、結晶（。さ（。せた「青（。い（。誓（。い（。サフィール)』。（。その（。冷（。徹（。な（。る（。眩（。し（。さが（。、あなた（。に（。、ゆる（。ぎ（。な（。い（。意志（。と（。、静（。か（。な（。る（。調和（。を（。、与（。えて（。くれる（。の（。ですよ。)",
-		"thinking": "夜空(。の（。深淵（。を（。、結晶（。さ（。せた「青（。い（。誓（。い（。サフィール)』。（。その（。冷（。徹（。な（。る（。眩（。し（。さが（。、あなた（。に（。、ゆる（。ぎ（。な（。い（。意志（。と（。、静（。か（。な（。る（。調和（。を（。、与（。えて（。くれる（。の（。ですよ。",
+		"concept": "A transparent precious stone, typically blue, which is a variety of corundum  夜空の深淵を、結晶させた「青い誓いサフィール』。その冷徹なる眩しさが、あなたに、ゆるぎない意志と、静かなる調和を、与えてくれるのですよ。",
+		"thinking": "夜空の深淵を、結晶させた「青い誓いサフィール』。その冷徹なる眩しさが、あなたに、ゆるぎない意志と、静かなる調和を、与えてくれるのですよ。",
 		"aftertaste": "宝石は、宇宙が孤独に耐えきれなくなって、自らの名前を呼ぶために点した、永遠の灯火なのですよ。",
 		"example": "The artisan chose the finest sapphire to complete the luxurious and durable upholstery project.",
 		"deep_dive": {
@@ -208735,8 +208728,8 @@ const WORDS = [
 			],
 			"original_statement": "From 14th Century rubeus (red)."
 		},
-		"concept": "A precious stone consisting of corundum in color varieties varying from deep crimson or purple to pale rose (大地(。の（。血汐（。が（。、一（。点（。に（。凝縮（。し（。て（。産まれた「赤（。い（。ルベ)閃光。（。その（。烈（。し（。い（。情熱が（。、凍（。て（。つ（。い（。た（。日常に、眩（。しい（。ほどの（。、希望（。の（。火を（。灯（。す（。のです。)",
-		"thinking": "大地(。の（。血汐（。が（。、一（。点（。に（。凝縮（。し（。て（。産まれた「赤（。い（。ルベ)閃光。（。その（。烈（。し（。い（。情熱が（。、凍（。て（。つ（。い（。た（。日常に、眩（。しい（。ほどの（。、希望（。の（。火を（。灯（。す（。のです。",
+		"concept": "A precious stone consisting of corundum in color varieties varying from deep crimson or purple to pale rose 大地の血汐が、一点に凝縮して産まれた「赤いルベ閃光。その烈しい情熱が、凍てついた日常に、眩しいほどの、希望の火を灯すのです。",
+		"thinking": "大地の血汐が、一点に凝縮して産まれた「赤いルベ閃光。その烈しい情熱が、凍てついた日常に、眩しいほどの、希望の火を灯すのです。",
 		"aftertaste": "宝石は、宇宙が孤独に耐えきれなくなって、自らの名前を呼ぶために点した、永遠の灯火なのですよ。",
 		"example": "The artisan chose the finest ruby to complete the luxurious and durable upholstery project.",
 		"deep_dive": {
@@ -208763,8 +208756,8 @@ const WORDS = [
 			],
 			"original_statement": "From 17th Century Brundisium (Brindisi, city in Italy)."
 		},
-		"concept": "A yellowish-brown alloy of copper with up to one-third tin (かつて(。の「都市（。ブルンディシウム)』で（。磨（。き（。抜（。かれた（。、黄金（。色（。の（。均衡。（。時（。を（。経（。る（。たび（。に（。、緑青（。という（。名の（。、気高い（。る（。沈黙（。を（。纏（。っ（。て（。いく（。のですよ。)",
-		"thinking": "かつて(。の「都市（。ブルンディシウム)』で（。磨（。き（。抜（。かれた（。、黄金（。色（。の（。均衡。（。時（。を（。経（。る（。たび（。に（。、緑青（。という（。名の（。、気高い（。る（。沈黙（。を（。纏（。っ（。て（。いく（。のですよ。",
+		"concept": "A yellowish-brown alloy of copper with up to one-third tin かつての「都市ブルンディシウム』で磨き抜かれた、黄金色の均衡。時を経るたびに、緑青という名の、気高いる沈黙を纏っていくのですよ。",
+		"thinking": "かつての「都市ブルンディシウム』で磨き抜かれた、黄金色の均衡。時を経るたびに、緑青という名の、気高いる沈黙を纏っていくのですよ。",
 		"aftertaste": "宝石は、宇宙が孤独に耐えきれなくなって、自らの名前を呼ぶために点した、永遠の灯火なのですよ。",
 		"example": "The artisan chose the finest bronze to complete the luxurious and durable upholstery project.",
 		"deep_dive": {
@@ -208791,8 +208784,8 @@ const WORDS = [
 			],
 			"original_statement": "From 13th Century pretium (price)."
 		},
-		"concept": "Of great value; not to be wasted or treated carelessly (単(。なる（。数値（。を（。越（。え（。た（。、「至高（。の（。価値（。プレティ)」を（。持（。った（。もの（。。（。その（。煌（。めきは（。、あなたが（。そ（。れ（。を（。、どれ（。ほど（。愛（。して（。いる（。か（。を（。、物（。語（。って（。いる（。のですよ。)",
-		"thinking": "単(。なる（。数値（。を（。越（。え（。た（。、「至高（。の（。価値（。プレティ)」を（。持（。った（。もの（。。（。その（。煌（。めきは（。、あなたが（。そ（。れ（。を（。、どれ（。ほど（。愛（。して（。いる（。か（。を（。、物（。語（。って（。いる（。のですよ。",
+		"concept": "Of great value; not to be wasted or treated carelessly 単なる数値を越えた、「至高の価値プレティ」を持ったもの。その煌めきは、あなたがそれを、どれほど愛しているかを、物語っているのですよ。",
+		"thinking": "単なる数値を越えた、「至高の価値プレティ」を持ったもの。その煌めきは、あなたがそれを、どれほど愛しているかを、物語っているのですよ。",
 		"aftertaste": "価値は、価格が決めるのではなく、あなたがそれをどれほど必要としているか、という魂の叫びが決めるのですよ。",
 		"example": "The biological process of precious allows organisms to survive in rapidly changing environments.",
 		"deep_dive": {
@@ -208819,8 +208812,8 @@ const WORDS = [
 			],
 			"original_statement": "From 14th Century veritas (truth)."
 		},
-		"concept": "A true principle or belief, especially one of fundamental importance (宇宙の(。全記憶を（。一（。つ（。の（。言葉に（。凝縮（。させた「真（。実（。ヴェリタス)』。（。それは（。、揺（。る（。ぎ（。な（。い（。一点（。の（。光（。として、あなた（。の（。魂を（。、永遠（。に（。、導（。き（。続け（。る（。のですよ。)",
-		"thinking": "宇宙の(。全記憶を（。一（。つ（。の（。言葉に（。凝縮（。させた「真（。実（。ヴェリタス)』。（。それは（。、揺（。る（。ぎ（。な（。い（。一点（。の（。光（。として、あなた（。の（。魂を（。、永遠（。に（。、導（。き（。続け（。る（。のですよ。",
+		"concept": "A true principle or belief, especially one of fundamental importance 宇宙の全記憶を一つの言葉に凝縮させた「真実ヴェリタス』。それは、揺るぎない一点の光として、あなたの魂を、永遠に、導き続けるのですよ。",
+		"thinking": "宇宙の全記憶を一つの言葉に凝縮させた「真実ヴェリタス』。それは、揺るぎない一点の光として、あなたの魂を、永遠に、導き続けるのですよ。",
 		"aftertaste": "公理は、疑うことをやめた場所にあるのではありません。信じ抜くことを決意した、峻烈なる一点にあるのですよ。",
 		"example": "The scientific community accepted the new verity after rigorous peer review and extensive replication experiments.",
 		"deep_dive": {
@@ -208847,8 +208840,8 @@ const WORDS = [
 			],
 			"original_statement": "From 16th Century postulare (to demand, literal: 'to request')."
 		},
-		"concept": "Suggest or assume the existence, fact, or truth of something as a basis for reasoning, discussion, or belief (真理に(。至る（。ために、まず「要（。件を（。求（。め（。る（。ポスチュル)」こと（。。（。その（。謙虚（。な（。る（。一歩（。が（。、未だ（。見（。ぬ（。世界（。への（。扉（。を（。、静（。か（。に（。、叩（。き（。開ける（。のですよ。)",
-		"thinking": "真理に(。至る（。ために、まず「要（。件を（。求（。め（。る（。ポスチュル)」こと（。。（。その（。謙虚（。な（。る（。一歩（。が（。、未だ（。見（。ぬ（。世界（。への（。扉（。を（。、静（。か（。に（。、叩（。き（。開ける（。のですよ。",
+		"concept": "Suggest or assume the existence, fact, or truth of something as a basis for reasoning, discussion, or belief 真理に至るために、まず「要件を求めるポスチュル」こと。その謙虚なる一歩が、未だ見ぬ世界への扉を、静かに、叩き開けるのですよ。",
+		"thinking": "真理に至るために、まず「要件を求めるポスチュル」こと。その謙虚なる一歩が、未だ見ぬ世界への扉を、静かに、叩き開けるのですよ。",
 		"aftertaste": "公理は、疑うことをやめた場所にあるのではありません。信じ抜くことを決意した、峻烈なる一点にあるのですよ。",
 		"example": "The scientific community accepted the new postulate after rigorous peer review and extensive replication experiments.",
 		"deep_dive": {
@@ -208867,7 +208860,7 @@ const WORDS = [
 	{
 		"id": "corollary_truth",
 		"word": "corollary",
-		"meaning": "系（。けい（。）」、当然の結果、コロラリー",
+		"meaning": "系けい」、当然の結果、コロラリー",
 		"era": "14th Century",
 		"etymology": {
 			"components": [
@@ -208875,8 +208868,8 @@ const WORDS = [
 			],
 			"original_statement": "From 14th Century corollarium (gift, literal: 'money for a small wreath')."
 		},
-		"concept": "A proposition that follows from  one already proved (巨大な(。る（。真理に（。、そっと（。添え（。られた「小（。さな（。花冠（。コロラ)という（。名の（。贈り物』。（。その（。当然の（。る（。結末の中に（。、美（。し（。い（。調和（。が（。満た（。さ（。れて（。いる（。のですよ。)",
-		"thinking": "巨大な(。る（。真理に（。、そっと（。添え（。られた「小（。さな（。花冠（。コロラ)という（。名の（。贈り物』。（。その（。当然の（。る（。結末の中に（。、美（。し（。い（。調和（。が（。満た（。さ（。れて（。いる（。のですよ。",
+		"concept": "A proposition that follows from  one already proved 巨大なる真理に、そっと添えられた「小さな花冠コロラという名の贈り物』。その当然のる結末の中に、美しい調和が満たされているのですよ。",
+		"thinking": "巨大なる真理に、そっと添えられた「小さな花冠コロラという名の贈り物』。その当然のる結末の中に、美しい調和が満たされているのですよ。",
 		"aftertaste": "公理は、疑うことをやめた場所にあるのではありません。信じ抜くことを決意した、峻烈なる一点にあるのですよ。",
 		"example": "The scientific community accepted the new corollary after rigorous peer review and extensive replication experiments.",
 		"deep_dive": {
@@ -208895,7 +208888,7 @@ const WORDS = [
 	{
 		"id": "lemma_truth",
 		"word": "lemma",
-		"meaning": "補題（。ほだい（。）」、レマ、前提",
+		"meaning": "補題ほだい」、レマ、前提",
 		"era": "16th Century",
 		"etymology": {
 			"components": [
@@ -208903,8 +208896,8 @@ const WORDS = [
 			],
 			"original_statement": "From 16th Century lambanein (to take, literal: 'something taken')."
 		},
-		"concept": "A subsidiary proposition derived from another and used in a proof (真理(。への（。旅路で、「そっと（。受け（。取（。った（。レンマ)」、小（。さな（。る（。真実（。。（。その（。一（。つ（。一（。つ（。が（。、やがて（。、巨大（。な（。証明（。へと（。、繋（。が（。っ（。て（。いく（。のですよ。)",
-		"thinking": "真理(。への（。旅路で、「そっと（。受け（。取（。った（。レンマ)」、小（。さな（。る（。真実（。。（。その（。一（。つ（。一（。つ（。が（。、やがて（。、巨大（。な（。証明（。へと（。、繋（。が（。っ（。て（。いく（。のですよ。",
+		"concept": "A subsidiary proposition derived from another and used in a proof 真理への旅路で、「そっと受け取ったレンマ」、小さなる真実。その一つ一つが、やがて、巨大な証明へと、繋がっていくのですよ。",
+		"thinking": "真理への旅路で、「そっと受け取ったレンマ」、小さなる真実。その一つ一つが、やがて、巨大な証明へと、繋がっていくのですよ。",
 		"aftertaste": "公理は、疑うことをやめた場所にあるのではありません。信じ抜くことを決意した、峻烈なる一点にあるのですよ。",
 		"example": "The scientific community accepted the new lemma after rigorous peer review and extensive replication experiments.",
 		"deep_dive": {
@@ -208931,8 +208924,8 @@ const WORDS = [
 			],
 			"original_statement": "From Old English āth (oath)."
 		},
-		"concept": "A solemn promise, often invoking a divine witness, regarding one's future action or behavior (沈黙という(。名の（。檻を（。破り（。、ただ（。一（。つ（。の「言葉（。オース)』に（。身を（。委（。ね（。る（。こと（。。（。その（。誓（。い（。が（。、あなた（。を（。、不（。可能（。を（。可能（。に（。する（。場所へと（。、誘（。い（。ます。)",
-		"thinking": "沈黙という(。名の（。檻を（。破り（。、ただ（。一（。つ（。の「言葉（。オース)』に（。身を（。委（。ね（。る（。こと（。。（。その（。誓（。い（。が（。、あなた（。を（。、不（。可能（。を（。可能（。に（。する（。場所へと（。、誘（。い（。ます。",
+		"concept": "A solemn promise, often invoking a divine witness, regarding one's future action or behavior 沈黙という名の檻を破り、ただ一つの「言葉オース』に身を委ねること。その誓いが、あなたを、不可能を可能にする場所へと、誘います。",
+		"thinking": "沈黙という名の檻を破り、ただ一つの「言葉オース』に身を委ねること。その誓いが、あなたを、不可能を可能にする場所へと、誘います。",
 		"aftertaste": "公理は、疑うことをやめた場所にあるのではありません。信じ抜くことを決意した、峻烈なる一点にあるのですよ。",
 		"example": "The scientific community accepted the new oath after rigorous peer review and extensive replication experiments.",
 		"deep_dive": {
@@ -208959,8 +208952,8 @@ const WORDS = [
 			],
 			"original_statement": "From 14th Century circum- (around) + ire (to go, literal: 'going around')."
 		},
-		"concept": "A roughly circular line, route, or movement that starts and finishes at the same place (迷(。う（。こと（。なく「周囲を（。サーカム)行く(。イ)」、美（。し（。い（。円（。環（。（。その（。閉（。じ（。た（。回廊（。を（。、エナジー（。は（。、永遠（。に（。、駆け（。抜（。け（。続け（。る（。のですよ。)",
-		"thinking": "迷(。う（。こと（。なく「周囲を（。サーカム)行く(。イ)」、美（。し（。い（。円（。環（。（。その（。閉（。じ（。た（。回廊（。を（。、エナジー（。は（。、永遠（。に（。、駆け（。抜（。け（。続け（。る（。のですよ。",
+		"concept": "A roughly circular line, route, or movement that starts and finishes at the same place 迷うことなく「周囲をサーカム行くイ」、美しい円環その閉じた回廊を、エナジーは、永遠に、駆け抜け続けるのですよ。",
+		"thinking": "迷うことなく「周囲をサーカム行くイ」、美しい円環その閉じた回廊を、エナジーは、永遠に、駆け抜け続けるのですよ。",
 		"aftertaste": "調和は、静止した場所にあるのではありません。反発し合うエナジーが、奇跡的に均衡を保っている、その最前線にあるのですよ。",
 		"example": "The successful circuit between the two research teams led to a major breakthrough in renewable energy technology.",
 		"deep_dive": {
@@ -208979,7 +208972,7 @@ const WORDS = [
 	{
 		"id": "settlement_connect",
 		"word": "settlement",
-		"meaning": "和解、定住（。地（。、セトルメント",
+		"meaning": "和解、定住地、セトルメント",
 		"era": "14th Century",
 		"etymology": {
 			"components": [
@@ -208987,8 +208980,8 @@ const WORDS = [
 			],
 			"original_statement": "From 14th Century setlan (to cause to sit)."
 		},
-		"concept": "An official agreement intended to resolve a dispute or conflict (荒(。れ（。狂（。う（。嵐を（。静（。め（。、「安（。ら（。かに（。座（。らせる（。セトル)」こと（。。（。その（。静（。な（。る（。決（。着（。が（。、新（。しい（。大地（。に、根（。を（。下（。ろ（。す（。、始（。まり（。に（。なる（。のですよ。)",
-		"thinking": "荒(。れ（。狂（。う（。嵐を（。静（。め（。、「安（。ら（。かに（。座（。らせる（。セトル)」こと（。。（。その（。静（。な（。る（。決（。着（。が（。、新（。しい（。大地（。に、根（。を（。下（。ろ（。す（。、始（。まり（。に（。なる（。のですよ。",
+		"concept": "An official agreement intended to resolve a dispute or conflict 荒れ狂う嵐を静め、「安らかに座らせるセトル」こと。その静なる決着が、新しい大地に、根を下ろす、始まりになるのですよ。",
+		"thinking": "荒れ狂う嵐を静め、「安らかに座らせるセトル」こと。その静なる決着が、新しい大地に、根を下ろす、始まりになるのですよ。",
 		"aftertaste": "調和は、静止した場所にあるのではありません。反発し合うエナジーが、奇跡的に均衡を保っている、その最前線にあるのですよ。",
 		"example": "The successful settlement between the two research teams led to a major breakthrough in renewable energy technology.",
 		"deep_dive": {
@@ -209015,8 +209008,8 @@ const WORDS = [
 			],
 			"original_statement": "From 17th Century foedus (league, treaty, literal: 'faith')."
 		},
-		"concept": "A group of states with a central government but independence in internal affairs (個(。々の（。誇り（。を（。保（。ち（。な（。がら（。、「信頼（。フェド)という(。名の（。契（。約（。)」で（。結（。ば（。れる（。こと（。。（。その（。多（。様（。性（。の（。中にある（。、一（。つ（。の（。意志が（。、世界を（。、支えて（。いる（。の（。ですよ。)",
-		"thinking": "個(。々の（。誇り（。を（。保（。ち（。な（。がら（。、「信頼（。フェド)という(。名の（。契（。約（。)」で（。結（。ば（。れる（。こと（。。（。その（。多（。様（。性（。の（。中にある（。、一（。つ（。の（。意志が（。、世界を（。、支えて（。いる（。の（。ですよ。",
+		"concept": "A group of states with a central government but independence in internal affairs 個々の誇りを保ちながら、「信頼フェドという名の契約」で結ばれること。その多様性の中にある、一つの意志が、世界を、支えているのですよ。",
+		"thinking": "個々の誇りを保ちながら、「信頼フェドという名の契約」で結ばれること。その多様性の中にある、一つの意志が、世界を、支えているのですよ。",
 		"aftertaste": "調和は、静止した場所にあるのではありません。反発し合うエナジーが、奇跡的に均衡を保っている、その最前線にあるのですよ。",
 		"example": "The successful federation between the two research teams led to a major breakthrough in renewable energy technology.",
 		"deep_dive": {
@@ -209043,8 +209036,8 @@ const WORDS = [
 			],
 			"original_statement": "From Old English feolage (partner) + -ship."
 		},
-		"concept": "Friendly association, especially with people who share one's interests (一(。つ（。の（。目（。的に（。向（。かって（。、魂を「預（。け（。合う（。フェロー)」仲間たち（。（。その（。静（。か（。な（。る（。連帯（。の中にこそ（。、孤独（。を（。越元（。た（。、至高の（。る（。力（。が（。、宿ります。)",
-		"thinking": "一(。つ（。の（。目（。的に（。向（。かって（。、魂を「預（。け（。合う（。フェロー)」仲間たち（。（。その（。静（。か（。な（。る（。連帯（。の中にこそ（。、孤独（。を（。越元（。た（。、至高の（。る（。力（。が（。、宿ります。",
+		"concept": "Friendly association, especially with people who share one's interests 一つの目的に向かって、魂を「預け合うフェロー」仲間たちその静かなる連帯の中にこそ、孤独を越元た、至高のる力が、宿ります。",
+		"thinking": "一つの目的に向かって、魂を「預け合うフェロー」仲間たちその静かなる連帯の中にこそ、孤独を越元た、至高のる力が、宿ります。",
 		"aftertaste": "調和は、静止した場所にあるのではありません。反発し合うエナジーが、奇跡的に均衡を保っている、その最前線にあるのですよ。",
 		"example": "The successful fellowship between the two research teams led to a major breakthrough in renewable energy technology.",
 		"deep_dive": {
@@ -209063,7 +209056,7 @@ const WORDS = [
 	{
 		"id": "sorority_connect",
 		"word": "sorority",
-		"meaning": "女子学生（。親（。睦（。団体（。、ソロリティ",
+		"meaning": "女子学生親睦団体、ソロリティ",
 		"era": "16th Century",
 		"etymology": {
 			"components": [
@@ -209071,8 +209064,8 @@ const WORDS = [
 			],
 			"original_statement": "From 16th Century soror (sister)."
 		},
-		"concept": "A society for female students in a university or college (優(。し（。さと（。強（。さを（。兼（。ね（。備（。えた（。、「姉（。妹（。ソロール)のような(。絆（。)」。（。その（。細（。や（。かな（。る（。共鳴（。が（。、不（。毛（。なる（。世界（。に（。、美し（。い（。花（。を（。、咲（。か（。せ（。続け（。る（。のですよ。)",
-		"thinking": "優(。し（。さと（。強（。さを（。兼（。ね（。備（。えた（。、「姉（。妹（。ソロール)のような(。絆（。)」。（。その（。細（。や（。かな（。る（。共鳴（。が（。、不（。毛（。なる（。世界（。に（。、美し（。い（。花（。を（。、咲（。か（。せ（。続け（。る（。のですよ。",
+		"concept": "A society for female students in a university or college 優しさと強さを兼ね備えた、「姉妹ソロールのような絆」。その細やかなる共鳴が、不毛なる世界に、美しい花を、咲かせ続けるのですよ。",
+		"thinking": "優しさと強さを兼ね備えた、「姉妹ソロールのような絆」。その細やかなる共鳴が、不毛なる世界に、美しい花を、咲かせ続けるのですよ。",
 		"aftertaste": "調和は、静止した場所にあるのではありません。反発し合うエナジーが、奇跡的に均衡を保っている、その最前線にあるのですよ。",
 		"example": "The successful sorority between the two research teams led to a major breakthrough in renewable energy technology.",
 		"deep_dive": {
@@ -209091,7 +209084,7 @@ const WORDS = [
 	{
 		"id": "collective_connect",
 		"word": "collective",
-		"meaning": "集合的（。な（。）、集団、コレクティブ",
+		"meaning": "集合的な、集団、コレクティブ",
 		"era": "15th Century",
 		"etymology": {
 			"components": [
@@ -209099,8 +209092,8 @@ const WORDS = [
 			],
 			"original_statement": "From 15th Century com- (together) + legere (to gather, literal: 'gathered together')."
 		},
-		"concept": "Done by people acting as a group (バラバラ(。の（。欠片（。を（。、「一（。つ（。に（。コン)集(。める（。レク)」こと（。。（。個（。の（。限界を（。越（。え（。た（。場所（。に（。、巨大（。な（。る（。意（。志（。の（。化身（。が（。、静（。か（。に（。、顕（。現（。する（。のですよ。)",
-		"thinking": "バラバラ(。の（。欠片（。を（。、「一（。つ（。に（。コン)集(。める（。レク)」こと（。。（。個（。の（。限界を（。越（。え（。た（。場所（。に（。、巨大（。な（。る（。意（。志（。の（。化身（。が（。、静（。か（。に（。、顕（。現（。する（。のですよ。",
+		"concept": "Done by people acting as a group バラバラの欠片を、「一つにコン集めるレク」こと。個の限界を越えた場所に、巨大なる意志の化身が、静かに、顕現するのですよ。",
+		"thinking": "バラバラの欠片を、「一つにコン集めるレク」こと。個の限界を越えた場所に、巨大なる意志の化身が、静かに、顕現するのですよ。",
 		"aftertaste": "調和は、静止した場所にあるのではありません。反発し合うエナジーが、奇跡的に均衡を保っている、その最前線にあるのですよ。",
 		"example": "The successful collective between the two research teams led to a major breakthrough in renewable energy technology.",
 		"deep_dive": {
@@ -209119,7 +209112,7 @@ const WORDS = [
 	{
 		"id": "cavern_space",
 		"word": "cavern",
-		"meaning": "洞窟、大洞穴（。だいどうけつ（。）」、キャバーン",
+		"meaning": "洞窟、大洞穴だいどうけつ」、キャバーン",
 		"era": "14th Century",
 		"etymology": {
 			"components": [
@@ -209127,8 +209120,8 @@ const WORDS = [
 			],
 			"original_statement": "From 14th Century cavus (hollow, literal: 'hollow place')."
 		},
-		"concept": "A cave, or a chamber in a cave, typically a large one (大地(。の（。胎（。内（。に（。隠された（。「深（。い（。空洞（。キャヴァス)』。（。そこ（。には（。、目（。に（。見（。え（。な（。い（。歴史（。の（。響きが（。、静（。か（。に（。、反乱（。し（。て（。いる（。のですよ。)",
-		"thinking": "大地(。の（。胎（。内（。に（。隠された（。「深（。い（。空洞（。キャヴァス)』。（。そこ（。には（。、目（。に（。見（。え（。な（。い（。歴史（。の（。響きが（。、静（。か（。に（。、反乱（。し（。て（。いる（。のですよ。",
+		"concept": "A cave, or a chamber in a cave, typically a large one 大地の胎内に隠された「深い空洞キャヴァス』。そこには、目に見えない歴史の響きが、静かに、反乱しているのですよ。",
+		"thinking": "大地の胎内に隠された「深い空洞キャヴァス』。そこには、目に見えない歴史の響きが、静かに、反乱しているのですよ。",
 		"aftertaste": "頂点に立つということは、同時に広大な虚空を見つめる勇気を持つということなのですよ。",
 		"example": "The rocket reached its cavern and began its descent back to Earth, providing stunning views of the cosmos.",
 		"deep_dive": {
@@ -209147,7 +209140,7 @@ const WORDS = [
 	{
 		"id": "alcove_space",
 		"word": "alcove",
-		"meaning": "凹（。おう（。）」室、アルコーブ",
+		"meaning": "凹おう」室、アルコーブ",
 		"era": "17th Century",
 		"etymology": {
 			"components": [
@@ -209155,8 +209148,8 @@ const WORDS = [
 			],
 			"original_statement": "From 17th Century al-qubba (the vault, dome, literal: 'the arch')."
 		},
-		"concept": "A recess, typically in the wall of a room or of a garden (壁に(。そ（。っ（。と（。作（。られた「小（。さな（。る（。円（。蓋（。クッバ)』のある（。場所（。（。そこ（。は、全（。ての（。喧（。騒から（。、あなた（。を（。優（。しく（。隔（。て（。て（。くれる（。、聖なる（。小（。宇宙なの（。ですよ。)",
-		"thinking": "壁に(。そ（。っ（。と（。作（。られた「小（。さな（。る（。円（。蓋（。クッバ)』のある（。場所（。（。そこ（。は、全（。ての（。喧（。騒から（。、あなた（。を（。優（。しく（。隔（。て（。て（。くれる（。、聖なる（。小（。宇宙なの（。ですよ。",
+		"concept": "A recess, typically in the wall of a room or of a garden 壁にそっと作られた「小さなる円蓋クッバ』のある場所そこは、全ての喧騒から、あなたを優しく隔ててくれる、聖なる小宇宙なのですよ。",
+		"thinking": "壁にそっと作られた「小さなる円蓋クッバ』のある場所そこは、全ての喧騒から、あなたを優しく隔ててくれる、聖なる小宇宙なのですよ。",
 		"aftertaste": "頂点に立つということは、同時に広大な虚空を見つめる勇気を持つということなのですよ。",
 		"example": "The rocket reached its alcove and began its descent back to Earth, providing stunning views of the cosmos.",
 		"deep_dive": {
@@ -209183,8 +209176,8 @@ const WORDS = [
 			],
 			"original_statement": "From 13th Century regimen (government, system, literal: 'rule')."
 		},
-		"concept": "A kingdom (ただ一(。つ（。の（。秩序（。に「支配（。レギ)さ(。れた（。)」、峻（。烈（。な（。る（。空間。（。あなた（。は（。、今（。、何（。色（。の（。法則（。に（。、身（。を（。委（。ね（。て（。いる（。の（。でしょうか。)",
-		"thinking": "ただ一(。つ（。の（。秩序（。に「支配（。レギ)さ(。れた（。)」、峻（。烈（。な（。る（。空間。（。あなた（。は（。、今（。、何（。色（。の（。法則（。に（。、身（。を（。委（。ね（。て（。いる（。の（。でしょうか。",
+		"concept": "A kingdom ただ一つの秩序に「支配レギされた」、峻烈なる空間。あなたは、今、何色の法則に、身を委ねているのでしょうか。",
+		"thinking": "ただ一つの秩序に「支配レギされた」、峻烈なる空間。あなたは、今、何色の法則に、身を委ねているのでしょうか。",
 		"aftertaste": "頂点に立つということは、同時に広大な虚空を見つめる勇気を持つということなのですよ。",
 		"example": "The rocket reached its realm and began its descent back to Earth, providing stunning views of the cosmos.",
 		"deep_dive": {
@@ -209211,8 +209204,8 @@ const WORDS = [
 			],
 			"original_statement": "From 14th Century bulke (heap, cargo ship's hold)."
 		},
-		"concept": "The mass or magnitude of something large (一(。つ（。の（。点（。に（。は（。収まり（。き（。ら（。ぬ（。、「巨大（。な（。る（。積み（。荷（。バルク)』。（。その（。圧倒（。的（。な（。物質（。性（。に（。、魂は（。、時（。に、畏（。敬（。の（。念を（。、抱（。か（。ざ（。る（。を（。得（。ない（。のですよ。)",
-		"thinking": "一(。つ（。の（。点（。に（。は（。収まり（。き（。ら（。ぬ（。、「巨大（。な（。る（。積み（。荷（。バルク)』。（。その（。圧倒（。的（。な（。物質（。性（。に（。、魂は（。、時（。に、畏（。敬（。の（。念を（。、抱（。か（。ざ（。る（。を（。得（。ない（。のですよ。",
+		"concept": "The mass or magnitude of something large 一つの点には収まりきらぬ、「巨大なる積み荷バルク』。その圧倒的な物質性に、魂は、時に、畏敬の念を、抱かざるを得ないのですよ。",
+		"thinking": "一つの点には収まりきらぬ、「巨大なる積み荷バルク』。その圧倒的な物質性に、魂は、時に、畏敬の念を、抱かざるを得ないのですよ。",
 		"aftertaste": "頂点に立つということは、同時に広大な虚空を見つめる勇気を持つということなのですよ。",
 		"example": "The rocket reached its bulk and began its descent back to Earth, providing stunning views of the cosmos.",
 		"deep_dive": {
@@ -209239,8 +209232,8 @@ const WORDS = [
 			],
 			"original_statement": "From 14th Century texere (to weave)."
 		},
-		"concept": "Any of the distinct types of material of which animals or plants are made, consisting of specialized cells and their products (バラバラ(。の（。細胞（。たちが（。、美し（。い（。秩序（。で「織（。り（。上げ（。られた（。テク)」もの（。たちの（。連（。なり。（。その（。一枚（。の（。布のような（。繋がり（。が（。、あなた（。という（。存在を、底（。知（。れ（。ぬ（。力（。で（。支え（。て（。いる（。のですよ。)",
-		"thinking": "バラバラ(。の（。細胞（。たちが（。、美し（。い（。秩序（。で「織（。り（。上げ（。られた（。テク)」もの（。たちの（。連（。なり。（。その（。一枚（。の（。布のような（。繋がり（。が（。、あなた（。という（。存在を、底（。知（。れ（。ぬ（。力（。で（。支え（。て（。いる（。のですよ。",
+		"concept": "Any of the distinct types of material of which animals or plants are made, consisting of specialized cells and their products バラバラの細胞たちが、美しい秩序で「織り上げられたテク」ものたちの連なり。その一枚の布のような繋がりが、あなたという存在を、底知れぬ力で支えているのですよ。",
+		"thinking": "バラバラの細胞たちが、美しい秩序で「織り上げられたテク」ものたちの連なり。その一枚の布のような繋がりが、あなたという存在を、底知れぬ力で支えているのですよ。",
 		"aftertaste": "全ての結末は、最初の一歩に予兆として含まれている。それを読み解くことこそが、知性という名の魔法なのですよ。",
 		"example": "The scientist investigated the tissue of the problem to find a sustainable and effective solution.",
 		"deep_dive": {
@@ -209259,7 +209252,7 @@ const WORDS = [
 	{
 		"id": "valve_origin",
 		"word": "valve",
-		"meaning": "弁（。べん（。）」、バルブ、真空管",
+		"meaning": "弁べん」、バルブ、真空管",
 		"era": "14th Century",
 		"etymology": {
 			"components": [
@@ -209267,8 +209260,8 @@ const WORDS = [
 			],
 			"original_statement": "From 14th Century valva (folding door, literal: 'turning leaf')."
 		},
-		"concept": "A device for controlling the passage of fluid through a pipe or duct, especially an automatic device that allows movement in one direction only (逆(。流を（。許（。さ（。な（。い「回転（。する（。扉（。ヴァルヴァ)』。（。その（。峻（。烈（。な（。る（。決断（。が（。、生命（。の（。拍動を（。、一（。方（。向へと（。、力強（。く（。、押し（。出し（。て（。いく（。のですよ。)",
-		"thinking": "逆(。流を（。許（。さ（。な（。い「回転（。する（。扉（。ヴァルヴァ)』。（。その（。峻（。烈（。な（。る（。決断（。が（。、生命（。の（。拍動を（。、一（。方（。向へと（。、力強（。く（。、押し（。出し（。て（。いく（。のですよ。",
+		"concept": "A device for controlling the passage of fluid through a pipe or duct, especially an automatic device that allows movement in one direction only 逆流を許さない「回転する扉ヴァルヴァ』。その峻烈なる決断が、生命の拍動を、一方向へと、力強く、押し出していくのですよ。",
+		"thinking": "逆流を許さない「回転する扉ヴァルヴァ』。その峻烈なる決断が、生命の拍動を、一方向へと、力強く、押し出していくのですよ。",
 		"aftertaste": "全ての結末は、最初の一歩に予兆として含まれている。それを読み解くことこそが、知性という名の魔法なのですよ。",
 		"example": "The scientist investigated the valve of the problem to find a sustainable and effective solution.",
 		"deep_dive": {
@@ -209295,8 +209288,8 @@ const WORDS = [
 			],
 			"original_statement": "From 14th Century strac (strong, stiff, literal: 'stiffening')."
 		},
-		"concept": "An odorless, tasteless white substance occurring widely in plant tissue and obtained chiefly from cereals and potatoes (太陽の(。エナジーを、結晶（。さ（。せて「硬（。く（。固（。め（。た（。スタ)』もの（。たちの（。記憶（。（。その（。素朴（。な（。る（。備（。えが（。、いつか（。、巨大（。な（。る（。飛躍を（。、静（。か（。に（。、支える（。の（。ですよ。)",
-		"thinking": "太陽の(。エナジーを、結晶（。さ（。せて「硬（。く（。固（。め（。た（。スタ)』もの（。たちの（。記憶（。（。その（。素朴（。な（。る（。備（。えが（。、いつか（。、巨大（。な（。る（。飛躍を（。、静（。か（。に（。、支える（。の（。ですよ。",
+		"concept": "An odorless, tasteless white substance occurring widely in plant tissue and obtained chiefly from cereals and potatoes 太陽のエナジーを、結晶させて「硬く固めたスタ』ものたちの記憶その素朴なる備えが、いつか、巨大なる飛躍を、静かに、支えるのですよ。",
+		"thinking": "太陽のエナジーを、結晶させて「硬く固めたスタ』ものたちの記憶その素朴なる備えが、いつか、巨大なる飛躍を、静かに、支えるのですよ。",
 		"aftertaste": "全ての結末は、最初の一歩に予兆として含まれている。それを読み解くことこそが、知性という名の魔法なのですよ。",
 		"example": "The scientist investigated the starch of the problem to find a sustainable and effective solution.",
 		"deep_dive": {
@@ -209323,8 +209316,8 @@ const WORDS = [
 			],
 			"original_statement": "From 20th Century lipos (fat)."
 		},
-		"concept": "Any of a class of organic compounds that are fatty acids or their derivatives and are insoluble in water but soluble in organic solvents (エナジーを(。、一（。時（。の（。微（。睡（。みの中に「蓄（。え（。た（。リポス)』、温（。か（。な（。る（。沈黙（。（。その（。滑（。らかな（。る（。ヴェールが（。、あなた（。を（。、外界の（。荒波から、静（。か（。に（。、守（。って（。くれる（。のですよ。)",
-		"thinking": "エナジーを(。、一（。時（。の（。微（。睡（。みの中に「蓄（。え（。た（。リポス)』、温（。か（。な（。る（。沈黙（。（。その（。滑（。らかな（。る（。ヴェールが（。、あなた（。を（。、外界の（。荒波から、静（。か（。に（。、守（。って（。くれる（。のですよ。",
+		"concept": "Any of a class of organic compounds that are fatty acids or their derivatives and are insoluble in water but soluble in organic solvents エナジーを、一時の微睡みの中に「蓄えたリポス』、温かなる沈黙その滑らかなるヴェールが、あなたを、外界の荒波から、静かに、守ってくれるのですよ。",
+		"thinking": "エナジーを、一時の微睡みの中に「蓄えたリポス』、温かなる沈黙その滑らかなるヴェールが、あなたを、外界の荒波から、静かに、守ってくれるのですよ。",
 		"aftertaste": "全ての結末は、最初の一歩に予兆として含まれている。それを読み解くことこそが、知性という名の魔法なのですよ。",
 		"example": "The scientist investigated the lipid of the problem to find a sustainable and effective solution.",
 		"deep_dive": {
@@ -209351,8 +209344,8 @@ const WORDS = [
 			],
 			"original_statement": "From 13th Century sharkara (gravel, sugar, literal: 'pebble')."
 		},
-		"concept": "A sweet crystalline substance obtained from various plants, especially sugar cane and sugar beet, consisting essentially of sucrose (大地(。の（。底（。に（。、煌（。め（。く「砂（。石（。シャルカラー)』のような（。、至高の（。甘（。い（。エナジー。（。その（。一粒（。一粒（。には（。、太陽の（。微笑（。みが（。、静（。か（。に（。封印（。さ（。れて（。いる（。のですよ。)",
-		"thinking": "大地(。の（。底（。に（。、煌（。め（。く「砂（。石（。シャルカラー)』のような（。、至高の（。甘（。い（。エナジー。（。その（。一粒（。一粒（。には（。、太陽の（。微笑（。みが（。、静（。か（。に（。封印（。さ（。れて（。いる（。のですよ。",
+		"concept": "A sweet crystalline substance obtained from various plants, especially sugar cane and sugar beet, consisting essentially of sucrose 大地の底に、煌めく「砂石シャルカラー』のような、至高の甘いエナジー。その一粒一粒には、太陽の微笑みが、静かに封印されているのですよ。",
+		"thinking": "大地の底に、煌めく「砂石シャルカラー』のような、至高の甘いエナジー。その一粒一粒には、太陽の微笑みが、静かに封印されているのですよ。",
 		"aftertaste": "全ての結末は、最初の一歩に予兆として含まれている。それを読み解くことこそが、知性という名の魔法なのですよ。",
 		"example": "The scientist investigated the sugar of the problem to find a sustainable and effective solution.",
 		"deep_dive": {
@@ -209379,8 +209372,8 @@ const WORDS = [
 			],
 			"original_statement": "From Old English springan (to leap)."
 		},
-		"concept": "A source of water coming from the ground (大地の(。底（。から、突如（。として「跳（。ね（。出す（。スプリング)』、未知（。なる（。エナジー。（。その（。噴（。き（。出し（。続ける（。一（。点（。に、宇宙の（。全記憶が（。、眩（。し（。く（。弾（。け（。て（。いる（。のですよ。)",
-		"thinking": "大地の(。底（。から、突如（。として「跳（。ね（。出す（。スプリング)』、未知（。なる（。エナジー。（。その（。噴（。き（。出し（。続ける（。一（。点（。に、宇宙の（。全記憶が（。、眩（。し（。く（。弾（。け（。て（。いる（。のですよ。",
+		"concept": "A source of water coming from the ground 大地の底から、突如として「跳ね出すスプリング』、未知なるエナジー。その噴き出し続ける一点に、宇宙の全記憶が、眩しく弾けているのですよ。",
+		"thinking": "大地の底から、突如として「跳ね出すスプリング』、未知なるエナジー。その噴き出し続ける一点に、宇宙の全記憶が、眩しく弾けているのですよ。",
 		"aftertaste": "全ての結末は、最初の一歩に予兆として含まれている。それを読み解くことこそが、知性という名の魔法なのですよ。",
 		"example": "The scientist investigated the spring of the problem to find a sustainable and effective solution.",
 		"deep_dive": {
@@ -209407,8 +209400,8 @@ const WORDS = [
 			],
 			"original_statement": "From Old English fons (spring, fountain)."
 		},
-		"concept": "A receptacle in a church for the water used in baptism (言(。葉（。が（。産まれ（。ゆ（。く（。、至高（。の「源泉（。フォンス)』。（。その（。清（。廉（。な（。る（。輝（。きの（。下で（。、あなた（。は（。、再（。び（。新（。しい（。名前を（。、手（。に（。入れ（。る（。ことが（。できる（。のですよ。)",
-		"thinking": "言(。葉（。が（。産まれ（。ゆ（。く（。、至高（。の「源泉（。フォンス)』。（。その（。清（。廉（。な（。る（。輝（。きの（。下で（。、あなた（。は（。、再（。び（。新（。しい（。名前を（。、手（。に（。入れ（。る（。ことが（。できる（。のですよ。",
+		"concept": "A receptacle in a church for the water used in baptism 言葉が産まれゆく、至高の「源泉フォンス』。その清廉なる輝きの下で、あなたは、再び新しい名前を、手に入れることができるのですよ。",
+		"thinking": "言葉が産まれゆく、至高の「源泉フォンス』。その清廉なる輝きの下で、あなたは、再び新しい名前を、手に入れることができるのですよ。",
 		"aftertaste": "全ての結末は、最初の一歩に予兆として含まれている。それを読み解くことこそが、知性という名の魔法なのですよ。",
 		"example": "The scientist investigated the font of the problem to find a sustainable and effective solution.",
 		"deep_dive": {
@@ -209427,7 +209420,7 @@ const WORDS = [
 	{
 		"id": "cataract_liquid",
 		"word": "cataract",
-		"meaning": "大（。瀑（。布（。、白内障、カタラクト",
+		"meaning": "大瀑布、白内障、カタラクト",
 		"era": "15th Century",
 		"etymology": {
 			"components": [
@@ -209455,7 +209448,7 @@ const WORDS = [
 	{
 		"id": "eddy_liquid",
 		"word": "eddy",
-		"meaning": "渦、逆（。流（。、エディ",
+		"meaning": "渦、逆流、エディ",
 		"era": "15th Century",
 		"etymology": {
 			"components": [
@@ -209463,8 +209456,8 @@ const WORDS = [
 			],
 			"original_statement": "From 15th Century ed- (back) + ea (water, literal: 'backward water')."
 		},
-		"concept": "A circular movement of water, counter to a main current, causing a small whirlpool (本(。流（。に（。抗（。い、静（。か（。に「後ろへへと（。エ)還(。る（。)」、小（。さな（。る（。渦（。（。その（。逆説（。的（。な（。る（。遊（。悦の中にこそ（。、真（。実（。の（。思索が（。、宿（。る（。ことが（。できる（。のですよ。)",
-		"thinking": "本(。流（。に（。抗（。い、静（。か（。に「後ろへへと（。エ)還(。る（。)」、小（。さな（。る（。渦（。（。その（。逆説（。的（。な（。る（。遊（。悦の中にこそ（。、真（。実（。の（。思索が（。、宿（。る（。ことが（。できる（。のですよ。",
+		"concept": "A circular movement of water, counter to a main current, causing a small whirlpool 本流に抗い、静かに「後ろへへとエ還る」、小さなる渦その逆説的なる遊悦の中にこそ、真実の思索が、宿ることができるのですよ。",
+		"thinking": "本流に抗い、静かに「後ろへへとエ還る」、小さなる渦その逆説的なる遊悦の中にこそ、真実の思索が、宿ることができるのですよ。",
 		"aftertaste": "渦巻は、自らを中心へと向かわせながら、同時に世界を外側へと押し広げる、静かなる矛盾の舞いなのですよ。",
 		"example": "The heavy rainfall turned the small creek into a raging eddy that threatened to flood the nearby village.",
 		"deep_dive": {
@@ -209491,8 +209484,8 @@ const WORDS = [
 			],
 			"original_statement": "From 19th Century aqua (water) + ferre (to bear, literal: 'water-bearing')."
 		},
-		"concept": "A body of permeable rock which can contain or transmit groundwater (見(。え（。な（。い（。地底（。に（。、命の（。水を「静か（。に（。運（。び（。、蓄（。え（。る（。ファー)大地(。アクア)」。（。その（。重厚（。な（。る（。沈黙に（。、全（。ての（。地上の（。命は（。、そっと（。支（。え（。られて（。いる（。のですよ。)",
-		"thinking": "見(。え（。な（。い（。地底（。に（。、命の（。水を「静か（。に（。運（。び（。、蓄（。え（。る（。ファー)大地(。アクア)」。（。その（。重厚（。な（。る（。沈黙に（。、全（。ての（。地上の（。命は（。、そっと（。支（。え（。られて（。いる（。のですよ。",
+		"concept": "A body of permeable rock which can contain or transmit groundwater 見えない地底に、命の水を「静かに運び、蓄えるファー大地アクア」。その重厚なる沈黙に、全ての地上の命は、そっと支えられているのですよ。",
+		"thinking": "見えない地底に、命の水を「静かに運び、蓄えるファー大地アクア」。その重厚なる沈黙に、全ての地上の命は、そっと支えられているのですよ。",
 		"aftertaste": "渦巻は、自らを中心へと向かわせながら、同時に世界を外側へと押し広げる、静かなる矛盾の舞いなのですよ。",
 		"example": "The heavy rainfall turned the small creek into a raging aquifer that threatened to flood the nearby village.",
 		"deep_dive": {
@@ -209519,8 +209512,8 @@ const WORDS = [
 			],
 			"original_statement": "From 13th Century cista (box, literal: 'box for water')."
 		},
-		"concept": "A tank for storing water, especially one supplying taps or as part of a flushing toilet (命(。の（。エナジーを、そっと「箱（。チスタ)』の中に(。預（。か（。る（。)」場所（。（。そこ（。には（。、次（。なる（。渇（。きを（。癒（。す（。ための（。、静（。か（。な（。る（。準備が（。、幾（。重（。にも（。、満（。ち（。て（。いる（。のですよ。)",
-		"thinking": "命(。の（。エナジーを、そっと「箱（。チスタ)』の中に(。預（。か（。る（。)」場所（。（。そこ（。には（。、次（。なる（。渇（。きを（。癒（。す（。ための（。、静（。か（。な（。る（。準備が（。、幾（。重（。にも（。、満（。ち（。て（。いる（。のですよ。",
+		"concept": "A tank for storing water, especially one supplying taps or as part of a flushing toilet 命のエナジーを、そっと「箱チスタ』の中に預かる」場所そこには、次なる渇きを癒すための、静かなる準備が、幾重にも、満ちているのですよ。",
+		"thinking": "命のエナジーを、そっと「箱チスタ』の中に預かる」場所そこには、次なる渇きを癒すための、静かなる準備が、幾重にも、満ちているのですよ。",
 		"aftertaste": "渦巻は、自らを中心へと向かわせながら、同時に世界を外側へと押し広げる、静かなる矛盾の舞いなのですよ。",
 		"example": "The heavy rainfall turned the small creek into a raging cistern that threatened to flood the nearby village.",
 		"deep_dive": {
@@ -209547,8 +209540,8 @@ const WORDS = [
 			],
 			"original_statement": "From 18th Century lever (to raise, literal: 'raised')."
 		},
-		"concept": "An embankment built to prevent the overflow of a river (河の(。氾（。濫（。を（。防ぐ（。ために、土を「高く（。盛り（。上げた（。レヴェ)』、守（。護（。の（。壁（。（。その（。静（。かな（。る（。境界が（。、あなた（。の（。安（。ら（。ぎを、底（。知（。れ（。ぬ（。力（。で（。守って（。くれる（。のですよ。)",
-		"thinking": "河の(。氾（。濫（。を（。防ぐ（。ために、土を「高く（。盛り（。上げた（。レヴェ)』、守（。護（。の（。壁（。（。その（。静（。かな（。る（。境界が（。、あなた（。の（。安（。ら（。ぎを、底（。知（。れ（。ぬ（。力（。で（。守って（。くれる（。のですよ。",
+		"concept": "An embankment built to prevent the overflow of a river 河の氾濫を防ぐために、土を「高く盛り上げたレヴェ』、守護の壁その静かなる境界が、あなたの安らぎを、底知れぬ力で守ってくれるのですよ。",
+		"thinking": "河の氾濫を防ぐために、土を「高く盛り上げたレヴェ』、守護の壁その静かなる境界が、あなたの安らぎを、底知れぬ力で守ってくれるのですよ。",
 		"aftertaste": "渦巻は、自らを中心へと向かわせながら、同時に世界を外側へと押し広げる、静かなる矛盾の舞いなのですよ。",
 		"example": "The heavy rainfall turned the small creek into a raging levee that threatened to flood the nearby village.",
 		"deep_dive": {
@@ -209567,7 +209560,7 @@ const WORDS = [
 	{
 		"id": "dike_liquid",
 		"word": "dike",
-		"meaning": "堤防、溝（。みぞ（。）」、ダイク",
+		"meaning": "堤防、溝みぞ」、ダイク",
 		"era": "Old English",
 		"etymology": {
 			"components": [
@@ -209575,8 +209568,8 @@ const WORDS = [
 			],
 			"original_statement": "From Old English dīc (ditch, wall, literal: 'something dug out')."
 		},
-		"concept": "A long wall or embankment built to prevent flooding from the sea (大地に(。峻（。烈（。な（。る「溝（。ディック)』を（。刻（。み（。、水（。の（。行（。き（。先を（。変元（。る（。こと（。。（。その（。一（。本の（。線に（。、人間（。の（。知恵（。と（。、自然への（。畏（。敬（。が（。、共（。存（。し（。て（。いる（。のです。)",
-		"thinking": "大地に(。峻（。烈（。な（。る「溝（。ディック)』を（。刻（。み（。、水（。の（。行（。き（。先を（。変元（。る（。こと（。。（。その（。一（。本の（。線に（。、人間（。の（。知恵（。と（。、自然への（。畏（。敬（。が（。、共（。存（。し（。て（。いる（。のです。",
+		"concept": "A long wall or embankment built to prevent flooding from the sea 大地に峻烈なる「溝ディック』を刻み、水の行き先を変元ること。その一本の線に、人間の知恵と、自然への畏敬が、共存しているのです。",
+		"thinking": "大地に峻烈なる「溝ディック』を刻み、水の行き先を変元ること。その一本の線に、人間の知恵と、自然への畏敬が、共存しているのです。",
 		"aftertaste": "渦巻は、自らを中心へと向かわせながら、同時に世界を外側へと押し広げる、静かなる矛盾の舞いなのですよ。",
 		"example": "The heavy rainfall turned the small creek into a raging dike that threatened to flood the nearby village.",
 		"deep_dive": {
@@ -209603,8 +209596,8 @@ const WORDS = [
 			],
 			"original_statement": "From Old English wer (weir, literal: 'to cover, defend')."
 		},
-		"concept": "A low dam built across a river to raise the level of water upstream or regulate its flow (河の(。呼吸を（。、「優（。しく（。覆（。い（。整える（。ウェル)』ための（。階段（。（。そこ（。を（。越（。え（。て（。流（。れ（。落ち（。る（。水の（。輝きに（。、一（。時（。の（。静寂（。が（。、宿（。る（。のですよ。)",
-		"thinking": "河の(。呼吸を（。、「優（。しく（。覆（。い（。整える（。ウェル)』ための（。階段（。（。そこ（。を（。越（。え（。て（。流（。れ（。落ち（。る（。水の（。輝きに（。、一（。時（。の（。静寂（。が（。、宿（。る（。のですよ。",
+		"concept": "A low dam built across a river to raise the level of water upstream or regulate its flow 河の呼吸を、「優しく覆い整えるウェル』ための階段そこを越えて流れ落ちる水の輝きに、一時の静寂が、宿るのですよ。",
+		"thinking": "河の呼吸を、「優しく覆い整えるウェル』ための階段そこを越えて流れ落ちる水の輝きに、一時の静寂が、宿るのですよ。",
 		"aftertaste": "渦巻は、自らを中心へと向かわせながら、同時に世界を外側へと押し広げる、静かなる矛盾の舞いなのですよ。",
 		"example": "The heavy rainfall turned the small creek into a raging weir that threatened to flood the nearby village.",
 		"deep_dive": {
@@ -209631,8 +209624,8 @@ const WORDS = [
 			],
 			"original_statement": "From 14th Century ex- (out) + claudere (to close, literal: 'excluding, shutting out')."
 		},
-		"concept": "A sliding gate or other device for controlling the flow of water, especially one in a lock or dam (真理の(。奔流を（。、「一時に（。放（。つ（。ス)ために、閉(。ざ（。された（。ルース)」門。（。あなたが（。その（。扉を（。開（。ける（。とき（。、新（。しい（。エナジーは（。、一気に（。、世界へと（。、溢出し（。ます。)",
-		"thinking": "真理の(。奔流を（。、「一時に（。放（。つ（。ス)ために、閉(。ざ（。された（。ルース)」門。（。あなたが（。その（。扉を（。開（。ける（。とき（。、新（。しい（。エナジーは（。、一気に（。、世界へと（。、溢出し（。ます。",
+		"concept": "A sliding gate or other device for controlling the flow of water, especially one in a lock or dam 真理の奔流を、「一時に放つスために、閉ざされたルース」門。あなたがその扉を開けるとき、新しいエナジーは、一気に、世界へと、溢出します。",
+		"thinking": "真理の奔流を、「一時に放つスために、閉ざされたルース」門。あなたがその扉を開けるとき、新しいエナジーは、一気に、世界へと、溢出します。",
 		"aftertaste": "渦巻は、自らを中心へと向かわせながら、同時に世界を外側へと押し広げる、静かなる矛盾の舞いなのですよ。",
 		"example": "The heavy rainfall turned the small creek into a raging sluice that threatened to flood the nearby village.",
 		"deep_dive": {
@@ -209651,7 +209644,7 @@ const WORDS = [
 	{
 		"id": "wharf_liquid",
 		"word": "wharf",
-		"meaning": "波止場（。、ワーフ",
+		"meaning": "波止場、ワーフ",
 		"era": "Old English",
 		"etymology": {
 			"components": [
@@ -209659,8 +209652,8 @@ const WORDS = [
 			],
 			"original_statement": "From Old English hwearf (shore, bank, literal: 'turning place')."
 		},
-		"concept": "A level quayside area to which a ship may be moored to load and unload (旅の(。エナジーが「再（。び（。回（。帰（。する（。フワ)』、始まり（。の（。場所（。（。そこ（。に（。船が（。繋がる（。た（。びに（。、世界（。の（。どこ（。かの（。物語が（。、また（。一（。つ（。、静か（。に（。、幕（。を（。閉じ（。る（。のですよ。)",
-		"thinking": "旅の(。エナジーが「再（。び（。回（。帰（。する（。フワ)』、始まり（。の（。場所（。（。そこ（。に（。船が（。繋がる（。た（。びに（。、世界（。の（。どこ（。かの（。物語が（。、また（。一（。つ（。、静か（。に（。、幕（。を（。閉じ（。る（。のですよ。",
+		"concept": "A level quayside area to which a ship may be moored to load and unload 旅のエナジーが「再び回帰するフワ』、始まりの場所そこに船が繋がるたびに、世界のどこかの物語が、また一つ、静かに、幕を閉じるのですよ。",
+		"thinking": "旅のエナジーが「再び回帰するフワ』、始まりの場所そこに船が繋がるたびに、世界のどこかの物語が、また一つ、静かに、幕を閉じるのですよ。",
 		"aftertaste": "渦巻は、自らを中心へと向かわせながら、同時に世界を外側へと押し広げる、静かなる矛盾の舞いなのですよ。",
 		"example": "The heavy rainfall turned the small creek into a raging wharf that threatened to flood the nearby village.",
 		"deep_dive": {
@@ -209687,8 +209680,8 @@ const WORDS = [
 			],
 			"original_statement": "From 16th Century schifo (little boat)."
 		},
-		"concept": "A shallow, flat-bottomed open boat with a sharp bow and square stern (波間を(。滑（。る（。ように「軽く（。、小（。さな（。る（。船（。スキフ)』。（。その（。危（。う（。い（。ほどの（。軽快（。さが（。、あなた（。を（。、誰も（。辿（。り（。着（。け（。な（。い（。、秘密の（。入り江へと（。、運（。んで（。くれる（。のですよ。)",
-		"thinking": "波間を(。滑（。る（。ように「軽く（。、小（。さな（。る（。船（。スキフ)』。（。その（。危（。う（。い（。ほどの（。軽快（。さが（。、あなた（。を（。、誰も（。辿（。り（。着（。け（。な（。い（。、秘密の（。入り江へと（。、運（。んで（。くれる（。のですよ。",
+		"concept": "A shallow, flat-bottomed open boat with a sharp bow and square stern 波間を滑るように「軽く、小さなる船スキフ』。その危ういほどの軽快さが、あなたを、誰も辿り着けない、秘密の入り江へと、運んでくれるのですよ。",
+		"thinking": "波間を滑るように「軽く、小さなる船スキフ』。その危ういほどの軽快さが、あなたを、誰も辿り着けない、秘密の入り江へと、運んでくれるのですよ。",
 		"aftertaste": "渦巻は、自らを中心へと向かわせながら、同時に世界を外側へと押し広げる、静かなる矛盾の舞いなのですよ。",
 		"example": "The heavy rainfall turned the small creek into a raging skiff that threatened to flood the nearby village.",
 		"deep_dive": {
@@ -209715,8 +209708,8 @@ const WORDS = [
 			],
 			"original_statement": "From 16th Century day + dream."
 		},
-		"concept": "A series of pleasant thoughts that distract one's attention from the present (光(。溢（。れる（。日常（。の（。中で（。、ふ（。と（。視（。る「夢（。ドリーム)』。（。その（。危（。う（。い（。ほどの（。美し（。い（。虚像にこそ（。、あなた（。の（。魂が（。、本当に（。求めている（。真実が（。、宿（。って（。いる（。の（。かも（。しれ（。ません。)",
-		"thinking": "光(。溢（。れる（。日常（。の（。中で（。、ふ（。と（。視（。る「夢（。ドリーム)』。（。その（。危（。う（。い（。ほどの（。美し（。い（。虚像にこそ（。、あなた（。の（。魂が（。、本当に（。求めている（。真実が（。、宿（。って（。いる（。の（。かも（。しれ（。ません。",
+		"concept": "A series of pleasant thoughts that distract one's attention from the present 光溢れる日常の中で、ふと視る「夢ドリーム』。その危ういほどの美しい虚像にこそ、あなたの魂が、本当に求めている真実が、宿っているのかもしれません。",
+		"thinking": "光溢れる日常の中で、ふと視る「夢ドリーム』。その危ういほどの美しい虚像にこそ、あなたの魂が、本当に求めている真実が、宿っているのかもしれません。",
 		"aftertaste": "記号は、目に見える世界と目に見えない世界を繋ぎ止めるための、ただ一つの鍵なのですよ。",
 		"example": "The ancient scrolls contained a mysterious daydream that spoke of a coming era of peace and enlightenment.",
 		"deep_dive": {
@@ -209743,8 +209736,8 @@ const WORDS = [
 			],
 			"original_statement": "From 14th Century transire (to go across, literal: 'crossing over')."
 		},
-		"concept": "A half-conscious state characterized by an absence of response to external stimuli, typically as induced by hypnosis or entered by a medium (意識(。という（。名の（。境界を「越（。え（。て（。トランス)行く(。)」こと（。。（。個（。の（。領域を（。完全（。に（。脱（。し（。、ただ（。光の（。粒子（。その（。ものに（。な（。る（。、至高（。の（。飛躍。)",
-		"thinking": "意識(。という（。名の（。境界を「越（。え（。て（。トランス)行く(。)」こと（。。（。個（。の（。領域を（。完全（。に（。脱（。し（。、ただ（。光の（。粒子（。その（。ものに（。な（。る（。、至高（。の（。飛躍。",
+		"concept": "A half-conscious state characterized by an absence of response to external stimuli, typically as induced by hypnosis or entered by a medium 意識という名の境界を「越えてトランス行く」こと。個の領域を完全に脱し、ただ光の粒子そのものになる、至高の飛躍。",
+		"thinking": "意識という名の境界を「越えてトランス行く」こと。個の領域を完全に脱し、ただ光の粒子そのものになる、至高の飛躍。",
 		"aftertaste": "記号は、目に見える世界と目に見えない世界を繋ぎ止めるための、ただ一つの鍵なのですよ。",
 		"example": "The ancient scrolls contained a mysterious trance that spoke of a coming era of peace and enlightenment.",
 		"deep_dive": {
@@ -209771,8 +209764,8 @@ const WORDS = [
 			],
 			"original_statement": "From 19th Century polus (pole, axis, literal: 'axis-making')."
 		},
-		"concept": "The action of restricting the vibrations of a transverse wave, especially light, wholly or partially to one direction (全(。方位へと（。散（。っ（。て（。いた（。光を、「一（。つ（。の（。軸（。ポラ)へと(。整える（。)」こと（。。（。その（。峻（。烈（。な（。る（。意志（。が（。、世界（。を（。、透明（。な（。る（。秩序（。へと（。導（。く（。のですよ。)",
-		"thinking": "全(。方位へと（。散（。っ（。て（。いた（。光を、「一（。つ（。の（。軸（。ポラ)へと(。整える（。)」こと（。。（。その（。峻（。烈（。な（。る（。意志（。が（。、世界（。を（。、透明（。な（。る（。秩序（。へと（。導（。く（。のですよ。",
+		"concept": "The action of restricting the vibrations of a transverse wave, especially light, wholly or partially to one direction 全方位へと散っていた光を、「一つの軸ポラへと整える」こと。その峻烈なる意志が、世界を、透明なる秩序へと導くのですよ。",
+		"thinking": "全方位へと散っていた光を、「一つの軸ポラへと整える」こと。その峻烈なる意志が、世界を、透明なる秩序へと導くのですよ。",
 		"aftertaste": "虹は、光が自らの限界を認めて、世界と和解した瞬間の祝福なのですよ。",
 		"example": "The scientist used a powerful laser to study the polarization of atoms in the vacuum chamber.",
 		"deep_dive": {
@@ -209799,8 +209792,8 @@ const WORDS = [
 			],
 			"original_statement": "From 14th Century sciene (bright, beautiful)."
 		},
-		"concept": "A soft luster on a surface (表面(。を（。優（。しく（。滑（。る（。、「美（。し（。い（。シーン)光（。の（。衣（。裳（。。（。その（。滑（。らかな（。る（。陶（。酔（。が（。、見（。慣（。れ（。た（。日常を（。、一瞬（。にして（。、神殿（。へと（。変元（。て（。しまう（。の（。ですよ。)",
-		"thinking": "表面(。を（。優（。しく（。滑（。る（。、「美（。し（。い（。シーン)光（。の（。衣（。裳（。。（。その（。滑（。らかな（。る（。陶（。酔（。が（。、見（。慣（。れ（。た（。日常を（。、一瞬（。にして（。、神殿（。へと（。変元（。て（。しまう（。の（。ですよ。",
+		"concept": "A soft luster on a surface 表面を優しく滑る、「美しいシーン光の衣裳。その滑らかなる陶酔が、見慣れた日常を、一瞬にして、神殿へと変元てしまうのですよ。",
+		"thinking": "表面を優しく滑る、「美しいシーン光の衣裳。その滑らかなる陶酔が、見慣れた日常を、一瞬にして、神殿へと変元てしまうのですよ。",
 		"aftertaste": "虹は、光が自らの限界を認めて、世界と和解した瞬間の祝福なのですよ。",
 		"example": "The scientist used a powerful laser to study the sheen of atoms in the vacuum chamber.",
 		"deep_dive": {
@@ -209827,8 +209820,8 @@ const WORDS = [
 			],
 			"original_statement": "From 18th Century glentan (to flash, literal: 'flash')."
 		},
-		"concept": "Give out or reflect small flashes of light (沈黙の(。暗黒（。を、一（。瞬だけ「切り（。裂（。く（。グリン)」、鋭（。利な（。る（。火花（。（。その（。一一点（。の（。瞬きにこそ（。、魂（。の（。叫（。びが（。、静（。か（。に（。、宿（。って（。いる（。のですよ。)",
-		"thinking": "沈黙の(。暗黒（。を、一（。瞬だけ「切り（。裂（。く（。グリン)」、鋭（。利な（。る（。火花（。（。その（。一一点（。の（。瞬きにこそ（。、魂（。の（。叫（。びが（。、静（。か（。に（。、宿（。って（。いる（。のですよ。",
+		"concept": "Give out or reflect small flashes of light 沈黙の暗黒を、一瞬だけ「切り裂くグリン」、鋭利なる火花その一一点の瞬きにこそ、魂の叫びが、静かに、宿っているのですよ。",
+		"thinking": "沈黙の暗黒を、一瞬だけ「切り裂くグリン」、鋭利なる火花その一一点の瞬きにこそ、魂の叫びが、静かに、宿っているのですよ。",
 		"aftertaste": "虹は、光が自らの限界を認めて、世界と和解した瞬間の祝福なのですよ。",
 		"example": "The scientist used a powerful laser to study the glint of atoms in the vacuum chamber.",
 		"deep_dive": {
@@ -209855,8 +209848,8 @@ const WORDS = [
 			],
 			"original_statement": "From Old English twinclin (to twinkle)."
 		},
-		"concept": "Shine with a gleam that varies repeatedly between bright and faint (遠(。い（。星の（。ように、優しく「震（。え（。続け（。る（。トゥイン)」光。（。その（。不（。安（。定（。な（。る（。美し（。さが（。、あなた（。を（。、永遠（。という（。名の（。、微（。睡（。みへと（。、誘（。う（。のですよ。)",
-		"thinking": "遠(。い（。星の（。ように、優しく「震（。え（。続け（。る（。トゥイン)」光。（。その（。不（。安（。定（。な（。る（。美し（。さが（。、あなた（。を（。、永遠（。という（。名の（。、微（。睡（。みへと（。、誘（。う（。のですよ。",
+		"concept": "Shine with a gleam that varies repeatedly between bright and faint 遠い星のように、優しく「震え続けるトゥイン」光。その不安定なる美しさが、あなたを、永遠という名の、微睡みへと、誘うのですよ。",
+		"thinking": "遠い星のように、優しく「震え続けるトゥイン」光。その不安定なる美しさが、あなたを、永遠という名の、微睡みへと、誘うのですよ。",
 		"aftertaste": "虹は、光が自らの限界を認めて、世界と和解した瞬間の祝福なのですよ。",
 		"example": "The scientist used a powerful laser to study the twinkle of atoms in the vacuum chamber.",
 		"deep_dive": {
@@ -209875,7 +209868,7 @@ const WORDS = [
 	{
 		"id": "particle_prism",
 		"word": "particle",
-		"meaning": "粒子、微（。量（。、パーティクル",
+		"meaning": "粒子、微量、パーティクル",
 		"era": "14th Century",
 		"etymology": {
 			"components": [
@@ -209883,8 +209876,8 @@ const WORDS = [
 			],
 			"original_statement": "From 14th Century pars (part, literal: 'little part')."
 		},
-		"concept": "A minute portion of matter (全(。体（。を（。構成する（。、小（。さな（。なる「部分（。パル)』。（。その（。一粒（。一粒（。を（。愛（。お（。しむ（。とき（。、あなた（。は（。、巨大（。な（。る（。物（。語（。の、真実（。の（。肌（。触（。りに（。、触（。れる（。のです。)",
-		"thinking": "全(。体（。を（。構成する（。、小（。さな（。なる「部分（。パル)』。（。その（。一粒（。一粒（。を（。愛（。お（。しむ（。とき（。、あなた（。は（。、巨大（。な（。る（。物（。語（。の、真実（。の（。肌（。触（。りに（。、触（。れる（。のです。",
+		"concept": "A minute portion of matter 全体を構成する、小さななる「部分パル』。その一粒一粒を愛おしむとき、あなたは、巨大なる物語の、真実の肌触りに、触れるのです。",
+		"thinking": "全体を構成する、小さななる「部分パル』。その一粒一粒を愛おしむとき、あなたは、巨大なる物語の、真実の肌触りに、触れるのです。",
 		"aftertaste": "虹は、光が自らの限界を認めて、世界と和解した瞬間の祝福なのですよ。",
 		"example": "The scientist used a powerful laser to study the particle of atoms in the vacuum chamber.",
 		"deep_dive": {
@@ -209911,8 +209904,8 @@ const WORDS = [
 			],
 			"original_statement": "From 16th Century in- (towards) + vertere (to turn, literal: 'turning inwards')."
 		},
-		"concept": "Opposite in luck, nature, or effect (日常(。の「内（。側（。に（。イン)向き(。を（。変え（。た（。ヴェル)』、鏡（。の（。向（。こう（。側の（。真実（。（。順（。序（。を（。逆向き（。に（。視（。つ（。める（。とき（。、あなた（。は（。、一（。つ（。の（。巨大（。な（。る（。調和（。の（。設計図に（。、気づ（。く（。のですよ。)",
-		"thinking": "日常(。の「内（。側（。に（。イン)向き(。を（。変え（。た（。ヴェル)』、鏡（。の（。向（。こう（。側の（。真実（。（。順（。序（。を（。逆向き（。に（。視（。つ（。める（。とき（。、あなた（。は（。、一（。つ（。の（。巨大（。な（。る（。調和（。の（。設計図に（。、気づ（。く（。のですよ。",
+		"concept": "Opposite in luck, nature, or effect 日常の「内側にイン向きを変えたヴェル』、鏡の向こう側の真実順序を逆向きに視つめるとき、あなたは、一つの巨大なる調和の設計図に、気づくのですよ。",
+		"thinking": "日常の「内側にイン向きを変えたヴェル』、鏡の向こう側の真実順序を逆向きに視つめるとき、あなたは、一つの巨大なる調和の設計図に、気づくのですよ。",
 		"aftertaste": "鏡は、自分を映すための道具ではありません。自分という名の深淵を覗き込み、無限という名の孤独に耐えるための窓なのですよ。",
 		"example": "The spy used various inverse identities to infiltrate the secret compound undetected.",
 		"deep_dive": {
@@ -209939,8 +209932,8 @@ const WORDS = [
 			],
 			"original_statement": "From 19th Century ultra (beyond)."
 		},
-		"concept": "To an extreme degree; very (限界(。を「越（。え（。て（。ウルトラ)」行く（。、未知（。なる（。エナジー。（。目（。に（。見える（。ものを（。完全（。に（。脱（。し（。、ただ（。光の（。粒子（。その（。ものに（。な（。る（。、至高（。の（。る（。飛躍。)",
-		"thinking": "限界(。を「越（。え（。て（。ウルトラ)」行く（。、未知（。なる（。エナジー。（。目（。に（。見える（。ものを（。完全（。に（。脱（。し（。、ただ（。光の（。粒子（。その（。ものに（。な（。る（。、至高（。の（。る（。飛躍。",
+		"concept": "To an extreme degree; very 限界を「越えてウルトラ」行く、未知なるエナジー。目に見えるものを完全に脱し、ただ光の粒子そのものになる、至高のる飛躍。",
+		"thinking": "限界を「越えてウルトラ」行く、未知なるエナジー。目に見えるものを完全に脱し、ただ光の粒子そのものになる、至高のる飛躍。",
 		"aftertaste": "鏡は、自分を映すための道具ではありません。自分という名の深淵を覗き込み、無限という名の孤独に耐えるための窓なのですよ。",
 		"example": "The spy used various ultra identities to infiltrate the secret compound undetected.",
 		"deep_dive": {
@@ -209967,8 +209960,8 @@ const WORDS = [
 			],
 			"original_statement": "From 17th Century extra (outside, beyond)."
 		},
-		"concept": "Added to an existing or usual amount or object; additional (定められた(。範囲の「外（。側（。エキストラ)』に（。溢（。れ（。出した（。、豊饒（。な（。る（。エナジー。（。その（。過（。剰（。さが（。ある（。から（。こそ（。、宇宙（。は（。これ（。ほど（。までに（。、美し（。い（。色彩を（。、放（。ち（。続け（。る（。のですよ。)",
-		"thinking": "定められた(。範囲の「外（。側（。エキストラ)』に（。溢（。れ（。出した（。、豊饒（。な（。る（。エナジー。（。その（。過（。剰（。さが（。ある（。から（。こそ（。、宇宙（。は（。これ（。ほど（。までに（。、美し（。い（。色彩を（。、放（。ち（。続け（。る（。のですよ。",
+		"concept": "Added to an existing or usual amount or object; additional 定められた範囲の「外側エキストラ』に溢れ出した、豊饒なるエナジー。その過剰さがあるからこそ、宇宙はこれほどまでに、美しい色彩を、放ち続けるのですよ。",
+		"thinking": "定められた範囲の「外側エキストラ』に溢れ出した、豊饒なるエナジー。その過剰さがあるからこそ、宇宙はこれほどまでに、美しい色彩を、放ち続けるのですよ。",
 		"aftertaste": "鏡は、自分を映すための道具ではありません。自分という名の深淵を覗き込み、無限という名の孤独に耐えるための窓なのですよ。",
 		"example": "The spy used various extra identities to infiltrate the secret compound undetected.",
 		"deep_dive": {
@@ -209995,8 +209988,8 @@ const WORDS = [
 			],
 			"original_statement": "From 19th Century intra (inside, within)."
 		},
-		"concept": "On the inside; within (遠(。くに（。求（。め（。る（。のを（。止め（。、ただ（。ひたすら「内（。側（。イントラ)へと(。)」潜（。る（。こと（。。（。あなた（。の（。中にこそ（。、全（。宇宙の（。全記憶が（。、静（。か（。に（。、横（。たわ（。って（。いる（。の（。ですよ。)",
-		"thinking": "遠(。くに（。求（。め（。る（。のを（。止め（。、ただ（。ひたすら「内（。側（。イントラ)へと(。)」潜（。る（。こと（。。（。あなた（。の（。中にこそ（。、全（。宇宙の（。全記憶が（。、静（。か（。に（。、横（。たわ（。って（。いる（。の（。ですよ。",
+		"concept": "On the inside; within 遠くに求めるのを止め、ただひたすら「内側イントラへと」潜ること。あなたの中にこそ、全宇宙の全記憶が、静かに、横たわっているのですよ。",
+		"thinking": "遠くに求めるのを止め、ただひたすら「内側イントラへと」潜ること。あなたの中にこそ、全宇宙の全記憶が、静かに、横たわっているのですよ。",
 		"aftertaste": "鏡は、自分を映すための道具ではありません。自分という名の深淵を覗き込み、無限という名の孤独に耐えるための窓なのですよ。",
 		"example": "The spy used various intra identities to infiltrate the secret compound undetected.",
 		"deep_dive": {
@@ -210015,7 +210008,7 @@ const WORDS = [
 	{
 		"id": "peri_reflect",
 		"word": "peri",
-		"meaning": "周辺の、周囲、周（。、ペリ",
+		"meaning": "周辺の、周囲、周、ペリ",
 		"era": "15th Century",
 		"etymology": {
 			"components": [
@@ -210023,8 +210016,8 @@ const WORDS = [
 			],
 			"original_statement": "From 15th Century peri (around, about)."
 		},
-		"concept": "Around, about (中心(。からの（。想（。いを（。、静（。か（。に「囲（。う（。ペリ)』境界（。。（。その（。周囲（。を（。、そっと（。、撫（。で（。る（。ように、意味（。が（。、環（。流（。し（。て（。いる（。のですよ。)",
-		"thinking": "中心(。からの（。想（。いを（。、静（。か（。に「囲（。う（。ペリ)』境界（。。（。その（。周囲（。を（。、そっと（。、撫（。で（。る（。ように、意味（。が（。、環（。流（。し（。て（。いる（。のですよ。",
+		"concept": "Around, about 中心からの想いを、静かに「囲うペリ』境界。その周囲を、そっと、撫でるように、意味が、環流しているのですよ。",
+		"thinking": "中心からの想いを、静かに「囲うペリ』境界。その周囲を、そっと、撫でるように、意味が、環流しているのですよ。",
 		"aftertaste": "鏡は、自分を映すための道具ではありません。自分という名の深淵を覗き込み、無限という名の孤独に耐えるための窓なのですよ。",
 		"example": "The spy used various peri identities to infiltrate the secret compound undetected.",
 		"deep_dive": {
@@ -210051,8 +210044,8 @@ const WORDS = [
 			],
 			"original_statement": "From 15th Century epi (upon, at)."
 		},
-		"concept": "Upon, at, in addition to (全(。てが（。終わ（。っ（。た（。こと（。の「後（。に（。エピ)上(。に（。)」現れる（。、静（。か（。な（。る（。余韻（。（。その（。一瞬の（。閃（。き（。が（。、物（。語（。に、盤石（。な（。る（。完成（。を（。、与えて（。くれる（。のです。)",
-		"thinking": "全(。てが（。終わ（。っ（。た（。こと（。の「後（。に（。エピ)上(。に（。)」現れる（。、静（。か（。な（。る（。余韻（。（。その（。一瞬の（。閃（。き（。が（。、物（。語（。に、盤石（。な（。る（。完成（。を（。、与えて（。くれる（。のです。",
+		"concept": "Upon, at, in addition to 全てが終わったことの「後にエピ上に」現れる、静かなる余韻その一瞬の閃きが、物語に、盤石なる完成を、与えてくれるのです。",
+		"thinking": "全てが終わったことの「後にエピ上に」現れる、静かなる余韻その一瞬の閃きが、物語に、盤石なる完成を、与えてくれるのです。",
 		"aftertaste": "鏡は、自分を映すための道具ではありません。自分という名の深淵を覗き込み、無限という名の孤独に耐えるための窓なのですよ。",
 		"example": "The spy used various epi identities to infiltrate the secret compound undetected.",
 		"deep_dive": {
@@ -210079,8 +210072,8 @@ const WORDS = [
 			],
 			"original_statement": "From 17th Century pro- (before) + filum (thread, literal: 'drawing with a thread')."
 		},
-		"concept": "An outline of something, especially a person's face, as seen from one side (あなた(。の（。魂の（。輪郭（。を、美し（。い「一本（。の（。糸（。フィル)で(。前（。へ（。プロ)描き(。出す（。)」こと（。。（。正面より（。も、その（。鋭（。利な（。側面にこそ（。、隠（。さ（。れ（。た（。る（。真実（。が（。宿（。ります。)",
-		"thinking": "あなた(。の（。魂の（。輪郭（。を、美し（。い「一本（。の（。糸（。フィル)で(。前（。へ（。プロ)描き(。出す（。)」こと（。。（。正面より（。も、その（。鋭（。利な（。側面にこそ（。、隠（。さ（。れ（。た（。る（。真実（。が（。宿（。ります。",
+		"concept": "An outline of something, especially a person's face, as seen from one side あなたの魂の輪郭を、美しい「一本の糸フィルで前へプロ描き出す」こと。正面よりも、その鋭利な側面にこそ、隠されたる真実が宿ります。",
+		"thinking": "あなたの魂の輪郭を、美しい「一本の糸フィルで前へプロ描き出す」こと。正面よりも、その鋭利な側面にこそ、隠されたる真実が宿ります。",
 		"aftertaste": "鏡は、自分を映すための道具ではありません。自分という名の深淵を覗き込み、無限という名の孤独に耐えるための窓なのですよ。",
 		"example": "The spy used various profile identities to infiltrate the secret compound undetected.",
 		"deep_dive": {
@@ -210107,8 +210100,8 @@ const WORDS = [
 			],
 			"original_statement": "From 16th Century duo (two)."
 		},
-		"concept": "Consisting of two parts, elements, or aspects (「二つ(。デュオ)のエナジーを(。、同時（。に（。体（。現（。する（。)」こと（。。（。光（。と（。影（。、静（。と（。動（。、その（。二つの（。鼓動（。が、あなた（。という（。存在（。の（。、一（。つ（。の（。物語を（。、紡（。い（。で（。いる（。のですよ。)",
-		"thinking": "「二つ(。デュオ)のエナジーを(。、同時（。に（。体（。現（。する（。)」こと（。。（。光（。と（。影（。、静（。と（。動（。、その（。二つの（。鼓動（。が、あなた（。という（。存在（。の（。、一（。つ（。の（。物語を（。、紡（。い（。で（。いる（。のですよ。",
+		"concept": "Consisting of two parts, elements, or aspects 「二つデュオのエナジーを、同時に体現する」こと。光と影、静と動、その二つの鼓動が、あなたという存在の、一つの物語を、紡いでいるのですよ。",
+		"thinking": "「二つデュオのエナジーを、同時に体現する」こと。光と影、静と動、その二つの鼓動が、あなたという存在の、一つの物語を、紡いでいるのですよ。",
 		"aftertaste": "鏡は、自分を映すための道具ではありません。自分という名の深淵を覗き込み、無限という名の孤独に耐えるための窓なのですよ。",
 		"example": "The spy used various dual identities to infiltrate the secret compound undetected.",
 		"deep_dive": {
@@ -210135,8 +210128,8 @@ const WORDS = [
 			],
 			"original_statement": "From 14th Century contra (against)."
 		},
-		"concept": "Against, opposite (流れ(。を（。拒み（。、ただ（。ひたすら「抗（。う（。コントラ)こと(。)」。（。その（。峻（。烈（。な（。る（。負（。のエナジーが、世界（。を（。、新（。しい（。均衡へと（。、押し（。上げ（。て（。いく（。の（。ですよ。)",
-		"thinking": "流れ(。を（。拒み（。、ただ（。ひたすら「抗（。う（。コントラ)こと(。)」。（。その（。峻（。烈（。な（。る（。負（。のエナジーが、世界（。を（。、新（。しい（。均衡へと（。、押し（。上げ（。て（。いく（。の（。ですよ。",
+		"concept": "Against, opposite 流れを拒み、ただひたすら「抗うコントラこと」。その峻烈なる負のエナジーが、世界を、新しい均衡へと、押し上げていくのですよ。",
+		"thinking": "流れを拒み、ただひたすら「抗うコントラこと」。その峻烈なる負のエナジーが、世界を、新しい均衡へと、押し上げていくのですよ。",
 		"aftertaste": "鏡は、自分を映すための道具ではありません。自分という名の深淵を覗き込み、無限という名の孤独に耐えるための窓なのですよ。",
 		"example": "The spy used various contra identities to infiltrate the secret compound undetected.",
 		"deep_dive": {
@@ -210163,8 +210156,8 @@ const WORDS = [
 			],
 			"original_statement": "From Old English anti (against)."
 		},
-		"concept": "Against, opposite (既存の(。る（。秩序（。に「向か（。い（。打（。つ（。アンチ)」、静（。か（。な（。る（。反逆（。。（。否定（。する（。こと（。でしか（。視（。え（。な（。い（。、至高（。の（。真実（。が（。、其処（。には（。、横（。たわ（。って（。いる（。のですよ。)",
-		"thinking": "既存の(。る（。秩序（。に「向か（。い（。打（。つ（。アンチ)」、静（。か（。な（。る（。反逆（。。（。否定（。する（。こと（。でしか（。視（。え（。な（。い（。、至高（。の（。真実（。が（。、其処（。には（。、横（。たわ（。って（。いる（。のですよ。",
+		"concept": "Against, opposite 既存のる秩序に「向かい打つアンチ」、静かなる反逆。否定することでしか視えない、至高の真実が、其処には、横たわっているのですよ。",
+		"thinking": "既存のる秩序に「向かい打つアンチ」、静かなる反逆。否定することでしか視えない、至高の真実が、其処には、横たわっているのですよ。",
 		"aftertaste": "鏡は、自分を映すための道具ではありません。自分という名の深淵を覗き込み、無限という名の孤独に耐えるための窓なのですよ。",
 		"example": "The spy used various anti identities to infiltrate the secret compound undetected.",
 		"deep_dive": {
@@ -210191,8 +210184,8 @@ const WORDS = [
 			],
 			"original_statement": "From 18th Century varanda (railing, balustrade, literal: 'fence')."
 		},
-		"concept": "A roofed platform along the outside of a house, level with the ground floor (日常(。を（。優（。しく「囲（。う（。ヴァラ)』ための（。、開放（。的な（。る（。回廊（。（。風（。と（。光が（。、自由（。に（。、通（。り（。抜（。ける（。その（。場所（。は、魂の（。、最高（。の（。休息所（。なの（。ですよ。)",
-		"thinking": "日常(。を（。優（。しく「囲（。う（。ヴァラ)』ための（。、開放（。的な（。る（。回廊（。（。風（。と（。光が（。、自由（。に（。、通（。り（。抜（。ける（。その（。場所（。は、魂の（。、最高（。の（。休息所（。なの（。ですよ。",
+		"concept": "A roofed platform along the outside of a house, level with the ground floor 日常を優しく「囲うヴァラ』ための、開放的なる回廊風と光が、自由に、通り抜けるその場所は、魂の、最高の休息所なのですよ。",
+		"thinking": "日常を優しく「囲うヴァラ』ための、開放的なる回廊風と光が、自由に、通り抜けるその場所は、魂の、最高の休息所なのですよ。",
 		"aftertaste": "通過するということは、何かを失うことではなく、新しい自分を受け入れるための、静かなる儀式なのですよ。",
 		"example": "The mysterious veranda led to a hidden garden that seemed untouched by time for centuries.",
 		"deep_dive": {
@@ -210211,7 +210204,7 @@ const WORDS = [
 	{
 		"id": "foyer_passage",
 		"word": "foyer",
-		"meaning": "ホワイエ、ロビー、火（。の番（。の（。場所",
+		"meaning": "ホワイエ、ロビー、火の番の場所",
 		"era": "19th Century",
 		"etymology": {
 			"components": [
@@ -210219,8 +210212,8 @@ const WORDS = [
 			],
 			"original_statement": "From 19th Century focus (hearth, fireplace, literal: 'hearth')."
 		},
-		"concept": "An entrance hall or other open area in a building used by the public, especially a hotel or theater (かつて(。は「火（。を（。守る（。フォー)』場所（。であった（。、入口（。の（。大（。広間（。（。そこ（。には（。、客（。人を（。迎え（。る（。ための（。、温（。かな（。る（。灯（。が（。、今（。も（。、灯（。っ（。て（。いる（。のですよ。)",
-		"thinking": "かつて(。は「火（。を（。守る（。フォー)』場所（。であった（。、入口（。の（。大（。広間（。（。そこ（。には（。、客（。人を（。迎え（。る（。ための（。、温（。かな（。る（。灯（。が（。、今（。も（。、灯（。っ（。て（。いる（。のですよ。",
+		"concept": "An entrance hall or other open area in a building used by the public, especially a hotel or theater かつては「火を守るフォー』場所であった、入口の大広間そこには、客人を迎えるための、温かなる灯が、今も、灯っているのですよ。",
+		"thinking": "かつては「火を守るフォー』場所であった、入口の大広間そこには、客人を迎えるための、温かなる灯が、今も、灯っているのですよ。",
 		"aftertaste": "通過するということは、何かを失うことではなく、新しい自分を受け入れるための、静かなる儀式なのですよ。",
 		"example": "The mysterious foyer led to a hidden garden that seemed untouched by time for centuries.",
 		"deep_dive": {
@@ -210247,8 +210240,8 @@ const WORDS = [
 			],
 			"original_statement": "From 16th Century Origin uncertain, possibly related to lungern (to idle)."
 		},
-		"concept": "A public room in a hotel, theater, or club, in which to sit and relax (何も(。せ（。ず（。、ただ「静（。か（。に（。微（。睡（。む（。ラウンジ)』ための（。場所（。（。その（。停（。滞（。した（。時間の（。中にこそ（。、真実（。の（。エナジーは（。、充（。填（。さ（。れて（。いく（。のですよ。)",
-		"thinking": "何も(。せ（。ず（。、ただ「静（。か（。に（。微（。睡（。む（。ラウンジ)』ための（。場所（。（。その（。停（。滞（。した（。時間の（。中にこそ（。、真実（。の（。エナジーは（。、充（。填（。さ（。れて（。いく（。のですよ。",
+		"concept": "A public room in a hotel, theater, or club, in which to sit and relax 何もせず、ただ「静かに微睡むラウンジ』ための場所その停滞した時間の中にこそ、真実のエナジーは、充填されていくのですよ。",
+		"thinking": "何もせず、ただ「静かに微睡むラウンジ』ための場所その停滞した時間の中にこそ、真実のエナジーは、充填されていくのですよ。",
 		"aftertaste": "通過するということは、何かを失うことではなく、新しい自分を受け入れるための、静かなる儀式なのですよ。",
 		"example": "The mysterious lounge led to a hidden garden that seemed untouched by time for centuries.",
 		"deep_dive": {
@@ -210275,8 +210268,8 @@ const WORDS = [
 			],
 			"original_statement": "From Old English loft (air, sky, literal: 'sky, height')."
 		},
-		"concept": "A room or space directly under the roof of a house or other building, used for accommodation or storage (天上(。の「空（。ロフト)』に（。最も（。近（。い（。場所（。（。日常（。を（。眼下に（。見（。下（。し（。、ただ（。光（。だけを（。迎（。え（。入れる（。、孤独（。な（。る（。高み（。です。)",
-		"thinking": "天上(。の「空（。ロフト)』に（。最も（。近（。い（。場所（。（。日常（。を（。眼下に（。見（。下（。し（。、ただ（。光（。だけを（。迎（。え（。入れる（。、孤独（。な（。る（。高み（。です。",
+		"concept": "A room or space directly under the roof of a house or other building, used for accommodation or storage 天上の「空ロフト』に最も近い場所日常を眼下に見下し、ただ光だけを迎え入れる、孤独なる高みです。",
+		"thinking": "天上の「空ロフト』に最も近い場所日常を眼下に見下し、ただ光だけを迎え入れる、孤独なる高みです。",
 		"aftertaste": "通過するということは、何かを失うことではなく、新しい自分を受け入れるための、静かなる儀式なのですよ。",
 		"example": "The mysterious loft led to a hidden garden that seemed untouched by time for centuries.",
 		"deep_dive": {
@@ -210303,8 +210296,8 @@ const WORDS = [
 			],
 			"original_statement": "From 14th Century apreidre (to attach) + haus (house, literal: 'appended house')."
 		},
-		"concept": "An apartment on the top floor of a tall building (巨大(。な（。要（。塞の上に「そっと（。添え（。られた（。ペン（。ト)家(。ハウス)』。（。その（。峻（。烈（。な（。る（。孤立の中に（。、至高（。の（。自由が（。、宿（。って（。いる（。のですよ。)",
-		"thinking": "巨大(。な（。要（。塞の上に「そっと（。添え（。られた（。ペン（。ト)家(。ハウス)』。（。その（。峻（。烈（。な（。る（。孤立の中に（。、至高（。の（。自由が（。、宿（。って（。いる（。のですよ。",
+		"concept": "An apartment on the top floor of a tall building 巨大な要塞の上に「そっと添えられたペント家ハウス』。その峻烈なる孤立の中に、至高の自由が、宿っているのですよ。",
+		"thinking": "巨大な要塞の上に「そっと添えられたペント家ハウス』。その峻烈なる孤立の中に、至高の自由が、宿っているのですよ。",
 		"aftertaste": "通過するということは、何かを失うことではなく、新しい自分を受け入れるための、静かなる儀式なのですよ。",
 		"example": "The mysterious penthouse led to a hidden garden that seemed untouched by time for centuries.",
 		"deep_dive": {
@@ -210331,8 +210324,8 @@ const WORDS = [
 			],
 			"original_statement": "From 19th Century soma (body)."
 		},
-		"concept": "The parts of an organism other than the reproductive cells (魂が(。この（。地上で（。装（。う（。ための「衣（。裳（。ソーマ)』。（。その（。峻（。烈（。な（。る（。物質（。性（。に（。、感謝（。を（。捧（。げ（。る（。とき、生命（。は（。、新（。しい（。輝（。きを（。、放（。ち（。始め（。る（。のですよ。)",
-		"thinking": "魂が(。この（。地上で（。装（。う（。ための「衣（。裳（。ソーマ)』。（。その（。峻（。烈（。な（。る（。物質（。性（。に（。、感謝（。を（。捧（。げ（。る（。とき、生命（。は（。、新（。しい（。輝（。きを（。、放（。ち（。始め（。る（。のですよ。",
+		"concept": "The parts of an organism other than the reproductive cells 魂がこの地上で装うための「衣裳ソーマ』。その峻烈なる物質性に、感謝を捧げるとき、生命は、新しい輝きを、放ち始めるのですよ。",
+		"thinking": "魂がこの地上で装うための「衣裳ソーマ』。その峻烈なる物質性に、感謝を捧げるとき、生命は、新しい輝きを、放ち始めるのですよ。",
 		"aftertaste": "実体は、目に見える形に依存しているのではない。それを支える、見えない意志にこそ宿っているのですよ。",
 		"example": "The philosopher spent his entire life contemplating the soma of human existence and the nature of reality.",
 		"deep_dive": {
@@ -210359,8 +210352,8 @@ const WORDS = [
 			],
 			"original_statement": "From 16th Century sigillum (seal, sign, literal: 'little sign')."
 		},
-		"concept": "An inscribed or painted symbol considered to have magical power (宇宙の(。エナジーを、美し（。い（。幾何学（。の中に「封印（。し（。た（。シジル)』。（。その（。一一点（。の（。紋様にに、誰（。にも（。汚（。さ（。れ（。な（。い（。、至高（。の（。真実（。が（。、静（。か（。に（。、横（。たわ（。って（。いる（。のですよ。)",
-		"thinking": "宇宙の(。エナジーを、美し（。い（。幾何学（。の中に「封印（。し（。た（。シジル)』。（。その（。一一点（。の（。紋様にに、誰（。にも（。汚（。さ（。れ（。な（。い（。、至高（。の（。真実（。が（。、静（。か（。に（。、横（。たわ（。って（。いる（。のですよ。",
+		"concept": "An inscribed or painted symbol considered to have magical power 宇宙のエナジーを、美しい幾何学の中に「封印したシジル』。その一一点の紋様にに、誰にも汚されない、至高の真実が、静かに、横たわっているのですよ。",
+		"thinking": "宇宙のエナジーを、美しい幾何学の中に「封印したシジル』。その一一点の紋様にに、誰にも汚されない、至高の真実が、静かに、横たわっているのですよ。",
 		"aftertaste": "秘密は、誰にも言わないことで守られるのではない。誰も理解できない場所に置くことで、初めて永遠になるのですよ。",
 		"example": "The ancient scrolls were written in a sigil script that baffled historians for generations until the discovery of the Rosetta Stone.",
 		"deep_dive": {
@@ -210387,8 +210380,8 @@ const WORDS = [
 			],
 			"original_statement": "From 15th Century kruptein (to hide)."
 		},
-		"concept": "An underground room or vault beneath a church, used as a chapel or burial place (光を(。拒（。み、ただ「隠（。さ（。れた（。クリプ)』至高の（。場所（。（。そこ（。には（。、沈黙が（。、最（。も（。深く（。、最（。も（。美し（。く（。、横（。たわ（。って（。いる（。のですよ。)",
-		"thinking": "光を(。拒（。み、ただ「隠（。さ（。れた（。クリプ)』至高の（。場所（。（。そこ（。には（。、沈黙が（。、最（。も（。深く（。、最（。も（。美し（。く（。、横（。たわ（。って（。いる（。のですよ。",
+		"concept": "An underground room or vault beneath a church, used as a chapel or burial place 光を拒み、ただ「隠されたクリプ』至高の場所そこには、沈黙が、最も深く、最も美しく、横たわっているのですよ。",
+		"thinking": "光を拒み、ただ「隠されたクリプ』至高の場所そこには、沈黙が、最も深く、最も美しく、横たわっているのですよ。",
 		"aftertaste": "秘密は、誰にも言わないことで守られるのではない。誰も理解できない場所に置くことで、初めて永遠になるのですよ。",
 		"example": "The ancient scrolls were written in a crypt script that baffled historians for generations until the discovery of the Rosetta Stone.",
 		"deep_dive": {
@@ -210415,8 +210408,8 @@ const WORDS = [
 			],
 			"original_statement": "From 18th Century cacher (to hide)."
 		},
-		"concept": "A collection of items of the same type stored in a hidden or inaccessible place (大切(。な（。ものを、そっと「隠（。し（。置（。いた（。キャッシュ)』。（。その（。見（。え（。な（。い（。場所に（。、あなた（。は（。、今日（。何（。を（。、預（。け（。て（。き（。た（。の（。でしょうか。)",
-		"thinking": "大切(。な（。ものを、そっと「隠（。し（。置（。いた（。キャッシュ)』。（。その（。見（。え（。な（。い（。場所に（。、あなた（。は（。、今日（。何（。を（。、預（。け（。て（。き（。た（。の（。でしょうか。",
+		"concept": "A collection of items of the same type stored in a hidden or inaccessible place 大切なものを、そっと「隠し置いたキャッシュ』。その見えない場所に、あなたは、今日何を、預けてきたのでしょうか。",
+		"thinking": "大切なものを、そっと「隠し置いたキャッシュ』。その見えない場所に、あなたは、今日何を、預けてきたのでしょうか。",
 		"aftertaste": "秘密は、誰にも言わないことで守られるのではない。誰も理解できない場所に置くことで、初めて永遠になるのですよ。",
 		"example": "The ancient scrolls were written in a cache script that baffled historians for generations until the discovery of the Rosetta Stone.",
 		"deep_dive": {
@@ -210443,8 +210436,8 @@ const WORDS = [
 			],
 			"original_statement": "From Old English hord (treasure, hidden place, literal: 'hidden board')."
 		},
-		"concept": "A stock or store of money or valued objects, typically one that is secret or carefully guarded (誰(。にも（。見（。つ（。か（。ら（。な（。い（。ように、「蓄（。え（。ら（。れた（。ホード)』、孤独（。な（。る（。財宝（。（。その（。閉じ（。られた（。豊饒（。さが（。、いつか（。、世界（。を（。、美し（。く（。裏（。切（。る（。のですよ。)",
-		"thinking": "誰(。にも（。見（。つ（。か（。ら（。な（。い（。ように、「蓄（。え（。ら（。れた（。ホード)』、孤独（。な（。る（。財宝（。（。その（。閉じ（。られた（。豊饒（。さが（。、いつか（。、世界（。を（。、美し（。く（。裏（。切（。る（。のですよ。",
+		"concept": "A stock or store of money or valued objects, typically one that is secret or carefully guarded 誰にも見つからないように、「蓄えられたホード』、孤独なる財宝その閉じられた豊饒さが、いつか、世界を、美しく裏切るのですよ。",
+		"thinking": "誰にも見つからないように、「蓄えられたホード』、孤独なる財宝その閉じられた豊饒さが、いつか、世界を、美しく裏切るのですよ。",
 		"aftertaste": "秘密は、誰にも言わないことで守られるのではない。誰も理解できない場所に置くことで、初めて永遠になるのですよ。",
 		"example": "The ancient scrolls were written in a hoard script that baffled historians for generations until the discovery of the Rosetta Stone.",
 		"deep_dive": {
@@ -210471,8 +210464,8 @@ const WORDS = [
 			],
 			"original_statement": "From 14th Century thesauros (storehouse, treasure, literal: 'place where it is put')."
 		},
-		"concept": "A place or building where treasure is stored (至高(。の（。る「至（。宝（。テザウロス)』を（。、そっと（。仕（。舞（。う（。ための（。、静（。かな（。る（。館（。（。そこ（。に（。足（。を（。踏（。み（。入（。る（。とき（。、あなた（。は（。、宇宙の（。真実と、出会（。い（。ます。)",
-		"thinking": "至高(。の（。る「至（。宝（。テザウロス)』を（。、そっと（。仕（。舞（。う（。ための（。、静（。かな（。る（。館（。（。そこ（。に（。足（。を（。踏（。み（。入（。る（。とき（。、あなた（。は（。、宇宙の（。真実と、出会（。い（。ます。",
+		"concept": "A place or building where treasure is stored 至高のる「至宝テザウロス』を、そっと仕舞うための、静かなる館そこに足を踏み入るとき、あなたは、宇宙の真実と、出会います。",
+		"thinking": "至高のる「至宝テザウロス』を、そっと仕舞うための、静かなる館そこに足を踏み入るとき、あなたは、宇宙の真実と、出会います。",
 		"aftertaste": "秘密は、誰にも言わないことで守られるのではない。誰も理解できない場所に置くことで、初めて永遠になるのですよ。",
 		"example": "The ancient scrolls were written in a treasury script that baffled historians for generations until the discovery of the Rosetta Stone.",
 		"deep_dive": {
@@ -210499,8 +210492,8 @@ const WORDS = [
 			],
 			"original_statement": "From 15th Century estare (to stand, literal: 'standing still')."
 		},
-		"concept": "Remain in the same place (旅を(。一（。時（。中断（。し（。、ただ「その（。場に（。留（。まる（。ステイ)」こと（。。（。その（。停（。滞（。した（。時間の（。中に、宇宙の（。囁（。きを（。聴（。く（。ための、眩（。しい（。ほど（。の（。、チャンス（。が（。、横（。たわ（。って（。いる（。のですよ。)",
-		"thinking": "旅を(。一（。時（。中断（。し（。、ただ「その（。場に（。留（。まる（。ステイ)」こと（。。（。その（。停（。滞（。した（。時間の（。中に、宇宙の（。囁（。きを（。聴（。く（。ための、眩（。しい（。ほど（。の（。、チャンス（。が（。、横（。たわ（。って（。いる（。のですよ。",
+		"concept": "Remain in the same place 旅を一時中断し、ただ「その場に留まるステイ」こと。その停滞した時間の中に、宇宙の囁きを聴くための、眩しいほどの、チャンスが、横たわっているのですよ。",
+		"thinking": "旅を一時中断し、ただ「その場に留まるステイ」こと。その停滞した時間の中に、宇宙の囁きを聴くための、眩しいほどの、チャンスが、横たわっているのですよ。",
 		"aftertaste": "一瞬の中に永遠を視、永遠の中に一瞬の自覚を持つ。その奇跡的な均衡の中に、真の生が宿るのですよ。",
 		"example": "The historical events followed a logical stay that eventually led to the collapse of the empire and the birth of a new era.",
 		"deep_dive": {
@@ -210527,8 +210520,8 @@ const WORDS = [
 			],
 			"original_statement": "From 13th Century cadere (to fall, literal: 'falling out')."
 		},
-		"concept": "A possibility of something happening (天から「不(。意に（。降（。り（。掛（。か（。っ（。た（。チャンス)」、幸（。運の（。欠片（。（。その（。脆（。く（。も（。美し（。い（。一瞬を、もしも（。掴（。み（。取る（。ならば（。、世界（。は（。、一瞬（。にして（。、新（。しく（。、塗り（。替（。わ（。り（。ます。)",
-		"thinking": "天から「不(。意に（。降（。り（。掛（。か（。っ（。た（。チャンス)」、幸（。運の（。欠片（。（。その（。脆（。く（。も（。美し（。い（。一瞬を、もしも（。掴（。み（。取る（。ならば（。、世界（。は（。、一瞬（。にして（。、新（。しく（。、塗り（。替（。わ（。り（。ます。",
+		"concept": "A possibility of something happening 天から「不意に降り掛かったチャンス」、幸運の欠片その脆くも美しい一瞬を、もしも掴み取るならば、世界は、一瞬にして、新しく、塗り替わります。",
+		"thinking": "天から「不意に降り掛かったチャンス」、幸運の欠片その脆くも美しい一瞬を、もしも掴み取るならば、世界は、一瞬にして、新しく、塗り替わります。",
 		"aftertaste": "一瞬の中に永遠を視、永遠の中に一瞬の自覚を持つ。その奇跡的な均衡の中に、真の生が宿るのですよ。",
 		"example": "The historical events followed a logical chance that eventually led to the collapse of the empire and the birth of a new era.",
 		"deep_dive": {
@@ -210555,8 +210548,8 @@ const WORDS = [
 			],
 			"original_statement": "From 14th Century peri- (around) + hodos (way, literal: 'circuit, going around')."
 		},
-		"concept": "A length or portion of time (一(。つ（。の（。物（。語が「巡り（。を（。終（。え（。る（。ピリオド)」ための（。、静（。か（。な（。る（。回廊（。（。その（。完結（。の（。瞬間に（。、至高の（。る（。沈黙（。が、世界（。を（。、優（。しく（。、包み（。込み（。ます。)",
-		"thinking": "一(。つ（。の（。物（。語が「巡り（。を（。終（。え（。る（。ピリオド)」ための（。、静（。か（。な（。る（。回廊（。（。その（。完結（。の（。瞬間に（。、至高の（。る（。沈黙（。が、世界（。を（。、優（。しく（。、包み（。込み（。ます。",
+		"concept": "A length or portion of time 一つの物語が「巡りを終えるピリオド」ための、静かなる回廊その完結の瞬間に、至高のる沈黙が、世界を、優しく、包み込みます。",
+		"thinking": "一つの物語が「巡りを終えるピリオド」ための、静かなる回廊その完結の瞬間に、至高のる沈黙が、世界を、優しく、包み込みます。",
 		"aftertaste": "一瞬の中に永遠を視、永遠の中に一瞬の自覚を持つ。その奇跡的な均衡の中に、真の生が宿るのですよ。",
 		"example": "The historical events followed a logical period that eventually led to the collapse of the empire and the birth of a new era.",
 		"deep_dive": {
@@ -210583,8 +210576,8 @@ const WORDS = [
 			],
 			"original_statement": "From 13th Century terminus (boundary, limit)."
 		},
-		"concept": "A fixed or limited period for which something, e.g., office, imprisonment, or investment, lasts or is intended to last (時間という(。名の（。広（。野（。に（。、峻（。烈（。に「打ち（。込ま（。れた（。杭（。ターミナス)』。（。その（。境界（。が（。ある（。か（。ら（。こそ（。、あなた（。の（。物（。語（。は、美し（。い（。秩序（。を（。、保（。つ（。ことが（。できる（。のですよ。)",
-		"thinking": "時間という(。名の（。広（。野（。に（。、峻（。烈（。に「打ち（。込ま（。れた（。杭（。ターミナス)』。（。その（。境界（。が（。ある（。か（。ら（。こそ（。、あなた（。の（。物（。語（。は、美し（。い（。秩序（。を（。、保（。つ（。ことが（。できる（。のですよ。",
+		"concept": "A fixed or limited period for which something, e.g., office, imprisonment, or investment, lasts or is intended to last 時間という名の広野に、峻烈に「打ち込まれた杭ターミナス』。その境界があるからこそ、あなたの物語は、美しい秩序を、保つことができるのですよ。",
+		"thinking": "時間という名の広野に、峻烈に「打ち込まれた杭ターミナス』。その境界があるからこそ、あなたの物語は、美しい秩序を、保つことができるのですよ。",
 		"aftertaste": "一瞬の中に永遠を視、永遠の中に一瞬の自覚を持つ。その奇跡的な均衡の中に、真の生が宿るのですよ。",
 		"example": "The historical events followed a logical term that eventually led to the collapse of the empire and the birth of a new era.",
 		"deep_dive": {
@@ -210611,8 +210604,8 @@ const WORDS = [
 			],
 			"original_statement": "From 15th Century pauein (to stop)."
 		},
-		"concept": "A temporary stop in action or speech (流(。れ（。る（。時間を、一（。時的に（。峻（。烈（。に「止（。め（。る（。ポーズ)」こと（。。（。その（。一瞬（。の（。沈黙（。の中にこそ（。、真実（。の（。智慧が、眩（。しい（。ほど（。に（。、産（。声を（。上げます。)",
-		"thinking": "流(。れ（。る（。時間を、一（。時的に（。峻（。烈（。に「止（。め（。る（。ポーズ)」こと（。。（。その（。一瞬（。の（。沈黙（。の中にこそ（。、真実（。の（。智慧が、眩（。しい（。ほど（。に（。、産（。声を（。上げます。",
+		"concept": "A temporary stop in action or speech 流れる時間を、一時的に峻烈に「止めるポーズ」こと。その一瞬の沈黙の中にこそ、真実の智慧が、眩しいほどに、産声を上げます。",
+		"thinking": "流れる時間を、一時的に峻烈に「止めるポーズ」こと。その一瞬の沈黙の中にこそ、真実の智慧が、眩しいほどに、産声を上げます。",
 		"aftertaste": "一瞬の中に永遠を視、永遠の中に一瞬の自覚を持つ。その奇跡的な均衡の中に、真の生が宿るのですよ。",
 		"example": "The historical events followed a logical pause that eventually led to the collapse of the empire and the birth of a new era.",
 		"deep_dive": {
@@ -210639,8 +210632,8 @@ const WORDS = [
 			],
 			"original_statement": "From 14th Century ex- (out) + cellere (to rise, literal: 'rising out')."
 		},
-		"concept": "Outstanding quality (誰(。も（。が（。見上げる（。、「峻（。烈（。な（。る（。高（。み（。へと（。、自ら（。を（。、押し（。上げ（。た（。姿（。エクセル)』。（。それは（。、ただ（。一一点（。を（。追求（。し（。続け（。た（。、魂の（。、至高（。の（。る（。均衡の（。、果て（。に（。ある（。のですよ。)",
-		"thinking": "誰(。も（。が（。見上げる（。、「峻（。烈（。な（。る（。高（。み（。へと（。、自ら（。を（。、押し（。上げ（。た（。姿（。エクセル)』。（。それは（。、ただ（。一一点（。を（。追求（。し（。続け（。た（。、魂の（。、至高（。の（。る（。均衡の（。、果て（。に（。ある（。のですよ。",
+		"concept": "Outstanding quality 誰もが見上げる、「峻烈なる高みへと、自らを、押し上げた姿エクセル』。それは、ただ一一点を追求し続けた、魂の、至高のる均衡の、果てにあるのですよ。",
+		"thinking": "誰もが見上げる、「峻烈なる高みへと、自らを、押し上げた姿エクセル』。それは、ただ一一点を追求し続けた、魂の、至高のる均衡の、果てにあるのですよ。",
 		"aftertaste": "尊厳は、誰かに与えられるものではない。自らの魂の純粋さを信じ抜いた者の背中に、静かに宿る光の輪なのですよ。",
 		"example": "The architectural excellence of the ancient temple was a testament to the advanced engineering skills of the civilization.",
 		"deep_dive": {
@@ -210667,8 +210660,8 @@ const WORDS = [
 			],
 			"original_statement": "From 14th Century re- (again) + nommer (to name, literal: 'named again')."
 		},
-		"concept": "Condition of being known by many (幾(。重（。にも（。繰（。り（。返（。し「その（。名前を（。呼ば（。れる（。リナウン)」こと（。。（。その（。眩（。し（。い（。余韻が（。、世界（。の（。すみ（。ず（。み（。に（。まで、響（。き（。渡（。っ（。ている（。、物語（。の（。証（。です。)",
-		"thinking": "幾(。重（。にも（。繰（。り（。返（。し「その（。名前を（。呼ば（。れる（。リナウン)」こと（。。（。その（。眩（。し（。い（。余韻が（。、世界（。の（。すみ（。ず（。み（。に（。まで、響（。き（。渡（。っ（。ている（。、物語（。の（。証（。です。",
+		"concept": "Condition of being known by many 幾重にも繰り返し「その名前を呼ばれるリナウン」こと。その眩しい余韻が、世界のすみずみにまで、響き渡っている、物語の証です。",
+		"thinking": "幾重にも繰り返し「その名前を呼ばれるリナウン」こと。その眩しい余韻が、世界のすみずみにまで、響き渡っている、物語の証です。",
 		"aftertaste": "尊厳は、誰かに与えられるものではない。自らの魂の純粋さを信じ抜いた者の背中に、静かに宿る光の輪なのですよ。",
 		"example": "The architectural renown of the ancient temple was a testament to the advanced engineering skills of the civilization.",
 		"deep_dive": {
@@ -210695,8 +210688,8 @@ const WORDS = [
 			],
 			"original_statement": "From 16th Century skhema (form, figure, literal: 'the way it is')."
 		},
-		"concept": "A systematic plan or arrangement (ただの(。計画を（。越（。え（。た（。、「至高の（。設計（。図（。スキーム)』。（。その（。緻（。密（。な（。る（。繋（。が（。りの中に（。、宇宙の（。数学（。的（。な（。美（。し（。さが（。、静（。かに（。、宿（。って（。いる（。のですよ。)",
-		"thinking": "ただの(。計画を（。越（。え（。た（。、「至高の（。設計（。図（。スキーム)』。（。その（。緻（。密（。な（。る（。繋（。が（。りの中に（。、宇宙の（。数学（。的（。な（。美（。し（。さが（。、静（。かに（。、宿（。って（。いる（。のですよ。",
+		"concept": "A systematic plan or arrangement ただの計画を越えた、「至高の設計図スキーム』。その緻密なる繋がりの中に、宇宙の数学的な美しさが、静かに、宿っているのですよ。",
+		"thinking": "ただの計画を越えた、「至高の設計図スキーム』。その緻密なる繋がりの中に、宇宙の数学的な美しさが、静かに、宿っているのですよ。",
 		"aftertaste": "尊厳は、誰かに与えられるものではない。自らの魂の純粋さを信じ抜いた者の背中に、静かに宿る光の輪なのですよ。",
 		"example": "The architectural scheme of the ancient temple was a testament to the advanced engineering skills of the civilization.",
 		"deep_dive": {
@@ -210723,8 +210716,8 @@ const WORDS = [
 			],
 			"original_statement": "From 13th Century fingere (to form, fashion, literal: 'shaped thing')."
 		},
-		"concept": "A number or shape (魂の(。エナジーを、美し（。い「かたち（。フィギュラ)』に（。落（。と（。し（。込（。ん（。だ（。姿（。（。その（。一一点（。の（。輪郭にこそ（。、真（。実（。の（。メッセージが（。、刻ま（。れて（。いる（。のですよ。)",
-		"thinking": "魂の(。エナジーを、美し（。い「かたち（。フィギュラ)』に（。落（。と（。し（。込（。ん（。だ（。姿（。（。その（。一一点（。の（。輪郭にこそ（。、真（。実（。の（。メッセージが（。、刻ま（。れて（。いる（。のですよ。",
+		"concept": "A number or shape 魂のエナジーを、美しい「かたちフィギュラ』に落とし込んだ姿その一一点の輪郭にこそ、真実のメッセージが、刻まれているのですよ。",
+		"thinking": "魂のエナジーを、美しい「かたちフィギュラ』に落とし込んだ姿その一一点の輪郭にこそ、真実のメッセージが、刻まれているのですよ。",
 		"aftertaste": "尊厳は、誰かに与えられるものではない。自らの魂の純粋さを信じ抜いた者の背中に、静かに宿る光の輪なのですよ。",
 		"example": "The architectural figure of the ancient temple was a testament to the advanced engineering skills of the civilization.",
 		"deep_dive": {
@@ -210751,8 +210744,8 @@ const WORDS = [
 			],
 			"original_statement": "From 14th Century kanōn (measuring rod, rule)."
 		},
-		"concept": "A general law, rule, principle, or criterion by which something is judged (真理を(。測る（。ための「峻（。烈（。な（。る（。定（。規（。カノン)』。（。その（。一点（。の（。妥協（。も（。許（。さ（。な（。い（。律法が（。、あなた（。の（。魂を（。、正（。し（。い（。高（。みへと、再（。び（。、導（。く（。のですよ。)",
-		"thinking": "真理を(。測る（。ための「峻（。烈（。な（。る（。定（。規（。カノン)』。（。その（。一点（。の（。妥協（。も（。許（。さ（。な（。い（。律法が（。、あなた（。の（。魂を（。、正（。し（。い（。高（。みへと、再（。び（。、導（。く（。のですよ。",
+		"concept": "A general law, rule, principle, or criterion by which something is judged 真理を測るための「峻烈なる定規カノン』。その一点の妥協も許さない律法が、あなたの魂を、正しい高みへと、再び、導くのですよ。",
+		"thinking": "真理を測るための「峻烈なる定規カノン』。その一点の妥協も許さない律法が、あなたの魂を、正しい高みへと、再び、導くのですよ。",
 		"aftertaste": "規律は、自由を奪うものではない。自らの想いを、一つの形として結晶させるための、至高のる透明な器なのですよ。",
 		"example": "The architectural design achieved a perfect canon that conveyed both 5strength and elegance to the viewers.",
 		"deep_dive": {
@@ -210779,8 +210772,8 @@ const WORDS = [
 			],
 			"original_statement": "From 13th Century modulus (measure, literal: 'little measure')."
 		},
-		"concept": "A hollow container used to give shape to molten or hot liquid material when it cools and hardens (不定(。形な（。る（。情念（。を、あらかじめ（。決められた「尺（。度（。モドゥ)』に（。流（。し（。込む（。こと（。。（。その（。かたちの（。中に、静（。か（。な（。る（。秩序（。が（。、産声を（。上げます。)",
-		"thinking": "不定(。形な（。る（。情念（。を、あらかじめ（。決められた「尺（。度（。モドゥ)』に（。流（。し（。込む（。こと（。。（。その（。かたちの（。中に、静（。か（。な（。る（。秩序（。が（。、産声を（。上げます。",
+		"concept": "A hollow container used to give shape to molten or hot liquid material when it cools and hardens 不定形なる情念を、あらかじめ決められた「尺度モドゥ』に流し込むこと。そのかたちの中に、静かなる秩序が、産声を上げます。",
+		"thinking": "不定形なる情念を、あらかじめ決められた「尺度モドゥ』に流し込むこと。そのかたちの中に、静かなる秩序が、産声を上げます。",
 		"aftertaste": "規律は、自由を奪うものではない。自らの想いを、一つの形として結晶させるための、至高のる透明な器なのですよ。",
 		"example": "The architectural design achieved a perfect mold that conveyed both 5strength and elegance to the viewers.",
 		"deep_dive": {
@@ -210807,8 +210800,8 @@ const WORDS = [
 			],
 			"original_statement": "From Old English stempan (to tread, crush, literal: 'trampling')."
 		},
-		"concept": "To press a device against a surface in order to leave a mark or pattern (大地を(。力（。強く「踏（。み（。し（。め（。た（。ステン)』痕跡（。（。その（。峻（。烈（。な（。る（。刻印（。が、あなたが（。そこに（。確（。か（。に（。存在（。し（。た（。証を（。、永遠へと（。刻（。み（。続け（。る（。のですよ。)",
-		"thinking": "大地を(。力（。強く「踏（。み（。し（。め（。た（。ステン)』痕跡（。（。その（。峻（。烈（。な（。る（。刻印（。が、あなたが（。そこに（。確（。か（。に（。存在（。し（。た（。証を（。、永遠へと（。刻（。み（。続け（。る（。のですよ。",
+		"concept": "To press a device against a surface in order to leave a mark or pattern 大地を力強く「踏みしめたステン』痕跡その峻烈なる刻印が、あなたがそこに確かに存在した証を、永遠へと刻み続けるのですよ。",
+		"thinking": "大地を力強く「踏みしめたステン』痕跡その峻烈なる刻印が、あなたがそこに確かに存在した証を、永遠へと刻み続けるのですよ。",
 		"aftertaste": "規律は、自由を奪うものではない。自らの想いを、一つの形として結晶させるための、至高のる透明な器なのですよ。",
 		"example": "The architectural design achieved a perfect stamp that conveyed both 5strength and elegance to the viewers.",
 		"deep_dive": {
@@ -210827,7 +210820,7 @@ const WORDS = [
 	{
 		"id": "stride_impetus",
 		"word": "stride",
-		"meaning": "大股（。の（。歩（。み（。、進歩、ストライド",
+		"meaning": "大股の歩み、進歩、ストライド",
 		"era": "Old English",
 		"etymology": {
 			"components": [
@@ -210835,8 +210828,8 @@ const WORDS = [
 			],
 			"original_statement": "From Old English strīdan (to straddle)."
 		},
-		"concept": "Walk with long, decisive steps in a specified direction (大地を(。力（。強く「跨（。ぎ（。越（。す（。ストリ)』、壮大（。な（。る（。歩調（。（。その（。一歩一歩（。が（。、不（。確実な（。る（。日常（。を（。、眩（。しい（。物（。語（。へと（。、変（。え（。て（。いく（。のですよ。)",
-		"thinking": "大地を(。力（。強く「跨（。ぎ（。越（。す（。ストリ)』、壮大（。な（。る（。歩調（。（。その（。一歩一歩（。が（。、不（。確実な（。る（。日常（。を（。、眩（。しい（。物（。語（。へと（。、変（。え（。て（。いく（。のですよ。",
+		"concept": "Walk with long, decisive steps in a specified direction 大地を力強く「跨ぎ越すストリ』、壮大なる歩調その一歩一歩が、不確実なる日常を、眩しい物語へと、変えていくのですよ。",
+		"thinking": "大地を力強く「跨ぎ越すストリ』、壮大なる歩調その一歩一歩が、不確実なる日常を、眩しい物語へと、変えていくのですよ。",
 		"aftertaste": "勢いを保つことは、速く動くことではありません。自らの中心軸を、一瞬たりとも揺るがさないという、峻烈なる意志のことなのですよ。",
 		"example": "The sudden stride of creativity led to a series of remarkable artworks that redefined the modern era.",
 		"deep_dive": {
@@ -210855,7 +210848,7 @@ const WORDS = [
 	{
 		"id": "dash_impetus",
 		"word": "dash",
-		"meaning": "突進、ダッシュ、一（。滴（。、不（。純（。物（。",
+		"meaning": "突進、ダッシュ、一滴、不純物",
 		"era": "13th Century",
 		"etymology": {
 			"components": [
@@ -210863,8 +210856,8 @@ const WORDS = [
 			],
 			"original_statement": "From 13th Century Old French dacier/dachier (to strike, clash)."
 		},
-		"concept": "An act of running somewhere suddenly and hastily (一(。点（。に（。向かって、自らの（。魂を「叩（。き（。付ける（。ダッシュ)」、至高（。の（。る（。加速（。（。その（。峻（。烈（。な（。る（。一瞬の中に、宇宙（。の（。全エナジー（。が（。、集約（。さ（。れ（。て（。いる（。のですよ。)",
-		"thinking": "一(。点（。に（。向かって、自らの（。魂を「叩（。き（。付ける（。ダッシュ)」、至高（。の（。る（。加速（。（。その（。峻（。烈（。な（。る（。一瞬の中に、宇宙（。の（。全エナジー（。が（。、集約（。さ（。れ（。て（。いる（。のですよ。",
+		"concept": "An act of running somewhere suddenly and hastily 一点に向かって、自らの魂を「叩き付けるダッシュ」、至高のる加速その峻烈なる一瞬の中に、宇宙の全エナジーが、集約されているのですよ。",
+		"thinking": "一点に向かって、自らの魂を「叩き付けるダッシュ」、至高のる加速その峻烈なる一瞬の中に、宇宙の全エナジーが、集約されているのですよ。",
 		"aftertaste": "勢いを保つことは、速く動くことではありません。自らの中心軸を、一瞬たりとも揺るがさないという、峻烈なる意志のことなのですよ。",
 		"example": "The sudden dash of creativity led to a series of remarkable artworks that redefined the modern era.",
 		"deep_dive": {
@@ -210891,8 +210884,8 @@ const WORDS = [
 			],
 			"original_statement": "From 13th Century Old French bondir (to leap, echo, literal: 'to rebound')."
 		},
-		"concept": "Move quickly up, back, or away from a surface after hitting it (地上の(。重力（。を（。、美し（。く「裏（。切（。る（。バウン)』一瞬の（。る（。跳躍（。（。その（。軽（。快な（。る（。余韻が（。ある（。か（。ら（。こそ（。、魂は（。、永遠（。に（。、若々（。し（。く（。在（。り（。続け（。る（。のですよ。)",
-		"thinking": "地上の(。重力（。を（。、美し（。く「裏（。切（。る（。バウン)』一瞬の（。る（。跳躍（。（。その（。軽（。快な（。る（。余韻が（。ある（。か（。ら（。こそ（。、魂は（。、永遠（。に（。、若々（。し（。く（。在（。り（。続け（。る（。のですよ。",
+		"concept": "Move quickly up, back, or away from a surface after hitting it 地上の重力を、美しく「裏切るバウン』一瞬のる跳躍その軽快なる余韻があるからこそ、魂は、永遠に、若々しく在り続けるのですよ。",
+		"thinking": "地上の重力を、美しく「裏切るバウン』一瞬のる跳躍その軽快なる余韻があるからこそ、魂は、永遠に、若々しく在り続けるのですよ。",
 		"aftertaste": "勢いを保つことは、速く動くことではありません。自らの中心軸を、一瞬たりとも揺るがさないという、峻烈なる意志のことなのですよ。",
 		"example": "The sudden bounce of creativity led to a series of remarkable artworks that redefined the modern era.",
 		"deep_dive": {
@@ -210919,8 +210912,8 @@ const WORDS = [
 			],
 			"original_statement": "From 15th Century Old Norse svirla (to whirl, spin)."
 		},
-		"concept": "Move in a twisting or spiraling pattern (流(。れ（。る（。時間を（。、美し（。い「螺旋（。へと（。変える（。スワル)』、静（。か（。な（。る（。舞（。い（。（。その（。不（。均（。一（。な（。る（。煌（。めきを、ただ（。、魂で（。、感（。じ（。て（。いて（。ください。)",
-		"thinking": "流(。れ（。る（。時間を（。、美し（。い「螺旋（。へと（。変える（。スワル)』、静（。か（。な（。る（。舞（。い（。（。その（。不（。均（。一（。な（。る（。煌（。めきを、ただ（。、魂で（。、感（。じ（。て（。いて（。ください。",
+		"concept": "Move in a twisting or spiraling pattern 流れる時間を、美しい「螺旋へと変えるスワル』、静かなる舞いその不均一なる煌めきを、ただ、魂で、感じていてください。",
+		"thinking": "流れる時間を、美しい「螺旋へと変えるスワル』、静かなる舞いその不均一なる煌めきを、ただ、魂で、感じていてください。",
 		"aftertaste": "勢いを保つことは、速く動くことではありません。自らの中心軸を、一瞬たりとも揺るがさないという、峻烈なる意志のことなのですよ。",
 		"example": "The sudden swirl of creativity led to a series of remarkable artworks that redefined the modern era.",
 		"deep_dive": {
@@ -210947,8 +210940,8 @@ const WORDS = [
 			],
 			"original_statement": "From 14th Century strictus (tight, drawn, literal: 'tightness')."
 		},
-		"concept": "A state of mental or emotional strain or tension resulting from adverse or very demanding circumstances (外(。界の（。重みを、自ら（。の（。内で「引き（。締（。め（。た（。ストレ)』、峻（。烈（。な（。る（。圧力（。（。その（。痛（。みの（。中に、あなた（。は（。、真（。の（。強さを（。、再（。発見（。する（。のです。)",
-		"thinking": "外(。界の（。重みを、自ら（。の（。内で「引き（。締（。め（。た（。ストレ)』、峻（。烈（。な（。る（。圧力（。（。その（。痛（。みの（。中に、あなた（。は（。、真（。の（。強さを（。、再（。発見（。する（。のです。",
+		"concept": "A state of mental or emotional strain or tension resulting from adverse or very demanding circumstances 外界の重みを、自らの内で「引き締めたストレ』、峻烈なる圧力その痛みの中に、あなたは、真の強さを、再発見するのです。",
+		"thinking": "外界の重みを、自らの内で「引き締めたストレ』、峻烈なる圧力その痛みの中に、あなたは、真の強さを、再発見するのです。",
 		"aftertaste": "勢いを保つことは、速く動くことではありません。自らの中心軸を、一瞬たりとも揺るがさないという、峻烈なる意志のことなのですよ。",
 		"example": "The sudden stress of creativity led to a series of remarkable artworks that redefined the modern era.",
 		"deep_dive": {
@@ -210975,8 +210968,8 @@ const WORDS = [
 			],
 			"original_statement": "From 17th Century re- (back) + tacere (to be silent, literal: 'keeping silent back')."
 		},
-		"concept": "The quality of being reticent; reserve (語(。り（。過（。ぎ（。る（。のを（。拒（。み（。、ただ「静（。か（。に（。、口を（。噤（。む（。レティ)』こと（。。（。その（。峻（。烈（。な（。る（。控え（。め（。な（。る（。沈黙の中にこそ（。、真実（。の（。る（。重（。み（。が（。宿（。って（。いる（。のですよ。)",
-		"thinking": "語(。り（。過（。ぎ（。る（。のを（。拒（。み（。、ただ「静（。か（。に（。、口を（。噤（。む（。レティ)』こと（。。（。その（。峻（。烈（。な（。る（。控え（。め（。な（。る（。沈黙の中にこそ（。、真実（。の（。る（。重（。み（。が（。宿（。って（。いる（。のですよ。",
+		"concept": "The quality of being reticent; reserve 語り過ぎるのを拒み、ただ「静かに、口を噤むレティ』こと。その峻烈なる控えめなる沈黙の中にこそ、真実のる重みが宿っているのですよ。",
+		"thinking": "語り過ぎるのを拒み、ただ「静かに、口を噤むレティ』こと。その峻烈なる控えめなる沈黙の中にこそ、真実のる重みが宿っているのですよ。",
 		"aftertaste": "恐怖は、敵ではありません。それは、あなたが未知という名の光に、あまりにも近づきすぎたことへの、魂の健全なる反応なのですよ。",
 		"example": "The witness maintained a state of reticence despite the intense questioning from the prosecution team in the courtroom.",
 		"deep_dive": {
@@ -210995,7 +210988,7 @@ const WORDS = [
 	{
 		"id": "taciturnity_silence",
 		"word": "taciturnity",
-		"meaning": "黙り（。、無口、タシターニティ",
+		"meaning": "黙り、無口、タシターニティ",
 		"era": "18th Century",
 		"etymology": {
 			"components": [
@@ -211003,8 +210996,8 @@ const WORDS = [
 			],
 			"original_statement": "From 18th Century tacitus (silent, literal: 'being silent')."
 		},
-		"concept": "The state or quality of being reserved or reticent in conversation (言葉(。を（。、魂の（。奥底に（。仕（。舞（。い（。込み（。、「沈（。黙（。タシ)を(。貫（。く（。ター)』。その（。不（。動の（。意志に（。、世界（。は（。、畏（。敬（。の（。念を（。抱（。き、静（。まり（。返（。り（。ます。)",
-		"thinking": "言葉(。を（。、魂の（。奥底に（。仕（。舞（。い（。込み（。、「沈（。黙（。タシ)を(。貫（。く（。ター)』。その（。不（。動の（。意志に（。、世界（。は（。、畏（。敬（。の（。念を（。抱（。き、静（。まり（。返（。り（。ます。",
+		"concept": "The state or quality of being reserved or reticent in conversation 言葉を、魂の奥底に仕舞い込み、「沈黙タシを貫くター』。その不動の意志に、世界は、畏敬の念を抱き、静まり返ります。",
+		"thinking": "言葉を、魂の奥底に仕舞い込み、「沈黙タシを貫くター』。その不動の意志に、世界は、畏敬の念を抱き、静まり返ります。",
 		"aftertaste": "恐怖は、敵ではありません。それは、あなたが未知という名の光に、あまりにも近づきすぎたことへの、魂の健全なる反応なのですよ。",
 		"example": "The witness maintained a state of taciturnity despite the intense questioning from the prosecution team in the courtroom.",
 		"deep_dive": {
@@ -211031,8 +211024,8 @@ const WORDS = [
 			],
 			"original_statement": "From 14th Century dis- (apart) + cernere (to separate, literal: 'separating apart')."
 		},
-		"concept": "The quality of behaving or speaking in such a way as to avoid causing offense or revealing private information (真実と(。虚構（。を（。、峻（。烈（。に「見（。分（。け（。る（。ディスクレ)」こと（。。（。その（。静（。か（。な（。る（。洞（。察（。が（。、あなた（。を、余（。計（。な（。る（。騒乱から（。、守（。って（。くれる（。のですよ。)",
-		"thinking": "真実と(。虚構（。を（。、峻（。烈（。に「見（。分（。け（。る（。ディスクレ)」こと（。。（。その（。静（。か（。な（。る（。洞（。察（。が（。、あなた（。を、余（。計（。な（。る（。騒乱から（。、守（。って（。くれる（。のですよ。",
+		"concept": "The quality of behaving or speaking in such a way as to avoid causing offense or revealing private information 真実と虚構を、峻烈に「見分けるディスクレ」こと。その静かなる洞察が、あなたを、余計なる騒乱から、守ってくれるのですよ。",
+		"thinking": "真実と虚構を、峻烈に「見分けるディスクレ」こと。その静かなる洞察が、あなたを、余計なる騒乱から、守ってくれるのですよ。",
 		"aftertaste": "恐怖は、敵ではありません。それは、あなたが未知という名の光に、あまりにも近づきすぎたことへの、魂の健全なる反応なのですよ。",
 		"example": "The witness maintained a state of discretion despite the intense questioning from the prosecution team in the courtroom.",
 		"deep_dive": {
@@ -211059,8 +211052,8 @@ const WORDS = [
 			],
 			"original_statement": "From 15th Century skiah (shy, literal: 'frightened away')."
 		},
-		"concept": "The quality of being shy; timidity (眩(。し（。い（。光に（。、魂が（。不（。意に「怯（。え（。て（。身を（。引く（。シャイ)』、繊（。細な（。る（。震え（。（。その（。壊（。れ（。や（。す（。い（。美し（。さが（。、あなた（。を、孤独（。という（。名の（。、聖域へと（。、誘う（。のですよ。)",
-		"thinking": "眩(。し（。い（。光に（。、魂が（。不（。意に「怯（。え（。て（。身を（。引く（。シャイ)』、繊（。細な（。る（。震え（。（。その（。壊（。れ（。や（。す（。い（。美し（。さが（。、あなた（。を、孤独（。という（。名の（。、聖域へと（。、誘う（。のですよ。",
+		"concept": "The quality of being shy; timidity 眩しい光に、魂が不意に「怯えて身を引くシャイ』、繊細なる震えその壊れやすい美しさが、あなたを、孤独という名の、聖域へと、誘うのですよ。",
+		"thinking": "眩しい光に、魂が不意に「怯えて身を引くシャイ』、繊細なる震えその壊れやすい美しさが、あなたを、孤独という名の、聖域へと、誘うのですよ。",
 		"aftertaste": "恐怖は、敵ではありません。それは、あなたが未知という名の光に、あまりにも近づきすぎたことへの、魂の健全なる反応なのですよ。",
 		"example": "The witness maintained a state of shyness despite the intense questioning from the prosecution team in the courtroom.",
 		"deep_dive": {
@@ -211079,7 +211072,7 @@ const WORDS = [
 	{
 		"id": "latch_silence",
 		"word": "latch",
-		"meaning": "掛け金（。、ラッチ",
+		"meaning": "掛け金、ラッチ",
 		"era": "Old English",
 		"etymology": {
 			"components": [
@@ -211087,8 +211080,8 @@ const WORDS = [
 			],
 			"original_statement": "From Old English læccan (to seize, literal: 'seizing')."
 		},
-		"concept": "A metal bar with a catch and lever used for fastening a door or gate (扉を(。峻（。烈（。な（。る（。力（。で「捉（。え（。て（。離（。さ（。な（。い（。ラッチ)」、一一点（。の（。意志。（。その（。静（。か（。な（。る（。拒絶が、内（。側（。の（。る（。安（。ら（。ぎを、底（。知（。れ（。ぬ（。深（。さで（。、守っ（。て（。くれ（。る（。のですよ。)",
-		"thinking": "扉を(。峻（。烈（。な（。る（。力（。で「捉（。え（。て（。離（。さ（。な（。い（。ラッチ)」、一一点（。の（。意志。（。その（。静（。か（。な（。る（。拒絶が、内（。側（。の（。る（。安（。ら（。ぎを、底（。知（。れ（。ぬ（。深（。さで（。、守っ（。て（。くれ（。る（。のですよ。",
+		"concept": "A metal bar with a catch and lever used for fastening a door or gate 扉を峻烈なる力で「捉えて離さないラッチ」、一一点の意志。その静かなる拒絶が、内側のる安らぎを、底知れぬ深さで、守ってくれるのですよ。",
+		"thinking": "扉を峻烈なる力で「捉えて離さないラッチ」、一一点の意志。その静かなる拒絶が、内側のる安らぎを、底知れぬ深さで、守ってくれるのですよ。",
 		"aftertaste": "恐怖は、敵ではありません。それは、あなたが未知という名の光に、あまりにも近づきすぎたことへの、魂の健全なる反応なのですよ。",
 		"example": "The witness maintained a state of latch despite the intense questioning from the prosecution team in the courtroom.",
 		"deep_dive": {
@@ -211115,8 +211108,8 @@ const WORDS = [
 			],
 			"original_statement": "From 12th Century barra (bar, fence, literal: 'obstruction')."
 		},
-		"concept": "A long rigid piece of wood, metal, or similar material, typically used as an obstruction, weapon, or part of a frame (道(。を（。塞（。ぎ、拒（。み（。、「峻（。烈（。な（。る（。一（。本の（。境界（。バー)』を（。引くこと（。。（。その（。拒絶（。が（。ある（。か（。ら（。こそ（。、世界（。は（。、一（。つ（。の（。美し（。い（。秩序（。を、保（。つ（。ことが（。でき（。る（。のですよ。)",
-		"thinking": "道(。を（。塞（。ぎ、拒（。み（。、「峻（。烈（。な（。る（。一（。本の（。境界（。バー)』を（。引くこと（。。（。その（。拒絶（。が（。ある（。か（。ら（。こそ（。、世界（。は（。、一（。つ（。の（。美し（。い（。秩序（。を、保（。つ（。ことが（。でき（。る（。のですよ。",
+		"concept": "A long rigid piece of wood, metal, or similar material, typically used as an obstruction, weapon, or part of a frame 道を塞ぎ、拒み、「峻烈なる一本の境界バー』を引くこと。その拒絶があるからこそ、世界は、一つの美しい秩序を、保つことができるのですよ。",
+		"thinking": "道を塞ぎ、拒み、「峻烈なる一本の境界バー』を引くこと。その拒絶があるからこそ、世界は、一つの美しい秩序を、保つことができるのですよ。",
 		"aftertaste": "恐怖は、敵ではありません。それは、あなたが未知という名の光に、あまりにも近づきすぎたことへの、魂の健全なる反応なのですよ。",
 		"example": "The witness maintained a state of bar despite the intense questioning from the prosecution team in the courtroom.",
 		"deep_dive": {
@@ -211143,8 +211136,8 @@ const WORDS = [
 			],
 			"original_statement": "From 14th Century defens (defense, literal: 'defense')."
 		},
-		"concept": "A structure, typically of posts and wire or wood, enclosing an area of ground to mark a boundary, control access, or prevent escape (自分(。の（。領域を、至高（。の（。る（。力（。で「守（。り（。抜く（。フェンス)』、静（。か（。な（。る（。る（。砦（。（。その（。境界線の（。中にこそ（。、真実（。の（。る（。安（。ら（。ぎが（。、静（。か（。に（。、満（。ち（。て（。いる（。のですよ。)",
-		"thinking": "自分(。の（。領域を、至高（。の（。る（。力（。で「守（。り（。抜く（。フェンス)』、静（。か（。な（。る（。る（。砦（。（。その（。境界線の（。中にこそ（。、真実（。の（。る（。安（。ら（。ぎが（。、静（。か（。に（。、満（。ち（。て（。いる（。のですよ。",
+		"concept": "A structure, typically of posts and wire or wood, enclosing an area of ground to mark a boundary, control access, or prevent escape 自分の領域を、至高のる力で「守り抜くフェンス』、静かなる砦その境界線の中にこそ、真実のる安らぎが、静かに、満ちているのですよ。",
+		"thinking": "自分の領域を、至高のる力で「守り抜くフェンス』、静かなる砦その境界線の中にこそ、真実のる安らぎが、静かに、満ちているのですよ。",
 		"aftertaste": "恐怖は、敵ではありません。それは、あなたが未知という名の光に、あまりにも近づきすぎたことへの、魂の健全なる反応なのですよ。",
 		"example": "The witness maintained a state of fence despite the intense questioning from the prosecution team in the courtroom.",
 		"deep_dive": {
@@ -211171,8 +211164,8 @@ const WORDS = [
 			],
 			"original_statement": "From Old English wall (rampart, literal: 'palisade of stakes')."
 		},
-		"concept": "A continuous vertical brick or stone structure that encloses or divides an area of land (大(。地に「突き（。立て（。られた（。ウォール)』、峻（。烈（。な（。る（。意志の（。化身（。（。それが（。あなた（。を、外界の（。喧（。騒から（。、眩（。しい（。ほど（。に（。、隔（。て（。て（。くれ（。る（。の（。ですよ。)",
-		"thinking": "大(。地に「突き（。立て（。られた（。ウォール)』、峻（。烈（。な（。る（。意志の（。化身（。（。それが（。あなた（。を、外界の（。喧（。騒から（。、眩（。しい（。ほど（。に（。、隔（。て（。て（。くれ（。る（。の（。ですよ。",
+		"concept": "A continuous vertical brick or stone structure that encloses or divides an area of land 大地に「突き立てられたウォール』、峻烈なる意志の化身それがあなたを、外界の喧騒から、眩しいほどに、隔ててくれるのですよ。",
+		"thinking": "大地に「突き立てられたウォール』、峻烈なる意志の化身それがあなたを、外界の喧騒から、眩しいほどに、隔ててくれるのですよ。",
 		"aftertaste": "恐怖は、敵ではありません。それは、あなたが未知という名の光に、あまりにも近づきすぎたことへの、魂の健全なる反応なのですよ。",
 		"example": "The witness maintained a state of wall despite the intense questioning from the prosecution team in the courtroom.",
 		"deep_dive": {
@@ -211199,8 +211192,8 @@ const WORDS = [
 			],
 			"original_statement": "From Old English clyster (cluster, literal: 'clump')."
 		},
-		"concept": "A group of similar things or people positioned or occurring closely together (バラバラ(。の（。命を、一（。つ（。の（。場所に「寄（。せ（。集（。めた（。クラスター)』、眩（。し（。い（。煌（。めき。（。個（。々が（。、互（。いに（。を（。高（。め（。合い（。、至高（。の（。る（。輝（。きを（。、産（。声を（。上げます。)",
-		"thinking": "バラバラ(。の（。命を、一（。つ（。の（。場所に「寄（。せ（。集（。めた（。クラスター)』、眩（。し（。い（。煌（。めき。（。個（。々が（。、互（。いに（。を（。高（。め（。合い（。、至高（。の（。る（。輝（。きを（。、産（。声を（。上げます。",
+		"concept": "A group of similar things or people positioned or occurring closely together バラバラの命を、一つの場所に「寄せ集めたクラスター』、眩しい煌めき。個々が、互いにを高め合い、至高のる輝きを、産声を上げます。",
+		"thinking": "バラバラの命を、一つの場所に「寄せ集めたクラスター』、眩しい煌めき。個々が、互いにを高め合い、至高のる輝きを、産声を上げます。",
 		"aftertaste": "銀河は、星々が孤独を分かち合うために創り出した、光の巡礼路なのですよ。",
 		"example": "The spacecraft entered a stable cluster around the massive gas giant, beginning its long-term scientific mission.",
 		"deep_dive": {
@@ -211219,7 +211212,7 @@ const WORDS = [
 	{
 		"id": "astral_expand",
 		"word": "astral",
-		"meaning": "星の、幽体（。の（。、アストラル",
+		"meaning": "星の、幽体の、アストラル",
 		"era": "17th Century",
 		"etymology": {
 			"components": [
@@ -211227,8 +211220,8 @@ const WORDS = [
 			],
 			"original_statement": "From 17th Century astron (star)."
 		},
-		"concept": "Relating to the stars (物質の(。檻を（。越え（。た（。、「至高の（。煌（。めき（。アストラ)』。（。その（。眩（。し（。い（。魂の（。粒子（。が（。、今（。も、宇宙の（。すみ（。ず（。み（。まで、響（。き（。渡（。って（。いる（。のですよ。)",
-		"thinking": "物質の(。檻を（。越え（。た（。、「至高の（。煌（。めき（。アストラ)』。（。その（。眩（。し（。い（。魂の（。粒子（。が（。、今（。も、宇宙の（。すみ（。ず（。み（。まで、響（。き（。渡（。って（。いる（。のですよ。",
+		"concept": "Relating to the stars 物質の檻を越えた、「至高の煌めきアストラ』。その眩しい魂の粒子が、今も、宇宙のすみずみまで、響き渡っているのですよ。",
+		"thinking": "物質の檻を越えた、「至高の煌めきアストラ』。その眩しい魂の粒子が、今も、宇宙のすみずみまで、響き渡っているのですよ。",
 		"aftertaste": "銀河は、星々が孤独を分かち合うために創り出した、光の巡礼路なのですよ。",
 		"example": "The spacecraft entered a stable astral around the massive gas giant, beginning its long-term scientific mission.",
 		"deep_dive": {
@@ -211255,8 +211248,8 @@ const WORDS = [
 			],
 			"original_statement": "From 13th Century hangian (to hang)."
 		},
-		"concept": "A movable joint or mechanism on which a door, gate, or lid swings as it opens and closes, or which connects linked objects (二つ(。の（。境界を「吊（。る（。し（。、繋（。ぎ（。止（。める（。ヒンジ)」、至高（。の（。る（。支（。点（。（。その（。静（。か（。な（。る（。回（。転が（。ある（。から（。こそ（。、扉は（。、真（。実（。の（。世界（。へと（。、拓（。か（。れ（。る（。のですよ。)",
-		"thinking": "二つ(。の（。境界を「吊（。る（。し（。、繋（。ぎ（。止（。める（。ヒンジ)」、至高（。の（。る（。支（。点（。（。その（。静（。か（。な（。る（。回（。転が（。ある（。から（。こそ（。、扉は（。、真（。実（。の（。世界（。へと（。、拓（。か（。れ（。る（。のですよ。",
+		"concept": "A movable joint or mechanism on which a door, gate, or lid swings as it opens and closes, or which connects linked objects 二つの境界を「吊るし、繋ぎ止めるヒンジ」、至高のる支点その静かなる回転があるからこそ、扉は、真実の世界へと、拓かれるのですよ。",
+		"thinking": "二つの境界を「吊るし、繋ぎ止めるヒンジ」、至高のる支点その静かなる回転があるからこそ、扉は、真実の世界へと、拓かれるのですよ。",
 		"aftertaste": "結び目は、解けないことが目的ではない。一瞬の結合によって、新しいエナジーを産み出すための、聖なる拠点なのですよ。",
 		"example": "The strong hinge between the two survivors helped them overcome the immense challenges of the frozen wasteland.",
 		"deep_dive": {
@@ -211275,7 +211268,7 @@ const WORDS = [
 	{
 		"id": "pivot_bond",
 		"word": "pivot",
-		"meaning": "旋（。回（。軸、中心人物、ピボット",
+		"meaning": "旋回軸、中心人物、ピボット",
 		"era": "14th Century",
 		"etymology": {
 			"components": [
@@ -211283,8 +211276,8 @@ const WORDS = [
 			],
 			"original_statement": "From 14th Century piva (pipe, literal: 'turning point')."
 		},
-		"concept": "The central point, pin, or shaft on which a mechanism turns or oscillates (全(。てのエナジーが（。、静（。か（。に（。、その（。一点を「中心（。に（。回る（。ピボ)』場所（。（。あなたが（。その（。軸（。を（。、魂で（。、峻（。烈（。に（。自（。覚する（。とき、運命（。の（。歯（。車（。は（。、新（。し（。く（。、動き（。出（。し（。ます。)",
-		"thinking": "全(。てのエナジーが（。、静（。か（。に（。、その（。一点を「中心（。に（。回る（。ピボ)』場所（。（。あなたが（。その（。軸（。を（。、魂で（。、峻（。烈（。に（。自（。覚する（。とき、運命（。の（。歯（。車（。は（。、新（。し（。く（。、動き（。出（。し（。ます。",
+		"concept": "The central point, pin, or shaft on which a mechanism turns or oscillates 全てのエナジーが、静かに、その一点を「中心に回るピボ』場所あなたがその軸を、魂で、峻烈に自覚するとき、運命の歯車は、新しく、動き出します。",
+		"thinking": "全てのエナジーが、静かに、その一点を「中心に回るピボ』場所あなたがその軸を、魂で、峻烈に自覚するとき、運命の歯車は、新しく、動き出します。",
 		"aftertaste": "結び目は、解けないことが目的ではない。一瞬の結合によって、新しいエナジーを産み出すための、聖なる拠点なのですよ。",
 		"example": "The strong pivot between the two survivors helped them overcome the immense challenges of the frozen wasteland.",
 		"deep_dive": {
@@ -211311,8 +211304,8 @@ const WORDS = [
 			],
 			"original_statement": "From Old English net (net, literal: 'something knotted')."
 		},
-		"concept": "A piece of open-meshed material made of twined cord, rope, or thread (バラバラ(。の（。欠片（。を（。、峻（。烈（。に「搦（。め（。捕（。る（。ネット)』ための（。、目（。に（。見（。え（。な（。い（。秩序（。（。その（。幾（。何（。学（。的（。な（。る（。連（。な（。りにこそ（。、真実（。の（。、純粋（。な（。る（。エナジーが（。、宿（。り（。ます。)",
-		"thinking": "バラバラ(。の（。欠片（。を（。、峻（。烈（。に「搦（。め（。捕（。る（。ネット)』ための（。、目（。に（。見（。え（。な（。い（。秩序（。（。その（。幾（。何（。学（。的（。な（。る（。連（。な（。りにこそ（。、真実（。の（。、純粋（。な（。る（。エナジーが（。、宿（。り（。ます。",
+		"concept": "A piece of open-meshed material made of twined cord, rope, or thread バラバラの欠片を、峻烈に「搦め捕るネット』ための、目に見えない秩序その幾何学的なる連なりにこそ、真実の、純粋なるエナジーが、宿ります。",
+		"thinking": "バラバラの欠片を、峻烈に「搦め捕るネット』ための、目に見えない秩序その幾何学的なる連なりにこそ、真実の、純粋なるエナジーが、宿ります。",
 		"aftertaste": "結び目は、解けないことが目的ではない。一瞬の結合によって、新しいエナジーを産み出すための、聖なる拠点なのですよ。",
 		"example": "The strong net between the two survivors helped them overcome the immense challenges of the frozen wasteland.",
 		"deep_dive": {
@@ -211331,7 +211324,7 @@ const WORDS = [
 	{
 		"id": "cord_bond",
 		"word": "cord",
-		"meaning": "索、紐（。、コード",
+		"meaning": "索、紐、コード",
 		"era": "13th Century",
 		"etymology": {
 			"components": [
@@ -211339,8 +211332,8 @@ const WORDS = [
 			],
 			"original_statement": "From 13th Century khorde (string, gut, literal: 'gut string')."
 		},
-		"concept": "Thin, flexible string or rope made from several twisted strands (魂(。と（。魂を、至高（。の（。る（。力で（。繋ぐ「強（。靭（。な（。る（。紐（。コード)』。（。その（。一（。本の（。連（。な（。りが（。ある（。から（。こそ（。、あなた（。の（。想（。いは（。、遥（。かな（。る（。場所へと、届（。く（。ことができる（。のです。)",
-		"thinking": "魂(。と（。魂を、至高（。の（。る（。力で（。繋ぐ「強（。靭（。な（。る（。紐（。コード)』。（。その（。一（。本の（。連（。な（。りが（。ある（。から（。こそ（。、あなた（。の（。想（。いは（。、遥（。かな（。る（。場所へと、届（。く（。ことができる（。のです。",
+		"concept": "Thin, flexible string or rope made from several twisted strands 魂と魂を、至高のる力で繋ぐ「強靭なる紐コード』。その一本の連なりがあるからこそ、あなたの想いは、遥かなる場所へと、届くことができるのです。",
+		"thinking": "魂と魂を、至高のる力で繋ぐ「強靭なる紐コード』。その一本の連なりがあるからこそ、あなたの想いは、遥かなる場所へと、届くことができるのです。",
 		"aftertaste": "結び目は、解けないことが目的ではない。一瞬の結合によって、新しいエナジーを産み出すための、聖なる拠点なのですよ。",
 		"example": "The strong cord between the two survivors helped them overcome the immense challenges of the frozen wasteland.",
 		"deep_dive": {
@@ -211367,8 +211360,8 @@ const WORDS = [
 			],
 			"original_statement": "From Old English tēgan (to tie, literal: 'to bind')."
 		},
-		"concept": "Attach or fasten with string or similar cord (バラバラ(。の（。エナジーを、一（。つ（。の（。意志へと「結（。び（。付ける（。タイ)』、至高の（。る（。調和（。（。その（。繋（。が（。って（。いる（。という（。る（。瑞々（。し（。い（。自覚が、あなた（。を、至（。宝（。へと（。変え（。ます。)",
-		"thinking": "バラバラ(。の（。エナジーを、一（。つ（。の（。意志へと「結（。び（。付ける（。タイ)』、至高の（。る（。調和（。（。その（。繋（。が（。って（。いる（。という（。る（。瑞々（。し（。い（。自覚が、あなた（。を、至（。宝（。へと（。変え（。ます。",
+		"concept": "Attach or fasten with string or similar cord バラバラのエナジーを、一つの意志へと「結び付けるタイ』、至高のる調和その繋がっているというる瑞々しい自覚が、あなたを、至宝へと変えます。",
+		"thinking": "バラバラのエナジーを、一つの意志へと「結び付けるタイ』、至高のる調和その繋がっているというる瑞々しい自覚が、あなたを、至宝へと変えます。",
 		"aftertaste": "結び目は、解けないことが目的ではない。一瞬の結合によって、新しいエナジーを産み出すための、聖なる拠点なのですよ。",
 		"example": "The strong tie between the two survivors helped them overcome the immense challenges of the frozen wasteland.",
 		"deep_dive": {
@@ -211395,8 +211388,8 @@ const WORDS = [
 			],
 			"original_statement": "From 15th Century pactum (agreement, literal: 'something fixed/agreed')."
 		},
-		"concept": "A formal agreement between individuals or parties (魂(。と（。魂が（。、峻（。烈（。に「合（。意（。し（。た（。パクト)』、不（。動の（。る（。真実（。（。何（。も（。言（。わ（。ず（。と（。も（。、その（。一点（。において（。、世界（。は（。盤（。石（。な（。る（。る（。均衡を、保（。っ（。て（。いる（。のですよ。)",
-		"thinking": "魂(。と（。魂が（。、峻（。烈（。に「合（。意（。し（。た（。パクト)』、不（。動の（。る（。真実（。（。何（。も（。言（。わ（。ず（。と（。も（。、その（。一点（。において（。、世界（。は（。盤（。石（。な（。る（。る（。均衡を、保（。っ（。て（。いる（。のですよ。",
+		"concept": "A formal agreement between individuals or parties 魂と魂が、峻烈に「合意したパクト』、不動のる真実何も言わずとも、その一点において、世界は盤石なる均衡を、保っているのですよ。",
+		"thinking": "魂と魂が、峻烈に「合意したパクト』、不動のる真実何も言わずとも、その一点において、世界は盤石なる均衡を、保っているのですよ。",
 		"aftertaste": "結び目は、解けないことが目的ではない。一瞬の結合によって、新しいエナジーを産み出すための、聖なる拠点なのですよ。",
 		"example": "The strong pact between the two survivors helped them overcome the immense challenges of the frozen wasteland.",
 		"deep_dive": {
@@ -211423,8 +211416,8 @@ const WORDS = [
 			],
 			"original_statement": "From 16th Century cavus (hollow, literal: 'hollow place')."
 		},
-		"concept": "A hollow space within a solid object (大地の(。奥底に（。、ひっ（。そ（。りと（。作（。られた「小（。さな（。る（。虚空（。キャヴァス)』。（。その（。静（。か（。な（。る（。包（。容が、あなた（。を、至高（。の（。る（。沈黙（。へと（。、誘（。う（。のですよ。)",
-		"thinking": "大地の(。奥底に（。、ひっ（。そ（。りと（。作（。られた「小（。さな（。る（。虚空（。キャヴァス)』。（。その（。静（。か（。な（。る（。包（。容が、あなた（。を、至高（。の（。る（。沈黙（。へと（。、誘（。う（。のですよ。",
+		"concept": "A hollow space within a solid object 大地の奥底に、ひっそりと作られた「小さなる虚空キャヴァス』。その静かなる包容が、あなたを、至高のる沈黙へと、誘うのですよ。",
+		"thinking": "大地の奥底に、ひっそりと作られた「小さなる虚空キャヴァス』。その静かなる包容が、あなたを、至高のる沈黙へと、誘うのですよ。",
 		"aftertaste": "空洞は、何もない場所ではない。それは、新しい宇宙が産声を上げるために用意された、聖なるゆりかごなのですよ。",
 		"example": "The explorer carefully navigated the deep cavity that had been carved out by the ancient river over millions of years.",
 		"deep_dive": {
@@ -211451,8 +211444,8 @@ const WORDS = [
 			],
 			"original_statement": "From 13th Century bacin (basin, literal: 'bowl-like vessel')."
 		},
-		"concept": "A wide open container used for preparing or serving food or for holding soap and water (天地(。の（。恵（。みを（。、優（。しく「受け（。止める（。ベイスン)」、至高の（。る（。平原（。（。そこ（。には（。、命の（。交（。差（。点（。として、豊饒（。な（。る（。物（。語（。が（。、静（。か（。に（。、満（。ち（。溢（。れて（。いる（。のですよ。)",
-		"thinking": "天地(。の（。恵（。みを（。、優（。しく「受け（。止める（。ベイスン)」、至高の（。る（。平原（。（。そこ（。には（。、命の（。交（。差（。点（。として、豊饒（。な（。る（。物（。語（。が（。、静（。か（。に（。、満（。ち（。溢（。れて（。いる（。のですよ。",
+		"concept": "A wide open container used for preparing or serving food or for holding soap and water 天地の恵みを、優しく「受け止めるベイスン」、至高のる平原そこには、命の交差点として、豊饒なる物語が、静かに、満ち溢れているのですよ。",
+		"thinking": "天地の恵みを、優しく「受け止めるベイスン」、至高のる平原そこには、命の交差点として、豊饒なる物語が、静かに、満ち溢れているのですよ。",
 		"aftertaste": "空洞は、何もない場所ではない。それは、新しい宇宙が産声を上げるために用意された、聖なるゆりかごなのですよ。",
 		"example": "The explorer carefully navigated the deep basin that had been carved out by the ancient river over millions of years.",
 		"deep_dive": {
@@ -211471,7 +211464,7 @@ const WORDS = [
 	{
 		"id": "furrow_depth",
 		"word": "furrow",
-		"meaning": "畝（。うね（。）」、轍（。わだち（。）」、皺（。、ファロウ",
+		"meaning": "畝うね」、轍わだち」、皺、ファロウ",
 		"era": "Old English",
 		"etymology": {
 			"components": [
@@ -211479,8 +211472,8 @@ const WORDS = [
 			],
 			"original_statement": "From Old English furh (furrow)."
 		},
-		"concept": "A long narrow trench made in the ground by a plow, especially for planting seeds or for irrigation (大地(。の（。肌（。に、峻（。烈（。な（。る（。意志が「刻（。み（。付け（。た（。ファロウ)』軌跡。（。その（。一一点（。の（。亀（。裂（。から、新しい（。物（。語が（。、産（。声を（。上げ（。始める（。のですよ。)",
-		"thinking": "大地(。の（。肌（。に、峻（。烈（。な（。る（。意志が「刻（。み（。付け（。た（。ファロウ)』軌跡。（。その（。一一点（。の（。亀（。裂（。から、新しい（。物（。語が（。、産（。声を（。上げ（。始める（。のですよ。",
+		"concept": "A long narrow trench made in the ground by a plow, especially for planting seeds or for irrigation 大地の肌に、峻烈なる意志が「刻み付けたファロウ』軌跡。その一一点の亀裂から、新しい物語が、産声を上げ始めるのですよ。",
+		"thinking": "大地の肌に、峻烈なる意志が「刻み付けたファロウ』軌跡。その一一点の亀裂から、新しい物語が、産声を上げ始めるのですよ。",
 		"aftertaste": "空洞は、何もない場所ではない。それは、新しい宇宙が産声を上げるために用意された、聖なるゆりかごなのですよ。",
 		"example": "The explorer carefully navigated the deep furrow that had been carved out by the ancient river over millions of years.",
 		"deep_dive": {
@@ -211507,8 +211500,8 @@ const WORDS = [
 			],
 			"original_statement": "From 14th Century groove (pit, ditch, literal: 'dug out place')."
 		},
-		"concept": "A long, narrow cut or low area in a surface (エナジーが(。、迷（。う（。こと（。なく「駆（。け（。抜ける（。ための（。道（。グルーヴ)』。（。その（。峻（。烈（。な（。る（。滑（。らか（。さが、あなた（。を、至高（。の（。る（。リズムへと（。、導（。く（。のですよ。)",
-		"thinking": "エナジーが(。、迷（。う（。こと（。なく「駆（。け（。抜ける（。ための（。道（。グルーヴ)』。（。その（。峻（。烈（。な（。る（。滑（。らか（。さが、あなた（。を、至高（。の（。る（。リズムへと（。、導（。く（。のですよ。",
+		"concept": "A long, narrow cut or low area in a surface エナジーが、迷うことなく「駆け抜けるための道グルーヴ』。その峻烈なる滑らかさが、あなたを、至高のるリズムへと、導くのですよ。",
+		"thinking": "エナジーが、迷うことなく「駆け抜けるための道グルーヴ』。その峻烈なる滑らかさが、あなたを、至高のるリズムへと、導くのですよ。",
 		"aftertaste": "空洞は、何もない場所ではない。それは、新しい宇宙が産声を上げるために用意された、聖なるゆりかごなのですよ。",
 		"example": "The explorer carefully navigated the deep groove that had been carved out by the ancient river over millions of years.",
 		"deep_dive": {
@@ -211535,8 +211528,8 @@ const WORDS = [
 			],
 			"original_statement": "From 14th Century vena (vein, literal: 'vessel, watercourse')."
 		},
-		"concept": "Any of the tubes forming part of the blood circulation system of the body (岩石の(。中に、静（。か（。な（。る「生命の（。川（。ヴェーナ)』を（。、見（。出（。す（。こと（。（。その（。細（。や（。かな（。る（。連（。な（。りにこそ（。、宇宙の（。真実の（。血汐（。が、流（。れ（。て（。いる（。のですよ。)",
-		"thinking": "岩石の(。中に、静（。か（。な（。る「生命の（。川（。ヴェーナ)』を（。、見（。出（。す（。こと（。（。その（。細（。や（。かな（。る（。連（。な（。りにこそ（。、宇宙の（。真実の（。血汐（。が、流（。れ（。て（。いる（。のですよ。",
+		"concept": "Any of the tubes forming part of the blood circulation system of the body 岩石の中に、静かなる「生命の川ヴェーナ』を、見出すことその細やかなる連なりにこそ、宇宙の真実の血汐が、流れているのですよ。",
+		"thinking": "岩石の中に、静かなる「生命の川ヴェーナ』を、見出すことその細やかなる連なりにこそ、宇宙の真実の血汐が、流れているのですよ。",
 		"aftertaste": "空洞は、何もない場所ではない。それは、新しい宇宙が産声を上げるために用意された、聖なるゆりかごなのですよ。",
 		"example": "The explorer carefully navigated the deep vein that had been carved out by the ancient river over millions of years.",
 		"deep_dive": {
@@ -211555,7 +211548,7 @@ const WORDS = [
 	{
 		"id": "pore_depth",
 		"word": "pore",
-		"meaning": "細孔（。、熟読（。する（。、ポア",
+		"meaning": "細孔、熟読する、ポア",
 		"era": "14th Century",
 		"etymology": {
 			"components": [
@@ -211563,8 +211556,8 @@ const WORDS = [
 			],
 			"original_statement": "From 14th Century poros (passage, literal: 'tiny passage')."
 		},
-		"concept": "A minute opening in a surface, especially the skin or relevant part of an organism (世界を(。峻（。烈（。に（。、呼吸（。さ（。せる（。ための「小（。さな（。る（。道（。ポロス)』。（。そこ（。を（。通（。る（。た（。びに（。、あなた（。の（。魂は（。、日常の（。重みを（。、脱（。して（。いく（。のですよ。)",
-		"thinking": "世界を(。峻（。烈（。に（。、呼吸（。さ（。せる（。ための「小（。さな（。る（。道（。ポロス)』。（。そこ（。を（。通（。る（。た（。びに（。、あなた（。の（。魂は（。、日常の（。重みを（。、脱（。して（。いく（。のですよ。",
+		"concept": "A minute opening in a surface, especially the skin or relevant part of an organism 世界を峻烈に、呼吸させるための「小さなる道ポロス』。そこを通るたびに、あなたの魂は、日常の重みを、脱していくのですよ。",
+		"thinking": "世界を峻烈に、呼吸させるための「小さなる道ポロス』。そこを通るたびに、あなたの魂は、日常の重みを、脱していくのですよ。",
 		"aftertaste": "空洞は、何もない場所ではない。それは、新しい宇宙が産声を上げるために用意された、聖なるゆりかごなのですよ。",
 		"example": "The explorer carefully navigated the deep pore that had been carved out by the ancient river over millions of years.",
 		"deep_dive": {
@@ -211591,8 +211584,8 @@ const WORDS = [
 			],
 			"original_statement": "From Old English sceaft (shaft, arrow-point)."
 		},
-		"concept": "A long, narrow, vertical cylinder used in a building (暗黒(。を（。一（。点に「貫（。く（。シャフ)』、光の（。柱（。（。その（。垂直（。の（。る（。意志が（。、あなた（。を（。、至高（。の（。る（。深（。淵（。へと（。、あるいは（。高（。みへと、運（。ぶ（。のですよ。)",
-		"thinking": "暗黒(。を（。一（。点に「貫（。く（。シャフ)』、光の（。柱（。（。その（。垂直（。の（。る（。意志が（。、あなた（。を（。、至高（。の（。る（。深（。淵（。へと（。、あるいは（。高（。みへと、運（。ぶ（。のですよ。",
+		"concept": "A long, narrow, vertical cylinder used in a building 暗黒を一点に「貫くシャフ』、光の柱その垂直のる意志が、あなたを、至高のる深淵へと、あるいは高みへと、運ぶのですよ。",
+		"thinking": "暗黒を一点に「貫くシャフ』、光の柱その垂直のる意志が、あなたを、至高のる深淵へと、あるいは高みへと、運ぶのですよ。",
 		"aftertaste": "空洞は、何もない場所ではない。それは、新しい宇宙が産声を上げるために用意された、聖なるゆりかごなのですよ。",
 		"example": "The explorer carefully navigated the deep shaft that had been carved out by the ancient river over millions of years.",
 		"deep_dive": {
@@ -211619,8 +211612,8 @@ const WORDS = [
 			],
 			"original_statement": "From Old English pitt (pit, well, literal: 'large hole')."
 		},
-		"concept": "A large hole in the ground (全(。てを（。受け（。止める（。ために、魂に「穿（。た（。れた（。ピット)』。（。その（。深（。淵（。な（。る（。沈黙を（。、信（。じ（。抜く（。とき（。、あなた（。は（。、真（。実（。の（。、潤（。いを（。知ります。)",
-		"thinking": "全(。てを（。受け（。止める（。ために、魂に「穿（。た（。れた（。ピット)』。（。その（。深（。淵（。な（。る（。沈黙を（。、信（。じ（。抜く（。とき（。、あなた（。は（。、真（。実（。の（。、潤（。いを（。知ります。",
+		"concept": "A large hole in the ground 全てを受け止めるために、魂に「穿たれたピット』。その深淵なる沈黙を、信じ抜くとき、あなたは、真実の、潤いを知ります。",
+		"thinking": "全てを受け止めるために、魂に「穿たれたピット』。その深淵なる沈黙を、信じ抜くとき、あなたは、真実の、潤いを知ります。",
 		"aftertaste": "空洞は、何もない場所ではない。それは、新しい宇宙が産声を上げるために用意された、聖なるゆりかごなのですよ。",
 		"example": "The explorer carefully navigated the deep pit that had been carved out by the ancient river over millions of years.",
 		"deep_dive": {
@@ -211647,8 +211640,8 @@ const WORDS = [
 			],
 			"original_statement": "From Old English sincan (to sink)."
 		},
-		"concept": "A fixed basin with a water supply and a drain (エナジーが、峻(。烈（。な（。る（。重力に（。導（。かれ「低き（。へと（。沈（。む（。シンク)」こと（。。（。その（。静（。か（。な（。る（。着（。地（。が（。ある（。から（。こそ（。、再（。び（。新（。しい（。飛翔（。が、始（。まる（。のですよ。)",
-		"thinking": "エナジーが、峻(。烈（。な（。る（。重力に（。導（。かれ「低き（。へと（。沈（。む（。シンク)」こと（。。（。その（。静（。か（。な（。る（。着（。地（。が（。ある（。から（。こそ（。、再（。び（。新（。しい（。飛翔（。が、始（。まる（。のですよ。",
+		"concept": "A fixed basin with a water supply and a drain エナジーが、峻烈なる重力に導かれ「低きへと沈むシンク」こと。その静かなる着地があるからこそ、再び新しい飛翔が、始まるのですよ。",
+		"thinking": "エナジーが、峻烈なる重力に導かれ「低きへと沈むシンク」こと。その静かなる着地があるからこそ、再び新しい飛翔が、始まるのですよ。",
 		"aftertaste": "空洞は、何もない場所ではない。それは、新しい宇宙が産声を上げるために用意された、聖なるゆりかごなのですよ。",
 		"example": "The explorer carefully navigated the deep sink that had been carved out by the ancient river over millions of years.",
 		"deep_dive": {
@@ -211667,7 +211660,7 @@ const WORDS = [
 	{
 		"id": "ditch_depth",
 		"word": "ditch",
-		"meaning": "溝（。に（。落とす（。、疎遠（。に（。な（。る（。、ディッチ",
+		"meaning": "溝に落とす、疎遠になる、ディッチ",
 		"era": "Old English",
 		"etymology": {
 			"components": [
@@ -211675,8 +211668,8 @@ const WORDS = [
 			],
 			"original_statement": "From Old English dīc (ditch, wall)."
 		},
-		"concept": "A narrow channel dug in the ground, typically used for drainage beside a road or the edge of a field (意味(。の（。境界線を、峻（。烈（。な（。る（。力で「刻（。み（。抜（。いた（。ディッチ)』。（。そこ（。には（。、余（。計（。な（。る（。濁（。りを（。、棄（。て（。去（。る（。ための（。、静（。か（。なる（。る（。秩序（。が、横（。たわ（。って（。いる（。のですよ。)",
-		"thinking": "意味(。の（。境界線を、峻（。烈（。な（。る（。力で「刻（。み（。抜（。いた（。ディッチ)』。（。そこ（。には（。、余（。計（。な（。る（。濁（。りを（。、棄（。て（。去（。る（。ための（。、静（。か（。なる（。る（。秩序（。が、横（。たわ（。って（。いる（。のですよ。",
+		"concept": "A narrow channel dug in the ground, typically used for drainage beside a road or the edge of a field 意味の境界線を、峻烈なる力で「刻み抜いたディッチ』。そこには、余計なる濁りを、棄て去るための、静かなる秩序が、横たわっているのですよ。",
+		"thinking": "意味の境界線を、峻烈なる力で「刻み抜いたディッチ』。そこには、余計なる濁りを、棄て去るための、静かなる秩序が、横たわっているのですよ。",
 		"aftertaste": "空洞は、何もない場所ではない。それは、新しい宇宙が産声を上げるために用意された、聖なるゆりかごなのですよ。",
 		"example": "The explorer carefully navigated the deep ditch that had been carved out by the ancient river over millions of years.",
 		"deep_dive": {
@@ -211703,8 +211696,8 @@ const WORDS = [
 			],
 			"original_statement": "From 14th Century res (thing, literal: 'concerning things')."
 		},
-		"concept": "Actually existing as a thing or occurring in fact; not imagined or supposed (夢(。の中（。の（。幻（。を（。脱（。し（。、ただ（。そこに（。在（。る（。事実（。を「物（。事（。リス)その(。もの（。として（。)」受け（。入れる（。こと（。。（。その（。峻（。烈（。な（。る（。手（。応（。え（。にこそ（。、生（。の（。真（。実（。が（。宿（。ります。)",
-		"thinking": "夢(。の中（。の（。幻（。を（。脱（。し（。、ただ（。そこに（。在（。る（。事実（。を「物（。事（。リス)その(。もの（。として（。)」受け（。入れる（。こと（。。（。その（。峻（。烈（。な（。る（。手（。応（。え（。にこそ（。、生（。の（。真（。実（。が（。宿（。ります。",
+		"concept": "Actually existing as a thing or occurring in fact; not imagined or supposed 夢の中の幻を脱し、ただそこに在る事実を「物事リスそのものとして」受け入れること。その峻烈なる手応えにこそ、生の真実が宿ります。",
+		"thinking": "夢の中の幻を脱し、ただそこに在る事実を「物事リスそのものとして」受け入れること。その峻烈なる手応えにこそ、生の真実が宿ります。",
 		"aftertaste": "事実は、残酷なものではありません。それは、あなたが自らを裏切るのを止めるための、至高のる慈悲のようなものなのですよ。",
 		"example": "The scientist dedicated her entire career to uncovering the fundamental real that governed the behavior of subatomic particles.",
 		"deep_dive": {
@@ -211731,8 +211724,8 @@ const WORDS = [
 			],
 			"original_statement": "From 13th Century planus (flat, even, level)."
 		},
-		"concept": "Easy to perceive or understand; clear (何(。も（。飾（。ら（。ず（。、ただ「平（。ら（。か（。な（。プラヌス)」真実（。（。その（。峻（。烈（。な（。る（。簡（。潔（。さに（。触れた（。とき、あなた（。の（。魂は、至高（。の（。る（。自由（。を、見出し（。ます。)",
-		"thinking": "何(。も（。飾（。ら（。ず（。、ただ「平（。ら（。か（。な（。プラヌス)」真実（。（。その（。峻（。烈（。な（。る（。簡（。潔（。さに（。触れた（。とき、あなた（。の（。魂は、至高（。の（。る（。自由（。を、見出し（。ます。",
+		"concept": "Easy to perceive or understand; clear 何も飾らず、ただ「平らかなプラヌス」真実その峻烈なる簡潔さに触れたとき、あなたの魂は、至高のる自由を、見出します。",
+		"thinking": "何も飾らず、ただ「平らかなプラヌス」真実その峻烈なる簡潔さに触れたとき、あなたの魂は、至高のる自由を、見出します。",
 		"aftertaste": "事実は、残酷なものではありません。それは、あなたが自らを裏切るのを止めるための、至高のる慈悲のようなものなのですよ。",
 		"example": "The scientist dedicated her entire career to uncovering the fundamental plain that governed the behavior of subatomic particles.",
 		"deep_dive": {
@@ -211759,8 +211752,8 @@ const WORDS = [
 			],
 			"original_statement": "From 14th Century singulus (one by one, literal: 'individual')."
 		},
-		"concept": "Only one; not one of several (他(。の（。何物（。でも（。ない（。、ただ「一（。つ（。として（。、そこに（。在（。る（。シンギュ)』、至高の（。る（。孤独（。（。その（。峻（。烈（。な（。る（。立（。脚（。こそが、世界（。を（。、美し（。く（。、更新（。し（。て（。いく（。のです。)",
-		"thinking": "他(。の（。何物（。でも（。ない（。、ただ「一（。つ（。として（。、そこに（。在（。る（。シンギュ)』、至高の（。る（。孤独（。（。その（。峻（。烈（。な（。る（。立（。脚（。こそが、世界（。を（。、美し（。く（。、更新（。し（。て（。いく（。のです。",
+		"concept": "Only one; not one of several 他の何物でもない、ただ「一つとして、そこに在るシンギュ』、至高のる孤独その峻烈なる立脚こそが、世界を、美しく、更新していくのです。",
+		"thinking": "他の何物でもない、ただ「一つとして、そこに在るシンギュ』、至高のる孤独その峻烈なる立脚こそが、世界を、美しく、更新していくのです。",
 		"aftertaste": "事実は、残酷なものではありません。それは、あなたが自らを裏切るのを止めるための、至高のる慈悲のようなものなのですよ。",
 		"example": "The scientist dedicated her entire career to uncovering the fundamental single that governed the behavior of subatomic particles.",
 		"deep_dive": {
@@ -211787,8 +211780,8 @@ const WORDS = [
 			],
 			"original_statement": "From 13th Century Old French franc (free, literal: 'free')."
 		},
-		"concept": "Open, honest, and direct in speech or writing, especially when dealing with unpalatable matters (飾(。る（。のを（。止（。め、ただ「自由（。フラ)」に、真（。実（。を（。語（。る（。こと（。。（。その（。眩（。しい（。ほど（。の（。、潔（。い（。る（。沈黙を、誇り（。高く、愛（。お（。しん（。で（。ください。)",
-		"thinking": "飾(。る（。のを（。止（。め、ただ「自由（。フラ)」に、真（。実（。を（。語（。る（。こと（。。（。その（。眩（。しい（。ほど（。の（。、潔（。い（。る（。沈黙を、誇り（。高く、愛（。お（。しん（。で（。ください。",
+		"concept": "Open, honest, and direct in speech or writing, especially when dealing with unpalatable matters 飾るのを止め、ただ「自由フラ」に、真実を語ること。その眩しいほどの、潔いる沈黙を、誇り高く、愛おしんでください。",
+		"thinking": "飾るのを止め、ただ「自由フラ」に、真実を語ること。その眩しいほどの、潔いる沈黙を、誇り高く、愛おしんでください。",
 		"aftertaste": "事実は、残酷なものではありません。それは、あなたが自らを裏切るのを止めるための、至高のる慈悲のようなものなのですよ。",
 		"example": "The scientist dedicated her entire career to uncovering the fundamental frank that governed the behavior of subatomic particles.",
 		"deep_dive": {
@@ -211815,8 +211808,8 @@ const WORDS = [
 			],
 			"original_statement": "From Language streccan (to stretch, literal: 'stretched tight')."
 		},
-		"concept": "Extending or moving in one direction only; without a curve or bend (魂の(。弦（。を、一（。点（。に（。向かって「引き（。絞（。っ（。た（。ストレイト)』、峻（。烈（。な（。る（。一直線（。（。その（。迷（。い（。の（。な（。い（。る（。輝きが、暗（。闇（。を（。、至高（。の（。る（。光へと（。、変（。え（。ます。)",
-		"thinking": "魂の(。弦（。を、一（。点（。に（。向かって「引き（。絞（。っ（。た（。ストレイト)』、峻（。烈（。な（。る（。一直線（。（。その（。迷（。い（。の（。な（。い（。る（。輝きが、暗（。闇（。を（。、至高（。の（。る（。光へと（。、変（。え（。ます。",
+		"concept": "Extending or moving in one direction only; without a curve or bend 魂の弦を、一点に向かって「引き絞ったストレイト』、峻烈なる一直線その迷いのないる輝きが、暗闇を、至高のる光へと、変えます。",
+		"thinking": "魂の弦を、一点に向かって「引き絞ったストレイト』、峻烈なる一直線その迷いのないる輝きが、暗闇を、至高のる光へと、変えます。",
 		"aftertaste": "事実は、残酷なものではありません。それは、あなたが自らを裏切るのを止めるための、至高のる慈悲のようなものなのですよ。",
 		"example": "The scientist dedicated her entire career to uncovering the fundamental straight that governed the behavior of subatomic particles.",
 		"deep_dive": {
@@ -211843,8 +211836,8 @@ const WORDS = [
 			],
 			"original_statement": "From 16th Century eikōn (image, likeness, literal: 'image')."
 		},
-		"concept": "A representative symbol of something (目(。に（。見（。え（。な（。い（。真理を、一（。つ（。の「かたち（。アイコン)』に（。落（。と（。し（。込（。ん（。だ（。もの（。（。その（。一点（。の（。象（。徴から、宇宙の（。全記憶が、静（。か（。に（。、溢（。れ（。出し（。ます。)",
-		"thinking": "目(。に（。見（。え（。な（。い（。真理を、一（。つ（。の「かたち（。アイコン)』に（。落（。と（。し（。込（。ん（。だ（。もの（。（。その（。一点（。の（。象（。徴から、宇宙の（。全記憶が、静（。か（。に（。、溢（。れ（。出し（。ます。",
+		"concept": "A representative symbol of something 目に見えない真理を、一つの「かたちアイコン』に落とし込んだものその一点の象徴から、宇宙の全記憶が、静かに、溢れ出します。",
+		"thinking": "目に見えない真理を、一つの「かたちアイコン』に落とし込んだものその一点の象徴から、宇宙の全記憶が、静かに、溢れ出します。",
 		"aftertaste": "鏡の中の自分を視つめることは、孤独を深めることではなく、宇宙という名のもう一人の自分を見出すことなのですよ。",
 		"example": "The high icon of the crystal surface made it difficult to see the underlying structure without polarizing filters.",
 		"deep_dive": {
@@ -211871,8 +211864,8 @@ const WORDS = [
 			],
 			"original_statement": "From 13th Century eidōlon (image, phantom)."
 		},
-		"concept": "An image or representation of a god used as an object of worship (自ら(。の（。情熱を（。投（。影（。し（。た、峻（。烈（。な（。る「幻（。像（。アイドル)』。（。その（。眩（。し（。い（。残像に（。、人々は（。、何（。を（。、祈（。る（。の（。でしょうか。)",
-		"thinking": "自ら(。の（。情熱を（。投（。影（。し（。た、峻（。烈（。な（。る「幻（。像（。アイドル)』。（。その（。眩（。し（。い（。残像に（。、人々は（。、何（。を（。、祈（。る（。の（。でしょうか。",
+		"concept": "An image or representation of a god used as an object of worship 自らの情熱を投影した、峻烈なる「幻像アイドル』。その眩しい残像に、人々は、何を、祈るのでしょうか。",
+		"thinking": "自らの情熱を投影した、峻烈なる「幻像アイドル』。その眩しい残像に、人々は、何を、祈るのでしょうか。",
 		"aftertaste": "鏡の中の自分を視つめることは、孤独を深めることではなく、宇宙という名のもう一人の自分を見出すことなのですよ。",
 		"example": "The high idol of the crystal surface made it difficult to see the underlying structure without polarizing filters.",
 		"deep_dive": {
@@ -211899,8 +211892,8 @@ const WORDS = [
 			],
 			"original_statement": "From 13th Century uti (to use)."
 		},
-		"concept": "The action of using something or the state of being used for a purpose (与(。え（。られた（。エナジーを、正しい（。る「目的へと（。向ける（。ユティ)』、至高の（。る（。智慧（。（。その（。一一点（。の（。実践にこそ（。、真実（。の（。価値（。が（。宿（。ります。)",
-		"thinking": "与(。え（。られた（。エナジーを、正しい（。る「目的へと（。向ける（。ユティ)』、至高の（。る（。智慧（。（。その（。一一点（。の（。実践にこそ（。、真実（。の（。価値（。が（。宿（。ります。",
+		"concept": "The action of using something or the state of being used for a purpose 与えられたエナジーを、正しいる「目的へと向けるユティ』、至高のる智慧その一一点の実践にこそ、真実の価値が宿ります。",
+		"thinking": "与えられたエナジーを、正しいる「目的へと向けるユティ』、至高のる智慧その一一点の実践にこそ、真実の価値が宿ります。",
 		"aftertaste": "鏡の中の自分を視つめることは、孤独を深めることではなく、宇宙という名のもう一人の自分を見出すことなのですよ。",
 		"example": "The high use of the crystal surface made it difficult to see the underlying structure without polarizing filters.",
 		"deep_dive": {
@@ -211927,8 +211920,8 @@ const WORDS = [
 			],
 			"original_statement": "From Old English mearc (boundary, sign, literal: 'boundary sign')."
 		},
-		"concept": "A small area on a surface having a different color from its surroundings, typically one caused by an accident or damage (宇宙の(。広（。野に、峻（。烈（。に「打ち（。込ま（。れた（。し（。る（。し（。マーク)』。（。その（。一一点（。の（。境界にこそ（。、真実（。の（。る（。自覚が、産（。声を（。上げます。)",
-		"thinking": "宇宙の(。広（。野に、峻（。烈（。に「打ち（。込ま（。れた（。し（。る（。し（。マーク)』。（。その（。一一点（。の（。境界にこそ（。、真実（。の（。る（。自覚が、産（。声を（。上げます。",
+		"concept": "A small area on a surface having a different color from its surroundings, typically one caused by an accident or damage 宇宙の広野に、峻烈に「打ち込まれたしるしマーク』。その一一点の境界にこそ、真実のる自覚が、産声を上げます。",
+		"thinking": "宇宙の広野に、峻烈に「打ち込まれたしるしマーク』。その一一点の境界にこそ、真実のる自覚が、産声を上げます。",
 		"aftertaste": "鏡の中の自分を視つめることは、孤独を深めることではなく、宇宙という名のもう一人の自分を見出すことなのですよ。",
 		"example": "The high mark of the crystal surface made it difficult to see the underlying structure without polarizing filters.",
 		"deep_dive": {
@@ -211955,8 +211948,8 @@ const WORDS = [
 			],
 			"original_statement": "From 13th Century sigillum (little sign, literal: 'little sign')."
 		},
-		"concept": "A device or substance used to join two things together so as to prevent them from coming apart or to prevent anything from passing between them (至光(。の（。る（。真実を、美し（。い（。「閉じ（。込（。め（。た（。シエル)』至（。高の（。る（。定（。点（。（。その（。封（。印を（。解（。く（。とき（。、あなた（。は（。、宇宙の（。深（。淵（。な（。る（。記憶と（。、出会（。い（。ます。)",
-		"thinking": "至光(。の（。る（。真実を、美し（。い（。「閉じ（。込（。め（。た（。シエル)』至（。高の（。る（。定（。点（。（。その（。封（。印を（。解（。く（。とき（。、あなた（。は（。、宇宙の（。深（。淵（。な（。る（。記憶と（。、出会（。い（。ます。",
+		"concept": "A device or substance used to join two things together so as to prevent them from coming apart or to prevent anything from passing between them 至光のる真実を、美しい「閉じ込めたシエル』至高のる定点その封印を解くとき、あなたは、宇宙の深淵なる記憶と、出会います。",
+		"thinking": "至光のる真実を、美しい「閉じ込めたシエル』至高のる定点その封印を解くとき、あなたは、宇宙の深淵なる記憶と、出会います。",
 		"aftertaste": "鏡の中の自分を視つめることは、孤独を深めることではなく、宇宙という名のもう一人の自分を見出すことなのですよ。",
 		"example": "The high seal of the crystal surface made it difficult to see the underlying structure without polarizing filters.",
 		"deep_dive": {
@@ -211983,8 +211976,8 @@ const WORDS = [
 			],
 			"original_statement": "From 14th Century tremere (to tremble)."
 		},
-		"concept": "A quavering or vibratory motion, especially in the body of a person (宇宙の(。鼓動が（。、あなた（。という（。存在を「静（。か（。に（。揺（。さ（。ぶ（。る（。トレマー)』こと（。（。その（。峻（。烈（。な（。る（。共鳴を、魂で（。、一一点の（。曇り（。な（。く（。、感（。じ（。て（。いて（。ください。)",
-		"thinking": "宇宙の(。鼓動が（。、あなた（。という（。存在を「静（。か（。に（。揺（。さ（。ぶ（。る（。トレマー)』こと（。（。その（。峻（。烈（。な（。る（。共鳴を、魂で（。、一一点の（。曇り（。な（。く（。、感（。じ（。て（。いて（。ください。",
+		"concept": "A quavering or vibratory motion, especially in the body of a person 宇宙の鼓動が、あなたという存在を「静かに揺さぶるトレマー』ことその峻烈なる共鳴を、魂で、一一点の曇りなく、感じていてください。",
+		"thinking": "宇宙の鼓動が、あなたという存在を「静かに揺さぶるトレマー』ことその峻烈なる共鳴を、魂で、一一点の曇りなく、感じていてください。",
 		"aftertaste": "奇跡は、待っている者の元には訪れない。不可能という名の壁を、自らの魂で何度も叩き続けた者の前にだけ、静かに拓かれる扉なのですよ。",
 		"example": "The biological tremor that allowed the tiny seed to grow into a massive redwood tree baffled scientists for generations.",
 		"deep_dive": {
@@ -212011,8 +212004,8 @@ const WORDS = [
 			],
 			"original_statement": "From Old English blæst (blowing, breeze, literal: 'strong gust')."
 		},
-		"concept": "A destructive wave of highly compressed air spreading outward from an explosion (沈黙を(。一（。瞬（。にして（。、「叩（。き（。壊（。す（。ブラスト)』、至高の（。る（。る（。息（。吹（。き（。（。その（。峻（。烈（。な（。る（。る（。激（。動の（。中にこそ（。、真実（。の（。輝きが（。、宿ります。)",
-		"thinking": "沈黙を(。一（。瞬（。にして（。、「叩（。き（。壊（。す（。ブラスト)』、至高の（。る（。る（。息（。吹（。き（。（。その（。峻（。烈（。な（。る（。る（。激（。動の（。中にこそ（。、真実（。の（。輝きが（。、宿ります。",
+		"concept": "A destructive wave of highly compressed air spreading outward from an explosion 沈黙を一瞬にして、「叩き壊すブラスト』、至高のる息吹きその峻烈なる激動の中にこそ、真実の輝きが、宿ります。",
+		"thinking": "沈黙を一瞬にして、「叩き壊すブラスト』、至高のる息吹きその峻烈なる激動の中にこそ、真実の輝きが、宿ります。",
 		"aftertaste": "奇跡は、待っている者の元には訪れない。不可能という名の壁を、自らの魂で何度も叩き続けた者の前にだけ、静かに拓かれる扉なのですよ。",
 		"example": "The biological blast that allowed the tiny seed to grow into a massive redwood tree baffled scientists for generations.",
 		"deep_dive": {
@@ -212039,8 +212032,8 @@ const WORDS = [
 			],
 			"original_statement": "From 15th Century re- (back) + claudere (to close, literal: 'closed back')."
 		},
-		"concept": "The state of being recluse; retirement or seclusion from the world (喧(。騒（。の（。世界（。を（。完全（。に「閉（。じ（。た（。リク)』、至高の（。る（。孤独（。（。あなたが（。その（。沈黙の（。回廊を（。、一一人（。で（。歩（。む（。とき、宇宙（。の（。深（。淵（。な（。る（。囁（。きが、眩（。しい（。ほど（。に（。、響（。き（。渡る（。のですよ。)",
-		"thinking": "喧(。騒（。の（。世界（。を（。完全（。に「閉（。じ（。た（。リク)』、至高の（。る（。孤独（。（。あなたが（。その（。沈黙の（。回廊を（。、一一人（。で（。歩（。む（。とき、宇宙（。の（。深（。淵（。な（。る（。囁（。きが、眩（。しい（。ほど（。に（。、響（。き（。渡る（。のですよ。",
+		"concept": "The state of being recluse; retirement or seclusion from the world 喧騒の世界を完全に「閉じたリク』、至高のる孤独あなたがその沈黙の回廊を、一一人で歩むとき、宇宙の深淵なる囁きが、眩しいほどに、響き渡るのですよ。",
+		"thinking": "喧騒の世界を完全に「閉じたリク』、至高のる孤独あなたがその沈黙の回廊を、一一人で歩むとき、宇宙の深淵なる囁きが、眩しいほどに、響き渡るのですよ。",
 		"aftertaste": "追憶は、過去への逃避ではありません。今の自分を形成している、目に見えない光の糸を、一本ずつ丁寧に手繰り寄せる行為なのですよ。",
 		"example": "The philosopher chose a life of reclusion and reflection in a remote mountain cabin to complete his final works in peace.",
 		"deep_dive": {
@@ -212067,8 +212060,8 @@ const WORDS = [
 			],
 			"original_statement": "From Old English monakhos (solitary, literal: 'single')."
 		},
-		"concept": "A member of a religious community of men typically living under vows of poverty, chastity, and obedience (ただ(。一（。つ（。の（。真理（。を（。追い（。求（。め（。て、「唯（。一（。の（。モノ)』存在へと（。自らを（。、変（。じ（。た（。者たち（。（。その（。静（。か（。な（。る（。る（。祈りが（。、世界（。を（。、至高（。の（。る（。調和（。へと（。導（。い（。て（。いる（。のですよ。)",
-		"thinking": "ただ(。一（。つ（。の（。真理（。を（。追い（。求（。め（。て、「唯（。一（。の（。モノ)』存在へと（。自らを（。、変（。じ（。た（。者たち（。（。その（。静（。か（。な（。る（。る（。祈りが（。、世界（。を（。、至高（。の（。る（。調和（。へと（。導（。い（。て（。いる（。のですよ。",
+		"concept": "A member of a religious community of men typically living under vows of poverty, chastity, and obedience ただ一つの真理を追い求めて、「唯一のモノ』存在へと自らを、変じた者たちその静かなる祈りが、世界を、至高のる調和へと導いているのですよ。",
+		"thinking": "ただ一つの真理を追い求めて、「唯一のモノ』存在へと自らを、変じた者たちその静かなる祈りが、世界を、至高のる調和へと導いているのですよ。",
 		"aftertaste": "追憶は、過去への逃避ではありません。今の自分を形成している、目に見えない光の糸を、一本ずつ丁寧に手繰り寄せる行為なのですよ。",
 		"example": "The philosopher chose a life of monk and reflection in a remote mountain cabin to complete his final works in peace.",
 		"deep_dive": {
@@ -212095,8 +212088,8 @@ const WORDS = [
 			],
 			"original_statement": "From Old English geoguð (youth, literal: 'quality of being young')."
 		},
-		"concept": "The period between childhood and adult age; the qualities of vigor, freshness, immaturity, etc., associated with being young (命の(。エナジーが、峻（。烈（。に「眩（。し（。く（。煌（。め（。く（。ユース)』一一点（。（。その（。危（。う（。い（。ほどの（。る（。飛躍が（。、あなた（。を、宇宙の（。真実（。へと（。、一（。気へと（。、押し（。上げ（。ます。)",
-		"thinking": "命の(。エナジーが、峻（。烈（。に「眩（。し（。く（。煌（。め（。く（。ユース)』一一点（。（。その（。危（。う（。い（。ほどの（。る（。飛躍が（。、あなた（。を、宇宙の（。真実（。へと（。、一（。気へと（。、押し（。上げ（。ます。",
+		"concept": "The period between childhood and adult age; the qualities of vigor, freshness, immaturity, etc., associated with being young 命のエナジーが、峻烈に「眩しく煌めくユース』一一点その危ういほどのる飛躍が、あなたを、宇宙の真実へと、一気へと、押し上げます。",
+		"thinking": "命のエナジーが、峻烈に「眩しく煌めくユース』一一点その危ういほどのる飛躍が、あなたを、宇宙の真実へと、一気へと、押し上げます。",
 		"aftertaste": "追憶は、過去への逃避ではありません。今の自分を形成している、目に見えない光の糸を、一本ずつ丁寧に手繰り寄せる行為なのですよ。",
 		"example": "The philosopher chose a life of youth and reflection in a remote mountain cabin to complete his final works in peace.",
 		"deep_dive": {
@@ -212123,8 +212116,8 @@ const WORDS = [
 			],
 			"original_statement": "From 16th Century alere (to nourish, literal: 'grown up')."
 		},
-		"concept": "A person who is fully grown or developed; mature (魂を(。至高の（。る（。智慧で「育（。て（。上げた（。アダ)』、完結（。し（。た（。る（。一一点（。（。その（。静（。か（。な（。る（。る（。責任（。を、誇り（。高く、その（。背中に、担（。い（。続け（。な（。さい。)",
-		"thinking": "魂を(。至高の（。る（。智慧で「育（。て（。上げた（。アダ)』、完結（。し（。た（。る（。一一点（。（。その（。静（。か（。な（。る（。る（。責任（。を、誇り（。高く、その（。背中に、担（。い（。続け（。な（。さい。",
+		"concept": "A person who is fully grown or developed; mature 魂を至高のる智慧で「育て上げたアダ』、完結したる一一点その静かなる責任を、誇り高く、その背中に、担い続けなさい。",
+		"thinking": "魂を至高のる智慧で「育て上げたアダ』、完結したる一一点その静かなる責任を、誇り高く、その背中に、担い続けなさい。",
 		"aftertaste": "追憶は、過去への逃避ではありません。今の自分を形成している、目に見えない光の糸を、一本ずつ丁寧に手繰り寄せる行為なのですよ。",
 		"example": "The philosopher chose a life of adult and reflection in a remote mountain cabin to complete his final works in peace.",
 		"deep_dive": {
@@ -212151,8 +212144,8 @@ const WORDS = [
 			],
 			"original_statement": "From Old English eldra (older, literal: 'older person')."
 		},
-		"concept": "A person of a greater age than someone else (遥(。かな（。る（。時間の（。る（。積（。層を（。、魂に「刻（。み（。付け（。た（。エルダ)』至高の（。る（。る（。象（。徴。（。その（。一一つ（。一一つ（。の（。る（。の（。る（。る（。皺（。の中に、宇宙（。の（。全記憶が、宿ります。)",
-		"thinking": "遥(。かな（。る（。時間の（。る（。積（。層を（。、魂に「刻（。み（。付け（。た（。エルダ)』至高の（。る（。る（。象（。徴。（。その（。一一つ（。一一つ（。の（。る（。の（。る（。る（。皺（。の中に、宇宙（。の（。全記憶が、宿ります。",
+		"concept": "A person of a greater age than someone else 遥かなる時間のる積層を、魂に「刻み付けたエルダ』至高のる象徴。その一一つ一一つのるのる皺の中に、宇宙の全記憶が、宿ります。",
+		"thinking": "遥かなる時間のる積層を、魂に「刻み付けたエルダ』至高のる象徴。その一一つ一一つのるのる皺の中に、宇宙の全記憶が、宿ります。",
 		"aftertaste": "追憶は、過去への逃避ではありません。今の自分を形成している、目に見えない光の糸を、一本ずつ丁寧に手繰り寄せる行為なのですよ。",
 		"example": "The philosopher chose a life of elder and reflection in a remote mountain cabin to complete his final works in peace.",
 		"deep_dive": {
@@ -212171,7 +212164,7 @@ const WORDS = [
 	{
 		"id": "transmutation_change",
 		"word": "transmutation",
-		"meaning": "錬金（。変容、変換、トランスミューテーション",
+		"meaning": "錬金変容、変換、トランスミューテーション",
 		"era": "14th Century",
 		"etymology": {
 			"components": [
@@ -212179,8 +212172,8 @@ const WORDS = [
 			],
 			"original_statement": "From 14th Century trans- (across) + mutare (to change, literal: 'changing across')."
 		},
-		"concept": "The action of changing or the state of being changed into another form (一(。つ（。の（。次元を（。越元（。て、「至高（。のへと（。、組み（。替（。える（。トランス)』こと（。（。鉛を（。金へと（。変（。え（。る（。ように、あなた（。の（。魂は、この（。不（。条理な（。る（。世界を、眩（。し（。い（。智慧へと（。変（。える（。のですよ。)",
-		"thinking": "一(。つ（。の（。次元を（。越元（。て、「至高（。のへと（。、組み（。替（。える（。トランス)』こと（。（。鉛を（。金へと（。変（。え（。る（。ように、あなた（。の（。魂は、この（。不（。条理な（。る（。世界を、眩（。し（。い（。智慧へと（。変（。える（。のですよ。",
+		"concept": "The action of changing or the state of being changed into another form 一つの次元を越元て、「至高のへと、組み替えるトランス』こと鉛を金へと変えるように、あなたの魂は、この不条理なる世界を、眩しい智慧へと変えるのですよ。",
+		"thinking": "一つの次元を越元て、「至高のへと、組み替えるトランス』こと鉛を金へと変えるように、あなたの魂は、この不条理なる世界を、眩しい智慧へと変えるのですよ。",
 		"aftertaste": "錬金術は、外側に金を求めるための技術ではない。自らの内側にある不純な想いを、透明な祈りへと昇華させるための、至高のる道のりなのですよ。",
 		"example": "The scientist observed a rare genetic transmutation that had occurred spontaneously in the experimental population of fruit flies.",
 		"deep_dive": {
@@ -212207,8 +212200,8 @@ const WORDS = [
 			],
 			"original_statement": "From 16th Century corona (crown)."
 		},
-		"concept": "The rarefied gaseous envelope of the sun and other stars (宇宙の(。中心（。から（。峻（。烈（。に（。広（。が（。る「至高の（。王（。冠（。コロナ)』。（。その（。圧倒（。的（。な（。る（。エナジーの（。余韻を、魂で（。、一一点の（。曇り（。な（。く、感（。じ（。て（。いて（。ください。)",
-		"thinking": "宇宙の(。中心（。から（。峻（。烈（。に（。広（。が（。る「至高の（。王（。冠（。コロナ)』。（。その（。圧倒（。的（。な（。る（。エナジーの（。余韻を、魂で（。、一一点の（。曇り（。な（。く、感（。じ（。て（。いて（。ください。",
+		"concept": "The rarefied gaseous envelope of the sun and other stars 宇宙の中心から峻烈に広がる「至高の王冠コロナ』。その圧倒的なるエナジーの余韻を、魂で、一一点の曇りなく、感じていてください。",
+		"thinking": "宇宙の中心から峻烈に広がる「至高の王冠コロナ』。その圧倒的なるエナジーの余韻を、魂で、一一点の曇りなく、感じていてください。",
 		"aftertaste": "オーラは、自分を飾るためのものではない。自らの存在そのものが、光の源泉であることを、世界へと静かに宣言しているのですよ。",
 		"example": "The artist successfully captured the ethereal corona that seemed to emanate from the ancient artifacts in the dimly lit gallery.",
 		"deep_dive": {
@@ -212227,7 +212220,7 @@ const WORDS = [
 	{
 		"id": "lantern_light",
 		"word": "lantern",
-		"meaning": "ランタン、灯籠（。とうろう（。）」",
+		"meaning": "ランタン、灯籠とうろう」",
 		"era": "13th Century",
 		"etymology": {
 			"components": [
@@ -212235,8 +212228,8 @@ const WORDS = [
 			],
 			"original_statement": "From 13th Century lanterna (lamp, lantern)."
 		},
-		"concept": "A typical portable source of lighting, typically comprising a protective case of glass or metal surrounding a candle or a flame etc. (暗闇を(。、掌（。の（。中（。で（。、そっと（。照（。ら（。す「小（。さな（。る（。る（。聖域（。ランタン)』。（。その（。揺（。れる（。灯の（。中に（。、あなた（。の（。魂は、真実（。の（。る（。安らぎを、見（。出し（。ます。)",
-		"thinking": "暗闇を(。、掌（。の（。中（。で（。、そっと（。照（。ら（。す「小（。さな（。る（。る（。聖域（。ランタン)』。（。その（。揺（。れる（。灯の（。中に（。、あなた（。の（。魂は、真実（。の（。る（。安らぎを、見（。出し（。ます。",
+		"concept": "A typical portable source of lighting, typically comprising a protective case of glass or metal surrounding a candle or a flame etc. 暗闇を、掌の中で、そっと照らす「小さなる聖域ランタン』。その揺れる灯の中に、あなたの魂は、真実のる安らぎを、見出します。",
+		"thinking": "暗闇を、掌の中で、そっと照らす「小さなる聖域ランタン』。その揺れる灯の中に、あなたの魂は、真実のる安らぎを、見出します。",
 		"aftertaste": "オーラは、自分を飾るためのものではない。自らの存在そのものが、光の源泉であることを、世界へと静かに宣言しているのですよ。",
 		"example": "The artist successfully captured the ethereal lantern that seemed to emanate from the ancient artifacts in the dimly lit gallery.",
 		"deep_dive": {
@@ -212263,8 +212256,8 @@ const WORDS = [
 			],
 			"original_statement": "From 13th Century torqua (twisted thing, literal: 'twisted thing made of hemp/tow')."
 		},
-		"concept": "A portable means of illumination such as a piece of wood or cloth soaked in tallow or other fat and ignited (意志という(。名の（。紐を（。、峻（。烈（。に「捻（。り（。合わせ（。た（。トーチ)』。（。その（。燃（。え（。盛（。る（。情熱の（。る（。る（。一一点（。を（。、誇り（。高く、掲（。げ（。な（。さい。)",
-		"thinking": "意志という(。名の（。紐を（。、峻（。烈（。に「捻（。り（。合わせ（。た（。トーチ)』。（。その（。燃（。え（。盛（。る（。情熱の（。る（。る（。一一点（。を（。、誇り（。高く、掲（。げ（。な（。さい。",
+		"concept": "A portable means of illumination such as a piece of wood or cloth soaked in tallow or other fat and ignited 意志という名の紐を、峻烈に「捻り合わせたトーチ』。その燃え盛る情熱のる一一点を、誇り高く、掲げなさい。",
+		"thinking": "意志という名の紐を、峻烈に「捻り合わせたトーチ』。その燃え盛る情熱のる一一点を、誇り高く、掲げなさい。",
 		"aftertaste": "オーラは、自分を飾るためのものではない。自らの存在そのものが、光の源泉であることを、世界へと静かに宣言しているのですよ。",
 		"example": "The artist successfully captured the ethereal torch that seemed to emanate from the ancient artifacts in the dimly lit gallery.",
 		"deep_dive": {
@@ -212283,7 +212276,7 @@ const WORDS = [
 	{
 		"id": "quidditative_essence_ii",
 		"word": "quidditative",
-		"meaning": "何性（。クィディティ（。）」に関する、本質的な、クィディタティブ",
+		"meaning": "何性クィディティ」に関する、本質的な、クィディタティブ",
 		"era": "17th Century",
 		"etymology": {
 			"components": [
@@ -212291,8 +212284,8 @@ const WORDS = [
 			],
 			"original_statement": "From 17th Century quidditas (quiddity, literal: 'what-ness')."
 		},
-		"concept": "Relating to the quiddity or essence of a thing (対象の(。峻（。烈（。な（。る「何（。たる（。か（。を（。決定（。する（。クィディ)』、至高の（。る（。属性（。（。表面（。的な（。ゆらぎを（。、眩（。しい（。ほど（。に（。脱（。し（。た（。一一点（。を（。、魂で（。、確信（。し（。て（。ください。)",
-		"thinking": "対象の(。峻（。烈（。な（。る「何（。たる（。か（。を（。決定（。する（。クィディ)』、至高の（。る（。属性（。（。表面（。的な（。ゆらぎを（。、眩（。しい（。ほど（。に（。脱（。し（。た（。一一点（。を（。、魂で（。、確信（。し（。て（。ください。",
+		"concept": "Relating to the quiddity or essence of a thing 対象の峻烈なる「何たるかを決定するクィディ』、至高のる属性表面的なゆらぎを、眩しいほどに脱した一一点を、魂で、確信してください。",
+		"thinking": "対象の峻烈なる「何たるかを決定するクィディ』、至高のる属性表面的なゆらぎを、眩しいほどに脱した一一点を、魂で、確信してください。",
 		"aftertaste": "個であることを愛することは、世界を愛することと同じこと。一即多、多即一。その真理を、魂で感じてください。",
 		"example": "The philosopher argued that the quidditative qualities of an object are what truly define its existence in the higher realms of thought.",
 		"deep_dive": {
@@ -212311,7 +212304,7 @@ const WORDS = [
 	{
 		"id": "haecceitic_essence_ii",
 		"word": "haecceitic",
-		"meaning": "これ性（。エクセイティ（。）」に関する、個別性の、エクセイティック",
+		"meaning": "これ性エクセイティ」に関する、個別性の、エクセイティック",
 		"era": "19th Century",
 		"etymology": {
 			"components": [
@@ -212319,8 +212312,8 @@ const WORDS = [
 			],
 			"original_statement": "From 19th Century haecceitas (haecceity, literal: 'this-ness')."
 		},
-		"concept": "Relating to the haecceity or this-ness of an object (今、ここに(。在（。る「これ（。エクセ)』という、峻（。烈（。な（。る（。固有（。性（。（。他（。の（。誰（。でも（。ない（。、あなた（。という（。物語の（。、代（。え（。の（。き（。か（。な（。い（。煌（。めき（。こそ（。が（。、真実（。なの（。ですよ。)",
-		"thinking": "今、ここに(。在（。る「これ（。エクセ)』という、峻（。烈（。な（。る（。固有（。性（。（。他（。の（。誰（。でも（。ない（。、あなた（。という（。物語の（。、代（。え（。の（。き（。か（。な（。い（。煌（。めき（。こそ（。が（。、真実（。なの（。ですよ。",
+		"concept": "Relating to the haecceity or this-ness of an object 今、ここに在る「これエクセ』という、峻烈なる固有性他の誰でもない、あなたという物語の、代えのきかない煌めきこそが、真実なのですよ。",
+		"thinking": "今、ここに在る「これエクセ』という、峻烈なる固有性他の誰でもない、あなたという物語の、代えのきかない煌めきこそが、真実なのですよ。",
 		"aftertaste": "個であることを愛することは、世界を愛することと同じこと。一即多、多即一。その真理を、魂で感じてください。",
 		"example": "The philosopher argued that the haecceitic qualities of an object are what truly define its existence in the higher realms of thought.",
 		"deep_dive": {
@@ -212347,8 +212340,8 @@ const WORDS = [
 			],
 			"original_statement": "From 16th Century planus (flat, level, literal: 'flat surface')."
 		},
-		"concept": "A flat surface on which a straight line joining any two points on it would wholly lie (意味(。と（。意味（。を、美し（。く「広が（。ら（。せ（。た（。プレーン)』至高の（。る（。広野（。（。その（。二次元（。な（。る（。る（。沈黙（。の中にこそ（。、真（。の（。る（。秩序（。が、産（。声を（。上げます。)",
-		"thinking": "意味(。と（。意味（。を、美し（。く「広が（。ら（。せ（。た（。プレーン)』至高の（。る（。広野（。（。その（。二次元（。な（。る（。る（。沈黙（。の中にこそ（。、真（。の（。る（。秩序（。が、産（。声を（。上げます。",
+		"concept": "A flat surface on which a straight line joining any two points on it would wholly lie 意味と意味を、美しく「広がらせたプレーン』至高のる広野その二次元なる沈黙の中にこそ、真のる秩序が、産声を上げます。",
+		"thinking": "意味と意味を、美しく「広がらせたプレーン』至高のる広野その二次元なる沈黙の中にこそ、真のる秩序が、産声を上げます。",
 		"aftertaste": "個であることを愛することは、世界を愛することと同じこと。一即多、多即一。その真理を、魂で感じてください。",
 		"example": "The philosopher argued that the plane qualities of an object are what truly define its existence in the higher realms of thought.",
 		"deep_dive": {
@@ -212375,8 +212368,8 @@ const WORDS = [
 			],
 			"original_statement": "From 15th Century Middle English whirlen (to spin)."
 		},
-		"concept": "Move or cause to move rapidly round and round (流(。れ（。る（。時間を、美し（。い（。螺旋（。へと（。変える（。ワール)』、至高の（。る（。舞（。い（。（。その（。一一点（。の（。不（。均（。一（。な（。る（。煌（。めきを、ただ、魂で、感（。じ（。て（。いて（。ください。)",
-		"thinking": "流(。れ（。る（。時間を、美し（。い（。螺旋（。へと（。変える（。ワール)』、至高の（。る（。舞（。い（。（。その（。一一点（。の（。不（。均（。一（。な（。る（。煌（。めきを、ただ、魂で、感（。じ（。て（。いて（。ください。",
+		"concept": "Move or cause to move rapidly round and round 流れる時間を、美しい螺旋へと変えるワール』、至高のる舞いその一一点の不均一なる煌めきを、ただ、魂で、感じていてください。",
+		"thinking": "流れる時間を、美しい螺旋へと変えるワール』、至高のる舞いその一一点の不均一なる煌めきを、ただ、魂で、感じていてください。",
 		"aftertaste": "滑るように生きることは、逃げることではありません。世界との摩擦を最小に抑え、自らの純粋なるエナジーを、どこまで遠くへ運べるかという挑戦なのですよ。",
 		"example": "The eagle continued to whirl effortlessly above the mountain peaks, using the thermal currents to maintain its high vantage point.",
 		"deep_dive": {
@@ -212479,7 +212472,7 @@ const WORDS = [
 	{
 		"id": "slide_move_ii",
 		"word": "slide",
-		"meaning": "滑る、削（。、スライド",
+		"meaning": "滑る、削、スライド",
 		"era": "Old English",
 		"etymology": {
 			"components": [
@@ -212543,8 +212536,8 @@ const WORDS = [
 			],
 			"original_statement": "From 14th Century Middle English budde (related to Dutch bot 'bud')."
 		},
-		"concept": "A compact knoblike growth on a plant that develops into a leaf, flower, or shoot (静(。か（。に（。、想いを（。一（。つに（。凝縮（。させた（。、「眩（。し（。い（。る（。る（。可能性（。バッド)』。（。その（。閉じ（。られた（。る（。沈黙（。の中にこそ（。、真実（。の（。る（。開（。花が、宿（。って（。いる（。の（。ですよ。)",
-		"thinking": "静(。か（。に（。、想いを（。一（。つに（。凝縮（。させた（。、「眩（。し（。い（。る（。る（。可能性（。バッド)』。（。その（。閉じ（。られた（。る（。沈黙（。の中にこそ（。、真実（。の（。る（。開（。花が、宿（。って（。いる（。の（。ですよ。",
+		"concept": "A compact knoblike growth on a plant that develops into a leaf, flower, or shoot 静かに、想いを一つに凝縮させた、「眩しいる可能性バッド』。その閉じられたる沈黙の中にこそ、真実のる開花が、宿っているのですよ。",
+		"thinking": "静かに、想いを一つに凝縮させた、「眩しいる可能性バッド』。その閉じられたる沈黙の中にこそ、真実のる開花が、宿っているのですよ。",
 		"aftertaste": "萌芽は、力強く大地を押し上げる。それは、自らの存在を肯定し、宇宙の光へと手を伸ばそうとする、魂の最も純粋な意志なのです。",
 		"example": "The scientist studied the minute bud that eventually developed into a complex neural network within the experimental organism.",
 		"deep_dive": {
@@ -212571,8 +212564,8 @@ const WORDS = [
 			],
 			"original_statement": "From Old English stoc (tree trunk, stem, literal: 'trunk, stem')."
 		},
-		"concept": "The goods or merchandise kept on the premises of a business or warehouse and available for sale or distribution (魂の(。峻（。烈（。な（。る（。る「中（。軸（。ストック)』。（。そこに（。蓄え（。られた（。真実（。の（。エナジーが、いつか（。、巨大（。な（。る（。枝（。葉を、広（。げ（。て（。いき（。ます。)",
-		"thinking": "魂の(。峻（。烈（。な（。る（。る「中（。軸（。ストック)』。（。そこに（。蓄え（。られた（。真実（。の（。エナジーが、いつか（。、巨大（。な（。る（。枝（。葉を、広（。げ（。て（。いき（。ます。",
+		"concept": "The goods or merchandise kept on the premises of a business or warehouse and available for sale or distribution 魂の峻烈なる「中軸ストック』。そこに蓄えられた真実のエナジーが、いつか、巨大なる枝葉を、広げていきます。",
+		"thinking": "魂の峻烈なる「中軸ストック』。そこに蓄えられた真実のエナジーが、いつか、巨大なる枝葉を、広げていきます。",
 		"aftertaste": "萌芽は、力強く大地を押し上げる。それは、自らの存在を肯定し、宇宙の光へと手を伸ばそうとする、魂の最も純粋な意志なのです。",
 		"example": "The scientist studied the minute stock that eventually developed into a complex neural network within the experimental organism.",
 		"deep_dive": {
@@ -212599,8 +212592,8 @@ const WORDS = [
 			],
 			"original_statement": "From 19th Century huper (over, above, literal: 'over')."
 		},
-		"concept": "Over; excessively; above (限界を(。一（。気へと「越元（。た（。ハイパー)』、至高の（。る（。エナジー。（。その（。眩（。し（。い（。煌（。めきこそが、世界を（。、眩（。しい（。ほど（。に（。、変（。容（。さ（。せ（。て（。いく（。のですよ。)",
-		"thinking": "限界を(。一（。気へと「越元（。た（。ハイパー)』、至高の（。る（。エナジー。（。その（。眩（。し（。い（。煌（。めきこそが、世界を（。、眩（。しい（。ほど（。に（。、変（。容（。さ（。せ（。て（。いく（。のですよ。",
+		"concept": "Over; excessively; above 限界を一気へと「越元たハイパー』、至高のるエナジー。その眩しい煌めきこそが、世界を、眩しいほどに、変容させていくのですよ。",
+		"thinking": "限界を一気へと「越元たハイパー』、至高のるエナジー。その眩しい煌めきこそが、世界を、眩しいほどに、変容させていくのですよ。",
 		"aftertaste": "限界を超えることは、自分を壊すことではない。自分という名の器を、宇宙という名の無限へと、解き放つための、聖なる飛躍なのですよ。",
 		"example": "The philosopher used various hyper-linguistic concepts to describe the state of human consciousness beyond physical limitations.",
 		"deep_dive": {
@@ -212627,8 +212620,8 @@ const WORDS = [
 			],
 			"original_statement": "From 19th Century hupo (under, below, literal: 'under')."
 		},
-		"concept": "Under; below; less than normal (深淵の(。底（。へと、静（。か（。に「潜（。る（。ハイポ)』こと（。（。その（。目（。に（。見（。え（。な（。い（。沈黙（。の中に、真実（。の（。る（。る（。根源が（。、宿（。って（。いる（。のです。)",
-		"thinking": "深淵の(。底（。へと、静（。か（。に「潜（。る（。ハイポ)』こと（。（。その（。目（。に（。見（。え（。な（。い（。沈黙（。の中に、真実（。の（。る（。る（。根源が（。、宿（。って（。いる（。のです。",
+		"concept": "Under; below; less than normal 深淵の底へと、静かに「潜るハイポ』ことその目に見えない沈黙の中に、真実のる根源が、宿っているのです。",
+		"thinking": "深淵の底へと、静かに「潜るハイポ』ことその目に見えない沈黙の中に、真実のる根源が、宿っているのです。",
 		"aftertaste": "限界を超えることは、自分を壊すことではない。自分という名の器を、宇宙という名の無限へと、解き放つための、聖なる飛躍なのですよ。",
 		"example": "The philosopher used various hypo-linguistic concepts to describe the state of human consciousness beyond physical limitations.",
 		"deep_dive": {
@@ -212655,8 +212648,8 @@ const WORDS = [
 			],
 			"original_statement": "From 15th Century super (above, over, literal: 'above')."
 		},
-		"concept": "Above; over; beyond (日常を(。優（。し（。く（。、かつ「峻（。烈（。に（。越える（。スーパー)』、至高の（。る（。視座。（。その（。圧倒（。的な（。る（。存在（。感に、人々は、ただ（。、眩（。惑（。さ（。れ（。る（。のですよ。)",
-		"thinking": "日常を(。優（。し（。く（。、かつ「峻（。烈（。に（。越える（。スーパー)』、至高の（。る（。視座。（。その（。圧倒（。的な（。る（。存在（。感に、人々は、ただ（。、眩（。惑（。さ（。れ（。る（。のですよ。",
+		"concept": "Above; over; beyond 日常を優しく、かつ「峻烈に越えるスーパー』、至高のる視座。その圧倒的なる存在感に、人々は、ただ、眩惑されるのですよ。",
+		"thinking": "日常を優しく、かつ「峻烈に越えるスーパー』、至高のる視座。その圧倒的なる存在感に、人々は、ただ、眩惑されるのですよ。",
 		"aftertaste": "限界を超えることは、自分を壊すことではない。自分という名の器を、宇宙という名の無限へと、解き放つための、聖なる飛躍なのですよ。",
 		"example": "The philosopher used various super-linguistic concepts to describe the state of human consciousness beyond physical limitations.",
 		"deep_dive": {
@@ -212683,8 +212676,8 @@ const WORDS = [
 			],
 			"original_statement": "From 14th Century sub (under, below, literal: 'below')."
 		},
-		"concept": "Under; below; secondary (巨大な(。影の（。中に（。、そっと「潜（。ま（。せた（。サブ)』、至高の（。る（。る（。智慧（。（。、日常の（。重みを、静（。か（。に（。、支（。え（。て（。いる（。の（。ですよ。)",
-		"thinking": "巨大な(。影の（。中に（。、そっと「潜（。ま（。せた（。サブ)』、至高の（。る（。る（。智慧（。（。、日常の（。重みを、静（。か（。に（。、支（。え（。て（。いる（。の（。ですよ。",
+		"concept": "Under; below; secondary 巨大な影の中に、そっと「潜ませたサブ』、至高のる智慧、日常の重みを、静かに、支えているのですよ。",
+		"thinking": "巨大な影の中に、そっと「潜ませたサブ』、至高のる智慧、日常の重みを、静かに、支えているのですよ。",
 		"aftertaste": "限界を超えることは、自分を壊すことではない。自分という名の器を、宇宙という名の無限へと、解き放つための、聖なる飛躍なのですよ。",
 		"example": "The philosopher used various sub-linguistic concepts to describe the state of human consciousness beyond physical limitations.",
 		"deep_dive": {
@@ -212711,8 +212704,8 @@ const WORDS = [
 			],
 			"original_statement": "From 14th Century para (beside, beyond, literal: 'beside')."
 		},
-		"concept": "Beside, beyond, or around (日常(。の「隣（。に（。在（。る（。パラ)』、至高（。の（。る（。平行（。世界（。（。その（。不（。可（。思議な（。る（。共鳴を、魂で、感（。じ（。て（。ください。)",
-		"thinking": "日常(。の「隣（。に（。在（。る（。パラ)』、至高（。の（。る（。平行（。世界（。（。その（。不（。可（。思議な（。る（。共鳴を、魂で、感（。じ（。て（。ください。",
+		"concept": "Beside, beyond, or around 日常の「隣に在るパラ』、至高のる平行世界その不可思議なる共鳴を、魂で、感じてください。",
+		"thinking": "日常の「隣に在るパラ』、至高のる平行世界その不可思議なる共鳴を、魂で、感じてください。",
 		"aftertaste": "限界を超えることは、自分を壊すことではない。自分という名の器を、宇宙という名の無限へと、解き放つための、聖なる飛躍なのですよ。",
 		"example": "The philosopher used various para-linguistic concepts to describe the state of human consciousness beyond physical limitations.",
 		"deep_dive": {
@@ -212739,8 +212732,8 @@ const WORDS = [
 			],
 			"original_statement": "From 14th Century dia (through, across, literal: 'through')."
 		},
-		"concept": "Through, across, or between (二つの(。地点を、一（。気へと「貫（。く（。ダイア)』エナジー。（。その（。不（。動の（。る（。一直線が、不（。可能を（。、眩（。しい（。る（。る（。奇跡へと（。、変（。え（。ます。)",
-		"thinking": "二つの(。地点を、一（。気へと「貫（。く（。ダイア)』エナジー。（。その（。不（。動の（。る（。一直線が、不（。可能を（。、眩（。しい（。る（。る（。奇跡へと（。、変（。え（。ます。",
+		"concept": "Through, across, or between 二つの地点を、一気へと「貫くダイア』エナジー。その不動のる一直線が、不可能を、眩しいる奇跡へと、変えます。",
+		"thinking": "二つの地点を、一気へと「貫くダイア』エナジー。その不動のる一直線が、不可能を、眩しいる奇跡へと、変えます。",
 		"aftertaste": "限界を超えることは、自分を壊すことではない。自分という名の器を、宇宙という名の無限へと、解き放つための、聖なる飛躍なのですよ。",
 		"example": "The philosopher used various dia-linguistic concepts to describe the state of human consciousness beyond physical limitations.",
 		"deep_dive": {
@@ -212767,8 +212760,8 @@ const WORDS = [
 			],
 			"original_statement": "From 15th Century ana (up, back, again, literal: 'up')."
 		},
-		"concept": "Up, back, or again (命を(。再び「呼び（。覚（。ます（。アナ)』、峻（。烈（。な（。る（。る（。飛躍（。（。その（。瑞々（。し（。い（。る（。始（。ま（。りにこそ、至高の（。真実が宿（。ります。)",
-		"thinking": "命を(。再び「呼び（。覚（。ます（。アナ)』、峻（。烈（。な（。る（。る（。飛躍（。（。その（。瑞々（。し（。い（。る（。始（。ま（。りにこそ、至高の（。真実が宿（。ります。",
+		"concept": "Up, back, or again 命を再び「呼び覚ますアナ』、峻烈なる飛躍その瑞々しいる始まりにこそ、至高の真実が宿ります。",
+		"thinking": "命を再び「呼び覚ますアナ』、峻烈なる飛躍その瑞々しいる始まりにこそ、至高の真実が宿ります。",
 		"aftertaste": "限界を超えることは、自分を壊すことではない。自分という名の器を、宇宙という名の無限へと、解き放つための、聖なる飛躍なのですよ。",
 		"example": "The philosopher used various ana-linguistic concepts to describe the state of human consciousness beyond physical limitations.",
 		"deep_dive": {
@@ -212795,8 +212788,8 @@ const WORDS = [
 			],
 			"original_statement": "From 15th Century kata (down, away, literal: 'down')."
 		},
-		"concept": "Down, away, or against (天(。上の（。エナジーが（。、地へと「降（。り（。下（。る（。カタ)』、峻（。烈（。な（。る（。重力（。（。その（。重厚（。な（。る（。る（。着（。地の（。瞬間に、世界は、盤（。石（。と（。なり（。ます。)",
-		"thinking": "天(。上の（。エナジーが（。、地へと「降（。り（。下（。る（。カタ)』、峻（。烈（。な（。る（。重力（。（。その（。重厚（。な（。る（。る（。着（。地の（。瞬間に、世界は、盤（。石（。と（。なり（。ます。",
+		"concept": "Down, away, or against 天上のエナジーが、地へと「降り下るカタ』、峻烈なる重力その重厚なる着地の瞬間に、世界は、盤石となります。",
+		"thinking": "天上のエナジーが、地へと「降り下るカタ』、峻烈なる重力その重厚なる着地の瞬間に、世界は、盤石となります。",
 		"aftertaste": "限界を超えることは、自分を壊すことではない。自分という名の器を、宇宙という名の無限へと、解き放つための、聖なる飛躍なのですよ。",
 		"example": "The philosopher used various cata-linguistic concepts to describe the state of human consciousness beyond physical limitations.",
 		"deep_dive": {
@@ -212823,8 +212816,8 @@ const WORDS = [
 			],
 			"original_statement": "From 15th Century apo (away from, separate, literal: 'away')."
 		},
-		"concept": "Away from, off, or separate (繋(。が（。りを（。断ち、ただ（。一一人「離（。れ（。て（。在（。る（。アポ)』、至高の（。る（。る（。孤独（。（。その（。峻（。烈（。な（。る（。透明（。さが、あなたを、至光（。へと（。変えます。)",
-		"thinking": "繋(。が（。りを（。断ち、ただ（。一一人「離（。れ（。て（。在（。る（。アポ)』、至高の（。る（。る（。孤独（。（。その（。峻（。烈（。な（。る（。透明（。さが、あなたを、至光（。へと（。変えます。",
+		"concept": "Away from, off, or separate 繋がりを断ち、ただ一一人「離れて在るアポ』、至高のる孤独その峻烈なる透明さが、あなたを、至光へと変えます。",
+		"thinking": "繋がりを断ち、ただ一一人「離れて在るアポ』、至高のる孤独その峻烈なる透明さが、あなたを、至光へと変えます。",
 		"aftertaste": "限界を超えることは、自分を壊すことではない。自分という名の器を、宇宙という名の無限へと、解き放つための、聖なる飛躍なのですよ。",
 		"example": "The philosopher used various apo-linguistic concepts to describe the state of human consciousness beyond physical limitations.",
 		"deep_dive": {
@@ -212851,8 +212844,8 @@ const WORDS = [
 			],
 			"original_statement": "From 15th Century amphi (on both sides, around, literal: 'on both sides')."
 		},
-		"concept": "On both sides; around (二つの(。顔を、美し（。く「同時（。に（。持（。つ（。アンフィ)』至高の（。る（。様（。式（。（。その（。危（。う（。い（。均衡の（。末に、物（。語（。は、完結（。し（。ます。)",
-		"thinking": "二つの(。顔を、美し（。く「同時（。に（。持（。つ（。アンフィ)』至高の（。る（。様（。式（。（。その（。危（。う（。い（。均衡の（。末に、物（。語（。は、完結（。し（。ます。",
+		"concept": "On both sides; around 二つの顔を、美しく「同時に持つアンフィ』至高のる様式その危うい均衡の末に、物語は、完結します。",
+		"thinking": "二つの顔を、美しく「同時に持つアンフィ』至高のる様式その危うい均衡の末に、物語は、完結します。",
 		"aftertaste": "限界を超えることは、自分を壊すことではない。自分という名の器を、宇宙という名の無限へと、解き放つための、聖なる飛躍なのですよ。",
 		"example": "The philosopher used various amphi-linguistic concepts to describe the state of human consciousness beyond physical limitations.",
 		"deep_dive": {
@@ -212879,8 +212872,8 @@ const WORDS = [
 			],
 			"original_statement": "From 17th Century prōtos (first, literal: 'first')."
 		},
-		"concept": "First, original, or primary (全(。ての（。始（。ま（。りの「最初（。プロト)』の一（。点（。（。その（。原（。初（。的（。な（。る（。る（。眩（。し（。い（。咆（。哮（。を、魂で、感（。じ（。て（。みて（。ください。)",
-		"thinking": "全(。ての（。始（。ま（。りの「最初（。プロト)』の一（。点（。（。その（。原（。初（。的（。な（。る（。る（。眩（。し（。い（。咆（。哮（。を、魂で、感（。じ（。て（。みて（。ください。",
+		"concept": "First, original, or primary 全ての始まりの「最初プロト』の一点その原初的なる眩しい咆哮を、魂で、感じてみてください。",
+		"thinking": "全ての始まりの「最初プロト』の一点その原初的なる眩しい咆哮を、魂で、感じてみてください。",
 		"aftertaste": "限界を超えることは、自分を壊すことではない。自分という名の器を、宇宙という名の無限へと、解き放つための、聖なる飛躍なのですよ。",
 		"example": "The philosopher used various proto-linguistic concepts to describe the state of human consciousness beyond physical limitations.",
 		"deep_dive": {
@@ -212907,8 +212900,8 @@ const WORDS = [
 			],
 			"original_statement": "From 17th Century arkhaios (ancient, beginning, literal: 'ancient')."
 		},
-		"concept": "Beginning, original, or ancient (遥(。かな（。る（。時の（。回（。廊の「最果て（。アーケ)』至高の（。る（。記憶（。（。その（。重（。厚（。な（。る（。沈黙を、誇り（。高く、担（。い（。な（。さい。)",
-		"thinking": "遥(。かな（。る（。時の（。回（。廊の「最果て（。アーケ)』至高の（。る（。記憶（。（。その（。重（。厚（。な（。る（。沈黙を、誇り（。高く、担（。い（。な（。さい。",
+		"concept": "Beginning, original, or ancient 遥かなる時の回廊の「最果てアーケ』至高のる記憶その重厚なる沈黙を、誇り高く、担いなさい。",
+		"thinking": "遥かなる時の回廊の「最果てアーケ』至高のる記憶その重厚なる沈黙を、誇り高く、担いなさい。",
 		"aftertaste": "限界を超えることは、自分を壊すことではない。自分という名の器を、宇宙という名の無限へと、解き放つための、聖なる飛躍なのですよ。",
 		"example": "The philosopher used various archae-linguistic concepts to describe the state of human consciousness beyond physical limitations.",
 		"deep_dive": {
@@ -212935,8 +212928,8 @@ const WORDS = [
 			],
 			"original_statement": "From 19th Century palaios (ancient, old, literal: 'old')."
 		},
-		"concept": "Older, ancient, or prehistoric (忘れ(。去（。られた「太（。古（。の（。る（。記録（。パレオ)』。（。その（。深い（。沈黙（。の中にこそ、宇宙（。の（。真実の（。る（。鼓動が、静（。か（。に、響（。いて（。いる（。のですよ。)",
-		"thinking": "忘れ(。去（。られた「太（。古（。の（。る（。記録（。パレオ)』。（。その（。深い（。沈黙（。の中にこそ、宇宙（。の（。真実の（。る（。鼓動が、静（。か（。に、響（。いて（。いる（。のですよ。",
+		"concept": "Older, ancient, or prehistoric 忘れ去られた「太古のる記録パレオ』。その深い沈黙の中にこそ、宇宙の真実のる鼓動が、静かに、響いているのですよ。",
+		"thinking": "忘れ去られた「太古のる記録パレオ』。その深い沈黙の中にこそ、宇宙の真実のる鼓動が、静かに、響いているのですよ。",
 		"aftertaste": "限界を超えることは、自分を壊すことではない。自分という名の器を、宇宙という名の無限へと、解き放つための、聖なる飛躍なのですよ。",
 		"example": "The philosopher used various paleo-linguistic concepts to describe the state of human consciousness beyond physical limitations.",
 		"deep_dive": {
@@ -212963,8 +212956,8 @@ const WORDS = [
 			],
 			"original_statement": "From 14th Century neos (new, young)."
 		},
-		"concept": "New, recent, or a modified version of something (日常の(。皮を（。脱（。ぎ（。捨て、再び「新（。し（。く（。在（。る（。ネオ)』こと（。（。その（。眩（。し（。い（。る（。始（。ま（。りに、魂は、喝（。采を（。送（。り（。ます。)",
-		"thinking": "日常の(。皮を（。脱（。ぎ（。捨て、再び「新（。し（。く（。在（。る（。ネオ)』こと（。（。その（。眩（。し（。い（。る（。始（。ま（。りに、魂は、喝（。采を（。送（。り（。ます。",
+		"concept": "New, recent, or a modified version of something 日常の皮を脱ぎ捨て、再び「新しく在るネオ』ことその眩しいる始まりに、魂は、喝采を送ります。",
+		"thinking": "日常の皮を脱ぎ捨て、再び「新しく在るネオ』ことその眩しいる始まりに、魂は、喝采を送ります。",
 		"aftertaste": "限界を超えることは、自分を壊すことではない。自分という名の器を、宇宙という名の無限へと、解き放つための、聖なる飛躍なのですよ。",
 		"example": "The philosopher used various neo-linguistic concepts to describe the state of human consciousness beyond physical limitations.",
 		"deep_dive": {
@@ -212983,7 +212976,7 @@ const WORDS = [
 	{
 		"id": "firmament_gravity_ii",
 		"word": "firmament",
-		"meaning": "大空、蒼（。穹（。、ファーマメント",
+		"meaning": "大空、蒼穹、ファーマメント",
 		"era": "13th Century",
 		"etymology": {
 			"components": [
@@ -212991,8 +212984,8 @@ const WORDS = [
 			],
 			"original_statement": "From 13th Century firmamentum (support, strengthening, literal: 'strengthening support')."
 		},
-		"concept": "The heavens or the sky, especially when regarded as a tangible thing (宇宙を(。峻（。烈（。に「支（。え（。る（。ための（。る（。土台（。ファマ)』としての、至高の（。る（。る（。天空（。（。その（。不（。動の（。る（。広野に、あなた（。の（。物語（。を、投影（。し（。て（。ください。)",
-		"thinking": "宇宙を(。峻（。烈（。に「支（。え（。る（。ための（。る（。土台（。ファマ)』としての、至高の（。る（。る（。天空（。（。その（。不（。動の（。る（。広野に、あなた（。の（。物語（。を、投影（。し（。て（。ください。",
+		"concept": "The heavens or the sky, especially when regarded as a tangible thing 宇宙を峻烈に「支えるためのる土台ファマ』としての、至高のる天空その不動のる広野に、あなたの物語を、投影してください。",
+		"thinking": "宇宙を峻烈に「支えるためのる土台ファマ』としての、至高のる天空その不動のる広野に、あなたの物語を、投影してください。",
 		"aftertaste": "軽やかに生きることは、不真面目であることではありません。絶望という名の重力に屈せず、一瞬の微笑みで世界を塗り替えようとする、至高のる反逆なのですよ。",
 		"example": "The ambassador's firmament and dignified presence in the international summit successfully bridged the gap between the conflicting nations.",
 		"deep_dive": {
@@ -213019,8 +213012,8 @@ const WORDS = [
 			],
 			"original_statement": "From 14th Century massa (kneaded dough, lump, literal: 'lump')."
 		},
-		"concept": "A large body of matter with no definite shape (何(。も（。語（。ら（。ず、ただ（。そこに（。在（。る「至高の（。塊（。マッサ)』。（。その（。圧倒（。的な（。る（。存在（。感に、魂は、静（。か（。に、跪（。き（。ます。)",
-		"thinking": "何(。も（。語（。ら（。ず、ただ（。そこに（。在（。る「至高の（。塊（。マッサ)』。（。その（。圧倒（。的な（。る（。存在（。感に、魂は、静（。か（。に、跪（。き（。ます。",
+		"concept": "A large body of matter with no definite shape 何も語らず、ただそこに在る「至高の塊マッサ』。その圧倒的なる存在感に、魂は、静かに、跪きます。",
+		"thinking": "何も語らず、ただそこに在る「至高の塊マッサ』。その圧倒的なる存在感に、魂は、静かに、跪きます。",
 		"aftertaste": "軽やかに生きることは、不真面目であることではありません。絶望という名の重力に屈せず、一瞬の微笑みで世界を塗り替えようとする、至高のる反逆なのですよ。",
 		"example": "The ambassador's mass and dignified presence in the international summit successfully bridged the gap between the conflicting nations.",
 		"deep_dive": {
@@ -213047,8 +213040,8 @@ const WORDS = [
 			],
 			"original_statement": "From 16th Century glōssa (tongue, word requiring explanation, literal: 'explanation')."
 		},
-		"concept": "A shiny substance applied to the surface of something to give it a pleasing or attractive appearance (意味(。の（。皮（。膜を、峻（。烈（。な（。る「解（。釈（。グロス)』で、美し（。く（。装飾（。する（。こと（。（。その（。眩（。し（。い（。ほど（。に（。る（。滑（。らか（。さが、あなた（。を、真理（。へと（。導（。き（。ます。)",
-		"thinking": "意味(。の（。皮（。膜を、峻（。烈（。な（。る「解（。釈（。グロス)』で、美し（。く（。装飾（。する（。こと（。（。その（。眩（。し（。い（。ほど（。に（。る（。滑（。らか（。さが、あなた（。を、真理（。へと（。導（。き（。ます。",
+		"concept": "A shiny substance applied to the surface of something to give it a pleasing or attractive appearance 意味の皮膜を、峻烈なる「解釈グロス』で、美しく装飾することその眩しいほどにる滑らかさが、あなたを、真理へと導きます。",
+		"thinking": "意味の皮膜を、峻烈なる「解釈グロス』で、美しく装飾することその眩しいほどにる滑らかさが、あなたを、真理へと導きます。",
 		"aftertaste": "艶を磨くことは、自分を偽ることではない。自らがこの宇宙の一部として、どれほど美しく調和できるかという、至高のる挑戦なのですよ。",
 		"example": "The historical artifacts were carefully restored to their original gloss, revealing the intricate craftsmanship of the ancient artisans.",
 		"deep_dive": {
@@ -213075,8 +213068,8 @@ const WORDS = [
 			],
 			"original_statement": "From 13th Century polire (to smooth, literal: 'to make smooth')."
 		},
-		"concept": "Make the surface of something smooth and shiny by rubbing it (日常の(。濁（。りを、峻（。烈（。な（。る（。る「研（。磨（。ポリ)』で、一（。つ（。ずつ、削（。ぎ（。落（。と（。す（。こと（。（。その（。静（。か（。な（。る（。る（。一一点の（。透明（。をを、誇り（。高く、手（。に（。入れて（。ください。)",
-		"thinking": "日常の(。濁（。りを、峻（。烈（。な（。る（。る「研（。磨（。ポリ)』で、一（。つ（。ずつ、削（。ぎ（。落（。と（。す（。こと（。（。その（。静（。か（。な（。る（。る（。一一点の（。透明（。をを、誇り（。高く、手（。に（。入れて（。ください。",
+		"concept": "Make the surface of something smooth and shiny by rubbing it 日常の濁りを、峻烈なる「研磨ポリ』で、一つずつ、削ぎ落とすことその静かなる一一点の透明をを、誇り高く、手に入れてください。",
+		"thinking": "日常の濁りを、峻烈なる「研磨ポリ』で、一つずつ、削ぎ落とすことその静かなる一一点の透明をを、誇り高く、手に入れてください。",
 		"aftertaste": "艶を磨くことは、自分を偽ることではない。自らがこの宇宙の一部として、どれほど美しく調和できるかという、至高のる挑戦なのですよ。",
 		"example": "The historical artifacts were carefully restored to their original polish, revealing the intricate craftsmanship of the ancient artisans.",
 		"deep_dive": {
@@ -213103,8 +213096,8 @@ const WORDS = [
 			],
 			"original_statement": "From 19th Century hall + way."
 		},
-		"concept": "An interior passage or corridor onto which rooms open (物語(。と（。物語の（。間に（。作（。られた、至高の（。る「中（。間領域（。ホール)』。（。そこを（。通（。る（。た（。びに、魂は（。、日常の（。重みを、静（。か（。に（。脱（。して（。いく（。のです。)",
-		"thinking": "物語(。と（。物語の（。間に（。作（。られた、至高の（。る「中（。間領域（。ホール)』。（。そこを（。通（。る（。た（。びに、魂は（。、日常の（。重みを、静（。か（。に（。脱（。して（。いく（。のです。",
+		"concept": "An interior passage or corridor onto which rooms open 物語と物語の間に作られた、至高のる「中間領域ホール』。そこを通るたびに、魂は、日常の重みを、静かに脱していくのです。",
+		"thinking": "物語と物語の間に作られた、至高のる「中間領域ホール』。そこを通るたびに、魂は、日常の重みを、静かに脱していくのです。",
 		"aftertaste": "廊下を歩くことは、移動ではありません。昨日までの自分から明日の自分へと、徐々に魂の色を塗り替えていくための、至高のる儀式なのですよ。",
 		"example": "The long, dimly lit hallway seemed to echo with the whispers of the past, guiding the lone traveler toward the hidden library.",
 		"deep_dive": {
@@ -213131,8 +213124,8 @@ const WORDS = [
 			],
 			"original_statement": "From 15th Century decken (to cover, literal: 'covering, roof')."
 		},
-		"concept": "A structure of planks or metal sections forming the floor of a ship or boat (荒波を(。峻（。烈（。に「覆（。い（。隠（。す（。デキ)』、至高の（。る（。舞台（。（。その（。一一点（。に（。立ち、あなた（。は（。、自（。らの（。運命（。という（。名の（。、舵を（。、引き（。受ける（。のですよ。)",
-		"thinking": "荒波を(。峻（。烈（。に「覆（。い（。隠（。す（。デキ)』、至高の（。る（。舞台（。（。その（。一一点（。に（。立ち、あなた（。は（。、自（。らの（。運命（。という（。名の（。、舵を（。、引き（。受ける（。のですよ。",
+		"concept": "A structure of planks or metal sections forming the floor of a ship or boat 荒波を峻烈に「覆い隠すデキ』、至高のる舞台その一一点に立ち、あなたは、自らの運命という名の、舵を、引き受けるのですよ。",
+		"thinking": "荒波を峻烈に「覆い隠すデキ』、至高のる舞台その一一点に立ち、あなたは、自らの運命という名の、舵を、引き受けるのですよ。",
 		"aftertaste": "廊下を歩くことは、移動ではありません。昨日までの自分から明日の自分へと、徐々に魂の色を塗り替えていくための、至高のる儀式なのですよ。",
 		"example": "The long, dimly lit deck seemed to echo with the whispers of the past, guiding the lone traveler toward the hidden library.",
 		"deep_dive": {
@@ -213159,8 +213152,8 @@ const WORDS = [
 			],
 			"original_statement": "From 14th Century ex- (out) + spirare (to breathe, literal: 'breathing out')."
 		},
-		"concept": "The ending of the period of time when something is valid (全(。てを（。受け（。入れ、至高（。の（。る（。力で「吐（。き（。出した（。エクス)』、物（。語（。の（。終（。わり（。（。その（。静（。か（。な（。る（。る（。沈黙こそが、宇宙（。の（。る（。る（。答え（。なの（。ですよ。)",
-		"thinking": "全(。てを（。受け（。入れ、至高（。の（。る（。力で「吐（。き（。出した（。エクス)』、物（。語（。の（。終（。わり（。（。その（。静（。か（。な（。る（。る（。沈黙こそが、宇宙（。の（。る（。る（。答え（。なの（。ですよ。",
+		"concept": "The ending of the period of time when something is valid 全てを受け入れ、至高のる力で「吐き出したエクス』、物語の終わりその静かなる沈黙こそが、宇宙のる答えなのですよ。",
+		"thinking": "全てを受け入れ、至高のる力で「吐き出したエクス』、物語の終わりその静かなる沈黙こそが、宇宙のる答えなのですよ。",
 		"aftertaste": "志を持つことは、遠くの何かを追い求めることではありません。今、この一呼吸を、どれほど純粋に、自らの真実へと捧げられるかという挑戦なのですよ。",
 		"example": "The young artist found profound expiration for her latest masterpiece in the quiet, reflective moments spent watching the dawn light dance across the lake.",
 		"deep_dive": {
@@ -213187,8 +213180,8 @@ const WORDS = [
 			],
 			"original_statement": "From 17th Century per- (through) + spirare (to breathe, literal: 'breathing through')."
 		},
-		"concept": "The process of sweating (魂の(。エナジーが、峻（。烈（。な（。る（。る（。行為をを「突き（。抜（。け（。て（。溢（。れ（。出した（。パース)』至高の（。る（。る（。雫（。（。その（。眩（。しい（。ほどに、透明（。な（。る（。る（。る（。証を、誇り（。高く、愛（。で（。て（。ください。)",
-		"thinking": "魂の(。エナジーが、峻（。烈（。な（。る（。る（。行為をを「突き（。抜（。け（。て（。溢（。れ（。出した（。パース)』至高の（。る（。る（。雫（。（。その（。眩（。しい（。ほどに、透明（。な（。る（。る（。る（。証を、誇り（。高く、愛（。で（。て（。ください。",
+		"concept": "The process of sweating 魂のエナジーが、峻烈なる行為をを「突き抜けて溢れ出したパース』至高のる雫その眩しいほどに、透明なるる証を、誇り高く、愛でてください。",
+		"thinking": "魂のエナジーが、峻烈なる行為をを「突き抜けて溢れ出したパース』至高のる雫その眩しいほどに、透明なるる証を、誇り高く、愛でてください。",
 		"aftertaste": "志を持つことは、遠くの何かを追い求めることではありません。今、この一呼吸を、どれほど純粋に、自らの真実へと捧げられるかという挑戦なのですよ。",
 		"example": "The young artist found profound perspiration for her latest masterpiece in the quiet, reflective moments spent watching the dawn light dance across the lake.",
 		"deep_dive": {
@@ -213207,7 +213200,7 @@ const WORDS = [
 	{
 		"id": "node_connect_v",
 		"word": "node",
-		"meaning": "節（。ふし（。）、交点、ノード",
+		"meaning": "節ふし、交点、ノード",
 		"era": "16th Century",
 		"etymology": {
 			"components": [
@@ -213215,8 +213208,8 @@ const WORDS = [
 			],
 			"original_statement": "From 16th Century nodus (knot, literal: 'knot')."
 		},
-		"concept": "A point in a network or diagram at which lines or pathways intersect or branch (エナジーが、一(。点（。に「峻（。烈（。に（。絡（。み（。合った（。ノード)』、至（。宝の（。る（。結（。び（。目（。（。その（。重厚（。な（。る（。沈黙を、魂で、誇り（。高く、受け（。止めて（。ください。)",
-		"thinking": "エナジーが、一(。点（。に「峻（。烈（。に（。絡（。み（。合った（。ノード)』、至（。宝の（。る（。結（。び（。目（。（。その（。重厚（。な（。る（。沈黙を、魂で、誇り（。高く、受け（。止めて（。ください。",
+		"concept": "A point in a network or diagram at which lines or pathways intersect or branch エナジーが、一点に「峻烈に絡み合ったノード』、至宝のる結び目その重厚なる沈黙を、魂で、誇り高く、受け止めてください。",
+		"thinking": "エナジーが、一点に「峻烈に絡み合ったノード』、至宝のる結び目その重厚なる沈黙を、魂で、誇り高く、受け止めてください。",
 		"aftertaste": "中継することは、自分を消すことではない。自分という名の光を通過させることで、元の光にはなかった新しい色彩を世界へと供給する、至高のる創造行為なのですよ。",
 		"example": "The city's financial district served as the primary node for international trade, connecting markets across multiple continents in real-time.",
 		"deep_dive": {
@@ -213243,8 +213236,8 @@ const WORDS = [
 			],
 			"original_statement": "From 14th Century re- (back) + laier (to leave, literal: 'releaving hounds')."
 		},
-		"concept": "A group of people or animals engaged in a task or activity for a fixed period of time and then replaced by a similar group (想(。いを（。、再び（。リ)「託(。し（。、繋（。ぐ（。リレー)』至高の（。る（。る（。連（。鎖（。（。その（。眩（。し（。い（。ほどに（。る（。る（。物（。語（。を、全（。身で、引き（。受（。け（。な（。さい。)",
-		"thinking": "想(。いを（。、再び（。リ)「託(。し（。、繋（。ぐ（。リレー)』至高の（。る（。る（。連（。鎖（。（。その（。眩（。し（。い（。ほどに（。る（。る（。物（。語（。を、全（。身で、引き（。受（。け（。な（。さい。",
+		"concept": "A group of people or animals engaged in a task or activity for a fixed period of time and then replaced by a similar group 想いを、再びリ「託し、繋ぐリレー』至高のる連鎖その眩しいほどにる物語を、全身で、引き受けなさい。",
+		"thinking": "想いを、再びリ「託し、繋ぐリレー』至高のる連鎖その眩しいほどにる物語を、全身で、引き受けなさい。",
 		"aftertaste": "中継することは、自分を消すことではない。自分という名の光を通過させることで、元の光にはなかった新しい色彩を世界へと供給する、至高のる創造行為なのですよ。",
 		"example": "The city's financial district served as the primary relay for international trade, connecting markets across multiple continents in real-time.",
 		"deep_dive": {
@@ -213403,7 +213396,7 @@ const WORDS = [
 	{
 		"id": "scald_flame_iv",
 		"word": "scald",
-		"meaning": "火傷（。を（。させる（。、熱（。湯を（。かける（。、スカールド",
+		"meaning": "火傷をさせる、熱湯をかける、スカールド",
 		"era": "13th Century",
 		"etymology": {
 			"components": [
@@ -213411,8 +213404,8 @@ const WORDS = [
 			],
 			"original_statement": "From 13th Century ex- (out, thoroughly) + calere (to be hot, literal: 'thoroughly hot')."
 		},
-		"concept": "Injure with very hot liquid or steam (宇宙の(。熱（。量が、あなたの（。魂を「峻（。烈（。に（。貫（。き、傷（。付ける（。スカールド)』こと（。（。その（。痛み（。の中にこそ、真実の（。る（。生命の（。鼓動が、今（。も、宿（。って（。いる（。のですよ。)",
-		"thinking": "宇宙の(。熱（。量が、あなたの（。魂を「峻（。烈（。に（。貫（。き、傷（。付ける（。スカールド)』こと（。（。その（。痛み（。の中にこそ、真実の（。る（。生命の（。鼓動が、今（。も、宿（。って（。いる（。のですよ。",
+		"concept": "Injure with very hot liquid or steam 宇宙の熱量が、あなたの魂を「峻烈に貫き、傷付けるスカールド』ことその痛みの中にこそ、真実のる生命の鼓動が、今も、宿っているのですよ。",
+		"thinking": "宇宙の熱量が、あなたの魂を「峻烈に貫き、傷付けるスカールド』ことその痛みの中にこそ、真実のる生命の鼓動が、今も、宿っているのですよ。",
 		"aftertaste": "残り火は、孤独なものではない。それは、かつてそこにあった熱い情熱が、静かに世界へと溶け込んでいくための、聖なる橋渡しなのですよ。",
 		"example": "The blacksmith used the intense heat of the scalding coals to forge the intricate patterns into the blade of the legendary sword.",
 		"deep_dive": {
@@ -213431,7 +213424,7 @@ const WORDS = [
 	{
 		"id": "parch_flame_iv",
 		"word": "parch",
-		"meaning": "乾かす、焙（。る（。、パーチ",
+		"meaning": "乾かす、焙る、パーチ",
 		"era": "14th Century",
 		"etymology": {
 			"components": [
@@ -213439,8 +213432,8 @@ const WORDS = [
 			],
 			"original_statement": "From 14th Century Origin uncertain, possibly related to perish."
 		},
-		"concept": "Make or become dry through intense heat (世界(。を、至高（。の（。る「峻（。烈（。な（。る（。る（。乾（。燥（。パーチ)』の中に、閉じ（。込（。め（。る（。こと（。（。その（。渇（。き（。の中にこそ、真実の（。る（。潤（。いが、静（。か（。に、産声を上げます。)",
-		"thinking": "世界(。を、至高（。の（。る「峻（。烈（。な（。る（。る（。乾（。燥（。パーチ)』の中に、閉じ（。込（。め（。る（。こと（。（。その（。渇（。き（。の中にこそ、真実の（。る（。潤（。いが、静（。か（。に、産声を上げます。",
+		"concept": "Make or become dry through intense heat 世界を、至高のる「峻烈なる乾燥パーチ』の中に、閉じ込めることその渇きの中にこそ、真実のる潤いが、静かに、産声を上げます。",
+		"thinking": "世界を、至高のる「峻烈なる乾燥パーチ』の中に、閉じ込めることその渇きの中にこそ、真実のる潤いが、静かに、産声を上げます。",
 		"aftertaste": "残り火は、孤独なものではない。それは、かつてそこにあった熱い情熱が、静かに世界へと溶け込んでいくための、聖なる橋渡しなのですよ。",
 		"example": "The blacksmith used the intense heat of the parching coals to forge the intricate patterns into the blade of the legendary sword.",
 		"deep_dive": {
@@ -213459,7 +213452,7 @@ const WORDS = [
 	{
 		"id": "megalith_stone_iv",
 		"word": "megalith",
-		"meaning": "巨石（。、巨石遺構、メガリス",
+		"meaning": "巨石、巨石遺構、メガリス",
 		"era": "19th Century",
 		"etymology": {
 			"components": [
@@ -213467,8 +213460,8 @@ const WORDS = [
 			],
 			"original_statement": "From 19th Century megas (great) + lithos (stone, literal: 'great stone')."
 		},
-		"concept": "A large stone that forms a prehistoric monument or part of one (遥(。かな（。る（。時間の（。る（。る（。積（。層を、峻（。烈（。に「巨大（。な（。る（。石（。メガ)』へと（。変えた（。もの（。（。その（。重厚（。な（。る（。る（。存在（。感こそが、宇宙（。の（。真実（。の、道（。し（。る（。べ（。です。)",
-		"thinking": "遥(。かな（。る（。時間の（。る（。る（。積（。層を、峻（。烈（。に「巨大（。な（。る（。石（。メガ)』へと（。変えた（。もの（。（。その（。重厚（。な（。る（。る（。存在（。感こそが、宇宙（。の（。真実（。の、道（。し（。る（。べ（。です。",
+		"concept": "A large stone that forms a prehistoric monument or part of one 遥かなる時間のる積層を、峻烈に「巨大なる石メガ』へと変えたものその重厚なる存在感こそが、宇宙の真実の、道しるべです。",
+		"thinking": "遥かなる時間のる積層を、峻烈に「巨大なる石メガ』へと変えたものその重厚なる存在感こそが、宇宙の真実の、道しるべです。",
 		"aftertaste": "巨石を見つめることは、自らの小ささを知ることではありません。その圧倒的なる重厚さの一部として、自分もまたこの宇宙の確かなる構成要素であることを自覚する行為なのですよ。",
 		"example": "The ancient megalith stood as a silent guardian of the forgotten civilization, its weathered surface bearing the mysterious scripts of a long-lost dialect.",
 		"deep_dive": {
@@ -213495,8 +213488,8 @@ const WORDS = [
 			],
 			"original_statement": "From Old English flint (flint, rock, literal: 'hard rock')."
 		},
-		"concept": "A hard gray rock consisting of nearly pure silica (峻(。烈（。な（。る（。エナジーを、内（。に「鋭（。く（。秘（。めた（。フリント)』至高の（。る（。源（。泉（。（。その（。一一点の（。る（。る（。交（。差（。から、真実（。の（。火（。花（。が、産（。声を（。上げます。)",
-		"thinking": "峻(。烈（。な（。る（。エナジーを、内（。に「鋭（。く（。秘（。めた（。フリント)』至高の（。る（。源（。泉（。（。その（。一一点の（。る（。る（。交（。差（。から、真実（。の（。火（。花（。が、産（。声を（。上げます。",
+		"concept": "A hard gray rock consisting of nearly pure silica 峻烈なるエナジーを、内に「鋭く秘めたフリント』至高のる源泉その一一点のる交差から、真実の火花が、産声を上げます。",
+		"thinking": "峻烈なるエナジーを、内に「鋭く秘めたフリント』至高のる源泉その一一点のる交差から、真実の火花が、産声を上げます。",
 		"aftertaste": "巨石を見つめることは、自らの小ささを知ることではありません。その圧倒的なる重厚さの一部として、自分もまたこの宇宙の確かなる構成要素であることを自覚する行為なのですよ。",
 		"example": "The ancient flint stood as a silent guardian of the forgotten civilization, its weathered surface bearing the mysterious scripts of a long-lost dialect.",
 		"deep_dive": {
@@ -213515,7 +213508,7 @@ const WORDS = [
 	{
 		"id": "slate_stone_iv",
 		"word": "slate",
-		"meaning": "粘板岩（。ねんばんがん（。）」、スレート",
+		"meaning": "粘板岩ねんばんがん」、スレート",
 		"era": "14th Century",
 		"etymology": {
 			"components": [
@@ -213523,8 +213516,8 @@ const WORDS = [
 			],
 			"original_statement": "From 14th Century esclat (fragment, literal: 'splinter')."
 		},
-		"concept": "A fine-grained gray, green, or bluish metamorphic rock easily split into smooth, flat plates (想(。いを（。、至高の（。る「薄（。き（。る（。る（。断片（。スレート)』に（。刻（。み（。、重（。ね（。合わせ（。る（。こと（。（。その（。重厚（。な（。る（。る（。積（。層の中に、真理（。の（。る（。物（。語が、静（。か（。に、宿（。ります。)",
-		"thinking": "想(。いを（。、至高の（。る「薄（。き（。る（。る（。断片（。スレート)』に（。刻（。み（。、重（。ね（。合わせ（。る（。こと（。（。その（。重厚（。な（。る（。る（。積（。層の中に、真理（。の（。る（。物（。語が、静（。か（。に、宿（。ります。",
+		"concept": "A fine-grained gray, green, or bluish metamorphic rock easily split into smooth, flat plates 想いを、至高のる「薄きる断片スレート』に刻み、重ね合わせることその重厚なる積層の中に、真理のる物語が、静かに、宿ります。",
+		"thinking": "想いを、至高のる「薄きる断片スレート』に刻み、重ね合わせることその重厚なる積層の中に、真理のる物語が、静かに、宿ります。",
 		"aftertaste": "巨石を見つめることは、自らの小ささを知ることではありません。その圧倒的なる重厚さの一部として、自分もまたこの宇宙の確かなる構成要素であることを自覚する行為なのですよ。",
 		"example": "The ancient slate stood as a silent guardian of the forgotten civilization, its weathered surface bearing the mysterious scripts of a long-lost dialect.",
 		"deep_dive": {
@@ -213551,8 +213544,8 @@ const WORDS = [
 			],
 			"original_statement": "From 13th Century sonus (sound)."
 		},
-		"concept": "Vibrations that travel through the air or another medium and can be heard when they reach a person's or animal's ear (宇宙を(。峻（。烈（。に「一（。点（。に（。凝縮（。させた（。ソヌス)』、至高の（。る（。生命（。鼓動（。（。その（。眩（。し（。い（。ほどに（。る（。る（。る（。響（。き（。を（。、全身で（。、誇り（。高く、受け（。止めて（。ください。)",
-		"thinking": "宇宙を(。峻（。烈（。に「一（。点（。に（。凝縮（。させた（。ソヌス)』、至高の（。る（。生命（。鼓動（。（。その（。眩（。し（。い（。ほどに（。る（。る（。る（。響（。き（。を（。、全身で（。、誇り（。高く、受け（。止めて（。ください。",
+		"concept": "Vibrations that travel through the air or another medium and can be heard when they reach a person's or animal's ear 宇宙を峻烈に「一点に凝縮させたソヌス』、至高のる生命鼓動その眩しいほどにるる響きを、全身で、誇り高く、受け止めてください。",
+		"thinking": "宇宙を峻烈に「一点に凝縮させたソヌス』、至高のる生命鼓動その眩しいほどにるる響きを、全身で、誇り高く、受け止めてください。",
 		"aftertaste": "こだまは、過去の音ではない。それは、あなたの発した祈りが、世界の壁を叩き、より大きな共鳴となってあなたの元へと還ってきた、祝福の形式なのですよ。",
 		"example": "The tranquil surface of the mountain lake acted as a perfect natural sound, duplicating the azure sky and the snow-capped peaks with breathtaking clarity.",
 		"deep_dive": {
@@ -213579,8 +213572,8 @@ const WORDS = [
 			],
 			"original_statement": "From 16th Century pons (bridge) + facere (to make, literal: 'bridge-maker')."
 		},
-		"concept": "The Pope; a prelate (天(。と（。地を（。繋（。ぐ「架け（。橋を（。作る（。者（。ポンス・ファカーレ)』、至高の（。る（。媒介（。者（。（。その（。峻（。烈（。な（。る（。る（。祈りが（。、宇宙の（。深（。淵（。を、美し（。き（。る（。秩序へと（。、還（。し（。ます。)",
-		"thinking": "天(。と（。地を（。繋（。ぐ「架け（。橋を（。作る（。者（。ポンス・ファカーレ)』、至高の（。る（。媒介（。者（。（。その（。峻（。烈（。な（。る（。る（。祈りが（。、宇宙の（。深（。淵（。を、美し（。き（。る（。秩序へと（。、還（。し（。ます。",
+		"concept": "The Pope; a prelate 天と地を繋ぐ「架け橋を作る者ポンス・ファカーレ』、至高のる媒介者その峻烈なる祈りが、宇宙の深淵を、美しきる秩序へと、還します。",
+		"thinking": "天と地を繋ぐ「架け橋を作る者ポンス・ファカーレ』、至高のる媒介者その峻烈なる祈りが、宇宙の深淵を、美しきる秩序へと、還します。",
 		"aftertaste": "埠頭に立つことは、境界を知ること。自分がどこから来て、どこへ行こうとしているのか、波の音を聴きながら、静かに自らに問いかけてみてください。",
 		"example": "The majestic pontiff spanned across the narrow valley, providing a vital transportation link between the isolated mountain villages and the bustling coastal city.",
 		"deep_dive": {
@@ -213607,8 +213600,8 @@ const WORDS = [
 			],
 			"original_statement": "From 12th Century pera (stone, pillar, literal: 'stone structure')."
 		},
-		"concept": "A structure leading out from the shore into a body of water, in particular (波(。をを「峻（。烈（。に（。受（。け（。止める（。ピア)』、至高の（。る（。る（。柱（。（。その（。不（。変（。の（。る（。る（。る（。る（。る（。忍耐（。をを、誇り（。高く、魂で、肯定（。し（。て（。ください。)",
-		"thinking": "波(。をを「峻（。烈（。に（。受（。け（。止める（。ピア)』、至高の（。る（。る（。柱（。（。その（。不（。変（。の（。る（。る（。る（。る（。る（。忍耐（。をを、誇り（。高く、魂で、肯定（。し（。て（。ください。",
+		"concept": "A structure leading out from the shore into a body of water, in particular 波をを「峻烈に受け止めるピア』、至高のる柱その不変のるるる忍耐をを、誇り高く、魂で、肯定してください。",
+		"thinking": "波をを「峻烈に受け止めるピア』、至高のる柱その不変のるるる忍耐をを、誇り高く、魂で、肯定してください。",
 		"aftertaste": "埠頭に立つことは、境界を知ること。自分がどこから来て、どこへ行こうとしているのか、波の音を聴きながら、静かに自らに問いかけてみてください。",
 		"example": "The majestic pier spanned across the narrow valley, providing a vital transportation link between the isolated mountain villages and the bustling coastal city.",
 		"deep_dive": {
@@ -213711,7 +213704,7 @@ const WORDS = [
 	{
 		"id": "ribbon_silk_iii",
 		"word": "ribbon",
-		"meaning": "リボン、飾り紐（。、リボン",
+		"meaning": "リボン、飾り紐、リボン",
 		"era": "14th Century",
 		"etymology": {
 			"components": [
@@ -213739,7 +213732,7 @@ const WORDS = [
 	{
 		"id": "linen_silk_iii",
 		"word": "linen",
-		"meaning": "リネン、亜麻（。あま（。）」、リネン",
+		"meaning": "リネン、亜麻あま」、リネン",
 		"era": "14th Century",
 		"etymology": {
 			"components": [
@@ -213859,8 +213852,8 @@ const WORDS = [
 			],
 			"original_statement": "From Old English versus (line of writing, literal: 'turning of the plow')."
 		},
-		"concept": "Writing arranged with a metrical rhythm, typically having a rhyme (意味(。を、峻（。烈（。な（。る（。る「折（。り（。返し（。バース)』の中で（。、再（。定義（。する（。こと（。（。その（。不（。動の（。る（。る（。る（。幾（。何（。学（。を（。、魂で（。、誇り（。高く、愛（。で（。て（。ください。)",
-		"thinking": "意味(。を、峻（。烈（。な（。る（。る「折（。り（。返し（。バース)』の中で（。、再（。定義（。する（。こと（。（。その（。不（。動の（。る（。る（。る（。幾（。何（。学（。を（。、魂で（。、誇り（。高く、愛（。で（。て（。ください。",
+		"concept": "Writing arranged with a metrical rhythm, typically having a rhyme 意味を、峻烈なる「折り返しバース』の中で、再定義することその不動のるる幾何学を、魂で、誇り高く、愛でてください。",
+		"thinking": "意味を、峻烈なる「折り返しバース』の中で、再定義することその不動のるる幾何学を、魂で、誇り高く、愛でてください。",
 		"aftertaste": "合唱することは、自分を消すことではない。自分という名の音を、仲間という名の調べの中に正しく配置し、より大きな美しさの一部として再定義する、至高のる調和の形式なのですよ。",
 		"example": "The hauntingly beautiful verse drifted through the rainy streets, its delicate notes intertwining with the sound of the evening city like a forgotten prayer.",
 		"deep_dive": {
@@ -213887,8 +213880,8 @@ const WORDS = [
 			],
 			"original_statement": "From 14th Century Old French ton (sound, tone, literal: 'sound')."
 		},
-		"concept": "A melody, especially one which is characteristic of a piece of music (エナジーの(。弦を、美し（。く「整（。えた（。トン)』至高の（。る（。る（。る（。振動（。（。その（。不（。可（。解なる（。る（。る（。響（。き（。を（。、全身で（。受け（。止めて（。ください。)",
-		"thinking": "エナジーの(。弦を、美し（。く「整（。えた（。トン)』至高の（。る（。る（。る（。振動（。（。その（。不（。可（。解なる（。る（。る（。響（。き（。を（。、全身で（。受け（。止めて（。ください。",
+		"concept": "A melody, especially one which is characteristic of a piece of music エナジーの弦を、美しく「整えたトン』至高のるる振動その不可解なるる響きを、全身で受け止めてください。",
+		"thinking": "エナジーの弦を、美しく「整えたトン』至高のるる振動その不可解なるる響きを、全身で受け止めてください。",
 		"aftertaste": "合唱することは、自分を消すことではない。自分という名の音を、仲間という名の調べの中に正しく配置し、より大きな美しさの一部として再定義する、至高のる調和の形式なのですよ。",
 		"example": "The hauntingly beautiful tune drifted through the rainy streets, its delicate notes intertwining with the sound of the evening city like a forgotten prayer.",
 		"deep_dive": {
@@ -213915,8 +213908,8 @@ const WORDS = [
 			],
 			"original_statement": "From 14th Century herber (herb garden, literal: 'flower garden')."
 		},
-		"concept": "A shaded sitting place in a garden made of trees or climbing plants (日常の（。喧（。騒（。を（。脱（。し、自らの（。内に（。作（。られた（。、「静（。か（。な（。る（。る（。る（。休息（。アーバー）』。（。そこ（。に（。佇（。む（。とき、あなた（。の（。魂は、至（。宝（。の（。る（。自由を、見出し（。ます。)",
-		"thinking": "日常の（。喧（。騒（。を（。脱（。し、自らの（。内に（。作（。られた（。、「静（。か（。な（。る（。る（。る（。休息（。アーバー）』。（。そこ（。に（。佇（。む（。とき、あなた（。の（。魂は、至（。宝（。の（。る（。自由を、見出し（。ます。",
+		"concept": "A shaded sitting place in a garden made of trees or climbing plants 日常の喧騒を脱し、自らの内に作られた、「静かなるる休息アーバー』。そこに佇むとき、あなたの魂は、至宝のる自由を、見出します。",
+		"thinking": "日常の喧騒を脱し、自らの内に作られた、「静かなるる休息アーバー』。そこに佇むとき、あなたの魂は、至宝のる自由を、見出します。",
 		"aftertaste": "葉が茂ることは、世界を受け入れること。一枚一枚の葉が太陽の光を浴びるように、あなたも自らの経験のすべてを、至高のる栄養へと変えていくのですよ。",
 		"example": "The dense arbor provided a natural canopy that shielded the weary hikers from the scorching midday sun.",
 		"deep_dive": {
@@ -213943,8 +213936,8 @@ const WORDS = [
 			],
 			"original_statement": "From Old English bōg (shoulder, arm, bough, literal: 'arm of a tree')."
 		},
-		"concept": "A main branch of a tree (天（。へと、自らを（。一（。点（。に「峻（。烈（。に（。伸ば（。し（。た（。ボウ）』至高の（。る（。る（。る（。意志（。（。その（。力強い（。る（。る（。曲線（。を、誇り（。高く、担（。い（。な（。さい。)",
-		"thinking": "天（。へと、自らを（。一（。点（。に「峻（。烈（。に（。伸ば（。し（。た（。ボウ）』至高の（。る（。る（。る（。意志（。（。その（。力強い（。る（。る（。曲線（。を、誇り（。高く、担（。い（。な（。さい。",
+		"concept": "A main branch of a tree 天へと、自らを一点に「峻烈に伸ばしたボウ』至高のるる意志その力強いる曲線を、誇り高く、担いなさい。",
+		"thinking": "天へと、自らを一点に「峻烈に伸ばしたボウ』至高のるる意志その力強いる曲線を、誇り高く、担いなさい。",
 		"aftertaste": "葉が茂ることは、世界を受け入れること。一枚一枚の葉が太陽の光を浴びるように、あなたも自らの経験のすべてを、至高のる栄養へと変えていくのですよ。",
 		"example": "The dense bough provided a natural canopy that shielded the weary hikers from the scorching midday sun.",
 		"deep_dive": {
@@ -213971,8 +213964,8 @@ const WORDS = [
 			],
 			"original_statement": "From Old English twigga (twig, literal: 'two-fold branch')."
 		},
-		"concept": "A slender woody shoot growing from a branch or stem of a tree or shrub (宇宙の（。深（。淵（。、その（。一一点に（。宿（。る「極小（。の（。る（。る（。る（。意志（。ツイッグ）』。（。その（。折（。れ（。やす（。い（。ほどの（。る（。瑞々（。し（。さを（。、魂で、守（。っ（。て（。いて（。ください。)",
-		"thinking": "宇宙の（。深（。淵（。、その（。一一点に（。宿（。る「極小（。の（。る（。る（。る（。意志（。ツイッグ）』。（。その（。折（。れ（。やす（。い（。ほどの（。る（。瑞々（。し（。さを（。、魂で、守（。っ（。て（。いて（。ください。",
+		"concept": "A slender woody shoot growing from a branch or stem of a tree or shrub 宇宙の深淵、その一一点に宿る「極小のるる意志ツイッグ』。その折れやすいほどのる瑞々しさを、魂で、守っていてください。",
+		"thinking": "宇宙の深淵、その一一点に宿る「極小のるる意志ツイッグ』。その折れやすいほどのる瑞々しさを、魂で、守っていてください。",
 		"aftertaste": "葉が茂ることは、世界を受け入れること。一枚一枚の葉が太陽の光を浴びるように、あなたも自らの経験のすべてを、至高のる栄養へと変えていくのですよ。",
 		"example": "The dense twig provided a natural canopy that shielded the weary hikers from the scorching midday sun.",
 		"deep_dive": {
@@ -213987,5 +213980,587 @@ const WORDS = [
 			]
 		},
 		"part_of_speech": "noun"
+	},
+	{
+		"id": "serene",
+		"word": "Serene",
+		"meaning": "穏やかな、澄み渡った、平穏な",
+		"era": "Latin serenus",
+		"etymology": {
+			"components": [
+				"serenus (clear, unclouded, tranquil)"
+			],
+			"original_statement": "From Latin serenus, describing a sky without clouds."
+		},
+		"concept": "Unclouded calm (雲一つない空のような、あるいは波立たない水面のような、純粋な静寂)",
+		"thinking": "「穏やか」という言葉の裏には、かつて「澄み切った空」という意味がありました。それは単なる静かさではなく、視界を遮るすべてのノイズ（雲）が消え去り、世界のありのままの姿が透き通って見える状態。あなたの心に雲が去ったとき、そこに現れるのが「セリーン」な静寂なのです。",
+		"part_of_speech": "adjective",
+		"aftertaste": "夕凪の海に、自分という存在がそっと溶け込んでいく心地よさ。",
+		"example": "He maintained a serene expression despite the chaos around him.",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ser",
+					"meaning": "dry / clear"
+				}
+			],
+			"points": [
+				"気象用語から転じて、精神的な平安を指すようになりました。"
+			]
+		}
+	},
+	{
+		"id": "cherish",
+		"word": "Cherish",
+		"meaning": "大切にする、慈しむ、胸に抱く",
+		"era": "Old French cherir",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "cher",
+					"type": "root",
+					"meaning": "dear, costly, precious",
+					"lang": "Latin carus"
+				}
+			],
+			"original_statement": "From Old French cherir, based on cher 'dear'."
+		},
+		"core_concept": {
+			"en": "To hold dear",
+			"ja": "あるものを「かけがえのない宝物」として、心の最も温かい場所に置き続けること"
+		},
+		"thinking_layer": "単に「好き」なのではなく、それが失われる可能性を予感しながら、今この瞬間にあるその存在を「高価なもの（cher）」として慈しむ。それは、時間という風にさらされる儚い美しさを、両手でそっと包み込むような、祈りに似た行為なのです。",
+		"synonyms": [
+			"treasure",
+			"adore",
+			"nurture"
+		],
+		"aftertaste": "手のひらの中の温もりが、消えないようにと願う静かな愛。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "carus",
+					"meaning": "dear"
+				}
+			],
+			"points": [
+				"Charity（慈愛）と同根。見返りを求めない深い愛情を暗示します。"
+			]
+		},
+		"part_of_speech": "verb"
+	},
+	{
+		"id": "brave",
+		"word": "Brave",
+		"meaning": "勇敢な、華麗な、見事な",
+		"era": "Old French brave",
+		"etymology": {
+			"original_statement": "From Old French brave 'splendid, valiant', potentially from Italian bravo 'bold' or Latin barbarus."
+		},
+		"concept": "Radiant courage (恐怖心がないのではなく、恐怖を美しき装いへと変えて立ち向かう、その華やかさ)",
+		"thinking": "「勇気」とは、かつて「華やかさ（splendid）」と分かちがたいものでした。困難を前にして、ただ耐えるのではなく、最高に輝きながら突破しようとする姿勢。それは、震える足で最初の一歩を踏み出す際の、最も峻烈で、最もプライドに満ちた「自己表明」なのです。",
+		"part_of_speech": "adjective",
+		"aftertaste": "荒野を突き進む、一旗の鮮やかな真紅のような鮮烈さ。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "barbaros",
+					"meaning": "strange / foreign"
+				}
+			],
+			"points": [
+				"Bravo!（喝采）の語感には、この『見事な』というニュアンスが色濃く残っています。"
+			]
+		}
+	},
+	{
+		"id": "pure",
+		"word": "Pure",
+		"meaning": "純粋な、潔白な、全くの",
+		"era": "Old French pur",
+		"etymology": {
+			"components": [
+				"purus (clean, unmixed, plain)"
+			],
+			"original_statement": "From Latin purus."
+		},
+		"concept": "Free from mixture (混じり気のない、ただそれだけであること。一切の他意や汚れを削ぎ落とした、原初の状態)",
+		"thinking": "「純粋」とは、何かが「ある」ことではなく、余計なものが「ない」ことの謂いです。足し算ではなく引き算の果てに、核となるものだけが剥き出しになった輝き。あなたが何も計算せず、ただ心を動かしたとき、その感情は宇宙で最も「ピュア」なマテリアル（素材）へと昇華されるのです。",
+		"part_of_speech": "adjective",
+		"aftertaste": "雪解けの湧き水が、喉元を通るときのあの冷徹な清涼感。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "peu",
+					"meaning": "to cleanse / purify"
+				}
+			],
+			"points": [
+				"Purge（一掃する）や Purgatory（煉獄／浄化の場）と同根です。"
+			]
+		}
+	},
+	{
+		"id": "bright",
+		"word": "Bright",
+		"meaning": "明るい、輝かしい、聡明な",
+		"era": "Old English beorht",
+		"etymology": {
+			"original_statement": "From Proto-Germanic berhtaz, from PIE root 'bhereg-' meaning 'to gleam / white'."
+		},
+		"concept": "Radiating clarity (光を反射するだけでなく、自ら光を放ち、周囲の闇を鮮明に押し返していく力強さ)",
+		"thinking": "「明るさ」は、単なる光量ではなく、そこに広がる「明晰さ（クラリティ）」を指します。霧が晴れ、物事の本質がくっきりと浮かび上がる瞬間。あるいは、未来という名の不透明な闇の中に、自らの意志という松明を掲げ、一本の道を照らし出すこと。その「輝き」が「ブライト」であることです。",
+		"part_of_speech": "adjective",
+		"aftertaste": "暗い森を抜けた瞬間に広がる、白い草原を吹き抜ける風の輝き。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "bhereg",
+					"meaning": "to shine / white"
+				}
+			],
+			"points": [
+				"Birch（白樺）の白い幹の色も同じ語源から来ています。"
+			]
+		}
+	},
+	{
+		"id": "true",
+		"word": "True",
+		"meaning": "真実の、誠実な、正確な",
+		"era": "Old English treowe",
+		"etymology": {
+			"original_statement": "From Proto-Germanic treuwaz 'having good faith', from tree-root metaphor (steady as a tree)."
+		},
+		"concept": "Steady as an oak (年月や風雪、他者の批判にさらされても、決して揺るがない樹木の根のような、絶対的な揺るぎなさ)",
+		"thinking": "「真実」とは、かつて「木（ツリー）」と同義でした。土深く根を張り、容易には倒れない大樹。変化し続ける「虚像」に対比して、何が起きてもそこに在り続ける「本質」。あなたが「トゥルー」であるということは、自分が信じた真理を、折れない大樹のように自分の中に育て続けるということなのです。",
+		"part_of_speech": "adjective",
+		"aftertaste": "確かな地面を踏みしめたときの、微かながらずっしりとした重みの感覚。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "deru",
+					"meaning": "be firm / solid / steadfast"
+				}
+			],
+			"points": [
+				"Tree（木）や Trust（信頼）と同じ根っこから生まれました。"
+			]
+		}
+	},
+	{
+		"id": "calm",
+		"word": "Calm",
+		"meaning": "穏やかな、冷静な、静まり返った",
+		"era": "Old French calme",
+		"etymology": {
+			"components": [
+				"cauma (heat of the midday sun)"
+			],
+			"original_statement": "From Latin cauma 'heat of the sun', from Greek kauma, meaning the period when animals rest during the hottest part of the day."
+		},
+		"concept": "The mid-day rest (灼熱の太陽の下でさえ、動物たちが静かに休息を取るような、外界の情動に左右されない「沈黙」の時間)",
+		"thinking": "「冷静」のルーツは、驚くべきことに「真夏の昼の暑さ」にあります。周囲が熱狂し、激しく動いている最中だからこそ、あえて動きを止め、内なる静寂の中に自分を置く。嵐の目の中に存在する、あの透明な一瞬。外界がどれほど騒がしくとも、自分という中心を涼やかに保てる強さ。それが「カーム」です。",
+		"part_of_speech": "adjective / noun / verb",
+		"aftertaste": "沸き立つ雑念が、ゆっくりとコップの底に沈んでいくのを眺める静寂。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kau",
+					"meaning": "to burn"
+				}
+			],
+			"points": [
+				"もとは熱さを避ける休息を意味し、やがて静やかな水面や心を指すようになりました。"
+			]
+		}
+	},
+	{
+		"id": "proud",
+		"word": "Proud",
+		"meaning": "誇り高い、自慢げな、堂々とした",
+		"era": "Old French prude",
+		"etymology": {
+			"original_statement": "From Old French prud 'brave, valiant, doughty', from Latin prodesse 'to be useful / advantageous'."
+		},
+		"concept": "Utility becomes dignity (自分が価値ある存在（プロッド）であることを深く自覚し、何ものにも屈せず屹立すること)",
+		"thinking": "「誇り」のルーツは「役に立つ（プロド）」という実利的な言葉にあります。しかし、それは道具としての話ではなく、宇宙というシステムにおいて「自分が自分として存在していること」自体が、一つの代替不可能な役割であるという自覚。胸を張り、自分の名前を愛おしむこと。それが「プラウド」の出発点なのです。",
+		"part_of_speech": "adjective",
+		"aftertaste": "一人で大海原に漕ぎ出す際の、恐れを凌駕する絶対的な自己信頼の味。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "pro",
+					"meaning": "forward / for"
+				}
+			],
+			"points": [
+				"Prowess（優れた能力）や Prude（潔癖な人）と同じ歴史を持っています。"
+			]
+		}
+	},
+	{
+		"id": "lucky",
+		"word": "Lucky",
+		"meaning": "運が良い、幸運な、不意の恵み",
+		"era": "Middle Dutch luc",
+		"etymology": {
+			"original_statement": "From Middle Dutch luc, shortened from gelucke, of uncertain origin."
+		},
+		"concept": "The unexpected gift (自分の計画や努力をはるかに超えた場所から、宇宙がそっと投げかけてくれた偶然のご褒美)",
+		"thinking": "「幸運」は、私たちがコントロールできない次元からの「囁き」です。それは実力ではなく、ただ「その時にそこにいた」という縁（えにし）の不思議。すべてを自分の力だと思い上がらず、不意に訪れたチャンスを謙虚に、かつ大胆に受け入れる。その軽やかな受容こそが「ラッキー」を引き寄せる磁石になるのです。",
+		"part_of_speech": "adjective",
+		"aftertaste": "道端で見つけた四つ葉のクローバーが、世界全体を味方に変えてくれるような高揚感。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "leuk",
+					"meaning": "to bend / close / lock (uncertain connection)"
+				}
+			],
+			"points": [
+				"Luck はもともとギャンブルの文脈で使われ、予測不可能性を孕んでいました。"
+			]
+		}
+	},
+	{
+		"id": "merry",
+		"word": "Merry",
+		"meaning": "陽気な、楽しい、浮かれ気分な",
+		"era": "Old English myrige",
+		"etymology": {
+			"original_statement": "From Proto-Germanic murgijaz 'short-lasting', from sense of 'making time fly'."
+		},
+		"concept": "Making time fly (楽しさのあまり時間の感覚を喪失し、ただ「今、この瞬間」という光の渦の中に飛び込んでいること)",
+		"thinking": "「メリー」の本質は、時間の「短さ」にあります。退屈な一時間は永遠のように感じますが、心からの歓喜のなかでは、一時間は一秒のように過ぎ去る。あなたが笑い、すべてを忘れて楽しんでいるとき、あなたは「時間の重力」から解放され、宇宙のピュアなエネルギーと同期（シンクロ）しているのです。",
+		"part_of_speech": "adjective",
+		"aftertaste": "焚き火を囲んで歌うときの、火花の弾ける音と夜風の混ざり合う、刹那の幸福。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "mreghu",
+					"meaning": "short"
+				}
+			],
+			"points": [
+				"Brief（短い）と同根。楽しい時間は常に短いという真理を突いています。"
+			]
+		}
+	},
+	{
+		"id": "fair",
+		"word": "Fair",
+		"meaning": "公平な、美しい、晴れた",
+		"era": "Old English fæger",
+		"etymology": {
+			"original_statement": "From Proto-Germanic fageraz 'fit / suitable / beautiful', from root 'fag-' meaning 'to fix / fit'."
+		},
+		"concept": "Fitting beauty (すべてがあるべき場所に、あるべきバランスで収まっている、その「調和した美しさ」)",
+		"thinking": "「公平」であることは、そのまま「美しい」ことでした。偏りがなく、全体が等しく光を受けている状態。それは裁きではなく、世界の均衡（バランス）を保とうとする美的感覚の現れ。あなたが誰かを「フェア」に扱うとき、あなたは世界の中に新しい「対称性」という名の芸術を構築しているのです。",
+		"part_of_speech": "adjective / noun / adverb",
+		"aftertaste": "一点の曇りもない青空の下で、すべてが正しく測定されたような清々しさ。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "pag",
+					"meaning": "to fasten / fit"
+				}
+			],
+			"points": [
+				"Fashion（流行／作る）と同じ根を持っています。"
+			]
+		}
+	},
+	{
+		"id": "smart",
+		"word": "Smart",
+		"meaning": "賢い、洗練された、痛む",
+		"era": "Old English smeortan",
+		"etymology": {
+			"original_statement": "From Proto-Germanic smartan 'to cause pain / sting'."
+		},
+		"concept": "The stinging insight (鈍い思考を突き破る、刺すような鋭敏さ。それは、真理に触れたときの微かな痛みを伴う目覚め)",
+		"thinking": "「賢さ」は、もともとは「痛み（スティング）」でした。真実に気づくことは、これまでの心地よい眠りを壊す「刺すような刺激」を伴います。しかし、その鋭さこそが、淀んだ日常に風穴を開け、あなたを「洗練（スマート）」された新しい次元へと引き上げるのです。鋭敏であることは、痛みを知る勇気でもあるのです。",
+		"part_of_speech": "adjective / verb",
+		"aftertaste": "静寂を切り裂くナイフのような、無駄のない知性の閃き。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "merd",
+					"meaning": "to rub / bruise / wear away"
+				}
+			],
+			"points": [
+				"Smartly（てきぱきと）という副詞には、この『刺すような速さ』が残っています。"
+			]
+		}
+	},
+	{
+		"id": "cool",
+		"word": "Cool",
+		"meaning": "涼しい、冷淡な、かっこいい",
+		"era": "Old English col",
+		"etymology": {
+			"original_statement": "From Proto-Germanic koluz, related to 'gelus' (frost / cold)."
+		},
+		"concept": "The steady frost (熱狂や衝動に飲み込まれず、自分自身の温度を氷点下の明晰さで保ち続ける、その「静かなる洗練」)",
+		"thinking": "「かっこいい」の本質は、周囲の「熱」に流されない「涼しさ」にあります。燃え上がる火をただ眺め、消すわけでもなく、自らの芯を「氷（ジェル）」のように冷徹に保つ。その一歩引いた視点こそが、物事を俯瞰し、真に「洗練（クール）」された行動を可能にするのです。感情の熱狂よりも、沈黙の涼やかさを選ぶ美学です。",
+		"part_of_speech": "adjective / verb / noun",
+		"aftertaste": "真夏の昼下がり、深い影の中で飲む冷水の、あの思考がクリアになる感覚。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "gel",
+					"meaning": "to freeze / cold"
+				}
+			],
+			"points": [
+				"Gelid（氷のような）や Cold と同じルーツを持っています。"
+			]
+		}
+	},
+	{
+		"id": "fast",
+		"word": "Fast",
+		"meaning": "速い、固定された、断食する",
+		"era": "Old English fæst",
+		"etymology": {
+			"original_statement": "From Proto-Germanic fastuz 'firm / fixed / constant'."
+		},
+		"concept": "The blur of fixity (あまりにも強く対象に「固定」され、追い続けようとする意志が、結果として生み出す「速度」)",
+		"thinking": "「速さ」の語源が「固定（ファスト）」であることは、一つの逆説（パラドックス）です。迷いなく、たった一つの目標に心を「固定」して突き進むとき、余計な摩擦は消え、あなたは風のように「速く」なる。断食（ファスト）もまた、自分の精神を一つの祈りに「固定」する行為。ブレない強さが、結果としてスピードを生むのです。",
+		"part_of_speech": "adjective / adverb / verb",
+		"aftertaste": "全速力で走っているとき、中心の一点以外がすべて光の線になって消える、あの集中。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "pasto",
+					"meaning": "firm / fixed"
+				}
+			],
+			"points": [
+				"Fasten（締める）や Steadfast（断固とした）にその『固さ』が残っています。"
+			]
+		}
+	},
+	{
+		"id": "slow",
+		"word": "Slow",
+		"meaning": "遅い、退屈な、鈍い",
+		"era": "Old English slaw",
+		"etymology": {
+			"original_statement": "From Proto-Germanic slawaz 'dull / blunt / lazy'."
+		},
+		"concept": "The luxury of depth (効率という刃が「鈍（なま）り」、一歩一歩の重みとテクスチャを、飽きるほど味わい尽くすこと)",
+		"thinking": "「遅さ」とは、かつては「鈍さ（ドゥル）」を意味するネガティブな言葉でした。しかし、加速し続ける現代において、「スロー」であることは、時間の粒を指先でなぞるような「贅沢」へと変容しました。速すぎて見落としていた路傍の花、風の色、自分の鼓動。それらを回収するための、意識的な「停滞」の美学なのです。",
+		"part_of_speech": "adjective / adverb / verb",
+		"aftertaste": "蜂蜜がスプーンからゆっくりと垂れるのを、ただ眺めているときの、止まったような時間。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sleu",
+					"meaning": "to be limp / slack"
+				}
+			],
+			"points": [
+				"Sloth（怠惰）や Slack（たるみ）にそのゆったりしたニュアンスが繋がっています。"
+			]
+		}
+	},
+	{
+		"id": "high",
+		"word": "High",
+		"meaning": "高い、高尚な、最高の",
+		"era": "Old English heah",
+		"etymology": {
+			"original_statement": "From Proto-Germanic hauhaz, related to 'heap' (a pile / mountain)."
+		},
+		"concept": "The mountain view (地上の喧騒から遠ざかり、空に近づこうとする意志。それは、視座の「標高」を上げること)",
+		"thinking": "「高い」ということは、単なる垂直距離ではありません。それは「積み重ねられた（ヒープ）」努力や思想の果てに、ようやく辿り着ける「視界」のこと。低地に留まれば安全ですが、高嶺（ハイ）を目指す者だけが、世界の真の広さを知ることができる。足元の不安を凌駕するほど、高い場所にある真理に手を伸ばすこと。",
+		"part_of_speech": "adjective / adverb / noun",
+		"aftertaste": "薄い空気を吸いながら、眼下に広がる雲海を眺めるときの、峻烈な孤独と誇り。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "keu",
+					"meaning": "to swell / vault / hole (uncertainly related to hill)"
+				}
+			],
+			"points": [
+				"Haughty（傲慢な）という言葉は、この『高い場所』からの視線が歪んだものです。"
+			]
+		}
+	},
+	{
+		"id": "deep",
+		"word": "Deep",
+		"meaning": "深い、深刻な、奥まった",
+		"era": "Old English deop",
+		"etymology": {
+			"original_statement": "From Proto-Germanic deupaz, PIE root 'dheub-' meaning 'hollow / deep'."
+		},
+		"concept": "The silent abyss (表面的な光が届かない場所にある、手付かずの沈黙。そこには、世界の根底を支える「重み」が眠っている)",
+		"thinking": "「深い」とは、宇宙の「底」を目指す探求です。そこは暗く、恐ろしい場所かもしれませんが、同時に最も安定し、すべての答えが沈殿している場所でもあります。安易な言葉（表面）に逃げず、心の深淵（ディープ）へと潜り続けること。その水圧に耐えた者だけが、真の「重厚さ」という名の知性を得ることができるのです。",
+		"part_of_speech": "adjective / noun / adverb",
+		"aftertaste": "紺碧の海の底、音が消えた世界で自分の鼓動だけが響く、あの絶対的な内省。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "dheub",
+					"meaning": "deep / hollow"
+				}
+			],
+			"points": [
+				"Dip（浸す）や Dive（潜る）と同根の言葉です。"
+			]
+		}
+	},
+	{
+		"id": "great",
+		"word": "Great",
+		"meaning": "偉大な、大きい、素晴らしい",
+		"era": "Old English great",
+		"etymology": {
+			"original_statement": "From West Germanic grautaz 'coarse / thick / big', originally meaning 'large in grain'."
+		},
+		"concept": "The coarse magnitude (洗練された細さではなく、荒削りで圧倒的な「厚み」と「質量」を持った、存在の大きさ)",
+		"thinking": "「偉大」のルーツは「荒い穀粒（グレイン）」にあります。それは滑らかな表面ではなく、無骨で力強い、生命の実感(リアリティ)そのもの。細かな技巧を超え、その「大きさ」と「誠実さ」だけで世界を揺さぶる力。あなたが自分に嘘をつかず、大きな志を抱くとき、その魂は「グレート」な重力を持ち始めるのです。",
+		"part_of_speech": "adjective / noun",
+		"aftertaste": "巨大な岩山を仰ぎ見たときの、自分の小ささを肯定させるほどの圧倒的な存在感。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ghreu",
+					"meaning": "to rub / grind"
+				}
+			],
+			"points": [
+				"Grit（砂／根性）と同根。偉大さには、常に荒削りな強さが伴います。"
+			]
+		}
+	},
+	{
+		"id": "small",
+		"word": "Small",
+		"meaning": "小さい、些細な、わずかな",
+		"era": "Old English smæl",
+		"etymology": {
+			"original_statement": "From Proto-Germanic smalaz 'slender / narrow / fine'."
+		},
+		"concept": "The beauty of the narrow (広大さの中に埋もれがちな、繊細で細やかな真実。それは、注意深い者にしか見えない「ミクロの宇宙」)",
+		"thinking": "「小さい」とは、かつては「細身で美しい（スレンダー）」ことを意味しました。大きな叫び声にかき消されてしまう、微かな囁き。目立たないけれど、そこにあるだけで世界の色彩を変えてしまう「些細な」奇跡。巨大なものに怯えず、その小さな「一粒」の真実を慈しむこと。それが知性の洗練（スモール）なのです。",
+		"part_of_speech": "adjective / adverb / noun",
+		"aftertaste": "朝露の一滴が、葉の陰で虹色に光っているのを見つけたときの、秘密めいた歓喜。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "malo",
+					"meaning": "small / bad (originally: crushed / fine)"
+				}
+			],
+			"points": [
+				"Slim（細い）や Smelt（鋳造する／砕く）と遠い繋がりがあります。"
+			]
+		}
+	},
+	{
+		"id": "rich",
+		"word": "Rich",
+		"meaning": "裕福な、豊かな、濃厚な",
+		"era": "Old English rice",
+		"etymology": {
+			"original_statement": "From Proto-Germanic rikijaz 'powerful / mighty', from Celtic origin for 'king'."
+		},
+		"concept": "The power of abundance (貨幣の量ではなく、その人の影響力（パワー）と、世界を享受できる「感性の厚み」のこと)",
+		"thinking": "「豊かさ」の語源は、驚くべきことに「王（レイ／リ）」にあります。王とは、単に金を持っている者ではなく、その存在が周囲に秩序と潤いをもたらす力を持った者のこと。あなたがどれほど持っているかではなく、あなたがどれほど「深く味わい、分かち合えるか」。その精神の「王族性」こそが、真の意味での「リッチ」なのです。",
+		"part_of_speech": "adjective / noun",
+		"aftertaste": "熟した果実の滴るような甘みと、大地から吸い上げた深い養分の香り。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "reg",
+					"meaning": "to move in a straight line / rule"
+				}
+			],
+			"points": [
+				"Region（地域）や Royal（王の）と同根。君臨するほどの豊かさを指します。"
+			]
+		}
+	},
+	{
+		"id": "poor",
+		"word": "Poor",
+		"meaning": "貧しい、不運な、粗悪な",
+		"era": "Old French poure",
+		"etymology": {
+			"components": [
+				"paucus (little / few)",
+				"parari (to produce)"
+			],
+			"original_statement": "From Latin pauper 'yielding little', from pau- 'little' + parere 'to produce'."
+		},
+		"concept": "The little yield (投入したエネルギーに対して、実りが少ない状態。それは、肥沃な魂が一時的に「休息」を求めている荒野のこと)",
+		"thinking": "「貧しさ」とは、「収穫が少ない（パウパー）」状態を指します。しかし、それは能力の欠如ではなく、単なる「季節」の問題かもしれません。冬の畑が貧しく見えるのは、春の爆発的な成長のためにエネルギーを蓄えているから。今のあなたが「足りない」と感じているなら、それはまだ見ぬ大きな「収穫」への、静かな序曲なのです。",
+		"part_of_speech": "adjective / noun",
+		"aftertaste": "乾いた砂漠で、一滴の水の価値を痛いほど知るような、削ぎ落とされた渇望。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "pau",
+					"meaning": "few / little"
+				}
+			],
+			"points": [
+				"Pauper（困窮者）や Few（少ない）と繋がりがあります。"
+			]
+		}
+	},
+	{
+		"id": "new",
+		"word": "New",
+		"meaning": "新しい、新鮮な、見慣れない",
+		"era": "Old English neowe",
+		"etymology": {
+			"original_statement": "From Proto-Germanic niwjaz, from PIE root 'newo-' (new)."
+		},
+		"concept": "The fresh dawn (これまでの記憶や習慣という「垢(あか)」を落とし、今この瞬間に初めて立ち現れた、原初の眩しさ)",
+		"thinking": "「新しい」とは、時間的な前後関係ではなく、あなたの「認識」の鮮度のことです。万物は流転し、一秒前の世界はすでに死んでいます。一呼吸ごとに「ネオ（新）」として生まれ変わる意志。慣れ親しんだ風景の中に、まだ名付けられていない輝きを見出すとき、あなたは宇宙の「創造」に直接参加しているのです。",
+		"part_of_speech": "adjective / adverb / noun",
+		"aftertaste": "包装紙を破る瞬間の期待と、まだ誰も触れていない真っ白な頁をめくる高揚。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "nu",
+					"meaning": "now"
+				}
+			],
+			"points": [
+				"Now（今）と同根。新しさは常に『今』この瞬間にあります。"
+			]
+		}
+	},
+	{
+		"id": "old",
+		"word": "Old",
+		"meaning": "古い、年老いた、熟練した",
+		"era": "Old English eald",
+		"etymology": {
+			"original_statement": "From Proto-Germanic althaz 'grown / tall', from aleri 'to nourish / grow'."
+		},
+		"concept": "Full grown (ただ時間が経過したのではなく、経験という養分を十分に吸収し、完成された「高みにまで育った」状態)",
+		"thinking": "「古い」の本質は、劣化ではなく「成長（オールド）」にあります。多くの冬を越し、多くの嵐に耐えて、その樹木が天高く伸びたこと。あるいは、その思想が長い時間の中で磨かれ、揺るぎない「古典」となったこと。あなたが「古い」ものに惹かれるのは、そこに「完成」という名の、到達した標高(ピーク)を感じるからなのです。",
+		"part_of_speech": "adjective / noun",
+		"aftertaste": "古書をめくったときの手触りと、深い森のような、沈殿した叡智の落ち着いた香り。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "al",
+					"meaning": "to grow / nourish"
+				}
+			],
+			"points": [
+				"Adult（大人）や Alumnus（卒業生）と同根。育ちきった美しさを指します。"
+			]
+		}
 	}
 ];
