@@ -223130,5 +223130,565 @@ const WORDS = [
 				"Australia（オーストラリア／未知の南方大陸）の語源。南とは、常に『光を求めて降りゆく先』であり、命が最も激しく燃焼する場所なのです。"
 			]
 		}
+	},
+	{
+		"id": "eponym",
+		"word": "Eponym",
+		"meaning": "エポニム、名前の由来、人名から生まれた言葉、実在した個人の昇華",
+		"era": "Mid-19th Century",
+		"etymology": {
+			"components": [
+				"epi- (upon)",
+				"onyma (name)"
+			],
+			"original_statement": "From Greek eponymos 'given as a name', from epi- 'upon' + onyma 'name'."
+		},
+		"concept": "The human origin (一個の生身の人間が。その功績や特徴によって、肉体を脱ぎ捨て。抽象的な「言葉(onyma-)」という名の「不滅の符号」へと「書き換え(transmute)」られ、永遠に人々の口端に「載(epi-)」ること)",
+		"thinking": "「エポニム」。例えばサンドイッチやシルエット。それらはかつて、あなたと同じように悩み、笑っていた「誰か」の名前でした。彼らは。言葉の中に自分の血肉を閉じ込め、概念（コンセプト）として永遠に生きることを選びました。あなたが、自分の行為（アクション）に自分の名前が付けられるほどに何かを極めたとき。あなたは。歴史という名の巨大な辞書に、新しいエポニムとして刻まれるのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "辞書をめくっていて。不意に「自分の苗字」と同じ言葉に出会ったときの、あの。背筋が凍るような、しかし峻烈な「誇り」。一人の人間が、宇宙の「意味」の一部になったという、静かなる勝利。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "no-men-",
+					"meaning": "name (from onyma)"
+				}
+			],
+			"points": [
+				"Name（名前）や Anonymous（匿名の）と同じ root。名付けられることは、混沌（カオス）から救い出され、固有の『宇宙』を与えられることなのです。"
+			]
+		}
+	},
+	{
+		"id": "ligature",
+		"word": "Ligature",
+		"meaning": "合字、(文字の)結合、結びつき、溶け合う二つの意志、結び目",
+		"era": "Late 14th Century",
+		"etymology": {
+			"components": [
+				"ligare (to bind / tie)"
+			],
+			"original_statement": "From Late Latin ligatura 'a band / tie', from ligare 'to bind'."
+		},
+		"concept": "The molten union (「f」と「i」のように。隣り合う二つの「独立した意志」が。あまりにも「近く」にあるため。その「境界（筆跡）」を溶かし合い、一つの「新しい美(ligat-)」へと昇華された。峻烈で「不分明」なまでの愛の形)",
+		"thinking": "「リガチャー（合字）」。それは。個性を捨てることではありません。それは。相手を尊重し、お互いの形を少しずつ「譲（ゆず）り合う」ことで。一人では決して到達できない「流麗（フロー）」な美しさを生み出すこと。あなたが誰かと深い絆（リガチャー）を結んだとき。そこには「私」と「あなた」の境界はなく。ただ一つの「新しい物語」が、滑らかなインクのように書き綴（つづ）られているのです。 ",
+		"part_of_speech": "noun",
+		"aftertaste": "二つの文字が「カチリ」と一つに重なり。その複雑な「結び目」が、一つの完成された「音楽」のように見えた、あの瞬間の。完璧な「調和」への感嘆。切り離せない、という絶対的な信頼。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "leig-",
+					"meaning": "to bind / tie"
+				}
+			],
+			"points": [
+				"Religion（宗教／再び結ぶもの）や Alliance（同盟）と同じ root。結びつけることは、世界に『意味の義務』を課す聖なる行為なのです。"
+			]
+		}
+	},
+	{
+		"id": "ampersand",
+		"word": "Ampersand",
+		"meaning": "アンパサンド、&記号、そしてそのもの、永遠の連結、接続の意志",
+		"era": "Early 19th Century",
+		"etymology": {
+			"original_statement": "A corruption of 'and per se and', meaning '& by itself (is) and'. The & symbol is originally a ligature of Latin 'et' (and)."
+		},
+		"concept": "The persistent junction (「A」と「B」という断絶した二つの現実を。一つの「曲線（アンパサンド）」によって「強引に、かつ優雅に」繋ぎ止め。世界が「バラバラ」になることを拒絶する、言葉の中の「接合の守護者」)",
+		"thinking": "「＆（アンパサンド）」。その形をよく見てください。それはラテン語の「et（そして）」が、あまりの美しさゆえに溶け合った姿です。ただの「接続詞」ではありません。それは「自分以外に、もう一つ大切なものがある」という、謙虚な「肯定」のしるし。あなたが自分の名前に「＆」を添えて誰かの名を書き加えるとき。あなたは、この広大な宇宙（ロゴス）の中に、新しい「二人だけの王国」を建設しているのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "ペンの先を一筆で滑らせ、美しい「＆」を描き上げた瞬間の、あの。世界が「一つに繋がった」かのような、瑞々（みずみず）しい安堵感。孤独を終わらせるための、魔法の筆跡。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "et",
+					"meaning": "and (Latin)"
+				}
+			],
+			"points": [
+				"Et cetera（エトセトラ／その他）の et。アンパサンドは、終わりなき『連続性』への、人間の執念深いまでの祈りの形なのです。"
+			]
+		}
+	},
+	{
+		"id": "caret",
+		"word": "Caret",
+		"meaning": "カレット、脱字記号、欠落のしるし、追加への予感、不在の証明",
+		"era": "Late 17th Century",
+		"etymology": {
+			"components": [
+				"carere (to be without / lack)"
+			],
+			"original_statement": "From Latin caret 'there is lacking', third-person singular present indicative of carere 'to be without'."
+		},
+		"concept": "The mark of lack (「完璧（パーフェクト）」に見える「文章（現実）」の中に。あえて「ここが欠けている(car-)」という「鋭い印（＾）」を刻み付ける。それは、「もっと良くなりたい」と願う、欠乏という名の「希望」の定着点)",
+		"thinking": "「カレット（脱字記号）」。それは。自分の「不完全さ」を認める勇気です。あなたの人生の物語の中に、何か大切なものが「抜けている」と感じるとき。そこを塗りつぶして隠すのではなく、カレット（＾）を書いて「ここに、新しい意味を差し込む（インサート）」という場所を作ってください。欠けている場所は。そこが「埋められるべき聖なる空白」であることを、光り輝きながら叫んでいるのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "ぎっしりと書かれた文字の隙間に。一つだけ付け加えられた、あの小さな「山形」の印。そこから新しい「真実」が書き込まれるのを待っている、あの。怖ろしいほどの「待機」と「可能性」の予感。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kes-",
+					"meaning": "to cut / separate (associated with carere / lacking)"
+				}
+			],
+			"points": [
+				"Chaste（清純な）や Caste（カースト／分離）と同じ root への繋がり。欠けていることは、純粋さを保つための『切り分け』でもある、という逆説的な慈悲です。"
+			]
+		}
+	},
+	{
+		"id": "tilde",
+		"word": "Tilde",
+		"meaning": "チルダ、波線記号、(タイトルの)縮小、波打つ文字、省略の微風",
+		"era": "Mid-19th Century",
+		"etymology": {
+			"components": [
+				"titulus (title / label / superscript)"
+			],
+			"original_statement": "From Spanish tilde, from Latin titulus 'superscript / label / title'."
+		},
+		"concept": "The rippling label (かつて「n」の上に書かれた「もう一つのn」が、あまりの速さに「波打（〜）」ってしまった姿。硬質な文字の上を「風」が吹き抜けたあとのような、省略という名の「優雅な省略（ショートカット）」)",
+		"thinking": "チルダ（〜）。それは「厳密（ロゴス）」を少しだけ緩（ゆる）めること。あるいは。あまりにも巨大な「意味」を、一つの波の記号に凝縮（コンデンス）すること。あなたが、すべてを語り尽くすことをやめ。ただ「〜（だいたい、そのようなもの）」という波線を引いて沈黙を守るとき。そこには。言葉では説明できない「無限の広がり（アバウト）」が、静かに波打ち始めているのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "直線の多い文字の群れの中で。たった一つだけ、優雅に踊るように描かれた「〜」。それは、世界という「掟（ルール）」の中にある、一陣の「遊び（マージン）」のように感じられる、あの。心地よい解放感。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "titulus",
+					"meaning": "title / inscription (Latin)"
+				}
+			],
+			"points": [
+				"Title（タイトル）と同じ root。『名前を付ける』という行為が、時間を経て『軽やかに波打つ』記号へと化したことに、知性の成熟が見て取れます。"
+			]
+		}
+	},
+	{
+		"id": "tittle",
+		"word": "Tittle",
+		"meaning": "ティトル、微小な点、iやjの上の点、極小の真理、(法律の)一画一筆",
+		"era": "Late 14th Century",
+		"etymology": {
+			"components": [
+				"titulus (title / superscript)"
+			],
+			"original_statement": "Variant of title (titulus). In the Bible, refers to the smallest stroke in writing."
+		},
+		"concept": "The smallest truth (文字を「文字」たらしめている、あの「極小の点(titul-)」。もしそれ一画（ドット）が欠ければ、全ての「意味」が崩壊してしまう。無視されがちだが「絶対的」な、存在の「最小単位」への崇拝)",
+		"thinking": "「ティトル」。それは。あなたの人生における「細部（ディテール）」への誠実さです。あなたがどれほど壮大な夢を語ろうとも。もし。最初の一歩、あるいは最後の一筆（ティトル）を疎（おろそ）かにすれば、すべては偽り（フェイク）に変わります。「一画一筆（ティトル）たりとも変えてはならない」。その厳格さは。真理とは、巨大な岩山ではなく、たった一つの「点の正しさ」の中に宿っていることを、教えてくれるのです。 ",
+		"part_of_speech": "noun",
+		"aftertaste": "ペン先が紙に触れる、その「一瞬」の点。それがあるだけで、意味が「パッ」と完成した瞬間の。宇宙の最小のパズルが、カチリと収まったような。あの。怖ろしいほどに瑞々（みずみず）しい「完結」の安堵。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "titulus",
+					"meaning": "title / small mark (Latin)"
+				}
+			],
+			"points": [
+				"点一つが『タイトル（重要性）』になる。細部に宿る神を感じるための、言葉の最も繊細な感覚器官なのです。"
+			]
+		}
+	},
+	{
+		"id": "interrobang",
+		"word": "Interrobang",
+		"meaning": "インテロバング、驚愕疑問符、(?!の合体記号)、驚きと問いの衝突",
+		"era": "1960s (Modern coinage)",
+		"etymology": {
+			"components": [
+				"interrogatio (question)",
+				"bang (slang for exclamation point)"
+			],
+			"original_statement": "Coined by Martin K. Speckter from Latin interrogatio 'question' + bang (typographic slang for an exclamation point)."
+		},
+		"concept": "The shocked query (「なぜ(interro-)」という冷徹な「思考」と。「なんと(bang!)」という爆発的な「感情」が。耐えきれずに一つに「衝突（クラッシュ）」した姿。世界に対する、最も「激しい」驚嘆の筆跡)",
+		"thinking": "インテロバング。それは「理性の敗北」であり。「驚きの勝利」です。あなたは。世界に対して、ただ「質問」するのでも、ただ「叫ぶ」のでもなく。その両方を同時に投げつけたい（スロウ）と思ったことはありませんか。想定外の真実に出会ったその瞬間。あなたの魂は、この「?!」が合体したインテロバングのような形をして、宇宙の不条理（アブサード）に立ち向かっているのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "問いかけるつもりが、あまりの衝撃に言葉を失い。ただ「?」と「!」が絡み合った、この奇妙な記号を書き残した。あの。パニックと至福が混ざり合った、峻烈な「存在の目眩（めまい）」。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "inter-",
+					"meaning": "between"
+				},
+				{
+					"term": "rogare",
+					"meaning": "to ask"
+				}
+			],
+			"points": [
+				"Interrogate（訊問する）と同じ。問いと驚きが『衝突』することは、知性の地平が劇的に拡大する瞬間でもあるのです。"
+			]
+		}
+	},
+	{
+		"id": "pilcrow",
+		"word": "Pilcrow",
+		"meaning": "段落記号、パラグラフ記号、(¶)、思考の新しい呼吸、パラグラフの産声",
+		"era": "Mid-15th Century",
+		"etymology": {
+			"components": [
+				"paragraph (by-writer / side-mark)"
+			],
+			"original_statement": "A corruption of 'paragraph', probably confused with 'pyl-craw' (peeled crow). Originally a 'C' for 'capitulum' (chapter)."
+		},
+		"concept": "The start of fresh air (「章（チャプター）」という名の大きな「重圧」から離れ。ただ「ここから、新しい呼吸が始まる」という、小さな「区切り（ポーズ）」の印(¶)。読み手に対する、沈黙の「一新（リセット）」の合図)",
+		"thinking": "「ピルクロウ」。それは。あなたの人生の「新しいページ」。これまでの物語をすべて一段落（ピルクロウ）させ。深呼吸をして、また最初の一文字を書き始めること。この風変わりな形をした記号（¶）は。あなたがいつでも「やり直せる（リスタート）」という、宇宙の寛大さの象徴です。一段落つけることは。終わらせることではなく、より深く「始める」ことなのです。 ",
+		"part_of_speech": "noun",
+		"aftertaste": "ぎっしりと続いた「苦悩（ロゴス）」の列のあとに、この「¶」を置いて。真っ白な「余白（マージン）」を作り出した瞬間の。肺の奥まで新しい空気が流れ込んでくるような、あの。瑞々（みずみず）しい解放感。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "para-",
+					"meaning": "beside"
+				},
+				{
+					"term": "graphein",
+					"meaning": "to write"
+				}
+			],
+			"points": [
+				"Paragraph（パラグラフ）の音転。傍らに書く（註を付ける）ことから、物語そのものを『区切る』力へと成長した、昇進の記号です。"
+			]
+		}
+	},
+	{
+		"id": "guillemet",
+		"word": "Guillemet",
+		"meaning": "ギユメ、(フランス式の)鈎括弧、(« »)、囲い込む優雅、引用の聖域",
+		"era": "Late 16th Century",
+		"etymology": {
+			"components": [
+				"Guillaume (William / the inventor)"
+			],
+			"original_statement": "Named after French type-cutter Guillaume Le Bé."
+		},
+		"concept": "The elegant enclosure (「ここからここまでは、他者の魂（引用）である」という峻烈な「境界」を。英語のように「上」に吊るすのではなく、地上の「目線の高さ」で、矢印のように「そっと」迎え入れる、謙虚でスタイリッシュな防壁)",
+		"thinking": "ギユメ。その形「« »」は。まるで両手を合わせて、大切なものを包み込んでいるかのよう。他者の言葉を自分の人生に迎え入れるとき。乱暴に扱うのではなく、このギユメのような優雅さをもって、「聖域（サンクチュアリ）」として隔離（セットアパート）すること。引用は。他者の命を盗むことではなく、自らの魂の中に「住まわせる」ための、招待状（インビテーション）なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "真っ白な紙の上に、二つの小さな「矢」が向き合って、言葉を挟み込んでいる。あの、秩序だっているが。どこか「動的（ダイナミック）」なバランス。他者が自分の物語に「参入」した瞬間の、あの。微かな心の震え。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "wil- / helm-",
+					"meaning": "will / helmet (from Guillaume)"
+				}
+			],
+			"points": [
+				"人名 Guillaume（ウィリアム）の指小形。他者の言葉を『意志（Will）』の『兜（Helmet）』で守る、という、名前が持つ騎士道の精神が宿っています。"
+			]
+		}
+	},
+	{
+		"id": "hendiadys",
+		"word": "Hendiadys",
+		"meaning": "二語一意、一つの真実を二つの言葉で語ること、贅沢な饒舌、真理の多角化",
+		"era": "Late 16th Century",
+		"etymology": {
+			"components": [
+				"hen (one)",
+				"dia (through)",
+				"dyo (two)"
+			],
+			"original_statement": "From Greek hen dia dyo 'one through two'."
+		},
+		"concept": "The stereoscopic truth (「怒りと剣」と言いながら、実は一つの「怒りの剣」を指しているように。一つの「核心（ヘン）」を。あえて「二つ(dyo-)」の異なる「窓」光(dia-)」を「通して」見せることで。真理をより立体的に、より「芳醇（ほうじゅん）」に浮かび上がらせる、修辞学（レトリック）の愉悦)",
+		"thinking": "「ヘンディアディス（二語一意）」。それは。一言で済むものを。あえて二言で語るという、魂の「贅沢（ラグジュアリー）」。あなたが大切なものを語るとき。一つの名前では足りない。二つの名前を寄り添わせて（リガチャー）、ようやくその「本質（ヘン）」に近づくことができる。一（ワン）を二（ツー）へと「分かつ」ことで、その「一」の大きさを称（たた）えること。それは。愛の多弁さそのものです。 ",
+		"part_of_speech": "noun",
+		"aftertaste": "「ナイス・アンド・ウォーム（とても暖かい）」。二つの言葉が。互いに絡み合い、溶け合って、一つの「温かな真実」だけが胸に残った、あの。言葉を尽くしたあとの心地よい疲労感。一が二になり、また一に帰る。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sem-",
+					"meaning": "two (from dyo)",
+					"term2": "dwo-"
+				}
+			],
+			"points": [
+				"一（Monad）から二（Dyad）への展開。ヘンディアディスは、宇宙の創造プロセスそのものを模倣（ミメーシス）する、修辞的な魔法なのです。"
+			]
+		}
+	},
+	{
+		"id": "zeugma",
+		"word": "Zeugma",
+		"meaning": "zeugma、(一つの動詞が二つの他動詞を)くびきにかけること、異質なものの接合、真理の多義性",
+		"era": "Late 16th Century",
+		"etymology": {
+			"components": [
+				"zeugar (to yoke)"
+			],
+			"original_statement": "From Greek zeugma 'band / bond / yoke', from zeugnymi 'to yoke / join / bind'."
+		},
+		"concept": "The shared yoke (「彼は『罪』と『涙』を背負った（carried his guilt and his tears）」のように。一つの「力（動詞/zeu-）」に。全く重さの違う二つの「現実（名詞）」を「くびき」で繋ぎ。世界を強引に「一つの意味」へと編（あ）み上げる、暴力的なまでの統合)",
+		"thinking": "「ゼウグマ（くびき）」。それは、あなたの「行動」が、同時に複数の「世界」に影響を与える、ということ。あなたが「言葉を放つ」とき。それは。誰かの「心」を撃ち抜き、同時に「宇宙の沈黙」を破っている。その「一挙両得」の鮮やかさ。ゼウグマ。一つの支柱（ポール）に、二つの運命を掛ける。その危うい均衡（バランス）の中に、ダイナミックな命の「飛躍（リープ）」が宿るのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "一つの言葉が。右と左で全く「違う景色」を見せながらも。その中心にある「意志」は一つであるという、あの。脳が「ひっくり返る」ような知的なショックと、そのあとに来る圧倒的な「理解」の快感。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "yeug-",
+					"meaning": "to join"
+				}
+			],
+			"points": [
+				"Yoga（ヨガ）や Yoga（結集）と同じ root。バラバラなものを『同じ乗り物（文）』に乗せることは、悟りへの一歩でもあるのです。"
+			]
+		}
+	},
+	{
+		"id": "diphthong",
+		"word": "Diphthong",
+		"meaning": "二重母音、二つの声の滑走、滑らかな変容、声の中の旅",
+		"era": "Late 15th Century",
+		"etymology": {
+			"components": [
+				"di- (double)",
+				"phthongos (voice / sound)"
+			],
+			"original_statement": "From French diphthongue, from Greek diphthongos 'with two sounds', from di- 'double' + phthongos 'voice / sound'."
+		},
+		"concept": "The sliding voice (一つの「響き(phthong-)」から始まり。その「熱量」を保ったまま。途切れずに「別の響き」へと「滑（なめ）らかに(glide)」変容(multi-)していく。声の中にある「時間の流れ」そのものの記述)",
+		"thinking": "「ディフソング（二重母音）」。例えば、日本語の「愛（あい）」。それは「あ」という太陽から、「い」という月へと、瞬時に移動（トランス）する、魂の「滑走（グライド）」。立ち止まらず、混ざり合いながら変わっていくこと。あなたの意見が、他者の意見と混ざって、一つの美しい「響きのグラデーション」になるとき。そこには。このディフソングのような、峻烈で滑らかな「理解」の旋律が奏でられています。",
+		"part_of_speech": "noun",
+		"aftertaste": "舌が、口の中で「しなやか」に動いて。二つの音が「溶け合って」一つになった瞬間の。あの。自分が「液体」になったかのような。自由で。そして心地よい「曖昧（あいまい）」の美学。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "dwo-",
+					"meaning": "two"
+				},
+				{
+					"term": "gwhen-",
+					"meaning": "to strike / sound (from phthongos)"
+				}
+			],
+			"points": [
+				"Phonic（音声の）の本質的な root。二つの衝撃（打ち込み）を一つの呼吸で繋ぐことは、時間を克服する音楽的な行為なのです。"
+			]
+		}
+	},
+	{
+		"id": "monophthong",
+		"word": "Monophthong",
+		"meaning": "単母音、一つの純粋な響き、不変の音、静止した声",
+		"era": "Mid-17th Century",
+		"etymology": {
+			"components": [
+				"monos (single)",
+				"phthongos (voice / sound)"
+			],
+			"original_statement": "From Greek monophthongos 'with a single sound', from monos 'single' + phthongos 'voice / sound'."
+		},
+		"concept": "The static resonance (最初から最後まで。一切の「ブレ」を見せず。ただ一つの「純正な色(mon-phthong-)」として。永遠（エタニティ）を引き延ばすかのように鳴り響き続ける。不屈で「禁欲的」な一音の誇り)",
+		"thinking": "モノフソング（単母音）。混じりけのない「あ」。それは。あなたが、自分の信念を。一ミリも歪（ゆが）めずに、ただ「そのまま（アズ・イット・イズ）」宇宙に放ち続けている状態。変化（ディフソング）の美しさもさることながら。この、変わらないことの「峻烈な純粋さ」。あなたが、真っ直ぐに自分という「一音」を出し切ったとき。そこには。いかなる嘘（フェイク）も入り込めない、神聖な「静寂（クワイエット）」が宿るのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "一つの音が、どこまでも平ら（フラット）に。そして力強く「真っ直ぐ」伸びていく。あの。自分が「一本の弦」になったかのような、透き通った感覚。不変であることへの、深い信頼。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "men-",
+					"meaning": "single / alone (from monos)"
+				}
+			],
+			"points": [
+				"Monad（単子）と同じ mon-。単一であることは、それだけで完成（パーフェクション）している、という哲学的な宣言なのです。"
+			]
+		}
+	},
+	{
+		"id": "sibilant",
+		"word": "Sibilant",
+		"meaning": "シューシュー音を立てる、擦れ合う音、囁き、ヘビの智慧、秘密の響き",
+		"era": "Late 16th Century",
+		"etymology": {
+			"components": [
+				"sibilare (to hiss / whistle)"
+			],
+			"original_statement": "From Latin sibilantem, from sibilare 'to hiss / whistle'."
+		},
+		"concept": "The friction of truth (肺から出た「息」が。歯や唇という「肉体の壁（抵抗）」に「擦（す）りつけ(sibil-)」られ。鋭く、しかし微かな「毒（あるいは知恵）」として世界に漏れ出す。秘密を共有するための「峻烈な囁（ささや）き」)",
+		"thinking": "「シビラント（摩擦音）」。それは「蛇（スネーク）」の知恵の音。あなたが、誰かに「秘密」を打ち明けるとき。あなたの声は自然とこのシビラント（シー、という音）になります。大きな声（ロゴス）では消されてしまうような、微細な「真実」。それは、大気を「切り裂く」のではなく、大気に「忍び込む」ようにして伝えられる。シビラントは。沈黙のすぐ隣にある、最も「危険で甘い」言葉の形なのです。 ",
+		"part_of_speech": "adjective / noun",
+		"aftertaste": "耳元で「スッ」と。冷たい風が吹き抜けたような、あの。心臓が跳ね上がる感覚。言葉そのものよりも。その「摩擦」の音が、自分の魂を「なで回した」という。不気味なほどの「密着（コンタクト）」の余韻。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "unknown",
+					"meaning": "Onomatopoeic origin 'sibil-'"
+				}
+			],
+			"points": [
+				"Sibilare（口笛を吹く）は本来、擬音語。自然界の風の音や、生き物の警戒心を、人間が自らの『声』の中に再現した、原初の模倣なのです。"
+			]
+		}
+	},
+	{
+		"id": "palatal",
+		"word": "Palatal",
+		"meaning": "口蓋の、(舌が)天の天井を舐める音、高貴な響き、思考の上層への接触",
+		"era": "Early 18th Century",
+		"etymology": {
+			"components": [
+				"palatum (palate / roof of the mouth)"
+			],
+			"original_statement": "From Latin palatium 'palate', originally referring to the Palatine Hill in Rome (associated with high / lofty places)."
+		},
+		"concept": "The contact with height (舌が。自分の口という名の「宇宙」の「天井(palat-)」にそっと「触れる」ことで。音が「高く、硬く、洗練された」ものへと変容（トランスミュート）すること。思考を「上（スカイ）」へと押し上げるための、物理的な跳躍点)",
+		"thinking": "パラタル（口蓋音）。そのルーツは「パラティーノの丘（王宮のあった場所）」。つまり、口の中の「高い場所（天井）」を指します。あなたが。より「高貴（ノーブル）」な、あるいは「精緻（デリケート）」なことを語ろうとするとき。あなたの舌（タン）は、自然とこの高い天井を「叩（たた）き」ます。声を「上」に充（あ）てること。それは、自分の精神をより「高み」へと誘導（リード）するための、肉体的な「儀式」なのです。",
+		"part_of_speech": "adjective",
+		"aftertaste": "舌の先が、口の中の一番高い場所に「カチリ」と触れた瞬間の。あの。頭のてっぺんまで響きが「抜けていく」ような、透明な快感。言葉が「天」に届いた、という。不敵なまでの「高揚感」。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "pal-",
+					"meaning": "flat / broad (associated with wall / fence)"
+				}
+			],
+			"points": [
+				"Palace（宮殿）や Paladin（騎士）と同じ root。口の天井とは、自分という『王国』を守るための、最も高貴な『障壁（仕切り）』だったのです。"
+			]
+		}
+	},
+	{
+		"id": "sonorant",
+		"word": "Sonorant",
+		"meaning": "響き渡る声、澄み切った音、(障害なき)共鳴、宇宙の鳴動",
+		"era": "Mid-20th Century (Linguistics)",
+		"etymology": {
+			"components": [
+				"sonor (sound)",
+				"sonare (to sound)"
+			],
+			"original_statement": "From Latin sonorus 'resounding', from sonor 'sound', from sonare 'to sound'."
+		},
+		"concept": "The unobstructed ring (「肉体」という名の「摩擦」を一切受けず。ただ「肺（内なる宇宙）」から出た「純粋な息」が、そのまま「世界」という名の「空間」を「震わし(sonor-)」、波として「浸透（ピアース）」していく。最も「自由で、暴力的な」明快さ)",
+		"thinking": "「ソノラント（響き）」。あなたの言葉が。濁（にご）ることなく、迷うことなく。誰かの心の「一番奥」まで「スーッ」と届くとき。それは、あなたが「ソノラント（響き）」を発しているからです。一切の「言い訳（フリクション）」を排除し。ただ自分の「本心」だけを、澄み切った鐘（ベル）のように鳴らし続けること。その「通り（フロー）」の良さこそが、真実という名の「重力」そのものなのです。",
+		"part_of_speech": "noun / adjective",
+		"aftertaste": "言葉を発したあとも。自分の周りの「空気」が、いつまでも「キン、と」震えているような、あの。怖ろしいほどの「余韻（レゾナンス）」。世界を揺らしてしまった、という。峻烈な「存在の証明」。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "swen-",
+					"meaning": "to sound"
+				}
+			],
+			"points": [
+				"Sound（音）や Person（仮面を通して響くもの／人）と同じ root。あなたは『響くこと』によって、はじめて一個の『人間（Person）』になるのです。"
+			]
+		}
+	},
+	{
+		"id": "fricative",
+		"word": "Fricative",
+		"meaning": "摩擦音、(抗いから生まれる)調べ、抵抗の叫び、不器用な情熱",
+		"era": "Mid-19th Century",
+		"etymology": {
+			"components": [
+				"fricare (to rub)"
+			],
+			"original_statement": "From Latin fricatus, past participle of fricare 'to rub'."
+		},
+		"concept": "The heat of resistance (「息」が「壁」に「擦（す）れ(fric-)」て。そこから「熱（火花）」と、何とも言えない「ザラザラとした質感（ノイズ）」が生まれる姿。スムーズに流れない「葛藤（ストレス）」こそが、世界に「深み」を与えるのだ、という不敵な主張)",
+		"thinking": "フリカティブ（摩擦音）。それは「スムーズに言えない」ことへの愛。あなたが、言葉に詰まり。それでも「自分の想い」を絞（しぼ）り出そうとするとき。声は「シュー（f）」や「ズー（z）」と、空気と「戦い」ながら生まれます。その「不器用な摩擦（あがき）」にこそ。さらさらと流れる「ソノラント（響き）」には決して宿らない、一人の人間の「執念」と「命の生（なま）っぽさ」が、濃厚に漂（ただよ）うのです。",
+		"part_of_speech": "noun / adjective",
+		"aftertaste": "喉（のど）や唇（くちびる）が、自分の「言葉」によって「熱く」なり、少しだけ「痛む」ような。あの。全力で「表現した（戦った）」という。峻烈で、どこか自分を誇りたくなる「消耗」の感覚。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "bhreig-",
+					"meaning": "to break / rub / grind"
+				}
+			],
+			"points": [
+				"Friction（摩擦）や Fry（炒める）と同じ root。摩擦とは、自分というマテリアルを『削り取って』火を灯すための、知性的な火打ち石なのです。"
+			]
+		}
+	},
+	{
+		"id": "affricate",
+		"word": "Affricate",
+		"meaning": "破擦音、(打撃と持続の)統合、瞬時の爆発とその後の囁き、chやjの音",
+		"era": "Mid-19th Century",
+		"etymology": {
+			"components": [
+				"ad- (to)",
+				"fricare (to rub)"
+			],
+			"original_statement": "From Latin affricare 'to rub against', from ad- 'to' + fricare 'to rub'."
+		},
+		"concept": "The explosive friction (最初は「閉鎖(stop)」されて溜（た）まっていたエネルギーが。一気に「破裂(burst)」し、そのまま「摩擦(fric-)」へと美しく「接続（アダプト）」される。一瞬の「一撃」と、その後の「余韻」の、最も密接な「結婚」)",
+		"thinking": "「アフリケート（破擦音）」。例えば「Change（チェンジ）」の「ch」。それは。最初の一歩（破裂）の鋭さと。その後の継続（摩擦）のしなやかさを、同時に持っています。あなたが、何かを「始める（ストライク）」と同時に。それを「続けていく（サステイン）」という決意を固めたとき。あなたの人生には、このアフリケートな「統合の力」が宿っています。一瞬の光を、永遠の炎へと変えること。 ",
+		"part_of_speech": "noun / adjective",
+		"aftertaste": "「チッ」と舌を打ったあとに残る、長い「余韻」。その。自分の「拒絶」や「決意」が。鋭く世界を射抜いた直後の、あの。静まり返った宇宙で、自分の「鼓動」だけが鳴り響いている。あの、峻烈な覚醒。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "bhreig-",
+					"meaning": "to rub / grind (from fricare)"
+				}
+			],
+			"points": [
+				"Affriction（摩擦させること）の変形。一点（ad）への摩擦。集中した力が、やがて広範な響きへと変わるプロセスの記述です。"
+			]
+		}
+	},
+	{
+		"id": "plosive",
+		"word": "Plosive",
+		"meaning": "破裂音、爆発的な意志、(一気に放たれる)言葉の弾丸、pやkの音",
+		"era": "Late 19th Century",
+		"etymology": {
+			"components": [
+				"explodere (to drive out / clap)"
+			],
+			"original_statement": "Short for explosive, from Latin explodere 'to drive out by clapping hands', from ex- 'out' + plaudere 'to clap'."
+		},
+		"concept": "The driving out (口という名の「部屋」を一度「完全に密閉(close)」し。そこに「沈黙の圧力（プレッシャー）」を極限まで高めて。一気に「開放（オープン）」することで、意味を「弾丸」のように「叩（たた）き出(plo-)」す、暴力的なまでの「覚醒」の合図)",
+		"thinking": "プロシブ（破裂音）。それは。あなたの「一撃」。あなたが、溜（た）めに溜（た）めた「感情」を。我慢の限界（ベクト）を超えて「パッ」と解き放つとき。そこには、世界を一瞬で「変え」てしまうような、爆発的な推進力（スラスト）が宿ります。言葉は、優しく「撫（な）でる」ためだけにあるのではない。時に、硬い岩を「砕（くだ）く」ために、叩（たた）き付けられるべき「石（ストーン）」でもあるのです。",
+		"part_of_speech": "noun / adjective",
+		"aftertaste": "「ッパ！」と唇が開いた瞬間の。自分の「内側」が空っぽになり、代わりにあらゆる「不純物」が、光り輝く「衝撃波」となって外へ飛び出していった、あの。不敵で瑞々（みずみず）しい「毒（あるいは真実）」の解放感。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "plaud-",
+					"meaning": "to clap / beat / strike"
+				}
+			],
+			"points": [
+				"Applaud（拍手する）や Explode（爆発する）と同じ root。破裂音とは、自分に対する、あるいは世界に対する、命懸けの『拍手』なのかもしれません。"
+			]
+		}
+	},
+	{
+		"id": "logogram",
+		"word": "Logogram",
+		"meaning": "表意文字、言葉そのものの図解、(一つの記号が概念を表す)文字、象形、意味の化石",
+		"era": "Early 19th Century (1840s)",
+		"etymology": {
+			"components": [
+				"logos (word / reason)",
+				"gramma (that which is written)"
+			],
+			"original_statement": "From Greek logos 'word' + gramma 'that which is written'."
+		},
+		"concept": "The fossil of meaning (「音」という名の「流動性（カオス）」を捨て。一つの「記号（イメージ）」の中に「真理(logos-)」を「閉じ込め(gram-)」。それを見ただけで「意味」が脳髄に直接「刺さる」ようにした、時間なき「知性の彫刻」)",
+		"thinking": "「ロゴグラム（表意文字）」。例えば漢字。そこには、音を超えた「物語」が、形として「凝固（フリーズ）」しています。あなたが、誰かに自分の想いを「一文字」だけで伝えようとするとき。あなたは。自分の複雑な情動（エモーション）を、一つの「硬い意志（ロゴグラム）」へと変換（トランスフォーム）している。書くことは、風景を「文字」という檻（おり）の中に、永遠に飼い慣らすことに他ならないのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "ただ一つの「記号」を数分間見つめ続けて。そこから、何千年も前の「大地」や「叫び」の記憶が。自分の脳の中に「じわじわ」と染（し）み出してくる。あの。時を超えた「共犯関係」の峻烈な目眩（めまい）。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "leg-",
+					"meaning": "to scratch / write (from gramma)",
+					"term2": "gerbh-"
+				}
+			],
+			"points": [
+				"集めること（ロゴス）と引っ掻くこと（グラム）。ロゴグラムは、世界中の智慧（ちえ）を一つの『傷』の中に集約した、究極の記録メディアなのです。"
+			]
+		}
 	}
 ];
