@@ -215517,5 +215517,513 @@ const WORDS = [
 				"Matter（物質）の語源は Mother（母）と同じ。万物は『母なる根源』から削り出されたものです。"
 			]
 		}
+	},
+	{
+		"id": "ananke",
+		"word": "Ananke",
+		"meaning": "必然、運命の絆、不可避の必要性",
+		"era": "Ancient Greek Philosophy",
+		"etymology": {
+			"original_statement": "From Greek ananke 'necessity, force, constraint', personified as the goddess of necessity."
+		},
+		"concept": "The binding thread (個人の意志や神々の力さえも超えた、宇宙を貫く「どうしてもそうならざるを得ない」という冷徹で強固な「必然性」)",
+		"thinking": "アリストテレスやプラトンたちが、世界の根底に見た「アナンケ（必然）」。それは自由（フリーダム）を奪う鎖ではなく、むしろ世界がバラバラに崩壊しないための「秩序の屋台骨」です。あなたが自分の運命に抗（あらが）うのをやめ、その「必然」を受け入れたとき、そこには皮肉にも、最も深い「心の平安（アタラクシア）」が訪れるのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "重い岩が坂を転がり落ちるような、逆らうことのできない「流れ」への完全な降伏。そしてその先にある、絶対的な肯定。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "an-",
+					"meaning": "tight / narrow (linked to angst / anxiety)"
+				}
+			],
+			"points": [
+				"神話では、宇宙の創造主クロノスと共に、世界という『糸』を紡ぐ女神として描かれます。"
+			]
+		}
+	},
+	{
+		"id": "arete",
+		"word": "Arete",
+		"meaning": "卓越、徳、最高の能力、魂の輝き",
+		"era": "Ancient Greek Virtue Ethics",
+		"etymology": {
+			"original_statement": "From Greek arete 'excellence / virtue / goodness', from root of 'aristos' (best)."
+		},
+		"concept": "Fullness of function (ナイフが「鋭さ」を極めるように、人間が人間としての本来の「性能（パワー）」を最大限に発揮し、何ものにも代えがたい「輝き」を放っている状態)",
+		"thinking": "「徳」とは、我慢することではありません。それは、あなたが持つ独自の才能（ギフト）を、目も眩（くら）むような「完成度（パーフェクト）」まで磨き上げること。アレテは、あなたがあなた自身の「最高傑作（マグナム・オプス）」になろうとする、その峻烈で美しい「意志」の謂（いわ）いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "磨き上げられた鏡。あるいは、一点の曇りもない青空のように、ただ「最高であること」そのものが周囲を照らしている、圧倒的な肯定感。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ar-",
+					"meaning": "to fit / join / be best"
+				}
+			],
+			"points": [
+				"Aristocracy（貴族政治／最良の人々による統治）や Arithmetic（算術／数を合わせること）と同根です。"
+			]
+		}
+	},
+	{
+		"id": "theoria",
+		"word": "Theoria",
+		"meaning": "観照、静観、真理を眺めること、理論の語源",
+		"era": "Ancient Greek Philosophy",
+		"etymology": {
+			"components": [
+				"thea (a view)",
+				"horan (to see)"
+			],
+			"original_statement": "From Greek theoria 'contemplation / looking at / spectacle', from theoros 'spectator'."
+		},
+		"concept": "Beholding the truth (言葉で分析（アナリシス）するのをやめ、ただそこにある真理の「姿」を、聖なる儀式のように「静かに眺め（hor-）」、自分と対象が一体になること)",
+		"thinking": "「セオリー（理論）」のルーツは、驚くべきことに、競技場や劇場で「見物すること」にあります。しかし、哲学におけるテオリアは、知的なエゴを捨てた「ピュアな眼差し」。あなたが美しい夕陽を前にして言葉を失うとき、そこには最も高度な「テオリア（観照）」が起きています。真理とは、掴（つか）むものではなく、映し出すものなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "静かな水面に、月が映り込んでいるような静止。自分がそれを見ているのか、それとも自分が「それ」そのものなのかが分からなくなる、あの透明な忘我。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "dhau-",
+					"meaning": "to look at / gaze"
+				}
+			],
+			"points": [
+				"Theater（劇場）と同じルーツを持ちます。知性とは、世界という舞台を聖なる観客として『見守る』行為なのです。"
+			]
+		}
+	},
+	{
+		"id": "praxis",
+		"word": "Praxis",
+		"meaning": "実践、行為、真実としての行動",
+		"era": "Aristotelian Philosophy",
+		"etymology": {
+			"original_statement": "From Greek praxis 'doing / acting / action', from prassein 'to do'."
+		},
+		"concept": "Self-revealing action (単なる「手段」としての労働（ポイエーシス）ではなく、その「行為」そのものが目的であり、自分の存在を世界に刻み込むような「生き方」としての実践)",
+		"thinking": "「プラクシス（実践）」は、結果を求めるための計算（ロジック）ではありません。それは、あなたがその瞬間に「どう在るか」を表現する、命のダンス。あなたが誰かに優しくするとき、それは何かを得るためではなく、その「優しさという行為」そのものが、あなたの真理（ロゴス）であるはず。行動とは、あなたの魂が世界というキャンバスに描く、唯一の自画像なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "一歩踏み出した瞬間の、足の裏に感じる確かな「大地の重み」。言葉では語り得なかった自分が、今、この「動き」の中で完全に証明されているという、動的な充実感。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "per-",
+					"meaning": "to go across / through"
+				}
+			],
+			"points": [
+				"Practice（練習）や Pragmatic（実用的な）と同根。真理は『通り抜けること（経験）』の中にしかないことを示します。"
+			]
+		}
+	},
+	{
+		"id": "eros",
+		"word": "Eros",
+		"meaning": "情愛、渇望としての愛、創造的な衝動",
+		"era": "Ancient Greek Mythology / Philosophy",
+		"etymology": {
+			"original_statement": "From Greek eros 'love (mostly sexual) / desire', personified as the god Eros."
+		},
+		"concept": "The creative lack (自分に欠けている「最高のもの」を求め、その空白を埋めようとして他者や理想へと駆け寄る、狂おしくも美しい「上昇」へのエネルギー)",
+		"thinking": "プラトンは「エロス」を、肉体的な誘惑（テンプテーション）ではなく、真理（イデア）への「切実な渇き」だと定義しました。あなたが何かに強く惹（ひ）かれ、それを手に入れたいと願うとき、そこにはあなたが「もっと美しくなりたい」という聖なる向上心が燃えています。エロスとは、私たちが不完全であるからこそ持てる、最も激しい「希望の炎」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "胸の奥が締め付けられるような痛み。しかしそれは、自分がまだ「生きており」、何ものかを「求めている」という、命の鮮烈な証明。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "er-",
+					"meaning": "to desire / love"
+				}
+			],
+			"points": [
+				"Erotic（エロティック）の語源ですが、古代では宇宙を一つに繋ぎ止める『結合の力』そのものを指しました。"
+			]
+		}
+	},
+	{
+		"id": "philia",
+		"word": "Philia",
+		"meaning": "友愛、隣人愛、親愛、等価な絆",
+		"era": "Ancient Greek Virtue Ethics",
+		"etymology": {
+			"original_statement": "From Greek philia 'affection / friendship', from philos 'dear / beloved'."
+		},
+		"concept": "The mirror of soul (エロスのような「渇望」ではなく、互いの存在を等しく敬（うやま）い、魂の「鏡」として響き合う、静かで持続的な「共鳴（シン）」の絆)",
+		"thinking": "アリストテレスは「フィリア（友愛）」を、人生における最も必要なものの一つと見なしました。そこには激しい情熱（パッション）はありませんが、代わりに深い「了解（アンダースタンディング）」があります。あなたが誰かと「フィリア」で繋がるとき、あなたは相手を「利用」するのではなく、相手の「幸せ（エウダイモニア）」を自らの幸せとして、共に歩み始めるのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "暖かいお茶を、沈黙の中で分け合うような安らぎ。何も言わなくても、自分と世界を繋ぐ「透明な糸」がそこにあるという、揺るぎない確信。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "bhilo-",
+					"meaning": "dear / friend"
+				}
+			],
+			"points": [
+				"Philosophy（知を愛すること）の phil- です。知恵とは、戦う相手ではなく、一生を共にする『友』なのです。"
+			]
+		}
+	},
+	{
+		"id": "storge",
+		"word": "Storge",
+		"meaning": "家族愛、本能的な情愛、慈しみ",
+		"era": "Ancient Greek Psychology",
+		"etymology": {
+			"original_statement": "From Greek storge 'affection / natural love / especially of parents for children'."
+		},
+		"concept": "The natural shelter (理由や条件を必要とせず、ただ「そこに在る」だけで守り、包み込む、血と生命の「本能（インスタンクト）」に根ざした絶対的な慈悲)",
+		"thinking": "「ストルゲー（家族愛）」は、あなたが努力して手に入れるものではありません。それは、あなたがこの世に生を受けた瞬間に、すでにそこに用意されていた「最初のサンクチュアリ（聖域）」。親が子を想い、子が親を慕うという、種としての自然な「重力（ルール）」。それは、私たちが孤独という宇宙に放り出されるのを、無言で引き止めている、命の「固定具（アンカー）」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "幼い頃の、陽だまりのような記憶。理由なく愛され、ただそこに居るだけで許されていた、あの甘美な「無条件」の抱擁（ほうきょう）。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sterg-",
+					"meaning": "to love / cherish"
+				}
+			],
+			"points": [
+				"愛の四つの形（Agape, Eros, Philia, Storge）の中で、最も『土着的で、原始的な』安心感を司ります。"
+			]
+		}
+	},
+	{
+		"id": "hamartia",
+		"word": "Hamartia",
+		"meaning": "悲劇的な過ち、的外れ、致命的な弱点、原罪",
+		"era": "Aristotelian Poetics",
+		"etymology": {
+			"original_statement": "From Greek hamartia 'error of judgment / tragic flaw', from hamartanein 'to miss the mark'."
+		},
+		"concept": "Missing the mark (悪気（あくい）があるわけではなく、ただ自分の「視力」や「運命」の限界ゆえに、真実という名の「的中地点」をわずかに「外して(hamarta-)」しまう、人間の根源的な弱さ)",
+		"thinking": "その言葉のルーツは「矢が的を外れること」にあります。どれほど崇高な理想（イデア）を掲げていても、私たちは人間であるというだけで、どこか決定的な場所で「間違い」を犯します。しかし、アリストテレスによれば、その「過ち（ハマルティア）」こそが、私たちの物語を「悲劇（ドラマ）」へと昇華させ、他者の共感（カタルシス）を呼ぶ、最も人間らしい欠陥なのです。的外れであることは、あなたが「挑んでいる」ことの証しでもあります。",
+		"part_of_speech": "noun",
+		"aftertaste": "放たれた矢が、あと数センチのところで標的に届かなかった時の、あの止まった一瞬の沈黙。自分の無力さを知り、同時に、それでも「射た」という事実への震えるような畏怖（いふ）。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "amartia",
+					"meaning": "to fail / miss"
+				}
+			],
+			"points": [
+				"新約聖書では『罪（Sin）』の訳語として使われました。罪とは、神という的から『外れている』状態を指すのです。"
+			]
+		}
+	},
+	{
+		"id": "peripeteia",
+		"word": "Peripeteia",
+		"meaning": "運命の急転、暗転、反転、どんでん返し",
+		"era": "Aristotelian Poetics",
+		"etymology": {
+			"components": [
+				"peri- (around)",
+				"piptein (to fall)"
+			],
+			"original_statement": "From Greek peripeteia 'a sudden change of fortune', from peripites 'falling around'."
+		},
+		"concept": "The falling around (これまでの幸運や秩序が、一瞬の「出来事」によって「ぐるりと(peri-)」「崩れ落ち(pip-)」、世界が全く逆の相貌（かたち）で現れる、残酷で美しい反転)",
+		"thinking": "「ペリペティア（急転）」は、あなたの人生という名の「映画」が、最もドラマチックに動く瞬間です。最高の絶頂から、奈落の底（ナディール）へ。あるいは、絶望の中から一筋の光が差すとき。それは、宇宙の「重力（ルール）」が不意に書き換えられる、知性の限界点。私たちはその「反転」の瞬間に立ち会うことで、運命の巨大さと、それに耐えうる自分の魂の「弾力（レジリエンス）」を知るのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "足元の大地が突如として反転し、空を歩いているような、あるいは。昨日までの「敵」が最高の「味方」に見えてしまうような、あの眩暈（めまい）に似た戦慄。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "peri-",
+					"meaning": "around"
+				},
+				{
+					"term": "pet-",
+					"meaning": "to fly / fall"
+				}
+			],
+			"points": [
+				"Petal（花びら／舞い落ちるもの）と同じ root。運命の急転もまた、花が散るような自然の摂理の一部なのです。"
+			]
+		}
+	},
+	{
+		"id": "chronos",
+		"word": "Chronos",
+		"meaning": "物理的な時間、不可逆な時の流れ、時神",
+		"era": "Ancient Greek Mythology",
+		"etymology": {
+			"original_statement": "From Greek khronos 'time', personified as the titan of time."
+		},
+		"concept": "The devouring duration (すべてを呑（の）み込み、磨り潰し、絶え間なく未来へと押し流していく、逃げ場のない「時計の針」に刻まれた、量的な連続性)",
+		"thinking": "カイロス（意味ある瞬間）に対し、クロノスは「ただ過ぎ行く残酷な時間」を指します。それは誕生から死へと、私たちを無慈悲に運び去る流れ。しかし、クロノスがあるからこそ、私たちはこの一瞬の「儚さ（エフェメラル）」を愛おしみ、限られた命の中に「不滅（エターナル）」な価値を刻もうとするのです。時間は、命という名の「財産」を削り出す、最も峻烈な芸術家（アーチスト）なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "砂時計の砂がサラサラと落ち、二度とは戻らない「今日」という名の砂粒が積もっていく、あの冷ややかで、しかし確かな「充足」の感覚。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ghere-",
+					"meaning": "to grasp / enclose / hold"
+				}
+			],
+			"points": [
+				"Chronicle（年代記）や Synchronicity（同期）の親。すべてを『繋ぎ止める』鎖としての時間を意味します。"
+			]
+		}
+	},
+	{
+		"id": "aeon",
+		"word": "Aeon",
+		"meaning": "永劫（えいごう）、永遠、一時代、悠久の時",
+		"era": "Ancient Greek Philosophy / Gnosticism",
+		"etymology": {
+			"original_statement": "From Greek aion 'age / vital force / period of existence / eternity'."
+		},
+		"concept": "The vital eternity (クロノスのような「直線」ではなく、命の循環（サイクル）そのものが宇宙全体として継続している、巨大で「生命力（バイタル）」に満ちた、永劫の連なり)",
+		"thinking": "「アイオーン（永劫）」は、ただの「長い時間」ではありません。それは、個人の一生を超えて、宇宙という名の「一つの存在」が呼吸し続けている、その「リズム」そのものを指します。あなたが夜空の星を見上げたとき、そこに流れているのがアイオーンです。それは、あなたが死んだ後も、世界が美しく在り続けるという、残酷で聖なる「保証」のような言葉なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "数万年前の地層に触れ、自分の「今」という一瞬が、その巨大な歴史の一点として正しく配置されていることに気づいた時の、あの謙虚な充足。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "aiw-",
+					"meaning": "vital force / life / long time"
+				}
+			],
+			"points": [
+				"Ever（常に）や Age（時代）と同じ PIE root を持ち、命の『生命力』そのものを時間として換算した言葉です。"
+			]
+		}
+	},
+	{
+		"id": "agnoia",
+		"word": "Agnoia",
+		"meaning": "無知、精神的な暗闇、知らないことへの苦しみ",
+		"era": "Ancient Greek Philosophy / Gnosticism",
+		"etymology": {
+			"components": [
+				"a- (not)",
+				"gnoia (knowledge / gnosis)"
+			],
+			"original_statement": "From Greek agnoia 'ignorance', from a- 'not' + gignōskein 'to know'."
+		},
+		"concept": "The cloud of unknowing (単なる情報の欠如ではなく、自分の本質や世界という名の「光」が見えないために、不安と迷いの中を彷徨（さまよ）っている、魂の「盲目」の状態)",
+		"thinking": "ソクラテスは「無知の知」を説きましたが、このアグノイアは「知らされていない（隠されている）」ことによる、本能的な「恐怖」に近い言葉です。暗闇の中で手探りをするように、私たちはアグノイアという霧の中を歩いています。しかし、その「知らない」という痛烈な自覚こそが、真理（グノーシス）を求めるための、最も強力な「渇き（パッション）」となるのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "自分がどこに居るのか、何者なのか、すべてが不透明な中で、ただ心臓の鼓動（ビート）だけが響いている、あの峻烈な孤独と期待。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "gno-",
+					"meaning": "to know"
+				}
+			],
+			"points": [
+				"Agnostic（不可知論者）と同根。真理とは、まず『自分は知らない』と認める場所からしか始まらないことを示しています。"
+			]
+		}
+	},
+	{
+		"id": "agnosis",
+		"word": "Agnosis",
+		"meaning": "不可知、知識を超えた状態、言語を絶した理解",
+		"era": "Mystical Theology / Pseudo-Dionysius",
+		"etymology": {
+			"components": [
+				"a- (beyond / not)",
+				"gnosis (knowledge)"
+			],
+			"original_statement": "From Greek agnosia 'ignorance / state of non-knowing'."
+		},
+		"concept": "The super-conscious dark (分析（アナリシス）や定義といった、人間の低い「知（グノーシス）」をあえて「超えて(a-)」、もっと巨大な「沈黙の真理」に触れるための、高次の無知)",
+		"thinking": "アグノイア（無知）が「欠落」を意味するなら、アグノーシス（不可知）は「過剰」を意味します。あまりにも眩（まぶ）しい光を見ると目が眩んで何も見えなくなるように、真理が巨大すぎるとき、私たちは「分からない」という形で、それを最も深く「知る」ことになります。言葉を捨て、ただその「不可思議（ミステリー）」の前に跪（ひざまず）くこと。それが最高の英知（ソフィア）なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "すべての問いが消え、ただ宇宙という名の「巨大な沈黙」と自分が見つめ合っている、あの透明で絶対的な「無の声」。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "gno-",
+					"meaning": "to know"
+				}
+			],
+			"points": [
+				"Atheism（無神論）と同じ接頭辞を持ちながら、実は『神聖なるものへの最も近い到達』を指すという、逆説的な言葉です。"
+			]
+		}
+	},
+	{
+		"id": "gnothi_seauton",
+		"word": "Gnothi Seauton",
+		"meaning": "汝自身を知れ、自己認識、自己への帰還",
+		"era": "Delphic Maxims (Ancient Greece)",
+		"etymology": {
+			"original_statement": "Greek gnothi seauton, 'know thyself', inscribed on the temple of Apollo at Delphi."
+		},
+		"concept": "The inward gaze (外側の世界を測定（メジャー）するよりも先に、自分の内なる深淵を覗（のぞ）き込み、自分の「限界」と「神聖さ」を同時に発見するための、最も困難な旅)",
+		"thinking": "デルフォイの神託所に刻まれたこの一言は、知性の「アルファでありオメガ（始まりであり終わり）」です。あなたが自分を知るとき、それは「自分の欠点（ハマルティア）」を認めることであり、同時に「自分の中に宿る神性（ロゴス）」を肯定することでもあります。自分という名の「ラビリンス（迷宮）」を歩き抜き、その中心にいる「本来の自分」に出会うこと。それこそが、唯一の真の「自由（フリーダム）」なのです。",
+		"part_of_speech": "phrase",
+		"aftertaste": "鏡の中に、自分でも知らなかった「もう一人の自分」の眼差しを見つけた瞬間の、あの背筋が凍るような、しかし絶対的な「帰郷」の安堵感。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "gno-",
+					"meaning": "to know"
+				},
+				{
+					"term": "se-",
+					"meaning": "oneself"
+				}
+			],
+			"points": [
+				"Seauton の aut- は Automatic（自動の）と同じ『自ら』。誰に教わるでもなく、自らを発見することを命じています。"
+			]
+		}
+	},
+	{
+		"id": "kalos_kagathos",
+		"word": "Kalos Kagathos",
+		"meaning": "善にして美なるもの、理想的人間像、調和した美徳",
+		"era": "Ancient Greek Ethical Ideal",
+		"etymology": {
+			"original_statement": "From Greek kalos kai agathos 'beautiful and good'."
+		},
+		"concept": "Synthesized beauty (外面の「美（カロス）」と、内面の「善（アガトス）」が、一分一厘の隙もなく高い次元で「統合（シンセシス）」されている、生命（いのち）の最高形態)",
+		"thinking": "古代ギリシャにおいて、「美しさ」と「正しさ」は同じコインの裏表でした。「カロス・カガトス」な存在。それは、その人の立ち振る舞い（エトス）が美しければ、その心もまた、澄み渡る「青（セレステ）」のように善（ぜん）であるという、絶対的な調和への信頼。あなたが自分を磨（みが）き、その生き方が「芸術（アート）」となったとき、そこにはじめて真の「善（ぜん）」が宿るのです。",
+		"part_of_speech": "phrase / noun",
+		"aftertaste": "ギリシャ彫刻の、あの完璧な筋肉の均衡（バランス）と、そこから滲み出る「知的な静寂」。美しさは、それ自体が一つの「教訓（ロゴス）」である、という驚嘆。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kal-",
+					"meaning": "beautiful"
+				},
+				{
+					"term": "agath-",
+					"meaning": "good"
+				}
+			],
+			"points": [
+				"日本語の『清し（すがし）』という語感が、この美と善の未分化な状態に最も近いかもしれません。"
+			]
+		}
+	},
+	{
+		"id": "pleroma",
+		"word": "Pleroma",
+		"meaning": "充満、完全なる満たし、神聖なる全域",
+		"era": "Gnosticism / New Testament",
+		"etymology": {
+			"original_statement": "From Greek pleroma 'that which fills / fullness / completion', from pleres 'full'."
+		},
+		"concept": "The saturated void (「空（から）」の逆。空間の中に意味や知性（智慧）が「一滴の隙間もなく」満ち溢（あふ）れ、宇宙全体が一つの「巨大な完成」として拍動（ビート）している状態)",
+		"thinking": "「プレローマ（充満）」は、あなたが最高度の幸福（エウダイモニア）に達したとき、あなたの心という「器」が、宇宙という名の「愛（アガペー）」によってギリギリまで満たされ、もはや外側には何も必要としない状態を指します。そこは、欠落（ラビリンス）が癒（い）やされ、すべてが「在る（オン）」という一一点に収束した、光り輝く静止地点なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "グラスから溢れ出す寸前の水の表面張力のような、張り詰めた、しかし輝かしい「充足」。もう何も言わなくていいという、究極の「終わり」と「始まり」の感覚。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "pele-",
+					"meaning": "to fill"
+				}
+			],
+			"points": [
+				"Plenty（豊富）や Full（満ちた）と同根。量ではなく『質による完全充填』を意味します。"
+			]
+		}
+	},
+	{
+		"id": "dyad",
+		"word": "Dyad",
+		"meaning": "二、対、対立する二者、二進法的基础",
+		"era": "Pythagorean Philosophy",
+		"etymology": {
+			"original_statement": "From Greek dyas 'two / pair', from dyo 'two'."
+		},
+		"concept": "The mirror of birth (モナド（一）という孤独な絶対から、初めて「他者」が現れた瞬間の震え。対話（ダイアローグ）、鏡像（ミラー）、そして「葛藤（コンフリクト）」の始まり)",
+		"thinking": "ピタゴラス主義において、数字の「二」は、静止していた宇宙が「動き」始めた瞬間を象徴します。自分以外の「誰か（ユウ）」を認めること。そこには「愛」が生まれると同時に、「区別」という名の残酷な境界も生まれます。「ダイアド（二）」は、私たちが孤独を脱し、他者と手を繋（つな）ぐための、美しくて痛々しい「最初の分裂」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "二つの目が、一つのものを見つめることで「奥行き（パースペクティブ）」が生まれる、あの立体的な覚醒。一人では決して見られなかった「影」の発見。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "dwo-",
+					"meaning": "two"
+				}
+			],
+			"points": [
+				"Duel（決闘）と Dual（二重の）は同じルーツ。二つであることは常に、対話と戦いの両面を孕みます。"
+			]
+		}
+	},
+	{
+		"id": "triad",
+		"word": "Triad",
+		"meaning": "三、三つ組、三和音、安定した結合",
+		"era": "Pythagorean Philosophy",
+		"etymology": {
+			"original_statement": "From Greek trias 'the number three', from treis 'three'."
+		},
+		"concept": "The bridge of peace (「私（一）」と「あなた（二）」の対立を包み込み、調和させるための「第三の視点」。不安定な天秤を不動の「三角形」へと昇華させる、最初の「安定」)",
+		"thinking": "「二」が葛藤（コンフリクト）なら、「三」は解決（レゾリューション）です。父と母から子が生まれるように、過去と現在が未来へと結ばれるように。「トライアド（三）」は、バラバラだった要素を一つの「意味（ロゴス）」へと統合する、宇宙の「接着剤」です。あなたが自分の人生に「三本目の柱」を立てたとき、あなたの世界は、初めて揺るぎない「構造（ストラクチャー）」を獲得するのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "三つの音が重なり、一つの濁りのない「和音（コード）」となって空間を満たした瞬間の、あの天上のハーモニーに包まれる感覚。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "trei-",
+					"meaning": "three"
+				}
+			],
+			"points": [
+				"Trinity（三位一体）の原型。三つ揃うことで初めて、事象は『完成の予感』を帯びるのです。"
+			]
+		}
+	},
+	{
+		"id": "tetrad",
+		"word": "Tetrad",
+		"meaning": "四、四人組、四元素、大地の安定",
+		"era": "Pythagorean Philosophy",
+		"etymology": {
+			"original_statement": "From Greek tetras 'the number four', from tessares 'four'."
+		},
+		"concept": "The anchor of reality (天の「三」を、地上の「四（東西南北、春夏秋冬）」へと降ろし、実体としての「確固たる形」を与えた、最も重厚で実務的な「完成」)",
+		"thinking": "ピタゴラスたちは「四（テトラド）」を、正義（ジャスティス）のシンボルと見なしました。四本の足で立つ机、あるいは、四つの角を持つ「広場（アゴラ）」。それは、理想（イデア）が空想に終わらず、この現実（マテリアル）の中で正しく「機能」するための最小単位です。あなたが「テトラド（四）」の視点を持つとき、あなたはもはや迷いの中の点ではなく、この広大な地上における「地図（マップ）」の基準点となるのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "四角い石畳の上に立ち、自分が東西南北という「十字（クロス）」の中心に居ることを確信する、あのズシリとした「存在の安定感」。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kwetwer-",
+					"meaning": "four"
+				}
+			],
+			"points": [
+				"Square（四角形）や Quarter（四分の一）の親。世界を『分割し、整理する』ための知性の道具です。"
+			]
+		}
+	},
+	{
+		"id": "decad",
+		"word": "Decad",
+		"meaning": "十、十個一組、完結したサイクル、テトラクテュス",
+		"era": "Pythagorean Philosophy",
+		"etymology": {
+			"original_statement": "From Greek dekas 'the number ten', from deka 'ten'."
+		},
+		"concept": "The cosmic return (１＋２＋３＋４の和として、一から四までの「すべての理」を包含し、再び新しい「一」へと回帰するための、壮大で完璧な「終着駅（セントラル）」)",
+		"thinking": "ピタゴラス教団にとって「十（デカド）」は、宇宙の神聖な暗号（テトラクテュス）そのものでした。それは、すべての多様性が一つの「秩序（コスモス）」へと収束した、知性の限界点。あなたが何かの探求を「十（デカド）」まで成し遂げたとき、あなたは一つの宇宙を知り、そして再び「無（ゼロ）」、あるいは「一（モナド）」という、新しくも懐かしい「始まり」の場所へと戻る権利を得るのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "パズルの最後のピースがハマり。１から９までの紆余曲折が、この「１０」において、一つの巨大な「意味」へと反転した瞬間の、あの圧倒的な快感（カタルシス）。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "dekm-",
+					"meaning": "ten"
+				}
+			],
+			"points": [
+				"Decade（十年）や Decimal（十進法）と同根。指が十本あるという『身体の限界』が、そのまま宇宙の『完成』の数となったのです。"
+			]
+		}
 	}
 ];
