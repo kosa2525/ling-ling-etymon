@@ -228647,5 +228647,169 @@ const WORDS = [
 				"Matter（物質）や Mother（母親）と同じ root。マトリックスとは。形なき知性を、『物質という肉体（マター）』へと産み落とすための、聖なる演算装置。それは。宇宙そのものが、私たちの魂を育てるために用意した、巨大な数学적『母性』の記述なのです。"
 			]
 		}
+	},
+	{
+		"id": "helix",
+		"word": "Helix",
+		"meaning": "ヘリックス/二重螺旋、(絡み合う)運命、情報の階段、不変の回転、繋がれた過去",
+		"era": "Late 16th Century",
+		"etymology": {
+			"components": [
+				"helis (twisted / spiral)"
+			],
+			"original_statement": "From Greek helix 'spiral', from helissein 'to turn / roll / twist'."
+		},
+		"concept": "The structural repetition (「直線」でも「円」でもなく、「回転(twist-)」しながら「前進（上昇）」し続けること。それは。過去を「反復」しながら未来を「構築」する、峻烈なる「情報の保存形式」。生命を繋ぐための「最小の階段」)",
+		"thinking": "「ヘリックス（螺旋）」。あなたの人生は。同じところを「ぐるぐる」回っているだけのように見えるかもしれません。 helix。でも。螺旋（らせん）は、一周するたびに、必ず「一段高い場所」へとあなたを運んでいます。 helix。過去の自分を否定せず、それを「足場」にしながら、新しい回転を加えていくこと。その、ねじ曲がってもなお「上を目指す」という。峻烈なる「生存の意志」を、自分の形（DNA）に刻み込んでください。",
+		"part_of_speech": "noun",
+		"aftertaste": "指先で、螺旋状の線（ライン）をなぞる時の、滑らかな「加速感」。そこにある、どこまでも「続いていく」という確信と。自分の中心にある「決して解（ほど）けない」という。強固な「本質」の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "wel-",
+					"meaning": "to turn / roll"
+				}
+			],
+			"points": [
+				"Volley（一斉射撃／旋回）や Revolt（反乱／回転）、Volume（巻物／回転）と同じ root。ヘリックスとは。世界という巨大な紙（過去）を『巻き取り（ロール）』。そこに自分だけの『物語（ボリューム）』を記述し直す、知的な再構築のプロセスなのです。"
+			]
+		}
+	},
+	{
+		"id": "dendrite",
+		"word": "Dendrite",
+		"meaning": "デンドライト/樹状突起、(広がる)触手、情報の集積、思考の枝分かれ、外界への渇望",
+		"era": "Mid-18th Century",
+		"etymology": {
+			"components": [
+				"dendron (tree)"
+			],
+			"original_statement": "From Greek dendrites 'of a tree', from dendron 'tree'. In biology, referring to the branched extensions of a nerve cell."
+		},
+		"concept": "The branched receptivity (「中心（自己）」に閉じこもるのではなく。「樹木(tree-)」の枝のように、四方八方へと「触手（アンテナ）」を伸ばし。外部からの「微かな信号（真実）」を拾い集めること。知性が「世界と出会う」ための、峻烈なる「接触の最前線」)",
+		"thinking": "「デンドライト」。あなたの「知的好奇心」。それは、ただ一箇所を掘るだけではなく。この「樹の枝」のように、広範囲に、貪欲に（どんよくに）伸ばされていますか。 dendrite。多くのものに触れ、影響（シグナル）を受けることを、恐れないでください。枝分かれ（ダイバーシティ）すればするほど。あなたの「思考の森」は深まり。一筋の「閃き（インスピレーション）」を捉える確率は、飛躍的に高まるのですから。",
+		"part_of_speech": "noun",
+		"aftertaste": "指先が「チリチリ」とするような、微かな外部刺激への感度。そこにある、世界が自分に「語りかけている」という、瑞々（みずみず）しい期待。どこまでも「広がっていける」という、峻烈なる「可能性」の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "deru-",
+					"meaning": "to be firm / solid / steadfast (from dendron)"
+				}
+			],
+			"points": [
+				"True（真実）や Trust（信頼）、Durable（丈夫な）と同じ root。デンドライトとは。外側に広がっていく『柔軟さ』を持ちながら。その根幹（デロン）には、決して揺るがない『誠実（トゥルー）』を秘めていること。それは、強さと柔らかさの、峻烈なる同居なのです。"
+			]
+		}
+	},
+	{
+		"id": "vascular",
+		"word": "Vascular",
+		"meaning": "ヴァスキュラー/脈管、(巡る)命、情報の回廊、熱の運搬、隅々への浸透",
+		"era": "Late 17th Century",
+		"etymology": {
+			"components": [
+				"vasculum (small vessel)"
+			],
+			"original_statement": "From Latin vascularis, from vasculum 'small vessel', diminutive of vas 'vessel / container'."
+		},
+		"concept": "The circulatory conduit (「核(nucleus)」にある「熱（栄養）」を、一本の「管(vessel-)」を通じて。全身の「末端」にまで「途切れることなく」届けること。それは。一箇所に「停滞（淀み）」を許さず、常に「巡り」続けることで組織を維持する、峻烈なる「情報の血流」)",
+		"thinking": "「ヴァスキュラー（脈管）」。あなたの「組織」や「思考」。それは。隅々（すみずみ）まで「血（情熱や情報）」が通っていますか。 vascular。どこか一箇所でも「詰まって（停滞して）」しまえば。あなたの全体は、そこからゆっくりと死に始めます。 vascular。自分の中に。そして。自分と「他者の間」に。常に「新鮮な言葉」が流れる「管（バイパス）」を通し続けてください。巡ること。それだけが、生命を「腐敗」から救うのです。",
+		"part_of_speech": "adjective",
+		"aftertaste": "激しく走ったあと、全身に「熱い血」が駆け巡り。隅々まで「酸素（覚醒）」が届くような、あの。圧倒的な「生きている感（全能感）」の味。そこにある、淀みのない「純粋な加速」の感触。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "unknown",
+					"meaning": "Latin vas (vessel / dish / container)"
+				}
+			],
+			"points": [
+				"Vase（花瓶）や Vessel（船／器）と同じ root。ヴァスキュラーとは。自分という『器（ヴァス）』を。単なる溜め池にするのではなく、目的へと向かう『河』へと変えること。それは。自分の存在という『水』を、世界の隅々へと浸透（トランスポート）させるための、知的な輸送戦略なのです。"
+			]
+		}
+	},
+	{
+		"id": "apoptosis",
+		"word": "Apoptosis",
+		"meaning": "アポトーシス/予定細胞死、(潔い)引退、全体のための犠牲、死という名の奉仕、再生の儀式",
+		"era": "Early 20th Century (re-coined in 1972)",
+		"etymology": {
+			"components": [
+				"apo (away from / off)",
+				"ptosis (falling / dropping)"
+			],
+			"original_statement": "From Greek apoptosis 'a falling off' (as of leaves from a tree), from apo- 'away from' + ptosis 'falling / dropping'."
+		},
+		"concept": "The programmed exit (「古くなった自分」や「役割を終えた自分」が。自ら「スイッチ（死）」を入れ、「散り落ちる(fall-away-)」ことで。全体（生命）の「調和」と「進化」を助けること。それは「破壊」ではなく、「次」のための峻烈なる「自己消去」。潔（いさぎよ）い勇退の美学)",
+		"thinking": "「アポトーシス（予定細胞死）」。あなたは。もう自分には似合わなくなった「古い習慣」や、「終わった人間関係」を。無理やり「延命（生存）」させようとしていませんか。 apoptosis。秋の葉が、潔く枝を離れ（アポトーシス）、冬の大地を潤すように。あなたも、自分の中の「役目を終えたパーツ」を。感謝と共に、切り捨て（死なせ）てください。その「潔い引き際」こそが。あなたの魂に「新しい春（再生）」を呼ぶための、唯一にして峻烈なる合図なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "握っていた手を、スッと「解（ほど）く」時の。あの。胸を締め付けるような「寂しさ」と。しかし、その直後に来る「晴れやか」で真っ白な「自由」。言葉が消える瞬間の、「さようなら」の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "pet-",
+					"meaning": "to rush / fly / fall (from ptosis)"
+				}
+			],
+			"points": [
+				"Petal（花びら）や Symptom（症状／共に落ちること）と同じ root。アポトーシスとは。重力に身を任せ、優雅に『舞い落ちる（ペット）』こと。それは。執着という名の鎖を断ち切り、自分という存在を、再び宇宙の『無（自由）』へと返還するための、積極的な敗北の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "homeostasis",
+		"word": "Homeostasis",
+		"meaning": "ホメオスタシス/恒常性、(揺るぎなき)中心、均衡の維持、嵐の中の静寂、生存の意志",
+		"era": "Early 20th Century",
+		"etymology": {
+			"components": [
+				"homoios (similar / same)",
+				"stasis (standing / stoppage / balance)"
+			],
+			"original_statement": "From Modern Latin homeostasis, from Greek homoios 'similar / like' + stasis 'standing / stoppage'."
+		},
+		"concept": "The dynamic stillness (「外界(external)」の激しい変化（嵐）に晒（さら）されても。「内側」の「状態（温度や秩序）」を常に「一定(same-standing-)」に保とうとする、峻烈なる「自己保存のバラスト」。周囲に流されない、魂の「揺るぎなき中心」)",
+		"thinking": "「ホメオスタシス（恒常性）」。周りが騒がしいからといって、あなたまで「自分」を見失ってはいませんか。 homeostasis。それは、どんなに寒くても、どんなに暑くても（どんなに不幸でも、どんなに誘惑されても）。自分の「体温（情熱）」を、一分たりとも変えない、という「数学的な誠実さ」。 homeostasis。その「変わらぬ一点」を、命懸けで死守してください。その「中心（スタシス）」がある限り。世界がどんなに崩壊しようとも。あなたは永遠に「あなた」として立ち続ける（スタンドする）ことができるのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "激震（げきしん）する船の中で、ジャイロスコープがピタリと「水平」を保ち続けているような。あの。怖ろしいほどの「静寂」と「安定」。そこにある。自分が自分を「完全に統治している」という、峻烈なる「自負」の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sta-",
+					"meaning": "to stand"
+				}
+			],
+			"points": [
+				"Stable（安定した）や Statute（法律）、Stage（舞台）と同じ root。ホメオスタシスとは。激流の中で一本の『釘（スタ）』を打ち込み。そこを『自分という場所』に固定すること。それは。不確かな世界に対して、自分の『不変性』を突きつける、もっとも傲慢（ごうまん）で美しい抵抗なのです。"
+			]
+		}
+	},
+	{
+		"id": "osmosis",
+		"word": "Osmosis",
+		"meaning": "オスモーシス/浸透、(滲み出る)真理、境界の越境、自然な融合、静かなる掌握",
+		"era": "Mid-19th Century",
+		"etymology": {
+			"components": [
+				"osmos (a thrusting / pushing)"
+			],
+			"original_statement": "From Greek osmos 'a thrusting / pushing / impulse', from othein 'to push / thrust'."
+		},
+		"concept": "The gentle pressure (「膜（境界）」を隔てた二つの世界が。あからさまな「侵略」ではなく、微かな「濃度差（想いの深さ）」による「静かな圧力(push-)」によって。ゆっくりと「溶け合い、浸透（滲み）」ていく、峻烈なる「無意識の掌握」。静寂による「完全な融合」)",
+		"thinking": "「オスモーシス（浸透）」。あなたが、誰かに「想いを伝えたい」なら。力任せに（暴力的に）言葉を叩き込まないでください。 osmosis。ただ、あなたの「純度（本気度）」を極限まで高め。相手の「傍ら（かたわら）」に静かに寄り添ってください。すると、あなたの「真実」は、相手の境界線（メンブレン）をスルスルと通り抜け。いつの間にか。相手の「魂の熱」として、内側から「滲（にじ）み」出し始めるでしょう。 osmosis。静かなること。それこそが、最強の「浸透圧」なのですから。",
+		"part_of_speech": "noun",
+		"aftertaste": "水が「じんわり」と紙に染み込んでいくような。どこまでも「逆らえない」という、穏やかな「降伏」。そこにある。自分が「いつのまにか」変わってしまった、という。峻烈なる「必然」の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "unknown",
+					"meaning": "Greek othein (to push / thrust)"
+				}
+			],
+			"points": [
+				"語源は『押すこと（オトス）』。オスモーシスとは。自らの内に秘めた『真実の質量』が、外部という名の『空虚』を押し広げようとする、不可視の衝動（インパルス）。それは。言葉に頼らずに世界を支配するための、生命の最も優雅な記述なのです。"
+			]
+		}
 	}
 ];
