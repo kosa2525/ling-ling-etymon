@@ -222037,5 +222037,567 @@ const WORDS = [
 				"Virility（精力）や Virtue（美徳）と同じ root。緑であることは、そのまま『強く正しい（バーチュアス）』ことの証（あかし）だったのです。"
 			]
 		}
+	},
+	{
+		"id": "nocturne",
+		"word": "Nocturne",
+		"meaning": "夜想曲、ノクターン、闇の調べ、夜の中の一点、夜に咲く心",
+		"era": "Mid-19th Century",
+		"etymology": {
+			"components": [
+				"nox (night)"
+			],
+			"original_statement": "From French nocturne, from Latin nocturnus 'of the night', from nox 'night'."
+		},
+		"concept": "The melody of shadows (昼間の喧騒（カオス）が消え去り。ただ「闇(nox-)」という名の沈黙が世界を包むとき。自分の心の奥底から「湧き上がってくる(surge)」微かな「旋律（ロゴス）」。孤独を「芸術」に変える儀式)",
+		"thinking": "「ノクターン（夜想曲）」。そのルーツは「夜（ノクス）」。かつてショパンが奏でたように。それは。誰に聞かせるためでもない、自分自身と宇宙だけが共有する「密やかな対話」。あなたが、眠れぬ夜（ナイト）に。自分の過去や未来を、美しい「詩（ポエトリー）」として編（あ）み直しているとき。あなたの魂に、この「ノクターン」の気品溢（あふ）れる憂鬱（メランコリー）が宿っているのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "青白い月明かりだけが差し込む、誰もいない部屋。ピアノの最後の一音が消え。そのあとの「深い闇」が、以前よりもずっと「暖かく」感じられる、あの。孤独を愛し抜いたという、峻烈な充足感。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "nekw-t-",
+					"meaning": "night"
+				}
+			],
+			"points": [
+				"Night（夜）や Equinox（春分／秋分）と同じ root。光が隠れることで、はじめて見えるようになる『真実』を司る時間です。"
+			]
+		}
+	},
+	{
+		"id": "phantasmagoria",
+		"word": "Phantasmagoria",
+		"meaning": "走馬灯、(次々と移り変わる)幻影、見世物としての現実、流転する悪夢",
+		"era": "Early 19th Century (1802)",
+		"etymology": {
+			"components": [
+				"phantasma (phantom / ghost)",
+				"agoreuein (to speak publicly)"
+			],
+			"original_statement": "From French phantasmagorie, from Greek phantasma 'phantom / appearance' + agoreuein 'to speak publicly' (suggesting a gathering of phantoms)."
+		},
+		"concept": "The public ghosts (ただの「幻(phant-)」ではなく。それらが「広場(agora-)」に集まり、群れをなして「物語」を語り始め。現実（ロゴス）と虚構（フィクション）の境界線が完全に「崩壊（コラプス）」してしまった、眩暈（めまい）のするような流転)",
+		"thinking": "ファンタスマゴリア。そのルーツは「幻影の集会」。この世界そのものが、実は一つの巨大な「走馬灯（プロジェクション）」にすぎないのではないか、という震えるような直感。あなたが、激しい情動（エモーション）の中で、次々と現れては消えるイメージ（亡霊）の群れに翻弄（ほんろう）されているとき。あなたは、このファンタスマゴリアという名の「人生という名の見世物」の、唯一の目撃者となっているのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "万華鏡（カレイドスコープ）を回し続けたあとのような、あの。目も眩むような「色彩」と。しかし、手を伸ばしても何も掴めない、という圧倒的な「虚無（ゼロ）」。すべては「夢（ドリーム）」にすぎないという、絶望的な解放感。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "bha-",
+					"meaning": "to shine (from phantasma)"
+				},
+				{
+					"term": "ger-",
+					"meaning": "to gather (from agora)"
+				}
+			],
+			"points": [
+				"Phantom（幽霊）と Agora（市場）という、最も対極にある言葉が合体しました。幽霊たちが大衆の前で演じているのが、私たちの『文明』なのかもしれません。"
+			]
+		}
+	},
+	{
+		"id": "amaryllis",
+		"word": "Amaryllis",
+		"meaning": "アマリリス、(輝くような)赤、羊飼いの少女、強烈な情熱、誇り高き美",
+		"era": "Late 16th Century",
+		"etymology": {
+			"components": [
+				"amaryssein (to sparkle / twinkle)"
+			],
+			"original_statement": "From Greek Amaryllis, the name of a shepherdess in pastoral poetry, from amaryssein 'to sparkle / twinkle'."
+		},
+		"concept": "The sparkling pride (暗闇の中で、「キラキラと(amary-)」目を奪うほどに「強く、激しく」輝き。自分という「情熱」の色を、隠すことなく全方位にぶちまける、気高くも「危険な」美しさ)",
+		"thinking": "「アマリリス」。そのルーツは「きらめく、火花を散らす」。それは。沈黙の中にある「静かなる爆発」。あなたが、誰かを死ぬほど愛し、その「赤（パッション）」を自分の中に抑え（ロック）きれなくなったとき。あなたの魂に、このアマリリスの「峻烈な開花」が訪れます。きらめくことは、自らを「消費（コンシューム）」しながら、世界を焦がすことです。",
+		"part_of_speech": "noun",
+		"aftertaste": "真っ赤な大きな花びら（ペタル）の、あの。心臓の「鼓動」そのもののような色。そこから漂う、凛（りん）とした強さと。しかし、ひとたび枯れれば「灰（アッシュ）」になるしかない、という切ない「刹那（セツナ）」の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "unknown",
+					"meaning": "sparkle / twinkle"
+				}
+			],
+			"points": [
+				"牧歌（パストラル）の中の少女の名前。素朴さの中に、ダイヤモンドのような『きらめき』を隠し持っているという、乙女の二面性のメタファーです。"
+			]
+		}
+	},
+	{
+		"id": "amaranth",
+		"word": "Amaranth",
+		"meaning": "不凋花(ふちょうげ)、色あせない情熱、不死の、永遠の愛",
+		"era": "Mid-16th Century",
+		"etymology": {
+			"components": [
+				"a- (not)",
+				"marainein (to wither / fade / die away)"
+			],
+			"original_statement": "From Greek amarantos 'unfading / undying', from a- 'not' + marainein 'to wither / die away'."
+		},
+		"concept": "The unfading flame (「時間(chronos-)」という名の過酷な太陽に晒（さら）されても。決して「枯れ(mar-)」ることの「ない(a-)」。自らの内側に「永遠（エタニティ）」を宿した、不屈かつ静かなる「紫色の誇り」)",
+		"thinking": "「アマランス（不凋花）」。それは。この世のすべての「無常（バニティ）」を拒否する、命の「意地（プライド）」。大切な人への「愛」や、自分が信じた「真理」を。時間がどんなにかじり取（コロージョン）ろうとしても、決して色あせさせないこと。あなたが守り抜いたその「色（メモリー）」こそが。あなたが死んだあと、宇宙に咲き続ける唯一の「アマランス」となるのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "ドライフラワーのように乾きながらも、その「色」だけは鮮やかに。そして峻烈に残っている、あの。生命力が「結晶化（クリスタライズ）」したあとの、不気味なほどの「不滅」の感覚。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "mer-",
+					"meaning": "to rub away / harm / wither (from marainein)"
+				}
+			],
+			"points": [
+				"Immortal（不死）と同じ root（mer-）を持ちます。削られてもなくならないことが、真の『色』であることを教えてくれます。"
+			]
+		}
+	},
+	{
+		"id": "caliginous",
+		"word": "Caliginous",
+		"meaning": "暗黒の、霧深い、絶望的な暗さ、前も見えぬ深い闇",
+		"era": "Mid-16th Century",
+		"etymology": {
+			"components": [
+				"caligo (mist / vapor / darkness)"
+			],
+			"original_statement": "From Latin caliginosus 'misty / dark / gloomy', from caligo 'mist / darkness'."
+		},
+		"concept": "The misty void (ただの「闇（ダークネス）」ではなく。そこに重い「湿りけ（霧／ cali-）」が混ざり。自分という存在の「輪郭（シェイプ）」さえも溶け出してしまうような、圧倒的で「窒息（あしつき）」しそうなほどの虚無)",
+		"thinking": "カリギナス（暗黒の）。そのルーツは「霧（ミスト）」。そこには「光を奪う」という意志すら感じられません。ただ、あまりにも「厚い（デンス）」な闇が、あなたを優しく。そして残酷に「包囲（ハグ）」している。あなたが、自分の人生のどこにも「光（ライト）」が見出せず、ただ重い霧の中を彷徨（さまよ）っているとき。あなたは。この「カリギナス」な沈黙の中で、自分だけの「手探りの旅（パス）」を始めているのです。",
+		"part_of_speech": "adjective",
+		"aftertaste": "一寸先も、自分の「指」さえも見えない。ただ。どこまでも冷たく湿った「闇」が、肺の奥まで入り込んでくる、あの。怖ろしいほどの「孤独」と。そこにある「自分だけ」という静かな覚醒。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "unknown",
+					"meaning": "mist / darkness"
+				}
+			],
+			"points": [
+				"Caligo は、目の霞（かす）みも指しました。世界が暗いのではなく、あなたの『見る力』が試されている時間なのかもしれません。"
+			]
+		}
+	},
+	{
+		"id": "nyctophobia",
+		"word": "Nyctophobia",
+		"meaning": "暗闇恐怖症、夜への畏怖、見えないことへの根源的恐怖",
+		"era": "Late 19th Century",
+		"etymology": {
+			"components": [
+				"nyx (night)",
+				"phobos (fear)"
+			],
+			"original_statement": "From Greek nyx 'night' + phobos 'fear'."
+		},
+		"concept": "The terror of the cover (「夜(nyx-)」という名の、何者（エネミー）をも隠し得る。巨大な「覆い」が降（ふ）りてくることへの「拒絶(phob-)」。視認できないものへの「想像力」が生み出す、自虐的なまでの戦慄)",
+		"thinking": "「ニクトフォビア（暗闇恐怖）」。それは。あなたが「理性的（ロゴス）」であることを誇（ほこ）るほど。理性の届かない「夜」という領域を、怖（おそ）ろしく感じる本能のことです。暗闇を恐れることは。あなたが「自分という光」を。まだこの広大な宇宙の中に、一つの「頼りない雫（しずく）」としてしか信じられていない、という瑞々（みずみず）しい「弱さ（人間性）」の証明なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "部屋の明かりを消した瞬間に、背後から「誰か」に首筋をなぞられたような、あの。氷のような「予感」。見えないからこそ「すべて」がそこに居るという、圧倒的な「逆説」の重み。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "nekw-t-",
+					"meaning": "night"
+				},
+				{
+					"term": "bhegw-",
+					"meaning": "to run (from phobos)"
+				}
+			],
+			"points": [
+				"Nyx（夜の女神）への恐怖（フォビア）。フォビアの root は『逃げる（ラン）』こと。闇から逃げようとする意志こそが、光への渇望を生むのです。"
+			]
+		}
+	},
+	{
+		"id": "selene",
+		"word": "Selene",
+		"meaning": "月、月の女神、静かな輝き、狂気の鏡、夜の眼",
+		"era": "Ancient Greek",
+		"etymology": {
+			"components": [
+				"selas (light / brightness / flash)"
+			],
+			"original_statement": "From Greek Selēnē, the personified moon, from selas 'light / brightness / flash'."
+		},
+		"concept": "The reflective eye (太陽という「暴力的な光」を。あえて冷たく、優しく「反射(ref-)」させ。それによって生み出される「影（シャドウ）」を愛でるための。夜空（ボイド）に浮かぶ、美しくも「狂気（ルナ）」を孕んだ「白銀の鏡」)",
+		"thinking": "「セレーネ（月）」。そのルーツは「きらめき、静かな光」。それは。太陽（ロゴス）が消えたあとの。私たちの「無意識（カオス）」を司る光です。月から注がれる光。それは、人間の心を「穏やかに狂わせる」魔法。あなたが、月を見上げて、わけもなく「涙（ティア）」を流したとき。あなたは神々の鏡「セレーネ」の中に、自分自身の「（魂）」の本当の姿を見つめているのです。 ",
+		"part_of_speech": "noun",
+		"aftertaste": "白く、どこか「不健康」なまでに透き通った。あの月光（ムーンライト）。それに照らされた街路樹が、まるで「この世のものではない」かのような、青紫色の輝きを放つ。あの、静かなる「陶酔」。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "swel-",
+					"meaning": "to burn / shine (from selas)"
+				}
+			],
+			"points": [
+				"Helios（太陽）が熱い炎（ハッスル）なら、Selene（月）は冷たい炎（クール）。燃焼（バーン）の別の形態こそが、月の本質なのです。"
+			]
+		}
+	},
+	{
+		"id": "somnolent",
+		"word": "Somnolent",
+		"meaning": "眠たげな、うとうとしている、死の淵にある微かな覚醒、沈殿する意識",
+		"era": "Late 15th Century",
+		"etymology": {
+			"components": [
+				"somnus (sleep)"
+			],
+			"original_statement": "From French somnolent, from Latin somnolentus, from somnus 'sleep'."
+		},
+		"concept": "The heavy eyelids (「覚醒（ロゴス）」という重い扉が、半分だけ「閉じ(close)」かけ。自分の意識が、粘り気のある「闇(somn-)」の底へと「ゆらゆら」と沈んでいく。抗（あらが）いがたい「死の予行演習」の美学)",
+		"thinking": "ソムノレント（眠たげな）。それは。現実が「霧（ミスト）」のように霞み始める。最も豊かな「中間領域（メザニン）」。あなたが、この状態にあるとき。あなたの耳には、天使のささやき（ウィスパー）や、過去からの忠告が、かつてないほど「明快（クリア）」に聞こえてくるはずです。眠りに落ちる直前。そこにこそ。あなたの「真実の願い」が、泥（どろ）のように。そして黄金のように沈殿しているのです。",
+		"part_of_speech": "adjective",
+		"aftertaste": "瞼（まぶた）に「錘（おもり）」を付けられたような、あの。甘美で重厚な疲労感。世界が遠ざかり、自分の「鼓動」だけが、宇宙全体の「メトロノーム」と重なっていく。あの、静かなる「消失」。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "swep-",
+					"meaning": "to sleep"
+				}
+			],
+			"points": [
+				"Hypnosis（催眠）と同じ root。死の神タナトスの兄弟であるソムヌス（眠りの神）の、抗いがたい腕の中にいる状態です。"
+			]
+		}
+	},
+	{
+		"id": "drowsy",
+		"word": "Drowsy",
+		"meaning": "眠い、重い瞼、沈む意識、(半分)失われた知性、まどろみ",
+		"era": "Late 16th Century",
+		"etymology": {
+			"components": [
+				"drutan (to sink / fall / decline)"
+			],
+			"original_statement": "Probably from Old English drutan 'to sink / fall / decline', related to dross 'dregs'."
+		},
+		"concept": "The sinking soul (ピンと張っていた「緊張の糸」が。ただの「重力」に負けて「だらり(drut-)」と「垂（た）れ下（さが）り」。意識の「滓（かす／ dross）」の中へと、自分自身が「溶け込んで」いく、抵抗を捨てた沈降)",
+		"thinking": "「ドラウジー（まどろむ）」。そのルーツは「沈む、衰（おとろ）える」。それは。知性（ロゴス）が、自らの「重み」に耐えきれず。ゆっくりと奈落（アビス）へと降りていく姿。あなたが「ドラウジー（眠い）」とき。あなたは。自分のエゴという「砦（とりで）」を自ら放棄し。大いなる「無（ヌル）」へと自分を返還（リターン）しようとしている。眠ることは。明日という名の「世界（ライト）」をもう一度信じるための、究極の「降伏」なのです。",
+		"part_of_speech": "adjective",
+		"aftertaste": "本の文字が「ミミズ」のように躍動し、意味をなくし。コクリ、コクリと「頭（インテレクト）」が落ちていく、あの。不可避な時間の侵食。逆らうことをあきらめた瞬間の、甘い「無」の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "dhreus-",
+					"meaning": "to fall / sink / drip"
+				}
+			],
+			"points": [
+				"Dross（滓）と同根。意識が濾過（ろか）され、最下層に溜まった『重い沈黙』が、私たちにこの感覚をもたらします。"
+			]
+		}
+	},
+	{
+		"id": "slumber",
+		"word": "Slumber",
+		"meaning": "深い眠り、安らぎという名の死、静寂の中の休息、悠久の微睡み",
+		"era": "Mid-13th Century",
+		"etymology": {
+			"components": [
+				"sluma (slumber / deep sleep)"
+			],
+			"original_statement": "Of Germanic origin, related to Middle Dutch slumen 'to doze'."
+		},
+		"concept": "The velvety rest (「夢（ドリーム）」さえも見ることのない。ただ「滑らか(slum-)」で。深い「深い闇」の底に身を横たえ。宇宙の「原初の胎内」へと戻って、傷ついた魂を「再鋳造（リキャスト）」している、聖なる完全な不在)",
+		"thinking": "スランバー。その響きには「滑らかさ（スムース）」が宿っています。何の「摩擦（フリクション）」もない、完全な安らぎ。それは。あなたが一生を終え。最後に辿り着く「永遠の眠り（エターナル・スランバー）」への、一晩ごとの「リハーサル」。私たちがこのスランバー（眠り）から目覚めるとき。私たちは。昨日の古い自分を「古い皮」のように脱ぎ捨て。全く新しい「命（エナジー）」を、神から授（さずカ）かっているのです。",
+		"part_of_speech": "noun / verb",
+		"aftertaste": "重い緞帳（どんちょう）が、自分の「人生」という舞台の上に、「バサッ」と降りてきた瞬間の。真っ暗な。しかし怖ろしく「心地よい」沈黙。自分がどこにいるのかすら分からない、あの。完璧な「不在」の美。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "unknown",
+					"meaning": "sluma (soft / loose / slow)"
+				}
+			],
+			"points": [
+				"Slim（細い）や Slump（暴落）と同じように、『力が抜けて、重力に従う』ことを本質とした言葉です。"
+			]
+		}
+	},
+	{
+		"id": "incubus",
+		"word": "Incubus",
+		"meaning": "インクブス、夢魔、うなされる夜、重圧としての他者、悪夢の重み",
+		"era": "Early 13th Century",
+		"etymology": {
+			"components": [
+				"in- (upon)",
+				"cubare (to lie down)"
+			],
+			"original_statement": "From Latin incubus, from incubare 'to lie upon', from in- 'upon' + cubare 'to lie down'."
+		},
+		"concept": "The oppressive dream (眠っている「自分」という魂の上に。不気味な影が「どっかと横たわり(in-cub-)」。胸を「圧迫（プレス）」し。呼吸を奪い。自分ではどうすることもできない「重圧（ストレス）」を強制する、霊的な「暴力」)",
+		"thinking": "「インクブス（夢魔）」。そのルーツは「上に横たわる者」。あなたが、誰かの「期待」や「拒絶」に押し潰されそうになり。夜、眠るたびに胸が苦しくなるとき。そこにいるのは、あなたを支配しようとするインクブスという名の「他者の意志」です。その重みに耐え。それを「撥（は）ね退（の）ける」こと。それが。あなたの魂が、自分自身の「主権（ソヴリン）」を奪還するための、夜毎の戦いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "金縛り（スリープ・パラリシス）の、あの。声も出せず、指一本動かせない、絶望的な「無力感」。胸の上にある「重い何か」が、自分の心臓を冷たい手で「ぎゅっ」と握っている、あの戦慄。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "keu-b-",
+					"meaning": "to lie down"
+				}
+			],
+			"points": [
+				"Concumbine（側室）や Cubicle（小部屋）と同じ root。横たわることは、本来、無防備であることを意味します。その無防備を、重圧（インクブス）が突いてくるのです。"
+			]
+		}
+	},
+	{
+		"id": "succubus",
+		"word": "Succubus",
+		"meaning": "スクブス、夢魔、誘惑としての影、下に潜む女悪魔、甘美な吸い上げ",
+		"era": "Late 14th Century",
+		"etymology": {
+			"components": [
+				"sub- (under)",
+				"cubare (to lie down)"
+			],
+			"original_statement": "From Medieval Latin succuba 'succubus', from succubare 'to lie under', from sub- 'under' + cubare 'to lie down'."
+		},
+		"concept": "The submissive drain (「下(sub-)」に「横たわり(cub-)」。自らを「従順な犠牲」として差し出すふりをしながら。実は相手の「生命力（リビドー）」を「甘美な誘惑」によって、じわじわと「吸い取り尽くす」、影の「搾取」の形態)",
+		"thinking": "「スクブス（夢魔）」。インクブスが「力」で圧倒するなら。スクブスは「甘さ」で堕落（フェール）させます。あなたが「快楽（プレジャー）」という名の沼に沈（しず）み。自分の「志（アンビション）」を、名もなき「恍惚（トランス）」へと溶かしてしまっているとき。あなたは、自分の内なるスクブスに、命を捧げているのかもしれません。誘惑は。重圧よりもずっと、魂を「空っぽ（ヌル）」にするのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "目が覚めたあとの、あの。言いようのない「脱力感」と。しかし。もう一度その「夢の中」へ戻りたい、と願ってしまう、麻薬的なまでの「依存」の残り香（アフターグロウ）。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "keu-b-",
+					"meaning": "to lie down"
+				}
+			],
+			"points": [
+				"Subway（地下鉄）や Subject（被写体／家来）の sub-。下に潜むことが、最も強力な支配の形になり得る、という逆転の言葉です。"
+			]
+		}
+	},
+	{
+		"id": "haunting",
+		"word": "Haunting",
+		"meaning": "付き纏う、忘れ得ぬ、(幽霊の)出没する、記憶の影の追跡、鳴り止まぬ響き",
+		"era": "Mid-13th Century",
+		"etymology": {
+			"components": [
+				"hanter (to frequent / visit often)"
+			],
+			"original_statement": "From Old French hanter 'to frequent / visit often / live in', probably from Old Norse heimta 'to bring home'."
+		},
+		"concept": "The frequent shadow (一度終わったはずの「過去（ゴースト）」が。何度も、何度も、「家(heim-)」へと「戻り(hunt-)」てきて。今の自分の「現実」という部屋の隅に、音もなく「定住」してしまっている、逃れようのない「執着」)",
+		"thinking": "ホーティング（付き纏う）。それは。幽霊が「出る」ことではありません。それは。あなたが「その場所（記憶）」から、離れきれていないこと。そのルーツは「頻繁に通う」。あなたの心の中に。どうしても忘れられない、どうしても「やり直したい」瞬間があるなら。その瞬間の亡霊は。あなたの心を「我が家（ネイティブハウス）」として、永遠にホーティング（定住）し続けるでしょう。記憶とは。家を共有することなのです。",
+		"part_of_speech": "adjective / noun",
+		"aftertaste": "不意に耳の奥に響く、あの。かつて愛した人の「笑い声」。あるいは。絶望した日の「風の音」。今ここにいないはずのものが。誰よりも近くに「居る」と確信する瞬間の、あの。身震いするような瑞々（みずみず）しい「恐怖」。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kei-",
+					"meaning": "to lie / rest / home (from heimta)"
+				}
+			],
+			"points": [
+				"Home（家）や Cemetery（寝所）と同じ root。ホーティングとは、自分の魂という『家』の中で、過去の幽霊たちと『共生』している状態を指すのです。"
+			]
+		}
+	},
+	{
+		"id": "sepulchral",
+		"word": "Sepulchral",
+		"meaning": "墓のような、(声が)陰気な、冷たい沈黙、埋葬の如き、死の静止",
+		"era": "Early 17th Century",
+		"etymology": {
+			"components": [
+				"sepulcrum (grave / tomb)",
+				"sepelire (to bury)"
+			],
+			"original_statement": "From Latin sepulchralis, from sepulcrum 'grave / tomb', from sepelire 'to bury'."
+		},
+		"concept": "The buried silence (「大地」の下に「隠される(sep-)」ことの、あの「ひんやり」とした圧倒的な「静止」。生命のあらゆる「熱量（エネルギー）」が遮断され。ただ死の「冷気」だけが漂っている、石の牢獄の如き「響き」)",
+		"thinking": "セパルクラル（墓のような）。あなたの声が。この「セパルクラルな（不気味に低い）」響きを帯びるとき。あなたは。もはや地上の「喧騒（カオス）」を相手にしていません。あなたは。地下深くに眠る「死者（パスト）」たちと対話し。そこにある「絶対的な真実（ロゴス）」を、墓の底から引きずり出そうとしている。その暗さは。あなたが「死」と「生」の境界線に触れていることの、峻烈な証しなのです。",
+		"part_of_speech": "adjective",
+		"aftertaste": "石造りの地下室（カテドラル）に足を踏み入れた瞬間の、あの。音がすべて「吸い込まれて」いくような、不毛で。しかし美しく磨（みが）き上げられた「沈黙」の重み。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sep-",
+					"meaning": "to honor (originally) / to bury (to attend to the dead)"
+				}
+			],
+			"points": [
+				"Sepelire（埋める）は、もともと『敬意を払う』という意味でした。死者を埋めることは、彼らに世界で最も深い『敬意』を示す儀式だったのです。"
+			]
+		}
+	},
+	{
+		"id": "catacomb",
+		"word": "Catacomb",
+		"meaning": "地下墓地、カタコンベ、骨の眠る迷宮、隠された信仰、沈黙の階層",
+		"era": "Mid-16th Century",
+		"etymology": {
+			"components": [
+				"kata- (down)",
+				"tumbas (tombs)"
+			],
+			"original_statement": "From Late Latin catacumbas, from Greek kata- 'down' + tumbas 'tombs'."
+		},
+		"concept": "The hollow archive (地上の光り輝く「偽り（プロパガンダ）」から逃れ。ただ垂直に「下（kata-）」へと掘り進められた「墓(tumb-)」の迷宮の中に。自らの「骨（真実）」と、名もなき「信仰」を隠し続ける、地下の「静かなる抵抗」)",
+		"thinking": "カタコンベ。それは、弱き者たちが、最後に辿り着いた「勝利の城」です。地上の王（タイラント）がどんなに手を伸ばしても。この暗い。どこまでも続く「骨の回廊（コリドー）」の奥底までは届きません。カタコンベ。自分の中にある、誰にも踏み込めない「暗い深淵」。そこにあなたは。自分の「一番大切なもの」を、墓標として隠している。その不気味な迷宮こそが。あなたの魂が最後に「安らげる（レスト）」場所なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "松明（トーチ）の火に照らされた、見渡す限りの「髑髏（スカル）」。長い。あまりにも長い「時間の堆積（デポジット）」の中に、自分という一個の骨が「溶け込んで」いく、あの。怖ろしいほどの「一体感」と「安堵」。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "teu-",
+					"meaning": "to swell (tomb / tumulus)"
+				}
+			],
+			"points": [
+				"Tumor（腫瘍）や Thumb（親指／太い指）と同じ root。死の場所は、土が『盛り上がった（膨らんだ）』特別な場所であることを意味しています。"
+			]
+		}
+	},
+	{
+		"id": "mausoleum",
+		"word": "Mausoleum",
+		"meaning": "立派な墓、(壮大な)石の記憶、王の死の殿堂、静止した栄華",
+		"era": "Late 15th Century",
+		"etymology": {
+			"components": [
+				"Mausolos (King of Caria)"
+			],
+			"original_statement": "From Latin Mausoleum, from Greek Mausoleion, dedicated to Mausolos, King of Caria, whose tomb was one of the Seven Wonders of the Ancient World."
+		},
+		"concept": "The monument of absence (「死」という名の「無」を。あえて巨大な「石の建築（エディフィス）」で飾り。自分がいなくなった後も、その「権力の影」をこの世に「留（とど）め」ようとする、哀（あわ）れで。かつ荘厳な「永遠」への挑戦)",
+		"thinking": "マウソレウム（壮麗な墓）。それは。一個の人間の「死」を、一つの「風景（ランドスケープ）」へと変えてしまう力。あなたが自分の「過去の成功」を、いつまでも「立派な墓」のように自分の中に守り続けているとき。その華やかさは。同時に「何かがもう死んでいる」ということを痛切に告げています。墓は。どんなに美しくても、家（ホーム）にはなり得ないのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "大理石に刻まれた、自分の名前。そこに吹き荒れる、冷たい。どこまでも冷たい風。自分が「歴史」になったという。峻烈な満足感と。そして。二度と「温かい血」の流れる場所には戻れない、という完璧な絶望。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "unknown",
+					"meaning": "Mausolos (name of heracleid descent)"
+				}
+			],
+			"points": [
+				"人名がそのまま『壮大な墓』を指す言葉になりました。それは。王が、自分の身体そのものを建築へと『Transmute（変成）』させた結果なのです。"
+			]
+		}
+	},
+	{
+		"id": "cemetery",
+		"word": "Cemetery",
+		"meaning": "寝所、墓地、安らぎの地、(死者たちが)共に眠る場所、静止した社会",
+		"era": "Late 14th Century",
+		"etymology": {
+			"components": [
+				"koimeterion (sleeping place / dormitory)"
+			],
+			"original_statement": "From Old French cimetiere, from Late Latin coemeterium, from Greek koimeterion 'sleeping place / dormitory', from koiman 'to put to sleep'."
+		},
+		"concept": "The common dormitory (「死」を「終わり（デス）」と呼ぶことを禁じ。それは、明日の「復活」のための、単なる「共同の眠り(koime-)」であると再定義（リフレーミング）した、希望という名の「安らぎの庭」)",
+		"thinking": "「セメタリー（墓地）」。そのルーツには。恐ろしいことに「ドミトリー（寮、寝所）」と同じ言葉が使われています。死者は、単に「寝ている」だけ。彼らはいつか目覚め。昨日の続きを語り始める。この「優しい嘘（あるいは真実）」が。残された私たちの、張り裂けそうな心を「治癒（ヒール）」してくれます。墓地。そこは、世界で最も「静寂な、しかし賑（にぎ）やかな」対話の場所なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "夕暮れの、整然と並んだ白い十字架の。あの。まるで軍隊が「休息（レスト）」をとっているかのような、奇妙なまでの「秩序」と「規律」。争いは消え去り。ただ「共に眠る」という、究極の平等の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kei-",
+					"meaning": "to lie / rest / home"
+				}
+			],
+			"points": [
+				"Home（家）と同じ root。墓地とは、魂が最後に帰り着く『本当の家』であることを示唆しています。"
+			]
+		}
+	},
+	{
+		"id": "sarcophagus",
+		"word": "Sarcophagus",
+		"meaning": "肉を食らう石、石棺、棺、美しき終止符、沈黙の部屋",
+		"era": "Mid-16th Century",
+		"etymology": {
+			"components": [
+				"sarx (flesh)",
+				"phagein (to eat)"
+			],
+			"original_statement": "From Latin sarcophagus, from Greek sarkophagos 'eating flesh', originally applied to a specific kind of stone believed to consume the flesh of corpses."
+		},
+		"concept": "The flesh-eater (死体（コーパス）を「石(sar-)」が「食べ(phag-)」て。醜（みにく）い「肉」という汚れをすべて消し去り。磨き上げられた「白い骨」と「不滅の霊」だけを残そうとする、峻烈な「浄化（ピュリフィケーション）」の檻)",
+		"thinking": "サルコファガス。その恐ろしい意味は「肉（サークス）を食らう（ファガス）」。古代の人々は、ある種の石が、死体を食べてきれいにする力があると信じていました。それは。私たちが「言葉」を。汚れなき「石棺」の中に閉じ込め。余計な「感情（肉）」をすべて削ぎ落とし、ただ「真理（骨）」だけを残そうとする、あの峻烈な「記述（ライティング）」の態度と同じ。書くことは。自分の肉を削り、石に変えることなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "重い。あまりにも重い石の蓋（リッド）。それを閉じた瞬間に。自分の名も、自分の愛も、すべてが「不朽の紋章」へと固定される、あの。怖ろしいほどに瑞々（みずみず）しい「完結」の快感。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "twerk-",
+					"meaning": "to cut (from sarx / flesh)"
+				},
+				{
+					"term": "bhag-",
+					"meaning": "to share / allot (from phagein)"
+				}
+			],
+			"points": [
+				"Esophagus（食道）と同じ -phagus。石が命を『分かち合う（食べる）』ことで、命を永遠のものにする、という逆説的な慈悲の言葉です。"
+			]
+		}
+	},
+	{
+		"id": "obituary",
+		"word": "Obituary",
+		"meaning": "死の記録、(新聞の)死亡記事、去っていく者の報告、最後の一行",
+		"era": "Early 18th Century",
+		"etymology": {
+			"components": [
+				"ob- (toward / to meet)",
+				"ire (to go)"
+			],
+			"original_statement": "From Medieval Latin obitarius, from Latin obitus 'death / visit / a going to meet', from obire 'to go to meet / die', from ob- 'toward' + ire 'to go'."
+		},
+		"concept": "The meet with the end (「終わり」に向かって（ob）「歩き出す（ire）」こと。人生という長い「駅（プラットフォーム）」を去り。どこか未知の場所へと「向かう」ための、最後の一枚の「切符（チケット）」としての記述)",
+		"thinking": "オビチュアリー（死亡記事）。それは「死」を悲しむためのものではありません。そのルーツは「会いに行く（オビレ）」。死者は「消えた」のではなく、何か大きなものに「会いに行った」のだ、という。能動的な旅立ちの告白。誰かのために書かれた、最後の一行のオビチュアリー。それは。旅人が無事に「目的地（エンド）」に辿り着いたことを知らせる、最後の一通の「絵葉書（ポストカード）」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "新聞の隅にある、小さな文字。そこには一人の人間の「一生」が、たった数行に凝縮（コンデンス）されている。その。あまりにも儚（はかな）く。しかしあまりにも「明快」な、人生という名の物語の「完結」の匂い。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ei-",
+					"meaning": "to go (from ire)"
+				}
+			],
+			"points": [
+				"Exit（出口）と同じ ire。死とは旅（Itinerary）の最後のプロセスであり、新しい場所への『入場（オビレ）』である、という古代の生死観が宿っています。"
+			]
+		}
+	},
+	{
+		"id": "requiem",
+		"word": "Requiem",
+		"meaning": "鎮魂曲、レクイエム、休息の祈り、死者のためのミサ、静止した平和",
+		"era": "Early 14th Century",
+		"etymology": {
+			"components": [
+				"re- (intensive)",
+				"quies (rest / quiet)"
+			],
+			"original_statement": "From Latin requiem (accusative of requies), from the first word of the introit in the Mass for the Dead: Requiem aeternam dona eis, Domine ('Eternal rest grant unto them, O Lord')."
+		},
+		"concept": "The extreme quiet (激動する「この世」のすべての「ノイズ（戦い）」を静め。ただ「永遠の休息(re-quies-)」を。死者、そして自分自身に「贈（おく）る」ための。この世で最も「深く、冷たい」慈しみのメロディ)",
+		"thinking": "「レクイエム（鎮魂曲）」。そのルーツは「休息（クワイエット）」。それは。死者への祈りであると同時に。生きている私たちが。過去という名の「重荷」を。ようやくそっと降ろし（ダイブ）、深い「眠り（スランバー）」に落ちることを許されるための、赦（ゆる）しの合図（シグナル）なのです。レクイエムが鳴り止むとき。あなたは。以前よりもずっと「静かな自分」に出会うはずです。",
+		"part_of_speech": "noun",
+		"aftertaste": "静かな聖歌隊の声が、高い天井へと消えていく。そのあとに残る。耳が痛くなるほどの、完璧な「静寂」。自分が「すべてを引き受け、すべてを手放した」あとの。透明で。そして峻烈な「平和」の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kweie-",
+					"meaning": "to rest / be quiet"
+				}
+			],
+			"points": [
+				"Quiet（静かな）や Quit（辞める／自由になる）と同じ root。休息とは、役割を辞めて『自由になる』ことそのものなのです。"
+			]
+		}
 	}
 ];
