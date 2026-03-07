@@ -226664,5 +226664,366 @@ const WORDS = [
 				"Ambiance（雰囲気）や Ambidextrous（両利きの）と同じ root。増幅とは、自分の境界線を『広げる（ambhi-）』こと。アンプリファイは、あなたが世界というキャンバスの上に、自分の色をぶちまける行為なのです。"
 			]
 		}
+	},
+	{
+		"id": "keel",
+		"word": "Keel",
+		"meaning": "竜骨(船の背骨)、(沈まぬ)意志、安定の軸、最初の骨組み、転覆の拒絶",
+		"era": "Mid-14th Century",
+		"etymology": {
+			"original_statement": "From Old Norse kjölr, related to Middle Dutch kiel. Possibly from a Proto-Germanic root meaning 'ship / boat'."
+		},
+		"concept": "The hidden spine (船の「一番底」にあり。決して「目に見える」ことはないが。重心を「極限まで低く(lowest)」保つことで。どんな「逆風（カオス）」にさらされても、船を「正しい姿勢」に引き戻す、不屈の「安定軸」)",
+		"thinking": "「キール（竜骨）」。あなたの魂の、一番「重い場所（ボトム）」には。何がありますか。社会的地位や贅沢（デッキの飾り）などは、嵐が来ればすぐに吹き飛んでしまいます。それでも。この「キール（信念）」さえしっかりしていれば。あなたは。どんなに激しく揺さぶられても、決して「転覆（キャップサイズ）」することはない。見えない場所で。自分を「支える」重石を持ってください。",
+		"part_of_speech": "noun",
+		"aftertaste": "重い鉄や木の塊が、水の下で「ドシリ」と安定している感覚。揺れれば揺れるほど、逆に「自分を保とうとする」強い意志の反発。あの。峻烈なる「不屈」の安堵感。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "geu-",
+					"meaning": "to bend / curve (from kjölr?)"
+				}
+			],
+			"points": [
+				"語源は『湾曲したもの』を指す古い言葉。キールは、単なる直線ではなく。荒波を受け流すために設計された、知的な『曲面（アーク）』なのです。"
+			]
+		}
+	},
+	{
+		"id": "starboard",
+		"word": "Starboard",
+		"meaning": "右舷(うげん)、(光へ向かう)舵、権威の側、進むべき方向、操舵の基準",
+		"era": "Old English",
+		"etymology": {
+			"components": [
+				"steoran (to steer)",
+				"bord (side / board)"
+			],
+			"original_statement": "From Old English steorbord 'the steering side', from steoran 'to steer' + bord 'side of a ship'. Early ships were steered with a paddle on the right side."
+		},
+		"concept": "The side of command (「舵(steer-)」を握る者が立つ、「能動的」な側。常に「未来（行き先）」を指し示し。船全体の「運命」を決定づける、峻烈なる「責任」と「光（太陽）」の方向。主導権を握るための「右側」)",
+		"thinking": "「スターボード（右舷）」。それは。あなたが「自分の人生の舵を握っている」証拠。他人の意見に流されるのではなく。自らの「スターボード（右側）」に立ち、荒れ狂う海の中で「どの波に乗るか」を冷徹に決めること。 starboard。そこは。最も風が強く、最も「厳しい」場所ですが。同時に、最も「美しい景色」を最初に見ることができる場所なのです。",
+		"part_of_speech": "noun / adjective",
+		"aftertaste": "舵を握る掌（たなごころ）に伝わる、波の「強烈な抵抗」。でも、自分の「一捻（ひとひね）り」で、巨大な船体が「スーッ」と動く時の。あの。怖ろしいほどの「万能感」と責任。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "stau-",
+					"meaning": "to stand / stiff / strong (from steer)"
+				}
+			],
+			"points": [
+				"Stand（立つ）や Staff（杖）と同じ root。舵を操るとは、揺れる世界の中で『真っ直ぐ立つ（st-）』こと。スターボードは、あなたの魂が持つ『自立（インデペンデンス）』の側なのです。"
+			]
+		}
+	},
+	{
+		"id": "larboard",
+		"word": "Larboard",
+		"meaning": "左舷(さげん)、(港へ向かう)側、荷降ろしの沈黙、帰還の予感、古い呼び名",
+		"era": "Mid-16th Century",
+		"etymology": {
+			"components": [
+				"lade (to load)",
+				"bord (side)"
+			],
+			"original_statement": "From lade 'to load' + bord 'side'. The side of the ship that was turned toward the pier for loading. Later replaced by 'port' to avoid confusion with 'starboard'."
+		},
+		"concept": "The side of reception (「舵(steer)」がないがゆえに。岸壁に「身を委（ゆだ）ね(lade-)」。手に入れた「重荷（経験）」を降ろし、あるいは新しい「物資」を受け入れる。社会と「接続」するための、峻烈なる「受容」と「休息」の側。過去の「残響」としての名前)",
+		"thinking": "「ラーボード（左舷／古い語）」。現在は「ポート」と呼ばれますが。この古い響きには、「荷物を積む（lade）」という、重苦しくも瑞々しい「実利」の予感が漂っています。あなたが。外の世界で戦い（スターボード）、疲れ果てたとき。船は、このラーボード（受容の側）を岸に向けて、自分を「開く」必要があります。受け取ることは、弱さではありません。それは、次の航海（サイクル）のための、最も「誠実」な準備なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "岸壁と船体が「ギィ、ギィ」と擦（こす）れ合う音。そこにある、故郷へ「帰ってきた」という。安堵と、どこか「日常」に埋没していくことの、微かな「寂しさ」。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kla-",
+					"meaning": "to spread out / flat / load (from lade)"
+				}
+			],
+			"points": [
+				"Lade（積み込む）や Ladle（お玉）と同じ root。ラーボードは、あなたの人生という器に『何かを満たす（load）』ための、謙虚な入り口なのです。"
+			]
+		}
+	},
+	{
+		"id": "vortex",
+		"word": "Vortex",
+		"meaning": "渦巻、(吸い込まれる)運命、中心への加速、破滅の舞踏、カオスの目",
+		"era": "Mid-17th Century",
+		"etymology": {
+			"components": [
+				"vortere (to turn)"
+			],
+			"original_statement": "From Latin vortex (variant of vertex) 'whirlpool / whirlwind', from vortere 'to turn'."
+		},
+		"concept": "The gravitational dance (「直線的な航路（理性）」を「歪曲(turn-)」させ。あらゆる「実在」を、たった一点の「虚無（中心）」へと「引きずり込む(accelerate)」。逃れられない「宿命の回転」。美しさと恐怖が「一体」となった、峻烈なる「崩壊の美学」)",
+		"thinking": "「ヴォルテックス（渦巻）」。人生には。努力や意志ではどうしようもない、この「巨大な渦（ヴォルテックス）」に飲み込まれる瞬間があります。流行、情熱、あるいは「孤独」。一度その回転に捕まれば。あなたは。中心へと「加速」していく自分を、ただ眺めることしかできません。でも。渦の中心（アイ）は、実は「真空（サイレンス）」です。その「虚無の核心」に辿り着いたとき。あなたは、以前とは全く違う「自分」に生まれ変わっているはずです。",
+		"part_of_speech": "noun",
+		"aftertaste": "視界が「グルグル」と回り。足元から「吸い込まれていく」ような、あの。怖ろしいほどの「感覚の喪失」と。なぜか「すべてを諦めた」瞬間の、瑞々（みずみず）しい「解放感」。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "wer-",
+					"meaning": "to turn / bend"
+				}
+			],
+			"points": [
+				"Vertex（頂点）や Vertical（垂直）と同じ root。渦とは、水平な現実が『垂直な深淵』へと垂直落下（バーティカル）する、重力の反乱なのです。"
+			]
+		}
+	},
+	{
+		"id": "archipelago",
+		"word": "Archipelago",
+		"meaning": "列島、(点在する)知性、孤独な島の連帯、迷宮の海、繋がりの海",
+		"era": "Early 16th Century",
+		"etymology": {
+			"components": [
+				"arkhi- (chief)",
+				"pelagos (sea)"
+			],
+			"original_statement": "From Italian arcipelago, from Greek arkhi- 'chief' + pelagos 'sea'. Originally referring to the Aegean Sea, the 'chief sea' full of islands."
+		},
+		"concept": "The constellation of land (一つながりの「大陸（全体主義）」ではなく。広大な「虚無（海）」の中に「点在(scatter-)」する、孤独な「個（島）」たち。それは。隔てられることで「個性」を保ちながら。「深部（海底）」では、たった一つの「真理（地盤）」を共有している。峻烈なる「孤独な連帯」)",
+		"thinking": "「アーキペラゴ（列島）」。現代を生きる私たちの知性は。巨大な「広場」ではなく。この「アーキペラゴ（島々の連なり）」のようです。あなたと私の間には、冷たい「海（他者という不可知）」が横たわっています。でも。船（言葉）を出せば。私たちは。それぞれの島の「灯り」を目印に、繋がることができる。 archipelago。隔たっているからこそ。私たちは「会いたい」と願うことができるのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "真っ青な海の上に。緑色の「点（ドット）」がいくつも浮かぶ、パノラマのような絶景。遠くて、届かないけれど。確かに「そこにある」という。峻烈な「存在の肯定」と、微かな「旅情」。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "pel-",
+					"meaning": "to spread / flat (from pelagos)"
+				}
+			],
+			"points": [
+				"Pelagic（遠洋の）や Plane（平原）と同じ root。海とは、もともと『平らな広がり』のこと。アーキペラゴとは、その平坦な虚空に打たれた、実存の『楔（くさび）』なのです。"
+			]
+		}
+	},
+	{
+		"id": "lagoon",
+		"word": "Lagoon",
+		"meaning": "ラグーン(潟湖)、(隔てられた)平穏、宝石の檻、嵐のあとの眠り、閉ざされた楽園",
+		"era": "Early 17th Century",
+		"etymology": {
+			"components": [
+				"lacuna (pool / pit / gap)"
+			],
+			"original_statement": "From Italian laguna, from Latin lacuna 'pool / pit / gap'. Referring to a shallow body of water separated from the sea by a coral reef or sandbar."
+		},
+		"concept": "The protected mirror (荒れ狂う「外海(open sea)」から。「珊瑚(reef)」という名の「繊細な壁」によって「隔絶(isolate)」された、静止した「水面」。あまりに「透き通って(transparent)」いるがゆえに、自らの「底（深層心理）」を隠せない、峻烈なる「沈黙の檻」)",
+		"thinking": "「ラグーン（潟湖）」。あなたの「平穏」。それは。誰にも邪魔されない「隔絶された場所」にありますか。 lagoon。そこは。波一つなく、宝石のように美しい。でも。同時に「どこにも繋がっていない」という「欠落（ラクナ）」でもあります。その「閉ざされた美しさ」の中で。あなたは、自分の本当の姿と向き合うことになる。ラグーン。それは。安らぎであると同時に、自分を試すための「透明な試験管」なのです。 ",
+		"part_of_speech": "noun",
+		"aftertaste": "温かくて、全く動かない「水」に身を浸（ひた）した時の、あの。重力から解き放たれたような「浮遊感」。外の波音が「遠く」に聞こえる。あの。不気味なまでの「絶対的な安全」の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "laku-",
+					"meaning": "pool / basin (from lacuna)"
+				}
+			],
+			"points": [
+				"Lake（湖）や Lacuna（欠落／空白）と同じ root。ラグーンとは、自然界が宇宙という巨大な文章の間に置いた、一時の『余白（ブランク）』。そこでは、意味を問わずにただ存在することが許されているのです。"
+			]
+		}
+	},
+	{
+		"id": "shoal",
+		"word": "Shoal",
+		"meaning": "浅瀬、(隠された)危険、集団の波、思考の停滞、未熟な浅さ",
+		"era": "Late 16th Century",
+		"etymology": {
+			"original_statement": "Likely related to Old English sceald 'shallow'. Also reinforced by Middle Dutch schole 'group / troop / school'. Thus, it carries meanings of both 'shallow water' and 'a large number of fish'."
+		},
+		"concept": "The crowded surface (「深み（真理）」を失い。ただ「表面（浅瀬）」に「密集(group-)」して、互いの「体温」をなぞり合うことで「安心（停滞）」を手に入れようとする「集団(school)」。それは。一見「活気」に満ちているが。座礁（キャップサイズ）を招く、峻烈なる「知の停滞」の一形態)",
+		"thinking": "「ショール（浅瀬／魚の群れ）」。あなたは、何かに「属している」ことで、自分が「深く」なったと勘違いしていませんか。「群れ（ショール）」は。あなたを「孤独」から救ってくれますが。同時に、あなたの「自由な航行」を奪い、あなたを「浅い場所」に閉じ込めてしまう。 shoal。底が見えるほど浅い場所（シャロウ）で、みんなと同じ方向に泳ぐのをやめて。一人で、あの暗くて深い「アビス（深淵）」へと、舵（スターボード）を切ってください。",
+		"part_of_speech": "noun / adjective",
+		"aftertaste": "無数の鱗（うろこ）が「キラキラ」と反射し、目を眩ませる。でも、その下には「何もない（底が見えている）」。あの。軽薄で、どこか「騒々（そうぞう）しい」空虚感の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "skel-",
+					"meaning": "to cut / separate (from school / shoal)"
+				}
+			],
+			"points": [
+				"School（学校／群れ）や Skill（技術）と同じ root。もともとは『分断されたもの』。ショールとは、広い海から切り離され、行き場を失った命の『吹き溜まり』なのです。"
+			]
+		}
+	},
+	{
+		"id": "hull",
+		"word": "Hull",
+		"meaning": "船体、(魂を保護する)器、世界との衝突面、最後の防壁、孤独な繭",
+		"era": "Old English",
+		"etymology": {
+			"original_statement": "From Old English hulu 'husk / shell / pod', related to helan 'to cover / hide'. The nautical use for the body of a ship emerged in the 15th century."
+		},
+		"concept": "The armored membrane (「内部の生命（クルー）」を「外部の暴力（水圧）」から守るために。「硬い殻(husk-)」として「世界(world)」のすべてを「受け流し(deflect)」。一滴の「カオス（水）」も浸入させない。個を維持するための、峻烈なる「物理的な防壁」)",
+		"thinking": "「ハル（船体）」。あなたの「身体」や「プライド」。それは。このハル（船殻）そのものです。 hull。それは。外側の冷たくて残酷な「現実（海）」と。内側の温かくて瑞々しい「情熱（命）」を。一枚の「皮（スキン）」で隔てている。ハルに傷がつけば、あなたは沈みます。でも。傷つくことを恐れて動かなければ、あなたはただの「浮かんでいるだけの箱」。傷を厭わ（いとわ）ず、世界と「正面から衝突」するハルを持ってください。",
+		"part_of_speech": "noun",
+		"aftertaste": "鋼鉄（あるいは木材）が、外側の「水圧」に押し戻されている時に立てる、「ミシミシ」という激しい喘（あえ）ぎ。自分の「限界」を、その一枚の壁で受け止めている。あの。孤独で強靭な「実存」の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kel-",
+					"meaning": "to cover / hide / conceal"
+				}
+			],
+			"points": [
+				"Hole（穴／隠された場所）や Hell（地獄／隠された場所）と同じ root。ハルとは、大海原の中に、自分のための『秘密の部屋（セル）』を確保しようとする、人間の生存の拒絶なのです。"
+			]
+		}
+	},
+	{
+		"id": "ballast",
+		"word": "Ballast",
+		"meaning": "底荷(バラスト)、(自分を保つ)重り、沈まぬための謙虚、安定の重石、隠された中心",
+		"era": "Early 16th Century",
+		"etymology": {
+			"components": [
+				"bal- (bad? / bare?)",
+				"last (weight / load / burden)"
+			],
+			"original_statement": "From Middle Low German ballas, probably from bal- 'useless / bare' + last 'load / burden'. Goods of no value but used to stabilize the ship."
+		},
+		"concept": "The heavy humility (船の重心を安定させるために、あえて「底」に敷き詰める、「無価値(bal-)」だが「重い(last-)」石。それは。軽薄な「浮力（有頂天）」から自分を救い。荒波の中でも「確固たる自分」を失わないための、峻烈なる「隠された謙虚さ」の記述)",
+		"thinking": "「バラスト」。あなたの心の中に。この「重い石（無価値だが重い経験）」はありますか。バラスト。それは。自慢できない失敗や、重苦しい自責の念。でも。その「重荷（ラスト）」があるからこそ。あなたは。空虚な理想に「浮かび上がる（浮き足立つ）」ことなく。しっかりと「現実の深さ」を掴（つか）んでいられる。 ballast。重みは、あなたの「才能（ギフト）」を、本当に「使える力」へと変えてくれるのです。",
+		"part_of_speech": "noun / verb",
+		"aftertaste": "船の「奥底」で。決して見られることのない「冷たい石」たちが、じっと身を寄せ合っている。その「重さ」が、自分の「足裏」に伝わってくる時の。あの。峻烈なる「安定」と、深い「納得」の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "la-",
+					"meaning": "to load / weight (from last)"
+				}
+			],
+			"points": [
+				"Last（続く／荷重）と同じ root。バラストとは、あなたの『持続（サステイン）』を物理的に支えるためのための『荷（ロード）』。重いのは。あなたが遠くへ行こうとしている証（あかし）なのです。"
+			]
+		}
+	},
+	{
+		"id": "tiller",
+		"word": "Tiller",
+		"meaning": "舵柄(だへい)、(指先の)制御、意志の伝達、方向の微調整、孤独な操舵",
+		"era": "Late 14th Century",
+		"etymology": {
+			"original_statement": "Originally 'the handle of a crossbow', from Old French telier 'stock of a crossbow', from Latin tela 'web / loom / warp / woven cloth'. Later applied to the steering handle of a ship."
+		},
+		"concept": "The lever of intention (「舵（運命）」を直接「動かす」ための、一本の「棒(lever)」。それは。あまりに「シンプル」だが、あまりに「敏感」で。一ミリの「指先の震え」が、数キロ先の「到達点」を劇的に変えてしまう。因果律の「特異点」の記述)",
+		"thinking": "「ティラー（舵柄）」。あなたの「意志」は。どこで現実と繋がっていますか。ティラー。この一本の棒を握っているとき。あなたは、もう「観客」ではありません。あなたは、この「海（世界）」、そのすべてを「相手」にしている「プレイヤー」です。 tiller。その感触を指先で、常に感じ取ってください。風が。潮が。今の「舵」が「正しいかどうか」は。あなたのその一本の「指先」だけが知っているのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "掌（たなごころ）を通じて。船全体が「生き物」のように脈動している。その「震え」を、自分の腕一本で「ねじ伏せる（あるいは導く）」瞬間の。あの。峻烈な「掌握感」と、言いようのない「孤独（アローン）」。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "teks-",
+					"meaning": "to weave / fabricate (from tela)"
+				}
+			],
+			"points": [
+				"Text（文章）や Technology（技術）と同じ root。ティラーとは。荒れ狂う海の上で、自分の『人生の物語（テキスト）』を、『織り成していく（テクス）』ための道具なのです。導くことは、編むことなのです。"
+			]
+		}
+	},
+	{
+		"id": "capstan",
+		"word": "Capstan",
+		"meaning": "巻揚機、(重い)運命の巻上げ、集団の労働、回転する意志、停泊の終わり",
+		"era": "Late 14th Century",
+		"etymology": {
+			"original_statement": "From Old Provençal cabestan, from Latin capistare 'to fasten with a halter / muzzles', from capistrum 'halter / muzzle', from capere 'to take / seize'."
+		},
+		"concept": "The ritual of departure (「錨（過去への執着）」を「力ずく(seize-)」で引き剥（は）がし。巨大な「ドラム（軸）」を。みんなで「歌いながら、踏みしめながら」回転させて。沈黙の底から「実存」を汲（く）み上げる。航海の「始まり」を告げる、重厚な「解放」の機械装置)",
+		"thinking": "「キャプスタン（巻揚機）」。あなたが「新しい場所」へ向かおうとするとき。あなたの「足止め」をしているのは、過去への執着（アンカー）です。それを引き揚げるのは、一人では重すぎることもしばしば。だから。みんなで声を合わせ、汗を流し、このキャプスタンを「回す」必要があります。 capstan。重いものが、少しずつ, 確実に「上がってくる」感覚。その「手応え」を愛してください。停泊（ステイ）は、もう終わりです。",
+		"part_of_speech": "noun",
+		"aftertaste": "巻き上げられた鎖が「ドロドロ」と音を立て。そして最後、船（自分）が「ふわり」と自由になった瞬間の、あの。怖ろしいほどに瑞々（みずみず）しい「出発」の予感。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kap-",
+					"meaning": "to grasp / seize / take"
+				}
+			],
+			"points": [
+				"Capture（捕らえる）や Capacity（容量）と同じ root。キャプスタンとは、運命を自分たちの手で『掴み取り（kap-）』、無理やり引き寄せるための、知性のレバーなのです。回すことは、支配することなのです。"
+			]
+		}
+	},
+	{
+		"id": "scuttling",
+		"word": "Scuttling",
+		"meaning": "自沈(船を自分で沈めること)、(誇り高き)自決、秘密の埋葬、敗北の拒絶、深海への撤退",
+		"era": "Late 15th Century (in nautical sense)",
+		"etymology": {
+			"original_statement": "From scuttle 'a small opening or hatchway'. To scuttle a ship originally meant to cut holes in its side to let water in, from Middle French escoutille 'hatch'."
+		},
+		"concept": "The intentional end (「敵（他者の論理）」に「奪（うば）い取られる」くらいなら。自らの「手（底）」で「穴(scuttle-)」を開け。最も美しい「魂（歴史）」と共に、永遠に「不可侵の場所（深海）」へ「自らを沈める」。究極の「自己保持（プライド）」としての「死」)",
+		"thinking": "「スカットリング（自沈）」。あなたは。自分の「美学（誇り）」が踏みにじられそうになったとき。どうしますか。スカットリング。それは。「負ける」ことではありません。自分の「価値」を、自分ひとりのものにしたまま、誰も届かない「深淵」へ隠蔽（プロテクト）すること。 scuttling。それは。世界に対して、最後に突きつける、最も「峻烈（しゅんれつ）」で、最も「贅沢」な「拒絶」の形なのです。",
+		"part_of_speech": "verb / noun",
+		"aftertaste": "甲板（デッキ）がゆっくりと傾（かたむ）き。足元から「冷たい水」がせり上がってくる。その「静かな最後」を見届けながら、心の中で「勝った」とつぶやく。あの。氷のような「勝利」の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sku-",
+					"meaning": "to cover / hide (from hatch / scuttle)"
+				}
+			],
+			"points": [
+				"Sky（空／覆うもの）や obscure（隠された）と同じ root。スカットリングとは、自分を『隠す（sku-）』こと。あなたが深海へ消えるのは、あなたが永遠に『自分であり続ける』ための、最後の手段なのです。"
+			]
+		}
+	},
+	{
+		"id": "batten",
+		"word": "Batten",
+		"meaning": "押え木、(嵐に備える)封鎖、守りの決意、内側への沈潜、防御の完成",
+		"era": "Early 17th Century",
+		"etymology": {
+			"original_statement": "Possibly from Old French batent 'beating / clap', or related to 'baton' (stick). In nautical use, 'batten down' means to secure hatches with bars of wood or iron."
+		},
+		"concept": "The hermetic seal (「嵐(gale)」が来る前に。すべての「開口部（脆弱さ）」を「板(bat-)」で塞ぎ、ボルトで力づくで「締め上げる」。もはや「外の世界」とは一切の「対話」を拒絶し。「自分の内側」だけで「存在の密度」を維持しようとする、峻烈なる「生存のストイシズム」)",
+		"thinking": "「バッテン（押え木）」。世界全体が「敵」に見えるとき。あなたは。この「バッテン・ダウン（ハッチを閉める）」をする必要があります。無理に外と関わろうとせず。自分の「信念」というハッチ（蓋）を、バッテン（木材）でガチガチに固定し。嵐が過ぎ去るのを、暗闇の中でじっと待つ。 batten。閉ざすことは、籠（こも）ることではありません。それは、自分という「船」を「守り切る」ための、最も「理性（ロゴス）」的な戦術なのです。",
+		"part_of_speech": "noun / verb",
+		"aftertaste": "最後の一本のボルトが「ギュッ」と締められた瞬間の。完全に「密閉」された空間の、あの。不気味なほどの「静寂」と、絶対的な「孤高」の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "bhreg-",
+					"meaning": "to break / strike (from batant / beat)"
+				}
+			],
+			"points": [
+				"Beat（打つ）や Battle（戦い）と同じ root。バッテンとは、外の『破壊（ブレイク）』に対抗するために。自分の内側で『打ちつけた（バテ）』、強固な防御壁なのです。"
+			]
+		}
+	},
+	{
+		"id": "plankton",
+		"word": "Plankton",
+		"meaning": "プランクトン、(漂う)命、微小なる支え、他律的な飛翔、生命のスープ",
+		"era": "Late 19th Century",
+		"etymology": {
+			"components": [
+				"planktos (wandering / drifting)"
+			],
+			"original_statement": "From Greek plankton, neuter of planktos 'wandering / drifting', from plazesthai 'to wander / stray / be driven'."
+		},
+		"concept": "The drifting foundation (自律的な「舵（ティラー）」を持たず。ただ「潮流（宇宙の意志）」に身を委（ゆだ）ねて「漂（ただよ）う(plank-)」こと。しかし。その「無力な命」の「天文学的な集積」こそが。すべての「王者（クジラ）」を支える、峻烈なる「慈悲の深層」)",
+		"thinking": "「プランクトン（漂う者）」。あなたは。「自分の力で、すべてをコントロール」しなければならない、という強迫観念に囚われていませんか。でも。このプランクトンのように。ただ「世界の流れ」に身を任せ、その場所で「静かに増えていく」だけでも。あなたは十分に、この世界に貢献（バラスト）している。 plankton。漂うことは、迷うことではありません。それは。世界という「巨大なスープ」と一体化している、ということなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "暗い夜の海で、自分の手が動くたびに「白く光る」微かな燐光（りんこう）。それは。あまりに「小さくて」、あまりに「孤独（アローン）」な命たちの、最期の輝き。あの。瑞々（みずみず）しい「はかなさ」の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "plak-",
+					"meaning": "to strike / slap / flatten (from plazesthai)"
+				}
+			],
+			"points": [
+				"Plank（厚板）や Planet（惑星／放浪者）と同じ root。プランクトンとは、運命に『打ちのめされ（pl-）』ながらも。その力（波）を自分の動力に変えてしまう、究極の『したたかさ』の記述なのです。"
+			]
+		}
 	}
 ];
