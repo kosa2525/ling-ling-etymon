@@ -224788,5 +224788,558 @@ const WORDS = [
 				"Rhododendron（石楠花／薔薇の木）との混同。名前さえも『迷い（コラプション）』の中にあり。正体を見抜くのが最も難しい、カメレオンのような毒草なのです。"
 			]
 		}
+	},
+	{
+		"id": "basilica",
+		"word": "Basilica",
+		"meaning": "バシリカ、(王の)館、秩序ある静寂、聖なる公会議、長方形の平穏",
+		"era": "Mid-16th Century",
+		"etymology": {
+			"components": [
+				"basilikos (royal)",
+				"basileus (king)"
+			],
+			"original_statement": "From Latin basilica, from Greek basilikē (stoa) 'royal (hall)', from basileus 'king'."
+		},
+		"concept": "The royal hall (「王(basile-)」の権威を、広大で秩序ある「長方形の空間（エディフィス）」の中に実現し。そこで「法（ロゴス）」や「祈り」を執り行うための。この世に顕現（けんげん）した「天の秩序」)",
+		"thinking": "「バシリカ」。その名は「王の場所」。教会建築の原形。あなたが、自分の内側にある「至高の美学（キング）」を形にするため。心の中に、迷いのない広々とした「知性の回廊（バシリカ）」を築くこと。長い列柱（コロンナード）の合間から差し込む光が。あなたの雑多な思考を、一つの「神聖な目的」へと整（ととの）えてくれるでしょう。空間は、人を王にします。",
+		"part_of_speech": "noun",
+		"aftertaste": "高い天井から、音が「キン」と響き渡り。その残響が、完璧な「数学的秩序」の中に吸い込まれていく。あの。自分が「法の支配する世界」の中にいるという、圧倒的な「安心感」と「峻烈な背筋の伸び」。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "gwal-",
+					"meaning": "to go / come (associated with the palace / king)"
+				}
+			],
+			"points": [
+				"Basil（バジル／王の草）や Basilisk（バジリスク／小王）と同じ root。王の歩みが空間そのものを『聖なるもの』に変える、という場所の哲学です。"
+			]
+		}
+	},
+	{
+		"id": "amphitheater",
+		"word": "Amphitheater",
+		"meaning": "円形劇場、(両側からの)視線、集団の陶酔、死と生の舞台、共鳴する円周",
+		"era": "Late 16th Century",
+		"etymology": {
+			"components": [
+				"amphi- (on both sides / around)",
+				"theatron (theater / place for viewing)"
+			],
+			"original_statement": "From Latin amphitheatrum, from Greek amphitheatron, from amphi- 'on both sides / around' + theatron 'place for viewing'."
+		},
+		"concept": "The total view (視線が。中心にある「残酷な現実（砂）」へと「両側(amphi-)」から「集中(focus)」し。個々の「自分(self)」が「全体」という名の「巨大な共鳴体（モンスター）」へと溶け合ってしまう。円形の「陶酔」の建築)",
+		"thinking": "アンフィシアター（円形劇場）。そこでは、誰もが「見ている」と同時に「見られて」います。あなたが、自分の孤独な葛藤を。あえて「白日の下（アリーナ）」に投げ出し。それを何千人という他者の「視線の重圧」にさらすとき。あなたの人生は、一つの「神話（ドラマ）」へと昇華されます。孤独は円形の壁に跳ね返り。いつか自分を救う「喝采（かっさい）」となって戻ってくるでしょう。 ",
+		"part_of_speech": "noun",
+		"aftertaste": "今は誰もいない、草の生えた石の観客席。そこに座って風の音を聞くとき。かつての「叫び」や「熱気」が、石の影から今も漏（も）れ出してくるかのような。あの。不気味なまでの「集団の記憶」の残滓。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ambhi-",
+					"meaning": "to look at / gaze (from theatron)",
+					"term2": "dhau-"
+				}
+			],
+			"points": [
+				"Ambidextrous（両利き）の amphi-。劇場が二つ（両側）合体して円になった、という建築の歴史。それは『全ての死角を消す』という人間の執念の形です。"
+			]
+		}
+	},
+	{
+		"id": "stele",
+		"word": "Stele",
+		"meaning": "石碑、(立ち上がる)言葉、死の記述、不変の象徴、垂直の物語",
+		"era": "Early 19th Century",
+		"etymology": {
+			"components": [
+				"stele (standing block / pillar)"
+			],
+			"original_statement": "From Greek stēlē 'standing block / tablet / pillar', from stelein 'to set in order / arrange'."
+		},
+		"concept": "The set truth (横たわる「大地（自然）」に対し。あえて「垂直」な「石の言葉(stel-)」を「屹立（きつりつ）」させることで。移ろいゆく「時間」という名の川を遮断し。そこに「不朽の意志」を「定着(set-)」させた、人間の「意地」の結晶)",
+		"thinking": "「ステーレ（石碑）」。それは「ここにあったこと」の証明。あなたが、自分の信念を。ただの「考え（空気）」のままにするのではなく。何者にも動かせない「石の言葉（ステーレ）」として自分の心に建てておくこと。風が吹き、雨が降っても。その石碑（ステーレ）に刻まれた文字だけは。あなたが「王であった」ことを、永遠に語り続けるでしょう。立ち上がることは、記憶することです。",
+		"part_of_speech": "noun",
+		"aftertaste": "風化した石の表面に。辛うじて読み取れる「名前」。それを指でなぞった瞬間に、千年前の誰かの「孤独」が。自分の体の中に「カチリ」と接続されたような、あの。峻烈な時間の「不滅」の感覚。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "stel-",
+					"meaning": "to put / stand / set in order"
+				}
+			],
+			"points": [
+				"Stall（失速／立ち止まる）や Stalwart（屈強な）と同じ root。動きを止めて『不動（スタンド）』になることが、最も強く言葉を響かせる、という逆説です。"
+			]
+		}
+	},
+	{
+		"id": "cloister",
+		"word": "Cloister",
+		"meaning": "回廊、(閉じられた)庭、沈黙の場所、孤独の防壁、巡礼の散歩道",
+		"era": "Mid-13th Century",
+		"etymology": {
+			"components": [
+				"claudere (to close / shut)"
+			],
+			"original_statement": "From Old French cloistre, from Latin claustrum 'enclosure / bar / bolt', from claudere 'to close / shut'."
+		},
+		"concept": "The enclosed silence (外界の「喧慶（カオス）」を完璧に「閉ざ(clois-)」し。四角い「壁」によって切り取られた「小さな空」と。自分という「沈黙」だけが同居（コンタクト）する。内省のための「清らかなる檻（オリ）」)",
+		"thinking": "「クロイスター（回廊）」。それは。自分を守るための「鎧（アーマー）」のような建築。あなたが、世の中の「騒がしい声」から離れ。ただ自分の「足音」だけを聞きながら、静かな庭の周りを歩きたいと願うとき。あなたの心の中には、この美しい「クロイスター（回廊）」が完成しています。閉ざされているからこそ。そこには世界で最も「自由」な、透明な時間が流れているのです。",
+		"part_of_speech": "noun / verb",
+		"aftertaste": "「コツ、コツ」と鳴り響く、石に跳ね返る自分の跫音（あしおと）。柱の間から差し込む「一筋の光」。それ以外に何も、自分を邪魔するものがない、という。究極の「充足」と少しの「寂寥（せきりょう）」。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "klau-",
+					"meaning": "hook / key (from claudere)"
+				}
+			],
+			"points": [
+				"Clause（条項）や Close（閉じる）と同じ root。鍵をかけて自分を限定することが、真の自由（悟り）への入り口であることを、この言葉は教えてくれます。"
+			]
+		}
+	},
+	{
+		"id": "tessera",
+		"word": "Tessera",
+		"meaning": "テッセラ、(モザイクの)断片、四角い小片、全体を構成する一つ、不完全なる美",
+		"era": "Mid-17th Century",
+		"etymology": {
+			"components": [
+				"tessares (four)"
+			],
+			"original_statement": "From Latin tessera 'die / cube / token', from Greek tessares 'four' (referring to the four corners of a cube)."
+		},
+		"concept": "The fundamental fragment (一つ一つは、ただの「無骨な石の破片(token)」にすぎない。しかし。それらが「四隅(tessar-)」を合わせて「共(co-)」に配置されたとき。初めて壮大な「神の絵画（モザイク）」の一部となる。孤独な「個」が集まった「秩序」の記述)",
+		"thinking": "「テッセラ（断片）」。あなたは、自分を「取るに足りない, ただの破片」だと思っていませんか。しかし。テッセラという名のあなたは。その「隣」にある別の破片と、絶妙な「角度」で寄り添うことで。宇宙全体という名の、巨大で美しい「モザイク（物語）」を完成させる, 欠かせない一画なのです。四角い「角」を合わせること。それは、世界と調和（ハーモニー）するための、最も小さな、しかし峻烈な「覚悟（ロジック）」です。",
+		"part_of_speech": "noun",
+		"aftertaste": "掌（たなごころ）の上にある、一辺がわずか一センチの、色鮮やかなガラスの石。それが。高くそびえる教会の壁画の「誰かの瞳（アイ）」の一部だった、と気づいたときの。あの。怖ろしいほどの「全体性」への畏怖。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kwetwer-",
+					"meaning": "four"
+				}
+			],
+			"points": [
+				"Square（四角）や Quatrain（四行詩）と同じ root の流れ。四角いことは、世界を最も『安定』して埋め尽くすための、知性の最小単位なのです。"
+			]
+		}
+	},
+	{
+		"id": "propylaeum",
+		"word": "Propylaeum",
+		"meaning": "プロピュライオン、(門の前の)聖域、移行の儀式、境界の建築、覚醒への入り口",
+		"era": "Early 18th Century",
+		"etymology": {
+			"components": [
+				"pro- (before)",
+				"pyle (gate)"
+			],
+			"original_statement": "From Greek propylaeon, from pro- 'before' + pyle 'gate'."
+		},
+		"concept": "The architecture of transition (ただの「門(pyle- )」ではなく。「聖域（日常の終わり）」と、その「前(pro-)」にある「俗世」とを繋ぐ、長大な「回廊」という名の「移行の時間」。自分を「一新（リセット）」するための、峻烈な「待合室」)",
+		"thinking": "「プロピュライオン」。それは。いきなり「真実」に出会うことを恐れる人間の、謙虚な「躊躇（ためらい）」。あなたが、大切な人の部屋の扉を開ける前。あるいは、大きな決断を下す前。その「震えるような期待」が、あなたを「包み込んでいる」空間のことです。プロピュライオンを歩くことは。自らの「エゴ（衣服）」を脱ぎ捨て、裸の魂（セルフ）へと戻っていくための、聖なる「脱皮」のプロセスなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "重厚な列柱の間を通り抜けながら。自分の「視界」が、ゆっくりと「浄化」されていく感覚。門を抜けた瞬間に、目の前に広がる。地上のものとは思えないほど「瑞々（みずみず）しい」神殿の輝き。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "per-",
+					"meaning": "door / gate (from pyle)",
+					"term2": "pwel-"
+				}
+			],
+			"points": [
+				"Pylon（門）と通ずる root。前に立つことは、自分を『試される』こと。門の前（プロ）こそが、思考が最も研ぎ澄まされる場所なのです。"
+			]
+		}
+	},
+	{
+		"id": "caryatid",
+		"word": "Caryatid",
+		"meaning": "カリアティード、(女性の形の)柱、重荷を美しさに変える者、耐え忍ぶ者の優雅",
+		"era": "Mid-16th Century",
+		"etymology": {
+			"components": [
+				"Karyatides (women of Caryae)"
+			],
+			"original_statement": "From Greek Karyatides, from Caryae in Laconia. The women of Caryae supposedly endured great labor, hence their depiction as supports for architecture."
+		},
+		"concept": "The elegance of burden (「天の重み（屋根）」を、無骨な「石」ではなく。しなやかで「美しい女性（キャリッ）」の体で「引き受け(bear)」。苦痛を一切見せず、ただ「静かに前を見つめる」ことで。運命の「重圧」を「芸術」へと変容させた、峻烈なる「忍耐」の肖像)",
+		"thinking": "「カリアティード」。彼女たちは、何千年も「屋根」を支え続けています。一見、残酷な仕打ち（レイバー）に見えます。しかし。彼女たちの顔は、どこまでも「穏やか」です。あなたが、人生の「重荷（責任や孤独）」を。「どうして自分だけが」と呪（のろ）うのではなく。それを、自分という人間の「形（スタイル）」として、美しく着こなしている（着こなしている）とき。あなたは、世界を支える一柱のカリアティードなのです。 ",
+		"part_of_speech": "noun",
+		"aftertaste": "石でできた、流麗な「ドレス」のひだ。その美しさに見惚（みと）れながら。その「頭の上」に載っている, 数トンの石の「重圧」を想像した瞬間の。あの。怖ろしいほどの「強靭さ」への敬意。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "unknown",
+					"meaning": "Karyae (name of a town / nut trees)"
+				}
+			],
+			"points": [
+				"Nut（くるみ）の木、という意味も。硬い殻の中に、甘い実を隠す。彼女たちの『静かな美しさ』の中に、不屈の生命力が詰まっていることを象徴しています。"
+			]
+		}
+	},
+	{
+		"id": "entablature",
+		"word": "Entablature",
+		"meaning": "エンタブラチュア、(テーブルのような)水平部、重みの水平化、秩序の均衡",
+		"era": "Early 17th Century",
+		"etymology": {
+			"components": [
+				"in- (upon)",
+				"tabula (table / tablet / plank)"
+			],
+			"original_statement": "From Italian intavolatura, from in- 'upon' + tavola 'table', from Latin tabula."
+		},
+		"concept": "The shared horizontal (垂直に立ち上がる「個（柱）」の情熱を。一つの「水平なテーブル(tabula-)」によって「一手に(in-)」連結し（コネクト）。バラバラな力を、一つの「巨大な安定（スタビリティ）」へと統合する。知性の「合意」としての水平線)",
+		"thinking": "「エンタブラチュア（水平部）」。柱（自分）だけでは、家は建ちません。柱の上に、この重厚な「テーブル（エンタブラチュア）」を載（の）せることで。初めて「屋根」を支える力が生まれます。あなたが、他者と「価値観を共有（シェア）」し。一つの共通の「目的（テーブル）」を自分たちの間に置いたとき。そこには。一人の人間では決して成し得ない、巨大な「歴史」を支える力が宿るのです。水平であることは、連動することです。",
+		"part_of_speech": "noun",
+		"aftertaste": "空を真一文字に切り裂く、真っ直ぐな石の「線」。重力を否定するかような、その不敵な「平面」。そこに刻まれた「幾何学的」な装飾の。あの。冷酷なまでの「完成（ファイナライズ）」の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ten-",
+					"meaning": "to stretch / thin (associated with flat tablets / tabula)"
+				}
+			],
+			"points": [
+				"Table（テーブル）や Tablet（タブレット）と同じ root。世界を薄く、広く『引き延ばす（テン）』ことが、情報を共有し、社会（建築）を築くための第一歩なのです。"
+			]
+		}
+	},
+	{
+		"id": "exedra",
+		"word": "Exedra",
+		"meaning": "エクセドラ、(屋外の)腰掛け、対話のための半円、境界の広場、沈黙の共有",
+		"era": "Late 16th Century",
+		"etymology": {
+			"components": [
+				"ex- (out / away)",
+				"hedra (seat)"
+			],
+			"original_statement": "From Latin exedra, from Greek exedra 'a hall with seats / outdoors seat', from ex- 'out' + hedra 'seat'."
+		},
+		"concept": "The seat of departure (「家（エゴ）」という閉じた空間から「外(ex-)」へと「椅子(hedra-)」を持ち出し。そこで他者と「向き合う」ための、半円形の「抱擁」。自然と知性が「握手」をするための、最も「贅沢（ラグジュアリー）」な空洞)",
+		"thinking": "「エクセドラ」。それは。あなたが、誰かと「本当の話」をしたいときに選ぶ場所。家の外にありながら。石の壁で優しく囲まれている。その「安心」と「開校」の絶妙なバランス。エクセドラに座るとき。あなたは。自分の「役割（タイトル）」を脱ぎ捨て。ただ「一人の人間」として、風を感じながら宇宙と対話することができる。対話とは。椅子を並べること、そのものなのです。 ",
+		"part_of_speech": "noun",
+		"aftertaste": "石のベンチの、ひんやりとした感触。そこに腰掛けて, 遠くの「水平線」を眺める。隣に座る誰かの「息遣（いきづか）い」だけを感じながら。言葉を交わさずとも「通じ合っている」という、峻烈なまでの安堵。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sed-",
+					"meaning": "to sit (from hedra)"
+				}
+			],
+			"points": [
+				"Cathedral（大聖堂／座る場所）と同じ hedra。座ることは, 場所を『所有』すること。エクセドラは, 外という名の無限を、自分が座ることで『自分の場所』に変えるための知恵なのです。"
+			]
+		}
+	},
+	{
+		"id": "nymphaeum",
+		"word": "Nymphaeum",
+		"meaning": "ニンファエウム、(ニンフの)泉、建築の中の自然、甘美なる潤い、聖なる水飲み場",
+		"era": "Early 17th Century",
+		"etymology": {
+			"components": [
+				"Nymphe (Nymph / Bride)",
+				"-(a)ion (place of)"
+			],
+			"original_statement": "From Greek nymphaion, from Nymphe 'Nymph / Bride / nature spirit' + suffix expressing 'place of'."
+		},
+		"concept": "The artificial wetness (石という名の「硬質な秩序(logos-)」の中に。あえて「水(nympha-)」という名の「混沌（カオス）」を迎え入れ。建築を「命あるもの」として「潤（うるお）す」。知性が自然に「恋」をした瞬間の、最も「甘美」な痕跡)",
+		"thinking": "「ニンファエウム」。その名は「ニンフたちの家」。乾いた都市の中に、突如として現れる「水の宮殿」。あなたが。自分の「合理的な生活（ビジネス）」の中に。あえて一握りの「無駄（遊び）」や「潤い（詩）」を取り入れようとするとき。あなたの心には、この美しいニンファエウムが湧（わ）き出しています。水は。どんなに強固な石の壁をも、優しく「愛（エロス）」で溶かしてしまうのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "大理石の間を、サラサラと流れ落ちる「水の音」。その音に包まれて, 自分の「疲れ（ノイズ）」がすべて洗い流されていくような。あの。怖ろしいほどの「瑞々（みずみず）しさ」と, 地の底から湧き騰（あが）る生命力の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sneubh-",
+					"meaning": "to marry / veil (from nymphe / bride)"
+				}
+			],
+			"points": [
+				"Nuptial（婚礼の）と同じ root。泉は, 神と人間、あるいは知性と自然が『結婚』するための、聖なる婚礼の場所でもあったのです。 "
+			]
+		}
+	},
+	{
+		"id": "stoa",
+		"word": "Stoa",
+		"meaning": "柱廊、(立ち上がる)場所、哲学の回廊、ストア派の源流、教育としての空間",
+		"era": "Late 16th Century",
+		"etymology": {
+			"components": [
+				"stoa (porch / hall / row of columns)"
+			],
+			"original_statement": "From Greek stoa 'porch / hall / corridor', from stelein 'to set / put / make stand'."
+		},
+		"concept": "The architecture of stand (屋根を支えて「ただ、そこに立つ(sto-)」だけの列柱の連なり。そこを「歩く（ストロード）」という行為そのものが。思考を「垂直（ロゴス）」へと整（ととの）え、自分を「不動（ストア）」のものにする。空間による「意志の鍛錬」)",
+		"thinking": "「ストア（柱廊）」。かつてゼノンが、この柱廊（ストア）を歩きながら哲学を説いたため, 彼の弟子たちは「ストア派」と呼ばれました。建築が、一つの「学派（イズム）」を生んだのです。あなたが「毅然（きぜん）としていたい」と願うなら。心の中に一本の「柱（ストー）」を立ててください。何本も何本も, 同じリズムで立ててください。その列柱の間を歩くとき。あなたの心は。どんな嵐にも揺るがない、峻烈な「不動（アパティア）」を手に入れるはずです。",
+		"part_of_speech": "noun",
+		"aftertaste": "どこまでも、同じ形をした「白い柱」が並んでいる。その「単調な繰り返し」の中に宿る, 圧倒的なまでの「意志の強さ」。迷いが消え、ただ「真っ直ぐに歩く」ことだけを目的とした、あの。清々（すがすが）しい禁欲。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sta-",
+					"meaning": "to stand"
+				}
+			],
+			"points": [
+				"Stand（立つ）や Status（地位／状態）と同じ root。ストアとは, 人間が『立つ』ことの意味を、建築という名の巨大な楽器で奏でている場所なのです。"
+			]
+		}
+	},
+	{
+		"id": "telamon",
+		"word": "Telamon",
+		"meaning": "テラモン、(男性の形の)柱、耐え忍ぶ者の肖像、暴力的なまでの重積、男の本質",
+		"era": "Mid-17th Century",
+		"etymology": {
+			"components": [
+				"telamon (bearing / enduring)"
+			],
+			"original_statement": "From Greek telamōn 'bearing / enduring', from tlaein 'to bear / endure'."
+		},
+		"concept": "The sweating support (カリアティードが「優雅」なら。テラモンは「苦渋」。浮き出た「血管（ストラクチャー）」と、曲がった「膝」。自らの「命（マッスル）」を限界まで「酷使（サービス）」して、世界を「崩落」から守り抜く。峻烈なる「献身」の記述)",
+		"thinking": "「テラモン」。そのルーツは「耐え忍ぶ（トラエイン）」。アトラスのように、全宇宙をその肩に載せ、ギリギリのところで支え続けている男。あなたが、家族や責任のために、誰にも見せない「汗」を流しながら、必死に踏ん張っているとき。あなたは、世界を支える一柱のテラモンです。その「不格好なまでの必死さ」こそが。この世で最も「美しい（アートな）」建築物なのです。 ",
+		"part_of_speech": "noun",
+		"aftertaste": "石の「苦悶（くもん）」の表情。しかし。その足先は大地に深く「食い込み」, 一ミリの揺らぎも許していない。自分が「誰かを守っている」という。重くて。そして誇り高い、鉄のような自負の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "tel-",
+					"meaning": "to lift / support / weigh / bear"
+				}
+			],
+			"points": [
+				"Atlas（アトラス）と同じ tel-。耐えることは, 重さを『持ち上げ続ける』こと。テラモンとは, 時間の経過さえも自分の筋肉（石）で押し戻している、英雄の姿です。"
+			]
+		}
+	},
+	{
+		"id": "tympanum",
+		"word": "Tympanum",
+		"meaning": "半円壁、ティンパヌム、(鼓のような)装飾面、審判の舞台、視覚の打楽器",
+		"era": "Mid-16th Century",
+		"etymology": {
+			"components": [
+				"tympanon (drum)"
+			],
+			"original_statement": "From Latin tympanum, from Greek tympanon 'drum / skin of a drum'."
+		},
+		"concept": "The vibrating surface (「門（ゲート）」の上の、あの「半円形(tympan-)」の空白。そこは、物語が「爆発」し、彫刻となって「打ち鳴らされる」ための「鼓（つづみ）」のような場所。入るものへの「視覚的な宣告」)",
+		"thinking": "ティンパヌム。教会の入口の上を見上げると、そこには豪華な彫刻が施された半円の壁があります。そこには。この世の終わりや、救済の物語が「ギッシリ」と刻まれています。それは、あなたへの「警告（アラート）」。そこをくぐるとき、あなたは「今の自分のままではいられない」ことを悟（さと）るはずです。ティンパヌム。それは。見るだけで魂が「震（ふる）える」、石で作られた巨大な「鼓（ドラム）」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "見上げる首の痛みと。そこに刻まれた「地獄（ヘル）」の光景への、言いようのない戦慄。門をくぐる前に, 自分の心が「洗礼（ウォッシュ）」されたかのような。あの。峻烈なまでの「秩序への帰依」。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "tup-",
+					"meaning": "to strike / beat"
+				}
+			],
+			"points": [
+				"Type（文字／打ち出されたもの）と同じ root。ティンパヌムは, 大地という名の『皮』を打ち鳴らして、天へと音（意味）を飛ばすための、空間の楽器なのです。"
+			]
+		}
+	},
+	{
+		"id": "ziggurat",
+		"word": "Ziggurat",
+		"meaning": "ジッグラト, 聖塔、(高く登る)場所、階段としての階段、神への接近",
+		"era": "Mid-19th Century",
+		"etymology": {
+			"components": [
+				"zaqaru (to build high)"
+			],
+			"original_statement": "From Akkadian ziqquratu 'summit / mountain top / pinnacle', from zaqaru 'to build high / to be high'."
+		},
+		"concept": "The tiered ascent (「一気」に天へ届く不遜（ふそん）を捨て。一段、一段と、自分の「努力（ステップ）」を「積み上げ(zaqar-)」て。ゆっくりと, しかし確実に「神」の住む「高み（ゼニス）」へと近づこうとする。謙虚で強靭な「垂直の旅」)",
+		"thinking": "「ジッグラト」。その名は「高く築かれたもの」。ピラミッドが「死」の場所なら, ジッグラトは「登る（生きる）」場所です。あなたが、自分の目標を。「魔法」で手に入れたいと願うのをやめ。今日できる「レンガの一積み」を、何千回も繰り返して自分を「高く」しようとするとき。あなたは、自分の魂の中にこの巨大なジッグラトを建設しています。階段を一段登るたびに。あなたは、以前より少しだけ「神に近い視点」を手に入れるでしょう。",
+		"part_of_speech": "noun",
+		"aftertaste": "灼熱（しゃくねつ）の太陽の下で。延々と続く「石の階段」を登り続ける。足の裏の痛みと。そして。頂上に辿り着いた瞬間に吹き抜ける, 地上では決して味わえない「澄み切った風」の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "unknown",
+					"meaning": "Akkadian 'zaqaru' (to rise up / be high)"
+				}
+			],
+			"points": [
+				"山を模した人造の山。ジッグラトとは, 平らな大地という『運命』を拒否し、自らの手で『最高点（サミット）』を創り出そうとした、人類最古の反逆の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "merlon",
+		"word": "Merlon",
+		"meaning": "狭間(さま), (高く立ち上がる)部分、防壁の歯、孤独な監視者の檻",
+		"era": "Mid-16th Century",
+		"etymology": {
+			"components": [
+				"merulae (small blackbirds / battlement pieces)"
+			],
+			"original_statement": "From French merlon, probably from Latin merulae 'small blackbirds' (metaphor for the crenels looking like perching birds, or a corruption of Latin moerus 'wall')."
+		},
+		"concept": "The jagged guard (「壁」を、ただの「防壁(wall)」で終わらせず。そこに「凸（メロン）」と「凹（クレネル）」という「リズム」を与えることで。身を隠しながら、外の「真実」を「狙い撃つ」ことを可能にした、不器用で「鋭利」な防衛の機能美)",
+		"thinking": "「メロン（狭間）」。城壁のテッペンにある、あの「ギザギザ」の「出っ張った」部分。あなたは。外からの攻撃を恐れるとき, ただ「穴」に閉じこもる（凹）のではなく。このメロン（凸）のように、自分を「突き出して」防御の盾とする必要があります。メロン。それは、あなたの「強情さ（頑固さ）」。でも。その「硬い石の陰」に隠れることで, あなたは初めて、安心して外の世界を「客観的（クール）」に眺めることができるのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "石の壁に背中を預け。一瞬だけ顔を出して, 外の「カオス」を俯瞰（ふかん）する、あの。震えるようなスリルと。自分は「守られている」という, 冷たい石の「抱擁」の安堵感。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "unknown",
+					"meaning": "Latin 'merula' (blackbird) / or 'moerus' (wall)"
+				}
+			],
+			"points": [
+				"Merle（クロウタドリ）と同じ root。黒い鳥が城壁に羽を休めているような, 静かだが鋭い警戒心。メロンは、あなたの魂が見せる『沈黙の牙』なのです。"
+			]
+		}
+	},
+	{
+		"id": "embrasures",
+		"word": "Embrasures",
+		"meaning": "銃眼、(広げられた)口、内なる安全からの視線、選択的露出、防御としての開口",
+		"era": "Early 18th Century",
+		"etymology": {
+			"components": [
+				"embraser (to widen an opening)"
+			],
+			"original_statement": "From French embrasure, from embraser 'to widen an opening / splay'."
+		},
+		"concept": "The widening void (「外」は「狭（せま）く」。「内」は「広く(em-bras-)」。自らの身を「安全な暗闇」に置きながら。そこから放たれる「矢（言葉）」だけは、全方位に「拡散（ディフュージョン）」することを許す, 知性のための「一方通行な窓」)",
+		"thinking": "「エンブラシュア（銃眼）」。それは。あなたが、自分の「秘密（コア）」を守りながら、それでも世界と「対話」したいと願った結果、生まれた形。あなたが。SNSや日記という「小さな隙間」から、自分の想いを世界に放つとき, それはこのエンブラシュアそのもの。外からはあなたが見えなくても。あなたは、その「広げられた窓（エンブラシュア）」から、宇宙のすべてを「狙い澄ます（エイム）」ことができるのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "暗い壁の向こうから、一筋だけ射し込む「光」。その「狭くて、眩（まぶ）しい」景色の中に。自分の「全神経」を集中させた瞬間の。あの。怖ろしいほどに瑞々（みずみず）しい「主観的な支配」の快感。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "unknown",
+					"meaning": "Old French 'embraser' (to widening / splay)"
+				}
+			],
+			"points": [
+				"Embrace（抱擁／腕の中に広げる）と近い感覚。自分という『安全な腕の中』を、外の世界に対してそっと『開く』こと。それが, 銃眼（エンブラシュア）の持つ、優しくも峻烈なパラドックスなのです。"
+			]
+		}
+	},
+	{
+		"id": "minaret",
+		"word": "Minaret",
+		"meaning": "ミナレット、(光を灯す)塔、祈りの垂直線、天への呼びかけ、砂漠の指針",
+		"era": "Late 17th Century",
+		"etymology": {
+			"components": [
+				"manarat (lamp / lighthouse)",
+				"nur (light)"
+			],
+			"original_statement": "From French minaret, from Turkish minare, from Arabic manarat 'lighthouse / lamp', from nar 'fire / light'."
+		},
+		"concept": "The beacon of voice (ただ「高い」だけではない。その頂上に「光(nur-)」を灯（とも）し。そこから「祈り（声）」を「全角（全方位）」に響かせることで。迷える「旅人」たちに「今、ここ（現在地）」を知らせる、垂直の「知性」)",
+		"thinking": "「ミナレット」。そのルーツは「灯台（マナラート）」。砂漠の海の中で、どこへ向かえばいいのか。それを知らせる、光り輝く「一本の指」。あなたが。自分の確固たる「信念」を確立し。それを「高い声」で世界に発信し始めたとき。あなたの存在は、誰かの暗闇を照らすミナレットになります。高くあることは。自分を誇るためではなく, 誰かを「導く」ためなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "夕暮れの空に「スッ」と伸びる、一本のシルエット。そこから、空気を震わせて降りてくる。何とも言えない「切なくて、力強い」祈りの声。自分が「守られている」と確信する、あの。峻烈な「魂の帰還（リターン）」。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "unknown",
+					"meaning": "Arabic 'manarah' (place of light)"
+				}
+			],
+			"points": [
+				"火（nar）の場所。ミナレットは, 本来、暗い大地に火を掲げるための台座。それがやがて『神の声』を灯す場所になった、という文明の昇華の物語です。"
+			]
+		}
+	},
+	{
+		"id": "pendentive",
+		"word": "Pendentive",
+		"meaning": "ペンデンティヴ、(吊り下げられた)三角形、ドームを支える幾何学、不可能な統合",
+		"era": "Early 18th Century (in English)",
+		"etymology": {
+			"components": [
+				"pendre (to hang)",
+				"pendere (to cause to hang)"
+			],
+			"original_statement": "From French pendentif, from Latin pendere 'to hang'."
+		},
+		"concept": "The hanging geometry (「四角い部屋(square-)」の上に、あえて「丸い天（ドーム）」を載せる、という「論理的な矛盾」を。その四隅に「吊り下がる(pend-)」ような「三角形」の壁を作ることで「完璧に解消」してみせた。建築における「超越的な解決」の筆跡)",
+		"thinking": "「ペンデンティヴ」。四角と円。それは、人間（ロゴス）と神（カオス）。どうしても「噛み合わない」二つの世界を。あなたは、どうやって統合（アジャスト）しますか。ペンデンティヴは教えてくれます。「中間に、宙に浮くような新しい形（三角形）を作ればいいのだ」と。あなたが、正反対の意見の間で「第三の道」を見つけたとき。あなたの知性は、このペンデンティヴのように、重力を忘れ、空を「カチリ」と支えているのです。",
+		"part_of_speech": "noun / adjective",
+		"aftertaste": "ドームを見上げた瞬間の。重い石が、まるで「宙に浮いている」かのように見える、あの。物理法則を超越したかのような、峻烈なまでの「軽やかさ」への驚愕。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "pend-",
+					"meaning": "to hang / weigh / pay"
+				}
+			],
+			"points": [
+				"Append（付け加える）や Depend（依存する）と同じ root。重みを『吊るす（掛ける）』ことで、代わりに空虚（スペース）を手に入れる、という等価交換（ペイ）の幾何学なのです。"
+			]
+		}
+	},
+	{
+		"id": "squinch",
+		"word": "Squinch",
+		"meaning": "スクインチ、(角の)アーチ、四角から円への移行、不器用な接合、境界の埋め合わせ",
+		"era": "Late 16th Century",
+		"etymology": {
+			"original_statement": "Probably an alteration of Old French escuinche, from escuincher 'to cut aslant / corner-wise'."
+		},
+		"concept": "The corner-wise cut (角を「斜めに切り(squinch-)」取り、そこに小さな「アーチ」を嵌（は）め込む。ペンデンティヴが「空中浮遊」なら, スクインチは「力（ちから）わざ」。土着の力が、「天（ドーム）」を支えるために「踏（ふ）ん張（ば）る」ための、最も「誠実」な接点)",
+		"thinking": "スクインチ。それは「力強い妥協」。四角い土台に、どうしても丸い屋根を載せたい。そのとき、四隅の角に「グイッ」と石を詰め込み, 半ば強引に「円に近い八角形」を作り出す。あなたが、理想（円）と現実（四角）の間で。自分を「少しだけ削（けず）り（アジャスト）」、不格好ながらも「なんとか形を整えよう」としているとき。その「不器用な努力（スクインチ）」こそが。あなたの人生という建築を, 「一応の完成」へと導くのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "ペンデンティヴのような「スマートさ」はないが。どこか「守ってあげたくなる」ような, 無骨な石のアーチ。そこにある, 人間らしい「不器用だが不屈な」意志の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "unknown",
+					"meaning": "Old French 'escuincher' (to cut slantwise / corner-wise)"
+				}
+			],
+			"points": [
+				"Scant（不十分な）と近い感覚も。完璧ではない（スカント）な場所を、あえて『斜めに切る』ことで解決する。不足（スキャント）こそが, 新しい形（スクインチ）を生むのです。"
+			]
+		}
+	},
+	{
+		"id": "trompe-loeil",
+		"word": "Trompe-loeil",
+		"meaning": "騙し絵、(眼を欺く)虚構、建築という名の幻影、実在しない深淵、技巧による超越",
+		"era": "Early 19th Century (term), though technique is ancient",
+		"etymology": {
+			"components": [
+				"tromper (to deceive)",
+				"le (the)",
+				"oeil (eye)"
+			],
+			"original_statement": "From French trompe-l'oeil, literally 'deceives the eye'."
+		},
+		"concept": "The hijacked vision (ただの「平らな壁」を。「線（パースペクティブ）」と「陰影」の「技巧（ペイント）」だけで「無限に続く回廊」や「高い天井」に変えてしまう。人間の視覚（インテレクト）という名の「弱点」を突いた, 最も「贅沢（ルミナス）」な嘘)",
+		"thinking": "「トランプ・ルイユ（騙し絵）」。それは、あなたが見ている「現実」とは何か、という問い。目の前の壁に、美しい庭（ガーデン）が描かれていたら, それは「偽物」でしょうか。もし、それを見てあなたの心が「安らいだ」のなら。その「美しき嘘」は、冷たい石の壁よりも「真実（ロゴス）」に近い。建築において。私たちは。技巧によって「不可能な空間」を創り出すことができます。想像力は。物理学を超えるための唯一の「鍵（トランプ）」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "手を伸ばせば届きそうな「柱」。しかし触れれば, そこにあるのはただの「平らな壁」。自分の「目」が完全に「負けた」と知った瞬間の。あの。怖ろしいほどの「技巧」への降伏と, 甘い「陶酔」。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "unknown",
+					"meaning": "tromper (to trick / deceive / blow a horn)"
+				},
+				{
+					"term": "okw-",
+					"meaning": "to see (from oeil)"
+				}
+			],
+			"points": [
+				"Trumpet（トランペット／吹き鳴らす）と同じ tromp-。音で人を驚かせるように。絵で人の眼（オキュラス）を驚かせること。欺くことは, 驚かせること（サプライズ）の極北なのです。"
+			]
+		}
 	}
 ];
