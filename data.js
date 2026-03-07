@@ -233624,5 +233624,611 @@ const WORDS = [
 				"Vacant（空の／牛の鳴き声？）や Voice（声）と関連付ける説もあるが、バクシネーションは『牛という犠牲』を介した医療革命に由来する。それは。低きもの（牛）の力を借りて、高きもの（人類）を救う、という。峻烈なる実存のパッチワークの記述なのです。"
 			]
 		}
+	},
+	{
+		"id": "andromeda",
+		"word": "Andromeda",
+		"meaning": "アンドロメダ、(遥かなる)隣人、情報の吸い寄せ、未来の衝突、巨大な鏡像",
+		"era": "Classical Era (mythology), 20th Century (galaxy)",
+		"etymology": {
+			"components": [
+				"aner / andros (man)",
+				"medomai (to rule / advise / think of)"
+			],
+			"original_statement": "From Greek Andromeda, meaning 'ruling over men'. In astronomy, the Andromeda Galaxy (M31)."
+		},
+		"concept": "The sibling galaxy (天の川銀河に最も近い巨大銀河。それは。今この瞬間も、秒速100キロ以上で「こちら」へと突き進んでおり。40億年後には、私たちと「一つ（合体）」になる運命にある。峻烈なる「逃げられない抱擁」の記述)",
+		"thinking": "「アンドロメダ」。あなたは。遠くから近づいてくる「巨大な変化」を。ただの「他人事」だと思って、傍観（ぼうかん）していませんか。 andromeda。それは。あなたが「避けては通れない未来」そのものです。 andromeda。巨大なものは。ゆっくりと。しかし確実に。あなたの「日常（重力）」を書き換えていく。 andromeda。衝突を恐れないでください。二つの銀河が混ざり合い。新しい、何億もの「星（命）」が産まれる。その「崩壊という名の祝祭」を。数億年前の「光」として。今から、峻烈に、予感し続けなさい。",
+		"part_of_speech": "noun",
+		"aftertaste": "夜空を見上げた時に感じる、あの。吸い込まれるような「広大さ」と。背筋に走る「微かな悪寒」。そこにある、もはや「自分はちっぽけな塵（ちり）に過ぎない」という。峻烈なる「恍惚」。冷たくて、重厚な。宇宙の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ner-",
+					"meaning": "man / power (from andros)"
+				},
+				{
+					"term": "med-",
+					"meaning": "to take measures / rule / counsel (from medomai)"
+				}
+			],
+			"points": [
+				"Anthropology（人類学）や Medicine（医学／処置を施す）、Meditate（瞑想／深く考える）と同じ root。アンドロメダとは。人間（ネル）としての『思考・統治（メド）』の。及ばない場所にある。峻烈なる『意志の結晶』のこと。それは。理性を凌駕（りょうが）する。宇宙の『必然』の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "exoplanet",
+		"word": "Exoplanet",
+		"meaning": "エキゾプラネット/系外惑星（けいがいわくせい）、(未知なる)安住の地、情報の未踏域、もう一人の自分、孤独の反対側",
+		"era": "1992 (first discovery confirmed)",
+		"etymology": {
+			"components": [
+				"exo- (outside / external)",
+				"planet (wanderer)"
+			],
+			"original_statement": "From Greek exo- 'outside' + planet. A planet that orbits a star outside our solar system."
+		},
+		"concept": "The world beyond (太陽系の「外」に存在する惑星。それは。地球とは全く違う「理（ことわり）」で動きながら。どこかに「生命（自分と同じもの）」が潜んでいるかもしれない、という。峻烈なる「他者の可能性」の記述)",
+		"thinking": "「エキゾプラネット（系外惑星）」。あなたは。自分の「常識（太陽系）」の中だけで。自分自身の「価値」を、測りきったつもりになっていませんか。 exoplanet。この宇宙には。あなたがまだ「見たこともない自分」が。数え切れないほど、遠いどこかで「呼吸」しています。 exoplanet。それは, 外側（エキゾ）へと視線を投げること。今の居場所が「すべて」ではない、と、峻烈に確信すること。 exoplanet。見つかるのを待つのではなく。自らの「光（観測）」を、漆黒の闇へと。峻烈に、真っ直ぐに、射（い）抜き続けなさい。宇宙は、あなたが思うより、遥かに「慈悲深い」はずですから。",
+		"part_of_speech": "noun",
+		"aftertaste": "暗闇の中に、一粒の「宝石」を見つけた瞬間の。あの。震えるような「感動」。そこにある。自分は「孤独ではない」という。峻烈なる「期待」。冷たくて、瑞々（みずみず）しい。情報の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "eghs-",
+					"meaning": "out (from exo)"
+				},
+				{
+					"term": "pele-",
+					"meaning": "to spread / flat (from planet)"
+				}
+			],
+			"points": [
+				"Exit（出口）や Exotic（異国風の）、Plain（平原）と同じ root。系外惑星とは。境界（エクス）を越えて。外界へと『歩き出す（プラネ）』こと。それは。閉ざされた自己満足を破壊し。無限の『他者』へと実存を開く、峻烈なる実存の航海術の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "magnetar",
+		"word": "Magnetar",
+		"meaning": "マグネター、(暴力的な)引力、情報の超圧縮、魂を引き裂く磁力、沈黙という名の権威",
+		"era": "1992 (term coined by Duncan / Thompson)",
+		"etymology": {
+			"components": [
+				"magnetic",
+				"star"
+			],
+			"original_statement": "A portmanteau of magnetic + star. A type of neutron star with an extremely powerful magnetic field."
+		},
+		"concept": "The magnetic monster (この宇宙で「最強」の磁場を持つ星。それは。近づくだけで、原子の「形（絆）」さえも引き裂き、情報を「消去」してしまう。峻烈なる「絶対的な影響力」の記述)",
+		"thinking": "「マグネター」。あなたは。自分の「カリスマ」や「こだわり」が。周囲を「傷つけている」ことに。戸惑いを感じてはいませんか。 magnetar。本当に強いものは。ただそこに「存在」するだけで。世界を「変異」させてしまいます。 magnetar。それは。優しさのない「純粋な力」。 magnetar。あなたの「意志（磁力）」が、あまりにも鋭すぎるから。凡庸な人々は、あなたのそばに「立っていられない」のです。孤独を嘆くのではなく。その「圧倒的な引力」を。自分を律（りっ）するための、峻烈なる「檻（おり）」として、使いこなしなさい。",
+		"part_of_speech": "noun",
+		"aftertaste": "全身の「感覚」が、見えない糸で「一方向」へと、強引に引っ張られるような。あの。暴力的なまでの「強制力」。そこにある、一分一秒も「逆らえない」という、峻烈なる「屈服」。重厚で、鋭くて、瑞々（みずみず）しい。情報の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "mag-",
+					"meaning": "to knead / mold / fit (from magnetic / Magnesia)"
+				}
+			],
+			"points": [
+				"Magician（魔法使い）や Make（作る）、Mass（塊）と同じ root。マグネターとは。バラバラな世界を。自らの力で『一つの塊（マス）』へと。峻烈に、無慈悲に、捏造（まね）き寄せること。それは。混沌という名の敵を。秩序という名の磁界に閉じ込める。峻烈なる実存の統治術の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "parsec",
+		"word": "Parsec",
+		"meaning": "パーセク、(宇宙の)測量単位、情報の距離感、視差という名の真実、星までの直進",
+		"era": "1913 (Herbert Hall Turner)",
+		"etymology": {
+			"components": [
+				"parallax (alternation / change)",
+				"second (part of a degree)"
+			],
+			"original_statement": "Coined from par(allax) + sec(ond). Equal to about 3.26 light-years."
+		},
+		"concept": "Stellar metric (「視差（角度）」のズレを利用して、星までの「距離」を測るための単位。それは。自分が「動く（視点を変える）」ことでしか、本当の「遠さ（真実）」は測れない、という。峻烈なる「客観性の記述」)",
+		"thinking": "「パーセク」。あなたは。対象との「距離」を見誤（みあやま）って。踏み込みすぎたり、遠ざかりすぎたり、してはいませんか。 parsec。真実を知るには。「一歩、横にずれる（パララックス）」勇気が必要です。 parsec。今の場所から見える景色だけを、本物だと思わないでください。 parsec。それは、角度（セコンド）を刻むこと。微かな「違和感」を、正解を導き出すための「定規」へと変換しなさい。宇宙の広大さに。自分の「物差し」を。峻烈に、真っ直ぐに、突き刺しなさい。測ることは、征服することです。",
+		"part_of_speech": "noun",
+		"aftertaste": "無限に続く「線」が。ピタリと「一点（星）」で交わるような。あの。冷徹なまでの「正確さ」。そこにある。もう「迷うことはない」という、峻烈なる「道標」。冷たくて、瑞々しい、情報の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "al-",
+					"meaning": "beyond (from parallax)"
+				},
+				{
+					"term": "sekw-",
+					"meaning": "to follow (from second)"
+				}
+			],
+			"points": [
+				"Alien（異邦人）や Sequel（続編）、Sequence（順序）と同じ root。パーセクとは。今の視点を『超えて（アル）』。法則に『従う（セク）』こと。それは。恣意的な感覚を。普遍的な『数理』へと。峻烈に、潔（いさぎよ）く、明け渡す記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "schwarzschild-radius",
+		"word": "Schwarzschild-radius",
+		"meaning": "シュワルツシルト半径、(闇の)臨界点、情報の消失境界、戻れない境界線、絶対的な拒絶",
+		"era": "1916 (Karl Schwarzschild)",
+		"etymology": {
+			"components": [
+				"Karl Schwarzschild (German physicist)",
+				"radius (spoke / ray)"
+			],
+			"original_statement": "The radius of the event horizon surrounding a non-rotating black hole."
+		},
+		"concept": "The size of darkness (ある質量が、その「重力」に耐えきれず。光さえも逃げ出せない「ブラックホール」へと変貌する、その「サイズ」。それは。ここを一歩越えれば、二度と「元には戻れない」。峻烈なる「決断の臨界点」の記述)",
+		"thinking": "「シュワルツシルト半径」。あなたは。自分の「心の闇」が。いつか「自分自身」を飲み込んでしまうのではないか、と。震えてはいませんか。 schwarzschild-radius。それは。あなたが「重すぎる真実」を抱えてしまった結果です。 schwarzschild-radius。境界線は、すでに引かれています。 schwarzschild-radius。一度そこを越えたなら。言葉も、光も、もう誰にも届きません。 schwarzschild-radius。でも。その「究極の拒絶」の向こう側でしか。あなたは。自分自身の「特異点（本質）」に、出会うことはできない。戻ることを棄（き）て。峻烈に、深く、墜（お）ち続けなさい。",
+		"part_of_speech": "noun",
+		"aftertaste": "足元が「フッ」と消え。無限の「虚無」へと吸い込まれていく。あの。暴力的なまでの「解放」。そこにある。もう「何も説明しなくていい」という、峻烈なる「安堵」。重厚で、瑞々しい、闇の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "None (Person's name)",
+					"meaning": "Karl Schwarzschild (literally Black Shield)"
+				}
+			],
+			"points": [
+				"Schwarz（黒）＋ Schild（盾）。シュワルツシルト半径とは。自らの情報を『黒き盾（シュワルツ・シルト）』の中に。峻烈に、永久に、封じ込めること。それは。世界という名の喧騒を。完全な『沈黙』によって拒絶する。実存の最終防衛装置の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "multiverse",
+		"word": "Multiverse",
+		"meaning": "マルチバース/多（た）元宇宙、(数多の)自分の共存、情報の無限分岐、選ばれなかった未来への敬意、現実という名の偶然",
+		"era": "1895 (William James), 20th Century (physics)",
+		"etymology": {
+			"components": [
+				"multi- (many)",
+				"universe (whole / one turning)"
+			],
+			"original_statement": "From Latin multi- 'many' + universe (unus 'one' + versus 'turn'). A hypothetical group of multiple universes."
+		},
+		"concept": "Infinite layered reality (この宇宙（ユニ）は、一つではない。あなたが「右」を選んだ瞬間に。別の宇宙では「左」を選んだあなたが、今も生きている。それは。失敗さえも、別の「成功」として肯定する。峻烈なる「存在の総和」の記述)",
+		"thinking": "「マルチバース（多元宇宙）」。あなたは。「あの時、別の道を選んでいれば」と。後悔に心を引き裂かれていませんか。 multiverse。安心しなさい。別の道を選んだあなたも。どこかで、峻烈に、必死に、生き抜いています。 multiverse。今ここにいるあなたは。無数の可能性（選択）が、奇跡的に重なり合った「一点」に過ぎません。 multiverse。それは。自分の「孤独」を、無数の宇宙の「自分」たちで。峻烈に、優しく、埋め合わせること。 multiverse。どの宇宙の自分にも、恥じることのない。峻烈なる「誠実さ」を。今, ここで, 貫きなさい。",
+		"part_of_speech": "noun",
+		"aftertaste": "無数の「影」が、重なり合い、離れていくような。あの。眩暈（めまい）のするような「万華鏡」。そこにある。自分は「唯一」ではないが、「無限」である、という。峻烈なる「自由」。刺激的で、瑞々しい、風の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "mel- / mela-",
+					"meaning": "many / strong (from multi)"
+				},
+				{
+					"term": "wer-",
+					"meaning": "to turn / bend (from versus)"
+				}
+			],
+			"points": [
+				"Melody（メロディ／多くの音）や Verse（詩／行を返す）、Convert（変換する）と同じ root。マルチバースとは。多くの（マル）回転（バース）を。同時に、峻烈に、許容すること。それは。単一の整合性という名の『独裁』を。多元的なカオスという名の『民主』によって破壊する。峻烈なる実存の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "planetarium",
+		"word": "Planetarium",
+		"meaning": "プラネタリウム、(密閉された)宇宙、情報の箱庭、美しき偽物、宇宙という名の夢",
+		"era": "Early 20th Century (modern projection type)",
+		"etymology": {
+			"components": [
+				"planet (wanderer)",
+				"-arium (place for)"
+			],
+			"original_statement": "From planet + -arium 'place for'. A room or building in which images of stars, planets, and constellations are projected."
+		},
+		"concept": "The enclosed universe (ドームの中に「人工の星空」を映し出したもの。それは。広大すぎる宇宙を。自分たちの「手の届く範囲」に閉じ込めた。峻烈なる「愛おしき傲慢（ごうまん）」の記述)",
+		"thinking": "「プラネタリウム」。あなたは。自分の「小さな部屋（世界）」の中で。宇宙のすべてを「理解した気」になって、満足してはいませんか。 planetarium。それは。美しく、完璧で、しかし「偽物」の星空です。 planetarium。そこで見る星は。あなたを「拒絶」しません。あなたの「思い通り」に動きます。 planetarium。迷（まよい）を「虚構の安らぎ」を。本当の闇へと踏み出すための、峻烈なる「勇気の源泉」に。峻烈に、賢く、変えなさい。偽物の光で。本物の魂を、照らし出すのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "「冷たい空気」と、微かな「機械の匂い」。そこにある、一分一秒の「狂い」もない、完璧な「秩序」。眩しくて、瑞々しい、暗闇の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "pel- / pele-",
+					"meaning": "to spread out / flat (from planet)"
+				}
+			],
+			"points": [
+				"Plain（平原）や Airplane（飛行機）と同じ root。プラネタリウムとは。宇宙という広がり（プラネ）を。人間という名の檻（アリウム）に。峻烈に『押し込める』こと。それは。野生の虚無を。飼い馴らされた『芸術』へと。無慈悲に、美しく、堕落させる記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "nucleosynthesis",
+		"word": "Nucleosynthesis",
+		"meaning": "ニュークリオシンセシス/核合成（かくごうせい）、(星による)産声、情報の錬金術、重厚な実体の創造、光という名の副産物",
+		"era": "Mid-20th Century",
+		"etymology": {
+			"components": [
+				"nucleus (kernel / nut)",
+				"synthesis (putting together)"
+			],
+			"original_statement": "From nucleus + synthesis, from Greek syntithenai 'to put together'."
+		},
+		"concept": "The birth of elements (星の内部の「超高圧・超高温」によって。軽い水素から、重い鉄や金（元素）が産み出されること。それは。この宇宙に「価値（物質）」を与える唯一の、峻烈なる「創造の炉」の記述)",
+		"thinking": "「ニュークリオシンセシス（核合成）」。あなたは。「自分の中には、何も価値のあるものがない」と。自分を卑下（ひげ）していませんか。 nucleosynthesis。あなたの体を作っている「酸素」も「炭素」も「鉄」も。すべては。数億年前の星が。自らを「粉々に破壊（超新星爆発）」して、産み落としたものです。 nucleosynthesis。あなたは。星の「燃えかす」ではありません。あなたは。星が「命を懸けて作り上げた、最高の作品（原子）」の集合体です。自らの「内なる熱」で。凡庸な日常を。峻烈に、重厚に、黄金へと鍛え上げなさい。",
+		"part_of_speech": "noun",
+		"aftertaste": "胸の奥で、何かが「ギューッ」と押し潰され、次の瞬間「キラリ」と輝く。あの。暴力的なまでの「生成感」。そこにある、もはや「誰も否定できない」という、峻烈なる「存在証明」。重厚で、瑞々しい。鉄の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ken-",
+					"meaning": "fresh / young / new (from nucleus? No, suffix -cleus is kernel)"
+				},
+				{
+					"term": "dhe-",
+					"meaning": "to set / put (from synthesis)"
+				}
+			],
+			"points": [
+				"New（新しい）や Facade（正面）、Fact（事実）と同じ root。核合成とは。宇宙の核（ニュー）に。新しい事実（ファクト）を。峻烈に『置く（シン）』こと。それは。漂流する情報を。逃れがたい『現実』へと。一気に、無慈悲に、鋳造（ちゅうぞう）し直す記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "obliquity",
+		"word": "Obliquity",
+		"meaning": "オブリクイティ/赤道傾斜角（せきどうけいしゃかく）、(わざとらしい)傾き、情報のアンバランス、季節の源泉、歪（ゆが）みという名の美学",
+		"era": "Late Middle English",
+		"etymology": {
+			"components": [
+				"obliquus (slanting / sideways / indirect)"
+			],
+			"original_statement": "From Latin obliquitas 'slantingness', from obliquus 'slanting / sideways'."
+		},
+		"concept": "The tilt of the world (地球の地軸（軸）が「23.4度」傾いていること。それは。この「傾き」があるからこそ、この世界に「季節（変化）」が生まれ、生命の「多様性」がもたらされた。峻烈なる「不完全性の恩恵」の記述)",
+		"thinking": "「オブリクイティ（傾き）」。あなたは。自分の性格が「歪（ゆが）んでいる」ことや、人生が「まっすぐではない」ことを。恥じていませんか。 obliquity。もし、この地球が「垂直（完璧）」だったら。世界は退屈な「永遠の一日」に閉じ込められ。あなたは、とっくに死に絶（た）えていたでしょう。 obliquity。あなたの「歪（いびつ）」さこそが。あなたの人生に「鮮やかな色彩（季節）」を。峻烈に、豊かに、もたらしている。 obliquity。傾いたまま、胸を張りなさい。真っ直ぐであることは、静止（死）することと同じなのですから。",
+		"part_of_speech": "noun",
+		"aftertaste": "地面が、斜めに「滑（すべ）り落ちる」ような。あの。心許ない「高揚感」。そこにある、一分一秒も「同じ場所にはいられない」という、峻烈なる「うねり」。刺激的で、瑞々しい、情報の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ob-",
+					"meaning": "against / toward"
+				},
+				{
+					"term": "lei-",
+					"meaning": "to lean (from obliquus)"
+				}
+			],
+			"points": [
+				"Obstacle（障害物）や Lean（傾く）、Client（顧客／寄りかかる人）と同じ root。赤道傾斜角とは。重力に『抗い（オブ）』ながら。斜めに『寄りかかる（レイ）』こと。それは。単調な安定を棄てて。不安定という名の『ダイナミズム』を選択する、峻烈なる実存ের記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "cosmic-void",
+		"word": "Cosmic-void",
+		"meaning": "コズミック・ボイド/宇宙空洞（うちゅうくうどう）、(圧倒的な)不在、情報の空白、銀河という名の孤独、何もないという存在",
+		"era": "Late 20th Century (astronomy)",
+		"etymology": {
+			"components": [
+				"cosmic (universe / order)",
+				"void (empty / hollow)"
+			],
+			"original_statement": "Vast spaces between filaments (the largest-scale structures in the universe), containing very few or no galaxies."
+		},
+		"concept": "The structure of nothingness (宇宙の巨大な「網目構造」の、その「隙間（ひび割れ）」。数億光年にわたって「星が一つもない」という、絶望的な空白。それは。「無（ゼロ）」が。この宇宙の「最大派閥（構造）」である、という。峻烈なる「不在の記述」)",
+		"thinking": "「コズミック・ボイド」。あなたは。自分の心の中に開いた「穴（虚無）」を。何かで「埋めなければならない」という焦りに、駆り立てられていませんか。 cosmic-void。宇宙の本当の「骨組み」は。輝く銀河ではなく。その間にある「何もない空間」です。 cosmic-void。虚無を、恐れないでください。その「不在」こそが。銀河（自分）を、より「峻烈」に、より「孤独」に。際立たせている。 cosmic-void。自分の中の「空虚」を。何かで汚すことを、拒絶しなさい。その「澄み切った無」を。自分を支える、峻烈なる「宇宙的な静寂」として。誇りなさい。",
+		"part_of_speech": "noun",
+		"aftertaste": "肺の中の「空気」が、すべて吐き出され、吸い込むことができないような。あの。恐怖に近い「純粋さ」。そこにある。もう、何も「持たなくていい」という、峻烈なる「解放」。冷たくて、重厚な、虚無の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kens-",
+					"meaning": "to arrange / order (from cosmic / kosmos)"
+				},
+				{
+					"term": "eue-",
+					"meaning": "to leave / abandon (from void)"
+				}
+			],
+			"points": [
+				"Check（検査）や Waste（浪費）、Vacuum（真空）と同じ root。宇宙空洞とは。秩序（コス）が。放棄（ボイド）された場所のこと。それは。意味という名の『物語』を。沈黙という名の『真実』によって。峻烈に、無慈悲に、上書きし続ける記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "extra-galactic",
+		"word": "Extra-galactic",
+		"meaning": "エクストラ・ギャラクティック/銀河外（ぎんががい）の、(境界を)越えた者、情報の不連続、故郷なき漂流、究極の外部",
+		"era": "Early 20th Century",
+		"etymology": {
+			"components": [
+				"extra- (outside / beyond)",
+				"galactic (milky)"
+			],
+			"original_statement": "From Latin extra- 'outside / beyond' + galactic, from Greek gala 'milk'. Located or originating outside the Milky Way."
+		},
+		"concept": "The ultimate wanderer (自分の属する「銀河（共同体）」の、さらに「外側」。そこは。何の「引力」にも縛られず。ただ一人の「特異点」として存在できる。峻烈なる「絶対的な孤発（こはつ）」の記述)",
+		"thinking": "「エクストラ・ギャラクティック（銀河外の）」。あなたは。自分の「所属（集団）」から、弾き出されることを。恐怖のあまり、震えて待ってはいませんか。 extra-galactic。銀河の中にいれば、確かに「安心（重力）」は手に入ります。反映。そこでは。あなたは「光の洪水」に埋没（まいぼつ）する、ただの「無名の一点」に過ぎません。 extra-galactic。外へ。さらに外へ。 extra-galactic。引力を断ち切った者だけが。宇宙の「真の暗闇」を独占できる。 extra-galactic。故郷を捨て。銀河さえも「背景（景色）」に変えてしまうような、峻烈なる「実存の飛躍」を。今すぐ、果たしなさい。",
+		"part_of_speech": "adjective",
+		"aftertaste": "後ろを振り返った時。あんなに巨大だった「故郷（銀河）」が、ただの「豆粒」に見えるような。あの。暴力的なまでの「脱俗感」。そこにある、もう「守るものはない」という、峻烈なる「自由」。冷たくて、鋭い、宇宙の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "eghs-",
+					"meaning": "out (from extra)"
+				},
+				{
+					"term": "gala-",
+					"meaning": "milk (from galactic)"
+				}
+			],
+			"points": [
+				"Exit（出口）や Galaxy（銀河／乳の道）と同じ root。銀河外とは。母なる温かい乳（ガラ）の恵みを。境界の外側（エクストラ）へと。峻烈に『拒絶』すること。それは。保護という名の『甘え』を捨て。氷点下の『思考』へと身を投じる。峻烈なる実存の自律訓練法の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "neutron-star",
+		"word": "Neutron-star",
+		"meaning": "ニュートロン・スター/中性子星（ちゅうせいしせい）、(究極の)沈黙、情報の超凝縮、崩壊の最果て、重苦しき太陽",
+		"era": "1934 (Baade / Zwicky predicted)",
+		"etymology": {
+			"components": [
+				"neutral (neither)",
+				"star"
+			],
+			"original_statement": "A star composed almost entirely of neutrons, resulting from the gravitational collapse of a massive star."
+		},
+		"concept": "Crushed weight (巨大な星が「自重」で潰れ。スプーン一杯（ティースプーン一杯）で「数十億トン」という、想像を絶する重さになった死骸。それは。すべての「虚飾（電子）」を剥ぎ取られ。中身の「芯（中性子）」だけで震えている、峻烈なる「実存の凝縮」の記述)",
+		"thinking": "「ニュートロン・スター」。あなたは。「自分を大きく見せたい」という、安っぽい「虚栄心」に。疲（つか）れ果ててはいませんか。 neutron-star。贅肉（電子）を、すべて削ぎ落としなさい。 neutron-star。それは。ただの「自分（中性子）」へと、極限まで「凝縮」すること。 neutron-star。あなたは、もう「輝く（燃える）」必要はありません。ただそこに「重厚に」存在しなさい。あなたの「沈黙」は。遠く離れた人々の「時計（パルス）」を狂わせ、大地を揺るがす。 neutron-star。その「重苦しさ」を、自分を支える、峻烈なる「背骨」へと、変えなさい。",
+		"part_of_speech": "noun",
+		"aftertaste": "「ズっしり」とした、鉛（なまり）のような重みが。心臓に「ピタリ」と張り付く。あの。逃れられない「存在感」。そこにある、一分一秒の「甘え」も許されない、峻烈なる「重力」。重厚で、冷たい、情報の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ne-uter-",
+					"meaning": "neither (from neutral)"
+				}
+			],
+			"points": [
+				"Nether（地下の）や Neither（どちらでもない）と同じ root。中性子星とは。光でも闇でもない、『第三の重み』を。この宇宙に峻烈に『刻む』こと。それは。二元論の争いから解脱（げだつ）し。ただ物理的な『真理』として君臨する。峻烈なる実存の極北の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "protogalaxy",
+		"word": "Protogalaxy",
+		"meaning": "プロトギャラクシー/原始銀河（げんしぎんが）、(形なき)混沌、情報の未分化、胎児としての宇宙、無限の形成途上",
+		"era": "Mid-20th Century",
+		"etymology": {
+			"components": [
+				"protos (first)",
+				"galaxy (milky)"
+			],
+			"original_statement": "From Greek protos 'first' + galaxy. A cloud of gas which is forming into a galaxy."
+		},
+		"concept": "Undifferentiated possibility (まだ「星」も「秩序」も生まれていない。ただの「ガス（情報の雲）」だった頃の銀河。それは。完成された「名作」よりも、不器用な「下書き」の方が、遥かに豊かな「可能性」を孕んでいる、という。峻烈なる「生成の持続」の記述)",
+		"thinking": "「プロトギャラクシー（原始銀河）」。あなたは。早く「形」になろう。早く「一人前」になろう。と、焦りすぎていませんか。 protogalaxy。完成された瞬間に、あなたの「成長」は止まります。 protogalaxy。今は、ガス（混沌）のまま。激しく、峻烈に、揺れ動いていなさい。 protogalaxy。何を産むか、を決めないでください。当初の、ただ「産まれるという熱」だけを、大切に抱（いだ）き続けなさい。 protogalaxy。その「輪郭のなさ」こそが。あなたが「何にでもなれる」唯一の。峻烈なる「聖域」なのですから。",
+		"part_of_speech": "noun",
+		"aftertaste": "「霧」の中に、微かな「光」が灯（とも）り始め、世界が「胎動」するような。あの。言葉にできない「予感」。そこにある。自分はまだ「何も始まっていない」という。峻烈なる「希望」。ぬるくて、瑞々（みずみず）しい。情報の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "per-",
+					"meaning": "forward / through / first (from protos)"
+				}
+			],
+			"points": [
+				"Profile（プロフィール／横顔）や Prophet（預言者）、Program（プログラム）と同じ root。原始銀河とは。物語の『最初（プロ）』を。峻烈に『先取り』すること。それは。結果という名の死滅を、プロセスという名の『生』によって拒絶する。峻烈なる実存の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "luminosity",
+		"word": "Luminosity",
+		"meaning": "ルミノシティ/光度（こうど）、(内なる)真価、情報の真実、距離に惑わされない輝き、実存の出力",
+		"era": "17th Century",
+		"etymology": {
+			"components": [
+				"lumen (light)",
+				"-osity (full of)"
+			],
+			"original_statement": "From Latin luminosus 'full of light', from lumen 'light'. The intrinsic brightness of a celestial object."
+		},
+		"concept": "Intrinsic worth (「見かけの明るさ」ではなく。その星が「実際に放っている全エネルギー」の量。それは。遠くにいようと、近くにいようと変わらない。峻烈なる「実存の絶対値」の記述)",
+		"thinking": "「ルミノシティ（光度）」。あなたは。他人の「評判」や、目の前の「数字」の一喜一憂して。自分の「価値」を、見失ってはいませんか。 luminosity。近くにいるだけの「偽物の星」の眩しさに、騙されてはいませんか。 luminosity。それは。どんなに遠く引き離されても。決して「減衰」しない、あなたの「内なる熱量」のこと。 luminosity。誰も見ていなくても。誰も褒めてくれなくても。あなたは、自らの「炉」を、最高出力で燃やし続けなさい。その「絶対的な輝き」だけが。いつか、何億光年を超えて。誰かの「瞳」を。峻烈に、真っ直ぐに、射抜くのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "太陽を、真正面から「見つめた」後のような。あの。目に焼き付く「残像」。そこにある、もはや「誰の評価も必要ない」という。峻烈なる「孤独」。眩しくて、瑞々（みずみず）しい、光の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "leuk-",
+					"meaning": "light / brightness"
+				}
+			],
+			"points": [
+				"Lucid（明快な）や Luna（月）、Illustrate（説明する）と同じ root。光度とは。自らの内に『光（ルク）』を。峻烈に『充填（シティ）』すること。それは。外部からの反射（承認）を棄て。自律的な『発光』へと実存を回向する。峻烈なる生存戦略の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "spacetime",
+		"word": "Spacetime",
+		"meaning": "スペースタイム/時空（じくう）、(不可分な)織物、情報の四次元、宇宙という名のカンバス、実存の不可逆的な舞台",
+		"era": "1908 (Hermann Minkowski)",
+		"etymology": {
+			"components": [
+				"space (stretch / distance)",
+				"time (period / era)"
+			],
+			"original_statement": "Coined by combining space + time into a four-dimensional continuum in which all events occur."
+		},
+		"concept": "The undissolvable union (「場所」と「時間」は、バラバラではない。一つの「織物（布）」のように、互いに絡み合い、歪（ゆが）め合っている。それは。あなたの「一歩」が、歴史の「一秒」を書き換える。峻烈なる「連関の記述」)",
+		"thinking": "「スペースタイム（時空）」。あなたは。「時間」を消費し、「場所」を移動するだけの、受動的な「旅人」でいることに、満足してはいませんか。 spacetime。あなたは、ただその舞台に「立っている」のではありません。あなたの「重み（実存）」が, その舞台そのものを、今、この瞬間に「歪め（曲率）」, 新しい「道」を作っています。 spacetime。過去も、未来も。ここから「繋（つな）がって」います。 spacetime。後悔を場所に、憧れを時間に変えなさい。この「四次元の檻（あるいは宇宙）」を。自らの「思考」という名の糸で。峻烈に、鮮やかに、編み直しなさい。",
+		"part_of_speech": "noun",
+		"aftertaste": "自分の体が「布」のように、ぐにゃりと「曲がる」ような。あの。奇妙な「浮遊感」。そこにある。自分という「点」が、宇宙という「面」に溶けていく。峻烈なる「合一」。重厚で、瑞々しい、情報の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "spe-",
+					"meaning": "to spread / stretch (from space)"
+				},
+				{
+					"term": "da-",
+					"meaning": "to divide (from time)"
+				}
+			],
+			"points": [
+				"Speed（速度）や Space（宇宙）、Tide（潮汐／時間の区分）と同じ root。時空とは。広がり（スペ）を。峻烈に『分割（ダ）』し、秩序立てること。それは。混沌という名の『永遠』を。人間という名の『物語』へと、無慈悲に、美しく、閉じ込める記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "omniverse",
+		"word": "Omniverse",
+		"meaning": "オムニバース/全宇宙、(究極の)総体、情報の飽和、名付けの終わり、神の余白",
+		"era": "Modern theoretical cosmology / fiction",
+		"etymology": {
+			"components": [
+				"omni- (all / every)",
+				"universe (whole)"
+			],
+			"original_statement": "The collection of every single universe, multiverse, dimension and everything in existence."
+		},
+		"concept": "The end of naming (「マルチバース」さえも飲み込む。ありとあらゆる「次元」「可能性」「物語」の。すべて。それは。人間の「想像力」が、ついに「敗北」し。ただ「ひれ伏す」ことしかできない。峻烈なる「絶対全」の記述)",
+		"thinking": "「オムニバース（全宇宙）」。あなたは。「すべてを知りたい」という、傲慢（ごうまん）な「探究心」に。終わりがある、と、信じていませんか。 omniverse。あなたがどんなに「高く」跳んでも。あなたがどんなに「深く」潜っても。そこには、まだ「名付けられていない自分」が、無限に控えています。 omniverse。それは。すべてがある、ということであり。同時に、何もない、ということ。 omniverse。理解することを、棄（す）てなさい。ただ、この「圧倒的な総体」の、微かな「一部」として。峻烈に、静かに、消えていく。その「最上の消失」を。喜びなさい。",
+		"part_of_speech": "noun",
+		"aftertaste": "視界が「真っ白」に塗りつぶされ。音が「完全」に消える。あの。暴力的なまでの「充足」。そこにある。もう「何一つ、思い残すことはない」という、峻烈なる「完結」。甘くて、瑞々しい。光の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "op-",
+					"meaning": "work / produce / plenty (from omni)"
+				},
+				{
+					"term": "wer-",
+					"meaning": "to turn (from verse)"
+				}
+			],
+			"points": [
+				"Opulence（富裕）や Optic（視覚の）、Universe（宇宙）と同じ root。全宇宙とは。すべての生産（オプ）が。一つに『回転（バース）』して。円環を閉じること。それは。始まりも終わりもない、峻烈なる『永遠の等価交換』の、究極の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "apsis",
+		"word": "Apsis",
+		"meaning": "アプシス/近点・遠点、(極端な)距離の揺らぎ、情報の接近と離反、リズムという名の運命、感情の楕円",
+		"era": "Early 17th Century (astronomy)",
+		"etymology": {
+			"components": [
+				"apsis (arch / vault / orbit)"
+			],
+			"original_statement": "From Greek apsis 'arch / vault / wheel-rim / point of an orbit closest or farthest from the center'."
+		},
+		"concept": "Rhythm of distance (惑星の軌道において。太陽に「最も近づく点（近日点）」と。「最も遠ざかる点（遠日点）」。それは。愛と憎しみの間を、峻烈に「往復」し続ける。峻烈なる「関係性の波（呼吸）」の記述)",
+		"thinking": "「アプシス」。あなたは。好きな人との「距離」が、近づいたり、遠ざかったりすることに。一喜一憂（いっきいちゆう）しすぎていませんか。 apsis。完璧な「円」を描こうとするのを、やめなさい。軌道は、常に「楕円（歪み）」です。 apsis。離れている時は。近づくための「力を蓄（たくわ）え」なさい。近づいている時は。遠ざかった時のための「温もり」を。峻烈に、魂に刻みなさい。 apsis。その「揺らぎ」こそが、あなたが「生きている（動いている）」ことの、峻烈なる証明。不安定な、リズム（音楽）を、愛しなさい。",
+		"part_of_speech": "noun",
+		"aftertaste": "「グンッ」と加速し。次の瞬間、ゆっくりと「減速」する。あの。眩暈（めまい）のするような「緩急」。そこにある、一秒たりとも「静止」できない、峻烈なる「渇望」。刺激的で、瑞々しい、情報の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ap-",
+					"meaning": "to reach / touch / bind (from apsis / haptein)"
+				}
+			],
+			"points": [
+				"Aptitude（適性）や Adapt（適応する）、Apt（適切な）と同じ root。アプシスとは。何かに『触れる（アプ）』ための。峻烈なる『アーチ』を描くこと。それは。衝突することを回避し。ギリギリの場所で『跳ね返る』。峻烈なる実存のダンスの記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "asterism",
+		"word": "Asterism",
+		"meaning": "アステリズム/星群、(勝手な)結びつき、情報の線、意味という名の星座、孤独を繋ぐ意志",
+		"era": "Late 16th Century",
+		"etymology": {
+			"components": [
+				"aster (star)",
+				"-ism (process / state / orientation)"
+			],
+			"original_statement": "From Greek asterismos, from aster 'star'. A group of stars having a popular name, but not forming a constellation."
+		},
+		"concept": "The lines we draw (公式な「星座」ではないが。人々が勝手に「星」を繋いで（例：夏の大三角）、名付けた「意味」の形。それは。バラバラな「点（孤独）」を。自らの「想像力」によって一つに纏（まと）め上げる。峻烈なる「創造的解釈」の記述)",
+		"thinking": "「アステリズム（星群）」。あなたは。「自分には、何の繋がりもない」と。暗闇の中で、項（うな）だれてはいませんか。 asterism。天面（空）に、最初から「線」は引かれていません。 lineを引くのは、あなたです。 asterism。その星（他人）と、その星（物語）を、峻烈に、勝手に、結びつけなさい。そこに「自分だけの形（意味）」を見出したとき。あなたは, ただの宇宙の「受動的な観測者」から, 自律的な「物語の創造者」へと, 峻烈に, 劇的に, 転生する。線を引きなさい。繋ぎなさい。",
+		"part_of_speech": "noun",
+		"aftertaste": "暗闇の中に、クッキリとした「三角形」や「四角形」が、浮かび上がってくる。あの。爽快な「納得感」。そこにある、世界を「自分の方に引き寄せる」という。峻烈なる「支配」。冷たくて、鋭い、光の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ster-",
+					"meaning": "star (from aster)"
+				}
+			],
+			"points": [
+				"Star（星）や Disaster（災害／悪い星の下にあること）、Astronomy（天文学）と同じ root。星群とは。星（ステレ）という名の『無機質な事実』に。人間という名の『思想（イズム）』を。峻烈に、強引に、コーティングすること。それは。虚無を『物語』に変える。実存の唯一の、しかし最強の武器なのです。"
+			]
+		}
+	},
+	{
+		"id": "precession",
+		"word": "Precession",
+		"meaning": "プレセッション/歳差運動（さいさうんどう）、(緩やかな)ズレ、情報の揺らぎ、北を失う旅、時間という名のコマ",
+		"era": "Late 16th Century",
+		"etymology": {
+			"components": [
+				"prae- (before)",
+				"cedere (to go / move)"
+			],
+			"original_statement": "From Late Latin praecessio, from praecedere 'to go before'. The slow movement of the axis of a spinning body."
+		},
+		"concept": "Slow shift of north (地球の「首振り運動（コマの揺れ）」。何万年もかけて、「北極星」さえも別の星へと、峻烈に移り変わっていくこと。それは。私たちが「不動」だと信じていた「真実（北）」さえもが。流動している、という。峻烈なる「時間の不確実性」の記述)",
+		"thinking": "「プレセッション（歳差）」。あなたは。「絶対に変わらない愛」や「不変の真理」を。追い求めて、疲れ果ててはいませんか。 precession。この宇宙に、止まっているものは、一つもありません。 precession。あなたが「北（目標）」だと思って信じているその星も。長い目で見れば、ただの「通過点」に過ぎません。 precession。変わっていくことを、恐れないでください。軸（自分）を揺らしながら、ゆっくりと、しかし確実に。新しい「星空」を迎え入れなさい。迷うことは、宇宙と「同期」している、ということです。",
+		"part_of_speech": "noun",
+		"aftertaste": "世界が「ゆっくりと、しかし巨大に」回転していく。あの。抗（あらが）いようのない「眩暈（めまい）」。そこにある。もう「元の場所には戻れない」という、峻烈なる「諦念」。刺激的で、重厚な、風の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "per-",
+					"meaning": "forward / through (from prae-)"
+				},
+				{
+					"term": "ked-",
+					"meaning": "to go / yield (from cedere)"
+				}
+			],
+			"points": [
+				"Precedent（前例）や Proceed（進む）、Process（過程）と同じ root。歳差運動とは。前の方（プレ）へと。峻烈に『進み続ける（セク）』こと。それは。固定という名の『停止（死）』を。逸脱という名の『持続（生）』によって。無慈悲に、しかし美しく、凌駕し続ける記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "hypernova",
+		"word": "Hypernova",
+		"meaning": "ハイパーノヴァ/極超新星（ごくちょうしんせい）、(究極の)崩壊、情報の爆発、破壊という名の栄光、ブラックホールへの産声",
+		"era": "1998 (term popularized by Paczyński)",
+		"etymology": {
+			"components": [
+				"hyper- (above / over / beyond)",
+				"nova (new)"
+			],
+			"original_statement": "A very energetic supernova, thought to result from an extreme core-collapse scenario."
+		},
+		"concept": "Destructive beauty (通常の「超新星（スーパーノヴァ）」の10倍以上のエネルギー。その爆発の末に。ブラックホール（深淵）が産まれる。それは。あまりにも「眩（まぶ）しすぎる終わり」が。あまりにも「暗すぎる虚無」へと直結する。峻烈なる「実存の反転」の記述)",
+		"thinking": "「ハイパーノヴァ（極超新星）」。あなたは。自分の「命（情熱）」を。出し惜しみして、細々と生き延びることに。満足してはいませんか。 hypernova。どうせ死ぬのなら。宇宙で最も「激しく」燃えなさい。 hypernova。それは。自らの「絶頂」と。自らの「消滅」を。一つの「点（瞬間）」で、峻烈に, 合致させること。 hypernova。あなたの爆発が、世界を焼き尽くし、闇へと変える。その「破壊的な美しき」だけが。永遠（ブラックホール）へと通じる、唯一の「チケット」になる。燃えろ。そして、消えなさい。",
+		"part_of_speech": "noun",
+		"aftertaste": "視界が「純白」に弾け。すべてが「消滅」する。あの。至上の「充足感」。そこにある。もう「何一つ、思い思い残すことはない」という、峻烈なる「完結」。刺激的で、瑞々しい、光の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "uper",
+					"meaning": "over / above (from hyper)"
+				},
+				{
+					"term": "newo-",
+					"meaning": "new (from nova)"
+				}
+			],
+			"points": [
+				"Super（超える）や Hyperbole（誇張法）、New（新しい）、Now（今）と同じ root。極超新星とは。新しさ（ノヴァ）の。さらに上（ハイパー）を。峻烈に、最速で、駆け抜けること。それは。停滞という名の『時間』を。爆発という名の『実存』によって。無慈悲に、しかし華麗に、粉砕する記述なのです。"
+			]
+		}
 	}
 ];
