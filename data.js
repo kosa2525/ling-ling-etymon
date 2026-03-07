@@ -238325,5 +238325,441 @@ const WORDS = [
 				"Carnival（謝肉祭／肉に別れを告げる）や Carnal（肉欲の）、Discard（棄てる／カードを切り離す）と同じ root。肉体化とは。実存を、峻烈に『切り刻まれた肉（スケル）』という。、牢獄」の中へと。、回向」すること。それは。浮遊という名の『死』を破壊し。質量という名の『生』を選び取る。峻烈なる記述なのです。"
 			]
 		}
+	},
+	{
+		"id": "thrust",
+		"word": "Thrust",
+		"meaning": "スラスト/推力（すいりょく）、(突き刺す)意志、方向の決定、情報の。、一気」の噴射、障害を貫く力",
+		"era": "Late Middle English",
+		"etymology": {
+			"components": [
+				"thrusten (to push)",
+				"trudere (to push / shove)"
+			],
+			"original_statement": "To push something or someone suddenly or violently in a specified direction."
+		},
+		"concept": "Piercing will (「迷い」や「遠慮」を。、一分一秒の隙間」もなく。、峻烈」に、。一気に」噴射（。爆発）」させ。、自らを。、一筋の矢」として、。敵（。目標）」の中心に。、強引」に突き刺すこと。それは。情報の。、峻烈なる「指向性の記述」)",
+		"thinking": "「スラスト（推力）」。あなたは。自分の「エネルギー」を。「。周囲に配慮するため」と言って。、。。四方八方」に。、。無駄」に、。漏（。も）ら」してはいませんか。 thrust。一点に、。絞（しぼ）り」なさい。 thrust。それは。あなたが「弾丸」になること。 thrust。後退を。、峻烈」に。、自ら」禁じ。、。ただ前方」だけを。、。峻烈」に、。射抜（いぬ）き」続けなさい。その「鋭さ」こそが。この「分厚い現実」を。、一撃」で串刺しにする。、唯一の、。峻烈なる言葉」なのです。",
+		"part_of_speech": "noun / verb",
+		"aftertaste": "「冷たい銀の針」が。、自分の胸を。、スーーーッ」と、。強引に」突き抜け。、背後の壁まで。、。一気に。到達した」ような。あの。爽快なまでの「解放感」。そこにある。もう「迷いはない」という、峻烈なる「勝利」。冷たくて、鋭い、金の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "treud-",
+					"meaning": "to push / press / shove (from trudere)"
+				}
+			],
+			"points": [
+				"Intrude（侵入する）や Extrude（押し出す）、Threat（脅威／押し付けるもの）と同じ root。推力とは。実存を（トレウド）。、峻烈」に『押し込み』。、空間」を、。峻烈」に『。支配』すること。それは。受容という名の『無責任』を棄て。拡張という名の『暴力』を選び取る、峻烈なる記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "instigation",
+		"word": "Instigation",
+		"meaning": "インスティゲーション/扇動（せんどう）、(着火という名の)言葉、情報の。、最初の揺らぎ」、行動への。、峻烈なる」促（うなが）し、沈黙への反乱",
+		"era": "Late Middle English",
+		"etymology": {
+			"components": [
+				"in- (into)",
+				"stigare (to prick / goad / incite)"
+			],
+			"original_statement": "The action or process of instigating an action or event. From Latin instigare."
+		},
+		"concept": "Spark of action (「停滞した空気（日常）」に。、あえて」。、鋭利な一言」を。、峻烈」に突き刺し。、火種（。怒り・。意志）」を。、心臓」に。、強引」に灯（とも）してまうこと。それは。情報の。、峻烈なる「起動の記述」)",
+		"thinking": "「インスティゲーション（扇動）」。あなたは。「誰かに命令されること」を。、。屈辱」だ。と。、。。ぬるい」プライドで。、。自らを。、。閉じ込めて」はいませんか。 instigation。刺されなさい。 instigation。それは。あなたが「爆発」すること。 instigation。他人の「鋭い言葉」を。、あえて。、自らの「起爆剤（スティガ）」にしなさい。火が点（。つ）けば。、あなたは」もう。、誰の支配も受けない。、最強の嵐」へと。、瞬時」に変貌できるのですから。",
+		"part_of_speech": "noun",
+		"aftertaste": "「暗闇」の中で。、一筋の火の粉」が。、自分の瞳」の中へ。、パチッ」と飛び込み。、心臓が。、一気に」燃え上がった瞬間の。あの。凄絶なまでの「躍動感」。そこにある。もう「止まれない」という、峻烈なる「運命」。重厚で、刺激的な、赤。の。味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "en-",
+					"meaning": "in"
+				},
+				{
+					"term": "steig-",
+					"meaning": "to prick / stick / pierce (from stigare)"
+				}
+			],
+			"points": [
+				"Stick（刺す）や Stimulus（刺激）、Distinguish（区別する／印をつける）と同じ root。扇動とは。実存を（ステイグ）。、内側から（イン）。、峻烈」に『。刺（。さ）し』、。眠り」を、。無慈悲」に、。破壊」すること。それは。安穏という名の『死』を破壊し。闘争という名の『生』を選び取る。記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "sturdiness",
+		"word": "Sturdiness",
+		"meaning": "スターディネス/頑丈（がんじょう）さ、(壊れぬ)実存、情報の。、堅固なる」密度、他者の侵入を拒む、重厚なる鎧（よろい）",
+		"era": "Late Middle English",
+		"etymology": {
+			"components": [
+				"estourdi (stunned / dazed / reckless - from Old French)"
+			],
+			"original_statement": "The quality of being strong and solid in constitution. From Old French estourdi."
+		},
+		"concept": "Unbreakable self (「暴力的な批判」や「過酷な環境」に。、一分一秒の揺らぎ」もなく。、。あえて」。「自分」という名の。、重厚な。、冷たい。石」で。、そこに。あり続けること。それは。実体さへの。、峻烈なる「信頼の記述」)",
+		"thinking": "「スターディネス（頑丈さ）」。あなたは。自分の「柔らかさ（。繊細さ）」を。「。優しさ」だ。と。、。。ぬるい」言葉で。、。自分」を。、。甘やかして」はいませんか。 sturdiness。堅（かた）くなりなさい。 sturdiness。それは。あなたが「不動」であること。 sturdiness。あなたが。、誰にも壊せない「鋼（はがね）」になれば。世界は。。あなたの「重み」に。、峻烈」に、。ひれ伏す」しかありません。折れないことは、。勝つことです。",
+		"part_of_speech": "noun",
+		"aftertaste": "「巨大な鉄の扉」を。、掌（てのひら）」で。、。バンッ」と叩き。、掌に伝わる。、。凄絶なまでの。、痛いほどの。跳ね返り」を。、腕」に。、ジンジン」と感じるような感覚。そこにある、もはや「誰も入ってこれない」という、峻烈なる「勝利」。重厚で、冷たい、銀。の。味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "None (from French estourdir)",
+					"meaning": "to stun / daze"
+				}
+			],
+			"points": [
+				"もともとは『無謀な』『向こう見ずな』を意味する。頑丈さとは。実存を、。峻烈」に、。鈍器（。どんき）」のように。、固定」すること。それは。流動という名の『不安』を破壊し。実在という名の『岩盤』を選び取る。記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "consolidation",
+		"word": "Consolidation",
+		"meaning": "コンソリデーション/統合（とうごう）、(強固な)団結、情報の。、緻密な」合致、一分一秒の隙間を埋める、実存の。、不動化",
+		"era": "Late Middle English",
+		"etymology": {
+			"components": [
+				"con- (together)",
+				"solidare (to make firm / solid)"
+			],
+			"original_statement": "The action or process of making something stronger or more solid. From Latin consolidare."
+		},
+		"concept": "Solid core (「バラバラな部品（記憶・感情）」を。、峻烈」に。、一つの中心」へと。、強引」に。、押し（。圧縮）」込み。、。何者にも。、二度と。切り離せない。、最強の一（。モノ）」へと、。変貌」させること。それは。情報の。、峻烈なる「合一の記述」)",
+		"thinking": "「コンソリデーション（統合）」。あなたは。自分の「色々な可能性を広げること」ばかりを考えて。、自分が、。薄（。うす）っぺら」な。、透明な人間」になってしまっていることに。、。気づいて」はいませんか。 consolidation。固まりなさい。 consolidation。それは。あなたが「質量」になること。 consolidation。拡散した自分を。、峻烈」に。、中心」へと引き戻し。、。一つの、。重厚な。意志」として、。今。、。結晶化（コンソ）」させなさい。重いことは。、強いことです。",
+		"part_of_speech": "noun",
+		"aftertaste": "「バラバラの砂」が。、自分の拳（こぶし）の中で。、一瞬」で。、。冷たい、重い石」に。、変（。か）わった」瞬間の。あの。凄い「重量感」。そこにある、もう「壊されることはない」という、峻烈なる「安堵」。重厚、で、冷たい、情報の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kom-",
+					"meaning": "together"
+				},
+				{
+					"term": "sol-",
+					"meaning": "whole / entire / firm (from solid)"
+				}
+			],
+			"points": [
+				"Solemn（厳かな／常に丸ごと）や Solid（固体の）、Save（救う／丸ごとにする）と同じ root。統合とは。実存を『共に（コン）』。峻烈に『固（ソル）』めること。それは。欠損という名の『地獄』を棄て。完全という名の『天国』を選び取る。実存の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "rhythmus",
+		"word": "Rhythmus",
+		"meaning": "リズムス/韻律（いんりつ）、(命の)周期、情報の波、繰り返されるという名の。、峻烈なる」永遠、魂のリズム",
+		"era": "Latin / Ancient Greek",
+		"etymology": {
+			"components": [
+				"rhythmos (flow / measured motion)"
+			],
+			"original_statement": "A measured motion or flow. From Greek rhythmos."
+		},
+		"concept": "Pattern of the soul (「一回限りの出来事」に。、一喜一憂」するのを棄て。、。悠久の時」の中で。、峻烈」に繰り返される「波（。リズム）」を、。自らの体」に。、。重厚に」共（。きょう）」鳴させ続けること。それは。情報の。、峻烈なる「形式の記述」)",
+		"thinking": "「リズムス（韻律）」。あなたは。自分の「一日の。乱れ」を。「。自由」だ。と。、。。ぬるい」言葉で。、。自らを。、。甘やかして」はいませんか。 rhythmus。刻みなさい。 rhythmus。それは。あなたが「宇宙」になること。 rhythmus。自分の「一分一秒」に。、あえて。、。厳格な。周期」を、。峻烈」に与えなさい。繰り返される「拍動」は。、いつか。、死神さえも操れない。、最強の魔力」へと。、変容」するのですから。",
+		"part_of_speech": "noun (archaic/Latin)",
+		"aftertaste": "「真っ暗な洞窟」で。、。ポタン、。ポタン」と。、一分一秒の狂いもなく。、水滴」が落ちる。あの。凄絶なまでの「静寂」と「納得」。そこにある。自分は「法（ルール）」の一部になった、という、峻烈なる「勝利」。冷たくて、重厚な、情報の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sreu-",
+					"meaning": "to flow (from rhein / rhythmos)"
+				}
+			],
+			"points": [
+				"Stream（流れ）や Rheology（流動学）、Diarrhea（下痢／流れ去ること）と同じ root。韻律とは。実存を（スレウ）。、峻烈」に『。規則的な流れ（リズモ）』の中に。、隔離」すること。それは。カオスという名の『虚無』を破壊し。秩序という名の『美』を選び取る。記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "attrition",
+		"word": "Attrition",
+		"meaning": "アトリション/摩耗（まほう）、(削られゆく)純粋、情報の。、峻烈な。研磨」、他者との接触による。、自分。の。、消失と再発見",
+		"era": "Late Middle English",
+		"etymology": {
+			"components": [
+				"attritio (rubbing against)",
+				"atterere (to rub away)"
+			],
+			"original_statement": "The process of reducing something's strength or effectiveness through sustained attack or pressure."
+		},
+		"concept": "Purity through friction (「摩擦（。衝突）」を、。あえて。、峻烈」に歓迎し。自らの「柔らかい部分（。虚栄）」を。、一分一秒」も。、休まず」削り取らせ。、その奥」に眠る。、。不動の芯（。魂）」を。、剥（も）き出しにする。、。過酷なる。、。記述」)",
+		"thinking": "「アトリション（摩耗）」。あなたは。「自分が削られること」を。、。被害」だ。と。、。。ぬるい」道徳で。、。自らを。、。憐（あわ）れんで」はいませんか。 attrition。削られなさい。 attrition。それは。あなたが「宝石」になること。 attrition。他人の「鋭い視線」を。、あえて。、自らの「砥石」にしなさい。表面の「嘘」が、。すべて剥（は）がれ落ちたとき。そこには、。磨（みが）き抜かれた。、一筋の光（。自分）」が、。今。、。君臨」しているのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "「ザラザラした。、冷たい砂」に。、自分の肌を。、何度も何度も。、。強引に。擦り付けられた」後のような。あの。凄い「痛み」と「清涼感」。そこにある、もはや「余計なものはない」という、峻烈なる「解放」。冷たくて、鋭い、風の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ad-",
+					"meaning": "to"
+				},
+				{
+					"term": "tere-",
+					"meaning": "to rub / turn / bore / twist (from terere)"
+				}
+			],
+			"points": [
+				"Try（試みる／より分ける）や Thresh（脱穀する）、Thread（糸／撚り合わせたもの）と同じ root。摩耗とは。実存を（トレ）。、対象に（アド）。、峻烈」に『擦りつける』こと。それは。温存という名の『不毛』を棄て。磨滅という名の『純真』へと。自らを回向（えこう）する記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "stagnation",
+		"word": "Stagnation",
+		"meaning": "スタグネーション/停滞（ていたい）、(澱。の)檻、情報の。、凍りついた時」、動くことを棄てた。、実存。の。、凄絶なまでの。沈黙",
+		"era": "Late 17th Century",
+		"etymology": {
+			"components": [
+				"stagnare (to cause to stand still)",
+				"stagnum (pool)"
+			],
+			"original_statement": "The state of not flowing or moving."
+		},
+		"concept": "Cage of the past (「流れ」を、。峻烈」に。、自らなりに。、一分一秒。止（と）め」、。自分という名の。、冷たい池」の中に。、溜（た）め」込み。。腐敗」か「。結晶」か。その「。ギリギリの。境界線」で。、。あり続けること。それは。運動への。、峻烈なる「拒絶の記述」)",
+		"thinking": "「スタグネーション（停滞）」。あなたは。「動かないこと」を。、。死」だ。と。、。。ぬるい」言葉で。、。自らを。、。脅（おど）して」はいませんか。 stagnation。止（とど）まりなさい。 stagnation。それは。あなたが「深淵（。しんえん）」になること。 stagnation。流されず、。一カ所に。、重厚に。、。沈（。しず）み」続けなさい。水かさが。、、。重み」を。増し。、。一分一秒の密度。を、。極限」まで引き上げたとき。あなたの「澱（。よど）み」は。、いつか。、鏡のように。、世界」を。、美しく。、。射抜（いぬ）く」のです。",
+		"part_of_speech": "noun",
+		"aftertaste": "「緑色の。、暗い沼」の底に。、。ゆっくり。と。、沈んでいき。、。音」のない世界で。、。自分一人」の冷たさを。、重厚に」感じているような感覚。そこにある、もう「誰も追いつけない」という、峻烈なる「勝利」。重厚で、冷たい、情報の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "stag-",
+					"meaning": "to drip? No, stagnum - standing water."
+				}
+			],
+			"points": [
+				"Stagnant（淀んだ）と同じ root。停滞とは。実存を、。峻烈」に『静止（スタグ）』させるプロセスのこと。それは。焦燥という名の『虚無』を棄て。沈殿という名の『実在』を選び取る。記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "fluctuation",
+		"word": "Fluctuation",
+		"meaning": "フラクチュエーション/ゆらぎ、(不確かな)生、情報の。、周期的な。迷い」、決定することを棄てた。、実存。の。、凄絶なまでの。舞（ま）い",
+		"era": "Mid-16th Century",
+		"etymology": {
+			"components": [
+				"fluctuare (to flow / undulate)",
+				"fluctus (wave)"
+			],
+			"original_statement": "An irregular rising and falling in number or amount; a variation."
+		},
+		"concept": "Life in between (「正解」にも「不正解」にも。、一分一秒。、辿（たど）り着（つ）かず」。、その「。あわい（中間）」の領域で。、峻烈」に、。美しく。、。揺れ。続け、。世界」を、。眩（まぶ）しく。、撹乱（。かくらん）」すること。それは。決定への。、峻烈なる「逃亡の記述」)",
+		"thinking": "「フラクチュエーション（ゆらぎ）」。あなたは。自分の「心の不安定さ」を。、。弱み」だ。と。、。。ぬるい」道徳で。、。自らを。、。責（せ）めて」はいませんか。 fluctuation。揺れなさい。 fluctuation。それは。あなたが「生きている」こと。 fluctuation。固定されれば。。あなたは。、ただの。、。モノ（。骸）」になる。揺れている。からこそ。、あなたは。、誰にも予測できない。、無限の光」を。、世界」へ。、今。、。放（はな）て」いるのです。不確かさを、。峻烈」に、。愛し抜きなさい。",
+		"part_of_speech": "noun",
+		"aftertaste": "「水面に映った。、。満月」が。、。フワッ」とした風に。、一瞬」で。、。バラバラの。光子」に。、砕（くだ）け。、。また。、。ぼんやり。と。、。結（むす）ばれる」のを。見ているような。あの。不思議な。法悦。冷たくて、瑞々しい、情報の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "bhleu-",
+					"meaning": "to swell / gush / flow (from fluere / fluctus)"
+				}
+			],
+			"points": [
+				"Flow（流れる）や Fluid（流体）、Influence（影響）と同じ root。ゆらぎとは。実存（。ブレウ）」を、。峻烈」に『波（。フラクト）』へと。、変換」し続けること。それは。硬直という名の『死』を。振動という名の『生』によって、。一撃」で、。上書き」してまう記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "rapidity",
+		"word": "Rapidity",
+		"meaning": "ラピディティ/俊敏（しゅんびん）、(瞬時の)選択、情報の。、一気」の。飛躍」、思考を追い越す。、実存。の。、凄絶なまでの。速度",
+		"era": "Early 17th Century",
+		"etymology": {
+			"components": [
+				"rapidus (swift / tearing away)",
+				"rapere (to seize / snatch)"
+			],
+			"original_statement": "Swiftness of movement."
+		},
+		"concept": "Instant choice (「。考える時間」を。、一分一秒の隙間」もなく。、峻烈」に、。一気に」奪（うば）い去り。、。本能」という名の、。火花」だけで。、。一瞬」で、。真理（。目標）」を。、掴（つか）み取（と）ってまうこと。それは。情報の。、峻烈なる「。略奪。の。記述」)",
+		"thinking": "「ラピディティ（俊敏）」。あなたは。「。よく考えて。行動すること」が、。美徳」だ。と。、。。ぬるい」教育で。、。自分」を。、。呪（のろ）って」はいませんか。 rapidity。奪（うば）い去りなさい。 rapidity。それは。あなたが「。光の速さ」になること。 rapidity。獲物（。真実）」を。、峻烈」に。、一分一秒。見つめた。その次の瞬間。には、。もう。、その核心。を。、掌（てのひら）」に。、峻烈」に、。収（おさ）めて」いなさい。迷わないことは。。奪う。ことです。",
+		"part_of_speech": "noun",
+		"aftertaste": "「冷たい雷」が。、目の前を。、。スーーーッ」と、。一気」に横切り。、。気づいた時には。、手に。、一粒の。ダイヤモンド」が。、。握（にぎ）られていた」ような。あの。凄い「全能感」。冷たくて、鋭い、金の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "rep-",
+					"meaning": "to snatch (from rapere)"
+				}
+			],
+			"points": [
+				"Rapture（恍惚／連れ去られること）や Rape（略奪）、Rapid（速い）と同じ root。俊敏とは。実存（。レプ）」を、。峻烈」に『。強奪』させるプロセスのこと。それは。手続きという名の『虚無』を破壊し。収穫という名の『実在』を選び取る。記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "adhesion",
+		"word": "Adhesion",
+		"meaning": "アドヒージョン/吸着（きゅうちゃく）、(離れぬ)決意、情報の。、凄絶なまでの。接吻（キス）」、対象と一つになるという名の。、峻烈なる。忠誠",
+		"era": "Early 17th Century",
+		"etymology": {
+			"components": [
+				"ad- (to)",
+				"haerere (to stick)"
+			],
+			"original_statement": "The action or process of adhering to a surface or object. From Latin adhaerere."
+		},
+		"concept": "Loyalty to the truth (「他者」や「真理」に触れたとき。、一分一秒。も見捨てず、。自らの「。エッジ（。輪郭）」を。、峻烈」に。、相手の隙間。へと。、。強引に」突き刺し。、同化」し、。二度と。離れないこと。それは。情報の。、峻烈なる「。粘着。の。記述」)",
+		"thinking": "「アドヒージョン（吸着）」。あなたは。「自分を保つこと」ばかりを考えて。、。自分以外の。何者か」を。、峻烈」に、。愛し。、。信じ。抜くこと。を。、。忘（わす）れて」はいませんか。 adhesion。貼り付きなさい。 adhesion。それは。あなたが「。真理（。対象）」と。、一。、になること。 adhesion。あなたが。、。全身全霊」で。、一カ所に。、重厚に。、。噛（か）み付（。粘）き」続ければ。そこには。、誰にも切り離せない。、最強の実在」が。、今。、。君臨」するのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "「冷たい銀の。、。接着剤」が。、自分の肌と。、相手の肌の間に。、。ドッ」と流し込まれ。、。一瞬」で。、。固（。かたま）った」瞬間の。あの。凄い「連帯感」。そこにある、もう「一人ではない」という、峻烈なる「安堵」。瑞々しくて、重厚な、光の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ad-",
+					"meaning": "to"
+				},
+				{
+					"term": "ghais-",
+					"meaning": "to adhere / stick / hesitate (from haerere)"
+				}
+			],
+			"points": [
+				"Adhere（粘着する）や Cohesion（凝集）、Hesitate（躊躇する／立ち往生する）と同じ root。吸着とは。実存を（ガイス）。、対象に（アド）。、峻烈」に『くっつかせる』こと。それは。浮遊という名の『無責任』を。固定という名の『責任』によって。、一撃」で、。葬（ほうむ）り去（さ）る」記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "whirlpool",
+		"word": "Whirlpool",
+		"meaning": "ワールプール/渦巻（うずまき）、(中心への)墜落、情報の。、凄絶な。引力」、逃れられないという名の。、峻烈なる。法悦、実存の。、。円舞",
+		"era": "None (Middle English)",
+		"etymology": {
+			"components": [
+				"whirl (to turn rapidly)",
+				"pool"
+			],
+			"original_statement": "A quickly rotating body of water in a river or sea into which objects may be drawn."
+		},
+		"concept": "Point of no return (「形」も「意味」も「昨日」さえも。、一分一秒の容赦」もなく。、中心（真理）」へと。、峻烈」に。、らせん状」に、。引きずり。込まれていき。、消滅」の直前で。、最高の。輝き」を。、世界」へ放つこと。それは。。終わり。への。、峻烈なる「。加速。の。記述」)",
+		"thinking": "「ワールプール（渦巻）」。あなたは。自分の「中心」にある。、。暗い穴（。欲望・。真理）」に。、。引き込まれること」を。、。死」だ。と。、。。ぬるい」。道徳」で。、。。怖（おそ）れて」はいませんか。 whirlpool。墜（お）ちなさい。 whirlpool。それは。あなたが「。一（。ひとつ）」になること。 whirlpool。あなたが。、。激しく。回転し。、。自らを。、。情報の屑（。くず）」として。、。中心」へと、。峻烈」に投げ出したとき。あなたは。、重力の。奥底」で。、。静止した神」に。、。瞬時」に。、。回向」されるのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "「真っ暗な水の。円環」が。、自分の体を。、。スーーーッ」と。、。優しく。抱きしめながら。、。中心。へと、。加速。して。運んでいく」ような。あの。凄い。法悦。重厚で、冷たい、情報の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kwer-",
+					"meaning": "to turn (from whirl)"
+				}
+			],
+			"points": [
+				"Whirl（回転する／渦巻く）や Quern（手挽きの臼）、Cycle（サイクル）と同じ root? No, kwer- is separate. 渦巻とは。実存（。クウェル）」を、。峻烈」に『。回転』の中に固定すること。それは。直線という名の『虚無』を破壊し。円環という名の『永遠』を選び取る。記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "buoyancy",
+		"word": "Buoyancy",
+		"meaning": "ボイアンシー/浮力（ふりょく）、(沈黙の中の)飛翔、情報の。、凄絶な。軽やかさ」、絶望という名の、。峻烈なる。反動、実存の。、浮上",
+		"era": "Early 18th Century",
+		"etymology": {
+			"components": [
+				"buoy (float)",
+				"boia (chain / fetter - from Latin? No, Dutch boei 'beacon')"
+			],
+			"original_statement": "The ability or tendency to float in water or air or some other fluid. From Spanish boyante."
+		},
+		"concept": "Rising above despair (「。重たい現実（。海）」に。、沈（。しず）め。、。殺（ころ）され」そうになった。その瞬間に、。自らの「。核心（。空洞化）」を。、。爆発」させ。、。あえて。、。軽やか。に、。天空。へと、。峻烈」に。、一気に。駆け登ること。それは。絶望への。、峻烈なる「。拒絶。の。記述」)",
+		"thinking": "「ボイアンシー（浮力）」。あなたは。今、自分が「どん底（。深淵）」にいることに。、。自分はもう。、浮上（。ふじょう）できない」と。、。絶望」してはいませんか。 buoyancy。浮かび上がりなさい。 buoyancy。それは。あなたが「。空気（。自由）」になること。 buoyancy。重圧を。、。峻烈」に。、自らの「。持ち上げる。、推力（。ボイ）」に変えなさい。沈めば沈むほど。、あなたは。、より高く。、より。、峻烈」に、。飛ぶことが。、。できる」のですから。",
+		"part_of_speech": "noun",
+		"aftertaste": "「冷たい海の底」で。、。突然。、自分の体が。、。シュワッ」と、。透明な気泡」に、。包（つる）し」上げられ。、。天空に向かって。、。一気。に。、加速。していく」ような。あの。凄い「解放感」。冷たくて、鋭い、風の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "bhaw-",
+					"meaning": "to stand / stay? No, Dutch boei 'beacon / buoy'."
+				}
+			],
+			"points": [
+				"Buoyancy（浮力）や Buoy（ブイ／方位標識）と同じ root。浮力とは。実存を、峻烈に『浮上（ボイ）』させるプロセスのこと。それは。埋没という名の『死』を破壊し。超越という名の『生』を選び取る。記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "amplitude",
+		"word": "Amplitude",
+		"meaning": "アンプリチュード/振幅（しんぷく）、(実存の)大きさ、情報の。、凄絶な。揺れ幅」、限界を乗り越えるという名の。、峻烈なる。絶叫、実存の。、。広がり",
+		"era": "Late Middle English",
+		"etymology": {
+			"components": [
+				"amplus (large / wide / spacious / abundant)"
+			],
+			"original_statement": "The maximum extent of a vibration or oscillation, measured from the position of equilibrium. From Latin amplitudo."
+		},
+		"concept": "Magnitude of presence (「。無難な。、。中庸（ちゅうよう）」に。、一分一秒」も。、留（。とど）まらず」。自らの。、全身」を。、峻烈」に。、天空」と。、地獄。の間で。、。凄絶。に、。激震」させ。、。宇宙。を、。自らの彩（いろ）」で、。強引に、。染（そ）め上げる」こと。それは。情報の。、峻烈なる「。過剰さ。の。記述」)",
+		"thinking": "「アンプリチュード（振幅）」。あなたは。「。普通」であること」を。「。安心」だ。と。、。。ぬるい」言葉で。、。自らを。、。騙（だま）して」はいませんか。 amplitude。激しく揺れなさい。 amplitude。それは。あなたが「。巨大」であること。 amplitude。あなたの「。一分一秒の。震え（。ボリュ）」を。、峻烈」に。、極限まで」引き上げなさい。揺れ幅が。。宇宙を。、。一撃」で串刺し。に。するほど、。。大き。くなったとき。世界は。。あなたの「。圧倒的な。、。存在の音」に。、峻烈」に。、ひれ伏す。のです。揺れることは。、圧倒すること。です。",
+		"part_of_speech": "noun",
+		"aftertaste": "「巨大な鐘」を。、全力で」打ち鳴らし。、その「振動」で。、自分の骨」が。、。バキバキ」と。、一瞬」で砕（くだ）けるような。あの。凄い「充足感」。そこにある、もう「止まることはできない」という、峻烈なる「勝利」。重厚で、刺激的な、金の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "am-phi-",
+					"meaning": "on both sides / around (from plus / amplus? No, amplus is Latin)"
+				}
+			],
+			"points": [
+				"Amplify（増幅する）や Ample（十分な）、Amplitude（振幅）と同じ root。振幅とは。実存を、峻烈に『広大（アンプル）』な領域へと。、回向」させるプロセスのこと。それは。狭小という名の『死』を破壊し。豊饒という名の『生』を選び取る。記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "phase",
+		"word": "Phase",
+		"meaning": "フェーズ/位相（いそう）、(重なり合う)時、情報の。、一分一秒の。合致」、魂と魂が。、。瞬時。に。激突し、。一つの光」になる、。峻烈なる。瞬間",
+		"era": "Early 17th Century",
+		"etymology": {
+			"components": [
+				"phasis (appearance / aspect / phase)"
+			],
+			"original_statement": "A distinct period or stage in a series of events or a process of change or development. From Greek phasis 'appearance'."
+		},
+		"concept": "Coincidence of souls (「昨日」も「明日」も。、峻烈」に棄て。、今、。この一秒」に。、自らの全（すべて）」を。、。一点」に。、強引に。集中させ。、。他者。という名の。、一筋の光」と。、ピタッ。と合わさり、。。最強の自分。を、。瞬時。に起動。させること。それは。情報の。、峻烈なる「。邂逅（。かいこう）。の。記述」)",
+		"thinking": "「フェーズ（位相）」。あなたは。「。いつか。会（あ）えたらいい」という。、。ぬるい。、。期待」ばかり。で。、。今、この一秒。の」。「。重なり」の。、凄絶なまでの。、。美しさ」を。、。見逃（みのが）して」はいませんか。 phase。今、合致しなさい。 phase。それは。あなたが「。真実」になること。 phase。周期（リズム）」を。、峻烈」に。、一分一秒の。狂いもなく。、自らの手」で、。制御（。シンク）」しなさい。光が。、一。になったとき。あなたは。、神に。、。瞬時」に。、。回向」されるのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "「冷たい銀の。、。歯車」が。、。ガチッ」と。、一分一秒の隙間」もなく。、一つに。、噛み合った」瞬間の。あの。凄絶なまでの「納得感」。そこにある、もう「ズレることはない」という、峻烈なる「勝利」。瑞々しくて、鋭い、光の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "bha-",
+					"meaning": "to shine (from phasis)"
+				}
+			],
+			"points": [
+				"Phase（位相）や Phenomenon（現象）、Phosphorus（光を運ぶもの）と同じ root。位相とは。光（バ）を、。峻烈」に『。現（。あらわ）れ（。ファシ）』させる、。特定の一瞬」のこと。それは。消失という名の『虚無』を破壊し。顕現という名の『実存』を選び取る。記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "proliferation",
+		"word": "Proliferation",
+		"meaning": "プロリフェレーション/増殖（ぞうしょく）、(氾濫。する)生、情報の。、凄絶な。拡張」、秩序という名の。、。檻（おり）」を、。踏（ふ）み越（ご）えた。、暴力的な。。自己複製",
+		"era": "Mid-19th Century",
+		"etymology": {
+			"components": [
+				"proles (offspring)",
+				"ferre (to carry / bear)"
+			],
+			"original_statement": "Rapid reproduction of a cell, part, or organism. From Latin proles 'offspring' + ferre 'to bear'."
+		},
+		"concept": "Overflowing existence (「自分一人」という。、。有限性（。檻）」を。、一分一秒の。狂い。もなく。、峻烈」に、。一気に」破壊し。、。自分と同じ色」の。、。無数の他者（情報）」を。、世界じゅうへと。、峻烈」に。、一滴の容赦もなく、。。垂れ流し。、支配。すること。それは。情報の。、峻烈なる「。氾濫。の。記述」)",
+		"thinking": "「プロリフェレーション（増殖）」。あなたは。「。自分を一人」に、。大事に。しておくこと」が、。誠実」だ。と。、。。ぬるい」勘違いを、してはいませんか。 proliferation。溢（あふ）れ出しなさい。 proliferation。それは。あなたが「。神」になること。 proliferation。あなたが。、。一分一秒。の。増加。を。、峻烈」に。、自ら。に。、。禁じ。、。ただ全方位」へと、。増殖（プロレ）」し続ければ。世界。は、。やがて。、。あなたの色。、一色」に。、。今。、。塗り。変えられる」のです。増えることは、。支配すること。です。",
+		"part_of_speech": "noun",
+		"aftertaste": "「冷たい銀の。、。液体」が。、自分の体から。、。パッ」と弾（はじ）け。、。一瞬」で、。部屋じゅう。を。、埋め尽くした」後のような。あの。凄絶なまでの「充足感」。そこにある、もう「誰にも消されない」という、峻烈なる「勝利」。瑞々しくて、重厚な、光の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "per-",
+					"meaning": "to go / through / forward? No, proles from pro- + alere 'to nourish'."
+				},
+				{
+					"term": "ber-",
+					"meaning": "to carry / bear / bring children (from ferre)"
+				}
+			],
+			"points": [
+				"Prolific（多産の）や Parent（親）、Fertile（肥沃な）、Bring（持ってくる）と同じ root。増殖とは。実存（。プロレ）」を、。外へ（エー）。、峻烈」に『運（はこ）び（ベル）』、。拡大」させるプロセスのこと。それは。一箇所という名の『死』を破壊し。遍在という名の『生』を選び取る。記述なのです。"
+			]
+		}
 	}
 ];
