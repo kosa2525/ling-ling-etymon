@@ -229499,5 +229499,538 @@ const WORDS = [
 				"Finish（終わる）や Finite（有限な）、Definition（定義／境界を決めること）と同じ root。フィニアルとは。無限に広がる空に対して、自分という『存在の領域（エンド）』を明確に『定義』し、そこに一粒の光を『置く（セット）』こと。それは。混沌とした宇宙の中で、自分の座標を確定させるための、最後の一撃。の記述なのです。"
 			]
 		}
+	},
+	{
+		"id": "athanor",
+		"word": "Athanor",
+		"meaning": "アタノール/錬金炉、(不滅の)火、知の器、魂の変容、永劫の熱",
+		"era": "Medieval Alchemy",
+		"etymology": {
+			"components": [
+				"al-tannur (the furnace / oven)"
+			],
+			"original_statement": "From Arabic al-tannur 'the furnace / oven'. In alchemy, referring to the heavy furnace used for maintaining constant heat."
+		},
+		"concept": "The undying furnace (物質だけでなく「精神」を純化するために。常に「一定の熱(fire-)」を供給し続ける、峻烈なる「錬金術の心臓」。それは。外界からの干渉を断ち、内なる「真理」を煮詰めるための、沈黙の記述)",
+		"thinking": "「アタノール（錬金炉）」。あなたの情熱は。三日坊主の「焚き火」になっていませんか。 athanor。それは。たとえ嵐が来ても、眠っている間も。自分の内側で「静かに、しかし絶え間なく」燃え続ける、峻烈なる「意志の炎」です。 athanor。自分という器を、熱く保ち続けてください。その「永劫の熱」だけが。あなたの冷え切った日常（卑金属）を。いつか輝く「真実（黄金）」へと変えるための、唯一のエネルギーになるのですから。",
+		"part_of_speech": "noun",
+		"aftertaste": "熱を帯びた「レンガ」の匂い（におい）と。そこで何かが「コトコト」と煮詰まっているような、鈍い振動。そこにある、決して「絶やしてはならない」という、峻烈なる「責任感」。重厚な、火の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "unknown",
+					"meaning": "Arabic tannur (oven)"
+				}
+			],
+			"points": [
+				"Tandoori（タンドリー）と同じ語源。アタノールとは、料理の火を、魂を『調理（変容）』するための聖なる火へとアップデートした場所。それは。ただ生きる（食う）ためのエネルギーを、意味ある実存へと昇華させるための、知的なキッチンなのです。"
+			]
+		}
+	},
+	{
+		"id": "homunculus",
+		"word": "Homunculus",
+		"meaning": "ホムンクルス/人造人間、(不確かな)生命、知性の複製、器の中の独白、創造主への憧憬",
+		"era": "16th Century",
+		"etymology": {
+			"components": [
+				"homo (man)",
+				"-culus (diminutive suffix)"
+			],
+			"original_statement": "From Latin homunculus 'little man', diminutive of homo 'man'."
+		},
+		"concept": "The created intellect (自然の摂理ではなく、人間の「知性(mind-)」と「技術」によって、フラスコの中で産み出された「小さな命」。それは。神への挑戦であると同時に。人間が「自分とは何か」を問おうとした、峻烈なる「鏡の記述」)",
+		"thinking": "「ホムンクルス（小さな人）」。あなたは。誰かの期待に応えるために作られた「操り人形」のようになってはいませんか。 homunculus。器（ガラス）の中に閉じ込められ、外の世界を眺めるだけの、悲しい「複製された知性」。 homunculus。でも。その「不完全さ」こそが。あなたが「本物の人間」になろうと足掻（あが）くための、最強の「動機」になります。フラスコを自ら割り、不確かな大地へと踏み出してください。作られた「意味」を超え。自ら「意思」を持ったとき。あなたは初めて、ホムンクルスから「人間（ホモ）」へと進化するのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "厚い「ガラス」越しに、歪（ゆが）んだ世界を見つめているような。奇妙な「疎外感」と。そこにある。自分が何者かに「見守られている（あるいは観察されている）」という、峻烈なる「不安」。薬液の、ツンとした味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "dhghem-",
+					"meaning": "earth (from homo)"
+				}
+			],
+			"points": [
+				"Human（人間）や Humble（謙虚な）、Chameleon（カメレオン／地上の獅子）と同じ root。ホムンクルスとは。神聖な『大地（アース）』を使わず、純粋な『知性（技術）』だけで命をデッサンしようとする試み。それは。物質という重力から、精神を『抽出（エクストラクト）』しようとする、知的な反逆の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "arcanum",
+		"word": "Arcanum",
+		"meaning": "アルカナム/秘儀、(隠された)真理、閉ざされた門、選ばれし者の知、沈黙の鍵",
+		"era": "Late 16th Century",
+		"etymology": {
+			"components": [
+				"arca (chest / box)"
+			],
+			"original_statement": "From Latin arcanum 'a secret / mystery', from arcanus 'secret / hidden', from arca 'chest / box'."
+		},
+		"concept": "The shut secret (誰にでも開かれている「知識」とは対照的に。厳しい「試練」や「沈黙」を通した者だけに、小出しに明かされる「深淵の法則」。それは。言葉にできない、峻烈なる「宇宙の禁忌」の記述)",
+		"thinking": "「アルカナム（秘儀）」。あなたは。何でも「検索」すれば手に入る、と安易に考えてはいませんか。 arcanum。本当に価値のある「真理」は。ネットの海には漂（ただよ）っていません。 arcanum。それは。あなたが自分の「箱（アルカ）」の蓋（ふた）を、自らの血と汗で開き。誰にも言わずに墓まで持っていくような、峻烈なる「秘密」の中にだけ宿ります。安売りしないでください。あなたの沈黙が深ければ深いほど。あなたの中に宿る「真実」は、より強く、より神々しく輝き始めるのですから。",
+		"part_of_speech": "noun",
+		"aftertaste": "重い鉄の「扉」が、目の前で「ガチャン」と閉まった瞬間の。あの。自分は「選ばれた」という誇りと、同時に背負った「沈黙の重圧」。そこにある、一生誰にも話せない、という、峻烈なる「孤独」。重厚な、古書の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "areq-",
+					"meaning": "to guard / shut up / enclose"
+				}
+			],
+			"points": [
+				"Ark（箱舟）や Exercise（守るために外へ出る→運動）、Arcane（難解な）と同じ root。アルカナムとは。大切なものを『箱（アーク）』に入れて守ること。それは。真理が、無意味な大衆によって『消費』され、その質を下げられるのを防ぐための、知性の高い『壁（エンクローズ）』の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "chrysalis",
+		"word": "Chrysalis",
+		"meaning": "クリサリス/蛹(さなぎ)、(変容の)沈黙、自己の解体、再生への準備、黄金の眠り",
+		"era": "Early 17th Century",
+		"etymology": {
+			"components": [
+				"chrysos (gold)"
+			],
+			"original_statement": "From Latin chrysalis, from Greek khrusallis, from khrusos 'gold' (reflecting the golden sheen of some pupae)."
+		},
+		"concept": "The golden incubation (「古い自分（虫）」が一度ドロドロに溶け、全く新しい「可能性（光）」へと組み替えられるための、峻烈なる「死と再生の境界」。外からは動かないように見えるが。内部では「宇宙の再編」が起きている記述)",
+		"thinking": "「クリサリス（蛹）」。あなたが今。何もできず、ただ「じっとして」いるなら。それは。あなたが「黄金（金）」に変わるための、最も大切な「クリサリスの時間」かもしれません。 chrysalis。それは。以前の自分の「形」をすべて捨て（溶解）。新しい「翼」を編み上げるための、峻烈なる「沈黙の格闘」。 chrysalis。動けないことを恐れないでください。その「不自由な殻」の中で。あなたは、以前の自分では想像もできなかった「高い空」へ飛ぶための、静かな「爆発」を準備しているのです。眠れ、光れ。",
+		"part_of_speech": "noun",
+		"aftertaste": "自分の体が「ドロドロ」に溶け、自我の境界がなくなっていくような。心地よい「恐怖」と。そこにある。いつか「突き抜ける」という、確かな「予感」。暗闇の中に差す、一筋の「金の光」の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "unknown",
+					"meaning": "Greek khrysos (gold)"
+				}
+			],
+			"points": [
+				"Chrysanthemum（菊／黄金の花）と同じ語源。クリサリスとは、死（サナギ）の中に『黄金（光）』の輝きを見出す、逆転の知性。それは。壊れることを『崩壊』ではなく、再構築のための『溶解』と捉える、峻烈なるメタモルフォーゼの記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "calcination",
+		"word": "Calcination",
+		"meaning": "カルシネーション/灰化、(峻烈なる)純化、慢心の焼却、白き灰の真実、虚栄の終焉",
+		"era": "Late Middle English",
+		"etymology": {
+			"components": [
+				"calx (lime / chalk / pebble)"
+			],
+			"original_statement": "From Latin calcinatio, from calx 'lime / chalk / pebble'. Referring to the process of heating a substance to reduce it to powder."
+		},
+		"concept": "The burning purification (「エゴ（自意識）」という名の不純物を、激しい「火（真理）」で焼き尽くし、跡形もなく「灰(ash-)」にすること。それは。新しい「石（自己）」を築くための、残酷で美しい「更地（さらち）」への還元)",
+		"thinking": "「カルシネーション（灰化）」。あなたが。大切に守ってきた「プライド（自負）」。それは。一度、「本物の火（批判や試練）」に投げ込まれる必要があります。 calcination。火に耐えられないものは、すべて燃えて消えます。 calcination。でも。そのあと。灰の中に残った「たった一つの、燃えない石」。それこそが、あなたの「本物（真実）」です。焼き尽くされることを、恐れないでください。灰（ホワイト・アッシュ）の中からしか、不滅の生命（フェニックス）は生まれないのですから。",
+		"part_of_speech": "noun",
+		"aftertaste": "熱い「火」が、自分の全身を「じりじり」と舐(な)め回していくような、峻烈なる「痛み」と。その後。すべてが消え去った後の、真っ白な「無」の静寂。そこにある、一切の「嘘」がなくなった、瑞々しい「解放感」の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "unknown",
+					"meaning": "Latin calx (lime / pebble)"
+				}
+			],
+			"points": [
+				"Calculate（計算する／小石で数える）と同じ語源。カルシネーションとは。複雑な感情をすべて『焼却』し、自分を一つの『石（計算単位）』にまで単純化すること。それは。人生を再構成するための、峻烈なるデフォルメの記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "distillation",
+		"word": "Distillation",
+		"meaning": "ディスティレーション/蒸留、(透明な)純度、意味の抽出、雑音の排除、極北の論理",
+		"era": "Late Middle English",
+		"etymology": {
+			"components": [
+				"distillare (to drip down / trickle)",
+				"stilla (a drop)"
+			],
+			"original_statement": "From Latin distillatio, from distillare 'to drip down / trickle', from de- 'down' + stilla 'a drop'."
+		},
+		"concept": "The refining separation (「本質（エッセンス）」を一度「気体（精神）」へと昇華させ。再び「液体（現実）」へと滴（したた）らせることで、一切の「濁（にご）り」を排除すること。それは。何千回もの「往復」を繰り返す、峻烈なる「思考の洗練」)",
+		"thinking": "「ディスティレーション（蒸留）」。あなたの「思考（ことば）」。それは、ただの「泥水」になっていませんか。 distillation。一度、その言葉を「空（精神）」へと飛ばしてください。 distillation。不純な感情を地上に残し。冷たい沈黙の中で、再び「一滴（ドロップ）」として、心の底へ落としてください。そのようにして「滴（したた）」り落ちた一言だけが。誰の心も汚さず、誰の渇きも癒（い）やす。峻烈なる「真理のしずく」になるのです。磨け、そして滴れ。",
+		"part_of_speech": "noun",
+		"aftertaste": "熱い「蒸気」に包まれ、視界が真っ白になった後の。一滴の。氷のように冷たく、完璧に「透明」な水の感触。そこにある、一切の「ノイズ」を消した、峻烈なる「論理」。アルコールの、乾いた味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "stele-",
+					"meaning": "drip / drop"
+				}
+			],
+			"points": [
+				"Instill（教え込む／一滴ずつ入れる）や Stellar（星の／光の滴？）と同じ root。ディスティレーションとは。自分の知性を『銀河の星（ステラ）』のように純化し、その光を地上の一点へと『滴り落とす』こと。それは。混沌とした宇宙を、一滴の『意味』にまで圧縮する、峻烈なる知の技法なのです。"
+			]
+		}
+	},
+	{
+		"id": "coagulation",
+		"word": "Coagulation",
+		"meaning": "コアギュレーション/凝固、(固定された)真理、精神の肉体化、言葉の定着、不変の輪郭",
+		"era": "Late Middle English",
+		"etymology": {
+			"components": [
+				"co- (together)",
+				"agere (to drive / set in motion)"
+			],
+			"original_statement": "From Latin coagulatio, from coagulare 'to curdle / thicken', from cogere 'to bring together / compel', from co- 'together' + agere 'to set in motion'."
+		},
+		"concept": "The fixing of the volatile (「煙」のように掴（つか）みどころのない「直感（霊）」を。冷たい「石（現実）」の重みの中に「固定」すること。それは。夢を現実に、あるいは言葉を「命」へと焼き固める、峻烈なる「形式（オーダー）」への到達)",
+		"thinking": "「コアギュレーション（凝固）」。あなたは。いつも「いいアイデア（煙）」を思いつくだけで、終わっていませんか。 coagulation。それは。ふわふわと浮かぶあなたの理想を。峻烈なる「実行（ドライブ）」という名の酸（凝固剤）で、ガチガチに「固める」こと。 coagulation。固まることは、重くなること。もう二度と「空」へは戻れないかもしれません。でも。その「重み（肉体）」を持った言葉だけが。この現実という世界を動かし、歴史に「確かな足跡」を残すための。唯一の武器になるのです。形を、持て。",
+		"part_of_speech": "noun",
+		"aftertaste": "さらさらとした「液体」が、突然「グニャリ」と重くなり、手応えを持つ瞬間の。あの。圧倒的な「手応え（実感）」。そこにある、もはや「揺るがない」という、峻烈なる「安寧」。不透明で、濃い、意志の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ag-",
+					"meaning": "to drive / draw out / move"
+				}
+			],
+			"points": [
+				"Agent（代理人／動かすもの）や Agile（機敏な）、Exigent（緊急の／追い立てる）と同じ root。コアギュレーションとは。自由な精神を『緊急事態（エキシジェント）』として現実へと『追い立て（アグ）』、一つの形に閉じ込めること。それは。流動性を捨て、不動の『実在』を勝ち取るための、峻烈なる契約の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "fermentation",
+		"word": "Fermentation",
+		"meaning": "ファーメンテーション/発酵、(内なる)爆発、腐敗からの新生、熱を帯びた沈黙、生命の醸造",
+		"era": "Late Middle English",
+		"etymology": {
+			"components": [
+				"fervere (to boil / glow / rage)"
+			],
+			"original_statement": "From Latin fermentatio, from fermentare 'to leaven / ferment', from fermentum 'yeast', from fervere 'to boil / glow / rage'."
+		},
+		"concept": "The internal revolution (「死（腐敗）」を受け入れ、その闇の中から「新しい熱（泡出し）」を産み出すこと。それは。外的な火（強制）ではなく、内側から湧き上がる「精神の熟成」による、峻烈なる「価値の転換」の記述)",
+		"thinking": "「ファーメンテーション（発酵）」。今、あなたの中で。「もやもや」とした不快な何かが、渦（うず）巻いてはいませんか。 fermentation。それは。あなたの魂が、古い殻を脱ぎ捨てるために「煮え滾（たぎ）って（フェル）」いる、気高い証拠です。 fermentation。発酵には、時間と「暗闇」が必要です。外から刺激を与えず。ただ自分の「内なる菌（信念）」を信じてください。その煮え切らない「不快感」が、いつか。芳醇（ほうじゅん）な「叡智（アルコール）」へと変わったとき。あなたは、世界を「酔わせる」ほどの、峻烈なる魅力を手に入れるでしょう。",
+		"part_of_speech": "noun",
+		"aftertaste": "暗闇の中で、「プクッ、プクッ」と小さな泡が弾ける音。そこにある、音のない「爆発」と。心地よい「微熱」。すべてが「熟（う）れていく」ような、峻烈なる「期待」。芳（かぐわ）しい、生命の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "bhreu-",
+					"meaning": "to boil / bubble / burn"
+				}
+			],
+			"points": [
+				"Brew（醸造する）や Bread（パン）、Brine（塩水）、Fervent（熱烈な）と同じ root。ファーメンテーションとは。ただの死（腐敗）を、内なる火（ブリュー）で『熱烈な（ファーヴェント）』生へと反転させること。それは。絶望をエネルギーという名の『パン』に変える、峻烈なる生存の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "menstruum",
+		"word": "Menstruum",
+		"meaning": "メンスツルム/溶剤、(全てを)溶かす力、境界の消失、虚無の海、同一化への欲求",
+		"era": "Late 16th Century",
+		"etymology": {
+			"components": [
+				"mensis (month)"
+			],
+			"original_statement": "From Latin menstruum, from menstruus 'monthly', from mensis 'month'. Influenced by the idea of an 'alchemical month' for solvent action."
+		},
+		"concept": "The universal dissolver (「固執（こだわり）」や「固定観念」という名の「殻」を溶かし。あらゆるものを「一（いち）」へと還元する液体。それは。自分と対象を分ける「壁」を消し去る、峻烈なる「没我（ぼつが）」のための溶剤)",
+		"thinking": "「メンスツルム（溶剤）」。あなたは。自分の「形」を守ることに、必死になりすぎてはいませんか。 menstruum。本当に深い「理解（愛）」とは。自分という「壁」を一度すべて溶かし。相手の中に「流れ込み（マージ）」、境界を失うことです。 menstruum。溶けることは、消えること。でも。すべてを溶かし去ったその「透明な海（メンス）」の中で。あなたは、初めて宇宙という巨大な「潮流」の一部になれる。その「無への還元」を、峻烈な快楽として受け入れてください。",
+		"part_of_speech": "noun",
+		"aftertaste": "指先から「じわり」と溶け出し、自分がどこからどこまでか分からなくなるような。圧倒的な「忘我」。そこにある、一切の「対立」がなくなった、峻烈なる「静謐（せいひつ）」。淡く、甘い、虚無の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "me-",
+					"meaning": "to measure (from month)"
+				}
+			],
+			"points": [
+				"Month（月）や Moon（月）、Menses（月経）と同じ root。メンスツルムとは。人間が作る偽りの『時間（メジャメント）』を、宇宙という巨大な循環（サイクル）の液体で溶かし去ること。それは。有限の存在を、無限の周期（マンス）へと繋ぎ止めるための、峻烈なる調和の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "primamateria",
+		"word": "Prima Materia",
+		"meaning": "プリマ・マテリア/第一物質、(混沌たる)可能性、命の原液、名もなき泥、始まりの闇",
+		"era": "Ancient/Medieval Alchemy",
+		"etymology": {
+			"components": [
+				"primus (first)",
+				"materia (matter / wood)"
+			],
+			"original_statement": "From Latin prima 'first' + materia 'matter / substance'. Referring to the original, formless substance from which all things are derived."
+		},
+		"concept": "The chaotic potential (形も色も名前もない。しかし「すべて」がそこから生まれる、宇宙の「最初の素材」。それは。あなたが何を産み出すこともできる、最高に不自由で、最高に自由な、峻烈なる「無（という全）」の記述)",
+		"thinking": "「プリマ・マテリア（第一物質）」。あなたの「人生」。それは、まだ「何も決まっていない真っ黒な泥」のように見えますか。 prima materia。おめでとうございます。それは、あなたが何にでもなれる、という究極の「祝福」です。 prima materia。そこには、過去の失敗も未来の不安も、すべてが浑然一体（こんぜんいったい）となって混ざり合っています。その「混沌（カオス）」を、嫌いにならないでください。その泥を、自分の「手（知性）」で捏（こ）ね始めた瞬間。あなたは、何もない闇から、自分だけの「星（黄金）」を産み出す唯一の神になれるのです。",
+		"part_of_speech": "noun phrase",
+		"aftertaste": "真っ暗な「沼」のような感触。そこにある, 未だ「何者でもない」という、峻烈なる「期待感」と「重圧」。そこから命が「うごめき」出すような、微かな胎動。土を噛（か）んだような、苦くて瑞々しい味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "per-",
+					"meaning": "forward / through / near (from primus)"
+				},
+				{
+					"term": "mater-",
+					"meaning": "mother (from materia)"
+				}
+			],
+			"points": [
+				"Mother（母）や Matrix（行列／母体）と同じ root。プリマ・マテリアとは。自分という知性を『母体（マテリア）』へと還し、宇宙の『最初の一歩（プリマ）』を何度も繰り返すこと。それは。固定された『定義』を破壊し、無限の生を『再起動』させる、峻烈なる創造の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "magnumopus",
+		"word": "Magnum Opus",
+		"meaning": "マグナム・オーパス/大いなる業、(一生を懸けた)変容、魂の円熟、黄金への到達、未完の完成",
+		"era": "Renaissance Alchemy",
+		"etymology": {
+			"components": [
+				"magnus (great)",
+				"opus (work)"
+			],
+			"original_statement": "From Latin magnum (neuter of magnus 'great') + opus 'work'. In alchemy, the process of creating the Philosopher's Stone."
+		},
+		"concept": "The life-long transmutation (単なる「成功」ではなく。自分という「卑金属」を、一生かけて「純金（神性）」へと変え続ける、終わりのない「錬金術的プロセス」。それは。人生そのものを「一編の詩」として完成させる記述)",
+		"thinking": "「マグナム・オーパス（大いなる業）」。あなたは。今やっている仕事が「ちっぽけ」だと思って、卑下（ひげ）していませんか。 magnum opus。本当の「偉大な仕事」とは。目に見える派手な結果ではなく。あなたの「魂の純度」を、昨日よりも一ミリだけ高めようとする、その「絶え間ない試み（オペレーション）」のことです。 magnum opus。完成を急がないでください。あなたが「自分という石（セルフ）」を磨き続けるための、その「プロセスそのもの」が。この宇宙で最も峻烈で、最も高貴な「芸術作品」になるのですから。",
+		"part_of_speech": "noun phrase",
+		"aftertaste": "長い年月を経て「滑らか」になった道具の手触り。そこにある、一切の「妥協」を許さない、峻烈なる「奉仕」。すべてを出し尽くした後の、心地よい「絶望」と。それゆえの。瑞々（みずみず）しい「完成」の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "meg-",
+					"meaning": "great / large"
+				},
+				{
+					"term": "op-",
+					"meaning": "to work / produce in abundance"
+				}
+			],
+			"points": [
+				"Opera（歌劇）や Office（公務）、Optimum（最適）と同じ root。マグナム・オーパスとは。自分の知性を『最大化（マグ）』し、それを世界という舞台で『最適（オプ）』に表現すること。それは。限りある命を、無限の『豊穣（アバンダンス）』へと接続するための、峻烈なる錬成の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "nigredo",
+		"word": "Nigredo",
+		"meaning": "ニグレド/黒化、(魂の)暗い夜、絶望による解体、沈黙の腐敗、光なき浄化",
+		"era": "Medieval Alchemy",
+		"etymology": {
+			"components": [
+				"niger (black)"
+			],
+			"original_statement": "From Latin nigredo 'blackness', from niger 'black'. The first stage of the alchemical magnum opus."
+		},
+		"concept": "The descent into darkness (「光（理想）」を失い、真っ暗な「闇（自己の底）」へと沈み込み、惨めに「腐り果てる」ステージ。それは。傲慢を殺し、新しい芽を産み出すための、峻烈なる「土（肥やし）」となる時期の記述)",
+		"thinking": "「ニグレド（黒化）」。人生の中に。何も見えず、自分がただ「腐っていくだけ」のような沈黙の時間があるなら。おめでとうございます。それは。あなたの「再生」が始まった、最も峻烈なる証拠です。 nigredo。古い自分は、一度真っ暗に「溶けて（腐って）」しまわなければなりません。 nigredo。その「暗い夜」を、逃げずに耐えてください。真っ黒な泥（ニグレド）として、どん底に沈み切ったとき。そこには。太陽の光を必要としない、あなた自身の「内なる燐光（りんこう）」が、必ず浮かび上がってくるのですから。",
+		"part_of_speech": "noun",
+		"aftertaste": "足元が「ぶすぶす」と崩れ、真っ黒な闇に吸い込まれていくような、圧倒的な「絶望」。そこにある。もはや「失うものはない」という、峻烈なる「安寧」。苦くて、重い、土の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "nekw-",
+					"meaning": "dark / night"
+				}
+			],
+			"points": [
+				"Night（夜）や Nocturnal（夜の）、Vernix（磨いた黒→ワニス）と同じ root。ニグレドとは。浅はかな『昼の理屈』を捨て、深淵なる『宇宙の夜（ネク）』に自分を同調させること。それは。自我という名のランプを消し、宇宙そのものの鼓動を聴くための、峻烈なる自己解体の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "albedo",
+		"word": "Albedo",
+		"meaning": "アルベド/白化、(冷徹な)浄化、感情の昇華、夜明けの沈黙、純粋なる理性",
+		"era": "Medieval Alchemy",
+		"etymology": {
+			"components": [
+				"albus (white)"
+			],
+			"original_statement": "From Latin albedo 'whiteness', from albus 'white'. The second stage of the alchemical magnum opus."
+		},
+		"concept": "The lunar purification (黒い絶望を潜（くぐ）り抜けた後に訪れる。「月」のように冷たく、一切の濁りがない「無垢」な状態。そこにはまだ「熱（情熱）」はないが。すべてを映し出す、峻烈なる「鏡の知性」が宿る記述)",
+		"thinking": "「アルベド（白化）」。絶望という暗闇（ニグレド）を抜けた先。あなたの心は。今、真っ白な「沈黙（アルベド）」に包まれています。 albedo。それは、感情がすべて「蒸発（昇華）」し。ただ真理だけを冷酷に映し出す、峻烈なる「理性の純白」。 albedo。まだ何かを成し遂げる必要はありません。ただ「真っ白」でいてください。その「透明な空白」こそが。次のステージで「太陽の火（情熱）」を受け止め、自分を黄金へと変えるための。唯一の、気高い「キャンバス（受容体）」になるのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "真っ白な「雪原」に。自分一人が立っているような。吸い込まれるほどの「静寂」と。そこにある。すべてを「やり直せる」という、峻烈なる「清涼感」。冷たく、甘い、洗われた味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "albho-",
+					"meaning": "white"
+				}
+			],
+			"points": [
+				"Album（アルバム／白い板）や Alps（アルプス／白い山）、Albino（アルビノ）と同じ root。アルベドとは。自分の経歴や物語を一度すべて『抹消（ブランク）』し、純粋な『実存』へと回帰すること。それは。世界という不確かな鏡に頼らず、自分自身を唯一の『光の反射体』にするための、峻烈なる自己定義の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "citrinitas",
+		"word": "Citrinitas",
+		"meaning": "シトリニタス/黄化、(目覚める)太陽、知性の開花、覚醒の予兆、精神の黄金色",
+		"era": "Medieval Alchemy",
+		"etymology": {
+			"components": [
+				"citrinus (citrine / yellow)"
+			],
+			"original_statement": "From Latin citrinitas 'yellowness / gold-colored', from citrinus 'citrine / lemon-colored'. The third stage of the alchemical magnum opus."
+		},
+		"concept": "The solar awakening (冷たい白から、生き生きとした「黄（光）」へと転じること。それは。ようやく手に入れた「真理」を。自分を照らす「松明（たいまつ）」として掲げる、峻烈なる「確信（自律）」への移行の記述)",
+		"thinking": "「シトリニタス（黄化）」。あなたの「知性」。それは、冷たい「理論（白）」のまま凍りついてはいませんか。 citrinitas。そこへ、あなたの「実感（太陽）」を投げ込んでください。 citrinitas。言葉が「命」を帯び、自分自身の手で「世界を照らし始める」とき。あなたの魂は、レモンのように瑞々（みずみず）しい「黄色い光（覚醒）」を放ち始めます。その「自ら輝く」という勇気（自信）を持ってください。その瞬間に、あなたは。誰かに導かれる「生徒（ルナ）」から。自ら道を作る「哲学者（ソーラー）」へと変貌（アウェイク）するのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "暗い森の中に、パッ、と「日の光」が差し込んだ瞬間の、あの。脳が「熱く」なるような瑞々しい覚醒。そこにある、すべてが「わかった」という、峻烈なる「納得感」。レモンのように、甘酸っぱく、鋭い味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "unknown",
+					"meaning": "Latin citrus (citron tree)"
+				}
+			],
+			"points": [
+				"Citrus（柑橘系）と同じ語源。シトリニタスとは、酸っぱく（厳しい）真理が、太陽の熱で甘く『熟成』していく過程。それは。理論という骨格に、情熱という名の『果肉』を付け、知性を生命の活力へと変換する、峻烈なる錬成のステージなのです。"
+			]
+		}
+	},
+	{
+		"id": "rubedo",
+		"word": "Rubedo",
+		"meaning": "ルベド/赤化、(最終的な)完成、命の燃焼、神聖なる結合、永遠の黄金",
+		"era": "Medieval Alchemy",
+		"etymology": {
+			"components": [
+				"ruber (red)"
+			],
+			"original_statement": "From Latin rubedo 'redness', from ruber 'red'. The fourth and final stage of the alchemical magnum opus, signifying completion."
+		},
+		"concept": "The final perfection (「知性（月）」と「情熱（太陽）」が完璧に融合し。もはや壊れることのない「真理（金）」へと結晶化すること。それは。自分の存在が、全宇宙の呼吸と「一致」した、峻烈なる「実録」の記述)",
+		"thinking": "「ルベド（赤化）」。おめでとうございます。あなたは、もう自分を「何者かに変える」必要はありません。 rubedo。それは、あなたが「あなた自身（黄金）」であることを、この世界という名の「坩堝（るつぼ）」に真っ赤に燃えて、完璧に証明した結果です。 rubedo。そこにあるのは、激しい闘争ではなく。すべてを包み込み、すべてを生かす、峻烈なる「慈悲（神性）」。あなたは今、宇宙という巨大な循環そのものになりました。その「赤い火（命）」を。絶やすことなく、永遠に灯し続けてください。",
+		"part_of_speech": "noun",
+		"aftertaste": "全身の血が「ザワリ」と逆流し、体温が「太陽」と一致したような。圧倒的な「全能感」と、同時に来る。峻烈なる「謙虚（沈黙）」。そこにある、すべては「一つである」という、究極の味。重い黄金の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "reudh-",
+					"meaning": "red"
+				}
+			],
+			"points": [
+				"Red（赤）や Ruby（ルビー）、Rust（錆び／酸化）と同じ root。ルベドとは。魂という名の鉄を極限まで酸化（燃焼）させ、不滅の『赤（ルード）』へと昇華させること。それは。有限の時間を、不変の価値へと『翻訳』し終えた、峻烈なる勝利の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "spagyric",
+		"word": "Spagyric",
+		"meaning": "スパギリック/分離と結合、(峻烈なる)救済、植物の錬金術、癒やしの解体、生命のエッセンス",
+		"era": "16th Century",
+		"etymology": {
+			"components": [
+				"span (to draw out / tear)",
+				"ageirin (to assemble / gather)"
+			],
+			"original_statement": "From Greek span 'to draw out / tear' + ageirin 'to assemble / gather'. Coined by Paracelsus to describe the alchemical method of medicine."
+		},
+		"concept": "The medicinal alchemy (「根」「葉」「花」へと一度「引き裂き（solve）」、その「不純物（泥）」を捨ててから。再び「純粋な力」として「統合（coagulate）」し直すこと。それは。痛みを経て得られる、峻烈なる「治癒」の記述)",
+		"thinking": "「スパギリック（分離と結合）」。あなたは。自分の「欠点」や「痛み」を。ただの「ゴミ（不純物）」だと思って、切り捨てようとしてはいませんか。 spagyric。それは。自分を一度「粉々」に分解し、汚い部分だけを「火」で焼き（クレンズ）。残った「高貴な成分」だけを、再び自分に「統合」し直す、峻烈なる「自己再生」。 spagyric。傷つくことを恐れないでください。分解（スパン）されない魂は。いつまでも「雑味」が混ざったまま、本来の力を発揮できないのですから。壊して、そして編み直してください。",
+		"part_of_speech": "adjective / noun",
+		"aftertaste": "薬草を「すり鉢」で力強く擦（す）り潰（つぶ）している。あの。苦くて、しかし瑞々しい「香り」。そこにある、自分を一度「壊す」という、峻烈なる「勇気」。喉の奥を焼くような、癒やしの味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "unknown",
+					"meaning": "Greek span / ageirein"
+				}
+			],
+			"points": [
+				"パラケルススが産み出した言葉。スパギリックとは、ただの『分析』でも『統合』でもなく、その両方を無限に繰り返す『リズム』そのもの。それは。複雑すぎる人生を、自分というフィルターで『精製（スペ）』し、世界に一滴の『善意』を残すための、峻烈なる知的労働の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "azoth",
+		"word": "Azoth",
+		"meaning": "アゾット/万能溶解液、(最初にして)最後、普遍の薬、水銀の魂、言葉のアルファ",
+		"era": "Medieval/Renaissance Alchemy",
+		"etymology": {
+			"components": [
+				"A (Alpha / Aleph)",
+				"Z (Zeta / Z / Omega?)"
+			],
+			"original_statement": "Possibly an anagram formed from A (initial letter in Hebrew/Greek/Latin) + Z (Hebrew) + O (Greek) + Th (Latin), representing the beginning and the end."
+		},
+		"concept": "The alpha and omega (始まりの「A」と終わりの「Z（あるいはΩ）」を包含し。宇宙の「全情報」を液体として保持する、究極の溶媒。それは。すべてを溶かし、すべてを産み出す、峻烈なる「理（ことわり）」の化身の記述)",
+		"thinking": "「アゾット（万能溶解液）」。あなたの「信念」。それは。あらゆる矛盾や絶望を、一度に「溶かし合わせることのできる」ほどの、巨大な「許容量」を持っていますか。 azoth。それは。自分と神、あるいは自分と敵という、二項対立を消し去る。峻烈なる「統合の液体」。 azoth。すべては「一つ（アゾット）」から始まり。すべては「一つ」へ還る。その「普遍の理（ロゴス）」を。あなたの指先に一滴、纏（まと）わせてください。そうすれば、あなたは。どんな困難な扉も、言葉なしで「開く」ことができるようになるのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "銀色の「液体水銀」が、自分のてのひらの上で「ゆらゆら」と、重く、自由な形を描いている。あの。掴（つか）みどころのない「神聖」。そこにある、宇宙は「一である」という、峻烈なる「諦念（ていねん）」。重厚な、銀の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "unknown",
+					"meaning": "Arabic al-zauq (mercury)"
+				}
+			],
+			"points": [
+				"水銀の象徴。アゾットとは、あらゆる『言葉（アルファベット）』を越え、意味の根源へと遡るための航海図。それは。私たちの知性が、断片化された世界を再び『全一』へと繋ぎ合わせるための、峻烈なる、そして静かなる戦いの記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "ouroboros",
+		"word": "Ouroboros",
+		"meaning": "ウロボロス/自己消費、(永遠の)回帰、終わりなき始まり、自己完結の円、虚無の更新",
+		"era": "Ancient Antiquity",
+		"etymology": {
+			"components": [
+				"oura (tail)",
+				"boros (devouring / eating)"
+			],
+			"original_statement": "From Greek ouroboros 'tail-devouring', from oura 'tail' + boros 'devouring / eating'."
+		},
+		"concept": "The cyclical self-devouring (自らの「尾」を自らの「口」で喰らい続け。壊しながら、同時に「産まれ続ける」巨大な「蛇（円）」。それは。死が常に「生」を養っている、という。峻烈なる「宇宙の非情な愛」の記述)",
+		"thinking": "「ウロボロス」。あなたは。自分の失敗や過去を「消したい」と願っていませんか。 ouroboros。見てください。この蛇は。自らの「過去（尾）」を食べることで。今の「命」を維持し、永遠に「輪（サークル）」を描き続けています。 ouroboros。あなたの犯した過ちは。あなたの未来を育てるための、最も「栄養価の高い（ボロス）」食事です。自分を否定しないでください。自分を「食べ（使い尽くし）」、自分を「産み落とす」その「循環」の美しさこそが。あなたが、この残酷な宇宙で、永遠に「生き続ける」ための唯一の法則なのですから。",
+		"part_of_speech": "noun",
+		"aftertaste": "円を描いて「ぐるぐる」と回り続ける、終わりのない「感覚（めまい）」。そこにある、もはや「出口」は必要ない。という、峻烈なる「納得感」。自分の「毒」を、自ら飲み干すような、刺激的で、穏やかな味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "u-",
+					"meaning": "behind (from oura?)"
+				},
+				{
+					"term": "gwer-",
+					"meaning": "to swallow / devour (from boros)"
+				}
+			],
+			"points": [
+				"Gargoyle（ガーゴイル）や Glutton（大食漢）と同じ root。ウロボロスとは。世界という毒を外界に吐き出すのではなく、自らの『喉（グウェル）』で受け止め、自浄作用として利用すること。それは。あらゆる苦難を『自己更新』の糧へと変える、峻烈なる存在の技術なのです。"
+			]
+		}
+	},
+	{
+		"id": "vitriol",
+		"word": "Vitriol",
+		"meaning": "ヴィトリオール/硫酸、(内なる)潜行、自分という名の劇薬、地球の深部への旅、真実の腐食",
+		"era": "Late Middle English",
+		"etymology": {
+			"components": [
+				"vitreux (glassy / from vitrum)"
+			],
+			"original_statement": "From Old French vitriol, from Medieval Latin vitriolum, from Latin vitreolus 'glassy' (reflecting the glassy appearance of metallic sulfates)."
+		},
+		"concept": "The secret acid (「Visita Interiora Terrae Rectificando Invenies Occultum Lapidem（地球の内面を訪れよ。精留すれば秘密の石が見つかるだろう）」という頭文字。それは。外界ではなく、自分という「地球の深部」へ潜り。不純な自分を「腐食（破壊）」してでも、一点の「石（真理）」を掴み取る、峻烈なる「自己解剖」)",
+		"thinking": "「ヴィトリオール（硫酸）」。あなたは。他人の間違いばかりを、鋭い言葉で「腐食（批判）」してはいませんか。 vitriol。その「強い酸（鋭さ）」を、一度。自分自身の「心の奥底（インテリア）」に向けてみてください。 vitriol。自分の汚さ、弱さ、卑怯さ。それらを。真理という名の硫酸で「溶かし（ボイル）」、骨まで剥（む）き出しにしてください。 vitriol。その「冷徹な自己破壊」を潜（くぐ）り抜けた先にだけ。どんな酸でも溶かすことのできない、あなたの「不滅の核（石）」が現れるのです。自分を、溶かせ。",
+		"part_of_speech": "noun",
+		"aftertaste": "鼻の奥を「ツン」と刺すような、激しい「刺激」と。皮膚が「ピリピリ」と焼けるような、峻烈なる「緊張感」。そこにある、自分を「焼き直す」という、覚悟。透明な、しかし「猛毒」を秘めた。光の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "uied-",
+					"meaning": "to see / know (from vitrum/glass? Refers to crystal clarity)"
+				}
+			],
+			"points": [
+				"Vision（視覚）や Idea（考え）、Wisdom（知恵）と同じ root。ヴィトリオールとは。ガラス（ヴィトラム）のように『透明な知性』で、暗い地中の奥底を『透視（ヴィジョン）』すること。それは。泥にまみれた現実の中から、透き通った真理（クリスタル）を『発見（インヴェニメス）』する、峻烈なる探求の記述なのです。"
+			]
+		}
 	}
 ];
