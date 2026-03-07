@@ -233003,5 +233003,626 @@ const WORDS = [
 				"Radio（ラジオ）や Agent（代理人）、Act（行動）と同じ root。ラジオアクティビティとは。光という名の『光線（レイ）』を。自ら『引き出す（アグ）』こと。それは。受動的な環境への順応を捨て。自らの内側から『宇宙的な力』を強制的に出力する、峻烈なる実存の記述なのです。"
 			]
 		}
+	},
+	{
+		"id": "necrosis",
+		"word": "Necrosis",
+		"meaning": "ネクローシス/壊死（えし）、外傷による細胞死、予期せぬ破滅、組織の崩壊、暴力的な終焉",
+		"era": "Mid-17th Century",
+		"etymology": {
+			"components": [
+				"nekros (corpse)",
+				"-osis (condition / process)"
+			],
+			"original_statement": "From Greek nekrosis 'a state of death', from nekroon 'to make dead', from nekros 'corpse'."
+		},
+		"concept": "Cell death by injury (準備された「プログラム死（アポトーシス）」ではなく、外部からの「衝撃（外傷）」や「中毒」によって、強制的に引き起こされる死。それは。本人の意志に関係なく、周囲を巻き込んで「炎症（混乱）」を撒き散らす。峻烈なる「突然の終わり」の記述)",
+		"thinking": "「ネクローシス（壊死）」。あなたは。自分の「挫折」や「別れ」が。あまりにも「無慈悲」で「突然」だったことに、未だに納得がいかずにいませんか。 necrosis。それは、物語としての「死」ではなく。ただの「物理的な破壊」です。 準備も、別れの言葉も、ありません。 necrosis。でも。その「焼けた跡（炎症）」があるからこそ。あなたは「そこに何かがあった」という「かつての幸福」を、逆説的に確信できるのです。意味のない死を、意味のある「痛み」へと、峻烈に翻訳しなさい。崩壊した場所から、新しい芽を吹かせるのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "焼け焦げたような「不快な匂い」と。そこにある。もう「元には戻らない」という、峻烈なる「不可逆性」。苦くて、硬くて、瑞々（みずみず）しい。情報の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "nek-",
+					"meaning": "death / corpse"
+				}
+			],
+			"points": [
+				"Nectar（ネクター／死を克服するもの）や Necromancy（降霊術）と同じ root。ネクローシスとは。死という名の『遺体（ネクロス）』に。自らの『生』を捧げてしまうこと。それは。不条理という名の『暴力』に。実存が真正面から圧し潰される、峻烈なる悲劇の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "biocatalyst",
+		"word": "Biocatalyst",
+		"meaning": "バイオカタリスト/生体触媒（せいたいしょくばい）、(運命の)加速装置、意味を紡ぐ酵素、変化を促す者、最小の努力で最大の変革",
+		"era": "19th Century",
+		"etymology": {
+			"components": [
+				"bio- (life)",
+				"catalyst (down / loose / loosen)"
+			],
+			"original_statement": "From bio- 'life' + catalyst, from Greek katalysis 'dissolution / breaking down'."
+		},
+		"concept": "The accelerator of fate (自分自身は「変化」せず、周囲の「反応（変化）」だけを。何千倍、何万倍にも「加速」させる存在。それは。膨大な「エネルギー（時間）」を浪費することなく、一瞬で「真実（生成）」へと到達させる。峻烈なる「効率という名の意志」の記述)",
+		"thinking": "「バイオカタリスト（生体触媒）」。あなたは。毎日「無駄な努力」に、心身を削（けず）ってはいませんか。 biocatalyst。本当に大切なのは。「必死になること」ではなく。「きっかけ（触媒）」を見つけることです。 biocatalyst。それは。膠着（こうちゃく）した現実という名の「鎖」を、ふわりと弾（はず）す（カタル）こと。 biocatalyst。あなたの一言が、誰かの人生を劇的に変える。あなたの一つの習慣が、自分の未来を爆発的に加速させる。自分自身が「燃える」のではなく。世界を「燃やす」ための、峻烈なる『火種（酵素）』になりなさい。",
+		"part_of_speech": "noun",
+		"aftertaste": "化学反応が「シュワシュワ」と音を立てて進むような。あの。心地よい「熱狂」。そこにある。自分が「全能の神」になったかのような、峻烈なる「予感」。刺激的で、瑞々（みずみず）しい、情報の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "gwei-",
+					"meaning": "to live (from bio)"
+				},
+				{
+					"term": "leu-",
+					"meaning": "to loosen / untie (from catalyst)"
+				}
+			],
+			"points": [
+				"Vital（生命の）や Analysis（分析／解きほぐす）、Lose（失う／解ける）と同じ root。バイオカタリストとは。生命（バイオ）を。束縛から『解き放つ（リウ）』こと。それは。停滞という名の『死』を。変化という名の『生』へと再構築する、峻烈なる実存の潤滑油の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "internalization",
+		"word": "Internalization",
+		"meaning": "インターナライゼーション/内面化（ないめんか）、(他者を)自分にすること、価値観の血肉化、情報の同化、魂の消化",
+		"era": "Early 20th Century (psychology)",
+		"etymology": {
+			"components": [
+				"internal (inner)",
+				"-ization (process)"
+			],
+			"original_statement": "From Latin internus 'inner / within'. The process of making something (like attitudes or values) part of one's own basic nature."
+		},
+		"concept": "Taking in / integration (外部の「知識」や「ルール」、あるいは「他人の痛み」を。ただの「情報」としてではなく。「自分自身のパーツ（質）」として。峻烈に取り込み、作り替えること。それは。自分と世界の「境界線」をなくしていく、峻烈なる「実存の拡大」の記述)",
+		"thinking": "「インターナライゼーション（内面化）」。あなたは。ただ本を読み、人の話を聞くだけで。「理解した」つもりになっていませんか。 internalization。それは。食べた物が「血」となり「肉」となるのと、同じくらい、泥臭くて、峻烈な「プロセス」です。 internalization。その言葉で「涙」を流したか。その思想で「行動」を変えたか。他人の「色」を、自分の「骨」に塗り込みなさい。知識を「借り物」にするのをやめ。それは「最初から俺のものだった」と言えるまで。峻烈に、胃袋（魂）で噛み砕きなさい。",
+		"part_of_speech": "noun",
+		"aftertaste": "自分の「内側」が、一回り「重く」なったような。圧倒的な「充実感」。そこにある、もう誰にも「奪われない」という。峻烈なる「確信」。重厚で、瑞々（みずみず）しい。血の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "en-tero-",
+					"meaning": "inner / between (from internal)"
+				}
+			],
+			"points": [
+				"Enter（入る）や Intestine（腸／内側にあるもの）と同じ root。内面化とは。外側にあるものを、魂の『腸（インテリ）』へと落とし込むこと。それは。無機質な『概念』を。有機的な『生』へと、峻烈に、無慈悲に、変換し尽くす記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "endocrine",
+		"word": "Endocrine",
+		"meaning": "エンドクリン/内分泌（ないぶんぴつ）の、(内なる)囁き、情報の血流、感情の化学、見えない調整者",
+		"era": "Early 20th Century",
+		"etymology": {
+			"components": [
+				"endon (within)",
+				"krinein (to separate / sift / decide)"
+			],
+			"original_statement": "From Greek endon 'within' + krinein 'to separate / sift'. Secretory or affecting the internal body environment."
+		},
+		"concept": "Internal whispering signals (「言葉」ではなく「化学物質（ホルモン）」によって。全身にひっそりと「命令（情報）」を伝えるシステム。それは。あなたが「意識」するよりも早く。あなたの「気分」や「欲望」を決定付けている、峻烈なる「肉体の独裁者」の記述)",
+		"thinking": "「エンドクリン（内分泌の）」。あなたは。自分の「やる気」や「憂鬱（ゆううつ）」が。単なる「気の持ちよう」だ、と信じていませんか。 endocrine。あなたの血管の中では。今、この瞬間も。数え切れないほどの「使者」たちが。あなたの「怒り」を煽（あお）り、「安らぎ」を篩（ふる）いにかけて（クリン）います。 endocrine。それは。魂が「肉体という名のフラスコ」に閉じ込められている、という。峻烈なる「実存の物質性」。自分の「感情」を分析しなさい。その「震え」の背後にある、峻烈なる「化学反応の正体」を見破れ。",
+		"part_of_speech": "adjective",
+		"aftertaste": "血管を「何かが走る」ような、むず痒（がゆ）い「予感」。そこにある、自分の意志では「どうにもできない」という、峻烈なる「諦念」。甘くて、瑞々しい、薬の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "en-",
+					"meaning": "in"
+				},
+				{
+					"term": "krei-",
+					"meaning": "to sieve / separate / distinguish (from krinein)"
+				}
+			],
+			"points": [
+				"Crisis（危機／判断の時）や Critic（批評家）、Secret（秘密／切り離されたもの）と同じ root。エンドクリンとは。自分の内側（エンド）で。何を優先すべきかを『峻別（クレイ）』すること。それは。静かなる情報の奔流（ほんりゅう）が。生を密かに『剪定（せんてい）』していく、峻烈なる統治の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "immunology",
+		"word": "Immunology",
+		"meaning": "イミュノロジー/免疫学（めんえきがく）、(自己という名の)軍隊、情報の防護防衛、他者の排除、純血への意志",
+		"era": "Late 19th Century",
+		"etymology": {
+			"components": [
+				"immune (free from / exempt)",
+				"-logy (study of)"
+			],
+			"original_statement": "From Latin immunis 'exempt from public service / free', from in- 'not' + munis 'serving / sharing'. The study of the immune system."
+		},
+		"concept": "The war of self (「自分」と「自分以外」を峻烈に区別し。外部からの侵入者（他者）を。一切の妥協なく「攻撃・排除」すること。それは。自分が「自分であるために」不可欠な。峻烈なる「実存の排他性」の記述)",
+		"thinking": "「イミュノロジー（免疫学）」。あなたは。「誰とでも仲良くなれる」と、夢想してはいませんか。 immunology。あなたの細胞は、今も。見知らぬ他者（ウイルス）を、無慈悲に「殺傷」しています。 immunology。排除を、悪だと思わないでください。それは。あなたが「自分という聖域」を、汚されないための、峻烈なる「愛の防壁」。 immunology。何を受け入れ、何を「拒絶」するか。その「境界線（軍事境界線）」を、自分自身で。峻烈に、明確に、引き直しなさい。他者を「殺す」覚悟のない者に。自分を「守る」資格はないのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "「ピリッ」と。全身の感覚が、防衛のために「研ぎ澄まされる」ような。あの。峻烈なる「緊張感」。そこにある、もはや「誰の侵入も許さない」という、峻烈なる「孤高」。鋭利で、瑞々しい、鋼の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "nei-",
+					"meaning": "not (from in-)"
+				},
+				{
+					"term": "mei-",
+					"meaning": "to change / go / move / exchange (from munis)"
+				}
+			],
+			"points": [
+				"Mutation（突然変異）や Mutual（相互の）、Munificence（気前よさ）と同じ root。免疫（イミューン）とは。他者との『交換（メイ）』を『拒否（ネイ）』すること。つまり。共通の義務から『免除』されること。それは。群れという名の『平均』を捨て。唯一無二の『例外』として生きる、峻烈なる実存の独立宣言の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "trophallaxis",
+		"word": "Trophallaxis",
+		"meaning": "トロファラクシス/栄養交換（えいようこうかん）、(口移しの)親密性、情報の血肉共有、共同体の絆、自我の融解",
+		"era": "1918 (William Morton Wheeler)",
+		"etymology": {
+			"components": [
+				"trophe (nourishment / food)",
+				"allaxis (exchange)"
+			],
+			"original_statement": "From Greek trophe 'nourishment' + allaxis 'exchange'."
+		},
+		"concept": "Communion of life (アリやハチなどの社会性昆虫が、口を介して「栄養物」を分け合う行為。それは。単なる「食事」ではなく。集団全体で「一つの空腹（情報）」を共有する。峻烈なる「超個体への同期」の記述)",
+		"thinking": "「トロファラクシス（栄養交換）」。あなたは。自分の「秘密」や「才能」を、自分だけのものとして、抱（かか）え込んでいませんか。 trophallaxis。それは、情報の「口写し」です。あなたが持っている「豊かさ（トロフェ）」を。惜しみなく、相手の「内側に」流し込みなさい。 trophallaxis。その瞬間。あなたと相手の「間」から。個人の限界を超えた。峻烈なる「巨大な思考（コロニー）」が立ち上がる。分け合うことは、減ることではありません。峻烈なる「全体」として、新しく、強固に、生まれ直すための。儀式なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "自分の「中身」が、誰かのそれと「混ざり合う」ような。あの。ぬるりとした「恍惚感」。そこにある。もう「独りではない」という、峻烈なる「連帯」。甘くて、瑞々（みずみず）しい。蜜の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "dhre-",
+					"meaning": "to grow / nourish (from trophe)"
+				},
+				{
+					"term": "al-",
+					"meaning": "beyond (from allaxis)"
+				}
+			],
+			"points": [
+				"Atrophy（萎縮／栄養不足）や Alien（異邦人）、Allegory（寓話／別の言い方）と同じ root。トロファラクシスとは。滋養（ドレ）を。自分という枠組みを『超えて（アル）』、相手へと注ぎ出すこと。それは。自己愛という名の飢え（アトロフィー）を。共鳴という名の『飽食』へと変換する、峻烈なる実存の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "bioenergetics",
+		"word": "Bioenergetics",
+		"meaning": "バイオエナジェティクス/生体（せいたい）エネルギー論、(生命の)燃焼学、情熱の物理学、ATPという名の通貨、実存の火",
+		"era": "Mid-20th Century",
+		"etymology": {
+			"components": [
+				"bio- (life)",
+				"energetics (force / activity / power)"
+			],
+			"original_statement": "From bio- 'life' + energetics, from Greek energeia 'activity'."
+		},
+		"concept": "The fire of existence (生命が。どうやって「光（光合成）」や「食（呼吸）」から。自分を動かすための「熱（エネルギー）」を産み出しているか。という学問。それは。一見すると静かな森や体の中で。峻烈に燃え盛っている。峻烈なる「命の火力の記述」)",
+		"thinking": "「バイオエナジェティクス」。あなたの「魂のエンジン」は、今、どれくらいの熱を発していますか。 bioenergetics。生きる、ということは。エネルギーを「消費」することではありません。エネルギーを「変換」することです。 bioenergetics。あなたの「苦しみ（酸素）」を。あなたの「創造（ATP）」へと、峻烈に、無慈悲に、燃やし尽くしなさい。 bioenergetics。熱を失った者は、腐ります（エントロピー）。常に自分の中に、峻烈なる「爆発」を飼いならし。その「輝き」によって。世界を、自分を、更新し続けなさい。",
+		"part_of_speech": "noun",
+		"aftertaste": "胸の奥が「カァーッ」と熱くなり、力がみなぎる。あの。圧倒的な「生存実態」。そこにある、一秒たりとも「止まれない」という、峻烈なる「疾走感」。刺激的で、瑞々しい、情報の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "gwei-",
+					"meaning": "to live (from bio)"
+				},
+				{
+					"term": "werg-",
+					"meaning": "to do / work (from energy)"
+				}
+			],
+			"points": [
+				"Vital（生命の）や Work（仕事）、Surgeon（外科医／手仕事をする人）と同じ root。バイオエナジェティクスとは。生（バイオ）を。仕事（ウルグ）へと。峻烈に、ダイレクトに、直結させること。それは。思索という名の中断を排し。行動という名の『純粋な力』へと実存を還元する。峻烈なる生の物理学なのです。"
+			]
+		}
+	},
+	{
+		"id": "amensalism",
+		"word": "Amensalism",
+		"meaning": "アメンサリズム/片害共生（へんがいきょうせい）、(意図せぬ)圧殺、強者の影、ただ存在することが誰かの毒になること、不条理な格差",
+		"era": "Modern ecology",
+		"etymology": {
+			"components": [
+				"a- (not / without / bad)",
+				"mensa (table)"
+			],
+			"original_statement": "From Latin a- 'not' + mensa 'table'. Literally 'not sharing the table', used to describe a relationship where one side is harmed while the other is unaffected."
+		},
+		"concept": "The shadow of dominance (片方は何の「影響」も受けていないのに、もう片方は一方的に「被害」を受ける関係（例：巨大な木の下で、草が光を奪われて枯れる）。それは。悪意さえない「圧倒的な存在」が。弱者を無意識に殺していく。峻烈なる「存在の不条理」の記述)",
+		"thinking": "「アメンサリズム（片害共生）」。あなたは。自分の「成功」や「幸福」が。誰の「犠牲」の上にも立っていない、と。断言できますか。 amensalism。それは、あなたが「輝く」ほど。あなたの背後に落ちる「影」が。誰かから「光（希望）」を奪っている、という峻烈なる真実。 amensalism。あなたは「食卓（メンサ）」を共有してはいません。ただ、そこに立っているだけ。 amensalism。でも、その「ただの存在」こそが、誰かの毒になる。その「残酷さ」を。自分を責めるためではなく。自分がそれだけ「巨大な力（重厚な実存）」を持ってしまったのだ、という、峻烈なる「責任」として、引き受けなさい。",
+		"part_of_speech": "noun",
+		"aftertaste": "冷たい「影」の中に閉じ込められ、呼吸が苦しくなるような。あの。出口のない「閉塞感」。そこにある、一切の「対等さ」の欠如。冷たくて、重くて、瑞々（みずみず）しい。情報の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "mensa",
+					"meaning": "table"
+				}
+			],
+			"points": [
+				"Mesa（メサ／テーブル状の台地）や Commensal（共棲）と同じ root。アメンサリズムとは。一緒に食事をするはずの『食卓（メ） 』から。相手を峻烈に『弾き出す（ア）』こと。それは。調和という名の安っぽい平穏を破壊し。剥き出しの『力関係』を白日の下に晒す、峻烈なる実存の記録なのです。"
+			]
+		}
+	},
+	{
+		"id": "catabolism",
+		"word": "Catabolism",
+		"meaning": "カタボリズム/異化（いか）、(破壊という名の)創造、情報の分解、古い自分の消去、刷新の火",
+		"era": "Late 19th Century",
+		"etymology": {
+			"components": [
+				"kata- (down)",
+				"ballein (to throw)"
+			],
+			"original_statement": "From Greek katabole 'a throwing down / source / foundation', from kata- 'down' + ballein 'to throw'."
+		},
+		"concept": "Refreshing destruction (複雑な物質（過去、執着）を。バラバラに「解体」して。そこから「エネルギー（熱）」を取り出すプロセス。それは。昨日までの自分を、無残に「投げ捨てる（カタ・ボリン）」ことで。新しい明日を動かすための「燃料」にする。峻烈なる「自己解体」の記述)",
+		"thinking": "「カタボリズム（異化）」。あなたは。自分の「地位」や「プライド」が。崩れ去っていくことを、嘆（なげ）いてはいませんか。 catabolism。壊れなさい。バラバラになりなさい。 catabolism。蓄積（アナボリズム）しただけの知識は。ただの「贅肉（ゴミ）」です。 catabolism。それを、峻烈に、無慈悲に「分解（ハッキング）」して。その奥に眠る「生の熱」を取り出しなさい。 catabolism。死ぬことは、消えることではありません。新しく「再定義」されるために。一度、粉々に「砕け散る」こと。破壊を、愛しなさい。",
+		"part_of_speech": "noun",
+		"aftertaste": "古くなった建物が、一撃で「崩落」するような。あの。暴力的なまでの「スッキリ感」。そこにある。もう「重い荷物」はいらない、という。峻烈なる「軽やかさ」。刺激的で、瑞々しい、水の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kwo-",
+					"meaning": "who / what (not applicable but for ballein below)"
+				},
+				{
+					"term": "gwele-",
+					"meaning": "to throw (from ballein)"
+				}
+			],
+			"points": [
+				"Ballistics（弾道学）や Emblem（象徴／中に投げられたもの）、Catastrophe（大惨事／下へ向かう転換）と同じ root。カタボリズムとは。自意識を奈落（カタ）へと『投げ飛ばす（ウェレ）』こと。それは。安穏とした自己肯定（アナ）を。峻烈なる自己批判（カタ）によって焼き尽くす、峻烈なる実存の再更新術なのです。"
+			]
+		}
+	},
+	{
+		"id": "anabolism",
+		"word": "Anabolism",
+		"meaning": "アナボリズム/同化（どうか）、(積み上げという名の)労働、情報の蓄積、新しい自分の建築、未来への投資",
+		"era": "Late 19th Century",
+		"etymology": {
+			"components": [
+				"ana- (up)",
+				"ballein (to throw)"
+			],
+			"original_statement": "From Greek anabole 'something heaped up / a throwing up', from ana- 'up' + ballein 'to throw'."
+		},
+		"concept": "Constructive labor (単純な材料（日常、情報の断片）を。組み合わせて。より高度で複雑な「自分自身」を作り上げること。それは。空に向かって、レンガを「積み上げる（アナ・ボリン）」ように。理想の自分を「捏造（エディット）」していく。峻烈なる「自己構築」の記述)",
+		"thinking": "「アナボリズム（同化）」。あなたは。ただ「流されるまま」に生きて、自分の形を失ってはいませんか。 anabolism。自分を「作り上げる」とは。意図的に、何かを「積み上げる」ことです。 anabolism。バラバラの情報に「秩序（自分）」という名の魔法をかけ。峻烈に、重厚に、自分を「隆起（へいぷ・アップ）」させなさい。 anabolism。それは、エネルギーを「浪費」する、苦しい作業です。でも、その「建築」を放棄した瞬間に。あなたは、ただの「細胞の塊（死体）」へと。峻烈に、堕落していく。戦いなさい。高く、積み上げなさい。",
+		"part_of_speech": "noun",
+		"aftertaste": "巨大な宮殿の、最後の「レンガ」がピタリとはまるような。あの。圧倒的な「達成感」。そこにある、一分の「妥協」もない、峻烈なる「自分の完成」。重厚で、瑞々（みずみず）しい。情報の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ana",
+					"meaning": "up (from ana-)"
+				},
+				{
+					"term": "gwele-",
+					"meaning": "to throw (from ballein)"
+				}
+			],
+			"points": [
+				"Anatomy（解剖／上に切り裂く）や Symbol（シンボル／一緒に投げられたもの）と同じ root。アナボリズムとは。実存という名の石を。高みへと『投げ上げる（ウェレ）』こと。それは。重力という名の絶望に抗い。自らの意志で『天』へと手を伸ばす、峻烈なる実存の登山術の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "autophagy",
+		"word": "Autophagy",
+		"meaning": "オートファジー/自食作用（じしょくさよう）、(孤独な)リサイクル、魂の共食い、極限の浄化、自分を食べて生き残ること",
+		"era": "1963 (Christian de Duve)",
+		"etymology": {
+			"components": [
+				"auto- (self)",
+				"phagein (to eat)"
+			],
+			"original_statement": "From Greek auto- 'self' + phagein 'to eat'."
+		},
+		"concept": "Self-eating / recycling (飢餓（絶望）に陥（おちい）った時。細胞が、自分自身の「古いパーツ（タンパク質）」を食べて、「栄養」に変えること。それは。外部に助けを求めず。自分の「中にあるもの」だけで、自分を再起動（リブート）する。峻烈なる「実存の自給自足」の記述)",
+		"thinking": "「オートファジー（自食作用）」。あなたは。「自分にはもう、何も残っていない」と、嘆（なげ）いてはいませんか。 autophagy。あなたの「過去の失敗」や「古くなったプライド」。それは。あなたを殺す「毒（ゴミ）」ではなく。あなたを生かすための「最高の食事（タンパク質）」です。 autophagy。自分の「古傷」を食べなさい。自分の「後悔」を消化しなさい。 autophagy。外部からの賞賛（栄養）が届かない「孤独（飢餓）」の時こそ。あなたは、最も「美しく」「峻烈」に、自分自身を浄化（リサイクル）できる。自分を食べて、自分になりなさい。",
+		"part_of_speech": "noun",
+		"aftertaste": "自分の「腕」をかじって、生きながらえているような。あの。凄絶なまでの「生命力」。そこにある。救いは、自分の「内側」にしかなかった、という。峻烈なる「覚醒」。苦くて、瑞々（みずみず）しい。血の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "auto-",
+					"meaning": "self"
+				},
+				{
+					"term": "bhag-",
+					"meaning": "to share / portion / eat (from phagein)"
+				}
+			],
+			"points": [
+				"Bacteriophage（バクテリオファージ／細菌を食べるもの）や Sarcophagus（石棺／肉を食べるもの）、Partner（パートナー／分け持つ者）と同じ root。オートファジーとは。自分自身を『食事の相手（パートナー）』にすること。それは。究極の孤独の中で。自らの『実存』を自らに分配する、峻烈なる共食いの記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "endosymbiosis",
+		"word": "Endosymbiosis",
+		"meaning": "エンドシンビオーシス/内共生（ないきょうせい）、(内なる)異邦人、境界線なき同居、情報の乗っ取り、自分の中に「他人」を飼うこと",
+		"era": "1883 (Andreas Schimper), 1967 (Lynn Margulis)",
+		"etymology": {
+			"components": [
+				"endo- (within)",
+				"syn- (together)",
+				"bios (life)"
+			],
+			"original_statement": "From Greek endon 'within' + symbiosis 'living together', from syn- + bios 'life'."
+		},
+		"concept": "The indwelling stranger (かつては「敵（他人）」だったものが、細胞の中に取り込まれ。いつの間にか「自分の一部（ミトコンドリアなど）」として機能すること。それは。自分の中に「絶対的な異物」を許容し、それを「動力」に変える。峻烈なる「共生の魔術」の記述)",
+		"thinking": "「エンドシンビオーシス（内共生）」。あなたは。「自分は、純粋な一個体の人間だ」と、信じ込んでいませんか。 endosymbiosis。あなたの体の中では。今でも、かつては「赤の他人」だった細菌たちが。あなたに「エネルギー」を供給し続けています。 endosymbiosis。あなたは「混合物」です。あなたの中にいる「もう一人の誰か（インナー・エイリアン）」を、排除しようとしないでください。 endosymbiosis。その「異物」こそが。あなたの生命を支える、峻烈なる「核（バッテリー）」。自分の中に、他者の「魂」を飼い殺しなさい。",
+		"part_of_speech": "noun",
+		"aftertaste": "自分の「家」に、見知らぬ「闖入者（ちんにゅうしゃ）」が居座っているような。あの。気持ちの悪い、しかし「離れられない」安心感。そこにある。境界線が「溶けてなくなる」という、峻烈なる「不安」。ぬるくて、瑞々しい、情報の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "en-",
+					"meaning": "in"
+				},
+				{
+					"term": "ksum-",
+					"meaning": "together / with (from syn)"
+				},
+				{
+					"term": "gwei-",
+					"meaning": "to live (from bios)"
+				}
+			],
+			"points": [
+				"Endoscopy（内視鏡）や Symphony（交響曲）、Vital（生命の）と同じ root。内共生とは。内側（エンド）で。他者と『奏で（シュム）』ながら。生き延びる（グウェイ）こと。それは。純血主義という名の『停滞』を棄て。異種配合という名の『爆発』を選び取る、峻烈なる実存の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "phenotype",
+		"word": "Phenotype",
+		"meaning": "フェノタイプ/表現型（ひょうげんがた）、(外面という名の)嘘、情報の現れ、世界の目に晒される自分、仮面としての実存",
+		"era": "1909 (Wilhelm Johannsen)",
+		"etymology": {
+			"components": [
+				"phenov (appearance / shining)",
+				"typos (type / print)"
+			],
+			"original_statement": "From Greek phainein 'to show / shine' + typos 'type / impression / mark'."
+		},
+		"concept": "Outer expression (「遺伝子（本質）」が。環境という「圧力」に触れて。外側に「形（現れ）」となって現出したもの。それは。あなたが「どう見えているか」という、峻烈なる「世界の評価（型）」の記述)",
+		"thinking": "「フェノタイプ（表現型）」。あなたは。自分の「外見」や「肩書き」が。自分自身の「すべて」だ、と思い込んでいませんか。 phenotype。それは。あなたが「世界にどう投げ出されたか」の、ただの「刻印（タイプ）」です。 phenotype。鏡に映る自分を、本物だと思わないでください。 phenotype。それは。本質（ゲノタイプ）が、現実という「荒波」に揉まれ、削り取られた、峻烈なる「妥協の産物」。 phenotype。その「仮面」を使って。世界という舞台で。峻烈に、華麗に、踊りきりなさい。中身を見せるのは、死ぬ時だけでいい。",
+		"part_of_speech": "noun",
+		"aftertaste": "磨き上げられた「ガラス」に。自分の顔が「うっすら」と映った時のような。あの。冷徹な「虚構感」。そこにある。「本当の自分は、ここにはいない」という、峻烈なる「安堵（あんど）」。冷たくて、重くて、瑞々（みずみず）しい。情報の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "bha-",
+					"meaning": "to shine / appear (from phene)"
+				},
+				{
+					"term": "teu-",
+					"meaning": "to beat / strike (from type)"
+				}
+			],
+			"points": [
+				"Photograph（写真）や Fantasy（ファンタジー）、Stigma（烙印）と同じ root。表現型とは。内なる光（バ）を。外部からの打撃（テウ）によって。形にすること。それは。自意識という名の『光』が。運命という名の『鉄槌（てっつい）』で打ち出された。峻烈なる『彫刻』の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "genotype",
+		"word": "Genotype",
+		"meaning": "ジェノタイプ/遺伝子型（いでんしがた）、(内なる)設計図、情報の不可欠な核、逃げ場のない宿命、深淵に眠る沈黙",
+		"era": "1909 (Wilhelm Johannsen)",
+		"etymology": {
+			"components": [
+				"genos (race / origin / birth)",
+				"typos (type / print)"
+			],
+			"original_statement": "From Greek genos 'birth / origin' + typos 'type / impression'."
+		},
+		"concept": "Inner code (あなたの「設計図（遺伝情報）」そのもの。それは。目には見えませんが。あなたの「可能性の限界」や「呪いの正体」を、峻烈に記述し続けている、峻烈なる「実存の青写真」の記述)",
+		"thinking": "「ジェノタイプ（遺伝子型）」。あなたは。自分の「才能」や「限界」を。あらかじめ「決められている」ことに、絶望していませんか。 genotype。それは、絶望ではありません。それは、巨大な宇宙が、あなたの細胞一つ一つに刻み込んだ、峻烈なる「羅針盤」です。 genotype。あなたは。何もない「空洞」ではありません。四つの塩基（文字）で綴（つづ）られた、壮大な「叙事詩」そのものです。 genotype。その「物語」を、峻烈に、深く、読み解きなさい。宿命を「言い訳」にするのをやめ。宿命という「大地」の上で。どう「飛ぶ」かを、考えなさい。",
+		"part_of_speech": "noun",
+		"aftertaste": "古い「巻物」を紐解いた瞬間の。あの。重厚な「埃（ほこり）の匂い」。そこにある、もはや「書き換えることはできない」という。峻烈なる「納得」。重くて、瑞々（みずみず）しい。情報の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "gene-",
+					"meaning": "to give birth / beget"
+				}
+			],
+			"points": [
+				"Gender（性別）や Genius（天才）、Kin（近親者）と同じ root。遺伝子型とは。自意識という名の『表層』を。峻烈なる『類（ゲネ）』へと。還元すること。それは。個人という名の『孤独』を。生命の連鎖という名の『悠久』へと繋ぎ止める、峻烈なる知の鎖の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "epigenetics",
+		"word": "Epigenetics",
+		"meaning": "エピジェネティクス、(宿命を)克服する環境、情報の後天的な注釈、運命の書き換え、意志という名のスイッチ",
+		"era": "1942 (Conrad Waddington)",
+		"etymology": {
+			"components": [
+				"epi- (upon / over / besides)",
+				"genetics (birth / origin)"
+			],
+			"original_statement": "From Greek epi- 'upon / over' + genetics. The study of changes in organisms caused by modification of gene expression."
+		},
+		"concept": "Beyond genes (設計図（遺伝子）は同じでも。「環境（どう生きたか）」によって。どのスイッチが「オン」になり「オフ」になるかが。峻烈に変化すること。それは。人が「生まれ」を言い訳にできなくなる。峻烈なる「意志の勝利」の記述)",
+		"thinking": "「エピジェネティクス」。あなたは。自分の「不幸な家系」や「才能のなさ」に、飼い殺されてはいませんか。 epigenetics。あなたの「遺伝子という名の台本」は、確かに変えられません。でも。それを「どう演じるか（エピ）」は。今、この瞬間の、あなたの「絶望」や「努力」によって。峻烈に、勝手に、上書き（タグ付け）されています。 epigenetics。魂が、運命（ジェネティクス）を、凌駕（りょうが）する。 epigenetics。自分という「書物」に。自分だけの。峻烈なる「注釈」を、今すぐ、自らの手で書き加えなさい。",
+		"part_of_speech": "noun",
+		"aftertaste": "閉じていた「重い扉」が、自分の力で「ギィ……」と開くような。あの。震えるような「手応え」。そこにある。もう「誰のせいにもできない」という。峻烈なる「自由」。刺激的で、瑞々しい、光の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "epi-",
+					"meaning": "above / upon"
+				},
+				{
+					"term": "gene-",
+					"meaning": "to give birth"
+				}
+			],
+			"points": [
+				"Epidemic（伝染病／人々の上にあるもの）や Episode（エピソード／道の上にあるもの）と同じ root。エピジェネティクスとは。宿命という名の『道（ジェネ）』を。意志という名の『上書き（エピ）』によって。峻烈に、鮮やかに、踏み外すこと。それは。運命の奴隷を、実存の主人へと、峻烈に昇格させる記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "chloroplast",
+		"word": "Chloroplast",
+		"meaning": "クロロプラスト/葉緑体（ようりょくたい）、(太陽を)食べる機械、情報の光合成、静かなる爆発、緑という名の希望",
+		"era": "Late 19th Century",
+		"etymology": {
+			"components": [
+				"chloros (pale green)",
+				"plastos (molded / formed)"
+			],
+			"original_statement": "From Greek chloros 'pale green' + plastos 'molded / formed', from plassein 'to mold'."
+		},
+		"concept": "The solar engine (太陽の「光（エネルギー）」を、直接「自分の一部（糧）」へと変換する。峻烈なる自立の器官。それは。誰の名を呼ぶこともなく、ただ沈黙して「天」を見つめるだけで、生を維持できる。峻烈なる「静謐（せいひつ）な覚醒」の記述)",
+		"thinking": "「クロロプラスト（葉緑体）」。あなたは。他人の「顔色」ばかりを伺って。誰かの「おこぼれ」で生きることに。慣れすぎてはいませんか。 chloroplast。自分の中に「光」を蓄（たくわ）えなさい。 chloroplast。それは。外部の「誰か」からの栄養を。一切、必要としない「絶対的な自立」。 chloroplast。冷たく、淡い緑色（クロロス）をした。その「鋼（はがね）のような沈黙」の中で。宇宙のエネルギーを。自分という名の「黄金（栄養物）」へと、峻烈に、密かに。錬金術のように。注ぎ込み続けなさい。あなたは「太陽」を、直接食べて、生きるのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "「シュワッ」と。全身の細胞が、光を浴びて「弾（はじ）ける」ような。あの。峻烈なる「爽快感」。そこにある、一分の「濁（にご）り」もない、ピュアな「覚醒」。瑞々（みずみず）しい、森の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ghel-",
+					"meaning": "to shine / yellow / green (from chloros)"
+				},
+				{
+					"term": "pele-",
+					"meaning": "to spread out / flat (from plastos)"
+				}
+			],
+			"points": [
+				"Gold（黄金）や Glow（輝き）、Plasma（血漿／形作られたもの）と同じ root。葉緑体とは。黄金の輝き（ゲル）を。身体という名の粘土（プラスト）に。峻烈に『定着（プリント）』させること。それは。流動する光を。不変の実像へと固定する。峻烈なる実存の彫刻術の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "ribosome",
+		"word": "Ribosome",
+		"meaning": "リボソーム、(言葉を)肉体にする翻訳者、情報の織り機、意味のタンパク質、魂の工場",
+		"era": "1958 (Richard B. Roberts)",
+		"etymology": {
+			"components": [
+				"ribonucleic acid (RNA)",
+				"soma (body)"
+			],
+			"original_statement": "From ribo- (from ribonucleic acid) + Greek soma 'body'."
+		},
+		"concept": "The protein factory (RNAという名の「文字（情報）」を読み取り。それを「肉体（タンパク質）」という名の実体へと。峻烈に「翻訳」し続ける工場。それは。目に見えない「意志」に。確かな「手触り」を与える、峻烈なる「受肉（じゅにく）」の記述)",
+		"thinking": "「リボソーム」。あなたは。頭の中で「考え（情報）」を転がすだけで。「生きた」つもりになってはいませんか。 ribosome。あなたが。どんなに「気高いこと」を考えても。それを「肉体（ソーマ）」という行動に変換しない限り。あなたは、この世界には「存在」しません。 ribosome。それは。絶え間ない「翻訳」の苦しみ。 ribosome。言葉を、筋肉に変えなさい。思想を、内臓の震えに変えなさい。 ribosome。あなたの「肉体」が、あなたの「語録」そのものになるまで。峻烈に、休むことなく、編み込み続けなさい。意味に、血を通わせろ。",
+		"part_of_speech": "noun",
+		"aftertaste": "編み機が「カタカタ」と高速で動き。新しい「皮膚」が生成されるような。あの。圧倒的な「製造感」。そこにある。自分が「今、造られている」という。峻烈なる「現在進行形」。重厚で、瑞々（みずみず）しい、情報の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "teue-",
+					"meaning": "to swell / body (from soma)"
+				}
+			],
+			"points": [
+				"Psychosomatic（心身の）や Chromosome（染色体／色づいた体）と同じ root。リボソームとは。実体のない影（RNA）を。重厚な『体（ソーマ）』へと。峻烈に『膨張（テウェ）』させること。それは。虚無という名の情報の海から。実存という名の陸地を産み出す、峻烈なる実体化の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "pathogen",
+		"word": "Pathogen",
+		"meaning": "パスジェン/病原体（びょうげんたい）、(秩序への)侵入者、情報の破壊的更新、痛みという名の教師、深淵からの挑戦状",
+		"era": "Late 19th Century",
+		"etymology": {
+			"components": [
+				"pathos (suffering / disease)",
+				"-gen (producer / origin)"
+			],
+			"original_statement": "From Greek pathos 'suffering' + -genes 'born of / producing'."
+		},
+		"concept": "The invader (平穏（停滞）しているシステムの中に。突如として現れ。「高熱（摩擦）」や「痛み（警告）」を引き起こす異物。それは。あなたを「殺そう」としているのではなく。あなたの「脆（もろ）さ」を。峻烈に突いている。峻烈なる「覚醒の契機」の記述)",
+		"thinking": "「パスジェン（病原体）」。あなたは。「自分を脅かすもの」を、すべて悪だと思っていませんか。 pathogen。それは。あなたの「免疫（プライド）」が、本物かどうか。峻烈に、無慈悲に、テストしに来た「刺客（しかく）」です。 pathogen。痛み（パトス）なしに、成長はあり得ません。 pathogen。その「不快感」から。目を逸らさないでください。侵略される恐怖が。あなたを「さらに強固な自分」へと、作り変える（ジェン）。敵を、愛しなさい。敵だけが、あなたの「真実の境界線」を。峻烈に、教えてくれるのだから。",
+		"part_of_speech": "noun",
+		"aftertaste": "喉の奥が「ピリピリ」と焼け、意識が「朦朧（もうろう）」とする。あの。逃げ場のない「侵食感」。そこにある、一分一秒の「油断」も許されない、峻烈なる「戦争」。刺激的で、苦い、鉄の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kwent-",
+					"meaning": "to suffer / endure (from pathos)"
+				},
+				{
+					"term": "gene-",
+					"meaning": "to give birth"
+				}
+			],
+			"points": [
+				"Patient（忍耐強い／患者）や Passive（受動的な）、Gene（遺伝子）と同じ root。病原体とは。苦しみ（クウェント）を。産み出す（ジェネ）こと。つまり。受動的であることの限界を。能動的な『痛み』によって超越させること。それは。安楽なまどろみを破壊する、峻烈なる実存の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "antibody",
+		"word": "Antibody",
+		"meaning": "アンチボディ/抗体（こうたい）、(記憶という名の)防具、情報の特異的防衛、かつての敵への回答、魂のワクチン",
+		"era": "Late 19th Century",
+		"etymology": {
+			"components": [
+				"anti- (against)",
+				"body (substance)"
+			],
+			"original_statement": "A literal translation of German Antikörper (coined by Paul Ehrlich). A substance produced against an antigen."
+		},
+		"concept": "The protector (一度経験した「痛み（敵）」を、二度と忘れないように。心臓の奥底で「記憶」し。次に出会った時には、一瞬で「無力化（中和）」する武器。それは。あなたが「傷ついた数」だけ増えていく。峻烈なる「経験の武装化」の記述)",
+		"thinking": "「アンチボディ（抗体）」。あなたは。「もう二度と、傷つきたくない」と、殻（から）に閉じこもってはいませんか。 antibody。傷ついたことは、無駄ではありません。あなたが流した「血（涙）」は。今、あなたの体内で。最強の「鎧（アンチ・ボディ）」へと。峻烈に、静かに、鍛（きた）え直されています。 antibody。あなたは、もう「昨日と同じ自分」ではありません。敵を知り、敵に打ち勝った。その「峻烈なる記憶」を。誇りに思いなさい。あなたの「弱さ」こそが、最強の「防衛」になるのですから。",
+		"part_of_speech": "noun",
+		"aftertaste": "「カチリ」と。自分の中に、透明な「防護膜」が張られるような。あの。静かなる「守護感」。そこにある、もう「誰も自分を壊せない」という。峻烈なる「自負」。冷たくて、鋭くて、瑞々（みずみず）しい。情報の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ant-",
+					"meaning": "against / in front of (from anti)"
+				},
+				{
+					"term": "bheu-",
+					"meaning": "to be / exist / grow (from body)"
+				}
+			],
+			"points": [
+				"Antagonist（敵対者）や Answer（返答）、Boom（急速な成長）、Building（建物）と同じ root。抗体とは。他者（アンチ）に対して。自らの存在（ブウェ）を。峻烈に投げ出すこと。それは。敵という名の鏡を使い。自分という名の『実体』を彫り上げる。峻烈なる自己彫刻の記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "vaccination",
+		"word": "Vaccination",
+		"meaning": "バクシネーション/ワクチン接種、(あらかじめの)試練、情報の擬似体験、未来の痛みの予約、予防という名の覚悟",
+		"era": "1796 (Edward Jenner / Louis Pasteur)",
+		"etymology": {
+			"components": [
+				"vacca (cow)",
+				"-ation (process)"
+			],
+			"original_statement": "From Latin vaccinus 'from cows', from vacca 'cow'. Named after Jenner's use of cowpox to prevent smallpox."
+		},
+		"concept": "Preemptive learning (本物の「破滅（病）」が来る前に。「弱めた毒（ワクチン）」をあえて体に入れ、事前に「痛み」を練習しておくこと。それは。最悪の事態を防ぐために。あえて「不快感」を自分から選ぶ。峻烈なる「生存戦略」の記述)",
+		"thinking": "「バクシネーション（予防接種）」。あなたは。毎日、何の「リスク」も負わない「安全な場所」にだけ、立っていませんか。 vaccination。それでは、本物の「嵐」が来た時に。あなたは、一瞬で「根絶やし（死）」にされます。 vaccination。あえて、小さな「屈辱」を受けなさい。あえて、小さな「失敗」を予約しなさい。 vaccination。その「小さな熱（副作用）」こそが。将来、あなたを救う「最強の知恵」になる。 cow（牛／バッカ）のような「愚直さ」で。一歩ずつ、痛みを乗り越えなさい。未来の自分への、最上の「贈り物」として。",
+		"part_of_speech": "noun",
+		"aftertaste": "チクリと指先に「針」が通り、冷たい「氷」が流れ込む。あの。不自然な「違和感」。そこにある、未来の自分を「救う」という。峻烈なる「決意」。刺激的で、瑞々（みずみず）しい。情報の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "vacca",
+					"meaning": "cow (origin of the word cow is obscure)"
+				}
+			],
+			"points": [
+				"Vacant（空の／牛の鳴き声？）や Voice（声）と関連付ける説もあるが、バクシネーションは『牛という犠牲』を介した医療革命に由来する。それは。低きもの（牛）の力を借りて、高きもの（人類）を救う、という。峻烈なる実存のパッチワークの記述なのです。"
+			]
+		}
 	}
 ];
