@@ -219336,5 +219336,555 @@ const WORDS = [
 				"Tetrad（四）と同じ root 由来。四角い石が大地を埋め尽くすように、知性は世界を『タイル状』に整理し、理解するのです。 "
 			]
 		}
+	},
+	{
+		"id": "transept",
+		"word": "Transept",
+		"meaning": "袖（そで）、横断部分、十字形教会堂の翼、魂の交差点",
+		"era": "Mid-16th Century",
+		"etymology": {
+			"components": [
+				"trans- (across)",
+				"septum (enclosure / barrier / partition)"
+			],
+			"original_statement": "From Modern Latin transeptum, from Latin trans- 'across' + septum 'enclosure'."
+		},
+		"concept": "The crossing of wills (主軸（メイン・ロゴス）を「横断(trans-)」し、自分の中に別の「壁(sep-)」が立ち上がる、聖なる「交差点（クロス）」。静止と動揺が交わる劇的な空間)",
+		"thinking": "「袖廊（トランセプト）」は、教会の「十字形」を完成させるための重要な欠片（ピース）です。それは、神へと向かう直線（ナビ）をあえて遮り、左右へと意識を「広げる」場所。あなたの人生において、目的（ゴール）とは関係のない、不意な「横道」や「中断」が生じたとき。それは無意味な遠回りではなく、あなたの魂がより大きな「形（十字形）」へと進化するための、不可欠なトランセプトなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "高い天井の静寂の中で、主祭壇を見つめながら、ふと「横」から差し込む光に目を奪われる、あの。意識が「一点」から「多角的」な宇宙へと解き放たれる瞬間の、眩（まぶ）しい目眩（めまい）。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ter-",
+					"meaning": "through / across"
+				}
+			],
+			"points": [
+				"Septum（隔壁）は、鼻の仕切りなどにも使われ、何かを『分かつ』ことで『新しい構造』を作る力を司ります。"
+			]
+		}
+	},
+	{
+		"id": "balustrade",
+		"word": "Balustrade",
+		"meaning": "手すり、欄干、美しき境界、守られた境界線",
+		"era": "Mid-17th Century",
+		"etymology": {
+			"components": [
+				"balaustra (pomegranate flower / baluster)"
+			],
+			"original_statement": "From French balustrade, from Italian balaustrata, from balaustra 'pomegranate flower', due to the shape of the pillars."
+		},
+		"concept": "The aesthetic guard (崖（アビス）や未知（カオス）から自分を護（まも）るため、あえて「ザクロの花(balaust-)」のような優雅な形の「柱（ピラー）」を等間隔に並べ、恐怖を「美」で手懐ける境界線)",
+		"thinking": "バリュストレード（手すり）。それは。奈落の「すぐ隣」にありながら、私たちが安心して景色を眺めることを許してくれる、文明という名の「信頼」。あなたが自分の心の中に、守るべき「聖域（ガーデン）」と、その外側の「荒野（ワイルド）」を分ける、美しい欄干（バリュストレード）を築くこと。それは。冷酷な物理的排除ではなく、境界線そのものを「鑑賞（エステティクス）」の対象に変える、知的な振る舞いなのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "石造りの手すりにそっと手を置き、その下にある「深い闇」を覗（のぞ）き込む、あの。絶対に落ちないという確信と、それゆえに際立つ「スリル」の甘美な交差。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "pel-",
+					"meaning": "meaning uncertain (linked to pomegranate flower shape)"
+				}
+			],
+			"points": [
+				"ザクロの花の膨らんだ形が、手すりの柱（バラスター）に似ていたことから名付けられました。実りは、常に守られるべきものなのです。"
+			]
+		}
+	},
+	{
+		"id": "crenellation",
+		"word": "Crenellation",
+		"meaning": "銃眼、城壁の凹凸、防衛の波形、冠のような飾り状",
+		"era": "Early 18th Century",
+		"etymology": {
+			"components": [
+				"crena (notch / crack)"
+			],
+			"original_statement": "From French créneler 'to notch', from Old French crenel 'a notch', from Vulgar Latin crena 'notch / crack'."
+		},
+		"concept": "The rhythm of fortification (平坦な「壁（沈黙）」を拒（こば）み、あえて「裂け目(cren-)」や「凹凸」を設けることで、外敵を「監視（ウォッチ）」し、必要に応じて「反撃（カウンター）」するための、動的な自己防衛の「波形」)",
+		"thinking": "城壁の「凹凸（クレネレーション）」。それは、ただの防御壁（ウォール）ではありません。それは「隠れること」と「見ること」を高速で繰り返すための、戦術的な「リズム」。あなたの議論や人格において、あえて完璧な隙（すき）のなさを捨てること。その「凹凸」こそが、相手の出方を見極め、自らの知性を鋭く「放（シュート）」するための、命ある「銃眼（クレネ）」となるのです。 ",
+		"part_of_speech": "noun",
+		"aftertaste": "指でなぞる、城壁のギザギザとした冷たい感触。そこに身を潜め、外の世界の「カオス」を安全な場所から観察しているときの、あの。冷静で峻烈な「監視者」の意識。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ker-",
+					"meaning": "to cut"
+				}
+			],
+			"points": [
+				"Crenelated（ギザギザの）は、心電図の波のように生きたエネルギーが刻まれていることを示します。滑らかさは死を意味します。"
+			]
+		}
+	},
+	{
+		"id": "portcullis",
+		"word": "Portcullis",
+		"meaning": "落とし格子(門)、遮断、拒絶の門、不意に閉ざされる意志",
+		"era": "Early 14th Century",
+		"etymology": {
+			"components": [
+				"porte (door / gate)",
+				"coulice (sliding / flowing)"
+			],
+			"original_statement": "From Old French porte colice 'sliding door / sliding gate', from porter 'carry / gate' + couler 'to slide / flow'."
+		},
+		"concept": "The sliding rejection (「門(port-)」を閉じるのではなく、もはや逃れようのない「重力」に任せて、鉄の格子を上から「滑り(coul-)」落とし、一切の「対話（パス）」を瞬時に断（た）ち切る、暴力的なまでの自己完結)",
+		"thinking": "ポートカリス（落とし格子）。その音は、重厚な金属の「ガシャン」という終わり。それは。あなたが自分を守るために、最後の「慈悲（アガペー）」さえも投げ捨て、相手を自分の宇宙の外側へと「幽閉（ロック）」した瞬間の、絶対的な拒絶。この門を一度落とせば、再び引き上げるためには、多大なる「熱量（パッション）」と時間（クロノス）を必要とします。閉ざすことは、究極の決断なのです。 ",
+		"part_of_speech": "noun",
+		"aftertaste": "目前で、無慈悲に落ちてくる鉄の檻。その先にいた人の顔が、格子越しに小さく遠ざかっていく、あの。不可逆的な「別離」の残酷な完了と、圧倒的な静寂。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "per-",
+					"meaning": "to go / carry (gate)"
+				},
+				{
+					"term": "kelu-",
+					"meaning": "to flow"
+				}
+			],
+			"points": [
+				"Coulisse（劇場の舞台袖／隠れる場所）と同根。舞台の裏側へと消え去るような、劇的な遮断を意味します。"
+			]
+		}
+	},
+	{
+		"id": "barbican",
+		"word": "Barbican",
+		"meaning": "外城門、(城の)防御用施設、見張り塔、最前線の防壁",
+		"era": "Early 13th Century",
+		"etymology": {
+			"original_statement": "Probably from Old French barbacane, and perhaps ultimately from Persian bāb-khāna 'gate-house'."
+		},
+		"concept": "The outermost alert (本体（ボトム）である自分の「核心」に他者が触れる前に、あえて遠い「外側」に設（もう）けられた、最初の「試練」としての「門（ゲート）」。警戒という名の愛の欠如)",
+		"thinking": "バービカン（外城門）。そこは。友か敵かを判別するための、不毛な「砂漠」の中のオアシス。あなたの魂に近づこうとする者が、最初に立ち止まらなければならない場所。あなたが誰かに対して「バービカン」を高く築くとき。それはあなたが、自分の「傷つきやすさ（バーネラビリティ）」を、まだ誰にも信じ切れていないことの、寂しい証明でもあります。",
+		"part_of_speech": "noun",
+		"aftertaste": "荒野の向こうからやってくる影を、高い窓からじっと見つめている、あの冷徹な「監視」の意識。自分がここを守り抜くという「重い責任」だけが、冷たい風に混じっている。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "bāb-",
+					"meaning": "gate (from Persian)"
+				}
+			],
+			"points": [
+				"Baby-lon（バビロン／神の門）と同じ bāb。門とは、別の世界へと至るための『変換（メタモルフォーゼ）』の場所なのです。"
+			]
+		}
+	},
+	{
+		"id": "moat",
+		"word": "Moat",
+		"meaning": "堀、(城の周囲の)水の隔たり、埋められない溝、孤独な防衛",
+		"era": "Early 14th Century",
+		"etymology": {
+			"components": [
+				"motte (mound / hillock / clod of earth)"
+			],
+			"original_statement": "From Old French mote 'mound / hillock / embankment', later applied to the ditch from which the earth of the mound was taken."
+		},
+		"concept": "The chasm of reflection (「土を盛り（モット）」上げるために「掘り起こした」後の「空虚（ボイド）」に「水（カオス）」を湛え、他者が物理的に近づくことを不可能にした、平和という名の絶望的な隔たり)",
+		"thinking": "「堀（モート）」のルーツは「土を盛ること」にあります。何かを高く築けば（プライド）、必ずそのそばには「深い溝（シャドウ）」が生まれる。モート。それは、あなたが他者に踏み込まれたくないという「絶叫」が、沈黙の水面となって静止している場所。深く、広く掘れば掘るほど、あなたを攻める（攻撃する）者の足は止まりますが、同時に、あなたの元を訪れる「救い（サクセス）」をも遠ざけてしまうのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "濁った水が、城壁のすぐ下で「ゆらゆら」と自分を映し出している。そこを越えるための「橋」がないことへの、安心感と、そして吐き気がするほどの「孤独」。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "mai-",
+					"meaning": "to chop / dig / cut (associated with mud / dust)"
+				}
+			],
+			"points": [
+				"かつては防衛のための『土手』を指しました。今はその逆の『空洞（堀）』を指すという変遷は、存在とは常に相補的であることを示唆します。"
+			]
+		}
+	},
+	{
+		"id": "drawbridge",
+		"word": "Drawbridge",
+		"meaning": "跳ね橋、選択的受容の意志、繋がることへの決断",
+		"era": "Mid-14th Century",
+		"etymology": {
+			"components": [
+				"dragan (to draw / pull)",
+				"brycg (bridge)"
+			],
+			"original_statement": "From draw + bridge. A bridge made to be 'drawn' up."
+		},
+		"concept": "The suspended bridge (他者へ「橋」を架けるか、それとも「引き上げて(draw-)」孤立するかを、自らの手の「鎖（意志）」によって自在にコントロールする、究極の「自己決定」の装置)",
+		"thinking": "ドローブリッジ（跳ね橋）。それは。愛すること（許可）と、拒むこと（遮断）を、一つの機構の中に閉じ込めた装置です。あなたが橋を下したとき。他者はあなたの「庭（プライベート）」に入ることができます。しかし、あなたが疲れ、鎖を「引き（ドロー）」上げたとき。世界は再び、あなたにとって「無（ヌル）」の場所へと戻ります。人生におけるすべての関係は、このドローブリッジの「上げ下げ」という名の、震えるような決断の連続なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "鎖がガキガキと鳴り、巨大な板がゆっくりと空へ向かって「起立」する。相手との「通路」が失われ、自分という一個の「島」に戻った瞬間の、重い安堵。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "dhragh-",
+					"meaning": "to draw / drag / pull"
+				}
+			],
+			"points": [
+				"Draft（下書き）や Drag（引きずる）と同じ root。関係性とは、常に自分の方へ『引き寄せる（ドロー）』力学によって維持されるのです。"
+			]
+		}
+	},
+	{
+		"id": "altar",
+		"word": "Altar",
+		"meaning": "祭壇、浄化の火の場所、自己犠牲、神聖な焦点",
+		"era": "Late Old English",
+		"etymology": {
+			"components": [
+				"altus (high / deep)",
+				"ad-olere (to burn / burn up)"
+			],
+			"original_statement": "From Latin altare, probably related to altus 'high', or adolere 'to burn'."
+		},
+		"concept": "The elevated burn (この世の些末（さまつ）な「欲（エゴ）」を焼き尽くし、自分よりも「高く(alt-)」大きな存在へと、自らの命や愛を「昇華（サブリメーション）」させるための、聖なる「火」を灯す場所)",
+		"thinking": "アルター（祭壇）。そこは、あなたが自分という「エゴ（自我）」を捨てる場所です。そのルーツには「高い場所」と「燃やすこと」があります。本当に大切なものを守るために、あえて何かを「焼却（デストロイ）」する。あなたが人生において、ある誓い（ボウ）を立て、それ以外の可能性をすべてアルター（祭壇）の上で灰にしたとき。あなたの残された「本質」は、かつてないほど「崇高（サブライム）」に輝き始めるのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "真っ白な石の台（アルター）の上に、自分が一番大切にしていたものが置かれている、あの。怖ろしいほどに透き通った「決意」と。そこから立ち昇る、透明な炎の匂い。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "al-",
+					"meaning": "to grow / nourish"
+				}
+			],
+			"points": [
+				"Altus（高い）は『高く育った』こと。祭壇とは、私たちの精神が最も高く『成長』した場所に位置するべきものです。"
+			]
+		}
+	},
+	{
+		"id": "apse",
+		"word": "Apse",
+		"meaning": "後陣、(教会堂の)ドーム状の半円部分、祈りの終着点、円に近い静止",
+		"era": "Early 19th Century",
+		"etymology": {
+			"components": [
+				"apsis (loop / mesh / arch / vault)"
+			],
+			"original_statement": "From Latin apsis 'arch / vault', from Greek hapsis 'loop / mesh / juncture / arch', from haptein 'to fasten'."
+		},
+		"concept": "The final curve (もはやどこへも行く必要のない、直線（ロゴス）が最後に辿（たど）り着いた「円環（サークル）」の一部。全てを「包み込み（ファスン）」、自己を宇宙へと「繋ぐ」、永遠の静止の場所)",
+		"thinking": "アプス（後陣）。教会の最も奥にある、半円。そこは。宇宙の「中心（コア）」を象徴し、祈りの言葉が「反響（エコー）」して再び自分に戻ってくる場所。そのルーツは「繋ぎ合わせること」。あなたが、自分の探求を終え、ただ「在るべき場所に（オン）」自分を固定（ハプテイン）させることができたとき。あなたの魂に、この「アプス」の深い平穏が訪れるでしょう。 ",
+		"part_of_speech": "noun",
+		"aftertaste": "薄暗いドーム（アプス）の中、黄金のモザイク画が、微かな光を反射している、あの。自分が大きな「抱擁（エンブレイス）」の中にいるという、絶対的な「肯定」の静寂。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ap-",
+					"meaning": "to reach / take / fasten"
+				}
+			],
+			"points": [
+				"Apt（適切な）や Adapt（適応する）と同じ root。アプスとは、自分が宇宙に『適切に（アプト）』繋がった瞬間の場所なのです。"
+			]
+		}
+	},
+	{
+		"id": "gable",
+		"word": "Gable",
+		"meaning": "切妻(きりづま)、(屋根の)三角形の部分、直立する家、尊厳の尖り",
+		"era": "Late 14th Century",
+		"etymology": {
+			"components": [
+				"gabala (fork / fork of a pair of rafters / head)"
+			],
+			"original_statement": "From Old French gable, probably from Old Norse gafl 'gable-end', or Old High German gabala 'fork'."
+		},
+		"concept": "The vertex of dwelling (降り止まぬ「試練（雨）」を左右に受け流し、毅然（きぜん）として「空」へと突き刺さる、一本の「叉（フォーク）」のように鋭い、自分という「家（セルフ）」の最上部の誇り)",
+		"thinking": "ゲーブル（切妻）。そのルーツは「叉（ふたまた）」や「頭（ヘッド）」。自分を支える「二つの斜面（情熱と理性）」が一点で交わり、天に向かって「直立（レクティチュード）」する形。ゲーブル。それは。あなたがどんなに風雨にさらされても、自分の「（シェイプ）」だけは守り抜くという、峻烈な尊厳の表明（アサーション）なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "灰色の空の下、雪が左右の屋根を滑り落ちていく、あの。他人の思惑をすべて受け流しながら、自分という「頂点」だけを空に突き刺している、孤独なまでの「高貴さ」。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ghabh-lo-",
+					"meaning": "fork"
+				}
+			],
+			"points": [
+				"Gable は、Javelin（投げ槍）とも遠い親戚かもしれません。鋭く突き刺し、存在を示すこと。それがゲーブル（家）の役割なのです。"
+			]
+		}
+	},
+	{
+		"id": "dormer",
+		"word": "Dormer",
+		"meaning": "屋根窓、眠りの中の光、隠れ家の眼、小さな宇宙の入り口",
+		"era": "Late 16th Century",
+		"etymology": {
+			"components": [
+				"dormire (to sleep)"
+			],
+			"original_statement": "From French dormeur 'sleeper / dormer-window', from dormir 'to sleep', since they were usually in bedrooms."
+		},
+		"concept": "The window of dreams (「眠り（ドミール）」という名の沈黙の世界から、唯一、外側の「現実（ロゴス）」を覗（のぞ）き見るための「小さな目」。潜伏（ハイバネーション）の中に差し込む、一筋の「覚醒」の余白)",
+		"thinking": "ドーマー（屋根窓）。そのルーツは「眠ること（ドミトリー）」。あなたは、深い眠り（無意識）の中にいながら、この小さな窓から、ときおり「未来（ライト）」を垣間見（パースペクティブ）ています。その窓から見える空は狭いが、それゆえにこそ、そこに瞬（またた）く一個の「星（アストラル）」は。広大な野原で見るそれよりも、はるかにあなたの命を「激しく」照らしてくれるのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "屋根裏部屋の、傾いた天井の下で。小さな四角い窓（ドーマー）から差し込む、朝の最初の一筋の光。自分がまだ「生きている（目覚めている）」と確信する、あの静かな幸福。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "drem-",
+					"meaning": "to sleep"
+				}
+			],
+			"points": [
+				"Dormant（休眠状態の）と同じ root。眠り（ dormancy）とは、死ではなく。次に訪れる『覚醒』のためのエネルギーの温存場所です。"
+			]
+		}
+	},
+	{
+		"id": "cupola",
+		"word": "Cupola",
+		"meaning": "円蓋、小さな天、ドーム、魂の円い頂き",
+		"era": "Mid-16th Century",
+		"etymology": {
+			"components": [
+				"cupa (cask / tub / cup)"
+			],
+			"original_statement": "From Italian cupola, from Latin cupula 'little tub / cup', diminutive of cupa 'cask'."
+		},
+		"concept": "The inverted cup (自分という「器（カップ）」を逆さまにして、天から降り注ぐ「真実（ルナ）」をすべて閉じ込め。自らの頂点で「宇宙」と「個人」を完璧に一致させた、この上なく優美な「全域」)",
+		"thinking": "キュポラ（円蓋）。そこは。あなたが自分の中にある「最高に崇高な（サブライム）」部分を、一個の「冠（クラウン）」として完成させた場所。そのルーツは「小さな桶（おけ）」。私たちは誰もが、自分の頭の上に、この「小さな宇宙（キュポラ）」を持っています。そこでは。地上の雑音は消え去り、ただ「光の粒子」が、自分を祝福（ブレス）するためにだけ、円を描いて踊っているのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "教会の屋根の、あの「ぷっくり」とした美しい膨らみ。その中に入って、世界で最も高い場所から自分を、そして世界を見守っているような、あの。清々（すがすが）しくて、そして静かな「完全性」。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "keu-",
+					"meaning": "to bend / curve / hollow"
+				}
+			],
+			"points": [
+				"Cave（洞窟）や Cage（檻）と同じ root。空洞とは、そこに『何か』を招き入れるための聖なる準備なのです。"
+			]
+		}
+	},
+	{
+		"id": "belvedere",
+		"word": "Belvedere",
+		"meaning": "展望台、美しい眺め、高い視座、透き通った展望",
+		"era": "Late 16th Century",
+		"etymology": {
+			"components": [
+				"bel- (beautiful)",
+				"vedere (to see)"
+			],
+			"original_statement": "From Italian belvedere, from bello 'beautiful' + vedere 'to see'."
+		},
+		"concept": "The beautiful seeing (地上の喧騒（カオス）から抜け出し。より高く、より遠くを見渡せる「高台」に立ち。世界を一本の「美しい流れ(bel-ved-)」として再定義し、納得しようとする「知的な安らぎ」)",
+		"thinking": "ベルヴェデーレ（展望台）。そのルーツは「美しい眺め」。あなたが、目の前の苦しみに没入（ダイブ）するのをやめ、意識の階段を登って「このベルヴェデーレ」に辿り着いたとき。すべての敵意は「風景（ランドスケープ）」に、すべての悲しみは「陰影（シャドウ）」へと変わります。見ること、それ自体が。時に私たちを、地上という名の「苦しみ（ペイン）」から救い出す、唯一の（サブリメーション）なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "丘の上の展望台（ベルヴェデーレ）から見下ろす、オレンジ色に染まった街並み。自分たちの営みが。あまりにも小さく、しかしあまりにも「美しく」そこにある、という圧倒的な慈愛（アガペー）。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "de-",
+					"meaning": "to see / watch / notice (from vedere)"
+				}
+			],
+			"points": [
+				"Beautiful（美しい）と View（眺め）を組み合わせた、最も幸福な知性の名前です。"
+			]
+		}
+	},
+	{
+		"id": "colonnade",
+		"word": "Colonnade",
+		"meaning": "列柱、柱廊、秩序の歩み、等間隔の静寂",
+		"era": "Early 18th Century",
+		"etymology": {
+			"components": [
+				"colonna (column / pillar)"
+			],
+			"original_statement": "From French colonnade, from Italian colonnata, from colonna 'column'."
+		},
+		"concept": "The rhythm of support (「一個」では崩れ去る重圧を、何本もの「不屈の柱(colon-)」で分かち合い、そこを通り抜ける者に「永遠」という名の規則正しい「リズム（鼓動）」を刻ませる、荘厳な連なり)",
+		"thinking": "コロンネード（列柱）。それは。論理（ロゴス）が、一定の「間隔（ポーズ）」を置いて並べられた姿。一本の柱に触れてから、次の柱に触れるまでの「空白（ボイド）」。その「空白」こそが、私たちに「思考（シンキング）」する時間を与えてくれます。あなたが自分の人生において、幾つもの「譲れない掟（柱）」をコロンネードのように並べたとき。あなたの魂に、何ものにも乱されない「王者のパレード（行進）」が始まるのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "等間隔に並ぶ巨大な大理石の柱の、あの。どこまでも続くような直線の奥行き。一歩、また一歩と進むたびに。自分の心が「洗浄（ピュリファイ）」され、磨き上げられていくような、あの。峻烈で心地よい「幾何学的」な沈黙。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kelo-",
+					"meaning": "to rise / project / be high"
+				}
+			],
+			"points": [
+				"Column（柱）や Hill（丘）と同じ root。高くあることは、それだけで世界を『支える』力になるのです。"
+			]
+		}
+	},
+	{
+		"id": "loggia",
+		"word": "Loggia",
+		"meaning": "開廊、対話の場所、外と内の境界、吹き抜けの廊下",
+		"era": "Mid-18th Century",
+		"etymology": {
+			"components": [
+				"laube (leaf / arbor / bower)"
+			],
+			"original_statement": "From Italian loggia, from Old French loge, from Frankish laubja 'arbor / shelter of foliage'."
+		},
+		"concept": "The arboreal shelter (「内側」という閉鎖性と「外側」という無限の解放。その二つが「融け合う(meld)」場所に身を置き、世界からの「風」を感じながら、言葉（ロゴス）を温めるための「緑の避難所」)",
+		"thinking": "ロッジア。そのルーツは「木の葉の屋根（ラウベ）」。かつて人間が森の中で暮らしていた頃の「記憶」を、石の建築の中に再現したもの。そこは。雨に濡れず、しかし風を感じる「都合のよい自由」。あなたが、自分の「プライド（自室）」に閉じこもるのをやめ、この広々とした「ロッジア」に出たとき。そこで交わされる対話は。もはや誰を傷つけるための武器（ウェポン）ではなく、ただ「共に在る」ことを祝うための、心地よい木の葉の「ささやき（ウィスパー）」へと変わるのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "吹き抜けの回廊（ロッジア）で、遠くの森を眺めながら。コーヒーを飲み、誰とも争わずに「ただそこに居る」ことの。あまりにも贅沢で、そして謙虚な「平和」の温度。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "leub-",
+					"meaning": "leaf / plant (from leaf)"
+				}
+			],
+			"points": [
+				"Lobby（ロビー）や Lodge（小さなお家）と同じ root。人の集まりは、最初は常に『木の下（葉の下）』から始まったのです。"
+			]
+		}
+	},
+	{
+		"id": "vignette",
+		"word": "Vignette",
+		"meaning": "ブドウの葉の飾りのような、小さな情景、断片的な美、短い叙述",
+		"era": "Mid-18th Century",
+		"etymology": {
+			"components": [
+				"vigne (vine)"
+			],
+			"original_statement": "From French vignette, diminutive of vigne 'vine'."
+		},
+		"concept": "The delicate fragment (全体という名の「大建築（エディフィス）」を語らぬ代わりに。その隅（すみ）に描かれた「ブドウの葉(vigne-)」の一枚、あるいは「一瞬のまなざし」という「断片（フラグメント）」の中に、宇宙のすべてを封じ込める、繊細な美の詩学)",
+		"thinking": "「ヴィニェット」のルーツは「小さなブドウの木」。壮大な歴史（エピック）や、重厚な理論（セオリー）から零（こぼ）れ落ちた、名もなき「一瞬」。しかし。その一瞬の輝きの中にこそ、実は、真実（エッセンス）は宿っています。あなたの人生が。どんなに不完全で、断片的（ヴィニェット）に見えたとしても。その小さな「一コマ」の美しさは。神が描いた、どの壮大な絵画にも劣ることはないのです。 ",
+		"part_of_speech": "noun",
+		"aftertaste": "古い本のページの角に描かれた。小さな。しかし生命力に満ちた一本の「つる草」。それを見つけた瞬間の。誰にも教えたくない、密やかで芳醇な「美」の発見の喜び。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "wei-",
+					"meaning": "to turn / bend / twist (vine)"
+				}
+			],
+			"points": [
+				"Vine（ブドウ）や Win（ワイン）と同じ root。しなやかに曲がり、どこまでも伸びていこうとする、命の『軽やかさ』を象徴します。"
+			]
+		}
+	},
+	{
+		"id": "rotunda",
+		"word": "Rotunda",
+		"meaning": "円形建築、円形大広間、円の如き完全な対話、中心のない平等",
+		"era": "Early 17th Century",
+		"etymology": {
+			"components": [
+				"rotundus (round / circular)"
+			],
+			"original_statement": "From Latin rotunda, from rotundus 'round / circular', from rota 'wheel'."
+		},
+		"concept": "The wheel of presence (どこにも「角（エッジ）」がなく、全員が「中心」から等距離に立つことで。上下関係という名の「不平等（イニクイタス）」を排除し、ただ「円環(rota-)」という名の「調和（ハーモニー）」の中に、お互いを溶け合わせる空間)",
+		"thinking": "ロタンダ（円形大広間）。そこは、あなたが「誰でもない自分」に戻れる場所です。四角い部屋には「隅（すみ）」があり、序列が生まれますが。ロタンダには、ただ「円（サークル）」があるだけ。そのルーツは「車輪（ロータ）」。人生の迷宮に疲れたら、このロタンダの「中心」に立ってみてください。そこでは。すべての記憶（メモリ）が、あなたを中心に、均等な美しさを持って「回って」いることに気づくはずです。 ",
+		"part_of_speech": "noun",
+		"aftertaste": "高い。どこまでも高い、円形のドーム。そこでは自分の声ですら、優しく曲がって背中から返ってくる、あの。自分が見守られ、閉じられた「完全な宇宙」の中にいるという、絶対的な「安心感」。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ret-",
+					"meaning": "to run / roll / wheel"
+				}
+			],
+			"points": [
+				"Rotate（回転する）や Roll（転がる）と同じ root。世界は、転がる（回り続ける）ことで、その『平穏な円』を維持しているのです。"
+			]
+		}
+	},
+	{
+		"id": "mezzanine",
+		"word": "Mezzanine",
+		"meaning": "中二階、不確かな階層、中間部、境界にある場所",
+		"era": "Early 18th Century",
+		"etymology": {
+			"components": [
+				"mezzo (middle / half)"
+			],
+			"original_statement": "From Italian mezzanino, diminutive of mezzano 'middle', from Latin medianus 'of the middle', from medius 'middle'."
+		},
+		"concept": "The suspended middle (「一階（現実）」でも「二階（理想）」でもない。その「中間(mezzo-)」に宙吊りにされた、不確かで、しかしそれゆえにこそ、両方の世界を「俯瞰（ふかん）」できる、贅沢で孤独な「余白」)",
+		"thinking": "メザニン（中二階）。そこは、どこにも辿り着けていない者の、唯一の居場所。そのルーツは「半分、真ん中（メッゾ）」。あなたは、社会の「中心」にはいないかもしれない。しかし、その「メザニン」という中途半端な場所からなら。みんなが必死で走り抜ける「地上」と。誰もが夢見る「天（ルーフ）」の、両者の美しさを。同時に、そして静かに「観察」することができる。それは、ある種の知的な「特等席」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "低い天井の、しかし。広いロビーを見下ろせる、あの隠れ家のような「中二階」。自分の存在が「半分」だけ消え、半分だけ世界に繋がっているような、あの。不穏で心地よい「不可視（インビジブル）」の感覚。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "medhyo-",
+					"meaning": "middle"
+				}
+			],
+			"points": [
+				"Medium（中間）や Median（中央値）と同じ root。極端に走らず、常に『間』を保とうとする知性の休息所です。"
+			]
+		}
+	},
+	{
+		"id": "ambulatory",
+		"word": "Ambulatory",
+		"meaning": "回廊、歩きながらの瞑想、流動的な思考、癒しの場所",
+		"era": "Early 17th Century",
+		"etymology": {
+			"components": [
+				"ambulare (to walk / go about)"
+			],
+			"original_statement": "From Latin ambulatorius 'suitable for walking', from ambulare 'to walk'."
+		},
+		"concept": "Walking the circle (ただ「止まって（フリーズ）」考えるのではなく。自らの「足（リズム）」で聖なる場所を「歩き回り(ambul-)」、思考に「流動性（フロー）」を与えながら、真理と対話していく動的な「沈黙」)",
+		"thinking": "アンブラトリー（回廊）。かつての修道士たちは。この廊下を「歩く」ことで、自らの迷い（迷宮）を解き放ちました。そのルーツは「歩き回ること（アンブル）」。思考は。身体が動くとき、はじめて「自由」になります。あなたの心が行き詰まったとき。どうか、自分の中にこの「アンブラトリー（回廊）」を作ってみてください。一歩、また一歩。同じ場所を回っているようでいて。あなたの「悟り」は、歩くたびに深まっているのです。 ",
+		"part_of_speech": "noun / adjective",
+		"aftertaste": "石畳を叩く、自分の。一定の「靴音（ビート）」。それに合わせて、絡まっていた思考の糸が、一点、また一点と「ほどけて」いき、最後には何もない「凪（なぎ）」へと至る、あの圧倒的な浄化。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ambhi-",
+					"meaning": "around / on both sides"
+				},
+				{
+					"term": "el-",
+					"meaning": "to go (from ambulare)"
+				}
+			],
+			"points": [
+				"Ambulance（救急車／動く野戦病院）と同根。歩くことは、自分を『癒し』、場所を更新し続けるための、生命の根源的な権利なのです。"
+			]
+		}
+	},
+	{
+		"id": "plinth",
+		"word": "Plinth",
+		"meaning": "柱の土台、存在の最低限、(彫像などの)台座、原初の接地",
+		"era": "Mid-16th Century",
+		"etymology": {
+			"components": [
+				"plinthos (brick / tile / squared stone)"
+			],
+			"original_statement": "From French plinthe, from Latin plinthus, from Greek plinthos 'brick / tile'."
+		},
+		"concept": "The foundational square (どんなに高く、虚飾（メレトリシャス）に満ちた柱であっても、それを支えるのは、地表に置かれたこの「一枚の石(plinth-)」。傲慢さを捨て、謙虚に「大地」と繋がるための接地点)",
+		"thinking": "プリンス（土台）。あなたの人生という、壮大な彫像（スタチュー）。それを支えているのは。何千万という言葉ではなく。たった一つ、地面に置かれたこの「冷たく、硬い石」です。そのルーツは「レンガ、タイル」。あなたがすべてを失い、「自分には何もない」と絶望したとき。あなたの足元には、それでもこの「プリンス（土台）」が残っています。そこから。あるいはそこからのみ、あなたの新しい「柱（誇り）」は、再び垂直に伸びていけるのです。 ",
+		"part_of_speech": "noun",
+		"aftertaste": "重い柱の下にある、四角い石。誰も見向きもしないけれど、それがなければすべてが「砂（ダスト）」に帰してしまうという、あの。重厚で、かつ圧倒的に「謙虚（ヒューミリティ）」な命の支え。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ple-",
+					"meaning": "flat / broad"
+				}
+			],
+			"points": [
+				"Plate（皿）や Plain（平原）と同じ root。存在の『平たさ（基本）』こそが、すべての『高さ』を可能にするのです。"
+			]
+		}
 	}
 ];
