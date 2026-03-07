@@ -214756,5 +214756,53 @@ const WORDS = [
 				"Elysium（極楽）はエッフェル塔のあるシャンゼリゼ（Champs-Élysées）の語源でもあります。"
 			]
 		}
+	},
+	{
+		"id": "kairos",
+		"word": "Kairos",
+		"meaning": "画期的な瞬間、好機、意味のある時間",
+		"era": "20th Century (Modern Usage)",
+		"etymology": {
+			"original_statement": "From Greek kairos 'right time, season, opportunity'."
+		},
+		"concept": "The critical tick (時計の刻む物理的な時間（クロノス）とは異なる、永遠の価値が宿る「決定的で主観的な、一回限りの瞬間」)",
+		"thinking": "ただ過ぎ去る「量的な時間」ではなく、そこにあなたの「意志」が介入し、運命を切り拓く「質的な時間」。生涯に数回しか訪れないかもしれない、魂が震えるような「今」。その一瞬を逃さず、自らの物語を「更新」すること。永遠という糸が、現在という一点に集中する奇跡。それが「カイロス」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "秒針が止まったかのような感覚。今、この瞬間にすべてを賭けていいと思える、圧倒的な「現在」への確信。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kai-",
+					"meaning": "due measure / proportion"
+				}
+			],
+			"points": [
+				"古ギリシャでは、前髪しかないチャンスの神の名でもありました。"
+			]
+		}
+	},
+	{
+		"id": "plasma",
+		"word": "Plasma",
+		"meaning": "プラズマ、血漿、成形物、生命の源",
+		"era": "Early 18th Century",
+		"etymology": {
+			"original_statement": "From Greek plasma 'something formed or molded', from plassein 'to mold'."
+		},
+		"concept": "The moldable essence (定まった形を持たず、しかしあらゆる生命の「雛形（モールド）」として宇宙に満ちている、第四の、あるいは根源的な「状態」)",
+		"thinking": "物理学のプラズマも、血液の血漿も、そのルーツは「形を作ること（プラス）」にあります。それは完成された「作品」ではなく、これから何にでもなれる「可能性の液体」。あなたの意志という「器」に注がれるのを待っている、原初のエネルギー。あなたが何かを「創造」しようとしたとき、最初に手にするのは、この名もなき「プラズマ」という名の、灼熱の「素材」なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "輝く光の渦。熱く、脈動し、触れるたびに形を変え、しかし決して消えることのない、生命という名のエネルギーの奔流。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "pel-",
+					"meaning": "to spread out / flat / mold"
+				}
+			],
+			"points": [
+				"Plastic（形成可能な）も同じく『形作る』ことを意味します。"
+			]
+		}
 	}
 ];
