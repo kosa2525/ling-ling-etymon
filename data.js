@@ -217681,5 +217681,569 @@ const WORDS = [
 				"Pity（哀れみ）はこの pious と同じ根から生まれました。不敬な者には、この世界を『哀れむ』力さえも、もはや残されていないのかもしれません。"
 			]
 		}
+	},
+	{
+		"id": "pedantic",
+		"word": "Pedantic",
+		"meaning": "衒学的な、学者ぶった、細かな規則に拘りすぎる、知識の衣を着た傲慢",
+		"era": "Late 16th Century",
+		"etymology": {
+			"components": [
+				"pedante (teacher / schoolmaster)"
+			],
+			"original_statement": "From Italian pedante 'teacher / schoolmaster', with suffix -ic. Originally from Greek paidagōgos."
+		},
+		"concept": "The heavy knowledge (真理（ロゴス）を探求するためではなく、他者より優位に立ち、自らの「鎧（アーマー）」とするために知識を「誇示（ディスプレイ）」し、些細（ささい）な細部にのみ命を燃やすこと)",
+		"thinking": "ペダンティック（衒学的）な人。それは、美しい森（真理）の中を歩きながら、一本の枯れ木の枝の形が「歴史的に不自然である」と叫び続けるような者です。知識は、生を自由にする翼（フェザー）であるべきなのに、彼らにとっては自分を地面に繋（つな）ぎ止め、他者を排斥するための「重り（ウェイト）」になってしまっている。知性は、常に謙虚さ（ヒューミリティ）の中にこそ宿るのです。",
+		"part_of_speech": "adjective",
+		"aftertaste": "古びた書斎の、埃（ほこり）っぽい、息の詰まるような沈黙。知的な快楽が、いつの間にか「自分を証明するためだけの作業」に成り果ててしまった、あの不毛な疲れ。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ped-",
+					"meaning": "child / boy (from Greek pais)"
+				}
+			],
+			"points": [
+				"Pedagogue（教師）と同根ですが、こちらは『子供の世話をする下男』というニュアンスから転じて、狭量な指導者を指すようになりました。"
+			]
+		}
+	},
+	{
+		"id": "specious",
+		"word": "Specious",
+		"meaning": "見かけ倒しの、もっともらしいが中身のない、虚飾の美、欺瞞的な美しさ",
+		"era": "Late 14th Century",
+		"etymology": {
+			"components": [
+				"species (appearance / form)"
+			],
+			"original_statement": "From Latin speciosus 'good-looking / beautiful / plausible', from species 'appearance'."
+		},
+		"concept": "The beautiful trap (表面的な「美(spec-)」や「論理の装い」を完璧に整え、中身の「空虚（ボイド）」や「嘘（フェイク）」を覆い隠す、魂を誘惑する偽りの光)",
+		"thinking": "スペシャス（見かけ倒し）な議論。それは。最初は宝石のように輝いて見えますが、光に当ててよく見れば、単なるガラス玉（プラスチック）にすぎません。その「美しさ（スペック）」は、あなたを真理から遠ざけるための罠（トラップ）。私たちがスペシャスな甘言に惑わされるのは、私たちの目がまだ、表面的な「形（フォーム）」にしか届いていないからなのです。本質は、常に目に見えない場所に隠されています。",
+		"part_of_speech": "adjective",
+		"aftertaste": "金メッキが剥がれ落ち、下から泥にまみれた鉛が現れた瞬間の、あの。自分が見ていたものが「幻想（イリュージョン）」であったことを突きつけられた時の、冷ややかな失望感。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "spek-",
+					"meaning": "to observe / see"
+				}
+			],
+			"points": [
+				"Species（種）や Spectacle（見物）と同じ root。かつては単に『美しい』という意味でしたが、次第に『見かけだけの』という皮肉な意味へ変わりました。"
+			]
+		}
+	},
+	{
+		"id": "fallacious",
+		"word": "Fallacious",
+		"meaning": "誤謬（ごびゅう）に満ちた、欺瞞的な、正しくない論理による、偽りの",
+		"era": "Late 15th Century",
+		"etymology": {
+			"components": [
+				"fallax (deceitful / misleading)",
+				"fallere (to deceive / trip up)"
+			],
+			"original_statement": "From Latin fallaciosus 'deceitful', from fallax, from fallere 'to deceive / trip up'."
+		},
+		"concept": "Tripping up the logos (正しい「真理の歩み」を妨（さまた）げ、足を「引っかけ(fall-)」、思考を暗黒の「落とし穴」へと誘い込もうとする、滑らかで不実な言葉の檻)",
+		"thinking": "「誤謬（ファレイシャス）」のルーツは「欺（あざむ）くこと」や「足を引っかけること」にあります。それは単なる間違い（ミステイク）ではありません。意図的に、あるいは無意識に、真実を「ねじ曲げる」行為。ファレイシャスな論理に身を任せることは、目隠しをして断崖（だんがい）絶壁を走るようなもの。知性とは、こうした「言葉の陥穽（かんせい）」を見抜き、正しい大地を踏みしめる力（レジリエンス）なのです。",
+		"part_of_speech": "adjective",
+		"aftertaste": "足元の床が突如として消え去り、空中を彷徨（さまよ）うような、あの。信じていた拠り所が「砂の城」であったことを知った一瞬の、血の気の引くような空虚。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ghwel-",
+					"meaning": "to bend / crook / deceive"
+				}
+			],
+			"points": [
+				"Fail（失敗する）や False（偽りの）の親。真っ直ぐであるべき道が、悪意によって『曲げられた』状態を指します。"
+			]
+		}
+	},
+	{
+		"id": "probity",
+		"word": "Probity",
+		"meaning": "誠実、清廉、高潔、試され抜いた真実味",
+		"era": "Late 16th Century",
+		"etymology": {
+			"components": [
+				"probus (good / upright / virtuous)"
+			],
+			"original_statement": "From Latin probitas 'uprightness / honesty', from probus 'good / upright / virtuous'."
+		},
+		"concept": "The tested gold (火に入れられ、叩（たた）き叩かれ、不純物をすべて取り除いた「純金」のように、どんな誘惑や圧力にも屈することのない、完成された「人格（キャラクター）」の証明)",
+		"thinking": "「誠実（プロビティ）」のルーツは、驚くべきことに「テスト（プルーブ）」にあります。一度も誘惑に遭（あ）ったことのない清廉さなど、何の価値もありません。プロビティとは、地獄のような過酷な状況の中で、それでも「正しさ」を守り抜いた者だけが放てる、重厚な輝き。それは、あなたが自分自身を「証明」し続けた果てに辿り着く、魂の最終回答（アンサー）なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "重く、どっしりとした銀のコインを握りしめた時の。何ものにも変えがたい「自分は正しいことをした」という、腹の底からの絶対的な安定感。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "pro-",
+					"meaning": "forward / in front"
+				},
+				{
+					"term": "bhu-",
+					"meaning": "to become / grow"
+				}
+			],
+			"points": [
+				"Prove（証明する）と同じ root。前（公の場）に出しても恥じない、育ち抜いた『善』を意味します。"
+			]
+		}
+	},
+	{
+		"id": "rectitude",
+		"word": "Rectitude",
+		"meaning": "正直、清廉、真っ直ぐなこと、正しさ、剛毅",
+		"era": "Mid-15th Century",
+		"etymology": {
+			"components": [
+				"rectus (straight / right)"
+			],
+			"original_statement": "From Old French rectitude, from Late Latin rectitudo 'straightness', from Latin rectus 'straight / right'."
+		},
+		"concept": "The vertical soul (左右の「損得（カネ）」や「保身（エゴ）」に目もくれず、天に向かって「垂直（rect-）」に伸びる、一本の鋼（はがね）のような峻烈な正しさ)",
+		"thinking": "「清廉（レクティチュード）」とは、文字通り「真っ直ぐであること」です。歪（ゆが）められた社会の中で、たった一人でも「直立」し続けること。レクティチュード。それは時に冷たく、時に孤独（ロンリー）ですが、その姿は崩壊しそうな世界を繋ぎ止める「一本の柱」。あなたが自分の背筋（スパイン）を伸ばし、真実だけを見つめたとき、あなたは世界において最も「高い場所」に立っているのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "ピンと張り詰めた、一本のピアノ線の、あの。どこまでも真っ直ぐで。わずかな濁り（フラウド）も許さない、峻厳（しゅんげん）でありながら美しい「垂直」の響き。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "reg-",
+					"meaning": "to move in a straight line / guide / rule"
+				}
+			],
+			"points": [
+				"Ruler（定規／支配者）や Right（右／正しい）の親。正しさが『真っ直ぐな線』として捉えられてきた歴史を示しています。"
+			]
+		}
+	},
+	{
+		"id": "obfuscate",
+		"word": "Obfuscate",
+		"meaning": "曖昧にする、混乱させる、(わざと)暗くして隠す、目を眩ませる",
+		"era": "Late 16th Century",
+		"etymology": {
+			"components": [
+				"ob- (against / thoroughly)",
+				"fuscus (dark / dusky)"
+			],
+			"original_statement": "From Latin obfuscare 'to darken / blacken', from ob- 'thoroughly' + fuscus 'dark'."
+		},
+		"concept": "The smoke of logos (明白な真理（エビデンス）を隠すために、あえて「暗闇（fusc-）」の帳（とばり）を下ろし、相手の思考を「混乱（カオス）」という名の霧の中に閉じ込める狡猾（こうかつ）な手法)",
+		"thinking": "「混迷（オブファスケート）」のルーツは「完全に暗くすること」にあり。明白な議論（ロゴス）が、わざと難解な言葉（ペダンティック）で塗りつぶされ、焦点がボケていく。それは。真実に直面するのを恐れる者が放つ「イカの墨」のような防衛手段。私たちが何かをオブファスケートしようとするとき、私たちは同時に、自分自身の「良心（コンシアンス）」の光をも消し去っているのです。",
+		"part_of_speech": "verb",
+		"aftertaste": "真っ白な煙幕が張られ、今まで見えていたはずの「答え」が、徐々に不透明な影へと変わっていく、あの。苛立ちと、得体の知れない不安が混ざり合った「迷宮」の感覚。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "dhu-",
+					"meaning": "smoke / dust / wind"
+				}
+			],
+			"points": [
+				"Dust や Fume（煙）と同じ root 由来の言葉。知性を暗い雲で覆い隠すことを意味します。"
+			]
+		}
+	},
+	{
+		"id": "subterfuge",
+		"word": "Subterfuge",
+		"meaning": "口実、詐策、巧妙な言い逃れ、足元から逃げること",
+		"era": "Late 16th Century",
+		"etymology": {
+			"components": [
+				"sub- (under)",
+				"fugere (to flee)"
+			],
+			"original_statement": "From French subterfuge, from Latin subterfugere 'to flee secretly', from subter 'under / beneath' + fugere 'to flee'."
+		},
+		"concept": "Fleeing underneath (正面衝突を避け、真実の追及から逃れるために、あえて「足元(sub-)」へと滑り込み、影へと「逃亡(fug-)」する、卑小だが鮮やかな身のこなし)",
+		"thinking": "サブターフュージ（口実）。そのルーツは「下に潜（もぐ）って逃げること」。それは、王道としての正攻法を捨て、地下道（アンダーグラウンド）へと姿を消すマジック。私たちがこうした「小賢しい手段」を使うとき、私たちは一時的に「負け」を回避したつもりになりますが、同時に、太陽の下を真っ直ぐに歩く「誇り（レクティチュード）」をも失ってしまっているのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "一瞬の隙をついて、するりと指の間を抜け出していったトカゲの尻尾。そこには、逃げ切ったという安堵（あんど）よりも。卑屈な「自己欺瞞」の泥のような味が残る。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "bheug-",
+					"meaning": "to flee"
+				}
+			],
+			"points": [
+				"Refuge（避難所）や Fugitive（逃亡者）と同じ root。真実という追っ手から逃れるための、孤独な避難です。"
+			]
+		}
+	},
+	{
+		"id": "machination",
+		"word": "Machination",
+		"meaning": "陰謀、策動、機械的なたくらみ、冷酷な計画",
+		"era": "Middle English (in sense of a machine)",
+		"etymology": {
+			"components": [
+				"machinari (to contrive / plot / devise)",
+				"machina (machine / engine)"
+			],
+			"original_statement": "From Latin machinatio 'a device / contrivance', from machināre 'contrive / plot', from machina 'machine'."
+		},
+		"concept": "The soulless plot (人間の豊かな「情愛（アガペー）」を排し、ターゲットを追い詰めるために、精緻（せいち）な「機械(machin-)」のように計算され尽くした、非人間的で冷酷な「網（プロット）」)",
+		"thinking": "「陰謀（マキネーション）」という言葉の中には「マシーン（機械）」が潜んでいます。それは、情熱的な爆発ではなく、歯車が一つ一つきちんと噛み合うように展開される、息を呑むような悪の「美学」。マキネーションに巻き込まれるとき、私たちは自分という「尊厳」を剥奪（はくだつ）され、単なる「部品（パーツ）」として扱われる屈辱を味わいます。しかし、愛のない計画は、常に摩擦（フリクション）によって自壊する運命にあるのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "無機質な金属の冷たさと。時計の針が刻むカチカチという規則的な音。自分の運命が、誰かの机の上の「数式（ロジック）」によって決められてしまったという、あの不気味な絶望感。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "magh-",
+					"meaning": "to be able / have power"
+				}
+			],
+			"points": [
+				"Magic（魔法）や Might（力）と同じ root です。機械とは本来『力を増幅する装置』であり、陰謀もまた『支配の力を増幅する装置』なのです。"
+			]
+		}
+	},
+	{
+		"id": "prevaricate",
+		"word": "Prevaricate",
+		"meaning": "言葉を濁す、言い逃れをする、うそをつく、真実を避けて歩む",
+		"era": "Mid-17th Century",
+		"etymology": {
+			"components": [
+				"prae- (before / in front)",
+				"varicare (to straddle)",
+				"varus (bent / crooked / knock-kneed)"
+			],
+			"original_statement": "From Latin praevaricatus, past participle of praevaricari 'to make a sham accusation / deviate', literally 'to walk crooked'."
+		},
+		"concept": "Walking the crooked path (真っ直ぐに問（と）いを見つめるのではなく、蟹股（かにまた）のように「歪（ゆが）んだ(varic-)」足取りで左右に揺れ、核心を外して巧妙に逃げ回ること)",
+		"thinking": "「言い逃れ（プリヴァリケート）」のルーツは「曲がった足で歩くこと」にあります。それは身体的な「不自由」を、言葉の「不誠実」へと転化させたメタファー。プリヴァリケートする人。それは、真実という名の「垂直な線」の上を、どうにかして「斜め」に通り抜けようとするトリックスター。しかし、歩みが歪めば歪むほど、彼らは自らが描く「物語の正当性」から遠ざかっていくのです。真実は常に、最短距離（ストレート）にあるのです。",
+		"part_of_speech": "verb",
+		"aftertaste": "逃げ回る蛇（スネーク）の影。あるいは。霧が立ち込める森の中で、どちらに行けばいいのか分からなくなる、あのヌルヌルとした不安と。自分の言葉への「不信」が募る感覚。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "wa-",
+					"meaning": "to bend / curve / crook"
+				}
+			],
+			"points": [
+				"Various（多様な）や Vary（変わる）と同じ親。一つに定めず、あえて『揺れ動く』ことを選び取った状態です。"
+			]
+		}
+	},
+	{
+		"id": "equivocation",
+		"word": "Equivocation",
+		"meaning": "曖昧な言い方、二義性、両義的な言葉、同じ声で別のことを言う",
+		"era": "Late 14th Century",
+		"etymology": {
+			"components": [
+				"aequus (equal / even)",
+				"vocare (to call)"
+			],
+			"original_statement": "From Late Latin aequivocatio, from aequivocus 'of the same name / ambiguous', from aequus 'equal' + vocare 'to call'."
+		},
+		"concept": "The equal voice (一つの言葉に、全く「等しい(aequ-)」重みを持った二つの意味を込め、どちらを「呼んで(voc-)」も正解（あるいは不正解）になるように仕組まれた、論理の迷宮)",
+		"thinking": "シェイクスピアが『マクベス』で好んで描いた「イクイヴォケーション（曖昧な言葉）」。それは「はい」と言いながら「いいえ」を含ませる、悪魔のレトリック。すべてを「等しく」扱うことは、時に「何も言っていない」ことと同じになります。あなたが「どちらとも取れる」言葉に逃げるとき、あなたは自分の「責任（レスポンス）」から解放されますが、同時に自分の「言葉の重み」をも、宇宙の真空へと捨て去っているのです。 ",
+		"part_of_speech": "noun",
+		"aftertaste": "二つの道が平行に伸び、どちらに進んでも「元の場所」に戻ってしまうような。知的な騙（だま）し絵を見せられたあとの、あの。言葉という道具そのものへの底知れない「不信感」。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "aikw-",
+					"meaning": "equal"
+				},
+				{
+					"term": "wekw-",
+					"meaning": "to speak"
+				}
+			],
+			"points": [
+				"Equivocate は、中世の異端審問などで『嘘を吐かずに真実を隠す』ための宗教的な技術としても磨かれました。 "
+			]
+		}
+	},
+	{
+		"id": "dissimulate",
+		"word": "Dissimulate",
+		"meaning": "感情を隠す、(本心ではないことを)装う、似せないようにする",
+		"era": "Early 15th Century",
+		"etymology": {
+			"components": [
+				"dis- (not / away)",
+				"simulare (to make like)"
+			],
+			"original_statement": "From Latin dissimulatus, from dissimulare 'to disguise / conceal', from dis- 'away / not' + simulare 'make like / feign'."
+		},
+		"concept": "Not appearing as is (自分を「偽る（シミュレート）」のではなく、真実の自分に「似せない(dis-simul-)」ように努めることで、内面に渦巻く確信を、不透明な「沈黙（ブラック）」の背後に隠蔽すること)",
+		"thinking": "シミュレート（似せる）の反対が、ディシミュレート（似せない）。それは、積極的な嘘をつく（ライ）よりも、もっと静かで深い「沈黙の仮面」。あなたが誰かの前で、沸き立つ怒りを消し去り、凪（なぎ）のような表情を「ディシミュレート」するとき、あなたは自分の魂を守るための「聖域（サンクチュアリ）」を、その無表情の裏側に隔離しているのです。隠すことは、時に、自分を保つための最後の戦いでもあります。",
+		"part_of_speech": "verb",
+		"aftertaste": "鏡の自分を見ても、何一つ感情が読み取れない、あの。自分の心が、完全に「凍結（フリーズ）」してしまったような、冷ややかで隙のない緊張感。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sem-",
+					"meaning": "one / as one / together (from similis)"
+				}
+			],
+			"points": [
+				"Smile（微笑む）と同根。微笑みとは本来、相手と『似通う（一つになる）』ための表情だったのです。ディシミュレートはその逆を往（ゆ）きます。"
+			]
+		}
+	},
+	{
+		"id": "exculpate",
+		"word": "Exculpate",
+		"meaning": "無罪にする、しみを晴らす、責めを免れさせる",
+		"era": "Mid-17th Century",
+		"etymology": {
+			"components": [
+				"ex- (out / away)",
+				"culpa (guilt / fault / blame)"
+			],
+			"original_statement": "From Medieval Latin exculpatus, from ex- 'from / out of' + Latin culpa 'fault / blame'."
+		},
+		"concept": "Pulling out of guilt (泥沼のような「罪の意識(culpa)」の中から、魂を「外へ(ex-)」引きずり出し、再び「潔白（ホワイト）」な大地へと解き放つ、法的な、あるいは道徳的な「洗浄（浄化）」)",
+		"thinking": "「無罪（エクスタルペイト）」のルーツは「罪から出すこと」。それは、自分を縛（しば）り付けていた「過去の過ち（ハマルティア）」という名の鎖（チェーン）を、外側からの力で断ち切ること。あなたが誰かから許され、あるいは自らを許して「自分はもう悪くない」と叫ぶとき、そこにはこのエクスタルペイションの光が差し込んでいます。罪とは、場所（ステイト）であり、そこから「抜け出す（エグジット）」ことが可能なのです。",
+		"part_of_speech": "verb",
+		"aftertaste": "重い泥んこのコートを脱ぎ捨てて、真っ白なシャツに着替えた瞬間の、あの。身体が浮き上がるような軽やかさと。そして。再び汚れることを恐れる、透明な緊張感。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kuelp-",
+					"meaning": "to bend / crook (fault)"
+				}
+			],
+			"points": [
+				"Culpable（責められるべき）の反対語。罪（culpa）とは、本来真っ直ぐ（レクタス）であるべき魂が、どこかで『曲がって』しまった状態を指します。"
+			]
+		}
+	},
+	{
+		"id": "inculpable",
+		"word": "Inculpable",
+		"meaning": "潔白な、非難の余地のない、罪を犯していない",
+		"era": "Late 15th Century",
+		"etymology": {
+			"components": [
+				"in- (not)",
+				"culpa (fault)"
+			],
+			"original_statement": "From Late Latin inculpabilis, from in- 'not' + culpabilis 'blameworthy'."
+		},
+		"concept": "Untouched by fault (その魂の「垂直性」には一点の「曲がり(culp-)」も「なく(in-)」、宇宙のいかなる審判（ジャッジ）に照らしても、ただ「正（ライト）」としてそこに在ること)",
+		"thinking": "インカルパブル（潔白）。それは、生まれたての雪のように、誰の足跡（エゴ）もついていない無垢な状態。しかし、大人の世界においてこの言葉が使われるとき、それは「誘惑（テンプテーション）を知りながらも、それに触れなかった（タッチ）」という、峻烈な意志の結果でもあります。潔白。それは守り抜くべき「沈黙の誇り」なのです。",
+		"part_of_speech": "adjective",
+		"aftertaste": "一点の曇りもないクリスタルのグラス。そこに太陽の光が通り抜け、歪（ゆが）み一つなく反対側の壁を照らした瞬間の、あの。何ものをも拒まず、何ものにも汚されない、透明な勝利の予感。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kuelp-",
+					"meaning": "to bend / crook (fault)"
+				}
+			],
+			"points": [
+				"Guilt（罪）よりも『社会的な非難』に重きを置く言葉です。周囲のノイズに負けない、魂の強度を意味します。"
+			]
+		}
+	},
+	{
+		"id": "absolve",
+		"word": "Absolve",
+		"meaning": "(義務や罰から)解き放つ、赦す、解消する、絆を解く",
+		"era": "Late 14th Century",
+		"etymology": {
+			"components": [
+				"ab- (away / from)",
+				"solvere (to loosen / untie / release)"
+			],
+			"original_statement": "From Latin absolvere 'set free / loosen / acquit', from ab- 'from' + solvere 'to loosen / untie'."
+		},
+		"concept": "Loosening away (固く結ばれ、自分を「固定（フィックス）」していた宿命の「結び目(solv-)」を、慈悲という名の指先で「スルスルと解き(ab-)」、自由な空間へ解き放つこと)",
+		"thinking": "「免罪（アブゾルブ）」のルーツは「解くこと（ルーズ）」にあります。罪とは、あなたを過去に「繋ぎ止める鎖」。アブゾルブされるとき、その鎖は溶けて消え、あなたは初めて「新しい自分」へと、まっさらな状態でアクセス（接続）できるようになります。許し（フォーギブネス）とは、他人のためにするのではなく、あなたを「一人にする（自由にする）」ために行われる、最高度の解放（リベレーション）なのです。",
+		"part_of_speech": "verb",
+		"aftertaste": "きつく締め付けられていたネクタイ（あるいは手枷）を外した後の、あの。皮膚に血が巡り、再び深く呼吸ができるようになった喜び。失われていた「自分の時間」を取り戻したという、安らかな戦慄。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "leu-",
+					"meaning": "to loosen / divide / cut apart"
+				}
+			],
+			"points": [
+				"Analysis（分析／解き分けること）や Solution（解決）と同じ root。問題とは常に『解かれる』べき結び目なのです。"
+			]
+		}
+	},
+	{
+		"id": "condone",
+		"word": "Condone",
+		"meaning": "(罪を)見逃す、大目に見る、容認する、共に与える",
+		"era": "Mid-19th Century",
+		"etymology": {
+			"components": [
+				"com- (together / altogether)",
+				"donare (to give)"
+			],
+			"original_statement": "From Latin condonare 'to give up / remit / pardon', from com- 'altogether' + donare 'to give'."
+		},
+		"concept": "Altogether giving (「罰（パニッシュ）」を与える代わりに、あえて「許し」という名の「ギフト(don-)」を、「一緒に(com-)」投げ与えることで、その罪を「無（ゼロ）」の空間へと呑み込ませてしまうこと)",
+		"thinking": "「多めに見る（コンドーン）」のルーツは「完全に与えてしまうこと」にあります。それは積極的な許し（フォーギブ）よりも、「見て見ぬふりをする」という、一種の「共犯（プロット）」に近い温かさ（あるいは静かな共謀）。あなたが誰かの過ちをコンドーンするとき、あなたは言葉（ロゴス）による断罪（ジャッジ）を捨て、その人が再び「やり直す（リスタート）」ための沈黙という名の贈り物をしているのです。",
+		"part_of_speech": "verb",
+		"aftertaste": "厳しい父親が、何も言わずに自分の肩をポンと叩いて通り過ぎたときの、あの。死ぬほど怖かった「審判」が、不意に、暖かい「同情」へと入れ替わった瞬間の、涙が溢れそうになる安堵感。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "do-",
+					"meaning": "to give"
+				}
+			],
+			"points": [
+				"Donation（寄付）や Donor（供与者）と同じ do-。許すことは、心そのものを相手に『分け与える』行為なのです。"
+			]
+		}
+	},
+	{
+		"id": "perfidious",
+		"word": "Perfidious",
+		"meaning": "不信な、不誠実な、裏切りの、信頼を貫く悪意",
+		"era": "Late 16th Century",
+		"etymology": {
+			"components": [
+				"per- (through / ill / away)",
+				"fides (faith / trust)"
+			],
+			"original_statement": "From Latin perfidiosus 'treacherous', from perfidia 'treachery', from per- 'ill / away' + fides 'faith'."
+		},
+		"concept": "The violation of faith (聖なる「信頼(fides)」という壁を、偽りの刃で「突き抜け(per-)」、その内側にあるもっとも「無防備な心」を無残に引き裂く、卑劣で底なしの裏切り)",
+		"thinking": "パフィディアス（不誠実）。そのルーツは「信頼を突き抜けて壊すこと」にあります。信頼という最高の「善（アガトス）」を、それを知っている者が自ら踏みにじるという、魂の究極の墜落。それは単なる背信（トレード）ではなく、相手があなたに手渡した「一番の大切な鍵（キー）」を使って、相手の「家（プライド）」を焼き払うような行為。裏切り（パフィディ）は、人間の「繋がり」に対する、最も冷酷な否定なのです。",
+		"part_of_speech": "adjective",
+		"aftertaste": "背中から氷のような刃を突き立てられ、自分の「信じる力」そのものが、その瞬間に枯死（ドライアウト）してしまった、あの。真っ黒で、そしてどこまでも孤独な奈落の感覚。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "bheidh-",
+					"meaning": "to trust / confide / persuade"
+				}
+			],
+			"points": [
+				"Faith（信念）や Federal（連邦／契約による結びつき）の対極。契約そのものを破壊する闇のエネルギーを宿しています。"
+			]
+		}
+	},
+	{
+		"id": "noxious",
+		"word": "Noxious",
+		"meaning": "有害な、有毒な、風紀を乱す、命を損なう",
+		"era": "Late 15th Century",
+		"etymology": {
+			"components": [
+				"noxa (harm / injury / damage)"
+			],
+			"original_statement": "From Latin noxius 'hurtful / injurious', from noxa 'harm'."
+		},
+		"concept": "The death-bringer (命（バイタル）に触れた瞬間、それを「死（ニクス）」という名の沈黙へと変貌（メタ）させる、静かで執拗な「毒（ポイズン）」の放射)",
+		"thinking": "「有害（ナクシャス）」なガス、あるいはナクシャスな言葉。そのルーツは「夜（ナイト）」や「死」に連なる「害（ノクサ）」にあります。ただ「不快」なだけでなく、あなたの魂の「生命力」を根本から蝕（むしば）み、その「光（ライト）」を消し去ってしまおうとする力。有害な美しさを前にしたとき、あなたの本能は「逃げろ（ラン）」と叫んでいるはずです。その直観にこそ、あなたの命の「正しさ（ロゴス）」が宿っています。",
+		"part_of_speech": "adjective",
+		"aftertaste": "紫色の煙が立ち込め、呼吸するたびに胸が締め付けられるような。気づかないうちに、自分の「善き意志」が麻痺（パラライズ）し、腐敗（ロッテ）し始めている、あの不気味な感覚。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "nek-",
+					"meaning": "death / corpse"
+				}
+			],
+			"points": [
+				"Nick（傷）や Necromancy（降霊術）と同根。存在に『死』を刻み込む力を意味します。"
+			]
+		}
+	},
+	{
+		"id": "obnoxious",
+		"word": "Obnoxious",
+		"meaning": "不快な、感じの悪い、鼻持ちならない、責められるべき",
+		"era": "Late 16th Century",
+		"etymology": {
+			"components": [
+				"ob- (against / exposed to)",
+				"noxa (harm)"
+			],
+			"original_statement": "From Latin obnoxiosus 'harmful / submissive / exposed to harm', from ob- 'exposed to' + noxa 'harm'."
+		},
+		"concept": "Exposed to blame (自らの傲慢（エゴ）や「配慮のなさ」を「目の前(ob-)」に剥き出しにし、他者の平穏を「害(noxa)」しようとする、耐え難い「露骨さ」の暴力)",
+		"thinking": "現代では「うざい」に近い意味ですが、そのルーツは「害（ノクサ）に曝（さら）されている」ことにあります。おぞましいほど「無礼」な態度。それは、自分の内側にある「毒（ポイズン）」を隠すことをやめ、世界に対して「私を罰してみろ（オブ-ノクサ）」と挑発している、極めて不安定で、かつ不快な精神の表出なのです。彼らの不快さは、実は彼ら自身の「救いようのなさ」の叫び（クライ）なのかもしれません。 ",
+		"part_of_speech": "adjective",
+		"aftertaste": "耳元で鳴り続ける不快な金属音。あるいは。他人の無神経な一言によって、自分の「聖域（サンクチュアリ）」が土足で踏み荒らされた時の、あの。激しい怒りと、やり場のない無力感。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "nek-",
+					"meaning": "death / harm"
+				}
+			],
+			"points": [
+				"かつては『罰を受けるべき状態』という法的な意味を持っていました。不快であることは、宇宙の法に対する『負債』なのです。"
+			]
+		}
+	},
+	{
+		"id": "meretricious",
+		"word": "Meretricious",
+		"meaning": "見かけ倒しの、虚飾の、けばけばしい、不誠実な美",
+		"era": "Early 17th Century",
+		"etymology": {
+			"components": [
+				"meretrix (prostitute)",
+				"mereri (to earn / serve for hire)"
+			],
+			"original_statement": "From Latin meretricius 'of or pertaining to a prostitute', from meretrix 'prostitute', from mereri 'to earn / serve for hire'."
+		},
+		"concept": "Beauty for hire (真実の「愛（アガペー）」や「信念（ロゴス）」を欠いたまま、ただ「対価（カネ）」を得るためだけに塗りたくられた、虚しくも扇情的な「偽りの装飾（デコレーション）」)",
+		"thinking": "「メレトリシャス（けばけばしい）」のルーツは「代価を払って得られる関係（娼婦）」にあります。それは。心（ハート）が通っていないのに、網膜（アイ）だけを刺激しようとする、不毛な美。メレトリシャスな芸術、あるいはメレトリシャスな言葉。それらは。一瞬だけあなたを眩（くら）ませますが、その後に残るのは、空腹（ハングリー）よりもひどい「魂の飢餓感（スターベイション）」だけなのです。美しさとは、無料（フリー）で捧げられるべき聖なる供物（ギフト）であるはずなのですから。 ",
+		"part_of_speech": "adjective",
+		"aftertaste": "派手なネオンサインの下で、真っ赤な口紅を塗りたくりながら、虚空を見つめているような。その華やかさが、かえって「孤独」を極限まで際立たせてしまう、あの不毛な虚飾の味。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "mer-",
+					"meaning": "to allot / assign / share (from merere)"
+				}
+			],
+			"points": [
+				"Merit（功績／得たもの）と同じ root。皮肉にも『得ようとすること』が、不誠実な美しさを産み出す土壌となるのです。"
+			]
+		}
+	},
+	{
+		"id": "execrable",
+		"word": "Execrable",
+		"meaning": "忌まわしい、憎むべき、ひどく悪い、呪われた",
+		"era": "Late 14th Century",
+		"etymology": {
+			"components": [
+				"ex- (out / away)",
+				"sacrare (to devote / dedicate to holiness / or in this case, to curse)"
+			],
+			"original_statement": "From Old French execrable, from Latin execrabilis 'detestable', from execrari 'to curse', from ex- 'out / away' + sacrare 'to devote to holiness / consecrate'."
+		},
+		"concept": "Cast out from holiness (あまりにも「邪悪(mal-)」であるために、聖なる領域から「外(ex-)」へと叩き出され、宇宙の「祝福(sacer)」を永久に剥奪（はくだつ）されてしまった、救いようのない絶望的な穢（けが）れ)",
+		"thinking": "エクセクラブル（忌まわしい）な行為。それは。単に「嫌い」なだけでなく、それが存在すること自体が「宇宙の汚点（汚れ）」であると感じさせるほど、真っ黒な闇に沈んだ何か。そのルーツは「聖域（サキュラー）からの追放」。あなたがこの言葉を使いたくなるほどの不快感を覚えるとき、それはあなたの「聖なる直観」が、侵（おか）してはならない一線を越えた者に対して、最後の「審判（ジャッジ）」を下しているのです。",
+		"part_of_speech": "adjective",
+		"aftertaste": "目を背（そむ）けたくなるような、ヘドロにまみれた「何か」。それが自分の神聖な「世界観」を汚（よご）してしまったという、激しい嫌悪（アブホランス）と、自分を清め直したいという切実な渇望。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sak-",
+					"meaning": "to sanctify"
+				}
+			],
+			"points": [
+				"Sacred（聖なる）の対極。神から『呪われる（呪いとして捧げられる）』という、かつての儀式的な拒絶から生まれた言葉です。"
+			]
+		}
 	}
 ];
