@@ -217113,5 +217113,573 @@ const WORDS = [
 				"Morphine（モルヒネ／夢の形を見せるもの）と同根。形を変えることは、新しい夢を見ることと同じなのです。"
 			]
 		}
+	},
+	{
+		"id": "lassitude",
+		"word": "Lassitude",
+		"meaning": "だるさ、倦怠感、無気力、疲れ",
+		"era": "Late 14th Century",
+		"etymology": {
+			"components": [
+				"lassus (weary / faint / tired)"
+			],
+			"original_statement": "From Old French lassitude, from Latin lassitudo 'faintness / weariness', from lassus 'weary'."
+		},
+		"concept": "The heat of fatigue (重力という名の「鎖」が魂に深く食い込み、身体も精神も「熱」に浮かされた大気の如（ごと）く、重く、鈍く、静止を求めている状態)",
+		"thinking": "「だるさ（ラシチュード）」は、単なる休息の不足ではありません。それは、世界という重荷を背負い続けた魂が、一瞬だけ「自分を支えること」を放棄したくなった瞬間の、甘美で残酷な沈黙。あなたがこの「倦怠（アンニュイ）」の中に沈み込むとき、時間はもはや進まず、あなたはただ自分の「鼓動（ビート）」という、最も重い現実だけと向き合うことになるのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "真夏の昼下がり。風も吹かず、ただ遠くの蝉時雨（せみしぐれ）を聴きながら、指一本動かすことが「罪」であるかのように感じる、あの圧倒的な停滞感。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "lad-",
+					"meaning": "let go / weary / slack"
+				}
+			],
+			"points": [
+				"Late（遅い）や Let（させる／放す）と同根。命のリズムが『放り出された』状態を指します。"
+			]
+		}
+	},
+	{
+		"id": "languor",
+		"word": "Languor",
+		"meaning": "物憂げ、微睡（まどろ）み、だるさ、気怠い美しさ",
+		"era": "Late 14th Century",
+		"etymology": {
+			"components": [
+				"languere (to be faint / listless / weak)"
+			],
+			"original_statement": "From Old French languor, from Latin languor 'faintness / weariness / apathy', from languere 'to be weak / weary'."
+		},
+		"concept": "The aesthetic faintness (激しい情熱や苦痛のあとに訪れる、身体から力が抜け、輪郭が幸福な「霞（ミスト）」へと溶けていくような、優雅で官能的な「無気力」)",
+		"thinking": "ラシチュードが「重苦しい疲れ」なら、ランガー（物憂げ）は「美しい余韻」です。それは、充足しきった魂が、世界という名の「岸辺」に打ち上げられた瞬間の、無防備な平和。あなたが何かに「心酔」し、その後の微睡み（スランバー）に身を委（ゆだ）ねるとき、そこにはこの「ランガー」という名の、最も贅沢な（ラグジュアリー）時間の流れが宿っています。",
+		"part_of_speech": "noun",
+		"aftertaste": "愛する人の腕の中で、あるいは。音楽が止まったあとの余韻（レゾナンス）の中で、自分が「透明な水」になったかのように感じる、あの至福の脱力感。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sl-",
+					"meaning": "slack / loose"
+				}
+			],
+			"points": [
+				"Lax（緩い）や Slack（弛んだ）の親。緊張が『ほどけた』、最も無垢な状態です。"
+			]
+		}
+	},
+	{
+		"id": "schadenfreude",
+		"word": "Schadenfreude",
+		"meaning": "他人の不幸を喜ぶ心、シャーデンフロイデ、密かな優越感",
+		"era": "Mid-19th Century (from German)",
+		"etymology": {
+			"components": [
+				"schaden (damage / harm)",
+				"freude (joy)"
+			],
+			"original_statement": "German Schadenfreude, literally 'damage-joy', from Schaden 'damage' + Freude 'joy'."
+		},
+		"concept": "The shadow's laughter (他者の「痛み(Schaden)」という鏡に、自分の「幸不幸の座標」を反射させ、自らが安全な場所に居ることへの「醜（みにく）い安堵」を噛み締める、人間の影の喜び)",
+		"thinking": "あまりに有名なこの言葉は、人間の「慈悲（アガペー）」の対極にある、最も「人間臭い」真実を指します。誰かが躓（つまず）いたとき、私たちの深層心理がかすかに綻（ほころ）ぶ。それは悪意（マリス）というより、自分が「まだ大丈夫である」という、哀しい自己確認。この感情を認め、その「毒（ポイズン）」を抱えたまま生きていくことこそが、ある種の誠実さの始まりなのかもしれません。",
+		"part_of_speech": "noun",
+		"aftertaste": "口の中が微かに苦くなり、同時に、喉の奥から乾いた「笑い」が溢（あふ）れそうになる、あの不謹慎で抗いがたい、魂の「暗部」の温度。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sked-",
+					"meaning": "to split / scatter (damage)"
+				},
+				{
+					"term": "preu-",
+					"meaning": "to hop / jump / be joyful"
+				}
+			],
+			"points": [
+				"ドイツ語特有の複合語でありながら、今や世界の共通語。感情に境目はないことを示しています。"
+			]
+		}
+	},
+	{
+		"id": "vulnerability",
+		"word": "Vulnerability",
+		"meaning": "傷つきやすさ、脆弱性、受容性、剥き出しの心",
+		"era": "Mid-17th Century",
+		"etymology": {
+			"components": [
+				"vulnus (wound / injury)"
+			],
+			"original_statement": "From Latin vulnerare 'to wound', from vulnus 'a wound'."
+		},
+		"concept": "The open wound of being (自分を護（まも）るための「鎧（アーマー）」をあえて脱ぎ捨て、世界が放つ光や刃を、そのまま「生身の自分」で受け止めようとする、最も勇気ある「脆（もろ）さ」)",
+		"thinking": "「脆弱性（バーネラビリティ）」という言葉のルーツは「傷（バルヌス）」にあります。傷つくことができる能力。それは、弱さ（ウィークネス）ではなく、世界との「対話（ダイアローグ）」の前提条件です。あなたが他者の前で「自分を曝（さら）け出す」とき、あなたは傷つくリスクを負うと同時に、他者の魂が入り込んでくるための「扉（ポータル）」を、自らの傷口という形で開いているのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "冷たい風が、衣服を脱ぎ捨てたばかりの肌を撫でるような、あの。ヒリヒリとした恐怖と。しかし、その先に待っている圧倒的な「他者との一体感」への期待。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "wele-",
+					"meaning": "to tear / wound / pluck / plunder"
+				}
+			],
+			"points": [
+				"Vulnerable（傷つきやすい）の反対語は Invulnerable（無敵）。しかし、無敵であることは、何も感じられないという孤独でもあります。"
+			]
+		}
+	},
+	{
+		"id": "fragility",
+		"word": "Fragility",
+		"meaning": "脆（もろ）さ、壊れやすさ、はかなさ、不確かな美",
+		"era": "Late 14th Century",
+		"etymology": {
+			"components": [
+				"frangere (to break)"
+			],
+			"original_statement": "From Old French fragilite, from Latin fragilitas, from fragilis 'brittle', from frangere 'to break'."
+		},
+		"concept": "The edge of fracture (一度強い衝撃を加えれば、決して「元の形」には戻らないという、不可逆な「破壊の予感」が生み出す、張り詰めた極限の緊張と輝き)",
+		"thinking": "「脆（もろ）さ」のルーツは「砕けること（フラクタ）」にあります。それは、ガラス細工や、冬の朝の氷の張った水たまりのような美しさ。フラジリティ（脆弱性）が「存在そのもの」の危うさなら、この「脆さ（フラジリティ）」は、その「構造（ストラクチャー）」が持つ美的な限界値を指します。壊れるからこそ、大切にする。その「反比例」の法則が、私たちの愛を深めるのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "指先でそっと触れただけで、音もなく「ピシリ」とひび割れてしまうような、あの絶対的な不可逆性。取り返しのつかないからこその、一瞬の「永遠」。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "bhreg-",
+					"meaning": "to break"
+				}
+			],
+			"points": [
+				"Fracture（骨折）や Fragment（断片）、Fraction（分数）と同じ、全体が壊れるプロセスを司る言葉です。"
+			]
+		}
+	},
+	{
+		"id": "tenuous",
+		"word": "Tenuous",
+		"meaning": "薄い、希薄な、繋ぎ止める糸のような、(根拠などが)薄弱な、繊細な",
+		"era": "Mid-17th Century",
+		"etymology": {
+			"components": [
+				"tenuis (thin / fine / slight)"
+			],
+			"original_statement": "From Latin tenuis 'thin / slender / fine'."
+		},
+		"concept": "The slender connection (もはや「在る（オン）」か「無い（メ）」かの、絶望的な境界線上にあるような、しかし決して「断ち切られてはいない」という、奇跡のような最小限の繋がり)",
+		"thinking": "その言葉のルーツは「引き伸ばすこと（テネレ）」にあります。限界まで伸ばされ、今にも切れそうな一本の蜘蛛（くも）の糸。テニュアス（希薄）な関係。それは、強固な鎖よりも、はるかに「意識」を集中させなければ維持できない、高度な「バランス」の上に成り立っています。薄いからこそ、そこを通り抜ける光（レイ）は、最も美しく屈折するのです。",
+		"part_of_speech": "adjective",
+		"aftertaste": "朝霧の向こうに、微かに見える「誰かのシルエット」。声は届かない、しかし「そこに居る」という絶対の確信だけが、自分をこの世界に繋（つな）ぎ止めている感覚。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ten-",
+					"meaning": "to stretch / thin"
+				}
+			],
+			"points": [
+				"Tend（向かう）や Tension（緊張）と同じ、存在の『引き延ばし』の結果として生まれた、究極の細さです。"
+			]
+		}
+	},
+	{
+		"id": "placable",
+		"word": "Placable",
+		"meaning": "宥（なだ）めやすい、執念深くない、温厚な、和解できる",
+		"era": "Late 16th Century",
+		"etymology": {
+			"components": [
+				"placare (to soothe / appease)"
+			],
+			"original_statement": "From Latin placabilis 'easily pacified', from placare 'to soothe / appease'."
+		},
+		"concept": "The melting anger (怒りや悲しみが、春の雪が溶けるように自然と「平らな（plac-）」な状態へと戻っていき、再び世界を「受け入れる（レシーブ）」準備が整っている柔和な性質)",
+		"thinking": "「宥めやすさ」のルーツは「平らにすること」にあります。波立った感情の海を、穏やかな凪（なぎ）へと帰すこと。プレーカブルな心。それは、過去にこだわらず、現在という名の「新しい風（ブリーズ）」を、常に歓迎しようとする魂の広さ。許す（フォーギブ）ことは、相手のためではなく、自分の心の「波立ち」を鎮め、真実の自分を映し出すために必要な儀式なのです。",
+		"part_of_speech": "adjective",
+		"aftertaste": "「もういいよ」と笑いながら手を差し出した瞬間の、あの。胸の奥から「しこり」が消え、呼吸が以前よりもずっと深くなっていく、清々（すがすが）しい充足感。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "plak-",
+					"meaning": "to be flat / calm"
+				}
+			],
+			"points": [
+				"Please（喜ばせる）や Placat（プラカード／平らな板）と同根。平穏とは、そこにある『凹凸（おうとつ）』を取り除くことなのです。"
+			]
+		}
+	},
+	{
+		"id": "implacable",
+		"word": "Implacable",
+		"meaning": "執念深い、和解しがたい、慈悲のない、(感情などが)激しい",
+		"era": "Late 15th Century",
+		"etymology": {
+			"components": [
+				"in- (not)",
+				"placare (to soothe)"
+			],
+			"original_statement": "From Old French implacable, from Latin implacabilis, from in- 'not' + placabilis."
+		},
+		"concept": "The frozen resentment (一度燃え上がった怒りや復讐（リベンジ）の炎が決して「宥(plac-)」められることなく、もはや「不変（イン）」の意志として存在の「核心（コア）」へと成り果ててしまった状態)",
+		"thinking": "インプレーカブルな敵意。それは、あなたが何を差し出し、何を語っても、決して折れることのない「氷の壁」です。その執念深さ（パーシステンス）は、ある意味で、自分自身の傷を「聖なる痛み」として守り続けようとする、絶望的なまでの「誠実さ」の裏返しなのかもしれません。宥められないことは、許すことを拒むという、最後にして最大の「自己防衛」なのです。",
+		"part_of_speech": "adjective",
+		"aftertaste": "どんなに対話を求めても、相手の瞳の奥に「冷たい拒絶」だけが居座り続けている、あの。言葉という橋がすべて焼け落ちてしまった、不毛な静寂。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "plak-",
+					"meaning": "to be flat"
+				}
+			],
+			"points": [
+				"Placid（穏やかな）の対極にある、荒れ狂う心の海。そこにはもう、着岸できる『港（ポート）』がないことを象徴します。"
+			]
+		}
+	},
+	{
+		"id": "obstinate",
+		"word": "Obstinate",
+		"meaning": "頑固な、意固地な、自分の場所に固執する、強情な",
+		"era": "Mid-14th Century",
+		"etymology": {
+			"components": [
+				"ob- (against / in the way)",
+				"stare (to stand)"
+			],
+			"original_statement": "From Latin obstinatus 'resolved / determined / inflexible', from obstinare 'persist in / be resolved', from ob- 'against' + stare 'to stand'."
+		},
+		"concept": "Standing against the flow (他者の意見や時代の潮流の「真っ正面(ob-)」に立ちはだかり、自分の場所を「一歩も退（すさ）らずに死守する(sta-)」という、強固であり孤独な立ち位置)",
+		"thinking": "「頑固（オブスティネート）」という言葉のルーツは「抵抗して立つこと」にあります。それは周囲からは「意固地（スタボーン）」に見えますが、本人にとっては、そこから動けば「自分（セルフ）」が崩壊してしまうという、ギリギリの防衛線。折れない心。あなたが何かに「オブスティネート（頑固）」であるとき、あなたは世界という「激流」に対する、一個の「不動の岩（ストーン）」になろうとしているのです。",
+		"part_of_speech": "adjective",
+		"aftertaste": "「嫌だ」と言って奥歯を噛み締めた瞬間の、あの。身体中の筋肉が鋼（はがね）のように硬くなり、世界という重力にたった一人で抗（あらが）っている、峻烈な「個」の自覚。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sta-",
+					"meaning": "to stand"
+				}
+			],
+			"points": [
+				"Obstacle（障害物）と同じ ob- を持ち、自分自身を真理のための『障害』として世界に投げ出している状態です。"
+			]
+		}
+	},
+	{
+		"id": "solicitude",
+		"word": "Solicitude",
+		"meaning": "切なる配慮、心配、気遣い、懸念",
+		"era": "Early 15th Century",
+		"etymology": {
+			"components": [
+				"sollicitus (anxious / agitated)",
+				"sollus (whole / complete)",
+				"ciere (to move / set in motion)"
+			],
+			"original_statement": "From Latin sollicitudo, from sollicitus 'full of anxiety / set in motion', from sollus 'whole' + ciere 'to move'."
+		},
+		"concept": "Stirred to the core (他者の苦しみや安寧（あんねい）を想い、自分という「全体(soll-)」が「激しく揺さぶられ(cie-)」、居ても立っても居られなくなるほどの、深い慈愛の疼（うず）き)",
+		"thinking": "「気遣い（ソリシチュード）」は、単なるマナー（礼儀）ではありません。それは。相手の状態によって、自分の存在そのものが「動いて（アジテート）」しまう、高度な「共感（エンパシー）」。あなたが誰かに「ソリシチュード」を捧げるとき、あなたの魂は、相手という名の「他人の海」に投げ込まれた一個の石となり、その波紋（リップル）を自らの痛みとして全身で受け止めているのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "「大丈夫？」と声をかける前に、すでに自分の指先が微かに震えている、あの。自分よりも他者を「優先（プライオリティ）」させてしまった瞬間の、暖かくて、そして切ない自己の「不在」。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sol-",
+					"meaning": "whole / entire"
+				},
+				{
+					"term": "kei-",
+					"meaning": "to set in motion"
+				}
+			],
+			"points": [
+				"Solicit（勧誘する／しつこく頼む）と同じ root。心が『全体として動かされている』、最も誠実な熱狂を指します。"
+			]
+		}
+	},
+	{
+		"id": "munificence",
+		"word": "Munificence",
+		"meaning": "気前のよさ、惜しみない施し、寛大、度量のある寛大さ",
+		"era": "Late 16th Century",
+		"etymology": {
+			"components": [
+				"munus (gift / service / duty)",
+				"facere (to make / do)"
+			],
+			"original_statement": "From Latin munificentia 'generosity', from munus 'gift' + face 'to do / make'."
+		},
+		"concept": "Creating the gift (自分が持っている富や才能を、自分の「所有（ポゼッション）」としてではなく、世界への「奉仕（ムヌス）」として進んで「形(fac-)」にし、惜しみなく解き放つこと)",
+		"thinking": "「寛大（ムニフィセンス）」のルーツは「贈り物をすること」にあります。それは、蓄えること（ストック）を拒否し、自らを透明な「パイプ」として、豊かさを循環（サイクル）させる行為。あなたが「ムニフィセント（気前よい）」であるとき、あなたは自分が世界の「中心」ではなく、世界の「一部」であることを正しく理解し、その流れを堰（せき）止めないという、王者の決意を示しているのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "握りしめていた自分の「財産（あるいは誇り）」を、そっと手放して誰かに差し出したあとの、あの。空っぽになった自分の手が、なぜか前よりもずっと「自由」で、軽やかになったことに気づく、あの清々（すがすが）しい快感。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "mei-",
+					"meaning": "to change / go / move (gift / exchange)"
+				}
+			],
+			"points": [
+				"Common（共通の）や Immune（免除された）と同じ root。贈り物を通じて、閉ざされた『自分』を社会という『全体』へ繋げる行為です。"
+			]
+		}
+	},
+	{
+		"id": "avarice",
+		"word": "Avarice",
+		"meaning": "貪欲（どんよく）、強欲、金銭欲、飽くなき渇望",
+		"era": "Early 14th Century",
+		"etymology": {
+			"components": [
+				"avere (to crave / desire / long for)"
+			],
+			"original_statement": "From Old French avarice, from Latin avaritia 'greed', from avarus 'greedy', from avere 'crave / desire'."
+		},
+		"concept": "The endless hollow (どれほど富や称賛（フェイス）をその「穴」に投げ込んでも、決して満たされることのない、魂の奥底に空いた「不治の渇き」の叫び)",
+		"thinking": "「貪欲（アヴァリス）」は、七つの大罪の一つとして恐れられました。そのルーツは、単なる「欲しい」ではなく「渇望すること（アヴェレ）」にあります。自分が「欠けている（レック）」という恐怖から逃れるために、世界をすべて自らの懐（ふところ）に入れようとする悲しい試み。足ることを知らないことは、無限という名の「檻（ケージ）」に自らを閉じ込めることでもあります。 ",
+		"part_of_speech": "noun",
+		"aftertaste": "何かを手に入れた瞬間に、もう「次」のものが欲しくなって目が泳ぎ始める、あの。自分の内側から響いてくる、底知れない「飢（う）え」の冷たい感覚。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "au-",
+					"meaning": "to desire / favor"
+				}
+			],
+			"points": [
+				"Avid（熱心な）や Audacious（大胆な）と同根。欲望は、時に『情熱』という名の美しい仮面を被（かぶ）り、私たちを駆り立てます。"
+			]
+		}
+	},
+	{
+		"id": "prodigal",
+		"word": "Prodigal",
+		"meaning": "放蕩（ほうとう）な、浪費する、惜しみない、豪快な",
+		"era": "Late 15th Century",
+		"etymology": {
+			"components": [
+				"pro- (forth / away)",
+				"agere (to drive / set in motion)"
+			],
+			"original_statement": "From Latin prodigus 'lavish / wasteful', from prodigere 'to drive away / squander', from pro- 'forth' + agere 'to drive'."
+		},
+		"concept": "Driving it all forth (蓄える（ムヌス）ことを拒（こば）み、自らの資力や命の炎を、一気に「外へ(pro-)」「追い出し（ag-)」、灰になるまで使い切ろうとする、破滅的で眩（まぶ）しい情熱)",
+		"thinking": "新約聖書の「放蕩息子（プロディガル・サン）」への例えで有名なこの言葉。そのルーツは「すべてを追い出す」ことにあります。明日を考えない愚かしさと、明日を必要としないほどの「今」への没頭。プロディガルな生き方は、安定（スタビリティ）を求める社会からは疎（うと）まれますが、その「使い果たす美学」の中には、ケチな計算を寄せ付けない、圧倒的な「気高さ」が宿っています。",
+		"part_of_speech": "adjective / noun",
+		"aftertaste": "花火が夜空で弾（はじ）け、一瞬で消え去る時の、あの。後に何も残らないが、視界には強烈な「残像」が刻まれている、不毛で、しかし贅沢な「生の浪費」の美しすぎる目眩（めまい）。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ag-",
+					"meaning": "to drive / draw out / move"
+				}
+			],
+			"points": [
+				"Agent（代行者）や Agile（機敏な）と同じ agere。エネルギーを溜め込むのではなく、積極的に『放出（ドライブ）』する姿です。"
+			]
+		}
+	},
+	{
+		"id": "temerity",
+		"word": "Temerity",
+		"meaning": "蛮勇、向こう見ず、無謀な大胆さ、不敵な振る舞い",
+		"era": "Late 14th Century",
+		"etymology": {
+			"components": [
+				"temere (by chance / blindly / casually)",
+				"temus (darkness)"
+			],
+			"original_statement": "From Latin temeritas 'blind chance / accident / rashness', from temere 'by chance / casually / rashly', originally 'in the dark'."
+		},
+		"concept": "Acting in the dark (足元も見えない「暗闇(tem-)」の中を、何の裏付けもなく「盲目的に」突き進んでいく、思慮（ロゴス）を欠いた、しかし強烈な「生命の飛躍」)",
+		"thinking": "「無謀（テメリティ）」のルーツは「暗闇の中ですること」にあります。それは、光（知性）を待たずに飛び出す勇気。賢者からは「愚（おろ）か」だと笑われ、運命からは「死」をちらつかされても、それでも「一歩」を踏み出すその不テキさ。成功すれば（エピファニー）、それは英雄的行為（ヒーロー）と呼ばれ、失敗すればこの言葉のように「蛮勇」と記されます。その紙一重の境界線こそが、人生の最も熱い場所（スポット）なのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "崖っぷちから、下を見ずに飛び降りた瞬間の、あの。心臓が口から飛び出しそうな恐怖と。そして。自分を支配していた「理性」という名の鎖を、今、完全に引きちぎったという、野蛮な解放感。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "tem-",
+					"meaning": "dark"
+				}
+			],
+			"points": [
+				"Tenebrous（暗い）と同根。蛮勇とは、理性の光がない暗闇でこそ発揮される、原初的な暴力（バイタリティ）なのです。"
+			]
+		}
+	},
+	{
+		"id": "audacity",
+		"word": "Audacity",
+		"meaning": "大胆さ、不敵さ、図太さ、勇気ある行動",
+		"era": "Mid-15th Century",
+		"etymology": {
+			"components": [
+				"audere (to dare / attempt / be bold)"
+			],
+			"original_statement": "From Latin audacia 'courage / daring / audacity', from audax 'bold / daring', from audere 'to dare'."
+		},
+		"concept": "The daring spirit (既存の境界線や恐怖を「ものともせず」、自らの「意志（デアー」」を刀のように振るって、未知の領域へと切り込んでいく、能動的な不敵さ)",
+		"thinking": "「大胆さ（オーダシティ）」のルーツは「敢えてすること（あえて・する）」にあります。テメリティ（蛮勇）が「盲目的」なら、このオーダシティは「確信犯（プロ）」としての不敵さを感じさせます。あなたが自分を否定し続ける世界に対して、あえて「私はこうだ」とオーダシティ（大胆）に宣言するとき、そこにはどんな論理的な反論（ディベート）も寄せ付けない、圧倒的な「存在の権利」が宿るのです。",
+		"part_of_speech": "noun",
+		"aftertaste": "静まり返った会議で、あえて「違う」と声を上げたあとの、あの不穏な、しかし清々（すがすが）しい空気。自分が世界の「中心」を一気に奪い取ったという、峻烈な権威感（マスタリー）。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "au-",
+					"meaning": "to favor / desire / set out"
+				}
+			],
+			"points": [
+				"Auditory（聴覚の）とは別語根であり、むしろ Avarice（貪欲）と同じく、何かを『強く求める（渇望）』エネルギーから生まれた言葉です。"
+			]
+		}
+	},
+	{
+		"id": "pusillanimous",
+		"word": "Pusillanimous",
+		"meaning": "小心な、臆病な、魂の小さい、意気地のない",
+		"era": "Late 14th Century",
+		"etymology": {
+			"components": [
+				"pusillus (very small / weak)",
+				"animus (spirit / soul / mind)"
+			],
+			"original_statement": "From Late Latin pusillanimis 'very small-spirited / petty', from pusillus 'very small' + animus 'spirit'."
+		},
+		"concept": "The petty soul (宇宙という名の広大なキャンバスに対して、自らの「魂(anim-)」を「極小(pusill-)」にまで縮こませ、変化や衝撃からただ隠れようとしている、寂しい収縮の状態)",
+		"thinking": "「小心（ピュシラニマス）」という言葉の、最も残酷な美点は「魂のサイズ」に言及していることです。それは単なる「怖い」ではなく、世界を受け入れる器（コンテナ）が小さくなってしまっている状態。しかし、その小ささは、かつて受けた傷を必死で守ろうとした結果かもしれません。自分を小さくして、誰も入ってこられない「点（ゼロ）」になろうとする、孤独な防衛戦。 ",
+		"part_of_speech": "adjective",
+		"aftertaste": "「はい」と言うべき時に、喉の奥に言葉が詰まり、身を屈（かが）めてその場が過ぎ去るのを待つ、あの。自分の魂が、砂粒（ダスト）のように小さく、薄汚れてしまったかのように感じる、冷たい自己嫌悪。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "pau-",
+					"meaning": "few / little"
+				},
+				{
+					"term": "ane-",
+					"meaning": "to breathe (animus)"
+				}
+			],
+			"points": [
+				"Magnanimous（寛大な／魂の大きい）の完全な対極。人生の目的は、このプシラニムスな『点』から、宇宙まで魂の呼吸を広げることにあります。"
+			]
+		}
+	},
+	{
+		"id": "malignant",
+		"word": "Malignant",
+		"meaning": "極めて有害な、悪意に満ちた、(病気が)悪性の、浸食するような悪",
+		"era": "Mid-16th Century",
+		"etymology": {
+			"components": [
+				"malus (bad)",
+				"gignere (to beget / produce)"
+			],
+			"original_statement": "From Late Latin malignantem, from malignare 'to act spitefully', from malus 'bad' + gignere 'to produce'."
+		},
+		"concept": "Producing evil (単なる「悪い事象」ではなく、それ自体が「悪(mal-)」を絶え間なく「産み出し(gign-)」、周囲の健康なものを次から次へと自分と同じ「腐敗」へと引きずり込んでいく、能動的な災厄)",
+		"thinking": "マリグナント（悪性）。それは、単にそこにある「不全」ではなく、周囲を「侵略（インベイド）」しようとする意志を持った悪です。あなたが誰かから放たれる「マリグナント（悪意ある）」視線を感じるとき、それはあなたの存在そのものを「損（そこ）なう（ダメージ）」ために、能動的に放たれた暗い電波（シグナル）。この悪から身を守る唯一の方法は、自分の「光（ルミナリー）」を最大出力にし、その境界線（ボーダー）を死守することなのです。",
+		"part_of_speech": "adjective",
+		"aftertaste": "黒いインクが、白い布の上にじわりと広がっていくような。逃げようとしても、いつの間にか自分の足元までそれが浸食（エロージョン）してきている、あの。ゾッとするような不可避な「汚染」の予感。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "mel-",
+					"meaning": "bad / false"
+				},
+				{
+					"term": "gene-",
+					"meaning": "to give birth / beget"
+				}
+			],
+			"points": [
+				"Malice（悪意）と Genesis（誕生）を組み合わせた、最も『呪われた』創造の言葉です。"
+			]
+		}
+	},
+	{
+		"id": "iniquitous",
+		"word": "Iniquitous",
+		"meaning": "極めて不公平な、邪悪な、不道徳な、不当な",
+		"era": "Late 16th Century",
+		"etymology": {
+			"components": [
+				"in- (not)",
+				"aequus (equal / even / just)"
+			],
+			"original_statement": "Formed in English from iniquity, from Old French iniquite, from Latin iniquitas 'injustice / unfairness', from in- 'not' + aequus 'equal'."
+		},
+		"concept": "The loss of balance (世界の「秤（はかり）」が、不純な「意志」によって不当に「歪（ゆが）められ(aequ-じゃない)」、正しい「均衡（バランス）」という名の聖なる法が踏みにじられている、歪曲された現実)",
+		"thinking": "「不道徳（イニクイタス）」という言葉のルーツは「等しくないこと」にあります。それは、命の重さや、分け与えられるべき富が、誰かのエゴによって「傾いている（バイアス）」状態。あなたがこの「イニクイタス（不当）」な状況に腹を立てるとき、あなたの心の中の「秤（スケール）」が、宇宙の真の「公平さ（アイクイタス）」を求めて激しく鳴動（めいどう）しているのです。正義とは、その秤を「平行」に戻そうとする、魂の筋力（アレテ）のことです。",
+		"part_of_speech": "adjective",
+		"aftertaste": "片方の皿が地面に叩きつけられ、もう片方が天にまで浮き上がっている、あの。歪（いびつ）で、見ていて吐き気がするような、暴力的な「不条理（アブサード）」感。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "aikw-",
+					"meaning": "even / level"
+				}
+			],
+			"points": [
+				"Equality（平等）や Equation（方程式）の反対語。美しさはバランスから生まれる、という直観の裏返しとしての『醜い悪』です。"
+			]
+		}
+	},
+	{
+		"id": "pious",
+		"word": "Pious",
+		"meaning": "信心深い、敬虔（けいけん）な、家族愛のある、一途な",
+		"era": "Early 15th Century",
+		"etymology": {
+			"components": [
+				"pius (dutiful / devout / conscientious / tender)"
+			],
+			"original_statement": "From Latin pius 'dutiful / devout / kind / conscientious'."
+		},
+		"concept": "The tender duty (神や運命、あるいは自分の「親（ルーツ）」に対する、義務感を超えた、柔らかくて「温かい(pius)」深い感謝と、それゆえの「不屈の誠実さ」)",
+		"thinking": "「パイアス（敬虔）」という言葉は、宗教的な意味を持っていますが、その真の温度は「家族の情愛」にあります。それは、自分を産（う）み、守ってくれた大きな「流れ」に対して、自分もまた「一部」として応えようとする、魂の「呼吸（スピリット）」。あなたがパイアスな祈りを捧げるとき、そこには「見返り」を求めない、純粋な「肯定（イエス）」と、自己をより大きなものに委ねる、静かな「官能（プレジャー）」が同居しています。",
+		"part_of_speech": "adjective",
+		"aftertaste": "ロウソクの火を見つめながら、遠い祖先（あるいは神）の体温を感じるような、あの。世界は孤独ではなく、自分は「見守られている」という、揺るぎない確信と深遠な沈黙。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "peu-",
+					"meaning": "to purify / cleanse"
+				}
+			],
+			"points": [
+				"Pure（純粋な）や Purgatory（煉獄／清める場所）と同根。敬虔であることは、心から『濁り（エゴ）』を洗い流すことなのです。"
+			]
+		}
+	},
+	{
+		"id": "impious",
+		"word": "Impious",
+		"meaning": "不敬な、神をも恐れぬ、冒涜的な、不孝な、無慈悲な",
+		"era": "Late 14th Century",
+		"etymology": {
+			"components": [
+				"in- (not)",
+				"pius (dutiful / devout)"
+			],
+			"original_statement": "From Latin impius 'without reverence / wicked', from in- 'not' + pius."
+		},
+		"concept": "The denial of roots (自分を支えている「根源(pius)」への「感謝（リスペクト）」という名の「繋がり」を、自らのエゴの刃で「断ち切り(in-)」、世界という舞台で「孤独な王（ピュア・エゴ）」として振る舞うこと)",
+		"thinking": "インパイアス（不敬）な行為。それは。神を呪うことである以上に、自分の「源流（ソース）」を汚す行為です。何も信じず、誰にも頼らず、ただ「今、ここ」の自分の利益だけを法とする。それは究極の「自由（フリーダム）」に見えますが、同時に、宇宙という巨大な「家族（アイオーン）」からの、最も悲しい「勘断（カット）」でもあるのです。不敬な魂は、どれほど高く飛んでも、根を持たないがゆえに、いつか「真空（バキューム）」に呑み込まれて消える運命にあります。",
+		"part_of_speech": "adjective",
+		"aftertaste": "聖なる泉に唾（つば）を吐き捨て、その瞬間に、自分の心の中の「泉」もまた一気に干（ひ）上がってしまったことに気づく、あの。乾ききった、ザラザラとした「虚脱（ボイド）」の感覚。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "peu-",
+					"meaning": "to purify"
+				}
+			],
+			"points": [
+				"Pity（哀れみ）はこの pious と同じ根から生まれました。不敬な者には、この世界を『哀れむ』力さえも、もはや残されていないのかもしれません。"
+			]
+		}
 	}
 ];
