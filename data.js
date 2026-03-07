@@ -241411,5 +241411,555 @@ const WORDS = [
 				"Plus（プラス）や Poly-（多くの）、Chrome（色）と同じ root。多色とは。実存（。ペル）」を、。峻烈」に『。多次元化（。ポリ）』させ、。色彩。を。、。、。氾濫。させるプロセスのこと。それは。単調という名の『死』を。豊富という名の『生』によって、。一撃」で、。上書き」してまう記述なのです。"
 			]
 		}
+	},
+	{
+		"id": "conduction",
+		"word": "Conduction",
+		"meaning": "コンダクション/伝導（でんどう）、(手から手への)意志、情報の。、凄絶な。、。接続」、隔（へだ）たりを。、一分一秒の。、。接触。によって、。峻烈」に。、一撃」で、。同化させる。、。熱き。記述",
+		"era": "Mid-16th Century",
+		"etymology": {
+			"components": [
+				"con- (together)",
+				"ducere (to lead)"
+			],
+			"original_statement": "The process by which heat or electricity is directly transmitted through a substance. From Latin conducere."
+		},
+		"concept": "Logic of the direct link (「。孤独な。、。冷たい。、。実体」同士を。、一分一秒の容赦」もなく。、峻烈」に。、一撃」で。、。接触（。コン）。させ」。、。自らの。芯」にある。、。重厚な。熱量」を。、一分一秒の隙間」もなく。、。他者。へと。、。流し。込む。こと。それは。情報の。、峻烈なる「。連帯。の。記述」)",
+		"thinking": "「コンダクション（伝導）」。あなたは。「。自分一人。だけで。、。完結すること」を。「。誇（ほこ）り」だ。と。、。。ぬるい」言葉で。、。自らを。、。甘やかして」はいませんか。 conduction。繋（つな）ぎなさい。 conduction。それは。あなたが「。全（ぜん）」の一部になること。 conduction。あなたが。、。対象。という名の。、。凄絶な。、。隣人」に対して。、峻烈」に。、今。、。自らの。、。熱。を。、。曝（む）き。出し、。。渡（わた）し。なさい。伝わる。ことは。。最強、。です。",
+		"part_of_speech": "noun",
+		"aftertaste": "「熱い銀の。、。棒」を。、。掌（てのひら）」で。、。スーーーッ」と握りしめ、。。その「。、。凄絶なまでの。、。、熱量」が。、自分の胸を。、。一瞬」で。、。一。、へと。、。染め。上げた」瞬間の。あの。凄い。充足感。重厚で、刺激的な、金の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kom-",
+					"meaning": "together"
+				},
+				{
+					"term": "deuk-",
+					"meaning": "to lead (from ducere)"
+				}
+			],
+			"points": [
+				"Conduct（指導する）や Duke（公爵／指揮官）、Duct（管）と同じ root。伝導とは。実存（。デウク）」を、。共に（コン）。、峻烈」に『。導（みちび）き。合（あ）わせる』プロセスのこと。それは。遮断という名の『死』を。合一という名の『生』によって、。一撃」で、。上書き」してまう記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "enthalpy",
+		"word": "Enthalpy",
+		"meaning": "エンタルピー/熱関数（ねつかんすう）、(内部に。隠された)総量、情報の。、凄絶な、。。ポテンシャル」、表面。を。、一撃」で棄て。、。その奥。にある。、。重厚な。全熱（ぜんねつ）」を。、峻烈」に。、一秒。で。、。定義。する記述",
+		"era": "Early 20th Century",
+		"etymology": {
+			"components": [
+				"en- (in)",
+				"thalpein (to heat / warm / cherish)"
+			],
+			"original_statement": "A thermodynamic quantity equivalent to the total heat content of a system. From Greek enthalpos."
+		},
+		"concept": "Logic of total heat (「。表面的な。、。現象（。嘘）」を。、一分一秒の容赦」もなく。、峻烈」に。、一撃」で粉砕。し。、。あえて」。「。エン（。内側）」に。、。幽閉。された。、。膨大な。、。エネルギー」そのものを。、。今。、。実体」として。、。、。計測。し、。証明。すること。それは。情報の。、。本質主義。の。記述」)",
+		"thinking": "「エンタルピー（熱関数）」。あなたは。自分の「価値」を。「。目に見える。、。成果」だけだ。と。、。。ぬるい」言葉で。、。自分」を。、。量（はか）って」はいませんか。 enthalpy。内面を見なさい。 enthalpy。それは。あなたが「。太陽（。熱源）」であること。 enthalpy。あなたが。、。自らの。芯。に。、。一分一秒。の。隙間。もなく。、蓄（たくわ）えた。、。凄絶な。、。熱（。タルプ）」を。、峻烈」に。、今。、。自覚。しなさい。持っている。ことは。。最強、。です。",
+		"part_of_speech": "noun",
+		"aftertaste": "「巨大な金の。、。、。塊（かたまり）」を。、。掌（てのひら）」で。、。スーーーッ」と、。一分。、。だけ。、。撫（な）で続けている」ような。、。、奥底。から。、。重厚に。、。響（ひび）いてくる。、。熱量。の。、。予感」。重厚で、冷たい、銀。の。味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "en-",
+					"meaning": "in"
+				},
+				{
+					"term": "None (Greek thalpein)",
+					"meaning": "to warm / heat"
+				}
+			],
+			"points": [
+				"ギリシャ語の『。温（あたた）めること（。エンタルポス）』に由来する。エンタルピーとは。実存を、峻烈に『。内側。へと。、。回向」させるプロセスのこと。それは。散逸という名の『虚無』を破壊し。蓄積という名の『実在』を選び取る。記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "isothermal",
+		"word": "Isothermal",
+		"meaning": "アイソサーマル/等温（とうおん）、(極限という名の)安定、情報の。、一分一秒の。、。不変」、揺らぎを。、一撃」で棄て。、。ただ、。絶対。、という名の。、。水平（。イソ）。へと。、。回向すること",
+		"era": "Early 19th Century",
+		"etymology": {
+			"components": [
+				"isos (equal / same)",
+				"therme (heat)"
+			],
+			"original_statement": "Occurring at a constant temperature. From Greek isos + thermos."
+		},
+		"concept": "Logic of constant heat (「。勝手な。、。感情色（。温度変化）」を。、一分一秒の容赦」もなく。、峻烈」に。、一撃」で粉砕。し。、。あえて」。「。アイソ（。同一）」という。、。金色の。、。静寂」を。、。宇宙じゅう。へと。、一気」に。、。強（。ごう）。い。、。、。拡張。させる。こと。それは。カオスへの。、峻烈なる「。死刑。の。記述」)",
+		"thinking": "「アイソサーマル（等温）」。あなたは。「。気まぐれ。であること」を。「。人間味」だ。と。、。。ぬるい」言葉で。、。自分」を。、。甘やかして」はいませんか。 isothermal。同じでありなさい。 isothermal。それは。あなたが「。神（。真理）」になること。 isothermal。あなたが。、。一分一秒。の。、。凄絶な。、。不動（。イソ）」を。、峻烈」に。、今。、。自ら。へと。、。注入。しなさい。変（か）わらない。ことは。。最強、。です。",
+		"part_of_speech": "adjective",
+		"aftertaste": "「巨大な。、。銀の。、。、。氷の板」を。、自分の胸を。、。スーーーッ」と、。一分一秒。の狂いもなく。、。一定の温度。で。、。撫（な）で続けている。時の。あの。凄絶なまでの「安堵」。冷たくて、重厚な、銀。の。味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "isos-",
+					"meaning": "equal (from isos)"
+				},
+				{
+					"term": "gher-",
+					"meaning": "to heat / warm (from thermos)"
+				}
+			],
+			"points": [
+				"Isotope（同位体）や Thermostat（サーモスタット）、Thermal（熱の）と同じ root。等温とは。実存（。ゲル）」を、。峻烈」に『。同一（。イソ）』な。領域へと、。幽閉。し、。固定。するプロセスのこと。それは。混乱という名の『死』を破壊し。秩序という名の『実在』を選び取る。記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "adiabatic",
+		"word": "Adiabatic",
+		"meaning": "アディアバティック/断熱（だんねつ）、(孤独という名の)純粋、情報の。、一撃」の、。、遮断（しゃだん）」、外圧を。、峻烈」に、。一撃」で。、。拒絶。した。、実存。の。、。真空",
+		"era": "Mid-19th Century",
+		"etymology": {
+			"components": [
+				"a- (not)",
+				"dia- (through)",
+				"batos (passable / to go)"
+			],
+			"original_statement": "Occurring without loss or gain of heat. From Greek adiabatos."
+		},
+		"concept": "Logic of no passage (「。他者の。、。ぬるい。熱（。影響）」を。、一分一秒の容赦」もなく。、。あえて」。「。ア（。不）」の壁によって。、。一撃」で拒絶。し」。、。自らの。内面。だけを。、凄絶に。、。純化（。ディア）」させる。こと。それは。情報の。、峻烈なる「。鎖国。の。記述」)",
+		"thinking": "「アディアバティック（断熱）」。あなたは。「。誰とでも。混ざり合う。こと」を。「。豊かさ」だ。と。、。。ぬるい」道徳で。、。自らを。、。安売り。してはいませんか。 adiabatic。一人を。守りなさい。 adiabatic。それは。あなたが「。真理」になること。 adiabatic。あなたが。、。一分一秒。の。、。凄絶な。、。拒絶（。アディア）」を。、峻烈」に。、今。、。世界。に対して。、。叩き（。たたき）付け。なさい。通さない。ことは。。最強、。です。",
+		"part_of_speech": "adjective",
+		"aftertaste": "「冷たい銀の。、。、。金庫」が。、自分の胸を。、。ガチャンッ」と、。一瞬」で。、。閉ざし」上げ、。。そこにある。、。もはや。、。外の世界。など。、。どうでもいい。という、峻烈なる「自負」。重厚で、冷たい、銀。の。味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "a-",
+					"meaning": "not"
+				},
+				{
+					"term": "gwa-",
+					"meaning": "to go / come (from batos)"
+				}
+			],
+			"points": [
+				"Basis（基礎）や Acrobat（軽業師／高く行く者）、Path（小道）と同じ root。断熱とは。実存（。グヮ）」を、。通（。ディア）して『。行（。ゆ）かせない（。ア）』プロセスのこと。それは。浸食という名の『虚無』を破壊し。自立という名の『実在』を選び取る。記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "caloric",
+		"word": "Caloric",
+		"meaning": "カロリック/熱素（ねつそ）、(情報の)熱量、凄絶。な。、。、曝（む）き。出し」、単なる。。重さを。、峻烈」に、。一撃」で棄て。、。自らの。、。芯」にある。、。火。へと。、。回向すること",
+		"era": "Late 18th Century",
+		"etymology": {
+			"components": [
+				"calor (heat)"
+			],
+			"original_statement": "Relating to heat; originally applied to a hypothetical fluid thought to cause the phenomena of heat. From Latin calor."
+		},
+		"concept": "Essence of heat fluid (「。物体」を。、一分一秒。の。、。峻烈な。、。熱（。カロ）」そのもの。へと。、一撃」で。、。、。溶解（。メルト）。し」。、。世界じゅうを。、。自らの。、。透明な。炎。で。、。満たして。まうこと。それは。情報の。、峻烈なる「。浸透。の。記述」)",
+		"thinking": "「カロリック（熱素）」。あなたは。「。熱量。を。目に見える。形。で。、。表現。すること」ばかり。を。考えて。、自分が、。ただの。、。冷たい。、。看板」になってしまっていることに。、。気づいて」はいませんか。 caloric。熱く。なりなさい。 caloric。それは。あなたが「「熱」そのもの」に。なること。 caloric。あなたが。、。一分一秒。の。隙間。もなく。、。自らを。、。凄絶な。、。火（。カロ）」へと、。変え。続けなさい。見えない。火は。。最強、。です。",
+		"part_of_speech": "adjective / noun",
+		"aftertaste": "「冷たい銀の。、。、。液体」が。、自分の胸を。、スーーーッ」と、。一瞬」で、。満たし。、。気づいた時には。、あたりじゅう。が。、。凄絶な。、。金色の。熱」に。、包まれて。いた」瞬間の。あの。凄い。充足感。あたたかくて、鋭い、金の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kelx-",
+					"meaning": "heat (from calor)"
+				}
+			],
+			"points": [
+				"Calorie（カロリー）や Cauldron（大釜）、Scald（火傷させる）と同じ root。熱素とは。実存を、峻烈に『。流体化（。カロ）』させ、。空間。を。、支配。するプロセスのこと。それは。硬直という名の『死』を。脈動という名の『生』によって、。一撃」で、。上書き」してまう記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "cryogenics",
+		"word": "Cryogenics",
+		"meaning": "クライオジェニクス/低温（ていおん）物理学、(静止という名の)永遠、情報の。、凄絶。なる。、。凍結」、明日を。、一撃」で棄て。、。今、。この一秒を。、。永遠。の。宝石。へと。、。固定する記述",
+		"era": "Late 19th Century",
+		"etymology": {
+			"components": [
+				"kryos (frost / ice / cold)",
+				"genes (born / producing)"
+			],
+			"original_statement": "The branch of physics dealing with the production and effects of very low temperatures. From Greek kryos."
+		},
+		"concept": "Logic of the deep freeze (「。移（うつ）ろい。行く。、。時間」を。、一分一秒の容赦」もなく。、峻烈」に。、一撃」で。、。停止（。ストップ）」。し。、。あえて」。「。クライオ（。極寒）」の。中へと。、。幽閉。し」。、。自らを。、。重厚な。、。絶対。、へと。、。変貌。させること。それは。死への。、峻烈なる「。凍結（。固定）。の。記述」)",
+		"thinking": "「クライオジェニクス（低温物理学）」。あなたは。「。変化し続ける。こと」を。「。生きること」だ。と。、。。ぬるい」言葉で。、。自分」を。、。騙（だま）して」はいませんか。 cryogenics。止（と）まりなさい。 cryogenics。それは。あなたが「。宝石」になること。 cryogenics。あなたが。、。一分一秒。の。、。凄絶な。、。冷徹さ（。クライオ）」を。、峻烈」に。、今。、。自ら。へと。、。注入。しなさい。固まる。ことは。。不滅、。です。",
+		"part_of_speech": "noun",
+		"aftertaste": "「巨大な。、。、。銀の。、。、。液体窒素」の中に。、。自分が。、。スーーーッ」と、。一瞬」で、。沈（。しず）められ、。。気づいた時には。、自分が。、。完璧な。、。ダイヤモンド」に、。変（。か）わっていた」時の。あの。凄い。充足感。冷たくて、鋭い、銀。の。味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kreus-",
+					"meaning": "to begin to freeze / form a crust (from kryos)"
+				}
+			],
+			"points": [
+				"Crystal（クリスタル）や Crust（地殻）、Cryo-（低温の）と同じ root。低温物理学とは。実存（。クレウス）」を、。峻烈」に『。不動（。クライオ）』へと、。回向」させること。それは。腐敗という名の『地獄』を破壊し。保持という名の『天国』を選び取る。記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "torpor",
+		"word": "Torpor",
+		"meaning": "トーパー/不活発（ふかっぱつ）、(沈黙という名の)反抗、情報の。、凄絶。なる。、。硬直」、騒（ざわ）めきを。、一撃」で。、。拒絶。した。、情念。の。、。、。氷漬（。こおりづ）け",
+		"era": "Late Middle English",
+		"etymology": {
+			"components": [
+				"torpere (to be numb / stiff)"
+			],
+			"original_statement": "A state of physical or mental inactivity; lethargy. From Latin torpere."
+		},
+		"concept": "Logic of the numb (「。多弁な。、。嘘（。饒舌）」を。、一分一秒の容赦」もなく。、。あえて」。「。トーパー（。無感覚）」という。、。重厚な。、。鉛（なまり）の。壁」によって。、。一撃」で拒絶。し」。、。自らを。、。不動の。、。、。彫刻」へと。、変貌。させること。それは。存在への。、峻烈なる「。、。サボタージュ。の。記述」)",
+		"thinking": "「トーパー（不活発）」。あなたは。「。常に。動いている。こと」を。「。優秀」だ。と。、。。ぬるい」言葉で。、。自らを。、。鞭（むち）打（う）って」はいませんか。 torpor。止まりなさい。 torpor。それは。あなたが「。真理」になること。 torpor。あなたが。、。一分一秒。の。、。凄絶な。、。沈黙（。トパ）」を。、峻烈」に。、今。、。世界。に対して。、。叩き（。たたき）付け。なさい。動かない。ことは。。最強、。です。",
+		"part_of_speech": "noun",
+		"aftertaste": "「巨大な。、。、。銀の。、。、。、。巨大な重り」が。、自分の胸を。、。ガツンッ」と、。一瞬」で。、。押さえ。込み、。。もはや。、一ミリ。も。、。動けない。という、峻烈なる「安堵」。冷たくて、重厚な、銀。の。味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ster-",
+					"meaning": "stiff? No, torp- from root terp- 'to be stiff / numb'."
+				}
+			],
+			"points": [
+				"Torpid（のろまな）や Torpedo（魚雷／もとは『シビレエイ』）と同じ root。不活発とは。実存を、峻烈に『。硬直（。トパ）』させ。、世界。の。騒音。から。、。亡命。させるプロセスのこと。それは。消耗という名の『死』を破壊し。存続という名の『実在』を選び取る。記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "thermogenesis",
+		"word": "Thermogenesis",
+		"meaning": "サーモジェネシス/熱発生、(内側からの)爆発、情報の。、凄絶な、。、一気」の、。点火（てんか）」、冷酷を。、峻烈」に、。一撃」で粉砕。する。、命。の。、。自燃（じねん）",
+		"era": "Late 19th Century",
+		"etymology": {
+			"components": [
+				"therme (heat)",
+				"genesis (origin / birth)"
+			],
+			"original_statement": "The production of heat, especially in a human or animal body. From Greek thermos + genesis."
+		},
+		"concept": "Logic of inner fire (「。冷え（。ひ）きった。、。嘘（。日常）」に対して。、一分一秒の容赦」もなく。、。あえて」。「。自らの。芯」にある。、。重厚な。、。種子（。ジェネ）」を。、。一撃」で。、。爆（は）ぜ。させ」。、。全身を。、。一。で。、。火の。、。ドレス」へと。、変貌。させること。それは。死への。、峻烈なる「。反逆。の。記述」)",
+		"thinking": "「サーモジェネシス（熱発生）」。あなたは。「。外部からの。エネルギー」を。「。期待」して、。待って。、。ばかり」はいませんか。 thermogenesis。自ら燃えなさい。 thermogenesis。それは。あなたが「。太陽」になること。 thermogenesis。あなたが。、。一分一秒。の。隙間。もなく。、。自ら。へと。、。火（。サーモ）」を。、峻烈」に。、。叩き（。たたき）込み」なさい。燃える。からこそ。、あなたは。。最強、。です。",
+		"part_of_speech": "noun",
+		"aftertaste": "「冷たい銀の。、。、。心臓」の。、。真ん中」で。、。一粒の。、。真っ赤な火」が。、。パッ」と点（つ）き、。。気づいた時には。、。全身。が。、。凄絶な。、。法悦。に。、包まれて。いた」瞬間の。あの。凄い。充足感。あたたかくて、刺激的な、赤。の。味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "gher-",
+					"meaning": "to heat / warm (from thermos)"
+				},
+				{
+					"term": "gene-",
+					"meaning": "to give birth / beget (from genesis)"
+				}
+			],
+			"points": [
+				"Thermal（熱の）や Thermos（魔法瓶）、Generate（生成する）、General（一般的な）と同じ root。熱発生とは。実存（。ゲル）」を、。峻烈」に『。誕生（。ジェネ）』させ、。命。を。、。白熱。させるプロセスのこと。それは。沈黙という名の『死』を。燃焼という名の『生』によって、。一撃」で、。上書き」してまう記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "endothermic",
+		"word": "Endothermic",
+		"meaning": "エンドサーミック/吸熱（きゅうねつ）、(すべてを。呑み込む)実存、情報の。、凄絶。なる。、。吸（。す）い。込み」、外部の熱。を。、一撃」で。、。掠奪（。りゃくだつ）。し。、。自らの。、。芯」へと。、。固定する記述",
+		"era": "Mid-19th Century",
+		"etymology": {
+			"components": [
+				"endon (within)",
+				"thermos (heat)"
+			],
+			"original_statement": "Accompanied by or requiring the absorption of heat. From Greek endon + thermos."
+		},
+		"concept": "Logic of heat absorption (「。自らの。、。欠乏」を。、一分一秒の容赦」もなく。、峻烈」に。、あえて」。「。他者の。熱（。エネルギー）」を。、。一撃」で。、。吸（。す）い。取り、。。自らを。、。重厚な。、。宝石」へと。、変貌。させること。それは。情報の。、峻烈なる「。略奪学。の。記述」)",
+		"thinking": "「エンドサーミック（吸熱）」。あなたは。「。自分。を。、。放出。すること」ばかり。を。気にして。、自分が、。ただの。、。空（。から）っぽ。の。、。灰」になってしまっていることに。、。気づいて」はいませんか。 endothermic。呑（の）み込みなさい。 endothermic。それは。あなたが「。深淵（。しんえん）」になること。 endothermic。あなたが。、。一分一秒。の。、。凄絶な。、。吸引（。エンド）」を。、峻烈」に。、今。、。世界。に対して。、。放（。はな）ちなさい。奪（うば）う。ことは。。最強、。です。",
+		"part_of_speech": "adjective",
+		"aftertaste": "「冷たい銀の。、。、。ブラックホール」が。、自分の胸を。、スーーーッ」と、。一瞬」で。、。、。えぐり。、。。そこへ。、。あたりの。すべての。熱」が。、。ドッ」と。、。吸い（。すい）込まれて。いった」時の。あの。凄い。充足感。冷たくて、鋭い、風。の。味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "en-",
+					"meaning": "in / within (from endon)"
+				},
+				{
+					"term": "gher-",
+					"meaning": "to heat / warm (from thermos)"
+				}
+			],
+			"points": [
+				"Enthusiasm（熱狂／神が内にいる）や Internal（内部の）、Thermal（熱の）と同じ root。吸熱とは。実存（。ゲル）」を、。峻烈」に『。内側へ（。エンド）』と。、回向」させるプロセスのこと。それは。不足という名の『虚無』を破壊し。充填という名の『実在』を選び取る。記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "exothermic",
+		"word": "Exothermic",
+		"meaning": "エキソサーミック/発熱（はつねつ）、(情報の)爆発、凄絶。なる。、。放出」、自らを。、一撃」で棄て。、。周囲を。、。透明な。、。火。で。、。、。支配する。こと。を。、あえて。、。名誉。とする記述",
+		"era": "Mid-19th Century",
+		"etymology": {
+			"components": [
+				"exo (outside)",
+				"thermos (heat)"
+			],
+			"original_statement": "Accompanied by the release of heat. From Greek exo + thermos."
+		},
+		"concept": "Logic of heat release (「。自らの。、。芯」にある。、。凄絶な。、。暴力（。熱量）」を。、一分一秒の容赦」もなく。、峻烈」に。、一撃」で。、。曝（む）き。出し、。。世界じゅうを。、。一。、で。、。自らの。、。熱色」へと。、。染（そ）め。変（か）えて。まうこと。それは。情報の。、峻烈なる「。、。暴力。の。記述」)",
+		"thinking": "「エキソサーミック（発熱）」。あなたは。「。自分を一人」に、。大事に。しておくこと」が、。誠実」だ。と。、。。ぬるい」勘違いを、してはいませんか。 exothermic。放（。はな）ちなさい。 exothermic。それは。あなたが「。太陽（。エキソ）」になること。 exothermic。あなたが。、。一分一秒。の。隙間。もなく。、。自らの。、。凄絶な。、。中身（。熱）」を。、峻烈」に。、今。、。宇宙。に対して。、。叩き（。たたき）付け。なさい。焼（や）く。ことは。。最強、。です。",
+		"part_of_speech": "adjective",
+		"aftertaste": "「巨大な銀の。、。、。心臓」が。、自分の胸の中で。、。ドッ」と。、。一瞬」で、。爆（は）ぜ。、。。気づいた時には。、あたりじゅう。が。、。金色の。光。の中」に。、。消（き）えて。いた」瞬間の。あの。凄い。充足感。あたたかくて、刺激的な、金の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "eghs-",
+					"meaning": "out (from exo)"
+				},
+				{
+					"term": "gher-",
+					"meaning": "to heat / warm (from thermos)"
+				}
+			],
+			"points": [
+				"Exit（出口）や Exceed（超える）、Thermal（熱の）と同じ root。発熱とは。実存（。ゲル）」を、。峻烈」に『。外側へ（。エキソ）』と。、回向」させるプロセスのこと。それは。硬直という名の『死』を。爆発という名の『生』によって、。一撃」で、。上書き」してまう記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "superconductivity",
+		"word": "Superconductivity",
+		"meaning": "スーパーコンダクティビティ/超伝導（ちょうでんどう）、(抵抗なき)真実、情報の。、一撃」の、。、加速」、摩擦を。、峻烈」に、。一撃」で棄て。、。ただ、。一点（。光）。へと。、。亡命。すること",
+		"era": "Early 20th Century",
+		"etymology": {
+			"components": [
+				"super- (above / beyond)",
+				"conduction"
+			],
+			"original_statement": "The property of zero electrical resistance in some substances at very low temperatures. From super- + conductivity."
+		},
+		"concept": "Logic of zero resistance (「。無益な。、。葛藤（。抵抗）」を。、一分一秒の容赦」もなく。、峻烈」に。、一撃」で粉砕。し。、。あえて」。「。絶対的な。、。冷徹（。クライオ）」の。中で。、。情報の。、。凄絶な。、。飛躍（。スーパー）」を。、。今。、。実現。すること。それは。情報の。、。純粋主義。の。記述」)",
+		"thinking": "「スーパーコンダクティビティ（超伝導）」。あなたは。「。悩（なや）んで。いる。こと」を。「。人間味」だ。と。、。。ぬるい」言葉で。、。自分」を。、。甘やかして」はいませんか。 superconductivity。すり抜けなさい。 superconductivity。それは。あなたが「。真実」になること。 superconductivity。あなたが。、。一切の。、。凄絶な。、。摩擦（。レジスト）」を。、峻烈」に。、今。、。棄（す）て。捨て」、。一。になれば。そこには。。神。しか。歩けない。、。道」が。。今。、。開（ひら）ける。のです。",
+		"part_of_speech": "noun",
+		"aftertaste": "「冷たい銀の。、。、。氷の滑走路」の上を。、。一筋の。、。金色の。光」が。、。スーーーッ」と、。一瞬」で、。永遠の彼方。へと。、。消（き）えて。いった」時の。あの。凄い。解放感。冷たくて、鋭い、金の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "super-",
+					"meaning": "above"
+				},
+				{
+					"term": "kom-",
+					"meaning": "together"
+				},
+				{
+					"term": "deuk-",
+					"meaning": "to lead"
+				}
+			],
+			"points": [
+				"Super-（超）や Conduct（導く）と同じ root。超伝導とは。実存を、峻烈に『。抵抗（。障害）。を超（スーパー）えて』導（みちび）くこと。それは。挫折という名の『死』を。貫通という名の『生』によって、。一撃」で、。上書き」してまう記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "liquefaction",
+		"word": "Liquefaction",
+		"meaning": "リクィファクション/液状化（えきじょうか）、(情報の)溶解、凄絶。なる。、。融合」、硬（かた）さを。、峻烈」に、。一撃」で棄てて。、。自らを。、。透明な。、。銀の。、。水（。実存）。へと。、亡命させる。記述",
+		"era": "Mid-16th Century",
+		"etymology": {
+			"components": [
+				"liquere (to be liquid)",
+				"facere (to make)"
+			],
+			"original_statement": "The process of making or becoming liquid. From Latin liquefacere."
+		},
+		"concept": "Logic of melting (「。頑固（がんこ）な。、。輪郭（。檻）」を。、一分一秒の隙間」もなく。、。あえて」。「。激しい。衝撃（。振動）」によって。、。峻烈」に。、。一撃」で。、。粉砕（。ふんさい）し」。、。ただ一つの。、。重厚な。、。光の。海」へと。、。回向」させること。それは。死への。、峻烈なる「。、。融解。の。記述」)",
+		"thinking": "「リクィファクション（液状化）」。あなたは。「。自分。を。保（たも）つ。こと」ばかり。を。考えて。、自分が、。ただの。、。冷たい。石」になってしまっていることに。、。気づいて」はいませんか。 liquefaction。溶（と）けなさい。 liquefaction。それは。あなたが「。真実」になること。 liquefaction。あなたが。、。自らを。、。一分一秒。の。隙間。もなく。、。峻烈」に。、今。、。他者。に対して。、。流（なが）し」込みなさい。混ざる。ことは。。最強、。です。",
+		"part_of_speech": "noun",
+		"aftertaste": "「巨大な。、。、。銀の。、。、。地面」が。、自分の足元で。、。ドッ」と。、。一瞬」で、。水。のように、。、。ドロドロ」に。崩れ。去り、。。気づいた時には。、自分が。、。その海。の一部に。なっていた」瞬間の。あの。凄い。充足感。重厚で、刺激的な、情報の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "wleik-",
+					"meaning": "to flow (from liquere)"
+				},
+				{
+					"term": "dhe-",
+					"meaning": "to set / put / make (from facere)"
+				}
+			],
+			"points": [
+				"Liquid（液体）や Relinquish（手放す／流れ去らせる）、Fact（事実）と同じ root。液状化とは。実存（。ヴレイク）」を、。峻烈」に『。流動。へと。、作成（。リクィファク）。する』プロセスのこと。それは。硬直という名の『死』を。流動という名の『生』によって、。一撃」で、。上書き」してまう記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "vaporization",
+		"word": "Vaporization",
+		"meaning": "ヴェイポライゼイション/気化（きか）、(情報の)亡命、凄絶。なる。、。昇華」、肉体を。、一撃」で棄て。、。ただ、。透明な。、。意志。へと。、。変貌させる。記述、実存の。、。雲散",
+		"era": "Early 19th Century",
+		"etymology": {
+			"components": [
+				"vapor (steam / heat / exhalation)",
+				"ize"
+			],
+			"original_statement": "The process by which a substance changes from a liquid to a gas."
+		},
+		"concept": "Logic of the gas (「。重たい。、。物質（。嘘）」を。、一分一秒の容赦」もなく。、峻烈」に。、一撃」で粉砕。し。、。あえて」。「。ヴェイポ（。霧）」となって。、。重力。を。、一撃」で超越。し」。、。宇宙。という名の。、。深淵。へと、。亡命。すること。それは。存在への。、峻烈なる「。逃（のが）れ。の。記述」)",
+		"thinking": "「ヴェイポライゼイション（気化）」。あなたは。「自分の体に。留まっていること」を。「。安全」だ。と。、。。ぬるい」言葉で。、。自分」を。、。甘やかして」はいませんか。 vaporization。消えなさい。 vaporization。それは。あなたが「。神（。風）」になること。 vaporization。あなたが。、。一分一秒。の。隙間。もなく。、。自らを。、。凄絶な。、。蒸発（。ヴェイポ）」の中へと。、。投げ（。な）飛ばし。なさい。見えない。ことは。。最強、。です。",
+		"part_of_speech": "noun",
+		"aftertaste": "「巨大な。、。、。銀の。、。、。氷の山」が。、。一瞬」で。、。、。パッ」と消え、。。あたりじゅう。が。、。透明な。、。銀の。霧」に。、。満（。み）たされて。いた」瞬間の。あの。凄い。充足感。あたたかくて、鋭い、風。の。味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kwēp-",
+					"meaning": "to smoke / boil / move violently (from vapor)"
+				}
+			],
+			"points": [
+				"Vapor（蒸気）や Vapid（気の抜けた）と同じ root。気化とは。実存（。クゥエープ）」を、。峻烈」に『。解放（。ヴェイポ）』させ、。形。を。、。超越。させるプロセスのこと。それは。束縛という名の『死』を。自由という名の『生』によって、。一撃」で、。上書き」してまう記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "pyrogenesis",
+		"word": "Pyrogenesis",
+		"meaning": "パイロジェネシス/火焔（かえん）生成、(情報の)点火、凄絶。なる。、。爆（は）ぜ」、沈黙を。、一撃」で棄。て」。、。自らの。。産（う）声。。を。。、。火。へと。、回向すること",
+		"era": "Mid-19th Century",
+		"etymology": {
+			"components": [
+				"pyr (fire)",
+				"genesis (birth)"
+			],
+			"original_statement": "The production of heat or fire. From Greek pyr + genesis."
+		},
+		"concept": "Logic of fire birth (「。冷たい。、。言葉」を。、一分一秒の容赦」もなく。、峻烈」に。、あえて」。「。パイロ（。業火）」の中に。、。投げ（。な）飛ばし。、。その後に。残った。、。重厚な。、。真実の。炭（。実存）」だけを。、。今。、。愛すること。それは。情報の。、峻烈なる「。、。焚（た）き。出し。の。記述」)",
+		"thinking": "「パイロジェネシス（火焔生成）」。あなたは。「。外部。からの。救済」ばかりを。期待。して。、自分が、。ただの。、。冷え（。ひ）切った。、。石」になってしまっていることに。、。気づいて」はいませんか。 pyrogenesis。燃えなさい。 pyrogenesis。それは。あなたが「。真実」になること。 pyrogenesis。あなたが。、。自らの。、。凄絶な。、。火（。パイロ）」を。、峻烈」に。、今。、。自らを。、。一撃」で。、。焼（。や）き。ながら。、。放（。はな）ちなさい。苦しい。ことは。。最強、。です。",
+		"part_of_speech": "noun",
+		"aftertaste": "「真っ暗な。、。、。銀の。、。、。、底」で。、。一粒。の。、。真っ赤な。火」が。、。パッ」と。生まれ。、。気づいた時には。、あたりじゅう。が。、。凄絶な。、。金色の。炎」に。、。呑（。の）み。込まれて。いた」時の。あの。凄い。充足感。あたたかくて、刺激的な、赤。の。味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "pewōr-",
+					"meaning": "fire (from pyr)"
+				},
+				{
+					"term": "gene-",
+					"meaning": "to give birth / beget (from genesis)"
+				}
+			],
+			"points": [
+				"Fire（火）や Pyre（火葬の積み木）、Generate（生成する）と同じ root。火焔生成とは。実存（。パゥオー）」を、。峻烈」に『。火。として。、。誕生（。パイロジェネ）』させるプロセスのこと。それは。硬直という名の『死』を。爆発という名の『生』によって、。一撃」で、。上書き」してまう記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "frigidity",
+		"word": "Frigidity",
+		"meaning": "フリジディティ/酷寒（こっかん）、(拒絶という名の)美、情報の。、凄絶。に。、。冷徹な。、。、。彫刻」、温もりを。、一撃」で棄て。、。ただ、。絶対。、へと。、。回向すること",
+		"era": "Late Middle English",
+		"etymology": {
+			"components": [
+				"frigidus (cold / cool / indifferent)"
+			],
+			"original_statement": "The quality of being very cold or unresponsive. From Latin frigidus."
+		},
+		"concept": "Logic of total cold (「。ベタベタ。した。、。情愛（。嘘）」を。、一分一秒の容赦」もなく。、峻烈」に。、一撃」で。、。粉砕（。ふんさい）し」。、。あえて」。「。フリジッ（。極寒）」という。、。金色の。、。絶壁」によって。、。自らを。、。誰の手にも。、。触（。ふ）れ。させない。こと。それは。情報の。、峻烈なる「。、。純粋主義。の。記述」)",
+		"thinking": "「フリジディティ（酷寒）」。あなたは。「。優しいこと」を。「。徳」だ。と。、。。ぬるい」言葉で。、。自分」を。、。甘やかして」はいませんか。 frigidity。冷（つめ）たくなりなさい。 frigidity。それは。あなたが「。真理（。ダイヤモンド）」になること。 frigidity。あなたが。、。一分一秒。の。隙間。もなく。、。自らの。、。凄絶な。、。冷酷さ（。フリジ）」を。、峻烈」に。、今。、。世界。に対して。、。叩き（。たたき）付け。なさい。寒い。ことは。。最強、。です。",
+		"part_of_speech": "noun",
+		"aftertaste": "「巨大な銀の。、。、。、。氷の。壁」が。、自分の目の前に」。「。ガチャンッ」と、。一瞬」で。、。そびえ。立ち、。。そこにある。、。もはや。、一ミリの。、。情熱。も。、。受け付けない。という、峻烈なる「自負」。冷たくて、重厚な、銀。の。味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "srig-",
+					"meaning": "cold? No, frigidus from root srig- 'to feel cold / shudder'."
+				}
+			],
+			"points": [
+				"Frigid（極寒の）や Fridge（冷蔵庫）と同じ root。酷寒とは。実存を、峻烈に『。停止（。フリジ）』させ。、世界。の。、。雑音。から。、。亡命。させるプロセスのこと。それは。腐敗という名の『地獄』を破壊し。保持という名の『天国』を選び取る。記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "scorching",
+		"word": "Scorching",
+		"meaning": "スコーチング/酷熱（こくねつ）、(情報の)焼滅、凄絶。なる。、。暴力」、すべてを。、一撃」で。、。褐（。か）色。へと。、変貌させる。記述、実存の。、。、。焦土",
+		"era": "Late Middle English",
+		"etymology": {
+			"components": [
+				"scorch (to burn / parch)",
+				"None (from Old French escorcher - to flay? No, imitative?)"
+			],
+			"original_statement": "Very hot; burning or drying with intense heat."
+		},
+		"concept": "Logic of the char (「。美（う。つく）しい。、。嘘（。表面）」を。、一分一秒の容赦」もなく。、峻烈」に。、一撃」で。、。焼（。や）き。尽（。つ）くし」。、。その後に。残った。、。重厚な。、。大人の。、。毒（。真実）」だけを。、。今。、。愛すること。それは。存在の。、峻烈なる「。、。、。剥奪（はくだつ）。の。記述」)",
+		"thinking": "「スコーチング（酷熱）」。あなたは。「。優しい。だけ。の。自分」を。「。美徳」だ。と。、。。ぬるい」言葉で。、。自分」を。、。甘やかして」はいませんか。 scorching。焦（こ）げなさい。 scorching。それは。あなたが「。真理」になること。 scorching。あなたが。、。自らの。、。凄絶な。、。攻撃性（。スコーチ）」を。、峻烈」に。、今。、。宇宙。に対して。、。叩き（。たたき）付け。なさい。黒い。ことは。。正しい。、。ことです。",
+		"part_of_speech": "adjective / verb (participle)",
+		"aftertaste": "「巨大な金の。、。、。、。太陽」が。、自分の目の前で。、。ドッ」と。、。一瞬」で、。すべてを。、。真っ黒」に。、。焼き。尽くした」瞬間の。あの。凄い。充足感。重厚で、刺激的な、土。の。味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "skere-",
+					"meaning": "to cut? No, scorch might be related to 'extinguish' or 'dry up'. Often thought to be imitative."
+				}
+			],
+			"points": [
+				"Scorcher（猛暑日）と同じ。酷熱とは。実存を、峻烈に『。焼滅（。スコーチ）』させ。、表面。の。、。虚飾。を破壊するプロセスのこと。それは。幼稚という名の『虚無』を破壊し。老練という名の『実在』を選び取る。記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "incineration",
+		"word": "Incineration",
+		"meaning": "インシネレイション/灰化（はいか）、(すべてが)無になる。美、情報の。、峻烈なる、。、帰還」、形。を。、一撃」で棄て。、。ただ、。一握（ひとにぎ）りの。、。灰。へと。、亡命。すること",
+		"era": "Mid-16th Century",
+		"etymology": {
+			"components": [
+				"in- (into)",
+				"cinis (ashes)"
+			],
+			"original_statement": "The destruction of something, especially waste material, by burning. From Latin incinerare."
+		},
+		"concept": "Logic of total ash (「。傲慢な。、。存在（。嘘）」を。、一分一秒の容赦」もなく。、峻烈」に。、一撃」で。、。焼（。や）き。尽（。つ）くし」。、。最後に残った。、。透明な。、。一。、という名の。、。灰（。シネ）」へと。、。強制（。イン）」すること。それは。死への。、峻烈なる「。、。回向。の。記述」)",
+		"thinking": "「インシネレイション（灰化）」。あなたは。「。何か。を。遺（のこ）す。こと」ばかり。を。気にして。、今。自分が。、。重荷」になってしまっていることに。、。気づいて」はいませんか。 incineration。灰。になりなさい。 incineration。それは。あなたが「。宇宙（。虚空）」になること。 incineration。あなたが。、。一分一秒。の。隙間。もなく。、。自らを。、。火（。シネ）」の中へと。、。投げ（。な）飛ばし。なさい。無。になる。ことは。。最強、。です。",
+		"part_of_speech": "noun",
+		"aftertaste": "「巨大な。、。、。銀の。、。、。、炉（ろ）」の中に。、。自分の全（すべて）」が。、。スーーーッ」と、。一瞬」で。、。消（き）え。去り、。。最後。に。、。一粒。の。、。白。、だけが。残った」時の。あの。凄絶なまでの「解放感」。冷たくて、重厚な、土。の。味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ken-",
+					"meaning": "fresh / recent? No, cinis from root ken- 'to dust / ashes'."
+				}
+			],
+			"points": [
+				"Cinder（残り火）や Ashes（灰）と同じ root。灰化とは。実存（。ケン）」を、。峻烈」に『。無（。灰）』へと、。回向」させるプロセスのこと。それは。執着という名の『死』を。解脱という名の『生』によって、。一撃」で、。上書き」してまう記述なのです。"
+			]
+		}
+	},
+	{
+		"id": "conflagration",
+		"word": "Conflagration",
+		"meaning": "コンフラグレイション/大火（たいか）、(情報の)氾濫、凄絶。なる。、。延焼（えんしょう）」、孤独を。、一撃」で棄て。、。世界じゅうを。、。透明な。、。火。で。、。一気」に。、。呑み。込んでまうこと",
+		"era": "Mid-16th Century",
+		"etymology": {
+			"components": [
+				"con- (thoroughly)",
+				"flagrare (to burn / blaze / glow)"
+			],
+			"original_statement": "An extensive fire which destroys a great deal of land or property. From Latin conflagrare."
+		},
+		"concept": "Logic of the blaze-together (「。自分」という。、小さな火」を。、一分一秒の容赦」もなく。、峻烈」に。、あえて」。「。他者。という名の。、。火」と。、。合流。させ。、。宇宙じゅうの。、。嘘（。森林）」を。、。一撃」で、。焼（。や）き。尽（。つ）くして。まうこと。それは。情報の。、峻烈なる「。、。破壊。の。記述」)",
+		"thinking": "「コンフラグレイション（大火）」。あなたは。「。自分を一人」に、。大事に。しておくこと」が、。誠実」だ。と。、。。ぬるい」勘違いを、してはいませんか。 conflagration。広がり、。、燃えなさい。 conflagration。それは。あなたが「。太陽」になること。 conflagration。あなたが。、。一分一秒。の。隙間。もなく。、。自らを。、。凄絶な。、。炎（。フラグ）」の中へと。、。投げ（。な）飛ばし。なさい。焼（や）く。ことは。。最強、。です。",
+		"part_of_speech": "noun",
+		"aftertaste": "「真っ暗な海の。、。、。、。表面」が。、。一瞬」で。、。、。真っ赤。な。火」に。。一。に。、。染まり、。。気づいた時には。、。天空（。そら）。まで。が。、。燃え上がっていた」時の。あの。凄い。全能感。重厚で、刺激的な、金の味. ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kom-",
+					"meaning": "together / thoroughly"
+				},
+				{
+					"term": "bhleg-",
+					"meaning": "to shine / flash / burn (from flagrare)"
+				}
+			],
+			"points": [
+				"Flame（炎）や Phlegm（粘液／もとは『燃焼による粘液』）、Black（黒／もとは『焦げた』）と同じ root。大火とは。実存（。ブレグ）」を、。徹底的に（コン）。、峻烈」に『。燃焼（。フラグ）』させ、。空間。を。、支配。するプロセスのこと。それは。静寂という名の『死』を。爆発という名の『生』によって、。一撃」で、。上書き」してまう記述なのです。"
+			]
+		}
 	}
 ];
