@@ -249832,5 +249832,348 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-11"
+	},
+	{
+		"id": "kenopsia",
+		"word": "Kenopsia",
+		"part_of_speech": "noun",
+		"meaning": "ケノプシア、寂寞とする無人の場所",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "kenos",
+					"type": "root",
+					"meaning": "empty"
+				},
+				{
+					"text": "ops",
+					"type": "root",
+					"meaning": "seeing"
+				}
+			],
+			"original_statement": "Coined by John Koenig, from Greek kenos 'empty' + ops 'seeing'."
+		},
+		"core_concept": {
+			"en": "Forlorn atmosphere of quiet places",
+			"ja": "かつて活気に満ちていた場所が今は誰もいない静寂に包まれている時に感じる、肌を撫でるような寂寞感"
+		},
+		"thinking_layer": "『空っぽの光景』。放課後の教室や深夜のモール。記憶の残響だけが漂い、現在が歴史へと変わる瞬間の震えが結晶化している。 ",
+		"aftertaste": "夕暮れの街灯が点き始める、無人の公園の静けさ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"kenotic（空虚な）, cenotaphと同根。",
+				"存在するはずのものが無い、という不在の重み。"
+			]
+		},
+		"date": "2026-03-11"
+	},
+	{
+		"id": "vellichor",
+		"word": "Vellichor",
+		"part_of_speech": "noun",
+		"meaning": "ヴェリコール、古書店の哀愁",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "vellum",
+					"type": "root",
+					"meaning": "parchment"
+				},
+				{
+					"text": "ichor",
+					"type": "root",
+					"meaning": "gods' blood"
+				}
+			],
+			"original_statement": "Coined by John Koenig, from vellum + ichor."
+		},
+		"core_concept": {
+			"en": "Strange wistfulness of used bookstores",
+			"ja": "古書店で何千もの物語が折り重なり、インクの匂いと共に発酵して、時代を越えて息いているような不思議な尊さ"
+		},
+		"thinking_layer": "『羊皮紙を流れる神の血』。本は著者の魂の凝縮。あの独特の重みは、かつて誰かがそのページをめくり心震わせた無数の過去の熱の集積。 ",
+		"aftertaste": "埃の中に舞う、数十年前に閉じ込められた光。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ichorはギリシャ神話の神々の血管を流れる黄金の液体。"
+			]
+		},
+		"date": "2026-03-11"
+	},
+	{
+		"id": "psithurism",
+		"word": "Psithurism",
+		"part_of_speech": "noun",
+		"meaning": "木の葉のささやき",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "psithuros",
+					"type": "root",
+					"meaning": "whisper"
+				}
+			],
+			"original_statement": "From Greek psithurismos 'a whispering'."
+		},
+		"core_concept": {
+			"en": "Sound of wind in trees",
+			"ja": "風が木々の間を吹き抜け、葉と葉が優しく触れ合う時に生まれる、自然界の微かな『ささやき』"
+		},
+		"thinking_layer": "『ささやくこと』。都会の騒音とは対極の、耳を澄まさなければ聞こえないほど繊細な大地の呼吸。心が静まった時にだけ聞こえる呼びかけ。 ",
+		"aftertaste": "自分の中の雑念を洗い流してくれる、清冽な風の記憶。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"擬音語的な起源を持ち、聴覚を通じた深い癒やしを象徴する。"
+			]
+		},
+		"date": "2026-03-11"
+	},
+	{
+		"id": "evanescence",
+		"word": "Evanescence",
+		"part_of_speech": "noun",
+		"meaning": "消失、はかなさ",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "ex-",
+					"type": "prefix",
+					"meaning": "out"
+				},
+				{
+					"text": "vanescere",
+					"type": "root",
+					"meaning": "to vanish"
+				}
+			],
+			"original_statement": "From Latin evanescere 'vanish'."
+		},
+		"core_concept": {
+			"en": "Fleeting quality",
+			"ja": "湯気や波間の泡のように、触れようとした瞬間に『消えて（vanish）』ゆく、この世の形あるものの宿命的なはかなさ"
+		},
+		"thinking_layer": "『消え去ること』。美しさは永遠に続くからではなく、必ず失われるからこそ際立つ。消えゆくものを慈しむ心が、芸術の最も深い水源。 ",
+		"aftertaste": "夜空に消えた花火の後の、冷たい闇。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "eue-",
+					"meaning": "to leave"
+				}
+			],
+			"points": [
+				"empty, vain, vanishと同根。",
+				"満ちていること（fullness）の裏側にある本質的な空虚。"
+			]
+		},
+		"date": "2026-03-11"
+	},
+	{
+		"id": "monachopsis",
+		"word": "Monachopsis",
+		"part_of_speech": "noun",
+		"meaning": "モナコプシス、場違いな違和感",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "monos",
+					"type": "root",
+					"meaning": "single (単一の)",
+					"lang": "Greek"
+				},
+				{
+					"text": "ops",
+					"type": "root",
+					"meaning": "eye, appear (見える)"
+				}
+			],
+			"original_statement": "Coined by John Koenig, from Greek monos 'single' + opsis 'appearance'."
+		},
+		"core_concept": {
+			"en": "The subtle but persistent feeling of being out of place",
+			"ja": "どんなに華やかな群衆の中にいても、自分だけが別の波長で生きているような、静かで執拗な『場違い』の感覚"
+		},
+		"thinking_layer": "『たった一つの外見』。周囲の風景に溶け込めず、自分が透明な壁の中に隔離されているような孤独。それは疎外感（alienation）というよりも、自分の本質がまだ世界と出会えていないという、切実な予感なのです。",
+		"aftertaste": "パーティーの喧騒の中で、ふと一人であることを自覚する瞬間。あるいは、自分を理解してくれる人がいないという、静かな諦念。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"monologue, synopsisと同根。",
+				"『一人の視点』でしか世界を見られないという、実存的な寂しさ。"
+			]
+		},
+		"date": "2026-03-11"
+	},
+	{
+		"id": "enouement",
+		"word": "Enouement",
+		"part_of_speech": "noun",
+		"meaning": "エヌーマン、過去の自分に教えたい切望",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "dénouement",
+					"type": "root",
+					"meaning": "untie (解く)",
+					"lang": "French"
+				}
+			],
+			"original_statement": "Coined by John Koenig, from denouement 'unraveling'."
+		},
+		"core_concept": {
+			"en": "The bittersweet feeling of having arrived in the future and seeing how things turn out",
+			"ja": "すべてが決着した未来（現在）に立ち、かつての不安の中にいた自分を抱きしめて、「大丈夫、こうなるよ」と伝えたくなる、甘く切ない切望"
+		},
+		"thinking_layer": "『もつれを解くこと』。物語の結末（デヌーマン）に辿り着いた時、過去の伏線がすべて意味を持つのと同じ。しかし時間は戻せない。だからこそ私たちは、物語という形を借りて、過去の自分と対話し続けるのかもしれません。",
+		"aftertaste": "十年前の日記を読み返した時の、微笑ましい恥ずかしさと愛おしさ。あるいは、もう戻れない日々への、静かな肯定。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"knot, node（結び目）と同根。",
+				"時間の『結び目』が解け、真実が明らかになるプロセス。"
+			]
+		},
+		"date": "2026-03-11"
+	},
+	{
+		"id": "susurration",
+		"word": "Susurration",
+		"part_of_speech": "noun",
+		"meaning": "シュシュラシオン、微かなざわめき",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "susurrus",
+					"type": "root",
+					"meaning": "whisper, murmur (ささやき)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin susurrare 'to whisper'."
+		},
+		"core_concept": {
+			"en": "A whispering sound; a murmur",
+			"ja": "聴覚の限界ぎりぎりで震える、微かで、しかし心地よい『ざわめき』。風や会話、あるいは木々の葉が織りなす、音の密やかな絨毯"
+		},
+		"thinking_layer": "『ささやくこと』。ラテン語の擬音語（S-S-S）から。それは意味を伝達する言葉になる前の、純粋な空気の振動です。世界があなたに向かって、内緒話をしているような、親密で神秘的な音のテクスチャー。",
+		"aftertaste": "教会や図書館での、祈りや思考が空気に溶け込んだようなざわめき。あるいは、草むらで虫たちが奏でる、名もなき合唱。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"擬音語的起源を持ち、静寂の中に潜む『生命の多層性』を象徴する。"
+			]
+		},
+		"date": "2026-03-11"
+	},
+	{
+		"id": "liquescent",
+		"word": "Liquescent",
+		"part_of_speech": "adjective",
+		"meaning": "リケッセント、溶けつつある、溶解性の",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "liquere",
+					"type": "root",
+					"meaning": "to be fluid (流動的である)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin liquescere 'becoming liquid'."
+		},
+		"core_concept": {
+			"en": "Becoming or tending to become liquid; melting",
+			"ja": "固く凍っていた境界が、熱や知性によって静かに解け、別のものへと『溶け合って（melting）』ゆく、流動的な変容のプロセス"
+		},
+		"thinking_layer": "『液体になりつつあること』。確固たる定義や硬い自我が、感動や真理に触れて、柔らかく流動的になること。氷が水に還るように、形あるものがその本質である「無限の広がり」へと還っていく、しなやかな美学。",
+		"aftertaste": "夕日に溶けてゆく水平線。あるいは、最愛の人の言葉によって、氷りついていた心が温かな涙へと変わる瞬間。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "leikw-",
+					"meaning": "to leave (speculative)"
+				}
+			],
+			"points": [
+				"liquid, liquor, relinquish（手放す）と同根。",
+				"『形に執着すること』を手放し、流れの一部になること。"
+			]
+		},
+		"date": "2026-03-11"
+	},
+	{
+		"id": "morbid",
+		"word": "Morbid",
+		"part_of_speech": "adjective",
+		"meaning": "モービッド、病的な、死への関心",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "morbus",
+					"type": "root",
+					"meaning": "disease (病気)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin morbus 'disease', from mori 'to die'."
+		},
+		"core_concept": {
+			"en": "Characterized by an abnormal and unhealthy interest in disturbing and unpleasant subjects, especially death and disease",
+			"ja": "健康な日常の裏側に潜む「死」や「腐敗」という影の部分に、抗いがたく惹かれてしまう、魂の仄暗く、繊細な『病的』な偏愛"
+		},
+		"thinking_layer": "『死（mori）に近いこと』。不吉で、グロテスクで、しかしその底には失われた美への強烈な憧憬が隠されています。光を理解するために影を凝視するような、倒錯した知性の勇敢さ。 ",
+		"aftertaste": "廃墟の写真に見出す、退廃的な美。あるいは、自分の死を想像する時の、ゾッとするような奇妙な安堵感。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "mer-",
+					"meaning": "to die"
+				}
+			],
+			"points": [
+				"mortal, murder, nightmareと同根。",
+				"『死』という絶対的な限界を知ることで、生（life）の輪郭が浮き彫りになる。"
+			]
+		},
+		"date": "2026-03-11"
+	},
+	{
+		"id": "gravid",
+		"word": "Gravid",
+		"part_of_speech": "adjective",
+		"meaning": "グラヴィッド、身籠った、満ち満ちた",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "gravis",
+					"type": "root",
+					"meaning": "heavy (重い)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin gravitas 'heaviness'."
+		},
+		"core_concept": {
+			"en": "Pregnant; full of meaning or a specified quality",
+			"ja": "新しい命、あるいは重大な予感によって、身体と魂が心地よい『重み（heavy）』を帯びている状態。何かが今まさに生まれようとしている、沈黙の充満"
+		},
+		"thinking_layer": "『重いこと』。重力（gravity）と同根。ただ「重い」のではなく、価値のあるものが内側に詰まっているための重厚さ。雨を孕んだ雲のように、傑作の予感に満ちた静寂のように。世界が最も「濃い」瞬間の、生命の膨らみ。",
+		"aftertaste": "出産を控えた母親の、静かで誇り高い表情。あるいは、一世一代の演説を始める直前の、ステージ上の濃密な空気感。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "gwere-",
+					"meaning": "heavy"
+				}
+			],
+			"points": [
+				"gravity, grief, grave（重大な、墓）と同根。",
+				"『重み』は『責任』であり、同時に『新しい誕生』の予兆である。"
+			]
+		},
+		"date": "2026-03-11"
 	}
 ];
