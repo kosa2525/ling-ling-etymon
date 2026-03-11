@@ -246724,5 +246724,410 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-11"
+	},
+	{
+		"id": "antipathy",
+		"word": "Antipathy",
+		"part_of_speech": "noun",
+		"meaning": "反感、嫌悪",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "anti-",
+					"type": "prefix",
+					"meaning": "against"
+				},
+				{
+					"text": "pathos",
+					"type": "root",
+					"meaning": "feeling"
+				}
+			],
+			"original_statement": "From Greek anti- 'against' + pathos 'feeling'."
+		},
+		"core_concept": {
+			"en": "Deep-seated dislike",
+			"ja": "相手の放つ波長に対し、本能的な拒絶を起こし、逆向きの感情をぶつけ合うこと"
+		},
+		"thinking_layer": "『感情の対立』。磁石の同極同士のような不可解な反発。負の方向への強烈で深い関わりを表します。",
+		"aftertaste": "凍りついた晩餐会の空気。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "anti-",
+					"meaning": "opposite"
+				}
+			],
+			"points": [
+				"antonymと同根。",
+				"本能レベルの不適合。"
+			]
+		},
+		"date": "2026-03-11"
+	},
+	{
+		"id": "sloth",
+		"word": "Sloth",
+		"part_of_speech": "noun",
+		"meaning": "怠惰、怠け",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "slow",
+					"type": "root",
+					"meaning": "slow"
+				}
+			],
+			"original_statement": "From Middle English slouthe 'laziness', from 'slow'."
+		},
+		"core_concept": {
+			"en": "Reluctance to work or make an effort",
+			"ja": "なすべきことの重さに耐えかね、意識の速度を極限まで落として停滞に身を沈めること"
+		},
+		"thinking_layer": "『遅い（slow）』。単なる休みではなく、負うべき義務や成長から目を逸らそうとする精神の麻痺状態。",
+		"aftertaste": "埃の積もった時計、あるいは何も手につかない午後の光。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "slou-",
+					"meaning": "slow"
+				}
+			],
+			"points": [
+				"動物のナマケモノの由来。",
+				"かつては『霊的な倦怠（acedia）』とも呼ばれました。"
+			]
+		},
+		"date": "2026-03-11"
+	},
+	{
+		"id": "wrath",
+		"word": "Wrath",
+		"part_of_speech": "noun",
+		"meaning": "激怒、憤怒",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "wrath",
+					"type": "root",
+					"meaning": "angry, twisted"
+				}
+			],
+			"original_statement": "From Old English wrātth, from wrāth 'angry, bitter', related to 'writhe'."
+		},
+		"core_concept": {
+			"en": "Extreme anger",
+			"ja": "内面の正義や尊厳が踏みにじられた時、すべてを焼き尽くすために爆発する破壊的な炎"
+		},
+		"thinking_layer": "『捻じれ（writhe）』と同根。激しさのあまり身悶えるような怒り。理性を溶解させ、原初的な破壊へと突き動かす力。",
+		"aftertaste": "真っ白に燃え上がる視界、あるいは雷鳴の轟き。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "wer-",
+					"meaning": "to turn, twist"
+				}
+			],
+			"points": [
+				"wreath（花輪）, wrong（歪んだ）と同根。",
+				"心が不条理に『捻じれた』結果としての爆発。"
+			]
+		},
+		"date": "2026-03-11"
+	},
+	{
+		"id": "chastity",
+		"word": "Chastity",
+		"part_of_speech": "noun",
+		"meaning": "純潔、貞潔",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "castus",
+					"type": "root",
+					"meaning": "pure, cut off"
+				}
+			],
+			"original_statement": "From Latin castitas, from castus 'pure', originally 'cut off from faults'."
+		},
+		"core_concept": {
+			"en": "The state or practice of refraining from extramarital, or especially from all, sexual intercourse",
+			"ja": "本能の衝動を境界線で切り離し（cut off）、自らの魂の純粋さを一つの聖域として守り抜くこと"
+		},
+		"thinking_layer": "『切り離された潔白』。誘惑をあえて断ち切り、静寂と秩序を保つこと。それは禁欲という苦行を超えて、精神の透明度を極限まで高める試みです。",
+		"aftertaste": "朝露に濡れた白いユリ、あるいは凛とした冬の空気。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kes-",
+					"meaning": "to cut"
+				}
+			],
+			"points": [
+				"caste（カースト）, castigate（懲らしめる＝不純を除いて正す）と同根。",
+				"境界線を引くことで生まれる、峻烈な美しさ。"
+			]
+		},
+		"date": "2026-03-11"
+	},
+	{
+		"id": "temperance",
+		"word": "Temperance",
+		"part_of_speech": "noun",
+		"meaning": "節制、自制",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "temperare",
+					"type": "root",
+					"meaning": "to mix, restrain"
+				}
+			],
+			"original_statement": "From Latin temperantia 'moderation', from temperare 'to mix correctly'."
+		},
+		"core_concept": {
+			"en": "Abstinence from alcoholic drink; moderation",
+			"ja": "欲望という劇薬を、理性という水で適切に稀釈（mix）し、調和のとれたバランスを保つこと"
+		},
+		"thinking_layer": "『適切な混合』。極端に走らず、中道を行くこと。何事も『程よく』管理する。それは抑圧ではなく、人生を美味しく味わうための知的な調律です。",
+		"aftertaste": "美しく調律された楽器の音色、あるいは引き締まった生活の心地よさ。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "tem-",
+					"meaning": "to cut, time"
+				}
+			],
+			"points": [
+				"temperature, tempo, time（時を区切る）と同根。",
+				"『過ぎ去る時間をコントロールする』という感覚が元にあります。"
+			]
+		},
+		"date": "2026-03-11"
+	},
+	{
+		"id": "diligence",
+		"word": "Diligence",
+		"part_of_speech": "noun",
+		"meaning": "勤勉、精励",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "di-",
+					"type": "prefix",
+					"meaning": "apart"
+				},
+				{
+					"text": "legere",
+					"type": "root",
+					"meaning": "to choose, love"
+				}
+			],
+			"original_statement": "From Latin diligentia, from diligere 'to single out and value highly'."
+		},
+		"core_concept": {
+			"en": "Careful and persistent work or effort",
+			"ja": "対象を特別な価値あるものとして愛し（love）、一つ一つ丁寧に選び取る（choose）ことの繰り返し"
+		},
+		"thinking_layer": "『選び抜いて愛すること』。単に忙しく働くことではなく、その作業に心酔し、細部までこだわり抜く、愛に満ちた継続です。",
+		"aftertaste": "長年かけて磨き上げられた職人の技、あるいはコツコツと積み上げられた石垣のように揺るぎない成果物。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "leg-",
+					"meaning": "to gather, choose"
+				}
+			],
+			"points": [
+				"select, elegant（選ばれた美しさ）と同根。",
+				"勤勉さの根底にあるのは『愛』である、という古代の洞察。"
+			]
+		},
+		"date": "2026-03-11"
+	},
+	{
+		"id": "angst",
+		"word": "Angst",
+		"part_of_speech": "noun",
+		"meaning": "不安、苦悩",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "angh-",
+					"type": "root",
+					"meaning": "narrow, tight"
+				}
+			],
+			"original_statement": "From German Angst, from Old High German angust, related to 'anger' and 'anxious'."
+		},
+		"core_concept": {
+			"en": "A feeling of deep anxiety or dread",
+			"ja": "出口のない暗闇の中に閉じ込められた（narrow）かのような、実存的で逃れられない不安の重圧"
+		},
+		"thinking_layer": "『狭い場所、締め付けられること』。具体的な理由がある恐怖（fear）とは異なり、「自分の存在そのもの」について回る、根源的で不可解なざわめき。",
+		"aftertaste": "霧の深い夜の独り言、あるいは理由のわからない焦燥感。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "angh-",
+					"meaning": "tight"
+				}
+			],
+			"points": [
+				"anxiety, anger, anguish（苦悶）と同根。",
+				"喉元がギュッと締め付けられるような、肉体的な圧迫感。"
+			]
+		},
+		"date": "2026-03-11"
+	},
+	{
+		"id": "sorrow",
+		"word": "Sorrow",
+		"part_of_speech": "noun",
+		"meaning": "悲しみ、嘆き、不幸",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "sorg",
+					"type": "root",
+					"meaning": "care, anxiety, grief"
+				}
+			],
+			"original_statement": "From Old English sorg 'grief, regret, trouble'."
+		},
+		"core_concept": {
+			"en": "A feeling of deep distress caused by loss, disappointment, or other misfortune",
+			"ja": "かけがえのないものを失った痛みが、時間をかけてじわじわと心に染み込んでいく、深く静かな哀しみ"
+		},
+		"thinking_layer": "『配慮、心配（care）』と同根。単なる涙ではなく、いつまでも心を離れない「気掛かりな痛み」。それは対象を深く愛していたがゆえに生じる、愛の裏返しの形です。",
+		"aftertaste": "土砂降りの雨に打たれる花、あるいは帰らぬ人を待つ窓辺の影。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "swergh-",
+					"meaning": "to worry, sicken"
+				}
+			],
+			"points": [
+				"sorry は語源を異にしますが、混同されてきました。",
+				"『心が病むほどに想うこと』の本質。"
+			]
+		},
+		"date": "2026-03-11"
+	},
+	{
+		"id": "anguish",
+		"word": "Anguish",
+		"part_of_speech": "noun",
+		"meaning": "激しい苦痛、苦悶",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "angh-",
+					"type": "root",
+					"meaning": "narrow, tight"
+				}
+			],
+			"original_statement": "From Latin angustia 'narrowness', from angh- 'tight, painful'."
+		},
+		"core_concept": {
+			"en": "Severe mental or physical pain or suffering",
+			"ja": "喉元を締め上げられ（tight）、空間を奪われ、呼吸さえも困難になるほどに凝縮された激越な苦しみ"
+		},
+		"thinking_layer": "『狭さ、窮屈さ』。angst（不安）と同根ですが、より肉体的、情緒的な「締め付け」が強調されます。広い世界で自分一人だけが隘路に閉じ込められたかのような、窒息しそうな不安。",
+		"aftertaste": "暗い牢獄での絶叫、あるいは最愛の人を見捨てなければならない瞬間の心中。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "angh-",
+					"meaning": "tight"
+				}
+			],
+			"points": [
+				"anxiety, angerと同親戚。",
+				"『通り道が塞がれる』という、生存の危機に伴う痛み。"
+			]
+		},
+		"date": "2026-03-11"
+	},
+	{
+		"id": "exultation",
+		"word": "Exultation",
+		"part_of_speech": "noun",
+		"meaning": "大喜び、勝利感",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "ex-",
+					"type": "prefix",
+					"meaning": "out"
+				},
+				{
+					"text": "salire",
+					"type": "root",
+					"meaning": "to jump"
+				}
+			],
+			"original_statement": "From Latin exultare, from ex- 'out/up' + salire 'to jump'."
+		},
+		"core_concept": {
+			"en": "A feeling of triumphant elation or jubilation",
+			"ja": "喜びのあまり、大地から飛び上がり（jump out）、重力を振り払って宙を舞うかのような高揚感"
+		},
+		"thinking_layer": "『外へと跳ねること』。jubilationが声なら、exultationは肉体の躍動。勝利を手にした瞬間に、自らの存在が拡張し、地上から解き放たれるダイナミズムを指します。",
+		"aftertaste": "ゴールテープを切った後の跳躍、あるいは難攻不落の城を落とした時の兵士の叫び。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sel-",
+					"meaning": "to jump"
+				}
+			],
+			"points": [
+				"resilient, insult, saladと同根。",
+				"喜びが『静止』を許さず、肉体を突き動かす様。"
+			]
+		},
+		"date": "2026-03-11"
+	},
+	{
+		"id": "contentment",
+		"word": "Contentment",
+		"part_of_speech": "noun",
+		"meaning": "満足、充足、安らぎ",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "con-",
+					"type": "prefix",
+					"meaning": "together, thoroughly"
+				},
+				{
+					"text": "tenere",
+					"type": "root",
+					"meaning": "to hold (保持する)"
+				}
+			],
+			"original_statement": "From Latin contentus 'contained, satisfied', from con- 'together' + tenere 'to hold'."
+		},
+		"core_concept": {
+			"en": "A state of happiness and satisfaction",
+			"ja": "今の自分の中にあるものだけで十分に（thoroughly hold）足りていることを認め、それ以上を欲しない静かな充足"
+		},
+		"thinking_layer": "『自分の中に収まっていること』。さらなる欲望に駆り出されるのではなく、今ここに持っている価値を噛み締める、大人の、あるいは賢者の平和。自己完結した美しさです。",
+		"aftertaste": "一日の終わりの温かいスープ、あるいは自分の庭を眺める静かな隠居の午後。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ten-",
+					"meaning": "to hold"
+				}
+			],
+			"points": [
+				"continue, contain, containerと同根。",
+				"『器』が満たされ、外へと溢れない安定感。"
+			]
+		},
+		"date": "2026-03-11"
 	}
 ];
