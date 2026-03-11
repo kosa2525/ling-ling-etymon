@@ -247357,5 +247357,409 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-11"
+	},
+	{
+		"id": "orthodoxy",
+		"word": "Orthodoxy",
+		"part_of_speech": "noun",
+		"meaning": "正統性、保守",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "orthos",
+					"type": "root",
+					"meaning": "straight"
+				},
+				{
+					"text": "doxa",
+					"type": "root",
+					"meaning": "opinion"
+				}
+			],
+			"original_statement": "From Greek orthos 'straight' + doxa 'opinion'."
+		},
+		"core_concept": {
+			"en": "Authorized theory or belief",
+			"ja": "歴史という審判を経て中心に据えられた『真っ直ぐな（straight）』意見。揺るぎない絶対的正解"
+		},
+		"thinking_layer": "『正しい意見』。脇道に逸れず王道を歩み続けること。安心の源泉でもあり、変化を拒む頑固な壁でもある。",
+		"aftertaste": "誰も疑わない伝統の重圧。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "eredh-",
+					"meaning": "to grow, high"
+				},
+				{
+					"term": "dek-",
+					"meaning": "to accept"
+				}
+			],
+			"points": [
+				"orthodontics（歯科矯正）と同根。",
+				"社会が『受け入れた（accept）』垂直な規範。"
+			]
+		},
+		"date": "2026-03-11"
+	},
+	{
+		"id": "heterodoxy",
+		"word": "Heterodoxy",
+		"part_of_speech": "noun",
+		"meaning": "異説、異端",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "heteros",
+					"type": "root",
+					"meaning": "other"
+				},
+				{
+					"text": "doxa",
+					"type": "root",
+					"meaning": "opinion"
+				}
+			],
+			"original_statement": "From Greek heteros 'other' + doxa 'opinion'."
+		},
+		"core_concept": {
+			"en": "Not conforming to standards",
+			"ja": "中心から弾き飛ばされた『別の（other）』意見。秩序を脅かすが、新時代の種を宿した思考"
+		},
+		"thinking_layer": "正統の影に隠された、もう一つの真実。停滞した世界に亀裂を入れ、新しい呼吸をもたらす破壊的な力。",
+		"aftertaste": "群衆の中から上がる、一人の反対の声。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sm-",
+					"meaning": "same (opposite of)"
+				}
+			],
+			"points": [
+				"heterosexualと同じ hetero- 。",
+				"『同じではない』ことの勇気、あるいは危うさ。"
+			]
+		},
+		"date": "2026-03-11"
+	},
+	{
+		"id": "apostasy",
+		"word": "Apostasy",
+		"part_of_speech": "noun",
+		"meaning": "棄教、決別",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "apo-",
+					"type": "prefix",
+					"meaning": "away"
+				},
+				{
+					"text": "stasis",
+					"type": "root",
+					"meaning": "standing"
+				}
+			],
+			"original_statement": "From Greek apostasia 'a standing away'."
+		},
+		"core_concept": {
+			"en": "Renunciation of belief",
+			"ja": "かつて自らが守っていた場所から離れ（away）、以前の自分を否定して未知の荒野へ踏み出すこと"
+		},
+		"thinking_layer": "『立ち去ること』。属していたシステムへの積極的な反逆。裏切りと呼ばれるが、魂にとっては誠実な旅立ち。",
+		"aftertaste": "振り返ることのない、潔い去り際。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sta-",
+					"meaning": "to stand"
+				}
+			],
+			"points": [
+				"station, statueと同根。",
+				"どこに『立つ』かというアイデンティティを懸けた移動。"
+			]
+		},
+		"date": "2026-03-11"
+	},
+	{
+		"id": "omniscience",
+		"word": "Omniscience",
+		"part_of_speech": "noun",
+		"meaning": "全知",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "omnis",
+					"type": "root",
+					"meaning": "all"
+				},
+				{
+					"text": "scire",
+					"type": "root",
+					"meaning": "to know"
+				}
+			],
+			"original_statement": "From Latin omnis 'all' + scire 'to know'."
+		},
+		"core_concept": {
+			"en": "The state of knowing everything",
+			"ja": "宇宙の始まりから終わりまで、隠されたすべての真理を把握している、限界なき知性の完成"
+		},
+		"thinking_layer": "『すべてを知ること』。未知や驚きが存在しなくなる代わりに、全因果を把握し見守る静かな視座。神的な意識の極致。",
+		"aftertaste": "全てが必然として理解された時の、氷のような静寂。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "skei-",
+					"meaning": "to cut, split"
+				}
+			],
+			"points": [
+				"science, consciousと同根。",
+				"『切り分ける（discern）』ことが究極に達した状態。"
+			]
+		},
+		"date": "2026-03-11"
+	},
+	{
+		"id": "omnipresence",
+		"word": "Omnipresence",
+		"part_of_speech": "noun",
+		"meaning": "遍在、偏在",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "omnis",
+					"type": "root",
+					"meaning": "all"
+				},
+				{
+					"text": "prae",
+					"type": "prefix",
+					"meaning": "before"
+				},
+				{
+					"text": "esse",
+					"type": "root",
+					"meaning": "to be"
+				}
+			],
+			"original_statement": "From Latin omnis 'all' + praesentia 'presence'."
+		},
+		"core_concept": {
+			"en": "The state of being widespread or constantly encountered",
+			"ja": "どこにも偏ることなく、同時にすべての場所、すべての時間に存在している、宇宙そのものの浸透性"
+		},
+		"thinking_layer": "『すべてに立ち会うこと』。距離や時間という概念を無効化し、あらゆる瞬間の中心に同時に存在すること。遍く存在する光のような性質。",
+		"aftertaste": "どこへ行っても見守られているという安心感、あるいは逃げ場のない視線。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "es-",
+					"meaning": "to be"
+				}
+			],
+			"points": [
+				"essential, presenceと同根。",
+				"『存在（be）』が『全（all）』へと同期した状態。"
+			]
+		},
+		"date": "2026-03-11"
+	},
+	{
+		"id": "immanence",
+		"word": "Immanence",
+		"part_of_speech": "noun",
+		"meaning": "内在、内在性",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "in-",
+					"type": "prefix",
+					"meaning": "in"
+				},
+				{
+					"text": "manere",
+					"type": "root",
+					"meaning": "to remain"
+				}
+			],
+			"original_statement": "From Latin immanere 'to remain in'."
+		},
+		"core_concept": {
+			"en": "Existing or operating within; inherent",
+			"ja": "神聖なものや真理が、遠い天の上ではなく、今ここにある物質や自身の魂の内部に留まっている（remain in）という感覚"
+		},
+		"thinking_layer": "『内側に留まること』。超越（transcendence）の対義語。卑近な日常の中にこそ究極の価値が宿っているという、密やかで力強い信仰。",
+		"aftertaste": "一輪の花のなかに宇宙を見る視線、あるいは自分の中に宿る静かな神性への気づき。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "men-",
+					"meaning": "to stay"
+				}
+			],
+			"points": [
+				"mansion, remain, permanentと同根。",
+				"『去らずにそこにいる』という強固な現前。"
+			]
+		},
+		"date": "2026-03-11"
+	},
+	{
+		"id": "providential",
+		"word": "Providential",
+		"part_of_speech": "adjective",
+		"meaning": "摂理による、幸運な、天佑の",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "pro-",
+					"type": "prefix",
+					"meaning": "forward"
+				},
+				{
+					"text": "videre",
+					"type": "root",
+					"meaning": "to see"
+				}
+			],
+			"original_statement": "From Latin providentia 'foresight'."
+		},
+		"core_concept": {
+			"en": "Occurring at a favorable time; opportune; involving divine foresight",
+			"ja": "人間の浅知恵を超え、天の深遠な予見（foresight）によって、絶妙なタイミングでもたらされた救済"
+		},
+		"thinking_layer": "『あらかじめ見ておくこと』。一見して偶然に見える幸運が、実は巨大な計画の一部であったという解釈。運命に守られているという感覚。",
+		"aftertaste": "九死に一生を得た瞬間の戦慄、あるいはすべてが『仕組まれていた』かのようにうまくいく奇跡。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "weid-",
+					"meaning": "to see"
+				}
+			],
+			"points": [
+				"vision, pridenceと同根。",
+				"『見えること』が即座に『配慮・準備』に繋がるという知性の慈しみ。"
+			]
+		},
+		"date": "2026-03-11"
+	},
+	{
+		"id": "philology",
+		"word": "Philology",
+		"part_of_speech": "noun",
+		"meaning": "文献学、言語学、言葉への愛",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "philos",
+					"type": "root",
+					"meaning": "loving (愛する)"
+				},
+				{
+					"text": "logos",
+					"type": "root",
+					"meaning": "word, reason (言葉)"
+				}
+			],
+			"original_statement": "From Greek philologia 'love of learning and literature'."
+		},
+		"core_concept": {
+			"en": "The branch of knowledge that deals with the structure, historical development, and relationships of a language or languages",
+			"ja": "一つの言葉の背後に積もった、数千年の歴史の塵を愛おしく払い（love word）、古人の息遣いを現代に蘇らせる、知的な考古学"
+		},
+		"thinking_layer": "『言葉を愛すること』。冷徹な分析ではなく、一つの単語に宿る物語への深い敬意。ニーチェやトールキンを突き動かした、根源的な「ロゴスへの情熱」。",
+		"aftertaste": "失われた言語の断片が語り出す瞬間、あるいは言葉の変遷に人間の生き様を見出す感動。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "leg-",
+					"meaning": "to say"
+				}
+			],
+			"points": [
+				"Philosophy（知を愛する）の兄弟。",
+				"抽象的な理（logos）だけでなく、具体的な言葉（word）そのものへの愛。"
+			]
+		},
+		"date": "2026-03-11"
+	},
+	{
+		"id": "simile",
+		"word": "Simile",
+		"part_of_speech": "noun",
+		"meaning": "直喩、明喩",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "similis",
+					"type": "root",
+					"meaning": "like, resembling (似ている)"
+				}
+			],
+			"original_statement": "From Latin simile, neuter of similis 'like'."
+		},
+		"core_concept": {
+			"en": "A figure of speech involving the comparison of one thing with another thing of a different kind",
+			"ja": "二つの異なる存在の間に、そっと『鏡（like）』を置き、それらが共通して持っている微かな光を反射させる、慎重で謙虚な結びつけ"
+		},
+		"thinking_layer": "『似ていること』。メタファーが強引な統合なら、シミリーは「〜のようだ」という一歩引いた敬意ある隣接。それぞれの領域を尊重しつつ、共通の真理を照らし出します。",
+		"aftertaste": "「雪のような肌」という白い静寂の共有、あるいは比較することで初めて浮き彫りになる個性の際立ち。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sem-",
+					"meaning": "one, same, together"
+				}
+			],
+			"points": [
+				"similar, same, assembleと同根。",
+				"『別のもの』の中に、『一つの同じ質（one same）』を見つけ出す手法。"
+			]
+		},
+		"date": "2026-03-11"
+	},
+	{
+		"id": "parody",
+		"word": "Parody",
+		"part_of_speech": "noun",
+		"meaning": "パロディ、模倣による風刺",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "para-",
+					"type": "prefix",
+					"meaning": "beside (傍らに)"
+				},
+				{
+					"text": "ōidē",
+					"type": "root",
+					"meaning": "song (歌、詩)"
+				}
+			],
+			"original_statement": "From Greek parōidia 'beside-song'."
+		},
+		"core_concept": {
+			"en": "An imitation of the style of a particular writer, artist, or genre with deliberate exaggeration for comic effect",
+			"ja": "格式高いオリジナルの歌（song）の傍らに（beside）、不協和音を奏でる偽物の歌を並べることで、尊大さを笑いに変え、自由を取り戻す、知的な再構築"
+		},
+		"thinking_layer": "『傍らの歌』。原曲のメロディを借りつつ、全く別の歌詞を乗せる愉悦。それはオリジナルの強固な美しさを認めているがゆえに成立する、愛を伴う解体作業です。",
+		"aftertaste": "見覚えのある風景が、一変して滑稽に見える瞬間の解放感、あるいは文脈を自由に読み替える知的な万能感。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "aei-",
+					"meaning": "to sing"
+				}
+			],
+			"points": [
+				"ode, melody, comedy（祝祭の歌）と同根。",
+				"『共に歌う（sing beside）』ことで、既存の権威を相対化する遊び。"
+			]
+		},
+		"date": "2026-03-11"
 	}
 ];
