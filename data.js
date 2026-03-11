@@ -244859,5 +244859,1271 @@ const WORDS = [
 				"Automaton（自律機械）や Poet（詩人）、Onomatopoeia（擬声語）と同じ root。自己生産とは実存を峻烈に自律（オート）へと回向させるプロセスのこと従属という名の『死』を破壊し、自立存在という名の『実在』を選び取る記述です。"
 			]
 		}
+	},
+	{
+		"id": "crisp",
+		"word": "Crisp",
+		"part_of_speech": "adjective",
+		"meaning": "ぱりぱりした、清々しい、歯切れの良い",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "crispus",
+					"type": "root",
+					"meaning": "curled, wrinkled",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin crispus 'curled', originally referring to hair, later the texture of things that are brittle or the freshness of air."
+		},
+		"core_concept": {
+			"en": "Firm, fresh, and brittle",
+			"ja": "湿り気のない、引き締まった硬さと新鮮さ"
+		},
+		"thinking_layer": "もともとは『縮れた髪』を指した言葉が、紙や食べ物の食感、そして『冷たく引き締まった朝の空気』へと転じていきました。曖昧さが削ぎ落とされた明快さを象徴しています。",
+		"aftertaste": "秋の朝の空気、あるいは焼き立てのクッキーが割れる音。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "crisp-",
+					"meaning": "to curl"
+				}
+			],
+			"points": [
+				"crisp appleやcrisp morningなど、音と食感が一体となった表現。",
+				"髪の毛のカーブが語源という意外なルーツがあります。"
+			]
+		},
+		"date": "2026-03-11"
+	},
+	{
+		"id": "mellow",
+		"word": "Mellow",
+		"part_of_speech": "adjective",
+		"meaning": "和やかな、熟成した、芳醇な",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "meru-",
+					"type": "root",
+					"meaning": "soft",
+					"lang": "PIE"
+				}
+			],
+			"original_statement": "Probably related to Old English melu 'meal, flour', suggesting the softness of well-ground flour or ripe fruit."
+		},
+		"core_concept": {
+			"en": "Soft, rich, and relaxed through ripeness",
+			"ja": "熟成によって角が取れ、豊かで柔らかくなった状態"
+		},
+		"thinking_layer": "未熟な酸っぱさや鋭いトゲが、時間を経て円熟味を帯びる様子。無理な力が抜けて、周囲を包み込むような温かさと深みが生まれる質感です。",
+		"aftertaste": "夕暮れの光、あるいは長年連れ添った夫婦の会話。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "mel-",
+					"meaning": "soft, crush"
+				}
+			],
+			"points": [
+				"ワインや声の質感から、落ち着いた気分まで幅広く使われる。",
+				"melodiousとのニュアンスの近さ。"
+			]
+		},
+		"date": "2026-03-11"
+	},
+	{
+		"id": "harsh",
+		"word": "Harsh",
+		"part_of_speech": "adjective",
+		"meaning": "厳しい、ざらざらした、不快なトーンの",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "harske",
+					"type": "root",
+					"meaning": "rancid, rough",
+					"lang": "Middle Low German"
+				}
+			],
+			"original_statement": "Originally referring to the rough texture of a surface or the sour taste of food."
+		},
+		"core_concept": {
+			"en": "Rough to the point of discomfort",
+			"ja": "なめらかさを欠き、神経を逆なでするような強烈な粗さ"
+		},
+		"thinking_layer": "摩擦が強すぎて、触れるだけで傷ついてしまうような感覚。光、声、そして人間関係における容赦のない態度など。優しさという緩衝材が一切排除されたむき出しの鋭さです。",
+		"aftertaste": "むき出しの岩肌、あるいは突き刺さるような非難の言葉。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "hars-",
+					"meaning": "rough"
+				}
+			],
+			"points": [
+				"harsh reality（厳しい現実）という決まり文句で多用される。",
+				"hair（髪）のゴワゴワした感触との関連も。"
+			]
+		},
+		"date": "2026-03-11"
+	},
+	{
+		"id": "smooth",
+		"word": "Smooth",
+		"part_of_speech": "adjective",
+		"meaning": "滑らかな、円滑な、そつのない",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "smēðe",
+					"type": "root",
+					"meaning": "level, even",
+					"lang": "Old English"
+				}
+			],
+			"original_statement": "From Proto-Germanic *smanth- 'smooth', possibly related to the idea of spreading something evenly."
+		},
+		"core_concept": {
+			"en": "Flat and free from obstructions",
+			"ja": "凹凸がなく、抵抗を感じさせない連続性"
+		},
+		"thinking_layer": "表面の摩擦が極限まで減らされた状態。物理的な手触りだけでなく、計画が滞りなく進むことや、対人関係での洗練された立ち振る舞いにも宿る「抵抗のなさ」です。",
+		"aftertaste": "磨き抜かれた大理石、あるいは流れるようなジャズの旋律。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "smooth-",
+					"meaning": "even"
+				}
+			],
+			"points": [
+				"smooth operator（世渡り上手）は皮肉を含む呼び名。",
+				"鍛冶屋が金属を平らに打つイメージが背景にある説。"
+			]
+		},
+		"date": "2026-03-11"
+	},
+	{
+		"id": "rusty",
+		"word": "Rusty",
+		"part_of_speech": "adjective",
+		"meaning": "錆びた、腕がなまった、古びた",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "reudh-",
+					"type": "root",
+					"meaning": "red",
+					"lang": "PIE"
+				}
+			],
+			"original_statement": "Referring to the reddish-brown color of oxidized iron. Applied metaphorically to skills that are out of practice."
+		},
+		"core_concept": {
+			"en": "Corroded by time and neglect",
+			"ja": "時間と放置によって、本来の輝きと機能を失った状態"
+		},
+		"thinking_layer": "使われないことによって赤褐色の層に覆われていく。それは単なる劣化ではなく、使われなかったという『時間の不在』が物理的に積み重なった姿です。",
+		"aftertaste": "忘れ去られた工場の扉、あるいは久しぶりに手に取る辞書。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "reudh-",
+					"meaning": "red"
+				}
+			],
+			"points": [
+				"red, ruby, ruddy（血色の良い）と同根。",
+				"道具の「錆び」を「腕のなまり」と重ねる豊かな比喩。"
+			]
+		},
+		"date": "2026-03-11"
+	},
+	{
+		"id": "gritty",
+		"word": "Gritty",
+		"part_of_speech": "adjective",
+		"meaning": "砂っぽい、骨太な、不屈の",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "greut",
+					"type": "root",
+					"meaning": "gravel, dust",
+					"lang": "Old English"
+				}
+			],
+			"original_statement": "Originally meaning full of sand/grit. Later extended to represent realism or a personality with courage."
+		},
+		"core_concept": {
+			"en": "Rough with small grains; showing courage",
+			"ja": "砂粒のような粗さと、泥臭いまでの粘り強い精神"
+		},
+		"thinking_layer": "心地よくはないが現実に根ざした感触。そこから転じて、美化されていない都会の汚さ、あるいは困難に屈しない不屈の精神（Grit）を指します。綺麗事ではない真実の重みです。",
+		"aftertaste": "土ぼこりの舞うスタジアム、あるいは逆境に立ち向かう者の眼差し。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "grit-",
+					"meaning": "grain"
+				}
+			],
+			"points": [
+				"true grit（本当の勇気）という不朽の表現。",
+				"リアリズム（gritty realism）を形容する際にも多用されます。"
+			]
+		},
+		"date": "2016-03-11"
+	},
+	{
+		"id": "velvety",
+		"word": "Velvety",
+		"part_of_speech": "adjective",
+		"meaning": "ベルベットのような、滑らかで濃密な",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "villus",
+					"type": "root",
+					"meaning": "shaggy hair",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Old French veluete, from villus 'hair', referring to the dense, soft pile of the fabric."
+		},
+		"core_concept": {
+			"en": "Soft and smooth with a dense pile",
+			"ja": "濃密な柔らかさと、光を吸い込むような気品ある滑らかさ"
+		},
+		"thinking_layer": "無数の細かい糸の集合体がもたらす「奥行きのある滑らかさ」。ワインの舌触りや魅力的な低音に使われるとき、官能的とも言える贅沢な心地よさを表します。",
+		"aftertaste": "高級ホテルのカーテン、あるいは深夜のラジオから流れる低音。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "vill-",
+					"meaning": "hair"
+				}
+			],
+			"points": [
+				"velour（ベロア）と同根。",
+				"ただ滑らかなだけではなく、多層的な質感が潜んでいます。"
+			]
+		},
+		"date": "2026-03-11"
+	},
+	{
+		"id": "sleek",
+		"word": "Sleek",
+		"part_of_speech": "adjective",
+		"meaning": "艶やかな、洗練された、流線型の",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "slick",
+					"type": "root",
+					"meaning": "smooth, glossy",
+					"lang": "Middle English"
+				}
+			],
+			"original_statement": "Variant of 'slick'. Originally used for well-fed animals with smooth coats."
+		},
+		"core_concept": {
+			"en": "Glossy, streamlined, and efficient",
+			"ja": "摩擦を感じさせない、研ぎ澄まされた光沢と造形美"
+		},
+		"thinking_layer": "動物の毛艶、あるいは空気抵抗を減らしたスポーツカー。余分な凹凸が一切なく、見るからに速そうで都会的な「磨き上げられた機能」を象徴しています。",
+		"aftertaste": "黒い旋風のようなデザイン、あるいは完璧に整えられた髪。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "slick-",
+					"meaning": "glossy"
+				}
+			],
+			"points": [
+				"slick（滑りやすい）と兄弟のような関係。",
+				"現代では最新のガジェットを褒める際に不可欠な言葉です。"
+			]
+		},
+		"date": "2026-03-11"
+	},
+	{
+		"id": "damp",
+		"word": "Damp",
+		"part_of_speech": "adjective",
+		"meaning": "湿った、やる気を削ぐ",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "dampf",
+					"type": "root",
+					"meaning": "vapor, steam",
+					"lang": "Germanic"
+				}
+			],
+			"original_statement": "Related to Germanic 'dampf' (vapor). Originally meant choking smoke."
+		},
+		"core_concept": {
+			"en": "Slightly wet and often unpleasant",
+			"ja": "重たく不快な湿気を帯び、活力を奪うような停滞した状態"
+		},
+		"thinking_layer": "乾ききらないタオルのような物理的な不快感と、情熱の火を消してしまう心理的な停滞感。湿り気が「自由」を奪う負の影を表現しています。",
+		"aftertaste": "しっとりした土の匂い、あるいは曇り空の下の憂鬱。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "damp-",
+					"meaning": "vapor"
+				}
+			],
+			"points": [
+				"Dampf（蒸気）と同根で、呼吸を阻害するイメージが元。",
+				"dampen someone's spiritsという強い結びつきがあります。"
+			]
+		},
+		"date": "2026-03-11"
+	},
+	{
+		"id": "coarse",
+		"word": "Coarse",
+		"part_of_speech": "adjective",
+		"meaning": "きめの粗い、下品な",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "course",
+					"type": "root",
+					"meaning": "ordinary course",
+					"lang": "Middle English"
+				}
+			],
+			"original_statement": "From 'of course', meaning 'ordinary'. Later developed into 'rough' for common fabrics."
+		},
+		"core_concept": {
+			"en": "Of large particles; inferior; vulgar",
+			"ja": "精製されておらず、洗練を欠いたむき出しの性質"
+		},
+		"thinking_layer": "『当たり前の』レベルから『上等ではない』へと意味が変わった皮肉。手触りがザラザラした布から、言葉遣いの粗暴さまで、磨かれていないことのすべてを指します。",
+		"aftertaste": "麻袋のごわごわした感触、あるいは酒場の荒っぽい笑い声。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "curs-",
+					"meaning": "run"
+				}
+			],
+			"points": [
+				"fine（洗練された）の対義語として最も一般的。",
+				"自然のままの手つかずの粗さを表します。"
+			]
+		},
+		"date": "2026-03-11"
+	},
+	{
+		"id": "rigid",
+		"word": "Rigid",
+		"part_of_speech": "adjective",
+		"meaning": "硬直した、厳格な",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "rigere",
+					"type": "root",
+					"meaning": "to be stiff",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin rigere 'to be stiff', often associated with cold."
+		},
+		"core_concept": {
+			"en": "Inflexible and unwilling to bend",
+			"ja": "遊び（ゆとり）がなく、自身の形を頑なに維持しようとする状態"
+		},
+		"thinking_layer": "凍りついた鉄のように、しなることなく一点を超えると折れてしまう硬さ。適応力を欠いた「硬直した規則」などの峻烈さを意味します。",
+		"aftertaste": "冬の冷気で固まった土、あるいは微動だにしない憲兵の姿勢。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "rig-",
+					"meaning": "stiff"
+				}
+			],
+			"points": [
+				"死後硬直（rigor mortis）と同じ根です。",
+				"しなやかな強さ(resilient)とは対局の性質。"
+			]
+		},
+		"date": "2026-03-11"
+	},
+	{
+		"id": "pliable",
+		"word": "Pliable",
+		"part_of_speech": "adjective",
+		"meaning": "しなやかな、影響を受けやすい",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "plicare",
+					"type": "root",
+					"meaning": "to fold",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Old French plier 'to bend, fold', from Latin plicare."
+		},
+		"core_concept": {
+			"en": "Easily bent or influenced without breaking",
+			"ja": "折れることなく形を変えられる、受け入れと変化の余地"
+		},
+		"thinking_layer": "若い枝のように、外部の力に合わせて形を変えられる性質。心の柔軟性を表すこともあれば、芯がなく流されやすいという弱点を示すこともあります。",
+		"aftertaste": "なめし革の感触、あるいは若木のしなり。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "plic-",
+					"meaning": "to fold"
+				}
+			],
+			"points": [
+				"apply（適用する）やcomplexと同根。",
+				"素材としての加工のしやすさを強調する言葉です。"
+			]
+		},
+		"date": "2026-03-11"
+	},
+	{
+		"id": "lustrous",
+		"word": "Lustrous",
+		"part_of_speech": "adjective",
+		"meaning": "光沢のある、輝かしい",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "lustrare",
+					"type": "root",
+					"meaning": "to illuminate",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin lustrum 'purification'. Reflecting a soft, glowing light."
+		},
+		"core_concept": {
+			"en": "Having a soft, glowing shine",
+			"ja": "汚れのない、内側から滲み出るような気品ある輝き"
+		},
+		"thinking_layer": "真珠やシルクが放つしっとりした光沢。語源が『清める』に関連するように、磨き上げられた純粋な美意識を感じさせる輝きを象徴します。",
+		"aftertaste": "月明かりの水面、あるいは手入れの行き届いた黒髪。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "leuk-",
+					"meaning": "light"
+				}
+			],
+			"points": [
+				"illustrate（説明する）と同根。",
+				"素晴らしい実績（lustrous career）の形容にも。"
+			]
+		},
+		"date": "2026-03-11"
+	},
+	{
+		"id": "solid",
+		"word": "Solid",
+		"part_of_speech": "adjective",
+		"meaning": "固体の、頑丈な、信頼できる",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "solus",
+					"type": "root",
+					"meaning": "whole",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin solidus 'whole, firm, undivided'."
+		},
+		"core_concept": {
+			"en": "Firm and stable in shape; reliable",
+			"ja": "中身が詰まっていて隙がなく、全体として揺るぎない安定性"
+		},
+		"thinking_layer": "空洞がないことの安心感。物理的な強固さはもちろん、人の性格や作品の完成度において「確かな手応え」があることを称賛する言葉です。",
+		"aftertaste": "重厚な岩石、あるいは厚い信頼で結ばれた絆。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sol-",
+					"meaning": "whole"
+				}
+			],
+			"points": [
+				"solitary（孤独）も『一つの全体』であることから派生。",
+				"中身が伴う「本物」であることを指します。"
+			]
+		},
+		"date": "2026-03-11"
+	},
+	{
+		"id": "hollow",
+		"word": "Hollow",
+		"part_of_speech": "adjective",
+		"meaning": "空洞の、空虚な、うつろな",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "hol-",
+					"type": "root",
+					"meaning": "cave, hole",
+					"lang": "Old English"
+				}
+			],
+			"original_statement": "From Old English holh 'hollow place'. Related to hell and cave."
+		},
+		"core_concept": {
+			"en": "Having a hole or empty space inside",
+			"ja": "外側だけは形作られながら、内側が空っぽであるという喪失感"
+		},
+		"thinking_layer": "実体のない響き。空っぽの容器が鳴らす音のように、中身のない言葉や勝利がもたらす「うつろな寂しさ」を冷徹に表現します。",
+		"aftertaste": "洞窟を吹き抜ける風、あるいは形だけの祝辞。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kel-",
+					"meaning": "to hide"
+				}
+			],
+			"points": [
+				"hole, hell, cellarと同根。",
+				"「響きが良いだけ」という否定的なニュアンスを含みます。"
+			]
+		},
+		"date": "2026-03-11"
+	},
+	{
+		"id": "dense",
+		"word": "Dense",
+		"part_of_speech": "adjective",
+		"meaning": "密度の高い、濃い、愚鈍な",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "densus",
+					"type": "root",
+					"meaning": "thick, crowded",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin densus 'thick, crowded'. Meaning high mass per volume."
+		},
+		"core_concept": {
+			"en": "Crowded close together; thick",
+			"ja": "隙間なく要素が詰め込まれ、見通しのきかない重層的な状態"
+		},
+		"thinking_layer": "情報や森の密生など、通り抜けるのが困難なほどの詰まり具合。理解力が低いことを皮肉る際にも使われる、情報の重力のような言葉です。",
+		"aftertaste": "霧が立ち込める森、あるいは極限まで推敲された詩。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "dens-",
+					"meaning": "thick"
+				}
+			],
+			"points": [
+				"condensed milk（練乳）もこの濃縮から。",
+				"「通り抜けるのに努力が必要」というニュアンス。"
+			]
+		},
+		"date": "2026-03-11"
+	},
+	{
+		"id": "sparse",
+		"word": "Sparse",
+		"part_of_speech": "adjective",
+		"meaning": "まばらな、希薄な",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "spargere",
+					"type": "root",
+					"meaning": "to scatter",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin sparsus, past participle of spargere 'to scatter'."
+		},
+		"core_concept": {
+			"en": "Thinly dispersed or scattered",
+			"ja": "広大な余白の中に、わずかな点が存在するだけの静かな疎らさ"
+		},
+		"thinking_layer": "密度（dense）の欠如がもたらす、寂寥感や贅沢なまでの空間。過剰なものが削ぎ落とされた、最小限の配置が放つ美しさを指すこともあります。",
+		"aftertaste": "夜空に散る数少ない星、あるいは冬の枯れ木にわずかに残る葉。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sparg-",
+					"meaning": "to scatter"
+				}
+			],
+			"points": [
+				"spread, disperseと同根。",
+				"「埋まっていないこと」への美学を感じさせる言葉。"
+			]
+		},
+		"date": "2026-03-11"
+	},
+	{
+		"id": "brisk",
+		"word": "Brisk",
+		"part_of_speech": "adjective",
+		"meaning": "きびきびした、すがすがしい、活気のある",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "brusque",
+					"type": "root",
+					"meaning": "lively, sharp",
+					"lang": "French"
+				}
+			],
+			"original_statement": "Origin uncertain, likely from French brusque 'lively, fierce'."
+		},
+		"core_concept": {
+			"en": "Quick and active; energetic",
+			"ja": "停滞を許さない、冷たくも瑞々しい早急な動きと空気感"
+		},
+		"thinking_layer": "早歩き（brisk walk）をした時に肺に吸い込む冷たい空気。無駄のない動きがもたらす、精神的な「シャキッ」とする感覚を象徴します。",
+		"aftertaste": "早朝の散歩、あるいは効率的に進む会議の緊張感。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "brusq-",
+					"meaning": "sharp"
+				}
+			],
+			"points": [
+				"冷たさと速さ、そして元気さがセットになっています。",
+				"ビジネス用語でも『取引が活発』な際によく使われる。"
+			]
+		},
+		"date": "2026-03-11"
+	},
+	{
+		"id": "chilly",
+		"word": "Chilly",
+		"part_of_speech": "adjective",
+		"meaning": "肌寒い、冷淡な",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "cele",
+					"type": "root",
+					"meaning": "cold",
+					"lang": "Old English"
+				}
+			],
+			"original_statement": "From 'chill' + '-y'. Related to coolness and shivering."
+		},
+		"core_concept": {
+			"en": "Uncomfortably cool; unfriendly",
+			"ja": "芯まで凍らせるほどではないが、不快な予感を伴うわずかな冷たさ"
+		},
+		"thinking_layer": "物理的な寒さと、歓迎されていない雰囲気（chilly welcome）。温もりが意図的に、あるいは環境によって遠ざけられた切ない距離感です。",
+		"aftertaste": "隙間風が通る廊下、あるいはよそよそしい会釈。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "gel-",
+					"meaning": "cold"
+				}
+			],
+			"points": [
+				"gelidus, glacier（氷河）と同根。",
+				"「凍える（freezing）」手前の、不快な段階を指します。"
+			]
+		},
+		"date": "2026-03-11"
+	},
+	{
+		"id": "balmy",
+		"word": "Balmy",
+		"part_of_speech": "adjective",
+		"meaning": "穏やかな、爽やかな、癒やしのある",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "balm",
+					"type": "root",
+					"meaning": "healing ointment",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "Derived from 'balm', an aromatic resin used for healing."
+		},
+		"core_concept": {
+			"en": "Pleasantly warm; fragrant and soothing",
+			"ja": "傷ついた皮膚を癒やす薬油（バーム）のように、体に優しく触れる空気の温もり"
+		},
+		"thinking_layer": "春の夜風のように、ただそこにいるだけで緊張が解け、芳醇な香りに包まれるような感覚。空気そのものが慈愛に満ちた質感です。",
+		"aftertaste": "南国の夕暮れの風、あるいは心地よい夢の感触。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "balsamum",
+					"meaning": "aromatic resin"
+				}
+			],
+			"points": [
+				"かつては『狂った（crazy）』という意味もあったのが面白い。",
+				"現在は気候の心地よさを表す代表格です。"
+			]
+		},
+		"date": "2026-03-11"
+	},
+	{
+		"id": "sultry",
+		"word": "Sultry",
+		"part_of_speech": "adjective",
+		"meaning": "蒸し暑い、情熱的な、色っぽい",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "sweltan",
+					"type": "root",
+					"meaning": "to die, perish (burn up)",
+					"lang": "Old English"
+				}
+			],
+			"original_statement": "A contraction of 'sweltry', from 'swelter' meaning to burn with heat."
+		},
+		"core_concept": {
+			"en": "Hot and humid; attractive in a passionate way",
+			"ja": "水分を含んだ重い熱気が肌に纏わりつき、本能を揺さぶるような熱さ"
+		},
+		"thinking_layer": "不快な蒸し暑さと、魅惑的な色気の二面性。どちらも「逃げ場のない、じっとりした熱」が理性を麻痺させる共通の感覚に根ざしています。",
+		"aftertaste": "雷雨の前の静まり返った熱、あるいは湿った髪の艶。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "swelt-",
+					"meaning": "to burn"
+				}
+			],
+			"points": [
+				"swelter（暑さでぐったりする）と同根。",
+				"気候だけでなく、ジャズの音色や雰囲気を表すのによく使われます。"
+			]
+		},
+		"date": "2026-03-11"
+	},
+	{
+		"id": "faint",
+		"word": "Faint",
+		"part_of_speech": "adjective",
+		"meaning": "かすかな、弱々しい、気絶しそうな",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "feindre",
+					"type": "root",
+					"meaning": "to feign, pretend (to be sluggish)",
+					"lang": "Old French"
+				}
+			],
+			"original_statement": "Originating from the idea of being sluggish or lazy. Later settled into 'weak' or 'scarcely perceptible'."
+		},
+		"core_concept": {
+			"en": "Weak and dizzy; barely perceptible",
+			"ja": "極限まで引き伸ばされた線のように、消え入りそうで掴みどころのない希薄さ"
+		},
+		"thinking_layer": "存在と非存在の境界線。かすかな音や光は、こちらの注意が途切れた瞬間に消えてしまいそうな、儚さと緊張感を与えます。",
+		"aftertaste": "遠くで聞こえる波の音、あるいは記憶の隅に僅かに残る香水の匂い。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "feing-",
+					"meaning": "to mold"
+				}
+			],
+			"points": [
+				"feint（フェイント）と同根。形がない事を示唆。",
+				"力強さの完全な欠如、あるいは消失への予感。"
+			]
+		},
+		"date": "2026-03-11"
+	},
+	{
+		"id": "pungent",
+		"word": "Pungent",
+		"part_of_speech": "adjective",
+		"meaning": "強く鼻を突く、辛辣な",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "pungere",
+					"type": "root",
+					"meaning": "to prick",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin pungere 'to prick, sting'. Allied with puncture and point."
+		},
+		"core_concept": {
+			"en": "Sharp and overpowering (smell/taste); bitingly critical",
+			"ja": "針で刺されたような明快で強烈な刺激が、感覚を鋭く覚醒させる性質"
+		},
+		"thinking_layer": "スパイスやアンモニアがもたらす激しい覚醒感。言葉に使われるときは、真実を突き刺すような容赦のない「毒」や「鋭さ」を意味します。",
+		"aftertaste": "刻みたてのネギの匂い、あるいは核心を突いた皮肉な一言。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "pung-",
+					"meaning": "to prick"
+				}
+			],
+			"points": [
+				"puncture（穿刺）やpointと同根。",
+				"ただの強い匂いではなく「刺さる」ような鋭利な刺激。"
+			]
+		},
+		"date": "2026-03-11"
+	},
+	{
+		"id": "savory",
+		"word": "Savory",
+		"part_of_speech": "adjective",
+		"meaning": "食欲をそそる、旨味のある、塩気のある",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "sapere",
+					"type": "root",
+					"meaning": "to taste, be wise",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Old French savor, from Latin sapere 'to taste, perceive'."
+		},
+		"core_concept": {
+			"en": "Appetizing; belonging to the category of salt/spices rather than sweet",
+			"ja": "生命の欲求に直接応える、深い満足感と塩味を伴う豊かな味わい"
+		},
+		"thinking_layer": "甘い誘惑ではなく、スープやお肉などの「どっしりした満足感」をもたらすもの。知恵を指す『sapient』と同親戚で、味わい深い人生への比喩にもなります。",
+		"aftertaste": "煮込まれたシチューの湯気、あるいは信頼できる人物の品格。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sap-",
+					"meaning": "to taste"
+				}
+			],
+			"points": [
+				"Homo sapiens（知性ある人）のsapiensと同じ根。知恵と味は一つ。",
+				"お菓子ではなく『食事』の楽しみを象徴する言葉。"
+			]
+		},
+		"date": "2026-03-11"
+	},
+	{
+		"id": "brittle",
+		"word": "Brittle",
+		"part_of_speech": "adjective",
+		"meaning": "もろい、砕けやすい、冷たい（態度）",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "brytan",
+					"type": "root",
+					"meaning": "to crush, pound",
+					"lang": "Old English"
+				}
+			],
+			"original_statement": "Derived from Old English brytan 'to break into pieces'."
+		},
+		"core_concept": {
+			"en": "Hard but liable to break easily",
+			"ja": "一見して強固でありながら、わずかな衝撃で蜘蛛の巣のように砕け散る硬質な不適合"
+		},
+		"thinking_layer": "しなり（flexibility）を完全に拒絶した硬さの末路。冷たく乾燥した関係性のように、一度ひびが入れば二度と元に戻らない致命的な欠損の予感です。",
+		"aftertaste": "薄く乾いた氷が割れる音、あるいは張り詰めた心の叫び。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "bhreut-",
+					"meaning": "to break"
+				}
+			],
+			"points": [
+				"fragileが『儚い』なら、brittleは『硬くて脆い』質感。",
+				"チョコレート菓子（ブリトル）の語源でもあります。"
+			]
+		},
+		"date": "2026-03-11"
+	},
+	{
+		"id": "fluffy",
+		"word": "Fluffy",
+		"part_of_speech": "adjective",
+		"meaning": "ふわふわした、産毛のような、中身のない",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "flof",
+					"type": "root",
+					"meaning": "mass of fibers",
+					"lang": "English (dialectal)"
+				}
+			],
+			"original_statement": "From 'fluff' + '-y'. Possibly onomatopoeic or related to 'velvet' fibers."
+		},
+		"core_concept": {
+			"en": "Soft, light, and downy",
+			"ja": "空気を含んで膨らみ、重量を感じさせない無重力な柔らかさ"
+		},
+		"thinking_layer": "指を押し当てても抵抗がなく、空気のクッションに包まれるような安心感。内容が薄いが心地よいもの（fluffy movie）など、ポジティブな軽さを象徴します。",
+		"aftertaste": "焼きたてのシフォンケーキ、あるいは生まれたての小犬の毛並み。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "fluff-",
+					"meaning": "loose fibers"
+				}
+			],
+			"points": [
+				"擬音的な響きが、質感そのものを表している。",
+				"「中身がスカスカ」という軽い批判に使われることも。"
+			]
+		},
+		"date": "2026-03-11"
+	},
+	{
+		"id": "slimy",
+		"word": "Slimy",
+		"part_of_speech": "adjective",
+		"meaning": "ぬるぬるした、卑屈な、不快な",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "slim",
+					"type": "root",
+					"meaning": "mud, slime",
+					"lang": "Old English"
+				}
+			],
+			"original_statement": "From Proto-Germanic *slimaz, related to soft, sticky mud."
+		},
+		"core_concept": {
+			"en": "Covered with slime; oily or unpleasantly smooth",
+			"ja": "粘り気のある湿った滑らかさが纏わりつき、拭い去れない嫌悪感"
+		},
+		"thinking_layer": "泥や生物の分泌物のように、つかもうとしてもスルリと逃げてしまう、制御不能な質感。「slimy person（うさんくさい人）」のように、誠実さを欠いた滑らかさを指します。",
+		"aftertaste": "濡れた岩場の苔、あるいは計算高い笑顔。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "slei-",
+					"meaning": "slimy, smooth"
+				}
+			],
+			"points": [
+				"slime（粘液）と同根。",
+				"日本語の『ぬるぬる』よりも、生理的な汚らわしさが強め。"
+			]
+		},
+		"date": "2026-03-11"
+	},
+	{
+		"id": "sticky",
+		"word": "Sticky",
+		"part_of_speech": "adjective",
+		"meaning": "粘着性のある、厄介な、蒸し暑い",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "stician",
+					"type": "root",
+					"meaning": "to pierce, remain fixed",
+					"lang": "Old English"
+				}
+			],
+			"original_statement": "Derived from 'stick'. Associated with both piercing and staying attached."
+		},
+		"core_concept": {
+			"en": "Adhering or tending to adhere to points of contact",
+			"ja": "対象と自分を一つに結合させようとする、執拗で離れがたい執着心"
+		},
+		"thinking_layer": "引き離そうとする力に抵抗し、どこまでもついてくるネバつき。物理的な接着剤から、なかなか解決しない厄介な問題（sticky situation）まで、不自由な拘束感を象徴します。",
+		"aftertaste": "ハチミツをこぼした指先、あるいは終わりの見えない泥沼の交渉。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "steig-",
+					"meaning": "pointed"
+				}
+			],
+			"points": [
+				"「刺さる(stick)」と「くっつく(stick)」は元々同じ言葉。",
+				"蒸し暑くて服が肌につく不快感も sticky です。"
+			]
+		},
+		"date": "2026-03-11"
+	},
+	{
+		"id": "greasy",
+		"word": "Greasy",
+		"part_of_speech": "adjective",
+		"meaning": "油じみた、不誠実な",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "grassus",
+					"type": "root",
+					"meaning": "fat, thick",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "Derived from 'grease', ultimately from Latin crassus 'fat, thick'."
+		},
+		"core_concept": {
+			"en": "Covered with grease or an oily substance",
+			"ja": "過剰な脂肪分が表面を覆い、滑りやすく、かつ不純な汚れを感じさせる質感"
+		},
+		"thinking_layer": "本来の姿を油膜が覆い隠し、触れると自分の手まで汚れてしまうような感覚。調子の良い言葉の裏に不誠実な意図が透けて見える「greasy talk」など、不自然な誇張を連想させます。",
+		"aftertaste": "揚げ物をした後の換気扇、あるいはうさんくさいセールスマンの態度。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "crassus-",
+					"meaning": "thick"
+				}
+			],
+			"points": [
+				"crass（ガサツな）と語源が重なります。",
+				"豊かさが過ぎて不快になる、という境界線上の言葉。"
+			]
+		},
+		"date": "2026-03-11"
+	},
+	{
+		"id": "grimy",
+		"word": "Grimy",
+		"part_of_speech": "adjective",
+		"meaning": "汚れきった、垢じみた",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "grime",
+					"type": "root",
+					"meaning": "dirt deeply ingrained",
+					"lang": "Dutch/Flemish"
+				}
+			],
+			"original_statement": "Related to Dutch 'grijmsel' (soot, smut). Refers to dirt that has become a part of the surface."
+		},
+		"core_concept": {
+			"en": "Deeply soiled; dirty with ingrained grime",
+			"ja": "表面を洗うだけでは落ちない、深層まで浸透してしまった時間の「汚れ」と「疲れ」"
+		},
+		"thinking_layer": "煤（すす）や埃が長い年月をかけて蓄積し、対象の質感そのものを変えてしまった状態。都会の片隅や古い道具が持つ、一種の退廃的でリアルな「生活の痕跡」です。",
+		"aftertaste": "炭鉱から帰った男の手、あるいは雨ざらしのコンクリート壁。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "greim-",
+					"meaning": "soot"
+				}
+			],
+			"points": [
+				"dirtyよりも『こびりついた不潔さ』の度合いが強い。",
+				"洗練とは対極にある、歴史という名の汚れ。"
+			]
+		},
+		"date": "2026-03-11"
+	},
+	{
+		"id": "glossy",
+		"word": "Glossy",
+		"part_of_speech": "adjective",
+		"meaning": "光沢のある、うわべだけの",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "glose",
+					"type": "root",
+					"meaning": "gloss, glow",
+					"lang": "Scandinavian/Germanic"
+				}
+			],
+			"original_statement": "Probably of Scandinavian origin, related to 'glow'. Modern meaning often implies a superficial shine."
+		},
+		"core_concept": {
+			"en": "Shiny and smooth; superficially attractive",
+			"ja": "光を力強く反射させ、一見して魅力的に見えるよう加工された人工的な輝き"
+		},
+		"thinking_layer": "雑誌の表紙やポスターのような、計算された美しさ。中身よりも外見の輝きが先行する性質があり、「うわべだけの完璧さ」という批判的なニュアンスを伴うこともあります。",
+		"aftertaste": "ブランド物のカタログ、あるいは磨き上げられた新車のボディ。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ghlo-",
+					"meaning": "to shine"
+				}
+			],
+			"points": [
+				"glow（輝く）と同根。",
+				"写真のプリントなどで『光沢仕上げ』を指す言葉として一般的。"
+			]
+		},
+		"date": "2026-03-11"
+	},
+	{
+		"id": "matte",
+		"word": "Matte",
+		"part_of_speech": "adjective",
+		"meaning": "つや消しの、濁った",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "mat",
+					"type": "root",
+					"meaning": "exhausted, defeated (checkmate)",
+					"lang": "French/Arabic"
+				}
+			],
+			"original_statement": "From Old French mat 'dull, dejected', related to 'checkmate' (shāh māt 'the king is dead')."
+		},
+		"core_concept": {
+			"en": "Dull and flat, without a shine",
+			"ja": "光を反射させず、穏やかに吸収することで落ち着きと奥行きをもたらす静寂"
+		},
+		"thinking_layer": "チェスの『詰み（マート）』と同じ語源というのが驚きです。光の元気が「死んだ」状態、つまり反射を殺すことで、素材そのものの本質を語らせるという、非常に抑制の効いた美学です。",
+		"aftertaste": "つや消し塗装の陶器、あるいは冬の落ち着いた色調の洋服。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "mat-",
+					"meaning": "dead, dull"
+				}
+			],
+			"points": [
+				"反射がないので、輪郭がはっきりせず、どっしりして見えます。",
+				"洗練された現代的なミニマリズムに多用される。"
+			]
+		},
+		"date": "2026-03-11"
+	},
+	{
+		"id": "bold",
+		"word": "Bold",
+		"part_of_speech": "adjective",
+		"meaning": "大胆な、厚かましい、目立つ",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "bhel-",
+					"type": "root",
+					"meaning": "to swell, blow (膨らむ)",
+					"lang": "PIE"
+				}
+			],
+			"original_statement": "From Proto-Germanic *balpaz 'bold', related to 'swell' or 'blow up' with pride or energy."
+		},
+		"core_concept": {
+			"en": "Showing an ability to take risks; confident and courageous",
+			"ja": "恐怖や躊躇を飲み込み、自らの存在を力強く世界に刻みつけようとする勢い"
+		},
+		"thinking_layer": "内側からエネルギーが「膨れ上がり」、枠線からはみ出していく質感。リスクを恐れず最初の一歩を踏み出す勇気と、時に行き過ぎた傲慢さの背中合わせの状態です。",
+		"aftertaste": "力強い筆致の署名、あるいは誰もいない舞台へ踏み出す足音。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "bhel-",
+					"meaning": "to puff up"
+				}
+			],
+			"points": [
+				"ball, balloon, bellと同根。",
+				"自信という名の『膨張』こそが大胆さの源。"
+			]
+		},
+		"date": "2026-03-11"
+	},
+	{
+		"id": "ancient",
+		"word": "Ancient",
+		"part_of_speech": "adjective",
+		"meaning": "古代の、極めて古い",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "ante-",
+					"type": "prefix",
+					"meaning": "before",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Old French ancien, from Vulgar Latin *anteanus, literally 'from before'."
+		},
+		"core_concept": {
+			"en": "Belonging to the very distant past",
+			"ja": "現在の尺度を遥かに超えた、永遠に近い時間の地層に眠る重み"
+		},
+		"thinking_layer": "単なる『old』が個人の記憶なら、『ancient』は文明や地球の記憶。触れると崩れそうな脆さと、数千年の風雪に耐えた圧倒的な不動性が同居しています。",
+		"aftertaste": "風化した石柱、あるいは夜の砂漠に流れる乾いた風。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ant-",
+					"meaning": "front, before"
+				}
+			],
+			"points": [
+				"before（前）と同根。今の時間の『ずっと前』にあること。",
+				"死者や先祖（ancestor）との強い結びつきがあります。"
+			]
+		},
+		"date": "2026-03-11"
+	},
+	{
+		"id": "timeless",
+		"word": "Timeless",
+		"part_of_speech": "adjective",
+		"meaning": "時を超越した、不朽の",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "time",
+					"type": "root",
+					"meaning": "period of duration",
+					"lang": "Old English"
+				},
+				{
+					"text": "-less",
+					"type": "suffix",
+					"meaning": "without",
+					"lang": "Old English"
+				}
+			],
+			"original_statement": "Combining 'time' and the negative suffix '-less'. Signifies being outside of time's flow."
+		},
+		"core_concept": {
+			"en": "Not affected by the passage of time or changes in fashion",
+			"ja": "流行の波を潜り抜け、時間の風化さえも味方につける、普遍的な完成度"
+		},
+		"thinking_layer": "時間の「外」に出てしまった美しさ。何百年経っても色褪せず、常に「今」の心に突き刺さるような、死ぬことのない価値。それは人間が時間という牢獄から逃れるために作り上げた、最高の芸術の別名です。",
+		"aftertaste": "真夜中の星空、あるいは完璧な円を描く沈黙。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "di-",
+					"meaning": "division, day"
+				}
+			],
+			"points": [
+				"tide（潮の満ち引き＝時間）と同じ根。",
+				"『時間という区切り』を失った、無限への接近。"
+			]
+		},
+		"date": "2026-03-11"
 	}
 ];
