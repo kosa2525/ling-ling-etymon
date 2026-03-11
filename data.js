@@ -248021,5 +248021,260 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-11"
+	},
+	{
+		"id": "individuation",
+		"word": "Individuation",
+		"part_of_speech": "noun",
+		"meaning": "個性化、自己完成",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "in-",
+					"type": "prefix",
+					"meaning": "not"
+				},
+				{
+					"text": "dividuus",
+					"type": "root",
+					"meaning": "divisible"
+				}
+			],
+			"original_statement": "From Latin individuus 'undivided'."
+		},
+		"core_concept": {
+			"en": "Becoming an individual",
+			"ja": "集団から離れ、自己の矛盾さえ統合し、これ以上は『分けられない（not divisible）』唯一無二の自己へと結晶化していく旅"
+		},
+		"thinking_layer": "『分けられないものになること』。他者の模倣を卒業し、内なる声によって自分自身の全体性を完成させるプロセス。孤独かつ豊かな開花。 ",
+		"aftertaste": "仮面を脱ぎ、自分の重みで大地に立つ安堵。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "dwei-",
+					"meaning": "two"
+				}
+			],
+			"points": [
+				"divide, doubleと同根。",
+				"矛盾に引き裂かれない、強固な一律性の獲得。"
+			]
+		},
+		"date": "2026-03-11"
+	},
+	{
+		"id": "asceticism",
+		"word": "Asceticism",
+		"part_of_speech": "noun",
+		"meaning": "禁欲、修練",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "askein",
+					"type": "root",
+					"meaning": "to train"
+				}
+			],
+			"original_statement": "From Greek askein 'to exercise, train'."
+		},
+		"core_concept": {
+			"en": "Self-discipline",
+			"ja": "快楽を削ぎ落とし、魂を研ぎ澄ますために自らを『鍛え上げる（train）』、峻烈で静かな精神のアスリート性"
+		},
+		"thinking_layer": "もとはアスリートの鍛錬。贅肉を落とすように不要な欲求を捨て、本質的な生命力だけを尖らせる。自分への勝利を至福とする情熱。",
+		"aftertaste": "冷たい滝に打たれるような、清涼な緊張感。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"宗教以前に、『技術を磨く職人』や『競技者』の肉体の言葉。"
+			]
+		},
+		"date": "2026-03-11"
+	},
+	{
+		"id": "epicureanism",
+		"word": "Epicureanism",
+		"part_of_speech": "noun",
+		"meaning": "平安、隠遁",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "Epicurus",
+					"type": "root",
+					"meaning": "philosopher名"
+				}
+			],
+			"original_statement": "From Epicurus (341-270 BC)."
+		},
+		"core_concept": {
+			"en": "Seeking pleasure through peace",
+			"ja": "野心を捨て、小さな庭でパンと水、友との対話を愛し、心の平安（アタラクシア）を静かに守り抜く、洗練された『隠れた生』"
+		},
+		"thinking_layer": "『エピクロスの庭』。快楽を貪るのではなく、『贅沢を必要としないこと』を最大の喜びとする。権力の名声を避け、自分を慈しむ幸福自律。 ",
+		"aftertaste": "木漏れ日の下で一杯の冷水を飲む、静かな充足。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"Epicurusは『助ける者（helper）』を意味する。"
+			]
+		},
+		"date": "2026-03-11"
+	},
+	{
+		"id": "absurdism",
+		"word": "Absurdism",
+		"part_of_speech": "noun",
+		"meaning": "不条理主義",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "ab-",
+					"type": "prefix",
+					"meaning": "from/off"
+				},
+				{
+					"text": "surdus",
+					"type": "root",
+					"meaning": "deaf, dull (耳の聞こえない、鈍い)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin absurdus 'out of tune, silly', from surdus 'deaf'."
+		},
+		"core_concept": {
+			"en": "Belief that humanity exists in a purposeless, chaotic universe",
+			"ja": "意味を求める人間と、沈黙し続ける宇宙との間の、絶望的な『音痴さ（out of tune）』。その不協和音をあえて引き受け、笑いながら生きる知恵"
+		},
+		"thinking_layer": "『耳の聞こえない（deaf）状態から』。いくら叫んでも世界は答えてくれない。その『不条理』を前に絶望するのではなく、シシュポスのように岩を押し続けることにのみ輝きを見出す、不敵な知性の形。",
+		"aftertaste": "喜劇と悲劇が紙一重で入れ替わる眩暈、あるいは「それでもなお」と笑う不屈の精神。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "swer-",
+					"meaning": "to buzz, whistle"
+				}
+			],
+			"points": [
+				"surr（ハエの音）と同根。",
+				"『正しい和音（秩序）』に乗り切れない、不協和な実在。"
+			]
+		},
+		"date": "2026-03-11"
+	},
+	{
+		"id": "magnanimity",
+		"word": "Magnanimity",
+		"part_of_speech": "noun",
+		"meaning": "寛大、高潔",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "magnus",
+					"type": "root",
+					"meaning": "great (大きな)"
+				},
+				{
+					"text": "animus",
+					"type": "root",
+					"meaning": "mind, soul (心、魂)"
+				}
+			],
+			"original_statement": "From Latin magnanimitas, from magnus 'great' + animus 'mind'."
+		},
+		"core_concept": {
+			"en": "Generosity and nobility of spirit",
+			"ja": "卑小な復讐や嫉妬を飲み込み、より高く『大きな魂（great soul）』の視座から他者を許し、包み込む、精神の王道的な品格"
+		},
+		"thinking_layer": "『巨大な魂』。小さな傷に拘らず、敵対する者にも礼を尽くす。自らの正しさを誇示するのではなく、圧倒的な大きさで他者を包含すること。強者にのみ許される、究極の優雅。 ",
+		"aftertaste": "敗者を慈しみを持って見送る勝者の背中、あるいは全てを許容する大空の広がり。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "meg-",
+					"meaning": "great"
+				},
+				{
+					"term": "ane-",
+					"meaning": "to breathe"
+				}
+			],
+			"points": [
+				"magnificent, animal（息づくもの）と同根。",
+				"『大きく呼吸する（magn-anim）』ような、ゆとりに満ちた生命活動。"
+			]
+		},
+		"date": "2026-03-11"
+	},
+	{
+		"id": "poiesis",
+		"word": "Poiesis",
+		"part_of_speech": "noun",
+		"meaning": "ポイエーシス、制作、産出",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "poiein",
+					"type": "root",
+					"meaning": "to make (作る)",
+					"lang": "Greek"
+				}
+			],
+			"original_statement": "From Greek poiēsis 'making'."
+		},
+		"core_concept": {
+			"en": "The activity in which a person brings something into being that did not exist before",
+			"ja": "それまで存在していなかった「何ものか」を、無（nothing）から有（being）へと導き（bring forth）、世界を更新する創造的な『産出』"
+		},
+		"thinking_layer": "『創り出すこと』。単なる作業ではなく、新しい意味や風景を世界に付け加えること。詩（poetry）の語源。人間が神の模倣を止め、自らが小さな「創造主」となる瞬間の、神聖な制作活動。",
+		"aftertaste": "真っ白な紙に最初の一行が書かれた瞬間の震え、あるいは未知の機械を組み上げた時の万能感。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kwei-",
+					"meaning": "to pile, build"
+				}
+			],
+			"points": [
+				"poetryと同根。",
+				"石や言葉を『積み重ね（pile）』、新しい形を立ち上げること。"
+			]
+		},
+		"date": "2026-03-11"
+	},
+	{
+		"id": "techne",
+		"word": "Techne",
+		"part_of_speech": "noun",
+		"meaning": "技巧、技術、術（じゅつ）",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "tekhne",
+					"type": "root",
+					"meaning": "art, craft (工芸、術)",
+					"lang": "Greek"
+				}
+			],
+			"original_statement": "From Greek tekhnē 'art, craft'."
+		},
+		"core_concept": {
+			"en": "A true and reasoned state of capacity to make",
+			"ja": "ただ何となく作るのではなく、確かな『理由（logos）』に基づいて対象を加工し、望む形へと導く、知的で洗練された熟練の技術"
+		},
+		"thinking_layer": "『術』。もともとは大工の仕事などを指しました。テクノロジーの語源ですが、単なる「便利な道具」ではなく、素材の性質を知り尽くし、それを最高の形へと昇華させる「知恵としての技」を指します。",
+		"aftertaste": "寸分の狂いもない組木の美しさ、あるいは無駄のないコードの並び。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "teks-",
+					"meaning": "to weave, build"
+				}
+			],
+			"points": [
+				"textile, text, architectureと同根。",
+				"素材を『編み上げ（weave）』、新しい構造を作り出す、知的な指先。"
+			]
+		},
+		"date": "2026-03-11"
 	}
 ];
