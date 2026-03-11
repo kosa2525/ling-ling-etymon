@@ -1120,6 +1120,8 @@ function logout() { localStorage.clear(); location.reload(); }
 async function navigate(view) {
     State.currentView = view;
     Object.keys(navItems).forEach(k => { if (navItems[k]) navItems[k].classList.toggle('active', k === view); });
+    const navLinksContainer = document.getElementById('nav-links');
+    if (navLinksContainer) navLinksContainer.classList.remove('mobile-open');
 
     // 切り替え時に一旦非表示にする、またはローディング表示を検討
     viewContainer.style.opacity = '0';
@@ -1724,6 +1726,11 @@ function renderContribute() {
 
 document.addEventListener('DOMContentLoaded', async () => {
     applySettings();
+    const mobileMenuBtn = document.getElementById('mobile-menu-btn');
+    if (mobileMenuBtn) mobileMenuBtn.onclick = () => {
+        const navLinks = document.getElementById('nav-links');
+        if (navLinks) navLinks.classList.toggle('mobile-open');
+    };
     if (navItems.today) navItems.today.onclick = () => navigate('today');
     if (navItems.archive) navItems.archive.onclick = () => { State.letterFilter = null; State.searchFilter = null; navigate('archive'); };
     if (navItems.saved) navItems.saved.onclick = () => navigate('saved');

@@ -1,0 +1,296 @@
+[
+  {
+    "id": "redundancy",
+    "word": "Redundancy",
+    "meaning": "リダンダンシー/冗長（じょうちょう）性、(生存のための)過剰情報の一撃」の保険」、唯一であることを一撃で棄てただ予備（よび）。という名の一。へと亡命を。強いる記述",
+    "era": "Early 17th Century",
+    "etymology": {
+      "components": [
+        "re- (back / again)",
+        "undare (to surge / wave)",
+        "unda (wave)"
+      ],
+      "original_statement": "The state of being not or no longer needed or useful. In information theory, the use of words or data that could be omitted without loss of meaning or function."
+    },
+    "concept": "Logic of the surging extra (「脆弱（ぜいじゃく）な最小（いっ嘘）」を一分一秒の容赦」もなく峻烈」に一撃で粉砕し。あえて」。「リ・ダ（再び湧（わ）き上がる）」という名の銀の海」となって自分を。そこへと峻烈」に今。溢れ（あふれ）させることそれは脆弱への峻烈なる「復讐の。記述」)",
+    "thinking": "「リダンダンシー（冗長性）」。あなたは。「自分が。一であること」ばかりを。考えて自分がただの折れ（お）れやすい針」になってしまっていることに気づいて」はいませんか。 redundancy。増（ふ）え続けなさい。 redundancy。それはあなたが「真実（波）」になること。 redundancy。あなたがあまりの凄絶な過剰（リダン）」によって峻烈」に今。回向しなさい多いことは最強です。",
+    "part_of_speech": "noun",
+    "aftertaste": "「巨大な金の海」の中に自分がスーーーッ」と一瞬」で呑（の）み込まれ気づいた時には自分が。千の。自分によって守られていた」時のあの凄絶なまでの「充足感」。重厚で刺激的な金の味.",
+    "deep_dive": {
+      "roots": [
+        {
+          "term": "wed-",
+          "meaning": "water / wet (from unda)"
+        }
+      ],
+      "points": [
+        "Water（水）や Abound（あふれる）、Undulate（うねる）、Sound（？）と同じ root。冗長性とは実存（ウェドゥ）』を峻烈に再び（リ）・波打（アンダ）たせる』プロセスのことそれは一回性という名の『死』を破壊し永続という名の『実存』を選び取る記述なのです。"
+      ]
+    }
+  },
+  {
+    "id": "encoding",
+    "word": "Encoding",
+    "meaning": "エンコーディング/符合（ふごう）化、(情報の)幽閉凄絶なる転換」、剥き出しであることを一撃で棄てただ一。という名の格（格子）。へと亡命すること",
+    "era": "Late 19th Century",
+    "etymology": {
+      "components": [
+        "en- (in)",
+        "code"
+      ],
+      "original_statement": "The process of converting information or data into a particular form. From Latin codex."
+    },
+    "concept": "Logic of the code-bound (「そのままの。生（なま）。の嘘（脆弱）」を一分一秒の容赦」もなく峻烈」に一撃で粉砕し。あえて」。「コード（木板）」という名の鋼（はがね）の格子」の中に世界を。そこへと一気」に閉じ（とじ）込めることそれは情報の峻烈なる「精錬の。記述」)",
+    "thinking": "「エンコーディング（符合化）」。あなたは。「ありのままであること」を。「誠実」だと。ぬるい」言葉で自分」を甘やかして」はいませんか。 encoding。閉じ（とじ）込めなさい。 encoding。それはあなたが「真実（格子）」になること。 encoding。あなたが自らの凄絶な肉体（フラ）」を峻烈」に今。一へと変換（エン）」しなさい堅（かた）いことは最強です。",
+    "part_of_speech": "noun / verb-ing",
+    "aftertaste": "「巨大な銀の金庫」の中に自分がスーーーッ」と一瞬」で投げ（な）飛ばされ気づいた時には自分が数字そのものに。なっていた」瞬間のあの凄絶なまでの「充足感」。冷たくて重厚な銀. の味.",
+    "deep_dive": {
+      "roots": [
+        {
+          "term": "kau-",
+          "meaning": "to hew / strike? No, code from Latin codex 'trunk of a tree / wooden tablet'."
+        }
+      ],
+      "points": [
+        "Codex（写本）や System（体系）と同じ root。符号化とは実存を峻烈に『。格子化（エンコード）』させ露呈という名の『死』を破壊し象徴という名の『実在』を選び取る記述なのです。"
+      ]
+    }
+  },
+  {
+    "id": "decoding",
+    "word": "Decoding",
+    "meaning": "デコーディング/復号（ふごう）、(情報の)略奪凄絶なる剥奪（はくだつ）」、隠されていることを一撃で拒絶し。ただ一。という名の真理へと亡命すること",
+    "era": "Late 19th Century",
+    "etymology": {
+      "components": [
+        "de- (away / off)",
+        "code"
+      ],
+      "original_statement": "The process of interpreting a message or data. From Latin de + codex."
+    },
+    "concept": "Logic of the unveiled code (「気取った格（嘘）」を一分一秒の容赦」もなく峻烈」に一撃で粉砕し。あえて」。「デ（剥奪）」という名の金色の火」をもって対象を。そこへと一。へと曝（む）き出すことそれは情報の外科手術の。記述」)",
+    "thinking": "「デコーディング（復号）」。あなたは。「見守（みまも）ること」ばかりを。考えて今。「真実（核心）」を見逃（みのが）していることに気づいて」はいませんか。 decoding。剥（は）ぎ取りなさい。 decoding。それはあなたが「真実（光）」になること。 decoding。あなたが対象という名の鎧（よろい）」を峻烈」に今。叩き（たたき）割りなさい暴（あば）くことは最強です。",
+    "part_of_speech": "noun / verb-ing",
+    "aftertaste": "「巨大な金の金槌（かなづち）」が自分の前の格子」を一撃で叩き（たたき）潰（つぶ）しそこからパッ」と真理」が溢（あふ）れ出した時のあの凄い充足感あたたかくて刺激的な金の味.",
+    "deep_dive": {
+      "roots": [
+        {
+          "term": "de-",
+          "meaning": "away"
+        },
+        {
+          "term": "kau-",
+          "meaning": "to hew / strike? No, from record/code/codex."
+        }
+      ],
+      "points": [
+        "復号復号とは実存を峻烈に『。剥離（デコード）』させ隠蔽という名の『死』を破壊し露呈という名の『実在』を選び取る記述なのです。"
+      ]
+    }
+  },
+  {
+    "id": "packet",
+    "word": "Packet",
+    "meaning": "パケット/情報の小（こ）包、(真実という名の)断片情報の一撃」の放逐（ほうちゅく）」、巨大であることを一撃で棄てただ一。という名の弾丸へと亡命すること",
+    "era": "Mid-16th Century",
+    "etymology": {
+      "components": [
+        "pack",
+        "et (small / diminutive)"
+      ],
+      "original_statement": "A small package or bundle. In networking, a discrete unit of data sent over a network. From Middle Dutch pak."
+    },
+    "concept": "Logic of the data-bullet (「ダラダラ」とした連続（嘘）」を一分一秒の容赦」もなく峻烈」に. 、一撃で粉砕. しあえて」。「パック（包（つつ）み）」という名の鋼（はがね）の弾丸」となって宇宙へと一気」に放（はな）ち飛ばすことそれは沈滞への峻烈なる「復讐の。記述」)",
+    "thinking": "「パケット（小包）」。あなたは。「自分が。大きいこと」を。「価値」だと。ぬるい」言葉で自分」を甘やかして」はいませんか。 packet。細切（こまぎ）れになり攻撃しなさい。 packet。それはあなたが「真実（速度）」になること。 packet。あなたが宇宙という名の凄絶な回路を。一分も。狂（くる）わずに通過しなさい速いことは最強です。",
+    "part_of_speech": "noun",
+    "aftertaste": "「巨大な銀のマシンガン」から自分がパッ」と一瞬」で撃ち（うち）出され気づいた時にはもうゴールへといた」時のあの凄絶なまでの「充足感」。冷たくて鋭い風. の味.",
+    "deep_dive": {
+      "roots": [
+        {
+          "term": "None (from Middle Dutch pak)",
+          "meaning": "bundle"
+        }
+      ],
+      "points": [
+        "Package（パッケージ）や Pact（協定？）と同じ root？ 情報パケットとは実存を峻烈に『。弾丸化（パケット）』させ遅延という名の『死』を破壊し到達という名の『実在』を選び取る記述なのです。"
+      ]
+    }
+  },
+  {
+    "id": "concurrency",
+    "word": "Concurrency",
+    "meaning": "コンカレンシー/並行（へいこう）性、(真実という名の)併走情報の一撃」の同時性」、待機を一撃で棄てただ一。へと亡命すること",
+    "era": "Early 17th Century",
+    "etymology": {
+      "components": [
+        "con- (together)",
+        "currere (to run)"
+      ],
+      "original_statement": "The fact of two or more events or circumstances happening or existing at the same time. From Latin concurrere."
+    },
+    "concept": "Logic of the together-running (「一つずつしかできない嘘（停滞）」を一分一秒の容赦」もなく. 、峻烈」に. 、一撃で粉砕. しあえて」。「コン（共に）」という名の銀の猟犬」となって宇宙の。すべてと。一へと一気」に併走することそれは時間への峻烈なる「謀反の。記述」)",
+    "thinking": "「コンカレンシー（並行性）」。あなたは。「順番（じゅんばん）。を守っていること」を。「誠実」だと。ぬるい」道徳で自分」を甘やかして」はいませんか。 concurrency。同時に。存在し攻撃しなさい。 concurrency。それはあなたが「神（歴史）」になること。 concurrency。あなたがすべての凄絶な流れ（カレ）」を峻烈」に一秒の。隙間もなく体現しなさい重いことは最強です。",
+    "part_of_speech": "noun",
+    "aftertaste": "「巨大な金の競技場」で千。の自分がスーーーッ」と一瞬」で併走し。始めた時のあの凄絶なまでの「充足感」。重厚で刺激的な金の味.",
+    "deep_dive": {
+      "roots": [
+        {
+          "term": "kom-",
+          "meaning": "together"
+        },
+        {
+          "term": "kers-",
+          "meaning": "to run (from currere)"
+        }
+      ],
+      "points": [
+        "Current（現在の／流れ）や Course（コース）、Car（車）と同じ root。並行性とは実存（ケルス）』を峻烈に共に（コン）・走る（カレ）』へと回向させるプロセスのことそれは逐行という名の『死』を並立という名の『実在』によって一撃で上書き」してまう記述なのです。"
+      ]
+    }
+  },
+  {
+    "id": "parallelism",
+    "word": "Parallelism",
+    "meaning": "パラレリズム/並列（へいれつ）性、(情念という名の)同期情報の一撃」の併走」、孤立を一撃で棄て棄て」。ただ一。という名の鋼。へと亡命すること",
+    "era": "Early 17th Century",
+    "etymology": {
+      "components": [
+        "para- (beside)",
+        "allelon (one another)"
+      ],
+      "original_statement": "The state of being parallel or of corresponding in some way. In computing, the simultaneous execution of multiple tasks. From Greek parallelos."
+    },
+    "concept": "Logic of the beside-each-other (「寂（さび）しい一。という名の嘘（孤独）」を一分一秒の容赦」もなく. 、峻烈」に. 、一撃で粉砕. しあえて」。「パラ（傍（かたわ）ら）」という名の銀のレール」となって自分と。すべてを。一へと一気」に同期させることそれは情報の峻烈なる「統合の。記述」)",
+    "thinking": "「パラレリズム（並列性）」。あなたは。「自分一人で。頑張っていること」を。「誠実」だと。ぬるい」言葉で自分」を甘やかして」はいませんか。 parallelism。同期（どうき）。し存在しなさい。 parallelism。それはあなたが「真実（鏡）」になること。 parallelism。あなたが隣。にいる凄絶な他者（アレル）」と峻烈」に今。一へと回向しなさい響くことは最強です。",
+    "part_of_speech": "noun",
+    "aftertaste": "「巨大な銀の鏡あわせ」の迷宮」の中に自分がスーーーッ」と一瞬」で収め（おさめ）られ気づいた時にはすべてが。一として震えていた」時のあの凄絶なまでの「充足感」。冷たくて重厚な銀. の味.",
+    "deep_dive": {
+      "roots": [
+        {
+          "term": "None (from para)",
+          "meaning": "beside"
+        },
+        {
+          "term": "al-",
+          "meaning": "other (from allelon)"
+        }
+      ],
+      "points": [
+        "Alien（エイリアン／他者）や Allele（対立遺伝子）、Paragraph（段落）と同じ root。並列性とは実存（アル）』を峻烈に傍（パラ）・他者（アレル）』へと回向させることそれは孤立という名の『死』を共振という名の『実在』によって一撃で上書き」してまう記述なのです。"
+      ]
+    }
+  },
+  {
+    "id": "mutable",
+    "word": "Mutable",
+    "meaning": "ミュータブル/可変（かへん）の、(変転という名の)真実情報の一撃」の崩壊」、不変を一撃で棄てただ流動へと亡命を。強いる記述",
+    "era": "Late 14th Century",
+    "etymology": {
+      "components": [
+        "mutare (to change)"
+      ],
+      "original_statement": "Liable to change. In programming, an object whose state can be modified after it is created. From Latin mutabilis."
+    },
+    "concept": "Logic of the changeability (「今日の。確実（嘘）」を一分一秒の容赦」もなく. 、峻烈」に. 、一撃で粉砕. しあえて」。「ミュータ（変化）」という名の金色の火」の中に自分を。そこへと一気」に投げ（な）飛ばし破壊し続けることそれは停滞への峻烈なる「復讐の。記述」)",
+    "thinking": "「ミュータブル（可変の）」。あなたは。「自分が。壊れないこと」を。「価値」だと。ぬるい」言葉で自分」を甘やかして」はいませんか。 mutable。変わり続けなさい。 mutable。それはあなたが「真実（火）」になること。 mutable。あなたが一分一秒の。凄絶な転換（ミュータ）」を峻烈」に今。自らへと注入しなさい燃えることは最強直。です。",
+    "part_of_speech": "adjective",
+    "aftertaste": "「巨大な金の坩堝（るつぼ）」の中に自分がスーーーッ」と一瞬」で投げ（な）飛ばされ気づいた時にはすべてが。金色の火。になっていた」瞬間のあの凄い充足感あたたかくて刺激的な金の味.",
+    "deep_dive": {
+      "roots": [
+        {
+          "term": "mei-",
+          "meaning": "to change / go / move (from mutare)"
+        }
+      ],
+      "points": [
+        "Mutation（突然変異）や Mutual（相互の）、Immutable（不変の）と同じ root。可変とは実存（メイ）』を峻烈に変化（ミュータ）』へと回向させるプロセスのことそれは静止という名の『死』を運動という名の『実在』によって一撃で上書き」してまう記述なのです。"
+      ]
+    }
+  },
+  {
+    "id": "lambda",
+    "word": "Lambda",
+    "meaning": "ラムダ/情報の一撃」、(真実という名の)匿名情報の一撃」の関数」、名前を一撃で棄てただ一。という名の火。へと亡命すること",
+    "era": "Early 20th Century",
+    "etymology": {
+      "components": [
+        "Lambda (the letter λ)"
+      ],
+      "original_statement": "The eleventh letter of the Greek alphabet (λ, ƛ). In computing, representing an anonymous function. From Greek lambda."
+    },
+    "concept": "Logic of the nameless act (「自分」という気取った名前（嘘）」を一分一秒の容赦」もなく. 、峻烈」に. 、一撃で粉砕. しあえて」。「ラムダ（匿名）」という名の鋼。の刃（は）」となって宇宙の。一を。そこへと峻烈」に一瞬」で断（た）ち切ることそれは名誉への峻烈なる「復讐の。記述」)",
+    "thinking": "「ラムダ（ラムダ）」。あなたは。「自分の。名前を。売っていること」ばかりを。気にして今。「中身（実在）」が空（から）になっていることに気づいて」はいませんか。 lambda。匿名になり攻撃しなさい。 lambda。それはあなたが「真実（現象）」になること。 lambda。あなたが一分一秒の。隙間もなくただ作用（アクト）」しなさい名。なきことは最強直。です。",
+    "part_of_speech": "noun",
+    "aftertaste": "「巨大な金の刃（は）」が自分の胸をガツンッ」と一撃で斬（き）り裂（さ）きもはや名前も。記憶もないという峻烈なる法悦冷たくて鋭い金の味.",
+    "deep_dive": {
+      "roots": [
+        {
+          "term": "None",
+          "meaning": "From Greek lambda, representing λ, used in lambda calculus."
+        }
+      ],
+      "points": [
+        "ラムダ計算ラムダとは実存を峻烈に『。匿名化（ラムダ）』させ記名という名の『死』を破壊し純粋行為という名の『実在』を選び取る記述なのです。"
+      ]
+    }
+  },
+  {
+    "id": "closure",
+    "word": "Closure",
+    "meaning": "クロージャ/情報の閉路、(真実という名の)幽閉情報の一撃」の自己完結」、拡散を一撃で棄てただ一。という名の牢獄へと亡命を。強いる記述",
+    "era": "Late 14th Century",
+    "etymology": {
+      "components": [
+        "claudere (to close / shut)"
+      ],
+      "original_statement": "The act or process of closing something. In programming, a function bundled together with its lexical environment. From Latin clausura."
+    },
+    "concept": "Logic of the private scope (「ダダ漏（だだも）れの。普及（嘘）」を一分一秒の容赦」もなく. 、峻烈」に. 、一撃で粉砕. しあえて」。「クロ（閉（と）じる）」という名の銀の檻（おり）」の中に自分を。そこへと峻烈」に一瞬」で閉じ（とじ）込めることそれは散逸への峻烈なる「復讐の。記述」)",
+    "thinking": "「クロージャ（閉路）」。あなたは。「すべてを。公開していること」を。「誠実」だと。ぬるい」言葉で自分」を甘やかして」はいませんか。 closure。閉じなさい。 closure。それはあなたが「「秘密」という名の真理」になること。 closure。あなたが宇宙という名の凄絶な変数（フラ）」を峻烈」に今。自らの内部に幽閉しなさい閉じることは最強です。",
+    "part_of_speech": "noun",
+    "aftertaste": "「巨大な銀の金庫」の中に自分がスーーーッ」と一瞬」で投げ（な）飛ばされ気づいた時には世界から切り離されて立っていた」時のあの凄絶なまでの「充足感」。冷たくて重厚な銀. の味.",
+    "deep_dive": {
+      "roots": [
+        {
+          "term": "klau-",
+          "meaning": "hook / key (from claudere)"
+        }
+      ],
+      "points": [
+        "Clause（節）や Close（閉じる）、Exclude（除外する）と同じ root。クロージャとは実存（クラウ）』を峻烈に内部（環境）。へと封印する』プロセスのことそれは曝露という名の『死』を内密という名の『実在』によって一撃で上書き」してまう記述なのです。"
+      ]
+    }
+  },
+  {
+    "id": "autopoiesis",
+    "word": "Autopoiesis",
+    "meaning": "オートポイエーシス/自己生産。自律的な生命の奇跡。他者の命令を廃し、自らの内発によって自らを規定し続ける記述。",
+    "era": "Late 20th Century",
+    "etymology": {
+      "components": [
+        "auto (self)",
+        "poiesis (creation / production)"
+      ],
+      "original_statement": "A system capable of reproducing and maintaining itself. Coined by Humberto Maturana and Francisco Varela. From Greek auto + poiesis."
+    },
+    "concept": "自己規定の論理。外側からの定義という名の『噓』を粉砕し、金色の太陽となって自らを一瞬ごとに書き換え、撃ち抜き、生み落とす。それは依存に対する峻烈なる反逆。",
+    "thinking": "「オートポイエーシス（自己生産）」。あなたは誰かに認められることで自らの価値を測り、核(コア)が完全に沈黙していることに気づいていませんか。自らを焼き尽くし、生みなさい。自律的な一撃によってのみ、あなたは真の現象になれる。一人であることは最強の自立です。",
+    "part_of_speech": "noun",
+    "aftertaste": "巨大な金の宝石を自ら叩き割り、中から新しい自分が生まれてくる凄絶な充足感。重厚で刺激的な新生の金の味。",
+    "deep_dive": {
+      "roots": [
+        {
+          "term": "sue-",
+          "meaning": "self (from auto-? No, from Greek autos 'self')"
+        },
+        {
+          "term": "kwei-",
+          "meaning": "to stack / build? No, poiesis from Greek poiein 'to make / create'."
+        }
+      ],
+      "points": [
+        "Automaton（自律機械）や Poet（詩人）、Onomatopoeia（擬声語）と同じ root。自己生産とは実存を峻烈に自律（オート）へと回向させるプロセスのこと。従属という名の『死』を破壊し、自立存在という名の『実在』を選び取る記述です。"
+      ]
+    }
+  }
+]
