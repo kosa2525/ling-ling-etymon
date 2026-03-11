@@ -248580,5 +248580,412 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-11"
+	},
+	{
+		"id": "sagacity",
+		"word": "Sagacity",
+		"part_of_speech": "noun",
+		"meaning": "聡明、鋭い洞察力",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "sagire",
+					"type": "root",
+					"meaning": "to perceive keenly"
+				}
+			],
+			"original_statement": "From Latin sagacitas, from sagire 'to perceive keenly'."
+		},
+		"core_concept": {
+			"en": "Keen discernment",
+			"ja": "猟犬が獲物の微かな匂いを嗅ぎつけるように、複雑な現実の中から真実の兆候を鋭く捉え（perceive keenly）、的確な判断を下す野生の鋭さ"
+		},
+		"thinking_layer": "『鋭く感知すること』。知識ではなく直感的鋭さと経験の融合。まだ誰も気づいていない時代の変化や、人の真意をその『匂い』だけで言い当てる高貴な知性。",
+		"aftertaste": "闇の中でも真実を見失わない、透徹した視線。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sag-",
+					"meaning": "to track"
+				}
+			],
+			"points": [
+				"seek, sage（賢者）と同根。",
+				"真理を追いかけ足跡をたどる能動的な知の営み。"
+			]
+		},
+		"date": "2026-03-11"
+	},
+	{
+		"id": "introspection",
+		"word": "Introspection",
+		"part_of_speech": "noun",
+		"meaning": "内省、内観",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "intro-",
+					"type": "prefix",
+					"meaning": "inward"
+				},
+				{
+					"text": "specere",
+					"type": "root",
+					"meaning": "look at"
+				}
+			],
+			"original_statement": "From Latin introspicere 'look into'."
+		},
+		"core_concept": {
+			"en": "Observation of mental processes",
+			"ja": "カメラのレンズを自分自身へ向け、心の影や欲望を『内側から見つめる（look inward）』冷徹で誠実な魂の鏡"
+		},
+		"thinking_layer": "『内側を見ること』。他人の前に、自分という暗い洞窟に灯火を掲げて探検する。自分がなぜ喜び、怒るのか。その原因を自分に探すことで、知性は本当の自由を掴む。",
+		"aftertaste": "自分の中の、まだ見ぬ他者との出会いの衝撃。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "spek-",
+					"meaning": "to observe"
+				}
+			],
+			"points": [
+				"perspective, respectと同根。",
+				"外を見る目をそのまま内へと転用した高度な意識の反転。"
+			]
+		},
+		"date": "2026-03-11"
+	},
+	{
+		"id": "foresight",
+		"word": "Foresight",
+		"part_of_speech": "noun",
+		"meaning": "先見の明、予見",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "fore-",
+					"type": "prefix",
+					"meaning": "before"
+				},
+				{
+					"text": "sight",
+					"type": "root",
+					"meaning": "seeing"
+				}
+			],
+			"original_statement": "From fore- 'before' + sight."
+		},
+		"core_concept": {
+			"en": "Ability to predict future",
+			"ja": "まだ来ぬ未来が訪れる『前（before）』に、その予兆を見定め（seeing）、正解へと舵を切るための知的な望遠鏡"
+		},
+		"thinking_layer": "『前に見ること』。目の前の欲望ではなく数手先、数十年先の利益を見据える。それは不安に怯えることではなく、未来を自らの手でデザインするための、責任ある想像力です。",
+		"aftertaste": "嵐が来る前に港へ戻る安心感、あるいは時代を先取りする愉悦。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"hindsight（後知恵）の対義語。",
+				"時間を空間のように『見渡す（seeing）』、超時間的な意識。"
+			]
+		},
+		"date": "2026-03-11"
+	},
+	{
+		"id": "hindsight",
+		"word": "Hindsight",
+		"part_of_speech": "noun",
+		"meaning": "後知恵、後から分かること",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "hind-",
+					"type": "prefix",
+					"meaning": "behind (後ろに)"
+				},
+				{
+					"text": "sight",
+					"type": "root",
+					"meaning": "seeing"
+				}
+			],
+			"original_statement": "From hind- 'behind' + sight."
+		},
+		"core_concept": {
+			"en": "Understanding a situation only after it has happened",
+			"ja": "嵐が去り、全てが決着した『後ろ（behind）』で、あの時どうすべきだったかを静かに『見つめ直す（seeing）』、苦くも貴重な経験の言葉"
+		},
+		"thinking_layer": "『後ろを見ること』。渦中では見えなかった真実が、距離を置くことで初めて浮き彫りになる。それはしばしば後悔を伴いますが、その痛みを栄養として次の『先見（foresight）』へと変えるための、内省の材料です。",
+		"aftertaste": "「今思えば…」という深い溜息、あるいは点と点が繋がる歴史の皮肉。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"hind（後ろ足）, behindと同根。",
+				"過去という安定した地平から、混乱した現在を裁く視座。"
+			]
+		},
+		"date": "2026-03-11"
+	},
+	{
+		"id": "ancestry",
+		"word": "Ancestry",
+		"part_of_speech": "noun",
+		"meaning": "家系、祖先、ルーツ",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "ante-",
+					"type": "prefix",
+					"meaning": "before (前に)"
+				},
+				{
+					"text": "cedere",
+					"type": "root",
+					"meaning": "to go (行く)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin antecessor 'predecessor', from ante- 'before' + cedere 'go'."
+		},
+		"core_concept": {
+			"en": "One's family or ethnic descent",
+			"ja": "自分という存在が生まれるより遥か『前（before）』に、この大地を『歩いた（go）』無数の人々。自分に繋がる生命の巨大な河の源流"
+		},
+		"thinking_layer": "『先に行くこと』。現在の自分は、数千年のバトンを受け取った最終走者でしかないという謙虚さ。祖先を思うことは、自分の中に眠る膨大な歴史のデータベースへのアクセスを意味します。",
+		"aftertaste": "自分とよく似た目を持つ、古い写真への驚き。あるいは、数万年前の洞窟壁画の前に立つ連帯感。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ked-",
+					"meaning": "to go, yield"
+				}
+			],
+			"points": [
+				"predecessor, success（後にゆく→成功）と同根。",
+				"過去から流れてくる『生命の勢い』を、自分がどう継承するか。"
+			]
+		},
+		"date": "2026-03-11"
+	},
+	{
+		"id": "lineage",
+		"word": "Lineage",
+		"part_of_speech": "noun",
+		"meaning": "血統、系譜、縦の繋がり",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "linea",
+					"type": "root",
+					"meaning": "line (糸、線)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin linea 'line'."
+		},
+		"core_concept": {
+			"en": "Direct descent from an ancestor",
+			"ja": "混沌とした歴史の中で、自分という一点（dot）から過去の始祖へとまっすぐに伸びる一本の『線（line）』。途切れることなき生命の垂直な糸"
+		},
+		"thinking_layer": "『一本の線』。横に広がる家族（family）に対し、縦に貫く絶対的な繋がり。それは技術の継承であり、王家の正統性であり、一滴の血の中に凝縮された「選ばれし者」のアイデンティティです。",
+		"aftertaste": "磨き上げられた刀身のような、研ぎ澄まされた正統性の美しさ。あるいは、代々続く伝統の重圧の中にある誇り。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "lino-",
+					"meaning": "flax (リンネルの糸)"
+				}
+			],
+			"points": [
+				"line, linen, alignと同根。",
+				"『細い糸』を縒り合わせ（align）、決して切れない『歴史の綱』を編む。"
+			]
+		},
+		"date": "2026-03-11"
+	},
+	{
+		"id": "genealogy",
+		"word": "Genealogy",
+		"part_of_speech": "noun",
+		"meaning": "系図学、系譜、ルーツ探し",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "genea",
+					"type": "root",
+					"meaning": "generation, race (世代、種族)",
+					"lang": "Greek"
+				},
+				{
+					"text": "logia",
+					"type": "root",
+					"meaning": "study"
+				}
+			],
+			"original_statement": "From Greek genea 'race, family' + -logia 'study'."
+		},
+		"core_concept": {
+			"en": "A line of descent traced continuously from an ancestor",
+			"ja": "無数に枝分かれする生命の樹を遡り、自らがどの『種（race）』から芽吹いたのかを論理（logos）で解き明かす、知的な自己探究"
+		},
+		"thinking_layer": "『世代の研究』。自分が突然変異ではなく、巨大な構造の一部であることを確認すること。家系図を描くことは、自分の場所を宇宙の中に「位置づける（locate）」ための、最もプライベートで壮大な学問です。",
+		"aftertaste": "図書館の古文書に見つけた自分の名字の震え、あるいは全ての人間が最後には一組の男女に繋がってゆく不思議。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "gene-",
+					"meaning": "to give birth"
+				}
+			],
+			"points": [
+				"genetics, genius（守護霊・才能）, nation, gonadと同根。",
+				"『絶え間なき誕生（birth）』の連鎖。"
+			]
+		},
+		"date": "2026-03-11"
+	},
+	{
+		"id": "nimbus",
+		"word": "Nimbus",
+		"part_of_speech": "noun",
+		"meaning": "光輪、雨雲、神の現出",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "nimbus",
+					"type": "root",
+					"meaning": "cloud, rainstorm (雲、豪雨)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin nimbus 'cloud, rainstorm'."
+		},
+		"core_concept": {
+			"en": "A luminous cloud or a halo surrounding a supernatural being or a saint",
+			"ja": "神が地上に現れる時に纏う、輝く『雲（cloud）』。圧倒的な超越性を直視させないための、美しくも恐ろしい情報のベール"
+		},
+		"thinking_layer": "『雨雲』。オーラやヘイローが「本人の放射」なら、ニンバスは「本人の周りの場を支配する霧」です。それは恩恵を降らせる雨雲であり、同時にそのあまりの眩しさから人を守る盾でもあります。荘厳な霧の如き光。",
+		"aftertaste": "深い霧の向こうから現れる、巨大な仏像のシルエット。あるいは、天才が纏う、安易な接近を許さない高潔な霧。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "nebh-",
+					"meaning": "cloud, mist"
+				}
+			],
+			"points": [
+				"nephew（雲→親戚の不明瞭な関係性ではない）, nebula（星雲）と同根。",
+				"『輪郭を曖昧にする（mist）』ことで、かえって本質を際立たせる。"
+			]
+		},
+		"date": "2026-03-11"
+	},
+	{
+		"id": "majesty",
+		"word": "Majesty",
+		"part_of_speech": "noun",
+		"meaning": "威厳、荘厳、陛下",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "major",
+					"type": "root",
+					"meaning": "greater (より大きい)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin majestas 'dignity, sovereignty', from major 'greater'."
+		},
+		"core_concept": {
+			"en": "Impressive stateliness, dignity, or beauty",
+			"ja": "他を圧倒する『巨大さ（greater）』から自然と溢れ出す、犯しがたい気高さ。言葉を発さずとも人を跪かせる、静かなる力の重力"
+		},
+		"thinking_layer": "『より大きいこと』。単なる筋肉の強さではなく、存在としての格の違い。山脈や宇宙、あるいは正義を司る王が纏う、重厚な沈黙。それは小さい者が大きいものに対して抱く、本能的な敬畏（awe）の座です。",
+		"aftertaste": "ヒマラヤの山嶺が夕日に染まる静かな威圧感。あるいは、歴史を作った老賢人が静かに口を開く瞬間の、広場の静まり。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "meg-",
+					"meaning": "great"
+				}
+			],
+			"points": [
+				"major, maximum, mega, masterと同根。",
+				"『最大であること』が、そのまま『美徳・正しさ（dignity）』へと直結する古代の感性。"
+			]
+		},
+		"date": "2026-03-11"
+	},
+	{
+		"id": "nobility",
+		"word": "Nobility",
+		"part_of_speech": "noun",
+		"meaning": "高貴、崇高、貴族階級",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "nobilis",
+					"type": "root",
+					"meaning": "noble, notable (よく知られた、有名な)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin nobilitas, from nobilis 'notable, noble', from gnoscere 'to know'."
+		},
+		"core_concept": {
+			"en": "The quality of being noble in character, mind, birth, or rank",
+			"ja": "世俗の汚れに染まることなく、誰もが『よく知っている（notable）』卓越した美徳を、当たり前の呼吸のように生きる、魂の気高さ"
+		},
+		"thinking_layer": "『よく知られていること』。昔は、その卓越性が抜きん出ているがゆえに「目立つ者（notable）」を指しました。地位があるから高貴なのではなく、その振る舞いの美しさが万人に知れ渡ってしまうほど圧倒的である、という逆説。",
+		"aftertaste": "泥沼の中にありながら、泥に染まらず咲く蓮の花。あるいは、自分を犠牲にしても守るべき価値を譲らない、その潔い背中。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "gno-",
+					"meaning": "to know"
+				}
+			],
+			"points": [
+				"know, cognition, gnostic（霊的人間）と同根。",
+				"『真理を知っている』者だけが、真に『高貴（noble）』であれるという、知の伝統。"
+			]
+		},
+		"date": "2026-03-11"
+	},
+	{
+		"id": "courtesy",
+		"word": "Courtesy",
+		"part_of_speech": "noun",
+		"meaning": "礼儀、丁重、宮廷風のマナー",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "court",
+					"type": "root",
+					"meaning": "court (宮廷、中庭)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Old French cortesie, from corteis 'courteous', from Latin cohors 'enclosure, yard'."
+		},
+		"core_concept": {
+			"en": "The showing of politeness in one's attitude and behavior toward others",
+			"ja": "野蛮な喧騒から離れた『宮廷（court）』の静寂の中で磨き上げられた、他者への深い敬意と、自分自身の感情を律する優雅なる知恵"
+		},
+		"thinking_layer": "『宮廷の振る舞い』。もとは、人々が集まる「囲い（yard）」の中で衝突を避けるためのマナー。それは上辺の技術ではなく、相手の尊厳を守るために、自らの言葉や仕草を「美しく制限」する、高度な文明の産物です。",
+		"aftertaste": "相手の話を最後まで静かに聴く、その「待つ」という優しさ。あるいは、不意の失礼を笑って許す、大人のゆとり。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "gher-",
+					"meaning": "to grasp, enclose"
+				}
+			],
+			"points": [
+				"garden, cohort, choirと同根。",
+				"『境界を引く（enclose）』ことが、安全で美しい交流（garden/court）を可能にする。"
+			]
+		},
+		"date": "2026-03-11"
 	}
 ];
