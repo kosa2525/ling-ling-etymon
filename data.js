@@ -250175,5 +250175,205 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-11"
+	},
+	{
+		"id": "kakistocracy",
+		"word": "Kakistocracy",
+		"part_of_speech": "noun",
+		"meaning": "愚物政治",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "kakistos",
+					"type": "root",
+					"meaning": "worst"
+				}
+			],
+			"original_statement": "From Greek kakistos 'worst' + kratos 'rule'."
+		},
+		"core_concept": {
+			"en": "Government by the worst people",
+			"ja": "最も無能で不謹慎な者たちが権力を握り、社会を劣化させてゆく、最悪の（worst）統治形態"
+		},
+		"thinking_layer": "『最悪の支配』。民主主義の対極。公的責任より私利私欲が優先され、徳が軽視される警告の鏡。 ",
+		"aftertaste": "知性の敗北を認めることの、深い虚脱感。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kakka-",
+					"meaning": "to defecate"
+				}
+			],
+			"points": [
+				"cacophony, cachexiaと同根。",
+				"汚物が社会の頭脳に昇り詰めた状態。"
+			]
+		},
+		"date": "2026-03-11"
+	},
+	{
+		"id": "negentropy",
+		"word": "Negentropy",
+		"part_of_speech": "noun",
+		"meaning": "負のエントロピー、秩序への意志",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "negative",
+					"type": "prefix",
+					"meaning": "negating"
+				}
+			],
+			"original_statement": "From negative + entropy."
+		},
+		"core_concept": {
+			"en": "Measure of order / Information",
+			"ja": "崩壊と混沌に向かう宇宙の法則に抗い、エネルギーを集中させて秩序や生命、情報を編み上げようとする能動的な営み"
+		},
+		"thinking_layer": "『変化を否定すること』。世界は放っておけば壊れるが、生命は逆流し精密な構造を維持しようとする。生きること、考えることの本質的代名詞。 ",
+		"aftertaste": "荒れ地に家を建てるような、静かな秩序への情熱。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "trep-",
+					"meaning": "to turn"
+				}
+			],
+			"points": [
+				"trophy, tropicalと同根。",
+				"崩壊への回転を打ち消し、不動の情報として定着させる。"
+			]
+		},
+		"date": "2026-03-11"
+	},
+	{
+		"id": "decoherence",
+		"word": "Decoherence",
+		"part_of_speech": "noun",
+		"meaning": "デコヒーレンス、現実の確定",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "de-",
+					"type": "prefix",
+					"meaning": "away"
+				},
+				{
+					"text": "haerere",
+					"type": "root",
+					"meaning": "to stick"
+				}
+			],
+			"original_statement": "From de- 'away' + coherence."
+		},
+		"core_concept": {
+			"en": "Loss of quantum information",
+			"ja": "無限の可能性が重なり合っていた状態から、環境との接触によりたった一つの『冷徹な現実』へと収束（崩壊）してしまう哀しきプロセス"
+		},
+		"thinking_layer": "『共にあることからの逸脱』。粘着（adhere）と同根。可能性の海から、一つの退屈な正解へと、魔法が解けて確定してしまうこと。 ",
+		"aftertaste": "可能性を失い、ありふれた日常に戻る瞬間の淡い寂しさ。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "hais-",
+					"meaning": "to adhere"
+				}
+			],
+			"points": [
+				"hesitate, cohesionと同根。",
+				"密に共鳴することを止め、孤独な実体として現れること。"
+			]
+		},
+		"date": "2026-03-11"
+	},
+	{
+		"id": "morphogenesis",
+		"word": "Morphogenesis",
+		"part_of_speech": "noun",
+		"meaning": "形態形成、フォルムの誕生",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "morphe",
+					"type": "root",
+					"meaning": "form"
+				},
+				{
+					"text": "genesis",
+					"type": "root",
+					"meaning": "origin/birth (誕生)"
+				}
+			],
+			"original_statement": "From Greek morphē 'form' + genesis 'origin'."
+		},
+		"core_concept": {
+			"en": "The biological process that causes an organism to develop its shape",
+			"ja": "混沌とした情報のスープの中から、ある決まった『形（form）』が秩序を持って立ち上がり、『生まれて（birth）』くる、生命のデザインの奇跡"
+		},
+		"thinking_layer": "『形の誕生』。一粒の卵が、なぜ美しい蝶や、複雑な人間の脳へと正確に成長するのか。アラン・チューリングも魅了された、この自己組織化の美。形なき意志が、物質を支配し、意味のあるシルエットを彫り出すプロセス。 ",
+		"aftertaste": "雪の結晶が、規則正しく成長していく瞬間の息を呑む一貫性。あるいは、自分のアイデアが、具体的な形を帯びて動き出す予感。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "merph-",
+					"meaning": "form"
+				},
+				{
+					"term": "gene-",
+					"meaning": "to give birth"
+				}
+			],
+			"points": [
+				"morphine（夢の形を作る神モルフェウス由来）, generateと同根。",
+				"『夢（イメージ）』が現実の『実体』へと受肉するプロセス。"
+			]
+		},
+		"date": "2026-03-11"
+	},
+	{
+		"id": "ergodicity",
+		"word": "Ergodicity",
+		"part_of_speech": "noun",
+		"meaning": "エルゴード性、遍歴、必然的な到達",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "ergon",
+					"type": "root",
+					"meaning": "work (仕事、働き)",
+					"lang": "Greek"
+				},
+				{
+					"text": "hodos",
+					"type": "root",
+					"meaning": "path (道)",
+					"lang": "Greek"
+				}
+			],
+			"original_statement": "From Greek ergon 'work' + hodos 'path'."
+		},
+		"core_concept": {
+			"en": "A process in which every point in the space is eventually visited",
+			"ja": "どれほどバラバラでランダムな動きに見えても、長い時間をかければ、必ずその空間の『あらゆる道（path）』を『踏破（work）』し、真理へと辿り着くという、時間の公平性と必然"
+		},
+		"thinking_layer": "『仕事を伴う道』。統計学の概念。一人の人間が辿る無数のルートは、集団全体の可能な状態をいつかすべて網羅する。あなたの寄り道も、挫折も、実はこの巨大な世界の可能性を埋め尽くすための、尊い「踏破」の一部なのです。",
+		"aftertaste": "どんな遠回りも、最後には自分の「あるべき場所」に繋がっているという、長い時間をかけた深い納得感。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "werg-",
+					"meaning": "to do"
+				},
+				{
+					"term": "sed-",
+					"meaning": "to sit (speculative for hodos)"
+				}
+			],
+			"points": [
+				"energy, method, episode（間の道）と同根。",
+				"『情熱（energy）』を持って『道（method）』を歩めば、最後には全体へと合流する。"
+			]
+		},
+		"date": "2026-03-11"
 	}
 ];
