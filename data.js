@@ -246125,5 +246125,449 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-11"
+	},
+	{
+		"id": "hesitate",
+		"word": "Hesitate",
+		"part_of_speech": "verb",
+		"meaning": "躊躇する、ためらう",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "haerere",
+					"type": "root",
+					"meaning": "to stick",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin haerere 'to stick fast'."
+		},
+		"core_concept": {
+			"en": "To pause before action",
+			"ja": "足が地面に張り付いたかのように、思考と行動の狭間で身動きが取れなくなる"
+		},
+		"thinking_layer": "『張り付く（adhere）』と同じ語源。変化への恐れや慎重さが、物理的に心を固定させてしまう現象を指します。",
+		"aftertaste": "告白の前の数秒の沈黙。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "haer-",
+					"meaning": "to stick"
+				}
+			],
+			"points": [
+				"adhere（密着する）と同根。",
+				"意識が『一点に固定されて動けない』感覚。"
+			]
+		},
+		"date": "2026-03-11"
+	},
+	{
+		"id": "flourish",
+		"word": "Flourish",
+		"part_of_speech": "verb",
+		"meaning": "繁栄する、咲き誇る",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "flos",
+					"type": "root",
+					"meaning": "flower",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From flos 'flower'."
+		},
+		"core_concept": {
+			"en": "To grow vigorously",
+			"ja": "生命力と才能が最大限に発揮され、輝いている状態"
+		},
+		"thinking_layer": "美しさを伴って展開すること。機能を超えた、生の『華やぎ』を肯定する気高い成長の別名です。",
+		"aftertaste": "満開の桜の下の高揚感。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "flor-",
+					"meaning": "flower"
+				}
+			],
+			"points": [
+				"flower, floraと同根。",
+				"比喩的に『全盛期にある』ことを指します。"
+			]
+		},
+		"date": "2026-03-11"
+	},
+	{
+		"id": "grasp",
+		"word": "Grasp",
+		"part_of_speech": "verb",
+		"meaning": "掴む、理解する",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "graspen",
+					"type": "root",
+					"meaning": "to grope",
+					"lang": "Middle English"
+				}
+			],
+			"original_statement": "Related to 'grope' and 'grab'."
+		},
+		"core_concept": {
+			"en": "To seize firmly; understand",
+			"ja": "力強く握りしめるように、概念を自らの知性の内に完全に取り込む"
+		},
+		"thinking_layer": "『手探りで探す（grope）』から始まった言葉。暗闇で輪郭を捉えてギュッと掴む感触。理解とは肉体的なプロセスなのです。",
+		"aftertaste": "数式が腑に落ちた瞬間の快感。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ghrebh-",
+					"meaning": "to seize"
+				}
+			],
+			"points": [
+				"grab, gropeと同親戚。",
+				"知性に『握力』を投影した表現。"
+			]
+		},
+		"date": "2026-03-11"
+	},
+	{
+		"id": "surrender",
+		"word": "Surrender",
+		"part_of_speech": "verb",
+		"meaning": "降伏する、委ねる",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "sur-",
+					"type": "prefix",
+					"meaning": "over",
+					"lang": "Old French"
+				},
+				{
+					"text": "rendre",
+					"type": "root",
+					"meaning": "to give back",
+					"lang": "Old French"
+				}
+			],
+			"original_statement": "From sur- 'over' + rendre 'to give back'."
+		},
+		"core_concept": {
+			"en": "To hand over",
+			"ja": "自らのこだわりを捨て、より大きな流れや他者の意志にすべてを託す"
+		},
+		"thinking_layer": "預かっていた勝利の期待を『上に返す』こと。敗北を超えた、緊張からの究極の解放と安寧を意味します。",
+		"aftertaste": "掲げられた白い旗の静寂。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "do-",
+					"meaning": "to give"
+				}
+			],
+			"points": [
+				"render, donateと同根。",
+				"自分で保持することをやめる意思決定。"
+			]
+		},
+		"date": "2026-03-11"
+	},
+	{
+		"id": "settle",
+		"word": "Settle",
+		"part_of_speech": "verb",
+		"meaning": "落ち着く、定住する",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "setl",
+					"type": "root",
+					"meaning": "seat",
+					"lang": "Old English"
+				}
+			],
+			"original_statement": "From setlan 'to seat, fix'."
+		},
+		"core_concept": {
+			"en": "To come to rest",
+			"ja": "彷徨うことをやめ、椅子（seat）に深く腰を下ろすように根を下ろす"
+		},
+		"thinking_layer": "不安定な動的状態から、安定した静的状態へと移行する安堵感。重力に身を任せ、定位置を見つける決着の形。",
+		"aftertaste": "我が家に帰り着いた最初の一息。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sed-",
+					"meaning": "to sit"
+				}
+			],
+			"points": [
+				"sit, seat, sessionと同根。",
+				"物理的な『座り』による安定。"
+			]
+		},
+		"date": "2026-03-11"
+	},
+	{
+		"id": "merge",
+		"word": "Merge",
+		"part_of_speech": "verb",
+		"meaning": "合併する、溶け込む",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "mergere",
+					"type": "root",
+					"meaning": "to dip, plunge",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin mergere 'to dip, immerse'."
+		},
+		"core_concept": {
+			"en": "To combine or cause to combine into a single entity",
+			"ja": "個の境界が溶け、一つの大きな流れの中に完全に没入し、同化すること"
+		},
+		"thinking_layer": "『水に浸す（immerse）』。もともとは水に潜ることを指しました。二つ以上のものが溶け合い、もはや区別できなくなる、自己消失と調和を象徴します。",
+		"aftertaste": "海に溶ける一滴の雫、あるいは企業が一つになる激変。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "mez-",
+					"meaning": "to dip"
+				}
+			],
+			"points": [
+				"submerge, immerseと同根。",
+				"『深みへ消える』という不気味さと美しさ。"
+			]
+		},
+		"date": "2026-03-11"
+	},
+	{
+		"id": "diverge",
+		"word": "Diverge",
+		"part_of_speech": "verb",
+		"meaning": "分岐する、逸れる",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "di-",
+					"type": "prefix",
+					"meaning": "apart",
+					"lang": "Latin"
+				},
+				{
+					"text": "vergere",
+					"type": "root",
+					"meaning": "to bend, turn",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin divergere, from di- 'apart' + vergere 'to bend'."
+		},
+		"core_concept": {
+			"en": "To separate from a main route",
+			"ja": "一つの道が分かれ、異なる未来へと歩み出す、決定的で孤独な分水嶺"
+		},
+		"thinking_layer": "『別々に曲がる』。共通の地点から離れ、それぞれの重力に従って進むこと。合意から対立へ、あるいは単一から多様性への転換。",
+		"aftertaste": "森の中の二股の道、あるいは価値観の決裂。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "uery-",
+					"meaning": "to turn"
+				}
+			],
+			"points": [
+				"converge（集中する）の対義語。",
+				"個別の運命が始まる、ドラマチックな瞬間。"
+			]
+		},
+		"date": "2026-03-11"
+	},
+	{
+		"id": "crave",
+		"word": "Crave",
+		"part_of_speech": "verb",
+		"meaning": "渇望する、切望する",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "crafian",
+					"type": "root",
+					"meaning": "to demand, beg",
+					"lang": "Old English"
+				}
+			],
+			"original_statement": "From Old English crafian 'to beg, demand, ask'."
+		},
+		"core_concept": {
+			"en": "To feel a powerful desire for",
+			"ja": "欠乏感に苛まれ、それを埋める何かを魂の底から泣き叫ぶように求める"
+		},
+		"thinking_layer": "『要求する（demand）』。単なる『want』を超えた、飢え。他者の許可や道理を無視してでも欲しがる、剥き出しの生存本能に近い欲求です。",
+		"aftertaste": "砂漠で水を求める声、あるいは禁断の果実への視線。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "grob-",
+					"meaning": "to scratch, dig"
+				}
+			],
+			"points": [
+				"土を掘り起こしてまでも求める、という説もあります。",
+				"欠乏が生む、強烈な指向性。"
+			]
+		},
+		"date": "2026-03-11"
+	},
+	{
+		"id": "nurture",
+		"word": "Nurture",
+		"part_of_speech": "verb",
+		"meaning": "育む、養育する",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "nutrire",
+					"type": "root",
+					"meaning": "to feed, suckle",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Old French nourriture, from Latin nutrire 'to suckle, feed'."
+		},
+		"core_concept": {
+			"en": "To care for and encourage the growth of",
+			"ja": "栄養を与え、環境を整え、潜在能力が芽吹くのを忍耐強く待ち続ける母性的な育成"
+		},
+		"thinking_layer": "『授乳する（feed）』。自らのリソース（栄養）を削って他者に与え、その成長を助けること。単なる教育（educate）よりも、献身的で基礎的な保護の実感を伴います。",
+		"aftertaste": "苗木に水をやる朝、あるいは新芽へと注がれる無言の期待。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "nutr-",
+					"meaning": "to feed"
+				}
+			],
+			"points": [
+				"nutrition（栄養）, nurse（看護師）と同根。",
+				"生命の維持と成長への直接的な介入。"
+			]
+		},
+		"date": "2026-03-11"
+	},
+	{
+		"id": "stagnate",
+		"word": "Stagnate",
+		"part_of_speech": "verb",
+		"meaning": "停滞する、淀む",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "stagnum",
+					"type": "root",
+					"meaning": "standing water",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin stagnare, from stagnum 'standing water, pond'."
+		},
+		"core_concept": {
+			"en": "To cease to flow or move; to become dull",
+			"ja": "流れを失った水（池）のように、その場に留まり続け、生命の新鮮さが腐敗へと変わりゆく停滞"
+		},
+		"thinking_layer": "『止まった水』。循環を忘れ、自らの毒で自分を汚し始めること。変化を拒んだ安定が、いつの間にか「退屈」や「腐敗」という名の墓場に変わる恐怖を象徴します。",
+		"aftertaste": "夏場の濁った池の匂い、あるいは向上心を失った午後の倦怠。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "stag-",
+					"meaning": "standing"
+				}
+			],
+			"points": [
+				"stage, staticと同根。",
+				"動きこそが生命であるとしたら、停滞は部分的な死。"
+			]
+		},
+		"date": "2026-03-11"
+	},
+	{
+		"id": "fade",
+		"word": "Fade",
+		"part_of_speech": "verb",
+		"meaning": "色あせる、消えていく",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "fader",
+					"type": "root",
+					"meaning": "pale, weak",
+					"lang": "Old French"
+				}
+			],
+			"original_statement": "From Old French fader 'to become insipid, weak'."
+		},
+		"core_concept": {
+			"en": "To lose color or brightness; to disappear slowly",
+			"ja": "光や記憶がゆっくりと引き潮のように遠ざかり、世界の輪郭が淡い夢へと溶けていくこと"
+		},
+		"thinking_layer": "『弱々しくなる（pale）』。突然の消失ではなく、時間をかけて「存在の濃度」が薄まっていくプロセス。それは寂しさと同時に、執着を捨てていくような優しさも孕んでいます。",
+		"aftertaste": "古い写真のセピア色、あるいは静かに消えていく足音。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "va-",
+					"meaning": "empty"
+				}
+			],
+			"points": [
+				"vain（無駄な）, vanishと同親戚。",
+				"『空っぽの状態』へと緩やかに帰還すること。"
+			]
+		},
+		"date": "2026-03-11"
+	},
+	{
+		"id": "grapple",
+		"word": "Grapple",
+		"part_of_speech": "verb",
+		"meaning": "取り組む、格闘する",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "grap",
+					"type": "root",
+					"meaning": "hook",
+					"lang": "Old French"
+				}
+			],
+			"original_statement": "Derived from 'grape' (hook for gathering), related to 'grab'."
+		},
+		"core_concept": {
+			"en": "To engage in a close fight or struggle without weapons; seize",
+			"ja": "手近にある道具や知恵を総動員し、絡み合うように難題としがみつく、泥臭いまでの執念"
+		},
+		"thinking_layer": "『鉤爪（hook）で引っかける』。もともとは船を引き寄せるための道具。逃がさないよう、あるいは自分が振り落とされないよう、必死に対象に密着し、格闘する。洗練とは程遠い、剥き出しの努力です。",
+		"aftertaste": "レスリングの密着した熱、あるいは難攻不落の問題との対峙。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ghrebh-",
+					"meaning": "to seize"
+				}
+			],
+			"points": [
+				"grasp, grabと同根。",
+				"知性が『肉体的な格闘』にまで降りてきた状態。"
+			]
+		},
+		"date": "2026-03-11"
 	}
 ];
