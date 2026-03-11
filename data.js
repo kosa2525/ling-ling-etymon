@@ -249517,5 +249517,320 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-11"
+	},
+	{
+		"id": "craftsmanship",
+		"word": "Craftsmanship",
+		"part_of_speech": "noun",
+		"meaning": "職人気質、熟練の技",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "craeft",
+					"type": "root",
+					"meaning": "strength"
+				}
+			],
+			"original_statement": "From Old English cræft 'strength, skill'."
+		},
+		"core_concept": {
+			"en": "Skill in craft",
+			"ja": "素材と対話し、魂を込めて完璧な造形を追求する、知性と身体が高度に融合した『技能（skill）』の極致"
+		},
+		"thinking_layer": "『力と技能』。かつて「craft」は知恵や魔法も意味した。効率ではなく、時間が経っても色褪せない『質』を追求する、孤独で誇り高い制作のプロセス。 ",
+		"aftertaste": "細部に宿る神を感じるような圧倒的な完成度。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "gher-",
+					"meaning": "to grasp"
+				}
+			],
+			"points": [
+				"crafty, handiworkと同根。",
+				"しっかり掴む（grasp）ことが技術の始まり。"
+			]
+		},
+		"date": "2026-03-11"
+	},
+	{
+		"id": "scarcity",
+		"word": "Scarcity",
+		"part_of_speech": "noun",
+		"meaning": "乏しさ、希少性",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "scarpus",
+					"type": "root",
+					"meaning": "scanty"
+				}
+			],
+			"original_statement": "From Old Northern French escarceté, from scars 'scanty'."
+		},
+		"core_concept": {
+			"en": "Shortage",
+			"ja": "資源が有限であるという「足りなさ」。その飢えが欲望を刺激し、物の『価値』を決定づける経済の残酷な出発点"
+		},
+		"thinking_layer": "『引き抜かれ、乏しいこと』。経済学の根底。手に入らないからこそ、私たちは『選択』し優先順位をつける。何が本当に大切かを問い続ける、厳格な教師。 ",
+		"aftertaste": "砂漠で見つけた、最後の一滴の水の輝き。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sker-",
+					"meaning": "to cut"
+				}
+			],
+			"points": [
+				"scarce, short, shear（刈り取る）と同根。",
+				"余分を削ぎ落とした（cut）結果として際立つ貴重さ。"
+			]
+		},
+		"date": "2026-03-11"
+	},
+	{
+		"id": "usury",
+		"word": "Usury",
+		"part_of_speech": "noun",
+		"meaning": "高利貸し、法外な利子",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "usus",
+					"type": "root",
+					"meaning": "use"
+				}
+			],
+			"original_statement": "From Latin usura 'use, enjoyment, interest'."
+		},
+		"core_concept": {
+			"en": "Lending at high interest",
+			"ja": "お金の持つ『時間』や『利用（use）』という価値を法外な代償へ変換し、借り手の未来を食い潰す資本の牙"
+		},
+		"thinking_layer": "『利用すること』。本来は「正当な使用料」。中世では金がお金を生むのは不自然な罪とされた。他者の困窮を『利用』して富を増やす冷徹な利潤追求。 ",
+		"aftertaste": "返しても減らない、借金の物理的な重圧。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "oit-",
+					"meaning": "to fetch"
+				}
+			],
+			"points": [
+				"use, utilityと同根。",
+				"真の使用（use）と搾取の境界線についての、永遠の問い。"
+			]
+		},
+		"date": "2026-03-11"
+	},
+	{
+		"id": "stewardship",
+		"word": "Stewardship",
+		"part_of_speech": "noun",
+		"meaning": "管理責任、信託",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "stig",
+					"type": "root",
+					"meaning": "house"
+				},
+				{
+					"text": "weard",
+					"type": "root",
+					"meaning": "guard"
+				}
+			],
+			"original_statement": "From Old English stiward 'house guard'."
+		},
+		"core_concept": {
+			"en": "Supervising or taking care of something",
+			"ja": "自分の物ではない大切な『家（house）』を預かり、次世代へより良い状態で引き継ぐために誠実に見守る（guard）気高い責任"
+		},
+		"thinking_layer": "『家の守り手』。地球や文化が消費物ではなく『未来からの預かり物』であると自覚する。支配者ではなく世話役（helper）こそが真のリーダーである。 ",
+		"aftertaste": "百年後の森の姿を憂う、賢者の静かな眼差し。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"steward, wardenと同根。",
+				"所有を超えた、責任ある継承という概念。"
+			]
+		},
+		"date": "2026-03-11"
+	},
+	{
+		"id": "fiduciary",
+		"word": "Fiduciary",
+		"part_of_speech": "adjective/noun",
+		"meaning": "信託の、受託責任の",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "fidere",
+					"type": "root",
+					"meaning": "to trust (信頼する)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin fiduciarius, from fiducia 'trust'."
+		},
+		"core_concept": {
+			"en": "Involving trust, especially with regard to the relationship between a trustee and a beneficiary",
+			"ja": "自らの利益ではなく、自分を『信頼（trust）』してすべてを預けてくれた他者のために、最善を尽くすという、契約を超えた精神的な誠実義務"
+		},
+		"thinking_layer": "『信頼の契約』。ただ「仕事をする」のではなく、他人の財産や人生を「自分のこととして」守り抜くこと。資本主義の冷徹な重力の中で、なお「信義」という名の魂の紐帯を、最上位の法として位置づける知性の形。 ",
+		"aftertaste": "誰かの人生を背負っているという、心地よい緊張感。あるいは、裏切ることのできない、真っ直ぐな瞳への呼応。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "bheidh-",
+					"meaning": "to trust, persuade"
+				}
+			],
+			"points": [
+				"faith, confidence, defiant（信頼を拒む）と同根。",
+				"『信頼される』ことが、究極の『力』になるというパラドックス。"
+			]
+		},
+		"date": "2026-03-11"
+	},
+	{
+		"id": "parsimony",
+		"word": "Parsimony",
+		"part_of_speech": "noun",
+		"meaning": "吝嗇（りんしょく）、過度の節約、倹約の原理",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "parcere",
+					"type": "root",
+					"meaning": "to spare (惜しむ、控える)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin parsimonia, from parcere 'to spare'."
+		},
+		"core_concept": {
+			"en": "Extreme unwillingness to spend money or use resources",
+			"ja": "一滴の資源も、一銭の金も『惜しみ（spare）』、極限まで無駄を削ぎ落とそうとする、冷徹で合理的な、あるいは狭量な蓄積の意志"
+		},
+		"thinking_layer": "『惜しむこと』。経済的なケチさだけでなく、科学の世界では「最もシンプルな説明が正しい」とする「オッカムの剃刀（parsimony principle）」を指します。複雑さを嫌い、切り詰められた本質だけを愛する、鋭利な知性。 ",
+		"aftertaste": "一切の装飾を剥ぎ取った数式の美しさ。あるいは、冷え切った部屋で金貨を数える、老人の乾いた瞳。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"sparingly, partial（部分的な）と同根の説あり。",
+				"『全体』を渡さず、自分の中に『控え（spare）』ておくこと。"
+			]
+		},
+		"date": "2026-03-11"
+	},
+	{
+		"id": "frugality",
+		"word": "Frugality",
+		"part_of_speech": "noun",
+		"meaning": "倹約、質素",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "frux",
+					"type": "root",
+					"meaning": "fruit, success (果実、成功)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin frugalitas, from frugi 'useful, proper', from frux 'fruit'."
+		},
+		"core_concept": {
+			"en": "The quality of being economical with food or money; thriftiness",
+			"ja": "ただの貧しさではなく、大地の実り（fruit）を大切に扱い、無駄な贅沢を戒めることで、精神の健全な『繁栄（success）』を維持しようとする、美徳としての節度"
+		},
+		"thinking_layer": "『果実の知恵』。もとは「役に立つ、実りある」という意味。真の倹約とは、ケチることではなく、物を「最高の形（実り）」として使い切ること。欲望をコントロールし、少ないもので豊かに暮らす、自立した魂の洗練。 ",
+		"aftertaste": "一杯のスープを最後の一口まで慈しむような、静かな充足感。あるいは、手入れされて長く使われた家具の、穏やかな佇まい。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "bhrug-",
+					"meaning": "to enjoy, use"
+				}
+			],
+			"points": [
+				"fruit, enjoy, brook（耐える）と同根。",
+				"『楽しむ（enjoy）』ことの極致は、物を『大切に使い切る（use up）』ことにある。"
+			]
+		},
+		"date": "2026-03-11"
+	},
+	{
+		"id": "utility",
+		"word": "Utility",
+		"part_of_speech": "noun",
+		"meaning": "有用性、実用、公益",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "uti",
+					"type": "root",
+					"meaning": "to use (使う)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin utilitas, from uti 'use'."
+		},
+		"core_concept": {
+			"en": "The state of being useful, profitable, or beneficial",
+			"ja": "美しさや情的な価値ではなく、それが現実に「どれだけ役に立つか（use）」という冷徹な計算に基づく、生存と効率のための絶対的な指標"
+		},
+		"thinking_layer": "『使うこと』。功利主義（Utilitarianism）の根底にあるもの。最大多数の最大幸福。無駄を嫌い、機能性こそが「正義」であるとする、知性のプラグマティックな（実用主義的な）一側面。 ",
+		"aftertaste": "飾り気のない、しかし完璧に使いやすい道具。あるいは、全てが数字で測られる合理的な議論の、乾いた手触り。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "oit-",
+					"meaning": "to fetch, take along"
+				}
+			],
+			"points": [
+				"use, abuse（誤用）, usury（高利貸し）と同根。",
+				"『正しく使う』ことが、世界を動かすレバーになる。"
+			]
+		},
+		"date": "2026-03-11"
+	},
+	{
+		"id": "liability",
+		"word": "Liability",
+		"part_of_speech": "noun",
+		"meaning": "負債、責任、不利な点",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "ligare",
+					"type": "root",
+					"meaning": "to bind (縛る)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From French lier 'to bind', from Latin ligare."
+		},
+		"core_concept": {
+			"en": "The state of being responsible for something, especially by law; a thing for which someone is responsible, especially a debt or financial obligation",
+			"ja": "自由を奪い、自分を過去や他者へと『縛り付ける（bind）』もの。果たさなければならない約束という名の、透明な鎖"
+		},
+		"thinking_layer": "『縛ること』。資産（Asset）が自分を「解き放つ」ものなら、負債は自分を「繋ぎ止める」もの。それは社会的な「責任」の別名であり、私たちが文明社会の中で他者と関わり続ける限り、逃れられない「関係性の重み」でもあります。",
+		"aftertaste": "返済期限を気にする心の重圧。あるいは、自分の発言が誰かを傷つけた時に負うべき、逃れられない法的・道徳的責任。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "leig-",
+					"meaning": "to bind, tie"
+				}
+			],
+			"points": [
+				"religion（神と人を結ぶ）, ally（同盟）, ligament（靭帯）と同根。",
+				"『結びつき』は、時にパワー（同盟・宗教）になり、時に足枷（負債）になる。"
+			]
+		},
+		"date": "2026-03-11"
 	}
 ];
