@@ -248987,5 +248987,535 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-11"
+	},
+	{
+		"id": "simulacra",
+		"word": "Simulacra",
+		"part_of_speech": "noun",
+		"meaning": "シミュラークル、虚像",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "simulare",
+					"type": "root",
+					"meaning": "to feign"
+				}
+			],
+			"original_statement": "From Latin simulare 'to make like'."
+		},
+		"core_concept": {
+			"en": "Representation without reality",
+			"ja": "オリジナルがないのに本物以上に本物らしく振る舞うコピー。現実を置き換えた記号の迷宮"
+		},
+		"thinking_layer": "『似せること』。ボードリヤールが唱えた。現代では本物の体験よりSNSの画像が先行し現実を規定する。影が本体を乗っ取る眩暈。 ",
+		"aftertaste": "テーマパークの完璧な街並みを歩く時の空虚な昂揚。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sem-",
+					"meaning": "one"
+				}
+			],
+			"points": [
+				"similar, simulateと同根。",
+				"一つにまとめ、ある形へ似せるプロセス。"
+			]
+		},
+		"date": "2026-03-11"
+	},
+	{
+		"id": "biopolitics",
+		"word": "Biopolitics",
+		"part_of_speech": "noun",
+		"meaning": "生政治",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "bios",
+					"type": "root",
+					"meaning": "life"
+				},
+				{
+					"text": "politikos",
+					"type": "root",
+					"meaning": "civil"
+				}
+			],
+			"original_statement": "From Greek bios 'life' + politikos 'relating to citizens'."
+		},
+		"core_concept": {
+			"en": "Political power over biological life",
+			"ja": "国家が領土だけでなく、国民の肉体や生命（寿命、健康）そのものを管理・操作の対象とする統治形式"
+		},
+		"thinking_layer": "『生の政治』。フーコーが分析。かつての罰する権力から、国民を健康に生かし続け資源とする権力への変容。生への規律訓練。 ",
+		"aftertaste": "健康診断の通知に見る、管理された生命の重圧。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "gwei-",
+					"meaning": "to live"
+				}
+			],
+			"points": [
+				"biology, politicsと同根。",
+				"生命が都市的秩序（polis）の徹底的な一部となること。"
+			]
+		},
+		"date": "2026-03-11"
+	},
+	{
+		"id": "accelerationism",
+		"word": "Accelerationism",
+		"part_of_speech": "noun",
+		"meaning": "加速主義",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "ad-",
+					"type": "prefix",
+					"meaning": "to"
+				},
+				{
+					"text": "celer",
+					"type": "root",
+					"meaning": "swift"
+				}
+			],
+			"original_statement": "From Latin ad- 'to' + celer 'swift'."
+		},
+		"core_concept": {
+			"en": "Expansion/acceleration of systems to force social change",
+			"ja": "資本主義や技術の速度を限界まで加速させ、システムを暴走させることで全く新しい社会の地平をこじ開けようとする過激な思想"
+		},
+		"thinking_layer": "『速くすること』。ブレーキではなくアクセルを底まで踏み、AIや技術による社会崩壊と再構築を待望する知的なギャンブル。",
+		"aftertaste": "制御不能な速さへ向けられた、奇妙な陶酔感。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "keler-",
+					"meaning": "to hasten"
+				}
+			],
+			"points": [
+				"celebrate, celerityと同根。",
+				"速さそのものが既存の倫理を置き去りにする力を持つ。"
+			]
+		},
+		"date": "2026-03-11"
+	},
+	{
+		"id": "anthropocene",
+		"word": "Anthropocene",
+		"part_of_speech": "noun",
+		"meaning": "人新世",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "anthropos",
+					"type": "root",
+					"meaning": "human"
+				},
+				{
+					"text": "kainos",
+					"type": "root",
+					"meaning": "new"
+				}
+			],
+			"original_statement": "From Greek anthrōpos 'human' + kainos 'new'."
+		},
+		"core_concept": {
+			"en": "Era of dominant human influence",
+			"ja": "人間の活動が地史的なスケールで自然界全体を書き換え、不可逆的な影響を刻み込み始めた『人間の時代』"
+		},
+		"thinking_layer": "『新しき人間の時代』。数万年後の地層に刻まれるプラスチックのサイン。人間が自然を抜け出し、地球というキャンバスを暴力的に塗り替えている事実。 ",
+		"aftertaste": "失われた巨大な氷河への、種の責任の痛み。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ner-",
+					"meaning": "man"
+				}
+			],
+			"points": [
+				"anthropology, Holoceneと同根。",
+				"人類という一種が、地球の運命（地質）になったという驚愕。"
+			]
+		},
+		"date": "2026-03-11"
+	},
+	{
+		"id": "posthumanism",
+		"word": "Posthumanism",
+		"part_of_speech": "noun",
+		"meaning": "ポストヒューマニズム",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "post-",
+					"type": "prefix",
+					"meaning": "after"
+				},
+				{
+					"text": "humanus",
+					"type": "root",
+					"meaning": "human"
+				}
+			],
+			"original_statement": "From Latin post- 'after' + humanus 'human'."
+		},
+		"core_concept": {
+			"en": "Moving beyond traditional humanism",
+			"ja": "人間を万物の霊長とする理想を卒業し、AIや動植物とのフラットな共生関係に新しい生の形を模索する思想"
+		},
+		"thinking_layer": "『人間の次』。人間中心主義の限界を超え、身体を拡張し境界を曖昧にする。人間であることから脱皮し、宇宙的なつながりの網へ還る試み。",
+		"aftertaste": "AIと対話し、知性の境界が溶けていく安堵感。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "dhghem-",
+					"meaning": "earth"
+				}
+			],
+			"points": [
+				"human, humble（謙虚な→地に近い）と同根。",
+				"大地の子から情報・共生体へと変容する転換点。"
+			]
+		},
+		"date": "2026-03-11"
+	},
+	{
+		"id": "necropolitics",
+		"word": "Necropolitics",
+		"part_of_speech": "noun",
+		"meaning": "死政治",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "nekros",
+					"type": "root",
+					"meaning": "dead body (死体)",
+					"lang": "Greek"
+				},
+				{
+					"text": "politikos",
+					"type": "root",
+					"meaning": "social"
+				}
+			],
+			"original_statement": "Coined by Achille Mbembe, from Greek nekros 'dead body' + politics."
+		},
+		"core_concept": {
+			"en": "Political power used to determine who will live and who will die",
+			"ja": "『生政治（biopolitics）』の対極として、誰が生き、誰が死ぬべきかを決定し、特定の集団を「死の影」の下に置く権力の行使"
+		},
+		"thinking_layer": "『死の政治』。かつての処罰としての死ではなく、制度的に特定の人々を「生きながらの死」や「使い捨て可能な存在」へと追いやること。現代の紛争や国境管理に潜む、戦慄すべき知性の闇。",
+		"aftertaste": "見捨てられた難民キャンプの沈黙、あるいは名前もなき犠牲者たちの声なき抗議。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "nek-",
+					"meaning": "death, harm"
+				}
+			],
+			"points": [
+				"necroscopy（検死）, innocuous（無害な）と同根。",
+				"『死体（nekros）』を統治の道具として扱う、極限の管理。"
+			]
+		},
+		"date": "2026-03-11"
+	},
+	{
+		"id": "governmentality",
+		"word": "Governmentality",
+		"part_of_speech": "noun",
+		"meaning": "統治性、ガバメンタリティ",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "gouverner",
+					"type": "root",
+					"meaning": "to steer (操舵する)"
+				},
+				{
+					"text": "mentalité",
+					"type": "root",
+					"meaning": "mentality (思考様式)"
+				}
+			],
+			"original_statement": "Coined by Michel Foucault, from government + mentality."
+		},
+		"core_concept": {
+			"en": "The way in which the state exercises control over its subjects",
+			"ja": "強制的な命令ではなく、人々の心（mental）を誘導し、自発的に社会の規律に従うよう仕向ける、目に見えない巧妙な「統治の技術」"
+		},
+		"thinking_layer": "『統治の思考様式』。船の舵（steer）を取るように、意識の深層に働きかけ、私たちが「自分の意志で行動している」と思い込みながら、実はシステムに適合するように自分自身を導く（自己統治）プロセス。 ",
+		"aftertaste": "いつの間にか身に付いた「マナー」の背後にある、巨大な制度の影。あるいは、自己啓発に熱中する自分の姿。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kubernan",
+					"meaning": "to steer"
+				}
+			],
+			"points": [
+				"cybernetics（操舵術）, governorと同根。",
+				"『正しい方向へ導く』ことが、社会的な欲望の設計となる。"
+			]
+		},
+		"date": "2026-03-11"
+	},
+	{
+		"id": "heterotopia",
+		"word": "Heterotopia",
+		"part_of_speech": "noun",
+		"meaning": "ヘテロトピア、異郷、他なる場所",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "heteros",
+					"type": "root",
+					"meaning": "other (他なる)",
+					"lang": "Greek"
+				},
+				{
+					"text": "topos",
+					"type": "root",
+					"meaning": "place (場所)",
+					"lang": "Greek"
+				}
+			],
+			"original_statement": "From Greek heteros 'other' + topos 'place'."
+		},
+		"core_concept": {
+			"en": "A space of otherness, which is neither here nor there, but simultaneously mythical and real",
+			"ja": "ユートピア（どこにもない場所）ではなく、現実の中にありながら、日常のルールが通用しない「別の（other）場所」。魂が一時的に逃げ込み、鏡のように自分を映し出す空間"
+		},
+		"thinking_layer": "『他なる場所』。フーコーが提唱した概念。墓地、刑務所、祭りの場、あるいは鏡の中の世界。そこは日常の秩序を無効化し、私たちに「別の存在であること」を許してくれる、現実の中の聖域であり、亀裂。 ",
+		"aftertaste": "深夜の静まり返った図書館。あるいは、旅先のホテルの窓から見下ろす、見知らぬ街の灯り。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sem-",
+					"meaning": "one"
+				},
+				{
+					"term": "topos-",
+					"meaning": "place"
+				}
+			],
+			"points": [
+				"heterodox（異端の）, topic（話題＝場所）と同根。",
+				"一つ（one）の場所に留まらず、同時にもう一つの場所へと魂を飛ばすこと。"
+			]
+		},
+		"date": "2026-03-11"
+	},
+	{
+		"id": "capitalocene",
+		"word": "Capitalocene",
+		"part_of_speech": "noun",
+		"meaning": "資本新世",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "capitalis",
+					"type": "root",
+					"meaning": "of the head (頭の、主たる)",
+					"lang": "Latin"
+				},
+				{
+					"text": "-cene",
+					"type": "suffix",
+					"meaning": "recent"
+				}
+			],
+			"original_statement": "Coined to critique 'Anthropocene', from capital + -cene."
+		},
+		"core_concept": {
+			"en": "The geological era characterized by the impact of global capitalism on the Earth's ecosystems",
+			"ja": "環境破壊の原因を漠然とした「人間一般（anthropo）」のせいにするのではなく、無限の増殖を求める『資本主義（capital）』の論理が地球を食い潰している事実を告発する、より尖った時代認識"
+		},
+		"thinking_layer": "『資本による新しき時代』。利益を頭数（head）で数える計算の論理が、大地の呼吸を止めている。それは一種のシステム疾患であり、欲望の「加速」が地層そのものを汚染しているという、現代のグローバル経済への厳しい問い。 ",
+		"aftertaste": "アマゾンの森を切り裂く巨大な重機の響き。あるいは、富が集中する一方で、砂漠化が進む風景。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kaput-",
+					"meaning": "head"
+				}
+			],
+			"points": [
+				"captain, chapter, cattle（家畜＝頭数で数える財産）と同根。",
+				"命を『数字（頭数）』に変える知性がもたらした、破綻の歴史。"
+			]
+		},
+		"date": "2026-03-11"
+	},
+	{
+		"id": "sympoiesis",
+		"word": "Sympoiesis",
+		"part_of_speech": "noun",
+		"meaning": "シンポイエーシス、共に作ること、共産出",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "syn-",
+					"type": "prefix",
+					"meaning": "together"
+				},
+				{
+					"text": "poiesis",
+					"type": "root",
+					"meaning": "making"
+				}
+			],
+			"original_statement": "Coined by Donna Haraway, from syn- 'together' + poiesis 'making'."
+		},
+		"core_concept": {
+			"en": "Making-with; the process of creating things together in a system where no element is self-contained",
+			"ja": "自らだけで完結する（auto-poiesis）のではなく、異なる他者や環境と『共に（together）』影響し合い、もつれ合いながら、新しい世界の状態を『産み出し（making）』続けること"
+		},
+		"thinking_layer": "『共に作ること』。独立した個体などこの世には存在しません。私たちは常に微生物や技術、他者の声と共鳴し、編み合わされる中で、不測の未来を「産出して」います。個のプライドを捨て、共生関係という豊かな大地に根を下ろすための知恵。 ",
+		"aftertaste": "植物と菌根菌が地下で情報交換をする森の静寂。あるいは、複数のアーティストが即興で響きを作る時の、予期せぬ美。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kwei-",
+					"meaning": "to build"
+				}
+			],
+			"points": [
+				"symphony, poetryと同根。",
+				"独奏ではなく、世界全体を一つの巨大な合奏（symphony）として捉える創造性。"
+			]
+		},
+		"date": "2026-03-11"
+	},
+	{
+		"id": "intersectionality",
+		"word": "Intersectionality",
+		"part_of_speech": "noun",
+		"meaning": "交差性、インターセクショナリティ",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "inter-",
+					"type": "prefix",
+					"meaning": "between"
+				},
+				{
+					"text": "sectio",
+					"type": "root",
+					"meaning": "cutting (切断、断面)"
+				},
+				{
+					"text": "-ality",
+					"type": "suffix",
+					"meaning": "quality"
+				}
+			],
+			"original_statement": "Coined by Kimberlé Crenshaw, from intersection + -ality."
+		},
+		"core_concept": {
+			"en": "The interconnected nature of social categorizations such as race, class, and gender",
+			"ja": "差別や困難は一つの原因ではなく、人種、性別、階級などが複雑に『交差（intersection）』する場所で、多層的な「重なり」として生じているという、世界を捉えるための多元的なレンズ"
+		},
+		"thinking_layer": "『交差する断面』。一人の人間は、複数のレッテルで切り裂かれています。単純な被害者/加害者の対立を超え、一人一人が抱える固有の、そして複雑な「摩擦」の物語に耳を傾けること。それは真の連帯（solidarity）を築くための、繊細で誠実な知性の道具です。",
+		"aftertaste": "一筋縄ではいかない人生の苦難への深い理解。あるいは、複雑な背景を抱えた他者を、そのまま受け入れる勇気。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sek-",
+					"meaning": "to cut"
+				}
+			],
+			"points": [
+				"section, sex（分割された性）, insect（節のあるもの）と同根。",
+				"『切り分けられた属性』が重なり合う場所にこそ、生身の人間（真理）が宿る。"
+			]
+		},
+		"date": "2026-03-11"
+	},
+	{
+		"id": "contingency",
+		"word": "Contingency",
+		"part_of_speech": "noun",
+		"meaning": "偶然性、偶発性、不測の事態",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "con-",
+					"type": "prefix",
+					"meaning": "together (共に)"
+				},
+				{
+					"text": "tangere",
+					"type": "root",
+					"meaning": "to touch (触れる)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin contingentia, from contingere 'befall', from con- + tangere 'touch'."
+		},
+		"core_concept": {
+			"en": "A future event or circumstance which is possible but cannot be predicted with certainty",
+			"ja": "あらかじめ決まっていた必然ではなく、異なる道が不意に『触れ合う（touch together）』ことで生まれる、「他のようでもあり得た」世界の可能性のゆらぎ"
+		},
+		"thinking_layer": "『共に触れること』。運命を支配しようとする傲慢（hubris）を戒める言葉。この世界は、計算可能な必然ではなく、無数の偶然の接触によって成り立っています。その「不確かさ」を、不安ではなく「自由」として愛せるか、という知性の試練。",
+		"aftertaste": "ダイスが投げられた瞬間の静寂。あるいは、あの時一分遅れていれば出会わなかった、大切な人との奇跡的な幸運。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "tag-",
+					"meaning": "to touch"
+				}
+			],
+			"points": [
+				"contact, tangible, integer（触れられていない→純粋な）と同根。",
+				"計算（頭脳）ではなく、接触（身体）が現実を決定するという逆説。"
+			]
+		},
+		"date": "2026-03-11"
+	},
+	{
+		"id": "allopoiesis",
+		"word": "Allopoiesis",
+		"part_of_speech": "noun",
+		"meaning": "アロポイエーシス、他者産出",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "allos",
+					"type": "root",
+					"meaning": "other (他者)",
+					"lang": "Greek"
+				},
+				{
+					"text": "poiesis",
+					"type": "root",
+					"meaning": "making"
+				}
+			],
+			"original_statement": "From Greek allos 'other' + poiesis 'making'."
+		},
+		"core_concept": {
+			"en": "A process whereby a system produces something other than itself",
+			"ja": "自ら自身を再生産し続ける生命（オートポイエーシス）とは異なり、自分ではない『他なるもの（other）』を作るために操作され、部品のように利用される産出の形式"
+		},
+		"thinking_layer": "『他者を作ること』。工場の機械が製品を作るように、あるいは奴隷が主人のために働くように。目的が自分の中にない「悲しい制作」。自分自身の喜びではなく、誰かの利益や規格のために、自分の生命力という燃料を外側へと注ぎ出し、消費し続ける状態への皮肉。 ",
+		"aftertaste": "ベルトコンベアの前で、自分とは無関係な物を作り続ける疎外感（alienation）。あるいは、目的を失ったまま繰り返される事務作業の虚無。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "al-",
+					"meaning": "beyond"
+				}
+			],
+			"points": [
+				"alien, alternativeと同根。",
+				"自分という境界を『超え（beyond）』、自分の本質ではないものに奉仕させられること。"
+			]
+		},
+		"date": "2026-03-11"
 	}
 ];
