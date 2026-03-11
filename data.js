@@ -246569,5 +246569,160 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-11"
+	},
+	{
+		"id": "taciturn",
+		"word": "Taciturn",
+		"part_of_speech": "adjective",
+		"meaning": "寡黙な、不愛想な",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "tacere",
+					"type": "root",
+					"meaning": "to be silent"
+				}
+			],
+			"original_statement": "From Latin taciturnus, from tacere 'to be silent'."
+		},
+		"core_concept": {
+			"en": "Reserved or uncommunicative in speech",
+			"ja": "無駄な交わりを拒絶し、自らの沈黙を盾にして世界の奥に引きこもるような、冷ややかな過黙"
+		},
+		"thinking_layer": "単なる静けさではなく、他者との距離を置くための意図的な過黙。言葉を交わさないという行為が、一つの強いメッセージとなります。",
+		"aftertaste": "雪に閉ざされた家、あるいは一瞥しただけで去る男の背中。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "tac-",
+					"meaning": "silent"
+				}
+			],
+			"points": [
+				"reticentよりも『性質としての無愛想さ』が強調される。",
+				"饒舌な世界への、本能的な嫌悪。"
+			]
+		},
+		"date": "2026-03-11"
+	},
+	{
+		"id": "voracious",
+		"word": "Voracious",
+		"part_of_speech": "adjective",
+		"meaning": "貪欲な、食い意地の張った",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "vorare",
+					"type": "root",
+					"meaning": "to devour"
+				}
+			],
+			"original_statement": "From Latin vorax, from vorare 'to devour'."
+		},
+		"core_concept": {
+			"en": "Wanting or devouring great quantities of food or knowledge",
+			"ja": "空腹という名の巨大な穴を埋めるために、世界をまるごと飲み込もう（devour）とする飽くなき渇望"
+		},
+		"thinking_layer": "『飲み込む』。知識欲や愛など、あらゆるものを自らの内に収めようとする制御不能な勢い。その貪欲さは、既存の限界を食い破る原動力となります。",
+		"aftertaste": "全てを吸い込むブラックホール、あるいはむさぼり読む読書の熱中。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "gwer-",
+					"meaning": "to swallow, devour"
+				}
+			],
+			"points": [
+				"carnivore（食肉動物）, herbivoreと同根。",
+				"『食べる』という根源的な生命維持のメタファー。"
+			]
+		},
+		"date": "2026-03-11"
+	},
+	{
+		"id": "dichotomy",
+		"word": "Dichotomy",
+		"part_of_speech": "noun",
+		"meaning": "二分法、対立",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "dikho-",
+					"type": "prefix",
+					"meaning": "in two"
+				},
+				{
+					"text": "temnein",
+					"type": "root",
+					"meaning": "to cut"
+				}
+			],
+			"original_statement": "From Greek dikhotomia 'a cutting in two'."
+		},
+		"core_concept": {
+			"en": "A division or contrast between two things that are or are represented as being opposed or entirely different",
+			"ja": "混沌とした現実を鋭い刃（cut）で二つ（two）に引き裂き、明快な対立構造を強制する冷徹な知性"
+		},
+		"thinking_layer": "『二つに切ること』。白か黒か、善か悪か。グラデーションを無視して世界を整理する快感と、その影に捨てられた真実の痛み。",
+		"aftertaste": "鏡で分かたれた世界、あるいは和解不能な対立の火花。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "tem-",
+					"meaning": "to cut"
+				}
+			],
+			"points": [
+				"anatomy（解剖）, atom（分割できないもの）と同根。",
+				"思考をシンプルにするための、暴力的なまでの明快さ。"
+			]
+		},
+		"date": "2026-03-11"
+	},
+	{
+		"id": "anecdote",
+		"word": "Anecdote",
+		"part_of_speech": "noun",
+		"meaning": "逸話、小話",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "an-",
+					"type": "prefix",
+					"meaning": "not"
+				},
+				{
+					"text": "ek-",
+					"type": "prefix",
+					"meaning": "out"
+				},
+				{
+					"text": "didonai",
+					"type": "root",
+					"meaning": "to give"
+				}
+			],
+			"original_statement": "From Greek anekdota 'things unpublished'."
+		},
+		"core_concept": {
+			"en": "A short amusing or interesting story about a real incident or person",
+			"ja": "公式の記録（出版）の『外側』にこぼれ落ちた、人間臭い真実が宿る小さな断片"
+		},
+		"thinking_layer": "『公表されていないもの』。教科書には載らないけれど、その人物の本質を誰よりも鮮やかに照らし出す、短い物語のきらめきです。",
+		"aftertaste": "歴史の英雄が見せた意外な弱音、あるいは街角で聞いた不思議な実話。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "do-",
+					"meaning": "to give"
+				}
+			],
+			"points": [
+				"donate, editorと同根。",
+				"贈与されなかった（unpublished）秘密の、愛すべき共有。"
+			]
+		},
+		"date": "2026-03-11"
 	}
 ];
