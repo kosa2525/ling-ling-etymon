@@ -247761,5 +247761,265 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-11"
+	},
+	{
+		"id": "steganography",
+		"word": "Steganography",
+		"part_of_speech": "noun",
+		"meaning": "潜伏文章術",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "steganos",
+					"type": "root",
+					"meaning": "covered"
+				},
+				{
+					"text": "graphia",
+					"type": "root",
+					"meaning": "writing"
+				}
+			],
+			"original_statement": "From Greek steganos 'covered' + -graphia 'writing'."
+		},
+		"core_concept": {
+			"en": "Concealing a message within another file",
+			"ja": "秘密のメッセージを、ありふれた風景の『覆い（covered）』の中に忍び込ませる、忍術のような秘匿技術"
+		},
+		"thinking_layer": "『覆われた記述』。存在自体を隠す。普通の人々には見えない、世界の裏側に隠された第二の層を創り出すこと。見えないものの実在。",
+		"aftertaste": "画像のノイズに隠された遺言。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "steg-",
+					"meaning": "cover"
+				}
+			],
+			"points": [
+				"stegosaurusと同根。",
+				"『屋根（cover）』の下に大切なものを守る原初的発想。"
+			]
+		},
+		"date": "2026-03-11"
+	},
+	{
+		"id": "emergence",
+		"word": "Emergence",
+		"part_of_speech": "noun",
+		"meaning": "出現、創発",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "e-",
+					"type": "prefix",
+					"meaning": "out"
+				},
+				{
+					"text": "mergere",
+					"type": "root",
+					"meaning": "to dip"
+				}
+			],
+			"original_statement": "From Latin emergere 'rise out'."
+		},
+		"core_concept": {
+			"en": "Complex traits from simple ones",
+			"ja": "個々が沈んで（sink）いた海から、結合によって突如として新しい性質が表面へ『浮かび上がる（rise out）』飛躍"
+		},
+		"thinking_layer": "一粒にない美しさが、集積から不意に現れる。1+1が突然3になるシステムの魔法。沈んでいた可能性の顕面化。",
+		"aftertaste": "鳥の大群の群舞から見える意志。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "mezg-",
+					"meaning": "to dive"
+				}
+			],
+			"points": [
+				"immerse, mergeと同根。",
+				"『深く潜る（immerse）』ことが真の出現の前提。"
+			]
+		},
+		"date": "2026-03-11"
+	},
+	{
+		"id": "simulation",
+		"word": "Simulation",
+		"part_of_speech": "noun",
+		"meaning": "シミュレーション、模擬、擬態",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "similis",
+					"type": "root",
+					"meaning": "like, resembling"
+				}
+			],
+			"original_statement": "From Latin simulare 'to copy', from similis 'like'."
+		},
+		"core_concept": {
+			"en": "Imitation of a situation or process",
+			"ja": "現実の鏡像（likeness）を数学的な虚構の中に構築し、未来の予兆や可能性を安全な箱庭の中で試作すること"
+		},
+		"thinking_layer": "『似せること』。もとは『知らないふりをする』ことでもあった。本物よりも本物らしい虚像（ハイパーリアル）が、現実を浸食する不気味な美学。",
+		"aftertaste": "完璧な偽物の世界に迷い込む快楽。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sem-",
+					"meaning": "same"
+				}
+			],
+			"points": [
+				"similar, sameと同根。",
+				"『同じ（same）』を意図的に作り出す模倣。"
+			]
+		},
+		"date": "2026-03-11"
+	},
+	{
+		"id": "augmented",
+		"word": "Augmented",
+		"part_of_speech": "adjective",
+		"meaning": "拡張された、増大した",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "augere",
+					"type": "root",
+					"meaning": "to increase, make larger"
+				}
+			],
+			"original_statement": "From Latin augere 'to increase'."
+		},
+		"core_concept": {
+			"en": "Having been made greater in size or value",
+			"ja": "既存の現実にデジタルな豊饒さを「付け加え（increase）」、人間の知覚の限界を人工的に押し広げた、多層的な世界"
+		},
+		"thinking_layer": "『増やすこと』。裸眼で見える景色の上に、情報の層を重ねる。世界そのものを変えるのではなく、世界との『関わり方』を増分（increase）させる進化。",
+		"aftertaste": "何気ない壁に情報の滝が流れる驚き。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "aug-",
+					"meaning": "to increase"
+				}
+			],
+			"points": [
+				"author（著者＝作品を増やす人）, auctionと同根。",
+				"既存の世界に『価値を上乗せする』知的な増産。"
+			]
+		},
+		"date": "2026-03-11"
+	},
+	{
+		"id": "register",
+		"word": "Register",
+		"part_of_speech": "noun/verb",
+		"meaning": "レジスタ、登録、音域",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "re-",
+					"type": "prefix",
+					"meaning": "back"
+				},
+				{
+					"text": "gerere",
+					"type": "root",
+					"meaning": "to carry, bring"
+				}
+			],
+			"original_statement": "From Latin regesta 'things carried back', recorded."
+		},
+		"core_concept": {
+			"en": "An official list or record of names or items; a temporary storage area",
+			"ja": "大切な何かを失わないよう記憶の奥へと持ち帰り（carry back）、いつでも取り出せる場所に「刻み込む」こと。思考の最前線にある小部屋"
+		},
+		"thinking_layer": "『持ち帰られたもの』。もとは持ち帰られた公的記録。CPUの中で最も高速に値を保持する特別な場所のように、自らのアイデンティティや重要な確信を、不変の『記録（record）』として刻むこと。",
+		"aftertaste": "真実を帳簿に書き込む重み。あるいは高速に書き換えられる思考のキャッシュ。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ges-",
+					"meaning": "to carry"
+				}
+			],
+			"points": [
+				"gestation（懐胎）, digest（消化する＝運び分けて整理する）と同根。",
+				"情報を『自分のものとして運び、整理する』こと。"
+			]
+		},
+		"date": "2026-03-11"
+	},
+	{
+		"id": "parameter",
+		"word": "Parameter",
+		"part_of_speech": "noun",
+		"meaning": "パラメータ、媒介変数、限界条件",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "para-",
+					"type": "prefix",
+					"meaning": "beside (傍らに)"
+				},
+				{
+					"text": "metron",
+					"type": "root",
+					"meaning": "measure (測定器)"
+				}
+			],
+			"original_statement": "From para- 'beside' + metron 'measure'."
+		},
+		"core_concept": {
+			"en": "A numerical or other measurable factor forming one of a set that defines a system",
+			"ja": "本質（center）ではないが、その傍らに（beside）添えられることで、世界の形や振る舞いを決定づける『測定の目盛り（measure）』"
+		},
+		"thinking_layer": "『傍らの測定値』。世界そのものを変えるのではなく、その「条件」を調節すること。音量を上げ下げするように、人生の「色彩」や「激しさ」を調節するダイヤルのような言葉。",
+		"aftertaste": "緻密に調整された楽器の弦の張り。あるいは理想の自分に近づくための、日々の小さなチューニング。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "me-",
+					"meaning": "to measure"
+				}
+			],
+			"points": [
+				"perimeter, metric, immense（計り知れない）と同根。",
+				"『どこまでを許容するか』という、宇宙の境界線を引く行為。"
+			]
+		},
+		"date": "2026-03-11"
+	},
+	{
+		"id": "boolean",
+		"word": "Boolean",
+		"part_of_speech": "adjective",
+		"meaning": "ブール論理の、真偽の、二値の",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "George Boole",
+					"type": "root",
+					"meaning": "English mathematician"
+				}
+			],
+			"original_statement": "Named after 19th-century mathematician George Boole."
+		},
+		"core_concept": {
+			"en": "Denoting a system of algebraic notation used to represent logical propositions",
+			"ja": "曖昧さを一切拒絶し、0か1か、偽（No）か真（Yes）かの究極の二択を突きつける、純粋にして峻烈な論理の審判"
+		},
+		"thinking_layer": "『ジョージ・ブール（の術）』。複雑に見える世界を、「真か偽か」の二つのスイッチの組み合わせへと解体すること。デジタルの根幹を成す、一歩も妥協しない知性の決断力。",
+		"aftertaste": "瞬時に下される「Yes」の判定の快感。あるいは曖昧さを許さない数学的冷徹さ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"数理論理学を『数学の一分野（algebra）』へと変えた革命家の名前。",
+				"哲学的な『善悪』が、デジタルな『ON/OFF』へと変換された歴史。"
+			]
+		},
+		"date": "2026-03-11"
 	}
 ];
