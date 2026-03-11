@@ -247129,5 +247129,233 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-11"
+	},
+	{
+		"id": "alchemist",
+		"word": "Alchemist",
+		"part_of_speech": "noun",
+		"meaning": "錬金術師",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "al-",
+					"type": "prefix",
+					"meaning": "the"
+				},
+				{
+					"text": "khemeia",
+					"type": "root",
+					"meaning": "metal art"
+				}
+			],
+			"original_statement": "From Arabic al-kīmiyā', from Greek khemeia 'art of transmuting metals'."
+		},
+		"core_concept": {
+			"en": "One who transforms matter",
+			"ja": "卑金属を貴金属へ、日常を真理へと変容（transmute）させようと試みる探求者"
+		},
+		"thinking_layer": "不可能な結合から新しい価値を生み出す越境者。物質の完成と魂の救済を同時に目指した中世の情景。",
+		"aftertaste": "フラスコから立ち上る紫の煙。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "gheu-",
+					"meaning": "to pour"
+				}
+			],
+			"points": [
+				"chemistry（化学）の直接の語源。",
+				"物質を『融解させて注ぐ』原初的な行為。"
+			]
+		},
+		"date": "2026-03-11"
+	},
+	{
+		"id": "amalgam",
+		"word": "Amalgam",
+		"part_of_speech": "noun",
+		"meaning": "混合物",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "malagma",
+					"type": "root",
+					"meaning": "emollient"
+				}
+			],
+			"original_statement": "From Greek malagma 'softening substance'."
+		},
+		"core_concept": {
+			"en": "A mixture or blend",
+			"ja": "異質なもの同士が溶け合い、元の境界を失って一つの新しい人格へと統合されたもの"
+		},
+		"thinking_layer": "『和らげるもの』。個別性が消え、より複雑で力強い『一つの全体』へと昇華された時の、不透明で力強い質感。",
+		"aftertaste": "多様な文化が混ざり合った都市の響き。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "mel-",
+					"meaning": "soft"
+				}
+			],
+			"points": [
+				"mollify（和らげる）, meltと同根。",
+				"『溶け合うことで生まれる強さ』の象徴。"
+			]
+		},
+		"date": "2026-03-11"
+	},
+	{
+		"id": "distill",
+		"word": "Distill",
+		"part_of_speech": "verb",
+		"meaning": "蒸留する、抽出する",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "de-",
+					"type": "prefix",
+					"meaning": "down"
+				},
+				{
+					"text": "stillare",
+					"type": "root",
+					"meaning": "to drip"
+				}
+			],
+			"original_statement": "From Latin destillare, from de- 'down' + stillare 'to drip'."
+		},
+		"core_concept": {
+			"en": "Extract essential meaning",
+			"ja": "膨大な情報を煮詰め、不純物を濾過し、最後の一滴に残された『純粋な本質』だけを掬い上げる"
+		},
+		"thinking_layer": "『下に滴り落ちる』。一度気体になったものが再び滴るプロセス。100ページを一行に凝縮する、知的な濾過の極致。",
+		"aftertaste": "透明な雫が落ちる静かな音。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "stele-",
+					"meaning": "to drip"
+				}
+			],
+			"points": [
+				"stillareはdripの意味。still（静か）とは無関係。",
+				"『滴る』という現象への本質の投影。"
+			]
+		},
+		"date": "2026-03-11"
+	},
+	{
+		"id": "corrosive",
+		"word": "Corrosive",
+		"part_of_speech": "adjective",
+		"meaning": "腐食性の、蝕むような",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "con-",
+					"type": "prefix",
+					"meaning": "intensive"
+				},
+				{
+					"text": "rodere",
+					"type": "root",
+					"meaning": "to gnaw (かじる)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin corrodere 'to gnaw to pieces', from con- + rodere 'to gnaw'."
+		},
+		"core_concept": {
+			"en": "Tending to cause corrosion; bitingly sarcastic",
+			"ja": "鋭い牙で少しずつ（gnaw）表面を削り、ついには芯までボロボロに破壊してしまう執拗な悪意"
+		},
+		"thinking_layer": "『徹底的にかじること』。酸が鉄を溶かすように、あるいは皮肉が誇りを傷つけるように、不可逆な損傷を静かに与え続けるプロセス。",
+		"aftertaste": "錆びて崩れる鉄屑、あるいは心に深く刺さる冷酷な一言。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "red-",
+					"meaning": "to scrape, gnaw"
+				}
+			],
+			"points": [
+				"rodent（齧歯類＝ネズミなど）, erode（侵食する）と同根。",
+				"『ゆっくりと、しかし確実に食い尽くす』恐怖。"
+			]
+		},
+		"date": "2026-03-11"
+	},
+	{
+		"id": "crystallize",
+		"word": "Crystallize",
+		"part_of_speech": "verb",
+		"meaning": "結晶化させる、具体化する",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "krystallos",
+					"type": "root",
+					"meaning": "ice (氷)",
+					"lang": "Greek"
+				}
+			],
+			"original_statement": "From Greek krystallos 'ice, rock crystal'."
+		},
+		"core_concept": {
+			"en": "Form crystals; make or become definite and clear",
+			"ja": "混沌とした液状の思考から、透明な幾何学模様を持つ『確信』という名の個体を取り出すこと"
+		},
+		"thinking_layer": "『氷（krystallos）のようになる』。バラバラだった要素が、一定の法則（熱を奪われること）に従って、突如として美しく、強固な一つの形を結び合う、奇跡的な秩序の生成。",
+		"aftertaste": "雪の結晶の対称性、あるいは迷いの果てに生まれた一つの決断。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kru-",
+					"meaning": "hard, ice"
+				}
+			],
+			"points": [
+				"crust（地殻）, crystal と同根。",
+				"『冷えることで本質が現れる』という哲学。"
+			]
+		},
+		"date": "2026-03-11"
+	},
+	{
+		"id": "radiation",
+		"word": "Radiation",
+		"part_of_speech": "noun",
+		"meaning": "放射、放射線、煌めき",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "radius",
+					"type": "root",
+					"meaning": "ray, spoke (光線、車輪のスポーク)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin radiatio, from radiare 'to emit rays', from radius 'ray'."
+		},
+		"core_concept": {
+			"en": "The emission of energy as electromagnetic waves or as moving subatomic particles",
+			"ja": "中心から全方位へ向けて、無数の光の矢（ray）を放ち、周囲の世界に自分の痕跡を刻み込むこと"
+		},
+		"thinking_layer": "『光を放つこと』。自らを透明な点とし、そこからエネルギーを無限に拡散させるプロセス。静止を拒み、常に外側の境界線を塗り替えようとする、力強い自己主張。",
+		"aftertaste": "太陽から降り注ぐ熱い光のシャワー、あるいは一瞬で空間を支配する煌びやかなオーラ。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "re-",
+					"meaning": "to flow, stretch"
+				}
+			],
+			"points": [
+				"radius（半径）, radio（無線）と同根。",
+				"中心（self）と外界（world）を繋ぐ、『細い線』の集合体。"
+			]
+		},
+		"date": "2026-03-11"
 	}
 ];
