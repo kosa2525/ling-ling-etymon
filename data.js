@@ -248276,5 +248276,309 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-11"
+	},
+	{
+		"id": "meritocracy",
+		"word": "Meritocracy",
+		"part_of_speech": "noun",
+		"meaning": "能力主義、実力社会",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "meritum",
+					"type": "root",
+					"meaning": "merit"
+				},
+				{
+					"text": "-cracy",
+					"type": "suffix",
+					"meaning": "rule"
+				}
+			],
+			"original_statement": "From Latin meritum 'merit' + Greek -krateia 'rule'."
+		},
+		"core_concept": {
+			"en": "Rule by merit",
+			"ja": "家柄や財産ではなく、個人の功績（merit）と能力のみで地位が正当化される、フェアで過酷な競争社会"
+		},
+		"thinking_layer": "『功績による支配』。チャンスを平等に与えるが、敗北の責任もすべて個人に帰属させる冷徹な側面を持つ。効率を極めた知性の競争。",
+		"aftertaste": "選ばれなかった者の、言葉にできない沈黙。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "mer-",
+					"meaning": "to allot"
+				}
+			],
+			"points": [
+				"merit, mercenary（傭兵）と同根。",
+				"どれほど社会に価値を分配したかが個人の価値になる。"
+			]
+		},
+		"date": "2026-03-11"
+	},
+	{
+		"id": "civilization",
+		"word": "Civilization",
+		"part_of_speech": "noun",
+		"meaning": "文明、市民社会",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "civis",
+					"type": "root",
+					"meaning": "citizen"
+				}
+			],
+			"original_statement": "From Latin civis 'citizen'."
+		},
+		"core_concept": {
+			"en": "Advanced social development",
+			"ja": "野性的本能を市民（citizen）としての理性の下に従わせ、巨大な秩序と高度な技術の『ゆりかご』を構築すること"
+		},
+		"thinking_layer": "『市民であること』。都市という人工的な空間で共存するためのマナー。自然からの離別と、死を超えた知恵の蓄積を可能にする人類最大の装置。",
+		"aftertaste": "夜空に光る巨大な都市の灯りの威厳。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kei-",
+					"meaning": "to home"
+				}
+			],
+			"points": [
+				"city, civic, cemeteryと同根。",
+				"定住しそこを『家』と定めた時から始まった時計。"
+			]
+		},
+		"date": "2026-03-11"
+	},
+	{
+		"id": "folklore",
+		"word": "Folklore",
+		"part_of_speech": "noun",
+		"meaning": "民俗、伝承",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "folk",
+					"type": "root",
+					"meaning": "people"
+				},
+				{
+					"text": "lore",
+					"type": "root",
+					"meaning": "knowledge"
+				}
+			],
+			"original_statement": "Coined from folk + lore in 1846."
+		},
+		"core_concept": {
+			"en": "Traditional beliefs",
+			"ja": "名もなき人々（folk）が、長い歳月をかけて語り継いできた驚きや畏怖の言い伝え（lore）。文明の影に潜む、人類の夢"
+		},
+		"thinking_layer": "『人々の教え』。教科書に載らない迷信や昔話。理屈ではなく物語（mythos）として生き続ける、大地の記憶とも呼ぶべき根源的な知性。",
+		"aftertaste": "囲炉裏端で聞かされる、不思議な昔話。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "pel-",
+					"meaning": "to fill"
+				},
+				{
+					"term": "leis-",
+					"meaning": "track"
+				}
+			],
+			"points": [
+				"folk（人で溢れる）, lore（足跡を辿る）と同根。",
+				"多くの人が踏み固めた足跡こそが真の知恵である。"
+			]
+		},
+		"date": "2026-03-11"
+	},
+	{
+		"id": "mythology",
+		"word": "Mythology",
+		"part_of_speech": "noun",
+		"meaning": "神話、神話学",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "mythos",
+					"type": "root",
+					"meaning": "story"
+				},
+				{
+					"text": "logia",
+					"type": "root",
+					"meaning": "study"
+				}
+			],
+			"original_statement": "From Greek mythos 'story' + -logia 'study'."
+		},
+		"core_concept": {
+			"en": "Collection of myths",
+			"ja": "論理（logos）が届かない宇宙の始原を、象徴的な物語（mythos）によって説明し、共有しようとする人類の原初的なOS"
+		},
+		"thinking_layer": "『物語の言葉』。事実を超えた真実を伝える装置。無意識の奥底で世界を形作り、行動を規定し続ける、消えることのない幻灯機のような知性。",
+		"aftertaste": "嵐の背後に巨大な神の影を見る感覚。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "mu-",
+					"meaning": "to mutter"
+				}
+			],
+			"points": [
+				"mute, mysteryと同根。",
+				"言葉で説明しきる前に口を閉ざして（mu-）囁かれる畏怖。"
+			]
+		},
+		"date": "2026-03-11"
+	},
+	{
+		"id": "autarchy",
+		"word": "Autarchy",
+		"part_of_speech": "noun",
+		"meaning": "独裁政治、自給自足",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "autos",
+					"type": "root",
+					"meaning": "self"
+				},
+				{
+					"text": "arkhein",
+					"type": "root",
+					"meaning": "to rule"
+				}
+			],
+			"original_statement": "From Greek autos 'self' + arkhein 'rule'."
+		},
+		"core_concept": {
+			"en": "Absolute sovereignty",
+			"ja": "他者の助けを一切必要とせず、自分（self）だけで完結した支配（rule）を行うこと。独立不敵な、あるいは孤立した絶対的自律"
+		},
+		"thinking_layer": "『自己支配』。外部からの供給や干渉を断ち、自分の中にある資源だけで宇宙を完結させる。強さであり、同時に変化を拒む閉鎖性の始まり。",
+		"aftertaste": "誰も寄せ付けない、高い城壁の威圧感。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ar-ghi-",
+					"meaning": "to begin"
+				}
+			],
+			"points": [
+				"archetype, architectと同根。",
+				"最初に（begin）立つ者が支配者（rule）になるという根源。"
+			]
+		},
+		"date": "2026-03-11"
+	},
+	{
+		"id": "oligarchy",
+		"word": "Oligarchy",
+		"part_of_speech": "noun",
+		"meaning": "少数独裁、寡頭政治",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "oligos",
+					"type": "root",
+					"meaning": "few"
+				},
+				{
+					"text": "arkhein",
+					"type": "root",
+					"meaning": "to rule"
+				}
+			],
+			"original_statement": "From Greek oligos 'few' + arkhein 'rule'."
+		},
+		"core_concept": {
+			"en": "Small group control",
+			"ja": "全市民でも一人でもなく、選ばれた『わずかな（few）』特権階級が巨大な組織の運命を決定する、凝縮された力の均衡"
+		},
+		"thinking_layer": "『少数の支配』。衆愚でも独裁でもない中間層。高い効率を生むこともあるが、容易に腐敗し、外部を遮断する『特権の繭』となる危うさを持つ。 ",
+		"aftertaste": "重い扉の向こうで交わされる、密かな囁き。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"oligopoly（寡占）と同根。",
+				"『多』に対する、組織された『少』の圧倒的優位。"
+			]
+		},
+		"date": "2026-03-11"
+	},
+	{
+		"id": "plutocracy",
+		"word": "Plutocracy",
+		"part_of_speech": "noun",
+		"meaning": "金権政治、富豪支配",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "ploutos",
+					"type": "root",
+					"meaning": "wealth"
+				}
+			],
+			"original_statement": "From Greek ploutokratia 'rule of wealth'."
+		},
+		"core_concept": {
+			"en": "Rule by the wealthy",
+			"ja": "知性や徳を『富（wealth）』という名の圧倒的な重力でねじ伏せ、貨幣の力を唯一の通行証とする、剥き出しの資本力の支配"
+		},
+		"thinking_layer": "『富の支配』。冥界の王プルートーが地底の富を司るように、目に見えない資産の力が正理さえも買収することへの皮肉。数字が言葉よりも重い現実。 ",
+		"aftertaste": "カジノの喧騒のなかの、無機質な計算。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "pleu-",
+					"meaning": "to flow"
+				}
+			],
+			"points": [
+				"flow, floatと同根。",
+				"富とは流れることで潤し、同時に滞ることで溺れさせる。"
+			]
+		},
+		"date": "2026-03-11"
+	},
+	{
+		"id": "technocracy",
+		"word": "Technocracy",
+		"part_of_speech": "noun",
+		"meaning": "技術支配",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "tekhne",
+					"type": "root",
+					"meaning": "art, craft"
+				}
+			],
+			"original_statement": "Formed in 20th century, from tekhne + -cracy."
+		},
+		"core_concept": {
+			"en": "Rule by technical experts",
+			"ja": "政治的論争を排し、データと専門技術（techne）に基づいた最適解によって社会を制御しようとする、冷徹な合理性"
+		},
+		"thinking_layer": "『技術の支配』。非効率な話し合いを計算で置き換える。完璧な解決策を提供するが、人間の予測不能な豊かさを切り捨てるリスクを伴う。",
+		"aftertaste": "一寸の狂いもない数表が並ぶ会議室の静寂。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "teks-",
+					"meaning": "to build"
+				}
+			],
+			"points": [
+				"technique, textileと同根。",
+				"社会を巨大な織物として、設計図通りに編み上げる意志。"
+			]
+		},
+		"date": "2026-03-11"
 	}
 ];
