@@ -255750,5 +255750,77 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "teeming",
+		"word": "Teeming",
+		"part_of_speech": "adjective",
+		"meaning": "（人や動物で）溢れている、豊かである",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "tīeman",
+					"type": "root",
+					"meaning": "to bring forth, produce offspring (生む、子を出す)",
+					"lang": "Old English"
+				}
+			],
+			"original_statement": "From Old English tīeman 'teem, bring forth'."
+		},
+		"core_concept": {
+			"en": "Be full of or swarming with",
+			"ja": "生命が、もはや個別の個体としてではなく、うごめく巨大な群れ（swarm）として、空間を埋め尽くさんばかりに『溢れ出している』様子。限界を超えた活力の飽和"
+		},
+		"thinking_layer": "『産み出すこと』。チーム（Team/元々は共に働く子供の群れ）と同根。ただ「多い」のではなく、今まさに「沸き立っている（swarming）」という躍動感。熱帯の密林の蠢き、あるいは大都会の交差点の雑踏。それは、個々の意志が溶け合い、一つの巨大な「生命の塊」となって脈打っているかのような錯覚。 ",
+		"aftertaste": "顕微鏡の一滴の水の中に広がる、何千もの微生物たちが互いにぶつかり合い、躍動する小宇宙を見つけた時の、あの眩暈。あるいは、市場の喧騒の中で、自分の存在がただの「細胞の一つ」として群衆に飲み込まれてゆく、あの奇妙な高揚感。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "deuk-",
+					"meaning": "to lead (forming team/teem)"
+				}
+			],
+			"points": [
+				"team, duct, duke, education, produce 同根。",
+				"『群れ（team）』は常にどこかへ『導かれ（led）』、その溢れ出す運動そのものが『生命力（vitality）』という名の価値を生産（produce）し続ける。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "luxuriant",
+		"word": "Luxuriant",
+		"part_of_speech": "adjective",
+		"meaning": "生い茂った、豊かな、豪華な、贅沢な",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "luxuria",
+					"type": "root",
+					"meaning": "excess, abundance (過剰、豊富)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin luxuria, from luxus 'excess'."
+		},
+		"core_concept": {
+			"en": "Rich and profuse in growth; lush; (of art or writing) thick or florid; (of furniture or food) rich and costly",
+			"ja": "生存に必要な量を超えて、あり余るほどに『過剰（excess）』に生い茂り、まばゆいばかりの輝きと色彩を放っている様子。機能性を無視した、生命の圧倒的な「浪費」としての美"
+		},
+		"thinking_layer": "『過剰であること』。ラグジュアリー（Luxury/贅沢）や、もしかするとデラクゼーション（Relaxation/緩む＝過剰になる）と同根。ただ「豊か（rich）」なのではなく、その豊かさが「重さ」や「暑苦しさ」にさえ感じられるほどの飽和。それは、熱帯の蔦が首に絡みついてくるような、生々しく、官能的で、破壊的なまでの生命の充実。",
+		"aftertaste": "誰も手入れをしていない庭に、極彩色のバラが狂ったように咲き乱れ、むせ返るような香りで視界を塞ぐ、あの圧倒的な敗北感。あるいは、あまりにも華麗で、一文字さえも削ぎ落とすことのできない、古典的な名文に触れた時の、知的な酩酊。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "leug-",
+					"meaning": "to bend (forming luxus/excess?)"
+				}
+			],
+			"points": [
+				"luxury, lust, luxation（脱臼＝過剰な曲がり）と同根の説あり。",
+				"『贅沢（luxury）』とは、自然な『秩序』が歪む（bend）ほどに、エネルギーが一箇所に『偏在』することである。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
