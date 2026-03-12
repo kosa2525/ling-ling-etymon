@@ -264310,5 +264310,180 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "coelom",
+		"word": "Coelom",
+		"part_of_speech": "noun",
+		"meaning": "体腔（たいこう）",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "koilos",
+					"type": "root",
+					"meaning": "hollow (空洞の)",
+					"lang": "Greek"
+				}
+			],
+			"original_statement": "From Greek koilōma 'cavity', from koilos 'hollow'."
+		},
+		"core_concept": {
+			"en": "The body cavity in metazoans, located between the intestinal canal and the body wall",
+			"ja": "内臓と身体の壁との間に横たわる、生命がその中に複雑な臓器を配置するための『神聖な空洞（hollow）』。深化的（evolutionary）な爆発を可能にした、内的宇宙の余白"
+		},
+		"thinking_layer": "『空洞であること』。シーリング（Ceiling/天井＝空洞の上部）やホール（Hole/穴）と同根。語源は「空洞」。ただの「隙間」ではありません。進化の過程で、この「体腔（coelom）」を手に入れたことで、生物は内臓を独立して動かし、より大きく、より複雑に変容することができました。それは、知性が新しいアイディアを育むために必要な、内なる「沈黙の空間（silent space）」。",
+		"aftertaste": "自分の身体の奥深くにある、この目に見えない「空洞（coelom）」を意識し、そこに自分のすべての感情や記憶が、重力から解放された臓器のように浮かんでいるのを想像する、あの静かな瞑想（meditation）。あるいは、あまりにも多くの「他人の期待」で自分の内側が満たされ、この自由な「体腔（coelom）」を失ってしまったのではないかと危惧する、あの窒息しそうな午後。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "keue-",
+					"meaning": "to swell, hollow (forming koilos)"
+				}
+			],
+			"points": [
+				"cave, chamber, cavity, church 同根。",
+				"『空洞（hollow）』とは欠落ではなく、何かが新しく生まれるための『可能性』の器である。シエロム（coelom）とは、生命が自らの内側に作り出した、最も贅沢で知的な『余白』である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "antrum",
+		"word": "Antrum",
+		"part_of_speech": "noun",
+		"meaning": "洞（どう）、空洞、（特に）上顎洞、胃洞",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "antron",
+					"type": "root",
+					"meaning": "cave (洞穴)",
+					"lang": "Greek"
+				}
+			],
+			"original_statement": "From Greek antron 'cave'."
+		},
+		"core_concept": {
+			"en": "A natural chamber or cavity in a bone or other anatomical structure",
+			"ja": "骨や組織の奥深くに隠された、自然な『洞穴（cave）』。音を共鳴させ、あるいは秘密を貯蔵するための、身体の中の隠れ家"
+		},
+		"thinking_layer": "『洞穴』。アンスロポロジー（Anthropology/人間学＝洞穴に住む人？）はおそらくな。語源は「洞窟」。上顎の骨の中にある大きな空洞（maxillary antrum）など。それは、日常の喧騒（noise）から切り離された、自分だけの「最深部」。声がここを震わせることで、言葉は独自の「響き（resonance）」と「深み」を獲得します。知性の「反響室（echo chamber）」。",
+		"aftertaste": "自分の声が「洞（antrum）」の中で共鳴（resonate）し、自分自身の身体そのものが巨大な「楽器（instrument）」となって、世界に向けて一音を放っているのを感じる、あの誇らしい一体感。あるいは、自分の心の「洞窟（antrum of the heart）」の中に、誰にも打ち明けたことのない古い傷（old scar）を密かに隠し持ち、その冷たさを時折確かめては溜息をつく、あの無口な夜明け。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"『洞穴（cave）』とは恐怖の対象であると同時に、最初の神聖な儀式が行われた『聖域』でもある。身体の中のアントラム（antrum）は、生命が自らの内に宿した太古の記憶を反響させるための、生きた空洞である。",
+				"アントラム（antrum）という言葉には、隠された空間を探索し、その境界（boundary）を定義しようとする解剖学的な意志が宿っている。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "vesicle",
+		"word": "Vesicle",
+		"part_of_speech": "noun",
+		"meaning": "小胞（しょうほう）、水ぶくれ、嚢（のう）",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "vesica",
+					"type": "root",
+					"meaning": "bladder, blister (嚢、水ぶくれ)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin vesicula, diminutive of vesica 'bladder'."
+		},
+		"core_concept": {
+			"en": "A small fluid-filled bladder, sac, cyst, or vacuole within the body; (geology) a small cavity in a volcanic rock, produced by gas bubbles",
+			"ja": "生命の海の中で、特定の成分を『小宇宙（small world）』として閉じ込め、運び、あるいは分泌（secreting）するための、繊細な『小胞（sac）』。境界を明確に保つことで維持される、微小な秩序"
+		},
+		"thinking_layer": "『小さな嚢（のう）』。ビークル（Vehicle/乗り物＝運ぶもの）と同根の説あり。語源は「（大きな）嚢」。細胞の中で、必要なものを包み込んで運ぶ「運び屋」。ただの「袋」ではなく、その「薄膜（membrane）」の境界線こそが重要です。それは。外側の混沌から大切なアイディアを守り、適切な場所へと送り届ける、知性の「運び手（carrier）」。",
+		"aftertaste": "無数の「小胞（vesicle）」が自分の身体の中で休むことなく動き回り、一つの巨大な「調和（harmony）」を作り上げていることに想いを馳せ、自分の存在がいかに精緻な（exquisite）部品の集積であるかを知る、あの知的な充足。あるいは、自分のアイディアが、まだこの「ヴェシクル（vesicle）」のような未熟な泡に過ぎず、いつか破裂（burst）して世界へと溶け出してしまうのを待ちわびる、あの静かな期待。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "wes-",
+					"meaning": "to be, stay, dwell? (uncertain root for vesica)"
+				}
+			],
+			"points": [
+				"vessel, vessel 同根の説あり。",
+				"『境界（boundary）』とは、他者との断絶（separation）ではなく、自己という固有の価値を『濃縮（concentration）』し、目的に向かって移動させるための、生命の知恵である。ヴェシクル（vesicle）はその最小単位である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "fenestra",
+		"word": "Fenestra",
+		"part_of_speech": "noun",
+		"meaning": "窓、窓状の開口部",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "fenestra",
+					"type": "root",
+					"meaning": "window (窓)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin fenestra 'window'."
+		},
+		"core_concept": {
+			"en": "A small natural hole or opening in a bone or other anatomical structure, such as the opening between the middle ear and the inner ear; a window",
+			"ja": "閉ざされた骨や組織の中に穿（うが）たれた、光や信号を通すための『窓（window）』。外部の波動を受け入れ、深淵へと導く、静かな『受容の扉』"
+		},
+		"thinking_layer": "『窓』。フィニッシュ（Finish/終わらせる＝窓に蓋をする？）や、フランス語の「フェネート（Fenêtre）」と同根。語源は「窓」。耳の奥にある、音の振動を伝えるための大切な開口部（oval window）。それは、一方的な「叫び」を止めて、世界の「響き」に耳を澄ませるための、知性の「謙虚な窓」。情報を取捨選択し、内なる静寂へと導くゲート。 ",
+		"aftertaste": "耳の奥の「窓（fenestra）」を震わせる美しい音楽に身を委ね、自分の意識がその微かな開口部を通じて、宇宙の巨大なリズムと「接続（connect）」しているのを感じる、あの至福の時間。あるいは、自分の心に開いた「フェネストラ（fenestra）」から、誰かの視線が入り込んでくるのを恐れ、慌てて理性の鎧（armor）で塞（ふさ）ごうとする、あの不器用な自己矛盾（self-contradiction）。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "bha-",
+					"meaning": "to shine (forming fenestra/that which lets light shine in)"
+				}
+			],
+			"points": [
+				"bright, phantom, emphasis, phenomenon 同根。",
+				"『窓（window）』とは存在の拒絶ではなく、特定の場所を介してのみ許される『対語（dialogue）』の場である。フェネストラ（fenestra）という解剖学的な用語には、身体がいかに外部と『共振』しようとしているかという設計の跡が刻まれている。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "stoma",
+		"word": "Stoma",
+		"part_of_speech": "noun",
+		"meaning": "気孔（きこう）、（生物の）小孔、人工肛門、口",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "stoma",
+					"type": "root",
+					"meaning": "mouth (口)",
+					"lang": "Greek"
+				}
+			],
+			"original_statement": "From Greek stoma 'mouth'."
+		},
+		"core_concept": {
+			"en": "The minute pores in the epidermis of the leaf or stem of a plant, forming a slit of variable width which allows movement of gases in and out of the intercellular spaces; a mouth-like opening",
+			"ja": "植物が呼吸し、生命の息吹（breath）を交換するための、無数の『小さな口（mouth）』。沈黙しているように見える大地と空の間で、絶え間なく行われる物質の『贈与』と『受容』の交差点"
+		},
+		"thinking_layer": "『口』。ストマック（Stomach/胃＝おそらくな）や、おなじみの「ストマ（人工肛門）」と同根。語源は「口」。葉の裏側にある、目に見えないほど小さな穴。それは、自律的な「呼吸」の証明。ただ光合成をするだけでなく、熱くなりすぎた身体（水分）を「蒸散（transpiration）」させて自分を癒やす。知性の「排気口（exhaust port）」であり、他者との「接点」。",
+		"aftertaste": "葉っぱの一枚一枚に備わった「気孔（stoma）」が、太陽の光を受けて一斉に開き、目に見えない「命の対話（dialogue of life）」がこの大気の中で繰り広げられているのを想い、呼吸するたびに世界が新しくなっているのを実感する、あの峻烈な心地よさ。あるいは、自分の心の「ストマ（stoma）」が固く閉ざされ、言葉という名の酸素が入ってこなくなった時の、あの枯れ果てたような寂しさと、自省。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "stomen-",
+					"meaning": "mouth, opening"
+				}
+			],
+			"points": [
+				"stomach, stomatitis 同根。",
+				"『口（mouth）』とは摂取の象徴だが、ストマ（stoma）という植物的な用法においては、それはむしろ生命を外部へと『開き』、循環（circulation）の一部にするための謙虚な『入り口』としての意味合いが強い。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
