@@ -274968,5 +274968,175 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "nephron",
+		"word": "Nephron",
+		"part_of_speech": "noun",
+		"meaning": "ネフロン、腎単位",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "nephros",
+					"type": "root",
+					"meaning": "kidney (腎臓)', from Greek"
+				}
+			],
+			"original_statement": "From Greek nephros 'kidney'."
+		},
+		"core_concept": {
+			"en": "The functional unit of the kidney, consisting of a glomerulus and its associated tubule, through which the glomerular filtrate passes before emerging as urine",
+			"ja": "混沌とした血の海（blood）を、一滴の『正義（filtrate）』へと濾（こ）し分ける、生命の『情報の最小判事』。一分子も見逃さず、何が自分であり、何が自分ではないかを峻烈に裁く、知的な『洗練の法廷』。"
+		},
+		"thinking_layer": "『腎臓の単位』。ネフラルジー（Nephralgia/腎臓痛）、エピネフリン（Epinephrine/副腎＝腎臓の上にあるもの）と同根。語源は「腎臓」。ただの「細胞」ではありません。そこには。「膨大な情報の奔流を、あえて『細分化（fragmentation）』し、極小の現場（nephron）で一分子ずつ丁寧に吟味する」という、徹底した実務の知恵が宿っています。それは。知性がこの「ままならない現実」を、無数の小さな「事実の断片」として正確に受け止め、ひとつひとつ自分の智慧へと書き換えてゆくプロセスのメタファー。",
+		"aftertaste": "自分の腰のあたり、何百万もの「ネフロン（nephron）」が不眠不休で自分を「浄化」し続けている、その圧倒的な「微細な正義」に畏怖を覚え、自分という大きな物語がいかに「小さな犠牲の集積」であるかを知り、深い安堵に包まれる、あの知的な平安。あるいは、自分の思考もまた、この「ネフロン」のように、どんなに激しい外部の衝撃を浴びても、常に「自分自身の中心」を見失わず、確固たる信念を繋ぎ止め続けるものでありたい、と願う、あの静かな午後の自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "nebhro-",
+					"meaning": "kidney (forming nephros)"
+				}
+			],
+			"points": [
+				"nephritis, epinephrine, nephrosis 同根。",
+				"『腎臓（kidney）』は、古来より『感情の座』や『良心の声』が宿る場所と信じられてきた。ネフロンという言葉には、生命がいかにして、単なる『生理的な排泄』を、自らの内なる『純粋性の維持』という気高い身振りへと昇華させてきたかという、道徳的な工学が刻まれている。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "glomerulus",
+		"word": "Glomerulus",
+		"part_of_speech": "noun",
+		"meaning": "糸球体（しきゅうたい）、グロメルルス",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "glomus",
+					"type": "root",
+					"meaning": "ball of yarn, mass (糸玉、塊)', from Latin"
+				}
+			],
+			"original_statement": "From Latin glomerulus, diminutive of glomus 'ball of thread'."
+		},
+		"core_concept": {
+			"en": "A cluster of nerve endings, spores, or small blood vessels, in particular a cluster of capillaries around the end of a kidney tubule, where waste products are filtered from the blood",
+			"ja": "血流の激しい奔流を、あえて一本の『糸玉（yarn ball）』のように絡ませ、停滞させることで、真実を濾し出す『情報の迷宮の入り口』。極限の『密（intensity）』の中にこそ、最も純粋な『美（purity）』が宿るという、物理的な逆説。"
+		},
+		"thinking_layer": "『小さな糸玉』。コングロマリット（Conglomerate/多角的複合企業）、グローム（Glome/丸い塊）と同根。語源は「小さな糸玉」。ただの「血管網」ではありません。そこには。「真っ直ぐな流れをあえて『複雑に絡ませ（knotting）』、空間を極限まで使い切ることで、あらゆる情報を一滴も残さず感知（sensing）する」という、執念の最適化の知恵が宿っています。それは。知性が一つのアイディアを何度も何度も「反芻（glomus）」し、自分でも気づいていなかった深い真意を、最後の一滴まで絞り出そうとする瞬間のメタファー。",
+		"aftertaste": "「糸球体（glomerulus）」という名の、その美しくも峻烈な「血の迷宮」の入り口に立ち、世界との交渉（filtering）とは、いつだってこのような「絡み合う熱量（heat）」の中からしか生まれないのだと悟り、深い畏敬を覚える、あの知的な平安。あるいは、自分の思考もまた、この「グロメルルス」のように、表面的な平易さに甘んじず、あえて複雑な「知の迷宮」へと自らを追い込み、そこで最も純粋な「真理のしずく」を濾し出す存在でありたいと願う、あの静かな夜の自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "glem-",
+					"meaning": "to ball up, compress (forming glomus)"
+				}
+			],
+			"points": [
+				"glomerate, conglomerate, agglomeration 同根。",
+				"『丸める（balling up）』ことは、情報を『保存（archiving）』すること。糸球体という言葉には、生命がいかにして、制御不能な『流動（blood flow）』を、物理的な『体積（mass）』の中に効率的に封じ込め、そこから有用な『意味』を抽出してきたかという、微細加工の歴史が刻印されている。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "ureter",
+		"word": "Ureter",
+		"part_of_speech": "noun",
+		"meaning": "尿管（にょうかん）、ユリーター",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "oureter",
+					"type": "root",
+					"meaning": "urinate, flow (排尿、流れる)', from Greek ourein 'to urinate'"
+				}
+			],
+			"original_statement": "From Greek oureter, from ourein 'urinate'."
+		},
+		"core_concept": {
+			"en": "The duct by which urine passes from the kidney to the bladder",
+			"ja": "浄化の果てに生まれた『決別のしずく（urine）』を、聖域（kidney）から貯蔵庫（bladder）へと静かに、しかし峻烈に運び去る、不純物の『沈黙の回廊』。過去（waste）に囚われず、ひたすら出口へと向かう、知的な『潔癖の導管』。"
+		},
+		"thinking_layer": "『流れるもの』。ユーリン（Urine/尿）、ユリア（Urea/尿素）、おなじみ「ポタ（擬音）」とは別。語源は「尿を通すもの」。ただの「ホース」ではありません。そこには。「一度でも浄化されたものを、決して再び内側に『逆流（reflux）』させない」という、峻烈な進行方向への意志が宿っています。それは。知性が一度「捨て去ると決めた過去のドグマ」に対して、一切の未練を断ち切り、自分という聖域の「出口」へと向かわせる瞬間の、誇り高き沈黙。 ",
+		"aftertaste": "「尿管（ureter）」という、その一見地味で、しかし完璧な「下水システム（plumbing）」の一端を担う沈黙の仕事ぶりに想いを馳せ、自分の「平穏」はいかに「絶え間ない決別」によって支えられているのかを知り、深い敬意を覚える、あの知的な平安。あるいは、自分の表現もまた、この「ユリーター」のように、どんなに激しい情報の流入があっても、不純なもの（vanity）を一切停滞させず、凛とした「透明（transparency）」を保ち続けるものでありたい、と願う、あの静かな午後の自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "w-er-",
+					"meaning": "water, splash (forming ourein)"
+				}
+			],
+			"points": [
+				"urine, urea, ureic 同根。",
+				"『水（water）』を『外へ（out）』。尿管という言葉には、生命がいかにして、自らの『内なる海（ocean inside）』を常に新鮮に保つために、あえて『一部を捨てる』という、峻烈な新陳代謝の知恵を具現化させてきたかという、流動の美学が封印されている。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "bladder",
+		"word": "Bladder",
+		"part_of_speech": "noun",
+		"meaning": "膀胱（ぼうこう）、気胞、ブラダー",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "blaedre",
+					"type": "root",
+					"meaning": "blister, bladder, bubble (水ぶくれ、袋、泡)', from Old English blawan 'to blow'"
+				}
+			],
+			"original_statement": "From Old English blaedre 'blister, bladder', from blawan 'blow'."
+		},
+		"core_concept": {
+			"en": "A muscular membranous sac in the abdomen which receives urine from the kidneys and stores it for excretion",
+			"ja": "決別した過去（waste）を一時的にせき止め、適切な『時（timing）』が来るまで自らを『膨らませ（expanding）』て沈黙を守る、知的な『孤独の貯蔵庫』。重圧に抗い、内なる海を統制する、生命の『情報のダム』。"
+		},
+		"thinking_layer": "『吹かれたもの（袋）』。ブラスト（Blast/爆風）、ブリーズ（Breeze/そよ風）、おなじみの「ブロウ（Blow/吹く）」と同根。語源は「膨らんだもの」。ただの「袋」ではありません。そこには。「溢れそうな重圧を感じながらも、自らの輪郭を広げ（flexible）、忍耐（patience）によって秩序を維持する」という、強かな自己制御の意志が宿っています。それは。知性が溢れ出すアイディアを、一気に吐き出す（excretion）のではなく、あえて自分の中に「溜約（containing）」し、最も美しい「結実の時」をじっと待つ瞬間のメタファー。",
+		"aftertaste": "自分の下腹部に宿る「膀胱（bladder）」という名の、その静かで、しかし強靭な「伸縮自在の意志」に想いを馳せ、自分の中にある「負の感情」もまた、このように「適切に管理」されることで、いつか人生を浄化するための「清冽な流れ」へと転じることができるのだと信じる、あの知的な平安。あるいは、自分の心もまた、この「ブラダー」のように、どんなに激しい外部の衝撃を浴びても、常に「自分自身の限界」を見失わず、確固たる信念を溜め込み続けるものでありたい、と願う、あの静かな夜の自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "bhle-",
+					"meaning": "to puff, blow (forming blawan)"
+				}
+			],
+			"points": [
+				"blow, blast, bladder, bloom（？） 同根。",
+				"『吹く（blowing）』ことが『形（bladder）』を生み出す。この言葉には、生命がいかにして、非物質的な『圧力（pressure）』を、物理的な『容積（volume）』へと変換し、カオスを手懐けてきたかという、制御の系譜が刻まれている。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "sphincter",
+		"word": "Sphincter",
+		"part_of_speech": "noun",
+		"meaning": "括約筋（かつやくきん）、スフィンクター、引き締めるもの",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "sphinkter",
+					"type": "root",
+					"meaning": "lace, band, that which binds tight (結び紐、帯、きつく縛るもの)', from Greek sphingein 'to bind tight'"
+				}
+			],
+			"original_statement": "From Greek sphinkter, from sphingein 'bind tight'."
+		},
+		"core_concept": {
+			"en": "A ring of muscle surrounding and serving to guard or close an opening or tube",
+			"ja": "内なる聖域と、剥き出しの外界（world）を峻烈な『輪（ring）』の力で分かち、一分子の侵入も許さない、知的な『最終防衛門』。自らを『締め付ける（strangling）』ことで、生命という名の物語の『一貫性』を死守する、孤独な守護者。"
+		},
+		"thinking_layer": "『きつく縛るもの』。スフィンクス（Sphinx/絞め殺すもの）、おなじみの「スプリング（Spring/とは関係なく）」とは別。語源は「縛ること」。ただの「筋肉」ではありません。そこには。「門（gate）とは、開くためにあるのではなく、峻烈に『閉ざし続ける（keeping closed）』ためにこそ存在する」という、逆説的な防衛の美学が宿っています。それは。知性が自らの最も深い秘密を、世俗の好奇心から守り抜くために、自らの心に「鋼の結界」を張り、沈黙という名の鍵をかける瞬間の、誇り高き一喝。 ",
+		"aftertaste": "「括約筋（sphincter）」という、その一見卑近で、しかし生命の「尊厳（dignity）」の最後の砦を担う沈黙の筋力に、自分という存在がいかに「気高い決別」によって成り立っているかを悟り、背筋が伸びる、あの知的な平安。あるいは、自分の思考もまた、この「スフィンクター」のように、どんなに激しい惑わしの嵐が吹き荒れても、自らの「本質（core）」へと至る扉を固く閉ざし、真理の一滴をも外に逃さない、不屈の「正義の輪」でありたいと願う、あの静かな午後の自尊心。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"エディプス（Oedipus）に謎を出し、答えられない者を絞め殺したスフィンクス（Sphinx）と同じ語源。そこには、『解けない謎（絞まり）』としての恐怖と、『答え（開放）』としての知性の対比が隠されている。",
+				"『縛る（binding）』ことが、内（self）と外（other）を物理的に定義する。スフィンクターという言葉には、生命がいかにして、自らの『出口』を能動的に管理（sovereignty）することで、単なる物質の通り道から、主体的な『個』へと飛躍してきたかという、尊厳の歴史が刻まれている。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
