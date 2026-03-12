@@ -256955,5 +256955,126 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "inverse",
+		"word": "Inverse",
+		"part_of_speech": "adjective/noun",
+		"meaning": "逆の、反対の、反転した",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "in-",
+					"type": "prefix",
+					"meaning": "into, upon (〜の方へ)"
+				},
+				{
+					"text": "vertere",
+					"type": "root",
+					"meaning": "to turn (回る、回す)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin inversus, from invertere 'turn upside down'."
+		},
+		"core_concept": {
+			"en": "Opposite in position, direction, order, or effect",
+			"ja": "それまでの流れや形を、完全に『逆（turn upside down）』の方向へと反転させること。鏡の中の世界のように、すべての価値が正反対に書き換えられた、対照的な反転の状態"
+		},
+		"thinking_layer": "『内側にひっくり返すこと』。ヴァージョン（Version）やコンヴァート（Convert）と同根。単なる「反対（opposite）」よりも、構造ごと「裏返す」というダイナミックな動きを伴います。善が悪になり、一がマイナス一になる。その反転（inversion）の瞬間に、私たちは自分たちが信じていた「正しさ」がいかに危ういバランスの上に立っていたかを思い知らされます。",
+		"aftertaste": "完璧だと思っていた計画が、たった一つのボタンのかけ違いで、すべてが『逆（inverse）』の結果を招き始めた時の、あの背筋が凍りつくような不吉な実感。あるいは、大嫌いだったはずの人の欠点の中に、実は自分の最も愛すべき特質が『反転』して隠されていたと気づいた時の、震撼するような内省。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "wer-",
+					"meaning": "to turn, bend"
+				}
+			],
+			"points": [
+				"verse, anniversary, university, reverse, vertical 同根。",
+				"『宇宙（universe）』とは、たった一つの中心の周りを、あらゆるものが『回転し（turn）』、無限の『反転（inverse）』を繰り返しながら、全体としての均衡を保っている巨大な装置である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "reciprocal",
+		"word": "Reciprocal",
+		"part_of_speech": "adjective",
+		"meaning": "相互の、互恵的な、逆の、数学の逆数",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "re-",
+					"type": "prefix",
+					"meaning": "back (戻る、後ろへ)"
+				},
+				{
+					"text": "pro-",
+					"type": "prefix",
+					"meaning": "forwards (前へ)"
+				}
+			],
+			"original_statement": "From Latin reciprocus 'returning the same way', from re- 'back' + pro- 'forward'."
+		},
+		"core_concept": {
+			"en": "Given, felt, or done in return",
+			"ja": "『前へ（pro）』出したものが、全く同じ重みを持って自らの元へと『後ろへ（re）』戻ってくる、完璧な対等と交換のサイクル。あなたが世界にしたことが、そのままあなたに返るという、冷徹で慈悲深い宇宙の均衡"
+		},
+		"thinking_layer": "『行ったり来たりすること』。プロ（Pro）とレ（Re）の絶え間ない往復。それは「目には目を」という復讐の論理から、数学の「逆数（掛ければ一になる数）」、そして互いに想いを交わし合う「相愛（reciprocal love）」まで。自分という存在は、常にこの「往復するエネルギー」の結節点として定義されます。",
+		"aftertaste": "自分の差し出した小さな親切が、何年も経ってから全く別の形で自分の元へ『戻って（reciprocal）』きた時の、あの世界が繋がっているという温かな実感。あるいは、憎しみの言葉がブーメランのように自分を切り裂きに戻ってくるのを、ただ見つめるしかない、あの逃げ場のない自己責任の冷たさ。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "re-",
+					"meaning": "back"
+				},
+				{
+					"term": "per-",
+					"meaning": "forward"
+				}
+			],
+			"points": [
+				"reciprocity, protein, proceed, return, replace 同根。",
+				"『文明』とは、暴力的な一方通行を、この『行ったり来たり（reciprocal）』する契約の言語へと翻訳し、永続的な平和を構築するための、最も高度な知の操作である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "tangential",
+		"word": "Tangential",
+		"part_of_speech": "adjective",
+		"meaning": "接線の、わずかに触れるだけの、本筋から外れた",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "tangere",
+					"type": "root",
+					"meaning": "to touch (触れる)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin tangent-, from tangere 'touch'."
+		},
+		"core_concept": {
+			"en": "Relating to or along a tangent; diverging from a previous course or line; peripheral",
+			"ja": "本質（円）の中心を貫くのではなく、その表面に一瞬だけ『触れ（touch）』、そのまま別の方向へと飛び去ってゆく様子。本質をかすめるだけの、あるいは主題から美しく、しかし無責任に逸脱してゆく知の軌跡"
+		},
+		"thinking_layer": "『触れることの』。タンジブル（Tangible/触れられる、明らかな）やコンタクト（Contact/共に触れる）、タクト（Tact/機転）と同根。ただの「無関係」ではなく、「一度は触れた」という事実が、その後の逸脱に切実なニュアンスを与えます。それは、議論の本流から外れた「余談（tangent）」から、一瞬の視線の交錯による運命の狂いまで。",
+		"aftertaste": "核心に迫ろうとする質問を、軽やかな冗談で『受け流し（tangential）』、真実の表面を一瞬だけ撫でて去ってゆく、あのあやふやな言葉の戯れ。あるいは、自分の人生にとって最も重要だったはずの人が、実はただの「接線（tangent）」のように一瞬だけ触れ、そのまま永遠に去ってゆく存在だったと悟った時の、あの風のような寂しさ。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "tag-",
+					"meaning": "to touch, handle"
+				}
+			],
+			"points": [
+				"tact, tangent, integer（手を触れられていない＝完全な）, contagious（接触による＝感染性の）と同根。",
+				"『真実』に深く潜ることを恐れる知性は、常にその外縁を『撫でる（tangential）』ことだけで、世界を理解したつもりになろうとする。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
