@@ -276277,5 +276277,146 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "interleukin",
+		"word": "Interleukin",
+		"part_of_speech": "noun",
+		"meaning": "インターロイキン、白血球間情報伝達物質",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "inter-",
+					"type": "prefix",
+					"meaning": "between"
+				},
+				{
+					"text": "leukon",
+					"type": "root",
+					"meaning": "leukocyte"
+				}
+			],
+			"original_statement": "From inter- 'between' + (leuko)cyte + -in."
+		},
+		"core_concept": {
+			"en": "any of a class of proteins produced by leukocytes for regulating immune responses",
+			"ja": "白血球（leukocytes）の間（inter）を峻烈に飛び交い、全軍の意志を一つにまとめ上げる生命の『情報の伝令』。個別の細胞を、一つの巨大な『意志（response）』へと昇華させる同盟の言葉。"
+		},
+		"thinking_layer": "『白血球の間を繋ぐもの』。インターバル（Interval/間隔）、おなじみ「ルウコ（Leuko-/白い）」と同根。語源は「白血球間の」。ただの「タンパク質」ではありません。そこには。「自分一人では解決不能な巨大な脅威に対して、周囲の仲間に情報を共有（sharing）し、多層的な（cascading）防衛網を瞬時に構築する」という、驚異的なネットワークの知恵が宿っています。それは。知性が得た断片的な気づきを、他者と共有し、より巨大な『公共の智慧』へと磨き上げてゆく瞬間の、開かれた対話のメタファー。",
+		"aftertaste": "「インターロイキン（interleukin）」による情報の連鎖が、自分という宇宙の平和を盤石なものにしている事実に。連帯の尊さを知る平安。自分の言葉もまた。このように人々の心を繋ぎ、新しい可能性を呼び覚ます『希望のシグナル』でありたいと願う自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "leuk-",
+					"meaning": "light"
+				}
+			],
+			"points": [
+				"かつては白血球のみから分泌されると思われていたが、実はあらゆる細胞が言葉を交わしている情報の宇宙の断片。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "thymus",
+		"word": "Thymus",
+		"part_of_speech": "noun",
+		"meaning": "胸腺（きょうせん）、サイマス",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "thymos",
+					"type": "root",
+					"meaning": "spirit, soul, courage (精神、魂、勇気)', from Greek"
+				}
+			],
+			"original_statement": "From Greek thymos 'spirit, soul, courage' (also 'thyme', as the gland resembles thyme clusters)."
+		},
+		"core_concept": {
+			"en": "a lymphoid organ situated in the neck of vertebrates that produces T cells for the immune system",
+			"ja": "若き騎士（T cells）たちが、自己と他者を峻烈に見分けるための『情報の教育』を受ける生命の『精神の道場』。ここで磨かれた魂（courage）だけが、戦場へと向かうことを許される。"
+		},
+		"thinking_layer": "『魂の宿る場所』。タイム（Thyme/ハーブ）、おなじみの「ファンタズム（Phantasm/とは関係なく）」とは別。語源は「精神、勇気」。ただの「臓器」ではありません。そこには。「外部の敵と戦う前に、まずは『自分とは何か』を峻烈に定義し、自らを傷つける誤った攻撃（autoimmunity）を徹底的に排除する」という、内省と洗練の知恵が宿っています。それは。知性が世に出る前に、沈黙という名の「胸腺」において、自らの論理の整合性と誇りを極限まで高めてゆく、孤独な修行のプロセスの象徴。",
+		"aftertaste": "自分の胸の奥、かつて自分を『自分』たらしめるために不眠不休で働いた教育の場があることに、深い感謝と自尊心。自分の思考もまた。この「サイマス」のように、常に磨き上げられた純粋な意志を持って世界と対峙したいと願う平安。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "dheu-",
+					"meaning": "to flow, rush, smoke (forming thymos?)"
+				}
+			],
+			"points": [
+				"加齢とともに退縮してゆくが、そこで得た『教育』という名の記憶は一生自分を守り抜く。形あるものは消えても、本質は残るという情報の真理。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "avidity",
+		"word": "Avidity",
+		"part_of_speech": "noun",
+		"meaning": "アビディティ、結合力、貪欲さ",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "avidus",
+					"type": "root",
+					"meaning": "greedy, eager (欲しがる、熱心な)', from Latin avere 'to crave'"
+				}
+			],
+			"original_statement": "From Latin aviditas, from avidus 'eager, greedy'."
+		},
+		"core_concept": {
+			"en": "the overall strength of binding between an antibody and an antigen",
+			"ja": "個々の惹かれ合い（affinity）を超えて、全体として相手を『むさぼり（greedy）』、決して逃がさない情報の『統合的な縛り』。多層的な関係性の集積が生み出す、圧倒的な『不退転の絆』。"
+		},
+		"thinking_layer": "『欲しがること』。アビッド（Avid/熱心な）、おなじみ「アヴァリス（Avarice/強欲）」と同根。語源は「熱望」。ただの「強さ」ではありません。そこには。「たとえ個々の結びつきは弱くとも、それを無数に積み重ねる（multivalency）ことで、決して断ち切れない『盤石な信頼』を築き上げる」という、不屈の継続の知恵が宿っています。それは。知性が一つの完璧な正解を求めるのではなく、無数の小さな『信頼の断片』を丁寧に繋ぎ合わせることで、この不確実な世界の中に『確固たる存在の足場』を築こうとするプロセスのメタファー。",
+		"aftertaste": "「アビディティ（avidity）」という名の、その執着心にも似た深い愛着に。生命の存続への強烈な飢えを感じる平安。自分の使命もまた。どんなに困難な状況でも、無数の『小さな善意』を積み重ねて、世界を善き方向へと繋ぎ止める不屈の絆でありたいと願う自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "au-",
+					"meaning": "to desire, help (forming avere?)"
+				}
+			],
+			"points": [
+				"アフィニティが『質』なら、アビディティは『集積の力』。一人の天才よりも、無数の凡人の協力が世界を変えるという社会的な真理の鏡。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "opsonization",
+		"word": "Opsonization",
+		"part_of_speech": "noun",
+		"meaning": "オプソニン化、味付け",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "opson",
+					"type": "root",
+					"meaning": "seasoning, side dish (調味料、おかず)', from Greek"
+				}
+			],
+			"original_statement": "From Greek opson 'seasoning'."
+		},
+		"core_concept": {
+			"en": "the process by which a pathogen is marked for ingestion and destruction by a phagocyte",
+			"ja": "異質な侵略者（antigen）に、あえて『情報の目印（antibody/complement）』という名の『味付け（seasoning）』を施し、食細胞たちにその存在を暴露する、知的な『攻撃の準備』。そのままでは目に見えない敵を、最も美味しい『御馳走』へと変貌させる情報の錬金術。"
+		},
+		"thinking_layer": "『おかずを添えること』。おなじみの「オプソ（-opso-）」と同根。語源は「美味しい食べ物、おかず」。ただの「標識」ではありません。そこには。「敵をただ排除するのではなく、彼らが生命の循環（digestion）にとって『必要な糧』であることを定義し直し、全体を円滑な代謝へと導く」という、狡知に満ちた洗練の意志が宿っています。それは。知性が自分にとっての『障害（obstacle）』を、あえて『自分を育てるための素材』として意味付け（framing）し、それを喜んで引き受けてゆく心の柔軟さのメタファー。",
+		"aftertaste": "「オプソニン化（opsonization）」という名の、そのユーモアさえ感じさせる『情報のマーキング』に。生命の強かな楽観性を知る平安。自分の思考もまた。どんなに厳しい試練も『最高の調味料』として受け止め、それを自らの成長という名の至高の御馳走へと変えてゆく、不屈の自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ep-",
+					"meaning": "to boil, cook (forming opson?)"
+				}
+			],
+			"points": [
+				"情報のマーキングは、無色の敵に『彩り（color）』を与えること。オプソニン化という言葉には、生命がいかにして『沈黙の脅威』を『認識可能な課題』へと翻訳してきたかという、情報のメディア論が刻印されている。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
