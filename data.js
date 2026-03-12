@@ -256110,5 +256110,92 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "affiliation",
+		"word": "Affiliation",
+		"part_of_speech": "noun",
+		"meaning": "提携、加入、所属、養子縁組",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "ad-",
+					"type": "prefix",
+					"meaning": "to (の方へ)"
+				},
+				{
+					"text": "filius",
+					"type": "root",
+					"meaning": "son (息子)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin affiliat- 'adopted as a son', from ad- 'to' + filius 'son'."
+		},
+		"core_concept": {
+			"en": "The state or process of affiliating or being affiliated; official connection to something",
+			"ja": "見知らぬ他者や組織を、自らの『息子（son）』として迎え入れるかのように、深く、そして公式に結びつけること。法的な繋がりを超えた、運命の『共有』"
+		},
+		"thinking_layer": "『息子のように扱うこと』。フィリアル（Filial/親孝行な）や、アフィリエイト（Affiliate/提携）と同根。単なるビジネスパートナーではなく、そこには「家族的な絆」や「保護の責任」が含まれています。大きな傘の下に入ること。そのことで得られる安心感と、引き換えに支払う「忠誠（Loyalty）」。",
+		"aftertaste": "冷たい雨の降る社会の路地裏から、温かな光の漏れる巨大な館（組織）へと迎え入れられた瞬間の、あの誇らしさと安堵。あるいは、自分が所属している組織の名前を名乗る時に、自分の背中が少しだけ大きくなったかのような、あの甘美な錯覚。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "dhē-i-",
+					"meaning": "to suckle (forming filius/son)"
+				}
+			],
+			"points": [
+				"filius, feminine, fecund, felicity 同根。",
+				"『所属（affiliation）』の起源は、親が生んだ子に『乳を与える（suckle）』という、最も原初的な『生存への無償の支援』に遡る。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "rapport",
+		"word": "Rapport",
+		"part_of_speech": "noun",
+		"meaning": "（良好な）関係、ラポール、信頼関係",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "re-",
+					"type": "prefix",
+					"meaning": "back (戻る、再び)"
+				},
+				{
+					"text": "ad-",
+					"type": "prefix",
+					"meaning": "to (の方へ)"
+				},
+				{
+					"text": "portare",
+					"type": "root",
+					"meaning": "to carry (運ぶ)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From French, from rapporter 'bring back', from re- 'back' + apporter 'bring'."
+		},
+		"core_concept": {
+			"en": "A close and harmonious relationship in which the people or groups concerned understand each other's feelings or ideas and communicate well",
+			"ja": "自分の言葉や想いを相手の元へ『運び（carry）』、それが再び自分の元へと心地よく『戻って（back）』くる、循環する信頼の架け橋。波長が合い、呼吸が揃う、調和のとれた対話"
+		},
+		"thinking_layer": "『持ち戻ること』。サポート（Support/下から運ぶ）やポーター（Porter/運ぶ人）、交通機関（Transport）と同根。カウンセリング用語の「ラポール」。言葉がただ一方的に投げかけられるのではなく、相手の心というフィルターを通って、より深くなって自分へ還ってくる。その温かな「情報の循環」こそが、孤独を溶かす唯一の薬となります。",
+		"aftertaste": "初めて会ったばかりなのに、何時間も前からずっと語り合っていたような、あの不思議な「呼吸の一致（rapport）」への驚き。あるいは、沈黙さえもが心地よい対話の一部となり、ただそこに一緒にいるだけで心が満たされてゆく、あの深い安堵感。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "per-",
+					"meaning": "to lead, pass through (forming portare/carry)"
+				}
+			],
+			"points": [
+				"port, airport, export, import, support 同根。",
+				"『関係（relationship）』とは、自分という島と他者という島を繋ぐ『港（port）』を整備し、想いを『交易（exchange）』し続けることである。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
