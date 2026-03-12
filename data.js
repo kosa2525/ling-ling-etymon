@@ -262863,5 +262863,200 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "anastrophe",
+		"word": "Anastrophe",
+		"part_of_speech": "noun",
+		"meaning": "倒置、語順逆転",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "ana-",
+					"type": "prefix",
+					"meaning": "back, across (戻って、横切って)"
+				},
+				{
+					"text": "strephein",
+					"type": "root",
+					"meaning": "to turn (回る、曲がる)",
+					"lang": "Greek"
+				}
+			],
+			"original_statement": "From Greek anastrophē, from ana- 'back' + strephein 'turn'."
+		},
+		"core_concept": {
+			"en": "The inversion of the usual order of words or clauses",
+			"ja": "言葉の自然な流れを、強引に『引き戻し（back）』『ひねり（turn）』を加えることで、意図的な違和感と強調を生み出す修辞法。秩序を乱すことで、真理の輪郭を浮き彫りにする知的なスパイス"
+		},
+		"thinking_layer": "『戻って回ること』。アナグラム（Anagram/文字を入れ替えたもの）、アポストロフィ（Apostrophe/向きをそらしたもの）、ストラテジー（Strategy/軍隊を動かすこと？）と同根。語源は「反転」。ハイパーバトン（Hyperbaton）の一種ですが、より短いフレーズの「語順の入れ替え」を指します。例えば、「道は遠い」を「遠いかな、道」とするような。それは、聞き手の予感を裏切り、注意を強制的に「今、ここ」へと繋ぎ止めるための、言葉の引力。",
+		"aftertaste": "「強力なり、フォースは（Strong is the Force）」という「倒置（anastrophe）」の響きに、通常の語順では決して到達できない「神話的な重み」を感じ、自分の理性が心地よく「麻痺（numb）」してゆくのを楽しむ、あの映画館での充足。あるいは、自分の日常のルーチンをあえて「逆転（anastrophic shift）」させてみることで、見慣れた景色が全く新しい「真髄（marrow）」を帯びて動き出す、あの創造的な興奮。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "strebh-",
+					"meaning": "to wind, turn (forming strephein)"
+				}
+			],
+			"points": [
+				"strophe, catastrophe, streptococcus 同根。",
+				"『順序（order）』とは慣性の力だが、アナストロフィ（anastrophe）はその慣性を『断絶』させることで、自動化した知覚をリセットし、言葉を再び『体験』へと変容させる。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "hypallage",
+		"word": "Hypallage",
+		"part_of_speech": "noun",
+		"meaning": "転移修飾語、下位転換法",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "hypo-",
+					"type": "prefix",
+					"meaning": "under (〜の下に)"
+				},
+				{
+					"text": "allassein",
+					"type": "root",
+					"meaning": "to change, exchange (変える、交換する)",
+					"lang": "Greek"
+				}
+			],
+			"original_statement": "From Greek hypallagē 'exchange', from hypo- 'under' + allassein 'change'."
+		},
+		"core_concept": {
+			"en": "A figure of speech in which an epithet (adjective) is transferred from the word it logically modifies to another word with which it is associated (e.g., 'the farmer's busy hammer' instead of 'the busy farmer's hammer')",
+			"ja": "本来、あるべき言葉に添えられるべき『形容（adjective）』を、別の言葉へと密かに『交換（exchange）』し、文の『下に（under）』潜ませる修辞法。論理を攪乱（disturbing）し、世界に詩的な連帯感を与える魔法"
+		},
+		"thinking_layer": "『（意識の下での）交換』。アレルギー（Allergy/別の反応）、パラレル（Parallel/横に別のものがある）、おなじみの「ハイポ（下）」と同根。語源は「交換」。例えば「不眠の夜（sleepless night）」という表現。眠れないのは「人間」であって「夜」ではありません。形容詞を転移させることで、世界全体がその感情に染まっているかのような「全方位的な空気感」を作り出します。知性の「境界の融解（dissolution of boundaries）」。",
+		"aftertaste": "「彼女の悲しいドレス（her sad dress）」という表現に出会い、彼女の悲しみが布の一枚一枚にまで染み渡っている「転移（hypallage）」の密度に圧倒され、自分もまたその「悲しみの風景」の一部になってしまったかのように感じる、深い共鳴。あるいは、自分の「怒りのペン（angry pen）」が紙の上を走る時、自分が怒っているのか、それともペンそのものが怒りという「質量」を持って動いているのかが分からなくなる、あの奇妙な離人感（depersonalization）。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "al-",
+					"meaning": "beyond, other (forming allos/other)"
+				}
+			],
+			"points": [
+				"alien, allegory, alter, alias 同根。",
+				"『他者（other）』へと属性を移し替えることは、自己という檻（cage）から感情を解放し、周囲の事物を『共犯者』に変えることであり、ハイパラジー（hypallage）はその共犯関係の言語的な証明である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "parapraxis",
+		"word": "Parapraxis",
+		"part_of_speech": "noun",
+		"meaning": "失策行為、言い間違い、しくじり、錯誤行為",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "para-",
+					"type": "prefix",
+					"meaning": "beside, beyond (〜のそばに、〜を超えて)"
+				},
+				{
+					"text": "praxis",
+					"type": "root",
+					"meaning": "action, doing (行動、実践)",
+					"lang": "Greek"
+				}
+			],
+			"original_statement": "From Greek para- 'beside' + praxis 'action' (an action performed beside or in addition to the intended one)."
+		},
+		"core_concept": {
+			"en": "An error in speech, memory, or physical action that is interpreted as occurring due to the interference of an unconscious subdued wish or internal train of thought",
+			"ja": "意図した行動の『側（beside）』で、抑圧された本音や無意識の願いが不意に溢れ出してしまう『し損じ』。理性のヴェールを破って現れる、魂の汚（けが）れなき、しかし残酷な告白"
+		},
+		"thinking_layer": "『（意図の）そばでの行動』。プラクティス（Practice/実践）、プラグマティック（Pragmatic/実用的な）、おなじみの「パラ（横、異常）」と同根。語源は「（主目的の）そばでの行為」。いわゆる「フロイト的言い間違い（Freudian slip）」。ただの「ドジ」ではありません。そこには「自分が自分に隠していた真実（hidden truth）」が宿っています。それは、理性の城壁に空いた、たった一つの、しかし致命的な亀裂（crack）。 ",
+		"aftertaste": "大切な会議で、相手の名前を「昔の恋人（old flame）」の名前と間違えるという「失策行為（parapraxis）」を犯し、自分の中にまだ消えていない「未練」という火種があることを衆人環視の前で暴き出されたような、あの絶望的な羞恥（shame）と、皮肉な自己認識。あるいは、自分の「しくじり」を笑い飛ばしながらも、その裏にある自分の「本当の渇望」を静かに見つめ直す、あの苦くて誠実な深夜の独白。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "per-",
+					"meaning": "to lead, pass through (forming praxis)"
+				}
+			],
+			"points": [
+				"experience, expert, peril 同根。",
+				"『行動（praxis）』とは本来は最短距離を目指すものだが、パラプラクシス（parapraxis）はその軌道を『横（para-）』へと逸脱（deviate）させることで、直線的な理性が無視してきた『豊かな深淵』を白日の下に晒す。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "spoonerism",
+		"word": "Spoonerism",
+		"part_of_speech": "noun",
+		"meaning": "頭音転換、語音置換（法）",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "Spooner",
+					"type": "root",
+					"meaning": "William Archibald Spooner (人名)",
+					"lang": "English"
+				}
+			],
+			"original_statement": "Named after Reverend W. A. Spooner (1844–1930), warden of New College, Oxford, who was prone to such mistakes."
+		},
+		"core_concept": {
+			"en": "A verbal error in which a speaker accidentally transposes the initial sounds or letters of two or more words, typically to humorous effect, as in 'you have hissed the mystery lectures' instead of 'you have missed the history lectures'",
+			"ja": "隣り合う言葉の『頭（first letter）』が互いに入れ替わり、意図せずして全く異なる（そしてしばしば滑稽な）意味を出現させてしまう言葉の『悪戯（mischief）』。整合性と混沌が、たった一音の反転で入れ替わる薄氷の境界線"
+		},
+		"thinking_layer": "『スプーナー氏の（ようなこと）』。オックスフォード大学の教員スプーナー氏の「言い間違い」の癖が由来。ただの「間違い」ではなく、そこに「新しい意味の偶発的な生成」が含まれます。それは、言葉が自分の意志を離れて勝手に「踊りだす」瞬間。知性の「油断（carelessness）」がもたらす、無意識のジョーク（subconscious joke）。",
+		"aftertaste": "厳粛なスピーチの途中で「心の広い（brave heart）」を「ハゲた頭（have a beard - 若干例えが強引だが）」のように言い間違える（spoonerize）という惨劇を演じ、会場が爆笑（laughter）に包まれる中で、言葉がいかに「脆（もろ）い均衡」の上に成り立っているかを痛感する、あの顔から火が出るような一瞬。あるいは、この「音の入れ替え（spoonerism）」の中に、宇宙の隠された「暗号（cipher）」があるのではないかと妄想する、あの知的な遊戯性。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"この言葉の由来となったスプーナー氏は、非常に有能で真面目な教育者だった。その『完璧（perfection）』な人格の裂け目から漏れ出した『不完全（imperfection）』こそが、この言葉を永遠のものにした。",
+				"スプーナーリズム（spoonerism）とは、音韻論（phonology）的なエラーでありながら、同時にセマンティクス（意味論）を攪乱する、言語の『物理的な反乱』である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "antimeria",
+		"word": "Antimeria",
+		"part_of_speech": "noun",
+		"meaning": "品詞転用（法）",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "anti-",
+					"type": "prefix",
+					"meaning": "against, instead of (〜に対して、〜の代わりに)"
+				},
+				{
+					"text": "meros",
+					"type": "root",
+					"meaning": "part (部分、品詞)",
+					"lang": "Greek"
+				}
+			],
+			"original_statement": "From Greek anti- 'instead of' + meros 'part' (one part of speech for another)."
+		},
+		"core_concept": {
+			"en": "The use of one part of speech for another (such as a noun used as a verb), as in 'Google it' or 'He's having a good cry'",
+			"ja": "単語の本来の『役割（part of speech）』を無視し、全く別の役割（例えば名詞を動詞として）へと『強制的に転用（substituting）』する修辞法。言葉を固定された定義から解放し、生きた『機能』へと変える、知的な野蛮さ"
+		},
+		"thinking_layer": "『部分（品詞）の代わり（に使うこと）』。ポリマー（Polymer/多くの部分）、イソマー（Isomer/同じ部分）、アンチ（Anti/反対）と同根。語源は「品詞の入れ替え」。例えば「ググる（Google it）」のように。名詞が凍りついた「名前」なら、動詞は脈打つ「行動」です。名詞を動詞に変えることは、世界に新しい生命の火を灯（とも）すこと。言葉の「反逆（rebellion）」であり、同時に「進化（evolution）」。",
+		"aftertaste": "「君を、全力で『君（youing）』するよ」というような、強引な「品詞転用（antimeria）」の言葉を聞き、単なる「愛している」では到底届かない、相手の存在そのものを「行動（act）」として捉えようとする、その言葉の「暴力的なまでの誠実さ」に涙する、あの静かな感動。あるいは、自分の日常の退屈な行動を、あえて「名詞（noun）」として固化させてみることで、自分の人生がたった一つの「記号（sign）」に過ぎないのではないかと疑う、あの冷ややかな内省。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "smer-",
+					"meaning": "to assign, allot (forming meros)"
+				}
+			],
+			"points": [
+				"merit, mercenary, nightmare（おそらくな） 同根。",
+				"『役割（part）』とは社会が決めた『割り当て（allotment）』だが、アンティメリア（antimeria）はその割り当てを『拒絶（anti-）』し、言葉を、その瞬間の『衝動（impulse）』に相応しい姿へと作り変える（re-creating）自由である。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
