@@ -277089,5 +277089,170 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "amygdala",
+		"word": "Amygdala",
+		"part_of_speech": "noun",
+		"meaning": "扁桃体（へんとうたい）",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "amygdale",
+					"type": "root",
+					"meaning": "almond"
+				}
+			],
+			"original_statement": "From Greek amygdale."
+		},
+		"core_concept": {
+			"en": "emotional center",
+			"ja": "脳の警報器。境界を見守るセンチネル。"
+		},
+		"thinking_layer": "『アーモンド』。理論が追いつく前に、直感的な情報の熱量だけで世界を裁き、瞬時に行動へと変換する剥き出しの生存の意志。知性の裏側に潜む野性の火花。",
+		"aftertaste": "小さくも峻烈な守護者に、生への執念を再認識する平安。不屈の直感でありたい自尊心。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"形がアーモンドに似ていることから。情報の核。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "cerebrum",
+		"word": "Cerebrum",
+		"part_of_speech": "noun",
+		"meaning": "大脳（だいのう）",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "cerebrum",
+					"type": "root",
+					"meaning": "brain"
+				}
+			],
+			"original_statement": "From Latin cerebrum."
+		},
+		"core_concept": {
+			"en": "seat of higher intelligence",
+			"ja": "知性の主戦場。文明の律動を織りなす議事堂。"
+		},
+		"thinking_layer": "『脳』。宇宙の広大さを自らの中にシミュレートし、概念という地図へと書き換える驚異的な認識の拡張。肉体を超えて意志を投射する壮大なメタファー。",
+		"aftertaste": "果てしない思索の旅路を知る平安。常に新しい真理でこの器を満たしたいという自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ker-",
+					"meaning": "head"
+				}
+			],
+			"points": [
+				"脳を精神の宿る場所として崇めた太古の記憶。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "cerebellum",
+		"word": "Cerebellum",
+		"part_of_speech": "noun",
+		"meaning": "小脳（しょうのう）",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "cerebrum",
+					"type": "root",
+					"meaning": "brain"
+				},
+				{
+					"text": "-ellum",
+					"type": "suffix",
+					"meaning": "little"
+				}
+			],
+			"original_statement": "Diminutive of cerebrum."
+		},
+		"core_concept": {
+			"en": "coordinator of movement",
+			"ja": "精密な情報の黒子。動きを舞踏へと変える職人。"
+		},
+		"thinking_layer": "『小さな脳』。偉大なる思考が目的を果たすため、背後で黙々と物理的調和を完璧に維持する無私の献身。基礎を研ぎ澄まし続ける実務の美学。",
+		"aftertaste": "不眠不休の調整者のおかげで、大地に立ち続けられる感謝。目立たない細部を重んじる自尊心。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"大脳より多くのニューロンを持ち、圧倒的な細部を支える実在。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "hypothalamus",
+		"word": "Hypothalamus",
+		"part_of_speech": "noun",
+		"meaning": "視床下部（ししょうかぶ）",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "hypo-",
+					"type": "prefix",
+					"meaning": "under"
+				},
+				{
+					"text": "thalamus",
+					"type": "root",
+					"meaning": "inner chamber"
+				}
+			],
+			"original_statement": "From hypo- + thalamus."
+		},
+		"core_concept": {
+			"en": "regulator of homeostasis",
+			"ja": "生命の指揮者。マエストロ。"
+		},
+		"thinking_layer": "『視床の下にあるもの』。理性がいかに語ろうとも、生命の根源的な渇きこそが物語の起点であるという峻烈な実存の真理。原初の叫びを調和へと手懐ける意志。",
+		"aftertaste": "自分が大きなサイクルの一部であることを悟る平安。生命の根源に忠実でありたい自尊心。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ホルモンを操る内なる魔術師。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "cortex",
+		"word": "Cortex",
+		"part_of_speech": "noun",
+		"meaning": "皮質（ひしつ）",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "cortex",
+					"type": "root",
+					"meaning": "bark"
+				}
+			],
+			"original_statement": "From Latin cortex 'bark'."
+		},
+		"core_concept": {
+			"en": "outer layer of neural tissue",
+			"ja": "知性の外殻。意識を解き放つ最尖端。"
+		},
+		"thinking_layer": "『樹皮』。柔らかい内面を守りつつ、峻烈な現実と対峙し、経験を情報の年輪へと刻み込む不屈の遭遇の意志。自らを鍛え上げる装甲のメタファー。",
+		"aftertaste": "情報の地図に自分という物語の複雑さを知る平安。硬い表面の深層に無限の知性を宿す自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ker-",
+					"meaning": "to cut"
+				}
+			],
+			"points": [
+				"シワによる表面積の拡大。広さこそが思考の自由。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
