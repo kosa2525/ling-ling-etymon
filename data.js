@@ -278563,5 +278563,1315 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "seamless",
+		"word": "Seamless",
+		"part_of_speech": "adjective",
+		"meaning": "継ぎ目のない",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "seam",
+					"type": "root",
+					"meaning": "joint"
+				}
+			],
+			"original_statement": "From Old English seam."
+		},
+		"core_concept": {
+			"en": "smooth",
+			"ja": "境界を感じさせない全一性。"
+		},
+		"thinking_layer": "摩擦なく繋がる知恵。意識の壁を消し、一つの体験へ昇華させる。",
+		"aftertaste": "完璧な流れに身を任せる心地よさ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"衣服の縫い目がない状態から。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "innovative",
+		"word": "Innovative",
+		"part_of_speech": "adjective",
+		"meaning": "革新的な",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "novus",
+					"type": "root",
+					"meaning": "new"
+				}
+			],
+			"original_statement": "From Latin innovare."
+		},
+		"core_concept": {
+			"en": "new ideas",
+			"ja": "内側から新しさを産み出す力。"
+		},
+		"thinking_layer": "古い殻を破り、内部から未知の形を提示する。",
+		"aftertaste": "未来を更新し続ける興奮。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"novel と同根。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "optimal",
+		"word": "Optimal",
+		"part_of_speech": "adjective",
+		"meaning": "最適な",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "optimus",
+					"type": "root",
+					"meaning": "best"
+				}
+			],
+			"original_statement": "From Latin optimus."
+		},
+		"core_concept": {
+			"en": "best",
+			"ja": "最善のバランス。"
+		},
+		"thinking_layer": "資源の中で最も美しい答えを見つけ出す数学的な慈愛。",
+		"aftertaste": "すべてがパズルのように収まる満足感。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"optimism の語源。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "strategic",
+		"word": "Strategic",
+		"part_of_speech": "adjective",
+		"meaning": "戦略的な",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "stratos",
+					"type": "root",
+					"meaning": "army"
+				}
+			],
+			"original_statement": "From Greek strategos."
+		},
+		"core_concept": {
+			"en": "long-term",
+			"ja": "大局を見通す配置。"
+		},
+		"thinking_layer": "軍を率いること。局所ではなく運命を決定づける情報の配置。",
+		"aftertaste": "一手の重みが未来を変える緊張。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"『将軍の術』。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "collaborative",
+		"word": "Collaborative",
+		"part_of_speech": "adjective",
+		"meaning": "協力的な",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "laborare",
+					"type": "root",
+					"meaning": "to work"
+				}
+			],
+			"original_statement": "From Latin collaborare."
+		},
+		"core_concept": {
+			"en": "working together",
+			"ja": "境界を越える力。"
+		},
+		"thinking_layer": "他者との接続によって突破する連帯の美学。",
+		"aftertaste": "一人では到達できない場所へ辿り着く感動。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"elaborate と同根。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "scalable",
+		"word": "Scalable",
+		"part_of_speech": "adjective",
+		"meaning": "拡張性のある",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "scala",
+					"type": "root",
+					"meaning": "ladder"
+				}
+			],
+			"original_statement": "From Latin scala."
+		},
+		"core_concept": {
+			"en": "ability to grow",
+			"ja": "次元を超える力。"
+		},
+		"thinking_layer": "秩序を保ちつつ巨大な樹へと成長できる柔軟な設計。",
+		"aftertaste": "際限のない成長への期待。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"scale の語源。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "intuitive",
+		"word": "Intuitive",
+		"part_of_speech": "adjective",
+		"meaning": "直感的な",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "tueri",
+					"type": "root",
+					"meaning": "to look at"
+				}
+			],
+			"original_statement": "From Latin intueri."
+		},
+		"core_concept": {
+			"en": "instinct-based",
+			"ja": "説明不要の真理。"
+		},
+		"thinking_layer": "一瞬にして真実を凝視する魂の眼差し。",
+		"aftertaste": "理由なく正しいと分かる充足。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"tutor と同根。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "holistic",
+		"word": "Holistic",
+		"part_of_speech": "adjective",
+		"meaning": "全体論的な",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "holos",
+					"type": "root",
+					"meaning": "whole"
+				}
+			],
+			"original_statement": "From Greek holos."
+		},
+		"core_concept": {
+			"en": "whole view",
+			"ja": "部分を越えた生命。"
+		},
+		"thinking_layer": "要素の和ではなく、響き合って生まれる宇宙を捉える。",
+		"aftertaste": "すべてが一つに繋がっているという平安。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"heal, holy と同族。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "accountable",
+		"word": "Accountable",
+		"part_of_speech": "adjective",
+		"meaning": "説明責任がある",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "computare",
+					"type": "root",
+					"meaning": "to count"
+				}
+			],
+			"original_statement": "From Latin computare."
+		},
+		"core_concept": {
+			"en": "justify actions",
+			"ja": "言葉を尽くす誠実。"
+		},
+		"thinking_layer": "自分の行動を他人に対して数え上げる勇気。",
+		"aftertaste": "逃げ隠れせず立っている清々しさ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"count もともとは共に計算すること。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "benchmark",
+		"word": "Benchmark",
+		"part_of_speech": "noun",
+		"meaning": "指標",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "bench",
+					"type": "root",
+					"meaning": "table"
+				}
+			],
+			"original_statement": "From a surveyor's mark."
+		},
+		"core_concept": {
+			"en": "standard",
+			"ja": "聖なる刻印。"
+		},
+		"thinking_layer": "相対的な価値の中に、絶対的な高さを定義する支点。",
+		"aftertaste": "自分の現在地を峻烈に知る平安。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"測量士が椅子に刻んだ印。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "best-practice",
+		"word": "Best-practice",
+		"part_of_speech": "noun",
+		"meaning": "最善の実践",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "best",
+					"type": "root",
+					"meaning": "highest"
+				},
+				{
+					"text": "practice",
+					"type": "root",
+					"meaning": "act"
+				}
+			],
+			"original_statement": "Compound."
+		},
+		"core_concept": {
+			"en": "effective method",
+			"ja": "黄金律。"
+		},
+		"thinking_layer": "失敗を削ぎ落とし、最後に残った最も美しい近道。",
+		"aftertaste": "最短ルートで成功へ届く確信。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"実行すること。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "deliverable",
+		"word": "Deliverable",
+		"part_of_speech": "noun",
+		"meaning": "成果物",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "liberare",
+					"type": "root",
+					"meaning": "set free"
+				}
+			],
+			"original_statement": "From Latin liber."
+		},
+		"core_concept": {
+			"en": "produced object",
+			"ja": "実体を産み出す力。"
+		},
+		"thinking_layer": "思考を実体として外の世界に放ち出すこと。",
+		"aftertaste": "形になった思考を手渡す歓び。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解放と同根。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "milestone",
+		"word": "Milestone",
+		"part_of_speech": "noun",
+		"meaning": "画期的な出来事",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "mile",
+					"type": "root",
+					"meaning": "1000 paces"
+				}
+			],
+			"original_statement": "From Roman road markers."
+		},
+		"core_concept": {
+			"en": "significant stage",
+			"ja": "不滅の記憶。"
+		},
+		"thinking_layer": "旅路の途中で達成を峻烈に刻印する標石。",
+		"aftertaste": "道のりを振り返り自分を褒める。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ローマ街道の石碑。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "stakeholder",
+		"word": "Stakeholder",
+		"part_of_speech": "noun",
+		"meaning": "利害関係者",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "stake",
+					"type": "root",
+					"meaning": "bet"
+				}
+			],
+			"original_statement": "From wager stakes."
+		},
+		"core_concept": {
+			"en": "involved person",
+			"ja": "運命の杭を持つ者。"
+		},
+		"thinking_layer": "運命を託し、共に重みを支え合う責任。",
+		"aftertaste": "一人ではないという深い信頼。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"賭け金の保管者から。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "pipeline",
+		"word": "Pipeline",
+		"part_of_speech": "noun",
+		"meaning": "供給計画",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "pipe",
+					"type": "root",
+					"meaning": "tube"
+				}
+			],
+			"original_statement": "From pipe + line."
+		},
+		"core_concept": {
+			"en": "process",
+			"ja": "透明な道。"
+		},
+		"thinking_layer": "目に見えない供給と、安定した未来の予らぎ。",
+		"aftertaste": "確実に届くという安心。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"組織的な工程のメタファー。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "bottleneck",
+		"word": "Bottleneck",
+		"part_of_speech": "noun",
+		"meaning": "障害、隘路",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "bottle",
+					"type": "root",
+					"meaning": "vessel"
+				}
+			],
+			"original_statement": "From narrow neck."
+		},
+		"core_concept": {
+			"en": "hindrance",
+			"ja": "試練を課す場所。"
+		},
+		"thinking_layer": "情報の奔流を点に絞り、通過能力を試す難所。",
+		"aftertaste": "突破口を見出す喜び。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"狭い場所が全体の流量を決める。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "roadmap",
+		"word": "Roadmap",
+		"part_of_speech": "noun",
+		"meaning": "指針、工程表",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "road",
+					"type": "root",
+					"meaning": "path"
+				}
+			],
+			"original_statement": "Modern compound."
+		},
+		"core_concept": {
+			"en": "future plan",
+			"ja": "予言の布。"
+		},
+		"thinking_layer": "目に見えない未来を、具体的な歩みへ翻訳する。",
+		"aftertaste": "終わりが見えることで湧く勇気。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"布を広げて確認するもの。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "workflow",
+		"word": "Workflow",
+		"part_of_speech": "noun",
+		"meaning": "業務の流れ",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "work",
+					"type": "root",
+					"meaning": "act"
+				}
+			],
+			"original_statement": "Work + Flow."
+		},
+		"core_concept": {
+			"en": "sequence",
+			"ja": "行動の音楽。"
+		},
+		"thinking_layer": "タスクが繋がり、一つの意志を持った川となる。",
+		"aftertaste": "淀みなき活動に没頭する充実。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"動的なリズム。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "back-end",
+		"word": "Back-end",
+		"part_of_speech": "noun",
+		"meaning": "サーバー側",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "back",
+					"type": "root",
+					"meaning": "rear"
+				}
+			],
+			"original_statement": "Back + End."
+		},
+		"core_concept": {
+			"en": "hidden logic",
+			"ja": "支える深層。"
+		},
+		"thinking_layer": "目に見えない深層で論理という岩盤を築く。",
+		"aftertaste": "隠れた力で世界を動かす誇り。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"本質の場所。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "front-end",
+		"word": "Front-end",
+		"part_of_speech": "noun",
+		"meaning": "ユーザー側",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "front",
+					"type": "root",
+					"meaning": "forehead"
+				}
+			],
+			"original_statement": "From Latin frons."
+		},
+		"core_concept": {
+			"en": "interface",
+			"ja": "知性の肌。"
+		},
+		"thinking_layer": "複雑な深層を、美しい秩序として差し出す最前線。",
+		"aftertaste": "触れた瞬間に心が通じ合う悦び。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"顔の前面。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "database",
+		"word": "Database",
+		"part_of_speech": "noun",
+		"meaning": "データベース",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "data",
+					"type": "root",
+					"meaning": "givens"
+				}
+			],
+			"original_statement": "Given thing + base."
+		},
+		"core_concept": {
+			"en": "data structure",
+			"ja": "不滅の基盤。"
+		},
+		"thinking_layer": "散らばった記憶を整理し蓄える強靭な台座。",
+		"aftertaste": "時間を一つの器に収めた平安。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"天賦の才や事実を意味する。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "analytics",
+		"word": "Analytics",
+		"part_of_speech": "noun",
+		"meaning": "分析",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "lyein",
+					"type": "root",
+					"meaning": "loosen"
+				}
+			],
+			"original_statement": "From Greek analyein."
+		},
+		"core_concept": {
+			"en": "logical analysis",
+			"ja": "真理の抽出。"
+		},
+		"thinking_layer": "カオスを解体し、潜む黄金律を白日に晒す。",
+		"aftertaste": "美しい必然を読み解く快感。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"情報を緩めることで本質を暴く。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "cohesive",
+		"word": "Cohesive",
+		"part_of_speech": "adjective",
+		"meaning": "結束力のある",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "haerere",
+					"type": "root",
+					"meaning": "stick"
+				}
+			],
+			"original_statement": "From Latin cohaerere."
+		},
+		"core_concept": {
+			"en": "sticking together",
+			"ja": "一つの意志。"
+		},
+		"thinking_layer": "共有の真理によって強固に結びつく一体感。",
+		"aftertaste": "大きな目的に溶け合う安堵。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"粘着すること。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "diverse",
+		"word": "Diverse",
+		"part_of_speech": "adjective",
+		"meaning": "多様な",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "vertere",
+					"type": "root",
+					"meaning": "to turn"
+				}
+			],
+			"original_statement": "From Latin diversus."
+		},
+		"core_concept": {
+			"en": "variety",
+			"ja": "広がりを証明する。"
+		},
+		"thinking_layer": "あえて異なる方向へ視線を向け豊穣さを構築する。",
+		"aftertaste": "他者との違いを祝福する悦び。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"別々に回ること。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "prevalent",
+		"word": "Prevalent",
+		"part_of_speech": "adjective",
+		"meaning": "普及している",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "valere",
+					"type": "root",
+					"meaning": "to be strong"
+				}
+			],
+			"original_statement": "From Latin praevalere."
+		},
+		"core_concept": {
+			"en": "widespread",
+			"ja": "時代の前面で輝く力。"
+		},
+		"thinking_layer": "真理が深くまで根を下ろし、支配的な力を放つ。",
+		"aftertaste": "正しい言葉が普及する瞬間の立会い。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"圧倒すること。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "standardize",
+		"word": "Standardize",
+		"part_of_speech": "verb",
+		"meaning": "標準化する",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "standard",
+					"type": "root",
+					"meaning": "flag"
+				}
+			],
+			"original_statement": "From flag."
+		},
+		"core_concept": {
+			"en": "conform",
+			"ja": "情報の平等。"
+		},
+		"thinking_layer": "カオスを削ぎ、誰でも通用する公平な真理を確立する。",
+		"aftertaste": "どこでも通じる言葉を持つ安心。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"定められた場所に立てた軍旗。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "incentive",
+		"word": "Incentive",
+		"part_of_speech": "noun",
+		"meaning": "動機、刺激",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "canere",
+					"type": "root",
+					"meaning": "to sing"
+				}
+			],
+			"original_statement": "From something that sets the tune."
+		},
+		"core_concept": {
+			"en": "motivation",
+			"ja": "魂を歌わせる旋律。"
+		},
+		"thinking_layer": "呼びかける歌。内なる魂に共鳴し、歌いたくなる予感。",
+		"aftertaste": "自分の中から力が溢れ出す悦び。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"アクセントと同根。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "implement",
+		"word": "Implement",
+		"part_of_speech": "verb",
+		"meaning": "実行する",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "plere",
+					"type": "root",
+					"meaning": "to fill"
+				}
+			],
+			"original_statement": "From Latin implere."
+		},
+		"core_concept": {
+			"en": "put into effect",
+			"ja": "空白を満たす実体。"
+		},
+		"thinking_layer": "中身を具体的な行動で充填し、事実を書き換える。",
+		"aftertaste": "約束を形にする強靭な誠実。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"完全なものへと。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "preliminary",
+		"word": "Preliminary",
+		"part_of_speech": "adjective",
+		"meaning": "予備の",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "limen",
+					"type": "root",
+					"meaning": "threshold"
+				}
+			],
+			"original_statement": "From Latin praelimen."
+		},
+		"core_concept": {
+			"en": "preceding",
+			"ja": "敷居の前。"
+		},
+		"thinking_layer": "本体が現れる前に、境界線を整える謙虚な意志。",
+		"aftertaste": "完璧な始まりを確信する静謐。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"門出の知恵。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "unprecedented",
+		"word": "Unprecedented",
+		"part_of_speech": "adjective",
+		"meaning": "前例のない",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "cedere",
+					"type": "root",
+					"meaning": "to go"
+				}
+			],
+			"original_statement": "Un-precedent."
+		},
+		"core_concept": {
+			"en": "never done before",
+			"ja": "最初の呼吸。"
+		},
+		"thinking_layer": "歴史という壁に、一人の意志で新しい門を穿つ。",
+		"aftertaste": "不可能の終わりを告げる革命の火。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"先行するを否定する。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "resumption",
+		"word": "Resumption",
+		"part_of_speech": "noun",
+		"meaning": "再開",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "sumere",
+					"type": "root",
+					"meaning": "to take up"
+				}
+			],
+			"original_statement": "From Latin resumptio."
+		},
+		"core_concept": {
+			"en": "restart",
+			"ja": "取り戻す物語。"
+		},
+		"thinking_layer": "中断された糸を力強く手繰り寄せ、熱量を再接続する。",
+		"aftertaste": "途切れた時間が再び動き出す安堵。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"再び取ること。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "intrinsic",
+		"word": "Intrinsic",
+		"part_of_speech": "adjective",
+		"meaning": "本質的な",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "intrinsecus",
+					"type": "root",
+					"meaning": "inside"
+				}
+			],
+			"original_statement": "From Latin intrinsecus."
+		},
+		"core_concept": {
+			"en": "belonging naturally",
+			"ja": "真理の刻印。"
+		},
+		"thinking_layer": "内側から湧き上がる、絶対的な価値の聖域。",
+		"aftertaste": "自らの完璧さを知る平安。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"外部に対する不落の城塞。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "conditioned",
+		"word": "Conditioned",
+		"part_of_speech": "adjective",
+		"meaning": "条件付けられた",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "dicere",
+					"type": "root",
+					"meaning": "to say"
+				}
+			],
+			"original_statement": "From agreement."
+		},
+		"core_concept": {
+			"en": "determined by factors",
+			"ja": "対話の状況。"
+		},
+		"thinking_layer": "過去の経験や社会という文脈と共鳴し、形成された形。",
+		"aftertaste": "生かされている状況を見据える平安。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"合意されたこと。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "reinforcement",
+		"word": "Reinforcement",
+		"part_of_speech": "noun",
+		"meaning": "強化",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "fortis",
+					"type": "root",
+					"meaning": "strong"
+				}
+			],
+			"original_statement": "To strengthen again."
+		},
+		"core_concept": {
+			"en": "strengthening",
+			"ja": "不落の確信。"
+		},
+		"thinking_layer": "正しい行動を情報の杭で打ち固め、習慣へ昇華させる。",
+		"aftertaste": "意志が強靭になる確かな手応え。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"要塞化すること。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "modality",
+		"word": "Modality",
+		"part_of_speech": "noun",
+		"meaning": "様相",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "modus",
+					"type": "root",
+					"meaning": "measure"
+				}
+			],
+			"original_statement": "From Latin modus."
+		},
+		"core_concept": {
+			"en": "experienced way",
+			"ja": "顕現の作法。"
+		},
+		"thinking_layer": "無限から型を選択し、完璧な調和を実現する知恵。",
+		"aftertaste": "世界が収まりよく現出する奇跡。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"確かさの度合いを表す。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "conformity",
+		"word": "Conformity",
+		"part_of_speech": "noun",
+		"meaning": "順応",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "formare",
+					"type": "root",
+					"meaning": "to shape"
+				}
+			],
+			"original_statement": "To shape together."
+		},
+		"core_concept": {
+			"en": "compliance",
+			"ja": "共鳴の沈黙。"
+		},
+		"thinking_layer": "共通の作法を採用し、円滑な連帯を実現する知恵。",
+		"aftertaste": "規律の中にある、独りではない安心。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"共有された形を持つ真理。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "deviance",
+		"word": "Deviance",
+		"part_of_speech": "noun",
+		"meaning": "逸脱",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "via",
+					"type": "root",
+					"meaning": "way"
+				}
+			],
+			"original_statement": "To turn aside."
+		},
+		"core_concept": {
+			"en": "departing usual",
+			"ja": "反逆の美学。"
+		},
+		"thinking_layer": "異質な法に従い、世界の境界線を拡張する覚醒。",
+		"aftertaste": "自分だけの真実への圧倒的な確信。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"道から離れること。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "internalize",
+		"word": "Internalize",
+		"part_of_speech": "verb",
+		"meaning": "内面化する",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "internus",
+					"type": "root",
+					"meaning": "inner"
+				}
+			],
+			"original_statement": "To make within."
+		},
+		"core_concept": {
+			"en": "make nature",
+			"ja": "魂の代謝。"
+		},
+		"thinking_layer": "他人の言葉を血肉へと浸透させ、無意識に体現する。",
+		"aftertaste": "真理と共に在れる絶対的平安。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"自分を拡張し続ける。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "marginalize",
+		"word": "Marginalize",
+		"part_of_speech": "verb",
+		"meaning": "周縁化する",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "margo",
+					"type": "root",
+					"meaning": "edge"
+				}
+			],
+			"original_statement": "To make edge."
+		},
+		"core_concept": {
+			"en": "insignificant",
+			"ja": "沈黙の暴力。"
+		},
+		"thinking_layer": "理解を超える存在を排除し透明化する属性選別。",
+		"aftertaste": "余白に追いやられた叫びに耳を澄ます。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"場所により力関係が決まる真理。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "stratify",
+		"word": "Stratify",
+		"part_of_speech": "verb",
+		"meaning": "階層化する",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "stratum",
+					"type": "root",
+					"meaning": "layer"
+				}
+			],
+			"original_statement": "To make layer."
+		},
+		"core_concept": {
+			"en": "classify groups",
+			"ja": "累積の美学。"
+		},
+		"thinking_layer": "垂直方向の秩序を構築し、多層的に理解する意志。",
+		"aftertaste": "時間の堆積の上に立つ実存感。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"地層のように積み上げること。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "cynicism",
+		"word": "Cynicism",
+		"part_of_speech": "noun",
+		"meaning": "冷笑主義",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "kyon",
+					"type": "root",
+					"meaning": "dog"
+				}
+			],
+			"original_statement": "Dog-like."
+		},
+		"core_concept": {
+			"en": "self-interest belief",
+			"ja": "孤独な懐疑。"
+		},
+		"thinking_layer": "虚飾を剥ぎ取り、獣の嗅覚で世界の博愛を疑う誠実。",
+		"aftertaste": "理想への乾きが隠された氷壁の熱。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"犬のように吠える姿勢。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "idealism",
+		"word": "Idealism",
+		"part_of_speech": "noun",
+		"meaning": "理想主義",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "idea",
+					"type": "root",
+					"meaning": "form"
+				}
+			],
+			"original_statement": "Form belief."
+		},
+		"core_concept": {
+			"en": "forming ideals",
+			"ja": "高潔なる飛翔。"
+		},
+		"thinking_layer": "不完全な現実を拒み、完璧な調和を幻視し追う力。",
+		"aftertaste": "至高の善を指し示す聖火の輝き。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"真の姿への信仰。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "realism",
+		"word": "Realism",
+		"part_of_speech": "noun",
+		"meaning": "現実主義",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "res",
+					"type": "root",
+					"meaning": "thing"
+				}
+			],
+			"original_statement": "Thing belief."
+		},
+		"core_concept": {
+			"en": "accepting situation",
+			"ja": "冷徹なる覚醒。"
+		},
+		"thinking_layer": "嘘を剥ぎ、剥き出しの事実と接吻する不屈の誠実。",
+		"aftertaste": "ざらついた事実の感触にある実存。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"事物の存在そのものに価値を置く。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "pragmatism",
+		"word": "Pragmatism",
+		"part_of_speech": "noun",
+		"meaning": "実用主義",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "pragma",
+					"type": "root",
+					"meaning": "deed"
+				}
+			],
+			"original_statement": "Deed belief."
+		},
+		"core_concept": {
+			"en": "practical approach",
+			"ja": "行動の法廷。"
+		},
+		"thinking_layer": "思想が行為として何をもたらしたかのみを問う知恵。",
+		"aftertaste": "絶望を道具へと変えるエンジニアリング。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"真理とは作られるもの。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "skeptic",
+		"word": "Skeptic",
+		"part_of_speech": "noun",
+		"meaning": "懐疑論者",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "skepsis",
+					"type": "root",
+					"meaning": "inquiry"
+				}
+			],
+			"original_statement": "To thoughtfully inquire."
+		},
+		"core_concept": {
+			"en": "questioning person",
+			"ja": "地平の番人。"
+		},
+		"thinking_layer": "安易な結論を拒み、情報の最果てまで歩む不眠の情熱。",
+		"aftertaste": "自分だけの真実に触獲できた平安。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"慎重に見つめる者。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
