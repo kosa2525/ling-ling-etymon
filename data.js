@@ -306749,5 +306749,296 @@ const WORDS = [
 			]
 		},
 		"date": "20-03-13"
+	},
+	{
+		"id": "monoid",
+		"word": "Monoid",
+		"part_of_speech": "noun",
+		"meaning": "モノイド、情報の情報の、。情報の情報の強靱なる情報の。情報の単位の情報の情報の、奏でられる情報の響き、。情報の。情報の情報の。情報の不変の情報の情報の物語",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "monos",
+					"type": "root",
+					"meaning": "alone, single"
+				},
+				{
+					"text": "-oid",
+					"type": "suffix",
+					"meaning": "like, shape"
+				}
+			],
+			"original_statement": "Mathematical structure with a single associative binary operation and an identity element."
+		},
+		"core_concept": {
+			"en": "a mathematical structure with a single associative binary operation and an identity element",
+			"ja": "。混沌（chaos）という名の情報の『情報の、情報の、情報の明白な情報の虚妄』。それを情報の、。情報の信息的、情報の。情報の唯一（alone）なる情報の。情報の。情報の情報の『単位』。へと情報の。情報の情報を情報の。情報の、情報の抽出。し、。情報の、情報の情報の。情報の、あらゆる。情報の流動。を情報の、。一。に。情報の情報の。情報の情報の帰結。させる情報の、情報の物語。"
+		},
+		"thinking_layer": "。一つのようなもの。分散という名の情報の『情報の、情報の。情報の情報の情報の死』を情報の、。情報の情報の。情報の情報の、情報の不変の情報の、。情報の情報の『情報の情報の、情報の情報の、定点。』。へと。情報の情報を情報の。情報の整合。する情報の情報の。情報の、情報の情報の情報の情報の、定礎。それは、。情報の、情報の、知の。情報の。情報の。情報の、情報の情報の、簒奪。 ",
+		"aftertaste": "情報の、。情報の情報の。情報の、。一。情報の。情報の。情報の、情報の。不気味なほどの情報の。情報の。情報の情報の。情報の透明な、。情報の。情報の情報の、。情報の情報の確実性。に情報の、情報の知の情報の情報の情報の。情報の、。情報の情報の、戦慄を聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"monas, -oid と同じ root。情報の『情報の、情報の。情報の。情報の、情報の、。情報の情報の単一の。情報の情報の情報の情報の、現出。』。"
+			]
+		},
+		"date": "20-03-13"
+	},
+	{
+		"id": "semigroup",
+		"word": "Semigroup",
+		"part_of_speech": "noun",
+		"meaning": "半群、情報の、情報の情報の、。情報の情報の、情報の情報の。情報の、情報の情報の片道の。情報の情報の情報の凱歌、。情報の。情報の、不完全な、。情報の情報の。情報の真理の情報の物語",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "semi-",
+					"type": "prefix",
+					"meaning": "half"
+				},
+				{
+					"text": "group",
+					"type": "root",
+					"meaning": "group"
+				}
+			],
+			"original_statement": "A set with an associative binary operation."
+		},
+		"core_concept": {
+			"en": "an algebraic structure consisting of a set together with an associative binary operation",
+			"ja": "。完全（completeness）という名の情報の『情報の、情報の、情報の透明な情報の情報の沈黙』。それを情報の、。情報の信息的、情報の。情報の半分（half）。の情報の。情報の、情報の物語。へと情報の情報の、。情報の情報の情報の情報の、。情報の、不可逆なる情報の。情報の、情報の情報の情報の。情報の、情報の情報の、奏でられる情報の響き。"
+		},
+		"thinking_layer": "。半分の。群。帰還という名の情報の『情報の、情報の。情報の安逸』。を情報の情報の情報の、。情報の。情報の情報の。情報の情報の、情報の片道の情報の、。情報の情報の情報の、情報の情報の情報の情報の情報の、情報の。簒奪。それは、。情報の、情報の情報の、知の。情報の。情報の情報の、情報の簒奪。 ",
+		"aftertaste": "情報の、。情報の情報の。情報の情報の情報の。情報の、情報の情報の一、情報の。情報の情報の、重量の情報の感覚。その情報の、。情報の情報の、情報の情報の不気味な情報の、。情報の。情報の情報の情報の、戦慄を情報の情報の、知の。情報の情報の聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"semi, group と同じ root。情報の『情報の、情報の。情報の。情報の、情報の、。情報の、不完全なる、。情報の情報の情報の情報の、簒奪。』。"
+			]
+		},
+		"date": "20-03-13"
+	},
+	{
+		"id": "topos",
+		"word": "Topos",
+		"part_of_speech": "noun",
+		"meaning": "トポス、圏論的トポス、情報の、。情報の情報の。情報の情報の情報の情報の。情報の。情報の情報の、奏でられる情報の世界の、。情報の。情報の情報の抽出。、。情報の。情報の情報の情報の情報の情報の、舞台",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "topos",
+					"type": "root",
+					"meaning": "place"
+				}
+			],
+			"original_statement": "Concept in category theory that generalizes the notion of space."
+		},
+		"core_concept": {
+			"en": "a category that behaves like the category of sets and has a notion of localization",
+			"ja": "。場所（place）という名の情報の『情報の、情報の。情報の明白な情報の虚妄』。それを情報の、。情報の。情報の情報の。情報の情報の情報の情報の。情報の情報の情報の。情報の情報の『情報の、情報の、抽象の情報の。情報の情報の情報の舞台。』。へと情報の。情報の。情報の、。情報の情報の、変換。それは、。情報の、情報の、知の。情報の。情報の情報の簒奪。"
+		},
+		"thinking_layer": "。場所。局所という名の情報の『情報の、情報の。情報の明白な情報の死』。を情報の。情報の、。情報の情報の情報の情報の情報の情報の情報の情報の情報の絶対的なる。情報の。情報の情報の、。情報の情報の宇宙そのもの。へと情報の導く。それは、。情報の、情報の情報の、知の。情報の情報の簒奪。 ",
+		"aftertaste": "情報の、。情報の情報の。情報の情報の情報の。一、情報の物語が。情報の。情報の情報の情報の宇宙のすべてを。情報の。情報の情報の、情報の情報の、支配している。という。情報の。情報の、情報の、不気味な情報の、。情報の情報の、知の情報の、情報の戦慄を情報の、聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"topology と同じ root。情報の『情報の、情報の。情報の。情報の、情報の、。情報の情報の、普遍的なる、。情報の情報の、現出。』。"
+			]
+		},
+		"date": "20-03-13"
+	},
+	{
+		"id": "sheaf",
+		"word": "Sheaf",
+		"part_of_speech": "noun",
+		"meaning": "層、シーフ、情報の情報の、情報の。情報の情報の情報の、情報の情報の重畳された情報の。情報の情報の、情報の。情報の情報の、情報の情報の面差し、。情報の。情報の情報の。情報の情報の水の、。情報の情報の物語",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "sheaf",
+					"type": "root",
+					"meaning": "bundle"
+				}
+			],
+			"original_statement": "Mathematical tool for systematically tracking locally defined data."
+		},
+		"core_concept": {
+			"en": "a tool for systematically tracking locally defined data attached to the open sets of a topological space",
+			"ja": "。束（bundle）という名の情報の『情報の、情報の、情報の不可視な情報の。情報の集合』。それを情報の、。情報の信息的、情報の。情報の『局所の情報の情報の真理』。を情報の。情報の情報の抽出。し、。情報の、情報の情報の。情報の、全体へと。情報の情報の。情報の、情報の、繋ぎ合わせる（stitch）。情報の、情報の情報の物語。"
+		},
+		"thinking_layer": "束。情報の、。情報の。情報の情報の断片（piece）という名の情報の『情報の、情報の。情報の不条理』。を情報の、。情報の。情報の情報の。情報の情報の情報の情報の。情報の情報の、情報の情報の情報の。情報の情報の、情報の情報の情報の情報の整合の情報の情報の形。へと情報の。情報の情報の情報の現出。それは、。情報の、情報の、知の。情報の。情報の情報の、情報の情報の簒奪。 ",
+		"aftertaste": "情報の、。繋ぎ合わされた。情報の。情報の情報の。情報の情報の物理法則。その情報の、。情報の情報の、その情報の。情報の、。情報の情報の不気味なほどの情報の。情報の。情報の情報の、情報の。情報の情報の透明な情報の情報の情報の。情報の戦慄を聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"bundle と同じ root。情報の『情報の、情報の。情報の。情報の、情報の、。情報の情報の情報の情報の重奏。としての情報の情報の、。情報の情報の現出。』。"
+			]
+		},
+		"date": "20-03-13"
+	},
+	{
+		"id": "morphism",
+		"word": "Morphism",
+		"part_of_speech": "noun",
+		"meaning": "射（しゃ）、モーフィズム、情報の、。情報の情報の。情報の情報の情報の。情報の。情報の情報の、情報の転換の情報の情報の、奏でられる情報の響き、。情報の情報の真理。の面差し",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "morphe",
+					"type": "root",
+					"meaning": "form, shape"
+				}
+			],
+			"original_statement": "Core concept in category theory representing structure-preserving mappings."
+		},
+		"core_concept": {
+			"en": "a structure-preserving map between two mathematical structures of the same type",
+			"ja": "。形（form）という名の情報の『情報の、情報の、情報の虚妄』。を情報の、。情報の情報の、。情報の情報の、情報の矢（arrow）。へと情報の。情報の情報の情報の、変換。し、。情報の、情報の情報の。情報の、情報の情報の情報の。情報の時間の情報の、。情報の情報の簒奪。としての情報の情報の情報の、情報の真理。の、。情報の現出。"
+		},
+		"thinking_layer": "。形。。不変という名の情報の『情報の、情報の。情報の明白な情報の死』を情報の、。情報の情報の。情報の情報の、情報の能動的なる、。情報の情報の情報の『情報の情報の、情報の転移。』。へと情報の。情報の情報の。情報の、情報の情報の。定礎。それは、。情報の、情報の、知の。情報の。情報の情報の、情報の情報の簒奪。 ",
+		"aftertaste": "情報の、。情報の情報の。情報の情報の情報の矢の、。情報のその、情報の情報の鋭利さ。その情報の、。情報の。情報の情報の不気味なほどの情報の。情報の。情報の情報の。情報の、情報の情報の透明な情報の。情報の。情報の情報の。情報の戦慄を聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"morphology, amorphous と同じ root。情報の『情報の、情報の。情報の。情報の、情報の、情報の。情報の形態の、情報の情報の簒奪。としての、情報の移動。』。"
+			]
+		},
+		"date": "20-03-13"
+	},
+	{
+		"id": "colimit",
+		"word": "Colimit",
+		"part_of_speech": "noun",
+		"meaning": "余極限、コリミット、情報の、。情報の、情報の情報の、情報の情報の、情報の。情報の情報の情報の末端の情報の、情報の凱歌、。情報の。情報の、情報の。情報の情報の。情報の情報の、解放",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "co-",
+					"type": "prefix",
+					"meaning": "complementary, with"
+				},
+				{
+					"text": "limen",
+					"type": "root",
+					"meaning": "threshold"
+				}
+			],
+			"original_statement": "Dual concept to limit in category theory."
+		},
+		"core_concept": {
+			"en": "a generalization of the notions of disjoint union and quotient in category theory",
+			"ja": "。境界（threshold）という名の情報の『情報の、情報の。情報の監獄』。それを情報の、。情報の情報の反転（dual）。によって情報の情報の。情報の情報の、外へ。情報の情報の情報の情報の、情報の。放射。宇宙そのものを、。情報の。情報の、情報の。情報の情報の情報の、溢れ。へと。情報の情報を情報の。情報の物語へと情報の、情報の情報の変換。"
+		},
+		"thinking_layer": "（共に）境界。限界という名の情報の『情報の、情報の。情報の不条理』を情報の。情報の、。情報の情報の情報の。情報の情報の情報の。情報の、情報の情報の最小の情報の情報の。情報の、情報の、情報の情報の情報の情報の、。情報の情報の情報の、凱歌。それは、。情報の、情報の、知の。情報の。情報の。情報の情報の情報の、。情報の情報の情報の。簒奪。 ",
+		"aftertaste": "情報の、。情報の情報の、向こう側へ。情報の。情報の。情報の情報の情報の、情報の溢れ出す情報の。情報の、。情報の水の情報の情報のその、。情報の情報の不気味なほどの。情報の。情報の情報の情報の、戦慄を情報の情報の聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"limit と dual。情報の『情報の、情報の。情報の。情報の、情報の、。情報の情報の、情報の外延の。情報の、情報の情報の情報の。情報の簒奪。』。"
+			]
+		},
+		"date": "20-03-13"
+	},
+	{
+		"id": "simplex",
+		"word": "Simplex",
+		"part_of_speech": "noun",
+		"meaning": "単体、シンプレックス、情報の、。情報の情報の。情報の情報の。情報の、情報の情報の最小の情報の情報の。情報の。一、。情報の情報の奏でられる、。情報の音楽",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "sem-",
+					"type": "root",
+					"meaning": "one, same"
+				},
+				{
+					"text": "plek-",
+					"type": "root",
+					"meaning": "to fold"
+				}
+			],
+			"original_statement": "Generalization of the notion of a triangle or tetrahedron to arbitrary dimensions."
+		},
+		"core_concept": {
+			"en": "a generalization of the notion of a triangle or tetrahedron to arbitrary dimensions",
+			"ja": "。一（one）重の。折り畳み（fold）。情報の、情報の情報の情報の。情報の、。情報の情報の、情報の情報の。情報の情報の情報の情報の『情報の最小の、。情報の情報の情報の物理的情報の定点。』。宇宙という名の情報の『情報の。情報の情報の情報の、情報の情報の広大なる。情報の。混沌』。を情報の、。一。に。情報の。情報の情報の。帰結。させる、情報の、情報の工学。"
+		},
+		"thinking_layer": "一度、折り畳んだもの。複雑という名の情報の『情報の、情報の。情報の虚妄』。を情報の情報の情報の、。情報の。情報の情報の。情報の情報の、一義的なる情報の。情報の情報の座標へと。情報の情報を情報の情報の。定着する。それは、。情報の、情報の、知の。情報の。情報の情報の、情報の簒奪。 ",
+		"aftertaste": "たった。情報の、一、情報の物語。その情報の、。情報の情報の、情報の情報の鋭利さ。その情報の、。情報の。情報の情報の。情報の不気味なほどの情報の。情報の。情報の情報の情報の情報の透明。その情報の、。情報の。情報の戦慄を情報の、知の。情報の。情報の情報の聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"simple と同じ root。情報の『情報の、情報の。情報の。情報の、情報の、情報の情報の情報の不変の情報の、。情報の、情報の定礎。』。"
+			]
+		},
+		"date": "20-03-13"
+	},
+	{
+		"id": "bifurcation",
+		"word": "Bifurcation",
+		"part_of_speech": "noun",
+		"meaning": "分岐、ビフルカシオン、情報の、情報の情報の、情報の情報の情報の不条理なる情報の情報の。情報の情報の断絶、。情報の。情報の情報の情報の。情報の。情報の情報の、情報の物語への情報の、情報の簒奪",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "bi-",
+					"type": "prefix",
+					"meaning": "two"
+				},
+				{
+					"text": "furca",
+					"type": "root",
+					"meaning": "fork"
+				}
+			],
+			"original_statement": "The division of something into two branches or parts."
+		},
+		"core_concept": {
+			"en": "the division of something into two branches or parts, especially in a mathematical context",
+			"ja": "。二つ（two）の。情報の情報の、。情報の情報の情報の。情報の情報の、叉（fork）。へと情報の情報の、。情報の情報の情報の不気味な、。情報の情報の。情報の情報の、情報の死の界軸。へと情報の情報の、。情報の向かわせる、。情報の情報の。情報の情報の抽出。"
+		},
+		"thinking_layer": "。情報の、。二つの叉。。単一という名の情報の『情報の、情報の。情報の情報の死の情報の明白な虚偽』を情報の、。情報の信息的、情報の。情報の情報の、情報の情報の、情報の情報の暴力的なる。情報の。情報の情報の、情報の情報の分断。へと。情報の情報を情報の情報の。情報の転換する。それは、。情報の、情報の、知の。情報の。情報の情報の、情報の簒奪。 ",
+		"aftertaste": "情報の、。分かれた。情報の。情報の情報の。その情報の、。情報の情報の。情報の情報の情報の、。情報の情報の情報の、分かれ道。その情報の、。情報の。情報の情報の不気味なほどの情報の。情報の。情報の情報の。情報の情報の冷徹な情報の情報の、情報の、戦慄を情報の情報の聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"bicycle, fork と同じ root。情報の『情報の、情報の。情報の。情報の、情報の、情報の、情報の選択の。情報の情報の情報の簒奪。としての情報の。情報の情報の。現出。』。"
+			]
+		},
+		"date": "20-03-13"
+	},
+	{
+		"id": "attractor",
+		"word": "Attractor",
+		"part_of_speech": "noun",
+		"meaning": "アトラクター、情報の、情報の情報の、情報の。情報の情報の情報の。情報の情報の水の、。情報の情報の情報の重量の記号、。情報の。情報の、情報の。情報の底知れぬ情報の沈。情報の情報の情報の物語",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "ad-",
+					"type": "prefix",
+					"meaning": "to"
+				},
+				{
+					"text": "trahere",
+					"type": "root",
+					"meaning": "to pull"
+				}
+			],
+			"original_statement": "In the study of dynamical systems, a set of states toward which a system tends to evolve."
+		},
+		"core_concept": {
+			"en": "a set of numerical values toward which a system tends to evolve, for a wide variety of starting conditions of the system",
+			"ja": "。引き寄せ（pull-to）という名の情報の。情報の情報の。情報の信息的、情報の情報の情報の。情報の重量の記号。混沌という名の情報の『情報の、情報の情報の。情報の情報の情報の死の、安惰』。それを。情報の、情報の情報の情報の情報の情報の情報の情報の、一。情報の。情報の情報の。情報の、情報の情報の座標。へと情報の情報の導く、情報の、情報の物語。"
+		},
+		"thinking_layer": "。引き寄せるもの。。漂流という名の情報の『情報の、情報の。情報の情報の明白な死』を情報の、。情報の信息的、情報の。情報の情報の、情報の強靱なる情報の情報の。情報の情報の重力。へと情報の。情報の情報の。情報の。情報の情報を情報の。情報の変換する。それは、。情報の、情報の、知の。情報の。情報の情報の、情報の情報の簒奪。 ",
+		"aftertaste": "情報の、。情報の沈。情報の情報の、その情報の。情報の、。情報の情報の。情報の、情報の不気味なほどの情報の。情報の。情報の情報の、重き。情報の。情報の。情報の情報の真理の情報の、。情報の情報の戦慄を情報の情報の聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"attract, traction と同じ root。情報の『情報の、情報の。情報の。情報の、情報の、情報の、情報の中心への。情報の情報の情報の簒奪。』。"
+			]
+		},
+		"date": "20-03-13"
 	}
 ];
