@@ -269003,5 +269003,214 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "abnegation",
+		"word": "Abnegation",
+		"part_of_speech": "noun",
+		"meaning": "自己犠牲、拒絶、否認、節制",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "ab-",
+					"type": "prefix",
+					"meaning": "away (離れて)"
+				},
+				{
+					"text": "negare",
+					"type": "root",
+					"meaning": "to deny (否定する)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin abnegatio, from ab- 'away' + negare 'deny'."
+		},
+		"core_concept": {
+			"en": "The act of renouncing or rejecting something; self-denial",
+			"ja": "自らの欲望や権利を、あえて『彼方（away）』へと追いやる峻烈な決断。何もしないことではなく、『否定すること』によって自らの誠実さを打ち立てる、知的な『自己犠牲』"
+		},
+		"thinking_layer": "『否定し去ること』。ネガティブ（Negative/否定的な）、ディナイ（Deny/否定する）、おなじみの「AB（離れて）」と同根。語源は「否定」。ただの「拒絶（rejection）」ではありません。そこには。「自分にとって価値あるものを、あえて手放す」という、高潔なストイシズム（stoicism）が宿っています。それは。知性が過剰な供給（excess）から距離を置き、自らを「空（empty）」に保とうとする瞬間の、静かな力。 ",
+		"aftertaste": "自分が執着（attachment）していた何らかの地位や物欲を、この「自己犠牲（abnegation）」という名の下に捨て去った瞬間の、喉の奥が震えるような「寂しさ」と、それ以上に深い「自由」を感じる、あの知的な眩暈（dizziness）。あるいは、自分の思考が、世間の安易な肯定（affirmation）に流されず、常にこの「アブネゲーション」のような「批判的な慎み」を湛（たた）えていることを誇る、あの静かな午後の自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ne-",
+					"meaning": "not (forming negare)"
+				}
+			],
+			"points": [
+				"negate, renegotiate, renegade 同根。",
+				"『離れて（away）』否定することは、対象そのものを変えるのではなく、対象との『関係性』を清算することである。アブネゲーションは、自己という牢獄から脱出するための、最も逆説的な鍵である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "disavowal",
+		"word": "Disavowal",
+		"part_of_speech": "noun",
+		"meaning": "否認、拒否、責任回避",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "dis-",
+					"type": "prefix",
+					"meaning": "asunder, apart (バラバラに、離れて)"
+				},
+				{
+					"text": "advocare",
+					"type": "root",
+					"meaning": "to call to (呼び出す)', from Latin ad- 'to' + vocare 'to call'"
+				}
+			],
+			"original_statement": "From dis- 'away' + avow, from Latin advocare 'call to'."
+		},
+		"core_concept": {
+			"en": "An act of stating that you are not responsible for something; the denial of any connection with or knowledge of something",
+			"ja": "かつて『呼び寄せ（avow）』、認めていたはずのものとの絆を、残酷に断ち切る『訣別（severance）』の宣言。自らの過去や過ちを『自分のものではない』と切り離す、知的な『関係性の破棄』"
+		},
+		"thinking_layer": "『呼び出すことを止める』。ボイス（Voice/声）、アドボケイト（Advocate/擁護者＝呼び出す人）、おなじみの「ディス（不、非）」と同根。語源は「誓いを解く」。ただの「否定」ではありません。そこには。「かつては自分の側にあったもの」を、敢えて「他者」として突き放すという、一種の冷酷さと護身の論理が宿っています。それは。知性が自らの整合性（integrity）を保つために、不都合な真実を「無かったこと」にする、防衛的な編集。 ",
+		"aftertaste": "自分がかつて愛していた思想や人々を、この「ディサバウアル（disavowal）」という一言で過去の闇へと葬り去る瞬間の、胸を焦がすような「罪悪感」と、それによって守られた自分の「偽りの安らぎ（fake peace）」を自笑する、あの知的な静寂。あるいは、自分の言葉が、いつか誰かの「ディサバウアル」によって裏切られるかもしれないという予感（premonition）を抱きつつ、それでも「今」を誓い続ける、あの孤独な自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "uekw-",
+					"meaning": "to speak (forming vocare)"
+				}
+			],
+			"points": [
+				"vocal, vowel, vocation, provoke, invoke 同根。",
+				"『呼ぶ（calling）』ことは存在を承認することである。ディサバウアルは、その『声』を強制的に沈黙させることで、対象の存在権を奪う、言語的な暴力の側面を持つ。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "repudiate",
+		"word": "Repudiate",
+		"part_of_speech": "verb",
+		"meaning": "拒絶する、否認する、離婚する（古語）、縁を切る",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "re-",
+					"type": "prefix",
+					"meaning": "away, back (離れて、後ろへ)"
+				},
+				{
+					"text": "pudium",
+					"type": "root",
+					"meaning": "foot (足)', from Latin pes / pedis 'foot'"
+				},
+				{
+					"text": "repudium",
+					"type": "root",
+					"meaning": "rejection of a proposal or of a wife (離婚、拒絶)"
+				}
+			],
+			"original_statement": "From Latin repudiatus, from repudium 'rejection', from re- 'away' + pudium 'foot' (related to tripping or kicking back)."
+		},
+		"core_concept": {
+			"en": "Refuse to accept or be associated with; deny the truth or validity of; (archaic) divorce",
+			"ja": "近づこうとするものを『足（foot）』で蹴り返し、拒絶（reject）する峻烈な身振り。絆を断ち切り、自分という境界の外側へと追放する、知的な『絶縁』"
+		},
+		"thinking_layer": "『足で蹴り戻す』。ペダル（Pedal/足）、インピード（Impede/足を妨げる）、おなじみの「RE（後ろへ）」と同根。語源は「蹴り返す」。ただの「拒否」ではありません。そこには。「自分という尊厳を汚すものを、身体的な嫌悪感（disgust）を伴って退ける」という、力強い自衛の響きがあります。それは。知性が毒（poison）を嗅ぎ分け、自らの精神を「潔癖（integrity）」に保つための、反射的な拒絶反応。 ",
+		"aftertaste": "不当な要求や汚れた誘惑を、この「リピューディエイト（repudiate）」という峻烈な仕草で一蹴（kick away）した瞬間の、背筋が伸びるような「潔さ」と、それによって生じた誰かとの決決定的な裂け目（chasm）を、誇り高く見つめる、あの知的な自負。あるいは、自分の過去の「未熟さ」を、今さら「リピューディエイト」できないことの、逃れられない「自己責任」の重みに耐える、あの静かな夜の省察。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ped-",
+					"meaning": "foot (forming pes)"
+				}
+			],
+			"points": [
+				"pedestrian, pioneer, dispatch, pawn 同根。",
+				"『足（foot）』は、大地と接触し、自らの立ち位置を確立するための部位である。リピューディエイト（repudiate）とは、自らの『立ち位置』を汚すものとの接触を物理的に断つ、最も根本的な拒絶の儀式である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "forswear",
+		"word": "Forswear",
+		"part_of_speech": "verb",
+		"meaning": "誓ってやめる、誓いを破る、偽証する、否認する",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "for-",
+					"type": "prefix",
+					"meaning": "away, completely (離れて、完全に)"
+				},
+				{
+					"text": "swerian",
+					"type": "root",
+					"meaning": "to swear (誓う)",
+					"lang": "Old English"
+				}
+			],
+			"original_statement": "From Old English forswerian, from for- 'away' + swerian 'swear'."
+		},
+		"core_concept": {
+			"en": "Agree to give up or do without (something); swear falsely; perjure oneself",
+			"ja": "かつて神に誓（ちか）った言葉さえも『彼方（for-）』へと放り投げ、過去の自分を裏切る峻烈な『誓言の破棄』。信念そのものを否定し、沈黙という名の虚無へと身を投じる、知的な『離教（apostasy）』"
+		},
+		"thinking_layer": "『完全に、あるいは不当に誓う』。スウェア（Swear/誓う）、アンサー（Answer/誓いに対して答える）と同根。語源は「誓いを離れる」。ただの「やめる」ではありません。そこには。「かつての全存在を賭（か）けて信じていたものを、自らの言葉によって葬（ほうむ）り去る」という、悲劇的な決断が含まれます。それは。知性が自らの「一貫性」をあえて壊し、新しい、しかし孤独な真理へと跳躍（leap）する瞬間の戦慄。",
+		"aftertaste": "長年連れ添った夢や理想を、この「フォースウェア（forswear）」という峻烈な誓いによって断ち切った瞬間の、胸にぽっかりと開いた「空白」の青白さと、それでも「自分は変わらなければならない」という逃れられない運命への、深い諦念。あるいは、誰かに「フォースウェア（偽証）」された瞬間の、言葉というものの「もろさ（fragility）」と、それゆえの「美しさ」を同時に痛感する、あの知的な静寂。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "swer-",
+					"meaning": "to speak, swear (forming swerian)"
+				}
+			],
+			"points": [
+				"swear, answer 同根。",
+				"『誓う（swearing）』ことが人間を社会に繋ぎ止めるなら、『フォースウェア（forswearing）』することは、自分をすべての社会的な枠組みから解き放つ、最も危険で高貴な反逆のプロセスである可能性がある。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "naysay",
+		"word": "Naysay",
+		"part_of_speech": "verb/noun",
+		"meaning": "否認する、反対する、反対意見",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "nay",
+					"type": "adverb",
+					"meaning": "no (否、いいえ)",
+					"lang": "Old Norse origin"
+				},
+				{
+					"text": "say",
+					"type": "verb",
+					"meaning": "to speak (言う)",
+					"lang": "English"
+				}
+			],
+			"original_statement": "From nay + say."
+		},
+		"core_concept": {
+			"en": "To deny or oppose; an act of saying no",
+			"ja": "周囲の安易な肯定（yes）に対して、たった一人で『否（nay）』と告げる、勇気ある沈黙の拒絶。流されることを拒み、自らの『異議（objection）』を冷徹な言葉に変える、知的な『逆風』"
+		},
+		"thinking_layer": "『否と言う』。ネガティブ（Negative/否定的な）、ノー（No/いいえ）と同根。語源は「否と言う」。ただの「反対」ではありません。そこには。「大多数の合意が醸（かも）し出す心地よい温かさ（coziness）」を、あえて冷たい言葉で引き裂く、という峻烈な誠実さが宿っています。それは。知性が自らの存在価値を、単なる「肯定の鏡」にしなうための、最後の踏みとどまり。 ",
+		"aftertaste": "誰もが頷（うなず）く会議の中で、この「ネイセイ（naysay）」という一言を放った瞬間の、周囲の凍りつくような「静寂」と、自分の心を満たす、ある種の清々（すがすが）しい「孤立感」を噛み締める、あの知的な充足。あるいは、自分の過去の行動を、今の自分が「ネイセイ（否定）」しなければならないという、成長の痛みを伴う自己批判の、あの静かな午後の憂鬱。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ne-",
+					"meaning": "not (forming nay)"
+				}
+			],
+			"points": [
+				"no, never, nay, nil, null 同根。",
+				"『否（nay）』という言葉は、世界を『そこにあるもの』と『そこにあってはならないもの』に分画する、最初の人間の倫理的な行為である。ネイセイ（naysay）は、その分画を社会という喧騒の中で、あえて言葉として具現化する行為である。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
