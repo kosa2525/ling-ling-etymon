@@ -253243,5 +253243,169 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "apostate",
+		"word": "Apostate",
+		"part_of_speech": "noun/adjective",
+		"meaning": "棄教者、背教者、脱退者",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "apo-",
+					"type": "prefix",
+					"meaning": "away (〜から離れて)"
+				},
+				{
+					"text": "stasis",
+					"type": "root",
+					"meaning": "standing (立っていること)",
+					"lang": "Greek"
+				}
+			],
+			"original_statement": "From Greek apostatēs, from apo- away' + stēnai 'to stand'."
+		},
+		"core_concept": {
+			"en": "A person who renounces a religious or political belief or principle",
+			"ja": "かつて自分が誓いを立てた場所から『離れて（away）』、『立つ（stand）』。信じていた神や理想をあえて捨て、かつての仲間から憎まれることも厭わない、修羅の道を歩む者"
+		},
+		"thinking_layer": "『離れて立つこと』。アポストル（Apostle/使徒＝遣わされた人）の対義語。ただの「無関心」ではなく、一度深く内部にいたからこそ、その欺瞞や限界を誰よりも理解し、激しく拒絶する。それは裏切りというより、自分自身の「真実」に誠実であろうとする、痛みを伴う決別。",
+		"aftertaste": "かつての聖堂の扉を閉め、二度と振り返らずに荒野へと歩み出す、背中の冷たさ。あるいは、自分がかつて愛したものが、今は見慣れない異物のように感じられる時の、深い断絶感。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sta-",
+					"meaning": "to stand"
+				}
+			],
+			"points": [
+				"status, stability, destination 同根。",
+				"『立つ場所（stasis）』を変えることが、存在そのものの変容を強いる。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "schism",
+		"word": "Schism",
+		"part_of_speech": "noun",
+		"meaning": "分裂、分離、宗派の分裂",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "skhisma",
+					"type": "root",
+					"meaning": "cleft, division (裂け目)",
+					"lang": "Greek"
+				}
+			],
+			"original_statement": "From Greek skhisma, from skhizein 'to split'."
+		},
+		"core_concept": {
+			"en": "A split or division between strongly opposed sections or parties, caused by differences in opinion or belief",
+			"ja": "かつて一つの完璧な球体だった組織や信念が、内部からの矛盾に耐えきれず、鋭い音を立てて『真っ二つに裂ける（split）』。修復不可能な対立の断層"
+		},
+		"thinking_layer": "『裂け目』。スキゾ（Schizo/分裂）と同根。単なる「不仲」ではなく、世界観そのものが二つの異なる宇宙に分かれてしまうこと。一度生じたシズムは、互いへの憎悪という接着剤で、それぞれの境界をより強固なものへと作り直していきます。",
+		"aftertaste": "鏡が床に落ちて割れ、もう二度と自分の顔を正しく映せなくなった時の絶望。あるいは、昨日まで一緒に歩いていた友人と、今は深い崖を挟んで睨み合っているという不条理。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "skei-",
+					"meaning": "to cut, split"
+				}
+			],
+			"points": [
+				"schizophrenia, scissors, science（切り分けて知ること）と同根。",
+				"『知る（science）』ことは、常に世界を『裂く（schism）』という残酷な側面を持っている。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "recalcitrant",
+		"word": "Recalcitrant",
+		"part_of_speech": "adjective",
+		"meaning": "反抗的な、手に負えない、頑強な",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "re-",
+					"type": "prefix",
+					"meaning": "back (押し返す)"
+				},
+				{
+					"text": "calcitrare",
+					"type": "root",
+					"meaning": "to kick (蹴る)",
+					"lang": "Latin"
+				},
+				{
+					"text": "calx",
+					"type": "root",
+					"meaning": "heel (踵)"
+				}
+			],
+			"original_statement": "From Latin recalcitrare 'kick back', from re- 'back' + calx 'heel'."
+		},
+		"core_concept": {
+			"en": "Having an obstinately uncooperative attitude toward authority or discipline",
+			"ja": "権威の後ろ盾や命令に対して、踵（heel）を鳴らして『後ろへ蹴り飛ばす（kick back）』ように激しく拒絶する、野生馬のような制御不能な反抗性"
+		},
+		"thinking_layer": "『後ろに蹴り返すこと』。カルシウム（Calcium/踵の骨のような石灰）とおそらく遠い親戚。ただの「わがまま」ではなく、自分の自由を奪おうとするものに対する、本能的で力強い拒絶。従順であることを美徳とする社会において、最も厄介で、最も生命力に溢れた不協和音。",
+		"aftertaste": "どれだけ手懐けようとしても、決してこちらに背中を見せない荒馬の瞳。あるいは、理不尽な命令を鼻で笑い、そのまま部屋を出てゆく者の、清々しいまでの傲慢さ。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kelk-",
+					"meaning": "heel"
+				}
+			],
+			"points": [
+				"calculus（踵で蹴る小石）, calcium, calcify 同根。",
+				"『踵（heel）』は、逃走のためのバネであり、同時に拒絶のための『武器』でもある。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "intransigent",
+		"word": "Intransigent",
+		"part_of_speech": "adjective/noun",
+		"meaning": "譲歩しない、非妥協的な（人）",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "in-",
+					"type": "prefix",
+					"meaning": "not"
+				},
+				{
+					"text": "transigere",
+					"type": "root",
+					"meaning": "to come to an agreement (合意に達する)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From French intransigeant, from Spanish los intransigentes 'those who do not compromise'."
+		},
+		"core_concept": {
+			"en": "Unwilling or refusing to change one's views or to agree about something",
+			"ja": "どれだけ論理的な説得、あるいは暴力的な圧力を受けても、決して自らの信念という名の城門を開けず、一ミリの『妥協も望まない（not compromise）』鋼の意志"
+		},
+		"thinking_layer": "『合意しないこと』。トランザクション（Transaction/取引＝共に通り抜ける）の対義語的な「不成立」。取引という「中途半端な平和」を拒み、白か黒か、あるいは破滅かの極北を目指す。それは頑固さというより、真理に対する潔癖なまでの誠実さ。",
+		"aftertaste": "周囲がすべて敵に回っても、一人淡々と自分の正しさを主張し続ける、岩のような硬質感。あるいは、一切の妥協を排して作られた、冷たく完璧な芸術作品。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ag-",
+					"meaning": "to drive, do"
+				}
+			],
+			"points": [
+				"act, agent, exigent（緊急な＝追い立てられた）, transaction 同根。",
+				"『共に行動する（trans-act）』という社会的な潤滑油を、自らの意志で『拒絶（in-）』すること。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
