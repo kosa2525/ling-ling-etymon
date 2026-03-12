@@ -254638,5 +254638,202 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "infinitesimal",
+		"word": "Infinitesimal",
+		"part_of_speech": "adjective",
+		"meaning": "無限に小さい、微小な、極微の",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "in-",
+					"type": "prefix",
+					"meaning": "not"
+				},
+				{
+					"text": "finitus",
+					"type": "root",
+					"meaning": "finished, limited (終わりのある、限定された)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Modern Latin infinitesimus, from Latin infinitus 'infinite'."
+		},
+		"core_concept": {
+			"en": "Extremely small",
+			"ja": "どれだけ目を凝らしても、どれだけ分割を繰り返しても、決して『終わり（limit）』に辿り着くことのできない『無限の小ささ』。無の中に消え去る直前の、震えるような存在の極小単位"
+		},
+		"thinking_layer": "『終わりのない小ささ』。インフィニット（Infinite/無限の）やフィニッシュ（Finish）と同根。単なる「小さい（small）」ではなく、数学的な「極限（Limit）」を指します。それは宇宙の巨大さと対をなす、もう一つの無限。私たちの認識を越えた深淵に、すべての存在の「根源（Seed）」が隠されているという確信。 ",
+		"aftertaste": "宇宙の広大な闇を想う時よりも、指先の爪のさらに千万分の一の空間に広がる未知の構造を想像する時の方が、より深いめまいを感じるという逆説。あるいは、たった一つの言葉が人生を狂わせるという、あの「微小な原因」の巨大な力。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "dhei-",
+					"meaning": "to finish, determine (forming finis/limit)"
+				}
+			],
+			"points": [
+				"finish, finite, define, confine 同根。",
+				"『境界線（limit）』を『失う（not）』ことは、巨大さの方向だけでなく、小ささの方向へも『無限（infinitude）』を切り開く。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "corpuscular",
+		"word": "Corpuscular",
+		"part_of_speech": "adjective",
+		"meaning": "微粒子の、小体（しょうたい）の、血球の",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "corpusculum",
+					"type": "root",
+					"meaning": "small body (小さな体、微粒子)",
+					"lang": "Latin"
+				},
+				{
+					"text": "corpus",
+					"type": "root",
+					"meaning": "body (体)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin corpusculum, diminutive of corpus 'body'."
+		},
+		"core_concept": {
+			"en": "Relating to or active like tiny particles",
+			"ja": "滑らかな流体に見える世界も、究極的には数えきれないほどの『小さな体（body）』の集合体に過ぎない。個別の粒（particle）が躍動し、ぶつかり合うことで生まれる現象の質感"
+		},
+		"thinking_layer": "『小さな体の』。コーパス（Corpus/集成）やコープス（Corpse/死体）と同根。ニュートンの「光の微粒子説」は、光を無数の跳ね回る「小体（Corpuscles）」として捉えました。連続性という幻想を剥ぎ取り、粒子のダンスとして世界を解体する知性。それは、個々の命が巨大な社会を構成する「パーツ」であるという認識にも繋がります。",
+		"aftertaste": "顕微鏡を覗いた瞬間に、平らだと思っていた肌が、うごめく無数の細胞の迷宮であると気づく、あの不気味で魅力的な一瞥。あるいは、人混みが一個の生物のように見えながら、一人一人が別々の痛みを持っているという、あの解離した実感。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kwrep-",
+					"meaning": "body, form"
+				}
+			],
+			"points": [
+				"corps, incorporate, corporation（法人＝体を持つ組織）, corporal（肉体の）と同根。",
+				"『体（body）』を持つことは、宇宙において特定の『形（form）』と『質量（mass）』を持つ責任を引き受けること。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "particulate",
+		"word": "Particulate",
+		"part_of_speech": "adjective/noun",
+		"meaning": "微粒子の、粒子の、微粒子状の物質",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "particula",
+					"type": "root",
+					"meaning": "small part (小さな断片、小部分)",
+					"lang": "Latin"
+				},
+				{
+					"text": "pars",
+					"type": "root",
+					"meaning": "part (部分)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin particula, diminutive of pars 'part'."
+		},
+		"core_concept": {
+			"en": "Relating to or in the form of minute separate particles",
+			"ja": "一つの大きな全体から切り離され、独立した『小さな断片（part）』として空間を浮遊する様子。繋がりの壊れた、あるいは根源的な最小単位としての物質の状態"
+		},
+		"thinking_layer": "『小さな部分の』。パーティクル（Particle）と同根。語源の pars（部分）は、「分配する、分け与える」という意味も持っています。空気中に漂う塵、あるいは情報の断片。それらは一つでは無力ですが、降り積もる（accumulate）ことで、視界を塞ぎ、肺を蝕み、あるいは新しい真実を構成する不可欠な「素材」となります。",
+		"aftertaste": "木漏れ日の中、光り輝きながら舞い踊る無数の埃の、あの美しくも儚い無秩序。あるいは、断片的なニュースばかりがスマホの画面を通り過ぎ、それらをうまく「全体」として統合できない時の、知的な苛立ち。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "per-",
+					"meaning": "to grant, allot (forming pars/part)"
+				}
+			],
+			"points": [
+				"party, partner, partial, apart, parse 同根。",
+				"『分け与えられたもの（part）』こそが、自分が世界に対して持ちうる『唯一のカード』である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "granular",
+		"word": "Granular",
+		"part_of_speech": "adjective",
+		"meaning": "粒状の、ざらざらした、きめの細かい",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "granum",
+					"type": "root",
+					"meaning": "grain, seed (粒、種、穀物)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin granulum, diminutive of granum 'grain'."
+		},
+		"core_concept": {
+			"en": "Resembling or consisting of small grains or particles; characterized by a high level of detail",
+			"ja": "砂浜の砂や、選り分けられた穀物の『粒（grain）』のように、一つ一つの個体が際立った、ざらつきのある密度。現代では、非常に詳細で緻密な情報の解像度を指すこともある"
+		},
+		"thinking_layer": "『粒の』。グレイン（Grain）やグラノーラ（Granola）、グラマラス（Glamorous/魅力的な＝もとは魔力、あるいは粒のような装飾から？）と同根。単なる「細かさ」ではなく、「触知可能な（tactile）」単位を指します。解像度を上げることで、見えていなかった不純物や矛盾までもが剥き出しになる、その情報の「手触り」。",
+		"aftertaste": "掌ですくい上げた乾いた砂が、指の隙間からサラサラと零れ落ちる時の、あの寄る辺ない充実感。あるいは、AIが画像を生成する時に現れる、ノイズと現実の境界線にあるような、あの特有の「ざらつき」。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ger-",
+					"meaning": "to mature, grow (forming grain/corn)"
+				}
+			],
+			"points": [
+				"grain, corn, kernel, garner（蓄える）, garnet（ガーネット＝種のような石）と同根。",
+				"『種（seed）』は究極の『情報（information）』のパッケージであり、宇宙の『設計図』を最小単位で保持している。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "molecular",
+		"word": "Molecular",
+		"part_of_speech": "adjective",
+		"meaning": "分子の、分子レベルの、微小な",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "moles",
+					"type": "root",
+					"meaning": "mass, barrier (塊、障壁)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From French moléculaire, from molecule, from Latin moles 'mass'."
+		},
+		"core_concept": {
+			"en": "Relating to or consisting of molecules",
+			"ja": "巨大な『塊（mass）』を構成するための、最初の、そして最も重要な『小さな結びつき』。個別の原子が互いの手を取り合い、新しい「意味」や「機能」を生み出すための、化学的な対話の最小単位"
+		},
+		"thinking_layer": "『小さな塊の』。モル（Mole/単位）やモール（Mole/防波堤＝塊の壁）と同根。ただの「粒（particle）」との違いは、そこには必ず「結合（Bond）」という関係性が介在していること。何かと何かが結びついて初めて、この世界を動かす「力」が発生することを、分子という概念は教えてくれます。",
+		"aftertaste": "一つの水滴の中に閉じ込められた、無数のドラマチックな結合と分裂の嵐を想像する時の、知的な興奮。あるいは、個人的な感情（原子）が、誰かの共感と結びついて一国の歴史（分子）を動かしてゆく、あのダイナミズム。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "mō-",
+					"meaning": "to exert oneself (forming moles/mass)"
+				}
+			],
+			"points": [
+				"mole, monster（警告するもの、あるいは巨大な塊）, demolish（塊を取り除く）と同根。",
+				"『塊（mass）』であることは、世界に対して『抵抗力（resistance）』を持つことを意味する。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
