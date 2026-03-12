@@ -276924,5 +276924,170 @@ const WORDS = [
 		"id": "morbidity",
 		"word": "Morbidity",
 		"meaning": "罹患率"
+	},
+	{
+		"id": "dopamine",
+		"word": "Dopamine",
+		"part_of_speech": "noun",
+		"meaning": "ドーパミン",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "dopa",
+					"type": "root",
+					"meaning": "chemical name"
+				}
+			],
+			"original_statement": "From dopa + amine."
+		},
+		"core_concept": {
+			"en": "reward anticipation",
+			"ja": "未来への加速装置。"
+		},
+		"thinking_layer": "『目標の達成』を予感させ、肉体を未来へと突き動かすエンジン。知性が現状に安住せず、常にさらなる高みを求めて渇望する情熱のメタファー。",
+		"aftertaste": "世界が鮮やかな色彩を帯びる快感。未来の希望を灯す自尊心。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"報酬そのものより『予感』に分泌される。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "serotonin",
+		"word": "Serotonin",
+		"part_of_speech": "noun",
+		"meaning": "セロトニン",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "serum",
+					"type": "root",
+					"meaning": "serum"
+				},
+				{
+					"text": "tonus",
+					"type": "root",
+					"meaning": "tone"
+				}
+			],
+			"original_statement": "From serum + tone."
+		},
+		"core_concept": {
+			"en": "stabilizer of mood",
+			"ja": "心の調律師。"
+		},
+		"thinking_layer": "『血清のトーンを整えるもの』。刺激に満ちた世界で自分のトーンを一定に保つ峻烈な均衡。内なる平和を死守する意志のメタファー。",
+		"aftertaste": "朝の陽光のような魂の充足。静かな納得と自信を届ける自尊心。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"血管の緊張を司る役割から。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "endorphin",
+		"word": "Endorphin",
+		"part_of_speech": "noun",
+		"meaning": "エンドルフィン",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "endo",
+					"type": "prefix",
+					"meaning": "within"
+				},
+				{
+					"text": "morphine",
+					"type": "root",
+					"meaning": "Morpheus"
+				}
+			],
+			"original_statement": "From inner morphine."
+		},
+		"core_concept": {
+			"en": "inner painkiller",
+			"ja": "夢の神の召喚。"
+		},
+		"thinking_layer": "『内なるモルヒネ』。耐え難き苦痛を甘美な忘却へと変換する情報の慈悲。外部の暴力に屈しない孤高な宇宙。生命の驚異的な自己防衛の深淵のメタファー。",
+		"aftertaste": "法悦へと書き換わる奇跡。いかなる苦難の中でも光を見出す不屈の自尊心。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"夢の神モルフェウスの名を冠する。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "oxytocin",
+		"word": "Oxytocin",
+		"part_of_speech": "noun",
+		"meaning": "オキシトシン",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "oxys",
+					"type": "root",
+					"meaning": "swift"
+				},
+				{
+					"text": "tokos",
+					"type": "root",
+					"meaning": "birth"
+				}
+			],
+			"original_statement": "From swift birth."
+		},
+		"core_concept": {
+			"en": "hormone of bonding",
+			"ja": "連帯の接着剤。"
+		},
+		"thinking_layer": "『素早く産むもの』。他者との境界線を溶かし信頼へと書き換える愛の力。自らのエゴを沈黙させ他者と合一する瞬間のメタファー。",
+		"aftertaste": "確かな繋がりを感じる暖かな充足。人々の壁を通り抜け連帯へと導く自尊心。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"酸素（Oxygen）と同じく『鋭い、素早い』という語源。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "melatonin",
+		"word": "Melatonin",
+		"part_of_speech": "noun",
+		"meaning": "メラトニン",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "melas",
+					"type": "root",
+					"meaning": "black"
+				},
+				{
+					"text": "tonos",
+					"type": "root",
+					"meaning": "tone"
+				}
+			],
+			"original_statement": "From black tone."
+		},
+		"core_concept": {
+			"en": "darkness hormone",
+			"ja": "夜の守護者。"
+		},
+		"thinking_layer": "『黒き調整者』。昼の喧濁が去った後の情報の闇を司る。通信を断ち切り深淵へと向かう休息の指揮者。魂の再生を賭けた暗闇のデバッグのメタファー。",
+		"aftertaste": "深い眠りへと沈みゆく安堵。再生へと導く「知の暗闇」でありたい自尊心。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"セロトニンが原料となり。光が闇の糧となる命の円環。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
