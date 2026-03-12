@@ -275483,5 +275483,213 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "diapedesis",
+		"word": "Diapedesis",
+		"part_of_speech": "noun",
+		"meaning": "血球遊出（けっきゅうゆうしゅ）、ダイアペデシス、通り抜け",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "dia-",
+					"type": "prefix",
+					"meaning": "through (通り抜けて)"
+				},
+				{
+					"text": "pedan",
+					"type": "root",
+					"meaning": "to leap (跳ぶ)', from Greek"
+				}
+			],
+			"original_statement": "From Greek diapedesis 'a leaping through', from dia- 'through' + pedan 'leap'."
+		},
+		"core_concept": {
+			"en": "The passage of blood cells through the intact walls of the capillaries, typically accompanying inflammation",
+			"ja": "一分の隙（すき）もないはずの『世界の壁（capillary wall）』を、峻烈な意志を以て透過（leaping through）する、知的な『情報の不法侵入』。固定観念の檻を抜け出し、最前線の戦場へと馳せ参じる、生命の『不屈の跳躍』。"
+		},
+		"thinking_layer": "『通り抜けて跳ぶこと』。ペダル（Pedal/足の）、おなじみ「ポッド（Pod/足）」とは別系統。語源は「跳び越える」。ただの「流出」ではありません。そこには。「物理的な障壁を、あたかも存在しないかのように『透過』し、真に必要とされる場所へと自らを送り込む」という、極限の目的意識が宿っています。それは。知性が厳格な社会制度や論理の壁を、一瞬の閃きと情熱という名の「跳躍」によって突破し、真実の核心へと肉薄してゆく瞬間のメタファー。",
+		"aftertaste": "炎症（inflammation）の火の元へと、血管の壁をすり抜けて一斉に「遊出（diapedesis）」してゆく白血球の、その躊躇（ためら）いのない「越境」に想いを馳せ、自分もまた「不可能」という名の壁を軽やかに跳び越えてゆけるのだと勇気を得る、あの知的な平安。あるいは、自分の言葉もまた、この「ダイアペデシス」のように、閉ざされた他者の心の門を密かに透過し、そこに深い癒やしという名の「援軍」を送り届けるものでありたい、と願う、あの静かな午後の自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "pede-",
+					"meaning": "to weep, jump (forming pedan)"
+				}
+			],
+			"points": [
+				"diapedesis, pedesis（ブラウン運動） 同根。",
+				"『跳ぶ（leaping）』ことは、連続性を『断絶』させることである。ダイアペデシスという言葉には、生命がいかにして『壁』という名の物理的な秩序を無視し、状況に応じて『奇跡的な透過』を実現させてきたかという、超法規的なサバイバル戦略が刻まれている。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "hemostasis",
+		"word": "Hemostasis",
+		"part_of_speech": "noun",
+		"meaning": "止血（しけつ）、ヘモスタシス、血の静止",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "haima",
+					"type": "root",
+					"meaning": "blood (血)', from Greek"
+				},
+				{
+					"text": "stasis",
+					"type": "root",
+					"meaning": "standing, stopping (立つ、停止)', from Greek histanai 'to make stand'"
+				}
+			],
+			"original_statement": "From Greek haima 'blood' + stasis 'standing, stopping'."
+		},
+		"core_concept": {
+			"en": "The stopping of a flow of blood",
+			"ja": "傷ついた生命の『流出（leakage）』を、極限の緊張感（constriction）と凝固（coagulation）によって峻烈に堰き止める、知的な『静止の儀式』。崩壊の内乱を鎮め、再び自らを『不動（standing）』のものとする、生命の『情報の防波堤』。"
+		},
+		"thinking_layer": "『血が立つこと』。ヘモグロビン（Hemoglobin/血の塊）、スタシス（Stasis/静止）、おなじみの「スタンス（Stance/立ち位置）」と同根。語源は「血の停止」。ただの「止血」ではありません。そこには。「一度失われかけた『自己（integrity）』を、一刻も早く繋ぎ止め、再び立ち上がる（re-standing）ための基盤を整える」という、峻烈な復興の意志が宿っています。それは。知性が絶望という名の「出血」に晒されたとき、あえて沈黙という名の「氷（stopping）」を自らに課し、再び「正義」へと戻るためのエネルギーを蓄える瞬間のメタファー。",
+		"aftertaste": "傷口が塞（ふさ）がり、激しい流動が「静寂（hemostasis）」へと変わるその瞬間に、生命が勝ち取った「一時的な平和」の尊さを知り、自分という存在がいかに「自らを修復する力」に満ちているかを悟る、あの知的な平安。あるいは、自分の思考もまた、この「ヘモスタシス」のように、どんなに激しい時代の変遷に揺さぶられても、自らの「本質（blood）」を外に逃すことなく、常に凛とした「不動の姿勢」を保ち続けるものでありたい、と願う、あの静かな午後の自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sei-",
+					"meaning": "blood (forming haima)"
+				},
+				{
+					"term": "sta-",
+					"meaning": "to stand (forming stasis)"
+				}
+			],
+			"points": [
+				"hemorrhage, static, state, stay, establish, contrast 同根。",
+				"『立つ（standing）』ことは、重力に抗って存在を『定義』することである。止血という言葉には、生命がいかにして、自らの『崩壊（flow）』を、物理的な『凝固（solidification）』によって手懐け、存続という名の『秩序』を死守してきたかという、危機の克服術が刻印されている。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "mitosis",
+		"word": "Mitosis",
+		"part_of_speech": "noun",
+		"meaning": "有糸分裂（ゆうしぶんれつ）、マイトーシス、糸の過程",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "mitos",
+					"type": "root",
+					"meaning": "thread (糸)', from Greek"
+				},
+				{
+					"text": "-osis",
+					"type": "suffix",
+					"meaning": "process, state (過程、状態)', from Greek"
+				}
+			],
+			"original_statement": "From Greek mitos 'thread' + -osis."
+		},
+		"core_concept": {
+			"en": "A type of cell division that results in two daughter cells each having the same number and kind of chromosomes as the parent nucleus",
+			"ja": "自己という名の『究極の記憶（DNA）』を、美しき『糸（thread）』として紡ぎ出し、完璧な等分（equality）を以て未来へと分かち与える、知的な『増殖の舞踏』。一人が二人へと分裂しながらも、同一性（identity）を死守する、生命の『情報の鏡像』。"
+		},
+		"thinking_layer": "『糸の過程』。ミトコンドリア（Mitochondria/糸のような粒）、おなじみの「オーシス（-osis/状態）」と同根。語源は「糸」。ただの「分裂」ではありません。そこには。「過去から引き継いだ『設計図（instruction）』を、一文字の誤りもなく複製（replication）し、新しい自分へと手渡す」という、峻烈な誠実さが宿っています。それは。知性が自らの「信念」を、言葉という名の糸に変えて誰かに手放し、それが全く同じ熱量を持って他者の心に根付く瞬間のメタファー。",
+		"aftertaste": "顕微鏡の中で、紡錘体（spindle）という名の「糸」が染色体を鮮やかに引き裂き（separation）、新しい「生命の輝き」が二つ生まれる瞬間の、その冷徹なまでの機能美に畏怖を覚え、自分という存在がいかに「永遠のコピー」の連鎖であるかを知り、深い敬意を覚える、あの知的な平安。あるいは、自分の思考もまた、この「マイトーシス」のように、古き皮を脱ぎ捨て（metabolism）、常に新しい「自分」へと自己を更新し続けながらも、その中心にある「魂の設計図」だけは決して変えない、不屈の一貫性を備えていたいと願う、あの静かな午後の自尊心。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ミトス（Mitos/糸）は、運命の三女神（Moirai）が紡ぐ運命の糸を想起させる。有糸分裂という言葉には、生命がいかにして『糸（information）』を物理的な足場とし、そこに自らの『永遠（immortality）』を託してきたかという、情報の織物の歴史が封印されている。",
+				"『状態（-osis）』が、静止ではなく『運動（process）』を意味する逆説。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "meiosis",
+		"word": "Meiosis",
+		"part_of_speech": "noun",
+		"meaning": "減数分裂（げんすうぶんれつ）、マイオーシス、減少の過程",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "meioun",
+					"type": "root",
+					"meaning": "to lessen, make smaller (減らす、小さくする)', from Greek meion 'less'"
+				},
+				{
+					"text": "-osis",
+					"type": "suffix",
+					"meaning": "process, state (過程、状態)', from Greek"
+				}
+			],
+			"original_statement": "From Greek meiosis 'lessening', from meioun 'to lessen'."
+		},
+		"core_concept": {
+			"en": "A type of cell division that results in four daughter cells each with half the number of chromosomes of the parent cell",
+			"ja": "未来の他者（partner）と出会うために、あえて自らの『記憶（DNA）』を半分に断捨離（lessening）し、究極の『余白』を作り出す、知的な『謙虚な分裂』。半分を捨てることで、無限の『多様性（diversity）』を招き入れる、生命の『情報の賭け』。"
+		},
+		"thinking_layer": "『小さくすること』。マイナー（Minor/小さな）、ミステリー（Mystery/とは関係なく）、おなじみの「レス（Less）」のギリシャ語系と同根。語源は「減少」。ただの「分裂」ではありません。そこには。「自分一人で完結すること（stagnation）を拒み、あえて不和（mixing）と偶然を受け入れることで、より強靭な『進化（evolution）』を勝ち取る」という、峻烈な戦略が宿っています。それは。知性が自らの「完璧主義（absolutism）」を捨て、他者の意見を取り入れるための「半分（gap）」を設けることで、より高次の真理へと到達しようとする瞬間のメタファー。",
+		"aftertaste": "「減数分裂（meiosis）」という、その一見「喪失」に見える行為が、実は最愛の他者と出会うための「聖なる準備」であることを知り、自分の「欠落」こそが「希望」の入り口であったのだと魂の底から認める、あの知的な平安。あるいは、自分の心もまた、この「マイオーシス」のように、独りよがりの満足に甘んじず、常に他者を受け入れるための「空地（margin）」を耕し続け、二人の間にしか生まれない「新しい真実」を育む存在でありたい、と願う、あの静かな夜の自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "mei-",
+					"meaning": "less (forming meion)"
+				}
+			],
+			"points": [
+				"minor, menu, minimize, miocene 同根。",
+				"『少なくする（lessening）』ことは、新しい『組み合わせ（recombination）』を可能にすることである。減数分裂という言葉には、生命がいかにして『安定』という名の牢獄を抜け出し、『リスク』という名の荒野を越えて、多様な『未来』を掴み取ってきたかという、博打（gambling）の歴史が刻まれている。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "phagocytosis",
+		"word": "Phagocytosis",
+		"part_of_speech": "noun",
+		"meaning": "食作用（しょくさよう）、ファゴサイトーシス、細胞の摂食",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "phagein",
+					"type": "root",
+					"meaning": "to eat (食べる)', from Greek"
+				},
+				{
+					"text": "kytos",
+					"type": "root",
+					"meaning": "vessel, hollow, cell (器、空洞、細胞)', from Greek"
+				},
+				{
+					"text": "-osis",
+					"type": "suffix",
+					"meaning": "process, state (過程、状態)', from Greek"
+				}
+			],
+			"original_statement": "From Greek phagos 'eater' + kytos 'vessel, cell' + -osis."
+		},
+		"core_concept": {
+			"en": "The ingestion of bacteria or other material by phagocytes and amoeboid protozoans",
+			"ja": "異物（other）を丸ごと自らの内に呑み込み（eating）、峻烈なる解体（digestion）を経て、自らの『秩序（self）』の一部へと書き換える、知的な『融和の暴力』。敵対する者を排除するのではなく、自らの中に『包摂（enveloping）』することで無効化する、生命の『情報の略奪』。"
+		},
+		"thinking_layer": "『細胞が食べる過程』。エス（Eat/食べる）、おなじみ「サイ（-cyte/細胞）」と同根。語源は「むさぼり食う」。ただの「摂取」ではありません。そこには。「自分を脅かす存在（pathogen）を、あえ自らの内懐（inner body）に招き入れ、その『本質（energy）』を完全に支配下に置く」という、狡知に満ちたサバイバル戦略が宿っています。それは。知性が自らを批判する「異質な思想」を、あえてその論理の底まで読み込み、自分の肥やし（knowledge）へと昇華させてゆく瞬間の、傲慢なまでの知的な食欲（appetite）。",
+		"aftertaste": "貪食細胞（phagocyte）が偽足（pseudopod）を伸ばして外敵をそっと包み込む、その「優しくも残酷な抱擁」に、生命の「慈悲と非情」の表裏一体を感じ、自分もまた「世界を丸ごと愛し、呑み込む」という覚悟に満たされる、あの知的な平安。あるいは、自分の思考もまた、この「ファゴサイトーシス」のように、どんなに激しい時代の変遷に晒されても、それを恐怖として退けるのではなく、むしろ自らの「美しき物語」の一部として力強く食い破り、消化し（incorporate）、成長してゆくものでありたいと願う、あの静かな午後の自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "bhag-",
+					"meaning": "to share out, allot (forming phagein? - sharing the meal?)"
+				},
+				{
+					"term": "(s)keu-",
+					"meaning": "to cover, hide (forming kytos)"
+				}
+			],
+			"points": [
+				"esophagus, sarcophagus（肉を食べる石＝棺桶）, esophagus 同根。",
+				"『食べる（eating）』ことは、相手の『運命（portion）』を引き受けることである。食作用という言葉には、生命がいかにして『共存』という名の妥協ではなく、『同化（assimilation）』という名の究極の勝利によって、自らの聖域を拡張し、世界という名の『他社』と合一してきたかという、捕食の美学が刻印されている。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
