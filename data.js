@@ -267246,5 +267246,215 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "isoseist",
+		"word": "Isoseist",
+		"part_of_speech": "noun",
+		"meaning": "等震度線（とうしんどせん）",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "isos",
+					"type": "root",
+					"meaning": "equal (等しい)",
+					"lang": "Greek"
+				},
+				{
+					"text": "seistos",
+					"type": "root",
+					"meaning": "shaken (揺らされた)",
+					"lang": "Greek"
+				},
+				{
+					"text": "seiein",
+					"type": "root",
+					"meaning": "to shake (揺らす)",
+					"lang": "Greek"
+				}
+			],
+			"original_statement": "From Greek isos 'equal' + seistos 'shaken'."
+		},
+		"core_concept": {
+			"en": "A line on a map connecting points of equal intensity of an earthquake",
+			"ja": "大地の激しい震え（tremor）が描いた、等しい苦痛の等高線。破壊のエネルギーがいかに放射状に広がり、どこで等しく力尽きたかを示す、見えない波紋の幾何学"
+		},
+		"thinking_layer": "『等しく揺らされた場所』。アイソトープ（Isotope/同位体）、アイソメトリック（Isometric/等角の）、おなじみの「アイソ（等）」と同根。語源は「等しい揺れ」。ただの「線」ではありません。それは。大地の底から突き上げてきた暴力（violence）が、地表のあらゆる場所で「公平に」分配された結果を記録した、沈黙の地図。知性が、カオスな災害の中に「共通のパターン」を見出そうとする瞬間のメタファー。",
+		"aftertaste": "震災のあとの地図に描かれた、歪んだ同心円状の「等震度線（isoseist）」を眺め、目に見えない巨大な力が、私たちの平穏な日常をいかに無慈悲に、しかし「物理法則に従って」切り刻んだのかを思い知り、戦慄する、あの知的な眩暈（dizziness）。あるいは、自分の心の揺れもまた、このように「アイソセイスト（isoseist）」として可視化され、誰かの共感（resonance）を呼ぶ「パターン」になり得るのだと信じる、あの静かな午後の自己肯定。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "twei-",
+					"meaning": "to shake, agitate (forming seiein)"
+				}
+			],
+			"points": [
+				"seismic, seismograph, systole（収縮） 同根の説あり。",
+				"『等しい（equal）』ことは調和の証だが、等震度線（isoseist）という言葉においては、それは『等しく等質な破壊を被った』という、悲劇的な平等の象徴である。知性は、この数式化された平等の裏に、個別の生命の絶叫を聴き取る。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "bathyseism",
+		"word": "Bathyseism",
+		"part_of_speech": "noun",
+		"meaning": "深発地震、地下深くで発生する地震",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "bathys",
+					"type": "root",
+					"meaning": "deep (深い)",
+					"lang": "Greek"
+				},
+				{
+					"text": "seismos",
+					"type": "root",
+					"meaning": "earthquake (地震)",
+					"lang": "Greek"
+				}
+			],
+			"original_statement": "From Greek bathys 'deep' + seismos 'shaken'."
+		},
+		"core_concept": {
+			"en": "An earthquake occurring at a great depth below the surface of the earth",
+			"ja": "地表から数百キロメートル、マントルの深淵（abyss）から響いてくる、大地の『底知れぬ咆哮（roar）』。表層の人間が触れることのできない、惑星の核に近い場所での、巨大な不均衡の解消"
+		},
+		"thinking_layer": "『深い揺れ』。バチスカーフ（Bathyscaphe/潜水艇）、バソス（Bathos/深淵＝転じて陳腐さ）、おなじみの「セイズモ（震）」と同根。語源は「深い地震」。ただの「地震」ではありません。それは。プレートが地底へと沈み込み、極限の圧力（pressure）に耐えかねて弾ける、文字通りの「深層心理の爆発」。知性が自らの意識の奥底（underground）に潜む、最も重たく、熱い欲望を自覚するプロセスのメタファー。",
+		"aftertaste": "足元から伝わる、あの不気味で重厚な振動（vibration）が、遥か数百キロの「深海に近い地底」からやってきた「バチセイズム（bathyseism）」であることを知り、自分たちの立っている大地がいかに空虚な「薄皮（crust）」に過ぎないのかを痛感する、あの峻烈な不安定感。あるいは、自分の怒りや悲しみが、この「深発地震（bathyseism）」のように、自分でもコントロールできない「深い場所」で醸成（brewing）されているのだという、冷淡な納得。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "gwadh-",
+					"meaning": "deep (forming bathys)"
+				}
+			],
+			"points": [
+				"bath, abyss 同根の説あり。",
+				"『深い（deep）』場所での地震は、地表には大きな被害をもたらさないこともあるが、そのエネルギーの規模は表層の比ではない。真に巨大な変革とは、常にこの『不可視の深淵』で静かに始まっている。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "microseism",
+		"word": "Microseism",
+		"part_of_speech": "noun",
+		"meaning": "脈動、微動、（地震ではない）大地のわずかな揺れ",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "mikros",
+					"type": "root",
+					"meaning": "small (小さい)",
+					"lang": "Greek"
+				},
+				{
+					"text": "seismos",
+					"type": "root",
+					"meaning": "shaken (揺らされた)",
+					"lang": "Greek"
+				}
+			],
+			"original_statement": "From Greek mikros 'small' + seismos 'shaken'."
+		},
+		"core_concept": {
+			"en": "A faint earth tremor caused by natural phenomena such as storm waves or atmospheric pressure changes",
+			"ja": "地震という劇的な事件ではない、波のうねりや風の囁き（whisper）が絶えず大地に伝え続ける『微かな鼓動』。静止しているように見える世界が、実は一瞬たりとも休むことなく『生き、震えている』ことの無口な証明"
+		},
+		"thinking_layer": "『小さな揺れ』。マイクロスコープ（Microscope）、ミクロ（Micro）、おなじみの「セイズモ（震）」と同根。語源は「小さな地震」。ただの「震え（tremor）」ではありません。それは。海が陸を叩き、空気が大地を撫でる、そんな日常の摩擦（friction）が奏でる、地球という楽器の「基底音（basic tone）」。知性が。沈黙の中に潜む「ノイズ」を、意味のあるシグナルとして捉え直そうとする瞬間のメタファー。",
+		"aftertaste": "「脈動（microseism）」を記録する針が、一見、完璧な静寂に見える深夜の書斎で、小刻みに、しかし規則正しく揺れ続けているのを見つめ、自分という意識もまた、この世界を構成する「無数の微かな刺激」の集積なのだと悟る、あの知的な平安。あるいは、自分の言葉が、この「マイクロセイズム（microseism）」のように目立たずとも、誰かの心の基底（foundation）を揺らし続ける「優しい背景音」でありたいと願う、あの静かな午後の自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "smei-",
+					"meaning": "small, insignificant (forming mikros)"
+				}
+			],
+			"points": [
+				"smirk, smile 同根の説あり。",
+				"『小さい（small）』ことは、無視していいことではない。マイクロセイズム（microseism）がなければ、大地はただの死んだ石の塊となる。微かな揺れこそが、システムが『オープン』であり、現在進行形で変化していることの証である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "megathrust",
+		"word": "Megathrust",
+		"part_of_speech": "noun",
+		"meaning": "巨大地震、沈み込み帯の巨大地震、メガスラスト",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "megas",
+					"type": "root",
+					"meaning": "great, large (偉大な、大きい)",
+					"lang": "Greek"
+				},
+				{
+					"text": "thrystan",
+					"type": "root",
+					"meaning": "to push, squeeze (押す、絞り出す)",
+					"lang": "Old Norse/Old English"
+				}
+			],
+			"original_statement": "Coined term from Greek megas 'great' + English thrust."
+		},
+		"core_concept": {
+			"en": "A very large earthquake that occurs at subduction zones, where one tectonic plate is forced under another",
+			"ja": "数世紀にわたる忍耐の限界を超え、地殻（crust）が跳ね上がることで生まれる、惑星規模の『大いなる突き上げ（great thrust）』。抑圧されていた全エネルギーが、一瞬の解放によって世界を破壊し、同時に塗り替える、峻烈な『リセット』"
+		},
+		"thinking_layer": "『巨大な突き上げ』。メガ（Mega）、スラスト（Thrust/推力、突進）と同根。語源は「巨大な押し」。ただの「大きな地震」ではありません。そこには。「溜めに溜めた力が一気に爆発する」という、カタルシス（catharsis）と悲劇が共存した響きがあります。それは。知性が長年の抑圧を突き破り、新しいパラダイム（paradigm）へと跳躍（leap）する瞬間の、暴力的なまでの自己革新。",
+		"aftertaste": "「メガスラスト（megathrust）」がもたらした地形の変容（topographic change）を前に、人間の築き上げた文明の「もろさ（fragility）」と、それをも飲み込む地球の「圧倒的な生命力」に絶望（despair）し、同時に、すべてがゼロになることから始まる「真っ白な未来」に、ある種の狂気じみた希望を抱く、あの知的な眩暈（dizziness）。あるいは、自分の沈黙もまた、いつかはこの「メガスラスト（megathrust）」のように、誰かの世界を決定的に変える一撃となることを夢見て、この日常の圧迫（pressure）に耐える、あの静かな午後の自己肯定。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "mē-",
+					"meaning": "great (forming megas)"
+				}
+			],
+			"points": [
+				"magnitude, majestic, major, maximum 同根。",
+				"『押す（thrusting）』ことは、現状を拒絶し、自らの居場所を力ずくで確保する行為である。メガスラスト（megathrust）という言葉には、その生存の身振りが、惑星規模の暴力へと拡大された際の『崇高（sublime）』な恐怖が刻まれている。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "lacuna",
+		"word": "Lacuna",
+		"part_of_speech": "noun",
+		"meaning": "欠陥、空白、抜け、落丁、隙間",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "lacus",
+					"type": "root",
+					"meaning": "lake, pit (湖、穴)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin lacuna 'ditch, gap', from lacus 'lake'."
+		},
+		"core_concept": {
+			"en": "An unfilled space or interval; a gap; a missing portion in a book or manuscript",
+			"ja": "完璧であるはずの物語や構造の中に、不意に現れる『水たまり（lake）』のような空白。かつて存在していた何かが、時間という名の風（wind of time）に攫（さら）われて消え去った、雄弁な『不在の器』"
+		},
+		"thinking_layer": "『小さな池』。レイク（Lake）、ラグーン（Lagoon）、おなじみの「ラクナ（解剖学的な空隙）」と同根。語源は「穴、水たまり」。ただの「空白（blank）」ではありません。そこには。「かつては埋まっていたはずのものが、失われた」という、喪失（loss）の記憶が宿っています。それは。知性がどんなに完全性を求めても、決して埋めることのできない「理解の裂け目」。あるいは、言葉が尽きた場所で初めて語り始める、沈黙という名の「真実」。",
+		"aftertaste": "古文書の途切れた行間に、この「落丁（lacuna）」を見出し、そこに描かれていたはずの失われた愛や戦いの記憶を自分の想像力（imagination）という名の水で満たそうとする、あの知的な、そして孤独な遊戯。あるいは、自分の心の中にある巨大な「ラクナ（lacuna）」に、誰かのための「優しさ」を湛（たた）えることで、自分という器を完成させたいと願う、あの静かな夜の祈り。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "laku-",
+					"meaning": "lake, pond (forming lacus)"
+				}
+			],
+			"points": [
+				"lake, lagoon, lock（おそらくな） 同根。",
+				"『穴（pit）』とは欠損だが、そこに水が溜まればそれは『湖（lake）』となる。ラクナ（lacuna）という概念は、空虚を『負の意味』から『生成の場』へと転換させる、言語の持つ癒やしの知恵を象徴している。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
