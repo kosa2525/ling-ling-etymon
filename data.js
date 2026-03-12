@@ -259511,5 +259511,185 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "algid",
+		"word": "Algid",
+		"part_of_speech": "adjective",
+		"meaning": "非常に冷たい、氷のような、悪寒を伴う",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "algere",
+					"type": "root",
+					"meaning": "to be cold (冷たい)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin algidus, from algere 'be cold'."
+		},
+		"core_concept": {
+			"en": "Cold; chilly",
+			"ja": "ただの寒さ（cold）を超え、芯から凍りつくような『絶対的な冷たさ』。あるいは、高熱の直前に全身を襲う、絶望的な『悪寒』の感覚。生命の活動が停止へ向かう、極限の冷却"
+		},
+		"thinking_layer": "『冷たいこと』。アリュール（Allure/魅了する？）は関係なく、アルジド。語源は「冷えている」。医学用語としても使われ、患者の表面温度が急激に下がる「アルジド期（algid stage）」など。それは、真冬の湖の底に沈んだ石のような、感情さえも凍結させる「峻烈な拒絶」の色。 ",
+		"aftertaste": "「氷のように冷たい（algid）」風が服の隙間から滑り込み、自分の体温が宇宙の暗闇に吸い出されてゆくような、あの薄っすらとした死の予感。あるいは、誰かの「あまりにも冷淡な（algid）」一言によって、自分の心の情熱が一瞬で消え去り、真っ白な降霜（frost）に覆われてしまったかのような、魂の冬眠。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "al-",
+					"meaning": "to grow, nourish (forming algidus? - uncertain)"
+				}
+			],
+			"points": [
+				"諸説あるが、成長（al-）の反対としての『冷却』であるとする、生命論的な解釈。",
+				"『寒さ（cold）』とは熱という名のエネルギーの『欠如（absence）』であり、アルジド（algid）はその欠如の『極致』を指す。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "febrile",
+		"word": "Febrile",
+		"part_of_speech": "adjective",
+		"meaning": "発熱した、熱病の、熱狂的な、興奮した",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "febris",
+					"type": "root",
+					"meaning": "fever (熱)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin febris 'fever'."
+		},
+		"core_concept": {
+			"en": "Having or showing the symptoms of a fever; characterized by a great deal of nervous excitement or energy",
+			"ja": "身体が『熱（fever）』に冒（おか）され、理性が溶け出している様子。転じて、極度の緊張（nervous excitement）や興奮が支配し、世界がギラギラと輝いて見える、不自然で脆い熱狂"
+		},
+		"thinking_layer": "『熱の』。フィーバー（Fever）やデブリ（Debris/破片＝熱で砕かれたもの？）はおそらくな。語源は「熱」。ただの「暑さ」ではなく、そこに「疾患」や「過剰なエネルギー」が含まれます。それは嵐の前の静けさ、あるいは、締め切り直前の編集部の「殺気立った熱気（febrile atmosphere）」。",
+		"aftertaste": "「熱病にかかったような（febrile）」高揚感の中で書き上げた文章を、目覚めてから読み返し、そのあまりの支離滅裂さと、しかしそこに宿る「むき出しの生の輝き」に、自分でも驚いてしまう、あの恥ずかしい満足感。あるいは、都会の「狂ったような（febrile）」喧騒の中に身を投じ、自分が一つの「焦燥感の回路」になったかのような、心地よい疲弊。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "dhegh-",
+					"meaning": "to burn (forming febris?)"
+				}
+			],
+			"points": [
+				"fever, den, day（輝く日）と同根の説あり。",
+				"『情熱（passion）』とは飼いならされた『火』であるが、『熱病（fever）』とは制御不能となった、自らを焼き尽くすための『劫火』である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "pyretic",
+		"word": "Pyretic",
+		"part_of_speech": "adjective",
+		"meaning": "熱の、発熱による、解熱（げねつ）薬の（antipyretic）",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "pyr",
+					"type": "root",
+					"meaning": "fire (火)",
+					"lang": "Greek"
+				}
+			],
+			"original_statement": "From Greek puretikos, from puretos 'fever', from pur 'fire'."
+		},
+		"core_concept": {
+			"en": "Of, relating to, or producing fever",
+			"ja": "内なる『火（fire）』が宿り、生命維持の臨界点を超えて燃え上がっている様子。科学的、あるいは生理的なプロセスとしての熱の顕現"
+		},
+		"thinking_layer": "『火の』。パイロ（Pyro/火薬、火）、パイレックス（Pyrex/耐熱ガラス）、エマパイア（Empire/火の守護者？）はおそらくな。語源は「火」。フェブライル（Febrile）が「状態」なら、パイレティックは「そのもの自体の熱量」を強調します。それは細胞が外敵と戦っている証拠、あるいは、大地から噴き出すマグマの根源的な熱。 ",
+		"aftertaste": "氷嚢（ひのう）を当てても引かない、あの「体の奥底で燃え盛る（pyretic）」熱の塊を、ただ耐えて見守る時の、自分が一つの「燃えさし」になったかのような、静かな観察。あるいは、自分の内側から突き上げてくる「破壊的な創作欲求（pyretic urge）」が、自分の日常という名の平和をじわじわと焼き焦がしてゆくのを、ただ受け入れる、あの陶酔（ecstasy）。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "pur-",
+					"meaning": "fire"
+				}
+			],
+			"points": [
+				"fire, pyre（火葬の薪）, pyrotechnics（花火）, purification（火による浄化）と同根。",
+				"『熱（fever）』とは、生命が自らを『浄化（purification）』するために呼び出す『聖なる火』であり、そこには『死』と『新生』の可能性が等しく宿っている。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "plutonic",
+		"word": "Plutonic",
+		"part_of_speech": "adjective",
+		"meaning": "（岩石が）深成の、深成岩の、冥王星の",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "Pluto",
+					"type": "root",
+					"meaning": "Pluto (冥界の王プルートー、富を司る者)",
+					"lang": "Greek/Latin"
+				}
+			],
+			"original_statement": "From Pluto, the Greek god of the underworld."
+		},
+		"core_concept": {
+			"en": "(of igneous rock) formed by solidification of magma deep within the earth's crust; of or relating to the god Pluto or the underworld",
+			"ja": "地中深く、冥界の王プルートーが支配する暗黒の領域で、気の遠くなるような時間をかけて、マグマがゆっくりと冷え固まって生まれた『深淵の結晶』。隠された富と、圧倒的な静寂の結晶"
+		},
+		"thinking_layer": "『プルートーの』。プリュートクラシー（Plutocracy/富豪政治）、プラチナ（Platinum/おそらく関係なし）、冥王星（Pluto）と同根。ただの「石」ではなく、そこに「深さ」と「莫大な圧力」が宿っています。地上に噴き出すことなく、闇の中で完璧に結晶化した美学。それは、誰にも知られずに深められた「知性の極致」、あるいは、墓標のように動かない、過去の巨大な記憶の塊。",
+		"aftertaste": "断崖の底で、本来は見ることのできないはずの「深成岩（plutonic rock）」の粗い結晶が地表に剥き出しになっているのを見つける時の、あの世界の「内臓」を覗き込んでしまったような、不気味で厳かな感動。あるいは、自分の心の最深部に、誰にも暴くことのできない「石のように固まった（plutonic）」孤独の芯があることに気づいた時の、あの冷たく、しかし揺るぎない安堵。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "pleu-",
+					"meaning": "to flow (forming Pluto/The flow of wealth?)"
+				}
+			],
+			"points": [
+				"諸説あるが、冥界の主（Pluto）が同時に『富（wealth）』の神でもあるのは、大地の中にこそ、真の資源（Resource）が眠っているという古代人の洞察。",
+				"『冥界（underworld）』とは、忘れ去られた情報の『沈殿（sediment）』する場所であり、プリュトニック（plutonic）な思考とは、その沈殿物を一つの『真理』へと結晶化させる営みである。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "magmatic",
+		"word": "Magmatic",
+		"part_of_speech": "adjective",
+		"meaning": "マグマの、溶岩の、どろどろとした熱を持った",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "magma",
+					"type": "root",
+					"meaning": "thick unguent, dregs (濃い軟膏、澱（おり）)",
+					"lang": "Greek"
+				}
+			],
+			"original_statement": "From Greek magma 'thick unguent', from massein 'to knead'."
+		},
+		"core_concept": {
+			"en": "Of, relating to, or produced by magma",
+			"ja": "すべてを呑み込み、すべてを溶かし去る、大地の深淵で『練り上げられた（kneaded）』灼熱の流体。形を持たず、しかし圧倒的なエネルギーに満ちた、創造と破壊の『種子』"
+		},
+		"thinking_layer": "『練り上げられたもの』。マッサージ（Massage/揉むこと）、メーキャップ（Make up/作り上げる）、メイソン（Mason/石工）と同根。語源は「こねる、練る」。ただの「火」ではなく、そこに「粘り気」と「質量」があります。それは地表へと噴き出そうとする言葉、あるいは、既存の価値観をすべてドロドロに溶かして、全く新しい形へと作り変えようとする、革命的な情熱。",
+		"aftertaste": "火山湖のほとりで、足元から伝わってくる「マグマのような（magmatic）」不気味な震動を感じ取る時の、あの自分が薄皮一枚の安全の上に立っているに過ぎないと悟る、戦慄。あるいは、自分の内側に溜まりに溜まった「表現欲求（magmatic energy）」が、ついに心の壁を突き破り、誰にも止められない奔流（lava flow）となって溢れ出す瞬間の、あの恐ろしいほどの全能感。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "mag-",
+					"meaning": "to knead, blend"
+				}
+			],
+			"points": [
+				"mass, make, mason, massage 同根。",
+				"『創造（creation）』とは、既存の定まった『形（form）』を一度熱によって『溶融（melt）』させ、カオス（magma）の状態へと戻してから、再び練り上げる（knead）プロセスそのものである。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
