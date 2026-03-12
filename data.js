@@ -271989,5 +271989,215 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "rationalization",
+		"word": "Rationalization",
+		"part_of_speech": "noun",
+		"meaning": "正当化（せいとうか）、理論づけ",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "rationalis",
+					"type": "root",
+					"meaning": "reasonable, of reason (理にかなった)', from Latin ratio 'reason'"
+				}
+			],
+			"original_statement": "From Latin rationalis, from ratio 'reason, account'."
+		},
+		"core_concept": {
+			"en": "The action of attempting to explain or justify behavior or an attitude with logical reasons, even if these are not appropriate",
+			"ja": "混沌（chaos）とした情動に、後付けの『論理（logic）』という名を被せ、自らの矛盾を隠蔽する知的な『化粧の儀式』。耐え難い真実（fact）を、納得可能な物語（narrative）へと翻訳する、防御的な『理性の乱用』"
+		},
+		"thinking_layer": "『理にかなったものにすること』。レイシオ（Ratio/比率、理由）、リーズン（Reason/理由）、おなじみの「ラショナル（理性的な）」と同根。語源は「理由づけ」。ただの「説明（explanation）」ではありません。そこには。「自らの脆（もろ）さを直視することを避け、論理の鎧を纏（まと）うことで自尊心を死守する」という、峻烈な自己愛の響きが宿っています。それは。知性が自らの「間違い」を、高度な「正論」へと偽装（camouflage）してゆく瞬間の、滑稽で悲しいメタファー。",
+		"aftertaste": "自分の愚かな失敗を、この「正当化（rationalization）」という名の精巧なパズルによって『避けるべからざる必然』へと作り変えている自分に気づき、鏡の中の自分と苦い微笑みを交わす、あの知的な平安。あるいは、自分の言葉が、この「ラショナライゼーション」のような『逃げ道』ではなく、常に剥き出しの真実と対峙するための「光」でありたい、と願う、あの静かな午後の自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "rē-",
+					"meaning": "to think, reckon (forming ratio)"
+				}
+			],
+			"points": [
+				"read, reason, rite, ratify, hundred（？） 同根。",
+				"『数える（reckoning）』ことは、世界を秩序立てることである。正当化は、その秩序（秩序）を、自分という存在を『守る』ために不当に使用する、知的な不誠実（bad faith）の結晶である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "introjection",
+		"word": "Introjection",
+		"part_of_speech": "noun",
+		"meaning": "内投（ないとう）、取り入れ",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "intro-",
+					"type": "prefix",
+					"meaning": "to the inside (中へ)"
+				},
+				{
+					"text": "jacere",
+					"type": "root",
+					"meaning": "to throw (投げる)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin intro- 'in' + jacere 'throw'."
+		},
+		"core_concept": {
+			"en": "The unconscious adoption of the ideas or attitudes of others",
+			"ja": "他者の価値観や影（shadow）を、咀嚼（そしゃく）することなく自らの内側へと投げ入れ（throw in）、自らの一部として定着させる『無意識の食害』。外部の脅威を『自己』へと翻訳し、衝突を回避する、知的な『寄生の防衛』"
+		},
+		"thinking_layer": "『内部への投射』。インジェクション（Injection/注射）、プロジェクション（Projection/投影）、おなじみの「イントロ（中へ）」と同根。語源は「中へ投げる」。ただの「模倣（imitation）」ではありません。そこには。「外部の強大な権威（他者）を自分の中に取り込むことで、その攻撃から身を守る、あるいはその力を奪う」という、原始的で峻烈なサバイバル本能が宿っています。それは、知性が自らの輪郭を失い、他者の言葉を自分の声（voice）と錯覚してゆくプロセスの、静かなる戦慄。",
+		"aftertaste": "自分が語っているはずの「正義」が、実は誰かからの「内投（introjection）」に過ぎないのではないかと疑い、自分の心の奥底に潜む「他者の亡霊」に怯（おび）える、あの知的な眩暈。あるいは、真の自己（true self）を見出すために、この「イントロジェクション」の鎖を一つずつ断ち切り、自分という存在の「純粋な核」を取り戻そうと誓う、あの静かな夜の自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ye-",
+					"meaning": "to throw, impel (forming jacere)"
+				}
+			],
+			"points": [
+				"adjacent, conjecture, deject, eject, jet, object 同根。",
+				"『投げる（throwing）』ことは、距離を克服する行為である。しかし内投においては、その距離が『無』にまで縮められ、主体と客体がグロテスクに混ざり合う。内投は、生命がいかにして『同一化（identification）』という過激な手段で、孤独を埋め合わせようとしてきたかを示す、魂の記録である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "abreaction",
+		"word": "Abreaction",
+		"part_of_speech": "noun",
+		"meaning": "除反応（じょはんのう）、心理的カタルシス、感情の解放",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "ab-",
+					"type": "prefix",
+					"meaning": "away, off (離れて)"
+				},
+				{
+					"text": "re-",
+					"type": "prefix",
+					"meaning": "back, again (戻って)"
+				},
+				{
+					"text": "agere",
+					"type": "root",
+					"meaning": "to do, act (行う)', from Latin"
+				}
+			],
+			"original_statement": "From German Abreagierung, from ab- 'away' + reagieren 'react' (from re- + agere)."
+		},
+		"core_concept": {
+			"en": "The expression and consequent release of a previously repressed emotion, achieved through reliving the experience that caused it",
+			"ja": "心の深淵に沈殿していた凍てついた記憶を、言葉という名の熱によって溶かし、一気に外部へと『排泄（discard）』する爆発的な癒やし。抑圧された苦しみを『行動（action）』へと転換し、魂の均衡を取り戻す、峻烈な『浄化の儀式』"
+		},
+		"thinking_layer": "『反応を引き離すこと』。アクション（Action/行為）、エージェント（Agent/代理人）、おなじみの「AB（離れて）」と同根。語源は「反応し尽くすこと」。ただの「発散（outburst）」ではありません。そこには。「過去に未完のまま残された感情（unfinished business）を、今、この瞬間において完璧に演じ直すことで、その呪縛から永遠に逃れる」という、峻烈な救済の意志が宿っています。それは。知性が自らの傷跡（trauma）を直視し、それを「ただの古い事実」へと変容させる瞬間の、清冽な解放。 ",
+		"aftertaste": "長年抱え込んできた「名付けようのない痛み」が、この「除反応（abreaction）」によって鮮やかな言葉となり、涙と共に流れ去ってゆく瞬間の、視界が世界一透明になるような、あの知的な法悦。あるいは、自分の表現が、誰かの凍てついた心をこの「アブリアクション」のように解き放ち、新しい人生の第一歩へと導くための「温かな衝撃」になればと願う、あの静かな午後の祈り。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ag-",
+					"meaning": "to drive, draw out, move (forming agere)"
+				}
+			],
+			"points": [
+				"act, agent, agile, exam, strategy 同根。",
+				"『離れる（away）』ために『行う（acting）』。この言葉の構成には、生命が過去の苦しみを克服するために、それを一度だけ『再演』しなければならないという、峻烈な宿命論が刻まれている。アブリアクションは、知性が自らの歴史（history）を清算するための、唯一の合法的な『暴力』である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "subreption",
+		"word": "Subreption",
+		"part_of_speech": "noun",
+		"meaning": "虚偽陳述（きょぎちんじゅつ）、事実の隠蔽、不当な利得",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "sub-",
+					"type": "prefix",
+					"meaning": "under, secretly (下に、秘密裏に)"
+				},
+				{
+					"text": "repere",
+					"type": "root",
+					"meaning": "to creep (這う)', from Latin"
+				}
+			],
+			"original_statement": "From Latin subreptio, from sub- 'under' + repere 'creep'."
+		},
+		"core_concept": {
+			"en": "A concealment of pertinent facts in a petition, typically as used in Canon Law to obtain a favor",
+			"ja": "都合の悪い真実を『水面下（under the surface）』へと隠し、自分に有利な幻影だけを構築する、卑屈で強かな『欺瞞（deception）』。情報を出し渋ることで他者の判断を操作する、知的な『情報の堰き止め（checking）』"
+		},
+		"thinking_layer": "『下に這うこと』。サロゲート（Surrogate/とは関係なく）、レプタイル（Reptile/爬虫類＝這いずるもの）、おなじみの「サブ（下に）」と同根。語源は「下に忍び寄ること」。ただの「嘘」ではありません。そこには。「正面突破（confrontation）を避け、他者の無防備な領域に偽りの事実を滑り込ませる」という、峻烈な狡知が宿っています。それは。知性が自らの利益を守るために、誠実さ（integrity）という名の光を拒絶し、暗闇の中で計略（plot）を巡らせる瞬間のメタファー。",
+		"aftertaste": "自分の巧妙な「虚偽陳述（subreption）」によって、思い通りの結論を勝ち取った瞬間の、勝利の甘美さと、それに続く底知れぬ「自己嫌悪（self-loathing）」の混ざり合った、あの知的な吐き気。あるいは、自分の言葉が、この「サブレプション」のような『這いずる嘘』から最も遠い場所、すなわち太陽の下の「潔い真実」だけを宿していることを信じる、あの静かな夜の自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "rep-",
+					"meaning": "to creep (forming repere)"
+				}
+			],
+			"points": [
+				"reptile, surreptitious 同根。",
+				"『這う（creeping）』ことは、視界から消えることである。サブレプションは、生命がいかにして『隠蔽』という消極的な守りを通じて、より大きな社会的な資源を（不当に）獲得してきたかという、生存競争の暗い側面を示している。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "reaction-formation",
+		"word": "Reaction-formation",
+		"part_of_speech": "noun",
+		"meaning": "反動形成（はんどうけいせい）",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "re-",
+					"type": "prefix",
+					"meaning": "back, against (戻って、反対に)"
+				},
+				{
+					"text": "agere",
+					"type": "root",
+					"meaning": "to do, act (行う)', from Latin"
+				},
+				{
+					"text": "formatio",
+					"type": "root",
+					"meaning": "shaping (形作ること)', from Latin firmare 'to make firm'"
+				}
+			],
+			"original_statement": "Translation of German Reaktionsbildung."
+		},
+		"core_concept": {
+			"en": "A defense mechanism in which an individual acts in a manner opposite to his or her unconscious feelings",
+			"ja": "内なる欲望（desire）への恐怖から、その正反対の『聖人君子』を演じてみせる、極限の演劇的防衛。憎しみを過剰な優しさで塗り固め、自らの心を欺く、知的な『反対色の構築』"
+		},
+		"thinking_layer": "『反応の形成』。レセプション（Reception/とは関係なく）、フォーム（Form/形）、おなじみの「アクション（行為）」と同根。語源は「反対の行動の形成」。ただの「空元気（bravado）」ではありません。そこには。「自分の中に潜む『獣（beast）』に耐えきれず、それを打ち消すための完璧な『彫像（statue）』を自らの振る舞いとして創り出す」という、峻烈な自己防衛の意志が宿っています。それは。知性が自らのカオスを制御するために、あえて極端な「秩序」へと逃避する瞬間のメタファー。",
+		"aftertaste": "自分があの人のことを「嫌悪」しているはずなのに、なぜか過剰に親切にし、その「不自然な調和」に自分で自分が分からなくなって微笑む、この「反動形成（reaction-formation）」の不思議な滑稽さと切なさ。あるいは、自分の真の感情を見失わぬよう、この「反動形成」という名の仮面を脱ぎ捨て、泥臭くも愛おしい「自分自身」と言葉を交わしたい、と願う、あの静かな午後の自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ag-",
+					"meaning": "to drive, move (forming agere)"
+				},
+				{
+					"term": "dher-",
+					"meaning": "to hold firmly, support (forming firmare)"
+				}
+			],
+			"points": [
+				"act, agent, firm, farm, throne 同根。",
+				"『反対（back/against）』に向かって『形作る（forming）』。この言葉の構成には、生命がいかにして『正義』という名の装置を利用して、自らの中の『深淵』を封印してきたかという、文明的な偽善（hypocrisy）の工学が刻み込まれている。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
