@@ -264081,5 +264081,234 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "affirming-the-consequent",
+		"word": "Affirming the consequent",
+		"part_of_speech": "noun",
+		"meaning": "後件肯定（の虚偽）",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "affirming",
+					"type": "root",
+					"meaning": "strengthening, asserting (強める、断言する)",
+					"lang": "English"
+				},
+				{
+					"text": "consequent",
+					"type": "root",
+					"meaning": "following (あとに続くもの)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From English affirm + Latin consequens 'following'."
+		},
+		"core_concept": {
+			"en": "The logical fallacy of taking a true conditional statement (e.g., 'if the lamp is broken, then the room is dark') and invalidly inferring its converse ('the room is dark, so the lamp is broken')",
+			"ja": "もしＡならばＢであるという真実（truth）を逆転させ、ＢならばＡであると誤って断定（affirm）してしまう論理的虚偽。結果から原因を捏造する、知性の『焦燥』"
+		},
+		"thinking_layer": "『結果を肯定すること』。アファーム（Affirm/肯定する）、コンセクエンス（Consequent/結果）と同根。語源は「後に続くものを肯定する」。雨が降れば道が濡れる。今、道が濡れている。だから雨が降ったのだ。……しかし、誰かが水を撒いたのかもしれません。この「一つの可能性」を「唯一の原因」にすり替えてしまう短絡的な思考。それは、不確実な世界の中に無理やり「因果の鎖（chain of causality）」を見い出そうとする、人間の健気で危うい防衛本能。 ",
+		"aftertaste": "誰かの不機味な沈黙を「怒り（consequent）」と決めつけ、自分を「嫌っている（antecedent）」のだと誤って肯定（affirming）してしまったことに気づき、自分の知性が「不安」という名のバイアス（bias）に屈していたことを悟る、あの苦い夕暮れ。あるいは、偶然の成功を「実力」という原因に結びつけようとする、この「後件肯定（affirming the consequent）」の誘惑に、静かに身を委ねている自分への皮肉な微笑。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "dhe-",
+					"meaning": "to set, put (forming firmus/affirm)"
+				},
+				{
+					"term": "sekw-",
+					"meaning": "to follow (forming consequens)"
+				}
+			],
+			"points": [
+				"firm, confirm, sequence, second, social 同根。",
+				"『肯定（affirming）』とは本来は存在の承認だが、それを『結果』に対してのみ行うことは、背後にある無数の豊かな『原因の可能性』を抹殺することに他ならない。知性は常にこの、単純化（simplification）という暴力と戦い続けなければならない。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "denying-the-antecedent",
+		"word": "Denying the antecedent",
+		"part_of_speech": "noun",
+		"meaning": "前件否定（の虚偽）",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "denying",
+					"type": "root",
+					"meaning": "saying no (否と言うこと)",
+					"lang": "English"
+				},
+				{
+					"text": "antecedent",
+					"type": "root",
+					"meaning": "going before (先に行くもの)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From English deny + Latin antecedens 'going before'."
+		},
+		"core_concept": {
+			"en": "The logical fallacy of taking a true conditional statement ('if it rains, then the grass is wet') and invalidly inferring that the negation of the antecedent implies the negation of the consequent ('it is not raining, so the grass is not wet')",
+			"ja": "ＡならばＢであるという世界において、Ａが起きていないという事実（denial）を盾に、Ｂもまた起こり得ないと誤って断定する論理的虚偽。原因の不在を理由に、可能性そのものを否定（deny）してしまう知性の『閉鎖性』"
+		},
+		"thinking_layer": "『前にあるものを否定すること』。ニゲート（Negate/否定する）、アンティシペイト（Anticipate/予期する）、ディセント（Descent/おそらくな）と同根。語源は「先に行くものを否定する」。勉強しなければ試験に落ちる。今、私は勉強している。だから試験に落ちるはずがない。……しかし、体調不良や不慮の事故（accident）があるかもしれません。一つの「条件」から外れただけで、すべてを諦めてしまう、あるいは過信する脆（もろ）い心。 ",
+		"aftertaste": "「愛されなければ、幸せになれない」という呪縛を、「愛されている（antecedent）」からといって「幸せは確定した（consequent）」と誤解してしまった過去を、この「前件否定（denying the antecedent）」の冷徹な眼鏡で覗き込み、人生の変数はもっと複雑（complex）であったと悟る、あの深夜の深い溜息。あるいは、可能性の芽を「条件に合わない」という理由で摘み取ってゆく、自分の「否定的な知性（denying intellect）」への冷ややかな自覚。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ne-",
+					"meaning": "not (forming deny)"
+				},
+				{
+					"term": "anti-",
+					"meaning": "before"
+				},
+				{
+					"term": "ked-",
+					"meaning": "to go, yield (forming cedere/antecedent)"
+				}
+			],
+			"points": [
+				"negate, necessary, ancestor, exceed, proceed 同根。",
+				"『否定（denying）』とは自律の第一歩だが、それを『前提』に対して盲目的に適用することは、結果という未知の海への窓を自ら閉ざすことに等しい。デナイング（denying）な行為の中に、いかに『肯定』の余地を残せるかが、知性の真価を問う。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "post-hoc-ergo-propter-hoc",
+		"word": "Post hoc ergo propter hoc",
+		"part_of_speech": "noun",
+		"meaning": "前後即因果の誤謬、このあとに、ゆえにこれによって",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "post",
+					"type": "root",
+					"meaning": "after (あとに)",
+					"lang": "Latin"
+				},
+				{
+					"text": "hoc",
+					"type": "root",
+					"meaning": "this (これ)",
+					"lang": "Latin"
+				},
+				{
+					"text": "ergo",
+					"type": "root",
+					"meaning": "therefore (ゆえに)",
+					"lang": "Latin"
+				},
+				{
+					"text": "propter",
+					"type": "root",
+					"meaning": "because of (〜によって)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "Latin for 'after this, therefore because of this'."
+		},
+		"core_concept": {
+			"en": "A logical fallacy that states 'Since event Y followed event X, event Y must have been caused by event X'",
+			"ja": "ただ『あとに（post）』起きたという時間の前後関係を、短絡的に『原因（cause）』であると誤認してしまう論理的虚偽。偶然の並びを、運命の糸（thread of fate）と見間違える、人間の物語への執着"
+		},
+		"thinking_layer": "『このあとに、ゆえにこれのせいで』。ポスト（Post/後の）、エルゴ（Ergo/したがって）と同根。語源は「これの後に、それゆえこれによって」。カラスが鳴いたら人が死んだ。ゆえにカラスの鳴き声が人を殺したのだ、というような。私たちは「意味のない偶然」に耐えられません。常に「誰かのせい（because of）」にしたがります。それは、カオスな世界を理解可能な「物語（narrative）」に変換するための、知的な癒やしであり、同時に呪縛。",
+		"aftertaste": "たまたま身に付けたラッキーアイテムのあとに成功が続いただけで、それを「ジンクス（jinx）」として盲信する自分の「ポスト・ホック（post hoc）」な幼さを自覚しつつも、その小さな物語に縋（すが）らなければ生きてゆけない、人間の愛すべき弱さを知る、あの密かな安堵。あるいは、すべての不幸を自分の「過去の行い（past action）」に結びつけようとする、この「因果の迷宮（labyrinth of causality）」から抜け出せない、あの疲弊（exhaustion）した夜。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"知性は常に『接続（connection）』を求めるが、ポストアホック（post hoc）はその接続が『時間軸』という一次元的な情報に依存しすぎて、多次元的な現実の複雑さを見失っている状態である。",
+				"この誤謬（fallacy）を自覚することは、単なる論理的な厳密さを超えて、この世界が『無意味な偶然（mere coincidence）』に満ちているという、峻烈な真実を受け入れるための修行でもある。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "cum-hoc-ergo-propter-hoc",
+		"word": "Cum hoc ergo propter hoc",
+		"part_of_speech": "noun",
+		"meaning": "共にあることによる因果の誤謬、これと共に、ゆえにこれによって",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "cum",
+					"type": "root",
+					"meaning": "with (と共に)",
+					"lang": "Latin"
+				},
+				{
+					"text": "hoc",
+					"type": "root",
+					"meaning": "this (これ)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "Latin for 'with this, therefore because of this'."
+		},
+		"core_concept": {
+			"en": "A logical fallacy that states 'Since event X and event Y happened at the same time, event X must have caused event Y' (correlation does not imply causation)",
+			"ja": "二つの出来事が『共に（with）』あるという相関関係（correlation）を、一方が他方を生み出したという因果関係（causation）と取り違えてしまう論理的虚偽。隣り合わせの孤独を、愛と見間違える知性の錯覚"
+		},
+		"thinking_layer": "『これと共に、ゆえにこれのせいで』。ポスト・ホック（Post hoc/前後）の「同時（with）」版。アイスクリームが売れると溺死者が増える。ゆえにアイスクリームが溺死の原因だ（実際は「暑さ」が共通原因）。「共に（cum）」あることは、必ずしも「原因」を意味しません。しかし、私たちは目の前の「ペア」に、分かちがたい意味を見出さずにはいられない。それは、世界の「孤独な断絶」を否定しようとする、必死な接続（connection）の試み。",
+		"aftertaste": "「成功者（successful people）」たちが共通して持っている習慣が、実は成功の「原因」ではなく単なる「随伴（accompaniment）」に過ぎないかもしれないと疑い、この「クム・ホック（cum hoc）」な欺瞞（deception）に満ちたビジネス書を静かに閉じる、あの知的な覚醒（awakening）。あるいは、自分の隣にいてくれる人が、自分の人生を好転させた「原因」だと信じたいという、この論理的な過ちすらも「愛」と呼びたいと願う、あの静かな午後の祈り。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ko-",
+					"meaning": "together (forming cum-)"
+				}
+			],
+			"points": [
+				"com-, connect, collect 同根。",
+				"『共にある（with）』ことは存在の最大の肯定だが、そこに『因果の主人』という役割を無理やり押し付けることは、その存在の純粋な並列を汚すこと（pollution）でもある。クム・ホック（cum hoc）とは、共生（symbiosis）を支配に変えようとする、知性の傲慢な欲望である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "ad-hominem",
+		"word": "Ad hominem",
+		"part_of_speech": "noun/adjective",
+		"meaning": "人身攻撃（の誤謬）、人に向かって、論駁（ろんばく）が論点そのものではなく発言者に向けられること",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "ad",
+					"type": "root",
+					"meaning": "to (〜へ)",
+					"lang": "Latin"
+				},
+				{
+					"text": "hominem",
+					"type": "root",
+					"meaning": "man (人)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "Latin for 'to the man'."
+		},
+		"core_concept": {
+			"en": "(of an argument or reaction) directed against a person rather than the position they are maintaining",
+			"ja": "議論そのものの正しさではなく、語っている者の『人物（man）』へと矛先を『向け（to）』、その尊厳を傷つけることで正しさを奪おうとする、野蛮で卑劣な論法。知性が『暴力』へと退化した、対話の墓場"
+		},
+		"thinking_layer": "『人に向かって』。ホーム（Home/人間の定住地？とは関係なく）、ヒューマン（Human/人間）、ホミサイド（Homicide/殺人）と同根。語源は「人へ」。正しい指摘であっても、それが「気に入らない奴」の口から出た瞬間に「間違い」だとしたくなる、醜い心の動き。それは、真理（truth）を求めることを止め、他者を「屈服（submission）」させることそのものに目的がすり替わった、知性の堕落。 ",
+		"aftertaste": "白熱したSNSのやり取りの中で、言葉の論理性（logic）が失われ、ただ相手の過去や人格を攻撃し合う「アド・ホミネム（ad hominem）」の戦場と化した画面を眺め、人間がいかに「理性」という薄い氷の上で踊っているかを痛感する、あの底冷えのするような虚脱感。あるいは、自分の正論が「お前が言うな」という一言で封じられた時の、この「人身攻撃（ad hominem）」という名の壁の分厚さに立ち尽くす、あの冷淡な沈黙。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "dhghem-",
+					"meaning": "earth (forming homo/earthling)"
+				}
+			],
+			"points": [
+				"human, humble, humiliate, chamomile 同根。",
+				"『人間（homo）』とは本来は『大地（earth）』から生まれた謙虚な（humble）存在だが、議論において『人（man）』を攻撃対象に選ぶとき、その謙虚さは失われ、知性は自らを『神』の座に置こうとする傲慢（hubris）へと変質する。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
