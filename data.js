@@ -272199,5 +272199,191 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "carbonization",
+		"word": "Carbonization",
+		"part_of_speech": "noun",
+		"meaning": "炭化（たんか）、乾留",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "carbo",
+					"type": "root",
+					"meaning": "charcoal, ember (炭、残り火)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin carbo 'charcoal'."
+		},
+		"core_concept": {
+			"en": "The conversion of an organic substance into carbon or a carbon-containing residue through destructive distillation",
+			"ja": "あらゆる不純物を焼き払い、黒光りする『本質（carbon）』だけを抽出する峻烈な浄化。生の痕跡を消し去り、死（residue）を以て永遠の構造を獲得する、知的な『黒の変容』"
+		},
+		"thinking_layer": "『炭にすること』。カーボン（Carbon/炭素）、カルボナーラ（Carbonara/炭焼き職人風）と同根。語源は「残り火」。ただの「燃焼（combustion）」ではありません。そこには。「外部からの激しい熱（stress）を糧にして、崩れ去るのではなく、より純粋で堅固な『核』へと凝縮する」という、不屈の錬金術が宿っています。それは。知性が過酷な現実に直面し、余計な感情を削ぎ落として、ただ一つの「不動の真理」へと昇華してゆくプロセスのメタファー。",
+		"aftertaste": "太古の森がこの「炭化（carbonization）」を経て、漆黒のダイヤモンド（coal）へと変わる悠久の時間を想い、自分という存在もいつかこのような「美しい硬度」へと到達できるのだと確信する、あの知的な平安。あるいは、自分の言葉が、この「カーボナイゼーション」のように、不要な虚飾をすべて焼き尽くした、純粋で力強い「黒のエッセンス」でありたい、と願う、あの静かな午後の自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ker-",
+					"meaning": "heat, fire (forming carbo)"
+				}
+			],
+			"points": [
+				"carbon, ceramic, hearth, cream（？） 同根。",
+				"『熱（heat）』は破壊者であり、同時に創造者である。炭化は、生命がいかにして自らの消滅（death）を、新しい有用性（energy source）へと再定義してきたかを示す、冷徹な化学の勝利である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "annealing",
+		"word": "Annealing",
+		"part_of_speech": "noun",
+		"meaning": "焼なまし、アニーリング、再結晶",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "an-",
+					"type": "prefix",
+					"meaning": "on (〜の上に)"
+				},
+				{
+					"text": "aelan",
+					"type": "root",
+					"meaning": "to kindle, burn (点かす、燃やす)', from Old English"
+				}
+			],
+			"original_statement": "From Old English an 'on' + aelan 'to burn, bake'."
+		},
+		"core_concept": {
+			"en": "A heat treatment that alters the physical and sometimes chemical properties of a material to increase its ductility and reduce its hardness",
+			"ja": "激しい熱（heat）によって内部の緊張（stress）を解き放ち、しなやかな強靭さを取り戻す『癒やしの再調整』。組織の傷跡を癒やし、再び形を変える権利（ductility）を奪還する、知的な『リセットの儀式』"
+		},
+		"thinking_layer": "『火の上に乗せること』。おなじみ「アニール（Anneal）」と同根。語源は「点火、焼成」。ただの「冷却」ではありません。そこには。「硬すぎて脆くなった心（brittleness）を、あえて再び『熱（苦悩）』の中に投げ入れることで、真の柔軟性（resilience）を回復させる」という、峻烈な再生の知恵が宿っています。それは。知性が自らのドグマを一度解体し、より広い世界を受け入れるための「しなやかな筋肉」を作り直す瞬間のメタファー。",
+		"aftertaste": "鍛造（forging）の過酷な打撃を終えた金属が、この「焼なまし（annealing）」によって息を吹き吹き、再び「自由」を手にする様子を想像し、自分もまた、休息（rest）という名の「アニーリング」によって、明日の戦いのためのしなやかさを蓄えているのだと感謝する、あの知的な平安。あるいは、自分の思考が、この「アニーリング」のように、外部の冷徹な重圧すらも自らを整えるための「温かな糧」へと変換できる優雅さを備えていたい、と願う、あの静かな夜の自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "aid-",
+					"meaning": "to burn, shine (forming aelan)"
+				}
+			],
+			"points": [
+				"edifice, ether, aesthetic 同根。",
+				"『燃やす（burning）』ことは、変化を強制することである。アニーリングという言葉には、生命が一度獲得した『秩序（結晶構造）』を、より高次の柔軟性のために、あえて『流動性』へと差し出すという、勇気ある退却の論理が秘められている。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "tempering",
+		"word": "Tempering",
+		"part_of_speech": "noun",
+		"meaning": "焼き戻し、テンパリング、加減すること、調律",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "temperare",
+					"type": "root",
+					"meaning": "to mix, restrain, keep in due measure (混ぜる、抑える、適度に保つ)', from Latin"
+				}
+			],
+			"original_statement": "From Latin temperare 'to mingle'."
+		},
+		"core_concept": {
+			"en": "The process of improving the hardness and elasticity of (steel or other metal) by reheating and then cooling it",
+			"ja": "極限の硬さ（hardness）と、折れない粘り（toughness）を、絶妙な秤（scales）で調和させる『中庸の追求』。激しすぎる感情を理性の水で鎮め、真の意味で使い物になる『道具』へと自分を鍛え上げる、知的な『調律』"
+		},
+		"thinking_layer": "『適度に保つこと』。テンパー（Temper/気質）、テンパランス（Temperance/節制）、おなじみの「テンポラリー（Temporary/時の、間に合わせの）」と同根。語源は「混ぜ合わせる」。ただの「強化」ではありません。そこには。「強すぎる（too hard）ことは脆い（brittle）ことである」という、峻烈な逆説を理解した者の美学が宿っています。それは。知性が自らの情熱を、冷静な「加減（moderation）」によってコントロールし、永劫（long-term）の戦いに耐えうる「鋼の意志」へと昇華させる瞬間のメタファー。",
+		"aftertaste": "熱された刃（blade）が水に飛び込み、激しい音を立ててこの「焼き戻し（tempering）」を完了させる瞬間に立ち会い、自分の中に眠る「未完成の鋼」が、いつか決定的な一撃を放つための「真実の硬度」を帯びる日を想う、あの知的な充足。あるいは、自分の言葉が、この「テンパリング」のように、鋭利でありながらも、決して誰かの刃で折れることのない「強靭な誠実さ」を宿していることを信じる、あの静かな午後の自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "temp-",
+					"meaning": "to stretch, time/measure (uncertain linkage to temperare)"
+				}
+			],
+			"points": [
+				"temple, time, temporal, tempo 同根。",
+				"『時間（time）』と『節度（measure）』は分かちがたく結びついている。焼き戻しは、物理的な時間というスパイスを加えることで、物質がいかにして『永続性』を獲得するかを示す、工学的な円熟（maturity）の詩である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "vitrification",
+		"word": "Vitrification",
+		"part_of_speech": "noun",
+		"meaning": "硝子化（しょうしか）、ガラス化",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "vitrum",
+					"type": "root",
+					"meaning": "glass (ガラス)', from Latin"
+				},
+				{
+					"text": "facere",
+					"type": "root",
+					"meaning": "to make (作る)', from Latin"
+				}
+			],
+			"original_statement": "From Latin vitrum 'glass' + facere 'make'."
+		},
+		"core_concept": {
+			"en": "The transformation of a substance into a glass, typically by rapid cooling of a liquid, or by a chemical reaction with another substance",
+			"ja": "カオス（liquid）を一瞬で凍てつかせ、透明な『静止（stillness）』へと固定する、峻烈な魔法。流動性を永遠に剥奪し、光を透過させる『非晶（amorphous）』の美学を打ち立てる、知的な『宝石化』"
+		},
+		"thinking_layer": "『ガラスにすること』。ビトロ（In Vitro/試験管内で）、おなじみ「ファクト（事実、作る）」と同根。語源は「ガラスを作る」。ただの「凝固（freezing）」ではありません。そこには。「不揃いな分子の並び（chaos）を、そのままで完璧な秩序（transparency）として肯定する」という、強引で美しい実存の響きが宿っています。それは。知性が混乱するアイディアの断片を、一瞬の閃き（flash）によって、透明で難攻不落の「理論の結晶」へと固定する瞬間のメタファー。",
+		"aftertaste": "「硝子化（vitrification）」された細胞が、数万年の眠りを経てもなお、生きていた当時の「記憶（DNA）」を完璧に保存していることに驚嘆し、自分という存在がいかに「透明な時間のカプセル」であるかを知って息を吞む、あの知的な平安。あるいは、自分の思考もまた、この「ビトリフィケイション」のように、激動する世界を一瞬で「透明な真理」へと昇華させる、凍てつくような冷徹さと美しさを備えていたい、と願う、あの静かな夜の自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "gwhel-",
+					"meaning": "to shine, gleam (forming vitrum - from its shining property)"
+				}
+			],
+			"points": [
+				"gleam, glass, glaze, yellow（？） 同根。",
+				"『光る（shining）』ことは、自らの一部を光へと差し出すことである。硝子化は、生命が自らの流動性を、光を透過させるための『犠牲』として差し出すことで得られる、最も静かで、最も眩しい勝利の形式である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "galvanization",
+		"word": "Galvanization",
+		"part_of_speech": "noun",
+		"meaning": "ガルバニゼーション、亜鉛メッキ、（人などを）奮起させること",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "Galvani",
+					"type": "root",
+					"meaning": "Luigi Galvani (physicist who studied bioelectricity)'"
+				},
+				{
+					"text": "-ize",
+					"type": "suffix",
+					"meaning": "to make (〜化する)"
+				}
+			],
+			"original_statement": "From the name of Luigi Galvani."
+		},
+		"core_concept": {
+			"en": "The process of applying a protective zinc coating to steel or iron, or the stimulation of action by shock or excitement",
+			"ja": "錆びゆく運命（iron）を拒絶し、一滴の電撃（shock）によって自らを『不滅（protected）』へと作り変える、強靭な身振り。静止した思考に激しい躍動（excitement）を呼び込み、一気に全体を『覚醒』させる、知的な『電気的な連帯』"
+		},
+		"thinking_layer": "『ガルヴァーニ化すること』。ガルヴァニック（Galvanic/ガルバニ電池の）、おなじみ「～イズ（～化する）」と同根。語源は「物理学者ガルヴァーニ」。ただの「メッキ（plating）」ではありません。そこには。「外部からの激しい刺激を、自らを錆から守るための『鎧』へと変換する」という、能動的な反発の意志が宿っています。それは。知性が無気力（lethargy）という名の腐食（rust）を振り払い、一つの大きなアイディアによって、全身の血を沸騰（boil）させる瞬間のメタファー。",
+		"aftertaste": "冷たい機械がこの「ガルバニゼーション（galvanization）」によって激しく火花を散らし、あたかも一つの「生命」を宿したかのように動き出す様子に、テクノロジーと生命の境界が溶け合う（merging）不思議な興奮を覚える、あの峻烈な一呼吸。あるいは、自分の言葉が、誰かの凍てついた心をこの「ガルバニゼーション」のように奮起させ、明日へと突き進むための「不滅の火花」を灯すことができればと願う、あの静かな午後の自尊心。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"カエルの脚に電気を流して動かしたガルヴァーニの実験は、生命と電気の密接な関係を暴き出した。この言葉は、今や『守る（coating）』ことと『奮わせる（stimulating）』という、一見正反対の意味を同居させている。",
+				"『錆（rust）』は時間による忘却である。ガルバニゼーションは、その忘却に対して、物理的、あるいは精神的な『電撃』を以て抗い続ける、不屈の記憶術である。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
