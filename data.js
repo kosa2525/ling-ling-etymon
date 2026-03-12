@@ -260705,5 +260705,205 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "enthymeme",
+		"word": "Enthymeme",
+		"part_of_speech": "noun",
+		"meaning": "省略三段論法、エンチュメーマ",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "en-",
+					"type": "prefix",
+					"meaning": "in (〜の中に)"
+				},
+				{
+					"text": "thūmos",
+					"type": "root",
+					"meaning": "mind, spirit (心、精神)",
+					"lang": "Greek"
+				}
+			],
+			"original_statement": "From Greek enthumēma, from en- 'in' + thūmos 'mind'."
+		},
+		"core_concept": {
+			"en": "An argument in which one premise is not explicitly stated",
+			"ja": "前提の一部を敢えて語らず、相手の『心の内（in mind）』にある了解に委ねることで、議論をより鋭く、より説得力のあるものに変える知的な『省略の技法』。共犯関係としての論理"
+		},
+		"thinking_layer": "『心の中に持っているもの』。タイム（Thyme/香りの良いハーブ＝精神を鼓舞するもの？）はおそらくな。語源は「心の中にある」。三段論法（Syllogism）の前提を一つ隠すことで、聞き手が無意識にそれを補完（complement）するように仕向けます。それは「言わぬが花」の論理版であり、相手を自分の思考回路に引きずり込むための、最も強力で、最も危険な武器（rhetorical device）。",
+		"aftertaste": "誰かの鮮やかな説得（persuasion）に納得したあと、ふとその議論の「欠けている前提（missing premise）」に気づき、自分が無意識のうちに相手の意図（intent）に踊らされていたことを知る、あの知的な敗北感とゾッとするような快感。あるいは、自分の信念の根底に、この「省略された前提（enthymeme）」が潜んでいるのではないかと疑う、あの冷ややかな内省。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "dheu-",
+					"meaning": "to flow, smoke (forming thumos/vital spirit)"
+				}
+			],
+			"points": [
+				"fume, thurifer（香炉を運ぶ人）, enthusiasm（神が心の中にいる）と同根。",
+				"『論理（logic）』とは本来すべてを露呈（exposure）させることだが、エンチュメーマ（enthymeme）はその一部を『心（mind）』というブラックボックスに隠すことで、言葉に磁力（magnetism）を与える。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "sorites",
+		"word": "Sorites",
+		"part_of_speech": "noun",
+		"meaning": "連結三段論法、ソリテス、推論の連鎖",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "sōros",
+					"type": "root",
+					"meaning": "heap, pile (積み重ね)",
+					"lang": "Greek"
+				}
+			],
+			"original_statement": "From Greek sōritēs, from sōros 'heap'."
+		},
+		"core_concept": {
+			"en": "A form of argument in which a series of incomplete syllogisms is so arranged that the predicate of each premise forms the subject of the next",
+			"ja": "前提を次々と『積み重ね（heap）』、連鎖させることで、一見無関係に見えるＡとＺを鋼のような論理の鎖で繋ぐ『連結推論』。あるいは、一粒の砂がいつ『山』になるのかという、境界線の消滅のパラドックス"
+		},
+		"thinking_layer": "『積み重ねられたもの』。語源の「Soros」は、おなじみの「ソリテス・パラドックス（砂山のパラドックス）」の由来でもあります。一滴の水が海になり、一言の嘘が巨大な悲劇へと連鎖してゆく。ただの「連鎖（chain）」ではなく、そこに「質量としての圧力」が宿っています。それは、一度始まったら止めることのできない、論理の雪崩（avalanche）。",
+		"aftertaste": "あまりにも完璧な「論理の連鎖（sorites）」によって、自分の想像もしていなかった極端な結論（conclusion）へと引きずり回され、自分が鎖に繋がれた囚人になったかのように感じる、あの無力な恍惚。あるいは、砂の一粒、一粒は無害なのに、それが「積み重なった山（sorites heap）」になった瞬間に、自分の重みで崩壊し始める、あの不気味な臨界点の予感。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "twer-",
+					"meaning": "to rotate, hold (forming soros? - uncertain)"
+				}
+			],
+			"points": [
+				"諸説あるが、古い情報の『蓄積（storing）』が、それ自体で独自の重力を持つという古代人の洞察。",
+				"『真理（truth）』とは安定した点ではなく、積み重なり（heaping）続けることで常に変化してゆく『動的な境界線』である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "epicheirema",
+		"word": "Epicheirema",
+		"part_of_speech": "noun",
+		"meaning": "付証三段論法、前提に証明を伴う三段論法",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "epi-",
+					"type": "prefix",
+					"meaning": "upon, in addition (〜に加えて)"
+				},
+				{
+					"text": "kheir",
+					"type": "root",
+					"meaning": "hand (手)",
+					"lang": "Greek"
+				}
+			],
+			"original_statement": "From Greek epikheirēma 'attempt, operation', from epi- 'upon' + kheir 'hand' (to put one's hand to)."
+		},
+		"core_concept": {
+			"en": "A syllogism in which at least one of the premises is accompanied by a supporting reason or proof",
+			"ja": "一つの命題を述べるたびに、間髪入れずにその『証拠（proof）』を横に添え、相手に反論の余地を与えない『重装備の三段論法』。議論に『手をかける（put hand to）』、能動的で説得的な攻撃"
+		},
+		"thinking_layer": "『（議論に）手をかけること』。カイロプラクティック（Chiropractic/手による治療）やキログロフ（Chirograph/自筆証書）、サージャン（Surgeon/手で働く人＝外科医）と同根。語源は「企て、着手」。ただの「理屈」ではなく、そこに「補強（reinforcement）」と「実行の意志」が宿っています。それは、一つ一つのレンガが鉄筋で補強された、崩しようのない要塞のような論理。 ",
+		"aftertaste": "相手の「付証三段論法（epicheirema）」の密度（density）に圧倒され、自分の反論（rebuttal）が単なる虚空を掴むような「手のひら（kheir）」の空しさに終わるのを、ただ受け入れる時の、あの知的な静止。あるいは、自分の信念を支えるために、あまりにも多くの「理由（reasons）」を付け加えすぎ、身動きが取れなくなっている自分に気づく、あの窮屈な自意識の檻。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "gher-",
+					"meaning": "to grasp, take (forming kheir)"
+				}
+			],
+			"points": [
+				"hand, surgery, chirography, chiromancy（手相占い）と同根。",
+				"『議論（argument）』とは、空中にある『意味』を自分の『手（hand）』で掴み取り、それを確実に固定（establishing）する営みである。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "polysyllogism",
+		"word": "Polysyllogism",
+		"part_of_speech": "noun",
+		"meaning": "多段三段論法、多くの前提を持つ推論",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "poly-",
+					"type": "prefix",
+					"meaning": "many (多くの)"
+				},
+				{
+					"text": "syllogismos",
+					"type": "root",
+					"meaning": "syllogism (三段論法)",
+					"lang": "Greek"
+				}
+			],
+			"original_statement": "From poly- 'many' + syllogism."
+		},
+		"core_concept": {
+			"en": "A series of syllogisms so linked that the conclusion of one becomes a premise of the next",
+			"ja": "『多くの（many）』思考の歯車（syllogisms）が噛み合い、ある結論が次の問いの種火（premise）となって燃え広がる、終わりのない思考のパノラマ。巨大な論理のミル、あるいは多段ロケットの推進力"
+		},
+		"thinking_layer": "『多くの三段論法』。ポリマー（Polymer/多量体）やポリグロット（Polyglot/多言語話者）と同根。一つの結論が出ても、それは旅の終わりではなく、次のより高い次元の推論への「踏み台」に過ぎません。それは、極限まで高められた知性が、天空の城（Absolute Truth/絶対真理）を目指して一段ずつ、しかし止まることなく登り続ける、眩暈（めまい）のするような階段。",
+		"aftertaste": "この「多段推論（polysyllogism）」の頂上に辿り着いた時、最初に出発した場所があまりにも遠くに見え、自分が全く別の「存在」へと作り変えられてしまったと悟る、あの静かな戦慄と高揚。あるいは、どんなに推論を重ねても（many syllogisms）、結局のところ自分は「自分」という円（cycle）をぐるぐると回っているだけなのではないかという、冷ややかな疑念。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "spel-",
+					"meaning": "many (forming poly-)"
+				}
+			],
+			"points": [
+				"plural, plus, policy, police 同根。",
+				"『数（number）』とは量的な増加ではなく、それが『層（layer）』となって重なることで、まったく新しい『質（quality）』が生み出されるという、知的な飛躍の表現である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "prosyllogism",
+		"word": "Prosyllogism",
+		"part_of_speech": "noun",
+		"meaning": "前段三段論法、後段の前提を証明する前の三段論法",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "pro-",
+					"type": "prefix",
+					"meaning": "before (〜の前に)"
+				},
+				{
+					"text": "syllogismos",
+					"type": "root",
+					"meaning": "syllogism (三段論法)",
+					"lang": "Greek"
+				}
+			],
+			"original_statement": "From pro- 'before' + syllogism."
+		},
+		"core_concept": {
+			"en": "A syllogism whose conclusion forms a premise of a following syllogism",
+			"ja": "本命の議論（main argument）の『前に（before）』立ちふさがり、その正当性を担保するための『伏線の推論』。土台を固めるための静かな仕事、あるいは、主役が登場するための露払いとしての理屈"
+		},
+		"thinking_layer": "『前の三段論法』。プロローグ（Prologue/前口上）やプロフェッサー（Professor/前で話す人）、プロスペクト（Prospect/前を見る）と同根。メインディッシュの前に出される「前菜（appetizer）」のようなもの。しかしこれが毒されていれば、後のすべてが崩壊します。それは、一見地味だが全体を支配する「隠れた力」、あるいは、自分の行動の裏に隠されている「真の動機（hidden premise）」。",
+		"aftertaste": "誰かの鮮やかな主張の背後に、この「前段推論（prosyllogism）」が鉄壁の構えで控えているのを見抜いた時の、相手の「隙のなさ（impenetrability）」への深い敬意と恐怖。あるいは、自分の何気ない一歩（act）が、実は何年も前から積み重ねてきた「前段の論理（prosyllogism）」の帰結（consequence）であったと気づいた時の、運命という名の巨大な製織機を感じる、あの厳かな沈黙。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "per-",
+					"meaning": "forward (forming pro-)"
+				}
+			],
+			"points": [
+				"first, priest, prime, prior 同根。",
+				"『前（before）』とは単なる時間の順序ではなく、後の存在に『意味』と『制約』を与え、方向性を決定づける『始原の力』の座である。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
