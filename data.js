@@ -259239,5 +259239,277 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "casuistry",
+		"word": "Casuistry",
+		"part_of_speech": "noun",
+		"meaning": "決疑論、詭弁（きべん）、目先を変えた理屈",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "casus",
+					"type": "root",
+					"meaning": "case, chance (事例、偶然)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin casus 'case'."
+		},
+		"core_concept": {
+			"en": "The use of clever but unsound reasoning, especially in relation to moral questions; sophistry",
+			"ja": "個々の具体的な『事例（case）』を微細に分析し、普遍的な道徳法則（moral law）から巧妙に逃れるための理屈付け。知性を使った『言葉の逃げ道』"
+		},
+		"thinking_layer": "『事例に基づく議論』。ケース（Case）やカジュアルバリティ（Casual/偶然の、何気ない）と同根。もとは良心の葛藤を解決する真面目な神学的な手法でしたが、現代では「詭弁（sophistry）」に近いニュアンスで使われます。それは、「この場合は例外だ」という理屈を無限に作り出し、自分の行動を正当化（justify）しようとする、人間の弱さと賢さの混濁。",
+		"aftertaste": "完璧に筋が通っているようでいて、心の奥底では「何かが根本的に間違っている」と感じさせる、あの不誠実な「論理の迷宮（casuistry）」に閉じ込められた時の、知的な閉塞感。あるいは、自分の過ちを認められず、この「決疑論（casuistry）」を駆使して自分を騙（だま）している瞬間の、薄味の自己嫌悪。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kad-",
+					"meaning": "to fall (forming casus/what falls/happens)"
+				}
+			],
+			"points": [
+				"accident, casual, decay, occasion, chance 同根。",
+				"『現実に起きたこと（casus/case）』は常に複雑であり、その複雑さを利用して『真理』を歪めることができる。それは、知性が持つ最も根源的な『傲慢さ』の一つである。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "paralogy",
+		"word": "Paralogy",
+		"part_of_speech": "noun",
+		"meaning": "誤論、不当推論、不合理な推論",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "para-",
+					"type": "prefix",
+					"meaning": "beside, beyond (〜のそばに、〜を超えて)"
+				},
+				{
+					"text": "logos",
+					"type": "root",
+					"meaning": "reason, word (理屈、言葉)",
+					"lang": "Greek"
+				}
+			],
+			"original_statement": "From Greek paralogia, from para- 'beside' + logos 'reason'."
+		},
+		"core_concept": {
+			"en": "Reasoning which is contrary to the rules of logic",
+			"ja": "正しい『論理（logos）』の『そばを通り過ぎる（beside）』だけで、決して正解に到達することのない、意図せぬ思考の脱線。無意識のうちに真理を逸脱してしまう、知性の脆（もろ）さ"
+		},
+		"thinking_layer": "『論理の隣にあるもの』。パラドックス（Paradox/逆説）やパラレル（Parallel/平行）、ロゴ（Logo/言葉）と同根。ソフィストリー（Sophistry）が「意図的な騙し」なら、パラロジーは「うっかりした間違い（false reasoning）」に近い。それは、あまりにも自分の願望が強すぎて、論理が勝手に捻（ね）じ曲がってしまった状態。知性の「バグ」のようなもの。",
+		"aftertaste": "自信満々に導き出した結論が、実は単純な計算違いや偏見（bias）に基づいた「誤論（paralogy）」であったと指摘された時の、あの地面が崩れ去るような羞恥（shame）と困惑。あるいは、他人の「支離滅裂な理屈（paralogical argument）」の中に、本人も気づいていない「心の叫び」のかけらを見出してしまった時の、複雑な憐れみ。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "leg-",
+					"meaning": "to collect, speak (forming logos)"
+				}
+			],
+			"points": [
+				"analogy, dialogue, apology, theology 同根。",
+				"『論理（logic）』とは、バラバラな事象を正しく『集める（collecting）』ことであり、パラロジー（paralogy）とは、その収集の過程で『異物』が混入してしまった、不純な思考のことである。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "aphorism",
+		"word": "Aphorism",
+		"part_of_speech": "noun",
+		"meaning": "格言、警句、アフォリズム",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "apo-",
+					"type": "prefix",
+					"meaning": "from, away (〜から、〜を離れて)"
+				},
+				{
+					"text": "horizein",
+					"type": "root",
+					"meaning": "to bound, limit (境界を引く)",
+					"lang": "Greek"
+				}
+			],
+			"original_statement": "From Greek aphorismos, from aphorizein 'define', from apo- 'from' + horizein 'limit'."
+		},
+		"core_concept": {
+			"en": "A pithy observation that contains a general truth, such as, “if it ain't broke, don't fix it.”",
+			"ja": "複雑で混沌とした真理の中から、本質的な輝きだけを『切り離し（from）』、簡潔な言葉の中に『境界（limit）を定めて』閉じ込めたもの。短くも鋭い、思考の結晶"
+		},
+		"thinking_layer": "『境界を引くこと』。ホライズン（Horizon/地平線＝境界線）と同根。一冊の本の内容を一言で凝縮したもの。ただの「ことわざ（proverb）」よりも、より個人的で、知的で、毒を含んでいることが多い。それは、長い思索の果てに辿り着いた、もはやこれ以上削ることのできない「究極の、しかし不完全な真理」。",
+		"aftertaste": "一冊の名著を読み終えて、最後に見つけた一言の「格言（aphorism）」が、それまでの数時間の読書体験のすべてを鮮やかに上書きしてしまった時の、あの身体が軽く震えるような感動。あるいは、自分の苦い経験を、たった一行の「警句（aphorism）」として書き留めた時の、自分の痛みが「歴史の一部」になったかのような、静かな救済。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "wer-",
+					"meaning": "to cover, protect (forming horizein?)"
+				}
+			],
+			"points": [
+				"horizon, horizontal 同根。",
+				"『真理（truth）』とはどこまでも広がる地平線（horizon）のようなものであり、アフォリズム（aphorism）はその無限の広がりを、人間の『手のひらサイズ』へと強引に縮小したものである。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "maxim",
+		"word": "Maxim",
+		"part_of_speech": "noun",
+		"meaning": "格言、処世訓、座右の銘",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "maxima",
+					"type": "root",
+					"meaning": "greatest, largest (最大の、最高の)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin maxima (propositio) 'greatest (proposition)'."
+		},
+		"core_concept": {
+			"en": "A short, pithy statement expressing a general truth or rule of conduct",
+			"ja": "数ある命題の中で、最も重要で『最大（maxima）』の価値を持つもの。、人生を迷いなく歩むための導べとしての『行動のルール』。思考ではなく、実行されるための言葉"
+		},
+		"thinking_layer": "『最大の（命題）』。マキシマム（Maximum）やマックス（Max）と同根。アフォリズムが「観察」なら、マキシムは「指針」です。それは「常に誠実であれ」のような、自分を縛り、同時に自由にするための言葉。重力に逆らって生きるための、自分自身に向けた「法典（code）」。",
+		"aftertaste": "困難な決断を迫られた時、自分の中に持っている「座右の銘（maxim）」を呪文のように繰り返し、震える足で一歩を踏み出す時の、あの言葉が持つ物理的な「支え」の感覚。あるいは、自分が大切にしていた「訓え（maxim）」が、実は他人の価値観の模倣（imitation）に過ぎなかったと気づいた時の、自分が空っぽの器になったかのような、乾いた寂しさ。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "mag-",
+					"meaning": "great"
+				}
+			],
+			"points": [
+				"major, majesty, magnificent, master 同根。",
+				"『言葉』とは本来は虚空（void）に消え去るものだが、そこに『最上位の価値（maxima）』を置くことで、それは人生という建築を支えるための『礎石（foundation stone）』へと変わる。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "lemma",
+		"word": "Lemma",
+		"part_of_speech": "noun",
+		"meaning": "補題（ほだい）、補助定理、見出し語",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "lambanein",
+					"type": "root",
+					"meaning": "to take (取る、受け取る)",
+					"lang": "Greek"
+				}
+			],
+			"original_statement": "From Greek lēmma 'something taken', from lambanein 'take'."
+		},
+		"core_concept": {
+			"en": "A subsidiary or intermediate theorem in an argument or proof; a heading, especially a word considered as a lexical unit in a dictionary",
+			"ja": "大きな真理（主定理）を証明するために、あらかじめ『受け取って（take）』、脇に置いておくべき小さな真理。準備としての知恵、あるいは、思考の広大な海の中での『目印（heading）』"
+		},
+		"thinking_layer": "『受け取ったもの』。ジレンマ（Dilemma/二つの、受け取りたくない選択肢）と同根。数学の証明などで出てくる地味な存在ですが、レマがなければ頂上（theorem）には登れません。それは、巨大な嘘を見破るための、小さな「違和感」のかけら。あるいは、辞書の中の一つの「単語（entry）」。",
+		"aftertaste": "何日も迷い続けた難問が、たった一つの「補助定理（lemma）」を見つけ出した瞬間に、ドミノ倒しのように解けてゆく、あの霧が晴れるような快感。あるいは、自分の人生という物語の「見出し（lemma）」が、あまりにも単純な一言であったと気づいた時の、拍子抜けしたような、しかし深く満ち足りた納得感。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "slagu-",
+					"meaning": "to seize, take"
+				}
+			],
+			"points": [
+				"syllable（共に取る＝音節）, epilepsy（掴み取られる＝てんかん）と同根。",
+				"『理解（understanding）』とは、提示された情報をただ受動的に眺めることではなく、自らの手で『掴み取る（take）』ことであり、レマはそのための『取っ手（handle）』である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "reductio",
+		"word": "Reductio",
+		"part_of_speech": "noun",
+		"meaning": "帰謬法（きびゅうほう）、背理法、縮小、還元",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "re-",
+					"type": "prefix",
+					"meaning": "back (後ろへ)"
+				},
+				{
+					"text": "ducere",
+					"type": "root",
+					"meaning": "to lead (導く)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin reductio, from reducere 'bring back'."
+		},
+		"core_concept": {
+			"en": "The reduction of a problem to a simpler or more basic form",
+			"ja": "相手の主張を一度受け入れ、それを極端な結末へと『後ろに導く（lead back）』ことで、その矛盾（absurdity）を暴き出す論法。あるいは、複雑な現実を、最も単純な一要素へと無理やり『還元（reduce）』する、峻烈な簡略化の意志"
+		},
+		"thinking_layer": "『後ろへ導くこと』。リデュース（Reduce/減らす）やイントロデュース（Introduce/内へ導く）、ダクト（Duct/導管）と同根。レドゥクティオ・アド・アブスルドゥム（背理法）。賢い（が性格の悪い）議論の武器。相手の理屈をそのまま延長し、「じゃあ、こうなっちゃうけどいいの？」と突きつける。それは、正しさの皮を被った「嘘」を、その重み自身で崩壊させる、知的な柔術。",
+		"aftertaste": "自分の苦労して積み上げた論理が、相手の「帰謬法（reductio）」によって、わずか一行で「滑稽な矛盾（absurdity）」へと変えられてしまった時の、あの血の気の引くような敗北感。あるいは、世界の複雑さを「お金」や「遺伝子」のような、たった一つの要素に「還元（reductio）」して理解したつもりになっている、自分の知性の浅ましさへの不意の嫌悪。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "deuk-",
+					"meaning": "to lead"
+				}
+			],
+			"points": [
+				"duke, educate, duct, seduce, produce 同根。",
+				"『導く（leading）』とは本来は前進を意味するが、それを『逆転（re-）』させることで、誤った出発点（premise）へと回帰させ、自浄作用を促すことができる。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "non-sequitur",
+		"word": "Non-sequitur",
+		"part_of_speech": "noun",
+		"meaning": "不当な推論、無関係な発言、話の脈絡のなさ",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "non",
+					"type": "prefix",
+					"meaning": "not (〜でない)"
+				},
+				{
+					"text": "sequitur",
+					"type": "root",
+					"meaning": "it follows (それは続く、従う)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin non sequitur 'it does not follow'."
+		},
+		"core_concept": {
+			"en": "A conclusion or statement that does not logically follow from the previous argument or statement",
+			"ja": "前の言葉から論理的に『続かない（does not follow）』、唐突な発言や結論。階段を一段飛ばして空中に足を出すような、思考の『断絶』。あるいは、意図せぬユーモアとしての『支離滅裂』"
+		},
+		"thinking_layer": "『それは従わない』。シーケンス（Sequence/順序）や、おなじみの「ノン（否定）」、セカンド（Second/二番目に続くもの）と同根。Ａだ、だからＢだ。しかしそのＢが、Ａとは全く関係ない場所から降ってきた時、人は「ノン・セクウィトゥル（non-sequitur）」の戸惑いを感じます。それは議論の破壊であり、同時に「シュールな笑い」の源泉。",
+		"aftertaste": "深刻な議論の最中に、誰かが全く「脈絡のない（non-sequitur）」冗談を放ち、その場の空気が一瞬で別の色彩に染め替えられてしまった時の、あの呆れと、どこか救われたような開放感。あるいは、自分の人生の出来事たちが、何の「論理的な繋がり（sequence）」もなく、ただバラバラに起きているだけだと悟った時の、星空を見上げるような、冷たくて自由な沈黙。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sekw-",
+					"meaning": "to follow"
+				}
+			],
+			"points": [
+				"sequel, consequence, suit, execute, society（運命を共にする仲間＝従う人）と同根。",
+				"『意味（meaning）』とは言葉の『連続性（following）』によって生まれるものであり、その糸を断ち切る『不連続（non-sequitur）』こそが、知性にとって最大の『謎』であり『休息』でもある。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
