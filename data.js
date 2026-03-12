@@ -258754,5 +258754,253 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "sallow",
+		"word": "Sallow",
+		"part_of_speech": "adjective",
+		"meaning": "（顔色が）血色の悪い、土色の、柳の（sallow tree）",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "salu",
+					"type": "root",
+					"meaning": "dusky, dark (薄暗い、暗い)",
+					"lang": "Old English"
+				},
+				{
+					"text": "salwe",
+					"type": "root",
+					"meaning": "willow (ヤナギ)",
+					"lang": "Middle English"
+				}
+			],
+			"original_statement": "From Old English salu 'dusky, dark', related to Middle English salwe 'willow' (from the yellowish bark)."
+		},
+		"core_concept": {
+			"en": "(of a person's face or complexion) of an unhealthy yellow or pale brown color",
+			"ja": "生命の輝きを失い、不健康な『黄色（yellow）』や『土色（pale brown）』に濁ってしまった顔色。転じて、情熱が枯れ果て、柳の樹皮のように乾いて色あせた精神状態"
+		},
+		"thinking_layer": "『柳のような色の』。サロウ（Sallow/ヤナギの一種）と同根。語源は「薄暗い、濁った」。健康な「赤み（bloom）」が消え、大地の泥や枯れ枝の色が肌を支配していること。それは長時間の過酷な労働から、病魔に蝕（むしば）まれた沈黙、あるいは、深い後悔に囚（とら）われて一切の喜びを失った人の貌（かお）。 ",
+		"aftertaste": "鏡の中に、自分でも驚くほど「血色の悪い（sallow）」自分の顔を見つけ、自分の内側で何かが決定的に壊れ始めていると予感（presentiment）する、あの冷たい朝の戦慄。あるいは、あまりにも退屈で「色あせた（sallow）」人生に飽き飽きし、そこから抜け出すための劇薬を、自分が誰よりも求めていると気づく、あの渇き。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sal-",
+					"meaning": "dirty grey (forming salu/sallow)"
+				}
+			],
+			"points": [
+				"諸説あるが、柳の樹皮（bark）の濁った黄色が、不健康な肌へと例えられた歴史。",
+				"『美』とは常に豊かな『循環（circulation）』の結果であり、サロウ（sallow）とはその循環が停止し、物質としての『重み』だけが残った状態である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "livid",
+		"word": "Livid",
+		"part_of_speech": "adjective",
+		"meaning": "（激怒で）青白い、鉛色の、激怒した、あざのある",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "livere",
+					"type": "root",
+					"meaning": "to be bluish (青みがかっている)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin lividus, from livere 'be bluish'."
+		},
+		"core_concept": {
+			"en": "Furiously angry; dark bluish gray in color",
+			"ja": "怒りのあまり血の気が引き、肌が『青白く（bluish）』変色してしまった、凍りつくような激情。あるいは、打撲の後に残る、死の色彩を孕んだ『鉛色（dark gray）』のあざ"
+		},
+		"thinking_layer": "『青みがかっていること』。スレート（Slate/粘板岩）や、おなじみの「リヴィッド（Livid）」。ただの「赤い怒り（red rage）」ではなく、感情の「圧力」が極限に達し、血管が収縮して血流が止まってしまったような「冷淡な激怒」。それは言葉を失うほどの憎しみから、身体に残された暴力の記憶としてのあざまで。",
+		"aftertaste": "あまりにも理不尽な侮辱を受け、頬が「真っ青に（livid）」染まり、目の前が真っ白になってゆく、あの世界が遠のくような激情。あるいは、鏡の前の自分を殴りつけた後に浮かび上がった、あの「青黒いあざ（livid bruise）」を、他人事のように冷徹に観察している、自分の中のもう一人の自分。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sli-",
+					"meaning": "blue (forming livere)"
+				}
+			],
+			"points": [
+				"諸説あるが、スレート色（slate color）のような無機質な青さが、死や怒りの象徴となったプロセス。",
+				"『色（color）』とは感情の『放射』であり、リヴィッド（livid）とは、生み出された怒りが自らの内部へと『逆流』し、自己を汚染し始めた色である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "rubicund",
+		"word": "Rubicund",
+		"part_of_speech": "adjective",
+		"meaning": "（顔色が）赤みの強い、赤ら顔の、血色が良い",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "ruber",
+					"type": "root",
+					"meaning": "red (赤)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin rubicundus, from rubere 'be red', from ruber 'red'."
+		},
+		"core_concept": {
+			"en": "(especially of someone's face) having a ruddy complexion; high-colored",
+			"ja": "豊かな生命力と幸福感（あるいは多量のお酒）によって、頬が燃えるように『赤く（red）』染まっている様子。溢れ出す健康と、隠しきれない生の充実の色彩"
+		},
+		"thinking_layer": "『赤いこと』。ルビー（Ruby/赤い石）やルージュ（Rouge/口紅）、ルブラ（Rubra/赤いもの）と同根。サロウ（Sallow）の正反対。ただの「赤」ではなく、そこに「内側からの熱」と「満ち足りた（abundant）」感じが宿っています。それは野原を駆け回る子供の頬から、暖炉のそばでワインを楽しむ老人の満面の笑みまで。世界に対する、これ以上ないほど雄弁な「肯定」の色。 ",
+		"aftertaste": "極寒の冬の散歩のあと、暖かい部屋に入って鏡を見ると、自分の顔が「リンゴのように赤く（rubicund）」輝いているのに気づき、自分が今まさに生きているという強烈な実感を噛み締める、あの充足感。あるいは、あまりにも純粋な賛辞を受け、全身の血が顔に集まり、自分が一つの「情熱の塊（rubicund object）」になったように感じる、あの無防備な照れ。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "reudh-",
+					"meaning": "red"
+				}
+			],
+			"points": [
+				"red, rust, ruby, rudimentary 同根。",
+				"『赤（red）』とは人類にとって最初の『生命（blood）』の色であり、ルビカンド（rubicund）とはその命のエネルギーが、皮膚を突き破って外へと溢れ出している状態である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "cerulean",
+		"word": "Cerulean",
+		"part_of_speech": "adjective/noun",
+		"meaning": "濃青色の、空色の、セルリアンブルー",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "caerulum",
+					"type": "root",
+					"meaning": "sky, heavens (空、天)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin caeruleus, variant of caerulum 'sky, heavens'."
+		},
+		"core_concept": {
+			"en": "Deep blue in color like a clear sky",
+			"ja": "雲一つない晴天を、そのまま切り取って液体にしたような、澄み切った『天空（heavens）』の色。地上の濁り（impurity）をすべて忘れさせてくれるような、透明感溢れる絶対的な青"
+		},
+		"thinking_layer": "『空の色の』。おなじみの「セルリアン」。「Caerula（天、空）」から。ただの青ではなく、そこに「広大さ（vastness）」と「超越（transcendence）」が含まれます。それは南の島のサンゴ礁の海、あるいは、高山から見上げる宇宙の入り口。地上のあらゆる重力から解放され、吸い込まれてゆくような、魂の脱出口。",
+		"aftertaste": "初夏の「セルリアンブルー（cerulean sky）」を見上げ、自分のちっぽけな悩みがいかにどうでもいいことかを悟り、深く息を吸い込む時の、あの身体が透き通ってゆくような解放感。あるいは、あまりにも美しい「空色の（cerulean）」ドレスを着た女性が、人混みの中で一際（ひときわ）輝き、そこだけが別の「次元（dimension）」に見えた時の、あの息を呑むような感動。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "koilo-",
+					"meaning": "hollow (forming sky/concave heavens? - uncertain)"
+				}
+			],
+			"points": [
+				"諸説あるが、空を巨大な『中空（hollow）』と捉える言語観が、その色彩を『吸い込まれるような青』として定義した歴史。",
+				"『青（blue）』とは私たちが到達できない『無限（infinity）』の象徴であり、セルリアン（cerulean）はその無限への『招待状』である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "ochre",
+		"word": "Ochre",
+		"part_of_speech": "noun/adjective",
+		"meaning": "黄土、オーカー、黄土色の",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "ōkhros",
+					"type": "root",
+					"meaning": "pale yellow, sallow (薄い黄色、土色の)",
+					"lang": "Greek"
+				}
+			],
+			"original_statement": "From Greek ōkhros 'pale yellow'."
+		},
+		"core_concept": {
+			"en": "An earthy pigment varying from light yellow to brown or red; a moderate yellow-orange color",
+			"ja": "大地を構成する鉄分が酸化し、数万年の時間をかけて作り出した『地球の色』。先史時代の洞窟壁画から現代の夕暮れまでを繋ぐ、最も古く、最も誠実な『土の記憶』"
+		},
+		"thinking_layer": "『薄い黄色の』。サロウ（Sallow）とおそらく遠い親戚。ただの色ではなく、人類が最初に「色彩を所有（own）」した時に使った原初の絵の具。それは、太陽の光を地上の粘土（clay）の中に閉じ込めたような色。派手さはありませんが、そこには揺るぎない「安定」と「歴史」が宿っています。",
+		"aftertaste": "ラスコー洞窟の暗闇で、松明の光に照らし出された「黄土色（ochre）」のバイソンの群れを見つめる時の、あの数万年前の人間と自分の心臓が同期（synchronize）するスペクタクル。あるいは、地平線へと沈んでゆく太陽が、世界全体を一度だけ「オーカー（ochre）」の粉で塗りつぶした瞬間の、あの圧倒的な郷愁（nostalgia）。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"酸化鉄（iron oxide）という、地球上で最も身近な『死（サビ）』が、人類にとって最初の『創造の美（ochre）』となったという、皮肉な逆転。",
+				"『土（earth）』に根ざすことは、文明という不確かな『空（sky）』を生きる私たちが、唯一『本物』に触れることができる逃げ場である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "gamboge",
+		"word": "Gamboge",
+		"part_of_speech": "noun",
+		"meaning": "藤黄（とうおう）、ガンボージ（深く澄んだ鮮やかな黄色）",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "Cambodia",
+					"type": "root",
+					"meaning": "Cambodia (カンボジア)",
+					"lang": "English"
+				}
+			],
+			"original_statement": "From Modern Latin gambogium, from Cambodia (whence the resin was obtained)."
+		},
+		"core_concept": {
+			"en": "A gum resin from various Southeast Asian trees, used as a yellow pigment and a purgative; a deep shade of yellow",
+			"ja": "カンボジア（Cambodia）の森に眠る樹木から流れ出した、黄金のように深く澄んだ『樹脂の輝き』。透明感と鮮やかさを兼ね備えた、東洋の英知が結晶化したような、最も高貴な黄色"
+		},
+		"thinking_layer": "『カンボジアの（樹脂）』。ただの黄色よりも、より「深み」と「透明度」があります。それは仏教の僧侶のまとう袈裟（けさ）の色、あるいは、熟しきったマンゴーの情熱。地上の物質でありながら、まるで光そのものが固体になったかのような輝き。そこには、長い移動の歴史（East to West）が刻まれています。 ",
+		"aftertaste": "筆を水に浸（いた）し、この「深く澄んだ黄色（gamboge）」の固まりをそっとなぞった瞬間に、画面全体が陽光に満たされてゆく、あの奇跡のような「開花（blooming）」。あるいは、カンボジアの遺跡の石壁に差し込む、湿った熱気を帯びた「黄金色の光（gamboge light）」の中で、時間の重みを忘れて立ち尽くす、あの瞑想的で豊饒な静寂。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"地名がそのまま色彩の深みとなった一例。古代からの交易が、言葉の中に『異国の情景』を埋め込んだ。",
+				"『樹脂（resin）』とは木の『涙』であり、それが固まり、精製されることで『美（pigment）』へと昇華されるプロセスは、苦しみが癒える過程のメタファーである。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "puce",
+		"word": "Puce",
+		"part_of_speech": "adjective/noun",
+		"meaning": "暗紫色、赤みがかった茶色、ピュース（ノミの色）",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "pulex / pulic-",
+					"type": "root",
+					"meaning": "flea (ノミ)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From French puce 'flea', referring to the color of a crushed flea or a flea's stain."
+		},
+		"core_concept": {
+			"en": "A dark red or purple-brown color",
+			"ja": "ノミ（flea）が吸った血が乾き、あるいは潰された跡に残るような、暗く、落ち着きのある『赤紫色』。その語源の不潔さとは裏腹に、かつてのマリー・アントワネットを魅了した、洗練された大人の退廃美"
+		},
+		"thinking_layer": "『ノミの色の』。ただの紫（Purple）よりも、より「茶色（brown）」と「赤（red）」が混ざり合った、複雑でアンニュイな色。語源の不気味さを、王妃の気まぐれが「最高のファッション」へと変容（transform）させたという、文化史的な皮肉。それは、美しいものだけを愛する知性が、あえて「汚れたもの」の中に新しい美を見出した瞬間の、残酷なエレガンス。",
+		"aftertaste": "アンティークショップの奥で見つけた、色あせたシルクの「暗紫色の（puce）」ドレスに触れ、かつての舞踏会の喧騒と、その後の長い「沈黙」が幾層にも重なっているのを感じる、あの重厚な郷愁。あるいは、自分の心の中にある、誰にも言えないような「恥辱（stain）」さえも、いつかはこの「ピュース（puce）」のように、深みのある強さ（character）に変えられるのではないかと願う、あの密かな救済の祈り。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "p-u--",
+					"meaning": "to decay, rot (forming pulex? - uncertain)"
+				}
+			],
+			"points": [
+				"pus（膿）, putrid（腐敗した）と同根の説あり。",
+				"『美（beauty）』とは時に、最も忌まわしいもの（flea/pus）のすぐ隣に咲いており、その対比こそが、生命の『生々しさ』を際立たせる。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
