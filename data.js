@@ -254115,5 +254115,235 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "diurnal",
+		"word": "Diurnal",
+		"part_of_speech": "adjective",
+		"meaning": "昼間の、毎日の、太陽の周期の",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "dies",
+					"type": "root",
+					"meaning": "day (一日、日枝)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin diurnalis, from dies 'day'."
+		},
+		"core_concept": {
+			"en": "Of or during the day; daily; of each day",
+			"ja": "世界が『昼』の陽光に満たされている間に活動し、太陽の周期に従って巡る、生命の健やかなリズム。『日々（day）』繰り返される、秩序ある生の営み"
+		},
+		"thinking_layer": "『一日の』。ジャーナル（Journal/日誌）やジャーニー（Journey/一日の旅）と同根。明るい場所、見える場所。それは理性が支配し、社会的な義務を果たすための「公的な時間」。影を持たず、光を享受する存在の陽性なスタイル。 ",
+		"aftertaste": "朝の光の中で目覚め、淹れたてのコーヒーの香りと共に今日を始める、あの清々しい確信。あるいは、太陽が真上にある頃、生きとし生けるものがその生命力を最大限に謳歌している眩しさ。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "dyeu-",
+					"meaning": "to shine"
+				}
+			],
+			"points": [
+				"day, deity（神＝光り輝く者）, Zeus, divine 同根。",
+				"『光り輝くこと（shine）』が、時間を区切る『単位（day）』となり、神聖な秩序の源となった。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "matutinal",
+		"word": "Matutinal",
+		"part_of_speech": "adjective",
+		"meaning": "早朝の、朝早く起きた",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "Matuta",
+					"type": "root",
+					"meaning": "Mater Matuta (ローマの朝の女神)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin matutinalis, from Matuta, the Roman goddess of dawn."
+		},
+		"core_concept": {
+			"en": "Of or occurring in the morning",
+			"ja": "朝の女神（Matuta）が世界を祝福し、最初の光を投げかける『早朝』の。まだ誰も目覚めていない、冷気と希望に満ちた最も純粋な時間における活動"
+		},
+		"thinking_layer": "『朝の女神の』。マチネ（Matinee/昼間の公演）と同根。ただの「朝」ではなく、一日が「生まれようとしている」生命力に溢れた瞬間。すべてがリセットされ、新しい伝説が織り始められるための、最初の一太刀。 ",
+		"aftertaste": "青白い空気の中に響く、始発列車の遠い音。あるいは、窓を開けた瞬間に飛び込んでくる、洗いたてのシーツのような新鮮でキンと冷えた大気の香り。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "mā-",
+					"meaning": "good, timely"
+				}
+			],
+			"points": [
+				"morning, matinee, maturity（成熟＝程よい時）と同根。",
+				"『朝（morning）』とは、一日の中で最も『良い時（good time）』であるという、古代の人々の純朴な信仰。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "vespertine",
+		"word": "Vespertine",
+		"part_of_speech": "adjective",
+		"meaning": "夕方の、夕方に咲く、宵に活動する",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "vesper",
+					"type": "root",
+					"meaning": "evening star, west (晩鐘、宵の明星、西)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin vesper 'evening'."
+		},
+		"core_concept": {
+			"en": "Relating to, occurring, or flourishing in the evening",
+			"ja": "西の空（West）に明星が輝き、一日の終わりを告げる『晩鐘（vesper）』が響く頃。熱狂が静まり、内省と安らぎ、あるいは密やかな活動が始まる『日没後』の世界"
+		},
+		"thinking_layer": "『宵の明星の』。ヴェスパー（Vesper/宵の明星、晩祷）と同根。夕食（Supper）は本来「夕方に食べるもの」として関係があるという説もあります。一日の成果を噛み締め、長い休息へと向かうための、穏やかで少しだけ重い「終止符」の時間。",
+		"aftertaste": "家々の窓に灯りがともり始め、それぞれの物語が屋根の下へと閉じ込められてゆく、あの安堵に似た寂しさ。あるいは、夕暮れの教会で独り聴く、美しいパイプオルガンの低く震える和音。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "wes-pero-",
+					"meaning": "evening, west"
+				}
+			],
+			"points": [
+				"west, vesper 同根。",
+				"『西（west）』は太陽が『沈む場所』であり、一日の『死』と『完成（evening/even）』が同時に訪れる場所である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "circadian",
+		"word": "Circadian",
+		"part_of_speech": "adjective",
+		"meaning": "概日（がいじつ）的な、24時間周期の",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "circa-",
+					"type": "prefix",
+					"meaning": "about (約、およそ)"
+				},
+				{
+					"text": "diem",
+					"type": "root",
+					"meaning": "day (一日)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "Coined in 1959 from Latin circa 'about' + dies 'day'."
+		},
+		"core_concept": {
+			"en": "(Of biological processes) occurring naturally on a twenty-four-hour cycle, even in the absence of light fluctuations",
+			"ja": "太陽が見えなくても、私たちの身体の深奥に刻まれている『およそ（circa）』『一日（day）』の正確なリズム。細胞の一つ一つが奏でる、宇宙の周期への同調"
+		},
+		"thinking_layer": "『およそ一日の』。サークル（Circle/円）と同根。光がなくても、私たちは知っています。いつ目覚め、いつ眠り、いつエネルギーを最大化すべきかを。それは進化の過程で、天体の運行を自分自身のDNAに書き込んだ、壮大な「記憶」の拍動。",
+		"aftertaste": "真暗な部屋で目を覚まし、それがちょうど夜明け直前であると気づいた時の、身体という精密な時計への畏怖。あるいは、時差ボケで壊れてしまった自分のリズムが、必死にこの惑星と同期しようともがいている感覚。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sker-",
+					"meaning": "to turn, bend"
+				},
+				{
+					"term": "dyeu-",
+					"meaning": "to shine"
+				}
+			],
+			"points": [
+				"circle, day, diurnal 同根。",
+				"『円を描く（circle）』ことが、輝く『光（day）』の消失と再現を繰り返し、生命に『リズム（circadian）』を与える。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "hibernal",
+		"word": "Hibernal",
+		"part_of_speech": "adjective",
+		"meaning": "冬の、冬のような、冬に現れる",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "hibernus",
+					"type": "root",
+					"meaning": "winter (冬)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin hibernus, from hiems 'winter'."
+		},
+		"core_concept": {
+			"en": "Of, characteristic of, or occurring in winter",
+			"ja": "生命が眠りにつき、大気が凍てつき、すべての運動が極限まで抑制される『冬』の。厳格で、冷徹で、しかし来たるべき春を準備する深い思索のような季節の質感"
+		},
+		"thinking_layer": "『冬の』。ハイバネート（Hibernate/冬眠する）と同根。ただ寒いのではなく、余計なものを削ぎ落とした「本質」だけの状態。雪に覆われた沈黙の中で、静かに燃える青い炎。死に最も近く、それゆえに生の尊厳を最も強く感じさせる季節。 ",
+		"aftertaste": "吐く息が白く、肺の奥まで凍りつくような朝の散歩の、キンとした痛快さ。あるいは、暖炉の前で静かに本を読み耽る、外の世界が死に絶えたかのような、完璧な孤独の安らぎ。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ghei-",
+					"meaning": "winter, snow"
+				}
+			],
+			"points": [
+				"Himalaya（雪の家）, hiems 同根。",
+				"『雪（snow）』に閉ざされることは、知性的には『内面への回帰』と『自己の再構築』を意味する。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "estival",
+		"word": "Estival",
+		"part_of_speech": "adjective",
+		"meaning": "夏の、夏に起こる",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "aestivus",
+					"type": "root",
+					"meaning": "summer (夏)",
+					"lang": "Latin"
+				},
+				{
+					"text": "aestas",
+					"type": "root",
+					"meaning": "summer heat (夏の熱)"
+				}
+			],
+			"original_statement": "From Latin aestivalis, from aestas 'summer'."
+		},
+		"core_concept": {
+			"en": "Of, characteristic of, or occurring in summer",
+			"ja": "太陽の熱（heat）が大地を焦がし、生命が爆発的なエネルギーを撒き散らす『夏』の。眩い光、濃い影、そして終わりのない祝祭の予感を纏った、最高潮の季節の質感"
+		},
+		"thinking_layer": "『夏の熱の』。エスティバル（Aestival）とも。エディフィス（Edifice/大きな建物＝火を焚く場所？）や、エスティバル・タイム（夏時間）と同根。ただ温かい（warm）のではなく、抗いがたい力（power）の、放熱。それは生のピークであり、同時に衰退への第一歩でもある、まばゆい頂点。",
+		"aftertaste": "草いきれと入道雲の白さが視界を埋め尽くす、あの逃げ場のない生命の奔流。あるいは、太陽が沈んだ後の、熱を孕んだアスファルトの匂いが立ち込める、期待に満ちた夜の予感。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "aidh-",
+					"meaning": "to burn"
+				}
+			],
+			"points": [
+				"edifice, ether（エーテル＝燃えるような上層空気）, ash 同根。",
+				"『夏（summer）』の本質は、輝きではなく『燃焼（burn）』であり、その熱量こそが生命の『舞台（edifice）』を支える。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
