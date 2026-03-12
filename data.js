@@ -263656,5 +263656,200 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "locative",
+		"word": "Locative",
+		"part_of_speech": "noun/adjective",
+		"meaning": "地格（ちかく）、処格（しょかく）、場所を示す格",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "locus",
+					"type": "root",
+					"meaning": "place (場所)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin locativus, from locus 'place'."
+		},
+		"core_concept": {
+			"en": "(in some languages) a grammatical case which indicates a location",
+			"ja": "存在（being）がどこにあるのかという『場所（place）』を定義し、世界の中の座標を確定させる格。浮遊する魂を、特定の地平（horizon）へと繋ぎ止める知的な重力"
+		},
+		"thinking_layer": "『場所の（格）』。ローカル（Local）、ロケーション（Location）、コロケーション（Collocation/並べること）と同根。語源は「場所」。事象が単なる「概念」ではなく、物理的な「広がり」の中にあることを示します。それは、自分の居場所（locus）を絶えず問い続ける、人間の原初的な不安と、それに答えようとする言語の誠実さ。 ",
+		"aftertaste": "自分が今立っているこの「場所（locative center）」が、誰かにとっては単なる通過点に過ぎないのだと悟る時の、あの世界の「広大さ」と自分の「卑小（littleness）」への眩暈。あるいは、自分の心が特定の思い出の場所に「地格（locative）」的に縛られ、そこから一歩も動けなくなっていることに気づく、あの静かな午後の停滞。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "stel-",
+					"meaning": "to put, place (forming locus)"
+				}
+			],
+			"points": [
+				"stall, still, stallment, pedestal 同根。",
+				"『場所（place）』とは単なる空間ではなく、そこに『置かれた（placed）』意志が宿ることで意味を持つ。ロカティブ（locative）とは、その意志が世界へと刻み込んだ『存在の署名』である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "comitative",
+		"word": "Comitative",
+		"part_of_speech": "noun/adjective",
+		"meaning": "随伴格（ずいはんかく）、共格、〜と共に",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "comes",
+					"type": "root",
+					"meaning": "companion (仲間、同行者)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin comitativus, from comes 'companion'."
+		},
+		"core_concept": {
+			"en": "A grammatical case that expresses accompaniment ('with')",
+			"ja": "孤立した個（individual）が、別の存在と『共に（together）』歩むことを宣言する格。一人では成し得ない旅を、誰かと分かち合う（sharing）ための、連帯と友情の言語的表現"
+		},
+		"thinking_layer": "『仲間の（格）』。カウント（Count/伯爵＝王の仲間）、コミット（Commit/委ねる＝共に送る）、おなじみ「コン（共）」と同根。語源は「同行者」。ただの「道具（with instrument）」ではありません。意思を持った「誰か」と共にあること。それは。自分の境界線を広げ、他者を受け入れるという「優しさ」の形式。人生という名の航海を共にする、知的なパートナーシップ。",
+		"aftertaste": "「君と共に（with you - comitative mode）」という言葉の響きに、自分という存在が誰かの「同行者（comes）」として認められたことの深い安堵（relief）を感じ、世界が少しだけ温かく見える、あの夕暮れの凱旋。あるいは、あまりにも多くの「随伴者（comitative baggage）」を抱えすぎて、自分一人で歩くことの軽やかさを忘れてしまったのではないかと疑う、あの重苦しくも豊かな自意識の迷い。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ko-",
+					"meaning": "together (forming com-)"
+				},
+				{
+					"term": "ei-",
+					"meaning": "to go (forming comes/one who goes with)"
+				}
+			],
+			"points": [
+				"companion, itinerary, exit, circuit 同根。",
+				"『共に行く（going together）』ことは、個別の目的地（destination）を調整し、共有された『時間』を生きること。コミタティブ（comitative）は、その共有の瞬間に宿る『倫理』の言葉である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "essive",
+		"word": "Essive",
+		"part_of_speech": "noun/adjective",
+		"meaning": "様格（ようかく）、状態格、〜として",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "esse",
+					"type": "root",
+					"meaning": "to be (ある、存在する)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin esse 'to be'."
+		},
+		"core_concept": {
+			"en": "A grammatical case that indicates a temporary or permanent state of being",
+			"ja": "自分が何者であるか、あるいはどのような『状態（state）』にあるのかを、一時の仮面として、あるいは永遠の本質として定義する格。流動的な自己を、『〜として（as）』の一点に結晶化させる力"
+		},
+		"thinking_layer": "『あることの（格）』。エッセンス（Essence/本質）、エンティティ（Entity/実体）、アブセント（Absent/離れてある＝欠席）と同根。語源は「存在する」。ただの「名前」ではありません。特定の役割（role）や状態を纏（まと）っていること。それは、「医者として（as a doctor）」あるいは「父として」。仮面（persona）の中に宿る、生きた真実の宣言。",
+		"aftertaste": "社会的な「役割（essive identity）」の重みに耐えかねて、鏡の前で「何者でもない自分（pure being）」を願いつつも、結局はこの「様格（essive masks）」の連なりこそが自分の人生を形作っているのだと悟る、あの知的な諦念。あるいは、誰かのために「盾として（as a shield）」立つことを決意した瞬間の、自分を通る「存在の熱（heat of being）」に震える、あの峻烈な一瞬。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "es-",
+					"meaning": "to be"
+				}
+			],
+			"points": [
+				"essence, interest, possible, am, is 同根。",
+				"『在る（being）』ことは受動的な状態ではなく、特定の形式（form）を選択し、それを維持し続けるという『能動的な宣言』である。エシブ（essive）は、その宣言の強さを象徴している。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "partitive",
+		"word": "Partitive",
+		"part_of_speech": "noun/adjective",
+		"meaning": "部分格、部分を示す（語）",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "partitio",
+					"type": "root",
+					"meaning": "division, sharing (分割、共有)",
+					"lang": "Latin"
+				},
+				{
+					"text": "pars",
+					"type": "root",
+					"meaning": "part (部分)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin partitio, from pars 'part'."
+		},
+		"core_concept": {
+			"en": "Indicating a part of a whole; a grammatical case in some languages which denotes 'part of' or 'some of'",
+			"ja": "巨大な全体（whole）から、自分の手に収まる分の『部分（part）』だけを慎ましやかに、あるいは貪欲に切り出す格。すべてを所有できないという限界と、それでも『一部』を分かち合いたいという希求"
+		},
+		"thinking_layer": "『分け合うことの（格）』。パーティー（Party/分かれたグループ）、デパート（Depart/分かれて去る）、アパート（Apart/離れた部分）と同根。語源は「分割」。ただの「量」ではありません。全体との「繋がり」を残したままの部分。それは、この世界の「真理（truth）」の一部しか掴みきれない人間の、知的な謙虚さと、その欠片（shard）を愛でる仕草。",
+		"aftertaste": "「水の一部を（some of water - partitive case）」飲み干し、まだ自分の知らない広大な海（vast ocean）が残されていることに安堵しつつ、自分の渇きを癒やしたこの「一滴（part）」の尊さを噛み締める、あの充足。あるいは、自分の人生が、宇宙という巨大な時間の「ほんの一部分（partitive fragment）」に過ぎないのだと悟る時の、あの寂しくて美しい解放感（freedom）。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "per-",
+					"meaning": "to allot, assign (forming pars)"
+				}
+			],
+			"points": [
+				"proportion, portion, participate 同根。",
+				"『分ける（dividing）』ことは喪失ではなく、適切なサイズへと『縮小（scaling）』することで、他者との共有（sharing）を可能にするための、知的な『贈与』の準備である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "illative",
+		"word": "Illative",
+		"part_of_speech": "noun/adjective",
+		"meaning": "入格（にゅうかく）、中へ入ることを示す格、推論の",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "in-",
+					"type": "prefix",
+					"meaning": "into (〜の中へ)"
+				},
+				{
+					"text": "latus",
+					"type": "root",
+					"meaning": "carried (運ばれた)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin illativus, from illatus, past participle of inferre 'bring in', from in- 'into' + latus 'carried'."
+		},
+		"core_concept": {
+			"en": "A grammatical case denoting motion into something; relating to or expressing the action of inferring",
+			"ja": "境界線を飛び越え、閉じられた『内部（into）』へと自らを『投げ込み（carried）』、侵入する格。場所の移動だけでなく、前提から結論へと魂を運ぶ『推論（inference）』の飛躍"
+		},
+		"thinking_layer": "『中へ運び込まれた（格）』。インファー（Infer/推論する）、おなじみ「イン（中）」と同根。語源は「中へ運ぶ」。ただの「移動」ではありません。未知の領域への「没入（immersion）」。外側で眺めることを止め、その「中心（core）」へとコミットすること。それは。愛する人の心という深い井戸へ、あるいは論理の迷宮の最深部へと、自分を運んでゆく（carrying self）勇気。",
+		"aftertaste": "「森の中へ（into the woods - illative movement）」一歩踏み出した瞬間、背後の世界が霞（かす）んで見え、自分が新しい「ルール（law）」の中に運び込まれたのだと戦慄する、あの境界を越えた瞬間の高揚。あるいは、一つの「事実（fact）」から別の「真実（truth）」へと知性が「推論（illative leap）」する時の、あの足元が浮き上がるような発見の喜び。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "tel-",
+					"meaning": "to bear, carry (forming latus)"
+				}
+			],
+			"points": [
+				"translate, relate, dilate, collate 同根。",
+				"『運ぶ（carrying）』という行為は場所を変えるだけでなく、対象の『意味』を変容（translate）させる。イラティブ（illative）とは、その変容を受け入れ、深淵へと飛び込むための、準備のできた魂、知性の加速度である。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
