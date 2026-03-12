@@ -281243,5 +281243,1450 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "litigation",
+		"word": "Litigation",
+		"part_of_speech": "noun",
+		"meaning": "訴訟、法廷闘争",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "lis",
+					"type": "root",
+					"meaning": "lawsuit, dispute"
+				},
+				{
+					"text": "agere",
+					"type": "root",
+					"meaning": "to drive, do"
+				}
+			],
+			"original_statement": "From Latin litigare."
+		},
+		"core_concept": {
+			"en": "legal contest",
+			"ja": "言葉を武器に変える、峻烈な闘争。"
+		},
+		"thinking_layer": "紛争を駆動すること。暴力の代わりに『法』という冷徹なシステムを用い、言葉の力で勝利を勝ち取ろうとする知的な決闘。",
+		"aftertaste": "極限まで研ぎ澄まされた論理がぶつかり合う、静かな火花。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"litigate (訴訟を起こす) の名詞形。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "affidavit",
+		"word": "Affidavit",
+		"part_of_speech": "noun",
+		"meaning": "宣誓供述書",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "ad-",
+					"type": "prefix",
+					"meaning": "to"
+				},
+				{
+					"text": "fidare",
+					"type": "root",
+					"meaning": "to trust"
+				}
+			],
+			"original_statement": "From Medieval Latin affidare 'he has stated on oath'."
+		},
+		"core_concept": {
+			"en": "written statement on oath",
+			"ja": "魂を賭けた、不滅の言挙げ。"
+		},
+		"thinking_layer": "信頼を誓うこと。自らの言葉が真理であることを神や法に誓い、文書の形に結晶化させた、不可逆な情報の重み。",
+		"aftertaste": "一文字たりとも嘘を許さない、誠実という名の沈黙。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"confidence, fidelity と同根。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "subpoena",
+		"word": "Subpoena",
+		"part_of_speech": "noun",
+		"meaning": "召喚状、証拠提出命令",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "sub-",
+					"type": "prefix",
+					"meaning": "under"
+				},
+				{
+					"text": "poena",
+					"type": "root",
+					"meaning": "penalty, pain"
+				}
+			],
+			"original_statement": "From Latin sub poena 'under penalty'."
+		},
+		"core_concept": {
+			"en": "legal summon",
+			"ja": "罰の影に導かれし、逃れ得ぬ呼び声。"
+		},
+		"thinking_layer": "罰の下にあること。拒絶すれば苦痛（罰）が伴うという峻烈な制約の下で、真実という名の法廷へ引きずり出される情報の絶対命令。",
+		"aftertaste": "個人の自由が、国家の正義という巨大な歯車に飲み込まれる瞬間。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"penalty, pain と同根。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "indictment",
+		"word": "Indictment",
+		"part_of_speech": "noun",
+		"meaning": "起訴、告発",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "in-",
+					"type": "prefix",
+					"meaning": "towards"
+				},
+				{
+					"text": "dicere",
+					"type": "root",
+					"meaning": "to say, proclaim"
+				}
+			],
+			"original_statement": "From Latin indicere 'to proclaim'."
+		},
+		"core_concept": {
+			"en": "formal accusation",
+			"ja": "背負わされた、情報の烙印。"
+		},
+		"thinking_layer": "指し示すこと。公的な機関が、一人の物語を『罪（crime）』という名の峻烈なラベルで確定し、審判の座へと指し示す宣告。",
+		"aftertaste": "世界が自分を敵として定義した時の、凍てつくような孤独。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"index, predict と同根。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "acquittal",
+		"word": "Acquittal",
+		"part_of_speech": "noun",
+		"meaning": "無罪放免、釈放",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "ad-",
+					"type": "prefix",
+					"meaning": "to"
+				},
+				{
+					"text": "quietare",
+					"type": "root",
+					"meaning": "to keep quiet, settle"
+				}
+			],
+			"original_statement": "From Latin quietus 'free, at rest'."
+		},
+		"core_concept": {
+			"en": "judgment of not guilty",
+			"ja": "情報の嵐が去った後の、絶対的な静寂。"
+		},
+		"thinking_layer": "静かにさせること。疑いという名のノイズを峻烈に消去し、魂を拘束から解き放ち、元の平安へと回帰させる法的な救済。",
+		"aftertaste": "重い鎖が外れ、再び呼吸ができるようになった瞬間の震え。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"quiet, quit と同根。義務からの解放。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "restitution",
+		"word": "Restitution",
+		"part_of_speech": "noun",
+		"meaning": "返還、賠償、修復",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "re-",
+					"type": "prefix",
+					"meaning": "again"
+				},
+				{
+					"text": "statuere",
+					"type": "root",
+					"meaning": "to set up, establish"
+				}
+			],
+			"original_statement": "From Latin restituere 'to restore'."
+		},
+		"core_concept": {
+			"en": "restoration to original state",
+			"ja": "奪われた均衡を、峻烈に立て直す。"
+		},
+		"thinking_layer": "再び立てること。不当に奪われた秩序や物質を、法の力でもう一度正しい場所へ戻し、世界の歪みを暴力なしに修復する祈り。",
+		"aftertaste": "失われた欠片が元の場所に戻った時の、静かな充足。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"statue, institution と同根。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "reparation",
+		"word": "Reparation",
+		"part_of_speech": "noun",
+		"meaning": "補償、賠償、修理",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "re-",
+					"type": "prefix",
+					"meaning": "again"
+				},
+				{
+					"text": "parare",
+					"type": "root",
+					"meaning": "to make ready"
+				}
+			],
+			"original_statement": "From Latin reparare 'to repair'."
+		},
+		"core_concept": {
+			"en": "making amends",
+			"ja": "傷ついた現実を、再び整える（prepare）。"
+		},
+		"thinking_layer": "再び準備すること。損なわれた関係や物理的物質に、対価という名の『情報の潤滑油』を注ぎ込み、再び機能するように整える誠実な代償。",
+		"aftertaste": "痛みは消えなくても、未来へ向かうための最低限の足場を築く苦さ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"repair, prepare と同根。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "exonerate",
+		"word": "Exonerate",
+		"part_of_speech": "verb",
+		"meaning": "（容疑などを）晴らす、免除する",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "ex-",
+					"type": "prefix",
+					"meaning": "out"
+				},
+				{
+					"text": "onus",
+					"type": "root",
+					"meaning": "burden"
+				}
+			],
+			"original_statement": "From Latin exonerare 'to unburden'."
+		},
+		"core_concept": {
+			"en": "free from blame",
+			"ja": "背負わされた、重き呪いを解き放つ。"
+		},
+		"thinking_layer": "重荷から出すこと。冤罪や疑いという名の、魂を潰さんとする巨大な情報の重石を峻烈に除去し、再び軽やかに歩ませる奇跡の宣告。",
+		"aftertaste": "世界全体の重力から解放されたような、奇妙な浮遊感。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"onus (重荷、責任) を取り去ること。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "incarcerate",
+		"word": "Incarcerate",
+		"part_of_speech": "verb",
+		"meaning": "投獄する、監禁する",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "in-",
+					"type": "prefix",
+					"meaning": "in"
+				},
+				{
+					"text": "carcer",
+					"type": "root",
+					"meaning": "prison, enclosure"
+				}
+			],
+			"original_statement": "From Latin incarcerare."
+		},
+		"core_concept": {
+			"en": "imprison",
+			"ja": "石の沈黙へと、肉体を封印する。"
+		},
+		"thinking_layer": "檻の中に入れること。社会という名の自由な情報の海から肉体を峻烈に隔離し、冷たい壁の中に存在を固定する、情報の停止宣告。",
+		"aftertaste": "時間の流れが物理的に遮断された、永遠の黄昏。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"carceral (刑務所の) の形容詞形など。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "recidivism",
+		"word": "Recidivism",
+		"part_of_speech": "noun",
+		"meaning": "常習的犯行、再犯",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "re-",
+					"type": "prefix",
+					"meaning": "back"
+				},
+				{
+					"text": "cadere",
+					"type": "root",
+					"meaning": "to fall"
+				}
+			],
+			"original_statement": "From Latin recidivus 'falling back'."
+		},
+		"core_concept": {
+			"en": "relapse into criminal behavior",
+			"ja": "奈落の底へと、再び転落する不可避。"
+		},
+		"thinking_layer": "後ろに落ちること。一度は這い上がったはずの光の中から、慣れ親しんだ暗闇のパターンへと魂が滑り落ちてしまう、悲劇的な情報の輪廻。",
+		"aftertaste": "自分の弱さに再び打ちのめされる、絶望のデジャヴ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"accident, cadence と同根。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "amnesty",
+		"word": "Amnesty",
+		"part_of_speech": "noun",
+		"meaning": "恩赦、大赦",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "a-",
+					"type": "prefix",
+					"meaning": "not"
+				},
+				{
+					"text": "mnestis",
+					"type": "root",
+					"meaning": "memory"
+				}
+			],
+			"original_statement": "From Greek amnestia 'forgetfulness'."
+		},
+		"core_concept": {
+			"en": "official pardon",
+			"ja": "罪の記憶を、情報の淵へと埋葬する。"
+		},
+		"thinking_layer": "忘れること。国家が全知の眼をあえて閉じ、過去の反逆や過ちの記録を峻烈に消去することで、未来への『新しい出発』を許可する巨大な忘却の慈愛。",
+		"aftertaste": "許されたはずなのに、消えない傷跡のような沈黙の記憶。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"amnesia (記憶喪失) と同根。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "tribunal",
+		"word": "Tribunal",
+		"part_of_speech": "noun",
+		"meaning": "審判所、法廷、判定",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "tribunus",
+					"type": "root",
+					"meaning": "head of a tribe"
+				}
+			],
+			"original_statement": "From Latin tribunal 'platform for magistrates'."
+		},
+		"core_concept": {
+			"en": "court of justice",
+			"ja": "生命の天秤が揺れる、石の審判台。"
+		},
+		"thinking_layer": "部族の長を意味した古代ローマの官職、護民官（tribune）の座る高台が語源。単なる建物ではなく、複数の意志が峻烈に交差（intersect）し、一人の運命に『最終決定（final decision）』を授けるための、情報の極北。そこは、個人の叫びが法の冷徹なエコーとなって跳ね返る、聖なる沈黙に満ちた場所。",
+		"aftertaste": "自分の存在を懸けた、最後の一撃（statement）を放つ瞬間の戦慄。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "tri-",
+					"meaning": "three (original tribes of Rome)"
+				}
+			],
+			"points": [
+				"tribune (護民官) の座、つまり人々の権利を守り、かつ裁く場所。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "plaintiff",
+		"word": "Plaintiff",
+		"part_of_speech": "noun",
+		"meaning": "原告、訴追者",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "plangere",
+					"type": "root",
+					"meaning": "to beat the breast, lament"
+				}
+			],
+			"original_statement": "From Old French plaintif 'complaining'."
+		},
+		"core_concept": {
+			"en": "accuser",
+			"ja": "胸を叩き、情報の叫び（complaint）を放つ。"
+		},
+		"thinking_layer": "悲しみを表現すること。不当な傷を負った者が、自らの苦痛を論理という名の『刃』に研ぎ澄まし、他者の不義を峻烈に暴き立てようと立ち上がった者。",
+		"aftertaste": "正義という名の大義を盾にした、孤独な突撃。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"complain, plaint と同根。胸を打つ悲しみ。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "defendant",
+		"word": "Defendant",
+		"part_of_speech": "noun",
+		"meaning": "被告、被告人",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "de-",
+					"type": "prefix",
+					"meaning": "from, away"
+				},
+				{
+					"text": "fendere",
+					"type": "root",
+					"meaning": "to strike"
+				}
+			],
+			"original_statement": "From Latin defendere."
+		},
+		"core_concept": {
+			"en": "accused",
+			"ja": "情報の矢面で、自らの盾を構える者。"
+		},
+		"thinking_layer": "敵を打ち払うこと。投げかけられた非難や証拠という名の弾丸を、論理という名の『防壁』で峻烈に防ぎ、自らの実存を守り抜こうとする防衛の主体。",
+		"aftertaste": "孤立無援の囲いの中で、最後の一線を守り抜く執念。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"defence, offend と同根。打つこと。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "solicitor",
+		"word": "Solicitor",
+		"part_of_speech": "noun",
+		"meaning": "事務弁護士、熱心な者」、勧誘員",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "sollus",
+					"type": "root",
+					"meaning": "whole, entire"
+				},
+				{
+					"text": "ciere",
+					"type": "root",
+					"meaning": "to set in motion"
+				}
+			],
+			"original_statement": "From Latin sollicitare 'to agitate'."
+		},
+		"core_concept": {
+			"en": "legal practitioner",
+			"ja": "全霊（whole）を揺さぶり、情報を駆動する。"
+		},
+		"thinking_layer": "すべてを動かすこと。静止している法の手続きを峻烈に攪拌し、情報の奔流を作り出し、依頼人の利益を具体的な実務として実現させる情報の演出家。",
+		"aftertaste": "複雑な書類の迷宮を、最短で駆け抜けるプロフェッショナリズム。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"solicit (懇請する、誘う) と同根。心を揺さぶること。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "notary",
+		"word": "Notary",
+		"part_of_speech": "noun",
+		"meaning": "公証人、記録者",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "nota",
+					"type": "root",
+					"meaning": "mark, sign, note"
+				}
+			],
+			"original_statement": "From Latin notarius 'shorthand writer'."
+		},
+		"core_concept": {
+			"en": "legal witness",
+			"ja": "時間の淀みに、消えない情報の印（mark）を刻む。"
+		},
+		"thinking_layer": "記譜すること。私的な合意という目に見えない幽霊に、国家という名の『不滅の肉体』を授け、誰もが無視できない事実へと固定する情報の彫刻家。",
+		"aftertaste": "自分の署名が、世界の一片を確定させたという重厚な満足感。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"note, notice と同根。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "perjury",
+		"word": "Perjury",
+		"part_of_speech": "noun",
+		"meaning": "偽証（罪）",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "per-",
+					"type": "prefix",
+					"meaning": "through, wrongly"
+				},
+				{
+					"text": "jurare",
+					"type": "root",
+					"meaning": "to swear"
+				}
+			],
+			"original_statement": "From Latin perjurare 'to swear falsely'."
+		},
+		"core_concept": {
+			"en": "lying under oath",
+			"ja": "聖なる誓いを峻烈に突き破り、情報の毒を流す。"
+		},
+		"thinking_layer": "誓いを踏み越えること。真実への忠誠という法廷の基盤（ground）を、あえて偽りの言葉で汚染し、世界の均衡を根底から裏切る情報のテロリズム。",
+		"aftertaste": "吐き出した言葉が、自分自身の魂を縛り上げる罪悪感。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"jury, justice と同根の jur (誓い/法)。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "larceny",
+		"word": "Larceny",
+		"part_of_speech": "noun",
+		"meaning": "窃盗（罪）",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "latrocinium",
+					"type": "root",
+					"meaning": "robbery, service of a mercenary"
+				}
+			],
+			"original_statement": "From Latin latrocinium."
+		},
+		"core_concept": {
+			"en": "theft",
+			"ja": "他者の物語を、音もなく奪い去る。"
+		},
+		"thinking_layer": "傭兵（latro）の仕事。正当な労働（labor）を介さず、他者の所有物という名の『情報の結晶』を峻烈に掠奪し、自己の虚空を埋めようとする情報の略奪。",
+		"aftertaste": "奪ったものの重みに耐えきれず、常に背後を気にする恐怖。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"古代ローマでは、傭兵の略奪行為がこの言葉のイメージを形作った。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "felony",
+		"word": "Felony",
+		"part_of_speech": "noun",
+		"meaning": "重罪",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "fell-",
+					"type": "root",
+					"meaning": "evil, cruel, wicked"
+				}
+			],
+			"original_statement": "From Old French felonie."
+		},
+		"core_concept": {
+			"en": "serious crime",
+			"ja": "人間の高潔さを峻烈に破壊する、根源的な悪。"
+		},
+		"thinking_layer": "邪悪であること。単なるルールの逸脱を超え、生命や社会の基盤そのものに修復不能なダメージを与える、情報の終末的な反逆。",
+		"aftertaste": "人生そのものが峻烈に書き換えられ、二度と元の物語に戻れない絶望。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"fell (恐ろしい、凶暴な) と同族。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "misdemeanor",
+		"word": "Misdemeanor",
+		"part_of_speech": "noun",
+		"meaning": "軽罪、不品行",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "mis-",
+					"type": "prefix",
+					"meaning": "wrongly"
+				},
+				{
+					"text": "de-",
+					"type": "prefix",
+					"meaning": "from"
+				},
+				{
+					"text": "minare",
+					"type": "root",
+					"meaning": "to drive, lead (cattle)"
+				}
+			],
+			"original_statement": "From demean 'to behave'."
+		},
+		"core_concept": {
+			"en": "minor wrongdoing",
+			"ja": "足取りのわずかな乱れ（bad lead）。"
+		},
+		"thinking_layer": "誤った導き。社会という名の巨大な行進の中で、あえて自分勝手なステップを踏み、秩序をわずかに乱した『不完全な振る舞い』。",
+		"aftertaste": "自分の甘さを痛感する、微かな苦みと恥じらい。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"demeanor (態度) は『自分をどう導くか』。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "negligence",
+		"word": "Negligence",
+		"part_of_speech": "noun",
+		"meaning": "過失、怠慢",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "nec-",
+					"type": "prefix",
+					"meaning": "not"
+				},
+				{
+					"text": "legere",
+					"type": "root",
+					"meaning": "to pick up, choose, read"
+				}
+			],
+			"original_statement": "From Latin negligentia."
+		},
+		"core_concept": {
+			"en": "failure to take proper care",
+			"ja": "情報の欠片を、拾い上げ（pick up）なかった罪。"
+		},
+		"thinking_layer": "選ばないこと。注意を払うべき情報の断片を峻烈に見過ごし、沈黙という名の『空白の暴力』によって不要な連鎖を産み出してしまった情報の欠落。",
+		"aftertaste": "『あの時見ていれば』という、悔やんでも消えない無念。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"neglect, diligent と同根。情報を選ぶことが責任。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "tort",
+		"word": "Tort",
+		"part_of_speech": "noun",
+		"meaning": "不法行為",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "torquere",
+					"type": "root",
+					"meaning": "to twist"
+				}
+			],
+			"original_statement": "From Latin tortum 'something twisted'."
+		},
+		"core_concept": {
+			"en": "civil wrong",
+			"ja": "歪められた（twist）正義、不条理のひねり。"
+		},
+		"thinking_layer": "ねじ曲げること。真っ直ぐな公的秩序ではなく、個人間の関係性を峻烈にねじ曲げ、他者に損害を与えた、情報のトリッキーな悪意。",
+		"aftertaste": "歪んだまま放置された関係を、法の手で真っ直ぐに直そうとする知的格闘。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"torture (拷問＝ねじ切る) と同根。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "probate",
+		"word": "Probate",
+		"part_of_speech": "noun",
+		"meaning": "遺言の検認、公証",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "probare",
+					"type": "root",
+					"meaning": "to test, prove"
+				}
+			],
+			"original_statement": "From Latin probatum 'thing proved'."
+		},
+		"core_concept": {
+			"en": "legal process of will validation",
+			"ja": "死者の遺志を、峻烈な真理の篩（ふるい）にかける。"
+		},
+		"thinking_layer": "証明すること。肉体が消滅した後に残された、文字に宿る最後のエゴが本物であるかどうかを、法という名の『試金石』で峻烈に審判する情報の外科手術。",
+		"aftertaste": "紙切れ一枚に込められた、重すぎる執念を正面から受け止める静寂。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"probe, prove, probability と同根。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "alimony",
+		"word": "Alimony",
+		"part_of_speech": "noun",
+		"meaning": "配偶者扶養費、離婚手当",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "alere",
+					"type": "root",
+					"meaning": "to nourish"
+				}
+			],
+			"original_statement": "From Latin alimonia 'nutriment'."
+		},
+		"core_concept": {
+			"en": "financial support for ex-spouse",
+			"ja": "愛の物語が消えた後の、情報の糧（nourishment）。"
+		},
+		"thinking_layer": "養うこと。かつての連帯（marriage）という名の共同幻想が崩壊した後も、生存という名の峻烈な責任を最小限の栄養（金）に変換して、過去の自分に送り続ける義務の影。",
+		"aftertaste": "一度結んだ絆の、逃れられない生々しい残響。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"alma mater (母校＝養育してくれる母) と同根。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "guardianship",
+		"word": "Guardianship",
+		"part_of_speech": "noun",
+		"meaning": "後見、保護、管理",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "warder",
+					"type": "root",
+					"meaning": "to watch, guard"
+				}
+			],
+			"original_statement": "From Germanic word related to watch."
+		},
+		"core_concept": {
+			"en": "legal responsibility for person",
+			"ja": "未熟な魂を守る、情報の不眠の盾。"
+		},
+		"thinking_layer": "見守ること。自分の意志を持たない、あるいは失った者たちの代わりに、峻烈な『法の眼差』を自分のものとして貸し出し、彼らの権利を外部の捕食者から防衛する高潔な契約。",
+		"aftertaste": "自分ではない誰かの人生を、一歩前へ進めるための静かな犠牲。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"warden, guard と同根。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "extradition",
+		"word": "Extradition",
+		"part_of_speech": "noun",
+		"meaning": "犯人引き渡し、逃亡犯罪者の移送",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "ex-",
+					"type": "prefix",
+					"meaning": "out"
+				},
+				{
+					"text": "traditio",
+					"type": "root",
+					"meaning": "handling over, delivery"
+				}
+			],
+			"original_statement": "From Latin extraditio."
+		},
+		"core_concept": {
+			"en": "handing over criminal to state",
+			"ja": "情報の国境を越え、峻烈に引き渡される（hand over）。"
+		},
+		"thinking_layer": "外へ引き渡すこと。一国の庇護から峻烈に切り離され、罪を犯した土地の法へと無理やり送還される、情報の『拒絶と譲渡』。",
+		"aftertaste": "世界のどこにも逃げ場がないことを悟る、峻烈な絶望。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"trade, tradition と同じ『渡す』こと。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "deportation",
+		"word": "Deportation",
+		"part_of_speech": "noun",
+		"meaning": "強制送還、国外退去",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "de-",
+					"type": "prefix",
+					"meaning": "away"
+				},
+				{
+					"text": "portare",
+					"type": "root",
+					"meaning": "to carry"
+				}
+			],
+			"original_statement": "From Latin deportatio."
+		},
+		"core_concept": {
+			"en": "expulsion from country",
+			"ja": "情報の港（port）から、強制的に運び出される。"
+		},
+		"thinking_layer": "運び去ること。招かれざる情報の粒子として、滞在という名の不法な夢を峻烈に打ち砕き、システムの外部へ向けて物質的に排除されること。",
+		"aftertaste": "住み慣れた土地を剥がし取られる、肉体的な痛みを伴う疎外感。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"portable, port と同根。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "covenant",
+		"word": "Covenant",
+		"part_of_speech": "noun",
+		"meaning": "誓約、契約、聖約",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "com-",
+					"type": "prefix",
+					"meaning": "together"
+				},
+				{
+					"text": "venire",
+					"type": "root",
+					"meaning": "to come"
+				}
+			],
+			"original_statement": "From Latin convenire 'to agree'."
+		},
+		"core_concept": {
+			"en": "solemn agreement",
+			"ja": "魂の最深部で、情報の歩調を合わせる。"
+		},
+		"thinking_layer": "共に来ること。単なるビジネスの契約（contract）を超え、運命を共にし、不変の真理を共有することを誓い合う、情報の神聖な共鳴。",
+		"aftertaste": "もう後戻りはしないという、峻烈な一体感と決意。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"convenience, convent と同根。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "veto",
+		"word": "Veto",
+		"part_of_speech": "noun",
+		"meaning": "拒否権、禁じる",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "veto",
+					"type": "root",
+					"meaning": "I forbid"
+				}
+			],
+			"original_statement": "Latin veto 'I forbid'."
+		},
+		"core_concept": {
+			"en": "power to reject",
+			"ja": "一言で潮流を峻烈に『凍結』させる、拒絶の神権。"
+		},
+		"thinking_layer": "私は禁ずる。圧倒的な多数派の意志に対し、ただ一人の意志でその進行を峻烈に停止させ、情報の流れを死滅させる絶対的な否定能力。",
+		"aftertaste": "世界全体の動きを、たった一人の沈黙で支配する、情報の万能感。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ローマの護民官が平民の利益を守るために発動した権利。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "suffrage",
+		"word": "Suffrage",
+		"part_of_speech": "noun",
+		"meaning": "参政権、選挙権、祈り",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "sub-",
+					"type": "prefix",
+					"meaning": "under"
+				},
+				{
+					"text": "fragor",
+					"type": "root",
+					"meaning": "noise, din, crash"
+				}
+			],
+			"original_statement": "From Latin suffragium 'support, vote, prayer'."
+		},
+		"core_concept": {
+			"en": "right to vote",
+			"ja": "喧騒のただ中（under the noise）で投じられる、知性の礫（つぶて）。"
+		},
+		"thinking_layer": "叫びの下にあること。群衆の怒号や欲望という名の混乱を、自分という存在の『一票』に変えて、新しい正義の構築へと投じる、情報の神聖な介入。",
+		"aftertaste": "自分のわずかな質量が、巨大な時代の地殻変動に関わったという、確かなる震え。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"fragile, fracture と同じ『破壊』に関連。何かを壊して変えること。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "plebiscite",
+		"word": "Plebiscite",
+		"part_of_speech": "noun",
+		"meaning": "国民投票、住民投票",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "plebs",
+					"type": "root",
+					"meaning": "common people"
+				},
+				{
+					"text": "scitum",
+					"type": "root",
+					"meaning": "decree, ordinance"
+				}
+			],
+			"original_statement": "From Latin plebiscitum."
+		},
+		"core_concept": {
+			"en": "direct vote of all members",
+			"ja": "名もなき情報の粒子たちが放つ、絶対の布告（decree）。"
+		},
+		"thinking_layer": "庶民の決定。エリートたちが築き上げた論理の迷宮を峻烈に破壊し、民衆という名の巨大な暴力的なまでの合意を、そのまま真理として確定させる行為。",
+		"aftertaste": "圧倒的な数の力によって、すべてが塗り替えられる瞬間の目眩。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"plebeian (平民の) と scie- (知る/布告する) から。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "referendum",
+		"word": "Referendum",
+		"part_of_speech": "noun",
+		"meaning": "国民投票、照会、委託",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "re-",
+					"type": "prefix",
+					"meaning": "back"
+				},
+				{
+					"text": "ferre",
+					"type": "root",
+					"meaning": "to carry"
+				}
+			],
+			"original_statement": "From Latin referre 'to refer'."
+		},
+		"core_concept": {
+			"en": "referral of measure to vote",
+			"ja": "重要な情報の重みを、源泉たる民衆へと『持ち帰る（carry back）』。"
+		},
+		"thinking_layer": "再び運ぶこと。代表者のみでは背負いきれないほど巨大な運命の選択を、知性の原郷（民衆）へと差し戻し、直接の審判を仰ぐ。責任の徹底した分散。",
+		"aftertaste": "答えが自分たちの手に戻ってきた喜びと、その選択の重圧。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"reference, prefer と同根。持ち帰ること。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "manifesto",
+		"word": "Manifesto",
+		"part_of_speech": "noun",
+		"meaning": "宣言書、声明",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "manus",
+					"type": "root",
+					"meaning": "hand"
+				},
+				{
+					"text": "festus",
+					"type": "root",
+					"meaning": "struck, caught"
+				}
+			],
+			"original_statement": "From Latin manifestus 'palpable, clear'."
+		},
+		"core_concept": {
+			"en": "public declaration",
+			"ja": "手（hand）に触れるほど鮮明に、自らの物語を宣告する。"
+		},
+		"thinking_layer": "手で捉えられていること。曖昧な思考や理想を、文字という名の『肉体』に峻烈に固定し、誰もが読み、触れ、共鳴できるように世界へ向けて放ち出す、情報の火花。",
+		"aftertaste": "一度放たれたなら、もう二度とは撤回できないという、情報の覚悟。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"manifest (鮮明な) と同根。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "statutory",
+		"word": "Statutory",
+		"part_of_speech": "adjective",
+		"meaning": "法定の、律法による、当然の",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "statuere",
+					"type": "root",
+					"meaning": "to set up, establish"
+				}
+			],
+			"original_statement": "From Latin statutum 'law'."
+		},
+		"core_concept": {
+			"en": "prescribed by law",
+			"ja": "石の如く不動の法に、峻烈に刻印された。"
+		},
+		"thinking_layer": "立てられていること。個人の感情や時代の流行を超えて、冷徹な理性が『これこそが法である』と一度は定義した不可侵の情報の要塞。",
+		"aftertaste": "一切の議論を拒絶する、冷たい文字の圧倒的な支配感。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"statute (法令) と同じ。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "litigator",
+		"word": "Litigator",
+		"part_of_speech": "noun",
+		"meaning": "訴訟弁護士",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "lis",
+					"type": "root",
+					"meaning": "lawsuit"
+				},
+				{
+					"text": "agere",
+					"type": "root",
+					"meaning": "to drive"
+				}
+			],
+			"original_statement": "One who carry on a lawsuit."
+		},
+		"core_concept": {
+			"en": "courtroom lawyer",
+			"ja": "法廷という名の荒野を駆ける、情報の重機。"
+		},
+		"thinking_layer": "訴訟を駆動する者。沈黙を守る法の文字に、自らの情熱と論理を吹き込み、相手の不義を峻烈に粉砕しようとする、情報の最前線に立つ戦士。",
+		"aftertaste": "勝利のために、一滴の言葉の無駄も許さない、冷徹なプロフェッショナリズム。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"litigation を実際に行う主体。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "litany",
+		"word": "Litany",
+		"part_of_speech": "noun",
+		"meaning": "連祷、長々とした説明、延々の繰り返し",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "lite",
+					"type": "root",
+					"meaning": "prayer, supplication"
+				}
+			],
+			"original_statement": "From Greek litaneia 'prayer'."
+		},
+		"core_concept": {
+			"en": "tedious recital or prayer",
+			"ja": "延々と繰り返される、情報の数珠繋ぎ。"
+		},
+		"thinking_layer": "祈りの叫び。神の慈悲を求めて何度も何度も唱えられる、終わりのない情報の連鎖。転じて、退屈で峻烈なまでの執拗な事実の列挙。 ",
+		"aftertaste": "情報の洪水に飲み込まれ、思考が停止する瞬間の虚脱感。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"宗教的な交互唱から。情報のリズムの独裁。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "parole",
+		"word": "Parole",
+		"part_of_speech": "noun",
+		"meaning": "仮釈放、言葉、約束",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "parable",
+					"type": "root",
+					"meaning": "speech, word"
+				}
+			],
+			"original_statement": "From Greek parabole 'comparison, speech'."
+		},
+		"core_concept": {
+			"en": "temporary release of prisoner",
+			"ja": "『誠実な言葉（word）』を担保にした、法的な冒険。"
+		},
+		"thinking_layer": "言葉そのもの。暴力で魂を閉じ込めるのをやめ、その者の『誓いの言葉』を信じて、再び情報の海（社会）へと放ち出す、峻烈な信頼の実験。",
+		"aftertaste": "自分の言葉の重みが、人生のすべてを決定しているという緊張。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"parable (寓話/比較) と同根。パラ・ボラ。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "bailiff",
+		"word": "Bailiff",
+		"part_of_speech": "noun",
+		"meaning": "廷吏、執行官」、代官、守り人",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "bajulus",
+					"type": "root",
+					"meaning": "porter, carrier, manager"
+				}
+			],
+			"original_statement": "From Latin bajulus 'carrier'."
+		},
+		"core_concept": {
+			"en": "officer of a court",
+			"ja": "静寂なる法廷の、情報の門番。"
+		},
+		"thinking_layer": "荷を運ぶもの。自らは審判を下さず、ただ法の決定という名の『重荷』を物理的な秩序として執行し、聖域の沈黙を峻烈に守り抜く情報の重しの役割。",
+		"aftertaste": "巨大な権力の背後で、ただ静かに佇む影の存在感。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"bail (保釈金) を管理する者から。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "stipulation",
+		"word": "Stipulation",
+		"part_of_speech": "noun",
+		"meaning": "規定、明文化された条件",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "stipulare",
+					"type": "root",
+					"meaning": "to demand, bargain"
+				}
+			],
+			"original_statement": "From Latin stipula 'straw'."
+		},
+		"core_concept": {
+			"en": "requirement specified as part of agreement",
+			"ja": "藁（straw）を折るように、情報の境界を峻烈に『確定』させる。"
+		},
+		"thinking_layer": "藁を数えること。あるいは契約の際に藁を折る儀式が語源。曖昧な情報の霧を、峻烈な『条件』という一筋の光で貫き、合意を揺るぎないものに固定する行為。",
+		"aftertaste": "一つでも踏み外せばすべてが崩れる、情報の最薄の氷の上を歩く緊張。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"stipulate (規定する) から。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "docket",
+		"word": "Docket",
+		"part_of_speech": "noun",
+		"meaning": "事件一覧表、訴訟日程、情報のタグ",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "dock",
+					"type": "root",
+					"meaning": "to cut short"
+				}
+			],
+			"original_statement": "A pocket or small summary file."
+		},
+		"core_concept": {
+			"en": "calendar of cases",
+			"ja": "膨大な正義の待ち行列を、峻烈に切り分ける（cut）。"
+		},
+		"thinking_layer": "切り詰められた要約。無限に続く争いの物語を、峻烈な『番号と名前』へと要約し、審判という名の巨大な工場へと効率よく送り込むための情報のリスト。",
+		"aftertaste": "自分の苦悩が、ただの一行（line）として処理されることの、事務的な非情さ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"docking (要約) から生まれた事務用語。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "juror",
+		"word": "Juror",
+		"part_of_speech": "noun",
+		"meaning": "陪審員",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "jurare",
+					"type": "root",
+					"meaning": "to swear"
+				}
+			],
+			"original_statement": "A member of a jury."
+		},
+		"core_concept": {
+			"en": "member of a jury",
+			"ja": "日常から峻烈に引き剥がされ、真理を誓わされた孤独な鏡。"
+		},
+		"thinking_layer": "誓う者。法律の専門家ではないただの市民が、突然に他人の運命という名の『情報の重み』を背負わされ、真実を見抜くことを峻烈に強要される、非日常の聖職。",
+		"aftertaste": "自分の下した判断が、一人の人間の宇宙を決定したという、一生消えない重圧。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"jury, justice と共通の根。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "venire",
+		"word": "Venire",
+		"part_of_speech": "noun",
+		"meaning": "陪審員候補者召喚状、陪審員団",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "venire",
+					"type": "root",
+					"meaning": "to come"
+				}
+			],
+			"original_statement": "Latin venire 'to come'."
+		},
+		"core_concept": {
+			"en": "writ for summoning jurors",
+			"ja": "『来り（come）』て、正義の目撃者となれ。"
+		},
+		"thinking_layer": "来ること。ただの隣人を、峻烈な『審判の舞台』へと呼び寄せ、情報の当事者へと変容させる、法という名の絶対的な引力。",
+		"aftertaste": "平穏な日常が、たった一枚の紙で峻烈に断ち切られた時の震え。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"convention, prevent と同じ『来る』こと。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "arraignment",
+		"word": "Arraignment",
+		"part_of_speech": "noun",
+		"meaning": "罪状認否、召喚手続き",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "ad-",
+					"type": "prefix",
+					"meaning": "to"
+				},
+				{
+					"text": "ratio",
+					"type": "root",
+					"meaning": "reason, account, calculation"
+				}
+			],
+			"original_statement": "From Latin ratio 'account'."
+		},
+		"core_concept": {
+			"en": "legal proceeding to call before court",
+			"ja": "情報の計算（ratio）に、自らの魂を初めて照らし合わせる。"
+		},
+		"thinking_layer": "勘定を合わせること。犯したとされる罪状という名の『負債』に対し、自らがどう立ち向かうかを、公的な法廷で峻烈に宣告する、裁判の最初の臨界点。",
+		"aftertaste": "これから始まる巨大な戦いの序幕を、峻烈に突きつけられた戦慄。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"reason, ration と同根。情報の整合性。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "brief",
+		"word": "Brief",
+		"part_of_speech": "noun",
+		"meaning": "訴訟事件適要、要約、指令書",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "brevis",
+					"type": "root",
+					"meaning": "short"
+				}
+			],
+			"original_statement": "From Latin brevis."
+		},
+		"core_concept": {
+			"en": "summary of facts",
+			"ja": "膨大なカオスを、鋭き知性で『切り詰めた（short）』不落の弾丸。"
+		},
+		"thinking_layer": "短いこと。冗長な言い訳を峻烈に削ぎ落とし、勝機という名の『一点の真理』にまで情報を圧縮（compression）した、言葉の武器。",
+		"aftertaste": "読み終えた後に、反論の余地すら残さない、圧倒的な論理の短刀。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"abbreviate, gravity? (いや違う) brevis は『短さの支配者』。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "bequest",
+		"word": "Bequest",
+		"part_of_speech": "noun",
+		"meaning": "遺贈、遺産",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "be-",
+					"type": "prefix",
+					"meaning": "thoroughly"
+				},
+				{
+					"text": "cwethan",
+					"type": "root",
+					"meaning": "to say, speak"
+				}
+			],
+			"original_statement": "From Old English becwethan 'to say, assign'."
+		},
+		"core_concept": {
+			"en": "property left in a will",
+			"ja": "死者の最後の『言挙げ（saying）』が、物質へと結晶した奇跡。"
+		},
+		"thinking_layer": "徹底的に言うこと。自らの肉体が消え去る瞬間に、たった一言『これはお前にやる』と放った言葉が、時を超えて富へと変化する、情報の魔法の継承。",
+		"aftertaste": "受け取った財産の重みの中に、故人の最後の声を聞く静かな震え。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"quote (引用する) と遠い縁。語ることの重厚さ。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
