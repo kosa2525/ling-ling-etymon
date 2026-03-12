@@ -276603,5 +276603,155 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "telomere",
+		"word": "Telomere",
+		"part_of_speech": "noun",
+		"meaning": "テロメア",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "telos",
+					"type": "root",
+					"meaning": "end"
+				}
+			],
+			"original_statement": "From Greek telos."
+		},
+		"core_concept": {
+			"en": "chromosome end",
+			"ja": "命の砂時計。"
+		},
+		"thinking_layer": "『終わりの部分』。有限性を肉体に刻印し、今を生き切る美学。削り取られる時間の中で真理を紡ぐメタファー。",
+		"aftertaste": "生の密度を高める平安。終わりがあるからこそ物語は輝くという自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kwel-",
+					"meaning": "to turn"
+				}
+			],
+			"points": [
+				"ハマン・マラーによる造語。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "transposon",
+		"word": "Transposon",
+		"part_of_speech": "noun",
+		"meaning": "トランスポゾン",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "trans-",
+					"type": "prefix",
+					"meaning": "across"
+				}
+			],
+			"original_statement": "From transpose."
+		},
+		"core_concept": {
+			"en": "jumping gene",
+			"ja": "ゲノムの放浪者。"
+		},
+		"thinking_layer": "『場所を越えて置かれたもの』。既存の枠組みを飛び越え、新しい文脈へと自らを接ぎ木する創造的破壊の意志。",
+		"aftertaste": "生命の本源的な自由を知る平安。固定観念という牢獄を抜け出し転位し続ける冒険者の自尊心。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"バーバラ・マクリントックによる発見。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "intron",
+		"word": "Intron",
+		"part_of_speech": "noun",
+		"meaning": "イントロン",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "intra-",
+					"type": "prefix",
+					"meaning": "within"
+				}
+			],
+			"original_statement": "Intragenic region."
+		},
+		"core_concept": {
+			"en": "non-coding region",
+			"ja": "沈黙の余白。"
+		},
+		"thinking_layer": "『遺伝子の中のもの』。無駄や沈黙を深層に宿すことで、多様な組み換えという知の余裕を確保する知恵。",
+		"aftertaste": "自分の中に眠る膨大な物語を確信する平安。饒舌な主張の隙間に聖域を提供する自尊心。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ウォルター・ギルバートによる造語。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "exon",
+		"word": "Exon",
+		"part_of_speech": "noun",
+		"meaning": "エクソン",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "ex-",
+					"type": "prefix",
+					"meaning": "out"
+				}
+			],
+			"original_statement": "Expressed region."
+		},
+		"core_concept": {
+			"en": "coding region",
+			"ja": "公然の意志。"
+		},
+		"thinking_layer": "『外に現れるもの』。混沌とした思考から唯一の真理を研ぎ澄まし、世界に宣誓する冷徹な決断の意志。",
+		"aftertaste": "選び抜かれた奇跡を悟る平安。曇ることのない真理のエッセンスを抽出し行動へと変える自尊心。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ウォルター・ギルバートによる造語。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "ribozyme",
+		"word": "Ribozyme",
+		"part_of_speech": "noun",
+		"meaning": "リボザイム",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "ribo",
+					"type": "root",
+					"meaning": "RNA"
+				}
+			],
+			"original_statement": "RNA + enzyme."
+		},
+		"core_concept": {
+			"en": "catalytic RNA",
+			"ja": "原初の錬金術師。"
+		},
+		"thinking_layer": "『情報の酵素』。情報そのものが道具となって世界を書き換える。空論ではなく現実を変革する知の触媒のメタファー。",
+		"aftertaste": "情報の魔法に目眩を覚える平安。未来という新しい生命を自律的に生み出し続ける自尊心。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トマス・チェックらによる発見。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
