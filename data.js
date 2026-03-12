@@ -257157,5 +257157,86 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "limpid",
+		"word": "Limpid",
+		"part_of_speech": "adjective",
+		"meaning": "清らかな、透明な、澄んだ、（文体が）明快な",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "limpa / lympha",
+					"type": "root",
+					"meaning": "clear water, water nymph (清らかな水、水の精)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin limpidus, from limpa, variant of lympha 'water'."
+		},
+		"core_concept": {
+			"en": "(of a liquid) free of anything that darkens; completely clear; (of writing or music) clear and accessible or melodious",
+			"ja": "汚れ一つない『清らかな水（clear water）』のように、底まで透き通って見える、混じりけのない透明さ。転じて、一点の曇りもない思考、あるいは迷いのない真っ直ぐな言葉の響き"
+		},
+		"thinking_layer": "『清らかな水の』。リンパ（Lymph）やランピッド（Limpid）。語源の「Lympha」は水の女神をも指します。ただ「透明」なだけでなく、そこに「潤い」と「命（vitality）」が宿っていること。それはアルプスの山頂から湧き出る泉、あるいは、嘘をつけない子供の澄んだ瞳。世界を洗う、浄化のエネルギー。",
+		"aftertaste": "あまりにも美しく「澄み切った（limpid）」泉の底に、沈んでいる銀貨がすぐそこにあるかのように見える、あの心地よい視覚的錯覚。あるいは、複雑な真理を、たった一行の「明快な（limpid）」言葉で説明された時の、脳の霧が晴れ渡るような知的カタルシス。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "nebh-",
+					"meaning": "cloud, water (forming lympha?)"
+				}
+			],
+			"points": [
+				"lymph, nebulous（曇った）, nimbus 同根の説あり。",
+				"『水』が『曇り（cloud）』を失うことで『透明（limpid）』になるように、知性もまた『雑念』を排することで、真理を真っ直ぐに映し出す鏡となる。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "rarefied",
+		"word": "Rarefied",
+		"part_of_speech": "adjective",
+		"meaning": "（空気が）希薄な、純化した、高尚な、俗世を離れた",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "rarus-",
+					"type": "prefix",
+					"meaning": "rare, thin (まれな、薄い)"
+				},
+				{
+					"text": "facere",
+					"type": "root",
+					"meaning": "to make (作る)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin rarefacere, from rarus 'rare' + facere 'make'."
+		},
+		"core_concept": {
+			"en": "(of air or gas) lower in pressure than usual; thin; distant from the lives and concerns of ordinary people",
+			"ja": "密度を徹底的に削ぎ落とし、純粋なエッセンスだけを『希薄に（rare）』『作り上げた（make）』状態。酸素の薄い山頂のような、選ばれた者しか呼吸できない『高尚』で『排他的』な領域"
+		},
+		"thinking_layer": "『薄く作ること』。レア（Rare/珍しい）やファクトリー（Factory）と同根。ただ「薄い」のではなく、不純物を排して「高度に純化した（purified）」という、エリート的なニュアンスを含みます。それは最先端の科学理論、あるいは、一握りの富裕層だけが共有する贅沢な文化。そこでは日常の「重み」は消え、冷たく澄んだ「抽象」だけが支配しています。",
+		"aftertaste": "誰も登ったことのない雪山の頂で、冷たくて「希薄な（rarefied）」空気を肺いっぱいに吸い込む時の、あの意識が遠のくような、しかし研ぎ澄まされた法悦。あるいは、あまりにも高度すぎて自分以外誰も理解できない理論を書き終えた時の、あの至高の孤独と誇り。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ere-",
+					"meaning": "thin (forming rarus?)"
+				},
+				{
+					"term": "dhē-",
+					"meaning": "to put, do (forming facere)"
+				}
+			],
+			"points": [
+				"rare, result, factory, effect 同根。",
+				"『価値（value）』とは、情報の密度を『薄く（rare）』し、代替不可能な『一（one）』へと純化させる（rarefy）プロセスによってのみ生成される。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
