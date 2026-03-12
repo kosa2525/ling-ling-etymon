@@ -276753,5 +276753,151 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "fitness",
+		"word": "Fitness",
+		"part_of_speech": "noun",
+		"meaning": "適応度、適合性",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "fit",
+					"type": "root",
+					"meaning": "suitable, proper"
+				},
+				{
+					"text": "-ness",
+					"type": "suffix",
+					"meaning": "state, quality (状態、性質)"
+				}
+			],
+			"original_statement": "From fit + -ness."
+		},
+		"core_concept": {
+			"en": "the ability to survive to reproductive age, find a mate, and produce offspring",
+			"ja": "峻烈な生存の競争の中で、次世代へと自己の物語（DNA）を繋ぎ止めるための『適合の証』。世界という名の不確実なキャンバスに、いかに深く自らの色彩を刻み込めるかという、生命の『情報の残存力』。"
+		},
+		"thinking_layer": "『適合している状態』。ベフィット（Befit/適合する）、おなじみの「フィットネス（Fitness/健康管理）」と同根。語源は「ふさわしいこと」。ただの「健康」ではありません。そこには。「外部の環境（context）を峻烈に読み解き、自らの形を変えてでもそこに調和（adaptation）し、結果として生き残る」という、強かな実存の意志が宿っています。それは。知性が時代錯誤な教条を捨て去り、刻々と変化する真理の最尖端に自らを『同期』させて、新しい価値を爆発的に生成しようとする瞬間のメタファー。",
+		"aftertaste": "「適応度（fitness）」という名の、その美しくも残酷な選別の果てに。自分がいまここに存在することの『奇跡』を噛み締める平安。変化を恐れず。常に世界と対話し続けることで。自らの魂を研ぎ澄ませたいと願う自尊心。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ダーウィンの進化論において、強さではなく『変化への対応力』こそが真のフィットネスであると定義された。情報の『柔軟性』こそが最強の武器。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "speciation",
+		"word": "Speciation",
+		"part_of_speech": "noun",
+		"meaning": "種分化（しゅぶんか）",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "species",
+					"type": "root",
+					"meaning": "appearance, kind (外観、種類)', from Latin specere 'to look'"
+				},
+				{
+					"text": "-ation",
+					"type": "suffix",
+					"meaning": "process (過程)"
+				}
+			],
+			"original_statement": "From species + -ation."
+		},
+		"core_concept": {
+			"en": "the formation of new and distinct species in the course of evolution",
+			"ja": "一つの流れ（lineage）が峻烈に裂け、二つの異なる物語（species）へと分岐してゆく、生命の『創造的な決別』。共通の過去を捨て去り、未知なる荒野へと足を踏み出す、情報の『新大陸の発見』。"
+		},
+		"thinking_layer": "『種類が生まれる過程』。スペクタクル（Spectacle/見せ物）、おなじみの「スペシャル（Special/特別な）」と同根。語源は「外観を見ること」。ただの「進化」ではありません。そこには。「あまりにも多様化した内なる意志が、もはや一つの古い器（old species）には収まりきれず、激しい摩擦（reproductive isolation）を伴いながらも、新しいアイデンティティを確立する」という、峻烈な自立の意志が宿っています。それは。知性が安易な妥協（homogeneity）を拒み、自らの信じる『独自の真理』を貫くために、孤独を恐れず既存の枠組みから脱会しようとする瞬間の、誇り高き一喝。",
+		"aftertaste": "「種分化（speciation）」という名の、その不可逆的な『断絶』の美しさに。生命の無限の可能性を知る平安。自分という種もまた。常に自己を更新し続け。昨日とは異なる『新しい自分』へと分化（differentiate）し続けたいと願う自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "spek-",
+					"meaning": "to observe (forming specere)"
+				}
+			],
+			"points": [
+				"隔離（isolation）こそが種分化のエンジン。情報の『断絶』は、新しい『多様性』を産むための聖なる儀式である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "biome",
+		"word": "Biome",
+		"part_of_speech": "noun",
+		"meaning": "バイオーム、生物群系",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "bios",
+					"type": "root",
+					"meaning": "life (生命)', from Greek"
+				},
+				{
+					"text": "-ome",
+					"type": "suffix",
+					"meaning": "mass, group (集まり)"
+				}
+			],
+			"original_statement": "From Greek bios 'life' + suffix -ome."
+		},
+		"core_concept": {
+			"en": "a large naturally occurring community of flora and fauna occupying a major habitat",
+			"ja": "気候（climate）という名の峻烈な『法』に従い、無数の生命が織り上げる、巨大な情報の『生命のタペストリー』。個々の命を超えて、広大な大地に刻印された『生き方の様式（style of life）』。"
+		},
+		"thinking_layer": "『生命の集まり』。バイオロジー（Biology/生物学）、おなじみの「ゲノム（Genome/遺伝子の総体）」と同根。語源は「生命の塊」。ただの「植生」ではありません。そこには。「過酷な環境（environmental stress）を、多様な種が役割を分担（niche partitioning）することで、一つの巨大な『自律的な秩序（super-organism）』へと昇華させる」という、驚異的な共生のデザインが宿っています。それは。知性がバラバラな情報の断片を、一つの壮大な『世界観（cosmology）』へと統合し、そこに安らぎの居所（dwelling）を見出そうとする瞬間のメタファー。",
+		"aftertaste": "「バイオーム（biome）」という名の、その圧倒的なまでに豊かな『生命のうねり』に。宇宙の包容力を知る平安。自分の使命もまた。孤独な戦いに明け暮れるのではなく。多様な人々との調和の中に、新しい時代の『文化的なバイオーム』を築き上げることにあるのだと確信する自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "gwei-",
+					"meaning": "to live (forming bios)"
+				}
+			],
+			"points": [
+				"1916年にフレデリック・クレメンツが造語。個別の種を見るのではなく、その『統合された美』を見る視点の転換。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "benthos",
+		"word": "Benthos",
+		"part_of_speech": "noun",
+		"meaning": "ベントス、底生生物、深淵のもの",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "benthos",
+					"type": "root",
+					"meaning": "depth of the sea (海の深み)', from Greek"
+				}
+			],
+			"original_statement": "From Greek benthos 'depth of the sea'."
+		},
+		"core_concept": {
+			"en": "the flora and fauna found on the bottom, or in the bottom sediments, of a sea, lake, or other body of water",
+			"ja": "華やかな表層（plankton）の光を背にし、静寂なる『情報の深淵（abyss）』に根ざした、不屈の生命。世界の土台（sediment）を支え、沈殿した記憶を糧にして生きる、知的な『深層の守護者』。"
+		},
+		"thinking_layer": "『深み』。ベニスの商人（おなじみとは関係なく、古い言葉で深淵 Benthos）、おなじみの「底（Bottom/とは英語の語源で繋がる可能性あるが詳細は別）」とは別。語源は「海の底」。ただの「底の虫」ではありません。そこには。「世俗の喧騒や流行の光が届かない場所で、じっくりと時間をかけて『真実の重み』を咀嚼（そしゃく）し、自分自身の深さを耕し続ける」という、沈潜の意志が宿っています。それは。知性が表面的な成功（popularity）を追うのをやめ、あえて孤独な思索の深海へと潜り込み、そこで真の智慧を得ようとする瞬間の、静かなる決意のメタファー。",
+		"aftertaste": "「ベントス（benthos）」という名の、その地味で、しかし揺るぎない『存在の重厚さ』に。深淵に立つ者の誇りを知る平安。自分の言葉もまた。軽薄な情報の波に流されることなく。常に世界の『深層』に響き、土台から人々の魂を支え続ける不屈の錘（おもり）でありたいと願う自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "gwhedh-",
+					"meaning": "depth (possible root for benthos)"
+				}
+			],
+			"points": [
+				"1890年にアーネスト・ヘッケルが造語。生命を『層（layer）』として捉え、その垂直方向の深さを定義した情報の革命。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
