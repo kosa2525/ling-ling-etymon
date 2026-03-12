@@ -277404,5 +277404,204 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "autonomic",
+		"word": "Autonomic",
+		"part_of_speech": "adjective",
+		"meaning": "自律的な、自律神経の",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "autos",
+					"type": "root",
+					"meaning": "self"
+				},
+				{
+					"text": "nomos",
+					"type": "root",
+					"meaning": "law"
+				}
+			],
+			"original_statement": "From Greek autonomikos."
+		},
+		"core_concept": {
+			"en": "acting independently",
+			"ja": "自己の法に従う自律の系譜。"
+		},
+		"thinking_layer": "『自己の法に従う』。外部の意思に惑わされず、生命が自ら定めた黄金律に従って駆動する自動操縦士。知性が群衆の狂騒から距離を置き、良心の法にのみ従おうとする瞬間のメタファー。",
+		"aftertaste": "揺るぎない生命の自律性に、宇宙への深い信頼を知る平安。内なる法に従い美しくありたい自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "nem-",
+					"meaning": "to assign"
+				}
+			],
+			"points": [
+				"生命を独立した統治体として捉える情報の革命。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "parasympathetic",
+		"word": "Parasympathetic",
+		"part_of_speech": "adjective",
+		"meaning": "副交感神経の",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "para",
+					"type": "prefix",
+					"meaning": "beside"
+				},
+				{
+					"text": "sym",
+					"type": "prefix",
+					"meaning": "together"
+				},
+				{
+					"text": "pathos",
+					"type": "root",
+					"meaning": "feeling"
+				}
+			],
+			"original_statement": "From beside sympathetic."
+		},
+		"core_concept": {
+			"en": "rest and digest system",
+			"ja": "安らぎの調律師。静かなる慈悲。"
+		},
+		"thinking_layer": "『共鳴の傍らにあるもの』。興奮の火を鎮め、細胞の深層に潤いと再生をもたらす情報の修復者。激しい葛藤の後に聖域を設け、魂の均衡を丁寧に取り戻そうとする瞬間のメタファー。",
+		"aftertaste": "深い安堵が魂を満たす悦び。人々の心に静かな安らぎを届ける穏やかな波紋でありたい自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kwent-",
+					"meaning": "to suffer"
+				}
+			],
+			"points": [
+				"迷走神経が主役。彷徨が安らぎを連れてくるという生命の逆説。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "sympathetic",
+		"word": "Sympathetic",
+		"part_of_speech": "adjective",
+		"meaning": "交感神経の、共鳴する",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "sym",
+					"type": "prefix",
+					"meaning": "together"
+				},
+				{
+					"text": "pathos",
+					"type": "root",
+					"meaning": "feeling"
+				}
+			],
+			"original_statement": "From Greek sympatheia."
+		},
+		"core_concept": {
+			"en": "fight or flight system",
+			"ja": "戦闘の喇叭。生命の情報の連帯。"
+		},
+		"thinking_layer": "『共に感じること』。危機の瞬間に世界とシンクロし、肉体を覚醒へと叩き込む。自分一人の安泰を捨て、眼前の脅威と全身全霊で対峙し運命を共に引き受ける高潔な情熱のメタファー。",
+		"aftertaste": "世界と一つに繋がっているという強烈な実存感。人々の心に火を灯し、挑戦へと駆り立てる共鳴盤でありたい自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kwent-",
+					"meaning": "to suffer"
+				}
+			],
+			"points": [
+				"内臓同士を共鳴させる情報の連鎖反応というデザイン。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "stimulus",
+		"word": "Stimulus",
+		"part_of_speech": "noun",
+		"meaning": "刺激（しげき）、励み",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "stimulus",
+					"type": "root",
+					"meaning": "goad, prick"
+				}
+			],
+			"original_statement": "From Latin stimulus."
+		},
+		"core_concept": {
+			"en": "evoking a reaction",
+			"ja": "情報の突き棒。侵入者の美学。"
+		},
+		"thinking_layer": "『突き棒』。沈滞した物語を貫き、新しい反応を爆発させる。安住しがちな慣心を峻烈に破壊し、生命を常に更新のステージへと押し上げる進化の無慈悲な慈愛のメタファー。",
+		"aftertaste": "鋭い痛みが自分をより高いステージへ導いてくれたことへの感謝。眠りから叩き起こす知の突き棒でありたい自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "steig-",
+					"meaning": "to prick"
+				}
+			],
+			"points": [
+				"家畜を追う棒が語源。痛みという情報の導きで前へ進まされる真理。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "nociception",
+		"word": "Nociception",
+		"part_of_speech": "noun",
+		"meaning": "侵害受容（しんがいじゅよう）",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "nocere",
+					"type": "root",
+					"meaning": "to hurt"
+				},
+				{
+					"text": "capere",
+					"type": "root",
+					"meaning": "to take"
+				}
+			],
+			"original_statement": "From Latin nocere + reception."
+		},
+		"core_concept": {
+			"en": "perception of pain",
+			"ja": "警告の宣誓。守護の牙。"
+		},
+		"thinking_layer": "『害を受け取ること』。生命の崩壊を告げる不協和音を鋭敏に捉え自らを愛し守るための自己愛。微細な悪意や虚飾を嗅ぎ分け、魂を汚染から守り抜こうとする峻烈な門衛のメタファー。",
+		"aftertaste": "脆弱さと強さを同時に抱きしめる平安。真実のみを受け入れ続ける厳格なる知の門衛でありたい自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "nek-",
+					"meaning": "death"
+				},
+				{
+					"term": "kap-",
+					"meaning": "to grasp"
+				}
+			],
+			"points": [
+				"情報は衝突によってその本質を現すという真理。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
