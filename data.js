@@ -273703,5 +273703,184 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "receptor",
+		"word": "Receptor",
+		"part_of_speech": "noun",
+		"meaning": "受容体（じゅようたい）、レセプター",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "re-",
+					"type": "prefix",
+					"meaning": "back (戻って)"
+				},
+				{
+					"text": "capere",
+					"type": "root",
+					"meaning": "to take (取る)', from Latin"
+				}
+			],
+			"original_statement": "From Latin receptor, from recipere 'receive', from re- 'back' + capere 'take'."
+		},
+		"core_concept": {
+			"en": "An organ or cell able to respond to light, heat, or other external stimulus and transmit a signal to a sensory nerve",
+			"ja": "外部からの微かな『呼びかけ（signal）』を峻烈に受け止め（take back）、自らの内に取り込む『知的な鍵穴』。一分子の正体を見極め、沈黙を言葉（impulse）へと変換する、生命の『情報の最前線』。"
+		},
+		"thinking_layer": "『取り戻すもの』。コンセプト（Concept/概念）、キャパシティ（Capacity/容量）、おなじみの「アクセプト（Accept/受け入れる）」と同根。語源は「受け取ること」。ただの「受取人」ではありません。そこには。「自分にふさわしい特定の存在（ligand）だけを、選び取って（selection）結合する」という、峻烈な意思の選別が宿っています。それは。知性が溢れる情報の中から、自らの血肉となる「真実のエッセンス」だけを正確にキャッチし、それを思考の発火点にする瞬間のメタファー。",
+		"aftertaste": "自分の細胞の一つ一つが、無数の「受容体（receptor）」を宇宙に向けて開き、絶え間なく「意味」を吸収し続けていることに想いを馳せ、自分という存在がいかに「世界との対話」によって成り立っているかを悟る、あの知的な平安。あるいは、自分の思考もまた、この「レセプター」のように、どんなに微かな真理の断片も見逃さず、それを美しい「知の体系」へと繋ぎ留めるための「高感度なアンテナ」でありたい、と願う、あの静かな午後の自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kap-",
+					"meaning": "to grasp (forming capere)"
+				}
+			],
+			"points": [
+				"capture, cache, conceive, occupy, prince 同根。",
+				"『掴む（grasping）』ことは、世界を所有することの始まりである。受容体という言葉には、生命がいかにして、単なる『受動的な存在』から、特定の情報を『能動的に選び取る主体』へと進化してきたかという、認識の主権が刻まれている。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "ganglion",
+		"word": "Ganglion",
+		"part_of_speech": "noun",
+		"meaning": "神経節（しんけいせつ）、ガングリオン",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "ganglion",
+					"type": "root",
+					"meaning": "tumor, swelling, knot (腫瘍、腫れ、結び目)', from Greek"
+				}
+			],
+			"original_statement": "From Greek ganglion 'tumor, knot under the skin'."
+		},
+		"core_concept": {
+			"en": "A structure containing a number of nerve cell bodies, typically linked by synapses, and often forming a swelling on a nerve fiber",
+			"ja": "情報の奔流（impulse）が交差し、凝縮し、再編される『知的なインターチェンジ』。神経の糸が絡まり合い、そこに一つの『結び目（knot）』を作ることで生まれる、自律的な『情報の出張所』。"
+		},
+		"thinking_layer": "『腫れもの、結び目』。特になし。語源は「結び目、腫れ」。ただの「神経の塊」ではありません。そこには。「膨大な情報が一点に集中することで、そこに『熱（energy）』と『独自の判断』が宿る」という、局所的な知性の発生が宿っています。それは。知性が複雑に絡み合った問題の中に、一つの決定的な「結び目（core insight）」を見出し、そこから新しい思考の回路を爆発的に広げてゆく瞬間のメタファー。",
+		"aftertaste": "複雑な神経ネットワークの中に点在する「神経節（ganglion）」の、その控えめでありながらも峻烈な「ハブ（hub）」としての機能に想いを馳せ、自分の直感（intuition）もまた、このような「知の腫れもの」のような場所で、密かに醸造されているのだと悟る、あの知的な平安。あるいは、自分の言葉もまた、この「ガングリオン」のように、人々の心の中に一つの「忘れられない結び目」を残し、そこから永劫に続く思考の連鎖を引き起こすものでありたい、と願う、あの静かな夜の自尊心。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ギリシャ語の ganglion はもともと『皮膚の下の腫れもの』を意味していたが、ガレノスが神経の結び目に使用したことで現在の意味になった。",
+				"『結ぶ（knotting）』ことは、流れを一時的に留め、そこに『意味の濃度』を生み出すことである。ガングリオンは、生命がいかにして『情報の分散処理』を実現し、中枢に頼り切らない強靭なサバイバル能力を獲得してきたかを示す、物理的なネットワーク工学の記録である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "axon",
+		"word": "Axon",
+		"part_of_speech": "noun",
+		"meaning": "軸索（じくさく）、アクソン",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "axon",
+					"type": "root",
+					"meaning": "axis (軸)', from Greek"
+				}
+			],
+			"original_statement": "From Greek axon 'axis'."
+		},
+		"core_concept": {
+			"en": "The long threadlike part of a nerve cell along which impulses are conducted from the cell body to other cells",
+			"ja": "細胞の核（core）から放たれた意志の一矢を、遠く離れた他者へと届けるための『情報の超特急』。迷うことなく、ただ垂直に、真理を運ぶための峻烈な『知のインフラ』。"
+		},
+		"thinking_layer": "『軸』。アクスル（Axle/車軸）、アクシス（Axis/軸）、おなじみの「アイアン（Iron/とは関係なく）」と同根。語源は「軸」。ただの「突起」ではありません。そこには。「目的地に向かって、一直線（straight line）に最短距離で情報を叩き込む」という、極限の目的意識が宿っています。それは。知性が得た確信を、一切の迷いなく言語化し、他者の心という標的（target）に向かって鋭く放つ瞬間のメタファー。",
+		"aftertaste": "顕微鏡の下で、どこまでも長く伸びてゆく「軸索（axon）」の、その美しくも峻烈な「一本道」の軌跡を見つめ、自分もまた、何か一つのことに対してこれほどの純粋な「志（vision）」を持って突き進めているのかを自問する、あの峻烈な一呼吸。あるいは、自分の思考もまた、この「アクソン」のように、複雑なノイズを排し、ただ一つの「核心的なメッセージ」を、最も遠い未来へと届けるための屈強な「軸」でありたい、と願う、あの静かな午後の自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ag-",
+					"meaning": "to drive, draw out, move (forming axon)"
+				}
+			],
+			"points": [
+				"axis, axle, agent, agile, agony 同根。",
+				"『動かす（driving）』ための『支柱（support）』。軸索という言葉には、生命がいかにして『静的な存在（cell body）』から、『動的な対話（connection）』へとその領域を拡張してきたかという、飛躍の歴史が刻まれている。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "myelin",
+		"word": "Myelin",
+		"part_of_speech": "noun",
+		"meaning": "髄鞘（ずいしょう）、ミエリン",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "muelos",
+					"type": "root",
+					"meaning": "marrow (髄)', from Greek"
+				}
+			],
+			"original_statement": "From Greek muelos 'marrow'."
+		},
+		"core_concept": {
+			"en": "A mixture of proteins and phospholipids forming a whitish insulating sheath around many nerve fibers, increasing the speed at which impulses are conducted",
+			"ja": "情報の軸（axon）を幾重にも包み込み、電気的ノイズを峻烈に遮断（insulation）する『智慧の絶縁体』。ただ速く、ひたすら正確に意志を伝えるための、知的な『加速のヴェール』。"
+		},
+		"thinking_layer": "『髄』。特になし。語源は「髄、脳髄」。ただの「膜」ではありません。そこには。「剥き出しの意志（impulse）は脆い。だからこそ、洗練された知識という名の『鞘（sheath）』で保護しなければならない」という、情報の防衛本能が宿っています。それは。知性が自らの閃きを、論理的な裏付けや歴史的な文脈という名の「ミエリン」で包み込み、一気に他者の心へと跳躍（saltation）させようとする瞬間のメタファー。",
+		"aftertaste": "「ミエリン鞘（myelin sheath）」の存在によって、神経伝達速度が劇的に向上するという事実を知り、自分自身の成長もまた、このような「見えない蓄積（wrapping）」の結果なのだと深く納得する、あの知的な平安。あるいは、自分の言葉もまた、この「ミエリン」のように、本質的な「熱（impulse）」を外に逃すことなく、より高く、より遠くへと、最短時間で届けるための「美しき鞘」でありたい、と願う、あの静かな夜の自尊心。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ミエリンの白色（white matter）は、脳がいかにして『接続（connection）』を重視してきたかを示す色彩である。",
+				"『髄（marrow）』は、物事の最も深い場所にある『生命の源』を指す。ミエリンという言葉には、最奥の秘密（髄）を、最前線の武器（鞘）へと転用した、生命の壮大な転回が秘められている。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "epithelium",
+		"word": "Epithelium",
+		"part_of_speech": "noun",
+		"meaning": "上皮（じょうひ）、エピセリウム",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "epi-",
+					"type": "prefix",
+					"meaning": "upon (の上に)"
+				},
+				{
+					"text": "thele",
+					"type": "root",
+					"meaning": "nipple (乳頭)', from Greek"
+				}
+			],
+			"original_statement": "From Greek epi- 'upon' + thele 'nipple'."
+		},
+		"core_concept": {
+			"en": "The thin tissue forming the outer layer of a body's surface and lining the alimentary canal and other hollow structures",
+			"ja": "世界のあらゆる衝撃と最初に接触し、自らのアイデンティティを峻烈に主張する『知的な境界線』。奥深くの神聖な器官を、世俗の汚濁から死守する、生命の『情報の防護壁』。"
+		},
+		"thinking_layer": "『乳頭の上に置かれたもの』。エピセンター（Epicenter/震央）、エピグラフ（Epigraph/銘文）、おなじみの「ハイポ（下の）」の対義語と同根。語源は「乳頭（の隆起）の上の組織」。ただの「皮」ではありません。そこには。「あらゆる環境変動を真っ先に感知し、それに応じた適切な『盾』へと自らを変化（metaplasia）させる」という、驚異的な適応能力が宿っています。それは。知性が現実という名の「最前線」において、自らの輪郭を常に鋭敏に保ち、どんなに微かな真実の徴候も見逃さないように構えている瞬間のメタファー。",
+		"aftertaste": "自分の全身を覆う「上皮（epithelium）」の、その一、二層という極限の薄さの中に、何十億年もの「防衛の歴史」が凝縮されていることに畏怖を覚え、自分という存在がいかに「守られし者（the protected）」であるかを知り、深い感謝に満たされる、あの知的な平安。あるいは、自分の思考もまた、この「エピセリウム」のように、どんなに激しい時代の変遷に晒されても、常に自らの「内なる聖域」を守り抜き、凛とした美しさを保ち続けるものでありたい、と願う、あの静かな午後の自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "epi-",
+					"meaning": "upon (forming epi-)"
+				},
+				{
+					"term": "dhe-",
+					"meaning": "to suck, suckle (forming thele)"
+				}
+			],
+			"points": [
+				"epidemic, episode, female, fecund, fetus 同根。",
+				"『上に（upon）』あることと『乳（suckling）』を育むこと。この言葉は、生命がいかにして『防衛（outer surface）』と『扶養（nourishment）』という、生きるための二大機能を一つの『膜』において統合してきたかという、究極の機能美を象徴している。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
