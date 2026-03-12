@@ -265241,5 +265241,210 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "efflux",
+		"word": "Efflux",
+		"part_of_speech": "noun",
+		"meaning": "流出、流出物、（時間の）経過",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "ex-",
+					"type": "prefix",
+					"meaning": "out (外へ)"
+				},
+				{
+					"text": "fluere",
+					"type": "root",
+					"meaning": "to flow (流れる)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin effluxus, from effluere 'flow out'."
+		},
+		"core_concept": {
+			"en": "The action of flowing out; that which flows out",
+			"ja": "内側に溜まっていたエネルギーや物質が、境界線を越えて一気に『外へ（out）』『流れ出す（flowing）』現象。抑圧からの解放であり、同時に自己の一部が世界へと溶け出していくプロセス"
+		},
+		"thinking_layer": "『外に流れること』。フルイド（Fluid/流体）、フルーエント（Fluent/流暢な）、おなじみの「エクス（外）」と同根。語源は「流れ出ること」。インフラックス（Influx/流入）の対義語。ただの「漏れ」ではありません。意志を持って、あるいは必然的に「排出（discharge）」されること。それは。知性の蓄積が、言葉となって外部へと溢れ出す（overflow）瞬間のメタファー。 ",
+		"aftertaste": "心のダムが決壊し、溜め込んでいた想いが「エフラックス（efflux）」となって言葉の奔流（torrent）に変わるのを感じ、その圧倒的な「空虚（emptiness）」と引き換えに得られる清々しい解放感。あるいは、自分の純粋なアイディアが、世俗の影響を受けて「流出（efflux）」し、薄められてゆくのを静かに見送る、あの知的な寂しさと諦念。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "bhleu-",
+					"meaning": "to swell, overflow (forming fluere)"
+				}
+			],
+			"points": [
+				"flow, flood, fluent, influence 同根。",
+				"『流れる（flowing）』ことは生命の持続だが、それが『外へ（ex-）』向かうとき、存在は自己完結を止め、他者や世界との『交換（exchange）』を開始する。エフラックス（efflux）はその交換の始点である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "influx",
+		"word": "Influx",
+		"part_of_speech": "noun",
+		"meaning": "流入、殺到、（川の）合流点",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "in-",
+					"type": "prefix",
+					"meaning": "in, into (中へ)"
+				},
+				{
+					"text": "fluere",
+					"type": "root",
+					"meaning": "to flow (流れる)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin influxus, past participle of influere 'flow in'."
+		},
+		"core_concept": {
+			"en": "An arrival or entry of large numbers of people or things; an inflow of water into a river, lake, or the sea",
+			"ja": "外部から『中へ（into）』、大量の力や情報が『流れ込んで（flowing）』くる現象。静止していた場所に新しいリズムが持ち込まれ、システムが予期せぬ変容（transformation）を遂げる契機"
+		},
+		"thinking_layer": "『中に流れること』。インフルエンス（Influence/影響＝流れ込むもの）、インフルエンザ（Influenza/流行感冒＝星の影響）、おなじみの「イン（中）」と同根。語源は「流れ込むこと」。ただの「増加」ではありません。そこには「不可避な浸透（penetration）」のニュアンスがあります。それは。他者の思想や時代の空気が、自分の内なる平穏を乱し、新しい「波（wave）」を形作る瞬間のメタファー。",
+		"aftertaste": "新しい知識の「流入（influx）」によって、自分の中の古い知識の層（layers）が攪乱（stirring）され、混沌（chaos）を経てより高次な理解へと再編成されてゆく、あの知的な眩暈（dizziness）。あるいは、情報の「インフラックス（influx）」に溺れ、自分自身の本当の声（original voice）がどこにあるのかを見失いそうになる、あの静かな午後の焦燥。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "bhleu-",
+					"meaning": "to swell, overflow (forming fluere)"
+				}
+			],
+			"points": [
+				"influent, fluvial 同根。",
+				"『流入（influx）』とは、システムにとっての栄養（nutrition）であると同時に、自己の同一性を解体する『侵略者（invader）』でもある。この矛盾を受け入れることこそが、知性の『成熟』である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "conflux",
+		"word": "Conflux",
+		"part_of_speech": "noun",
+		"meaning": "合流、河合、集合、合流点",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "con-",
+					"type": "prefix",
+					"meaning": "together (共に)"
+				},
+				{
+					"text": "fluere",
+					"type": "root",
+					"meaning": "to flow (流れる)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin confluere 'flow together'."
+		},
+		"core_concept": {
+			"en": "A flowing together of two or more streams; a gathering of people or things",
+			"ja": "バラバラだった二つ以上の流れが、一つの意志を持つかのように『共に（together）』『流れ合う（flowing）』こと。個別の歴史が交わり、新しい巨大な力を生み出す、不可逆な統合の地平"
+		},
+		"thinking_layer": "『共に流れること』。コンフルエンス（Confluence/合流）、コンフラクト（Conflict/衝突＝共に打つ）とは別の、「和合」のイメージ。語源は「共に流れる」。対立していた意見が、深い対話の末に一つの「真理」へと合流すること。それは。孤独な個（individual）が、何らかの大きな目的や運命を共有し、一つの「うねり」となる瞬間のメタファー。",
+		"aftertaste": "二つの大河が「合流する（conflux）」場所で、その水の色が混ざり合い、全く新しい深み（depth）が生まれるのを眺め、自分の人生もまた、数々の出会いの「コンフラックス（conflux）」によって形作られているのだと悟る、あの静かな感動。あるいは、あまりにも多くの意見が「合流（conflux）」しすぎて、本来の純粋な透明度（clarity）を失ってしまったのではないかと疑う、あの冷ややかな自省。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "bhleu-",
+					"meaning": "to swell, overflow (forming fluere)"
+				}
+			],
+			"points": [
+				"confluence, confluent 同根。",
+				"『共に流れる（flowing together）』ことは、個別の境界（boundary）を溶かし、新しい全体性（totality）を構築することである。コンフラックス（conflux）は、多様性が統合へと向かう、知性の美学を象徴している。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "diffluent",
+		"word": "Diffluent",
+		"part_of_speech": "adjective",
+		"meaning": "流散する、四方に流れる、液化しやすい",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "dis-",
+					"type": "prefix",
+					"meaning": "apart, away (離れて、別々に)"
+				},
+				{
+					"text": "fluere",
+					"type": "root",
+					"meaning": "to flow (流れる)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin diffluens, present participle of diffluere 'flow away'."
+		},
+		"core_concept": {
+			"en": "Flowing away or apart in different directions; characterized by flowing",
+			"ja": "中心を失い、あちこちへと『離れて（apart）』『流れ去って（flowing）』ゆく在り方。一つの形に留まることを拒み、四散することで広大な領域を覆い尽くそうとする、流動的な拡張（expansion）"
+		},
+		"thinking_layer": "『離れて流れること』。ディフューズ（Diffuse/散布する）、おなじみの「ディス（不、離れて）」と同根。語源は「散漫に流れる」。結集する（conflux）の正反対。一つの目的のためにまとまることを止め、それぞれの可能性を求めて枝分かれしてゆくこと。それは。知性が一つの教条（dogma）に縛られず、自由な探究へと「流散（diffluent spread）」してゆく瞬間のメタファー。",
+		"aftertaste": "かつての友情や組織が、時間の経過とともに静かに「流散（diffluent）」してゆくのを眺め、寂しさを感じつつも、それこそが生命の本来の姿（natural state）なのだと自分に言い聞かせる、あの冷淡な悟り。あるいは、自分の興味が「ディフルエント（diffluent）」にあちこちへと移り変わり、結局はどこにも辿り着けないのではないかという、甘美で不安な流浪の感覚（sense of wandering）。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "bhleu-",
+					"meaning": "to swell, overflow (forming fluere)"
+				}
+			],
+			"points": [
+				"diffuse, fluent 同根。",
+				"『拡散（diffusion）』とは、中心的なエントロピーの増大（increase）だが、それは同時に、新しい『出会いの確率』を高める行為でもある。ディフルエント（diffluent）な知性は、広大な世界の多様性を受け入れるための、最も柔軟な形式である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "interfluent",
+		"word": "Interfluent",
+		"part_of_speech": "adjective",
+		"meaning": "互いに流れ合う、絡み合う流れの",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "inter-",
+					"type": "prefix",
+					"meaning": "between, among (〜の間に)"
+				},
+				{
+					"text": "fluere",
+					"type": "root",
+					"meaning": "to flow (流れる)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin interfluens, present participle of interfluere 'flow between'."
+		},
+		"core_concept": {
+			"en": "Flowing between each other; intermingling",
+			"ja": "二つの個体が、その境界線の『間（between）』で複雑に『流れ合い（flowing）』、混ざり合うこと。誰の担当か分からない、あるいはどちらの所有か言えないような、親密で不透明な『共有の領域（shared space）』"
+		},
+		"thinking_layer": "『間の流れ』。インターナショナル（International）、インタラクション（Interaction/相互作用）、おなじみの「インター（間）」と同根。語源は「間に流れる」。ただの「合流（conflux）」よりも、さらに複雑に「絡み合っている（intermingling）」様子。それは。愛する者同士、あるいは深いつがりのあるアイディア同士が、互いに影響を与え合い、不可分なものへと変容してゆくプロセスのメタファー。",
+		"aftertaste": "自分と他人の言葉が、この「インターフルエント（interfluent）」な流れの中で溶け合い、どこまでが自分の考えで、どこからが相手の影響なのかが分からなくなる、あの不思議で心地よい「自己の喪失（loss of self）」。あるいは、二つの異なる文化が「互いに流れ合う（interfluent）」境界線上で、どちらにも属さない新しい「真理（truth）」の萌芽を見出す、あの知的な発見への震え。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "bhleu-",
+					"meaning": "to swell, overflow (forming fluere)"
+				}
+			],
+			"points": [
+				"interact, influence 同根。",
+				"『間（inter-）』にある領域とは本来は空虚（vacuum）だが、そこに『流れ（flow）』が生まれる時、そこは新しい意味の生成（becoming）の場となる。インターフルエント（interfluent）とは、知性がいかに他者と響き合えるかという、交響的な可能性を象徴している。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
