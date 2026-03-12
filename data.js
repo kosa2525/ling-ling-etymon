@@ -261825,5 +261825,216 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "syllepsis",
+		"word": "Syllepsis",
+		"part_of_speech": "noun",
+		"meaning": "一語二義法、共用法",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "syn-",
+					"type": "prefix",
+					"meaning": "together (共に)"
+				},
+				{
+					"text": "lambanein",
+					"type": "root",
+					"meaning": "to take (取る)",
+					"lang": "Greek"
+				}
+			],
+			"original_statement": "From Greek sullēpsis, from syn- 'together' + lambanein 'take'."
+		},
+		"core_concept": {
+			"en": "A figure of speech in which a word is applied to two others in different senses (e.g., caught the train and a bad cold) or to two others of which it grammatically suits only one (e.g., neither they nor it is working)",
+			"ja": "たった一つの言葉で、全く異なる二つの世界を『共に（together）』『掴み取る（take）』修辞技法。言葉の多義性を利用して、日常と詩的真実を一度に串刺しにする、知的な軽業（かるわざ）"
+		},
+		"thinking_layer": "『共に取ること』。シラブル（Syllable/音節＝共に音を取る）、ジレンマ（Dilemma/二つの、受け取りたくない選択肢）、レマ（Lemma/前提＝受け取ったもの）と同根。語源は「一緒に取ること」。ゼウグマ（Zeugma）と似ていますが、より不自然で劇的な効果を狙います。それは、一つの行動の中に潜む「物理的な側面」と「精神的な側面」を同時に暴き出すこと。知性の「欲張り」な顕現。",
+		"aftertaste": "「彼女は荷物と、それから溜息（sigh）を一つ抱えて部屋を出た」という「一語二義法（syllepsis）」の表現に出会った時の、あの重たい荷物と、それ以上に重い彼女の心が、一つの「抱える」という言葉の中で完璧に重なり合った（aligned）ことへの、溜息の出るような納得。あるいは、多義的な言葉を使って、本音（truth）と建前（politeness）を「同時に（together）」伝えようとする、自分の狡猾で繊細な言葉遊びの心地。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "slagu-",
+					"meaning": "to seize, take (forming lambanein)"
+				}
+			],
+			"points": [
+				"syllable, epilepsy, lemma, dilemma 同根。",
+				"『掴み取る（seizing）』ことは本来は一方的な行為だが、それを『共に（syn-）』行うことで、言葉は異なる文脈（context）を接続する『架け橋』へと進化する。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "asyndeton",
+		"word": "Asyndeton",
+		"part_of_speech": "noun",
+		"meaning": "接続詞省略（法）、無接続法",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "a-",
+					"type": "prefix",
+					"meaning": "not (〜でない)"
+				},
+				{
+					"text": "syn-",
+					"type": "prefix",
+					"meaning": "together (共に)"
+				},
+				{
+					"text": "dein",
+					"type": "root",
+					"meaning": "to bind (結ぶ)",
+					"lang": "Greek"
+				}
+			],
+			"original_statement": "From Greek asyndeton, neuter of asyndetos 'unconnected', from a- 'not' + syn- 'together' + deein 'bind'."
+		},
+		"core_concept": {
+			"en": "The omission or absence of a conjunction between parts of a sentence",
+			"ja": "言葉と言葉を繋ぐ『接続（binding）』という鎖（conjunction）を、敢えてすべて断ち切り、事実だけを矢継ぎ早に叩きつける修辞法。余計な説明を排し、純粋な『速度』と『衝撃』だけで真理に迫る、峻烈な沈黙の加速"
+		},
+		"thinking_layer": "『結びついていないこと』。シンジケート（Syndicate/共通の法に結ばれた団体）、ダイアデム（Diadem/王冠＝頭に結ぶもの）、おなじみの「アルファベットのＡ（否定）」と同根。語源は「結ばれていない」。接続詞（and, butなど）を消すことで、言葉は「流れ」ではなく「点（points）」の連続となります。「来た、見た、勝った」のように。それは、経過を省略し、結果だけを暴力的に提示する「断固とした意志」。",
+		"aftertaste": "「雨、風、闇、絶望。」という「無接続法（asyndeton）」の羅列（list）を読み、その言葉の間の空隙（void）に、接続詞一つでは到底表現できないほどの「果てしない深淵」を想像する、あの息苦しいほどの臨場感。あるいは、自分の思考が、論理的な繋がり（logic）を失ってこの「散文的な断片（asyndetic fragments）」へと砕け散ってしまった時の、あのあまりにも生々しい、剥き出しの現実感への陶酔。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "dē-",
+					"meaning": "to bind (forming deein)"
+				}
+			],
+			"points": [
+				"diadem, desmid, syndetic 同根。",
+				"『結ぶ（binding）』ことは理解を助けるが、同時に自由を奪う。アシンテトン（asyndeton）とは、その絆を自ら断ち切ることで、言葉に『野性（wildness）』を取り戻させるための、高度な解放である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "polysyndeton",
+		"word": "Polysyndeton",
+		"part_of_speech": "noun",
+		"meaning": "多接続法、多接続詞法",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "poly-",
+					"type": "prefix",
+					"meaning": "many (多くの)"
+				},
+				{
+					"text": "syn-",
+					"type": "prefix",
+					"meaning": "together (共に)"
+				},
+				{
+					"text": "dein",
+					"type": "root",
+					"meaning": "to bind (結ぶ)",
+					"lang": "Greek"
+				}
+			],
+			"original_statement": "From Greek polusyndeton, from poly- 'many' + syndetos 'bound together'."
+		},
+		"core_concept": {
+			"en": "A figure of speech in which several conjunctions are used in close succession, especially where some could otherwise be omitted",
+			"ja": "言葉と言葉の間に、敢えて『多くの（many）』接続詞という鎖（binding）を執拗に挿入し、思考を重厚に、そしてどこまでも長く繋ぎ止める修辞法。時間の引き延ばしと、圧倒的な『累積（accumulation）』の重み"
+		},
+		"thinking_layer": "『多くのものが結びついていること』。アシンテトン（Asyndeton）の真逆。一文一文の間に「そして、そして……」と鎖を足してゆきます。ただの「長い文」ではなく、そこに「執着」と「重厚さ」が宿っています。それは、一つ一つの出来事を決して忘れない（undying memory）という誓い、あるいは、終わりのない苦行のように続く、時間の物理的な「手触り」。",
+		"aftertaste": "「彼は歩き、そして祈り、そして震え、そして死んだ」という「多接続法（polysyndeton）」の重々しい調べに、彼の一歩一歩の苦渋（agony）が刻み込まれているのを感じ、読み終えたあとに巨大な「一日の重み」を背負わされたかのような、心地よい疲弊。あるいは、自分の人生という名の「長い鎖（polysyndetic chain）」の、その一つ一つの環（link）を慈しむように確認してゆく、あの静かな午後の自己肯定。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "spel-",
+					"meaning": "many (forming poly-)"
+				}
+			],
+			"points": [
+				"plural, plus, policy, police 同根。",
+				"『数（number）』とは量ではなく、そこに宿る『意図（intent）』の総量である。ポリシンデトン（polysyndeton）とは、不必要な接続詞をあえて重ねることで、言葉そのものに『物質的な質量』を与える試みである。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "hyperbaton",
+		"word": "Hyperbaton",
+		"part_of_speech": "noun",
+		"meaning": "倒置法、語順転換、（離れた位置にある語の）係り合い",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "hyper-",
+					"type": "prefix",
+					"meaning": "over (〜を超えて)"
+				},
+				{
+					"text": "bainein",
+					"type": "root",
+					"meaning": "to go (行く、歩む)",
+					"lang": "Greek"
+				}
+			],
+			"original_statement": "From Greek hyperbaton 'transposed', from hyper- 'over' + bainein 'go'."
+		},
+		"core_concept": {
+			"en": "An inversion of the normal order of words, especially for the sake of emphasis, as in the sentence ‘this I must see’",
+			"ja": "言葉の自然な順序を、思考の激流のままに『飛び越え（go over）』、配置を入れ替える（transpose）ことで、感情の昂（たか）ぶりを表現する修辞法。秩序を壊してでも伝えたい、言葉の『うねり』"
+		},
+		"thinking_layer": "『飛び越えて行くこと』。ハイパー（Hyper-）やベース（Base/土台＝歩く場所）、アクロバット（Acrobat/高い場所を歩く人）と同根。語源は「越境」。ただの「入れ替え」ではありません。本来近くにあるべき言葉をあえて遠くへ飛ばすことで、文の中に「緊張した空間（dynamic span）」を作り出します。それは、論理を超えたところにある「魂の叫び」。",
+		"aftertaste": "「決して、私は忘れない（Never will I forget）」という「倒置（hyperbaton）」の一節に、単なる「私は決して忘れない」という言葉にはない、決意の「物理的な重み」が宿っているのを肌で感じ、その言葉の震えに共鳴する、あの峻烈な一瞬。あるいは、自分の言葉の順序がめちゃくちゃになった（hyperbaton style）時の、自分の理性が感情の荒波に「飛び越えられてしまった」と悟る、あの無防備な敗北感。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "gwem-",
+					"meaning": "to go, come (forming bainein)"
+				}
+			],
+			"points": [
+				"come, basis, become, advent, venue 同根。",
+				"『順序（order）』とは社会的な合意だが、ハイパーバトン（hyperbaton）はその合意を『踏み越えて（stepping over）』ゆく。その踏み越えの瞬間に、言葉は単なるルールから、固有の『意志』へと昇華される。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "chiasmus",
+		"word": "Chiasmus",
+		"part_of_speech": "noun",
+		"meaning": "交差配列、対句法",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "khiasmos",
+					"type": "root",
+					"meaning": "placing crosswise (交差させること)",
+					"lang": "Greek"
+				},
+				{
+					"text": "khi",
+					"type": "root",
+					"meaning": "chi (ギリシャ文字のΧ)",
+					"lang": "Greek"
+				}
+			],
+			"original_statement": "From Greek khiasmos, from khiazein 'to mark with a chi', from the letter khi (X)."
+		},
+		"core_concept": {
+			"en": "A rhetorical or literary figure in which words, grammatical constructions, or concepts are repeated in reverse order, in the same or a modified form",
+			"ja": "言葉の順序を鏡のように反転させ、ギリシャ文字の『Ｘ（chi）』のように交差させることで、美的な『均衡（symmetry）』と、逃れられない運命の円環を作り出す技法"
+		},
+		"thinking_layer": "『Ｘの形に配置すること』。カオス（Chaos/無秩序＝開いた場所？）はおそらく関係なく。語源は「 Χ（キ）の字」。ただの「繰り返し」ではありません。Ａ－Ｂという流れを、Ｂ－Ａと受け流す。それは思考の往復運動。対称性の美しさが、そこに綴じられた言葉を「格言（aphorism）」としての絶対的な強度へと高めます。それは、始まりと終わりが完璧に一致した、閉じた宇宙のメタファー。",
+		"aftertaste": "「愛のために生き、生きるために愛せ」という「交差配列（chiasmus）」の調べに、自分の人生のすべての矛盾が、この美しい「Ｘ（cross）」の形に収束（converge）してゆくのを感じ、どこか深い場所で自分が「許された」ように感じる、あの静かな納得。あるいは、自分の物語が、いつの間にか「出口のない対称性（chiasmic loop）」に閉じ込められ、どこまでも自分自身へと回帰（return）し続けていることへの、甘美な絶望。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"『交差（crossing）』させることは、二つの異なる次元を一点で『結びつける』こと。その接点こそが、知性が生み出す最高の『調和（harmony）』である。",
+				"キアスムス（chiasmus）とは、単なるレトリックを超え、この世界が『反転』と『反射』の繰り返しによって成り立っているという、宇宙的な秩序の模倣（mimesis）である。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
