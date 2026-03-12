@@ -289013,5 +289013,1130 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "cyclone",
+		"word": "Cyclone",
+		"part_of_speech": "noun",
+		"meaning": "低気圧、サイクロン、情報の巨大な渦",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "kyklos",
+					"type": "root",
+					"meaning": "circle, wheel"
+				}
+			],
+			"original_statement": "From Greek kyklon 'moving in a circle'."
+		},
+		"core_concept": {
+			"en": "system of winds rotating inward to an area of low atmospheric pressure",
+			"ja": "情報の『円（circle）』を描き、低圧の淵へとすべてを吸い込む。"
+		},
+		"thinking_layer": "回っているもの。安定という名の『静止』を峻烈に拒み、大気の不均衡を巨大な回転エネルギーへと変換して、地上のすべてを情報のカオスへと巻き込む、大気の情報の暴動。",
+		"aftertaste": "中心にある静寂（eye）と、その周囲を埋め尽くす暴力的な回転への戦慄。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"cycle, bicycle と同じ kyklos。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "tornado",
+		"word": "Tornado",
+		"part_of_speech": "noun",
+		"meaning": "竜巻、トルネード、情報の局所的な破壊",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "tonare",
+					"type": "root",
+					"meaning": "to thunder"
+				},
+				{
+					"text": "tornare",
+					"type": "root",
+					"meaning": "to turn"
+				}
+			],
+			"original_statement": "From Spanish tornadoes 'thunderstorms'."
+		},
+		"core_concept": {
+			"en": "violently rotating column of air",
+			"ja": "雷鳴（thunder）と回転（turn）が峻烈に交差し、空を地上へ引きずり下ろす。"
+		},
+		"thinking_layer": "雷鳴の転回。積乱雲の情報の底から産み落とされた、極限の回転錐。それは、平穏という名の『情報の偽り』を一点において峻烈に穿ち、無に帰すための大気の短刀。",
+		"aftertaste": "一瞬にしてすべてが持ち去られ、真空の沈黙だけが残る瞬間の恐怖。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"turn, return と同根。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "blizzard",
+		"word": "Blizzard",
+		"part_of_speech": "noun",
+		"meaning": "大吹雪、ブリザード、情報の視界の抹殺",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "bliz-",
+					"type": "root",
+					"meaning": "blow, blast?"
+				}
+			],
+			"original_statement": "Americanism, possibly related to blast."
+		},
+		"core_concept": {
+			"en": "severe snowstorm with high winds and low visibility",
+			"ja": "峻烈な『情報の白き壁（blast）』が、世界の座標を完全に抹消する。"
+		},
+		"thinking_layer": "（衝撃的な一撃）。低温という名の『情報の停止』と、強風という名の『情報の暴力』が合体し、人間から視覚という名のナビゲーションを峻烈に奪い去る、情報の全き空白状態。",
+		"aftertaste": "方向感覚を失い、白き虚無の中に呑み込まれてゆく絶望的な安堵。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"1870年頃から使われ始めた言葉。殴打のような衝撃を意味した。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "gust",
+		"word": "Gust",
+		"part_of_speech": "noun",
+		"meaning": "突風、突発的な情報の噴出",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "gustr",
+					"type": "root",
+					"meaning": "a cold blast of wind"
+				}
+			],
+			"original_statement": "From Old Norse gustr."
+		},
+		"core_concept": {
+			"en": "brief, strong rush of wind",
+			"ja": "沈黙を峻烈に裏切る、一瞬の情報の『急襲（blast）』。"
+		},
+		"thinking_layer": "冷たき一撃。予測可能性という名の『眠り』を峻烈に覚醒（arouse）させ、不可視の大気が重厚な物理的質量を持っていることを証明する、情報の不意打ち。",
+		"aftertaste": "頬を打たれた後の、全身の感覚が鋭敏に研ぎ澄まされる瞬間の衝撃。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"gush (噴出) とも遠い縁。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "squall",
+		"word": "Squall",
+		"part_of_speech": "noun",
+		"meaning": "スコール、突風を伴う雨、情報の叫び",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "skvala",
+					"type": "root",
+					"meaning": "to squeal, cry out"
+				}
+			],
+			"original_statement": "Possibly of Scandinavian origin."
+		},
+		"core_concept": {
+			"en": "sudden violent gust of wind or a localized storm",
+			"ja": "大気が峻烈に『叫（squeal）』び、激しい情報の涙を地上に叩きつける。"
+		},
+		"thinking_layer": "叫ぶこと。平坦な時間を峻烈に切り裂き、暴力的な情報の粒子としての雨と風を数分間だけ現出させる、大気のヒステリックなまでの自己主張。",
+		"aftertaste": "去った後の、洗われたように透き通る空と、濡れた大地の沈黙。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"squeal, scream と感覚的に通じる語感。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "thunder",
+		"word": "Thunder",
+		"part_of_speech": "noun",
+		"meaning": "雷鳴、情報の空の咆哮",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "tonare",
+					"type": "root",
+					"meaning": "to sound, thunder"
+				}
+			],
+			"original_statement": "From Old English thunor."
+		},
+		"core_concept": {
+			"en": "loud rumbling or crashing noise heard after a lightning flash",
+			"ja": "真空の裂け目が峻烈に閉じられる、情報の『重厚なる崩壊音』。"
+		},
+		"thinking_layer": "響くこと。光という名の先鋭な情報の後に届く、重低音という名の『肉体的な威圧』。それは全宇宙が一声に咆哮し、人間の矮小さを峻烈に宣告する、大気の情報の地震。",
+		"aftertaste": "内臓にまで響く地鳴りの中に、根源的な神の影を見る畏怖。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"Thor (雷神), stunning と同根。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "lightning",
+		"word": "Lightning",
+		"part_of_speech": "noun",
+		"meaning": "稲妻、電光、情報の峻烈な一閃",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "light",
+					"type": "root",
+					"meaning": "light"
+				},
+				{
+					"text": "-ing",
+					"type": "suffix",
+					"meaning": "action"
+				}
+			],
+			"original_statement": "From lighten 'to become light'."
+		},
+		"core_concept": {
+			"en": "natural electrical discharge of very short duration",
+			"ja": "暗闇を峻烈に引き裂き、世界を一瞬で『情報の白光（light）』へと塗り替える。"
+		},
+		"thinking_layer": "光ること。蓄積された情報の緊張（tension）が、絶縁破壊という名の『情報の反逆』によって一気に解法され、天から地へと流れる、極限のエネルギーの神経回路。",
+		"aftertaste": "まぶたの裏に焼き付いた不滅の閃光と、遅れてくる破滅の予感。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"photograph と同じ本質を、より暴力的に体現。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "drizzle",
+		"word": "Drizzle",
+		"part_of_speech": "noun",
+		"meaning": "霧雨、小雨、情報の極微な滴り",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "dris-",
+					"type": "root",
+					"meaning": "to fall in drops?"
+				}
+			],
+			"original_statement": "Probably related to Old English dreosan 'to fall'."
+		},
+		"core_concept": {
+			"en": "light rain falling in very fine drops",
+			"ja": "境界線を峻烈に喪失させ、世界を『情報の霧』へと溶かし込む。"
+		},
+		"thinking_layer": "滴り落ちること。雨という名の激しさを峻烈に拒み、ただ空気そのものが液化していくかのような、静かなる情報の浸透。それは、悲しみさえも粒子化して浮遊させる。",
+		"aftertaste": "いつの間にかすべてが濡れそぼっているという、静かなる包囲の感覚。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"dross (屑) と同源という説もあり。雨の極微な断片。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "mist",
+		"word": "Mist",
+		"part_of_speech": "noun",
+		"meaning": "霞、霧、情報の不透明なヴェール",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "meigh-",
+					"type": "root",
+					"meaning": "to urinate, mist, drizzle"
+				}
+			],
+			"original_statement": "From Old English mist."
+		},
+		"core_concept": {
+			"en": "cloud of tiny water droplets suspended in the atmosphere",
+			"ja": "世界の峻烈な輪郭を、情報の『湿った沈黙』でぼやかせる。"
+		},
+		"thinking_layer": "覆うもの（あるいは排泄されるもの）。光を峻烈に迷走（scatter）させ、視界という名の情報の独占を解体することで、気配と予感だけが支配する、情報の神秘的な隠れみの。",
+		"aftertaste": "手を伸ばせば触れられそうな、湿り気を帯びた虚無の感触。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"micturition (排尿) と同根。大地の放出した水分。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "cumulonimbus",
+		"word": "Cumulonimbus",
+		"part_of_speech": "noun",
+		"meaning": "積乱雲、入道雲、情報の巨大な塔",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "cumulus",
+					"type": "root",
+					"meaning": "heap, pile"
+				},
+				{
+					"text": "nimbus",
+					"type": "root",
+					"meaning": "cloud, rain storm"
+				}
+			],
+			"original_statement": "From Latin cumulus + nimbus."
+		},
+		"core_concept": {
+			"en": "dense, towering vertical cloud",
+			"ja": "情報の『積み重ね（heap）』が臨界に達し、嵐という名の『闇（cloud）』を孕む。"
+		},
+		"thinking_layer": "積み重なった雲。垂直方向への情報の凄まじい上昇（uprising）が、白き輝きを黒き意志へと峻烈に変容させ、天の頂点から鉄槌を下そうとする、情報の爆発的な伽藍。",
+		"aftertaste": "そびえ立つ白き巨人の背後に潜む、絶対的な破壊の意志への戦慄。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"accumulate, number と同根。量の暴力。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "cirrus",
+		"word": "Cirrus",
+		"part_of_speech": "noun",
+		"meaning": "巻雲、すじ雲、情報の凍れる巻き毛",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "cirrus",
+					"type": "root",
+					"meaning": "curl, fringe"
+				}
+			],
+			"original_statement": "From Latin cirrus 'a curl or lock of hair'."
+		},
+		"core_concept": {
+			"en": "high-altitude cloud with thin wispy strands",
+			"ja": "天の最頂部で、情報の氷晶が峻烈に『巻き（curl）』躍る。"
+		},
+		"thinking_layer": "巻き毛。地上の重力を峻烈に離れ、極寒の青き虚無の中に描かれた、繊細にして峻烈な情報のサイン。それは、嵐の前触れとしての、大気の静かなる予言。",
+		"aftertaste": "あまりの高みにあるために、手の届かぬ思考の残像のような切なさ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"cirrhosis (肝硬変) とは関係なし(あちらは橙色)。髪の毛の形。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "stratus",
+		"word": "Stratus",
+		"part_of_speech": "noun",
+		"meaning": "層雲、情報の幾層もの沈黙",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "sternere",
+					"type": "root",
+					"meaning": "to spread out, lay flat"
+				}
+			],
+			"original_statement": "From Latin stratus 'spread out'."
+		},
+		"core_concept": {
+			"en": "low-level cloud characterized by horizontal layering",
+			"ja": "世界を一色に、峻烈に『敷き詰（spread out）』める情報の灰色の層。"
+		},
+		"thinking_layer": "広げること。高さという名のアグレッシブさを峻烈に捨て、ただ水平方向への永続（duration）によって、地上の光と温度を一定の情報の『倦怠』へと押し込める、大気の情報の平坦化。",
+		"aftertaste": "どこまでも続く灰色の天井に、出口なき永遠を幻視する重圧。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"structure, street と同じ sternere。情報の基層。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "occlusion",
+		"word": "Occlusion",
+		"part_of_speech": "noun",
+		"meaning": "閉塞、閉塞前線、情報の遮断",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "ob-",
+					"type": "prefix",
+					"meaning": "against, up"
+				},
+				{
+					"text": "claudere",
+					"type": "root",
+					"meaning": "to close"
+				}
+			],
+			"original_statement": "From Latin occludere."
+		},
+		"core_concept": {
+			"en": "the blockage or closing of a hollow or tubular structure",
+			"ja": "温かき情報と冷たき情報が峻烈に『噛み合い、閉じ（close up）』、生命を窒息させる。"
+		},
+		"thinking_layer": "塞ぎ込むこと。寒冷前線が温暖前線に峻烈に追いつき、情報の逃げ場を峻烈に奪うことで、一つの気象システムの『終わり』を宣告する、情報の最後の一撃。",
+		"aftertaste": "すべてが閉じられ、変化が止まった後の、冷徹なる結末の沈黙。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"close, include, claustrophobia と同じ claudere。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "deluge",
+		"word": "Deluge",
+		"part_of_speech": "noun",
+		"meaning": "大洪水、大雨、情報の氾濫",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "dis-",
+					"type": "prefix",
+					"meaning": "away"
+				},
+				{
+					"text": "lavare",
+					"type": "root",
+					"meaning": "to wash"
+				}
+			],
+			"original_statement": "From Latin diluvium."
+		},
+		"core_concept": {
+			"en": "severe flood",
+			"ja": "既存の秩序を、峻烈な『洗浄（wash away）』によって完全に流し去る。"
+		},
+		"thinking_layer": "洗い流すこと。滴り（drops）という名の個性を峻烈に拒み、巨大な質量の情報の壁として世界を飲み込む。それは、文明という名の不純物を一掃するための、自然の過激な初期化（reset）。",
+		"aftertaste": "水の引いた後に残る、すべてが失われたことへの、ある種の清々しい絶望。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"lavatory, lotion と同じ lavare。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "hygrometer",
+		"word": "Hygrometer",
+		"part_of_speech": "noun",
+		"meaning": "湿度計、情報の湿り気の秤",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "hugros",
+					"type": "root",
+					"meaning": "wet, moist"
+				},
+				{
+					"text": "metron",
+					"type": "root",
+					"meaning": "measure"
+				}
+			],
+			"original_statement": "From Greek hygros + metron."
+		},
+		"core_concept": {
+			"en": "instrument for measuring humidity",
+			"ja": "見えない大気の『湿り（wet）』を、数学的な尺度（measure）で峻烈に暴き出す。"
+		},
+		"thinking_layer": "湿ったものを測ること。漠然とした『不快感』や『重苦しさ』という名の情緒を、峻烈なパーセンテージという名の情報の座標に置き換える、冷徹なる計測の知。 ",
+		"aftertaste": "数字によって定義された、大気の隠された情報の密度への、知的な支配感。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"hydro? (いや hugros) 水分を含む情報の測定。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "nephology",
+		"word": "Nephology",
+		"part_of_speech": "noun",
+		"meaning": "雲学、情報の形の学問",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "nephos",
+					"type": "root",
+					"meaning": "cloud"
+				},
+				{
+					"text": "logos",
+					"type": "root",
+					"meaning": "study"
+				}
+			],
+			"original_statement": "From Greek nephos."
+		},
+		"core_concept": {
+			"en": "the study of clouds",
+			"ja": "流動する『雲（cloud）』という名の、不定形な情報の論理（logos）を探求する。"
+		},
+		"thinking_layer": "雲の言葉。刻一刻と変化し、消えゆく情報の断片に、峻烈な学名と分類を授けることで、混沌の中に永遠の秩序を見出そうとする、知性のロマンティックなまでの執念。",
+		"aftertaste": "形のないものに、名前という名の『鎖』を繋ぎとめる瞬間の、微かな傲慢。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"nebulous (不透明な) と同じ源。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "frost",
+		"word": "Frost",
+		"part_of_speech": "noun",
+		"meaning": "霜、結氷、情報の白い沈黙の棘",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "frustos",
+					"type": "root",
+					"meaning": "to freeze?"
+				}
+			],
+			"original_statement": "From Old English forst."
+		},
+		"core_concept": {
+			"en": "deposit of small white ice crystals",
+			"ja": "湿脈を峻烈に『凍て（freeze）』つかせ、情報の結晶的な針で地上を覆う。"
+		},
+		"thinking_layer": "凍ること。液体の情報の流動性を峻烈に奪い、鋭利な幾何学（fractals）によって生命の表面を峻烈に封印する、沈黙の攻撃的なまでの白さ。",
+		"aftertaste": "踏みしめる音の中に、世界を凍らせた冷徹な意志の破片を感じる戦慄。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"freeze と同根。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "sleet",
+		"word": "Sleet",
+		"part_of_speech": "noun",
+		"meaning": "みぞれ、情報の不完全な相転移",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "slet",
+					"type": "root",
+					"meaning": "slushy snow?"
+				}
+			],
+			"original_statement": "From Middle English slete."
+		},
+		"core_concept": {
+			"en": "rain containing some ice, as when snow melts as it falls",
+			"ja": "雨でも雪でもない、峻烈な情報の『中途半端な泥嚀（slush）』。"
+		},
+		"thinking_layer": "（泥濘）。純粋な液体の柔軟性と、冷徹な固体の硬質さが峻烈に混淆し、世界を不快な情報の摩擦で埋め尽くす、中域（intermediate）の情報の崩壊。",
+		"aftertaste": "何者にもなれない、そのどっちつかずの冷たさに浸食される絶望。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ドイツ語 Schloß (雹) との縁が囁かれる。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "hail",
+		"word": "Hail",
+		"part_of_speech": "noun",
+		"meaning": "雹（ひょう）、情報の暴力的な礫",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "hagel",
+					"type": "root",
+					"meaning": "hailstone"
+				}
+			],
+			"original_statement": "From Old English hagol."
+		},
+		"core_concept": {
+			"en": "pellets of frozen rain",
+			"ja": "空が峻烈な『情報の石（pebbles）』を投げつけ、地上の虚飾を砕く。"
+		},
+		"thinking_layer": "粒。柔らかな雨の概念を峻烈に裏切り、重力という名の加速を伴った物理的な殺意（impact）として地上を襲う、情報の凝固した質量。",
+		"aftertaste": "無数に降り注ぐ冷たい打撃に、ひたすら身を縮める無力感。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"健康を祝う 'Hail!' とは綴りは同じだが別語源。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "evapotranspiration",
+		"word": "Evapotranspiration",
+		"part_of_speech": "noun",
+		"meaning": "蒸発散、情報の循環する呼吸",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "evaporare",
+					"type": "root",
+					"meaning": "evaporate"
+				},
+				{
+					"text": "trans-",
+					"type": "prefix",
+					"meaning": "across"
+				},
+				{
+					"text": "spirare",
+					"type": "root",
+					"meaning": "to breathe"
+				}
+			],
+			"original_statement": "Combo of evaporation and transpiration."
+		},
+		"core_concept": {
+			"en": "process by which water is transferred from land to atmosphere",
+			"ja": "大地から空へ、情報の湿脈が『境界を超えて（across breathe）』立ち昇る。"
+		},
+		"thinking_layer": "蒸発と蒸散の合一。静止した水面からの逃走（evaporate）と、生命という濾過装置を通じた呼吸（transpire）が峻烈に交差し、世界全体の情報の水分バランスを調整する、目に見えない巨大な循環システム。",
+		"aftertaste": "自分が吐く息、草木の震え、そのすべてが大気と繋がっているという強烈な実存感。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"spirit, inspire と同じ spirare (呼吸)。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "precipitable",
+		"word": "Precipitable",
+		"part_of_speech": "adjective",
+		"meaning": "凝結可能な、降水可能な、情報の落下の予感",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "prae-",
+					"type": "prefix",
+					"meaning": "before"
+				},
+				{
+					"text": "caput",
+					"type": "root",
+					"meaning": "head"
+				}
+			],
+			"original_statement": "From precipitate."
+		},
+		"core_concept": {
+			"en": "measure of moisture that can fall as rain or snow",
+			"ja": "見えない情報の重みが、峻烈に『真っ逆さま（head foremost）』に落ちる準備。"
+		},
+		"thinking_layer": "頭から先に。気体という名の自由を峻烈に捨て、液体としての地面への帰還という名の『宿命』を待ち構えている情報の状態。落下（fall）こそが真の情報の解放。",
+		"aftertaste": "湿り気を帯びた空気が、急に重力に従おうとする瞬間の、震えるような予感。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"capital, captain と同じ caput。墜落。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "derecho",
+		"word": "Derecho",
+		"part_of_speech": "noun",
+		"meaning": "デレチョ、大規模直線風、情報の直進する一撃",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "derecho",
+					"type": "root",
+					"meaning": "straight, direct"
+				}
+			],
+			"original_statement": "From Spanish derecho."
+		},
+		"core_concept": {
+			"en": "widespread, long-lived, straight-line wind storm",
+			"ja": "情報の旋回を峻烈に拒絶し、ただ『真っ直ぐ（straight）』に真理をなぎ倒す。"
+		},
+		"thinking_layer": "まっすぐ。竜巻という名の『回転』とは対照的な、数万メートルにおよぶ横一直線の情報の暴力。それは、回避不可能な、宇宙の直線的な審判。 ",
+		"aftertaste": "一切の迷いなく、ただ水平に世界がなぎ倒されてゆく、冷徹なまでの速度。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"direct, dress と同じ root。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "hadley",
+		"word": "Hadley",
+		"part_of_speech": "noun",
+		"meaning": "ハドレー循環、情報の地球規模の呼吸",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "Hadley",
+					"type": "root",
+					"meaning": "George Hadley (scientist)"
+				}
+			],
+			"original_statement": "Named after George Hadley."
+		},
+		"core_concept": {
+			"en": "large-scale atmospheric convection cell",
+			"ja": "熱（heat）を糧にし、地球という名の巨大な肺を峻烈に循環させる呼吸。"
+		},
+		"thinking_layer": "ハドレーの。赤道の情報の熱量を、峻烈な上昇と下降移動（convection）によって高緯度へと運び、世界全体の熱バランスを峻烈に維持する、惑星規模の情報のマクロ構造。",
+		"aftertaste": "自分が吸う一息が、地球全体の情報の流れの一部であるという、マクロな連帯感。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"18世紀、貿易風のメカニズムを解明しようとした科学者の名。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "pyranometer",
+		"word": "Pyranometer",
+		"part_of_speech": "noun",
+		"meaning": "全天日射計、情報の太陽の火の計測",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "pur",
+					"type": "root",
+					"meaning": "fire"
+				},
+				{
+					"text": "ana-",
+					"type": "prefix",
+					"meaning": "up"
+				},
+				{
+					"text": "metron",
+					"type": "root",
+					"meaning": "measure"
+				}
+			],
+			"original_statement": "From Greek pyr + ana + metron."
+		},
+		"core_concept": {
+			"en": "instrument for measuring solar radiation",
+			"ja": "天上（up）から降り注ぐ太陽の『火（fire）』を、峻烈に情報の秤で量る。"
+		},
+		"thinking_layer": "上の火を測ること。全天から届く情報のエネルギーを、数学的なパルスへと峻烈に変換し、光という名の情報の支配力を一滴も漏らさず管理しようとする、知性の計測の檻。 ",
+		"aftertaste": "太陽の暴力的なまでの恵みが、ただの数値に還元された時の、知的な征服感。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"pyre (火葬の薪), pyromaniac と同じ pur。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "barograph",
+		"word": "Barograph",
+		"part_of_speech": "noun",
+		"meaning": "自記気圧計、情報の重みの記録",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "baros",
+					"type": "root",
+					"meaning": "weight"
+				},
+				{
+					"text": "graphein",
+					"type": "root",
+					"meaning": "to write"
+				}
+			],
+			"original_statement": "From Greek baros + graph."
+		},
+		"core_concept": {
+			"en": "instrument that continuously records atmospheric pressure",
+			"ja": "見えない大気の『重み（weight）』を、時間という名の紙に峻烈に『刻記（write）』する。"
+		},
+		"thinking_layer": "重さを書くこと。目に見えない透明な時間の重圧を、峻烈なインクの線へと変容（transform）させ、世界の情報の起伏を自動的に物語化する、沈黙の書記機械。 ",
+		"aftertaste": "ペンが描く無機質な曲線の中に、激しい嵐の予感を見つけた時の戦慄。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"barytone, gravity? (いや違う) baros は重さ。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "meteorograph",
+		"word": "Meteorograph",
+		"part_of_speech": "noun",
+		"meaning": "気象自記器、情報の空の総合報告",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "meteora",
+					"type": "root",
+					"meaning": "things in the air"
+				},
+				{
+					"text": "graphein",
+					"type": "root",
+					"meaning": "to write"
+				}
+			],
+			"original_statement": "From meteor + graph."
+		},
+		"core_concept": {
+			"en": "instrument that records several meteorological conditions",
+			"ja": "空という名の情報の戦場から、複数の変数を峻烈に『同時記録（write together）』する。"
+		},
+		"thinking_layer": "空のものを書くこと。気圧、温度、湿度という名のバラバラな情報の断片を一挙に統合し、カオスなる気象を一冊の情報のカルテへと峻烈に凝固させる、統合的な解析器。",
+		"aftertaste": "世界のすべてが、複数の線によって一挙に掌握されたという知的な満足。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"meteoroid, meteorology と同じ根。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "anabatic",
+		"word": "Anabatic",
+		"part_of_speech": "adjective",
+		"meaning": "上昇気流の、斜面を登る風の",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "ana-",
+					"type": "prefix",
+					"meaning": "up"
+				},
+				{
+					"text": "bainein",
+					"type": "root",
+					"meaning": "to go"
+				}
+			],
+			"original_statement": "From Greek anabatikos 'going up'."
+		},
+		"core_concept": {
+			"en": "wind flowing up a slope",
+			"ja": "情報の熱（heat）を糧にし、重力を峻烈に裏切って『上へ（up）』向かう。"
+		},
+		"thinking_layer": "登ること。太陽に焼かれた斜面が、情報の軽やかさを得て天へと駆け上がる動的な運動。それは、地上の重苦しさから峻烈に脱走（escape）しようとする、大気の情報の反逆。 ",
+		"aftertaste": "翼を持たぬ大気が、意志を持って天を志向する瞬間の、眩いばかりの軽快。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"base, diabetes と同じ bainein (歩く)。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "katabatic",
+		"word": "Katabatic",
+		"part_of_speech": "adjective",
+		"meaning": "下降気流の、斜面を降る風の",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "kata-",
+					"type": "prefix",
+					"meaning": "down"
+				},
+				{
+					"text": "bainein",
+					"type": "root",
+					"meaning": "to go"
+				}
+			],
+			"original_statement": "From Greek katabatikos 'going down'."
+		},
+		"core_concept": {
+			"en": "wind flowing down a slope",
+			"ja": "冷却という名の情報の重荷を背負い、淵へと峻烈に『降り（down）』てゆく。"
+		},
+		"thinking_layer": "降ること。高嶺の寒気が情報の質量を増大させ、重力という名の主人の命令に従って、谷底へと情報の激流となって雪崩れ込む、大気の情報の冷徹なる帰還。 ",
+		"aftertaste": "押し寄せる冷たい情報の波に、自らが底へと押し流されてゆく瞬間の、峻烈なる震撼。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"catastrophe (転機), cathode と同じ kata-。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "foehn",
+		"word": "Foehn",
+		"part_of_speech": "noun",
+		"meaning": "フェーン現象、乾いた熱風",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "favonius",
+					"type": "root",
+					"meaning": "favoring (wind), west wind"
+				}
+			],
+			"original_statement": "From Latin favonius."
+		},
+		"core_concept": {
+			"en": "hot dry wind on the lee side of a mountain range",
+			"ja": "山を越える（cross mount）という試練の果てに、情報の『湿り』を捨て、熱く乾く。"
+		},
+		"thinking_layer": "恵みの風。かつては春を呼ぶ風。山を駆け下りる際、断熱圧縮という名の『情報の自己燃焼』によって、不気味なほどの乾燥と高熱を産み出す、変貌した風の残響。",
+		"aftertaste": "風景が焼き付くような、季節外れの熱さと、唇を裂くような乾燥への畏怖。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"favor (恩恵) と本質を共有。かつては春の目覚め。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "microburst",
+		"word": "Microburst",
+		"part_of_speech": "noun",
+		"meaning": "マイクロバースト、局地的な猛烈な下降気流",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "mikros",
+					"type": "root",
+					"meaning": "small"
+				},
+				{
+					"text": "berstan",
+					"type": "root",
+					"meaning": "to break, burst"
+				}
+			],
+			"original_statement": "Coined by Ted Fujita in 1974."
+		},
+		"core_concept": {
+			"en": "localized column of sinking air within a thunderstorm",
+			"ja": "極微（small）なる一点から、大気が峻烈に『裂け（burst）』、地上を叩き潰す。"
+		},
+		"thinking_layer": "小さき爆発。見えない空の巨大な情報の水柱（cylinder）が、重力加速度を増しながら地表へ激突し、放射状に情報の破滅をまき散らす、空の情報の外科的なまでの局所攻撃。",
+		"aftertaste": "突然天から鉄槌が下されたかのような、不可解で暴力的なまでの一撃への戦慄。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"藤田スケールの藤田哲也によって提唱された。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "waterspout",
+		"word": "Waterspout",
+		"part_of_speech": "noun",
+		"meaning": "しらっ、水上竜巻」、情報の海の吸い上げ",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "water",
+					"type": "root",
+					"meaning": "water"
+				},
+				{
+					"text": "spout",
+					"type": "root",
+					"meaning": "to pour, jump?"
+				}
+			],
+			"original_statement": "From water + spout."
+		},
+		"core_concept": {
+			"en": "rotating column of water and spray",
+			"ja": "海（water）という名の情報の深淵が、空へと峻烈に『吸い上げ（spout）』られる。"
+		},
+		"thinking_layer": "水の噴出。境界線である海面を峻烈に破壊し、液体の秩序を気体の回転エネルギーへと強制的に転換させる、大気の情報の強欲なる昇華。 ",
+		"aftertaste": "海が空と繋がり、巨大な水柱が意志を持って移動する、神話的な光景への目眩。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"spit, spurt と同様、内側からの激しい噴出。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "dustdevil",
+		"word": "Dust Devil",
+		"part_of_speech": "noun",
+		"meaning": "つむじ風、塵旋風、情報の地の塵の悪戯",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "dust",
+					"type": "root",
+					"meaning": "dust"
+				},
+				{
+					"text": "devil",
+					"type": "root",
+					"meaning": "evil spirit"
+				}
+			],
+			"original_statement": "Colloquial term for a whirlwind."
+		},
+		"core_concept": {
+			"en": "small, vigorous whirlwind, to which dust and light debris are added",
+			"ja": "地の塵（dust）を、峻烈な情報の『悪霊（devil）』へと変容させ、狂い回る。"
+		},
+		"thinking_layer": "塵の悪魔。雲さえもない晴天の下で、地表の情報の不均衡が突如として発火し、実体のない空気に塵という名の『化身（avatar）』を授けて地上を蹂躙させる、大気の気まぐれな暴力。 ",
+		"aftertaste": "何もない平原に、急に姿を現した実在の亡霊に見つめられる恐怖。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"diabolos (中傷者/分断者) が語源の devil。情報の撹乱。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "heatwave",
+		"word": "Heatwave",
+		"part_of_speech": "noun",
+		"meaning": "猛暑、ヒートウェーブ、情報の静かなる灼熱の波",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "heat",
+					"type": "root",
+					"meaning": "heat"
+				},
+				{
+					"text": "wave",
+					"type": "root",
+					"meaning": "wave"
+				}
+			],
+			"original_statement": "From heat + wave."
+		},
+		"core_concept": {
+			"en": "prolonged period of abnormally hot weather",
+			"ja": "熱（heat）という名の波が、峻烈な『情報の停滞』となって停まり、世界を煮る。"
+		},
+		"thinking_layer": "熱の波。情報の移動（ventilation）が峻烈に停止したとき、空気が重厚な肉体的な情報の圧力へと変貌し、生命の水分と正気を一滴ずつ奪い去ってゆく、静かなる情報の拷問（torture）。",
+		"aftertaste": "どこにも逃げ場のない、透明な炎に包まれているような全き絶望。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"scald, calorie と同根。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "coldfront",
+		"word": "Cold Front",
+		"part_of_speech": "noun",
+		"meaning": "寒冷前線、情報の冷たき進軍",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "cold",
+					"type": "root",
+					"meaning": "cold"
+				},
+				{
+					"text": "front",
+					"type": "root",
+					"meaning": "foremost part"
+				}
+			],
+			"original_statement": "From meteorology."
+		},
+		"core_concept": {
+			"en": "boundary of an advancing mass of cold air",
+			"ja": "冷徹なる情報の軍勢が、峻烈な『最前線（front）』を形成し、熱を駆逐する。"
+		},
+		"thinking_layer": "冷たい正面。温かな情報の海を、峻烈な重厚なる情報の氷点によって強引に押し上げ、雷鳴と激しい情報の涙（rain）を伴って世界を再定義する、情報の軍事的な侵略。",
+		"aftertaste": "通過した瞬間の、心臓を凍らせるような温度の急落と、鋭い静寂への震撼。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"confront, forehead と同じ root。情報の真っ向勝負。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "warmfront",
+		"word": "Warm Front",
+		"part_of_speech": "noun",
+		"meaning": "温暖前線、情報の緩慢な抱擁",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "warm",
+					"type": "root",
+					"meaning": "warm"
+				},
+				{
+					"text": "front",
+					"type": "root",
+					"meaning": "foremost part"
+				}
+			],
+			"original_statement": "From meteorology."
+		},
+		"core_concept": {
+			"en": "boundary of an advancing mass of warm air",
+			"ja": "緩慢なる温かき情報が、冷たき地の表層を峻烈に『這い上がり』、覆い尽くす。"
+		},
+		"thinking_layer": "温かい正面。寒冷前線のような暴力的な打撃を峻烈に拒み、広大な灰色の情報の幕（clouds）を引きながら、じわじわと世界の情緒を湿った情報の溜息へと変えてゆく、情報の静かなる浸食（erosion）。",
+		"aftertaste": "逃れようのない、湿った温かさに包み込まれてゆく瞬間の、重い倦怠。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"burn? (いや由来遠い) fervor とも遠い関わり。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
