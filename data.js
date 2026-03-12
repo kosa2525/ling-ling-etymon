@@ -253609,5 +253609,82 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "stolid",
+		"word": "Stolid",
+		"part_of_speech": "adjective",
+		"meaning": "鈍感な、無感動な、感情を表さない",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "stolidus",
+					"type": "root",
+					"meaning": "dull, stupid, immovable (鈍い、動かない)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin stolidus."
+		},
+		"core_concept": {
+			"en": "(Of a person) calm, dependable, and showing little emotion or animation",
+			"ja": "どれだけ周囲が激しく揺れ動いても、岩のようにピクリとも動かず、表面に何の感情の波も立てない。『不動』ゆえに、時に鈍感で愚かにさえ見えるほどの、重厚な静止"
+		},
+		"thinking_layer": "『動かないこと』。シュトゥルト（Stultify/無効にする、馬鹿にする）と同根。ただ「無感情」なのではなく、外界からの刺激を「通さない」ほどの密度の高さ。それは頼もしさ（dependable）であると同時に、他者との共感を遮断する「壁」としての機能をも持っています。",
+		"aftertaste": "嵐の中に立つ一本の樫の木のような、頑固なまでの実直さ。あるいは、自分が一生懸命語っている最中に、ただぼんやりとこちらを見つめる人の、掴みどころのない空虚な眼差し。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "stel-",
+					"meaning": "to put, stand, set up"
+				}
+			],
+			"points": [
+				"stall, still, stale, stand, install 同根。",
+				"『定位置に据えられていること（stall）』が、精神的には『頑固さ』や『不動の安定（stolid）』へと繋がる。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "impassive",
+		"word": "Impassive",
+		"part_of_speech": "adjective",
+		"meaning": "無表情な、冷淡な、苦痛を感じない",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "in-",
+					"type": "prefix",
+					"meaning": "not"
+				},
+				{
+					"text": "passio",
+					"type": "root",
+					"meaning": "suffering, passion (苦痛、感情、受動)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From in- 'not' + passive, from Latin passio 'suffering'."
+		},
+		"core_concept": {
+			"en": "Not feeling or showing emotion",
+			"ja": "痛み（passio）や情熱に心を揺さぶられる『受動性（passive）』を『否定（not）』し、常に鏡のように滑らかで、一切の亀裂も入らない仮面のような『冷徹な静寂』"
+		},
+		"thinking_layer": "『情動がないこと』。パッション（Passion）の対義語。何かが自分に「降りかかる」ことを拒絶する知性。ポーカーフェイスの極北。悲劇の渦中にあっても、一滴の涙も流さず、ただ静かに事態を観察し続ける。その冷静さは、時に神のように崇高で、時に悪魔のように非情です。",
+		"aftertaste": "磨き上げられた水晶球のような、どこからも侵入できない完璧な滑らかさ。あるいは、絶望的な告白をしても、眉一つ動かさずに聴き続ける精神科医の、救いのような、あるいは突き放すような静寂。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "pē(i)-",
+					"meaning": "to hurt"
+				}
+			],
+			"points": [
+				"passive, patient, compatibility（共に苦しむ＝互換性）, sympathy 同根。",
+				"『苦しむ（passive）』ことが人間を人間たらしめるのに対し、『不感（impassive）』であることは、人間性を越えようとする意志的な逸脱。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
