@@ -255904,5 +255904,108 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "trifling",
+		"word": "Trifling",
+		"part_of_speech": "adjective",
+		"meaning": "つまらない、わずかな、浮ついた、ふざけた",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "trufle",
+					"type": "root",
+					"meaning": "deceit, trickery, mock (欺瞞、ごまかし)",
+					"lang": "Old French"
+				}
+			],
+			"original_statement": "From Old French trufle 'deceit'."
+		},
+		"core_concept": {
+			"en": "Unimportant or trivial",
+			"ja": "本気で向き合う価値のない、まるで『ふざけた（mock）』冗談のような、軽薄で空虚な様子。真理の重みとは無縁の、風に舞う塵のような軽さ"
+		},
+		"thinking_layer": "『ごまかし、あざけり』。トリュフ（Truffle/もとはキノコではなく、地面の隆起による幻惑？）という言葉の、幻（illusion）というニュアンスとも関係があるかもしれません。ただの「小さい」ではなく、そこに「内容の無さ（emptiness）」に対する軽蔑が含まれます。それは、真面目な努力を笑い飛ばすような、薄っぺらな虚無の響き。 ",
+		"aftertaste": "あまりにもくだらない（trifling）理由で、一生をかけて築いた友情が壊れてしまった時の、あの乾いた笑い。あるいは、高級な菓子（トライフルの語源）を一口食べて、その後に何も残らない甘美な空しさに、一瞬だけ心を許してしまう、あの退廃的な悦び。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"『欺瞞（deceit）』が『些細（trivial）』へと意味を変えた過程は、嘘の本質が『重みの欠如』にあることを示唆している。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "punctilio",
+		"word": "Punctilio",
+		"part_of_speech": "noun",
+		"meaning": "細かい点、儀礼的な細部、極めて細かいこだわり",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "punctum",
+					"type": "root",
+					"meaning": "point, prick (点、刺すこと)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Italian puntiglio or Spanish puntillo, diminutive of Latin punctum 'point'."
+		},
+		"core_concept": {
+			"en": "A fine or petty point of conduct or procedure",
+			"ja": "針の先で突いたような『極微の点（point）』にまで及ぶ、執拗で過剰なこだわり。形骸化した儀礼やマナーの細部を、命よりも大切に守ろうとする、知性の微視的な頑固さ"
+		},
+		"thinking_layer": "『小さな点』。パンク（Puncture/パンク、穴あき）やパンクチュアル（Punctual/時間に正確な＝一点を守る）と同根。ただの「几帳面」を超えて、それが「滑稽なまでの執着」になった時に使われます。社会の潤滑油であるはずの礼儀が、逆に身動きを封じる鎖となっている状態。しかし、その「一点」の崩壊が、全体の秩序の崩壊を予兆しているという直感。 ",
+		"aftertaste": "名刺の差し出し方一つ、お辞儀の角度一つの「細部（punctilio）」を守れなかったために、巨大な商談が破談になった時の、あの理不尽な不気味さ。あるいは、自分にしか分からない「物の配置」のこだわりを一ミリでも乱された時の、内側から湧き上がる静かな殺意。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "peuk-",
+					"meaning": "to prick, sting"
+				}
+			],
+			"points": [
+				"point, puncture, punctual, pungent（刺激的な）, pounce（急襲する＝突く）と同根。",
+				"『刺す（prick）』という原初的な感覚が、文明化されることで『正確さ（precision）』という美徳へと、さらに『形式（form）』という檻へと昇華された。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "nugatory",
+		"word": "Nugatory",
+		"part_of_speech": "adjective",
+		"meaning": "無効な、無価値な、つまらない、役に立たない",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "nugari",
+					"type": "root",
+					"meaning": "to trifle, talk nonsense (ふざける、たわごとを言う)",
+					"lang": "Latin"
+				},
+				{
+					"text": "nugae",
+					"type": "root",
+					"meaning": "trifles (つまらないもの)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin nugatorius, from nugari 'trifle'."
+		},
+		"core_concept": {
+			"en": "Of no value or importance; useless; futile",
+			"ja": "どれだけ言葉を尽くしても、どれだけ形を整えても、その本質が『空っぽ（trifling）』であり、何の効果も意味も生み出さない様子。虚無に捧げられた無駄な努力"
+		},
+		"thinking_layer": "『ふざけた、たわごとの』。ただの「無価値（worthless）」よりも、その存在そのものが「冗談のようである（ridiculous）」という侮蔑が強く込められています。例えば、あまりにも非現実的な法律や、誰も守るつもりのない契約。それは、言葉の力が完全に死に絶え、空気が震えているだけの、あまりにも寂しい知性の残骸。 ",
+		"aftertaste": "一生懸命に書いた長大な論文が、前提条件の間違いから「無効（nugatory）」であると宣告された時の、あの世界から色が消え去るような虚脱感。あるいは、死の間際に自分の功績を振り返って、それがすべて「無に等しい（nugatory）」と悟ってしまった老人の、冷たくて透明な微笑み。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"語源の『たわごと（nonsense）』は、理性の『外部』を意味する。",
+				"意味の通じない『音の連なり』こそが、価値という概念の『墓場』であることを、この言葉は冷酷に示している。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
