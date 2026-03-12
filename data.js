@@ -262662,5 +262662,206 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "gurgitation",
+		"word": "Gurgitation",
+		"part_of_speech": "noun",
+		"meaning": "波打つこと、渦巻くこと、（液体などの）急流",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "gurges",
+					"type": "root",
+					"meaning": "whirlpool, abyss, throat (渦巻、深淵、のど)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin gurgitatio, from gurges 'whirlpool'."
+		},
+		"core_concept": {
+			"en": "The action of gurgling or bubbling; a surging or whirlpool-like movement",
+			"ja": "喉（喉）の奥で渦巻く深淵（abyss）のように、液体が音を立てて激しく波打ち、回転し続ける様子。制御不能な衝動が、身体の深部から湧き上がってくるような『生命の激流』"
+		},
+		"thinking_layer": "『喉（の深淵）で渦巻くこと』。レグジテーション（Regurgitation/逆流）やゴージ（Gorge/山峡、貪り食う）、ガルガンチュア（Gargantua/大食漢）と同根。語源は「渦巻、喉」。ただの「流れ」ではなく、そこに「飲み込む力」と「回転」が宿っています。それは、理性を飲み込もうとする感情の渦、あるいは、逃れられない運命の「吸引力」。",
+		"aftertaste": "暗い淵（pool）の底で、水が音を立てて渦巻く「ガージテーション（gurgitation）」の様子を眺め、自分の心の中にも同じような「言葉にならない叫び」が渦巻いているのを感じる、あの不気味で心地よい恐怖。あるいは、あまりにも激しい情報の濁流（gurgitation of information）に溺れかけ、自分が何を信じていたのかさえ分からなくなった、あの混乱の充足感。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "gwer-",
+					"meaning": "to swallow (forming gurges)"
+				}
+			],
+			"points": [
+				"glutton, gargle, voracious, devour 同根。",
+				"『喉（throat）』とは生命が外部を『無（nothingness）』へと変え、自らの糧（energy）にするための神聖な廃墟であり、ガージテーション（gurgitation）はその変換のプロセスの激しさを表現している。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "regurgitation",
+		"word": "Regurgitation",
+		"part_of_speech": "noun",
+		"meaning": "（飲食物の）逆流、吐き戻し、（言葉などの）おうむ返し",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "re-",
+					"type": "prefix",
+					"meaning": "back, again (戻って)"
+				},
+				{
+					"text": "gurges",
+					"type": "root",
+					"meaning": "whirlpool, abyss (渦巻、深淵)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Medieval Latin regurgitatio, from re- 'back' + gurges 'whirlpool'."
+		},
+		"core_concept": {
+			"en": "The action of bringing swallowed food up again to the mouth; the casting up of undigested food",
+			"ja": "一度飲み込み、消化しかけたはずのものを、再び『喉（abyss）』を通って光の世界へと連れ戻す行為。拒絶（rejection）の意志、あるいは、咀嚼（chewing）しきれなかった過去への再挑戦"
+		},
+		"thinking_layer": "『喉を戻ること』。ガージテーション（Gurgitation）の「再（re-）」の形。ただの「嘔吐（vomit）」よりも、機能的な「戻し」のニュアンスがあります。鳥が雛に餌をあげる時のように。それは、一度学んだ知識をそのまま吐き出す「おうむ返し（rote repetition）」、あるいは、受け入れたはずの運命をどうしても消化できずに、再び問い直してしまう（re-questioning）魂の営み。",
+		"aftertaste": "自分の発した言葉が、誰かの使い古された意見をそのまま「逆流（regurgitation）」させたものに過ぎないと気づいた時の、あの口の中に残る苦い不快感と、知的な虚無。あるいは、あまりにも美しい詩の一文を、心の中で何度も「反芻（regurgitating）」し、その言葉が自分の血肉に変わってゆくのを感じる、あの静かな幸福の再生産。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "gwer-",
+					"meaning": "to swallow (forming gurges)"
+				}
+			],
+			"points": [
+				"re-gorge, regurgitate 同根。",
+				"『逆流（regurgitation）』とは、システムの一時的な『不全』を意味するが、それは同時に、自分に合わないものを外部へと排除（exclude）し、純粋な自己を維持しようとする、生命の必死な『防衛』のジェスチャーでもある。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "ingurgitation",
+		"word": "Ingurgitation",
+		"part_of_speech": "noun",
+		"meaning": "貪り食うこと、がぶ飲みすること、没頭すること",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "in-",
+					"type": "prefix",
+					"meaning": "into (〜の中へ)"
+				},
+				{
+					"text": "gurges",
+					"type": "root",
+					"meaning": "whirlpool, abyss (渦巻、深淵)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin ingurgitatio, from in- 'into' + gurges 'whirlpool'."
+		},
+		"core_concept": {
+			"en": "The action of swallowing greedily or immoderately",
+			"ja": "世界のすべてを、自らの内なる『深淵（abyss）』へと強引に引きずり込み、休むことなく飲み込み続ける（swallowing）過剰な欲望。飢えを癒やすためではなく、ただ『満たされる（filling）』ことそのものに没頭する狂気"
+		},
+		"thinking_layer": "『喉の中へ入れること』。ガージテーション（Gurgitation）の「中（in-）」の形。ただの「食事」ではありません。それは「がぶ飲み」であり、「貪欲な吸収」です。それは、あまりにも多くの快楽（pleasure）や知識に溺れること。節度（moderation）を忘れ、対象そのものと同化（assimilate）しようとする、暴力的なまでの受容。",
+		"aftertaste": "夜を徹して一冊の本を「貪り読み（ingurgitation of knowledge）」、読み終えたあとに、自分が巨大な思想そのものに飲み込まれてしまったかのような、あの眩暈（dizziness）と深い消耗感。あるいは、自分の欲望が、底なしの「インガージテーション（ingurgitation）」の渦となって、周囲の平穏をすべて飲み込んでゆくことに気づく、あの静かな地獄の予感。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "gwer-",
+					"meaning": "to swallow (forming gurges)"
+				}
+			],
+			"points": [
+				"engulf, gorge 同根の説あり。",
+				"『吸収（absorption）』とは本来は生命の維持に不可欠なあ営みだが、それが『過剰（excess）』になった時、境界線は崩壊し、主体は自らが飲み込んだ対象の一部へと変質（metamorphosis）してゆく。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "deglutition",
+		"word": "Deglutition",
+		"part_of_speech": "noun",
+		"meaning": "嚥下（えんげ）、飲み下すこと",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "de-",
+					"type": "prefix",
+					"meaning": "down (下に)"
+				},
+				{
+					"text": "glutire",
+					"type": "root",
+					"meaning": "to swallow (飲み込む)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin deglutitio, from de- 'down' + glutire 'swallow'."
+		},
+		"core_concept": {
+			"en": "The action or process of swallowing",
+			"ja": "口の中にあったものを、不可逆なプロセスとして『下に（down）』『送り込む（swallow）』、決断の儀式。一度喉を越えれば、もはや自分の意志だけでは止めることのできない、自律的な生命への委ね"
+		},
+		"thinking_layer": "『下に飲み込むこと』。グラットン（Glutton/大食漢）やグルテ（Glue/糊？飲み込む時のようにくっつく？）はおそらくな。語源は「飲み込む」。ただの「摂取」ではなく、そこには「意識から無意識への移行」という劇的な境界線の越境が含まれます。それは、苦い事実（bitter fact）を飲み下して自分の一部にする「覚悟」、あるいは、自分の言葉が他者の喉を通過してゆくのを見届ける、あの緊張した沈黙。",
+		"aftertaste": "重い告知を「飲み下した（deglutition of truth）」瞬間、自分の身体の重力が一瞬だけ増したように感じ、それまで他人事だった悲劇が、劇的な「現実（reality）」として自分の一部になったことを悟る、あの峻烈な沈黙。あるいは、あまりにも正しい正論（logic）を突きつけられ、それを「嚥下（swallow）」することも「吐き出す（reject）」こともできずに立ち尽くす、あの知的な窒息感。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "gwer-",
+					"meaning": "to swallow (forming glutire)"
+				}
+			],
+			"points": [
+				"glutton, glut, engulf 同根。",
+				"『飲み込む（swallowing）』とは、他者を自らの『内側』へと招き入れる究極の信頼の表明であり、デグルティション（deglutition）はその物理的なプロセスを通じて、個体が世界と『融合』してゆく神秘の記録である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "rumination",
+		"word": "Rumination",
+		"part_of_speech": "noun",
+		"meaning": "反芻（はんすう）、沈思黙考",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "rūmināre",
+					"type": "root",
+					"meaning": "to chew the cud (反芻する)",
+					"lang": "Latin"
+				},
+				{
+					"text": "rūmen",
+					"type": "root",
+					"meaning": "throat, gullet (のど、第1胃)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin ruminatio, from ruminare 'chew the cud'."
+		},
+		"core_concept": {
+			"en": "The action or process of thinking deeply about something; (of a ruminant) the action of chewing the cud",
+			"ja": "一度飲み込んだ光景を、静かな夜の闇の中で何度も口元へと呼び戻し、その『真の意味』を納得ゆくまで噛み締め続ける、知的な『反芻』。答えを急がず、沈黙の中で思考を熟成（ripening）させる、誠実な遅延"
+		},
+		"thinking_layer": "『胃から戻して噛むこと』。ルーメン（Rumen/第1胃）と同根。語源は「反芻する」。牛や羊が草を何度も噛み直すように、私たちは過去の出来事や言葉を、何度も頭の中で「再演（replay）」します。それは。単なる逃避ではなく、経験を「知恵（wisdom）」へと変えるための、苦痛を伴う錬金術。それは、他人の評価を気にせず、自分の「魂の味」を確認し続ける孤独な作業。",
+		"aftertaste": "十年前に誰かに言われた些細（trivial）な一言を、今さら「反芻（ruminating）」し、その言葉の裏に隠されていた本当の優しさ（kindness）に初めて気づいて、一人で静かに微笑む、あの時間の結晶化（crystallization）。あるいは、自分を傷つけた出来事を何度も「反芻」し続け、その痛みそのものを飼い慣らして（taming）自分の「盾（shield）」へと変えてゆく、あの無口で強靭な自己救済。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "re-",
+					"meaning": "again (forming rumen? - uncertain)"
+				}
+			],
+			"points": [
+				"『胃（stomach）』とは、単なる消化器官ではなく、情報の『熟成』を待つ、知性のための『貯蔵庫（storage）』であるという古代人のメタファー。",
+				"ルミネーション（rumination）とは、速さを競う現代社会（fast world）に対する、最も優雅で破壊的な『遅滞（slowness）』の抵抗である。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
