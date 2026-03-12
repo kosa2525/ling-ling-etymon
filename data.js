@@ -253992,5 +253992,128 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "interpolate",
+		"word": "Interpolate",
+		"part_of_speech": "verb",
+		"meaning": "（言葉を）挿入する、改竄する、内挿する",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "inter-",
+					"type": "prefix",
+					"meaning": "between (間に)"
+				},
+				{
+					"text": "polire",
+					"type": "root",
+					"meaning": "to polish, smooth (磨く、整える)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin interpolat- 'refurbished', from inter- 'between' + polire 'to polish'."
+		},
+		"core_concept": {
+			"en": "Insert (something) between fixed points; insert (words) in a text, especially with a view to deceive",
+			"ja": "既にある文脈や物語の『間（between）』に、自分勝手な新しい断片を『滑り込ませ（polish in）』、全体を都合の良い形に整え直したり、不足している中間を埋めたりすること"
+		},
+		"thinking_layer": "『間に磨き入れること』。ポリッシュ（Polish）と同根。もとは古着を「仕立て直す（refurbish）」ことを指しました。歴史の空白を憶測で埋めることから、他人の言葉の中に自分の意図を紛れ込ませる改竄まで。継ぎ目を感じさせない巧妙な「改変」。 ",
+		"aftertaste": "滑らかな物語の途中に、僅かに混じった他人の「声」の違和感。あるいは、データとデータの間を計算で埋め、未知の領域を予測する瞬間の、冷徹な理性の跳躍。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "pel-",
+					"meaning": "to push, drive"
+				}
+			],
+			"points": [
+				"polish, appeal, pulse 同根。",
+				"『磨く（polish）』とは、表面を『押し（push）』て平らにすることであり、その隙間に何かを『入れる（interpolate）』ことは、一種の知的な侵略。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "desiccate",
+		"word": "Desiccate",
+		"part_of_speech": "verb",
+		"meaning": "乾燥させる、干からびさせる、活力を奪う",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "de-",
+					"type": "prefix",
+					"meaning": "thoroughly (徹底的に)"
+				},
+				{
+					"text": "siccus",
+					"type": "root",
+					"meaning": "dry (乾いた)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin desiccat- 'made thoroughly dry'."
+		},
+		"core_concept": {
+			"en": "Remove the moisture from (something, especially food), typically in order to preserve it; lacking interest, passion, or energy",
+			"ja": "生命の源である潤いを『徹底的に（thoroughly）』奪い取り、形だけを残して『干からびさせて』しまうこと。保存のための知恵、あるいは不毛な死"
+		},
+		"thinking_layer": "『乾かしきること』。セック（Sec/辛口）と同根。肉体をミイラにするように、情熱から言葉を、事実から体験を剥ぎ取り、無機質な「標本」に変えること。それは永遠に保存可能な知識を作る行為かもしれませんが、同時に生命の「体温」を永遠に失うことでもあります。",
+		"aftertaste": "かつては鮮やかだった感情が、文字データとなって冷たく記録されている時の、砂のような虚しさ。あるいは、不毛な議論の果てに、心がカラカラに乾ききってしまった午後の疲労感。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "seik-",
+					"meaning": "to flow, soak (original negative meaning expected)"
+				}
+			],
+			"points": [
+				"sec, sack（辛口ワイン）, thirsty 同根の説あり。",
+				"『湿り気（moisture）』の消失は、生命の静止を意味し、知性にとっては『抽象化（abstraction）』という高度な保存プロセスとなる。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "enervate",
+		"word": "Enervate",
+		"part_of_speech": "verb/adjective",
+		"meaning": "力を奪う、無気力にする、衰えさせる",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "e-",
+					"type": "prefix",
+					"meaning": "out (外へ)"
+				},
+				{
+					"text": "nervus",
+					"type": "root",
+					"meaning": "sinew, nerve (神経、意欲、力)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin enervat- 'weakened', from e- 'out' + nervus 'sinew'."
+		},
+		"core_concept": {
+			"en": "Cause (someone) to feel drained of energy or vitality; weaken",
+			"ja": "身体を支える『神経（sinew）』を外へ『抜き取って（out）』しまったかのように、立っていることさえ困難なほどの深い『脱力感』。意志が糸の切れた人形のように崩れ落ちる様子"
+		},
+		"thinking_layer": "『神経を抜くこと』。ナーブ（Nerve）やエナジー（Energy）と同根。ただ疲れるのではなく、存在の「芯（Core）」を失うこと。過剰な快楽、終わりのない徒労、あるいは魂を削るような議論。生命の火を、内側から静かに吹き消されるような体験。",
+		"aftertaste": "どれだけ頑張ろうとしても、掌から力が抜けてゆく、あのどうしようもない無力感。あるいは、あまりにも完璧な美しさを前にして、呼吸することさえ忘れてしまった時の、甘美な麻痺。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "snēu-",
+					"meaning": "tendon, sinew"
+				}
+			],
+			"points": [
+				"nerve, neuro, needle（針）, snag 同根。",
+				"『神経（nerve）』は、意志を『繋ぐ（thread）』ものであり、その喪失（enervate）は『自己の分断』を意味する。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
