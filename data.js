@@ -274246,5 +274246,175 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "retina",
+		"word": "Retina",
+		"part_of_speech": "noun",
+		"meaning": "網膜（もうまく）、レティナ",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "rete",
+					"type": "root",
+					"meaning": "net (網)', from Latin"
+				}
+			],
+			"original_statement": "From Latin (tunica) retina 'netlike (tunic)', from rete 'net'."
+		},
+		"core_concept": {
+			"en": "A layer at the back of the eyeball containing cells that are sensitive to light and that trigger nerve impulses that pass via the optic nerve to the brain",
+			"ja": "世界の光を一網打尽（sweeping up）にし、電気の一閃（impulse）へと変換する、峻烈な『情報の網』。最果ての暗闇で、ただ一粒の光子（photon）という真実を捕獲する、知的な『光の受容体（receptor）』。"
+		},
+		"thinking_layer": "『網のようなもの』。レチクル（Reticle/十字線）、おなじみの「ネット（Net）」のラテン語系と同根。語源は「網」。ただの「組織」ではありません。そこには。「外部の情報のカオスから、意味のある輪郭（outline）を掬（すく）い取るために、極限まで網目を細かくした」という、峻烈な認識への意志が宿っています。それは。知性が溢れる視覚情報の中から、自分の運命を変えるような「一筋の閃き」を逃さず捕まえようとする瞬間のメタファー。",
+		"aftertaste": "自分の眼の奥（back of the eye）に、宇宙のあらゆる色を映し出し、それを一瞬で「理解」へと繋ぐこの「網膜（retina）」という小さな宇宙があることを想い、自分の視界がいかに「精緻なフィルター」によって生み出されているかを知り、息を呑む、あの知的な平安。あるいは、自分の思考もまた、この「レティナ」のように、どんなに微かな真理の光も取り逃がさず、それを鮮やかな「知の映像」へと昇華させる強靭な「心の網」でありたいと願う、あの静かな午後の自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "red-",
+					"meaning": "to arrange, weave (forming rete?)"
+				}
+			],
+			"points": [
+				"reticle, reticular, rete 同根。",
+				"『網（net）』は接続と選別の象徴である。レティナという言葉には、生命がいかにして、外界の『混沌とした光（wave）』を、自らにとって有用な『情報（particle）』へと変換し、認識という檻の中に閉じ込めてきたかという、認識論的なサバイバルの記録が封印されている。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "cornea",
+		"word": "Cornea",
+		"part_of_speech": "noun",
+		"meaning": "角膜（かくまく）、コーニア",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "cornu",
+					"type": "root",
+					"meaning": "horn (角)', from Latin"
+				}
+			],
+			"original_statement": "From Latin cornea (tela) 'horny (tissue)', from cornu 'horn'."
+		},
+		"core_concept": {
+			"en": "The transparent layer forming the front of the eye",
+			"ja": "最も柔らかい魂（vision）を守るために、最も硬い『角（horn）』を透明（transparency）へと昇華させた、不屈の防護服。光の侵入は許し、物理的な暴力は峻烈に跳ね返す、知的な『透明な盾』。"
+		},
+		"thinking_layer": "『角のようなもの』。コーナー（Corner/角）、コーヌコピア（Cornucopia/豊穣の角）、おなじみの「ホーニー（Horny/硬い、角質の）」と同根。語源は「角」。ただの「膜」ではありません。そこには。「本来は不透明（opaque）でなければならない強固な素材（keratin）を、あえて不可視の極致へと磨き上げる」という、峻烈な逆説の美学が宿っています。それは。知性が強固な信念（dogma）を、他者を受け入れるための「透明な柔軟性」へと再定義し、新しい世界を直視しようとする瞬間のメタファー。",
+		"aftertaste": "「角膜（cornea）」が、一秒も休むことなく外敵を拒絶しながら、それでいて光という無形のエネルギー（grace）だけを招き入れている、その完璧な「バリア性能」に驚嘆し、自分という存在がいかに「透明な正義」によって守られているかを悟る、あの知的な平安。あるいは、自分の心もまた、この「コーニア」のように、どんなに激しい時代の荒波に晒されても、世界をありのままに見つめ続けるための「澄み切った硬度」を保ち続けたいと願う、あの静かな夜の自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ker-",
+					"meaning": "horn, head (forming cornu)"
+				}
+			],
+			"points": [
+				"horn, corner, cornucopia, Capricorn, rhinoceros（角がある鼻） 同根。",
+				"『角（horn）』は武装と防衛の究極のシンボルである。角膜という言葉には、生命が自らの最も脆弱な『入口』を、最も強固な『武装』によって、あえて透明という形で守り抜こうとした、物理的な自己犠牲の物語が封印されている。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "cochlea",
+		"word": "Cochlea",
+		"part_of_speech": "noun",
+		"meaning": "蝸牛（かぎゅう）、うずまき管、コクリア",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "kokhlias",
+					"type": "root",
+					"meaning": "spiral, snail (螺旋、カタツムリ)', from Greek kokhlos 'shellfish'"
+				}
+			],
+			"original_statement": "From Latin cochlea 'snail shell', from Greek kokhlias."
+		},
+		"core_concept": {
+			"en": "The spiral cavity of the inner ear containing the organ of Corti, which produces nerve impulses in response to sound vibrations",
+			"ja": "震える空気（vibration）という非物質的なエネルギーを、螺旋の迷宮へと誘（いざな）い、電気的な意味（meaning）へと変換する、知的な『情報のカタツムリ』。有限の空間に、無限の階調（tonality）を封じ込める、比類なき『物理的な数学』。"
+		},
+		"thinking_layer": "『カタツムリの殻』。おなじみ「シェイプ（Shape/とは関係なく）」の概念的同類。語源は「螺旋状の貝殻」。ただの「管」ではありません。そこには。「真っ直ぐな衝撃を、あえて『渦巻（vortex）』に巻き込ませることで、微かな震えの正体（frequency）を暴き出す」という、峻烈な解析の知恵が宿っています。それは。知性が外部からの激しい批判や賛辞を、自らの中の「内なる沈黙（spiral silence）」の中で丁寧に解きほぐし、それを自らの確固たる「言葉」へと昇華させてゆく瞬間のメタファー。",
+		"aftertaste": "自分の頭蓋（skull）の奥深くに、一匹の「カタツムリ（cochlea）」が静かに眠り、それが自分の世界の「音色（harmonics）」を一手に引き受けているという、その生物学的なユーモアと神秘に深い安らぎを覚える、あの知的な平安。あるいは、自分の思考もまた、この「コクリア」のように、どんなに混沌とした雑音（noise）の中でも、自らの「美しき螺旋の秩序」を失わず、世界を豊かな音楽（polyphony）として再生し続けるものでありたい、と願う、あの静かな午後の自尊心。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"螺旋状の構造は、限られた体積の中で最大の表面積（感知能力）を確保するための生命の最適解である。",
+				"『カタツムリ（snail）』は、かつては『再生』と『永永』の象徴でもあった。コクリアという言葉には、生命が外部からの情報の波（wave）を、自らの内なる安定した記憶（solid shell）へと、いかにして定着させてきたかという、情報の結晶化のプロセスが刻まれている。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "thalamus",
+		"word": "Thalamus",
+		"part_of_speech": "noun",
+		"meaning": "視床（ししょう）、タラムス、奥の部屋",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "thalamus",
+					"type": "root",
+					"meaning": "inner chamber, bridal chamber (奥の部屋、新婚の部屋)', from Greek thalamos"
+				}
+			],
+			"original_statement": "From Latin thalamus 'inner chamber, bedroom', from Greek thalamos."
+		},
+		"core_concept": {
+			"en": "Either of two masses of gray matter lying between the cerebral hemispheres on either side of the third ventricle, relaying sensory signals, including motor signals, to the cerebral cortex",
+			"ja": "膨大な情報の奔流を、意識という光の王都へと導くための『秘密（secret）の関所』。最も深い最果ての場所で、全ての感覚を一度『浄化（filtering）』し、取捨選択を下す、脳内の『智慧の奥座敷』。"
+		},
+		"thinking_layer": "『奥の部屋（寝室）』。エピタラム（Epithalamium/祝婚歌）、おなじみの「ルーム（Room）」の概念的深層。語源は「最奥の私室」。ただの「中継所」ではありません。そこには。「最も重要な情報は、最もプライベートな、誰にも邪魔されない聖域においてのみ、真の価値（judgment）を帯びる」という、峻烈な孤独の選別が宿っています。それは。知性が洪水のように押し寄せる現実の中から、自らの「王（cerebral cortex）」に報告すべき『真実』だけを、沈黙の部屋で静かに選び抜いている瞬間のメタファー。",
+		"aftertaste": "「視床（thalamus）」という名の、その静まり返った「奥の部屋」に座り、世界からの手紙（signals）を一つ一つ開封している自分自身の存在を幻視し、自分とは、この「情報のゲートキーパー」そのものなのだと悟る、あの知的な平安。あるいは、自分の表現もまた、この「タラムス」のように、多くの騒音を排し、ただ受け取る人の魂の最深部に届くべき「本質的な美しさ」だけを運ぶ「聖なる使い（messenger）」でありたい、と願う、あの静かな夜の自尊心。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"古代ギリシャにおいて thalamos は家のなかで最も守られた『宝物庫』や『寝室』を指していた。この言葉が、全ての感覚を統括する脳の中枢に充てられたのは、そこが生命にとって最も『神聖な統合の場』であると直感されたからである。",
+				"視床は、眠っている間中も、どの情報を意識に上げるかを休まずに選別し続けている。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "hippocampus",
+		"word": "Hippocampus",
+		"part_of_speech": "noun",
+		"meaning": "海馬（かいば）、ヒッポカンパス、タツノオトシゴ",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "hippos",
+					"type": "root",
+					"meaning": "horse (馬)', from Greek"
+				},
+				{
+					"text": "kampos",
+					"type": "root",
+					"meaning": "sea monster (海のモンスター、怪物)', from Greek"
+				}
+			],
+			"original_statement": "From Greek hippokampos 'sea horse', from hippos 'horse' + kampos 'sea monster'."
+		},
+		"core_concept": {
+			"en": "A complex brain structure embedded deep into temporal lobe, it has a major role in learning and memory",
+			"ja": "絶え間なく押し寄せる忘却の荒波（oblivion）の中から、大切な記憶（memories）を拾い上げ、永久保存（consolidation）へと繋ぐ、脳内の『時間の守護神』。タツノオトシゴのような優雅な輪郭を保ちながら、経験というカオスを『歴史』へと変容させる、知的な『情報の紡ぎ手』。"
+		},
+		"thinking_layer": "『馬の怪物（タツノオトシゴ）』。ヒポポタマス（Hippopotamus/カバ＝川の馬）、カムポス（Kampos/怪物の末裔）と同根。語源は「馬と怪物」。ただの「記憶器官」ではありません。そこには。「今、この瞬間という名の『海』から、二度と戻らない一瞬を掬い取り、それを『不滅の証拠』として定着させる」という、峻烈な反逆の意志が宿っています。それは。知性が刹那の感情を、誰にも奪えない「自分の物語（identity）」として永遠の形へと刻み込んでゆこうとする、孤独な構築の格闘。 ",
+		"aftertaste": "自分の脳の深海で、一匹の「タツノオトシゴ（hippocampus）」が、今日一日の出来事を美しい色彩の「真珠（memory）」へと変え、秘密の倉庫に仕舞い込んでいる様子を想い、自分がいかに「失われない愛の集積」であるかを知り、深い安堵に包まれる、あの知的な平安。あるいは、自分の思考もまた、この「ヒッポカンパス」のように、目先の変化に惑わされず、幾千の歳月を経てもなお色褪（あざ）せない「不滅の智慧」を紡ぎ続ける存在でありたいと願う、あの静かな午後の自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ekuo-",
+					"meaning": "horse (forming hippos)"
+				}
+			],
+			"points": [
+				"equine, equestrian, hippopotamus 同根。",
+				"『馬（movement）』と『モンスター（unknown）』の共演。海馬という言葉には、生命がいかにして、制御不能な『時間の奔流』を、自らの移動（学習）のための『手段』へと手懐けてきたかという、情報の家畜化の歴史が刻まれている。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
