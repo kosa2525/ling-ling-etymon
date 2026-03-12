@@ -292429,5 +292429,1168 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "herbaceous",
+		"word": "Herbaceous",
+		"part_of_speech": "adjective",
+		"meaning": "草本（そうほん）の、草のような、情報の柔らかな緑",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "herba",
+					"type": "root",
+					"meaning": "grass, herb"
+				}
+			],
+			"original_statement": "From Latin herbaceous."
+		},
+		"core_concept": {
+			"en": "relating to herbs; (of a plant) having a soft stem",
+			"ja": "木本という名の『硬直』を峻烈に拒み、情報の『柔らかな緑（grass）』として世界に添う。"
+		},
+		"thinking_layer": "草の。冬という名の死を前にして、地上部を峻烈に放棄し（die back）、種子や根に情報の核心を託して一時的に消え去る、情報のしなやかなる戦略。",
+		"aftertaste": "硬い茎を持たぬがゆえに、風に逆らわず、かつ折れることもないという情報の真理。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"herb, herbal と同根。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "coniferous",
+		"word": "Coniferous",
+		"part_of_speech": "adjective",
+		"meaning": "針葉樹の、情報の円錐（コーン）を抱く者",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "conus",
+					"type": "root",
+					"meaning": "cone"
+				},
+				{
+					"text": "ferre",
+					"type": "root",
+					"meaning": "to bear, carry"
+				}
+			],
+			"original_statement": "From cone + -ferous."
+		},
+		"core_concept": {
+			"en": "relating to or denoting trees that bear cones and needle-like leaves",
+			"ja": "情報の種子のための『盾（cone）』を峻烈に『保持（bear）』し、冬に挑む。"
+		},
+		"thinking_layer": "コーンを運ぶもの。不毛な寒冷地という名の情報の絶望に対し、針のような葉という名の高度な節約（efficiency）をもって永劫回帰の緑を維持する、情報の不屈の守護者。",
+		"aftertaste": "雪の中に立つ、その峻烈な垂直の静寂と、樹脂の香りに包まれる瞬間の覚醒。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"cone, infer, transfer と同じ root。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "evergreen",
+		"word": "Evergreen",
+		"part_of_speech": "adjective",
+		"meaning": "常緑の、不滅の緑、情報の永続性",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "ever",
+					"type": "root",
+					"meaning": "always"
+				},
+				{
+					"text": "green",
+					"type": "root",
+					"meaning": "green"
+				}
+			],
+			"original_statement": "From ever + green."
+		},
+		"core_concept": {
+			"en": "plant that has leaves throughout the year",
+			"ja": "季節という名の情報の『転変』を峻烈に無視し、情報の『恒常（always）』を貫く。"
+		},
+		"thinking_layer": "常に緑であること。時間の摩耗を峻烈に拒絶し、常に現在進行形の生命であり続ける、情報の不滅のアイデンティティ。それは、枯れることという名の物語の否定。",
+		"aftertaste": "冬の白き虚無の中で、ただ一点の緑が放つ、不敵なまでの生命の主張。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"everlasting, every と感覚的に繋がる、時間の支配。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "stolon",
+		"word": "Stolon",
+		"part_of_speech": "noun",
+		"meaning": "匍匐茎（ほふくけい）、ランナー、情報の横への侵攻",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "stolo",
+					"type": "root",
+					"meaning": "shoot, sucker, branch"
+				}
+			],
+			"original_statement": "From Latin stolo 'branch, sucker'."
+		},
+		"core_concept": {
+			"en": "creeping horizontal plant stem or runner that takes root at points along its length",
+			"ja": "地表を峻烈に這い進み、情報の『新芽（shoot）』を遠隔地へと送り込む。"
+		},
+		"thinking_layer": "枝。自らの中心（root）から離れることを峻烈に志向し、横方向への情報のネットワーク拡張を行う、情報の伏兵。それは、静かなる領土の侵食（colonization）。",
+		"aftertaste": "気づかぬうちに、地表が一本の糸によって繋がれているという、情報の潜行ネットワーク。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"stallion? (いや関係薄) 植物の『走り手』。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "bulb",
+		"word": "Bulb",
+		"part_of_speech": "noun",
+		"meaning": "鱗茎（りんけい）、球根、情報の玉ねぎ状の凝固",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "bulbus",
+					"type": "root",
+					"meaning": "onion, bulbous root"
+				}
+			],
+			"original_statement": "From Greek bolbos."
+		},
+		"core_concept": {
+			"en": "rounded underground storage organ",
+			"ja": "命という名の情報の核心を、峻烈な情報の『層（layers）』で包囲し、凝固させる。"
+		},
+		"thinking_layer": "（玉ねぎのような）球根。地上のカオスを峻烈に避け、土壌の沈黙の中に情報のエネルギーを峻烈に貯蔵する、情報の時限爆弾。それは、未来という名の爆発を待つ静止状態。 ",
+		"aftertaste": "茶色い皮の中に、すべての色彩と形が峻烈に畳み込まれているという驚異。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"bulbous, boleros, bulb (電球) と同根。丸き形状。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "corm",
+		"word": "Corm",
+		"part_of_speech": "noun",
+		"meaning": "球茎（きゅうけい）、情報の短き記憶の塊",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "kormos",
+					"type": "root",
+					"meaning": "trunk of a tree, log"
+				}
+			],
+			"original_statement": "From Greek kormos."
+		},
+		"core_concept": {
+			"en": "rounded underground storage organ of plants, consisting of a swollen stem base",
+			"ja": "茎の基部を峻烈に『丸太（log）』のように太らせ、情報の拠点を築く。"
+		},
+		"thinking_layer": "切り株。鱗片を持つ bulb とは異なり、一つの均質な情報の組織（tissue）として質量を蓄える、実直なる情報の倉庫。それは、自らを支えるための堅牢なる土台。 ",
+		"aftertaste": "泥の中から掘り出された、その重厚な情報の質量の、生々しき手応え。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"kormos (丸太) から。植物の『一節』の肥大。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "herbicide",
+		"word": "Herbicide",
+		"part_of_speech": "noun",
+		"meaning": "除草剤、情報の緑の抹殺",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "herba",
+					"type": "root",
+					"meaning": "grass"
+				},
+				{
+					"text": "-cidere",
+					"type": "root",
+					"meaning": "to kill"
+				}
+			],
+			"original_statement": "From herb + -cide."
+		},
+		"core_concept": {
+			"en": "substance that is toxic to plants, used to destroy unwanted vegetation",
+			"ja": "選別されざる緑という名の情報を、峻烈な情報の『死（kill）』へと追いやる。"
+		},
+		"thinking_layer": "草を殺すもの。望まぬ繁茂という名の『情報のノイズ』を、化学という名の峻烈な論理で選択的に消去し、不毛なる秩序を維持しようとする、人間の情報の独裁。 ",
+		"aftertaste": "茶色く枯れ果てた跡地に、生命を管理することという名の、冷徹なる傲慢を視る。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"pesticide, homicide と同じ -cide (caedere)。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "fertilizer",
+		"word": "Fertilizer",
+		"part_of_speech": "noun",
+		"meaning": "肥料、情報の豊穣の加速器",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "ferre",
+					"type": "root",
+					"meaning": "to bear, carry"
+				}
+			],
+			"original_statement": "From fertile."
+		},
+		"core_concept": {
+			"en": "chemical or natural substance added to soil to increase its fertility",
+			"ja": "不毛な大地に、峻烈な情報の『実り（bear）』を強制的に注入する。"
+		},
+		"thinking_layer": "実らせるもの。自然という名の『緩慢な時間の流れ』を峻烈に嘲笑い、窒素、リン、カリという名の情報のブースター（booster）によって、生命の演算を極限まで加速させる装置。",
+		"aftertaste": "あまりに急速に成長した緑に、どこか非自然的な危うさと、過剰な欲望の影を視る。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"fertile, transfer と同じ root。情報の『運び屋』。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "compost",
+		"word": "Compost",
+		"part_of_speech": "noun",
+		"meaning": "堆肥（たいひ）、情報の腐朽からの再生",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "com-",
+					"type": "prefix",
+					"meaning": "together"
+				},
+				{
+					"text": "ponere",
+					"type": "root",
+					"meaning": "to put, place"
+				}
+			],
+			"original_statement": "From Latin compositum 'something put together'."
+		},
+		"core_concept": {
+			"en": "decayed organic material used as a fertilizer",
+			"ja": "死せる情報の断片を、峻烈に『共に配置（put together）』し、熱へと変換する。"
+		},
+		"thinking_layer": "組み合わされたもの。消滅という名の絶望（death）を、微生物という名の情報の分解者によって、再び生命の土台となる情報の可能性へと再鋳造する、大地の錬金術。 ",
+		"aftertaste": "立ち昇る温かな湯気の中に、死と生が峻烈に交差する、情報の永遠なる循環の匂い。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"compose, composite と同根。構成すること。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "mulch",
+		"word": "Mulch",
+		"part_of_speech": "noun",
+		"meaning": "マルチ、情報の保護層、土壌の沈黙の覆い",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "molsh",
+					"type": "root",
+					"meaning": "soft, mellow"
+				}
+			],
+			"original_statement": "From Middle English molsh 'soft'."
+		},
+		"core_concept": {
+			"en": "material spread around a plant to enrich or insulate the soil",
+			"ja": "土壌という名の情報の深淵に、峻烈な『柔らかな被覆（mellow）』を授ける。"
+		},
+		"thinking_layer": "柔らかなもの。直射日光や乾燥という名の情報の攻撃を峻烈に遮断し、湿り気という名の情報の静寂を維持するための、情報の緩衝材。それは、大地の情報の『安眠』を護るための毛布。 ",
+		"aftertaste": "覆いの下を覗いた瞬間の、湿り気を帯びた豊饒なる情報の気配への震撼。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"mellow, melt と感覚的に近い。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "pruning",
+		"word": "Pruning",
+		"part_of_speech": "noun",
+		"meaning": "剪定（せんてい）、情報の峻烈なる削ぎ落とし",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "pro-",
+					"type": "prefix",
+					"meaning": "forth, forward"
+				},
+				{
+					"text": "rotundus",
+					"type": "root",
+					"meaning": "round?"
+				}
+			],
+			"original_statement": "From Old French proignier 'to trim'."
+		},
+		"core_concept": {
+			"en": "the act of trimming or cutting away dead or overgrown branches",
+			"ja": "過剰という名の『情報の増殖』を、峻烈な刃で『削ぎ（trim）』落とし、型を産む。"
+		},
+		"thinking_layer": "（鳥が羽を）整えること。放逸な成長という名の『情報の歪み』を峻烈に矯正し、全体の均衡と未来の実りという名の情報の整合性を確保するための、悲劇的なる適正化の儀式。",
+		"aftertaste": "切り落とされた枝の山に、美を産み出すための残酷なまでの知性の決断を視る。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"preen (羽づくろい) とも通じる。情報の整理。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "topiary",
+		"word": "Topiary",
+		"part_of_speech": "noun",
+		"meaning": "トピアリー、情報の幾何学的な封じ込め",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "topiarus",
+					"type": "root",
+					"meaning": "ornamental gardener"
+				}
+			],
+			"original_statement": "From Greek topos 'place'."
+		},
+		"core_concept": {
+			"en": "art of clipping shrubs or trees into ornamental shapes",
+			"ja": "野性という名の情報の場所（place）を、峻烈な情報の『型』で完全に支配する。"
+		},
+		"thinking_layer": "場所の装飾。生命の自発的な成長という名の情報の論理を峻烈に圧殺し、建築物や動物という名の『偽りの情報の形状』を強制的に付与する、人間中心主義的な情報の独善。 ",
+		"aftertaste": "緑の彫刻の中に、沈黙させられた生命の情報の悲鳴を聴くような畏怖。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"topography, topic と同じ topos。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "orchard",
+		"word": "Orchard",
+		"part_of_speech": "noun",
+		"meaning": "果樹園、情報の甘美なる秩序",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "ortus",
+					"type": "root",
+					"meaning": "garden"
+				},
+				{
+					"text": "geard",
+					"type": "root",
+					"meaning": "yard, enclosure"
+				}
+			],
+			"original_statement": "From Old English ortgeard."
+		},
+		"core_concept": {
+			"en": "piece of land planted with fruit trees",
+			"ja": "実り（garden）という名の豊潤な情報を、峻烈な情報の『囲い（yard）』で護持する。"
+		},
+		"thinking_layer": "庭の囲い。野生の森という名の混沌から、人間の甘き欲望に合致する情報の果実のみを選別し、列を成して管理（align）する、情報の甘美なる収容所。 ",
+		"aftertaste": "たわわに実る果実の重みに、自然が情報の『恵み』へと家畜化された瞬間の静寂。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"Latin hortus (garden) + yard。情報の凝縮点。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "vineyard",
+		"word": "Vineyard",
+		"part_of_speech": "noun",
+		"meaning": "ブドウ園、情報の陶酔の源泉",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "vine",
+					"type": "root",
+					"meaning": "vine"
+				},
+				{
+					"text": "yard",
+					"type": "root",
+					"meaning": "enclosure"
+				}
+			],
+			"original_statement": "From vine + yard."
+		},
+		"core_concept": {
+			"en": "plantation of grapevines, typically producing grapes used in winemaking",
+			"ja": "這い回る情報の『生命の糸（vine）』を、峻烈な情報の秩序の中に監禁する。"
+		},
+		"thinking_layer": "ブドウの囲い。ワインという名の情報の『血』を産み出すために、蔓という名の放漫な運動を峻烈に束縛（train）し、土地の記憶を糖分という名の凝縮された情報へと変容させる聖域。",
+		"aftertaste": "整然と並ぶブドウの列に、酒精という名の情報の爆発を待ち構える瞬間の高揚感。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"wine, yard と感覚的に繋がる、神聖な管理。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "understory",
+		"word": "Understory",
+		"part_of_speech": "noun",
+		"meaning": "下層植生、情報の隠された基層",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "under",
+					"type": "root",
+					"meaning": "under"
+				},
+				{
+					"text": "story",
+					"type": "root",
+					"meaning": "floor, layer"
+				}
+			],
+			"original_statement": "From under + story."
+		},
+		"core_concept": {
+			"en": "layer of vegetation beneath the main canopy of a forest",
+			"ja": "巨大な情報の天井（canopy）の『下（under）』で、沈黙を糧にする情報の階層。"
+		},
+		"thinking_layer": "下の階。光という名の情報の支配者が奪い取った後の、微かな残滓（debris）を峻烈に拾い集めて生きる。それは、支配構造という名の森の、裏の情報のドラマ。 ",
+		"aftertaste": "薄暗い緑の中に潜む、陰影という名の情報の豊かな解像度への、知的な陶酔。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"story (物語) ではなく、建物の story (階) からの転用。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "foliage",
+		"word": "Foliage",
+		"part_of_speech": "noun",
+		"meaning": "木の葉、葉群、情報の集積する面",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "folium",
+					"type": "root",
+					"meaning": "leaf"
+				}
+			],
+			"original_statement": "From French feuillage."
+		},
+		"core_concept": {
+			"en": "plant leaves, collectively",
+			"ja": "無数の情報の『紙（leaf）』を、峻烈な情報の『一束』として空へ広げる。"
+		},
+		"thinking_layer": "葉の集まり。個別の葉という名の情報の断片を、一つの巨大な情報の『総体』としての緑の波へと変容させ、光という名の情報の海へと投じる、生命の情報の面。 ",
+		"aftertaste": "風に揺れる無数の重なりに、情報の不確定性と、美の総和を視る。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"folio, portfolio と同じ folium。情報の集積。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "petiole",
+		"word": "Petiole",
+		"part_of_speech": "noun",
+		"meaning": "葉柄（ようへい）、情報の細き架橋",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "peciolus",
+					"type": "root",
+					"meaning": "little foot, stalk"
+				}
+			],
+			"original_statement": "From Latin peciolus."
+		},
+		"core_concept": {
+			"en": "stalk that joins a leaf to a stem",
+			"ja": "葉という名の情報の広場を、茎という名の情報の本道（stem）へと繋ぐ、峻烈なる『小さな足（little foot）』。"
+		},
+		"thinking_layer": "小さな足。本体という名の重厚な情報の秩序に対し、葉という名の遠隔地を峻烈に懸垂（suspend）させ、水と光の情報の往来を峻烈に仲介する、情報の脆弱にして最強の接点。 ",
+		"aftertaste": "細い一本の柄が、巨大な葉の重みに耐えているという、力学的な情報の奇跡への震撼。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ped- (足) と同じ root。情報の『立ち位置』。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "stipule",
+		"word": "Stipule",
+		"part_of_speech": "noun",
+		"meaning": "托葉（たくよう）、情報の基部の控え",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "stipula",
+					"type": "root",
+					"meaning": "straw, stalk"
+				}
+			],
+			"original_statement": "From Latin stipula."
+		},
+		"core_concept": {
+			"en": "small leaflike appendage to a leaf, typically borne in pairs at the base of the leaf stalk",
+			"ja": "情報の主翼（leaf）の根元に控える、峻烈な情報の『小さき藁（straw）』。"
+		},
+		"thinking_layer": "藁（ストロー）。主役という名の情報の背後に潜み、発生の初期において情報の核心を保護し、その役目を終えても密やかに佇む、情報の補助的な一撃。 ",
+		"aftertaste": "見落とされがちな微小な器官に、全体の安全を担保していたという情報の記憶への畏怖。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"stubble? (いや残渣) stipulate (規定する) とは関係なし。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "bract",
+		"word": "Bract",
+		"part_of_speech": "noun",
+		"meaning": "苞（ほう）、情報の演劇的な偽装",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "bractea",
+					"type": "root",
+					"meaning": "thin metal plate, gold leaf"
+				}
+			],
+			"original_statement": "From Latin bractea."
+		},
+		"core_concept": {
+			"en": "modified leaf or scale, typically small, with a flower or flower cluster in its axil",
+			"ja": "花という名の真実を、峻烈な情報の『金箔（gold leaf）』で包み、眩惑する。"
+		},
+		"thinking_layer": "薄い金属板。葉でもなく花でもない情報の『中間地帯』において、色彩という名の情報の誘惑を放つ偽装工作。それは、真理への到達を峻烈に演劇的に演出する。 ",
+		"aftertaste": "花びらだと思っていたものが、実はただの葉の変容であったという、情報の欺瞞への驚き。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ブーゲンビリアなどの鮮やかな色はこれ。情報の仮面。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "sepals",
+		"word": "Sepals",
+		"part_of_speech": "noun",
+		"meaning": "萼片（がくへん）、情報の不滅の護衛",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "sepe",
+					"type": "root",
+					"meaning": "enclosing, cover?"
+				},
+				{
+					"text": "petalon",
+					"type": "root",
+					"meaning": "leaf"
+				}
+			],
+			"original_statement": "Coined in 1790 (se- 'apart' + petalon)."
+		},
+		"core_concept": {
+			"en": "each of the parts of the calyx of a flower, enclosing the petals",
+			"ja": "花という名の甘き情報の、峻烈な情報の『包囲（enclosure）』。"
+		},
+		"thinking_layer": "分かれた葉（あるいは覆い）。蕾という名の情報の可能性の爆発を、開花まで峻烈に守り抜き、美の開陳の後もその足元を支え続ける、緑の情報の兵士たち。 ",
+		"aftertaste": "華やかな花の影で、黙々と構造を支え続けるその無骨なまでの情報の献身への畏怖。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"separate + petal ではないが、語源的には『分かれた被覆』。"
+			]
+		},
+		"date": "20-03-12"
+	},
+	{
+		"id": "petals",
+		"word": "Petals",
+		"part_of_speech": "noun",
+		"meaning": "花弁、花びら、情報の官能的な誘惑",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "petalon",
+					"type": "root",
+					"meaning": "leaf, thin plate"
+				}
+			],
+			"original_statement": "From Greek petalon 'leaf, plate'."
+		},
+		"core_concept": {
+			"en": "each of the segments of the corolla of a flower",
+			"ja": "情報の『平面（plate）』を限界まで薄く、かつ峻烈に『広げ（spread）』、色彩を叫ぶ。"
+		},
+		"thinking_layer": "（薄く）広がったもの。生存の情報を峻烈に無視し、ただ一時の交配という名の『情報の交換』を惹き起すために、無駄という名の極限の美を誇示する、情報の暴力的なまでの誘惑者。",
+		"aftertaste": "散りゆく際の一瞬の輝きに、生命の情報のすべてを賭けているという、凄絶なるまでの覚悟。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"petaloid, petroleum? (いや違う) pet- は広げること。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "stamen",
+		"word": "Stamen",
+		"part_of_speech": "noun",
+		"meaning": "雄しべ、情報の垂直な糸、生命の放射",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "stare",
+					"type": "root",
+					"meaning": "to stand"
+				}
+			],
+			"original_statement": "From Latin stamen 'thread, warp of a fabric'."
+		},
+		"core_concept": {
+			"en": "male fertilizing organ of a flower",
+			"ja": "情報の種子の源を、一本の峻烈な『情報の糸（thread）』として天へ掲げる。"
+		},
+		"thinking_layer": "（縦糸として）立つもの。運命の織物という名の情報を構成する一本の芯となり、他者へと託すための情報の粒子（pollen）をその頂点に戴く、情報の垂直な意志。 ",
+		"aftertaste": "無数に林立するその糸の群れに、生命が放つ不滅の情報のパルスを聴く。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"stamina (持久力) の単数形。情報の持続。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "pistil",
+		"word": "Pistil",
+		"part_of_speech": "noun",
+		"meaning": "雌しべ、情報の静かなる砕石",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "pistillum",
+					"type": "root",
+					"meaning": "pestle"
+				}
+			],
+			"original_statement": "From Latin pistillum 'pestle'."
+		},
+		"core_concept": {
+			"en": "female organs of a flower",
+			"ja": "情報の粒子を受け止め、峻烈な情報の『磨り潰し（pestle）』によって深淵へと導く。"
+		},
+		"thinking_layer": "乳棒。外からの情報の侵入を峻烈に受け止め、自らの深層という名の胚（ovary）へと導くための、情報の受動的な中心。それは、新たな情報を鋳造するための、沈黙の工房。",
+		"aftertaste": "静止したその器官の中に、全未来の情報の設計図が峻烈に待機しているという、静かなる震撼。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"pestle (乳棒) と同根。情報の破砕と融合。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "ovary",
+		"word": "Ovary",
+		"part_of_speech": "noun",
+		"meaning": "子房（しぼう）、卵巣、情報の生命の金庫",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "ovum",
+					"type": "root",
+					"meaning": "egg"
+				}
+			],
+			"original_statement": "From Latin ovarium."
+		},
+		"core_concept": {
+			"en": "hollow base of the carpel of a flower, containing one or more ovules",
+			"ja": "卵（egg）という名の情報の原初のパルスを、峻烈な情報の『壁』で秘匿（occult）する。"
+		},
+		"thinking_layer": "卵の場所。外部のカオスを峻烈に拒絶し、甘美な水の情報の守護の下で、未来という名の宇宙を静かに培養（cultivate）する、情報の最深の聖域。 ",
+		"aftertaste": "膨らむその組織の中に、不滅の時間の連鎖が峻烈に閉じ込められているという畏怖。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"oval, ovule と同じ root。情報の丸き完成形。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "carpel",
+		"word": "Carpel",
+		"part_of_speech": "noun",
+		"meaning": "心皮（しんぴ）、情報の果実の破片",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "karpos",
+					"type": "root",
+					"meaning": "fruit"
+				}
+			],
+			"original_statement": "From Greek karpos."
+		},
+		"core_concept": {
+			"en": "female reproductive organ of a flower, consisting of an ovary, a style, and a stigma",
+			"ja": "未来の情報の『果実（fruit）』を産む、峻烈な情報の『断片（segment）』。"
+		},
+		"thinking_layer": "（摘み取られた）果実。葉という名の情報の平面を、峻烈に巻き込み、折り畳むことで（carp-）、三次元の情報の『器』へと変容させた、情報のトポロジー的転換。",
+		"aftertaste": "葉であったことが信じられぬほどに、生命のゆりかごへと峻烈に変容した不思議。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"pericarp (果皮) と同根。情報を『収穫』する場所。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "anther",
+		"word": "Anther",
+		"part_of_speech": "noun",
+		"meaning": "葯（やく）、情報の花の情報の放出点",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "anthos",
+					"type": "root",
+					"meaning": "flower"
+				}
+			],
+			"original_statement": "From Greek anthos."
+		},
+		"core_concept": {
+			"en": "part of a stamen that contains the pollen",
+			"ja": "花（flower）という名の物語の、情報の極微な『炸裂（bloom）』の拠点。"
+		},
+		"thinking_layer": "花そのもの。花粉という名の極微な情報のコードを、峻烈な気圧の変化や振動によって、世界という名の他者へと解き放つ、情報の最先端の送信塔（transmitter）。 ",
+		"aftertaste": "黄色き粉が放たれた瞬間の、宇宙全体の受粉という名の情報の熱狂の予感。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"anthology (選集/花集め) と同じ root。情報の精粋。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "ovule",
+		"word": "Ovule",
+		"part_of_speech": "noun",
+		"meaning": "胚珠（はいしゅ）、情報の極微な卵",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "ovum",
+					"type": "root",
+					"meaning": "egg"
+				},
+				{
+					"text": "-ule",
+					"type": "suffix",
+					"meaning": "small"
+				}
+			],
+			"original_statement": "Diminutive of Latin ovum."
+		},
+		"core_concept": {
+			"en": "part of the ovary of seed plants that contains the female germ cell",
+			"ja": "情報の卵（egg）を、もっとも『小さき器（small）』として結晶化させたもの。"
+		},
+		"thinking_layer": "小さな卵。種子という名の『情報の記憶装置』の原点。光を遮断した子房（ovary）という名の沈黙の中で、未来の芽吹きを峻烈に夢見る、情報の絶対的な純粋点。",
+		"aftertaste": "目に見えぬ小さな一粒の中に、一本の巨木の情報のすべてが畳み込まれているという驚愕。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ovum, oval と同根。情報の根源。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "pollen",
+		"word": "Pollen",
+		"part_of_speech": "noun",
+		"meaning": "花粉、情報の浮遊する塵、微細な種子",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "pollen",
+					"type": "root",
+					"meaning": "fine flour, mill dust"
+				}
+			],
+			"original_statement": "From Latin pollen."
+		},
+		"core_concept": {
+			"en": "fine powdery substance, typically yellow, consisting of microscopic grains",
+			"ja": "生命の情報を極微な『粉（flour）』へと還元し、風という名のカオスへ託す。"
+		},
+		"thinking_layer": "（製粉の際の）粉。個体という名の牢獄を峻烈に破壊し、粒子という名の情報の『拡散形態（flow）』へと自己を解放する、生命の情報の過激なる通信。 ",
+		"aftertaste": "空を舞う黄色き塵の一片一片が、全宇宙を書き換えようとする情報の意志であるという畏怖。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"powder, pulse? (いや違う) 磨り潰された絶頂の情報。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "bryophyte",
+		"word": "Bryophyte",
+		"part_of_speech": "noun",
+		"meaning": "コケ植物、情報の低きところの住人",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "bruon",
+					"type": "root",
+					"meaning": "moss"
+				},
+				{
+					"text": "phyton",
+					"type": "root",
+					"meaning": "plant"
+				}
+			],
+			"original_statement": "From Greek bruon + phyton."
+		},
+		"core_concept": {
+			"en": "group of non-vascular land plants, comprising the mosses, hornworts, and liverworts",
+			"ja": "維管束という名の『情報の道路』を持たぬまま、湿り気の中に情報の『苔（moss）』として生きる。"
+		},
+		"thinking_layer": "苔の植物。高さという名の情報の『虚栄』を峻烈に捨て、ただ大地の湿り気という名の真理に最も近く這いつくばる、情報のミニマリスト。 ",
+		"aftertaste": "踏みしめた瞬間の、水を孕んだ緑の沈黙に、太古の情報の原風景を視る震撼。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"bru- は湧き出す、膨らむイメージ。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "pteridophyte",
+		"word": "Pteridophyte",
+		"part_of_speech": "noun",
+		"meaning": "シダ植物、情報の翼を持つ石",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "pteris",
+					"type": "root",
+					"meaning": "fern, wing"
+				},
+				{
+					"text": "phyton",
+					"type": "root",
+					"meaning": "plant"
+				}
+			],
+			"original_statement": "From Greek pteris."
+		},
+		"core_concept": {
+			"en": "vascular plant that disperses spores",
+			"ja": "花という名の虚飾を峻烈に拒み、情報の『翼（wing）』で胞子を放つ。"
+		},
+		"thinking_layer": "翼の植物（シダ）。その幾何学的な情報の反復（fractals）の中に、太古の森という名の支配者の記憶を封じ込め、種子という名の情報の『完成』以前の、胞子の情報の『夢』を生きる。",
+		"aftertaste": "裏側に整然と並ぶ胞子嚢の群れに、情報の整然たる狂気の一端を視る。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"pterodactyl (翼竜), helicoptercpter と同じ ptero-。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "angiosperm",
+		"word": "Angiosperm",
+		"part_of_speech": "noun",
+		"meaning": "被子植物、情報の護られた種子",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "angeion",
+					"type": "root",
+					"meaning": "vessel, case"
+				},
+				{
+					"text": "sperma",
+					"type": "root",
+					"meaning": "seed"
+				}
+			],
+			"original_statement": "From Greek angeion + sperma."
+		},
+		"core_concept": {
+			"en": "plant that has flowers and produces seeds enclosed within a carpel",
+			"ja": "生命の種子（seed）を、峻烈な情報の『器（vessel）』の中に封じ込める。"
+		},
+		"thinking_layer": "器の中の種。剥き出しという名の脆弱さを峻烈に克服し、子房という名の情報の『防壁』を手に入れた、進化の情報の覇者。種子を包む果実は、情報の誘惑の甘き罠。 ",
+		"aftertaste": "すべての花と実の背後にある、種子を護り抜こうとする峻烈な情報の意志への震撼。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"sperm, disperse と同じ root。器による情報の防衛。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "gymnosperm",
+		"word": "Gymnosperm",
+		"part_of_speech": "noun",
+		"meaning": "裸子植物、情報の剥き出しの真実",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "gymnos",
+					"type": "root",
+					"meaning": "naked"
+				},
+				{
+					"text": "sperma",
+					"type": "root",
+					"meaning": "seed"
+				}
+			],
+			"original_statement": "From Greek gymnos + sperma."
+		},
+		"core_concept": {
+			"en": "plant that has seeds unprotected by an ovary or fruit",
+			"ja": "情報の『器』を持たぬまま、種子（seed）を峻烈に『剥き出し（naked）』で曝す。"
+		},
+		"thinking_layer": "裸の種。果実という名の情報の甘美な欺瞞を峻烈に軽蔑し、鱗片という名の情報の鎧（cone）の隙間から、冷徹なる真実としての種子を直接放つ、古き情報の武人。",
+		"aftertaste": "剥き出しであるがゆえの、その情報の厳格さと、原始的なる強靭さへの畏怖。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"gymnasium (裸で運動する場所) と同じ gymnos。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "monocot",
+		"word": "Monocot",
+		"part_of_speech": "noun",
+		"meaning": "単子葉植物、情報の単一の始まり",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "monos",
+					"type": "root",
+					"meaning": "alone, single"
+				},
+				{
+					"text": "cotyledon",
+					"type": "root",
+					"meaning": "seed leaf"
+				}
+			],
+			"original_statement": "Short for monocotyledon."
+		},
+		"core_concept": {
+			"en": "flowering plant with an embryo that bears a single cotyledon",
+			"ja": "ただ一本の情報の『最初の一葉』をもって、世界への侵攻を開始する。"
+		},
+		"thinking_layer": "唯一の子葉。分岐という名のカオスを峻烈に遅らせ、ただ単一の情報のベクトルとして天へと駆け上がる（平行脈）。それは、情報のミニマリズムが産み出した、洗練。 ",
+		"aftertaste": "草原を埋め尽くす風のような情報の、同一性と強さへの震撼。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"monopoly, monocle と同じ monos。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "dicot",
+		"word": "Dicot",
+		"part_of_speech": "noun",
+		"meaning": "双子葉植物、情報の対称的な目覚め",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "di-",
+					"type": "prefix",
+					"meaning": "two"
+				},
+				{
+					"text": "cotyledon",
+					"type": "root",
+					"meaning": "seed leaf"
+				}
+			],
+			"original_statement": "Short for dicotyledon."
+		},
+		"core_concept": {
+			"en": "flowering plant with an embryo that bears two cotyledons",
+			"ja": "『二つ（two）』の情報の対称性（symmetry）をもって、世界を峻烈に把握する。"
+		},
+		"thinking_layer": "二つの子葉。初手から情報の『分岐』を選択し、網目状の情報の脈（netted veins）を広げることで、複雑怪奇なる現実を多角的に情報の面として捕捉する、情報の多元主義。 ",
+		"aftertaste": "開かれた二つの葉が、世界を両手で受け止めようとする、生命の情報の意気込み。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"dialogue, dioxide と同じ di-。"
+			]
+		},
+		"date": "20-03-12"
+	},
+	{
+		"id": "cotyledon",
+		"word": "Cotyledon",
+		"part_of_speech": "noun",
+		"meaning": "子葉、情報の原初の器",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "kotyle",
+					"type": "root",
+					"meaning": "cup, hollow"
+				}
+			],
+			"original_statement": "From Greek kotyle."
+		},
+		"core_concept": {
+			"en": "an embryonic leaf in seed-bearing plants",
+			"ja": "種子という名の情報の闇を満たしていた、情報の『器（cup）』の記憶。"
+		},
+		"thinking_layer": "カップ、あるいは凹み。母体という名の情報の慈悲を、その肉体の中に峻烈に貯蔵し、最初の一歩という名の自立のためにすべてを捧げる、情報の自己犠牲的な最初の翼。 ",
+		"aftertaste": "最初の葉に刻まれた、種子の内側にいた頃の情報の円環の記憶への、静かなる溜息。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"cotyle (カップ) から。胚の情報の器。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "epiphyte",
+		"word": "Epiphyte",
+		"part_of_speech": "noun",
+		"meaning": "着生植物、情報の高みの居候",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "epi-",
+					"type": "prefix",
+					"meaning": "upon"
+				},
+				{
+					"text": "phyton",
+					"type": "root",
+					"meaning": "plant"
+				}
+			],
+			"original_statement": "From Greek epi + phyton."
+		},
+		"core_concept": {
+			"en": "plant that grows on another plant but is not parasitic",
+			"ja": "他者の情報の『上（upon）』で、誇り高き独立を峻烈に維持する。"
+		},
+		"thinking_layer": "上の植物。寄生（parasite）という名の搾取を峻烈に恥じ、ただ物理的な『高さ』という名の情報のプラットフォーム（platform）のみを借り、空から情報の塵を直接汲み取って生きる、情報の孤高なる隠者。",
+		"aftertaste": "天に浮かぶように咲くその姿に、執着の無さと、真の情報の自立を視る震撼。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"epidermis, epicenter と同じ epi-。"
+			]
+		},
+		"date": "20-03-12"
+	},
+	{
+		"id": "saprophyte",
+		"word": "Saprophyte",
+		"part_of_speech": "noun",
+		"meaning": "腐生植物、情報の死を喰らう者",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "sapros",
+					"type": "root",
+					"meaning": "rotten"
+				},
+				{
+					"text": "phyton",
+					"type": "root",
+					"meaning": "plant"
+				}
+			],
+			"original_statement": "From Greek sapros + phyton."
+		},
+		"core_concept": {
+			"en": "plant, fungus, or microorganism that lives on dead or decaying organic matter",
+			"ja": "死という名の情報の『腐朽（rotten）』を、峻烈な情報の『糧』へと反転させる。"
+		},
+		"thinking_layer": "腐ったものの植物。光合成という名の情報の『生産』を峻烈に放棄し、世界が一度は捨てたはずの情報の残滓（debris）を、分解という名の沈黙の中で再利用する、情報の墓場の管理人。",
+		"aftertaste": "暗き森の底で白く浮かび上がるその姿に、終わりなき生命の情報の『最後の一瞥』を視る。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"saprobic, saprolite と同根。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
