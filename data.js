@@ -265051,5 +265051,195 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "fugacious",
+		"word": "Fugacious",
+		"part_of_speech": "adjective",
+		"meaning": "逃げやすい、儚い（はかない）、（植物）早落性の",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "fugere",
+					"type": "root",
+					"meaning": "to flee (逃げる)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin fugax, from fugere 'flee'."
+		},
+		"core_concept": {
+			"en": "Tending to disappear; fleeting",
+			"ja": "捕まえようとした瞬間に、指の間をすり抜けて『逃げ去って（flee）』しまう、儚（はかな）い美しさ。一瞬の輝きのあとに、跡形もなく消え去る運命"
+		},
+		"thinking_layer": "『逃げやすい』。フュージティブ（Fugitive/逃亡者）、リフュージ（Refuge/避難所＝逃げ込む先）、フィギュラ（Figure/おそらくな）とは関係なく。語源は「逃げる」。ただの「短い（short）」ではありません。そこに「自ら静かに立ち去る」という、どこか潔く、冷淡なニュアンスが含まれます。手に入れたと思った瞬間に失われる、完璧な幸福やアイディアのメタファー。 ",
+		"aftertaste": "朝露に濡れた花びらが、陽光を浴びて「逃げ去るように（fugacious move）」地上に落ちるのを見つめ、美しさの本質とは「所有（possession）」ではなく「通過（passage）」にあるのだと悟る、あの知的な寂しさ。あるいは、自分の若さや情熱もまた、この「フュガシャス（fugacious）」な風のように、気づかぬうちに自分を置き去りにしてゆくのだという、冷ややかな諦念。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "bheug-",
+					"meaning": "to flee (forming fugere)"
+				}
+			],
+			"points": [
+				"fugitive, refuge, centrifuge, subterfuge 同根。",
+				"『逃げる（fleeing）』という行為は、現状の否定（negation）であると同時に、新しい場所への渇望（longing）でもある。フュガシャス（fugacious）な美しさは、私たちがその場に安住することを許さない。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "caducous",
+		"word": "Caducous",
+		"part_of_speech": "adjective",
+		"meaning": "（植物）早落性の、落ちやすい、儚い、てんかんの（古語）",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "cadere",
+					"type": "root",
+					"meaning": "to fall (落ちる)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin caducus, from cadere 'fall'."
+		},
+		"core_concept": {
+			"en": "(of an organ or part, e.g. a sepal) easily detached and shedding early",
+			"ja": "生命のサイクル（cycle）において、自らの役割を終えた瞬間に、未練なく『脱落（falling）』してゆく在り方。成長のために不要となったものを、潔く過去へと置き去りにする、静かな断絶"
+		},
+		"thinking_layer": "『落ちやすい』。カジュアル（Casual/思いがけず落ちてくる）、ケース（Case/落ちてきた事象）、デカダンス（Decadence/衰退＝落ちてゆくこと）と同根。語源は「落ちる」。花のガク（sepals）などが、開花と同時に落ちる様子。それは。次なる段階へと進むために、あえて「形（form）」を捨てるという、進化（evolution）の峻烈な決断。知性の「脱皮（shedding）」。",
+		"aftertaste": "新緑の季節、芽吹いたばかりの葉を守っていた「早落性の（caducous）」鱗片（scales）が静かに地面を覆うのを眺め、自分の古い信念もまた、このように「カドゥカス（caducous）」に剥がれ落ちて（shedding off）ゆくべきなのだと悟る、あの清々しい解放感。あるいは、自分の言葉が、誰かの心に一度だけ火を灯し、その瞬間に忘れ去られる「カドゥカス（caducous）」な運命（fate）であってほしいと願う、あの潔い自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kad-",
+					"meaning": "to fall (forming cadere)"
+				}
+			],
+			"points": [
+				"cadence, case, casual, accident, decay, deciduous 同根。",
+				"『落ちる（falling）』ことは重力への屈服だが、カドゥカス（caducous）な飛翔（？）は、自らの『使命』を完璧に果たしたという達成の後の、最も優雅な幕引きである。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "errant",
+		"word": "Errant",
+		"part_of_speech": "adjective",
+		"meaning": "さまよう、遍歴する、誤った、常道から外れた",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "errāre",
+					"type": "root",
+					"meaning": "to stray, wander (迷う、さまよう)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Old French errant 'travelling', from errer 'to travel' (from Latin iterare) and 'to stray' (from Latin errare)."
+		},
+		"core_concept": {
+			"en": "Erring or straying from the proper course or standards; traveling in search of adventure (as in knight-errant)",
+			"ja": "定められた正道（proper course）を外れ、未知なる冒険や過ち（error）を求めて『彷徨（wandering）』し続ける在り方。秩序を攪乱しつつ、新しい真理を模索する、危うくも高潔な放浪"
+		},
+		"thinking_layer": "『さまようこと』。エラー（Error/間違い＝さまようこと）、エラティック（Erratic/不安定な）、イティネラリー（Itinerary/旅程＝おそらくな）と同根。語源は「迷う」。ただの「旅行（travel）」ではありません。そこには「騎士道（chivalry）」のような高貴な目的と、常に「間違い（sin）」を犯す可能性が共存しています。それは。自分の理性が、教科書通りの正解を捨てて、自らの足で歩き出した瞬間の、不確定（uncertain）な自由。",
+		"aftertaste": "一人の「遍歴の騎士（knight-errant）」のように、夜の街をあてもなく彷徨い、誰も知らない「偶然の真実（accidental truth）」に出会おうとする、あの知的な野蛮さと高揚。あるいは、自分の人生が、ただ一つの目標（goal）に向かう直線ではなく、無数の「寄り道（errant paths）」の集積としてこの上なく豊かなものになったのだと確信する、あの静かな午後の自己肯定。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ers-",
+					"meaning": "to wander, be in motion (forming errare)"
+				}
+			],
+			"points": [
+				"error, aberration, erratic 同根。",
+				"『迷う（wandering）』ことは知性の『不全』ではなく、既存の地図（map）を疑い、自らの境界（boundary）を拡張（extending）するための、最も贅沢で危険な『実践（praxis）』である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "vagrant",
+		"word": "Vagrant",
+		"part_of_speech": "noun/adjective",
+		"meaning": "放浪者、浮浪者、さまよえる、不安定な",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "vagari",
+					"type": "root",
+					"meaning": "to wander (さまよう)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "Probably from Old French vagarant, from vagrer 'wander around', from Latin vagari."
+		},
+		"core_concept": {
+			"en": "A person without a settled home or regular work who wanders from place to place and lives by begging; wandering",
+			"ja": "定住すべき『家（home）』を持たず、風の吹くままに大地を『彷徨（wandering）』し、偶然の恵みによって生き永らえる者。社会の枠組み（framework）を拒絶し、絶対的な軽やかさを手に入れた、魂の野良犬"
+		},
+		"thinking_layer": "『さまようもの』。ベイグ（Vague/曖昧な＝さまよっている）、バガボンド（Vagabond/放浪者）、エヴァガト（Evagate/さまよい出る）と同根。語源は「さまよう」。ただの「放浪」ではありません。そこには「帰るべき場所がない」という根源的な孤独が含まれます。それは、固定された定義を拒み、常に「流動的（fluid）」であり続けようとする知性の、峻烈で危うい在り方。 ",
+		"aftertaste": "「放浪者（vagrant）」の自由な瞳と、その影にある「明日の保証がない」という冷酷な現実（reality）を同時に見つめ、自分が守っている「安定」という名の檻がいかに不自由であるかを痛感する、あの知的な目覚め（awakening）。あるいは、自分の思考が、どの学説（theory）にも定住できずにこの「ヴェイグラント（vagrant）」な漂流を続けていることに、ある種のエロティックな悦びを感じる、あの震える夜。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "wag-",
+					"meaning": "to be bent? (uncertain root for vagus/wandering)"
+				}
+			],
+			"points": [
+				"vague, vagary, vagabond 同根。",
+				"『彷徨う（wandering）』ことは、空間の移動（movement）ではなく、社会的な役割（identity）からの『脱走』である。ヴェイグラント（vagrant）という言葉には、その脱走に伴う『恥（shame）』と『誇り（pride）』が奇妙に混ざり合っている。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "wayfaring",
+		"word": "Wayfaring",
+		"part_of_speech": "noun/adjective",
+		"meaning": "（特に徒歩での）旅、旅行者、道中",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "way",
+					"type": "root",
+					"meaning": "path (道)",
+					"lang": "English"
+				},
+				{
+					"text": "faring",
+					"type": "root",
+					"meaning": "travelling, going (行くこと、歩むこと)",
+					"lang": "English"
+				}
+			],
+			"original_statement": "From Middle English wayfaring, from way + faring (present participle of fare/go)."
+		},
+		"core_concept": {
+			"en": "(of a person) travelling on foot",
+			"ja": "自らの足で一歩ずつ『道（way）』を刻み、大地の感触を確かめながら『歩む（faring）』、愚直で誠実な旅の在り方。効率（efficiency）を捨て、移動そのものを祈り（prayer）へと変える、身体的な哲学"
+		},
+		"thinking_layer": "『道を行くこと』。フェアウェル（Farewell/さらば＝健やかに行け）、ウェルフェア（Welfare/福利＝よく行くこと）、ウォーリアー（Warrior/おそらくな）とは関係なく。語源は「道を行く」。ただの「移動」ではありません。一歩一歩の苦しみと喜び（joy and pain）を味わい尽くす、長い巡礼（pilgrimage）。それは、安易な結論へと跳躍（leap）することを拒み、プロセスそのものを自分の血肉に変えてゆく、知性の粘り強い歩行（pacing）。",
+		"aftertaste": "泥にまみれた靴を見つめながら、この「旅路（wayfaring）」の果てに何があるのかを知ることよりも、今ここで「歩いている」という事実そのものが自分を救っているのだと悟る、あの静かな納得。あるいは、自分の言葉が、見知らぬ誰かの旅路（wayfaring paths）に寄り添う、小さな灯火（lamplight）のような存在であってほしいと願う、あの謙虚で壮大な利他主義（altruism）。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "wegh-",
+					"meaning": "to go, transport (forming way)"
+				},
+				{
+					"term": "per-",
+					"meaning": "to lead, pass over (forming fare)"
+				}
+			],
+			"points": [
+				"way, wagon, weight, fare, ferry, portal, experience 同根。",
+				"『道（way）』とは与えられるものではなく、『行く（fare）』という行為によって初めて立ち現れるものである。ウェイフェアリング（wayfaring）な生とは、自らの足跡を唯一の真理として刻み続ける、孤独な創作活動である。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
