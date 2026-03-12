@@ -257076,5 +257076,86 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "tomb",
+		"word": "Tomb",
+		"part_of_speech": "noun",
+		"meaning": "墓、墓穴、埋葬所",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "tumbos",
+					"type": "root",
+					"meaning": "mound, burial place (盛り土、埋葬所)",
+					"lang": "Greek"
+				}
+			],
+			"original_statement": "From Greek tumbos."
+		},
+		"core_concept": {
+			"en": "A large vault, typically an underground one, for burying the dead",
+			"ja": "生者が踏み入ることのできない、死者のための永久の住処。大地の一部を『盛り上げ（mound）』、歴史の連続性からその空間を『封印』することで、その存在を永遠の物語へと昇華させる石の装置"
+		},
+		"thinking_layer": "『盛り土』。テュムラス（Tumulus/古墳）やテュモア（Tumor/腫瘍＝盛り上がったもの）とおそらく共通の「盛り上がり」という概念。ただの「穴」ではなく、そこに「記念碑（Monument）」としての質量があること。それは肉体が再び土へと還る場所であり、同時に、名前が石へと刻まれて「社会的生命」が固定される場所。 ",
+		"aftertaste": "冷たい石の壁に囲まれた、完全な暗闇と静寂が支配する「墓所（tomb）」の中で、自分の心臓の音だけが不自然なほど大きく聞こえる、あの生と死の境界線に触れたような戦慄。あるいは、自分の部屋がいつの間にか、過去の思い出（がらくた）で埋め尽くされた「生きながらの墓」になっていると気づいた時の、息苦しい愛着。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "teu-",
+					"meaning": "to swell"
+				}
+			],
+			"points": [
+				"tumor, tumulus, thumb, total 同根。",
+				"『死（death）』を受け入れるために、人間は大地に『膨らみ（swell）』を付け加え、そこを忘れられない『点（point）』へと変容させる。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "epitaph",
+		"word": "Epitaph",
+		"part_of_speech": "noun",
+		"meaning": "墓碑銘、碑文、～の最後を飾る言葉",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "epi-",
+					"type": "prefix",
+					"meaning": "upon (〜の上に)"
+				},
+				{
+					"text": "taphos",
+					"type": "root",
+					"meaning": "tomb (墓)",
+					"lang": "Greek"
+				}
+			],
+			"original_statement": "From Greek epitaphion, from epi- 'upon' + taphos 'tomb'."
+		},
+		"core_concept": {
+			"en": "A phrase or form of words written in memory of a person who has died, especially as an inscription on a tombstone",
+			"ja": "死者が沈黙を守る『墓の上に（upon tomb）』、生者が刻み込む最後の一行。その人の一生を、たった一つのエッセンスとして抽出（distill）し、永遠の石へと託した、言葉による『最後の贈り物』"
+		},
+		"thinking_layer": "『墓の上の言葉』。エピローグ（Epilogue/後の言葉）や、テセウス（Theseus/置く者）とおそらく共通の taphos（置かれたもの＝墓）。雄弁な一人の人間を、たった数文字の「記号」へと圧縮（Compress）すること。それは残酷な「要約」であると同時に、その人の存在を歴史という名の「本棚」に背表紙をつけて収納する、慈しみ深い儀式。",
+		"aftertaste": "他人の墓碑銘を読み歩き、そこに書かれた「ここでは彼は安らかに眠る」というありふれた一行に、その人の波乱万丈だったかもしれない人生を重ね合わせて涙する、あの言葉の持つ「省略」の美しさ。あるいは、いつか自分の墓に刻まれるべき「最後の一言」を、誰にも知られずに推敲（すいこう）している時の、あの身を切るような自意識の純化。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "epi-",
+					"meaning": "above"
+				},
+				{
+					"term": "dhembh-",
+					"meaning": "to bury"
+				}
+			],
+			"points": [
+				"epitaph, cenotaph, epithet（形容語句＝上に置かれたもの）と同根。",
+				"『言葉（word）』を『石（stone）』に刻みつけることは、移ろいやすい『感情（emotion）』を不変の『事実（fact）』へと結晶化させる、人類最古のタイムカプセルである。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
