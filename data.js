@@ -251397,5 +251397,123 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "bulwark",
+		"word": "Bulwark",
+		"part_of_speech": "noun",
+		"meaning": "防波堤、擁壁、防衛手段",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "bole",
+					"type": "root",
+					"meaning": "tree trunk (木の幹)",
+					"lang": "Germanic"
+				},
+				{
+					"text": "werk",
+					"type": "root",
+					"meaning": "work (建築、仕事)"
+				}
+			],
+			"original_statement": "From Middle High German bolwerc, from bole 'plank' + werc 'work'."
+		},
+		"core_concept": {
+			"en": "A defensive wall; a person, institution, or principle that acts as a protection",
+			"ja": "太い木（plank）を組み上げて作られた堅牢な『防壁（work）』。荒波や外敵から自分たちの領土や価値を死守するための、最後の、そして最も信頼できる防衛線"
+		},
+		"thinking_layer": "『丸太で作られた建築物』。大理石の華やかさはないが、実利的な強さを持つ。自分が最も大切にしている信念、あるいは自分を守ってくれる社会の仕組み。それが崩れることは、世界の崩壊を意味するという切迫感。",
+		"aftertaste": "逆巻く波に打たれながらも、びくともしない巨大な堤。あるいは、不正に立ち向かう、法という名の絶対的な楯。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "bhel-",
+					"meaning": "to puff, swell (trunk)"
+				}
+			],
+			"points": [
+				"bole, boulder（巨石）と同根。",
+				"『太いもの』が、究極の『防御』になる。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "hinterland",
+		"word": "Hinterland",
+		"part_of_speech": "noun",
+		"meaning": "後背地、内陸部、未知の領域",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "hinter",
+					"type": "root",
+					"meaning": "behind (後ろの)",
+					"lang": "German"
+				},
+				{
+					"text": "land",
+					"type": "root",
+					"meaning": "land (土地)"
+				}
+			],
+			"original_statement": "From German Hinterland, from hinter 'behind' + Land 'land'."
+		},
+		"core_concept": {
+			"en": "The often uncharted areas beyond a coastal district or a river's banks; the remote areas of a country away from the coast or the main cities",
+			"ja": "華やかな港町や都市の『背後（behind）』に広がる、地図にも載っていない広大な『未開の地』。表面的な文明の下に隠された、野生的な深層"
+		},
+		"thinking_layer": "『後ろの土地』。マテリアルな世界の背後に控える、膨大な無意識の領域。私たちの脳が言語で処理している領域を港町とするなら、言葉にならない衝動や記憶は、すべてこの「ヒンターランド」に眠っています。",
+		"aftertaste": "暗い森の奥から聞こえてくる、得体の知れない遠吠え。あるいは、自分でも知らなかった自分の「冷酷さ」や「情熱」に触れた時の、震えるような発見。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"hind（後ろの）, behindと同根。",
+				"『見えているもの』を支える、『見えない広がり』への敬意。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "periphery",
+		"word": "Periphery",
+		"part_of_speech": "noun",
+		"meaning": "周辺、周囲、境界線、末梢",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "peri-",
+					"type": "prefix",
+					"meaning": "around (周りを)"
+				},
+				{
+					"text": "pherein",
+					"type": "root",
+					"meaning": "to carry (運ぶ)",
+					"lang": "Greek"
+				}
+			],
+			"original_statement": "From Greek periphereia, from peri- 'around' + pherein 'to carry'."
+		},
+		"core_concept": {
+			"en": "The outer limits or edge of an area or object; a marginal or secondary position in a group, subject, or sphere of activity",
+			"ja": "中心から最も遠い、しかし全体を定義するために『周りをぐるりと（around）』回って『運ばれた（carry）』最終的な境界線。価値の端っこ"
+		},
+		"thinking_layer": "『周りを運ぶこと』。中心には光がありますが、周辺には影が濃い。しかし中心を動かしているのは、実はこの周辺のダイナミズムであることも多い。主流から外れた場所にある、自由で危うい可能性の領土。 ",
+		"aftertaste": "街の灯りが消えかかる、国道沿いの寂しい風景。あるいは、組織の中で誰からも注目されないが、淡々と世界を支えている「末端」の尊さ。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "bher-",
+					"meaning": "to carry"
+				}
+			],
+			"points": [
+				"bear, fertile（多産な＝たくさん運ぶ）, translationと同根。",
+				"境界線は、単なる終わりではなく、情報を外部へと『運ぶ（carry）』ためのインターフェースである。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
