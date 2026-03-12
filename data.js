@@ -267643,5 +267643,203 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "nunatak",
+		"word": "Nunatak",
+		"part_of_speech": "noun",
+		"meaning": "ヌナタク、氷河から突き出た山頂、氷島",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "nuna",
+					"type": "root",
+					"meaning": "land (土地)",
+					"lang": "Inuktitut"
+				},
+				{
+					"text": "taq",
+					"type": "root",
+					"meaning": "it (それ？、あるいは接尾辞)",
+					"lang": "Inuktitut"
+				}
+			],
+			"original_statement": "From Inuktitut nunataq, from nuna 'land'."
+		},
+		"core_concept": {
+			"en": "An isolated peak of rock projecting above a surface of inland ice or snow",
+			"ja": "果てしなく続く氷河（glacier）の海の中で、唯一『大地（land）』であることを主張して突き上げる孤高の岩峰。白い静寂に抗（あらが）い、自らの黒い沈黙を貫き通す、不屈の精神の避難所"
+		},
+		"thinking_layer": "『土地の欠片』。イヌイットの言葉由来。おなじみの「ヌナ（土地）」と同根。語源は「土地」。ただの「山頂」ではありません。そこには。周囲がすべて氷。という圧倒的な疎外（alienation）の中で、かろうじて保たれた「実体」という響きが宿っています。それは。流行や時代の流れに飲み込まれることなく、自らの「核（core）」を守り続ける知性のメタファー。",
+		"aftertaste": "見渡す限りの氷の平原に聳（そび）え立つ一本の「ヌナタク（nunatak）」をヘリから見下ろした瞬間の、その救いのない「孤独（solitude）」と、同時に「誰にも汚されない純粋さ」を感じて息を呑む、あの峻烈な一瞬。あるいは、自分の思考がこの「氷島（nunatak）」のように、あまりにも高い場所にありすぎて、もはや誰とも分かち合えない（unshareable）のではないかと不安になる、あの静かな午後の憂鬱。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ヌナタク（nunatak）は、氷河期において生命の『避難所（refugium）』として機能した。周囲が絶滅の凍土となっても、その岩肌だけは太陽の熱を蓄え、微かな地衣類（lichen）を育み続けたのである。",
+				"『土地（nuna）』とは、イヌイットにとって呼吸と同義である。氷の上ではなく、土の上に立つこと。その切実なアイデンティティが、この言葉を支えている。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "bergschrund",
+		"word": "Bergschrund",
+		"part_of_speech": "noun",
+		"meaning": "ベルクシュルント、氷河後縁の割れ目",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "Berg",
+					"type": "root",
+					"meaning": "mountain (山)",
+					"lang": "German"
+				},
+				{
+					"text": "Schrund",
+					"type": "root",
+					"meaning": "cleft, crack (割れ目)",
+					"lang": "German"
+				}
+			],
+			"original_statement": "From German Bergschrund, from Berg 'mountain' + Schrund 'cleft'."
+		},
+		"core_concept": {
+			"en": "A crevasse at the upper end of a glacier, formed where the moving ice separates from the relatively stagnant ice or rock above",
+			"ja": "動き出す氷河と、動かざる山の岩肌。その『決別（separation）』の瞬間に生まれる、深くて暗い大地の『亀裂』。静止と流動が激しく擦れ合い、生じた埋められない溝"
+		},
+		"thinking_layer": "『山の割れ目』。バーグ（Berg/山）、氷山の「バーグ」と同根。語源は「山の裂け目」。ただの「クレバス（crevasse）」ではありません。それは。起源（山）から離れて、自らの旅路（氷河の流れ）へと踏み出す際の、痛みを伴う「切断（severance）」。知性が既成概念（stagnant rock）から決別し、未知の領域へと滑り出す際の、峻烈な分水嶺（watershed）。",
+		"aftertaste": "巨大な氷の壁と岩の間に口を開けた「ベルクシュルント（bergschrund）」の青黒い深淵（abyss）を覗き込み、そこに吸い込まれるような恐怖と共に、自分が今「新しい段階」へと踏み出しつつあることを悟る、あの知的な戦慄。あるいは、自分の言葉が、相手との間にこの「裂け目（schrund）」を作ってしまったのではないかと後悔しつつ、その絶望的な距離こそが「個の尊重」なのだと自分を説得する、あの深夜の諦念。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "bhergh-",
+					"meaning": "high (forming Berg)"
+				}
+			],
+			"points": [
+				"berg, iceberg, barrow, borough 同根。",
+				"『裂ける（schrinding）』ことは、本来は崩壊を意味するが、登山においては、それは『越えるべき最初の関門』である。ベルクシュルント（bergschrund）は、安泰な過去を捨てて苦難の未来へと向かうための、儀式的な門（gate）である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "firn",
+		"word": "Firn",
+		"part_of_speech": "noun",
+		"meaning": "フィルン、万年雪、粒雪（つぶゆき）",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "firn",
+					"type": "root",
+					"meaning": "old (古い)', from Swiss German"
+				},
+				{
+					"text": "fern",
+					"type": "root",
+					"meaning": "distant, former (遠い、かつての)",
+					"lang": "German"
+				}
+			],
+			"original_statement": "From Swiss German firn 'last year's (snow)', from Old High German firni 'old'."
+		},
+		"core_concept": {
+			"en": "Granular snow that has been partially compacted by thawing and freezing and is on its way to becoming glacier ice",
+			"ja": "昨年の記憶を抱いたまま、溶けては固まり、再び溶けては固まりを繰り返した『古い雪』。軽やかな『白』を捨て、重厚な『氷』へと変質してゆく途上の、無機質な時間の結晶"
+		},
+		"thinking_layer": "『古いこと』。おなじみの「フォア（Fore/前に）」、「ファー（Far/遠くに）」と同根の説あり。語源は「昨年の」。ただの「雪（snow）」ではありません。それは。重圧（pressure）を受け、空気を吐き出し、自らを極限まで「凝縮（concentrate）」させようとする、知性のストイックな成熟。若く軽薄な理想が、冷酷な現実へと結晶化してゆくプロセスのメタファー。",
+		"aftertaste": "ザクザクとした「フィルン（firn）」の上を一歩一歩踏み締め、その「古さ（firni）」が放つ微かな青白い輝きに、一朝一夕には辿り着けない「時間の尊厳」を感じて、襟を正す（straightening one's posture）、あの知的な畏怖。あるいは、自分の思考が、この「粒雪（firn）」のように硬く、柔軟性を失い始めているのではないかと危惧しつつ、その「重み（weight）」こそが自分の武器なのだと信じる、あの静かな午後の自負。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "per-",
+					"meaning": "before, forward (forming firni)"
+				}
+			],
+			"points": [
+				"former, prior, primary 同根の説あり。",
+				"『古い（old）』ことは、単なる劣化ではなく、本質だけが残留（remnance）することである。フィルン（firn）は、大地が一年という時間をかけて、自らの中の『余分な空気』を押し出した結果としての、美しい誠実さの象徴である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "ogive",
+		"word": "Ogive",
+		"part_of_speech": "noun",
+		"meaning": "オジーブ、尖頭（せんとう）の形、波状の曲線、（氷河の）しま模様",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "augere",
+					"type": "root",
+					"meaning": "to increase, strengthen (増やす、強める)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "Origin uncertain; possibly from Latin augere 'increase, support'."
+		},
+		"core_concept": {
+			"en": "A pointed or Gothic arch; a curved pattern or line, especially one of the arc-shaped bands on a glacier",
+			"ja": "氷河の表面を流れる、巨大な『弓なりの曲線』。季節ごとに異なる速度で流れる氷が、時間の経過とともに自らを描き出した、雄弁な『流動のダイアグラム』"
+		},
+		"thinking_layer": "『追加し、強めるもの』。オーギュメント（Argument/議論、増加）、オーサー（Author/増やす人＝作者）、おなじみ「ゴシック建築のオジーヴ」と同根。語源は「支えるリブ」。ただの「模様（pattern）」ではありません。それは。巨大な力が、自らの移動の痕跡を、幾何学的な「美（beauty）」へと昇華させたもの。知性が歴史という流れの中で、自発的に生み出してしまう、必然的な曲線（inevitable curve）。",
+		"aftertaste": "空から見た氷河の「オジーブ（ogive）」の、あの催眠術的な美しさに目を奪われ、自然界がいかにして「偶然」から「完璧な秩序」を導き出しているのかに圧倒される、あの知的な眩暈（dizziness）。あるいは、自分の人生の軌跡もまた、遠くから見ればこのような美しい「オジーブ（ogive）」として結実しているのだと信じて、今の迷いを肯定する、あの静かな夜の安堵。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "aug-",
+					"meaning": "to increase (forming augere)"
+				}
+			],
+			"points": [
+				"augment, auxiliary, auction, autumn（収穫の時期＝増える時期） 同根。",
+				"『増やす（increasing）』ことは構造を強化することにつながる。オジーブ（ogive）という形状は、物理的な力がいかにして、自らを支えるための最も効率的で『美しい力線の交差』へと至るかを示す、数学的な詩である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "moulin",
+		"word": "Moulin",
+		"part_of_speech": "noun",
+		"meaning": "ムーラン、氷河の丸穴、氷河甌穴（おうけつ）",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "moulin",
+					"type": "root",
+					"meaning": "mill (水車小屋、製粉機)",
+					"lang": "French"
+				},
+				{
+					"text": "molere",
+					"type": "root",
+					"meaning": "to grind (挽く)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From French moulin 'mill'."
+		},
+		"core_concept": {
+			"en": "A deep vertical shaft or hole in a glacier, worn by cascading meltwater",
+			"ja": "氷河の深部へと真っ直ぐに落ちる、滑らかで不気味な『水の垂直路』。表面の平穏を裏切り、その冷たい暗闇へとすべてを飲み込む、氷の『ミル（mill）』"
+		},
+		"thinking_layer": "『水車小屋』。おなじみの「ムーラン・ルージュ（赤い風車）」、ミール（Meal/挽いた粉＝食事）と同根。語源は「粉を挽く」。ただの「穴」ではありません。そこには。「水が氷を削り、粉砕し、飲み込んでゆく」という、ダイナミックな「製粉（milling）」のメタファーが宿っています。それは。知性が自らの内側に穿（うが）った、深層心理への「直通電話」。 ",
+		"aftertaste": "真っ青な氷の中に開いた「ムーラン（moulin）」の吸い込まれるような入り口から響いてくる、轟々（ごうごう）という水の音に、自分を形作っている「理性」がいかに危ういバランスの上に成り立っているかを痛感し、戦慄する、あの峻烈な一瞬。あるいは、自分の言葉が、この「ムーラン（moulin）」の水の流れのように、相手の心の最も深い場所まで、ためらうことなく到達することを願う、あの静かな午後の祈り。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "mele-",
+					"meaning": "to crush, grind (forming molere)"
+				}
+			],
+			"points": [
+				"mill, molar（臼歯）, molecule（小さな塊） 同根。",
+				"『挽く（grinding）』という行為は、大きなものを砕いて『本質（essence）』へと変容させることである。氷河のムーラン（moulin）は、水という柔らかな力が、氷という硬質な意志をいかにして彫刻（sculpting）し、自らの道を作ってゆくかを示す、地球の力学的な格闘の跡である。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
