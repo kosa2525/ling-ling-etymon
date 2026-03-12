@@ -271010,5 +271010,193 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "amphora",
+		"word": "Amphora",
+		"part_of_speech": "noun",
+		"meaning": "アンフォラ、両手付きの壺",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "amphi-",
+					"type": "prefix",
+					"meaning": "on both sides (両側に)"
+				},
+				{
+					"text": "phoreus",
+					"type": "root",
+					"meaning": "bearer (運ぶもの)', from Greek pherein 'to carry'"
+				}
+			],
+			"original_statement": "From Greek amphoreus, from amphi 'on both sides' + pherein 'carry'."
+		},
+		"core_concept": {
+			"en": "A tall ancient Greek or Roman jar or jug with two handles and a narrow neck",
+			"ja": "二つの腕（handles）で世界を抱え上げ、重力に抗う『運搬の女神』。細い首（neck）に真実を封じ込め、異国へと旅をする、知的な『保存の器』"
+		},
+		"thinking_layer": "『両側で運ぶもの』。アンフィビアン（Amphibian/両生類）、メタファー（Metaphor/運ぶ）、おなじみの「アンフィ（周囲、両方）」と同根。語源は「両手持ちの運搬具」。ただの「壺」ではありません。そこには。「対称性（symmetry）という秩序を持ち、バランスを保ちながら貴重な液体を守り抜く」という、峻烈な安定への意志が宿っています。それは。知性が抽象的なアイディアを、実体（contents）としてこの現実世界に運び込むための、堅牢な「言語の器」。",
+		"aftertaste": "エーゲ海の沈没船から引き揚げられた「アンフォラ（amphora）」の、フジツボに覆われながらも失われない完璧な曲線を見つめ、数千年前の「喉の渇き」が今もそこに封印されているかのような錯覚に、時空（space-time）の曖昧さを想う、あの知的な眩暈。あるいは、自分の言葉もまた、この「アンフォラ」のように二つの視点（handles）を備え、時代を超えて真実を運び続ける堅牢な器でありたい、と願う、あの静かな午後の自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "bher-",
+					"meaning": "to carry (forming pherein)"
+				}
+			],
+			"points": [
+				"bring, bear, birth, transfer, periphery 同根。",
+				"『運ぶ（carrying）』ことは、場所を変えるだけでなく、意味を『持続（sustain）』させることである。アンフォラは、生命が不安定な液体（水、油、ワイン）をいかにして文明的な『資産（asset）』へと変換してきたかを示す、物流の記念碑である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "krater",
+		"word": "Krater",
+		"part_of_speech": "noun",
+		"meaning": "クラテール、水とワインを混ぜる大甕",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "kerannunai",
+					"type": "root",
+					"meaning": "to mix (混ぜる)",
+					"lang": "Greek"
+				}
+			],
+			"original_statement": "From Greek kratēr, from kerannunai 'to mix'."
+		},
+		"core_concept": {
+			"en": "A large ancient Greek vessel used for mixing wine and water",
+			"ja": "異なる性質の液体を一つに溶かし合わせ、新しい調和（harmony）を醸す『融合の聖杯』。激しい酔い（wine）と冷静な理性（water）が交差する、知的な『変容の祭壇』"
+		},
+		"thinking_layer": "『混ぜる器』。イディオシンクラジー（Idiosyncrasy/独特の混ぜ合わせ＝特異性）、おなじみの「ケラ（混ぜる）」と同根。カテーテル（Catheter）とは関係なく。語源は「混ぜる」。ただの「桶」ではありません。そこには。「相反する要素を衝突させるのではなく、中和（neutralization）させることで最適な中庸（golden mean）を見出す」という、ギリシャ的な叡智が宿っています。それは。知性が矛盾するアイディアを自らの中で戦わせ、一つの「洗練された結論」へと昇華させるプロセスのメタファー。 ",
+		"aftertaste": "宴会の中心に置かれた「クラテール（krater）」から、黄金色の液体が美しい音を立てて汲み出される情景を想い、対話（dialogue）とはまさに、この器が象徴する「異質なものの和解」から始まるのだと悟る、あの知的な平安。あるいは、自分の思考もまた、この「クラテール」のように、毒を薬に変え、激動を平穏に変える「知的な触媒（catalyst）」でありたいと願う、あの静かな夜の自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kere-",
+					"meaning": "to mix (forming kerannunai)"
+				}
+			],
+			"points": [
+				"idiosyncrasy, crater（火山噴火口もまた『混ぜる場所』である） 同根。",
+				"『混ぜる（mixing）』ことは、個の境界を曖昧にし、統合（integration）を目指す行為である。クラテールは、生命がいかにして『異質さ』を恐怖ではなく『豊かさ』として受け入れてきたかを示す、共生の工学である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "kylix",
+		"word": "Kylix",
+		"part_of_speech": "noun",
+		"meaning": "キリクス、古代ギリシャの平たい酒杯",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "kylix",
+					"type": "root",
+					"meaning": "cup (杯)', from Greek kyliein 'to roll'"
+				}
+			],
+			"original_statement": "From Greek kylix 'cup'."
+		},
+		"core_concept": {
+			"en": "A broad-rimmed, shallow ancient Greek drinking cup with two horizontal handles and a stem",
+			"ja": "薄く、平たく、天上の円環を映し出す酒杯。口に運ぶたび、底に描かれた『真実（絵画）』が徐々に姿を現す、知的な『発見の儀式』。視線と液体を等しく湛える、優雅な『知覚の円盤』"
+		},
+		"thinking_layer": "『回転する器（杯）』。シリンダー（Cylinder/円筒）、おなじみの「カップ（Cup）」とは直接の語源ではないが、回転して形作られるものと同根の説あり。語源は「杯」。ただの「コップ」ではありません。そこには。「底の浅さ（shallowness）を、表面積の広さ（breadth）によって埋め合わせ、世界の光を最大限に拾い集める」という、受容の美学が宿っています。それは。知性が自らを極限まで広げ、あらゆる経験という名の滴（drop）を、一滴も漏らさず受け止めようとする瞬間のメタファー。",
+		"aftertaste": "一息に飲み干した「キリクス（kylix）」の底に、神話の恐ろしい怪物の絵が現れる瞬間の、戦慄とユーモアが混ざり合った「知的な衝撃」に酔いしれる、あの峻烈な一呼吸。あるいは、自分の人生もまた、飲み干した後に何が現れるか分からない、この「キリクス」に注がれた「未知のワイン」のようなものだと微笑む、あの静かな午後の自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kwel-",
+					"meaning": "to revolve (forming kyliein)"
+				}
+			],
+			"points": [
+				"cycle, cylinder, wheel, pole 同根。",
+				"『回転（rolling）』が杯を生み出す。この言葉には、生命が自らの運動（action）を通じて、いかにして『世界を収容するための空間』を切り出してきたかという、根源的な創造の痕跡が残っている。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "lekythos",
+		"word": "Lekythos",
+		"part_of_speech": "noun",
+		"meaning": "レキュトス、古代ギリシャの油壺（香油入れ）",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "lēkythos",
+					"type": "root",
+					"meaning": "oil flask (油のフラスコ)",
+					"lang": "Greek"
+				}
+			],
+			"original_statement": "From Greek lēkythos."
+		},
+		"core_concept": {
+			"en": "A type of ancient Greek vessel used for storing oil, especially olive oil",
+			"ja": "一滴の重みを、優雅な垂直のフォルム（column）で守り抜く『静寂の守護者』。死者に捧げられる香油（oil）を湛え、現世と来世のあわいに立つ、知的な『追悼のメディア』"
+		},
+		"thinking_layer": "『油の器』。特になし。語源は「油壺、フラスコ」。ただの「ボトル」ではありません。そこには。「高価な油という名の、生命の最も濃密なエッセンスを、一滴ずつ丁寧に分かち合う」という、峻烈な配慮が宿っています。それは。知性が自らの最も奥深い感情を、一気に吐き出すのではなく、この「レキュトス」のように、時間をかけて静かに世界へと雫（しずく）してゆくプロセスの象徴。",
+		"aftertaste": "墓前に置かれた白い「レキュトス（lekythos）」に描かれた、悲しくも美しい別れの場面を見つめ、死とは単なる消滅ではなく、このような「美しい容器」に移し替えられることなのかもしれないと夢想する、あの知的な平安。あるいは、自分の言葉が、誰かの喪失の痛みを癒やすための「香油」となり、この「レキュトス」のような気高さを纏って届けられることを願う、あの静かな夜の祈り。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"『油（oil）』は光と癒やしの象徴である。レキュトスは、単なる貯蔵用具ではなく、暗闇を照らし、傷を癒やすための『可能性』を常にストックしておくための、生命のバックアップ・システムである。",
+				"その垂直な形状は、天と地を繋ぐ『梯子（ladder）』の役割を果たし、祈りを死者の元へと届ける。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "oinochoe",
+		"word": "Oinochoe",
+		"part_of_speech": "noun",
+		"meaning": "オイノコエ、古代ギリシャの酒注ぎ、ワインジャグ",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "oinos",
+					"type": "root",
+					"meaning": "wine (ワイン)",
+					"lang": "Greek"
+				},
+				{
+					"text": "kheein",
+					"type": "root",
+					"meaning": "to pour (注ぐ)",
+					"lang": "Greek"
+				}
+			],
+			"original_statement": "From Greek oinokhoē, from oinos 'wine' + kheein 'pour'."
+		},
+		"core_concept": {
+			"en": "An ancient Greek wine jug with a single handle and a trefoil (three-lobed) mouth",
+			"ja": "三つ葉の形（trefoil）をした口から、生命の奔流（wine）を解き放つ『提供の仕草（gesture）』。静止している文字を、躍動する声（voice）へと変換する、知的な『開花の瞬間』"
+		},
+		"thinking_layer": "『ワインを注ぐもの』。ワイナリー（Winery/ワイン工場）、おなじみ「フューズ（注ぐ）」と同根。語源は「ワインを注ぐ器」。ただの「水差し」ではありません。そこには。「自らの中に蓄えた価値を、他者のために惜しみなく曝け出す」という、能動的な提供の意志が宿っています。それは。知性が自らの内に秘めた真理を、他者という杯（cup）へと注ぎ込み、新しい認識の「酔い」を誘発させる瞬間のメタファー。",
+		"aftertaste": "「オイノコエ（oinochoe）」の三つの口から、曲線を描いて流れ出るワインの滑らかさに、思考が言語へと滑り落ちてゆく瞬間の「あの心地よい快感」を重ね合わせる、あの知的な法悦。あるいは、自分の表現もまた、この「オイノコエ」のように、どこから注いでも美しく、受け手の心を満たす「芳醇な奔流」でありたいと願う、あの静かな午後の自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "wei-",
+					"meaning": "to turn, twist (forming oinos? doubtful linkage)"
+				},
+				{
+					"term": "gheu-",
+					"meaning": "to pour (forming kheein)"
+				}
+			],
+			"points": [
+				"wine, vine, fusion, confuse 同根。",
+				"『注ぐ（pouring）』ことは、贈与の原初的な形態である。オイノコエの独特な口の形状は、流れをコントロールし、無駄なく『共有』するための、生命の洗練された分配の論理を示している。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
