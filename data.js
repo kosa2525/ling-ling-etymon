@@ -268612,5 +268612,216 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "integumentary",
+		"word": "Integumentary",
+		"part_of_speech": "adjective",
+		"meaning": "外皮の、外皮系の",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "in-",
+					"type": "prefix",
+					"meaning": "upon (の上に)"
+				},
+				{
+					"text": "tegere",
+					"type": "root",
+					"meaning": "to cover (覆う)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin integumentum 'a covering', from integere 'cover'."
+		},
+		"core_concept": {
+			"en": "Relating to the natural outer covering or coat of an animal or plant, such as skin or husk",
+			"ja": "世界という巨大な他者と接触する、最も外側の『覆い（covering）』。生命のプライバシーを守り、同時に外部からの微かな震えを最初の一報として受け取る、知的な『防壁兼アンテナ』"
+		},
+		"thinking_layer": "『上に覆われたもの』。テクト（Tecto-/建築の、構造の）、ディテクト（Detect/覆いを取る＝発見する）、おなじみの「イン（上）」と同根。語源は「覆い」。ただの「皮膚（skin）」ではありません。それは。自らの内なる純粋さを保つために、あえて外界と対峙（confronting）するために用意された「鎧（armor）」。知性が自らのアイデンティティを画定し、世界との境界線を引くプロセスのメタファー。",
+		"aftertaste": "自分の「外皮（integumentary）」が、絶え間なく外部の冷たさや痛みを防ぎ、自らを維持し続けていることに、深い感謝と、閉じ込められていることの微かな「孤独」を感じる、あの峻烈な一瞬。あるいは、自分のアイディアが、世間の嵐（storm）に耐えるための強固な「外皮」を纏（まと）っていることを確認し、自らの信念の強度を再確認する、あの静かな午後の自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "s-teg-",
+					"meaning": "to cover (forming tegere)"
+				}
+			],
+			"points": [
+				"detect, protect, tile, roof, toga 同根。",
+				"『覆う（covering）』という行為は、存在を定義（defining）することである。インテグメンタリー（integumentary）なシステムは、生命がいかにして『内（inner）』と『外（outer）』という二元論を物理的に構築したかを示す、進化の傑作である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "osmoregulation",
+		"word": "Osmoregulation",
+		"part_of_speech": "noun",
+		"meaning": "浸透圧調節",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "ōsmos",
+					"type": "root",
+					"meaning": "thrust, push (押すこと)', from Greek ōthein 'to push'"
+				},
+				{
+					"text": "regula",
+					"type": "root",
+					"meaning": "rule (ルール、規則)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From osmosis + regulation."
+		},
+		"core_concept": {
+			"en": "The maintenance of constant osmotic pressure in the fluids of an organism by the control of water and salt concentration",
+			"ja": "内なる海（inner sea）の濃度を一定に保つための、絶え間ない『均衡の管理（regulation）』。外部の激しい揺らぎに左右されず、自らの秩序を数学的な厳格さで守り抜く、ダイナミックな『調和の意志』"
+		},
+		"thinking_layer": "『押される力の調整』。オズモシス（Osmosis/浸透）、おなじみ「レギュレーション（規則、調整）」と同根。語源は「バランスを保つ」。ただの「塩分調節」ではありません。そこには。「外部の圧力（osmotic pressure）に飲み込まれることなく、自らの濃度（density）を貫き通す」という、生存の気概（mettle）が宿っています。それは。知性が情報の海の中で、自らの「純粋さ（purity）」をいかにして保ち続けるかという、代謝的な格闘。 ",
+		"aftertaste": "自分の細胞の一つ一つが、この「浸透圧調節（osmoregulation）」という奇跡的なバランスの上に成り立っていることを悟り、生命の「揺るぎない精密さ」に驚嘆する、あの知的な眩暈（dizziness）。あるいは、自分の思考が、外部の流行（fashion）という名の「巨大な圧力」に引きずられず、この「オズモレギュレーション」のように常に自らの「核（core）」の色を保っていることを誇る、あの静かな午後の自負。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "wed-",
+					"meaning": "water (uncertain connection to osmosis?)"
+				},
+				{
+					"term": "reg-",
+					"meaning": "to move in a straight line, rule (forming regula)"
+				}
+			],
+			"points": [
+				"osmosis, push, regular, direct, correct 同根。",
+				"『押す（thrusting）』力と、それを律する『法（rule）』。オズモレギュレーションは、生命が単なる受動的な物質であることを止め、環境を自らのために『管理』し始めた瞬間の署名である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "hemopoiesis",
+		"word": "Hemopoiesis",
+		"part_of_speech": "noun",
+		"meaning": "造血、血球形成",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "haima",
+					"type": "root",
+					"meaning": "blood (血)",
+					"lang": "Greek"
+				},
+				{
+					"text": "poiēsis",
+					"type": "root",
+					"meaning": "making, creation (作ること、創造)",
+					"lang": "Greek"
+				}
+			],
+			"original_statement": "From Greek haimo- 'blood' + poiēsis 'making'."
+		},
+		"core_concept": {
+			"en": "The production of blood cells and platelets, which occurs in the bone marrow",
+			"ja": "大地の記憶を眠らせた骨の暗闇（bone marrow）で、絶え間なく生命の『紅い奔流（blood）』を紡ぎ出す創造の営み。死に行く細胞を補い、存在の輝きを永続させるための、峻烈な『詩的生成』"
+		},
+		"thinking_layer": "『血を作ること』。ヘマタイト（Hematite/赤鉄鉱）、ポエジー（Poesy/詩歌）、おなじみの「ヘモ（血）」と同根。語源は「血の創造」。ただの「生理現象」ではありません。それは。無機的なカルシウムの檻（骨）の中で、最高の有機的なエネルギー（血）が産み落とされるという、身体的な「錬金術」。知性が、冷たい論理の奥底から、熱い情熱（passion）を汲（く）み出し続けるプロセスのメタファー。",
+		"aftertaste": "自分の心音が、この「造血（hemopoiesis）」という静かな爆発の連続によって支えられていることを鮮明に（vividly）イメージし、生命がいかに「創造（making）」し続けることでしか存続し得ないのかを痛感する、あの峻烈な一体感。あるいは、自分の言葉が、この「ヘモポイエーシス」のように、誰かの虚無（void）を埋めるための「新しい血」となることを願う、あの静かな午後の献身。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kwei-",
+					"meaning": "to pile up, build, make (forming poiēsis)"
+				}
+			],
+			"points": [
+				"poet, poem, onomatopoeia 同根。",
+				"『生成（making）』とは、単なる製造ではなく、無から有を生むという『詩的な飛躍』である。造血（hemopoiesis）という言葉には、生命の維持そのものが、宇宙における壮大な『創作活動』であるという、古代ギリシャの美学が潜んでいる。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "angiogenesis",
+		"word": "Angiogenesis",
+		"part_of_speech": "noun",
+		"meaning": "血管新生、血管形成",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "angeion",
+					"type": "root",
+					"meaning": "vessel (器、血管)",
+					"lang": "Greek"
+				},
+				{
+					"text": "genesis",
+					"type": "root",
+					"meaning": "origin, creation (起源、創造)",
+					"lang": "Greek"
+				}
+			],
+			"original_statement": "From Greek angeion 'vessel' + genesis 'creation'."
+		},
+		"core_concept": {
+			"en": "The development of new blood vessels",
+			"ja": "生命の未踏の地へと、新しい『情報の回路（vessel）』を敷設（extension）してゆく、創世記（genesis）のような躍動。停滞（stagnation）を拒絶し、届かなかった場所へ潤い（nourishment）を運び込むための、執拗なまでの拡張意志"
+		},
+		"thinking_layer": "『器（血管）の創造』。ジェネシス（Genesis/創世記）、おなじみ「アンジオ（脈管）」と同根。語源は「血管の起源」。ただの「管の成長」ではありません。そこには。「新しい目的（需要）に応じて、自らの供給網を自律的に構築する」という、環境への能動的な適応（adaptation）が宿っています。それは。知性が新しいアイディアを育むために、独自の思考の「インフラ」を張り巡らせてゆくプロセスの象徴。",
+		"aftertaste": "自分の思考が、これまで触れたことのなかった新しい分野（fields）へと、この「血管新生（angiogenesis）」のようにじわじわと根を伸ばしてゆくのを感じ、自分の可能性が日々「書き換えられている」ことを確信する、あの知的な充足。あるいは、自分の優しさが、誰かの心の枯れ果てた場所に、新しい「アンギオジェネシス（angiogenesis）」を起こすきっかけになることを夢見て、言葉を紡ぐ、あの静かな午後の祈り。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ank-",
+					"meaning": "to bend (forming angeion)"
+				}
+			],
+			"points": [
+				"angle, anchor, ankle 同根の説あり。",
+				"『器（vessel）』とは、流れるものを一時的に拘束（containment）し、方向を与えるための曲げられた（bending）意志である。アンギオジェネシス（angiogenesis）は、生命がいかにして空間的な制約を克服し、自らのネットワークを最適化（optimization）しているかという、力学的な詩である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "chemotaxis",
+		"word": "Chemotaxis",
+		"part_of_speech": "noun",
+		"meaning": "走化性（そうかせい）、化学走性",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "khēmeia",
+					"type": "root",
+					"meaning": "alchemy (錬金術)', from Greek"
+				},
+				{
+					"text": "taxis",
+					"type": "root",
+					"meaning": "arrangement, movement (配列、運動)",
+					"lang": "Greek"
+				}
+			],
+			"original_statement": "From chemo- + taxis."
+		},
+		"core_concept": {
+			"en": "Movement of a motile cell or organism, or part of one, in a direction corresponding to a gradient of increasing or decreasing concentration of a particular substance",
+			"ja": "微かな『匂い（chemical signal）』に導かれ、自らの居場所（arrangement）を決定してゆく、生命の最も原初的な『意志の表明』。情報（濃度の勾配）を運動へと変換し、真実の方角へとひたむきに突き進む、根源的な憧憬"
+		},
+		"thinking_layer": "『化学的な配列』。ケミストリー（Chemistry/化学）、タクシー（Taxi/おそらくな）、おなじみの「タクシス（軍隊の配列、組織化）」と同根。語源は「化学反応による運動」。ただの「反応」ではありません。それは。「私はあちらにあるものを求めている（あるいは避けている）」という、主体的な「選択」の最初の一歩。知性がカオスの中から、自分にとって有効な信号（signal）を嗅ぎ分け、その方向に「自らを投げ出す」瞬間のメタファー。",
+		"aftertaste": "顕微鏡の中で、一途にある一点を目指して進む細胞の「走化性（chemotaxis）」を見つめ、自分もまた、この広大な宇宙の中で、ある種の「見えない真理の匂い」に引かれて彷徨（ほうこう）している存在なのだと悟る、あの知的な平安。あるいは、自分のアイディアが、誰かの心という「化学的な勾配（gradient）」に反応し、予測不能な走化（taxis）を始めるのを、静かに、しかし情熱的に見届ける、あの冷淡な午前。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "tag-",
+					"meaning": "to touch, handle (forming taxis? uncertain)"
+				}
+			],
+			"points": [
+				"tactics, tax, taxidermy（剥製＝皮の配列） 同根。",
+				"『配列（taxis）』とは秩序の構築だが、ケモタキシス（chemotaxis）においては、それは『移動（movement）』という形で現れる。秩序とは静止したものではなく、欲望の方向に沿って絶えず書き換えられる動的なプロセスである。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
