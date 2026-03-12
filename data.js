@@ -255822,5 +255822,87 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "repression",
+		"word": "Repression",
+		"part_of_speech": "noun",
+		"meaning": "抑圧、鎮圧、苦痛な記憶の遮断",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "re-",
+					"type": "prefix",
+					"meaning": "back (後ろへ)"
+				},
+				{
+					"text": "premere",
+					"type": "root",
+					"meaning": "to press (押す)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin repressio, from reprimere 'press back', from re- 'back' + premere 'press'."
+		},
+		"core_concept": {
+			"en": "The action of subduing someone or something by force; (psychology) the restraint or exclusion of painful impulses or memories from the conscious mind",
+			"ja": "意識の表面に浮き上がろうとする不都合な真実や感情を、強大な力で再び心の『深い場所へと押し戻す（press back）』こと。均衡を保つための内なる自己検閲"
+		},
+		"thinking_layer": "『押し戻すこと』。プレス（Press/押す）やディプレッション（Depression/うつ＝押し下げる）と同根。政治的な「弾圧」から、心理学的な「トラウマの抑圧」まで。ただ「消す」のではなく、エネルギーを「底に溜めておく」こと。それは、いつか爆発するかもしれない火薬庫を抱えたまま、平穏なふりをして生き続けるための、不自由で危うい防衛。 ",
+		"aftertaste": "言いたいことを喉元まで出かけて、世間体を気にしてぐっと飲み込んだ時の、あの胸の奥の苦々しい痛み。あるいは、自分がかつて犯した過ちを忘れたことにして、それでも夜中にふと、理由のない不安に襲われる時の、あの暗い影の蠢き。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "per-",
+					"meaning": "to strike, press"
+				}
+			],
+			"points": [
+				"pressure, impress, express, print, reprimand（叱責する）と同根。",
+				"『感情という波』を押し返そうとする力は、逆にその『圧力（pressure）』を高め、いつかシステムを内部から破壊する『毒（venom）』に変わる。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "retrospection",
+		"word": "Retrospection",
+		"part_of_speech": "noun",
+		"meaning": "回想、追懐、過去を振り返ること",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "retro-",
+					"type": "prefix",
+					"meaning": "backwards (後ろを)"
+				},
+				{
+					"text": "specere",
+					"type": "root",
+					"meaning": "to look (見る)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin retrospectus 'looking back'."
+		},
+		"core_concept": {
+			"en": "The action of looking back on or reviewing past events or situations, especially those in one's own life",
+			"ja": "前へと進む足を一度止めて、長い道のりを歩んできた自らの歩みを『後ろを向いて（backwards）』静かに『見つめる（look）』こと。経験を黄金の知恵へと昇華させるための、知的な内省"
+		},
+		"thinking_layer": "『後ろを見ること』。イントロスペクション（Introspection/内省＝中を見る）やスペクタクル（Spectacle/見せ物）と同根。ただ過去に浸るのではなく、客観的な視点（look）を持って、自分の歴史を「観察」すること。そこには、現在の自分を形作ったあらゆる分岐点への感謝と、少しの悔恨が混ざり合っています。",
+		"aftertaste": "夕暮れの海岸で、寄せては返す波を見つめながら、十年前の自分に何を伝えたいかをぼんやりと考える、あの寂しくて温かな時間。あるいは、古い日記を読み返し、当時の自分がいかに青臭く、しかし純粋であったかを認める時の、気恥ずかしい愛着。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "spek-",
+					"meaning": "to observe"
+				}
+			],
+			"points": [
+				"aspect, inspect, respect（再び見る＝尊敬する）, specimen 同根。",
+				"『後ろを見る（retro-spect）』ことは、過去の自分と『視線（gaze）』を合わせることであり、引き裂かれた時間を『現在』において統合する儀式である。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
