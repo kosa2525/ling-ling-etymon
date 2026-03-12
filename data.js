@@ -268412,5 +268412,205 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "adit",
+		"word": "Adit",
+		"part_of_speech": "noun",
+		"meaning": "横坑（おうこう）、通気坑、入り口",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "ad-",
+					"type": "prefix",
+					"meaning": "to (〜へ)"
+				},
+				{
+					"text": "ire",
+					"type": "root",
+					"meaning": "to go (行く)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin aditus 'entrance', from adire 'go to'."
+		},
+		"core_concept": {
+			"en": "A horizontal passage leading into a mine for access or drainage",
+			"ja": "暗闇の深淵（abyss）へと手を伸ばすように掘り進められた、水平な『入り口』。外界の光と、地底の沈黙を繋ぐ、最もダイレクトな知の『侵入口』"
+		},
+		"thinking_layer": "『行くこと、入ること』。エグジット（Exit/外へ行く）、アンビエント（Ambient/周りを行く）、おなじみの「AD（〜へ）」と同根。語源は「入り口」。ただの「穴」ではありません。それは。地底という異世界を「開発（exploring）」するために、人間が大地に打ち込んだ最初の楔（wedge）。知性が未知の真実へと「踏み込んでゆく」能動的な身振りとしての回廊。",
+		"aftertaste": "山肌に口を開けた「横坑（adit）」の、あの奥から吹き寄せる冷たく湿った風に身を震わせ、未知の世界へと足を踏み入れる際の「期待」と「戦慄」を同時に感じる、あの知的な眩暈（dizziness）。あるいは、自分の思考がこの「アディット（adit）」のように、複雑な問題の核心（core）へと真っ直ぐに突き抜けてゆくことを願う、あの潔い自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ei-",
+					"meaning": "to go (forming ire)"
+				}
+			],
+			"points": [
+				"exit, ambit, circuit, initial, sedition 同根。",
+				"『行く（going）』という行為は、空間を時間へと変換する行為である。アディット（adit）という言葉には、一歩一歩の歩みが、徐々に『真理の奥底』へと近づいてゆくという、線形的な探索の歴史が刻まれている。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "stope",
+		"word": "Stope",
+		"part_of_speech": "noun/verb",
+		"meaning": "階段掘り、採掘場、階段状に掘る",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "stōpa",
+					"type": "root",
+					"meaning": "step (階段)', from Middle Dutch"
+				},
+				{
+					"text": "stappen",
+					"type": "root",
+					"meaning": "to step (歩く)",
+					"lang": "Middle Dutch"
+				}
+			],
+			"original_statement": "Probably of Germanic origin; related to step."
+		},
+		"core_concept": {
+			"en": "An excavation in a mine, especially one in the form of a series of steps",
+			"ja": "富（wealth）を求めて大地を切り刻んだ、巨大な『階段状の虚空』。一段ずつ下へと、あるいは上へと、欲望を現実へと削り取ってゆく、知的な『秩序としての破壊』"
+		},
+		"thinking_layer": "『ステップ、階段』。ステップ（Step）、スタンプ（Stamp/踏む）とおそらく同根。語源は「階段」。鉱石を掘り出したあとに残る、規則的な負の空間（negative space）。そこには。「混沌とした大地を、人間のリズム（段差）で管理可能な場所へと変容させた」という、峻烈な工学的意志が宿っています。それは。巨大な課題を細かな「ステップ」に分解し、着実に処理してゆくプロセスのメタファー。",
+		"aftertaste": "地下深くに広がる、あの規則正しい「階段掘り（stope）」の跡を見つめ、人間がいかに執拗（tenacious）に世界を自らのルールで塗り替えようとしてきたのかを思い知り、感動と空虚を同時に覚える、あの知的な眩暈（dizziness）。あるいは、自分の努力が、この「ストープ（stope）」のように、今はただの「穴」であっても、かつてそこから確かな「価値（ore）」を掘り出したという証（evidence）であることを信じる、あの静かな夜の自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "stebh-",
+					"meaning": "to support, stomp, step (forming step)"
+				}
+			],
+			"points": [
+				"step, staff, stable（？） 同根の説あり。",
+				"『階段（step）』とは、高低差という断絶を、運動という連続性（continuity）へと翻訳するための仕掛けである。ストープ（stope）は、深淵へと向かう人間の意志を、力学的なリズムへと定着させたものである。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "winze",
+		"word": "Winze",
+		"part_of_speech": "noun",
+		"meaning": "繋ぎ坑、通気坑、ウィンズ",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "windas",
+					"type": "root",
+					"meaning": "to wind (巻く)', from Middle Dutch"
+				},
+				{
+					"text": "wind",
+					"type": "root",
+					"meaning": "to turn (回る)",
+					"lang": "English"
+				}
+			],
+			"original_statement": "From Middle Dutch windas 'windlass'."
+		},
+		"core_concept": {
+			"en": "A small vertical or inclined shaft in a mine, connecting two levels",
+			"ja": "上層と下層、二つの暗闇を垂直に繋ぐ『秘密の回廊』。重力に逆らい、あるいは重力に従って、情報や空気、そして意志を階層間で循環させるための、知的な『接合点』"
+		},
+		"thinking_layer": "『巻き上げること』。ワインド（Wind/巻く）、ウィンチ（Winch/巻き上げ機）と同根。語源は「巻き上げ機」。上下の坑道を繋ぐ、落とし穴のような通路。そこには。「異なる次元を強引に結びつける」という、空間的な飛躍（leap）が含まれます。それは。抽象的な概念（上層）と具体的な行動（下層）の間に、垂直の「回路」を通そうとする知性の格闘。",
+		"aftertaste": "二つの坑道の狭間で、この「繋ぎ坑（winze）」から漏れてくる微かな話し声を聴き、バラバラだと思っていた世界が、実は一本の「垂直の意志」で繋がっていることを知り、深い知的な衝撃を覚える、あの峻烈な一瞬。あるいは、自分の思考が、この「ウィンズ（winze）」のように、どんなに離れたアイディア同士も瞬時に「接続」できるような、しなやかで力強い回廊であることを願う、あの静かな夜の自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "wendh-",
+					"meaning": "to turn, wind, weave (forming wind)"
+				}
+			],
+			"points": [
+				"wind, wander, winter（？） 同根。",
+				"『巻く（winding）』という曲線運動が、垂直方向への直線的な『移動』を可能にする。ウィンズ（winze）は、思考が自らの方向性をいかに転換（translation）し、異なるレベルの真理へとアクセスするかを象徴している。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "gangue",
+		"word": "Gangue",
+		"part_of_speech": "noun",
+		"meaning": "脈石（みゃくせき）、くず石、脈中無価値鉱物",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "Gang",
+					"type": "root",
+					"meaning": "a going, course, vein (行くこと、コース、脈)', from German"
+				},
+				{
+					"text": "gan-",
+					"type": "root",
+					"meaning": "to go (行く)",
+					"lang": "Proto-Germanic"
+				}
+			],
+			"original_statement": "From German Gang 'a going, a course, a (mineral) vein'."
+		},
+		"core_concept": {
+			"en": "The valueless material in which ore is found; the non-metallic part of an ore deposit",
+			"ja": "真の価値（ore）を抱きながらも、自らは『無価値』として捨て去られる、沈黙の石。価値あるものを保護し、形作り、しかし最後には忘れ去られる、慈悲深い『背景』"
+		},
+		"thinking_layer": "『（鉱石の）通り道』。ギャング（Gang/一団＝一緒に行く人々）、おなじみの「ゴー（Go）」と同根。語源は「行くこと」。ただの「ゴミ（waste）」ではありません。それは。宝石や金属が誕生するために、数億年もの間、隣で寄り添い続けたパートナー。知性が真理（gold）を抽出する際に、あえて「ノイズ」として切り捨てなければならない、しかし存在の基盤である「不純な現実」。 ",
+		"aftertaste": "精錬（refining）された純金の輝きを眺めつつ、その裏で打ち捨てられた膨大な「脈石（gangue）」の山に想いを馳せ、自分の人生を支えてくれている「名もなき、無価値に見える人々や経験」への、深い感謝と自責、あの知的な静寂。あるいは、自分の言葉が、この「ガング（gangue）」のように地味であっても、誰かの心の中に眠る「宝石」を優しく守り続けているのだと信じる、あの静かな午後の自己肯定。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ghē-",
+					"meaning": "to release, let go (uncertain connection to go/gang)"
+				}
+			],
+			"points": [
+				"go, gang, forgo, gate 同根。",
+				"『行く（going）』ことは変化することだが、脈石（gangue）という言葉においては、それは価値あるものが『通り過ぎる場所』を意味する。知性は、この『通り道』の存在なしには、何ものも捕獲することができない。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "vug",
+		"word": "Vug",
+		"part_of_speech": "noun",
+		"meaning": "晶洞（しょうどう）、（岩石中の）空洞、晶窩",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "voog",
+					"type": "root",
+					"meaning": "empty, hollow (空の、穴)', from Cornish / Old Welsh origin"
+				},
+				{
+					"text": "gwag",
+					"type": "root",
+					"meaning": "empty (空の)",
+					"lang": "Welsh"
+				}
+			],
+			"original_statement": "From dialect (especially Cornish), related to Welsh gwag 'empty'."
+		},
+		"core_concept": {
+			"en": "A small cavity in a rock or vein, often lined with crystals",
+			"ja": "岩石の硬質な沈黙の中に、不意に開かれた『宝石の部屋』。漆黒の大地が自らを『空（empty）』にすることで、そこに最も純粋な結晶の華（flowers of crystals）を咲かせた、聖なる空隙"
+		},
+		"thinking_layer": "『空っぽの場所』。ボイド（Void/おそらくな）、バケイション（Vacation/おそらくな）と同根の説あり。語源は「空の」。ただの「穴」ではありません。そこには。外側からは決して見えない、しかし内側にだけ許された「極彩色の静寂」が宿っています。それは。頑なな知性の殻を破った瞬間に現れる、誰も知らない「個人的な真実」や「美意識」のメタファー。",
+		"aftertaste": "地味な岩を割った瞬間に現れた、この「晶洞（vug）」の水晶の輝きに、世界が隠し持っている「無尽蔵の優しさ」を感じて息を呑む、あの峻烈な一瞬。あるいは、自分の心の中にある巨大な「空虚」が、実は誰にも見せることのない「美しい結晶」を育むための、大切な「ヴァグ（vug）」なのだと確信し、その暗闇を愛おしく思う、あの静かな夜の祈り。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"コーンウォールの鉱夫たちの言葉から生まれたこの言葉には、大地との対話からしか得られない、素朴で神秘的な美学が宿っている。",
+				"『空（empty）』であることは、何かがそこへ入ってくるための『招待状』である。ヴァグ（vug）は、大地が自らの中にある欠損を、宝石という名の『光』で埋めようとした、惑星の詩的な試行錯誤の跡である。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
