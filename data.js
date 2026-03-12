@@ -266670,5 +266670,212 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "obverse",
+		"word": "Obverse",
+		"part_of_speech": "noun/adjective",
+		"meaning": "（硬貨、メダルなどの）表、表面、表の",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "ob-",
+					"type": "prefix",
+					"meaning": "toward, against (〜の方へ、〜に面して)"
+				},
+				{
+					"text": "vertere",
+					"type": "root",
+					"meaning": "to turn (回る、向かう)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin obversus, past participle of obvertere 'turn toward'."
+		},
+		"core_concept": {
+			"en": "The side of a coin or medal bearing the head or principal design; the opposite or counterpart of something",
+			"ja": "世界に対して堂々と晒（さら）される、硬貨やメダルの『表（face）』。自らの真実や価値（value）を証明するために、光にかざされるべき側"
+		},
+		"thinking_layer": "『〜の方を向いている』。リバース（Reverse/反対を向く）、コンバート（Convert/共に変える）、おなじみの「オブ（向いて）」と同根。語源は「向かい合っている」。ただの「前（front）」ではありません。そこには。「公式な顔」として、誰かと視線を交わし、価値を主張するという対話的な意志が含まれます。それは。知性が社会に対して差し出す、最も洗練された「ペルソナ（persona）」。",
+		"aftertaste": "新しい硬貨の「表面（obverse）」に刻まれた肖像の、冷たく峻烈な眼差しを見つめ、自分が世界に見せている「オブヴァース（obverse）」がいかに虚構（fiction）に満ちたものであるかを自覚し、静かに目を伏せる、あの知的な寂しさ。あるいは、自分の言葉が、この「表側（obverse）」のように、誰にとっても価値ある「普遍的な真実」を宿しているのだと信じて、胸を張る、あの静かな午後の自負。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "wer-",
+					"meaning": "to turn, bend (forming vertere)"
+				}
+			],
+			"points": [
+				"verse, version, convert, reverse, advertise 同根。",
+				"『向く（turning）』という行為は、意図（intention）の発生を意味する。オブヴァース（obverse）とは、存在が特定の方向へと自らを規定した結果としての、最も強固な『表明』である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "exergue",
+		"word": "Exergue",
+		"part_of_speech": "noun",
+		"meaning": "（硬貨）刻下（こくか）、（下部の）銘文を入れる場所",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "ex-",
+					"type": "prefix",
+					"meaning": "out of (外に)"
+				},
+				{
+					"text": "ergon",
+					"type": "root",
+					"meaning": "work (仕事、作品)",
+					"lang": "Greek"
+				}
+			],
+			"original_statement": "From French exergue, from Greek ex 'out of' + ergon 'work'."
+		},
+		"core_concept": {
+			"en": "A space on a coin, medal, or the like, usually below the central design, in which a date, the engraver's name, etc., is placed",
+			"ja": "主要な図案（design）の枠を外れ、その下方（below）にひっそりと刻まれた、日付や作者の『署名』の場所。作品の一部でありながら、作品そのものを客観的に定義する『外部（outside）』"
+		},
+		"thinking_layer": "『作品の外側』。エルゴノミクス（Ergonomics/人間工学）、エナジー（Energy/内なる仕事）、おなじみの「エクス（外）」と同根。語源は「仕事の外」。ただの「余白」ではありません。そこには。作品の背景や「起源（origin）」を指し示す、メタ的な情報が記されています。それは。自分の行動や思考の「枠外」に、密かに刻まれた「本当の理由」や「時間の重み」。知性の「余白の美学」。",
+		"aftertaste": "古い金貨の「刻下（exergue）」に刻まれた、今は亡き造幣官の細かなイニシャルを拡大鏡で発見し、歴史の奔流（torrent of history）の中に一人の人間が残した「微かな抵抗」に想いを馳せる、あの震えるような一体感。あるいは、自分の努力が、主役（central figure）としてではなく、この「エグザーグ（exergue）」のように控えめな、しかし欠くべからざる「脚注（footnote）」として誰かの記憶に残ることを願う、あの潔い自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "werg-",
+					"meaning": "to do (forming ergon)"
+				}
+			],
+			"points": [
+				"work, organ, energy, liturgy（典礼＝民衆の仕事） 同根。",
+				"『仕事（work）』とは表現の本体だが、その『外（ex-）』を画定することで、初めて表現は完成する。エグザーグ（exergue）は、中心を支えるための、知的な『孤独の空間』である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "flan",
+		"word": "Flan",
+		"part_of_speech": "noun",
+		"meaning": "（硬貨の）素地（きじ）、（打つ前の）円形金属板、フラン",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "flado",
+					"type": "root",
+					"meaning": "flat cake (平らなケーキ)",
+					"lang": "Old High German"
+				},
+				{
+					"text": "platus",
+					"type": "root",
+					"meaning": "flat (平らな)",
+					"lang": "Greek?"
+				}
+			],
+			"original_statement": "From Old French flaon, from Late Latin fladon-, of Germanic origin."
+		},
+		"core_concept": {
+			"en": "A disc of metal before it has been struck to form a coin; a blank",
+			"ja": "価値という印を刻まれる前の、何も描かれていない無垢（muku）な『金属の円盤』。あらゆる可能性を秘めながら、沈黙したまま火と槌（つち）を待つ、生命の『始原（blank states）』"
+		},
+		"thinking_layer": "『平らなもの』。フラット（Flat）、フレイ（Flay/皮を剥ぐ＝平らにする）、おなじみの「フラン（お菓子の）」と同根。語源は「平らなケーキ」。カスタードプリンの「フラン」と同じ。ただの「板」ではありません。それは。これから「価値（value）」という名の運命を押しつけられる直前の、最も自由で重たい沈黙。知性が何かを「定義（defining）」する前の、純粋なポテンシャル（potential）。",
+		"aftertaste": "磨き上げられた「硬貨の素地（flan）」の銀の輝きに見入られ、そこに自分の顔が歪んで映っているのを見つめ、自分もまた何の色もついていないこの「フラン（flan）」のように、もう一度人生を「打ち直したい（re-strike）」と願う、あの峻烈な解放の渇望。あるいは、自分のアイディアが、余計な装飾のない「フラン（flan）」の状態のままで、十分な重みと価値を持っているのだと確信する、あの静かな午後の自己肯定。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "pela-",
+					"meaning": "flat, to spread (forming platus?)"
+				}
+			],
+			"points": [
+				"place, plan, plant, floor 同根の説あり。",
+				"『平ら（flat）』であることは、あらゆる『差異』が抹消された状態だが、それは同時に、あらゆる『意味』を受け入れ可能とするための究極の受容性（receptivity）でもある。フラン（flan）は、価値という暴力にさらされる前の、聖なる空白を象徴している。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "incuse",
+		"word": "Incuse",
+		"part_of_speech": "noun/adjective",
+		"meaning": "（硬貨が）打ち抜かれた、裏に跡がついた、凹んでいる",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "in-",
+					"type": "prefix",
+					"meaning": "into (中に)"
+				},
+				{
+					"text": "caedere",
+					"type": "root",
+					"meaning": "to strike, cut (打つ、切る)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin incusus, from incudere 'forge with a hammer', from in- 'into' + cudere 'strike'."
+		},
+		"core_concept": {
+			"en": "Of a coin, struck so that the design is impressed in relief into the metal; hammered in",
+			"ja": "表面（obverse）を打った衝撃が、裏側をも突き抜け、その『傷跡』として残された凹（くぼ）み。強烈な表現や意志が、その対象の深部まで『打ち込まれた（hammered in）』、痛みを伴う真実の形式"
+		},
+		"thinking_layer": "『打ち込まれた』。インサイザー（Incisor/門歯＝切り込むもの）、コンサイズ（Concise/簡潔な＝切り詰められた）、おなじみの「イン（中）」と同根。語源は「ハンマーで叩き込む」。ただの「凹み」ではありません。それは。表面を飾るための技巧ではなく、力の「貫通（penetration）」そのものが形になったもの。知性が自らの限界を突破しようとして、対象の深淵（abyss）に刻み込んだ不滅の傷跡。 ",
+		"aftertaste": "初期のギリシャ硬貨に見られる、あの無骨な「インキューズ（incuse）」の跡に、古代人の「物質をねじ伏せる（overpowering the matter）」ような荒々しい情熱を感じて息を呑む、あの峻烈な一体感。あるいは、自分の言葉が、相手の心の深くまでこの「インキューズ（incuse）」のように打ち込まれ、二度と癒えることのない（irreversible）意味の変化をもたらしてしまったのではないかと危惧する、あの静かな夜の戦慄。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kae-id-",
+					"meaning": "to strike (forming caedere)"
+				}
+			],
+			"points": [
+				"cement（砕いた石）, decide（切り落とす）, pesticide（殺す） 同根。",
+				"『打つ（striking）』という暴力的な行為が、金属の中に『永遠の形』を封じ込める。インキューズ（incuse）は、苦痛が美へと、破壊が永続性（permanence）へと、逆転（inversion）する瞬間の署名である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "seigniorage",
+		"word": "Seigniorage",
+		"part_of_speech": "noun",
+		"meaning": "通貨発行益、造幣利益、（領主の）造幣特権",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "seignior",
+					"type": "root",
+					"meaning": "lord (領主)",
+					"lang": "Old French"
+				},
+				{
+					"text": "senior",
+					"type": "root",
+					"meaning": "older (より年長の)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Old French seigniorage, from seignior 'lord'."
+		},
+		"core_concept": {
+			"en": "Profit made by a government by issuing currency, especially the difference between the face value of coins and their production costs",
+			"ja": "名目上の価値（face value）と、実質的なコスト（cost）の『隙間』から生まれる、支配者の特権的な利益。存在しないはずの価値を、信用の名の下に『無（nothing）』から生み出す、高度な知の錬金術"
+		},
+		"thinking_layer": "『領主の権利』。シニョーレ（Signore/旦那）、シニア（Senior/年長者）、おなじみの「セニョール（スペイン語）」と同根。語源は「領主」。ただの「儲け」ではありません。それは。「私はこの土地の主人である」という証明そのものが、富（wealth）へと変換されるマジック。知性が、自らの言葉に「権威（authority）」という名の魔法をかけ、実体以上の価値を他者に信じ込ませるプロセスのメタファー。",
+		"aftertaste": "政府が「通貨発行益（seigniorage）」を享受する仕組みを理解し、私たちが日々使っている「紙の切れ端」が、いかに巨大な「共同幻想（common fantasy）」の上に成り立っているかを悟り、足元が崩れるような感覚を覚える、あの知的な眩暈（dizziness）。あるいは、自分の知識や肩書きから生まれるこの「セニョリッジ（seigniorage）」のような付加価値に甘んじることなく、常に自分の「実質的な中身（intrinsic value）」を磨き続けたいと願う、あのひたむきな自尊心。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sen-",
+					"meaning": "old (forming senior)"
+				}
+			],
+			"points": [
+				"senate, senile, sir, sire 同根。",
+				"『年長（old）』であることは智慧の蓄積だが、それが『権力（seignior）』へと固定（fixation）されたとき、そこには『無から価値を生む』という不自然な特権が生まれる。セニョリッジ（seigniorage）は、信用という目に見えない力がいかに物質を支配するかを示す、最も洗練された経済の詩学（poetics）である。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
