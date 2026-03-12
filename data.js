@@ -254473,5 +254473,170 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "paleo",
+		"word": "Paleo-",
+		"part_of_speech": "prefix",
+		"meaning": "古、旧、原始の",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "palaios",
+					"type": "root",
+					"meaning": "old (古い)",
+					"lang": "Greek"
+				}
+			],
+			"original_statement": "From Greek palaios 'ancient'."
+		},
+		"core_concept": {
+			"en": "Older or ancient, especially relating to the geological past",
+			"ja": "数万年、数百万年という地質学的なスケールの『古さ』。人類の記憶が始まる前、石と土と生命がただ沈黙して積み重なっていた『遠い過去』の気配"
+		},
+		"thinking_layer": "『古代の』。パレオエコロジー（古生態学）やパレオダイエット（原始人食）の接頭辞。単なるアンティークではなく、生命の「根源（Origins）」に触れるためのレンズ。それは自分たちの文明という薄い皮皮を剥ぎ取った後に現れる、剥き出しの地球の姿へのアクセス。",
+		"aftertaste": "岩盤の中に刻まれたアンモナイトの螺旋模様を見つめ、自分の命が宇宙という大きな物語の、ほんの一瞬に過ぎないことを悟る寂しさと誇り。あるいは、火を囲んで踊り、壁に獣を描いた遠い祖先の、血のざわめきを自分の内側に感じる時。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kwal-",
+					"meaning": "old, far"
+				}
+			],
+			"points": [
+				"palisade（杭の柵？＝古い守り）, antiqueと同根の説あり。",
+				"『古い』ことは『遠い（far）』ことであり、それは私たちの想像力が到達できる『境界線』を意味する。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "neolithic",
+		"word": "Neolithic",
+		"part_of_speech": "adjective",
+		"meaning": "新石器時代の、非常に古い",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "neo-",
+					"type": "prefix",
+					"meaning": "new (新しい)"
+				},
+				{
+					"text": "lithos",
+					"type": "root",
+					"meaning": "stone (石)",
+					"lang": "Greek"
+				}
+			],
+			"original_statement": "From neo- 'new' + lithos 'stone'."
+		},
+		"core_concept": {
+			"en": "Relating to or denoting the later part of the Stone Age",
+			"ja": "ただの石（Stone）から、人間の意志と指先によって磨き上げられた『新しい（new）』石器へと進化を遂げた、文明の夜明け。定住と農耕、そして暴力の始まり"
+		},
+		"thinking_layer": "『新しい石の』。リソグラフ（Lithograph/石版画）やモノリス（Monolith/一本石）と同根。ただの自然物としての石に、人間が初めて「意味」と「機能」を彫り込んだ。それは自然への隷属から逃れた第一歩であり、同時に、世界を自分の形に「加工」し始めるという、終わりのない傲慢さの出発点。",
+		"aftertaste": "掌に吸い付くように磨き上げられた石斧（いしおの）の、冷たくて力強い重み。あるいは、広大な草原を耕し始めた最初の一人の、これからの未来への期待と、少しの不安を孕んだ眼差し。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "slē-",
+					"meaning": "stone"
+				}
+			],
+			"points": [
+				"lithosphere（岩石圏）, lithium 同根。",
+				"『石（stone）』は不変の象徴であり、それを『加工（neo-）』することは、永遠という時間の流れに人間の一時的な『生（life）』を刻み込む行為。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "primeval",
+		"word": "Primeval",
+		"part_of_speech": "adjective",
+		"meaning": "原始の、太古の、野性の、本能的な",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "primus",
+					"type": "root",
+					"meaning": "first (最初の)",
+					"lang": "Latin"
+				},
+				{
+					"text": "aevum",
+					"type": "root",
+					"meaning": "age (時代)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin primaevus, from primus 'first' + aevum 'age'."
+		},
+		"core_concept": {
+			"en": "Of or resembling the earliest ages in the history of the world",
+			"ja": "世界という物語の『最初（first）』の『時代（age）』。まだ言葉も文明もなく、生命がただ生々しい本能と野生の力で呼吸していた、荒々しくも神聖な極北"
+		},
+		"thinking_layer": "『最初の時代の』。プライマリー（Primary/第一の）やエイオン（Aeon/永遠の時間）と同根。文明に飼いならされる前の、土の匂い、血の匂い、そして宇宙の広大な闇。それは、洗練された知識をすべて失った後に最後に残る、私たちの魂の「原形」。",
+		"aftertaste": "誰も足を踏み入れたことのない原生林の、むせ返るような緑の匂いと、自分を食べようとする肉食獣の気配。あるいは、深い闇の中で燃え盛る焚き火を見つめている時の、ただ「生きている」というだけの圧倒的な満足。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "per-",
+					"meaning": "forward, through",
+					"extra": "forming primus"
+				},
+				{
+					"term": "aiw-",
+					"meaning": "vital force, life, long life"
+				}
+			],
+			"points": [
+				"prime, primary, priest（長老＝最初の方の人）, aeon, ever 同根。",
+				"『最初（first）』であることは、同時に『生命の力（vital force）』が最も濃厚であることを意味する。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "inviolate",
+		"word": "Inviolate",
+		"part_of_speech": "adjective",
+		"meaning": "侵されていない、純潔な、汚されていない",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "in-",
+					"type": "prefix",
+					"meaning": "not"
+				},
+				{
+					"text": "violare",
+					"type": "root",
+					"meaning": "to violate (侵す、汚す)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin inviolatus, from in- 'not' + violatus 'violated'."
+		},
+		"core_concept": {
+			"en": "Free or safe from injury or violation",
+			"ja": "他者の手出しや邪悪な意図を一切寄せ付けず、その純粋さや神聖さを『侵される（violate）』ことなく保ち続けている状態。『決して汚してはならない』不可侵の聖域"
+		},
+		"thinking_layer": "『侵されないこと』。バイオレンス（Violence/暴力）の否定。物理的な城壁ではなく、その存在があまりにも尊く、あるいは恐ろしいがゆえに、誰もが立ち入ることを躊躇う精神的な障壁。それは処女的な無垢から、絶対に譲れない個人の矜持、あるいは国家の神聖な国境までを包み込みます。",
+		"aftertaste": "人跡未踏の山頂に、数千年前から降り積もっている雪の、一切の汚れのない純白。あるいは、どれだけ世界に裏切られても、自分の心の奥底で決して手放さない、たった一つの誇り高き沈黙。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "wei-",
+					"meaning": "vital force, power (forming violent/forceful)"
+				}
+			],
+			"points": [
+				"violate, violence, vigor, virtue 同根。",
+				"『力（force）』を使って『神聖さ』を侵すことがバイオレーション。それに対する理性の『拒絶（in-）』がインバイオレイト。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
