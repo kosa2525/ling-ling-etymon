@@ -274071,5 +274071,180 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "lymph",
+		"word": "Lymph",
+		"part_of_speech": "noun",
+		"meaning": "リンパ液、透明な水",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "lympha",
+					"type": "root",
+					"meaning": "water, water nymph (水、水の精)', from Latin"
+				}
+			],
+			"original_statement": "From Latin lympha 'water, water nymph'."
+		},
+		"core_concept": {
+			"en": "A colorless fluid containing white blood cells, which bathes the tissues and drains through the lymphatic system into the bloodstream",
+			"ja": "濁（にご）りを排し、純粋な『透明性（clarity）』を全身の隅々にまで行き渡らせる、生命の『静かなる浄化の河』。不純物（waste）を浚（さら）い、免疫という名の正義を運ぶ、知的な『情報の洗浄液』。"
+		},
+		"thinking_layer": "『純粋な水』。リンファティック（Lymphatic/リンパの）、おなじみの「ニムフ（Nymph/精霊）」と同根。語源は「水」。ただの「体液」ではありません。そこには。「外部の汚れを寄せ付けないために、自らの内側を常に『清冽（せいれつ）』に保ち続ける」という、峻烈な純化への意志が宿っています。それは。知性が雑多な情報の中から、ただ一つの「汚れなき真実」を抽出し、それを自らの確固たるアイデンティティとして纏（まと）う瞬間のメタファー。",
+		"aftertaste": "「リンパ（lymph）」の流れが、滞ることなく全身を巡り、自分という存在を内側から「浄化」してゆく、その静かなる仕事人の手際に想いを馳せ、深い感謝に満たされる、あの知的な平安。あるいは、自分の言葉もまた、この「リンファ」のように、装飾を削ぎ落とした純粋な真理だけを伝え、受け取る人の心を清らかな夜明け（dawn）へと導くものでありたい、と願う、あの静かな午後の自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "nebh-",
+					"meaning": "cloud, water, mist (forming nympha?)"
+				}
+			],
+			"points": [
+				"nymph, nebula, nebulous, lymph 同根。",
+				"『水（water）』は万物の母であり、同時にすべてを押し流す破壊者でもある。リンパという言葉には、生命がいかにして『流動（flow）』を自らの制御（control）の下に置き、そこから秩序（order）を生み出してきたかという、物理的な英断が刻まれている。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "capillary",
+		"word": "Capillary",
+		"part_of_speech": "noun",
+		"meaning": "毛細血管、毛管",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "capillus",
+					"type": "root",
+					"meaning": "hair (髪の毛)', from Latin caput 'head'"
+				}
+			],
+			"original_statement": "From Latin capillaris, from capillus 'hair'."
+		},
+		"core_concept": {
+			"en": "Any of the fine branching blood vessels that form a network between the arterioles and venules",
+			"ja": "髪の毛一本ほどの微細（microscopic）な隙間にまで忍び込み、情報の最果てへと生命を繋ぐ『情報の毛細管』。どんなに些細な細胞（個）も見捨てず、全体という名の『熱量』を届け続ける、知的な『奉仕の末端』。"
+		},
+		"thinking_layer": "『髪の毛のようなもの』。キャピタル（Capital/首都、頭の）、キャプテン（Captain/頭領）、おなじみの「ケープ（Cape/岬＝頭）」と同根。語源は「髪の毛」。ただの「血管」ではありません。そこには。「大きな流れ（artery）だけでは届かない場所に、いかにして『意味（oxygen）』を運び込むか」という、峻烈なラストワンマイルの意志が宿っています。それは。知性が壮大な理論の陰に隠れた、最も些細で、しかし決定的な「事実の断片」に光を当て、それを全体へと統合してゆく瞬間の、静かなる献身。 ",
+		"aftertaste": "無数の「毛細血管（capillary）」が、自分の身体の隅々で、一秒も休むことなく酸素を運び続けている、その圧倒的な「微細な正義」に畏怖を覚え、自分という大きな物語がいかに「小さな犠牲の集積」であるかを知り、背筋が伸びる、あの峻烈な一呼吸。あるいは、自分の言葉もまた、この「カピラリー」のように、人々の心の奥底にある、まだ誰にも見つかっていない「震えるような本音」にそっと寄り添い、そこに新しい希望という名の「酸素」を届けるものでありたい、と願う、あの静かな午後の自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kaput-",
+					"meaning": "head (forming capillus)"
+				}
+			],
+			"points": [
+				"cap, capital, achieve, cabbage, chapter, cattle 同根。",
+				"『頭（head）』から生える『髪（hair）』。この言葉には、生命がいかにして、自らの中心（core）にあるエネルギーを、最も周辺的な（marginal）場所へと、形（structure）を変えながら伝播（distribution）させてきたかという、分配の工学が刻まれている。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "artery",
+		"word": "Artery",
+		"part_of_speech": "noun",
+		"meaning": "動脈、基幹ルート、幹線",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "arteria",
+					"type": "root",
+					"meaning": "windpipe, artery (気管、動脈)', from Greek aeirein 'to raise, lift'"
+				}
+			],
+			"original_statement": "From Greek arteria, originally meaning 'windpipe'."
+		},
+		"core_concept": {
+			"en": "Any of the muscular-walled tubes forming part of the circulation system by which blood (mainly that which has been oxygenated) is conveyed from the heart to all parts of the body",
+			"ja": "心臓という名の『意志の鼓動』を、震撼（shaking）するような熱量と共に全身に叩き込む、不屈の『情報の幹線（mainline）』。死後、空洞となることで『風（pneuma/spirit）』を運ぶと信じられた、生命の『霊的な回廊』。"
+		},
+		"thinking_layer": "『持ち上げるもの（気管）』。アオルト（Aorta/大動脈）、エア（Air/空気）と同根の説あり。語源は「気管」。ただの「管（tube）」ではありません。そこには。「自らの内なる熱を逃さぬよう、厚い筋肉の壁（wall）で覆い、強固な防壁（fortress）として機能させる」という、峻烈な防衛本能が宿っています。それは。知性が自らの核となる「最重要のメッセージ」を、いかなる外部の圧力にも屈することなく、最短距離で世界へと突き刺そうとする瞬間のメタファー。",
+		"aftertaste": "自分の手首に触れ、ドクドクと力強く脈打つ「動脈（artery）」の、その圧倒的な「生のリアリティ」に震え、自分は今、この瞬間、たしかに「生きている」のだという、根源的な自明性に打ち震える、あの峻烈な一呼吸。あるいは、自分の言葉もまた、この「アーテリー」のように、人々の心の中にある「真実の熱」を呼び起こし、世界をより鮮やかに、より激しく脈動させるための「生命の導火線」でありたい、と願う、あの静かな午後の自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "wer-",
+					"meaning": "to raise, lift, hold up (forming aeirein)"
+				}
+			],
+			"points": [
+				"aorta, aerosol, air 同根。",
+				"『持ち上げる（lifting）』ことは、そこに『空間（void）』を作ること。かつての解剖学者が、死体の動脈が空っぽ（empty）であるのを見て、そこに生命の息吹（pneuma）が通っていると考えたという、誤謬さえも取り込んだ重層的な美学。アーテリーは、生命がいかにして『目に見えないエネルギー』を、物理的な『形』へと封じ込めてきたかという、情報の結晶化の記録である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "vein",
+		"word": "Vein",
+		"part_of_speech": "noun",
+		"meaning": "静脈、鉱脈、木目、気質",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "vena",
+					"type": "root",
+					"meaning": "blood vessel, water-course (血管、水路)', from Latin"
+				}
+			],
+			"original_statement": "From Latin vena 'blood vessel'."
+		},
+		"core_concept": {
+			"en": "Any of the tubes forming part of the blood circulation system of the body, carrying in most cases oxygen-depleted blood toward the heart",
+			"ja": "役目を終えた熱量を、静寂の淵（shallows）から再び中心へと引き戻す『帰還の路（return path）』。表面の皮膚の下で青く透き通り、自らの『真の気質（inner tone）』を沈黙のうちに語り続ける、知的な『地下の回廊』。"
+		},
+		"thinking_layer": "『血管、水路』。ヴィーナス（Venus/とは関係なく）、おなじみ「カナル（Canal/運河）」とは別。語源は「血管」。ただの「管」ではありません。そこには。「どんなに疲れ果てた情報（deoxygenated blood）も、一度中心に戻れば、再び新しい力（oxygen）を獲得できる」という、無限のリサイクルの意志が宿っています。それは。知性が傷ついた自らのアイディアを、内省という名の「故郷（heart）」へと連れ戻し、そこで静かに「再起」の時を待つプロセスの象徴。",
+		"aftertaste": "手の甲に青く浮き出る「静脈（vein）」の、その繊細でどこか儚（はかな）げな「網目模様」を眺め、自分という存在がいかに「過去の物語（history）」を大切に抱えながら生きているかを知り、深い情愛を覚える、あの知的な平安。あるいは、自分の言葉もまた、この「ヴェイン」のように、人々の心の奥底に眠る「真の気質」をそっと揺り動かし、忘れ去られていた「本質的な美しさ」を再び表舞台へと引き出すものでありたい、と願う、あの静かな夜の自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "wegwh-",
+					"meaning": "to flow, run (forming vena?)"
+				}
+			],
+			"points": [
+				"vain, vanity（？） 同根の説あるが希薄。むしろ we-（風、吹く）との関連が示唆されることもある。",
+				"『流れる（flowing）』ことは、自らを更新し続けることである。ヴェインという言葉には、生命がいかにして、絶え間ない『循環』の中に自らの不変の核心を見出してきたかという、矛盾する真理の調和が刻まれている。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "sinus",
+		"word": "Sinus",
+		"part_of_speech": "noun",
+		"meaning": "副鼻腔、洞（どう）、湾、心窩部",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "sinus",
+					"type": "root",
+					"meaning": "a curve, fold, hollow, bosom (曲がり、折り目、空洞、胸)', from Latin"
+				}
+			],
+			"original_statement": "From Latin sinus 'a curve, bend, hollow'."
+		},
+		"core_concept": {
+			"en": "A cavity within a bone or other tissue, especially one in the bones of the face or skull connecting with the nasal cavities",
+			"ja": "固体の中心にひっそりと拓かれた、深淵なる『空虚の湾』。外部の冷気を自らの『体温』へと適応させるための、知的な『緩衝の迷宮』。自らの奥深くに、あえて『無』を宿すことで、全体の重圧を和らげる、防衛の空洞。"
+		},
+		"thinking_layer": "『曲がり、折り目』。サイン（Sine/正弦）、インシニュエイト（Insinuate/仄めかす＝曲がって入る）、おなじみの「サイン（Sign/印）」とは全く別。語源は「湾、折り目、懐」。ただの「穴（hole）」ではありません。そこには。「真っ直ぐではなく、あえて『迂回（detour）』させることで、衝撃を吸収し、情報を自らの波長（frequency）へと同調させる」という、峻烈な適応の知恵が宿っています。それは。知性が他者の激しい主張を、自らの中の「内なる湾」に一旦預かり、そこで優雅に解読（decode）し、自らの糧へと変えてゆく瞬間のメタファー。",
+		"aftertaste": "「副鼻腔（sinus）」に響く自分の声の「反響（resonance）」に、自分という存在がいかに「複雑な構造体」であり、その中心には常に「沈黙を響かせるための空間」が用意されているのだと知り、深い畏敬を覚える、あの知的な平安。あるいは、自分の思考もまた、この「サイナス」のように、既成概念の壁の中に、常に新しい「自由な空虚」を設け続け、どんなに過酷な現実の中でも、自らの「魂の呼吸」を絶やさないものでありたいと願う、あの静かな午後の自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sei-",
+					"meaning": "to bend, turn (forming sinus)"
+				}
+			],
+			"points": [
+				"sine, insinuate, sinusoid 同根。",
+				"『曲がる（bending）』ことは、直撃（direct hit）を避けるための防衛術である。サイナスという言葉には、生命がいかにして、自らの『弱さ（空洞）』を、情報を処理し、環境に適応するための『強さ（迷宮）』へと転換してきたかという、物理的な逆説が封印されている。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
