@@ -275138,5 +275138,175 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "vagus",
+		"word": "Vagus",
+		"part_of_speech": "noun",
+		"meaning": "迷走神経（めいそうしんけい）、ヴァガス、さまようもの",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "vagus",
+					"type": "root",
+					"meaning": "wandering, strolling (さまよう、散歩する)', from Latin"
+				}
+			],
+			"original_statement": "From Latin vagus 'wandering'."
+		},
+		"core_concept": {
+			"en": "Each of the tenth pair of cranial nerves, supplying the heart, lungs, upper digestive tract, and other organs of the chest and abdomen",
+			"ja": "脳という名の『中枢』を離れ、全身の臓器の深淵をあてもなくさまよう（wandering）、知的な『放浪の使者』。特定の目的に縛られず、ただ静かに世界の鼓動（viscera）を聞き届ける、生命の『情報の巡礼者』。"
+		},
+		"thinking_layer": "『さまようもの』。ヴォーグ（Vogue/流行＝流れるもの）、ヴァーガント（Vagrant/放浪者）、おなじみの「ベイグ（Vague/曖昧な＝定まらない）」と同根。語源は「放浪」。ただの「神経」ではありません。そこには。「最短距離で結ぶ（straight line）のではなく、あえて複雑な迷宮を『散策（strolling）』することで、全体を一つの調和（homeostasis）へと繋ぎ止める」という、峻烈な中庸の知恵が宿っています。それは。知性が一つの正解に固執せず、あえて「迷い」や「余白」を自らの中に宿すことで、より広大で深い真理（truth）を統合してゆく瞬間のメタファー。",
+		"aftertaste": "自分の身体の奥深くを、この「迷走神経（vagus）」が静かに這（は）い回り、心臓や胃腸を優しく律動させている神秘に想いを馳せ、自分という存在がいかに「自由な流動（vagueness）」によって支えられているかを知り、深い安堵を覚える、あの知的な平安。あるいは、自分の思考もまた、この「ヴァガス」のように、固定観念という名の「城壁」を越え、未知の領域を勇敢にさまよい、新しい「意味の発見」を繰り返す不屈の放浪者でありたいと願う、あの静かな午後の自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "wag-",
+					"meaning": "to wander (forming vagus)"
+				}
+			],
+			"points": [
+				"vague, vagary, vagabond, extravagance 同根。",
+				"『さまよう（wandering）』ことは、情報を『収集（scouting）』することである。迷走神経という言葉には、生命がいかにして、単なる『命令（order）』の系統から、広範な『対話（interaction）』という高次の通信システムへと進化してきたかという、民主的なガバナンスの歴史が刻印されている。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "vestibular",
+		"word": "Vestibular",
+		"part_of_speech": "adj",
+		"meaning": "前庭の（ぜんていの）、入り口の、ヴェスティブラ",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "vestibulum",
+					"type": "root",
+					"meaning": "entrance hall, porch (玄関、ポーチ)', from Latin"
+				}
+			],
+			"original_statement": "From Latin vestibulum 'entrance hall'."
+		},
+		"core_concept": {
+			"en": "Relating to a vestibule, particularly that of the inner ear, or more broadly, the sense of balance",
+			"ja": "世界という名の激しい嵐の中に立ちながら、自らの中心（center）を不動に保つための『情報の玄関口』。重力という名の『見えない垂直線』を峻烈に感知（sensing）し、均衡（equilibrium）という美徳を死守する、知的な『直立の祭壇』。"
+		},
+		"thinking_layer": "『玄関ホールの』。ベスト（Vest/チョッキ＝体に近いもの）、おなじみの「インベスト（Invest/投資する＝服を着せる）」と同根。語源は「玄関、控えの間」。ただの「感覚」ではありません。そこには。「外界（world）へと踏み出す直前の、最も静寂が必要な場所（entrance）において、自らの『立ち位置（posture）』を厳格に問う」という、峻烈な自己確認の意志が宿っています。それは。知性が外部の意見に流される前に、まずは自らの中の「内なる垂直線（inner vertical line）」を正し、誇り高く歩みだそうとする瞬間のメタファー。",
+		"aftertaste": "暗闇の中でも、自分がどちらを向いているのかを教えてくれる「前庭システム（vestibular system）」の、その控えめでありながらも絶対的な「信頼感」に想いを馳せ、自分という存在はいかに「不変の軸（axis）」によって宇宙に繋ぎ止められているかを知り、深い誇りに包まれる、あの知的な平安。あるいは、自分の表現もまた、この「ヴェスティブラ」のように、どんなに激しい時代の変遷に揺さぶられても、常に「真実の重心」を見失わず、揺るぎない安定感によって世界を導くものでありたい、と願う、あの静かな午後の自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "wes-",
+					"meaning": "to clothe (forming vestibulum?)"
+				}
+			],
+			"points": [
+				"vest, invest, travesty, divest 同根。",
+				"『玄関（entrance hall）』は、かつては服（vest）を脱ぎ着するための場所でもあった。前庭という言葉には、生命がいかにして、外部の情報のカオスと、内なる平穏な聖域を、高度な『調整（calibration）』の場によって分かち、そこから『平衡』という名の知性を生み出してきたかという、境界の工学が刻まれている。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "enteric",
+		"word": "Enteric",
+		"part_of_speech": "adj",
+		"meaning": "腸の（ちょうの）、腹の、エンテリック",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "enteron",
+					"type": "root",
+					"meaning": "intestine (腸)', from Greek entos 'within'"
+				}
+			],
+			"original_statement": "From Greek enteron 'intestine', from entos 'within'."
+		},
+		"core_concept": {
+			"en": "Relating to or occurring in the intestines",
+			"ja": "生命の最も深い『内側（within）』に渦巻く、情報の迷宮を司る、知的な『内臓の宇宙』。脳を介さず自律的に判断し（second brain）、大地（food）から智慧（nutrients）を奪還する、生命の『原初の思考』。"
+		},
+		"thinking_layer": "『内側の』。エンタ（Enter/入る）、おなじみの「イントロ（Intro-/内への）」のギリシャ語系と同根。語源は「腸、内側」。ただの「消化器の」ではありません。そこには。「自らの内側にのみ存在する、誰にも侵されない『暗黒の回廊』を築き、世界を自らの色に染め上げる（digestion）」という、峻烈な主体性の意志が宿っています。それは。知性が論理の表層（brain）ではなく、直感や本能（gut feeling）という名の「情報の奥底」において、真実の是非を決定しようとする瞬間のメタファー。",
+		"aftertaste": "自分の「腹（enteric nervous system）」が、第二の脳として密かに自分の運命を司っている神秘に想いを馳せ、自分がいかに「広大な内なる宇宙」を抱えて生きているかを知り、深い驚異を覚える、あの知的な平安。あるいは、自分の思考もまた、この「エンテリック」のように、表層的な理屈に惑わされず、常に「内なる誠実さ」という名の腸の震えを信じ、勇気を持って世界を呑み込み（absorb）、変革（transform）してゆく存在でありたいと願う、あの静かな午後の自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "en-",
+					"meaning": "in (forming entos)"
+				}
+			],
+			"points": [
+				"enter, entrance, entity, internal 同根。",
+				"『内側（within）』にあることは、世界の『中心』になることである。エンテリックという言葉には、生命がいかにして、単なる情報の受け皿（receptacle）から、外部の物質を完全に再構成（reconstruction）し、自らのアイデンティティへと統合する、能動的な『工場』へと進化してきたかという、情報の錬金術が封印されている。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "meninges",
+		"word": "Meninges",
+		"part_of_speech": "noun",
+		"meaning": "髄膜（ずいまく）、脳脊髄膜、メニンジェス",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "meninx",
+					"type": "root",
+					"meaning": "membrane (膜)', from Greek"
+				}
+			],
+			"original_statement": "From Greek meninges, plural of meninx 'membrane'."
+		},
+		"core_concept": {
+			"en": "The three membranes (the dura mater, arachnoid, and pia mater) that line the skull and vertebral canal and enclose the brain and spinal cord",
+			"ja": "最高機密である脳（spirit）を、三層の峻烈な『情報の防壁』で包み込み、外界の衝撃から死守する、絶対的な『守護のヴェール』。硬く（dura）、細かく（arachnoid）、そして優しく（pia）、生命の『中心（kernel）』を隔離する、知的な『三位一体の境界』。"
+		},
+		"thinking_layer": "『膜』。メニンジャイティス（Meningitis/髄膜炎）、おなじみの「メンブレン（Membrane/膜）」の概念的深層。語源は「膜」。ただの「カバー」ではありません。そこには。「最も価値あるものは、重層的な（multilayered）沈黙によってのみ、その真価を守り抜くことができる」という、峻烈な防衛の美学が宿っています。それは。知性が自らの「信念」を世俗の汚濁（infection）から守るために、論理、情熱、そして慈愛という名の「三つの膜」を張り、孤独な聖域を維持しようとする瞬間のメタファー。",
+		"aftertaste": "自分の頭蓋（skull）のすぐ内側で、この「髄膜（meninges）」がいかに強靭に、かつ繊細に自分自身の「意識」を包み込んでいるのかを想い、自分という存在がいかに「守られし者（the protected）」であるかを知り、深い平和に満たされる、あの知的な平安。あるいは、自分の思考もまた、この「メニンジェス」のように、どんなに激しい社会の変遷に晒されても、常に自らの「内なる聖域」を守り抜き、決して真理を傷つけさせない、不屈の「知のバリア」でありたいと願う、あの静かな夜の自尊心。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"デュラ・メーター（Dura mater/硬膜）はラテン語で『硬い母』、ピア・メーター（Pia mater/軟膜）は『敬虔な母』を意味する。この言葉には、脳という究極の『個』を育むための、峻烈で無償の『母性（protection）』という概念が組み込まれている。",
+				"髄膜は脳脊髄液を保持し、脳を浮かせることで自重による崩壊を防いでいる。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "medulla",
+		"word": "Medulla",
+		"part_of_speech": "noun",
+		"meaning": "髄質（ずいしつ）、延髄（えんずい）、髄、メデュラ",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "medulla",
+					"type": "root",
+					"meaning": "marrow, pith, innermost part (髄、芯、最も内側の部分)', from Latin medius 'middle'"
+				}
+			],
+			"original_statement": "From Latin medulla 'marrow, innermost part'."
+		},
+		"core_concept": {
+			"en": "The inner region of an organ or tissue, especially when its structure is distinct from the outer region or cortex",
+			"ja": "物事の最も深い『核心（core）』に宿り、呼吸や心拍という名の『存在の根源』を司る、静かなる『生命の芯』。表層の喧騒（cortex）を支える、不変の『情報の背骨』であり、知的な『沈黙の統治者』。"
+		},
+		"thinking_layer": "『髄、最も内側の部分』。ミドル（Middle/中心）、メディアン（Median/中央値）、おなじみの「メダル（Medal/とは関係なく）」と同根。語源は「真ん中」。ただの「組織」ではありません。そこには。「表舞台の華やかさよりも、目に見えない深層（depth）において、生命の全ての根源（basis）を支える」という、峻烈な誠実さが宿っています。それは。知性が溢れる理論の「枝葉」を払い落とし、ただ一つの「不変の原理（core logic）」へと到達し、そこから世界を再構築しようとする瞬間の、誇り高き一喝。 ",
+		"aftertaste": "自分の脳の最も低い場所、脊髄（spinal cord）へと繋がる「延髄（medulla oblongata）」が、一秒も休むことなく自分の「鼓動」を刻み続けている神秘に打たれ、生きていることの「厳粛（solemnity）」さに襟を正す、あの知的な平安。あるいは、自分の言葉もまた、この「メデュラ」のように、虚飾を廃し、ただ真理の「骨髄（marrow）」だけを人々に伝え、魂の深い場所から生命を呼び覚ますものでありたい、と願う、あの静かな午後の自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "medhyo-",
+					"meaning": "middle (forming medius)"
+				}
+			],
+			"points": [
+				"median, medium, intermediate, medulla 同根。",
+				"『中央（middle）』にあることは、最も『重要（pithy）』であること。メデュラという言葉には、生命がいかにして、外部からのあらゆる衝撃を周辺（cortex）で受け流し、自らの最も神聖な『生命の火』を中心（medulla）に封じ込めて守り抜いてきたかという、防衛の幾何学が封印されている。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
