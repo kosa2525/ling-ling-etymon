@@ -270604,5 +270604,200 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "endothelium",
+		"word": "Endothelium",
+		"part_of_speech": "noun",
+		"meaning": "内皮（ないひ）",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "endo-",
+					"type": "prefix",
+					"meaning": "within (中に)"
+				},
+				{
+					"text": "thēlē",
+					"type": "root",
+					"meaning": "nipple (乳頭、突起)",
+					"lang": "Greek"
+				}
+			],
+			"original_statement": "From Greek endo- 'within' + thēlē 'nipple' (originally referring to the mapping of skin layers)."
+		},
+		"core_concept": {
+			"en": "The tissue which forms a single layer of cells lining the various organs and cavities of the body, especially the blood vessels",
+			"ja": "生命の奔流（blood）と直接触れ合う、最も内側の『境界線』。滑らかな表情で摩擦を消し去り、同時に情報の行き来を完璧に統制する、知的な『分子の門衛』"
+		},
+		"thinking_layer": "『内側の突起（皮膚）』。エピセリウム（Epithelium/上皮）、おなじみの「エンド（内へ）」と同根。語源は「内側の皮（乳頭状の組織）」。ただの「膜」ではありません。そこには。「最も純粋な生（blood）を、外部のノイズから守り抜く」という、聖域（sanctuary）の設計思想が宿っています。それは。知性が自らの核心的なアイディアを、不純な現実から隔離し、磨き上げるプロセスのメタファー。",
+		"aftertaste": "自分の血管のすべてが、この「内皮（endothelium）」という滑らかな絹のような細胞層で覆われているのを想像し、生命というものが、いかに「摩擦（friction）」を極限まで減らそうと努力しているかを知り、深い安堵を覚える、あの知的な平安。あるいは、自分の言葉が、この「エンドセリウム」のように滑らかであり、誰かの心を傷つけることなく、真実を真っ直ぐに届けるための「回廊」でありたいと願う、あの静かな午後の自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "dhē-i-",
+					"meaning": "to suck, suckle (forming thēlē)"
+				}
+			],
+			"points": [
+				"female, fetus, fecund, fellatio（？） 同根。",
+				"『乳頭（nipple）』という語源は、かつて皮膚の突起が組織の基本単位と考えられていた名残である。内皮は、生命がいかにして『内（inner）』という空間を定義し、その品質を極限まで高めてきたかを示す、物質的な証言である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "mesothelium",
+		"word": "Mesothelium",
+		"part_of_speech": "noun",
+		"meaning": "中皮（ちゅうひ）",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "mesos",
+					"type": "root",
+					"meaning": "middle (中間の)",
+					"lang": "Greek"
+				},
+				{
+					"text": "thēlē",
+					"type": "root",
+					"meaning": "nipple, layer (突起、層)",
+					"lang": "Greek"
+				}
+			],
+			"original_statement": "From Greek mesos 'middle' + thēlē 'nipple'."
+		},
+		"core_concept": {
+			"en": "The epithelium that lines the pleura, peritoneum, and pericardium",
+			"ja": "臓器という名の島々を包み込む、滑らかな『沈黙の海』。摩擦を消し去る潤滑液（fluid）を湛え、互いの独立を守りながらも一つの身体を調和させる、知的な『中継の層』"
+		},
+		"thinking_layer": "『中間の層』。メソポタミア（Mesopotamia/川の間の地）、メゾ（Mezzo/中間の）、おなじみの「セリウム（層、皮）」と同根。語源は「中間の皮」。ただの「膜」ではありません。そこには。「個別の存在を優しく隔離し、同時に全体のダイナミズムを支える」という、高度な政治的配慮のような響きが宿っています。それは。知性が相反するアイディア同士を、直接衝突させることなく共存させるための、クッションのような「緩衝地帯（buffer zone）」。",
+		"aftertaste": "胸の中で肺や心臓が動くたび、この「中皮（mesothelium）」が静かに滑り、音のない摩擦を吸収している様子を想い、生命がいかに「気配り」の行き届いた設計（design）の上に成り立っているかを痛感する、あの知的な平安。あるいは、自分の知識が、この「メソセリウム」のように、バラバラなアイディア同士を滑らかに繋ぐ「潤滑油（lubricant）」となって、世界に平穏をもたらすことを夢見る、あの静かな夜の自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "medhyo-",
+					"meaning": "middle (forming mesos)"
+				}
+			],
+			"points": [
+				"middle, mean, immediate, mediterranean 同根。",
+				"『中間（middle）』であることは、主体的に何もしないことではなく、両者を『関係づける』という最も困難な仕事を担当することである。メソセリウムは、生命における平和主義の化学的な体現である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "parietal",
+		"word": "Parietal",
+		"part_of_speech": "adjective",
+		"meaning": "壁の、体壁の、頭頂の、学寮生活の（規則など）",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "paries",
+					"type": "root",
+					"meaning": "wall (壁)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin parietalis, from paries 'wall'."
+		},
+		"core_concept": {
+			"en": "Of, relating to, or forming the walls of a cavity; relating to the parietal bone",
+			"ja": "空間を画定し、内なる聖域を守る強固な『壁（wall）』としての意志。広大なカオスを遮断し、自らが支配する『領域（precinct）』を打ち立てる、知的な『境界の構築』"
+		},
+		"thinking_layer": "『壁の』。パリ（Paris/とは関係なく）、パーティション（Partition/とは関係なく）、おなじみの「ウォール（Wall）」とは語源が異なるラテン語系。語源は「壁」。ただの「仕切り」ではありません。そこには。「ここから先は私の場所である」という、峻烈なアイデンティティの主張が宿っています。それは。知性が真理を記述するために、あえて現実を「分画（segmentation）」し、管理可能な構造を与えようとする瞬間のメタファー。 ",
+		"aftertaste": "自分の頭蓋骨の一部である「頭頂骨（parietal bone）」を指でなぞり、それが自分の脳という「最も壊れやすい真実」を、この「壁（parietal）」の意志によって守り抜いていることに、深い感謝と、閉じ込められていることの微かな「孤独」を感じる、あの峻烈な一体感。あるいは、自分の理論が、この「パリエタル」な強度を持ち、外部の批判という名の嵐（storm）に耐える、難攻不落の「城壁」であることを誇る、あの静かな午後の自尊心。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"『壁（wall）』は守るものであると同時に、視界を遮るものでもある。パリエタル（parietal）という言葉には、生命が自らの安全を確保するために支払った、世界との『断絶』という代償の重みが刻まれている。",
+				"学寮生活の門限などの規則を指す言葉としても使われるのは、まさにこの『壁の内側（規則が及ぶ範囲）』という概念から来ている。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "stroma",
+		"word": "Stroma",
+		"part_of_speech": "noun",
+		"meaning": "間質（かんしつ）、（葉緑体などの）基質、敷物",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "stroma",
+					"type": "root",
+					"meaning": "bed, mattress, bedding (敷物、ベッド)', from Greek strōnnunai 'to spread out'"
+				}
+			],
+			"original_statement": "From Greek strōma 'bedding', from strōnnunai 'to spread out'."
+		},
+		"core_concept": {
+			"en": "The supportive framework of a biological cell, tissue, or organ; the colorless fluid surrounding the grana within the chloroplast",
+			"ja": "宝石（parenchyma）を支え、輝かせるための、質実剛健な『敷物（bedding）』。自らは主役（functional part）ではなくとも、その存在なしには一秒たりとも全体が成立し得ない、慈悲深い『背景としての構造』"
+		},
+		"thinking_layer": "『広げられた敷物』。ストラタム（Stratum/層）、ストリート（Street/広げられた道）、おなじみの「ストラクチャー（Structure/構造）」と同根。語源は「敷物」。ただの「結合組織」ではありません。そこには。「華やかな機能の裏側で、黙々と全体を養い、支え続ける」という、献身的な土台（foundation）の美学が宿っています。それは。知性が一つの答えを出すために、背後で静かに積み重ねてきた、膨大な「前提条件（preconditions）」のメタファー。",
+		"aftertaste": "顕微鏡の中で、機能的な細胞たちの隙間（gap）を埋める、この「間質（stroma）」の強靭な網目を見つめ、目に見える「成果」よりも、それを支える「目に見えない努力」の方がはるかに巨大であることに気づき、深い謙虚さを覚える、あの知的な平安。あるいは、自分の思考が、この「ストローマ」のように、誰かの輝きを支えるための「確かな足場」となり、その人の人生のために「最高の舞台」を整えることを幸福に思う、あの静かな午後の自負。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ster-",
+					"meaning": "to spread (forming strōma)"
+				}
+			],
+			"points": [
+				"stereo, industry, sternum 同根。",
+				"『広げる（spreading）』ことは、空間を等しく支配することである。ストローマは、生命がいかにして自らの中に『平面的な安定』を築き上げ、その上に複雑な三次元のドラマを展開させてきたかを示す、土木工学的な建築である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "parenchyma",
+		"word": "Parenchyma",
+		"part_of_speech": "noun",
+		"meaning": "実質（じっしつ）、柔組織",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "para-",
+					"type": "prefix",
+					"meaning": "beside (傍らに)"
+				},
+				{
+					"text": "en-",
+					"type": "prefix",
+					"meaning": "in (中に)"
+				},
+				{
+					"text": "khein",
+					"type": "root",
+					"meaning": "to pour (注ぐ)",
+					"lang": "Greek"
+				}
+			],
+			"original_statement": "From Greek parenkhuma 'something poured in beside', from para- 'beside' + en- 'in' + khein 'pour'."
+		},
+		"core_concept": {
+			"en": "The functional tissue of an organ as distinguished from the connective or supportive tissue (stroma)",
+			"ja": "構造の隙間へと『注ぎ込まれた（poured in）』、最も瑞々（みずみず）しい機能の核心。生命の本質的な仕事（代謝、思考、活動）を一身に担う、主役としての『生きた内容物』"
+		},
+		"thinking_layer": "『傍らに注ぎ込まれたもの』。フューズ（Fuse/溶ける、注ぐ）、おなじみ「パラ（傍らに）」と同根。語源は「中に注ぎ込まれたもの」。ただの「中身」ではありません。そこには。「器（stroma）があって初めて、自らの役割を果たすことができる」という、構造と機能の幸福な共存が宿っています。それは。知性が理論（frame）という器の中に、血の通った「真実（truth）」を注ぎ込み、命を吹き込む瞬間のメタファー。",
+		"aftertaste": "臓器のしなやかな手応えの中に、この「実質（parenchyma）」が湛（たた）えている情報の密度の濃さを想い、自分という存在が、単なる抜け殻ではなく、確かな「中身」を持った存在であることに、震えるような生命の実感を覚える、あの峻烈な一呼吸。あるいは、自分の言葉が、この「パレンキマ」のように、誰かの空虚な形式（form）の中に注ぎ込まれ、そこを「意味のある場所」へと変容させる力となりたいと願う、あの静かな夜の自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "gheu-",
+					"meaning": "to pour (forming khein)"
+				}
+			],
+			"points": [
+				"fusion, confuse, diffuse, gush 同根。",
+				"『注ぐ（pouring）』という言葉の裏には、流動性が形を成すことへの畏怖がある。パレンキマは、生命がいかにして『流れるもの（liquid）』を、一つの固定された『目的』へと収束（convergence）させてきたかを示す、奇跡的な固定化（fixation）の記録である。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
