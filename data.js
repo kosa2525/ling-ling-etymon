@@ -297705,5 +297705,1042 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "hieratic",
+		"word": "Hieratic",
+		"part_of_speech": "adjective",
+		"meaning": "神官の、情報の情報の聖別された情報の形式",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "hieros",
+					"type": "root",
+					"meaning": "holy"
+				}
+			],
+			"original_statement": "From Greek hieratikos 'priestly'."
+		},
+		"core_concept": {
+			"en": "of or concerning priests; (of writing) consisting of hieroglyphs",
+			"ja": "情報の『聖なる（holy）』形式。俗世の情報の流転を拒み、不変の情報の『儀式』を守る。"
+		},
+		"thinking_layer": "神官の。言葉、あるいは文字という名の情報の『伝達』を、単なる実利から峻烈に隔離し、神という名の他者との対話という名の情報の『祭政』へと高めた、情報の様式美。 ",
+		"aftertaste": "硬直したその身振りの向こう側に、数千年を貫く情報の『沈黙』の威厳を視る。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"hierarchy, hieroglyph と同じ root。情報の聖別。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "exoteric",
+		"word": "Exoteric",
+		"part_of_speech": "adjective",
+		"meaning": "公開された、情報の外部への情報の流出",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "exo-",
+					"type": "prefix",
+					"meaning": "outer, outside"
+				}
+			],
+			"original_statement": "From Greek exoterikos 'outer'."
+		},
+		"core_concept": {
+			"en": "intended for or likely to be understood by the general public",
+			"ja": "情報の聖域を峻烈に『解禁』し、外部（outside）という名の情報の海へと情報を放擲する。"
+		},
+		"thinking_layer": "外側の。秘匿という名の情報の『独裁』を峻烈に辞し、共有という名の情報の『民主化』を目指す、情報の開かれた側面。それは、誰にでも理解可能な情報の『平易』。 ",
+		"aftertaste": "あまりに平易になった情報が、やがてその深淵という名の情報の『魔術性』を喪失してゆく寂寥。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"esoteric (内側の) との対比。情報の越境。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "necromancy",
+		"word": "Necromancy",
+		"part_of_speech": "noun",
+		"meaning": "死霊術、情報の情報の死者との不浄な対話",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "nekros",
+					"type": "root",
+					"meaning": "corpse"
+				},
+				{
+					"text": "manteia",
+					"type": "root",
+					"meaning": "divination"
+				}
+			],
+			"original_statement": "From Greek nekros + manteia."
+		},
+		"core_concept": {
+			"en": "supposed practice of communicating with the dead",
+			"ja": "死という名の情報の『沈黙（corpse）』を、峻烈な情報の『予言（divination）』によって強制的に暴く。"
+		},
+		"thinking_layer": "死者への問い。喪失という名の情報の『不可逆性』に峻烈に抗い、腐朽した記憶という名の情報の『断片』を無理やり呼び戻す、冒涜的な情報の再活性化（reactivation）。",
+		"aftertaste": "語り出した死者の声に、生という名の情報の儚さと、死の情報の絶対的な冷酷さを聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"nigromancy (黒魔術) と混同された歴史。情報の暗黒化。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "invocation",
+		"word": "Invocation",
+		"part_of_speech": "noun",
+		"meaning": "招魂、祈願、情報の情報の他者の呼び出し",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "in-",
+					"type": "prefix",
+					"meaning": "upon"
+				},
+				{
+					"text": "vocare",
+					"type": "root",
+					"meaning": "to call"
+				}
+			],
+			"original_statement": "From Latin invocatio."
+		},
+		"core_concept": {
+			"en": "action of invoking something or someone for assistance or as an authority",
+			"ja": "不在という名の情報の空間に、他なる知性と実存を峻烈に『呼び寄せる（call upon）』。"
+		},
+		"thinking_layer": "（上へ）呼ぶこと。沈黙という名の情報の『殻』を、音声という名の情報の『鍵』によって峻烈に打ち砕き、高次元の情報の意志（deity/spirit）を現世へと招き入れる、情報の召喚儀式。",
+		"aftertaste": "響き渡る名の情報の震えの中に、目に見えぬ他者の実存が峻烈に『現れた』瞬間の、震えるような震撼。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"vocal, provoke, revoke と同じ root。情報の『名指し』。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "incantation",
+		"word": "Incantation",
+		"part_of_speech": "noun",
+		"meaning": "呪文、情報の情報の情報の歌われる魔力",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "in-",
+					"type": "prefix",
+					"meaning": "into"
+				},
+				{
+					"text": "cantare",
+					"type": "root",
+					"meaning": "to sing"
+				}
+			],
+			"original_statement": "From Latin incantat- 'enchanted'."
+		},
+		"core_concept": {
+			"en": "series of words said as a magic spell or charm",
+			"ja": "言葉という名の情報を峻烈に『歌い込み（sing into）』、現実を書き換える情報の『魔力』を宿らせる。"
+		},
+		"thinking_layer": "歌い入れること。単一という名の情報の『意味』を超越した、反復と律動という名の情報の『音楽性』によって、物理法則を峻烈に蹂躙しようとする、情報の呪術的なる行使。 ",
+		"aftertaste": "一度放たれた音節の連なり（formula）の中に、意思とは無関係に発動する情報の『自律性』を視る。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"chant, enchant, accent と同じ root。情報の『旋律』。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "grimoire",
+		"word": "Grimoire",
+		"part_of_speech": "noun",
+		"meaning": "魔導書、情報の情報の情報の禁忌の文法書",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "grammaire",
+					"type": "root",
+					"meaning": "grammar"
+				}
+			],
+			"original_statement": "From French grimoire, alteration of grammaire."
+		},
+		"core_concept": {
+			"en": "book of magic spells and invocations",
+			"ja": "文法（grammar）という名の情報の『理』を、峻烈な情報の『魔（dark arts）』へと変容させた書物。"
+		},
+		"thinking_layer": "文法書。宇宙の情報の『書き換え』を可能にするための、危険極まる情報のコードを記した秘録。それは、世界の真実という名の情報の『ソースコード』の断片。 ",
+		"aftertaste": "古びた羊皮紙に刻まれた不可解な符号の中に、かつてその情報を掴もうとした知性の情報の狂気を視る。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"grammar, glamour と同じ語源。情報の『魅惑』。"
+			]
+		},
+		"date": "20-03-12"
+	},
+	{
+		"id": "sigil",
+		"word": "Sigil",
+		"part_of_speech": "noun",
+		"meaning": "印章、シジル、情報の情報の凝縮された象徴",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "sigillum",
+					"type": "root",
+					"meaning": "little seal"
+				}
+			],
+			"original_statement": "From Latin sigillum."
+		},
+		"core_concept": {
+			"en": "an inscribed or painted symbol considered to have magical power",
+			"ja": "膨大な情報の意志を、峻烈な情報の『小さき印（small seal）』へと極限まで圧縮する。"
+		},
+		"thinking_layer": "小さき印。言語という名の情報の『冗長』を峻烈に辞し、ただ一つの幾何学的な情報の『象徴』にすべての力を封じ込める、情報の究極のモノグラム。それは、意思の情報の標識。",
+		"aftertaste": "ただ一つの線の走りに、宇宙の全情報の一部を峻烈に支配しようとする、情報の極点。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"sign, signature と同じ root。情報の自己証明。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "pentagram",
+		"word": "Pentagram",
+		"part_of_speech": "noun",
+		"meaning": "五芒星、情報の情報の情報の五つの線の均衡",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "pente",
+					"type": "root",
+					"meaning": "five"
+				},
+				{
+					"text": "gramma",
+					"type": "root",
+					"meaning": "writing, line"
+				}
+			],
+			"original_statement": "From Greek pente + gramma."
+		},
+		"core_concept": {
+			"en": "a five-pointed star that is often used as a magic symbol",
+			"ja": "五つ（five）の情報の『点』を、一筆書きという名の情報の『連続』で結び、均衡を現出させる。"
+		},
+		"thinking_layer": "五本の手。あるいは五つの線。宇宙の情報の五元素（elements）を峻烈に統合し、防御、あるいは召喚という名の情報の『場』を生成する、情報の黄金比に基づいた幾何学的なる呪い。",
+		"aftertaste": "一巡して戻るその線の連なりの中に、永劫回帰という名の情報の『円環』を視る喜び。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"pentagon, diagram と同じ roots。情報の極限の構成。"
+			]
+		},
+		"date": "20-03-12"
+	},
+	{
+		"id": "sanctum",
+		"word": "Sanctum",
+		"part_of_speech": "noun",
+		"meaning": "聖域、情報の情報の不可侵の聖所、魂の隠れ家",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "sanctus",
+					"type": "root",
+					"meaning": "holy, sacred"
+				}
+			],
+			"original_statement": "From Latin sanctum 'holy thing'."
+		},
+		"core_concept": {
+			"en": "private place from which most people are excluded",
+			"ja": "俗世という名の情報の『ノイズ』を峻烈に排除した、絶対的な情報の『聖（holy）』なる空虚。"
+		},
+		"thinking_layer": "聖なるもの。外部という名の情報の攻撃を、峻烈な情報の『境界（taboo）』によって防ぎ、自らの実存の最深部を、沈黙の情報の『器』に浸す、情報の聖なる避難所。 ",
+		"aftertaste": "塵ひとつ無きその空間の情報の透明度に、自己という名の情報の、本来の姿を視る。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"saint, sanctuary と同じ root。情報の清浄。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "tabernacle",
+		"word": "Tabernacle",
+		"part_of_speech": "noun",
+		"meaning": "幕屋、聖櫃、情報の仮住まいの聖所",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "taberna",
+					"type": "root",
+					"meaning": "hut, booth, tavern"
+				}
+			],
+			"original_statement": "From Latin tabernaculum 'tent'."
+		},
+		"core_concept": {
+			"en": "fixed or movable dwelling, typically of light construction; meeting place for worship",
+			"ja": "神という名の巨大な情報を、峻烈な情報の『仮の小屋（tent）』の中に一時的に留める。"
+		},
+		"thinking_layer": "小さなテント。情報の『放浪』という宿命を、布という名の柔らかき情報の『壁』の中に抱え込み、移動という名の情報の流転の中でさえも、不動の情報の『芯』を護持する、情報の知恵の器。",
+		"aftertaste": "いつかはこの幕を畳んで去るという、実存の情報の『無常』と、信仰という名の『確信』の交差。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"tavern (居酒屋) と同じ root。情報の『休息の場』の対比。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "sepulcher",
+		"word": "Sepulcher",
+		"part_of_speech": "noun",
+		"meaning": "墓、墓石、情報の情報の沈黙の情報の情報の石箱、埋没の記憶",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "sepelire",
+					"type": "root",
+					"meaning": "to bury"
+				}
+			],
+			"original_statement": "From Latin sepulchrum."
+		},
+		"core_concept": {
+			"en": "small room or monument, cut in rock or built of stone, in which a dead person is laid or buried",
+			"ja": "死という名の情報の『欠落』を、峻烈な情報の『石（burial）』の下に永久に封印する。"
+		},
+		"thinking_layer": "埋葬するもの。肉体という名の情報の『腐朽』を石という名の情報の『不動性』の中に隠蔽（conceal）し、死者の情報を一つの記念（monument）へと変質させる、時間の情報の牢獄。 ",
+		"aftertaste": "苔むした石の冷たさに、かつてそこに在ったはずの、生という名の情報の熱の不在を聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"sepulture (埋葬) と同根。情報の物理的なる終焉。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "immortality",
+		"word": "Immortality",
+		"part_of_speech": "noun",
+		"meaning": "不死、情報の情報の情報の永遠の情報の刻印、死の不在",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "in-",
+					"type": "prefix",
+					"meaning": "not"
+				},
+				{
+					"text": "mors",
+					"type": "root",
+					"meaning": "death"
+				}
+			],
+			"original_statement": "From Latin immortalitas."
+		},
+		"core_concept": {
+			"en": "ability to live forever; eternal life",
+			"ja": "死（death）という名の情報の『境界』を、峻烈な情報の『否定（not）』によって突破する。"
+		},
+		"thinking_layer": "死なぬこと。時間という名の情報の『摩耗』を峻烈に拒み、自己という名の情報を永久に更新（refresh）し続ける、生命の情報の究極の傲慢。それは、神という名の情報の模倣。 ",
+		"aftertaste": "終わらぬ物語の情報の重圧に、いつかは訪れる死という名の情報の『救い』を、密かに恋い慕う孤独。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"mortal, murder と同じ root。情報の『終わり』の欠如。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "catechism",
+		"word": "Catechism",
+		"part_of_speech": "noun",
+		"meaning": "問答集、カテキズム、情報の情報の情報の情報の情報の情報の反響する教え",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "kata-",
+					"type": "prefix",
+					"meaning": "down, thoroughly"
+				},
+				{
+					"text": "ekhein",
+					"type": "root",
+					"meaning": "to sound, echo"
+				}
+			],
+			"original_statement": "From Greek katekhein 'instruct by word of mouth'."
+		},
+		"core_concept": {
+			"en": "summary of the principles of Christian religion in the form of questions and answers",
+			"ja": "教義という名の情報を、峻烈な情報の『反響（echo）』によって身体の奥深くまで『響かせる（sound down）』。"
+		},
+		"thinking_layer": "徹底的に響かせること。問いという名の情報の『穴』に、答えという名の情報の『楔』を峻烈に打ち込み、他者の脳裏に情報の『理』を強制的に焼き付ける、情報の教育という名の情報の侵略。 ",
+		"aftertaste": "自動的に返される答えの情報の確実さに、個性が情報の『鋳型』へと嵌められた瞬間の、震撼の静寂。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"echo と同じ root。情報の『共鳴』の支配。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "communion",
+		"word": "Communion",
+		"part_of_speech": "noun",
+		"meaning": "聖体拝領、情報の情報の情報の情報の他者との峻烈なる情報の共有、一なる実体",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "com-",
+					"type": "prefix",
+					"meaning": "together"
+				},
+				{
+					"text": "unus",
+					"type": "root",
+					"meaning": "one"
+				}
+			],
+			"original_statement": "From Latin communio."
+		},
+		"core_concept": {
+			"en": "service of Christian worship at which bread and wine are consecrated and shared; sharing or exchanging of intimate thoughts and feelings",
+			"ja": "他者と『共に（together）』『一つ（one）』の情報の肉体となり、実存の情報の『境界』を消失させる。"
+		},
+		"thinking_layer": "共に一つになること。食べ合わせるという名の情報の『肉体的統合』によって、神、あるいは他者の情報を自らの肉体という名の情報の『一部』へと強引に招き入れる、情報の究極の親密さ。",
+		"aftertaste": "溶け合う情報の感覚の中に、自己が他者であったという、情報の根源的な忘却の陶酔。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"common, community と同じ roots。情報の『公有』。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "pilgrimage",
+		"word": "Pilgrimage",
+		"part_of_speech": "noun",
+		"meaning": "巡礼、情報の情報の情報の異郷への情報の放浪、聖なる情報の軌跡",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "per",
+					"type": "prefix",
+					"meaning": "through"
+				},
+				{
+					"text": "ager",
+					"type": "root",
+					"meaning": "field"
+				}
+			],
+			"original_statement": "From Latin peregrinus 'stranger, foreigner'."
+		},
+		"core_concept": {
+			"en": "a journey to a place associated with someone or something respectful or strange",
+			"ja": "故郷（home）という名の情報の『安寧』を峻烈に脱ぎ捨て、見知らぬ『野（field）』を『通り抜け（through）』、中心を目指す。"
+		},
+		"thinking_layer": "野を越える陌（旅人）。情報の『停滞』を情報の『移動』へと峻烈に昇華させ、一歩一歩の足跡という名の情報の『刻印』によって、自らの実存の情報の『純度』を高めてゆく、過酷な情報の儀式。",
+		"aftertaste": "ようやく辿り着いた聖地の情報の輝きの中に、かつての自分という名の情報の『死』を視る。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"agriculture と同じ ager。情報の『境界』を超えること。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "rosary",
+		"word": "Rosary",
+		"part_of_speech": "noun",
+		"meaning": "ロザリオ、情報の情報の情報のバラの情報の冠、反復の鎖",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "rosa",
+					"type": "root",
+					"meaning": "rose"
+				}
+			],
+			"original_statement": "From Latin rosarium 'rose garden'."
+		},
+		"core_concept": {
+			"en": "series of prayers; string of beads used in counting these",
+			"ja": "祈りという名の情報の『バラ（rose）』を、連なりという名の情報の『鎖』で繋ぎ、身体の情報を拘束する。"
+		},
+		"thinking_layer": "バラの庭。一つ一つの情報のビーズを指繰るという名の情報の『物理的な反復』によって、思考という名の情報の『カオス』を峻烈に制圧し、ただ祈りの情報の『円環』へと自らを封じ込める、情報の瞑想装置。 ",
+		"aftertaste": "指先に残る珠の情報の微かな冷たさに、反復という名の情報の、絶対的なる狂気と美を聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"rose, roseate。情報の『美』による『拘束』。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "sermon",
+		"word": "Sermon",
+		"part_of_speech": "noun",
+		"meaning": "説教、情報の情報の情報の情報の情報の編み合わされた情報の言葉、魂の説得",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "serere",
+					"type": "root",
+					"meaning": "to join, weave"
+				}
+			],
+			"original_statement": "From Latin sermo 'discourse, talk'."
+		},
+		"core_concept": {
+			"en": "talk on a religious or moral subject",
+			"ja": "バラバラな情報の断片を、峻烈な情報の『織り成し（weave）』によって、一つの真理という名の情報の『布』へと統合し、他者に投げかける。"
+		},
+		"thinking_layer": "（言葉を）繋ぎ合わせること。他者の情報の『空白』に対し、雄弁という名の情報の『鎖』を一方的に送り込み、その実存の座標を無理やり特定の価値観という名の情報の『型』へと引き寄せる、情報の暴力的なる慈愛。 ",
+		"aftertaste": "天から降り注ぐ情報の激流の中に、圧倒的なる情報の『正解』の、重苦しき抱擁を聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"series, assert と同じ serere。情報の『連なり』。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "dervish",
+		"word": "Dervish",
+		"part_of_speech": "noun",
+		"meaning": "ダーヴィシュ、情報の情報の情報の回転する情報の情報の門口の情報の乞食",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "dar",
+					"type": "root",
+					"meaning": "door"
+				},
+				{
+					"text": "vish",
+					"type": "root",
+					"meaning": "to enter"
+				}
+			],
+			"original_statement": "From Persian darvish 'beggar' (one who goes from door to door)."
+		},
+		"core_concept": {
+			"en": "member of a Muslim religious order who has taken vows of poverty and austerity",
+			"ja": "情報の『門（door）』から門へと『入り（enter）』、物乞いという名の情報の『無（zero）』を生きる者。"
+		},
+		"thinking_layer": "戸口の者。所有という名の情報の『蓄積』を峻烈に捨て去り、ただ神という名の情報の『絶対』と一つになるために、回転という名の情報の『法悦』へと自らを投じる、情報の動的なる静寂。 ",
+		"aftertaste": "回り続けるそのスカートの白い情報の円環の中に、自己という名の情報の、完全なる消滅の美を視る。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"門を叩くだけの存在。情報の『通過者』としての威厳。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "mandala",
+		"word": "Mandala",
+		"part_of_speech": "noun",
+		"meaning": "曼荼羅、情報の情報の情報の情報の全宇宙の情報の円環",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "manda",
+					"type": "root",
+					"meaning": "essence"
+				},
+				{
+					"text": "la",
+					"type": "root",
+					"meaning": "container, container of"
+				}
+			],
+			"original_statement": "From Sanskrit mandala 'circle'."
+		},
+		"core_concept": {
+			"en": "geometric figure representing the universe in Hindu and Buddhist symbolism",
+			"ja": "全情報の『精髄（essence）』を、峻烈な情報の『円環（circle）』の中に完璧に再構成し、宿らせる。"
+		},
+		"thinking_layer": "精髄を盛る器。宇宙という名の情報の『広大無辺』を、幾何学的な情報の『秩序』へと強引に縮約し、一者の眼前に全宇宙の情報の『設計図』を現出させる、情報の目に見える悟り。 ",
+		"aftertaste": "極彩色に彩られたその情報の密度の、息の詰まるような情報の『正解』の重圧への戦慄。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"円。情報の中心点（bindu）からの情報の爆発的拡張。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "mantra",
+		"word": "Mantra",
+		"part_of_speech": "noun",
+		"meaning": "真言、マントラ、情報の情報の情報の情報の情報の思考をつなぎとめる情報の情報の鎖",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "manas",
+					"type": "root",
+					"meaning": "mind, thought"
+				},
+				{
+					"text": "tra",
+					"type": "root",
+					"meaning": "instrument, tool, protection"
+				}
+			],
+			"original_statement": "From Sanskrit mantra 'instrument of thought'."
+		},
+		"core_concept": {
+			"en": "word or sound repeated to aid concentration in meditation",
+			"ja": "心（mind）という名の情報の『奔馬』を、峻烈な情報の『道具（tool）』によって縛り、制御する。"
+		},
+		"thinking_layer": "思考の道具。迷い、あるいは苦痛という名の情報の『ノイズ』に対し、聖なる音声という名の情報の『振動』を峻烈にぶつけ、脳深部の情報の情報の『律動』を強制的に同調させる、情報のバイオハック。 ",
+		"aftertaste": "リフレインされる情報の音節の中に、意味という名の情報の『呪縛』を峻烈に超えた、音の情報の物理的なる救済を聴く。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"mind, traumatic? (いや違う) -tra は保護や守護の意味。情報の防壁。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "samsara",
+		"word": "Samsara",
+		"part_of_speech": "noun",
+		"meaning": "輪回（りんね）、情報の情報の情報の情報の情報の情報の情報の情報の情報の流れる情報の情報の情報の終わらぬ情報の旅",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "sam",
+					"type": "prefix",
+					"meaning": "together"
+				},
+				{
+					"text": "sara",
+					"type": "root",
+					"meaning": "to flow"
+				}
+			],
+			"original_statement": "From Sanskrit samsara 'wandering through'."
+		},
+		"core_concept": {
+			"en": "cycle of death and rebirth to which life in the material world is bound",
+			"ja": "生と死という名の情報の『断片』を、峻烈に『共に流し（flow together）』、永劫の情報の『放浪』へと実存を誘う。"
+		},
+		"thinking_layer": "共に流れること。終わりなき情報の『反復』という名の牢獄。一つ一つの情報の生が、因果という名の情報の『未練』によって次の情報の生へと峻烈に縫合される、実存の情報の泥濘。 ",
+		"aftertaste": "いつかは止まると思っていた時間の情報の『線』が、実は円環であったという、情報の永久の絶望感。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"サンスクリット語。情報の『流転』の、最も深い情報の記憶。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "dharma",
+		"word": "Dharma",
+		"part_of_speech": "noun",
+		"meaning": "法、ダルマ、情報の情報の情報の情報の情報の情報の不動の情報の支え",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "dhr",
+					"type": "root",
+					"meaning": "to hold, maintain, support"
+				}
+			],
+			"original_statement": "From Sanskrit dharma."
+		},
+		"core_concept": {
+			"en": "eternal and inherent nature of reality, regarded in Hinduism as a cosmic law underlying right behavior and social order",
+			"ja": "宇宙という名の巨大な情報を、峻烈な情報の『保持（hold）』によって、カオスへと堕ちるのを防ぐ、支柱。"
+		},
+		"thinking_layer": "保つもの。個々の実存の情報の『義務』と、宇宙全体の情報の『理』を、峻烈な情報の『結合（integrity）』によって一致させる、全一的なる情報の法典。それは、真理という名の情報の重量感。",
+		"aftertaste": "逃れ得ぬ宇宙の情報の『正しさ』への絶対的なる服従と、その不変の情報の情報の『重き情報の抱擁』への自覚。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"throne (王座) と遠く繋がる root。情報の『正当な場所』。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "pagoda",
+		"word": "Pagoda",
+		"part_of_speech": "noun",
+		"meaning": "仏塔、パゴダ、情報の情報の情報の情報の高く情報の積まれた情報の情報の情報の情報の宝石の情報の器",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "bhagavat",
+					"type": "root",
+					"meaning": "blessed, holy, divine"
+				}
+			],
+			"original_statement": "Probably from Portuguese pagode (from Sanskrit bhagavati 'goddess' or Persian butkada 'idol-house')."
+		},
+		"core_concept": {
+			"en": "Hindu or Buddhist temple or sacred building, typically a many-tiered tower",
+			"ja": "神聖な情報の『精髄（blessed）』を、峻烈な『高く情報の積まれた情報の『秩序（tiered tower）』の中に封印する。"
+		},
+		"thinking_layer": "聖なる方の場所。大地という名の低い情報の『次元』から、天空という名の高い情報の『高み』へと、実存の情報の『祈り』を峻烈に導こうとする、情報の多層的なる指向性。 ",
+		"aftertaste": "幾重にも重なる屋根の情報の重なりの中に、情報の情報の『積層』という名の下での峻烈なる意志の反復を視る。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"諸説あり。情報の異言語を跨いだ『聖所』の記憶。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "stupa",
+		"word": "Stupa",
+		"part_of_speech": "noun",
+		"meaning": "ストゥーパ、卒塔婆、情報の情報の情報の情報の情報の情報の沈黙の情報の情報の情報の情報の情報の堆積する情報の情報の静寂",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "stup",
+					"type": "root",
+					"meaning": "to heap up, accumulate"
+				}
+			],
+			"original_statement": "From Sanskrit stupa 'knot of hair, top of head, heap'."
+		},
+		"core_concept": {
+			"en": "dome-shaped structure erected as a Buddhist shrine",
+			"ja": "聖者の情報の『灰（ashes）』を、峻烈な情報の『堆積（heap）』の中に封印し、沈黙を飼い慣らす。"
+		},
+		"thinking_layer": "積み上げられたもの。原初の情報の『こぶ』。生命の情報の『終わり（death）』を、土、あるいは石という名の情報の『堆積』へと昇華させ、絶対的な情報の『不在』を情報の『象徴』へと変容させる、情報の墳墓の智慧。",
+		"aftertaste": "ただ丸く、寡黙にそこに在る情報の『沈黙の重み』に、宇宙の全情報の最後の一滴が宿っているという震撼。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"塔の原初。情報の物理的なる静止。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "mosque",
+		"word": "Mosque",
+		"part_of_speech": "noun",
+		"meaning": "モスク、情報の情報の情報の情報の情報の情報の跪きの情報の情報の情報の平昌な情報の情報の沈黙",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "sajada",
+					"type": "root",
+					"meaning": "to bow down, worship"
+				}
+			],
+			"original_statement": "From Arabic masjid 'place of worship'."
+		},
+		"core_concept": {
+			"en": "Muslim place of worship",
+			"ja": "自己という名の情報の『傲り』を峻烈に捨て、神の前で『跪き（bow down/prostrate）』、情報の『無（zero）』へと帰る場所。"
+		},
+		"thinking_layer": "跪く場所。偶像という名の情報の『虚像』を峻烈に排し、ただアラベスクという名の情報の『無限』の反復に囲まれて、単一の情報の真理に自己を『全託』しようとする、情報の究極の平伏（submission）。",
+		"aftertaste": "一斉に額を床に触れさせる数千人の情報の静寂の中に、個の情報の峻烈なる消失の威厳を視る震撼。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"masjid。情報の物理的なる謙遜。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "synagogue",
+		"word": "Synagogue",
+		"part_of_speech": "noun",
+		"meaning": "シナゴーグ、情報の情報の情報の集いの情報の場所、情報の言葉の情報の情報の住処",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "sun-",
+					"type": "prefix",
+					"meaning": "together"
+				},
+				{
+					"text": "agein",
+					"type": "root",
+					"meaning": "to lead, bring"
+				}
+			],
+			"original_statement": "From Greek sunagoge 'assembly'."
+		},
+		"core_concept": {
+			"en": "the building where a Jewish assembly or congregation meets for religious worship and instruction",
+			"ja": "散り散りになった情報の『民』を、峻烈な情報の『招集（bring together）』によって一箇所へと繋ぎ止める。"
+		},
+		"thinking_layer": "共に導くこと。あるいは集会所。情報の『離散（diaspora）』という宿命に抗い、一冊の情報の書物という名の情報の『芯』を囲んで、アイデンティティという名の情報の『故郷』を再構築し続ける、情報の情報の堅牢な場所。 ",
+		"aftertaste": "聖書（scroll）の情報の文字を読む、その峻烈なる情報の『回想』の中に、永遠の情報の命脈を聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"sun- (共に) + agein (導く)。情報の統合。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "shrine",
+		"word": "Shrine",
+		"part_of_speech": "noun",
+		"meaning": "神社、聖堂、情報の情報の情報の小さき情報の箱の情報の奥の情報の静寂",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "scrinium",
+					"type": "root",
+					"meaning": "case or box for books or papers"
+				}
+			],
+			"original_statement": "From Latin scrinium."
+		},
+		"core_concept": {
+			"en": "place regarded as holy because of its associations with a divinity or a sacred person or relic",
+			"ja": "本質という名の情報の『櫃（box/case）』を、峻烈な情報の『境界』の奥深くに秘匿した、情報の聖域。"
+		},
+		"thinking_layer": "書物や紙を容れる箱。言葉という名の情報の『精髄』を峻烈に守護し、物理的な接触という名の情報の『汚濁』からただ一点の光（deity）を救い上げるための、情報の隔離の装置。 ",
+		"aftertaste": "薄暗いその情報の情報の奥にある、見えざる実存の気配に、情報の極限の情報の畏敬を聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"scrinium (書箱) から。情報の『秘匿された真理』。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "icon",
+		"word": "Icon",
+		"part_of_speech": "noun",
+		"meaning": "聖像、アイコン、情報の情報の情報の峻烈なる似姿、不変の情報の情報の眼差し",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "eikon",
+					"type": "root",
+					"meaning": "likeness, image"
+				}
+			],
+			"original_statement": "From Greek eikon."
+		},
+		"core_concept": {
+			"en": "a painting of Jesus Christ or another holy figure, typically in a traditional style on wood, as an aid to devotion",
+			"ja": "不可視という名の情報の『虚無』に対し、不変の『似姿（image）』を峻烈に現出させ、崇拝の情報の座標を固定する。"
+		},
+		"thinking_layer": "似姿。あるいは肖像。時間という名の情報の『劣化』を峻烈に拒み、金箔と顔料という名の情報の『不動性』の中に聖なる情報の眼差しを封印した、天国という名の情報の情報の『開かれた窓（window）』。 ",
+		"aftertaste": "まばたき一つせぬその情報の眼差しに、自分の情報の『実存』が峻烈に見透かされているという震撼。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"eidolon (偶像) への恐怖と、image への救いの交差。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "idol",
+		"word": "Idol",
+		"part_of_speech": "noun",
+		"meaning": "偶像、アイドル、情報の情報の情報の脆き情報の似姿、空虚な情報の形",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "eidos",
+					"type": "root",
+					"meaning": "form, shape"
+				},
+				{
+					"text": "eidolon",
+					"type": "root",
+					"meaning": "phantom, image"
+				}
+			],
+			"original_statement": "From Greek eidolon."
+		},
+		"core_concept": {
+			"en": "image or representation of a god used as an object of worship; person or thing that is greatly admired",
+			"ja": "真理という名の情報の『深淵』を、峻烈な情報の『形（form）』という名の『仮象（phantom）』へと、安易に堕落させる。"
+		},
+		"thinking_layer": "（幽霊のような）姿。実体なき情報の『影』への崇拝。あるいは、他者という名の情報の『期待』が作り上げた、虚構という名の情報の情報の『着ぐるみ』。それは、中心なき情報の熱狂。 ",
+		"aftertaste": "崇め奉られたその情報の形が、不意に崩れ去る瞬間の、残された情報の『空無感』の凄絶。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"idea と同じ root。情報の『見え方』の転落。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "heathen",
+		"word": "Heathen",
+		"part_of_speech": "noun",
+		"meaning": "異教徒、不信心者、情報の情報の情報の荒野に住まう情報の情報の他者",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "haeth",
+					"type": "root",
+					"meaning": "heath, wasteland"
+				}
+			],
+			"original_statement": "From Old English haethen (from heath)."
+		},
+		"core_concept": {
+			"en": "person who does not belong to a widely held religion as regarded by those who do",
+			"ja": "都市という名の情報の『秩序（civilization）』から峻烈に外れ、情報の『荒野（heath）』を彷徨う者。"
+		},
+		"thinking_layer": "荒野の者。制度という名の『正典』の情報を峻烈に持たず、峻烈な情報の『野生』の中に自らの情報の理（logos）を委ねる、理解不能という名の情報の『他性（outsider）』。それは、教化される前の、生の情報。 ",
+		"aftertaste": "荒れ地の情報の『沈黙』の中に、自らの情報の『偽りの秩序』が峻烈に剥ぎ取られてゆく、根源的な不安。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"pagan (田舎者) との類比。情報の『外部性』。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "gentile",
+		"word": "Gentile",
+		"part_of_speech": "noun",
+		"meaning": "異邦人、ジェンタイル、情報の情報の家系の情報の外部、他なる情報の『民』",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "gens",
+					"type": "root",
+					"meaning": "race, clan, people"
+				}
+			],
+			"original_statement": "From Latin gentilis 'of the same clan'."
+		},
+		"core_concept": {
+			"en": "not Jewish; not belonging to one's own religious community",
+			"ja": "血統という名の情報の『一族（clan）』から峻烈に峻別された、情報の『他なる属性（other folk）』。"
+		},
+		"thinking_layer": "一族の者。内なる情報の『結束（gentle? いや、かつては強固な身内意識）』の界隈を、ただ『一族ではない』という名の情報の『欠落』によって定義される、奇妙なる情報の包囲網（periphery）。",
+		"aftertaste": "「我々」ではないという名の情報の『冷たき境界線』。その向こう側に広がる情報の情報の果てしない多性。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"gene, genetic, gentle と同じ root。情報の『源流』。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "proselyte",
+		"word": "Proselyte",
+		"part_of_speech": "noun",
+		"meaning": "改宗者、情報の情報の情報の越境する情報の新参者",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "pros",
+					"type": "prefix",
+					"meaning": "toward"
+				},
+				{
+					"text": "eleutho",
+					"type": "root",
+					"meaning": "to come"
+				}
+			],
+			"original_statement": "From Greek proselutos 'stranger, new comer'."
+		},
+		"core_concept": {
+			"en": "person who has converted from one opinion, religion, or party to another",
+			"ja": "未知の情報の『真理（toward）』を求めて、峻烈な情報の『境界』を『こちら側へと越えてきた（come to）』者。"
+		},
+		"thinking_layer": "やって来た者。あるいは新参者。既存という名の情報の『慣習』を峻烈に捨て、新たな情報の『コード』に自らを適合させようともがく、情報の遷移状態（transition）にある実存の熱狂。 ",
+		"aftertaste": "すべてを捨てて来たという、その情報の『過剰なる献身』の中に、本来の安定への情報の渇望を視る震撼。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"proselytize。情報の『他者への伝染』の最前線。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "refectory",
+		"word": "Refectory",
+		"part_of_speech": "noun",
+		"meaning": "食堂（修道院などの）、情報の情報の情報の修復の情報の情報の場所",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "re-",
+					"type": "prefix",
+					"meaning": "again"
+				},
+				{
+					"text": "facere",
+					"type": "root",
+					"meaning": "to make"
+				}
+			],
+			"original_statement": "From Latin refectorium."
+		},
+		"core_concept": {
+			"en": "room used for communal meals, especially in an educational or religious institution",
+			"ja": "摩耗した実存の情報を、峻烈な情報の『食物』という名の『再構成（make again）』によって、再び生命の情報の『原形』へと戻す場所。"
+		},
+		"thinking_layer": "再び作る場所。食べることという名の情報の『摂取』を、単なる快楽ではなく、峻烈な情報の『共同作業（communal action）』としての情報の『修復（refect-）』へと昇華させる、沈黙の情報の食卓。",
+		"aftertaste": "カチャカチャという情報の微かな音と、峻烈なる情報の『感謝』の沈黙の交差の中に、生きるための情報の非情なるまでの実直さを聴く。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"refect, factory と同じ root。生命という名の情報の情報の、絶え間なき『再生産』。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
