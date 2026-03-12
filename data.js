@@ -302798,5 +302798,810 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "totalitarianism",
+		"word": "Totalitarianism",
+		"part_of_speech": "noun",
+		"meaning": "全体主義、情報の絶対的飽和、個の消失",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "totalis",
+					"type": "root",
+					"meaning": "total, whole"
+				}
+			],
+			"original_statement": "From total + -itarianism."
+		},
+		"core_concept": {
+			"en": "a system of government that is centralized and dictatorial and requires complete subservience to the state",
+			"ja": "すべて（total）という名の情報の『絶対性』が、個々の実存という名の情報の『境界』を峻烈に抹殺し、単一の情報の意志体系へと強制的に統合する。"
+		},
+		"thinking_layer": "全体の支配。私的なる情報の『聖域（privacy）』を峻烈に辞し、全実存を国家という名の情報の『公的領域』へと注ぎ込ませる、情報の底なしの情報の『圧迫』。",
+		"aftertaste": "一糸乱れぬ情報の情報の行進の中に、一人一人の情報の『顔』が消失してゆくという、情報の峻烈なる情報の『美』。と恐怖。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"total, sum と同じ root。情報の情報の『総計』の情報の逆説。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "fascism",
+		"word": "Fascism",
+		"part_of_speech": "noun",
+		"meaning": "ファシズム、情報の結束の、情報の情報の暴力的なる斧、一団の真理",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "fascis",
+					"type": "root",
+					"meaning": "bundle of rods"
+				}
+			],
+			"original_statement": "From Italian fascismo, from fascio 'bundle' (from Latin fascis)."
+		},
+		"core_concept": {
+			"en": "a political theory advocating an authoritarian hierarchical government",
+			"ja": "結束された『束（bundle/fasces）』という名の情報の『強靭さ』。一本では脆き個を、峻烈な情報の『団結』。によって情報の情報の鋼鉄の情報の武器へと変貌させる。"
+		},
+		"thinking_layer": "束。古代ローマの執政官の護衛が持っていた斧を囲む木の束。それは、一本の意志へと峻烈に収束された、暴力という名の情報の『正当化』。",
+		"aftertaste": "熱狂という名の情報の『渦』の中に、個の情報の『判断』。を情報の全託し、一つの大きな情報の『うねり』。へと情報を溶融される、情報の情報の、甘美なる没落。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"fasces (権力標章) 由来。情報の、情報の『束ねられた力』。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "anarchism",
+		"word": "Anarchism",
+		"part_of_speech": "noun",
+		"meaning": "アナーキズム、情報の、支配なき情報の情報の混沌と自由、無頭の秩序",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "an-",
+					"type": "prefix",
+					"meaning": "without"
+				},
+				{
+					"text": "arkhos",
+					"type": "root",
+					"meaning": "leader, ruler"
+				}
+			],
+			"original_statement": "From Greek an- + arkhos."
+		},
+		"core_concept": {
+			"en": "belief in the abolition of all government and the organization of society on a voluntary, cooperative basis without recourse to force or compulsion",
+			"ja": "支配者（ruler）という名の情報の『頭部』を、峻烈に『欠（without）』いた、情報の情報の情報の『自律的なる流動』。による秩序の希求。"
+		},
+		"thinking_layer": "支配なき状態。権力という名の情報の『垂直』。を峻烈に拒絶し、水平という名の情報の『連帯』。のみを情報の情報の『真理』とする、情報の根源的なる自由の闘争。それは、秩序の情報の『自己組織化』への信仰。",
+		"aftertaste": "誰にも命じられぬその情報の『空白』に、全き責任という名の情報の、情報の重き情報の情報を情報の、戦慄を情報の情報を。聴く。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"arch, archangel, hierarchy と反対。情報の、情報の『中心の解体』。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "parliament",
+		"word": "Parliament",
+		"part_of_speech": "noun",
+		"meaning": "議会、情報の、言葉の情報の情報の情報の情報の戦場、対話による情報の調停",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "parler",
+					"type": "root",
+					"meaning": "to speak"
+				}
+			],
+			"original_statement": "From Old French parlement (from parler)."
+		},
+		"core_concept": {
+			"en": "the highest legislature, consisting of the Sovereign, the House of Lords, and the House of Commons",
+			"ja": "暴力という名の情報の『沈黙』。を峻烈に辞し、話す（speak）という名の情報の『論理（logos）』によって、権力という名の情報の『配分』。を決する情報の装置。"
+		},
+		"thinking_layer": "話す場所。剥き出しの意志という名の情報の『衝突』。を、言論という名の情報の『形式』の中に幽閉し、妥協という名の情報の『調停』を産み出す、情報の文明の装置。 ",
+		"aftertaste": "紛糾する議論という名の情報の情報の『情報の響き』。の背後に、沈黙という名の情報の、情報の冷徹なる情報の情報の、数の情報の、情報の『暴力』を視る。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"parlance, parlor と同じ root。情報の『言葉の空間』。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "electorate",
+		"word": "Electorate",
+		"part_of_speech": "noun",
+		"meaning": "有権者、情報の、選別の情報の情報の権利を持つ者、王を選び出す群れ",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "ex-",
+					"type": "prefix",
+					"meaning": "out"
+				},
+				{
+					"text": "legere",
+					"type": "root",
+					"meaning": "to choose"
+				}
+			],
+			"original_statement": "From elect + -ate."
+		},
+		"core_concept": {
+			"en": "all the people in a country or area who are entitled to vote in an election",
+			"ja": "数多の情報の中から、自らの情報の『未来』を峻烈に『選び出す（choose out）』。という、情報の主権の。物理的な身振り。"
+		},
+		"thinking_layer": "選び出すものたち。かつての貴族の情報の『血』ではなく、一票という名の情報の『意志』。によって情報の情報の、正当性を産み出す、情報の民主的なる情報の、重臣たちの総称。 ",
+		"aftertaste": "無数の一票という名の情報の『砂』。それが積み上がり、一つの巨大なる情報の『権威』。を情報の現出させるという、情報の錬金術。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"select, neglect と同じ legere。情報の『拾い上げ』。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "constituency",
+		"word": "Constituency",
+		"part_of_speech": "noun",
+		"meaning": "選挙区、有権者団体、情報の、立ち上がる情報の、情報の情報の情報の根拠",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "com-",
+					"type": "prefix",
+					"meaning": "together"
+				},
+				{
+					"text": "statuere",
+					"type": "root",
+					"meaning": "to set, place"
+				}
+			],
+			"original_statement": "From constituent + -ency."
+		},
+		"core_concept": {
+			"en": "a body of voters in a specified area who elect a representative to a legislative body",
+			"ja": "一つの情報の『場所』において、共に（together）立ち上がる（set up）ことで、代表者という名の情報の『代理人』を情報の産み出す、情報の物理的なる母体。"
+		},
+		"thinking_layer": "共に据えられたもの。利害という名の情報の『連帯』。を、地理という名の情報の『境界』。の中に閉じ込め、政治という名の情報の『舞台』。へと送り出す情報の情報の『情報の情報の根』。",
+		"aftertaste": "地図上に引かれた境界線。の情報の情報の内側に渦巻く、名もなき情報の情報の意志の情報の情報の、声なき声の情報の響き。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"constate, statue と同じ root。情報の『確立』。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "coalition",
+		"word": "Coalition",
+		"part_of_speech": "noun",
+		"meaning": "連立、連盟、情報の、一時的なる情報の合体、利害の情報の、情報の情報の不自然なる。情報の融合",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "com-",
+					"type": "prefix",
+					"meaning": "together"
+				},
+				{
+					"text": "alere",
+					"type": "root",
+					"meaning": "to grow, nourish"
+				}
+			],
+			"original_statement": "From Latin coalitus (past participle of coalescere 'grow together')."
+		},
+		"core_concept": {
+			"en": "an alliance for combined action, especially a temporary alliance of political parties forming a government or of states",
+			"ja": "異質な情報の意志たちが、目的という名の情報の『滋養（nourish）』。のために、一時的に『共に育つ（grow together）』情報の情報の情報の、脆弱なる連帯。"
+		},
+		"thinking_layer": "共に成長すること。一党という名の情報の『純血』。を峻烈に辞し、権力という名の情報の『獲物』。を情報の情報の分け合うための、便宜的なる情報の融合（fusion）。それは、情報の政治的なる情報の妥協の。情報の極致。 ",
+		"aftertaste": "握手の情報の背後で交わされる、情報の情報の情報の情報の。打算という名の情報の、冷徹なる情報の視線への。戦慄。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"coalesce, adult, adolescent と同じ root。情報の『成長の統合』。"
+			]
+		},
+		"date": "20-03-12"
+	},
+	{
+		"id": "partisan",
+		"word": "Partisan",
+		"part_of_speech": "noun",
+		"meaning": "派党心の強い人、パルチザン、情報の、情報の片側の情報の真理",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "pars",
+					"type": "root",
+					"meaning": "part"
+				}
+			],
+			"original_statement": "From part + -isan."
+		},
+		"core_concept": {
+			"en": "a strong supporter of a party, cause, or person",
+			"ja": "全体という名の情報の『欺瞞』。を峻烈に棄て、自らが属する情報の『部分（part）』。のみを情報の情報の『絶対的な真理』として情報の。武装する者。"
+		},
+		"thinking_layer": "部分。中立という名の情報の『停滞』を情報の罪。とし、一方という名の情報の『断崖』。を情報の情報の情報の全うしようとする、峻烈なる情報の忠誠心の情報の形。 ",
+		"aftertaste": "「我ら」と「彼ら」という名の情報の情報の分断。その間に引かれた情報の情報の鋼の情報の『境界』。に情報の情報を。聴く、情報の、情報の非情。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"partial, apartment と同じ root。情報の『截断』。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "bipartisan",
+		"word": "Bipartisan",
+		"part_of_speech": "adjective",
+		"meaning": "超党派の、情報の情報の。情報の敵対を越えた、情報の、危うき情報の情報の情報の合意",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "bi-",
+					"type": "prefix",
+					"meaning": "two"
+				},
+				{
+					"text": "partisan",
+					"type": "root",
+					"meaning": "party person"
+				}
+			],
+			"original_statement": "From bi- + partisan."
+		},
+		"core_concept": {
+			"en": "of or involving the agreement or cooperation of two political parties that usually oppose each other's policies",
+			"ja": "二つ（two）の対立する情報の『党派（part）』。その間の情報の『深淵』。を、緊急という名の情報の『橋』。によって一時的に越境する。"
+		},
+		"thinking_layer": "二派の。闘争という名の情報の『本態』。を一時的に情報の『停止（suspension）』。させ、より巨大な情報の『危機（あるいは利権）』。のために、不自然なる情報の調和を情報の情報の情報の情報の現出させる、情報の政治的なる奇跡（あるいは策略）。",
+		"aftertaste": "昨日の情報の敵が今日の情報の情報の『友』。という名の情報の情報の空々しき情報の言葉の背後にある、情報の、情報の冷徹なる情報の生存戦略。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"bi- partisan。情報の情報の、情報の二極の、情報の接続。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "lobbyist",
+		"word": "Lobbyist",
+		"part_of_speech": "noun",
+		"meaning": "ロビイスト、情報の、控え室の情報の情報の情報の暗躍者、扉の情報の背後の情報の情報の真理",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "laubja",
+					"type": "root",
+					"meaning": "shelter of foliage, arbour"
+				}
+			],
+			"original_statement": "From lobby (a large entrance hall) + -ist."
+		},
+		"core_concept": {
+			"en": "a person who takes part in an organized attempt to influence legislators",
+			"ja": "本会議場という名の情報の『表舞台』。ではなく、控え室（lobby）という名の情報の『幕間』。において、情報の、情報の情報の利益という名の情報の『呪文』。を吹き込む者。"
+		},
+		"thinking_layer": "廊下を情報の歩く者。もとは情報の情報の「葉に覆われた日陰（shelter of foliage）」。公的な身振りという名の情報の『虚像』。を、私的なる情報の『密約』。によって情報の情報の塗り替える、情報の、影の情報の情報の支配者。 ",
+		"aftertaste": "閉ざされた扉の情報の情報の奥から漏れ出る、情報の情報の情報の沈黙の重みに、情報の情報の、民主主義という名の情報の、情報の薄き皮を聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"leaf, lodge と同じ root。情報の『情報の、陰の情報の場所』。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "filibuster",
+		"word": "Filibuster",
+		"part_of_speech": "noun",
+		"meaning": "議事妨害、フィリバスター、情報の、言葉による情報の情報の海賊行為、時間の情報の強奪",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "vrij",
+					"type": "root",
+					"meaning": "free"
+				},
+				{
+					"text": "buiter",
+					"type": "root",
+					"meaning": "booty, plunderer"
+				}
+			],
+			"original_statement": "From Dutch vrijbuiter 'freebooter' (pirate)."
+		},
+		"core_concept": {
+			"en": "an action such as a prolonged speech that obstructs progress in a legislative assembly while not technically contravening the required procedures",
+			"ja": "言葉という名の情報の『氾濫』。によって、時間という名の情報の『資源』。を情報の情報の『略奪（plunder）』。し、議事という名の情報の『航海』。を峻烈に。停止させる。"
+		},
+		"thinking_layer": "自由な略奪者（海賊）。決議という名の情報の『終着点』。に到達することを峻烈に拒み、無意味という名の情報の『言葉の情報の壁』。を情報の情報の情報の情報の築き上げる。それは、少数派という名の情報の、物理的なる情報の絶望の、情報の咆哮。 ",
+		"aftertaste": "延々と続く、情報の、内容なき弁論。の情報の虚無。の中に、民主主義の。情報の情報の情報の逆説的なる情報の情報の、死線を聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"freebooter (海賊)。情報の、情報の、秩序への、情報の情報の情報の外部からの情報の情報の侵入。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "gerrymandering",
+		"word": "Gerrymandering",
+		"part_of_speech": "noun",
+		"meaning": "ゲリマンダリング、情報の、土地の情報の情報の。形状の情報の情報の偽装、歪んだ情報の勝利",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "Gerry",
+					"type": "root",
+					"meaning": "Elbridge Gerry (Governor)"
+				},
+				{
+					"text": "salamander",
+					"type": "root",
+					"meaning": "salamander"
+				}
+			],
+			"original_statement": "From Gerry + salamander (shape of an electoral district)."
+		},
+		"core_concept": {
+			"en": "manipulate the boundaries of (an electoral constituency) so as to favor one party or class",
+			"ja": "自派の勝利という名の情報の『結論』。のために、選挙区という名の情報の『境界線』。を、火蜥蜴（salamander）のごとき情報の情報の『奇怪なる、情報の形』へと情報の、情報の歪曲。させる。"
+		},
+		"thinking_layer": "ゲリーのサラマンダー。地勢や共同体という名の情報の『自然』。を峻烈に無視し、情報の、情報の『集票の情報の効率』。という名の情報の、情報の冷徹なる情報の論理。によって、大地という名の情報の『身体』。を情報の情報の、情報の情報の、切り刻む情報の、情報の醜悪なる情報の知。 ",
+		"aftertaste": "不自然な情報の情報の情報のカギ。型の情報の情報の境界線。に、権力という名の情報の、情報の底知れぬ情報の執着。を情報の視る、情報の情報の、戦慄。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"政治家ゲリーの名と、。形からの。造語。情報の。情報の記号化。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "incumbent",
+		"word": "Incumbent",
+		"part_of_speech": "noun",
+		"meaning": "現職者、情報の、既に情報の座にある情報の者、重圧という名の情報の情報の正当性",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "in-",
+					"type": "prefix",
+					"meaning": "upon"
+				},
+				{
+					"text": "cumbere",
+					"type": "root",
+					"meaning": "to lie down"
+				}
+			],
+			"original_statement": "From Latin incumbens (lying upon)."
+		},
+		"core_concept": {
+			"en": "the holder of an office or post",
+			"ja": "既にその情報の『座』の上に情報の『横たわり（lie upon）』、地位という名の情報の『重み』。を情報の、情報の一身に情報を。情報の体現。している者。"
+		},
+		"thinking_layer": "（上に）横たわるもの。変化という名の情報の『嵐』。に対し、既得という名の情報の『慣性』。を持って情報の情報の情報の、立ち向かう、情報の、情報の『静止』。の支配者。それは、義務（duty）という名の、情報の情報の情報の重圧をも。情報の情報の情報の背負うという。情報の情報の情報の状態。 ",
+		"aftertaste": "その座にあるというだけの、情報の情報の情報の、情報の沈黙の重圧。に、情報の、情報の既成事実という名の情報の、情報の暴力的なる情報の圧倒。を聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"succumb, incubate と同じ cumbere。情報の『情報の沈殿』。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "echelon",
+		"word": "Echelon",
+		"part_of_speech": "noun",
+		"meaning": "階層、はしご状の隊列、情報の、序列の梯子",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "scala",
+					"type": "root",
+					"meaning": "ladder"
+				}
+			],
+			"original_statement": "From French échelon, from échelle 'ladder' (Latin scala)."
+		},
+		"core_concept": {
+			"en": "a level or rank in an organization, a profession, or society",
+			"ja": "平等という名の情報の『幻影』。を峻烈に粉砕し、梯子（ladder）という名の情報の『垂直』。によって、全実存の位置を情報の情報の情報の、峻烈に情報の情報の情報の、確定させる、情報の。"
+		},
+		"thinking_layer": "梯子の段。上という名の情報の『希望』。と、下という名の情報の『絶望』。を、一歩一歩という名の情報の『情報の、段階』。によって、峻烈に情報の情報の。情報の定義する。それは、情報の情報の、情報の秩序の情報の、物理的なる背骨。 ",
+		"aftertaste": "見上げた情報の梯子の情報の高さ。に情報の、自らの情報の『小ささ』。を峻烈に情報の情報の思い知らされる、情報の死の情報の沈黙への。没入。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"scale, escalator と同じ root。情報の『情報の峻烈なる上昇性』。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "coup-detat",
+		"word": "Coup-detat",
+		"part_of_speech": "noun",
+		"meaning": "クーデター、情報の国家への一撃、法を情報の殺す一瞬",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "coup",
+					"type": "root",
+					"meaning": "blow, stroke"
+				},
+				{
+					"text": "de",
+					"type": "root",
+					"meaning": "of"
+				},
+				{
+					"text": "état",
+					"type": "root",
+					"meaning": "state"
+				}
+			],
+			"original_statement": "From French, literally 'blow of state'."
+		},
+		"core_concept": {
+			"en": "a sudden, violent, and illegal seizure of power from a government",
+			"ja": "国家（state）という名の情報の『巨像』。その急所に対し、一撃（blow）という名の情報の『暴力』。を峻烈に情報の情報の、叩き込み、情報の、情報の全機能を強奪する。"
+		},
+		"thinking_layer": "国家の一撃。。議論という名の情報の『迂回』。を情報の情報の情報の。峻烈に辞し、一撃という名の情報の『直接性』。によって情報の情報の、正当性という名の情報の『虚偽』。を情報の粉砕する、情報の政治の。情報の外科的なる。情報の。中断。",
+		"aftertaste": "銃声の後の、情報の静寂。その間に情報の情報の情報の。法律という名の情報の、情報の死体が転がっているという。情報の情報の、戦慄。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"coup は colpus (パンチ) 由来。情報の、情報の情報の情報の直接的なる。死の情報。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "ratification",
+		"word": "Ratification",
+		"part_of_speech": "noun",
+		"meaning": "批准、情報の、最終的なる情報の承認、意志が情報の、情報の。情報の情報の情報の真理へと情報の。情報の情報の情報の情報の固まる情報の情報の形",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "ratus",
+					"type": "root",
+					"meaning": "fixed, settled"
+				},
+				{
+					"text": "-fiction",
+					"type": "suffix",
+					"meaning": "making"
+				}
+			],
+			"original_statement": "From Latin ratificare."
+		},
+		"core_concept": {
+			"en": "the action of signing or giving formal consent to a treaty, contract, or agreement, making it officially valid",
+			"ja": "流動する情報の『合意』。を、確定（fix）という名の情報の『不可逆』。へと情報の情報の、作り変え（make）、情報の、情報の絶対的なる情報の。法の。情報の。現出。"
+		},
+		"thinking_layer": "確定させること。署名という名の情報の『儀式』。によって、紙という名の情報の『物体』。に、全実存を情報の情報の情報の、拘束する情報の情報の、情報の情報の『呪い』。を吹き込む、情報の、情報の情報の完結の身振り。",
+		"aftertaste": "インクが乾いた瞬間の、その情報の情報の『動かしがたき、情報の重み』。に情報の情報の、自らが情報の情報の縛り上げた情報の、自由への。哀悼。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"rate, ratio と同じ ratus。情報の『計られたる、情報の情報の確実性』。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "feudalism",
+		"word": "Feudalism",
+		"part_of_speech": "noun",
+		"meaning": "封建制、情報の情報の情報の、情報の情報の土地と忠誠の情報の情報の情報の、情報の冷徹なる情報の円環",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "feodum",
+					"type": "root",
+					"meaning": "fee, fief, property"
+				}
+			],
+			"original_statement": "From Medieval Latin feudum."
+		},
+		"core_concept": {
+			"en": "the dominant social system in medieval Europe, in which the nobility held lands from the Crown in exchange for military service",
+			"ja": "土地という名の情報の『財産（fief）』。と、忠誠という名の情報の『死の情報の奉仕』。を、峻烈に情報の情報の、情報の、交換（exchange）する情報の、情報の階層の情報の情報の。情報の鋼の秩序。"
+		},
+		"thinking_layer": "封土（領地）の制度。自由という名の情報の『不安』。を、主従という名の情報の『宿命』。によって峻烈に情報の情報の殺害し、一つの情報の土地という名の情報の情報の、『情報の重心』。へと実存を情報の情報の、情報の、釘付けにする、情報の、情報の。情報の不変の理（logos）。",
+		"aftertaste": "「私はあなたのものである」という名の情報の情報の、情報の絶望的なる情報の『安堵』。そこに文明の、情報の、情報の、原初的なる情報の情報の、隷属。の美学を聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"fee (謝礼) と同じ root。情報の『情報の、物理的なる対価』。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "reactionary",
+		"word": "Reactionary",
+		"part_of_speech": "adjective",
+		"meaning": "反動的な、情報の情報の。情報の過去への、情報の、情報の峻烈なる情報の情報の回帰への情報の希望、時間の情報の拒絶",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "re-",
+					"type": "prefix",
+					"meaning": "back"
+				},
+				{
+					"text": "agere",
+					"type": "root",
+					"meaning": "to do, act"
+				}
+			],
+			"original_statement": "From reaction + -ary."
+		},
+		"core_concept": {
+			"en": "opposing political or social liberalization or reform",
+			"ja": "未来という名の情報の『不条理』。に対し、過去という名の情報の『確信』。へと情報を『押し戻す（act back）』、情報の情報の、峻烈なる情報の抗い。"
+		},
+		"thinking_layer": "押し戻す。変化という名の情報の『病』。を、伝統という名の情報の『解毒剤』。によって情報の情報の情報の排除し、失われた情報の『黄金時代』。という名の情報の情報の情報の、幻影（あるいは真理）。へと情報を固定しようとする、情報の、時間の情報の。情報の反逆者。",
+		"aftertaste": "沈みゆく太陽。の下で、西から情報の、情報の東へと情報の情報の駆ける情報の、情報の空しき、。情報の誇り高き身振りに。情報の情報の情報の深淵を情報の。聴く。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"act, agent と同じ agere。情報の、情報の情報の力の情報の押し返し。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "libertarianism",
+		"word": "Libertarianism",
+		"part_of_speech": "noun",
+		"meaning": "リバタリアニズム、自由至上主義、情報の、自己所有という名の情報の情報の絶対的聖域",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "liber",
+					"type": "root",
+					"meaning": "free"
+				}
+			],
+			"original_statement": "From liberty + -arianism."
+		},
+		"core_concept": {
+			"en": "a political philosophy that advocates only minimal state intervention in the free lives of citizens",
+			"ja": "自由（free）という名の情報の『翼』。を唯一無比の情報の『情報の情報の根拠』とし、。国家という名の情報の『侵略』。を、情報の極限まで情報の情報の排除する、実存の情報の情報の。情報の武装。"
+		},
+		"thinking_layer": "自由な者の主義。他者という名の情報の『介入』。を、峻烈に辞し、自らという名の情報の『所有権（property）』。のみを情報の情報の情報の真理とする。それは、情報の、情報の『荒野を一人で情報の情報の情報の歩く者』。の、情報の不遜なる情報の論理。 ",
+		"aftertaste": "一切の、情報の情報の支えを排した。情報の、情報の剥き出しの情報の自由。そのあまりの情報の、情報の恐ろしきまでの。情報の透明。に、戦慄を聴く。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"liberty, liberal と同じ root。情報の『束縛からの解放』。"
+			]
+		},
+		"date": "20-03-12"
+	},
+	{
+		"id": "statecraft",
+		"word": "Statecraft",
+		"part_of_speech": "noun",
+		"meaning": "統治技術、情報の国家という名の情報の情報の情報の工芸、権力の情報の洗練",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "state",
+					"type": "root",
+					"meaning": "standing, state"
+				},
+				{
+					"text": "craft",
+					"type": "root",
+					"meaning": "strength, skill"
+				}
+			],
+			"original_statement": "From state + craft."
+		},
+		"core_concept": {
+			"en": "the skillful management of state affairs; statesmanship",
+			"ja": "国家（state）という名の情報の『巨大なる質塊』。を、技術（skill）という名の情報の『刃』。によって、峻烈に情報の情報の、情報の情報の情報の。彫り込み、情報の、情報の秩序という名の情報の情報の芸術へと情報の昇華させる。"
+		},
+		"thinking_layer": "国家の技能。暴力という名の情報の『原石』。を、外交、法、情報の虚偽。という名の情報の『磨き』。によって、文明という名の情報の『宝石（あるいは鎖）』。へと情報の情報の、作り変える情報の、秘密の情報の工学。 ",
+		"aftertaste": "音もなく情報の情報の、情報の情報の。情報の巨大な情報の歯車。を回す、情報の、情報のその指先の情報の冷徹。に、情報の、情報の戦慄と敬意を聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"state (立つこと) + craft (力)。情報の、情報の『確立された力の。行使』。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "geopolitics",
+		"word": "Geopolitics",
+		"part_of_speech": "noun",
+		"meaning": "地政学、情報の、大地の意志の情報の学、情報の境界と情報の情報の重力",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "geo-",
+					"type": "prefix",
+					"meaning": "earth"
+				},
+				{
+					"text": "politikos",
+					"type": "root",
+					"meaning": "of the city/state"
+				}
+			],
+			"original_statement": "From German Geopolitik (1899)."
+		},
+		"core_concept": {
+			"en": "politics, especially international relations, as influenced by geographical factors",
+			"ja": "大地（earth）という名の情報の『物理的なる絶対性』。が、国家（city/state）という名の情報の『意志』。をどのように情報の情報の情報の拘束し、情報の、情報の方向づけるか。その非情な情報の力学の。情報の解析。"
+		},
+		"thinking_layer": "大地の政治学。地図という名の情報の『平面』。の上に、山脈、海洋、情報の距離。という名の情報の『引力』。を配置し、人類の情報の闘争の、情報の。必然を峻烈に情報の予測する術。それは、神の情報の視線への。情報の情報の情報の僭称。 ",
+		"aftertaste": "一線の境界。が、何百万の情報の情報の情報の生と。死を情報の情報の分けている。その情報の冷徹なる情報の。物理的根拠。に情報の、静かなる絶望を聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"geography, politics。情報の、情報の『情報の情報の、場所による宿命。の定式化』。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "governance",
+		"word": "Governance",
+		"part_of_speech": "noun",
+		"meaning": "統治、ガバナンス、情報の情報の。舵取りの情報の情報の叡智、秩序の情報の情報の情報の情報の維持",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "kybernan",
+					"type": "root",
+					"meaning": "to steer"
+				}
+			],
+			"original_statement": "From Old French governer, from Latin gubernare 'to steer'."
+		},
+		"core_concept": {
+			"en": "the action or manner of governing",
+			"ja": "社会という名の情報の『巨船』。その舵（steer）を、峻烈な情報の『理（ratio）』。によって。情報の情報の情報の、取り、。情報の波濤を情報の越えてゆく、。情報の情報の、秩序の。身振り。"
+		},
+		"thinking_layer": "舵を取ること。単なる支配（rule）という名の情報の『暴力』。を超え、制御という名の情報の『精緻』。へと実存を情報の昇華させる、情報の情報の、情報の情報の情報の。知的なる情報の情報の、情報の操船。 ",
+		"aftertaste": "静かに情報の情報の、情報の。情報の情報の。進路を変えゆく、情報の情報の。情報の、その不可視な情報の情報の情報の『意志の情報の強さ』。に情報の、文明の情報の静かなる情報の、誇りを。情報の聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"cybernetics と同じ root。情報の『情報の、フィードバックによる。制御』。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "federation",
+		"word": "Federation",
+		"part_of_speech": "noun",
+		"meaning": "連邦、情報の情報の、誓いによる情報の情報の情報の統合、信義の情報の情報の組織",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "foedus",
+					"type": "root",
+					"meaning": "league, treaty, compact, trust"
+				}
+			],
+			"original_statement": "From Latin foederare (from foedus)."
+		},
+		"core_concept": {
+			"en": "a group of states with a central government but independence in internal affairs",
+			"ja": "信義（trust）という名の情報の『糸』。によって、独立した情報の実存（states）たちが。情報の情報の、『一つの盟約（league）』。へと情報の情報の、固く情報の情報の。結ばれた、情報の。情報の共同体。"
+		},
+		"thinking_layer": "誓約によって結ばれたもの。単一という名の情報の『窒息』。を情報の情報の情報の峻烈に辞し、多様という名の情報の『呼吸』。を情報の情報の保ちながら、外敵という名の情報の『嵐』。に対しては情報の情報の、一なる情報の情報の情報の。盾。として機能する、。情報の情報の。情報の情報の情報の信義の工学。 ",
+		"aftertaste": "異なる。情報の情報の。情報の旗が。情報の、一つの情報の風。に情報の情報の。情報のなびく情報の、その情報の、情報の危うき情報の、均衡の。情報の美に戦慄する。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"confidence, faith と同じ root。情報の『信じる。という情報の物理』。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "commonwealth",
+		"word": "Commonwealth",
+		"part_of_speech": "noun",
+		"meaning": "連邦、共同体、情報の情報の情報の。共有されたる情報の情報の豊かさ、公の情報の情報の福祉",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "common",
+					"type": "root",
+					"meaning": "common"
+				},
+				{
+					"text": "wealth",
+					"type": "root",
+					"meaning": "well-being, health"
+				}
+			],
+			"original_statement": "From common + wealth (well-being)."
+		},
+		"core_concept": {
+			"en": "an independent country or community, especially a democratic republic",
+			"ja": "。個々の情報の『私』。を超えた、共通（common）の『。情報の健康と豊かさ（well-being）』。を情報の情報の、情報の情報の情報の、唯一絶対の。情報の目的。とする、。情報の情報の生命の、情報の情報の。円環。"
+		},
+		"thinking_layer": "共通の幸福。富（wealth）とはかつて情報の情報の。健康のこと。一部の情報の『簒奪』。ではなく、全実存の情報の『安寧』。を情報の情報の、情報の、正当性という名の情報の情報の、情報の根拠。とする、。情報の民主的なる情報の、情報の。情報の情報の、高潔なる情報の情報の物語。 ",
+		"aftertaste": "情報の情報の、情報の情報の。情報の広大なる。情報の情報の平原。そこに。情報の情報の情報の。情報の皆の、。情報の、情報の、穏やかなる情報の情報の情報の。情報の声。を聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"wealth は well-th。情報の『善き情報の状態』。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "annexation",
+		"word": "Annexation",
+		"part_of_speech": "noun",
+		"meaning": "併合、情報の情報の情報の情報の強制的接続、他者の情報の簒奪という名の情報の。結合",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "ad-",
+					"type": "prefix",
+					"meaning": "to"
+				},
+				{
+					"text": "nectere",
+					"type": "root",
+					"meaning": "to bind, tie"
+				}
+			],
+			"original_statement": "From Latin annexio (from annectere)."
+		},
+		"core_concept": {
+			"en": "the action of annexing something, especially territory",
+			"ja": "他なる情報の『身体（territory）』。を、自らの情報の『身体』。へと情報の、情報の峻烈に『情報の、情報の、繋ぎ合わせる（bind to）』。という、情報の情報の。情報の情報の非情なる情報の、。情報の拡大の情報の身振り。"
+		},
+		"thinking_layer": "（～に）繋ぐこと。境界という名の情報の『盾』。を情報の、情報の情報の。暴力。によって、情報の情報の粉砕し、。他者の情報の、情報の情報の独立。を、。情報の情報の自己の情報の『一部』。へと情報の情報の、強制的に情報の、情報の情報の情報の書き換える。それは、情報の、情報の情報の情報の。略奪の、。情報の情報の物理的なる情報の情報の完結。 ",
+		"aftertaste": "断ち切られた情報の情報の、他者の情報の情報の。情報の記憶。そこに。情報の情報の情報の自己の情報の、。情報の『印』。を情報の、情報の情報の刻む情報の、。情報の情報の、。情報の恐ろしきまでの、。情報の。情報の飢餓の情報の、満足。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"connect と同じ root。情報の『情報の、強制的なる情報のリンク』。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
