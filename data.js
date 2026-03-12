@@ -257835,5 +257835,119 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "coppice",
+		"word": "Coppice",
+		"part_of_speech": "noun/verb",
+		"meaning": "萌芽更新（ほうがこうしん）の林、切り株から芽が出た林、～を刈り込む",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "colaphus",
+					"type": "root",
+					"meaning": "a blow with the fist (拳での一撃)",
+					"lang": "Latin"
+				},
+				{
+					"text": "kolaphos",
+					"type": "root",
+					"meaning": "a blow (一撃、打撃)",
+					"lang": "Greek"
+				}
+			],
+			"original_statement": "From Old French copeiz, from coper 'to cut'."
+		},
+		"core_concept": {
+			"en": "An area of woodland in which the trees or shrubs are periodically cut back to ground level to stimulate growth and provide firewood or timber",
+			"ja": "一度、鋭い斧による『一撃（blow/cut）』を受けて切り倒されたにもかかわらず、その切り株から再び力強く芽を吹き返した樹木たちの集まり。痛みの中から再生する、不屈の生命の循環"
+		},
+		"thinking_layer": "『切り取ること』。カッター（Cutter）やコピー（Copy/切り取って増やす？）は関係なく、カプセル（Capsule/切り取られた小部屋？）もおそらく。語源は「打撃、切り取ること」。ただの「森」ではなく、人間の積極的な「介入（cutting）」によって、若々しさと機能性を保ち続ける林。それは、挫折をバネにしてより太く育つ「レジリエンス（回復力）」の植物学的実在。",
+		"aftertaste": "一見すると切り株ばかりの無惨な風景が、数年後にはしなやかな細い幹の「群棲（coppice）」に生まれ変わっているのを見る時の、あの「死は終わりではない」という力強い確信。あるいは、自分のプライドが一度完膚なきまでに叩き潰された後に、そこから全く新しい「可能性の芽」が吹き出したことに気づいた時の、あの清々しい痛み。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "skep-",
+					"meaning": "to cut, scrape (forming kolaphos?)"
+				}
+			],
+			"points": [
+				"cope（切り分ける＝対処する）, coupon（切り取った券）, capon（去勢鶏）と同根。",
+				"『再生（renewal）』のためには、一度その存在の『頂点（peak）』を切り落とさなければならないという、自然界の厳しい、しかし慈悲深い法則。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "spinney",
+		"word": "Spinney",
+		"part_of_speech": "noun",
+		"meaning": "小さな林、茂み",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "spina",
+					"type": "root",
+					"meaning": "thorn (棘、刺)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Old French espinei, from Latin spinetum, from spina 'thorn'."
+		},
+		"core_concept": {
+			"en": "A small area of trees and bushes",
+			"ja": "もとは『棘のある（thorn）』茂みのこと。足を踏み入れるのを拒むような、しかし小鳥たちが身を隠すには格好の、密度の高い小さな森。そこには、小さな生命が外敵から守られるための「尖った優しさ」が満ちている"
+		},
+		"thinking_layer": "『棘のある場所』。スパイン（Spine/脊椎＝棘のようなもの）や、おなじみの「スピン（Spin/回転する＝糸を紡ぐ＝棘を使う？）」と関係あり。ただの「林（Grove）」よりも、より刺々しく、未整理で、隠微な（private）場所を指します。それは、地図にも載らないような名もなき茂み、あるいは、子供たちの秘密の基地。",
+		"aftertaste": "夕暮れの「茂み（spinney）」の影に身を潜め、追っ手をやり過ごす時の、あの恐怖と興奮が混ざり合った心臓の鼓動。あるいは、自分の守りたい大切な秘密を、誰にも見つからないように、この「言葉の茂み（spinney）」の中にそっと埋める時の、あの安らかな緊張。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "spei-",
+					"meaning": "sharp point"
+				}
+			],
+			"points": [
+				"spine, spike, spire, spit（串）, pinnacle（尖塔）と同根の説あり。",
+				"『防衛（defense）』とは、自らの境界線に『鋭さ（sharpness）』を持たせることであり、その鋭さが密集した場所（spinney）こそが、最も安全な聖域となる。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "dell",
+		"word": "Dell",
+		"part_of_speech": "noun",
+		"meaning": "小谷、狭い谷間、（木に覆われた）窪地",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "del-",
+					"type": "root",
+					"meaning": "hollow, deep (空洞の、深い)",
+					"lang": "Germanic"
+				}
+			],
+			"original_statement": "Related to dale."
+		},
+		"core_concept": {
+			"en": "A small valley, usually among trees",
+			"ja": "森の中に潜む、緩やかな傾斜に囲まれた『小さなくぼみ（hollow）』。外界の喧騒から一段低くなった場所にあり、そこだけに特別な時間が流れているような、親密で、少しだけミステリアスな、地のゆりかご"
+		},
+		"thinking_layer": "『深い場所』。デイル（Dale/谷）と同根。大手PCメーカーの社名の由来ではありませんが、「深く入り込んだ場所（valley）」というニュアンスは共通しています。ただの「谷」よりも小さく、愛らしく、そして何かに「守られている（enclosed）」感じを伴います。それは妖精が住むと言われる伝説の場所から、初恋の人と内緒話をした学校の裏山の窪地まで。",
+		"aftertaste": "「小さな谷（dell）」の底に溜まったひんやりとした空気を肌で感じながら、上方の木々のざわめきを遠くに聞いている時の、あの自分が大地に抱かれているような、深い安心感。あるいは、自分の心の中にある、誰にも見せていない「小さな秘密が眠る窪地（dell）」を、そっとなぞる時の、あの甘美な自己疎外感。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "dhel-",
+					"meaning": "hollow, deep"
+				}
+			],
+			"points": [
+				"dale, valley, delve（深く掘り下げる）と同根。",
+				"『理解（understanding）』への道は、常に表面の平坦さを捨て、この『深い空洞（hollow）』へと自ら降りてゆく（delve）ことから始まる。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
