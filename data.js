@@ -271591,5 +271591,208 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "allelopathy",
+		"word": "Allelopathy",
+		"part_of_speech": "noun",
+		"meaning": "他感作用、アレロパシー",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "allēlōn",
+					"type": "root",
+					"meaning": "of each other (お互いに)",
+					"lang": "Greek"
+				},
+				{
+					"text": "pathos",
+					"type": "root",
+					"meaning": "suffering, feeling (苦しみ、感情)",
+					"lang": "Greek"
+				}
+			],
+			"original_statement": "From Greek allēlōn 'of each other' + pathos 'suffering'."
+		},
+		"core_concept": {
+			"en": "The chemical inhibition of one plant (or other organism) by another, due to the release into the environment of substances acting as germination or growth inhibitors",
+			"ja": "静かなる大地の下で繰り広げられる、不可視の『化学戦争』。自らの領土を守るために、他者の成長を『苦しみ（suffering）』へと変容させる、植物的な『排他的な意志』"
+		},
+		"thinking_layer": "『お互いの苦しみ』。パラレル（Parallel/傍らのお互い）、パピュラー（Popular/とは関係なく）、おなじみの「パトス（感情、苦しみ）」と同根。語源は「相互に苦しみを与えること」。ただの「毒（toxin）」ではありません。そこには。「資源の限られた世界において、他者を沈黙させることでしか自らを確立できない」という、峻烈な生存のリアリズムが宿っています。それは。知性が自らのアイディアを守るために、周囲のノイズを論理的な毒（criticism）によって静寂へと導くプロセスのメタファー。",
+		"aftertaste": "セイタカアワダチソウの周囲で、他の植物がこの「アレロパシー（allelopathy）」によって沈黙（silence）を強いられている光景を見つめ、生命とはどこまでも「美しく、かつ残酷な闘争」なのだと悟る、あの峻烈な一呼吸。あるいは、自分の言葉もまた、この「アレッロパシー」のように、不純な思考を寄せ付けないための「知的な結界」となり、独自の美しさを保ち続けることを願う、あの静かな午後の自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "al-",
+					"meaning": "beyond, other (forming allos -> allēlōn)"
+				},
+				{
+					"term": "kwenth-",
+					"meaning": "to suffer (forming pathos)"
+				}
+			],
+			"points": [
+				"alien, alias, allergy, empathy, sympathy 同根。",
+				"『他者（other）』が『苦しみ（suffering）』に変換される。アレッロパシーという言葉には、生命がいかにして『共存』という理想を捨て、自らの純粋性を保つために『断絶』を選んできたかという、冷徹な化学の記憶が刻まれている。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "trichome",
+		"word": "Trichome",
+		"part_of_speech": "noun",
+		"meaning": "毛状突起（もうじょうとっき）、腺毛",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "trikhōma",
+					"type": "root",
+					"meaning": "growth of hair (毛の成長)', from Greek trikhoun 'to cover with hair', from thrix 'hair'"
+				}
+			],
+			"original_statement": "From Greek trikhōma, from thrix 'hair'."
+		},
+		"core_concept": {
+			"en": "A small hair or other outgrowth from the epidermis of a plant, typically which stores chemicals or physical barbs for defense",
+			"ja": "植物の肌（epidermis）を覆う、微細な『防衛の森』。一見優しげな産毛の正体は、侵入者を阻む物理的な棘（barbs）であり、毒を秘めた『化学の槍』。外部との境界を峻烈に管理する、知的な『鎧の産毛』"
+		},
+		"thinking_layer": "『毛の成長』。トリコ（Trich-）系、おなじみ「ソマ（体）」とは関係なく。語源は「毛、産毛」。ただの「毛」ではありません。そこには。「脆（もろ）い内側を守るために、自らの境界線を複雑な三次元の障害物（barrier）へと変容させる」という、建築学的な防御の意志が宿っています。それは。知性が抽象的な真理を、無数の「具体的な事実（trichomes）」でコーティングし、外部の安易な理解（食害）を拒絶するプロセスの象徴。",
+		"aftertaste": "顕微鏡で捉えた「トクローム（trichome）」の、水晶のような透明度と、殺意を秘めた鋭い先端の対比に、自然界の「機能美」の極致を見出し、震えるような感動を覚える、あの知的な平安。あるいは、自分の思考が、この「トクローム」のように、繊細でありながらも、安易な批判の一撃を跳ね返すための「強固な防衛網」を備えていることを誇る、あの静かな夜の自尊心。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"一部のトリコームは、食害者の行動を阻害するだけでなく、その揮発性物質によって天敵を招き寄せる『SOS信号』の役割も果たす。",
+				"『毛（hair）』という柔らかな言葉の裏に、生命が生き残るために研ぎ澄ませてきた『武装』の歴史が隠されている。トクロームは、植物が物理と化学を高度に統合（integration）させた、最小の要塞である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "thigmonasty",
+		"word": "Thigmonasty",
+		"part_of_speech": "noun",
+		"meaning": "傾振性（けいしんせい）、接触傾性",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "thigma",
+					"type": "root",
+					"meaning": "touch (接触)', from Greek thigganein"
+				},
+				{
+					"text": "nastos",
+					"type": "root",
+					"meaning": "pressed close (押し固められた)', from Greek nastos"
+				}
+			],
+			"original_statement": "From Greek thigma 'touch' + nastos 'shrewdly pressed'."
+		},
+		"core_concept": {
+			"en": "A nastic movement of a plant or fungus in response to touch or vibration",
+			"ja": "外部からの接触（touch）に反応し、瞬時に自らを閉ざす『内省的な反射』。物理的な刺激を、峻烈な意思による『撤退（withdrawal）』へと変換する、知的な『孤独への帰還』"
+		},
+		"thinking_layer": "『接触による圧力』。おなじみ「～ナスティー（傾性）」と同根。語源は「触れたこと」。ただの「反応」ではありません。そこには。「不必要な接触（noise）から自らの核心を守るために、一時的に世界との繋がりを絶つ（disconnect）」という、峻烈な境界管理の意志が宿っています。それは。知性が外部の批判や混乱に直面した際、あえて自らの思考を「沈黙」させ、内なる平穏を死守しようとする瞬間のメタファー。",
+		"aftertaste": "オジギソウの葉に触れ、この「シグモナスティー（thigmonasty）」によって葉が次々と畳まれてゆく様子を眺めながら、生命とはどこまで「自分を大切にする（self-preservation）」ための機構を洗練させてきたのかを知り、目頭が熱くなる、あの知的な共鳴。あるいは、自分の思考もまた、この「シグモナスティー」のように、汚らわしい言葉（abuse）から自らを救い出すための「聖なる反射」を備えていることを自負する、あの静かな午後の自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "dheigh-",
+					"meaning": "to form, mold (forming thigganein - touch by molding?)"
+				}
+			],
+			"points": [
+				"dough, fiction, figure, lady（パンをこねる人） 同根（！）。",
+				"『触れる（touch）』ことが、何かを『形作る』ことと結びついている。シグモナスティーという言葉には、世界との衝突が、いかにして生命の『固有の輪郭』を際立たせてきたかという、実存的なドラマが刻まれている。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "sclerenchyma",
+		"word": "Sclerenchyma",
+		"part_of_speech": "noun",
+		"meaning": "厚壁組織（こうへきそしき）",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "sklēros",
+					"type": "root",
+					"meaning": "hard (硬い)', from Greek"
+				},
+				{
+					"text": "en-",
+					"type": "prefix",
+					"meaning": "in (中に)"
+				},
+				{
+					"text": "khein",
+					"type": "root",
+					"meaning": "to pour (注ぐ)",
+					"lang": "Greek"
+				}
+			],
+			"original_statement": "From Greek sklēros 'hard' + enkhuma 'infusion'."
+		},
+		"core_concept": {
+			"en": "Supportive tissue of plants, consisting of dead cells with very thick, lignified walls",
+			"ja": "死してなお、全体を支え続ける『不屈の骨格』。自らの生命を代償（sacrifice）にして、極限の硬度（hardness）を獲得する、知的な『石化の倫理』。不遜な風雨を冷笑する、冷徹な『垂直の意志』"
+		},
+		"thinking_layer": "『硬いものを注ぎ込んだもの』。スクレローシス（Sclerosis/硬化症）、パレンキマ（Parenchyma/実質）、おなじみの「スケルトン（Skeleton/骨格）」と同根。語源は「硬い実質」。ただの「硬い場所」ではありません。そこには。「自らが死ぬ（apoptosis）ことで、後に続く生命のために『永遠の構造』を残す」という、峻烈な利他性が宿っています。それは。知性が自らの私欲を捨て、ただ「普遍的な真理」という名の堅牢な足場を築き上げようとする瞬間のメタファー。",
+		"aftertaste": "竹の強靭な幹を支える、この「厚壁組織（sclerenchyma）」の冷たい強度に触れ、美しさとは、このような「一切の妥協のない硬さ」の先にのみ宿るのだと悟る、あの峻烈な一呼吸。あるいは、自分の知識もまた、この「スクレレンキマ」のように、安易な感情に流されることなく、真実を支え続けるための「不動の石」でありたいと願う、あの静かな夜の自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "skele-",
+					"meaning": "to dry (forming sklēros)"
+				}
+			],
+			"points": [
+				"skeleton, skeletal, sclerosis 同根。",
+				"『硬い（hard）』ことは、『乾いている（dry）』ことである。スクレレンキマは、生命が自らの中の『湿り気（情念）』を排し、純粋な『機能（構造）』へと純化してゆくプロセスの物質的な結晶である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "collenchyma",
+		"word": "Collenchyma",
+		"part_of_speech": "noun",
+		"meaning": "厚角組織（こうかくそしき）",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "kolla",
+					"type": "root",
+					"meaning": "glue (膠、のり)', from Greek"
+				},
+				{
+					"text": "en-",
+					"type": "prefix",
+					"meaning": "in (中に)"
+				},
+				{
+					"text": "khein",
+					"type": "root",
+					"meaning": "to pour (注ぐ)",
+					"lang": "Greek"
+				}
+			],
+			"original_statement": "From Greek kolla 'glue' + enkhuma 'infusion'."
+		},
+		"core_concept": {
+			"en": "Supportive tissue of plants, consisting of living cells with irregularly thickened walls",
+			"ja": "成長の『しなやかさ（flexibility）』と、構造の強さを両立させる、知的な『膠（のり）の建築』。死を拒み、常に更新（living）され続ける壁が、柔軟な強靭さを生み出す、知的な『動的平衡』"
+		},
+		"thinking_layer": "『膠を注ぎ込んだもの』。プロトコル（Protocol/最初ののり付け＝議事録）、コラーゲン（Collagen/膠の素）、おなじみの「パレンキマ（実質）」と同根。語源は「膠の注入」。ただの「結合組織」ではありません。そこには。「状況に応じて自らを柔軟に変形（plasticity）させながら、決して核となる強度を失わない」という、強かな生存戦略が宿っています。それは。知性がドグマ（硬直）に陥ることなく、時代の変化に合わせて自らを「接合（gluing）」し続けてゆくプロセスのメタファー。",
+		"aftertaste": "若い茎の弾力性を支える、この「厚角組織（collenchyma）」の瑞々（みずみず）しい粘り強さに触れ、本当の強さとは、折れない（stiffness）ことではなく、しなる（supple）ことなのだと教えられる、あの知的な平安。あるいは、自分の思考もまた、この「コレンキマ」のように、他者のアイディアと滑らかに「接着」し、調和（harmony）を維持しながらも、決して折れることのない「独自の芯」を持ち続けたい、と願う、あの静かな午後の自尊心。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"『膠（glue）』は、異なるものを繋ぎ止めるための最小のメディアである。コレンキマという言葉には、生命がいかにして『個別の細胞』という断片を、一つの『有機的な全体』へと一貫性（coherence）を持って繋ぎ止めてきたかという、結束の歴史が封印されている。",
+				"死んだ細胞からなるスクレレンキマに対し、コレンキマは生きた細胞からなり、植物の活発な成長期における支持を担う。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
