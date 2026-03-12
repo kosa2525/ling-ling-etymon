@@ -255318,5 +255318,165 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "gustatory",
+		"word": "Gustatory",
+		"part_of_speech": "adjective",
+		"meaning": "味覚の、味に関する",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "gustus",
+					"type": "root",
+					"meaning": "taste (味、好み)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin gustatorius, from gustus 'taste'."
+		},
+		"core_concept": {
+			"en": "Relating to the sense of taste",
+			"ja": "舌に触れ、咀嚼し、嚥下するという、物質の『質』を徹底的に吟味する『味覚』の。自分の肉体の一部として受け入れていいか、あるいは拒絶すべきかを判断する、究極の審美眼"
+		},
+		"thinking_layer": "『味わうこと』。ディスガス（Disgust/嫌悪＝味が悪い、不快な）と同根。ただ「食べる」のではなく、その複雑な「響き」を理解すること。それは肉体的な快楽である以上に、自分が世界をどれだけ「許容（Appreciation）」できるかという、魂の容量を示す指標でもあります。",
+		"aftertaste": "一口のスープに込められた、何十時間もの抽出と熟成の物語を、全末梢神経で解き明かす瞬間の、あの知的な陶酔。あるいは、嫌いな味を無理やり飲み込もうとした時の、身体全体が震えるような「拒絶（Disgust）」の純粋さ。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "geus-",
+					"meaning": "to taste, choose"
+				}
+			],
+			"points": [
+				"choose, disgust, gusto（熱情＝味わうこと）と同根。",
+				"『味わうこと（tasting）』とは、世界の中から自分に合うものを『選ぶ（choosing）』という自由意志の行使である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "haptic",
+		"word": "Haptic",
+		"part_of_speech": "adjective",
+		"meaning": "触覚の、触覚に関する、触れて感じる",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "haptikos",
+					"type": "root",
+					"meaning": "able to touch (触れることができる)",
+					"lang": "Greek"
+				},
+				{
+					"text": "haptesthai",
+					"type": "root",
+					"meaning": "fasten, touch (固定する、触れる)",
+					"lang": "Greek"
+				}
+			],
+			"original_statement": "From Greek haptikos, from haptesthai 'touch, fasten'."
+		},
+		"core_concept": {
+			"en": "Relating to the sense of touch, especially the perception and manipulation of objects using the senses of touch and proprioception",
+			"ja": "視覚という「距離のある感覚」を越えて、対象を直接『掴み（fasten）』、その質感や硬さを自分の肌で確かめる『触覚』の。世界との境界線を物理的に確認する、最も確かな実感が宿る場所"
+		},
+		"thinking_layer": "『触れることができること』。アプト（Apt/適切な＝ぴったり合う）やアダプト（Adapt/適応する＝合わせる）とおそらく遠い親戚。ただの「タッチ（touch）」ではなく、対象の構造を理解するための「能動的な接触」。テクノロジーの世界では、振動や力で「触覚」を再現する技術を指します。それは、デジタルな虚像に「実体（Substance）」を与える最後の魔法。",
+		"aftertaste": "暗闇の中で壁を伝い歩き、指先に伝わる石の冷たさだけを頼りに自分の位置を確認する、あの心もとなくも確かな生存の感覚。あるいは、スマートフォンから返ってくる微かな振動に、機械の向こう側にある「温もり」を錯覚してしまいそうになる、あの現代的な切なさ。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ap-",
+					"meaning": "to reach, fasten"
+				}
+			],
+			"points": [
+				"apt, adapt, aptitude, haptic 同根。",
+				"『触れる（touch）』ことは、『到達し（reach）』、そして『繋ぎ止める（fasten）』ことであるという、古代の人々の力強い世界へのコミットメント。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "kinesthetic",
+		"word": "Kinesthetic",
+		"part_of_speech": "adjective",
+		"meaning": "運動感覚の、運動感覚に関する",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "kinēsis",
+					"type": "root",
+					"meaning": "motion (運動)",
+					"lang": "Greek"
+				},
+				{
+					"text": "aisthēsis",
+					"type": "root",
+					"meaning": "feeling, perception (感覚)",
+					"lang": "Greek"
+				}
+			],
+			"original_statement": "From Greek kinēsis 'motion' + aisthēsis 'sensation'."
+		},
+		"core_concept": {
+			"en": "Relating to a person's awareness of the position and movement of the parts of the body by means of sensory organs",
+			"ja": "目で見ずとも、自分の手足が今どこにあり、どのような力を生み出しているかを感知する『運動感覚』の。肉体と意志が完全に一つになり、空間を駆け抜ける躍動の直感"
+		},
+		"thinking_layer": "『動きの感覚』。キネティック（Kinetic/動的な）やエステティクス（Aesthetics/美学＝感覚の学問）と同根。筋肉の収縮や関節の角度を「感じる（feeling）」こと。それは舞踏家やアスリートが操る、言葉にならない高度な身体知性。じっとしていても、私たちは自分の「存在」を、この微かな運動の予感によって確認しています。",
+		"aftertaste": "目をつぶって、自分の指先を真っ直ぐ鼻の頭に持っていく、あの完璧な内部座標系への信頼。あるいは、ブランコを漕いで空へ高く舞い上がる瞬間の、重力と風を全身の「バネ」で感じ取る、あの野生の全能感。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kei-",
+					"meaning": "to set in motion"
+				},
+				{
+					"term": "au-",
+					"meaning": "to perceive"
+				}
+			],
+			"points": [
+				"cinema, kinetic, anesthesia（麻酔＝感覚がない）, aesthetic 同根。",
+				"『美しさ（aesthetic）』の起源は、外部の観察ではなく、自らの肉体の『動き（motion）』を感知する生々しい『実感』にあったという発見。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "somatic",
+		"word": "Somatic",
+		"part_of_speech": "adjective",
+		"meaning": "身体の、肉体の、身体的な",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "sōma",
+					"type": "root",
+					"meaning": "body (肉体)",
+					"lang": "Greek"
+				}
+			],
+			"original_statement": "From Greek sōmatikos, from sōma 'body'."
+		},
+		"core_concept": {
+			"en": "Relating to the body, especially as distinct from the mind",
+			"ja": "精神（Psyche）という名の漂う雲に対し、重力に従い、痛みを感じ、やがては土に還る『肉体（body）』そのものの。言葉で説明し尽くせない、細胞レベルの生々しい実在"
+		},
+		"thinking_layer": "『体（からだ）の』。ソマ（Soma/肉体、または薬物）と同根。心理学では「心身症（psychosomatic）」のように、心が肉体に与える影響、あるいは肉体が語り始める「沈黙の言葉」を指します。脳（Brain）は嘘をつきますが、身体（Body）は常に真実を、不調や快楽という形で叫び続けています。",
+		"aftertaste": "どれだけ精神的に強くあろうとしても、寒さに震え、空腹に苛まれるのを止められない、あの物理的な不自由さの愛らしさ。あるいは、あまりにも深い悲しみを、言葉ではなく「胸の奥の重苦しい痛み」として、肉体が勝手に翻訳してしまった時の、逃げ場のない真実。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "tēu-",
+					"meaning": "to swell (potentially source of soma/body)"
+				}
+			],
+			"points": [
+				"tumor, thumb 同根の説あり。",
+				"『肉体（body）』とは、虚無の中にボコりと『膨れ上がった（swell）』、期間限定の『充填された空間』である。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
