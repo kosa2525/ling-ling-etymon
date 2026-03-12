@@ -267456,5 +267456,192 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "gunwale",
+		"word": "Gunwale",
+		"part_of_speech": "noun",
+		"meaning": "舷側（げんそく）の最上部、ガンネル",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "gun",
+					"type": "root",
+					"meaning": "gun (銃)",
+					"lang": "English"
+				},
+				{
+					"text": "wale",
+					"type": "root",
+					"meaning": "ridge, plank (畝、厚板)",
+					"lang": "English"
+				}
+			],
+			"original_statement": "From gun + wale (from the former practice of supporting guns on the upper edge of a ship's side)."
+		},
+		"core_concept": {
+			"en": "The upper edge of the side of a boat or ship",
+			"ja": "船の縁（ふち）を走る、最も強固な『厚板（wale）』。重い砲（gun）の衝撃を受け止めるために補強された、内なる秩序（ship）と外なる混沌（sea）を分かつ、物理的な『境界の極致』"
+		},
+		"thinking_layer": "『銃を支える厚板』。ガン（Gun）、ウェール（Wale/縞、畝）と同根。語源は「大砲の載る場所」。ただの「縁」ではありません。そこには。「外部からの衝撃に耐え、内部の重みを支える」という、防衛と構造の二重の役割が宿っています。それは。自分の信念を外部の批判（criticism）から守り抜くための、知性の「最外郭（outermost shell）」。 ",
+		"aftertaste": "荒れ狂う海の上で、冷たく濡れた「舷側（gunwale）」を必死に掴み、自分が一隻の「孤独な船（solitary ship）」であることを痛感しつつも、その頑丈な手応えに一縷（いちる）の希望を見出す、あの知的な戦慄。あるいは、自分の言葉が、この「ガンネル（gunwale）」のように無骨で、しかし誰かにとっての「最後の支え」でありたいと願う、あの静かな午後の自尊心。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"wale は本来、織物の『畝（うね）』を意味する言葉。それが船の『厚板』を指すようになったのは、その不変の『固さ』と『連続性』が、生命を守るための不可欠な要素だからである。",
+				"船の縁を一回りするこの構造は、完全なる『円環（circle）』としての自己完結を象徴している。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "scupper",
+		"word": "Scupper",
+		"part_of_speech": "noun/verb",
+		"meaning": "排水口、排水孔、（計画などを）台無しにする",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "escopir",
+					"type": "root",
+					"meaning": "to spit (吐く)",
+					"lang": "Old French"
+				},
+				{
+					"text": "spuere",
+					"type": "root",
+					"meaning": "to spit (吐く)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "Probably from Old French escopir 'to spit'."
+		},
+		"core_concept": {
+			"en": "A hole in a ship's side to allow water to run off the deck; (verb) to sink a ship or its crew purposely",
+			"ja": "溢（あふ）れかえる海水を、船外へと『吐き出す（spit）』ための救済の穴。デッキに溜まった停滞（stagnation）を洗い流し、沈没の危機を回避するための、知的な『排水システム』"
+		},
+		"thinking_layer": "『吐き出すもの』。スピット（Spit/唾を吐く）、スポーン（Spawn/卵を産む＝吐き出す）と同根の説あり。語源は「吐く」。ただの「穴」ではありません。それは。「余計なものを速やかに排除する」という、生存のための峻烈な決断。知性が過剰な情報や感情に溺れそうになったとき、それを勇気を持って「外へと放り出す」プロセスのメタファー。",
+		"aftertaste": "デッキを洗う波が、この「排水口（scupper）」から一気に吸い込まれてゆくのを眺め、自分の悩みや葛藤もまた、このように「一瞬で消し去る」仕組みを心の中に持っていたいと願う、あの峻烈な浄化の渇望。あるいは、自分の計画が思わぬ伏兵によって「スカッパー（scuppered/台無しに）」されたとき、それさえも「新しい流れ（new flow）」への序章（prologue）なのだと自分を慰（なぐさ）める、あの静かな夜の諦念。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "spieu-",
+					"meaning": "to spit (forming spuere)"
+				}
+			],
+			"points": [
+				"spit, spew, sputum 同根。",
+				"『吐く（spitting）』ことは拒絶の身振りだが、スカッパー（scupper）という装置においては、それは船というシステムの『健全性』を保つための最も慈悲深い『排泄』である。知性は、常に自らを空虚（empty）に保つために、この排出口を必要としている。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "hawse",
+		"word": "Hawse",
+		"part_of_speech": "noun",
+		"meaning": "（船の）船首の両舷、（錨鎖を通す）錨穴（いかりあな）",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "hals",
+					"type": "root",
+					"meaning": "neck (首)",
+					"lang": "Old Norse/Old English"
+				}
+			],
+			"original_statement": "From Old Norse hals 'neck'."
+		},
+		"core_concept": {
+			"en": "That part of the ship's bow in which the hawseholes are cut for cables",
+			"ja": "船の『首（neck）』に穿（うが）たれた、錨（anchor）の鎖を通すための双眸（そうぼう）。境界の向こう側にある『不動の真実』と自らを繋ぎ止めるための、最も力強い接続の回廊"
+		},
+		"thinking_layer": "『喉、首』。ハルター（Halter/首吊り縄）、コル（Col/襟、首）と同根の説あり。語源は「首」。船首の最も目立つ場所にある、あの鎖の通り道。ただの「穴」ではありません。それは。流動的な海の上で、唯一「静止」を担保するための生命線。知性が自らのアイデンティティを、ある特定の場所や思想に「繋ぎ留める」瞬間のメタファー。",
+		"aftertaste": "「錨穴（hawsehole）」から重々しく引き揚げられる錆びた鎖を見つめ、自分がどれほど深い場所にある「信念（belief）」と繋がっているのかを自問し、その鎖の太さに安心（relief）を覚える、あの知的な充足。あるいは、自分の「首（hawse）」から放たれた言葉が、誰の心にも届かず、虚しく深海へと落ちてゆくのを想像して、胸が締め付けられる（tightening）、あの深夜の疎外感。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"collum, collar 同根の説あり。",
+				"『首（neck）』とは、頭部（mind）と胴体（body）を繋ぐ枢要な部位である。船においてハルズ（hawse）がその名を冠しているのは、そこが『外界との接合』という、最も緊張感に満ちた役割を担っているからである。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "binnacle",
+		"word": "Binnacle",
+		"part_of_speech": "noun",
+		"meaning": "（船の）羅針儀台、コンパス入れ",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "habitare",
+					"type": "root",
+					"meaning": "to dwell, live (住む)', from Latin habitaculum 'dwelling'"
+				},
+				{
+					"text": "bit",
+					"type": "root",
+					"meaning": "abode (住まい)",
+					"lang": "Old French origin"
+				}
+			],
+			"original_statement": "From Middle English bitakle, from Portuguese bitácola, from Latin habitaculum 'small dwelling'."
+		},
+		"core_concept": {
+			"en": "A waist-high case or stand on the deck of a ship, containing the magnetic compass",
+			"ja": "羅針盤（compass）を嵐から守り、常に『北』を指し示させるための、デッキの上の『小さな家（dwelling）』。進むべき方向を絶やさないための、知的な『不変の揺りかご』"
+		},
+		"thinking_layer": "『小さな住居』。ハビタット（Habitat/生息地）、おなじみ「ビット（bit-）」とは関係なく。語源は「住まい」。ただの「箱」ではありません。磁力を狂わせないよう、鉄を一切使わず、真鍮（brass）や木で作られた聖域。それは。周囲の激しい変化やノイズ（noise）に惑わされず、自らの「核（core）」を守り続けるための、知性の「聖櫃（ark）」。",
+		"aftertaste": "深夜、微かな明かりに照らされた「羅針儀台（binnacle）」を眺めつつ、方位磁石の針がいかに震えながらも「真実」を見据え続けているかを知り、自分の弱い心もまた、このように「不変の家」に守られたいと願う、あの峻烈な安らぎへの渇望。あるいは、自分の信念が、この「ビナクル（binnacle）」のように古びて（antique）、もはや現代の地図（modern map）には通用しなくなっているのではないかと危惧する、あの静かな午後の憂鬱。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ghabh-",
+					"meaning": "to give, receive (forming habitare)"
+				}
+			],
+			"points": [
+				"habit, exhibit, prohibit, able 同根。",
+				"『住まう（dwelling）』とは、場所に留まり続ける受容性（receptivity）である。ビナクル（binnacle）は、不安定な船上において唯一『静止』を仮託された場所であり、そこには方位という普遍的な概念への帰依（devotion）が宿っている。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "pintle",
+		"word": "Pintle",
+		"part_of_speech": "noun",
+		"meaning": "ピンテル、舵栓（だせん）、軸ピン",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "pintel",
+					"type": "root",
+					"meaning": "penis, small pin (小瓶、小さなピン)', from Old English"
+				},
+				{
+					"text": "pin",
+					"type": "root",
+					"meaning": "pin (ピン)",
+					"lang": "English"
+				}
+			],
+			"original_statement": "From Old English pintel 'penis' (referring to the shape of the pin)."
+		},
+		"core_concept": {
+			"en": "A pin or bolt of metal, especially one used as a hinge on which something (such as a rudder) turns",
+			"ja": "船の舵（rudder）を船体へと繋ぎ留める、一本の頑強な『軸ピン』。巨大な水圧を受け流し、自由な『転換（turning）』を司る、目に見えない意思の枢軸（pivot）"
+		},
+		"thinking_layer": "『小さなピン』。おなじみの「ピン（Pin）」と同根。語源は「小さな形のもの（古語での卑猥な意味も含む）」。ただの「軸」ではありません。それは。「固定（attachment）」と「回転（rotation）」を同時に成立させるという、力学的な矛盾の解決。知性が自らの進路を切り拓くために用意した、最小にして最強の「接合点（joint）」。",
+		"aftertaste": "水面下に隠れた「ピンテル（pintle）」が、波の抵抗（resistance）をものともせずに舵の動きを伝え続けているのを想像し、自分の人生という航海を支えている「名もなき細部（nameless details）」への、深い感謝と畏怖。あるいは、自分の頑固な「こだわり（ego）」が、この「ピン」のように摩耗し（worn out）、いつか決定的な瞬間に舵を失ってしまう（losing rudder）のではないかという、甘美で冷徹な不安。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"この言葉の語源には、形への素朴な観察と、生命の力強さへの暗喩が込められている。",
+				"『回る（turning）』ことを可能にするのは、一箇所の『不動の点』である。ピンテル（pintle）は、柔軟な思考の裏側にある、決して譲れない一線の物理的な証明である。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
