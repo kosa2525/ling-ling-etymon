@@ -273304,5 +273304,225 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "tonoplast",
+		"word": "Tonoplast",
+		"part_of_speech": "noun",
+		"meaning": "液胞膜（えきほうまく）、トノプラスト",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "tonos",
+					"type": "root",
+					"meaning": "tension, tone (緊張、調子)', from Greek teinein 'to stretch'"
+				},
+				{
+					"text": "plastos",
+					"type": "root",
+					"meaning": "molded (形作られた)', from Greek plassein 'to mold'"
+				}
+			],
+			"original_statement": "From Greek tonos 'tension' + plastos 'molded'."
+		},
+		"core_concept": {
+			"en": "A cytoplasmic membrane surrounding a vacuole, separating the vacuolar contents from the cell's cytoplasm",
+			"ja": "内なる海（vacuole）を峻烈な緊張（tension）で封じ込め、生命の均衡を維持する『圧力の皮膚』。自己と非自己、あるいは静寂と喧騒を隔てる、知的な『分子の防潮堤』。"
+		},
+		"thinking_layer": "『緊張によって形作られたもの』。トーン（Tone/音調）、プラズマ（Plasma/形あるもの）、おなじみの「トノ（張力）」と同根。語源は「張った形」。ただの「膜（membrane）」ではありません。そこには。「外部の浸透圧（osmotic pressure）という峻烈な重圧に抗い、自らの内面を完璧な『球体（orb）』として維持し続ける」という、不屈の均衡への意志が宿っています。それは。知性が自らの感情の奔流を、論理という名の「膜」で包み込み、決して全体を崩壊させないようにコントロールする瞬間のメタファー。",
+		"aftertaste": "液胞を包む「トノプラスト（tonoplast）」の、その極薄（ultra-thin）でありながらも強靭な弾力性に想いを馳せ、自分という存在もまた、このような「見えない緊張感」によって美しく保たれているのだとしみじみ感じる、あの知的な平安。あるいは、自分の思考もまた、この「トノプラスト」のように、最も脆く、かつ最も豊かな「内なる沈黙」を守り抜くための、誇り高い「境界の盾」でありたいと願う、あの静かな午後の自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ten-",
+					"meaning": "to stretch (forming teinein)"
+				},
+				{
+					"term": "pele-",
+					"meaning": "to spread, mold (forming plassein)"
+				}
+			],
+			"points": [
+				"tend, tense, thin, tone, plasma, plastic 同根。",
+				"『張る（stretching）』ことが『形（shape）』を生み出す。トノプラストという言葉には、生命が単なるカオス（chaos）から脱却するために、いかにして『緊張』を構造的な『支柱』へと変換してきたかという、物理的な英断が刻まれている。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "plasmalemma",
+		"word": "Plasmalemma",
+		"part_of_speech": "noun",
+		"meaning": "形質膜（けいしつまく）、細胞膜",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "plasma",
+					"type": "root",
+					"meaning": "something molded (形作られたもの)', from Greek plassein 'to mold'"
+				},
+				{
+					"text": "lemma",
+					"type": "root",
+					"meaning": "husk, peel, scale (殻、皮、鱗)', from Greek lepein 'to peel'"
+				}
+			],
+			"original_statement": "From Greek plasma + lemma 'husk'."
+		},
+		"core_concept": {
+			"en": "The plasma membrane of a cell",
+			"ja": "生命という名の『形あるもの（plasma）』を、一枚の薄皮（lemma）で包み込み、宇宙の無秩序から救い出す、峻烈な『存在の殻』。外部との対話を一分子単位で管理する、知的な『情報の検問所』。"
+		},
+		"thinking_layer": "『形作られたものの皮』。プラズマ（Plasma/プラズマ）、レンマ（Lemma/補題＝取り上げられたもの）、おなじみの「プラッセン（形作る）」と同根。語源は「形作られた皮」。ただの「壁（wall）」ではありません。そこには。「剥き出しの生命が、初めて自らの『輪郭（outline）』を意識し、それを死守するために纏（まと）った最前線の防護服」という、峻烈なサバイバルの記憶が宿っています。それは。知性が抽象的な思想に「言葉」という名の薄皮を被せ、この現実世界において一つの明確な「実体」として提示しようとする瞬間のメタファー。",
+		"aftertaste": "「プラズマレンマ（plasmalemma）」が、外部からの栄養（energy）を選別して受け入れ、毒（trash）を峻烈に跳ね返す、その「能動的な選択」の美しさに息を呑み、自分もまた、何を取り入れ、何を拒むべきかを常に冷徹に見極めようと誓う、あの知的な平安。あるいは、自分の心もまた、この「プラズマレンマ」のように、繊細でありながらも、決して外部の汚濁に浸食されることのない「誇り高い膜」であることを信じる、あの静かな夜の自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "pele-",
+					"meaning": "to spread, mold (forming plassein)"
+				},
+				{
+					"term": "lep-",
+					"meaning": "to peel (forming lepein)"
+				}
+			],
+			"points": [
+				"plastic, plasma, leaf, lap（？） 同根。",
+				"『形作る（molding）』ことと『剥ぐ（peeling）』ことの奇妙な共演。プラズマレンマは、生命が自らを形作るために、あえて周囲という連続体から自らを引きちぎり、独立した『皮』を纏おうとした、根源的な孤独の決断を象徴している。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "glycocalyx",
+		"word": "Glycocalyx",
+		"part_of_speech": "noun",
+		"meaning": "糖衣（とうい）、グリコカリックス",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "glukus",
+					"type": "root",
+					"meaning": "sweet (甘い)', from Greek"
+				},
+				{
+					"text": "kalyx",
+					"type": "root",
+					"meaning": "husk, shell (殻、殻)', from Greek kaluptein 'to cover'"
+				}
+			],
+			"original_statement": "From Greek glukus 'sweet' + kalyx 'husk'."
+		},
+		"core_concept": {
+			"en": "A glycoprotein-polysaccharide covering that surrounds the cell membranes of some bacteria, epithelia, and other cells",
+			"ja": "細胞表面を覆う、甘美な『糖の森』。一見柔らかな産毛の正体は、他者を見極め、情報を共有するための精密極まる『触覚（sensors）』であり、峻烈な『化学の認証システム』。"
+		},
+		"thinking_layer": "『甘い殻』。グルコース（Glucose/ブドウ糖）、カリクス（Calyx/がく）、おなじみの「グリコ（甘い）」と同根。語源は「甘い皮」。ただの「膜」ではありません。そこには。「情報の甘い交換（communication）を装いながら、その実、一ミクロン単位で敵味方を峻別（discrimination）する」という、強かな情報の守護意志が宿っています。それは。知性が他者と交流する際、表面的な華やかさ（sweetness）を纏（まと）いながらも、その奥では常に冷徹な「真実の審神者（saniwa）」を働かせている瞬間のメタファー。",
+		"aftertaste": "「グリコカリックス（glycocalyx）」という目に見えない微細な森（forest）が、自分たちの細胞を包み込み、まるでオーラのように情報を放っている様子を想像し、生命とはどこまでも「コミュニケーション（対話）」の集積なのだと悟る、あの知的な共鳴。あるいは、自分の思考もまた、この「グリコカリックス」のように豊かな触覚を備え、世界の微かな予兆を誰よりも早く感じ取り、それを優雅に処理してゆく存在でありたいと願う、あの静かな午後の自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "dlk-u-",
+					"meaning": "sweet (forming glukus)"
+				},
+				{
+					"term": "kel-",
+					"meaning": "to cover, hide (forming kaluptein)"
+				}
+			],
+			"points": [
+				"glycerin, glucose, cell, color, occult, hell 同根。",
+				"『甘い（sweet）』ことが『隠す（covering）』ことと繋がる。この言葉の構成には、生命が自らの真実（DNA）を、情報の甘美な迷宮（forest of sugars）の中に封印することで、捕食者やウイルスから身を守ってきたという、狡知に満ちた進化の美学が刻まれている。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "endoplasm",
+		"word": "Endoplasm",
+		"part_of_speech": "noun",
+		"meaning": "内質（ないしつ）、エンドプラズム",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "endo-",
+					"type": "prefix",
+					"meaning": "within (中に)"
+				},
+				{
+					"text": "plasma",
+					"type": "root",
+					"meaning": "something molded (形作られたもの)', from Greek plassein 'to mold'"
+				}
+			],
+			"original_statement": "From Greek endon 'within' + plasma 'molded'."
+		},
+		"core_concept": {
+			"en": "The more fluid, inner layer of the cytoplasm in a cell",
+			"ja": "細胞の最奥部に鎮座し、生命の全物質を流動（cyclosis）させる『内なる原動力（dynamo）』。外壁の守りの中で、自由奔放に真理を醸造する、知的な『坩堝（crucible）』。"
+		},
+		"thinking_layer": "『内部で形作られたもの』。エンド（Endo-/内部の）、おなじみ「プラズマ（形あるもの）」と同根。語源は「内部の形質」。ただの「中身（contents）」ではありません。そこには。「外部の喧騒を完全に死守（enclosure）した上で、自らの内なるエネルギーを極限まで活性化させる」という、峻烈な内省的活動の意志が宿っています。それは。知性が自らの奥深い「孤独の庭」において、誰にも邪魔されることなく、新しいアイディアを培養（culture）し続けてゆくプロセスの象徴。",
+		"aftertaste": "自分の細胞の深部で、ゆったりと絶え間なく流れる「内質（endoplasm）」の、その熱く、瑞々（みずみず）しい「生の奔流」に想いを馳せ、自分という存在が常に一瞬たりとも止まることのない「運動体」であることを祝福する、あの知的な平安。あるいは、自分の思考もまた、この「エンドプラズム」のように、外見の静寂とは裏腹に、その内側では常に新しい「知の対流」が渦巻いていることを誇らしく思う、あの静かな夜の自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "en-",
+					"meaning": "in (forming endon)"
+				},
+				{
+					"term": "pele-",
+					"meaning": "to spread, mold (forming plassein)"
+				}
+			],
+			"points": [
+				"enter, entrance, plastic, protoplasm 同根。",
+				"『内（within）』が『形（shape）』を規定する。この言葉には、生命がいかにして『外部への模倣』を止め、自らの『内なる声』に従って自らの輪郭を決定してきたかという、実存的な主権の宣言が封印されている。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "ectoplasm",
+		"word": "Ectoplasm",
+		"part_of_speech": "noun",
+		"meaning": "外質（がいしつ）、エクトプラズム、（心霊主義における）霊体",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "ecto-",
+					"type": "prefix",
+					"meaning": "outside (外の)"
+				},
+				{
+					"text": "plasma",
+					"type": "root",
+					"meaning": "something molded (形作られたもの)', from Greek plassein 'to mold'"
+				}
+			],
+			"original_statement": "From Greek ektos 'outside' + plasma 'molded'."
+		},
+		"core_concept": {
+			"en": "The more viscous, clear outer layer of the cytoplasm in many cells",
+			"ja": "内なるカオス（endoplasm）を峻烈な硬度（viscosity）で封じ込め、世界との境界線を物理的に画定する『透明な最前線』。非物質的な意志を、物質的な『衝撃（impact）』へと変換する、知的な『幽体離脱的な防御』。"
+		},
+		"thinking_layer": "『外部で形作られたもの』。エキゾ（Exo-/外面の）、おなじみ「プラズマ（形あるもの）」と同根。語源は「外部の形質」。ただの「皮（skin）」ではありません。そこには。「自らの内なる熱を逃さぬよう、境界線をあえて『凍結（stiffening）』させることで、強固な防壁（shell）へと変容させる」という、峻烈な孤独の構築術が宿っています。それは。知性が外部との対峙において、あえて自らの感情を「凍りつかせ（solidification）」、冷徹な理性の盾として機能させる瞬間のメタファー。",
+		"aftertaste": "この「外質（ectoplasm）」という言葉が、かつて心霊現象を説明するために使われたという、その「境界の危うさ（ambiguity）」に立ち、目に見える現実と、見えない「意識の境界」のあわいで立ち尽くす、あの峻烈な一呼吸。あるいは、自分の思考もまた、この「エクトプラズム」のように、透明でありながらも、どんな外部の暴力をも跳ね返す、不可視の「知的な力（will）」そのものでありたいと願う、あの静かな午後の自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "eghs-",
+					"meaning": "out (forming ektos)"
+				},
+				{
+					"term": "pele-",
+					"meaning": "to spread, mold (forming plassein)"
+				}
+			],
+			"points": [
+				"exit, exercise, exotic, plastic 同根。",
+				"『外（outside）』に『形（shape）』を差し出す。エクトプラズムという言葉には、生命がいかにして『内（自己）』を定義するために、あえて他者という『外（世界）』との衝突箇所を物理的な形へと結晶化させてきたかという、対話の痕跡が刻まれている。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
