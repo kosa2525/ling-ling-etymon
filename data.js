@@ -250375,5 +250375,406 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-11"
+	},
+	{
+		"id": "affable",
+		"word": "Affable",
+		"part_of_speech": "adjective",
+		"meaning": "愛想の良い、親しみやすい",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "ad-",
+					"type": "prefix",
+					"meaning": "to"
+				},
+				{
+					"text": "fari",
+					"type": "root",
+					"meaning": "to speak"
+				}
+			],
+			"original_statement": "From Latin affabilis, from affari 'speak to'."
+		},
+		"core_concept": {
+			"en": "Easy to speak to",
+			"ja": "誰に対しても門戸を開き、穏やかに言葉を交わすことができる（speak to）包容力のある親しみやすさ"
+		},
+		"thinking_layer": "『話しかけやすいこと』。単なる社交性ではなく、相手を緊張させない独特の空気感。知性が優しさを纏った時に現れる、高潔でありながら気取らない人格の美徳。 ",
+		"aftertaste": "春の陽だまりのような暖かさと、ふと秘密を打ち明けたくなる安心感。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "bha-",
+					"meaning": "to speak"
+				}
+			],
+			"points": [
+				"fable, fate, fameと同根。",
+				"言葉を交わすことが、存在の価値（fame）や物語（fable）を作る第一歩。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "astute",
+		"word": "Astute",
+		"part_of_speech": "adjective",
+		"meaning": "抜け目のない、鋭い、状況判断に長けた",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "astus",
+					"type": "root",
+					"meaning": "craft, cunning (知恵、巧妙さ)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin astutus, from astus 'craft'."
+		},
+		"core_concept": {
+			"en": "Mental sharpness",
+			"ja": "都市の雑踏や複雑な利害関係の中で、自分にとって最も有利な道を『知恵（craft）』で瞬時に見抜く、野生の鋭さ"
+		},
+		"thinking_layer": "『巧みであること』。教科書的な知識ではなく、実利的な賢さ。チェスの名手が数手先を読むように、現実の力学を読み解く、冷徹で鮮やかな知性。",
+		"aftertaste": "一瞬の隙も見逃さない、獲物を狙う鷹のような鋭い眼差し。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"都会的で実利的な『抜け目なさ』を象徴する。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "aloof",
+		"word": "Aloof",
+		"part_of_speech": "adjective",
+		"meaning": "よそよそしい、超然とした",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "a-",
+					"type": "prefix",
+					"meaning": "on"
+				},
+				{
+					"text": "loof",
+					"type": "root",
+					"meaning": "windward (風上)",
+					"lang": "Dutch"
+				}
+			],
+			"original_statement": "From a- 'on' + loof 'windward side'."
+		},
+		"core_concept": {
+			"en": "Distance / Detached",
+			"ja": "船を風上へ（to the windward）と向け、喧騒や群れから距離を置く。孤独を愛し、誇り高く自立している状態"
+		},
+		"thinking_layer": "『風上に回ること』。他人の意見や感情に流されず、自分の航路を守る。冷淡に見えるかもしれないが、それは自己の純度を守るための高貴な沈黙。 ",
+		"aftertaste": "雪を頂いた孤高の山頂。あるいは、孤独を纏ったまま微笑む人の静けさ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"luff（帆を風に向ける）と同根。",
+				"物理的な距離ではなく、精神的な『向き』の違い。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "brusque",
+		"word": "Brusque",
+		"part_of_speech": "adjective",
+		"meaning": "ぶっきらぼうな、素っ気ない",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "brusco",
+					"type": "root",
+					"meaning": "rough, tart (荒い、酸っぱい)",
+					"lang": "Italian"
+				}
+			],
+			"original_statement": "From Italian brusco 'rough, tart'."
+		},
+		"core_concept": {
+			"en": "Abrupt or offhand",
+			"ja": "トゲのある低木（butcher's broom）のように『荒く、刺激的な（tart）』反応。無駄を省きすぎた結果としての、鋭利な素っ気なさ"
+		},
+		"thinking_layer": "『荒々しいこと』。上辺の丁寧さを拒絶し、核心だけを突きつける。悪気はないかもしれないが、相手の心を微かに逆なでする、剥き出しの言葉の刃。",
+		"aftertaste": "冬の冷たい風に打たれたような、一瞬の戸惑い。あるいは、飾りのない誠実さへの驚き。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"もとはトゲのある植物を指した。",
+				"洗練されることを拒む、野生的な直接性。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "dexterous",
+		"word": "Dexterous",
+		"part_of_speech": "adjective",
+		"meaning": "器用な、手際の良い、抜け目のない",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "dexter",
+					"type": "root",
+					"meaning": "right hand (右手)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin dexter 'right-handed'."
+		},
+		"core_concept": {
+			"en": "Skilful / Hand-eye coordination",
+			"ja": "『右手（right hand）』が持つ確かな感覚と精密さ。指先から溢れ出すような巧みな動きと、それを支える研ぎ澄まされた神経"
+		},
+		"thinking_layer": "『右手の性質』。古来、右手は「正しさ」や「知能」を象徴しました。道具を扱う物理的な器用さから、困難な議論を巧みに捌く知的な器用さまでを貫く美徳。 ",
+		"aftertaste": "何気ない動作の中に宿る、完璧なエレガンス。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "deks-",
+					"meaning": "right"
+				}
+			],
+			"points": [
+				"ambidextrous（両手利き）と同根。",
+				"右側を向くことが『幸運』や『正しさ』と結びついていた。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "elusive",
+		"word": "Elusive",
+		"part_of_speech": "adjective",
+		"meaning": "捉えどころのない、逃げ回る、理解しがたい",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "ex-",
+					"type": "prefix",
+					"meaning": "out/away"
+				},
+				{
+					"text": "ludere",
+					"type": "root",
+					"meaning": "to play (遊ぶ、騙す)"
+				}
+			],
+			"original_statement": "From Latin eludere 'mock, deceive'."
+		},
+		"core_concept": {
+			"en": "Difficult to find, catch, or achieve",
+			"ja": "まるで『遊び（play）』のように巧みに身をかわし、理解の手が届こうとする瞬間に、霧のように『逃げ去って（away）』しまう、神秘的な捉えがたさ"
+		},
+		"thinking_layer": "『遊び逃れること』。物理的な逃走だけでなく、真意や真理が言語化されるのを拒む様子。追いかければ追いかけるほど遠のく、美しくも残酷な蜃気楼のような知性。",
+		"aftertaste": "指の間をすり抜ける砂の感触。あるいは、昨日見たはずの夢の、淡い記憶。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "leid-",
+					"meaning": "to play"
+				}
+			],
+			"points": [
+				"ludicrous, illusion（幻影）と同根。",
+				"世界を一つの『ゲーム』のように認識し、固定されることを拒む。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "miserly",
+		"word": "Miserly",
+		"part_of_speech": "adjective",
+		"meaning": "けちな、吝嗇な",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "miser",
+					"type": "root",
+					"meaning": "wretched, pitiable (惨めな、不憫な)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin miser 'pitiable'."
+		},
+		"core_concept": {
+			"en": "Greedy / Stingy",
+			"ja": "富を蓄えながらも、それを使うことを恐れ、自らを『惨めな（pitiable）』欠乏状態に置く。物を愛しすぎて、自らを物の奴隷にしてしまう不幸な知性"
+		},
+		"thinking_layer": "『惨めであること』。資産（Asset）があるのに、心が貧しい（poor）。使うべき時に使えないことは、持っていないのと同じ。富の重みに押し潰され、呼吸を忘れた、蓄積の怪物。",
+		"aftertaste": "どんなに金貨を数えても満たされない、乾いた心の音。あるいは、自分の中に閉じこもるための、重い鍵の音。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "mei-",
+					"meaning": "to lessen, small (speculative)"
+				}
+			],
+			"points": [
+				"misery, miserableと同根。",
+				"自分を『小さく（lessen）』しすぎることで生まれる悲劇。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "pompous",
+		"word": "Pompous",
+		"part_of_speech": "adjective",
+		"meaning": "尊大な、大げさな、もったいぶった",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "pompa",
+					"type": "root",
+					"meaning": "procession, solemn display (行列、厳かな見世物)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin pompa 'procession'."
+		},
+		"core_concept": {
+			"en": "Affectedly grand, solemn, or self-important",
+			"ja": "たった一人の振る舞いの中に、まるで大がかりな『祝祭の行列（procession）』のような装飾や威圧感を詰め込み、自分を過大に見せようとする不自然な重厚さ"
+		},
+		"thinking_layer": "『行列のような』。中身よりも外側の「見せ方、格式」に命を懸ける。それは自分自身の空虚さを、仰々しい言葉や肩書きという衣装で隠そうとする、知性の哀しき演劇的（theatrical）性質です。",
+		"aftertaste": "不必要なまでに美しく飾られた、誰も座ることのない玉座。あるいは、意味のない長話に感じる、装飾過多な閉塞感。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"pomp, pageantと同根。",
+				"自分という存在を、一つの『大げさな儀式』として演出すること。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "precocious",
+		"word": "Precocious",
+		"part_of_speech": "adjective",
+		"meaning": "ませた、早熟な",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "prae-",
+					"type": "prefix",
+					"meaning": "before"
+				},
+				{
+					"text": "coquere",
+					"type": "root",
+					"meaning": "to cook, ripen (料理する、熟す)"
+				},
+				{
+					"text": "-ous",
+					"type": "suffix",
+					"meaning": "quality"
+				}
+			],
+			"original_statement": "From Latin praecox 'early ripe', from prae 'before' + coquere 'to cook'."
+		},
+		"core_concept": {
+			"en": "Having developed abilities at an earlier age than usual",
+			"ja": "他の者たちがまだ青い果実である時期に、すでに『前もって（before）』『熟し（ripen）』、大人のような知性や色気を纏ってしまった、早すぎる季節の美学"
+		},
+		"thinking_layer": "『先に料理されていること、先に熟していること』。経験の積み重ねをショートカットして、結論に辿り着いてしまった状態。その早熟さは眩しいですが、時に子供らしい無垢な時間を失ってしまう、等価交換の影を背負っています。",
+		"aftertaste": "秋の色を帯びた、夏前の森。あるいは、すべてを見透かしたような、少年の冷めた瞳。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "pekw-",
+					"meaning": "to cook, ripen"
+				}
+			],
+			"points": [
+				"cook, biscuit（二度焼いたパン）, concoct 同根。",
+				"時間をかけずに『完成』へ至ること。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "prudent",
+		"word": "Prudent",
+		"part_of_speech": "adjective",
+		"meaning": "慎重な、分別のある、抜け目のない",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "pro-",
+					"type": "prefix",
+					"meaning": "forward"
+				},
+				{
+					"text": "videre",
+					"type": "root",
+					"meaning": "to see (見る)"
+				}
+			],
+			"original_statement": "From Latin prudens, contraction of providens 'foreseeing'."
+		},
+		"core_concept": {
+			"en": "Acting with or showing care and thought for the future",
+			"ja": "目の前の欲望ではなく、もっと『先（forward）』を『見据え（see）』、今の行動を律する。将来訪れるリスクや利益を計算し、一歩一歩を確実にする知的な警戒心"
+		},
+		"thinking_layer": "『先を見ること』。プロビデント（Provident/摂理的）の短縮形。ただ臆病なのではなく、「先が見えているからこそ、動かない、あるいは慎重に動く」という、高度な状況認識能力。大人の知性の最も地味で、最も強力な武器。",
+		"aftertaste": "嵐が来る前に港で船を繋ぐ、確かな手の感触。あるいは、誘惑を静かに断った後の、自分への深い誇り。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "weid-",
+					"meaning": "to see, know"
+				}
+			],
+			"points": [
+				"providence, evidence, visionと同根。",
+				"『見える（vision）』ことが『知る（knowing）』ことに、そして『慎重さ』に繋がる回路。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "unctuous",
+		"word": "Unctuous",
+		"part_of_speech": "adjective",
+		"meaning": "おべっかを使う、お調子者の、油っこい",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "unguen",
+					"type": "root",
+					"meaning": "ointment, oil (油、軟膏)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin unctuosus, from unctio 'anointment'."
+		},
+		"core_concept": {
+			"en": "Excessively flattering or ingratiating; soapy; oily",
+			"ja": "言葉の端々に『油（oil）』を塗ったかのような、あまりにも滑らかで不自然な丁寧さ。相手の懐に滑り込もうとする、計算高く、微かに不快な愛想の良さ"
+		},
+		"thinking_layer": "『油を塗っていること』。もとは神聖な「塗油祭」に使われた言葉。それがなぜ「おべっか」になったのか。それは、過剰な優しさが「摩擦」を恐れる下心から生まれているからです。滑りすぎて本質を掴ませない、捉えがたく不誠実な知性のテクスチャー。 ",
+		"aftertaste": "握手をした後に手を洗いたくなるような、得体の知れない感触。あるいは、完璧すぎる営業マンの、人工的な笑顔。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ongw-",
+					"meaning": "to smear, anoint"
+				}
+			],
+			"points": [
+				"ointment（軟膏）と同根。",
+				"言葉を『ツール』ではなく『潤滑油』として、自分に都合よく世界を動かそうとする意志。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
