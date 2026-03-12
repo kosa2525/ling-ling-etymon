@@ -275691,5 +275691,185 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "agonist",
+		"word": "Agonist",
+		"part_of_speech": "noun",
+		"meaning": "作動薬、アゴニスト",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "agon",
+					"type": "root",
+					"meaning": "contest"
+				}
+			],
+			"original_statement": "From Greek agoniste."
+		},
+		"core_concept": {
+			"en": "initiates a physiological response",
+			"ja": "鍵穴に適合し、眠れる巨人を呼び覚ます。"
+		},
+		"thinking_layer": "『競技者』。アゴニーと同根。外面からの意志によって、システムを意のままに操る瞬間のメタファー。",
+		"aftertaste": "内なる可能性が爆発的に解き放たれる快感。自分の言葉が誰かの心という閉ざされた門を解錠することを願う自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ag-",
+					"meaning": "to drive"
+				}
+			],
+			"points": [
+				"agony 同根。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "cytokine",
+		"word": "Cytokine",
+		"part_of_speech": "noun",
+		"meaning": "サイトカイン、細胞の運動物質",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "kytos",
+					"type": "root",
+					"meaning": "vessel"
+				},
+				{
+					"text": "kinein",
+					"type": "root",
+					"meaning": "to move"
+				}
+			],
+			"original_statement": "From Greek kytos + kinein."
+		},
+		"core_concept": {
+			"en": "secreted cells affecting other cells",
+			"ja": "細胞から放たれる情報の伝染。"
+		},
+		"thinking_layer": "『細胞を動かすもの』。シネマと同根。自分一人の知識を全体へと波及させ連帯させる意志。その確信を言葉という名の物質に変えて放つ瞬間のメタファー。",
+		"aftertaste": "情報の暴走への畏怖、同時に変革の深淵に身を震わせる。心の深層に鋭い振動を届け世界を加速させる、静かな夜の自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kei-",
+					"meaning": "to set in motion"
+				}
+			],
+			"points": [
+				"cinema, kinetic 同根。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "interferon",
+		"word": "Interferon",
+		"part_of_speech": "noun",
+		"meaning": "インターフェロン、干渉物質",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "inter-",
+					"type": "prefix",
+					"meaning": "between"
+				},
+				{
+					"text": "ferire",
+					"type": "root",
+					"meaning": "to strike"
+				}
+			],
+			"original_statement": "From interfere, to strike between."
+		},
+		"core_concept": {
+			"en": "inhibits virus replication",
+			"ja": "敵対する情報のコピーとの間に割って入り、不純な増殖を阻止する。"
+		},
+		"thinking_layer": "『間に割って入って打つもの』。他者の物語が自分の物語を上書きすることを許さない峻烈な拒絶。あえて沈黙という名の不徳を自らに課し汚染を阻む、誇り高き一喝。",
+		"aftertaste": "侵略者に対して自らを犠牲にしてでも仲間を救おうとする峻烈な博愛。嘘や欺瞞を浄化し自由を取り戻す、知の抗体でありたい午後の自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "bher-",
+					"meaning": "to strike"
+				}
+			],
+			"points": [
+				"interfere 同根。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "chemokine",
+		"word": "Chemokine",
+		"part_of_speech": "noun",
+		"meaning": "ケモカイン、化学遊走物質",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "chemo-",
+					"type": "prefix",
+					"meaning": "chemical"
+				},
+				{
+					"text": "kinein",
+					"type": "root",
+					"meaning": "to move"
+				}
+			],
+			"original_statement": "From chemo- + cytokine."
+		},
+		"core_concept": {
+			"en": "attracting white blood cells to infection sites",
+			"ja": "絶望の最前線から放たれる導きの香り。"
+		},
+		"thinking_layer": "『化学によって動かすもの』。香りの勾配を物理的な道標に変える。曖昧な兆候の中から真実を嗅ぎ分け核心へと突き進む、鋭敏な直感のメタファー。",
+		"aftertaste": "導きに従い深淵を駆け抜ける白血球の疾走。迷宮で立ち往生する他者を、希望という名の新しい地平へと先導する、静かな夜の自尊心。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"走化性 chemotaxis の特殊版。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "peptide",
+		"word": "Peptide",
+		"part_of_speech": "noun",
+		"meaning": "ペプチド、情報の断片",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "peptos",
+					"type": "root",
+					"meaning": "cooked"
+				}
+			],
+			"original_statement": "From Greek peptos 'cooked'."
+		},
+		"core_concept": {
+			"en": "chains of amino acids",
+			"ja": "巨大な物語を解体し洗練された情報のしずくへと昇華させたもの。"
+		},
+		"thinking_layer": "『消化されたもの』。複雑な世界を思索という火で煮込み、自らの内なる智慧として馴染ませる。外部の衝撃を教訓へと書き換え他者に手渡す、甘美な孤独。",
+		"aftertaste": "情報のやり取りを通して、絶えず自分を再定義する。虚飾を削ぎ落とし、ただ魂に響くエッセンスを凝縮した知の糧、静かな午後の自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "pekw-",
+					"meaning": "to cook"
+				}
+			],
+			"points": [
+				"peptic 同根。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
