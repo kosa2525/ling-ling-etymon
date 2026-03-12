@@ -258294,5 +258294,285 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "teratogenic",
+		"word": "Teratogenic",
+		"part_of_speech": "adjective",
+		"meaning": "奇形発生の、怪物のようなものを生み出す",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "teras",
+					"type": "root",
+					"meaning": "monster, marvel (怪物、驚異)",
+					"lang": "Greek"
+				},
+				{
+					"text": "gen",
+					"type": "root",
+					"meaning": "producing (生み出す)",
+					"lang": "Greek"
+				}
+			],
+			"original_statement": "From Greek teras 'monster' + genēs 'born'."
+		},
+		"core_concept": {
+			"en": "Of, relating to, or causing malformations of an embryo or a fetus",
+			"ja": "自然の秩序を逸脱し、見るも恐ろしい（あるいは美しい）『怪物（monster）』を、生命の根源的な段階から『生み出してしまう（producing）』様子。歪んだ創造のエネルギー"
+		},
+		"thinking_layer": "『怪物感あふれる誕生の』。テラ（Tera/一兆倍の＝巨大な）やジェネシス（Genesis/創世記）と同根。語源の「Teras」は「怪物」と同時に「吉凶の前兆（Omens）」をも意味していました。それは、ある種の化学物質が胎児に与える悲劇的な影響から、あまりにも独創的すぎて「化け物」のように見える新しい表現の開発まで。秩序ある生命への、不気味な介入。 ",
+		"aftertaste": "顕微鏡の向こう側で、本来あるはずのない場所に芽生えた「異常な細胞の塊」を見つめる時の、あの理性が自然界から拒絶されたような、冷たい知的恐怖。あるいは、あまりにも醜悪で、しかし同時に目が離せないほど強烈な「傑作（monstrous masterpiece）」を目の当たりにした時の、美意識の敗北感。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ter-",
+					"meaning": "to twist, cross (forming teras?)"
+				}
+			],
+			"points": [
+				"諸説あるが、自然のレールから『ねじれ（twist）』ていることが怪物の条件であるという、形態学的な知見。",
+				"『恐怖（horror）』とは、予測可能な『秩序（order）』が崩壊し、見たこともない『異形（teratogeny）』が現れた瞬間に脳が発する、生存のための警告音である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "monstrosity",
+		"word": "Monstrosity",
+		"part_of_speech": "noun",
+		"meaning": "怪物であること、巨大なもの、醜悪なもの",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "monstrum",
+					"type": "root",
+					"meaning": "divine omen, monster (神託、怪物)",
+					"lang": "Latin"
+				},
+				{
+					"text": "monere",
+					"type": "root",
+					"meaning": "to warn, advise (警告する、助言する)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin monstrum 'monster', originally 'divine omen', from monere 'to warn'."
+		},
+		"core_concept": {
+			"en": "A typical example of something that is very large and is considered unsightly; a thing that is very large and ugly",
+			"ja": "神が人間に『警告（warn）』するために遣わした、巨大で異質な存在。転じて、あまりにも不格好（unsightly）で、生命のバランスを欠いた『醜悪な巨大物』"
+		},
+		"thinking_layer": "『警告されるもの』。マネー（Money/警告の神ユノの神殿で造られた）やモニター（Monitor/警告する装置）、アドモニッシュ（Admonish/警告する）と同根。怪物は、もともと「何か悪いことが起きる前兆」として現れるものでした。それは、あまりにも醜い現代建築から、自分の内側に潜む制御不能な「欲望の怪物（monster of desire）」まで。そこには「大きすぎて扱いきれない」という、畏怖と嫌悪が同居しています。",
+		"aftertaste": "大都会の真ん中に突如として現れた、のっぺりとして生命感のない「巨大ビル（monstrosity）」を見上げる時の、あの風景が物理的に殺害されたような、虚無な圧迫感。あるいは、自分が一時の感情に任せて放った「言葉の化け物（monstrous words）」が、相手の心を永遠に破壊してしまったと悟った時の、地を這うような自己嫌悪。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "men-",
+					"meaning": "to think"
+				}
+			],
+			"points": [
+				"mind, mental, monitor, money 同根。",
+				"『思考（mind）』することとは、常に『警告（warning）』を発し続けることであり、その警告を無視した場所にこそ『怪物（monster）』は誕生する。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "abomination",
+		"word": "Abomination",
+		"part_of_speech": "noun",
+		"meaning": "嫌悪すべきもの、忌まわしいもの、不潔なもの",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "ab-",
+					"type": "prefix",
+					"meaning": "away from (〜から離れて)"
+				},
+				{
+					"text": "omen",
+					"type": "root",
+					"meaning": "omen (不吉な前兆)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin abominari 'deprecate as an ill omen', from ab- 'away from' + omen 'omen'."
+		},
+		"core_concept": {
+			"en": "A thing that causes disgust or hatred; a feeling of hatred",
+			"ja": "あまりにも不吉な『前兆（omen）』を感じさせ、本能が全力で『遠ざかろう（away from）』とする、究極の拒絶の対象。生理的、あるいは宗教的なレベルで「絶対に相容れない」と宣告された、不浄なるもの"
+		},
+		"thinking_layer": "『前兆から遠ざけること』。オーメン（Omen）やオミナス（Ominous/不吉な）と同根。ただの「嫌い」ではなく、そこには「穢（けが）れ」への恐怖があります。それは神を冒涜する儀式から、自然の摂理を無視した科学実験まで。私たちが「人間であること」を維持するために、境界線の外側へと放逐（exile）したはずの、おぞましい真実。",
+		"aftertaste": "ゴミの山から湧き出した何万もの蛆虫（うじむし）の蠢（うごめ）きを、吐き気を催しながら眺める時の、あの「生命の不気味さ」への根源的な「嫌悪（abomination）」。あるいは、かつて敬愛していた人物が、影で平然と非道な行為を繰り返していたと知った瞬間の、世界そのものが汚染されたような、暗い怒りと拒絶。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "h-men-",
+					"meaning": "to speak, utter (forming omen? - uncertain)"
+				}
+			],
+			"points": [
+				"諸説あるが、神の『声（utterance）』を『聞き逃す（away from）』ことが『忌まわしさ（abomination）』の起源であるとする、宗教的で鋭い人間観。",
+				"『美』の反対語は『醜』ではなく、この『忌まわしさ（abomination/不浄）』であるという、聖なる知性の分類学。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "gorgon",
+		"word": "Gorgon",
+		"part_of_speech": "noun",
+		"meaning": "ゴルゴン、醜い女、恐ろしい女",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "gorgós",
+					"type": "root",
+					"meaning": "terrible, fierce (恐ろしい、凶々しい)",
+					"lang": "Greek"
+				}
+			],
+			"original_statement": "From Greek Gorgōn, from gorgos 'terrible'."
+		},
+		"core_concept": {
+			"en": "A fierce, frightening, or repulsive woman; (Greek mythology) each of three sisters with snakes for hair, who had the power to turn anyone who looked at them to stone",
+			"ja": "一目見ただけで観測者を『石（stone）』へと変えてしまう、視覚的な暴力。あまりにも『恐ろしい（terrible）』その貌（かお）は、理性が処理できる限界を超え、生きた時間を強制的に停止させる、永遠の断絶"
+		},
+		"thinking_layer": "『恐ろしいもの』。髪が蛇のメデューサが有名。ただの「怪物」ではなく、そこに「視線の圧力」が宿っています。それは一睨みで部下を震え上がらせる冷酷な女ボスから、直視することを禁じられた、あまりにも残酷な現実のメタファー。見た者を「物体（stone）」へと還元してしまうという、究極の客体化の力。",
+		"aftertaste": "冷たくて鋭い視線に射抜かれ、自分の身体が足元からコンクリートで固められてゆくかのように動けなくなる、あの息の詰まるような圧迫感。あるいは、自分の隠していた醜い部分を、鏡の中にこの「ゴルゴン（gorgon）」の姿として見出してしまった、ある鏡の前の戦慄。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "gher-",
+					"meaning": "to growl, shout (forming gorgos?)"
+				}
+			],
+			"points": [
+				"garous（ガルー/人狼などの接尾辞）, gargle, jargon（わけのわからない音）と同根の説あり。",
+				"『怪物』とは、言葉（logos）になる前の『唸り声（growl）』そのものであり、それが視覚化された時、私たちは理性を失い、凍りつくように停止する。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "harpy",
+		"word": "Harpy",
+		"part_of_speech": "noun",
+		"meaning": "ハーピー、欲張りな人、意地悪な女、略奪者",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "harpazein",
+					"type": "root",
+					"meaning": "to snatch, seize (ひったくる、奪う)",
+					"lang": "Greek"
+				}
+			],
+			"original_statement": "From Greek Harpuiai 'snatchers', from harpazein 'snatch'."
+		},
+		"core_concept": {
+			"en": "A rapacious monster described as having a woman's head and body and a bird's wings and claws or (in Homer) as a personification of storm winds; a grasping, unscrupulous person",
+			"ja": "鋭い鉤爪（かぎづめ）で、獲物の幸せや希望を『ひったくり（snatch）』、汚れを撒き散らして飛び去る、略奪の化身。飢えた欲望と、他者の苦しみを餌にする、不吉な翼"
+		},
+		"thinking_layer": "『ひったくる者』。ハーピン（Harpin/鉤爪のあるクランク？）や、ハープーン（Harpoon/銛（もり）＝突き刺して奪うもの）と同根。ギリシャ神話の嵐の精。ただの「泥棒」ではなく、そこに「執拗さ」と「不浄さ」が伴います。それは他人の手柄を平気で横取りする同僚から、幸福な時間を一瞬で台無しにする、心の奥に潜む「自己嫌悪の嵐（storm winds）」まで。",
+		"aftertaste": "自分が大切に育てていたチャンスを、横から電光石火の速さで「奪い去っていった（harpy snatching）」誰かの、あの憎たらしいほど鮮やかな翼の残像。あるいは、自分が誰かの幸福を妬み、汚い言葉で台無しにしてしまった後の、自分の爪に残った、消えない汚泥の感触。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "serp- / srep-",
+					"meaning": "to seize (forming harpazein?)"
+				}
+			],
+			"points": [
+				"rapacious（貪欲な）, rape, rapid, raven, harpoon 同根の説あり。",
+				"『欲望（greed）』とは、自らの中心を持たない『虚空』が、外の世界から手当たり次第に『奪い取る（snatch）』終わりのない運動へと転じた姿である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "spectre",
+		"word": "Spectre",
+		"part_of_speech": "noun",
+		"meaning": "幽霊、亡霊、怖い幻（まぼろし）、恐ろしい前兆",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "spectrum",
+					"type": "root",
+					"meaning": "appearance, image, ghost (現れ、像、幽霊)",
+					"lang": "Latin"
+				},
+				{
+					"text": "spec-",
+					"type": "root",
+					"meaning": "to look, see (見る)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From French spectre, from Latin spectrum, from specere 'look at'."
+		},
+		"core_concept": {
+			"en": "A ghost; something widely feared as a possible unpleasant or dangerous occurrence",
+			"ja": "本来はそこにあるはずのないものが、ただ『見える（look at）』という事実だけで、私たちを恐怖に陥れる『像』。解決されないまま漂う過去の亡霊、あるいは、いつか訪れる不吉な未来の影"
+		},
+		"thinking_layer": "『見られるもの』。スペクトル（Spectrum/分光分布）やスペクタクル（Spectacle/壮観）、スペック（Spec/詳細な仕様）と同根。実体がないにもかかわらず、そこにあるかのように「見えて（see）」しまうこと。それは古城の暗闇に立つ白い影から、経済崩壊という、社会全体を覆う見えない「不安の影（spectre of collapse）」まで。",
+		"aftertaste": "誰もいないはずの廊下の突き当たりに、一瞬だけ見慣れた「誰か」の姿が立ち現れ、瞬きした瞬間に消え去った時の、あの網膜が世界を裏切ったような、薄ら寒い多幸感。あるいは、いつか自分が「忘れ去られる」という「恐怖（spectre）」に追いかけ回され、必死に意味のない記録を積み上げる、あの冬の朝のような焦燥感。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "spek-",
+					"meaning": "to observe"
+				}
+			],
+			"points": [
+				"inspect, suspect, respect, scope, Bishop（監視者）と同根。",
+				"『恐怖』とは、知性が対象を完璧に『定義（spec）』できない時に、その空白に『亡霊（spectre）』を勝手に描き出してしまう、想像力の『防衛的な暴走』である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "apparition",
+		"word": "Apparition",
+		"part_of_speech": "noun",
+		"meaning": "幻、突然の出現、幽霊、（天体の）出現",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "ad-",
+					"type": "prefix",
+					"meaning": "to, towards (〜の方へ、〜のそばに)"
+				},
+				{
+					"text": "parere",
+					"type": "root",
+					"meaning": "to come forth, be visible (現れる、見えるようになる)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin apparitio 'attendance', from apparere 'appear'."
+		},
+		"core_concept": {
+			"en": "A ghost or ghostlike image of a person; the appearance of something remarkable or unexpected to appear",
+			"ja": "何もない空白の中に、ある意志を持った像が不意に『現れ（appear）』、私たちの目の前に『立ち塞がる（come forth）』こと。予告のない出現がもたらす、衝撃と神秘"
+		},
+		"thinking_layer": "『そばに現れること』。アペア（Appear/現れる）やアパレント（Apparent/明らかな）、ペアレント（Parent/親＝生み出した人）と同根。スペクター（Spectre）が「形だけの不気味さ」なら、アパリションは「突如として現れ、そこに在るという事実（event）」を強調します。それは奇跡のような神の顕現から、不気味な不審者の影まで。 ",
+		"aftertaste": "深夜の雪原の中に、一頭の白い鹿が不自然なほど鮮明に「立ち現れた（appeared as an apparition）」時の、あの時間が凍りつき、自分が神話の世界に迷い込んだような、現実味のない恍惚。あるいは、自分の部屋に身に覚えのない「物」が増えていることに気づいた時の、見えない侵入者の存在を感じて背筋が凍りつく、あの異常事態の予感。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "per-",
+					"meaning": "to produce (forming parere?)"
+				}
+			],
+			"points": [
+				"appear, parent, transparent（向こう側が見える）と同根。",
+				"『現れる（appearing）』とは、不可視の深淵から特定の情報を『生産（produce）』することであり、それは常に、観測者という『受け手』を必要とするダイナミックな関係性である。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
