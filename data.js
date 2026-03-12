@@ -270227,5 +270227,209 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "interoception",
+		"word": "Interoception",
+		"part_of_speech": "noun",
+		"meaning": "内受容感覚、体内感覚",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "inter-",
+					"type": "prefix",
+					"meaning": "within, between (〜の間に、中に)"
+				},
+				{
+					"text": "capere",
+					"type": "root",
+					"meaning": "to take, seize (取る、捕らえる)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin inter- 'within' + capere 'take'."
+		},
+		"core_concept": {
+			"en": "The sense of the physiological condition of the body, including hunger, thirst, and internal pain",
+			"ja": "内なる宇宙（inner universe）の声を聞く、静かなる『内省の感覚』。血管の拍動や内臓の微かな震えを、生命の切実な『一報』として受け取る、知的な『自己対話』"
+		},
+		"thinking_layer": "『内側で捕らえること』。キャパシティ（Capacity/収容能力）、レセプション（Reception/受け入れ）、おなじみの「インター（中へ）」と同根。語源は「内側で受け取る」。ただの「体感覚」ではありません。そこには。「自分という器（vessel）が今、どのような状態にあるか」を、言葉以前のレベルで把握するという、峻烈な実存の響きが宿っています。それは。知性が外の世界（object）に目を向ける前に、まず自らの「基盤（foundation）」を確認するプロセスのメタファー。",
+		"aftertaste": "静寂の中で、自分の心音がこの「内受容感覚（interoception）」を通じて、全身に響き渡っているのを感じ、自分がいかに「生きている（being）」という奇跡によって支えられているかを知り、深い謙虚さを覚える、あの知的な平安。あるいは、自分の思考が、外部のノイズに惑わされず、常にこの「インテロセプション」のように自分の「真実の声」を聴き分けられていることを誇る、あの静かな午後の自負。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kap-",
+					"meaning": "to grasp (forming capere)"
+				}
+			],
+			"points": [
+				"accept, concept, deceive, except, intercept 同根。",
+				"『捕らえる（grasping）』ことは、対象を自分のものにすることである。インテロセプションは、生命が自らの身体的な現象を『意識』という名の所有物へと変換する、最初の主観的な行為である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "chronesthesia",
+		"word": "Chronesthesia",
+		"part_of_speech": "noun",
+		"meaning": "クロネステジア、時間意識、メンタル・タイムトラベル能",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "khronos",
+					"type": "root",
+					"meaning": "time (時間)",
+					"lang": "Greek"
+				},
+				{
+					"text": "aisthēsis",
+					"type": "root",
+					"meaning": "perception, feeling (感覚、知覚)",
+					"lang": "Greek"
+				}
+			],
+			"original_statement": "From Greek khronos 'time' + aisthēsis 'feeling'."
+		},
+		"core_concept": {
+			"en": "The hypothetical ability of humans to be aware of their own past and future",
+			"ja": "過去の記憶と未来の予感を自由に往来する、魂の『タイムトラベル』。現在（now）という牢獄を抜け出し、時間の海を回遊する、知的な『四次元の感覚』"
+		},
+		"thinking_layer": "『時間の感覚』。クロノグラフ（Chronograph/時計）、アネスセシア（Anesthesia/麻酔＝感覚がないこと）、おなじみ「クロニクル（Chronicle/記述、物語）」と同根。語源は「時間の知覚」。ただの「時間感覚」ではありません。そこには。「過ぎ去ったものと、まだ見ぬものを、今、この瞬間に鮮やかに幻視（vision）する」という、人間にのみ許された特権的な想像力が宿っています。それは。知性が因果律の鎖を解き放ち、自らの物語を自在に編集してゆく瞬間のメタファー。 ",
+		"aftertaste": "目をつぶった瞬間に。幼少期の夏の匂いと、数十年後の自分の孤独が、この「クロネステジア（chronesthesia）」によって同時に立ち現れる不思議に、時空（space-time）の曖昧さと、自分という存在の「永遠性」を感じる、あの知的な眩暈（dizziness）。あるいは、自分の言葉が、この「クロネステジア」のように、読み手を過去の傷跡から未来の希望へと、滑らかに「転送（teleport）」できるものでありたいと願う、あの静かな夜の自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "au-",
+					"meaning": "to perceive (forming aisthēsis)"
+				}
+			],
+			"points": [
+				"aesthetic, anesthetic 同根。",
+				"『時間（time）』を感じることは、変化（change）を認識することである。クロネステジアは、物理的な時間の流れとは無関係に、魂がいかにして独自の『歴史の軸』を構築しているかを示す、内面的な宇宙論である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "thermoception",
+		"word": "Thermoception",
+		"part_of_speech": "noun",
+		"meaning": "温覚、温度感受",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "thermos",
+					"type": "root",
+					"meaning": "hot, heat (熱い、熱)",
+					"lang": "Greek"
+				},
+				{
+					"text": "capere",
+					"type": "root",
+					"meaning": "to take (取る)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Greek thermos 'heat' + Latin capere 'take'."
+		},
+		"core_concept": {
+			"en": "The sense by which an organism perceives temperatures",
+			"ja": "世界の冷たさ（cold）と熱（heat）を、自らの肌を通して『採取（take）』する対話の身振り。外部環境という巨大な他者の『体温』を測り、自らの安全と快適さを確保するための、知的な『熱的均衡の門』"
+		},
+		"thinking_layer": "『熱を捕らえること』。サーマル（Thermal/熱の）、レセプション（Reception/受け入れ）、おなじみの「サーモ（熱）」と同根。語源は「熱の受容」。ただの「温度感覚」ではありません。そこには。「世界の厳しさと優しさを、直接的に肌で感じる」という、生命の最も基本的なサバイバル感覚が宿っています。それは。知性が論理的な冷徹さを保ちつつも、他者のアイディアの「熱量」を正確に評価しようとする、代謝的な受容。 ",
+		"aftertaste": "冬の朝の冷たい空気が、この「サーモセプション（thermoception）」を通じて脳を覚醒（awake）させる瞬間に、自分がまだ世界と「繋がっている」ことを実感し、生というものの峻烈な手応えを噛み締める、あの知的な平安。あるいは、自分の言葉が、誰かの凍てついた心にこの「温覚」を呼び覚ますような、微かな、しかし確かな「体温」を宿していることを信じる、あの静かな午後の祈り。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "gwher-",
+					"meaning": "hot (forming thermos)"
+				}
+			],
+			"points": [
+				"burn, furnace, forceps, warm 同根。",
+				"『熱（heat）』は変化の動力源である。サーモセプションは、世界がいかに活動的（active）であるかを生命が監視し、自らの内部燃焼（metabolism）を最適化するための、原初的なフィードバック・ループである。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "equilibrioception",
+		"word": "Equilibrioception",
+		"part_of_speech": "noun",
+		"meaning": "平衡感覚、バランス感覚",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "aequus",
+					"type": "root",
+					"meaning": "equal (等しい)",
+					"lang": "Latin"
+				},
+				{
+					"text": "libra",
+					"type": "root",
+					"meaning": "balance, scales (天秤、秤)",
+					"lang": "Latin"
+				},
+				{
+					"text": "capere",
+					"type": "root",
+					"meaning": "to take (取る)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin aequus 'equal' + libra 'balance' + capere 'take'."
+		},
+		"core_concept": {
+			"en": "The sense of balance that allows humans and animals to maintain posture or orientation",
+			"ja": "重力（gravity）という目に見えない鎖の中で、自らの『中心（center）』を見失わないための知的な綱渡り。混沌とした空間を、自らの直立（upright）によって『垂直』と『水平』へと整理してゆく、峻烈な『均衡の構築』"
+		},
+		"thinking_layer": "『等しい天秤を捕らえること』。イコール（Equal/等しい）、リブラ（Libra/てんびん座）と同根。語源は「バランスの知覚」。ただの「三半規管の働き」ではありません。そこには。「どんなに周囲が旋回（swirling）していても、自らの核（core）だけは揺るがない」という、不屈の自律性が宿っています。それは。知性が激動する情勢（tides）の中で、自らの信念を垂直に保ち続けるための、精神的なデッド（dead）ウェイト。",
+		"aftertaste": "目をつぶって片足で立った瞬間に、全身の神経が火花を散らしてこの「平衡感覚（equilibrioception）」を維持しようとする健気（bravery）さに、生命の並外れた「踏みとどまる意志」を感じて感謝する、あの知的な平安。あるいは、自分の社会的な立ち位置が、この「エキリブリオセプション」のように、常に微かな揺れを伴いながらも、絶妙なバランスで成立しているという「危うい奇跡」を誇る、あの静かな夜の自尊心。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"『天秤（libra）』は正義の象徴でもある。エキリブリオセプションは、単なる物理的なバランスを超えて、自らの内外における『正しさ』を常に計測し続ける、生命の原初的な倫理感の現れである。",
+				"『垂直（vertical）』に立つことは、大地への従属を拒否し、天へと自らを投げ出すという、最も傲慢で美しい身振りである。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "magnetoception",
+		"word": "Magnetoception",
+		"part_of_speech": "noun",
+		"meaning": "磁気受容、磁覚",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "Magnētis",
+					"type": "root",
+					"meaning": "Magnesia (a region in Greece where iron was found)', from Greek"
+				},
+				{
+					"text": "capere",
+					"type": "root",
+					"meaning": "to take (取る)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From magnetic + perception/reception."
+		},
+		"core_concept": {
+			"en": "A sense that allows an organism to detect a magnetic field to perceive direction, altitude, or location",
+			"ja": "惑星の深淵から漏れ出す微かな『磁力の囁き（whisper）』を感知し、見えない地図を自らの中に描く神秘的な第六感。五感を越えた領域で、宇宙の巨大な流れと同化する、知的な『方角の確信』"
+		},
+		"thinking_layer": "『磁気を捕らえること』。マグネット（Magnet/磁石）、レセプション（Reception/受け入れ）、おなじみの「マグネ（磁気）」と同根。語源は「マグネシアの石」。ただの「方向感覚」ではありません。そこには。「目に見える標識（landmarker）がすべて消え去っても、自分だけは正しい方角を知っている」という、孤独で力強い「内なる羅針盤」が宿っています。それは。知性が根拠のない自信を、宇宙的なスケールの「直感」へと昇華させる瞬間のメタファー。",
+		"aftertaste": "渡り鳥が数千キロの旅の果てに、この「磁気受容（magnetoception）」だけを頼りに故郷の森へと辿り着く奇跡に、生命の持つ「執着（tenacity）」と、大いなる自然への「隷属（submission）」を同時に感じて涙する、あの知的な共鳴。あるいは、自分のアイディアが、世間の嵐の中でも見失われない、この「マグネトセプション」のような「独自の磁場」を纏（まと）っていることを信じる、あの静かな午後の自尊心。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"鉄分（クリスタル）を含む神経細胞が、地球の磁力線を物理的な信号へと変換する。生命は、自らの一部を『物質』としての石に変えることで、宇宙的なエネルギーと共振（resonate）している。",
+				"『方角（direction）』とは、空間に意味を与えることである。磁覚は、生命が単に移動する（moving）存在ではなく、宇宙の法則に従って『巡礼する（pilgriming）』存在であることを示している。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
