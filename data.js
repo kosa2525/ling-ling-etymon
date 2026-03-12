@@ -260280,5 +260280,185 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "glabrous",
+		"word": "Glabrous",
+		"part_of_speech": "adjective",
+		"meaning": "（植物が）無毛の、滑らかな、はげた",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "glaber",
+					"type": "root",
+					"meaning": "smooth, hairless (滑らかな、毛のない)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin glaber 'smooth'."
+		},
+		"core_concept": {
+			"en": "Free from hair or down; smooth",
+			"ja": "一切の産毛（down）や装飾を脱ぎ捨てた、磨き上げられた石のように『滑らか（smooth）』な質感。何も隠すもののない、完璧な表面の露呈"
+		},
+		"thinking_layer": "『滑らかなこと』。グライダー（Glider/滑空機）やグラッド（Glad/嬉しい＝心が輝く？）はおそらくな。語源は「無毛、滑らか」。植物の葉や、人間の肌の最も若々しく張り詰めた状態を指します。それは不純物を排した「純粋さ」、あるいは、一切の抵抗を許さない「冷徹な知性」のメタファー。 ",
+		"aftertaste": "雨上がりの朝、一切の産毛を持たない「滑らかな（glabrous）」葉の表面を水滴が滑り落ちてゆく、あの無機質なまでに完璧な美しさに溜息をつく、知的な一瞬。あるいは、自分のプライドが「剥き出し（glabrous）」にされ、隠すための産毛（言い訳）さえも許されない厳しい状況に置かれた時の、あの鏡の前の静かな覚悟。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ghel-",
+					"meaning": "to shine (forming glaber?)"
+				}
+			],
+			"points": [
+				"glad, glass, gold, yellow, glad 同根の説あり。",
+				"『滑らかさ（smoothness）』とは、光（light）を遮ることなく『反射（reflection）』することであり、それは外部の世界を一切汚さずに受け入れる『透明な拒絶』の表現でもある。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "hirsute",
+		"word": "Hirsute",
+		"part_of_speech": "adjective",
+		"meaning": "毛深い、むさ苦しい、剛毛のある",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "hirsutum",
+					"type": "root",
+					"meaning": "rough, shaggy, bristly (ざらざらした、毛深い)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin hirsutus, from hirsus 'rough'."
+		},
+		"core_concept": {
+			"en": "Hairy",
+			"ja": "荒々しく、濃い『剛毛（bristles）』に覆い尽くされた様子。野生のエネルギーが、制御不能なまま体表に溢れ出したかのような、むさ苦しくも生命力に満ちた質感"
+		},
+		"thinking_layer": "『ざらざらしたこと』。ハラー（Horror/毛が逆立つほどの恐怖）とおそらくな。語源は「荒い」。グラブラス（Glabrous）の正反対。ただの「毛深い」ではなく、そこに「野性味」や「未整理（unrefined）」な感じが含まれます。それは冬の寒さに耐える獣の毛皮、あるいは、都会の洗練を拒絶して森に隠棲する者の、伸び放題の髭（ひげ）。",
+		"aftertaste": "鏡の中に、一ヶ月手入れを怠った自分の「毛深い（hirsute）」顔を見つけ、自分の中に潜む「野獣（beast）」の存在を再確認する、あの不気味で心地よい野生化の予感。あるいは、あまりにも「むさ苦しい（hirsute）」情熱をぶつけられ、自分の洗練された日常が土足で踏み荒らされたかのような、戸惑いと微かな嫉妬。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ghers-",
+					"meaning": "to bristle (forming horrere/fear)"
+				}
+			],
+			"points": [
+				"horror, horrendous, horrible, urchin（ハリネズミ）と同根。",
+				"『恐怖（horror）』とは本来、自分を守るために『毛を逆立てる（bristling）』本能的な反応であり、ヒルスート（hirsute）とはその防衛的なエネルギーが『定着（settle）』してしまった姿である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "tomentose",
+		"word": "Tomentose",
+		"part_of_speech": "adjective",
+		"meaning": "（植物が）綿毛に覆われた、フェルト状の毛がある",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "tōmentum",
+					"type": "root",
+					"meaning": "cushion stuffing (クッションの詰め物、短い毛)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin tomentum 'cushion stuffing'."
+		},
+		"core_concept": {
+			"en": "(of a leaf or stem) covered with densely matted soft hairs",
+			"ja": "柔らかい毛が密に絡み合い、まるで『クッションの詰め物（stuffing）』のような、厚みのあるフェルト状の層を作っている様子。外界の刺激を優しく受け流し、熱を逃さない『防寒のヴェール』"
+		},
+		"thinking_layer": "『詰め物の（ような）』。ただの「毛（hair）」ではなく、それが「絡まり合って層を成している」ことが重要です。それは植物が自らを守るために纏（まと）った、生きたベルベット。あるいは、自分の心を「柔らかい偽り（tomentose layers of lies）」で包み込み、現実の鋭い痛みから遠ざけようとする、知的な自己防衛のメタファー。",
+		"aftertaste": "灰緑色の「綿毛に覆われた（tomentose）」葉に指を沈め、その生き物のような温かさと弾力に触れる時の、あの自分が植物の「優しさ」に触れたかのような不思議な共同体感覚。あるいは、自分の過去の記憶が、時間の経過と共に「フェルト状の霧（tomentose fog）」に覆われ、もはや本当の形を思い出せなくなった、あの温かくて悲しい忘却の心地。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "tem-",
+					"meaning": "to cut (forming tomentum/clipped hair?)"
+				}
+			],
+			"points": [
+				"諸説あるが、羊の毛を『切り取って』作った詰め物が語源。そこには『他者の犠牲』の上に成り立つ『快適さ』という皮肉が眠っている。",
+				"『柔らかさ（softness）』とは、強すぎる光や熱を『拡散（diffusing）』させるための、複雑な物理的な境界線の設計である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "villous",
+		"word": "Villous",
+		"part_of_speech": "adjective",
+		"meaning": "（解剖、植物）絨毛（じゅうもう）のある、長い柔毛のある",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "villus",
+					"type": "root",
+					"meaning": "shaggy hair, tuft of hair (ふさふさした毛、房)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin villosus, from villus 'shaggy hair'."
+		},
+		"core_concept": {
+			"en": "Covered with soft long hairs; (botany) covered with long soft hairs, shaggy but not matted",
+			"ja": "一本一本が独立して、風にそよぐほど柔らかく長い毛で覆われた様子。トメントース（Tomentose）が「面」なら、ヴィラスは『線』としての毛。それは光を捕らえ、触覚を豊かに増幅（amplify）させる、繊細なアンテナの群れ"
+		},
+		"thinking_layer": "『房のある』。ベルベット（Velvet/ビロード）やヴェル（Vell/産毛）、ヴィレッジ（Village/人々が集まる場所？）はおそらくな。語源は「房」。ただの「毛」ではなく、そこに「流れ」と「独立性」があります。それは栄養を吸収するために小腸の内側に広がる見えない森（Villi）、あるいは、夕陽に輝くススキの穂のような、圧倒的な美しさを伴う「過剰な細部」。",
+		"aftertaste": "顕微鏡で覗く「絨毛（villi）」のパノラマに、一滴の水を吸い込むために設計された広大な「生命の草原」を見出し、自分の身体がいかに多くの「奉仕者たち」によって支えられているかに感動する、あの謙虚な覚醒。あるいは、あまりにも「繊細（villous）」な言葉に触れ、自分の粗野な日常が浄化（purified）されてゆくような、静かな午後の充足。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "wel-",
+					"meaning": "to tear, pull (forming villus/pulled hair?)"
+				}
+			],
+			"points": [
+				"wool, velvet, vellus（産毛）, vulture（毛を毟り取るもの＝ハゲタカ）と同根の説あり。",
+				"『吸収（absorption）』とは表面積を極限まで『拡張（expanding）』することであり、ヴィラス（villous）とはその拡張が、一つの『生命の風景』へと昇華された姿である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "ciliate",
+		"word": "Ciliate",
+		"part_of_speech": "adjective",
+		"meaning": "繊毛（せんもう）のある、まつ毛のある",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "cilium",
+					"type": "root",
+					"meaning": "eyelid, eyelash (まぶた、まつ毛)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin cilium 'eyelid', later 'eyelash'."
+		},
+		"core_concept": {
+			"en": "Having a margin of tiny hairs; relating to or denoting microscopic hairlike structures",
+			"ja": "まぶたを守る『まつ毛（eyelash）』のように、境界線（margin）に沿って整然と並んだ微細な毛。それは外部を感知し、あるいは自らを推進させるための、知的な『オール（oar）』。繊細な境界線の守護者"
+		},
+		"thinking_layer": "『まぶたのような』。コンシール（Conceal/隠す）や、スーパーシリアス（Supercilious/眉を上げる＝横柄な）と同根。語源は「まぶた」。ただの「毛」ではなく、そこに「境界（margin）」と「運動（movement）」の機能が宿っています。それはプランクトンが海を泳ぐための櫂（かい）、あるいは、目に入るゴミを払うための瞬（まばた）き。外の世界との、最も微細な、しかし最も誠実な対話。 ",
+		"aftertaste": "「まつ毛があるような（ciliate）」葉の縁（ふち）をそっとなぞり、その等間隔に並んだ毛の幾何学的な正しさに、自然界の「設計図（blueprint）」の緻密さを思い知る、あの理科室での感動。あるいは、他人の言葉の「隅々に（margin）」に潜む微かな棘（ciliate thorn）を感じ取り、自分の心に「まぶた（cilium）」という名のカーテンをそっと閉じる、あの静かな拒絶。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kel-",
+					"meaning": "to cover, hide (forming cilium/cover for the eye)"
+				}
+			],
+			"points": [
+				"cell, ceiling, color, hole, hell 同根。",
+				"『見る（seeing）』という行為は最も無防備な露出だが、そこに『まぶた（cilium）』という『隠蔽（concealment）』の装置があることで、知性は情報を正しく選択（select）できるようになる。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
