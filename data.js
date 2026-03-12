@@ -270799,5 +270799,216 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "limnology",
+		"word": "Limnology",
+		"part_of_speech": "noun",
+		"meaning": "湖沼学（こしょうがく）",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "limnē",
+					"type": "root",
+					"meaning": "marsh, lake, pool (沼、湖、池)",
+					"lang": "Greek"
+				},
+				{
+					"text": "logos",
+					"type": "root",
+					"meaning": "study (学問、言葉)",
+					"lang": "Greek"
+				}
+			],
+			"original_statement": "From Greek limnē 'lake' + -logia 'study'."
+		},
+		"core_concept": {
+			"en": "The study of inland waters—lakes, reservoirs, rivers, streams, wetlands, and groundwater—as ecological systems",
+			"ja": "陸地に閉じ込められた水（inland water）の宇宙を解き明かす、峻烈な眼差し。静止（stagnation）の中に潜むダイナモを、数理と生命の連鎖（chain）として読み解く、知的な『湖の哲学』"
+		},
+		"thinking_layer": "『湖の学問』。リムネ（Limne/湖沼）、おなじみ「ロジ（学問）」と同根。語源は「湖」。ただの「水文学（hydrology）」の一種ではありません。そこには。「周囲から隔絶され、独自の進化を遂げた小宇宙（microcosm）」を、一つの有機体として愛でるという、詩的な科学が宿っています。それは。知性が自らの思考の『澱（よど）み』を、冷徹な観察によってクリスタルな透明度へと変容させるプロセスのメタファー。",
+		"aftertaste": "夕暮れの湖畔で、この「湖沼学（limnology）」の知識を抱きながら、波一つない水面の下に広がる膨大な『情報の垂直層』を想い、自分という存在がいかに深い「静寂（silence）」に支えられているかを知る、あの知的な平安。あるいは、自分の思考が、この「リムノロジー」のように、一見停滞している場所からこそ、最も豊かな知の生態系を育むことができるのだ、と確信する、あの静かな午後の自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "lei-",
+					"meaning": "slimy, sticky, smooth (forming limnē)"
+				}
+			],
+			"points": [
+				"lime, loam, liniment, slime 同根の説あり。",
+				"『湖（lake）』という言葉は、本来、流れることを止めた水の『粘り（viscosity）』を表していた可能性がある。湖沼学は、その粘りの中から、いかにして生命という名の結晶が析出されたかを追う、壮大な物質のドラマである。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "eutrophic",
+		"word": "Eutrophic",
+		"part_of_speech": "adjective",
+		"meaning": "富栄養の、栄養過多な",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "eu-",
+					"type": "prefix",
+					"meaning": "well (良く、たっぷり)"
+				},
+				{
+					"text": "trophe",
+					"type": "root",
+					"meaning": "nourishment (栄養)",
+					"lang": "Greek"
+				}
+			],
+			"original_statement": "From Greek eutrophos 'well-nourished', from eu- 'well' + trephein 'to nourish'."
+		},
+		"core_concept": {
+			"en": "(Of a lake or other body of water) rich in nutrients and so supporting a dense plant population, which decomposes and kills animal life by depriving it of oxygen",
+			"ja": "過剰な『恵み（nourishment）』が、逆に生命を窒息（suffocation）させるという逆説。豊かさが腐敗（decay）へと転じる、峻烈な平衡の喪失。満たされすぎた水面の下で、静かに進行する『贅沢な死』"
+		},
+		"thinking_layer": "『良く栄養を与えられた』。アトロフィー（Atrophy/萎縮＝栄養がない）、おなじみの「EU（良き）」と同根。語源は「良く肥えた」。ただの「栄養豊富」ではありません。そこには。「適度（moderation）を忘れた成長が、自らの生存基盤を破壊する」という、文明的な「過剰の恐怖」が宿っています。それは。知性が情報の海（ocean of information）に溺れ、自律的な思考を失ってゆく瞬間のメタファー。 ",
+		"aftertaste": "アオコ（algae bloom）に覆われた「富栄養な（eutrophic）」池を見つめ、豊かさそのものが最強の「毒」となり得る宇宙の皮肉に、背筋が凍るような知覚の戦慄を覚える、あの峻烈な一呼吸。あるいは、自分の心もまた、この「ユートロフィック」な過剰さに陥らぬよう、常に適度な「飢え（hunger）」を抱きながら、清冽（せいれつ）な知を求め続けようと誓う、あの静かな夜の自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "dherebh-",
+					"meaning": "to curdle, thicken (forming trephein)"
+				}
+			],
+			"points": [
+				"euphoria, eulogy, atrophy, dystrophy 同根。",
+				"『育てる（nourishing）』ことは本来、対象を『固める（thickening）』ことである。しかし、ユートロフィックな状態においては、その固まりが全体の循環を遮断し、全体を死の淀みへと引きずり込んでゆく。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "oligotrophic",
+		"word": "Oligotrophic",
+		"part_of_speech": "adjective",
+		"meaning": "貧栄養の（ひんえいようの）、栄養分の少ない",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "oligos",
+					"type": "root",
+					"meaning": "few, little (少ない)",
+					"lang": "Greek"
+				},
+				{
+					"text": "trophe",
+					"type": "root",
+					"meaning": "nourishment (栄養)",
+					"lang": "Greek"
+				}
+			],
+			"original_statement": "From Greek oligos 'few' + trophe 'nourishment'."
+		},
+		"core_concept": {
+			"en": "(Of a lake) characterized by a low accumulation of dissolved nutrient salts, supporting but a sparse plant life and having a high oxygen content",
+			"ja": "奪われることで獲得した、峻烈なまでの『透明度（transparency）』。不純物を拒絶し、乏しき（few）を以て最高純度の生命を支える、孤高のプライド。虚飾を削ぎ落とした、水の『エッセンス』"
+		},
+		"thinking_layer": "『栄養が少ない』。オリガルヒ（Oligarchy/寡頭政治＝少数の支配）、おなじみ「ロジック」とは関係なく。語源は「わずかな栄養」。ただの「不毛（sterile）」ではありません。そこには。「過剰を排し、最小限の資源で極限の美しさを維持する」という、ミニマリズムの極致が宿っています。それは。知性が雑音を排し、ただ一つの「真実」に向けて自らを研ぎ澄ませてゆくプロセスの象徴。",
+		"aftertaste": "底まで透き通った「貧栄養な（oligotrophic）」高山湖（alpine lake）の冷たさに触れ、何もない（nothing）ことの、はちきれんばかりの充足感に涙がこぼれそうになる、あの知的な平安。あるいは、自分の言葉が、この「オリゴトロフィック」な湖のように、一文字の無駄もなく、ただ切実な「光（light）」だけを透過させる存在でありたいと願う、あの静かな午後の自負。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ol-",
+					"meaning": "few (forming oligos)"
+				}
+			],
+			"points": [
+				"oligarchy, oligopoly, oligocene 同根。",
+				"『少ない（few）』ことは、生命にとっての『選択（choice）』である。オリゴトロフィックな環境は、生命がいかにして『贅沢』という誘惑を断ち切り、最も効率的で強靭なネットワークを構築してきたかを示す、進化の勝利宣言である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "profundal",
+		"word": "Profundal",
+		"part_of_speech": "adjective",
+		"meaning": "深底帯の（しんていたい）、（湖などの）深層の",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "pro-",
+					"type": "prefix",
+					"meaning": "forth, forward (前方へ)"
+				},
+				{
+					"text": "fundus",
+					"type": "root",
+					"meaning": "bottom (底)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin profundus 'deep', from pro- 'forth' + fundus 'bottom'."
+		},
+		"core_concept": {
+			"en": "The deep zone of an inland body of free-standing water, located below the range of effective light penetration",
+			"ja": "光が届く（penetrating）ことを諦めた、永久の『沈黙の底』。外界の喧騒を重厚な水層（water mass）で遮断し、純粋な化学反応のみが律する、大地の『内省的な肺』"
+		},
+		"thinking_layer": "『底に向かって前進する』。プロファウンド（Profound/深い）、ファウンデーション（Foundation/基礎）、おなじみの「プロ（前へ）」と同根。語源は「底知れぬ」。ただの「深み（deep）」ではありません。そこには。「上層の華やかさを支えるために、すべての重圧を引き受けて沈み込んでいる」という、峻烈な宿命論が宿っています。それは。知性が概念の表面を滑ることを止め、その「根源（root）」へと潜水（diving）してゆく格闘。 ",
+		"aftertaste": "光の届かない「深底帯（profundal zone）」の堆積物の中に、数万年分の「死」と「再生」の記憶が眠っていることに想いを馳せ、時間というものの重厚な「層（layer）」に圧倒される、あの知的な眩暈（dizziness）。あるいは、自分の思考が、この「プロファンダル」な深みにおいて、誰にも邪魔されることなく、真理の「原石」を温め続けていることを確信する、あの静かな夜の自尊心。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "bhudh-",
+					"meaning": "bottom (forming fundus)"
+				}
+			],
+			"points": [
+				"found, fundamental, fund, profound 同根。",
+				"『底（bottom）』へと向かう運動は、宇宙の重力に従う最も『素直』な行為である。プロファンダル（profundal）という言葉には、生命が最後に行き着く、安らぎと絶望が混ざり合った『終着地点』の匂いが漂っている。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "meromictic",
+		"word": "Meromictic",
+		"part_of_speech": "adjective",
+		"meaning": "部分循環（式）の、層の混ざらない",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "meros",
+					"type": "root",
+					"meaning": "part, portion (部分)",
+					"lang": "Greek"
+				},
+				{
+					"text": "miktos",
+					"type": "root",
+					"meaning": "mixed (混ざった)', from Greek meignunai 'to mix'"
+				}
+			],
+			"original_statement": "From Greek meros 'part' + miktos 'mixed'."
+		},
+		"core_concept": {
+			"en": "(Of a lake) having layers of water that do not intermix",
+			"ja": "二つの世界（layers）が隣り合いながらも、決して交わることがない『静かな絶交』。表面が嵐に荒れ狂おうとも、深淵の沈黙（monimolimnion）は一万年の孤独を守り続ける、知的な『完全分断』"
+		},
+		"thinking_layer": "『部分的に混ざる』。ミクスチャー（Mixture/混合）、ポリマー（Polymer/多くの部分）、おなじみの「ミックス（混ぜる）」と同根。語源は「部分的に混ざる」。ただの「混ざらない」ではありません。そこには。「表面的な交流（circulation）を代償にして、核心部分の純粋さを死守する」という、排他的で峻烈な生存戦略が宿っています。それは。知性が自らの「神聖な真実」を、世俗の風から守るために、あえて心の奥底に封印（encapsulation）してゆくプロセスの象徴。",
+		"aftertaste": "数千年間一度も混ざり合ったことのない「部分循環湖（meromictic lake）」の深層水を想い、そこにはまだ、この星が誕生した当時の「純粋な沈黙」が結晶として残っているのではないかと幻想し、歴史というものの「保存形式」に戦慄する、あの峻烈な一瞬。あるいは、自分の心の中にも、この「メロミクティック」な層のように、誰にも触れさせない「永遠の自分」が潜んでいることを誇らしく思う、あの静かな午後の自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "smer-",
+					"meaning": "to allot, assign (forming meros)"
+				},
+				{
+					"term": "meik-",
+					"meaning": "to mix (forming meignunai)"
+				}
+			],
+			"points": [
+				"merit, monomer, miscellaneous, meddle 同根。",
+				"『部分（part）』を認めることは、全体という幻想を捨てることである。メロミクティック（meromictic）な状態は、宇宙がいかにして『断絶』という壁を利用して、多様な時間の流れを並列（parallel）に維持してきたかを示す、ダイナミックな均衡の詩である。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
