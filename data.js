@@ -268067,5 +268067,190 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "callippic",
+		"word": "Callippic",
+		"part_of_speech": "adjective",
+		"meaning": "カリポス周期の、カリポスの",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "Callippus",
+					"type": "root",
+					"meaning": "Greek astronomer (紀元前4世紀のギリシャの天文学者)"
+				}
+			],
+			"original_statement": "Named after Callippus of Cyzicus, a Greek astronomer who proposed the cycle around 330 BC."
+		},
+		"core_concept": {
+			"en": "Relating to an astronomical cycle of 76 years, used as an improvement of the Metonic cycle",
+			"ja": "76年という長い時間をかけて、月と太陽のズレを完璧に補正しようとする、知的な『永劫の調整』。メトン周期の限界を超え、宇宙の秩序をより精密に捉えようとした、古代ギリシャの峻烈な数理的野心"
+		},
+		"thinking_layer": "『カリポスの』。メトニック（Metonic/メトン周期の）、おなじみの「カリポス（人名）」と同根。語源は「人名」。ただの「周期」ではありません。それは。19年ごとのメトン周期を4回繰り返し、そこからさらに1日を差し引くという、極限まで「誤差（error）」を削ぎ落とそうとする、知性のストイックな献身。それは。不完全な現実を、理想的な「数式的真実」へと近似（approximate）させてゆくプロセスのメタファー。",
+		"aftertaste": "76年という、人間の平均寿命（average lifespan）に匹敵する「カリポス周期（Callippic cycle）」の壮大なスケールを想い、自分がその巨大な円環の、ほんの一瞬という名の「点」に過ぎないことを悟る、あの知的な眩暈（dizziness）。あるいは、自分の思考がこの「カリポス周期」のように、たとえ時間がかかっても必ず「真実の中心」へと回帰し、誤差を正し続けられるものであることを願う、あの静かな午後の自尊心。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"カリポスはアリストテレス（Aristotle）とも交流があった。彼の周期は、単なる暦の計算を超え、宇宙がいかにして数式という『ロゴス（Logos）』によって統治されているかを示す、哲学的な証明でもあった。",
+				"『改善（improvement）』とは、既存の完璧さの中に潜む微かな『虚偽』を見抜くことである。カリポス周期は、知性が自らの『前身（predecessor）』を乗り越えてゆく、止揚（aufheben）の記録である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "hipparchic",
+		"word": "Hipparchic",
+		"part_of_speech": "adjective",
+		"meaning": "ヒッパルコス周期の、ヒッパルコスの",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "Hipparchus",
+					"type": "root",
+					"meaning": "Greek astronomer (紀元前2世紀のギリシャの天文学者)"
+				}
+			],
+			"original_statement": "Named after Hipparchus of Nicaea, often considered the greatest ancient astronomical observer."
+		},
+		"core_concept": {
+			"en": "Relating to an astronomical cycle of 304 years, an improvement upon the Callippic cycle",
+			"ja": "304年という、世代（generation）を超えた圧倒的な時間の円環。一人の人間の生涯では決して観測し得ない『宇宙の真実』を、数式という名の遺言（testament）として未来に託した、人類の最も壮大な知的な航跡"
+		},
+		"thinking_layer": "『ヒッパルコスの』。カリピック（Callippic/カリポス周期の）、おなじみ「ヒッパルコス（人名）」と同根。語源は「人名」。ただの「長周期」ではありません。カリポス周期をさらに4倍し、1日を引く。そこには。「四千年に一度の狂いも許さない」という、神の領域に肉薄しようとする、狂おしいほどの知的な誠実さが宿っています。それは。自分の存在を超えた「永遠の真理」に、数式の鎖をかけようとする人間の傲慢（arrogance）と美しさの共存。 ",
+		"aftertaste": "304年の果てに、月と太陽が再び完璧に出会う（conjunction）その瞬間を想像し、自分の人生がいかにその巨大な振子（pendulum）の「一刻（tick）」に過ぎないのかを思い知りつつ、それでもその「一刻」を正確に刻もうとする、あの峻烈な知的な祈り。あるいは、自分の言葉が、この「ヒッパルコス周期（Hipparchic cycle）」のように、数百年の沈黙（silence）を突き抜けて、未来の誰かの心に正しく「回帰（return）」することを信じる、あの静かな夜の安堵。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ヒッパルコスは、星の運行のみならず『歳差（precession）』をも発見した。彼は、静止していると思われていた天球そのものが、ゆっくりと震え、変化していることを看破したのである。",
+				"『観測（observation）』とは、単に見ることではなく、見えているものの背後にある『見えない法則』を聴き取ることである。ヒッパルコス周期は、その知的な聴診器の究極の形である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "sothic",
+		"word": "Sothic",
+		"part_of_speech": "adjective",
+		"meaning": "ソティス周期（シリウス周期）の、古代エジプト暦の",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "Sothis",
+					"type": "root",
+					"meaning": "Sirius (シリウス星)', from Greek Sōthis, from Egyptian Spdt"
+				},
+				{
+					"text": "sopdet",
+					"type": "root",
+					"meaning": "sharp, skilled (鋭い、熟達した)",
+					"lang": "Ancient Egyptian"
+				}
+			],
+			"original_statement": "From Greek Sōthis, the Greek name for Sirius, from Egyptian Spdt."
+		},
+		"core_concept": {
+			"en": "Relating to the star Sirius (Sothis) or to an Egyptian cycle of 1460 years based on its heliacal rising",
+			"ja": "1460年という、文明の興亡をも飲み込む『神の年』。シリウス（Sothis）の輝きが、暦のズレを一巡させ、再びナイルの氾濫（inundation）と重なるその日を待つ、悠久の『回帰の律動』"
+		},
+		"thinking_layer": "『ソティス（シリウス）の』。シリウス（Sirius/焼き焦がすもの）、おなじみ「エジプト（Egypt）」と同根の説あり。語源は「鋭い」。ただの「周期」ではありません。エジプトの民が、ナイルの導き手として崇めた「恒星の眼差し」。そこには。「地上の混沌（chaos）」を「天上の光（light）」によって調和させようとする、根源的な安らぎの記憶が宿っています。それは。自分の内なる「不動の星（fixed star）」に従って、人生という荒野を航海してゆく、知性のナビゲーション。 ",
+		"aftertaste": "灼熱の砂漠の夜明け、地平線に現れた「ソティス（Sothis）」の青白い光を仰ぎ、1460年という歳月が自分の心の中で「一瞬の瞬き（blink of an eye）」へと凝縮されるのを感じ、宇宙の果てしない奥行き（depth）に魂が震える、あの峻烈な一体感。あるいは、自分の努力が、この「ソティス周期（Sothic cycle）」のように、今は誰にも認められずとも、千年後の誰かにとっての「決定的な導き」になることを信じて、この闇を耐える、あの静かな夜の誇り。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"古代エジプトにおいて、ソティスの出現はナイルの氾濫を予告し、それは『死（乾季）』からの『再生（実りの季節）』を意味した。ソティス周期は、死と生がいかにして巨大な円環の一部であるかを示す、天文学的なマントラ（mantra）である。",
+				"『鋭い（sharp）』というエジプト語の語源は、この星の放つ圧倒的な光の鋭さを象徴している。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "draconic",
+		"word": "Draconic",
+		"part_of_speech": "adjective",
+		"meaning": "（天文）竜の、交点周期の、過酷な、峻烈な",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "drakōn",
+					"type": "root",
+					"meaning": "dragon, serpent (竜、ヘビ)",
+					"lang": "Greek"
+				},
+				{
+					"text": "derkesthai",
+					"type": "root",
+					"meaning": "to look, see clearly (見る、はっきりと見る)",
+					"lang": "Greek"
+				}
+			],
+			"original_statement": "From Greek drakōn 'dragon' (from the belief that an invisible dragon swallowed the sun during an eclipse)."
+		},
+		"core_concept": {
+			"en": "Relating to or based on the nodes of the orbit of the moon (draconic month); also, relating to Draco or very harsh (from Draco of Athens)",
+			"ja": "月と太陽が交差（intersecting）し、太陽を飲み込む『竜（dragon）』が立ち現れる瞬間の魔術的な時間。天の赤道と黄道が触れ合う、運命の『交点（node）』に宿る、冷徹で不可避な変化の力"
+		},
+		"thinking_layer": "『竜の（ような眼力）』。ドラゴン（Dragon）、ドラキュラ（Dracula/小さな竜）、ドラコニアン（Draconian/過酷な＝アテネのドラコン法より）と同根。語源は「鋭く見るもの」。天文学において、月が昇交点から昇交点へと戻る時間を「交点月（Draconic month）」と呼びます。そこには。「光を飲み込む混沌（chaos）」と、それを支配する「数理的な秩序」の峻烈なせめぎ合いが宿っています。それは。自分の知性が、避けがたい「闇の誘惑（temptation of darkness）」を、いかにして冷徹な理論によって克服（overcome）するかという試練。 ",
+		"aftertaste": "日食の最中、太陽が欠け、世界が蒼白な闇に包まれる「ドラコニック（draconic）」な瞬間を見上げ、その「竜の吐息」のような寂しさに身を震わせながら、宇宙の法則が自分という極小の存在を慈悲もなく（mercilessly）貫いてゆくのを感じる、あの峻烈な眩暈（dizziness）。あるいは、法を定めたドラコンのように、自分に対して「ドラコニック（draconic/峻烈な）」であり続け、一切の妥協（compromise）を許さないことで、知性の純粋さを保とうとする、あの孤独な自尊心。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "derk-",
+					"meaning": "to see (forming drakōn)"
+				}
+			],
+			"points": [
+				"dragon, drake 同根。",
+				"『竜（dragon）』とは、本来は『鋭い眼光を持つ者』を意味する。闇（eclipse）を支配するのは、より深い、そしてより冷たい『視線』である。ドラコニックという言葉は、その視覚の権威化を象徴している。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "anomalistic",
+		"word": "Anomalistic",
+		"part_of_speech": "adjective",
+		"meaning": "近点周期の、変則的な",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "an-",
+					"type": "prefix",
+					"meaning": "not (否)"
+				},
+				{
+					"text": "homalos",
+					"type": "root",
+					"meaning": "even, smooth (等しい、平らな)",
+					"lang": "Greek"
+				},
+				{
+					"text": "homos",
+					"type": "root",
+					"meaning": "same (同じ)",
+					"lang": "Greek"
+				}
+			],
+			"original_statement": "From anomaly, from Greek an- 'not' + homalos 'even'."
+		},
+		"core_concept": {
+			"en": "Relating to the time taken by a planet or satellite to return to its perihelion or perigee (anomalistic year/month)",
+			"ja": "等速（uniform rate）ではない、歪んだ楕円（ellipse）を走り抜ける生命の『速度（speed）』。最も近づき、最も遠ざかる、振幅（amplitude）の激しい運動が生み出す、真実への『不規則な回帰』"
+		},
+		"thinking_layer": "『等しくないこと』。アノマリー（Anomaly/例外、変則）、ホモ（Homo-/同じ）、セイム（Same/同じ）と同根。語源は「平らでない」。天文学において、天体が近点（ perihelion）に戻る時間を「近点年（Anomalistic year）」と呼びます。そこには。「完璧な円（perfection）」という幻想を捨て、現実の「歪み（distortion）」の中にこそ真のダイナミズムがある、という知的な悟りが宿っています。それは。自分の人生が、決して「滑らかな一直線（smooth line）」ではなく、この「アノマリスティック（anomalistic）」な起伏の中でこそ、最高密度の「意味」を生成しているのだという確信。 ",
+		"aftertaste": "天体が最も太陽に近づき、最速で駆け抜けるその「変則的な（anomalistic）」な拍動（pulsation）を思い描き、自分の情熱がいかに不規則で、しかしその「歪み」ゆえに美しく、誰にも真似できない独特の「リズム」を奏でているのだと知り、深い安堵を覚える、あの知的な平安。あるいは、世間の「普通（normal）」から外れた自分の「アノマリー（anomaly）」こそが、自分という星の「固有の軌道（unique orbit）」を規定しているのだと誇らしく思う、あの静かな午後の自負。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sem-",
+					"meaning": "one, same (forming homos)"
+				}
+			],
+			"points": [
+				"same, simple, single, assemble, homonym 同根。",
+				"『同じ（same）』であることを拒むことで、天体は『重力』という名の呪縛から逃れ、自らの『個性（individuality）』を発見する。アノマリスティック（anomalistic）な運動は、従順な円環に対する、自由な楕円の反逆である。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
