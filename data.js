@@ -257691,5 +257691,149 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "revelry",
+		"word": "Revelry",
+		"part_of_speech": "noun",
+		"meaning": "どんちゃん騒ぎ、お祭り騒ぎ、酒盛り",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "rebel",
+					"type": "root",
+					"meaning": "to rebel, riot (反抗する、騒動を起こす)",
+					"lang": "Old French"
+				}
+			],
+			"original_statement": "From Old French reveler 'rebel, riot'."
+		},
+		"core_concept": {
+			"en": "Lively and noisy festivities, especially those which involve drinking a large amount of alcohol",
+			"ja": "日常の退屈なルールに対し、お酒と歌とダンスで『反抗（rebel）』し、一時的に秩序を破壊して狂喜乱舞すること。生命エネルギーが爆発する、騒々しい肯定"
+		},
+		"thinking_layer": "『反逆すること』。レベル（Rebel/反逆者）と同根。元々は「暴動」や「反乱」という意味でしたが、それが「バカ騒ぎ」へと転じました。それは、抑圧された日々から魂を「解放（release）」するための、最も手っ取り早くて強力な儀式。酒の海に沈み、叫び、踊ることで、自分を縛る「自分」という牢獄から抜け出す瞬間の、輝かしいカオス。",
+		"aftertaste": "夜通しのどんちゃん騒ぎ（revelry）の後の、耳鳴りと酒の臭いが残る静かな夜明け。自分が何者でもなかった数時間の記憶が、奇妙な多幸感と共に身体に染み付いている、あの祭りのあとの寂寥と、微かな生の充実。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "bel-",
+					"meaning": "war (forming bellum/rebel)"
+				}
+			],
+			"points": [
+				"rebel, bellicose（好戦的な）, belligerent, duel 同根。",
+				"『祭（festival）』とは平和的な『戦争（war）』であり、自らの中に溜まった破壊衝動を、創造的な『歓喜（revelry）』へと昇華させる高度な文明的装置である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "festoon",
+		"word": "Festoon",
+		"part_of_speech": "noun/verb",
+		"meaning": "花づな、花飾り、〜を花づなで飾る",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "festa",
+					"type": "root",
+					"meaning": "feast (祝祭)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Italian festone, from festa 'feast'."
+		},
+		"core_concept": {
+			"en": "A chain or garland of flowers, leaves, or ribbons, hung in a curve as a decoration; adorn (a place) with festoons",
+			"ja": "特別な日（feast）を彩るために、花やリボンを繋ぎ合わせて『吊り下げた飾り』。曲線を描いて空間を埋める、目に見える『喜びの連なり』"
+		},
+		"thinking_layer": "『祝祭の飾り』。フィースト（Feast/ご馳走、祝祭）や、フェスティバル（Festival）と同根。ただの「飾り（decoration）」よりも、より「祝祭的（festive）」で、曲線的な美しさを強調します。それは、直線的な日常の風景に、柔らかい曲線と色彩を持ち込み、そこが「聖なる空間」であることを宣言する、視覚的な音楽。 ",
+		"aftertaste": "天井から吊るされた色とりどりのリボンが、風に震えて光を弾いているのを見上げる時の、あの心がふわりと浮き上がるような、お祝いの予感。あるいは、祭りが終わった後に、一人でその「花飾り（festoon）」を片付けながら、楽しい時間はいつも曲線のように通り過ぎてゆくのだと感じる、あの静かな寂しさ。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "dhes-",
+					"meaning": "holy (forming fest/feast)"
+				}
+			],
+			"points": [
+				"feast, festival, fanatic, fane（聖域）と同根。",
+				"『美しく飾ること（adorning）』とは、ただの物体（object）の中に『神聖さ（holiness）』という名の『熱』を閉じ込め、特別な時間を定着させる行為である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "saturnalia",
+		"word": "Saturnalia",
+		"part_of_speech": "noun",
+		"meaning": "サトゥルヌス祭、乱痴気騒ぎ、無礼講、どんちゃん騒ぎ",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "Saturnus",
+					"type": "root",
+					"meaning": "Saturn (農耕神サトゥルヌス)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin Saturnalia, the festival of Saturn."
+		},
+		"core_concept": {
+			"en": "An occasion of wild revelry; (in ancient Rome) the festival of Saturn in December, a period of general merrymaking and the relaxation of social rules",
+			"ja": "主人が奴隷に仕え、あらゆる上下関係が逆転する『聖なる無礼講』。冬の凍てつく闇の中で、かつての黄金時代を呼び戻すために行われる、秩序という名の『檻』を一時的に解体する狂乱"
+		},
+		"thinking_layer": "『サトゥルヌス（土星）の祭り』。ローマの農耕神。現代のクリスマスの起源の一つ。ただ騒ぐだけでなく、「役割の反転」が鍵となります。自分が自分であることを辞め、別の誰か（あるいは何者でもない自分）として振る舞うこと。それは、あまりにも強固になりすぎた社会の「節（ふし）」を、一度緩めて油を差すための、生存のための計画的なカオス。",
+		"aftertaste": "普段は威厳に満ちた上司が、この「無礼講（saturnalia）」の夜だけは子供のように笑い転げているのを見る時の、あの安堵と、少しの気まずさが入り混じった、人間同士の生々しい距離感。あるいは、どんな権力もどんな苦しみも、この巨大な「回転（cycle）」の前では一時的な仮装に過ぎないと悟る、あの達観。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sa-",
+					"meaning": "to sow (forming Saturnus/Sower)"
+				}
+			],
+			"points": [
+				"seed, season, Saturn 同根。",
+				"『種をまく人（Sower）』であるサトゥルヌスが、なぜ『狂乱』の神となったのか。それは、種が土の中で『死と発酵』を経て芽吹くように、文明もまた『狂気』を経て再生されるからである。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "fete",
+		"word": "Fete",
+		"part_of_speech": "noun/verb",
+		"meaning": "祝祭、屋外での祭り、～を（盛大に）もてなす",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "festa",
+					"type": "root",
+					"meaning": "feast (祝祭)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From French fête, from Old French feste, from Latin festa."
+		},
+		"core_concept": {
+			"en": "A celebration or festival; honor or entertain (someone) lavishly",
+			"ja": "太陽の下で、コミュニティ全体が喜びを共有する『晴れやかな祝祭』。特定の誰かの功績を称え、あるいは季節の巡りを祝うために、最高のもてなし（lavish entertain）を捧げる、温かな感謝の爆発"
+		},
+		"thinking_layer": "『祝祭』。フランス語のフェット（Fête）。フェスティバルと同じ語源。野外でのバザーや庭園での社交パーティのような、開放的で、少し「よそ行き」な、しかし親しみやすい騒ぎ。そこでは、日常の義務（Duty）は一時的に忘れ去られ、ただ「共に楽しむ」という純粋な善意だけが空気の中に漂っています。",
+		"aftertaste": "芝生の上に広げられた真っ白なテーブルクロスに、こぼれたワインの赤い染みと、人々の絶え間ない笑い声。あの「フェット（fete）」の後の、身体に心地よく残る日差しと満足感、そして、明日からまた頑張ろうと思える、小さな勇気の種火。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "dhes-",
+					"meaning": "holy (forming fest/feast)"
+				}
+			],
+			"points": [
+				"feast, festivity, fete 同根。",
+				"『もてなす（feting）』という行為は、相手の中に『神聖なもの（divine）』を見出し、それを喜びという名の儀式で祝福することへの、知的な礼節。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
