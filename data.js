@@ -263243,5 +263243,208 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "polyrhythm",
+		"word": "Polyrhythm",
+		"part_of_speech": "noun",
+		"meaning": "ポリリズム、多重リズム、複合リズム",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "poly-",
+					"type": "prefix",
+					"meaning": "many (多くの)"
+				},
+				{
+					"text": "rhuthmos",
+					"type": "root",
+					"meaning": "rhythm, flow (リズム、流れ)",
+					"lang": "Greek"
+				}
+			],
+			"original_statement": "From Greek poly- 'many' + rhythmos 'rhythm'."
+		},
+		"core_concept": {
+			"en": "The simultaneous use of two or more conflicting rhythms",
+			"ja": "一つの楽曲（music）の中に、相容れない二つ以上の『リズム（rhythms）』が『共に（poly-）』流れている状態。衝突の中に生まれる高度な調和。あるいは、矛盾した複数の価値観を抱えたまま踊り続ける、現代人の知的な精神性"
+		},
+		"thinking_layer": "『多くの流れ』。ポリマー（Polymer/多量体）やライム（Rhyme/韻）と同根。語源は「多くのリズム」。表面的にはカオス（chaos）に見えますが、深層では一つの巨大なうねりとして統合されています。それは、一つの規則（rule）に従うことを拒絶し、多様な層（layers）が重なり合うことでしか到達できない、官能的な「自由」のメタファー。",
+		"aftertaste": "二つの異なる脈動（pulses）が重なり合い、自分の心臓の鼓動がその「ポリリズム（polyrhythm）」に巻き込まれてゆくのを感じる時の、あの世界の中心が揺らぐような眩暈（dizziness）と快感。あるいは、自分の人生の中に、仕事というリズムと、孤独というリズムが、この「複合リズム（polyrhythm）」のように不協和音（dissonance）を奏でながらも、一つの音楽を成しているのだと悟る、あの静かな肯定。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "spel-",
+					"meaning": "many (forming poly-)"
+				},
+				{
+					"term": "sreu-",
+					"meaning": "to flow (forming rhythmos)"
+				}
+			],
+			"points": [
+				"plural, stream, rheology, hemorrhage 同根。",
+				"『流れる（flowing）』という根源的な生命維持の衝動が、『多重（many）』化されることで、単核的な生存（survival）は多層的な『表現（art）』へと進化する。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "isochronous",
+		"word": "Isochronous",
+		"part_of_speech": "adjective",
+		"meaning": "等時性の、等時的な、一定の時間間隔で起こる",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "iso-",
+					"type": "prefix",
+					"meaning": "equal (等しい)"
+				},
+				{
+					"text": "khronos",
+					"type": "root",
+					"meaning": "time (時間)",
+					"lang": "Greek"
+				}
+			],
+			"original_statement": "From Greek isokhronos, from iso- 'equal' + khronos 'time'."
+		},
+		"core_concept": {
+			"en": "Occurring at the same time or occupying equal time; (of a pendulum) characterized by swings of equal duration",
+			"ja": "外部の激しい変化とは無関係に、完璧に『等しい（equal）』『時間（time）』の間隔で静かに繰り返される運動。不変の真理（truth）が刻む、孤独で高雅なメトロノーム"
+		},
+		"thinking_layer": "『等しい時間』。アイソトープ（Isotope/同位体＝同じ場所）、クロノロジー（Chronology/年代学）、クロニック（Chronic/慢性的な）と同根。語源は「同じ時間」。振り子の揺れのように、振幅（amplitude）が違っても時間は同じ。それは、どんなに人生が荒れ狂っても、自分の内なる信念（inner belief）だけは、一定の「リズム（isochronous pulse）」を失わないという、強靭な精神のメタファー。",
+		"aftertaste": "時計の秒針が刻み続ける「等時的な（isochronous）」リズムに耳を澄まし、自分の身体を構成する無数の細胞たちもまた、この完璧な「同期（sync）」の中で生きているのだと知る、あの宇宙的な秩序（order）への深い畏怖。あるいは、自分の日常があまりにも「等時的（isochronous）」に過ぎ、一回きりの「飛躍」を失っていないかと自問する、あの静かな午後の焦燥。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "yei-",
+					"meaning": "equal (forming iso-)"
+				},
+				{
+					"term": "gher-",
+					"meaning": "to seize (forming khronos? - uncertain)"
+				}
+			],
+			"points": [
+				"iso- (prefix), chronicle, anachronism 同根。",
+				"『時間（time）』とは本来は流動的な主観だが、アイソクロナス（isochronous）という概念は、そこに『客観的な等価性（equality）』を持ち込むことで、物理法則（physics）という名の不変の拠り所を与えた。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "anapest",
+		"word": "Anapest",
+		"part_of_speech": "noun",
+		"meaning": "弱弱強格（じゃくじゃくきょうかく）、アナパイストス",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "ana-",
+					"type": "prefix",
+					"meaning": "back (戻って、反対に)"
+				},
+				{
+					"text": "paiein",
+					"type": "root",
+					"meaning": "to strike (打つ)",
+					"lang": "Greek"
+				}
+			],
+			"original_statement": "From Greek anapaistos 'reversed', from ana- 'back' + paiein 'strike'."
+		},
+		"core_concept": {
+			"en": "A metrical foot consisting of two short or unaccented syllables followed by one long or accented syllable",
+			"ja": "二つの静かな溜息のあとに、力強い一打が『打ち（strike）』下ろされる、逆転（reversed）のリズム。抑圧されたエネルギーが、最後に劇的な爆発（burst）へと繋がる、カタルシスの韻律"
+		},
+		"thinking_layer": "『逆に打たれたもの』。アナグラム（Anagram/文字の入れ替え）、ペン（Pen/羽、打つもの？）はおそらくな。語源は「はね返った」。ダクティル（Dactyl/強弱弱）を「逆」にしたリズム。ただの「リズム」ではなく、そこに「蓄積と解放」の意志が宿っています。それは、耐え難い沈黙（silence）を破って語られる、真実の一言。知性の「反撃（counterattack）」の合図。 ",
+		"aftertaste": "「タタ・ターン、タタ・ターン」という「弱弱強格（anapest）」の調べが、自分の心臓の鼓動を徐々に速め、最後の一打（last strike）で世界が開けるような、あの高揚感に満ちた詩の体験。あるいは、自分の人生が、二つの「準備（weak steps）」のあとに一つの「跳躍（strong strike）」を繰り返す、この「アナペストのリズム（anapestic rhythm）」で進んでいるのだと確信する、あの静かな期待。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "peu-",
+					"meaning": "to strike (forming paiein)"
+				}
+			],
+			"points": [
+				"pave, pavement, compulsion 同根。",
+				"『打つ（striking）』という暴力的な行為を、準備（ana-）のあとの『韻律（meter）』へと転換することで、人間は自らの情熱を『形式（form）』の中に閉じ込め、美へと昇華させた。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "dactyl",
+		"word": "Dactyl",
+		"part_of_speech": "noun",
+		"meaning": "強弱弱格、長短短格、指、ナツメヤシの実",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "daktylos",
+					"type": "root",
+					"meaning": "finger (指)",
+					"lang": "Greek"
+				}
+			],
+			"original_statement": "From Greek daktylos 'finger'."
+		},
+		"core_concept": {
+			"en": "A metrical foot consisting of one stressed syllable followed by two unstressed syllables; a finger",
+			"ja": "三つの関節（joints）を持つ『指（finger）』のように、一打の強さの余韻の中に二つの弱さが静かに消えてゆく、流麗なリズム。力強い意志が、日常の細部（details）へと浸透してゆく、下降する優雅さ"
+		},
+		"thinking_layer": "『指』。デジタル（Digital/指で数える）、デート（Date/日付＝おそらくな）、ディクテーション（Dictation/指し示す？）とおそらくな。語源は「指」。一つの長い骨と、二つの短い骨。この身体の「形」が、そのまま詩の「調べ（meter）」になりました。それは、高踏的（grand）な叫びから始まり、静かな溜息で終わる、一つの完結した物語。 ",
+		"aftertaste": "古代の叙事詩（epic）を口ずさみ、その「強弱弱格（dactyl）」の大きな波に乗りながら、自分がたった一人の「個（individual）」を超えて、数千年前の詩人と指先を合わせている（touching fingers）ような、あの時代を超越した一体感。あるいは、自分の人生の栄光の瞬間（long syllable）のあとに、必ず訪れる二つの「静寂（short syllables）」を、ごく自然な「指の形」として受け入れる、あの穏やかな悟り。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "deik-",
+					"meaning": "to show, point (forming daktylos)"
+				}
+			],
+			"points": [
+				"digital, indicate, diction, judge（法を指し示す人） 同根。",
+				"『指（finger）』とは世界を『指し示す（showing）』知性のアンテナであり、ダクティル（dactyl）なリズムとは、その指し示された真理が、波紋（ripple）のように静かに広がってゆくプロセスの模倣である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "spondee",
+		"word": "Spondee",
+		"part_of_speech": "noun",
+		"meaning": "揚揚格（ようようかく）、長長格、スポンデイオス",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "spondē",
+					"type": "root",
+					"meaning": "libation, drink offering (献酒、儀式)",
+					"lang": "Greek"
+				}
+			],
+			"original_statement": "From Greek spondē 'libation' (from the slow meters used at libations)."
+		},
+		"core_concept": {
+			"en": "A metrical foot consisting of two long or stressed syllables",
+			"ja": "神への『捧げ物（libation）』を静かに注ぐ時のように、重々しく、一切の妥協（compromise）を許さず、二つの『強さ（stresses）』を叩きつけるリズム。時間は静止し、言葉はそのまま不動の岩（rock）となる、厳粛な沈黙の等価物"
+		},
+		"thinking_layer": "『献酒（のために歌われるリズム）』。スポンサー（Sponsor/誓いを立てる人＝保証人）、レスポンス（Response/答えを与える＝誓いに対する反応）、デスポンド（Despond/絶望する＝誓いを失う）と同根。語源は「献酒」。神への供物としての酒を注ぐ時の、あのゆっくりとした、しかし確固たるリズム。軽やかさを拒絶し、一音一音に魂を込めた、究極の「重圧（pressure）」。",
+		"aftertaste": "墓標に刻まれた短い別れの言葉が、この「揚揚格（spondee）」のリズムで自分の心に響くのを感じ、その「逃れられない重み」に膝をつきそうになる、あの峻烈な哀悼（mourning）。あるいは、自分の決意を語る時、あえて言葉を「重々しく（spondaic）」並べることで、自分自身の弱さをこの「リズムの楔（wedge）」で打ち砕こうとする、あの孤独な戦い。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "spend-",
+					"meaning": "to make a ritual offering, vow (forming sponde)"
+				}
+			],
+			"points": [
+				"sponsor, spouse（結婚の誓いをした人）, respond 同根。",
+				"『誓い（vow）』とは本来は取り消し不可能な重い言葉であり、スポンディー（spondee）なリズムとは、その不可逆性（irreversibility）を音の質量（mass）によって体現しようとする、知性の峻厳な倫理である。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
