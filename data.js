@@ -277603,5 +277603,155 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "stapes",
+		"word": "Stapes",
+		"part_of_speech": "noun",
+		"meaning": "アブミ骨",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "stapes",
+					"type": "root",
+					"meaning": "stirrup"
+				}
+			],
+			"original_statement": "From Latin stapes."
+		},
+		"core_concept": {
+			"en": "stirrup bone",
+			"ja": "情報の鐙。"
+		},
+		"thinking_layer": "音の震えを峻烈に増幅し、情報の海へ伝える。小ささの中にこそ、世界を動かすレバレッジが隠されている。",
+		"aftertaste": "精密なデザインへの敬畏。真理の震えを正確に伝える言葉でありたい。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"人体で最小の骨。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "incus",
+		"word": "Incus",
+		"part_of_speech": "noun",
+		"meaning": "キヌタ骨",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "incus",
+					"type": "root",
+					"meaning": "anvil"
+				}
+			],
+			"original_statement": "From Latin incus."
+		},
+		"core_concept": {
+			"en": "anvil bone",
+			"ja": "鍛錬の台。"
+		},
+		"thinking_layer": "衝撃を受け止め、意味の連鎖へと鍛え上げる。困難を自らを研ぎ澄ますための台座として活用する意志。",
+		"aftertaste": "不屈の精神。時代の荒波を美しい調べへと昇華させる魂のかなとこでありたい。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ハンマーと鐙を繋ぐ中継点。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "malleus",
+		"word": "Malleus",
+		"part_of_speech": "noun",
+		"meaning": "ツチ骨",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "malleus",
+					"type": "root",
+					"meaning": "hammer"
+				}
+			],
+			"original_statement": "From Latin malleus."
+		},
+		"core_concept": {
+			"en": "hammer bone",
+			"ja": "情報の槌。"
+		},
+		"thinking_layer": "振動を打撃へと変換し、目覚めを魂に叩き込む。曖昧な真理を論理という槌で打ち固める、先駆者の意志。",
+		"aftertaste": "生きてあることの能動性。眠りから覚醒させる情熱的な槌でありたい。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"マレアブル（可鍛性）と同根。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "ossicle",
+		"word": "Ossicle",
+		"part_of_speech": "noun",
+		"meaning": "小骨",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "os",
+					"type": "root",
+					"meaning": "bone"
+				},
+				{
+					"text": "-icle",
+					"type": "suffix",
+					"meaning": "little"
+				}
+			],
+			"original_statement": "From Latin ossiculum."
+		},
+		"core_concept": {
+			"en": "little bone",
+			"ja": "精緻な工芸品。"
+		},
+		"thinking_layer": "情報の調律のために特化された守護の欠片。最硬の組織で極致の純度を磨き上げる。緻密な連鎖による情報の増幅。",
+		"aftertaste": "宇宙の細部への配慮。魂の震えを大切に守る自尊心。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"中耳の3つの骨の総称。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "utricle",
+		"word": "Utricle",
+		"part_of_speech": "noun",
+		"meaning": "卵形嚢",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "uter",
+					"type": "root",
+					"meaning": "leather bag"
+				}
+			],
+			"original_statement": "From Latin utriculus."
+		},
+		"core_concept": {
+			"en": "little bag",
+			"ja": "水平線の守護者。"
+		},
+		"thinking_layer": "重力という法を液体の揺らぎとして受容し、平衡を保つ。不安定な渦中に自分自身の中心を見出す沈潜の知恵。",
+		"aftertaste": "未来へ視線を向けられる平安。足元を支え、水平線を見失わないための導きでありたい。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"耳石の動きが情報の重み（方向性）を教える。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
