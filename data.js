@@ -252857,5 +252857,123 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "acumen",
+		"word": "Acumen",
+		"part_of_speech": "noun",
+		"meaning": "洞察力、判断力、頭の切れ",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "acuere",
+					"type": "root",
+					"meaning": "to sharpen (研ぐ、尖らせる)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin acumen 'pointedness', from acuere 'sharpen'."
+		},
+		"core_concept": {
+			"en": "The ability to make good judgments and quick decisions, typically in a particular domain",
+			"ja": "針の先のように鋭く『研ぎ澄まされた（sharpen）』知性。複雑に絡み合った問題の急所を的確に突き、一瞬で解決へと導く、切っ先のような明敏さ"
+		},
+		"thinking_layer": "『尖っていること』。アキュート（Acute/鋭い）やアキュパンクチャー（Acupuncture/鍼）と同根。広範な知識よりも、特定の状況における「判断の鋭さ」を指します。無駄な思考を削ぎ落とし、最短距離で結論に達する、研磨された武器としての知性。 ",
+		"aftertaste": "完璧に研がれた日本刀が、紙一枚を音もなく切り裂くような、一切の迷いのない美しさ。あるいは、一言で混沌とした会議に終止符を打つ、冷徹な一撃。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ak-",
+					"meaning": "sharp, pointed"
+				}
+			],
+			"points": [
+				"acid, eager, vinegar（酸っぱいワイン）, edge 同根。",
+				"『鋭さ（sharpness）』は、生命が環境を切り拓くための、最も原初的な力。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "discernment",
+		"word": "Discernment",
+		"part_of_speech": "noun",
+		"meaning": "識別、見極め、洞察",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "dis-",
+					"type": "prefix",
+					"meaning": "apart (離して)"
+				},
+				{
+					"text": "cernere",
+					"type": "root",
+					"meaning": "to separate, sift (分ける、ふるいにかける)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin discernere, from dis- 'apart' + cernere 'separate'."
+		},
+		"core_concept": {
+			"en": "The ability to judge well",
+			"ja": "真実と虚偽、良質と悪質が混ざり合った混沌の中から、それらを『バラバラに（apart）』『ふるい分け（separate）』、本物だけを抽出する高度な審美眼"
+		},
+		"thinking_layer": "『ふるい分けること』。シークレット（Secret/分けられたもの）やクリティカル（Critical/批判的な）と同根。混ぜ物は許さない。一見似ている二つのものの間にある、決定的な「違い」を見つけること。それは世界を解像度高く認識するための、知性の最も崇高な義務です。",
+		"aftertaste": "砂金の中から、たった一粒の輝きを見つけ出した瞬間の、確信に満ちた静寂。あるいは、どれだけ飾られていても、その奥にある品性の欠如を見抜いてしまう、冷厳な分別。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "krei-",
+					"meaning": "to sieve, discriminate, distinguish"
+				}
+			],
+			"points": [
+				"certain, crisis, secret, certain, crime（元は裁判＝見分けること）と同根。",
+				"『分ける』ことができない知性は、カオスに飲み込まれ、己を失う。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "profundity",
+		"word": "Profundity",
+		"part_of_speech": "noun",
+		"meaning": "深さ、深遠さ、難解さ",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "pro-",
+					"type": "prefix",
+					"meaning": "forward/for (前へ)"
+				},
+				{
+					"text": "fundus",
+					"type": "root",
+					"meaning": "bottom (底)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin profunditas, from profundus 'deep'."
+		},
+		"core_concept": {
+			"en": "Deep insight; great depth of knowledge or thought",
+			"ja": "思考の歩みを止めることなく、『底（bottom）』へ向かってどこまでも『突き進んでゆく（forward）』。表面的な理解を拒み、存在の根源的な暗闇にまで手を届かせようとする執念"
+		},
+		"thinking_layer": "『底へ向かうこと』。プロファウンド（Profound）と同根。ファウンデーション（Foundation/基礎）と同じく、「底」がキーワード。ただ「難しい」のではなく、その思想には確かな「支えとなる地面」がある。深淵を覗き込み、そこから真実を汲み上げてくる勇気。 ",
+		"aftertaste": "どれだけ糸を垂らしても底に届かない、深い湖の紺碧。あるいは、たった一行の詩が、自らの人生のすべてを言い当てていると感じた時の、畏怖。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "bhudh-",
+					"meaning": "bottom"
+				}
+			],
+			"points": [
+				"bottom, foundation, fund 同根。",
+				"『底（bottom）』を究めることが、逆説的に最も高い『価値（fund）』を生む。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
