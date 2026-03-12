@@ -265864,5 +265864,214 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "glacis",
+		"word": "Glacis",
+		"part_of_speech": "noun",
+		"meaning": "斜堤（しゃてい）、緩斜面、滑らかな斜面",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "glace",
+					"type": "root",
+					"meaning": "ice (氷)",
+					"lang": "Old French"
+				},
+				{
+					"text": "glacies",
+					"type": "root",
+					"meaning": "ice (氷)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From French glacis, from glacier 'make slippery', from glace 'ice'."
+		},
+		"core_concept": {
+			"en": "A gently sloping bank, in particular one that slopes down from a fort, exposing attackers to the defenders' missiles",
+			"ja": "城塞の外側に広がる、氷（ice）のように滑らかで緩やかな斜面。敵を遮（さえぎ）る障害物となるのではなく、あえてすべてを『露呈（exposing）』させることで、死角（blind spot）を消し去る防御の平原"
+		},
+		"thinking_layer": "『滑らかにされた場所』。グラシエ（Glacier/氷河）、グラス（Glass/ガラス）と同根。語源は「氷」。ただの「坂」ではありません。それは。敵が身を隠す場所を一切与えず、自分の守り（defense）の精度を究極まで高めるための、計算された空白。知性が自らの弱点を隠すのではなく、あえて「光」の中に晒（さら）し、隙を無くしてゆくプロセスのメタファー。",
+		"aftertaste": "「斜堤（glacis）」の滑らかな芝生を見下ろしながら、その美しさの裏に秘められた「冷酷なまでの合理性」に想いを馳せ、平和な景色そのものが巨大なトラップであるかのように感じる、あの知的な眩暈（dizziness）。あるいは、自分の心がこの「グラシス（glacis）」のように平坦であり、どんな感情の侵略も滑り落ちてしまう（sliding away）ほどの「冷淡な透明度」を保っているのだと悟る、あの深夜の自己投射。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "gel-",
+					"meaning": "to freeze, cold (forming glacies)"
+				}
+			],
+			"points": [
+				"glacier, gelatin, jelly, cold 同根。",
+				"『冷たさ（coldness）』とは、本来は生命を拒絶するものだが、グラシス（glacis）という建築において、それは『隠れる場所を許さない』という峻厳な秩序へと転換されている。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "casemate",
+		"word": "Casemate",
+		"part_of_speech": "noun",
+		"meaning": "カポニエール、側防火室、要塞内の防弾室",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "casa",
+					"type": "root",
+					"meaning": "house (家)",
+					"lang": "Latin/Italian"
+				},
+				{
+					"text": "matta",
+					"type": "root",
+					"meaning": "mad, crazy (狂った、愚かな、あるいは別の由来)",
+					"lang": "Italian"
+				}
+			],
+			"original_statement": "From Italian casamatta, from casa 'house' + matta 'mad, dark, or dummy'."
+		},
+		"core_concept": {
+			"en": "A fortified gun position or hollow iron stub in a fortress, especially one underneath the rampart",
+			"ja": "城壁の真下に潜む、弾丸を跳ね返すための厚い石壁に囲まれた『暗い家（dark house）』。表舞台からは見えない場所で、牙を剥き、致命的な一撃を放つための潜伏場所"
+		},
+		"thinking_layer": "『狂った家、あるいは暗い家』。カジノ（Casino/小さな家）、シャトー（Chateau/城）と同根。語源は「狂った、あるいは偽の家」。なぜ「狂った」なのか。それは、窓もない「住居としては異常な形」だからという説があります。それは。自分の心の中にある、誰にも見せない「迎撃（interception）」のための暗い部屋。知性が自らを守るために用意した、最後の防弾区画。 ",
+		"aftertaste": "「側防火室（casemate）」の重苦しい石の湿り気を感じ、自分が世界という不確実な戦場（battlefield）で生き残るために、どれほど多くの「内なる防壁」を築いてきたかを思い知る、あの峻烈な自己防衛の痕跡。あるいは、自分の言葉が、この「ケースメート（casemate）」から放たれる砲弾のように、安全な場所（safety）から一方的に他者を傷つけていないかと自問する、あの冷淡な自省。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kat-",
+					"meaning": "to shed, hut (forming casa)"
+				}
+			],
+			"points": [
+				"castle, chateau, casino 同根。",
+				"『家（house）』とは安らぎの場だが、ケースメート（casemate）という殺戮の装置へと変質したとき、その『内側』にあるのは安らぎではなく、冷徹な『殺意』と『防衛』の純粋な機能である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "machicolation",
+		"word": "Machicolation",
+		"part_of_speech": "noun",
+		"meaning": "出し狭間（だしはざま）、マチコレーション",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "mâcher",
+					"type": "root",
+					"meaning": "to crush, chew (砕く、噛む)",
+					"lang": "Old French"
+				},
+				{
+					"text": "couler",
+					"type": "root",
+					"meaning": "to flow (流れる)",
+					"lang": "Old French"
+				}
+			],
+			"original_statement": "From Old French machicoulis, from macher 'crush' + coulis 'flowing'."
+		},
+		"core_concept": {
+			"en": "An opening between the supporting corbels of a projecting parapet or the vault of a gate, through which stones or burning objects could be dropped on attackers",
+			"ja": "城壁の上部からせり出した、足元の死角を狙い撃つための『垂直の口』。上から石を『砕き（crush）』落とし、火を『流し（flowing）』込むことで、侵入者の希望を絶つ、冷酷なまでの優位性"
+		},
+		"thinking_layer": "『砕き流すこと』。マスティケート（Masticate/噛む）、クーロン（Coulomb/おそらくな）とは関係なく。語源は「砕いたものを流す」。ただの「隙間」ではありません。それは。「真上から攻撃する」という、絶対に回避不可能な恐怖。知性が圧倒的な優位に立ち、反撃（counterattack）の余地さえ与えず論破（refuting）する瞬間の、暴力的な快感。 ",
+		"aftertaste": "城門を見上げる敵の頭上に、この「出し狭間（machicolation）」から無慈悲な重力（gravity）が降りかかる様子を想像し、自分の知性もまた、このように「高い場所」から一方的にジャッジ（judge）する残酷さを秘めているのだと戦慄する、あの知的な傲慢。あるいは、人生の壁にぶつかった時、頭上からこの「マチコレーション（machicolation）」のような予期せぬ困難が降って沸く、あの戦慄と諦念。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "menth-",
+					"meaning": "to chew (forming macher)"
+				}
+			],
+			"points": [
+				"mouth, mandible, mastiff 同根。",
+				"『流れる（flowing）』ことは本来は生命の証だが、マチコレーション（machicolation）においては、それは『破壊の手段』へと転じている。知性は時に、生きた流れを凍てつかせ、石のように重たい結論として投げ落とす。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "bartizan",
+		"word": "Bartizan",
+		"part_of_speech": "noun",
+		"meaning": "張り出し塔、小塔、監視塔",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "brattice",
+					"type": "root",
+					"meaning": "temporary wooden gallery (木製の回廊)",
+					"lang": "Middle English"
+				},
+				{
+					"text": "partizan",
+					"type": "root",
+					"meaning": "supporter, halberd (味方、長柄の武器)",
+					"lang": "French - confused origin"
+				}
+			],
+			"original_statement": "From Scots bartisan, an altered form of bratticing."
+		},
+		"core_concept": {
+			"en": "An overhanging, wall-mounted turret projecting from the walls of late medieval and early modern fortifications",
+			"ja": "城壁の角に不自然に盛り上がった、空中に浮かぶ『眼（eye）』。自らを守る石の肌から、さらに外側へと身を乗り出し、死角を許さない執拗な『監視（surveillance）』の出窓"
+		},
+		"thinking_layer": "『（木製の）胸壁』からの変形。ブラケット（Bracket/支持具）と同根の説あり。語源は「木製の足場」。ただの「塔（tower）」ではありません。宙に浮いているがゆえに、四方八方を見渡すことができます。それは。自分の固定観念（fixed idea）から一歩外へと踏み出し、より広い視野から世界を「俯瞰（bird's-eye view）」しようとする、知性の孤独な挑戦。 ",
+		"aftertaste": "高くせり出した「張り出し塔（bartizan）」の中で、冷たい風に吹かれながら、地平線の彼方からやってくる「変化」を誰よりも早く察知しようとする、あの峻烈な緊張感と自負。あるいは、自分の意識がこの「バーティザン（bartizan）」のように、身体そのものから遊離して（separated）、冷たく自分自身を観察（observing）し続けているのだと悟る、あの知的な寂しさ。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"『張り出し（projection）』とは、境界の内側に安住することへの拒絶（refusal）である。バーティザン（bartizan）という建築の言葉には、不安が美学へと、監視が詩学へと転換されるプロセスが刻まれている。",
+				"この言葉の語源には諸説あるが、共通するのは『境界から突出した機能的な美』という概念である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "embrasure",
+		"word": "Embrasure",
+		"part_of_speech": "noun",
+		"meaning": "狭間（はざま）、銃眼、窓の内外の広がり",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "embraser",
+					"type": "root",
+					"meaning": "to widen an opening (開口部を広げる)",
+					"lang": "French"
+				},
+				{
+					"text": "bras",
+					"type": "root",
+					"meaning": "arm (腕)",
+					"lang": "French"
+				}
+			],
+			"original_statement": "From French embrasure, from embraser 'widen an opening'."
+		},
+		"core_concept": {
+			"en": "An opening or slanting in a wall or parapet, through which a gun is fired or an object is viewed; the flare of a window or door opening",
+			"ja": "石壁の厚みを切り裂き、内側は広く（wide）、外側は針の穴のように狭く（narrow）設計された『殺意の隙間』。自らを完璧に防御しつつ、一方的に世界を切り取るための、知的な『焦点（focus）』"
+		},
+		"thinking_layer": "『開口部を広げること』。エンブレース（Embrace/抱きしめる＝腕の中に）、ブラジャー（Bra/おそらくな）と同根。語源は「腕のように広げる」。ただの「穴」ではありません。内側で見守る者には「広大な視界」を与え、外側から狙い打つ者には「絶望的な小ささ」を突きつける。それは。知性が持つ「不均衡な力（asymmetric power）」の象徴。 ",
+		"aftertaste": "暗い室内の「狭間（embrasure）」から、眩しい外の世界を覗き込み、自分はその世界の住人ではないのだという痛切な「断絶（disconnection）」を感じつつも、そこから一撃を放てるという万能感（omnipotence）に、微かな震えを覚える、あの冷艶な午後。あるいは、自分の言葉が、この「エムブラジャー（embrasure）」のように、狭い入り口を通り抜けた瞬間に、誰かの心という広い空間で爆発的に広がること（flaring up）を夢想する、あの静かな夜。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "bhre-",
+					"meaning": "to break, widen (forming embracer?)"
+				},
+				{
+					"term": "bhreg-",
+					"meaning": "arm (forming bras)"
+				}
+			],
+			"points": [
+				"brace, embrace, bracket 同根。",
+				"『広げる（widening）』ことは受容（acceptance）の仕草だが、エムブラジャー（embrasure）という戦術的な言葉においては、それは『攻撃の精度』を高めるための冷徹な設計である。知性は時に、優しさを装って、その内側に鋭い刃を隠し持つ。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
