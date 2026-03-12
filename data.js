@@ -256361,5 +256361,268 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "surveillance",
+		"word": "Surveillance",
+		"part_of_speech": "noun",
+		"meaning": "監視、見張り、追跡調査",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "sur-",
+					"type": "prefix",
+					"meaning": "over (上に)"
+				},
+				{
+					"text": "veiller",
+					"type": "root",
+					"meaning": "to watch (見張る)",
+					"lang": "Old French"
+				},
+				{
+					"text": "vigil",
+					"type": "root",
+					"meaning": "watchful, vigilant (警戒している)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From French surveillance, from surveiller 'watch over', from sur- 'over' + veiller 'watch'."
+		},
+		"core_concept": {
+			"en": "Close observation, especially of a suspected spy or criminal",
+			"ja": "相手よりも高い（sur-）視点に立ち、あらゆる動きを漏らさず『見張る（watch over）』こと。目に見えない情報の網を張り巡らせ、相手を自らの認識という檻の中に閉じ込める、権力の静かなる行使"
+		},
+		"thinking_layer": "『上から見張ること』。ヴィジランテ（Vigilante/自警団）や、リヴィール（Reveal/明らかにする）とおそらく遠い親戚。ただの「見る」のではなく、そこに「疑念」と「支配」の意志が宿っています。それは国家による追跡から、データ化された現代社会のあらゆる場所に潜む「眼」まで。私たちは常に、誰かの（あるいは機械の）視線の「上」に置かれています。",
+		"aftertaste": "誰もいない深夜の監視カメラの、あの赤く光る一点を見つめる時の、自分がただの「観測データ」に還元されてゆく、あの無機質な恐怖。あるいは、誰からの視線も感じないはずのプライベートな時間で、ふと自分が「誰かに見られている」と錯覚して背筋を伸ばす、あの内面化された規範。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "weg-",
+					"meaning": "to be strong, lively (forming vigil/awake)"
+				}
+			],
+			"points": [
+				"vigil, vigilant, wake, wait, velocity 同根。",
+				"『見張る（watching）』とは、睡眠を拒否し、意識を極限まで『強く、活発（active）』に保ち続けるという、生命エネルギーの集中的な『防衛』への投資である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "scrutiny",
+		"word": "Scrutiny",
+		"part_of_speech": "noun",
+		"meaning": "精査、綿密な調査、凝視",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "scrutinium",
+					"type": "root",
+					"meaning": "search, inquiry (調査、探求)",
+					"lang": "Latin"
+				},
+				{
+					"text": "scruta",
+					"type": "root",
+					"meaning": "trash, broken things (ごみ、がらくた、破片)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin scrutinium, from scrutari 'to search', from scruta 'trash, broken things'."
+		},
+		"core_concept": {
+			"en": "Critical observation or examination",
+			"ja": "一見すると価値のない『がらくたの山（trash）』の中から、真実という名の輝く石を見つけ出すために、泥にまみれながら執拗に『掻き分け、探り出す』こと。表面の美しさに惑わされない、徹底的な解体の知性"
+		},
+		"thinking_layer": "『がらくたの中を捜すこと』。シュール（Shrewd/機敏な、鋭い）やおそらく遠い親戚？（諸説あり）。語源の「がらくた（scruta）」を掻き回す仕草は、まさに事実の断片の中から論理を構築するプロセスのメタファー。ただの「点検」ではなく、相手の嘘や綻びを、針の先で突くように明らかにする、冷徹で容赦のない「視線の圧力」。",
+		"aftertaste": "面接官や審査員の、静かだがすべてを見通すような「凝視（scrutiny）」に晒され、自分の言葉の化けの皮が剥がされてゆく、あの薄氷を踏むような緊張感。あるいは、完璧に仕上げたと思った論文に、たった一つの致命的な矛盾を見つけられた時の、崩れ去るプライドの音。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "skreu-",
+					"meaning": "to cut, shred (forming scruta/broken things)"
+				}
+			],
+			"points": [
+				"shred, screw, scrutiny 同根の説あり。",
+				"『調査（searching）』とは、世界を断片（shreds）へと『切り刻み（cut）』、その最小の単位にまで分け入ってゆくという、知的な解体の暴力性を孕んでいる。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "reconnaissance",
+		"word": "Reconnaissance",
+		"part_of_speech": "noun",
+		"meaning": "偵察、予備調査",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "re-",
+					"type": "prefix",
+					"meaning": "again (再び)"
+				},
+				{
+					"text": "connaître",
+					"type": "root",
+					"meaning": "to know (知る)",
+					"lang": "Old French"
+				},
+				{
+					"text": "cognoscere",
+					"type": "root",
+					"meaning": "to get to know (知ろうとする)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From French reconnaissance 'recognition'."
+		},
+		"core_concept": {
+			"en": "Military observation of a region to locate an enemy or ascertain strategic features; preliminary survey to gain information",
+			"ja": "未知の領域へと足を踏み入れ、そこがどのような場所かを『再び（again）』『知ろう（know）』とする、情報の先遣隊。足元の確かさと、敵の所在を確認するための、静かなる知の進軍"
+		},
+		"thinking_layer": "『再び知ること』。レコグニション（Recognition/承認）やコグニティヴ（Cognitive）と同根。まだ誰も手をつけていない真っ白な地図に、最初の「点（事実）」を打つこと。それは戦場における生死を分かつ偵察から、新しい市場への参入前のリサーチまで。そこには「先入観」を捨て、冷徹な「観測」のみを受け入れる、研ぎ澄まされた受動的な知性が必要とされます。",
+		"aftertaste": "誰もいない敵地の森を、落ち葉の音さえ立てぬように進み、双眼鏡の向こう側に蠢く「不都合な真実」を捉えた瞬間の、あの心臓の激しい鼓動。あるいは、新しい勉強を始める前に、その地図の広大さを想像して、少しだけ立ちすくむ、知的な冒険の入り口。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "gno-",
+					"meaning": "to know"
+				}
+			],
+			"points": [
+				"know, recognition, connoisseur（鑑定家）, ignore（知らないふりをする）と同根。",
+				"『知る（knowing）』という行為の本質は、未知の領域を自らの『認識の枠組み（frame）』へと書き換える（reconnaissance）ことにある。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "espionage",
+		"word": "Espionage",
+		"part_of_speech": "noun",
+		"meaning": "スパイ活動、間諜すること",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "espion",
+					"type": "root",
+					"meaning": "spy (スパイ)",
+					"lang": "French"
+				},
+				{
+					"text": "spec-",
+					"type": "root",
+					"meaning": "to look, watch (見る、見守る)",
+					"lang": "Germanic/Latin"
+				}
+			],
+			"original_statement": "From French espionnage, from espionner 'to spy', from espion 'a spy'."
+		},
+		"core_concept": {
+			"en": "The practice of spying or of using spies, typically by governments to obtain political and military information",
+			"ja": "自らの正体を偽り、影のように敵の懐へと入り込んで、隠された秘密を『覗き見る（watch）』こと。情報の搾取という名の、音のない戦争"
+		},
+		"thinking_layer": "『見ること』。スペクタクル（Spectacle）やスペック（Spec/仕様＝見られるべき点）と同根。語源の spec は、もとは「鋭く見る」という意味。一国の運命を左右する情報を、影の中から盗み出すスリリングな知性。それは倫理の枠外にありながら、歴史の歯車を影で動かしている、最も醜く、最も華やかな「知の裏側」。",
+		"aftertaste": "カクテルグラスの反射を利用して、背後の秘密の会話を盗み聞きしている時の、あの全能感に満ちた背信。あるいは、自分が一番信頼していた友人が、実は自分を「観測」するために派遣された「スパイ（espion）」だったと知った瞬間の、世界のすべてが嘘に染まる絶望。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "spek-",
+					"meaning": "to observe"
+				}
+			],
+			"points": [
+				"inspect, suspect, respect, scope, bishop（見守る人）と同根。",
+				"『見ること（looking）』は、それ自体が対象への『介入（intervention）』であり、情報の不均衡を生み出す最初の『暴力』である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "oversight",
+		"word": "Oversight",
+		"part_of_speech": "noun",
+		"meaning": "見落とし、手落ち、監督、管理",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "over-",
+					"type": "prefix",
+					"meaning": "above (上に)"
+				},
+				{
+					"text": "sight",
+					"type": "root",
+					"meaning": "looking, seeing (見ること)",
+					"lang": "English"
+				}
+			],
+			"original_statement": "From over- + sight."
+		},
+		"core_concept": {
+			"en": "An unintentional failure to notice or do something; the action of overseeing something",
+			"ja": "高い場所から『全体を俯瞰（over sight）』しようとした結果、細部が『視線を飛び越えて（fly over）』しまい、見落としてしまうこと。あるいは、その高い視点からすべてを見守るという『管理』の責任"
+		},
+		"thinking_layer": "『上から見ること』。同じ語源でありながら、「見落とし」と「監督（監督責任）」という、正反対の意味を併せ持つ奇妙な言葉。高いところから見ると、全体像はよく見えますが、足元の小さな石ころ（致命的なミス）は見えなくなります。それは、組織を管理することの難しさと、人間の認識の「解像度」の限界を象徴しています。",
+		"aftertaste": "完璧な指示を出したつもりだったのに、たった一点の「見落とし（oversight）」からすべてが崩壊してゆくのを、愕然として眺める時の、あの理不尽なまでの無力感。あるいは、自分が誰かの「監督（oversight）」の下で、守られつつも監視されていると感じる、あの緩やかな閉塞感。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "uper-",
+					"meaning": "over"
+				},
+				{
+					"term": "sekw-",
+					"meaning": "to see (forming sight post-PIE?)"
+				}
+			],
+			"points": [
+				"super, superior, see, sight, insight 同根。",
+				"『上からの視線（oversight）』は、秩序を『構築』するための必須条件だが、同時に『過信（hubris）』という罠への入り口でもある。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "probe",
+		"word": "Probe",
+		"part_of_speech": "noun/verb",
+		"meaning": "詳細な調査、査察、探針、～を厳密に調べる",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "probare",
+					"type": "root",
+					"meaning": "to test, prove (テストする、証明する)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin proba 'proof', from probare 'test'."
+		},
+		"core_concept": {
+			"en": "A thorough investigation into a crime or other matter; physically explore or examine",
+			"ja": "表面をなぞるだけではなく、鋭い器（探針）を深く突き刺し、内部がどうなっているかを『厳密にテスト（test）』すること。隠された真実を無理やり引きずり出す、痛みを伴う深掘り"
+		},
+		"thinking_layer": "『テストすること』。プルーヴ（Prove/証明する）やプロパティ（Property/固有の性質）と同根。語源の probare は、もともと「自分にふさわしいか確認する」という意味。それは惑星探査機の名前から、不祥事の真相究明まで。柔らかい皮膚（嘘）を突き破り、硬い骨（真実）に触れるまで止めない、執拗な知性の意志。",
+		"aftertaste": "外科医が傷口の奥深くを「探針（probe）」で探る時の、あの冷たくて生々しい摩擦の感覚。あるいは、検察官の執拗な質問が、自分の心の最も守りたかった聖域を、容赦なく「深掘り（probe）」してゆくのを、ただ耐え忍ぶ時の、裸にされたような屈辱感。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "per-",
+					"meaning": "forward"
+				},
+				{
+					"term": "bhu-",
+					"meaning": "to become, be (forming pro-be/probare)"
+				}
+			],
+			"points": [
+				"prove, proud, probable, probate 同根。",
+				"『真実』とは、ただそこにあるものではなく、執拗な『テスト（probe）』という名の困難を通り抜けた後に、ようやく『存在（be）』を許される、生存の『証明（proof）』である。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
