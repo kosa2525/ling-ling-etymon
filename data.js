@@ -266255,5 +266255,218 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "theodolite",
+		"word": "Theodolite",
+		"part_of_speech": "noun",
+		"meaning": "経緯儀（けいいぎ）、セオドライト",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "theostos",
+					"type": "root",
+					"meaning": "beheld, seen? (見られた)",
+					"lang": "Greek?"
+				},
+				{
+					"text": "dolikhos",
+					"type": "root",
+					"meaning": "long (長い)",
+					"lang": "Greek"
+				}
+			],
+			"original_statement": "Origin uncertain; possibly from Greek theasthai 'to behold' + dolikhos 'long', or a coined name by its inventor Leonard Digges."
+		},
+		"core_concept": {
+			"en": "A surveying instrument with a rotating telescope for measuring horizontal and vertical angles",
+			"ja": "カオス（chaos）な大地の上に、目に見えない座標の網を被せるための『経緯儀（theodolite）』。水平と垂直の角度をミリ単位で『見通す（behold）』ことで、野生の空間を、人間が管理可能な『地図（map）』へと書き換える知性の楔（wedge）"
+		},
+		"thinking_layer": "『長く見通すもの』。おそらくレオナルド・ディッグスによる造語。語源は未詳ですが、その響きには「視線（seeing）」と「距離（distance）」の支配が宿っています。ただの「測量機」ではありません。それは。不確かな世界を、確かな「数字（numbers）」と「角度」へと凝縮（concentrate）する装置。知性が自らの限界を測り、未知を既知へと変容（transform）させるための、峻烈な眼差し。 ",
+		"aftertaste": "三脚に据えられた「セオドライト（theodolite）」のレンズを覗き込み、遠くの地平線（horizon）が十字線の中心に完璧に収まった瞬間の、世界を自分の手の中に「収めた（captured）」かのような、あの冷徹で静かな万能感。あるいは、自分の人生という不確かな土地を、このような「経緯儀（theodolite）」のような精度で測り直したいと願う、あの虚しい、しかし切実な渇望。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "the-",
+					"meaning": "to look, behold (forming theasthai)"
+				},
+				{
+					"term": "del-",
+					"meaning": "long (forming dolikhos)"
+				}
+			],
+			"points": [
+				"theory, theater, dolico-（長い） 同根。",
+				"『見る（seeing）』という行為が、時間をかけて（long）洗練されたとき、それは単なる観察を超えて、世界を規定する『尺度（measure）』となる。セオドライト（theodolite）は、その視覚の権力化の象徴である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "alidade",
+		"word": "Alidade",
+		"part_of_speech": "noun",
+		"meaning": "アリダード、照準儀",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "al-",
+					"type": "prefix",
+					"meaning": "the (定冠詞)",
+					"lang": "Arabic"
+				},
+				{
+					"text": "'idâdah",
+					"type": "root",
+					"meaning": "ruler, side-post (定規、側柱)",
+					"lang": "Arabic"
+				}
+			],
+			"original_statement": "From Arabic al-'idâdah 'the ruler'."
+		},
+		"core_concept": {
+			"en": "A straightedge or ruler with a sighting device, used for measuring angles or for graphic plotting in surveying",
+			"ja": "地図を描くための、まっすぐな『定規（ruler）』としての意志。星や山という遠方の真実を、紙の上の『一本の線』へと定着させる、知的な『翻訳の杖』"
+		},
+		"thinking_layer": "『（その）定規』。アルマゲスト（Almagest/偉大な書）、アルコール（Alcohol/精妙なもの）とおなじみ「アル（定冠詞）」と同根。語源は「定規」。ただの「物差し」ではありません。照準（sight）を合わせ、その直線を紙の上に写し取る。それは。外部の広大な真理を、自分のコントロール可能な「形式（form）」へと落とし込む、抽出（abstraction）のプロセス。 ",
+		"aftertaste": "「アリダード（alidade）」を慎重に動かし、遠くの山の頂（peak）を紙の上に一本の線として引き、自分の「視線」が確かな「物質（matter）」へと変わったことを知る、あの奇妙な充足。あるいは、自分の言葉が、この「照準儀（alidade）」のように、常に正確に真実を射貫き（striking truth）、迷いなく導き出す「定規」でありたいと願う、あの静かな午後の自負。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"アラビア語由来のこの言葉には、砂漠という目印のない空間で、星（stars）を頼りに自分の位置を定めようとしてきた人類の、切実な知恵が刻まれている。",
+				"『狙う（sighting）』ことと『引く（drawing）』ことの間に横たわる、知的な『接続（connection）』。アリダードは、その身体的な動作を道具へと結晶化させたものである。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "hypsometer",
+		"word": "Hypsometer",
+		"part_of_speech": "noun",
+		"meaning": "測高計（そくこうけい）、沸点高度計",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "hypsos",
+					"type": "root",
+					"meaning": "height (高さ)",
+					"lang": "Greek"
+				},
+				{
+					"text": "metron",
+					"type": "root",
+					"meaning": "measure (尺度)",
+					"lang": "Greek"
+				}
+			],
+			"original_statement": "From Greek hypsos 'height' + metron 'measure'."
+		},
+		"core_concept": {
+			"en": "An instrument for measuring height or altitude, especially by observing the boiling point of a liquid",
+			"ja": "『高さ（height）』という目に見えない次元を、水の沸騰（boiling）という『測れる（measuring）』現象へと変換して読み取る知恵。気圧の低下を温度の揺らぎとして察知する、繊細な『垂直の物差し』"
+		},
+		"thinking_layer": "『高さを測るもの』。ヒプソメトリー（Hypsometry/標高分析）、メトロ（Metro/尺度＝地下鉄）、おなじみの「メーター（計）」と同根。語源は「高さを測る」。ただの「標高計」ではありません。水の沸点を測ることで高さを知る「ボイル（boil）」の手法。それは。直接触れられない「高み」を、手元の「微かな変化」から推測（inference）するという、知性の高度な変奏。 ",
+		"aftertaste": "山頂の凍える空気の中で、ようやくお湯が沸き始めたその「温度（temperature）」を「標高（altitude）」として読み取った瞬間の、自然界の法則（laws of nature）が自分の掌（てのひら）の上で完璧に沈黙して跪いたような、あの峻烈な知的な快感。あるいは、自分の「心の高さ」を、このような「ヒプソメーター（hypsometer）」のような客観的な尺度（objective measure）で測れるはずがないと知りつつ、それでもその目盛りを求めて彷徨う、あの静かな夜の自嘲。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "met-",
+					"meaning": "to measure (forming metron)"
+				}
+			],
+			"points": [
+				"measure, dimension, semester, meter 同根。",
+				"『高さ（height）』とは本来は神への距離だが、ヒプソメーター（hypsometer）はその神秘を『沸点』という物理定数へと還元（reduction）した。知性は、温度計の一目盛りの中に、宇宙の垂直構造を閉じ込めたのである。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "chorography",
+		"word": "Chorography",
+		"part_of_speech": "noun",
+		"meaning": "地方誌（学）、地域誌、地誌の作成",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "khōra",
+					"type": "root",
+					"meaning": "place, land, region (場所、土地、地域)",
+					"lang": "Greek"
+				},
+				{
+					"text": "graphein",
+					"type": "root",
+					"meaning": "to write (書く、描く)",
+					"lang": "Greek"
+				}
+			],
+			"original_statement": "From Greek khōro- 'place' + -graphia 'writing'."
+		},
+		"core_concept": {
+			"en": "The description and mapping of a particular region or district",
+			"ja": "広大な世界（cosmos）ではなく、ある特定の『場所（place）』の匂い、高低、歴史を、愛を込めて『書き写し（writing）』、定着させる営み。マクロな地図には描かれない、ローカルな真実の緻密なアーカイブ"
+		},
+		"thinking_layer": "『場所を描くこと』。コーラス（Chorus/場所を共にする人々の歌？とは関係なく）、おなじみ「グラフィ（記す）」と同根。語源は「土地の記述」。ジオグラフィー（Geography/地理学）全体（Macro）に対する、特定の地域（Micro）への偏愛。それは。抽象的な「大地」を、固有の「物語（narrative）」へと還元すること。知性が、その土地に宿る「精霊（genius loci）」と対話するプロセス。 ",
+		"aftertaste": "古びた「地誌（chorography）」を捲（めく）り、かつてその場所で生きていた人々の視線や、失われた川のせせらぎが、一本の線として「記述（description）」されているのに触れ、自分の存在もまたこの「土地の記憶」の一部なのだと悟る、あの静かな帰属意識。あるいは、自分の人生を、一冊の「コログラフィー（chorography）」のように細部まで書き尽くしたいと願いつつ、その文字が常に「余白（margin）」から溢れ出してしまうのを眺める、あの知的な寂しさ。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ghē-",
+					"meaning": "to release, be empty (forming khōra/empty space)"
+				},
+				{
+					"term": "gerbh-",
+					"meaning": "to scratch (forming graphein)"
+				}
+			],
+			"points": [
+				"choir? (possibly related to space), choreography（振り付け＝空間の記述） 同根。",
+				"『場所（khōra）』とは、本来は『空虚（empty space）』だが、そこに文字を『刻み込む（scratching）』ことで初めて、そこは意味を持ったテリトリーとなる。コログラフィー（chorography）は、人間が荒野（wilderness）に打ち込んだ、言語という名の杭である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "toponymy",
+		"word": "Toponymy",
+		"part_of_speech": "noun",
+		"meaning": "地名（学）、地名の研究",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "topos",
+					"type": "root",
+					"meaning": "place (場所)",
+					"lang": "Greek"
+				},
+				{
+					"text": "onyma",
+					"type": "root",
+					"meaning": "name (名前)",
+					"lang": "Greek"
+				}
+			],
+			"original_statement": "From Greek topos 'place' + onyma 'name'."
+		},
+		"core_concept": {
+			"en": "The study of place names of a particular region or a language; the names of places within a region",
+			"ja": "名もなき『場所（place）』に『名前（name）』を授けることで、そこを人間の秩序へと繋ぎ止める知的な魔法。古い名前に刻まれた、歴史の震えや呪詛（curse）、あるいは消え去った部族の溜息を掘り起こす考古学"
+		},
+		"thinking_layer": "『場所の名称』。トポロジー（Topology/位相幾何学）、アノニマス（Anonymous/無名）、シノニム（Synonym/類義語）と同根。語源は「場所の名前」。ただの「ラベル」ではありません。名前がつくことで、その場所は「交換可能な空間」から「かけがえのない場所」へと変容（transform）します。それは。混沌（chaos）とした世界に「杭（stake）」を打ち込み、言語という網目で支配しようとする、知性の所有欲と愛。 ",
+		"aftertaste": "誰も顧みないような小さな「地名（toponymy）」の由来を調べ、それが千年前の誰かの「小さな叫び（cry）」だったことを知った時の、あの震えるような時空の交差。あるいは、自分の心の中の無数の感情に、自分だけの「トポニミー（toponymy）」を名づけ、その地図（map of the heart）を頼りに、暗い森の中を迷わず進もうとする、あの静かな覚悟。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "en-men-",
+					"meaning": "name (forming onyma)"
+				}
+			],
+			"points": [
+				"name, nominate, noun, renown 同根。",
+				"『名前（name）』を呼ぶことは、対象を『呼び出す（summoning）』ことである。トポニミー（toponymy）とは、大地という巨大な他者を、言語という檻の中に『召喚』し、友（friend）とするための、最も古い知的な契約である。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
