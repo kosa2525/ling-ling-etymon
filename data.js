@@ -272755,5 +272755,186 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "cavity",
+		"word": "Cavity",
+		"part_of_speech": "noun",
+		"meaning": "空洞（くうどう）、虫歯の穴",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "cavus",
+					"type": "root",
+					"meaning": "hollow (空っぽの)', from Latin"
+				}
+			],
+			"original_statement": "From Latin cavus 'hollow'."
+		},
+		"core_concept": {
+			"en": "An empty space within a solid object",
+			"ja": "充填（fill）を拒絶し、物質の中に『無（nothing）』を維持し続ける峻烈な空間。外部の重圧を退け、内なる静寂を死守する、知的な『孤独の器』。"
+		},
+		"thinking_layer": "『空っぽのこと』。ケイヴ（Cave/洞窟）、ケイブ（Caveat/とは関係なく）、おなじみの「ケージ（Cage/籠）」と同根。語源は「中空」。ただの「穴（hole）」ではありません。そこには。「周囲が完璧に詰まっているからこそ、その『欠如』が決定的な意味を持つ」という、逆説的な存在感が宿っています。それは。知性が過剰な情報という名の固体の中に、あえて「空虚」な領域を設けることで、思考の換気（ventilation）を行おうとする瞬間のメタファー。",
+		"aftertaste": "虫歯の「穴（cavity）」に舌が触れた時の、あの奇妙な執着心と、そこに「自分が入り込めない宇宙（space）」がひっそりと開いていることへの微かな戦慄。あるいは、自分の思考もまた、この「キャビティ」のように、世俗の喧騒から隔絶された「純粋な空白」を自らの中に宿し続けていたい、と願う、あの静かな午後の自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "keu-",
+					"meaning": "to swell, hollow (forming cavus)"
+				}
+			],
+			"points": [
+				"cave, cage, church（？）, decoy, jail 同根。",
+				"『膨らむ（swelling）』ことが『空洞（hollow）』を作ること。この言葉の構成には、生命が成長し、自らの輪郭を広げることで、皮肉にもその中心に『虚無』を抱え込むことになったという、実存的なドラマが刻まれている。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "alcove",
+		"word": "Alcove",
+		"part_of_speech": "noun",
+		"meaning": "アルコーブ、壁面の凹み、奥まった小部屋",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "al-",
+					"type": "prefix",
+					"meaning": "the (その)",
+					"lang": "Arabic"
+				},
+				{
+					"text": "qubba",
+					"type": "root",
+					"meaning": "vault, arch, dome (曲がったもの、ドーム)', from Arabic"
+				}
+			],
+			"original_statement": "From Arabic al-qubba 'the vault'."
+		},
+		"core_concept": {
+			"en": "A recess in the wall of a room or garden",
+			"ja": "壁の一部が優雅に屈曲し、世界からひっそりと身を隠すための『沈黙の湾（gulf）』。開かれた空間の中にありながら、孤独を約束する知的な『情報の窪み』。"
+		},
+		"thinking_layer": "『ドーム、ヴォールト』。アルコール（Alcohol/とは関係なく）、おなじみの「キュー（Cue/とは関係なく）」とは別。語源は「ヴォールト、アーチ」。ただの「隅（corner）」ではありません。そこには。「あえて壁を奥へと押しやることで、光を遮り、最も親密な（intimate）対話のための場所を確保する」という、峻烈な包摂の美学が宿っています。それは。知性が広大な理論の壁の中に、自分だけが安らげる小宇宙としての「隠れ家（retreat）」を切り出す瞬間のメタファー。",
+		"aftertaste": "図書室の窓際にある、小さな「アルコーブ（alcove）」に座り、周囲の視線を気にせずにページをめくる時の、あの守られているという「知的な充足」。あるいは、自分の言葉もまた、誰かの心の中に、この「アルコーブ」のような、いつでも安心して思考を休めることができる「奥まった聖域」を提供できればと願う、あの静かな夜の自尊心。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"アラビア語で『ドーム（qubba）』を指していたこの言葉が、西洋では『壁の凹み』という意味に変容した。これは、かつての巨大な建築的理想が、個人の内省的な『隠れ家』へと収束していった歴史の反映である。",
+				"alcove は単なる欠損ではなく、そこに身を置く者のアイデンティティを『縁取る（framing）』ための装置である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "crypt",
+		"word": "Crypt",
+		"part_of_speech": "noun",
+		"meaning": "隠れ場、地下聖堂、（解剖学の）隠窩（いんか）",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "kryptos",
+					"type": "root",
+					"meaning": "hidden (隠された)', from Greek kryptein 'to hide'"
+				}
+			],
+			"original_statement": "From Greek kryptos."
+		},
+		"core_concept": {
+			"en": "An underground room or vault beneath a church, used as a chapel or burial place",
+			"ja": "光を拒み、地下の深淵（abyss）に真実を封印する『隠された身体』。死と祈りが交差する静寂の底で、重力という名の『秘密（secret）』を守り抜く、知的な『存在の地下茎』。"
+		},
+		"thinking_layer": "『隠されたもの』。クリプトグラフィ（Cryptography/暗号）、アポクリファ（Apocrypha/外典＝隠されたもの）、おなじみの「クリプト（暗号資産など）」と同根。語源は「隠す」。ただの「地下室（basement）」ではありません。そこには。「最も重要なものは、常に地表（surface）から隠されていなければならない」という、神秘主義的な保存の意志が宿っています。それは。知性が自らの最も奥深い傷跡や、まだ誰にも語っていない「原初のアイディア」を、聖なる沈黙の中で温め続けている瞬間のメタファー。",
+		"aftertaste": "古い教会の「地下聖堂（crypt）」の、冷たく湿った空気を肌で感じながら、自分の足の下に数千人分の「夢」が地層として眠っていることに戦慄する、あの峻烈な一呼吸。あるいは、自分の思考もまた、この「クリプト」のように、容易に暴かれることのない深い「暗号化（encryption）」によって、その純粋性を死守し続けていたい、と願う、あの静かな午後の自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "skrau-",
+					"meaning": "to hide (forming kryptein?)"
+				}
+			],
+			"points": [
+				"crypt, cryptic, apocrypha 同根。",
+				"『隠す（hiding）』ことは、情報の価値を維持することである。クリプトという言葉には、生命がいかにして『秘密』という障壁を利用して、自らの核（core）を世俗の風から守ってきたかという、情報のサバイバル戦略が刻まれている。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "karst",
+		"word": "Karst",
+		"part_of_speech": "noun",
+		"meaning": "カルスト地形",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "karst",
+					"type": "root",
+					"meaning": "Kars (plateau in Slovenia)', from Pre-Indo-European root meaning 'stone'"
+				}
+			],
+			"original_statement": "From the Karst plateau in Slovenia (from Pre-Indo-European root kar- 'rock')."
+		},
+		"core_concept": {
+			"en": "Landscape underlain by limestone which has been eroded by dissolution, producing ridges, towers, fissures, sinkholes and other characteristic landforms",
+			"ja": "水の接吻（erosion）によって大地が溶け出し、内臓（cavities）を露（あらわ）にした峻烈な『石の風景』。見かけの平穏という皮を剥ぎ、その下に潜む複雑怪奇な『空虚の迷宮』を可視化する、知的な『暴露の建築学』。"
+		},
+		"thinking_layer": "『石の場所』。特になし。語源は「石の多い土地」。ただの「石灰岩地帯」ではありません。そこには。「時間はすべての固体を液体へと変容させ、その過程で最も美しい『不完全さ（void）』を抽出する」という、峻烈な自然の錬金術が宿っています。それは。知性が長年かけて構築してきた堅固な信念が、疑念という名の雨によって穿（うが）たれ、その内側に豊饒（ほうじょう）な「未知の空洞」が生まれてゆくプロセスの象徴。",
+		"aftertaste": "「カルスト地形（karst）」の無数の窪み（sinkholes）から、地下を流れる見えない川の音が響いてくるのを聴き、世界は目に見える部分よりも、見えない『欠如』の部分によって豊かに成り立っているのだと悟る、あの知的な平安。あるいは、自分の思考もまた、この「カルスト」のように、表面の滑らかさを捨て、その内側に複雑で眩しい「思考の洞窟」を無限に育て続けていきたい、と願う、あの静かな夜の自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kar-",
+					"meaning": "hard, stone (pre-Indo-European)"
+				}
+			],
+			"points": [
+				"『石（stone）』という最も硬いものが、『溶ける（dissolving）』という最も柔らかい行為によってその本質を曝け出す皮肉。カルストは、生命がいかにして『喪失』や『欠損』を、自らの独自の輪郭（character）へと転換してきたかを示す、物理的な叙事詩である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "calidarium",
+		"word": "Calidarium",
+		"part_of_speech": "noun",
+		"meaning": "カリダリウム、古代ローマ浴場の高温浴室",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "caldus",
+					"type": "root",
+					"meaning": "hot (熱い)', from Latin calidus"
+				},
+				{
+					"text": "-arium",
+					"type": "suffix",
+					"meaning": "place for (〜の場所)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin calidarium, from calidus 'hot'."
+		},
+		"core_concept": {
+			"en": "The hot room of an ancient Roman bath, typically heated by a hypocaust",
+			"ja": "極限の熱気（steam）によって自らの境界（skin）を溶解（liquefaction）させ、世界と一つに溶け合うための『熱い子宮』。閉ざされた空間の中で、生命の最も原始的な『熱（vitality）』を再喚起する、知的な『融解の祭壇』。"
+		},
+		"thinking_layer": "『熱い場所』。カリ（Cali-）系、おなじみ「カド（Cad-）」とは別。語源は「熱い」。ただの「サウナ」ではありません。そこには。「不必要な固執（stiffness）を熱によって解き放ち、自らを再び『流動的な可能性』へと還元する」という、峻烈な自己変革の意志が宿っています。それは。知性が冷徹な思考の合間に、あえて激しい「情熱」という名の熱気に身を委ね、自らを再フォーマット（reformatting）しようとする瞬間のメタファー。",
+		"aftertaste": "「カリダリウム（calidarium）」の濃密な霧の中で、自分の輪郭と他者の吐息（breath）が混ざり合う、あの不思議な「融解感」に身を任せ、自分とはただの「一つの熱いエネルギーの揺らぎ」に過ぎないのだと悟る、あの知的な平安。あるいは、自分の言葉もまた、この「カリダリウム」のように、触れる者の凍てついた心を優しく、しかし峻烈に溶かし、再び新しい行動へと向かわせる「温かな触媒」でありたいと願う、あの静かな午後の自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kele-",
+					"meaning": "warm (forming calidus)"
+				}
+			],
+			"points": [
+				"calorie, nonchalant（＝熱くない、冷淡な）, scald, cauldron 同根。",
+				"『熱（heat）』は、分子の運動を加速させ、既存の結合を断ち切る力である。カリダリウムという言葉には、生命が自らの『硬直』を打破するために、あえてカオス（カオス）の熱源を自らの中に招き入れたという、ダイナミックな均衡の知恵が刻まれている。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
