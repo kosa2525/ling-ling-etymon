@@ -252544,5 +252544,236 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "perfidy",
+		"word": "Perfidy",
+		"part_of_speech": "noun",
+		"meaning": "裏切り、不信行為、不誠実",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "per-",
+					"type": "prefix",
+					"meaning": "ill, away (悪く、それる)"
+				},
+				{
+					"text": "fides",
+					"type": "root",
+					"meaning": "faith (信頼、信仰)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin perfidia, from perfidus 'false, faithless', from per- 'ill' + fides 'faith'."
+		},
+		"core_concept": {
+			"en": "Deceitfulness; untrustworthiness",
+			"ja": "最も固く結ばれているはずの『信頼（faith）』を、自らの私欲のために意図的に『踏みにじり（away）』、愛や友情がそこになかったかのように振る舞う、魂の冷酷な背信"
+		},
+		"thinking_layer": "『信頼を逸脱すること』。フェイス（Faith）やコンフィデンス（Confidence）と同根。ただの嘘ではなく、相手が自分に寄せていた「善意の防波堤」を内側から破壊する行為。それは人間関係の基盤を腐らせ、世界を不毛な疑心暗鬼の荒野へと変えてしまう毒。 ",
+		"aftertaste": "握り合った手の温もりが、一瞬で冷たい鉄の感触に変わる時の戦慄。あるいは、長年信じてきた物語が、偽善という名の瓦礫に変わる瞬間の深い沈黙。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "bheidh-",
+					"meaning": "to trust, persuade"
+				}
+			],
+			"points": [
+				"faith, federal, defiant（信頼を拒む）と同根。",
+				"『信頼（trust）』は、社会を『一つ（federal）』に繋ぎ止める接着剤であり、その破壊（perfidy）は世界の解体を意味する。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "mendacity",
+		"word": "Mendacity",
+		"part_of_speech": "noun",
+		"meaning": "虚偽、嘘つき、偽り",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "menda",
+					"type": "root",
+					"meaning": "fault, physical blemish (欠落、傷)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin mendax 'lying', from mendum 'fault'."
+		},
+		"core_concept": {
+			"en": "Untruthfulness",
+			"ja": "自らのうちに抱えた『欠落（fault）』や不都合を覆い隠すために、真実を巧妙に歪め、幻影を事実として提示し続ける『偽り』の習慣。誠実さの摩滅"
+		},
+		"thinking_layer": "『傷（欠陥）から生まれたもの』。メンディカント（Mendicant/物乞い）と同根。嘘は、自分の弱さや醜さを直視できない臆病さから生まれます。それが常態化し、もはや自分でも何が本当か分からなくなるほどに「偽りの皮膚」が厚くなってしまった状態。",
+		"aftertaste": "鏡を見ても、その奥にあるはずの自分の瞳に焦点が合わないような、不気味な違和感。あるいは、砂糖菓子のように美しく、しかし指で押せば崩れてしまう、脆い虚飾の言葉。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"amend（修正する）と同根。",
+				"『欠陥（blemish）』を隠す（mend）ための『偽り（mendacity）』という、知性の悲しい自己防衛。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "turpitude",
+		"word": "Turpitude",
+		"part_of_speech": "noun",
+		"meaning": "卑劣、堕落、下賤",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "turpis",
+					"type": "root",
+					"meaning": "vile, base, disgraceful (卑劣な、恥ずべき)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin turpitudo, from turpis 'vile'."
+		},
+		"core_concept": {
+			"en": "Depravity; wickedness",
+			"ja": "人間としての誇りや高潔さを投げ捨て、動物的な欲望や醜い嫉妬に身を委ねる、『下劣（vile）』で『恥ずべき』魂の状態。道徳的な暗い深淵"
+		},
+		"thinking_layer": "『卑劣であること』。法的な罪というよりは、精神的な「汚辱」。社会的に地位がある者であっても、その内面が「ターピチュード（卑劣）」に染まっていれば、その人生は虚飾の瓦礫に過ぎません。私たちが生理的に忌避する、魂の「腐敗臭」。",
+		"aftertaste": "黄金の器に盛られた、腐った肉のような不快感。あるいは、誰かの気高い言葉の裏に、醜い計算が見え隠れする瞬間の、洗っても落ちないような心の汚れ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"disturb（かき乱す）と遠い親戚という説あり。",
+				"『秩序を汚すこと』が、精神的な『醜さ（vile）』へと直結する。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "iniquity",
+		"word": "Iniquity",
+		"part_of_speech": "noun",
+		"meaning": "不徳、不正、不公正",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "in-",
+					"type": "prefix",
+					"meaning": "not"
+				},
+				{
+					"text": "aequus",
+					"type": "root",
+					"meaning": "equal, just (等しい、公正な)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin iniquitas, from in- 'not' + aequus 'equal'."
+		},
+		"core_concept": {
+			"en": "Immoral or grossly unfair behavior",
+			"ja": "すべての人に平等に与えられるべき天秤の釣り合いを『欠き（not equal）』、自らの特権や悪意によって歪められた、冷酷で根の深い『不正義』"
+		},
+		"thinking_layer": "『等しくないこと』。イコール（Equal）やエクイティ（Equity）の対義語。ただの「間違い」ではなく、公平さを知っていながらあえてそれを踏みにじる、能動的な悪。強者が弱者を虐げ、声なき者の権利を奪う時、その場所には「イニクイティ（不徳）」の実が生じています。",
+		"aftertaste": "歪んだ天秤が、重い音を立てて金の方へ傾く光景。あるいは、どれだけ叫んでも無視される、法という名の不公平な壁の冷たさ。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "aik-",
+					"meaning": "even, level"
+				}
+			],
+			"points": [
+				"equal, adequate, equilibrium 同根。",
+				"『平らであること（even）』が、生命における『正義』であり、その破壊が『悪（iniquity）』である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "invidious",
+		"word": "Invidious",
+		"part_of_speech": "adjective",
+		"meaning": "不公平な、反感を招く、嫉妬深い",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "in-",
+					"type": "prefix",
+					"meaning": "into/upon"
+				},
+				{
+					"text": "videre",
+					"type": "root",
+					"meaning": "to see (見る)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin invidiosus, from invidia 'envy', from invidere 'look askance at'."
+		},
+		"core_concept": {
+			"en": "(Of an action or situation) likely to arouse or incur resentment or anger in others",
+			"ja": "他者の幸運や幸福を『横目で睨みつけ（look askance）』、不当な不平を募らせる心。特定の人だけを特別扱いし、周囲に激しい憎悪や反感を『引き起こしてしまう』不吉な不公平"
+		},
+		"thinking_layer": "『見ること（恨みを込めて）』。インヴィー（Envy/嫉妬）と同根。ヴィジョン（Vision）と同じく「見る」ことが語源ですが、こちらは「悪意というフィルターを通して他者を呪うような視線」。他人と自分を比較し、その差を「呪い」に変える、知性の貧しい自虐。 ",
+		"aftertaste": "自分より輝いている人を、影から冷ややかに見つめる瞳の鋭さ。あるいは、自分が選ばれなかった理由を探して、世界に当たり散らす時の、酸っぱい不全感。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "weid-",
+					"meaning": "to see, know"
+				}
+			],
+			"points": [
+				"visual, wisdom, evident, provide 同根。",
+				"『知ること（knowing）』と『見ること（seeing）』の合流地点に、『嫉妬（invidia）』という闇もまた生じる。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "spite",
+		"word": "Spite",
+		"part_of_speech": "noun/verb",
+		"meaning": "悪意、恨み、意地悪をする",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "despit",
+					"type": "root",
+					"meaning": "contempt (軽蔑)",
+					"lang": "Old French"
+				},
+				{
+					"text": "de-",
+					"type": "prefix",
+					"meaning": "down"
+				},
+				{
+					"text": "spect",
+					"type": "root",
+					"meaning": "look at (見る)"
+				}
+			],
+			"original_statement": "From Old French despit, from Latin despectus 'looking down on'."
+		},
+		"core_concept": {
+			"en": "A desire to hurt, annoy, or offend someone; (verb) deliberately hurt, annoy, or offend (someone)",
+			"ja": "相手を『見下し（look down）』、踏みつけたいという矮小だが執拗な攻撃的感情。自分の利益のためではなく、ただ相手を不快にするためだけに、あえて自分自身をも傷つける偏屈な情熱"
+		},
+		"thinking_layer": "『見下すこと』。ディスパイ（Despise/蔑む）の短縮形。スペクタクル（Spectacle）と同根。ただの「怒り」ではなく、相手の価値を否定し、矮小化しようとする執念。イン・スパイト・オブ（〜にもかかわらず）という表現は、運命という逆境を「見下して」乗り越えるという、強烈な反骨心を秘めています。",
+		"aftertaste": "泥を投げつけられた白い服の汚れ。投げた者の手もまた汚れている、その不毛な共倒れの景色。あるいは、自分の苦しみを誰かのせいにした時の、一瞬の、しかし毒を含む安堵。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "spek-",
+					"meaning": "to observe"
+				}
+			],
+			"points": [
+				"respect, suspect, inspect, bishop（見張り役）と同根。",
+				"視線を『下に向ける（down look）』ことが、他者の『尊厳（dignity）』を破壊する。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
