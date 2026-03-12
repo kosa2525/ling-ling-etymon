@@ -268252,5 +268252,165 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "slough",
+		"word": "Slough",
+		"part_of_speech": "noun/verb",
+		"meaning": "ぬかるみ、泥沼、絶望の淵、脱皮殻、脱皮する",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "slōh",
+					"type": "root",
+					"meaning": "slough, mire (ぬかるみ、泥沼)",
+					"lang": "Old English"
+				}
+			],
+			"original_statement": "From Old English slōh 'slough, mire'."
+		},
+		"core_concept": {
+			"en": "A swamp, miry place, or stagnant inlet; a state of deep despair; (also) the skin shed by a snake",
+			"ja": "足を捉え、底なしの静寂へと引きずり込む『泥沼（mire）』。あるいは、成長を遂げた生命が後に残した『抜け殻』。過去の自分を捨て去り、新しい皮膚（skin）を纏（まと）うための、峻烈なメタモルフォーゼの跡"
+		},
+		"thinking_layer": "『泥沼、あるいは抜け殻』。スルー（Slew/おそらくな）、スロウ（Slow/おそらくな）とは関係なく。語源は「ぬかるみ」。ただの「沼」ではありません。そこには。「抜け出せない停滞（stagnation）」と「脱ぎ捨てるべき過去」という、二重の「重み」が宿っています。それは。知性が深い絶望（Slough of Despond）を通り抜け、古い自己を脱ぎ捨てて（sloughing off）、より透明な存在へと進化してゆくプロセス。 ",
+		"aftertaste": "自分の不甲斐なさという「泥沼（slough）」に深く沈み込み、もがきながらも、それが新しい「跳躍（leap）」のための脱皮の準備であることを悟り、古い自分をその場に置き去りにして歩き出す、あの峻烈な解放。あるいは、誰かの残した「脱皮殻（slough）」を眺め、その持ち主がいかに激しい変容（transformation）を遂げたのかに想いを馳せる、あの静かな午後の敬意。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ジョン・バニヤンの『天路歴程』に登場する『絶望の沼（Slough of Despond）』は、この言葉を精神的な苦闘の代名詞にした。",
+				"『脱皮（sloughing）』とは、死を伴わない再生である。泥沼という停滞の場所が、同時に再生の場所でもあるという事実は、言葉の持つ深い逆説を象徴している。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "fen",
+		"word": "Fen",
+		"part_of_speech": "noun",
+		"meaning": "沼地、低湿地、フェン",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "fenn",
+					"type": "root",
+					"meaning": "marsh, mud, dirt (湿地、泥、汚れ)",
+					"lang": "Old English"
+				}
+			],
+			"original_statement": "From Old English fenn 'marsh'."
+		},
+		"core_concept": {
+			"en": "Low-lying, wet, peaty land; a marsh",
+			"ja": "潮の香り（salt）を微かに孕（はら）んだ、平坦で広大な『低湿地（marsh）』。水と土が溶け合い、独自の生態系（ecosystem）を育む、文明の辺境としての静かな『抱擁』"
+		},
+		"thinking_layer": "『泥、湿地』。パン（Pan/おそらくな）、おなじみ「フェン（地名によくある）」と同根。語源は「泥」。ただの「沼（swamp）」ではありません。石灰質を含んだ地下水によって形成される、特有の植生を持つ空間。そこには。「一見、不毛に見えながら、その深層には豊かな有機物（peat）を蓄えている」という、秘められた豊穣の響きが宿っています。それは。目立たぬ日常の中に、静かに知的な「堆積（accumulation）」を続けてゆく態度のメタファー。 ",
+		"aftertaste": "霧の立ち込める「フェン（fen）」の地平線を眺め、自分が一隻の小舟のように、この曖昧な世界を漂っていることに深い安らぎ（relief）を覚え、自分の思考もまたこの「湿った大地」のように、ゆっくりと確実に、新しい命を育んでいるのだと確信する、あの知的な平安。あるいは、自分の言葉が、この「フェン（fen）」のように深く、そして誰にも侵されない「聖域（sanctuary）」でありたいと願う、あの静かな午後の自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "pani-",
+					"meaning": "mud, swamp (forming fenn)"
+				}
+			],
+			"points": [
+				"mud, puddle 同根の説あり。",
+				"『泥（mud）』は生命の根源である。フェン（fen）という言葉には、大地がいかにして自らの中の水分を保ち、生命のゆりかご（cradle）を形成してきたかという、惑星規模の『忍耐』が刻まれている。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "carr",
+		"word": "Carr",
+		"part_of_speech": "noun",
+		"meaning": "ハンノキなどの茂る湿地、低湿の茂み",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "kjarr",
+					"type": "root",
+					"meaning": "brushwood, thicket (低木、茂み)",
+					"lang": "Old Norse"
+				}
+			],
+			"original_statement": "From Old Norse kjarr."
+		},
+		"core_concept": {
+			"en": "A localized area of wet, acidic, woody vegetation; a fen woodland",
+			"ja": "湿地の静寂の中に、ハンノキ（alder）や柳（willow）が身を寄せ合って形作る、冠水した『森の記憶』。水浸しの土壌に根を張り、腐敗（decay）をさえ自らの力に変えてゆく、強靭で不気味な生命の伽藍（cathedral）"
+		},
+		"thinking_layer": "『低木の茂み』。カー（Kar/トルコ語の雪？とは関係なく）、バイキング由来。語源は「茂み」。ただの「林（woods）」ではありません。それは。水没した世界に立ち尽くす、孤高の「木々の共同体」。そこには。「過酷な環境（harsh environment）こそが、自らを最も美しく、そして不気味に鍛え上げる」という、峻烈な生存の詩学が宿っています。それは。知性が深い感情の底に沈み込みながらも、なお思考の「枝」を伸ばし続ける、執拗なまでの生命力。",
+		"aftertaste": "水面に映る「湿地の茂み（carr）」の歪んだ影を見つめ、自分の内なる複雑さが、このように絡まり合い（tangled）、光さえ届かぬ場所で、それでも新しい「芽吹き（budding）」を求めて蠢（うごめ）いているのを愛おしく思う、あの知的な共鳴。あるいは、自分の言葉が、この「カー（carr）」のように誰かの心を静かに包み込み、腐りかけた魂にさえ「新しい依り代（lodging）」を与えることを願う、あの静かな夜の利他主義。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"carr は主に北方ヨーロッパの地誌に登場する言葉である。湿地でありながら、木々が聳える（towering）その姿は、重力と浮力の奇妙な均衡（equilibrium）を象徴している。",
+				"『ハンノキ（alder）』は、水の中でも腐りにくい性質を持つ。カー（carr）という言葉は、その不朽（immortality）の意志を空間全体へと拡張したものである。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "muskeg",
+		"word": "Muskeg",
+		"part_of_speech": "noun",
+		"meaning": "マスケグ、北米北部のミズゴケ湿原",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "maskek",
+					"type": "root",
+					"meaning": "swamp, marsh (湿地、沼地)",
+					"lang": "Cree"
+				}
+			],
+			"original_statement": "From Cree maskek."
+		},
+		"core_concept": {
+			"en": "A North American swamp or bog consisting of a mixture of water and partly dead vegetation, frequently covered by a layer of sphagnum or other mosses",
+			"ja": "カナダの凍てつく大地に広がる、水とミズゴケ（moss）が溶け合った『底なしの絨毯（carpet）』。一見、穏やかな緑の平原を装いながら、その深層には万年単位の『凍った沈黙』を湛（たた）えた、大地の巨大な肺"
+		},
+		"thinking_layer": "『湿地』。クリー語由来。おなじみの「マスク（Mask/仮面）」とは関係なく。語源は「湿地」。ただの「苔の野（mossy field）」ではありません。それは。踏み込めば膝まで沈み込む、大地の「柔らかい罠」。そこには。「目に見える表面は、真実のほんの薄皮（crust）に過ぎない」という、峻烈な警告（warning）が宿っています。それは。知性が自らの奥底に潜む「底なしの情動」を制御し、その上に細心の注意を払って「論理の橋（bridge of logic）」を架けてゆくプロセスのメタファー。",
+		"aftertaste": "どこまでも続く「マスケグ（muskeg）」の柔らかい感触を足裏に感じ、自分がこの巨大な「惑星の呼吸」の一部であることを本能的に察知し、言葉にならない感動に身を震わせる、あの知的な一体感。あるいは、自分の人生が、この「マスケグ」のように、豊かな「過去の堆積（accumulation of past）」の上に成り立っており、その沈み込むような重みこそが「自分の深さ」なのだと確信する、あの静かな午後の自尊心。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"マスケグ（muskeg）は大量の炭素（carbon）を固定している。ここは、地球がいかにして過去の生命の記録を『保存（preservation）』し、未来の気候を調整しているかという、壮大なアーカイブである。",
+				"先住民の言葉が、その土地の最も深い性質（湿気、弾力）を完璧に捉えていることに、言語の持つ『場所への誠実さ』を感じる。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "pakihi",
+		"word": "Pakihi",
+		"part_of_speech": "noun",
+		"meaning": "（ニュージーランドの）荒廃した湿地、不毛の平原",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "pakihi",
+					"type": "root",
+					"meaning": "to dry, open up (乾く、開ける)",
+					"lang": "Maori"
+				}
+			],
+			"original_statement": "From Maori pakihi."
+		},
+		"core_concept": {
+			"en": "In New Zealand, open, relatively flat, poorly drained land on which the original forest was cleared or never grew, typically with acidic soil and sparse vegetation",
+			"ja": "ニュージーランドの雨に濡（ぬ）れながらも、なぜか『乾いている（dry）』、不毛な平原。森を失い、あるいは森を拒絶し、低い灌木（shrubs）と沈黙だけが支配する、大地の『清貧な余白』"
+		},
+		"thinking_layer": "『開けた、乾いた場所』。マオリ語由来。パキ（Paki/晴れた）、ヒ（Hi/昇る？）と同根の説あり。語源は「乾く」。ただの「不毛の地（barren land）」ではありません。それは。豊かな森林（forest）の陰に隠れた、あえて「何も持たない」ことを選んだかのような、潔い空間。そこには。「過剰な豊かさから離れ、最小限の真実（minimal truth）だけで生きてゆく」という、ストイックな決意が宿っています。それは。知性が喧騒を嫌い、あえて「不毛な沈黙」の中に、自らの拠点を築く瞬間のメタファー。",
+		"aftertaste": "遮（さえぎ）るもののない「パキヒ（pakihi）」の平原に立ち、吹き抜ける風の音だけを友として、自分の存在がいかに「透明（transparent）」であるかを悟る、あの知的な平安。あるいは、自分の思考が、この「パキヒ」のように、華やかさはないが、誰にも媚びない「独自の静寂」を湛（たた）えているのだと確信する、あの静かな夜の自尊心。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"pakihi は、酸性（acidic）で痩せた土地であり、農業には向かない。しかし、そこにはそこにしか咲かない小さな花や、特有の静寂が宿っている。価値とは、他者の基準で決めるものではないという教訓が、この言葉を支えている。",
+				"『乾く（drying）』という動作が、湿地の中で行われるという逆説。パキヒは、現象の裏側に隠された、本質的な性質を言い当てるための言葉である。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
