@@ -290138,5 +290138,1260 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "butte",
+		"word": "Butte",
+		"part_of_speech": "noun",
+		"meaning": "ビュート、孤立丘、情報の孤独な塔",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "bouter",
+					"type": "root",
+					"meaning": "to thrust, push, strike"
+				}
+			],
+			"original_statement": "From Old French butte 'mound, target'."
+		},
+		"core_concept": {
+			"en": "isolated hill with steep sides and a flat top",
+			"ja": "大地の平原から峻烈に『突き出（thrust）』た、情報の孤高なる砦。"
+		},
+		"thinking_layer": "標的、あるいは小山。周囲が侵食という名の『情報の忘却』に呑み込まれた後も、一筋の堅牢な意志として垂直に留まり続ける、地質の情報の残響。大地の孤独な記念碑。",
+		"aftertaste": "見渡す限りの平原に、突如として立ち現れる垂直な沈黙への畏怖。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"button, beat と同じ根。突き進む一撃。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "mesa",
+		"word": "Mesa",
+		"part_of_speech": "noun",
+		"meaning": "メサ、卓状台地、情報のテーブル",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "mensa",
+					"type": "root",
+					"meaning": "table"
+				}
+			],
+			"original_statement": "From Spanish mesa 'table'."
+		},
+		"core_concept": {
+			"en": "flat-topped hill with steep sides",
+			"ja": "神々が食事をするための、巨大な『テーブル（table）』のような情報の地平。"
+		},
+		"thinking_layer": "テーブル。空と大地の境界線において、極限の水平（plateau）を峻烈に維持し、周囲の崩落を静観する知的な安定。それは、侵食という名の時間の蹂躙に耐え抜いた情報の平原。",
+		"aftertaste": "断崖の上で、全宇宙を独占したかのような錯覚（hallucination）を産む静謐。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"mensa (食卓), commensurate と同根。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "isthmus",
+		"word": "Isthmus",
+		"part_of_speech": "noun",
+		"meaning": "地峡、情報の狭き通路",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "ithmos",
+					"type": "root",
+					"meaning": "a step, a passage"
+				}
+			],
+			"original_statement": "From Greek isthmos 'neck of land'."
+		},
+		"core_concept": {
+			"en": "narrow strip of land with sea on either side",
+			"ja": "巨大な大陸同士を繋ぐ、峻烈な情報の『首（neck）』。"
+		},
+		"thinking_layer": "歩み。二つの広大な世界（continents）を峻烈に架橋しつつ、同時に海という名の情報の隔絶を両側に従える、危うき結合。世界の中心となる情報のボトルネック（bottleneck）。",
+		"aftertaste": "細い一本の線が、世界の全移動を支配しているという、情報の政治的な重みへの戦慄。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"exit? (いや関係薄) ithmos は歩き回ること。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "promontory",
+		"word": "Promontory",
+		"part_of_speech": "noun",
+		"meaning": "岬、突端、情報の突出した監視",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "pro-",
+					"type": "prefix",
+					"meaning": "forward"
+				},
+				{
+					"text": "mons",
+					"type": "root",
+					"meaning": "mountain"
+				}
+			],
+			"original_statement": "From Latin promontorium."
+		},
+		"core_concept": {
+			"en": "point of high land that juts out into a large body of water",
+			"ja": "山（mountain）が海へと峻烈に『前進（forward）』し、未知の深淵を監視する。"
+		},
+		"thinking_layer": "前に突き出た山。陸という名の安息（rest）を峻烈に辞し、自らを波濤という名のカオスの中へと投げ出す、情報の最も先鋭な意志（intent）。世界の終わりを見つめる最先端。",
+		"aftertaste": "足元に砕ける波の音と、どこまでも続く水平線への、峻烈なまでの孤独。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"mountain, mount と同じ mons。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "headland",
+		"word": "Headland",
+		"part_of_speech": "noun",
+		"meaning": "岬、突端、情報の思考の先端",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "head",
+					"type": "root",
+					"meaning": "head"
+				},
+				{
+					"text": "land",
+					"type": "root",
+					"meaning": "land"
+				}
+			],
+			"original_statement": "From Old English heavodland."
+		},
+		"core_concept": {
+			"en": "narrow piece of land that projects from a coastline into the sea",
+			"ja": "大地の『魂（head）』が、情報の海へと突入する峻烈な一閃。"
+		},
+		"thinking_layer": "頭の土地。大陸という名の巨大な肉体の情報の、最も知的な先端。海の無秩序に対し、一歩も引かずに理性を突き立てる、地質の情報のプライド。",
+		"aftertaste": "断崖絶壁に立ち、強風の中で自らの意識が研ぎ澄まされる瞬間の峻烈なる覚醒。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"cape, capital と同じく『頭』のイメージ。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "gulch",
+		"word": "Gulch",
+		"part_of_speech": "noun",
+		"meaning": "涸れ谷、小峡谷、情報の渇いた喉元",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "gulcen",
+					"type": "root",
+					"meaning": "to swallow, gush"
+				}
+			],
+			"original_statement": "Possibly from Middle English gulchen 'to swallow'."
+		},
+		"core_concept": {
+			"en": "narrow and steep-sided ravine marking the course of a fast stream",
+			"ja": "急流が大地を峻烈に『飲み込み（swallow）』、刻み込んだ情報の傷。"
+		},
+		"thinking_layer": "飲み込むこと。一時の奔流（flash flood）が、大地の静止を峻烈に破壊し、深い溝を残して去る。それは、水の暴力性が地質の記憶に刻んだ、渇いた悲鳴。",
+		"aftertaste": "今は水なき谷に立ち、かつての激しい情報の流れを幻視する戦慄。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"gorge, gurgle と感覚的に近い。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "arroyo",
+		"word": "Arroyo",
+		"part_of_speech": "noun",
+		"meaning": "アロヨ、乾いた川底、情報の空白の流路",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "arrugia",
+					"type": "root",
+					"meaning": "shaft of a mine?"
+				}
+			],
+			"original_statement": "From Spanish arroyo 'brook, stream'."
+		},
+		"core_concept": {
+			"en": "steep-sided gully cut by running water in an arid region",
+			"ja": "渇いた大地に刻まれた、情報の『欠落した血液（stream）』の跡。"
+		},
+		"thinking_layer": "小川。普段はただの砂の道という名の『死』を装いつつ、雨と共に一気に情報の死者（flood）を呼び戻す、大地の秘密の通路。不定期な時間の脈動。 ",
+		"aftertaste": "不意の増水の予感に、全身の神経が情報の毛羽立ちを感じる瞬間。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"rugby? (いや違う) arrugia は地中の孔。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "badlands",
+		"word": "Badlands",
+		"part_of_speech": "noun",
+		"meaning": "バッドランズ、荒地、情報の峻烈な拒絶",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "bad",
+					"type": "root",
+					"meaning": "bad"
+				},
+				{
+					"text": "land",
+					"type": "root",
+					"meaning": "land"
+				}
+			],
+			"original_statement": "Translation of French terres mauvaises."
+		},
+		"core_concept": {
+			"en": "extensive tracts of heavily eroded, uncultivable land",
+			"ja": "生命の定住を峻烈に拒む、時間の『侵食の暴力』が剥き出しになった土地。"
+		},
+		"thinking_layer": "悪い土地。肥沃さという名の『情報の欺瞞』を剥ぎ取り、粘土と石の不毛な褶曲（folds）を晒け出す。それは、自然が自己を再構築する過程を、そのまま情報の墓場へと変容させた場所。",
+		"aftertaste": "幾何学的な不毛の美しさに、人間という存在の場違いさを痛感する震撼。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ダコタ族の言葉をフランス人探検家が訳した。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "basin",
+		"word": "Basin",
+		"part_of_speech": "noun",
+		"meaning": "盆地、水盤、情報の重力的収束",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "bacinus",
+					"type": "root",
+					"meaning": "shallow bowl"
+				}
+			],
+			"original_statement": "From Old French bacin."
+		},
+		"core_concept": {
+			"en": "large bowl-shaped depression in the earth's surface",
+			"ja": "周囲の峻烈な山々に囲まれ、情報の重力を『受け皿（bowl）』のごとく保持する。"
+		},
+		"thinking_layer": "浅いボウル。解放という名の『拡散』を峻烈に拒絶し、水、風、そして思考を一つの深淵へと収束（concentrate）させる、地質の情報の巨大な器。内向的な宇宙。",
+		"aftertaste": "閉ざされた空間の中に、独自の重厚な沈黙が淀（stagnate）んでいるという予感。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"base, basic とは語源は別。凹みの形状。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "escarpment",
+		"word": "Escarpment",
+		"part_of_speech": "noun",
+		"meaning": "急斜面、断崖、情報の垂直な切断",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "ex-",
+					"type": "prefix",
+					"meaning": "out"
+				},
+				{
+					"text": "scarpa",
+					"type": "root",
+					"meaning": "slope"
+				}
+			],
+			"original_statement": "From Italian scarpa 'slope'."
+		},
+		"core_concept": {
+			"en": "long, steep slope, especially one at the edge of a plateau",
+			"ja": "大地の水平を峻烈に引き裂き、垂直という名の『情報の崖（slope）』を晒す。"
+		},
+		"thinking_layer": "外へ向かう斜面。平穏な台地という名の情報の終わりを、圧倒的な高度差を持って峻烈に、かつ不可逆的に宣告する境界線。それは、重力が情報を峻烈に執行する場所。",
+		"aftertaste": "断崖の縁に立ち、奈落へと吸い込まれそうになる瞬間の、実存の震え。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"scarp, scarf? (いや違う) 鋭い傾斜。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "ridge",
+		"word": "Ridge",
+		"part_of_speech": "noun",
+		"meaning": "尾根、稜線、情報の背骨」、情報の山脈の線",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "hrycg",
+					"type": "root",
+					"meaning": "back, spine"
+				}
+			],
+			"original_statement": "From Old English hrycg."
+		},
+		"core_concept": {
+			"en": "long, narrow elevation of land",
+			"ja": "大地の肉体の奥底から突き抜けた、峻烈な情報の『背骨（spine）』。"
+		},
+		"thinking_layer": "背中。左右の斜面という名の情報の奔流を、その極細の頂点で一手に引き受け、天と地を峻烈に分かつ境界線。世界の輪郭を決定する、情報の最先端の線（edge）。",
+		"aftertaste": "細い稜線を歩きながら、自分が世界のバランスを体現しているという高揚感。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"bridge? (いや関係薄) 獣の背中の隆起。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "drumlin",
+		"word": "Drumlin",
+		"part_of_speech": "noun",
+		"meaning": "ドラムリン、氷河がつくる小丘、情報の凍れる波",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "druim",
+					"type": "root",
+					"meaning": "back, ridge"
+				}
+			],
+			"original_statement": "From Irish druim 'back'."
+		},
+		"core_concept": {
+			"en": "low oval mound or small hill, typically one of a group",
+			"ja": "巨大な氷河という名の情報の重圧が、大地に刻み込んだ『背（back）』の群れ。"
+		},
+		"thinking_layer": "（クジラの）背。氷河という名の沈黙の巨獣が通過した跡に、流線型という名の『時間の痕跡』を残す。それは、大地の柔らかさが情報の重力に服従した瞬間の記憶。",
+		"aftertaste": "何万年前の巨大な運動の残響が、緑の丘となって今ここに佇んでいるという畏怖。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"アイルランド語。ドラム型の丘。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "esker",
+		"word": "Esker",
+		"part_of_speech": "noun",
+		"meaning": "エスカー、氷河河川の堤防状の堆積",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "eiscir",
+					"type": "root",
+					"meaning": "ridge, elevation"
+				}
+			],
+			"original_statement": "From Irish eiscir."
+		},
+		"core_concept": {
+			"en": "long ridge of gravel and other sediment, typically having a winding course",
+			"ja": "氷河の底を流れた情報の川が、沈黙の後に残した情報の『遺構』。"
+		},
+		"thinking_layer": "尾根。氷のトンネルという名の『牢獄』を流れた水が、砂利という名の情報の断片を峻烈に積み上げ、氷が消え去った後に、空中に浮かび上がった川の幽霊。",
+		"aftertaste": "本来は水底だった場所を、今は太陽の下で歩いているという不条理な喜び。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"アイルランド語。氷河のトンネルで作られた情報の堤。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "alluvium",
+		"word": "Alluvium",
+		"part_of_speech": "noun",
+		"meaning": "沖積層、アリュビウム、情報の水の堆積",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "ad-",
+					"type": "prefix",
+					"meaning": "to"
+				},
+				{
+					"text": "luere",
+					"type": "root",
+					"meaning": "to wash"
+				}
+			],
+			"original_statement": "From Latin alluere 'to wash against'."
+		},
+		"core_concept": {
+			"en": "deposit of clay, silt, and sand left by flowing floodwater",
+			"ja": "流れる水の洗礼（wash）によって、運ばれ溜まった情報の新たな大地。"
+		},
+		"thinking_layer": "洗い流して寄せる。破壊（erosion）という名の暴力が、下流において新しい創造（deposition）という名の情報の恩恵へと転い変容（convert）する場所。水の慈悲の。 ",
+		"aftertaste": "泥の中に潜む、上流の数千年の時間の記憶を噛み締める瞬間の沈黙。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"lavatory, dilute と同じ lavare/luere。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "loess",
+		"word": "Loess",
+		"part_of_speech": "noun",
+		"meaning": "レス、黄土、情報の風の記憶",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "losh",
+					"type": "root",
+					"meaning": "loose"
+				}
+			],
+			"original_statement": "From German löss."
+		},
+		"core_concept": {
+			"en": "clastic, predominantly silt-sized sediment that is formed by the accumulation of wind-blown dust",
+			"ja": "風という名の情報の翼によって、広大な大地から『解き放た（loose）』れた地の塵。"
+		},
+		"thinking_layer": "緩いこと。岩石の重厚な拘束を、風と氷という名の峻烈なヤスリで打ち砕き、最果てまで運ばれて積み上げられた、情報の極微な粒子の回想。 ",
+		"aftertaste": "手に取れば崩れるその脆さが、文明という名の情報の土台を支えているという皮肉な真理。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"loose と同じ root。緩い堆積物。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "feldspar",
+		"word": "Feldspar",
+		"part_of_speech": "noun",
+		"meaning": "長石、情報の原野の石",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "feld",
+					"type": "root",
+					"meaning": "field"
+				},
+				{
+					"text": "spat",
+					"type": "root",
+					"meaning": "non-metallic mineral"
+				}
+			],
+			"original_statement": "From German Feldspath."
+		},
+		"core_concept": {
+			"en": "group of rock-forming minerals that make up as much as 60% of the Earth's crust",
+			"ja": "原野（field）の至る所に、峻烈な情報の『普遍（universal）』を刻む石。"
+		},
+		"thinking_layer": "原野の石。特殊さという名の『エゴ』を峻烈に拒み、地殻の六割を占めるという圧倒的な遍在によって、世界の骨組みを黙々と支え続ける、情報の静かなる多数派。 ",
+		"aftertaste": "一見ありふれた石の中に、地殻そのものを構成する巨大な情報の意志を感じる畏怖。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"fallopians? (いや違う) ドイツ語で『野の鉱石』。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "mica",
+		"word": "Mica",
+		"part_of_speech": "noun",
+		"meaning": "雲母、情報の輝く鱗」、情報の剥離する光",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "micare",
+					"type": "root",
+					"meaning": "to glitter, shine"
+				}
+			],
+			"original_statement": "From Latin mica 'a crumb'."
+		},
+		"core_concept": {
+			"en": "group of silicate minerals categorized by its ability to be split into extremely thin sheets",
+			"ja": "情報の極薄の層（sheets）に分かれ、峻烈に『閃く（glitter）』石。"
+		},
+		"thinking_layer": "輝くもの。あるいは欠片。透過性と遮断性という矛盾した情報の属性を、薄い一枚の膜（film）の中に閉じ込め、触れると剥がれ落ちる脆さこそが、情報の高度な構造であることを宣告する。 ",
+		"aftertaste": "薄い一枚が、全宇宙を反射しているかのような輝きを放つ瞬間の戦慄。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"micropaleontology? (いや違う) micare は閃光。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "gypsum",
+		"word": "Gypsum",
+		"part_of_speech": "noun",
+		"meaning": "石膏、ギプス、情報の形を守る白き灰",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "gypsos",
+					"type": "root",
+					"meaning": "chalk, plaster"
+				}
+			],
+			"original_statement": "From Greek gypsos."
+		},
+		"core_concept": {
+			"en": "soft sulfate mineral composed of calcium sulfate dihydrate",
+			"ja": "不定形なる情報を、峻烈なる『白き型（plaster）』で固定する。"
+		},
+		"thinking_layer": "チョーク。柔らかさ（softness）という名の特権を、水の洗礼によって熱へと変え、凝固させることで、壊れゆくものの形状を情報の記憶として守り抜く、情報の『防衛的な殻（hull）』。",
+		"aftertaste": "白き粉が、一瞬にして硬質な真実へと変容する瞬間の、冷徹なる秩序。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"Egypt? (いや関係薄) 漆喰としての古代の知。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "lithography",
+		"word": "Lithography",
+		"part_of_speech": "noun",
+		"meaning": "リトグラフ、石版画、情報の石の刷り込み",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "lithos",
+					"type": "root",
+					"meaning": "stone"
+				},
+				{
+					"text": "graphein",
+					"type": "root",
+					"meaning": "to write"
+				}
+			],
+			"original_statement": "From Greek lithos + graph."
+		},
+		"core_concept": {
+			"en": "printing process that uses a flat stone or metal plate",
+			"ja": "石（stone）という名の沈黙の上に、情報のインクを峻烈に『刻記（write）』する。"
+		},
+		"thinking_layer": "石に書くこと。水と油の斥け合い（repusion）という名の情報の敵対を、石の平面上で優雅に調停し、無数の複製品という名の『情報の影』を産み出す、石の錬金術。 ",
+		"aftertaste": "硬質な物質から、柔らかな芸術が幾度も産まれ出る瞬間の生命感への驚き。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"lithium, megalith と同じ root。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "orogeny",
+		"word": "Orogeny",
+		"part_of_speech": "noun",
+		"meaning": "造山運動、情報の巨人の隆起",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "oros",
+					"type": "root",
+					"meaning": "mountain"
+				},
+				{
+					"text": "-geny",
+					"type": "suffix",
+					"meaning": "creation, birth"
+				}
+			],
+			"original_statement": "From Greek oros + geny."
+		},
+		"core_concept": {
+			"en": "process of mountain formation, especially by folding of the Earth's crust",
+			"ja": "地の表層が峻烈な重圧に耐えかね、山（mountain）という名の『情報の誕生（birth）』を宣告する。"
+		},
+		"thinking_layer": "山を産むこと。水平という名の情報の『眠り』を、プレートという名の情報の『激突』によって垂直方向へと無理やり覚醒させ、天を目指す巨大な物語を産み落とす、惑星規模の陣痛。 ",
+		"aftertaste": "そびえ立つ山脈が、大地の激しい痛みの果てに産まれたという震撼。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"genesis と同じ -geny。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "petrology",
+		"word": "Petrology",
+		"part_of_speech": "noun",
+		"meaning": "岩石学、情報の石の論理",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "petra",
+					"type": "root",
+					"meaning": "rock"
+				},
+				{
+					"text": "logos",
+					"type": "root",
+					"meaning": "study, word"
+				}
+			],
+			"original_statement": "From Greek petra."
+		},
+		"core_concept": {
+			"en": "branch of geology that studies rocks and the conditions under which they form",
+			"ja": "無言の岩石（rock）に潜む、数億年の時間の情報の論理（logos）を聴く。"
+		},
+		"thinking_layer": "石の言葉。沈黙する岩石を、化学組成と結晶構造という名の『情報の言語』に翻訳し、その発生源（magma/sediment）を峻烈に遡及しようとする、知性の一種の考古学。 ",
+		"aftertaste": "ただの石ころが、地球の歴史という名の巨大な情報の書物に見える目眩。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"Peter, petrified と同じ root。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "paleontology",
+		"word": "Paleontology",
+		"part_of_speech": "noun",
+		"meaning": "古生物学、情報の死者たちの対話",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "palaios",
+					"type": "root",
+					"meaning": "ancient"
+				},
+				{
+					"text": "on-",
+					"type": "root",
+					"meaning": "being"
+				},
+				{
+					"text": "logos",
+					"type": "root",
+					"meaning": "study"
+				}
+			],
+			"original_statement": "From Greek palaios + onta + logos."
+		},
+		"core_concept": {
+			"en": "the study of fossil animals and plants",
+			"ja": "古き（ancient）存在（being）たちの残した沈黙の情報を、峻烈に再構築する。"
+		},
+		"thinking_layer": "古代の存在の言葉。一度消滅という名の『情報の死』を迎えた生命を、石となった骨という名の『情報の化石』から救い出し、再び時間の流れの中に召喚する、知性の降霊術（necromancy）。",
+		"aftertaste": "目の前の骨に、かつて鼓動していた巨大な生を見出した瞬間の戦慄。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"paleo diet, ontology と同根。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "sandstone",
+		"word": "Sandstone",
+		"part_of_speech": "noun",
+		"meaning": "砂岩、情報の再結合した粒子",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "sand",
+					"type": "root",
+					"meaning": "sand"
+				},
+				{
+					"text": "stone",
+					"type": "root",
+					"meaning": "stone"
+				}
+			],
+			"original_statement": "From sand + stone."
+		},
+		"core_concept": {
+			"en": "sedimentary rock consisting of sand or quartz grains cemented together",
+			"ja": "散乱した情報の砂（sand）を、重力という名の石（stone）へと峻烈に再統合する。"
+		},
+		"thinking_layer": "砂の石。一度破壊され、個となった情報の粒子たちが、再び時間をかけて寄り添い、層（strata）を成して一つの強固な実存へと回帰（return）した、記憶の再生体。 ",
+		"aftertaste": "断層に見える縞模様に、かつての大地の情報の浮沈を読み取る瞬間の沈黙。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"もっとも代表的な堆積岩。情報の再生の象徴。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "crust",
+		"word": "Crust",
+		"part_of_speech": "noun",
+		"meaning": "地殻、外殻、情報の硬き皮膚",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "krusta",
+					"type": "root",
+					"meaning": "ice, rind, frozen"
+				}
+			],
+			"original_statement": "From Latin crusta."
+		},
+		"core_concept": {
+			"en": "outermost layer of a planet",
+			"ja": "内なる熱きカオスを、峻烈な冷徹なる情報の『硬い皮（rind）』で封印する。"
+		},
+		"thinking_layer": "氷の皮。惑星という名の巨大な情報の卵を包み、私たちが立つ『地平』という名の情報の安定を供給する、最薄にして最重要な情報の膜（barrier）。 ",
+		"aftertaste": "足元のこの薄い皮の向こうに、煮える情報の地獄が広がっているという震撼。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"crystal, cryo- と同じ krusta。凍りついた殻。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "transgression",
+		"word": "Transgression",
+		"part_of_speech": "noun",
+		"meaning": "（海進、違反、情報の境界踏み越え",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "trans-",
+					"type": "prefix",
+					"meaning": "across"
+				},
+				{
+					"text": "gradi",
+					"type": "root",
+					"meaning": "to step"
+				}
+			],
+			"original_statement": "From Latin transgressio 'a stepping across'."
+		},
+		"core_concept": {
+			"en": "the rising of sea level relative to the land",
+			"ja": "海という名の情報の深淵が、陸という名の領域を峻烈に『踏み越え（step across）』る。"
+		},
+		"thinking_layer": "跨ぐこと。法律の『違反』と同じく、地質学における『海進』もまた、あるべき境界線の峻烈な破棄と、新しい支配（海）の情報の侵入を意味する、地質の反逆。 ",
+		"aftertaste": "山頂で見つけた貝の化石に、かつての圧倒的な境界崩壊の記憶を視る畏怖。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"grade, progress と同じ gradi。歩みの方向。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "laccolith",
+		"word": "Laccolith",
+		"part_of_speech": "noun",
+		"meaning": "ラコリス、餅盤、情報の地下の膨らみ",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "lakkos",
+					"type": "root",
+					"meaning": "cistern, pond"
+				},
+				{
+					"text": "lithos",
+					"type": "root",
+					"meaning": "stone"
+				}
+			],
+			"original_statement": "From Greek lakkos + lithos."
+		},
+		"core_concept": {
+			"en": "lens-shaped mass of igneous rock that has been intruded between rock strata",
+			"ja": "地下の層の間に、情報のマグマとしての『池（pond）』を作り、石（stone）へと変ずる。"
+		},
+		"thinking_layer": "石の池。地表へ出ることという名の『爆発』を峻烈に諦め、 underground という名の沈黙の中で層を押し上げ、レンズ状の情報の『蓄積』として静かに凝固したもの。 ",
+		"aftertaste": "見えない足もとに、巨大なキノコ状の石の巨人が潜んでいるという予感。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"lake と同じ lakkos。情報の溜まり場。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "regolith",
+		"word": "Regolith",
+		"part_of_speech": "noun",
+		"meaning": "レゴリス、表土、情報の毛布",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "rhegos",
+					"type": "root",
+					"meaning": "blanket"
+				},
+				{
+					"text": "lithos",
+					"type": "root",
+					"meaning": "stone"
+				}
+			],
+			"original_statement": "From Greek rhegos + lithos."
+		},
+		"core_concept": {
+			"en": "layer of unconsolidated rocky material covering bedrock",
+			"ja": "基盤岩という名の冷徹な真理の上に、情報の『毛布（blanket）』として敷かれた塵の層。"
+		},
+		"thinking_layer": "石の覆い。剥き出しの真理という名の『岩』を峻烈に保護し、惑星の表面に流動性と脆弱さを授ける情報の衣（garment）。生命はこの情報の塵の層にのみ宿ることができる。 ",
+		"aftertaste": "月面を覆う灰色の粉に、生と死の両端を幻視する瞬間の戦慄。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"rhegos はホメロスの詩にも出る寝具の言葉。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "talus",
+		"word": "Talus",
+		"part_of_speech": "noun",
+		"meaning": "崖錐（がいすい）、情報の崩落の墓標",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "talus",
+					"type": "root",
+					"meaning": "ankle, heel, die?"
+				}
+			],
+			"original_statement": "From Latin talus."
+		},
+		"core_concept": {
+			"en": "sloping mass of rock fragments at the foot of a cliff",
+			"ja": "断崖の『足（ankle）』もとに、峻烈な崩壊の情報の欠片が積み上がった山。"
+		},
+		"thinking_layer": "かかと（あるいは不安定に転がるサイコロ）。垂直の権威という名の『崖』が、重力に敗北した情報の残滓（debris）。それは、高きものが必ず低きへと至るという、情報の最後の下向。 ",
+		"aftertaste": "一歩踏み込むたびに崩れる斜面に、静かなる崩落の連鎖を感じる恐怖。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ankle (足首) の骨。大地の脚部の支え。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "shale",
+		"word": "Shale",
+		"part_of_speech": "noun",
+		"meaning": "頁岩（けつがん）、情報の薄片の積層",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "skale",
+					"type": "root",
+					"meaning": "shell, scale"
+				}
+			],
+			"original_statement": "From Old English scealu 'shell, husk'."
+		},
+		"core_concept": {
+			"en": "fine-grained sedimentary rock that fissile along thin layers",
+			"ja": "情報の殻（shell）を、峻烈な重圧で幾層にも押し潰し、不滅の書物とした石。"
+		},
+		"thinking_layer": "殻。剥離（fissility）という名の宿命を背負い、たやすく割れることで、かつての泥という名の『情報の微細なる記憶』を晒け出す。それは、地底の情報の薄いページ。",
+		"aftertaste": "石を割った瞬間に、そこに閉じ込められた数億年前の沈黙が溢れ出す震撼。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"shell, scale と同じ root。情報の剥離する皮。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "flint",
+		"word": "Flint",
+		"part_of_speech": "noun",
+		"meaning": "火打石、情報の鋭利な火種",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "flint",
+					"type": "root",
+					"meaning": "hard rock, splinter"
+				}
+			],
+			"original_statement": "From Old English flint."
+		},
+		"core_concept": {
+			"en": "hard gray rock used for tools and starting fires",
+			"ja": "硬質の沈黙を、峻烈な一撃で『情報の火花（fire）』へと変容させる。"
+		},
+		"thinking_layer": "硬い岩。文明という名の情報の松明（torch）を灯すために、人類が最初に手にした情報の『鍵（key）』。そのあまりに鋭利な破片は、殺戮と創造の両方を地質学的に宣告する。",
+		"aftertaste": "石を打ち合わせた時の、焦げたような匂いと、暗闇を裂く一閃の火花の記憶。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"plinth (柱の台座) と遠い縁がある。情報の確固たる基底。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "slate",
+		"word": "Slate",
+		"part_of_speech": "noun",
+		"meaning": "粘板岩、スレート、情報の黒き筆記面",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "esclate",
+					"type": "root",
+					"meaning": "splinter"
+				}
+			],
+			"original_statement": "From Old French esclater 'to break, splinter'."
+		},
+		"core_concept": {
+			"en": "fine-grained grey metamorphic rock which can be easily split into thin plates",
+			"ja": "情報の破片（splinter）へと峻烈に分断され、思考を刻むための板となる。"
+		},
+		"thinking_layer": "飛び散る破片。岩石の重厚な沈黙を、層状の割れ（cleavage）という名の情報の『裂け目』に変え、屋根を覆う、あるいは言葉を刻むための、情報の不滅の平面（tablet）へと精錬したもの。",
+		"aftertaste": "石に書かれた文字が、消えることなく永遠の真理を語り続けるという、情報の重圧。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"explosion, shatter と同じ root。破壊から生まれる平面。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "gneiss",
+		"word": "Gneiss",
+		"part_of_speech": "noun",
+		"meaning": "片麻岩、ナイス、情報の火花の記憶",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "gneisto",
+					"type": "root",
+					"meaning": "spark"
+				}
+			],
+			"original_statement": "From German Gneis."
+		},
+		"core_concept": {
+			"en": "metamorphic rock with a banded or foliated structure",
+			"ja": "極限の重圧の中で、情報の粒子が峻烈な縞模様（bands）として『閃（spark）』く。"
+		},
+		"thinking_layer": "火花。かつては一つの均質なカオス（granite）だったものが、地下の沈黙という名の峻烈な『情報の加圧』によって、成分ごとに選別され、光り輝くパタンを産み出した、情報の再生。 ",
+		"aftertaste": "石の中に宿る、波打つような情報の歪みに、地球の苦悶の跡を視る畏怖。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ドイツ語。火花のようにきらめく鉱物から。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "schist",
+		"word": "Schist",
+		"part_of_speech": "noun",
+		"meaning": "結晶片岩、シスト、情報の裂ける実存",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "schistos",
+					"type": "root",
+					"meaning": "split, divided"
+				}
+			],
+			"original_statement": "From Greek schistos 'split'."
+		},
+		"core_concept": {
+			"en": "metamorphic rock with layered structure, containing mica",
+			"ja": "一つの意志を、峻烈な情報の『裂け目（split）』によって幾重にも分断する。"
+		},
+		"thinking_layer": "裂けたもの。垂直方向の重力に対し、自らを水平方向の薄片化（foliation）という名の反抗によって守り抜く、情報の強固な指向性。それは、どこまでも平行な、出口なき情報の線路。 ",
+		"aftertaste": "幾層にも重なった薄き石の刃に、自らを刻み込む瞬間の、冷徹なる分断。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"schism (分離), schizophrenia (統合失調) と同じ schistos。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "quartzite",
+		"word": "Quartzite",
+		"part_of_speech": "noun",
+		"meaning": "珪岩、情報の不滅の硬質",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "quarz",
+					"type": "root",
+					"meaning": "quartz"
+				},
+				{
+					"text": "-ite",
+					"type": "suffix",
+					"meaning": "rock"
+				}
+			],
+			"original_statement": "Metamorphosed sandstone."
+		},
+		"core_concept": {
+			"en": "hard metamorphic rock which was originally sandstone",
+			"ja": "砂という名の情報のカオスを、熱という名の情報の火で、峻烈な『不滅の結晶』へと再鋳造する。"
+		},
+		"thinking_layer": "クオーツの石。柔らかき砂岩という名の『妥協』を峻烈に捨て、極限の密度と透明な峻烈さを獲得して、時の流れという名の侵食に正面から立ち向かう、情報の最も頑強な一族。 ",
+		"aftertaste": "叩いても砕けぬ圧倒的な硬質さに、宇宙の根源的な安定を幻視する安堵。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"石英。ガラスの情報の、野性的な極北。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "breccia",
+		"word": "Breccia",
+		"part_of_speech": "noun",
+		"meaning": "角礫岩、情報の鋭利な断片の結合",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "brecciare",
+					"type": "root",
+					"meaning": "to break, shatter"
+				}
+			],
+			"original_statement": "From Italian breccia 'gravel, broken stone'."
+		},
+		"core_concept": {
+			"en": "rock composed of large angular fragments cemented together",
+			"ja": "砕け散った峻烈な『情報の棘（broken fragments）』を、そのままの形で凍結する。"
+		},
+		"thinking_layer": "割れたもの。摩耗という名の『丸まり（conglomerate）』を峻烈に拒み、破壊された瞬間の鋭利な情報の怒りを、そのまま化石化した時間の暴力。情報のダイレクトな断面。",
+		"aftertaste": "鋭い角を持ったまま固まった石の群れに、かつての激しい衝撃を幻視する戦慄。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"break と同じゲルマン語源。情報の破砕の証明。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "evaporite",
+		"word": "Evaporite",
+		"part_of_speech": "noun",
+		"meaning": "蒸発岩、情報の渇きの結晶",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "e-",
+					"type": "prefix",
+					"meaning": "out"
+				},
+				{
+					"text": "vaporare",
+					"type": "root",
+					"meaning": "to steam"
+				}
+			],
+			"original_statement": "From evaporate."
+		},
+		"core_concept": {
+			"en": "sedimentary rock formed of material deposited from solution by evaporation",
+			"ja": "情報の『湿り（vapor）』が消え去った後に残された、不滅の渇きの誓約。"
+		},
+		"thinking_layer": "蒸発した結果。水という名の包容が峻烈に奪われたとき、溶解していた情報の粒子たちが、もはや透明ではいられずに、結晶という名の石（rock）へと峻烈に沈着した、情報の究極の『居残り（residue）』。 ",
+		"aftertaste": "塩の大地が語る、圧倒的な渇望と生命の不在への震撼。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"halite (岩塩), gypsum など。失われた海の記憶。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "uvala",
+		"word": "Uvala",
+		"part_of_speech": "noun",
+		"meaning": "ウバーレ、連合ドリーネ、情報の深淵の合一",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "uvala",
+					"type": "root",
+					"meaning": "depression, small valley?"
+				}
+			],
+			"original_statement": "From Serbo-Croatian uvala."
+		},
+		"core_concept": {
+			"en": "large closed depression in karst scenery, larger than a doline",
+			"ja": "個別の情報の『虚無（doline）』が峻烈に繋がり合い、巨大な淵として大地を噛む。"
+		},
+		"thinking_layer": "（セルビア語の）谷。地底に潜む水の峻烈な侵食（devouring）という名の沈黙が、地上の孤立した複数の欠落を一つに繋げ、世界を崩落させる、情報の不可逆な奈落の拡張。",
+		"aftertaste": "足元の大地が、一挙に巨大な口を開け、自分を飲み込もうとする予感。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"karst 地形の専門用語。個から全体への崩壊。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "polje",
+		"word": "Polje",
+		"part_of_speech": "noun",
+		"meaning": "ポリエ、溶食盆地、情報の不毛な平野",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "polje",
+					"type": "root",
+					"meaning": "field, plain"
+				}
+			],
+			"original_statement": "From Serbo-Croatian polje 'field'."
+		},
+		"core_concept": {
+			"en": "large flat-floored depression in karst",
+			"ja": "石灰岩の牙を峻烈に溶かし切り、情報の『死の平野（field）』を作り出す。"
+		},
+		"thinking_layer": "野。山々に囲まれているが、出口という名の排水口（ponor）がただ一点の地底へと向かう、情報の閉じられた系（system）。肥沃だが、常に水という名の復讐に脅える情報の盆地。 ",
+		"aftertaste": "周囲を囲む峻烈な岸壁に、外界からの完全な遮断を感じる絶望。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"Poland (ポーランド) と同じ root。情報の広がり。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "lapilli",
+		"word": "Lapilli",
+		"part_of_speech": "noun",
+		"meaning": "ラピッリ、火山礫、情報の火の礫」、情報の空飛ぶ石",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "lapis",
+					"type": "root",
+					"meaning": "stone"
+				},
+				{
+					"text": "-illi",
+					"type": "suffix",
+					"meaning": "small"
+				}
+			],
+			"original_statement": "From Latin lapilli 'little stones'."
+		},
+		"core_concept": {
+			"en": "rock fragments ejected from a volcano",
+			"ja": "地底の業火が、石（stone）という名の情報の断片を空へと『糾弾（eject）』する。"
+		},
+		"thinking_layer": "小さな石。重力を峻烈に拒み、爆発という名の『情報の衝動』によって天へと放たれた地の内臓の破片。それは、あまりに熱く、あまりに速い情報の死の散弾（shower）。",
+		"aftertaste": "天から降る熱き石の雨に、世界の終わりを幻視する瞬間の恍惚と恐怖。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"dilapidated, lapis lazuli と同じ lapis。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "isobath",
+		"word": "Isobath",
+		"part_of_speech": "noun",
+		"meaning": "等深線、情報の同じ深淵",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "isos",
+					"type": "root",
+					"meaning": "equal"
+				},
+				{
+					"text": "bathos",
+					"type": "root",
+					"meaning": "depth"
+				}
+			],
+			"original_statement": "From Greek isos + bathos."
+		},
+		"core_concept": {
+			"en": "line on a map connecting points having the same depth",
+			"ja": "深淵（depth）という名の孤独を、峻烈な『相似（equal）』の線で繋ぐ。"
+		},
+		"thinking_layer": "等しい深さ。目に見えない海底の情報を、一定のパルス（frequency）によって繋ぎ合わせ、三次元の闇を二次元の情報の秩序へと峻烈に平坦化する、知性の抽象的な網。 ",
+		"aftertaste": "平行に並んだ線の連なりの背後に、急峻な崖を（脳内で）幻視する戦慄。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"isobar, isolation? (いや関係薄) 地図上の均衡。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
