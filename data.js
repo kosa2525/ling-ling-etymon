@@ -268823,5 +268823,185 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "lecithin",
+		"word": "Lecithin",
+		"part_of_speech": "noun",
+		"meaning": "レシチン、卵黄素",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "lekithos",
+					"type": "root",
+					"meaning": "egg yolk (卵黄)",
+					"lang": "Greek"
+				}
+			],
+			"original_statement": "From Greek lekithos 'egg yolk'."
+		},
+		"core_concept": {
+			"en": "A fatty substance found in cell membranes and egg yolks, used as an emulsifier",
+			"ja": "生命のゆりかごである『卵黄（egg yolk）』から抽出された、滑らかな境界を創り出す『融合の媒質』。水と油という、本来相容れない二つの世界を繋ぎ止め、生命の柔らかな形を維持するための、知的な『乳化（emulsification）』の奇跡"
+		},
+		"thinking_layer": "『卵黄』。レシチン（Lecithin）、卵を意味する「エッグ（Egg）」とは関係なく。語源は「卵の黄身」。ただの「脂肪分」ではありません。そこには。「バラバラなものを一つにまとめ、新しい形を育む」という、母性的な「統合（integration）」の響きが宿っています。それは。知性が異なるアイディアを混ぜ合わせ、一つの美しい「理論（theory）」へと結晶化させるプロセスのメタファー。",
+		"aftertaste": "「レシチン（lecithin）」という言葉の響きに、卵黄の濃厚な「黄色」と、それが細胞膜（cell membrane）として自分を守ってくれていることの「温かさ」を感じ、自分がこの惑星の「生命の連鎖（chain of life）」の中にあることを再確認する、あの知的な平安。あるいは、自分の言葉が、この「レシチン」のように、対立する人々の間を滑らかに繋ぐ「調停の雫（drop of mediation）」でありたいと願う、あの静かな午後の祈り。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"レシチンは1846年にフランスの化学者ゴブレーによって卵黄から分離された。この発見は、生命がいかにして『脂（fat）』という物質を高度に組織化して利用しているかを明らかにした。",
+				"『乳化（emulsifying）』とは、境界線を消すことではなく、境界線を『機能的』にすることである。レシチンは、生命が持つ『柔軟な社交性』の化学的な証明である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "casein",
+		"word": "Casein",
+		"part_of_speech": "noun",
+		"meaning": "カゼイン、酪素",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "caseus",
+					"type": "root",
+					"meaning": "cheese (チーズ)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin caseus 'cheese'."
+		},
+		"core_concept": {
+			"en": "The main protein found in milk and cheese",
+			"ja": "母なる乳（milk）の中に眠る、栄養（nourishment）と構造の源泉。固まる（coagulate）ことで『チーズ（cheese）』という新しい次元の存在へと変容する、潜在的な『凝縮の意志』"
+		},
+		"thinking_layer": "『チーズ』。チーズ（Cheese）、ケース（Case/箱？とは関係なく）、おなじみの「カゼイン（塗料や接着剤にもなる）」と同根。語源は「チーズ」。ただの「タンパク質」ではありません。そこには。「液体の中に溶け込みながら、時が来れば固まり、形を成す」という、流動性と定着の二重性が宿っています。それは。知性が日々の情報の奔流から、確固たる「知識（knowledge）」を析出（precipitation）させてゆく瞬間のメタファー。",
+		"aftertaste": "温かいミルクを眺めつつ、その中にこの「カゼイン（casein）」という目に見えない「構造の種」が潜んでいることに想いを馳せ、目に見える現象の背後にある「目に見えない秩序」の重みを痛感する、あの知的な充足。あるいは、自分の思考が、この「カゼイン」のように、あるきっかけ（酸や熱）によって一気に固まり、誰にも崩せない「真実の形」へと結実することを夢見る、あの静かな夜の自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kwat-",
+					"meaning": "to ferment, become sour (forming caseus)"
+				}
+			],
+			"points": [
+				"cheese, quash（？） 同根の説あり。",
+				"『固まる（coagulating）』ことは、流動性を犠牲にして『永続性（permanence）』を獲得することである。カゼインという言葉には、生命が自らを次世代へと繋ぐための、最も質実剛健な『建築資材』としての誇りが刻まれている。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "elastin",
+		"word": "Elastin",
+		"part_of_speech": "noun",
+		"meaning": "エラスチン、弾性線維",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "elaunein",
+					"type": "root",
+					"meaning": "to drive, beat out (追う、叩き出す)', from Greek elastic"
+				},
+				{
+					"text": "ela-",
+					"type": "root",
+					"meaning": "to drive (追う)",
+					"lang": "Greek"
+				}
+			],
+			"original_statement": "Coined from elastic."
+		},
+		"core_concept": {
+			"en": "A highly elastic protein in connective tissue and allowing many tissues in the body to resume their shape after stretching or contracting",
+			"ja": "引き伸ばされ、歪められても、必ず『元の形』へと回帰する、不屈の復元力（resilience）。生命の組織にしなやかな『バネ（spring）』を仕込み、激しい変化を優しく受け流す、知的な『許容の糸』"
+		},
+		"thinking_layer": "『追い出す、叩き出す（戻る）』。エラスティック（Elastic/弾力のある）、おなじみの「ドライブ（Drive/追う）」と同根の説あり。語源は「弾力」。ただの「ゴムのような物質」ではありません。そこには。「どんなに理不尽な圧力（pressure）を受けても、自らを失わない」という、強靭なアイデンティティのメタファーが宿っています。それは。知性が外部の批判や困難に晒（さら）されても、そのしなやかさによって自らの「核（core）」を守り抜くプロセスの象徴。",
+		"aftertaste": "自分の血管や皮膚が、この「エラスチン（elastin）」の網目（mesh）によって絶え間なく脈打ち、伸び縮みしているのを想像し、自分の身体がいかに「寛容（tolerance）」な設計の上に成り立っているかを痛感して、深い安堵を覚える、あの知的な平安。あるいは、自分の言葉が、この「エラスチン」のようにしなやかであり、誰かの心を傷つけることなく、その悲しみを優しく「弾（はじ）き返す」力となりたいと願う、あの静かな午後の祈り。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "el-",
+					"meaning": "to drive, move (forming elaunein)"
+				}
+			],
+			"points": [
+				"drive, elastic, elasticity 同根。",
+				"『戻る（returning）』ことは、過去への執着ではなく、最も安定した『中心（center）』を記憶していることである。エラスチンは、生命がいかにして動的な平衡（dynamic equilibrium）を維持しているかを示す、物質的な証言である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "myosin",
+		"word": "Myosin",
+		"part_of_speech": "noun",
+		"meaning": "ミオシン、筋肉タンパク質",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "mys",
+					"type": "root",
+					"meaning": "muscle, mouse (筋肉、ネズミ)",
+					"lang": "Greek"
+				}
+			],
+			"original_statement": "From Greek mys 'muscle'."
+		},
+		"core_concept": {
+			"en": "A fibrous protein that forms (together with actin) the contractile filaments of muscle cells",
+			"ja": "筋肉という名の、微細な『力のエンジン』を構成する中心的なフィラメント。化学的なエネルギーを熱い『躍動（movement）』へと変換し、世界に働きかけ、現実を動かすための、生命の『能動の芯』"
+		},
+		"thinking_layer": "『筋肉（ネズミ）』。マッスル（Muscle/小さなネズミ）、おなじみの「ミオ（筋-）」と同根。語源は「ネズミ（筋肉が動く様子がネズミに見えたことから）」。ただの「筋肉の成分」ではありません。そこには。「静止した物質を、目的を持った運動へと変容させる」という、生命の最も根源的な「意志の力」が宿っています。それは。知性が自らのアイディア（ATP）を、具体的な行動（力）へと変換してゆく、峻烈な「実行力の機関」。",
+		"aftertaste": "重い荷物を持ち上げた瞬間に、全身の「ミオシン（myosin）」が一斉に滑り込み（sliding）、化学反応という名の「内なる爆発」を繰り返しているのを幻視し、自分がこの世界を「変えることができる存在」であることを再認識する、あの知的な昂揚。あるいは、自分の決意が、この「ミオシン」のように一途で力強く、迷うことなく「目的の方角」へと自らを収縮（contracting）させられるものでありたいと願う、あの静かな夜の自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "mūs-",
+					"meaning": "mouse (forming mys)"
+				}
+			],
+			"points": [
+				"mouse, muscle 同根。",
+				"『筋肉（muscle）』が『ネズミ（mouse）』であるという比喩は、人体の内側に、自律的に動く『別の生命』を感じ取った古代人の驚きを伝えている。ミオシンは、その見えないネズミたちの、力強い『骨格』である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "tubulin",
+		"word": "Tubulin",
+		"part_of_speech": "noun",
+		"meaning": "チューブリン",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "tubulus",
+					"type": "root",
+					"meaning": "small pipe, tube (小さな管)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin tubulus 'small tube'."
+		},
+		"core_concept": {
+			"en": "A protein that is the main constituent of the microtubules of living cells",
+			"ja": "細胞という小宇宙（microcosm）の中に、精密な『輸送路（railway）』を敷設するための、基礎的な管状ユニット。情報の行き来を支え、自らの『形（shape）』を内部から支える、知的な『建築モジュール』"
+		},
+		"thinking_layer": "『小さな管』。チューブ（Tube）、タイフォン（Typhon/おそらくな）とは関係なく。語源は「小さな管」。ただの「管状のタンパク質」ではありません。そこには。「必要に応じて組み立てられ、また分解される」という、究極の柔軟性と合理性が宿っています。それは。知性が新しい環境に応じて、自らの思考の「骨組み（scaffolding）」を自在に作り変えてゆく、動的な建築プロセス。 ",
+		"aftertaste": "細胞分裂の際（during cell division）、この「チューブリン（tubulin）」が整然と並び、命の情報を二つに分かつ「道（spindle）」を作る様子を想像し、生命の持つ「ロゴス（数理的秩序）」の深さに圧倒される、あの知的な眩暈（dizziness）。あるいは、自分の知識も、この「チューブリン」のように、必要なときに素早く結集し、誰かのために「真実への通路」を築けるような、しなやかな部品でありたいと想う、あの静かな午後の自負。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "teue-",
+					"meaning": "to swell (forming tubule? uncertain)"
+				}
+			],
+			"points": [
+				"tube, thumb, tumor 同根の説あり。",
+				"『管（tube）』とは、空間を貫通させ、物質と情報を隔離・保護しながら運ぶための知恵である。チューブリンは、生命がいかにして自らの中に『インフラ（infrastructure）』を内蔵させたかを示す、分子レベルの土木遺産である。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
