@@ -253686,5 +253686,153 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "frenetic",
+		"word": "Frenetic",
+		"part_of_speech": "adjective",
+		"meaning": "熱狂的な、逆上した、ひどく慌ただしい",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "phrenitis",
+					"type": "root",
+					"meaning": "delirium, inflammation of the brain (脳の炎症、狂乱)",
+					"lang": "Greek"
+				}
+			],
+			"original_statement": "From Greek phrenitis, from phrēn 'mind'."
+		},
+		"core_concept": {
+			"en": "Fast and energetic in a rather wild and uncontrolled way",
+			"ja": "コントロールを失った脳（phrēn）が激しく炎症を起こしているかのように、異常なまでの速度と熱量で動き回る『狂乱的』な状態。秩序なき躍動"
+		},
+		"thinking_layer": "『脳が狂っていること』。フランティック（Frantic/狂乱した）やフリノロジー（Phrenology/骨相学）と同根。ただ忙しいのではなく、何かに執り憑かれたように、目的そのものが消失するほどの激しい動き。それは生命の過剰な燃焼であり、破滅へと突き進むダイナミズム。 ",
+		"aftertaste": "点滅するネオンサインの下、行き先も分からず疾走する都会の喧騒。あるいは、アイデアが溢れすぎて、手が思考に追いつかなくなった時の、心地よいパニック感。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "gwhren-",
+					"meaning": "mind"
+				}
+			],
+			"points": [
+				"frenzy, frantic, schizophrenia（分裂した心）と同根。",
+				"『心（mind）』は、熱すぎるエネルギーを閉じ込める『器』であり、それが壊れた時に『熱狂（frenetic）』が露わになる。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "turbulent",
+		"word": "Turbulent",
+		"part_of_speech": "adjective",
+		"meaning": "荒れれ狂う、騒乱の、乱気流の",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "turba",
+					"type": "root",
+					"meaning": "crowd, disturbance (群衆、混乱)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin turbulentus 'full of commotion', from turba 'disturbance, crowd'."
+		},
+		"core_concept": {
+			"en": "Characterized by conflict, disorder, or confusion; not controlled or calm",
+			"ja": "コントロールできない巨大な群衆（turba）がぶつかり合い、予測不能な渦を巻いているような、『激しい乱れ』。安定を拒絶し、すべてを巻き込むカオス"
+		},
+		"thinking_layer": "『混乱に満ちていること』。タービン（Turbine/回転するもの）やディスターブ（Disturb/かき乱す）と同根。単なる「動き」ではなく、方向性がバラバラで、互いに干渉し合うことで生じる「摩擦」のエネルギー。歴史の転換期や、激しく揺れ動く感情の海。 ",
+		"aftertaste": "嵐の中の飛行機が、目に見えない巨大な手に揺さぶられるような、底知れぬ不安。あるいは、情熱と憎しみが複雑に絡み合い、もはや自分でも制御できなくなった心の嵐。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "twer-",
+					"meaning": "to turn, whirl"
+				}
+			],
+			"points": [
+				"trouble, turbid（濁った）, storm 同根。",
+				"『回転する（whirl）』という運動が、臨界点を超えて『障害（trouble）』へと変質するプロセス。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "tumultuous",
+		"word": "Tumultuous",
+		"part_of_speech": "adjective",
+		"meaning": "騒がしい、騒乱の、激しく動揺した",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "tumere",
+					"type": "root",
+					"meaning": "to swell (膨らむ)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin tumultuosis, from tumultus 'commotion', probably from tumere 'to swell'."
+		},
+		"core_concept": {
+			"en": "Making a loud, confused noise; uproarious; excited, confused, or disorderly",
+			"ja": "内側から湧き上がる衝動が『膨らみ（swell）』、ついに外壁を突き破って、巨大な音と混沌となって溢れ出した『騒乱』の状態。熱狂と破壊の混在"
+		},
+		"thinking_layer": "『膨れ上がっていること』。チューマー（Tumor/腫瘍）やテュミッド（Tumid/腫れた）と同根。力（エネルギー）が蓄積され、もはや静止していられなくなった暴発。それは民衆の歓喜の叫びから、崩壊へ向かう組織の末期的な混乱まで、あらゆる「臨界突破」の響き。",
+		"aftertaste": "スタジアム全体が地鳴りのような歓声に包まれ、大地が震えるような興奮。あるいは、信じていた前提が崩れ去り、頭の中ですべての概念が激しく衝突し合う時の、眩暈のような騒がしさ。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "teu-",
+					"meaning": "to swell"
+				}
+			],
+			"points": [
+				"thousand（膨らんだ数＝千）, thumb（太い指）, thumb-tack, tumor 同根。",
+				"『量（quantity）』が限界まで『膨らむ（swell）』ことが、質的な『混乱（tumult）』を招く。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "precipitous",
+		"word": "Precipitous",
+		"part_of_speech": "adjective",
+		"meaning": "険しい、絶壁のような、急ぎすぎた",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "praeceps",
+					"type": "root",
+					"meaning": "headlong (頭から逆さまに)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin praeceps, from prae- 'before' + caput 'head'."
+		},
+		"core_concept": {
+			"en": "Dangerously high or steep; (of an action) done suddenly and without careful consideration",
+			"ja": "考える前にまず『頭（head）』が『先（before）』に飛び出してしまう。断崖絶壁を真っ逆さまに落下するように、一切のブレーキが利かない『あまりにも急激で危険な』加速"
+		},
+		"thinking_layer": "『頭から突っ込むこと』。キャピタル（Capital/頭、首都）やプレシピス（Precipice/絶壁）と同根。ただ「早い」のではなく、「落差」と「危険」を伴うこと。慎重さを欠いた決断が、自らを破滅的な加速の中へと投げ込む、その一瞬の、取り返しのつかない重力の支配。",
+		"aftertaste": "崖っぷちから一歩踏み出した瞬間の、胃が浮き上がるような冷たい浮遊感。あるいは、一時の感情に任せて放った一言が、すべてを破壊してゆくのをただ見つめている時の、絶望的な明瞭さ。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "prae-",
+					"meaning": "before"
+				},
+				{
+					"term": "kaput-",
+					"meaning": "head"
+				}
+			],
+			"points": [
+				"cap, captain, chapter, recap 同根。",
+				"『頭（head）』を制御できないことが、最も根源的な『危険』であるという認識。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
