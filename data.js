@@ -271198,5 +271198,194 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "forum",
+		"word": "Forum",
+		"part_of_speech": "noun",
+		"meaning": "フォーラム、公共広場、公開討議の場",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "forum",
+					"type": "root",
+					"meaning": "market-place, open space (市場、開けた場所)', from Latin foris 'out of doors'"
+				}
+			],
+			"original_statement": "From Latin forum 'market-place'."
+		},
+		"core_concept": {
+			"en": "A place, meeting, or medium where ideas and views on a particular issue can be exchanged",
+			"ja": "境界を越えて『外部（outside）』へと開かれた、言葉と欲望が交差する巨大な広場（plaza）。閉じられた私生活から抜け出し、他者という名の鏡に自らを映し出す、知的な『公共性の原点』"
+		},
+		"thinking_layer": "『戸外の場所』。フォリン（Foreign/外国の＝外の）、ドア（Door/戸＝外への入り口）と同根。語源は「戸外（out of doors）」。ただの「広場」ではありません。そこには。「プライベートな殻（shell）を破り、剥き出しの真実を衆目（public eyes）に晒す」という、峻烈な勇気が宿っています。それは。知性が自らの秘密を共有財産（common wealth）へと差し出し、新しい秩序を共同で構築してゆくプロセスのメタファー。",
+		"aftertaste": "ローマの遺跡に立ち、今も風の中に残る数千年前の「フォーラム（forum）」の喧騒（hubbub）を想い、人間がいかに「対話」という名のカオスを愛し、そこから文明を紡ぎ出してきたかに感動を覚える、あの知的な共鳴。あるいは、インターネットという広大な「仮想フォーラム」においても、自分の言葉がこの「フォーラム」の原義にふさわしい、清冽（せいれつ）な公共性を保ち続けていることを自負する、あの静かな午後の自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "dhwer-",
+					"meaning": "door, gate (forming foris)"
+				}
+			],
+			"points": [
+				"door, forest（外の森）, foreign, forfeit 同根。",
+				"『外（outside）』であることは、無防備であることと同義である。フォーラムは、生命がいかにして『外部との接触』を単なる危険から、知的な『機会（opportunity）』へと翻訳し直したかを示す、空間的な転換点である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "triclinium",
+		"word": "Triclinium",
+		"part_of_speech": "noun",
+		"meaning": "トリクリニウム、古代ローマの三連寝椅子付きダイニングルーム",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "tri-",
+					"type": "prefix",
+					"meaning": "three (三つ)"
+				},
+				{
+					"text": "klinē",
+					"type": "root",
+					"meaning": "couch, bed (寝椅子、ベッド)', from Greek klinein 'to lean'"
+				}
+			],
+			"original_statement": "From Latin triclinium, from Greek tri- 'three' + klinē 'couch'."
+		},
+		"core_concept": {
+			"en": "A dining table with couches along three sides used in ancient Rome",
+			"ja": "三方向から『寄りかかる（leaning）』ことで生まれる、親密で退廃的な談論の宇宙。重力に身を任せ、横たわった姿勢（reclining）で真理を語らう、知的な『リラクゼーションの極致』"
+		},
+		"thinking_layer": "『三つの寝椅子』。クライマックス（Climax/はしご＝寄りかかるもの）、クリニック（Clinic/ベッドの傍ら）、おなじみの「トライ（三つ）」と同根。語源は「三つの寝椅子」。ただの「食堂（dining room）」ではありません。そこには。「緊張（tension）を解きほぐした状態においてのみ得られる、最も本質的な共感」という、 hedonistic な知の哲学が宿っています。それは。知性が直立（upright）という防衛を止め、他者に対して無防備な思考を「横たえる」瞬間のメタファー。 ",
+		"aftertaste": "ポンペイの遺跡に残る「トリクリニウム（triclinium）」の青い壁画を眺め、かつての詩人たちが横になりながら、溢れるワインと共に語り合った言葉の「滑らかさ（smoothness）」を想像し、深い悦びを覚える、あの知的な平安。あるいは、自分の部屋もまた、この「トリクリニウム」のように、訪れる人が最もリラックスした状態で、最も鋭いアイディアを注ぎ込める場所でありたいと願う、あの静かな夜の自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "klei-",
+					"meaning": "to lean (forming klinein)"
+				}
+			],
+			"points": [
+				"climax, clinic, decline, incline, lean 同根。",
+				"『寄りかかる（leaning）』ことは、自分以外の支えを必要とすることである。トリクリニウムは、生命がいかにして『共依存（codependency）』を、洗練された美学として、また文化的な社交（socializing）として組織化したかを示す、建築学的な装置である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "impluvium",
+		"word": "Impluvium",
+		"part_of_speech": "noun",
+		"meaning": "インプルウィウム、古代ローマ住宅の雨水受け（天窓の下の池）",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "in-",
+					"type": "prefix",
+					"meaning": "into (中に)"
+				},
+				{
+					"text": "pluvia",
+					"type": "root",
+					"meaning": "rain (雨)', from Latin pluere 'to rain'"
+				}
+			],
+			"original_statement": "From Latin impluvium, from in- 'into' + pluere 'to rain'."
+		},
+		"core_concept": {
+			"en": "The sunken part of the atrium in a Roman house, intended to receive rainwater from the roof",
+			"ja": "開かれた天（sky）から注がれる恵みを、家の深部（inner center）へと招き入れ、静かに蓄える『受容の鏡』。外部の嵐を、自室の静寂（silence）へと翻訳する、知的な『天啓の受容器』"
+		},
+		"thinking_layer": "『中へと雨が降る場所』。プルーム（Plume/とは関係なく）、おなじみ「レイン（Rain）」のラテン語系と同根。語源は「中へと雨が降ること」。ただの「水盤」ではありません。そこには。「外界の偶然（降雨）を、自らの建築の一部として必然化する」という、峻烈な統合の意志が宿っています。それは。知性が環境のノイズを否定せず、むしろそれを自らを養うための「資源（resource）」として美しく取り込む瞬間のメタファー。",
+		"aftertaste": "豪雨の午後、この「インプルウィウム（impluvium）」に叩きつける雨音を家の中から聞きながら、自分が巨大な自然というシステムの一部として、完璧に「同期（sync）」していることを実感して鳥肌が立つ、あの峻烈な一呼吸。あるいは、自分の思考が、この「インプルウィウム」のように常に天（Truth）に向かって開かれ、一滴の真理も漏らさず掬（すく）い取れる清冽な場所でありたい、と願う、あの静かな午後の自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "pleu-",
+					"meaning": "to flow (forming pluere)"
+				}
+			],
+			"points": [
+				"flow, float, fly, plume（？） 同根。",
+				"『降る（raining）』ことは、重力に従う究極の受動性である。インプルウィウムは、生命がいかにして『受動（passivity）』を、能動的な『貯蔵』や『美』へと変換してきたかを示す、物理的なパラダイム・シフトである。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "tablinum",
+		"word": "Tablinum",
+		"part_of_speech": "noun",
+		"meaning": "タブリーヌム、主人の書斎、記録保管所",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "tabula",
+					"type": "root",
+					"meaning": "board, plank, tablet (板、卓)', from Latin"
+				}
+			],
+			"original_statement": "From Latin tablinum, from tabula 'board, tablet'."
+		},
+		"core_concept": {
+			"en": "In ancient Roman architecture, a room generally situated on one side of the atrium and opposite to the entrance",
+			"ja": "家の記憶（archives）が眠り、主人の意志が結晶化する『思考の総本山』。アトリウムという公共性と、奥庭という私性の境界に位置する、知的な『意思決定の回廊』"
+		},
+		"thinking_layer": "『板（記録）の場所』。テーブル（Table/卓）、タブレット（Tablet/板状のもの）、おなじみの「タブラー（板）」と同根。語源は「板（書類）」。ただの「書斎（study）」ではありません。そこには。「流動的な経験を、記録（record）という名の不動の板に刻み、永遠に保存する」という、峻烈な文明化の意志が宿っています。それは。知性が日々の断片的な情報を、一貫した「歴史（history）」へと統合してゆくプロセスの象徴。",
+		"aftertaste": "薄暗い「タブリーヌム（tablinum）」の棚に並ぶ、先祖の記録（wax tablets）が放つ古びた匂いに、自分という存在が「連綿と続く物語（sequence）」の最新のページに過ぎないことを悟り、深い畏敬の念を抱く、あの知的な平安。あるいは、自分の思考が、この「タブリーヌム」のように、過去の叡智と未来の予感が交差する、静寂に満ちた「記録の聖域」であることを誇る、あの静かな夜の自尊心。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"『板（tablet）』は情報を固定するための原始的な装置である。タブリーヌムは、家という空間そのものを、一つの情報の『ストレージ（storage）』として再定義する、知性的な試みであった。",
+				"この部屋がアトリウム（公）とペリスタイル（私）を繋ぐ場所に配置されているのは、知性が常に社会と個人の『調和点』で機能すべきであることを暗示している。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "peristyle",
+		"word": "Peristyle",
+		"part_of_speech": "noun",
+		"meaning": "ペリスタイル、列柱廊（で囲まれた中庭）",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "peri-",
+					"type": "prefix",
+					"meaning": "around (周りに)"
+				},
+				{
+					"text": "stylos",
+					"type": "root",
+					"meaning": "column (柱)', from Greek"
+				}
+			],
+			"original_statement": "From Greek peristylon, from peri- 'around' + stylos 'pillar'."
+		},
+		"core_concept": {
+			"en": "A continuous porch formed by a row of columns surrounding the perimeter of a building or a courtyard",
+			"ja": "規律（columns）によって囲い込まれた、飼い慣らされた『自然の断片（fragment）』。理性（logos）という名の柱が、野生のカオスを優しく隔離し、瞑想（meditation）のための回廊を作り出す、知的な『秩序の楽園』"
+		},
+		"thinking_layer": "『周囲の柱』。ペリフェラル（Peripheral/周辺の）、スタイル（Style/筆記術、様式＝もともとは尖った柱/ペン）、おなじみの「ペリ（周囲）」と同根。語源は「周囲の柱」。ただの「廊下」ではありません。そこには。「無限に広がる世界を、あえて有限な秩序（colonnade）の中に封印し、それを愛でる」という、峻烈な知性の支配欲が宿っています。それは。知性が複雑な現実から一部を切り出し、それを「庭（garden）」という名の理解可能な世界へと再装飾するプロセスのメタファー。",
+		"aftertaste": "「ペリスタイル（peristyle）」の柱の影が、太陽の移動と共に中庭に描く長い幾何学模様を眺め、時間がこの「秩序」によって完璧に可視化（visualization）されていることに快楽を覚える、あの知的な法悦。あるいは、自分の思考もまた、この「ペリスタイル」のように、確固たる信念（columns）によって周囲を固められ、その中心に常に「清冽な沈黙の森」を抱き続けていることを誇る、あの静かな午後の自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "per-",
+					"meaning": "around (forming peri)"
+				},
+				{
+					"term": "stā-",
+					"meaning": "to stand (forming stylos)"
+				}
+			],
+			"points": [
+				"stand, stay, statue, stage, staff 同根。",
+				"『立つ（standing）』ことは、自らの存在を主張することである。ペリスタイルは、柱という『垂直な主張』を『円環（circle）』状に配置することで、無限の外部を閉じた『完全な内部』へと変容させる、空間的な錬金術である。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
