@@ -267059,5 +267059,192 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "tombolo",
+		"word": "Tombolo",
+		"part_of_speech": "noun",
+		"meaning": "トンボロ、陸繋（りくけい）砂州",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "tombe",
+					"type": "root",
+					"meaning": "mound, hill (堤、丘)",
+					"lang": "Latin/Italian"
+				},
+				{
+					"text": "tumulus",
+					"type": "root",
+					"meaning": "mound (丘)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Italian tombolo, from Latin tumulus 'mound'."
+		},
+		"core_concept": {
+			"en": "A bar of sand or shingle joining an island to the mainland",
+			"ja": "潮の満ち引き（tide）が魔法をかけるように、絶海の孤島（island）と本土（mainland）を一時的に結ぶ『砂の道』。離れているはずの二つの世界が、大地の呼吸によって奇跡的に交わる、儚（はかな）い境界の架け橋"
+		},
+		"thinking_layer": "『盛り土』。テュムラス（Tumulus/古墳、塚）、おなじみの「トンボ」とは関係なく。語源は「丘」。ただの「州（sandbar）」ではありません。それは。海という巨大な拒絶（exclusion）の中に、一筋の「道（path）」が立ち現れるという、ドラマチックな接続のメタファー。知性が、孤独な魂（island）へと向かって、泥臭く、しかし誠実に「言葉の砂（sand of words）」を積み上げてゆくプロセスの象徴。",
+		"aftertaste": "潮が引いたあとの「トンボロ（tombolo）」の湿った砂を歩き、背後の安定（stability）と前方の未知（unknown）が一本の細い道で繋がっていることに、底知れぬ「運命の美しさ」を感じる、あの峻烈な沈黙。あるいは、自分のアイディアが誰かの心とこの「陸繋砂州（tombolo）」のように一時的に結びついた瞬間の、永遠には続かないからこそ愛おしい、あの夕暮れの知的な平安。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "teu-",
+					"meaning": "to swell (forming tumulus)"
+				}
+			],
+			"points": [
+				"thumb, tumor, thousand, tuber 同根。",
+				"『膨らむ（swelling）』という根源的な生命の動作が、砂という無機物の集積によって地形（geography）へと定着される。トンボロ（tombolo）は、流動的な海が、一瞬だけ大地に『秩序』を譲り渡した瞬間の署名である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "ayre",
+		"word": "Ayre",
+		"part_of_speech": "noun",
+		"meaning": "（特にオークニー・シェトランド諸島の）小石の多い砂州、海岸",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "eyrr",
+					"type": "root",
+					"meaning": "gravelly bank, sandbar (小石の多い土手)",
+					"lang": "Old Norse"
+				}
+			],
+			"original_statement": "From Old Norse eyrr."
+		},
+		"core_concept": {
+			"en": "A shingle or gravel beach, especially one used to enclose a lagoon or stretch of water",
+			"ja": "北方の荒々しい海が、長い年月をかけて磨き上げた『小石（shingle）』たちが、静かに手を取り合って形作る緩やかな輪郭（contour）。波の暴力（violence）を静寂（silence）へと変換し、穏やかな入り江（lagoon）を優しく守る盾"
+		},
+		"thinking_layer": "『小石の土手』。バイキング由来の言葉。アイスランドの「レイキャビク（Reykjavík/煙る入り江の街）」の「ビク（入り江）」、あるいは「エール（おそらくな）」とは関係なく。語源は「砂州」。ただの「浜（beach）」ではありません。そこには。「北の海の厳しさ」を耐え抜いた石たちの、無骨で誇り高い質感（texture）が宿っています。それは。知性が幾多の試練を経て、自らの内側に築き上げた、不動の「緩衝地帯（buffer zone）」。",
+		"aftertaste": "霧に包まれた「エール（ayre）」の浜辺で、波に洗われる小石たちが奏でる「乾いた音」を聴き、自分の言葉もまた、この石たちのように無機質でありながら、完璧な調和を保って誰かの心を守る「堤（embankment）」であってほしいと願う、あの潔い自尊心。あるいは、あまりにも磨き抜かれすぎて、もはや誰にも触れられなくなった自分の「知性の小石」を自嘲する、あの静かな午後の憂鬱。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"この言葉はスコットランド北部の島々でのみ生き残っている。特殊な場所（locus）でのみ通用する言葉は、その土地が持つ固有の『呼吸』を物語る。",
+				"『石（gravel）』は砂よりも個性が強い。エール（ayre）という場所は、個別の記憶が緩やかに集積し、全体としての『美』を構成するプロセスのメタファーである。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "skerry",
+		"word": "Skerry",
+		"part_of_speech": "noun",
+		"meaning": "岩礁、隠れ根、小島",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "sker",
+					"type": "root",
+					"meaning": "isolated rock in the sea (海に孤立した岩)",
+					"lang": "Old Norse"
+				},
+				{
+					"text": "skerera",
+					"type": "root",
+					"meaning": "to cut (切る)",
+					"lang": "Old Norse"
+				}
+			],
+			"original_statement": "From Old Norse sker 'a rock in the sea', from the root of shear 'to cut'."
+		},
+		"core_concept": {
+			"en": "A small rocky island, or a reef",
+			"ja": "海面（sea level）の下に牙を隠し、あるいは微かに頭を覗かせる、孤高の『岩礁（reef）』。航海者を拒絶し、同時に波を砕き、周囲に独自の生態系（ecosystem）を作り出す、大地の鋭利な断片"
+		},
+		"thinking_layer": "『切り取られたもの』。シアー（Shear/刈る）、スコア（Score/刻み目）、おなじみの「スケリー（アイルランドの地名）」と同根。語源は「切る」。ただの「島（island）」ではありません。そこには。かつて大陸の一部であったものが、激しい侵食（erosion）によって「引きちぎられた」という、峻烈な孤独が含まれます。それは。社会の大きな流れから孤立しつつも、自らの「固さ（hardness）」を武器に、波と戦い続ける知性のメタファー。",
+		"aftertaste": "荒れ狂う海の中から、黒い背びれのように突き出した「岩礁（skerry）」を眺め、自分という存在もまた、この世界の流動性（fluidity）の中に突き立てられた、一過性の「障害物（obstacle）」に過ぎないのではないかと悟る、あの知的な眩暈（dizziness）。あるいは、隠れた「スケリー（skerry）」のように、表面的には平穏を装いつつ、その深層には誰をも寄せ付けない鋭い「真実の刃」を研いでいる、あの深夜の自己投射。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sker-",
+					"meaning": "to cut (forming sker)"
+				}
+			],
+			"points": [
+				"shear, shore, short, skirt, sharp 同根。",
+				"『切る（cutting）』という行為は境界の創出（creation of boundary）である。スケリー（skerry）は、かつて一つだったものが分離させられたという『悲劇的な出自』を持ちつつ、その分離を自らのアイデンティティへと昇華させた存在である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "stack",
+		"word": "Stack",
+		"part_of_speech": "noun",
+		"meaning": "積み藁、煙突、海食柱（かいしょくちゅう）",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "stakkr",
+					"type": "root",
+					"meaning": "haystack (積み藁)",
+					"lang": "Old Norse"
+				}
+			],
+			"original_statement": "From Old Norse stakkr 'haystack'."
+		},
+		"core_concept": {
+			"en": "A steep and often vertical column or columns of rock in the sea near a coast, formed by wave erosion",
+			"ja": "波の執拗な侵食（erosion）に耐え抜き、最後には一本の『柱（column）』として孤立した岩。かつての巨大な壁（cliff）を失ってもなお、地平を指し示すかのように垂直に立ち続ける、不屈の記憶"
+		},
+		"thinking_layer": "『積み上げられたもの』。おなじみの「スタック（積み重ね）」、ストック（Stock/蓄積）と同根の説あり。語源は「積み藁」。ただの「岩」ではありません。それは。周囲のあらゆるものを奪われ（deprived）、剥ぎ取られ（stripped）、それでもなお「垂直（vertical）」という高潔な意志を保ち続ける、知性の究極の「痩身（linearity）」。",
+		"aftertaste": "海上に聳（そび）え立つ一本の「海食柱（stack）」を見上げ、その足元を絶え間なく削る波の恐怖と、それを超越した場所にある「静寂」に想いを馳せ、自分の言葉もまた、すべての虚飾（vanity）を削ぎ落とした「一本のスタック」になりたいと願う、あの峻烈な沈黙。あるいは、自分の孤独が、この「スタック（stack）」のように誰の目にも明らかな「美しさ」へ届くことを信じて、この荒波に耐える、あの静かな夜。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "steg-",
+					"meaning": "to stick, pierce, point (forming stakkr)"
+				}
+			],
+			"points": [
+				"stake, stick, sting 同根の説あり。",
+				"『積み重なる（stacking）』ことは、本来は量の増大を意味するが、海食柱（stack）という現象においては、それは逆に『周囲の消失』によって際立たされる最小限の存在を意味する。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "inlet",
+		"word": "Inlet",
+		"part_of_speech": "noun",
+		"meaning": "入り江、差し込み口、取入口",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "in-",
+					"type": "prefix",
+					"meaning": "in (中へ)"
+				},
+				{
+					"text": "lett",
+					"type": "root",
+					"meaning": "let, allow to go (行かせる)",
+					"lang": "English"
+				}
+			],
+			"original_statement": "From in- + let."
+		},
+		"core_concept": {
+			"en": "A small arm of the sea, a lake, or a river",
+			"ja": "荒れ狂う海が、陸地の懐へとそっと『忍び込み（letting in）』、静止した抱擁へと変わる場所。激しさが安らぎへと翻訳される、世界の『差し込み口（socket）』"
+		},
+		"thinking_layer": "『中へ行かせること』。おなじみの「インレット（流入口）」、アウトレット（Outlet/排出口）の対義語。語源は「入れさせる」。ただの「湾（bay）」ではありません。そこには。「狭い隙間を通って侵入する」という、侵食（erosion）と受容（acceptance）が表裏一体となったニュアンスが宿っています。それは。他者の異質な思想が、自分の心の強固な「防壁」をすり抜けて、内なる「穏やかな池（inner pond）」へと流れ込む瞬間のメタファー。",
+		"aftertaste": "複雑に入り組んだ「入り江（inlet）」の奥深くで、外洋の怒濤（billows）が嘘のように消え去り、鏡のような水面が自分の心を見透かす（seeing through）のを感じ、深い安堵（relief）と共に得られる、あの知的な空白。あるいは、自分の言葉が、誰かの心の「取入口（inlet）」となり、渇いた精神に新しい情動（emotion）を運び込むための回路でありたいと願う、あの静かな午後の自尊心。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"let, late, lease 同根の説あり。",
+				"『許容（letting）』とは、単なる受動性（passivity）ではなく、自らの形を『欠損させる（hollowing）』ことで他者を受け入れるという、能動的な意志の現れである。インレット（inlet）は、陸地がいかに海と対話（dialogue）し、自らを再定義しているかを示す、大地の署名である。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
