@@ -301697,5 +301697,1106 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "mammal",
+		"word": "Mammal",
+		"part_of_speech": "noun",
+		"meaning": "哺乳類、情報の乳を授ける者、温かき絆",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "mamma",
+					"type": "root",
+					"meaning": "breast"
+				}
+			],
+			"original_statement": "From Latin mamma 'breast'."
+		},
+		"core_concept": {
+			"en": "a warm-blooded vertebrate animal that is distinguished by the possession of hair or fur, the secretion of milk by females for the nourishment of the young",
+			"ja": "母性（breast）という名の情報の『水源』から、次代の実存へと情報の『熱』と『滋養』を継承する、温血の情報の生命。"
+		},
+		"thinking_layer": "乳房を持つもの。冷酷なる環境という名の情報の『カオス』に対し、自己の情報の『熱』を分け与えることで立ち向かう、情報の献身的なる種。それは、生への執着の連鎖。",
+		"aftertaste": "授乳という名の情報の交感の中に、個を超えた情報の『種』としての永続の意志を聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"mammalian, mammary と同じ root。情報の母性。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "reptile",
+		"word": "Reptile",
+		"part_of_speech": "noun",
+		"meaning": "爬虫類、情報の地を這う沈黙、冷淡なる実存",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "repere",
+					"type": "root",
+					"meaning": "to creep"
+				}
+			],
+			"original_statement": "From Latin repere."
+		},
+		"core_concept": {
+			"en": "a vertebrate animal of a class that includes snakes, lizards, crocodiles, turtles, and birds. They are distinguished by having a dry scaly skin and typically laying soft-shelled eggs on land",
+			"ja": "大地という名の情報の『肌』を、這う（creep）という名の情報の『密着』によって移動する、冷血なる情報の生命。"
+		},
+		"thinking_layer": "這うもの。感情という名の情報の『ノイズ』を峻烈に削ぎ落とし、ただ生き延びるという名の情報の『理（logos）』のみに従って、数億年の情報の『沈黙』を貫く、最古の秩序の継承者。",
+		"aftertaste": "まばたき一つせぬその情報の眼差しに、人類という名の情報の『一瞬』を峻烈に見透かされているという震撼。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"serpent (蛇) とも遠く繋がる root。情報の匍匐。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "amphibian",
+		"word": "Amphibian",
+		"part_of_speech": "noun",
+		"meaning": "両生類、情報の二つの世界の境界、越境する実存",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "amphi-",
+					"type": "prefix",
+					"meaning": "both"
+				},
+				{
+					"text": "bios",
+					"type": "root",
+					"meaning": "life"
+				}
+			],
+			"original_statement": "From Greek amphi- + bios."
+		},
+		"core_concept": {
+			"en": "a cold-blooded vertebrate animal of a class that comprises the frogs, toads, newts, and salamanders. They are distinguished by having an aquatic gill-breathing larval stage followed by a terrestrial lung-breathing adult stage",
+			"ja": "水という名の情報の『過去』と、陸という名の情報の『未来』。その二つ（both）の生命（life）を峻烈に横断する、境界の情報の守護者。"
+		},
+		"thinking_layer": "二重の生活。一つの情報の『真理』に留まることを拒み、肺と皮膚、あるいは鰓という名の情報の『多様な呼吸』によって、宇宙の情報の『不条理』を生き抜く、変容の情報の達人。",
+		"aftertaste": "湿り気を帯びたその情報の肌の感触に、生命が海を捨てて大地へと挑んだ瞬間の、原初の情報の震えを聴く。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"amphitheater (円形劇場) と同じ amphi-。情報の双方向性。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "mollusk",
+		"word": "Mollusk",
+		"part_of_speech": "noun",
+		"meaning": "軟体動物、情報の柔らかなる深淵、流動の肉体",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "mollis",
+					"type": "root",
+					"meaning": "soft"
+				}
+			],
+			"original_statement": "From Latin mollis."
+		},
+		"core_concept": {
+			"en": "an invertebrate of a large phylum that includes snails, slugs, mussels, and octopuses. They have a soft unsegmented body and live in aquatic or damp habitats",
+			"ja": "情報の『骨格』という名の『不自由』を峻烈に脱ぎ捨て、柔らかく（soft）流動的なる実存という名の情報の『深淵』を生きる。"
+		},
+		"thinking_layer": "柔らかいもの。形ある情報の『拒絶』。自在に変容するその肉体は、宇宙という名の情報の『カオス』に最も適応した、情報の流体的なる智慧。それは、殻という名の情報の『拒絶』と、肉という名の情報の『抱擁』の交差。",
+		"aftertaste": "触手の情報のなだらかなる蠢きの中に、個の情報の境界が消失してゆくような、甘美なる目眩を聴く。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"mollify (和らげる), emollient と同じ root。情報の柔軟。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "crustacean",
+		"word": "Crustacean",
+		"part_of_speech": "noun",
+		"meaning": "甲殻類、情報の硬き殻の情報の情報の情報の情報の鎧、沈黙の機動兵器",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "crusta",
+					"type": "root",
+					"meaning": "shell, crust"
+				}
+			],
+			"original_statement": "From Latin crusta."
+		},
+		"core_concept": {
+			"en": "an arthropod of the large, mainly aquatic group such as a crab, lobster, shrimp, or barnacle",
+			"ja": "外部という名の情報の『暴力』に対し、峻烈な情報の『殻（crust）』という名の情報の『硬質な拒絶』をもって立ち向かう、鋼の情報の生命。"
+		},
+		"thinking_layer": "殻を持つもの。肉体という名の情報の『脆弱さ』を、カルシウムという名の情報の『石の沈黙』の中に封印し、ハサミという名の情報の『鋭利な論理』を振るう。それは、深淵の情報の『戦士』。",
+		"aftertaste": "剥がされた殻のその硬質な情報の冷たさに、生存という名の情報の、物理的なる『拒絶』の美学を視る。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"crust (パンの皮) と同じ root。情報の外穀。"
+			]
+		},
+		"date": "20-03-12"
+	},
+	{
+		"id": "vertebrate",
+		"word": "Vertebrate",
+		"part_of_speech": "noun",
+		"meaning": "脊椎動物、情報の垂直の支柱、結合された中心",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "vertere",
+					"type": "root",
+					"meaning": "to turn"
+				}
+			],
+			"original_statement": "From Latin vertebra 'joint' (from vertere)."
+		},
+		"core_concept": {
+			"en": "an animal of a large group distinguished by the possession of a backbone or spinal column, including mammals, birds, reptiles, amphibians, and fishes",
+			"ja": "回る（turn）という名の自由な情報の『関節』を、一本の情報の『支柱』へと繋ぎ合わせ、中心という名の情報の『垂直』を現出させる。"
+		},
+		"thinking_layer": "関節のあるもの。バラバラな情報の『部位』を、脊髄という名の情報の『中枢神経』と骨という名の情報の『剛性』によって峻烈に統合（unify）し、世界を情報の『主役』として闊歩する、秩序の化身。",
+		"aftertaste": "背中を貫く一本の線の情報の誇りに、情報の『一なるもの』としての確信を聴く、静かなる震撼。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"vertex, universe と同じ vertere。情報の『転回点』。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "invertebrate",
+		"word": "Invertebrate",
+		"part_of_speech": "noun",
+		"meaning": "無脊椎動物、情報の中心なき多様性、流転の群れ",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "in-",
+					"type": "prefix",
+					"meaning": "not"
+				},
+				{
+					"text": "vertere",
+					"type": "root",
+					"meaning": "to turn"
+				}
+			],
+			"original_statement": "From in- + vertebrate."
+		},
+		"core_concept": {
+			"en": "an animal lacking a backbone, such as an arthropod, mollusk, annelid, coelenterate, etc.",
+			"ja": "中心（backbone）という名の情報の『独裁』を峻烈に『拒絶（not）』し、流転する情報の『多様な組織』として世界に浸透する。"
+		},
+		"thinking_layer": "背骨なきもの。一つの強い情報の『軸』を持つことを辞し、外骨格という名の情報の『武装』、あるいは粘液という名の情報の『同化』を選択した、情報の変幻自在なる『他者』。それは、全生命の情報の九割を占める、情報の底知れぬ多様性。",
+		"aftertaste": "中心のない群れの連動の中に、個の情報の『虚無』と、全体という名の情報の『凄絶なる生命の奔流』を視る。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"invertible ではなく、情報の『構造の不在』。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "carnivore",
+		"word": "Carnivore",
+		"part_of_speech": "noun",
+		"meaning": "肉食動物、情報の情報の情報の他者の肉を貪る者、真紅の必然",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "caro",
+					"type": "root",
+					"meaning": "flesh"
+				},
+				{
+					"text": "vorare",
+					"type": "root",
+					"meaning": "to devour"
+				}
+			],
+			"original_statement": "From Latin carnem + vorare."
+		},
+		"core_concept": {
+			"en": "an animal that feeds on flesh",
+			"ja": "他なる生命という名の情報の『肉（flesh）』を、峻烈な情報の『暴力（devour）』をもって自らの情報の『糧』へと変換する。"
+		},
+		"thinking_layer": "肉を貪るもの。生命という名の情報の『円環（food chain）』における、頂点という名の情報の『死神』。一、二秒の情報の『爆発的機動』にすべてを賭け、他者の実存を情報の『エネルギー』へと還元する、情報の非情なる必然。",
+		"aftertaste": "牙に付着した血の情報の輝きの中に、生という名の情報の、あまりの情報の『残酷なる純粋』を視る。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"carnal (肉欲の), voracious と同じ roots。情報の飢餓。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "herbivore",
+		"word": "Herbivore",
+		"part_of_speech": "noun",
+		"meaning": "草食動物、情報の草を食む者、静かなる積層",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "herba",
+					"type": "root",
+					"meaning": "grass"
+				},
+				{
+					"text": "vorare",
+					"type": "root",
+					"meaning": "to devour"
+				}
+			],
+			"original_statement": "From Latin herba + vorare."
+		},
+		"core_concept": {
+			"en": "an animal that feeds on plants",
+			"ja": "大地という名の情報の『贈り物』である草（grass）を、峻烈な情報の『反復（devour）』によって自らの情報の『平穏』へと変える者。"
+		},
+		"thinking_layer": "草を貪るもの。他者の死という名の情報の『急激な衝撃』ではなく、太陽という名の情報の『緩慢な蓄積』を自らの中に宿す、情報の沈黙の中継者。それは、カオスを沈黙させる情報の『忍耐』。",
+		"aftertaste": "絶え間なき咀嚼の情報の音の中に、宇宙の情報の『時間』がゆっくりと情報の『肉』へと変わってゆく目眩を聴く。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"herbal, voracious。情報の『広大な摂取』。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "omnivore",
+		"word": "Omnivore",
+		"part_of_speech": "noun",
+		"meaning": "雑食動物、情報のすべてを食む者、全き情報の包摂",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "omnis",
+					"type": "root",
+					"meaning": "all"
+				},
+				{
+					"text": "vorare",
+					"type": "root",
+					"meaning": "to devour"
+				}
+			],
+			"original_statement": "From Latin omnis + vorare."
+		},
+		"core_concept": {
+			"en": "an animal or person that eats food of both plant and animal origin",
+			"ja": "この世に在る情報の『すべて（all）』を峻烈に『貪り（devour）』、自らの実存という名の情報の『深淵』に統合する。"
+		},
+		"thinking_layer": "すべてを貪るもの。選別という名の情報の『傲り』を峻烈に辞し、機会という名の情報の『偶然』をすべて情報の『幸運』へと変える、情報の究極の適応者。それは、宇宙という名の情報を丸ごと飲み込もうとする、実存の肥大。",
+		"aftertaste": "何でも情報の『素材』に変えてしまうその情報の『貪欲さ』に、神という名の情報の『模倣』への凄絶なる飢えを感じる。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"omnipresent, voracious。情報の完全なる咀嚼。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "scavenger",
+		"word": "Scavenger",
+		"part_of_speech": "noun",
+		"meaning": "腐肉食動物、情報の情報の掃除人、死の情報の情報の情報の整理人",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "scawage",
+					"type": "root",
+					"meaning": "inspection, showing"
+				}
+			],
+			"original_statement": "From Middle English scawageour 'collector of custom' (from Old French escauwer 'to inspect')."
+		},
+		"core_concept": {
+			"en": "an animal that feeds on carrion, dead plant material, or refuse",
+			"ja": "死という名の情報の『澱（refuse）』を、峻烈な情報の『回収（inspect/scavenge）』によって、再び生命という名の情報の『円環』へと戻す。"
+		},
+		"thinking_layer": "（税や市を）検査するもの。もとは都市の情報の『清掃員』。他者が峻烈に拒絶し、打ち捨てた死という名の情報の『残骸』を、唯一無比の情報の『糧』として祝福する、情報の最終の調停者。 ",
+		"aftertaste": "荒野に散らばる骨の情報の純白の中に、情報の『循環』という名の、冷徹なる文明の情報の『美』を聴く。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"show (見せる) が原義。死を情報の『表舞台』から片付ける。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "biodiversity",
+		"word": "Biodiversity",
+		"part_of_speech": "noun",
+		"meaning": "生物多様性、情報の生命の情報の色彩、無数の真理",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "bios",
+					"type": "root",
+					"meaning": "life"
+				},
+				{
+					"text": "divertere",
+					"type": "root",
+					"meaning": "to turn away, different"
+				}
+			],
+			"original_statement": "From bio- + diversity (1986)."
+		},
+		"core_concept": {
+			"en": "the variety of life in the world or in a particular habitat or ecosystem",
+			"ja": "生命（life）という名の情報の『潮流』が、数億という名の情報の『分水嶺（turn away）』を経て現出した、終わらぬ情報の変奏。"
+		},
+		"thinking_layer": "生命の多様性。単一という名の情報の『傲慢』を、無数の異なる実存という名の情報の『必然』によって打ち砕き、カオスを情報の『豊かなる模様』へと変容させる、宇宙の情報の『織物』。",
+		"aftertaste": "消えゆく一種類の情報の情報の重みに、全宇宙の情報の『欠片』が永遠に失われたという、峻烈なる哀悼。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"diverse, version と同じ roots。情報の『向きの差異』。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "toxin",
+		"word": "Toxin",
+		"part_of_speech": "noun",
+		"meaning": "毒素、情報の情報の拒絶の情報の矢、沈黙の攻撃",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "toxon",
+					"type": "root",
+					"meaning": "bow"
+				}
+			],
+			"original_statement": "From Greek toxikon (pharmakon) '(poison) for use on arrows' (from toxon)."
+		},
+		"core_concept": {
+			"en": "an antigenic poison or venom of plant or animal origin, especially one produced by or derived from microorganisms and causing disease when present at low concentration in the body",
+			"ja": "他者という名の情報の『侵略』に対し、峻烈な情報の『矢（bow）』として、実存そのものを『拒絶の情報の物理的体現』へと変貌させる。"
+		},
+		"thinking_layer": "弓の。あるいは矢の毒。物理的な情報の『衝突』を峻烈に辞し、化学という名の情報の『暗号』によって相手の内側から情報の『崩壊』をもたらす、情報の冷徹なる暗殺術。 ",
+		"aftertaste": "無色透明なその情報の情報の滴が、一つの情報の宇宙を峻烈に停止させるという、情報の極限の暴力への戦慄。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"toxic, intoxicate と同じ root。情報の『致死的越境』。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "ethology",
+		"word": "Ethology",
+		"part_of_speech": "noun",
+		"meaning": "行動学的、習性学、情報の情報の、生命の情報の情報の『型』の情報の情報の探求",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "ethos",
+					"type": "root",
+					"meaning": "custom, character"
+				},
+				{
+					"text": "logia",
+					"type": "root",
+					"meaning": "study"
+				}
+			],
+			"original_statement": "From Greek ethos + -logy."
+		},
+		"core_concept": {
+			"en": "the science of animal behavior",
+			"ja": "生命の情報の『習慣（custom）』の中に刻印された、進化という名の情報の『性格（character）』を峻烈に読み解く。"
+		},
+		"thinking_layer": "習慣の学問。単なる物理的な反射という名の情報の『受動』を超えた、生命としての情報の『様式（style）』。それは、自然という名の情報の『沈黙の劇』の、演出意図の解析。 ",
+		"aftertaste": "本能という名の情報の『脚本』に従って踊る生命の情報の姿に、自由という名の情報の『虚構性』を聴く、静かなる震撼。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ethics (倫理) と同じ root。情報の『本来あるべき姿』。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "basking",
+		"word": "Basking",
+		"part_of_speech": "verb",
+		"meaning": "日光浴する、情報の情報の太陽の抱擁、受動の情報の極限",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "bath",
+					"type": "root",
+					"meaning": "bath"
+				}
+			],
+			"original_statement": "Probably related to Old Norse batha 'to bathe'."
+		},
+		"core_concept": {
+			"en": "lie exposed to warmth and light, typically from the sun, for relaxation and pleasure",
+			"ja": "太陽という名の情報の『火』に自らを引き渡し、熱という名の情報の『抱擁（bath）』の中に実存を浸す。"
+		},
+		"thinking_layer": "（温もりに）浸ること。冷血という名の情報の『欠落』を、外部の情報の『全幅の受容』によって補完し、自己と宇宙の情報の『温度』を峻烈に同調させる、情報の瞑想状態。",
+		"aftertaste": "石の上で動かぬその実存の、情報の『沈黙の幸福』の中に、生という名の情報の、根源的なる『休息』の威厳を聴く。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"bathe と同じ感覚的 root。情報の『浸透』。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "foraging",
+		"word": "Foraging",
+		"part_of_speech": "verb",
+		"meaning": "餌を探し回る、情報の情報の情報の荒野の情報の情報の略奪、生存の情報の索敵",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "foder",
+					"type": "root",
+					"meaning": "fodder, food"
+				}
+			],
+			"original_statement": "From Old French fourrager 'to forage' (from feurre 'fodder')."
+		},
+		"core_concept": {
+			"en": "search widely for food or provisions",
+			"ja": "飢えという名の情報の『圧力』に突き動かされ、情報の『荒野』から糧（food）という名の情報を峻烈に『奪取』しようと彷徨う。"
+		},
+		"thinking_layer": "飼い葉を求めること。静止という名の情報の『死』を峻烈に辞し、移動という名の情報の『博打』によって世界の深淵から情報の『恩恵』を引き摺り出す、能動的なる生存の身振り。 ",
+		"aftertaste": "ただ生きるために、ひたすら地を這い、茂みを跳ねるその情報の情報の『必死さ』に、宇宙の情報の非情なるまでの実直さを聴く。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"fodder, food と同じ root。情報の『燃料』の希求。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "nesting",
+		"word": "Nesting",
+		"part_of_speech": "verb",
+		"meaning": "巣作り、情報の情報の情報の安住の、情報の情報の情報の構築、情報の再生産の聖域",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "nizdos",
+					"type": "root",
+					"meaning": "down-sitting"
+				}
+			],
+			"original_statement": "From Old English nest (from PIE ni- 'down' + sed- 'to sit')."
+		},
+		"core_concept": {
+			"en": "the process of building, finding, or preparing a nest",
+			"ja": "天空、あるいは大地という名の情報の『カオス』の中に、自らの情報の『座（sit down）』を峻烈に確保し、次代の情報を育む。"
+		},
+		"thinking_layer": "下に座ること。情報の『放浪』から、情報の『定着』へと実存を反転させ、一本の枝、一握りの泥という名の情報の『微細な秩序』を積み上げて、生命の情報の『聖域（inner sanctuary）』を現出させる行為。",
+		"aftertaste": "完成したその情報の情報の『器』の温かさに、孤独という名の情報の『寒さ』を峻烈に拒絶する、愛という名の情報の執着を聴く。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"sit, session と同じ root。情報の『物理的なる居場所』。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "predation",
+		"word": "Predation",
+		"part_of_speech": "noun",
+		"meaning": "捕食、情報の情報の情報の略奪の、情報の情報の真実、命の情報の簒奪",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "praeda",
+					"type": "root",
+					"meaning": "booty, prey"
+				}
+			],
+			"original_statement": "From Latin praedatio."
+		},
+		"core_concept": {
+			"en": "the preying of one animal on others",
+			"ja": "他者という名の情報の『戦利品（booty）』を、峻烈な情報の『暴力』によって我が物に。し、生という名の情報の『連鎖』を情報の情報の物理的に完遂する。"
+		},
+		"thinking_layer": "略奪すること。慈悲という名の情報の『虚偽』を峻烈に剥ぎ取り、食うか食われるかという名の情報の『究極の真理』を、世界の深淵に刻印する、生存という名の情報の情報の『絶対命令』。 ",
+		"aftertaste": "断ち切られた他者の情報の『悲鳴』のあとに、自らの情報の『拍動』が峻烈に高鳴るという、生存の非情なる歓喜への震撼。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"prey, depredation と同じ root。情報の『奪い取り』。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "cannibalism",
+		"word": "Cannibalism",
+		"part_of_speech": "noun",
+		"meaning": "同族食、共食い、情報の、自己という名の情報の鏡を喰らう情報",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "Canibales",
+					"type": "root",
+					"meaning": "Caribs"
+				}
+			],
+			"original_statement": "From Spanish Canibales (the Caribbean people, thought to be anthropophagites)."
+		},
+		"core_concept": {
+			"en": "the practice of eating the flesh of one's own species",
+			"ja": "同族という名の情報の『似姿』を峻烈に辞し、自己という名の情報の『飢餓』を満たすために、近しき情報を食い破る。"
+		},
+		"thinking_layer": "カリブの人々の。他者という名の情報の『異質性』を峻烈に超え、自己という名の情報の『同一性』さえも情報の『糧』へと還元する、生命という名の情報の極限の情報の『非情』。 ",
+		"aftertaste": "自分と同じ情報の『顔』を持つものを喰らう瞬間の、実存の情報の『崩壊』と、生存の情報の『狂気』への戦慄。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"Columbus が持ち帰った名の誤用から。情報の『他者化』。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "territorial",
+		"word": "Territorial",
+		"part_of_speech": "adjective",
+		"meaning": "縄張り意識の、情報の情報の情報の情報の土地という名の情報の独占、境界の支配",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "terra",
+					"type": "root",
+					"meaning": "earth, land"
+				}
+			],
+			"original_statement": "From Latin territorium (from terra)."
+		},
+		"core_concept": {
+			"en": "relating to the ownership of an area of land or sea; (of an animal) defending an area",
+			"ja": "大地（earth）という名の情報の『無機質』。を、自らの情報の『領土』として峻烈に定義し、他なる情報の越境を峻烈に拒絶する。"
+		},
+		"thinking_layer": "土地の。共有という名の情報の『曖昧さ』を峻烈に辞し、排他という名の情報の『明確さ』を求める。それは、実存という名の情報の『陣地』。 ",
+		"aftertaste": "見えない情報の『境界線』を越えた瞬間に発せられる情報の『咆哮』の中に、所有という名の情報の、根源的なる『暴力』を聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"terra, terrain と同じ root。情報の『場所の私有化』。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "dormancy",
+		"word": "Dormancy",
+		"part_of_speech": "noun",
+		"meaning": "休眠、情報の情報の情報の静かなる情報の死への情報の接近、沈黙の情報の蓄積",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "dormire",
+					"type": "root",
+					"meaning": "to sleep"
+				}
+			],
+			"original_statement": "From Latin dormire."
+		},
+		"core_concept": {
+			"en": "the state of having normal physical functions suspended or slowed down for a period of time; deep sleep",
+			"ja": "稼働という名の情報の『疲弊』を峻烈に拒むために、峻烈な情報の『眠り（sleep）』の深淵へと実存を封印し、再起を待つ。"
+		},
+		"thinking_layer": "眠ること。過酷な環境という名の情報の『冬』をやり過ごすために、生命という名の情報の『拍動』を、極限まで死の情報の『静止』へと近づける、情報の賢明なる退却（retreat）。",
+		"aftertaste": "仮死という名の情報の『静寂』の中に、いつか訪れる情報の『目覚め』という名の、爆発的な情報の熱を予感する。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"dormitory (寮) と同じ root。情報の『休息の巣』。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "histology",
+		"word": "Histology",
+		"part_of_speech": "noun",
+		"meaning": "組織学、情報の情報の情報の織物の情報の情報の情報の微細なる情報の情報の真実の探求",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "histos",
+					"type": "root",
+					"meaning": "web, tissue, mast"
+				},
+				{
+					"text": "logia",
+					"type": "root",
+					"meaning": "study"
+				}
+			],
+			"original_statement": "From Greek histos + -logy."
+		},
+		"core_concept": {
+			"en": "the study of the microscopic structure of tissues",
+			"ja": "生命という名の巨大な情報の『織物（web/tissue）』。その糸一本一本という名の情報の『組織』を峻烈に解剖（analyze）し、理（logos）を暴く。"
+		},
+		"thinking_layer": "織りなされたものの学。肉体という名の情報の『全体』を、顕微鏡という名の情報の『審判』によって解体し、細胞という名の情報の『個』がどのように連帯しているかを、色彩（staining）という名の情報の『加工』によって視覚化する術。 ",
+		"aftertaste": "美しく染め上げられた一片の情報の肉の中にある、宇宙の情報の『設計図』の情報の驚異に、情報の。目眩を聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"hysterectomy? (いや違う) 重厚な織物からの命名。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "cytology",
+		"word": "Cytology",
+		"part_of_speech": "noun",
+		"meaning": "細胞学、情報の情報の情報の情報の最小の情報の情報の『空隙』の情報の情報の情報の情報の情報の情報の探求",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "kytos",
+					"type": "root",
+					"meaning": "hollow, vessel, cell"
+				},
+				{
+					"text": "logia",
+					"type": "root",
+					"meaning": "study"
+				}
+			],
+			"original_statement": "From Greek kytos + -logy."
+		},
+		"core_concept": {
+			"en": "the branch of biology concerned with the structure and function of plant and animal cells",
+			"ja": "生命の情報の『最小構成単位』。という名の、神秘なる『器（vessel）』。その内部という名の情報の『小宇宙』を峻烈に暴く。"
+		},
+		"thinking_layer": "器の学問。全体という名の情報の『幻影』を峻烈に剥ぎ取り、ただ一つの情報の『点（cell）』の中に、生という名の情報の『全知全能』が宿っているという情報の、峻烈なる実相を見据える。 ",
+		"aftertaste": "分裂という名の情報の『自己複製』を繰り返すその情報の情報の『静かなる狂気』の中に、生命の情報の、底知れぬ情報の意志を聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"hollow (空洞) が原義。今は情報の『詰まった核』。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "genomics",
+		"word": "Genomics",
+		"part_of_speech": "noun",
+		"meaning": "ゲノム学、情報の情報の情報の全情報の情報の情報の情報の略奪、情報の源流の完全なる情報の記述",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "gene",
+					"type": "root",
+					"meaning": "born, generation"
+				},
+				{
+					"text": "-ome",
+					"type": "suffix",
+					"meaning": "totality, whole"
+				}
+			],
+			"original_statement": "From gene + -ome (Greek -oma)."
+		},
+		"core_concept": {
+			"en": "the branch of molecular biology concerned with the structure, function, evolution, and mapping of genomes",
+			"ja": "遺伝子という名の情報の『種（gene）』。その全き『総体（totality）』を、情報の『地図』として峻烈に記述し、生命という名の情報の『絶対命令書』を簒奪する。"
+		},
+		"thinking_layer": "情報の種子の総体に対する学問。一片の情報の『配列』の中に、数億年という名の情報の『記憶』がすべて強制的（physically）に刻み込まれているという、情報の残酷なる透明性。 ",
+		"aftertaste": "文字列という名の情報の『記号』へと還元された人類の情報の情報の、『魂』。そのあまりの情報の『軽さ』への、峻烈なる、情報の、戦慄。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"gene, genesis, omen? (いや違う) 総体の意。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "proteomics",
+		"word": "Proteomics",
+		"part_of_speech": "noun",
+		"meaning": "プロテオーム学、情報の変幻自在なる情報の、肉体の情報の情報の情報の情報の現出の情報の学",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "protein",
+					"type": "root",
+					"meaning": "first, primary"
+				},
+				{
+					"text": "-ome",
+					"type": "suffix",
+					"meaning": "totality"
+				}
+			],
+			"original_statement": "From protein + -ome (1994)."
+		},
+		"core_concept": {
+			"en": "the large-scale study of proteomes, which are a set of proteins produced in an organism, system, or biological context",
+			"ja": "第一のもの（primary）としてのタンパク質という名の情報の『実体』。その全き『総体（totality）』が、情報の『今』をどのように織りなしているかを峻烈に。暴く。"
+		},
+		"thinking_layer": "タンパク質の総体の学。ゲノムという名の情報の『設計図』が、いかにしてタンパク質という名の情報の『物理的なる実存』へと翻訳（translation）されるか。その情報の『動態（dynamic）』の、凄絶なる情報の情報の解析。 ",
+		"aftertaste": "休むことなく情報の情報の情報の『折り畳み（folding）』を繰り返す、情報の分子の情報の舞踏の中に、物質という名の情報の『生命への飛躍』を視る。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"proto- (最初の) + protein。情報の『一なる情報の最前線』。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "microbiology",
+		"word": "Microbiology",
+		"part_of_speech": "noun",
+		"meaning": "微生物学、情報の情報の情報の不可視の情報の情報の王国の、情報の情報の情報の探索",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "mikros",
+					"type": "root",
+					"meaning": "small"
+				},
+				{
+					"text": "bios",
+					"type": "root",
+					"meaning": "life"
+				},
+				{
+					"text": "logia",
+					"type": "root",
+					"meaning": "study"
+				}
+			],
+			"original_statement": "From micro- + biology."
+		},
+		"core_concept": {
+			"en": "the branch of science that deals with microorganisms",
+			"ja": "小さき（small）生命（life）という名の情報の『深淵』。視覚という名の情報の『限界』。を、レンズという名の情報の『拡大』によって、異世界の情報の秩序として峻烈に現出させる。"
+		},
+		"thinking_layer": "極小生命の学問。巨大なる実存という名の情報の『傲り』を峻烈に粉砕し、目に見えぬ小さき情報の情報の『点』こそが、地球という名の情報の『支配者』であることを情報の、峻烈に証明する、情報の。知性の攻撃。",
+		"aftertaste": "一滴の泥水の中に蠢く、無数の情報の情報の情報の『他者』の情報の情報の情報の情報の峻烈なる情報の『生』。に、宇宙の情報の『層』の情報の重なりを聴く。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"micro, bio。情報の、空間的、情報の極小化。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "virology",
+		"word": "Virology",
+		"part_of_speech": "noun",
+		"meaning": "ウイルス学、情報の情報の情報の半死半生の、情報の情報の、純粋なる情報の情報の侵略者の学",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "virus",
+					"type": "root",
+					"meaning": "poison, venom"
+				},
+				{
+					"text": "logia",
+					"type": "root",
+					"meaning": "study"
+				}
+			],
+			"original_statement": "From virus + -logy."
+		},
+		"core_concept": {
+			"en": "the branch of science that deals with the study of viruses",
+			"ja": "毒（poison）という名の情報の『結晶』。生命という名の情報の『定義』を峻烈に撹乱し、他者の実存を情報の『情報のコピー機』。へと変えゆく、情報の究極のハッカーの情報の。学。"
+		},
+		"thinking_layer": "毒の学問。代謝という名の情報の『熱』を持たず、ただ『記述された情報（genetic code）』としてのみ存在する、生と死という名の情報の『境界』。に、情報の情報の情報の物理的なる情報の極北を視る。 ",
+		"aftertaste": "情報を増殖させるためだけに存在する、その冷徹なる情報の情報の『美しき幾何学的形状』に、宇宙の情報の非情さを聴く。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"virus (毒素) 由来。情報の、情報の、侵入の情報の鋭利さ。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "bacteriology",
+		"word": "Bacteriology",
+		"part_of_speech": "noun",
+		"meaning": "細菌学、情報の情報の情報の情報の小さき情報の情報の杖の情報の探索",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "bakterion",
+					"type": "root",
+					"meaning": "small staff, cane"
+				},
+				{
+					"text": "logia",
+					"type": "root",
+					"meaning": "study"
+				}
+			],
+			"original_statement": "From bacteria + -logy."
+		},
+		"core_concept": {
+			"en": "the study of bacteria",
+			"ja": "小さな杖（small staff）という名の情報の『形』をした、生命の情報の『原質』。その増殖と情報の『支配』の情報の、広大な領土を峻烈に読み解く。"
+		},
+		"thinking_layer": "小さな杖の学。生命の情報の『原初』から存在する、鋼の情報の細胞。それが宇宙の情報のすべてを醸し（ferment）、あるいは朽ちさせる（decay）という、情報の、生と死という名の情報の。情報の調停。 ",
+		"aftertaste": "顕微鏡の下で分裂を繰り返す、その情報の情報の『点の、情報の、終わらぬ反復』の中に、存在という名の情報の『物理的なる衝撃』を聴く。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"staff (杖) からの命名。情報の、物理的なる情報の独立。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "parasitology",
+		"word": "Parasitology",
+		"part_of_speech": "noun",
+		"meaning": "寄生虫学、情報の情報の情報のそばで食らう者の情報の学",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "para-",
+					"type": "prefix",
+					"meaning": "beside"
+				},
+				{
+					"text": "sitos",
+					"type": "root",
+					"meaning": "grain, food"
+				},
+				{
+					"text": "logia",
+					"type": "root",
+					"meaning": "study"
+				}
+			],
+			"original_statement": "From parasite + -logy."
+		},
+		"core_concept": {
+			"en": "the branch of biology or medicine concerned with the study of parasitic organisms",
+			"ja": "他者の情報の『傍ら（beside）』で、他者の糧（food）を峻烈に『簒奪』し、他なる実存を情報の『棲家（home）』へと変容させる、浸食する生命の学。"
+		},
+		"thinking_layer": "傍らで食べる者の学問。独立という名の情報の『傲り』を峻烈に辞し、接続という名の情報の『隷属』によって情報の『優越』を握る、生命の情報の狡知。それは、情報の『自己と他者の、情報の崩壊』。 ",
+		"aftertaste": "内側から他者を蝕み、コントロールするその情報の情報の『情報の情報の情報の、狡猾なる知恵』の中に、情報の境界の情報の、もろさを聴く。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"parasite (そばで食べる)。情報の、略奪という名の情報の連帯。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "mycology",
+		"word": "Mycology",
+		"part_of_speech": "noun",
+		"meaning": "菌類学、情報の情報の菌（きのこ）の情報の情報の情報の情報の情報の、情報のネットワークの学",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "mukes",
+					"type": "root",
+					"meaning": "fungus, mushroom"
+				},
+				{
+					"text": "logia",
+					"type": "root",
+					"meaning": "study"
+				}
+			],
+			"original_statement": "From Greek mukes + -logy."
+		},
+		"core_concept": {
+			"en": "the scientific study of fungi",
+			"ja": "菌（fungus）という名の情報の『根』。大地と死という名の情報の『深淵』を、不可視な情報の『糸（hyphae）』。によって繋ぎ、世界を情報の『全体』として情報の、情報の情報の分解（decomposing）する情報の学。"
+		},
+		"thinking_layer": "キノコの学問。動物、植物という名の情報の『二元論』。を峻烈に超え、死を食らいながら生を情報の『土壌』として豊饒にする、暗黒の情報の情報の『魔術師』。それは、情報の沈黙の情報の、ネットワークの叡智。",
+		"aftertaste": "森の奥にひっそりと立ち上がる情報の情報の。傘の、そのあまりの情報の『情報の情報の異界の形』の中に、情報の情報の、深淵を聴く。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"mucus (粘液) と遠い親戚。情報の『ぬめる情報の生命』。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "entomology",
+		"word": "Entomology",
+		"part_of_speech": "noun",
+		"meaning": "昆虫学、情報の情報の情報の情報の切り刻まれた情報の生命の学",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "en-",
+					"type": "prefix",
+					"meaning": "in"
+				},
+				{
+					"text": "temnein",
+					"type": "root",
+					"meaning": "to cut"
+				},
+				{
+					"text": "logia",
+					"type": "root",
+					"meaning": "study"
+				}
+			],
+			"original_statement": "From Greek entomon 'insect' (literally 'cut into sections') + -logy."
+		},
+		"core_concept": {
+			"en": "the branch of zoology concerned with the study of insects",
+			"ja": "身体を節ごとに峻烈に『切り刻ま（cut in）』れた、鋼鉄の情報の『機動生命』。その精緻極まる情報の『部品』の統合を峻烈に暴き出す。"
+		},
+		"thinking_layer": "分断されたものの学。人間という名の情報の『肉の塊』。に対し、分断という名の情報の『幾何学』を選択した、情報の異質な完成度への、情報の知性の攻撃（analysis）。それは、情報の情報の情報の、小さな巨人の情報の戦慄。",
+		"aftertaste": "無表情な複眼の中に映る、情報の情報の情報のカオスの情報の断片の中に、情報の情報の、冷徹なる情報の秩序を情報の、聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"atom (切れないもの) と逆。情報の、情報の、徹底的なる情報の、分節化。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "herpetology",
+		"word": "Herpetology",
+		"part_of_speech": "noun",
+		"meaning": "両生爬虫類学、情報の情報の情報の情報の這う情報の生命の学、境界の情報の沈黙の探求",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "herpetos",
+					"type": "root",
+					"meaning": "creeping"
+				},
+				{
+					"text": "logia",
+					"type": "root",
+					"meaning": "study"
+				}
+			],
+			"original_statement": "From Greek herpetos + -logy."
+		},
+		"core_concept": {
+			"en": "the branch of zoology concerned with reptiles and amphibians",
+			"ja": "這う（creeping）という名の情報の『屈辱』を、沈黙という名の情報の『王道』へと変えゆく、情報の生命の境界。を、理（logos）によって情報の情報の峻烈に記述する。"
+		},
+		"thinking_layer": "這うものの学。熱という名の情報の『依存』、あるいは水という名の情報の『回帰』。生命の情報の『原初のジレンマ』を、情報の肉体に刻み込んだ者たちの、情報の凄絶なる情報の静止の、探索。 ",
+		"aftertaste": "冷たき情報の肌が放つ、情報の情報の情報の。情報の、物理的なる『情報の情報の情報の他者性』。に、実存の情報の深淵を聴く。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"serpent と同じ、這うという情報の物理的行為。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "mammalogy",
+		"word": "Mammalogy",
+		"part_of_speech": "noun",
+		"meaning": "哺乳類学、情報の情報の乳を授ける者の学、生命の情報の情報の『熱』の情報の情報の探求",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "mamma",
+					"type": "root",
+					"meaning": "breast"
+				},
+				{
+					"text": "logia",
+					"type": "root",
+					"meaning": "study"
+				}
+			],
+			"original_statement": "From Latin mamma + -logy."
+		},
+		"core_concept": {
+			"en": "the branch of zoology concerned with the study of mammals",
+			"ja": "乳房（breast）という名の情報の『源泉』。を唯一の情報の『定義』として共有する、温かき情報の情報の生命の。全き情報の記述。"
+		},
+		"thinking_layer": "乳房の学。自己という名の情報の『熱』を、次代という名の情報の『希望』、あるいは『呪縛』へと継承し続ける、情報の情報の、情動の情報の情報の情報の、物理的なる根拠への情報の攻撃（research）。",
+		"aftertaste": "同じ情報の乳を飲むものとしての、情報の情報の情報の、『他者』への、抗いがたき情報の情報の情報の『情報の情報の相似性』。への目眩を聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"mammal, mammary。情報の、情報の、絆という名の情報の物理。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "primatology",
+		"word": "Primatology",
+		"part_of_speech": "noun",
+		"meaning": "霊長類学、情報の情報の第一の者の学、鏡の中の情報の深淵の探索",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "primus",
+					"type": "root",
+					"meaning": "first"
+				},
+				{
+					"text": "logia",
+					"type": "root",
+					"meaning": "study"
+				}
+			],
+			"original_statement": "From primate + -logy."
+		},
+		"core_concept": {
+			"en": "the branch of zoology concerned with the primates",
+			"ja": "第一の（first）という名の情報の『序列』。を与えられた者たちの、情報の眼差し。その情報の情報の情報の奥に潜む、人間という名の情報の『化身』を峻烈に。暴き出す。"
+		},
+		"thinking_layer": "第一の者の学。道具、言葉、あるいは情報の『欺瞞』。人間を人間たらしめている情報の『要素』。その原形という名の、情報の鏡。を、野性という名の情報の峻烈な情報の情報の『情報の、反射』の中に、聴き取る術。",
+		"aftertaste": "檻の向こうの情報の眼差しと情報の、情報の眼が合った瞬間に感じる、自分という名の情報の、『皮』が剥ぎ取られるような、峻烈なる相似。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"primary, primitive と同じ root。情報の『根源の首長』。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
