@@ -266073,5 +266073,187 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "podzol",
+		"word": "Podzol",
+		"part_of_speech": "noun",
+		"meaning": "ポドゾル、灰白色土",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "pod",
+					"type": "root",
+					"meaning": "under (〜の下に)",
+					"lang": "Russian"
+				},
+				{
+					"text": "zola",
+					"type": "root",
+					"meaning": "ashes (灰)",
+					"lang": "Russian"
+				}
+			],
+			"original_statement": "From Russian podzol, from pod 'under' + zola 'ashes'."
+		},
+		"core_concept": {
+			"en": "An infertile acidic soil having an ashy-gray layer, characteristic of coniferous forests in cold, moist climates",
+			"ja": "冷涼（cool）な針葉樹林の地下に横たわる、死を思わせる『灰（ashes）』の色の層。酸性雨（acid rain）がすべてを溶かし去り、白く乾いた沈黙だけが残留した、痩（や）せ細った大地の記憶"
+		},
+		"thinking_layer": "『灰の下の（地面）』。おなじみの「ゾラ（灰）」と同根。語源は「灰」。ただの「白い土」ではありません。それは。過酷な環境（harsh environment）の中で、栄養（nutrition）が地中深くへと洗い流され（leaching）、表層が脱色された状態。それは、あまりにも純粋な理想（ideal）を追求しすぎて、生命の温もりを失ってしまった、知性の「冷徹な空虚（cold vacuum）」。",
+		"aftertaste": "「ポドゾル（podzol）」の白く乾いた砂のような層を見つめ、そこから一切の芽吹きが拒絶されていることに、ある種の高貴な「絶望（despair）」を感じる、あの峻烈な沈黙。あるいは、自分の思考がこの「灰色の土（ashy soil）」のように、あらゆる感情の彩りを溶かし去り、ただ冷たい論理の骨格（skeleton of logic）だけを剥き出しにしているのだと悟る、あの静かな夜の自省。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ロシアの広大なタイガ（taiga）から生まれたこの言葉には、冬の厳しさと、大地の『忍耐』が刻まれている。",
+				"ポドゾル（podzol）化とは、化学的な『洗浄（cleaning）』の極致であり、それは物質がいかに環境の圧力（pressure）によってそのアイデンティティを根底から変容させられるかを示す、地球の署名である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "chernozem",
+		"word": "Chernozem",
+		"part_of_speech": "noun",
+		"meaning": "チェルノーゼム、黒土",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "cherny",
+					"type": "root",
+					"meaning": "black (黒い)",
+					"lang": "Russian"
+				},
+				{
+					"text": "zemlya",
+					"type": "root",
+					"meaning": "earth, soil (地球、土)",
+					"lang": "Russian"
+				}
+			],
+			"original_statement": "From Russian chernozem, from cherny 'black' + zemlya 'earth'."
+		},
+		"core_concept": {
+			"en": "A fertile black soil rich in humus, characteristic of temperate grasslands",
+			"ja": "草原の数千年にわたる生命の堆積（accumulation）が生んだ、究極の『黒い地球（black earth）』。圧倒的な豊穣（fertility）をその暗闇の中に湛（たた）えた、大地の『深き抱擁』"
+		},
+		"thinking_layer": "『黒い大地』。おなじみの「ノヴゴロド（新しい街）」の「ノヴ（新しい）」に対する「チェルノ（黒い）」と同根。語源は「黒い土」。ポドゾル（podzol/白）の対極。有機物（humus）が凝縮され、光をすべて飲み込むほどの漆黒。それは。あらゆる苦悩や死を栄養へと変換し、次なる生命へと繋ぐ、知性の「母性（maternity）」と「再生の力」。",
+		"aftertaste": "指の隙間からこぼれ落ちる「チェルノーゼム（chernozem）」の湿った重みを感じ、その圧倒的な「生命の密度（density of life）」に圧倒されつつ、自分という存在がいかにこの「黒い沈黙」に支えられているかを悟る、あの知的な安堵（relief）。あるいは、自分の思考がこの「黒い土（black soil）」のように、混沌（chaos）とした経験を糧（katé）にして、いつか誰かを潤す大きな結実（fruit）へと繋がることを信じる、あのひたむきな期待。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "dhghem-",
+					"meaning": "earth (forming zemlya)"
+				}
+			],
+			"points": [
+				"geometry, humble, zemstvo（ロシアの地方自治体） 同根。",
+				"『黒（black）』とは、すべての色を飲み込み、同時にすべての色の『起源』となる色である。チェルノーゼム（chernozem）は、大地がいかに多くの『死』を『生』へと昇華させてきたかを示す、地球の偉大な功績碑である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "laterite",
+		"word": "Laterite",
+		"part_of_speech": "noun",
+		"meaning": "ラテライト、紅土",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "later",
+					"type": "root",
+					"meaning": "brick (レンガ)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin later 'brick' (because it can easily be cut into brick-shaped blocks for building)."
+		},
+		"core_concept": {
+			"en": "A reddish clayey soil, typical of tropical and subtropical regions, consisting of iron and aluminum oxides",
+			"ja": "灼熱（heat）と豪雨の極致、熱帯の大地。すべてが洗い流された果てに、鉄とアルミニウムの錆（rust）だけが残留した、『レンガ（brick）』のような赤い大地。限界状況が生んだ、不毛で強靭な傷跡"
+		},
+		"thinking_layer": "『レンガの（ような土）』。レター（Letter/おそらくな）とは関係なく。語源は「レンガ」。空気に触れるとカチカチに固まり、そのまま建築（building）に使えるほどの硬度を持ちます。それは。あまりにも過酷な試練（ordeal）に晒（さら）され続けた結果、柔軟さを失う代わりに、何ものにも破壊されない「不屈の意志」を纏（まと）った知性のメタファー。",
+		"aftertaste": "どこまでも続く「赤土（laterite）」の乾燥した照り返しに目を細め、その救いのない「不毛（sterility）」の中に、それでもそこに立とうとする生命の「意地」を感じる、あの峻烈な敬意。あるいは、自分の心が、繰り返される傷（repeated wounds）の果てに、この「ラテライト（laterite）」のように硬く閉ざされ、もはや新しい種（seed）を受け入れることができないのではないかと不安になる、あの静かな午後の焦燥。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "plat-",
+					"meaning": "flat, broad? (uncertain connection to later/brick)"
+				}
+			],
+			"points": [
+				"flat, place, plate 同根の説あり。",
+				"『レンガ（brick）』とは、人間が自然を切り取り、自らの秩序（order）を構築するための最小単位である。ラテライト（laterite）は、大地そのものが、過酷な気象という彫刻家（sculptor）によって『建築素材』へと作り変えられた姿である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "regur",
+		"word": "Regur",
+		"part_of_speech": "noun",
+		"meaning": "レグール、黒色綿花土",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "regura",
+					"type": "root",
+					"meaning": "black soil (黒い土)",
+					"lang": "Telugu"
+				}
+			],
+			"original_statement": "From Telugu regura 'black soil'."
+		},
+		"core_concept": {
+			"en": "A type of deep black soil, rich in calcium and potash, found in central India; especially suitable for growing cotton",
+			"ja": "玄武岩（basalt）の風化が生んだ、インドの大地に広がる漆黒の『自己耕作（self-ploughing）』する土。乾けば裂け目を作り、濡れれば膨らむ、呼吸（breathing）を止めない動的な暗闇"
+		},
+		"thinking_layer": "『黒い土』。テルグ語由来。ただの「黒い土」ではありません。これがある場所では綿花（cotton）が美しく育つため、別名「黒色綿花土（Black Cotton Soil）」。それは。一見、近寄り難い「暗さ」や「激しさ」を秘めていながら、その深層（deep layer）には誰かを温める「柔らかさ（softness）」を育むための、豊かな資質を秘めた知性のメタファー。",
+		"aftertaste": "乾季にパックリと割れた「レグール（regur）」の深い亀裂（fissure）を眺め、大地そのものが自らの内側を空気（air）に晒し、自らを更新（renewing）しようとしている生命力に圧倒される、あの知的な畏怖。あるいは、自分の沈黙が、この「レグールの亀裂」のように、いつか誰かのための「豊かな収穫（harvest）」への準備であることを信じて、この乾きに耐える、あの静かな忍耐。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"レグール（regur）の最大の特徴は『自己攪乱（vertical mulching）』にある。乾燥による亀裂に表層の土が落ち、次に濡れるとそれが深部から押し上げられる。これは、知性が自らの思考を常に掻き回し、古い固定観念を深層へ追い込んでゆくプロセスの模倣である。",
+				"この土から生まれる純白の『綿（cotton）』は、漆黒の土壌が到達した、最高の抽象表現なのかもしれない。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "gley",
+		"word": "Gley",
+		"part_of_speech": "noun/adjective",
+		"meaning": "グライ、還元層、灰青色の土",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "glei",
+					"type": "root",
+					"meaning": "clay, slime (粘土、ぬめり)",
+					"lang": "Russian/Ukrainian/Old Norse"
+				}
+			],
+			"original_statement": "Probably from a Slavic or Scandinavian root meaning 'clay' or 'slime'."
+		},
+		"core_concept": {
+			"en": "A sticky, bluish-gray clay soil formed in waterlogged and anaerobic conditions",
+			"ja": "水に浸（ひた）り、酸素を失った（anaerobic）場所で、鉄が錆びることさえ許されずに変色した『灰青色（bluish-gray）』の沈黙。停滞が生んだ、不気味で美しい『還元（reduction）』の極致"
+		},
+		"thinking_layer": "『粘土、ぬめり』。クレイ（Clay/粘土）、グライド（Glide/滑る）、グルー（Glue/糊）と同根。語源は「ぬめりけ」。酸素という生命のエネルギーが絶たれた場所で、大地は「赤（oxidation）」を捨て、「青（reduction）」を選びます。それは。絶望（despair）の淵にありながら、自らを腐敗（decay）させることなく、冷たい静寂の中で自分を保ち続ける、知性の「冬眠（hibernation）」。",
+		"aftertaste": "湿地帯の底から掘り出された「グライ層（gley soil）」の、あの金属的な冷たさを湛（たた）えた灰青色の輝きに、窒息しそうな「孤独（solitude）」と、同時に「誰にも汚されない純粋さ」を感じて息を呑む、あの峻烈な一瞬。あるいは、自分の思考があまりにも「グライ（gley）」な停滞に陥り、外の世界との呼吸（communication）を忘れて（forgetting breath）いないかと危惧する、あの静かな午後の憂鬱。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "glei-",
+					"meaning": "to clay, smear, glue"
+				}
+			],
+			"points": [
+				"clay, glue, gluten, glass（？） 同根。",
+				"『還元（reduction）』とは、本来の形に戻ること。酸素という外敵との接触を断たれたグライ（gley）は、大地が本来持っていた『冷たい金属的な色』を取り戻した、一種の先祖返り（atavism）なのかもしれない。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
