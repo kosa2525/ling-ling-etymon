@@ -272385,5 +272385,205 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "precinct",
+		"word": "Precinct",
+		"part_of_speech": "noun",
+		"meaning": "管区、選挙区、境界線、構内",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "prae-",
+					"type": "prefix",
+					"meaning": "before (前に)"
+				},
+				{
+					"text": "cingere",
+					"type": "root",
+					"meaning": "to gird, surround (帯びる、囲む)', from Latin"
+				}
+			],
+			"original_statement": "From Latin praecinctum, from praecingere 'gird about', from prae- 'before' + cingere 'gird'."
+		},
+		"core_concept": {
+			"en": "The area within the walls or perceived boundaries of a particular building or place",
+			"ja": "あらかじめ（pre）聖なる帯（belt）で囲い込まれた、秩序の結晶体。混沌とした世界から一片の土地を切り出し、独自の法を打ち立てる、知的な『領域の画定』"
+		},
+		"thinking_layer": "『あらかじめ囲まれた場所』。サクシンプト（Succinct/簡潔な＝下に帯びた）、シンクチャー（Cincture/帯）、おなじみの「プレ（前に）」と同根。語源は「帯で囲まれること」。ただの「区域（area）」ではありません。そこには。「外部の汚れを寄せ付けないために、自らの周りに不可視の『結界（boundary）』を張り巡らす」という、峻烈な神聖さと防衛の意志が宿っています。それは。知性が自らの思考の中心（core）を守るために、厳格なルールという名の「帯」を締め直す瞬間のメタファー。",
+		"aftertaste": "静まり返った大聖堂の「構内（precinct）」に足を踏み入れ、一歩跨（また）ぐだけで空気の「密度」が変わるあの不思議な感触に、人間の意志が空間をいかに変容させ得るかを知り、深い畏敬を覚える、あの知的な平安。あるいは、自分の思考もまた、この「プリシンクト」のように、不純な動機を寄せ付けないための「誇り高い境界線」を備えていたい、と願う、あの静かな午後の自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kenk-",
+					"meaning": "to gird, bind (forming cingere)"
+				}
+			],
+			"points": [
+				"succinct, cincture, shingles（帯状疱疹） 同根。",
+				"『囲む（girding）』ことは、強さを凝縮することである。プリシンクトは、生命が広大すぎる全（all）から、あえて一部（part）を切り離すことで、そこを『聖なる（sacred）』場所へと昇華させてきたという、空間的な錬金術の記録である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "enclave",
+		"word": "Enclave",
+		"part_of_speech": "noun",
+		"meaning": "飛び地（とびち）、包領",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "en-",
+					"type": "prefix",
+					"meaning": "in (中に)"
+				},
+				{
+					"text": "clavis",
+					"type": "root",
+					"meaning": "key (鍵)', from Latin claudere 'to shut'"
+				}
+			],
+			"original_statement": "From French enclaver 'enclose', from Latin in- 'in' + clavis 'key'."
+		},
+		"core_concept": {
+			"en": "A portion of territory within or surrounded by a larger territory whose inhabitants are culturally or ethnically distinct",
+			"ja": "他者の海（strangers）の中に浮かぶ、閉ざされた『鍵のかかった（keyed）』孤島。同質性の殻に閉じこもり、異質な圧力の中で自らの文化を守り抜く、知的な『抵抗の小宇宙』"
+		},
+		"thinking_layer": "『中を鍵で締めること』。クローズ（Close/閉じる）、エクスクルーシブ（Exclusive/排他的な）、おなじむ「コンクラーベ（Conclave/鍵のかかった部屋）」と同根。語源は「鍵で閉じ込める」。ただの「飛び地」ではありません。そこには。「周囲との妥協を拒み、自らの純粋性を保つために、あえて『包囲（encirclement）』という過酷な運命を受け入れる」という、峻烈なアイデンティティの主張が宿っています。それは。知性が主流の論理に染まることを拒み、自らの中に「独自の真理」を封印してゆくプロセスの象徴。",
+		"aftertaste": "地図上で、巨大な帝国の中心にポツンと残された小さな「飛び地（enclave）」の存在に、多勢に無勢（odds）をものともしない「不屈の魂」を感じ、微かな、しかし確かな連帯感を覚える、あの知的な共鳴。あるいは、自分の思考の中にも、この「アンクレイヴ」のように、誰にも侵されない「自分だけの聖域」が常に鍵をかけて守られていることを誇りに思う、あの静かな夜の自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "klau-",
+					"meaning": "hook, peg, key (forming claudere)"
+				}
+			],
+			"points": [
+				"close, clause, cloiser, exclude, conclude 同根。",
+				"『鍵（key）』は所有と防衛の究極のシンボルである。アンクレイヴという言葉には、生命が自らの本質を『持ち運ぶ（mobile）』ことを諦め、特定の場所に『根付く（rooted）』ことで、その純粋性を死守しようとした、防衛的な決断の歴史が眠っている。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "interdiction",
+		"word": "Interdiction",
+		"part_of_speech": "noun",
+		"meaning": "禁止（きんし）、封鎖、聖職停止",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "inter-",
+					"type": "prefix",
+					"meaning": "between (間に)"
+				},
+				{
+					"text": "dicere",
+					"type": "root",
+					"meaning": "to say (言う)', from Latin"
+				}
+			],
+			"original_statement": "From Latin interdictio, from interdicere 'interpose a decree', from inter- 'between' + dicere 'say'."
+		},
+		"core_concept": {
+			"en": "The action of prohibiting or forbidding something",
+			"ja": "二つの世界の『間に（inter）』言葉の楔（wedge）を打ち込み、交わりを断絶する峻烈な『宣告（edict）』。不純な接近を法的な沈黙で圧殺し、境界線を絶対的なものへと作り変える、知的な『禁止の断崖』"
+		},
+		"thinking_layer": "『間に言うこと』。ディクショナリー（Dictionary/辞書）、ディテイト（Dictate/命令する）、おなじみの「インター（間に）」と同根。語源は「法的な介入の言葉」。ただの「禁止」ではありません。そこには。「言葉そのものを壁（wall）に変え、行動の自由を奪うことで、秩序を強制的に回復させる」という、峻烈な権力の響きが宿っています。それは。知性が自らの平穏を乱す衝動（impulse）に対して、自律的な「宣告」を下し、聖域への侵入を未然に防ぐ瞬間のメタファー。",
+		"aftertaste": "厳格な「禁止令（interdiction）」の下で、それまで当然だった自由が剥奪（deprivation）される瞬間の、あの寒々とした『空白』に、世界の秩序とはいかに「脆（もろ）い均衡の上の言葉」に過ぎないのかを悟り、身震いする、あの峻烈な一呼吸。あるいは、自分の心の中にも、この「インテルディクション」のような強靭な「倫理の門」を備え、自らを堕落（corruption）から守り抜くという、気高い自制心を全うしたい、と願う、あの静かな午後の自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "deik-",
+					"meaning": "to show, point out (forming dicere)"
+				}
+			],
+			"points": [
+				"index, indicate, condition, judge 同根。",
+				"『言う（saying）』ことは、真実を『指し示す（showing）』ことである。インテルディクション（interdiction）という言葉には、言葉が単なるコミュニケーションの道具であることを止め、物理的な移動を制限する『重力』として機能するという、言霊（kotodama）の西洋的な解釈が含まれている。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "excommunication",
+		"word": "Excommunication",
+		"part_of_speech": "noun",
+		"meaning": "破門（はもん）、追放、交流の断絶",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "ex-",
+					"type": "prefix",
+					"meaning": "out of (外へ)"
+				},
+				{
+					"text": "communis",
+					"type": "root",
+					"meaning": "common (共通の)', from Latin"
+				}
+			],
+			"original_statement": "From Latin excommunicatio, from ex- 'out' + communicare 'share'."
+		},
+		"core_concept": {
+			"en": "The action of officially excluding someone from participation in the sacraments and services of the Christian Church",
+			"ja": "共通の絆（community）から引き剥がし、永遠の『孤独の荒野』へと追放する、究極の社会的断罪。個を全体という守護から切り離すことで、その存在を無効化する、知的な『存在の抹消』"
+		},
+		"thinking_layer": "『共通から外に出すこと』。コミュニケーション（Communication/伝達）、コモン（Common/共通の）、おなじみの「EX（外へ）」と同根。語源は「交流の停止」。ただの「仲間外れ」ではありません。そこには。「自らの集団の純粋性を守るために、有害な分子を外科的に摘出（excise）する」という、組織的な防衛本能が宿っています。それは。知性が自らの思考を健全に保つために、自分を騙（だま）そうとする偽りのアイディアを、容赦なく「破門」してゆく格闘。 ",
+		"aftertaste": "かつての聖職者がこの「破門（excommunication）」によって社会的な死を宣告され、暗闇の淵を彷徨（さまよ）う様子を想い、絆（connection）がいかに生命にとっての「酸素」であったかを知り、深い空腹感を覚える、あの知的な平安。あるいは、自分の思考が、この「エクスコミュニケーション」のような峻烈な正義を備え、いかなる虚偽もその聖域に入れることを許さない、という誇り高い「孤高のプライド」を愛でる、あの静かな夜の自尊心。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "mei-",
+					"meaning": "to change, exchange (forming communis)"
+				}
+			],
+			"points": [
+				"common, commute, mutual, mean 同根。",
+				"『共通（common）』であることは、お互いに何かを『交換（exchange）』し合っている状態である。破門は、その交換の回路を物理的、あるいは霊的に切断（disconnect）することで、対象を『無』へと帰すという、峻烈な無の贈与である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "disenfranchisement",
+		"word": "Disenfranchisement",
+		"part_of_speech": "noun",
+		"meaning": "参政権の剥奪、市民権の奪取、発言権の喪失",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "dis-",
+					"type": "prefix",
+					"meaning": "away, apart (引き離して)"
+				},
+				{
+					"text": "en-",
+					"type": "prefix",
+					"meaning": "in, into (中に)"
+				},
+				{
+					"text": "franc",
+					"type": "root",
+					"meaning": "free (自由な)', from Old French frank"
+				}
+			],
+			"original_statement": "From dis- + enfranchisement, from franc 'free'."
+		},
+		"core_concept": {
+			"en": "The state of being deprived of a right or privilege, especially the right to vote",
+			"ja": "自由に振る舞う権利（freedom）を合法的に奪い去り、世界を変える力を無効化する、沈黙の『檻（cage）』。社会へのコミットメントを禁じられ、透明な幽霊（ghost）へと変貌させられる、知的な『権利の簒奪（expropriation）』"
+		},
+		"thinking_layer": "『自由の中にいる状態を解くこと』。フランク（Frank/率直な）、フランス（France/自由な民の国）、おなじみの「ディス（～しない）」と同根。語源は「自由を奪う」。ただの「差別（discrimination）」ではありません。そこには。「自分たちの地位を守るために、他者の意志を構造的に殺害する」という、狡知に満ちたシステムの暴力が宿っています。それは。知性が自分自身に対して「どうせ何も変わらない」という絶望という名の呪いをかけ、自らの可能性を「剥奪」してしまう瞬間の、静かなる自壊。 ",
+		"aftertaste": "この「剥奪（disenfranchisement）」によって、自分の声が誰にも届かなくなった時の、あの耳を劈（つんざ）くような孤独の轟音を幻聴し、自由とはいかに「守らなければ一瞬で消え去る砂上の楼閣」であるかを知り、拳を握りしめる、あの峻烈な一呼吸。あるいは、自分の言葉が、この「ディスエンフランチャイズメント」に苦しむ人々の心の鍵を開け、再び世界を塗り替えるための「パスポート（freedom）」となることを願う、あの静かな午後の献身。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"『フランク（frank）』という言葉は、かつて自由な身分であったゲルマン民族のフランク族に由来する。この言葉には、自由とは天から降ってくるものではなく、特定の『身分（status）』として獲得し、死守すべきものであるという、冷徹な歴史の真実が刻まれている。",
+				"剥奪されるのは、単なる投票権ではなく、世界に参加しているという『実感』そのものである。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
