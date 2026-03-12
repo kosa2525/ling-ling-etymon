@@ -257238,5 +257238,91 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "malodorous",
+		"word": "Malodorous",
+		"part_of_speech": "adjective",
+		"meaning": "悪臭を放つ、不快な臭いのする",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "mal-",
+					"type": "prefix",
+					"meaning": "bad (悪い)"
+				},
+				{
+					"text": "odor",
+					"type": "root",
+					"meaning": "smell (臭い)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From mal- 'bad' + odorous."
+		},
+		"core_concept": {
+			"en": "Smelling very unpleasant",
+			"ja": "本来あるべき健全な香りが損なわれ、徹底的に『悪い（bad）』方向へと転じてしまった『臭い（smell）』。調和の崩壊、あるいは管理の行き届かない不潔さが生む、物理的・道徳的な不快感"
+		},
+		"thinking_layer": "『悪い臭いの』。マル（Mal-/悪い）とオドール（Odor/臭い）の組み合わせ。マレヴォレント（Malevolent/悪意のある）やマフィア（諸説あり）と同根。フェティッドが「腐敗」を強調するのに対し、マロドラスはその「質の悪さ」を客観的に宣告する響きがあります。それは洗っていない衣服の臭いから、組織の中に漂う不穏な「腐敗の兆候」まで。",
+		"aftertaste": "雨上がりの蒸し暑いバスの中で、他人の発する「悪臭（malodor）」に囲まれながら、自分の人間性が少しずつ削り取られてゆく、あのやりきれない虚脱感。あるいは、立派な肩書きを持つ人物が放った、あまりにも下劣で「不快な（malodorous）」一言に、彼のすべての過去の業績が汚染されてゆくのを眺める時の、冷めた失望。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "mel-",
+					"meaning": "bad, wrong (forming mal-)"
+				},
+				{
+					"term": "od-",
+					"meaning": "to smell (forming odor)"
+				}
+			],
+			"points": [
+				"malfunction, malevolent, olfactory（臭いを嗅ぐ）, odious（嫌悪すべき）と同根。",
+				"『悪い（mal-）』ことと『臭い（odor）』を結びつけることは、知性が対象を『害（toxic）』であると判断するための、最も高速で直感的な分類法である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "effluvium",
+		"word": "Effluvium",
+		"part_of_speech": "noun",
+		"meaning": "流出物、不快な発散物、悪臭、目に見えない放射",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "ex-",
+					"type": "prefix",
+					"meaning": "out (外へ)"
+				},
+				{
+					"text": "fluere",
+					"type": "root",
+					"meaning": "to flow (流れる)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin effluvium, from effluere 'flow out', from ex- 'out' + fluere 'flow'."
+		},
+		"core_concept": {
+			"en": "An unpleasant or harmful odor, secretion, or discharge; an invisible emanation",
+			"ja": "物質の内部からじわじわと『外へ（out）』『流れ出して（flow）』くる、目に見えない微粒子や臭いの波。触れることはできないが、確実にその場を支配し、あるいはじわじわと汚染してゆく、不気味な放射物"
+		},
+		"thinking_layer": "『流れ出すもの』。流動体（Fluid）やインフルエンザ（Influenza/影響＝星から流れ出すもの）、コンフルエンス（Confluence/合流）と同根。化学的な蒸気から、死体から漂う「不浄な空気」、あるいは邪悪な人物が放つ「禍々しいオーラ」まで。それは、物体の「境界（boundary）」が曖昧になり、周囲へと溶け出していく、不穏なプロセス。 ",
+		"aftertaste": "古い廃墟に一歩足を踏み入れた瞬間に感じる、湿ったカビと時間の堆積が混ざり合った「淀んだ空気（effluvium）」の、あの肺を重くさせる質感。あるいは、あまりにも多くの欲望が渦巻くパーティ会場で、人々の熱狂から「発散される（effluvium）」、ある種の中毒的な毒気に頭がクラリとする、あの酩酊。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "bhleu-",
+					"meaning": "to swell, flow"
+				}
+			],
+			"points": [
+				"fluid, flush, fluent, flow, bloom 同根の説あり。",
+				"『流れる（flowing）』ことは本質的に『膨らみ（swelling）』の結果であり、その限界を超えて溢れ出したものが、時に『悪臭（effluvium）』として世界を汚染する。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
