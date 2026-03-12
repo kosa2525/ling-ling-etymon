@@ -264485,5 +264485,205 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "chancel",
+		"word": "Chancel",
+		"part_of_speech": "noun",
+		"meaning": "内陣（ないじん）、（教会の）祭壇囲い",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "cancelli",
+					"type": "root",
+					"meaning": "latticework, grating (格子細工)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin cancelli 'latticework'."
+		},
+		"core_concept": {
+			"en": "The part of a church near the altar, reserved for the clergy and choir, and typically separated from the nave by steps or a screen",
+			"ja": "祭壇に近い、極めて神聖な領域。かつては『格子（latticework）』によって俗世から峻別（shunbetsu）されていた、祈りの最前線。知性が神性と向き合うための、沈黙の座"
+		},
+		"thinking_layer": "『格子の内側』。キャンセル（Cancel/格子を引いて抹消する）、キャンセラー（Canceller）、カウンシル（Council/おそらくな）と同根。語源は「格子」。ただの「空間」ではありません。それは、特定の資格（quality）を持つ者だけが入ることを許される、選ばれし者の場所。それは、自分の心の中に設けた「不可侵の祭壇（inviolable altar）」、あるいは、誰にも邪魔されたくない至高の思索の場。 ",
+		"aftertaste": "薄暗い教会の「内陣（chancel）」に足を踏み入れ、その『格子』で守られた静寂の密度に圧倒され、自分の魂が一点に「濃縮（concentrate）」されてゆくのを感じる、あの峻烈な一瞬。あるいは、大切な秘密を話すために、自分の言葉をわざとこの「祭壇囲い（chancel-like boundary）」の中に閉じ込め、限られた他者にだけ差し出そうとする、あの慎ましくも傲慢な独占欲。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ker-",
+					"meaning": "basket, weaving (forming cancelli?)"
+				}
+			],
+			"points": [
+				"basket, hurdle, career 同根の説あり。",
+				"『格子（grating）』とは、視線を許しながらも『接触』を拒むという、矛盾した境界の形式である。チャンセル（chancel）という建築の言葉には、神聖なものから適度な距離（distance）を保つための知恵が刻まれている。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "clerestory",
+		"word": "Clerestory",
+		"part_of_speech": "noun",
+		"meaning": "高窓、クリアストーリー、（教会のナブの）最上層の窓",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "clear",
+					"type": "root",
+					"meaning": "bright, light (明るい、光)",
+					"lang": "English"
+				},
+				{
+					"text": "story",
+					"type": "root",
+					"meaning": "floor, level (階層)",
+					"lang": "English"
+				}
+			],
+			"original_statement": "From clear + story (floor)."
+		},
+		"core_concept": {
+			"en": "The upper part of the nave, choir, and transepts of a large church, containing a series of windows. It is clear of the roofs of the aisles and admits light to the central parts of the building",
+			"ja": "巨大な教会の大空間を照らすために、屋根のすぐ下の高い位置に穿（うが）たれた『光の階層（clear story）』。地上からは見上げるしかない高みから、降り注ぐ『祝福の光』を受け入れるための開口部"
+		},
+		"thinking_layer": "『明るい階層』。クリア（Clear）、ストーリー（Story/階、物語）と同根。語源は「光に満ちた階」。通常の窓よりも高く、視界は遮（さえぎ）られていますが、そこから入る光は最も純粋です。それは、世俗の雑音（noise of the world）を遮断し、天上からの「啓示（revelation）」を一途に待ち受ける、知性の垂直な指向性。 ",
+		"aftertaste": "「高窓（clerestory）」から差し込む幾筋もの光の帯が、埃（dust）をきらめかせながら床に落ちるのを見つめ、救済（salvation）が常に自分の頭上にあるのだと確信する、あの静かな午後の祈り。あるいは、自分の思考がこの「クリアストーリー（clerestory）」のように高く澄み渡り、地上の些細な混濁（muddiness）を見下ろしていると自覚する時の、あの冷ややかな高揚感。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"『透明（clear）』であることは、存在を消すことではなく、光を『仲介（mediation）』すること。クリアストーリー（clerestory）は、建築がいかに重力を超えて『光』を主題にし得たかを示す。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "triforium",
+		"word": "Triforium",
+		"part_of_speech": "noun",
+		"meaning": "トリフォリウム、アーケード上の回廊",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "tri-",
+					"type": "prefix",
+					"meaning": "three (三つの)",
+					"lang": "Latin"
+				},
+				{
+					"text": "foris / foramen",
+					"type": "root",
+					"meaning": "opening, door (開口部、扉)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Medieval Latin triforium, perhaps from tri- 'three' + foris 'door'."
+		},
+		"core_concept": {
+			"en": "A gallery or arcade above the arches of the nave, choir, and transepts of a church",
+			"ja": "教会の高い壁面に刻まれた、三つのアーチが連なる『神秘的な回廊（opening）』。クリアストーリーの下に位置し、建築の構造と装飾が溶け合う、中間的な『隠された空間』"
+		},
+		"thinking_layer": "『三つの開口部』。トリプル（Triple）、おなじみ「トライ（三）」、そしてフォーラム（Forum/広場＝扉の外にある場所）と同根。語源は「三つの扉」。実際に歩ける回廊であることもあれば、ただの飾り（blind triforium）であることも。それは、主役にはなれないけれど、存在することで空間の「深み」と「リズム」を決定づける、脇役の知性。知の「余剰（excess）」。",
+		"aftertaste": "天井に近い「トリフォリウム（triforium）」の暗がりに、誰の視線も届かぬまま、精緻な（exquisite）装飾が施されているのを知り、神という究極のオーディエンスに向けてのみ捧げられた職人の「孤独な誠実さ」に涙する、あの静かな感動。あるいは、自分の人生の表舞台（nave）の影に、このような「三連の門（three-fold gates）」のような、無数の秘密の通路（secret paths）が隠されているのではないかと妄想する、あの不思議な充足。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "trei-",
+					"meaning": "three"
+				},
+				{
+					"term": "dhwer-",
+					"meaning": "door"
+				}
+			],
+			"points": [
+				"three, thirteen, door, forum, foreign, forest 同根。",
+				"『三（three）』という数字は安定と神性を象徴し、『扉（door）』はその境界を越える契機（moment）である。トリフォリウム（triforium）は、建築における『移行』と『装飾』の究極の接点である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "baptistery",
+		"word": "Baptistery",
+		"part_of_speech": "noun",
+		"meaning": "洗礼堂、バプテステリウム",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "baptizein",
+					"type": "root",
+					"meaning": "to dip, immerse (浸す、埋没させる)",
+					"lang": "Greek"
+				}
+			],
+			"original_statement": "From Greek baptistērion, from baptizein 'immerse'."
+		},
+		"core_concept": {
+			"en": "The part of a church used for baptism; a separate building used for baptism",
+			"ja": "水の中に古い自分を『埋没させ（immerse）』、全く新しい存在として生まれ変わるための、再生の揺りかご。過去を洗い流し、新しい名前と役割を授けられる、神秘的な『脱皮の場』"
+		},
+		"thinking_layer": "『浸す場所』。バプテスマ（Baptism/洗礼）と同根。語源は「どっぷりと浸すこと」。ただの「水浴び」ではありません。それは「死と再生（death and rebirth）」のシミュレーション。水に潜ることは、一度この世界から「消える」ことであり、浮上することは、新しい「光」を掴むことです。知性が古い価値観を捨て、新しい真理へと「洗礼」を受けるための、覚悟の空間。",
+		"aftertaste": "静寂に包まれた「洗礼堂（baptistery）」の中で、水面に反射する揺れる光を見つめ、自分もまた何か大きなものに「どっぷりと浸かり（be immersed）」、昨日までの自分を捨てて（casting off）生まれ変わりたいと願う、あの峻烈な再生の渇望。あるいは、自分の言葉が、この「バプテステリ（baptistery）」の水のように、誰かの汚れた心を清め、新しい希望を授ける「奇跡（miracle）」になり得るのではないかと夢想する、あの静かな午後の祈り。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "gwabh-",
+					"meaning": "to dip, sink (forming baptizein)"
+				}
+			],
+			"points": [
+				"baptize, dip 同根の説あり。",
+				"『浸す（dipping）』という行為は、物質が元の形を保ちつつも『別の性質』を纏うための儀式である。バプテステリ（baptistery）は、その可逆的な変容を、不可逆的な『魂の成長』へと繋ぎ止めるための、石の装置である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "iconostasis",
+		"word": "Iconostasis",
+		"part_of_speech": "noun",
+		"meaning": "イコノスタシス、聖障、イコン隔壁",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "eikōn",
+					"type": "root",
+					"meaning": "image, likeness (像、イコン)",
+					"lang": "Greek"
+				},
+				{
+					"text": "stasis",
+					"type": "root",
+					"meaning": "standing, placement (立つこと、配置)",
+					"lang": "Greek"
+				}
+			],
+			"original_statement": "From Greek eikonostasis, from eikōn 'image' + stasis 'standing'."
+		},
+		"core_concept": {
+			"en": "A screen bearing icons, separating the sanctuary of many Eastern churches from the nave",
+			"ja": "無数の聖なる『像（images）』が整然と『立ち（standing）』並び、地上の民と天上の神秘を分かつ、絢爛（kenran）たる隔壁。見ること（seeing）を許しながらも、触れること（touching）を拒む、知的な畏怖の壁"
+		},
+		"thinking_layer": "『像が立っている場所』。イコン（Icon/聖像）、おなじみ「ステイシス（Stasis/静止、配置）」、そして「スタンス（Stance）」と同根。語源は「イコンの配置」。東方教会の特徴的な壁。それは。単なる「仕切り（partition）」ではなく、そこに描き出された聖人たちの視線を通じて、私たちは「別の世界」を覗き込みます。それは。現実と理想の間に横たわる、決して越えられない、しかし見つめ続けるべき「黄金の境界線（golden boundary）」。",
+		"aftertaste": "「聖障（iconostasis）」の向こう側の影（sanctuary）に、何らかの究極の真理が隠されているのではないかと予感し、その壁に描かれたイコンの瞳に射すくめられて、自らの「分をわきまえる（knowing one's place）」あの厳かな沈黙。あるいは、自分の言葉そのものが、この「イコノスタシス（iconostasis）」のような煌（きら）びやかな仮面となり、自分の本当の孤独（inner solitude）を隠し、同時に美しく演出しているのだと悟る、あの静かな夜の自己投射。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "weik-",
+					"meaning": "to resemble (forming eikōn)"
+				},
+				{
+					"term": "sta-",
+					"meaning": "to stand (forming stasis)"
+				}
+			],
+			"points": [
+				"icon, iconic, stand, state, statue, static 同根。",
+				"『似ている（resembling）』ことは『等価』ではない。そして『立っている（standing）』ことは『静止』ではない。イコノスタシス（iconostasis）は、模倣（mimesis）と不動（fixity）が一点で交差する、知性のための『視覚的な防波堤』である。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
