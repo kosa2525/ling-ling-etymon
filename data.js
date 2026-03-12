@@ -252775,5 +252775,87 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "primordial",
+		"word": "Primordial",
+		"part_of_speech": "adjective",
+		"meaning": "原始の、最初の、根本的な",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "primus",
+					"type": "root",
+					"meaning": "first (最初の)",
+					"lang": "Latin"
+				},
+				{
+					"text": "ordiri",
+					"type": "root",
+					"meaning": "to begin a web (織り始める)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin primordialis, from primus 'first' + ordiri 'begin'."
+		},
+		"core_concept": {
+			"en": "Existing at or from the beginning of time; (of a feeling) basic and fundamental",
+			"ja": "あらゆる形（秩序）ができる前、宇宙のスープが沸き立ち、最初のタテ糸が『織られ（begin a web）』始めた時の、混沌と可能性が混ざり合った『始原の』状態"
+		},
+		"thinking_layer": "『最初に織り始めること』。プライム（Prime）やオーダ（Order/秩序）と同根。洗練される前の、剥き出しで野生的な力。私たちの心の奥底に眠っている、言語化される前の原初的な恐怖や情熱。すべての「始まり」の記憶を呼び覚ます、震えるような生命の響き。",
+		"aftertaste": "熱い泥の中に立ち上がる、最初の生命の鼓動。あるいは、理性を失った瞬間の瞳に宿る、何万年も前の祖先と同じ野生の鋭い輝き。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "per-",
+					"meaning": "forward"
+				},
+				{
+					"term": "ar-",
+					"meaning": "to fit together"
+				}
+			],
+			"points": [
+				"first, priest, order, ordinary 同根。",
+				"『最初（first）』の『接合（fitting）』が、この宇宙という巨大な織物（order）を決定した。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "corona",
+		"word": "Corona",
+		"part_of_speech": "noun",
+		"meaning": "コロナ、王冠、後光",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "korōnē",
+					"type": "root",
+					"meaning": "garland, crown, curved thing (花輪、王冠、曲がったもの)",
+					"lang": "Greek"
+				}
+			],
+			"original_statement": "From Latin corona 'crown'."
+		},
+		"core_concept": {
+			"en": "The rarefied gaseous envelope of the sun and other stars; a crown or crownlike structure",
+			"ja": "太陽という王の周囲を取り巻く、揺らめく光の『王冠（crown）』。中心のあまりに強すぎる輝きによって隠されているが、闇（日食）が訪れた時にのみ姿を現す、繊細で複雑な光の層"
+		},
+		"thinking_layer": "『冠』。クラウン（Crown）や、花の冠（Corolla）と同根。普段は見えないが、決定的な瞬間にだけ露わになる、その人の持つ高貴さや隠された正体。中心から溢れ出たエネルギーが、虚空と溶け合う境界線に見せる、揺らめくドラマ。",
+		"aftertaste": "黒い太陽の周りに浮かび上がる、透き通った真珠色の光のベール。あるいは、沈黙を守り続けてきた人が、怒りや悲しみの極致で一瞬だけ見せる、神々しいまでの威厳。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sker-",
+					"meaning": "to turn, bend"
+				}
+			],
+			"points": [
+				"court, circle, chorus（円坐）、coronary 同根。",
+				"『円環（circle）』をなして『曲がること（bend）』が、何かに『王としての形（crown）』を与える。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
