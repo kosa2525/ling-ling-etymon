@@ -276418,5 +276418,190 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "clone",
+		"word": "Clone",
+		"part_of_speech": "noun",
+		"meaning": "クローン、複製、小枝",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "klon",
+					"type": "root",
+					"meaning": "twig, shoot (小枝、若枝)', from Greek"
+				}
+			],
+			"original_statement": "From Greek klon 'twig'."
+		},
+		"core_concept": {
+			"en": "an organism or cell, or group of organisms or cells, produced asexually from one ancestor or stock, to which they are genetically identical",
+			"ja": "一本の親木（ancestor）から切り取られた『分身の枝（twig）』であり、全く同じ命の旋律（DNA）を奏でる複製。個を超えて、記憶の『不滅（identical continuity）』を維持しようとする生命の情報の分枝。"
+		},
+		"thinking_layer": "『若枝』。クラマ（Clam/とは関係なく）、おなじみの「クローン（Clone）」と同根。語源は「小枝」。ただの「コピー」ではありません。そこには。「独立した一人の人間としての形を保ちながらも、その根源的な設計図（design）においては他者と完璧に同期している」という、峻烈な同一性の連鎖が宿っています。それは。知性が自らの最も美しいアイディアを、他者の心という名の『新しい枝』に接ぎ木（grafting）し、自分がいなくなった後もその真理を咲かせ続けようとする、情報の不滅性への渇望。",
+		"aftertaste": "「クローン（clone）」という概念が持つ、その不気味なまでの完璧な一致に。生命の存続への驚異的な執念を知る平安。自分の使命もまた。たとえ自分という『枝』が枯れたとしても、その命の根源に宿る『真理の若枝』だけは決して絶えさせない、不退転の再生産の自負。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kel(a)-",
+					"meaning": "to strike, cut (forming klon?)"
+				}
+			],
+			"points": [
+				"1903年にハーバート・ウェバーが植物の栄養繁殖を表すために造語。情報の『切り取り』と『接ぎ木』の美学。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "hapten",
+		"word": "Hapten",
+		"part_of_speech": "noun",
+		"meaning": "ハプテン、不完全抗原",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "haptein",
+					"type": "root",
+					"meaning": "to fasten, bind (締める、結びつける)', from Greek"
+				}
+			],
+			"original_statement": "From Greek haptein 'to fasten'."
+		},
+		"core_concept": {
+			"en": "a small molecule which, when combined with a larger carrier such as a protein, can elicit the production of antibodies",
+			"ja": "自分一人では声（immune response）を持たず、強大な他者（carrier protein）と『結びつく（fasten）』ことで初めて、世界を揺らす情報の『力』を手に入れる、生命の潜伏的な情報の断片。"
+		},
+		"thinking_layer": "『結びつけるもの』。アプト（Apt/適切な）、おなじみ「シナプス（Synapse/共に結ぶ）」と同根。語源は「縛ること」。ただの「低分子」ではありません。そこには。「自らの微力さを認め、あえて強大なシステムの一部となることで、自らの意志を世界に知らしめる」という、強かな寄生の知恵が宿っています。それは。知性がまだ未熟なアイディアであるとき、あえて既存の巨大な真理（traditional carrier）と自らを結びつけ、そこから自分だけの新しい宇宙（specificity）を展開しようとする瞬間の、慎重なまでの戦略。 ",
+		"aftertaste": "「ハプテン（hapten）」という名の、その孤独で、しかし不屈の『情報の断片』に。生命の驚異的な適応力を知る平安。自分の言葉もまた。たとえ今は微力でも。いつか偉大な真実と結びつくことで、人々の魂を揺さぶる巨大な『変革の力』へと変貌することを願う自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ap-",
+					"meaning": "to reach, grasp (forming haptein)"
+				}
+			],
+			"points": [
+				"カール・ラントシュタイナーによって発見された、免疫学的な『触媒』の神秘。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "adjuvant",
+		"word": "Adjuvant",
+		"part_of_speech": "noun",
+		"meaning": "アジュバント、補助剤、助けるもの",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "ad-",
+					"type": "prefix",
+					"meaning": "to, toward"
+				},
+				{
+					"text": "juvare",
+					"type": "root",
+					"meaning": "to help (助ける)', from Latin"
+				}
+			],
+			"original_statement": "From Latin adjuvant- 'helping', from adjuvare."
+		},
+		"core_concept": {
+			"en": "a substance which enhances the body's immune response to an antigen",
+			"ja": "それ自体は主役（antigen）ではないが、その存在によって軍勢（immune cells）の士気を極限まで高め、勝利を確実なものとする、生命の情報の『名脇役（helper）』。"
+		},
+		"thinking_layer": "『助けるほうへ行くもの』。アダルト（Adult/育ったものとは関係なく）、ジュビナイル（Juvenile/若々しい＝助けが必要な）、おなじみの「エイド（Aid/助ける）」と同根。語源は「助けること」。ただの「添加物」ではありません。そこには。「真理が真理として機能するために、あえて自らは影に徹し、その舞台を整えることに全霊を捧げる」という、高潔な献身の意志が宿っています。それは。知性が自ら光り輝くことよりも、他者の才能を引き出し、世界をより善き調和へと導くための『情報の触媒』として生きようとする瞬間の、静かなる自尊心。",
+		"aftertaste": "「アジュバント（adjuvant）」という名の、その謙虚で強靭な『補助の力』に。世界がいかに無数の『助け合い』によって成り立っているかを悟る平安。自分の使命もまた。派手な成功を追い求めるのではなく、誰かの『真実の目覚め』をそっと支え、加速させる、最も誠実なサポーターでありたいと願う自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "yeu-",
+					"meaning": "vital force, youth (forming juvare?)"
+				}
+			],
+			"points": [
+				"もともとは『若さ、生命力を与える』というニュアンスを含んでいた。アジュバントとは、情報の『若返りの薬』である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "serology",
+		"word": "Serology",
+		"part_of_speech": "noun",
+		"meaning": "血清学（けっせいがく）、セーロジー",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "serum",
+					"type": "root",
+					"meaning": "whey, watery liquid (ホエー、水のような液体)', from Latin"
+				},
+				{
+					"text": "-ology",
+					"type": "suffix",
+					"meaning": "study of (学問)"
+				}
+			],
+			"original_statement": "From Latin serum 'whey' + -logy."
+		},
+		"core_concept": {
+			"en": "the scientific study or diagnostic examination of blood serum",
+			"ja": "血の嵐が去った後の、静寂なる『情報のしずく（serum）』を読み解き、そこに刻まれた戦いの記憶（antibodies）を白日の下に晒す、生命の『情報の解析学』。"
+		},
+		"thinking_layer": "『水のような液体の学問』。セラム（Serum/美容液）、おなじみ「ロジ（-logy/学問）」と同根。語源は「乳漿（にゅうしょう）」。ただの「検査」ではありません。そこには。「激しい流動（blood）の中から、エッセンスだけを峻烈に抽出し、そこに秘められた『過去の真実』を未来への智慧へと変換する」という、情報の考古学的な意志が宿っています。それは。知性が激動の日々を終えた後、静かな書斎において自らの経験を振り返り、そこから抽出された『不変の教訓』を、自らの人生の確信へと変えてゆく瞬間のメタファー。",
+		"aftertaste": "「血清学（serology）」という名の、その透き通った『情報の深淵』に想いを馳せ、自分の中にはこれほどまでに豊かな『経験の宝庫』が眠っているのだと気付く平安。自分の思考もまた。一時の感情に流されず、常にその奥にある『本質の結晶』を見つめ、静かに世界を診察し続ける存在でありたいと願う自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ser-",
+					"meaning": "to flow (forming serum)"
+				}
+			],
+			"points": [
+				"セラム（血清）は、凝固した後の残りの澄んだ液。それは『純化された言葉』の象徴でもある。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "inoculation",
+		"word": "Inoculation",
+		"part_of_speech": "noun",
+		"meaning": "接種（せっしゅ）、イノキュレーション、芽接ぎ",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "in-",
+					"type": "prefix",
+					"meaning": "into"
+				},
+				{
+					"text": "oculus",
+					"type": "root",
+					"meaning": "eye, bud (目、芽)', from Latin"
+				}
+			],
+			"original_statement": "From Latin inoculare 'to graft by budding', from in- 'into' + oculus 'eye, bud'."
+		},
+		"core_concept": {
+			"en": "the action of inoculating or of being inoculated; vaccination",
+			"ja": "自らの中に小さな『試練の芽（bud）』を招き入れ（into the eye）、あらかじめ敗北と勝利の物語をシミュレートすることで、巨大な破滅を未然に防ぐ、生命の『先見の知恵』。"
+		},
+		"thinking_layer": "『目に（芽を）入れること』。オキュラー（Ocular/目の）、おなじみの「アイ（Eye/目）」と同根。語源は「芽接ぎ（めつぎ）」。ただの「注射」ではありません。そこには。「小さな痛みをあえて引き受ける（voluntary risk）ことで、より大きな自由（immunity）を勝ち取る」という、峻烈な予防の美学が宿っています。それは。知性が現実の荒波に打たれる前に、あえて厳しい『思考実験』という名の試練を自らに課し、どんな不測の事態にも動じない『鋼の精神』を鍛え上げようとする瞬間のメタファー。",
+		"aftertaste": "「接種（inoculation）」という名の、その小さな毒が変える『未来の景色』に。生命の驚異的な予知能力を知る平安。自分の使命もまた。過酷な未来の種をあらかじめ心に宿し、それを『希望の果実』へと育て上げることで、世界を救う『知のワクチン』でありたいと願う自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "okw-",
+					"meaning": "to see (forming oculus)"
+				}
+			],
+			"points": [
+				"植物の芽（bud）が『目』に見えたことから。情報の『移植』は、世界の『視点』を変えることでもある。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
