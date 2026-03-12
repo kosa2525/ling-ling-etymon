@@ -261665,5 +261665,165 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "astigmatism",
+		"word": "Astigmatism",
+		"part_of_speech": "noun",
+		"meaning": "乱視、非点収差",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "a-",
+					"type": "prefix",
+					"meaning": "not, without (〜でない)"
+				},
+				{
+					"text": "stigma",
+					"type": "root",
+					"meaning": "point, mark (点、しるし)",
+					"lang": "Greek"
+				}
+			],
+			"original_statement": "From Greek a- 'without' + stigma 'point'."
+		},
+		"core_concept": {
+			"en": "A defect in the eye or in a lens caused by a deviation from spherical curvature, which results in distorted images, as light rays are prevented from meeting at a common focus",
+			"ja": "一点に収束すべき光が、レンズの歪みによって『焦点（point）』を失い、世界を幾重にも重なった虚像へと変貌させてしまう状態。中心を欠いた、輪郭の曖昧な知覚"
+		},
+		"thinking_layer": "『点（焦点）がないこと』。スティグマ（Stigma/聖痕、不名誉な印）や、おなじみの「アルファベットのＡ（否定）」、ステーション（Station/立つ場所＝点？）はおそらくな。語源は「点がない」。中心（focus）を一つに絞れないため、まっすぐな線が曲がり、光が滲みます。それは、あまりにも多くの情報に惑わされ、何が「真実の中心（stigma）」なのかを見失いかけている、現代人の混乱のメタファー。",
+		"aftertaste": "夕暮れの街灯が、乱視（astigmatism）の瞳の中で何重もの「光の輪羽（halo）」となって広がるのを眺める時の、あの美しくも不安な世界の「崩壊」の予感。あるいは、自分の信念が「一点（point）」に定まらず、可能性の海の中でゆらゆらと揺れている状態を、あえて「豊かな乱視（rich astigmatism）」だと肯定してみる、あの静かな午後の自己受容。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "steig-",
+					"meaning": "to stick, point (forming stigma)"
+				}
+			],
+			"points": [
+				"stick, distinguish, instigate, sting 同根。",
+				"『真理（truth）』とは本来は鋭い一点（point）として存在するが、それを受け止める側の歪み（distortion）によって、それは無数の『解釈（halo）』へと拡散されてゆく。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "hyperopic",
+		"word": "Hyperopic",
+		"part_of_speech": "adjective",
+		"meaning": "遠視の、遠視的な",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "hyper-",
+					"type": "prefix",
+					"meaning": "over, beyond (〜を超えて)"
+				},
+				{
+					"text": "ōps",
+					"type": "root",
+					"meaning": "eye (目)",
+					"lang": "Greek"
+				}
+			],
+			"original_statement": "From Greek hyper- 'over' + ōps 'eye'."
+		},
+		"core_concept": {
+			"en": "Farsighted; having the condition of hyperopia",
+			"ja": "近くにあるリアルな手触りを無視し、視線の焦点を遥か『遠く（beyond）』へと飛ばしてしまう、遠視の知覚。遠い理想（ideal）は鮮明に見えるのに、目の前の足元が見えない、アンバランスな探求"
+		},
+		"thinking_layer": "『目を超えた（先の）』。ハイパー（Hyper-）やエピ（Epi/〜の上の）、オプティカル（Optical/目の）、シノプシス（Synopsis/共に見る＝概要）と同根。語源は「目を越えた先に焦点があること」。マイオピック（Myopic/近視的な、近視眼的な）の正反対。遠くの山の頂は見えているのに、自分の手のひらの皺（しわ）さえも見ることができない。それは、果てしない未来のことばかりを考え、今この瞬間の「生の温もり」を忘れてしまった者の、高潔で寂しい視座。",
+		"aftertaste": "十年後の自分の成功という完璧な「遠景（future scenery）」を鮮明に描きつつ、今日食べるパンの味さえも「ぼやけて（hyperopic blur）」感じられないほどの、未来への過剰な適応。あるいは、あまりにも壮大な「思想（philosophy）」に没頭するあまり、自分が愛する人の流した一粒の涙さえも見落としてしまったと気づいた時の、あの冷たくて鋭い「遠視的な（hyperopic）」後悔。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "okw-",
+					"meaning": "to see (forming ops)"
+				}
+			],
+			"points": [
+				"eye, optics, autopsy（自分の目で見る＝検死）, synopsis 同根。",
+				"『見る（seeing）』という行為の本質は、対象との『距離（distance）』を適切に調整することであり、ハイペロピック（hyperopic）な思考とは、その調整の錘（おもり）を『理想』という名の極北へと投げ捨ててしまった状態である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "presbyopic",
+		"word": "Presbyopic",
+		"part_of_speech": "adjective",
+		"meaning": "老眼の、老視の",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "presbu-",
+					"type": "root",
+					"meaning": "old (古い、年老いた)",
+					"lang": "Greek"
+				},
+				{
+					"text": "ōps",
+					"type": "root",
+					"meaning": "eye (目)",
+					"lang": "Greek"
+				}
+			],
+			"original_statement": "From Greek presbus 'old man' + ōps 'eye'."
+		},
+		"core_concept": {
+			"en": "Affected by presbyopia, the farsightedness caused by loss of elasticity of the lens of the eye, occurring typically in middle and old age",
+			"ja": "長年の経験（age）によってレンズの柔軟性（elasticity）を失い、手の届く範囲の日常が、透明な霧の向こう側に隠れてしまった『老いた目』。近くの現実を見るために、一度突き放さなければならない、知的な距離感の変容"
+		},
+		"thinking_layer": "『老人の目の』。プレスビテリアン（Presbyterian/長老派教会）や、おなじみの「目（Ops）」と同根。語源は「老いた目」。加齢とともに、水晶体のピント調節能力が衰えること。ただの「劣化」ではなく、そこには「歴史の蓄積」が含まれます。それは、あまりにも多くのことを見てきたために、小さなディテールに一喜一憂（be optimistic or pessimistic）することを止めた、知性の「枯死」と「安定」。 ",
+		"aftertaste": "新聞の文字を追うために、腕をめいっぱい伸ばして紙面を自分から「遠ざける」時の、あの自分と世界との間に物理的な「時間の壁」があることを思い知る、静かな諦念。あるいは、かつてあれほど熱中した小さな「趣味（hobby）」が、今では「ぼやけた過去（presbyopic past）」のようにしか感じられず、もっと大きな、動かない「真理」だけを求めるようになった自分への、年老いた誇り。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "per-",
+					"meaning": "before, forward (forming presbus/one who goes first?)"
+				}
+			],
+			"points": [
+				"priest, prime, prior 同根の説あり。",
+				"『老い（aging）』とは、焦点を合わせる努力（accommodation）を放棄し、ありのままの『ぼやけた全体像』を受け入れるプロセスであり、プレスビオーピック（presbyopic）な視座とは、その受容の極致である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "strabismus",
+		"word": "Strabismus",
+		"part_of_speech": "noun",
+		"meaning": "斜視（しゃし）、ひが目、ひが目に見ること",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "strabos",
+					"type": "root",
+					"meaning": "squinting, distorted (斜視の、歪んだ)",
+					"lang": "Greek"
+				}
+			],
+			"original_statement": "From Greek strabismos, from strabizein 'to squint', from strabos 'squinting'."
+		},
+		"core_concept": {
+			"en": "Abnormal alignment of the eyes; the condition of having a squint",
+			"ja": "左右の視線が一致（alignment）せず、別々の方向へと彷徨（ほうこう）してしまう『瞳の離反』。一つの事象を、常に二つの異なる角度から見てしまうという、運命的な多義性。あるいは、何かに偏った視線を送る、知的な「ひが目」"
+		},
+		"thinking_layer": "『しぼめること（目を細めること）』。語源は「歪んだ」。ただの「病気」ではなく、そこに「多視点（multiple perspectives）」の呪いと祝福が宿っています。一つのものを見ようとすると、もう一つの世界が不意に飛び込んでくる。それは、一つの真理を信じたいと願いつつ、常にその反対側の真実（opposite truth）にも視線を奪われてしまう、引き裂かれた「知性の宿命」。",
+		"aftertaste": "誰かと視線を合わせようとしても、自分の瞳がどうしても別の「虚空（void）」を捉えてしまう、あの心もまた別々の方向を向いていると自覚する瞬間の、冷たい孤独。あるいは、社会の「まっすぐな視線（orthodoxy）」から外れ、あえて「斜め（strabismic angle）」から世界を観察することで、誰も気づかなかった亀裂を見出してしまった時の、背徳的な知的興奮。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "stre-",
+					"meaning": "to twist (forming strabismus? - uncertain)"
+				}
+			],
+			"points": [
+				"strophe（歌の節＝回ること）, stretch, structure 同根の説あり。",
+				"『まっすぐ（straight）』であることは社会的な正義だが、『歪んでいる（twisted/strabos）』ことは、世界の『隠された側面』への入り口を開くための、ある種の鍵（key）でもある。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
