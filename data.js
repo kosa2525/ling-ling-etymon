@@ -259002,5 +259002,242 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "sirocco",
+		"word": "Sirocco",
+		"part_of_speech": "noun",
+		"meaning": "シロッコ、サハラ砂漠から地中海へ吹く熱風",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "sharki",
+					"type": "root",
+					"meaning": "easterly (東の)",
+					"lang": "Arabic"
+				}
+			],
+			"original_statement": "From Italian scirocco, from Arabic sharki 'easterly'."
+		},
+		"core_concept": {
+			"en": "A hot wind, often dusty or rainy, blowing from North Africa across the Mediterranean to southern Europe",
+			"ja": "サハラ砂漠の灼熱を孕（はら）み、砂塵（dust）を巻き上げながら地中海を越えてくる『東の熱風』。それは、すべてを乾燥させ、知性を麻痺させるような、大地の溜息"
+		},
+		"thinking_layer": "『東からの風』。シャーク（Shark/サメ？）は関係なく、マシュリク（Mashriq/日の昇る場所＝東方諸国）と同根。ただの「風（wind）」ではなく、そこに「重苦しい熱」と「砂の粒子」が宿っています。それは窓を閉め切り、冷たい水だけを求めて沈黙しなければならない、自然界からの強制的な休息。 ",
+		"aftertaste": "ベランダの手すりに薄っすらと積もった、数千キロ彼方のサハラの「赤い砂（sirocco dust）」を指でなぞる時の、あの世界の広大さと、自分がいかに小さな存在かを思い知る、不思議な恍惚。あるいは、思考が熱で溶け出し、「シロッコ（sirocco）」の唸り声（howl）の中に取り込まれてゆく、あの気だるい午後の無力。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sh-r-q",
+					"meaning": "to rise (forming sharki/east)"
+				}
+			],
+			"points": [
+				"アラビア語の『東（shark）』が、イタリア語を経て『南の熱風』へと意味を変えたのは、地中海のダイナミックな交差の記録。",
+				"『風（wind）』とは大地の『感情』の表出であり、シロッコ（sirocco）はその中でも、最も激しく、最も乾いた『独白』である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "mistral",
+		"word": "Mistral",
+		"part_of_speech": "noun",
+		"meaning": "ミストラル、フランス南部に吹く冷たく乾いた北風",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "magister",
+					"type": "root",
+					"meaning": "master (主人)"
+				},
+				{
+					"text": "mistral",
+					"type": "root",
+					"meaning": "masterful (見事な、卓越した)",
+					"lang": "Provençal"
+				}
+			],
+			"original_statement": "From Provençal mistral 'masterful', from Latin magister 'master'."
+		},
+		"core_concept": {
+			"en": "A strong, cold, north-westerly wind that blows through the Rhône valley and southern France into the Mediterranean",
+			"ja": "アルプス山脈から一気に、ローヌ河谷を駆け抜けて地中海へと向かう、冷たく乾いた『卓越した（masterful）風』。すべてをなぎ倒し、視界を極限まで透明にする、峻烈な審判者の息吹"
+		},
+		"thinking_layer": "『主人のような風』。マイスター（Meister）やマスター（Master）、ミスター（Mister）と同根。ただの「寒風」ではなく、そこに「支配する力（dominance）」があります。ミストラルが吹くと、風景から一切の湿り気が失われ、太陽の光が残酷なまでに鮮明になります。それは知性を研ぎ澄まし、不純物を排する「冷徹な論理」のメタファー。",
+		"aftertaste": "「ミストラル（mistral）」の烈風に身を晒（さら）しながら、水平線の彼方が驚くほど近くに見えるのを眺める、あの肺の奥まで凍てつくような知的覚醒。あるいは、あまりにも完璧すぎる「正論（masterful wind of logic）」によって、自分の小さな嘘がすべて吹き飛ばされてしまった後の、あの清々しい敗北感。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "mag-",
+					"meaning": "great"
+				}
+			],
+			"points": [
+				"major, maximum, majesty, magnate 同根。",
+				"『偉大さ（magister）』とは、周囲を圧倒し、既存の秩序（cloud/mist）を一度解体して再構築する『風（mistral）』のような意志である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "harmattan",
+		"word": "Harmattan",
+		"part_of_speech": "noun",
+		"meaning": "ハルマッタン、西アフリカに吹く乾いた北東貿易風",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "haram",
+					"type": "root",
+					"meaning": "to prohibit, forbidden (禁止する、禁じられた)",
+					"lang": "Akan (likely)"
+				}
+			],
+			"original_statement": "From Akan haramata, literally 'forbidden wind' or 'one who makes cold'."
+		},
+		"core_concept": {
+			"en": "A very dry, dusty easterly or north-easterly wind on the West African coast, occurring from December to February",
+			"ja": "西アフリカの空を、細かい砂の霧（haze）で覆い尽くす『禁じられた（forbidden）風』。肺を焼き、唇を割り、同時に世界に不思議な静寂と「白っぽい沈黙」をもたらす、砂漠の使者"
+		},
+		"thinking_layer": "『禁じられた風』。語源の「Haram」は、おなじみの「ハラーム（禁忌、聖域）」と同根。ただの「砂嵐」ではなく、そこに「聖なる沈黙」と「身体への苦痛」が宿っています。太陽はもはや直接見えず、すべてが淡い茶色のヴェールに覆われる。それは、自意識という名の「光」を制限し、内省（introspection）へと向かわせる自然界の儀式。",
+		"aftertaste": "「ハルマッタン（harmattan）」がもたらす砂のヴェールの向こうで、すべてが「幽霊（spectres）」のようにぼやけて見える、あの現実感が希薄な世界での彷徨（ほうこう）。あるいは、自分の心が、この風のように「乾ききって（dusty dry）」いることに気づき、一滴の雨、一滴の優しさを切望する、あの冬の午後の乾き。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"アフリカの言語観において、『風』が『禁止（prohibition）』と結びついたのは、その過酷さが人間に『活動の停止』を強いるからである。",
+				"『白（haze）』とは光の不在ではなく、過剰な『沈数（sediment）』の結果であり、ハルマッタンはその極致である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "simoom",
+		"word": "Simoom",
+		"part_of_speech": "noun",
+		"meaning": "シムーン、毒風、砂漠の熱風",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "samm",
+					"type": "root",
+					"meaning": "poison (毒)",
+					"lang": "Arabic"
+				}
+			],
+			"original_statement": "From Arabic samūm, from samm 'poison'."
+		},
+		"core_concept": {
+			"en": "A hot, dry, dust-laden wind that blows in the desert, especially in Arabia",
+			"ja": "アラビアの砂漠を震撼させる、狂ったような速度と熱を帯びた『毒の風（poison wind）』。それに触れることは、魂が吸い出されるような苦しみをもたらし、あらゆる生命を瞬時に枯渇させる、大地の悪意"
+		},
+		"thinking_layer": "『毒の風』。ただの熱風ではなく、そこに「殺意（lethality）」が宿っています。シムーンの到来は、死の到来そのもの。それは地平線に不気味な赤褐色の帯として現れ、すべてを沈黙させます。それは逃げ場のない「運命」、あるいは、自分の言葉が他者にとっての「猛毒（toxin）」になってしまったと知った時の、取り返しのつかない後悔。",
+		"aftertaste": "キャンプ地に迫る「シムーン（simoom）」の唸り（roar）を聞きながら、厚いマントに身を包んで砂の中に伏せる時の、あの自分の鼓動だけが唯一の「生」の証明となる、極限の孤独。あるいは、あまりにも激しすぎる「批判の風（poisonous wind of criticism）」にさらされ、自分の心が砂のように砕けてゆく、あの無残な喪失感。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"アラビア語で『毒（samm）』がそのまま『風』の名前になったのは、自然界が時に人間に向ける、剥き出しの牙の記録。",
+				"『熱（heat）』が一定の臨界点（limit）を超えた時、それは『癒やし』ではなく『破壊』の属性を帯びる。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "boreas",
+		"word": "Boreas",
+		"part_of_speech": "noun",
+		"meaning": "北風、北風の神、寒冷な北風",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "Boreas",
+					"type": "root",
+					"meaning": "Boreas (北風の神ボレアス)",
+					"lang": "Greek"
+				}
+			],
+			"original_statement": "From Greek Boreas, personification of the North Wind."
+		},
+		"core_concept": {
+			"en": "The north wind personified",
+			"ja": "ギリシャ神話で、冷徹な冬を引き連れて天から降り立つ、荒々しくも厳格な『北風の神』。不屈の精神と、あらゆる甘えを削ぎ落とす、絶対的な『規律』としての風"
+		},
+		"thinking_layer": "『ボレアスの』。オーロラ・ボレアリス（Aurora Borealis/北極光）や、ボーリアル（Boreal/北方の、亜寒帯の）と同根。ただの「風」ではなく、そこに「神性」と「男性的な力強さ」が含まれます。ボレアスは峻別（distinction）の神。それは不要なものを枯らし、強く丈夫なものだけを残す、自然界の「選別（selection）」の息吹。",
+		"aftertaste": "「ボレアス（boreas）」の冷たい吐息に頬を刺されながら雪山を登る時の、あの思考が極限までシンプルになり、一歩一歩の重みだけを感じる、峻烈で清々しい修行者の心地。あるいは、どんなに暖を取っても消えない「心の北風（internal boreas）」に震えながら、自分の中に眠る「春の種」を信じて耐える、あの長い冬の夜。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "gwor-",
+					"meaning": "mountain (forming Boreas/The wind from the mountains?)"
+				}
+			],
+			"points": [
+				"諸説あるが、山（mountain）から吹き降ろす風が、そのまま神の名前となったという、地理的な畏怖の変容。",
+				"『北（north）』とは人類にとって常に『未知（unknown）』と『試練（trial）』の方向であり、ボレアスはその試練を物理的な『冷たさ』で表現する。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "chinook",
+		"word": "Chinook",
+		"part_of_speech": "noun",
+		"meaning": "シヌーク、アメリカ北西部に吹く暖かい微風、サケの一種（キングサーモン）",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "Chinook",
+					"type": "root",
+					"meaning": "Chinook (先住民シヌーク族)",
+					"lang": "Native American"
+				}
+			],
+			"original_statement": "From the name of a Salishan people of the Columbia River valley."
+		},
+		"core_concept": {
+			"en": "A warm dry wind which blows down the east side of the Rocky Mountains at the end of winter; a large Pacific salmon",
+			"ja": "ロッキー山脈を越え、一気に雪を解かして春を呼び込む『雪喰い（snow eater）』の温風。過酷な冬の終わりに、先住民たちの知恵と共に届けられる、大地の『慈悲』と『再生』の合図"
+		},
+		"thinking_layer": "『シヌーク族の風』。ただの「温風」ではなく、そこに「奇跡」のような瞬発力があります。わずか数時間で気温を数十度も上げ、世界を一変させる。それは、絶望のどん底に差し込んだ「希望」の光、あるいは、凍りついた人間関係を解きほぐす、一言の誠実な「謝罪（apology）」のメタファー。",
+		"aftertaste": "「シヌーク（chinook）」の到来と共に、あれほど強固だった雪の壁が、泣き出すように溶け崩れてゆくのを眺める時の、あの心がふわりと軽くなるような、生命の勝利の予感。あるいは、自分の頑（かたく）なな心が、誰かの不意の優しさに触れて、この「温風（warm breeze）」のように解けてゆく、あの無防備で幸福な涙。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"先住民の名前が、気象現象と『サケ（salmon）』という、生命維持に欠かせない二つの要素に冠された。そこには大地への深い敬意が眠っている。",
+				"『温かさ（warmth）』とは、物理的な温度だけではなく、停滞していた『サイクル（cycle）』が再び動き始める、流動性の回復のことである。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "haboob",
+		"word": "Haboob",
+		"part_of_speech": "noun",
+		"meaning": "ハブーブ、激しい砂嵐",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "habb",
+					"type": "root",
+					"meaning": "to blow (吹く)",
+					"lang": "Arabic"
+				}
+			],
+			"original_statement": "From Arabic habūb, from habb 'blow'."
+		},
+		"core_concept": {
+			"en": "A violent and oppressive wind blowing in summer, especially in Sudan, and bringing with it great quantities of sand",
+			"ja": "地平線の端から、巨大な砂の壁となって押し寄せる『暴風（violent wind）』。すべてを飲み込み、光を奪い、世界を一時的に『消滅』させてしまう、大地の咆哮。有無を言わせぬ自然の圧倒的な質量"
+		},
+		"thinking_layer": "『吹くもの』。語源の「Habb」は「愛（Hubb）」とも語根が近く、それは「心が激しく揺さぶられること」を意味する一説も。ただの「風」ではなく、そこに「物理的な壁」と「呼吸の困難」が宿っています。ハブーブの通過は、世界の一時的な「死」と「新生」。それはすべてを白紙に戻す、暴力的なまでの初期化のリセットボタン。",
+		"aftertaste": "迫りくる「ハブーブ（haboob）」の巨大な砂の壁が、自分の住む街を一口で飲み込んでゆく、あの神の掌（てのひら）に握り潰されるような、絶望的な崇高（sublime）。あるいは、嵐が過ぎ去った後に、窓の隙間から入り込んだ砂を掃除しながら、自分たちの生活がいかに「仮初（かりそめ）の平和」であるかを噛み締める、あの静かな諦念。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"『吹く（blowing）』という単純な動詞が、これほどまでに破壊的な『現象』を指すようになったのは、そこに人知を超えた『過剰さ』が宿っているからである。",
+				"『嵐（storm）』とは、たまりすぎた不要なエネルギーを、物理的な『摩擦（friction）』によって強制的に中和（neutralize）する、地球の外科的な手術である。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
