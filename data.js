@@ -277908,5 +277908,165 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "insulin",
+		"word": "Insulin",
+		"part_of_speech": "noun",
+		"meaning": "インスリン、島のホルモン",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "insula",
+					"type": "root",
+					"meaning": "island"
+				}
+			],
+			"original_statement": "From Latin insula."
+		},
+		"core_concept": {
+			"en": "glucose regulator",
+			"ja": "島の導き。エネルギー分配の指揮者。"
+		},
+		"thinking_layer": "『島から来たもの』。独立した聖域から全体を律するための命令を発信し、過剰なエネルギーを再配置するガバナンスの知恵。知性が内なる静かな場所から真理の行動を導き出すメタファー。",
+		"aftertaste": "命の火が静かに燃え上がる充足。人々の心の扉を開き、可能性を糧へ変える自尊心。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ランゲルハンス島から。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "glucagon",
+		"word": "Glucagon",
+		"part_of_speech": "noun",
+		"meaning": "グルカゴン",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "glykys",
+					"type": "root",
+					"meaning": "sweet"
+				},
+				{
+					"text": "agon",
+					"type": "root",
+					"meaning": "leading"
+				}
+			],
+			"original_statement": "From sweet + leading."
+		},
+		"core_concept": {
+			"en": "glycogen mobilize",
+			"ja": "逆転の触媒。再起動の喇叭。"
+		},
+		"thinking_layer": "『甘いものを導き出すもの』。備蓄を叩き起こし底力を爆発させる。絶望的な沈滞を拒み、潜む最後の希望を強引に引きずり出して歩み出す不屈の意志。",
+		"aftertaste": "生命の底なしの強さを知る。人々の心の貯蔵庫を開ける魔法の呪文でありたい自尊心。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"インスリン（蓄積）と対をなす駆動。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "estrogen",
+		"word": "Estrogen",
+		"part_of_speech": "noun",
+		"meaning": "エストロゲン",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "oistros",
+					"type": "root",
+					"meaning": "frenzy"
+				},
+				{
+					"text": "gen",
+					"type": "suffix",
+					"meaning": "producing"
+				}
+			],
+			"original_statement": "From frenzy producer."
+		},
+		"core_concept": {
+			"en": "hormone of creation",
+			"ja": "創造の母。聖なる狂乱。"
+		},
+		"thinking_layer": "『狂乱を産むもの』。新しい命や価値を繋ぎ止めたいという根源的な愛の狂気。冷徹な論理を脱ぎ捨て、魂を焦がす一筋の直感に身を委ね、新しい世界を創造するメタファー。",
+		"aftertaste": "肉体と魂がしなやかに変化する奇跡。人々の心に聖なる狂乱を呼び起こす刺激でありたい自尊心。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"アブに刺されたような衝動が語源。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "testosterone",
+		"word": "Testosterone",
+		"part_of_speech": "noun",
+		"meaning": "テストステロン",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "testis",
+					"type": "root",
+					"meaning": "witness"
+				},
+				{
+					"text": "sterol",
+					"type": "root",
+					"meaning": "solid"
+				}
+			],
+			"original_statement": "From witness + sterol."
+		},
+		"core_concept": {
+			"en": "hormone of drive",
+			"ja": "不屈の証人。闘争の実存。"
+		},
+		"thinking_layer": "『証のステロール』。生きている証を厳しい裁判（世界）に提出し、峻烈に自らの正しさを証明し続ける。孤独なトップランナーとして最尖端を切り拓こうとする誇り高き咆哮。",
+		"aftertaste": "己の使命を確信する。曖昧さを排し、常に真理の証人でありたい自尊心。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"睾丸は男らしさの証拠。能力（authenticity）が力を定義する。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "cortisol",
+		"word": "Cortisol",
+		"part_of_speech": "noun",
+		"meaning": "コルチゾール",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "cortex",
+					"type": "root",
+					"meaning": "bark"
+				}
+			],
+			"original_statement": "From cortex (adrenal)."
+		},
+		"core_concept": {
+			"en": "stress hormone",
+			"ja": "皮層の守護者。非情なる賢明。"
+		},
+		"thinking_layer": "『皮から来たもの』。過酷な干渉さえも自分を際立たせる砥石とする防御と逆襲の美学。情報の洪水のなかで、あえて境界線を閉じ、内なる真理を守り抜く不落の城塞。",
+		"aftertaste": "いかなるプレッシャーの中でも核を失わない。強靭な樹皮のような自尊心。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"自分を守るために自らを硬化させる適応。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
