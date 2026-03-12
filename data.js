@@ -272585,5 +272585,175 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "fissure",
+		"word": "Fissure",
+		"part_of_speech": "noun",
+		"meaning": "亀裂（きれつ）、裂け目",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "fissura",
+					"type": "root",
+					"meaning": "a cleft, chink (裂け目)', from Latin findere 'to split'"
+				}
+			],
+			"original_statement": "From Latin fissura, from findere 'split'."
+		},
+		"core_concept": {
+			"en": "A long, narrow opening or line of breakage made by cracking or splitting, especially in rock or earth",
+			"ja": "一貫した秩序（surface）を沈黙のうちに引き裂く、峻烈な『知的な断絶』。圧力が限界を超えた瞬間に刻まれる、回復不能な『真実の傷跡』。地殻の沈黙を破る、細く長い叫び。"
+		},
+		"thinking_layer": "『裂くこと』。フィッション（Fission/核分裂）、ベント（Vent/とは関係なく）、おなじみの「スプリット（Split）」のラテン語系と同根。語源は「裂く」。ただの「隙間（gap）」ではありません。そこには。「外部からの力や内部の歪みが極限に達し、構造そのものが悲鳴を上げた結果」という、不可避な崩壊のドラマが宿っています。それは。知性が長年信じてきたドグマに、たった一つの矛盾という「亀裂」が走り、世界が二つに分かたれてゆく瞬間の、静かなる戦慄。",
+		"aftertaste": "断崖絶壁に走る一本の峻烈な「亀裂（fissure）」を見つめ、どんなに強固に見える存在も、時間という重圧の前には無力であることに深い畏敬を覚える、あの知的な平安。あるいは、自分の思考もまた、この「フィッシャー」のように、表面的な調和を突き破って、物事の「核心的な裂け目」を正確に指し示すものでありたい、と願う、あの静かな午後の自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "bheid-",
+					"meaning": "to split (forming findere)"
+				}
+			],
+			"points": [
+				"bite, bitter, boat, fissile, fission 同根。",
+				"『噛む（biting）』ことは、対象を裂くことの原初的な形態である。フィッシャーという言葉には、生命が世界を認識するために、それをいかにして『噛み砕き』、断片化（fragmentation）してきたかという、生存のための攻撃性が封印されている。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "fault",
+		"word": "Fault",
+		"part_of_speech": "noun",
+		"meaning": "断層（だんそう）、過失、欠点",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "fallere",
+					"type": "root",
+					"meaning": "to deceive, disappoint, fail (欺く、失望させる、失敗する)', from Latin"
+				}
+			],
+			"original_statement": "From Old French faute, from Latin fallere 'deceive'."
+		},
+		"core_concept": {
+			"en": "An extended break in a body of rock, marked by the relative displacement and discontinuity of realignments of surrounding rocks",
+			"ja": "均衡が崩れ、上下が逆転し、接続が失われた『空間的なエラー』。一度ずれた世界は二度と同じ形には戻らないという、峻烈な『不可逆の転換』。大地の深層に秘められた、構造的な『欺瞞（fail）』。"
+		},
+		"thinking_layer": "『失敗すること、欺くこと』。ファルス（False/偽りの）、フェイル（Fail/失敗する）、おなじみの「フォルト（テニスのサーブ失敗など）」と同根。語源は「失敗、欠乏」。ただの「割れ目（crack）」ではありません。そこには。「一見平穏に見える地表の下に、巨大な『ずれ』が潜んでおり、それがいつかすべてを破壊するエネルギーとなる」という、潜在的な脅威の思想が宿っています。それは。知性が自らの思考の「構造的な欠陥（fault）」を直視せず、そのまま積み重ねてゆくことで生じる、いつか訪れる破滅的な閃きのメタファー。",
+		"aftertaste": "地層が大きくズレた「断層（fault）」の断面を眺め、自分自身の人生もまた、このような「挫折（failure）」や「再編（realignment）」の積み重ねによって、より複雑で豊かな形へと鍛えられてきたのだと肯定する、あの知的な平安。あるいは、自分の言葉が、この「フォルト」のように、既成概念を縦に割り、隠されていた真実の階層（strata）を白日の下に晒すものでありたい、と願う、あの静かな夜の自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ghew-",
+					"meaning": "to leave, go away (forming fallere?)"
+				}
+			],
+			"points": [
+				"fail, fallacy, faucet, fault 同根。",
+				"『欺く（deceiving）』ことは、期待されていた場所から『外れる』ことである。地質学的な断層は、大地の約束（平坦さ）が裏切られた場所であり、生命がいかにして『不完全さ』を自らのアイデンティティの一部として受け入れてきたかを示す、冷徹な記録である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "crevice",
+		"word": "Crevice",
+		"part_of_speech": "noun",
+		"meaning": "割れ目、隙間",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "crepare",
+					"type": "root",
+					"meaning": "to crack, rattle, creak (ひび割れる、ガラガラ鳴る)', from Latin"
+				}
+			],
+			"original_statement": "From Old French crevace, from Latin crepare 'crack'."
+		},
+		"core_concept": {
+			"en": "A narrow opening or fissure, especially in a rock or wall",
+			"ja": "乾燥（dryness）や疲労によって表面が悲鳴を上げ、音を立てて弾け飛んだ『小さな裂け目』。完璧な壁を拒絶し、そこから外部の光や水を招き入れる、知的な『不完全な呼吸』"
+		},
+		"thinking_layer": "『パチパチと鳴ること』。ディスクレパンシー（Discrepancy/不一致＝音が合わない）、デクレピット（Decrepit/老いぼれた＝パチパチ鳴る）、おなじみの「クラック（Crack）」と同根の擬音語的由来。語源は「音が鳴る裂け目」。ただの「穴（hole）」ではありません。そこには。「静寂が破られた瞬間に生まれた、物理的な記憶」という、躍動的な崩壊の響きが宿っています。それは。知性が凝り固まった思考の殻を破り、新しいアイディアが外部から染み込んでくるための、最小限の「希望の隙間」。",
+		"aftertaste": "岩の「割れ目（crevice）」に根を張り、一滴の水を求めて健気に生きる高山植物の生命力に、構造の欠陥こそが新しい生命の「ゆりかご」になり得ることを悟り、深い感動を覚える、あの知的な平安。あるいは、自分の思考もまた、この「クレヴィス」のように、完璧な閉鎖を拒み、常に外部の「未知の風」を取り入れるための、謙虚な隙間を持ち続けていたい、と願う、あの静かな午後の自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ker-",
+					"meaning": "to sound (forming crepare)"
+				}
+			],
+			"points": [
+				"crack, creak, raven, decrepit 同根。",
+				"『音（sound）』が空間を物理的に切り裂く。この言葉には、生命がいかにして『振動』という非物質的なエネルギーを、永遠に残る『形（crack）』へと変換してきたかという、情報の結晶化のプロセスが刻まれている。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "cranny",
+		"word": "Cranny",
+		"part_of_speech": "noun",
+		"meaning": "隅（すみ）、隙間、割れ目",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "cran",
+					"type": "root",
+					"meaning": "notch (切り込み)', from Old French cran"
+				}
+			],
+			"original_statement": "From Old French cran 'notch'."
+		},
+		"core_concept": {
+			"en": "A small, narrow space or opening",
+			"ja": "意識から見放された、暗く湿った『思考の片隅』。重厚な秩序が死角となり、忘れ去られた真実が静かに息を潜める、知的な『情報の隠れ家』"
+		},
+		"thinking_layer": "『切り込み』。おなじみ「ヌック・アンド・クラニー（Nook and cranny/隅々まで）」のフレーズで有名。語源は「刻み目」。ただの「角（corner）」ではありません。そこには。「広大な平野ではなく、あえて狭く限定された場所（niche）においてのみ、生命は最も深く根を張ることができる」という、ニッチ戦略の美学が宿っています。それは。知性が大文字の真理を追いかけることを止め、誰も見向きもしない些細な「隙間」の中に、宇宙の全情報を発見しようとする瞬間の、偏愛に満ちたメタファー。",
+		"aftertaste": "部屋の「隅（cranny）」に溜まった埃（dust）の中に、何億年もの歴史が凝縮されていることを想い、微細なものへの愛おしさに包まれる、あの知的な平安。あるいは、自分の好奇心もまた、この「クラニー」のように、世界のどんなに狭い場所にも忍び込み、そこに眠る「忘れ去られた光」を拾い集める執念でありたい、と願う、あの静かな夜の自尊心。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"『切り込み（notch）』は、何かを刻むことで生まれる目印である。クラニーという言葉には、生命が混沌とした世界に自らの印（mark）を付け、そこを『自分の場所』として定義しようとした、原初的な所有の意志が宿っている。",
+				"nook（隅）が『内側からの角』を指すのに対し、cranny（隙間）は『構造の破損』を指すニュアンスが強い。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "scissure",
+		"word": "Scissure",
+		"part_of_speech": "noun",
+		"meaning": "裂け目、割れ目、分離",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "scissus",
+					"type": "root",
+					"meaning": "split (裂かれた)', from Latin scindere 'to split'"
+				}
+			],
+			"original_statement": "From Latin scissura, from scindere 'split'."
+		},
+		"core_concept": {
+			"en": "An opening made by the parting of adjacent parts; a cleft",
+			"ja": "刃（blade）によって峻烈に断ち切られ、昨日までの連続性が永遠に失われた『暴力的な切断』。結合を拒絶し、個を個として独立させるための、知的な『外科的処置』。"
+		},
+		"thinking_layer": "『裂くこと』。シザーズ（Scissors/ハサミ）、シズム（Schism/分離、分派）、おなじみの「サイエンス（Science/切り分ける知恵）」と同根。語源は「裂く」。ただの「破損（breakAGE）」ではありません。そこには。「あえて切り分けることで、物事の構造を明らかにする」という、知性の攻撃的な解体意志が宿っています。それは。知性が混沌とした感情の塊に、論理という名のハサミを入れ、一つ一つの糸（thread）を解き明かしてゆくプロセスの象徴。",
+		"aftertaste": "冷徹なハサミが布を切り裂く「音」に、迷いを断ち切る時の峻烈な快感を重ね合わせ、自分を縛り付けていた古い鎖がこの「裂け目（scissure）」によって崩れ落ちてゆく様子を祝う、あの知的な法悦。あるいは、自分の思考もまた、この「シシュア」のように、曖昧な妥協を許さず、真実と虚偽を鮮やかに分断する「正義の刃」でありたい、と願う、あの静かな午後の自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "skei-",
+					"meaning": "to cut, split (forming scindere)"
+				}
+			],
+			"points": [
+				"science, shit（切り離されたもの）, ski, skin, scissors 同根。",
+				"『切る（cutting）』ことは、認識の始まりである。シシュアという言葉には、生命が世界という織物の一部を切り取り、それを自らの『経験』として私物化（appropriation）してきたという、峻烈な生存の論理が刻まれている。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
