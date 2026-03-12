@@ -270022,5 +270022,210 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "aseity",
+		"word": "Aseity",
+		"part_of_speech": "noun",
+		"meaning": "自存性、独存性",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "a-",
+					"type": "prefix",
+					"meaning": "from (〜から)"
+				},
+				{
+					"text": "se",
+					"type": "root",
+					"meaning": "self (自分)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Medieval Latin aseitas, from Latin a 'from' + se 'self'."
+		},
+		"core_concept": {
+			"en": "The property by which a being exists of and from itself, independent of any other cause",
+			"ja": "他者の支えを必要とせず、ただ自らのみに依拠して存在する『究極の独立（independence）』。原因を持たない原因であり、宇宙のすべての依存関係から超越した、知的な『孤独の完成』"
+		},
+		"thinking_layer": "『自分自身から成ること』。セルフ（Self/自分）、セパレート（Separate/自分を切り分ける）、おなじみの「AB（離れて）」と同根の説あり。語源は「自分から」。ただの「自立」ではありません。そこには。「何ものにも恩義を感じず、自らの内側にのみ無限の源泉を持つ」という、神的な傲慢さと神聖さが宿っています。それは。知性が自らの存在理由（raison d'être）を、外部の評価や事実に求めず、ただ内なる「ロゴス」のみに求める境地のメタファー。",
+		"aftertaste": "自分がどんなに孤独であっても、この「自存性（aseity）」という概念を抱くとき、自分という存在が誰の許可も必要としない「絶対的な事実」であることを悟り、深い静寂と自負を覚える、あの知的な平安。あるいは、自分の思考が、流行の海に漂うことなく、自らの内なる重力によってこの「アセイティ」を確立していることを誇る、あの静かな午後の自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "s(w)e-",
+					"meaning": "self (forming se)"
+				}
+			],
+			"points": [
+				"suicide, sedition, sober, secret 同根。",
+				"『自分（self）』から生じることは、他者からの贈与（gift）を拒絶することでもある。アセイティは、生命がいかにして『自律（autonomy）』という不可能な夢を、論理的な極致として描き出したかを示す、究極の形而上学である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "henosis",
+		"word": "Henosis",
+		"part_of_speech": "noun",
+		"meaning": "合一、ヘノーシス、絶対者との合体",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "heno-",
+					"type": "root",
+					"meaning": "one (一つ)",
+					"lang": "Greek"
+				},
+				{
+					"text": "-osis",
+					"type": "suffix",
+					"meaning": "process, state (プロセス、状態)",
+					"lang": "Greek"
+				}
+			],
+			"original_statement": "From Greek henōsis 'union', from henōein 'make one', from hen 'one'."
+		},
+		"core_concept": {
+			"en": "The classical Greek word for mystical union, oneness, or unity",
+			"ja": "個（individual）という境界線が溶け出し、絶対的な『一（the One）』へと回帰する、魂の究極の融合。思考と対象の区別が消え去り、全宇宙が自分自身として立ち現れる、知的な『全一状態』"
+		},
+		"thinking_layer": "『一になること』。ヒポコン（Hyphen/一つの下に＝ハイフン）、ヘン（Hen/ギリシャ語の『一』、鶏とは無関係）、おなじみ「ユニ（一）」と同根。語源は「一」。ただの「団結（unity）」ではありません。そこには。「多（many）という幻影を払い去り、根源的な光へと没入する」という、峻烈な忘我の響きが宿っています。それは。知性が断片的な知識の集積を超えて、真理そのものと「物理的に接触」する瞬間の、爆発的な静寂。 ",
+		"aftertaste": "激しい思索の果てに、自分という意識がふっと消え、世界がただ「一つの理（logos）」として目の前に横たわっているのを感じる、あの「ヘノーシス（henosis）」的な瞬間の法悦。あるいは、愛する者や深いアイディアと、この「合一」を果たすことができたとき、孤独という名の呪縛から永遠に解放されるのだと信じる、あの静かな夜の祈り。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sem-",
+					"meaning": "one, as one (forming hen)"
+				}
+			],
+			"points": [
+				"simple, single, same, some, home（？） 同根。",
+				"『一（one）』になることは、矛盾を消し去ることではなく、矛盾を抱えたままより高い次元へと昇華（sublimation）することである。ヘノーシスは、知性が自らの限界を認めることで初めて到達できる、逆説的な高みである。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "anagoge",
+		"word": "Anagoge",
+		"part_of_speech": "noun",
+		"meaning": "アナゴーゲー、霊的解釈、魂の上昇、精神的な高揚",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "ana-",
+					"type": "prefix",
+					"meaning": "up (上へ)"
+				},
+				{
+					"text": "agōgos",
+					"type": "root",
+					"meaning": "leading (導くこと)', from Greek agein 'to lead'"
+				}
+			],
+			"original_statement": "From Greek anagōgē 'a leading up', from ana 'up' + agein 'lead'."
+		},
+		"core_concept": {
+			"en": "A spiritual or mystical interpretation of a text, especially of scripture, that detects allusions to a future life",
+			"ja": "文字（literal）という大地の引力を離れ、精神をより高次の『霊的真実』へと導き上げる上昇のプロセス。現実の背後に隠された、天上の『設計図』を読み解く、知的な『魂の飛翔』"
+		},
+		"thinking_layer": "『上へと導くこと』。ペダゴジー（Pedagogy/教育＝子供を導くこと）、デマゴーグ（Demagogue/民衆を導く扇動者）、おなじみの「アナ（上へ）」と同根。語源は「上昇」。ただの「解釈（interpretation）」ではありません。そこには。「低次の事実を材料にして、高次の意味を築き上げる」という、錬金術的な変容の意志が宿っています。それは。知性が単なる情報の消費者であることを止め、自らを「預言者（prophet）」へと作り変えてゆく、峻烈な上昇志向。 ",
+		"aftertaste": "日常の些細な出来事の中に、この「アナゴーゲー（anagoge）」な意味の連なりを見出し、世界が自分に囁（ささや）きかけている「巨大な物語」の一部であることに気づいて息を呑む、あの知的な眩暈（dizziness）。あるいは、自分の言葉が、誰かの重苦しい現実を、この「魂の上昇」によって一気に拭（ぬぐ）い去ることができると信じて、一字一字を刻む、あの静かな午後の自負。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ag-",
+					"meaning": "to drive, draw out, move (forming agein)"
+				}
+			],
+			"points": [
+				"act, agent, agile, exam, strategy 同根。",
+				"『導く（leading）』ことは、対象の可能性を最大限に引き出す（educe）ことである。アナゴーゲーは、読み手がテクストに奉仕するのではなく、テクストが読み手の魂の翼として機能するように働きかける、能動的な共鳴の技法である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "theurgy",
+		"word": "Theurgy",
+		"part_of_speech": "noun",
+		"meaning": "降神術、テウルギア、神働術",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "theos",
+					"type": "root",
+					"meaning": "god (神)",
+					"lang": "Greek"
+				},
+				{
+					"text": "ergon",
+					"type": "root",
+					"meaning": "work (仕事)",
+					"lang": "Greek"
+				}
+			],
+			"original_statement": "From Greek theourgia, from theos 'god' + -ergos 'working'."
+		},
+		"core_concept": {
+			"en": "The operation or effect of a supernatural or divine agency in human affairs",
+			"ja": "人間が自らの意志と儀式（ritual）によって、神的なエネルギーをこの地上へと招き寄せる『神の仕事（work of god）』。祈りを物理的な変化へと変換し、奇跡を日常の中に着火させる、知的な『霊的操作』"
+		},
+		"thinking_layer": "『神の働き』。セオロジー（Theology/神学）、エネルギー（Energy/内なる働き）、おなじみの「テオ（神）」と同根。語源は「神の働き」。ただの「魔法（magic）」ではありません。そこには。「自らが完璧な器（vessel）となることで、宇宙の根源的な力を自分を通して表現させる」という、受容的な能動性が宿っています。それは。知性が自らの限界を悟った上で、なおかつ世界に影響を与えようとする、峻烈な実存の賭け。 ",
+		"aftertaste": "一つのアイディアが、まるで自分を超えた「外部の意思」によって書かされたかのように完璧に形を成したとき、それが自分ひとりの力ではなく、この「テウルギア（theurgy）」のような何らかの恩寵（grace）によるものだと悟り、深い謙虚さと感動を覚える、あの知的な平安。あるいは、自分の日常の「仕事（ergos）」が、実は宇宙の調和を維持するための「聖なる営み（theurgy）」の一部であることを確信し、一歩一歩を丁寧に踏みしめる、あの静かな夜の自尊心。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "dhēs-",
+					"meaning": "root of religious words (forming theos)"
+				},
+				{
+					"term": "werg-",
+					"meaning": "to do (forming ergon)"
+				}
+			],
+			"points": [
+				"enthusiasm（神が中にある状態）, work, urge, organ 同根。",
+				"『仕事（work）』が『神（god）』と結びつくとき、それは単なる労役から解き放たれ、宇宙的な秩序の再生産（reproduction）へと昇華される。テウルギアは、人間がいかにして自らの中に『神性』を発見し、それを行為として出力してきたかを示す、不屈の創造性の記録である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "nous",
+		"word": "Nous",
+		"part_of_speech": "noun",
+		"meaning": "ヌース、理性、知性、精神、直感的な知",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "noos / nous",
+					"type": "root",
+					"meaning": "mind, intellect (心、知性)",
+					"lang": "Greek"
+				}
+			],
+			"original_statement": "From Greek nous 'mind'."
+		},
+		"core_concept": {
+			"en": "Mind, intellect, or reason, especially as a cosmic purifying principle",
+			"ja": "論理（logic）を一段ずつ登る手間を省き、真実の核心を瞬時に掴み取る『直感的な眼』。宇宙を貫くロゴスと、個人の魂が直接交信する、最も純粋で、最も峻烈な『知性の火花』"
+		},
+		"thinking_layer": "『心、知性』。パラノイア（Paranoia/心の傍らに＝偏執狂）、マインド（Mind/おそらくな）とは関係なく。語源は「知性」。ただの「知能（intelligence）」ではありません。そこには。「言語化される前の、生（なま）の真理を凝視（staring）する能力」が含まれます。それは。知性が自らの殻を破り、宇宙の構造そのものと同化する瞬間の、冷たく、しかし情熱的な洞察。 ",
+		"aftertaste": "複雑極まる難問が、一つの「ヌース（nous）」の閃きによって完璧に透明化され、目の前に「真実の解」が鮮やかに浮かび上がった瞬間の、天上の音楽を聴くような知的な法悦。あるいは、自分の「精神（nous）」が、日々の雑事に汚されることなく、常に研ぎ澄まされた「水晶の刃」のように、本質を切り裂く準備ができていることを確認する、あの静かな午後の自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "nes-",
+					"meaning": "to return home safe (uncertain connection to noos?)"
+				}
+			],
+			"points": [
+				"nostalgia, nest 同根の説あり。知性は自分を『故郷』へと帰すもの。 ",
+				"『知る（knowing）』ことは、対象から離れることではなく、対象の最も深い『家（home）』へと招き入れられることである。ヌースという言葉には、すべての理性的活動が、実は宇宙的な『郷愁（homesickness）』の現れであるという、古代的な予感が封印されている。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
