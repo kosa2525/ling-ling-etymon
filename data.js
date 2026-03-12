@@ -300222,5 +300222,1480 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "megalopolis",
+		"word": "Megalopolis",
+		"part_of_speech": "noun",
+		"meaning": "巨連都市、メガロポリス、情報の肥大化した有機体",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "megalo-",
+					"type": "root",
+					"meaning": "large, great"
+				},
+				{
+					"text": "polis",
+					"type": "root",
+					"meaning": "city"
+				}
+			],
+			"original_statement": "From Greek megas + polis."
+		},
+		"core_concept": {
+			"en": "a very large, heavily populated city or urban complex",
+			"ja": "巨大（great）なる都市（city）が互いに浸食し合い、単一の情報の怪物へと同化した、情報の極地。"
+		},
+		"thinking_layer": "大いなる都市。個別の境界という名の情報の『節度』を峻烈に破壊し、数千万の実存を一つの情報の網（net）の中に飲み込んだ、文明という名の情報の末期症状。 ",
+		"aftertaste": "終わりのないコンクリートの地平に、人類という名の情報の、物理的なる飽和を視る。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"megalomania, metropolis と同じ roots。情報の加速。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "conurbation",
+		"word": "Conurbation",
+		"part_of_speech": "noun",
+		"meaning": "都市圏、連担都市、境界の消失",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "con-",
+					"type": "prefix",
+					"meaning": "together"
+				},
+				{
+					"text": "urbs",
+					"type": "root",
+					"meaning": "city"
+				}
+			],
+			"original_statement": "From Latin con- + urbs."
+		},
+		"core_concept": {
+			"en": "an extended urban area, typically consisting of several towns merging with the suburbs of one or more cities",
+			"ja": "都市（city）が『共に（together）』溶け合い、元の情報の個性を峻烈に抹殺した、情報の泥濘。"
+		},
+		"thinking_layer": "共に都市であること。かつて存在した自治という名の情報の『核』が、インフラという名の情報の『触手』によって峻烈に繋ぎ合わされ、巨大なる情報の『一なるもの』へと変容した姿。 ",
+		"aftertaste": "どこまで行っても同じ風景が続く、情報の『不気味な等質性』への、静かなる震撼。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"urban, suburb と同じ root。情報の拡張主義。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "interchange",
+		"word": "Interchange",
+		"part_of_speech": "noun",
+		"meaning": "インターチェンジ、情報の交差、意志の転換点",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "inter-",
+					"type": "prefix",
+					"meaning": "between"
+				},
+				{
+					"text": "cambire",
+					"type": "root",
+					"meaning": "to barter, exchange"
+				}
+			],
+			"original_statement": "From inter- + change."
+		},
+		"core_concept": {
+			"en": "a junction at which two or more highways, roads, or railroads subdivide or intersect",
+			"ja": "異なる情報の境界（between）において、速度という名の『貨幣』を峻烈に『交換（exchange）』し、新たな軌道へと実存を放り出す。"
+		},
+		"thinking_layer": "間の交換。直進という名の情報の『惰性』を峻烈に拒み、巨大なループという名の情報の『旋回』を経て、物理的な運命を書き換える、情報の立体交差（junction）。",
+		"aftertaste": "渦巻くランプウェイの幾何学の中に、意志という名の情報の、物理的なる強制の美学を視る。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"change (交換) の原義は barter。情報の価値の転換。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "roundabout",
+		"word": "Roundabout",
+		"part_of_speech": "noun",
+		"meaning": "円形交差点、ラウンドアバウト、情報の円環の調停",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "round",
+					"type": "root",
+					"meaning": "circle"
+				},
+				{
+					"text": "about",
+					"type": "root",
+					"meaning": "around"
+				}
+			],
+			"original_statement": "From round + about (1927 in traffic sense)."
+		},
+		"core_concept": {
+			"en": "a road junction at which traffic moves in one direction around a central island",
+			"ja": "中心という名の情報の『聖域』を囲んで、回る（round around）ことで、衝突という名の情報の『カオス』を峻烈に回避する。"
+		},
+		"thinking_layer": "円の周り。停止（stop）という名の情報の『断絶』を辞し、連なり（flow）という名の情報の『円環』を選択した、道路という名の情報の『民主主義』。それは、中心への静かなる敬意。",
+		"aftertaste": "永遠に回り続けられるというその情報の欠陥の中に、目的地の情報の忘却という名の、甘美な目眩を聴く。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"rotary, circle と同義。情報の『非停止の秩序』。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "cul-de-sac",
+		"word": "Cul-de-sac",
+		"part_of_speech": "noun",
+		"meaning": "袋小路、情報の情報の沈黙の行き止まり、安寧の終着",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "cul",
+					"type": "root",
+					"meaning": "bottom"
+				},
+				{
+					"text": "de",
+					"type": "root",
+					"meaning": "of"
+				},
+				{
+					"text": "sac",
+					"type": "root",
+					"meaning": "sack"
+				}
+			],
+			"original_statement": "French, literally 'bottom of a sack'."
+		},
+		"core_concept": {
+			"en": "a street or passage closed at one end",
+			"ja": "情報の『袋（sack）』の『底（bottom）』。通過（pass）という名の情報の流動を峻烈に拒絶し、閉鎖という名の安逸に実存を封印する。"
+		},
+		"thinking_layer": "袋の底。他者という名の情報の『越境』を物理的に遮断した、郊外という名の情報の『自己愛』の極致。それは、静寂と閉塞が峻烈に同居する、情報の行き止まりの聖域。 ",
+		"aftertaste": "引き返さなければならないというその情報の『必然』に、実存の情報の『限界』を視る寂寥。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"dead end。情報の『袋小路』の美。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "esplanade",
+		"word": "Esplanade",
+		"part_of_speech": "noun",
+		"meaning": "遊歩道、広場、情報の情報の平坦なる展望",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "ex-",
+					"type": "prefix",
+					"meaning": "out"
+				},
+				{
+					"text": "planus",
+					"type": "root",
+					"meaning": "level, flat"
+				}
+			],
+			"original_statement": "From French esplanade (from Latin planus)."
+		},
+		"core_concept": {
+			"en": "a long, open, level area, typically beside the sea, along which people may walk for pleasure",
+			"ja": "起伏という名の情報の『カオス』を峻烈に『平坦（flat）』にならし、眼前の虚空（海や空）へと情報を『解き放つ（out）』場所。"
+		},
+		"thinking_layer": "平らになされた場所。外的な敵という名の情報の侵入を峻烈に警戒し、見通しという名の情報の『透明性』を最大化した、かつての防御陣地が、休息という名の情報の『贅沢』へと変容した姿。",
+		"aftertaste": "遮るもののない地平線の下、自分の情報の『小ささ』を峻烈に祝福する、風の情報の抱擁。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"plane, explain と同じ root。情報の『明晰さ』。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "promenade",
+		"word": "Promenade",
+		"part_of_speech": "noun",
+		"meaning": "プロムナード、散歩道、情報の情報の優雅なる展示",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "pro-",
+					"type": "prefix",
+					"meaning": "forth, forward"
+				},
+				{
+					"text": "mener",
+					"type": "root",
+					"meaning": "to lead"
+				}
+			],
+			"original_statement": "From French promener 'to take for a walk'."
+		},
+		"core_concept": {
+			"en": "a paved public walk, typically one along a waterfront at a resort",
+			"ja": "自らの実存を前方（forth）へと『導き（lead）』、他者の情報の眼差しの中で、歩行という名の情報を『演じる』ための舞台。"
+		},
+		"thinking_layer": "（前に）連れてゆくこと。単なる移動という名の情報の『効率』を峻烈に辞し、装いという名の情報の『過剰』を披露するための、都市という名の情報の『ランウェイ』。",
+		"aftertaste": "行き交う他者の情報の『断片』を、ただ無機質に情報の風景として消費する、優雅なる冷酷さ。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"demeanor (振る舞い) と同根。情報の『自己呈示』。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "jaywalking",
+		"word": "Jaywalking",
+		"part_of_speech": "noun",
+		"meaning": "信号無視横断、情報の情報の無軌道なる越境、愚者の横断",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "jay",
+					"type": "root",
+					"meaning": "stupid person, inexperienced"
+				},
+				{
+					"text": "walk",
+					"type": "root",
+					"meaning": "to walk"
+				}
+			],
+			"original_statement": "From jay (inexperienced person) + walk (1917)."
+		},
+		"core_concept": {
+			"en": "cross or walk in the street or road unlawfully or without regard for approaching traffic",
+			"ja": "情報の『規律（signal/crosswalk）』を持たぬ、カケス（jay）のごとき『愚かな情報の歩行』。都市の情報の秩序への、峻烈なる情報の個人的攪乱。"
+		},
+		"thinking_layer": "未熟者の歩行。効率という名の情報の『最短距離』を求めるあまり、法という名の情報の『結界』を峻烈に踏みにじり、高速で奔る情報の『鉄塊（car）』と、剥き出しの実存を峻烈に激突させる、自殺的なる情報の越境行為。 ",
+		"aftertaste": "クラクションの中に聴く、秩序という名の情報の『怒号』。その刹那の情報のスリルへの背徳。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"jay はかつての田舎者への蔑称。情報の『洗練』への反逆。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "crosswalk",
+		"word": "Crosswalk",
+		"part_of_speech": "noun",
+		"meaning": "横断歩道、情報の情報の聖なる縞、秩序の渡河",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "cross",
+					"type": "root",
+					"meaning": "across"
+				},
+				{
+					"text": "walk",
+					"type": "root",
+					"meaning": "to walk"
+				}
+			],
+			"original_statement": "From cross + walk."
+		},
+		"core_concept": {
+			"en": "a marked part of a road where pedestrians have right of way to cross",
+			"ja": "アスファルトという名の情報の『死の海』を、『横切る（across）』ために、峻烈な情報の『白き縞』によって、一時的な情報の『聖域（right of way）』を現出させる。"
+		},
+		"thinking_layer": "横断する道。敵対する情報のベクトル（車）を、信号という名の情報の『絶対命令』によって峻烈に静止させ、脆弱なる実存の通過を情報の『特権』として許可する、都市における情報の『奇跡』の回廊。 ",
+		"aftertaste": "白線という名の情報の『浮き橋』の上に、文明という名の情報の『信頼』を全託する、祈りのごとき一歩。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"zebra crossing。視覚的な情報の『警句』。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "turnpike",
+		"word": "Turnpike",
+		"part_of_speech": "noun",
+		"meaning": "有料高速道路、情報の情報の情報の情報の選別の矛、通行の徴収",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "turn",
+					"type": "root",
+					"meaning": "to turn"
+				},
+				{
+					"text": "pike",
+					"type": "root",
+					"meaning": "tip of a spear, barrier"
+				}
+			],
+			"original_statement": "From turn + pike (barrier)."
+		},
+		"core_concept": {
+			"en": "an expressway on which a toll is charged",
+			"ja": "情報の『矛（pike）』という名の情報の『遮断』を、貨幣という名の情報の『代償』によって峻烈に『回し（turn）』、越境を許可する。"
+		},
+		"thinking_layer": "回転する矛。もとは物理的な情報の『障壁』。速度という名の『加速』への権利を、資本という名の情報の『選別』によって厳密に定義した、情報の近代的なる徴収のシステム。 ",
+		"aftertaste": "ゲートが開く瞬間の、情報の『自由』を金で買い取ったという、峻烈なる優越の陶酔。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"pike (槍) で通行を拒んでいた時代からの名称。情報の『排他性』。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "freeway",
+		"word": "Freeway",
+		"part_of_speech": "noun",
+		"meaning": "フリーウェイ、情報の情報の無償の飛翔、速度の聖域",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "free",
+					"type": "root",
+					"meaning": "free"
+				},
+				{
+					"text": "way",
+					"type": "root",
+					"meaning": "path"
+				}
+			],
+			"original_statement": "From free + way."
+		},
+		"core_concept": {
+			"en": "an expressway with fully controlled access",
+			"ja": "交差点という名の情報の『停滞』から、峻烈に『自由（free）』にされた、情報の純粋なる『ベクトル（path）』。"
+		},
+		"thinking_layer": "自由な道。信号という名の情報の『独裁』を峻烈に排除し、ただアクセルを踏み込むという名の情報の『自己決定』のみを情報の『真理』とする、移動という名の情報の極限の抽象化。 ",
+		"aftertaste": "流れる街灯の情報の線の向こうに、大地からの情報の『離陸』を夢見る、速度の虚無。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"信号なし、通行無料（多くの場合）。情報の『無償の移動』。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "expressway",
+		"word": "Expressway",
+		"part_of_speech": "noun",
+		"meaning": "高速道路、情報の情報の情報の情報の強制された最短距離、速度の搾り出し",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "ex-",
+					"type": "prefix",
+					"meaning": "out"
+				},
+				{
+					"text": "premere",
+					"type": "root",
+					"meaning": "to press"
+				},
+				{
+					"text": "way",
+					"type": "root",
+					"meaning": "path"
+				}
+			],
+			"original_statement": "From express + way."
+		},
+		"core_concept": {
+			"en": "highway designed for fast traffic, with controlled entrance and exit",
+			"ja": "目的地という名の情報を、最短という名の情報の『圧力（press out）』によって峻烈に『搾り出した』、移動という名の情報の『純液』。"
+		},
+		"thinking_layer": "搾り出された道。寄り道という名の情報の『余剰』を峻烈に抹殺し、ただAからBという名の情報の『関数』を完遂するためだけの、鋼鉄とコンクリートという名の情報の『回路』。 ",
+		"aftertaste": "景色の情報の『詳細』が、速度という名の情報の『ノイズ』へと潰されてゆく、情報の暴力的なる遷移。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"express, pressure と同じ roots。情報の高圧的なる移動。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "skyscraper",
+		"word": "Skyscraper",
+		"part_of_speech": "noun",
+		"meaning": "摩天楼、情報の情報の天空を削る情報の尖塔、傲慢の塔",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "sky",
+					"type": "root",
+					"meaning": "sky, cloud"
+				},
+				{
+					"text": "scrape",
+					"type": "root",
+					"meaning": "to rub, graze"
+				}
+			],
+			"original_statement": "From sky + scraper (originally a tall mast)."
+		},
+		"core_concept": {
+			"en": "a very tall modern building",
+			"ja": "空（sky）という名の情報の『絶対性』を、鋼鉄という名の情報の『鋭利さ』で峻烈に『削り取り（scrape）』、天の高みへと実存を押し上げる。"
+		},
+		"thinking_layer": "空を削るもの。大地という名の情報の『引力』を、エレベーターという名の情報の『垂直移動』によって峻烈に嘲笑い、雲という名の情報の『秘匿』を窓ガラスという名の情報の『透過』で暴く、人類の情報の傲慢。 ",
+		"aftertaste": "最上階の情報の無機質な静寂の中に、地上の情報のカオスを峻烈に見下ろす、神という名の情報の『偽像』への陶酔。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"帆船の最上部のマストから。情報の『極点』の希求。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "penthouse",
+		"word": "Penthouse",
+		"part_of_speech": "noun",
+		"meaning": "ペントハウス、情報の情報の情報の最上階の孤独、選別された隠れ家",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "pendere",
+					"type": "root",
+					"meaning": "to hang"
+				},
+				{
+					"text": "house",
+					"type": "root",
+					"meaning": "house"
+				}
+			],
+			"original_statement": "From French apentis 'attached building' (now associated with roof house)."
+		},
+		"core_concept": {
+			"en": "an apartment on the top floor of a tall building, typically luxuriously fitted",
+			"ja": "都市という名の情報の『巨像』の上に、『吊り下げられた（hang）』かのような、峻烈なる情報の『特権階層（top floor）』の聖域。"
+		},
+		"thinking_layer": "吊り下げられた家。階下という名の情報の『ノイズ』から、重力という名の情報の『階梯』によって峻烈に絶縁され、ただ虚空と光のみを情報の『壁』とする、情報の極限の隠遁場所。 ",
+		"aftertaste": "足元に広がる夜景の情報の粒子の輝きに、支配という名の情報の『所有感』を聴く、静かなる震撼。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"append, pendant と同じ root。情報の『付帯』から『卓越』へ。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "suburb",
+		"word": "Suburb",
+		"part_of_speech": "noun",
+		"meaning": "郊外、情報の情報の都市の周縁、均衡の情報の情報の情報の情報の情報の情報の情報の情報の情報の幻影",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "sub-",
+					"type": "prefix",
+					"meaning": "under, near"
+				},
+				{
+					"text": "urbs",
+					"type": "root",
+					"meaning": "city"
+				}
+			],
+			"original_statement": "From Latin sub- + urbs."
+		},
+		"core_concept": {
+			"en": "an outlying district of a city, especially a residential one",
+			"ja": "中心という名の情報の『狂気（city）』の傍ら（near）に、安永という名の情報の『麻酔』を施された、実存の情報の『待避所』。"
+		},
+		"thinking_layer": "都市の近く（あるいは下）。闘争という名の情報の『本質』を、芝生という名の情報の『仮象』によって峻烈に覆い隠し、同一性という名の情報の『複製』を平穏の名の下に繰り返す、情報の中間領域。 ",
+		"aftertaste": "夕暮れの街灯に照らされた並木道の情報の『静寂』の中に、生という名の情報の『希薄化』を聴く、静かなる絶望。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"urban, exurban と対比。情報の『妥協』の産物。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "slum",
+		"word": "Slum",
+		"part_of_speech": "noun",
+		"meaning": "スラム、情報の情報の情報の底の沈殿、情報の情報の剥奪の情報の情報の溜まり場",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "slum",
+					"type": "root",
+					"meaning": "slumber, backstreet"
+				}
+			],
+			"original_statement": "Originally 'back parlor', then 'low district' (1820s)."
+		},
+		"core_concept": {
+			"en": "a squalid and overcrowded urban street or district inhabited by very poor people",
+			"ja": "情報の『中心』から峻烈に『排除（backstreet）』され、未回収の情報の『ゴミ』として堆積した、物理的な情報の『地獄』。"
+		},
+		"thinking_layer": "（まどろむような）裏路地。資本という名の情報の『代謝』から見捨てられ、生の情報の『崩壊』と、生存という名の情報の『執着』のみが峻烈に交差する、都市という名の情報の『排泄口』。 ",
+		"aftertaste": "汚濁と悪臭の中に、情報の『剥き出しの実存』が放つ、凄絶なる情報の『生命力』への震撼。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"slumber (眠り) との関係説あり。情報の『意識』からの忘却。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "shantytown",
+		"word": "Shantytown",
+		"part_of_speech": "noun",
+		"meaning": "シャンティタウン、板子一枚の都市、仮初めの実存",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "shanty",
+					"type": "root",
+					"meaning": "cabin, hut"
+				},
+				{
+					"text": "town",
+					"type": "root",
+					"meaning": "town"
+				}
+			],
+			"original_statement": "From shanty (French chantier 'lumberyard/yard' or Irish sean 'old' + tigh 'house')."
+		},
+		"core_concept": {
+			"en": "a deprived area on the outskirts of a town consisting of large numbers of crude dwellings",
+			"ja": "仮初めの『小屋（shanty）』という名の情報の『不条理』を積み上げ、生きるという名の情報の『奇跡』を日々、繋ぎ止める。"
+		},
+		"thinking_layer": "小屋の町。土地の所有という名の情報の『法的絶対性』を、生きるという名の情報の『物理的必然』によって峻烈に蹂躙し、段ボールやトタンという名の情報の『薄き膜』の中に、実存を情報の『放擲』から回収する。 ",
+		"aftertaste": "風に震える錆びたトタンの情報の音の中に、脆弱なる文明の情報の、本来の姿を視る。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"chantier (作業場) 由来説。情報の『仮設性』。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "ghetto",
+		"word": "Ghetto",
+		"part_of_speech": "noun",
+		"meaning": "ゲットー、情報の情報の情報の隔離の水の情報の情報の情報の情報の、沈黙の鋳造所",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "geto",
+					"type": "root",
+					"meaning": "foundry"
+				}
+			],
+			"original_statement": "From Venetian geto 'foundry' (neighborhood where Jews were first forced to live)."
+		},
+		"core_concept": {
+			"en": "part of a city occupied by a minority group; isolate or segregate",
+			"ja": "他者という名の情報の『穢れ』を、峻烈な情報の『境界（geto）』の中に鋳造（cast）し、隔離する、情報の『排除』の装置。"
+		},
+		"thinking_layer": "（大砲の）鋳造所。あるいは（ユダヤ人の）居住区。自己という名の情報の『純度』を守るために、他なる情報を一定の空間の中に峻烈に『封じ込め』、そこを情報の『治外法権（あるいは無権利地帯）』とする、恐怖という名の情報の、物理的なる体現。 ",
+		"aftertaste": "高き壁の向こうに、自分たちの情報の『影』が、怨嗟という名の情報の『熱』となって渦巻いているという予感への戦慄。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"Venice の geto (金属鋳造) から。情報の『固着』。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "encampment",
+		"word": "Encampment",
+		"part_of_speech": "noun",
+		"meaning": "野営地、情報の情報の情報の情報の情報の仮の情報の城、移動の情報の静止点",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "en-",
+					"type": "prefix",
+					"meaning": "into"
+				},
+				{
+					"text": "campus",
+					"type": "root",
+					"meaning": "field"
+				}
+			],
+			"original_statement": "From encamp + -ment."
+		},
+		"core_concept": {
+			"en": "a place with temporary accommodations of huts, tents, or other structures, typically used by soldiers or refugees",
+			"ja": "何もない平野（field）という名の情報の『虚無』に、峻烈な情報の『陣地（camp）』を構築し、一時的な情報の『秩序』を産み出す。"
+		},
+		"thinking_layer": "野の中へ入れること。定住という名の情報の『停滞』を棄てた実存が、風雨という名の情報の『暴力』に対し、最小限の情報の『境界』をもって立ち向かう、情報の情報の『決死の場所』。 ",
+		"aftertaste": "夜の闇に灯る焚き火の情報の光の中に、野性という名の情報の、根源的なる情報の情報の『安堵』を聴く。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"campus, champion と同じ root。情報の『開戦の場』。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "settlement",
+		"word": "Settlement",
+		"part_of_speech": "noun",
+		"meaning": "入植地、定住地、情報の情報のカオスの情報の情報の沈殿、秩序の発生",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "setlan",
+					"type": "root",
+					"meaning": "to seat, place"
+				}
+			],
+			"original_statement": "From settle + -ment."
+		},
+		"core_concept": {
+			"en": "a place, typically one which has previously been uninhabited, where people establish a community",
+			"ja": "流動という名の情報の『放浪』を終わらせ、大地に自らの情報の『座（seat）』を峻烈に『固定』する。"
+		},
+		"thinking_layer": "据え置くこと。未開という名の情報の『地平』を、耕作と建築という名の情報の『支配』によって峻烈に塗り替え、野生から文明という名の情報の『意味』を強奪する、情報の開拓の第一歩。 ",
+		"aftertaste": "大地に穿たれた最初の情報の『杭』。そこに、一つの情報の『宇宙』が始まろうとしているという、情報の峻烈なる予感。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"sit, seat, saddle と同じ root。情報の『重みによる固定』。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "municipality",
+		"word": "Municipality",
+		"part_of_speech": "noun",
+		"meaning": "地方自治体、情報の情報の情報の義務の分担、共同の情報の防壁",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "munus",
+					"type": "root",
+					"meaning": "duty, gift, service"
+				},
+				{
+					"text": "capere",
+					"type": "root",
+					"meaning": "to take"
+				}
+			],
+			"original_statement": "From Latin municeps 'citizen with duties'."
+		},
+		"core_concept": {
+			"en": "a city or town that has corporate status and local government",
+			"ja": "共同体の維持という名の情報の『義務（duty）』を、自律的に『引き受ける（take）』情報の集合体。"
+		},
+		"thinking_layer": "（共同の）義務を取るもの。孤独な実存を、峻烈な情報の『連帯』という名の情報の『枷（あるいは救い）』へと繋ぎ、生存の情報の『対価（tax/service）』を支払わせることで、カオスからの防壁を維持する、情報の冷徹なる計算。 ",
+		"aftertaste": "役所の窓口の情報の『無機質さ』の中に、数百万の情報の『生』を支える、巨大なる責任という名の情報の『歯車』を聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"municipal, common と同じ root。情報の『分かち合い』。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "grid",
+		"word": "Grid",
+		"part_of_speech": "noun",
+		"meaning": "格子、情報の情報の情報の情報の絶対的な座標、合理の情報の檻",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "griddle",
+					"type": "root",
+					"meaning": "latticework"
+				}
+			],
+			"original_statement": "Possibly back-formation from griddle (Latin cratis 'wickerwork')."
+		},
+		"core_concept": {
+			"en": "a network of lines that cross each other to form a series of squares or rectangles",
+			"ja": "混沌という名の情報の『大地』に、峻烈な情報の『直交座標（coordinate）』を強制的に刻印し、理（logos）という名の情報の『檻』に閉じ込める。"
+		},
+		"thinking_layer": "格子状のもの。あるいは焼き網。地形という名の情報の『個性』を峻烈に無視し、等間隔という名の情報の『暴力（rationality）』によって世界を区画整理する、情報の冷徹なる支配。 ",
+		"aftertaste": "果てしなく続く直線の交差の中に、神という名の情報の『不確定性』を抹殺した、人類の情報の勝利と、その先の虚脱。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"grate, grill と同じ root。情報の『選別と加熱』。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "zoning",
+		"word": "Zoning",
+		"part_of_speech": "noun",
+		"meaning": "ゾーニング、情報の分割、役割の情報の情報の情報の情報の帯",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "zone",
+					"type": "root",
+					"meaning": "belt, girdle"
+				}
+			],
+			"original_statement": "From Greek zone 'belt'."
+		},
+		"core_concept": {
+			"en": "divide a town or piece of land into zones with different planning restrictions",
+			"ja": "都市という名の情報の『身体』に、機能という名の情報の『ベルト（belt）』を峻烈に巻き付け、情報の『目的（use）』を強制的に定義する。"
+		},
+		"thinking_layer": "帯を締めること。住居、商業、工業という名の情報の『純化』を求め、情報の『混濁』を法という名の情報の『力』で排除する、都市設計という名の、情報の峻烈なる外科手術。 ",
+		"aftertaste": "「ここでは商売をしてはならない」という名の情報の『拒絶』の中に、秩序という名の情報の『強制』の美学を視る。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"zenith (天頂) と綴りが似るが、情報の『境界線』としての帯。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "gentrification",
+		"word": "Gentrification",
+		"part_of_speech": "noun",
+		"meaning": "ジェントリフィケーション、情報の情報の情報の洗練という名の略奪、貴族化",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "gentry",
+					"type": "root",
+					"meaning": "born, well-born"
+				},
+				{
+					"text": "-fication",
+					"type": "suffix",
+					"meaning": "making"
+				}
+			],
+			"original_statement": "From gentry + -fication (1964)."
+		},
+		"core_concept": {
+			"en": "process of renovating and improving a house or district so that it conforms to middle-class taste",
+			"ja": "「質の高き情報の住人（gentry）」のために、汚濁という名の『生の情報』を峻烈に駆逐し、街を『洗練という名の無機質な情報の殻』へと変えゆく。"
+		},
+		"thinking_layer": "貴族化すること。古き情報の『物語』を資本という名の情報の『漂白剤』で拭い去り、高額な情報の『家賃』という名の情報の『防壁』によって、異質な情報を周辺へと追い出す、情報の緩やかなる虐殺。 ",
+		"aftertaste": "かつてのアートやカオスが消えた街の、清潔すぎる情報の『死の影』に、均質化という名の情報の勝利を聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"gentle, generation と同じ roots。情報の『家系の情報の優越』。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "sprawl",
+		"word": "Sprawl",
+		"part_of_speech": "verb",
+		"meaning": "スプロール、情報の情報の無秩序なる肥大、だらしなき拡張",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "spraule",
+					"type": "root",
+					"meaning": "to move limbs convulsively"
+				}
+			],
+			"original_statement": "From Old English spreawlian."
+		},
+		"core_concept": {
+			"en": "sit, lie, or fall with one's arms and legs spread out in an ungainly or awkward way; spreading of urban developments",
+			"ja": "都市という名の情報の『四肢』が、計画という名の情報の『脳』を離れ、峻烈に『だらしなく広がって（spread）』ゆく、情報の暴走。"
+		},
+		"thinking_layer": "手足を投げ出して倒れること。利便という名の情報の『誘惑』に引かれ、大地という名の情報の『余裕』を、低密度なコンクリートという名の情報の『瘡蓋（scab）』で埋め尽くしてゆく、情報の癌的なる増殖。 ",
+		"aftertaste": "果てしなく続く郊外の風景の、その終わりのなさの中に、意志を失った情報の『肥大』の不気味さを視る。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"convulsion (けいれん) 的な動き。情報の『制御の喪失』。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "renewal",
+		"word": "Renewal",
+		"part_of_speech": "noun",
+		"meaning": "再開発、更新、情報の情報の情報の死と再生の情報の円環",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "re-",
+					"type": "prefix",
+					"meaning": "again"
+				},
+				{
+					"text": "new",
+					"type": "root",
+					"meaning": "new"
+				}
+			],
+			"original_statement": "From re- + new."
+		},
+		"core_concept": {
+			"en": "the replacement or repair of something that is worn out or outdated",
+			"ja": "老朽化（old）という名の情報の『疲弊』を、重機という名の情報の『暴力』によって峻烈に抹殺し、情報の『新しさ（new）』という名の下に実存を上書きする。"
+		},
+		"thinking_layer": "再び新しくすること。過去という名の情報の『重荷』を、未来という名の情報の『幻想』へと強引に置換し、記憶の情報の『連続性』を情報の『最新スペック』によって断絶させる、情報の外科的なる若返り。 ",
+		"aftertaste": "更地になった瞬間の、あまりに情報の『虚無的』なまでに白い地面に、過去という名の情報の『不在』を聴く戦慄。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"innovate, novice と同じ root。情報の『未経験』。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "restoration",
+		"word": "Restoration",
+		"part_of_speech": "noun",
+		"meaning": "復元、修復、情報の情報の情報の原初への情報の回帰、時の情報の静止",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "re-",
+					"type": "prefix",
+					"meaning": "back"
+				},
+				{
+					"text": "staurare",
+					"type": "root",
+					"meaning": "to make firm, establish"
+				}
+			],
+			"original_statement": "From Latin restaurare."
+		},
+		"core_concept": {
+			"en": "the action of returning something to a former owner, place, or condition",
+			"ja": "剥落した情報の『断片』を、峻烈な情報の『繋ぎ合わせ』によって、再び強固な情報の『原形（firm back）』へと戻す。"
+		},
+		"thinking_layer": "再び（元通りに）立て直すこと。時間という名の情報の『腐朽』に峻烈に抗い、過ぎ去った情報の『一瞬の情報の完成度』を、現在の情報の『模倣』によって偽装し、永劫に繋ぎ止めようとする、情報の執着的なる愛。 ",
+		"aftertaste": "塗り直された極彩色の情報の情報の裏側に、かつて流れた情報の『時間の情報の深淵』を視ようともがく、情報の寂寥。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"restaurant (元気にさせる場所) と同根。情報の『活力を取り戻す』こと。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "landmark",
+		"word": "Landmark",
+		"part_of_speech": "noun",
+		"meaning": "ランドマーク、情報の情報の目印、地の境界の情報の情報の記憶",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "land",
+					"type": "root",
+					"meaning": "land"
+				},
+				{
+					"text": "mearc",
+					"type": "root",
+					"meaning": "boundary, sign"
+				}
+			],
+			"original_statement": "From land + mark."
+		},
+		"core_concept": {
+			"en": "an object or feature of a landscape or town that is easily seen and recognized from a distance",
+			"ja": "広大なる大地（land）という名の情報の『混沌』。その中に、峻烈。なる情報の『標（mark）』を穿ち、方位という名の座標の情報の『支点』とする。"
+		},
+		"thinking_layer": "土地の印。迷いという名の情報の『不安』を、唯一絶対の『目印（tower/monument）』という名の情報の『確信』によって峻烈に駆逐し、世界をその一点を中心とした情報の『地図』へと再編する、情報の磁石。 ",
+		"aftertaste": "遠くに見えるその情報の鋭利なシルエットに、自らの情報の『現在地』を全託する、静かなる情報の服従。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"mark, margin と同じ root。情報の『際（きわ）』を定める。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "fountain",
+		"word": "Fountain",
+		"part_of_speech": "noun",
+		"meaning": "噴水、情報の情報の情報の水の情報の情報の爆発、湧き上がる情報の泉",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "fons",
+					"type": "root",
+					"meaning": "spring, source"
+				}
+			],
+			"original_statement": "From Latin fontanus."
+		},
+		"core_concept": {
+			"en": "an ornamental structure in a pool or lake from which one or more jets of water are pumped into the air",
+			"ja": "大地という名の情報の『深淵（source）』から、重力という名の情報の『枷』を峻烈に振り切って、垂直の情報の飛翔（jet）を繰り返す水の意志。"
+		},
+		"thinking_layer": "情報の源。重力という名の情報の『呪縛』に対し、圧力という名の情報の『反逆』を持って立ち向かい、しぶきという名の情報の『無数の断片』となって散りゆく、一瞬の情報の情報の輝き。それは、都市の沈黙の、情報の鼓動。 ",
+		"aftertaste": "降り注ぐ情報の飛沫の、そのあまりの情報の『意味のなさ』に、純粋なる、情報の物理的な美への、情報の没入。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"font, font of knowledge と同じ roots。情報の『湧出』。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "causeway",
+		"word": "Causeway",
+		"part_of_speech": "noun",
+		"meaning": "堤道、情報の水の上の情報の情報の高き情報の道、越境の情報の情報の築堤",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "calx",
+					"type": "root",
+					"meaning": "lime, limestone, lime-paved"
+				},
+				{
+					"text": "way",
+					"type": "root",
+					"meaning": "path"
+				}
+			],
+			"original_statement": "From Latin calciata via 'paved road'."
+		},
+		"core_concept": {
+			"en": "a raised road or track across low or wet ground",
+			"ja": "石灰（lime）という名の情報の『硬度』。によって、泥沼という名の情報の『混沌』を一刀両断にし、水の情報の情報の上の越境を可能にする。"
+		},
+		"thinking_layer": "舗装された道。自然という名の情報の『気まぐれ（tide/marsh）』を、土木という名の情報の『圧倒的な質量』によって峻烈にねじ伏せ、一直線という名の情報の『論理（logos）』を通す、文明の情報の力学。 ",
+		"aftertaste": "両側に広がる情報の深淵を情報の、ただ一条の白き線として走り抜ける、情報の、孤独なる征服。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"calcium と同じ root。石灰による情報の『固化』。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "embankment",
+		"word": "Embankment",
+		"part_of_speech": "noun",
+		"meaning": "堤防、情報の情報の情報の水の猛威への情報の、情報の情報の情報の情報の土の情報の咆哮",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "en-",
+					"type": "prefix",
+					"meaning": "in, on"
+				},
+				{
+					"text": "banc",
+					"type": "root",
+					"meaning": "bench, shelf, slope"
+				}
+			],
+			"original_statement": "From embank + -ment."
+		},
+		"core_concept": {
+			"en": "a wall or bank of earth or stone built to prevent a river flooding an area",
+			"ja": "平坦（bench）という名の情報の『安寧』を護るために、峻烈な情報の『斜面（slope）』という名の情報の『盾』を築き、カオスを『中（in）』へと封じ込める。"
+		},
+		"thinking_layer": "堤の上に置くこと。奔流という名の情報の『暴力』に対し、土と石という名の情報の『沈黙の質量』を持って立ち向かい、生と死を情報の『一枚の壁』で峻烈に隔絶する、防御という名の情報の情報の祈り。 ",
+		"aftertaste": "高き堤の上から。眼下の情報の激流を見下ろす瞬間の、人工という名の情報の『全能感』と、その背後の情報の危うさへの戦慄。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"bank (銀行) と同じ root。情報の『たくわえ』。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "sewer",
+		"word": "Sewer",
+		"part_of_speech": "noun",
+		"meaning": "下水道、情報の情報の情報の情報の暗黒の情報の情報の情報の情報の川、都市の情報の無意識",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "ex-",
+					"type": "prefix",
+					"meaning": "out"
+				},
+				{
+					"text": "aqua",
+					"type": "root",
+					"meaning": "water"
+				}
+			],
+			"original_statement": "From Old French essewer 'to drain water' (ex- + aqua)."
+		},
+		"core_concept": {
+			"en": "an underground conduit for carrying off drainage water and waste matter",
+			"ja": "都市という名の情報の『華やかさ』の影で、不要となった情報の『澱（waste）』を、峻烈な情報の『水（aqua）』によって外部（out）へと追放する、暗黒の血管。"
+		},
+		"thinking_layer": "水を外へ出すもの。地表という名の情報の『ロゴス』が生み出した不浄を、地下という名の情報の『忘却』へと峻烈に流し込み、清浄という名の情報の『偽像』を維持するための、都市の情報の『必然的な深淵』。 ",
+		"aftertaste": "マンホールの底から響く情報の、低き水の音の中に、文明という名の情報の『代償』の情報の情報の情報の情報の、重き情報の香りを。聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"aqueduct と対をなす、情報の『排泄』の。回路。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "conduit",
+		"word": "Conduit",
+		"part_of_speech": "noun",
+		"meaning": "導管、コンジット、情報の、意思を運ぶ情報の、情報の情報の情報の鋼の管",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "com-",
+					"type": "prefix",
+					"meaning": "together"
+				},
+				{
+					"text": "ducere",
+					"type": "root",
+					"meaning": "to lead"
+				}
+			],
+			"original_statement": "From Latin conductus."
+		},
+		"core_concept": {
+			"en": "a channel for conveying water or other fluid; a tube or trough for protecting electric wiring",
+			"ja": "バラバラな情報の『流体（energy/water）』を、峻烈な情報の『一なる管（channel）』へと引き絞り、目的の場所へと『共に導く（lead together）』。"
+		},
+		"thinking_layer": "共に導くこと。拡散という名の情報の『損失』を峻烈に拒み、壁という名の情報の『拘束』によって、情報の情報の『純度』と『圧力』を物理的な座標の深淵まで届けるための、情報の情報の峻烈なる情報の『回線（circuit）』。",
+		"aftertaste": "壁の中を奔る不可視な情報の『脈動』に、都市という名の情報の『生き物』の、静かなる情報の熱を感得する。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"conduct, duct と同じ root。情報の『管理された流動』。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "gridlock",
+		"word": "Gridlock",
+		"part_of_speech": "noun",
+		"meaning": "完全な交通渋滞、グリッドロック、情報の情報の秩序の自壊",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "grid",
+					"type": "root",
+					"meaning": "lattice"
+				},
+				{
+					"text": "lock",
+					"type": "root",
+					"meaning": "to fasten"
+				}
+			],
+			"original_statement": "From grid + lock (1980)."
+		},
+		"core_concept": {
+			"en": "a traffic jam affecting various intersecting streets of a city",
+			"ja": "格子（grid）という名の情報の『秩序』。その結節点という名の情報の『交差』が、情報の飽和によって峻烈に『施錠（lock）』され、全体が静止する。"
+		},
+		"thinking_layer": "格子の錠。効率という名の情報の『追求』が、過剰という名の情報の『暴力』に反転したとき、すべての移動が自己矛盾によって峻烈に停止する、都市という名の情報の『脳死状態』。 ",
+		"aftertaste": "一歩も動けぬ鉄の情報の情報の群れの中に、自ら作り上げた情報の秩序に絞め殺されるという、笑えぬ情報の皮肉を視る震撼。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"rationality の極限の自壊。情報の『死の情報の結び目』。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "congestion",
+		"word": "Congestion",
+		"part_of_speech": "noun",
+		"meaning": "混雑、情報の情報の情報の過剰なる積層、息苦しき情報の情報の情報の飽和",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "com-",
+					"type": "prefix",
+					"meaning": "together"
+				},
+				{
+					"text": "gerere",
+					"type": "root",
+					"meaning": "to carry"
+				}
+			],
+			"original_statement": "From Latin congestio 'a bringing together, a heap'."
+		},
+		"core_concept": {
+			"en": "the state of being overcrowded or blocked with traffic or people; accumulation of fluid",
+			"ja": "限界を超えた情報の『質量』を、狭窄な情報の『場所』へと『共に運び込み（carry together）』、峻烈な情報の『山（heap）』を築かせる。"
+		},
+		"thinking_layer": "（一箇所に）運び込むこと。流動という名の情報の『生命』が、密度という名の情報の『重圧』によって峻烈に凝固し、実存がただの情報の『肉の壁』へと還元される、情報の酸欠状態。 ",
+		"aftertaste": "他者の熱気という名の情報の『ノイズ』に埋没し、自らの実存の情報の『境界』が峻烈に侵食されてゆく、情報の不快なる情報の同化。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"gestation, suggest と同じ root。情報の『運び込み』。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "rebar",
+		"word": "Rebar",
+		"part_of_speech": "noun",
+		"meaning": "鉄筋、リバー、情報の情報の情報の内部の剛性、鋼の情報の情報の情報の意思",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "re-",
+					"type": "prefix",
+					"meaning": "reinforcing"
+				},
+				{
+					"text": "bar",
+					"type": "root",
+					"meaning": "bar, rod"
+				}
+			],
+			"original_statement": "Short for reinforcing bar."
+		},
+		"core_concept": {
+			"en": "a steel bar or mesh of steel wires used as a tension device in reinforced concrete",
+			"ja": "コンクリートという名の情報の『冷徹な沈黙』の内部に、鋼鉄という名の情報の『引張の意志（rod）』を峻烈に『補強（reinforce）』として埋め込む。"
+		},
+		"thinking_layer": "補強する棒。圧縮という名の情報の『暴力』に耐えるコンクリートに、引張という名の情報の『柔軟なる剛性』を授ける、見えざる情報の『骨格』。それは、文明の情報の不撓不屈の芯（core）。 ",
+		"aftertaste": "コンクリートが砕けた時に露わになる、その無骨な情報の鉄の情報の情報の連なり。そこに、不可視な情報の『意思の強さ』を視る喜び。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"force, barrier と同じ根を持つ、情報の『力』。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "scaffolding",
+		"word": "Scaffolding",
+		"part_of_speech": "noun",
+		"meaning": "足場、スキャフォールディング、情報の情報の情報の仮初の情報の高み、構築の情報の情報の影",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "scaffold",
+					"type": "root",
+					"meaning": "stage for an exhibition or execution"
+				}
+			],
+			"original_statement": "From Old French eschafaut (from Latin catafalcum 'catafalque')."
+		},
+		"core_concept": {
+			"en": "a temporary structure on the outside of a building, used by workers while building, repairing, or cleaning",
+			"ja": "完成という名の情報の『実体』が現出するまでの間、峻烈な情報の『虚無』に情報を刻印するための、仮初めの『舞台（stage）』。"
+		},
+		"thinking_layer": "（展示、あるいは処刑のための）舞台。虚空に実存を繋ぎ止めるための、細き管と板という名の情報の『不安定なる秩序』。それは、創造という名の情報の『闘争』を支える、情報の仮の骨。 ",
+		"aftertaste": "解体された瞬間に、建物の情報の『真実』が自立するという、一抹の情報の情報の『喪失感』を伴う、情報の完成の報。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"catafalque (棺台) と同源。生と死の情報の境界。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "crane",
+		"word": "Crane",
+		"part_of_speech": "noun",
+		"meaning": "クレーン、情報の情報の情報の天空を運ぶ情報の鳥、鋼の情報の情報の情報の情報の重力の征服",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "cran",
+					"type": "root",
+					"meaning": "crane (the bird)"
+				}
+			],
+			"original_statement": "From the resemblance to the long neck and legs of the bird (Old English cran)."
+		},
+		"core_concept": {
+			"en": "a large, tall machine used for moving heavy objects by suspending them from a projecting arm or beam",
+			"ja": "鶴（crane）という名の情報の『長い首』という名の情報のシルエットを、鋼鉄という名の情報の情報の『意思』によって物理化し、情報の質量を天空へと持ち上げる。"
+		},
+		"thinking_layer": "鶴。重力という名の情報の『独裁』を、ワイヤーという名の情報の『糸』一つで峻烈に嘲笑い、巨大なる情報の『断片』を虚空に浮遊させる、文明という名の情報の『手』。それは、天空という名の、情報の建築の。筆致（stroke）。",
+		"aftertaste": "空高く、ゆっくりと旋回するその情報の腕に、世界の形を書き換えんとする、人類の情報の、情報の不遜なる勇。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"鳥という名の自然の造形を、情報の『力の情報の装置』。へと情報の簒奪。"
+			]
+		},
+		"date": "20-03-12"
+	},
+	{
+		"id": "pavement",
+		"word": "Pavement",
+		"part_of_speech": "noun",
+		"meaning": "舗装、ペイブメント、情報の情報の情報の踏み固められた情報の情報の情報の静寂の平原",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "pavire",
+					"type": "root",
+					"meaning": "to beat, ram, tread down"
+				}
+			],
+			"original_statement": "From Latin pavimentum 'beaten floor'."
+		},
+		"core_concept": {
+			"en": "a raised paved path for pedestrians at the side of a road",
+			"ja": "土という名の情報の『不定形』を、峻烈な情報の『打圧（beat down）』によって沈黙させ、文明という名の情報の『硬質な情報の地肌』を現出させる。"
+		},
+		"thinking_layer": "打ち固められた床。泥による情報の『汚濁』を峻烈に拒み、一歩一歩の歩行という名の情報の『確信』を支えるための、人造の大地。それは、自然という名の情報を峻烈に封印した、都市という名の情報の『表皮』。 ",
+		"aftertaste": "靴底が叩くアスファルトの情報の『音』の中に、野生からの情報の完全なる絶縁を聴く、冷徹な情報の満足。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"impact, pavior と同じ root。情報の『鍛錬』。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "curb",
+		"word": "Curb",
+		"part_of_speech": "noun",
+		"meaning": "縁石、縁、情報の情報の情報の境界の情報の情報の抑制、秩序の端",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "curvare",
+					"type": "root",
+					"meaning": "to bend, curve"
+				}
+			],
+			"original_statement": "From French courbe 'curved' (strap used to restrain a horse)."
+		},
+		"core_concept": {
+			"en": "a stone or concrete edging to a street or path",
+			"ja": "情報の『流動（car）』と情報の『停滞（walking）』を、峻烈な情報の『曲りし情報の境界（curve）』によって峻別し、抑制（restrain）する。"
+		},
+		"thinking_layer": "曲がったもの（馬を制御する馬具の鎖）。車道という名の情報の『暴力』から、歩道という名の情報の『弱さ』を、高低差という名の情報の『峻別』によって死守する、情報の物理的なる一線（border）。",
+		"aftertaste": "そのわずか数センチの、情報の情報の『断絶』。それが生と死を分けているという、都市の情報の危うき情報の、均衡。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"curve と同じ root。情報の『制御された情報の形状』。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "gutter",
+		"word": "Gutter",
+		"part_of_speech": "noun",
+		"meaning": "溝、情報の情報の情報の雫の情報の、情報の情報の情報の情報の情報の暗き情報の情報の情報の情報の情報の通路、排斥の情報の情報の水の情報の情報の喉",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "gutta",
+					"type": "root",
+					"meaning": "drop"
+				}
+			],
+			"original_statement": "From Latin gutta 'drop'."
+		},
+		"core_concept": {
+			"en": "a shallow trough or channel for carrying off rainwater",
+			"ja": "一滴一滴（drop）という名の情報の『余剰』を、峻烈な情報の『溝』。へと収束させ、都市の情報の『表面』から峻烈に情報の排除（drain）する。"
+		},
+		"thinking_layer": "滴るもの。天からの情報の『恩恵』であった雨が、都市という名の情報の『完成』においては情報の『ノイズ』へと堕ちた時、それを地の底という名の情報の『暗黒』へと追い落とす、情報の拒絶の回路。 ",
+		"aftertaste": "吸い込まれてゆく情報の情報の濁流の情報の渦の中に、不要という名の情報の烙印を押されたものの、情報の悲しき情報の情報を情報の、聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"gout (痛風) と同じ root。情報の情報の『雫』の情報の暴力。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "manhole",
+		"word": "Manhole",
+		"part_of_speech": "noun",
+		"meaning": "マンホール、情報の情報の穴、深淵への情報の情報の情報の闖入",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "man",
+					"type": "root",
+					"meaning": "human being"
+				},
+				{
+					"text": "hole",
+					"type": "root",
+					"meaning": "opening, cave"
+				}
+			],
+			"original_statement": "From man + hole."
+		},
+		"core_concept": {
+			"en": "a small covered opening in a paved area, allowing a person to enter a sewer or other underground utility",
+			"ja": "人間（man）という名の情報の『実存』が、都市の情報の『裏側』という名の『暗黒の洞穴（hole）』へと情報を闖入させるための、情報の情報の境界の門。"
+		},
+		"thinking_layer": "人間の穴。アスファルトという名の情報の『偽像』の皮膚の下に、巨大なる情報の『臓器（pipe/sewer）』が蠢いているという、都市という名の情報の『身体性』を思い知らせる、鉄の情報の蓋。 ",
+		"aftertaste": "蓋の情報の隙間から立ち昇る情報の、温かき腐臭の中に、文明という名の情報の『体温』を聴く、静かなる震撼。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"hollow と同じ hole。情報の『空隙』。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "lamppost",
+		"word": "Lamppost",
+		"part_of_speech": "noun",
+		"meaning": "街灯柱、情報の情報の情報の情報の夜という名の情報の虚無の中の、情報の情報の光の情報の情報の情報の孤立する情報の。情報の衛兵",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "lampas",
+					"type": "root",
+					"meaning": "torch, light"
+				},
+				{
+					"text": "post",
+					"type": "root",
+					"meaning": "stake, pillar"
+				}
+			],
+			"original_statement": "From lamp + post."
+		},
+		"core_concept": {
+			"en": "tall post with a light at the top",
+			"ja": "一本の情報の『柱（pillar）』の上に、松明（torch）という名の情報の『光』。を峻烈に掲げ、夜という名の情報の『カオス』を、人工の秩序という名の情報の『円環』。へと焼き尽くす。"
+		},
+		"thinking_layer": "灯火の柱。闇という名の情報の『絶対』に対し、電力という名の情報の『反逆』を持って立ち向かい、孤独なる実存の周囲に、わずか数メートルの情報の『安住』を現出させる、情報の沈黙の衛兵。 ",
+		"aftertaste": "雨に濡れた歩道を照らすその黄色い情報の情報の光の情報の情報の寂寥。の中に、一人で情報を。背負うという情報の、凛とした情報の覚悟を聴く。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"lamp, lantern, post。情報の『不寝番』。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "billboard",
+		"word": "Billboard",
+		"part_of_speech": "noun",
+		"meaning": "看板、ビルボード、情報の情報の情報の欲望の情報の巨大なる放擲",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "bill",
+					"type": "root",
+					"meaning": "document, poster"
+				},
+				{
+					"text": "board",
+					"type": "root",
+					"meaning": "plank"
+				}
+			],
+			"original_statement": "From bill (poster) + board (1845)."
+		},
+		"core_concept": {
+			"en": "a large outdoor board for displaying advertisements",
+			"ja": "空（sky）という名の情報の『無』。に対し、巨大な『板（board）』という名の情報の『盾』を突きたて、消費という名の情報の『イメージ』を一方的に情報の投射する。"
+		},
+		"thinking_layer": "ポスターの板。視線という名の情報の『資源』を、巨大な面積という名の情報の『暴力』によって強奪し、他者の脳裏に「何かを欲する」という名の情報の『呪い』を情報の情報の情報の、強制的に書き込む、情報の情報の情報の略奪の、情報の舞台装置。 ",
+		"aftertaste": "夕闇に浮かぶ巨大な笑顔の情報の、そのあまりの情報の『虚構性』に、現実という名の情報の情報の薄っぺらさを視る。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"bull (教皇令) と同じ root。情報の『絶対的告知』。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "kiosk",
+		"word": "Kiosk",
+		"part_of_speech": "noun",
+		"meaning": "キオスク、キヨスク、情報の情報の情報の街角の情報の小さき情報の情報の情報の情報の沈黙の情報の情報の箱、情報の情報の情報の休息の情報の欠片",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "koshk",
+					"type": "root",
+					"meaning": "pavilion, villa"
+				}
+			],
+			"original_statement": "From Turkish koshk (Persian kushk 'palace, villa')."
+		},
+		"core_concept": {
+			"en": "a small open-fronted hut or cubicle from which newspapers, refreshments, and tickets are sold",
+			"ja": "かつての情報の『宮殿（palace）』という名の情報の『贅沢』を、都市の情報の『隙間』という名の『小さき箱（hut）』へと極限まで情報の、情報の凝縮（compact）した姿。"
+		},
+		"thinking_layer": "東屋（あずまや）。流動という名の情報の『激流』の中に、情報の『一時の情報の停滞』。を許す、路上の情報の情報の小さな情報の『情報の情報の情報の泡（bubble）』。新聞、煙草、菓子という名の情報の『数秒の情報の慰め』を、情報の情報の換金する、情報の情報の情報の辺境の情報の寺院。 ",
+		"aftertaste": "雑踏の中に佇むその箱の、情報の情報の情報の情報の寡黙なる情報の情報の、奉仕という名の情報の情報の、情報の重みを情報の情報の。聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"中東の情報の宮殿の装飾的な情報の情報の小屋。から転用。情報の情報の『微細なる情報の豪華さ』。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
