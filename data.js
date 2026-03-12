@@ -258073,5 +258073,46 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "deviation",
+		"word": "Deviation",
+		"part_of_speech": "noun",
+		"meaning": "逸脱、偏差、偏り",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "de-",
+					"type": "prefix",
+					"meaning": "away from (〜から離れて)"
+				},
+				{
+					"text": "via",
+					"type": "root",
+					"meaning": "way (道)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin deviatio, from deviare 'turn aside', from de- 'away from' + via 'way'."
+		},
+		"core_concept": {
+			"en": "The action of departing from an established course or accepted standard",
+			"ja": "誰もが歩むべき、定められた平坦な『道（way）』から、自らの意志で、あるいは外部の力によって『離れて（away from）』ゆくこと。正しい軌道からの美しく、あるいは危険な『逸脱』"
+		},
+		"thinking_layer": "『道から外れること』。コンヴォイ（Convoy/護送車＝共に道を行くもの）や、おなじみの「ヴィア（〜経由で）」と同根。ただの「間違い」ではなく、そこに「元の道（理想）」という基準が存在することを意識させます。それは理想のスコアからの「偏差（Standard Deviation）」から、社会の規範を破る「非道（Deviation）」まで。 ",
+		"aftertaste": "真っ当な人生のレールから、たった一晩の過ちで「逸脱（deviation）」してしまった後の、あの風景が二度と元には戻らないという白々とした孤独。あるいは、誰も思いつかなかったような「型破りな手法（creative deviation）」で難問を解決し、新しい「道」を作り出した瞬間の、あの荒野を切り拓く者の誇り。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "wegh-",
+					"meaning": "to go, move, transport (forming via/way)"
+				}
+			],
+			"points": [
+				"way, convoy, obvious（道の上にある＝明白な）, voyage（道のり＝航海）と同根。",
+				"『逸脱（deviation）』とは、既存の交通（traffic）を拒絶し、自分自身の『足跡（track）』だけを信じて歩き始めるという、生の根源的な『決断』である。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
