@@ -255714,5 +255714,41 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "infernal",
+		"word": "Infernal",
+		"part_of_speech": "adjective",
+		"meaning": "地獄の、極悪非道な、地獄のように苦しい",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "inferus",
+					"type": "root",
+					"meaning": "low, below (低い、下方の)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin infernalis, from infernus 'low'."
+		},
+		"core_concept": {
+			"en": "Relating to or characteristic of hell or the underworld; irritating and tiresome",
+			"ja": "最も『低い場所（low）』、すなわち光から完全に見放された『地獄の』。燃え盛る劫火（ごうか）と絶え間ない苦痛、あるいは現代においては、あまりにも理不尽で、あまりにも醜い事物に対する吐き捨てるような罵倒"
+		},
+		"thinking_layer": "『下方のこと』。インフェルノ（Inferno）やインフェリア（Inferior/劣った）と同根。本来は単に「低い位置にあるもの」を指していましたが、それが宗教的な「罰の場所」と結びつき、最も呪わしい、邪悪な意味を帯びるようになりました。それは、秩序の崩壊（Chaos）と、終わりのない摩擦が生む、魂の熱。 ",
+		"aftertaste": "都会の喧騒と暴力的な広告の光に、頭が割れそうになりながら、「ここは地獄（inferno）だ」と呟く時の、あの乾いた怒り。あるいは、自分が犯した罪を、永遠に自分自身で裁き続けなければならないという、心の牢獄の終わりのない責めり。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ndher-",
+					"meaning": "under"
+				}
+			],
+			"points": [
+				"under, inferior, infernal, infra- 同根。",
+				"『下（under）』にあることは、常に『重圧（pressure）』に晒されていることを意味し、それが究極の『苦痛（hell）』へと翻訳された。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
