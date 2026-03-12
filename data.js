@@ -273524,5 +273524,184 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "fascia",
+		"word": "Fascia",
+		"part_of_speech": "noun",
+		"meaning": "筋膜（きんまく）、ファシア、（建築の）鼻隠し",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "fascia",
+					"type": "root",
+					"meaning": "band, bandage, bundle (帯、包帯、束)', from Latin"
+				}
+			],
+			"original_statement": "From Latin fascia 'band'."
+		},
+		"core_concept": {
+			"en": "A thin casing of connective tissue that surrounds and holds every organ, blood vessel, bone, nerve fiber and muscle in place",
+			"ja": "個別の部品（organs）を一つの統一体へと繋ぎ止める、峻烈な『情報の包帯』。自らの形を主張せず、ただ全体を包摂（enclosure）することで、生命の『一貫性（coherence）』を死守する、知的な『結合の沈黙』。"
+		},
+		"thinking_layer": "『帯、包帯』。ファシスト（Fascist/結束した者）、おなじみ「バンド（Band）」と同根。語源は「帯」。ただの「膜」ではありません。そこには。「バラバラになろうとする個々の部分を一心同体に繋ぎ（binding）、かつ滑らかに動かせるように潤滑（lubrication）させる」という、洗練された組織運営の知恵が宿っています。それは。知性が雑多なアイディアを、一つの強靭な「物語（narrative）」という名の帯で束ね上げ、強力な「意志の束」へと昇華させるプロセスのメタファー。",
+		"aftertaste": "全身を包む「ファシア（fascia）」の、その目に見えない「ネットワーク」の美しさに想いを馳せ、自分という存在がいかに「多層的な繋がり（layers of connections）」によって支えられているかを知り、深い安堵を覚える、あの知的な平安。あるいは、自分の思考もまた、この「ファシア」のように、柔軟でありながらも決して千切れることのない「強靭な誠実さ」を備えていたい、と願う、あの静かな夜の自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "bhasko-",
+					"meaning": "bundle (forming fascia)"
+				}
+			],
+			"points": [
+				"fasces, fascist, fascism 同根。",
+				"『束ねる（bundling）』ことは、個の力を集約し、新しい次元の強さを生み出す行為である。ファシアは、生命がいかにして『多から一（E Pluribus Unum）』という政治的な理想を、肉体という名の現場において完璧に実現してきたかを示す、物理的なガバナンスの詩である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "ligament",
+		"word": "Ligament",
+		"part_of_speech": "noun",
+		"meaning": "靱帯（じんたい）、結合、紐",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "ligare",
+					"type": "root",
+					"meaning": "to bind (縛る)', from Latin"
+				}
+			],
+			"original_statement": "From Latin ligamentum, from ligare 'bind'."
+		},
+		"core_concept": {
+			"en": "A short band of tough, flexible fibrous connective tissue which connects two bones or cartilages or holds together a joint",
+			"ja": "骨と骨を繋ぎ、世界の崩壊を食い止める、峻烈な『契約の紐』。自由な運動を許容しながらも、決定的な『逸脱（dislocation）』を決して許さない、知的な『物理的コンプライアンス』。"
+		},
+		"thinking_layer": "『縛るもの』。ライアビリティ（Liability/義務、負債）、アライアンス（Alliance/同盟）、おなじみの「リグ（Rig/索具）」と同根。語源は「縛ること」。ただの「組織」ではありません。そこには。「自分自身のアイデンティティを、強大な他者（骨）と不可逆的に結合（coupling）させ、運命を共にし続ける」という、峻烈な連帯の意志が宿っています。それは。知性が真理の断片を、論理という名の「靱帯」で繋ぎ止め、揺るぎない一つの「真理の骨組み」を構築してゆく瞬間の、静かなる連帯感。 ",
+		"aftertaste": "関節（joint）を支える「靱帯（ligament）」の、その千切れんばかりの緊張（tension）に耐えながら、自分の「歩み」を支え続けている健気さに打たれ、生命の「結束（solidarity）」の凄まじさを痛感する、あの峻烈な一呼吸。あるいは、自分の思考もまた、この「リガメント」のように、どれほど激しい外部の衝撃を浴びても、常に「自分自身の中心」を見失わず、確固たる信念を繋ぎ止め続けるものでありたい、と願う、あの静かな夜の自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "leig-",
+					"meaning": "to bind (forming ligare)"
+				}
+			],
+			"points": [
+				"bind, band, bond, obligation, religion 同根。",
+				"『縛る（binding）』ことは、必然性を生み出すことである。リガメントという言葉には、生命がいかにして『自由』という名のカオスを制限し、そこに『機能』という名の秩序を打ち立ててきたかという、峻烈なデザインの歴史が刻まれている。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "tendon",
+		"word": "Tendon",
+		"part_of_speech": "noun",
+		"meaning": "腱（けん）、（比喩的に）力の源泉",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "teneira",
+					"type": "root",
+					"meaning": "sinew (筋肉)', from Greek teinein 'to stretch'"
+				}
+			],
+			"original_statement": "From Latin tendo, from Greek teinein 'stretch'."
+		},
+		"core_concept": {
+			"en": "A flexible but inelastic cord of strong fibrous collagen tissue attaching a muscle to a bone",
+			"ja": "意思（muscle）を物理的な力（movement）へと変換する、峻烈な『エネルギーの伝達装置』。自らは決して折れず、ただ『引き伸ばされる（stretching）』ことで世界の重力に抗う、知的な『力の結晶』。"
+		},
+		"thinking_layer": "『引き伸ばすもの』。テンション（Tension/緊張）、テンダー（Tender/柔らかい＝伸ばしやすい）、おなじみの「テネイト（Tenant/借り主＝掴んでいる人）」と同根。語源は「伸ばす」。ただの「組織」ではありません。そこには。「内なる叫び（想い）を、現実に影響を与えるための『具体的な行動』へと、ロス（loss）なく伝達する」という、極限の効率への意志が宿っています。それは。知性が得たばかりの「着想」を、磨き上げられた「表現（expression）」へと一気に引き伸ばし、他者の心に突き刺そうとする瞬間のメタファー。",
+		"aftertaste": "アキレス腱（Achilles tendon）の、あの鋼のような硬度と、鞭のようなしなやかさの完璧な融合に立ち、自分の中にある「未だ眠れる巨人の力」が、いつか解き放たれる時を待って震える、あの峻烈な一呼吸。あるいは、自分の言葉もまた、この「テンドン」のように、虚飾を廃し、ただ真理を世界へと叩き込むための「純粋な力（force）」そのものでありたい、と願う、あの静かな午後の自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ten-",
+					"meaning": "to stretch (forming teinein)"
+				}
+			],
+			"points": [
+				"thin, tend, tenace, tent, tension 同根。",
+				"『伸ばす（stretching）』ことが、最も硬い（strong）ものを作る。テンドンという言葉には、生命がいかにして『緊張感（tension）』そのものを自らの物理的な一部として具現化し、それを『推進力』に変えてきたかという、進化の驚異が封印されている。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "cartilage",
+		"word": "Cartilage",
+		"part_of_speech": "noun",
+		"meaning": "軟骨（なんこつ）、(比喩的に)衝撃の吸収材",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "cartilago",
+					"type": "root",
+					"meaning": "gristle (軟骨)', from Latin"
+				}
+			],
+			"original_statement": "From Latin cartilago."
+		},
+		"core_concept": {
+			"en": "Firm, whitish, flexible connective tissue found in various forms in the larynx and respiratory tract, in structures such as the external ear, and in the articulating surfaces of joints",
+			"ja": "骨（hardness）へと至る途上の、未完の『しなやかな強度』。外部の打撃を優しく受け流し、摩擦（friction）を静寂（silence）へと変換する、知的な『衝撃のクッション』。"
+		},
+		"thinking_layer": "『軟骨』。おなじみ「ボーン（Bone/骨）」とは異なる、柔らかい段階。語源は「軟骨」。ただの「組織」ではありません。そこには。「完全に固まりきらない（indeterminacy）ことで、最も複雑な形（ear, nose）や、最も過酷な負荷（joint）に対応する」という、柔軟なサバイバル戦略が宿っています。それは。知性がドグマという名の硬い「骨」になる前に、あえて「迷い」や「変化」という名の「軟らかさ」を自らの中に宿し、世界のあらゆる歪みを吸収しようとする瞬間のメタファー。",
+		"aftertaste": "耳の「軟骨（cartilage）」の、あの絶妙な弾力性に触れ、生命とは決して「固いこと」がすべてではなく、美しさとはこのような「抗うことのない強度」の先に宿るのだと悟る、あの知的な平安。あるいは、自分の心もまた、この「カーティリッジ」のように、鋭い非難（criticism）を浴びても折れることなく、それを自らを磨くための「バネ（spring）」へと変えてゆく、優雅なしなやかさを備えていたい、と願う、あの静かな夜の自尊心。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"『グリッスル（gristle）』は、生命が最も過酷な環境（関節の摩擦面）に送り込んだ、究極の潤滑システムである。",
+				"子供の骨は軟骨でできており、成長と共に硬化（ossification）してゆく。軟骨という言葉には、生命がいかにして『可塑性（plasticity）』という美徳を、やがて来る『安定（stability）』のために捧げてきたかという、成長の痛みが刻印されている。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "periosteum",
+		"word": "Periosteum",
+		"part_of_speech": "noun",
+		"meaning": "骨膜（こつまく）、ペリオステウム",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "peri-",
+					"type": "prefix",
+					"meaning": "around (周りに)"
+				},
+				{
+					"text": "osteon",
+					"type": "root",
+					"meaning": "bone (骨)', from Greek"
+				}
+			],
+			"original_statement": "From Greek peri- 'around' + osteon 'bone'."
+		},
+		"core_concept": {
+			"en": "A dense layer of vascular connective tissue enveloping the bones except at the surfaces of the joints",
+			"ja": "冷徹な骨（bone）を、暖かな血流（blood）と神経（senses）で包み込む『熱い外皮』。死後も残る不変の構造に、今、この瞬間を生きるための『痛み』と『栄養』を供給し続ける、知的な『守護のヴェール』。"
+		},
+		"thinking_layer": "『骨の周りのもの』。オステオパス（Osteopath/整骨医）、ペリフェラル（Peripheral/周辺の）、おなじみの「ペリ（周囲）」と同根。語源は「骨の周囲」。ただの「膜」ではありません。そこには。「もっとも大切でもっとも硬い『核（bone）』を守るために、自らが最も痛みを感じる最前線に立つ」という、峻烈な献身の意志が宿っています。それは。知性が自らの「信念」を守るために、あえて現実世界との摩擦を一身に受け、その痛み（feedback）を糧にして、いっそう自律的な成長を遂げようとするプロセスの象徴。",
+		"aftertaste": "打撲（bruise）の「骨に響く痛み」を通じて、この「骨膜（periosteum）」という名の繊細なセンサーがいかに自らを護（まも）ってきたのかを知り、自分の「弱さ」こそが「守る力」の源泉であったのだと魂の底から認める、あの知的な平安。あるいは、自分の言葉が、この「ペリオステウム」のように、剥き出しの真実（bone）に血を通わせ、人々の心に「熱狂」と「畏敬」を同時に灯すものでありたい、と願う、あの静かな午後の自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "per-",
+					"meaning": "around (forming peri)"
+				},
+				{
+					"term": "ost-",
+					"meaning": "bone (forming osteon)"
+				}
+			],
+			"points": [
+				"peripheral, perspective, osteoporosis, oyster（貝殻は骨の同類） 同根。",
+				"『周り（around）』にあることが、中心の『アイデンティティ』を規定する。ペリオステウムという言葉には、生命がいかにして、死した構造（骨）と、生ける流動（血液）を仲介（relaying）し、永遠の時間を現在という瞬間に繋ぎ止めてきたかという、中庸の神秘が封印されている。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
