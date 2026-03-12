@@ -257324,5 +257324,213 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "nullity",
+		"word": "Nullity",
+		"part_of_speech": "noun",
+		"meaning": "無効、存在しないこと、無（む）、価値のない人",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "nullus",
+					"type": "root",
+					"meaning": "none (何もない)",
+					"lang": "Latin"
+				},
+				{
+					"text": "ne-",
+					"type": "prefix",
+					"meaning": "not"
+				},
+				{
+					"text": "ullus",
+					"type": "root",
+					"meaning": "any (いかなる～も)"
+				}
+			],
+			"original_statement": "From Latin nullitas, from nullus 'none'."
+		},
+		"core_concept": {
+			"en": "The state of being legally void or invalid; a thing of no importance or worth",
+			"ja": "いかなる数（any）を掛けても、ゼロ（not any）へと還元されてしまう『無（none）』の状態。法的に、あるいは存在論的に『存在しない』と宣告されたことへの絶対的な虚無"
+		},
+		"thinking_layer": "『何者でもないこと』。ヌル（Null）や、アニュル（Annul/無効にする）と同根。ただの「ゼロ」ではなく、そこに「あったはずの価値が否定された」というニュアンスが含まれます。法律が無効（nullity）になること、あるいは自分が誰からも必要とされていないと感じること。それは、存在のカウントを拒否された、透明な絶望。 ",
+		"aftertaste": "一生懸命に書いた遺言書が、形式の不備で「法律上の無効（nullity）」と宣告された時の、あの自分がこの世に残そうとした最後の意志がゴミ屑に変わった瞬間の脱力感。あるいは、歴史の教科書に自分の名前が一文字も載らないことを悟った、あの潔（いさぎよ）いまでの「何者でもなさ（nullity）」の境地。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ne-",
+					"meaning": "not"
+				},
+				{
+					"term": "oinos-",
+					"meaning": "one (forming ullus/any one)"
+				}
+			],
+			"points": [
+				"nil, none, nothing, any, annul 同根。",
+				"『無（zero）』とは、数える対象が『一つ（one）』さえいない（not one）という、知性の『観測の失敗』を意味している。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "inanity",
+		"word": "Inanity",
+		"part_of_speech": "noun",
+		"meaning": "空虚、無意味なこと、愚かな言葉",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "inanis",
+					"type": "root",
+					"meaning": "empty, vain (空の、無駄な)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin inanitas, from inanis 'empty'."
+		},
+		"core_concept": {
+			"en": "A nonsensical remark or action; the lack of sense or ideas",
+			"ja": "形だけは整っているが、中身が完全に『スカスカな（empty）』な様子。意味を持たないお喋り、目的のない行動、あるいは魂の抜けたような表情。知的な飢餓状態"
+		},
+		"thinking_layer": "『空っぽであること』。イネイン（Inane/愚かな、空虚な）。語源は「空の、中身のない」。バキュームが「空間的な空虚」なら、イナニティは「内容や意味の空虚（愚かさ）」を指します。それはテレビのバラエティ番組の笑い声、あるいは、中身のない政治家の演説。風に舞う塵のような、重みのない言葉の羅列。",
+		"aftertaste": "一晩中パーティーで騒ぎ、明け方に一人で帰る道すがら、交わされたすべての会話が「空虚な（inane）」ノイズにしか聞こえなくなった時の、あの喉を刺すような渇き。あるいは、自分の人生が、ただ同じ「無意味な（inanities）」動作の繰り返しでしかないと自嘲する時の、冷え切った自意識。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"語源には『息を吐く（exhale）』に関連して『空になる』という説もあり、それは『語ること』が同時に『意味を失うこと』であるというパラドックスを示している。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "desolation",
+		"word": "Desolation",
+		"part_of_speech": "noun",
+		"meaning": "荒廃、寂しさ、孤独、悲嘆",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "de-",
+					"type": "prefix",
+					"meaning": "thoroughly (徹底的に)"
+				},
+				{
+					"text": "solus",
+					"type": "root",
+					"meaning": "alone (一人の)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin desolatio, from desolare 'abandon', from de- 'thoroughly' + solus 'alone'."
+		},
+		"core_concept": {
+			"en": "A state of complete emptiness or destruction; anguished misery or loneliness",
+			"ja": "周囲にいたすべてのものが消え去り、自分だけが『徹底的に（thoroughly）』『一人（alone）』取り残された、救いようのない風景。荒れ果てた土地、あるいは凍りついた心"
+		},
+		"thinking_layer": "『徹底的に一人にすること』。ソロ（Solo）や、ソリタリー（Solitary/孤独な）、ソリチュード（Solitude/独りであること）と同根。ただの「一人の寂しさ」ではなく、かつてそこにあった賑わいや生命が、暴力的な理由で「剥ぎ取られた」後の痛々しい静寂。それは戦争の後の廃墟から、最愛の人を失った後の、家具だけが並ぶ部屋まで。",
+		"aftertaste": "誰もいない冬の遊園地で、錆びついた観覧車が風にきしむ音を聞いている時の、あの胸の奥がギュッと締め付けられるような「荒廃（desolation）」の質感。あるいは、大都会の真ん中で、自分だけが透明人間になったかのように誰からも認識されない、あの極限の「孤独（desolation）」の震え。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "se-",
+					"meaning": "apart (forming solus)"
+				}
+			],
+			"points": [
+				"sole, solo, sullen, solitude, isolate 同根。",
+				"『孤独（solus）』とは、他者との接続を『遮断（apart）』することであり、それが『徹底的（de-）』になった時、世界は意味を失った砂漠へと変貌する。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "vacuity",
+		"word": "Vacuity",
+		"part_of_speech": "noun",
+		"meaning": "空虚、空白、ぼんやりした状態、無知",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "vacuus",
+					"type": "root",
+					"meaning": "empty (空の)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin vacuitas, from vacuus 'empty'."
+		},
+		"core_concept": {
+			"en": "Lack of thought or intelligence; empty-headedness; an empty space",
+			"ja": "頭の中にあるべき思考や知識が『空（empty）』になり、焦点の定まらない目で世界を眺めている、頼りなく、しかしどこか潔白な状態。意識の空白地帯"
+		},
+		"thinking_layer": "『空であること』。バキューム（Vacuum）と同根。バキュームが「強い吸引力」を感じさせるのに対し、バキュイティは「ただただ、そこに何もない」という、のんびりとした、あるいは空疎な状態を指します。それは、あまりにも退屈な講義を聴きながら心がどこかへ飛んでいってしまった状態、あるいは、何もかもを忘れてただ空を眺めている時の「無（Vacuity）」。",
+		"aftertaste": "あまりにも美しい夕陽を見つめ、自分の悩みがすべてどうでもよくなって、心が完璧な「空白（vacuity）」に満たされた時の、あの浮遊するような幸福。あるいは、高価な衣装に身を包んだ美男美女たちの会話が、あまりにも「空っぽ（vacuity）」であることに気づいた時の、豪華な葬式のような滑稽さ。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "eu-",
+					"meaning": "empty, lacking"
+				}
+			],
+			"points": [
+				"vacant, evacuation, void, avoid 同根。",
+				"『無知（vacuity）』とは、まだ何も『書かれていない（unwritten）』ページの美しさであり、そこには常に新しい『物語』が刻まれるのを待っている静かな期待が宿っている。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "nihility",
+		"word": "Nihility",
+		"part_of_speech": "noun",
+		"meaning": "虚無、無であること、存在しないこと",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "nihil",
+					"type": "root",
+					"meaning": "nothing (何もない)",
+					"lang": "Latin"
+				},
+				{
+					"text": "ne-",
+					"type": "prefix",
+					"meaning": "not"
+				},
+				{
+					"text": "hilum",
+					"type": "root",
+					"meaning": "a trifle, a little thing (些細なもの、豆のへそ)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin nihilitas, from nihil 'nothing'."
+		},
+		"core_concept": {
+			"en": "The state or condition of being nothing; nonexistence",
+			"ja": "豆のへそのような『極小の価値（hilum）』さえも『持たない（not）』、完全なるゼロの状態。物理的なゼロを超えた、存在そのものの否定形としての『虚無』"
+		},
+		"thinking_layer": "『何もないこと』。ニヒリズム（Nihilism/虚無主義）や、アニヒレイト（Annihilate/絶滅させる＝無に帰す）と同根。すべての価値、すべての意味、すべての光が吸い込まれ、ただの一点も残らないこと。それは宇宙が開闢（かいびゃく）する前の闇であり、あるいは、すべての物語が終わった後の、真っ白なページの裏側。",
+		"aftertaste": "真夜中の深淵を見つめ、宇宙には最初から何の目的もなく、ただ偶然が重なっているだけだと悟った時の、あの冷たくて透明な「ニヒリティ（nihility）」の戦慄。しかし、その「何もない」という事実からこそ、自分自身が新しい「意味」を一から作り出せるのだという、逆説的な自由への目覚め。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ne-",
+					"meaning": "not"
+				},
+				{
+					"term": "ghilo-",
+					"meaning": "thread, trifle (forming hilum)"
+				}
+			],
+			"points": [
+				"nihilism, annihilate, nil 同根。",
+				"『無（nothing）』とは、世界を繋ぎ止めていた『糸（hilum）』がぷつりと切れた状態であり、そこからは新たな『創造のダンス』が始まる以外に道はない。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
