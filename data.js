@@ -255524,5 +255524,195 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "cybernetic",
+		"word": "Cybernetic",
+		"part_of_speech": "adjective",
+		"meaning": "サイバネティックスの、人工頭脳学の、制御に関する",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "kybernētēs",
+					"type": "root",
+					"meaning": "steersman, pilot (舵取り、操縦士)",
+					"lang": "Greek"
+				}
+			],
+			"original_statement": "From Greek kybernētikos 'skilled in steering'."
+		},
+		"core_concept": {
+			"en": "Relating to the science of communications and automatic control systems in both machines and living things",
+			"ja": "船の羅針盤を操る『舵取り（pilot）』のように、複雑な情報のフィードバックを処理し、生命や機械という名のシステムを、目的の場所へと巧みに『制御』してゆく知性のダイナミズム"
+		},
+		"thinking_layer": "『舵取りの技術』。ノーバート・ウィーナーが提唱。ガバナー（Governor/知事＝舵取り）と同根。ただの「自動化」ではなく、外部の環境変化に応じて、自分自身の行動を「修正」し続ける、動的で円環的な知性。それは、機械と生命の境界線を情報の流れとして統合し、宇宙を有機的なプログラムとして捉え直す壮大な視座。 ",
+		"aftertaste": "自分の肉体の一部が機械と繋がり、意志が電気信号となって空間を駆け巡るという、あの拡張された万能感。あるいは、自分がただの「情報のフィードバック・ループ」の一部に過ぎないのではないかという、デジタルな虚無への不安。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kyber-",
+					"meaning": "to steer"
+				}
+			],
+			"points": [
+				"governor, government（船の舵を操る人々）, cyber 同根。",
+				"『統治（government）』とは、社会という巨大な船が難破しないように微調整を繰り返す『サイバネティック（cybernetic）』な営みである。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "prosthetic",
+		"word": "Prosthetic",
+		"part_of_speech": "adjective",
+		"meaning": "義足の、代わりの、補足の",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "pros-",
+					"type": "prefix",
+					"meaning": "toward, in addition to (〜に加えて)"
+				},
+				{
+					"text": "tithenai",
+					"type": "root",
+					"meaning": "to place, set (置く)",
+					"lang": "Greek"
+				}
+			],
+			"original_statement": "From Greek prosthetikos, from prostithenai 'add', from pros 'to' + tithenai 'placed'."
+		},
+		"core_concept": {
+			"en": "Denoting an artificial body part; added for effect or to replace a missing part",
+			"ja": "失われた肉体の機能を補うために、あるいは本来の能力を拡張するために、外側から『付け加えられた（add）』人工物。欠落を克服しようとする意志の『代替の形』"
+		},
+		"thinking_layer": "『付け加えられたもの』。プロフィシス（Prothesis/添加）と同根。語源の tithenai（置く）は、ポエム（Poem/作られたもの）やテーマ（Theme/置かれたもの）とも関係があります。肉体に機械的なパーツを「置く」ことは、生物としての限界を越えようとする切実な祈り。それは不自然な「継ぎ目」であると同時に、強靭な「生存の証」。",
+		"aftertaste": "失った手足が、銀色に輝く金属の腕となって復活し、今まで以上に強く、正確に動くのを見る時の、あのSF的な予感。あるいは、眼鏡やスマートフォンさえも、自分の記憶や視覚を補うための、もう一つの「義体（prosthesis）」であるという、日常に潜むサイボーグ性の発見。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "dhē-",
+					"meaning": "to put, do (forming tithenai)"
+				}
+			],
+			"points": [
+				"thesis, theme, synthesis, fact 同根。",
+				"『置く（put）』という人間の自覚的な行動こそが、自然（Nature）を文明（Artifice）へと反転させる最初の瞬間である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "automaton",
+		"word": "Automaton",
+		"part_of_speech": "noun",
+		"meaning": "自動人形、オートマトン、意志を持たず動く人",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "autos-",
+					"type": "prefix",
+					"meaning": "self (自分自身)"
+				},
+				{
+					"text": "matos",
+					"type": "root",
+					"meaning": "thinking, willing (考えている、望んでいる)",
+					"lang": "Greek"
+				}
+			],
+			"original_statement": "From Greek automaton, from autos 'self' + -matos 'thinking, willing'."
+		},
+		"core_concept": {
+			"en": "A relatively self-operating machine, or a person who acts in a mechanical or unemotional way",
+			"ja": "外からの命令なしに、『自分自身（self）』で『考え、望んでいる（willing）』かのように動き続ける機械装置。生命を模倣しようとする、人間による人間のための「人形劇」"
+		},
+		"thinking_layer": "『自分で考えているもの』。オートマティック（Automatic）やオートマトン。語源の matos（考えている、勢いのある）は、メンタル（Mental）と同根。それ自身が「心（willing）」を持っているように見える精緻な歯車の連鎖。それは、自分が「生きていない」にも関わらず「生きているフリ」を強いられた悲しき虚像であり、同時に、生命が物理法則に支配されていることを残酷に示す証明。 ",
+		"aftertaste": "ゼンマイが巻かれ、冷たい金属の関節をきしませて踊り始める自動人形の、あの不気味なほど人間的な美しさ。あるいは、毎朝同じ時間に起き、同じ言葉を繰り返す自分の日常が、何者かに操られた「オートマトン」ではないかという、一瞬の覚醒への兆し。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "men-",
+					"meaning": "to think (forming matos)"
+				}
+			],
+			"points": [
+				"mental, automatic, memory, monitor, mind 同根。",
+				"『意志（willing）』が物理的な『歯車（gear）』に還元された時、人間と機械の境界は、ただの『言語設定（definition）』の問題となる。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "golem",
+		"word": "Golem",
+		"part_of_speech": "noun",
+		"meaning": "泥人形、意思のない巨人、召使",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "gōlem",
+					"type": "root",
+					"meaning": "unformed mass (形のない塊)",
+					"lang": "Hebrew"
+				}
+			],
+			"original_statement": "From Hebrew gōlem 'unformed mass'."
+		},
+		"core_concept": {
+			"en": "In Jewish legend, a clay figure brought to life by magic; a person who acts as if they have no soul or will of their own",
+			"ja": "呪文によって命を吹き込まれた、魂なき『形のない泥の塊（unformed mass）』。主人の命令に忠実であるが、意志を持たず、時に知性なき破壊へと暴走する制御不能な巨大な力"
+		},
+		"thinking_layer": "『形のない塊』。ユダヤの伝説。額に「エメト（真理）」という文字が書かれ、粘土で作られた巨人。一文字を消すと「メト（死）」になり、ただの泥に戻る。それは、言葉（プログラミング）によって物質に「一時的な命」を宿らせる技術への畏怖と、それが魂を持たないことへの根源的な悲哀を象徴しています。",
+		"aftertaste": "巨大な手が自分のためにすべての重労働を肩代わりしてくれるという、絶対的な主従関係への陶酔。あるいは、どれだけ尽くしても、心を通い合わせることができない「空虚な目」をした忠僕を見つめる時の、深い絶望的な寂寥。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ヘブライ語が語源の、神話的な人工知能の雛形。",
+				"『言葉（word）』が物質を『駆動（drive）』させるという認識は、現代のコード（coding）による世界制御と深くリンクしている。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "inorganic",
+		"word": "Inorganic",
+		"part_of_speech": "adjective",
+		"meaning": "無機の、非有機的な、生命のない、人工的な",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "in-",
+					"type": "prefix",
+					"meaning": "not"
+				},
+				{
+					"text": "organon",
+					"type": "root",
+					"meaning": "instrument, tool (道具、器官、組織)",
+					"lang": "Greek"
+				}
+			],
+			"original_statement": "From in- 'not' + organic."
+		},
+		"core_concept": {
+			"en": "Not consisting of or deriving from living matter; appearing or feeling artificial and lifeless",
+			"ja": "成長し、腐敗し、死ぬという生命の『有機的なサイクル（organon）』を『持たない（not）』。冷たく、硬く、不変の法則にのみ支配された、結晶のような『非・生命』の状態"
+		},
+		"thinking_layer": "『道具（器官）を持たないこと』。オーガノン（Organon/論理学、オルガン）の否定形。炭素の鎖を持たない世界。それは石、金属、そしてシリコン。生命という「湿り気」や「揺らぎ」を徹底的に排した、結晶的な絶対美。それは、死後も変わらない秩序を求める、知性の最も純粋で非情な憧れ。 ",
+		"aftertaste": "磨き上げられたステンレスの壁に映る、自分の脈打つ顔の不自然なほどの赤さ。あるいは、どれだけ感情を尽くしても、一切の返答を返さない石像の冷たさに、ある種の「永遠」を感じて安堵してしまう、精神的な倒錯。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "werg-",
+					"meaning": "to do, work (forming organon/tool)"
+				}
+			],
+			"points": [
+				"work, energy, organ, synergy, urge 同根。",
+				"『生命（organic）』とは、絶え間ない内部の『仕事（work）』そのものであり、その停止こそが完全な『無機（inorganic）』への移行を意味する。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
