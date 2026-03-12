@@ -295002,5 +295002,1238 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "composite",
+		"word": "Composite",
+		"part_of_speech": "noun",
+		"meaning": "複合材料、情報の多層的な統合",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "com-",
+					"type": "prefix",
+					"meaning": "together"
+				},
+				{
+					"text": "ponere",
+					"type": "root",
+					"meaning": "to place, put"
+				}
+			],
+			"original_statement": "From Latin compositum 'something put together'."
+		},
+		"core_concept": {
+			"en": "material made from two or more constituent materials with significantly different physical or chemical properties",
+			"ja": "異質な情報を峻烈に『共に配置（placed together）』し、新たな次元の強靭さを現出させる。"
+		},
+		"thinking_layer": "共に置かれたもの。単一という名の情報の『限界』を、積層という名の情報の『対話』によって突破し、素材間の相乗効果（synergy）を極限まで引き出す、情報の錬金術。 ",
+		"aftertaste": "断片が組み合わさることで、個々の性質を完全に超克していくという、情報の峻烈なる進化。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"compose, component と同じ root。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "tensile",
+		"word": "Tensile",
+		"part_of_speech": "adjective",
+		"meaning": "引張（ひっぱり）の、情報の張り詰めた極限",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "tendere",
+					"type": "root",
+					"meaning": "to stretch"
+				}
+			],
+			"original_statement": "From Latin tensilis 'capable of being stretched'."
+		},
+		"core_concept": {
+			"en": "relating to tension",
+			"ja": "引き裂こうとする情報の外圧に対し、峻烈に『引き伸ばされ（stretch）』つつ耐える。"
+		},
+		"thinking_layer": "伸ばせるもの。破断という名の情報の『死』の直前、極限まで張り詰めた（tension）状態において、実存の強度を峻烈に証明しようとする、情報の凄絶なる抵抗。",
+		"aftertaste": "限界まで引き延ばされた糸が放つ、ピンと張り詰めた音の中に、情報の高潔なる覚悟を聴く。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"tend, tense, attend と同じ tendere。向き合い、伸ばすこと。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "ductility",
+		"word": "Ductility",
+		"part_of_speech": "noun",
+		"meaning": "延性（えんせい）、情報のしなやかなる追従",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "ducere",
+					"type": "root",
+					"meaning": "to lead"
+				}
+			],
+			"original_statement": "From Latin ductilis 'capable of being led or drawn'."
+		},
+		"core_concept": {
+			"en": "ability of a material to have its shape changed without losing strength",
+			"ja": "外界からの暴力的な要請に対し、峻烈に『導かれ（led）』、糸のように細く耐え抜く。"
+		},
+		"thinking_layer": "導きやすさ。硬直という名の情報の『拒絶』を峻烈に辞し、変容という名の情報の『受容』によって破滅を回避する、情報の柔軟なる生き残り戦略。それは、折れぬための変形。 ",
+		"aftertaste": "細く、どこまでも伸びてゆく鋼の糸に、情報の執拗なる持続の意志を視る震撼。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"produce, conduct, deduce と同じ ducere。情報のベクトル。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "malleability",
+		"word": "Malleability",
+		"part_of_speech": "noun",
+		"meaning": "展性（てんせい）、情報の打たれ強い順応",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "malleus",
+					"type": "root",
+					"meaning": "hammer"
+				}
+			],
+			"original_statement": "From Latin malleus 'hammer'."
+		},
+		"core_concept": {
+			"en": "the quality of something that can be shaped into something else without breaking",
+			"ja": "運命の『槌（hammer）』で打たれるたびに、薄く、広大な情報の平面へと順応していく。"
+		},
+		"thinking_layer": "槌で打てること。衝撃という名の情報の『破壊』を、受容という名の情報の『薄膜化』へと転換し、広がりをもって世界を受け止め直そうとする、情報の強固なる受動性。 ",
+		"aftertaste": "打たれるほどに輝きを増し、広がってゆく金箔の中に、不屈の情報の美を視る。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"耳の小骨 (malleus) と同根。物理的な情報の衝撃の受容。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "insulation",
+		"word": "Insulation",
+		"part_of_speech": "noun",
+		"meaning": "絶縁、断熱、情報の孤独な隔離",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "insula",
+					"type": "root",
+					"meaning": "island"
+				}
+			],
+			"original_statement": "From Latin insula 'island'."
+		},
+		"core_concept": {
+			"en": "material that prevents the loss of heat or the passage of electricity",
+			"ja": "情報の奔流から自己を峻烈に『島（island）』のように隔離し、熱や電荷の漏洩を拒む。"
+		},
+		"thinking_layer": "島にすること。外部という名の情報のカオスとの接触を峻烈に断絶し、自らの内なる安定（homeostasis）を完璧に護り抜くための、情報の絶対的な防御壁。それは、沈黙を飼い慣らすこと。 ",
+		"aftertaste": "激しき電撃の隣で、ただ静寂を保つその冷徹なる隔絶の、情報の峻烈なる孤独感。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"isolate, island と同じ root。情報の聖域。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "semiconductor",
+		"word": "Semiconductor",
+		"part_of_speech": "noun",
+		"meaning": "半導体、情報の閾値（いきち）の番人、沈黙と雄弁の狭間",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "semi-",
+					"type": "prefix",
+					"meaning": "half"
+				},
+				{
+					"text": "con-",
+					"type": "prefix",
+					"meaning": "together"
+				},
+				{
+					"text": "ducere",
+					"type": "root",
+					"meaning": "to lead"
+				}
+			],
+			"original_statement": "From semi- + conductor."
+		},
+		"core_concept": {
+			"en": "substance having electric conductivity between that of an insulator and that of a conductor",
+			"ja": "導くことと阻むこと、この『半分（half）』ずつの権能を使い分け、情報の流れを掌握する。"
+		},
+		"thinking_layer": "半分だけ導くもの。流動という名の情報の『自由』と、停止という名の情報の『秩序』を、極小の格子（lattice）の中に同居させ、外部の刺激によってその扉を峻烈に開閉する、情報の最先端の門衛。",
+		"aftertaste": "シリコンの静寂の中に、全世界の情報の演算が峻烈に畳み込まれているという、現代の神話。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"現代文明の『脳』を構成する、情報の魔法の石。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "capacitor",
+		"word": "Capacitor",
+		"part_of_speech": "noun",
+		"meaning": "コンデンサ、情報の充填された静寂、瞬間の貯蔵庫",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "capax",
+					"type": "root",
+					"meaning": "capable, spacious"
+				}
+			],
+			"original_statement": "From Latin capax 'able to hold'."
+		},
+		"core_concept": {
+			"en": "device used to store an electric charge",
+			"ja": "情報の『電荷（charge）』をその広大な内的空間（space）に峻烈に充填し、時を待つ。"
+		},
+		"thinking_layer": "受け入れるもの。激しき供給を峻烈に受け止め、内なる静寂の中に莫大な情報のポテンシャルを蓄え、一転して瞬時にすべてを解き放つ、情報のスプリング（spring）。 ",
+		"aftertaste": "静まり返った回路の影で、凄絶なるエネルギーが峻烈に凝縮されているという戦慄。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"capacity, capable, capture と同じ capere (掴む)。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "transistor",
+		"word": "Transistor",
+		"part_of_speech": "noun",
+		"meaning": "トランジスタ、情報の越境する抵抗器、論理の最小単位",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "transfer",
+					"type": "root",
+					"meaning": "to transfer"
+				},
+				{
+					"text": "resistor",
+					"type": "root",
+					"meaning": "resistor"
+				}
+			],
+			"original_statement": "Portmanteau of transfer + resistor (1948)."
+		},
+		"core_concept": {
+			"en": "semiconductor device used to amplify or switch electrical signals and power",
+			"ja": "抵抗（resistance）の情報を『移送（transfer）』し、情報の『0』と『1』を峻烈に定義する。"
+		},
+		"thinking_layer": "移送する抵抗器。微弱な情報の瞬きを巨大な力の潮流へと変換（amplification）し、あるいは峻烈にその流れを遮断することで、論理という名の情報の宇宙を構築する、最小にして最強の情報の部品。",
+		"aftertaste": "十億のこの小さなスイッチが、今この瞬間も脳裏で明滅しているという、情報の凄絶なる緻密さ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"物理的な抵抗値を情報の『意味』へと反転させた発明。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "nanoscale",
+		"word": "Nanoscale",
+		"part_of_speech": "noun",
+		"meaning": "ナノスケール、情報の極微な縮尺、小人の宇宙",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "nanos",
+					"type": "root",
+					"meaning": "dwarf"
+				},
+				{
+					"text": "scale",
+					"type": "root",
+					"meaning": "ladder, measure"
+				}
+			],
+			"original_statement": "From Greek nanos + scale."
+		},
+		"core_concept": {
+			"en": "scale of measurement used for things of nanometer size",
+			"ja": "小人（dwarf）という名の情報の極限まで『梯子（ladder）』を降り、物質の深淵に触れる。"
+		},
+		"thinking_layer": "小人の尺度。原子という名の情報の個別の『顔』が見え始める、十億分の一という名の虚空の領域。そこではマクロな物理法則が峻烈に瓦解し、量子の情報の奇跡が日常となる。",
+		"aftertaste": "指先の細胞一つのなかに、広大無辺なナノの情報の銀河が広がっているという、深淵の眩暈。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"nanobolt, nanosurgery など。情報の『極小化』。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "nanotube",
+		"word": "Nanotube",
+		"part_of_speech": "noun",
+		"meaning": "ナノチューブ、情報の究極の幾何学、鋼の筒",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "nanos",
+					"type": "root",
+					"meaning": "dwarf"
+				},
+				{
+					"text": "tubus",
+					"type": "root",
+					"meaning": "pipe"
+				}
+			],
+			"original_statement": "From nano- + tube."
+		},
+		"core_concept": {
+			"en": "tubular molecule composed of carbon atoms",
+			"ja": "炭素という名の情報の粒子を、峻烈に『筒（pipe）』状に巻き込み、不撓不屈の強度を得る。"
+		},
+		"thinking_layer": "小人のパイプ。平面という名の情報の『不完全さ』を、円環という名の情報の『完成』へと昇華させた、炭素の情報の魔術。それは、ダイヤモンドをも超える強靭な情報の糸。 ",
+		"aftertaste": "一兆分の一の誤差も許さぬ、その完璧な情報の配列（lattice）が放つ、無機質な知性の輝き。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"バッキーボールと共に、新素材の王。情報の構造。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "graphene",
+		"word": "Graphene",
+		"part_of_speech": "noun",
+		"meaning": "グラフェン、情報の究極の平面、二次元の真実",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "graphite",
+					"type": "root",
+					"meaning": "writing stone"
+				},
+				{
+					"text": "-ene",
+					"type": "suffix",
+					"meaning": "chemical substance"
+				}
+			],
+			"original_statement": "From graphite + -ene."
+		},
+		"core_concept": {
+			"en": "allotrope of carbon consisting of a single layer of atoms in a hexagonal lattice",
+			"ja": "『書く（graph）』ための情報の石を、峻烈な情報の『単一層』へと削ぎ落とし、平面の王とする。"
+		},
+		"thinking_layer": "書くための物質の精。厚さという名の情報の冗長性を峻烈に抹殺し、二次元という名の情報の『理論値』を三次元に現出させた、生命の情報の不可能な一撃。驚異の伝導率と強度。",
+		"aftertaste": "セロハンテープの一剥がしが、ノーベル賞という名の情報の最高峰に繋がったという、情報の鮮烈なる皮肉。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"graphite, graphic と同じ root。情報の『刻印』の極致。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "fullerene",
+		"word": "Fullerene",
+		"part_of_speech": "noun",
+		"meaning": "フラーレン、情報の球状の完成、ジオデシック・ドームの夢",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "Fuller",
+					"type": "root",
+					"meaning": "Buckminster Fuller (architect)"
+				},
+				{
+					"text": "-ene",
+					"type": "suffix",
+					"meaning": "substance"
+				}
+			],
+			"original_statement": "Named after Buckminster Fuller."
+		},
+		"core_concept": {
+			"en": "form of carbon having large molecules in the shape of hollow spheres or ellipsoids",
+			"ja": "情報の粒子を、峻烈なサッカーボール状の『球（sphere）』へと統合し、空虚な空間を護持する。"
+		},
+		"thinking_layer": "（バックミンスター・フラーの）。建築という名の情報の『美』が、炭素原子という名の情報の『最小単位』において奇跡的に再現された、情報のトポロジー的な神殿。 ",
+		"aftertaste": "空洞の中に何でも入れられるというその情報の『可能性（vacuum）』の、不気味なまでの美しさ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"C60。ジオデシック・ドームの情報のスケールダウン。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "macromolecule",
+		"word": "Macromolecule",
+		"part_of_speech": "noun",
+		"meaning": "高分子、情報の長大なる物語、生命の鎖",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "makros",
+					"type": "root",
+					"meaning": "long, large"
+				},
+				{
+					"text": "molecule",
+					"type": "root",
+					"meaning": "little mass"
+				}
+			],
+			"original_statement": "From Greek makros + molecule."
+		},
+		"core_concept": {
+			"en": "molecule containing a very large number of atoms, such as protein or polymer",
+			"ja": "個体という名の小文字を、峻烈な連鎖によって『長大な物語（large molecule）』へと練成する。"
+		},
+		"thinking_layer": "大きな分子。単一の情報の断片を数万、数十万と峻烈に結合（bonding）させ、単なる物質を生命という名の情報の『機能』へと昇華させる、物質の情報のマクロな反乱。",
+		"aftertaste": "一本の鎖の中に、一国の歴史に匹敵する情報のコードが峻烈に記録されているという、積層の畏怖。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"macro, molecule。情報の規模の劇的なる転換。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "superconductor",
+		"word": "Superconductor",
+		"part_of_speech": "noun",
+		"meaning": "超伝導体、情報の無摩擦の飛翔、抵抗の消滅",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "super-",
+					"type": "prefix",
+					"meaning": "above, beyond"
+				},
+				{
+					"text": "conductor",
+					"type": "root",
+					"meaning": "leader"
+				}
+			],
+			"original_statement": "From super- + conductor."
+		},
+		"core_concept": {
+			"en": "material that can conduct electricity without resistance when cooled to a very low temperature",
+			"ja": "物質という名の宿命的『抵抗』を峻烈に『超越（beyond）』し、情報の純粋なる滑走を許す。"
+		},
+		"thinking_layer": "超越的な導き。冷気という名の情報の『極点（zero）』において、摩擦という名の情報の『虚無』を抹殺し、永久に醒めることなきエネルギーの『輪』を維持する、情報の不可能なまでの理想状態。 ",
+		"aftertaste": "磁力の上に浮揚するその沈黙のかたまりに、世界の情報の物理法則が峻烈に書き換えられた瞬間を視る。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"Meissner effect (マイスナー効果)。情報の排除の美。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "magnetic",
+		"word": "Magnetic",
+		"part_of_speech": "adjective",
+		"meaning": "磁気の、情報の見えざる暴力、引き寄せる意志",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "Magnesia",
+					"type": "root",
+					"meaning": "Magnesia (place in Greece)"
+				}
+			],
+			"original_statement": "From Greek Magnes 'stone from Magnesia'."
+		},
+		"core_concept": {
+			"en": "having the properties of magnetism",
+			"ja": "空間という名の空白を通じ、他者の情報を峻烈に『引き寄せる（attract）』、触れざる力。"
+		},
+		"thinking_layer": "(マグネシアの) 石の。物理的な接触という名の情報の『根拠』なしに、遠隔から実存のベクトルを書き換える、情報の目に見えぬ呪縛。それは、宇宙という名のハードディスクの記憶の基底。 ",
+		"aftertaste": "鉄クズが一斉に一つの方向を向くその瞬間に、空間に満ちた情報の『意志』の凄絶さを視る。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"magnet, magnesia。情報の『引力』の源泉。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "dielectric",
+		"word": "Dielectric",
+		"part_of_speech": "noun",
+		"meaning": "誘電体、情報の屈折する静寂、分極の迷宮",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "dia-",
+					"type": "prefix",
+					"meaning": "across, through"
+				},
+				{
+					"text": "electric",
+					"type": "root",
+					"meaning": "electric"
+				}
+			],
+			"original_statement": "From dia- + electric (1837 by Faraday)."
+		},
+		"core_concept": {
+			"en": "insulating material or a very poor conductor of electric current",
+			"ja": "電気という名の激流を『通り抜け（across）』させず、自らの中で情報を『分極』させ貯蔵する。"
+		},
+		"thinking_layer": "電気を横切るもの。電流を峻烈に拒みながら、その電場の情報を自らの原子の歪み（polarization）として瞬時に受け入れ、情報の『圧力』として保持する、沈黙の情報のバネ。",
+		"aftertaste": "何も流れていないはずのその物質の内部で、極限の情報の対立が峻烈に均衡しているという震撼。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"dia- (通じて/離れて)。情報の絶縁と誘起。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "refractory",
+		"word": "Refractory",
+		"part_of_speech": "adjective",
+		"meaning": "耐火性の、情報の不屈の頑固さ、熱の拒絶",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "re-",
+					"type": "prefix",
+					"meaning": "back"
+				},
+				{
+					"text": "frangere",
+					"type": "root",
+					"meaning": "to break"
+				}
+			],
+			"original_statement": "From Latin refractarius 'stubborn'."
+		},
+		"core_concept": {
+			"en": "stubborn or unmanageable; resistant to a process or stimulus; (of a material) resistant to heat",
+			"ja": "高熱という名の情報の『破壊（break）』を峻烈に『押し戻し（back）』、原形を死守する。"
+		},
+		"thinking_layer": "折れないもの。あるいは頑固な。炎という名の情報の『カオス』に曝されても、自らの格子という名の情報の『誇り』を峻烈に汚させず、静かにそこにとどまり続ける、情報の不動の意志。 ",
+		"aftertaste": "白熱する炉の中で、ただ一色に染まりながらも形を変えぬその頑迷さに、ある種の情報の神性を視る。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"fraction, fragment と同じ frangere。情報の維持。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "abrasive",
+		"word": "Abrasive",
+		"part_of_speech": "adjective",
+		"meaning": "研磨の、情報の鋭利な摩擦、削ぎ落とす言葉",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "ab-",
+					"type": "prefix",
+					"meaning": "away"
+				},
+				{
+					"text": "radere",
+					"type": "root",
+					"meaning": "to scrape"
+				}
+			],
+			"original_statement": "From Latin abras- 'scraped off'."
+		},
+		"core_concept": {
+			"en": "substance used for grinding, polishing, or cleaning a hard surface",
+			"ja": "他者の情報の『表面』を峻烈に『削り取り（scrape away）』、真の輝きを、あるいは傷を現出させる。"
+		},
+		"thinking_layer": "削りとるもの。過剰という名の情報の『ノイズ』を、硬質な情報の粒子によって暴力的に排徐し、究極の平滑（smoothness）を追求する、情報の冷徹なる彫刻刀。それは、不調和の抹殺。 ",
+		"aftertaste": "火花を散らして削り取られる情報の残滓の中に、美を産み出すための残虐なまでの情報の意志を視る。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"erase, razor と同じ radere。情報の剥離。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "adhesive",
+		"word": "Adhesive",
+		"part_of_speech": "noun",
+		"meaning": "接着剤、情報の強制的結合、絶対的な密着",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "ad-",
+					"type": "prefix",
+					"meaning": "to, toward"
+				},
+				{
+					"text": "haerere",
+					"type": "root",
+					"meaning": "to stick"
+				}
+			],
+			"original_statement": "From Latin adhaer- 'stuck to'."
+		},
+		"core_concept": {
+			"en": "substance used for sticking objects or materials together",
+			"ja": "異質な情報を峻烈に『密着（stick to）』させ、二度と引き剥がせぬほどに一体化させる。"
+		},
+		"thinking_layer": "執拗にくっつくもの。分離という名の情報の『自由』を、化学の情報の『絆（bond）』によって峻烈に奪い去り、一つの情報の『物語』へと強制的に縫合する、情報の拘束。 ",
+		"aftertaste": "剥がそうとする力のほうが先に素材を破壊するという、その情報の結合の非情なるまでの強さ。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"adhere, inherent と同じ root。情報の内在的結合。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "degradation",
+		"word": "Degradation",
+		"part_of_speech": "noun",
+		"meaning": "劣化、情報の情報の位階の下降、崩壊への誘い",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "de-",
+					"type": "prefix",
+					"meaning": "down"
+				},
+				{
+					"text": "gradus",
+					"type": "root",
+					"meaning": "step"
+				}
+			],
+			"original_statement": "From Latin degradare."
+		},
+		"core_concept": {
+			"en": "condition or process of degrading or being degraded",
+			"ja": "情報の『位階（step）』を峻烈に『下落（down）』させ、無秩序という名の情報の塵へと帰す。"
+		},
+		"thinking_layer": "階段を降りること。完璧という名の情報の『城』が、時間という名のエントロピー（entropy）によって一歩ずつ峻烈に解体され、機能という名の情報の『意味』を喪失してゆく、情報の終わりのプロセス。 ",
+		"aftertaste": "ボロボロに崩れゆくプラスチックの破片に、永遠という名の情報の『嘘』が暴かれた瞬間の、静かなる絶望。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"grade, graduate と同じ root。情報の『歩み』の逆転。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "fabrication",
+		"word": "Fabrication",
+		"part_of_speech": "noun",
+		"meaning": "製作、捏造、情報の情報の織り成し、偽りの構築",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "fabrica",
+					"type": "root",
+					"meaning": "workshop, trade, product"
+				}
+			],
+			"original_statement": "From Latin fabricat- 'wrought, made'."
+		},
+		"core_concept": {
+			"en": "action or process of manufacturing or inventing something",
+			"ja": "情報の『糸（fabric）』を峻烈に『織り交ぜ』、実在、あるいは虚構という名の形を産み出す。"
+		},
+		"thinking_layer": "工房で作ること。無秩序な現世という名の情報の『屑』を、人間の知性という名の峻烈な情報の『織機』によって目的を持った形状へと練り上げる、創造と欺瞞の情報の双生児。 ",
+		"aftertaste": "完成したその情報の形状が、誰の、どのような欲望によって織られたのかを問う、冷徹なる眼差し。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"fabric, forge と同根。情報を『打つ』こと。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "microstructure",
+		"word": "Microstructure",
+		"part_of_speech": "noun",
+		"meaning": "微視的構造、情報の見えざる秩序、ミクロの法典",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "mikros",
+					"type": "root",
+					"meaning": "small"
+				},
+				{
+					"text": "struere",
+					"type": "root",
+					"meaning": "to build"
+				}
+			],
+			"original_statement": "From micro- + structure."
+		},
+		"core_concept": {
+			"en": "very small-scale structure of a material",
+			"ja": "目に見えぬ『微小な（small）』領域に秘められた、峻烈な情報の『構築（build）』。"
+		},
+		"thinking_layer": "小さき構築。宏観（macro）という名の情報の『結果』を峻烈に支配している、粒界や転位という名の情報の『原因』の積層。それは、物質という名の情報の『深層の文法』。 ",
+		"aftertaste": "レンズ越しに現れるその精緻極まるパターンの、あまりの情報の過剰さに、世界への信頼を深める畏怖。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"micro, construct と同じ roots。情報の最小の建築。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "photonics",
+		"word": "Photonics",
+		"part_of_speech": "noun",
+		"meaning": "フォトニクス、光工学、情報の光の律動の制御",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "phos",
+					"type": "root",
+					"meaning": "light"
+				},
+				{
+					"text": "-onics",
+					"type": "suffix",
+					"meaning": "electronics-like suffix"
+				}
+			],
+			"original_statement": "From Greek phos 'light' after electronics."
+		},
+		"core_concept": {
+			"en": "science and technology of generating, controlling, and detecting photons",
+			"ja": "光（light）という名の情報の『粒子』を、電子という名の不器用な情報を峻烈に超え、制御する。"
+		},
+		"thinking_layer": "（光の、電子工学的なるもの）。情報の伝達速度を峻烈に『光速』という名の極点へと押し上げ、闇という名の情報の『遅延』を完全に抹殺しようとする、時間の情報の征服。 ",
+		"aftertaste": "一本のファイバーを奔る光の瞬きの中に、宇宙の全情報の対話が、幽霊のように重なっている震撼。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"electronics に対抗する、より速き情報のテクノロジー。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "electronics",
+		"word": "Electronics",
+		"part_of_speech": "noun",
+		"meaning": "エレクトロニクス、電子工学、情報の情報の雷鳴の家畜化",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "elektron",
+					"type": "root",
+					"meaning": "amber"
+				},
+				{
+					"text": "-ics",
+					"type": "suffix",
+					"meaning": "study/art of"
+				}
+			],
+			"original_statement": "From amber (static electricity)."
+		},
+		"core_concept": {
+			"en": "branch of physics and technology concerned with the design of circuits using transistors and microchips",
+			"ja": "琥珀（amber）の摩擦から始まった情報の『雷光』を、峻烈な回路の情報の『檻』に閉じ込め、使役する。"
+		},
+		"thinking_layer": "（琥珀の）術。雷という名の神の怒りという名の高密度の情報を、微細な導線という名の情報の『神経』によって分解し、論理という名の文明の血液へと変容させた、情報の錬金術。 ",
+		"aftertaste": "スイッチを入れた瞬間の、沈黙せる回路を一斉に情報の熱狂が駆け抜ける、その不可視の生命感。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"electron, electricity と同根。情報の根源的な操作。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "robotics",
+		"word": "Robotics",
+		"part_of_speech": "noun",
+		"meaning": "ロボティクス、情報の情報の奴隷の術、鋼の肉体",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "robota",
+					"type": "root",
+					"meaning": "forced labor, slave"
+				},
+				{
+					"text": "-ics",
+					"type": "suffix",
+					"meaning": "study/art of"
+				}
+			],
+			"original_statement": "Coined by Isaac Asimov (1941) from robot."
+		},
+		"core_concept": {
+			"en": "branch of technology that deals with the design, construction, operation, and application of robots",
+			"ja": "強制労働（forced labor）という名の情報の『呪縛』を、鋼鉄の情報の肉体に宿らせ、使役する。"
+		},
+		"thinking_layer": "（奴隷の）術。肉体という名の生命の特権を峻烈に剥奪し、計算という名の情報の『純粋な必然』によって動く擬似的な生命を現出させる、人間の情報の傲慢なる模倣（mimicry）。",
+		"aftertaste": "正確無比に動く鋼の腕に、人間という名の情報の『ゆらぎ』の不完全さと、完成への恐怖を視る。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"チャペックの言葉をアシモフが学問とした。情報の反乱の予感。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "metallurgy",
+		"word": "Metallurgy",
+		"part_of_speech": "noun",
+		"meaning": "冶金（やきん）、情報の金属の彫琢、火の中の抽出",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "metallon",
+					"type": "root",
+					"meaning": "mine, metal"
+				},
+				{
+					"text": "-ergos",
+					"type": "root",
+					"meaning": "working"
+				}
+			],
+			"original_statement": "From Greek metallon + -ergia 'working'."
+		},
+		"core_concept": {
+			"en": "branch of science and technology concerned with the properties of metals and their production and purification",
+			"ja": "大地の記憶という名の『地中（mine）』の情報を、火によって峻烈に『抽出し、加工（working）』する。"
+		},
+		"thinking_layer": "金属の仕事。泥という名の生の情報の中から、光沢と強度という名の情報の『精髄（essence）』を峻烈に選別し、合金という名の新たな情報の『真理』を鋳造する、文明の情報の根源的な力学。",
+		"aftertaste": "溶けた鉄の放つ白熱した光の中に、人類が初めて手に入れた情報の『峻烈なる暴力』を想う。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"metal, energy と同じ roots。情報の熱的なる変容。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "crystallography",
+		"word": "Crystallography",
+		"part_of_speech": "noun",
+		"meaning": "結晶学、情報の情報の凍れる幾何学の書記",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "krustallos",
+					"type": "root",
+					"meaning": "ice, crystal"
+				},
+				{
+					"text": "graphein",
+					"type": "root",
+					"meaning": "to write"
+				}
+			],
+			"original_statement": "From Greek krustallos + graphia."
+		},
+		"core_concept": {
+			"en": "the branch of science concerned with the structure and properties of crystals",
+			"ja": "無秩序な情報の液状化を峻烈に拒み、情報の『氷（ice）』のような完全なる秩序として『書き記す（write）』。"
+		},
+		"thinking_layer": "氷の記法。原子という名の情報の個性を、対称性という名の情報の『永久欠番』へと整列させ、その内部に潜む宇宙の情報の『設計図』を、光の回折（diffraction）によって暴き出す、情報の審判（judgment）。",
+		"aftertaste": "あまりに整然と並ぶ原子の格子の、その情報の『正解』の、冷え切った美しさへの戦慄。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"crystal, graphic と同じ roots。情報の凝結。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "piezoelectric",
+		"word": "Piezoelectric",
+		"part_of_speech": "adjective",
+		"meaning": "圧電の、情報の物理的な重圧を情報の火花へ",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "piezein",
+					"type": "root",
+					"meaning": "to press, squeeze"
+				},
+				{
+					"text": "elektron",
+					"type": "root",
+					"meaning": "amber"
+				}
+			],
+			"original_statement": "From Greek piezein + electric."
+		},
+		"core_concept": {
+			"en": "relating to electric polarization in a substance (especially certain crystals) resulting from the application of mechanical stress",
+			"ja": "情報の『圧搾（squeeze）』という名の蹂躙を、峻烈な情報の『電圧』という名の叫びへと変容させる。"
+		},
+		"thinking_layer": "（琥珀を）押すこと。外部からの物理的な情報の『暴力』を、内なる電荷という名の情報の『抵抗』として瞬時に翻訳（translate）し、実存の圧迫を光の予兆へと昇華させる、情報の錬金術。",
+		"aftertaste": "ただ押されることで電気が産まれるという、その情報の『不本意なる献身』の凄絶なる、しかし実利的なる美しさ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"pressure, electricity。情報の『歪み』からの創造。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "viscoelastic",
+		"word": "Viscoelastic",
+		"part_of_speech": "adjective",
+		"meaning": "粘弾性の、情報の情報の遅延する記憶、蜜と鋼の同居",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "viscum",
+					"type": "root",
+					"meaning": "mistletoe, birdlime, viscous"
+				},
+				{
+					"text": "elasticus",
+					"type": "root",
+					"meaning": "elastic"
+				}
+			],
+			"original_statement": "From viscous + elastic."
+		},
+		"core_concept": {
+			"en": "property of materials that exhibit both viscous and elastic characteristics when undergoing deformation",
+			"ja": "情報の『粘り（viscous）』という名の記憶と、『跳ね返り（elastic）』という名の反射を、峻烈に一者のうちに同居させる。"
+		},
+		"thinking_layer": "粘つく、かつ弾むもの。形を峻烈に元に戻そうとする情報の意志と、流されて形を失う情報の絶望が、峻烈な『時間差』という名の情報のドラマにおいて交差する、情報の不気味なる二重性。",
+		"aftertaste": "ゆっくりと元に戻ってゆくその『情報の記憶の重み』に、物質の情報の静かなる実存を視る。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"viscosity, elasticity。情報の『時間的な制御』の極北。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "tribology",
+		"word": "Tribology",
+		"part_of_speech": "noun",
+		"meaning": "トライボロジー、摩擦学、情報の情報の擦れ合いの深淵",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "tribos",
+					"type": "root",
+					"meaning": "rubbing"
+				},
+				{
+					"text": "logia",
+					"type": "root",
+					"meaning": "study"
+				}
+			],
+			"original_statement": "From Greek tribos 'rubbing' + -logy (1966)."
+		},
+		"core_concept": {
+			"en": "study of friction, lubrication, and wear",
+			"ja": "固体間の峻烈な情報の『擦れ合い（rubbing）』を、情報の理（logos）によって解剖する。"
+		},
+		"thinking_layer": "擦れ合いの学問。情報の接触という名の、もっとも激しき『摩耗（wear）』と『熱（heat）』の発生の場を、潤滑という名の情報の『沈黙』によって峻烈に制御しようとする、情報の暴力の調律法。",
+		"aftertaste": "二つの面が接するその極微の情報の戦場に、宇宙のすべての動力の損失と再生のドラマを聴く。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"tribe (部族/擦り合わせ?) との関係も示唆される。情報の物理的な対峙。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "rheology",
+		"word": "Rheology",
+		"part_of_speech": "noun",
+		"meaning": "流動学、レオロジー、情報の情報の流転の理",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "rheos",
+					"type": "root",
+					"meaning": "flow"
+				},
+				{
+					"text": "logia",
+					"type": "root",
+					"meaning": "study"
+				}
+			],
+			"original_statement": "From Greek rheos 'flow' (coined in 1920s using Heraclitus's panta rhei)."
+		},
+		"core_concept": {
+			"en": "the study of the flow of matter, primarily in a liquid state, but also as soft solids",
+			"ja": "万物は流転（flow）するという情報の『真理』を、峻烈な物理の情報の『言葉（logos）』で記述する。"
+		},
+		"thinking_layer": "流れの学問。固定という名の情報の『虚偽』を、液状化という名の情報の『真実』によって峻烈に暴き、あらゆる実存が時間の情報の激流の中でいかように形を崩し、あるいは保つかを予言する、情報の予言術。 ",
+		"aftertaste": "ドロドロとした物質の動きの中に、宇宙の不変の情報の情報の『リズム』を視る瞬間の、知的な官能。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"panta rhei (パンタ・レイ) から。情報の永遠の流動。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "nanobot",
+		"word": "Nanobot",
+		"part_of_speech": "noun",
+		"meaning": "ナノボット、情報の極微な奴隷、細胞の外科医",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "nanos",
+					"type": "root",
+					"meaning": "dwarf"
+				},
+				{
+					"text": "robot",
+					"type": "root",
+					"meaning": "forced labor"
+				}
+			],
+			"original_statement": "From nano- + robot."
+		},
+		"core_concept": {
+			"en": "hypothetical self-moving machine of the size of a few nanometers",
+			"ja": "小人（dwarf）という名の極微な情報の肉体に、峻烈な『強制労働（forced labor）』を宿らせ、細胞の宇宙へ放つ。"
+		},
+		"thinking_layer": "小人の奴隷。目に見えぬ情報の深淵において、DNAの情報を峻烈に修復し、あるいは敵対する情報の細胞を峻烈に暗殺する、死神という名の情報の『外科用メス』。それは、生命を超克するための情報の極小兵器。",
+		"aftertaste": "自らの血流の中を、見知らぬ知性の情報の軍勢が奔っているという、その峻烈なる不気味さと、ある種の救いへの渇望。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"nano, robot。情報の『スケール』と『服従』の融合。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "biocompatible",
+		"word": "Biocompatible",
+		"part_of_speech": "adjective",
+		"meaning": "生体適合性の、情報の異物の沈黙、不和なき同居",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "bios",
+					"type": "root",
+					"meaning": "life"
+				},
+				{
+					"text": "com-",
+					"type": "prefix",
+					"meaning": "together"
+				},
+				{
+					"text": "pati",
+					"type": "root",
+					"meaning": "to suffer"
+				}
+			],
+			"original_statement": "From bio- + compatible."
+		},
+		"core_concept": {
+			"en": "not harmful or toxic to living tissue",
+			"ja": "生命（bios）という名の情報の拒絶に対し、峻烈な『共に苦しむ（suffer together）』という名の情報の『偽装』を、不和なく完遂する。"
+		},
+		"thinking_layer": "生命と共に苦しめるもの。異物（stranger）という名の情報の『暴力』を、親和性（affinity）という名の情報の『嘘』で峻烈にコーティングし、免疫という名の情報の『峻烈なる処刑』を静かに回避する、高度な情報の外交官。",
+		"aftertaste": "人工の鋼鉄が、生身の肉体の一部として峻烈に受け入れられた瞬間に、情報の境界線の無効を視る。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"biology, compassion, compatible。情報の『受容』の限界。"
+			]
+		},
+		"date": "20-03-12"
+	},
+	{
+		"id": "hydrogel",
+		"word": "Hydrogel",
+		"part_of_speech": "noun",
+		"meaning": "ヒドロゲル、情報の水の牢獄、震える虚無",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "hydros",
+					"type": "root",
+					"meaning": "water"
+				},
+				{
+					"text": "gelare",
+					"type": "root",
+					"meaning": "to freeze"
+				}
+			],
+			"original_statement": "From hydro- + gel."
+		},
+		"core_concept": {
+			"en": "network of polymer chains that are hydrophilic, sometimes found as a colloidal gel in which water is the dispersion medium",
+			"ja": "水（water）という名の自由なる情報を、峻烈な高分子の情報の『凍りついた（freeze）』網目に幽閉する。"
+		},
+		"thinking_layer": "水の凍結物（ゲル）。液状という名の情報の『放任』を、結合という名の情報の『束縛』によって峻烈に引き留め、固体という名の情報の『威厳』を水の肉体に無理やり宿らせる、情報の不可能なまでの瑞々しき『静止』。",
+		"aftertaste": "指先で震えるその透明な情報の肉塊に、水が形を持ったという、神の業への峻烈なる冒涜を視る。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"hydrogen, gelatin と同じ root。情報の『囚われの流体』。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "elastomer",
+		"word": "Elastomer",
+		"part_of_speech": "noun",
+		"meaning": "エラストマー、情報の情報の跳ね返りの一員、弾む影",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "elaunein",
+					"type": "root",
+					"meaning": "to drive, beat out"
+				},
+				{
+					"text": "meros",
+					"type": "root",
+					"meaning": "part"
+				}
+			],
+			"original_statement": "From elastic + -mer."
+		},
+		"core_concept": {
+			"en": "natural or synthetic polymer having elastic properties, e.g. rubber",
+			"ja": "衝撃を『追い出す（drive）』という名の情報の『部分（part）』を峻烈に集積させ、反発を完成させる。"
+		},
+		"thinking_layer": "弾む部分。変形という名の情報の『不実』を、瞬時の情報の『復元』によって峻烈に拒み、エネルギーをただ反転させるためだけに設計された、情報のゴム状の肉体。それは、挫折を知らぬ情報の不屈。 ",
+		"aftertaste": "潰されても、叩かれても、何食わぬ顔で元の形に戻るその不気味なまでの情報の『正気』。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"elastic, monomer と同じ roots。情報の跳ね返り。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "thermoplastic",
+		"word": "Thermoplastic",
+		"part_of_speech": "noun",
+		"meaning": "熱可塑性樹脂、情報の熱による再鋳造、可変なる秩序",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "thermos",
+					"type": "root",
+					"meaning": "heat"
+				},
+				{
+					"text": "plastikos",
+					"type": "root",
+					"meaning": "molded, fit for molding"
+				}
+			],
+			"original_statement": "From thermo- + plastic."
+		},
+		"core_concept": {
+			"en": "denoting substances (especially synthetic resins) that become plastic on heating and harden on cooling",
+			"ja": "熱（heat）という名の情報のカオスを受け入れるたびに、峻烈に『形作られる（molded）』可能性。"
+		},
+		"thinking_layer": "熱で形作れるもの。固定という名の情報の『呪縛』を、温度という名の情報の『暴力』によって一時的に解除し、幾度でも形状という名の情報の『意味』を書き換えようとする、情報の遍歴の放浪者。",
+		"aftertaste": "一度は固まった秩序が、再びドロドロとした無秩序へと堕ちる瞬間の、情報の可塑的なる陶酔。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"thermos, plasma と同じ roots。情報の再起動。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "thermoset",
+		"word": "Thermoset",
+		"part_of_speech": "noun",
+		"meaning": "熱硬化性樹脂、情報の情報の不帰の誓約、焔の後の沈黙",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "thermos",
+					"type": "root",
+					"meaning": "heat"
+				},
+				{
+					"text": "set",
+					"type": "root",
+					"meaning": "to set, place"
+				}
+			],
+			"original_statement": "From thermo- + set."
+		},
+		"core_concept": {
+			"en": "denoting substances that becoming permanently rigid by application of heat",
+			"ja": "熱（heat）という名の情報の洗礼を受けた後、峻烈な情報の『配置（set）』を永久に固定し、不変を誓う。"
+		},
+		"thinking_layer": "熱で据え置かれたもの。一度限りの情報の『成形』のためにすべてを賭し、二度目の熱には破壊（carbonization）をもって応える、情報の不帰の誓約。それは、一度きりの実存の峻烈なる燃焼。 ",
+		"aftertaste": "二度と溶けぬその情報の硬質さに、後悔なき情報の『完結』という名の、孤独なる勝利を視る。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"thermoplastic との対比。一度きりの情報の結晶化。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
