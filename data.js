@@ -282688,5 +282688,1245 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "romanticism",
+		"word": "Romanticism",
+		"part_of_speech": "noun",
+		"meaning": "ロマン主義",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "roman",
+					"type": "root",
+					"meaning": "story, tale in the vernacular"
+				}
+			],
+			"original_statement": "From Old French romanz."
+		},
+		"core_concept": {
+			"en": "emotion and nature over reason",
+			"ja": "理性を焼き払う、魂の原火。"
+		},
+		"thinking_layer": "物語ること。冷徹な啓蒙主義の光に対し、夜の闇、嵐の海、そして人間の制御不能な感情（emotion）を峻烈に肯定する情報の反逆。",
+		"aftertaste": "野生の美しさに魂を委ね、無限の彼方を幻視する甘美な狂気。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"roman (小説、物語) から、理想化された世界観へ。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "impressionism",
+		"word": "Impressionism",
+		"part_of_speech": "noun",
+		"meaning": "印象派",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "in-",
+					"type": "prefix",
+					"meaning": "into"
+				},
+				{
+					"text": "premere",
+					"type": "root",
+					"meaning": "to press"
+				}
+			],
+			"original_statement": "From Latin impressio."
+		},
+		"core_concept": {
+			"en": "capture light and color",
+			"ja": "光の粒子が、網膜に刻む一瞬の痕跡。"
+		},
+		"thinking_layer": "押し付けること。固形的な形を峻烈に解体し、移ろいゆく光と空気の『印象』だけを純粋に抽出しようとする情報の瞬発力。",
+		"aftertaste": "世界が瞬きするたびに変化する、その美しき不確かさへの愛。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"pressure と同根。光が目に『押し付けられる』感覚。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "expressionism",
+		"word": "Expressionism",
+		"part_of_speech": "noun",
+		"meaning": "表現主義",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "ex-",
+					"type": "prefix",
+					"meaning": "out"
+				},
+				{
+					"text": "premere",
+					"type": "root",
+					"meaning": "to press"
+				}
+			],
+			"original_statement": "From Latin expressio."
+		},
+		"core_concept": {
+			"en": "depict subjectivity and emotion",
+			"ja": "内なる叫びを、峻烈に外へと絞り出す。"
+		},
+		"thinking_layer": "外へ押し出すこと。客観的な写実を峻烈に拒絶し、歪んだ形と激しい色彩を用いて、魂の最深部にある不安や情熱を無理やり現出させること。",
+		"aftertaste": "心の深淵にある澱（おり）をすべて吐き出した後の、峻烈な浄化。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"express (表現する、急行の) と同根。内から外への加速。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "cubism",
+		"word": "Cubism",
+		"part_of_speech": "noun",
+		"meaning": "キュビスム、立体派",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "kubos",
+					"type": "root",
+					"meaning": "cube, six-sided die"
+				}
+			],
+			"original_statement": "From Greek kybos."
+		},
+		"core_concept": {
+			"en": "geometric abstraction",
+			"ja": "多層的な視座を、一つの平面に峻烈に凝固させる。"
+		},
+		"thinking_layer": "立方体であること。単一の視点という欺瞞を峻烈に破壊し、対象を幾何学的な欠片へと解体・再構成することで、情報の『真の構造』を暴き立てる知的冒険。",
+		"aftertaste": "世界をバラバラに分解し、自分という神の視点で組み立て直す全能感。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"cube (立方体) の連なりとして世界を見る試み。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "surrealism",
+		"word": "Surrealism",
+		"part_of_speech": "noun",
+		"meaning": "シュルレアリスム、超現実主義",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "sur-",
+					"type": "prefix",
+					"meaning": "over, above"
+				},
+				{
+					"text": "realism",
+					"type": "root",
+					"meaning": "reality"
+				}
+			],
+			"original_statement": "Coined by Guillaume Apollinaire."
+		},
+		"core_concept": {
+			"en": "super-reality, dreams and logic combined",
+			"ja": "意識の底に眠る、不条理の楽園。"
+		},
+		"thinking_layer": "現実の上にあること。理性の検閲を峻烈に潜り抜け、夢や無意識の中に潜む『超（sur）』現実的な記号を、日常の風景へと強引に接続する情報の魔術。",
+		"aftertaste": "溶け出す時計、空飛ぶ魚……。常識という枷が外れた後の、目眩のするような自由。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"sur- (超過) ＋ realism (現実)。実存を超えた実存。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "minimalism",
+		"word": "Minimalism",
+		"part_of_speech": "noun",
+		"meaning": "ミニマリズム、最小限主義",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "minimus",
+					"type": "root",
+					"meaning": "smallest"
+				}
+			],
+			"original_statement": "From Latin minimus."
+		},
+		"core_concept": {
+			"en": "extreme simplicity",
+			"ja": "余白という名の、究極の情報の贅。"
+		},
+		"thinking_layer": "最小であること。装飾という名のエゴを峻烈に削ぎ落とし、ただ一つの線、ただ一つの色に世界のすべてを語らせようとする、情報の極限の沈黙。",
+		"aftertaste": "一切の嘘が排された後の、冷徹で清浄な情報の骨組み。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"minus, minor と同根。引くことによる美の創出。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "aestheticism",
+		"word": "Atheticism",
+		"part_of_speech": "noun",
+		"meaning": "唯美主義、審美主義",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "aisthetikos",
+					"type": "root",
+					"meaning": "perceptive, of sense perception"
+				}
+			],
+			"original_statement": "From Greek aisthesthai 'to perceive'."
+		},
+		"core_concept": {
+			"en": "devotion to beauty",
+			"ja": "美こそが、宇宙の唯一の法である。"
+		},
+		"thinking_layer": "感じること。道徳や政治という名の『外部の重荷』を峻烈に拒絶し、ただ『美しさ』という感覚（sense）のみを聖域として崇める、情報の高潔なる悦楽主義。",
+		"aftertaste": "この世のすべてを、一輪の花を眺めるように享受する、贅沢な孤独。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"aesthetic (美的な) の主義。感覚の絶対化。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "avant-garde",
+		"word": "Avant-garde",
+		"part_of_speech": "noun",
+		"meaning": "前衛、アヴァンギャルド",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "avant",
+					"type": "prefix",
+					"meaning": "before"
+				},
+				{
+					"text": "garde",
+					"type": "root",
+					"meaning": "guard, watch"
+				}
+			],
+			"original_statement": "From French avant-garde 'vanguard'."
+		},
+		"core_concept": {
+			"en": "experimental and innovative",
+			"ja": "未踏の荒野に、真っ先に身を投じる情報の尖兵。"
+		},
+		"thinking_layer": "前に立つ警護（先鋒）。既存の価値観という名の『安穏とした城壁』を峻烈に踏み出し、攻撃的なまでの新しさを武器に、未来という名の敵陣を切開する。",
+		"aftertaste": "背後からの罵声を、最高の喝采として受け止める孤独な誇り。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"軍隊の先遣部隊を意味した言葉が芸術へ。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "rococo",
+		"word": "Rococo",
+		"part_of_speech": "noun",
+		"meaning": "ロココ様式",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "rocaille",
+					"type": "root",
+					"meaning": "shell, rockwork"
+				}
+			],
+			"original_statement": "From French rocaille."
+		},
+		"core_concept": {
+			"en": "ornate and whimsical style",
+			"ja": "貝殻のように、複雑にうねる情報の遊戯。"
+		},
+		"thinking_layer": "岩細工（貝殻細工）。バロックの重厚な重力から峻烈に跳ね、軽やかな曲線と淡い色彩によって、現世の喜びを極限まで装飾（ornament）する、情報のデカダンス。",
+		"aftertaste": "現実の苦しみを忘れさせる、甘美な砂糖菓子の迷宮。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"庭園の洞窟に使われた貝殻装飾から。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "artdeco",
+		"word": "Artdeco",
+		"part_of_speech": "noun",
+		"meaning": "アール・デコ",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "art",
+					"type": "root",
+					"meaning": "art"
+				},
+				{
+					"text": "decoratif",
+					"type": "root",
+					"meaning": "decorative"
+				}
+			],
+			"original_statement": "From Exposition Internationale des Arts Décoratifs et Industriels Modernes."
+		},
+		"core_concept": {
+			"en": "geometric and bold industrial style",
+			"ja": "機械の鼓動を、黄金色の直線に閉じ込める。"
+		},
+		"thinking_layer": "装飾的芸術。伝統的な装飾を峻烈に幾何学化（geometry）し、近代の速度と力を象徴する直線によって、日常をラグジュアリーな『情報の機械』へと昇華させる。",
+		"aftertaste": "摩天楼の頂上で、宇宙の秩序と握手するような、研ぎ澄まされた自信。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"1925年のパリ万博が起源。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "modernism",
+		"word": "Modernism",
+		"part_of_speech": "noun",
+		"meaning": "モダニズム、近代主義",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "modo",
+					"type": "root",
+					"meaning": "just now"
+				}
+			],
+			"original_statement": "From Latin modo."
+		},
+		"core_concept": {
+			"en": "break with the past",
+			"ja": "過去の残響を峻烈に断ち切り、『今』を聖別する。"
+		},
+		"thinking_layer": "たった今。昨日の伝統を『情報の死体』として峻烈に埋葬し、理性と機能、そして剥き出しの真実によって、新しい世界の礎を築こうとする情報の覚醒。",
+		"aftertaste": "古い殻を破り、まばゆい光の中に放り出された、痛みを伴う自由。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"modern (現代の) ＋ -ism。時間の断絶。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "postmodernism",
+		"word": "Postmodernism",
+		"part_of_speech": "noun",
+		"meaning": "ポストモダニズム",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "post-",
+					"type": "prefix",
+					"meaning": "after"
+				},
+				{
+					"text": "modernism",
+					"type": "root",
+					"meaning": "modernism"
+				}
+			],
+			"original_statement": "Critique of modernism."
+		},
+		"core_concept": {
+			"en": "skepticism toward grand narratives",
+			"ja": "唯一の物語（Grand Narrative）の終焉。"
+		},
+		"thinking_layer": "モダニズムの後。理性の全能感を峻烈に冷笑し、あらゆる価値を断片（fragments）と遊戯（play）へと解体して、情報のパッチワークとして世界を再構築する不信。",
+		"aftertaste": "絶対的な中心を失った、浮遊する情報の万華鏡を見つめる虚無感。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"『大きな物語』を信じない時代の知性。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "naturalism",
+		"word": "Naturalism",
+		"part_of_speech": "noun",
+		"meaning": "自然主義",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "nasci",
+					"type": "root",
+					"meaning": "to be born"
+				}
+			],
+			"original_statement": "From Latin natura."
+		},
+		"core_concept": {
+			"en": "depict reality without idealization",
+			"ja": "遺伝と環境という名の、非情なる情報の鎖。"
+		},
+		"thinking_layer": "（土から）生まれること。ロマン主義の甘い夢を峻烈に叩き壊し、科学的な外科手術のごとき眼差しで、人間の剥き出しの生存競争と醜い現実をありのままに活写する。",
+		"aftertaste": "自分もまた、自然という巨大な機械の一部に過ぎないという、底冷えのするような理解。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"nature, native と同根。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "dadaism",
+		"word": "Dadaism",
+		"part_of_speech": "noun",
+		"meaning": "ダダイスム",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "dada",
+					"type": "root",
+					"meaning": "hobby-horse (baby talk)"
+				}
+			],
+			"original_statement": "Nonsense word picked from a dictionary."
+		},
+		"core_concept": {
+			"en": "nihilistic anti-art",
+			"ja": "情報の死、あるいは意味の自死。"
+		},
+		"thinking_layer": "ダダ（赤ん坊の言葉）。文明そのものを『巨大な殺戮の嘘』として峻烈に全否定し、偶然とナンセンスによって、情報そのものの息の根を止めようとする破壊の遊戯。",
+		"aftertaste": "すべてが灰になった後に響く、高笑いのような静寂。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"第一次大戦の悲劇が生んだ、芸術への復讐。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "fauvism",
+		"word": "Fauvism",
+		"part_of_speech": "noun",
+		"meaning": "フォーヴィスム、野獣派",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": " fauve",
+					"type": "root",
+					"meaning": "wild beast"
+				}
+			],
+			"original_statement": "From French les fauves 'the wild beasts'."
+		},
+		"core_concept": {
+			"en": "bold, unnatural colors",
+			"ja": "色彩という名の野獣を、情報の檻から解き放つ。"
+		},
+		"thinking_layer": "野獣。形に従属していた色を峻烈に独立させ、網膜を焼き尽くすような激しい原色によって、魂の野生的なエネルギーをダイレクトに爆発させる視覚の咆哮。",
+		"aftertaste": "色が脳を殴り、世界を再定義する瞬間の、猛々しいまでの生命感。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"写実を殺し、ただ『感じること』を命じる色。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "illuminated",
+		"word": "Illuminated",
+		"part_of_speech": "adjective",
+		"meaning": "彩飾された、照らされた」、啓発された",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "in-",
+					"type": "prefix",
+					"meaning": "into"
+				},
+				{
+					"text": "lumen",
+					"type": "root",
+					"meaning": "light"
+				}
+			],
+			"original_statement": "From Latin illuminare."
+		},
+		"core_concept": {
+			"en": "decorated with gold or color",
+			"ja": "言葉の余白に、黄金の聖なる光を閉じ込める。"
+		},
+		"thinking_layer": "光を入れること（中へ）。暗い写本（manuscript）の文字の隙間に、金箔や宝石のような色彩を峻烈に埋め込み、情報の伝達を『聖なる体験』へと昇華させる加飾の魔法。",
+		"aftertaste": "一文字一文字が光り輝き、全宇宙の縮図となる悦び。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"Lumen (光) 。電球も写本も同じ根を持つ。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "calligraphy",
+		"word": "Calligraphy",
+		"part_of_speech": "noun",
+		"meaning": "書道、カリグラフィー",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "kallos",
+					"type": "root",
+					"meaning": "beauty"
+				},
+				{
+					"text": "graphein",
+					"type": "root",
+					"meaning": "to write"
+				}
+			],
+			"original_statement": "From Greek kallos + graphein."
+		},
+		"core_concept": {
+			"en": "beautiful writing",
+			"ja": "呼吸の乱れを峻烈に排した、情報の舞踏。"
+		},
+		"thinking_layer": "美しく書くこと。単なる意味の記録を、研ぎ澄まされた肉体のリズムによって『形ある音楽』へと変換する、指先の高潔なる修行。",
+		"aftertaste": "完璧な一本の線が、全宇宙の均衡（balance）を体現しているという安堵。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"graph, grammar と同根。文字は祈り。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "typography",
+		"word": "Typography",
+		"part_of_speech": "noun",
+		"meaning": "タイポグラフィ、活字術",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "typos",
+					"type": "root",
+					"meaning": "impression, mark, type"
+				},
+				{
+					"text": "graphein",
+					"type": "root",
+					"meaning": "to write"
+				}
+			],
+			"original_statement": "From Greek typos."
+		},
+		"core_concept": {
+			"en": "art of arranging type",
+			"ja": "声なき情報の顔つき（face）を、峻烈にデザインする。"
+		},
+		"thinking_layer": "型を刻む（書く）こと。言葉の肉体（font）を、その意味に最もふさわしい秩序ある形状へと鋳造し、読み手の脳へ情報を峻烈に送り込むための『視覚のインターフェース』。",
+		"aftertaste": "適切な書体が選ばれた時の、パズルのピースがはまったような快感。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"type (型、タイプ) は打撃の痕跡を意味した。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "pottery",
+		"word": "Pottery",
+		"part_of_speech": "noun",
+		"meaning": "陶磁器、製陶、情報の器",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "potus",
+					"type": "root",
+					"meaning": "drinking"
+				}
+			],
+			"original_statement": "From Late Latin potus 'drinking cup'."
+		},
+		"core_concept": {
+			"en": "ceramics",
+			"ja": "混沌とした泥を、峻烈な回転で『器（form）』へと変える。"
+		},
+		"thinking_layer": "飲むためのもの。不定形の土に自らの意志と遠心力を加え、熱という名の情報の洗礼を経て、永遠の『静止（stillness）』を授ける錬金術。",
+		"aftertaste": "手のひらに収まる冷たい土の記憶が、熱によって不滅になったことを知る平安。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"pot, potable (飲料に適した) と同根。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "upholstery",
+		"word": "Upholstery",
+		"part_of_speech": "noun",
+		"meaning": "張り替え、表張り、家具の内装",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "up-",
+					"type": "prefix",
+					"meaning": "up"
+				},
+				{
+					"text": "hold",
+					"type": "root",
+					"meaning": "to keep"
+				}
+			],
+			"original_statement": "From uphold 'to keep up, repair'."
+		},
+		"core_concept": {
+			"en": "covering for furniture",
+			"ja": "硬い骨組みに、柔らかな情報の肌を纏わせる。"
+		},
+		"thinking_layer": "高く保持すること（修復すること）。剥き出しの機能（chair）を、布や中綿という名の『情報のクッション』で峻烈に包み込み、安らぎという名の体験（experience）を完成させる肉体的な加飾。",
+		"aftertaste": "世界が急に優しく、そして丁寧に包まれたように感じる安堵。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"uphold (支持する、維持する) から生まれた言葉。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "tempera",
+		"word": "Tempera",
+		"part_of_speech": "noun",
+		"meaning": "テンペラ画、情報の混和",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "temperare",
+					"type": "root",
+					"meaning": "to mix, restrain, proportion"
+				}
+			],
+			"original_statement": "From Latin temperare 'to mix in due proportion'."
+		},
+		"core_concept": {
+			"en": "paint mixed with egg yolk",
+			"ja": "生命の核（egg）を媒介に、色の粒子を一つに結ぶ。"
+		},
+		"thinking_layer": "混ぜ合わせること（節制すること）。顔料を卵黄という名の『生命の接着剤』で峻烈に調合し、乾燥と同時に不変の強度を授ける、時間の重層を許さない瞬間の合一。",
+		"aftertaste": "数百年後も変わらぬ色彩が放つ、磨き上げられた情報の輝き。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"temperature, temperance と同根。正しい比率で混ぜること。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "easel",
+		"word": "Easel",
+		"part_of_speech": "noun",
+		"meaning": "画架、イーゼル、情報の支脚",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "ezel",
+					"type": "root",
+					"meaning": "donkey, ass"
+				}
+			],
+			"original_statement": "From Dutch ezel 'donkey'."
+		},
+		"core_concept": {
+			"en": "frame for holding a canvas",
+			"ja": "黙々と沈黙の重みを背負い、真理の現出を支える『情報のロバ』。"
+		},
+		"thinking_layer": "ロバ。画家の思考の爆発という名の『重荷』を、その三本の脚で峻烈に支え続け、大地から情報を浮かび上がらせるための忠実な台座。",
+		"aftertaste": "支えがあるからこそ、自由に描けるという安心の重力。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ロバが荷物を運ぶように、絵を運ぶ（支える）ことから。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "antiquary",
+		"word": "Antiquary",
+		"part_of_speech": "noun",
+		"meaning": "古物収集家、骨董家",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "antiquus",
+					"type": "root",
+					"meaning": "old, ancient"
+				}
+			],
+			"original_statement": "From Latin antiquarius."
+		},
+		"core_concept": {
+			"en": "person who studies or collects antiques",
+			"ja": "時間の地層から、不滅の情報の幽霊を掘り起こす。"
+		},
+		"thinking_layer": "古いものを扱う者。摩耗し、忘れ去られた過去の残滓から、当時の熱量を放つ情報の核を峻烈に見つけ出し、再び現代という名の光の中に配置する、時間の修復者。",
+		"aftertaste": "古びた物質の中に眠る、永遠の新しい真理を発見した時の震撼。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"antique, ancient と同根。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "curio",
+		"word": "Curio",
+		"part_of_speech": "noun",
+		"meaning": "骨董品、珍品、情報の好奇心",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "cura",
+					"type": "root",
+					"meaning": "care, concern, curiosity"
+				}
+			],
+			"original_statement": "Short for curiosity."
+		},
+		"core_concept": {
+			"en": "rare or unusual object",
+			"ja": "『なぜ存在するか』という問いを峻烈に突きつける、情報の異端。"
+		},
+		"thinking_layer": "注意を引くもの。平凡な日常の物語の中に、唐突に現れる『理解不能な形』。それは知性の好奇心を峻烈に刺激し、世界の再解釈を迫るための、情報の楔（くさび）。",
+		"aftertaste": "わからない、だからこそ愛おしいという。未知への奇妙な渇望。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"curious, care と同根。心を引くこと。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "arabesque",
+		"word": "Arabesque",
+		"part_of_speech": "noun",
+		"meaning": "唐草模様、アラベスク、情報の無限連鎖",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "Arab",
+					"type": "root",
+					"meaning": "Arabs"
+				}
+			],
+			"original_statement": "From Italian arabesco."
+		},
+		"core_concept": {
+			"en": "ornamental design of entwined flowing lines",
+			"ja": "具象を峻烈に排し、無限の『うねり』の中に神を見る。"
+		},
+		"thinking_layer": "アラビア風の。幾何学的で植物的な曲線が、始まりも終わりもなく峻烈に反復され、宇宙の中にある情報の『純粋なリズム』だけを抽出する、美しき沈黙の舞踏。",
+		"aftertaste": "終わりなき繰り返しの中に溶けてゆく、自我の平安。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"偶像崇拝を禁じる文化から、抽象の極致が生まれた。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "emblem",
+		"word": "Emblem",
+		"part_of_speech": "noun",
+		"meaning": "紋章、象徴、情報の象嵌（ぞうがん）",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "en-",
+					"type": "prefix",
+					"meaning": "in"
+				},
+				{
+					"text": "ballein",
+					"type": "root",
+					"meaning": "to throw"
+				}
+			],
+			"original_statement": "From Greek emblema 'insertion'."
+		},
+		"core_concept": {
+			"en": "symbolic object",
+			"ja": "一つの形の中に、巨大な物語の重みを峻烈に『投げ入れる』。"
+		},
+		"thinking_layer": "中に投げ込まれたもの。文字という長い説明を峻烈に圧縮し、たった一つの図像として精神の最深部に叩き込む、情報の要約の極北（abstraction）。",
+		"aftertaste": "その印（mark）を見るだけで、すべての誓いが脳内で爆発する瞬間の重圧。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"problem, symbol と同じ ballein (投げる)。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "anthology",
+		"word": "Anthology",
+		"part_of_speech": "noun",
+		"meaning": "選集、アンソロジー、情報の花束",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "anthos",
+					"type": "root",
+					"meaning": "flower"
+				},
+				{
+					"text": "logia",
+					"type": "root",
+					"meaning": "collection"
+				}
+			],
+			"original_statement": "From Greek anthologia 'flower-gathering'."
+		},
+		"core_concept": {
+			"en": "collection of literary works",
+			"ja": "言葉の庭から、最も美しい光だけを峻烈に摘み取って束ねる。"
+		},
+		"thinking_layer": "花を集めること。バラバラな物語の海から、共通の魂や高い熱量を持つ欠片（fragments）を峻烈に選び出し、一つの新しい宇宙として再構成する情報の編集術。",
+		"aftertaste": "異なる才能が共鳴し合い、一つの大きな響きへと変わる瞬間の高揚感。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"anthos (花) ＋ logos (言葉/収集)。花の言葉。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "genre",
+		"word": "Genre",
+		"part_of_speech": "noun",
+		"meaning": "ジャンル、形式、情報の種族",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "genus",
+					"type": "root",
+					"meaning": "kind, family, stock"
+				}
+			],
+			"original_statement": "From Latin genus."
+		},
+		"core_concept": {
+			"en": "category of artistic composition",
+			"ja": "カオスな情報の奔流を、峻烈な『型（type）』という名の檻に収める。"
+		},
+		"thinking_layer": "種族。無限に広がる表現の地平に、人為的な境界線を峻烈に引き、『何に属するか』を定義することで、世界の理解（recognition）を容易にするための知的分類。",
+		"aftertaste": "境界を知ることで、初めて自分の居場所（originality）が見えてくるという逆説的な安堵。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"gender, general と同根。種の問題。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "critique",
+		"word": "Critique",
+		"part_of_speech": "noun",
+		"meaning": "批判的分析、評論、情報の審判",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "krinein",
+					"type": "root",
+					"meaning": "to judge, decide, separate"
+				}
+			],
+			"original_statement": "From Greek kritikos."
+		},
+		"core_concept": {
+			"en": "detailed analysis and assessment",
+			"ja": "虚飾の屑を峻烈に切り分け（separate）、真理の骨を晒す。"
+		},
+		"thinking_layer": "分けること。単なる悪口ではなく、対象の構造を論理という名の『メス』で峻烈に解体し、その価値と限界を冷徹に宣告する、情報の外科的思考。",
+		"aftertaste": "冷たい沈黙の後に、本質だけが純化されて浮かび上がる清々しさ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"crisis, critic と同根。決断すること。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "bricolage",
+		"word": "Bricolage",
+		"part_of_speech": "noun",
+		"meaning": "寄せ集め細工、ブリコラージュ、情報の野性的思考",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "bricole",
+					"type": "root",
+					"meaning": "trifle, snare, ricochet"
+				}
+			],
+			"original_statement": "From French bricoler 'to do odd jobs'."
+		},
+		"core_concept": {
+			"en": "construction from a diverse range of things",
+			"ja": "あり合わせの欠片を峻烈に結び、即興の宇宙（impromptu）を築く。"
+		},
+		"thinking_layer": "跳ね返ること。完璧な計画を峻烈に拒み、今ここにあるゴミや残滓という名の『偶然の情報の粒子』を器用に繋ぎ合わせて、新しい意味の回路を突撃的に構築すること。",
+		"aftertaste": "理論がないからこそ、生命そのものの逞しさを感じる、泥だらけの創造性。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"レヴィ＝ストロースが『野性の思考』として定義した。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "aesthetician",
+		"word": "Aesthetician",
+		"part_of_speech": "noun",
+		"meaning": "美学者、エステティシャン、美の番人",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "aisthesis",
+					"type": "root",
+					"meaning": "sensation"
+				}
+			],
+			"original_statement": "One who studies aesthetics."
+		},
+		"core_concept": {
+			"en": "specialist in aesthetics",
+			"ja": "感覚（sensation）の深淵を読み解く、情報の解剖医。"
+		},
+		"thinking_layer": "感じる人。なぜ人は美しいと感じるのかという、情報の最深部にある『震え（shiver）』を峻烈な論理で分析し、その快楽の構造を白日の下に晒そうとする者。",
+		"aftertaste": "美しさに理屈をつけた後の、少し寂しいような、でも世界が透明になったような理解。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"anesthesia (麻酔＝感覚がない) の真逆。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "stilllife",
+		"word": "Stilllife",
+		"part_of_speech": "noun",
+		"meaning": "静物画、死んだ情報の生",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "still",
+					"type": "root",
+					"meaning": "fixed, quiet"
+				},
+				{
+					"text": "life",
+					"type": "root",
+					"meaning": "living"
+				}
+			],
+			"original_statement": "From Dutch stilleven."
+		},
+		"core_concept": {
+			"en": "painting of inanimate objects",
+			"ja": "死せる物質（dead matter）に、峻烈な眼差しで『不滅の命』を吹き込む。"
+		},
+		"thinking_layer": "静かなる生。果物や髑髏といった、朽ちゆく運命にある物質を時間の流れから峻烈に救い出し、一瞬の配置（composition）の中に永遠を宿らせようとする情報の保存。 ",
+		"aftertaste": "『いつか死ぬ（memento mori）』という事実の裏側にある、今ここに在ることの峻烈な美しさ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"フランス語では nature morte (死んだ自然) と呼ぶ。その乖離。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "mural",
+		"word": "Mural",
+		"part_of_speech": "noun",
+		"meaning": "壁画",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "murus",
+					"type": "root",
+					"meaning": "wall"
+				}
+			],
+			"original_statement": "From Latin murus."
+		},
+		"core_concept": {
+			"en": "painting applied directly to a wall",
+			"ja": "情報の聖域を、物理的な『壁』そのものに同化させる。"
+		},
+		"thinking_layer": "壁。単一のキャンバスという名の『持ち運べる嘘』を捨て、世界の境界線（wall）に直接情報を刻み込むことで、日常の空間を峻烈な意味の場へと変容させる重厚な加飾。",
+		"aftertaste": "壁がある限り逃れられない、物語の圧倒的な包囲感。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"immure (監禁する) と同根。情報に閉じ込められること。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "sketching",
+		"word": "Sketching",
+		"part_of_speech": "noun",
+		"meaning": "写生、素描、情報の略奪的記録",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "schedios",
+					"type": "root",
+					"meaning": "done extempore, temporary, hand-to-hand"
+				}
+			],
+			"original_statement": "From Greek skhedios."
+		},
+		"core_concept": {
+			"en": "rough drawing",
+			"ja": "瞬間に飛び出し、真理の欠片を峻烈に『ひったくる（snatch）』ように描く。"
+		},
+		"thinking_layer": "即興の。推敲という名の『時間の贅』を峻烈に排し、目の前で明滅する情報の核を、一瞬の閃きと荒々しい線によって直接脳に焼き付ける、情報の略奪的な記録法。",
+		"aftertaste": "未完成ゆえの、剥き出しの躍動感が放つ鋭い刺激。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"scheme (計画) と同根。仮の姿としての記録。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "stencil",
+		"word": "Stencil",
+		"part_of_speech": "noun",
+		"meaning": "型紙、ステンシル、情報の透過的転写",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "estinceller",
+					"type": "root",
+					"meaning": "to sparkle, cover with stars"
+				}
+			],
+			"original_statement": "From Old French estinceller."
+		},
+		"core_concept": {
+			"en": "pattern through which paint is applied",
+			"ja": "光が遮断された闇から、星のように情報を峻烈に『煌め（sparkle）』かせる。"
+		},
+		"thinking_layer": "輝かせること。対象を峻烈に切り抜いた『不在の型』を作り、そこから情報を無理やり透過させることで、同じ形状を無数に世界へ複製（duplicate）する、情報の反復する煌めき。",
+		"aftertaste": "機械的な正確さと、手仕事の擦れが共存する、奇妙なリアリティ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"scintillate (火花を散らす) と同根。情報の火花。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "engraving",
+		"word": "Engraving",
+		"part_of_speech": "noun",
+		"meaning": "版画、彫り込み、情報の不滅の傷",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "en-",
+					"type": "prefix",
+					"meaning": "in"
+				},
+				{
+					"text": "graphan",
+					"type": "root",
+					"meaning": "to scratch, cave"
+				}
+			],
+			"original_statement": "From en- + grave."
+		},
+		"core_concept": {
+			"en": "art of cutting or carving",
+			"ja": "世界という名の肌に、消えない情報の傷（wound）を峻烈に刻む。"
+		},
+		"thinking_layer": "中に彫る（葬る）。表面的な彩色を峻烈に拒絶し、物質そのものを削り、掘り下げることで、情報の根源的な『形』を物理的な深さとして定着させる、情報の不滅の埋葬。",
+		"aftertaste": "指先で触れるだけでわかる、情報の圧倒的な『深層（depth）』の重み。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"grave (墓) と同根。忘却という死に抗うための掘削。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "lithograph",
+		"word": "Lithograph",
+		"part_of_speech": "noun",
+		"meaning": "リトグラフ、石版画",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "lithos",
+					"type": "root",
+					"meaning": "stone"
+				},
+				{
+					"text": "graphein",
+					"type": "root",
+					"meaning": "to write"
+				}
+			],
+			"original_statement": "From Greek lithos + graphia."
+		},
+		"core_concept": {
+			"en": "printing from a stone",
+			"ja": "石の重厚な沈黙の上に、情報の囁き（whisper）を転写する。"
+		},
+		"thinking_layer": "石に書くこと。水と油という反発し合う二つの情報の斥（しりぞ）けを峻烈に利用し、石灰岩の上に描かれた幽かな像を、無数の紙へと完璧に複製（mimic）する情報の錬金主義。",
+		"aftertaste": "石という名の不変の土台から、軽やかな情報の翼が飛び立つ奇跡。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"lithium, megalith と同じ『石』。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "etching",
+		"word": "Etching",
+		"part_of_speech": "noun",
+		"meaning": "エッチング、腐食銅版画",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "ezzen",
+					"type": "root",
+					"meaning": "to eat"
+				}
+			],
+			"original_statement": "From Dutch etsen 'to eat'."
+		},
+		"core_concept": {
+			"en": "art produced by etching a plate with acid",
+			"ja": "酸という名の飢えた牙に、情報を峻烈に『食べ（eat）』させる。"
+		},
+		"thinking_layer": "食べさせること。金属の表面を酸によって峻烈に腐食（corrosion）させ、その破壊の痕跡を美しい情報の溝へと変容させる、破壊と創造の極限のパラドックス。",
+		"aftertaste": "失われた（食べられた）部分こそが、最も鮮やかに物語を語るという、情報の欠落の美学。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"eat と同根。酸が金属を『食べる』。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "porcelain",
+		"word": "Porcelain",
+		"part_of_speech": "noun",
+		"meaning": "磁器、情報の透徹した肌",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "porcella",
+					"type": "root",
+					"meaning": "little pig, cowrie shell"
+				}
+			],
+			"original_statement": "From Italian porcellana 'cowrie shell'."
+		},
+		"core_concept": {
+			"en": "white vitrified translucent ceramic",
+			"ja": "貝殻のように透き通る、情報の完璧なる白（absolute white）。"
+		},
+		"thinking_layer": "子豚（タカラガイの形）。泥から生まれた土器を峻烈に否定し、極限の熱によって物質をガラス化（vitrify）させることで、光を透過させるほどの薄さと硬度を授ける情報の結晶化。",
+		"aftertaste": "触れた瞬間に砕けそうな繊細さと、数万年を耐え抜く強靭さが共存する、情報の奇跡。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"タカラガイ（子豚の形をした貝）のなめらかな質感に似ていることから。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "terracotta",
+		"word": "Terracotta",
+		"part_of_speech": "noun",
+		"meaning": "テラコッタ、情報の焼かれた土",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "terra",
+					"type": "root",
+					"meaning": "earth"
+				},
+				{
+					"text": "cotta",
+					"type": "root",
+					"meaning": "cooked"
+				}
+			],
+			"original_statement": "From Italian terra cotta 'baked earth'."
+		},
+		"core_concept": {
+			"en": "baked earth, clay",
+			"ja": "大地の記憶を峻烈に『焼き（cook）』、文明の形へと固定する。"
+		},
+		"thinking_layer": "焼かれた大地。素朴な泥の粒子に火という名の峻烈な試練を課し、釉薬（glaze）という厚化粧を排した、剥き出しの情報の誠実さを土本来の温かな色に宿らせること。",
+		"aftertaste": "数千年前の誰かの指の跡が、今も鮮やかに熱を持って生きていると感じる震撼。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"terra (地球/土) ＋ cotta (料理された)。大地の料理。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
