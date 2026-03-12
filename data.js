@@ -260905,5 +260905,202 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "suzerainty",
+		"word": "Suzerainty",
+		"part_of_speech": "noun",
+		"meaning": "宗主権（そうしゅけん）、（他国に対する）宗主としての地位",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "sus-",
+					"type": "prefix",
+					"meaning": "up, above (上に)"
+				},
+				{
+					"text": "souverain",
+					"type": "root",
+					"meaning": "sovereign (君主)",
+					"lang": "French"
+				}
+			],
+			"original_statement": "From French suzerain, formed from sus- 'up' after souverain 'sovereign'."
+		},
+		"core_concept": {
+			"en": "The right of a country to partly control another country that is not completely independent",
+			"ja": "完全に支配する（sovereignty）のではなく、相手の自立を認めつつも、その背後から絶対的な影を投げかける『一段高い（sus-）』場所からの統治。緩やかで、しかし逃れられない従属のネットワーク"
+		},
+		"thinking_layer": "『上にある主権者』。スザンナ（Susanna/百合？）は関係なく、ソブリン（Sovereign/君主）と同根。ただの「占領」ではなく、そこに「形式上の敬意」が含まれます。表向きは王であっても、その頭上にはさらに巨大な主（Suzerain）がいるという、二重の重圧。それは、自律しているつもりでありながら、実は社会の巨大なシステムに「飼い慣らされている（vassalized）」現代人のメタファー。",
+		"aftertaste": "自分が自由意志で選んだはずの結論が、実は誰かの「宗主権（suzerainty）」の下で巧妙に誘導されたものに過ぎなかったと気づいた時の、あの透明な檻の中に閉じ込められたような、知的な屈辱。あるいは、あまりにも巨大な才能の前に立ち、自分がその人の「宗主権（suzerainty）」の一部として仕えることに、奇妙な誇りと安らぎを感じる、あの甘美な従属。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "uper-",
+					"meaning": "over, above (forming sus-)"
+				}
+			],
+			"points": [
+				"superior, surface, surmount, survive 同根。",
+				"『支配（rule）』とは物理的な力の結果だが、『宗主権（suzerainty）』とは情報の非対称性と、精神的な『序列（hierarchy）』の受け入れによって完成する、知的な支配の形式である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "protectorate",
+		"word": "Protectorate",
+		"part_of_speech": "noun",
+		"meaning": "保護国、保護領、（歴史的な）護国卿の時代",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "pro-",
+					"type": "prefix",
+					"meaning": "before (〜の前に)"
+				},
+				{
+					"text": "tegere",
+					"type": "root",
+					"meaning": "to cover (覆う、守る)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From protect + -orate."
+		},
+		"core_concept": {
+			"en": "A state that is controlled and protected by another",
+			"ja": "盾となって『前（pro-）を覆い（cover）』、外敵からの守りを約束する代わりに、内なる自由を明け渡した状態。守られているという安心感と、奪われているという自覚の混濁"
+		},
+		"thinking_layer": "『前を覆うこと』。プロテクト（Protect）やディテクト（Detect/覆いを取る＝暴く）、タイル（Tile/覆うもの）、アーキテクト（Architect/おそらくな）と同根。語源は「前に盾をかざす」。ただの「支配（colony）」よりも、より「恩恵」を強調します。しかし、守るための盾は、同時に中からの出口を塞ぐ壁でもあります。それは「安全」と引き換えに「魂の自立」を売った者の、豊かで虚（うつ）ろな領土。",
+		"aftertaste": "最強の権力者の「保護国（protectorate）」として平穏を享受しつつも、自分の心の中に一滴の「自決権（self-determination）」もないことに気づき、深夜、誰もいない広場で震える、あの自分の存在の希薄さ（lightness）。あるいは、自分を守ってくれているはずの「価値観（core belief）」が、実は自分を縛る最大の「支配者（protectorate）」であったと悟る、あの静かな覚醒。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "steg-",
+					"meaning": "to cover"
+				}
+			],
+			"points": [
+				"thatch, deck, tegument, toga 同根。",
+				"『保護（protection）』とは、弱い存在に『服（covering）』を着せる行為に似ている。しかし、その服を一生脱ぐことができないならば、それは『鎧（armor）』でも『ドレス』でもなく、『遺骸を包む布』に等しい。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "vassalage",
+		"word": "Vassalage",
+		"part_of_speech": "noun",
+		"meaning": "臣下であること、家臣の身分、従属状態",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "vassus",
+					"type": "root",
+					"meaning": "servant (召使、家臣)",
+					"lang": "Medieval Latin"
+				},
+				{
+					"text": "gwas",
+					"type": "root",
+					"meaning": "servant (家臣)",
+					"lang": "Celtic"
+				}
+			],
+			"original_statement": "From Old French vassal, from Medieval Latin vassus 'servant'."
+		},
+		"core_concept": {
+			"en": "A condition of being a vassal; homage and service required of a vassal",
+			"ja": "土地や保護の対価として、自らの剣と忠誠（loyalty）を捧げる『家臣の身分』。強者と弱者の間に結ばれる、血と誓い（oath）によって綴じられた、美しくも残酷な依存の契約"
+		},
+		"thinking_layer": "『召使の状態』。アセット（Asset/十分な財産＝義務を果たせる状態？）やギャル（Girl/関係なし）はおそらくな。語源はケルト語の「家臣」。ただの「隷属（slavery）」ではなく、そこには「相互補完的」なニュアンスがあります。家臣は主君を支え、主君は家臣の生存を保証する。それは、一対一の、魂を削り合うような深い人間関係の形式。 ",
+		"aftertaste": "主君の足元に跪（ひざまず）き、自らの手を相手の手に重ねて「忠誠（homage）」を誓う時の、あの自分の自由が消え去ると同時に、何かに「属している」という強烈な全能感に満たされる、逆説的な幸福。あるいは、自分が信じていた「真理（truth）」に対しての、この終わりのない「忠誠（vassalage）」が、実は自分の目を曇らせる「呪い（curse）」になっていないかを自問する、あの静かな冬の夜。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "upo-",
+					"meaning": "under (forming vassus/the one who stays under)"
+				}
+			],
+			"points": [
+				"sub, hypo, valet（家臣＝近くに仕える者）と同根。",
+				"『下（under）』に居ることは卑屈を意味しない。強大な『真（absolute）』の影に入り、その力の一部となることで、個人は自らの限界を突破（transcendence）しようと試みるのである。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "fiefdom",
+		"word": "Fiefdom",
+		"part_of_speech": "noun",
+		"meaning": "封土、領地、（仕事上の）勢力範囲、私物化された領域",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "fehu",
+					"type": "root",
+					"meaning": "cattle, property (家畜、財産)",
+					"lang": "Germanic"
+				},
+				{
+					"text": "-dom",
+					"type": "suffix",
+					"meaning": "state, jurisdiction (状態、支配圏)",
+					"lang": "English"
+				}
+			],
+			"original_statement": "From Old French fieu, from Germanic origin related to cattle."
+		},
+		"core_concept": {
+			"en": "The estate or domain of a feudal lord; an organization or department that is controlled by a dominant person",
+			"ja": "忠誠の代償として与えられた、自らの意志が絶対的な支配（rule）を振るうことのできる『私有地』。財産の源泉であるとともに、他者の侵入を許さない自意識の『絶対境界』"
+		},
+		"thinking_layer": "『家畜の支配圏』。フィー（Fee/料金）、フェロー（Fellow/財産を共有する仲間）、ドメスティック（Domestic/家の）と同根。語源は「家畜（cattle）」。もともと財産とは「動く家畜」でした。それが土地へと固定され、自分の「城」となったもの。それは社内の特定の部署、あるいは自分の心の中の、誰にも指図（instruct）させない「聖域」としての領域。",
+		"aftertaste": "長年の努力の末に手に入れた、社内での自分だけの「勢力範囲（fiefdom）」を眺め、そこにあるすべてが自分の思い通りに動くことに深い満足を感じつつ、同時に外の世界との「繋がり」を失ってゆく孤立感。あるいは、自分の「書斎（study）」という名の小さな「領地（fiefdom）」に閉じこもり、一冊の本を旅することで、自分だけの宇宙を統治している、あの瞑想的な王としての時間。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "peku-",
+					"meaning": "wealth in cattle (forming fehu)"
+				}
+			],
+			"points": [
+				"pecuniary, peculate, peculiar（自分だけのもの＝家畜）と同根。",
+				"『財産（property）』とは、命あるもの（cattle）から動かぬ土地（fief）へとその形を変えてきたが、それを『支配（dom）』する意志の本質は、常に『個としての独立』への渇望である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "liege",
+		"word": "Liege",
+		"part_of_speech": "noun/adjective",
+		"meaning": "主君、君主、忠実な（家臣）",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "laetus",
+					"type": "root",
+					"meaning": "free, unbound (自由な、縛られていない)",
+					"lang": "Germanic"
+				}
+			],
+			"original_statement": "From Old French lige, probably from Germanic origin meaning 'free'."
+		},
+		"core_concept": {
+			"en": "Concerned with the relationship between a feudal superior and a vassal",
+			"ja": "いかなる代償も求めず、ただ相手の存在そのものに『自由な意志（free will）』で忠誠を誓う、至高の絆。縛られていないからこそ結ばれる、この世で最も堅牢で高貴な『主従の光』"
+		},
+		"thinking_layer": "『自由な（主君）』。ライアビリティー（Liability/責任）とは逆の語源。驚くべきことに「自由」が語源です。もともとは「他の誰にも縛られず、ただ一人の主君にのみ仕える」という、特権的な自由を持っていた家臣（liege man）を指しました。そこから転じて、その忠誠を受ける主君も「リージ（Liege）」に。それは、束縛（bondage）の中にこそ真の自由を見出す、高潔な知性の逆説。",
+		"aftertaste": "「我が主君（My Liege）」と呼びかけ、その言葉が自分の口から出た瞬間に、全身が規律（discipline）という名の高貴な光に貫かれ、自分の卑小な欲望がすべて蒸発してゆくような、あの魂の浄化。あるいは、自分が誰かにとっての「主君（liege lord）」であるという重責（responsibility）に震え、自分が自由（free）であるためにこそ、最も重い責任を背負うのだ、と覚悟する、あの静かな月夜の誓い。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"『自由（free）』と『忠誠（loyalty）』が一つに溶け合った言葉の歴史は、人間が『何かに属する』ことでしか、真の『自由』を定義できなかった中世の精神性の結晶。",
+				"『絆（bond）』とは、自分の意志で自分を『縛る（bind）』ことで得られる、究極の『力』である。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
