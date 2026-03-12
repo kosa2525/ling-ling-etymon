@@ -255478,5 +255478,51 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "sacrilege",
+		"word": "Sacrilege",
+		"part_of_speech": "noun",
+		"meaning": "聖遺物（聖物）の冒涜、神聖なものを汚すこと",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "sacer",
+					"type": "root",
+					"meaning": "sacred (聖なる)",
+					"lang": "Latin"
+				},
+				{
+					"text": "legere",
+					"type": "root",
+					"meaning": "to steal, gather (盗む、集める)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin sacrilegium, from sacrilegus 'stealer of sacred things'."
+		},
+		"core_concept": {
+			"en": "Violation or misuse of what is regarded as sacred",
+			"ja": "神聖な場所や道具を、本来の目的から外れて軽々しく扱い、あるいはそこから価値あるものを『盗み出す（steal sacred）』こと。秩序の根幹を揺るがす、美的な、あるいは宗教的な冒涜"
+		},
+		"thinking_layer": "『聖なるものを盗むこと』。セイクレッド（Sacred）やレクト（Select/選ぶ＝集める）と同根。ただの「汚染」ではなく、価値ある「聖なるエネルギー」を無断で持ち出し、自分の卑俗な欲望のために使おうとする知的な傲慢さ。それは高い理想を嘲笑し、冷笑的に消費する現代的な不敬さをも指します。",
+		"aftertaste": "誰もが大切に守ってきた伝統を、たった一発のジョークで台無しにするような、あの鋭い背徳の快感。あるいは、自分が最も信じていた価値観が、金銭という名の「泥棒（sacrilegus）」によって掠め取られてゆくのを見る時の、張り裂けるような悲しみ。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sak-",
+					"meaning": "to sanctify"
+				},
+				{
+					"term": "leg-",
+					"meaning": "to collect, gather (forming legere/read/steal)"
+				}
+			],
+			"points": [
+				"sacred, saint, sacrament, lecture, collect 同根。",
+				"『集める（collect）』という行為が、特定の状況下では『盗む（steal）』、あるいは『理解する（read）』へと転じる言語のダイナミズム。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
