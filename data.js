@@ -255108,5 +255108,169 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "indigence",
+		"word": "Indigence",
+		"part_of_speech": "noun",
+		"meaning": "困窮、生活困窮、貧乏",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "indu-",
+					"type": "prefix",
+					"meaning": "within (中に)"
+				},
+				{
+					"text": "egere",
+					"type": "root",
+					"meaning": "to need, want (必要とする、欠いている)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin indigent- 'needing', from indigere, from indu- 'within' + egere 'be in need'."
+		},
+		"core_concept": {
+			"en": "A state of extreme poverty",
+			"ja": "外側からは見えにくいかもしれないが、その内実（within）において、生存に不可欠な基盤が決定的に『欠けている（need）』状態。社会の網の目から零れ落ちた人の、静かなる困窮"
+		},
+		"thinking_layer": "『内側で必要としていること』。インディジェナス（Indigenous/土着の＝中で生まれた）と同根。ただ「持っていない」ことへの悲哀。必要なものが、自分の手の届く範囲（社会の循環）に「存在しない」という、隔絶された不全感。それは支援を求める声さえも出せなくなるような、深い麻痺。 ",
+		"aftertaste": "誰にも気づかれずに、自分の中の大切な何かが少しずつ欠落してゆく、あの音のない崩壊。あるいは、華やかな都会の光景を、たった一枚の窓ガラスという、しかし絶対に越えられない壁を隔てて見つめる時の、冷めた疎外感。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "eg-",
+					"meaning": "to lack"
+				}
+			],
+			"points": [
+				"needy, want 同義語。",
+				"『不足（lack）』していることに自分自身が『支配』されてしまうと、それは『生活（life）』ではなく『生存（survival）』へと堕落する。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "destitution",
+		"word": "Destitution",
+		"part_of_speech": "noun",
+		"meaning": "極貧、欠乏、見捨てられた状態",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "de-",
+					"type": "prefix",
+					"meaning": "away, down (取り去る)"
+				},
+				{
+					"text": "statuere",
+					"type": "root",
+					"meaning": "to set, place (据える、立てる)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin destitutio, from destituere 'abandon', from de- 'away' + statuere 'set up'."
+		},
+		"core_concept": {
+			"en": "Poverty so extreme that one lacks the means to provide for oneself",
+			"ja": "本来自分を支えるはずの基盤や場所から『引き剥がされ（set away）』、何の方策も助けもないまま荒野に放り出された、絶対的な『孤独な貧困』。頼るべき何ものもない虚無"
+		},
+		"thinking_layer": "『据えられている場所を外されること』。ステータス（Status/地位 = 立てられた場所）やインスティテュート（Institute/制度 = 立てられたもの）の剥奪。社会的な「居場所」を失うこと。それは、もはや人間社会の一部としてカウントされない、という冷酷な追放。 ",
+		"aftertaste": "どれだけ叫んでも、誰も自分の存在を認めない、透明な人間になってしまったような、あの底なしの不安。あるいは、かつて自分が持っていた「当たり前」が、今は手の届かない神話のように感じられる時の、乾いた驚き。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sta-",
+					"meaning": "to stand"
+				}
+			],
+			"points": [
+				"status, stability, statue, destination 同根。",
+				"『立つ場所（standard）』を失うことは、自己の『アイデンティティ』を消失させることと同義である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "subsistence",
+		"word": "Subsistence",
+		"part_of_speech": "noun",
+		"meaning": "生存、最低限の生活、実在",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "sub-",
+					"type": "prefix",
+					"meaning": "under (下に)"
+				},
+				{
+					"text": "sistere",
+					"type": "root",
+					"meaning": "to stand, set (立つ、据える)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin subsistentia, from subsistere 'stand still, stay'."
+		},
+		"core_concept": {
+			"en": "The action or fact of maintaining or supporting oneself at a minimum level; the state of remaining in force or effect",
+			"ja": "贅沢を削ぎ落とした、生存という名の『土台の真下（under）』で、かろうじて『踏み止まっている（stand）』状態。死を免れるためだけの、ギリギリの生命維持"
+		},
+		"thinking_layer": "『下に立つこと』。エグジスタンス（Existence/存在＝外に立つ）に対する対義語。「社会的に輝く」のではなく、ただ「消えない」ことへの執着。最低限の食料、最低限の眠り。そこには文明の装飾は一切なく、ただ呼吸するという、生命の最も重く、最も尊い事実だけが横たわっています。",
+		"aftertaste": "たった一杯のスープの熱さが、自分をこの世界に繋ぎ止めている唯一の証拠だと感じる、あの切実な実感。あるいは、無駄を一切省いた後に見えてくる、人間の生命そのものの、頑固で恐ろしいまでの粘り強さ。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sta-",
+					"meaning": "to stand"
+				}
+			],
+			"points": [
+				"status, resist, exist, consistent 同根。",
+				"『存在（being）』の最低基準は、自分が『ここに立つ（stand）』ことを、重力に対して宣言し続けることである。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "deprivation",
+		"word": "Deprivation",
+		"part_of_speech": "noun",
+		"meaning": "剥奪、欠乏、喪失、不自由な状態",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "de-",
+					"type": "prefix",
+					"meaning": "thoroughly/away (徹底的に、取り去る)"
+				},
+				{
+					"text": "privare",
+					"type": "root",
+					"meaning": "to deprive, make private (奪う、自分のものにする)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin deprivare, from de- 'thoroughly' + privare 'deprive, bereave'."
+		},
+		"core_concept": {
+			"en": "The damaging lack of material and social resources",
+			"ja": "本来持っているはずの、あるいは持っていなければならない権利や資源を、『徹底的に剥ぎ取られて（away）』しまった。その欠落によって、人間としての健全な成長や生活が損なわれている状態"
+		},
+		"thinking_layer": "『徹底的に奪うこと』。プライベート（Private/個人の、非公開の）やプライブ（Deprived/困窮した）と同根。「自分だけのものにする（private）」という行為の裏返しとして、他者から「共有されるべきもの」を奪うこと。それは物理的な空腹から、感覚の遮断（sensory deprivation）までを包み込みます。",
+		"aftertaste": "自分が大切にしていたものが、見えない力によって一つずつ奪われ、最後には何も残らない空っぽの部屋に佇む時の、あの透明な怒り。あるいは、自分が人間として当然受けるべき愛情を、一度も知らずに育った者の、心の奥底にある深い枯渇感。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "prei-",
+					"meaning": "to love, friend (forming private/one's own?)"
+				}
+			],
+			"points": [
+				"private, privilege, deprive 同根の説あり。",
+				"『自分自身のもの（own）』を確立するためには、何かを『切り離す（deprive）』という暴力的なプロセスを伴わざるを得ないという、存在の矛盾。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
