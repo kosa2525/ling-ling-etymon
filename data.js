@@ -278393,5 +278393,175 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "centromere",
+		"word": "Centromere",
+		"part_of_speech": "noun",
+		"meaning": "セントロメア",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "kentron",
+					"type": "root",
+					"meaning": "center"
+				},
+				{
+					"text": "meros",
+					"type": "root",
+					"meaning": "part"
+				}
+			],
+			"original_statement": "From Greek kentron + meros."
+		},
+		"core_concept": {
+			"en": "chromosome center",
+			"ja": "生命の真理の重心。"
+		},
+		"thinking_layer": "染色体を束ね、分割の瞬間に最も力強く抵抗し調和を司る均衡の核。秩序を死守する秩序の意志。知性が分裂の渦中でも核を手放さないメタファー。",
+		"aftertaste": "揺るぎない支点に自分の中の軸を発見する。真実の中心を繋ぎ止める自尊心。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"情報の分配前、必ず一つの点へ凝縮される。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "kinetochore",
+		"word": "Kinetochore",
+		"part_of_speech": "noun",
+		"meaning": "動原体",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "kinetos",
+					"type": "root",
+					"meaning": "movable"
+				},
+				{
+					"text": "choros",
+					"type": "root",
+					"meaning": "place"
+				}
+			],
+			"original_statement": "From Greek kinetos + choros."
+		},
+		"core_concept": {
+			"en": "microtubule attachment point",
+			"ja": "移動の拠点。情報の牽引車。"
+		},
+		"thinking_layer": "静止した情報に動きを吹き込み未来へ牽引する。どれほど重厚な歴史も、適切な接続点があれば新天地へ運び出せる。思考を行動へ接続するメタファー。",
+		"aftertaste": "光速で移動を開始する生命の躍動感。停滞を打破し人々を導く未来への接続点でありたい自尊心。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"染色体のハンドル。掴まれることで意志へと昇華される。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "centrosome",
+		"word": "Centrosome",
+		"part_of_speech": "noun",
+		"meaning": "中心体",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "kentron",
+					"type": "root",
+					"meaning": "center"
+				},
+				{
+					"text": "soma",
+					"type": "root",
+					"meaning": "body"
+				}
+			],
+			"original_statement": "From Greek kentron + soma."
+		},
+		"core_concept": {
+			"en": "microtubule organizing center",
+			"ja": "情報の司令塔。情報の羅針盤。"
+		},
+		"thinking_layer": "極性を産み出し情報の再編を統括する。カオスの中に自律的な基準点を確立し秩序を産み出すリーダーシップの知恵。不変の中心から世界を再構成する独創性。",
+		"aftertaste": "均衡の取れた美しさに宇宙の設計図への敬意。人々の心の帰るべき中心でありたい自尊心。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"生命を一つの意志によって統率された有機体として定義する。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "microtubule",
+		"word": "Microtubule",
+		"part_of_speech": "noun",
+		"meaning": "微小管",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "mikros",
+					"type": "root",
+					"meaning": "small"
+				},
+				{
+					"text": "tubulus",
+					"type": "root",
+					"meaning": "little tube"
+				}
+			],
+			"original_statement": "From Greek mikros + Latin tubulus."
+		},
+		"core_concept": {
+			"en": "scaffolding filament",
+			"ja": "知性の足場。情報の高速道路。"
+		},
+		"thinking_layer": "細胞の内側に張り巡らされた骨組み。繊細な管が無数に集まり鋼の剛性を獲得する連帯の知恵。バラバラな断片を強靭な論理の道へ繋ぐメタファー。",
+		"aftertaste": "細部に宿る神性。正確な論理を丁寧に積み上げ、人々に真理への道を示したい自尊心。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"意識の核が宿るとも推測された神秘的な導管。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "cytokinesis",
+		"word": "Cytokinesis",
+		"part_of_speech": "noun",
+		"meaning": "細胞質分裂",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "kytos",
+					"type": "root",
+					"meaning": "vessel"
+				},
+				{
+					"text": "kinesis",
+					"type": "root",
+					"meaning": "movement"
+				}
+			],
+			"original_statement": "From Greek kytos + kinesis."
+		},
+		"core_concept": {
+			"en": "cytoplasmic division",
+			"ja": "魂の独立。決別の儀式。"
+		},
+		"thinking_layer": "肉体を断ち切り独立を宣言する。深く結ばれていてもいつかは自立のために境界を引く自存の美学。独自の哲学を持って荒野へ旅立つ瞬間のメタファー。",
+		"aftertaste": "一つの命が二つの自由へ生まれ変わる鮮やかさ。昨日までの自分と決別し驚きを更新し続けたい自尊心。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"内側からの自律的な収縮によって初めて真の自由を得る。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
