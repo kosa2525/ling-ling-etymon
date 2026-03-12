@@ -253834,5 +253834,122 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "permeate",
+		"word": "Permeate",
+		"part_of_speech": "verb",
+		"meaning": "染み渡る、浸透する、貫く",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "per-",
+					"type": "prefix",
+					"meaning": "through (通して)"
+				},
+				{
+					"text": "meare",
+					"type": "root",
+					"meaning": "to pass, go (経由する、通る)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin permeare, from per- 'through' + meare 'to pass'."
+		},
+		"core_concept": {
+			"en": "Spread throughout (something); pervade",
+			"ja": "物質の分子の隙間までも『経由（pass）』し、時間をかけて内側の深奥まで完全に『染み渡る』。外部と内部の境界線が無効化され、一つの質に塗り替えられてゆくプロセス"
+		},
+		"thinking_layer": "『通り抜けて行くこと』。透磁率（Permeability）の語源。力強く「侵略」するのではなく、ごく自然に、しかし不可避的に「混ざり合う」こと。思想が人格を、あるいは雨水が大地を。そこには、長い時間をかけた交わりと、深い融和が宿っています。",
+		"aftertaste": "上質な紅茶にミルクを注いだ瞬間の、あの優雅に溶け合ってゆく対流の模様。あるいは、長年連れ添った夫婦が、お互いの仕草や話し方を少しずつ自分のものにしてしまった、あの形容しがたい浸透。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "mei-",
+					"meaning": "to change, move, go"
+				}
+			],
+			"points": [
+				"mutation, mutual, migration（移動）と同根。",
+				"『移動（move）』の本質は、常に自己の『質的な変化（change）』を伴うという、宇宙的な真理。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "imbue",
+		"word": "Imbue",
+		"part_of_speech": "verb",
+		"meaning": "吹き込む、染める、満たす",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "imbuere",
+					"type": "root",
+					"meaning": "to moisten, stain, steep (湿らす、染める)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin imbuere 'moisten'."
+		},
+		"core_concept": {
+			"en": "Inspire or permeate with (a feeling or quality)",
+			"ja": "乾いたスポンジが水を吸い込むように、対象の魂の深奥にまで特定の思想や色彩、あるいは感情を『染み込ませ（steep）』、その存在そのものを新しく塗り替えてしまう深い影響"
+		},
+		"thinking_layer": "『湿らせること』。イムバaib（Imbibe/飲み込む）と同根で、「吸わせる」こと。ただ「教える」のではなく、人格の根底にまで定着させる。それは親から子へ、あるいは師から弟子へ。言葉にならない「質」や「確信」のバトンを渡すこと。",
+		"aftertaste": "古い革靴がオイルを吸って、独特の深い艶と柔軟性を帯びるような、時間の積み重ね。あるいは、誰かのたった一言が、自分のこれまでの退屈な日常に、鮮やかな意味の色を吹き込んでしまった時の感動。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"bib（よだれかけ＝飲むための布）と同根。",
+				"知的な充足は、常に『喉を潤す（drink）』ような身体的な快楽として表現されてきた。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "omnipresent",
+		"word": "Omnipresent",
+		"part_of_speech": "adjective",
+		"meaning": "遍在する、至る所にある",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "omni-",
+					"type": "prefix",
+					"meaning": "all (すべての)"
+				},
+				{
+					"text": "praesent",
+					"type": "root",
+					"meaning": "present (居合わせる)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Medieval Latin omnipraesent-, from Latin omnis 'all' + praesent- 'present'."
+		},
+		"core_concept": {
+			"en": "Widely or constantly encountered; common or widespread",
+			"ja": "神のように、『すべて（all）』の場所に、同時、かつ絶えず『居合わせる（present）』。逃れようのない、そして避けることのできない、遍く行き渡った絶対的な存在感"
+		},
+		"thinking_layer": "『すべての場所に居ること』。オムニトポス（Omnitopos）。それは宗教的には神の全能性を、科学的には重力や電磁波の普遍性を指します。現代においては、情報のネットワークが私たちの呼吸のように、どこにいても「そこにある」という不気味で抗いがたい日常性を象徴しています。",
+		"aftertaste": "誰もいない砂漠の真ん中、あるいは誰にも言えない秘密の部屋。そこにも「誰かの視線」や「情報の網」が張り巡らされているという、震えるような実感。あるいは、大気の重みが常に体全体を押し包んでいる、あの当たり前すぎて忘れている存在感。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "op-",
+					"meaning": "all"
+				},
+				{
+					"term": "es-",
+					"meaning": "to be"
+				}
+			],
+			"points": [
+				"omnivore（雑食の）, absent, essence（存在の本質）, interest 同根。",
+				"『すべて（all）』の『存在（being）』を包摂することが、宇宙の本質的な属性であるという認識。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
