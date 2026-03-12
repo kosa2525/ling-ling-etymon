@@ -261479,5 +261479,191 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "cartilaginous",
+		"word": "Cartilaginous",
+		"part_of_speech": "adjective",
+		"meaning": "軟骨のような、軟骨質の、軟骨魚の",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "cartilāgō",
+					"type": "root",
+					"meaning": "cartilage, gristle (軟骨)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin cartilago 'gristle'."
+		},
+		"core_concept": {
+			"en": "Relating to or denoting cartilage; (of a fish) having a skeleton of cartilage rather than bone",
+			"ja": "骨という『断絶（bone）』に至る手前の、しなやかで弾力のある『軟骨（gristle）』の質感。折れることなく、重圧（pressure）を柔軟にいなして受け入れる、流動的な強さの土台"
+		},
+		"thinking_layer": "『軟骨の』。カーティレッジ（Cartilage/軟骨）とおそらくな。語源は「軟骨、筋っぽさ」。完全に石化（ossify）する前の、生命の未成熟な、しかし最も自由な段階。サメやエイのように、この「しなやかな芯（cartilaginous skeleton）」だけで一生を泳ぎ抜く存在もいます。それは、固執（obsession）を捨てて、変化し続ける柔軟な「知の骨格」。",
+		"aftertaste": "自分の「信念（belief）」が、岩のような頑強さ（rigidity）ではなく、この「軟骨のような（cartilaginous）」弾力性を持っていることに気づき、どんなに激しい時代の荒波の中でも「しなやかに（flexible）」生きてゆけると確信する、あの静かな午後の強さ。あるいは、あまりにも「柔らかすぎる（cartilaginous）」姿勢が、時に自分自身の「形（identity）」を失わせているのではないかという、微かな不安。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kert-",
+					"meaning": "to twist (forming cartilago? - uncertain)"
+				}
+			],
+			"points": [
+				"諸説あるが、肉と骨の中間的な存在である軟骨が、『曲げられる（twisting）』属性と結びついた歴史。",
+				"『強さ（strength）』とは、壊れないことだけでなく、衝撃を『変形（deformation）』によって吸収し、再び元の形（resilience）へと戻るプロセスのことである。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "ligamentous",
+		"word": "Ligamentous",
+		"part_of_speech": "adjective",
+		"meaning": "靭帯（じんたい）の、靭帯のような",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "ligare",
+					"type": "root",
+					"meaning": "to bind, tie (縛る、繋ぐ)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin ligamentum, from ligare 'bind'."
+		},
+		"core_concept": {
+			"en": "Of, relating to, or resembling a ligament",
+			"ja": "異なる性質のものを、強靭な力で引き寄せ、決して離さないように『縛り上げる（binding）』絆。骨と骨を繋ぎ、運動の極限を規定する、見えない『制約（constraint）』としての美学"
+		},
+		"thinking_layer": "『縛るもの』。ライアブル（Liable/責任がある＝縛られている）、アライアンス（Alliance/同盟＝共に縛られる）、リガチャー（Ligature/結紮）と同根。語源は「縛る」。ただ繋ぐ（connect）のではありません。「動ける範囲を制限する」ことで、初めて「目的のある動き」を可能にします。それは。自分の意志を特定の方向に縛り付ける「使命感（mission）」のメタファー。",
+		"aftertaste": "全力で走る一瞬、足首を支える「靭帯のような（ligamentous）」強靭な繊維の張力を感じ、自分の身体が「約束（bond）」という名の無数の糸によって形作られていることを悟る、あの肉体的な覚悟。あるいは、自分と誰かの間の「抜き差しならない関係（ligamentous bond）」が、自分を「安定（stability）」させつつ、同時に「自由（freedom）」を奪っているのではないか、と自問する、あの夕暮れの沈黙。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "leig-",
+					"meaning": "to bind"
+				}
+			],
+			"points": [
+				"rely, religion（神と結びつくこと）, obligation 同根。",
+				"『繋がる（binding）』ことは同時に『不自由（constraint）』を受け入れることであり、その不自由さこそが、混沌とした世界に『形（form）』と『機能（function）』を与える。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "tendinous",
+		"word": "Tendinous",
+		"part_of_speech": "adjective",
+		"meaning": "腱（けん）の、腱のような、筋張った",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "tendere",
+					"type": "root",
+					"meaning": "to stretch (伸ばす、張る)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin tendere 'stretch'."
+		},
+		"core_concept": {
+			"en": "Relating to or resembling a tendon",
+			"ja": "筋肉の情熱（passion）を、骨という現実に伝えるために極限まで『引き伸ばされ、緊張した（stretched）』伝達者。熱を力へと置換（substitute）し、世界を動かすための、無機質なまでに強靭な『力の緒（お）』"
+		},
+		"thinking_layer": "『張っているもの』。テンション（Tension）、テンデンス（Tendency/向かう＝引き伸ばされる）、アテンド（Attend/注意を向ける＝心を伸ばす）と同根。語源は「伸ばす」。ただの「糸（thread）」ではなく、そこには「力の伝達」が含まれます。それは、激しい怒りを冷徹な行動へと変える「自己規律」、あるいは、自分の理想を現実に繋ぎ止めるための、血の滲むような「努力」。 ",
+		"aftertaste": "ギターの弦（string）を弾（はじ）き、その「腱のような（tendinous）」張り詰めた振動が自分の指を震わせるのを感じる時の、あの「緊張（tension）」こそが美しい響きを生むのだという、厳かな納得。あるいは、自分の心が「張り詰めすぎて（tendinous tension）」、いつかプツリと切れてしまうのではないかと、嵐の夜に毛布の中で震える、あの極限の疲弊。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ten-",
+					"meaning": "to stretch"
+				}
+			],
+			"points": [
+				"tend, thin, tenet（保持される信条）, tone（弦の張り） 同根。",
+				"『力（power）』とは発生した場所ではなく、それが『伝達（transmission）』され、緊張した点において初めて顕現するものであり、テンディナス（tendinous）はその緊張の物理的な結実である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "osseous",
+		"word": "Osseous",
+		"part_of_speech": "adjective",
+		"meaning": "骨の、骨質の、骨からなる",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "os",
+					"type": "root",
+					"meaning": "bone (骨)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin osseus, from os 'bone'."
+		},
+		"core_concept": {
+			"en": "Consisting of or turned into bone; bony",
+			"ja": "もはや変化することを拒み、絶対的な『硬度（hardness）』と『構造』へと結晶化した、生命の終着点。柔らかな可能性をすべて捨て去り、本質的な『支柱（support）』だけが残った、峻烈なリアリズム"
+		},
+		"thinking_layer": "『骨の』。オステオパシー（Osteopathy/骨療法）や、おなじみの「骨（Bone/これはゲルマン語）」とは別の、ラテン語の響き。ただの「骨」ではなく、そこに「石化（petrification）」や「永遠」が宿っています。それは、文明の最後に残る化石（fossil）、あるいは、どんなに言葉を尽くしても変えることのできない、冷酷な「事実（bare bone fact）」。",
+		"aftertaste": "砂漠で見つけた、真っ白に風化した「骨質の（osseous）」残骸（remains）を見つめ、個体としての「自分」が消え去った後も、この「構造（structure）」だけは宇宙に刻まれ続けるのだと悟る、あの奇妙な救済。あるいは、自分の心が「骨のように固まって（ossified）」しまい、新しい愛や悲しみを受け入れるための「柔らかさ」を失ってしまったのではないか、と鏡の中の自分を疑う、あの冷淡な夜。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ost-",
+					"meaning": "bone"
+				}
+			],
+			"points": [
+				"osteo-(prefix), ossify 同根。",
+				"『骨（bone）』とは生命が自らの中に作り出した最初の『物質的（material）』な建築であり、オセアス（osseous）はその建築への絶対的な信頼と、同時に訪れる『硬直（rigidity）』の表現である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "marrow",
+		"word": "Marrow",
+		"part_of_speech": "noun",
+		"meaning": "骨髄、心の奥底、真髄、活力の源",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "mearg",
+					"type": "root",
+					"meaning": "marrow (骨髄)",
+					"lang": "Old English"
+				},
+				{
+					"text": "mazga",
+					"type": "root",
+					"meaning": "marrow (骨髄)",
+					"lang": "Proto-Germanic"
+				}
+			],
+			"original_statement": "From Old English mearg."
+		},
+		"core_concept": {
+			"en": "A soft fatty substance in the cavities of bones, in which blood cells are produced; the essential part of something",
+			"ja": "硬い骨（bone）の、そのさらに奥深くに隠された、生命の『情報の工場（factory）』。熱い血を絶え間なく生み出し続ける、最も柔らかく、最も大切な『内なる聖域』。真実の核心"
+		},
+		"thinking_layer": "『髄（ずい）』。マロウ（Marrow/ペポカボチャの一種）とは同根（中身が詰まっていることから）。ただの「中身」ではありません。そこは「新しい命（blood cells）」が製造される、最も「動的（dynamic）」な場所です。それは、何重もの仮面を剥ぎ取った後に残る、自分の「本当の感情」、あるいは、一つの思想の根幹（core）にある、剥き出しの「生（pith）」。",
+		"aftertaste": "「骨の髄まで（to the marrow）」凍えるような冬の風にさらされ、自分がこの「中心（center）」を守るためにだけ、今ここに立っているのだと直感する、あの剥き出しの存在感。あるいは、誰かの「真髄（marrow）」に触れるような深い対話を交わしたあと、自分の身体の奥底で新しい「何かの予感」がふつふつと湧き上がってくるのを感じる、あの創造的な高揚。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "moz-go-",
+					"meaning": "marrow, brain"
+				}
+			],
+			"points": [
+				"brain, mesh（網み目） 同根の説あり。",
+				"『骨（bone）』は守るための盾（shield）だが、『髄（marrow）』は作り出すための泉（fountain）である。この『硬』と『軟』の対置こそが、生命という名のダイナミズム（dynamism）を可能にしている。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
