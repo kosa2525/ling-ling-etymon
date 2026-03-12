@@ -265446,5 +265446,220 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "micelle",
+		"word": "Micelle",
+		"part_of_speech": "noun",
+		"meaning": "ミセル、コロイド粒子",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "mica",
+					"type": "root",
+					"meaning": "crumb, grain (くず、粒、きらめき)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin micella, diminutive of mica 'crumb'."
+		},
+		"core_concept": {
+			"en": "An aggregate of molecules in a colloidal solution, such as those formed by detergents",
+			"ja": "水の中で行き場を失った分子たちが、互いの『疎水性（hydrophobic）』という孤独を寄せ合い、球状に集まって作る『微小な避難所（crumb）』。内側に秘密を閉じ込め、外側とは平穏を保つ、知的な自己組織化"
+		},
+		"thinking_layer": "『微小な粒』。マイカ（Mica/雲母＝きらめく粒）と同根。語源は「パンくずのような小片」。ただの「塊（clump）」ではありません。界面活性剤などが作る、外は水に馴染み（hydrophilic）、内は油を愛する、二重面相（ Janus-faced）の構造。それは。相反する二つの世界を、一つの身体でバランスよく受け止める、知性の「調整能力（adjustment）」。",
+		"aftertaste": "洗剤の泡の中に無数の「ミセル（micelle）」が生まれ、汚れをその「内なる聖域（inner sanctuary）」に閉じ込めて洗い流してゆくのを想像し、自分の心もまた、このように汚れを「優しく包み込み」、どこか遠くへと運んで（carrying away）しまいたいと願う、あの峻烈な浄化の渇望。あるいは、自分の思考が、特定のグループの中だけで通じる「ミセル（micelle）」のような閉鎖的なコミュニティを形成していないかと自戒する、あの静かな午後の自省。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "smeig-",
+					"meaning": "to smile, blink? (uncertain connection to mica/sparkle)"
+				}
+			],
+			"points": [
+				"mica, micaceous 同根。",
+				"『粒（crumb）』という極小の単位が集まることで、『コロイド（colloid）』という新しい性質（emergent property）が生まれる。ミセル（micelle）は、個（individual）が集団（collective）へと変容する瞬間の、最も機能的な形式である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "cytosol",
+		"word": "Cytosol",
+		"part_of_speech": "noun",
+		"meaning": "細胞質基質、サイトソル",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "kytos",
+					"type": "root",
+					"meaning": "hollow vessel, cell (空洞、細胞)",
+					"lang": "Greek"
+				},
+				{
+					"text": "-sol",
+					"type": "abbreviation",
+					"meaning": "solution (溶液)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Greek kytos 'cell' + Latin solutio 'solution'."
+		},
+		"core_concept": {
+			"en": "The aqueous component of the cytoplasm of a cell, within which various organelles and particles are suspended",
+			"ja": "細胞という小宇宙を満たす、生命の『原初のスープ（solution）』。あらゆる臓器（organelles）がその中に浮かび、静かに、しかし激しく化学反応を繰り返す、可能性に満ちた『溶媒』"
+		},
+		"thinking_layer": "『細胞の溶液』。サイト（Cyto-/細胞の）、ソルブル（Soluble/溶けやすい）、おなじみの「ソル（解、溶）」と同根。語源は「細胞の解かれたもの」。細胞核（nucleus）でも、ミトコンドリアでもない、その「間」を満たしているもの。ただの「水」ではありません。それは。すべての生命活動を背後で支え、情報を伝達する「メディア（medium）」。知性の「基層（infrastructure）」。",
+		"aftertaste": "自分の身体を構成する数兆個の細胞の一つ一つが、この「サイトソル（cytosol）」という名の宇宙（universe）を湛（たた）えているのだと想像し、その果てしない「生命の連なり」に深い畏怖（awe）を覚える、あの知的な充足。あるいは、自分の思考がこの「溶媒（solution）」のように柔軟であり、どんな異質なアイディアも「懸濁（suspension）」させておけるような、豊かで不透明な器でありたいと願う、あの静かな夜の祈り。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "keue-",
+					"meaning": "to swell, hollow (forming kytos)"
+				},
+				{
+					"term": "sele-",
+					"meaning": "to loosen (forming sol-)"
+				}
+			],
+			"points": [
+				"cave, cavity, solve, absolute, loose 同根。",
+				"『溶かす（loosening）』ことは存在の解体だが、それを『細胞（cell）』という枠組みの中で行うことは、新しい結合（bonding）を生むための準備である。サイトソル（cytosol）とは、解体と構築が同時に行われる、生命の永久機関の燃料である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "peroxisome",
+		"word": "Peroxisome",
+		"part_of_speech": "noun",
+		"meaning": "ペルオキシソーム、過酸化小体",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "per-",
+					"type": "prefix",
+					"meaning": "thoroughly, beyond (完全に、〜を越えて)"
+				},
+				{
+					"text": "oxys",
+					"type": "root",
+					"meaning": "sharp, acid (鋭い、酸性)",
+					"lang": "Greek"
+				},
+				{
+					"text": "soma",
+					"type": "root",
+					"meaning": "body (体)",
+					"lang": "Greek"
+				}
+			],
+			"original_statement": "From peroxide + Greek sōma 'body'."
+		},
+		"core_concept": {
+			"en": "A small organelle that is present in the cytoplasm of many cells and that contains the reducing enzyme catalase and usually some oxidases",
+			"ja": "細胞の中の『毒を以て毒を制する』化学工場。猛毒である過酸化水素（peroxide）をあえて生成し、それを分解することで有害物質を無毒化する、知的な『浄化の小体（body）』"
+		},
+		"thinking_layer": "『過酸化物の体』。オキサイド（Oxide/酸化物）、おなじみ「ソマ（体）」と同根。語源は「ペルオキシドの体」。ただの「掃除屋」ではありません。それは、危険なエネルギーを自らの内側に「隔離（quarantine）」し、それを逆に利用して生きるという、したたかな「生存戦略（strategy）」。知性が自らの「心の闇」を直視し、それを創造のエネルギーへと転換してゆくプロセスのメタファー。",
+		"aftertaste": "「浄化（purification）」とは、単に汚れを遠ざけることではなく、この「ペルオキシソーム（peroxisome）」のように、毒と向き合い、それを分解して生きるプロセスそのものなのだと悟る、あの峻烈な納得。あるいは、自分の心のトゲ（oxys/sharp）が、いつか誰かを癒やすための「無毒な光」に変わることを信じ、この「過酸化（peroxidation）」の日々に耐える、あの不器用な自尊心。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ak-",
+					"meaning": "sharp (forming oxys)"
+				},
+				{
+					"term": "teu-",
+					"meaning": "to swell (forming soma)"
+				}
+			],
+			"points": [
+				"acid, acute, oxygen, somatic 同根。",
+				"『鋭い（sharp）』ものは危険だが、それを『体（body）』の中に飼い慣らすことで、生命は酸素という劇薬（powerful drug）を自らの味方につけた。ペルオキシソーム（peroxisome）は、その生命の『冒険』の代償であり、証である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "endosome",
+		"word": "Endosome",
+		"part_of_speech": "noun",
+		"meaning": "エンドソーム、内体",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "endon",
+					"type": "root",
+					"meaning": "within (内側に)",
+					"lang": "Greek"
+				},
+				{
+					"text": "soma",
+					"type": "root",
+					"meaning": "body (体)",
+					"lang": "Greek"
+				}
+			],
+			"original_statement": "From Greek endon 'within' + sōma 'body'."
+		},
+		"core_concept": {
+			"en": "A membrane-bound compartment inside eukaryotic cells; a compartment of the endocytic membrane transport pathway",
+			"ja": "外部から取り込んだ異物を、細胞の『内側（within）』へと運び、その行方を選別（sorting）するための『配送センター（body）』。未知を既知（known）へと分類し、分解か再利用かを冷静に見極める、知性の入り口"
+		},
+		"thinking_layer": "『内側の体』。エンド（Endo-/内側の）、おなじみ「ソマ（体）」と同根。語源は「内部の体」。外部からやってきた分子たち（cargo）が、最初に出会う「受付（reception）」。ただの「袋」ではありません。それは、外部からの「刺激（stimulus）」をどう処理すべきかを決定する、知性の「審判（judgement）」。情報の氾濫の中で、何を取り込み、何を捨てるべきかを常に問い続けるプロセスのメタファー。",
+		"aftertaste": "「エンドソーム（endosome）」が荷物を選別し、必要なものだけを細胞の深部へと運んでゆく様子を想い、自分の読書や経験もまた、この「仕分け（sorting）」のプロセスを経て初めて、血肉（flesh and blood）となるのだと確信する、あの知的な納得。あるいは、自分の心が「エンドソーム（endosome）」のように、あまりにも多くの「他人の感情」を取り込みすぎて、飽和（saturation）しそうになっているのではないかと危惧する、あの静かな午後の焦燥。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "en-",
+					"meaning": "in"
+				},
+				{
+					"term": "teu-",
+					"meaning": "to swell (forming soma)"
+				}
+			],
+			"points": [
+				"inner, internal, chromosome, somatotype 同根。",
+				"『内（within）』へ入れることは、自己という境界を一時的に『侵犯（violating）』することである。エンドソーム（endosome）は、その侵犯を秩序（order）へと変換するための、最初の防波堤であり、橋頭堡（bridgehead）である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "glycan",
+		"word": "Glycan",
+		"part_of_speech": "noun",
+		"meaning": "糖鎖（とうさ）、多糖類",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "glukus",
+					"type": "root",
+					"meaning": "sweet (甘い)",
+					"lang": "Greek"
+				}
+			],
+			"original_statement": "From Greek glukus 'sweet'."
+		},
+		"core_concept": {
+			"en": "A compound consisting of a large number of monosaccharides linked glycosidically; a polysaccharide or carbohydrate",
+			"ja": "細胞の表面を覆う、複雑に枝分かれした『甘い糸（sweet chains）』。生命の『顔』であり、他者と言葉を交わすための『アンテナ』。愛と拒絶を司る、目に見えない情報の森"
+		},
+		"thinking_layer": "『甘いもの』。グルコース（Glucose/ブドウ糖）、グリセリン（Glycerin）と同根。語源は「甘い」。ただの「栄養（nutrition）」ではありません。細胞の表面に生えたこの「鎖（chain）」が、味方の細胞を認識（recognize）したり、敵のウイルスを拒絶したりします。それは。知性が世界と「対話（communication）」するために差し出す、最も洗練された「名刺（name card）」。",
+		"aftertaste": "自分の身体が、この「糖鎖（glycan）」という名の目に見えない「森」に覆われ、絶え間なく外部からのシグナルを「解読（deciphering）」しているのを想像し、自分という存在がいかに「関係性（relationship）」の中にのみ成立しているかを思い知る、あの峻烈な一体感。あるいは、自分の差し出す「愛（love）」という名の糖鎖が、誰かの心という細胞の「受容体（receptor）」に完璧に噛み合い、一瞬の「共鳴（resonance）」を生むことを夢見る、あの静かな夜。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "dlk-u-",
+					"meaning": "sweet (forming glukus)"
+				}
+			],
+			"points": [
+				"dulcet, indulge 同根の説あり。",
+				"『甘美（sweetness）』とは、本来は生命にとっての報酬（reward）だが、グリカン（glycan）という形をとるとき、それはより複雑な『暗号（cipher）』へと進化する。生命は喜びの符号を、情報の言語へと書き換えたのである。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
