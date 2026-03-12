@@ -254345,5 +254345,46 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "eradication",
+		"word": "Eradication",
+		"part_of_speech": "noun",
+		"meaning": "根絶、全滅、絶滅",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "e-",
+					"type": "prefix",
+					"meaning": "out (外へ)"
+				},
+				{
+					"text": "radix",
+					"type": "root",
+					"meaning": "root (根)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin eradicat- 'pulled up by the roots', from e- 'out' + radix 'root'."
+		},
+		"core_concept": {
+			"en": "The complete destruction of something; extirpation",
+			"ja": "表面を刈り取ることではなく、対象の生存基盤である『根（root）』ごと大地から『引き抜き（pull out）』、二度と再生できないように徹底的に消し去ること。非情なまでの完全な抹消"
+		},
+		"thinking_layer": "『根っこを引き抜くこと』。ラディカル（Radical/根本的な、過激な）やラディッシュ（Radish/二十日大根）と同根。ただの「排除（Remove）」を越えた、存在そのものの否定。病原菌の掃討から、文化的な記憶の抹殺まで。そこには「一切の後腐れを残さない」という、冷徹な理性の意志が宿っています。",
+		"aftertaste": "昨日までそこにあったはずのものが、影さえも残さず消え失せ、最初から何もなかったかのような静寂。あるいは、自分の心の中にある醜い弱さを、根こそぎ引き抜いた後の、清々しいがどこか痛みを伴う喪失感。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "wrād-",
+					"meaning": "root, twig"
+				}
+			],
+			"points": [
+				"root, radical, radish, radix, eradicate 同根。",
+				"『根（root）』こそが生命の『実体（essence）』であり、それを失うことは『宇宙からの追放』を意味する。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
