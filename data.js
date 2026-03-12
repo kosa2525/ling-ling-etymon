@@ -251100,5 +251100,302 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "extrapolate",
+		"word": "Extrapolate",
+		"part_of_speech": "verb",
+		"meaning": "推定する、既知の事実から予測する",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "extra-",
+					"type": "prefix",
+					"meaning": "outside"
+				},
+				{
+					"text": "polare",
+					"type": "root",
+					"meaning": "to polish, smooth (磨く、整える)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From extra- 'outside' + interpolate, from Latin polire 'to polish'."
+		},
+		"core_concept": {
+			"en": "Extend the application of a method or conclusion to an unknown situation by assuming that existing trends will continue",
+			"ja": "手元にある確かなデータの『外側（outside）』へ向けて、論理の線を美しく『磨き上げながら（polish）』伸ばしていき、未知の領域の姿を予測する知的な跳躍"
+		},
+		"thinking_layer": "『外側を整えること』。インターポレイト（Interpolate/内挿する）の対義語。過去の軌跡から未来を描く。それは統計的な技術であると同時に、断片的な情報から世界の全容を夢想する、人間の想像力の極致でもあります。",
+		"aftertaste": "一本の線の傾きから、遠い未来の破滅や繁栄を予見する、孤独な予言者の視線。あるいは、過去の自分から未来の自分を信じようとする、切実な願い。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "pel-",
+					"meaning": "to fold, skin (for polish)"
+				}
+			],
+			"points": [
+				"polish, polite（洗練された）と同根。",
+				"論理を『洗練させる（polish）』ことで、未踏の地へ手を伸ばす（extra）。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "amalgamate",
+		"word": "Amalgamate",
+		"part_of_speech": "verb",
+		"meaning": "合併する、混一する、融合させる",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "amalgama",
+					"type": "root",
+					"meaning": "mercury alloy (水銀の合金)",
+					"lang": "Medieval Latin"
+				}
+			],
+			"original_statement": "From Medieval Latin amalgama 'mercury alloy'."
+		},
+		"core_concept": {
+			"en": "Combine or unite to form one organization or structure",
+			"ja": "異なる性質のものが、水銀（amalgama）という魔法の溶媒によって溶かし合わされ、全く別の新しい強度を持つ『合金』へと生まれ変わること"
+		},
+		"thinking_layer": "『合金を作ること』。アマルガム（Amalgam）と同根。元々の個性を失うことを恐れず、より大きな目的や機能のために一体化する。それは企業の合併から、文化の習合まで、多層的な「混ざり合い」を肯定する言葉です。",
+		"aftertaste": "異なる金属が溶け合い、独自の輝きを放つ溶鉱炉の熱。あるいは、複数の伝統が交じり合って生まれた、新しい音楽の調べ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ギリシャ語 malagma（軟化させるもの）が由来の説あり。",
+				"『硬いもの（個性）』を一度『柔らかく（melt）』することが、真の融合の条件。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "subsume",
+		"word": "Subsume",
+		"part_of_speech": "verb",
+		"meaning": "包含する、包摂する、下位に置く",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "sub-",
+					"type": "prefix",
+					"meaning": "under"
+				},
+				{
+					"text": "sumere",
+					"type": "root",
+					"meaning": "to take (取る)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin subsumere, from sub- 'under' + sumere 'take'."
+		},
+		"core_concept": {
+			"en": "Include or absorb something in something else",
+			"ja": "ある概念や存在を、より巨大で包括的な体系の『下（under）』へと『取り込み（take）』、その一部として位置づける知的な支配"
+		},
+		"thinking_layer": "『下に取り入れること』。コンシューム（Consume/消費する）と同根。個別の事象を、普遍的な「法則」の中に回収すること。それは世界の複雑さを整理する知性の勝利ですが、個別の「固有性」が巨大なシステムの中に埋没してしまう悲哀も孕んでいます。",
+		"aftertaste": "大海が一筋の川を飲み込むような、無慈悲で完璧な統合。あるいは、自分の悩みが「人類共通の課題」の中に分類された時の、安堵と寂しさ。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "em-",
+					"meaning": "to take, buy"
+				}
+			],
+			"points": [
+				"assume, resume, example（取り出されたもの）と同根。",
+				"『取る（take）』という行為が、そのまま『理解』や『支配』へと転換される。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "obliterate",
+		"word": "Obliterate",
+		"part_of_speech": "verb",
+		"meaning": "完全に消去する、抹消する、忘却する",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "ob-",
+					"type": "prefix",
+					"meaning": "against/over (〜の上に)"
+				},
+				{
+					"text": "littera",
+					"type": "root",
+					"meaning": "letter (文字)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin obliterare, from ob- 'over' + littera 'letter'."
+		},
+		"core_concept": {
+			"en": "Destroy utterly; wipe out",
+			"ja": "刻まれた『文字（letter）』の上に、別の線を引くか削り取るかして、そこに何があったかすらも判別不能にする。存在の『記録』そのものを破壊すること"
+		},
+		"thinking_layer": "『文字を覆い隠すこと』。リテラシー（Literacy）と同根。ただの破壊（Destroy）ではなく、意味としての「書き込み」を「無」へと塗りつぶす。それは文明的な死。誰の記憶からも、どの歴史書からも、その存在の痕跡すら消し去る、冷酷な沈黙。",
+		"aftertaste": "波が砂浜に書いた名前を、一枚の平らな砂に変える瞬間の無情。あるいは、過去の傷跡をすべてリセットした瞬間の、震えるような空虚。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"letter, literal, literatureと同根。",
+				"『書かれたこと』こそが『存在』であるという、文字社会の残酷な認識。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "pontificate",
+		"word": "Pontificate",
+		"part_of_speech": "verb",
+		"meaning": "もっともらしく話す、独断的に説教する",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "pontifex",
+					"type": "root",
+					"meaning": "pontiff, high priest (教皇、司祭)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin pontificare, from pontifex 'high priest'."
+		},
+		"core_concept": {
+			"en": "Express one's opinions in a way considered annoyingly pompous and dogmatic",
+			"ja": "まるで自分が『教皇（high priest）』であるかのように、高い玉座から絶対的な真理を一方的に宣い、他者の介入を許さない独善的な語り口"
+		},
+		"thinking_layer": "『教皇のように振る舞うこと』。ポン（Pons/橋）と同根。もとは「神と人を結ぶ橋を架ける者（教皇）」。転じて、自分が「真理への唯一の架け橋」であると信じ込む高慢さ。語る内容よりも、その「態度の重々しさ」が周囲を疲れさせる、知性の劇場的振る舞い。",
+		"aftertaste": "日曜の午後の、終わらない退屈な説教。あるいは、自分の正しさを疑わない人の、ガラス張りのような孤独。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "pent-",
+					"meaning": "to tread, go"
+				},
+				{
+					"term": "fac-",
+					"meaning": "to make"
+				}
+			],
+			"points": [
+				"Pons（橋）, path（道）と同根。",
+				"『道（橋）』を作る尊い働きが、いつの間にか『道の番人』としての特権意識に変質する。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "reprobate",
+		"word": "Reprobate",
+		"part_of_speech": "noun/adjective/verb",
+		"meaning": "ふしだらな人、ならず者、不承認にする",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "re-",
+					"type": "prefix",
+					"meaning": "opposite/away (〜から離れて)"
+				},
+				{
+					"text": "probare",
+					"type": "root",
+					"meaning": "to test, prove (試す、証明する)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin reprobare 'disapprove', from re- 'opposite of' + probare 'prove'."
+		},
+		"core_concept": {
+			"en": "An unprincipled person; (verb) express or feel disapproval of",
+			"ja": "試練（test）をくぐり抜け『証明（prove）』された「正しい者」の列から、落選し、『離されて（away）』しまった。神の救済からも、社会の道徳からも見捨てられた存在"
+		},
+		"thinking_layer": "『証明に失敗すること』。プルーブ（Prove）やプロバブル（Probable）と同根。規範という試験に落ちた者。それは「悪人」である以上に、「自分自身の価値を証明しきれなかった」という実存的な落胆を孕んだ、悲劇的で愛すべきならず者。 ",
+		"aftertaste": "酒場の隅で、かつての栄光を語ることすら忘れた男の、濁った瞳。あるいは、あらゆる権威から拒絶された瞬間の、清々しいまでの放蕩心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "per-",
+					"meaning": "to try, risk"
+				}
+			],
+			"points": [
+				"approve, probation（執行猶予）と同根。",
+				"『正しい道』から外れることが、一種の自由（liberty）へと転換される。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "scintillate",
+		"word": "Scintillate",
+		"part_of_speech": "verb",
+		"meaning": "火花を散らす、きらめく、才気を見せる",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "scintilla",
+					"type": "root",
+					"meaning": "spark (火花)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin scintillare 'to sparkle'."
+		},
+		"core_concept": {
+			"en": "Emit flashes of light; sparkle; be brilliant and excitingly clever",
+			"ja": "闇の中に飛び散る『火花（spark）』のように、一瞬一瞬が眩い知性やウィットで満たされ、周囲を刺激し活性化させる、動的な輝き"
+		},
+		"thinking_layer": "『火花を散らすこと』。ただ明るい（bright）のではなく、摩擦や衝突から生まれる「熱を伴う光」。優れた対話や、目も眩むような芸術作品が、私たちの凡庸な日常を焼き切るようにして放つ、知性の動的な煌めき。 ",
+		"aftertaste": "当意即妙なジョークに、思わず膝を打つ快感。あるいは、夜空のまたたきのように、常に変化し続ける魅力的な対話の余韻。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"scintilla（微量、火花）と同根。",
+				"『最小の火花』が、巨大なインスピレーションの火を灯す。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "triturate",
+		"word": "Triturate",
+		"part_of_speech": "verb",
+		"meaning": "粉砕する、粉にする、丹念に咀嚼する",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "triturare",
+					"type": "root",
+					"meaning": "to thresh (脱穀する、打つ)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin triturare, from tritus 'rubbed'."
+		},
+		"core_concept": {
+			"en": "Grind to a fine powder",
+			"ja": "荒々しい現実という『籾（もみ）』を、知性の重石で何度も『擦り（rub）』、極限まで細かい『粉（powder）』へと変える。あるいは、思想を骨の髄まで噛み砕くこと"
+		},
+		"thinking_layer": "『擦り潰すこと』。トリト（Trito-）と同根。ただの「破壊」ではなく、活用可能な「エキス」を取り出すための前処理。古典を読み込み、自分の血肉にする過程は、まさに精神的なトリチュレート（粉砕・咀嚼）の連続です。",
+		"aftertaste": "石臼が低い音を立てて回る、繰り返しのリズム。あるいは、難解な哲学書を数ヶ月かけてようやく読み終えた時の、砂のような乾いた充実感。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "tere-",
+					"meaning": "to rub, turn"
+				}
+			],
+			"points": [
+				"tribulation（試練＝脱穀の苦しみ）, trite（使い古された＝擦り減った）と同根。",
+				"『何度も擦られる』ことが、不純物を除き、本質を露出させる。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
