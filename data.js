@@ -265661,5 +265661,208 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "coprolite",
+		"word": "Coprolite",
+		"part_of_speech": "noun",
+		"meaning": "糞（ふん）石、糞の化石",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "kopros",
+					"type": "root",
+					"meaning": "dung (糞)",
+					"lang": "Greek"
+				},
+				{
+					"text": "lithos",
+					"type": "root",
+					"meaning": "stone (石)",
+					"lang": "Greek"
+				}
+			],
+			"original_statement": "From Greek kopros 'dung' + lithos 'stone'."
+		},
+		"core_concept": {
+			"en": "A piece of fossilized dung",
+			"ja": "数千万年という悠久の時を経て石へと変貌した、生命の『排泄の記憶』。不潔さの極致が、結晶化された純粋な情報の塊（stone）へと昇華された、皮肉で峻烈な真実"
+		},
+		"thinking_layer": "『糞の石』。リソスフィア（Lithosphere/岩石圏）、おなじみ「リソ（石）」と同根。語源は「糞石」。かつて生きていた巨大な恐竜たちの、一瞬の代謝（metabolism）の跡。ただの石ではありません。それは。彼らが何を食し、どのような環境で鼓動（heartbeat）していたかを知るための、タイムカプサルのようなメディア（medium）。知性の「最深部」から掘り出された、剥き出しの真実。",
+		"aftertaste": "博物館のガラス越しに、美しく磨かれた「糞石（coprolite）」を眺め、かつてこの大地を揺るがしていた生命たちの、あまりにも人間的な（？）、あまりにも「生」そのものな営みに想いを馳せ、時間という名の巨大な胃（stomach）に自分が消化されてゆくのを感じる、あの知的な眩暈（dizziness）。あるいは、自分の悩みや葛藤が、いつかこのように「コプロライト（coprolite）」として石化し、遠い未来の誰かにとっての「重要な手がかり」になることを夢想する、あの静かな午後の自己肯定。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "lithos-",
+					"meaning": "stone"
+				}
+			],
+			"points": [
+				"lithography, monolith, lithium 同根。",
+				"『糞（dung）』という死すべき運命の証拠を、『石（stone）』という永遠の形式へと閉じ込める。コプロライト（coprolite）は、生命がいかにして自らの消滅を拒絶し、物質の中にその徴（しるし）を残し得るかを示す、大地の署名である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "gastrolith",
+		"word": "Gastrolith",
+		"part_of_speech": "noun",
+		"meaning": "胃石（いせき）、（鳥や恐竜が飲み込んだ）消化用の石",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "gastēr",
+					"type": "root",
+					"meaning": "stomach (胃)",
+					"lang": "Greek"
+				},
+				{
+					"text": "lithos",
+					"type": "root",
+					"meaning": "stone (石)",
+					"lang": "Greek"
+				}
+			],
+			"original_statement": "From Greek gastēr 'stomach' + lithos 'stone'."
+		},
+		"core_concept": {
+			"en": "A stone that an animal (such as a bird or a dinosaur) swallows to help it digest food",
+			"ja": "消化を助けるために、生命が自らの『胃（stomach）』の中に飼い慣らした『石（stone）』。柔らかい組織を傷つけぬよう、滑らかに（smoothly）磨き抜かれた、共生する無機物の知恵"
+		},
+		"thinking_layer": "『胃の石』。ガストロノミー（Gastronomy/美味学）、ガストリティス（Gastritis/胃炎）、おなじみ「リソ（石）」と同根。語源は「胃石」。歯を持たない生き物たちが、外部の硬い石を自らの内側に取り込み、磨り潰（つぶ）すための道具として扱う。それは。自分に欠けているものを外部から補い、それを自分の「核（core）」へと昇華させる、知性の柔軟な「拡張（extension）」。",
+		"aftertaste": "恐竜の肋骨（ribs）の中から発見された、美しく磨かれた「胃石（gastrolith）」を手に取り、かつての巨獣たちがこの石を自分の「中心（center）」に抱えて歩いていたのだと想像する時の、あの時空を超えた不思議な一体感。あるいは、自分もまた、この「ガストロリス（gastrolith）」のように、硬い「現実の欠片（fragments of reality）」をわざと心の中に飲み込み、自らを磨き上げようとしているのではないかと気づく、あの深夜の自己投射。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "gras-",
+					"meaning": "to devour (forming gaster)"
+				}
+			],
+			"points": [
+				"stomach, gastronomy 同根。",
+				"『石（stone）』を『胃（stomach）』に保管（storing）することは、無機物を生命のサイクルに取り込むという、境界の消失（vanishing boundary）を意味する。ガストロリス（gastrolith）は、生命というシステムがいかにオープンで、貪欲な（devouring）存在であるかを象徴している。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "belemnite",
+		"word": "Belemnite",
+		"part_of_speech": "noun",
+		"meaning": "ベレムナイト、矢石（やいし）",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "belemnon",
+					"type": "root",
+					"meaning": "dart, javelin, arrow (投槍、矢)",
+					"lang": "Greek"
+				}
+			],
+			"original_statement": "From Greek belemnon 'dart'."
+		},
+		"core_concept": {
+			"en": "An extinct cephalopod mollusk with a bullet-shaped internal shell",
+			"ja": "古代の海を支配していたイカの仲間が、密かに自らの内側に宿していた『矢（dart）』のような殻。その鋭利な直線美が、化石となって大地の深淵から掘り出された、沈黙する武器の残骸"
+		},
+		"thinking_layer": "『矢のような石』。バリスティクス（Ballistics/弾道学＝投げるもの）と同根の説あり。語源は「矢」。落雷の跡だとも信じられていた「サンダーボルト（thunderbolt）」。ただの「貝殻」ではありません。それは。外側の乱気流を切り裂き、加速（acceleration）するための、内なる「芯（core）」。自分の信念を、一つの鋭い「矢（arrow）」として研ぎ澄ませ、目的に向かって突き進む、知性の指向性（intentionality）。",
+		"aftertaste": "石灰岩の中から見つかった、滑らかな（smooth）弾丸のような「ベレムナイト（belemnite）」の化石を指先でなぞり、かつての生命たちが抱いていた「攻撃性（aggression）」と「スピード」の記憶が、今の自分の血の中にも流れているのだと戦慄する、あの峻烈な一瞬。あるいは、自分の言葉が、この「矢石（belemnite）」のように鋭く、しかし誰の手にも触れられぬまま、いつか未来の地層（strata）に埋もれてゆくことを予感する、あの静かな午後の諦念。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "gwele-",
+					"meaning": "to throw (forming belemnon)"
+				}
+			],
+			"points": [
+				"symbol, ballot, problem, devil（中傷する人＝斜めに投げる人） 同根。",
+				"『投げる（throwing）』という行為は、自らの分身（double）を遠隔地へと飛ばすことである。ベレムナイト（belemnite）という化石には、生命が自らを『未来（future）』という標的に向けて放ったという、壮大な投射（projection）の痕跡が刻まれている。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "ichnofossil",
+		"word": "Ichno-fossil",
+		"part_of_speech": "noun",
+		"meaning": "生痕化石（せいこんかせき）、足跡の化石",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "ikhnos",
+					"type": "root",
+					"meaning": "track, footprint (跡、足跡)",
+					"lang": "Greek"
+				},
+				{
+					"text": "fodein",
+					"type": "root",
+					"meaning": "to dig (掘り出す)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Greek ikhnos 'footsteps' + Latin fossilis 'dug up'."
+		},
+		"core_concept": {
+			"en": "A fossil of a footprint, trail, burrow, or other trace of an animal rather than of the animal itself",
+			"ja": "存在そのもの（being）ではなく、その存在がかつてそこを『通り過ぎた（passing）』という、儚（はかな）い『足跡（footprint）』の記録。空虚（vacuum）が語る、最も雄弁な不在の歴史"
+		},
+		"thinking_layer": "『足跡の化石』。おなじみの「フォッシル（化石）」と、イクニー（Ichnor/跡）と同根。語源は「足跡の掘り出されたもの」。肉体は滅んでも、泥の上に残された「歩行（walking）」や「呼吸（breathing）」の跡だけが、石となって残る。それは。私たちの行為（act）一つ一つが、いかに取り返しのつかない（irreversible）重みを持って世界に刻まれているかを示す、知性の「責任感（responsibility）」。",
+		"aftertaste": "数億年前の海岸線に残された「生痕化石（ichno-fossil）」を辿り、目に見えない巨大な生命と、この地平（horizon）の上でステップ（step）を合わせているような、不可能な「ダンス」に酔いしれる、あの宇宙的な一体感。あるいは、自分の後に残される言葉たちが、誰にとっても「本質（essence）」ではなく、ただの「通り過ぎた跡（ichno-fossilized traces）」に見えるのではないかと危惧する、あの静かな夜の自嘲。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "eigh-",
+					"meaning": "to go (forming ikhnos)"
+				},
+				{
+					"term": "dheb-",
+					"meaning": "to dig (forming fodein)"
+				}
+			],
+			"points": [
+				"dig, bed, fossil 同根。",
+				"『行く（going）』ことは消失へのプロセスだが、それを『掘り出す（digging）』ことで再発見することは、時間の流れに対する知性の『反逆』である。生痕化石（ichno-fossil）は、不在（absence）を意味（meaning）へと転換する、人間だけの高度な遊戯である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "lagerstatte",
+		"word": "Lagerstätte",
+		"part_of_speech": "noun",
+		"meaning": "ラーゲルシュテッテン、異常保存（化石）層",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "lager",
+					"type": "root",
+					"meaning": "storage, layer (貯蔵、層)",
+					"lang": "German"
+				},
+				{
+					"text": "stätte",
+					"type": "root",
+					"meaning": "place, site (場所)",
+					"lang": "German"
+				}
+			],
+			"original_statement": "German Lager 'store/layer' + Stätte 'place'."
+		},
+		"core_concept": {
+			"en": "A sedimentary deposit that exhibits extraordinary fossils with exceptional preservation—sometimes including preserved soft tissues",
+			"ja": "本来は失われるはずの、柔らかい『肉体（soft tissues）』や『色彩』までもが、奇跡的に残留（residual）した化石の宝庫。地層が、生命の最も生々しい（vivid）一瞬を、永遠の記憶として『貯蔵（storage）』した聖域"
+		},
+		"thinking_layer": "『貯蔵の場所』。ラーガー（Lager/貯蔵ビール）、ステーション（Station/立つ場所）と同根。語源は「貯蔵場所」。生物学的な情報は、普通は骨（bone）しか残りません。しかし、ここでは「物語（narrative）」の細部（details）までもが守られています。それは。偶然と必然（coincidence and necessity）が一点で交差し、失われるはずのものが、不滅の価値を獲得した特異点（singularity）。知性の「究極のアーカイブ（ultimate archive）」。",
+		"aftertaste": "「ラーゲルシュテッテン（lagerstätte）」から掘り出された、数億年前のクラゲの柔らかい触手が、昨日の出来事のように鮮明に（vividly）石の中に浮かび上がっているのを見つめ、救済（salvation）とは、このように「脆いもの」が静かに守られることなのだと確信する、あの知的な救済。あるいは、自分の最も恥ずかしく、脆い感情の一片が、誰かの心という「ラーゲルシュテッテン（lagerstätte）」に、このように永遠に保存されてしまうことを予感し、戦慄する、あの深夜の自己嫌悪。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"『場所（place）』とは、何かが留まることで初めて意味を持つ。ラーゲルシュテッテン（lagerstätte）とは、大地がいかに多くの生命の『溜息』を、その深淵にストック（stock）し続けているかを示す、巨大な記憶装置である。",
+				"異常保存（exceptional preservation）は、環境的な『窒息（asphyxia）』や『急速な埋没』という、絶体絶命の苦痛の果てに生まれる、皮肉な恩寵（grace）である。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
