@@ -269212,5 +269212,204 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "pretermission",
+		"word": "Pretermission",
+		"part_of_speech": "noun",
+		"meaning": "見落とし、過失、度外視、（法）相続人からの除外",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "praeter",
+					"type": "prefix",
+					"meaning": "beyond, past (〜を超えて、通り過ぎて)"
+				},
+				{
+					"text": "mittere",
+					"type": "root",
+					"meaning": "to let go, send (放す、送る)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin praetermissio, from praetermittere 'pass by', from praeter 'past' + mittere 'let go'."
+		},
+		"core_concept": {
+			"en": "The act of omitting or passing over; neglect; the omission of a legal heir from a will",
+			"ja": "あえて『通り過ぎる（pass by）』ことで、存在を無（nothing）へと追いやる、静かなる『拒絶』。意図的な無視、あるいは無意識の忘却。言葉の網からこぼれ落ちた、名もなき『不在』"
+		},
+		"thinking_layer": "『通り過ぎて放すこと』。ミッション（Mission/使命＝送られたもの）、パーミット（Permit/通すことを許す）、おなじみの「プレター（〜を超えて）」と同根。語源は「放っておいて通り過ぎる」。ただの「見落とし」ではありません。そこには。「そこに価値を認めず、あえて注意を払わない」という、峻烈な選別の響きが宿っています。それは。知性が自らの整合性を守るために、不都合な存在を歴史の行間へと「放逐（exile）」するプロセスのメタファー。",
+		"aftertaste": "自分が誰かの人生のリストから、この「プリターミッション（pretermission）」によって静かに削除（delete）されていることを知った瞬間の、救いようのない「透明感」と、それによって得られた「究極の孤独」を味わう、あの知的な戦慄。あるいは、自分の思考が、世間の喧騒をこの「度外視（pretermission）」によって鮮やかに切り捨て、真実の核心（core）へと真っ直ぐに突き進んでいることを誇る、あの静かな午後の自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "meit-",
+					"meaning": "to change, go, move (forming mittere)"
+				}
+			],
+			"points": [
+				"message, admit, commit, dismiss, promise 同根。",
+				"『放す（letting go）』という受動的な身振りが、対象を透明化するという能動的な結果をもたらす。プリターミッションは、沈黙という手段を用いた、最も洗練された『権力の行使』である可能性がある。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "paralipsis",
+		"word": "Paralipsis",
+		"part_of_speech": "noun",
+		"meaning": "（修辞）省略法、言及を避けるといいつつ言及する技法",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "para-",
+					"type": "prefix",
+					"meaning": "beside (傍らに)"
+				},
+				{
+					"text": "leipein",
+					"type": "root",
+					"meaning": "to leave, omit (残す、省く)",
+					"lang": "Greek"
+				}
+			],
+			"original_statement": "From Greek paraleipsis, from paraleipein 'leave on one side', from para 'beside' + leipein 'leave'."
+		},
+		"core_concept": {
+			"en": "A rhetorical device in which a subject is emphasized by professing to pass over it",
+			"ja": "『あえて語らない』と宣言することで、逆にその存在を強烈に浮かび上がらせる、狡知（cunning）に満ちた『否定の強調』。沈黙を武器に、聞き手の想像力（imagination）という火を焚きつける、知的な『不在の挑発』"
+		},
+		"thinking_layer": "『傍らに残しておくこと』。エクリプス（Eclipse/日食＝光が消え残ること）、エリプシス（Ellipsis/省略）、おなじみの「パラ（傍らに）」と同根。語源は「脇に置いておく」。ただの「省略」ではありません。そこには。「今は言わないが、皆がそれを知っていることを私は知っている」という、共犯関係（complicity）への誘いがあります。それは。知性が言葉の限界を逆手に取り、語り得ぬものを饒舌（eloquence）に語らせるための、高度な戦略。",
+		"aftertaste": "「彼の欠点についてはあえて触れませんが……」という「パラリプシス（paralipsis）」の後に続く、重苦しい沈黙の中に、語られたあらゆる称賛よりも雄弁な「真実」を聴き取り、知性の持つ「毒」に身を震わせる、あの峻烈な一瞬。あるいは、自分の言葉が、この「省略法（paralipsis）」のように、語られない部分にこそ最大の「熱量」を湛（たた）えたものでありたいと願う、あの静かな夜の野心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "leikw-",
+					"meaning": "to leave (forming leipein)"
+				}
+			],
+			"points": [
+				"relinquish, relic, delinquent, lend 同根。",
+				"『残す（leaving）』ことは、未来への『期待』を生成することである。パラリプシスは、対象を直接提示する代わりに、その周囲に『欠損』を彫刻することで、対象をより神聖な、あるいはより醜悪なものへと変容させる。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "aphaeresis",
+		"word": "Aphaeresis",
+		"part_of_speech": "noun",
+		"meaning": "（音韻）語頭音消失、（医学）アフェレーシス",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "apo-",
+					"type": "prefix",
+					"meaning": "away, from (離れて)"
+				},
+				{
+					"text": "hairein",
+					"type": "root",
+					"meaning": "to take (取る)",
+					"lang": "Greek"
+				}
+			],
+			"original_statement": "From Greek aphairesis, from aphairein 'take away', from apo 'away' + hairein 'take'."
+		},
+		"core_concept": {
+			"en": "The loss of one or more sounds or letters from the beginning of a word (e.g., 'round' from 'around'); (medicine) the removal of blood plasma from the body",
+			"ja": "始まり（origin）を削ぎ落とし、より洗練された、あるいはより野生的な形へと変容させる『剥離（detachment）』。過去の重みを捨て去り、今、この瞬間の『響き』だけに集中するための、峻烈なダイエット"
+		},
+		"thinking_layer": "『取り去ること』。ヘレジー（Heresy/異端＝自分で選んで取ること）、おなじみの「アポ（離れて）」と同根。語源は「取り去る」。ただの「消失」ではありません。そこには。「時間の風に晒され、余計な虚飾が剥がれ落ちた」という、自然淘汰（natural selection）のような響きが宿っています。それは。知性が自らの伝統や物語の「枕詞（preface）」を勇気を持って切り捨て、核心の論理（core logic）だけで勝負しようとする瞬間のメタファー。 ",
+		"aftertaste": "「Around」が「Round」へと変容する「アフェレシス（aphaeresis）」のプロセスに、言葉がいかに「怠惰（laziness）」であり、かつ「合理的（rational）」であるかの証拠を見出し、知性の持つ「最小限への欲求」に共感する、あの知的な平安。あるいは、自分の人生から「肩書き」や「前置き」という語頭音（initial sounds）をすべて取り去ったとき、最後に残る「自分」という一音の純粋さに震える、あの静かな午後の祈り。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ser-",
+					"meaning": "to flow (uncertain connection to hairein?)"
+				}
+			],
+			"points": [
+				"dieresis, exeresis 同根。",
+				"『取る（taking）』という行為は選択（choice）である。アフェレシスは、対象を壊すのではなく、不必要な部分を切り離すことで、対象の本質を『解放』するプロセスである。医学用語としてのアフェレーシス（血漿交換など）も、この『本質を救うための除去』という概念を共有している。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "syncope",
+		"word": "Syncope",
+		"part_of_speech": "noun",
+		"meaning": "（音韻）語中音消失、（医学）失神",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "syn-",
+					"type": "prefix",
+					"meaning": "together (共に)"
+				},
+				{
+					"text": "koptein",
+					"type": "root",
+					"meaning": "to cut off (切り落とす)",
+					"lang": "Greek"
+				}
+			],
+			"original_statement": "From Greek synkopē, from synkoptein 'cut short', from syn- 'together' + koptein 'cut'."
+		},
+		"core_concept": {
+			"en": "The loss of one or more sounds or letters from the middle of a word; (medicine) temporary loss of consciousness caused by a fall in blood pressure",
+			"ja": "内側から崩壊し、時間を『飛び越える（leap）』ための、峻烈な欠落。意識の糸が不意に断ち切られる『失神（fainting）』であり、言葉の中央が空虚に飲み込まれる、知的な『空白の飛躍』"
+		},
+		"thinking_layer": "『共に切り落とす』。コンマ（Comma/切り取られたもの）、おなじみの「シン（共に）」と同根。語源は「短く切り詰める」。ただの「消失」ではありません。そこには。「あまりの衝撃（impact）に、中間の全プロセスが省略された」という、非線形的な飛躍の響きがあります。それは。知性が論理の階段を一段ずつ登ることを止め、直感（intuition）という名の「失神」によって、一気に結論へと到達する瞬間のメタファー。 ",
+		"aftertaste": "自分の名前や大切な言葉が、時間の浸食によってこの「シンコペ（syncope）」を引き起こし、より短く、より鋭利な響きへと結晶化してゆくのを眺め、変化（change）というものの美しさと残酷さを同時に噛み締める、あの知的な静寂。あるいは、激しい感情の昂ぶりの果てに訪れた一瞬の「失神（syncope）」の中で、自分という個の境界が溶け出し、宇宙の広大な「無」へと回帰してゆくのを感じる、あの峻烈な解放。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "skap-",
+					"meaning": "to hew, strike (forming koptein)"
+				}
+			],
+			"points": [
+				"cap, chop, shop 同根の説あり。",
+				"『切る（cutting）』ことは区別することだが、シンコペ（syncope）においては、それは『接続（connection）』を強めるために中間の不穏な距離を消し去ることである。音楽におけるシンコペーション（切分音）も、リズムの中間を切り取ることで、期待を裏切る新しい推進力を生み出している。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "elision",
+		"word": "Elision",
+		"part_of_speech": "noun",
+		"meaning": "（音韻）母音消失、削除、省略、無視",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "e-",
+					"type": "prefix",
+					"meaning": "out (外へ)"
+				},
+				{
+					"text": "laedere",
+					"type": "root",
+					"meaning": "to dash, strike (打ちつける)', from Latin elidere 'strike out'"
+				}
+			],
+			"original_statement": "From Latin elisio, from elidere 'strike out', from e- 'out' + laedere 'dash'."
+		},
+		"core_concept": {
+			"en": "The omission of a sound or syllable when speaking; the process of joining sounds or words together; an act of omitting or ignoring something",
+			"ja": "衝突（collision）を避けるために、隣り合う二つの音の一方を『打ち消し（strike out）』、滑らかな融合を果たすための、知的な『妥協と洗練』。矛盾する二つのアイディアを繋ぎ合わせるための、微かな『自己犠牲』"
+		},
+		"thinking_layer": "『外へと叩き出す』。コリジョン（Collision/衝突）、レジョン（Lesion/損傷）、おなじみの「E（外へ）」と同根。語源は「叩き出す」。ただの「省略」ではありません。そこには。「二つのものが一つになろうとする際の、激しい摩擦と、その解消」という、ダイナミックな「調和への意志」が宿っています。それは。知性が自らの複雑な論理を、他者へと伝えるために「極限まで単純化（simplify）」し、情報のノイズを滑らかに拭い去るプロセス。 ",
+		"aftertaste": "「I'm」や「It's」といった「エリジオン（elision）」の陰に隠された、失われた母音（vowel）の幽霊のような気配を感じつつ、私たちは常に何かを犠牲にしながら「スピード」と「効率」を手に入れているのだと自白する、あの知的な静寂。あるいは、自分の主張の矛盾を、この「エリジオン」のような「巧みな無視（ignoring）」によって覆い隠そうとする自分の卑怯さを皮肉る、あの静かな午後の憂鬱。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"『叩く（striking）』という暴力的な動作から、『滑らかな融合』を意味する言葉が生まれたという逆説。エリジオンは、言葉がいかにして自らのエッジを削り、聞き手の耳へと潜り込むための『潤滑油』を作り出してきたかという、コミュニケーションの進化の記録である。",
+				"この言葉は、詩学（poetics）においてメトリック（韻律）を整えるための必須の技法であり、カオスにリズムを与える知性の工学を象徴している。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
