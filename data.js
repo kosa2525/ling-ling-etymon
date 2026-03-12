@@ -273134,5 +273134,175 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "alb",
+		"word": "Alb",
+		"part_of_speech": "noun",
+		"meaning": "白衣（びゃくい）、アルバ",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "albus",
+					"type": "root",
+					"meaning": "white (白い)', from Latin"
+				}
+			],
+			"original_statement": "From Latin alba (vestis) 'white (garment)'."
+		},
+		"core_concept": {
+			"en": "A white vestment reaching to the feet, worn by clergy and servers in some Christian churches",
+			"ja": "一切の情動の色彩を排し、純粋な『光（albus）』そのものを纏う、峻烈な透明性の防衛。世俗の汚れを白の静寂（silence）で覆い隠す、知的な『光の皮膚』。"
+		},
+		"thinking_layer": "『白いもの』。アルバム（Album/白い板）、アルバ（Alba/夜明け）、おなじみの「アルビノ（Albino/白子）」と同根。語源は「白」。ただの「服」ではありません。そこには。「過去という名の影をすべて捨て去り、無色透明な存在へと自らをリセットする」という、峻烈な純化の意志が宿っています。それは。知性が雑多な情報の中から、ただ一つの「汚れなき真実」を抽出し、それを自らの確固たるアイデンティティとして纏（まと）う瞬間のメタファー。",
+		"aftertaste": "足元まで届く真っ白な「白衣（alb）」に袖を通し、自分の輪郭が光の中に溶けて消えてゆくような、あの不思議な「無（nothing）」の充足感に浸る、あの知的な平安。あるいは、自分の言葉もまた、この「アルバ」のように、装飾（color）を削ぎ落とした純粋な真理だけを伝え、受け取る人の心を清冽（せいれつ）な夜明け（alba）へと導くものでありたい、と願う、あの静かな午後の自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "albho-",
+					"meaning": "white (forming albus)"
+				}
+			],
+			"points": [
+				"albino, albumin, album, Elbe（白い川） 同根。",
+				"『白（white）』は、すべての色を反射し、他を受け入れない完結の象徴である。アルバは、生命が自らを外部の干渉（pollution）から守るために創り出した、最もシンプルで最も強靭な『不可視の障壁』である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "chasuble",
+		"word": "Chasuble",
+		"part_of_speech": "noun",
+		"meaning": "カズラ、上祭服（じょうさいふく）",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "casubla",
+					"type": "root",
+					"meaning": "hooded garment, little house (小さな家)', from Latin casa"
+				}
+			],
+			"original_statement": "From Latin casula 'little house'."
+		},
+		"core_concept": {
+			"en": "The outermost vestment worn by a priest when celebrating the Eucharist",
+			"ja": "全身を包み込む『小さな家（casula）』としての衣服。あらゆる境界線を越える『慈愛（charity）』の象徴として、自己という殻を拡張し、他者をもその庇護（protection）の下に置く、知的な『移動する聖域』。"
+		},
+		"thinking_layer": "『小さな家』。カジノ（Casino/小さな家）、キャッスル（Castle/城とは別）、おなじみの「ハウス（House）」のラテン語系と同根。語源は「小さな家」。ただの「マント」ではありません。そこには。「衣服とは、自らを外部から隔離するための最も個人的な『建築物（architecture）』である」という、峻烈な空間の所有意志が宿っています。それは。知性が一つの偉大なアイディア（charity）によって、自分と世界をまるごと包み込み、調和のある「ひとつの宇宙」を創り出そうとする瞬間のメタファー。",
+		"aftertaste": "重厚な刺繍（embroidery）が施された「カズラ（chasuble）」を纏（まと）い、自分が法（rituals）と愛（love）という名の「動く宮殿」になったかのような錯覚に、深い誇りと責任を覚える、あの知的な平安。あるいは、自分の思考が、この「カズラ」のように、どんなに激しい嵐の中でも、その内側に暖かな「真理の火」を灯し続け、他者を招き入れることのできる寛大な場所でありたい、と願う、あの静かな夜の自尊心。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"『家（house）』という言葉が衣服に転用されたのは、かつての衣服が『風雨（外部）を凌ぐための最小の装置』であったことを示している。カズラ（chasuble）は、生命が自らの身体的な限界を克服し、精神的な領域を『建築的』に拡張しようとした、防衛の美学の結晶である。",
+				"袖のない円形の形状は、全方位からの攻撃を跳ね返し、同時に全方位への慈愛を放射する『円（circle）』の完全性を象徴している。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "dalmatic",
+		"word": "Dalmatic",
+		"part_of_speech": "noun",
+		"meaning": "ダルマティカ、執事用祭服",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "Dalmatia",
+					"type": "root",
+					"meaning": "Dalmatia (a region in Croatia where the garment originated)'"
+				}
+			],
+			"original_statement": "From Latin dalmatica (vestis) 'Dalmatian (garment)'."
+		},
+		"core_concept": {
+			"en": "A wide-sleeved vestment worn by a deacon",
+			"ja": "大きく開かれた袖（sleeves）から、世界へと救いの手を伸ばす『奉仕（service）の制服』。特定の場所（Dalmatia）の記憶を、普遍的な正義へと昇華させた、知的な『異国情緒の機能化』。"
+		},
+		"thinking_layer": "『ダルマティアのもの』。ダルメシアン（Dalmatian/ダルマティアの犬）、おなじみ「祭服」系と同根。語源は「ダルマティア地方の」。ただの「長服」ではありません。そこには。「特定地域の優れた知恵や美学（wool）を、普遍的な秩序（church）の中に統合し、力（authority）へと変容させる」という、峻烈な教養の吸収意志が宿っています。それは。知性が異質な文化やアイディアに触れ、それを自らの「使命（mission）」を果たすための新しい道具（vestment）として洗練させてゆくプロセスの象徴。",
+		"aftertaste": "「ダルマティカ（dalmatic）」の広い袖が振れるたびに、そこから新しい「可能性」が溢れ出してゆくような躍動感を覚え、奉仕とは決して自己犠牲ではなく、自らの力を世界へと「流動化（liquefaction）」させる贅沢な行為なのだと悟る、あの知的な平安。あるいは、自分の表現もまた、この「ダルマティカ」のように、どこか遠い世界の香りを纏（まと）いながらも、目の前の苦しむ人に確かな「救い」を届けるものでありたい、と願う、あの静かな午後の自尊心。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"もともとはダルマティア地方のダルマティア・ウールで作られた日常着であったが、その美しさと機能性からキリスト教の奉仕者の象徴へと転じた。",
+				"『異質さ（otherness）』を排除するのではなく、それを『制服（uniform）』という名の秩序の中に封じ込めることで、生命はより広大な連帯（solidarity）を獲得してきた。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "mitre",
+		"word": "Mitre",
+		"part_of_speech": "noun",
+		"meaning": "司教冠（しきょうかん）、ミトラ",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "mitra",
+					"type": "root",
+					"meaning": "headband, turban (鉢巻き、ターバン)', from Greek"
+				}
+			],
+			"original_statement": "From Greek mitra 'headband'."
+		},
+		"core_concept": {
+			"en": "A tall double-pointed hat worn by a bishop, representing the 'tongues of fire' of the Holy Spirit",
+			"ja": "天（heaven）に向かって尖った二つの尖塔（spires）を、自らの頭上に戴（いただ）くという、圧倒的な『垂直の支配』。思考の最頂部を光の炎（flame）へと変容させる、知的な『権威の避雷針』。"
+		},
+		"thinking_layer": "『鉢巻き』。特になし。語源は「頭に巻くもの」。ただの「帽子」ではありません。そこには。「思考の重力を振り切り、天上の智恵を自らの頭脳へと直接招き入れる」という、峻烈な飛翔の意志が宿っています。それは。知性が複雑な議論を突き詰め、最後に出した結論が、一点の疑いもない「神聖な命令（command）」へと変わる瞬間の、重厚なメタファー。",
+		"aftertaste": "重く、気高い「司教冠（mitre）」を戴く者の孤独を想い、権威とは常に、見えない天からの「言葉（fire）」を受け止めるための『空洞（hollow）』を自らの中に作り続けることなのだと悟り、深い畏敬を覚える、あの知的な平安。あるいは、自分の思考もまた、この「ミトラ」のように、常に高く、鋭く、世界の光を誰よりも早く捉える「知の尖塔」でありたい、と願う、あの静かな夜の自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "mei-",
+					"meaning": "to bind (forming mitra?)"
+				}
+			],
+			"points": [
+				"mitre, mitrailleuse（散弾銃＝もとは多銃身の束） 同根の説あり。",
+				"『縛る（binding）』ことが、頭部（思考の座）を神聖な領域として画定する。ミトラは、生命が自らの知性を単なる生理現象から、超越的な『法』の代理人へとアップグレードさせるための、シンボリックな儀式装置である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "crosier",
+		"word": "Crosier",
+		"part_of_speech": "noun",
+		"meaning": "司教杖（しきょうじょう）、牧杖",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "croce",
+					"type": "root",
+					"meaning": "crook (曲がったもの)', from Old French"
+				},
+				{
+					"text": "croce",
+					"type": "root",
+					"meaning": "cross (十字架)', from Latin crux (influenced)"
+				}
+			],
+			"original_statement": "From Old French croce 'staff', from Germanic (influenced by cross)."
+		},
+		"core_concept": {
+			"en": "A hooked staff carried by a bishop as a symbol of pastoral office",
+			"ja": "迷える者を優しく、しかし峻烈に正しい道へと引き戻す『救済のフック（hook）』。大地を突き、歩みを支える実利的な杖が、天の秩序を地上に具現する『正義の腕』へと転じる、知的な『誘導の美学』。"
+		},
+		"thinking_layer": "『曲がった杖』。クロッシェ（Crochet/かぎ針編み）、クロニクル（Chronicle/とは関係なく）、おなじみの「クロス（十字架）」のイメージが混ざった。語源は「かぎ状のスタッフ」。ただの「杖」ではありません。そこには。「強引な支配（violence）ではなく、優雅な『誘導（guidance）』によって、全体を一つの目的地へと導く」という、強かな統治の知恵が宿っています。それは。知性が自らのアイディアを、他者の心にそっと引っ掛け（hooking）、共に未知の領域へと踏み出そうとする瞬間のメタファー。",
+		"aftertaste": "銀色に輝く「司教杖（crosier）」の、その曲線（curve）の美しさに見惚れながら、本当のリーダーシップとは、この杖のように「折れない強さ」と「包み込むような優しさ」の完璧な融合なのだと悟る、あの知的な平安。あるいは、自分の言葉もまた、この「クロージャー」のように、誰かの暗闇の歩みを支える確かな「杖」となり、出口へと導く「光の道標」でありたい、と願う、あの静かな午後の自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ger-",
+					"meaning": "to twist, turn (forming croce?)"
+				}
+			],
+			"points": [
+				"crochet, crook, crutch 同根。",
+				"『曲げる（twisting）』ことは、直線を拒み、対象を『捕らえる（catching）』ための準備である。司教杖という言葉には、生命がいかにして、単なる生存を超えた『他者のケア』という高度な社会的機能を、自らの身体の一部（杖）として外部化（externalization）してきたかという、愛の工学が刻まれている。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
