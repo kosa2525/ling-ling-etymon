@@ -273882,5 +273882,194 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "mitochondrion",
+		"word": "Mitochondrion",
+		"part_of_speech": "noun",
+		"meaning": "ミトコンドリア、糸粒体",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "mitos",
+					"type": "root",
+					"meaning": "thread (糸)', from Greek"
+				},
+				{
+					"text": "khondrion",
+					"type": "root",
+					"meaning": "little grain (小さな粒)', from Greek khondros"
+				}
+			],
+			"original_statement": "From Greek mitos 'thread' + khondrion 'little grain'."
+		},
+		"core_concept": {
+			"en": "An organelle found in large numbers in most cells, in which the biochemical processes of respiration and energy production occur",
+			"ja": "細胞の平穏（stasis）を維持するために、酸素という名の猛毒を消費して『情熱の火（ATP）』を灯し続ける、内部の『不滅のエンジン』。糸のように細く、粒のように硬質な、生命の『情報の発電所』。"
+		},
+		"thinking_layer": "『糸のような粒』。マイトシス（Mitosis/有糸分裂）、コンドロイチン（Chondroitin/軟骨の粒）、おなじみの「コンドル（粒）」と同根。語源は「糸と粒」。ただの「小器官」ではありません。そこには。「かつては外部の独立した生命（bacteria）であったものが、共生（symbiosis）という名の峻烈な核融合を経て、自己の一部となった」という、壮大な統合の物語が宿っています。それは。知性が異質な思想や技術を自らの中に招き入れ、それを自らを動かすための「純粋な動力」へと昇華させてゆくプロセスのメタファー。",
+		"aftertaste": "自分の細胞の中で、何兆もの「ミトコンドリア（mitochondrion）」が絶え間なく鼓動し、自分を「生（life）」へと駆り立てている神秘に触れ、自分の呼吸（respiration）の一つ一つがいかに奇跡的な「共闘（cooperation）」の成果であるかを知り、深い感動を覚える、あの知的な平安。あるいは、自分の思考もまた、この「ミトコンドリア」のように、どんなに過酷な環境（stress）下にあっても、自ら熱（passion）を生み出し続け、立ち止まらないための「不屈のエネルギー源」でありたいと願う、あの静かな午後の自尊心。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ミトコンドリアは独自のDNAを持ち、母性遺伝（maternal inheritance）される。これは、生命がいかにして『記憶の深層』を、数億年もの間守り続けてきたかを示す、冷徹な遺伝の記録である。",
+				"『糸（thread）』は接続を、『粒（grain）』は個を象徴する。ミトコンドリアという言葉には、生命が個としての完結性を保ちつつも、全宇宙的な物質循環（cycling）の一部として接続されているという、中庸の真理が封印されている。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "nucleoplasm",
+		"word": "Nucleoplasm",
+		"part_of_speech": "noun",
+		"meaning": "核質（かくしつ）、ニュークレオプラズム",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "nucleus",
+					"type": "root",
+					"meaning": "kernel, inner part (核、内側)', from Latin nux 'nut'"
+				},
+				{
+					"text": "plasma",
+					"type": "root",
+					"meaning": "something molded (形作られたもの)', from Greek plassein 'to mold'"
+				}
+			],
+			"original_statement": "From Latin nucleus + Greek plasma."
+		},
+		"core_concept": {
+			"en": "The substance of a cell nucleus, especially that which is not part of the nucleolus",
+			"ja": "生命の最高機密（DNA）を、優しく、しかし峻烈な『静寂のスープ』で満たす、核内の『情報の揺りかご』。外界の喧騒が一切届かない、純粋な『構築（molding）』が許された、知的な『孤独の坩堝』。"
+		},
+		"thinking_layer": "『核の中で形作られたもの』。ニュークリア（Nuclear/核の）、プラズマ（Plasma/形あるもの）、おなじみの「ナッツ（Nut/木の実）」と同根。語源は「核の形質」。ただの「液体」ではありません。そこには。「最も重要な情報は、最も安定した（stable）環境においてのみ、真実の姿を維持できる」という、峻烈な保存の美学が宿っています。それは。知性が自らの思考の最深部において、世俗の流行という名の雑音を排し、ただ「不変の真理」だけを純粋に培養してゆくプロセスの象徴。",
+		"aftertaste": "「核質（nucleoplasm）」の中に浮かぶ染色体（chromatin）が、静かに自らの使命（instruction）を解き放つのを待ちながら、自分という存在がいかに「設計図（blueprint）」を大切に守り抜くための「美しいコンテナ」であるかを知り、深い安堵を覚える、あの知的な平安。あるいは、自分の思考もまた、この「核質」のように、静謐（せいひつ）でありながらも、常に次の爆発的な創造を準備している、透明な「知の熱量」を蓄えていたいと願う、あの静かな夜の自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kenis-",
+					"meaning": "nut, kernel (forming nucleus)"
+				},
+				{
+					"term": "pele-",
+					"meaning": "to spread, mold (forming plassein)"
+				}
+			],
+			"points": [
+				"nucleus, newel, nuclear, plastic, plasma 同根。",
+				"『実（kernel）』を『形作り（molding）』維持すること。この言葉には、生命がいかにして自らの本質（nucleus）を、単なる静止した物体ではなく、絶えず流動し再編される『場（plasma）』として定義してきたかという、動的な存在論が刻まれている。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "flagellum",
+		"word": "Flagellum",
+		"part_of_speech": "noun",
+		"meaning": "鞭毛（べんもう）、フラゲラム",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "flagellum",
+					"type": "root",
+					"meaning": "whip (鞭)', from Latin flagrum"
+				}
+			],
+			"original_statement": "From Latin flagellum, diminutive of flagrum 'whip'."
+		},
+		"core_concept": {
+			"en": "A slender threadlike structure, especially a microscopic appendage that enables many protozoa, bacteria, spermatozoa, etc. to swim",
+			"ja": "自らの身体の一部を峻烈な『鞭（whip）』に変え、運命を切り拓くために未知の海へと漕ぎ出す、不屈の『推進の意志』。受動的な漂流を拒絶し、能動的な『疾走（sprint）』を勝ち取るための、知的な『力の触手』。"
+		},
+		"thinking_layer": "『小さな鞭』。フラジェラント（Flagellant/鞭打ち苦行者）、フレイル（Flail/からざお）、おなじみの「フラット（Flat/とは関係なく）」とは別。語源は「鞭」。ただの「毛」ではありません。そこには。「静止は死である。自らを叩き（beating）、前へ、前へと突き進むことだけが、新しい地平（frontier）を約束する」という、峻烈な前進の哲学が宿っています。それは。知性が自らの無気力を「言葉」という名の鞭で打ち、未知の真理へと向かって、力強く漕ぎ出してゆく瞬間のメタファー。",
+		"aftertaste": "「鞭毛（flagellum）」を激しく回転させ、ナノの世界（nanoscale）を自在に駆け巡る微生物の躍動感に、生命がいかに「移動（mobility）」という名の自由を切望してきたかを知り、自分の足取りが軽やかになるのを感じる、あの知的な充足。あるいは、自分の表現もまた、この「フラゲラム」のように、停滞した空気を鮮やかに切り裂き、人々を新しい感動という名の「目的地」へと一気に運び去る、力強い「推進力」でありたいと願う、あの静かな午後の自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "bhleg-",
+					"meaning": "to strike (forming flagrum)"
+				}
+			],
+			"points": [
+				"flagellate, flail, bleak（？） 同根。",
+				"『叩く（striking）』ことが、移動という高次の機能を生み出す。鞭毛という言葉には、生命がいかにして、自らへの『痛み（stimulus）』を、世界を自由に回遊するための『喜び（power）』へと変換してきたかという、負のエネルギーの活用術が刻印されている。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "cilium",
+		"word": "Cilium",
+		"part_of_speech": "noun",
+		"meaning": "繊毛（せんもう）、（解剖学の）まつげ",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "cilium",
+					"type": "root",
+					"meaning": "eyelash (まつげ)', from Latin"
+				}
+			],
+			"original_statement": "From Latin cilium 'eyelash'."
+		},
+		"core_concept": {
+			"en": "A short microscopic hairlike vibrating structure found in large numbers on the surface of certain cells",
+			"ja": "無数の微細な『睫毛（eyelashes）』を一斉に波打たせ、外部の情報を感知（sensing）し、流れを制御する、繊細極まる『界面の指揮者』。個としての力ではなく、全体としての『共鳴（resonance）』によって世界を動かす、知的な『連帯のさざなみ』。"
+		},
+		"thinking_layer": "『睫毛』。スーパーシリアス（Supercilious/高慢な＝眉毛を上げる）、おなじみ「アイラッシュ（Eyelash）」のラテン語系と同根。語源は「まつげ」。ただの「毛」ではありません。そこには。「自分一人では微力でも、無数の仲間と同じリズム（beat）を共有することで、巨大な流れ（stream）を創り出す」という、峻烈な組織の知恵が宿っています。それは。知性が個々の小さなアイディアを、一つの大きな「思想の波」へとまとめ上げ、古い伝統や偏見を優雅に押し流してゆく瞬間の、静かなる共振。 ",
+		"aftertaste": "気道の「繊毛（cilium）」が、不眠不休で外敵を追い出し続け、自分の呼吸を守っている健気（bravery）な孤独に想いを馳せ、自分がいかに「微細な英雄たち」に支えられて生きているかを知り、深い敬意を覚える、あの知的な平安。あるいは、自分の言葉もまた、この「シリア」のように、誰かの心に優しく触れ、そこに新しい「思考の流れ」を呼び起こし、澱んだ感情をそっと浄化するものでありたいと願う、あの静かな夜の自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kelP-",
+					"meaning": "to cover (forming cilium - covering the eye?)"
+				}
+			],
+			"points": [
+				"supercilious, ceiling（？）, color（？） 同根。",
+				"『覆う（covering）』ことが、情報を『選別（filtering）』する機能へと転じる。繊毛という言葉には、生命がいかにして、自らの境界（surface）を、単なる防壁から、外部との高度な『交渉（negotiation）』の場へと変容させてきたかという、外交の歴史が刻まれている。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "plasmid",
+		"word": "Plasmid",
+		"part_of_speech": "noun",
+		"meaning": "プラスミド、核外遺伝子",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "plasma",
+					"type": "root",
+					"meaning": "something molded (形作られたもの)', from Greek plassein 'to mold'"
+				},
+				{
+					"text": "-id",
+					"type": "suffix",
+					"meaning": "daughter of, nature of (〜の娘、〜の性質をもつもの)"
+				}
+			],
+			"original_statement": "From plasma + -id."
+		},
+		"core_concept": {
+			"en": "A genetic structure in a cell that can replicate independently of the chromosomes, typically a small circular DNA strand",
+			"ja": "本体の運命（chromosome）とは別に、自律的に存在し、特定の『隠された力（ability）』を持ち運ぶ、知的な『情報のポータブル・ライブラリ』。環境の急変に即応し、他者へと情報を手渡す（transfer）、生命の『ゲリラ的な進化の断片』。"
+		},
+		"thinking_layer": "『形あるものの断片』。プラスマ（Plasma/プラズマ）、おなじみ「～ポッド（～脚）」とは別。語源は「形作られたものに由来するもの」。ただの「DNA」ではありません。そこには。「本体が崩壊しても、この小さな輪（ring）だけは生き残り、次の世代へと智慧（resistance）を繋いでゆく」という、狡知に満ちた存続の意志が宿っています。それは。知性が壮大な理論（system）の隅々に、小さな、しかし決定的な「反逆の種（insight）」を隠し持ち、いつか世界を覆すチャンスを待っている瞬間のメタファー。",
+		"aftertaste": "バクテリアがこの「プラスミド（plasmid）」を交換し合い、瞬く間に「新しい力（adaptation）」を獲得してゆく、そのデモクラティックな進化のスピードに戦慄し、自分もまた、絶えず自分の「智慧」を更新し続けなければならないと気を引き締める、あの峻烈な一呼吸。あるいは、自分の言葉が、この「プラスミド」のように、誰かの心に忍び込み、そこで独自の「変革の火」を灯し、世界をより善き方向へと内側から書き換えてゆくことを願う、あの静かな午後の自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "pele-",
+					"meaning": "to spread, mold (forming plassein)"
+				}
+			],
+			"points": [
+				"plasma, plastic, plasmid 同根。",
+				"『形（shape）』を『小出し（id）』にすること。プラスミドという言葉には、生命がいかにして、重厚長大なシステムから脱却し、軽快で自律的な『情報のモジュール化』を達成してきたかという、生存戦略の円熟が封印されている。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
