@@ -261102,5 +261102,202 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "proboscis",
+		"word": "Proboscis",
+		"part_of_speech": "noun",
+		"meaning": "象の鼻、（昆虫の）吻（ふん）、口吻、不自然に大きな鼻",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "pro-",
+					"type": "prefix",
+					"meaning": "before (〜の前に)"
+				},
+				{
+					"text": "boskein",
+					"type": "root",
+					"meaning": "to feed (食べる)",
+					"lang": "Greek"
+				}
+			],
+			"original_statement": "From Greek proboskis, from pro- 'before' + boskein 'feed' (the means by which the animal feeds itself)."
+		},
+		"core_concept": {
+			"en": "The nose of a mammal, especially when it is long and mobile, such as the trunk of an elephant; (in many insects) an elongated sucking mouthpart",
+			"ja": "食べ物を『前（pro-）へ運んで食べる（feed）』ための、長く、柔軟で、時には奇怪なまでに突出した『生命の触手』。外界を吸い込み、味見し、支配するための能動的なインターフェース"
+		},
+		"thinking_layer": "『前で食べるもの』。ボタニカル（Botanical/植物の＝育てて食べるもの？）やプロフェッサー（Professor/前で話す人）とおそらくな。語源は「食べること」。ただの「鼻」ではなく、そこに「収集」と「探求」の意志が宿っています。それは見えない情報を手繰り寄せ、生命の糧（fuel）へと変えるための、最も前衛的（avant-garde）な装置。",
+		"aftertaste": "象の巨大な「鼻（proboscis）」が、小指のような繊細さで一粒の落花生を拾い上げるのを見る時の、あの極端なスケールの同居と、機能美への深い溜息。あるいは、自分の「知的好奇心（intellectual proboscis）」という名の長い触手が、あまりにも汚れた情報の泥の中に浸っていることに気づき、慌てて引き抜く、あの汚濁（contamination）への恐怖。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "gwor-",
+					"meaning": "to swallow (forming boskein?)"
+				}
+			],
+			"points": [
+				"herbivore, carnivore, botany 同根。",
+				"『食べる（feeding）』という行為は最も無防備な現実との接触だが、それを『前（pro-）』へと延長することで、生命はリスクを抑えつつ、世界という食卓をより深く『探究（explore）』できるようになった。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "palp",
+		"word": "Palp",
+		"part_of_speech": "noun",
+		"meaning": "（昆虫の）触肢、触鬚（しょくしゅ）",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "palpare",
+					"type": "root",
+					"meaning": "to feel, touch gently (触れる、優しくなでる)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin palpare 'touch gently'."
+		},
+		"core_concept": {
+			"en": "Either of a pair of elongated segmented appendages near the mouth of an arthropod, used for sensation, locomotion, and feeding",
+			"ja": "口元で絶え間なく揺れ動き、世界の『手触り（touch）』を微細な電気信号へと翻訳する、繊細な『感覚のアンテナ』。見るのではなく『触れる』ことで真実に近づこうとする、盲目的な誠実さ"
+		},
+		"thinking_layer": "『優しく触れるもの』。パルパブル（Palpable/触れられる、明白な）やパルピテーション（Palpitation/動悸＝微かに揺れる）と同根。語源は「なでる」。ただの「手（hand）」よりも、より「知覚（sensing）」に特化しています。それは闇の中で手探りをする魂、あるいは、他者の心の機微（nuance）を察知しようとして、空中で細かく震えている「言葉なき触手」。",
+		"aftertaste": "昆虫の「触肢（palp）」が、未知の物体を恐る恐るたたくのを見守りつつ、自分もまた「言葉」という名の触肢を使って、この不確かな世界の輪郭を慎重に測っているのだと悟る、あの不思議な連帯。あるいは、自分の発した冷たい一言が、誰かの「心の触肢（emotional palp）」を傷つけ、世界を「拒絶」させてしまったと気づいた瞬間の、あの指先の凍りつくような後悔。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "pal-",
+					"meaning": "to touch, feel"
+				}
+			],
+			"points": [
+				"palpable, palpate（触診する）, feel 同根の説あり。",
+				"『触れる（touching）』ことは対象との『境界線』を消滅させる行為であり、パルプ（palp）はその境界線上で、傷つかずに世界を『理解』するための、知性の最前線である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "pedipalp",
+		"word": "Pedipalp",
+		"part_of_speech": "noun",
+		"meaning": "触肢（特にクモ形類のもの）",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "pes / pedis",
+					"type": "root",
+					"meaning": "foot (足)",
+					"lang": "Latin"
+				},
+				{
+					"text": "palpus",
+					"type": "root",
+					"meaning": "touch (触れる)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin pes 'foot' + palpus 'touch'."
+		},
+		"core_concept": {
+			"en": "Each of the second pair of appendages attached to the cephalothorax of most arachnids",
+			"ja": "『足（foot）』の力強さと、『触知（touch）』の繊細さを兼ね備えた、クモたちの第二の腕。掴み、操り、そして感じるための、多機能な『生存のツール』。行動と知覚が幸福に合一された姿"
+		},
+		"thinking_layer": "『足のような触り。』。ペダル（Pedal）やデストリアン（Pedestrian/歩行者）、パルパー（Palpar）と同根。ただの「脚」ではない。移動のためではなく、「世界との対話」のためにあります。それは、暴力的な「掴み（grasp）」の前に必ず行われる、静かな「探査（probing）」。それは、自分の知性が誰かの人生に不用意に「踏み込む（tread）」前に、まず優しく「触れる」べきであるという、倫理的な教訓。 ",
+		"aftertaste": "クモが「触肢（pedipalp）」を器用に使って獲物を糸で包み込む、あの無駄のない「機能美（functionality）」に満ちた動きに、ある種の恐ろしい優雅さを見出す、あの背筋の凍るような感動。あるいは、自分の行動（foot）が、常に自分の感情（feeling）と繋がっていてほしいと願いつつ、現実に流されて「足」だけが勝手に動いていることに気づく、あの分裂した自意識の虚しさ。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ped-",
+					"meaning": "foot"
+				}
+			],
+			"points": [
+				"impediment, pedestal, pedal, pedestrian 同根。",
+				"『歩く（walking）』という基本的な生命活動が、いつしか『感じる（sensing）』という高次の機能へと進化した歴史は、人間が『物質（matter）』から『精神（mind）』へと軸足を移してきたプロセスの、生物学的な縮図である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "cheliped",
+		"word": "Cheliped",
+		"part_of_speech": "noun",
+		"meaning": "鉗脚（かんきゃく）、はさみ足（カニやエビの第一脚）",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "khēlē",
+					"type": "root",
+					"meaning": "claw (つめ、はさみ)",
+					"lang": "Greek"
+				},
+				{
+					"text": "pes / pedis",
+					"type": "root",
+					"meaning": "foot (足)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Greek khēlē 'claw' + Latin pes 'foot'."
+		},
+		"core_concept": {
+			"en": "One of the pair of legs that bears the large chelae in decapod crustaceans",
+			"ja": "『足（foot）』の先端に、すべてを断ち切り、あるいは強固に保持するための『はさみ（claw）』を冠した、最強の攻防一体の四肢。自らの意志（will）を物理的な質量として世界に突きつける、鋭利な主張"
+		},
+		"thinking_layer": "『はさみの足』。カメレオン（Chameleon/地上のライオン？爪の鋭いもの？）やケラ（Chela/はさみ）と同根。ただの「歩行」のための足ではなく、そこには「武器」としての誇りがあります。それは対話の拒絶、あるいは、守るべきものを決して離さないという「執着」。強い鎧（carapace）をまとい、この「鎌（cheliped）」を振りかざす時、生命は一つの「完結した要塞」となります。",
+		"aftertaste": "カニがその立派な「鉗脚（cheliped）」を誇示し、威嚇（menace）しながらも、実はその内側にある柔らかい命を守るために必死なのだと悟る時の、あの不器用な生き物への愛おしさと切なさ。あるいは、自分が「論理のはさみ（logical cheliped）」を研ぎ澄ませて相手を打ち負かそうとするたびに、大切な何かを切り刻んでしまっているのではないかという、終わりのない焦燥。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ghēl-",
+					"meaning": "to split, claw (forming khele)"
+				}
+			],
+			"points": [
+				"諸説あるが、古いギリシャ語で『爪（claw）』が『裂く（splitting）』ことと結びついていたのは、生存における『分離（separation）』の重要性の記録。",
+				"『力（force）』とは対象を破壊するだけでなく、自分という『個』を維持するために必要な、物理的な『境界線の構築』である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "spiracle",
+		"word": "Spiracle",
+		"part_of_speech": "noun",
+		"meaning": "気門（きもん）、噴水孔、呼吸孔",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "spirare",
+					"type": "root",
+					"meaning": "to breathe (呼吸する)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin spiraculum, from spirare 'breathe'."
+		},
+		"core_concept": {
+			"en": "An external respiratory opening, especially an opening for inhalation which is found on each side of the head of certain fish, such as sharks and skates, or along the body of insects",
+			"ja": "身体の表面に点在し、世界という巨大な風（spirit）を直接体内に取り込むための『魂の入口』。隠された、しかし生命維持のために最も重要な、沈黙の『窓』"
+		},
+		"thinking_layer": "『呼吸の（小さな）場所』。インスピレーション（Inspiration/息を吹き込む）、スピリット（Spirit/魂＝息）、レスピレーション（Respiration/再びの呼吸）と同根。語源は「呼吸」。肺のような中心機関を持たず、皮膚のいたるところで世界と「連結（connectivity）」している状態。それは、自意識という名の「壁」に空けられた、無数の微かな「風通しの穴」。 ",
+		"aftertaste": "水槽の中で「噴水孔（spiracle）」を規則正しく開閉させ、水中の目に見えない酸素を生命の熱へと変えているサメの横顔に、ある種の「禅（Zen）」のような澄み切った集中を見出す、あの冷たくて静かな畏怖。あるいは、自分の日常に空いた「退屈という名の気門（spiracle of boredom）」から、かろうじて「物語」という名の細い酸素を吸い込んで生き延びている自分に気づく、あの孤独な肯定。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "peis-",
+					"meaning": "to blow (forming spirare?)"
+				}
+			],
+			"points": [
+				"conspire, expire, aspire, suspire 同根。",
+				"『呼吸（breathing）』とは、内なる自分と外なる世界との間で絶え間なく行われる『交換（exchange）』の儀式であり、スピラクル（spiracle）はその儀式が身体のあらゆる場所（distributing）で偏在していることの証明である。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
