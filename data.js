@@ -260109,5 +260109,176 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "mandrake",
+		"word": "Mandrake",
+		"part_of_speech": "noun",
+		"meaning": "マンドレイク、マンドラゴラ",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "mandragora",
+					"type": "root",
+					"meaning": "mandrake (マンドレイク)",
+					"lang": "Latin/Greek"
+				}
+			],
+			"original_statement": "From Latin mandragora, from Greek mandragoras."
+		},
+		"core_concept": {
+			"en": "A Mediterranean plant of the nightshade family, with a forked fleshy root that supposedly resembles the human form and was formerly used in magic and medicine",
+			"ja": "人の姿に似た『二股の根（human-like root）』を持ち、引き抜く時に放たれる悲鳴を聞いた者は死ぬという、伝説と現実の境界に咲く『呪われた植物』。生と死、創造と破壊が不気味に同居する、大地の深い眠り"
+		},
+		"thinking_layer": "『マンドラゴラ』。その語源は謎に包まれていますが、一説には「獣の眠り」や「害を及ぼすもの」とも。ただの植物ではなく、そこには人間に似た「意志」と、死に直面した時の強烈な「拒絶（scream）」が宿っています。それは無意識の中に眠る、普段は見ることのできない「自分自身の分身」、あるいは、秘密の知識を得るための代償としての「狂気」。",
+		"aftertaste": "月明かりの下で、この「人面根（mandrake）」を慎重に掘り起こし、その泥にまみれた歪（いびつ）な姿を直視してしまった時の、鏡を覗き込んだような不気味な親密感。あるいは、自分の成功という名のマンドレイクを引き抜くために、誰かの犠牲（sacrifice）を強いてしまったと気づいた瞬間の、肺を満たす無音の悲鳴。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ナス科（nightshade family）特有のアルカロイドを含み、実際に強力な幻覚や麻痺を引き起こす科学的実体を持つ。",
+				"『根（root）』が人間の姿に擬されるのは、人間もまた大地から生じ、死ねば大地へと還るという、根源的な『帰属性（belonging）』の裏返した表現である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "rafflesia",
+		"word": "Rafflesia",
+		"part_of_speech": "noun",
+		"meaning": "ラフレシア、世界最大級の花",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "Raffles",
+					"type": "root",
+					"meaning": "Stamford Raffles (ラッフルズ卿、シンガポールの創設者)",
+					"lang": "English"
+				}
+			],
+			"original_statement": "Named after Sir Stamford Raffles, who led the expedition that discovered the plant in 1818."
+		},
+		"core_concept": {
+			"en": "A parasitic plant that consists of a gigantic flower but lacks roots, stems, or leaves, found in Southeast Asia",
+			"ja": "根も茎も葉も持たず、栄養のすべてを他者に依存（parasitize）しながら、死肉の臭い（rotting flesh）を放って巨大な真紅の輪を咲かせる、ジャングルの『美しい怪物』。寄生と巨大化の極致"
+		},
+		"thinking_layer": "『ラッフルズの（花）』。発見者の名に由来。ただの「大きい花」ではなく、そこには「寄生（parasitism）」と「死の肯定」が含まれます。葉緑体を持たず、他者の血肉（sap）を啜（すす）って咲く紅い太陽。それは、まばゆい文化の裏側に潜む「収奪」の歴史、あるいは、自力では何一つ生み出せない自分の内なる「虚飾（vanity）」のメタファー。",
+		"aftertaste": "ジャングルの奥深く、腐葉土の中から突如として現れた「巨大な肉の花（rafflesia）」の、あの噎（む）せ返るような死臭と、神々しいまでの鮮やかさに圧倒される、美意識の極端な揺らぎ（fluctuation）。あるいは、自分が誰かの才能に「寄生（parasitizing）」して、何食わぬ顔で自分だけの花を咲かせているのではないかという、終わりのない疑惑。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"花弁が1メートルを超えることもある、植物界の『例外（exception）』中の例外。",
+				"『花（flower）』とは本来受粉のための『誘惑（attraction）』の装置だが、それが『腐敗（decay）』と結びついた時、生（life）と死（death）は一つの『環（circle）』として完成する。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "hellebore",
+		"word": "Hellebore",
+		"part_of_speech": "noun",
+		"meaning": "ヘレボルス、クリスマスローズ、毒草",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "elein",
+					"type": "root",
+					"meaning": "to injure (傷つける、殺す)",
+					"lang": "Greek"
+				},
+				{
+					"text": "bora",
+					"type": "root",
+					"meaning": "food (食べ物)",
+					"lang": "Greek"
+				}
+			],
+			"original_statement": "From Greek helleboros, from elein 'to injure' + bora 'food'."
+		},
+		"core_concept": {
+			"en": "A poisonous herbaceous plant of the buttercup family, which has large white, pink, or purple flowers and is often used as an ornamental",
+			"ja": "冬の冷たい大地の沈黙を破り、うつむき加減に咲く『殺傷する食べ物（injurious food）』。その清楚な美しさの裏に、心臓を麻痺させるほどの猛毒を秘めた、冬の『凍てつく殺意』"
+		},
+		"thinking_layer": "『殺す食べ物』。語源の「Elein（傷つける）」はギリシャのヘレ（Helle/黄金の羊から落ちた少女）の伝説とも響き合います。ただの「花」ではなく、そこに「裏切り（betrayal）」の美学があります。冬の希望のように見えて、実は死へと誘（いざな）う罠。それは、甘い言葉で近づき、知らぬ間に相手の心を蝕（むしば）んでゆく、知的な「毒（poison）」。",
+		"aftertaste": "雪の中から顔を出した「ヘレボルス（hellebore）」の可憐な花びらに触れつつ、それが自分の命を奪い去るほどの「毒（lethality）」を宿していると知っている時の、あの禁じられた愛撫のような背徳感。あるいは、自分の優しさが、結果として誰かを「傷つける食べ物（injure food）」になってしまったと気づいた時の、冬の朝のような冷えた後悔。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "gwer-",
+					"meaning": "to swallow (forming bora/food)"
+				}
+			],
+			"points": [
+				"carnivore（食肉動物）, herbivore（草食動物）, greed 同根の説あり。",
+				"『食（eating）』とは生命を『更新（renewing）』する行為だが、そこに『害（injury）』が混入した時、それは命そのものを否定する『アンチ・ライフ』の象徴となる。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "aconite",
+		"word": "Aconite",
+		"part_of_speech": "noun",
+		"meaning": "トリカブト、アコニット、猛毒の植物",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "akone",
+					"type": "root",
+					"meaning": "whetstone (砥石)",
+					"lang": "Greek"
+				}
+			],
+			"original_statement": "From Greek akoniton, perhaps from akone 'whetstone' (from growing on sharp rocks)."
+		},
+		"core_concept": {
+			"en": "A poisonous plant of the buttercup family with hooded blue or purple flowers",
+			"ja": "『研ぎ澄まされた石（whetstone）』のような鋭い岩場に咲き、地獄の番犬ケルベロスの淀（よだ）れから生まれたという、呼吸を止める『絶対零度の毒』。神々に捧げるための、最も峻烈で最も不吉な『死の冠』"
+		},
+		"thinking_layer": "『砥石の（岩に咲く）もの』。ただの「草」ではなく、そこに「鋭利な殺意（sharp lethality）」が宿っています。紫色の「兜（helmet）」を被ったような花は、まるで戦場に立つ沈黙の兵士。アコニットの毒は、意識を保ったまま全身を冷たく麻痺させてゆきます。それは、冷酷なまでに完璧な論理、あるいは、有無を言わせぬ絶対的な「拒絶（rejection）」。",
+		"aftertaste": "美しい紫色の「トリカブト（aconite）」の花びらを手に取り、そこに宿るケルベロスの記憶を思い起こす時の、あの足元から這い上がってくるような死への魅惑。あるいは、自分の冷徹な一言が「アコニットの毒（aconite poison）」のように相手の呼吸を奪ってしまった瞬間の、あの世界のすべての色が消え去ったような、真っ白な沈黙。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ak-",
+					"meaning": "sharp"
+				}
+			],
+			"points": [
+				"acid, acute, acupuncture, eager, edge 同根。",
+				"『鋭さ（sharpness）』とは本来は知的で機能的な属性だが、それが生物学的（biological）な毒に変容した時、それは世界の均衡を破る『不均衡な死』の源となる。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "datura",
+		"word": "Datura",
+		"part_of_speech": "noun",
+		"meaning": "ダチュラ、チョウセンアサガオ、狂乱を引き起こす植物",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "dhatura",
+					"type": "root",
+					"meaning": "thorn-apple, datura (トゲのあるリンゴ)",
+					"lang": "Sanskrit"
+				}
+			],
+			"original_statement": "From Hindi dhatūrā, from Sanskrit dhattūra."
+		},
+		"core_concept": {
+			"en": "A shrubby plant with large trumpet-shaped flowers and prickly fruits, containing alkaloids that cause disorientation and hallucinations",
+			"ja": "夕闇に白いラッパのような花を咲かせ、理性の檻を打ち破って人を『狂乱（madness）』と『忘我（ecstasy）』へと誘う、禁断の鍵。トゲだらけの実（prickly fruit）に隠された、魂を溶解（melting）させる猛毒"
+		},
+		"thinking_layer": "『トゲのあるリンゴ』。サンスクリット語由来。ただの「毒草」ではなく、そこに「異界への招待（invitation to the other side）」が含まれます。ダチュラの毒を吸った者は、現実と夢の境界を見失い、自分ではない何者かへと変容します。それは、あまりにも強すぎるインスピレーション、あるいは、一度踏み入れたら二度と戻れない「真実の狂気」。",
+		"aftertaste": "月明かりの中で咲き誇る「ダチュラ（datura）」の白い花から漂う、あの甘く退廃的な香りに酔いしれ、自分が自分であることを辞めてしまいたくなる、あの危険な「蒸発（evaporation）」の予感。あるいは、一時の熱病（fever）のような愛に溺れ、気づいた時には人生のすべてが「トゲのある実（prickly fruit）」のようにボロボロになっていた時の、あの乾いた虚無。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"別名『ジムソンウィッグ（Jamestown weed）』とも呼ばれ、初期のアメリカ入植地での大規模な中毒事件が有名。",
+				"『美（beauty）』と『狂信（fanaticism）』は常に背中合わせであり、ダチュラはその境界線上で、最も無防備で、最も危険な姿を晒している。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
