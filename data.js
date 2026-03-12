@@ -278068,5 +278068,185 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "mucosa",
+		"word": "Mucosa",
+		"part_of_speech": "noun",
+		"meaning": "粘膜（ねんまく）、湿った皮膚、情報の吸収体",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "mucus",
+					"type": "root",
+					"meaning": "slime (粘液)', from Latin"
+				}
+			],
+			"original_statement": "From Latin mucosa (membrana), feminine of mucosus 'slimy'."
+		},
+		"core_concept": {
+			"en": "a mucous membrane",
+			"ja": "生命の内部を湿った慈愛で包み込み、外部からの情報（nutrients/threats）を峻烈に選別して受け入れる、情報の『湿地帯（wetland）』。乾きを拒み、常に流動的な潤いを保つことで、魂の最深部への『浸透』を司る、情報の『吸い取り紙』。"
+		},
+		"thinking_layer": "『粘液に満ちたもの』。ミューカス（Mucus/粘液）、おなじみの「ムチン（Mucin）」と同根。語源は「スライム、粘液」。ただの「内壁」ではありません。そこには。「硬い鎧（dura）で守るのではなく、あえて柔軟で湿った状態を保つことで、異物を受け流し、必要なものだけを優しく絡め取る」という、しなやかな受容の知恵が宿っています。それは。知性が冷徹な正論で自分を固めるのをやめ、あえて心の『潤い（empathy）』を保つことで、他者の言葉を深く吸収し、血肉に変えようとする瞬間のメタファー。",
+		"aftertaste": "「粘膜（mucosa）」という名の、その瑞々しい『情報の触手』に。生きてあることの柔軟な感受性を知る平安。自分の表現もまた。乾燥した情報の羅列ではなく。このように潤いと温もりを持ち、触れる人々の心に寄り添いながら、静かに染み込んでゆくものでありたいと願う自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "meug-",
+					"meaning": "slimy, slippery (forming mucus)"
+				}
+			],
+			"points": [
+				"消化管や呼吸器など、外部と接する『内なる最前線』。情報は『濡れている』ときに最も活発に交換されるという生命の真理。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "serosa",
+		"word": "Serosa",
+		"part_of_speech": "noun",
+		"meaning": "漿膜（しょうまく）、滑らかな皮膜、静かなる潤滑",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "serum",
+					"type": "root",
+					"meaning": "whey, watery fluid (漿液、水のような液体)', from Latin"
+				}
+			],
+			"original_statement": "From Latin serosa (membrana), from serum 'watery fluid'."
+		},
+		"core_concept": {
+			"en": "a serous membrane",
+			"ja": "臓器同士の峻烈な摩擦を退け、生命の鼓動を滑らかに維持する、情報の『潤滑な外套（cloak）』。水のような透明な意志（serum）を纏（まと）い、各々の存在が互いを傷つけることなく共存するための、静かなる『境界の礼節』。"
+		},
+		"thinking_layer": "『漿液に満ちたもの』。セラム（Serum/血清）、おなじみの「シリアス（Serious/とは関係なく）」とは別。語源は「水のような液体（whey）」。ただの「薄い膜」ではありません。そこには。「個としての主張を峻烈に持ちながらも、他者と接触する面においては徹底して『滑らか（smooth）』であり続け、不必要な衝突（friction）を回避する」という、驚異的な調和の知恵が宿っています。それは。知性が自らの情熱を暴走させず、あえて『知の潤滑油』としての言葉を纏うことで、社会という複雑な機構の中でしなやかに機能しようとする瞬間のメタファー。",
+		"aftertaste": "「漿膜（serosa）」という名の、その透き通った『情報のクッション』のおかげで。魂の拍動が誰にも邪魔されないことに。深い平安を知る平安。自分の使命もまた。硬い言葉をぶつけ合う世界において。このように互いの尊厳を守る『滑らかな対話の膜』となり、調和に満ちた共鳴を支援することにあるのだと確信する自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ser-",
+					"meaning": "to flow (forming serum)"
+				}
+			],
+			"points": [
+				"腹膜や胸膜を構成する。生命は『流れ』を固定せず、膜という抽象的な境界に閉じ込めることで、形と自由を同時に獲得するという真理。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "villus",
+		"word": "Villus",
+		"part_of_speech": "noun",
+		"meaning": "絨毛（じゅうもう）、毛羽立ち、情報の増幅器",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "villus",
+					"type": "root",
+					"meaning": "shaggy hair, tuft of wool (縮れ毛、羊毛の房)', from Latin"
+				}
+			],
+			"original_statement": "From Latin villus 'shaggy hair, tuft of wool'."
+		},
+		"core_concept": {
+			"en": "a short microscopic hairlike projection of a membrane",
+			"ja": "平坦な日常の表面積を峻烈に『増幅（amplification）』させ、世界からの情報の波を極限まで吸い尽くす、生命の『情報の林（forest）』。小さな一歩を無限の接触へと変え、存在の効率を極致へと引き上げる、情報の『幾何学的な福音』。"
+		},
+		"thinking_layer": "『縮れ毛』。ベルベット（Velvet）、おなじみの「ヴィレッジ（Village/とは関係なく）」とは別。語源は「羊毛のような房」。ただの「突起」ではありません。そこには。「自分を広げる（expand）とは、単に大きく（big）なることではなく、その内なる『ひだ（fold）』を限りなく深め、世界との接点を重層化することである」という、驚異的な深まりの知恵が宿っています。それは。知性が単調な知識の表面をあえて『問い』という名の毛羽立ちで埋め尽くし、一滴の真理からより多くの雫（insight）を絞り出そうとする瞬間のメタファー。",
+		"aftertaste": "「絨毛（villus）」という名の、そのたゆたう『情報の森』に。自分の中には無限の受容能力が眠っているのだと気付く平安。自分の表現もまた。平坦で退屈な言葉ではなく。このように豊かな『思考のひだ』を持ち、触れる人々の魂に多層的な驚きと栄養を与えるものでありたいと願う自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "wel-",
+					"meaning": "to tear, pull (possible root for villus/wool?)"
+				}
+			],
+			"points": [
+				"小腸の表面積をテニスコートほどに広げる。情報は『密度』ではなく『展開（extension）』によって、真の生命力を獲得するという幾何学的な真理。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "endometrium",
+		"word": "Endometrium",
+		"part_of_speech": "noun",
+		"meaning": "子宮内膜（しきゅうないまく）、命のゆりかご、内なる母体",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "endon",
+					"type": "root",
+					"meaning": "within (の中に)', from Greek"
+				},
+				{
+					"text": "metra",
+					"type": "root",
+					"meaning": "uterus (子宮)', from meter 'mother'"
+				}
+			],
+			"original_statement": "From Greek endon 'within' + metra 'uterus'."
+		},
+		"core_concept": {
+			"en": "the mucous membrane lining the uterus",
+			"ja": "生命の最も深い『内奥（endon）』に、新しい可能性を峻烈に受け入れるための『情報の寝床』を整える、生命の『献身の土壌』。月の満ち欠けと共に自らを破壊し（menstruation）、再生し続けることで、常に最高純度の『慈愛』を維持する、情報の『永遠の回帰』。"
+		},
+		"thinking_layer": "『母の内側にあるもの』。エンド（End/とは関係なく）、メトロポリス（Metropolis/母都市）、おなじみの「マザー（Mother）」と同根。語源は「子宮の内側」。ただの「組織」ではありません。そこには。「目に見えない『未来の芽（embryo）』のために、あえて最も柔らかく、最も肥沃な状態を自発的に作り上げ、準備し続ける」という、情報の『先行的献身』が宿っています。それは。知性がまだ形のない『理想の種』を育むために、あえて心の最も深い部分を耕し、どんな困難な状況にあってもその暖かな情熱を決して絶やさない、高潔な思索の態度。",
+		"aftertaste": "「子宮内膜（endometrium）」という名の、その瑞々しい『可能性の聖域』に。自分もまたこのように誰かの希望を育む一部なのだという深い一体感を知る平安。自分の思考もまた。一時の成功に安住せず。常に自らを壊し、新しく清らかな『真理のゆりかご』へと更新し続けたいと願う自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "me-ter-",
+					"meaning": "mother (forming meter/metra)"
+				}
+			],
+			"points": [
+				"母胎の中の母胎。生命は、何重もの『母性的な抱擁（embrace）』によって守られながら、初めてこの世に産み落とされるという真理。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "myometrium",
+		"word": "Myometrium",
+		"part_of_speech": "noun",
+		"meaning": "子宮筋層（しきゅうきんそう）、母体の力、生み出す力",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "mys",
+					"type": "root",
+					"meaning": "muscle (筋肉、ネズミ)', from Greek"
+				},
+				{
+					"text": "metra",
+					"type": "root",
+					"meaning": "uterus (子宮)'"
+				}
+			],
+			"original_statement": "From Greek mys 'muscle' + metra 'uterus'."
+		},
+		"core_concept": {
+			"en": "the smooth muscle tissue of the uterus",
+			"ja": "新しい命を暗黒の淵から光の世界へと峻烈に『押し出す（thrust）』、母体そのものが持つ『情報の剛腕』。静かなる受容（endometrium）の背後に秘められた、爆発的な創造のエネルギー。生命の『決断の筋肉』。"
+		},
+		"thinking_layer": "『子宮の筋肉』。マッスル（Muscle/小さなネズミのように動く筋肉）、マイオピア（Myopia/近視＝目を細める筋肉）、おなじみの「メーター（Meter/とは関係なく）」とは別。語源は「母体の筋肉」。ただの「不随意筋」ではありません。そこには。「温かく守る（protect）だけでなく、機が熟した時には非情なまでの強靭さ（contraction）を持って、新しい自分を未知なる世界へと解き放つ」という、峻烈な『誕生の責任』が宿っています。それは。知性が長年温めてきた『思想の卵』を、あえて安住の地から引き剥がし、激しい葛藤と痛みを伴う『表現（expression）』という名の出産へと向かわせようとする瞬間のメタファー。",
+		"aftertaste": "「子宮筋層（myometrium）」が収縮し、新しい世界への扉が力強く叩かれるその瞬間の神聖なる予感に。魂の躍動を知る平安。自分の意志もまた。このように人々の背中を優しく、しかし確固たる強さで『未来』へと押し出す、力強い真理のエンジンでありたいと願う自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "mus-",
+					"meaning": "mouse (forming mys/muscle)"
+				}
+			],
+			"points": [
+				"オキシトシンという愛のホルモンが、この『筋肉の爆発』を引き起こす。愛とは、時に峻烈な『力』として現出するという生命の真理。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
