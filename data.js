@@ -266877,5 +266877,187 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "freshet",
+		"word": "Freshet",
+		"part_of_speech": "noun",
+		"meaning": "増水、淡水の流入、（特に春の）雪解けによる増水",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "fresh",
+					"type": "root",
+					"meaning": "new, recent (新しい、新鮮な)",
+					"lang": "English"
+				},
+				{
+					"text": "-et",
+					"type": "suffix",
+					"meaning": "small (小さい)",
+					"lang": "French origin"
+				}
+			],
+			"original_statement": "From fresh + -et."
+		},
+		"core_concept": {
+			"en": "A flood of a river from heavy rain or melted snow; an inflow of fresh water into the sea",
+			"ja": "冬の沈黙を破り、雪解け水（melted snow）が一気に流れ出すことで生まれる、春の『溢（あふ）れんばかりの輝き』。大地の渇きを癒やし、すべてを新しい命へと押し流す、峻烈な『淡水の奔流』"
+		},
+		"thinking_layer": "『新鮮な小さな流れ』。フレッシュ（Fresh）、フランス語の「〜エット（小さい）」と同根。語源は「新鮮なこと」。ただの「洪水（flood）」ではありません。そこには。寒冷な季節を経て蓄えられたエネルギーが、光と共に解放される（releasing）という、祝祭的なニュアンスが宿っています。それは。溜め込まれていたアイディアが、ある瞬間に一気に溢れ出し、世界を塗り替えてゆく知性の「萌芽（sprouting）」。 ",
+		"aftertaste": "濁流（muddy stream）となりながらも、どこか清々しい冷たさを湛（たた）えた「フレシェット（freshet）」の轟音（roar）を聴き、停滞していた自分の人生が、再び力強い「リズム（rhythm）」を取り戻したことを確信する、あの知的な高揚。あるいは、あまりにも急激な「変化の奔流」に足元を掬（すく）われそうになりながら、その激しさこそが「生（life）」の証なのだと悟る、あの深夜の自己肯定。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"fresh, refresh 同根。",
+				"『新鮮（fresh）』であることは、過去の蓄積（accumulation）を一度すべて洗い流す（washing away）ことでもある。フレシェット（freshet）という現象は、自然界がいかにして自らを自己更新（self-renewing）させているかを示す、ダイナミックな儀式である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "reach",
+		"word": "Reach",
+		"part_of_speech": "noun",
+		"meaning": "（川の）一直線の区域、河身、広がり、範囲",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "recan",
+					"type": "root",
+					"meaning": "to stretch out, extend (伸ばす、広げる)",
+					"lang": "Old English"
+				}
+			],
+			"original_statement": "From Old English ræcan 'stretch out'."
+		},
+		"core_concept": {
+			"en": "A continuous extent of a river between two bends; an extent of land or water",
+			"ja": "川の蛇行（bend）と蛇行の間に横たわる、鏡のように静止した『一直線の静寂（stillness）』。流れが自らの勢いを一度静め、広大な平原へと自らを『広げ（stretching）』、風景と一体化する場所"
+		},
+		"thinking_layer": "『広げること』。リーチ（Reach/届く）、リッチ（Rich/おそらくな）と同根。語源は「伸ばす」。川において、曲がり角がない長い直線区間のこと。そこでは水は深く、静かに流れます。それは。奔放な情熱（passion）が、広い「知性（intellect）」の器に注がれ、最も穏やかで、かつ最もパワフルな状態に達した瞬間のメタファー。",
+		"aftertaste": "どこまでも続く真っ直ぐな川の「河身（reach）」を小舟で進み、空と大地が溶け合うような「圧倒的な水平線」に身を委ね、自分の思考もまたこの「リーチ（reach）」のように、どこまでも遠くへ、そして深く広がってゆけるのだと確信する、あの知的な平安。あるいは、自分の手が届く「範囲（reach）」の小ささを自覚しつつ、それでもその先にある「曲がり角（bend）」を夢見て漕ぎ続ける、あの静かな午後の自負。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "reg-",
+					"meaning": "to move in a straight line, lead, rule (forming recan)"
+				}
+			],
+			"points": [
+				"right, direct, rectify, region, royal, rich 同根。",
+				"『一直線（straight）』であることは、最短距離での到達（arrival）を意味するが、河身（reach）という場所においては、それはむしろ『流れることの忘却』、すなわち現在地への完全なる埋没を意味する。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "runnel",
+		"word": "Runnel",
+		"part_of_speech": "noun",
+		"meaning": "小川、細流、溝、樋（とい）",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "rinnan",
+					"type": "root",
+					"meaning": "to run (走る、流れる)",
+					"lang": "Old English"
+				}
+			],
+			"original_statement": "From Old English rinnelle, from rinnan 'run'."
+		},
+		"core_concept": {
+			"en": "A small stream or rill; a gutter",
+			"ja": "岩の隙間や、舗装（pavement）の端を、銀の糸のように『走り抜ける（running）』極小の流れ。無視されるほどに細く、しかし冷徹なまでの意志を持って、常に低い場所（low places）を目指し続ける『流動の最小単位』"
+		},
+		"thinking_layer": "『走るもの』。ラン（Run）、ランナー（Runner）、おなじみの「ラン（走）」と同根。語源は「走ること」。ただの「小川（stream）」ではありません。そこには。「狭い場所を勢いよく抜けてゆく」という、鋭利なニュアンスが含まれます。それは。巨大な理論（theory）の影で、誰にも気づかれずに育まれている、微細な「直感の筋（streak of intuition）」。 ",
+		"aftertaste": "夕立のあとの路上の「細流（runnel）」を眺め、それがどんなに小さな障害物（obstacle）も優雅に回避しつつ、最後には大きな海へと繋がる「一本の意志」であることに深い共感を覚える、あの知的な充足。あるいは、自分の思考が、この「ランネル（runnel）」のように散漫（scattered）でありながら、どこか一点の「深淵」に向かって集束していることを信じる、あの静かな夜。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "rei-",
+					"meaning": "to run, flow (forming rinnan)"
+				}
+			],
+			"points": [
+				"run, river, rivule 同根。",
+				"『走る（running）』ことは、空間を克服（overcoming）することである。ランネル（runnel）という微小な流れは、生命がいかに極小の回路を通じて、巨大な循環（circulation）に参加しているかを示す、大地の毛細血管である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "rill",
+		"word": "Rill",
+		"part_of_speech": "noun",
+		"meaning": "小川、せせらぎ、溝、月面の細条",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "rithe",
+					"type": "root",
+					"meaning": "stream (小川)",
+					"lang": "Old English?"
+				},
+				{
+					"text": "ril",
+					"type": "root",
+					"meaning": "rill (小川)",
+					"lang": "Dutch/Low German"
+				}
+			],
+			"original_statement": "Probably of Germanic origin; related to Low German rille 'small channel'."
+		},
+		"core_concept": {
+			"en": "A very small stream; a shallow channel cut in the ground by running water",
+			"ja": "大地の肌を撫（な）でるように流れる、浅く繊細な『せせらぎ（stream）』。形を持たぬ水が、自らの重みだけで土を削り、世界に刻み込んだ、最も純粋でミニマルな『回路』"
+		},
+		"thinking_layer": "『小さな溝』。ライル（Ryle）、おなじみ「リト（小川）」と同根の説あり。語源は「小さなチャンネル」。ただの「溝」ではありません。月面のクレーター付近にある、あの「細条（rill）」と同じ名前。それは。物質が流れることでしか作れない、不可逆（irreversible）な「記憶の線」。知性が自らの痕跡を、世界というキャンバスに静かに刻み込んでゆくプロセスのメタファー。",
+		"aftertaste": "「せせらぎ（rill）」のかすかな音に耳を澄ませ、そこに含まれる「永劫の繰り返し（eternal recurrence）」の安らぎを感じ、自分の焦燥がいかに些細（trivial）なものであるかを悟る、あの知的な平安。あるいは、自分の言葉が、この「リル（rill）」のように浅く、しかし透明な美しさを湛（たた）えて、誰かの心という大地を優しく削り続けてゆくことを願う、あの静かな午後の自尊心。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"rill は、天文学（astronomy）においては月面の裂け目を指す。この『地球の流動』と『宇宙の静止』が、同じ言葉（rill）で結ばれているという事実に、言葉の持つ壮大な架け橋（bridge）の力を感じる。",
+				"『溝（channel）』とは制限（restriction）だが、その制限こそが、水に『音（sound）』と『方向（direction）』を与える。リル（rill）は、制約が生む美しさを象徴している。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "beck",
+		"word": "Beck",
+		"part_of_speech": "noun",
+		"meaning": "小川、山間のせせらぎ、（特に北イングランドの）川",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "bekkr",
+					"type": "root",
+					"meaning": "stream (小川)",
+					"lang": "Old Norse"
+				}
+			],
+			"original_statement": "From Old Norse bekkr."
+		},
+		"core_concept": {
+			"en": "A mountain stream or small river; especially in Northern England",
+			"ja": "険しい岩場（crags）を飛び跳ね、飛沫（spray）を上げながら駆け下りる、野性的な『山のせせらぎ』。文明の穢（けが）れを知らぬまま、重力のままに自由を謳歌（enjoying）する、峻烈な生命の脈動"
+		},
+		"thinking_layer": "『小川』。バイキング由来の言葉。おなじみの「ベック（名前）」と同根の説あり（場所由来の名前）。語源は「ストリーム」。ただの「川」ではありません。そこには。「岩を噛み、急斜面を流れる」という、強靭で不屈の「北方的（Northern）」な響きが宿っています。それは。困難な状況であればあるほど、より一層の「純粋さ（purity）」と「力強さ」を増してゆく、知性の野性的な輝き。 ",
+		"aftertaste": "冷たい「山のせせらぎ（beck）」の水を両手で掬（すくい）上げ、そのあまりの「鋭利な冷たさ」に、自分の甘えや欺瞞（deception）が一瞬で氷解（thawing）してゆくのを感じる、あの峻烈な浄化。あるいは、自分の思考が、この「ベック（beck）」のように激しく、しかし迷いなく、自らの目指すべき「谷（valley）」へと向かっているのだと確信する、あの静かな夜の自警。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "bhog-",
+					"meaning": "to flow, run (forming bekkr)"
+				}
+			],
+			"points": [
+				"batch? (uncertain), brook 同根の説あり。",
+				"『流れる（flowing）』という普遍的な現象も、ベック（beck）という言葉の響きを通せば、それは北方の峻厳な自然と、人間の闘争（struggle）の記憶を纏（まと）い始める。言葉とは、場所に宿る精霊（spirit）を捕獲するための網である。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
