@@ -285236,5 +285236,1119 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "allusion",
+		"word": "Allusion",
+		"part_of_speech": "noun",
+		"meaning": "示唆、暗示、典拠の引用",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "ad-",
+					"type": "prefix",
+					"meaning": "to"
+				},
+				{
+					"text": "ludere",
+					"type": "root",
+					"meaning": "to play"
+				}
+			],
+			"original_statement": "From Latin alludere 'to play with'."
+		},
+		"core_concept": {
+			"en": "indirect reference",
+			"ja": "情報の水面を峻烈に『撫（play）』で、深淵を呼び覚ます。"
+		},
+		"thinking_layer": "戯れること。直接的な命名を峻烈に拒み、既存の物語（myth/history）の断片を影のように差し挟むことで、意味の多層性を産み出す情報の遊戯。",
+		"aftertaste": "一言の背後に、巨大な歴史が静かに佇んでいるという戦慄。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"collusion, illusion と同根。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "personification",
+		"word": "Personification",
+		"part_of_speech": "noun",
+		"meaning": "擬人化、具現化",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "persona",
+					"type": "root",
+					"meaning": "person, mask"
+				},
+				{
+					"text": "facere",
+					"type": "root",
+					"meaning": "to make"
+				}
+			],
+			"original_statement": "From Latin persona + facere."
+		},
+		"core_concept": {
+			"en": "attribution of human characteristics to something non-human",
+			"ja": "無機質な宇宙に、峻烈な人間の『仮面（mask）』を被せる。"
+		},
+		"thinking_layer": "人にすること。沈黙する自然や概念に、あえて人間のドラマを投影（project）し、感情という名の共鳴（resonance）を無理やり引き出す、情報の強奪的な親密さ。",
+		"aftertaste": "世界全体のざわめきが、自分への囁きに変わる瞬間の目眩。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"persona は古代劇の『仮面』。声を通すもの。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "haiku",
+		"word": "Haiku",
+		"part_of_speech": "noun",
+		"meaning": "俳句",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "haikai",
+					"type": "root",
+					"meaning": "humorous, playful"
+				},
+				{
+					"text": "hokku",
+					"type": "root",
+					"meaning": "starting verse"
+				}
+			],
+			"original_statement": "Coined by Masaoka Shiki."
+		},
+		"core_concept": {
+			"en": "short Japanese poetic form",
+			"ja": "十七の情報の粒子で、全宇宙を峻烈に『切断』する。"
+		},
+		"thinking_layer": "滑稽な発句。無限に広がる沈黙を、五・七・五という峻烈な『型』でトリミングし、季語という名の『時間の特異点』を刻印する、情報の極微な要約。",
+		"aftertaste": "言葉が消えた後に、風景だけが不滅の残像として残る静寂。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"江戸時代の『俳諧の連歌』から、正岡子規によって独立。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "prose",
+		"word": "Prose",
+		"part_of_speech": "noun",
+		"meaning": "散文、散文体",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "pro-",
+					"type": "prefix",
+					"meaning": "forward"
+				},
+				{
+					"text": "vertere",
+					"type": "root",
+					"meaning": "to turn"
+				}
+			],
+			"original_statement": "From Latin prorsa oratio 'straightforward speech'."
+		},
+		"core_concept": {
+			"en": "ordinary written language",
+			"ja": "韻律の旋回を峻烈に拒み、ただ真っ直ぐ（forward）に真理へ進む。"
+		},
+		"thinking_layer": "前へ向くこと。詩という名の『舞踏』を止め、歩行（walking）のごとき平明なリズムによって、対象をありのままに記述しようとする、情報の剥き出しの誠実さ。",
+		"aftertaste": "奇をてらわない言葉の中に宿る、冷徹なまでの説得力。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"verse (韻文) は『曲がり角』を意味する。対照的な概念。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "denouement",
+		"word": "Denouement",
+		"part_of_speech": "noun",
+		"meaning": "（事件の）解決、大詰め、結末",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "de-",
+					"type": "prefix",
+					"meaning": "un-"
+				},
+				{
+					"text": "nouer",
+					"type": "root",
+					"meaning": "to knot"
+				}
+			],
+			"original_statement": "From Old French desnouer 'to untie'."
+		},
+		"core_concept": {
+			"en": "final outcome of a story",
+			"ja": "絡まり合った運命の結び目（knot）を、峻烈に解き放つ。"
+		},
+		"thinking_layer": "結び目を解くこと。カオスとして積み上げられた伏線や葛藤という名の『緊張（tension）』を、最後の一撃で峻烈に弛緩させ、世界の真の姿を晒し出す、情報の崩壊的解決。",
+		"aftertaste": "すべてが腑に落ちた後の、重い溜息と静かな絶望。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"node (節) と同根。情報の複雑さをゼロにする。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "plagiarism",
+		"word": "Plagiarism",
+		"part_of_speech": "noun",
+		"meaning": "盗作、剽窃",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "plagiarius",
+					"type": "root",
+					"meaning": "kidnapper"
+				}
+			],
+			"original_statement": "From Latin plagiarius 'abductor'."
+		},
+		"core_concept": {
+			"en": "stealing someone else's work",
+			"ja": "他者の魂の欠片を、峻烈に『誘拐（kidnap）』し、自己の虚無に飾る。"
+		},
+		"thinking_layer": "誘拐者。正当な血筋（originality）を持つ情報を、その源泉から峻烈に切り離し、自らの所有物であるかのように偽装する、情報の非情な拉致行為。",
+		"aftertaste": "盗んだ光が、自分の暗闇をより深めていくという、耐え難い自己嫌悪。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ローマ時代、奴隷や子供を誘拐する者を指した言葉が転用された。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "footnote",
+		"word": "Footnote",
+		"part_of_speech": "noun",
+		"meaning": "脚注、情報の足跡",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "foot",
+					"type": "root",
+					"meaning": "bottom"
+				},
+				{
+					"text": "note",
+					"type": "root",
+					"meaning": "mark"
+				}
+			],
+			"original_statement": "A note placed at the bottom of a page."
+		},
+		"core_concept": {
+			"en": "explanatory note at the bottom",
+			"ja": "本文の重みを、地底（foot）から峻烈に支える補足の根。"
+		},
+		"thinking_layer": "足のメモ。高雅な物語の影に、冷徹な事実確認や典拠という名の『情報の重石』を置き、世界の客観性を担保しようとする、謙虚にして峻烈な注釈。",
+		"aftertaste": "小さな文字の集積の中に、隠された真実への裏口を見つけた時の予感。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"note, notice と同根。見逃されがちな情報の柱。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "synopsis",
+		"word": "Synopsis",
+		"part_of_speech": "noun",
+		"meaning": "概要、あらすじ",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "sun-",
+					"type": "prefix",
+					"meaning": "together"
+				},
+				{
+					"text": "opsis",
+					"type": "root",
+					"meaning": "view"
+				}
+			],
+			"original_statement": "From Greek synopsis 'a seeing all together'."
+		},
+		"core_concept": {
+			"en": "brief summary",
+			"ja": "散乱した情報の宇宙を、一望（together view）のもとに凝固させる。"
+		},
+		"thinking_layer": "共に観ること。膨大な時間の断片を、峻烈な一瞥（glance）によって把握可能なサイズへと圧縮し、情報の全体の輪郭を浮き彫りにする、知性の統合の魔法。",
+		"aftertaste": "複雑さが消え、骨組みだけが見えた時の、少し冷徹な全能感。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"optics, autopsy と同じ opsis (視覚)。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "preface",
+		"word": "Preface",
+		"part_of_speech": "noun",
+		"meaning": "序文、前書き、前置き",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "prae-",
+					"type": "prefix",
+					"meaning": "before"
+				},
+				{
+					"text": "fari",
+					"type": "root",
+					"meaning": "to speak"
+				}
+			],
+			"original_statement": "From Latin praefatio."
+		},
+		"core_concept": {
+			"en": "introductory statement",
+			"ja": "沈黙を破り、情報の城門を峻烈に『語り（speak）』開く。"
+		},
+		"thinking_layer": "前に話すこと。本編という名の聖域へ入る前に、作者が自らの意図と覚悟を独白（monologue）し、読者の脳を特定の周波数へと調律するための、情報の儀式。",
+		"aftertaste": "これから始まる巨大な旅への、静かな確信と予感。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"fable, fate と同じ fari (話す)。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "foreword",
+		"word": "Foreword",
+		"part_of_speech": "noun",
+		"meaning": "前書き、巻頭言（他者による）",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "fore-",
+					"type": "prefix",
+					"meaning": "before"
+				},
+				{
+					"text": "word",
+					"type": "root",
+					"meaning": "word"
+				}
+			],
+			"original_statement": "Loan-translation of German Vorwort."
+		},
+		"core_concept": {
+			"en": "introductory remarks by person other than author",
+			"ja": "名もなき先駆者が、物語の入り口へ置いた情報の『標石』。"
+		},
+		"thinking_layer": "前の言葉。作者自身ではなく、他者の視座によって情報の価値を峻烈に予言し、読者を迷宮へと優しく、あるいは残酷に突き落とす、外部からの情報の招き。",
+		"aftertaste": "信頼する誰かの声に導かれ、新しい世界へ足を踏み入れる安堵。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"preface は作者、foreword は推薦者によることが多い。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "rhyme",
+		"word": "Rhyme",
+		"part_of_speech": "noun",
+		"meaning": "韻、押韻、情報の共鳴",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "rhythmos",
+					"type": "root",
+					"meaning": "measured motion"
+				}
+			],
+			"original_statement": "From Old French rime."
+		},
+		"core_concept": {
+			"en": "repetition of similar sounds",
+			"ja": "音の末尾で、情報の粒子が峻烈に『再会』する。"
+		},
+		"thinking_layer": "リズムの連なり。言葉の終端で同じ響きを峻烈に反復させることで、意味を超えた音楽的な『必然性』を構築し、記憶の最深部を情報のフックで釣り上げる。",
+		"aftertaste": "不意の共鳴が、バラバラな意味を一つの真理へと結びつける瞬間の震え。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"rhythm と語源を共有。音の秩序。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "meter",
+		"word": "Meter",
+		"part_of_speech": "noun",
+		"meaning": "韻律、拍子、情報の尺度",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "metron",
+					"type": "root",
+					"meaning": "measure"
+				}
+			],
+			"original_statement": "From Greek metron."
+		},
+		"core_concept": {
+			"en": "rhythm of a poem",
+			"ja": "カオスな声を、峻烈な『数学的拍動』で支配する。"
+		},
+		"thinking_layer": "尺度。呼吸と感情の揺らぎを峻烈に拒み、一定のパルス（pulse）によって物語を裁断し、言葉の一つ一つに情報の重み（weight）を強制的に授ける知性の暴力的なまでの秩序。",
+		"aftertaste": "脈打つようなリズムに身を委ね、思考が純粋な波動へと変わる快感。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"geometry, metronome と同根。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "trope",
+		"word": "Trope",
+		"part_of_speech": "noun",
+		"meaning": "比喩、修辞、転義、情報の軌道変化",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "trepein",
+					"type": "root",
+					"meaning": "to turn"
+				}
+			],
+			"original_statement": "From Greek tropos 'a turn'."
+		},
+		"core_concept": {
+			"en": "figurative use of a word",
+			"ja": "言葉の直進を峻烈に歪め、予期せぬ意味へと『旋回（turn）』させる。"
+		},
+		"thinking_layer": "回転。文字通りの意味（literal）という名の退屈な直線を、峻烈な想像力の重力で曲げ、全く別の概念を指し示すことで、情報の宇宙に新しい奥行きを産み出す。",
+		"aftertaste": "見慣れた言葉が、急に別の顔をして自分を見つめ返してくる時の震撼。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"tropic, entropy と同根。変化の方向。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "theme",
+		"word": "Theme",
+		"part_of_speech": "noun",
+		"meaning": "主題、テーマ、情報の基底層",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "tithenai",
+					"type": "root",
+					"meaning": "to put, place"
+				}
+			],
+			"original_statement": "From Greek thema 'proposition'."
+		},
+		"core_concept": {
+			"en": "main idea or underlying meaning",
+			"ja": "カオスの底に、峻烈に置かれた（place）不動の情報の碇。"
+		},
+		"thinking_layer": "置かれたもの。無数の出来事や言葉の背後に、作者が峻烈に配置した『究極の問い』。それは全情報の奔流に、共通の色と意味を授ける目に見えない重力中心。",
+		"aftertaste": "物語を読み解くほどに、足元にある巨大な土台の存在に気づく畏怖。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"thesis, hypothesis と同根。思考を置く場所。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "plot",
+		"word": "Plot",
+		"part_of_speech": "noun",
+		"meaning": "筋、構想、たくらみ、情報の敷地",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "plot",
+					"type": "root",
+					"meaning": "small piece of ground"
+				}
+			],
+			"original_statement": "From Old English plot 'small piece of land'."
+		},
+		"core_concept": {
+			"en": "sequence of events",
+			"ja": "時間の荒野に峻烈に線を惹き、運命の『領域（ground）』を確定する。"
+		},
+		"thinking_layer": "小さな土地。断片的な出来事を、ある意図（design）のもとに峻烈に接続し、因果関係という名の『情報の柵』で囲い込むことで、カオスを一つの物語（territory）に変容させる。",
+		"aftertaste": "誰かの冷徹な設計図の上を、自分は歩かされていたのだという戦慄。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"plat (地図) とも関係。空間の設計が時間の設計へ。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "setting",
+		"word": "Setting",
+		"part_of_speech": "noun",
+		"meaning": "設定、背景、舞台、情報の宝石箱",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "settan",
+					"type": "root",
+					"meaning": "to cause to sit, place"
+				}
+			],
+			"original_statement": "From set."
+		},
+		"core_concept": {
+			"en": "time and place of a story",
+			"ja": "物語の魂を座らせ（sit）、情報の光を屈折させる器。"
+		},
+		"thinking_layer": "座らせること。時間と空間という名の背景を峻烈に固定し、そこにドラマという名の宝石を埋め込むための台座。それは世界の『物理法則』を情報の前提として定義する行為。",
+		"aftertaste": "その場所にいるだけで、吸う空気までが意味を帯び始めるという変容。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"jewel setting (宝石の台座) のイメージからの拡張。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "nonfiction",
+		"word": "Nonfiction",
+		"part_of_speech": "noun",
+		"meaning": "ノンフィクション、非虚構",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "non-",
+					"type": "prefix",
+					"meaning": "not"
+				},
+				{
+					"text": "fingere",
+					"type": "root",
+					"meaning": "to form, shape, feign"
+				}
+			],
+			"original_statement": "From non- + fiction."
+		},
+		"core_concept": {
+			"en": "prose writing based on facts",
+			"ja": "形の操作（shape）を峻烈に拒み、剥き出しの真実と対峙する。"
+		},
+		"thinking_layer": "形作られないこと。想像力という名の『甘い嘘』を峻烈に排し、この残酷で豊かな現実そのものを情報の粒子として抽出しようとする、虚無への知的な抵抗。",
+		"aftertaste": "創作よりも奇なり、という現実の圧倒的な質量に打ちのめされる震撼。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"fiction (形作られたもの＝嘘) を否定する形式。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "memoir",
+		"word": "Memoir",
+		"part_of_speech": "noun",
+		"meaning": "回想録、自伝抄、情報の記憶",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "memoria",
+					"type": "root",
+					"meaning": "memory"
+				}
+			],
+			"original_statement": "From Latin memoria."
+		},
+		"core_concept": {
+			"en": "historical account based on personal knowledge",
+			"ja": "摩耗してゆく時間の影から、自己という名の情報の欠片を救い出す。"
+		},
+		"thinking_layer": "記憶すること。客観的な歴史（history）という名の冷淡さを峻烈に拒み、ただ一人の内面から見えた世界の『質感』を、主観的な勇気をもって情報の定着（fixation）とする行為。",
+		"aftertaste": "誰かの最も親密な沈黙を、自分の内側に共有したという密やかな充足。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"memory, memento と同根。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "essay",
+		"word": "Essay",
+		"part_of_speech": "noun",
+		"meaning": "随筆、試み、小論",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "exagium",
+					"type": "root",
+					"meaning": "weighing, a trial"
+				}
+			],
+			"original_statement": "From French essai 'trial, attempt'."
+		},
+		"core_concept": {
+			"en": "short piece of writing on a particular subject",
+			"ja": "結論を急がず、情報の天秤で自らの思考を峻烈に『量る（weigh）』。"
+		},
+		"thinking_layer": "試みること。完全な正解（truth）を提示するのではなく、迷走し、揺らぐ知性のプロセスそのものを、情報の『実験』として白日の下に晒し出す、自由な精神の運動。",
+		"aftertaste": "答えのない問いを、優雅に愛し続けるための知的な作法。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"exam, assay と同根。思考の重さをテストすること。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "treatise",
+		"word": "Treatise",
+		"part_of_speech": "noun",
+		"meaning": "専門的な論述、叙述、情報の処理",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "trahere",
+					"type": "root",
+					"meaning": "to draw, drag"
+				}
+			],
+			"original_statement": "From Old French traitis."
+		},
+		"core_concept": {
+			"en": "written work dealing formally with a subject",
+			"ja": "情報の淵から真理を峻烈に『引き出し（draw）』、論理の型に収める。"
+		},
+		"thinking_layer": "扱うこと（引き出すこと）。断片的な知識を峻烈に整理し、統一された体系（system）へと一歩一歩引きずり出す、忍耐強い知性の労働（processing）。",
+		"aftertaste": "一切の隙のない、堅牢な知識の要塞の前に立つ、清々しい諦念。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"tract, treaty と同根。情報を一定の方向に引っ張ること。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "pamphlet",
+		"word": "Pamphlet",
+		"part_of_speech": "noun",
+		"meaning": "パンフレット、小冊子、情報の飛礫（つぶて）",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "Pamphilus",
+					"type": "root",
+					"meaning": "beloved by all?"
+				}
+			],
+			"original_statement": "From a 12th century Latin poem 'Pamphilus seu de Amore'."
+		},
+		"core_concept": {
+			"en": "small booklet or leaflet",
+			"ja": "広大な情報の海に、峻烈に投じられた一通の『密書』。"
+		},
+		"thinking_layer": "パンフィラスの名から。重厚な書籍という名の『権威』を峻烈に軽蔑し、瞬発力（velocity）と機動性によって真理を民衆の脳へ直接送り込もうとする、情報のゲリラ的な媒体。",
+		"aftertaste": "薄い紙に込められた、あまりに鋭すぎる時代の叫び。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"12世紀の詩のタイトルが、安価な小冊子の代名詞となった。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "brochure",
+		"word": "Brochure",
+		"part_of_speech": "noun",
+		"meaning": "パンフレット、案内書、情報の綴じ込み",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "brocher",
+					"type": "root",
+					"meaning": "to stitch, prick"
+				}
+			],
+			"original_statement": "From French brocher 'to stitch'."
+		},
+		"core_concept": {
+			"en": "informative paper document",
+			"ja": "バラバラな情報を、針（prick）で峻烈に一つに縫い合わせる。"
+		},
+		"thinking_layer": "刺し通すこと。単なる情報の散乱を峻烈に拒み、特定の目的（promotion/info）のために数枚の紙を物理的に繋ぎ止め、一つの完成された誘惑（invitation）へと変容させる。",
+		"aftertaste": "簡潔な美しさの中に、注意を引くための巧妙な罠が仕掛けられている予感。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"brooch (ブローチ) と同根。刺して留めること。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "scroll",
+		"word": "Scroll",
+		"part_of_speech": "noun",
+		"meaning": "巻物、スクロール、情報の螺旋",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "escroe",
+					"type": "root",
+					"meaning": "strip of parchment, scrap"
+				}
+			],
+			"original_statement": "From Old French escroe."
+		},
+		"core_concept": {
+			"en": "roll of parchment or paper",
+			"ja": "時間の連続性を、峻烈な『旋回（spiral）』の中に封印する。"
+		},
+		"thinking_layer": "端切れ。ページの分断という名の『死』を峻烈に拒絶し、果てしなく続く情報の奔流をそのまま物理的な長さとして保持する、古代の情報の生命線。 ",
+		"aftertaste": "終わりなき言葉の連なりを解き明かしてゆく、儀式的なまでの高揚感。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"esquire? (いや違う) escroe は『切れ端』。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "verse",
+		"word": "Verse",
+		"part_of_speech": "noun",
+		"meaning": "詩、韻文、一行、情報の転換",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "vertere",
+					"type": "root",
+					"meaning": "to turn"
+				}
+			],
+			"original_statement": "From Latin versus 'a line of writing, literally a turning'."
+		},
+		"core_concept": {
+			"en": "writing arranged with a metrical rhythm",
+			"ja": "情報の直線が突如として『旋回（turn）』し、律動を産み出す場所。"
+		},
+		"thinking_layer": "曲がり角。散文という名の無限の直進を峻烈に破壊し、一行ごとにあえて立ち止まり、リズムを刻み直す。それは言葉が単なる伝達を超えて、音楽へと脱皮する瞬間の境界線。",
+		"aftertaste": "曲がり角の向こうに、未知の響きが待っているという、震えるような期待。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"convert, version と同じ vertere。耕作の往復運動が情報の形へ。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "couplet",
+		"word": "Couplet",
+		"part_of_speech": "noun",
+		"meaning": "二行連、対の句、情報の二人対談",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "copula",
+					"type": "root",
+					"meaning": "bond, tie"
+				}
+			],
+			"original_statement": "From couple."
+		},
+		"core_concept": {
+			"en": "two lines of verse",
+			"ja": "二つの響きを峻烈に結び（bond）、情報の均衡を一瞬で完成させる。"
+		},
+		"thinking_layer": "繋ぐもの。バラバラな一行では決して到達できない、対立（antithesis）と、その果ての圧倒的な合致を、二行という極微な空間で峻烈に現出させる情報の最小単位の完結。 ",
+		"aftertaste": "短刀を二本、同時に突きつけられたような、逃れ得ぬ論理の切れ味。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"couple, copula と同根。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "quatrain",
+		"word": "Quatrain",
+		"part_of_speech": "noun",
+		"meaning": "四行詩、四行連",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "quattuor",
+					"type": "root",
+					"meaning": "four"
+				}
+			],
+			"original_statement": "From French quatrain."
+		},
+		"core_concept": {
+			"en": "stanza of four lines",
+			"ja": "四つの情報の支柱を峻烈に打ち込み、堅牢な物語の家を建てる。"
+		},
+		"thinking_layer": "四つのもの。起・承・転・結という名の情報のドラマを、四つの行という完璧な幾何学的安定（rectangle）の中に閉じ込め、一つの完成された宇宙を構築する行為。",
+		"aftertaste": "四つの壁に囲まれ、完成された沈黙の中に佇むような安堵。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"quarter, quasi と同じ quattuor (4)。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "iambic",
+		"word": "Iambic",
+		"part_of_speech": "adjective",
+		"meaning": "弱強五歩格の、アイアンブスの、情報の拍動",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "iambos",
+					"type": "root",
+					"meaning": "foot of two syllables"
+				}
+			],
+			"original_statement": "From Greek iambos."
+		},
+		"core_concept": {
+			"en": "metrical foot of one short and one long syllable",
+			"ja": "心臓の鼓動のごとき弱強のリズムで、情報の海を峻烈に歩む。"
+		},
+		"thinking_layer": "（二音節の）足。人間の自然な呼吸リズムを峻烈に詩の中に反映させ、耳に心地よい親密さと、不可逆な前進を同時に産み出す、英語詩の基底となる拍動。",
+		"aftertaste": "自分の心臓が、詩のリズムに飲み込まれ、融合してゆく感覚。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"投げつける（iaptein）ことが語源という説もあり。攻撃的な歩み。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "pentameter",
+		"word": "Pentameter",
+		"part_of_speech": "noun",
+		"meaning": "五歩格、情報の完結",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "penta-",
+					"type": "prefix",
+					"meaning": "five"
+				},
+				{
+					"text": "metron",
+					"type": "root",
+					"meaning": "measure"
+				}
+			],
+			"original_statement": "From Greek pentametros."
+		},
+		"core_concept": {
+			"en": "line of verse consisting of five metrical feet",
+			"ja": "五つの節（feet）という名の峻烈な『定木（measure）』で、真理を裁断する。"
+		},
+		"thinking_layer": "五つの尺度。人間の呼吸が途絶える直前の、最も劇的な長さを峻烈に定義し、高貴なる思考が収まるための『情報の宮殿』を構築するための標準。",
+		"aftertaste": "長すぎず短すぎない、情報の完璧な充足感に満たされる幸福。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"iambic pentameter (弱強五歩格) はシェイクスピアの基本リズム。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "anaphora",
+		"word": "Anaphora",
+		"part_of_speech": "noun",
+		"meaning": "首句反復、情報の回帰",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "ana-",
+					"type": "prefix",
+					"meaning": "back, up"
+				},
+				{
+					"text": "pherein",
+					"type": "root",
+					"meaning": "to carry"
+				}
+			],
+			"original_statement": "From Greek anaphora 'a carrying back'."
+		},
+		"core_concept": {
+			"en": "repetition of a word/phrase at the beginning of successive clauses",
+			"ja": "物語の開始地点を峻烈に『連れ戻（carry back）』し、意志を連打する。"
+		},
+		"thinking_layer": "運び戻すこと。新しい行を始めるたびに、同じ言葉を峻烈に繰り返すことで、読者の脳を特定の概念に呪縛（obsess）し、情報の波及効果を最大化する情報の呪術。",
+		"aftertaste": "何度も繰り返されるハンマーの音のように、逃れ難く刻まれる言葉。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ana- (再) + pherein (運ぶ/出産)。意味の再生産。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "alliteration",
+		"word": "Alliteration",
+		"part_of_speech": "noun",
+		"meaning": "頭韻、情報の爆発的な連鎖",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "ad-",
+					"type": "prefix",
+					"meaning": "to"
+				},
+				{
+					"text": "littera",
+					"type": "root",
+					"meaning": "letter"
+				}
+			],
+			"original_statement": "From Latin ad + littera."
+		},
+		"core_concept": {
+			"en": "occurrence of the same letter/sound at the beginning of words",
+			"ja": "最初の一文字（letter）を、情報の火種として峻烈に連鎖させる。"
+		},
+		"thinking_layer": "文字へ向かうこと。言葉の頭で同じ響きを峻烈に衝突させることで、意味よりも先に情報の『物理的な衝撃（impact）』を脳へ叩き込み、不変の美しきパタンを産み出す。",
+		"aftertaste": "舌の上で踊るような響きの快感と、その背後にある冷徹な計算。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"literature, letter と同根。文字そのものの力。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "litotes",
+		"word": "Litotes",
+		"part_of_speech": "noun",
+		"meaning": "緩叙法、控えめな表現、情報の高度な否定",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "litos",
+					"type": "root",
+					"meaning": "plain, small, slight"
+				}
+			],
+			"original_statement": "From Greek litotes 'plainness, simplicity'."
+		},
+		"core_concept": {
+			"en": "ironic understatement in which an affirmative is expressed by the negative of its contrary",
+			"ja": "否定（negative）という名の影を使い、峻烈な肯定を現出させる。"
+		},
+		"thinking_layer": "質素であること。直接的な賞賛を峻烈に拒み、『悪くない（not bad）』という名の抑制によって、逆説的に情報の真実味と深みを増大させる、知性の洗練された沈黙。",
+		"aftertaste": "あえて言わない、その余白の中にこそ真実が宿っているという気づき。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"控えめなことが、最大の強調になるというパラドックス。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "slang",
+		"word": "Slang",
+		"part_of_speech": "noun",
+		"meaning": "俗語、スラング、情報の野性的な言葉",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "slang",
+					"type": "root",
+					"meaning": "unknown, possibly related to sling (to throw)"
+				}
+			],
+			"original_statement": "Origin uncertain."
+		},
+		"core_concept": {
+			"en": "very informal language",
+			"ja": "辞書という名の情報の墓場を拒み、今この瞬間に『投げつけ（sling）』られる生きた言葉。"
+		},
+		"thinking_layer": "（投げつけること）。格式張った論理の鎧を峻烈に剥ぎ取り、皮膚感覚と衝動だけで構築された、情報の最新・最速の変異体（mutation）。",
+		"aftertaste": "明日には消えているかもしれない、その一瞬の眩いほどの鮮烈さ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"sling (石を投げる) のように、言葉を攻撃的に放つイメージ。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "villanelle",
+		"word": "Villanelle",
+		"part_of_speech": "noun",
+		"meaning": "ヴィラネル、十九行詩、情報の回帰連鎖",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "villanus",
+					"type": "root",
+					"meaning": "rustic, farmhand"
+				}
+			],
+			"original_statement": "From Italian villanella 'rustic song'."
+		},
+		"core_concept": {
+			"en": "nineteen-line poem with two rhymes throughout",
+			"ja": "野性的な歌（rustic song）から生まれた、峻烈なる反復の魔術。"
+		},
+		"thinking_layer": "農民のもの。特定の二つの行を、呪文のように何度も峻烈に回帰（return）させることで、避けることのできない悲劇や、逃れ得ぬ愛の強迫観念を情報の迷宮として構築する。",
+		"aftertaste": "同じ場所をぐるぐると回り続け、永遠にその意味から抜け出せない恐怖と安堵。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"village, villain と同根。土着の、繰り返される生活から。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "polemic",
+		"word": "Polemic",
+		"part_of_speech": "noun",
+		"meaning": "論争、格論」、情報の戦争",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "polemos",
+					"type": "root",
+					"meaning": "war"
+				}
+			],
+			"original_statement": "From Greek polemikos 'warlike'."
+		},
+		"core_concept": {
+			"en": "strong verbal or written attack",
+			"ja": "言葉を峻烈な『武器』に変え、異端の城壁を砕く戦争（war）。"
+		},
+		"thinking_layer": "戦争であること。対等な対話を峻烈に拒み、ただ相手の論理を根底から全否定し、自らの真理を唯一の権威として打ち立てるための、情報の宣戦布告。",
+		"aftertaste": "一切の妥協を排し、敵対者を沈黙させた後の、凍てつくような知的勝利。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"polemics (論争術)。平和な森を焼き尽くす思考。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "apologia",
+		"word": "Apologia",
+		"part_of_speech": "noun",
+		"meaning": "弁明、護教、情報の盾",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "apo-",
+					"type": "prefix",
+					"meaning": "away, from"
+				},
+				{
+					"text": "logos",
+					"type": "root",
+					"meaning": "speech"
+				}
+			],
+			"original_statement": "From Greek apologia 'a speech in defense'."
+		},
+		"core_concept": {
+			"en": "formal defense of opinions or conduct",
+			"ja": "投げかけられた矢に対し、論理（logos）という名の盾を峻烈に『背負（away from）』う。"
+		},
+		"thinking_layer": "離れて話すこと。不義の告発に対し、自らの信条の正当性を極限まで研ぎ澄まされた論理で防衛し、情報の汚れを峻烈に洗い流すための、聖なる自己証明。",
+		"aftertaste": "自分だけが知っている真実を、世界の冷たい眼差しの前で守り抜く高潔な孤独。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"apology (謝罪) の語源だが、本来は『最強の反論』。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "pastoral",
+		"word": "Pastoral",
+		"part_of_speech": "adjective",
+		"meaning": "田園の、牧歌的な、情報の羊飼い",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "pastor",
+					"type": "root",
+					"meaning": "shepherd"
+				}
+			],
+			"original_statement": "From Latin pastoralis."
+		},
+		"core_concept": {
+			"en": "concerning or appropriate to the giving of spiritual guidance",
+			"ja": "都市の絶望を峻烈に脱し、記憶の原郷（pasture）へと情報を『放牧（graze）』する。"
+		},
+		"thinking_layer": "羊飼いの。冷徹な文明の歯車を峻烈に停止させ、失われた黄金時代という名の共同幻想へと魂を誘う。それは、荒れ果てた精神を養う（nourish）ための情報のユートピア。",
+		"aftertaste": "草いきれと静寂の中に、本来の自分を取り戻したような、束の間の安らぎ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"pastor (牧師) も、魂の羊飼いである。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
