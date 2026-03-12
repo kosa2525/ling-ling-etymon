@@ -271387,5 +271387,209 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "desmosome",
+		"word": "Desmosome",
+		"part_of_speech": "noun",
+		"meaning": "デスモソーム、接着斑（せっちゃくはん）",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "desmos",
+					"type": "root",
+					"meaning": "bond, band (絆、帯)",
+					"lang": "Greek"
+				},
+				{
+					"text": "sōma",
+					"type": "root",
+					"meaning": "body (体)",
+					"lang": "Greek"
+				}
+			],
+			"original_statement": "From Greek desmos 'bond' + sōma 'body'."
+		},
+		"core_concept": {
+			"en": "A structure by which two adjacent cells are attached, formed from protein plaques in the cell membranes linked by filaments",
+			"ja": "細胞同士をボルト（bolt）で締め付けるように固定する、峻烈な『絆の肉体』。個の独立を維持しつつも、組織としての強度（strength）を極限まで高める、知的な『分子の握手』"
+		},
+		"thinking_layer": "『絆の身体』。デスモ（Desmo-/結合、絆）、おなじみ「ソマ（体）」と同根。語源は「絆の身体」。ただの「結合（junction）」ではありません。そこには。「外部からの激しい圧力や摩擦（stress）に耐えるために、自らの肉体を他者と物理的に同化させる」という、不屈のサバイバル意志が宿っています。それは。知性が共通の目的（objective）のために、他者のアイディアと深く「係留（anchoring）」し合う瞬間のメタファー。",
+		"aftertaste": "自分の皮膚が、この「デスモソーム（desmosome）」という無数の小さな『点溶接』によって一枚の強靭なシートとして保たれている奇跡に、生命の「団結（solidarity）」への執念を感じ、深い連帯感を覚える、あの知的な平安。あるいは、自分の信念もまた、この「デスモソーム」のように、複数の根拠（filaments）によって多角的に補強され、どんな荒波にも屈しない「真理の盾」でありたいと願う、あの静かな午後の自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "dē-",
+					"meaning": "to bind (forming desmos)"
+				},
+				{
+					"term": "teu-",
+					"meaning": "to swell (forming sōma)"
+				}
+			],
+			"points": [
+				"diadem, synergy, chromosome, somatic 同根。",
+				"『絆（bond）』が『体（body）』を成す。この言葉には、生命が単なる流動的な集合体から、いかにして『社会的な構造』を獲得してきたかという、物理的なプロセスの美学が刻まれている。デスモソームは、個と全体の調和を実現するための、細胞レベルの外骨格である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "lysosome",
+		"word": "Lysosome",
+		"part_of_speech": "noun",
+		"meaning": "リソソーム、ライソソーム、溶胞体",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "lysis",
+					"type": "root",
+					"meaning": "loosening, dissolution (緩めること、分解)', from Greek luein 'to loosen'"
+				},
+				{
+					"text": "sōma",
+					"type": "root",
+					"meaning": "body (体)",
+					"lang": "Greek"
+				}
+			],
+			"original_statement": "From lysis 'dissolution' + sōma 'body'."
+		},
+		"core_concept": {
+			"en": "An organelle in the cytoplasm of eukaryotic cells containing degradative enzymes enclosed in a membrane",
+			"ja": "不要となった過去を溶かし（loosening）、新しい未来へと還元する『分解の身体』。自らの中に『毒（enzyme）』を飼い慣らし、生命を澱（よど）みから救い出す、知的な『破壊の神聖さ』"
+		},
+		"thinking_layer": "『分解の身体』。アナルシス（Analysis/分析＝解きほぐす）、おなじみ「ソマ（体）」と同根。語源は「溶かす体」。ただの「ゴミ箱（trash can）」ではありません。そこには。「破壊こそが、再生（regeneration）のための唯一の扉である」という、峻烈な代謝の哲学が宿っています。それは。知性が古い固定観念を自らの中で「溶解」させ、その成分を新しいアイディアへと再編（reorganizing）してゆくプロセスの象徴。 ",
+		"aftertaste": "細胞内で絶え間なく働く「リソソーム（lysosome）」の、静かな、しかし峻烈な「断捨離（simplification）」の営みを想い、自分という存在が常に「生まれ変わり」続けていることに、深い安堵（relief）と自負を覚える、あの知的な平安。あるいは、自分の思考もまた、この「リソソーム」のような強靭な「自浄作用」を備え、常に透明で、生命力に満ちた奔流でありたいと願う、あの静かな夜の自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "leu-",
+					"meaning": "to loosen, divide (forming luein)"
+				}
+			],
+			"points": [
+				"lose, loose, solve, dialysis 同根。",
+				"『緩める（loosening）』ことは、束縛からの解放である。リソソームという言葉には、生命が自律的な秩序を維持するために、あえて『カオス（溶解）』を自らの一部として組み込んだという、逆説的な勇気が封印されている。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "nucleolus",
+		"word": "Nucleolus",
+		"part_of_speech": "noun",
+		"meaning": "核小体（かくしょうたい）、じん（仁）",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "nucleus",
+					"type": "root",
+					"meaning": "kernel, inner part (核)', from Latin nux 'nut'"
+				},
+				{
+					"text": "-olus",
+					"type": "suffix",
+					"meaning": "diminutive (指小辞、小さいもの)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin nucleolus 'little kernel', diminutive of nucleus."
+		},
+		"core_concept": {
+			"en": "A small dense spherical structure in the nucleus of a cell during interphase",
+			"ja": "核（nucleus）という深淵（abyss）のさらに中心に鎮座する、超高密度の『小さな核』。生命の全情報のレシピ（ribosome）を書き出す、止まることのない『創造のエンジン』。静止した思考の底にある、熱い『閃きの核』"
+		},
+		"thinking_layer": "『小さな核』。ニュークリア（Nuclear/核の）、おなじみ「ナッツ（Nut）」と同根。語源は「小さな実」。ただの「構造体」ではありません。そこには。「中心（center）の中の中心（center）を定義し、そこからすべての秩序を放射（radiate）させる」という、極限の収束と発散の美学が宿っています。それは。知性が複雑な議論を突き詰め、最後に行き着く、一点の「曇りなき真理」のメタファー。",
+		"aftertaste": "「核小体（nucleolus）」という生命の秘密基地（base）で、休むことなくリボソームという名の「使者」が次々と誕生している様子を想像し、自分の思考もまた、このような「静かなる多産性（fertility）」によって支えられていることを知って身震いする、あの峻烈な一呼吸。あるいは、自分のアイディアの「核」の中に、常にこの「核小体」のような、誰にも侵されない「純粋な熱源」を秘め続けていたい、と願う、あの静かな午後の自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kneu-",
+					"meaning": "nut (forming nux)"
+				}
+			],
+			"points": [
+				"nucleus, nuclear, nut 同根。",
+				"『核（nucleus）』という言葉は、本来『食べられる部分（edible part）』を指していた。核小体は、生命の設計図という『固い殻』の中に、最も瑞々（みずみず）しく、最も重要な『実（essence）』として存在している。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "chromatin",
+		"word": "Chromatin",
+		"part_of_speech": "noun",
+		"meaning": "染色質（せんしょくしつ）、クロマチン",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "khrōma",
+					"type": "root",
+					"meaning": "color (色)', from Greek"
+				}
+			],
+			"original_statement": "From Greek khrōma 'color' (because it is easily stained with dyes)."
+		},
+		"core_concept": {
+			"en": "The material of which the chromosomes of organisms other than bacteria are composed, consisting of protein, RNA, and DNA",
+			"ja": "透明な『真実（DNA）』に、目に見える『色彩（color）』を纏わせ、形あるものへと凝縮させる生命の繊維。散らばった情報を一つの『歴史』へと織りなす、知的な『記述の糸』"
+		},
+		"thinking_layer": "『色のついた物質』。クロマチック（Chromatic/半音階の、色彩の）、モノクローム（Monochrome/単色）、おなじみの「クローム（Chrome）」と同根。語源は「色」。ただの「遺伝物質」ではありません。そこには。「不可視な情報を、現実に影響を与えるための『物理的な重み（mass）』へと変換する」という、峻烈な具現化の意志が宿っています。それは。知性が抽象的な理論を、具体的な言葉（language）という「色」で染め上げ、他者に伝えるための形を整えるプロセスの象徴。",
+		"aftertaste": "細胞の中で「クロマチン（chromatin）」が凝縮（condensation）し、染色体という一本の「運命の糸」として立ち現れる瞬間の、物理的な美しさに息を呑み、自分という存在がいかに「緻密な織物」であるかを痛感する、あの知的な平安。あるいは、自分の言葉もまた、この「クロマチン」のように、透明な思考を鮮やかな色彩で染め上げ、誰かの心に消えない「刻印」を残すものでありたいと願う、あの静かな午後の自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ghreu-",
+					"meaning": "to rub, grind (forming khrōma?)"
+				}
+			],
+			"points": [
+				"chrome, chromosome, monochromatic 同根。",
+				"『色（color）』は本来、表面を『擦（こす）る』ことで得られる現象を指していた。クロマチンという名称には、生命の深淵が、いかにして観察者の『染料（眼差し）』に反応し、自らの秘密を可視化させてきたかという、科学史的な対話が刻まれている。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "proteasome",
+		"word": "Proteasome",
+		"part_of_speech": "noun",
+		"meaning": "プロテアソーム、タンパク質分解酵素複合体",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "protein",
+					"type": "root",
+					"meaning": "protein (タンパク質)', from Greek prōtos 'first'"
+				},
+				{
+					"text": "sōma",
+					"type": "root",
+					"meaning": "body (体)",
+					"lang": "Greek"
+				}
+			],
+			"original_statement": "From protein + -sōma 'body'."
+		},
+		"core_concept": {
+			"en": "A protein complex in cells containing proteases; it breaks down proteins that have been tagged by ubiquitin",
+			"ja": "死の宣告（ubiquitination）を受けたタンパク質を、ナノレベルの精密さで粉砕する『断頭台（guillotine）の身体』。秩序を乱す『異物』や『過去』を、峻烈な正義によって排除し、生命の品質（quality）を極限まで保証する、知的な『執行官』"
+		},
+		"thinking_layer": "『タンパク質の身体』。プロテイン（Protein/タンパク質＝第一のもの）、おなじみ「ソマ（体）」と同根。語源は「タンパク質の体」。ただの「酵素（enzyme）」の集まりではありません。そこには。「間違いを許さず、欠陥のあるアイディアを即座に素材へと解体（dismantling）する」という、峻烈な完璧主義が宿っています。それは。知性が自らの思考を常に「監査（audit）」し、不純物を徹底的に排除してゆくプロセスのメタファー。 ",
+		"aftertaste": "「プロテアソーム（proteasome）」という巨大な円筒状の装置の中に、タグ付けされた不要な情報が吸い込まれ、一瞬で粉々になってゆく様子を想い、生命の持つ「決断力（decision making）」の凄まじさに慄（おのの）く、あの峻烈な一呼吸。あるいは、自分の思考もまた、この「プロテアソーム」のような厳格な「自己批判の回路」を備え、常に最高純度のアイディアのみを世に送り出すという、誇り高い「品質管理」を全うしたいと願う、あの静かな夜の自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "per-",
+					"meaning": "first, front (forming prōtos)"
+				}
+			],
+			"points": [
+				"protocol, proto-type, prophet, somatic 同根。",
+				"『第一のもの（protein）』を『分解する体（sōma）』。この言葉の構成には、生命が最も大切にしている資源を、あえて『破壊』することで全体の恒常性（homeostasis）を維持するという、峻烈な自己犠牲の論理が貫かれている。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
