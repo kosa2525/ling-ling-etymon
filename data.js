@@ -263851,5 +263851,235 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "ignoratio-elenchi",
+		"word": "Ignoratio elenchi",
+		"part_of_speech": "noun",
+		"meaning": "論点喪失、論点すりかえの虚偽",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "ignoratio",
+					"type": "root",
+					"meaning": "ignorance (無知)",
+					"lang": "Latin"
+				},
+				{
+					"text": "elenchi",
+					"type": "root",
+					"meaning": "of an argument, refutation (議論の、反駁の)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin ignoratio elenchi, literally 'ignorance of the refutation'."
+		},
+		"core_concept": {
+			"en": "The logical fallacy of presenting an argument that may in itself be valid, but which proves or supports a different proposition than the one it is purporting to prove or support",
+			"ja": "議論の核心にあるべき『反駁（refutation）』に気づかぬまま（ignorance）、本来の論点とは無関係な結論を導き出してしまう論理的虚偽。知性の『迷子』、あるいは意図的な『煙に巻く』仕草"
+		},
+		"thinking_layer": "『論証に対する無知』。イグノランス（Ignorance/無知）、イグノア（Ignore/無視する）と同根。語源は「反論を知らないこと」。ただの「間違い」ではありません。自分の主張は正しい（valid）かもしれませんが、それが「今、この場の正解」ではないというズレ。それは、真理を追い求めているようでいて、実は自分自身の心地よい結論へと逃げ込んでいる、知的な「不誠実（insincerity）」。",
+		"aftertaste": "白熱する議論の最中で、相手が「論点すり替え（ignoratio elenchi）」という名の「逃げ道」を作った瞬間に気づき、その滑稽さと、真実が遠のいてゆく虚しさを同時に感じる、あの冷ややかな静寂。あるいは、自分が必死に守ろうとしていた論理が、実はこの「イグノラティオ・エレンキ（ignoratio elenchi）」に支えられた砂上の楼閣（castle in the air）に過ぎなかったと悟る、あの深夜の自己嫌悪。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "gno-",
+					"meaning": "to know (forming ignoratio)"
+				},
+				{
+					"term": "elenkhos-",
+					"meaning": "refutation (forming elenchi)"
+				}
+			],
+			"points": [
+				"know, cognition, gnome, agnostic 同根。",
+				"『知る（knowing）』ことを拒む（i-）ことで得られる安らぎは、論理的な社会においては致命的な『欠陥（fallacy）』となる。存在の問いに対して、全く別の回答を提示し続ける人間の営みそのものが、ある種の『イグノラティオ・エレンキ』なのかもしれない。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "petitio-principii",
+		"word": "Petitio principii",
+		"part_of_speech": "noun",
+		"meaning": "論点先取（の虚偽）、循環論法",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "petitio",
+					"type": "root",
+					"meaning": "asking, begging (請い求めること)",
+					"lang": "Latin"
+				},
+				{
+					"text": "principii",
+					"type": "root",
+					"meaning": "of the beginning, principle (始まりの、原理の)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin petitio principii, literally 'begging of the principle'."
+		},
+		"core_concept": {
+			"en": "The logical fallacy of assuming the truth of a conclusion in the premises of an argument; begging the question",
+			"ja": "証明すべき結論を、密かに前提（premise）の中に滑り込ませ、あたかも真実であるかのように『請い求める（begging）』論理的虚偽。始まり（beginning）の中に終わり（end）を閉じ込めた、不毛な思考の円環"
+		},
+		"thinking_layer": "『原理の要請』。ペティション（Petition/嘆願）、プリンシパル（Principal/主要な）、プリンシプル（Principle/原理）と同根。語源は「原理を請い求めること」。いわゆる「循環論法（circular reasoning）」。なぜＡは正しいのか。それはＡだからだ。このトートロジー（tautology）的な安心感から抜け出せない知性の「怠慢」。それは、新しい真理との出会いを拒絶し、自己を肯定し続けるための「閉じたシステム」。",
+		"aftertaste": "「神がいるのは、聖書にそう書いてあるからだ。聖書が正しいのは、神の言葉だからだ」という完璧な「論点先取（petitio principii）」の美しさに当てられ、論理（logic）がもはや言葉遊びの「呪文（incantation）」へと変質してしまったことを悟る、あの不思議な陶酔。あるいは、自分の存在意義を証明しようとして、結局は「自分が自分であるからだ（because I am me）」という「ペティティオ・プリンキピ（petitio principii）」に辿り着き、自分という宇宙の「究極の閉鎖性」に戦慄する、独りきりの午後。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "pet-",
+					"meaning": "to fall, fly, strike (forming petitio)"
+				},
+				{
+					"term": "per-",
+					"meaning": "first (forming principii)"
+				}
+			],
+			"points": [
+				"petition, compete, prime, primary 同根。",
+				"『請い求める（begging）』ことは本来は対話の始まりだが、それを『原理（principle）』に対して行うことは、対話をそこで『終わらせる』ことを意味する。知性は常にこの、心地よい『円環』という誘惑と戦い続けなければならない。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "hysteron-proteron",
+		"word": "Hysteron proteron",
+		"part_of_speech": "noun",
+		"meaning": "逆順（法）、本末転倒、あとのものを先にする（こと）",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "husteron",
+					"type": "root",
+					"meaning": "latter, later (あとの、後ろの)",
+					"lang": "Greek"
+				},
+				{
+					"text": "proteron",
+					"type": "root",
+					"meaning": "former, earlier (さきの、前の)",
+					"lang": "Greek"
+				}
+			],
+			"original_statement": "From Greek hysteron proteron, literally 'latter former'."
+		},
+		"core_concept": {
+			"en": "The logical fallacy of assuming as true a premise that actually depends on the conclusion; the reversal of natural order (e.g., 'put on your shoes and socks')",
+			"ja": "あとに来るべき『結果』を、さきに来るべき『原因』の前に配置し、時間の流れを逆転させてしまう錯誤。あるいは、手段と目的を入れ替え、本末転倒（putting the cart before the horse）の状態に陥った知性の混乱"
+		},
+		"thinking_layer": "『あとのものを先に』。ヒステリア（Hysteria/子宮？後ろにあるもの？）や、おなじみの「プロ（前）」と同根。語源は「あとの、さきの」。論理的な順序（order）を無視し、最も重要な結果をまず提示する修辞法でもあります。ただの間違いではなく、そこに「衝撃（impact）」や「不条理（absurdity）」が宿っています。それは、整合性を失ってでも伝えたい「結末」への執着。 ",
+		"aftertaste": "「死ね、そして戦え！」という「逆順（hysteron proteron）」の叫びに、論理的な死を超越した凄まじい「意志の火」を感じ、自分の理性が一瞬で焼き尽くされるような、あの圧倒的な敗北感。あるいは、成功という「結果」を追い求めすぎて、そのための「過程（process）」を蔑（ないがし）ろにしている自分の今の状態こそが、滑稽で虚しい「ヒステロン・プロテロン（hysteron proteron）」そのものであると気づく、あの冷淡な自省。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ud-ter-",
+					"meaning": "outer, later (forming husteron)"
+				},
+				{
+					"term": "per-",
+					"meaning": "before (forming proteron)"
+				}
+			],
+			"points": [
+				"utter, out, prior, first 同根。",
+				"『時間（time）』とは不可逆な川の流れだが、知性は言語を通じてその流れを『反転（reversal）』させることができる。ヒステロン・プロテロン（hysteron proteron）とは、その知的な傲慢さが生んだ、美しくも危険な『歪み』である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "modus-ponens",
+		"word": "Modus ponens",
+		"part_of_speech": "noun",
+		"meaning": "肯定式、前件肯定式",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "modus",
+					"type": "root",
+					"meaning": "mode, way (やり方、形式)",
+					"lang": "Latin"
+				},
+				{
+					"text": "ponens",
+					"type": "root",
+					"meaning": "placing, affirming (置くこと、肯定すること)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin modus ponens, literally 'the way that affirms by affirming'."
+		},
+		"core_concept": {
+			"en": "The rule of logic stating that if a conditional statement ('if p then q') is accepted, and the antecedent ('p') holds, then the consequent ('q') may be inferred",
+			"ja": "もしＡならばＢであるという前提（premise）に対し、正々堂々とＡを『置く（placing）』ことで、必然的にＢという真理を導き出す、論理の最も純粋な歩み。迷いなき正攻法の推論"
+		},
+		"thinking_layer": "『置く（肯定する）やり方』。モード（Mode）、モデル（Model）、おなじみの「ポジション（Position/置かれた場所）」と同根。語源は「肯定的形式」。ＡならばＢ。そしてＡである。ならば、Ｂである。この、一分の隙もない、自動的で冷徹な「思考の歯車」。それは、複雑な世界を切り分け、一筋の「確信」へと辿り着くための、知性の最も原始的で強力な武器。",
+		"aftertaste": "自分の目の前にある「条件（conditions）」が完璧に揃い、この「肯定式（modus ponens）」という鋼の歯車が噛み合って、逃れられない一つの「結論（conclusion）」へと背中を押される、あの安堵と戦慄が混じり合った瞬間。あるいは、あまりにも完璧な「論理の機械（logical machine）」と化した自分が、そこに「感情」というノイズが入り込む余地を失ってしまったのではないかと危惧する、あの無機質な充足。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "med-",
+					"meaning": "to take appropriate measures (forming modus)"
+				},
+				{
+					"term": "apo-",
+					"meaning": "away? (uncertain for ponens/to set aside)"
+				}
+			],
+			"points": [
+				"measure, medicine, moderate, position 同根。",
+				"『置く（placing）』という行為は、混沌とした可能性の世界から一つを選び出し、それを『真実（truth）』として固定することである。モダス・ポネンス（modus ponens）とは、その固定の積み重ねによって構築された、人間の理性の城壁（rampart）である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "modus-tollens",
+		"word": "Modus tollens",
+		"part_of_speech": "noun",
+		"meaning": "否定式、後件否定式",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "modus",
+					"type": "root",
+					"meaning": "mode, way (やり方、形式)",
+					"lang": "Latin"
+				},
+				{
+					"text": "tollens",
+					"type": "root",
+					"meaning": "taking away, denying (取り去ること、否定すること)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin modus tollens, literally 'the way that denies by denying'."
+		},
+		"core_concept": {
+			"en": "The rule of logic stating that if a conditional statement ('if p then q') is accepted, and the consequent ('q') does not hold, then the negation of the antecedent ('not p') may be inferred",
+			"ja": "もしＡならばＢであるという世界に対し、Ｂという結果が失われている（taking away）ことを根拠に、Ａという原因そのものを否定する修辞。消去法によって真実を炙（あぶ）り出す、影の論理学"
+		},
+		"thinking_layer": "『取り去る（否定する）やり方』。モード（Mode）、トール（Toll/通行料を徴収＝取り去る）、タレント（Talent/重さを測る＝持ち上げるもの）と同根。語源は「否定的形式」。ＡならばＢ。しかしＢではない。ならば、Ａではない。直接Ａを叩くのではなく、Ｂという結果の外堀を埋めてゆく。それは、見えない敵の正体を、その「不在（absence）」によって証明（prove）する、冷徹で洗練された知性の罠（trap）。",
+		"aftertaste": "自分が信じていた前提（A）が、目の前の無慈悲な現実（not B）によってこの「否定式（modus tollens）」の鉄槌を下され、音を立てて崩れ去るのを見つめる、あの峻烈な解放。あるいは、世界から「嘘（lie）」を一つずつこの「消去法（method of elimination）」で取り除いていった果てに、何よりも寂しく、何よりも純粋な「一握の真実」だけが手の平に残る、あの虚無的な平安。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "med-",
+					"meaning": "to take measures (forming modus)"
+				},
+				{
+					"term": "tel-",
+					"meaning": "to bear, carry, lift (forming tollens)"
+				}
+			],
+			"points": [
+				"modest, accommodate, tolerate, extol（称揚する＝持ち上げる） 同根。",
+				"『取り去る（taking away）』ことは破壊ではなく、不必要な執着を『持ち上げ（lifting）』、視界から排除することで、本質的な空虚（emptiness）へと辿り着くための、知的な浄化（purification）のプロセスである。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
