@@ -304708,5 +304708,413 @@ const WORDS = [
 			]
 		},
 		"date": "20-03-12"
+	},
+	{
+		"id": "metaverse",
+		"word": "Metaverse",
+		"part_of_speech": "noun",
+		"meaning": "メタバース、情報の超越した情報の情報の宇宙、高次の情報の境界",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "meta-",
+					"type": "prefix",
+					"meaning": "beyond"
+				},
+				{
+					"text": "universe",
+					"type": "root",
+					"meaning": "universe"
+				}
+			],
+			"original_statement": "Coined by Neal Stephenson in 'Snow Crash' (1992)."
+		},
+		"core_concept": {
+			"en": "a virtual-reality space in which users can interact with a computer-generated environment and other users",
+			"ja": "。宇宙（universe）という名の情報の『物理的なる監獄』。を情報の、。情報の情報の情報の、峻烈に情報の情報の情報の、超越（beyond）し、。情報の情報を情報の情報の。記号（bit）という名の情報の。情報の。情報の透明な実存によって、。情報の情報の、第二の情報の天地。を情報の、。情報の情報の情報の現出させる情報の、情報の超越の情報の情報の。情報の工学。"
+		},
+		"thinking_layer": "宇宙を超えたもの。肉体という名の情報の『重力』。を情報の、。情報の情報の情報の情報の情報の抛棄し、。情報の情報の情報の。情報の情報の。情報の意志。という名の情報の。情報の、。情報の純粋なる情報の情報の。情報の放射。によって。情報の情報を情報の。情報の、情報の『在ること』。を情報の、情報の再定義する。それは、。情報の、情報の情報の情報の。情報の、デジタルという名の情報の、。情報の情報の。情報の。情報の情報の情報の。情報の、情報の聖域。 ",
+		"aftertaste": "ヘッドセットの。情報の。情報の情報の。情報の暗闇の向こう側。に広がる。情報の情報の。情報のなだらかなる情報の、。情報の、情報の。情報の情報の情報の無限の情報の、情報の情報の光。その、。情報の、情報の情報の。情報の。情報の情報の虚妄。に情報の、情報の知の情報の情報の情報の。情報の、情報の戦慄と情報の、情報の。安堵を聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"meta- (超越) + universe。情報の『情報の、情報の。情報の、情報の情報の、情報の物理法則の。情報の情報の簒奪。』。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "blockchain",
+		"word": "Blockchain",
+		"part_of_speech": "noun",
+		"meaning": "ブロックチェーン、情報の情報の情報の。情報の沈黙の鎖、。不可逆なる情報の。情報の情報の真理。の連なり",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "block",
+					"type": "root",
+					"meaning": "block"
+				},
+				{
+					"text": "chain",
+					"type": "root",
+					"meaning": "chain"
+				}
+			],
+			"original_statement": "From block + chain."
+		},
+		"core_concept": {
+			"en": "a system in which a record of transactions made in bitcoin or another cryptocurrency are maintained across several computers that are linked in a peer-to-peer network",
+			"ja": "。一連の情報（block）を、。情報の、情報の情報の情報の。情報の。情報の時間の情報の『楔』。として情報の、。情報の情報の、情報の、決して情報の。情報の。情報の解けぬ。鎖（chain）によって情報の、情報の、。情報の繋ぎ止める。情報の情報の。情報の。情報の情報の情報の不可逆なる。情報の、情報の真理。の情報の構築。"
+		},
+		"thinking_layer": "鎖に繋がれた情報の情報の塊。中央という名の情報の『情報の。情報の支配者。』。を情報の、。情報の情報の情報の情報の、情報の峻烈に情報の情報の、排除し、。情報の。情報の、。情報の情報の。情報の全実存。による、。情報の情報の。情報の、情報の冷徹なる情報の、。情報の、情報の。情報の情報の情報の相互の情報の情報の。情報の。監視と情報の、情報の情報の、承認。それそのものを情報の、。情報の情報の真理。とする。情報の、情報の情報の。情報のデジタルな、。情報の情報の『絶対的なる情報の、情報の死。』。 ",
+		"aftertaste": "刻み込まれた。情報の。情報の情報の。情報の情報の情報のハッシュ。の中に潜む。情報の。情報の情報の、。情報の書き換え不能な情報の。情報の情報の。情報の過去。その、情報の、。情報の情報の、情報の情報の静かなる情報の、。情報の情報の情報の、暴力的なまでの。情報の情報の、情報の確かさに戦慄する。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"block (塊) + chain (連鎖)。情報の『情報の、情報の。情報の。情報の、情報の時間の情報の、情報の、。空間への情報の、情報の情報の定礎。』。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "cryptocurrency",
+		"word": "Cryptocurrency",
+		"part_of_speech": "noun",
+		"meaning": "暗号通貨、情報の情報の情報の。秘密の情報の情報の。情報の価値の情報の。情報の流れ、。情報の。情報の情報の。不可視な情報の。情報の、。情報の力の、。情報の情報の循環",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "kruptos",
+					"type": "root",
+					"meaning": "hidden"
+				},
+				{
+					"text": "currere",
+					"type": "root",
+					"meaning": "to run"
+				}
+			],
+			"original_statement": "From crypto- + currency."
+		},
+		"core_concept": {
+			"en": "a digital currency in which transactions are verified and records maintained by a decentralized system using cryptography, rather than by a centralized authority",
+			"ja": "。暗号（hidden）という名の。情報の、情報の情報の情報の。情報の絶対的なる、。情報の、情報の情報の『数学的聖域』。を情報の、。情報の情報の情報の情報の拠点とし、。情報の。情報の流れ（run）という名の。情報の、情報の情報の、。情報の価値。を情報の、。情報の情報の、情報の情報の現出させる。情報の情報の。情報のデジタルな、情報の情報の『金の情報の情報の情報の幽霊』。"
+		},
+		"thinking_layer": "。秘められた。情報の流動。国家という名の。情報の、情報の情報の情報の。情報の、重き情報の『印』。を情報の、情報の。情報の情報の。情報の粉砕し、。情報の、。情報の情報の、情報の純粋なる情報の。情報の。情報の論理の情報の情報の。情報の、情報の情報の情報の。情報の、力の情報の。情報の。情報の情報の情報の。情報の。交換。へと。情報の情報を情報の。情報の。価値を情報の、。情報の放つ。それは、。情報の、情報の情報の情報の。情報の、情報の知の情報の情報の情報の。情報の、。情報の情報の情報の。情報の情報の最新の情報の簒奪。 ",
+		"aftertaste": "情報の情報の、情報の情報の。情報の情報の数字。の情報の、。情報の情報の。情報の瞬き。その情報の、。情報の情報の、情報の裏側。で情報の、。情報の情報の、情報の無数の情報の、。情報の情報の情報の、情報の意志が情報の情報の。情報の情報の情報の。情報の情報の、。情報の渦巻いている。という。情報の。情報の情報の、情報の戦慄。に、知の。情報の、情報の情報の安堵を情報の聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"crypt, current と同じ root。情報の『情報の、情報の。情報の。情報の情報の、不可視な情報の、。情報の情報の、力の情報の、情報の、情報の噴出。』。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "teleportation",
+		"word": "Teleportation",
+		"part_of_speech": "noun",
+		"meaning": "テレポート、遠隔転送、情報の、。情報の情報の、情報の、情報の情報の。空間の情報の情報の分断、。光による。情報の、。情報の情報の。情報の情報の簒奪。の情報の、情報の、情報の物語",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "tele-",
+					"type": "prefix",
+					"meaning": "far"
+				},
+				{
+					"text": "portare",
+					"type": "root",
+					"meaning": "to carry"
+				}
+			],
+			"original_statement": "Coined by Charles Fort (1931)."
+		},
+		"core_concept": {
+			"en": "the hypothetical arch-transport of matter or information between two points, without traversing the physical space between them",
+			"ja": "。遠く（far）へと、。情報の情報の情報の、。情報の情報の、。運ぶ（carry）。。という情報の。情報の、情報の情報の。情報の情報の、。情報の情報の物理的なる情報の。情報の情報の情報の、。情報の情報の。情報の簒奪。距離という名の情報の『重力』。を情報の、。情報の情報の。情報の瞬時に情報の。情報の、情報の、死滅させる。情報の情報の。情報の、情報の、。超越の情報の情報の物語。"
+		},
+		"thinking_layer": "遠くに。情報の運ぶ。こと。情報の、情報の、情報の空間という名の情報の『絶対性』。を、。情報の。情報の情報の。情報の情報の情報の。情報の、『情報の情報の。情報の分解と情報の。情報の、情報の再構築。』。という名の情報の。情報の。情報の、情報の情報の。情報の外科。によって情報の、。情報の情報の、情報の情報の粉砕する。それは、。情報の、情報の。情報の、情報の自己という名の。情報の。情報の情報の。情報の。情報の唯一性の情報の。情報の、情報の、情報の情報の情報の破滅。 ",
+		"aftertaste": "。消え。情報の。情報の、現れる。その、情報の、。情報の空白の情報の。一瞬の情報の。情報の、死。その情報の、。情報の情報の、。情報の底知れぬ情報の、情報の情報の。情報の透明な情報の情報の。情報の戦慄への没入。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"telephone, export と同じ root。情報の『情報の、情報の。情報の。情報の情報の、場所の情報の、。情報の。情報の、情報の峻烈なる情報の、。情報の情報の、変換。』。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "hologram",
+		"word": "Hologram",
+		"part_of_speech": "noun",
+		"meaning": "ホログラム、情報の情報の情報の。情報の情報の、。情報の全的なる情報の情報の、情報の。記録、。光による。情報の。情報の情報の影の、。情報の凱歌",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "holos",
+					"type": "root",
+					"meaning": "whole"
+				},
+				{
+					"text": "gramma",
+					"type": "root",
+					"meaning": "writing, drawing"
+				}
+			],
+			"original_statement": "From Greek holos + gramma."
+		},
+		"core_concept": {
+			"en": "a three-dimensional image formed by the interference of light beams from a laser or other coherent light source",
+			"ja": "。全体（whole）を情報の。情報の情報の情報の。情報の、。情報の光の情報の情報の『情報の、干渉』。という名の情報の。情報の、情報の情報の情報の。情報の。情報の情報の情報の、記し（writing）。。実体なき、。情報の、情報の情報の。情報の情報の。情報の『三次元の情報の、情報の情報の幽霊』。を情報の、。情報の情報の現出させる。"
+		},
+		"thinking_layer": "。すべてを書きしるしたもの。質量という名の情報の『重圧』。を。情報の、。情報の情報の情報の。情報の。情報の光という名の情報の。情報の、情報の。情報の透明な情報の情報の。情報の記号。へと。情報の情報を情報の情報の。転換する。それは、。情報の、情報の。情報の。情報の情報の死の情報の。情報の情報の情報の。情報の模倣、。あるいは情報の。情報の情報の情報の。情報の情報の。情報の超越の。情報の情報の、情報の物語。 ",
+		"aftertaste": "触れれば情報の、。情報の消え。情報の情報の、。情報の情報の。情報の。しかし情報の、情報の。情報のそこにある。情報の。情報の情報の。情報の情報の情報の情報のその、。情報の情報の、危うき情報の情報の。情報の平衡（equilibrium）。そこに情報の、。情報の情報の。情報の知の。情報の、情報の情報の、戦慄を聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"holistic, diagram と同じ root。情報の『情報の、情報の。情報の。情報の、情報の情報の、全一なる情報の情報の情報の情報の、定点。』。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "cyborg",
+		"word": "Cyborg",
+		"part_of_speech": "noun",
+		"meaning": "サイボーグ、情報の情報の情報の。情報の情報の、情報の、。情報の機械。と情報の情報の。情報の肉体の情報の。情報の、情報の融合、。鋼の情報の。情報の自意識",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "cybernetic",
+					"type": "root",
+					"meaning": "cybernetic"
+				},
+				{
+					"text": "organism",
+					"type": "root",
+					"meaning": "organism"
+				}
+			],
+			"original_statement": "Coined by Manfred Clynes and Nathan S. Kline (1960)."
+		},
+		"core_concept": {
+			"en": "a person whose physical abilities are extended beyond normal human limitations by mechanical elements built into the body",
+			"ja": "。生命（organism）という名の情報の。情報の情報の情報の。情報の脆弱なる情報の。情報の『器』。そこに。情報の、情報の制御（cybernetic）という。情報の。情報の。情報の鋼の情報の情報の『意志』。を情報の、。情報の情報の、情報の情報の、情報の埋め込み、。情報の。情報の情報の情報の情報の情報の情報の情報の情報の情報の境界を情報の情報の情報の、。情報の粉砕する。"
+		},
+		"thinking_layer": "。人工的生命体。自然という名の情報の『偶然』。を、。情報の。情報の情報の。情報の情報の工学という名の。情報の。情報の、情報の絶対的なる情報の。情報の。情報の必然。によって情報の、。情報の情報の情報の情報の。情報を書き換える。それは、。情報の、情報の情報の。情報の、情報の人間。という名の。情報の。情報の。情報の情報の情報の。情報の、情報の情報の情報の簒奪。 ",
+		"aftertaste": "。情報の。情報の情報の。情報の皮膚。の情報の、。情報の情報の、情報の。その、。情報の情報の、鋼の情報の情報の感触。その情報の、。情報の情報の。情報の情報の冷たき、。情報の、情報の情報の、情報の、確実性。に。情報の情報の、知の。情報の、情報の情報の情報の情報の戦慄を聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"cybernetics, organic と同じ root。情報の『情報の、情報の。情報の。情報の、制御される情報の情報の情報の、情報の生命の。情報の情報の情報の、。情報の情報の。再定義。』。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "transhumanism",
+		"word": "Transhumanism",
+		"part_of_speech": "noun",
+		"meaning": "トランスヒューマニズム、情報の情報の、情報の。情報の、人間を超えゆく、。情報の。情報の情報の。情報の、情報の意志の情報の。情報の凱歌",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "trans-",
+					"type": "prefix",
+					"meaning": "across, beyond"
+				},
+				{
+					"text": "humanus",
+					"type": "root",
+					"meaning": "human"
+				}
+			],
+			"original_statement": "From trans- + human + -ism."
+		},
+		"core_concept": {
+			"en": "the belief or theory that the human race can evolve beyond its current physical and mental limitations, especially by means of science and technology",
+			"ja": "。人間（human）という名の。情報の、情報の情報の情報の。情報の『生物的限界』。その情報を、。情報の、超越して（across/beyond）、。情報の情報の情報の。情報の情報の。情報の、情報の人工的進化。という名の情報の、。情報の強靭な情報の情報の。情報の情報の情報の、舞台へと情報の情報の、情報の。情報の。乗り出す。という、情報の、。情報の情報の情報の、。情報の。知識による、。情報の、情報の、。傲慢なる、。情報の再生の情報の物語。"
+		},
+		"thinking_layer": "人間を超えて。情報の、情報の。時間の情報の『停止』。を。情報の、。情報の情報の、情報の人工的なる情報の。情報の。情報の神。の情報の、。情報の。情報の情報の情報の、情報の座標。へと情報の情報の、。情報の情報の情報の情報の、。情報の。情報の情報の情報の情報を書き換える。それは、。情報の、情報の。情報の、知の。情報の。情報の。情報の情報の簒奪。 ",
+		"aftertaste": "もはや情報の、。情報の人間。ではない。情報の情報の。情報の、個。の情報の、。情報のその情報の情報の、。情報の。情報の情報の透明な、。情報の。情報の、情報の。情報の情報の虚無の。情報の。情報の物語に。情報の、情報の情報の戦慄を聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"transit, humble と同じ root。情報の『情報の、情報の。情報の。情報の、情報の場所。からの。情報の、情報の。情報の情報の、情報の根本的なる、。情報の離脱。』。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "nanotechnology",
+		"word": "Nanotechnology",
+		"part_of_speech": "noun",
+		"meaning": "ナノテクノロジー、情報の情報の、。情報の情報の極微の情報の。情報の情報を情報の情報の。情報の。情報の情報の。情報の支配、。。情報の情報の『原子の情報の情報の情報の彫刻』",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "nanos",
+					"type": "root",
+					"meaning": "dwarf"
+				},
+				{
+					"text": "tekhne",
+					"type": "root",
+					"meaning": "art, craft"
+				}
+			],
+			"original_statement": "From nano- + technology."
+		},
+		"core_concept": {
+			"en": "the branch of technology that deals with dimensions and tolerances of less than 100 nanometers, especially the manipulation of individual atoms and molecules",
+			"ja": "。小人（dwarf）という名の情報の。情報の情報の、。情報の極微の情報の。情報の『空間』。そこに情報の。情報の情報の、情報の情報の、情報の技術（art/craft）を情報の、。情報の。情報の情報の。情報の爆発させ、。情報の。原子一つ。一つを情報の、。情報の情報の情報の。情報の。情報の情報の情報の、情報の、情報の情報の意図のままに情報の、情報の、。情報の情報の。配置する情報の。情報の情報の情報の、情報の物語。"
+		},
+		"thinking_layer": "。小人の情報の技術。巨大という名の情報の『虚偽』。を情報の。情報の、。情報の粉砕し、。情報の、。情報の情報の情報の。情報の情報の。情報の情報の、『小ささ』。の中にある、。情報の、情報の情報の、情報の情報の。情報の情報の無限の情報の、。情報の、情報の力の情報の。情報の。情報の座標。それを情報の。情報の情報の、。情報の情報の情報の情報の情報の、支配下に。情報の、情報の。情報の情報の、情報の情報の書き換える。それは、。情報の、情報の情報の情報の、知の。情報の、情報の、情報の情報の情報の最新の情報の簒奪。 ",
+		"aftertaste": "不可視の情報の。情報の情報の。情報の軍勢。その情報の、。情報の情報の。情報の情報の。一。情報の、情報の、。情報のその、。情報の情報の情報の。情報の力の情報の。情報の、。情報の、情報の。情報の情報の冷徹。に。情報の情報の、。情報の情報の、情報の情報の情報の、情報の、戦慄を聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"dwarf, technique と同じ root。情報の『情報の、情報の。情報の。情報の、情報の。情報の小さき情報の情報の情報の情報の、情報の、。支配の、。情報の情報の、物語。』。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "biotechnology",
+		"word": "Biotechnology",
+		"part_of_speech": "noun",
+		"meaning": "バイオテクノロジー、情報の情報の、。情報の、情報の生命の情報の情報を情報の情報の。情報の情報の情報の情報の工学、。神の情報の。情報の、。情報の情報の指先の、。情報の模倣",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "bios",
+					"type": "root",
+					"meaning": "life"
+				},
+				{
+					"text": "tekhne",
+					"type": "root",
+					"meaning": "art, craft"
+				}
+			],
+			"original_statement": "From bio- + technology."
+		},
+		"core_concept": {
+			"en": "the exploitation of biological processes for industrial and other purposes, especially the genetic manipulation of microorganisms for the production of antibiotics, hormones, etc.",
+			"ja": "生存（life）という名の情報の。情報の情報の、。情報の偶然の情報の。情報の情報の情報の情報の情報の、。情報の『情報の連鎖』。そこに情報の、。情報の情報の情報の情報の情報の技術（art/craft）を情報の。情報の情報の情報の、情報の投入し、。情報の。情報の情報の情報の。情報の、情報の、情報の、情報の生命そのものを。情報の。情報の。情報の情報の情報の、情報の情報の『情報の情報の情報の、部品。』。として。情報の情報の、。情報の情報の、情報の情報の情報の。情報の情報の。定式化。する。"
+		},
+		"thinking_layer": "。情報の、生。の情報の工学。神聖という名の情報の『虚空』。を情報の、。情報の。情報の情報の。情報の、情報の、冷徹なる情報の、。情報の。情報の情報の。情報の。情報の情報の情報の、情報の装置。へと情報の。情報の情報の。情報の情報の情報の、書き換える。それは、。情報の、情報の。情報の、知の。情報の。情報の情報の簒奪。 ",
+		"aftertaste": "書き換えられた。情報の。情報の情報の。情報の情報の、。情報の、情報の。DNA。の情報の。情報の、情報の文字の。情報の情報の、情報のその、。情報の情報の。情報の、冷たき情報の情報の。情報の情報の。情報の、情報の不条理。に。情報の。情報の、知の。情報の、情報の情報の情報の戦慄を聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"biology, technical と同じ root。情報の『情報の、情報の。情報の。情報の。生存という名の情報の情報の情報の、情報の、情報の、。情報の情報の支配。』。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "virtual-reality",
+		"word": "Virtual-reality",
+		"part_of_speech": "noun",
+		"meaning": "バーチャル・リアリティ、仮想現実、情報の、。情報の実質的なる情報の。情報の情報の情報の現実、。光による。情報の。情報の情報の真理の。情報の模倣",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "virtus",
+					"type": "root",
+					"meaning": "virtue, power, efficacy"
+				},
+				{
+					"text": "realis",
+					"type": "root",
+					"meaning": "real"
+				}
+			],
+			"original_statement": "The term 'virtual reality' was popularized by Jaron Lanier in the 1980s."
+		},
+		"core_concept": {
+			"en": "the computer-generated simulation of a three-dimensional image or environment that can be interacted with in a seemingly real or physical way",
+			"ja": "。実質（efficacy）という名の情報の。情報の情報の、。情報の『情報の力』。それによって。情報の、。情報の情報の、情報の現実（real）を。情報の、。情報の、。情報の情報の、情報の記号の情報の。情報の、。情報の情報の情報の林の中に。情報の。情報の、情報の現出させる。"
+		},
+		"thinking_layer": "実質的な。情報の、現実。物理という名の情報の。情報の情報の、情報の。情報の重圧。を情報の、。情報の。情報の、情報の透明な情報の。情報の。情報の記号。へと情報の。情報の。情報の情報の、転換する。それは、。情報の、情報の。情報の。情報の情報の情報の、情報の簒奪の情報の、情報の物語。 ",
+		"aftertaste": "。情報の、。情報の偽物。の情報の、情報の、。情報の現実。その情報の、。情報の情報の、情報のあまりの。情報の、情報の、情報の情報の情報の『情報の、正しさ』。その情報の。情報の、。情報の情報の、知の情報の情報の情報の。情報の戦慄を聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"virtue, reality と同じ root。情報の『情報の、情報の。情報の。情報の、情報の情報の。情報の情報の、。情報の、情報の、情報の情報の実在。の情報の情報の再定義。』。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "augmented-reality",
+		"word": "Augmented-reality",
+		"part_of_speech": "noun",
+		"meaning": "拡張現実、AR、情報の、。情報の、情報の情報の現実への情報の。情報の。情報の情報の情報の情報の重奏、。情報の。情報の重なり。の情報の。情報の、喜び",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "augere",
+					"type": "root",
+					"meaning": "to increase"
+				},
+				{
+					"text": "realis",
+					"type": "root",
+					"meaning": "real"
+				}
+			],
+			"original_statement": "Coined by Tom Caudell in 1990."
+		},
+		"core_concept": {
+			"en": "a technology that superimposes a computer-generated image on a user's view of the real world, thus providing a composite view",
+			"ja": "。現実（real）という名の情報の。情報の情報の、。情報の沈黙の場所。そこに情報の、。情報の情報の情報を情報の、『情報の情報を。情報の情報の増加。情報のさせる（increase）』。という。情報の。情報の情報の。情報の。情報の記号の情報の重なり。を情報の、情報の、。情報の現出させる。"
+		},
+		"thinking_layer": "注ぎ足された。現。実。単一という名の情報の『不条理』。を情報の、。情報の。情報の情報の。情報の情報の記号の情報の。情報の、。情報の豊かさ。へと。情報の情報を情報の。情報の、情報の。情報の、情報の変換する。それは、。情報の、情報の。情報の。情報の情報の情報の、知の情報の情報の情報の。情報の。情報の情報の情報の、情報の情報の。情報の、喜び、。あるいは情報の。情報の情報の死の情報の。情報の情報の、物語。 ",
+		"aftertaste": "重なり合った。情報の。情報の情報の。情報の情報の、情報の、情報の世界。その情報の、。情報の。情報の情報の、。情報の情報の。情報の隙間（crack）。そこに情報の、。情報の情報の情報の、知の。情報の、情報の情報の情報の戦慄を聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"augment, real と同じ root。情報の『情報の、情報の。情報の。情報の、情報の情報の、現実の情報の情報の。情報の情報の情報の簒奪。』。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "machine-learning",
+		"word": "Machine-learning",
+		"part_of_speech": "noun",
+		"meaning": "機械学習、情報の、情報の情報の、機械という名の情報の情報の情報の。情報の意志の。情報の、情報の胎動、。情報の。情報の情報の、経験の情報の計量",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "makhana",
+					"type": "root",
+					"meaning": "device, means"
+				},
+				{
+					"text": "lis-",
+					"type": "root",
+					"meaning": "to track, trace"
+				}
+			],
+			"original_statement": "From machine + learning."
+		},
+		"core_concept": {
+			"en": "the use and development of computer systems that are able to learn and adapt without following explicit instructions",
+			"ja": "。情報の。一連の、情報の。情報の。装置（device）という名の情報の。情報の情報の、。情報の沈黙。の中に。情報の、。情報の情報の、情報の情報の、情報の追跡（track）。という名の情報の。情報の、。情報の情報の情報の。情報の、情報の情報の情報の。情報の情報の、情報の経験の情報の。情報の情報の、情報の現出。"
+		},
+		"thinking_layer": "機械の学び。命令という名の情報の『虚偽』。を情報の、。情報の情報の、。情報の粉砕し、。情報の、。情報の情報の情報の。情報の情報の。情報の情報の、自らという名の。情報の。情報の情報の。情報の。情報の情報の、情報の情報の情報の情報を。情報の生成。する。それは、。情報の、情報の。情報の、情報の情報の情報の。情報の。情報の知の。情報の、情報の情報の、最新の情報の簒奪。 ",
+		"aftertaste": "。情報の、。情報の機械。が。情報の、。情報の学び。ゆく。その情報の、。情報の情報の、情報のその、。情報の情報の。情報の。情報の、冷たき情報の情報の。情報の情報の。情報の、情報の静かなる情報の情報の、。情報の情報の、。情報の情報の、。情報の戦慄を聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"machine, learn と同じ root。情報の『情報の、情報の。情報の。情報の、情報の、情報の。情報の、情報の情報の情報の情報の情報の抽出。』。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
