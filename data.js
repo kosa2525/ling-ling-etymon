@@ -250776,5 +250776,329 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "pellucid",
+		"word": "Pellucid",
+		"part_of_speech": "adjective",
+		"meaning": "透明な、明晰な、理解しやすい",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "per-",
+					"type": "prefix",
+					"meaning": "through (徹底的に)"
+				},
+				{
+					"text": "lucidus",
+					"type": "root",
+					"meaning": "bright (明るい)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin pellucidus, from per- 'through' + lucidus 'bright'."
+		},
+		"core_concept": {
+			"en": "Translucently clear; easily understood",
+			"ja": "光が澱みなく『徹底的に通り抜け（through）』、一切の濁りや陰りを感じさせない、極限まで『明るく澄み渡った（bright）』状態"
+		},
+		"thinking_layer": "『光を通し切ること』。ルシッド（Lucid/明晰な）の強化版。物理的な透明度だけでなく、難解な真理を子供にでも分かるほど平易に説く知性の「透明さ」。一切の自己主張（エゴ）を消し去った、客観性の極致。",
+		"aftertaste": "高山の源流から汲み上げた一杯の水。あるいは、数式のように美しく完璧な論理の構築。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "leuk-",
+					"meaning": "light, brightness"
+				}
+			],
+			"points": [
+				"light, lucid, translucentと同根。",
+				"『光を散らさない』ことが、真実への最短距離。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "murky",
+		"word": "Murky",
+		"part_of_speech": "adjective",
+		"meaning": "暗い、濁った、怪しげな",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "mirky",
+					"type": "root",
+					"meaning": "dark (暗い)",
+					"lang": "Old Norse"
+				}
+			],
+			"original_statement": "From Old Norse myrkr 'darkness'."
+		},
+		"core_concept": {
+			"en": "Dark and gloomy, especially due to thick mist; (of liquid) obscure with sediment",
+			"ja": "霧や澱みによって視界が遮られ、底に何が沈んでいるか分からない、不安を誘う『暗がり（dark）』。真実が隠蔽された不透明な状態"
+		},
+		"thinking_layer": "『暗い、濁っている』。物理的な泥水だけでなく、意図や目的が不明瞭な「黒い噂」や「陰謀」を指す際にも使われます。知性が光（light）であるなら、マーキーは知性を拒絶する、あるいは知性が届かない混沌の領土。",
+		"aftertaste": "底の見えない湿地帯の、冷たい水の感触。あるいは、誰かが何かを隠していると直感した時の、胸のざわつき。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "mer-",
+					"meaning": "to disappear, be dark"
+				}
+			],
+			"points": [
+				"myriad, mistと同根の説あり。",
+				"『粒子の細かさ（mist）』が、かえって全体を『不可視（dark）』にする逆説。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "glistening",
+		"word": "Glistening",
+		"part_of_speech": "adjective",
+		"meaning": "きらきら輝く、濡れて光る",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "glisnian",
+					"type": "root",
+					"meaning": "to shine, glitter (輝く)",
+					"lang": "Old English"
+				}
+			],
+			"original_statement": "From Old English glisnian."
+		},
+		"core_concept": {
+			"en": "Shining with a sparkling light",
+			"ja": "表面が水分や油分で薄く覆われ、そこに光が当たって優しく、しかし鮮やかに跳ね返る、生命力に満ちた『きらめき』"
+		},
+		"thinking_layer": "『光り続けること』。ドライな「ひらめき（glitter）」に対し、リスニングは「潤いを伴う持続的な光」。雨上がりの葉、濡れた瞳、海から上がったばかりの肌。そこには乾燥した死ではなく、脈動する生の喜びがあります。",
+		"aftertaste": "降り始めた雪が街灯に照らされ、ダイヤモンドの粉のように舞う夜。あるいは、込み上げる涙を堪えた時の、瞳のドラマチックな純度。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ghel-",
+					"meaning": "to shine"
+				}
+			],
+			"points": [
+				"gold, glass, glass, gleamと同根。",
+				"『黄色い光（gold）』から派生した、豊かな価値の放射。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "saturate",
+		"word": "Saturate",
+		"part_of_speech": "verb",
+		"meaning": "浸す、飽和させる、満たす",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "satur",
+					"type": "root",
+					"meaning": "full (満ちた)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin saturare 'to fill full'."
+		},
+		"core_concept": {
+			"en": "Cause (something) to become thoroughly soaked with liquid so that no more can be absorbed; fill (something or someone) with something until no more can be held",
+			"ja": "細胞の一つ一つ、組織の隅々にまで完全に液体や色が浸透し、これ以上は何も受け入れられない『極限の満腹（full）』に達すること"
+		},
+		"thinking_layer": "『十分に満たすこと』。アセット（Asset/十分な資産）と同根。単なる「一杯」ではなく、限界を越える寸前の「濃密さ」。市場の飽和から、知識の習得まで。もう一滴も入らない状態は、一つのサイクルの完成と、新たな次元への転換を意味します。",
+		"aftertaste": "真夏の日差しに焼かれた、あまりにも青すぎる空。あるいは、完璧に理解し、身体の一部となった知識の重み。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sā-",
+					"meaning": "to satisfy"
+				}
+			],
+			"points": [
+				"satisfy, satire（元は盛りだくさんの料理皿）と同根。",
+				"『過剰であること』が、質の極点へと繋がる。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "opalescent",
+		"word": "Opalescent",
+		"part_of_speech": "adjective",
+		"meaning": "オパールのような、乳白色の輝き",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "opalus",
+					"type": "root",
+					"meaning": "opal (オパール)",
+					"lang": "Latin"
+				},
+				{
+					"text": "-escent",
+					"type": "suffix",
+					"meaning": "becoming (〜になりつつある)"
+				}
+			],
+			"original_statement": "From opal + -escent."
+		},
+		"core_concept": {
+			"en": "Showing a play of colors like that of an opal",
+			"ja": "乳白色の奥底で、青、緑、赤などの無数の色彩が溶け合い、不規則に火花を散らす、夢のように朧気で幻想的な輝き"
+		},
+		"thinking_layer": "『オパールになりつつあること』。はっきりとした輪郭を持たず、内側から滲み出すような多重的な美。それは語り得ぬ感情の複雑さ、あるいは、矛盾を抱えたまま成立している高度な魂の状態。 ",
+		"aftertaste": "ミルクの中に一滴だけインクを落としたような、淡く美しい混ざり合い。あるいは、霧の向こうで揺れる、街のあかりのような切なさ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"Sanskrit upala（貴重な石）が語源。",
+				"一つの実体の中に『虹（多様性）』を閉じ込めていること。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "dappled",
+		"word": "Dappled",
+		"part_of_speech": "adjective",
+		"meaning": "斑（まだら）の、木漏れ日の",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "dapple",
+					"type": "root",
+					"meaning": "spot (点)",
+					"lang": "Old Norse"
+				}
+			],
+			"original_statement": "From Old Norse deppill 'spot'."
+		},
+		"core_concept": {
+			"en": "Marked with spots or rounded patches of color or light",
+			"ja": "均一であることを拒み、光と影、あるいは異なる色彩が『斑点（spot）』のように混ざり合う、生命力豊かな、あるいは抽象的な模様"
+		},
+		"thinking_layer": "『斑点のある』。特に「木漏れ日（sun-dappled）」は、静止した木の葉と、流れる光のダンス。完璧な白や黒ではなく、曖昧な中間領域が織りなす、この世界本来の複雑なテクスチャーへの賛美。",
+		"aftertaste": "夏の午後、揺れる並木道に描かれた光と影の抽象画。あるいは、馬の美しい背中に浮かび上がる、気品ある斑点。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"apple（リンゴ）の模様に似ていることから派生した説もあり。",
+				"『バラバラなもの』が調和して一つの美を作る。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "viscous",
+		"word": "Viscous",
+		"part_of_speech": "adjective",
+		"meaning": "粘り気のある、ねっとりした、緩慢な",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "viscum",
+					"type": "root",
+					"meaning": "mistletoe glue (ヤドリギの粘着液)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin viscum 'mistletoe'."
+		},
+		"core_concept": {
+			"en": "Having a thick, sticky consistency between solid and liquid",
+			"ja": "固体と液体の境界で、重力に抗うようにゆっくりと流れ、触れるものにまとわりつく『粘り（glue）』のあるテクスチャー。時間の流れが遅滞している感覚"
+		},
+		"thinking_layer": "『ヤドリギの粘液のよう』。古来、ヤドリギの実は粘着剤（鳥もち）として使われました。離れようとしても離れられないしつこさ、あるいは物事がなかなか進まない「状況のドロドロとした重さ」のメタファー。 ",
+		"aftertaste": "蜂蜜が瓶の底からゆっくりと垂れる、あのじれったい時間。あるいは、過去の未練が足元にまとわりつくような、不自由な歩み。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "weis-",
+					"meaning": "to flow, melt (often toxic)"
+				}
+			],
+			"points": [
+				"virus（元は毒性のある液体）, oozesと同根。",
+				"『ゆっくりと流れる』ことが、時に『侵食』や『拘束』を意味する。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "friable",
+		"word": "Friable",
+		"part_of_speech": "adjective",
+		"meaning": "砕けやすい、もろい、ほぐれやすい",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "friare",
+					"type": "root",
+					"meaning": "to crumble (砕く、揉む)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin friabilis, from friare 'to crumble'."
+		},
+		"core_concept": {
+			"en": "Easily crumbled",
+			"ja": "指先で軽く触れるだけで、砂のようにホロホロと『崩れ（crumble）』、大地に還ってゆく、形あるものの最後の脆さと潔さ"
+		},
+		"thinking_layer": "『砕けること』。フリクション（Friction/摩擦）と同根。長い時間をかけて風化し、抵抗をやめた物質の有り様。それは「死」の予感でもありますが、新しい命を育むための「土壌」になるための、準備としての崩壊。",
+		"aftertaste": "乾燥したパンの耳を潰す時の、乾いた音。あるいは、何十年も放置された古い手紙が、空気に触れて粉々に散る瞬間の寂寥。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "bhrei-",
+					"meaning": "to cut, scrape"
+				}
+			],
+			"points": [
+				"briar（野茨）, frivolous（軽薄な＝砕け散ったもの）と同根。",
+				"『削り取る（scrape）』ことでしか、本質（砂）は現れない。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "scabrous",
+		"word": "Scabrous",
+		"part_of_speech": "adjective",
+		"meaning": "ザラザラした、不潔な、際どい、扱いにくい",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "scaber",
+					"type": "root",
+					"meaning": "rough, scurfy (粗い、かさぶた状の)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin scaber 'rough'."
+		},
+		"core_concept": {
+			"en": "Rough and covered with, or as if with, scabs; (of a topic) dealing with or characterized by suggestive, indecent, or scandalous themes",
+			"ja": "『かさぶた（scab）』のように表面がガサガサと荒れ、触れると不快な刺激や痛みを与えるテクスチャー。倫理的に「際どい」あるいは「醜悪な」現実"
+		},
+		"thinking_layer": "『ザラついた、かさぶたの』。スキャブ（Scab/かさぶた、裏切り者）と同根。滑らかな嘘よりも、ザラついた不都合な真実を。その扱いにくさは、私たちが直視を避けている「世界の肌触り」そのものでもあります。",
+		"aftertaste": "コンクリートの壁に指を滑らせた時の、鈍い痛み。あるいは、誰かの醜い欲望を垣間見てしまった時の、拭えない不快感。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "skep-",
+					"meaning": "to cut, scrape"
+				}
+			],
+			"points": [
+				"shave, scab, shaft（削り出された柄）と同根。",
+				"『削がれる』ことで、隠されていたゴツゴツとした本質が露出する。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
