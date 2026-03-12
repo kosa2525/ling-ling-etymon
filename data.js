@@ -257949,5 +257949,129 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "fluorescent",
+		"word": "Fluorescent",
+		"part_of_speech": "adjective",
+		"meaning": "蛍光の、蛍光を発する、鮮やかな",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "fluere",
+					"type": "root",
+					"meaning": "to flow (流れる)",
+					"lang": "Latin"
+				},
+				{
+					"text": "fluorite",
+					"type": "root",
+					"meaning": "fluorite (蛍石)",
+					"lang": "English"
+				}
+			],
+			"original_statement": "From fluorite (which shows the effect) + -escent, from Latin fluere 'to flow'."
+		},
+		"core_concept": {
+			"en": "(of a substance) having or showing fluorescence; vividly colorful; very bright",
+			"ja": "光という刺激を浴びた瞬間、そのエネルギーが内部を『流れ（flow）』、全く別の色鮮やかな輝きへと変換されて溢れ出す様子。外部との相互作用によって生まれる、人工的でまばゆい反射の美学"
+		},
+		"thinking_layer": "『流れ出す光の』。流動体（Fluid）やインフルエンザ（Influenza）、コンフルエンス（Confluence）と同根。蛍石（Fluorite）が、加熱や紫外線を浴びて「流れ出す」ように光ることから名付けられました。それは都会のネオンサインから、鮮やかすぎるほどの色（fluorescent color）まで。自らを守るための「威嚇」や「誘惑」としての、過剰な視覚情報。 ",
+		"aftertaste": "雨の降る都会の夜、濡れたアスファルトに反射する「蛍光色（fluorescent）」の光が、どこか現実感を喪失させ、自分をサイバーパンクの世界の住人に変えてしまうような、虚構の酩酊感。あるいは、あまりにも「鮮やかすぎる（fluorescent）」才能を目の当たりにした時の、網膜を焼かれるような羨望と、ある種の拒絶。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "bhleu-",
+					"meaning": "to swell, flow"
+				}
+			],
+			"points": [
+				"fluid, flow, flush, bloat, influence 同根。",
+				"『外部（outside）』からの刺激を受け入れ、それを自らの『内側（inside）』の物語へと『変換』して出力することこそが、知性の『代謝（metabolism）』の本質である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "phosphorescent",
+		"word": "Phosphorescent",
+		"part_of_speech": "adjective",
+		"meaning": "燐光（りんこう）を発する、蓄光性の、青白く光る",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "phōs-",
+					"type": "prefix",
+					"meaning": "light (光)",
+					"lang": "Greek"
+				},
+				{
+					"text": "phoros",
+					"type": "root",
+					"meaning": "bringing, bearing (運ぶ、身に宿す)",
+					"lang": "Greek"
+				}
+			],
+			"original_statement": "From Greek phōsphoros 'bringing light', from phōs 'light' + phoros 'bringing'."
+		},
+		"core_concept": {
+			"en": "Emitting light without heating; showing a luminous appearance after being exposed to light or other radiation",
+			"ja": "光を自らの内側へと一度『運（bring）』び、それを記憶するように身に『宿（bear）』し、光が消えた後もなお、暗闇の中で静かに放ち続ける様子。蓄積された記憶としての、静謐な『余韻』としての光"
+		},
+		"thinking_layer": "『光を運ぶこと』。フォスファー（Phosphor/リン）、フォト（Photo/光、写真）、メタファー（Metaphor/意味を別の場所へ運ぶもの）と同根。フルオレセント（Fluorescent）が瞬時の反応なら、フォスフォレセントは「持続する記憶」です。それは去りゆく想いのたけ、あるいは、今は亡き巨星の放つ、数億年後の光芒（光の跡）。 ",
+		"aftertaste": "電灯を消した後の、子供の寝室の天井に貼られた星たちが、微かな「燐光（phosphorescence）」を放って浮かび上がる、あの現実と夢の境界線が溶解するような安らかな魔法。あるいは、もう会えない人の言葉が、自分の心の暗闇の中でいまだに「ぼんやりと光り（phosphorescent）」続けていることに気づいた時の、魂の深呼吸。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "bhā-",
+					"meaning": "to shine"
+				},
+				{
+					"term": "bher-",
+					"meaning": "to carry"
+				}
+			],
+			"points": [
+				"photo, phase, bear, ferry, transfer 同根。",
+				"『体験（experience）』という光を自らの中に『持ち運び（carry）』、それを長い時間をかけて『意味（meaning）』という輝きへ変換し続けること。それが人間の記憶の本質である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "fulgurant",
+		"word": "Fulgurant",
+		"part_of_speech": "adjective",
+		"meaning": "稲妻のように光る、電光石火の、（痛みが）突き刺すような",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "fulgur",
+					"type": "root",
+					"meaning": "lightning (稲妻)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin fulgurant-, from fulgurare 'to lighten', from fulgur 'lightning'."
+		},
+		"core_concept": {
+			"en": "Flashing like lightning; brilliant",
+			"ja": "一瞬の閃光（lightning）で闇を切り裂き、すべてを等しく、しかし残酷なほど鮮明に照らし出す様子。有無を言わせぬ速度と輝き、そして触れれば死に至るような『絶対的な力』の顕現"
+		},
+		"thinking_layer": "『稲妻の』。フルミナント（Fulminant/突然の、激しい）や、輝かしい（Refulgent/再び輝く）と同根。ただの「光」ではなく、そこには「破壊」と「畏怖」が同居しています。それは予期せぬひらめきから、肺を貫くような鋭い神経の痛みまで。一瞬で世界の秩序を書き換えてしまう、天からの介入。 ",
+		"aftertaste": "漆黒の海原を、一瞬の「閃光（fulgurant flash）」が地平線まで真っ白に染め抜いた時の、あの網膜に焼き付く宇宙の暴力的な美しさ。あるいは、絶望のどん底にいた自分の脳裏に、解決策が「電光石火（fulgurant inspiration）」のごとく走り抜け、すべてのパズルが組み上がった瞬間の、背筋を走る痺れ。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "bhel-",
+					"meaning": "to shine, flash"
+				}
+			],
+			"points": [
+				"blaze, bleach, blind, blue, flame 同根の説あり。",
+				"『稲妻（lightning）』とは、天からの『裁き（judgment）』の可視化であり、そこには『一瞬』が『永遠』を圧倒する、時間の密度が圧縮されている。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
