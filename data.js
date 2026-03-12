@@ -263058,5 +263058,190 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "corrugated",
+		"word": "Corrugated",
+		"part_of_speech": "adjective",
+		"meaning": "波状になった、しわの寄った、段ボール状の",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "con-",
+					"type": "prefix",
+					"meaning": "together, intensive (共に、強調)"
+				},
+				{
+					"text": "ruga",
+					"type": "root",
+					"meaning": "wrinkle (しわ)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin corrugatus, from con- + ruga 'wrinkle'."
+		},
+		"core_concept": {
+			"en": "(of a material, surface, or structure) shaped into alternate ridges and grooves",
+			"ja": "表面を規則的な『波状（ridges and grooves）』に折り畳むことで、薄い素材に強固な剛性を与えた様子。柔らかさを捨てて『構造（structure）』へと進化した、機能的な美しさ"
+		},
+		"thinking_layer": "『しわを寄せること』。ルージュ（Rouge/赤＝血色を良くする、とは関係なく）、ラフ（Rough/粗い）とおそらくな。語源は「しわ」。ただの「しわ」ではなく、それが「人工的な機能」として設計されています。段ボール（corrugated cardboard）のように。それは、人生の荒波に耐えるために、あえて心を「波状の鎧（corrugated armor）」で覆い、強さと弾力性を手に入れた者の知的な防御姿勢。",
+		"aftertaste": "錆びた「波板（corrugated iron）」の屋根を雨粒が叩くリズムを聴き、その凹凸が音を増幅（amplify）させていることに気づく、あの無機質な世界の「鳴動」。あるいは、自分の知識が単なる平面ではなく、この「波状構造（corrugated structure）」のように多層的で強靭なものに鍛え上げられていることを信じる、あの静かな午後の自負。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "reu-",
+					"meaning": "to tear, dig (forming ruga?)"
+				}
+			],
+			"points": [
+				"rugose, rug, rough 同根の説あり。",
+				"『しわ（wrinkle）』とは本来は衰えの象徴だが、コルゲート（corrugated）構造においては、それは『表面積の拡大』と『物理的な強度』へのポジティブな転換（transformation）を意味する。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "rugose",
+		"word": "Rugose",
+		"part_of_speech": "adjective",
+		"meaning": "しわの多い、縮れた、彫りの深い",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "ruga",
+					"type": "root",
+					"meaning": "wrinkle (しわ)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin rugosus, from ruga 'wrinkle'."
+		},
+		"core_concept": {
+			"en": "Wrinkled; ridged",
+			"ja": "長い年月と風雪にさらされ、表面に深い『しわ（ridges）』が刻み込まれた様子。平坦な美しさを超越した、経験の重みが描く複雑な地形（topography）。老練な時間の署名"
+		},
+		"thinking_layer": "『しわだらけの』。コルゲート（Corrugated）の親戚。人工的な規則性のある「しわ」に対して、ルゴースは「自然で不規則な深いしわ」を指します。カエルの皮膚や、古い地層の表面。それは、一切の装飾を剥ぎ取った後に残る、存在そのものが持つ「凹凸（relief）」。誤魔化しようのない、生きた時間の記録。 ",
+		"aftertaste": "古い大樹の「しわだらけの（rugose）」樹皮に指を沈め、その一筋一筋に刻まれた何世紀分もの沈黙の記憶（memory of silence）に触れる時の、あの自分が「歴史の一部」に触れているという厳かな納得。あるいは、鏡の中の自分の顔が少しずつ「彫りを深めて（becoming rugose）」ゆくのを眺め、それが単なる老いではなく、知恵を蓄えた「風景」としての自分への進化であると信じる、あの静かな夜。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "reu-",
+					"meaning": "to tear, dig (forming ruga?)"
+				}
+			],
+			"points": [
+				"rug, rugged, rough 同根。",
+				"『しわ（wrinkle）』とは、平坦な表面が限界を超えて『折り畳まれる』ことで生じる。ルゴース（rugose）な質感とは、その限界を超えた場所でしか得られない、高次の密度（density）の表現である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "verrucose",
+		"word": "Verrucose",
+		"part_of_speech": "adjective",
+		"meaning": "いぼ状の、いぼの多い、不規則な突起のある",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "verrūca",
+					"type": "root",
+					"meaning": "wart, height (いぼ、高い場所)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin verruca 'wart'."
+		},
+		"core_concept": {
+			"en": "Covered with or resembling warts; (botany) having a surface covered with tubercles or small bumps",
+			"ja": "滑らかな秩序を破り、不規則な『いぼ（wart）』のような突起が表面を覆い尽くしている様子。生命力が過剰に噴出し、あるいは何らかの歪みを抱えたまま固定された、不気味で生命力溢れる『質感の反乱』"
+		},
+		"thinking_layer": "『いぼのような』。ヴェルーカ（Verruca/いぼ）と同根。語源は「いぼ、高台」。単なる「ぶつぶつ」ではなく、そこに「硬さ」と「執着」が宿っています。それは、自らを閉ざして世界から孤立しようとする「防御反応」、あるいは、平穏な日常に生じた「制御不能な異物」のメタファー。",
+		"aftertaste": "「いぼ状の（verrucose）」カボチャの皮の、あの不規則な突起（bumps）を指でなぞりながら、自然界が完璧な対称性（symmetry）を拒絶して見せる、ある種の「グロテスクな豊かさ」に圧倒される、あの眩暈（dizziness）。あるいは、自分の完璧だったはずの内面（inner world）に、醜い「嫉妬」や「猜疑心」という名の「いぼ（verrucose nodes）」が生じているのに気づき、それを一生抱えて生きる覚悟をする、あの苦い独白。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "wers-",
+					"meaning": "high place (forming verruca?)"
+				}
+			],
+			"points": [
+				"wart, worry（おそらくな） 同根の説あり。",
+				"『いぼ（wart）』とは、本来の成長の軌道（orbit）から外れた過剰な『増殖』である。バリュコース（verrucose）な質感とは、その個別の逸脱（deviation）が、一つの『生命の風景』を構成するまでに積み重なった状態である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "bullate",
+		"word": "Bullate",
+		"part_of_speech": "adjective",
+		"meaning": "（植物）水ぶくれ状の、表面が膨れ上がった",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "bulla",
+					"type": "root",
+					"meaning": "bubble, knob, seal (泡、まるい突起、印章)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin bulla 'bubble'."
+		},
+		"core_concept": {
+			"en": "Having a puckered or blistered appearance; (botany) having the surface blistered or puckered",
+			"ja": "表面が、内部からの圧力に耐えかねて『水ぶくれ（bubble）』のように無数に膨れ上がった様子。内なる力が表面を突き破らんとする、緊迫した『膨張の質感』"
+		},
+		"thinking_layer": "『泡のような』。ブリスター（Blister/水ぶくれ）、ボウル（Bowl）、ビュレット（Bullet/弾丸＝まるいもの）、そして「教皇の勅書（Papal Bull/印章がついているもの）」と同根。語源は「泡」。ただの「しわ」ではなく、その「隙間（void）」に何かが詰まっているような重みがあります。それは、言いたいことを飲み込みすぎて、心まで「水ぶくれ（bullate）」のようにパンパンに膨れ上がってしまった状態のメタファー。",
+		"aftertaste": "初夏の「水ぶくれ状の（bullate）」葉脈の盛り上がりを見つめ、その中に流れる生命のエネルギー（sap）のあまりの激しさに、世界がいまにも「破裂（burst）」しようとしているのではないかという錯覚に陥る、あの峻烈な一瞬。あるいは、あまりにも多くの「夢（bubbles）」を抱えすぎて、自分のアイデンティティがこの「ブレートな（bullate）」多面体のようにバラバラになってしまったと気づく、あの物憂げな午後。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "be-",
+					"meaning": "to swell (forming bulla)"
+				}
+			],
+			"points": [
+				"bubble, ball, balloon, bold（膨らんだ＝厚かましい） 同根。",
+				"『泡（bubble）』とは、中身が空虚（hollow）でありながらも、完璧な『張力（tension）』によって形を保っている状態。バレート（bullate）な美しさとは、その壊れやすい均衡（delicate balance）が連なり、一つの『構造』となった姿である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "sulcate",
+		"word": "Sulcate",
+		"part_of_speech": "adjective",
+		"meaning": "溝のある、縦溝のついた",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "sulcus",
+					"type": "root",
+					"meaning": "furrow, ditch (溝、畝)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin sulcatus, from sulcus 'furrow'."
+		},
+		"core_concept": {
+			"en": "Marked with long, parallel grooves",
+			"ja": "鋭い刃物で刻んだように、規則正しく平行な『溝（furrows）』が走る様子。情報の流れを秩序立て、あるいは特定の方向へと誘導（directing）するための、厳格な『知の運河』"
+		},
+		"thinking_layer": "『溝のある』。サルカス（Sulcus/大脳の溝）と同根。カデリー（Cathedral/おそらくな）とは関係なく。語源は「畝（うね）、溝」。ただの「傷」ではなく、それが「列（line）」を成していることが重要です。それは、複雑な情報を分類し、整理するための知性の「区分け（sorting）」、あるいは、どれほど時間が経っても消えることのない、魂の奥底に刻まれた「記憶の轍（わだち）」。",
+		"aftertaste": "ギリシャ神殿の柱に刻まれた「縦溝（sulcate grooves）」をなぞり、その冷たい規則性が生み出す「威厳（dignity）」に、人間の理性がカオス（chaos）に打ち勝とうとした歴史の重みを感じる、あの厳かな納得。あるいは、自分の大脳皮質の「溝（sulcus）」の深さが、自分の「孤独」や「迷い」の深さと比例しているのではないかと妄想する、あの静かな図書館での自己投射。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "selk-",
+					"meaning": "to draw, pull (forming sulcus/plowed line)"
+				}
+			],
+			"points": [
+				"silk（おそらくな）, sully（溝を汚す？） 同根の説あり。",
+				"『耕す（plowing）』という行為は、大地に『傷（furrow）』をつけることで肥沃（fertile）にするという逆説的な営みである。サルケート（sulcate）な思考とは、自らの心を常に『耕し』続けることで、新しい真理を受け入れる準備（openness）を整えることである。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
