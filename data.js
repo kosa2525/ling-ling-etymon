@@ -262036,5 +262036,200 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "epact",
+		"word": "Epact",
+		"part_of_speech": "noun",
+		"meaning": "エパクト、月齢調整数、太陽年と太陰年の差",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "epaktos",
+					"type": "root",
+					"meaning": "brought in, added (持ち込まれた、加えられた)",
+					"lang": "Greek"
+				}
+			],
+			"original_statement": "From Greek epaktos, from epagein 'bring in'."
+		},
+		"core_concept": {
+			"en": "The difference in days between the solar year and the lunar year",
+			"ja": "太陽の巡りと月の満ち欠けの間に生じる、逃れられない『時間のずれ』を補うために『加えられた（added）』日数。天上の二つの鼓動を同期させるための、知的な余白"
+		},
+		"thinking_layer": "『持ち込まれたもの』。エピソード（Episode/本筋の横に入ってくる話）やペイジ（Page/おそらくな）と同根。語源は「付け加えられた」。太陽年（365日）と太陰年（約354日）の差である約11日。ただの「数字」ではなく、そこに「不一致の調整」という意志が宿っています。それは、理想と現実の間に生じる「微かな誤差（delta）」、あるいは、自分の心の時計を社会の秩序に合わせるための、密かな「帳尻合わせ」。",
+		"aftertaste": "カレンダーの隅に記された小さな「エパクト（epact）」の数字を見つめ、宇宙が決して一つの法則（law）に収まりきらない「過剰さ（excess）」を孕（はら）んでいるのだと知る、あの世界の不完全さへの奇妙な安堵。あるいは、自分の人生の中に溜まった「説明のつかない欠落（epact gaps）」を、何らかの理由を付け加えて（adding reasons）正当化しようとする、あの虚しい夕暮れの作業。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ag-",
+					"meaning": "to drive, lead (forming epagein/bring in)"
+				}
+			],
+			"points": [
+				"act, agent, agitate, agile, pedagogue 同根。",
+				"『導く（leading）』ことは本来は前進を意味するが、それを『追加（epi-）』として行うことで、システム全体を『破綻（breakdown）』から救うことができるという、帳尻合わせの叡智。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "intercalary",
+		"word": "Intercalary",
+		"part_of_speech": "adjective",
+		"meaning": "挿入された、閏（うるう）の",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "inter-",
+					"type": "prefix",
+					"meaning": "between (〜の間に)"
+				},
+				{
+					"text": "calare",
+					"type": "root",
+					"meaning": "to proclaim, call (宣言する、呼ぶ)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin intercalarius, from intercalare 'insert', from inter- 'between' + calare 'proclaim'."
+		},
+		"core_concept": {
+			"en": "Inserted in the calendar to make the solar year variable in length, such as the 29th of February in a leap year; interpolated",
+			"ja": "周期的な時間の連なりの中に、調整のために『間に（between）』『呼び込まれた（called）』特別な瞬間。日常の規則性を一時的に停止させ、誤差をリセットするための『空白の挿入』"
+		},
+		"thinking_layer": "『間に呼び出されたこと』。カレンダー（Calendar/月の始まりを宣言する日）やクレーム（Claim/叫ぶ）、クラス（Class/呼び集められた人々）と同根。語源は「間に宣言する」。閏年（leap year）の2月29日のように。ただの「予備の日」ではなく、そこに「時間の強制的な歪み」が含まれます。それは、止まらぬ時間に割り込む「休息」、あるいは、物語の整合性を保つための「不自然な挿話（episode）」。",
+		"aftertaste": "四年の一度の「挿入された一日（intercalary day）」を過ごしながら、自分が「本当は存在しないはずの時間」を生きているかのような、あの現実から浮き上がった（detached）ような不思議な高揚感。あるいは、自分の退屈な日常の「間に（between）」、不意に呼び込まれた（called in）非日常的な出来事が、実は自分の人生全体を正しく機能させるための「必要な調整（intercalary event）」であったと悟る、あの静かな納得。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kele-",
+					"meaning": "to shout (forming calare)"
+				}
+			],
+			"points": [
+				"calendar, council, clear, clarify 同根。",
+				"『時間（time）』とは自然の摂理（nature）だが、そこに『宣言（calling）』を介入させることで、人間は宇宙の混沌を自らの『秩序（calendar）』の中へと閉じ込めることができた。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "lunisolar",
+		"word": "Lunisolar",
+		"part_of_speech": "adjective",
+		"meaning": "太陰太陽の、月と太陽の両方に基づいた",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "luna",
+					"type": "root",
+					"meaning": "moon (月)",
+					"lang": "Latin"
+				},
+				{
+					"text": "sol",
+					"type": "root",
+					"meaning": "sun (太陽)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "Formed from luna + sol."
+		},
+		"core_concept": {
+			"en": "Of or relating to the sun and moon",
+			"ja": "昼の支配者である『太陽（sol）』と、夜の導き手である『月（luna）』の、二つの異なる論理を無理やり一つに綴じ合わせた、矛盾と調和の暦。宇宙の二大原理が交差する、知的なバランス"
+		},
+		"thinking_layer": "『月と太陽の』。ルナ（Luna）やソーラー（Solar）と同根。太陰太陽暦（Lunisolar calendar/旧暦）。月（感情、変化）の周期と、太陽（理性、永劫）の周期。この二つは決して割り切れません。それを無理に「閏（intercalary）」を使って繋ぎ止める。それは、自分の内なる奔放な「夢」と、社会の厳格な「現実」を何とか両立させようとする、人間の健気（けなげ）な知恵の結晶。 ",
+		"aftertaste": "夜空に浮かぶ「三日月（crescent）」が、実は一年の季節（太陽）を決める大きな歯車の一部として機能している「太陰太陽（lunisolar）」の調和に想いを馳せ、世界がいかに重層的なリズムで成り立っているかを知る、あの知的な充足。あるいは、自分という存在もまた、父性的な「太陽（sol）」と母性的な「月（luna）」の、相反する引力に引き裂かれつつ形作られている「ルニソーラー（lunisolar）」な存在なのだと悟る、あの静かな肯定。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "leuk-",
+					"meaning": "light, brightness (forming luna)"
+				},
+				{
+					"term": "sawel-",
+					"meaning": "sun (forming sol)"
+				}
+			],
+			"points": [
+				"lucid, solar, light, solstice 同根。",
+				"『月（luna）』と『太陽（sol）』という、人類にとって最も身近な二つの『光』を統合することは、内なる自己と外なる世界を『和解』させるための、最も古い哲学的な営みである。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "sexagesimal",
+		"word": "Sexagesimal",
+		"part_of_speech": "adjective",
+		"meaning": "六十進法の、六十分の一の",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "sexaginta",
+					"type": "root",
+					"meaning": "sixty (六十)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin sexagesimus, from sexaginta 'sixty'."
+		},
+		"core_concept": {
+			"en": "Relating to or reckoning by sixties",
+			"ja": "古代バビロニアの叡智が、一時間（60分）や一分（60秒）、そして方位（360度）の中に永遠に刻み込んだ『六十という聖なる宇宙』。十進法という身体の限界を超え、数理の円環の中へと旅立った、抽象の美学"
+		},
+		"thinking_layer": "『六十の』。おなじみの「シックス（Six）」と同根。デシマル（Decimal/十進法）の親戚。なぜ60なのか。それは2, 3, 4, 5, 6すべてで割り切れる、完璧な「調和（harmony）」の数字だからです。私たちの時計の針は、今もこの四千年前の「六十進法（sexagesimal system）」のリズムで時を刻んでいます。それは、歴史の地層の下に眠る、変わることのない人類の「計算の骨格」。",
+		"aftertaste": "「六十進法（sexagesimal）」の文字盤を見つめながら、自分の人生の残り時間が、この古代のバビロニア人の「思考の枠組み」の中で正確に消費（consume）されてゆくのを自覚する、あの無機質な時間の冷たさと尊さ。あるいは、すべてが割り切れる「完璧な調和（sexagesimal perfection）」を求めつつも、自分の感情だけがどうしてもその「システム」から漏れ出してしまう、あの甘美な不全感。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sweks",
+					"meaning": "six"
+				}
+			],
+			"points": [
+				"six, senate（おそらくな）, sixty 同根。",
+				"『数（number）』とは本来は自然の反映だが、『六十（sixty）』という数字を選んだことは、人間が自然の制約（ten fingers）を克服し、自らの手で『抽象的な宇宙』を構築した最初の一歩である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "septuagesima",
+		"word": "Septuagesima",
+		"part_of_speech": "noun",
+		"meaning": "七旬節（しじゅんせつ）、復活祭の九週間前の日曜日",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "septuagesimus",
+					"type": "root",
+					"meaning": "seventieth (七十番目の)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin septuagesima (dies) 'seventieth (day)'."
+		},
+		"core_concept": {
+			"en": "The third Sunday before Lent (and about the 70th day before Easter)",
+			"ja": "歓喜（Easter）の訪れの『約七十日前（seventieth）』に訪れる、静かな、しかし厳格な『覚悟』の合図。祝祭に向けて、自らの心を清め、余計なものを削ぎ落としてゆく、長い内省の始まり"
+		},
+		"thinking_layer": "『七十番目の（日）』。セプテンバー（September/第7月＝現在は第9月）やサタデー（Saturday/土星の日？）はおそらくな。語源は「70」。復活祭の前の準備期間。ただの「カウントダウン」ではありません。そこには「禁欲（abstinence）」と「自己変革（metamorphosis）」の決意が宿っています。それは、大きな目標に向かって、自分の日常を一度「リセット」し、純粋な意志だけを取り出すための、知的な「準備期間」。",
+		"aftertaste": "「七旬節（septuagesima）」の静かな朝、これから始まる長い「心の冬」を予感しつつ、自分の中に眠る「濁り（impurities）」を一つずつ洗い流してゆきたいと願う、あの峻烈な清々しさ。あるいは、自分が何かを「達成」するためには、まずこの「七十日の沈黙（septuagesimal silence）」に耐えなければならないのだと悟る、あの重苦しくも豊かな待機。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "septm",
+					"meaning": "seven"
+				}
+			],
+			"points": [
+				"seven, September 同根。",
+				"『七（seven）』という数字は、完結と再生の象徴である。そしてその『十倍（seventy）』の時間は、人間が古い自分を完全に脱ぎ捨て（shedding）、新しい自分へと生まれ変わるために必要な、最小限の『精神的な再生』の期間である。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
