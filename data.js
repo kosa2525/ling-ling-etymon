@@ -254835,5 +254835,196 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "guise",
+		"word": "Guise",
+		"part_of_speech": "noun",
+		"meaning": "外見、身なり、〜を装って",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "wisa",
+					"type": "root",
+					"meaning": "way, manner (方法、様子)",
+					"lang": "Germanic"
+				}
+			],
+			"original_statement": "From Old French guise 'manner, fashion', of Germanic origin."
+		},
+		"core_concept": {
+			"en": "An external form, appearance, or manner of presentation, typically concealing the true nature of something",
+			"ja": "一時的な装い、あるいは特定の目的を果たすための『外見』や『マナー』。その奥に隠された真実を、ごく自然な「いつもの様子」で覆い隠す巧妙なカモフラージュ"
+		},
+		"thinking_layer": "『様子（manner/wise）』。ワイズ（Wise/〜流の）や、ウェイ（Way/道）と同根。ただの「変装」ではなく、その場の作法（manner）を完璧に模倣することで、周囲に溶け込むこと。それは優雅な礼儀から、獲物に近づく捕食者の擬態、あるいは「正義という名の装い」までを包み込みます。",
+		"aftertaste": "親しげな笑顔で近づいてきた人の、ふとした拍子に覗いた冷たい剥き出しの意志。あるいは、自分の苦しみを「元気なふり（guise）」で覆い隠し、誰にも気づかれずに一日を終える時の、疲弊した満足感。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "weid-",
+					"meaning": "to see, know"
+				}
+			],
+			"points": [
+				"wise, visual, guise, wit 同根。",
+				"『見える形（visual appearance）』を操作することは、他者の『認識（knowledge）』をコントロールすることに他ならない。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "pretext",
+		"word": "Pretext",
+		"part_of_speech": "noun",
+		"meaning": "口実、言い訳、見せかけ",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "prae-",
+					"type": "prefix",
+					"meaning": "before (前に)"
+				},
+				{
+					"text": "texere",
+					"type": "root",
+					"meaning": "to weave (織る)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin praetextus 'outward display', from prae- 'before' + texere 'weave'."
+		},
+		"core_concept": {
+			"en": "A reason given in justification of a course of action that is not the real reason",
+			"ja": "真実の動機を隠し、他者の目に触れるための『表向きの物語』を、言葉を『事前に（before）』『織り合わせて（weave）』作り上げること。巧妙な知的な隠れ蓑"
+		},
+		"thinking_layer": "『事前に織られたもの』。テキスト（Text/織物、文章）やコンテクスト（Context/文脈）と同根。真実（真相）は、この織り上げられた「口実」の裏側に隠されています。それは、自分の欲望を正当化するための論理の盾であり、社会的な摩擦を避けるための、最も洗練された知的な嘘の形。",
+		"aftertaste": "「あなたのためを思って」という完璧な口実の中に、自分の支配欲が僅かに透けて見えた時の、あの気まずい自覚。あるいは、歴史上の大事件が、たった一つの些細な「口実」から始まってしまったという、言葉の恐ろしさと軽薄さ。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "teks-",
+					"meaning": "to weave, fabricate"
+				}
+			],
+			"points": [
+				"text, texture, technical, context 同根。",
+				"『織ること（weaving）』と『作り上げること（fabricating/嘘をつく）』は、人類の歴史において常に同じ言葉で表現されてきた。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "dissemble",
+		"word": "Dissemble",
+		"part_of_speech": "verb",
+		"meaning": "（感情や意図を）隠す、装う、～のふりをする",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "dis-",
+					"type": "prefix",
+					"meaning": "away, asunder (バラバラに)"
+				},
+				{
+					"text": "simulare",
+					"type": "root",
+					"meaning": "to simulate, pretend (〜のふりをする)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Old French dissimuler, from Latin dissimulare, from dis- 'away' + simulare 'pretend'."
+		},
+		"core_concept": {
+			"en": "Conceal one's true motives, feelings, or beliefs",
+			"ja": "自分の真の感情や信念を、『自分自身の似姿（semblance）』から意図的に『引き離し（dis-）』、自分ではない誰か、あるいは何者でもない透明な存在を演じること"
+		},
+		"thinking_layer": "『似たものをバラバラにすること』。シミュレーション（Simulation）やセンブランス（Semblance/外見）と同根。激しい怒りを感じながらも、鏡の中に穏やかな微笑みを「置く」ような、冷徹な自己制御。それは、自分という個体を社会に適応させるための生存戦略であり、同時に、魂に深い裂け目（Schism）を作る行為。 ",
+		"aftertaste": "鏡の中の自分を、あたかも見知らぬ他者のように冷静にプロデュースしている時の、あの身の毛もよだつような冷たさ。あるいは、嘘を信じ込ませた後の、世界が自分の掌の上で転がっているという、震えるような全能感。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sem-",
+					"meaning": "one, same"
+				}
+			],
+			"points": [
+				"same, similar, simulate, simple 同根。",
+				"『同じ（same）』であることを拒む（dis-semble）ことが、知的な『欺瞞』の第一歩となる。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "semblance",
+		"word": "Semblance",
+		"part_of_speech": "noun",
+		"meaning": "外見、見せかけ、～に似ていること、微かな兆候",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "sembler",
+					"type": "root",
+					"meaning": "to seem (〜のように見える)",
+					"lang": "Old French"
+				},
+				{
+					"text": "similis",
+					"type": "root",
+					"meaning": "like (似ている)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Old French semblance, from sembler 'seem'."
+		},
+		"core_concept": {
+			"en": "The outward appearance or apparent form of something, especially when the reality is different",
+			"ja": "本質（Reality）とは異なっているかもしれないが、少なくとも他者の目にはそのように『見えている外見（apparent form）』。真実の断片、あるいは空虚な殻"
+		},
+		"thinking_layer": "『〜のように見えること』。シミラー（Similar/似ている）やリゼンブル（Resemble/似ている）と同根。そこには「たった一つの、僅かな（even a little）」という意味も含まれます。例えば「平静を装う（a semblance of calm）」と言った時、内側の嵐に対し、表面だけが辛うじて平和そうに見える、その危うい均衡を指します。 ",
+		"aftertaste": "廃墟となった街に、僅かに残ったかつての繁栄の「名残り（semblance）」。あるいは、最悪の関係になった後で、公衆の面前でだけ演じられる「幸福な家族」という名の、あまりにも虚しい見せかけ。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sem-",
+					"meaning": "one, same"
+				}
+			],
+			"points": [
+				"similar, simulate, resemble 同根。",
+				"『似ていること（similarity）』は最大の『安心（comfort）』を与えるが、それを利用することが最大の『欺瞞』となる。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "charade",
+		"word": "Charade",
+		"part_of_speech": "noun",
+		"meaning": "見えすいた茶番、ジェスチャーゲーム、偽装",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "charrat",
+					"type": "root",
+					"meaning": "chatter, gossip (おしゃべり)",
+					"lang": "Provencal"
+				}
+			],
+			"original_statement": "From French charade, from Provençal charrada 'chatter'."
+		},
+		"core_concept": {
+			"en": "An absurd pretense intended to create a pleasant or respectable appearance",
+			"ja": "誰もがその嘘を知っていながら、あえて指摘せずに演じ続けている『滑稽な茶番』。退屈しのぎの『おしゃべり（chatter）』のように軽薄で、しかし止めることのできない社会的な芝居"
+		},
+		"thinking_layer": "『おしゃべり』。単なる嘘よりも「大がかりで、かつ馬鹿げた」ニュアンス。言葉遊びの「ジェスチャーゲーム」が原義。形骸化し、誰も本気で信じていない儀式やルール。それでもなお、その芝居（Charade）を続けることでしか維持できない「見せかけの平和」への諷刺。 ",
+		"aftertaste": "自分たちの正義が偽物だと分かっていながら、カメラの前で固い握手を交わす政治家たちの、あの吐き気がするほど完璧な笑顔。あるいは、崩壊した友情を「何事もなかったふり」で繋ぎ止めようとする、涙の出るような努力の虚しさ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"おしゃべり（chatter）から『言葉のないジェスチャー（charade）』へ転じた意味の変遷。",
+				"『言葉』が力を失った時、人間は中身のない『動き（gesture）』だけで意味を偽装しようとする。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
