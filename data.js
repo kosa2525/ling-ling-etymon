@@ -253407,5 +253407,207 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "lachrymose",
+		"word": "Lachrymose",
+		"part_of_speech": "adjective",
+		"meaning": "涙もろい、悲しげな、涙を誘う",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "lacrima",
+					"type": "root",
+					"meaning": "tear (涙)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin lacrimosus 'tearful', from lacrima 'tear'."
+		},
+		"core_concept": {
+			"en": "Tearful or given to weeping; inducing tears; sad",
+			"ja": "瞳の奥に常に『涙（tear）』を湛え、わずかな風や心の揺れに反応して、それが零れ落ちてしまいそうな危うい悲しみの質感。感情の溢れ出し、あるいは過剰な湿り気"
+		},
+		"thinking_layer": "『涙に満ちていること』。単に「泣いている（crying）」のではなく、存在そのものが「湿っている」。それは過度なセンチメンタリズムへの揶揄として使われることもありますが、世界が孕む不条理に対して、常に「痛み」として反応してしまう、あまりにも繊細な魂の鏡。 ",
+		"aftertaste": "雨の日の窓ガラスを伝い落ちる滴のような、終わりのない、しかしどこか見入ってしまうような悲しみ。あるいは、自分でも理由が分からないまま、不意に視界が滲む時の、魂の微かな嗚咽。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "dakru-",
+					"meaning": "tear"
+				}
+			],
+			"points": [
+				"tear, lacrimal（涙腺の）と同根。",
+				"『涙（tear）』は、言葉にできない『真実（truth）』が、肉体を突き破り、物質として現れたもの。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "dirge",
+		"word": "Dirge",
+		"part_of_speech": "noun",
+		"meaning": "葬送歌、哀歌、葬儀の音楽",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "dirige",
+					"type": "root",
+					"meaning": "direct (導け)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin dirige (Domine, Deus meus, in conspectu tuo viam meam) 'Direct (O Lord, my God, my way in thy sight)', the first word of the antiphon in the Office of the Dead."
+		},
+		"core_concept": {
+			"en": "A lament for the dead, especially one forming part of a funeral rite",
+			"ja": "死者をあちら側の世界へと正しく『導き（direct）』、送り出すための、重低音で響く厳粛な葬列の調べ。避けられない運命への、深い服従と賛美"
+		},
+		"thinking_layer": "『導け』。ダイレクト（Direct）と同根。葬儀の祈りの最初の言葉「Dirige（主よ、導きたまえ）」に由来。それは死というカオスに対し、祈りとリズム（Order）を与えることで、生き残った者の心を繋ぎ止めるための、切実な様式美。",
+		"aftertaste": "鉛色の空の下、ゆっくりと進む黒い列の足音と、太鼓の響き。あるいは、自分の人生という物語の終焉に向かって、どこからか聞こえてくる、静かで容赦のない鎮魂歌の予感。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "reg-",
+					"meaning": "to move in a straight line, lead, rule"
+				}
+			],
+			"points": [
+				"rich, royal, direct, dress 同根。",
+				"『死』という究極の混乱に、『直線（straight line）』という秩序を与えることが、宗教と芸術の最初の出会いであった。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "threnody",
+		"word": "Threnody",
+		"part_of_speech": "noun",
+		"meaning": "悲歌、哀歌、挽歌",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "thrēnos",
+					"type": "root",
+					"meaning": "wailing (嘆き)",
+					"lang": "Greek"
+				},
+				{
+					"text": "ōidē",
+					"type": "root",
+					"meaning": "song (歌、オード)",
+					"lang": "Greek"
+				}
+			],
+			"original_statement": "From Greek thrēnōidia, from thrēnos 'wailing' + ōidē 'song'."
+		},
+		"core_concept": {
+			"en": "A song of lamentation for the dead; an elegy",
+			"ja": "抑えようのない激しい魂の『呻き（wailing）』を、研ぎ澄まされた『歌（song）』という器に封じ込め、永遠の記憶として結晶化させたもの。美しさにまで昇華された絶望"
+		},
+		"thinking_layer": "『嘆きの歌』。オード（Ode）やメロディ（Melody）と同根。ただの悲しみ（Elegy）よりも、より激しく、儀式的で、音楽的な響きが伴います。生命が失われたことへの「宇宙的な憤り」と、それでも美しくあろうとする人間の誇りの、最後の衝突。 ",
+		"aftertaste": "極寒の荒野で一人、天に向かって歌い上げる、凍てついた叫びのような旋律。あるいは、歴史の闇に消えていった無数の名もなき人々への、壮大なシンフォニーの余韻。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "dher-",
+					"meaning": "to drone, mutter"
+				},
+				{
+					"term": "awe-",
+					"meaning": "to speak, sing"
+				}
+			],
+			"points": [
+				"melody, comedy, tragedy 同根。",
+				"『悲劇（tragedy）』が劇的であるのに対し、『スレノディ（threnody）』は、より個人的で切実な『音（sound）』そのものの訴え。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "plaintive",
+		"word": "Plaintive",
+		"part_of_speech": "adjective",
+		"meaning": "悲しげな、哀れを誘う、不平を訴えるような",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "plainte",
+					"type": "root",
+					"meaning": "complaint (不平、嘆き)",
+					"lang": "Old French"
+				},
+				{
+					"text": "plangere",
+					"type": "root",
+					"meaning": "to beat the breast (胸を打って嘆く)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Old French plaintif, from plainte 'complaint'."
+		},
+		"core_concept": {
+			"en": "Sounding sad and mournful",
+			"ja": "誰かに届くことを願いながら、自ら『胸を打ち（beat the breast）』、その痛みを震えるような声（嘆き）に変えて空へ放つ。助けを求めるような、切なくか細い響き"
+		},
+		"thinking_layer": "『胸を打って嘆くこと』。コンプレイン（Complain/不平を言う）やプレイン（Plain/明白な＝平らに打たれた）と同根。ただの独白ではなく、「誰か聴いてくれ、この痛みを分かってくれ」という微かな訴え。風に舞う木の葉の擦れや、遠くで鳴く鳥の声にも、私たちはこの「プレインティブ（悲しげな）」な響きを聴き取ります。 ",
+		"aftertaste": "誰もいない夜の浜辺で、寄せては返す波が奏でる、終わりのない溜息のような響き。あるいは、言いたいことを飲み飲み込んだまま、震える唇で「大丈夫」と微笑む人の、瞳に宿る微かな切なさ。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "plāk-",
+					"meaning": "to strike, flat"
+				}
+			],
+			"points": [
+				"plague（打撃＝疫病）, complain, replace 同根。",
+				"『打つ（strike）』という強い運動が、精神的には『嘆き（complaint）』へと変質する。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "doleful",
+		"word": "Doleful",
+		"part_of_speech": "adjective",
+		"meaning": "悲しみに沈んだ、陰気な、痛ましい",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "dolus",
+					"type": "root",
+					"meaning": "pain, grief (痛み、悲しみ)",
+					"lang": "Old French"
+				},
+				{
+					"text": "dolere",
+					"type": "root",
+					"meaning": "to suffer, feel pain (苦しむ)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Old French doel 'grief', from Latin dolere 'grieve'."
+		},
+		"core_concept": {
+			"en": "Expressing sorrow; mournful",
+			"ja": "逃れようのない身体的な『痛み（pain）』のように、魂がじわじわと『苦しみに（grieve）』蝕まれ、その重みに耐えかねて沈み込んでいる状態。共感を呼び起こすような痛々しさ"
+		},
+		"thinking_layer": "『苦しみに満ちていること』。コンドレンス（Condolence/お悔やみ＝共に苦しむ）やインドレント（Indolent/不精な＝苦痛を感じない）と同根。心が「怪我」をしている状態。その悲しみは、冷たくて重い石のように、心臓の奥深くに居座り、すべての思考を澱ませます。",
+		"aftertaste": "降り止まない冬の雨のように、体温を奪い、世界を灰色に染め上げる、静かで根の深い悲しみ。あるいは、傷ついた小鳥が、隅でじっと動かずに死を待っている時の、あのいたわしい静寂。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "del-",
+					"meaning": "to split, chop (with pain)"
+				}
+			],
+			"points": [
+				"condolence, indolent, dollar（おそらく関係なし）, delve（掘る）と同根の説あり。",
+				"『痛み』は、魂を『切り裂く（split）』という根源的な破壊体験として認識。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
