@@ -305964,5 +305964,305 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "optics",
+		"word": "Optics",
+		"part_of_speech": "noun",
+		"meaning": "光学、情報の情報の情報の。情報の光の情報の物語、。情報の不可視な、。情報の。情報の真理の。情報の情報の、影の工学",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "op-",
+					"type": "root",
+					"meaning": "to see"
+				},
+				{
+					"text": "optikos",
+					"type": "root",
+					"meaning": "of or for sight"
+				}
+			],
+			"original_statement": "From Greek optikos."
+		},
+		"core_concept": {
+			"en": "the scientific study of sight and the behavior of light, or the properties of transmission and deflection of other forms of radiation",
+			"ja": "。見る（to see）という名の情報の『実存の情報の情報の明白さ』。それを情報の、。情報の信息的、情報の。情報の情報の。情報の光という名の。情報の。情報の透明な実体。として情報の、情報の情報の情報の、分析し、。情報の、情報の。情報の情報の情報の、映り（reflection）。あるいは情報の。情報の屈折（refraction）。。へと情報の情報の、。情報の情報の情報の情報の情報の情報の、定式化。"
+		},
+		"thinking_layer": "。見るための学問。暗闇という名の情報の『情報の、情報の。情報の沈黙』。を。情報の、。情報の情報の、情報の情報の。情報の光という名の情報の。情報の、情報の情報の。情報の記号。によって情報の。情報の。情報の。情報の情報の。情報の空間。を情報の、。情報の情報の情報の現出させる。それは、。情報の、情報の情報の情報の。情報の、知の。情報の。情報の情報の簒奪。 ",
+		"aftertaste": "。情報の、。情報のレンズ。の情報の、情報の情報の。情報のその、。情報の情報の情報の情報の透明な情報の情報の。情報の情報の、情報の物理法則。その情報の、。情報の情報の、情報の不気味なほどの情報の。情報の、。情報の情報の情報の確実性。に情報の、情報の知の情報の情報の情報の。情報の、。情報の情報の、戦慄を聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"optical, synopsis と同じ root。情報の『情報の、情報の。情報の。情報の、情報の情報の、情報の。情報の情報の視線の。情報の、情報の、情報の簒奪。』。"
+			]
+		},
+		"date": "2026-03-13"
+	},
+	{
+		"id": "ballistics",
+		"word": "Ballistics",
+		"part_of_speech": "noun",
+		"meaning": "弾道学、情報の情報の、情報の。情報の情報の、情報の投げられたる情報の。情報の。情報の物理的宿命、。情報の。情報の死の情報の、。情報の情報の情報の物語",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "ballein",
+					"type": "root",
+					"meaning": "to throw"
+				}
+			],
+			"original_statement": "From Greek ballein."
+		},
+		"core_concept": {
+			"en": "the science of projectiles and firearms",
+			"ja": "。投げる（throw）という名の情報の『暴力的なる情報の情報の離脱』。その情報の。情報の情報の。情報の情報の、情報の情報の、軌跡（path）。宇宙という名の情報の『情報の、。情報の情報の情報の、重力の監獄。』。の中に。情報の、。情報の情報の、情報の、情報の情報の透明な、。情報の。情報の放物線。へと情報の。情報の情報の情報の情報の情報の情報の情報の。情報の、情報の死を情報の投げかける。"
+		},
+		"thinking_layer": "。投げる学問。静止という名の情報の『情報の、情報の。情報の安定』。を情報の。情報の、。情報の情報の。情報の情報の情報の物理的なる情報の。情報の情報の情報の。情報の放射。によって情報の。情報の情報の情報の、情報の粉砕する。それは、。情報の、情報の情報の情報の。情報の、知の。情報の。情報の、情報の情報の、簒奪。 ",
+		"aftertaste": "。情報の、。情報の情報の。情報のその、。情報の情報の砲煙。の情報の向う側に情報の。情報の、情報の。情報の描き出される情報の、。情報の冷徹なる情報の、。情報の、情報の数学的な、。情報の宿命。その、。情報の、情報の情報の、知の情報の、情報の戦慄を聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ball, symbol, problem と同じ root。情報の『情報の、情報の。情報の。情報の、情報の、情報の情報の投射された情報の。情報の情報の情報の。情報の情報の簒奪。』。"
+			]
+		},
+		"date": "2026-03-13"
+	},
+	{
+		"id": "tensor",
+		"word": "Tensor",
+		"part_of_speech": "noun",
+		"meaning": "テンソル、情報の情報の、。情報の情報の張力、。情報の、情報の情報の。情報の情報の、情報の重畳された情報の。情報の、情報の情報の。情報の、情報の、。情報の情報の真理。の面差し",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "tendere",
+					"type": "root",
+					"meaning": "to stretch"
+				}
+			],
+			"original_statement": "From Latin tensus (past participle of tendere)."
+		},
+		"core_concept": {
+			"en": "a mathematical object analogous to but more general than a vector, represented by an array of components that are functions of the coordinates of a space",
+			"ja": "。単一という名の情報の『不条理』。を情報の、。情報の。情報の情報の。情報の情報の情報の情報の、情報の情報の、情報の張られた（stretch）情報の情報の情報の情報の『情報の情報の、網（grid）』。それによって情報の。情報の。情報の、情報の情報の情報の。情報の空間そのものを、。情報の。情報の情報の情報の。情報の多面的なる、。情報の情報の情報の。情報の情報の情報の情報の情報の、抽出。"
+		},
+		"thinking_layer": "。引き伸ばすもの。点という名の情報の『情報の、情報の。情報の孤立』を情報の情報の。情報の。情報の情報の情報の情報の情報の極限まで。情報の、情報の情報の、情報の上昇性。へと情報の。情報の情報の情報の情報の、情報の変容させる。それは、。情報の、情報の情報の。情報の、知の。情報の。情報の、情報の情報の、簒奪。 ",
+		"aftertaste": "情報の情報の、繋ぎ合わされた。情報の。情報の情報の。情報の情報の物理法則。その情報の、。情報の情報の、その情報の。情報の、。情報の、情報の、不気味なほどの情報の。情報の。情報の情報の、情報の。静かなる情報の情報の、情報の戦慄を情報の情報の聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"tend, tension, intent と同じ root。情報の『情報の、情報の。情報の。情報の、情報の、情報の不変の情報の情報の情報の情報の。情報の、情報の広がり。』。"
+			]
+		},
+		"date": "2026-03-13"
+	},
+	{
+		"id": "scalar",
+		"word": "Scalar",
+		"part_of_speech": "noun",
+		"meaning": "スカラー、情報の、情報の情報の、情報の情報の階梯、。情報の単一の。情報の情報の。情報の重みの記号",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "scala",
+					"type": "root",
+					"meaning": "ladder, steps"
+				}
+			],
+			"original_statement": "From Latin scala 'ladder'."
+		},
+		"core_concept": {
+			"en": "a quantity having only magnitude, not direction",
+			"ja": "。方向（direction）という名の。情報の、情報の情報の情報の。情報の『物語の峻烈なる情報の拡散』。を情報の、。情報の。情報の信息的、情報の。情報の情報の、情報の情報の階梯（ladder）。という名の。情報の、情報の情報の。情報の情報の。一情報の。情報の情報の情報の。情報の情報の大きさ。へと情報の。情報の情報の。情報の情報の。定着。"
+		},
+		"thinking_layer": "はしご。浮遊という名の情報の『情報の、情報の。情報の虚偽』。を情報の。情報の、。情報の情報の情報の。情報の情報の情報の情報の。一情報の。情報の情報の情報の情報の情報の、一義的なる情報の。情報の情報の。情報の。決定。それは、。情報の、情報の情報の。情報の、知の。情報の。情報の、情報の情報の、簒奪。 ",
+		"aftertaste": "たった。情報の、情報の、一。情報の。情報の。情報の情報の数。その、。情報の、情報の情報の、情報の情報の情報の。情報の。情報の情報の不気味な情報の、。情報の情報の、情報の。透明な安定。の情報の情報の戦慄を聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"scale, escalator と同じ root。情報の『情報の、情報の。情報の。情報の、情報の、段階としての情報の情報の、。情報の情報の、簒奪。』。"
+			]
+		},
+		"date": "2026-03-13"
+	},
+	{
+		"id": "fourier",
+		"word": "Fourier",
+		"part_of_speech": "noun",
+		"meaning": "フーリエ、情報の、情報の情報の、情報の。情報の情報の情報の、情報の情報の情報の、奏でられる情報の世界の情報の情報の分析、。情報の。情報の振動。の物語",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "Fourier",
+					"type": "root",
+					"meaning": "Joseph Fourier (1768-1830)"
+				}
+			],
+			"original_statement": "Named after the French mathematician and physicist Joseph Fourier."
+		},
+		"core_concept": {
+			"en": "relating to the mathematical methods developed by Joseph Fourier, especially for the analysis of complex wave patterns",
+			"ja": "。混沌（chaos）という名の情報の。情報の情報の。情報の不透明な情報の情報の明白さ。それを。情報の、情報の情報の情報の。情報の一連の情報の。情報の、情報の波（wave）。へと情報の。情報の情報の情報の情報の抽出。し、。情報の、情報の情報の。情報の、宇宙そのものを、。情報の。情報の、。情報の情報の透明な情報の情報の。情報の。情報の音楽。へと、情報の情報を情報の。情報の物語。"
+		},
+		"thinking_layer": "。人名。実体という名の情報の『情報の、情報の。情報の重圧』。を。情報の、。情報の情報の、情報の情報の情報の情報の。情報の情報の、振動。へと情報の。情報の情報の情報の。情報の情報の。情報の情報の分解。する情報の。情報の情報の。情報の、物語。それは、。情報の、情報の、。情報の情報の情報の知の。情報の情報の情報の、。情報の情報の、情報の簒奪。 ",
+		"aftertaste": "分解された。情報の。情報の情報の。情報の情報の、情報の色。その情報の。情報の、情報の情報の、。情報の波。の情報の情報の情報の、。情報の情報の、情報の情報の奏でる情報の響き。の中に情報の、。情報の、情報の情報の不気味なほどの情報の。情報の。情報の情報の。情報の戦慄を聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"Fourier analysis。情報の『情報の、情報の。情報の。情報の、情報の、時間の情報の。情報の情報の、。空間への情報の、情報の再定義。』。"
+			]
+		},
+		"date": "2026-03-13"
+	},
+	{
+		"id": "lagrangian",
+		"word": "Lagrangian",
+		"part_of_speech": "noun",
+		"meaning": "ラグランジアン、情報の、情報の情報の、情報の最小の情報の情報の情報の。情報の道の情報の情報の情報の情報の、情報の情報の。情報の真理、。情報の。情報の宇宙の情報の。情報の。力学の物語",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "Lagrange",
+					"type": "root",
+					"meaning": "Joseph-Louis Lagrange (1736-1813)"
+				}
+			],
+			"original_statement": "Named after Joseph-Louis Lagrange."
+		},
+		"core_concept": {
+			"en": "a function that summarizes the dynamics of a physical system",
+			"ja": "。複雑（complexity）という名の情報の。情報の情報の。情報の濁流。そこから。情報の、情報の情報の。情報の、一情報の。情報の数。へと情報の、情報の、情報の簒奪。し、。情報の、。情報の『情報のエネルギーの差』。という名の情報の。情報の、。情報の情報の情報の、情報の死の界軸。を情報の、情報の、現出させる情報の、情報の情報の物語。"
+		},
+		"thinking_layer": "。人名。多様という名の情報の『情報の、情報の。情報の不条理』。を。情報の、。情報の情報の。情報の。情報の情報の最短の。情報の情報の情報の。情報の『道のり』。へと情報の、。情報の情報の。情報の情報の透明な情報の情報の。情報の情報の情報の。情報の精練。それは、。情報の、情報の、知の。情報の。情報の情報の簒奪。 ",
+		"aftertaste": "。情報の、。情報のその、情報の情報の情報の。一情報の情報の物語が。情報の。情報の情報の情報の宇宙のすべてを。情報の。情報の情報の、情報の支配している。という。情報の。情報の、情報の情報の情報の、不気味な情報の、。情報の情報の、情報の知の情報の。情報の戦慄を聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"Lagrange point。情報の『情報の、情報の。情報の。情報の、情報の、秩序の情報の情報の、。情報の情報の、定点。』。"
+			]
+		},
+		"date": "2026-03-13"
+	},
+	{
+		"id": "hamiltonian",
+		"word": "Hamiltonian",
+		"part_of_speech": "noun",
+		"meaning": "ハミルトニアン、情報の、情報の情報の、情報の。情報の全情報の情報の。情報の情報の重量の記号、。情報の強靱なる情報の情報の。情報の、情報の情報の保存の物語",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "Hamilton",
+					"type": "root",
+					"meaning": "William Rowan Hamilton (1805-1865)"
+				}
+			],
+			"original_statement": "Named after William Rowan Hamilton."
+		},
+		"core_concept": {
+			"en": "an operator corresponding to the total energy of the system in most of the physical cases",
+			"ja": "。運動（kinema）と。情報の情報の情報の。情報の、存在。その情報の。情報の情報の情報の情報の情報の合一。それによって、。情報の情報の情報の。情報の、情報の宇宙の情報の、。情報の。情報の全きエネルギーの情報の情報の。情報の情報の情報の『情報の情報の、総量。』。へと情報の情報を情報の。情報の簒奪。する。"
+		},
+		"thinking_layer": "。人名。時間という名の情報の『情報の、情報の。情報の不変の川』。を情報の、。情報の。情報の情報の。情報の情報の情報の情報の、情報の、情報の情報の情報の情報の。情報の。情報の情報の情報の。情報の情報の。情報の情報の保存の理論。へと情報の情報の、。情報の情報の情報の情報の。情報の物語へと情報の、情報の情報の、変換。それは、。情報の、情報の、知の。情報の。情報の情報の簒奪。 ",
+		"aftertaste": "情報の情報の、繋ぎ合わされた。情報の。情報の情報の。情報の情報の物理法則。その情報の、。情報の情報の、その情報の。情報の、。情報の、情報の、不気味なほどの情報の。情報の。情報の情報の、情報の。情報の不変の情報の情報の情報の、。情報の戦慄を情報の情報の聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"Hamiltonian mechanics。情報の『情報の、情報の。情報の。情報の、情報の、時間の情報の。情報の情報の、。情報の情報の。簒奪。』。"
+			]
+		},
+		"date": "2026-03-13"
+	},
+	{
+		"id": "synergetics",
+		"word": "Synergetics",
+		"part_of_speech": "noun",
+		"meaning": "シナジェティクス、情報の、情報の情報の、情報の。情報の情報の情報の、情報の。情報の情報の情報の情報の、繋がりの情報の凱歌、。情報の。情報の豊饒なる情報の。情報の物語",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "syn-",
+					"type": "prefix",
+					"meaning": "together"
+				},
+				{
+					"text": "ergein",
+					"type": "root",
+					"meaning": "to work"
+				}
+			],
+			"original_statement": "Coined by Buckminster Fuller."
+		},
+		"core_concept": {
+			"en": "the study of systems in transformation, with an emphasis on total system behavior unpredicted by the behavior of any isolated components",
+			"ja": "。孤立という名の情報の『情報の、情報の。情報の情報の情報の死』。を情報の、。情報の信息的、情報の。情報の情報の、共に（together）働く（work）。。という情報の。情報の、情報の上昇性。へと情報の。情報の、情報の情報の、。情報の全体性（wholeness）。としての情報の、情報の情報の、。情報の情報の。真理の抽出。"
+		},
+		"thinking_layer": "。共に働く。部分という名の情報の『情報の、情報の。情報の情報の虚妄』。を。情報の、。情報の情報の、情報の情報の情報の情報の情報の極限まで。情報の、情報の情報の、。情報の共鳴（resonance）。へと情報の。情報の、情報の情報の情報の、情報の情報の。情報の物語。それは、。情報の、情報の、知の。情報の。情報の情報の、情報の簒奪。 ",
+		"aftertaste": "繋がった。情報の。情報の情報の。情報の情報の宇宙のすべてが。情報の。情報の。情報の情報の、情報の情報の、一つの。情報の。情報の情報の。情報の。情報の大きな情報の情報の情報の。情報の情報の情報の響き。その、。情報の、情報の情報の情報の。情報の、知の情報の、情報の情報の、戦慄を聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"synergy と同じ root。情報の『情報の、情報の。情報の。情報の、情報の、情報の不変の情報の情報の情報の、。情報の情報の、重奏。』。"
+			]
+		},
+		"date": "2026-03-13"
+	},
+	{
+		"id": "shear",
+		"word": "Shear",
+		"part_of_speech": "noun",
+		"meaning": "剪断（せんだん）、情報の情報の、。情報の情報の、情報の切り裂く情報の。情報の情報の。情報の物理的なる、。情報の不条理",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "skeren",
+					"type": "root",
+					"meaning": "to cut"
+				}
+			],
+			"original_statement": "From Old English sceran 'to cut'."
+		},
+		"core_concept": {
+			"en": "a strain in the structure of a substance produced by pressure, when its layers are laterally shifted in relation to each other",
+			"ja": "。一様という名の情報の『情報の、情報の、情報の安逸』。を情報の、。情報の情報を情報の。情報の、情報の切る（cut）という名の。情報の。情報の。情報の情報の、。情報の情報の。情報の簒奪。情報の、位置の情報の。情報のずれ。によって。情報の情報を情報の情報の。情報の情報の情報の、暴力。"
+		},
+		"thinking_layer": "切ること。一体という名の情報の『情報の、情報の。情報の虚偽』を情報の情報の。情報の。情報の峻烈に情報の情報の情報の、。情報の情報の。情報の情報の情報の、情報の。情報の情報の情報の不条理なる情報の。情報の情報の情報の。情報の粉砕。それは、。情報の、情報の、情報の、知の。情報の。情報の。情報の情報の簒奪。 ",
+		"aftertaste": "引き裂かれた。情報の。情報の情報の。情報のその、。情報の情報の。情報の情報の情報の。情報の。情報の情報の冷たき情報の、。情報の情報の。情報の情報の、断面。その情報の、。情報の情報の、情報の情報の静かなる情報の、。情報の情報の、知の情報の、情報の戦慄を聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"short, sharp, score と同じ root。情報の『情報の、情報の。情報の。情報の、情報の、情報の秩序の情報の情報の。情報の、情報の剥奪。』。"
+			]
+		},
+		"date": "2026-03-13"
+	},
+	{
+		"id": "stress",
+		"word": "Stress",
+		"part_of_speech": "noun",
+		"meaning": "応力、ストレス、情報の、。情報の情報の。情報の重量の情報の情報の圧、。情報の。情報の情報の情報の。情報の耐えゆく実存、。情報の、情報の重き。情報の情報の情報の情報の、。情報の情報の沈。情報の情報の情報の物語",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "stringere",
+					"type": "root",
+					"meaning": "to draw tight"
+				}
+			],
+			"original_statement": "From Old French estresse 'narrowness, oppression' (Latin stringere)."
+		},
+		"core_concept": {
+			"en": "the internal force per unit area that particles of a continuous material exert on each other",
+			"ja": "。安逸という名の情報の『情報の、情報の情報の情報の。情報の情報の死』。そこに情報の。情報の、情報の重重たる、。情報の、情報の情報の。情報の圧。が情報の、。情報の情報の。情報の。情報の情報の引き締め（tighten）。。情報の情報の現出させる。情報の情報の。情報の、情報の情報の。情報の内なる、情報の情報の凱歌。"
+		},
+		"thinking_layer": "。引き締めること。弛緩という名の情報の『情報の、情報の。情報の情報の明白な虚偽』を情報の、。情報の。情報の情報の。情報の。情報の情報の情報の情報の情報の情報の情報の。情報の情報の情報の情報の。情報の情報の情報の情報の、情報の抵抗。へと。情報の情報を情報の情報の。転換する。それは、。情報の、情報の、知の。情報の。情報の。情報の情報の簒奪。 ",
+		"aftertaste": "情報の情報の、耐え忍ぶ情報の。情報の情報のその情報の。情報の、。情報の。情報の情報の情報の不気味な。情報の。情報の情報の。重力。その、。情報の、情報の、知の情報の、。情報の情報の情報の情報の、戦慄を情報の情報の聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"strict, strait と同じ root。情報の『情報の、情報の。情報の。情報の、情報の、情報の狭まりの中の情報の。情報の、情報の情報の。情報の真理。』。"
+			]
+		},
+		"date": "2026-03-13"
 	}
 ];
