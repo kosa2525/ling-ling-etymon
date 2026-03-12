@@ -251917,5 +251917,178 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "congenital",
+		"word": "Congenital",
+		"part_of_speech": "adjective",
+		"meaning": "生まれつきの、先天的な、根っからの",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "com-",
+					"type": "prefix",
+					"meaning": "together/with"
+				},
+				{
+					"text": "genitus",
+					"type": "root",
+					"meaning": "begotten (生まれた)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin congenitus, from com- 'together' + genitus 'born'."
+		},
+		"core_concept": {
+			"en": "(Of a disease or physical abnormality) present from birth; (of a person) having a particular trait from birth or by firmly established habit",
+			"ja": "誕生の瞬間からその身に『共に（together）』刻まれてきたもの。努力や経験では変えることのできない、魂の『設計図（gene）』そのものに由来する不変の性質"
+		},
+		"thinking_layer": "『共に生まれたこと』。ジェネティクス（Genetics）と同根。それは祝福でもあり、呪縛でもあります。変えられない運命としての「先天的」なものを受け容れることから、私たちの自分探しの旅は始まります。 ",
+		"aftertaste": "鏡の中にふと見つけた、親と同じ目元の皺。あるいは、どうしても変えられない、自分の根源的な癖への愛おしさと諦念。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "gene-",
+					"meaning": "to give birth"
+				}
+			],
+			"points": [
+				"genius, genuine, nation, natureと同根。",
+				"命の『始まり』にすべてが既に含まれているという神秘、あるいは決定論。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "pathological",
+		"word": "Pathological",
+		"part_of_speech": "adjective",
+		"meaning": "病的な、病理学上の、常軌を逸した",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "pathos",
+					"type": "root",
+					"meaning": "suffering, feeling (苦しみ、感情)",
+					"lang": "Greek"
+				},
+				{
+					"text": "logia",
+					"type": "root",
+					"meaning": "study (学問)"
+				}
+			],
+			"original_statement": "From Greek pathologikos, from pathos 'suffering'."
+		},
+		"core_concept": {
+			"en": "Involving, caused by, or of the nature of a physical or mental disease; compulsive; obsessive",
+			"ja": "『苦しみ（pathos）』の本質を読み解く（logy）知性。そこから転じて、自分では制御できないほどに深く根ざしてしまった、歪んだ『病的』な執着や行動様式"
+		},
+		"thinking_layer": "『病の論理』。感情過多（Pathetic）と同根。ただの「病気」を越えて、嘘を吐くことや、誰かを支配することが「自分の存在様式」になってしまっている状態。それは治療すべき対象であると同時に、人間という複雑な機械の「バグという名の個性」。",
+		"aftertaste": "どれだけ壊れていても、それなしでは生きられない、依存症のような甘美な地獄。あるいは、精密すぎるゆえに歪んでしまった楽器の微かな不協和音。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kwenth-",
+					"meaning": "to suffer, feel"
+				}
+			],
+			"points": [
+				"pity, patient（患者＝耐える人）, passion（情熱＝受難）と同根。",
+				"『感じる（suffering）』ことの極致は、常に『病（disease）』の境界線上にある。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "metastasis",
+		"word": "Metastasis",
+		"part_of_speech": "noun",
+		"meaning": "転移、変容、意味の転換",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "meta-",
+					"type": "prefix",
+					"meaning": "change, over (変化、越えて)"
+				},
+				{
+					"text": "stasis",
+					"type": "root",
+					"meaning": "standing (立っていること)",
+					"lang": "Greek"
+				}
+			],
+			"original_statement": "From Greek metastasis 'removal, change'."
+		},
+		"core_concept": {
+			"en": "The development of secondary malignant growths at a distance from a primary site of cancer; a change of state",
+			"ja": "ある場所に留まっていたはずの存在が、境界を『越えて（over）』別の場所へと波及し、新しい『立脚点（standing）』を築き上げること。止めることのできない侵食と変容"
+		},
+		"thinking_layer": "『場所を変えて立つこと』。ステイシス（Stasis/静止）の対義語的な「移動」。癌の転移という絶望的なイメージだけでなく、レトリック（修辞学）では「責任の転嫁」や「比喩による意味の跳躍」をも指します。情報は常にメタスタシスしようとする性質を持っています。",
+		"aftertaste": "知らない間に全身を駆け巡っていた、毒のように甘い噂の広がり。あるいは、一つの言葉が全く別の意味を帯びて世界を変えてしまう瞬間の、眩暈。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "me-",
+					"meaning": "change"
+				},
+				{
+					"term": "sta-",
+					"meaning": "to stand"
+				}
+			],
+			"points": [
+				"metabolism, status, stageと同根。",
+				"『立っている場所を捨てる（change standing）』ことが、進化あるいは崩壊の始まり。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "resuscitation",
+		"word": "Resuscitation",
+		"part_of_speech": "noun",
+		"meaning": "蘇生、復活、意識の回復",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "re-",
+					"type": "prefix",
+					"meaning": "again"
+				},
+				{
+					"text": "sub-",
+					"type": "prefix",
+					"meaning": "from below (下から)"
+				},
+				{
+					"text": "citare",
+					"type": "root",
+					"meaning": "to summon, rouse (呼び起こす、奮い立たせる)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin resuscitare 'raise again'."
+		},
+		"core_concept": {
+			"en": "The action of reviving someone from unconsciousness or apparent death",
+			"ja": "深淵の底に沈み、消えかかっていた魂を、『再び（again）』『下から（from below）』『呼び起こす（summon）』こと。暗闇から光の世界へと引き戻す、奇跡の救出作業"
+		},
+		"thinking_layer": "『再び下から喚起すること』。エキサイト（Excite/興奮させる）と同根。単なる呼吸の再開ではなく、失われかけた「意志」という火をもう一度灯すこと。それは古いプロジェクトの再起動や、死に体となった文化の再興をも指します。",
+		"aftertaste": "暗い水底から浮かび上がり、肺いっぱいに空気を吸い込んだ瞬間の、命の震えるような実感。あるいは、絶望の淵で見つけた、たった一筋の光。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kei-",
+					"meaning": "to set in motion"
+				}
+			],
+			"points": [
+				"cite, excite, solicit（熱心に求める）と同根。",
+				"『声をかける（cite）』という行為が、止まっていた『命の歯車』を動かし始める。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
