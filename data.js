@@ -274779,5 +274779,194 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "bronchus",
+		"word": "Bronchus",
+		"part_of_speech": "noun",
+		"meaning": "気管支（きかんし）、ブロンカス",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "bronkhos",
+					"type": "root",
+					"meaning": "windpipe, throat (気管、喉)', from Greek"
+				}
+			],
+			"original_statement": "From Greek bronkhos 'windpipe'."
+		},
+		"core_concept": {
+			"en": "Any of the major air passages of the lungs which diverge from the windpipe",
+			"ja": "透明な『風（spirit）』を、内なる深い森（lungs）へと分岐（divergence）させる、生命の『情報の枝（branch）』。外界の嵐を細かく砕き、静寂なる呼吸へと変換する、知的な『空気の導管』。"
+		},
+		"thinking_layer": "『気管、喉』。ブロンキアル（Bronchial/気管支の）、おなじみ「ブレス（Breath/呼吸）」とは別系統。語源は「喉」。ただの「管」ではありません。そこには。「一本の幹（trachea）から無数の道（airways）へと枝分かれすることで、より広大な『全体（whole）』を満たそうとする」という、徹底した配布（distribution）の意志が宿っています。それは。知性が一つの偉大なアイディアを、無数の具体的な「行動」へと細分化し、自分という宇宙の隅々にまで行き渡らせようとするプロセスのメタファー。",
+		"aftertaste": "自分の胸の奥、樹木の枝（branches）のような広がりを持つ「気管支（bronchus）」が、目に見えない風を捕まえ、自らを「膨らませて（expansion）」いる神秘に想いを馳せ、自分は世界という名の「大気（atmosphere）」と、一秒たりとも離れることなく繋がっているのだと悟る、あの知的な平安。あるいは、自分の思考もまた、この「ブロンカス」のように、しなやかでありながらも決して折れない「気高い確信の道」を無数に張り巡らせ、どんなに微かな真理の風も見逃さない存在でありたいと願う、あの静かな午後の自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "gwreugh-",
+					"meaning": "to sound, roar (forming bronkhos?)"
+				}
+			],
+			"points": [
+				"bronchial, bronchitis 同根。",
+				"『音（roar）』が鳴る場所が喉である。気管支という言葉には、生命がいかにして『叫び（sound）』を、静かなる『生命の循環（respiration）』という高次の機能へと手懐けてきたかという、情報の沈静化のプロセスが刻まれている。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "alveolus",
+		"word": "Alveolus",
+		"part_of_speech": "noun",
+		"meaning": "肺胞（はいほう）、小さな空洞、歯槽",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "alveolus",
+					"type": "root",
+					"meaning": "little hollow, small trough (小さな空洞、小さな舟、器)', from Latin alveus 'hollow'"
+				}
+			],
+			"original_statement": "From Latin alveolus, diminutive of alveus 'hollow'."
+		},
+		"core_concept": {
+			"en": "Any of the many tiny air sacs in the lungs where the exchange of oxygen and carbon dioxide takes place",
+			"ja": "目に見えない風（gas）を、触れることのできる血（liquid）へと変容させる、生命の『錬金術の揺りかご』。何億もの『小さな舟（alveoli）』が絶え間なく情報の最果てで反転（exchange）を繰り返す、知的な『情報の交差点』。"
+		},
+		"thinking_layer": "『小さな空洞、小さな舟』。アルヴィーア（Alvear/ハチの巣）、アベ（Ave/とは関係なく）、おなじみの「ホロウ（Hollow/空洞）」の概念的系譜。語源は「小さな空洞、樋（とい）、器」。ただの「穴」ではありません。そこには。「空間を極限まで『細分化（fragmentation）』することで、表面積（contact surface）を増大させ、外部（world）との合一を最も深い場所で達成する」という、峻烈な包摂の美学が宿っています。それは。知性がこの「ままならない現実」を、無数の小さな「事実の断片」として正確に受け止め、ひとつひとつ自分の智慧（oxygen）へと書き換えてゆくプロセスのメタファー。",
+		"aftertaste": "「肺胞（alveolus）」という、自分の身体の中で最も『外』に近く、かつ最も『内』である不思議な境界線に立ち、自分とは、この「一瞬の変換（transaction）」の集積なのだと悟り、深い畏敬を覚える、あの知的な平安。あるいは、自分の言葉もまた、この「アルヴィオラス」のように、誰かの心という「空間」の中に、新しい「意味の熱（energy）」を吹き込み、澱んだ感情を鮮やかに浄化するものでありたい、と願う、あの静かな午後の自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "au-",
+					"meaning": "to perceive, hollow? (forming alveus?)"
+				}
+			],
+			"points": [
+				"alveolus, alveolar, alveola 同根。",
+				"『樋（trough）』や『舟（little boat）』が生命の最小単位（肺胞）に充てられたのは、そこが『情報を運び、受け渡すための容器』であると直感されたからである。肺胞という言葉には、生命がいかにして、単なる『防衛（shell）』の段階から、『共生（exchange）』という能動的な他者への開放へと進化してきたかという、愛の工学が封印されている。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "pleura",
+		"word": "Pleura",
+		"part_of_speech": "noun",
+		"meaning": "胸膜（きょうまく）、側壁、肋（ろく）",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "pleura",
+					"type": "root",
+					"meaning": "rib, side (肋骨、側面)', from Greek"
+				}
+			],
+			"original_statement": "From Greek pleura 'rib, side'."
+		},
+		"core_concept": {
+			"en": "Each of a pair of serous membranes lining the thorax and enveloping the lungs",
+			"ja": "肺（forest）という名の最も神聖な動的な器官を、二層の透明な『側壁（pleura）』で優しく包み込み、摩擦（friction）を静寂（silence）へと無効化する、知的な『防護のヴェール』。外部の硬い骨（ribs）と、内なる柔らかなブレス（breath）を仲介する、情報の『緩衝の舞台』。"
+		},
+		"thinking_layer": "『肋、側面』。プレウラリー（Pleural/胸膜の）、おなじみ「ポリティカル（Political/とは関係なく）」の概念的系譜。語源は「側壁、肋」。ただの「膜」ではありません。そこには。「激しい運動（呼吸）を続けながらも、決して自らを傷つけない（friction-less）ように、常に自らを『潤滑（lubrication）』させる」という、洗練されたセルフケアの知恵が宿っています。それは。知性が過酷な現実との摩擦の中で、あえて「謙虚な余白（pleural cavity）」を保つことで、自らの使命を永劫に果たし続けようとするプロセスの象徴。",
+		"aftertaste": "吸い込んだ空気が肺を拡張させる、その「膨らみ」を自分の中に感じ、この「胸膜（pleura）」という名の透明な守護者が、自分の「鼓動」をどれほど優雅に支えているのかを知り、自分の「無意識の律動」への深い信頼に満たされる、あの知的な平安。あるいは、自分の心もまた、この「プレウラ」のように、どんなに激しい感情の高ぶりがあっても、常に自らの「気高い冷静さ」という名の潤滑剤を切らさず、他者としなやかに調和し続けたいと願う、あの静かな夜の自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "pel-",
+					"meaning": "side, rib (forming pleura)"
+				}
+			],
+			"points": [
+				"pleura, pleural, pleurisy 同根。",
+				"『側面（side）』は、かつては対話の場でもあった。胸膜という言葉には、生命がいかにして、自らの中心（core）を守るために、あえて他者（世界）と直接接する『最前線』に、高度な知性と潤滑性を備えた『情報の繭（cocoon）』を構築してきたかという、外交の歴史が封印されている。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "diaphragm",
+		"word": "Diaphragm",
+		"part_of_speech": "noun",
+		"meaning": "横隔膜（おうかくまく）、隔膜、絞り",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "dia-",
+					"type": "prefix",
+					"meaning": "through, across (隔てて、横切って)"
+				},
+				{
+					"text": "phragma",
+					"type": "root",
+					"meaning": "fence, partition (フェンス、仕切り)', from Greek phrassein 'to fence in'"
+				}
+			],
+			"original_statement": "From Greek diaphragma, from dia- 'across' + phragma 'fence'."
+		},
+		"core_concept": {
+			"en": "A dome-shaped, muscular partition separating the thorax from the abdomen in mammals. It plays a major role in breathing",
+			"ja": "生命の天（thorax）と地（abdomen）を峻烈に分かち、自らが『動く仕切り（fence）』となって宇宙の呼吸を引き寄せる、生命の『情報の境界門』。静止したフェンスから、躍動する『ポンプ（pump）』への昇華、知的な『空間の支配』。"
+		},
+		"thinking_layer": "『〜を横切るフェンス』。フラグマ（Phragma/隔壁）、プランクトン（Plankton/とは関係なく）、おなじみの「ダイヤ（Dia-/通って）」と同根。語源は「仕切り」。ただの「筋肉」ではありません。そこには。「分かつこと（separation）が、吸い込むこと（inspiration）の動力となる」という、峻烈な創造のメカニズムが宿っています。それは。知性が自らの中に「峻烈な境界（barrier）」を設けることで、初めて外部からの「真理の風」を自分の中に力強く招き入れることができるという、逆説的な情報の集積プロセスの象徴。",
+		"aftertaste": "深く息を吸い込み、自分の重心がこの「横隔膜（diaphragm）」によって押し下げられ、大地と繋がってゆく力強い感覚に、生きるための「足場（foothold）」は常に自らの中にあるのだと確信する、あの知的な平安。あるいは、自分の思考もまた、この「ダイアフラム」のように、どんなに微かな真理の徴候をも、自らの「意志の律動」によって巨大な「変革の力」へと拡大させる、強靭な「心のエンジン」でありたいと願う、あの静かな午後の自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "bhreg-",
+					"meaning": "to enclose, fence (forming phrassein)"
+				}
+			],
+			"points": [
+				"phragma, diaphragm 同根。",
+				"『フェンス（fence）』を築くことは、領土（territory）を画定することである。横隔膜という言葉には、生命がいかにして、自らの身体という名の物理的な空間に峻烈な『上下のヒエラルキー』を打ち立て、そこから『呼吸』という名の高次のエネルギー代謝を可能にしてきたかという、空間統治の歴史が刻まれている。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "mediastinum",
+		"word": "Mediastinum",
+		"part_of_speech": "noun",
+		"meaning": "縦隔（じゅうかく）、メディアスティナム、中間の場所",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "medius",
+					"type": "root",
+					"meaning": "middle (中間の)', from Latin"
+				},
+				{
+					"text": "stare",
+					"type": "root",
+					"meaning": "to stand (立つ)', from Latin"
+				}
+			],
+			"original_statement": "From Latin mediastinus 'midway, middle-standing'."
+		},
+		"core_concept": {
+			"en": "A membranous partition between two body cavities or organs, especially that between the lungs",
+			"ja": "左右の肺（freedom）の狭間に屹立（きつりつ）し、心臓（will）という名の聖域を死守する、知的な『中庸の塔』。二つの極（polarities）のちょうど真ん中に立ち、世界の重量を引き受ける、生命の『不動のセンター』。"
+		},
+		"thinking_layer": "『中心に立つもの』。メディア（Media/媒体）、ステーション（Station/駅、立つ場所）、おなじみの「ミドル（Middle）」と同根。語源は「中間の、奴隷、世話人」。ただの「隙間」ではありません。そこには。「左右の喧騒（breath）に巻き込まれず、ただ中心で峻烈に『立つ（stare）』ことで、全体を一貫した（consistent）秩序へと繋ぎ止める」という、峻烈な中道（Golden Mean）の意志が宿っています。それは。知性が混沌とした情報の海において、あえてどの極にも偏らず、ただ「真実の直下」に立ち続けようとする瞬間の、孤高のアティチュード。",
+		"aftertaste": "自分の胸腺（thymus）や心臓を包み込む、この「縦隔（mediastinum）」という名の、重厚で静謐な「中間の場所」に想いを馳せ、自分の「中心（core）」がいかに「動かざるもの（the unmoved）」によって支えられているかを知り、深い敬意を覚える、あの知的な平安。あるいは、自分の表現もまた、この「メディアスティナム」のように、派手な流行の左右に揺さぶられることなく、常に「真実の直中（ただなか）」を指し示す、凛とした「知の背骨」でありたいと願う、あの静かな夜の自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "medhyo-",
+					"meaning": "middle (forming medius)"
+				},
+				{
+					"term": "sta-",
+					"meaning": "to stand (forming stare)"
+				}
+			],
+			"points": [
+				"median, medium, state, station, stand, stability 同根。",
+				"『中間に立つ（standing in the middle）』ことは、双方を支配することである。縦隔という言葉には、生命がいかにして自らの物理的な左右対称性（symmetry）の中から、『中心』という名の絶対的な座標を抽出し、そこから全体を統べる『統合的な意志』を具現化させてきたかという、統一の工学が刻印されている。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
