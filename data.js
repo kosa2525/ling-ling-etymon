@@ -274416,5 +274416,179 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "duodenum",
+		"word": "Duodenum",
+		"part_of_speech": "noun",
+		"meaning": "十二指腸、デュオデナム",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "duodenum",
+					"type": "root",
+					"meaning": "twelve each (十二ずつの)', from Latin duo- 'two' + deni 'ten'"
+				}
+			],
+			"original_statement": "From Latin duodenum (digitorum) 'twelve (fingers) long'."
+		},
+		"core_concept": {
+			"en": "The first part of the small intestine immediately beyond the stomach, leading to the jejunum",
+			"ja": "混沌（chyme）を受け止め、十二本の指という『最小限の秩序（measure）』で測り、分解を開始する『智慧の第一関門』。外部の荒々しさを、内なる自分の一部へと変えるための、峻烈な『情報の緩衝地帯』。"
+		},
+		"thinking_layer": "『十二個ずつの』。デュアル（Dual/二つの）、デザ（Dec-）と同根。語源は「十二（本の指の幅の長さ）」。ただの「腸」ではありません。そこには。「膨大な異物（food）を、自らが処理できる『単位（twelve fingers）』に区切り、一つ一つ確実に解体してゆく」という、堅実な解析の知恵が宿っています。それは。知性が新しい理論を学ぶ際、まずはその「入口」において、全体像を正確な「ものさし」で計り、自分にとって何が糧となるかを見極める瞬間のメタファー。",
+		"aftertaste": "自分の身体の奥、胃（stomach）のすぐ隣で、この「十二（duodenum）」という名の厳格な計測が行われていることに想いを馳せ、自分の直感（intuition）が実は「緻密な計算（calculation）」に支えられているのだとしみじみ感じる、あの知的な平安。あるいは、自分の思考もまた、この「十二指腸」のように、どんなに激しい情報の流入があっても、まずは「落ち着いて測る（measuring first）」という、冷静な誠実さを保ち続けていたいと願う、あの静かな午後の自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "dwo-",
+					"meaning": "two (forming duo)"
+				},
+				{
+					"term": "dekm-",
+					"meaning": "ten (forming deni)"
+				}
+			],
+			"points": [
+				"dual, duet, decimal, december, dime 同根。",
+				"『数（number）』は秩序の根源である。十二指腸という言葉には、生命がいかにして『未知のカオス』を、自らの手のひら（fingers）という有限の尺度で手懐け、理解可能な『栄養』へと変換してきたかという、認識の工学が刻まれている。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "jejunum",
+		"word": "Jejunum",
+		"part_of_speech": "noun",
+		"meaning": "空腸（くうちょう）、空腹なもの、ジェジュナム",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "jejunus",
+					"type": "root",
+					"meaning": "empty, fasting, dry (空っぽ、断食、乾いた)', from Latin"
+				}
+			],
+			"original_statement": "From Latin jejunum 'fasting, empty'."
+		},
+		"core_concept": {
+			"en": "The part of the small intestine between the duodenum and ileum",
+			"ja": "常に『空虚（empty）』であることを自らに課し、情報の純粋な流動（flux）を死守する、知的な『空白の通路』。停滞を拒み、常に新しさを渇望（thirst）し続ける、生命の『不屈の断食』。"
+		},
+		"thinking_layer": "『空っぽの、断食した』。ジェジューン（Jejune/未熟な、中身のない）、おなじみの「ダイエタリー（Dietary/とは関係なく）」の概念的深層。語源は「空腹な」。ただの「中間部」ではありません。そこには。「中身を充実させること（filling）よりも、むしろ自らを『無』に保つことで、最大限の吸収（absorption）を可能にする」という、峻烈な逆説の美学が宿っています。それは。知性が常に既存の知識を「空にする（fasting）」ことで、未知の真理を迎え入れるための、無限の「好奇心の受容性」を保とうとする瞬間のメタファー。",
+		"aftertaste": "「空腸（jejunum）」という言葉の響きに、自律した「透明な孤独（void）」を感じ、自分もまた、世俗の評価や執着から自由であり、いつでも新しい自分を「吸収」できる状態にありたいと、静かに目を閉じる、あの知的な平安。あるいは、自分の思考もまた、この「ジェジュナム」のように、表面的な「中身の多さ」に惑わされず、常に「本質的な飢え」を持ち続けることで、真実の栄養だけを魂の奥底へと送り届けるものでありたい、と願う、あの静かな夜の自尊心。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"死体の解剖において、この部分が常に空（empty）であったために名付けられた。",
+				"『断食（fasting）』という宗教的な行為が、身体の解剖学的名称に用いられた皮肉。空腸は、生命がいかにして『欠損（lack）』を自らの機能の中心へと据え、そこから最大の『力（nourishment）』を引き出してきたかという、負のエネルギーの活用術を象徴している。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "ileum",
+		"word": "Ileum",
+		"part_of_speech": "noun",
+		"meaning": "回腸（かいちょう）、イリウム",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "eilein",
+					"type": "root",
+					"meaning": "to twist, roll up (ねじ曲げる、丸める)', from Greek"
+				}
+			],
+			"original_statement": "From Latin ileum 'groin, flank', sometimes associated with Greek eilein 'twist'."
+		},
+		"core_concept": {
+			"en": "The third part of the small intestine, between the jejunum and the cecum",
+			"ja": "限られた死角の中に、幾重にも『折り畳み（folding）』、情報の最後の一滴（nutrient）まで残さず掬（すく）い取る、迷宮の『完遂者』。自らを『ねじ曲げる（twisting）』ことで、世界との接触面積を極大化させる、知的な『執念の吸収』。"
+		},
+		"thinking_layer": "『ねじれたもの』。アイリウム（Ilium/腸骨とは別だが混同される）、おなじみの「アイリス（Iris/虹の女神＝曲がる）」と同根の説あり。語源は「ねじる、丸まる」。ただの「末端」ではありません。そこには。「どんなに困難な道（twist）であっても、自らを曲げ、潜り込むことで、そこに隠された『真の価値』を見つけ出す」という、峻烈な探究の意志が宿っています。それは。知性が複雑に絡み合った社会という名の迷宮において、自らの意志を一本の強靭な「糸（thread）」として保ち続け、最後の確信を得るまで歩みを止めない格闘。 ",
+		"aftertaste": "自分の腹部の中で、何メートルにも及ぶ「回腸（ileum）」が静かに「のたうち回り（peristalsis）」、一滴の無駄もなく、自分を自分として支えるための「糧」を紡ぎ出している、その粘り強い（tenacious）沈黙に感動し、自分もまた、どのような「逆境」をも自らの成長の糧にしようと誓う、あの知的な平安。あるいは、自分の思考もまた、この「イリウム」のように、一見無造作な「ねじれ」の奥に、完璧な「論理の最適化」を秘めた、強靭で豊かな迷宮でありたいと願う、あの静かな午後の自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "wel-",
+					"meaning": "to turn, roll (forming eilein)"
+				}
+			],
+			"points": [
+				"roll, volume, wallet, wallow, evolve, revolt 同根。",
+				"『転がる（rolling）』ことが『進化（evolving）』を生み出す。回腸という言葉には、生命がいかにして、単なる『入口から出口』への直線的な運動を拒絶し、あえて『ねじれ』と『停滞（stay）』を選ぶことで、より高次のエネルギー消費を実現してきたかという、時間の濃密化の記録が封印されている。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "cecum",
+		"word": "Cecum",
+		"part_of_speech": "noun",
+		"meaning": "盲腸（もうちょう）、シーカム、行き止まりの場所",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "caecum",
+					"type": "root",
+					"meaning": "blind (盲目の)', from Latin caecus"
+				}
+			],
+			"original_statement": "From Latin intestinum caecum 'blind gut'."
+		},
+		"core_concept": {
+			"en": "A pouch connected to the junction of the small and large intestines",
+			"ja": "情報の奔流が一時的に行き止まり、暗闇の中で未知の変容（evolutionary vestige）を待つ『秘密（secret）の袋』。光の届かない場所（blindness）にこそ、過去の記憶が結晶化して残るという、知的な『情報のタイムカプセル』。"
+		},
+		"thinking_layer": "『盲目の、行き止まりの』。シーシュポス（Sisyphus/とは関係なく）、おなじみの「シーク（Seek/探す）」とも別。語源は「見えない」。ただの「不要な突起」ではありません。そこには。「一見、効率的（efficient）な流れから外れた『行き止まり（dead end）』にこそ、生命が太古から受け継いできた『不滅の種（appendix）』が眠っている」という、峻烈な保存の美学が宿っています。それは。知性が主流の論理に染まることを拒み、自らの中に「誰も見向きもしない暗がりの聖域」を設け、そこに「自分だけの真理」を封印してゆく瞬間のメタファー。",
+		"aftertaste": "「盲腸（cecum）」という、自分の身体の中にありながら、その真実を誰にも（そして自分にも）見せない「盲目（blindness）」の聖域があることに、世界の『余白（margin）』の深さを知り、不思議な安堵を覚える、あの知的な平安。あるいは、自分の言葉が、この「シーカム」のように、一時の流行（flow）に流されず、いつか誰かがその「袋（pouch）」を開けたときに、かつて失われた「真実の光」を放つものでありたい、と願う、あの静かな夜の自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kai-ko-",
+					"meaning": "blind (forming caecus)"
+				}
+			],
+			"points": [
+				"Cecil, Cecilia 同根。",
+				"『見えない（not seeing）』ことは、内面を『見つめる（internalizing）』ことである。盲腸という言葉には、生命がいかにして、情報の爆発的な『浪費』を、袋小路という名の『反省（reflection）』によって堰き止め、自らの『歴史的蓄積』へと転換してきたかという、知性の自己家畜化のプロセスが刻まれている。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "rectum",
+		"word": "Rectum",
+		"part_of_speech": "noun",
+		"meaning": "直腸（ちょくちょう）、レクタム、正しい道",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "rectum",
+					"type": "root",
+					"meaning": "straight (真っ直ぐな)', from Latin rectus"
+				}
+			],
+			"original_statement": "From Latin intestinum rectum 'straight gut'."
+		},
+		"core_concept": {
+			"en": "The final section of the large intestine, terminating at the anus",
+			"ja": "あらゆる迷宮（labyrinth）を抜け、最後の一線を越えるために自らを『真っ直ぐ（straight）』に整える、峻烈な『情報の出口の儀式』。不純なものを外部（world）へと排し、内なる聖地を再び潔白（purity）へと導く、知的な『決別の直線』。"
+		},
+		"thinking_layer": "『真っ直ぐなもの』。レディ（Ready/準備のできた）、コレクト（Correct/正しい）、おなじみの「レク（直線性）」と同根。語源は「正しい、直立した」。ただの「末端」ではありません。そこには。「迷走（twisting）の時間は終わった。最後はただ、最短距離で結果（result）を世界へ提示する」という、峻烈な完結の意志が宿っています。それは。知性が幾多の葛藤の末に、一つの揺るぎない「正論（rectitude）」を導き出し、それを現実世界という名の「出口」へと力強く送り出す瞬間の、誇り高き一喝。 ",
+		"aftertaste": "「直腸（rectum）」という言葉が、実は「正義（rightness）」と同じ語源を持っているという事実に、自分の身体の最も卑近な部分にさえも「気高い秩序」が宿っていることを悟り、背筋が伸びる、あの知的な平安。あるいは、自分の表現もまた、この「レクタム」のように、どんなに複雑な過程を経ても、最後はただ一つ、誰もが納得できる「真っ直ぐな真理（straight truth）」として世界に結実するものでありたい、と願う、あの静かな午後の自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "reg-",
+					"meaning": "to move in a straight line, direct (forming rectus)"
+				}
+			],
+			"points": [
+				"right, correct, direct, rule, regal, region 同根。",
+				"『真っ直ぐ（straight）』であることは、権威と正義の象徴である。直腸という言葉には、生命がいかにして、カオス的な『吸収』のプロセスを、法（law）という名の『排出』の秩序によって締めくくり、自らの輪郭を更新し続けてきたかという、完結の美学が封印されている。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
