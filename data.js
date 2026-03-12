@@ -264870,5 +264870,186 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "mammatus",
+		"word": "Mammatus",
+		"part_of_speech": "noun/adjective",
+		"meaning": "乳房雲（にゅうぼうぐん）、乳房状の雲",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "mamma",
+					"type": "root",
+					"meaning": "breast, udder (乳房、乳腺)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin mammatus 'having breasts', from mamma 'breast'."
+		},
+		"core_concept": {
+			"en": "A cellular pattern of pouches hanging underneath the base of a cloud, typically a cumulonimbus raincloud",
+			"ja": "嵐の去ったあとの空（aftermath）に、巨大な『乳房（mammae）』が垂れ下がるように現れる、不気味で官能的な雲の連なり。大気の激しい揺らぎが、平穏な空を侵食（eroding）する瞬間の、暴力的な美しさ"
+		},
+		"thinking_layer": "『乳房のあること』。ママル（Mammal/哺乳類）やママ（Mama/お母さん）と同根。語源は「乳房」。通常、雲は「上昇気流（updraft）」によって作られますが、ママトゥスは「下降気流（downdraft）」によって作られます。それは。秩序が反転（inversion）し、内側の重みが外へと溢れ出した状態。知性の「不穏（unsettling）」な予感。 ",
+		"aftertaste": "夕焼けに染まった「乳房雲（mammatus clouds）」が、まるで天上が溶け落ちてくるかのような、この世のものとは思えない禍々（まがまが）しい美しさを放つのを見上げ、世界がいかに「もろい皮膜（fragile skin）」の上で成り立っているかを知る、あの峻烈な眩暈（dizziness）。あるいは、自分の抑圧されていた感情が、この雲のように「乳房状（mammatus shape）」に形を変えて、自分の意識の空（sky of consciousness）を覆いつくしてしまうのではないかという、甘美な不安。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ma-",
+					"meaning": "mother (forming mamma)"
+				}
+			],
+			"points": [
+				"mammal, mamma, mammary 同根。",
+				"『乳（breast）』とは生命の育みと慈しみの象徴だが、ママトゥス（mammatus）という気象現象においては、それは巨大なエネルギーの『飽和』と、直後に訪れる嵐（storm）の予兆としての、冷徹な美を纏っている。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "lenticular",
+		"word": "Lenticular",
+		"part_of_speech": "adjective",
+		"meaning": "レンズ状の、凸レンズ形の、水晶体の",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "lenticula",
+					"type": "root",
+					"meaning": "lentil, small lens (レンズ豆、小さなレンズ)",
+					"lang": "Latin"
+				},
+				{
+					"text": "lens",
+					"type": "root",
+					"meaning": "lentil (レンズ豆)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin lenticularis, from lenticula, diminutive of lens 'lentil'."
+		},
+		"core_concept": {
+			"en": "Shaped like a lentil or a double-convex lens; (meteorology) relating to clouds that are lens-shaped and typically form at high altitudes",
+			"ja": "風が山を越える時に生まれる、完璧な『レンズ（lens）』の形をした停滞する雲。流動的な大気の中で、そこだけ時間が静止した（stagnant）かのような、不自然で幾何学的な様式"
+		},
+		"thinking_layer": "『レンズ豆のような』。レンズ（Lens/レンズ豆に形が似ているからという由来）、おなじみ「レンズ（lens）」と同根。語源は「レンズ豆」。ただの「丸い雲」ではありません。猛烈な風が吹き抜けているのに、形は決して変わらない。それは、激動の時代（turbulent times）にあっても、自分の「核（core）」だけは一定の形を保ち続けるという、強靭な中心性のメタファー。 ",
+		"aftertaste": "山頂に浮かぶ「レンズ雲（lenticular cloud）」が、まるでUFO（flying saucer）のように無機質な美しさで静止しているのを眺め、自分の理性がこの「レンズ（lenticular frame）」のように世界を冷静に観察（observing）し続けているのだと確信する、あの知的な充足。あるいは、自分のアイディアがあまりにも「完璧な形（lenticular perfection）」に固執しすぎて、周囲の変化から取り残されて（left behind）いないかと自省する、あの静かな午後の憂鬱。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"『レンズ豆（lentil）』という庶民的な植物の形が、光学（optics）の中心概念である『レンズ』の語源となり、さらに巨大な『気象現象』の呼称となったという言葉の壮大な飛躍（leap）。",
+				"レンティキュラー（lenticular）な視座とは、流動する情報（flow）を受け流しつつ、自分の中に不動の『意味の焦点（focus）』を結び続けるための、知性の高度な技術である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "fractus",
+		"word": "Fractus",
+		"part_of_speech": "noun/adjective",
+		"meaning": "断片雲（だんぺんぐん）、ちぎれ雲",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "frangere",
+					"type": "root",
+					"meaning": "to break (壊す、砕く)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin fractus, past participle of frangere 'break'."
+		},
+		"core_concept": {
+			"en": "Small, ragged cloud fragments that are usually found under an ambient cloud base",
+			"ja": "巨大な秩序（cloud base）から引きちぎられ（broken）、風に弄（もてあそ）ばれるままに漂う『断片（fragments）』。崩壊の跡でありながら、それ自体が自由な意志を持って彷徨（ほうこう）する、孤独な言葉の破片"
+		},
+		"thinking_layer": "『砕かれたこと』。フラクタル（Fractal/自己相似の断片）、フラクチャー（Fracture/骨折、裂け目）、フラジャイル（Fragile/壊れやすい）と同根。語源は「壊れた」。嵐のあとの空に、バラバラになって散らばる雲。それは、かつて持っていた巨大なアイデンティティを失い、それでも「個（piece）」として存在し続けようとする、健気な破砕の美学。 ",
+		"aftertaste": "夕暮れの空に流れる「断片雲（fractus）」の一つを追いかけ、それが形を変えながら最後には「透明な虚無（nothingness）」へと溶けてゆくのを見届け、自分の人生もまた、この「砕かれた時間（fractured time）」の集積に過ぎないのだと悟る、あの寂しくて美しい解放感（freedom）。あるいは、自分の思考がこの「フラクタス（fractus）」のように支離滅裂（disjointed）でありながら、どこか深い場所で「嵐の記憶」を共有していることに気づく、あの静かな夜。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "bhreg-",
+					"meaning": "to break (forming frangere)"
+				}
+			],
+			"points": [
+				"break, breakfast, fraction, fragile, refrangible 同根。",
+				"『壊す（breaking）』ことは本来は終焉を意味するが、フラクタス（fractus）という概念においては、それは『形式を捨て、純粋な運動へと回帰する』ための、生命の野性的な解放を意味する。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "pileus",
+		"word": "Pileus",
+		"part_of_speech": "noun",
+		"meaning": "頭帯（とうたい）、（きのこの）傘、（雲の上の）帽子状の雲",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "pileus",
+					"type": "root",
+					"meaning": "felt cap (フェルトの帽子)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin pileus 'felt cap'."
+		},
+		"core_concept": {
+			"en": "A small, horizontal, altostratus cloud that can appear above a cumulus or cumulonimbus cloud, giving it a characteristic cap-like appearance",
+			"ja": "激しく上昇する入道雲（cumulus）の頂に、不意に現れる薄い『フェルトの帽子（cap）』のような雲。上昇の勢い（momentum）が、大気の層を静かに押し上げた時に生まれる、一瞬の祝福の王冠"
+		},
+		"thinking_layer": "『フェルトの帽子』。フェルト（Felt）はおそらくな。語源は「帽子」。きのこの傘（pileus）と同じ名前。ただの「覆い」ではありません。それは、激しい情熱（passion）が、ふとした瞬間に至高の「静寂（serenity）」へと到達した時の署名。激しさと静けさが、垂直と水平のラインで交差する、知性の「絶頂（climax）」。",
+		"aftertaste": "急成長する雲の頂に飾られた「ピレウス（pileus）」の冠を見上げ、自分の「努力（effort）」もまた、ある臨界点（critical point）を超えた時に、このように自分を包み込む「静かな栄光（quiet glory）」へと昇華（sublimate）するはずだと信じる、あのひたむきな期待。あるいは、自分が誰かのための「帽子（pileus-like cover）」となり、その人の激しい成長を、静かに見守り、飾り立てたいと願う、あの献身の充足。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "pilo-",
+					"meaning": "hair, felt (forming pileus)"
+				}
+			],
+			"points": [
+				"felt, filter, pile（毛、積み重ね） 同根。",
+				"『帽子（cap）』とは、外部からの保護であると同時に、自らの『境界（limit）』を画定するための装飾である。ピレウス（pileus）という現象は、大気がいかに微細な層（layers）の積層によって成り立っているかを如実に示している。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "virga",
+		"word": "Virga",
+		"part_of_speech": "noun",
+		"meaning": "尾流雲（びりゅううん）、（地上に届かない）降水条",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "virga",
+					"type": "root",
+					"meaning": "rod, twig, stripe (杖、枝、筋)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin virga 'rod, twig'."
+		},
+		"core_concept": {
+			"en": "A mass of streaks of rain appearing to hang from a cloud and evaporating before reaching the ground",
+			"ja": "空から降り注ぎながらも、その渇きゆく大気に飲み込まれ、決して大地へと届かぬ『幻の雨の筋（rod）』。成就することのない願いが、天空に描く儚（はかな）くも美しい『未完の筆致（brushstrokes）』"
+		},
+		"thinking_layer": "『杖、小枝』。バージン（Virgin/若い小枝＝乙女）、ヴァージ（Verge/境界＝杖による境界）、おなじみの「筋（stripe）」と同根。語源は「枝、棒」。空からは雨が降っているのに、地上は乾いている。それは、理想（sky）が現実（ground）に到達する前に、この日常の熱（heat）によって蒸発（evaporate）してしまうことの、切実なメタファー。",
+		"aftertaste": "「尾流雲（virga）」が空に描く、あの引きずり出されたような「雨の髪の毛（curls of rain）」を眺め、自分の夢もまた、このように誰にも気づかれぬまま「空中のどこか」で消えてゆく運命（fate）なのだと悟る、あの峻烈な寂しさと納得。あるいは、届かぬからこそ「汚れなき（virgin）」まま保たれる想いがあるのだと自分を慰（なぐさ）め、また次の雲を待つ、あの静かな午後の自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "weis-",
+					"meaning": "to twist? (uncertain root for virga)"
+				}
+			],
+			"points": [
+				"verge, virgin 同根の説あり。",
+				"『杖（rod）』とは支配と導きの象徴だが、ビルガ（virga）という現象において、それは重力に従いつつも消滅を選択するという、自然界の『不徹底の自由』を象徴している。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
