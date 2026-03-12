@@ -256197,5 +256197,169 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "subversive",
+		"word": "Subversive",
+		"part_of_speech": "adjective",
+		"meaning": "破壊的な、体制転覆を狙う、常識を覆す",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "sub-",
+					"type": "prefix",
+					"meaning": "under (下から)"
+				},
+				{
+					"text": "vertere",
+					"type": "root",
+					"meaning": "to turn (回る、回す)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin subversivus, from subvertere 'overthrow', from sub- 'from below' + vertere 'to turn'."
+		},
+		"core_concept": {
+			"en": "Seeking or intended to subvert an established system or institution",
+			"ja": "安定しているように見える既存のシステムを、最も脆弱な『下の方から（under）』『ひっくり返す（turn）』こと。土台を揺るがし、秩序を根底から解体しようとする知的な爆発"
+		},
+		"thinking_layer": "『下からひっくり返すこと』。ヴァージョン（Version/変形）やリヴァース（Reverse/逆転）と同根。ただの「反抗」ではなく、システムの「ロジックそのもの」を逆に利用して、内側から崩壊させること。それは国家を揺るがす革命から、これまでの芸術の常識を無効にするアヴァンギャルドな試みまで。 ",
+		"aftertaste": "誰もが疑わなかった「正解」を、たった一行の詩が笑いものにし、世界がひっくり返って見える瞬間の、あの不吉なほど清々しい快感。あるいは、白アリが巨大な館の土台を静かに、しかし着実に食い尽くしてゆく、あの音のない「破壊（subversion）」の戦慄。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "wer-",
+					"meaning": "to turn, bend"
+				}
+			],
+			"points": [
+				"verse, version, convert, vortex, traverse 同根。",
+				"『転換（turning）』の力は、秩序の再構築（conversion）にも、体制の解体（subversion）にもなりうる、諸刃の剣である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "mutinous",
+		"word": "Mutinous",
+		"part_of_speech": "adjective",
+		"meaning": "反抗的な、反乱の、（船上などで）命令に従わない",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "meute",
+					"type": "root",
+					"meaning": "movement, rebellion (動き、反乱)",
+					"lang": "Old French"
+				},
+				{
+					"text": "movēre",
+					"type": "root",
+					"meaning": "to move (動く)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Old French meute 'rebellion', from Latin movēre 'to move'."
+		},
+		"core_concept": {
+			"en": "Refusing to obey the orders of a person in authority",
+			"ja": "一つの「船（コミュニティ）」を動かすための命令（order）に対し、その指揮権を認めず、全員の『動き（movement）』をバラバラに、あるいは反転させてしまう反抗。秩序への明白な離脱"
+		},
+		"thinking_layer": "『動くこと、動き出すこと』。ムーヴメント（Movement）やエモーション（Emotion/外へ動かすもの＝感情）と同根。原義は「（兵士や水兵の）集団的な不服従」。個人の単なるわがままではなく、自分たちを縛る不当なルールに対し、「もう俺たちは動かない（あるいは、お前のために動かない）」という、沈黙の、あるいは騒乱を伴う拒絶。",
+		"aftertaste": "船長という絶対的な権威に対し、水兵たちが一斉に腕を組み、静かに、しかし断固として命令を無視した瞬間の、あの張り詰めた空気。あるいは、自分の心の中にある「良心」が、不本意な決断を下そうとする自分の「理性」に、激しく『反抗（mutiny）』し始める時の、あの引き裂かれるような苦しみの美しさ。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "meu-",
+					"meaning": "to move, push away"
+				}
+			],
+			"points": [
+				"move, mobile, motivate, moment 同根。",
+				"『動き（move）』をコントロールすることは『統治（rule）』の極意であり、そこからの離脱（mutiny）は『自由（liberty）』への最初の一歩である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "seditious",
+		"word": "Seditious",
+		"part_of_speech": "adjective",
+		"meaning": "扇動的な、反乱をそそのかす、不穏な",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "se-",
+					"type": "prefix",
+					"meaning": "apart (離れて、脇へ)"
+				},
+				{
+					"text": "itio",
+					"type": "root",
+					"meaning": "going (行くこと)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin seditiosus, from seditio, from se- 'apart' + itio 'going'."
+		},
+		"core_concept": {
+			"en": "Incite people to rebel against the authority of a state or monarch",
+			"ja": "共通の目標として示されている大きな道を『離れ（apart）』、自分たちだけの別の道を『行く（go）』ように、他者をそそのかしている様子。調和を乱す、不穏な知の煽動"
+		},
+		"thinking_layer": "『離れて行くこと』。セパレート（Separate/離して置く）やイグジット（Exit/外へ行く）と同根。ただ自分が背くのではなく、他者を「仲間に引き入れて（sedition）」共同体を分離させようとする行為。それは、言葉という見えない手を使って、人々の心の「基準（standard）」を脇へ押し退け、新しい火種をまく、最も高度な知的な反逆。",
+		"aftertaste": "居酒屋の片隅で、熱っぽく「今の国を変えるべきだ」と語る青年の声が、周囲の人々の心に小さな「火」を灯してゆくのを眺める時の、あの危険で甘美な高揚感。あるいは、自分の何気ない一言が、思わぬ方向に解釈されて、会社全体の不信感を煽ってしまった時の、あの青ざめるような後悔。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sei-",
+					"meaning": "reflexive pronoun (forming se/apart)"
+				},
+				{
+					"term": "ei-",
+					"meaning": "to go (forming ire/it-)"
+				}
+			],
+			"points": [
+				"separate, segregate, ambition（あちこち行くこと）, exit, itinerary 同根。",
+				"『共に行か（go together）』なくなることは、文明の最も基本的な『約束』が崩壊することを意味する。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "heretical",
+		"word": "Heretical",
+		"part_of_speech": "adjective",
+		"meaning": "異端の、教義に反する、常識外れの",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "haireisthai",
+					"type": "root",
+					"meaning": "to choose (選ぶ)",
+					"lang": "Greek"
+				}
+			],
+			"original_statement": "From Greek hairetikos 'able to choose'."
+		},
+		"core_concept": {
+			"en": "Believing in or practicing religious heresy; holding an opinion at odds with what is generally accepted",
+			"ja": "与えられた「正解」を盲信するのではなく、自分自身の責任において、別の真実を『選択（choose）』することへの誇り高い、あるいは呪わしい態度"
+		},
+		"thinking_layer": "『選択できること』。ヘレティック（Heretic/異端者）。語源は「選ぶこと、選ぶ能力があること」。かつては、教会が決めた唯一の道以外の選択肢を持つ自由は、「悪（Evil）」とされました。しかし、それは裏を返せば、自分の知性を信じ、孤独な真理の道へ一歩踏み出すための、最も気高い「自由意志（Free Will）」の行使でもあります。 ",
+		"aftertaste": "全員が真っ白な衣装を着ている祝祭で、ただ一人だけが自分の好きな色（異端）を身に纏い、真っ直ぐに歩き続ける背中の、あの峻烈な孤高の美しさ。あるいは、自分の科学的な発見が、当時の常識をすべて破壊し、自分が火あぶりにされる未来を予感した瞬間の、震えるような確信。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ser-",
+					"meaning": "to grasp, take (forming haireisthai)"
+				}
+			],
+			"points": [
+				"heresy, dieresis 同根。",
+				"『選ぶ（choosing）』ことは、与えられたすべて（all）を拒絶し、自分自身の手で真理の一部を『掴み取る（grasp）』という、傲慢で神聖な『賭け』。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
