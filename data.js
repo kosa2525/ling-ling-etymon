@@ -263446,5 +263446,215 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "polyptoton",
+		"word": "Polyptoton",
+		"part_of_speech": "noun",
+		"meaning": "多格活用法、同語反復（の変奏）",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "poly-",
+					"type": "prefix",
+					"meaning": "many (多くの)"
+				},
+				{
+					"text": "ptotos",
+					"type": "root",
+					"meaning": "fallen, case (落ちた、接尾辞の変化、格)",
+					"lang": "Greek"
+				}
+			],
+			"original_statement": "From Greek polyptōton, from poly- 'many' + ptōtos 'fallen'."
+		},
+		"core_concept": {
+			"en": "A rhetorical figure in which words derived from the same root are repeated (e.g., 'strong' and 'strength')",
+			"ja": "同じ語源を持つ言葉を、形（格や品詞）を変えて『何重にも（many）』塗り重ねる修辞法。単なる反復ではなく、核心にある不変の真理を、多角的な視点から照らし出す知的な変奏（variation）"
+		},
+		"thinking_layer": "『多くの（格が）落ちていること』。ポリマー（Polymer）やシンプトム（Symptom/共に落ちる＝症状）、アプト（Apt/適合した？）と同根。語源は「多くの変化」。例えば「愛なき人生は人生ではない」のように。一つのキーワードが、時には名詞として、時には動詞として、文の中に重層的なリズムを作り出します。それは、一つの魂（soul）が様々な仮面を被って踊るような、言葉の「演劇性（theatricality）」。",
+		"aftertaste": "「誰よりも強く（strong）、誰よりも強さ（strength）を求めた」という「多格活用（polyptoton）」の一節に、言葉の根底にある「意味の核（core）」が脈打っているのを感じ、自分もまたその核に触れたかのような、峻烈な納得。あるいは、自分の人生が、同じ過ちを形を変えて（varying forms）繰り返しているだけの「悲劇的な同語反復（tragic polyptoton）」ではないかと自嘲（self-mockery）する、あの夜の冷気。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "pet-",
+					"meaning": "to fall, fly (forming ptotos)"
+				}
+			],
+			"points": [
+				"petition, appetite, feather, pen, competent 同根。",
+				"『落ちる（falling）』とは本来は衰退だが、レトリックにおける『格（case）』の変化とは、言葉のエネルギーが特定の文脈へと『着地』することであり、ポリプトトン（polyptoton）はその着地の多様性そのものを愛でる営みである。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "epistrophe",
+		"word": "Epistrophe",
+		"part_of_speech": "noun",
+		"meaning": "結句反復法、エピストロフィ",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "epi-",
+					"type": "prefix",
+					"meaning": "upon, after (〜の後に)"
+				},
+				{
+					"text": "strephein",
+					"type": "root",
+					"meaning": "to turn (回る、曲がる)",
+					"lang": "Greek"
+				}
+			],
+			"original_statement": "From Greek epistrophē, from epi- 'upon' + strephein 'turn'."
+		},
+		"core_concept": {
+			"en": "The repetition of a word at the end of successive clauses or sentences",
+			"ja": "文の切り裂かれた『最後（after）』に、常に同じ言葉が舞い戻り（turn）、執拗に繰り返される修辞法。逃れられない宿命、あるいは、すべての思考が辿り着く最終的な『終止符（full stop）』としての宣言"
+		},
+		"thinking_layer": "『後に戻って回ること』。アナストロフィ（Anastrophe/逆置）、アポストロフィ（Apostrophe）、エピグラフ（Epigraph/序文）と同根。語源は「反転して戻る」。アナフォラ（Anaphora/文頭反復）の正反対。文の最後が同じ言葉で終わることで、その言葉に「絶対的な質量」と「予感」を与えます。それは。すべての道が最後には「死」や「愛」という一つの点（point）に収束してゆく、宇宙的な秩序の模倣。 ",
+		"aftertaste": "「民の、民による、民のための（of the people, by the people, for the people）」という「結句反復（epistrophe）」の響きに、その「民（people）」という言葉がこの世界のすべての中心であり、終わり（end）であることを叩き込まれ、言葉の持つ「暴力的なまでの説得力」に震える、あの峻烈な一瞬。あるいは、自分の日々が、常に「後悔（regret）」という同じ結末（end）で終わる「エピストロフィ的日常（epistrophic life）」であることに気づき、その円環（circle）を断ち切ろうともがく、あの無口な夜明け。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "strebh-",
+					"meaning": "to wind, turn (forming strephein)"
+				}
+			],
+			"points": [
+				"strophe, catastrophe, streptococcus 同根。",
+				"『回る（turning）』ことは持続の象徴だが、それが常に『後（epi-）』から追いかけてくる結末（ending）となる時、言葉は不可避な『運命（destiny）』を体現する重力装置（gravity device）となる。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "symploce",
+		"word": "Symploce",
+		"part_of_speech": "noun",
+		"meaning": "複反復法、首尾反復法",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "syn-",
+					"type": "prefix",
+					"meaning": "together (共に)"
+				},
+				{
+					"text": "plekein",
+					"type": "root",
+					"meaning": "to plait, weave (編む、織る)",
+					"lang": "Greek"
+				}
+			],
+			"original_statement": "From Greek symplokē 'interweaving', from syn- 'together' + plekein 'weave'."
+		},
+		"core_concept": {
+			"en": "A figure of speech in which a word or phrase is used at the beginning and another word or phrase is used at the end of successive clauses, combining anaphora and epistrophe",
+			"ja": "文の『始まり（anaphora）』と『終わり（epistrophe）』を完璧に同期させ、二つの言葉の鎖で文全体を『共に（together）編み上げる（weaving）』修辞法。逃げ場のない論理性と、完璧な対称性が生む、沈黙の檻"
+		},
+		"thinking_layer": "『共に編み合わせること』。コンプレックス（Complex/共に織られたもの）、ディプロマ（Diploma/二重の）、デュプリケート（Duplicate/二倍にする）と同根。語源は「織り合わせ」。始まりの言葉と終わりの言葉を固定することで、その中身（content）がいかに変化しようとも、全体としての一つ「不変の枠組み」を強調します。それは、自由という名の「カオス」を完璧な「規律」で封じ込める、知性の最高の贅沢。",
+		"aftertaste": "「愛のために苦しみ、愛のために死ぬ。夢のために苦しみ、夢のために死ぬ」という「複反復（symploce）」の緊密な構造（structure）に圧倒され、自分の人生の苦悩さえもが、この美しい「織り目（weave）」の一部であるかのように祝福されたような、あの静かな救済。あるいは、自分と他人の会話が、いつも同じ始まり（beginning）と同じ終わり（end）を繰り返す「シンプローケー（symploce）」の遊戯に過ぎないと気づいた時の、あの冷淡で倦怠（ennui）に満ちた午後の絶望。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "plek-",
+					"meaning": "to plait, weave"
+				}
+			],
+			"points": [
+				"implicate, multiply, plait, plexus 同根。",
+				"『編む（weaving）』という行為は、バラバラな素材を統合して新しい意味を創出することだが、シンプローケー（symploce）はその『枠（frame）』を固定することで、変化の中に宿る『不変性（invariance）』を強調する。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "epanalepsis",
+		"word": "Epanalepsis",
+		"part_of_speech": "noun",
+		"meaning": "首尾呼応法、文頭文末反復法",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "epi-",
+					"type": "prefix",
+					"meaning": "upon, besides (〜の上に、〜に加えて)"
+				},
+				{
+					"text": "ana-",
+					"type": "prefix",
+					"meaning": "back (戻って)"
+				},
+				{
+					"text": "lambanein",
+					"type": "root",
+					"meaning": "to take (取る)",
+					"lang": "Greek"
+				}
+			],
+			"original_statement": "From Greek epanalēpsis, from epi- 'besides' + ana- 'back' + lambanein 'take'."
+		},
+		"core_concept": {
+			"en": "The repetition of a word or phrase at the end of a clause or sentence that occurred at the beginning of the same clause or sentence",
+			"ja": "文の最初に出発した言葉が、文の迷宮を通り抜けたあとに再び最後で『戻って（back）』『掴み取られる（take）』、自己完結的な円環の修辞法。始まりと終わりを、自分の手で綴じ合わせる（closing）意志の強度"
+		},
+		"thinking_layer": "『さらにもう一度、戻って取ること』。エンチュメーマ（Enthymeme/心に取るもの）、シラブル（Syllable/音を共に取る）、おなじみの「アナ（戻る）」と同根。語源は「再び取り上げること」。例えば「王は死んだ、万歳、王よ（The King is dead, long live the King）」のように。一文が自分自身へと回帰（recurrence）することで、その言葉はもはや外部の助けを必要としない「絶対的な自律」を纏（まと）います。それは、思考という名の「蛇（ourobouros）」。",
+		"aftertaste": "「沈黙は、深い沈黙」というような、一見トートロジー（tautology）に見えて、実は始まりと終わりが「首尾呼応（epanalepsis）」して一つの完璧な「一滴の雫（drop）」になった一文に出会い、その自給自足的な美しさに言葉を失う、あの知的な静止。あるいは、自分の人生が、最初の純粋な願いを最後にもう一度「取り戻す（retrieving）」ための、壮大な「エパナレプシス（epanalepsis）」の長い一文であったと悟る、あの静かな夕暮れの納得。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "slagu-",
+					"meaning": "to seize, take (forming lambanein)"
+				}
+			],
+			"points": [
+				"lemma, dilemma, epilepsy, syllable 同根。",
+				"『取る（taking）』ことは獲得だが、それを『戻って（ana-）』『さらに（epi-）』行うことは、失われた起源（origin）を自らの手で再構築（reconstruction）し、永遠の円環へと昇華させる営みである。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "enallage",
+		"word": "Enallage",
+		"part_of_speech": "noun",
+		"meaning": "格代用、語順転換（広義）、品詞の入れ替え",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "en-",
+					"type": "prefix",
+					"meaning": "in (〜の中に)"
+				},
+				{
+					"text": "allassein",
+					"type": "root",
+					"meaning": "to change (変える、交換する)",
+					"lang": "Greek"
+				}
+			],
+			"original_statement": "From Greek enallagē 'exchange', from en- 'in' + allassein 'change'."
+		},
+		"core_concept": {
+			"en": "A figure of speech in which one grammatical form is substituted for another, such as 'We was' (dialectal or deliberate change of person)",
+			"ja": "文法という厳格な鎖を、あえて『内側（in）』から『交換（change）』し、歪ませる（distorting）ことで、その逸脱（deviation）が放つ圧倒的な生々しさ（vividness）を表現する技法。正しさよりも、魂の叫びの『真実味』を選択する勇気"
+		},
+		"thinking_layer": "『（内側の）交換』。アレルギー（Allergy/別の反応）、ハイパラジー（Hypallage/転移修飾）、おなじみの「イン（中）」と同根。語源は「交換」。本来の文法をわざと壊すこと。「俺たちは行く（We goes）」のような。それは、あまりにも洗練されすぎた言葉では伝えられない、泥臭い「生（pith）」の感覚を、あえて「間違い」を装って叩きつけること。知性の「野生化（rewilding）」。",
+		"aftertaste": "「君、美しいなり（You is beautiful - あえて格を崩す）」という、文法を「代用（enallage）」した荒々しい一節に、洗練されたマナー（manners）の裏にある、剥き出しの「求愛（proclaim）」の激しさを感じて息を呑む、あの峻烈な一瞬。あるいは、自分の思考が、論理の枠組みを「内側（in）」から食い破り、この「エナラジェ（enallage）」な断片（fragments）へと崩れ落ちてゆくのを、どこか冷たく、しかし豊かに眺めている、あの深夜の自己投射。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "al-",
+					"meaning": "beyond, other (forming allos/other)"
+				}
+			],
+			"points": [
+				"alien, allegory, alternative, parallel 同根。",
+				"『正しい形式（proper form）』とは共有された秩序だが、エナラジェ（enallage）はその秩序を『交換（exchange）』の対象として扱う。その不遜（audacity）こそが、言葉に新しい生命の『リズム』を吹き込むのである。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
