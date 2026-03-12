@@ -277753,5 +277753,160 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "photoreceptor",
+		"word": "Photoreceptor",
+		"part_of_speech": "noun",
+		"meaning": "光受容体",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "phos",
+					"type": "root",
+					"meaning": "light"
+				},
+				{
+					"text": "receptor",
+					"type": "root",
+					"meaning": "receiver"
+				}
+			],
+			"original_statement": "From Greek phos + receptor."
+		},
+		"core_concept": {
+			"en": "light receiver",
+			"ja": "情報の門衛。"
+		},
+		"thinking_layer": "光を電気信号へ変換し色彩の世界を創り出す。暗黒の淵で世界を視覚化する情報の翻訳者。",
+		"aftertaste": "光の狩人のおかげで明日を信じられる。希望のビジョンでありたい自尊心。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"桿体と円錐の二重奏。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "rhodopsin",
+		"word": "Rhodopsin",
+		"part_of_speech": "noun",
+		"meaning": "ロドプシン",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "rhodon",
+					"type": "root",
+					"meaning": "rose"
+				},
+				{
+					"text": "opsis",
+					"type": "root",
+					"meaning": "sight"
+				}
+			],
+			"original_statement": "From rose sight."
+		},
+		"core_concept": {
+			"en": "dim-light pigment",
+			"ja": "暗闇の薔薇。"
+		},
+		"thinking_layer": "かすかな光を情報の激流に変え、暗闇を見通す。困難な時代にこそ美しい理想を咲かせる不屈の執念。",
+		"aftertaste": "闇の中にこそ真実が隠されている。人々の心の色彩を取り戻す導火線でありたい自尊心。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"構造を変えることで情報を伝達する。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "macula",
+		"word": "Macula",
+		"part_of_speech": "noun",
+		"meaning": "黄斑",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "macula",
+					"type": "root",
+					"meaning": "spot"
+				}
+			],
+			"original_statement": "From Latin macula."
+		},
+		"core_concept": {
+			"en": "visual center",
+			"ja": "太陽の刻印。"
+		},
+		"thinking_layer": "最も解像度の高い情報を集約し世界の核心を射抜く。散漫なノイズを退け、至高の命題に意識を凝縮する選別の美学。",
+		"aftertaste": "一点の曇りもない真実を見出した歓び。魂の核心を射抜く黄金の矢でありたい自尊心。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"色素が集まり黄色く見える。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "fovea",
+		"word": "Fovea",
+		"part_of_speech": "noun",
+		"meaning": "中心窩",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "fovea",
+					"type": "root",
+					"meaning": "small pit"
+				}
+			],
+			"original_statement": "From Latin fovea 'pitfall'."
+		},
+		"core_concept": {
+			"en": "pit of acuity",
+			"ja": "真理の井戸。"
+		},
+		"thinking_layer": "光を深淵へ引き込むことで解像度を最大化する。表層に満足せず、深い穴に飛び込み真実を凝視する興奮。",
+		"aftertaste": "世界の精緻さを知る。中心の一点を誰にも壊せない美しさで描き出したい自尊心。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"視細胞が最も密集する聖域。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "optic",
+		"word": "Optic",
+		"part_of_speech": "adjective",
+		"meaning": "視覚の",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "optos",
+					"type": "root",
+					"meaning": "seen"
+				}
+			],
+			"original_statement": "From Greek optikos."
+		},
+		"core_concept": {
+			"en": "relating to vision",
+			"ja": "視覚的な覚醒。"
+		},
+		"thinking_layer": "光の波を風景に変え、新しい宇宙を爆発させる特権。対象と主体を情報の糸で結び、世界を一つの関係性へと織り上げる意志。",
+		"aftertaste": "透明な理解の翼。人々の曇った視界を晴らす透き通った情報のレンズでありたい自尊心。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"かつては目から視線が発射されると考えられていた。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
