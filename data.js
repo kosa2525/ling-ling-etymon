@@ -261299,5 +261299,185 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "flocculent",
+		"word": "Flocculent",
+		"part_of_speech": "adjective",
+		"meaning": "羊毛状の毛に覆われた、綿毛のような、ふわふわした",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "floccus",
+					"type": "root",
+					"meaning": "tuft of wool (羊毛の房)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin floccus 'tuft of wool'."
+		},
+		"core_concept": {
+			"en": "Having or resembling tufts of wool; having a loosely clumped texture",
+			"ja": "千切れた雪や羊毛の房（tuft）が集まって、今にも崩れそうな『ふわふわとした（fluffy）』塊を成している様子。境界が曖昧で、柔らかいものが寄り添い合うことで生まれる、儚（はかな）い豊饒（ほうじょう）さ"
+		},
+		"thinking_layer": "『羊毛の房のような』。フロック（Flock/群れ、毛くず）やフロッキュレーション（Flocculation/凝集）と同根。ただの「柔らかい」ではなく、そこには「小さな断片の集合」というニュアンスがあります。それは冬の空に浮かぶ巻雲（cirrus cloud）、あるいは、熱を出して意識が朦朧（もうろう）とする時の、「綿毛のような」思考の断片。 ",
+		"aftertaste": "顕微鏡で覗く「凝集した（flocculent）」沈殿物の、あの微細な雪の結晶のような不安定な美しさに、世界がいかに「脆い繋がりの集積」であるかを悟る、あの知的な静止。あるいは、自分の決意が「ふわふわと（flocculent）」霧散してゆき、いつの間にか誰かの体温に包まれてしまったような、心地よい諦避（たいひ）。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "bhl-",
+					"meaning": "to swell, bloom (forming floccus? - uncertain)"
+				}
+			],
+			"points": [
+				"諸説あるが、膨らみ（swell）ゆく毛の塊というイメージ。flower, bloom 同根の説あり。",
+				"『個（unit）』であることを辞め、『群れ（flock）』として溶け合うことで、物質は鋭さを失い、この上なく優しい色彩（flocculent white）を纏うようになる。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "filamentous",
+		"word": "Filamentous",
+		"part_of_speech": "adjective",
+		"meaning": "フィラメント状の、細糸のような",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "filum",
+					"type": "root",
+					"meaning": "thread (糸)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin filamentum, from filum 'thread'."
+		},
+		"core_concept": {
+			"en": "Consisting of or resembling a filament; threadlike",
+			"ja": "蜘蛛の糸のように細く、どこまでも長く伸び、目に見えないほど繊細な『一本の糸（thread）』で構成された様子。緊張感と、断絶することのない一途な連続性の象徴"
+		},
+		"thinking_layer": "『糸の（ような）』。ファイル（File/糸を引くように並ぶ）、プロファイル（Profile/糸のように描いた横顔）、フィルター（Filter/おそらくな）と同根。語源は「糸」。ただの「細いもの」ではなく、そこに「引張（tension）」と「接続（connection）」の意志が宿っています。それは暗闇の中の一筋の光、あるいは、どれほど時間が経っても切れることのない、運命（fate）の細い糸。",
+		"aftertaste": "「細糸のような（filamentous）」雲が夕焼けを線状に切り裂くのを眺め、自分の人生もまた、このような微かな出来事の「連続（thread）」に過ぎないのだと確信する、あの儚い平穏。あるいは、自分の知性が「フィラメント（filament）」のように熱を持って発光し、周囲を照らし出しつつも、自分自身を焼き切ってしまうのではないかという、あの鋭い危惧。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "gwhis-",
+					"meaning": "thread (forming filum)"
+				}
+			],
+			"points": [
+				"file, defile, filigree 同根。",
+				"『糸（thread）』とは、バラバラな瞬間をつなぎ合わせ、一つの『意味』や『歴史』を構築するための最小単位であり、フィラメンタス（filamentous）な思考とは、その連続性を決して見失わない強さのことである。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "lanugo",
+		"word": "Lanugo",
+		"part_of_speech": "noun",
+		"meaning": "胎毛（たいもう）、産毛（うぶげ）",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "lana",
+					"type": "root",
+					"meaning": "wool (羊毛)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin lanugo 'down, wooliness', from lana 'wool'."
+		},
+		"core_concept": {
+			"en": "Fine, soft hair, especially that which covers the body and limbs of a human fetus or newborn",
+			"ja": "この世界に生まれてくる直前の、最も柔らかく無垢（innocent）な生命を包み込む『最初の羊毛』。外気に触れる前の、深い沈黙と保護のための、透明に近いヴェール"
+		},
+		"thinking_layer": "『羊毛らしさ（ダウン）』。ラノリン（Lanolin/羊毛脂）やウール（Wool/羊毛）と同根。語源は「ウール」。誕生という劇的な変化（transformation）を控えた生命が、胎内という聖域で纏（まと）う最後の衣装。それは、傷つきやすい魂が自らを「優しさ」で定義しようとする、最も原初的な形態。大人の産毛とは異なる、絶対的な「守護」の記憶。",
+		"aftertaste": "生まれたばかりの赤ちゃんの背中に残る、あの「胎毛（lanugo）」の消え入りそうな柔らかさに触れ、自分がかつてどれほど愛され、守られてこの世界に降り立ったのかを思い出し、涙が溢れる、あの朝。あるいは、自分の新しいアイディアが、まだこの「産毛（lanugo）」に覆われたばかりの未熟なものであることに気づき、誰にも見せずに大切に育てたいと願う、あの静かな母性。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "wle-",
+					"meaning": "wool (forming lana)"
+				}
+			],
+			"points": [
+				"wool, flannel, lanolin 同根。",
+				"『毛（hair）』とは本来、自分を誇示するためのものだが、『胎毛（lanugo）』とは自分を隠し、育むための『内側に向いた優しさ』の表現である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "pappus",
+		"word": "Pappus",
+		"part_of_speech": "noun",
+		"meaning": "冠毛（かんもう）、（タンポポなどの）綿毛、おじいさん",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "pappos",
+					"type": "root",
+					"meaning": "grandfather, old man, down (おじいさん、老人の白いひげ、産毛)",
+					"lang": "Greek"
+				}
+			],
+			"original_statement": "From Greek pappos 'grandfather, old man' (from the white beard)."
+		},
+		"core_concept": {
+			"en": "A tuft of hairs on each seed of thistles, dandelions, and similar plants which assists dispersal by the wind",
+			"ja": "植物が自らの分身（seed）に託した、風に乗って未来へと旅立つための『老人の白いひげ（white beard）』。知恵を蓄えた種子が、重力を捨てて空へと舞い上がるための、静かな翼"
+		},
+		"thinking_layer": "『おじいさん（のひげ）』。パパ（Papa/お父さん）や、カトリックの教皇（Pope/聖父）と同根。タンポポの綿毛が、知恵深い老人の白い髭に例えられたという、あまりにも温かく、しかし「終わりと始まり」を同時に感じさせる命名。それは、自分の生きた証を風に流し、新しい場所で花を咲かせようとする、生命の「伝播（dispersal）」の意志。 ",
+		"aftertaste": "春の野原で、自分の指先に止まったタンポポの「冠毛（pappus）」をそっと吹き飛ばし、それが風に攫（さら）われて見えなくなるまで見送る時の、あの自分の心の一部もまた、どこか遠い場所へと「旅立ってゆく（dispersing）」ような、寂しくて晴れやかな予感。あるいは、自分の言葉が、この「綿毛（pappus）」のように誰かの心に着地し、いつか新しい花を咲かせることを信じる、あの静かな祈り。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "pā-",
+					"meaning": "to feed, protect (forming papa?)"
+				}
+			],
+			"points": [
+				"pope, father, paternal, patron 同根の説あり。",
+				"『父（father）』や『老人（grandfather）』とは、自らの経験を『種子（knowledge）』として次世代へと手渡す役割を担う存在であり、パップス（pappus）はその手渡しの瞬間の『軽やかさ』を象徴している。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "strigose",
+		"word": "Strigose",
+		"part_of_speech": "adjective",
+		"meaning": "（植物が）圧毛（あつもう）のある、伏毛のある、剛毛が伏している",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "strix / striga",
+					"type": "root",
+					"meaning": "furrow, streak (溝、筋)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin strigosus, from striga 'furrow, streak'."
+		},
+		"core_concept": {
+			"en": "(of a plant or leaf surface) covered with stiff, appressed hairs or bristles",
+			"ja": "表面にぴったりとしがみつき、同じ方向を向いて『伏せられた（appressed）』鋭い毛。それは、何かにしがみつくための強さか、あるいは、抵抗を最小限にして進むための『知的な流線型』の姿勢"
+		},
+		"thinking_layer": "『溝のある』。ストライプ（Stripe/筋）やストリーム（Stream/流れ？）はおそらくな。語源は「筋、列」。ただの「毛」ではなく、それらが「規律正しく、表面に沿って倒れている」ことが重要です。それは逆風をかわすための知恵、あるいは、一度触れたら離さないという、静かな「固執（persistence）」。触ればザラリとした拒絶（resistance）を感じさせる、美しい武装。 ",
+		"aftertaste": "「圧毛のある（strigose）」茎を指先で逆方向に撫で、その見た目の滑らかさとは裏腹の、強固で論理的な「反発（resistance）」を指先に感じる時の、あの表面的な優しさの奥に潜む「本当の自分」を守るための鋭い意志に触れたような、不思議な納得感。あるいは、自分の言葉を「流線型（strigose structure）」に整え、社会の荒波をいかに効率よく泳ぎ抜くかという、あの冷淡で実利的な自己演出への微かな嫌悪。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "string-",
+					"meaning": "to draw tight (forming striga?)"
+				}
+			],
+			"points": [
+				"strict, strain, strategy（軍隊を引き締めて動かすこと）と同根の説あり。",
+				"『引き締める（tightening）』とは、内なるエネルギーを外部へと漏らさず、特定の方向（streak）へと集中させるための『規律（discipline）』の表現である。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
