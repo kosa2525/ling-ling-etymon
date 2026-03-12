@@ -260460,5 +260460,250 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "epigraphy",
+		"word": "Epigraphy",
+		"part_of_speech": "noun",
+		"meaning": "金石学（きんせきがく）、碑文の研究、碑銘",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "epi-",
+					"type": "prefix",
+					"meaning": "upon (〜の上に)"
+				},
+				{
+					"text": "graphein",
+					"type": "root",
+					"meaning": "to write (書く)",
+					"lang": "Greek"
+				}
+			],
+			"original_statement": "From Greek epigraphē, from epi- 'upon' + graphein 'write'."
+		},
+		"core_concept": {
+			"en": "The study and interpretation of ancient inscriptions",
+			"ja": "石や金属といった不変の物質の『上に（upon）』、永遠の記憶を込めて『刻み込まれた（write）』言葉を解読し、過去の声を現代に蘇らせる学問。時間の風化に抗う、石の言葉"
+		},
+		"thinking_layer": "『上に書くこと』。エピグラフ（Epigraph/序文、題記）や、おなじみの「グラフィティ（Graffiti/落書き）」、テレグラフ（Telegraph/遠くへ書く）と同根。紙が朽ち果てた後も、石に刻まれた文字は沈黙を守りつつそこに在り続けます。それは、時の権力者が自らの「不滅」を願って残した署名。歴史が「物語（story）」から「遺物（artifact）」へと変わる瞬間の、峻烈な証拠。",
+		"aftertaste": "崩れかけた古代神殿の壁に、数千年前の誰かが「ここにあった（epigraphic record）」という事実を刻んだ跡を見つめる時の、あの宇宙的な時間の流れの速さと、自分という存在のあまりの儚（はかな）さへの眩暈。あるいは、自分の何気ない一言が、誰かの心に消えない「碑文（epigraph）」として刻まれてしまったと気づいた時の、言葉の重みへの戦慄。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "gherbh-",
+					"meaning": "to scratch (forming graphein)"
+				}
+			],
+			"points": [
+				"grammar, graphic, diagram, biography 同根。",
+				"『書く（writing）』とは本来、滑らかな表面を『ひっかき、傷つける（scratch）』暴力的な行為であり、エピグラフィ（epigraphy）はその傷跡を『知恵』へと昇華させる営みである。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "paleography",
+		"word": "Paleography",
+		"part_of_speech": "noun",
+		"meaning": "古文書学（こもんじょがく）、古書体の研究",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "paleo-",
+					"type": "root",
+					"meaning": "ancient (古代の)",
+					"lang": "Greek"
+				},
+				{
+					"text": "graphein",
+					"type": "root",
+					"meaning": "to write (書く)",
+					"lang": "Greek"
+				}
+			],
+			"original_statement": "From Greek palaios 'ancient' + graphia 'writing'."
+		},
+		"core_concept": {
+			"en": "The study of ancient writing systems and the deciphering and dating of historical manuscripts",
+			"ja": "数百年、数千年前の『古い（ancient）』『書き言葉（writing）』の癖（くせ）を読み解き、時の経過によって失われた文脈を復元する知的な冒険。筆跡の震えの中に、かつての息遣いを見出すための鍵"
+		},
+		"thinking_layer": "『古い書き方』。パレオ（Paleo/旧石器時代のダイエットなど）とおそらくな。語源は「古い」。ただの「歴史（history）」ではなく、そこに「書体（handwriting）」という身体的な側面が含まれます。インクのかすれ、羊皮紙の汚れ、省略された文字の形。それは、過去から届いた「未開封のメール」を、一文字ずつ慎重に開封してゆくような、孤独で親密な対話。",
+		"aftertaste": "虫食いだらけの古文書（manuscript）を前に、数世紀前の修道士が書き残した「古文書学的な（paleographic）」暗号を解読し、そこに自分と同じ「孤独」や「迷い」を見出した瞬間の、時代を越えた奇妙な友情。あるいは、自分のデジタルな言葉たちが、千年後の人類にとって解読不能な「古文書（paleography）」になると想像する、あの寂莫たる誇り。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kwel-",
+					"meaning": "to turn, dwell (forming palaios/long-lasting?)"
+				}
+			],
+			"points": [
+				"paleontology（古生物学）, paleolithic 同根。",
+				"『古代（ancient）』とは過ぎ去った時間ではなく、解読（deciphering）を待つ『層（layer）』として今ここに堆積している情報の集塊である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "sigillography",
+		"word": "Sigillography",
+		"part_of_speech": "noun",
+		"meaning": "印章学、印影の研究",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "sigillum",
+					"type": "root",
+					"meaning": "seal, sign (印、しるし)",
+					"lang": "Latin"
+				},
+				{
+					"text": "graphein",
+					"type": "root",
+					"meaning": "to write (書く)",
+					"lang": "Greek"
+				}
+			],
+			"original_statement": "From Latin sigillum 'seal' + Greek graphia 'writing'."
+		},
+		"core_concept": {
+			"en": "The study of seals, especially those attached to documents",
+			"ja": "文書の最後に押し込まれた『印（seal）』の一つ一つに宿る、権威、同一性、そして秘密を守るという意志（will）を研究する学問。蝋（ろう）の上に刻まれた、小さな『権力の肖像』"
+		},
+		"thinking_layer": "『印章を書くこと（研究すること）』。シール（Seal）やシグナル（Signal）、シグネチャー（Signature/署名）と同根。言葉が「音」や「文字」を超えて、「物理的な刻印（physical mark）」へと結晶化したもの。印章は、その文書が正真正銘の「本物（authentic）」であることを、無言で世界に宣言します。それは、自意識という名の「唯一性」を石や金属に託す、知的な儀式。",
+		"aftertaste": "冷え固まった赤い封蝋（sealing wax）の上に刻まれた、失われた王家の「紋章（sigillographic mark）」をなぞる時の、あの情報の「真実味（authority）」が指先に伝わってくるような、厳かな納得。あるいは、自分の人生に「決定的な印（seal）」を刻むような瞬間がいつ訪れるのかを、静かに待ちわびる、あの長い午後。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sekw-",
+					"meaning": "to follow (forming signum/mark to follow)"
+				}
+			],
+			"points": [
+				"sign, designate, signify, insignia 同根。",
+				"『印（sign）』とは、他者がその後に『従う（follow）』べき目印であり、シジログラフィ（sigillography）はその支配の『軌跡』を辿る営みである。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "diplomatics",
+		"word": "Diplomatics",
+		"part_of_speech": "noun",
+		"meaning": "古文書学（一次史料の信憑性を研究する学問）",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "diploma",
+					"type": "root",
+					"meaning": "folded paper, document (折り畳まれた紙、証書)",
+					"lang": "Greek"
+				}
+			],
+			"original_statement": "From Greek diplōma, originally 'folded paper', from diplo- 'double'."
+		},
+		"core_concept": {
+			"en": "The study of official documents, especially historical ones, and the assessment of their authenticity",
+			"ja": "提出された『文書（document）』が、果たして真実なのか、それとも巧妙な偽造なのかを、形式、様式、材質から冷徹に『鑑定（assess）』する学問。言葉の鎧を一枚ずつ剥ぎ取り、その「真贋（しんがん）」を問う、論理の審判"
+		},
+		"thinking_layer": "『折り畳まれた紙のこと』。ディプロマ（Diploma/卒業証書）や外交（Diplomacy）と同根。外交官が「二つに折った公式文書」を携えていたことが由来。ただの「読解」ではなく、「疑うこと」から始まります。それは、この公文書は本当に王が書いたのか、それとも後世の捏造（forgery）なのか。歴史の「正統性（legitimacy）」の境界線を守る、知的な門番の営み。",
+		"aftertaste": "完璧な形式を整えた「古文書（diplomatic source）」の裏側に、わずかな年代の矛盾を見つけ出し、一つの「巨大な嘘（forgery）」を暴き出した瞬間の、あの世界の色が一変するような衝撃と、知的な征服感。あるいは、自分の発する言葉が、後の時代の鑑定（diplomatics）に耐えうるほどの「誠実な一次史料（authentic document）」であるかどうかを自問する、あの静かな内省。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "dwo-",
+					"meaning": "two (forming diplo-)"
+				}
+			],
+			"points": [
+				"double, dual, diploma 同根。",
+				"『二つに折る（double）』という行為は、情報の『内側』と『外側』を分離することであり、ディプロマティクス（diplomatics）はその折り目（hidden fold）を再び開く試みである。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "codicology",
+		"word": "Codicology",
+		"part_of_speech": "noun",
+		"meaning": "写本学、冊子状写本の考古学",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "codex",
+					"type": "root",
+					"meaning": "block of wood, book (木の板、本)",
+					"lang": "Latin"
+				},
+				{
+					"text": "logos",
+					"type": "root",
+					"meaning": "reason, study (理屈、学問)",
+					"lang": "Greek"
+				}
+			],
+			"original_statement": "From Latin codex 'book' + Greek -logia 'study'."
+		},
+		"core_concept": {
+			"en": "The study of manuscripts as physical objects, especially those in the form of a codex (as opposed to a scroll)",
+			"ja": "本を、ただの情報の入れ物ではなく、紙、インク、製本、装飾が重なり合った一つの『物理的な宇宙（object）』として研究する学問。一冊の冊子（codex）が持つ、『物体としての記憶』の考古学"
+		},
+		"thinking_layer": "『本についての学問』。コデックス（Codex/写本）と同根。スクロール（巻物）が「流動」なら、コデックスは「積層（layering）」です。ページをめくるという行為の物理的な重み。インクの成分から、羊皮紙をなめした職人の手触りまで。それは、精神的な価値を「物質という檻」の中に閉じ込めるための、最も贅沢な技術の記録。 ",
+		"aftertaste": "革装丁の古い「写本（codex）」の重みを両手で感じ、その一ページ一ページに染み付いた何世紀分もの「指の跡」や「眼差し」を想う時の、あの自分が一つの巨大な「時間の地層」に触れているという、厳かな恍惚。あるいは、自分の存在もまた、言葉と肉体が綴じ合わされた一冊の「コデックス（codex）」に過ぎないのではないかと感じる、あの静かな午後の自己投射。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kau-",
+					"meaning": "to strike, hew (forming caudex/block of wood)"
+				}
+			],
+			"points": [
+				"caudex（茎、木の幹）, codes, codify 同根。",
+				"『木（caudex）』を切り出して板を作り、それを綴じ合わせて『本』を作った。その『物質性』の重視こそが、情報を『永遠』へと繋（つな）ぎ止めるための知性の第一歩であった。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "numismatics",
+		"word": "Numismatics",
+		"part_of_speech": "noun",
+		"meaning": "貨幣学、古銭学、メダルの研究",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "nomisma",
+					"type": "root",
+					"meaning": "custom, current coin, piece of money (習慣、流通しているコイン)",
+					"lang": "Greek"
+				},
+				{
+					"text": "nomime",
+					"type": "root",
+					"meaning": "customary, lawful (習慣的な、合法的な)",
+					"lang": "Greek"
+				}
+			],
+			"original_statement": "From Greek nomisma 'coin', from nomizein 'to use customarily', from nomos 'custom, law'."
+		},
+		"core_concept": {
+			"en": "The study or collection of coins, paper money, and medals",
+			"ja": "社会の合意と『法律（law）』によって価値を与えられた、小さな金属片（coin）の変遷を辿る学問。一枚のコインに刻まれた、失われた王権のプロパガンダと、人々の欲望の『流通の記憶』"
+		},
+		"thinking_layer": "『習慣に基づいたもの』。アノミー（Anomie/無秩序＝法のない状態）や、おなじみの「ノミー（〜学、分類）」と同根。ただの「お金」ではなく、そこに「社会的な約束（custom/law）」が含まれます。コインは、それ自体に価値があるのではなく、国家がその価値を「保証」している。それは、抽象的な「価値」という概念を、物理的な「重み」へと置換（substitute）する、文明の、最も成功したフィクション。",
+		"aftertaste": "煤（すす）けた古代の銀貨（ancient coin）の表面に、かすかに残る「時の支配者の横顔」を見出し、今はなき帝国の栄光が、いま自分の手のひらで「一円の価値」さえも失って転がっているのを知る、あの歴史の非情さと甘美な虚無。あるいは、自分の「言葉」もまた、他者との合意（law/custom）があって初めて価値を持つ、一種の「コイン（numismatic object）」であるのだと悟る、あの静かな納得感。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "nem-",
+					"meaning": "to assign, allot (forming nomos/law)"
+				}
+			],
+			"points": [
+				"economy, astronomy, autonomy, nemesis 同根。",
+				"『法（law）』とは、人間に特定の役割を『割り当てる（assigning）』ことであり、貨幣（coin）はその役割を数値化して『交換可能』にするための、最も洗練された『割り当ての道具』である。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
