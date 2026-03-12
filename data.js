@@ -269629,5 +269629,193 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "pericope",
+		"word": "Pericope",
+		"part_of_speech": "noun",
+		"meaning": "抜粋、抄録、（聖書の）抜粋箇所",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "peri-",
+					"type": "prefix",
+					"meaning": "around (周りに)"
+				},
+				{
+					"text": "koptein",
+					"type": "root",
+					"meaning": "to cut off (切り落とす)",
+					"lang": "Greek"
+				}
+			],
+			"original_statement": "From Greek perikopē 'a section', from peri- 'around' + koptein 'cut'."
+		},
+		"core_concept": {
+			"en": "A set of verses that forms a short passage within a larger work, especially the Bible",
+			"ja": "壮大な叙事詩や聖典の森の中から、宝石のように『切り取られた（cut around）』一節。それ自体が完結した世界を持ち、真理を凝縮して伝える、知的な『抜き書き』"
+		},
+		"thinking_layer": "『周りを切り取ったもの』。コンマ（Comma/切り取られたもの）、ペリフェラル（Peripheral/周囲の）と同根。語源は「切り取られた断片」。ただの「引用（quote）」ではありません。そこには。「膨大な物語の中から、今、この瞬間に必要な光を抽出する」という、峻烈な選別の響きがあります。それは。知性が情報の海（ocean of information）の中から、自らの拠り所となる「一行」を見つけ出すプロセスのメタファー。",
+		"aftertaste": "古い書物の「抜粋箇所（pericope）」を指でなぞり、そこに込められた数千年の思索が、今、自分というちっぽけな存在を貫いてゆくのを感じ、歴史という名の巨大な「タペストリー」の一部であることを知る、あの知的な平安。あるいは、自分の人生もまた、遠い未来には誰かにとっての「ペリコペ（pericope）」として、その輝く一部分だけが語り継がれるのかもしれないという、甘美で孤独な予感。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "skap-",
+					"meaning": "to hew, strike (forming koptein)"
+				}
+			],
+			"points": [
+				"cap, chop, shop, syncope 同根。",
+				"『切る（cutting）』ことは破壊ではなく、形を与えることである。ペリコペは、無定形な真理の世界に境界線を引き、人間の理性が扱える『サイズ』へと翻訳された知の結晶である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "ambo",
+		"word": "Ambo",
+		"part_of_speech": "noun",
+		"meaning": "アンボ、（初期キリスト教教会の）説教壇",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "ambo",
+					"type": "root",
+					"meaning": "both, two (両方、二つ)', from Greek ambon 'pulpit', possibly from anabainein 'to go up'"
+				}
+			],
+			"original_statement": "From Late Latin ambo, from Greek ambōn 'pulpit', related to anabainein 'go up'."
+		},
+		"core_concept": {
+			"en": "An oblong pulpit with steps at each end, used for reading the Gospel and the Epistles",
+			"ja": "言葉が地上を離れ、人々の耳へと『昇ってゆく（go up）』ための、聖なる舞台。両端に階段を持つその形は、語り手と聞き手を繋ぐ、知的な『情報の分水嶺』"
+		},
+		"thinking_layer": "『昇り口』。アナボリック（Anabolic/合成の、上向きの）、アンビエント（Ambient/周囲の？とは関係なく）と同根。語源は「昇る場所」。ただの「台」ではありません。それは。日常の低き（low）から、真理の高み（high）へと至るための、物理的な「階（きざはし）」。知性が自らのアイディアを公へと開き、世界を「啓発（enlightening）」しようとする際の、峻烈な覚悟の場。",
+		"aftertaste": "静まり返った聖堂の「説教壇（ambo）」を見上げ、そこから放たれた言葉がいかに人々の運命を変え、国を揺るがしてきたのかに想いを馳せ、言葉の持つ「恐ろしさ」と「神聖さ」を同時に噛み締める、あの知的な戦慄。あるいは、自分の言葉が、この「アンボ」から発せられる一節（pericope）のように、誰かにとっての「道標」となることを願う、あの静かな午後の自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "gwā-",
+					"meaning": "to go, come (forming anabainein via bainein)"
+				}
+			],
+			"points": [
+				"come, base, basis, aerobics 同根。",
+				"『昇る（going up）』ことは重力への反逆であり、動物的な本能を越えて『ロゴス』の世界へと参入することである。アンボという言葉には、発話という行為がいかに『神聖な垂直性』を伴うものであるかという記憶が宿っている。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "responsorial",
+		"word": "Responsorial",
+		"part_of_speech": "adjective",
+		"meaning": "唱和の、応唱（答唱）の",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "re-",
+					"type": "prefix",
+					"meaning": "back (後ろへ)"
+				},
+				{
+					"text": "spondere",
+					"type": "root",
+					"meaning": "to pledge, promise (誓う、約束する)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From respond, from Latin respondere 'answer', from re- 'back' + spondere 'pledge'."
+		},
+		"core_concept": {
+			"en": "Sung or said in response to a passage or verse",
+			"ja": "一人の呼びかけに、多くの者が『誓い（pledge）』を以（もっ）て返す、魂の木霊（echo）。対話を超えた『共鳴（resonance）』であり、個が全体へと溶け込みながら自らを再確認する、知的な『応答の儀式』"
+		},
+		"thinking_layer": "『誓い返す』。スポンサー（Sponsor/保証人＝誓う人）、スポーズ（Spouse/配偶者＝誓い合った人）、おなじみの「リスポンス（応答）」と同根。語源は「約束」。ただの「返事」ではありません。そこには。「相手が発した真実を、自らの内側で咀嚼（そしゃく）し、増幅させて返す」という、能動的な同意の響きが宿っています。それは。知性が他者の思想と出会い、相互作用（interaction）によって新しいハーモニーを生成するプロセス。 ",
+		"aftertaste": "会衆の声が一つになって返される「答唱（responsorial）」の波の中に身を浸し、自分の孤独な声が、いかに巨大な宇宙の「賛歌（hymn）」の一部となり得るのかを知り、目頭が熱くなる、あの知的な昂揚。あるいは、自分の言葉が、誰かの心という「リスポンソリアル」な鏡の中で、より美しく、より深い響きへと変奏（variation）されるのを待つ、あの静かな夜の安堵。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "spend-",
+					"meaning": "to make an offering, perform a rite (forming spondere)"
+				}
+			],
+			"points": [
+				"spondee, correspond, despond（？） 同根。",
+				"『誓う（pledging）』ことは自らを拘束することだが、リスポンソリアルな関係においては、その拘束がむしろ『共通の言語』という自由を与える。言葉を交わすことは、互いの存在を保証（sponsoring）し合うという、最も崇高な社会的な契約である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "psalter",
+		"word": "Psalter",
+		"part_of_speech": "noun",
+		"meaning": "詩篇、詩篇集、プサルテリオン（撥弦楽器）",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "psallein",
+					"type": "root",
+					"meaning": "to pluck (弾く)', from Greek psalterion 'stringed instrument'"
+				}
+			],
+			"original_statement": "From Old English psalter, from Latin psalterium, from Greek psaltērion 'stringed instrument', from psallein 'pluck'."
+		},
+		"core_concept": {
+			"en": "The Biblical Book of Psalms, or a separate book containing it",
+			"ja": "魂の弦（strings of soul）を『弾く（pluck）』ようにして紡がれた、150の絶叫と賛美。言葉を単なる伝達の道具から、天へと届く『楽器（instrument）』へと昇華させた、知的な『祈りのアンソロジー』"
+		},
+		"thinking_layer": "『弾かれたもの』。プサルタリー（Psaltery/楽器）、パルス（Pulse/脈動）と同根の説あり。語源は「楽器」。ただの「詩集」ではありません。そこには。「人間のあらゆる喜怒哀楽を、神という唯一の聴衆に向けて奏でる」という、峻烈な実存の響きが宿っています。それは。知性が自らの複雑な感情を、数理的な「詩形（verse）」の中に閉じ込め、永遠の強度を与えようとする格闘。 ",
+		"aftertaste": "革装の「詩篇集（psalter）」を手に取り、その手垢（てあか）のついたページに、幾世代もの人々の「救済への渇望（thirst for salvation）」を読み取り、自分の悩みもまた、この壮大な人類の「合唱」の一部なのだと悟る、あの知的な平安。あるいは、自分の思考が、この「パルター」のように美しく調律（tuning）され、いつか誰かの心の沈黙（silence）を優しく弾く存在でありたいと願う、あの静かな午後の自負。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "palo-",
+					"meaning": "to shake, strike (forming psallein)"
+				}
+			],
+			"points": [
+				"palsy（？） 同根の説あり。",
+				"『弾く（plucking）』という行為は、対象に震え（vibration）を与えることである。パルター（psalter）は、沈黙という死の状態にある言語に、生命という名の鼓動を吹き込むための、文学的なAEDである。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "breviary",
+		"word": "Breviary",
+		"part_of_speech": "noun",
+		"meaning": "聖務日課書、要約、短縮",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "brevis",
+					"type": "root",
+					"meaning": "short (短い)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin breviarium 'summary, abridgment', from brevis 'short'."
+		},
+		"core_concept": {
+			"en": "A book containing the service for each day, to be said by those in orders in the Roman Catholic Church; a summary",
+			"ja": "膨大な祈りの義務を、一日の『刻（とき）』に合わせて『短く（short）』凝縮した、知的な『時間の羅針盤』。一分一秒を聖なるものへと変容させる、規律と要約の極致"
+		},
+		"thinking_layer": "『短くしたもの』。ブリーフ（Brief/短い）、アブリッジ（Abridge/要約する）、おなじみの「プレ（短い）」と同根。語源は「要約」。ただの「スケジュール帳」ではありません。そこには。「無限の時間を、意味のある有限の断片へと切り分ける」という、文明的な「時間の管理」の意志が宿っています。それは。知性が自らの存在を維持するために、日々繰り返さなければならない「精神的なメインテナンス（maintenance）」。 ",
+		"aftertaste": "修道士たちが「聖務日課書（breviary）」を手に、一日に何度も静止する（pause）様子に、時間を「浪費」するのではなく「分かち合う」ための究極の知恵を見出し、自らに課した「日々のルーチン」の尊さを再確認する、あの知的な充足。あるいは、自分の人生という膨大な物語が、いつかはこの「ブレヴィアリー」のように、たった数行の「美しい要約」へと昇華されることを夢見る、あの静かな夜の自尊心。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "mregh-u-",
+					"meaning": "short (forming brevis)"
+				}
+			],
+			"points": [
+				"brief, merry（？） 同根の説あり。短くすることは愉快なことでもある。",
+				"『短い（short）』ことは欠落ではなく、エッセンス（essence）の抽出である。ブレヴィアリーは、生命がいかにして過酷な義務（duty）を、リズム（rhythm）という名の芸術へと変換してきたかを示す、不屈の生存のテキストである。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
