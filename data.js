@@ -259923,5 +259923,191 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "arterial",
+		"word": "Arterial",
+		"part_of_speech": "adjective",
+		"meaning": "動脈の、動脈血のような、（交通の）幹線となる",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "artēria",
+					"type": "root",
+					"meaning": "windpipe, artery (気管、動脈)",
+					"lang": "Greek"
+				}
+			],
+			"original_statement": "From Greek artēria, originally 'windpipe', later believed to contain air, then applied to blood vessels."
+		},
+		"core_concept": {
+			"en": "Relating to or denoting the arteries; denoting a major route in a system of roads, rivers, or railway lines",
+			"ja": "心臓からの新鮮な『拍動（pulsation）』を全身の隅々へと届ける、酸素に満ちた鮮やかな赤色の路（みち）。生命維持のための『メインルート』としての誇りと衝撃"
+		},
+		"thinking_layer": "『気管の（空気を入れる場所）』。語源の「Arteria」はもともと「のど（気管）」を指していました。古代人は死体の動脈が空っぽだったため、そこには「空気（pneuma）」が流れていると信じていたのです。そこから「生命を運ぶ管」へ。それは、都市を支える巨大な国道（arterial road）、あるいは、一瞬で状況を激変させる「鮮烈な変化」のメタファー。",
+		"aftertaste": "「幹線道路（arterial road）」のライトの列が、まるで巨大な生物の体温のように夜の闇を脈動させているのを眺める時の、都市そのものが一つの生命体であるという、不気味で壮大な一体感。あるいは、自分の心臓から送り出された「熱い想い（arterial passion）」が、誰かの魂の末端（capillary）まで届いたと確信した瞬間の、あの熱い痺れ。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "uer-",
+					"meaning": "to lift, raise (forming arteria?)"
+				}
+			],
+			"points": [
+				"aorta（大動脈）, artery 同根の説あり。",
+				"『空気（air）』を運ぶと信じられていた場所が、実は『血（blood）』を運んでいたと知った歴史は、人間がいかに自らの『内なる宇宙』を誤解しつつ、それでもなお生きてきたかという、愛おしい無知の証明。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "venous",
+		"word": "Venous",
+		"part_of_speech": "adjective",
+		"meaning": "静脈の、静脈血のような、葉脈のある",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "vena",
+					"type": "root",
+					"meaning": "blood vessel, vein (血管、静脈)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin venosus, from vena 'vein'."
+		},
+		"core_concept": {
+			"en": "Relating to or denoting the veins; relating to the drainage of deoxygenated blood",
+			"ja": "旅を終え、すべての情報を回収（drain）して静かに根源へと帰ってゆく、深く沈んだ青色の路。酸素を使い果たし、それでもなお『循環（cycle）』を止めない、粘り強い帰還の意志"
+		},
+		"thinking_layer": "『血管の』。ベイン（Vein/静脈、才能、気分）と同根。アーテリアル（Arterial）が陽なら、ヴィーナス（Venous）は陰。ただの「帰り道」ではなく、そこには「浄化される前の重み」が宿っています。それは暗い森の奥を流れる小川、あるいは、一日の仕事（duty）を終えてすべてを脱ぎ捨てる、あの静かな疲労のメタファー。",
+		"aftertaste": "手の甲に浮き出た「静脈（venous pattern）」の青い網目を見つめながら、自分の身体が地球という巨大な「水の循環」の一部であることを再確認する、あのひんやりとした安堵感。あるいは、どんなに華やかな舞台も、最後はこの「静かな帰路（venous return）」によって支えられ、再生へと続くのだと悟る、あの夕暮れのような穏やかな納得。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"『静脈（vein）』という言葉が『才能（grain/vein）』や『気分（mood/vein）』と同じ言葉なのは、個人の特性が身体の『内なる流れ』に宿っているとする、古代の生理学的な洞察。",
+				"『帰る（returning）』ことは捨てることではなく、次の『跳躍』のためにすべてを一度リセットするための、最も高度な生命活動である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "lymphatic",
+		"word": "Lymphatic",
+		"part_of_speech": "adjective",
+		"meaning": "リンパの、リンパを分泌する、無気力な、元気のない",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "lympha",
+					"type": "root",
+					"meaning": "clear water, water nymph (澄んだ水、水の精霊)",
+					"lang": "Latin"
+				},
+				{
+					"text": "numphē",
+					"type": "root",
+					"meaning": "nymph (精霊)",
+					"lang": "Greek"
+				}
+			],
+			"original_statement": "From Latin lympha 'water, water nymph' (mistakenly associated with Greek numphē)."
+		},
+		"core_concept": {
+			"en": "Of, relating to, or denoting the lymph; (of a person) pale, flabby, and slow",
+			"ja": "汚れを濾過（filter）し、免疫という名の盾を掲げる、透明で静かな『水の精（water nymph）』のように澄んだ流れ。生命の自浄作用。転じて、あまりにも静かすぎて、無気力（slow）に見えるほどの深い沈黙"
+		},
+		"thinking_layer": "『澄んだ水の』。ニンフ（Nymph/妖精）とおそらくな。語源は「水」。ただの「液体」ではなく、そこに「浄化」と「防御」が宿っています。それは老廃物を流し去る見えない河、あるいは、自律的に秩序を守ろうとする「静かなるガードマン」。しかし、かつてはこの液体のバランスが崩れることが「無気力さ」の正体だと信じられていました。",
+		"aftertaste": "首筋の一箇所が小さく腫れ、自分の身体が「見えない敵（bacteria）」と必死に戦っているという「リンパの（lymphatic）」反応を自覚した時の、あの自分の身体が自分を超えた「国家」のように感じられる、奇妙な疎外感。あるいは、何のやる気も起きない午後に、あえて自分を「水の精（lymphatic nymph）」だと定義し、静かに流れる時間の感触だけを愛おしむ、あの逆説的な安らぎ。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"『水（lympha）』と『妖精（nymph）』が混同されて生まれた言葉の歴史は、人間の体内にある『透明な液』に、ある種の神性を見出していた証拠。",
+				"『守る（protecting）』とは常に『静かに（quietly）』行われるものであり、最も重要で透明な仕事（lymphatic function）ほど、私たちはそれを忘れてしまいがちである。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "synovial",
+		"word": "Synovial",
+		"part_of_speech": "adjective",
+		"meaning": "滑液（かつえき）の、関節液の",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "syn-",
+					"type": "prefix",
+					"meaning": "together, with (共に、同じように)"
+				},
+				{
+					"text": "ōvum",
+					"type": "root",
+					"meaning": "egg (卵)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Modern Latin synovia, coined by Paracelsus from Greek syn- 'together' + Latin ōvum 'egg' (because it looks like egg white)."
+		},
+		"core_concept": {
+			"en": "Relating to a type of joint which is surrounded by a thick flexible membrane forming a sac into which is secreted a viscous fluid that lubricates the joint",
+			"ja": "骨と骨という『固い断絶』の間に流れ込み、それを『卵の白身（egg white）』のような滑らかさで包み込む『潤滑の魔術』。摩擦を消し去り、痛みをしなやかな運動へと変容させる、沈黙のクッション"
+		},
+		"thinking_layer": "『卵のような』。オーバル（Oval/楕円）やエッグ（Egg/卵）と同根。パラケルススによる造語。ただの「油」ではなく、そこに「生命の根源（卵）」というメタファーが宿っています。それは異なる意志（bones）が衝突（friction）を避けて共に動く（syn-）ための、不可欠な媒介物（medium）。 ",
+		"aftertaste": "スムーズに曲がる肘（ひじ）や膝（ひざ）の動きの裏側で、この「卵のような液（synovial fluid）」が静かに骨を愛撫し、摩耗（wear）から守っているのを想像する、あの自分の身体の完璧な設計への深い感謝。あるいは、自分と誰かの間の「ぎすぎすした関係」に、この「滑液（synovial fluid）」のような優しさという油を一差ししたいと願う、あの切実な祈り。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ō-yo-",
+					"meaning": "egg (forming ovum)"
+				}
+			],
+			"points": [
+				"ovary, ovulation, oval 同根。",
+				"『潤滑（lubrication）』とは、硬いもの同士の『境界線（boundary）』を、柔らかい『第３の存在（liquid）』によって曖昧にすることであり、それこそがすべての『円滑な関係（smoothness）』の本質である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "pancreatic",
+		"word": "Pancreatic",
+		"part_of_speech": "adjective",
+		"meaning": "膵臓（すいぞう）の",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "pan-",
+					"type": "prefix",
+					"meaning": "all (すべて)"
+				},
+				{
+					"text": "kreas",
+					"type": "root",
+					"meaning": "flesh (肉)",
+					"lang": "Greek"
+				}
+			],
+			"original_statement": "From Greek pankreas, from pan- 'all' + kreas 'flesh' (because it has no bone)."
+		},
+		"core_concept": {
+			"en": "Relating to the pancreas",
+			"ja": "骨を持たず、ただ純粋な『肉（flesh）』の塊として存在する、消化と代謝を司る『万能（all）の臓器』。すべてを分解し、すべてをエネルギーへと置換する、内なる化学工場の核心"
+		},
+		"thinking_layer": "『すべての肉』。パン（Pan-）やパニック（Panic/神パン＝すべてを震えさせる）、パノラマ（Panorama/すべて見える）、クリエイト（Create/おそらくな）と同根。語源は「全身が肉のようなもの」。骨がなく柔らかい様子を指します。膵臓は、沈黙を守りつつ、私たちが食べたものを分子レベルで解体し、自分自身の肉体へと「再定義」する場所。それは知の巨匠が情報を解体し、一つの思想へと再構築するプロセスのメタファー。",
+		"aftertaste": "自分の意志（conscious mind）とは無関係に、この「肉の塊（pancreas）」が絶え間なく酵素（enzyme）を分泌し、自分を「生かして」くれているという、ある種の宗教的な謙虚さ。あるいは、あまりにも多くの情報を「摂取」しすぎた現代の自分が、目に見えない「膵臓（pancreas）」の悲鳴を感じ取り、一度すべてを「絶食（fasting）」してリセットしたいと願う、あの静かな疲労。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kwrep-",
+					"meaning": "body, flesh (forming kreas?)"
+				}
+			],
+			"points": [
+				"corps, corporeal 同根の説あり。",
+				"『肉（flesh）』とは生命がこの世に『定着（anchoring）』するための媒体であり、その『すべて（pan-）』を具現化した膵臓は、最も根源的な生存の意志の象徴である。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
