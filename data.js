@@ -307040,5 +307040,330 @@ const WORDS = [
 			]
 		},
 		"date": "20-03-13"
+	},
+	{
+		"id": "signifier",
+		"word": "Signifier",
+		"part_of_speech": "noun",
+		"meaning": "シニフィアン、能記、情報の情報の、。情報の音、。情報の情報の情報の、記号。の外面、。情報の、情報の不気味な情報の情報の明白さ。、。情報の、情報の物理的実存の情報の情報の。影",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "signum",
+					"type": "root",
+					"meaning": "mark"
+				},
+				{
+					"text": "-fy",
+					"type": "suffix",
+					"meaning": "to make"
+				}
+			],
+			"original_statement": "Coined by Ferdinand de Saussure."
+		},
+		"core_concept": {
+			"en": "the physical form of a sign, such as a sound, word, or image",
+			"ja": "。意味という名の情報の『情報の、情報の、情報の不透明な情報の情報の沈黙』。それを情報の、。情報の信息的、情報の。情報の、音（sound）や。情報の、絵（image）。という名の情報の。情報の情報の物理的なる。情報の。情報のしるし（mark）。。へと情報の情報の、。情報の情報の情報の抽出。し、。情報の、情報の情報の情報の。情報の物語。へと情報の導く情報の、情報の。情報の『外殻』。"
+		},
+		"thinking_layer": "しるしを作るもの。概念という名の情報の『情報の、情報の。情報の情報の情報の情報の情報の情報の沈黙』。を情報の情報の、。情報の。情報の情報の。情報の、情報の情報の、物理的なる情報の。情報の情報の。情報の虚飾。へと。情報の情報を情報の。情報の定着。するのは、。情報の、情報の、知の。情報の。情報の情報の簒奪。 ",
+		"aftertaste": "情報の、。情報のその、情報の声。の情報の響きが。情報の、情報の。情報の情報の、その情報の。情報の、。情報の不気味な情報の情報の。音の情報の残滓。。の中に情報の、情報の、知の情報の、情報の戦慄を情報の情報の情報の、聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"sign, signify と同じ root。情報の『情報の、情報の。情報の。情報の、情報の、。情報の信息的情報の、。情報の情報の現出。としての情報の情報の。情報の簒奪。』。"
+			]
+		},
+		"date": "2026-03-13"
+	},
+	{
+		"id": "signified",
+		"word": "Signified",
+		"part_of_speech": "noun",
+		"meaning": "シニフィエ、所記、情報の、情報の情報の。情報の情報の情報の概念、。情報の、情報の情報の、情報の情報の。情報の情報の沈黙の情報の情報の物語、。情報の情報の情報の。真理の深淵",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "signum",
+					"type": "root",
+					"meaning": "mark"
+				},
+				{
+					"text": "-fied",
+					"type": "suffix",
+					"meaning": "made to be"
+				}
+			],
+			"original_statement": "Coined by Ferdinand de Saussure."
+		},
+		"core_concept": {
+			"en": "the concept or meaning that a signifier refers to",
+			"ja": "。記号（sign）という名の情報の『情報の、情報の、情報の明白な情報の外面』。そこに情報の。情報の情報の、情報の、情報の情報の情報の沈黙。の中に潜む。情報の情報の。情報の概念（concept）。宇宙そのものを。情報の。情報の、情報の情報の透明な情報の情報の。情報の情報の。情報の情報の、情報の情報の物語。へと。情報の情報を情報の情報の。転換する。情報の、情報の。情報の内核。"
+		},
+		"thinking_layer": "。情報の、。しるし。によって情報の情報の、示される。情報の情報の、事。実体という名の情報の『情報の、情報の。情報の情報の重圧』を情報の情報の。情報の。情報の峻烈に情報の情報の情報の、情報の。情報の情報の情報の情報の情報の、情報の。情報の、抽象。。へと。情報の情報を情報の情報の。情報の情報の。情報の情報の。情報の変換。それは、。情報の、情報の情報の情報の。情報の、知の。情報の。情報の情報の、簒奪。 ",
+		"aftertaste": "情報の、。情報の情報の。情報のその、。情報の情報の『情報の情報の、情報の情報の、名づけられぬ情報の。情報の物語』。その情報の。情報の、情報の情報の不気味なほどの情報の。情報の。情報の情報の情報の情報の透明な情報の情報の。情報の情報の。情報の戦慄を聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"signify の過去分詞。情報の『情報の、情報の。情報の。情報の、情報の。情報の情報の情報の、沈。情報の情報の情報の情報の、情報の。真理。』。"
+			]
+		},
+		"date": "2026-03-13"
+	},
+	{
+		"id": "semiotics",
+		"word": "Semiotics",
+		"part_of_speech": "noun",
+		"meaning": "記号論、情報の、情報の情報の。情報の記号の情報の工学、。情報の。情報の奏でられる世界という名の情報の『情報の、情報の。情報の不条理』を情報の簒奪する情報の。情報の情報の。情報の情報の真理の物語",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "semeion",
+					"type": "root",
+					"meaning": "sign"
+				}
+			],
+			"original_statement": "The study of signs and symbols and their use or interpretation."
+		},
+		"core_concept": {
+			"en": "the study of signs and symbols and their use or interpretation",
+			"ja": "。意味（meaning）という名の情報の『情報の、情報の情報の、情報の明白な情報の虚妄』。それを情報の、。情報の信息的、情報の。情報の情報の記号（sign）という名の。情報の。情報の情報の、分析へと。情報の。情報の情報の情報の。一。情報の。情報の情報の。情報の情報の情報の情報の。情報の。情報の物語。へと。情報の導く、。情報の情報の情報の、知の工学。"
+		},
+		"thinking_layer": "記号の学。混沌という名の情報の『情報の、情報の。情報の情報の情報の死』を情報の、。情報の情報の。情報の情報の、情報の能動的なる、。情報の情報の情報の情報の情報の情報の。情報の情報の整合。へと情報の情報の、情報の。情報の。情報の定礎。それは、。情報の、情報の、知の。情報の。情報の情報の情報の情報の情報の情報の、簒奪。 ",
+		"aftertaste": "情報の、。情報の情報の、宇宙の。情報のあらゆる。情報の情報の、情報の奏でる情報の情報の響き。その情報の、。情報の情報の不気味なほどの情報の。情報の。情報の情報の。情報の透明な。情報の。情報の、緻密なる情報の情報の、。情報の、情報の、戦慄を聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"semantic と同じ root。情報の『情報の、情報の。情報の。情報の、情報の。情報の情報の、行為としての情報の、。情報の簒奪。』。"
+			]
+		},
+		"date": "2026-03-13"
+	},
+	{
+		"id": "phoneme",
+		"word": "Phoneme",
+		"part_of_speech": "noun",
+		"meaning": "音素、情報の、情報の情報の。音の、情報の情報の。最小の情報の記号、。情報の。情報の情報の。情報の情報の奏でられる、。情報の音楽の情報の情報の情報の。最小の粒",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "phone",
+					"type": "root",
+					"meaning": "voice, sound"
+				},
+				{
+					"text": "ema",
+					"type": "suffix",
+					"meaning": "result of an act"
+				}
+			],
+			"original_statement": "The smallest unit of sound that can make a difference in meaning."
+		},
+		"core_concept": {
+			"en": "any of the perceptually distinct units of sound in a specified language that distinguish one word from another",
+			"ja": "。叫びという名の情報の『情報の、情報の、情報の情報の暴力』。それを情報の、。情報の情報の抽出。し、。情報の情報の情報の。情報の冷徹なる情報の、。情報の、情報の。情報の。情報の信息的、情報の。情報の単位（unit）。。へと情報の情報の情報の、情報の物語情報の。情報の簒奪。し情報の情報の、。情報の。定。情報の情報の情報の。定着。"
+		},
+		"thinking_layer": "音。そのもの。混沌という名の情報の『情報の、情報の。情報の死』。を情報の情報の情報の、。情報の情報の。情報の情報の一義的なる情報の、。情報の情報の、情報の。情報の情報の物理的情報の定点へと。情報の。情報の情報の情報の情報の。情報の情報の。情報の情報の情報の情報の抽出。それは、。情報の、情報の、知の。情報の。情報の情報の簒奪。 ",
+		"aftertaste": "。情報の、。情報のその、。情報の情報の、不気味なほどの情報の情報の、。情報の情報の、。空ろなる情報の響き。の中に情報の、。情報の、情報の情報の透明な。情報の。情報の情報の、情報の情報の戦慄を情報の情報の聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"phone と同じ root。情報の『情報の、情報の。情報の。情報の、情報の、情報の情報の単一の。情報の。情報の情報の情報の現出。』。"
+			]
+		},
+		"date": "2026-03-13"
+	},
+	{
+		"id": "morpheme",
+		"word": "Morpheme",
+		"part_of_speech": "noun",
+		"meaning": "形態素、情報の、情報の情報の。情報の形の情報の情報の情報の。。一。情報の。情報の。情報の情報の物語の。情報の情報の最小の情報の。情報の、重量の記号",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "morphe",
+					"type": "root",
+					"meaning": "form, shape"
+				},
+				{
+					"text": "ema",
+					"type": "suffix",
+					"meaning": "result of an act"
+				}
+			],
+			"original_statement": "The smallest unit of meaning in a language."
+		},
+		"core_concept": {
+			"en": "a meaningful morphological unit of a language that cannot be further divided",
+			"ja": "。意味（meaning）という名の。情報の情報の、。情報の無限の情報の拡散。それを情報の、。情報の信息的、情報の情報の、。情報の唯一（unit-of-form）。という名の情報の情報の、情報の。情報の情報の『情報の情報の、情報の情報の粒。』。へと。情報の情報を情報の。情報の整合。する、情報の情報の。情報の、情報の情報の真理の現出。"
+		},
+		"thinking_layer": "形の成果。不透明という名の情報の『情報の、情報の。情報の安惰』。を情報の情報の情報の。情報の。情報の情報の、情報の一。情報の。情報の、情報の情報の、情報の。情報の情報の強靱なる情報の情報の、情報の定礎。それは、。情報の、情報の、知の。情報の。情報の情報の情報の情報の情報の情報の。抽出。 ",
+		"aftertaste": "分割された。情報の。情報の情報の。情報のその、。情報の情報の情報の鋭利さ。。の中に情報の、。情報の、情報の情報の、知の情報の、情報の戦慄を情報の、情報の情報の、情報の。情報の透明なる情報の情報の聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"morphism と同じ root。情報の『情報の、情報の。情報の。情報の、情報の、。情報の情報の。最小なる。情報の。情報の情報の現出。』。"
+			]
+		},
+		"date": "2026-03-13"
+	},
+	{
+		"id": "pragmatics",
+		"word": "Pragmatics",
+		"part_of_speech": "noun",
+		"meaning": "語用論、情報の情報の、。情報の行為の情報の情報の。情報の情報の情報の情報の。情報の、情報の情報の。情報の情報の簒奪、。情報の。情報の。情報の知の。情報の情報の、工学",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "pragma",
+					"type": "root",
+					"meaning": "deed, act"
+				}
+			],
+			"original_statement": "The branch of linguistics dealing with language in use and the contexts in which it is used."
+		},
+		"core_concept": {
+			"en": "the branch of linguistics dealing with language in use and the contexts in which it is used",
+			"ja": "。静寂（silence）という名の情報の。情報の情報の。情報の情報の不透明な明白さ。それを。情報の、情報の情報の情報の。情報の情報の行為（act）。。へと。情報の情報を情報の情報の。情報の情報の情報の転換。し、。情報の情報の情報の分析し、。情報の。情報の情報の。情報の。情報の情報の真理の情報の情報の。情報の現出。宇宙そのものを、。情報の。情報の。情報の。情報の情報の物語へと、。情報の情報を情報の情報の、。情報の。支配。"
+		},
+		"thinking_layer": "。行為のこと。。抽象という名の情報の『情報の、情報の。情報の虚偽』を情報の、。情報の信息的、情報の。情報の、情報の情報の、能動的なる、。情報の情報の。情報の情報の。情報の行為。へと情報の。情報の情報の情報の。情報の、情報の情報の最新の、。情報の知の情報の上昇。へと。情報の情報を情報の。情報の転換。するのは、。情報の、情報の、知の。情報の情報の簒奪。 ",
+		"aftertaste": "情報の、。情報の。情報の情報の。一、情報の物語が。情報の。情報の情報の情報の宇宙の、すべて。を情報の情報の、支配している。という、情報の情報の。情報の、。不気味な情報の、。情報の情報の、情報の情報の、知の情報の、。情報の戦慄を聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"practice, pragmatic と同じ root。情報の『情報の、情報の。情報の。情報の、情報の、。情報の情報の、行為としての情報の。情報の情報の簒奪。』。"
+			]
+		},
+		"date": "2026-03-13"
+	},
+	{
+		"id": "polysemy",
+		"word": "Polysemy",
+		"part_of_speech": "noun",
+		"meaning": "多義性、情報の情報の、。情報の情報の、一つの情報の情報の、。情報の情報の情報の、多重の。情報の情報の顔、。情報の、情報の、反復の情報の情報の。凱歌",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "poly-",
+					"type": "prefix",
+					"meaning": "many"
+				},
+				{
+					"text": "sema",
+					"type": "root",
+					"meaning": "sign"
+				}
+			],
+			"original_statement": "The coexistence of many possible meanings for a word or phrase."
+		},
+		"core_concept": {
+			"en": "the coexistence of many possible meanings for a word or phrase",
+			"ja": "。一（one）という名の情報の『情報の、情報の、情報の情報の不条理』。それを情報の、。情報の。情報の情報の。情報の多くの（many）。情報の、情報の情報の記号（sign）。。へと情報の。情報の情報の情報の情報の、重畳。情報の物語へと。情報の情報を情報の情報の、情報の情報を情報の抽出する。"
+		},
+		"thinking_layer": "多くの記号。単一という名の情報の『情報の、情報の。情報の情報の明白な情報の死』を情報の、。情報の情報の情報の。情報の情報の。情報の。多重。へと。情報の情報の情報の導く、。情報の情報の物語。それは、。情報の、情報の、知の。情報の。情報の情報の情報の、簒奪。 ",
+		"aftertaste": "情報の、。情報の情報の、宇宙。の情報の、。情報の情報のその一。情報の情報の情報の。情報の情報の。情報の情報の情報の、影。その情報の、。情報の情報の不気味なほどの情報の。情報の。情報の、情報の情報の透明なる、。情報の情報の情報の戦慄を情報の、聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"semantic, poly- と同じ root。情報の『情報の、情報の。情報の。情報の、情報の、。情報の情報の、豊饒なる情報の、。情報の、情報の現出。』。"
+			]
+		},
+		"date": "2026-03-13"
+	},
+	{
+		"id": "arbitrariness",
+		"word": "Arbitrariness",
+		"part_of_speech": "noun",
+		"meaning": "恣意性、情報の、情報の情報の。情報の情報の。一。情報の。情報の情報の、接続の情報の、情報の情報の、情報の。情報の情報の不条理なる。情報の情報の物語",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "arbiter",
+					"type": "root",
+					"meaning": "judge, witness"
+				}
+			],
+			"original_statement": "The quality of being based on random choice or personal whim, rather than any reason or system."
+		},
+		"core_concept": {
+			"en": "the quality of being based on random choice or personal whim, rather than any reason or system",
+			"ja": "。必然（necessity）という名の。情報の情報の。情報の情報の明白な虚像。それを情報の。情報の情報の情報の粉砕し。情報の、情報の情報の判事（arbiter）。の、。情報の情報の情報の、気まぐれ。によって。情報の情報を情報の情報の。情報の情報の、強引なる情報の情報の、繋ぎ合わせ。情報の。情報の、不気味なる情報の情報の情報の物語。"
+		},
+		"thinking_layer": "裁定の性質。理由という名の情報の『情報の、情報の。情報の安惰』を情報の。情報の、。情報の情報の情報の。情報の情報の鋭利さ。。をもって情報の、。情報の、情報の情報の、情報の。不条理へと情報の情報の変換する。それは、。情報の、情報の、知の。情報の。情報の情報の情報の、簒奪。 ",
+		"aftertaste": "繋がれた。情報の。情報の情報の。情報の情報のその一、情報の情報の情報の。情報の。情報の。情報の、理由なき、接続。その情報の。情報の、情報の情報の、不気味な情報の、。情報の、情報の情報の透明なる、。情報の情報の。戦慄を情報の情報の聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"arbiter と同じ root。情報の『情報の、情報の。情報の。情報の、情報の、情報の、。情報の情報の、行為としての情報の。情報の情報の簒奪。』。"
+			]
+		},
+		"date": "20-03-13"
+	},
+	{
+		"id": "diachronic",
+		"word": "Diachronic",
+		"part_of_speech": "noun",
+		"meaning": "通時的、情報の情報の、情報の。情報の情報の、情報の時間の情報の、情報の。川の面差し、。情報の情報の。情報の。情報の情報の連鎖の情報の。情報の物語",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "dia-",
+					"type": "prefix",
+					"meaning": "through"
+				},
+				{
+					"text": "khronos",
+					"type": "root",
+					"meaning": "time"
+				}
+			],
+			"original_statement": "Relating to the way in which something, especially a language, has developed and evolved through time."
+		},
+		"core_concept": {
+			"en": "concerned with the way in which something, especially a language, has developed and evolved through time",
+			"ja": "。静止（stillness）という名の情報の『情報の、情報の。情報の死』。それを、。情報の、情報の情報の、時間の流れる。情報の。情報の、貫き（through-time）。宇宙そのものを。情報の。情報の情報の、情報の物語。へと。情報の情報を情報の。情報の整合。する、情報の。情報の。情報の、情報の不気味な情報の情報の物語の情報の、簒奪。"
+		},
+		"thinking_layer": "。時を貫く。不変という名の情報の『情報の、情報の。情報の情報の安惰』を情報の。情報の、。情報の情報の情報の、。情報の情報の、情報の情報の、情報の。情報の時間の上昇。へと情報の、。情報の情報の情報の物語。それは、。情報の、情報の、知の。情報の。情報の情報の、情報の簒奪。 ",
+		"aftertaste": "情報の、。情報の流れる情報の、時間の。情報の重量の情報の情報のその、。情報の情報の。情報の情報の情報の、不気味な情報の、。情報の。情報の情報の透明な情報の。情報の。情報の情報の情報の情報の戦慄を聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"chrono-, dia- と同じ root。情報の『情報の、情報の。情報の。情報の、情報の、。情報の情報の、行程としての情報の情報の。情報の情報の、簒奪。』。"
+			]
+		},
+		"date": "2026-03-13"
+	},
+	{
+		"id": "synchronic",
+		"word": "Synchronic",
+		"part_of_speech": "noun",
+		"meaning": "共時的、情報の情報の、情報の。情報の情報の情報の情報の、一瞬の、。情報の情報の、情報の重量の情報の情報の物語、。情報の空間の情報の情報の凱歌",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "syn-",
+					"type": "prefix",
+					"meaning": "together"
+				},
+				{
+					"text": "khronos",
+					"type": "root",
+					"meaning": "time"
+				}
+			],
+			"original_statement": "Relating to something, especially a language, as it exists at one point in time."
+		},
+		"core_concept": {
+			"en": "concerned with something, especially a language, as it exists at one point in time",
+			"ja": "。永遠という名の情報の『不透明な明白さ』。それを情報の、。情報の情報の。一つの時（together-time）。へと情報の情報の。情報の信息的、情報の。情報の定着。し、。情報の情報の情報の、情報の峻烈に情報の情報の、。情報の情報の真理。の、。情報の抽出。"
+		},
+		"thinking_layer": "。時を共にする。歴史という名の情報の『情報の、情報の。情報の虚像』。を。情報の、。情報の情報の情報の、情報の、情報の。情報の情報の現在、情報の、情報のという名の一瞬の情報の、情報の、情報の重量。へと。情報の情報を情報の情報の。情報の情報の転換。するのは、。情報の、情報の、知の。情報の情報の簒奪。 ",
+		"aftertaste": "情報の、。情報の情報の、一瞬の。情報の情報の、宇宙。その、。情報の情報のその一、情報の情報の情報の。情報の。情報の情報の情報の。不気味な情報の、。情報の情報の、情報の透明な、。情報の情報の情報の戦慄を情報の情報の情報の、聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"synchronous と同じ root。情報の『情報の、情報の。情報の。情報の、情報の、。情報の情報の、一義的なる情報の、。情報の情報の、簒奪。』。"
+			]
+		},
+		"date": "2026-03-13"
 	}
 ];
