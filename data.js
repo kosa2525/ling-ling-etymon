@@ -252975,5 +252975,273 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "lascivious",
+		"word": "Lascivious",
+		"part_of_speech": "adjective",
+		"meaning": "猥らな、好色な、情欲をそそる",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "lascivus",
+					"type": "root",
+					"meaning": "playful, wanton (遊び好きな、奔放な)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin lascivus 'playful'."
+		},
+		"core_concept": {
+			"en": "(Of a person, manner, or gesture) feeling or revealing an overt and often offensive sexual desire",
+			"ja": "もとは無邪気な『遊び好き（playful）』だった性質が、タガが外れて制御不能になり、露骨な情欲や渇望を周囲に撒き散らす『奔放さ』へと変質した状態"
+		},
+		"thinking_layer": "『奔放であること』。人生を楽しみ尽くそうとする生命力が、既存の道徳や節度の枠組みを食い破って溢れ出した姿。それは不快感（offensive）を伴うこともありますが、同時に、理性では抗いがたい本能的な誘惑の力をも内包しています。",
+		"aftertaste": "むせ返るような百合の香りに包まれた、湿り気を帯びた午後の熱気。あるいは、節度ある仮面の裏側で、密かに燃え上がる危険な情熱の眼差し。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "las-",
+					"meaning": "to be eager"
+				}
+			],
+			"points": [
+				"lust, leisure（暇＝やりたいことができる時間）と同根。",
+				"『熱望する（eager）』ことが、時間のゆとり（leisure）を得ることで、極端な情動（lascivious）へと暴走する。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "voluptuous",
+		"word": "Voluptuous",
+		"part_of_speech": "adjective",
+		"meaning": "官能的な、肉感的な、贅沢な",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "voluptas",
+					"type": "root",
+					"meaning": "pleasure (喜び、快楽)",
+					"lang": "Latin"
+				},
+				{
+					"text": "volup",
+					"type": "root",
+					"meaning": "pleasurably"
+				}
+			],
+			"original_statement": "From Latin voluptas 'pleasure'."
+		},
+		"core_concept": {
+			"en": "Relating to or characterized by luxury or sensual pleasure",
+			"ja": "五感を震わせるような贅沢や、豊満で柔らかな曲線美。ただ『心地よい（pleasurablly）』だけでなく、どっぷりとその快さの中に沈み込みたくなってしまうような、圧倒的な包容力と誘惑"
+		},
+		"thinking_layer": "『喜びであること』。ボランタリー（Voluntary/自発的な）と同根。自分の意志（will）が完全に「快楽」と一致し、一切の葛藤なく悦びに身を委ねている状態。それは肉体的な美しさだけでなく、空間や音楽などが持つ、私たちを優しく「溶かす」ような質感を指します。",
+		"aftertaste": "ベルベットのクッションに深く沈み込み、極上のワインに喉を鳴らす時の、重力から解放された悦び。あるいは、豊穣な大地そのものを擬人化したような、生命感溢れる肢体の美しさ。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "wel-",
+					"meaning": "to wish, will"
+				}
+			],
+			"points": [
+				"will, wealth, benevolent（善意の＝よく願う）と同根。",
+				"何かが『欲しい（will）』という欲求が完全に満たされた状態が、『快楽（voluptuous）』の正体。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "epicurean",
+		"word": "Epicurean",
+		"part_of_speech": "adjective/noun",
+		"meaning": "快楽主義の、美食の、エピクロス派の",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "Epikouros",
+					"type": "root",
+					"meaning": "Epicurus (哲学者名)",
+					"lang": "Greek"
+				}
+			],
+			"original_statement": "From Greek Epikouros, an Athenian philosopher."
+		},
+		"core_concept": {
+			"en": "Devoted to the enjoyment of good food and comfort",
+			"ja": "単なる放蕩ではなく、静かな庭園で友と語らい、洗練された食事を楽しみ、苦痛と恐怖を遠ざけることで魂の平穏を得ようとする、知的な『快楽の探求』"
+		},
+		"thinking_layer": "『エピクロスの弟子』。今日では「美食家」の意味が強いですが、本来の教えは「肉体の苦しみがないこと、魂に動揺がないこと」を目指すストイックなものでした。激しい動揺を避け、自分にとって本当に価値のある贅沢を慎重に選び取る、審美的な知性。 ",
+		"aftertaste": "一口のパンとコップ一杯の水の中に、宇宙の調和を感じ取る静かな納得。あるいは、喧騒から離れた場所で、選び抜かれた友人とだけ過ごす時間の、純粋な結晶のような美しさ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"Epicurusの名前は『助ける者（helper）』を意味する。",
+				"『快楽』は、人生の苦難を『助ける（help）』ための、最後の、そして最も確実な薬であるという思想。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "dissolute",
+		"word": "Dissolute",
+		"part_of_speech": "adjective",
+		"meaning": "放蕩な、ふしだらな、だらしない",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "dis-",
+					"type": "prefix",
+					"meaning": "apart/asunder (バラバラに)"
+				},
+				{
+					"text": "solvere",
+					"type": "root",
+					"meaning": "to loosen (緩める)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin dissolutus 'loose', from dissolvere 'loosen'."
+		},
+		"core_concept": {
+			"en": "Lax in morals; licentious",
+			"ja": "自分を律していた論理や道徳という名の絆を『バラバラに（apart）』『緩め（loosen）』、もはや元の規律正しい形を保てなくなった、崩壊し、漂流する魂"
+		},
+		"thinking_layer": "『緩めまくること』。ソリューション（Solution/解決＝解きほぐすこと）やソルブル（Soluble/可溶性の）と同根。規律という骨組みを失い、液状化してしまった人格。それは自由であると同時に、自らを支えることができないという、深い精神的な脆弱性を孕んでいます。",
+		"aftertaste": "朝方の酒場に残る、飲み残しのワインと吸い殻の、虚しすぎる頽廃の匂い。あるいは、一度決めた約束を、何の良心の呵責もなく破ってしまう時の、砂のような乾いた身軽さ。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "leu-",
+					"meaning": "to loosen, divide"
+				}
+			],
+			"points": [
+				"lose, loose, analysis, release 同根。",
+				"『分析（analysis）』が知的な解体であるなら、『放蕩（dissolute）』は道徳的な解体である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "profligate",
+		"word": "Profligate",
+		"part_of_speech": "adjective/noun",
+		"meaning": "浪費する、放蕩な、破滅的な",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "pro-",
+					"type": "prefix",
+					"meaning": "forward/forth"
+				},
+				{
+					"text": "fligere",
+					"type": "root",
+					"meaning": "to strike (打つ)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin profligatus 'dashed down, abandoned', from pro- 'forward, down' + fligere 'to strike'."
+		},
+		"core_concept": {
+			"en": "Recklessly extravagant or wasteful in the use of resources",
+			"ja": "自らの財産や才能を、まるでもう二度と明日が来ないかのように地面へと『叩きつけ（strike down）』、徹底的に使い果たす、破滅的で豪奢な振る舞い"
+		},
+		"thinking_layer": "『叩き落とすこと』。コンフリクト（Conflict/衝突＝共に打つ）やフリクト（Afflict/苦しめる）と同根。ただの無駄遣いではなく、自分自身の「根底」を打ち砕くような、自虐的で壮大なエネルギーの無駄出し。それは未来への希望を捨てた者による、最後の派手な花火。 ",
+		"aftertaste": "燃え盛る暖炉に、高価な紙幣を次々と投げ込むような、狂気じみた愉悦。あるいは、溢れる才能を誰のためにも使わず、ただ酒と煙の中で腐らせてゆく男の、美しい絶望。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "bhlig-",
+					"meaning": "to strike"
+				}
+			],
+			"points": [
+				"afflict, conflict, flog（鞭打つ）と同根。",
+				"『打つ（strike）』という暴力性が、自分自身の『資産（resources）』に向けられた状態。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "licentious",
+		"word": "Licentious",
+		"part_of_speech": "adjective",
+		"meaning": "放縦な、不道徳な、法を無視する",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "licentia",
+					"type": "root",
+					"meaning": "freedom, license (自由、認可)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin licentia 'freedom'."
+		},
+		"core_concept": {
+			"en": "Promiscuous and unprincipled in sexual matters; disregarding accepted rules or conventions",
+			"ja": "『自由である権利（license）』を悪用し、他者の権利や公衆道徳という名の境界線を平然と無視して突き進む、身勝手で野放図な知的・道徳的な慢心"
+		},
+		"thinking_layer": "『許可されている（と勘違いしている）こと』。ライセンス（License/免許）と同根。自由を「何をしても良いこと」と解釈し、あらゆる規範を嘲笑する。それは力強さの証明であると同時に、他者と共存するための「社会契約」を破棄した、知的な野蛮。 ",
+		"aftertaste": "立入禁止の庭園へ、当然のような顔をして足を踏み入れる者の、優雅で厚かましい歩取り。あるいは、人の心の痛みを知りながら、あえてそれを踏みにじることで自分の自由を確信する、歪んだ万能感。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "leik-",
+					"meaning": "to offer, let, leave"
+				}
+			],
+			"points": [
+				"license, leisure 同根。",
+				"『許されていること（it is allowed）』を、自ら『奪い取る（take）』行為へとすり替える。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "libertine",
+		"word": "Libertine",
+		"part_of_speech": "noun/adjective",
+		"meaning": "自由思想家、放蕩者、道徳を蔑ろにする人",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "libertinus",
+					"type": "root",
+					"meaning": "freedman (解放奴隷)",
+					"lang": "Latin"
+				},
+				{
+					"text": "liber",
+					"type": "root",
+					"meaning": "free (自由な)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin libertinus 'freedman'."
+		},
+		"core_concept": {
+			"en": "A person, especially a man, who behaves without moral principles or a sense of responsibility, especially in sexual matters",
+			"ja": "奴隷の状態から『解放された（freed）』ものの、あまりにも大きな自由を前にして、既存のあらゆる道徳という名の鎖を焼き切り、自らの衝動のみを指針とするようになった、漂泊の放蕩者"
+		},
+		"thinking_layer": "『解放された人』。リバティ（Liberty/自由）と同根。もとは「自由思想家」として宗教的なドグマに抵抗する者を指しました。しかしその抵抗が極まり、いつしか「自分自身の欲望」以外の何ものにも従えなくなった、美しくも孤独なアナーキスト。 ",
+		"aftertaste": "神も法も信じない、しかし自分の退屈だけは恐れている男の、夜ごとの乱痴気騒ぎの果ての、虚ろな明け方の月。あるいは、伝統を否定し、新しい自由を叫ぶ、あまりにも若くて傲慢な横顔。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "leudh-",
+					"meaning": "to mount up, grow, belong to the people"
+				}
+			],
+			"points": [
+				"liberty, liberal, deliver（解放する）と同根。",
+				"『人々に属する（belong to people）』はずの自由が、個人の『逸脱（excess）』へと転換される。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
