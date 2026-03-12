@@ -272936,5 +272936,203 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "triduum",
+		"word": "Triduum",
+		"part_of_speech": "noun",
+		"meaning": "聖なる三日間（せいなるみっかかん）、トリドゥウム",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "tri-",
+					"type": "prefix",
+					"meaning": "three (三つ)"
+				},
+				{
+					"text": "dies",
+					"type": "root",
+					"meaning": "day (日)', from Latin"
+				}
+			],
+			"original_statement": "From Latin triduum, from tri- 'three' + dies 'day'."
+		},
+		"core_concept": {
+			"en": "A period of three days of public or private prayer",
+			"ja": "生。死。そして復活（resurrection）。三つの位相が交差し、ひとつの物語（mythos）を完成させるための『三位一体の時』。時間の奔流をせき止め、凝縮された神秘（mystery）を生き抜く、知的な『時の三連祭壇画』。"
+		},
+		"thinking_layer": "『三日間』。ダイアリー（Diary/日記）、おなじみの「トライ（三つ）」と同根。語源は「三つの日」。ただの「三日間」ではありません。そこには。「始まり、中間、終わりという宇宙の基本構造を、時間的な『単位』として神聖化する」という、峻烈な秩序への意志が宿っています。それは。知性が自らの思考のプロセスを、単なる断片（fragments）の連続ではなく、必然的な「三位一体の充足」へと昇華させようとする瞬間のメタファー。",
+		"aftertaste": "「トリドゥウム（triduum）」の静寂の中で、過去・現在・未来がひとつの線へと収束し、自分という存在が「完結した物語」の一部であることを確信する、あの知的な平安。あるいは、自分の人生もまた、この「トリドゥウム」のように、三つの大きな転機を経て、真の自己へと到達するための「聖なる周期」であるのだと悟る、あの静かな午後の自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "trei-",
+					"meaning": "three (forming tri-)"
+				},
+				{
+					"term": "dyeu-",
+					"meaning": "to shine, sky, day (forming dies)"
+				}
+			],
+			"points": [
+				"day, diary, diet（議会、食事）, meridian 同根。",
+				"『三（three）』は安定とバランスの象徴である。トリドゥウムは、生命が不安定な時間の流れから、いかにして『意味のあるひとまとまり』を切り出し、それを自らの物語の骨格（skeleton）としてきたかを示す、時の工学である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "ember",
+		"word": "Ember",
+		"part_of_speech": "noun",
+		"meaning": "四季の斎日（しきのさいじつ）、エンバー・デイズ",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "ymb-",
+					"type": "prefix",
+					"meaning": "around (周りに)', from Old English ymb"
+				},
+				{
+					"text": "ryne",
+					"type": "root",
+					"meaning": "course, running (経過、走ること)', from Old English"
+				}
+			],
+			"original_statement": "From Old English ymbryne 'period, revolution', from ymb 'around' + ryne 'run'."
+		},
+		"core_concept": {
+			"en": "Each of four sets of days of fasting and prayer in each of the four seasons",
+			"ja": "季節の『継ぎ目（seam）』を、祈りと断食（fasting）によって縫い合わせる、峻烈な『巡回する浄化』。時間の円環（cycle）が一度閉じ、新しく開き直る瞬間の、知的な『時のメンテナンス』。"
+		},
+		"thinking_layer": "『周期的な経過』。ラン（Run/走る）、アム（Am-/周囲の）と同根。語源は「周回する走り」。ただの「祭日」ではありません。そこには。「単調な時間の繰り返しに『節目（node）』を刻み、季節の変わり目という不安定なカオスを律する」という、峻烈な管理の意志が宿っています。それは。知性が自らの情熱の「澱（よど）み」を、定期的な自己点検によって洗い流し、常に新しい季節を迎える準備を整える瞬間のメタファー。",
+		"aftertaste": "「エンバー（ember）」という言葉が持つ、『残り火』という別の意味（火の粉）を想起しながら、季節の去り際に残された「最後の熱」を慈しみ、次の実りへと繋いでゆく時間の「重厚なバトン」を想う、あの知的な平安。あるいは、自分の思考もまた、この「エンバー」のように、激動する外部の環境に左右されず、常に自分自身の「内なるリズム」を守り通していることを誇る、あの静かな夜の自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ambhi-",
+					"meaning": "around (forming ymb)"
+				},
+				{
+					"term": "rei-",
+					"meaning": "to run, flow (forming ryne)"
+				}
+			],
+			"points": [
+				"run, river, rhythm, amber（？） 同根。",
+				"『走る（running）』ことが、一定の『円（around）』を描くことで秩序（order）に変わる。エンバーという言葉には、生命が時間の線形的な恐怖（死への疾走）を、いかにして円環的な安心（永劫回帰）へと翻訳してきたかという、生存の希望が封じられている。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "rogation",
+		"word": "Rogation",
+		"part_of_speech": "noun",
+		"meaning": "祈願日、ロガシオン、連祷の祈り",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "rogare",
+					"type": "root",
+					"meaning": "to ask, beseech (求める、懇願する)', from Latin"
+				}
+			],
+			"original_statement": "From Latin rogatio, from rogare 'ask'."
+		},
+		"core_concept": {
+			"en": "A litany said or sung in procession, especially on Rogation Days for the protection of crops",
+			"ja": "枯渇（depletion）への恐怖から立ち上がり、豊穣を求めて大地に跪（ひざまず）く、峻烈な『懇願の連なり（litany）』。自らの無力さを認めつつ、世界という巨大なシステムに介入しようとする、知的な『祈りの技術』。"
+		},
+		"thinking_layer": "『求めること』。インタロゲート（Interrogate/尋問する）、デロゲート（Derogate/権威を落とす）、おなじみの「アロガント（Arrogant/傲慢な＝自らに求める）」と同根。語源は「乞うこと」。ただの「お願い」ではありません。そこには。「自分たちの生存基盤（大地の恵み）が、いかに不確実な『偶然』に左右されているかを直視し、それを『意思』によって繋ぎ止めようとする」という、切実な防衛の響きが宿っています。それは。知性が不確実な未来に対し、ただ「待つ」のではなく、自らの言葉（prayer）という名の力を投げ込み、幸運（grace）を引き寄せようとする格闘。 ",
+		"aftertaste": "春の野を歩きながら唱えられる「ロガシオン（rogation）」の低い声の響きに、人間がいかに弱く、それゆえにいかに「結束（solidarity）」という名の武器を研ぎ澄ませてきたかを知り、深い共感を覚える、あの知的な平安。あるいは、自分の言葉もまた、この「ロガシオン」のように、誰かの空虚を満たすための「切実な問いかけ」となり、沈黙する宇宙から確かな「返答（answer）」を引き出すものでありたい、と願う、あの静かな午後の自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "reg-",
+					"meaning": "to move in a straight line, direct (forming rogare - to reach out for?)"
+				}
+			],
+			"points": [
+				"right, direct, correct, urgent, arrogance 同根。",
+				"『手を伸ばす（reaching out）』ことが、祈りの原初的な形態である。ロガシオンは、生命がいかにして自らの欲求を、単なる『暴力』ではなく、他者（あるいは神）との『対話（asking）』へと昇華させてきたかを示す、文明的なマナーの起源である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "octave",
+		"word": "Octave",
+		"part_of_speech": "noun",
+		"meaning": "オクターブ、八日間（の祝祭期間）",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "octo",
+					"type": "root",
+					"meaning": "eight (八つ)', from Latin"
+				}
+			],
+			"original_statement": "From Latin octavus 'eighth'."
+		},
+		"core_concept": {
+			"en": "The eight-day period following a major feast in the church, reinforcing its spiritual resonance",
+			"ja": "一瞬の輝き（feast）を、八日間の『反響（resonance）』へと引き延ばし、日常を神聖さで塗り替える、知的な『時間の拡大鏡』。終わりの日が再び始まりの日と重なり、螺旋（helix）状に上昇してゆく、時の峻烈な『円熟』。"
+		},
+		"thinking_layer": "『八番目のもの』。オクトパス（Octopus/タコ＝八本足）、オクトーバー（October/十月＝もとは八番目の月）、おなじみの「オクターブ（音階）」と同根。語源は「八」。ただの「八日間」ではありません。そこには。「強烈な認識（epiphany）が、単なる一回性のイベントに終わることを拒み、細胞の隅々にまで染み透るための『再加熱（reheating）』」という、徹底した定着の意志が宿っています。それは。知性が得たばかりの「真理」を、日常生活という名の濁流に流されないよう、一週間かけて大切に根付かせてゆくプロセスのメタファー。",
+		"aftertaste": "祝祭（celebration）の翌日も、またその翌日も、この「オクターブ（octave）」という名の静かな余韻が自分を支えていることに気づき、喜びとは「一瞬」ではなく「持続（duration）」の中にこそ本質があるのだと悟る、あの知的な平安。あるいは、自分の思考もまた、この「オクターブ」のように、一時の閃きに満足せず、それを何度も反芻（rumination）し、より深い智慧へと醸造してゆく「根気強い誠実さ」を備えていたい、と願う、あの静かな夜の自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "okto-",
+					"meaning": "eight (forming octo)"
+				}
+			],
+			"points": [
+				"octopus, octane, octothorpe, October 同根。",
+				"『八（eight）』は完全性を超えた『新しい始まり』を象徴する。一週間（七日）という周期にプラス一することで生まれるオクターブは、生命が単なる循環（repetition）から脱却し、いかにして『成長（ascent）』という新しい次元を獲得してきたかを示す、数理的な福音である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "indiction",
+		"word": "Indiction",
+		"part_of_speech": "noun",
+		"meaning": "インディクティオ、十五年紀、(古代ローマの)徴税期",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "in-",
+					"type": "prefix",
+					"meaning": "into, toward (〜の中に、〜に向けて)"
+				},
+				{
+					"text": "dicere",
+					"type": "root",
+					"meaning": "to say, proclaim (言う、宣言する)', from Latin"
+				}
+			],
+			"original_statement": "From Latin indictionem, from indicere 'proclaim'."
+		},
+		"core_concept": {
+			"en": "A cycle of fifteen years used in ancient Rome and in the Middle Ages for dating",
+			"ja": "広大すぎる歴史の平野に、十五年という『重厚な杭（stake）』を打ち込み、時間を測量可能なものへと変える、知的な『大地の宣言』。混乱する記憶を、峻烈な数字（number）という鎖で繋ぎ止める、壮大な『時の支配術』。"
+		},
+		"thinking_layer": "『〜に向けて言うこと、宣言すること』。ディクション（Diction/言葉遣い）、インタロゲート（Interrogate/尋問する）、おなじみの「インデックス（Index/指針）」と同根。語源は「（徴税の）宣告」。ただの「周期」ではありません。そこには。「気まぐれな時間の流れを、強制的な『法（law）』によって統制し、文明の予測可能性（predictability）を極限まで高める」という、峻烈な政治的意志が宿っています。それは。知性が自らの混沌とした経験を、一貫した「時代の区分（epoch）」として定義し、自分の位置を歴史の座標軸の上に確定させようとする瞬間のメタファー。",
+		"aftertaste": "「インディクション（indiction）」という名の大きな歯車が、ゆっくりと重々しく十五年の歳月を回し切る様子を想い、自分という短い一生もまた、このような「宇宙的な規模のシステム」の一部として、正確に刻まれていることに畏怖と安堵を覚える、あの知的な平安。あるいは、自分の思考もまた、この「インディクション」のように、目先の変化に惑わされず、長期的な「大きな流れ（vision）」を冷徹に見定め、揺るぎない確信を持って一歩を踏み出すものでありたい、と願う、あの静かな午後の自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "deik-",
+					"meaning": "to show, point out (forming dicere)"
+				}
+			],
+			"points": [
+				"judge, dictate, condition, verdict, indiction 同根。",
+				"『言う（saying）』ことは『分ける（dividing）』ことである。宣言によって時間を区切ることは、カオスからの『主権の奪還』に他ならない。インディクション（indiction）という言葉には、人間がいかにして『言葉』によって、非凡な時間を平凡な秩序へと手懐けてきたかという、知性の勝利が刻まれている。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
